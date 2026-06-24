@@ -1,14 +1,14 @@
 ---
-arabic_ayat: مَتَاعٌ قَلِيۡلٌ ثُمَّ مَاۡوٰٮهُمۡ جَهَنَّمُ​ؕ وَ بِئۡسَ الۡمِهَادُ‏
+arabic_ayat: مَتَٰعٞ قَلِيلٞ ثُمَّ مَأۡوَىٰهُمۡ جَهَنَّمُۖ وَبِئۡسَ ٱلۡمِهَادُ
 sentence_translation: It is only a brief enjoyment. Then Hell will be their home—what
   an evil place to rest!
 word_by_word:
   1:
-    arabic: مَتَاعٌ
+    arabic: مَتَٰعٞ
     translation: An enjoyment
     transliteration: matāʿun
   2:
-    arabic: قَلِيۡلٌ
+    arabic: قَلِيلٞ
     translation: little
     transliteration: qalīlun
   3:
@@ -16,19 +16,19 @@ word_by_word:
     translation: then
     transliteration: thumma
   4:
-    arabic: مَاۡوٰٮهُمۡ
+    arabic: مَأۡوَىٰهُمۡ
     translation: their abode
     transliteration: mawāhum
   5:
-    arabic: جَهَنَّمُ​ؕ
+    arabic: جَهَنَّمُۖ
     translation: '(is) hell '
     transliteration: jahannamu
   6:
-    arabic: وَ بِئۡسَ
+    arabic: وَبِئۡسَ
     translation: '[and] a wretched'
     transliteration: wabi'sa
   7:
-    arabic: الۡمِهَادُ‏
+    arabic: ٱلۡمِهَادُ
     translation: '[the] resting place'
     transliteration: l-mihādu
 ---

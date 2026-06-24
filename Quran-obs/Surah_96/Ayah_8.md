@@ -1,13 +1,13 @@
 ---
-arabic_ayat: اِنَّ اِلٰى رَبِّكَ الرُّجۡعٰىؕ‏
+arabic_ayat: إِنَّ إِلَىٰ رَبِّكَ ٱلرُّجۡعَىٰٓ
 sentence_translation: ˹But˺ surely to your Lord is the return ˹of all˺.
 word_by_word:
   1:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   2:
-    arabic: اِلٰى
+    arabic: إِلَىٰ
     translation: to
     transliteration: ilā
   3:
@@ -15,7 +15,7 @@ word_by_word:
     translation: your Lord
     transliteration: rabbika
   4:
-    arabic: الرُّجۡعٰىؕ‏
+    arabic: ٱلرُّجۡعَىٰٓ
     translation: (is) the return
     transliteration: l-ruj'ʿā
 ---

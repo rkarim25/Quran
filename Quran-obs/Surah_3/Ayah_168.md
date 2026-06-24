@@ -1,24 +1,24 @@
 ---
-arabic_ayat: اَلَّذِيۡنَ قَالُوۡا لِاِخۡوَانِهِمۡ وَقَعَدُوۡا لَوۡ اَطَاعُوۡنَا مَا
-  قُتِلُوۡا ​ؕ قُلۡ فَادۡرَءُوۡا عَنۡ اَنۡفُسِكُمُ الۡمَوۡتَ اِنۡ كُنۡتُمۡ صٰدِقِيۡنَ‏
+arabic_ayat: ٱلَّذِينَ قَالُواْ لِإِخۡوَٰنِهِمۡ وَقَعَدُواْ لَوۡ أَطَاعُونَا مَا قُتِلُواْۗ
+  قُلۡ فَٱدۡرَءُواْ عَنۡ أَنفُسِكُمُ ٱلۡمَوۡتَ إِن كُنتُمۡ صَٰدِقِينَ
 sentence_translation: Those who sat at home, saying about their brothers, “Had they
   listened to us, they would not have been killed.” Say, ˹O Prophet,˺ “Try not to
   die if what you say is true!”
 word_by_word:
   1:
-    arabic: اَلَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: Those who
     transliteration: alladhīna
   2:
-    arabic: قَالُوۡا
+    arabic: قَالُواْ
     translation: said
     transliteration: qālū
   3:
-    arabic: لِاِخۡوَانِهِمۡ
+    arabic: لِإِخۡوَٰنِهِمۡ
     translation: about their brothers
     transliteration: li-ikh'wānihim
   4:
-    arabic: وَقَعَدُوۡا
+    arabic: وَقَعَدُواْ
     translation: while they sat
     transliteration: waqaʿadū
   5:
@@ -26,7 +26,7 @@ word_by_word:
     translation: If
     transliteration: law
   6:
-    arabic: اَطَاعُوۡنَا
+    arabic: أَطَاعُونَا
     translation: they (had) obeyed us
     transliteration: aṭāʿūnā
   7:
@@ -34,7 +34,7 @@ word_by_word:
     translation: not
     transliteration: mā
   8:
-    arabic: قُتِلُوۡا ​ؕ
+    arabic: قُتِلُواْۗ
     translation: they would have been killed
     transliteration: qutilū
   9:
@@ -42,7 +42,7 @@ word_by_word:
     translation: Say
     transliteration: qul
   10:
-    arabic: فَادۡرَءُوۡا
+    arabic: فَٱدۡرَءُواْ
     translation: Then avert
     transliteration: fa-id'raū
   11:
@@ -50,23 +50,23 @@ word_by_word:
     translation: from
     transliteration: ʿan
   12:
-    arabic: اَنۡفُسِكُمُ
+    arabic: أَنفُسِكُمُ
     translation: yourselves
     transliteration: anfusikumu
   13:
-    arabic: الۡمَوۡتَ
+    arabic: ٱلۡمَوۡتَ
     translation: '[the] death'
     transliteration: l-mawta
   14:
-    arabic: اِنۡ
+    arabic: إِن
     translation: if
     transliteration: in
   15:
-    arabic: كُنۡتُمۡ
+    arabic: كُنتُمۡ
     translation: you are
     transliteration: kuntum
   16:
-    arabic: صٰدِقِيۡنَ‏
+    arabic: صَٰدِقِينَ
     translation: truthful
     transliteration: ṣādiqīna
 ---

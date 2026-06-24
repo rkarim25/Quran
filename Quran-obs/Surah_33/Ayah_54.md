@@ -1,35 +1,35 @@
 ---
-arabic_ayat: اِنۡ تُبۡدُوۡا شَيۡـــًٔا اَوۡ تُخۡفُوۡهُ فَاِنَّ اللّٰهَ كَانَ بِكُلِّ
-  شَىۡءٍ عَلِيۡمًا‏
+arabic_ayat: إِن تُبۡدُواْ شَيۡـًٔا أَوۡ تُخۡفُوهُ فَإِنَّ ٱللَّهَ كَانَ بِكُلِّ شَيۡءٍ
+  عَلِيمٗا
 sentence_translation: Whether you reveal something or conceal it, surely Allah has
   ˹perfect˺ knowledge of all things.
 word_by_word:
   1:
-    arabic: اِنۡ
+    arabic: إِن
     translation: Whether
     transliteration: in
   2:
-    arabic: تُبۡدُوۡا
+    arabic: تُبۡدُواْ
     translation: you reveal
     transliteration: tub'dū
   3:
-    arabic: شَيۡـــًٔا
+    arabic: شَيۡـًٔا
     translation: a thing
     transliteration: shayan
   4:
-    arabic: اَوۡ
+    arabic: أَوۡ
     translation: or
     transliteration: aw
   5:
-    arabic: تُخۡفُوۡهُ
+    arabic: تُخۡفُوهُ
     translation: conceal it
     transliteration: tukh'fūhu
   6:
-    arabic: فَاِنَّ
+    arabic: فَإِنَّ
     translation: indeed
     transliteration: fa-inna
   7:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   8:
@@ -41,11 +41,11 @@ word_by_word:
     translation: of all
     transliteration: bikulli
   10:
-    arabic: شَىۡءٍ
+    arabic: شَيۡءٍ
     translation: things
     transliteration: shayin
   11:
-    arabic: عَلِيۡمًا‏
+    arabic: عَلِيمٗا
     translation: All-Knower
     transliteration: ʿalīman
 ---

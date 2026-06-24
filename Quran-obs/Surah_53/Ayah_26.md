@@ -1,28 +1,28 @@
 ---
-arabic_ayat: وَكَمۡ مِّنۡ مَّلَكٍ فِى السَّمٰوٰتِ لَا تُغۡنِىۡ شَفَاعَتُهُمۡ شَيۡــًٔــا
-  اِلَّا مِنۡۢ بَعۡدِ اَنۡ يَّاۡذَنَ اللّٰهُ لِمَنۡ يَّشَآءُ وَيَرۡضٰى‏
+arabic_ayat: ۞ وَكَم مِّن مَّلَكٖ فِي ٱلسَّمَٰوَٰتِ لَا تُغۡنِي شَفَٰعَتُهُمۡ شَيۡـًٔا
+  إِلَّا مِنۢ بَعۡدِ أَن يَأۡذَنَ ٱللَّهُ لِمَن يَشَآءُ وَيَرۡضَىٰٓ
 sentence_translation: ˹Imagine˺ how many ˹noble˺ angels are in the heavens! ˹Even˺
   their intercession would be of no benefit whatsoever, until Allah gives permission
   to whoever He wills and ˹only for the people He˺ approves.
 word_by_word:
   1:
-    arabic: ۞ وَكَمۡ
+    arabic: ۞ وَكَم
     translation: And how many
     transliteration: wakam
   2:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: of
     transliteration: min
   3:
-    arabic: مَّلَكٍ
+    arabic: مَّلَكٖ
     translation: (the) Angels
     transliteration: malakin
   4:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   5:
-    arabic: السَّمٰوٰتِ
+    arabic: ٱلسَّمَٰوَٰتِ
     translation: the heavens
     transliteration: l-samāwāti
   6:
@@ -30,23 +30,23 @@ word_by_word:
     translation: not
     transliteration: lā
   7:
-    arabic: تُغۡنِىۡ
+    arabic: تُغۡنِي
     translation: will avail
     transliteration: tugh'nī
   8:
-    arabic: شَفَاعَتُهُمۡ
+    arabic: شَفَٰعَتُهُمۡ
     translation: their intercession
     transliteration: shafāʿatuhum
   9:
-    arabic: شَيۡــًٔــا
+    arabic: شَيۡـًٔا
     translation: anything
     transliteration: shayan
   10:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   11:
-    arabic: مِنۡۢ
+    arabic: مِنۢ
     translation: after
     transliteration: min
   12:
@@ -54,27 +54,27 @@ word_by_word:
     translation: after
     transliteration: baʿdi
   13:
-    arabic: اَنۡ
+    arabic: أَن
     translation: '[that]'
     transliteration: an
   14:
-    arabic: يَّاۡذَنَ
+    arabic: يَأۡذَنَ
     translation: Allah has given permission
     transliteration: yadhana
   15:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah has given permission
     transliteration: l-lahu
   16:
-    arabic: لِمَنۡ
+    arabic: لِمَن
     translation: for whom
     transliteration: liman
   17:
-    arabic: يَّشَآءُ
+    arabic: يَشَآءُ
     translation: He wills
     transliteration: yashāu
   18:
-    arabic: وَيَرۡضٰى‏
+    arabic: وَيَرۡضَىٰٓ
     translation: and approves
     transliteration: wayarḍā
 ---

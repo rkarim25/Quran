@@ -1,15 +1,14 @@
 ---
-arabic_ayat: "وَاِنَّهُمۡ لَيَصُدُّوۡنَهُمۡ عَنِ السَّبِيۡلِ وَيَحۡسَبُوۡنَ اَنَّهُمۡ\
-  \ مُّهۡتَدُوۡنَ‏ \uFEFF\uFEFF"
+arabic_ayat: وَإِنَّهُمۡ لَيَصُدُّونَهُمۡ عَنِ ٱلسَّبِيلِ وَيَحۡسَبُونَ أَنَّهُم مُّهۡتَدُونَ
 sentence_translation: who will certainly hinder them from the ˹Right˺ Way while they
   think they are ˹rightly˺ guided.
 word_by_word:
   1:
-    arabic: وَاِنَّهُمۡ
+    arabic: وَإِنَّهُمۡ
     translation: And indeed, they
     transliteration: wa-innahum
   2:
-    arabic: لَيَصُدُّوۡنَهُمۡ
+    arabic: لَيَصُدُّونَهُمۡ
     translation: surely, turn them
     transliteration: layaṣuddūnahum
   3:
@@ -17,19 +16,19 @@ word_by_word:
     translation: from
     transliteration: ʿani
   4:
-    arabic: السَّبِيۡلِ
+    arabic: ٱلسَّبِيلِ
     translation: the Path
     transliteration: l-sabīli
   5:
-    arabic: وَيَحۡسَبُوۡنَ
+    arabic: وَيَحۡسَبُونَ
     translation: and they think
     transliteration: wayaḥsabūna
   6:
-    arabic: اَنَّهُمۡ
+    arabic: أَنَّهُم
     translation: that they
     transliteration: annahum
   7:
-    arabic: "مُّهۡتَدُوۡنَ‏ \uFEFF\uFEFF"
+    arabic: مُّهۡتَدُونَ
     translation: (are) guided
     transliteration: muh'tadūna
 ---

@@ -1,17 +1,17 @@
 ---
-arabic_ayat: حَتّٰٓى اَتٰٮنَا الۡيَقِيۡنُؕ‏
+arabic_ayat: حَتَّىٰٓ أَتَىٰنَا ٱلۡيَقِينُ
 sentence_translation: until the inevitable came to us.”
 word_by_word:
   1:
-    arabic: حَتّٰٓى
+    arabic: حَتَّىٰٓ
     translation: Until
     transliteration: ḥattā
   2:
-    arabic: اَتٰٮنَا
+    arabic: أَتَىٰنَا
     translation: came to us
     transliteration: atānā
   3:
-    arabic: الۡيَقِيۡنُؕ‏
+    arabic: ٱلۡيَقِينُ
     translation: the certainty
     transliteration: l-yaqīnu
 ---

@@ -1,12 +1,12 @@
 ---
-arabic_ayat: قُلْ لَّوۡ كَانَ الۡبَحۡرُ مِدَادًا لِّـكَلِمٰتِ رَبِّىۡ لَـنَفِدَ الۡبَحۡرُ
-  قَبۡلَ اَنۡ تَـنۡفَدَ كَلِمٰتُ رَبِّىۡ وَلَوۡ جِئۡنَا بِمِثۡلِهٖ مَدَدًا‏
+arabic_ayat: قُل لَّوۡ كَانَ ٱلۡبَحۡرُ مِدَادٗا لِّكَلِمَٰتِ رَبِّي لَنَفِدَ ٱلۡبَحۡرُ
+  قَبۡلَ أَن تَنفَدَ كَلِمَٰتُ رَبِّي وَلَوۡ جِئۡنَا بِمِثۡلِهِۦ مَدَدٗا
 sentence_translation: Say, ˹O Prophet,˺ “If the ocean were ink for ˹writing˺ the Words
   of my Lord, it would certainly run out before the Words of my Lord were finished,
   even if We refilled it with its equal.”        
 word_by_word:
   1:
-    arabic: قُلْ
+    arabic: قُل
     translation: Say
     transliteration: qul
   2:
@@ -18,27 +18,27 @@ word_by_word:
     translation: were
     transliteration: kāna
   4:
-    arabic: الۡبَحۡرُ
+    arabic: ٱلۡبَحۡرُ
     translation: the sea
     transliteration: l-baḥru
   5:
-    arabic: مِدَادًا
+    arabic: مِدَادٗا
     translation: ink
     transliteration: midādan
   6:
-    arabic: لِّـكَلِمٰتِ
+    arabic: لِّكَلِمَٰتِ
     translation: for (the) Words
     transliteration: likalimāti
   7:
-    arabic: رَبِّىۡ
+    arabic: رَبِّي
     translation: (of) my Lord
     transliteration: rabbī
   8:
-    arabic: لَـنَفِدَ
+    arabic: لَنَفِدَ
     translation: surely (would be) exhausted
     transliteration: lanafida
   9:
-    arabic: الۡبَحۡرُ
+    arabic: ٱلۡبَحۡرُ
     translation: the sea
     transliteration: l-baḥru
   10:
@@ -46,19 +46,19 @@ word_by_word:
     translation: before
     transliteration: qabla
   11:
-    arabic: اَنۡ
+    arabic: أَن
     translation: '[that]'
     transliteration: an
   12:
-    arabic: تَـنۡفَدَ
+    arabic: تَنفَدَ
     translation: (were) exhausted
     transliteration: tanfada
   13:
-    arabic: كَلِمٰتُ
+    arabic: كَلِمَٰتُ
     translation: (the) Words
     transliteration: kalimātu
   14:
-    arabic: رَبِّىۡ
+    arabic: رَبِّي
     translation: (of) my Lord
     transliteration: rabbī
   15:
@@ -70,11 +70,11 @@ word_by_word:
     translation: We brought
     transliteration: ji'nā
   17:
-    arabic: بِمِثۡلِهٖ
+    arabic: بِمِثۡلِهِۦ
     translation: (the) like (of) it
     transliteration: bimith'lihi
   18:
-    arabic: مَدَدًا‏
+    arabic: مَدَدٗا
     translation: (as) a supplement
     transliteration: madadan
 ---

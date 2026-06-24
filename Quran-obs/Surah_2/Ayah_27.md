@@ -1,17 +1,17 @@
 ---
-arabic_ayat: الَّذِيۡنَ يَنۡقُضُوۡنَ عَهۡدَ اللّٰهِ مِنۡۢ بَعۡدِ مِيۡثَاقِهٖ وَيَقۡطَعُوۡنَ
-  مَآ اَمَرَ اللّٰهُ بِهٖۤ اَنۡ يُّوۡصَلَ وَيُفۡسِدُوۡنَ فِى الۡاَرۡضِ​ؕ اُولٰٓٮِٕكَ
-  هُمُ الۡخٰسِرُوۡنَ‏
+arabic_ayat: ٱلَّذِينَ يَنقُضُونَ عَهۡدَ ٱللَّهِ مِنۢ بَعۡدِ مِيثَٰقِهِۦ وَيَقۡطَعُونَ
+  مَآ أَمَرَ ٱللَّهُ بِهِۦٓ أَن يُوصَلَ وَيُفۡسِدُونَ فِي ٱلۡأَرۡضِۚ أُوْلَٰٓئِكَ
+  هُمُ ٱلۡخَٰسِرُونَ
 sentence_translation: those who violate Allah’s covenant after it has been affirmed,
   break whatever ˹ties˺ Allah has ordered to be maintained, and spread corruption
   in the land. It is they who are the ˹true˺ losers.
 word_by_word:
   1:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: Those who
     transliteration: alladhīna
   2:
-    arabic: يَنۡقُضُوۡنَ
+    arabic: يَنقُضُونَ
     translation: break
     transliteration: yanquḍūna
   3:
@@ -19,11 +19,11 @@ word_by_word:
     translation: (the) Covenant
     transliteration: ʿahda
   4:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (of) Allah
     transliteration: l-lahi
   5:
-    arabic: مِنۡۢ
+    arabic: مِنۢ
     translation: from
     transliteration: min
   6:
@@ -31,11 +31,11 @@ word_by_word:
     translation: after
     transliteration: baʿdi
   7:
-    arabic: مِيۡثَاقِهٖ
+    arabic: مِيثَٰقِهِۦ
     translation: its ratification
     transliteration: mīthāqihi
   8:
-    arabic: وَيَقۡطَعُوۡنَ
+    arabic: وَيَقۡطَعُونَ
     translation: and [they] cut
     transliteration: wayaqṭaʿūna
   9:
@@ -43,39 +43,39 @@ word_by_word:
     translation: what
     transliteration: mā
   10:
-    arabic: اَمَرَ
+    arabic: أَمَرَ
     translation: has ordered
     transliteration: amara
   11:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   12:
-    arabic: بِهٖۤ
+    arabic: بِهِۦٓ
     translation: it
     transliteration: bihi
   13:
-    arabic: اَنۡ
+    arabic: أَن
     translation: to
     transliteration: an
   14:
-    arabic: يُّوۡصَلَ
+    arabic: يُوصَلَ
     translation: be joined
     transliteration: yūṣala
   15:
-    arabic: وَيُفۡسِدُوۡنَ
+    arabic: وَيُفۡسِدُونَ
     translation: and [they] spread corruption
     transliteration: wayuf'sidūna
   16:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   17:
-    arabic: الۡاَرۡضِ​ؕ
+    arabic: ٱلۡأَرۡضِۚ
     translation: the earth
     transliteration: l-arḍi
   18:
-    arabic: اُولٰٓٮِٕكَ
+    arabic: أُوْلَٰٓئِكَ
     translation: Those
     transliteration: ulāika
   19:
@@ -83,7 +83,7 @@ word_by_word:
     translation: they
     transliteration: humu
   20:
-    arabic: الۡخٰسِرُوۡنَ‏
+    arabic: ٱلۡخَٰسِرُونَ
     translation: (are) the losers
     transliteration: l-khāsirūna
 ---

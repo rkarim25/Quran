@@ -1,5 +1,5 @@
 ---
-arabic_ayat: فَسَبِّحۡ بِاسۡمِ رَبِّكَ الۡعَظِيۡمِ‏
+arabic_ayat: فَسَبِّحۡ بِٱسۡمِ رَبِّكَ ٱلۡعَظِيمِ
 sentence_translation: So glorify the Name of your Lord, the Greatest.
 word_by_word:
   1:
@@ -7,7 +7,7 @@ word_by_word:
     translation: So glorify
     transliteration: fasabbiḥ
   2:
-    arabic: بِاسۡمِ
+    arabic: بِٱسۡمِ
     translation: (the) name
     transliteration: bi-is'mi
   3:
@@ -15,7 +15,7 @@ word_by_word:
     translation: (of) your Lord
     transliteration: rabbika
   4:
-    arabic: الۡعَظِيۡمِ‏
+    arabic: ٱلۡعَظِيمِ
     translation: the Most Great
     transliteration: l-ʿaẓīmi
 ---

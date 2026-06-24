@@ -1,22 +1,22 @@
 ---
-arabic_ayat: اِنَّا جَعَلۡنٰهُ قُرۡءٰنًا عَرَبِيًّا لَّعَلَّكُمۡ تَعۡقِلُوۡنَ​ۚ‏
+arabic_ayat: إِنَّا جَعَلۡنَٰهُ قُرۡءَٰنًا عَرَبِيّٗا لَّعَلَّكُمۡ تَعۡقِلُونَ
 sentence_translation: Certainly, We have made it a Quran in Arabic so perhaps you
   will understand.
 word_by_word:
   1:
-    arabic: اِنَّا
+    arabic: إِنَّا
     translation: Indeed, We
     transliteration: innā
   2:
-    arabic: جَعَلۡنٰهُ
+    arabic: جَعَلۡنَٰهُ
     translation: (have) made it
     transliteration: jaʿalnāhu
   3:
-    arabic: قُرۡءٰنًا
+    arabic: قُرۡءَٰنًا
     translation: a Quran
     transliteration: qur'ānan
   4:
-    arabic: عَرَبِيًّا
+    arabic: عَرَبِيّٗا
     translation: (in) Arabic
     transliteration: ʿarabiyyan
   5:
@@ -24,7 +24,7 @@ word_by_word:
     translation: so that you may
     transliteration: laʿallakum
   6:
-    arabic: تَعۡقِلُوۡنَ​ۚ‏
+    arabic: تَعۡقِلُونَ
     translation: understand
     transliteration: taʿqilūna
 ---

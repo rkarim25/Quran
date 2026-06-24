@@ -1,18 +1,17 @@
 ---
-arabic_ayat: وَمَاۤ اَهۡلَكۡنَا مِنۡ قَرۡيَةٍ اِلَّا لَهَا مُنۡذِرُوۡنَ​​​​​ ۛ ​ۖ
-  ‏
+arabic_ayat: وَمَآ أَهۡلَكۡنَا مِن قَرۡيَةٍ إِلَّا لَهَا مُنذِرُونَ
 sentence_translation: We have never destroyed a society without warners
 word_by_word:
   1:
-    arabic: وَمَاۤ
+    arabic: وَمَآ
     translation: And not
     transliteration: wamā
   2:
-    arabic: اَهۡلَكۡنَا
+    arabic: أَهۡلَكۡنَا
     translation: We destroyed
     transliteration: ahlaknā
   3:
-    arabic: مِنۡ
+    arabic: مِن
     translation: any
     transliteration: min
   4:
@@ -20,7 +19,7 @@ word_by_word:
     translation: town
     transliteration: qaryatin
   5:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: but
     transliteration: illā
   6:
@@ -28,7 +27,7 @@ word_by_word:
     translation: it had
     transliteration: lahā
   7:
-    arabic: مُنۡذِرُوۡنَ​​​​​ ۛ ​ۖ ‏
+    arabic: مُنذِرُونَ
     translation: warners
     transliteration: mundhirūna
 ---

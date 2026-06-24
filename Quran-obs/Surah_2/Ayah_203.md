@@ -1,34 +1,34 @@
 ---
-arabic_ayat: وَاذۡكُرُوا اللّٰهَ فِىۡٓ اَيَّامٍ مَّعۡدُوۡدٰتٍ​ؕ فَمَنۡ تَعَجَّلَ فِىۡ
-  يَوۡمَيۡنِ فَلَاۤ اِثۡمَ عَلَيۡهِ ۚ وَمَنۡ تَاَخَّرَ فَلَاۤ اِثۡمَ عَلَيۡه​ِ ۙ لِمَنِ
-  اتَّقٰى ؕ وَاتَّقُوا اللّٰهَ وَاعۡلَمُوۡٓا اَنَّکُمۡ اِلَيۡهِ تُحۡشَرُوۡنَ‏
+arabic_ayat: ۞ وَٱذۡكُرُواْ ٱللَّهَ فِيٓ أَيَّامٖ مَّعۡدُودَٰتٖۚ فَمَن تَعَجَّلَ فِي
+  يَوۡمَيۡنِ فَلَآ إِثۡمَ عَلَيۡهِ وَمَن تَأَخَّرَ فَلَآ إِثۡمَ عَلَيۡهِۖ لِمَنِ
+  ٱتَّقَىٰۗ وَٱتَّقُواْ ٱللَّهَ وَٱعۡلَمُوٓاْ أَنَّكُمۡ إِلَيۡهِ تُحۡشَرُونَ
 sentence_translation: And remember Allah during ˹these˺ appointed days. Whoever departs
   swiftly on the second day is not sinful, neither are those who stay behind ˹till
   the third—seeking additional reward˺, so long as they are mindful ˹of their Lord˺.
   And be mindful of Allah, and know that to Him you will ˹all˺ be gathered.
 word_by_word:
   1:
-    arabic: ۞ وَاذۡكُرُوا
+    arabic: ۞ وَٱذۡكُرُواْ
     translation: And remember
     transliteration: wa-udh'kurū
   2:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   3:
-    arabic: فِىۡٓ
+    arabic: فِيٓ
     translation: during
     transliteration: fī
   4:
-    arabic: اَيَّامٍ
+    arabic: أَيَّامٖ
     translation: days
     transliteration: ayyāmin
   5:
-    arabic: مَّعۡدُوۡدٰتٍ​ؕ
+    arabic: مَّعۡدُودَٰتٖۚ
     translation: numbered
     transliteration: maʿdūdātin
   6:
-    arabic: فَمَنۡ
+    arabic: فَمَن
     translation: Then (he) who
     transliteration: faman
   7:
@@ -36,7 +36,7 @@ word_by_word:
     translation: hurries
     transliteration: taʿajjala
   8:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   9:
@@ -44,35 +44,35 @@ word_by_word:
     translation: two days
     transliteration: yawmayni
   10:
-    arabic: فَلَاۤ
+    arabic: فَلَآ
     translation: then no
     transliteration: falā
   11:
-    arabic: اِثۡمَ
+    arabic: إِثۡمَ
     translation: sin
     transliteration: ith'ma
   12:
-    arabic: عَلَيۡهِ ۚ
+    arabic: عَلَيۡهِ
     translation: upon him
     transliteration: ʿalayhi
   13:
-    arabic: وَمَنۡ
+    arabic: وَمَن
     translation: and whoever
     transliteration: waman
   14:
-    arabic: تَاَخَّرَ
+    arabic: تَأَخَّرَ
     translation: delays
     transliteration: ta-akhara
   15:
-    arabic: فَلَاۤ
+    arabic: فَلَآ
     translation: then no
     transliteration: falā
   16:
-    arabic: اِثۡمَ
+    arabic: إِثۡمَ
     translation: sin
     transliteration: ith'ma
   17:
-    arabic: عَلَيۡه​ِ ۙ
+    arabic: عَلَيۡهِۖ
     translation: upon him
     transliteration: ʿalayhi
   18:
@@ -80,31 +80,31 @@ word_by_word:
     translation: for (the one) who
     transliteration: limani
   19:
-    arabic: اتَّقٰى ؕ
+    arabic: ٱتَّقَىٰۗ
     translation: fears
     transliteration: ittaqā
   20:
-    arabic: وَاتَّقُوا
+    arabic: وَٱتَّقُواْ
     translation: And fear
     transliteration: wa-ittaqū
   21:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   22:
-    arabic: وَاعۡلَمُوۡٓا
+    arabic: وَٱعۡلَمُوٓاْ
     translation: and know
     transliteration: wa-iʿ'lamū
   23:
-    arabic: اَنَّکُمۡ
+    arabic: أَنَّكُمۡ
     translation: that you
     transliteration: annakum
   24:
-    arabic: اِلَيۡهِ
+    arabic: إِلَيۡهِ
     translation: unto Him
     transliteration: ilayhi
   25:
-    arabic: تُحۡشَرُوۡنَ‏
+    arabic: تُحۡشَرُونَ
     translation: will be gathered
     transliteration: tuḥ'sharūna
 ---

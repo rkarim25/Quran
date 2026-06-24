@@ -1,5 +1,5 @@
 ---
-arabic_ayat: تَتۡبَعُهَا الرَّادِفَةُ ؕ‏
+arabic_ayat: تَتۡبَعُهَا ٱلرَّادِفَةُ
 sentence_translation: followed by a second Blast.
 word_by_word:
   1:
@@ -7,7 +7,7 @@ word_by_word:
     translation: Follows it
     transliteration: tatbaʿuhā
   2:
-    arabic: الرَّادِفَةُ ؕ‏
+    arabic: ٱلرَّادِفَةُ
     translation: the subsequent
     transliteration: l-rādifatu
 ---

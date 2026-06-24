@@ -1,6 +1,6 @@
 ---
-arabic_ayat: تَنَزَّلُ الۡمَلٰٓٮِٕكَةُ وَالرُّوۡحُ فِيۡهَا بِاِذۡنِ رَبِّهِمۡ​ۚ مِّنۡ
-  كُلِّ اَمۡرٍ ۛۙ‏
+arabic_ayat: تَنَزَّلُ ٱلۡمَلَٰٓئِكَةُ وَٱلرُّوحُ فِيهَا بِإِذۡنِ رَبِّهِم مِّن كُلِّ
+  أَمۡرٖ
 sentence_translation: That night the angels and the ˹holy˺ spirit descend, by the
   permission of their Lord, for every ˹decreed˺ matter.
 word_by_word:
@@ -9,27 +9,27 @@ word_by_word:
     translation: Descend
     transliteration: tanazzalu
   2:
-    arabic: الۡمَلٰٓٮِٕكَةُ
+    arabic: ٱلۡمَلَٰٓئِكَةُ
     translation: the Angels
     transliteration: l-malāikatu
   3:
-    arabic: وَالرُّوۡحُ
+    arabic: وَٱلرُّوحُ
     translation: and the Spirit
     transliteration: wal-rūḥu
   4:
-    arabic: فِيۡهَا
+    arabic: فِيهَا
     translation: therein
     transliteration: fīhā
   5:
-    arabic: بِاِذۡنِ
+    arabic: بِإِذۡنِ
     translation: by (the) permission
     transliteration: bi-idh'ni
   6:
-    arabic: رَبِّهِمۡ​ۚ
+    arabic: رَبِّهِم
     translation: (of) their Lord
     transliteration: rabbihim
   7:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: for
     transliteration: min
   8:
@@ -37,7 +37,7 @@ word_by_word:
     translation: every
     transliteration: kulli
   9:
-    arabic: اَمۡرٍ ۛۙ‏
+    arabic: أَمۡرٖ
     translation: affair
     transliteration: amrin
 ---

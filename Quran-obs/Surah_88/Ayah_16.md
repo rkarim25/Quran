@@ -1,13 +1,13 @@
 ---
-arabic_ayat: وَّزَرَابِىُّ مَبۡثُوۡثَةٌ ؕ‏
+arabic_ayat: وَزَرَابِيُّ مَبۡثُوثَةٌ
 sentence_translation: and ˹splendid˺ carpets spread out.
 word_by_word:
   1:
-    arabic: وَّزَرَابِىُّ
+    arabic: وَزَرَابِيُّ
     translation: And carpets
     transliteration: wazarābiyyu
   2:
-    arabic: مَبۡثُوۡثَةٌ ؕ‏
+    arabic: مَبۡثُوثَةٌ
     translation: spread out
     transliteration: mabthūthatun
 ---

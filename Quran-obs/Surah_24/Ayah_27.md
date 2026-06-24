@@ -1,21 +1,21 @@
 ---
-arabic_ayat: يٰۤـاَيُّهَا الَّذِيۡنَ اٰمَنُوۡا لَا تَدۡخُلُوۡا بُيُوۡتًا غَيۡرَ بُيُوۡتِكُمۡ
-  حَتّٰى تَسۡتَاۡنِسُوۡا وَتُسَلِّمُوۡا عَلٰٓى اَهۡلِهَا ​ؕ ذٰ لِكُمۡ خَيۡرٌ لَّـكُمۡ
-  لَعَلَّكُمۡ تَذَكَّرُوۡنَ‏
+arabic_ayat: يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُواْ لَا تَدۡخُلُواْ بُيُوتًا غَيۡرَ بُيُوتِكُمۡ
+  حَتَّىٰ تَسۡتَأۡنِسُواْ وَتُسَلِّمُواْ عَلَىٰٓ أَهۡلِهَاۚ ذَٰلِكُمۡ خَيۡرٞ لَّكُمۡ
+  لَعَلَّكُمۡ تَذَكَّرُونَ
 sentence_translation: O believers! Do not enter any house other than your own until
   you have asked for permission and greeted its occupants. This is best for you, so
   perhaps you will be mindful.
 word_by_word:
   1:
-    arabic: يٰۤـاَيُّهَا
+    arabic: يَٰٓأَيُّهَا
     translation: O you
     transliteration: yāayyuhā
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ ءَ
     translation: who
     transliteration: alladhīna
   3:
-    arabic: اٰمَنُوۡا
+    arabic: امَنُواْ
     translation: believe
     transliteration: āmanū
   4:
@@ -23,11 +23,11 @@ word_by_word:
     translation: (Do) not
     transliteration: lā
   5:
-    arabic: تَدۡخُلُوۡا
+    arabic: تَدۡخُلُواْ
     translation: enter
     transliteration: tadkhulū
   6:
-    arabic: بُيُوۡتًا
+    arabic: بُيُوتًا
     translation: houses
     transliteration: buyūtan
   7:
@@ -35,39 +35,39 @@ word_by_word:
     translation: other (than)
     transliteration: ghayra
   8:
-    arabic: بُيُوۡتِكُمۡ
+    arabic: بُيُوتِكُمۡ
     translation: your houses
     transliteration: buyūtikum
   9:
-    arabic: حَتّٰى
+    arabic: حَتَّىٰ
     translation: until
     transliteration: ḥattā
   10:
-    arabic: تَسۡتَاۡنِسُوۡا
+    arabic: تَسۡتَأۡنِسُواْ
     translation: you have asked permission
     transliteration: tastanisū
   11:
-    arabic: وَتُسَلِّمُوۡا
+    arabic: وَتُسَلِّمُواْ
     translation: and you have greeted
     transliteration: watusallimū
   12:
-    arabic: عَلٰٓى
+    arabic: عَلَىٰٓ
     translation: '[on]'
     transliteration: ʿalā
   13:
-    arabic: اَهۡلِهَا ​ؕ
+    arabic: أَهۡلِهَاۚ
     translation: its inhabitants
     transliteration: ahlihā
   14:
-    arabic: ذٰ لِكُمۡ
+    arabic: ذَٰلِكُمۡ
     translation: That
     transliteration: dhālikum
   15:
-    arabic: خَيۡرٌ
+    arabic: خَيۡرٞ
     translation: (is) best
     transliteration: khayrun
   16:
-    arabic: لَّـكُمۡ
+    arabic: لَّكُمۡ
     translation: for you
     transliteration: lakum
   17:
@@ -75,7 +75,7 @@ word_by_word:
     translation: so that you may
     transliteration: laʿallakum
   18:
-    arabic: تَذَكَّرُوۡنَ‏
+    arabic: تَذَكَّرُونَ
     translation: pay heed
     transliteration: tadhakkarūna
 ---

@@ -1,22 +1,22 @@
 ---
-arabic_ayat: وَفِىۡ ثَمُوۡدَ اِذۡ قِيۡلَ لَهُمۡ تَمَتَّعُوۡا حَتّٰى حِيۡنٍ‏
+arabic_ayat: وَفِي ثَمُودَ إِذۡ قِيلَ لَهُمۡ تَمَتَّعُواْ حَتَّىٰ حِينٖ
 sentence_translation: And in ˹the story of˺ Thamûd ˹was another lesson,˺ when they
   were told, “Enjoy yourselves ˹only˺ for a ˹short˺ while.”
 word_by_word:
   1:
-    arabic: وَفِىۡ
+    arabic: وَفِي
     translation: And in
     transliteration: wafī
   2:
-    arabic: ثَمُوۡدَ
+    arabic: ثَمُودَ
     translation: Thamud
     transliteration: thamūda
   3:
-    arabic: اِذۡ
+    arabic: إِذۡ
     translation: when
     transliteration: idh
   4:
-    arabic: قِيۡلَ
+    arabic: قِيلَ
     translation: was said
     transliteration: qīla
   5:
@@ -24,15 +24,15 @@ word_by_word:
     translation: to them
     transliteration: lahum
   6:
-    arabic: تَمَتَّعُوۡا
+    arabic: تَمَتَّعُواْ
     translation: Enjoy (yourselves)
     transliteration: tamattaʿū
   7:
-    arabic: حَتّٰى
+    arabic: حَتَّىٰ
     translation: for
     transliteration: ḥattā
   8:
-    arabic: حِيۡنٍ‏
+    arabic: حِينٖ
     translation: a time
     transliteration: ḥīnin
 ---

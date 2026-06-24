@@ -1,5 +1,5 @@
 ---
-arabic_ayat: مَرَجَ الۡبَحۡرَيۡنِ يَلۡتَقِيٰنِۙ‏
+arabic_ayat: مَرَجَ ٱلۡبَحۡرَيۡنِ يَلۡتَقِيَانِ
 sentence_translation: He merges the two bodies of ˹fresh and salt˺ water,
 word_by_word:
   1:
@@ -7,11 +7,11 @@ word_by_word:
     translation: He released
     transliteration: maraja
   2:
-    arabic: الۡبَحۡرَيۡنِ
+    arabic: ٱلۡبَحۡرَيۡنِ
     translation: the two seas
     transliteration: l-baḥrayni
   3:
-    arabic: يَلۡتَقِيٰنِۙ‏
+    arabic: يَلۡتَقِيَانِ
     translation: meeting
     transliteration: yaltaqiyāni
 ---

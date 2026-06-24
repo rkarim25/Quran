@@ -1,5 +1,5 @@
 ---
-arabic_ayat: ثُمَّ جَعَلۡنٰهُ نُطۡفَةً فِىۡ قَرَارٍ مَّكِيۡنٍ‏
+arabic_ayat: ثُمَّ جَعَلۡنَٰهُ نُطۡفَةٗ فِي قَرَارٖ مَّكِينٖ
 sentence_translation: then placed each ˹human˺ as a sperm-drop in a secure place,
 word_by_word:
   1:
@@ -7,23 +7,23 @@ word_by_word:
     translation: Then
     transliteration: thumma
   2:
-    arabic: جَعَلۡنٰهُ
+    arabic: جَعَلۡنَٰهُ
     translation: We placed him
     transliteration: jaʿalnāhu
   3:
-    arabic: نُطۡفَةً
+    arabic: نُطۡفَةٗ
     translation: (as) a semen-drop
     transliteration: nuṭ'fatan
   4:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   5:
-    arabic: قَرَارٍ
+    arabic: قَرَارٖ
     translation: a resting place
     transliteration: qarārin
   6:
-    arabic: مَّكِيۡنٍ‏
+    arabic: مَّكِينٖ
     translation: firm
     transliteration: makīnin
 ---

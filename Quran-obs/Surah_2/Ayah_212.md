@@ -1,7 +1,7 @@
 ---
-arabic_ayat: زُيِّنَ لِلَّذِيۡنَ كَفَرُوا الۡحَيٰوةُ الدُّنۡيَا وَيَسۡخَرُوۡنَ مِنَ
-  الَّذِيۡنَ اٰمَنُوۡا ​ ۘ وَالَّذِيۡنَ اتَّقَوۡا فَوۡقَهُمۡ يَوۡمَ الۡقِيٰمَةِ ؕ
-  وَاللّٰهُ يَرۡزُقُ مَنۡ يَّشَآءُ بِغَيۡرِ حِسَابٍ‏
+arabic_ayat: زُيِّنَ لِلَّذِينَ كَفَرُواْ ٱلۡحَيَوٰةُ ٱلدُّنۡيَا وَيَسۡخَرُونَ مِنَ
+  ٱلَّذِينَ ءَامَنُواْۘ وَٱلَّذِينَ ٱتَّقَوۡاْ فَوۡقَهُمۡ يَوۡمَ ٱلۡقِيَٰمَةِۗ وَٱللَّهُ
+  يَرۡزُقُ مَن يَشَآءُ بِغَيۡرِ حِسَابٖ
 sentence_translation: The life of this world has been made appealing to the disbelievers,
   and they mock the believers. Those who are mindful ˹of Allah˺ will rank above them
   on the Day of Judgment. And Allah provides for whoever He wills without limit.
@@ -11,23 +11,23 @@ word_by_word:
     translation: Beautified
     transliteration: zuyyina
   2:
-    arabic: لِلَّذِيۡنَ
+    arabic: لِلَّذِينَ
     translation: for those who
     transliteration: lilladhīna
   3:
-    arabic: كَفَرُوا
+    arabic: كَفَرُواْ
     translation: disbelieve[d]
     transliteration: kafarū
   4:
-    arabic: الۡحَيٰوةُ
+    arabic: ٱلۡحَيَوٰةُ
     translation: (is) the life
     transliteration: l-ḥayatu
   5:
-    arabic: الدُّنۡيَا
+    arabic: ٱلدُّنۡيَا
     translation: (of) the world
     transliteration: l-dun'yā
   6:
-    arabic: وَيَسۡخَرُوۡنَ
+    arabic: وَيَسۡخَرُونَ
     translation: and they ridicule
     transliteration: wayaskharūna
   7:
@@ -35,19 +35,19 @@ word_by_word:
     translation: '[of]'
     transliteration: mina
   8:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ ءَ
     translation: those who
     transliteration: alladhīna
   9:
-    arabic: اٰمَنُوۡا ​ ۘ
+    arabic: امَنُواْۘ
     translation: believe[d]
     transliteration: āmanū
   10:
-    arabic: وَالَّذِيۡنَ
+    arabic: وَٱلَّذِينَ
     translation: And those who
     transliteration: wa-alladhīna
   11:
-    arabic: اتَّقَوۡا
+    arabic: ٱتَّقَوۡاْ
     translation: fear (Allah)
     transliteration: ittaqaw
   12:
@@ -59,11 +59,11 @@ word_by_word:
     translation: (on the) Day
     transliteration: yawma
   14:
-    arabic: الۡقِيٰمَةِ ؕ
+    arabic: ٱلۡقِيَٰمَةِۗ
     translation: (of) Resurrection
     transliteration: l-qiyāmati
   15:
-    arabic: وَاللّٰهُ
+    arabic: وَٱللَّهُ
     translation: And Allah
     transliteration: wal-lahu
   16:
@@ -71,11 +71,11 @@ word_by_word:
     translation: provides
     transliteration: yarzuqu
   17:
-    arabic: مَنۡ
+    arabic: مَن
     translation: whom
     transliteration: man
   18:
-    arabic: يَّشَآءُ
+    arabic: يَشَآءُ
     translation: He wills
     transliteration: yashāu
   19:
@@ -83,7 +83,7 @@ word_by_word:
     translation: without
     transliteration: bighayri
   20:
-    arabic: حِسَابٍ‏
+    arabic: حِسَابٖ
     translation: measure
     transliteration: ḥisābin
 ---

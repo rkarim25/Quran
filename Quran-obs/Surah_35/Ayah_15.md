@@ -1,35 +1,35 @@
 ---
-arabic_ayat: يٰۤاَيُّهَا النَّاسُ اَنۡتُمُ الۡفُقَرَآءُ اِلَى اللّٰهِۚ وَاللّٰهُ
-  هُوَ الۡغَنِىُّ الۡحَمِيۡدُ‏
+arabic_ayat: ۞ يَٰٓأَيُّهَا ٱلنَّاسُ أَنتُمُ ٱلۡفُقَرَآءُ إِلَى ٱللَّهِۖ وَٱللَّهُ
+  هُوَ ٱلۡغَنِيُّ ٱلۡحَمِيدُ
 sentence_translation: O humanity! It is you who stand in need of Allah, but Allah
   ˹alone˺ is the Self-Sufficient, Praiseworthy.
 word_by_word:
   1:
-    arabic: ۞ يٰۤاَيُّهَا
+    arabic: ۞ يَٰٓأَيُّهَا
     translation: O
     transliteration: yāayyuhā
   2:
-    arabic: النَّاسُ
+    arabic: ٱلنَّاسُ
     translation: mankind
     transliteration: l-nāsu
   3:
-    arabic: اَنۡتُمُ
+    arabic: أَنتُمُ
     translation: You
     transliteration: antumu
   4:
-    arabic: الۡفُقَرَآءُ
+    arabic: ٱلۡفُقَرَآءُ
     translation: (are) those in need
     transliteration: l-fuqarāu
   5:
-    arabic: اِلَى
+    arabic: إِلَى
     translation: of
     transliteration: ilā
   6:
-    arabic: اللّٰهِۚ
+    arabic: ٱللَّهِۖ
     translation: Allah
     transliteration: l-lahi
   7:
-    arabic: وَاللّٰهُ
+    arabic: وَٱللَّهُ
     translation: while Allah
     transliteration: wal-lahu
   8:
@@ -37,11 +37,11 @@ word_by_word:
     translation: He
     transliteration: huwa
   9:
-    arabic: الۡغَنِىُّ
+    arabic: ٱلۡغَنِيُّ
     translation: (is) Free of need
     transliteration: l-ghaniyu
   10:
-    arabic: الۡحَمِيۡدُ‏
+    arabic: ٱلۡحَمِيدُ
     translation: the Praiseworthy
     transliteration: l-ḥamīdu
 ---

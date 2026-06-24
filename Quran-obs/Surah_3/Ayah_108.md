@@ -1,23 +1,23 @@
 ---
-arabic_ayat: تِلۡكَ اٰيٰتُ اللّٰهِ نَـتۡلُوۡهَا عَلَيۡكَ بِالۡحَـقِّ​ؕ وَمَا اللّٰهُ
-  يُرِيۡدُ ظُلۡمًا لِّلۡعٰلَمِيۡنَ‏
+arabic_ayat: تِلۡكَ ءَايَٰتُ ٱللَّهِ نَتۡلُوهَا عَلَيۡكَ بِٱلۡحَقِّۗ وَمَا ٱللَّهُ
+  يُرِيدُ ظُلۡمٗا لِّلۡعَٰلَمِينَ
 sentence_translation: These are Allah’s revelations We recite to you ˹O Prophet˺ in
   truth. And Allah desires no injustice to ˹His˺ creation.
 word_by_word:
   1:
-    arabic: تِلۡكَ
+    arabic: تِلۡكَ ءَ
     translation: These
     transliteration: til'ka
   2:
-    arabic: اٰيٰتُ
+    arabic: ايَٰتُ
     translation: (are the) Verses
     transliteration: āyātu
   3:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (of) Allah
     transliteration: l-lahi
   4:
-    arabic: نَـتۡلُوۡهَا
+    arabic: نَتۡلُوهَا
     translation: We recite them
     transliteration: natlūhā
   5:
@@ -25,7 +25,7 @@ word_by_word:
     translation: to you
     transliteration: ʿalayka
   6:
-    arabic: بِالۡحَـقِّ​ؕ
+    arabic: بِٱلۡحَقِّۗ
     translation: in truth
     transliteration: bil-ḥaqi
   7:
@@ -33,19 +33,19 @@ word_by_word:
     translation: And not
     transliteration: wamā
   8:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   9:
-    arabic: يُرِيۡدُ
+    arabic: يُرِيدُ
     translation: wants
     transliteration: yurīdu
   10:
-    arabic: ظُلۡمًا
+    arabic: ظُلۡمٗا
     translation: injustice
     transliteration: ẓul'man
   11:
-    arabic: لِّلۡعٰلَمِيۡنَ‏
+    arabic: لِّلۡعَٰلَمِينَ
     translation: to the worlds
     transliteration: lil'ʿālamīna
 ---

@@ -1,5 +1,5 @@
 ---
-arabic_ayat: لَّا ظَلِيۡلٍ وَّلَا يُغۡنِىۡ مِنَ اللَّهَبِؕ‏
+arabic_ayat: لَّا ظَلِيلٖ وَلَا يُغۡنِي مِنَ ٱللَّهَبِ
 sentence_translation: providing neither coolness nor shelter from the flames.
 word_by_word:
   1:
@@ -7,15 +7,15 @@ word_by_word:
     translation: 'No'
     transliteration: lā
   2:
-    arabic: ظَلِيۡلٍ
+    arabic: ظَلِيلٖ
     translation: cool shade
     transliteration: ẓalīlin
   3:
-    arabic: وَّلَا
+    arabic: وَلَا
     translation: and not
     transliteration: walā
   4:
-    arabic: يُغۡنِىۡ
+    arabic: يُغۡنِي
     translation: availing
     transliteration: yugh'nī
   5:
@@ -23,7 +23,7 @@ word_by_word:
     translation: against
     transliteration: mina
   6:
-    arabic: اللَّهَبِؕ‏
+    arabic: ٱللَّهَبِ
     translation: the flame
     transliteration: l-lahabi
 ---

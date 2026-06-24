@@ -1,20 +1,19 @@
 ---
-arabic_ayat: "يٰۤـاَيُّهَا الَّذِيۡنَ اٰمَنُوۡا لَا تُحَرِّمُوۡا طَيِّبٰتِ مَاۤ اَحَلَّ\
-  \ اللّٰهُ لَـكُمۡ وَلَا تَعۡتَدُوۡا​ ؕ اِنَّ اللّٰهَ لَا يُحِبُّ الۡمُعۡتَدِيۡنَ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُواْ لَا تُحَرِّمُواْ طَيِّبَٰتِ مَآ أَحَلَّ
+  ٱللَّهُ لَكُمۡ وَلَا تَعۡتَدُوٓاْۚ إِنَّ ٱللَّهَ لَا يُحِبُّ ٱلۡمُعۡتَدِينَ
 sentence_translation: O believers! Do not forbid the good things which Allah has made
   lawful for you, and do not transgress. Indeed, Allah does not like transgressors.
 word_by_word:
   1:
-    arabic: يٰۤـاَيُّهَا
+    arabic: يَٰٓأَيُّهَا
     translation: O you
     transliteration: yāayyuhā
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ ءَ
     translation: who
     transliteration: alladhīna
   3:
-    arabic: اٰمَنُوۡا
+    arabic: امَنُواْ
     translation: believe
     transliteration: āmanū
   4:
@@ -22,27 +21,27 @@ word_by_word:
     translation: (Do) not
     transliteration: lā
   5:
-    arabic: تُحَرِّمُوۡا
+    arabic: تُحَرِّمُواْ
     translation: make unlawful
     transliteration: tuḥarrimū
   6:
-    arabic: طَيِّبٰتِ
+    arabic: طَيِّبَٰتِ
     translation: (the) good things
     transliteration: ṭayyibāti
   7:
-    arabic: مَاۤ
+    arabic: مَآ
     translation: (of) what
     transliteration: mā
   8:
-    arabic: اَحَلَّ
+    arabic: أَحَلَّ
     translation: has (been) made lawful
     transliteration: aḥalla
   9:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: (by) Allah
     transliteration: l-lahu
   10:
-    arabic: لَـكُمۡ
+    arabic: لَكُمۡ
     translation: for you
     transliteration: lakum
   11:
@@ -50,15 +49,15 @@ word_by_word:
     translation: and (do) not
     transliteration: walā
   12:
-    arabic: تَعۡتَدُوۡا​ ؕ
+    arabic: تَعۡتَدُوٓاْۚ
     translation: transgress
     transliteration: taʿtadū
   13:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   14:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   15:
@@ -70,7 +69,7 @@ word_by_word:
     translation: love
     transliteration: yuḥibbu
   17:
-    arabic: "الۡمُعۡتَدِيۡنَ‏ \uFEFF\uFEFF"
+    arabic: ٱلۡمُعۡتَدِينَ
     translation: the transgressors
     transliteration: l-muʿ'tadīna
 ---

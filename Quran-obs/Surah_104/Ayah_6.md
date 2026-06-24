@@ -1,5 +1,5 @@
 ---
-arabic_ayat: نَارُ اللّٰهِ الۡمُوۡقَدَةُ ۙ‏
+arabic_ayat: نَارُ ٱللَّهِ ٱلۡمُوقَدَةُ
 sentence_translation: ˹It is˺ Allah’s kindled Fire,
 word_by_word:
   1:
@@ -7,11 +7,11 @@ word_by_word:
     translation: A Fire
     transliteration: nāru
   2:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   3:
-    arabic: الۡمُوۡقَدَةُ ۙ‏
+    arabic: ٱلۡمُوقَدَةُ
     translation: kindled
     transliteration: l-mūqadatu
 ---

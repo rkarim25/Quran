@@ -1,7 +1,7 @@
 ---
-arabic_ayat: قُلِ اللّٰهُ اَعۡلَمُ بِمَا لَبِثُوۡا​ ۚ لَهٗ غَيۡبُ السَّمٰوٰتِ وَالۡاَرۡضِ​
-  ؕ اَبۡصِرۡ بِهٖ وَاَسۡمِعۡ​ ؕ مَا لَهُمۡ مِّنۡ دُوۡنِهٖ مِنۡ وَّلِىٍّ  وَّلَا يُشۡرِكُ
-  فِىۡ حُكۡمِهٖۤ اَحَدًا‏
+arabic_ayat: قُلِ ٱللَّهُ أَعۡلَمُ بِمَا لَبِثُواْۖ لَهُۥ غَيۡبُ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِۖ
+  أَبۡصِرۡ بِهِۦ وَأَسۡمِعۡۚ مَا لَهُم مِّن دُونِهِۦ مِن وَلِيّٖ وَلَا يُشۡرِكُ فِي
+  حُكۡمِهِۦٓ أَحَدٗا
 sentence_translation: Say, ˹O Prophet,˺ “Allah knows best how long they stayed. With
   Him ˹alone˺ is ˹the knowledge of˺ the unseen of the heavens and the earth. How perfectly
   He hears and sees! They have no guardian besides Him, and He shares His command
@@ -12,11 +12,11 @@ word_by_word:
     translation: Say
     transliteration: quli
   2:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   3:
-    arabic: اَعۡلَمُ
+    arabic: أَعۡلَمُ
     translation: knows best
     transliteration: aʿlamu
   4:
@@ -24,11 +24,11 @@ word_by_word:
     translation: about what (period)
     transliteration: bimā
   5:
-    arabic: لَبِثُوۡا​ ۚ
+    arabic: لَبِثُواْۖ
     translation: they remained
     transliteration: labithū
   6:
-    arabic: لَهٗ
+    arabic: لَهُۥ
     translation: For Him
     transliteration: lahu
   7:
@@ -36,23 +36,23 @@ word_by_word:
     translation: (is the) unseen
     transliteration: ghaybu
   8:
-    arabic: السَّمٰوٰتِ
+    arabic: ٱلسَّمَٰوَٰتِ
     translation: (of) the heavens
     transliteration: l-samāwāti
   9:
-    arabic: وَالۡاَرۡضِ​ ؕ
+    arabic: وَٱلۡأَرۡضِۖ
     translation: and the earth
     transliteration: wal-arḍi
   10:
-    arabic: اَبۡصِرۡ
+    arabic: أَبۡصِرۡ
     translation: How clearly He sees
     transliteration: abṣir
   11:
-    arabic: بِهٖ
+    arabic: بِهِۦ
     translation: '[of it]'
     transliteration: bihi
   12:
-    arabic: وَاَسۡمِعۡ​ ؕ
+    arabic: وَأَسۡمِعۡۚ
     translation: And how clearly He hears
     transliteration: wa-asmiʿ
   13:
@@ -60,27 +60,27 @@ word_by_word:
     translation: Not
     transliteration: mā
   14:
-    arabic: لَهُمۡ
+    arabic: لَهُم
     translation: for them
     transliteration: lahum
   15:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: besides Him
     transliteration: min
   16:
-    arabic: دُوۡنِهٖ
+    arabic: دُونِهِۦ
     translation: besides Him
     transliteration: dūnihi
   17:
-    arabic: مِنۡ
+    arabic: مِن
     translation: any
     transliteration: min
   18:
-    arabic: وَّلِىٍّ 
+    arabic: وَلِيّٖ
     translation: protector
     transliteration: waliyyin
   19:
-    arabic: وَّلَا
+    arabic: وَلَا
     translation: and not
     transliteration: walā
   20:
@@ -88,15 +88,15 @@ word_by_word:
     translation: He shares
     transliteration: yush'riku
   21:
-    arabic: فِىۡ
+    arabic: فِي
     translation: '[in]'
     transliteration: fī
   22:
-    arabic: حُكۡمِهٖۤ
+    arabic: حُكۡمِهِۦٓ
     translation: His Commands
     transliteration: ḥuk'mihi
   23:
-    arabic: اَحَدًا‏
+    arabic: أَحَدٗا
     translation: (with) anyone
     transliteration: aḥadan
 ---

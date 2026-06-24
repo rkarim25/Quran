@@ -1,6 +1,6 @@
 ---
-arabic_ayat: فَلَا تَحۡسَبَنَّ اللّٰهَ مُخۡلِفَ وَعۡدِهٖ رُسُلَهٗؕ اِنَّ اللّٰهَ عَزِيۡزٌ
-  ذُوۡ انْتِقَامٍؕ‏
+arabic_ayat: فَلَا تَحۡسَبَنَّ ٱللَّهَ مُخۡلِفَ وَعۡدِهِۦ رُسُلَهُۥٓۚ إِنَّ ٱللَّهَ
+  عَزِيزٞ ذُو ٱنتِقَامٖ
 sentence_translation: So do not think ˹O Prophet˺ that Allah will fail to keep His
   promise to His messengers. Allah is indeed Almighty, capable of punishment.
 word_by_word:
@@ -13,7 +13,7 @@ word_by_word:
     translation: think
     transliteration: taḥsabanna
   3:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: (that) Allah
     transliteration: l-laha
   4:
@@ -21,31 +21,31 @@ word_by_word:
     translation: will fail
     transliteration: mukh'lifa
   5:
-    arabic: وَعۡدِهٖ
+    arabic: وَعۡدِهِۦ
     translation: (to) keep His Promise
     transliteration: waʿdihi
   6:
-    arabic: رُسُلَهٗؕ
+    arabic: رُسُلَهُۥٓۚ
     translation: (to) His Messengers
     transliteration: rusulahu
   7:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   8:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   9:
-    arabic: عَزِيۡزٌ
+    arabic: عَزِيزٞ
     translation: (is) All-Mighty
     transliteration: ʿazīzun
   10:
-    arabic: ذُوۡ
+    arabic: ذُو
     translation: Owner (of) Retribution
     transliteration: dhū
   11:
-    arabic: انْتِقَامٍؕ‏
+    arabic: ٱنتِقَامٖ
     translation: Owner (of) Retribution
     transliteration: intiqāmin
 ---

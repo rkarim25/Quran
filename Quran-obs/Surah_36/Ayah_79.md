@@ -1,6 +1,6 @@
 ---
-arabic_ayat: قُلۡ يُحۡيِيۡهَا الَّذِىۡۤ اَنۡشَاَهَاۤ اَوَّلَ مَرَّةٍ​ ؕ وَهُوَ بِكُلِّ
-  خَلۡقٍ عَلِيۡمُ ۙ‏
+arabic_ayat: قُلۡ يُحۡيِيهَا ٱلَّذِيٓ أَنشَأَهَآ أَوَّلَ مَرَّةٖۖ وَهُوَ بِكُلِّ
+  خَلۡقٍ عَلِيمٌ
 sentence_translation: Say, ˹O Prophet,˺ “They will be revived by the One Who produced
   them the first time, for He has ˹perfect˺ knowledge of every created being.
 word_by_word:
@@ -9,23 +9,23 @@ word_by_word:
     translation: Say
     transliteration: qul
   2:
-    arabic: يُحۡيِيۡهَا
+    arabic: يُحۡيِيهَا
     translation: He will give them life
     transliteration: yuḥ'yīhā
   3:
-    arabic: الَّذِىۡۤ
+    arabic: ٱلَّذِيٓ
     translation: Who
     transliteration: alladhī
   4:
-    arabic: اَنۡشَاَهَاۤ
+    arabic: أَنشَأَهَآ
     translation: produced them
     transliteration: ansha-ahā
   5:
-    arabic: اَوَّلَ
+    arabic: أَوَّلَ
     translation: (the) first
     transliteration: awwala
   6:
-    arabic: مَرَّةٍ​ ؕ
+    arabic: مَرَّةٖۖ
     translation: time
     transliteration: marratin
   7:
@@ -41,7 +41,7 @@ word_by_word:
     translation: creation
     transliteration: khalqin
   10:
-    arabic: عَلِيۡمُ ۙ‏
+    arabic: عَلِيمٌ
     translation: All-Knower
     transliteration: ʿalīmun
 ---

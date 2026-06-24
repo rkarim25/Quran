@@ -1,27 +1,27 @@
 ---
-arabic_ayat: وَالَّذِيۡنَ كَفَرُوۡا وَ كَذَّبُوۡا بِاٰيٰتِنَا فَاُولٰٓٮِٕكَ لَهُمۡ
-  عَذَابٌ مُّهِيۡنٌ‏
+arabic_ayat: وَٱلَّذِينَ كَفَرُواْ وَكَذَّبُواْ بِـَٔايَٰتِنَا فَأُوْلَٰٓئِكَ لَهُمۡ
+  عَذَابٞ مُّهِينٞ
 sentence_translation: But those who disbelieve and deny Our revelations, it is they
   who will suffer a humiliating punishment.
 word_by_word:
   1:
-    arabic: وَالَّذِيۡنَ
+    arabic: وَٱلَّذِينَ
     translation: And those who
     transliteration: wa-alladhīna
   2:
-    arabic: كَفَرُوۡا
+    arabic: كَفَرُواْ
     translation: disbelieved
     transliteration: kafarū
   3:
-    arabic: وَ كَذَّبُوۡا
+    arabic: وَكَذَّبُواْ
     translation: and denied
     transliteration: wakadhabū
   4:
-    arabic: بِاٰيٰتِنَا
+    arabic: بِـَٔايَٰتِنَا
     translation: Our Verses
     transliteration: biāyātinā
   5:
-    arabic: فَاُولٰٓٮِٕكَ
+    arabic: فَأُوْلَٰٓئِكَ
     translation: then those
     transliteration: fa-ulāika
   6:
@@ -29,11 +29,11 @@ word_by_word:
     translation: for them
     transliteration: lahum
   7:
-    arabic: عَذَابٌ
+    arabic: عَذَابٞ
     translation: (will be) a punishment
     transliteration: ʿadhābun
   8:
-    arabic: مُّهِيۡنٌ‏
+    arabic: مُّهِينٞ
     translation: humiliating
     transliteration: muhīnun
 ---

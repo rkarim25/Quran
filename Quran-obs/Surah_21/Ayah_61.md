@@ -1,31 +1,30 @@
 ---
-arabic_ayat: "قَالُوۡا فَاۡتُوۡا بِهٖ عَلٰٓى اَعۡيُنِ النَّاسِ لَعَلَّهُمۡ يَشۡهَدُوۡنَ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: قَالُواْ فَأۡتُواْ بِهِۦ عَلَىٰٓ أَعۡيُنِ ٱلنَّاسِ لَعَلَّهُمۡ يَشۡهَدُونَ
 sentence_translation: They demanded, “Bring him before the eyes of the people, so
   that they may witness ˹his trial˺.”
 word_by_word:
   1:
-    arabic: قَالُوۡا
+    arabic: قَالُواْ
     translation: They said
     transliteration: qālū
   2:
-    arabic: فَاۡتُوۡا
+    arabic: فَأۡتُواْ
     translation: Then bring
     transliteration: fatū
   3:
-    arabic: بِهٖ
+    arabic: بِهِۦ
     translation: him
     transliteration: bihi
   4:
-    arabic: عَلٰٓى
+    arabic: عَلَىٰٓ
     translation: before
     transliteration: ʿalā
   5:
-    arabic: اَعۡيُنِ
+    arabic: أَعۡيُنِ
     translation: (the) eyes
     transliteration: aʿyuni
   6:
-    arabic: النَّاسِ
+    arabic: ٱلنَّاسِ
     translation: (of) the people
     transliteration: l-nāsi
   7:
@@ -33,7 +32,7 @@ word_by_word:
     translation: so that they may
     transliteration: laʿallahum
   8:
-    arabic: "يَشۡهَدُوۡنَ‏ \uFEFF\uFEFF"
+    arabic: يَشۡهَدُونَ
     translation: bear witness
     transliteration: yashhadūna
 ---

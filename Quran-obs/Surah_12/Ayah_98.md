@@ -1,6 +1,5 @@
 ---
-arabic_ayat: "قَالَ سَوۡفَ اَسۡتَغۡفِرُ لَـكُمۡ رَبِّىۡؕ اِنَّهٗ هُوَ الۡغَفُوۡرُ\
-  \ الرَّحِيۡمُ‏ \uFEFF\uFEFF"
+arabic_ayat: قَالَ سَوۡفَ أَسۡتَغۡفِرُ لَكُمۡ رَبِّيٓۖ إِنَّهُۥ هُوَ ٱلۡغَفُورُ ٱلرَّحِيمُ
 sentence_translation: He said, “I will pray to my Lord for your forgiveness. He ˹alone˺
   is indeed the All-Forgiving, Most Merciful.”
 word_by_word:
@@ -13,19 +12,19 @@ word_by_word:
     translation: Soon
     transliteration: sawfa
   3:
-    arabic: اَسۡتَغۡفِرُ
+    arabic: أَسۡتَغۡفِرُ
     translation: I will ask forgiveness
     transliteration: astaghfiru
   4:
-    arabic: لَـكُمۡ
+    arabic: لَكُمۡ
     translation: for you
     transliteration: lakum
   5:
-    arabic: رَبِّىۡؕ
+    arabic: رَبِّيٓۖ
     translation: (from) my Lord
     transliteration: rabbī
   6:
-    arabic: اِنَّهٗ
+    arabic: إِنَّهُۥ
     translation: Indeed, He
     transliteration: innahu
   7:
@@ -33,11 +32,11 @@ word_by_word:
     translation: He
     transliteration: huwa
   8:
-    arabic: الۡغَفُوۡرُ
+    arabic: ٱلۡغَفُورُ
     translation: (is) the Oft-Forgiving
     transliteration: l-ghafūru
   9:
-    arabic: "الرَّحِيۡمُ‏ \uFEFF\uFEFF"
+    arabic: ٱلرَّحِيمُ
     translation: the Most Merciful
     transliteration: l-raḥīmu
 ---

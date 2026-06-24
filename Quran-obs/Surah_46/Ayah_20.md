@@ -1,8 +1,8 @@
 ---
-arabic_ayat: وَيَوۡمَ يُعۡرَضُ الَّذِيۡنَ كَفَرُوۡا عَلَى النَّارِ ؕ اَذۡهَبۡتُمۡ
-  طَيِّبٰـتِكُمۡ فِىۡ حَيَاتِكُمُ الدُّنۡيَا وَاسۡتَمۡتَعۡتُمۡ بِهَا ​ۚ فَالۡيَوۡمَ
-  تُجۡزَوۡنَ عَذَابَ الۡهُوۡنِ بِمَا كُنۡـتُمۡ تَسۡتَكۡبِرُوۡنَ فِى الۡاَرۡضِ بِغَيۡرِ
-  الۡحَقِّ وَبِمَا كُنۡتُمۡ تَفۡسُقُوۡنَ‏
+arabic_ayat: وَيَوۡمَ يُعۡرَضُ ٱلَّذِينَ كَفَرُواْ عَلَى ٱلنَّارِ أَذۡهَبۡتُمۡ طَيِّبَٰتِكُمۡ
+  فِي حَيَاتِكُمُ ٱلدُّنۡيَا وَٱسۡتَمۡتَعۡتُم بِهَا فَٱلۡيَوۡمَ تُجۡزَوۡنَ عَذَابَ
+  ٱلۡهُونِ بِمَا كُنتُمۡ تَسۡتَكۡبِرُونَ فِي ٱلۡأَرۡضِ بِغَيۡرِ ٱلۡحَقِّ وَبِمَا كُنتُمۡ
+  تَفۡسُقُونَ
 sentence_translation: ˹Watch for˺ the Day ˹when˺ the disbelievers will be exposed
   to the Fire. ˹They will be told,˺ “You ˹already˺ exhausted your ˹share of˺ pleasures
   during your worldly life, and ˹fully˺ enjoyed them. So Today you will be rewarded
@@ -18,11 +18,11 @@ word_by_word:
     translation: will be exposed
     transliteration: yuʿ'raḍu
   3:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   4:
-    arabic: كَفَرُوۡا
+    arabic: كَفَرُواْ
     translation: disbelieved
     transliteration: kafarū
   5:
@@ -30,19 +30,19 @@ word_by_word:
     translation: to
     transliteration: ʿalā
   6:
-    arabic: النَّارِ ؕ
+    arabic: ٱلنَّارِ
     translation: the Fire
     transliteration: l-nāri
   7:
-    arabic: اَذۡهَبۡتُمۡ
+    arabic: أَذۡهَبۡتُمۡ
     translation: You exhausted
     transliteration: adhhabtum
   8:
-    arabic: طَيِّبٰـتِكُمۡ
+    arabic: طَيِّبَٰتِكُمۡ
     translation: your good things
     transliteration: ṭayyibātikum
   9:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   10:
@@ -50,19 +50,19 @@ word_by_word:
     translation: your life
     transliteration: ḥayātikumu
   11:
-    arabic: الدُّنۡيَا
+    arabic: ٱلدُّنۡيَا
     translation: (of) the world
     transliteration: l-dun'yā
   12:
-    arabic: وَاسۡتَمۡتَعۡتُمۡ
+    arabic: وَٱسۡتَمۡتَعۡتُم
     translation: and you took your pleasures
     transliteration: wa-is'tamtaʿtum
   13:
-    arabic: بِهَا ​ۚ
+    arabic: بِهَا
     translation: therein
     transliteration: bihā
   14:
-    arabic: فَالۡيَوۡمَ
+    arabic: فَٱلۡيَوۡمَ
     translation: So today
     transliteration: fal-yawma
   15:
@@ -74,7 +74,7 @@ word_by_word:
     translation: (with) a punishment
     transliteration: ʿadhāba
   17:
-    arabic: الۡهُوۡنِ
+    arabic: ٱلۡهُونِ
     translation: humiliating
     transliteration: l-hūni
   18:
@@ -82,19 +82,19 @@ word_by_word:
     translation: because
     transliteration: bimā
   19:
-    arabic: كُنۡـتُمۡ
+    arabic: كُنتُمۡ
     translation: you were
     transliteration: kuntum
   20:
-    arabic: تَسۡتَكۡبِرُوۡنَ
+    arabic: تَسۡتَكۡبِرُونَ
     translation: arrogant
     transliteration: tastakbirūna
   21:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   22:
-    arabic: الۡاَرۡضِ
+    arabic: ٱلۡأَرۡضِ
     translation: the earth
     transliteration: l-arḍi
   23:
@@ -102,7 +102,7 @@ word_by_word:
     translation: without
     transliteration: bighayri
   24:
-    arabic: الۡحَقِّ
+    arabic: ٱلۡحَقِّ
     translation: '[the] right'
     transliteration: l-ḥaqi
   25:
@@ -110,11 +110,11 @@ word_by_word:
     translation: and because
     transliteration: wabimā
   26:
-    arabic: كُنۡتُمۡ
+    arabic: كُنتُمۡ
     translation: you were
     transliteration: kuntum
   27:
-    arabic: تَفۡسُقُوۡنَ‏
+    arabic: تَفۡسُقُونَ
     translation: defiantly disobedient
     transliteration: tafsuqūna
 ---

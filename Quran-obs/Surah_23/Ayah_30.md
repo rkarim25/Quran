@@ -1,26 +1,26 @@
 ---
-arabic_ayat: اِنَّ فِىۡ ذٰ لِكَ لَاٰيٰتٍ وَّاِنۡ كُنَّا لَمُبۡتَلِيۡنَ‏
+arabic_ayat: إِنَّ فِي ذَٰلِكَ لَأٓيَٰتٖ وَإِن كُنَّا لَمُبۡتَلِينَ
 sentence_translation: Surely in this are lessons. And We ˹always˺ put ˹people˺ to
   the test.
 word_by_word:
   1:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   2:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   3:
-    arabic: ذٰ لِكَ
+    arabic: ذَٰلِكَ
     translation: that
     transliteration: dhālika
   4:
-    arabic: لَاٰيٰتٍ
+    arabic: لَأٓيَٰتٖ
     translation: surely (are) Signs
     transliteration: laāyātin
   5:
-    arabic: وَّاِنۡ
+    arabic: وَإِن
     translation: and indeed
     transliteration: wa-in
   6:
@@ -28,7 +28,7 @@ word_by_word:
     translation: We are
     transliteration: kunnā
   7:
-    arabic: لَمُبۡتَلِيۡنَ‏
+    arabic: لَمُبۡتَلِينَ
     translation: surely testing
     transliteration: lamub'talīna
 ---

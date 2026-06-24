@@ -1,6 +1,6 @@
 ---
-arabic_ayat: "وَقَالَ فِرۡعَوۡنُ يٰهَامٰنُ ابۡنِ لِىۡ صَرۡحًا لَّعَلِّىۡۤ اَبۡلُغُ\
-  \ الۡاَسۡبَابَۙ‏ \uFEFF\uFEFF"
+arabic_ayat: وَقَالَ فِرۡعَوۡنُ يَٰهَٰمَٰنُ ٱبۡنِ لِي صَرۡحٗا لَّعَلِّيٓ أَبۡلُغُ
+  ٱلۡأَسۡبَٰبَ
 sentence_translation: Pharaoh ordered, “O Hamân! Build me a high tower so I may reach
   the pathways
 word_by_word:
@@ -13,31 +13,31 @@ word_by_word:
     translation: Firaun
     transliteration: fir'ʿawnu
   3:
-    arabic: يٰهَامٰنُ
+    arabic: يَٰهَٰمَٰنُ
     translation: O Haman
     transliteration: yāhāmānu
   4:
-    arabic: ابۡنِ
+    arabic: ٱبۡنِ
     translation: Construct
     transliteration: ib'ni
   5:
-    arabic: لِىۡ
+    arabic: لِي
     translation: for me
     transliteration: lī
   6:
-    arabic: صَرۡحًا
+    arabic: صَرۡحٗا
     translation: a tower
     transliteration: ṣarḥan
   7:
-    arabic: لَّعَلِّىۡۤ
+    arabic: لَّعَلِّيٓ
     translation: that I may
     transliteration: laʿallī
   8:
-    arabic: اَبۡلُغُ
+    arabic: أَبۡلُغُ
     translation: reach
     transliteration: ablughu
   9:
-    arabic: "الۡاَسۡبَابَۙ‏ \uFEFF\uFEFF"
+    arabic: ٱلۡأَسۡبَٰبَ
     translation: the ways
     transliteration: l-asbāba
 ---

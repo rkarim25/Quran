@@ -1,41 +1,40 @@
 ---
-arabic_ayat: وَلَقَدۡ اٰتَيۡنَا مُوۡسَى الۡكِتٰبَ فَاخۡتُلِفَ فِيۡهِ​ ؕ وَ لَوۡلَا
-  كَلِمَةٌ سَبَقَتۡ مِنۡ رَّبِّكَ لَـقُضِىَ بَيۡنَهُمۡ​ ؕ وَاِنَّهُمۡ لَفِىۡ شَكٍّ
-  مِّنۡهُ مُرِيۡبٍ‏
+arabic_ayat: وَلَقَدۡ ءَاتَيۡنَا مُوسَى ٱلۡكِتَٰبَ فَٱخۡتُلِفَ فِيهِۚ وَلَوۡلَا كَلِمَةٞ
+  سَبَقَتۡ مِن رَّبِّكَ لَقُضِيَ بَيۡنَهُمۡۚ وَإِنَّهُمۡ لَفِي شَكّٖ مِّنۡهُ مُرِيبٖ
 sentence_translation: Indeed, We had given Moses the Scripture, but differences arose
   regarding it. Had it not been for a prior decree from your Lord, their differences
   would have been settled ˹at once˺. They are truly in alarming doubt about it.
 word_by_word:
   1:
-    arabic: وَلَقَدۡ
+    arabic: وَلَقَدۡ ءَ
     translation: And verily
     transliteration: walaqad
   2:
-    arabic: اٰتَيۡنَا
+    arabic: اتَيۡنَا
     translation: We gave
     transliteration: ātaynā
   3:
-    arabic: مُوۡسَى
+    arabic: مُوسَى
     translation: Musa
     transliteration: mūsā
   4:
-    arabic: الۡكِتٰبَ
+    arabic: ٱلۡكِتَٰبَ
     translation: the Book
     transliteration: l-kitāba
   5:
-    arabic: فَاخۡتُلِفَ
+    arabic: فَٱخۡتُلِفَ
     translation: but differences arose
     transliteration: fa-ukh'tulifa
   6:
-    arabic: فِيۡهِ​ ؕ
+    arabic: فِيهِۚ
     translation: therein
     transliteration: fīhi
   7:
-    arabic: وَ لَوۡلَا
+    arabic: وَلَوۡلَا
     translation: And if not
     transliteration: walawlā
   8:
-    arabic: كَلِمَةٌ
+    arabic: كَلِمَةٞ
     translation: (for) a Word
     transliteration: kalimatun
   9:
@@ -43,7 +42,7 @@ word_by_word:
     translation: (that) preceded
     transliteration: sabaqat
   10:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   11:
@@ -51,23 +50,23 @@ word_by_word:
     translation: your Lord
     transliteration: rabbika
   12:
-    arabic: لَـقُضِىَ
+    arabic: لَقُضِيَ
     translation: surely would have been judged
     transliteration: laquḍiya
   13:
-    arabic: بَيۡنَهُمۡ​ ؕ
+    arabic: بَيۡنَهُمۡۚ
     translation: between them
     transliteration: baynahum
   14:
-    arabic: وَاِنَّهُمۡ
+    arabic: وَإِنَّهُمۡ
     translation: And indeed, they
     transliteration: wa-innahum
   15:
-    arabic: لَفِىۡ
+    arabic: لَفِي
     translation: surely (are) in
     transliteration: lafī
   16:
-    arabic: شَكٍّ
+    arabic: شَكّٖ
     translation: doubt
     transliteration: shakkin
   17:
@@ -75,7 +74,7 @@ word_by_word:
     translation: concerning it
     transliteration: min'hu
   18:
-    arabic: مُرِيۡبٍ‏
+    arabic: مُرِيبٖ
     translation: suspicious
     transliteration: murībin
 ---

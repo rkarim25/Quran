@@ -1,6 +1,6 @@
 ---
-arabic_ayat: لِّنَفۡتِنَهُمۡ فِيۡهِ​ ؕ وَمَنۡ يُّعۡرِضۡ عَنۡ ذِكۡرِ رَبِّهٖ يَسۡلُكۡهُ
-  عَذَابًا صَعَدًا ۙ‏
+arabic_ayat: لِّنَفۡتِنَهُمۡ فِيهِۚ وَمَن يُعۡرِضۡ عَن ذِكۡرِ رَبِّهِۦ يَسۡلُكۡهُ
+  عَذَابٗا صَعَدٗا
 sentence_translation: as a test for them. And whoever turns away from the remembrance
   of their Lord will be admitted by Him into an overwhelming punishment.
 word_by_word:
@@ -9,19 +9,19 @@ word_by_word:
     translation: That We might test them
     transliteration: linaftinahum
   2:
-    arabic: فِيۡهِ​ ؕ
+    arabic: فِيهِۚ
     translation: therein
     transliteration: fīhi
   3:
-    arabic: وَمَنۡ
+    arabic: وَمَن
     translation: And whoever
     transliteration: waman
   4:
-    arabic: يُّعۡرِضۡ
+    arabic: يُعۡرِضۡ
     translation: turns away
     transliteration: yuʿ'riḍ
   5:
-    arabic: عَنۡ
+    arabic: عَن
     translation: from
     transliteration: ʿan
   6:
@@ -29,7 +29,7 @@ word_by_word:
     translation: the Remembrance
     transliteration: dhik'ri
   7:
-    arabic: رَبِّهٖ
+    arabic: رَبِّهِۦ
     translation: (of) his Lord
     transliteration: rabbihi
   8:
@@ -37,11 +37,11 @@ word_by_word:
     translation: He will make him enter
     transliteration: yasluk'hu
   9:
-    arabic: عَذَابًا
+    arabic: عَذَابٗا
     translation: a punishment
     transliteration: ʿadhāban
   10:
-    arabic: صَعَدًا ۙ‏
+    arabic: صَعَدٗا
     translation: severe
     transliteration: ṣaʿadan
 ---

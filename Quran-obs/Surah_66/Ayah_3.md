@@ -1,8 +1,8 @@
 ---
-arabic_ayat: وَاِذۡ اَسَرَّ النَّبِىُّ اِلٰى بَعۡضِ اَزۡوَاجِهٖ حَدِيۡثًا​ۚ فَلَمَّا
-  نَـبَّاَتۡ بِهٖ وَاَظۡهَرَهُ اللّٰهُ عَلَيۡهِ عَرَّفَ بَعۡضَهٗ وَاَعۡرَضَ عَنۡۢ
-  بَعۡضٍ​ۚ فَلَمَّا نَـبَّاَهَا بِهٖ قَالَتۡ مَنۡ اَنۡۢبَاَكَ هٰذَا​ؕ قَالَ نَـبَّاَنِىَ
-  الۡعَلِيۡمُ الۡخَبِیْرُ‏
+arabic_ayat: وَإِذۡ أَسَرَّ ٱلنَّبِيُّ إِلَىٰ بَعۡضِ أَزۡوَٰجِهِۦ حَدِيثٗا فَلَمَّا
+  نَبَّأَتۡ بِهِۦ وَأَظۡهَرَهُ ٱللَّهُ عَلَيۡهِ عَرَّفَ بَعۡضَهُۥ وَأَعۡرَضَ عَنۢ
+  بَعۡضٖۖ فَلَمَّا نَبَّأَهَا بِهِۦ قَالَتۡ مَنۡ أَنۢبَأَكَ هَٰذَاۖ قَالَ نَبَّأَنِيَ
+  ٱلۡعَلِيمُ ٱلۡخَبِيرُ
 sentence_translation: ˹Remember˺ when the Prophet had ˹once˺ confided something to
   one of his wives, then when she disclosed it ˹to another wife˺ and Allah made it
   known to him, he presented ˹to her˺ part of what was disclosed and overlooked a
@@ -10,19 +10,19 @@ sentence_translation: ˹Remember˺ when the Prophet had ˹once˺ confided someth
   “I was informed by the All-Knowing, All-Aware.”
 word_by_word:
   1:
-    arabic: وَاِذۡ
+    arabic: وَإِذۡ
     translation: And when
     transliteration: wa-idh
   2:
-    arabic: اَسَرَّ
+    arabic: أَسَرَّ
     translation: confided
     transliteration: asarra
   3:
-    arabic: النَّبِىُّ
+    arabic: ٱلنَّبِيُّ
     translation: the Prophet
     transliteration: l-nabiyu
   4:
-    arabic: اِلٰى
+    arabic: إِلَىٰ
     translation: to
     transliteration: ilā
   5:
@@ -30,11 +30,11 @@ word_by_word:
     translation: one
     transliteration: baʿḍi
   6:
-    arabic: اَزۡوَاجِهٖ
+    arabic: أَزۡوَٰجِهِۦ
     translation: (of) his wives
     transliteration: azwājihi
   7:
-    arabic: حَدِيۡثًا​ۚ
+    arabic: حَدِيثٗا
     translation: a statement
     transliteration: ḥadīthan
   8:
@@ -42,19 +42,19 @@ word_by_word:
     translation: and when
     transliteration: falammā
   9:
-    arabic: نَـبَّاَتۡ
+    arabic: نَبَّأَتۡ
     translation: she informed
     transliteration: nabba-at
   10:
-    arabic: بِهٖ
+    arabic: بِهِۦ
     translation: about it
     transliteration: bihi
   11:
-    arabic: وَاَظۡهَرَهُ
+    arabic: وَأَظۡهَرَهُ
     translation: and made it apparent
     transliteration: wa-aẓharahu
   12:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   13:
@@ -66,19 +66,19 @@ word_by_word:
     translation: he made known
     transliteration: ʿarrafa
   15:
-    arabic: بَعۡضَهٗ
+    arabic: بَعۡضَهُۥ
     translation: a part of it
     transliteration: baʿḍahu
   16:
-    arabic: وَاَعۡرَضَ
+    arabic: وَأَعۡرَضَ
     translation: and avoided
     transliteration: wa-aʿraḍa
   17:
-    arabic: عَنۡۢ
+    arabic: عَنۢ
     translation: '[of]'
     transliteration: ʿan
   18:
-    arabic: بَعۡضٍ​ۚ
+    arabic: بَعۡضٖۖ
     translation: a part
     transliteration: baʿḍin
   19:
@@ -86,11 +86,11 @@ word_by_word:
     translation: Then when
     transliteration: falammā
   20:
-    arabic: نَـبَّاَهَا
+    arabic: نَبَّأَهَا
     translation: he informed her
     transliteration: nabba-ahā
   21:
-    arabic: بِهٖ
+    arabic: بِهِۦ
     translation: about it
     transliteration: bihi
   22:
@@ -102,11 +102,11 @@ word_by_word:
     translation: Who
     transliteration: man
   24:
-    arabic: اَنۡۢبَاَكَ
+    arabic: أَنۢبَأَكَ
     translation: informed you
     transliteration: anba-aka
   25:
-    arabic: هٰذَا​ؕ
+    arabic: هَٰذَاۖ
     translation: this
     transliteration: hādhā
   26:
@@ -114,15 +114,15 @@ word_by_word:
     translation: He said
     transliteration: qāla
   27:
-    arabic: نَـبَّاَنِىَ
+    arabic: نَبَّأَنِيَ
     translation: Has informed me
     transliteration: nabba-aniya
   28:
-    arabic: الۡعَلِيۡمُ
+    arabic: ٱلۡعَلِيمُ
     translation: the All-Knower
     transliteration: l-ʿalīmu
   29:
-    arabic: الۡخَبِیْرُ‏
+    arabic: ٱلۡخَبِيرُ
     translation: the All-Aware
     transliteration: l-khabīru
 ---

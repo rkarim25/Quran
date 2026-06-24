@@ -1,9 +1,9 @@
 ---
-arabic_ayat: وَّاِنَّ عَلَيۡكَ لَعۡنَتِىۡۤ اِلٰى يَوۡمِ الدِّيۡنِ‏
+arabic_ayat: وَإِنَّ عَلَيۡكَ لَعۡنَتِيٓ إِلَىٰ يَوۡمِ ٱلدِّينِ
 sentence_translation: And surely upon you is My condemnation until the Day of Judgment.”
 word_by_word:
   1:
-    arabic: وَّاِنَّ
+    arabic: وَإِنَّ
     translation: And indeed
     transliteration: wa-inna
   2:
@@ -11,11 +11,11 @@ word_by_word:
     translation: upon you
     transliteration: ʿalayka
   3:
-    arabic: لَعۡنَتِىۡۤ
+    arabic: لَعۡنَتِيٓ
     translation: (is) My curse
     transliteration: laʿnatī
   4:
-    arabic: اِلٰى
+    arabic: إِلَىٰ
     translation: until
     transliteration: ilā
   5:
@@ -23,7 +23,7 @@ word_by_word:
     translation: (the) Day
     transliteration: yawmi
   6:
-    arabic: الدِّيۡنِ‏
+    arabic: ٱلدِّينِ
     translation: (of) Judgment
     transliteration: l-dīni
 ---

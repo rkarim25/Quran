@@ -1,9 +1,9 @@
 ---
-arabic_ayat: شَهۡرُ رَمَضَانَ الَّذِىۡٓ اُنۡزِلَ فِيۡهِ الۡقُرۡاٰنُ هُدًى لِّلنَّاسِ
-  وَ بَيِّنٰتٍ مِّنَ الۡهُدٰى وَالۡفُرۡقَانِۚ فَمَنۡ شَهِدَ مِنۡكُمُ الشَّهۡرَ فَلۡيَـصُمۡهُ ؕ
-  وَمَنۡ کَانَ مَرِيۡضًا اَوۡ عَلٰى سَفَرٍ فَعِدَّةٌ مِّنۡ اَيَّامٍ اُخَرَؕ يُرِيۡدُ
-  اللّٰهُ بِکُمُ الۡيُسۡرَ وَلَا يُرِيۡدُ بِکُمُ الۡعُسۡرَ وَلِتُکۡمِلُوا الۡعِدَّةَ
-  وَلِتُکَبِّرُوا اللّٰهَ عَلٰى مَا هَدٰٮكُمۡ وَلَعَلَّکُمۡ تَشۡكُرُوۡنَ‏
+arabic_ayat: شَهۡرُ رَمَضَانَ ٱلَّذِيٓ أُنزِلَ فِيهِ ٱلۡقُرۡءَانُ هُدٗى لِّلنَّاسِ
+  وَبَيِّنَٰتٖ مِّنَ ٱلۡهُدَىٰ وَٱلۡفُرۡقَانِۚ فَمَن شَهِدَ مِنكُمُ ٱلشَّهۡرَ فَلۡيَصُمۡهُۖ
+  وَمَن كَانَ مَرِيضًا أَوۡ عَلَىٰ سَفَرٖ فَعِدَّةٞ مِّنۡ أَيَّامٍ أُخَرَۗ يُرِيدُ
+  ٱللَّهُ بِكُمُ ٱلۡيُسۡرَ وَلَا يُرِيدُ بِكُمُ ٱلۡعُسۡرَ وَلِتُكۡمِلُواْ ٱلۡعِدَّةَ
+  وَلِتُكَبِّرُواْ ٱللَّهَ عَلَىٰ مَا هَدَىٰكُمۡ وَلَعَلَّكُمۡ تَشۡكُرُونَ
 sentence_translation: Ramaḍân is the month in which the Quran was revealed as a guide
   for humanity with clear proofs of guidance and the standard ˹to distinguish between
   right and wrong˺. So whoever is present this month, let them fast. But whoever is
@@ -21,23 +21,23 @@ word_by_word:
     translation: (of) Ramadhaan
     transliteration: ramaḍāna
   3:
-    arabic: الَّذِىۡٓ
+    arabic: ٱلَّذِيٓ
     translation: (is) that
     transliteration: alladhī
   4:
-    arabic: اُنۡزِلَ
+    arabic: أُنزِلَ
     translation: was revealed
     transliteration: unzila
   5:
-    arabic: فِيۡهِ
+    arabic: فِيهِ
     translation: therein
     transliteration: fīhi
   6:
-    arabic: الۡقُرۡاٰنُ
+    arabic: ٱلۡقُرۡءَانُ
     translation: the Quran
     transliteration: l-qur'ānu
   7:
-    arabic: هُدًى
+    arabic: هُدٗى
     translation: a Guidance
     transliteration: hudan
   8:
@@ -45,7 +45,7 @@ word_by_word:
     translation: for mankind
     transliteration: lilnnāsi
   9:
-    arabic: وَ بَيِّنٰتٍ
+    arabic: وَبَيِّنَٰتٖ
     translation: and clear proofs
     transliteration: wabayyinātin
   10:
@@ -53,15 +53,15 @@ word_by_word:
     translation: of
     transliteration: mina
   11:
-    arabic: الۡهُدٰى
+    arabic: ٱلۡهُدَىٰ
     translation: '[the] Guidance'
     transliteration: l-hudā
   12:
-    arabic: وَالۡفُرۡقَانِۚ
+    arabic: وَٱلۡفُرۡقَانِۚ
     translation: and the Criterion
     transliteration: wal-fur'qāni
   13:
-    arabic: فَمَنۡ
+    arabic: فَمَن
     translation: So whoever
     transliteration: faman
   14:
@@ -69,43 +69,43 @@ word_by_word:
     translation: witnesses
     transliteration: shahida
   15:
-    arabic: مِنۡكُمُ
+    arabic: مِنكُمُ
     translation: among you
     transliteration: minkumu
   16:
-    arabic: الشَّهۡرَ
+    arabic: ٱلشَّهۡرَ
     translation: the month
     transliteration: l-shahra
   17:
-    arabic: فَلۡيَـصُمۡهُ ؕ
+    arabic: فَلۡيَصُمۡهُۖ
     translation: then he should fast in it
     transliteration: falyaṣum'hu
   18:
-    arabic: وَمَنۡ
+    arabic: وَمَن
     translation: and whoever
     transliteration: waman
   19:
-    arabic: کَانَ
+    arabic: كَانَ
     translation: is
     transliteration: kāna
   20:
-    arabic: مَرِيۡضًا
+    arabic: مَرِيضًا
     translation: sick
     transliteration: marīḍan
   21:
-    arabic: اَوۡ
+    arabic: أَوۡ
     translation: or
     transliteration: aw
   22:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: 'on'
     transliteration: ʿalā
   23:
-    arabic: سَفَرٍ
+    arabic: سَفَرٖ
     translation: a journey
     transliteration: safarin
   24:
-    arabic: فَعِدَّةٌ
+    arabic: فَعِدَّةٞ
     translation: then prescribed number (should be made up)
     transliteration: faʿiddatun
   25:
@@ -113,27 +113,27 @@ word_by_word:
     translation: from
     transliteration: min
   26:
-    arabic: اَيَّامٍ
+    arabic: أَيَّامٍ
     translation: days
     transliteration: ayyāmin
   27:
-    arabic: اُخَرَؕ
+    arabic: أُخَرَۗ
     translation: other
     transliteration: ukhara
   28:
-    arabic: يُرِيۡدُ
+    arabic: يُرِيدُ
     translation: Intends
     transliteration: yurīdu
   29:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   30:
-    arabic: بِکُمُ
+    arabic: بِكُمُ
     translation: for you
     transliteration: bikumu
   31:
-    arabic: الۡيُسۡرَ
+    arabic: ٱلۡيُسۡرَ
     translation: '[the] ease'
     transliteration: l-yus'ra
   32:
@@ -141,35 +141,35 @@ word_by_word:
     translation: and not
     transliteration: walā
   33:
-    arabic: يُرِيۡدُ
+    arabic: يُرِيدُ
     translation: intends
     transliteration: yurīdu
   34:
-    arabic: بِکُمُ
+    arabic: بِكُمُ
     translation: for you
     transliteration: bikumu
   35:
-    arabic: الۡعُسۡرَ
+    arabic: ٱلۡعُسۡرَ
     translation: '[the] hardship'
     transliteration: l-ʿus'ra
   36:
-    arabic: وَلِتُکۡمِلُوا
+    arabic: وَلِتُكۡمِلُواْ
     translation: so that you complete
     transliteration: walituk'milū
   37:
-    arabic: الۡعِدَّةَ
+    arabic: ٱلۡعِدَّةَ
     translation: the prescribed period
     transliteration: l-ʿidata
   38:
-    arabic: وَلِتُکَبِّرُوا
+    arabic: وَلِتُكَبِّرُواْ
     translation: and that you magnify
     transliteration: walitukabbirū
   39:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   40:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: for
     transliteration: ʿalā
   41:
@@ -177,15 +177,15 @@ word_by_word:
     translation: '[what]'
     transliteration: mā
   42:
-    arabic: هَدٰٮكُمۡ
+    arabic: هَدَىٰكُمۡ
     translation: He guided you
     transliteration: hadākum
   43:
-    arabic: وَلَعَلَّکُمۡ
+    arabic: وَلَعَلَّكُمۡ
     translation: so that you may
     transliteration: walaʿallakum
   44:
-    arabic: تَشۡكُرُوۡنَ‏
+    arabic: تَشۡكُرُونَ
     translation: (be) grateful
     transliteration: tashkurūna
 ---

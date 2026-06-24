@@ -1,15 +1,15 @@
 ---
-arabic_ayat: وَاِذَاۤ اَنۡعَمۡنَا عَلَى الۡاِنۡسَانِ اَعۡرَضَ وَنَاٰ بِجَانِبِهٖ​ۚ
-  وَاِذَا مَسَّهُ الشَّرُّ فَذُوۡ دُعَآءٍ عَرِيۡضٍ‏
+arabic_ayat: وَإِذَآ أَنۡعَمۡنَا عَلَى ٱلۡإِنسَٰنِ أَعۡرَضَ وَنَـَٔا بِجَانِبِهِۦ
+  وَإِذَا مَسَّهُ ٱلشَّرُّ فَذُو دُعَآءٍ عَرِيضٖ
 sentence_translation: When We show favour to someone, they turn away, acting arrogantly.
   And when touched with evil, they make endless prayers ˹for good˺.
 word_by_word:
   1:
-    arabic: وَاِذَاۤ
+    arabic: وَإِذَآ
     translation: And when
     transliteration: wa-idhā
   2:
-    arabic: اَنۡعَمۡنَا
+    arabic: أَنۡعَمۡنَا
     translation: We bestow favor
     transliteration: anʿamnā
   3:
@@ -17,23 +17,23 @@ word_by_word:
     translation: upon
     transliteration: ʿalā
   4:
-    arabic: الۡاِنۡسَانِ
+    arabic: ٱلۡإِنسَٰنِ
     translation: man
     transliteration: l-insāni
   5:
-    arabic: اَعۡرَضَ
+    arabic: أَعۡرَضَ
     translation: 'he turns away '
     transliteration: aʿraḍa
   6:
-    arabic: وَنَاٰ
+    arabic: وَنَـَٔا
     translation: and distances himself
     transliteration: wanaā
   7:
-    arabic: بِجَانِبِهٖ​ۚ
+    arabic: بِجَانِبِهِۦ
     translation: and distances himself
     transliteration: bijānibihi
   8:
-    arabic: وَاِذَا
+    arabic: وَإِذَا
     translation: but when
     transliteration: wa-idhā
   9:
@@ -41,11 +41,11 @@ word_by_word:
     translation: touches him
     transliteration: massahu
   10:
-    arabic: الشَّرُّ
+    arabic: ٱلشَّرُّ
     translation: the evil
     transliteration: l-sharu
   11:
-    arabic: فَذُوۡ
+    arabic: فَذُو
     translation: then (he is) full
     transliteration: fadhū
   12:
@@ -53,7 +53,7 @@ word_by_word:
     translation: (of) supplication
     transliteration: duʿāin
   13:
-    arabic: عَرِيۡضٍ‏
+    arabic: عَرِيضٖ
     translation: lengthy
     transliteration: ʿarīḍin
 ---

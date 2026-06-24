@@ -1,6 +1,6 @@
 ---
-arabic_ayat: قَالَ اَرَءَيۡتَكَ هٰذَا الَّذِىۡ كَرَّمۡتَ عَلَىَّ لَٮِٕنۡ اَخَّرۡتَنِ
-  اِلٰى يَوۡمِ الۡقِيٰمَةِ لَاَحۡتَنِكَنَّ ذُرِّيَّتَهٗۤ اِلَّا قَلِيۡلًا‏
+arabic_ayat: قَالَ أَرَءَيۡتَكَ هَٰذَا ٱلَّذِي كَرَّمۡتَ عَلَيَّ لَئِنۡ أَخَّرۡتَنِ
+  إِلَىٰ يَوۡمِ ٱلۡقِيَٰمَةِ لَأَحۡتَنِكَنَّ ذُرِّيَّتَهُۥٓ إِلَّا قَلِيلٗا
 sentence_translation: Adding, “Do you see this one you honoured above me? If you delay
   my end until the Day of Judgment, I will certainly take hold of his descendants,
   except for a few.”
@@ -10,15 +10,15 @@ word_by_word:
     translation: He said
     transliteration: qāla
   2:
-    arabic: اَرَءَيۡتَكَ
+    arabic: أَرَءَيۡتَكَ
     translation: Do You see
     transliteration: ara-aytaka
   3:
-    arabic: هٰذَا
+    arabic: هَٰذَا
     translation: this
     transliteration: hādhā
   4:
-    arabic: الَّذِىۡ
+    arabic: ٱلَّذِي
     translation: whom
     transliteration: alladhī
   5:
@@ -26,19 +26,19 @@ word_by_word:
     translation: You have honored
     transliteration: karramta
   6:
-    arabic: عَلَىَّ
+    arabic: عَلَيَّ
     translation: above me
     transliteration: ʿalayya
   7:
-    arabic: لَٮِٕنۡ
+    arabic: لَئِنۡ
     translation: If
     transliteration: la-in
   8:
-    arabic: اَخَّرۡتَنِ
+    arabic: أَخَّرۡتَنِ
     translation: You give me respite
     transliteration: akhartani
   9:
-    arabic: اِلٰى
+    arabic: إِلَىٰ
     translation: till
     transliteration: ilā
   10:
@@ -46,23 +46,23 @@ word_by_word:
     translation: (the) Day
     transliteration: yawmi
   11:
-    arabic: الۡقِيٰمَةِ
+    arabic: ٱلۡقِيَٰمَةِ
     translation: (of) the Resurrection
     transliteration: l-qiyāmati
   12:
-    arabic: لَاَحۡتَنِكَنَّ
+    arabic: لَأَحۡتَنِكَنَّ
     translation: I will surely destroy
     transliteration: la-aḥtanikanna
   13:
-    arabic: ذُرِّيَّتَهٗۤ
+    arabic: ذُرِّيَّتَهُۥٓ
     translation: his offspring
     transliteration: dhurriyyatahu
   14:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   15:
-    arabic: قَلِيۡلًا‏
+    arabic: قَلِيلٗا
     translation: a few
     transliteration: qalīlan
 ---

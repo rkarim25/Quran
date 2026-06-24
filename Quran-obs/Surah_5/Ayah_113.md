@@ -1,23 +1,23 @@
 ---
-arabic_ayat: قَالُوۡا نُرِيۡدُ اَنۡ نَّاۡكُلَ مِنۡهَا وَتَطۡمَٮِٕنَّ قُلُوۡبُنَا وَنَـعۡلَمَ
-  اَنۡ قَدۡ صَدَقۡتَـنَا وَنَكُوۡنَ عَلَيۡهَا مِنَ الشّٰهِدِيۡنَ‏
+arabic_ayat: قَالُواْ نُرِيدُ أَن نَّأۡكُلَ مِنۡهَا وَتَطۡمَئِنَّ قُلُوبُنَا وَنَعۡلَمَ
+  أَن قَدۡ صَدَقۡتَنَا وَنَكُونَ عَلَيۡهَا مِنَ ٱلشَّٰهِدِينَ
 sentence_translation: They said, “We ˹only˺ wish to eat from it to reassure our hearts,
   to verify you are indeed truthful to us, and to become its witnesses.”
 word_by_word:
   1:
-    arabic: قَالُوۡا
+    arabic: قَالُواْ
     translation: They said
     transliteration: qālū
   2:
-    arabic: نُرِيۡدُ
+    arabic: نُرِيدُ
     translation: We wish
     transliteration: nurīdu
   3:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that
     transliteration: an
   4:
-    arabic: نَّاۡكُلَ
+    arabic: نَّأۡكُلَ
     translation: we eat
     transliteration: nakula
   5:
@@ -25,19 +25,19 @@ word_by_word:
     translation: from it
     transliteration: min'hā
   6:
-    arabic: وَتَطۡمَٮِٕنَّ
+    arabic: وَتَطۡمَئِنَّ
     translation: and satisfy
     transliteration: wataṭma-inna
   7:
-    arabic: قُلُوۡبُنَا
+    arabic: قُلُوبُنَا
     translation: our hearts
     transliteration: qulūbunā
   8:
-    arabic: وَنَـعۡلَمَ
+    arabic: وَنَعۡلَمَ
     translation: and we know
     transliteration: wanaʿlama
   9:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that
     transliteration: an
   10:
@@ -45,11 +45,11 @@ word_by_word:
     translation: certainly
     transliteration: qad
   11:
-    arabic: صَدَقۡتَـنَا
+    arabic: صَدَقۡتَنَا
     translation: you have spoken the truth to us
     transliteration: ṣadaqtanā
   12:
-    arabic: وَنَكُوۡنَ
+    arabic: وَنَكُونَ
     translation: and we be
     transliteration: wanakūna
   13:
@@ -61,7 +61,7 @@ word_by_word:
     translation: among
     transliteration: mina
   15:
-    arabic: الشّٰهِدِيۡنَ‏
+    arabic: ٱلشَّٰهِدِينَ
     translation: the witnesses
     transliteration: l-shāhidīna
 ---

@@ -1,47 +1,47 @@
 ---
-arabic_ayat: ذٰلِكَ بِاَنَّهُمُ اتَّبَعُوۡا مَاۤ اَسۡخَطَ اللّٰهَ وَكَرِهُوۡا رِضۡوَانَهٗ
-  فَاَحۡبَطَ اَعۡمَالَهُمۡ‏
+arabic_ayat: ذَٰلِكَ بِأَنَّهُمُ ٱتَّبَعُواْ مَآ أَسۡخَطَ ٱللَّهَ وَكَرِهُواْ رِضۡوَٰنَهُۥ
+  فَأَحۡبَطَ أَعۡمَٰلَهُمۡ
 sentence_translation: This is because they follow whatever displeases Allah and hate
   whatever pleases Him, so He has rendered their deeds void.
 word_by_word:
   1:
-    arabic: ذٰلِكَ
+    arabic: ذَٰلِكَ
     translation: That
     transliteration: dhālika
   2:
-    arabic: بِاَنَّهُمُ
+    arabic: بِأَنَّهُمُ
     translation: (is) because they
     transliteration: bi-annahumu
   3:
-    arabic: اتَّبَعُوۡا
+    arabic: ٱتَّبَعُواْ
     translation: followed
     transliteration: ittabaʿū
   4:
-    arabic: مَاۤ
+    arabic: مَآ
     translation: what
     transliteration: mā
   5:
-    arabic: اَسۡخَطَ
+    arabic: أَسۡخَطَ
     translation: angered
     transliteration: askhaṭa
   6:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   7:
-    arabic: وَكَرِهُوۡا
+    arabic: وَكَرِهُواْ
     translation: and hated
     transliteration: wakarihū
   8:
-    arabic: رِضۡوَانَهٗ
+    arabic: رِضۡوَٰنَهُۥ
     translation: His pleasure
     transliteration: riḍ'wānahu
   9:
-    arabic: فَاَحۡبَطَ
+    arabic: فَأَحۡبَطَ
     translation: so He made worthless
     transliteration: fa-aḥbaṭa
   10:
-    arabic: اَعۡمَالَهُمۡ‏
+    arabic: أَعۡمَٰلَهُمۡ
     translation: their deeds
     transliteration: aʿmālahum
 ---

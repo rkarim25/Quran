@@ -1,5 +1,5 @@
 ---
-arabic_ayat: فَيَذَرُهَا قَاعًا صَفۡصَفًا ۙ‏
+arabic_ayat: فَيَذَرُهَا قَاعٗا صَفۡصَفٗا
 sentence_translation: leaving the earth level and bare,
 word_by_word:
   1:
@@ -7,11 +7,11 @@ word_by_word:
     translation: Then He will leave it
     transliteration: fayadharuhā
   2:
-    arabic: قَاعًا
+    arabic: قَاعٗا
     translation: a level
     transliteration: qāʿan
   3:
-    arabic: صَفۡصَفًا ۙ‏
+    arabic: صَفۡصَفٗا
     translation: plain
     transliteration: ṣafṣafan
 ---

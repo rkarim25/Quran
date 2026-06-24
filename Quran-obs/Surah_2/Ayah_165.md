@@ -1,8 +1,8 @@
 ---
-arabic_ayat: وَمِنَ النَّاسِ مَنۡ يَّتَّخِذُ مِنۡ دُوۡنِ اللّٰهِ اَنۡدَادًا يُّحِبُّوۡنَهُمۡ
-  كَحُبِّ اللّٰهِؕ وَالَّذِيۡنَ اٰمَنُوۡٓا اَشَدُّ حُبًّا لِّلّٰهِ ؕ وَلَوۡ يَرَى
-  الَّذِيۡنَ ظَلَمُوۡٓا اِذۡ يَرَوۡنَ الۡعَذَابَۙ اَنَّ الۡقُوَّةَ لِلّٰهِ جَمِيۡعًا ۙ
-  وَّاَنَّ اللّٰهَ شَدِيۡدُ الۡعَذَابِ‏
+arabic_ayat: وَمِنَ ٱلنَّاسِ مَن يَتَّخِذُ مِن دُونِ ٱللَّهِ أَندَادٗا يُحِبُّونَهُمۡ
+  كَحُبِّ ٱللَّهِۖ وَٱلَّذِينَ ءَامَنُوٓاْ أَشَدُّ حُبّٗا لِّلَّهِۗ وَلَوۡ يَرَى ٱلَّذِينَ
+  ظَلَمُوٓاْ إِذۡ يَرَوۡنَ ٱلۡعَذَابَ أَنَّ ٱلۡقُوَّةَ لِلَّهِ جَمِيعٗا وَأَنَّ ٱللَّهَ
+  شَدِيدُ ٱلۡعَذَابِ
 sentence_translation: Still there are some who take others as Allah’s equal—they love
   them as they should love Allah—but the ˹true˺ believers love Allah even more. If
   only the wrongdoers could see the ˹horrible˺ punishment ˹awaiting them˺, they would
@@ -14,35 +14,35 @@ word_by_word:
     translation: And among
     transliteration: wamina
   2:
-    arabic: النَّاسِ
+    arabic: ٱلنَّاسِ
     translation: the mankind
     transliteration: l-nāsi
   3:
-    arabic: مَنۡ
+    arabic: مَن
     translation: who
     transliteration: man
   4:
-    arabic: يَّتَّخِذُ
+    arabic: يَتَّخِذُ
     translation: takes
     transliteration: yattakhidhu
   5:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   6:
-    arabic: دُوۡنِ
+    arabic: دُونِ
     translation: besides
     transliteration: dūni
   7:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   8:
-    arabic: اَنۡدَادًا
+    arabic: أَندَادٗا
     translation: equals
     transliteration: andādan
   9:
-    arabic: يُّحِبُّوۡنَهُمۡ
+    arabic: يُحِبُّونَهُمۡ
     translation: They love them
     transliteration: yuḥibbūnahum
   10:
@@ -50,27 +50,27 @@ word_by_word:
     translation: as (they should) love
     transliteration: kaḥubbi
   11:
-    arabic: اللّٰهِؕ
+    arabic: ٱللَّهِۖ
     translation: Allah
     transliteration: l-lahi
   12:
-    arabic: وَالَّذِيۡنَ
+    arabic: وَٱلَّذِينَ ءَ
     translation: And those who
     transliteration: wa-alladhīna
   13:
-    arabic: اٰمَنُوۡٓا
+    arabic: امَنُوٓاْ
     translation: believe[d]
     transliteration: āmanū
   14:
-    arabic: اَشَدُّ
+    arabic: أَشَدُّ
     translation: (are) stronger
     transliteration: ashaddu
   15:
-    arabic: حُبًّا
+    arabic: حُبّٗا
     translation: (in) love
     transliteration: ḥubban
   16:
-    arabic: لِّلّٰهِ ؕ
+    arabic: لِّلَّهِۗ
     translation: for Allah
     transliteration: lillahi
   17:
@@ -82,15 +82,15 @@ word_by_word:
     translation: would see
     transliteration: yarā
   19:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   20:
-    arabic: ظَلَمُوۡٓا
+    arabic: ظَلَمُوٓاْ
     translation: wronged
     transliteration: ẓalamū
   21:
-    arabic: اِذۡ
+    arabic: إِذۡ
     translation: when
     transliteration: idh
   22:
@@ -98,39 +98,39 @@ word_by_word:
     translation: they will see
     transliteration: yarawna
   23:
-    arabic: الۡعَذَابَۙ
+    arabic: ٱلۡعَذَابَ
     translation: the punishment
     transliteration: l-ʿadhāba
   24:
-    arabic: اَنَّ
+    arabic: أَنَّ
     translation: that
     transliteration: anna
   25:
-    arabic: الۡقُوَّةَ
+    arabic: ٱلۡقُوَّةَ
     translation: the power
     transliteration: l-quwata
   26:
-    arabic: لِلّٰهِ
+    arabic: لِلَّهِ
     translation: (belongs) to Allah
     transliteration: lillahi
   27:
-    arabic: جَمِيۡعًا ۙ
+    arabic: جَمِيعٗا
     translation: all
     transliteration: jamīʿan
   28:
-    arabic: وَّاَنَّ
+    arabic: وَأَنَّ
     translation: and [that]
     transliteration: wa-anna
   29:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   30:
-    arabic: شَدِيۡدُ
+    arabic: شَدِيدُ
     translation: (is) severe
     transliteration: shadīdu
   31:
-    arabic: الۡعَذَابِ‏
+    arabic: ٱلۡعَذَابِ
     translation: (in) [the] punishment
     transliteration: l-ʿadhābi
 ---

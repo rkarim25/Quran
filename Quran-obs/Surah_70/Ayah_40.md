@@ -1,14 +1,14 @@
 ---
-arabic_ayat: فَلَاۤ اُقۡسِمُ بِرَبِّ الۡمَشٰرِقِ وَالۡمَغٰرِبِ اِنَّا لَقٰدِرُوۡنَۙ‏
+arabic_ayat: فَلَآ أُقۡسِمُ بِرَبِّ ٱلۡمَشَٰرِقِ وَٱلۡمَغَٰرِبِ إِنَّا لَقَٰدِرُونَ
 sentence_translation: So, I do swear by the Lord of ˹all˺ the points of sunrise and
   sunset that We are truly capable
 word_by_word:
   1:
-    arabic: فَلَاۤ
+    arabic: فَلَآ
     translation: But nay
     transliteration: falā
   2:
-    arabic: اُقۡسِمُ
+    arabic: أُقۡسِمُ
     translation: I swear
     transliteration: uq'simu
   3:
@@ -16,19 +16,19 @@ word_by_word:
     translation: by (the) Lord
     transliteration: birabbi
   4:
-    arabic: الۡمَشٰرِقِ
+    arabic: ٱلۡمَشَٰرِقِ
     translation: (of) the risings
     transliteration: l-mashāriqi
   5:
-    arabic: وَالۡمَغٰرِبِ
+    arabic: وَٱلۡمَغَٰرِبِ
     translation: and the settings
     transliteration: wal-maghāribi
   6:
-    arabic: اِنَّا
+    arabic: إِنَّا
     translation: that We
     transliteration: innā
   7:
-    arabic: لَقٰدِرُوۡنَۙ‏
+    arabic: لَقَٰدِرُونَ
     translation: (are) surely Able
     transliteration: laqādirūna
 ---

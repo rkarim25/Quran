@@ -1,10 +1,10 @@
 ---
-arabic_ayat: سُبۡحٰنَ رَبِّكَ رَبِّ الۡعِزَّةِ عَمَّا يَصِفُوۡنَ​ۚ‏
+arabic_ayat: سُبۡحَٰنَ رَبِّكَ رَبِّ ٱلۡعِزَّةِ عَمَّا يَصِفُونَ
 sentence_translation: Glorified is your Lord—the Lord of Honour and Power—above what
   they claim!
 word_by_word:
   1:
-    arabic: سُبۡحٰنَ
+    arabic: سُبۡحَٰنَ
     translation: Glory
     transliteration: sub'ḥāna
   2:
@@ -16,7 +16,7 @@ word_by_word:
     translation: (the) Lord
     transliteration: rabbi
   4:
-    arabic: الۡعِزَّةِ
+    arabic: ٱلۡعِزَّةِ
     translation: (of) Honor
     transliteration: l-ʿizati
   5:
@@ -24,7 +24,7 @@ word_by_word:
     translation: above what
     transliteration: ʿammā
   6:
-    arabic: يَصِفُوۡنَ​ۚ‏
+    arabic: يَصِفُونَ
     translation: they attribute
     transliteration: yaṣifūna
 ---

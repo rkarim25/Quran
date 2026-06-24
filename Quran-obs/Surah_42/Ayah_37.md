@@ -1,30 +1,30 @@
 ---
-arabic_ayat: وَالَّذِيۡنَ يَجۡتَنِبُوۡنَ كَبٰٓٮِٕرَ الۡاِثۡمِ وَالۡفَوَاحِشَ وَاِذَا
-  مَا غَضِبُوۡا هُمۡ يَغۡفِرُوۡنَ​ۚ‏
+arabic_ayat: وَٱلَّذِينَ يَجۡتَنِبُونَ كَبَٰٓئِرَ ٱلۡإِثۡمِ وَٱلۡفَوَٰحِشَ وَإِذَا
+  مَا غَضِبُواْ هُمۡ يَغۡفِرُونَ
 sentence_translation: who avoid major sins and shameful deeds, and forgive when angered;
 word_by_word:
   1:
-    arabic: وَالَّذِيۡنَ
+    arabic: وَٱلَّذِينَ
     translation: And those who
     transliteration: wa-alladhīna
   2:
-    arabic: يَجۡتَنِبُوۡنَ
+    arabic: يَجۡتَنِبُونَ
     translation: avoid
     transliteration: yajtanibūna
   3:
-    arabic: كَبٰٓٮِٕرَ
+    arabic: كَبَٰٓئِرَ
     translation: (the) greater
     transliteration: kabāira
   4:
-    arabic: الۡاِثۡمِ
+    arabic: ٱلۡإِثۡمِ
     translation: sins
     transliteration: l-ith'mi
   5:
-    arabic: وَالۡفَوَاحِشَ
+    arabic: وَٱلۡفَوَٰحِشَ
     translation: and the immoralities
     transliteration: wal-fawāḥisha
   6:
-    arabic: وَاِذَا
+    arabic: وَإِذَا
     translation: and when
     transliteration: wa-idhā
   7:
@@ -32,7 +32,7 @@ word_by_word:
     translation: and when
     transliteration: mā
   8:
-    arabic: غَضِبُوۡا
+    arabic: غَضِبُواْ
     translation: they are angry
     transliteration: ghaḍibū
   9:
@@ -40,7 +40,7 @@ word_by_word:
     translation: they
     transliteration: hum
   10:
-    arabic: يَغۡفِرُوۡنَ​ۚ‏
+    arabic: يَغۡفِرُونَ
     translation: forgive
     transliteration: yaghfirūna
 ---

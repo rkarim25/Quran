@@ -1,17 +1,17 @@
 ---
-arabic_ayat: وَّ سَبِّحُوۡهُ بُكۡرَةً وَّاَصِيۡلًا‏
+arabic_ayat: وَسَبِّحُوهُ بُكۡرَةٗ وَأَصِيلًا
 sentence_translation: and glorify Him morning and evening.
 word_by_word:
   1:
-    arabic: وَّ سَبِّحُوۡهُ
+    arabic: وَسَبِّحُوهُ
     translation: And glorify Him
     transliteration: wasabbiḥūhu
   2:
-    arabic: بُكۡرَةً
+    arabic: بُكۡرَةٗ
     translation: morning
     transliteration: buk'ratan
   3:
-    arabic: وَّاَصِيۡلًا‏
+    arabic: وَأَصِيلًا
     translation: and evening
     transliteration: wa-aṣīlan
 ---

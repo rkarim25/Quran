@@ -1,18 +1,18 @@
 ---
-arabic_ayat: يَـتَـنَازَعُوۡنَ فِيۡهَا كَاۡسًا لَّا لَغۡوٌ فِيۡهَا وَلَا تَاۡثِيۡمٌ‏
+arabic_ayat: يَتَنَٰزَعُونَ فِيهَا كَأۡسٗا لَّا لَغۡوٞ فِيهَا وَلَا تَأۡثِيمٞ
 sentence_translation: They will pass around to each other a drink ˹of pure wine,˺
   which leads to no idle talk or sinfulness.
 word_by_word:
   1:
-    arabic: يَـتَـنَازَعُوۡنَ
+    arabic: يَتَنَٰزَعُونَ
     translation: They will pass to one another
     transliteration: yatanāzaʿūna
   2:
-    arabic: فِيۡهَا
+    arabic: فِيهَا
     translation: therein
     transliteration: fīhā
   3:
-    arabic: كَاۡسًا
+    arabic: كَأۡسٗا
     translation: a cup
     transliteration: kasan
   4:
@@ -20,11 +20,11 @@ word_by_word:
     translation: 'no'
     transliteration: lā
   5:
-    arabic: لَغۡوٌ
+    arabic: لَغۡوٞ
     translation: ill speech
     transliteration: laghwun
   6:
-    arabic: فِيۡهَا
+    arabic: فِيهَا
     translation: therein
     transliteration: fīhā
   7:
@@ -32,7 +32,7 @@ word_by_word:
     translation: and no
     transliteration: walā
   8:
-    arabic: تَاۡثِيۡمٌ‏
+    arabic: تَأۡثِيمٞ
     translation: sin
     transliteration: tathīmun
 ---

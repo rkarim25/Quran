@@ -1,7 +1,7 @@
 ---
-arabic_ayat: قَالَ الَّذِيۡنَ حَقَّ عَلَيۡهِمُ الۡقَوۡلُ رَبَّنَا هٰٓؤُلَاۤءِ الَّذِيۡنَ
-  اَغۡوَيۡنَا ۚ اَغۡوَيۡنٰهُمۡ كَمَا غَوَيۡنَا​ ۚ تَبَـرَّاۡنَاۤ اِلَيۡكَ​ مَا كَانُوۡۤا
-  اِيَّانَا يَعۡبُدُوۡنَ‏
+arabic_ayat: قَالَ ٱلَّذِينَ حَقَّ عَلَيۡهِمُ ٱلۡقَوۡلُ رَبَّنَا هَٰٓؤُلَآءِ ٱلَّذِينَ
+  أَغۡوَيۡنَآ أَغۡوَيۡنَٰهُمۡ كَمَا غَوَيۡنَاۖ تَبَرَّأۡنَآ إِلَيۡكَۖ مَا كَانُوٓاْ
+  إِيَّانَا يَعۡبُدُونَ
 sentence_translation: Those ˹misleaders˺ against whom the decree ˹of torment˺ is justified
   will cry, “Our Lord! These ˹followers˺ are the ones we caused to deviate. We led
   them into deviance, for we ourselves were deviant. We disassociate ourselves ˹from
@@ -12,7 +12,7 @@ word_by_word:
     translation: (Will) say
     transliteration: qāla
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: 'those '
     transliteration: alladhīna
   3:
@@ -24,7 +24,7 @@ word_by_word:
     translation: against whom
     transliteration: ʿalayhimu
   5:
-    arabic: الۡقَوۡلُ
+    arabic: ٱلۡقَوۡلُ
     translation: the Word
     transliteration: l-qawlu
   6:
@@ -32,19 +32,19 @@ word_by_word:
     translation: Our Lord
     transliteration: rabbanā
   7:
-    arabic: هٰٓؤُلَاۤءِ
+    arabic: هَٰٓؤُلَآءِ
     translation: These
     transliteration: hāulāi
   8:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: (are) those whom
     transliteration: alladhīna
   9:
-    arabic: اَغۡوَيۡنَا ۚ
+    arabic: أَغۡوَيۡنَآ
     translation: we led astray
     transliteration: aghwaynā
   10:
-    arabic: اَغۡوَيۡنٰهُمۡ
+    arabic: أَغۡوَيۡنَٰهُمۡ
     translation: We led them astray
     transliteration: aghwaynāhum
   11:
@@ -52,15 +52,15 @@ word_by_word:
     translation: as
     transliteration: kamā
   12:
-    arabic: غَوَيۡنَا​ ۚ
+    arabic: غَوَيۡنَاۖ
     translation: we were astray
     transliteration: ghawaynā
   13:
-    arabic: تَبَـرَّاۡنَاۤ
+    arabic: تَبَرَّأۡنَآ
     translation: We declare our innocence
     transliteration: tabarranā
   14:
-    arabic: اِلَيۡكَ​
+    arabic: إِلَيۡكَۖ
     translation: before You
     transliteration: ilayka
   15:
@@ -68,15 +68,15 @@ word_by_word:
     translation: Not
     transliteration: mā
   16:
-    arabic: كَانُوۡۤا
+    arabic: كَانُوٓاْ
     translation: they used (to)
     transliteration: kānū
   17:
-    arabic: اِيَّانَا
+    arabic: إِيَّانَا
     translation: worship us
     transliteration: iyyānā
   18:
-    arabic: يَعۡبُدُوۡنَ‏
+    arabic: يَعۡبُدُونَ
     translation: worship us
     transliteration: yaʿbudūna
 ---

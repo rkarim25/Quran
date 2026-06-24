@@ -1,39 +1,39 @@
 ---
-arabic_ayat: فَاخۡتَلَفَ الۡاَحۡزَابُ مِنۡۢ بَيۡنِهِمۡ​ۚ فَوَيۡلٌ لِّـلَّذِيۡنَ كَفَرُوۡا
-  مِنۡ مَّشۡهَدِ يَوۡمٍ عَظِيۡمٍ‏
+arabic_ayat: فَٱخۡتَلَفَ ٱلۡأَحۡزَابُ مِنۢ بَيۡنِهِمۡۖ فَوَيۡلٞ لِّلَّذِينَ كَفَرُواْ
+  مِن مَّشۡهَدِ يَوۡمٍ عَظِيمٍ
 sentence_translation: Yet their ˹various˺ groups have differed among themselves ˹about
   him˺, so woe to the disbelievers when they face a tremendous Day!
 word_by_word:
   1:
-    arabic: فَاخۡتَلَفَ
+    arabic: فَٱخۡتَلَفَ
     translation: But differed
     transliteration: fa-ikh'talafa
   2:
-    arabic: الۡاَحۡزَابُ
+    arabic: ٱلۡأَحۡزَابُ
     translation: the sects
     transliteration: l-aḥzābu
   3:
-    arabic: مِنۡۢ
+    arabic: مِنۢ
     translation: from among them
     transliteration: min
   4:
-    arabic: بَيۡنِهِمۡ​ۚ
+    arabic: بَيۡنِهِمۡۖ
     translation: from among them
     transliteration: baynihim
   5:
-    arabic: فَوَيۡلٌ
+    arabic: فَوَيۡلٞ
     translation: so woe
     transliteration: fawaylun
   6:
-    arabic: لِّـلَّذِيۡنَ
+    arabic: لِّلَّذِينَ
     translation: to those who
     transliteration: lilladhīna
   7:
-    arabic: كَفَرُوۡا
+    arabic: كَفَرُواْ
     translation: disbelieve
     transliteration: kafarū
   8:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   9:
@@ -45,7 +45,7 @@ word_by_word:
     translation: (of) a Day
     transliteration: yawmin
   11:
-    arabic: عَظِيۡمٍ‏
+    arabic: عَظِيمٍ
     translation: great
     transliteration: ʿaẓīmin
 ---

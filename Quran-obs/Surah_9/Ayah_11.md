@@ -1,44 +1,44 @@
 ---
-arabic_ayat: فَاِنۡ تَابُوۡا وَاَقَامُوا الصَّلٰوةَ وَاٰتَوُا الزَّكٰوةَ فَاِخۡوَانُكُمۡ
-  فِى الدِّيۡنِ​ؕ وَنُفَصِّلُ الۡاٰيٰتِ لِقَوۡمٍ يَّعۡلَمُوۡنَ‏
+arabic_ayat: فَإِن تَابُواْ وَأَقَامُواْ ٱلصَّلَوٰةَ وَءَاتَوُاْ ٱلزَّكَوٰةَ فَإِخۡوَٰنُكُمۡ
+  فِي ٱلدِّينِۗ وَنُفَصِّلُ ٱلۡأٓيَٰتِ لِقَوۡمٖ يَعۡلَمُونَ
 sentence_translation: But if they repent, perform prayer, and pay alms-tax, then they
   are your brothers in faith. This is how We make the revelations clear for people
   of knowledge.
 word_by_word:
   1:
-    arabic: فَاِنۡ
+    arabic: فَإِن
     translation: But if
     transliteration: fa-in
   2:
-    arabic: تَابُوۡا
+    arabic: تَابُواْ
     translation: they repent
     transliteration: tābū
   3:
-    arabic: وَاَقَامُوا
+    arabic: وَأَقَامُواْ
     translation: and establish
     transliteration: wa-aqāmū
   4:
-    arabic: الصَّلٰوةَ
+    arabic: ٱلصَّلَوٰةَ
     translation: the prayer
     transliteration: l-ṣalata
   5:
-    arabic: وَاٰتَوُا
+    arabic: وَءَاتَوُاْ
     translation: and give
     transliteration: waātawū
   6:
-    arabic: الزَّكٰوةَ
+    arabic: ٱلزَّكَوٰةَ
     translation: the zakah
     transliteration: l-zakata
   7:
-    arabic: فَاِخۡوَانُكُمۡ
+    arabic: فَإِخۡوَٰنُكُمۡ
     translation: then (they are) your brothers
     transliteration: fa-ikh'wānukum
   8:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   9:
-    arabic: الدِّيۡنِ​ؕ
+    arabic: ٱلدِّينِۗ
     translation: '[the] religion'
     transliteration: l-dīni
   10:
@@ -46,15 +46,15 @@ word_by_word:
     translation: And We explain in detail
     transliteration: wanufaṣṣilu
   11:
-    arabic: الۡاٰيٰتِ
+    arabic: ٱلۡأٓيَٰتِ
     translation: the Verses
     transliteration: l-āyāti
   12:
-    arabic: لِقَوۡمٍ
+    arabic: لِقَوۡمٖ
     translation: for a people
     transliteration: liqawmin
   13:
-    arabic: يَّعۡلَمُوۡنَ‏
+    arabic: يَعۡلَمُونَ
     translation: (who) know
     transliteration: yaʿlamūna
 ---

@@ -1,34 +1,34 @@
 ---
-arabic_ayat: اَمۡ تَسۡـَٔـلُهُمۡ اَجۡرًا فَهُمۡ مِّنۡ مَّغۡرَمٍ مُّثۡقَلُوۡنَؕ‏
+arabic_ayat: أَمۡ تَسۡـَٔلُهُمۡ أَجۡرٗا فَهُم مِّن مَّغۡرَمٖ مُّثۡقَلُونَ
 sentence_translation: Or are you ˹O Prophet˺ asking them for a reward ˹for the message˺
   so that they are overburdened by debt?
 word_by_word:
   1:
-    arabic: اَمۡ
+    arabic: أَمۡ
     translation: Or
     transliteration: am
   2:
-    arabic: تَسۡـَٔـلُهُمۡ
+    arabic: تَسۡـَٔلُهُمۡ
     translation: (do) you ask from them
     transliteration: tasaluhum
   3:
-    arabic: اَجۡرًا
+    arabic: أَجۡرٗا
     translation: a payment
     transliteration: ajran
   4:
-    arabic: فَهُمۡ
+    arabic: فَهُم
     translation: so they
     transliteration: fahum
   5:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: from
     transliteration: min
   6:
-    arabic: مَّغۡرَمٍ
+    arabic: مَّغۡرَمٖ
     translation: a debt
     transliteration: maghramin
   7:
-    arabic: مُّثۡقَلُوۡنَؕ‏
+    arabic: مُّثۡقَلُونَ
     translation: (are) overburdened
     transliteration: muth'qalūna
 ---

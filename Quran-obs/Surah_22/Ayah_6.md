@@ -1,19 +1,19 @@
 ---
-arabic_ayat: ذٰ لِكَ بِاَنَّ اللّٰهَ هُوَ الۡحَـقُّ وَاَنَّهٗ يُحۡىِ الۡمَوۡتٰى وَاَنَّهٗ
-  عَلٰى كُلِّ شَىۡءٍ قَدِيۡرٌ ۙ‏
+arabic_ayat: ذَٰلِكَ بِأَنَّ ٱللَّهَ هُوَ ٱلۡحَقُّ وَأَنَّهُۥ يُحۡيِ ٱلۡمَوۡتَىٰ وَأَنَّهُۥ
+  عَلَىٰ كُلِّ شَيۡءٖ قَدِيرٞ
 sentence_translation: That is because Allah ˹alone˺ is the Truth, He ˹alone˺ gives
   life to the dead, and He ˹alone˺ is Most Capable of everything.
 word_by_word:
   1:
-    arabic: ذٰ لِكَ
+    arabic: ذَٰلِكَ
     translation: That
     transliteration: dhālika
   2:
-    arabic: بِاَنَّ
+    arabic: بِأَنَّ
     translation: (is) because
     transliteration: bi-anna
   3:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: 'Allah '
     transliteration: l-laha
   4:
@@ -21,27 +21,27 @@ word_by_word:
     translation: He
     transliteration: huwa
   5:
-    arabic: الۡحَـقُّ
+    arabic: ٱلۡحَقُّ
     translation: (is) the Truth
     transliteration: l-ḥaqu
   6:
-    arabic: وَاَنَّهٗ
+    arabic: وَأَنَّهُۥ
     translation: And that He
     transliteration: wa-annahu
   7:
-    arabic: يُحۡىِ
+    arabic: يُحۡيِ
     translation: '[He] gives life'
     transliteration: yuḥ'yī
   8:
-    arabic: الۡمَوۡتٰى
+    arabic: ٱلۡمَوۡتَىٰ
     translation: (to) the dead
     transliteration: l-mawtā
   9:
-    arabic: وَاَنَّهٗ
+    arabic: وَأَنَّهُۥ
     translation: and that He
     transliteration: wa-annahu
   10:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: (is) over
     transliteration: ʿalā
   11:
@@ -49,11 +49,11 @@ word_by_word:
     translation: every
     transliteration: kulli
   12:
-    arabic: شَىۡءٍ
+    arabic: شَيۡءٖ
     translation: thing
     transliteration: shayin
   13:
-    arabic: قَدِيۡرٌ ۙ‏
+    arabic: قَدِيرٞ
     translation: All-Powerful
     transliteration: qadīrun
 ---

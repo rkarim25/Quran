@@ -1,20 +1,19 @@
 ---
-arabic_ayat: "اِنۡ يَّنۡصُرۡكُمُ اللّٰهُ فَلَا غَالِبَ لَـكُمۡ​ۚ وَاِنۡ يَّخۡذُلۡكُمۡ\
-  \ فَمَنۡ ذَا الَّذِىۡ يَنۡصُرُكُمۡ مِّنۡۢ بَعۡدِهٖ ​ؕ وَعَلَى اللّٰهِ فَلۡيَتَوَكَّلِ\
-  \ الۡمُؤۡمِنُوۡنَ‏ \uFEFF\uFEFF"
+arabic_ayat: إِن يَنصُرۡكُمُ ٱللَّهُ فَلَا غَالِبَ لَكُمۡۖ وَإِن يَخۡذُلۡكُمۡ فَمَن
+  ذَا ٱلَّذِي يَنصُرُكُم مِّنۢ بَعۡدِهِۦۗ وَعَلَى ٱللَّهِ فَلۡيَتَوَكَّلِ ٱلۡمُؤۡمِنُونَ
 sentence_translation: If Allah helps you, none can defeat you. But if He denies you
   help, then who else can help you? So in Allah let the believers put their trust.
 word_by_word:
   1:
-    arabic: اِنۡ
+    arabic: إِن
     translation: If
     transliteration: in
   2:
-    arabic: يَّنۡصُرۡكُمُ
+    arabic: يَنصُرۡكُمُ
     translation: helps you
     transliteration: yanṣur'kumu
   3:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   4:
@@ -26,19 +25,19 @@ word_by_word:
     translation: (can) overcome
     transliteration: ghāliba
   6:
-    arabic: لَـكُمۡ​ۚ
+    arabic: لَكُمۡۖ
     translation: '[for] you'
     transliteration: lakum
   7:
-    arabic: وَاِنۡ
+    arabic: وَإِن
     translation: and if
     transliteration: wa-in
   8:
-    arabic: يَّخۡذُلۡكُمۡ
+    arabic: يَخۡذُلۡكُمۡ
     translation: He forsakes you
     transliteration: yakhdhul'kum
   9:
-    arabic: فَمَنۡ
+    arabic: فَمَن
     translation: then who
     transliteration: faman
   10:
@@ -46,19 +45,19 @@ word_by_word:
     translation: (is)
     transliteration: dhā
   11:
-    arabic: الَّذِىۡ
+    arabic: ٱلَّذِي
     translation: the one who
     transliteration: alladhī
   12:
-    arabic: يَنۡصُرُكُمۡ
+    arabic: يَنصُرُكُم
     translation: can help you
     transliteration: yanṣurukum
   13:
-    arabic: مِّنۡۢ
+    arabic: مِّنۢ
     translation: from
     transliteration: min
   14:
-    arabic: بَعۡدِهٖ ​ؕ
+    arabic: بَعۡدِهِۦۗ
     translation: after Him
     transliteration: baʿdihi
   15:
@@ -66,7 +65,7 @@ word_by_word:
     translation: And on
     transliteration: waʿalā
   16:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: 'Allah '
     transliteration: l-lahi
   17:
@@ -74,7 +73,7 @@ word_by_word:
     translation: let put (their) trust
     transliteration: falyatawakkali
   18:
-    arabic: "الۡمُؤۡمِنُوۡنَ‏ \uFEFF\uFEFF"
+    arabic: ٱلۡمُؤۡمِنُونَ
     translation: the believers
     transliteration: l-mu'minūna
 ---

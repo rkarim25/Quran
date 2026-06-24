@@ -1,6 +1,6 @@
 ---
-arabic_ayat: وَكَمۡ اَهۡلَكۡنَا مِنَ الۡقُرُوۡنِ مِنۡۢ بَعۡدِ نُوۡحٍ​ؕ وَكَفٰى بِرَبِّكَ
-  بِذُنُوۡبِ عِبَادِهٖ خَبِيۡرًۢا بَصِيۡرًا‏
+arabic_ayat: وَكَمۡ أَهۡلَكۡنَا مِنَ ٱلۡقُرُونِ مِنۢ بَعۡدِ نُوحٖۗ وَكَفَىٰ بِرَبِّكَ
+  بِذُنُوبِ عِبَادِهِۦ خَبِيرَۢا بَصِيرٗا
 sentence_translation: ˹Imagine˺ how many peoples We have destroyed after Noah! And
   sufficient is your Lord as All-Aware and All-Seeing of the sins of His servants.
 word_by_word:
@@ -9,7 +9,7 @@ word_by_word:
     translation: And how many
     transliteration: wakam
   2:
-    arabic: اَهۡلَكۡنَا
+    arabic: أَهۡلَكۡنَا
     translation: We destroyed
     transliteration: ahlaknā
   3:
@@ -17,11 +17,11 @@ word_by_word:
     translation: from
     transliteration: mina
   4:
-    arabic: الۡقُرُوۡنِ
+    arabic: ٱلۡقُرُونِ
     translation: the generations
     transliteration: l-qurūni
   5:
-    arabic: مِنۡۢ
+    arabic: مِنۢ
     translation: after
     transliteration: min
   6:
@@ -29,11 +29,11 @@ word_by_word:
     translation: after
     transliteration: baʿdi
   7:
-    arabic: نُوۡحٍ​ؕ
+    arabic: نُوحٖۗ
     translation: Nuh
     transliteration: nūḥin
   8:
-    arabic: وَكَفٰى
+    arabic: وَكَفَىٰ
     translation: And sufficient
     transliteration: wakafā
   9:
@@ -41,19 +41,19 @@ word_by_word:
     translation: (is) your Lord
     transliteration: birabbika
   10:
-    arabic: بِذُنُوۡبِ
+    arabic: بِذُنُوبِ
     translation: concerning the sins
     transliteration: bidhunūbi
   11:
-    arabic: عِبَادِهٖ
+    arabic: عِبَادِهِۦ
     translation: (of) His servants
     transliteration: ʿibādihi
   12:
-    arabic: خَبِيۡرًۢا
+    arabic: خَبِيرَۢا
     translation: All-Aware
     transliteration: khabīran
   13:
-    arabic: بَصِيۡرًا‏
+    arabic: بَصِيرٗا
     translation: All-Seer
     transliteration: baṣīran
 ---

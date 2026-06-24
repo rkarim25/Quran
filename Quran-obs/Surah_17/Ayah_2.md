@@ -1,55 +1,55 @@
 ---
-arabic_ayat: وَاٰتَيۡنَا مُوۡسَى الۡـكِتٰبَ وَ جَعَلۡنٰهُ هُدًى لِّبَنِىۡۤ اِسۡرَآءِيۡلَ
-  اَلَّا تَتَّخِذُوۡا مِنۡ دُوۡنِىۡ وَكِيۡلًا ؕ‏
+arabic_ayat: وَءَاتَيۡنَا مُوسَى ٱلۡكِتَٰبَ وَجَعَلۡنَٰهُ هُدٗى لِّبَنِيٓ إِسۡرَٰٓءِيلَ
+  أَلَّا تَتَّخِذُواْ مِن دُونِي وَكِيلٗا
 sentence_translation: And We gave Moses the Scripture and made it a guide for the
   Children of Israel, ˹stating:˺ “Do not take besides Me any other Trustee of Affairs,
 word_by_word:
   1:
-    arabic: وَاٰتَيۡنَا
+    arabic: وَءَاتَيۡنَا
     translation: And We gave
     transliteration: waātaynā
   2:
-    arabic: مُوۡسَى
+    arabic: مُوسَى
     translation: Musa
     transliteration: mūsā
   3:
-    arabic: الۡـكِتٰبَ
+    arabic: ٱلۡكِتَٰبَ
     translation: the Book
     transliteration: l-kitāba
   4:
-    arabic: وَ جَعَلۡنٰهُ
+    arabic: وَجَعَلۡنَٰهُ
     translation: and made it
     transliteration: wajaʿalnāhu
   5:
-    arabic: هُدًى
+    arabic: هُدٗى
     translation: a guidance
     transliteration: hudan
   6:
-    arabic: لِّبَنِىۡۤ
+    arabic: لِّبَنِيٓ
     translation: for the Children
     transliteration: libanī
   7:
-    arabic: اِسۡرَآءِيۡلَ
+    arabic: إِسۡرَٰٓءِيلَ
     translation: (of) Israel
     transliteration: is'rāīla
   8:
-    arabic: اَلَّا
+    arabic: أَلَّا
     translation: That not
     transliteration: allā
   9:
-    arabic: تَتَّخِذُوۡا
+    arabic: تَتَّخِذُواْ
     translation: you take
     transliteration: tattakhidhū
   10:
-    arabic: مِنۡ
+    arabic: مِن
     translation: other than Me
     transliteration: min
   11:
-    arabic: دُوۡنِىۡ
+    arabic: دُونِي
     translation: other than Me
     transliteration: dūnī
   12:
-    arabic: وَكِيۡلًا ؕ‏
+    arabic: وَكِيلٗا
     translation: (as) a Disposer of affairs
     transliteration: wakīlan
 ---

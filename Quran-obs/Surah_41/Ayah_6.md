@@ -1,7 +1,6 @@
 ---
-arabic_ayat: قُلۡ اِنَّمَاۤ اَنَا بَشَرٌ مِّثۡلُكُمۡ يُوۡحٰٓى اِلَىَّ اَنَّمَاۤ اِلٰهُكُمۡ
-  اِلٰـهٌ وَّاحِدٌ فَاسۡتَقِيۡمُوۡۤا اِلَيۡهِ وَاسۡتَغۡفِرُوۡهُ​ ؕ وَوَيۡلٌ لِّلۡمُشۡرِكِيۡنَ
-  ۙ‏
+arabic_ayat: قُلۡ إِنَّمَآ أَنَا۠ بَشَرٞ مِّثۡلُكُمۡ يُوحَىٰٓ إِلَيَّ أَنَّمَآ إِلَٰهُكُمۡ
+  إِلَٰهٞ وَٰحِدٞ فَٱسۡتَقِيمُوٓاْ إِلَيۡهِ وَٱسۡتَغۡفِرُوهُۗ وَوَيۡلٞ لِّلۡمُشۡرِكِينَ
 sentence_translation: Say, ˹O Prophet,˺ “I am only a man like you, ˹but˺ it has been
   revealed to me that your God is only One God. So take the Straight Way towards Him,
   and seek His forgiveness. And woe to the polytheists—
@@ -11,15 +10,15 @@ word_by_word:
     translation: Say
     transliteration: qul
   2:
-    arabic: اِنَّمَاۤ
+    arabic: إِنَّمَآ
     translation: Only
     transliteration: innamā
   3:
-    arabic: اَنَا
+    arabic: أَنَا۠
     translation: I am
     transliteration: anā
   4:
-    arabic: بَشَرٌ
+    arabic: بَشَرٞ
     translation: a man
     transliteration: basharun
   5:
@@ -27,47 +26,47 @@ word_by_word:
     translation: like you
     transliteration: mith'lukum
   6:
-    arabic: يُوۡحٰٓى
+    arabic: يُوحَىٰٓ
     translation: it is revealed
     transliteration: yūḥā
   7:
-    arabic: اِلَىَّ
+    arabic: إِلَيَّ
     translation: to me
     transliteration: ilayya
   8:
-    arabic: اَنَّمَاۤ
+    arabic: أَنَّمَآ
     translation: that
     transliteration: annamā
   9:
-    arabic: اِلٰهُكُمۡ
+    arabic: إِلَٰهُكُمۡ
     translation: your god
     transliteration: ilāhukum
   10:
-    arabic: اِلٰـهٌ
+    arabic: إِلَٰهٞ
     translation: (is) God
     transliteration: ilāhun
   11:
-    arabic: وَّاحِدٌ
+    arabic: وَٰحِدٞ
     translation: One
     transliteration: wāḥidun
   12:
-    arabic: فَاسۡتَقِيۡمُوۡۤا
+    arabic: فَٱسۡتَقِيمُوٓاْ
     translation: so take a Straight Path
     transliteration: fa-is'taqīmū
   13:
-    arabic: اِلَيۡهِ
+    arabic: إِلَيۡهِ
     translation: to Him
     transliteration: ilayhi
   14:
-    arabic: وَاسۡتَغۡفِرُوۡهُ​ ؕ
+    arabic: وَٱسۡتَغۡفِرُوهُۗ
     translation: and ask His forgiveness
     transliteration: wa-is'taghfirūhu
   15:
-    arabic: وَوَيۡلٌ
+    arabic: وَوَيۡلٞ
     translation: And woe
     transliteration: wawaylun
   16:
-    arabic: لِّلۡمُشۡرِكِيۡنَ ۙ‏
+    arabic: لِّلۡمُشۡرِكِينَ
     translation: to the polytheists
     transliteration: lil'mush'rikīna
 ---

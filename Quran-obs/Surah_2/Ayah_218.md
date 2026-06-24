@@ -1,53 +1,52 @@
 ---
-arabic_ayat: "اِنَّ الَّذِيۡنَ اٰمَنُوۡا وَالَّذِيۡنَ هَاجَرُوۡا وَجَاهَدُوۡا فِىۡ\
-  \ سَبِيۡلِ اللّٰهِۙ اُولٰٓٮِٕكَ يَرۡجُوۡنَ رَحۡمَتَ اللّٰهِؕ وَاللّٰهُ غَفُوۡرٌ\
-  \ رَّحِيۡمٌ‏ \uFEFF\uFEFF"
+arabic_ayat: إِنَّ ٱلَّذِينَ ءَامَنُواْ وَٱلَّذِينَ هَاجَرُواْ وَجَٰهَدُواْ فِي سَبِيلِ
+  ٱللَّهِ أُوْلَٰٓئِكَ يَرۡجُونَ رَحۡمَتَ ٱللَّهِۚ وَٱللَّهُ غَفُورٞ رَّحِيمٞ
 sentence_translation: Surely those who have believed, emigrated, and struggled in
   the Way of Allah—they can hope for Allah’s mercy. And Allah is All-Forgiving, Most
   Merciful.
 word_by_word:
   1:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ ءَ
     translation: those who
     transliteration: alladhīna
   3:
-    arabic: اٰمَنُوۡا
+    arabic: امَنُواْ
     translation: believed
     transliteration: āmanū
   4:
-    arabic: وَالَّذِيۡنَ
+    arabic: وَٱلَّذِينَ
     translation: and those who
     transliteration: wa-alladhīna
   5:
-    arabic: هَاجَرُوۡا
+    arabic: هَاجَرُواْ
     translation: emigrated
     transliteration: hājarū
   6:
-    arabic: وَجَاهَدُوۡا
+    arabic: وَجَٰهَدُواْ
     translation: and strove
     transliteration: wajāhadū
   7:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   8:
-    arabic: سَبِيۡلِ
+    arabic: سَبِيلِ
     translation: (the) way
     transliteration: sabīli
   9:
-    arabic: اللّٰهِۙ
+    arabic: ٱللَّهِ
     translation: '(of) Allah '
     transliteration: l-lahi
   10:
-    arabic: اُولٰٓٮِٕكَ
+    arabic: أُوْلَٰٓئِكَ
     translation: those
     transliteration: ulāika
   11:
-    arabic: يَرۡجُوۡنَ
+    arabic: يَرۡجُونَ
     translation: they hope
     transliteration: yarjūna
   12:
@@ -55,19 +54,19 @@ word_by_word:
     translation: (for) Mercy
     transliteration: raḥmata
   13:
-    arabic: اللّٰهِؕ
+    arabic: ٱللَّهِۚ
     translation: (of) Allah
     transliteration: l-lahi
   14:
-    arabic: وَاللّٰهُ
+    arabic: وَٱللَّهُ
     translation: And Allah
     transliteration: wal-lahu
   15:
-    arabic: غَفُوۡرٌ
+    arabic: غَفُورٞ
     translation: (is) Oft-Forgiving
     transliteration: ghafūrun
   16:
-    arabic: "رَّحِيۡمٌ‏ \uFEFF\uFEFF"
+    arabic: رَّحِيمٞ
     translation: Most Merciful
     transliteration: raḥīmun
 ---

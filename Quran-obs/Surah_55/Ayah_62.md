@@ -1,17 +1,17 @@
 ---
-arabic_ayat: وَمِنۡ دُوۡنِهِمَا جَنَّتٰنِ​ۚ‏
+arabic_ayat: وَمِن دُونِهِمَا جَنَّتَانِ
 sentence_translation: And below these two ˹Gardens˺ will be two others.
 word_by_word:
   1:
-    arabic: وَمِنۡ
+    arabic: وَمِن
     translation: Besides these two
     transliteration: wamin
   2:
-    arabic: دُوۡنِهِمَا
+    arabic: دُونِهِمَا
     translation: Besides these two
     transliteration: dūnihimā
   3:
-    arabic: جَنَّتٰنِ​ۚ‏
+    arabic: جَنَّتَانِ
     translation: (are) two gardens
     transliteration: jannatāni
 ---

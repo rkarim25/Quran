@@ -1,39 +1,38 @@
 ---
-arabic_ayat: "وَنَجَّيۡنٰهُ وَلُوۡطًا اِلَى الۡاَرۡضِ الَّتِىۡ بٰرَكۡنَا فِيۡهَا لِلۡعٰلَمِيۡنَ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: وَنَجَّيۡنَٰهُ وَلُوطًا إِلَى ٱلۡأَرۡضِ ٱلَّتِي بَٰرَكۡنَا فِيهَا لِلۡعَٰلَمِينَ
 sentence_translation: Then We delivered him, along with Lot, to the land We had showered
   with blessings for all people.
 word_by_word:
   1:
-    arabic: وَنَجَّيۡنٰهُ
+    arabic: وَنَجَّيۡنَٰهُ
     translation: And We delivered him
     transliteration: wanajjaynāhu
   2:
-    arabic: وَلُوۡطًا
+    arabic: وَلُوطًا
     translation: and Lut
     transliteration: walūṭan
   3:
-    arabic: اِلَى
+    arabic: إِلَى
     translation: to
     transliteration: ilā
   4:
-    arabic: الۡاَرۡضِ
+    arabic: ٱلۡأَرۡضِ
     translation: the land
     transliteration: l-arḍi
   5:
-    arabic: الَّتِىۡ
+    arabic: ٱلَّتِي
     translation: which
     transliteration: allatī
   6:
-    arabic: بٰرَكۡنَا
+    arabic: بَٰرَكۡنَا
     translation: We (had) blessed
     transliteration: bāraknā
   7:
-    arabic: فِيۡهَا
+    arabic: فِيهَا
     translation: '[in it]'
     transliteration: fīhā
   8:
-    arabic: "لِلۡعٰلَمِيۡنَ‏ \uFEFF\uFEFF"
+    arabic: لِلۡعَٰلَمِينَ
     translation: for the worlds
     transliteration: lil'ʿālamīna
 ---

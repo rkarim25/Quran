@@ -1,17 +1,17 @@
 ---
-arabic_ayat: وَمَاۤ اَرۡسَلۡنَا قَبۡلَكَ مِنَ الۡمُرۡسَلِيۡنَ اِلَّاۤ اِنَّهُمۡ لَيَاۡكُلُوۡنَ
-  الطَّعَامَ وَيَمۡشُوۡنَ فِى الۡاَسۡوَاقِ​ ؕ وَجَعَلۡنَا بَعۡضَكُمۡ لِبَعۡضٍ فِتۡنَةً 
-  ؕ اَتَصۡبِرُوۡنَ​ۚ وَكَانَ رَبُّكَ بَصِيۡرًا‏
+arabic_ayat: وَمَآ أَرۡسَلۡنَا قَبۡلَكَ مِنَ ٱلۡمُرۡسَلِينَ إِلَّآ إِنَّهُمۡ لَيَأۡكُلُونَ
+  ٱلطَّعَامَ وَيَمۡشُونَ فِي ٱلۡأَسۡوَاقِۗ وَجَعَلۡنَا بَعۡضَكُمۡ لِبَعۡضٖ فِتۡنَةً
+  أَتَصۡبِرُونَۗ وَكَانَ رَبُّكَ بَصِيرٗا
 sentence_translation: We never sent any messenger before you ˹O Prophet˺, who did
   not eat food and go about in market-places. We have made some of you a trial for
   others. Will you ˹not then˺ be patient? And your Lord is All-Seeing.
 word_by_word:
   1:
-    arabic: وَمَاۤ
+    arabic: وَمَآ
     translation: And not
     transliteration: wamā
   2:
-    arabic: اَرۡسَلۡنَا
+    arabic: أَرۡسَلۡنَا
     translation: We sent
     transliteration: arsalnā
   3:
@@ -23,35 +23,35 @@ word_by_word:
     translation: any
     transliteration: mina
   5:
-    arabic: الۡمُرۡسَلِيۡنَ
+    arabic: ٱلۡمُرۡسَلِينَ
     translation: Messengers
     transliteration: l-mur'salīna
   6:
-    arabic: اِلَّاۤ
+    arabic: إِلَّآ
     translation: but
     transliteration: illā
   7:
-    arabic: اِنَّهُمۡ
+    arabic: إِنَّهُمۡ
     translation: indeed, they
     transliteration: innahum
   8:
-    arabic: لَيَاۡكُلُوۡنَ
+    arabic: لَيَأۡكُلُونَ
     translation: '[surely] ate'
     transliteration: layakulūna
   9:
-    arabic: الطَّعَامَ
+    arabic: ٱلطَّعَامَ
     translation: food
     transliteration: l-ṭaʿāma
   10:
-    arabic: وَيَمۡشُوۡنَ
+    arabic: وَيَمۡشُونَ
     translation: and walked
     transliteration: wayamshūna
   11:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   12:
-    arabic: الۡاَسۡوَاقِ​ ؕ
+    arabic: ٱلۡأَسۡوَاقِۗ
     translation: the markets
     transliteration: l-aswāqi
   13:
@@ -63,15 +63,15 @@ word_by_word:
     translation: some of you
     transliteration: baʿḍakum
   15:
-    arabic: لِبَعۡضٍ
+    arabic: لِبَعۡضٖ
     translation: for others
     transliteration: libaʿḍin
   16:
-    arabic: فِتۡنَةً  ؕ
+    arabic: فِتۡنَةً
     translation: a trial
     transliteration: fit'natan
   17:
-    arabic: اَتَصۡبِرُوۡنَ​ۚ
+    arabic: أَتَصۡبِرُونَۗ
     translation: will you have patience
     transliteration: ataṣbirūna
   18:
@@ -83,7 +83,7 @@ word_by_word:
     translation: your Lord
     transliteration: rabbuka
   20:
-    arabic: بَصِيۡرًا‏
+    arabic: بَصِيرٗا
     translation: All-Seer
     transliteration: baṣīran
 ---

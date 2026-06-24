@@ -1,9 +1,9 @@
 ---
-arabic_ayat: الَّذِيۡنَ هُمۡ عَلٰى صَلَاتِهِمۡ دَآٮِٕمُوۡنَۙ‏
+arabic_ayat: ٱلَّذِينَ هُمۡ عَلَىٰ صَلَاتِهِمۡ دَآئِمُونَ
 sentence_translation: consistently performing their prayers;
 word_by_word:
   1:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: Those who
     transliteration: alladhīna
   2:
@@ -11,7 +11,7 @@ word_by_word:
     translation: '[they]'
     transliteration: hum
   3:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: at
     transliteration: ʿalā
   4:
@@ -19,7 +19,7 @@ word_by_word:
     translation: their prayer
     transliteration: ṣalātihim
   5:
-    arabic: دَآٮِٕمُوۡنَۙ‏
+    arabic: دَآئِمُونَ
     translation: (are) constant
     transliteration: dāimūna
 ---

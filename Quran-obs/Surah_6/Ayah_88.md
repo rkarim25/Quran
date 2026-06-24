@@ -1,12 +1,12 @@
 ---
-arabic_ayat: ذٰ لِكَ هُدَى اللّٰهِ يَهۡدِىۡ بِهٖ مَنۡ يَّشَآءُ مِنۡ عِبَادِهٖ​ؕ وَلَوۡ
-  اَشۡرَكُوۡا لَحَبِطَ عَنۡهُمۡ مَّا كَانُوۡا يَعۡمَلُوۡنَ‏
+arabic_ayat: ذَٰلِكَ هُدَى ٱللَّهِ يَهۡدِي بِهِۦ مَن يَشَآءُ مِنۡ عِبَادِهِۦۚ وَلَوۡ
+  أَشۡرَكُواْ لَحَبِطَ عَنۡهُم مَّا كَانُواْ يَعۡمَلُونَ
 sentence_translation: This is Allah’s guidance with which He guides whoever He wills
   of His servants. Had they associated others with Him ˹in worship˺, their ˹good˺
   deeds would have been wasted.
 word_by_word:
   1:
-    arabic: ذٰ لِكَ
+    arabic: ذَٰلِكَ
     translation: That
     transliteration: dhālika
   2:
@@ -14,23 +14,23 @@ word_by_word:
     translation: (is the) Guidance
     transliteration: hudā
   3:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (of) Allah
     transliteration: l-lahi
   4:
-    arabic: يَهۡدِىۡ
+    arabic: يَهۡدِي
     translation: He guides
     transliteration: yahdī
   5:
-    arabic: بِهٖ
+    arabic: بِهِۦ
     translation: with it
     transliteration: bihi
   6:
-    arabic: مَنۡ
+    arabic: مَن
     translation: whom
     transliteration: man
   7:
-    arabic: يَّشَآءُ
+    arabic: يَشَآءُ
     translation: He wills
     transliteration: yashāu
   8:
@@ -38,7 +38,7 @@ word_by_word:
     translation: of
     transliteration: min
   9:
-    arabic: عِبَادِهٖ​ؕ
+    arabic: عِبَادِهِۦۚ
     translation: His slaves
     transliteration: ʿibādihi
   10:
@@ -46,7 +46,7 @@ word_by_word:
     translation: But if
     transliteration: walaw
   11:
-    arabic: اَشۡرَكُوۡا
+    arabic: أَشۡرَكُواْ
     translation: they (had) associated partners (with Allah)
     transliteration: ashrakū
   12:
@@ -54,7 +54,7 @@ word_by_word:
     translation: surely (would be) worthless
     transliteration: laḥabiṭa
   13:
-    arabic: عَنۡهُمۡ
+    arabic: عَنۡهُم
     translation: for them
     transliteration: ʿanhum
   14:
@@ -62,11 +62,11 @@ word_by_word:
     translation: what
     transliteration: mā
   15:
-    arabic: كَانُوۡا
+    arabic: كَانُواْ
     translation: they used to
     transliteration: kānū
   16:
-    arabic: يَعۡمَلُوۡنَ‏
+    arabic: يَعۡمَلُونَ
     translation: do
     transliteration: yaʿmalūna
 ---

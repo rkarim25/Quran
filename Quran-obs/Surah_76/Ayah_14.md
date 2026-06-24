@@ -1,5 +1,5 @@
 ---
-arabic_ayat: وَدَانِيَةً عَلَيۡهِمۡ ظِلٰلُهَا وَذُلِّلَتۡ قُطُوۡفُهَا تَذۡلِيۡلًا‏
+arabic_ayat: وَدَانِيَةً عَلَيۡهِمۡ ظِلَٰلُهَا وَذُلِّلَتۡ قُطُوفُهَا تَذۡلِيلٗا
 sentence_translation: The Garden’s shade will be right above them, and its fruit will
   be made very easy to reach.
 word_by_word:
@@ -12,7 +12,7 @@ word_by_word:
     translation: above them
     transliteration: ʿalayhim
   3:
-    arabic: ظِلٰلُهَا
+    arabic: ظِلَٰلُهَا
     translation: (are) its shades
     transliteration: ẓilāluhā
   4:
@@ -20,11 +20,11 @@ word_by_word:
     translation: and will hang low
     transliteration: wadhullilat
   5:
-    arabic: قُطُوۡفُهَا
+    arabic: قُطُوفُهَا
     translation: its cluster of fruits
     transliteration: quṭūfuhā
   6:
-    arabic: تَذۡلِيۡلًا‏
+    arabic: تَذۡلِيلٗا
     translation: dangling low
     transliteration: tadhlīlan
 ---

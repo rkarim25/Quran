@@ -1,29 +1,29 @@
 ---
-arabic_ayat: اۨلَّذِيۡنَ يُجَادِلُوۡنَ فِىۡۤ اٰيٰتِ اللّٰهِ بِغَيۡرِ سُلۡطٰنٍ اَتٰٮهُمۡ
-  ؕ كَبُـرَ مَقۡتًا عِنۡدَ اللّٰهِ وَعِنۡدَ الَّذِيۡنَ اٰمَنُوۡا ؕ كَذٰلِكَ يَطۡبَعُ
-  اللّٰهُ عَلٰى كُلِّ قَلۡبِ مُتَكَبِّرٍ جَبَّارٍ‏
+arabic_ayat: ٱلَّذِينَ يُجَٰدِلُونَ فِيٓ ءَايَٰتِ ٱللَّهِ بِغَيۡرِ سُلۡطَٰنٍ أَتَىٰهُمۡۖ
+  كَبُرَ مَقۡتًا عِندَ ٱللَّهِ وَعِندَ ٱلَّذِينَ ءَامَنُواْۚ كَذَٰلِكَ يَطۡبَعُ ٱللَّهُ
+  عَلَىٰ كُلِّ قَلۡبِ مُتَكَبِّرٖ جَبَّارٖ
 sentence_translation: those who dispute Allah’s signs with no proof given to them.
   How despicable is that for Allah and the believers! This is how Allah seals the
   heart of every arrogant tyrant.”
 word_by_word:
   1:
-    arabic: اۨلَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: Those who
     transliteration: alladhīna
   2:
-    arabic: يُجَادِلُوۡنَ
+    arabic: يُجَٰدِلُونَ
     translation: dispute
     transliteration: yujādilūna
   3:
-    arabic: فِىۡۤ
+    arabic: فِيٓ ءَ
     translation: concerning
     transliteration: fī
   4:
-    arabic: اٰيٰتِ
+    arabic: ايَٰتِ
     translation: (the) Signs
     transliteration: āyāti
   5:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (of) Allah
     transliteration: l-lahi
   6:
@@ -31,15 +31,15 @@ word_by_word:
     translation: without
     transliteration: bighayri
   7:
-    arabic: سُلۡطٰنٍ
+    arabic: سُلۡطَٰنٍ
     translation: any authority
     transliteration: sul'ṭānin
   8:
-    arabic: اَتٰٮهُمۡ ؕ
+    arabic: أَتَىٰهُمۡۖ
     translation: (having) come to them
     transliteration: atāhum
   9:
-    arabic: كَبُـرَ
+    arabic: كَبُرَ
     translation: (it) is greatly
     transliteration: kabura
   10:
@@ -47,27 +47,27 @@ word_by_word:
     translation: hateful
     transliteration: maqtan
   11:
-    arabic: عِنۡدَ
+    arabic: عِندَ
     translation: near Allah
     transliteration: ʿinda
   12:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: near Allah
     transliteration: l-lahi
   13:
-    arabic: وَعِنۡدَ
+    arabic: وَعِندَ
     translation: and near
     transliteration: waʿinda
   14:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ ءَ
     translation: those
     transliteration: alladhīna
   15:
-    arabic: اٰمَنُوۡا ؕ
+    arabic: امَنُواْۚ
     translation: who believe
     transliteration: āmanū
   16:
-    arabic: كَذٰلِكَ
+    arabic: كَذَٰلِكَ
     translation: Thus
     transliteration: kadhālika
   17:
@@ -75,11 +75,11 @@ word_by_word:
     translation: Allah sets a seal
     transliteration: yaṭbaʿu
   18:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah sets a seal
     transliteration: l-lahu
   19:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: over
     transliteration: ʿalā
   20:
@@ -91,11 +91,11 @@ word_by_word:
     translation: heart
     transliteration: qalbi
   22:
-    arabic: مُتَكَبِّرٍ
+    arabic: مُتَكَبِّرٖ
     translation: (of) an arrogant
     transliteration: mutakabbirin
   23:
-    arabic: جَبَّارٍ‏
+    arabic: جَبَّارٖ
     translation: tyrant
     transliteration: jabbārin
 ---

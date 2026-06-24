@@ -1,28 +1,28 @@
 ---
-arabic_ayat: وَاۡمُرۡ اَهۡلَكَ بِالصَّلٰوةِ وَاصۡطَبِرۡ عَلَيۡهَا​ ؕ لَا نَسۡـــَٔلُكَ
-  رِزۡقًا​ ؕ نَحۡنُ نَرۡزُقُكَ​ ؕ وَالۡعَاقِبَةُ لِلتَّقۡوٰى‏
+arabic_ayat: وَأۡمُرۡ أَهۡلَكَ بِٱلصَّلَوٰةِ وَٱصۡطَبِرۡ عَلَيۡهَاۖ لَا نَسۡـَٔلُكَ
+  رِزۡقٗاۖ نَّحۡنُ نَرۡزُقُكَۗ وَٱلۡعَٰقِبَةُ لِلتَّقۡوَىٰ
 sentence_translation: Bid your people to pray, and be diligent in ˹observing˺ it.
   We do not ask you to provide. It is We Who provide for you. And the ultimate outcome
   is ˹only˺ for ˹the people of˺ righteousness.
 word_by_word:
   1:
-    arabic: وَاۡمُرۡ
+    arabic: وَأۡمُرۡ
     translation: And enjoin
     transliteration: wamur
   2:
-    arabic: اَهۡلَكَ
+    arabic: أَهۡلَكَ
     translation: (on) your family
     transliteration: ahlaka
   3:
-    arabic: بِالصَّلٰوةِ
+    arabic: بِٱلصَّلَوٰةِ
     translation: the prayer
     transliteration: bil-ṣalati
   4:
-    arabic: وَاصۡطَبِرۡ
+    arabic: وَٱصۡطَبِرۡ
     translation: and be steadfast
     transliteration: wa-iṣ'ṭabir
   5:
-    arabic: عَلَيۡهَا​ ؕ
+    arabic: عَلَيۡهَاۖ
     translation: therein
     transliteration: ʿalayhā
   6:
@@ -30,27 +30,27 @@ word_by_word:
     translation: Not
     transliteration: lā
   7:
-    arabic: نَسۡـــَٔلُكَ
+    arabic: نَسۡـَٔلُكَ
     translation: We ask you
     transliteration: nasaluka
   8:
-    arabic: رِزۡقًا​ ؕ
+    arabic: رِزۡقٗاۖ
     translation: (for) provision
     transliteration: riz'qan
   9:
-    arabic: نَحۡنُ
+    arabic: نَّحۡنُ
     translation: We
     transliteration: naḥnu
   10:
-    arabic: نَرۡزُقُكَ​ ؕ
+    arabic: نَرۡزُقُكَۗ
     translation: provide (for) you
     transliteration: narzuquka
   11:
-    arabic: وَالۡعَاقِبَةُ
+    arabic: وَٱلۡعَٰقِبَةُ
     translation: and the outcome
     transliteration: wal-ʿāqibatu
   12:
-    arabic: لِلتَّقۡوٰى‏
+    arabic: لِلتَّقۡوَىٰ
     translation: (is) for the righteous[ness]
     transliteration: lilttaqwā
 ---

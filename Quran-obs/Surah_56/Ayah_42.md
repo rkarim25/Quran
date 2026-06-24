@@ -1,17 +1,17 @@
 ---
-arabic_ayat: فِىۡ سَمُوۡمٍ وَّحَمِيۡمٍۙ‏
+arabic_ayat: فِي سَمُومٖ وَحَمِيمٖ
 sentence_translation: ˹They will be˺ in scorching heat and boiling water,
 word_by_word:
   1:
-    arabic: فِىۡ
+    arabic: فِي
     translation: In
     transliteration: fī
   2:
-    arabic: سَمُوۡمٍ
+    arabic: سَمُومٖ
     translation: scorching fire
     transliteration: samūmin
   3:
-    arabic: وَّحَمِيۡمٍۙ‏
+    arabic: وَحَمِيمٖ
     translation: and scalding water
     transliteration: waḥamīmin
 ---

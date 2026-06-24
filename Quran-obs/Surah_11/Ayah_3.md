@@ -1,18 +1,18 @@
 ---
-arabic_ayat: وَّاَنِ اسۡتَغۡفِرُوۡا رَبَّكُمۡ ثُمَّ تُوۡبُوۡۤا اِلَيۡهِ يُمَتِّعۡكُمۡ
-  مَّتَاعًا حَسَنًا اِلٰٓى اَجَلٍ مُّسَمًّى وَ يُؤۡتِ كُلَّ ذِىۡ فَضۡلٍ فَضۡلَهٗ ​ؕ
-  وَاِنۡ تَوَلَّوۡا فَاِنِّىۡۤ اَخَافُ عَلَيۡكُمۡ عَذَابَ يَوۡمٍ كَبِيۡرٍ‏
+arabic_ayat: وَأَنِ ٱسۡتَغۡفِرُواْ رَبَّكُمۡ ثُمَّ تُوبُوٓاْ إِلَيۡهِ يُمَتِّعۡكُم
+  مَّتَٰعًا حَسَنًا إِلَىٰٓ أَجَلٖ مُّسَمّٗى وَيُؤۡتِ كُلَّ ذِي فَضۡلٖ فَضۡلَهُۥۖ
+  وَإِن تَوَلَّوۡاْ فَإِنِّيٓ أَخَافُ عَلَيۡكُمۡ عَذَابَ يَوۡمٖ كَبِيرٍ
 sentence_translation: And seek your Lord’s forgiveness and turn to Him in repentance.
   He will grant you a good provision for an appointed term and graciously reward the
   doers of good. But if you turn away, then I truly fear for you the torment of a
   formidable Day.
 word_by_word:
   1:
-    arabic: وَّاَنِ
+    arabic: وَأَنِ
     translation: And that
     transliteration: wa-ani
   2:
-    arabic: اسۡتَغۡفِرُوۡا
+    arabic: ٱسۡتَغۡفِرُواْ
     translation: Seek forgiveness
     transliteration: is'taghfirū
   3:
@@ -24,19 +24,19 @@ word_by_word:
     translation: and
     transliteration: thumma
   5:
-    arabic: تُوۡبُوۡۤا
+    arabic: تُوبُوٓاْ
     translation: turn in repentance
     transliteration: tūbū
   6:
-    arabic: اِلَيۡهِ
+    arabic: إِلَيۡهِ
     translation: to Him
     transliteration: ilayhi
   7:
-    arabic: يُمَتِّعۡكُمۡ
+    arabic: يُمَتِّعۡكُم
     translation: He will let you
     transliteration: yumattiʿ'kum
   8:
-    arabic: مَّتَاعًا
+    arabic: مَّتَٰعًا
     translation: enjoy
     transliteration: matāʿan
   9:
@@ -44,19 +44,19 @@ word_by_word:
     translation: a good
     transliteration: ḥasanan
   10:
-    arabic: اِلٰٓى
+    arabic: إِلَىٰٓ
     translation: for
     transliteration: ilā
   11:
-    arabic: اَجَلٍ
+    arabic: أَجَلٖ
     translation: a term
     transliteration: ajalin
   12:
-    arabic: مُّسَمًّى
+    arabic: مُّسَمّٗى
     translation: appointed
     transliteration: musamman
   13:
-    arabic: وَ يُؤۡتِ
+    arabic: وَيُؤۡتِ
     translation: And give
     transliteration: wayu'ti
   14:
@@ -64,31 +64,31 @@ word_by_word:
     translation: (to) every
     transliteration: kulla
   15:
-    arabic: ذِىۡ
+    arabic: ذِي
     translation: owner
     transliteration: dhī
   16:
-    arabic: فَضۡلٍ
+    arabic: فَضۡلٖ
     translation: (of) grace
     transliteration: faḍlin
   17:
-    arabic: فَضۡلَهٗ ​ؕ
+    arabic: فَضۡلَهُۥۖ
     translation: His Grace
     transliteration: faḍlahu
   18:
-    arabic: وَاِنۡ
+    arabic: وَإِن
     translation: But if
     transliteration: wa-in
   19:
-    arabic: تَوَلَّوۡا
+    arabic: تَوَلَّوۡاْ
     translation: you turn away
     transliteration: tawallaw
   20:
-    arabic: فَاِنِّىۡۤ
+    arabic: فَإِنِّيٓ
     translation: then indeed, I
     transliteration: fa-innī
   21:
-    arabic: اَخَافُ
+    arabic: أَخَافُ
     translation: fear
     transliteration: akhāfu
   22:
@@ -100,11 +100,11 @@ word_by_word:
     translation: (the) punishment
     transliteration: ʿadhāba
   24:
-    arabic: يَوۡمٍ
+    arabic: يَوۡمٖ
     translation: (of) a Great Day
     transliteration: yawmin
   25:
-    arabic: كَبِيۡرٍ‏
+    arabic: كَبِيرٍ
     translation: (of) a Great Day
     transliteration: kabīrin
 ---

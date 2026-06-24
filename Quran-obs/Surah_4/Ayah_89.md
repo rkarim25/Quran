@@ -1,15 +1,15 @@
 ---
-arabic_ayat: وَدُّوۡا لَوۡ تَكۡفُرُوۡنَ كَمَا كَفَرُوۡا فَتَكُوۡنُوۡنَ سَوَآءً​ فَلَا
-  تَتَّخِذُوۡا مِنۡهُمۡ اَوۡلِيَآءَ حَتّٰى يُهَاجِرُوۡا فِىۡ سَبِيۡلِ اللّٰهِ​ ؕ
-  فَاِنۡ تَوَلَّوۡا فَخُذُوۡهُمۡ وَاقۡتُلُوۡهُمۡ حَيۡثُ وَجَدتُّمُوۡهُمۡ​ وَلَا تَتَّخِذُوۡا
-  مِنۡهُمۡ وَلِيًّا وَّلَا نَصِيۡرًا ۙ‏
+arabic_ayat: وَدُّواْ لَوۡ تَكۡفُرُونَ كَمَا كَفَرُواْ فَتَكُونُونَ سَوَآءٗۖ فَلَا
+  تَتَّخِذُواْ مِنۡهُمۡ أَوۡلِيَآءَ حَتَّىٰ يُهَاجِرُواْ فِي سَبِيلِ ٱللَّهِۚ فَإِن
+  تَوَلَّوۡاْ فَخُذُوهُمۡ وَٱقۡتُلُوهُمۡ حَيۡثُ وَجَدتُّمُوهُمۡۖ وَلَا تَتَّخِذُواْ
+  مِنۡهُمۡ وَلِيّٗا وَلَا نَصِيرًا
 sentence_translation: They wish you would disbelieve as they have disbelieved, so
   you may all be alike. So do not take them as allies unless they emigrate in the
   cause of Allah. But if they turn away, then seize them and kill them wherever you
   find them, and do not take any of them as allies or helpers,
 word_by_word:
   1:
-    arabic: وَدُّوۡا
+    arabic: وَدُّواْ
     translation: They wish
     transliteration: waddū
   2:
@@ -17,7 +17,7 @@ word_by_word:
     translation: if
     transliteration: law
   3:
-    arabic: تَكۡفُرُوۡنَ
+    arabic: تَكۡفُرُونَ
     translation: you disbelieve
     transliteration: takfurūna
   4:
@@ -25,15 +25,15 @@ word_by_word:
     translation: as
     transliteration: kamā
   5:
-    arabic: كَفَرُوۡا
+    arabic: كَفَرُواْ
     translation: they disbelieved
     transliteration: kafarū
   6:
-    arabic: فَتَكُوۡنُوۡنَ
+    arabic: فَتَكُونُونَ
     translation: and you would be
     transliteration: fatakūnūna
   7:
-    arabic: سَوَآءً​
+    arabic: سَوَآءٗۖ
     translation: alike
     transliteration: sawāan
   8:
@@ -41,7 +41,7 @@ word_by_word:
     translation: So (do) not
     transliteration: falā
   9:
-    arabic: تَتَّخِذُوۡا
+    arabic: تَتَّخِذُواْ
     translation: take
     transliteration: tattakhidhū
   10:
@@ -49,43 +49,43 @@ word_by_word:
     translation: from them
     transliteration: min'hum
   11:
-    arabic: اَوۡلِيَآءَ
+    arabic: أَوۡلِيَآءَ
     translation: allies
     transliteration: awliyāa
   12:
-    arabic: حَتّٰى
+    arabic: حَتَّىٰ
     translation: until
     transliteration: ḥattā
   13:
-    arabic: يُهَاجِرُوۡا
+    arabic: يُهَاجِرُواْ
     translation: they emigrate
     transliteration: yuhājirū
   14:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   15:
-    arabic: سَبِيۡلِ
+    arabic: سَبِيلِ
     translation: (the) way
     transliteration: sabīli
   16:
-    arabic: اللّٰهِ​ ؕ
+    arabic: ٱللَّهِۚ
     translation: (of) Allah
     transliteration: l-lahi
   17:
-    arabic: فَاِنۡ
+    arabic: فَإِن
     translation: But if
     transliteration: fa-in
   18:
-    arabic: تَوَلَّوۡا
+    arabic: تَوَلَّوۡاْ
     translation: they turn back
     transliteration: tawallaw
   19:
-    arabic: فَخُذُوۡهُمۡ
+    arabic: فَخُذُوهُمۡ
     translation: seize them
     transliteration: fakhudhūhum
   20:
-    arabic: وَاقۡتُلُوۡهُمۡ
+    arabic: وَٱقۡتُلُوهُمۡ
     translation: and kill them
     transliteration: wa-uq'tulūhum
   21:
@@ -93,7 +93,7 @@ word_by_word:
     translation: wherever
     transliteration: ḥaythu
   22:
-    arabic: وَجَدتُّمُوۡهُمۡ​
+    arabic: وَجَدتُّمُوهُمۡۖ
     translation: you find them
     transliteration: wajadttumūhum
   23:
@@ -101,7 +101,7 @@ word_by_word:
     translation: And (do) not
     transliteration: walā
   24:
-    arabic: تَتَّخِذُوۡا
+    arabic: تَتَّخِذُواْ
     translation: take
     transliteration: tattakhidhū
   25:
@@ -109,15 +109,15 @@ word_by_word:
     translation: from them
     transliteration: min'hum
   26:
-    arabic: وَلِيًّا
+    arabic: وَلِيّٗا
     translation: any ally
     transliteration: waliyyan
   27:
-    arabic: وَّلَا
+    arabic: وَلَا
     translation: and not
     transliteration: walā
   28:
-    arabic: نَصِيۡرًا ۙ‏
+    arabic: نَصِيرًا
     translation: any helper
     transliteration: naṣīran
 ---

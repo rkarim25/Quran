@@ -1,11 +1,10 @@
 ---
-arabic_ayat: "وَلَـقَدۡ جَعَلۡنَا فِى السَّمَآءِ بُرُوۡجًا وَّزَيَّـنّٰهَا لِلنّٰظِرِيۡنَۙ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: وَلَقَدۡ جَعَلۡنَا فِي ٱلسَّمَآءِ بُرُوجٗا وَزَيَّنَّٰهَا لِلنَّٰظِرِينَ
 sentence_translation: Indeed, We have placed constellations in the sky, and adorned
   it for all to see.
 word_by_word:
   1:
-    arabic: وَلَـقَدۡ
+    arabic: وَلَقَدۡ
     translation: And verily
     transliteration: walaqad
   2:
@@ -13,23 +12,23 @@ word_by_word:
     translation: We have placed
     transliteration: jaʿalnā
   3:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   4:
-    arabic: السَّمَآءِ
+    arabic: ٱلسَّمَآءِ
     translation: the heavens
     transliteration: l-samāi
   5:
-    arabic: بُرُوۡجًا
+    arabic: بُرُوجٗا
     translation: constellations
     transliteration: burūjan
   6:
-    arabic: وَّزَيَّـنّٰهَا
+    arabic: وَزَيَّنَّٰهَا
     translation: and We have beautified it
     transliteration: wazayyannāhā
   7:
-    arabic: "لِلنّٰظِرِيۡنَۙ‏ \uFEFF\uFEFF"
+    arabic: لِلنَّٰظِرِينَ
     translation: for the observers
     transliteration: lilnnāẓirīna
 ---

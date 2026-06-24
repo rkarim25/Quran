@@ -1,14 +1,14 @@
 ---
-arabic_ayat: وَمَا كَانَ الۡمُؤۡمِنُوۡنَ لِيَنۡفِرُوۡا كَآفَّةً​ ؕ فَلَوۡلَا نَفَرَ
-  مِنۡ كُلِّ فِرۡقَةٍ مِّنۡهُمۡ طَآٮِٕفَةٌ لِّيَـتَفَقَّهُوۡا فِى الدِّيۡنِ وَ لِيُنۡذِرُوۡا
-  قَوۡمَهُمۡ اِذَا رَجَعُوۡۤا اِلَيۡهِمۡ لَعَلَّهُمۡ يَحۡذَرُوۡنَ‏
+arabic_ayat: ۞ وَمَا كَانَ ٱلۡمُؤۡمِنُونَ لِيَنفِرُواْ كَآفَّةٗۚ فَلَوۡلَا نَفَرَ
+  مِن كُلِّ فِرۡقَةٖ مِّنۡهُمۡ طَآئِفَةٞ لِّيَتَفَقَّهُواْ فِي ٱلدِّينِ وَلِيُنذِرُواْ
+  قَوۡمَهُمۡ إِذَا رَجَعُوٓاْ إِلَيۡهِمۡ لَعَلَّهُمۡ يَحۡذَرُونَ
 sentence_translation: ˹However,˺ it is not necessary for the believers to march forth
   all at once. Only a party from each group should march forth, leaving the rest to
   gain religious knowledge then enlighten their people when they return to them, so
   that they ˹too˺ may beware ˹of evil˺.
 word_by_word:
   1:
-    arabic: ۞ وَمَا
+    arabic: ۞ وَمَا
     translation: And not
     transliteration: wamā
   2:
@@ -16,15 +16,15 @@ word_by_word:
     translation: is
     transliteration: kāna
   3:
-    arabic: الۡمُؤۡمِنُوۡنَ
+    arabic: ٱلۡمُؤۡمِنُونَ
     translation: (for) the believers
     transliteration: l-mu'minūna
   4:
-    arabic: لِيَنۡفِرُوۡا
+    arabic: لِيَنفِرُواْ
     translation: that they go forth
     transliteration: liyanfirū
   5:
-    arabic: كَآفَّةً​ ؕ
+    arabic: كَآفَّةٗۚ
     translation: all together
     transliteration: kāffatan
   6:
@@ -36,7 +36,7 @@ word_by_word:
     translation: go forth
     transliteration: nafara
   8:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   9:
@@ -44,7 +44,7 @@ word_by_word:
     translation: every
     transliteration: kulli
   10:
-    arabic: فِرۡقَةٍ
+    arabic: فِرۡقَةٖ
     translation: group
     transliteration: fir'qatin
   11:
@@ -52,23 +52,23 @@ word_by_word:
     translation: among them
     transliteration: min'hum
   12:
-    arabic: طَآٮِٕفَةٌ
+    arabic: طَآئِفَةٞ
     translation: a party
     transliteration: ṭāifatun
   13:
-    arabic: لِّيَـتَفَقَّهُوۡا
+    arabic: لِّيَتَفَقَّهُواْ
     translation: that they may obtain understanding
     transliteration: liyatafaqqahū
   14:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   15:
-    arabic: الدِّيۡنِ
+    arabic: ٱلدِّينِ
     translation: the religion
     transliteration: l-dīni
   16:
-    arabic: وَ لِيُنۡذِرُوۡا
+    arabic: وَلِيُنذِرُواْ
     translation: and that they may warn
     transliteration: waliyundhirū
   17:
@@ -76,15 +76,15 @@ word_by_word:
     translation: their people
     transliteration: qawmahum
   18:
-    arabic: اِذَا
+    arabic: إِذَا
     translation: when
     transliteration: idhā
   19:
-    arabic: رَجَعُوۡۤا
+    arabic: رَجَعُوٓاْ
     translation: they return
     transliteration: rajaʿū
   20:
-    arabic: اِلَيۡهِمۡ
+    arabic: إِلَيۡهِمۡ
     translation: to them
     transliteration: ilayhim
   21:
@@ -92,7 +92,7 @@ word_by_word:
     translation: so that they may
     transliteration: laʿallahum
   22:
-    arabic: يَحۡذَرُوۡنَ‏
+    arabic: يَحۡذَرُونَ
     translation: beware
     transliteration: yaḥdharūna
 ---

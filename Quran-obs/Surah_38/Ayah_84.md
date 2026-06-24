@@ -1,5 +1,5 @@
 ---
-arabic_ayat: قَالَ فَالۡحَقُّ  وَالۡحَقَّ اَ قُوۡلُ​ ۚ‏
+arabic_ayat: قَالَ فَٱلۡحَقُّ وَٱلۡحَقَّ أَقُولُ
 sentence_translation: 'Allah concluded, “The truth is—and I ˹only˺ say the truth—:'
 word_by_word:
   1:
@@ -7,15 +7,15 @@ word_by_word:
     translation: He said
     transliteration: qāla
   2:
-    arabic: فَالۡحَقُّ 
+    arabic: فَٱلۡحَقُّ
     translation: Then (it is) the truth
     transliteration: fal-ḥaqu
   3:
-    arabic: وَالۡحَقَّ
+    arabic: وَٱلۡحَقَّ
     translation: and the truth
     transliteration: wal-ḥaqa
   4:
-    arabic: اَ قُوۡلُ​ ۚ‏
+    arabic: أَقُولُ
     translation: I say
     transliteration: aqūlu
 ---

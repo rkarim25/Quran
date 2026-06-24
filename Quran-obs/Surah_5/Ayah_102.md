@@ -1,6 +1,5 @@
 ---
-arabic_ayat: "قَدۡ سَاَ لَهَا قَوۡمٌ مِّنۡ قَبۡلِكُمۡ ثُمَّ اَصۡبَحُوۡا بِهَا كٰفِرِيۡنَ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: قَدۡ سَأَلَهَا قَوۡمٞ مِّن قَبۡلِكُمۡ ثُمَّ أَصۡبَحُواْ بِهَا كَٰفِرِينَ
 sentence_translation: Some people before you asked such questions then denied their
   answers.
 word_by_word:
@@ -9,15 +8,15 @@ word_by_word:
     translation: Indeed
     transliteration: qad
   2:
-    arabic: سَاَ لَهَا
+    arabic: سَأَلَهَا
     translation: asked them
     transliteration: sa-alahā
   3:
-    arabic: قَوۡمٌ
+    arabic: قَوۡمٞ
     translation: a people
     transliteration: qawmun
   4:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: from
     transliteration: min
   5:
@@ -29,7 +28,7 @@ word_by_word:
     translation: then
     transliteration: thumma
   7:
-    arabic: اَصۡبَحُوۡا
+    arabic: أَصۡبَحُواْ
     translation: they became
     transliteration: aṣbaḥū
   8:
@@ -37,7 +36,7 @@ word_by_word:
     translation: thereby
     transliteration: bihā
   9:
-    arabic: "كٰفِرِيۡنَ‏ \uFEFF\uFEFF"
+    arabic: كَٰفِرِينَ
     translation: disbelievers
     transliteration: kāfirīna
 ---

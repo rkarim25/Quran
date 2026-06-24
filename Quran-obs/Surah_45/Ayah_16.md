@@ -1,40 +1,40 @@
 ---
-arabic_ayat: وَلَقَدۡ اٰتَيۡنَا بَنِىۡۤ اِسۡرَآءِيۡلَ الۡكِتٰبَ وَالۡحُكۡمَ وَالنُّبُوَّةَ
-  وَرَزَقۡنٰهُمۡ مِّنَ الطَّيِّبٰتِ وَفَضَّلۡنٰهُمۡ عَلَى الۡعٰلَمِيۡنَ​ۚ‏
+arabic_ayat: وَلَقَدۡ ءَاتَيۡنَا بَنِيٓ إِسۡرَٰٓءِيلَ ٱلۡكِتَٰبَ وَٱلۡحُكۡمَ وَٱلنُّبُوَّةَ
+  وَرَزَقۡنَٰهُم مِّنَ ٱلطَّيِّبَٰتِ وَفَضَّلۡنَٰهُمۡ عَلَى ٱلۡعَٰلَمِينَ
 sentence_translation: Indeed, We gave the Children of Israel the Scripture, wisdom,
   and prophethood; granted them good, lawful provisions; and favoured them above the
   others.
 word_by_word:
   1:
-    arabic: وَلَقَدۡ
+    arabic: وَلَقَدۡ ءَ
     translation: And certainly
     transliteration: walaqad
   2:
-    arabic: اٰتَيۡنَا
+    arabic: اتَيۡنَا
     translation: We gave
     transliteration: ātaynā
   3:
-    arabic: بَنِىۡۤ
+    arabic: بَنِيٓ
     translation: (the) Children of Israel
     transliteration: banī
   4:
-    arabic: اِسۡرَآءِيۡلَ
+    arabic: إِسۡرَٰٓءِيلَ
     translation: (the) Children of Israel
     transliteration: is'rāīla
   5:
-    arabic: الۡكِتٰبَ
+    arabic: ٱلۡكِتَٰبَ
     translation: the Book
     transliteration: l-kitāba
   6:
-    arabic: وَالۡحُكۡمَ
+    arabic: وَٱلۡحُكۡمَ
     translation: and the wisdom
     transliteration: wal-ḥuk'ma
   7:
-    arabic: وَالنُّبُوَّةَ
+    arabic: وَٱلنُّبُوَّةَ
     translation: and the Prophethood
     transliteration: wal-nubuwata
   8:
-    arabic: وَرَزَقۡنٰهُمۡ
+    arabic: وَرَزَقۡنَٰهُم
     translation: and We provided them
     transliteration: warazaqnāhum
   9:
@@ -42,11 +42,11 @@ word_by_word:
     translation: of
     transliteration: mina
   10:
-    arabic: الطَّيِّبٰتِ
+    arabic: ٱلطَّيِّبَٰتِ
     translation: the good things
     transliteration: l-ṭayibāti
   11:
-    arabic: وَفَضَّلۡنٰهُمۡ
+    arabic: وَفَضَّلۡنَٰهُمۡ
     translation: and We preferred them
     transliteration: wafaḍḍalnāhum
   12:
@@ -54,7 +54,7 @@ word_by_word:
     translation: over
     transliteration: ʿalā
   13:
-    arabic: الۡعٰلَمِيۡنَ​ۚ‏
+    arabic: ٱلۡعَٰلَمِينَ
     translation: the worlds
     transliteration: l-ʿālamīna
 ---

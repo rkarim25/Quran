@@ -1,17 +1,17 @@
 ---
-arabic_ayat: فَاسۡتَجَبۡنَا لَهٗ وَوَهَبۡنَا لَهٗ يَحۡيٰى وَاَصۡلَحۡنَا لَهٗ زَوۡجَهٗ
-  ​ؕ اِنَّهُمۡ كَانُوۡا يُسٰرِعُوۡنَ فِىۡ الۡخَيۡـرٰتِ وَ يَدۡعُوۡنَـنَا رَغَبًا وَّرَهَبًا
-  ​ؕ وَكَانُوۡا لَنَا خٰشِعِيۡنَ‏
+arabic_ayat: فَٱسۡتَجَبۡنَا لَهُۥ وَوَهَبۡنَا لَهُۥ يَحۡيَىٰ وَأَصۡلَحۡنَا لَهُۥ زَوۡجَهُۥٓۚ
+  إِنَّهُمۡ كَانُواْ يُسَٰرِعُونَ فِي ٱلۡخَيۡرَٰتِ وَيَدۡعُونَنَا رَغَبٗا وَرَهَبٗاۖ
+  وَكَانُواْ لَنَا خَٰشِعِينَ
 sentence_translation: So We answered his prayer, granted him John, and made his wife
   fertile. Indeed, they used to race in doing good, and call upon Us with hope and
   fear, totally humbling themselves before Us.
 word_by_word:
   1:
-    arabic: فَاسۡتَجَبۡنَا
+    arabic: فَٱسۡتَجَبۡنَا
     translation: So We responded
     transliteration: fa-is'tajabnā
   2:
-    arabic: لَهٗ
+    arabic: لَهُۥ
     translation: to him
     transliteration: lahu
   3:
@@ -19,59 +19,59 @@ word_by_word:
     translation: and We bestowed
     transliteration: wawahabnā
   4:
-    arabic: لَهٗ
+    arabic: لَهُۥ
     translation: on him
     transliteration: lahu
   5:
-    arabic: يَحۡيٰى
+    arabic: يَحۡيَىٰ
     translation: Yahya
     transliteration: yaḥyā
   6:
-    arabic: وَاَصۡلَحۡنَا
+    arabic: وَأَصۡلَحۡنَا
     translation: and We cured
     transliteration: wa-aṣlaḥnā
   7:
-    arabic: لَهٗ
+    arabic: لَهُۥ
     translation: for him
     transliteration: lahu
   8:
-    arabic: زَوۡجَهٗ ​ؕ
+    arabic: زَوۡجَهُۥٓۚ
     translation: his wife
     transliteration: zawjahu
   9:
-    arabic: اِنَّهُمۡ
+    arabic: إِنَّهُمۡ
     translation: Indeed, they
     transliteration: innahum
   10:
-    arabic: كَانُوۡا
+    arabic: كَانُواْ
     translation: used (to)
     transliteration: kānū
   11:
-    arabic: يُسٰرِعُوۡنَ
+    arabic: يُسَٰرِعُونَ
     translation: hasten
     transliteration: yusāriʿūna
   12:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   13:
-    arabic: الۡخَيۡـرٰتِ
+    arabic: ٱلۡخَيۡرَٰتِ
     translation: good deeds
     transliteration: l-khayrāti
   14:
-    arabic: وَ يَدۡعُوۡنَـنَا
+    arabic: وَيَدۡعُونَنَا
     translation: and they supplicate to Us
     transliteration: wayadʿūnanā
   15:
-    arabic: رَغَبًا
+    arabic: رَغَبٗا
     translation: (in) hope
     transliteration: raghaban
   16:
-    arabic: وَّرَهَبًا ​ؕ
+    arabic: وَرَهَبٗاۖ
     translation: and fear
     transliteration: warahaban
   17:
-    arabic: وَكَانُوۡا
+    arabic: وَكَانُواْ
     translation: and they were
     transliteration: wakānū
   18:
@@ -79,7 +79,7 @@ word_by_word:
     translation: to Us
     transliteration: lanā
   19:
-    arabic: خٰشِعِيۡنَ‏
+    arabic: خَٰشِعِينَ
     translation: humbly submissive
     transliteration: khāshiʿīna
 ---

@@ -1,5 +1,5 @@
 ---
-arabic_ayat: يَغۡشَى النَّاسَ​ؕ هٰذَا عَذَابٌ اَلِيۡمٌ‏
+arabic_ayat: يَغۡشَى ٱلنَّاسَۖ هَٰذَا عَذَابٌ أَلِيمٞ
 sentence_translation: overwhelming the people. ˹They will cry,˺ “This is a painful
   torment.
 word_by_word:
@@ -8,11 +8,11 @@ word_by_word:
     translation: Enveloping
     transliteration: yaghshā
   2:
-    arabic: النَّاسَ​ؕ
+    arabic: ٱلنَّاسَۖ
     translation: the people
     transliteration: l-nāsa
   3:
-    arabic: هٰذَا
+    arabic: هَٰذَا
     translation: This
     transliteration: hādhā
   4:
@@ -20,7 +20,7 @@ word_by_word:
     translation: (will be) a punishment
     transliteration: ʿadhābun
   5:
-    arabic: اَلِيۡمٌ‏
+    arabic: أَلِيمٞ
     translation: painful
     transliteration: alīmun
 ---

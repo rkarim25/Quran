@@ -1,5 +1,5 @@
 ---
-arabic_ayat: وَلَا تَمَسُّوۡهَا بِسُوۡٓءٍ فَيَاۡخُذَكُمۡ عَذَابُ يَوۡمٍ عَظِيۡمٍ‏
+arabic_ayat: وَلَا تَمَسُّوهَا بِسُوٓءٖ فَيَأۡخُذَكُمۡ عَذَابُ يَوۡمٍ عَظِيمٖ
 sentence_translation: And do not ever touch her with harm, or you will be overtaken
   by the torment of a tremendous day.”
 word_by_word:
@@ -8,15 +8,15 @@ word_by_word:
     translation: And (do) not
     transliteration: walā
   2:
-    arabic: تَمَسُّوۡهَا
+    arabic: تَمَسُّوهَا
     translation: touch her
     transliteration: tamassūhā
   3:
-    arabic: بِسُوۡٓءٍ
+    arabic: بِسُوٓءٖ
     translation: with harm
     transliteration: bisūin
   4:
-    arabic: فَيَاۡخُذَكُمۡ
+    arabic: فَيَأۡخُذَكُمۡ
     translation: lest seize you
     transliteration: fayakhudhakum
   5:
@@ -28,7 +28,7 @@ word_by_word:
     translation: (of) a Day
     transliteration: yawmin
   7:
-    arabic: عَظِيۡمٍ‏
+    arabic: عَظِيمٖ
     translation: Great
     transliteration: ʿaẓīmin
 ---

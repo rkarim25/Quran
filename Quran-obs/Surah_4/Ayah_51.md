@@ -1,13 +1,13 @@
 ---
-arabic_ayat: اَلَمۡ تَرَ اِلَى الَّذِيۡنَ اُوۡتُوۡا نَصِيۡبًا مِّنَ الۡكِتٰبِ يُؤۡمِنُوۡنَ
-  بِالۡجِبۡتِ وَالطَّاغُوۡتِ وَيَقُوۡلُوۡنَ لِلَّذِيۡنَ كَفَرُوۡا هٰٓؤُلَۤاءِ اَهۡدٰى
-  مِنَ الَّذِيۡنَ اٰمَنُوۡا سَبِيۡلًا‏
+arabic_ayat: أَلَمۡ تَرَ إِلَى ٱلَّذِينَ أُوتُواْ نَصِيبٗا مِّنَ ٱلۡكِتَٰبِ يُؤۡمِنُونَ
+  بِٱلۡجِبۡتِ وَٱلطَّٰغُوتِ وَيَقُولُونَ لِلَّذِينَ كَفَرُواْ هَٰٓؤُلَآءِ أَهۡدَىٰ
+  مِنَ ٱلَّذِينَ ءَامَنُواْ سَبِيلًا
 sentence_translation: Have you ˹O Prophet˺ not seen those who were given a portion
   of the Scriptures yet believe in idols and false gods and reassure the disbelievers that
   they are better guided than the believers?
 word_by_word:
   1:
-    arabic: اَلَمۡ
+    arabic: أَلَمۡ
     translation: Do not
     transliteration: alam
   2:
@@ -15,19 +15,19 @@ word_by_word:
     translation: you see
     transliteration: tara
   3:
-    arabic: اِلَى
+    arabic: إِلَى
     translation: '[towards]'
     transliteration: ilā
   4:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   5:
-    arabic: اُوۡتُوۡا
+    arabic: أُوتُواْ
     translation: were given
     transliteration: ūtū
   6:
-    arabic: نَصِيۡبًا
+    arabic: نَصِيبٗا
     translation: a portion
     transliteration: naṣīban
   7:
@@ -35,39 +35,39 @@ word_by_word:
     translation: of
     transliteration: mina
   8:
-    arabic: الۡكِتٰبِ
+    arabic: ٱلۡكِتَٰبِ
     translation: the Book
     transliteration: l-kitābi
   9:
-    arabic: يُؤۡمِنُوۡنَ
+    arabic: يُؤۡمِنُونَ
     translation: They believe
     transliteration: yu'minūna
   10:
-    arabic: بِالۡجِبۡتِ
+    arabic: بِٱلۡجِبۡتِ
     translation: in the superstition
     transliteration: bil-jib'ti
   11:
-    arabic: وَالطَّاغُوۡتِ
+    arabic: وَٱلطَّٰغُوتِ
     translation: and the false deities
     transliteration: wal-ṭāghūti
   12:
-    arabic: وَيَقُوۡلُوۡنَ
+    arabic: وَيَقُولُونَ
     translation: and they say
     transliteration: wayaqūlūna
   13:
-    arabic: لِلَّذِيۡنَ
+    arabic: لِلَّذِينَ
     translation: for those who
     transliteration: lilladhīna
   14:
-    arabic: كَفَرُوۡا
+    arabic: كَفَرُواْ
     translation: disbelieve[d]
     transliteration: kafarū
   15:
-    arabic: هٰٓؤُلَۤاءِ
+    arabic: هَٰٓؤُلَآءِ
     translation: These
     transliteration: hāulāi
   16:
-    arabic: اَهۡدٰى
+    arabic: أَهۡدَىٰ
     translation: (are) better guided
     transliteration: ahdā
   17:
@@ -75,15 +75,15 @@ word_by_word:
     translation: than
     transliteration: mina
   18:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ ءَ
     translation: those who
     transliteration: alladhīna
   19:
-    arabic: اٰمَنُوۡا
+    arabic: امَنُواْ
     translation: believe[d]
     transliteration: āmanū
   20:
-    arabic: سَبِيۡلًا‏
+    arabic: سَبِيلًا
     translation: (as to the) way
     transliteration: sabīlan
 ---

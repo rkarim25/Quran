@@ -1,8 +1,8 @@
 ---
-arabic_ayat: اِذۡ تَمۡشِىۡۤ اُخۡتُكَ فَتَقُوۡلُ هَلۡ اَدُلُّـكُمۡ عَلٰى مَنۡ يَّكۡفُلُهٗ​
-  ؕ فَرَجَعۡنٰكَ اِلٰٓى اُمِّكَ كَىۡ تَقَرَّ عَيۡنُهَا وَلَا تَحۡزَنَ ؕ وَقَتَلۡتَ
-  نَـفۡسًا فَنَجَّيۡنٰكَ مِنَ الۡغَمِّ وَفَتَـنّٰكَ فُتُوۡنًا فَلَبِثۡتَ سِنِيۡنَ
-  فِىۡۤ اَهۡلِ مَدۡيَنَ ۙ ثُمَّ جِئۡتَ عَلٰى قَدَرٍ يّٰمُوۡسٰى‏
+arabic_ayat: إِذۡ تَمۡشِيٓ أُخۡتُكَ فَتَقُولُ هَلۡ أَدُلُّكُمۡ عَلَىٰ مَن يَكۡفُلُهُۥۖ
+  فَرَجَعۡنَٰكَ إِلَىٰٓ أُمِّكَ كَيۡ تَقَرَّ عَيۡنُهَا وَلَا تَحۡزَنَۚ وَقَتَلۡتَ
+  نَفۡسٗا فَنَجَّيۡنَٰكَ مِنَ ٱلۡغَمِّ وَفَتَنَّٰكَ فُتُونٗاۚ فَلَبِثۡتَ سِنِينَ فِيٓ
+  أَهۡلِ مَدۡيَنَ ثُمَّ جِئۡتَ عَلَىٰ قَدَرٖ يَٰمُوسَىٰ
 sentence_translation: ˹Remember˺ when your sister came along and proposed, ‘Shall
   I direct you to someone who will nurse him?’ So We reunited you with your mother
   so that her heart would be put at ease, and she would not grieve. ˹Later˺ you killed
@@ -11,19 +11,19 @@ sentence_translation: ˹Remember˺ when your sister came along and proposed, ‘
   you came here as pre-destined, O  Moses!
 word_by_word:
   1:
-    arabic: اِذۡ
+    arabic: إِذۡ
     translation: When
     transliteration: idh
   2:
-    arabic: تَمۡشِىۡۤ
+    arabic: تَمۡشِيٓ
     translation: was going
     transliteration: tamshī
   3:
-    arabic: اُخۡتُكَ
+    arabic: أُخۡتُكَ
     translation: your sister
     transliteration: ukh'tuka
   4:
-    arabic: فَتَقُوۡلُ
+    arabic: فَتَقُولُ
     translation: and she said
     transliteration: fataqūlu
   5:
@@ -31,35 +31,35 @@ word_by_word:
     translation: Shall
     transliteration: hal
   6:
-    arabic: اَدُلُّـكُمۡ
+    arabic: أَدُلُّكُمۡ
     translation: I show you
     transliteration: adullukum
   7:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: '[to]'
     transliteration: ʿalā
   8:
-    arabic: مَنۡ
+    arabic: مَن
     translation: (one) who
     transliteration: man
   9:
-    arabic: يَّكۡفُلُهٗ​ ؕ
+    arabic: يَكۡفُلُهُۥۖ
     translation: will nurse and rear him
     transliteration: yakfuluhu
   10:
-    arabic: فَرَجَعۡنٰكَ
+    arabic: فَرَجَعۡنَٰكَ
     translation: So We returned you
     transliteration: farajaʿnāka
   11:
-    arabic: اِلٰٓى
+    arabic: إِلَىٰٓ
     translation: to
     transliteration: ilā
   12:
-    arabic: اُمِّكَ
+    arabic: أُمِّكَ
     translation: your mother
     transliteration: ummika
   13:
-    arabic: كَىۡ
+    arabic: كَيۡ
     translation: that
     transliteration: kay
   14:
@@ -75,7 +75,7 @@ word_by_word:
     translation: and not
     transliteration: walā
   17:
-    arabic: تَحۡزَنَ ؕ
+    arabic: تَحۡزَنَۚ
     translation: she grieves
     transliteration: taḥzana
   18:
@@ -83,11 +83,11 @@ word_by_word:
     translation: And you killed
     transliteration: waqatalta
   19:
-    arabic: نَـفۡسًا
+    arabic: نَفۡسٗا
     translation: a man
     transliteration: nafsan
   20:
-    arabic: فَنَجَّيۡنٰكَ
+    arabic: فَنَجَّيۡنَٰكَ
     translation: but We saved you
     transliteration: fanajjaynāka
   21:
@@ -95,15 +95,15 @@ word_by_word:
     translation: from
     transliteration: mina
   22:
-    arabic: الۡغَمِّ
+    arabic: ٱلۡغَمِّ
     translation: the distress
     transliteration: l-ghami
   23:
-    arabic: وَفَتَـنّٰكَ
+    arabic: وَفَتَنَّٰكَ
     translation: and We tried you
     transliteration: wafatannāka
   24:
-    arabic: فُتُوۡنًا 
+    arabic: فُتُونٗاۚ
     translation: (with) a trial
     transliteration: futūnan
   25:
@@ -111,19 +111,19 @@ word_by_word:
     translation: Then you remained
     transliteration: falabith'ta
   26:
-    arabic: سِنِيۡنَ
+    arabic: سِنِينَ
     translation: (some) years
     transliteration: sinīna
   27:
-    arabic: فِىۡۤ
+    arabic: فِيٓ
     translation: with
     transliteration: fī
   28:
-    arabic: اَهۡلِ
+    arabic: أَهۡلِ
     translation: (the) people
     transliteration: ahli
   29:
-    arabic: مَدۡيَنَ ۙ
+    arabic: مَدۡيَنَ
     translation: (of) Madyan
     transliteration: madyana
   30:
@@ -135,15 +135,15 @@ word_by_word:
     translation: you came
     transliteration: ji'ta
   32:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: at
     transliteration: ʿalā
   33:
-    arabic: قَدَرٍ
+    arabic: قَدَرٖ
     translation: the decreed (time)
     transliteration: qadarin
   34:
-    arabic: يّٰمُوۡسٰى‏
+    arabic: يَٰمُوسَىٰ
     translation: O Musa
     transliteration: yāmūsā
 ---

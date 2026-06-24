@@ -1,12 +1,12 @@
 ---
-arabic_ayat: فَاَكَلَا مِنۡهَا فَبَدَتۡ لَهُمَا سَوۡاٰ تُہُمَا وَطَفِقَا يَخۡصِفٰنِ
-  عَلَيۡهِمَا مِنۡ وَّرَقِ الۡجَـنَّةِ​ وَعَصٰۤى اٰدَمُ رَبَّهٗ فَغَوٰى​ۖ‏
+arabic_ayat: فَأَكَلَا مِنۡهَا فَبَدَتۡ لَهُمَا سَوۡءَٰتُهُمَا وَطَفِقَا يَخۡصِفَانِ
+  عَلَيۡهِمَا مِن وَرَقِ ٱلۡجَنَّةِۚ وَعَصَىٰٓ ءَادَمُ رَبَّهُۥ فَغَوَىٰ
 sentence_translation: So they both ate from the tree and then their nakedness was
   exposed to them, prompting them to cover themselves with leaves from Paradise. So
   Adam disobeyed his Lord, and ˹so˺ lost his way.
 word_by_word:
   1:
-    arabic: فَاَكَلَا
+    arabic: فَأَكَلَا
     translation: Then they both ate
     transliteration: fa-akalā
   2:
@@ -22,7 +22,7 @@ word_by_word:
     translation: to them
     transliteration: lahumā
   5:
-    arabic: سَوۡاٰ تُہُمَا
+    arabic: سَوۡءَٰتُهُمَا
     translation: their shame
     transliteration: sawātuhumā
   6:
@@ -30,7 +30,7 @@ word_by_word:
     translation: and they began
     transliteration: waṭafiqā
   7:
-    arabic: يَخۡصِفٰنِ
+    arabic: يَخۡصِفَانِ
     translation: (to) fasten
     transliteration: yakhṣifāni
   8:
@@ -38,31 +38,31 @@ word_by_word:
     translation: on themselves
     transliteration: ʿalayhimā
   9:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   10:
-    arabic: وَّرَقِ
+    arabic: وَرَقِ
     translation: (the) leaves
     transliteration: waraqi
   11:
-    arabic: الۡجَـنَّةِ​
+    arabic: ٱلۡجَنَّةِۚ
     translation: (of) Paradise
     transliteration: l-janati
   12:
-    arabic: وَعَصٰۤى
+    arabic: وَعَصَىٰٓ ءَ
     translation: And Adam disobeyed
     transliteration: waʿaṣā
   13:
-    arabic: اٰدَمُ
+    arabic: ادَمُ
     translation: And Adam disobeyed
     transliteration: ādamu
   14:
-    arabic: رَبَّهٗ
+    arabic: رَبَّهُۥ
     translation: his Lord
     transliteration: rabbahu
   15:
-    arabic: فَغَوٰى​ۖ‏
+    arabic: فَغَوَىٰ
     translation: and erred
     transliteration: faghawā
 ---

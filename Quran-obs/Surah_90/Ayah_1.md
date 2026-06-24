@@ -1,21 +1,21 @@
 ---
-arabic_ayat: لَاۤ اُقۡسِمُ بِهٰذَا الۡبَلَدِۙ‏
+arabic_ayat: لَآ أُقۡسِمُ بِهَٰذَا ٱلۡبَلَدِ
 sentence_translation: I do swear by this city ˹of Mecca˺—
 word_by_word:
   1:
-    arabic: لَاۤ
+    arabic: لَآ
     translation: Nay
     transliteration: lā
   2:
-    arabic: اُقۡسِمُ
+    arabic: أُقۡسِمُ
     translation: I swear
     transliteration: uq'simu
   3:
-    arabic: بِهٰذَا
+    arabic: بِهَٰذَا
     translation: by this
     transliteration: bihādhā
   4:
-    arabic: الۡبَلَدِۙ‏
+    arabic: ٱلۡبَلَدِ
     translation: city
     transliteration: l-baladi
 ---

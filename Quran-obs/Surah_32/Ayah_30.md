@@ -1,9 +1,9 @@
 ---
-arabic_ayat: فَاَعۡرِضۡ عَنۡهُمۡ وَانْتَظِرۡ اِنَّهُمۡ مُّنۡتَظِرُوۡنَ‏
+arabic_ayat: فَأَعۡرِضۡ عَنۡهُمۡ وَٱنتَظِرۡ إِنَّهُم مُّنتَظِرُونَ
 sentence_translation: So turn away from them, and wait! They too are waiting.
 word_by_word:
   1:
-    arabic: فَاَعۡرِضۡ
+    arabic: فَأَعۡرِضۡ
     translation: So turn away
     transliteration: fa-aʿriḍ
   2:
@@ -11,15 +11,15 @@ word_by_word:
     translation: from them
     transliteration: ʿanhum
   3:
-    arabic: وَانْتَظِرۡ
+    arabic: وَٱنتَظِرۡ
     translation: and wait
     transliteration: wa-intaẓir
   4:
-    arabic: اِنَّهُمۡ
+    arabic: إِنَّهُم
     translation: Indeed, they
     transliteration: innahum
   5:
-    arabic: مُّنۡتَظِرُوۡنَ‏
+    arabic: مُّنتَظِرُونَ
     translation: (are) waiting
     transliteration: muntaẓirūna
 ---

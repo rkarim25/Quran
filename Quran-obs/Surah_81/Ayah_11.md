@@ -1,17 +1,17 @@
 ---
-arabic_ayat: وَاِذَا السَّمَآءُ كُشِطَتۡۙ‏
+arabic_ayat: وَإِذَا ٱلسَّمَآءُ كُشِطَتۡ
 sentence_translation: and when the sky is stripped away,
 word_by_word:
   1:
-    arabic: وَاِذَا
+    arabic: وَإِذَا
     translation: And when
     transliteration: wa-idhā
   2:
-    arabic: السَّمَآءُ
+    arabic: ٱلسَّمَآءُ
     translation: the sky
     transliteration: l-samāu
   3:
-    arabic: كُشِطَتۡۙ‏
+    arabic: كُشِطَتۡ
     translation: is stripped away
     transliteration: kushiṭat
 ---

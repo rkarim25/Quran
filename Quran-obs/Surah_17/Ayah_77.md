@@ -1,6 +1,6 @@
 ---
-arabic_ayat: سُنَّةَ مَنۡ قَدۡ اَرۡسَلۡنَا قَبۡلَكَ مِنۡ رُّسُلِنَا​ وَلَا تَجِدُ
-  لِسُنَّتِنَا تَحۡوِيۡلًا‏
+arabic_ayat: سُنَّةَ مَن قَدۡ أَرۡسَلۡنَا قَبۡلَكَ مِن رُّسُلِنَاۖ وَلَا تَجِدُ لِسُنَّتِنَا
+  تَحۡوِيلًا
 sentence_translation: ˹This has been˺ Our way with the messengers We sent before you.
   And you will never find any change in Our way.
 word_by_word:
@@ -9,7 +9,7 @@ word_by_word:
     translation: (Such is Our) Way
     transliteration: sunnata
   2:
-    arabic: مَنۡ
+    arabic: مَن
     translation: (for) whom
     transliteration: man
   3:
@@ -17,7 +17,7 @@ word_by_word:
     translation: '[verily]'
     transliteration: qad
   4:
-    arabic: اَرۡسَلۡنَا
+    arabic: أَرۡسَلۡنَا
     translation: We sent
     transliteration: arsalnā
   5:
@@ -25,11 +25,11 @@ word_by_word:
     translation: before you
     transliteration: qablaka
   6:
-    arabic: مِنۡ
+    arabic: مِن
     translation: of
     transliteration: min
   7:
-    arabic: رُّسُلِنَا​
+    arabic: رُّسُلِنَاۖ
     translation: Our Messengers
     transliteration: rusulinā
   8:
@@ -45,7 +45,7 @@ word_by_word:
     translation: (in) Our way
     transliteration: lisunnatinā
   11:
-    arabic: تَحۡوِيۡلًا‏
+    arabic: تَحۡوِيلًا
     translation: any alteration
     transliteration: taḥwīlan
 ---

@@ -1,31 +1,30 @@
 ---
-arabic_ayat: "مُّهۡطِعِيۡنَ اِلَى الدَّاعِ​ؕ يَقُوۡلُ الۡكٰفِرُوۡنَ هٰذَا يَوۡمٌ عَسِرٌ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: مُّهۡطِعِينَ إِلَى ٱلدَّاعِۖ يَقُولُ ٱلۡكَٰفِرُونَ هَٰذَا يَوۡمٌ عَسِرٞ
 sentence_translation: rushing towards the caller. The disbelievers will cry, “This
   is a difficult Day!”
 word_by_word:
   1:
-    arabic: مُّهۡطِعِيۡنَ
+    arabic: مُّهۡطِعِينَ
     translation: Racing ahead
     transliteration: muh'ṭiʿīna
   2:
-    arabic: اِلَى
+    arabic: إِلَى
     translation: towards
     transliteration: ilā
   3:
-    arabic: الدَّاعِ​ؕ
+    arabic: ٱلدَّاعِۖ
     translation: the caller
     transliteration: l-dāʿi
   4:
-    arabic: يَقُوۡلُ
+    arabic: يَقُولُ
     translation: Will say
     transliteration: yaqūlu
   5:
-    arabic: الۡكٰفِرُوۡنَ
+    arabic: ٱلۡكَٰفِرُونَ
     translation: the disbelievers
     transliteration: l-kāfirūna
   6:
-    arabic: هٰذَا
+    arabic: هَٰذَا
     translation: This
     transliteration: hādhā
   7:
@@ -33,7 +32,7 @@ word_by_word:
     translation: (is) a Day
     transliteration: yawmun
   8:
-    arabic: "عَسِرٌ‏ \uFEFF\uFEFF"
+    arabic: عَسِرٞ
     translation: difficult
     transliteration: ʿasirun
 ---

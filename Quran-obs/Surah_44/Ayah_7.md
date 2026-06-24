@@ -1,6 +1,5 @@
 ---
-arabic_ayat: "رَبِّ السَّمٰوٰتِ وَالۡاَرۡضِ وَمَا بَيۡنَهُمَا​ۘ اِنۡ كُنۡتُمۡ مُّوۡقِنِيۡنَ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: رَبِّ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِ وَمَا بَيۡنَهُمَآۖ إِن كُنتُم مُّوقِنِينَ
 sentence_translation: the Lord of the heavens and the earth and everything in between,
   if only you had sure faith.
 word_by_word:
@@ -9,11 +8,11 @@ word_by_word:
     translation: Lord
     transliteration: rabbi
   2:
-    arabic: السَّمٰوٰتِ
+    arabic: ٱلسَّمَٰوَٰتِ
     translation: (of) the heavens
     transliteration: l-samāwāti
   3:
-    arabic: وَالۡاَرۡضِ
+    arabic: وَٱلۡأَرۡضِ
     translation: and the earth
     transliteration: wal-arḍi
   4:
@@ -21,19 +20,19 @@ word_by_word:
     translation: and whatever
     transliteration: wamā
   5:
-    arabic: بَيۡنَهُمَا​ۘ
+    arabic: بَيۡنَهُمَآۖ
     translation: (is) between both of them
     transliteration: baynahumā
   6:
-    arabic: اِنۡ
+    arabic: إِن
     translation: if
     transliteration: in
   7:
-    arabic: كُنۡتُمۡ
+    arabic: كُنتُم
     translation: you are
     transliteration: kuntum
   8:
-    arabic: "مُّوۡقِنِيۡنَ‏ \uFEFF\uFEFF"
+    arabic: مُّوقِنِينَ
     translation: certain
     transliteration: mūqinīna
 ---

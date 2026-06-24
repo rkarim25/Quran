@@ -1,21 +1,21 @@
 ---
-arabic_ayat: اَفَمِنۡ هٰذَا الۡحَدِيۡثِ تَعۡجَبُوۡنَۙ‏
+arabic_ayat: أَفَمِنۡ هَٰذَا ٱلۡحَدِيثِ تَعۡجَبُونَ
 sentence_translation: Do you find this revelation astonishing,
 word_by_word:
   1:
-    arabic: اَفَمِنۡ
+    arabic: أَفَمِنۡ
     translation: Then of
     transliteration: afamin
   2:
-    arabic: هٰذَا
+    arabic: هَٰذَا
     translation: this
     transliteration: hādhā
   3:
-    arabic: الۡحَدِيۡثِ
+    arabic: ٱلۡحَدِيثِ
     translation: statement
     transliteration: l-ḥadīthi
   4:
-    arabic: تَعۡجَبُوۡنَۙ‏
+    arabic: تَعۡجَبُونَ
     translation: you wonder
     transliteration: taʿjabūna
 ---

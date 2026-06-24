@@ -1,25 +1,25 @@
 ---
-arabic_ayat: وَمَاۤ اَرۡسَلۡنٰكَ اِلَّا رَحۡمَةً لِّـلۡعٰلَمِيۡنَ‏
+arabic_ayat: وَمَآ أَرۡسَلۡنَٰكَ إِلَّا رَحۡمَةٗ لِّلۡعَٰلَمِينَ
 sentence_translation: We have sent you ˹O Prophet˺ only as a mercy for the whole world.
 word_by_word:
   1:
-    arabic: وَمَاۤ
+    arabic: وَمَآ
     translation: And not
     transliteration: wamā
   2:
-    arabic: اَرۡسَلۡنٰكَ
+    arabic: أَرۡسَلۡنَٰكَ
     translation: We have sent you
     transliteration: arsalnāka
   3:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: but
     transliteration: illā
   4:
-    arabic: رَحۡمَةً
+    arabic: رَحۡمَةٗ
     translation: (as) a mercy
     transliteration: raḥmatan
   5:
-    arabic: لِّـلۡعٰلَمِيۡنَ‏
+    arabic: لِّلۡعَٰلَمِينَ
     translation: for the worlds
     transliteration: lil'ʿālamīna
 ---

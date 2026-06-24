@@ -1,17 +1,17 @@
 ---
-arabic_ayat: الَّذِيۡنَ اِذَا اكۡتَالُوۡا عَلَى النَّاسِ يَسۡتَوۡفُوۡنَۖ‏
+arabic_ayat: ٱلَّذِينَ إِذَا ٱكۡتَالُواْ عَلَى ٱلنَّاسِ يَسۡتَوۡفُونَ
 sentence_translation: Those who take full measure ˹when they buy˺ from people,
 word_by_word:
   1:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: Those who
     transliteration: alladhīna
   2:
-    arabic: اِذَا
+    arabic: إِذَا
     translation: when
     transliteration: idhā
   3:
-    arabic: اكۡتَالُوۡا
+    arabic: ٱكۡتَالُواْ
     translation: they take a measure
     transliteration: ik'tālū
   4:
@@ -19,11 +19,11 @@ word_by_word:
     translation: from
     transliteration: ʿalā
   5:
-    arabic: النَّاسِ
+    arabic: ٱلنَّاسِ
     translation: the people
     transliteration: l-nāsi
   6:
-    arabic: يَسۡتَوۡفُوۡنَۖ‏
+    arabic: يَسۡتَوۡفُونَ
     translation: they take in full
     transliteration: yastawfūna
 ---

@@ -1,21 +1,21 @@
 ---
-arabic_ayat: اَفَرَءَيۡتُمُ النَّارَ الَّتِىۡ تُوۡرُوۡنَؕ‏
+arabic_ayat: أَفَرَءَيۡتُمُ ٱلنَّارَ ٱلَّتِي تُورُونَ
 sentence_translation: Have you considered the fire you kindle?
 word_by_word:
   1:
-    arabic: اَفَرَءَيۡتُمُ
+    arabic: أَفَرَءَيۡتُمُ
     translation: Do you see
     transliteration: afara-aytumu
   2:
-    arabic: النَّارَ
+    arabic: ٱلنَّارَ
     translation: the Fire
     transliteration: l-nāra
   3:
-    arabic: الَّتِىۡ
+    arabic: ٱلَّتِي
     translation: which
     transliteration: allatī
   4:
-    arabic: تُوۡرُوۡنَؕ‏
+    arabic: تُورُونَ
     translation: you ignite
     transliteration: tūrūna
 ---

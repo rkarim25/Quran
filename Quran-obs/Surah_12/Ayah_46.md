@@ -1,29 +1,29 @@
 ---
-arabic_ayat: يُوۡسُفُ اَيُّهَا الصِّدِّيۡقُ اَ فۡتِنَا فِىۡ سَبۡعِ بَقَرٰتٍ سِمَانٍ
-  يَّاۡكُلُهُنَّ سَبۡعٌ عِجَافٌ وَّسَبۡعِ سُنۡۢبُلٰتٍ خُضۡرٍ وَّاُخَرَ يٰبِسٰتٍ ۙ
-  لَّعَلِّىۡۤ اَرۡجِعُ اِلَى النَّاسِ لَعَلَّهُمۡ يَعۡلَمُوۡنَ‏
+arabic_ayat: يُوسُفُ أَيُّهَا ٱلصِّدِّيقُ أَفۡتِنَا فِي سَبۡعِ بَقَرَٰتٖ سِمَانٖ يَأۡكُلُهُنَّ
+  سَبۡعٌ عِجَافٞ وَسَبۡعِ سُنۢبُلَٰتٍ خُضۡرٖ وَأُخَرَ يَابِسَٰتٖ لَّعَلِّيٓ أَرۡجِعُ
+  إِلَى ٱلنَّاسِ لَعَلَّهُمۡ يَعۡلَمُونَ
 sentence_translation: ˹He said,˺ “Joseph, O  man of truth! Interpret for us ˹the dream
   of˺ seven fat cows eaten up by seven skinny ones; and seven green ears of grain
   and ˹seven˺ others dry, so that I may return to the people and let them know.”
 word_by_word:
   1:
-    arabic: يُوۡسُفُ
+    arabic: يُوسُفُ
     translation: Yusuf
     transliteration: yūsufu
   2:
-    arabic: اَيُّهَا
+    arabic: أَيُّهَا
     translation: O
     transliteration: ayyuhā
   3:
-    arabic: الصِّدِّيۡقُ
+    arabic: ٱلصِّدِّيقُ
     translation: the truthful one
     transliteration: l-ṣidīqu
   4:
-    arabic: اَ فۡتِنَا
+    arabic: أَفۡتِنَا
     translation: Explain to us
     transliteration: aftinā
   5:
-    arabic: فِىۡ
+    arabic: فِي
     translation: about
     transliteration: fī
   6:
@@ -31,15 +31,15 @@ word_by_word:
     translation: (the) seven
     transliteration: sabʿi
   7:
-    arabic: بَقَرٰتٍ
+    arabic: بَقَرَٰتٖ
     translation: cows
     transliteration: baqarātin
   8:
-    arabic: سِمَانٍ
+    arabic: سِمَانٖ
     translation: fat
     transliteration: simānin
   9:
-    arabic: يَّاۡكُلُهُنَّ
+    arabic: يَأۡكُلُهُنَّ
     translation: eating them
     transliteration: yakuluhunna
   10:
@@ -47,43 +47,43 @@ word_by_word:
     translation: seven
     transliteration: sabʿun
   11:
-    arabic: عِجَافٌ
+    arabic: عِجَافٞ
     translation: lean ones
     transliteration: ʿijāfun
   12:
-    arabic: وَّسَبۡعِ
+    arabic: وَسَبۡعِ
     translation: and seven
     transliteration: wasabʿi
   13:
-    arabic: سُنۡۢبُلٰتٍ
+    arabic: سُنۢبُلَٰتٍ
     translation: ears (of corn)
     transliteration: sunbulātin
   14:
-    arabic: خُضۡرٍ
+    arabic: خُضۡرٖ
     translation: green
     transliteration: khuḍ'rin
   15:
-    arabic: وَّاُخَرَ
+    arabic: وَأُخَرَ
     translation: and other
     transliteration: wa-ukhara
   16:
-    arabic: يٰبِسٰتٍ ۙ
+    arabic: يَابِسَٰتٖ
     translation: dry
     transliteration: yābisātin
   17:
-    arabic: لَّعَلِّىۡۤ
+    arabic: لَّعَلِّيٓ
     translation: that I may
     transliteration: laʿallī
   18:
-    arabic: اَرۡجِعُ
+    arabic: أَرۡجِعُ
     translation: return
     transliteration: arjiʿu
   19:
-    arabic: اِلَى
+    arabic: إِلَى
     translation: to
     transliteration: ilā
   20:
-    arabic: النَّاسِ
+    arabic: ٱلنَّاسِ
     translation: the people
     transliteration: l-nāsi
   21:
@@ -91,7 +91,7 @@ word_by_word:
     translation: so that they may
     transliteration: laʿallahum
   22:
-    arabic: يَعۡلَمُوۡنَ‏
+    arabic: يَعۡلَمُونَ
     translation: know
     transliteration: yaʿlamūna
 ---

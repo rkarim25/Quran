@@ -1,7 +1,7 @@
 ---
-arabic_ayat: وَمَا مِنۡ دَآبَّةٍ فِى الۡاَرۡضِ وَلَا طٰۤٮِٕرٍ يَّطِيۡرُ بِجَنَاحَيۡهِ
-  اِلَّاۤ اُمَمٌ اَمۡثَالُـكُمۡ​ؕ مَا فَرَّطۡنَا فِى الۡـكِتٰبِ مِنۡ شَىۡءٍ​ ثُمَّ
-  اِلٰى رَبِّهِمۡ يُحۡشَرُوۡنَ‏
+arabic_ayat: وَمَا مِن دَآبَّةٖ فِي ٱلۡأَرۡضِ وَلَا طَٰٓئِرٖ يَطِيرُ بِجَنَاحَيۡهِ
+  إِلَّآ أُمَمٌ أَمۡثَالُكُمۚ مَّا فَرَّطۡنَا فِي ٱلۡكِتَٰبِ مِن شَيۡءٖۚ ثُمَّ إِلَىٰ
+  رَبِّهِمۡ يُحۡشَرُونَ
 sentence_translation: All living beings roaming the earth and winged birds soaring
   in the sky are communities like yourselves. We have left nothing out of the Record. Then
   to their Lord they will be gathered all together.
@@ -11,19 +11,19 @@ word_by_word:
     translation: And not
     transliteration: wamā
   2:
-    arabic: مِنۡ
+    arabic: مِن
     translation: '[of]'
     transliteration: min
   3:
-    arabic: دَآبَّةٍ
+    arabic: دَآبَّةٖ
     translation: any animal
     transliteration: dābbatin
   4:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   5:
-    arabic: الۡاَرۡضِ
+    arabic: ٱلۡأَرۡضِ
     translation: the earth
     transliteration: l-arḍi
   6:
@@ -31,11 +31,11 @@ word_by_word:
     translation: and not
     transliteration: walā
   7:
-    arabic: طٰۤٮِٕرٍ
+    arabic: طَٰٓئِرٖ
     translation: a bird
     transliteration: ṭāirin
   8:
-    arabic: يَّطِيۡرُ
+    arabic: يَطِيرُ
     translation: (that) flies
     transliteration: yaṭīru
   9:
@@ -43,19 +43,19 @@ word_by_word:
     translation: 'with its wings '
     transliteration: bijanāḥayhi
   10:
-    arabic: اِلَّاۤ
+    arabic: إِلَّآ
     translation: but
     transliteration: illā
   11:
-    arabic: اُمَمٌ
+    arabic: أُمَمٌ
     translation: (are) communities
     transliteration: umamun
   12:
-    arabic: اَمۡثَالُـكُمۡ​ؕ
+    arabic: أَمۡثَالُكُمۚ
     translation: like you
     transliteration: amthālukum
   13:
-    arabic: مَا
+    arabic: مَّا
     translation: Not
     transliteration: mā
   14:
@@ -63,19 +63,19 @@ word_by_word:
     translation: We have neglected
     transliteration: farraṭnā
   15:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   16:
-    arabic: الۡـكِتٰبِ
+    arabic: ٱلۡكِتَٰبِ
     translation: the Book
     transliteration: l-kitābi
   17:
-    arabic: مِنۡ
+    arabic: مِن
     translation: '[of]'
     transliteration: min
   18:
-    arabic: شَىۡءٍ​
+    arabic: شَيۡءٖۚ
     translation: anything
     transliteration: shayin
   19:
@@ -83,7 +83,7 @@ word_by_word:
     translation: then
     transliteration: thumma
   20:
-    arabic: اِلٰى
+    arabic: إِلَىٰ
     translation: to
     transliteration: ilā
   21:
@@ -91,7 +91,7 @@ word_by_word:
     translation: their Lord
     transliteration: rabbihim
   22:
-    arabic: يُحۡشَرُوۡنَ‏
+    arabic: يُحۡشَرُونَ
     translation: they will be gathered
     transliteration: yuḥ'sharūna
 ---

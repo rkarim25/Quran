@@ -1,32 +1,32 @@
 ---
-arabic_ayat: الۤرٰ​ كِتٰبٌ اَنۡزَلۡنٰهُ اِلَيۡكَ لِـتُخۡرِجَ النَّاسَ مِنَ الظُّلُمٰتِ
-  اِلَى النُّوۡرِ  ۙ بِاِذۡنِ رَبِّهِمۡ اِلٰى صِرَاطِ الۡعَزِيۡزِ الۡحَمِيۡدِۙ‏
+arabic_ayat: الٓرۚ كِتَٰبٌ أَنزَلۡنَٰهُ إِلَيۡكَ لِتُخۡرِجَ ٱلنَّاسَ مِنَ ٱلظُّلُمَٰتِ
+  إِلَى ٱلنُّورِ بِإِذۡنِ رَبِّهِمۡ إِلَىٰ صِرَٰطِ ٱلۡعَزِيزِ ٱلۡحَمِيدِ
 sentence_translation: Alif-Lãm-Ra. ˹This is˺ a Book which We have revealed to you
   ˹O Prophet˺ so that you may lead people out of darkness and into light, by the Will
   of their Lord, to the Path of the Almighty, the Praiseworthy—
 word_by_word:
   1:
-    arabic: الۤرٰ​
+    arabic: الٓرۚ
     translation: Alif Laam Ra
     transliteration: alif-lam-ra
   2:
-    arabic: كِتٰبٌ
+    arabic: كِتَٰبٌ
     translation: A Book
     transliteration: kitābun
   3:
-    arabic: اَنۡزَلۡنٰهُ
+    arabic: أَنزَلۡنَٰهُ
     translation: which We have revealed
     transliteration: anzalnāhu
   4:
-    arabic: اِلَيۡكَ
+    arabic: إِلَيۡكَ
     translation: to you
     transliteration: ilayka
   5:
-    arabic: لِـتُخۡرِجَ
+    arabic: لِتُخۡرِجَ
     translation: so that you may bring out
     transliteration: litukh'rija
   6:
-    arabic: النَّاسَ
+    arabic: ٱلنَّاسَ
     translation: the mankind
     transliteration: l-nāsa
   7:
@@ -34,19 +34,19 @@ word_by_word:
     translation: from
     transliteration: mina
   8:
-    arabic: الظُّلُمٰتِ
+    arabic: ٱلظُّلُمَٰتِ
     translation: the darkness[es]
     transliteration: l-ẓulumāti
   9:
-    arabic: اِلَى
+    arabic: إِلَى
     translation: to
     transliteration: ilā
   10:
-    arabic: النُّوۡرِ  ۙ
+    arabic: ٱلنُّورِ
     translation: the light
     transliteration: l-nūri
   11:
-    arabic: بِاِذۡنِ
+    arabic: بِإِذۡنِ
     translation: by the permission
     transliteration: bi-idh'ni
   12:
@@ -54,19 +54,19 @@ word_by_word:
     translation: (of) their Lord
     transliteration: rabbihim
   13:
-    arabic: اِلٰى
+    arabic: إِلَىٰ
     translation: to
     transliteration: ilā
   14:
-    arabic: صِرَاطِ
+    arabic: صِرَٰطِ
     translation: the Path
     transliteration: ṣirāṭi
   15:
-    arabic: الۡعَزِيۡزِ
+    arabic: ٱلۡعَزِيزِ
     translation: (of) the All-Mighty
     transliteration: l-ʿazīzi
   16:
-    arabic: الۡحَمِيۡدِۙ‏
+    arabic: ٱلۡحَمِيدِ
     translation: the Praiseworthy
     transliteration: l-ḥamīdi
 ---

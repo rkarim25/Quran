@@ -1,5 +1,5 @@
 ---
-arabic_ayat: وَلَا يَسۡتَثۡنُوۡنَ‏
+arabic_ayat: وَلَا يَسۡتَثۡنُونَ
 sentence_translation: leaving no thought for Allah’s Will.
 word_by_word:
   1:
@@ -7,7 +7,7 @@ word_by_word:
     translation: And not
     transliteration: walā
   2:
-    arabic: يَسۡتَثۡنُوۡنَ‏
+    arabic: يَسۡتَثۡنُونَ
     translation: making exception
     transliteration: yastathnūna
 ---

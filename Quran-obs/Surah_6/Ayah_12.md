@@ -1,18 +1,18 @@
 ---
-arabic_ayat: قُلْ لِّمَنۡ مَّا فِى السَّمٰوٰتِ وَالۡاَرۡضِ​ؕ قُلْ لِّلّٰهِ​ؕ كَتَبَ
-  عَلٰى نَفۡسِهِ الرَّحۡمَةَ ​ ؕ لَيَجۡمَعَنَّكُمۡ اِلٰى يَوۡمِ الۡقِيٰمَةِ لَا رَيۡبَ
-  فِيۡهِ​ ؕ اَلَّذِيۡنَ خَسِرُوۡۤا اَنۡفُسَهُمۡ فَهُمۡ لَا يُؤۡمِنُوۡنَ‏
+arabic_ayat: قُل لِّمَن مَّا فِي ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِۖ قُل لِّلَّهِۚ كَتَبَ عَلَىٰ
+  نَفۡسِهِ ٱلرَّحۡمَةَۚ لَيَجۡمَعَنَّكُمۡ إِلَىٰ يَوۡمِ ٱلۡقِيَٰمَةِ لَا رَيۡبَ فِيهِۚ
+  ٱلَّذِينَ خَسِرُوٓاْ أَنفُسَهُمۡ فَهُمۡ لَا يُؤۡمِنُونَ
 sentence_translation: Ask ˹them, O  Prophet˺, “To whom belongs everything in the heavens
   and the earth?” Say, “To Allah!” He has taken upon Himself to be Merciful. He will
   certainly gather ˹all of˺ you together for the Day of Judgment—about which there
   is no doubt. But those who have ruined themselves will never believe.
 word_by_word:
   1:
-    arabic: قُلْ
+    arabic: قُل
     translation: Say
     transliteration: qul
   2:
-    arabic: لِّمَنۡ
+    arabic: لِّمَن
     translation: To whom (belongs)
     transliteration: liman
   3:
@@ -20,23 +20,23 @@ word_by_word:
     translation: what
     transliteration: mā
   4:
-    arabic: فِى
+    arabic: فِي
     translation: (is) in
     transliteration: fī
   5:
-    arabic: السَّمٰوٰتِ
+    arabic: ٱلسَّمَٰوَٰتِ
     translation: the heavens
     transliteration: l-samāwāti
   6:
-    arabic: وَالۡاَرۡضِ​ؕ
+    arabic: وَٱلۡأَرۡضِۖ
     translation: and the earth
     transliteration: wal-arḍi
   7:
-    arabic: قُلْ
+    arabic: قُل
     translation: Say
     transliteration: qul
   8:
-    arabic: لِّلّٰهِ​ؕ
+    arabic: لِّلَّهِۚ
     translation: To Allah
     transliteration: lillahi
   9:
@@ -44,7 +44,7 @@ word_by_word:
     translation: He has decreed
     transliteration: kataba
   10:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: upon
     transliteration: ʿalā
   11:
@@ -52,7 +52,7 @@ word_by_word:
     translation: Himself
     transliteration: nafsihi
   12:
-    arabic: الرَّحۡمَةَ ​ ؕ
+    arabic: ٱلرَّحۡمَةَۚ
     translation: the Mercy
     transliteration: l-raḥmata
   13:
@@ -60,7 +60,7 @@ word_by_word:
     translation: Surely He will assemble you
     transliteration: layajmaʿannakum
   14:
-    arabic: اِلٰى
+    arabic: إِلَىٰ
     translation: 'on'
     transliteration: ilā
   15:
@@ -68,7 +68,7 @@ word_by_word:
     translation: (the) Day
     transliteration: yawmi
   16:
-    arabic: الۡقِيٰمَةِ
+    arabic: ٱلۡقِيَٰمَةِ
     translation: (of) the Resurrection
     transliteration: l-qiyāmati
   17:
@@ -80,19 +80,19 @@ word_by_word:
     translation: doubt
     transliteration: rayba
   19:
-    arabic: فِيۡهِ​ ؕ
+    arabic: فِيهِۚ
     translation: about it
     transliteration: fīhi
   20:
-    arabic: اَلَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: Those who
     transliteration: alladhīna
   21:
-    arabic: خَسِرُوۡۤا
+    arabic: خَسِرُوٓاْ
     translation: have lost
     transliteration: khasirū
   22:
-    arabic: اَنۡفُسَهُمۡ
+    arabic: أَنفُسَهُمۡ
     translation: themselves
     transliteration: anfusahum
   23:
@@ -104,7 +104,7 @@ word_by_word:
     translation: (do) not
     transliteration: lā
   25:
-    arabic: يُؤۡمِنُوۡنَ‏
+    arabic: يُؤۡمِنُونَ
     translation: believe
     transliteration: yu'minūna
 ---

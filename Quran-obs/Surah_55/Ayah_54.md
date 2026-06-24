@@ -1,23 +1,23 @@
 ---
-arabic_ayat: مُتَّكِـــِٕيۡنَ عَلٰى فُرُشٍۢ بَطَآٮِٕنُهَا مِنۡ اِسۡتَبۡرَقٍ​ؕ وَجَنَی
-  الۡجَـنَّتَيۡنِ دَانٍ​ۚ‏
+arabic_ayat: مُتَّكِـِٔينَ عَلَىٰ فُرُشِۭ بَطَآئِنُهَا مِنۡ إِسۡتَبۡرَقٖۚ وَجَنَى
+  ٱلۡجَنَّتَيۡنِ دَانٖ
 sentence_translation: Those ˹believers˺ will recline on furnishings lined with rich
   brocade. And the fruit of both Gardens will hang within reach.
 word_by_word:
   1:
-    arabic: مُتَّكِـــِٕيۡنَ
+    arabic: مُتَّكِـِٔينَ
     translation: Reclining
     transliteration: muttakiīna
   2:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: 'on'
     transliteration: ʿalā
   3:
-    arabic: فُرُشٍۢ
+    arabic: فُرُشِۭ
     translation: couches
     transliteration: furushin
   4:
-    arabic: بَطَآٮِٕنُهَا
+    arabic: بَطَآئِنُهَا
     translation: (whose) inner linings
     transliteration: baṭāinuhā
   5:
@@ -25,19 +25,19 @@ word_by_word:
     translation: (are) of
     transliteration: min
   6:
-    arabic: اِسۡتَبۡرَقٍ​ؕ
+    arabic: إِسۡتَبۡرَقٖۚ
     translation: brocade
     transliteration: is'tabraqin
   7:
-    arabic: وَجَنَی
+    arabic: وَجَنَى
     translation: and (the) fruit
     transliteration: wajanā
   8:
-    arabic: الۡجَـنَّتَيۡنِ
+    arabic: ٱلۡجَنَّتَيۡنِ
     translation: (of) both the gardens
     transliteration: l-janatayni
   9:
-    arabic: دَانٍ​ۚ‏
+    arabic: دَانٖ
     translation: (is) near
     transliteration: dānin
 ---

@@ -1,17 +1,17 @@
 ---
-arabic_ayat: اِنَّ اِلٰهَكُمۡ لَوَاحِدٌ ؕ‏
+arabic_ayat: إِنَّ إِلَٰهَكُمۡ لَوَٰحِدٞ
 sentence_translation: Surely your God is One!
 word_by_word:
   1:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   2:
-    arabic: اِلٰهَكُمۡ
+    arabic: إِلَٰهَكُمۡ
     translation: your Lord
     transliteration: ilāhakum
   3:
-    arabic: لَوَاحِدٌ ؕ‏
+    arabic: لَوَٰحِدٞ
     translation: (is) surely One
     transliteration: lawāḥidun
 ---

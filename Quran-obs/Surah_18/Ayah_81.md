@@ -1,19 +1,19 @@
 ---
-arabic_ayat: فَاَرَدۡنَاۤ اَنۡ يُّبۡدِلَهُمَا رَبُّهُمَا خَيۡرًا مِّنۡهُ زَكٰوةً وَّاَقۡرَبَ
-  رُحۡمًا‏
+arabic_ayat: فَأَرَدۡنَآ أَن يُبۡدِلَهُمَا رَبُّهُمَا خَيۡرٗا مِّنۡهُ زَكَوٰةٗ وَأَقۡرَبَ
+  رُحۡمٗا
 sentence_translation: So we hoped that their Lord would give them another, more virtuous
   and caring in his place.
 word_by_word:
   1:
-    arabic: فَاَرَدۡنَاۤ
+    arabic: فَأَرَدۡنَآ
     translation: So we intended
     transliteration: fa-aradnā
   2:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that
     transliteration: an
   3:
-    arabic: يُّبۡدِلَهُمَا
+    arabic: يُبۡدِلَهُمَا
     translation: would change for them
     transliteration: yub'dilahumā
   4:
@@ -21,7 +21,7 @@ word_by_word:
     translation: their Lord
     transliteration: rabbuhumā
   5:
-    arabic: خَيۡرًا
+    arabic: خَيۡرٗا
     translation: a better
     transliteration: khayran
   6:
@@ -29,15 +29,15 @@ word_by_word:
     translation: than him
     transliteration: min'hu
   7:
-    arabic: زَكٰوةً
+    arabic: زَكَوٰةٗ
     translation: (in) purity
     transliteration: zakatan
   8:
-    arabic: وَّاَقۡرَبَ
+    arabic: وَأَقۡرَبَ
     translation: and nearer
     transliteration: wa-aqraba
   9:
-    arabic: رُحۡمًا‏
+    arabic: رُحۡمٗا
     translation: (in) affection
     transliteration: ruḥ'man
 ---

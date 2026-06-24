@@ -1,39 +1,38 @@
 ---
-arabic_ayat: "فَاسۡتَمۡسِكۡ بِالَّذِىۡۤ اُوۡحِىَ اِلَيۡكَ​ ۚ اِنَّكَ عَلٰى صِرَاطٍ\
-  \ مُّسۡتَقِيۡمٍ‏ \uFEFF\uFEFF"
+arabic_ayat: فَٱسۡتَمۡسِكۡ بِٱلَّذِيٓ أُوحِيَ إِلَيۡكَۖ إِنَّكَ عَلَىٰ صِرَٰطٖ مُّسۡتَقِيمٖ
 sentence_translation: So hold firmly to what has been revealed to you ˹O Prophet˺.
   You are truly on the Straight Path.
 word_by_word:
   1:
-    arabic: فَاسۡتَمۡسِكۡ
+    arabic: فَٱسۡتَمۡسِكۡ
     translation: So hold fast
     transliteration: fa-is'tamsik
   2:
-    arabic: بِالَّذِىۡۤ
+    arabic: بِٱلَّذِيٓ
     translation: to that which
     transliteration: bi-alladhī
   3:
-    arabic: اُوۡحِىَ
+    arabic: أُوحِيَ
     translation: is revealed
     transliteration: ūḥiya
   4:
-    arabic: اِلَيۡكَ​ ۚ
+    arabic: إِلَيۡكَۖ
     translation: to you
     transliteration: ilayka
   5:
-    arabic: اِنَّكَ
+    arabic: إِنَّكَ
     translation: Indeed, you
     transliteration: innaka
   6:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: (are) on
     transliteration: ʿalā
   7:
-    arabic: صِرَاطٍ
+    arabic: صِرَٰطٖ
     translation: a Path
     transliteration: ṣirāṭin
   8:
-    arabic: "مُّسۡتَقِيۡمٍ‏ \uFEFF\uFEFF"
+    arabic: مُّسۡتَقِيمٖ
     translation: Straight
     transliteration: mus'taqīmin
 ---

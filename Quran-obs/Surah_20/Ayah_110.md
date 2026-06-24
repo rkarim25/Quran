@@ -1,6 +1,6 @@
 ---
-arabic_ayat: يَعۡلَمُ مَا بَيۡنَ اَيۡدِيۡهِمۡ وَمَا خَلۡفَهُمۡ وَلَا يُحِيۡطُوۡنَ
-  بِهٖ عِلۡمًا‏
+arabic_ayat: يَعۡلَمُ مَا بَيۡنَ أَيۡدِيهِمۡ وَمَا خَلۡفَهُمۡ وَلَا يُحِيطُونَ بِهِۦ
+  عِلۡمٗا
 sentence_translation: He ˹fully˺ knows what is ahead of them and what is behind them, but
   they cannot encompass Him in ˹their˺ knowledge.
 word_by_word:
@@ -17,7 +17,7 @@ word_by_word:
     translation: (is) before them
     transliteration: bayna
   4:
-    arabic: اَيۡدِيۡهِمۡ
+    arabic: أَيۡدِيهِمۡ
     translation: (is) before them
     transliteration: aydīhim
   5:
@@ -33,15 +33,15 @@ word_by_word:
     translation: while not
     transliteration: walā
   8:
-    arabic: يُحِيۡطُوۡنَ
+    arabic: يُحِيطُونَ
     translation: they encompass
     transliteration: yuḥīṭūna
   9:
-    arabic: بِهٖ
+    arabic: بِهِۦ
     translation: it
     transliteration: bihi
   10:
-    arabic: عِلۡمًا‏
+    arabic: عِلۡمٗا
     translation: (in) knowledge
     transliteration: ʿil'man
 ---

@@ -1,12 +1,12 @@
 ---
-arabic_ayat: وَاَنۡذِرۡهُمۡ يَوۡمَ الۡاٰزِفَةِ اِذِ الۡقُلُوۡبُ لَدَى الۡحَـنَاجِرِ
-  كٰظِمِيۡنَ ؕ مَا لِلظّٰلِمِيۡنَ مِنۡ حَمِيۡمٍ وَّلَا شَفِيۡعٍ يُّطَاعُ ؕ‏
+arabic_ayat: وَأَنذِرۡهُمۡ يَوۡمَ ٱلۡأٓزِفَةِ إِذِ ٱلۡقُلُوبُ لَدَى ٱلۡحَنَاجِرِ كَٰظِمِينَۚ
+  مَا لِلظَّٰلِمِينَ مِنۡ حَمِيمٖ وَلَا شَفِيعٖ يُطَاعُ
 sentence_translation: Warn them ˹O Prophet˺ of the approaching Day when the hearts
   will jump into the throats, suppressing distress. The wrongdoers will have neither
   a close friend nor intercessor to be heard.
 word_by_word:
   1:
-    arabic: وَاَنۡذِرۡهُمۡ
+    arabic: وَأَنذِرۡهُمۡ
     translation: And warn them
     transliteration: wa-andhir'hum
   2:
@@ -14,15 +14,15 @@ word_by_word:
     translation: (of the) Day
     transliteration: yawma
   3:
-    arabic: الۡاٰزِفَةِ
+    arabic: ٱلۡأٓزِفَةِ
     translation: the Approaching
     transliteration: l-āzifati
   4:
-    arabic: اِذِ
+    arabic: إِذِ
     translation: when
     transliteration: idhi
   5:
-    arabic: الۡقُلُوۡبُ
+    arabic: ٱلۡقُلُوبُ
     translation: the hearts
     transliteration: l-qulūbu
   6:
@@ -30,11 +30,11 @@ word_by_word:
     translation: (are) at
     transliteration: ladā
   7:
-    arabic: الۡحَـنَاجِرِ
+    arabic: ٱلۡحَنَاجِرِ
     translation: the throats
     transliteration: l-ḥanājiri
   8:
-    arabic: كٰظِمِيۡنَ ؕ
+    arabic: كَٰظِمِينَۚ
     translation: choked
     transliteration: kāẓimīna
   9:
@@ -42,7 +42,7 @@ word_by_word:
     translation: Not
     transliteration: mā
   10:
-    arabic: لِلظّٰلِمِيۡنَ
+    arabic: لِلظَّٰلِمِينَ
     translation: for the wrongdoers
     transliteration: lilẓẓālimīna
   11:
@@ -50,19 +50,19 @@ word_by_word:
     translation: any
     transliteration: min
   12:
-    arabic: حَمِيۡمٍ
+    arabic: حَمِيمٖ
     translation: intimate friend
     transliteration: ḥamīmin
   13:
-    arabic: وَّلَا
+    arabic: وَلَا
     translation: and no
     transliteration: walā
   14:
-    arabic: شَفِيۡعٍ
+    arabic: شَفِيعٖ
     translation: intercessor
     transliteration: shafīʿin
   15:
-    arabic: يُّطَاعُ ؕ‏
+    arabic: يُطَاعُ
     translation: (who) is obeyed
     transliteration: yuṭāʿu
 ---

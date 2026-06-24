@@ -1,17 +1,17 @@
 ---
-arabic_ayat: وَاغۡفِرۡ لِاَبِىۡۤ اِنَّهٗ كَانَ مِنَ الضَّآلِّيۡنَۙ‏
+arabic_ayat: وَٱغۡفِرۡ لِأَبِيٓ إِنَّهُۥ كَانَ مِنَ ٱلضَّآلِّينَ
 sentence_translation: Forgive my father, for he is certainly one of the misguided.
 word_by_word:
   1:
-    arabic: وَاغۡفِرۡ
+    arabic: وَٱغۡفِرۡ
     translation: And forgive
     transliteration: wa-igh'fir
   2:
-    arabic: لِاَبِىۡۤ
+    arabic: لِأَبِيٓ
     translation: my father
     transliteration: li-abī
   3:
-    arabic: اِنَّهٗ
+    arabic: إِنَّهُۥ
     translation: Indeed, he
     transliteration: innahu
   4:
@@ -23,7 +23,7 @@ word_by_word:
     translation: of
     transliteration: mina
   6:
-    arabic: الضَّآلِّيۡنَۙ‏
+    arabic: ٱلضَّآلِّينَ
     translation: those astray
     transliteration: l-ḍālīna
 ---

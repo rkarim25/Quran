@@ -1,30 +1,30 @@
 ---
-arabic_ayat: وَاِذَاۤ اَذَقۡنَا النَّاسَ رَحۡمَةً مِّنۡۢ بَعۡدِ ضَرَّآءَ مَسَّتۡهُمۡ
-  اِذَا لَهُمۡ مَّكۡرٌ فِىۡۤ اٰيَاتِنَا​ ؕ قُلِ اللّٰهُ اَسۡرَعُ مَكۡرًا​ ؕ اِنَّ
-  رُسُلَنَا يَكۡتُبُوۡنَ مَا تَمۡكُرُوۡنَ‏
+arabic_ayat: وَإِذَآ أَذَقۡنَا ٱلنَّاسَ رَحۡمَةٗ مِّنۢ بَعۡدِ ضَرَّآءَ مَسَّتۡهُمۡ
+  إِذَا لَهُم مَّكۡرٞ فِيٓ ءَايَاتِنَاۚ قُلِ ٱللَّهُ أَسۡرَعُ مَكۡرًاۚ إِنَّ رُسُلَنَا
+  يَكۡتُبُونَ مَا تَمۡكُرُونَ
 sentence_translation: When We give people a taste of mercy after being afflicted with
   a hardship, they swiftly devise plots against Our revelations! Say, ˹O Prophet,˺
   “Allah is swifter in devising ˹punishment˺. Surely Our messenger-angels record whatever
   you devise.”
 word_by_word:
   1:
-    arabic: وَاِذَاۤ
+    arabic: وَإِذَآ
     translation: And when
     transliteration: wa-idhā
   2:
-    arabic: اَذَقۡنَا
+    arabic: أَذَقۡنَا
     translation: We let [the] mankind taste
     transliteration: adhaqnā
   3:
-    arabic: النَّاسَ
+    arabic: ٱلنَّاسَ
     translation: We let [the] mankind taste
     transliteration: l-nāsa
   4:
-    arabic: رَحۡمَةً
+    arabic: رَحۡمَةٗ
     translation: mercy
     transliteration: raḥmatan
   5:
-    arabic: مِّنۡۢ
+    arabic: مِّنۢ
     translation: after
     transliteration: min
   6:
@@ -40,23 +40,23 @@ word_by_word:
     translation: has touched them
     transliteration: massathum
   9:
-    arabic: اِذَا
+    arabic: إِذَا
     translation: behold
     transliteration: idhā
   10:
-    arabic: لَهُمۡ
+    arabic: لَهُم
     translation: They have
     transliteration: lahum
   11:
-    arabic: مَّكۡرٌ
+    arabic: مَّكۡرٞ
     translation: a plot
     transliteration: makrun
   12:
-    arabic: فِىۡۤ
+    arabic: فِيٓ ءَ
     translation: against
     transliteration: fī
   13:
-    arabic: اٰيَاتِنَا​ ؕ
+    arabic: ايَاتِنَاۚ
     translation: Our Verses
     transliteration: āyātinā
   14:
@@ -64,19 +64,19 @@ word_by_word:
     translation: Say
     transliteration: quli
   15:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   16:
-    arabic: اَسۡرَعُ
+    arabic: أَسۡرَعُ
     translation: (is) more swift
     transliteration: asraʿu
   17:
-    arabic: مَكۡرًا​ ؕ
+    arabic: مَكۡرًاۚ
     translation: (in) planning
     transliteration: makran
   18:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   19:
@@ -84,7 +84,7 @@ word_by_word:
     translation: Our Messengers
     transliteration: rusulanā
   20:
-    arabic: يَكۡتُبُوۡنَ
+    arabic: يَكۡتُبُونَ
     translation: write down
     transliteration: yaktubūna
   21:
@@ -92,7 +92,7 @@ word_by_word:
     translation: what
     transliteration: mā
   22:
-    arabic: تَمۡكُرُوۡنَ‏
+    arabic: تَمۡكُرُونَ
     translation: you plot
     transliteration: tamkurūna
 ---

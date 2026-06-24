@@ -1,19 +1,18 @@
 ---
-arabic_ayat: "وَلِلۡمُطَلَّقٰتِ مَتَاعٌ ۢ بِالۡمَعۡرُوۡفِ ​ؕ حَقًّا عَلَى الۡمُتَّقِيۡنَ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: وَلِلۡمُطَلَّقَٰتِ مَتَٰعُۢ بِٱلۡمَعۡرُوفِۖ حَقًّا عَلَى ٱلۡمُتَّقِينَ
 sentence_translation: Reasonable provisions must be made for divorced women—a duty
   on those mindful ˹of Allah˺.
 word_by_word:
   1:
-    arabic: وَلِلۡمُطَلَّقٰتِ
+    arabic: وَلِلۡمُطَلَّقَٰتِ
     translation: And for the divorced women
     transliteration: walil'muṭallaqāti
   2:
-    arabic: مَتَاعٌ ۢ
+    arabic: مَتَٰعُۢ
     translation: (is) a provision
     transliteration: matāʿun
   3:
-    arabic: بِالۡمَعۡرُوۡفِ ​ؕ
+    arabic: بِٱلۡمَعۡرُوفِۖ
     translation: 'in a fair manner '
     transliteration: bil-maʿrūfi
   4:
@@ -25,7 +24,7 @@ word_by_word:
     translation: upon
     transliteration: ʿalā
   6:
-    arabic: "الۡمُتَّقِيۡنَ‏ \uFEFF\uFEFF"
+    arabic: ٱلۡمُتَّقِينَ
     translation: the righteous
     transliteration: l-mutaqīna
 ---

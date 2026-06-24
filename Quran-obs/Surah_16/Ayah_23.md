@@ -1,6 +1,6 @@
 ---
-arabic_ayat: لَا جَرَمَ اَنَّ اللّٰهَ يَعۡلَمُ مَا يُسِرُّوۡنَ وَمَا يُعۡلِنُوۡنَ​ؕ
-  اِنَّهٗ لَا يُحِبُّ الۡمُسۡتَكۡبِرِيۡنَ‏
+arabic_ayat: لَا جَرَمَ أَنَّ ٱللَّهَ يَعۡلَمُ مَا يُسِرُّونَ وَمَا يُعۡلِنُونَۚ إِنَّهُۥ
+  لَا يُحِبُّ ٱلۡمُسۡتَكۡبِرِينَ
 sentence_translation: Without a doubt, Allah knows what they conceal and what they
   reveal. He certainly does not like those who are too proud.
 word_by_word:
@@ -13,11 +13,11 @@ word_by_word:
     translation: No doubt
     transliteration: jarama
   3:
-    arabic: اَنَّ
+    arabic: أَنَّ
     translation: that
     transliteration: anna
   4:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   5:
@@ -29,7 +29,7 @@ word_by_word:
     translation: what
     transliteration: mā
   7:
-    arabic: يُسِرُّوۡنَ
+    arabic: يُسِرُّونَ
     translation: they conceal
     transliteration: yusirrūna
   8:
@@ -37,11 +37,11 @@ word_by_word:
     translation: and what
     transliteration: wamā
   9:
-    arabic: يُعۡلِنُوۡنَ​ؕ
+    arabic: يُعۡلِنُونَۚ
     translation: they reveal
     transliteration: yuʿ'linūna
   10:
-    arabic: اِنَّهٗ
+    arabic: إِنَّهُۥ
     translation: Indeed, He
     transliteration: innahu
   11:
@@ -53,7 +53,7 @@ word_by_word:
     translation: love
     transliteration: yuḥibbu
   13:
-    arabic: الۡمُسۡتَكۡبِرِيۡنَ‏
+    arabic: ٱلۡمُسۡتَكۡبِرِينَ
     translation: the arrogant ones
     transliteration: l-mus'takbirīna
 ---

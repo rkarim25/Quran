@@ -1,6 +1,6 @@
 ---
-arabic_ayat: وَمَا مَنَعَ النَّاسَ اَنۡ يُّؤۡمِنُوۡۤا اِذۡ جَآءَهُمُ الۡهُدٰٓى اِلَّاۤ
-  اَنۡ قَالُـوۡۤا اَبَعَثَ اللّٰهُ بَشَرًا رَّسُوۡلًا‏
+arabic_ayat: وَمَا مَنَعَ ٱلنَّاسَ أَن يُؤۡمِنُوٓاْ إِذۡ جَآءَهُمُ ٱلۡهُدَىٰٓ إِلَّآ
+  أَن قَالُوٓاْ أَبَعَثَ ٱللَّهُ بَشَرٗا رَّسُولٗا
 sentence_translation: 'And nothing has prevented people from believing when guidance
   comes to them except their protest: “Has Allah sent a human as a messenger?”'
 word_by_word:
@@ -13,19 +13,19 @@ word_by_word:
     translation: prevented
     transliteration: manaʿa
   3:
-    arabic: النَّاسَ
+    arabic: ٱلنَّاسَ
     translation: the people
     transliteration: l-nāsa
   4:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that
     transliteration: an
   5:
-    arabic: يُّؤۡمِنُوۡۤا
+    arabic: يُؤۡمِنُوٓاْ
     translation: they believe
     transliteration: yu'minū
   6:
-    arabic: اِذۡ
+    arabic: إِذۡ
     translation: when
     transliteration: idh
   7:
@@ -33,35 +33,35 @@ word_by_word:
     translation: came to them
     transliteration: jāahumu
   8:
-    arabic: الۡهُدٰٓى
+    arabic: ٱلۡهُدَىٰٓ
     translation: the guidance
     transliteration: l-hudā
   9:
-    arabic: اِلَّاۤ
+    arabic: إِلَّآ
     translation: except
     transliteration: illā
   10:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that
     transliteration: an
   11:
-    arabic: قَالُـوۡۤا
+    arabic: قَالُوٓاْ
     translation: they said
     transliteration: qālū
   12:
-    arabic: اَبَعَثَ
+    arabic: أَبَعَثَ
     translation: Has Allah sent
     transliteration: abaʿatha
   13:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Has Allah sent
     transliteration: l-lahu
   14:
-    arabic: بَشَرًا
+    arabic: بَشَرٗا
     translation: a human
     transliteration: basharan
   15:
-    arabic: رَّسُوۡلًا‏
+    arabic: رَّسُولٗا
     translation: Messenger
     transliteration: rasūlan
 ---

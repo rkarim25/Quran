@@ -1,11 +1,10 @@
 ---
-arabic_ayat: اِنَّ رَبَّكَ يَقۡضِىۡ بَيۡنَهُمۡ بِحُكۡمِهٖ​ۚ وَهُوَ الۡعَزِيۡزُ الۡعَلِيۡمُ
-  ۙ​ۚ‏
+arabic_ayat: إِنَّ رَبَّكَ يَقۡضِي بَيۡنَهُم بِحُكۡمِهِۦۚ وَهُوَ ٱلۡعَزِيزُ ٱلۡعَلِيمُ
 sentence_translation: Your Lord will certainly judge between them by His justice,
   for He is the Almighty, All-Knowing.
 word_by_word:
   1:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   2:
@@ -13,15 +12,15 @@ word_by_word:
     translation: your Lord
     transliteration: rabbaka
   3:
-    arabic: يَقۡضِىۡ
+    arabic: يَقۡضِي
     translation: will judge
     transliteration: yaqḍī
   4:
-    arabic: بَيۡنَهُمۡ
+    arabic: بَيۡنَهُم
     translation: between them
     transliteration: baynahum
   5:
-    arabic: بِحُكۡمِهٖ​ۚ
+    arabic: بِحُكۡمِهِۦۚ
     translation: by His Judgment
     transliteration: biḥuk'mihi
   6:
@@ -29,11 +28,11 @@ word_by_word:
     translation: and He
     transliteration: wahuwa
   7:
-    arabic: الۡعَزِيۡزُ
+    arabic: ٱلۡعَزِيزُ
     translation: (is) the All-Mighty
     transliteration: l-ʿazīzu
   8:
-    arabic: الۡعَلِيۡمُ ۙ​ۚ‏
+    arabic: ٱلۡعَلِيمُ
     translation: the All-Knower
     transliteration: l-ʿalīmu
 ---

@@ -1,10 +1,10 @@
 ---
-arabic_ayat: كَانَ النَّاسُ اُمَّةً وَّاحِدَةً  فَبَعَثَ اللّٰهُ النَّبِيّٖنَ مُبَشِّرِيۡنَ
-  وَمُنۡذِرِيۡنَ وَاَنۡزَلَ مَعَهُمُ الۡكِتٰبَ بِالۡحَـقِّ لِيَحۡكُمَ بَيۡنَ النَّاسِ
-  فِيۡمَا اخۡتَلَفُوۡا فِيۡهِ ​ؕ وَمَا اخۡتَلَفَ فِيۡهِ اِلَّا الَّذِيۡنَ اُوۡتُوۡهُ
-  مِنۡۢ بَعۡدِ مَا جَآءَتۡهُمُ الۡبَيِّنٰتُ بَغۡيًا ۢ بَيۡنَهُمۡ​ۚ فَهَدَى اللّٰهُ
-  الَّذِيۡنَ اٰمَنُوۡا لِمَا اخۡتَلَفُوۡا فِيۡهِ مِنَ الۡحَـقِّ بِاِذۡنِهٖ​ ؕ وَاللّٰهُ
-  يَهۡدِىۡ مَنۡ يَّشَآءُ اِلٰى صِرَاطٍ مُّسۡتَقِيۡمٍ‏
+arabic_ayat: كَانَ ٱلنَّاسُ أُمَّةٗ وَٰحِدَةٗ فَبَعَثَ ٱللَّهُ ٱلنَّبِيِّـۧنَ مُبَشِّرِينَ
+  وَمُنذِرِينَ وَأَنزَلَ مَعَهُمُ ٱلۡكِتَٰبَ بِٱلۡحَقِّ لِيَحۡكُمَ بَيۡنَ ٱلنَّاسِ
+  فِيمَا ٱخۡتَلَفُواْ فِيهِۚ وَمَا ٱخۡتَلَفَ فِيهِ إِلَّا ٱلَّذِينَ أُوتُوهُ مِنۢ
+  بَعۡدِ مَا جَآءَتۡهُمُ ٱلۡبَيِّنَٰتُ بَغۡيَۢا بَيۡنَهُمۡۖ فَهَدَى ٱللَّهُ ٱلَّذِينَ
+  ءَامَنُواْ لِمَا ٱخۡتَلَفُواْ فِيهِ مِنَ ٱلۡحَقِّ بِإِذۡنِهِۦۗ وَٱللَّهُ يَهۡدِي
+  مَن يَشَآءُ إِلَىٰ صِرَٰطٖ مُّسۡتَقِيمٍ
 sentence_translation: Humanity had once been one community ˹of believers before they
   lost faith˺. Then Allah raised prophets as deliverers of good news and as warners,
   and revealed to them the Scriptures in truth to judge among people regarding their
@@ -18,15 +18,15 @@ word_by_word:
     translation: Was
     transliteration: kāna
   2:
-    arabic: النَّاسُ
+    arabic: ٱلنَّاسُ
     translation: mankind
     transliteration: l-nāsu
   3:
-    arabic: اُمَّةً
+    arabic: أُمَّةٗ
     translation: a community
     transliteration: ummatan
   4:
-    arabic: وَّاحِدَةً 
+    arabic: وَٰحِدَةٗ
     translation: single
     transliteration: wāḥidatan
   5:
@@ -34,23 +34,23 @@ word_by_word:
     translation: then raised up
     transliteration: fabaʿatha
   6:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   7:
-    arabic: النَّبِيّٖنَ
+    arabic: ٱلنَّبِيِّـۧنَ
     translation: '[the] Prophets'
     transliteration: l-nabiyīna
   8:
-    arabic: مُبَشِّرِيۡنَ
+    arabic: مُبَشِّرِينَ
     translation: (as) bearers of glad tidings
     transliteration: mubashirīna
   9:
-    arabic: وَمُنۡذِرِيۡنَ
+    arabic: وَمُنذِرِينَ
     translation: and (as) warners
     transliteration: wamundhirīna
   10:
-    arabic: وَاَنۡزَلَ
+    arabic: وَأَنزَلَ
     translation: and sent down
     transliteration: wa-anzala
   11:
@@ -58,11 +58,11 @@ word_by_word:
     translation: with them
     transliteration: maʿahumu
   12:
-    arabic: الۡكِتٰبَ
+    arabic: ٱلۡكِتَٰبَ
     translation: the Book
     transliteration: l-kitāba
   13:
-    arabic: بِالۡحَـقِّ
+    arabic: بِٱلۡحَقِّ
     translation: in [the] truth
     transliteration: bil-ḥaqi
   14:
@@ -74,19 +74,19 @@ word_by_word:
     translation: between
     transliteration: bayna
   16:
-    arabic: النَّاسِ
+    arabic: ٱلنَّاسِ
     translation: '[the] people'
     transliteration: l-nāsi
   17:
-    arabic: فِيۡمَا
+    arabic: فِيمَا
     translation: in what
     transliteration: fīmā
   18:
-    arabic: اخۡتَلَفُوۡا
+    arabic: ٱخۡتَلَفُواْ
     translation: they differed
     transliteration: ikh'talafū
   19:
-    arabic: فِيۡهِ ​ؕ
+    arabic: فِيهِۚ
     translation: '[in it]'
     transliteration: fīhi
   20:
@@ -94,27 +94,27 @@ word_by_word:
     translation: And (did) not
     transliteration: wamā
   21:
-    arabic: اخۡتَلَفَ
+    arabic: ٱخۡتَلَفَ
     translation: differ[ed]
     transliteration: ikh'talafa
   22:
-    arabic: فِيۡهِ
+    arabic: فِيهِ
     translation: in it
     transliteration: fīhi
   23:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   24:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   25:
-    arabic: اُوۡتُوۡهُ
+    arabic: أُوتُوهُ
     translation: were given it
     transliteration: ūtūhu
   26:
-    arabic: مِنۡۢ
+    arabic: مِنۢ
     translation: from
     transliteration: min
   27:
@@ -130,15 +130,15 @@ word_by_word:
     translation: came to them
     transliteration: jāathumu
   30:
-    arabic: الۡبَيِّنٰتُ
+    arabic: ٱلۡبَيِّنَٰتُ
     translation: the clear proofs
     transliteration: l-bayinātu
   31:
-    arabic: بَغۡيًا ۢ
+    arabic: بَغۡيَۢا
     translation: (out of) jealousy
     transliteration: baghyan
   32:
-    arabic: بَيۡنَهُمۡ​ۚ
+    arabic: بَيۡنَهُمۡۖ
     translation: among themselves
     transliteration: baynahum
   33:
@@ -146,15 +146,15 @@ word_by_word:
     translation: And guided
     transliteration: fahadā
   34:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   35:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ ءَ
     translation: those who
     transliteration: alladhīna
   36:
-    arabic: اٰمَنُوۡا
+    arabic: امَنُواْ
     translation: believe[d]
     transliteration: āmanū
   37:
@@ -162,11 +162,11 @@ word_by_word:
     translation: regarding what
     transliteration: limā
   38:
-    arabic: اخۡتَلَفُوۡا
+    arabic: ٱخۡتَلَفُواْ
     translation: they differed
     transliteration: ikh'talafū
   39:
-    arabic: فِيۡهِ
+    arabic: فِيهِ
     translation: '[in it]'
     transliteration: fīhi
   40:
@@ -174,39 +174,39 @@ word_by_word:
     translation: of
     transliteration: mina
   41:
-    arabic: الۡحَـقِّ
+    arabic: ٱلۡحَقِّ
     translation: the Truth
     transliteration: l-ḥaqi
   42:
-    arabic: بِاِذۡنِهٖ​ ؕ
+    arabic: بِإِذۡنِهِۦۗ
     translation: with His permission
     transliteration: bi-idh'nihi
   43:
-    arabic: وَاللّٰهُ
+    arabic: وَٱللَّهُ
     translation: And Allah
     transliteration: wal-lahu
   44:
-    arabic: يَهۡدِىۡ
+    arabic: يَهۡدِي
     translation: guides
     transliteration: yahdī
   45:
-    arabic: مَنۡ
+    arabic: مَن
     translation: whom
     transliteration: man
   46:
-    arabic: يَّشَآءُ
+    arabic: يَشَآءُ
     translation: He wills
     transliteration: yashāu
   47:
-    arabic: اِلٰى
+    arabic: إِلَىٰ
     translation: to
     transliteration: ilā
   48:
-    arabic: صِرَاطٍ
+    arabic: صِرَٰطٖ
     translation: a path
     transliteration: ṣirāṭin
   49:
-    arabic: مُّسۡتَقِيۡمٍ‏
+    arabic: مُّسۡتَقِيمٍ
     translation: straight
     transliteration: mus'taqīmin
 ---

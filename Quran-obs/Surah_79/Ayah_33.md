@@ -1,17 +1,17 @@
 ---
-arabic_ayat: مَتَاعًا لَّـكُمۡ وَلِاَنۡعَامِكُمۡؕ‏
+arabic_ayat: مَتَٰعٗا لَّكُمۡ وَلِأَنۡعَٰمِكُمۡ
 sentence_translation: all as ˹a means of˺ sustenance for you and your animals.
 word_by_word:
   1:
-    arabic: مَتَاعًا
+    arabic: مَتَٰعٗا
     translation: (As) a provision
     transliteration: matāʿan
   2:
-    arabic: لَّـكُمۡ
+    arabic: لَّكُمۡ
     translation: for you
     transliteration: lakum
   3:
-    arabic: وَلِاَنۡعَامِكُمۡؕ‏
+    arabic: وَلِأَنۡعَٰمِكُمۡ
     translation: and for your cattle
     transliteration: wali-anʿāmikum
 ---

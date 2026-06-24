@@ -1,11 +1,11 @@
 ---
-arabic_ayat: قَالُوۡا لَقَدۡ عَلِمۡتَ مَا لَـنَا فِىۡ بَنٰتِكَ مِنۡ حَقٍّ​ ۚ وَاِنَّكَ
-  لَـتَعۡلَمُ مَا نُرِيۡدُ‏
+arabic_ayat: قَالُواْ لَقَدۡ عَلِمۡتَ مَا لَنَا فِي بَنَاتِكَ مِنۡ حَقّٖ وَإِنَّكَ
+  لَتَعۡلَمُ مَا نُرِيدُ
 sentence_translation: They argued, “You certainly know that we have no need for your
   daughters. You already know what we desire!”
 word_by_word:
   1:
-    arabic: قَالُوۡا
+    arabic: قَالُواْ
     translation: They said
     transliteration: qālū
   2:
@@ -21,15 +21,15 @@ word_by_word:
     translation: (that) not
     transliteration: mā
   5:
-    arabic: لَـنَا
+    arabic: لَنَا
     translation: we have
     transliteration: lanā
   6:
-    arabic: فِىۡ
+    arabic: فِي
     translation: concerning
     transliteration: fī
   7:
-    arabic: بَنٰتِكَ
+    arabic: بَنَاتِكَ
     translation: your daughters
     transliteration: banātika
   8:
@@ -37,15 +37,15 @@ word_by_word:
     translation: any
     transliteration: min
   9:
-    arabic: حَقٍّ​ ۚ
+    arabic: حَقّٖ
     translation: right
     transliteration: ḥaqqin
   10:
-    arabic: وَاِنَّكَ
+    arabic: وَإِنَّكَ
     translation: And indeed, you
     transliteration: wa-innaka
   11:
-    arabic: لَـتَعۡلَمُ
+    arabic: لَتَعۡلَمُ
     translation: surely know
     transliteration: lataʿlamu
   12:
@@ -53,7 +53,7 @@ word_by_word:
     translation: what
     transliteration: mā
   13:
-    arabic: نُرِيۡدُ‏
+    arabic: نُرِيدُ
     translation: we want
     transliteration: nurīdu
 ---

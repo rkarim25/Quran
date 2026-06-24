@@ -1,26 +1,26 @@
 ---
-arabic_ayat: فَلَمَّا قَضٰى مُوۡسَى الۡاَجَلَ وَسَارَ بِاَهۡلِهٖۤ اٰنَسَ مِنۡ جَانِبِ
-  الطُّوۡرِ نَارًا​ۚ قَالَ لِاَهۡلِهِ امۡكُثُوۡۤا اِنِّىۡۤ اٰنَسۡتُ نَارًا​ لَّعَلِّىۡۤ
-  اٰتِيۡكُمۡ مِّنۡهَا بِخَبَرٍ اَوۡ جَذۡوَةٍ مِّنَ النَّارِ لَعَلَّكُمۡ تَصۡطَلُوۡنَ‏
+arabic_ayat: ۞ فَلَمَّا قَضَىٰ مُوسَى ٱلۡأَجَلَ وَسَارَ بِأَهۡلِهِۦٓ ءَانَسَ مِن جَانِبِ
+  ٱلطُّورِ نَارٗاۖ قَالَ لِأَهۡلِهِ ٱمۡكُثُوٓاْ إِنِّيٓ ءَانَسۡتُ نَارٗا لَّعَلِّيٓ
+  ءَاتِيكُم مِّنۡهَا بِخَبَرٍ أَوۡ جَذۡوَةٖ مِّنَ ٱلنَّارِ لَعَلَّكُمۡ تَصۡطَلُونَ
 sentence_translation: When Moses had completed the term and was travelling with his
   family, he spotted a fire on the side of Mount Ṭûr. He said to his family, “Stay
   here, ˹for˺ I have spotted a fire. Perhaps from there I can bring you some directions or
   a torch from the fire so you may warm yourselves.”
 word_by_word:
   1:
-    arabic: ۞ فَلَمَّا
+    arabic: ۞ فَلَمَّا
     translation: Then when
     transliteration: falammā
   2:
-    arabic: قَضٰى
+    arabic: قَضَىٰ
     translation: Musa fulfilled
     transliteration: qaḍā
   3:
-    arabic: مُوۡسَى
+    arabic: مُوسَى
     translation: Musa fulfilled
     transliteration: mūsā
   4:
-    arabic: الۡاَجَلَ
+    arabic: ٱلۡأَجَلَ
     translation: the term
     transliteration: l-ajala
   5:
@@ -28,15 +28,15 @@ word_by_word:
     translation: and was traveling
     transliteration: wasāra
   6:
-    arabic: بِاَهۡلِهٖۤ
+    arabic: بِأَهۡلِهِۦٓ ءَ
     translation: with his family
     transliteration: bi-ahlihi
   7:
-    arabic: اٰنَسَ
+    arabic: انَسَ
     translation: he saw
     transliteration: ānasa
   8:
-    arabic: مِنۡ
+    arabic: مِن
     translation: in
     transliteration: min
   9:
@@ -44,11 +44,11 @@ word_by_word:
     translation: (the) direction
     transliteration: jānibi
   10:
-    arabic: الطُّوۡرِ
+    arabic: ٱلطُّورِ
     translation: (of) Mount Tur
     transliteration: l-ṭūri
   11:
-    arabic: نَارًا​ۚ
+    arabic: نَارٗاۖ
     translation: a fire
     transliteration: nāran
   12:
@@ -56,31 +56,31 @@ word_by_word:
     translation: He said
     transliteration: qāla
   13:
-    arabic: لِاَهۡلِهِ
+    arabic: لِأَهۡلِهِ
     translation: to his family
     transliteration: li-ahlihi
   14:
-    arabic: امۡكُثُوۡۤا
+    arabic: ٱمۡكُثُوٓاْ
     translation: Stay here
     transliteration: um'kuthū
   15:
-    arabic: اِنِّىۡۤ
+    arabic: إِنِّيٓ ءَ
     translation: indeed, I
     transliteration: innī
   16:
-    arabic: اٰنَسۡتُ
+    arabic: انَسۡتُ
     translation: '[I] perceive'
     transliteration: ānastu
   17:
-    arabic: نَارًا​
+    arabic: نَارٗا
     translation: a fire
     transliteration: nāran
   18:
-    arabic: لَّعَلِّىۡۤ
+    arabic: لَّعَلِّيٓ ءَ
     translation: Perhaps
     transliteration: laʿallī
   19:
-    arabic: اٰتِيۡكُمۡ
+    arabic: اتِيكُم
     translation: I will bring you
     transliteration: ātīkum
   20:
@@ -92,11 +92,11 @@ word_by_word:
     translation: some information
     transliteration: bikhabarin
   22:
-    arabic: اَوۡ
+    arabic: أَوۡ
     translation: or
     transliteration: aw
   23:
-    arabic: جَذۡوَةٍ
+    arabic: جَذۡوَةٖ
     translation: a burning wood
     transliteration: jadhwatin
   24:
@@ -104,7 +104,7 @@ word_by_word:
     translation: from
     transliteration: mina
   25:
-    arabic: النَّارِ
+    arabic: ٱلنَّارِ
     translation: the fire
     transliteration: l-nāri
   26:
@@ -112,7 +112,7 @@ word_by_word:
     translation: so that you may
     transliteration: laʿallakum
   27:
-    arabic: تَصۡطَلُوۡنَ‏
+    arabic: تَصۡطَلُونَ
     translation: warm yourselves
     transliteration: taṣṭalūna
 ---

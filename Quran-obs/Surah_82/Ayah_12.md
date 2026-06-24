@@ -1,9 +1,9 @@
 ---
-arabic_ayat: يَعۡلَمُوۡنَ مَا تَفۡعَلُوۡنَ‏
+arabic_ayat: يَعۡلَمُونَ مَا تَفۡعَلُونَ
 sentence_translation: They know whatever you do.
 word_by_word:
   1:
-    arabic: يَعۡلَمُوۡنَ
+    arabic: يَعۡلَمُونَ
     translation: They know
     transliteration: yaʿlamūna
   2:
@@ -11,7 +11,7 @@ word_by_word:
     translation: whatever
     transliteration: mā
   3:
-    arabic: تَفۡعَلُوۡنَ‏
+    arabic: تَفۡعَلُونَ
     translation: you do
     transliteration: tafʿalūna
 ---

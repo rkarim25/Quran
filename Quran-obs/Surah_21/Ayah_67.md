@@ -1,15 +1,14 @@
 ---
-arabic_ayat: "اُفٍّ لَّـكُمۡ وَلِمَا تَعۡبُدُوۡنَ مِنۡ دُوۡنِ اللّٰهِ​ؕ اَفَلَا تَعۡقِلُوۡنَ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: أُفّٖ لَّكُمۡ وَلِمَا تَعۡبُدُونَ مِن دُونِ ٱللَّهِۚ أَفَلَا تَعۡقِلُونَ
 sentence_translation: Shame on you and whatever you worship instead of Allah! Do you
   not have any sense?”
 word_by_word:
   1:
-    arabic: اُفٍّ
+    arabic: أُفّٖ
     translation: Uff
     transliteration: uffin
   2:
-    arabic: لَّـكُمۡ
+    arabic: لَّكُمۡ
     translation: to you
     transliteration: lakum
   3:
@@ -17,27 +16,27 @@ word_by_word:
     translation: and to what
     transliteration: walimā
   4:
-    arabic: تَعۡبُدُوۡنَ
+    arabic: تَعۡبُدُونَ
     translation: you worship
     transliteration: taʿbudūna
   5:
-    arabic: مِنۡ
+    arabic: مِن
     translation: besides
     transliteration: min
   6:
-    arabic: دُوۡنِ
+    arabic: دُونِ
     translation: besides
     transliteration: dūni
   7:
-    arabic: اللّٰهِ​ؕ
+    arabic: ٱللَّهِۚ
     translation: Allah
     transliteration: l-lahi
   8:
-    arabic: اَفَلَا
+    arabic: أَفَلَا
     translation: Then will not
     transliteration: afalā
   9:
-    arabic: "تَعۡقِلُوۡنَ‏ \uFEFF\uFEFF"
+    arabic: تَعۡقِلُونَ
     translation: you use reason
     transliteration: taʿqilūna
 ---

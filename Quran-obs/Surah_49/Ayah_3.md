@@ -1,77 +1,77 @@
 ---
-arabic_ayat: اِنَّ الَّذِيۡنَ يَغُضُّوۡنَ اَصۡوَاتَهُمۡ عِنۡدَ رَسُوۡلِ اللّٰهِ اُولٰٓٮِٕكَ
-  الَّذِيۡنَ امۡتَحَنَ اللّٰهُ قُلُوۡبَهُمۡ لِلتَّقۡوٰى​ؕ لَهُمۡ مَّغۡفِرَةٌ وَّاَجۡرٌ
-  عَظِيۡمٌ‏
+arabic_ayat: إِنَّ ٱلَّذِينَ يَغُضُّونَ أَصۡوَٰتَهُمۡ عِندَ رَسُولِ ٱللَّهِ أُوْلَٰٓئِكَ
+  ٱلَّذِينَ ٱمۡتَحَنَ ٱللَّهُ قُلُوبَهُمۡ لِلتَّقۡوَىٰۚ لَهُم مَّغۡفِرَةٞ وَأَجۡرٌ
+  عَظِيمٌ
 sentence_translation: Indeed, those who lower their voices in the presence of Allah’s
   Messenger are the ones whose hearts Allah has refined for righteousness. They will
   have forgiveness and a great reward.
 word_by_word:
   1:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   3:
-    arabic: يَغُضُّوۡنَ
+    arabic: يَغُضُّونَ
     translation: lower
     transliteration: yaghuḍḍūna
   4:
-    arabic: اَصۡوَاتَهُمۡ
+    arabic: أَصۡوَٰتَهُمۡ
     translation: their voices
     transliteration: aṣwātahum
   5:
-    arabic: عِنۡدَ
+    arabic: عِندَ
     translation: (in) presence
     transliteration: ʿinda
   6:
-    arabic: رَسُوۡلِ
+    arabic: رَسُولِ
     translation: '(of the) Messenger of Allah '
     transliteration: rasūli
   7:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: '(of the) Messenger of Allah '
     transliteration: l-lahi
   8:
-    arabic: اُولٰٓٮِٕكَ
+    arabic: أُوْلَٰٓئِكَ
     translation: those
     transliteration: ulāika
   9:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: (are) the ones
     transliteration: alladhīna
   10:
-    arabic: امۡتَحَنَ
+    arabic: ٱمۡتَحَنَ
     translation: Allah has tested
     transliteration: im'taḥana
   11:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah has tested
     transliteration: l-lahu
   12:
-    arabic: قُلُوۡبَهُمۡ
+    arabic: قُلُوبَهُمۡ
     translation: their hearts
     transliteration: qulūbahum
   13:
-    arabic: لِلتَّقۡوٰى​ؕ
+    arabic: لِلتَّقۡوَىٰۚ
     translation: for righteousness
     transliteration: lilttaqwā
   14:
-    arabic: لَهُمۡ
+    arabic: لَهُم
     translation: For them
     transliteration: lahum
   15:
-    arabic: مَّغۡفِرَةٌ
+    arabic: مَّغۡفِرَةٞ
     translation: (is) forgiveness
     transliteration: maghfiratun
   16:
-    arabic: وَّاَجۡرٌ
+    arabic: وَأَجۡرٌ
     translation: and a reward
     transliteration: wa-ajrun
   17:
-    arabic: عَظِيۡمٌ‏
+    arabic: عَظِيمٌ
     translation: great
     transliteration: ʿaẓīmun
 ---

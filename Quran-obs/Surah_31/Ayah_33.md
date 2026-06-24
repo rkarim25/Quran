@@ -1,23 +1,23 @@
 ---
-arabic_ayat: يٰۤاَيُّهَا النَّاسُ اتَّقُوۡا رَبَّكُمۡ وَاخۡشَوۡا يَوۡمًا لَّا يَجۡزِىۡ
-  وَالِدٌ عَنۡ وَّلَدِهٖ وَلَا مَوۡلُوۡدٌ هُوَ جَازٍ عَنۡ وَّالِدِهٖ شَيۡـــًٔا​
-  ؕ اِنَّ وَعۡدَ اللّٰهِ حَقٌّ​ فَلَا تَغُرَّنَّكُمُ الۡحَيٰوةُ الدُّنۡيَا وَلَا
-  يَغُرَّنَّكُمۡ بِاللّٰهِ الۡغَرُوۡرُ‏
+arabic_ayat: يَٰٓأَيُّهَا ٱلنَّاسُ ٱتَّقُواْ رَبَّكُمۡ وَٱخۡشَوۡاْ يَوۡمٗا لَّا يَجۡزِي
+  وَالِدٌ عَن وَلَدِهِۦ وَلَا مَوۡلُودٌ هُوَ جَازٍ عَن وَالِدِهِۦ شَيۡـًٔاۚ إِنَّ
+  وَعۡدَ ٱللَّهِ حَقّٞۖ فَلَا تَغُرَّنَّكُمُ ٱلۡحَيَوٰةُ ٱلدُّنۡيَا وَلَا يَغُرَّنَّكُم
+  بِٱللَّهِ ٱلۡغَرُورُ
 sentence_translation: O humanity! Be mindful of your Lord, and beware of a Day when
   no parent will be of any benefit to their child, nor will a child be of any benefit
   to their parent. Surely Allah’s promise is true. So do not let the life of this
   world deceive you, nor let the Chief Deceiver deceive you about Allah.
 word_by_word:
   1:
-    arabic: يٰۤاَيُّهَا
+    arabic: يَٰٓأَيُّهَا
     translation: O
     transliteration: yāayyuhā
   2:
-    arabic: النَّاسُ
+    arabic: ٱلنَّاسُ
     translation: mankind
     transliteration: l-nāsu
   3:
-    arabic: اتَّقُوۡا
+    arabic: ٱتَّقُواْ
     translation: Fear
     transliteration: ittaqū
   4:
@@ -25,11 +25,11 @@ word_by_word:
     translation: your Lord
     transliteration: rabbakum
   5:
-    arabic: وَاخۡشَوۡا
+    arabic: وَٱخۡشَوۡاْ
     translation: and fear
     transliteration: wa-ikh'shaw
   6:
-    arabic: يَوۡمًا
+    arabic: يَوۡمٗا
     translation: a Day
     transliteration: yawman
   7:
@@ -37,7 +37,7 @@ word_by_word:
     translation: not
     transliteration: lā
   8:
-    arabic: يَجۡزِىۡ
+    arabic: يَجۡزِي
     translation: can avail
     transliteration: yajzī
   9:
@@ -45,11 +45,11 @@ word_by_word:
     translation: a father
     transliteration: wālidun
   10:
-    arabic: عَنۡ
+    arabic: عَن
     translation: '[for]'
     transliteration: ʿan
   11:
-    arabic: وَّلَدِهٖ
+    arabic: وَلَدِهِۦ
     translation: his son
     transliteration: waladihi
   12:
@@ -57,7 +57,7 @@ word_by_word:
     translation: and not
     transliteration: walā
   13:
-    arabic: مَوۡلُوۡدٌ
+    arabic: مَوۡلُودٌ
     translation: a son
     transliteration: mawlūdun
   14:
@@ -69,19 +69,19 @@ word_by_word:
     translation: (can) avail
     transliteration: jāzin
   16:
-    arabic: عَنۡ
+    arabic: عَن
     translation: '[for]'
     transliteration: ʿan
   17:
-    arabic: وَّالِدِهٖ
+    arabic: وَالِدِهِۦ
     translation: his father
     transliteration: wālidihi
   18:
-    arabic: شَيۡـــًٔا​ ؕ
+    arabic: شَيۡـًٔاۚ
     translation: anything
     transliteration: shayan
   19:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   20:
@@ -89,11 +89,11 @@ word_by_word:
     translation: (the) Promise
     transliteration: waʿda
   21:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (of) Allah
     transliteration: l-lahi
   22:
-    arabic: حَقٌّ​
+    arabic: حَقّٞۖ
     translation: (is) True
     transliteration: ḥaqqun
   23:
@@ -105,11 +105,11 @@ word_by_word:
     translation: so let not deceive you
     transliteration: taghurrannakumu
   25:
-    arabic: الۡحَيٰوةُ
+    arabic: ٱلۡحَيَوٰةُ
     translation: the life
     transliteration: l-ḥayatu
   26:
-    arabic: الدُّنۡيَا
+    arabic: ٱلدُّنۡيَا
     translation: (of) the world
     transliteration: l-dun'yā
   27:
@@ -117,15 +117,15 @@ word_by_word:
     translation: and let not deceive you
     transliteration: walā
   28:
-    arabic: يَغُرَّنَّكُمۡ
+    arabic: يَغُرَّنَّكُم
     translation: and let not deceive you
     transliteration: yaghurrannakum
   29:
-    arabic: بِاللّٰهِ
+    arabic: بِٱللَّهِ
     translation: about Allah
     transliteration: bil-lahi
   30:
-    arabic: الۡغَرُوۡرُ‏
+    arabic: ٱلۡغَرُورُ
     translation: the deceiver
     transliteration: l-gharūru
 ---

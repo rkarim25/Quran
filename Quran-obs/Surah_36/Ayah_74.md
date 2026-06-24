@@ -1,26 +1,26 @@
 ---
-arabic_ayat: وَاتَّخَذُوۡا مِنۡ دُوۡنِ اللّٰهِ اٰلِهَةً لَّعَلَّهُمۡ يُنۡصَرُوۡنَؕ‏
+arabic_ayat: وَٱتَّخَذُواْ مِن دُونِ ٱللَّهِ ءَالِهَةٗ لَّعَلَّهُمۡ يُنصَرُونَ
 sentence_translation: Still they have taken other gods besides Allah, hoping to be
   helped ˹by them˺.
 word_by_word:
   1:
-    arabic: وَاتَّخَذُوۡا
+    arabic: وَٱتَّخَذُواْ
     translation: But they have taken
     transliteration: wa-ittakhadhū
   2:
-    arabic: مِنۡ
+    arabic: مِن
     translation: besides
     transliteration: min
   3:
-    arabic: دُوۡنِ
+    arabic: دُونِ
     translation: besides
     transliteration: dūni
   4:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ ءَ
     translation: Allah
     transliteration: l-lahi
   5:
-    arabic: اٰلِهَةً
+    arabic: الِهَةٗ
     translation: gods
     transliteration: ālihatan
   6:
@@ -28,7 +28,7 @@ word_by_word:
     translation: that they may
     transliteration: laʿallahum
   7:
-    arabic: يُنۡصَرُوۡنَؕ‏
+    arabic: يُنصَرُونَ
     translation: be helped
     transliteration: yunṣarūna
 ---

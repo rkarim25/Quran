@@ -1,5 +1,5 @@
 ---
-arabic_ayat: نُسَارِعُ لَهُمۡ فِى الۡخَيۡـرٰتِ​ ؕ بَلْ لَّا يَشۡعُرُوۡنَ‏
+arabic_ayat: نُسَارِعُ لَهُمۡ فِي ٱلۡخَيۡرَٰتِۚ بَل لَّا يَشۡعُرُونَ
 sentence_translation: that We hasten to ˹honour˺ them ˹with˺ all kinds of good? No!
   They are not aware.
 word_by_word:
@@ -12,15 +12,15 @@ word_by_word:
     translation: to them
     transliteration: lahum
   3:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   4:
-    arabic: الۡخَيۡـرٰتِ​ ؕ
+    arabic: ٱلۡخَيۡرَٰتِۚ
     translation: the good
     transliteration: l-khayrāti
   5:
-    arabic: بَلْ
+    arabic: بَل
     translation: Nay
     transliteration: bal
   6:
@@ -28,7 +28,7 @@ word_by_word:
     translation: not
     transliteration: lā
   7:
-    arabic: يَشۡعُرُوۡنَ‏
+    arabic: يَشۡعُرُونَ
     translation: they perceive
     transliteration: yashʿurūna
 ---

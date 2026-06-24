@@ -1,19 +1,18 @@
 ---
-arabic_ayat: "اَللّٰهُ يَـبۡدَؤُا الۡخَلۡقَ ثُمَّ يُعِيۡدُهٗ ثُمَّ اِلَيۡهِ تُرۡجَعُوۡنَ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: ٱللَّهُ يَبۡدَؤُاْ ٱلۡخَلۡقَ ثُمَّ يُعِيدُهُۥ ثُمَّ إِلَيۡهِ تُرۡجَعُونَ
 sentence_translation: It is Allah Who originates the creation, and will resurrect
   it. And then to Him you will ˹all˺ be returned.
 word_by_word:
   1:
-    arabic: اَللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: al-lahu
   2:
-    arabic: يَـبۡدَؤُا
+    arabic: يَبۡدَؤُاْ
     translation: originates
     transliteration: yabda-u
   3:
-    arabic: الۡخَلۡقَ
+    arabic: ٱلۡخَلۡقَ
     translation: the creation
     transliteration: l-khalqa
   4:
@@ -21,7 +20,7 @@ word_by_word:
     translation: then
     transliteration: thumma
   5:
-    arabic: يُعِيۡدُهٗ
+    arabic: يُعِيدُهُۥ
     translation: He repeats it
     transliteration: yuʿīduhu
   6:
@@ -29,11 +28,11 @@ word_by_word:
     translation: then
     transliteration: thumma
   7:
-    arabic: اِلَيۡهِ
+    arabic: إِلَيۡهِ
     translation: to Him
     transliteration: ilayhi
   8:
-    arabic: "تُرۡجَعُوۡنَ‏ \uFEFF\uFEFF"
+    arabic: تُرۡجَعُونَ
     translation: you will be returned
     transliteration: tur'jaʿūna
 ---

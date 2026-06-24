@@ -1,5 +1,5 @@
 ---
-arabic_ayat: لِنُرِيَكَ مِنۡ اٰيٰتِنَا الۡـكُبۡـرٰى​ۚ‏
+arabic_ayat: لِنُرِيَكَ مِنۡ ءَايَٰتِنَا ٱلۡكُبۡرَى
 sentence_translation: so that We may show you some of Our greatest signs.
 word_by_word:
   1:
@@ -7,15 +7,15 @@ word_by_word:
     translation: That We may show you
     transliteration: linuriyaka
   2:
-    arabic: مِنۡ
+    arabic: مِنۡ ءَ
     translation: of
     transliteration: min
   3:
-    arabic: اٰيٰتِنَا
+    arabic: ايَٰتِنَا
     translation: Our Signs
     transliteration: āyātinā
   4:
-    arabic: الۡـكُبۡـرٰى​ۚ‏
+    arabic: ٱلۡكُبۡرَى
     translation: the Greatest
     transliteration: l-kub'rā
 ---

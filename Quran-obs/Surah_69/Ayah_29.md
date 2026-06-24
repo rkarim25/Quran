@@ -1,5 +1,5 @@
 ---
-arabic_ayat: هَلَكَ عَنِّىۡ سُلۡطٰنِيَهۡ​ۚ‏
+arabic_ayat: هَلَكَ عَنِّي سُلۡطَٰنِيَهۡ
 sentence_translation: My authority has been stripped from me.”
 word_by_word:
   1:
@@ -7,11 +7,11 @@ word_by_word:
     translation: Is gone
     transliteration: halaka
   2:
-    arabic: عَنِّىۡ
+    arabic: عَنِّي
     translation: from me
     transliteration: ʿannī
   3:
-    arabic: سُلۡطٰنِيَهۡ​ۚ‏
+    arabic: سُلۡطَٰنِيَهۡ
     translation: my authority
     transliteration: sul'ṭāniyah
 ---

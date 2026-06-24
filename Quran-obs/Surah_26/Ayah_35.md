@@ -1,19 +1,18 @@
 ---
-arabic_ayat: "يُّرِيۡدُ اَنۡ يُّخۡرِجَكُمۡ مِّنۡ اَرۡضِكُمۡ بِسِحۡرِهٖ ​ۖ  فَمَاذَا\
-  \ تَاۡمُرُوۡنَ​‏ \uFEFF\uFEFF"
+arabic_ayat: يُرِيدُ أَن يُخۡرِجَكُم مِّنۡ أَرۡضِكُم بِسِحۡرِهِۦ فَمَاذَا تَأۡمُرُونَ
 sentence_translation: who seeks to drive you from your land by his magic. So what
   do you propose?”
 word_by_word:
   1:
-    arabic: يُّرِيۡدُ
+    arabic: يُرِيدُ
     translation: He wants
     transliteration: yurīdu
   2:
-    arabic: اَنۡ
+    arabic: أَن
     translation: to
     transliteration: an
   3:
-    arabic: يُّخۡرِجَكُمۡ
+    arabic: يُخۡرِجَكُم
     translation: drive you out
     transliteration: yukh'rijakum
   4:
@@ -21,11 +20,11 @@ word_by_word:
     translation: from
     transliteration: min
   5:
-    arabic: اَرۡضِكُمۡ
+    arabic: أَرۡضِكُم
     translation: your land
     transliteration: arḍikum
   6:
-    arabic: بِسِحۡرِهٖ ​ۖ 
+    arabic: بِسِحۡرِهِۦ
     translation: by his magic
     transliteration: bisiḥ'rihi
   7:
@@ -33,7 +32,7 @@ word_by_word:
     translation: so what
     transliteration: famādhā
   8:
-    arabic: "تَاۡمُرُوۡنَ​‏ \uFEFF\uFEFF"
+    arabic: تَأۡمُرُونَ
     translation: (do) you advise
     transliteration: tamurūna
 ---

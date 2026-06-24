@@ -1,25 +1,25 @@
 ---
-arabic_ayat: وَانْشَقَّتِ السَّمَآءُ فَهِىَ يَوۡمَٮِٕذٍ وَّاهِيَةٌ ۙ‏
+arabic_ayat: وَٱنشَقَّتِ ٱلسَّمَآءُ فَهِيَ يَوۡمَئِذٖ وَاهِيَةٞ
 sentence_translation: The sky will then be so torn that it will be frail,
 word_by_word:
   1:
-    arabic: وَانْشَقَّتِ
+    arabic: وَٱنشَقَّتِ
     translation: And will split
     transliteration: wa-inshaqqati
   2:
-    arabic: السَّمَآءُ
+    arabic: ٱلسَّمَآءُ
     translation: the heaven
     transliteration: l-samāu
   3:
-    arabic: فَهِىَ
+    arabic: فَهِيَ
     translation: so it
     transliteration: fahiya
   4:
-    arabic: يَوۡمَٮِٕذٍ
+    arabic: يَوۡمَئِذٖ
     translation: (is on) that Day
     transliteration: yawma-idhin
   5:
-    arabic: وَّاهِيَةٌ ۙ‏
+    arabic: وَاهِيَةٞ
     translation: frail
     transliteration: wāhiyatun
 ---

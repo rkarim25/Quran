@@ -1,5 +1,5 @@
 ---
-arabic_ayat: طَعَامُ الۡاَثِيۡمِ ۛۚ   ۖ‏
+arabic_ayat: طَعَامُ ٱلۡأَثِيمِ
 sentence_translation: will be the food of the evildoer.
 word_by_word:
   1:
@@ -7,7 +7,7 @@ word_by_word:
     translation: (Will be) food
     transliteration: ṭaʿāmu
   2:
-    arabic: الۡاَثِيۡمِ ۛۚ   ۖ‏
+    arabic: ٱلۡأَثِيمِ
     translation: (of) the sinner(s)
     transliteration: l-athīmi
 ---

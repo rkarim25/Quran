@@ -1,25 +1,25 @@
 ---
-arabic_ayat: يَّلۡبَسُوۡنَ مِنۡ سُنۡدُسٍ وَّاِسۡتَبۡرَقٍ مُّتَقٰبِلِيۡنَۚ ۙ‏
+arabic_ayat: يَلۡبَسُونَ مِن سُندُسٖ وَإِسۡتَبۡرَقٖ مُّتَقَٰبِلِينَ
 sentence_translation: dressed in fine silk and rich brocade, facing one another.
 word_by_word:
   1:
-    arabic: يَّلۡبَسُوۡنَ
+    arabic: يَلۡبَسُونَ
     translation: Wearing garments
     transliteration: yalbasūna
   2:
-    arabic: مِنۡ
+    arabic: مِن
     translation: of
     transliteration: min
   3:
-    arabic: سُنۡدُسٍ
+    arabic: سُندُسٖ
     translation: fine silk
     transliteration: sundusin
   4:
-    arabic: وَّاِسۡتَبۡرَقٍ
+    arabic: وَإِسۡتَبۡرَقٖ
     translation: and heavy silk
     transliteration: wa-is'tabraqin
   5:
-    arabic: مُّتَقٰبِلِيۡنَۚ ۙ‏
+    arabic: مُّتَقَٰبِلِينَ
     translation: facing each other
     transliteration: mutaqābilīna
 ---

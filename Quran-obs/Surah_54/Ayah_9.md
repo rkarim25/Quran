@@ -1,11 +1,11 @@
 ---
-arabic_ayat: كَذَّبَتۡ قَبۡلَهُمۡ قَوۡمُ نُوۡحٍ فَكَذَّبُوۡا عَبۡدَنَا وَقَالُوۡا
-  مَجۡنُوۡنٌ وَّازۡدُجِرَ‏
+arabic_ayat: ۞ كَذَّبَتۡ قَبۡلَهُمۡ قَوۡمُ نُوحٖ فَكَذَّبُواْ عَبۡدَنَا وَقَالُواْ
+  مَجۡنُونٞ وَٱزۡدُجِرَ
 sentence_translation: Before them, the people of Noah denied ˹the truth˺ and rejected
   Our servant, calling ˹him˺ insane. And he was intimidated.
 word_by_word:
   1:
-    arabic: ۞ كَذَّبَتۡ
+    arabic: ۞ كَذَّبَتۡ
     translation: Denied
     transliteration: kadhabat
   2:
@@ -17,11 +17,11 @@ word_by_word:
     translation: (the) people
     transliteration: qawmu
   4:
-    arabic: نُوۡحٍ
+    arabic: نُوحٖ
     translation: (of) Nuh
     transliteration: nūḥin
   5:
-    arabic: فَكَذَّبُوۡا
+    arabic: فَكَذَّبُواْ
     translation: and they denied
     transliteration: fakadhabū
   6:
@@ -29,15 +29,15 @@ word_by_word:
     translation: Our slave
     transliteration: ʿabdanā
   7:
-    arabic: وَقَالُوۡا
+    arabic: وَقَالُواْ
     translation: and said
     transliteration: waqālū
   8:
-    arabic: مَجۡنُوۡنٌ
+    arabic: مَجۡنُونٞ
     translation: A madman
     transliteration: majnūnun
   9:
-    arabic: وَّازۡدُجِرَ‏
+    arabic: وَٱزۡدُجِرَ
     translation: and he was repelled
     transliteration: wa-uz'dujira
 ---

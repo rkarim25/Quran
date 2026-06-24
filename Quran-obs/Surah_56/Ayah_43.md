@@ -1,17 +1,17 @@
 ---
-arabic_ayat: وَّظِلٍّ مِّنۡ يَّحۡمُوۡمٍۙ‏
+arabic_ayat: وَظِلّٖ مِّن يَحۡمُومٖ
 sentence_translation: in the shade of black smoke,
 word_by_word:
   1:
-    arabic: وَّظِلٍّ
+    arabic: وَظِلّٖ
     translation: And a shade
     transliteration: waẓillin
   2:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: of
     transliteration: min
   3:
-    arabic: يَّحۡمُوۡمٍۙ‏
+    arabic: يَحۡمُومٖ
     translation: black smoke
     transliteration: yaḥmūmin
 ---

@@ -1,17 +1,17 @@
 ---
-arabic_ayat: اِنۡ هٰذَاۤ اِلَّا خُلُقُ الۡاَوَّلِيۡنَۙ‏
+arabic_ayat: إِنۡ هَٰذَآ إِلَّا خُلُقُ ٱلۡأَوَّلِينَ
 sentence_translation: This is simply the tradition of our predecessors.
 word_by_word:
   1:
-    arabic: اِنۡ
+    arabic: إِنۡ
     translation: Not
     transliteration: in
   2:
-    arabic: هٰذَاۤ
+    arabic: هَٰذَآ
     translation: (is) this
     transliteration: hādhā
   3:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: but
     transliteration: illā
   4:
@@ -19,7 +19,7 @@ word_by_word:
     translation: (the) custom
     transliteration: khuluqu
   5:
-    arabic: الۡاَوَّلِيۡنَۙ‏
+    arabic: ٱلۡأَوَّلِينَ
     translation: (of) the former (people)
     transliteration: l-awalīna
 ---

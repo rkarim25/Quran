@@ -1,16 +1,16 @@
 ---
-arabic_ayat: وَاِنۡ كُنۡتُنَّ تُرِدۡنَ اللّٰهَ وَرَسُوۡلَهٗ وَالدَّارَ الۡاٰخِرَةَ
-  فَاِنَّ اللّٰهَ اَعَدَّ لِلۡمُحۡسِنٰتِ مِنۡكُنَّ اَجۡرًا عَظِيۡمًا‏
+arabic_ayat: وَإِن كُنتُنَّ تُرِدۡنَ ٱللَّهَ وَرَسُولَهُۥ وَٱلدَّارَ ٱلۡأٓخِرَةَ فَإِنَّ
+  ٱللَّهَ أَعَدَّ لِلۡمُحۡسِنَٰتِ مِنكُنَّ أَجۡرًا عَظِيمٗا
 sentence_translation: But if you desire Allah and His Messenger and the ˹everlasting˺
   Home of the Hereafter, then Surely Allah has prepared a great reward for those of
   you who do good.”
 word_by_word:
   1:
-    arabic: وَاِنۡ
+    arabic: وَإِن
     translation: But if
     transliteration: wa-in
   2:
-    arabic: كُنۡتُنَّ
+    arabic: كُنتُنَّ
     translation: you
     transliteration: kuntunna
   3:
@@ -18,47 +18,47 @@ word_by_word:
     translation: desire
     transliteration: turid'na
   4:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   5:
-    arabic: وَرَسُوۡلَهٗ
+    arabic: وَرَسُولَهُۥ
     translation: and His Messenger
     transliteration: warasūlahu
   6:
-    arabic: وَالدَّارَ
+    arabic: وَٱلدَّارَ
     translation: and the Home
     transliteration: wal-dāra
   7:
-    arabic: الۡاٰخِرَةَ
+    arabic: ٱلۡأٓخِرَةَ
     translation: (of) the Hereafter
     transliteration: l-ākhirata
   8:
-    arabic: فَاِنَّ
+    arabic: فَإِنَّ
     translation: then indeed
     transliteration: fa-inna
   9:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   10:
-    arabic: اَعَدَّ
+    arabic: أَعَدَّ
     translation: has prepared
     transliteration: aʿadda
   11:
-    arabic: لِلۡمُحۡسِنٰتِ
+    arabic: لِلۡمُحۡسِنَٰتِ
     translation: for the good-doers
     transliteration: lil'muḥ'sināti
   12:
-    arabic: مِنۡكُنَّ
+    arabic: مِنكُنَّ
     translation: among you
     transliteration: minkunna
   13:
-    arabic: اَجۡرًا
+    arabic: أَجۡرًا
     translation: a reward
     transliteration: ajran
   14:
-    arabic: عَظِيۡمًا‏
+    arabic: عَظِيمٗا
     translation: great
     transliteration: ʿaẓīman
 ---

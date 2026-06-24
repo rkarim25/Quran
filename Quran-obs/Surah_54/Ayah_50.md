@@ -1,29 +1,29 @@
 ---
-arabic_ayat: وَمَاۤ اَمۡرُنَاۤ اِلَّا وَاحِدَةٌ كَلَمۡحٍۢ بِالۡبَصَرِ‏
+arabic_ayat: وَمَآ أَمۡرُنَآ إِلَّا وَٰحِدَةٞ كَلَمۡحِۭ بِٱلۡبَصَرِ
 sentence_translation: Our command is but a single word, done in the blink of an eye.
 word_by_word:
   1:
-    arabic: وَمَاۤ
+    arabic: وَمَآ
     translation: And not
     transliteration: wamā
   2:
-    arabic: اَمۡرُنَاۤ
+    arabic: أَمۡرُنَآ
     translation: (is) Our Command
     transliteration: amrunā
   3:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: but
     transliteration: illā
   4:
-    arabic: وَاحِدَةٌ
+    arabic: وَٰحِدَةٞ
     translation: one
     transliteration: wāḥidatun
   5:
-    arabic: كَلَمۡحٍۢ
+    arabic: كَلَمۡحِۭ
     translation: like the twinkling
     transliteration: kalamḥin
   6:
-    arabic: بِالۡبَصَرِ‏
+    arabic: بِٱلۡبَصَرِ
     translation: (of) the eye
     transliteration: bil-baṣari
 ---

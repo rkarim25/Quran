@@ -1,20 +1,20 @@
 ---
-arabic_ayat: اَوَلَمۡ يَرَوۡا اِلٰى مَا خَلَقَ اللّٰهُ مِنۡ شَىۡءٍ يَّتَفَيَّؤُا ظِلٰلُهٗ
-  عَنِ الۡيَمِيۡنِ وَالشَّمَآٮِٕلِ سُجَّدًا لِّلَّهِ وَهُمۡ دٰخِرُوۡنَ‏
+arabic_ayat: أَوَلَمۡ يَرَوۡاْ إِلَىٰ مَا خَلَقَ ٱللَّهُ مِن شَيۡءٖ يَتَفَيَّؤُاْ
+  ظِلَٰلُهُۥ عَنِ ٱلۡيَمِينِ وَٱلشَّمَآئِلِ سُجَّدٗا لِّلَّهِ وَهُمۡ دَٰخِرُونَ
 sentence_translation: Have they not considered how the shadows of everything Allah
   has created incline to the right and the left ˹as the sun moves˺, totally submitting
   to Allah in all humility?
 word_by_word:
   1:
-    arabic: اَوَلَمۡ
+    arabic: أَوَلَمۡ
     translation: Have not
     transliteration: awalam
   2:
-    arabic: يَرَوۡا
+    arabic: يَرَوۡاْ
     translation: they seen
     transliteration: yaraw
   3:
-    arabic: اِلٰى
+    arabic: إِلَىٰ
     translation: '[towards]'
     transliteration: ilā
   4:
@@ -26,23 +26,23 @@ word_by_word:
     translation: Allah has created
     transliteration: khalaqa
   6:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah has created
     transliteration: l-lahu
   7:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   8:
-    arabic: شَىۡءٍ
+    arabic: شَيۡءٖ
     translation: a thing
     transliteration: shayin
   9:
-    arabic: يَّتَفَيَّؤُا
+    arabic: يَتَفَيَّؤُاْ
     translation: Incline
     transliteration: yatafayya-u
   10:
-    arabic: ظِلٰلُهٗ
+    arabic: ظِلَٰلُهُۥ
     translation: their shadows
     transliteration: ẓilāluhu
   11:
@@ -50,19 +50,19 @@ word_by_word:
     translation: to
     transliteration: ʿani
   12:
-    arabic: الۡيَمِيۡنِ
+    arabic: ٱلۡيَمِينِ
     translation: the right
     transliteration: l-yamīni
   13:
-    arabic: وَالشَّمَآٮِٕلِ
+    arabic: وَٱلشَّمَآئِلِ
     translation: and to the left
     transliteration: wal-shamāili
   14:
-    arabic: سُجَّدًا
+    arabic: سُجَّدٗا
     translation: prostrating
     transliteration: sujjadan
   15:
-    arabic: لِّلَّهِ
+    arabic: لِّلَّهِ
     translation: to Allah
     transliteration: lillahi
   16:
@@ -70,7 +70,7 @@ word_by_word:
     translation: while they
     transliteration: wahum
   17:
-    arabic: دٰخِرُوۡنَ‏
+    arabic: دَٰخِرُونَ
     translation: (are) humble
     transliteration: dākhirūna
 ---

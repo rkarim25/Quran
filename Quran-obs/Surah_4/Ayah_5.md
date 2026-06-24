@@ -1,7 +1,6 @@
 ---
-arabic_ayat: "وَلَا تُؤۡتُوا السُّفَهَآءَ اَمۡوَالَـكُمُ الَّتِىۡ جَعَلَ اللّٰهُ\
-  \ لَـكُمۡ قِيٰمًا وَّارۡزُقُوۡهُمۡ فِيۡهَا وَاكۡسُوۡهُمۡ وَقُوۡلُوۡا لَهُمۡ قَوۡلًا\
-  \ مَّعۡرُوۡفًا‏ \uFEFF\uFEFF"
+arabic_ayat: وَلَا تُؤۡتُواْ ٱلسُّفَهَآءَ أَمۡوَٰلَكُمُ ٱلَّتِي جَعَلَ ٱللَّهُ لَكُمۡ
+  قِيَٰمٗا وَٱرۡزُقُوهُمۡ فِيهَا وَٱكۡسُوهُمۡ وَقُولُواْ لَهُمۡ قَوۡلٗا مَّعۡرُوفٗا
 sentence_translation: Do not entrust the incapable ˹among your dependants˺ with your
   wealth which Allah has made a means of support for you—but feed and clothe them
   from it, and speak to them kindly.
@@ -11,19 +10,19 @@ word_by_word:
     translation: And (do) not
     transliteration: walā
   2:
-    arabic: تُؤۡتُوا
+    arabic: تُؤۡتُواْ
     translation: give
     transliteration: tu'tū
   3:
-    arabic: السُّفَهَآءَ
+    arabic: ٱلسُّفَهَآءَ
     translation: the foolish
     transliteration: l-sufahāa
   4:
-    arabic: اَمۡوَالَـكُمُ
+    arabic: أَمۡوَٰلَكُمُ
     translation: your wealth
     transliteration: amwālakumu
   5:
-    arabic: الَّتِىۡ
+    arabic: ٱلَّتِي
     translation: which
     transliteration: allatī
   6:
@@ -31,31 +30,31 @@ word_by_word:
     translation: (was) made
     transliteration: jaʿala
   7:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: (by) Allah
     transliteration: l-lahu
   8:
-    arabic: لَـكُمۡ
+    arabic: لَكُمۡ
     translation: for you
     transliteration: lakum
   9:
-    arabic: قِيٰمًا
+    arabic: قِيَٰمٗا
     translation: a means of support
     transliteration: qiyāman
   10:
-    arabic: وَّارۡزُقُوۡهُمۡ
+    arabic: وَٱرۡزُقُوهُمۡ
     translation: (but) provide (for) them
     transliteration: wa-ur'zuqūhum
   11:
-    arabic: فِيۡهَا
+    arabic: فِيهَا
     translation: with it
     transliteration: fīhā
   12:
-    arabic: وَاكۡسُوۡهُمۡ
+    arabic: وَٱكۡسُوهُمۡ
     translation: and clothe them
     transliteration: wa-ik'sūhum
   13:
-    arabic: وَقُوۡلُوۡا
+    arabic: وَقُولُواْ
     translation: and speak
     transliteration: waqūlū
   14:
@@ -63,11 +62,11 @@ word_by_word:
     translation: to them
     transliteration: lahum
   15:
-    arabic: قَوۡلًا
+    arabic: قَوۡلٗا
     translation: words
     transliteration: qawlan
   16:
-    arabic: "مَّعۡرُوۡفًا‏ \uFEFF\uFEFF"
+    arabic: مَّعۡرُوفٗا
     translation: (of) kindness
     transliteration: maʿrūfan
 ---

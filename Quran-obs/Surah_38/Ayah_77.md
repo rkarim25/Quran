@@ -1,5 +1,5 @@
 ---
-arabic_ayat: قَالَ فَاخۡرُجۡ مِنۡهَا فَاِنَّكَ رَجِيۡمٌ  ۖ​ ۚ‏
+arabic_ayat: قَالَ فَٱخۡرُجۡ مِنۡهَا فَإِنَّكَ رَجِيمٞ
 sentence_translation: Allah commanded, “Then get out of Paradise, for you are truly
   cursed.
 word_by_word:
@@ -8,7 +8,7 @@ word_by_word:
     translation: He said
     transliteration: qāla
   2:
-    arabic: فَاخۡرُجۡ
+    arabic: فَٱخۡرُجۡ
     translation: Then get out
     transliteration: fa-ukh'ruj
   3:
@@ -16,11 +16,11 @@ word_by_word:
     translation: of it
     transliteration: min'hā
   4:
-    arabic: فَاِنَّكَ
+    arabic: فَإِنَّكَ
     translation: for indeed, you
     transliteration: fa-innaka
   5:
-    arabic: رَجِيۡمٌ  ۖ​ ۚ‏
+    arabic: رَجِيمٞ
     translation: (are) accursed
     transliteration: rajīmun
 ---

@@ -1,6 +1,6 @@
 ---
-arabic_ayat: ثُمَّ بَدَا لَهُمۡ مِّنۡۢ بَعۡدِ مَا رَاَوُا الۡاٰيٰتِ لَيَسۡجُنُـنَّهٗ
-  حَتّٰى حِيۡنٍ‏
+arabic_ayat: ثُمَّ بَدَا لَهُم مِّنۢ بَعۡدِ مَا رَأَوُاْ ٱلۡأٓيَٰتِ لَيَسۡجُنُنَّهُۥ
+  حَتَّىٰ حِينٖ
 sentence_translation: And so it occurred to those in charge, despite seeing all the
   proofs ˹of his innocence˺, that he should be imprisoned for a while. 
 word_by_word:
@@ -13,11 +13,11 @@ word_by_word:
     translation: (it) appeared
     transliteration: badā
   3:
-    arabic: لَهُمۡ
+    arabic: لَهُم
     translation: to them
     transliteration: lahum
   4:
-    arabic: مِّنۡۢ
+    arabic: مِّنۢ
     translation: after
     transliteration: min
   5:
@@ -29,23 +29,23 @@ word_by_word:
     translation: '[what]'
     transliteration: mā
   7:
-    arabic: رَاَوُا
+    arabic: رَأَوُاْ
     translation: they had seen
     transliteration: ra-awū
   8:
-    arabic: الۡاٰيٰتِ
+    arabic: ٱلۡأٓيَٰتِ
     translation: the signs
     transliteration: l-āyāti
   9:
-    arabic: لَيَسۡجُنُـنَّهٗ
+    arabic: لَيَسۡجُنُنَّهُۥ
     translation: surely they should imprison him
     transliteration: layasjununnahu
   10:
-    arabic: حَتّٰى
+    arabic: حَتَّىٰ
     translation: until
     transliteration: ḥattā
   11:
-    arabic: حِيۡنٍ‏
+    arabic: حِينٖ
     translation: a time
     transliteration: ḥīnin
 ---

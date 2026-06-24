@@ -1,32 +1,32 @@
 ---
-arabic_ayat: فَلَوۡلَاۤ اِذۡ جَآءَهُمۡ بَاۡسُنَا تَضَرَّعُوۡا وَلٰـكِنۡ قَسَتۡ قُلُوۡبُهُمۡ
-  وَزَيَّنَ لَهُمُ الشَّيۡطٰنُ مَا كَانُوۡا يَعۡمَلُوۡنَ‏
+arabic_ayat: فَلَوۡلَآ إِذۡ جَآءَهُم بَأۡسُنَا تَضَرَّعُواْ وَلَٰكِن قَسَتۡ قُلُوبُهُمۡ
+  وَزَيَّنَ لَهُمُ ٱلشَّيۡطَٰنُ مَا كَانُواْ يَعۡمَلُونَ
 sentence_translation: Why did they not humble themselves when We made them suffer?
   Instead, their hearts were hardened, and Satan made their misdeeds appealing to
   them.
 word_by_word:
   1:
-    arabic: فَلَوۡلَاۤ
+    arabic: فَلَوۡلَآ
     translation: Then why not
     transliteration: falawlā
   2:
-    arabic: اِذۡ
+    arabic: إِذۡ
     translation: when
     transliteration: idh
   3:
-    arabic: جَآءَهُمۡ
+    arabic: جَآءَهُم
     translation: came to them
     transliteration: jāahum
   4:
-    arabic: بَاۡسُنَا
+    arabic: بَأۡسُنَا
     translation: Our punishment
     transliteration: basunā
   5:
-    arabic: تَضَرَّعُوۡا
+    arabic: تَضَرَّعُواْ
     translation: they humbled themselves
     transliteration: taḍarraʿū
   6:
-    arabic: وَلٰـكِنۡ
+    arabic: وَلَٰكِن
     translation: But
     transliteration: walākin
   7:
@@ -34,7 +34,7 @@ word_by_word:
     translation: became hardened
     transliteration: qasat
   8:
-    arabic: قُلُوۡبُهُمۡ
+    arabic: قُلُوبُهُمۡ
     translation: their hearts
     transliteration: qulūbuhum
   9:
@@ -46,7 +46,7 @@ word_by_word:
     translation: to them
     transliteration: lahumu
   11:
-    arabic: الشَّيۡطٰنُ
+    arabic: ٱلشَّيۡطَٰنُ
     translation: the Shaitaan
     transliteration: l-shayṭānu
   12:
@@ -54,11 +54,11 @@ word_by_word:
     translation: what
     transliteration: mā
   13:
-    arabic: كَانُوۡا
+    arabic: كَانُواْ
     translation: they used to
     transliteration: kānū
   14:
-    arabic: يَعۡمَلُوۡنَ‏
+    arabic: يَعۡمَلُونَ
     translation: do
     transliteration: yaʿmalūna
 ---

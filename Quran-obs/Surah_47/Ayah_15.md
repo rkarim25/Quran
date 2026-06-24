@@ -1,9 +1,9 @@
 ---
-arabic_ayat: مَثَلُ الۡجَـنَّةِ الَّتِىۡ وُعِدَ الۡمُتَّقُوۡنَ​ؕ فِيۡهَاۤ اَنۡهٰرٌ
-  مِّنۡ مَّآءٍ غَيۡرِ اٰسِنٍ​ ۚ وَاَنۡهٰرٌ مِّنۡ لَّبَنٍ لَّمۡ يَتَغَيَّرۡ طَعۡمُهٗ
-  ​ۚ وَاَنۡهٰرٌ مِّنۡ خَمۡرٍ لَّذَّةٍ لِّلشّٰرِبِيۡنَ ۚ وَاَنۡهٰرٌ مِّنۡ عَسَلٍ مُّصَفًّى​
-  ؕ وَلَهُمۡ فِيۡهَا مِنۡ كُلِّ الثَّمَرٰتِ وَمَغۡفِرَةٌ مِّنۡ رَّبِّهِمۡ​ؕ كَمَنۡ
-  هُوَ خَالِدٌ فِى النَّارِ وَسُقُوۡا مَآءً حَمِيۡمًا فَقَطَّعَ اَمۡعَآءَهُمۡ‏
+arabic_ayat: مَّثَلُ ٱلۡجَنَّةِ ٱلَّتِي وُعِدَ ٱلۡمُتَّقُونَۖ فِيهَآ أَنۡهَٰرٞ مِّن
+  مَّآءٍ غَيۡرِ ءَاسِنٖ وَأَنۡهَٰرٞ مِّن لَّبَنٖ لَّمۡ يَتَغَيَّرۡ طَعۡمُهُۥ وَأَنۡهَٰرٞ
+  مِّنۡ خَمۡرٖ لَّذَّةٖ لِّلشَّٰرِبِينَ وَأَنۡهَٰرٞ مِّنۡ عَسَلٖ مُّصَفّٗىۖ وَلَهُمۡ
+  فِيهَا مِن كُلِّ ٱلثَّمَرَٰتِ وَمَغۡفِرَةٞ مِّن رَّبِّهِمۡۖ كَمَنۡ هُوَ خَٰلِدٞ
+  فِي ٱلنَّارِ وَسُقُواْ مَآءً حَمِيمٗا فَقَطَّعَ أَمۡعَآءَهُمۡ
 sentence_translation: The description of the Paradise promised to the righteous is
   that in it are rivers of fresh water, rivers of milk that never changes in taste,
   rivers of wine delicious to drink, and rivers of pure honey. There they will ˹also˺
@@ -12,15 +12,15 @@ sentence_translation: The description of the Paradise promised to the righteous 
   their insides?
 word_by_word:
   1:
-    arabic: مَثَلُ
+    arabic: مَّثَلُ
     translation: A parable
     transliteration: mathalu
   2:
-    arabic: الۡجَـنَّةِ
+    arabic: ٱلۡجَنَّةِ
     translation: (of) Paradise
     transliteration: l-janati
   3:
-    arabic: الَّتِىۡ
+    arabic: ٱلَّتِي
     translation: which
     transliteration: allatī
   4:
@@ -28,19 +28,19 @@ word_by_word:
     translation: is promised
     transliteration: wuʿida
   5:
-    arabic: الۡمُتَّقُوۡنَ​ؕ
+    arabic: ٱلۡمُتَّقُونَۖ
     translation: (to) the righteous
     transliteration: l-mutaqūna
   6:
-    arabic: فِيۡهَاۤ
+    arabic: فِيهَآ
     translation: Therein
     transliteration: fīhā
   7:
-    arabic: اَنۡهٰرٌ
+    arabic: أَنۡهَٰرٞ
     translation: (are) rivers
     transliteration: anhārun
   8:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: of
     transliteration: min
   9:
@@ -48,23 +48,23 @@ word_by_word:
     translation: water
     transliteration: māin
   10:
-    arabic: غَيۡرِ
+    arabic: غَيۡرِ ءَ
     translation: not
     transliteration: ghayri
   11:
-    arabic: اٰسِنٍ​ ۚ
+    arabic: اسِنٖ
     translation: polluted
     transliteration: āsinin
   12:
-    arabic: وَاَنۡهٰرٌ
+    arabic: وَأَنۡهَٰرٞ
     translation: and rivers
     transliteration: wa-anhārun
   13:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: of
     transliteration: min
   14:
-    arabic: لَّبَنٍ
+    arabic: لَّبَنٖ
     translation: milk
     transliteration: labanin
   15:
@@ -76,11 +76,11 @@ word_by_word:
     translation: changes
     transliteration: yataghayyar
   17:
-    arabic: طَعۡمُهٗ ​ۚ
+    arabic: طَعۡمُهُۥ
     translation: its taste
     transliteration: ṭaʿmuhu
   18:
-    arabic: وَاَنۡهٰرٌ
+    arabic: وَأَنۡهَٰرٞ
     translation: and rivers
     transliteration: wa-anhārun
   19:
@@ -88,19 +88,19 @@ word_by_word:
     translation: of
     transliteration: min
   20:
-    arabic: خَمۡرٍ
+    arabic: خَمۡرٖ
     translation: wine
     transliteration: khamrin
   21:
-    arabic: لَّذَّةٍ
+    arabic: لَّذَّةٖ
     translation: delicious
     transliteration: ladhatin
   22:
-    arabic: لِّلشّٰرِبِيۡنَ ۚ
+    arabic: لِّلشَّٰرِبِينَ
     translation: for (the) drinkers
     transliteration: lilshāribīna
   23:
-    arabic: وَاَنۡهٰرٌ
+    arabic: وَأَنۡهَٰرٞ
     translation: and rivers
     transliteration: wa-anhārun
   24:
@@ -108,11 +108,11 @@ word_by_word:
     translation: of
     transliteration: min
   25:
-    arabic: عَسَلٍ
+    arabic: عَسَلٖ
     translation: honey
     transliteration: ʿasalin
   26:
-    arabic: مُّصَفًّى​ ؕ
+    arabic: مُّصَفّٗىۖ
     translation: purified
     transliteration: muṣaffan
   27:
@@ -120,11 +120,11 @@ word_by_word:
     translation: and for them
     transliteration: walahum
   28:
-    arabic: فِيۡهَا
+    arabic: فِيهَا
     translation: therein
     transliteration: fīhā
   29:
-    arabic: مِنۡ
+    arabic: مِن
     translation: of
     transliteration: min
   30:
@@ -132,19 +132,19 @@ word_by_word:
     translation: all
     transliteration: kulli
   31:
-    arabic: الثَّمَرٰتِ
+    arabic: ٱلثَّمَرَٰتِ
     translation: fruits
     transliteration: l-thamarāti
   32:
-    arabic: وَمَغۡفِرَةٌ
+    arabic: وَمَغۡفِرَةٞ
     translation: and forgiveness
     transliteration: wamaghfiratun
   33:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: from
     transliteration: min
   34:
-    arabic: رَّبِّهِمۡ​ؕ
+    arabic: رَّبِّهِمۡۖ
     translation: their Lord
     transliteration: rabbihim
   35:
@@ -156,19 +156,19 @@ word_by_word:
     translation: like he who
     transliteration: huwa
   37:
-    arabic: خَالِدٌ
+    arabic: خَٰلِدٞ
     translation: (will) abide forever
     transliteration: khālidun
   38:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   39:
-    arabic: النَّارِ
+    arabic: ٱلنَّارِ
     translation: the Fire
     transliteration: l-nāri
   40:
-    arabic: وَسُقُوۡا
+    arabic: وَسُقُواْ
     translation: and they will be given to drink
     transliteration: wasuqū
   41:
@@ -176,7 +176,7 @@ word_by_word:
     translation: water
     transliteration: māan
   42:
-    arabic: حَمِيۡمًا
+    arabic: حَمِيمٗا
     translation: boiling
     transliteration: ḥamīman
   43:
@@ -184,7 +184,7 @@ word_by_word:
     translation: so it cuts into pieces
     transliteration: faqaṭṭaʿa
   44:
-    arabic: اَمۡعَآءَهُمۡ‏
+    arabic: أَمۡعَآءَهُمۡ
     translation: their intestines
     transliteration: amʿāahum
 ---

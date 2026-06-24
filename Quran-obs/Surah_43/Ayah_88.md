@@ -1,26 +1,26 @@
 ---
-arabic_ayat: وَقِيۡلِهٖ يٰرَبِّ اِنَّ هٰٓؤُلَاۤءِ قَوۡمٌ لَّا يُؤۡمِنُوۡنَ​ۘ‏
+arabic_ayat: وَقِيلِهِۦ يَٰرَبِّ إِنَّ هَٰٓؤُلَآءِ قَوۡمٞ لَّا يُؤۡمِنُونَ
 sentence_translation: '˹Allah is Aware of˺ the Prophet’s cry: “O my Lord! Indeed,
   these are a people who persist in disbelief.”'
 word_by_word:
   1:
-    arabic: وَقِيۡلِهٖ
+    arabic: وَقِيلِهِۦ
     translation: And his saying
     transliteration: waqīlihi
   2:
-    arabic: يٰرَبِّ
+    arabic: يَٰرَبِّ
     translation: O my Lord
     transliteration: yārabbi
   3:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   4:
-    arabic: هٰٓؤُلَاۤءِ
+    arabic: هَٰٓؤُلَآءِ
     translation: these
     transliteration: hāulāi
   5:
-    arabic: قَوۡمٌ
+    arabic: قَوۡمٞ
     translation: (are) a people
     transliteration: qawmun
   6:
@@ -28,7 +28,7 @@ word_by_word:
     translation: (who do) not
     transliteration: lā
   7:
-    arabic: يُؤۡمِنُوۡنَ​ۘ‏
+    arabic: يُؤۡمِنُونَ
     translation: believe
     transliteration: yu'minūna
 ---

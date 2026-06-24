@@ -1,11 +1,11 @@
 ---
-arabic_ayat: لَيۡسَ الۡبِرَّ اَنۡ تُوَلُّوۡا وُجُوۡهَكُمۡ قِبَلَ الۡمَشۡرِقِ وَ الۡمَغۡرِبِ
-  وَلٰـكِنَّ الۡبِرَّ مَنۡ اٰمَنَ بِاللّٰهِ وَالۡيَوۡمِ الۡاٰخِرِ وَالۡمَلٰٓٮِٕکَةِ
-  وَالۡكِتٰبِ وَالنَّبِيّٖنَ​ۚ وَاٰتَى الۡمَالَ عَلٰى حُبِّهٖ ذَوِى الۡقُرۡبٰى وَالۡيَتٰمٰى
-  وَالۡمَسٰكِيۡنَ وَابۡنَ السَّبِيۡلِۙ وَالسَّآٮِٕلِيۡنَ وَفِى الرِّقَابِ​ۚ وَاَقَامَ
-  الصَّلٰوةَ وَاٰتَى الزَّکٰوةَ ​ ۚ وَالۡمُوۡفُوۡنَ بِعَهۡدِهِمۡ اِذَا عٰهَدُوۡا ۚ
-  وَالصّٰبِرِيۡنَ فِى الۡبَاۡسَآءِ وَالضَّرَّآءِ وَحِيۡنَ الۡبَاۡسِؕ اُولٰٓٮِٕكَ
-  الَّذِيۡنَ صَدَقُوۡا ؕ وَاُولٰٓٮِٕكَ هُمُ الۡمُتَّقُوۡنَ‏
+arabic_ayat: ۞ لَّيۡسَ ٱلۡبِرَّ أَن تُوَلُّواْ وُجُوهَكُمۡ قِبَلَ ٱلۡمَشۡرِقِ وَٱلۡمَغۡرِبِ
+  وَلَٰكِنَّ ٱلۡبِرَّ مَنۡ ءَامَنَ بِٱللَّهِ وَٱلۡيَوۡمِ ٱلۡأٓخِرِ وَٱلۡمَلَٰٓئِكَةِ
+  وَٱلۡكِتَٰبِ وَٱلنَّبِيِّـۧنَ وَءَاتَى ٱلۡمَالَ عَلَىٰ حُبِّهِۦ ذَوِي ٱلۡقُرۡبَىٰ
+  وَٱلۡيَتَٰمَىٰ وَٱلۡمَسَٰكِينَ وَٱبۡنَ ٱلسَّبِيلِ وَٱلسَّآئِلِينَ وَفِي ٱلرِّقَابِ
+  وَأَقَامَ ٱلصَّلَوٰةَ وَءَاتَى ٱلزَّكَوٰةَ وَٱلۡمُوفُونَ بِعَهۡدِهِمۡ إِذَا عَٰهَدُواْۖ
+  وَٱلصَّٰبِرِينَ فِي ٱلۡبَأۡسَآءِ وَٱلضَّرَّآءِ وَحِينَ ٱلۡبَأۡسِۗ أُوْلَٰٓئِكَ
+  ٱلَّذِينَ صَدَقُواْۖ وَأُوْلَٰٓئِكَ هُمُ ٱلۡمُتَّقُونَ
 sentence_translation: Righteousness is not in turning your faces towards the east
   or the west. Rather, the righteous are those who believe in Allah, the Last Day,
   the angels, the Books, and the prophets; who give charity out of their cherished
@@ -15,23 +15,23 @@ sentence_translation: Righteousness is not in turning your faces towards the eas
   is they who are true ˹in faith˺, and it is they who are mindful ˹of Allah˺.
 word_by_word:
   1:
-    arabic: ۞ لَيۡسَ
+    arabic: ۞ لَّيۡسَ
     translation: It is not
     transliteration: laysa
   2:
-    arabic: الۡبِرَّ
+    arabic: ٱلۡبِرَّ
     translation: '[the] righteousness'
     transliteration: l-bira
   3:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that
     transliteration: an
   4:
-    arabic: تُوَلُّوۡا
+    arabic: تُوَلُّواْ
     translation: you turn
     transliteration: tuwallū
   5:
-    arabic: وُجُوۡهَكُمۡ
+    arabic: وُجُوهَكُمۡ
     translation: your faces
     transliteration: wujūhakum
   6:
@@ -39,123 +39,123 @@ word_by_word:
     translation: towards
     transliteration: qibala
   7:
-    arabic: الۡمَشۡرِقِ
+    arabic: ٱلۡمَشۡرِقِ
     translation: the east
     transliteration: l-mashriqi
   8:
-    arabic: وَ الۡمَغۡرِبِ
+    arabic: وَٱلۡمَغۡرِبِ
     translation: and the west
     transliteration: wal-maghribi
   9:
-    arabic: وَلٰـكِنَّ
+    arabic: وَلَٰكِنَّ
     translation: '[and] but'
     transliteration: walākinna
   10:
-    arabic: الۡبِرَّ
+    arabic: ٱلۡبِرَّ
     translation: the righteous[ness]
     transliteration: l-bira
   11:
-    arabic: مَنۡ
+    arabic: مَنۡ ءَ
     translation: (is he) who
     transliteration: man
   12:
-    arabic: اٰمَنَ
+    arabic: امَنَ
     translation: believes
     transliteration: āmana
   13:
-    arabic: بِاللّٰهِ
+    arabic: بِٱللَّهِ
     translation: in Allah
     transliteration: bil-lahi
   14:
-    arabic: وَالۡيَوۡمِ
+    arabic: وَٱلۡيَوۡمِ
     translation: and the Day
     transliteration: wal-yawmi
   15:
-    arabic: الۡاٰخِرِ
+    arabic: ٱلۡأٓخِرِ
     translation: '[the] Last'
     transliteration: l-ākhiri
   16:
-    arabic: وَالۡمَلٰٓٮِٕکَةِ
+    arabic: وَٱلۡمَلَٰٓئِكَةِ
     translation: and the Angels
     transliteration: wal-malāikati
   17:
-    arabic: وَالۡكِتٰبِ
+    arabic: وَٱلۡكِتَٰبِ
     translation: and the Book
     transliteration: wal-kitābi
   18:
-    arabic: وَالنَّبِيّٖنَ​ۚ
+    arabic: وَٱلنَّبِيِّـۧنَ
     translation: and the Prophets
     transliteration: wal-nabiyīna
   19:
-    arabic: وَاٰتَى
+    arabic: وَءَاتَى
     translation: and gives
     transliteration: waātā
   20:
-    arabic: الۡمَالَ
+    arabic: ٱلۡمَالَ
     translation: the wealth
     transliteration: l-māla
   21:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: in
     transliteration: ʿalā
   22:
-    arabic: حُبِّهٖ
+    arabic: حُبِّهِۦ
     translation: spite of his love (for it)
     transliteration: ḥubbihi
   23:
-    arabic: ذَوِى
+    arabic: ذَوِي
     translation: (to) those
     transliteration: dhawī
   24:
-    arabic: الۡقُرۡبٰى
+    arabic: ٱلۡقُرۡبَىٰ
     translation: (of) the near relatives
     transliteration: l-qur'bā
   25:
-    arabic: وَالۡيَتٰمٰى
+    arabic: وَٱلۡيَتَٰمَىٰ
     translation: and the orphans
     transliteration: wal-yatāmā
   26:
-    arabic: وَالۡمَسٰكِيۡنَ
+    arabic: وَٱلۡمَسَٰكِينَ
     translation: and the needy
     transliteration: wal-masākīna
   27:
-    arabic: وَابۡنَ
+    arabic: وَٱبۡنَ
     translation: and (of)
     transliteration: wa-ib'na
   28:
-    arabic: السَّبِيۡلِۙ
+    arabic: ٱلسَّبِيلِ
     translation: the wayfarer
     transliteration: l-sabīli
   29:
-    arabic: وَالسَّآٮِٕلِيۡنَ
+    arabic: وَٱلسَّآئِلِينَ
     translation: and those who ask
     transliteration: wal-sāilīna
   30:
-    arabic: وَفِى
+    arabic: وَفِي
     translation: and in
     transliteration: wafī
   31:
-    arabic: الرِّقَابِ​ۚ
+    arabic: ٱلرِّقَابِ
     translation: freeing the necks (slaves)
     transliteration: l-riqābi
   32:
-    arabic: وَاَقَامَ
+    arabic: وَأَقَامَ
     translation: and (who) establish
     transliteration: wa-aqāma
   33:
-    arabic: الصَّلٰوةَ
+    arabic: ٱلصَّلَوٰةَ
     translation: the prayer
     transliteration: l-ṣalata
   34:
-    arabic: وَاٰتَى
+    arabic: وَءَاتَى
     translation: and give
     transliteration: waātā
   35:
-    arabic: الزَّکٰوةَ ​ ۚ
+    arabic: ٱلزَّكَوٰةَ
     translation: the zakah
     transliteration: l-zakata
   36:
-    arabic: وَالۡمُوۡفُوۡنَ
+    arabic: وَٱلۡمُوفُونَ
     translation: and those who fulfill
     transliteration: wal-mūfūna
   37:
@@ -163,51 +163,51 @@ word_by_word:
     translation: their covenant
     transliteration: biʿahdihim
   38:
-    arabic: اِذَا
+    arabic: إِذَا
     translation: when
     transliteration: idhā
   39:
-    arabic: عٰهَدُوۡا ۚ
+    arabic: عَٰهَدُواْۖ
     translation: they make it
     transliteration: ʿāhadū
   40:
-    arabic: وَالصّٰبِرِيۡنَ
+    arabic: وَٱلصَّٰبِرِينَ
     translation: and those who are patient
     transliteration: wal-ṣābirīna
   41:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   42:
-    arabic: الۡبَاۡسَآءِ
+    arabic: ٱلۡبَأۡسَآءِ
     translation: '[the] suffering'
     transliteration: l-basāi
   43:
-    arabic: وَالضَّرَّآءِ
+    arabic: وَٱلضَّرَّآءِ
     translation: and [the] hardship
     transliteration: wal-ḍarāi
   44:
-    arabic: وَحِيۡنَ
+    arabic: وَحِينَ
     translation: and (the) time
     transliteration: waḥīna
   45:
-    arabic: الۡبَاۡسِؕ
+    arabic: ٱلۡبَأۡسِۗ
     translation: (of) [the] stress
     transliteration: l-basi
   46:
-    arabic: اُولٰٓٮِٕكَ
+    arabic: أُوْلَٰٓئِكَ
     translation: Those
     transliteration: ulāika
   47:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: (are) the ones who
     transliteration: alladhīna
   48:
-    arabic: صَدَقُوۡا ؕ
+    arabic: صَدَقُواْۖ
     translation: are true
     transliteration: ṣadaqū
   49:
-    arabic: وَاُولٰٓٮِٕكَ
+    arabic: وَأُوْلَٰٓئِكَ
     translation: and those
     transliteration: wa-ulāika
   50:
@@ -215,7 +215,7 @@ word_by_word:
     translation: '[they]'
     transliteration: humu
   51:
-    arabic: الۡمُتَّقُوۡنَ‏
+    arabic: ٱلۡمُتَّقُونَ
     translation: (are) the righteous
     transliteration: l-mutaqūna
 ---

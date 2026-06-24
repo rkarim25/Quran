@@ -1,5 +1,5 @@
 ---
-arabic_ayat: لَا يُفَتَّرُ عَنۡهُمۡ وَهُمۡ فِيۡهِ مُبۡلِسُوۡنَ​ۚ‏
+arabic_ayat: لَا يُفَتَّرُ عَنۡهُمۡ وَهُمۡ فِيهِ مُبۡلِسُونَ
 sentence_translation: It will never be lightened for them, and there they will be
   overwhelmed with despair.
 word_by_word:
@@ -20,11 +20,11 @@ word_by_word:
     translation: and they
     transliteration: wahum
   5:
-    arabic: فِيۡهِ
+    arabic: فِيهِ
     translation: in it
     transliteration: fīhi
   6:
-    arabic: مُبۡلِسُوۡنَ​ۚ‏
+    arabic: مُبۡلِسُونَ
     translation: (will) despair
     transliteration: mub'lisūna
 ---

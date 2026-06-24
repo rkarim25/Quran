@@ -1,7 +1,7 @@
 ---
-arabic_ayat: وَقَالَ الَّذِيۡنَ كَفَرُوۡا لِلَّذِيۡنَ اٰمَنُوۡا لَوۡ كَانَ خَيۡرًا
-  مَّا سَبَقُوۡنَاۤ اِلَيۡهِ​ ؕ وَاِذۡ لَمۡ يَهۡتَدُوۡا بِهٖ فَسَيَقُوۡلُوۡنَ هٰذَاۤ
-  اِفۡكٌ قَدِيۡمٌ‏
+arabic_ayat: وَقَالَ ٱلَّذِينَ كَفَرُواْ لِلَّذِينَ ءَامَنُواْ لَوۡ كَانَ خَيۡرٗا
+  مَّا سَبَقُونَآ إِلَيۡهِۚ وَإِذۡ لَمۡ يَهۡتَدُواْ بِهِۦ فَسَيَقُولُونَ هَٰذَآ
+  إِفۡكٞ قَدِيمٞ
 sentence_translation: The disbelievers say of the believers, “Had it been ˹something˺
   good, they would not have beaten us to it.” Now since they reject its guidance,
   they will say, “˹This is˺ an ancient fabrication!”
@@ -11,19 +11,19 @@ word_by_word:
     translation: And say
     transliteration: waqāla
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   3:
-    arabic: كَفَرُوۡا
+    arabic: كَفَرُواْ
     translation: disbelieve
     transliteration: kafarū
   4:
-    arabic: لِلَّذِيۡنَ
+    arabic: لِلَّذِينَ ءَ
     translation: of those who
     transliteration: lilladhīna
   5:
-    arabic: اٰمَنُوۡا
+    arabic: امَنُواْ
     translation: believe
     transliteration: āmanū
   6:
@@ -35,7 +35,7 @@ word_by_word:
     translation: it had been
     transliteration: kāna
   8:
-    arabic: خَيۡرًا
+    arabic: خَيۡرٗا
     translation: good
     transliteration: khayran
   9:
@@ -43,15 +43,15 @@ word_by_word:
     translation: not
     transliteration: mā
   10:
-    arabic: سَبَقُوۡنَاۤ
+    arabic: سَبَقُونَآ
     translation: they (would) have preceded us
     transliteration: sabaqūnā
   11:
-    arabic: اِلَيۡهِ​ ؕ
+    arabic: إِلَيۡهِۚ
     translation: to it
     transliteration: ilayhi
   12:
-    arabic: وَاِذۡ
+    arabic: وَإِذۡ
     translation: And when
     transliteration: wa-idh
   13:
@@ -59,27 +59,27 @@ word_by_word:
     translation: not
     transliteration: lam
   14:
-    arabic: يَهۡتَدُوۡا
+    arabic: يَهۡتَدُواْ
     translation: they (are) guided
     transliteration: yahtadū
   15:
-    arabic: بِهٖ
+    arabic: بِهِۦ
     translation: by it
     transliteration: bihi
   16:
-    arabic: فَسَيَقُوۡلُوۡنَ
+    arabic: فَسَيَقُولُونَ
     translation: they say
     transliteration: fasayaqūlūna
   17:
-    arabic: هٰذَاۤ
+    arabic: هَٰذَآ
     translation: This
     transliteration: hādhā
   18:
-    arabic: اِفۡكٌ
+    arabic: إِفۡكٞ
     translation: (is) a lie
     transliteration: if'kun
   19:
-    arabic: قَدِيۡمٌ‏
+    arabic: قَدِيمٞ
     translation: ancient
     transliteration: qadīmun
 ---

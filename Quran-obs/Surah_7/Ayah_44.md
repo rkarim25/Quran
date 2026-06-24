@@ -1,35 +1,34 @@
 ---
-arabic_ayat: "وَنَادٰٓى اَصۡحٰبُ الۡجَـنَّةِ اَصۡحٰبَ النَّارِ اَنۡ قَدۡ وَجَدۡنَا\
-  \ مَا وَعَدَنَا رَبُّنَا حَقًّا فَهَلۡ وَجَدْتُّمۡ مَّا وَعَدَ رَبُّكُمۡ حَقًّا​\
-  \ ؕ قَالُوۡا نَـعَمۡ​ ۚ فَاَذَّنَ مُؤَذِّنٌۢ بَيۡنَهُمۡ اَنۡ لَّـعۡنَةُ اللّٰهِ\
-  \ عَلَى الظّٰلِمِيۡنَۙ‏ \uFEFF\uFEFF"
+arabic_ayat: وَنَادَىٰٓ أَصۡحَٰبُ ٱلۡجَنَّةِ أَصۡحَٰبَ ٱلنَّارِ أَن قَدۡ وَجَدۡنَا
+  مَا وَعَدَنَا رَبُّنَا حَقّٗا فَهَلۡ وَجَدتُّم مَّا وَعَدَ رَبُّكُمۡ حَقّٗاۖ قَالُواْ
+  نَعَمۡۚ فَأَذَّنَ مُؤَذِّنُۢ بَيۡنَهُمۡ أَن لَّعۡنَةُ ٱللَّهِ عَلَى ٱلظَّٰلِمِينَ
 sentence_translation: The residents of Paradise will call out to the residents of
   the Fire, “We have certainly found our Lord’s promise to be true. Have you too found
   your Lord’s promise to be true?” They will reply, “Yes, we have!” Then a caller
   will announce to both, “May Allah’s condemnation be upon the wrongdoers,
 word_by_word:
   1:
-    arabic: وَنَادٰٓى
+    arabic: وَنَادَىٰٓ
     translation: And will call out
     transliteration: wanādā
   2:
-    arabic: اَصۡحٰبُ
+    arabic: أَصۡحَٰبُ
     translation: (the) companions
     transliteration: aṣḥābu
   3:
-    arabic: الۡجَـنَّةِ
+    arabic: ٱلۡجَنَّةِ
     translation: (of) Paradise
     transliteration: l-janati
   4:
-    arabic: اَصۡحٰبَ
+    arabic: أَصۡحَٰبَ
     translation: (to the) companions
     transliteration: aṣḥāba
   5:
-    arabic: النَّارِ
+    arabic: ٱلنَّارِ
     translation: (of) the Fire
     transliteration: l-nāri
   6:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that
     transliteration: an
   7:
@@ -53,7 +52,7 @@ word_by_word:
     translation: our Lord
     transliteration: rabbunā
   12:
-    arabic: حَقًّا
+    arabic: حَقّٗا
     translation: 'true'
     transliteration: ḥaqqan
   13:
@@ -61,7 +60,7 @@ word_by_word:
     translation: So have
     transliteration: fahal
   14:
-    arabic: وَجَدْتُّمۡ
+    arabic: وَجَدتُّم
     translation: you found
     transliteration: wajadttum
   15:
@@ -77,23 +76,23 @@ word_by_word:
     translation: (by) your Lord
     transliteration: rabbukum
   18:
-    arabic: حَقًّا​ ؕ
+    arabic: حَقّٗاۖ
     translation: (to be) true
     transliteration: ḥaqqan
   19:
-    arabic: قَالُوۡا
+    arabic: قَالُواْ
     translation: They will say
     transliteration: qālū
   20:
-    arabic: نَـعَمۡ​ ۚ
+    arabic: نَعَمۡۚ
     translation: 'Yes'
     transliteration: naʿam
   21:
-    arabic: فَاَذَّنَ
+    arabic: فَأَذَّنَ
     translation: Then will announce
     transliteration: fa-adhana
   22:
-    arabic: مُؤَذِّنٌۢ
+    arabic: مُؤَذِّنُۢ
     translation: an announcer
     transliteration: mu-adhinun
   23:
@@ -101,15 +100,15 @@ word_by_word:
     translation: among them
     transliteration: baynahum
   24:
-    arabic: اَنۡ
+    arabic: أَن
     translation: '[that]'
     transliteration: an
   25:
-    arabic: لَّـعۡنَةُ
+    arabic: لَّعۡنَةُ
     translation: (The) curse
     transliteration: laʿnatu
   26:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (of) Allah
     transliteration: l-lahi
   27:
@@ -117,7 +116,7 @@ word_by_word:
     translation: (is) on
     transliteration: ʿalā
   28:
-    arabic: "الظّٰلِمِيۡنَۙ‏ \uFEFF\uFEFF"
+    arabic: ٱلظَّٰلِمِينَ
     translation: the wrongdoers
     transliteration: l-ẓālimīna
 ---

@@ -1,11 +1,11 @@
 ---
-arabic_ayat: وَالَّذِيۡنَ سَعَوۡ فِىۡۤ اٰيٰتِنَا مُعٰجِزِيۡنَ اُولٰٓٮِٕكَ لَهُمۡ عَذَابٌ
-  مِّنۡ رِّجۡزٍ اَلِيۡمٌ‏
+arabic_ayat: وَٱلَّذِينَ سَعَوۡ فِيٓ ءَايَٰتِنَا مُعَٰجِزِينَ أُوْلَٰٓئِكَ لَهُمۡ
+  عَذَابٞ مِّن رِّجۡزٍ أَلِيمٞ
 sentence_translation: As for those who strive to discredit Our revelations, it is
   they who will suffer the ˹worst˺ torment of agonizing pain.
 word_by_word:
   1:
-    arabic: وَالَّذِيۡنَ
+    arabic: وَٱلَّذِينَ
     translation: But those who
     transliteration: wa-alladhīna
   2:
@@ -13,19 +13,19 @@ word_by_word:
     translation: strive
     transliteration: saʿaw
   3:
-    arabic: فِىۡۤ
+    arabic: فِيٓ ءَ
     translation: against
     transliteration: fī
   4:
-    arabic: اٰيٰتِنَا
+    arabic: ايَٰتِنَا
     translation: Our Verses
     transliteration: āyātinā
   5:
-    arabic: مُعٰجِزِيۡنَ
+    arabic: مُعَٰجِزِينَ
     translation: '(to) cause failure '
     transliteration: muʿājizīna
   6:
-    arabic: اُولٰٓٮِٕكَ
+    arabic: أُوْلَٰٓئِكَ
     translation: 'those '
     transliteration: ulāika
   7:
@@ -33,11 +33,11 @@ word_by_word:
     translation: for them
     transliteration: lahum
   8:
-    arabic: عَذَابٌ
+    arabic: عَذَابٞ
     translation: (is) a punishment
     transliteration: ʿadhābun
   9:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: of
     transliteration: min
   10:
@@ -45,7 +45,7 @@ word_by_word:
     translation: foul nature
     transliteration: rij'zin
   11:
-    arabic: اَلِيۡمٌ‏
+    arabic: أَلِيمٞ
     translation: painful
     transliteration: alīmun
 ---

@@ -1,19 +1,19 @@
 ---
-arabic_ayat: وَاللّٰهُ يَدۡعُوۡۤا اِلٰى دَارِ السَّلٰمِؕ وَيَهۡدِىۡ مَنۡ يَّشَآءُ
-  اِلٰى صِرَاطٍ مُّسۡتَقِيۡمٍ‏
+arabic_ayat: وَٱللَّهُ يَدۡعُوٓاْ إِلَىٰ دَارِ ٱلسَّلَٰمِ وَيَهۡدِي مَن يَشَآءُ إِلَىٰ
+  صِرَٰطٖ مُّسۡتَقِيمٖ
 sentence_translation: And Allah invites ˹all˺ to the Home of Peace and guides whoever
   He wills to the Straight Path.
 word_by_word:
   1:
-    arabic: وَاللّٰهُ
+    arabic: وَٱللَّهُ
     translation: And Allah
     transliteration: wal-lahu
   2:
-    arabic: يَدۡعُوۡۤا
+    arabic: يَدۡعُوٓاْ
     translation: calls
     transliteration: yadʿū
   3:
-    arabic: اِلٰى
+    arabic: إِلَىٰ
     translation: to
     transliteration: ilā
   4:
@@ -21,31 +21,31 @@ word_by_word:
     translation: (the) Home
     transliteration: dāri
   5:
-    arabic: السَّلٰمِؕ
+    arabic: ٱلسَّلَٰمِ
     translation: (of) the Peace
     transliteration: l-salāmi
   6:
-    arabic: وَيَهۡدِىۡ
+    arabic: وَيَهۡدِي
     translation: and guides
     transliteration: wayahdī
   7:
-    arabic: مَنۡ
+    arabic: مَن
     translation: whom
     transliteration: man
   8:
-    arabic: يَّشَآءُ
+    arabic: يَشَآءُ
     translation: He wills
     transliteration: yashāu
   9:
-    arabic: اِلٰى
+    arabic: إِلَىٰ
     translation: to
     transliteration: ilā
   10:
-    arabic: صِرَاطٍ
+    arabic: صِرَٰطٖ
     translation: (the) straight path
     transliteration: ṣirāṭin
   11:
-    arabic: مُّسۡتَقِيۡمٍ‏
+    arabic: مُّسۡتَقِيمٖ
     translation: (the) straight path
     transliteration: mus'taqīmin
 ---

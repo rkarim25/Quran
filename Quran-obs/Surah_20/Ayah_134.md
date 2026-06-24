@@ -1,7 +1,7 @@
 ---
-arabic_ayat: وَلَوۡ اَنَّاۤ اَهۡلَكۡنٰهُمۡ بِعَذَابٍ مِّنۡ قَبۡلِهٖ لَـقَالُوۡا رَبَّنَا
-  لَوۡلَاۤ اَرۡسَلۡتَ اِلَـيۡنَا رَسُوۡلًا فَنَتَّبِعَ اٰيٰتِكَ مِنۡ قَبۡلِ اَنۡ نَّذِلَّ
-  وَنَخۡزٰى‏
+arabic_ayat: وَلَوۡ أَنَّآ أَهۡلَكۡنَٰهُم بِعَذَابٖ مِّن قَبۡلِهِۦ لَقَالُواْ رَبَّنَا
+  لَوۡلَآ أَرۡسَلۡتَ إِلَيۡنَا رَسُولٗا فَنَتَّبِعَ ءَايَٰتِكَ مِن قَبۡلِ أَن نَّذِلَّ
+  وَنَخۡزَىٰ
 sentence_translation: Had We destroyed them with a torment before this ˹Prophet came˺,
   they would have surely argued, “Our Lord! If only You had sent us a messenger, we
   would have followed Your revelations before being humiliated and put to shame.”
@@ -11,27 +11,27 @@ word_by_word:
     translation: And if
     transliteration: walaw
   2:
-    arabic: اَنَّاۤ
+    arabic: أَنَّآ
     translation: We
     transliteration: annā
   3:
-    arabic: اَهۡلَكۡنٰهُمۡ
+    arabic: أَهۡلَكۡنَٰهُم
     translation: (had) destroyed them
     transliteration: ahlaknāhum
   4:
-    arabic: بِعَذَابٍ
+    arabic: بِعَذَابٖ
     translation: with a punishment
     transliteration: biʿadhābin
   5:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: before him
     transliteration: min
   6:
-    arabic: قَبۡلِهٖ
+    arabic: قَبۡلِهِۦ
     translation: before him
     transliteration: qablihi
   7:
-    arabic: لَـقَالُوۡا
+    arabic: لَقَالُواْ
     translation: surely they (would) have said
     transliteration: laqālū
   8:
@@ -39,31 +39,31 @@ word_by_word:
     translation: Our Lord
     transliteration: rabbanā
   9:
-    arabic: لَوۡلَاۤ
+    arabic: لَوۡلَآ
     translation: why not
     transliteration: lawlā
   10:
-    arabic: اَرۡسَلۡتَ
+    arabic: أَرۡسَلۡتَ
     translation: You sent
     transliteration: arsalta
   11:
-    arabic: اِلَـيۡنَا
+    arabic: إِلَيۡنَا
     translation: to us
     transliteration: ilaynā
   12:
-    arabic: رَسُوۡلًا
+    arabic: رَسُولٗا
     translation: a Messenger
     transliteration: rasūlan
   13:
-    arabic: فَنَتَّبِعَ
+    arabic: فَنَتَّبِعَ ءَ
     translation: so we (could) have followed
     transliteration: fanattabiʿa
   14:
-    arabic: اٰيٰتِكَ
+    arabic: ايَٰتِكَ
     translation: Your signs
     transliteration: āyātika
   15:
-    arabic: مِنۡ
+    arabic: مِن
     translation: before
     transliteration: min
   16:
@@ -71,7 +71,7 @@ word_by_word:
     translation: before
     transliteration: qabli
   17:
-    arabic: اَنۡ
+    arabic: أَن
     translation: '[that]'
     transliteration: an
   18:
@@ -79,7 +79,7 @@ word_by_word:
     translation: we were humiliated
     transliteration: nadhilla
   19:
-    arabic: وَنَخۡزٰى‏
+    arabic: وَنَخۡزَىٰ
     translation: and disgraced
     transliteration: wanakhzā
 ---

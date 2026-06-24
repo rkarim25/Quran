@@ -1,24 +1,24 @@
 ---
-arabic_ayat: لَهٗ مَقَالِيۡدُ السَّمٰوٰتِ وَالۡاَرۡضِ​ۚ يَبۡسُطُ الرِّزۡقَ لِمَنۡ
-  يَّشَآءُ وَيَقۡدِرُ​ؕ اِنَّهٗ بِكُلِّ شَىۡءٍ عَلِيۡمٌ‏
+arabic_ayat: لَهُۥ مَقَالِيدُ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِۖ يَبۡسُطُ ٱلرِّزۡقَ لِمَن
+  يَشَآءُ وَيَقۡدِرُۚ إِنَّهُۥ بِكُلِّ شَيۡءٍ عَلِيمٞ
 sentence_translation: To Him belong the keys ˹of the treasuries˺ of the heavens and
   the earth. He gives abundant or limited provisions to whoever He wills. Indeed,
   He has ˹perfect˺ knowledge of all things.
 word_by_word:
   1:
-    arabic: لَهٗ
+    arabic: لَهُۥ
     translation: To Him (belongs)
     transliteration: lahu
   2:
-    arabic: مَقَالِيۡدُ
+    arabic: مَقَالِيدُ
     translation: (the) keys
     transliteration: maqālīdu
   3:
-    arabic: السَّمٰوٰتِ
+    arabic: ٱلسَّمَٰوَٰتِ
     translation: (of) the heavens
     transliteration: l-samāwāti
   4:
-    arabic: وَالۡاَرۡضِ​ۚ
+    arabic: وَٱلۡأَرۡضِۖ
     translation: and the earth
     transliteration: wal-arḍi
   5:
@@ -26,23 +26,23 @@ word_by_word:
     translation: He extends
     transliteration: yabsuṭu
   6:
-    arabic: الرِّزۡقَ
+    arabic: ٱلرِّزۡقَ
     translation: the provision
     transliteration: l-riz'qa
   7:
-    arabic: لِمَنۡ
+    arabic: لِمَن
     translation: for whom
     transliteration: liman
   8:
-    arabic: يَّشَآءُ
+    arabic: يَشَآءُ
     translation: He wills
     transliteration: yashāu
   9:
-    arabic: وَيَقۡدِرُ​ؕ
+    arabic: وَيَقۡدِرُۚ
     translation: and restricts
     transliteration: wayaqdiru
   10:
-    arabic: اِنَّهٗ
+    arabic: إِنَّهُۥ
     translation: Indeed, He
     transliteration: innahu
   11:
@@ -50,11 +50,11 @@ word_by_word:
     translation: of every
     transliteration: bikulli
   12:
-    arabic: شَىۡءٍ
+    arabic: شَيۡءٍ
     translation: thing
     transliteration: shayin
   13:
-    arabic: عَلِيۡمٌ‏
+    arabic: عَلِيمٞ
     translation: (is) All-Knower
     transliteration: ʿalīmun
 ---

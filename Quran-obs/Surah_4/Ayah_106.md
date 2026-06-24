@@ -1,22 +1,22 @@
 ---
-arabic_ayat: وَّاسۡتَغۡفِرِ اللّٰهَ​ ؕ اِنَّ اللّٰهَ كَانَ غَفُوۡرًا رَّحِيۡمًا​ ۚ‏
+arabic_ayat: وَٱسۡتَغۡفِرِ ٱللَّهَۖ إِنَّ ٱللَّهَ كَانَ غَفُورٗا رَّحِيمٗا
 sentence_translation: And seek Allah’s forgiveness—indeed, Allah is All-Forgiving,
   Most Merciful.
 word_by_word:
   1:
-    arabic: وَّاسۡتَغۡفِرِ
+    arabic: وَٱسۡتَغۡفِرِ
     translation: And seek forgiveness
     transliteration: wa-is'taghfiri
   2:
-    arabic: اللّٰهَ​ ؕ
+    arabic: ٱللَّهَۖ
     translation: (of) Allah
     transliteration: l-laha
   3:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   4:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   5:
@@ -24,11 +24,11 @@ word_by_word:
     translation: is
     transliteration: kāna
   6:
-    arabic: غَفُوۡرًا
+    arabic: غَفُورٗا
     translation: Oft-Forgiving
     transliteration: ghafūran
   7:
-    arabic: رَّحِيۡمًا​ ۚ‏
+    arabic: رَّحِيمٗا
     translation: Most Merciful
     transliteration: raḥīman
 ---

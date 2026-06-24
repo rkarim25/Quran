@@ -1,17 +1,17 @@
 ---
-arabic_ayat: وَالنَّجۡمِ اِذَا هَوٰىۙ‏
+arabic_ayat: وَٱلنَّجۡمِ إِذَا هَوَىٰ
 sentence_translation: By the stars when they fade away!
 word_by_word:
   1:
-    arabic: وَالنَّجۡمِ
+    arabic: وَٱلنَّجۡمِ
     translation: By the star
     transliteration: wal-najmi
   2:
-    arabic: اِذَا
+    arabic: إِذَا
     translation: when
     transliteration: idhā
   3:
-    arabic: هَوٰىۙ‏
+    arabic: هَوَىٰ
     translation: it goes down
     transliteration: hawā
 ---

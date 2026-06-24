@@ -1,14 +1,14 @@
 ---
-arabic_ayat: خٰلِدِيۡنَ فِيۡهِ​ ؕ وَسَآءَ لَهُمۡ يَوۡمَ الۡقِيٰمَةِ حِمۡلًا ۙ‏
+arabic_ayat: خَٰلِدِينَ فِيهِۖ وَسَآءَ لَهُمۡ يَوۡمَ ٱلۡقِيَٰمَةِ حِمۡلٗا
 sentence_translation: suffering its consequences forever. What an evil burden they
   will carry on Judgment Day!
 word_by_word:
   1:
-    arabic: خٰلِدِيۡنَ
+    arabic: خَٰلِدِينَ
     translation: Abiding forever
     transliteration: khālidīna
   2:
-    arabic: فِيۡهِ​ ؕ
+    arabic: فِيهِۖ
     translation: in it
     transliteration: fīhi
   3:
@@ -24,11 +24,11 @@ word_by_word:
     translation: (on the) Day
     transliteration: yawma
   6:
-    arabic: الۡقِيٰمَةِ
+    arabic: ٱلۡقِيَٰمَةِ
     translation: (of) the Resurrection
     transliteration: l-qiyāmati
   7:
-    arabic: حِمۡلًا ۙ‏
+    arabic: حِمۡلٗا
     translation: (as) a load
     transliteration: ḥim'lan
 ---

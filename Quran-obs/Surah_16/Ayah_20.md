@@ -1,27 +1,27 @@
 ---
-arabic_ayat: وَالَّذِيۡنَ يَدۡعُوۡنَ مِنۡ دُوۡنِ اللّٰهِ لَا يَخۡلُقُوۡنَ شَيۡــًٔا
-  وَّهُمۡ يُخۡلَقُوۡنَؕ‏
+arabic_ayat: وَٱلَّذِينَ يَدۡعُونَ مِن دُونِ ٱللَّهِ لَا يَخۡلُقُونَ شَيۡـٔٗا وَهُمۡ
+  يُخۡلَقُونَ
 sentence_translation: But those ˹idols˺ they invoke besides Allah cannot create anything—they
   themselves are created.
 word_by_word:
   1:
-    arabic: وَالَّذِيۡنَ
+    arabic: وَٱلَّذِينَ
     translation: And those whom
     transliteration: wa-alladhīna
   2:
-    arabic: يَدۡعُوۡنَ
+    arabic: يَدۡعُونَ
     translation: they invoke
     transliteration: yadʿūna
   3:
-    arabic: مِنۡ
+    arabic: مِن
     translation: besides
     transliteration: min
   4:
-    arabic: دُوۡنِ
+    arabic: دُونِ
     translation: besides
     transliteration: dūni
   5:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   6:
@@ -29,19 +29,19 @@ word_by_word:
     translation: not
     transliteration: lā
   7:
-    arabic: يَخۡلُقُوۡنَ
+    arabic: يَخۡلُقُونَ
     translation: they create
     transliteration: yakhluqūna
   8:
-    arabic: شَيۡــًٔا
+    arabic: شَيۡـٔٗا
     translation: anything
     transliteration: shayan
   9:
-    arabic: وَّهُمۡ
+    arabic: وَهُمۡ
     translation: but (are) themselves
     transliteration: wahum
   10:
-    arabic: يُخۡلَقُوۡنَؕ‏
+    arabic: يُخۡلَقُونَ
     translation: created
     transliteration: yukh'laqūna
 ---

@@ -1,13 +1,13 @@
 ---
-arabic_ayat: سُبۡحٰنَ اللّٰهِ عَمَّا يَصِفُوۡنَۙ‏
+arabic_ayat: سُبۡحَٰنَ ٱللَّهِ عَمَّا يَصِفُونَ
 sentence_translation: Glorified is Allah far above what they claim!
 word_by_word:
   1:
-    arabic: سُبۡحٰنَ
+    arabic: سُبۡحَٰنَ
     translation: Glory be
     transliteration: sub'ḥāna
   2:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (to) Allah
     transliteration: l-lahi
   3:
@@ -15,7 +15,7 @@ word_by_word:
     translation: above what
     transliteration: ʿammā
   4:
-    arabic: يَصِفُوۡنَۙ‏
+    arabic: يَصِفُونَ
     translation: they attribute
     transliteration: yaṣifūna
 ---

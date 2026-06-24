@@ -1,15 +1,15 @@
 ---
-arabic_ayat: وَلَٮِٕنۡ سَاَلۡتَهُمۡ مَّنۡ خَلَقَ السَّمٰوٰتِ وَالۡاَرۡضَ لَيَقُوۡلُنَّ
-  خَلَقَهُنَّ الۡعَزِيۡزُ الۡعَلِيۡمُۙ‏
+arabic_ayat: وَلَئِن سَأَلۡتَهُم مَّنۡ خَلَقَ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضَ لَيَقُولُنَّ
+  خَلَقَهُنَّ ٱلۡعَزِيزُ ٱلۡعَلِيمُ
 sentence_translation: If you ask them ˹O Prophet˺ who created the heavens and the
   earth, they will certainly say, “The Almighty, All-Knowing did.”
 word_by_word:
   1:
-    arabic: وَلَٮِٕنۡ
+    arabic: وَلَئِن
     translation: And if
     transliteration: wala-in
   2:
-    arabic: سَاَلۡتَهُمۡ
+    arabic: سَأَلۡتَهُم
     translation: you ask them
     transliteration: sa-altahum
   3:
@@ -21,15 +21,15 @@ word_by_word:
     translation: created
     transliteration: khalaqa
   5:
-    arabic: السَّمٰوٰتِ
+    arabic: ٱلسَّمَٰوَٰتِ
     translation: the heavens
     transliteration: l-samāwāti
   6:
-    arabic: وَالۡاَرۡضَ
+    arabic: وَٱلۡأَرۡضَ
     translation: and the earth
     transliteration: wal-arḍa
   7:
-    arabic: لَيَقُوۡلُنَّ
+    arabic: لَيَقُولُنَّ
     translation: They will surely say
     transliteration: layaqūlunna
   8:
@@ -37,11 +37,11 @@ word_by_word:
     translation: Created them
     transliteration: khalaqahunna
   9:
-    arabic: الۡعَزِيۡزُ
+    arabic: ٱلۡعَزِيزُ
     translation: the All-Mighty
     transliteration: l-ʿazīzu
   10:
-    arabic: الۡعَلِيۡمُۙ‏
+    arabic: ٱلۡعَلِيمُ
     translation: the All-Knower
     transliteration: l-ʿalīmu
 ---

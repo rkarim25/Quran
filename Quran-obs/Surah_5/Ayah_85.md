@@ -1,15 +1,15 @@
 ---
-arabic_ayat: فَاَثَابَهُمُ اللّٰهُ بِمَا قَالُوۡا جَنّٰتٍ تَجۡرِىۡ مِنۡ تَحۡتِهَا
-  الۡاَنۡهٰرُ خٰلِدِيۡنَ فِيۡهَا​ ؕ وَذٰ لِكَ جَزَآءُ الۡمُحۡسِنِيۡنَ‏
+arabic_ayat: فَأَثَٰبَهُمُ ٱللَّهُ بِمَا قَالُواْ جَنَّٰتٖ تَجۡرِي مِن تَحۡتِهَا ٱلۡأَنۡهَٰرُ
+  خَٰلِدِينَ فِيهَاۚ وَذَٰلِكَ جَزَآءُ ٱلۡمُحۡسِنِينَ
 sentence_translation: So Allah will reward them for what they said with Gardens under
   which rivers flow, to stay there forever. And that is the reward of the good-doers.
 word_by_word:
   1:
-    arabic: فَاَثَابَهُمُ
+    arabic: فَأَثَٰبَهُمُ
     translation: So rewarded them
     transliteration: fa-athābahumu
   2:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   3:
@@ -17,19 +17,19 @@ word_by_word:
     translation: for what
     transliteration: bimā
   4:
-    arabic: قَالُوۡا
+    arabic: قَالُواْ
     translation: they said
     transliteration: qālū
   5:
-    arabic: جَنّٰتٍ
+    arabic: جَنَّٰتٖ
     translation: (with) Gardens
     transliteration: jannātin
   6:
-    arabic: تَجۡرِىۡ
+    arabic: تَجۡرِي
     translation: flows
     transliteration: tajrī
   7:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   8:
@@ -37,19 +37,19 @@ word_by_word:
     translation: underneath them
     transliteration: taḥtihā
   9:
-    arabic: الۡاَنۡهٰرُ
+    arabic: ٱلۡأَنۡهَٰرُ
     translation: the rivers
     transliteration: l-anhāru
   10:
-    arabic: خٰلِدِيۡنَ
+    arabic: خَٰلِدِينَ
     translation: will abide forever
     transliteration: khālidīna
   11:
-    arabic: فِيۡهَا​ ؕ
+    arabic: فِيهَاۚ
     translation: in it
     transliteration: fīhā
   12:
-    arabic: وَذٰ لِكَ
+    arabic: وَذَٰلِكَ
     translation: And that
     transliteration: wadhālika
   13:
@@ -57,7 +57,7 @@ word_by_word:
     translation: (is the) reward
     transliteration: jazāu
   14:
-    arabic: الۡمُحۡسِنِيۡنَ‏
+    arabic: ٱلۡمُحۡسِنِينَ
     translation: (of) the good-doers
     transliteration: l-muḥ'sinīna
 ---

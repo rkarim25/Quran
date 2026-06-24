@@ -1,5 +1,5 @@
 ---
-arabic_ayat: غُلِبَتِ الرُّوۡمُۙ‏
+arabic_ayat: غُلِبَتِ ٱلرُّومُ
 sentence_translation: The Romans have been defeated
 word_by_word:
   1:
@@ -7,7 +7,7 @@ word_by_word:
     translation: Have been defeated
     transliteration: ghulibati
   2:
-    arabic: الرُّوۡمُۙ‏
+    arabic: ٱلرُّومُ
     translation: the Romans
     transliteration: l-rūmu
 ---

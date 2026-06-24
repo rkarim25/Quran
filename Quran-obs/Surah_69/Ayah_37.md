@@ -1,5 +1,5 @@
 ---
-arabic_ayat: لَّا يَاۡكُلُهٗۤ اِلَّا الۡخٰطِئُوْنَ‏
+arabic_ayat: لَّا يَأۡكُلُهُۥٓ إِلَّا ٱلۡخَٰطِـُٔونَ
 sentence_translation: which none will eat except the evildoers.”
 word_by_word:
   1:
@@ -7,15 +7,15 @@ word_by_word:
     translation: Not
     transliteration: lā
   2:
-    arabic: يَاۡكُلُهٗۤ
+    arabic: يَأۡكُلُهُۥٓ
     translation: will eat it
     transliteration: yakuluhu
   3:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   4:
-    arabic: الۡخٰطِئُوْنَ‏
+    arabic: ٱلۡخَٰطِـُٔونَ
     translation: the sinners
     transliteration: l-khāṭiūna
 ---

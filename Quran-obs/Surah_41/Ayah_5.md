@@ -1,25 +1,24 @@
 ---
-arabic_ayat: "وَقَالُوۡا قُلُوۡبُنَا فِىۡۤ اَكِنَّةٍ مِّمَّا تَدۡعُوۡنَاۤ اِلَيۡهِ\
-  \ وَفِىۡۤ اٰذَانِنَا وَقۡرٌ وَّمِنۡۢ بَيۡنِنَا وَبَيۡنِكَ حِجَابٌ فَاعۡمَلۡ اِنَّنَا\
-  \ عٰمِلُوۡنَ‏ \uFEFF\uFEFF"
+arabic_ayat: وَقَالُواْ قُلُوبُنَا فِيٓ أَكِنَّةٖ مِّمَّا تَدۡعُونَآ إِلَيۡهِ وَفِيٓ
+  ءَاذَانِنَا وَقۡرٞ وَمِنۢ بَيۡنِنَا وَبَيۡنِكَ حِجَابٞ فَٱعۡمَلۡ إِنَّنَا عَٰمِلُونَ
 sentence_translation: They say, “Our hearts are veiled against what you are calling
   us to, there is deafness in our ears, and there is a barrier between us and you.
   So do ˹whatever you want˺ and so shall we!”
 word_by_word:
   1:
-    arabic: وَقَالُوۡا
+    arabic: وَقَالُواْ
     translation: And they say
     transliteration: waqālū
   2:
-    arabic: قُلُوۡبُنَا
+    arabic: قُلُوبُنَا
     translation: Our hearts
     transliteration: qulūbunā
   3:
-    arabic: فِىۡۤ
+    arabic: فِيٓ
     translation: (are) in
     transliteration: fī
   4:
-    arabic: اَكِنَّةٍ
+    arabic: أَكِنَّةٖ
     translation: coverings
     transliteration: akinnatin
   5:
@@ -27,27 +26,27 @@ word_by_word:
     translation: from what
     transliteration: mimmā
   6:
-    arabic: تَدۡعُوۡنَاۤ
+    arabic: تَدۡعُونَآ
     translation: you call us
     transliteration: tadʿūnā
   7:
-    arabic: اِلَيۡهِ
+    arabic: إِلَيۡهِ
     translation: to it
     transliteration: ilayhi
   8:
-    arabic: وَفِىۡۤ
+    arabic: وَفِيٓ ءَ
     translation: and in
     transliteration: wafī
   9:
-    arabic: اٰذَانِنَا
+    arabic: اذَانِنَا
     translation: our ears
     transliteration: ādhāninā
   10:
-    arabic: وَقۡرٌ
+    arabic: وَقۡرٞ
     translation: (is) deafness
     transliteration: waqrun
   11:
-    arabic: وَّمِنۡۢ
+    arabic: وَمِنۢ
     translation: and between us
     transliteration: wamin
   12:
@@ -59,19 +58,19 @@ word_by_word:
     translation: and between you
     transliteration: wabaynika
   14:
-    arabic: حِجَابٌ
+    arabic: حِجَابٞ
     translation: (is) a screen
     transliteration: ḥijābun
   15:
-    arabic: فَاعۡمَلۡ
+    arabic: فَٱعۡمَلۡ
     translation: So work
     transliteration: fa-iʿ'mal
   16:
-    arabic: اِنَّنَا
+    arabic: إِنَّنَا
     translation: indeed, we
     transliteration: innanā
   17:
-    arabic: "عٰمِلُوۡنَ‏ \uFEFF\uFEFF"
+    arabic: عَٰمِلُونَ
     translation: (are) working
     transliteration: ʿāmilūna
 ---

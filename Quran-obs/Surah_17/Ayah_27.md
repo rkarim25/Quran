@@ -1,27 +1,27 @@
 ---
-arabic_ayat: اِنَّ الۡمُبَذِّرِيۡنَ كَانُوۡۤا اِخۡوَانَ الشَّيٰطِيۡنِ​ ؕ وَكَانَ الشَّيۡطٰنُ
-  لِرَبِّهٖ كَفُوۡرًا‏
+arabic_ayat: إِنَّ ٱلۡمُبَذِّرِينَ كَانُوٓاْ إِخۡوَٰنَ ٱلشَّيَٰطِينِۖ وَكَانَ ٱلشَّيۡطَٰنُ
+  لِرَبِّهِۦ كَفُورٗا
 sentence_translation: Surely the wasteful are ˹like˺ brothers to the devils. And the
   Devil is ever ungrateful to his Lord.
 word_by_word:
   1:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   2:
-    arabic: الۡمُبَذِّرِيۡنَ
+    arabic: ٱلۡمُبَذِّرِينَ
     translation: the spendthrifts
     transliteration: l-mubadhirīna
   3:
-    arabic: كَانُوۡۤا
+    arabic: كَانُوٓاْ
     translation: are
     transliteration: kānū
   4:
-    arabic: اِخۡوَانَ
+    arabic: إِخۡوَٰنَ
     translation: brothers
     transliteration: ikh'wāna
   5:
-    arabic: الشَّيٰطِيۡنِ​ ؕ
+    arabic: ٱلشَّيَٰطِينِۖ
     translation: (of) the devils
     transliteration: l-shayāṭīni
   6:
@@ -29,15 +29,15 @@ word_by_word:
     translation: And is
     transliteration: wakāna
   7:
-    arabic: الشَّيۡطٰنُ
+    arabic: ٱلشَّيۡطَٰنُ
     translation: the Shaitaan
     transliteration: l-shayṭānu
   8:
-    arabic: لِرَبِّهٖ
+    arabic: لِرَبِّهِۦ
     translation: to his Lord
     transliteration: lirabbihi
   9:
-    arabic: كَفُوۡرًا‏
+    arabic: كَفُورٗا
     translation: ungrateful
     transliteration: kafūran
 ---

@@ -1,9 +1,9 @@
 ---
-arabic_ayat: وَّامۡرَاَ تُهٗ ؕ حَمَّالَةَ الۡحَطَبِ​ۚ‏
+arabic_ayat: وَٱمۡرَأَتُهُۥ حَمَّالَةَ ٱلۡحَطَبِ
 sentence_translation: and ˹so will˺ his wife, the carrier of ˹thorny˺ kindling,
 word_by_word:
   1:
-    arabic: وَّامۡرَاَ تُهٗ ؕ
+    arabic: وَٱمۡرَأَتُهُۥ
     translation: And his wife
     transliteration: wa-im'ra-atuhu
   2:
@@ -11,7 +11,7 @@ word_by_word:
     translation: (the) carrier
     transliteration: ḥammālata
   3:
-    arabic: الۡحَطَبِ​ۚ‏
+    arabic: ٱلۡحَطَبِ
     translation: (of) firewood
     transliteration: l-ḥaṭabi
 ---

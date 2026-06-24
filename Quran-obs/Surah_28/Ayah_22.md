@@ -1,11 +1,11 @@
 ---
-arabic_ayat: وَلَـمَّا تَوَجَّهَ تِلۡقَآءَ مَدۡيَنَ قَالَ عَسٰى رَبِّىۡۤ اَنۡ يَّهۡدِيَنِىۡ
-  سَوَآءَ السَّبِيۡلِ‏
+arabic_ayat: وَلَمَّا تَوَجَّهَ تِلۡقَآءَ مَدۡيَنَ قَالَ عَسَىٰ رَبِّيٓ أَن يَهۡدِيَنِي
+  سَوَآءَ ٱلسَّبِيلِ
 sentence_translation: And as he made his way towards Midian, he said, “I trust my
   Lord will guide me to the right way.”
 word_by_word:
   1:
-    arabic: وَلَـمَّا
+    arabic: وَلَمَّا
     translation: And when
     transliteration: walammā
   2:
@@ -25,19 +25,19 @@ word_by_word:
     translation: he said
     transliteration: qāla
   6:
-    arabic: عَسٰى
+    arabic: عَسَىٰ
     translation: Perhaps
     transliteration: ʿasā
   7:
-    arabic: رَبِّىۡۤ
+    arabic: رَبِّيٓ
     translation: my Lord
     transliteration: rabbī
   8:
-    arabic: اَنۡ
+    arabic: أَن
     translation: '[that]'
     transliteration: an
   9:
-    arabic: يَّهۡدِيَنِىۡ
+    arabic: يَهۡدِيَنِي
     translation: will guide me
     transliteration: yahdiyanī
   10:
@@ -45,7 +45,7 @@ word_by_word:
     translation: (to the) sound
     transliteration: sawāa
   11:
-    arabic: السَّبِيۡلِ‏
+    arabic: ٱلسَّبِيلِ
     translation: way
     transliteration: l-sabīli
 ---

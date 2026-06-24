@@ -1,11 +1,11 @@
 ---
-arabic_ayat: قَالُوۡا بَلۡ اَنۡتُمۡ لَا مَرۡحَبًۢـا بِكُمۡ​ؕ اَنۡتُمۡ قَدَّمۡتُمُوۡهُ
-  لَنَا​ۚ فَبِئۡسَ الۡقَرَارُ‏
+arabic_ayat: قَالُواْ بَلۡ أَنتُمۡ لَا مَرۡحَبَۢا بِكُمۡۖ أَنتُمۡ قَدَّمۡتُمُوهُ لَنَاۖ
+  فَبِئۡسَ ٱلۡقَرَارُ
 sentence_translation: The followers will respond, “No! You are not welcome! You brought
   this upon us. What an evil place for settlement!”
 word_by_word:
   1:
-    arabic: قَالُوۡا
+    arabic: قَالُواْ
     translation: They say
     transliteration: qālū
   2:
@@ -13,7 +13,7 @@ word_by_word:
     translation: Nay
     transliteration: bal
   3:
-    arabic: اَنۡتُمۡ
+    arabic: أَنتُمۡ
     translation: 'You '
     transliteration: antum
   4:
@@ -21,23 +21,23 @@ word_by_word:
     translation: 'no'
     transliteration: lā
   5:
-    arabic: مَرۡحَبًۢـا
+    arabic: مَرۡحَبَۢا
     translation: welcome
     transliteration: marḥaban
   6:
-    arabic: بِكُمۡ​ؕ
+    arabic: بِكُمۡۖ
     translation: for you
     transliteration: bikum
   7:
-    arabic: اَنۡتُمۡ
+    arabic: أَنتُمۡ
     translation: You
     transliteration: antum
   8:
-    arabic: قَدَّمۡتُمُوۡهُ
+    arabic: قَدَّمۡتُمُوهُ
     translation: brought this
     transliteration: qaddamtumūhu
   9:
-    arabic: لَنَا​ۚ
+    arabic: لَنَاۖ
     translation: upon us
     transliteration: lanā
   10:
@@ -45,7 +45,7 @@ word_by_word:
     translation: So wretched (is)
     transliteration: fabi'sa
   11:
-    arabic: الۡقَرَارُ‏
+    arabic: ٱلۡقَرَارُ
     translation: the settlement
     transliteration: l-qarāru
 ---

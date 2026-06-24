@@ -1,13 +1,13 @@
 ---
-arabic_ayat: وَالسّٰبِقُوۡنَ السّٰبِقُوۡنَۚ  ۙ‏
+arabic_ayat: وَٱلسَّٰبِقُونَ ٱلسَّٰبِقُونَ
 sentence_translation: and the foremost ˹in faith˺ will be the foremost ˹in Paradise˺.
 word_by_word:
   1:
-    arabic: وَالسّٰبِقُوۡنَ
+    arabic: وَٱلسَّٰبِقُونَ
     translation: And the foremost
     transliteration: wal-sābiqūna
   2:
-    arabic: السّٰبِقُوۡنَۚ  ۙ‏
+    arabic: ٱلسَّٰبِقُونَ
     translation: (are) the foremost
     transliteration: l-sābiqūna
 ---

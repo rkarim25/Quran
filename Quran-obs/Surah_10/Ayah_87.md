@@ -1,33 +1,33 @@
 ---
-arabic_ayat: وَاَوۡحَيۡنَاۤ اِلَىٰ مُوۡسٰى وَاَخِيۡهِ اَنۡ تَبَوَّاٰ لِقَوۡمِكُمَا
-  بِمِصۡرَ بُيُوۡتًا وَّاجۡعَلُوۡا بُيُوۡتَكُمۡ قِبۡلَةً وَّاَقِيۡمُوا الصَّلٰوةَ​
-  ؕ وَبَشِّرِ الۡمُؤۡمِنِيۡنَ‏
+arabic_ayat: وَأَوۡحَيۡنَآ إِلَىٰ مُوسَىٰ وَأَخِيهِ أَن تَبَوَّءَا لِقَوۡمِكُمَا
+  بِمِصۡرَ بُيُوتٗا وَٱجۡعَلُواْ بُيُوتَكُمۡ قِبۡلَةٗ وَأَقِيمُواْ ٱلصَّلَوٰةَۗ وَبَشِّرِ
+  ٱلۡمُؤۡمِنِينَ
 sentence_translation: We revealed to Moses and his brother, “Appoint houses for your
   people in Egypt. Turn these houses into places of worship, establish prayer, and
   give good news to the believers!”
 word_by_word:
   1:
-    arabic: وَاَوۡحَيۡنَاۤ
+    arabic: وَأَوۡحَيۡنَآ
     translation: And We inspired
     transliteration: wa-awḥaynā
   2:
-    arabic: اِلَىٰ
+    arabic: إِلَىٰ
     translation: to
     transliteration: ilā
   3:
-    arabic: مُوۡسٰى
+    arabic: مُوسَىٰ
     translation: Musa
     transliteration: mūsā
   4:
-    arabic: وَاَخِيۡهِ
+    arabic: وَأَخِيهِ
     translation: and his brother
     transliteration: wa-akhīhi
   5:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that
     transliteration: an
   6:
-    arabic: تَبَوَّاٰ
+    arabic: تَبَوَّءَا
     translation: Settle
     transliteration: tabawwaā
   7:
@@ -39,27 +39,27 @@ word_by_word:
     translation: in Egypt
     transliteration: bimiṣ'ra
   9:
-    arabic: بُيُوۡتًا
+    arabic: بُيُوتٗا
     translation: (in) houses
     transliteration: buyūtan
   10:
-    arabic: وَّاجۡعَلُوۡا
+    arabic: وَٱجۡعَلُواْ
     translation: and make
     transliteration: wa-ij'ʿalū
   11:
-    arabic: بُيُوۡتَكُمۡ
+    arabic: بُيُوتَكُمۡ
     translation: your houses
     transliteration: buyūtakum
   12:
-    arabic: قِبۡلَةً
+    arabic: قِبۡلَةٗ
     translation: (as) places of worship
     transliteration: qib'latan
   13:
-    arabic: وَّاَقِيۡمُوا
+    arabic: وَأَقِيمُواْ
     translation: and establish
     transliteration: wa-aqīmū
   14:
-    arabic: الصَّلٰوةَ​ ؕ
+    arabic: ٱلصَّلَوٰةَۗ
     translation: the prayer
     transliteration: l-ṣalata
   15:
@@ -67,7 +67,7 @@ word_by_word:
     translation: And give glad tidings
     transliteration: wabashiri
   16:
-    arabic: الۡمُؤۡمِنِيۡنَ‏
+    arabic: ٱلۡمُؤۡمِنِينَ
     translation: (to) the believers
     transliteration: l-mu'minīna
 ---

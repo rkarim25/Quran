@@ -1,6 +1,6 @@
 ---
-arabic_ayat: فَلَمَّا كَشَفۡنَا عَنۡهُمُ الرِّجۡزَ اِلٰٓى اَجَلٍ هُمۡ بٰلِغُوۡهُ اِذَا
-  هُمۡ يَنۡكُثُوۡنَ‏
+arabic_ayat: فَلَمَّا كَشَفۡنَا عَنۡهُمُ ٱلرِّجۡزَ إِلَىٰٓ أَجَلٍ هُم بَٰلِغُوهُ إِذَا
+  هُمۡ يَنكُثُونَ
 sentence_translation: But as soon as We removed the torment from them—until they met
   their inevitable fate—they broke their promise.
 word_by_word:
@@ -17,27 +17,27 @@ word_by_word:
     translation: from them
     transliteration: ʿanhumu
   4:
-    arabic: الرِّجۡزَ
+    arabic: ٱلرِّجۡزَ
     translation: the punishment
     transliteration: l-rij'za
   5:
-    arabic: اِلٰٓى
+    arabic: إِلَىٰٓ
     translation: till
     transliteration: ilā
   6:
-    arabic: اَجَلٍ
+    arabic: أَجَلٍ
     translation: a (fixed) term
     transliteration: ajalin
   7:
-    arabic: هُمۡ
+    arabic: هُم
     translation: (which) they
     transliteration: hum
   8:
-    arabic: بٰلِغُوۡهُ
+    arabic: بَٰلِغُوهُ
     translation: were to reach [it]
     transliteration: bālighūhu
   9:
-    arabic: اِذَا
+    arabic: إِذَا
     translation: then
     transliteration: idhā
   10:
@@ -45,7 +45,7 @@ word_by_word:
     translation: they
     transliteration: hum
   11:
-    arabic: يَنۡكُثُوۡنَ‏
+    arabic: يَنكُثُونَ
     translation: broke (the word)
     transliteration: yankuthūna
 ---

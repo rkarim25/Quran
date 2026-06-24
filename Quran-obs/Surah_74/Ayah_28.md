@@ -1,5 +1,5 @@
 ---
-arabic_ayat: لَا تُبۡقِىۡ وَ لَا تَذَرُ​ۚ‏
+arabic_ayat: لَا تُبۡقِي وَلَا تَذَرُ
 sentence_translation: It does not let anyone live or die,
 word_by_word:
   1:
@@ -7,7 +7,7 @@ word_by_word:
     translation: Not
     transliteration: lā
   2:
-    arabic: تُبۡقِىۡ
+    arabic: تُبۡقِي
     translation: it lets remain
     transliteration: tub'qī
   3:
@@ -15,7 +15,7 @@ word_by_word:
     translation: and not
     transliteration: walā
   4:
-    arabic: تَذَرُ​ۚ‏
+    arabic: تَذَرُ
     translation: it leaves
     transliteration: tadharu
 ---

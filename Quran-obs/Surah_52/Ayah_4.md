@@ -1,13 +1,13 @@
 ---
-arabic_ayat: وَالۡبَيۡتِ الۡمَعۡمُوۡرِۙ‏
+arabic_ayat: وَٱلۡبَيۡتِ ٱلۡمَعۡمُورِ
 sentence_translation: And by the ˹Sacred˺ House frequently visited!
 word_by_word:
   1:
-    arabic: وَالۡبَيۡتِ
+    arabic: وَٱلۡبَيۡتِ
     translation: By the House
     transliteration: wal-bayti
   2:
-    arabic: الۡمَعۡمُوۡرِۙ‏
+    arabic: ٱلۡمَعۡمُورِ
     translation: frequented
     transliteration: l-maʿmūri
 ---

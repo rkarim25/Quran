@@ -1,6 +1,6 @@
 ---
-arabic_ayat: قَالَتۡ اِحۡدٰٮہُمَا يٰۤاَبَتِ اسْتَاْجِرۡهُ​ اِنَّ خَيۡرَ مَنِ اسۡتَـاْجَرۡتَ
-  الۡقَوِىُّ الۡاَمِيۡنُ‏
+arabic_ayat: قَالَتۡ إِحۡدَىٰهُمَا يَٰٓأَبَتِ ٱسۡتَـٔۡجِرۡهُۖ إِنَّ خَيۡرَ مَنِ ٱسۡتَـٔۡجَرۡتَ
+  ٱلۡقَوِيُّ ٱلۡأَمِينُ
 sentence_translation: One of the two daughters suggested, “O my dear father! Hire
   him. The best man for employment is definitely the strong and trustworthy ˹one˺.”
 word_by_word:
@@ -9,19 +9,19 @@ word_by_word:
     translation: Said
     transliteration: qālat
   2:
-    arabic: اِحۡدٰٮہُمَا
+    arabic: إِحۡدَىٰهُمَا
     translation: one of them
     transliteration: iḥ'dāhumā
   3:
-    arabic: يٰۤاَبَتِ
+    arabic: يَٰٓأَبَتِ
     translation: O my father
     transliteration: yāabati
   4:
-    arabic: اسْتَاْجِرۡهُ​
+    arabic: ٱسۡتَـٔۡجِرۡهُۖ
     translation: Hire him
     transliteration: is'tajir'hu
   5:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   6:
@@ -33,15 +33,15 @@ word_by_word:
     translation: whom
     transliteration: mani
   8:
-    arabic: اسۡتَـاْجَرۡتَ
+    arabic: ٱسۡتَـٔۡجَرۡتَ
     translation: you (can) hire
     transliteration: is'tajarta
   9:
-    arabic: الۡقَوِىُّ
+    arabic: ٱلۡقَوِيُّ
     translation: (is) the strong
     transliteration: l-qawiyu
   10:
-    arabic: الۡاَمِيۡنُ‏
+    arabic: ٱلۡأَمِينُ
     translation: the trustworthy
     transliteration: l-amīnu
 ---

@@ -1,19 +1,19 @@
 ---
-arabic_ayat: يٰبَنِىۡۤ اٰدَمَ لَا يَفۡتِنَـنَّكُمُ الشَّيۡطٰنُ كَمَاۤ اَخۡرَجَ اَبَوَيۡكُمۡ
-  مِّنَ الۡجَـنَّةِ يَنۡزِعُ عَنۡهُمَا لِبَاسَهُمَا لِيُرِيَهُمَا سَوۡءاٰتِهِمَا ؕ
-  اِنَّهٗ يَرٰٮكُمۡ هُوَ وَقَبِيۡلُهٗ مِنۡ حَيۡثُ لَا تَرَوۡنَهُمۡ​ ؕ اِنَّا جَعَلۡنَا
-  الشَّيٰطِيۡنَ اَوۡلِيَآءَ لِلَّذِيۡنَ لَا يُؤۡمِنُوۡنَ‏
+arabic_ayat: يَٰبَنِيٓ ءَادَمَ لَا يَفۡتِنَنَّكُمُ ٱلشَّيۡطَٰنُ كَمَآ أَخۡرَجَ أَبَوَيۡكُم
+  مِّنَ ٱلۡجَنَّةِ يَنزِعُ عَنۡهُمَا لِبَاسَهُمَا لِيُرِيَهُمَا سَوۡءَٰتِهِمَآۚ إِنَّهُۥ
+  يَرَىٰكُمۡ هُوَ وَقَبِيلُهُۥ مِنۡ حَيۡثُ لَا تَرَوۡنَهُمۡۗ إِنَّا جَعَلۡنَا ٱلشَّيَٰطِينَ
+  أَوۡلِيَآءَ لِلَّذِينَ لَا يُؤۡمِنُونَ
 sentence_translation: O children of Adam! Do not let Satan deceive you as he tempted
   your parents out of Paradise and caused their cover to be removed in order to expose
   their nakedness. Surely he and his soldiers watch you from where you cannot see
   them. We have made the devils allies of those who disbelieve.
 word_by_word:
   1:
-    arabic: يٰبَنِىۡۤ
+    arabic: يَٰبَنِيٓ ءَ
     translation: O Children
     transliteration: yābanī
   2:
-    arabic: اٰدَمَ
+    arabic: ادَمَ
     translation: (of) Adam
     transliteration: ādama
   3:
@@ -21,23 +21,23 @@ word_by_word:
     translation: (Let) not
     transliteration: lā
   4:
-    arabic: يَفۡتِنَـنَّكُمُ
+    arabic: يَفۡتِنَنَّكُمُ
     translation: tempt you
     transliteration: yaftinannakumu
   5:
-    arabic: الشَّيۡطٰنُ
+    arabic: ٱلشَّيۡطَٰنُ
     translation: '[the] Shaitaan'
     transliteration: l-shayṭānu
   6:
-    arabic: كَمَاۤ
+    arabic: كَمَآ
     translation: as
     transliteration: kamā
   7:
-    arabic: اَخۡرَجَ
+    arabic: أَخۡرَجَ
     translation: he drove out
     transliteration: akhraja
   8:
-    arabic: اَبَوَيۡكُمۡ
+    arabic: أَبَوَيۡكُم
     translation: your parents
     transliteration: abawaykum
   9:
@@ -45,11 +45,11 @@ word_by_word:
     translation: from
     transliteration: mina
   10:
-    arabic: الۡجَـنَّةِ
+    arabic: ٱلۡجَنَّةِ
     translation: Paradise
     transliteration: l-janati
   11:
-    arabic: يَنۡزِعُ
+    arabic: يَنزِعُ
     translation: stripping
     transliteration: yanziʿu
   12:
@@ -65,15 +65,15 @@ word_by_word:
     translation: to show both of them
     transliteration: liyuriyahumā
   15:
-    arabic: سَوۡءاٰتِهِمَا ؕ
+    arabic: سَوۡءَٰتِهِمَآۚ
     translation: their shame
     transliteration: sawātihimā
   16:
-    arabic: اِنَّهٗ
+    arabic: إِنَّهُۥ
     translation: Indeed, he
     transliteration: innahu
   17:
-    arabic: يَرٰٮكُمۡ
+    arabic: يَرَىٰكُمۡ
     translation: 'sees you '
     transliteration: yarākum
   18:
@@ -81,7 +81,7 @@ word_by_word:
     translation: he
     transliteration: huwa
   19:
-    arabic: وَقَبِيۡلُهٗ
+    arabic: وَقَبِيلُهُۥ
     translation: and his tribe
     transliteration: waqabīluhu
   20:
@@ -97,11 +97,11 @@ word_by_word:
     translation: not
     transliteration: lā
   23:
-    arabic: تَرَوۡنَهُمۡ​ ؕ
+    arabic: تَرَوۡنَهُمۡۗ
     translation: you see them
     transliteration: tarawnahum
   24:
-    arabic: اِنَّا
+    arabic: إِنَّا
     translation: Indeed
     transliteration: innā
   25:
@@ -109,15 +109,15 @@ word_by_word:
     translation: We have made
     transliteration: jaʿalnā
   26:
-    arabic: الشَّيٰطِيۡنَ
+    arabic: ٱلشَّيَٰطِينَ
     translation: the devils
     transliteration: l-shayāṭīna
   27:
-    arabic: اَوۡلِيَآءَ
+    arabic: أَوۡلِيَآءَ
     translation: friends
     transliteration: awliyāa
   28:
-    arabic: لِلَّذِيۡنَ
+    arabic: لِلَّذِينَ
     translation: of those who
     transliteration: lilladhīna
   29:
@@ -125,7 +125,7 @@ word_by_word:
     translation: (do) not
     transliteration: lā
   30:
-    arabic: يُؤۡمِنُوۡنَ‏
+    arabic: يُؤۡمِنُونَ
     translation: believe
     transliteration: yu'minūna
 ---

@@ -1,6 +1,6 @@
 ---
-arabic_ayat: بَلۡ كَذَّبُوۡا بِالسَّاعَةِ​ وَاَعۡتَدۡنَا لِمَنۡ كَذَّبَ بِالسَّاعَةِ
-  سَعِيۡرًا​ ۚ‏
+arabic_ayat: بَلۡ كَذَّبُواْ بِٱلسَّاعَةِۖ وَأَعۡتَدۡنَا لِمَن كَذَّبَ بِٱلسَّاعَةِ
+  سَعِيرًا
 sentence_translation: In fact, they deny the Hour. And for the deniers of the Hour,
   We have prepared a blazing Fire.
 word_by_word:
@@ -9,19 +9,19 @@ word_by_word:
     translation: Nay
     transliteration: bal
   2:
-    arabic: كَذَّبُوۡا
+    arabic: كَذَّبُواْ
     translation: they deny
     transliteration: kadhabū
   3:
-    arabic: بِالسَّاعَةِ​
+    arabic: بِٱلسَّاعَةِۖ
     translation: the Hour
     transliteration: bil-sāʿati
   4:
-    arabic: وَاَعۡتَدۡنَا
+    arabic: وَأَعۡتَدۡنَا
     translation: and We have prepared
     transliteration: wa-aʿtadnā
   5:
-    arabic: لِمَنۡ
+    arabic: لِمَن
     translation: for (those) who
     transliteration: liman
   6:
@@ -29,11 +29,11 @@ word_by_word:
     translation: deny
     transliteration: kadhaba
   7:
-    arabic: بِالسَّاعَةِ
+    arabic: بِٱلسَّاعَةِ
     translation: the Hour
     transliteration: bil-sāʿati
   8:
-    arabic: سَعِيۡرًا​ ۚ‏
+    arabic: سَعِيرًا
     translation: a Blazing Fire
     transliteration: saʿīran
 ---

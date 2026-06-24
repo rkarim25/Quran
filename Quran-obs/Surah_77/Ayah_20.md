@@ -1,25 +1,25 @@
 ---
-arabic_ayat: اَلَمۡ نَخۡلُقۡكُّمۡ مِّنۡ مَّآءٍ مَّهِيۡنٍۙ‏
+arabic_ayat: أَلَمۡ نَخۡلُقكُّم مِّن مَّآءٖ مَّهِينٖ
 sentence_translation: Did We not create you from a humble fluid,
 word_by_word:
   1:
-    arabic: اَلَمۡ
+    arabic: أَلَمۡ
     translation: Did not
     transliteration: alam
   2:
-    arabic: نَخۡلُقۡكُّمۡ
+    arabic: نَخۡلُقكُّم
     translation: We create you
     transliteration: nakhluqkkum
   3:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: from
     transliteration: min
   4:
-    arabic: مَّآءٍ
+    arabic: مَّآءٖ
     translation: a water
     transliteration: māin
   5:
-    arabic: مَّهِيۡنٍۙ‏
+    arabic: مَّهِينٖ
     translation: despicable
     transliteration: mahīnin
 ---

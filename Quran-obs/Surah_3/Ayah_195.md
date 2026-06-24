@@ -1,10 +1,9 @@
 ---
-arabic_ayat: فَاسۡتَجَابَ لَهُمۡ رَبُّهُمۡ اَنِّىۡ لَاۤ اُضِيۡعُ عَمَلَ عَامِلٍ مِّنۡكُمۡ
-  مِّنۡ ذَكَرٍ اَوۡ اُنۡثٰى​​ۚ بَعۡضُكُمۡ مِّنۡۢ بَعۡضٍ​​ۚ فَالَّذِيۡنَ هَاجَرُوۡا
-  وَاُخۡرِجُوۡا مِنۡ دِيَارِهِمۡ وَاُوۡذُوۡا فِىۡ سَبِيۡلِىۡ وَقٰتَلُوۡا وَقُتِلُوۡا
-  لَاُكَفِّرَنَّ عَنۡهُمۡ سَيِّاٰتِهِمۡ وَلَاُدۡخِلَنَّهُمۡ جَنّٰتٍ تَجۡرِىۡ مِنۡ
-  تَحۡتِهَا الۡاَنۡهٰرُ​ۚ ثَوَابًا مِّنۡ عِنۡدِ اللّٰهِ ​ؕ وَ اللّٰهُ عِنۡدَهٗ حُسۡنُ
-  الثَّوَابِ‏
+arabic_ayat: فَٱسۡتَجَابَ لَهُمۡ رَبُّهُمۡ أَنِّي لَآ أُضِيعُ عَمَلَ عَٰمِلٖ مِّنكُم
+  مِّن ذَكَرٍ أَوۡ أُنثَىٰۖ بَعۡضُكُم مِّنۢ بَعۡضٖۖ فَٱلَّذِينَ هَاجَرُواْ وَأُخۡرِجُواْ
+  مِن دِيَٰرِهِمۡ وَأُوذُواْ فِي سَبِيلِي وَقَٰتَلُواْ وَقُتِلُواْ لَأُكَفِّرَنَّ
+  عَنۡهُمۡ سَيِّـَٔاتِهِمۡ وَلَأُدۡخِلَنَّهُمۡ جَنَّٰتٖ تَجۡرِي مِن تَحۡتِهَا ٱلۡأَنۡهَٰرُ
+  ثَوَابٗا مِّنۡ عِندِ ٱللَّهِۚ وَٱللَّهُ عِندَهُۥ حُسۡنُ ٱلثَّوَابِ
 sentence_translation: 'So their Lord responded to them: “I will never deny any of
   you—male or female—the reward of your deeds. Both are equal in reward. Those who
   migrated or were expelled from their homes, and were persecuted for My sake and
@@ -13,7 +12,7 @@ sentence_translation: 'So their Lord responded to them: “I will never deny any
   the finest reward!”'
 word_by_word:
   1:
-    arabic: فَاسۡتَجَابَ
+    arabic: فَٱسۡتَجَابَ
     translation: Then responded
     transliteration: fa-is'tajāba
   2:
@@ -25,15 +24,15 @@ word_by_word:
     translation: their Lord
     transliteration: rabbuhum
   4:
-    arabic: اَنِّىۡ
+    arabic: أَنِّي
     translation: Indeed, I
     transliteration: annī
   5:
-    arabic: لَاۤ
+    arabic: لَآ
     translation: (will) not
     transliteration: lā
   6:
-    arabic: اُضِيۡعُ
+    arabic: أُضِيعُ
     translation: (let go) waste
     transliteration: uḍīʿu
   7:
@@ -41,15 +40,15 @@ word_by_word:
     translation: deeds
     transliteration: ʿamala
   8:
-    arabic: عَامِلٍ
+    arabic: عَٰمِلٖ
     translation: (of the) doer
     transliteration: ʿāmilin
   9:
-    arabic: مِّنۡكُمۡ
+    arabic: مِّنكُم
     translation: among you
     transliteration: minkum
   10:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: '[from]'
     transliteration: min
   11:
@@ -57,67 +56,67 @@ word_by_word:
     translation: (whether) male
     transliteration: dhakarin
   12:
-    arabic: اَوۡ
+    arabic: أَوۡ
     translation: or
     transliteration: aw
   13:
-    arabic: اُنۡثٰى​​ۚ
+    arabic: أُنثَىٰۖ
     translation: female
     transliteration: unthā
   14:
-    arabic: بَعۡضُكُمۡ
+    arabic: بَعۡضُكُم
     translation: each of you
     transliteration: baʿḍukum
   15:
-    arabic: مِّنۡۢ
+    arabic: مِّنۢ
     translation: from
     transliteration: min
   16:
-    arabic: بَعۡضٍ​​ۚ
+    arabic: بَعۡضٖۖ
     translation: (the) other
     transliteration: baʿḍin
   17:
-    arabic: فَالَّذِيۡنَ
+    arabic: فَٱلَّذِينَ
     translation: So those who
     transliteration: fa-alladhīna
   18:
-    arabic: هَاجَرُوۡا
+    arabic: هَاجَرُواْ
     translation: emigrated
     transliteration: hājarū
   19:
-    arabic: وَاُخۡرِجُوۡا
+    arabic: وَأُخۡرِجُواْ
     translation: and were driven out
     transliteration: wa-ukh'rijū
   20:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   21:
-    arabic: دِيَارِهِمۡ
+    arabic: دِيَٰرِهِمۡ
     translation: their homes
     transliteration: diyārihim
   22:
-    arabic: وَاُوۡذُوۡا
+    arabic: وَأُوذُواْ
     translation: and were harmed
     transliteration: waūdhū
   23:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   24:
-    arabic: سَبِيۡلِىۡ
+    arabic: سَبِيلِي
     translation: My way
     transliteration: sabīlī
   25:
-    arabic: وَقٰتَلُوۡا
+    arabic: وَقَٰتَلُواْ
     translation: and fought
     transliteration: waqātalū
   26:
-    arabic: وَقُتِلُوۡا
+    arabic: وَقُتِلُواْ
     translation: 'and were killed '
     transliteration: waqutilū
   27:
-    arabic: لَاُكَفِّرَنَّ
+    arabic: لَأُكَفِّرَنَّ
     translation: surely I (will) remove
     transliteration: la-ukaffiranna
   28:
@@ -125,23 +124,23 @@ word_by_word:
     translation: from them
     transliteration: ʿanhum
   29:
-    arabic: سَيِّاٰتِهِمۡ
+    arabic: سَيِّـَٔاتِهِمۡ
     translation: their evil deeds
     transliteration: sayyiātihim
   30:
-    arabic: وَلَاُدۡخِلَنَّهُمۡ
+    arabic: وَلَأُدۡخِلَنَّهُمۡ
     translation: and surely I will admit them
     transliteration: wala-ud'khilannahum
   31:
-    arabic: جَنّٰتٍ
+    arabic: جَنَّٰتٖ
     translation: (to) Gardens
     transliteration: jannātin
   32:
-    arabic: تَجۡرِىۡ
+    arabic: تَجۡرِي
     translation: flowing
     transliteration: tajrī
   33:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   34:
@@ -149,11 +148,11 @@ word_by_word:
     translation: underneath them
     transliteration: taḥtihā
   35:
-    arabic: الۡاَنۡهٰرُ​ۚ
+    arabic: ٱلۡأَنۡهَٰرُ
     translation: 'the rivers '
     transliteration: l-anhāru
   36:
-    arabic: ثَوَابًا
+    arabic: ثَوَابٗا
     translation: a reward
     transliteration: thawāban
   37:
@@ -161,19 +160,19 @@ word_by_word:
     translation: from
     transliteration: min
   38:
-    arabic: عِنۡدِ
+    arabic: عِندِ
     translation: '[near]'
     transliteration: ʿindi
   39:
-    arabic: اللّٰهِ ​ؕ
+    arabic: ٱللَّهِۚ
     translation: Allah
     transliteration: l-lahi
   40:
-    arabic: وَ اللّٰهُ
+    arabic: وَٱللَّهُ
     translation: 'And Allah '
     transliteration: wal-lahu
   41:
-    arabic: عِنۡدَهٗ
+    arabic: عِندَهُۥ
     translation: with Him
     transliteration: ʿindahu
   42:
@@ -181,7 +180,7 @@ word_by_word:
     translation: (is the) best
     transliteration: ḥus'nu
   43:
-    arabic: الثَّوَابِ‏
+    arabic: ٱلثَّوَابِ
     translation: reward
     transliteration: l-thawābi
 ---

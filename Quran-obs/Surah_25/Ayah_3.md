@@ -1,25 +1,25 @@
 ---
-arabic_ayat: وَاتَّخَذُوۡا مِنۡ دُوۡنِهٖۤ اٰلِهَةً لَّا يَخۡلُقُوۡنَ شَيۡـًٔـا وَّهُمۡ
-  يُخۡلَقُوۡنَ وَلَا يَمۡلِكُوۡنَ لِاَنۡفُسِهِمۡ ضَرًّا وَّلَا نَفۡعًا وَّلَا يَمۡلِكُوۡنَ
-  مَوۡتًا وَّلَا حَيٰوةً وَّلَا نُشُوۡرًا‏
+arabic_ayat: وَٱتَّخَذُواْ مِن دُونِهِۦٓ ءَالِهَةٗ لَّا يَخۡلُقُونَ شَيۡـٔٗا وَهُمۡ
+  يُخۡلَقُونَ وَلَا يَمۡلِكُونَ لِأَنفُسِهِمۡ ضَرّٗا وَلَا نَفۡعٗا وَلَا يَمۡلِكُونَ
+  مَوۡتٗا وَلَا حَيَوٰةٗ وَلَا نُشُورٗا
 sentence_translation: Yet they have taken besides Him gods who cannot create anything
   but are themselves created. Nor can they protect or benefit themselves. Nor can
   they control life, death, or resurrection.
 word_by_word:
   1:
-    arabic: وَاتَّخَذُوۡا
+    arabic: وَٱتَّخَذُواْ
     translation: Yet they have taken
     transliteration: wa-ittakhadhū
   2:
-    arabic: مِنۡ
+    arabic: مِن
     translation: besides Him
     transliteration: min
   3:
-    arabic: دُوۡنِهٖۤ
+    arabic: دُونِهِۦٓ ءَ
     translation: besides Him
     transliteration: dūnihi
   4:
-    arabic: اٰلِهَةً
+    arabic: الِهَةٗ
     translation: gods
     transliteration: ālihatan
   5:
@@ -27,19 +27,19 @@ word_by_word:
     translation: not
     transliteration: lā
   6:
-    arabic: يَخۡلُقُوۡنَ
+    arabic: يَخۡلُقُونَ
     translation: they create
     transliteration: yakhluqūna
   7:
-    arabic: شَيۡـًٔـا
+    arabic: شَيۡـٔٗا
     translation: anything
     transliteration: shayan
   8:
-    arabic: وَّهُمۡ
+    arabic: وَهُمۡ
     translation: while they
     transliteration: wahum
   9:
-    arabic: يُخۡلَقُوۡنَ
+    arabic: يُخۡلَقُونَ
     translation: are created
     transliteration: yukh'laqūna
   10:
@@ -47,51 +47,51 @@ word_by_word:
     translation: and not
     transliteration: walā
   11:
-    arabic: يَمۡلِكُوۡنَ
+    arabic: يَمۡلِكُونَ
     translation: they possess
     transliteration: yamlikūna
   12:
-    arabic: لِاَنۡفُسِهِمۡ
+    arabic: لِأَنفُسِهِمۡ
     translation: for themselves
     transliteration: li-anfusihim
   13:
-    arabic: ضَرًّا
+    arabic: ضَرّٗا
     translation: any harm
     transliteration: ḍarran
   14:
-    arabic: وَّلَا
+    arabic: وَلَا
     translation: and not
     transliteration: walā
   15:
-    arabic: نَفۡعًا
+    arabic: نَفۡعٗا
     translation: any benefit
     transliteration: nafʿan
   16:
-    arabic: وَّلَا
+    arabic: وَلَا
     translation: and not
     transliteration: walā
   17:
-    arabic: يَمۡلِكُوۡنَ
+    arabic: يَمۡلِكُونَ
     translation: they control
     transliteration: yamlikūna
   18:
-    arabic: مَوۡتًا
+    arabic: مَوۡتٗا
     translation: death
     transliteration: mawtan
   19:
-    arabic: وَّلَا
+    arabic: وَلَا
     translation: and not
     transliteration: walā
   20:
-    arabic: حَيٰوةً
+    arabic: حَيَوٰةٗ
     translation: life
     transliteration: ḥayatan
   21:
-    arabic: وَّلَا
+    arabic: وَلَا
     translation: and not
     transliteration: walā
   22:
-    arabic: نُشُوۡرًا‏
+    arabic: نُشُورٗا
     translation: resurrection
     transliteration: nushūran
 ---

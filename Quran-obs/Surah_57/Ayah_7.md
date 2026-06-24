@@ -1,24 +1,24 @@
 ---
-arabic_ayat: اٰمِنُوۡا بِاللّٰهِ وَرَسُوۡلِهٖ وَاَنۡفِقُوۡا مِمَّا جَعَلَـكُمۡ مُّسۡتَخۡلَفِيۡنَ
-  فِيۡهِ​ؕ فَالَّذِيۡنَ اٰمَنُوۡا مِنۡكُمۡ وَاَنۡفَقُوۡا لَهُمۡ اَجۡرٌ كَبِيۡرٌ‏
+arabic_ayat: ءَامِنُواْ بِٱللَّهِ وَرَسُولِهِۦ وَأَنفِقُواْ مِمَّا جَعَلَكُم مُّسۡتَخۡلَفِينَ
+  فِيهِۖ فَٱلَّذِينَ ءَامَنُواْ مِنكُمۡ وَأَنفَقُواْ لَهُمۡ أَجۡرٞ كَبِيرٞ
 sentence_translation: Believe in Allah and His Messenger, and donate from what He
   has entrusted you with. So those of you who believe and donate will have a mighty
   reward.
 word_by_word:
   1:
-    arabic: اٰمِنُوۡا
+    arabic: ءَامِنُواْ
     translation: Believe
     transliteration: āminū
   2:
-    arabic: بِاللّٰهِ
+    arabic: بِٱللَّهِ
     translation: in Allah
     transliteration: bil-lahi
   3:
-    arabic: وَرَسُوۡلِهٖ
+    arabic: وَرَسُولِهِۦ
     translation: and His Messenger
     transliteration: warasūlihi
   4:
-    arabic: وَاَنۡفِقُوۡا
+    arabic: وَأَنفِقُواْ
     translation: and spend
     transliteration: wa-anfiqū
   5:
@@ -26,31 +26,31 @@ word_by_word:
     translation: of what
     transliteration: mimmā
   6:
-    arabic: جَعَلَـكُمۡ
+    arabic: جَعَلَكُم
     translation: He has made you
     transliteration: jaʿalakum
   7:
-    arabic: مُّسۡتَخۡلَفِيۡنَ
+    arabic: مُّسۡتَخۡلَفِينَ
     translation: trustees
     transliteration: mus'takhlafīna
   8:
-    arabic: فِيۡهِ​ؕ
+    arabic: فِيهِۖ
     translation: therein
     transliteration: fīhi
   9:
-    arabic: فَالَّذِيۡنَ
+    arabic: فَٱلَّذِينَ ءَ
     translation: And those
     transliteration: fa-alladhīna
   10:
-    arabic: اٰمَنُوۡا
+    arabic: امَنُواْ
     translation: who believe
     transliteration: āmanū
   11:
-    arabic: مِنۡكُمۡ
+    arabic: مِنكُمۡ
     translation: among you
     transliteration: minkum
   12:
-    arabic: وَاَنۡفَقُوۡا
+    arabic: وَأَنفَقُواْ
     translation: and spend
     transliteration: wa-anfaqū
   13:
@@ -58,11 +58,11 @@ word_by_word:
     translation: for them
     transliteration: lahum
   14:
-    arabic: اَجۡرٌ
+    arabic: أَجۡرٞ
     translation: (is) a reward
     transliteration: ajrun
   15:
-    arabic: كَبِيۡرٌ‏
+    arabic: كَبِيرٞ
     translation: great
     transliteration: kabīrun
 ---

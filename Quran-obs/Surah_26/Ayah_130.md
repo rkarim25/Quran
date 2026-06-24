@@ -1,13 +1,13 @@
 ---
-arabic_ayat: وَاِذَا بَطَشۡتُمۡ بَطَشۡتُمۡ جَبَّارِيۡنَ​ۚ‏
+arabic_ayat: وَإِذَا بَطَشۡتُم بَطَشۡتُمۡ جَبَّارِينَ
 sentence_translation: and act so viciously when you attack ˹others˺?
 word_by_word:
   1:
-    arabic: وَاِذَا
+    arabic: وَإِذَا
     translation: And when
     transliteration: wa-idhā
   2:
-    arabic: بَطَشۡتُمۡ
+    arabic: بَطَشۡتُم
     translation: you seize
     transliteration: baṭashtum
   3:
@@ -15,7 +15,7 @@ word_by_word:
     translation: you seize
     transliteration: baṭashtum
   4:
-    arabic: جَبَّارِيۡنَ​ۚ‏
+    arabic: جَبَّارِينَ
     translation: (as) tyrants
     transliteration: jabbārīna
 ---

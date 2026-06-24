@@ -1,6 +1,5 @@
 ---
-arabic_ayat: "وَلَقَدۡ اَضَلَّ مِنۡكُمۡ جِبِلًّا كَثِيۡرًا​ ؕ اَفَلَمۡ تَكُوۡنُوۡا\
-  \ تَعۡقِلُوۡنَ‏ \uFEFF\uFEFF"
+arabic_ayat: وَلَقَدۡ أَضَلَّ مِنكُمۡ جِبِلّٗا كَثِيرًاۖ أَفَلَمۡ تَكُونُواْ تَعۡقِلُونَ
 sentence_translation: Yet he already misled great multitudes of you. Did you not have
   any sense?
 word_by_word:
@@ -9,31 +8,31 @@ word_by_word:
     translation: And indeed
     transliteration: walaqad
   2:
-    arabic: اَضَلَّ
+    arabic: أَضَلَّ
     translation: he led astray
     transliteration: aḍalla
   3:
-    arabic: مِنۡكُمۡ
+    arabic: مِنكُمۡ
     translation: from you
     transliteration: minkum
   4:
-    arabic: جِبِلًّا
+    arabic: جِبِلّٗا
     translation: a multitude
     transliteration: jibillan
   5:
-    arabic: كَثِيۡرًا​ ؕ
+    arabic: كَثِيرًاۖ
     translation: great
     transliteration: kathīran
   6:
-    arabic: اَفَلَمۡ
+    arabic: أَفَلَمۡ
     translation: Then did not
     transliteration: afalam
   7:
-    arabic: تَكُوۡنُوۡا
+    arabic: تَكُونُواْ
     translation: you
     transliteration: takūnū
   8:
-    arabic: "تَعۡقِلُوۡنَ‏ \uFEFF\uFEFF"
+    arabic: تَعۡقِلُونَ
     translation: use reason
     transliteration: taʿqilūna
 ---

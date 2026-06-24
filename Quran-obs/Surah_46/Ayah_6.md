@@ -1,11 +1,11 @@
 ---
-arabic_ayat: وَاِذَا حُشِرَ النَّاسُ كَانُوۡا لَهُمۡ اَعۡدَآءً وَّ كَانُوۡا بِعِبَادَتِهِمۡ
-  كٰفِرِيۡنَ‏
+arabic_ayat: وَإِذَا حُشِرَ ٱلنَّاسُ كَانُواْ لَهُمۡ أَعۡدَآءٗ وَكَانُواْ بِعِبَادَتِهِمۡ
+  كَٰفِرِينَ
 sentence_translation: And when ˹such˺ people will be gathered together, those ˹gods˺
   will be their enemies and will disown their worship.
 word_by_word:
   1:
-    arabic: وَاِذَا
+    arabic: وَإِذَا
     translation: And when
     transliteration: wa-idhā
   2:
@@ -13,11 +13,11 @@ word_by_word:
     translation: are gathered
     transliteration: ḥushira
   3:
-    arabic: النَّاسُ
+    arabic: ٱلنَّاسُ
     translation: the people
     transliteration: l-nāsu
   4:
-    arabic: كَانُوۡا
+    arabic: كَانُواْ
     translation: they will be
     transliteration: kānū
   5:
@@ -25,11 +25,11 @@ word_by_word:
     translation: for them
     transliteration: lahum
   6:
-    arabic: اَعۡدَآءً
+    arabic: أَعۡدَآءٗ
     translation: enemies
     transliteration: aʿdāan
   7:
-    arabic: وَّ كَانُوۡا
+    arabic: وَكَانُواْ
     translation: and they will be
     transliteration: wakānū
   8:
@@ -37,7 +37,7 @@ word_by_word:
     translation: of their worship
     transliteration: biʿibādatihim
   9:
-    arabic: كٰفِرِيۡنَ‏
+    arabic: كَٰفِرِينَ
     translation: deniers
     transliteration: kāfirīna
 ---

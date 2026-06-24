@@ -1,21 +1,21 @@
 ---
-arabic_ayat: وَالَّذِيۡنَ يَرۡمُوۡنَ اَزۡوَاجَهُمۡ وَلَمۡ يَكُنۡ لَّهُمۡ شُهَدَآءُ
-  اِلَّاۤ اَنۡفُسُهُمۡ فَشَهَادَةُ اَحَدِهِمۡ اَرۡبَعُ شَهٰدٰتٍۭ بِاللّٰهِ​ۙ اِنَّهٗ
-  لَمِنَ الصّٰدِقِيۡنَ‏
+arabic_ayat: وَٱلَّذِينَ يَرۡمُونَ أَزۡوَٰجَهُمۡ وَلَمۡ يَكُن لَّهُمۡ شُهَدَآءُ إِلَّآ
+  أَنفُسُهُمۡ فَشَهَٰدَةُ أَحَدِهِمۡ أَرۡبَعُ شَهَٰدَٰتِۭ بِٱللَّهِ إِنَّهُۥ لَمِنَ
+  ٱلصَّٰدِقِينَ
 sentence_translation: And those who accuse their wives ˹of adultery˺ but have no witness
   except themselves, the accuser must testify, swearing four times by Allah that he
   is telling the truth,
 word_by_word:
   1:
-    arabic: وَالَّذِيۡنَ
+    arabic: وَٱلَّذِينَ
     translation: And those who
     transliteration: wa-alladhīna
   2:
-    arabic: يَرۡمُوۡنَ
+    arabic: يَرۡمُونَ
     translation: accuse
     transliteration: yarmūna
   3:
-    arabic: اَزۡوَاجَهُمۡ
+    arabic: أَزۡوَٰجَهُمۡ
     translation: their spouses
     transliteration: azwājahum
   4:
@@ -23,7 +23,7 @@ word_by_word:
     translation: and not
     transliteration: walam
   5:
-    arabic: يَكُنۡ
+    arabic: يَكُن
     translation: have
     transliteration: yakun
   6:
@@ -35,35 +35,35 @@ word_by_word:
     translation: witnesses
     transliteration: shuhadāu
   8:
-    arabic: اِلَّاۤ
+    arabic: إِلَّآ
     translation: except
     transliteration: illā
   9:
-    arabic: اَنۡفُسُهُمۡ
+    arabic: أَنفُسُهُمۡ
     translation: themselves
     transliteration: anfusuhum
   10:
-    arabic: فَشَهَادَةُ
+    arabic: فَشَهَٰدَةُ
     translation: then (the) testimony
     transliteration: fashahādatu
   11:
-    arabic: اَحَدِهِمۡ
+    arabic: أَحَدِهِمۡ
     translation: (of) one of them
     transliteration: aḥadihim
   12:
-    arabic: اَرۡبَعُ
+    arabic: أَرۡبَعُ
     translation: (is) four
     transliteration: arbaʿu
   13:
-    arabic: شَهٰدٰتٍۭ
+    arabic: شَهَٰدَٰتِۭ
     translation: testimonies
     transliteration: shahādātin
   14:
-    arabic: بِاللّٰهِ​ۙ
+    arabic: بِٱللَّهِ
     translation: by Allah
     transliteration: bil-lahi
   15:
-    arabic: اِنَّهٗ
+    arabic: إِنَّهُۥ
     translation: that he
     transliteration: innahu
   16:
@@ -71,7 +71,7 @@ word_by_word:
     translation: (is) surely of
     transliteration: lamina
   17:
-    arabic: الصّٰدِقِيۡنَ‏
+    arabic: ٱلصَّٰدِقِينَ
     translation: the truthful
     transliteration: l-ṣādiqīna
 ---

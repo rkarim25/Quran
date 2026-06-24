@@ -1,6 +1,6 @@
 ---
-arabic_ayat: فَقَدۡ كَذَّبُوۡكُمۡ بِمَا تَقُوۡلُوۡنَۙ فَمَا تَسۡتَطِيۡعُوۡنَ صَرۡفًا
-  وَّلَا نَـصۡرًا​ۚ وَمَنۡ يَّظۡلِمۡ مِّنۡكُمۡ نُذِقۡهُ عَذَابًا كَبِيۡرًا‏
+arabic_ayat: فَقَدۡ كَذَّبُوكُم بِمَا تَقُولُونَ فَمَا تَسۡتَطِيعُونَ صَرۡفٗا وَلَا
+  نَصۡرٗاۚ وَمَن يَظۡلِم مِّنكُمۡ نُذِقۡهُ عَذَابٗا كَبِيرٗا
 sentence_translation: ˹The doomed will be told˺, “Your gods have clearly denied your
   claims. So now you can neither ward off ˹the punishment˺ nor get any help.” And
   whoever of you does wrong, We will make them taste a horrible punishment.
@@ -10,7 +10,7 @@ word_by_word:
     translation: So verily
     transliteration: faqad
   2:
-    arabic: كَذَّبُوۡكُمۡ
+    arabic: كَذَّبُوكُم
     translation: they deny you
     transliteration: kadhabūkum
   3:
@@ -18,7 +18,7 @@ word_by_word:
     translation: in what
     transliteration: bimā
   4:
-    arabic: تَقُوۡلُوۡنَۙ
+    arabic: تَقُولُونَ
     translation: you say
     transliteration: taqūlūna
   5:
@@ -26,31 +26,31 @@ word_by_word:
     translation: so not
     transliteration: famā
   6:
-    arabic: تَسۡتَطِيۡعُوۡنَ
+    arabic: تَسۡتَطِيعُونَ
     translation: you are able
     transliteration: tastaṭīʿūna
   7:
-    arabic: صَرۡفًا
+    arabic: صَرۡفٗا
     translation: (to) avert
     transliteration: ṣarfan
   8:
-    arabic: وَّلَا
+    arabic: وَلَا
     translation: and not
     transliteration: walā
   9:
-    arabic: نَـصۡرًا​ۚ
+    arabic: نَصۡرٗاۚ
     translation: (to) help
     transliteration: naṣran
   10:
-    arabic: وَمَنۡ
+    arabic: وَمَن
     translation: And whoever
     transliteration: waman
   11:
-    arabic: يَّظۡلِمۡ
+    arabic: يَظۡلِم
     translation: does wrong
     transliteration: yaẓlim
   12:
-    arabic: مِّنۡكُمۡ
+    arabic: مِّنكُمۡ
     translation: among you
     transliteration: minkum
   13:
@@ -58,11 +58,11 @@ word_by_word:
     translation: We will make him taste
     transliteration: nudhiq'hu
   14:
-    arabic: عَذَابًا
+    arabic: عَذَابٗا
     translation: a punishment
     transliteration: ʿadhāban
   15:
-    arabic: كَبِيۡرًا‏
+    arabic: كَبِيرٗا
     translation: great
     transliteration: kabīran
 ---

@@ -1,11 +1,11 @@
 ---
-arabic_ayat: اَلَمۡ تَرَ اَنَّاۤ اَرۡسَلۡنَا الشَّيٰـطِيۡنَ عَلَى الۡكٰفِرِيۡنَ تَؤُزُّهُمۡ
-  اَزًّا ۙ‏
+arabic_ayat: أَلَمۡ تَرَ أَنَّآ أَرۡسَلۡنَا ٱلشَّيَٰطِينَ عَلَى ٱلۡكَٰفِرِينَ تَؤُزُّهُمۡ
+  أَزّٗا
 sentence_translation: Do you ˹O Prophet˺ not see that We have sent the devils against
   the disbelievers, constantly inciting them?
 word_by_word:
   1:
-    arabic: اَلَمۡ
+    arabic: أَلَمۡ
     translation: Do not
     transliteration: alam
   2:
@@ -13,15 +13,15 @@ word_by_word:
     translation: you see
     transliteration: tara
   3:
-    arabic: اَنَّاۤ
+    arabic: أَنَّآ
     translation: that We
     transliteration: annā
   4:
-    arabic: اَرۡسَلۡنَا
+    arabic: أَرۡسَلۡنَا
     translation: '[We] have sent'
     transliteration: arsalnā
   5:
-    arabic: الشَّيٰـطِيۡنَ
+    arabic: ٱلشَّيَٰطِينَ
     translation: the devils
     transliteration: l-shayāṭīna
   6:
@@ -29,7 +29,7 @@ word_by_word:
     translation: upon
     transliteration: ʿalā
   7:
-    arabic: الۡكٰفِرِيۡنَ
+    arabic: ٱلۡكَٰفِرِينَ
     translation: the disbelievers
     transliteration: l-kāfirīna
   8:
@@ -37,7 +37,7 @@ word_by_word:
     translation: inciting them
     transliteration: ta-uzzuhum
   9:
-    arabic: اَزًّا ۙ‏
+    arabic: أَزّٗا
     translation: (with) incitement
     transliteration: azzan
 ---

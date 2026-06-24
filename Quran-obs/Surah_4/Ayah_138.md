@@ -1,5 +1,5 @@
 ---
-arabic_ayat: بَشِّرِ الۡمُنٰفِقِيۡنَ بِاَنَّ لَهُمۡ عَذَابًا اَلِيۡمًاۙ‏
+arabic_ayat: بَشِّرِ ٱلۡمُنَٰفِقِينَ بِأَنَّ لَهُمۡ عَذَابًا أَلِيمًا
 sentence_translation: Give good news of a painful punishment to hypocrites,
 word_by_word:
   1:
@@ -7,11 +7,11 @@ word_by_word:
     translation: Give tidings
     transliteration: bashiri
   2:
-    arabic: الۡمُنٰفِقِيۡنَ
+    arabic: ٱلۡمُنَٰفِقِينَ
     translation: (to) the hypocrites
     transliteration: l-munāfiqīna
   3:
-    arabic: بِاَنَّ
+    arabic: بِأَنَّ
     translation: that
     transliteration: bi-anna
   4:
@@ -23,7 +23,7 @@ word_by_word:
     translation: (is) a punishment
     transliteration: ʿadhāban
   6:
-    arabic: اَلِيۡمًاۙ‏
+    arabic: أَلِيمًا
     translation: 'painful '
     transliteration: alīman
 ---

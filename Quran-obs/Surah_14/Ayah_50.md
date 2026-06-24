@@ -1,29 +1,29 @@
 ---
-arabic_ayat: سَرَابِيۡلُهُمۡ مِّنۡ قَطِرَانٍ وَّتَغۡشٰى وُجُوۡهَهُمُ النَّارُۙ‏
+arabic_ayat: سَرَابِيلُهُم مِّن قَطِرَانٖ وَتَغۡشَىٰ وُجُوهَهُمُ ٱلنَّارُ
 sentence_translation: with garments of tar, and their faces covered with flames.
 word_by_word:
   1:
-    arabic: سَرَابِيۡلُهُمۡ
+    arabic: سَرَابِيلُهُم
     translation: Their garments
     transliteration: sarābīluhum
   2:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: of
     transliteration: min
   3:
-    arabic: قَطِرَانٍ
+    arabic: قَطِرَانٖ
     translation: tar
     transliteration: qaṭirānin
   4:
-    arabic: وَّتَغۡشٰى
+    arabic: وَتَغۡشَىٰ
     translation: and will cover
     transliteration: wataghshā
   5:
-    arabic: وُجُوۡهَهُمُ
+    arabic: وُجُوهَهُمُ
     translation: their faces
     transliteration: wujūhahumu
   6:
-    arabic: النَّارُۙ‏
+    arabic: ٱلنَّارُ
     translation: the Fire
     transliteration: l-nāru
 ---

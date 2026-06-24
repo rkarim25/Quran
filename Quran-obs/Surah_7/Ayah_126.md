@@ -1,6 +1,6 @@
 ---
-arabic_ayat: وَمَا تَـنۡقِمُ مِنَّاۤ اِلَّاۤ اَنۡ اٰمَنَّا بِاٰيٰتِ رَبِّنَا لَمَّا
-  جَآءَتۡنَا​ ؕ رَبَّنَاۤ اَفۡرِغۡ عَلَيۡنَا صَبۡرًا وَّتَوَفَّنَا مُسۡلِمِيۡنَ‏
+arabic_ayat: وَمَا تَنقِمُ مِنَّآ إِلَّآ أَنۡ ءَامَنَّا بِـَٔايَٰتِ رَبِّنَا لَمَّا
+  جَآءَتۡنَاۚ رَبَّنَآ أَفۡرِغۡ عَلَيۡنَا صَبۡرٗا وَتَوَفَّنَا مُسۡلِمِينَ
 sentence_translation: Your rage towards us is only because we believed in the signs
   of our Lord when they came to us. Our Lord! Shower us with perseverance, and let
   us die while submitting ˹to You˺.” 
@@ -10,27 +10,27 @@ word_by_word:
     translation: And not
     transliteration: wamā
   2:
-    arabic: تَـنۡقِمُ
+    arabic: تَنقِمُ
     translation: you take revenge
     transliteration: tanqimu
   3:
-    arabic: مِنَّاۤ
+    arabic: مِنَّآ
     translation: from us
     transliteration: minnā
   4:
-    arabic: اِلَّاۤ
+    arabic: إِلَّآ
     translation: except
     transliteration: illā
   5:
-    arabic: اَنۡ
+    arabic: أَنۡ ءَ
     translation: that
     transliteration: an
   6:
-    arabic: اٰمَنَّا
+    arabic: امَنَّا
     translation: we believed
     transliteration: āmannā
   7:
-    arabic: بِاٰيٰتِ
+    arabic: بِـَٔايَٰتِ
     translation: in (the) Signs
     transliteration: biāyāti
   8:
@@ -42,15 +42,15 @@ word_by_word:
     translation: when
     transliteration: lammā
   10:
-    arabic: جَآءَتۡنَا​ ؕ
+    arabic: جَآءَتۡنَاۚ
     translation: they came to us
     transliteration: jāatnā
   11:
-    arabic: رَبَّنَاۤ
+    arabic: رَبَّنَآ
     translation: Our Lord
     transliteration: rabbanā
   12:
-    arabic: اَفۡرِغۡ
+    arabic: أَفۡرِغۡ
     translation: Pour
     transliteration: afrigh
   13:
@@ -58,15 +58,15 @@ word_by_word:
     translation: upon us
     transliteration: ʿalaynā
   14:
-    arabic: صَبۡرًا
+    arabic: صَبۡرٗا
     translation: patience
     transliteration: ṣabran
   15:
-    arabic: وَّتَوَفَّنَا
+    arabic: وَتَوَفَّنَا
     translation: and cause us to die
     transliteration: watawaffanā
   16:
-    arabic: مُسۡلِمِيۡنَ‏
+    arabic: مُسۡلِمِينَ
     translation: (as) Muslims
     transliteration: mus'limīna
 ---

@@ -1,36 +1,36 @@
 ---
-arabic_ayat: وَاِذَا تُتۡلٰى عَلَيۡهِ اٰيٰتُنَا وَلّٰى مُسۡتَكۡبِرًا كَاَنۡ لَّمۡ
-  يَسۡمَعۡهَا كَاَنَّ فِىۡۤ اُذُنَيۡهِ وَقۡرًا​ۚ فَبَشِّرۡهُ بِعَذَابٍ اَلِيۡمٍ‏
+arabic_ayat: وَإِذَا تُتۡلَىٰ عَلَيۡهِ ءَايَٰتُنَا وَلَّىٰ مُسۡتَكۡبِرٗا كَأَن لَّمۡ
+  يَسۡمَعۡهَا كَأَنَّ فِيٓ أُذُنَيۡهِ وَقۡرٗاۖ فَبَشِّرۡهُ بِعَذَابٍ أَلِيمٍ
 sentence_translation: Whenever Our revelations are recited to them, they turn away
   in arrogance as if they did not hear them, as if there is deafness in their ears.
   So give them good news ˹O Prophet˺ of a painful punishment.
 word_by_word:
   1:
-    arabic: وَاِذَا
+    arabic: وَإِذَا
     translation: And when
     transliteration: wa-idhā
   2:
-    arabic: تُتۡلٰى
+    arabic: تُتۡلَىٰ
     translation: are recited
     transliteration: tut'lā
   3:
-    arabic: عَلَيۡهِ
+    arabic: عَلَيۡهِ ءَ
     translation: to him
     transliteration: ʿalayhi
   4:
-    arabic: اٰيٰتُنَا
+    arabic: ايَٰتُنَا
     translation: Our Verses
     transliteration: āyātunā
   5:
-    arabic: وَلّٰى
+    arabic: وَلَّىٰ
     translation: he turns away
     transliteration: wallā
   6:
-    arabic: مُسۡتَكۡبِرًا
+    arabic: مُسۡتَكۡبِرٗا
     translation: arrogantly
     transliteration: mus'takbiran
   7:
-    arabic: كَاَنۡ
+    arabic: كَأَن
     translation: as if
     transliteration: ka-an
   8:
@@ -42,19 +42,19 @@ word_by_word:
     translation: he (had) heard them
     transliteration: yasmaʿhā
   10:
-    arabic: كَاَنَّ
+    arabic: كَأَنَّ
     translation: as if
     transliteration: ka-anna
   11:
-    arabic: فِىۡۤ
+    arabic: فِيٓ
     translation: in
     transliteration: fī
   12:
-    arabic: اُذُنَيۡهِ
+    arabic: أُذُنَيۡهِ
     translation: his ears
     transliteration: udhunayhi
   13:
-    arabic: وَقۡرًا​ۚ
+    arabic: وَقۡرٗاۖ
     translation: (is) deafness
     transliteration: waqran
   14:
@@ -66,7 +66,7 @@ word_by_word:
     translation: of a punishment
     transliteration: biʿadhābin
   16:
-    arabic: اَلِيۡمٍ‏
+    arabic: أَلِيمٍ
     translation: painful
     transliteration: alīmin
 ---

@@ -1,19 +1,18 @@
 ---
-arabic_ayat: رَبُّ السَّمٰوٰتِ وَالۡاَرۡضِ وَمَا بَيۡنَهُمَا وَرَبُّ الۡمَشَارِقِ
-  ؕ‏
+arabic_ayat: رَّبُّ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِ وَمَا بَيۡنَهُمَا وَرَبُّ ٱلۡمَشَٰرِقِ
 sentence_translation: ˹He is˺ the Lord of the heavens and the earth and everything
   in between, and the Lord of all points of sunrise.
 word_by_word:
   1:
-    arabic: رَبُّ
+    arabic: رَّبُّ
     translation: Lord
     transliteration: rabbu
   2:
-    arabic: السَّمٰوٰتِ
+    arabic: ٱلسَّمَٰوَٰتِ
     translation: (of) the heavens
     transliteration: l-samāwāti
   3:
-    arabic: وَالۡاَرۡضِ
+    arabic: وَٱلۡأَرۡضِ
     translation: and the earth
     transliteration: wal-arḍi
   4:
@@ -29,7 +28,7 @@ word_by_word:
     translation: and Lord
     transliteration: warabbu
   7:
-    arabic: الۡمَشَارِقِ ؕ‏
+    arabic: ٱلۡمَشَٰرِقِ
     translation: (of) each point of sunrise
     transliteration: l-mashāriqi
 ---

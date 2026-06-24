@@ -1,17 +1,17 @@
 ---
-arabic_ayat: وَّ جَعَلۡنَا سِرَاجًا وَّهَّاجًا ۙ‏
+arabic_ayat: وَجَعَلۡنَا سِرَاجٗا وَهَّاجٗا
 sentence_translation: and placed ˹in them˺ a shining lamp,
 word_by_word:
   1:
-    arabic: وَّجَعَلۡنَا
+    arabic: وَجَعَلۡنَا
     translation: And We placed
     transliteration: wajaʿalnā
   2:
-    arabic: سِرَاجًا
+    arabic: سِرَاجٗا
     translation: a lamp
     transliteration: sirājan
   3:
-    arabic: وَّهَّاجًا ۙ‏
+    arabic: وَهَّاجٗا
     translation: burning
     transliteration: wahhājan
 ---

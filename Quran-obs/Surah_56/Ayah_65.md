@@ -1,5 +1,5 @@
 ---
-arabic_ayat: لَوۡ نَشَآءُ لَجَـعَلۡنٰهُ حُطَامًا فَظَلۡتُمۡ تَفَكَّهُوۡنَ‏
+arabic_ayat: لَوۡ نَشَآءُ لَجَعَلۡنَٰهُ حُطَٰمٗا فَظَلۡتُمۡ تَفَكَّهُونَ
 sentence_translation: If We willed, We could simply reduce this ˹harvest˺ to chaff,
   leaving you to lament,
 word_by_word:
@@ -12,11 +12,11 @@ word_by_word:
     translation: We willed
     transliteration: nashāu
   3:
-    arabic: لَجَـعَلۡنٰهُ
+    arabic: لَجَعَلۡنَٰهُ
     translation: We (would) surely, make it
     transliteration: lajaʿalnāhu
   4:
-    arabic: حُطَامًا
+    arabic: حُطَٰمٗا
     translation: debris
     transliteration: ḥuṭāman
   5:
@@ -24,7 +24,7 @@ word_by_word:
     translation: then you would remain
     transliteration: faẓaltum
   6:
-    arabic: تَفَكَّهُوۡنَ‏
+    arabic: تَفَكَّهُونَ
     translation: wondering
     transliteration: tafakkahūna
 ---

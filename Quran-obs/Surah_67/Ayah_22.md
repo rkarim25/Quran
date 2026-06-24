@@ -1,15 +1,15 @@
 ---
-arabic_ayat: اَفَمَنۡ يَّمۡشِىۡ مُكِبًّا عَلٰى وَجۡهِهٖۤ اَهۡدٰٓى اَمَّنۡ يَّمۡشِىۡ
-  سَوِيًّا عَلٰى صِرَاطٍ مُّسۡتَقِيۡمٍ‏
+arabic_ayat: أَفَمَن يَمۡشِي مُكِبًّا عَلَىٰ وَجۡهِهِۦٓ أَهۡدَىٰٓ أَمَّن يَمۡشِي سَوِيًّا
+  عَلَىٰ صِرَٰطٖ مُّسۡتَقِيمٖ
 sentence_translation: 'Who is ˹rightly˺ guided: the one who crawls facedown or the
   one who walks upright on the Straight Path?'
 word_by_word:
   1:
-    arabic: اَفَمَنۡ
+    arabic: أَفَمَن
     translation: Then is he who
     transliteration: afaman
   2:
-    arabic: يَّمۡشِىۡ
+    arabic: يَمۡشِي
     translation: walks
     transliteration: yamshī
   3:
@@ -17,23 +17,23 @@ word_by_word:
     translation: fallen
     transliteration: mukibban
   4:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: 'on'
     transliteration: ʿalā
   5:
-    arabic: وَجۡهِهٖۤ
+    arabic: وَجۡهِهِۦٓ
     translation: his face
     transliteration: wajhihi
   6:
-    arabic: اَهۡدٰٓى
+    arabic: أَهۡدَىٰٓ
     translation: better guided
     transliteration: ahdā
   7:
-    arabic: اَمَّنۡ
+    arabic: أَمَّن
     translation: or (he) who
     transliteration: amman
   8:
-    arabic: يَّمۡشِىۡ
+    arabic: يَمۡشِي
     translation: walks
     transliteration: yamshī
   9:
@@ -41,15 +41,15 @@ word_by_word:
     translation: upright
     transliteration: sawiyyan
   10:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: 'on'
     transliteration: ʿalā
   11:
-    arabic: صِرَاطٍ
+    arabic: صِرَٰطٖ
     translation: (the) Path
     transliteration: ṣirāṭin
   12:
-    arabic: مُّسۡتَقِيۡمٍ‏
+    arabic: مُّسۡتَقِيمٖ
     translation: Straight
     transliteration: mus'taqīmin
 ---

@@ -1,17 +1,17 @@
 ---
-arabic_ayat: فَاَرٰٮهُ الۡاٰيَةَ الۡكُبۡرٰى ۖ‏
+arabic_ayat: فَأَرَىٰهُ ٱلۡأٓيَةَ ٱلۡكُبۡرَىٰ
 sentence_translation: Then Moses showed him the great sign,
 word_by_word:
   1:
-    arabic: فَاَرٰٮهُ
+    arabic: فَأَرَىٰهُ
     translation: Then he showed him
     transliteration: fa-arāhu
   2:
-    arabic: الۡاٰيَةَ
+    arabic: ٱلۡأٓيَةَ
     translation: the sign
     transliteration: l-āyata
   3:
-    arabic: الۡكُبۡرٰى ۖ‏
+    arabic: ٱلۡكُبۡرَىٰ
     translation: the great
     transliteration: l-kub'rā
 ---

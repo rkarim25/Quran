@@ -1,23 +1,22 @@
 ---
-arabic_ayat: اِنَّ اللّٰهَ عِنۡدَهٗ عِلۡمُ السَّاعَةِ​ ۚ وَيُنَزِّلُ الۡغَيۡثَ​ ۚ
-  وَيَعۡلَمُ مَا فِى الۡاَرۡحَامِ​ ؕ وَمَا تَدۡرِىۡ نَفۡسٌ مَّاذَا تَكۡسِبُ غَدًا​
-  ؕ وَّمَا تَدۡرِىۡ نَـفۡسٌۢ بِاَىِّ اَرۡضٍ تَمُوۡتُ ​ؕ اِنَّ اللّٰهَ عَلِيۡمٌ خَبِيۡرٌ
-  ‏
+arabic_ayat: إِنَّ ٱللَّهَ عِندَهُۥ عِلۡمُ ٱلسَّاعَةِ وَيُنَزِّلُ ٱلۡغَيۡثَ وَيَعۡلَمُ
+  مَا فِي ٱلۡأَرۡحَامِۖ وَمَا تَدۡرِي نَفۡسٞ مَّاذَا تَكۡسِبُ غَدٗاۖ وَمَا تَدۡرِي
+  نَفۡسُۢ بِأَيِّ أَرۡضٖ تَمُوتُۚ إِنَّ ٱللَّهَ عَلِيمٌ خَبِيرُۢ
 sentence_translation: Indeed, Allah ˹alone˺ has the knowledge of the Hour. He sends
   down the rain, and knows what is in the wombs. No soul knows what it will earn for
   tomorrow, and no soul knows in what land it will die. Surely Allah is All-Knowing,
   All-Aware.
 word_by_word:
   1:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   2:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   3:
-    arabic: عِنۡدَهٗ
+    arabic: عِندَهُۥ
     translation: with Him
     transliteration: ʿindahu
   4:
@@ -25,7 +24,7 @@ word_by_word:
     translation: (is the) knowledge
     transliteration: ʿil'mu
   5:
-    arabic: السَّاعَةِ​ ۚ
+    arabic: ٱلسَّاعَةِ
     translation: (of) the Hour
     transliteration: l-sāʿati
   6:
@@ -33,7 +32,7 @@ word_by_word:
     translation: and He sends down
     transliteration: wayunazzilu
   7:
-    arabic: الۡغَيۡثَ​ ۚ
+    arabic: ٱلۡغَيۡثَ
     translation: the rain
     transliteration: l-ghaytha
   8:
@@ -45,11 +44,11 @@ word_by_word:
     translation: what
     transliteration: mā
   10:
-    arabic: فِى
+    arabic: فِي
     translation: (is) in
     transliteration: fī
   11:
-    arabic: الۡاَرۡحَامِ​ ؕ
+    arabic: ٱلۡأَرۡحَامِۖ
     translation: the wombs
     transliteration: l-arḥāmi
   12:
@@ -57,11 +56,11 @@ word_by_word:
     translation: And not
     transliteration: wamā
   13:
-    arabic: تَدۡرِىۡ
+    arabic: تَدۡرِي
     translation: knows
     transliteration: tadrī
   14:
-    arabic: نَفۡسٌ
+    arabic: نَفۡسٞ
     translation: any soul
     transliteration: nafsun
   15:
@@ -73,47 +72,47 @@ word_by_word:
     translation: it will earn
     transliteration: taksibu
   17:
-    arabic: غَدًا​ ؕ
+    arabic: غَدٗاۖ
     translation: tomorrow
     transliteration: ghadan
   18:
-    arabic: وَّمَا
+    arabic: وَمَا
     translation: and not
     transliteration: wamā
   19:
-    arabic: تَدۡرِىۡ
+    arabic: تَدۡرِي
     translation: knows
     transliteration: tadrī
   20:
-    arabic: نَـفۡسٌۢ
+    arabic: نَفۡسُۢ
     translation: any soul
     transliteration: nafsun
   21:
-    arabic: بِاَىِّ
+    arabic: بِأَيِّ
     translation: in what
     transliteration: bi-ayyi
   22:
-    arabic: اَرۡضٍ
+    arabic: أَرۡضٖ
     translation: land
     transliteration: arḍin
   23:
-    arabic: تَمُوۡتُ ​ؕ
+    arabic: تَمُوتُۚ
     translation: it will die
     transliteration: tamūtu
   24:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   25:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   26:
-    arabic: عَلِيۡمٌ
+    arabic: عَلِيمٌ
     translation: (is) All-Knower
     transliteration: ʿalīmun
   27:
-    arabic: خَبِيۡرٌ ‏
+    arabic: خَبِيرُۢ
     translation: All-Aware
     transliteration: khabīrun
 ---

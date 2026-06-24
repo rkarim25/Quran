@@ -1,15 +1,14 @@
 ---
-arabic_ayat: "وَلِلَّذِيۡنَ كَفَرُوۡا بِرَبِّهِمۡ عَذَابُ جَهَنَّمَ​ؕ وَبِئۡسَ الۡمَصِيۡرُ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: وَلِلَّذِينَ كَفَرُواْ بِرَبِّهِمۡ عَذَابُ جَهَنَّمَۖ وَبِئۡسَ ٱلۡمَصِيرُ
 sentence_translation: Those who disbelieve in their Lord will suffer the punishment
   of Hell. What an evil destination!
 word_by_word:
   1:
-    arabic: وَلِلَّذِيۡنَ
+    arabic: وَلِلَّذِينَ
     translation: And for those who
     transliteration: walilladhīna
   2:
-    arabic: كَفَرُوۡا
+    arabic: كَفَرُواْ
     translation: disbelieved
     transliteration: kafarū
   3:
@@ -21,7 +20,7 @@ word_by_word:
     translation: (is the) punishment
     transliteration: ʿadhābu
   5:
-    arabic: جَهَنَّمَ​ؕ
+    arabic: جَهَنَّمَۖ
     translation: (of) Hell
     transliteration: jahannama
   6:
@@ -29,7 +28,7 @@ word_by_word:
     translation: and wretched is
     transliteration: wabi'sa
   7:
-    arabic: "الۡمَصِيۡرُ‏ \uFEFF\uFEFF"
+    arabic: ٱلۡمَصِيرُ
     translation: the destination
     transliteration: l-maṣīru
 ---

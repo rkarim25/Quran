@@ -1,7 +1,7 @@
 ---
-arabic_ayat: وَقُلِ اعۡمَلُوۡا فَسَيَرَى اللّٰهُ عَمَلَكُمۡ وَرَسُوۡلُهٗ وَالۡمُؤۡمِنُوۡنَ​ؕ
-  وَسَتُرَدُّوۡنَ اِلٰى عٰلِمِ الۡغَيۡبِ وَالشَّهَادَةِ فَيُنَبِّئُكُمۡ بِمَا كُنۡتُمۡ
-  تَعۡمَلُوۡنَ​ۚ‏
+arabic_ayat: وَقُلِ ٱعۡمَلُواْ فَسَيَرَى ٱللَّهُ عَمَلَكُمۡ وَرَسُولُهُۥ وَٱلۡمُؤۡمِنُونَۖ
+  وَسَتُرَدُّونَ إِلَىٰ عَٰلِمِ ٱلۡغَيۡبِ وَٱلشَّهَٰدَةِ فَيُنَبِّئُكُم بِمَا كُنتُمۡ
+  تَعۡمَلُونَ
 sentence_translation: Tell ˹them, O  Prophet˺, “Do as you will. Your deeds will be
   observed by Allah, His Messenger, and the believers. And you will be returned to
   the Knower of the seen and unseen, then He will inform you of what you used to do.”
@@ -11,7 +11,7 @@ word_by_word:
     translation: And say
     transliteration: waquli
   2:
-    arabic: اعۡمَلُوۡا
+    arabic: ٱعۡمَلُواْ
     translation: Do
     transliteration: iʿ'malū
   3:
@@ -19,7 +19,7 @@ word_by_word:
     translation: then Allah will see
     transliteration: fasayarā
   4:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: then Allah will see
     transliteration: l-lahu
   5:
@@ -27,35 +27,35 @@ word_by_word:
     translation: your deed
     transliteration: ʿamalakum
   6:
-    arabic: وَرَسُوۡلُهٗ
+    arabic: وَرَسُولُهُۥ
     translation: and His Messenger
     transliteration: warasūluhu
   7:
-    arabic: وَالۡمُؤۡمِنُوۡنَ​ؕ
+    arabic: وَٱلۡمُؤۡمِنُونَۖ
     translation: and the believers
     transliteration: wal-mu'minūna
   8:
-    arabic: وَسَتُرَدُّوۡنَ
+    arabic: وَسَتُرَدُّونَ
     translation: And you will be brought back
     transliteration: wasaturaddūna
   9:
-    arabic: اِلٰى
+    arabic: إِلَىٰ
     translation: to
     transliteration: ilā
   10:
-    arabic: عٰلِمِ
+    arabic: عَٰلِمِ
     translation: (the) Knower
     transliteration: ʿālimi
   11:
-    arabic: الۡغَيۡبِ
+    arabic: ٱلۡغَيۡبِ
     translation: (of) the unseen
     transliteration: l-ghaybi
   12:
-    arabic: وَالشَّهَادَةِ
+    arabic: وَٱلشَّهَٰدَةِ
     translation: and the seen
     transliteration: wal-shahādati
   13:
-    arabic: فَيُنَبِّئُكُمۡ
+    arabic: فَيُنَبِّئُكُم
     translation: then He will inform you
     transliteration: fayunabbi-ukum
   14:
@@ -63,11 +63,11 @@ word_by_word:
     translation: of what
     transliteration: bimā
   15:
-    arabic: كُنۡتُمۡ
+    arabic: كُنتُمۡ
     translation: you used (to)
     transliteration: kuntum
   16:
-    arabic: تَعۡمَلُوۡنَ​ۚ‏
+    arabic: تَعۡمَلُونَ
     translation: do
     transliteration: taʿmalūna
 ---

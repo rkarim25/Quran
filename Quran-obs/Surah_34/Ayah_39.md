@@ -1,7 +1,6 @@
 ---
-arabic_ayat: "قُلۡ اِنَّ رَبِّىۡ يَبۡسُطُ الرِّزۡقَ لِمَنۡ يَّشَآءُ مِنۡ عِبَادِهٖ\
-  \ وَيَقۡدِرُ لَهٗ ؕ وَمَاۤ اَنۡفَقۡتُمۡ مِّنۡ شَىۡءٍ فَهُوَ يُخۡلِفُهٗ ۚ وَهُوَ\
-  \ خَيۡرُ الرّٰزِقِيۡنَ‏ \uFEFF\uFEFF"
+arabic_ayat: قُلۡ إِنَّ رَبِّي يَبۡسُطُ ٱلرِّزۡقَ لِمَن يَشَآءُ مِنۡ عِبَادِهِۦ وَيَقۡدِرُ
+  لَهُۥۚ وَمَآ أَنفَقۡتُم مِّن شَيۡءٖ فَهُوَ يُخۡلِفُهُۥۖ وَهُوَ خَيۡرُ ٱلرَّٰزِقِينَ
 sentence_translation: Say, ˹O Prophet,˺ “Surely ˹it is˺ my Lord ˹Who˺ gives abundant
   or limited provisions to whoever He wills of His servants. And whatever you spend
   in charity, He will compensate ˹you˺ for it. For He is the Best Provider.”
@@ -11,11 +10,11 @@ word_by_word:
     translation: Say
     transliteration: qul
   2:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   3:
-    arabic: رَبِّىۡ
+    arabic: رَبِّي
     translation: my Lord
     transliteration: rabbī
   4:
@@ -23,15 +22,15 @@ word_by_word:
     translation: extends
     transliteration: yabsuṭu
   5:
-    arabic: الرِّزۡقَ
+    arabic: ٱلرِّزۡقَ
     translation: the provision
     transliteration: l-riz'qa
   6:
-    arabic: لِمَنۡ
+    arabic: لِمَن
     translation: for whom
     transliteration: liman
   7:
-    arabic: يَّشَآءُ
+    arabic: يَشَآءُ
     translation: He wills
     transliteration: yashāu
   8:
@@ -39,7 +38,7 @@ word_by_word:
     translation: of
     transliteration: min
   9:
-    arabic: عِبَادِهٖ
+    arabic: عِبَادِهِۦ
     translation: His slaves
     transliteration: ʿibādihi
   10:
@@ -47,23 +46,23 @@ word_by_word:
     translation: and restricts
     transliteration: wayaqdiru
   11:
-    arabic: لَهٗ ؕ
+    arabic: لَهُۥۚ
     translation: for him
     transliteration: lahu
   12:
-    arabic: وَمَاۤ
+    arabic: وَمَآ
     translation: But what
     transliteration: wamā
   13:
-    arabic: اَنۡفَقۡتُمۡ
+    arabic: أَنفَقۡتُم
     translation: you spend
     transliteration: anfaqtum
   14:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: of
     transliteration: min
   15:
-    arabic: شَىۡءٍ
+    arabic: شَيۡءٖ
     translation: anything
     transliteration: shayin
   16:
@@ -71,7 +70,7 @@ word_by_word:
     translation: then He
     transliteration: fahuwa
   17:
-    arabic: يُخۡلِفُهٗ ۚ
+    arabic: يُخۡلِفُهُۥۖ
     translation: will compensate it
     transliteration: yukh'lifuhu
   18:
@@ -83,7 +82,7 @@ word_by_word:
     translation: (is the) Best
     transliteration: khayru
   20:
-    arabic: "الرّٰزِقِيۡنَ‏ \uFEFF\uFEFF"
+    arabic: ٱلرَّٰزِقِينَ
     translation: (of) the Providers
     transliteration: l-rāziqīna
 ---

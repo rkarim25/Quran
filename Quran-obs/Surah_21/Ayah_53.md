@@ -1,17 +1,17 @@
 ---
-arabic_ayat: قَالُوۡا وَجَدۡنَاۤ اٰبَآءَنَا لَهَا عٰبِدِيۡنَ‏
+arabic_ayat: قَالُواْ وَجَدۡنَآ ءَابَآءَنَا لَهَا عَٰبِدِينَ
 sentence_translation: They replied, “We found our forefathers worshipping them.”
 word_by_word:
   1:
-    arabic: قَالُوۡا
+    arabic: قَالُواْ
     translation: They said
     transliteration: qālū
   2:
-    arabic: وَجَدۡنَاۤ
+    arabic: وَجَدۡنَآ ءَ
     translation: We found
     transliteration: wajadnā
   3:
-    arabic: اٰبَآءَنَا
+    arabic: ابَآءَنَا
     translation: our forefathers
     transliteration: ābāanā
   4:
@@ -19,7 +19,7 @@ word_by_word:
     translation: of them
     transliteration: lahā
   5:
-    arabic: عٰبِدِيۡنَ‏
+    arabic: عَٰبِدِينَ
     translation: worshippers
     transliteration: ʿābidīna
 ---

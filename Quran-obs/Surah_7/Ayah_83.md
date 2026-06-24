@@ -1,23 +1,22 @@
 ---
-arabic_ayat: "فَاَنۡجَيۡنٰهُ وَاَهۡلَهٗۤ اِلَّا امۡرَاَتَهٗ ​ۖ كَانَتۡ مِنَ الۡغٰبِرِيۡنَ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: فَأَنجَيۡنَٰهُ وَأَهۡلَهُۥٓ إِلَّا ٱمۡرَأَتَهُۥ كَانَتۡ مِنَ ٱلۡغَٰبِرِينَ
 sentence_translation: So We saved him and his family except his wife, who was one
   of the doomed.
 word_by_word:
   1:
-    arabic: فَاَنۡجَيۡنٰهُ
+    arabic: فَأَنجَيۡنَٰهُ
     translation: So We saved him
     transliteration: fa-anjaynāhu
   2:
-    arabic: وَاَهۡلَهٗۤ
+    arabic: وَأَهۡلَهُۥٓ
     translation: and his family
     transliteration: wa-ahlahu
   3:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   4:
-    arabic: امۡرَاَتَهٗ ​ۖ
+    arabic: ٱمۡرَأَتَهُۥ
     translation: his wife
     transliteration: im'ra-atahu
   5:
@@ -29,7 +28,7 @@ word_by_word:
     translation: of
     transliteration: mina
   7:
-    arabic: "الۡغٰبِرِيۡنَ‏ \uFEFF\uFEFF"
+    arabic: ٱلۡغَٰبِرِينَ
     translation: those who stayed behind
     transliteration: l-ghābirīna
 ---

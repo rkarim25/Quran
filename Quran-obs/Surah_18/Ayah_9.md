@@ -1,11 +1,11 @@
 ---
-arabic_ayat: اَمۡ حَسِبۡتَ اَنَّ اَصۡحٰبَ الۡـكَهۡفِ وَالرَّقِيۡمِۙ كَانُوۡا مِنۡ
-  اٰيٰتِنَا عَجَبًا‏
+arabic_ayat: أَمۡ حَسِبۡتَ أَنَّ أَصۡحَٰبَ ٱلۡكَهۡفِ وَٱلرَّقِيمِ كَانُواْ مِنۡ ءَايَٰتِنَا
+  عَجَبًا
 sentence_translation: Have you ˹O Prophet˺ thought that the people of the cave and
   the plaque were ˹the only˺ wonders of Our signs?
 word_by_word:
   1:
-    arabic: اَمۡ
+    arabic: أَمۡ
     translation: Or
     transliteration: am
   2:
@@ -13,35 +13,35 @@ word_by_word:
     translation: have you thought
     transliteration: ḥasib'ta
   3:
-    arabic: اَنَّ
+    arabic: أَنَّ
     translation: that
     transliteration: anna
   4:
-    arabic: اَصۡحٰبَ
+    arabic: أَصۡحَٰبَ
     translation: (the) companions
     transliteration: aṣḥāba
   5:
-    arabic: الۡـكَهۡفِ
+    arabic: ٱلۡكَهۡفِ
     translation: (of) the cave
     transliteration: l-kahfi
   6:
-    arabic: وَالرَّقِيۡمِۙ
+    arabic: وَٱلرَّقِيمِ
     translation: and the inscription
     transliteration: wal-raqīmi
   7:
-    arabic: كَانُوۡا
+    arabic: كَانُواْ
     translation: were
     transliteration: kānū
   8:
-    arabic: مِنۡ
+    arabic: مِنۡ ءَ
     translation: among
     transliteration: min
   9:
-    arabic: اٰيٰتِنَا
+    arabic: ايَٰتِنَا
     translation: Our Signs
     transliteration: āyātinā
   10:
-    arabic: عَجَبًا‏
+    arabic: عَجَبًا
     translation: a wonder
     transliteration: ʿajaban
 ---

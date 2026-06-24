@@ -1,13 +1,13 @@
 ---
-arabic_ayat: وَّفَاكِهَةً وَّاَبًّا ۙ‏
+arabic_ayat: وَفَٰكِهَةٗ وَأَبّٗا
 sentence_translation: and fruit and fodder—
 word_by_word:
   1:
-    arabic: وَّفَاكِهَةً
+    arabic: وَفَٰكِهَةٗ
     translation: And fruits
     transliteration: wafākihatan
   2:
-    arabic: وَّاَبًّا ۙ‏
+    arabic: وَأَبّٗا
     translation: and grass
     transliteration: wa-abban
 ---

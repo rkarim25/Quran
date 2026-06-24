@@ -1,32 +1,32 @@
 ---
-arabic_ayat: يٰبُنَىَّ اَقِمِ الصَّلٰوةَ وَاۡمُرۡ بِالۡمَعۡرُوۡفِ وَانۡهَ عَنِ الۡمُنۡكَرِ
-  وَاصۡبِرۡ عَلٰى مَاۤ اَصَابَكَ​ؕ اِنَّ ذٰلِكَ مِنۡ عَزۡمِ الۡاُمُوۡرِ​ۚ ‏
+arabic_ayat: يَٰبُنَيَّ أَقِمِ ٱلصَّلَوٰةَ وَأۡمُرۡ بِٱلۡمَعۡرُوفِ وَٱنۡهَ عَنِ ٱلۡمُنكَرِ
+  وَٱصۡبِرۡ عَلَىٰ مَآ أَصَابَكَۖ إِنَّ ذَٰلِكَ مِنۡ عَزۡمِ ٱلۡأُمُورِ
 sentence_translation: “O my dear son! Establish prayer, encourage what is good and
   forbid what is evil, and endure patiently whatever befalls you. Surely this is a
   resolve to aspire to.
 word_by_word:
   1:
-    arabic: يٰبُنَىَّ
+    arabic: يَٰبُنَيَّ
     translation: O my son
     transliteration: yābunayya
   2:
-    arabic: اَقِمِ
+    arabic: أَقِمِ
     translation: Establish
     transliteration: aqimi
   3:
-    arabic: الصَّلٰوةَ
+    arabic: ٱلصَّلَوٰةَ
     translation: the prayer
     transliteration: l-ṣalata
   4:
-    arabic: وَاۡمُرۡ
+    arabic: وَأۡمُرۡ
     translation: and enjoin
     transliteration: wamur
   5:
-    arabic: بِالۡمَعۡرُوۡفِ
+    arabic: بِٱلۡمَعۡرُوفِ
     translation: '[with] the right'
     transliteration: bil-maʿrūfi
   6:
-    arabic: وَانۡهَ
+    arabic: وَٱنۡهَ
     translation: and forbid
     transliteration: wa-in'ha
   7:
@@ -34,31 +34,31 @@ word_by_word:
     translation: from
     transliteration: ʿani
   8:
-    arabic: الۡمُنۡكَرِ
+    arabic: ٱلۡمُنكَرِ
     translation: the wrong
     transliteration: l-munkari
   9:
-    arabic: وَاصۡبِرۡ
+    arabic: وَٱصۡبِرۡ
     translation: and be patient
     transliteration: wa-iṣ'bir
   10:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: over
     transliteration: ʿalā
   11:
-    arabic: مَاۤ
+    arabic: مَآ
     translation: what
     transliteration: mā
   12:
-    arabic: اَصَابَكَ​ؕ
+    arabic: أَصَابَكَۖ
     translation: befalls you
     transliteration: aṣābaka
   13:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   14:
-    arabic: ذٰلِكَ
+    arabic: ذَٰلِكَ
     translation: that
     transliteration: dhālika
   15:
@@ -70,7 +70,7 @@ word_by_word:
     translation: the matters requiring determination
     transliteration: ʿazmi
   17:
-    arabic: الۡاُمُوۡرِ​ۚ ‏
+    arabic: ٱلۡأُمُورِ
     translation: the matters requiring determination
     transliteration: l-umūri
 ---

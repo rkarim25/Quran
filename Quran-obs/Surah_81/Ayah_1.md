@@ -1,17 +1,17 @@
 ---
-arabic_ayat: اِذَا الشَّمۡسُ كُوِّرَتۡۙ‏
+arabic_ayat: إِذَا ٱلشَّمۡسُ كُوِّرَتۡ
 sentence_translation: When the sun is put out,
 word_by_word:
   1:
-    arabic: اِذَا
+    arabic: إِذَا
     translation: When
     transliteration: idhā
   2:
-    arabic: الشَّمۡسُ
+    arabic: ٱلشَّمۡسُ
     translation: the sun
     transliteration: l-shamsu
   3:
-    arabic: كُوِّرَتۡۙ‏
+    arabic: كُوِّرَتۡ
     translation: is wrapped up
     transliteration: kuwwirat
 ---

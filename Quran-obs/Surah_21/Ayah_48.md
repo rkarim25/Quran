@@ -1,39 +1,39 @@
 ---
-arabic_ayat: وَلَـقَدۡ اٰتَيۡنَا مُوۡسٰى وَهٰرُوۡنَ الۡفُرۡقَانَ وَضِيَآءً وَّذِكۡرًا
-  لِّـلۡمُتَّقِيۡنَۙ‏
+arabic_ayat: وَلَقَدۡ ءَاتَيۡنَا مُوسَىٰ وَهَٰرُونَ ٱلۡفُرۡقَانَ وَضِيَآءٗ وَذِكۡرٗا
+  لِّلۡمُتَّقِينَ
 sentence_translation: Indeed, We granted Moses and Aaron the standard ˹to distinguish
   between right and wrong˺—a light and a reminder for the righteous,
 word_by_word:
   1:
-    arabic: وَلَـقَدۡ
+    arabic: وَلَقَدۡ ءَ
     translation: And verily
     transliteration: walaqad
   2:
-    arabic: اٰتَيۡنَا
+    arabic: اتَيۡنَا
     translation: We gave
     transliteration: ātaynā
   3:
-    arabic: مُوۡسٰى
+    arabic: مُوسَىٰ
     translation: Musa
     transliteration: mūsā
   4:
-    arabic: وَهٰرُوۡنَ
+    arabic: وَهَٰرُونَ
     translation: and Harun
     transliteration: wahārūna
   5:
-    arabic: الۡفُرۡقَانَ
+    arabic: ٱلۡفُرۡقَانَ
     translation: the Criterion
     transliteration: l-fur'qāna
   6:
-    arabic: وَضِيَآءً
+    arabic: وَضِيَآءٗ
     translation: and a light
     transliteration: waḍiyāan
   7:
-    arabic: وَّذِكۡرًا
+    arabic: وَذِكۡرٗا
     translation: and a Reminder
     transliteration: wadhik'ran
   8:
-    arabic: لِّـلۡمُتَّقِيۡنَۙ‏
+    arabic: لِّلۡمُتَّقِينَ
     translation: for the righteous
     transliteration: lil'muttaqīna
 ---

@@ -1,77 +1,77 @@
 ---
-arabic_ayat: وَاذْکُرُوْ انِعْمَةَ اللهِ عَلَیْکُمْ وَمِیْثَاقَهُ الَّذِیْ وَاثَقَکُمْ
-  بِهۤ ۙ اِذْقُلْتُمْ سَمِعْنَا وَاَطَعْنَا وَاتَّقُوا اللهَ ؕ اِنَّ اللهَ عَلِیْمٌۢ
-  بِذَاتِ الصُّدُوْرِ‏
+arabic_ayat: وَٱذۡكُرُواْ نِعۡمَةَ ٱللَّهِ عَلَيۡكُمۡ وَمِيثَٰقَهُ ٱلَّذِي وَاثَقَكُم
+  بِهِۦٓ إِذۡ قُلۡتُمۡ سَمِعۡنَا وَأَطَعۡنَاۖ وَٱتَّقُواْ ٱللَّهَۚ إِنَّ ٱللَّهَ عَلِيمُۢ
+  بِذَاتِ ٱلصُّدُورِ
 sentence_translation: Remember Allah’s favour upon you and the covenant He made with
   you when you said, “We hear and obey.” And be mindful of Allah. Surely Allah knows
   best what is ˹hidden˺ in the heart.
 word_by_word:
   1:
-    arabic: وَاذْکُرُوْ
+    arabic: وَٱذۡكُرُو
     translation: And remember
     transliteration: wa-udh'kurū
   2:
-    arabic: انِعْمَةَ
+    arabic: اْ نِعۡمَةَ
     translation: (the) Favor
     transliteration: niʿ'mata
   3:
-    arabic: اللهِ
+    arabic: ٱللَّهِ
     translation: (of) Allah
     transliteration: l-lahi
   4:
-    arabic: عَلَیْکُمْ
+    arabic: عَلَيۡكُمۡ
     translation: upon you
     transliteration: ʿalaykum
   5:
-    arabic: وَمِیْثَاقَهُ
+    arabic: وَمِيثَٰقَهُ
     translation: and His covenant
     transliteration: wamīthāqahu
   6:
-    arabic: الَّذِیْ
+    arabic: ٱلَّذِي
     translation: which
     transliteration: alladhī
   7:
-    arabic: وَاثَقَکُمْ
+    arabic: وَاثَقَكُم
     translation: He bound you
     transliteration: wāthaqakum
   8:
-    arabic: بِهۤ ۙ
+    arabic: بِهِۦٓ
     translation: with [it]
     transliteration: bihi
   9:
-    arabic: اِذْ
+    arabic: إِذۡ
     translation: when
     transliteration: idh
   10:
-    arabic: قُلْتُمْ
+    arabic: قُلۡتُمۡ
     translation: you said
     transliteration: qul'tum
   11:
-    arabic: سَمِعْنَا
+    arabic: سَمِعۡنَا
     translation: We heard
     transliteration: samiʿ'nā
   12:
-    arabic: وَاَطَعْنَا
+    arabic: وَأَطَعۡنَاۖ
     translation: and we obeyed
     transliteration: wa-aṭaʿnā
   13:
-    arabic: وَاتَّقُوا
+    arabic: وَٱتَّقُواْ
     translation: and fear
     transliteration: wa-ittaqū
   14:
-    arabic: اللهَ ؕ
+    arabic: ٱللَّهَۚ
     translation: Allah
     transliteration: l-laha
   15:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   16:
-    arabic: اللهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   17:
-    arabic: عَلِیْمٌۢ
+    arabic: عَلِيمُۢ
     translation: (is) All-Knower
     transliteration: ʿalīmun
   18:
@@ -79,7 +79,7 @@ word_by_word:
     translation: of what
     transliteration: bidhāti
   19:
-    arabic: الصُّدُوْرِ‏
+    arabic: ٱلصُّدُورِ
     translation: (is in) the breasts
     transliteration: l-ṣudūri
 ---

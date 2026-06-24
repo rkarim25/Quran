@@ -1,11 +1,10 @@
 ---
-arabic_ayat: اُدۡعُوۡا رَبَّكُمۡ تَضَرُّعًا وَّخُفۡيَةً​ ؕ اِنَّهٗ لَا يُحِبُّ الۡمُعۡتَدِيۡنَ​
-  ۚ‏
+arabic_ayat: ٱدۡعُواْ رَبَّكُمۡ تَضَرُّعٗا وَخُفۡيَةًۚ إِنَّهُۥ لَا يُحِبُّ ٱلۡمُعۡتَدِينَ
 sentence_translation: Call upon your Lord humbly and secretly. Surely He does not
   like the transgressors.
 word_by_word:
   1:
-    arabic: اُدۡعُوۡا
+    arabic: ٱدۡعُواْ
     translation: Call upon
     transliteration: id'ʿū
   2:
@@ -13,15 +12,15 @@ word_by_word:
     translation: your Lord
     transliteration: rabbakum
   3:
-    arabic: تَضَرُّعًا
+    arabic: تَضَرُّعٗا
     translation: humbly
     transliteration: taḍarruʿan
   4:
-    arabic: وَّخُفۡيَةً​ ؕ
+    arabic: وَخُفۡيَةًۚ
     translation: and privately
     transliteration: wakhuf'yatan
   5:
-    arabic: اِنَّهٗ
+    arabic: إِنَّهُۥ
     translation: Indeed, He
     transliteration: innahu
   6:
@@ -33,7 +32,7 @@ word_by_word:
     translation: love
     transliteration: yuḥibbu
   8:
-    arabic: الۡمُعۡتَدِيۡنَ​ ۚ‏
+    arabic: ٱلۡمُعۡتَدِينَ
     translation: the transgressors
     transliteration: l-muʿ'tadīna
 ---

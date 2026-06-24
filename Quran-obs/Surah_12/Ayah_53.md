@@ -1,40 +1,40 @@
 ---
-arabic_ayat: وَمَاۤ اُبَرِّئُ نَفۡسِىۡ​ۚ اِنَّ النَّفۡسَ لَاَمَّارَةٌۢ بِالسُّوۡٓءِ
-  اِلَّا مَا رَحِمَ رَبِّىۡ ؕاِنَّ رَبِّىۡ غَفُوۡرٌ رَّحِيۡمٌ‏
+arabic_ayat: ۞ وَمَآ أُبَرِّئُ نَفۡسِيٓۚ إِنَّ ٱلنَّفۡسَ لَأَمَّارَةُۢ بِٱلسُّوٓءِ
+  إِلَّا مَا رَحِمَ رَبِّيٓۚ إِنَّ رَبِّي غَفُورٞ رَّحِيمٞ
 sentence_translation: And I do not seek to free myself from blame, for indeed the
   soul is ever inclined to evil, except those shown mercy by my Lord. Surely my Lord
   is All-Forgiving, Most Merciful.”
 word_by_word:
   1:
-    arabic: ۞ وَمَاۤ
+    arabic: ۞ وَمَآ
     translation: And not
     transliteration: wamā
   2:
-    arabic: اُبَرِّئُ
+    arabic: أُبَرِّئُ
     translation: I absolve
     transliteration: ubarri-u
   3:
-    arabic: نَفۡسِىۡ​ۚ
+    arabic: نَفۡسِيٓۚ
     translation: myself
     transliteration: nafsī
   4:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   5:
-    arabic: النَّفۡسَ
+    arabic: ٱلنَّفۡسَ
     translation: the soul
     transliteration: l-nafsa
   6:
-    arabic: لَاَمَّارَةٌۢ
+    arabic: لَأَمَّارَةُۢ
     translation: (is) a certain enjoiner
     transliteration: la-ammāratun
   7:
-    arabic: بِالسُّوۡٓءِ
+    arabic: بِٱلسُّوٓءِ
     translation: of evil
     transliteration: bil-sūi
   8:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: unless
     transliteration: illā
   9:
@@ -46,23 +46,23 @@ word_by_word:
     translation: bestows Mercy
     transliteration: raḥima
   11:
-    arabic: رَبِّىۡ ؕ
+    arabic: رَبِّيٓۚ
     translation: my Lord
     transliteration: rabbī
   12:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   13:
-    arabic: رَبِّىۡ
+    arabic: رَبِّي
     translation: my Lord
     transliteration: rabbī
   14:
-    arabic: غَفُوۡرٌ
+    arabic: غَفُورٞ
     translation: (is) Oft-Forgiving
     transliteration: ghafūrun
   15:
-    arabic: رَّحِيۡمٌ‏
+    arabic: رَّحِيمٞ
     translation: Most Merciful
     transliteration: raḥīmun
 ---

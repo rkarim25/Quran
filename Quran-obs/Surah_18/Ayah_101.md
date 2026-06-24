@@ -1,11 +1,11 @@
 ---
-arabic_ayat: اۨلَّذِيۡنَ كَانَتۡ اَعۡيُنُهُمۡ فِىۡ غِطَآءٍ عَنۡ ذِكۡرِىۡ وَكَانُوۡا
-  لَا يَسۡتَطِيۡعُوۡنَ سَمۡعًا‏
+arabic_ayat: ٱلَّذِينَ كَانَتۡ أَعۡيُنُهُمۡ فِي غِطَآءٍ عَن ذِكۡرِي وَكَانُواْ لَا
+  يَسۡتَطِيعُونَ سَمۡعًا
 sentence_translation: those who turned a blind eye to My Reminder and could not stand
   listening ˹to it˺.
 word_by_word:
   1:
-    arabic: اۨلَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: Those
     transliteration: alladhīna
   2:
@@ -13,11 +13,11 @@ word_by_word:
     translation: had been
     transliteration: kānat
   3:
-    arabic: اَعۡيُنُهُمۡ
+    arabic: أَعۡيُنُهُمۡ
     translation: their eyes
     transliteration: aʿyunuhum
   4:
-    arabic: فِىۡ
+    arabic: فِي
     translation: within
     transliteration: fī
   5:
@@ -25,15 +25,15 @@ word_by_word:
     translation: a cover
     transliteration: ghiṭāin
   6:
-    arabic: عَنۡ
+    arabic: عَن
     translation: from
     transliteration: ʿan
   7:
-    arabic: ذِكۡرِىۡ
+    arabic: ذِكۡرِي
     translation: My remembrance
     transliteration: dhik'rī
   8:
-    arabic: وَكَانُوۡا
+    arabic: وَكَانُواْ
     translation: and were
     transliteration: wakānū
   9:
@@ -41,11 +41,11 @@ word_by_word:
     translation: not
     transliteration: lā
   10:
-    arabic: يَسۡتَطِيۡعُوۡنَ
+    arabic: يَسۡتَطِيعُونَ
     translation: able
     transliteration: yastaṭīʿūna
   11:
-    arabic: سَمۡعًا‏
+    arabic: سَمۡعًا
     translation: (to) hear
     transliteration: samʿan
 ---

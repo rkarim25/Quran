@@ -1,14 +1,14 @@
 ---
-arabic_ayat: اِنَّ اللّٰهَ هُوَ الرَّزَّاقُ ذُو الۡقُوَّةِ الۡمَتِيۡنُ‏
+arabic_ayat: إِنَّ ٱللَّهَ هُوَ ٱلرَّزَّاقُ ذُو ٱلۡقُوَّةِ ٱلۡمَتِينُ
 sentence_translation: Indeed, Allah ˹alone˺ is the Supreme Provider—Lord of all Power,
   Ever Mighty.
 word_by_word:
   1:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   2:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   3:
@@ -16,7 +16,7 @@ word_by_word:
     translation: He
     transliteration: huwa
   4:
-    arabic: الرَّزَّاقُ
+    arabic: ٱلرَّزَّاقُ
     translation: (is) the All-Provider
     transliteration: l-razāqu
   5:
@@ -24,11 +24,11 @@ word_by_word:
     translation: Possessor
     transliteration: dhū
   6:
-    arabic: الۡقُوَّةِ
+    arabic: ٱلۡقُوَّةِ
     translation: (of) Power
     transliteration: l-quwati
   7:
-    arabic: الۡمَتِيۡنُ‏
+    arabic: ٱلۡمَتِينُ
     translation: the Strong
     transliteration: l-matīnu
 ---

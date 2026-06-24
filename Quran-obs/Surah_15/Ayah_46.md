@@ -1,17 +1,17 @@
 ---
-arabic_ayat: اُدۡخُلُوۡهَا بِسَلٰمٍ اٰمِنِيۡنَ‏
+arabic_ayat: ٱدۡخُلُوهَا بِسَلَٰمٍ ءَامِنِينَ
 sentence_translation: ˹It will be said to them,˺ “Enter in peace and security.”
 word_by_word:
   1:
-    arabic: اُدۡخُلُوۡهَا
+    arabic: ٱدۡخُلُوهَا
     translation: Enter it
     transliteration: ud'khulūhā
   2:
-    arabic: بِسَلٰمٍ
+    arabic: بِسَلَٰمٍ ءَ
     translation: in peace
     transliteration: bisalāmin
   3:
-    arabic: اٰمِنِيۡنَ‏
+    arabic: امِنِينَ
     translation: secure
     transliteration: āminīna
 ---

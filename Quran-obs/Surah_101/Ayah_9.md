@@ -1,13 +1,13 @@
 ---
-arabic_ayat: فَاُمُّهٗ هَاوِيَةٌ ؕ‏
+arabic_ayat: فَأُمُّهُۥ هَاوِيَةٞ
 sentence_translation: their home will be the abyss.
 word_by_word:
   1:
-    arabic: فَاُمُّهٗ
+    arabic: فَأُمُّهُۥ
     translation: His abode
     transliteration: fa-ummuhu
   2:
-    arabic: هَاوِيَةٌ ؕ‏
+    arabic: هَاوِيَةٞ
     translation: (will be the) Pit
     transliteration: hāwiyatun
 ---

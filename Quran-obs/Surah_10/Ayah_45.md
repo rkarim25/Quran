@@ -1,7 +1,7 @@
 ---
-arabic_ayat: وَيَوۡمَ يَحۡشُرُهُمۡ كَاَنۡ لَّمۡ يَلۡبَثُوۡۤا اِلَّا سَاعَةً مِّنَ
-  النَّهَارِ يَتَعَارَفُوۡنَ بَيۡنَهُمۡ​ؕ قَدۡ خَسِرَ الَّذِيۡنَ كَذَّبُوۡا بِلِقَآءِ
-  اللّٰهِ وَمَا كَانُوۡا مُهۡتَدِيۡنَ‏
+arabic_ayat: وَيَوۡمَ يَحۡشُرُهُمۡ كَأَن لَّمۡ يَلۡبَثُوٓاْ إِلَّا سَاعَةٗ مِّنَ ٱلنَّهَارِ
+  يَتَعَارَفُونَ بَيۡنَهُمۡۚ قَدۡ خَسِرَ ٱلَّذِينَ كَذَّبُواْ بِلِقَآءِ ٱللَّهِ وَمَا
+  كَانُواْ مُهۡتَدِينَ
 sentence_translation: On the Day He will gather them, it will be as if they had not
   stayed ˹in the world˺ except for an hour of a day, ˹as though they were only˺ getting
   to know one another. Lost indeed will be those who denied the meeting with Allah,
@@ -16,7 +16,7 @@ word_by_word:
     translation: He will gather them
     transliteration: yaḥshuruhum
   3:
-    arabic: كَاَنۡ
+    arabic: كَأَن
     translation: as if
     transliteration: ka-an
   4:
@@ -24,15 +24,15 @@ word_by_word:
     translation: they had not remained
     transliteration: lam
   5:
-    arabic: يَلۡبَثُوۡۤا
+    arabic: يَلۡبَثُوٓاْ
     translation: they had not remained
     transliteration: yalbathū
   6:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   7:
-    arabic: سَاعَةً
+    arabic: سَاعَةٗ
     translation: an hour
     transliteration: sāʿatan
   8:
@@ -40,15 +40,15 @@ word_by_word:
     translation: of
     transliteration: mina
   9:
-    arabic: النَّهَارِ
+    arabic: ٱلنَّهَارِ
     translation: the day
     transliteration: l-nahāri
   10:
-    arabic: يَتَعَارَفُوۡنَ
+    arabic: يَتَعَارَفُونَ
     translation: they will recognize each other
     transliteration: yataʿārafūna
   11:
-    arabic: بَيۡنَهُمۡ​ؕ
+    arabic: بَيۡنَهُمۡۚ
     translation: between them
     transliteration: baynahum
   12:
@@ -60,11 +60,11 @@ word_by_word:
     translation: (will have) lost
     transliteration: khasira
   14:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   15:
-    arabic: كَذَّبُوۡا
+    arabic: كَذَّبُواْ
     translation: denied
     transliteration: kadhabū
   16:
@@ -72,7 +72,7 @@ word_by_word:
     translation: the meeting
     transliteration: biliqāi
   17:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (with) Allah
     transliteration: l-lahi
   18:
@@ -80,11 +80,11 @@ word_by_word:
     translation: and not
     transliteration: wamā
   19:
-    arabic: كَانُوۡا
+    arabic: كَانُواْ
     translation: they were
     transliteration: kānū
   20:
-    arabic: مُهۡتَدِيۡنَ‏
+    arabic: مُهۡتَدِينَ
     translation: the guided ones
     transliteration: muh'tadīna
 ---

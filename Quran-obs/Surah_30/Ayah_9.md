@@ -1,9 +1,8 @@
 ---
-arabic_ayat: اَوَلَمۡ يَسِيۡرُوۡا فِى الۡاَرۡضِ فَيَنۡظُرُوۡا كَيۡفَ كَانَ عَاقِبَةُ
-  الَّذِيۡنَ مِنۡ قَبۡلِهِمۡ​ؕ كَانُوۡۤا اَشَدَّ مِنۡهُمۡ قُوَّةً وَّاَثَارُوا الۡاَرۡضَ
-  وَعَمَرُوۡهَاۤ اَكۡثَرَ مِمَّا عَمَرُوۡهَا وَجَآءَتۡهُمۡ رُسُلُهُمۡ بِالۡبَيِّنٰتِ​
-  ؕ فَمَا كَانَ اللّٰهُ لِيَظۡلِمَهُمۡ وَلٰـكِنۡ كَانُوۡۤا اَنۡفُسَهُمۡ يَظۡلِمُوۡنَ
-  ؕ‏
+arabic_ayat: أَوَلَمۡ يَسِيرُواْ فِي ٱلۡأَرۡضِ فَيَنظُرُواْ كَيۡفَ كَانَ عَٰقِبَةُ
+  ٱلَّذِينَ مِن قَبۡلِهِمۡۚ كَانُوٓاْ أَشَدَّ مِنۡهُمۡ قُوَّةٗ وَأَثَارُواْ ٱلۡأَرۡضَ
+  وَعَمَرُوهَآ أَكۡثَرَ مِمَّا عَمَرُوهَا وَجَآءَتۡهُمۡ رُسُلُهُم بِٱلۡبَيِّنَٰتِۖ
+  فَمَا كَانَ ٱللَّهُ لِيَظۡلِمَهُمۡ وَلَٰكِن كَانُوٓاْ أَنفُسَهُمۡ يَظۡلِمُونَ
 sentence_translation: Have they not travelled throughout the land to see what was
   the end of those ˹destroyed˺ before them? They were far superior in might; they
   cultivated the land and developed it more than these ˹Meccans˺ ever have. Their
@@ -11,23 +10,23 @@ sentence_translation: Have they not travelled throughout the land to see what wa
   but it was they who wronged themselves.
 word_by_word:
   1:
-    arabic: اَوَلَمۡ
+    arabic: أَوَلَمۡ
     translation: Have not
     transliteration: awalam
   2:
-    arabic: يَسِيۡرُوۡا
+    arabic: يَسِيرُواْ
     translation: they traveled
     transliteration: yasīrū
   3:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   4:
-    arabic: الۡاَرۡضِ
+    arabic: ٱلۡأَرۡضِ
     translation: the earth
     transliteration: l-arḍi
   5:
-    arabic: فَيَنۡظُرُوۡا
+    arabic: فَيَنظُرُواْ
     translation: and observed
     transliteration: fayanẓurū
   6:
@@ -39,27 +38,27 @@ word_by_word:
     translation: was
     transliteration: kāna
   8:
-    arabic: عَاقِبَةُ
+    arabic: عَٰقِبَةُ
     translation: (the) end
     transliteration: ʿāqibatu
   9:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: (of) those
     transliteration: alladhīna
   10:
-    arabic: مِنۡ
+    arabic: مِن
     translation: before them
     transliteration: min
   11:
-    arabic: قَبۡلِهِمۡ​ؕ
+    arabic: قَبۡلِهِمۡۚ
     translation: before them
     transliteration: qablihim
   12:
-    arabic: كَانُوۡۤا
+    arabic: كَانُوٓاْ
     translation: They were
     transliteration: kānū
   13:
-    arabic: اَشَدَّ
+    arabic: أَشَدَّ
     translation: mightier
     transliteration: ashadda
   14:
@@ -67,23 +66,23 @@ word_by_word:
     translation: than them
     transliteration: min'hum
   15:
-    arabic: قُوَّةً
+    arabic: قُوَّةٗ
     translation: (in) strength
     transliteration: quwwatan
   16:
-    arabic: وَّاَثَارُوا
+    arabic: وَأَثَارُواْ
     translation: and they dug
     transliteration: wa-athārū
   17:
-    arabic: الۡاَرۡضَ
+    arabic: ٱلۡأَرۡضَ
     translation: the earth
     transliteration: l-arḍa
   18:
-    arabic: وَعَمَرُوۡهَاۤ
+    arabic: وَعَمَرُوهَآ
     translation: and built (on) it
     transliteration: waʿamarūhā
   19:
-    arabic: اَكۡثَرَ
+    arabic: أَكۡثَرَ
     translation: more
     transliteration: akthara
   20:
@@ -91,7 +90,7 @@ word_by_word:
     translation: than what
     transliteration: mimmā
   21:
-    arabic: عَمَرُوۡهَا
+    arabic: عَمَرُوهَا
     translation: they have built (on) it
     transliteration: ʿamarūhā
   22:
@@ -99,11 +98,11 @@ word_by_word:
     translation: And came (to) them
     transliteration: wajāathum
   23:
-    arabic: رُسُلُهُمۡ
+    arabic: رُسُلُهُم
     translation: their Messengers
     transliteration: rusuluhum
   24:
-    arabic: بِالۡبَيِّنٰتِ​ ؕ
+    arabic: بِٱلۡبَيِّنَٰتِۖ
     translation: with clear proofs
     transliteration: bil-bayināti
   25:
@@ -115,7 +114,7 @@ word_by_word:
     translation: was
     transliteration: kāna
   27:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   28:
@@ -123,19 +122,19 @@ word_by_word:
     translation: to wrong them
     transliteration: liyaẓlimahum
   29:
-    arabic: وَلٰـكِنۡ
+    arabic: وَلَٰكِن
     translation: but
     transliteration: walākin
   30:
-    arabic: كَانُوۡۤا
+    arabic: كَانُوٓاْ
     translation: they were
     transliteration: kānū
   31:
-    arabic: اَنۡفُسَهُمۡ
+    arabic: أَنفُسَهُمۡ
     translation: themselves
     transliteration: anfusahum
   32:
-    arabic: يَظۡلِمُوۡنَ ؕ‏
+    arabic: يَظۡلِمُونَ
     translation: (doing) wrong
     transliteration: yaẓlimūna
 ---

@@ -1,9 +1,9 @@
 ---
-arabic_ayat: اِنَّ اللّٰهَ لَا يَسۡتَحۡـىٖۤ اَنۡ يَّضۡرِبَ مَثَلًا مَّا ​بَعُوۡضَةً
-  فَمَا فَوۡقَهَا ​ؕ فَاَمَّا ​الَّذِيۡنَ اٰمَنُوۡا فَيَعۡلَمُوۡنَ اَنَّهُ الۡحَـقُّ
-  مِنۡ رَّبِّهِمۡ​ۚ وَاَمَّا الَّذِيۡنَ ڪَفَرُوۡا فَيَقُوۡلُوۡنَ مَاذَآ اَرَادَ اللّٰهُ
-  بِهٰذَا مَثَلًا ۘ يُضِلُّ بِهٖ ڪَثِيۡرًا وَّيَهۡدِىۡ بِهٖ كَثِيۡرًا ​ؕ وَمَا يُضِلُّ
-  بِهٖۤ اِلَّا الۡفٰسِقِيۡنَۙ ‏
+arabic_ayat: ۞ إِنَّ ٱللَّهَ لَا يَسۡتَحۡيِۦٓ أَن يَضۡرِبَ مَثَلٗا مَّا بَعُوضَةٗ
+  فَمَا فَوۡقَهَاۚ فَأَمَّا ٱلَّذِينَ ءَامَنُواْ فَيَعۡلَمُونَ أَنَّهُ ٱلۡحَقُّ مِن
+  رَّبِّهِمۡۖ وَأَمَّا ٱلَّذِينَ كَفَرُواْ فَيَقُولُونَ مَاذَآ أَرَادَ ٱللَّهُ بِهَٰذَا
+  مَثَلٗاۘ يُضِلُّ بِهِۦ كَثِيرٗا وَيَهۡدِي بِهِۦ كَثِيرٗاۚ وَمَا يُضِلُّ بِهِۦٓ إِلَّا
+  ٱلۡفَٰسِقِينَ
 sentence_translation: Surely Allah does not shy away from using the parable of a mosquito
   or what is even smaller. As for the believers, they know that it is the truth from
   their Lord. And as for the disbelievers, they argue, “What does Allah mean by such
@@ -11,11 +11,11 @@ sentence_translation: Surely Allah does not shy away from using the parable of a
   leaves none to stray except the rebellious—
 word_by_word:
   1:
-    arabic: ۞ اِنَّ
+    arabic: ۞ إِنَّ
     translation: Indeed
     transliteration: inna
   2:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   3:
@@ -23,19 +23,19 @@ word_by_word:
     translation: (is) not
     transliteration: lā
   4:
-    arabic: يَسۡتَحۡـىٖۤ
+    arabic: يَسۡتَحۡيِۦٓ
     translation: ashamed
     transliteration: yastaḥyī
   5:
-    arabic: اَنۡ
+    arabic: أَن
     translation: to
     transliteration: an
   6:
-    arabic: يَّضۡرِبَ
+    arabic: يَضۡرِبَ
     translation: set forth
     transliteration: yaḍriba
   7:
-    arabic: مَثَلًا
+    arabic: مَثَلٗا
     translation: an example
     transliteration: mathalan
   8:
@@ -43,7 +43,7 @@ word_by_word:
     translation: (like) even
     transliteration: mā
   9:
-    arabic: بَعُوۡضَةً
+    arabic: بَعُوضَةٗ
     translation: (of) a mosquito
     transliteration: baʿūḍatan
   10:
@@ -51,55 +51,55 @@ word_by_word:
     translation: and (even) something
     transliteration: famā
   11:
-    arabic: فَوۡقَهَا ​ؕ
+    arabic: فَوۡقَهَاۚ
     translation: above it
     transliteration: fawqahā
   12:
-    arabic: فَاَمَّا
+    arabic: فَأَمَّا
     translation: Then as for
     transliteration: fa-ammā
   13:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ ءَ
     translation: those who
     transliteration: alladhīna
   14:
-    arabic: اٰمَنُوۡا
+    arabic: امَنُواْ
     translation: believed
     transliteration: āmanū
   15:
-    arabic: فَيَعۡلَمُوۡنَ
+    arabic: فَيَعۡلَمُونَ
     translation: '[thus] they will know'
     transliteration: fayaʿlamūna
   16:
-    arabic: اَنَّهُ
+    arabic: أَنَّهُ
     translation: that it
     transliteration: annahu
   17:
-    arabic: الۡحَـقُّ
+    arabic: ٱلۡحَقُّ
     translation: (is) the truth
     transliteration: l-ḥaqu
   18:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   19:
-    arabic: رَّبِّهِمۡ​ۚ
+    arabic: رَّبِّهِمۡۖ
     translation: their Lord
     transliteration: rabbihim
   20:
-    arabic: وَاَمَّا
+    arabic: وَأَمَّا
     translation: And as for
     transliteration: wa-ammā
   21:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   22:
-    arabic: ڪَفَرُوۡا
+    arabic: كَفَرُواْ
     translation: disbelieved
     transliteration: kafarū
   23:
-    arabic: فَيَقُوۡلُوۡنَ
+    arabic: فَيَقُولُونَ
     translation: '[thus] they will say'
     transliteration: fayaqūlūna
   24:
@@ -107,19 +107,19 @@ word_by_word:
     translation: what
     transliteration: mādhā
   25:
-    arabic: اَرَادَ
+    arabic: أَرَادَ
     translation: (did) intend
     transliteration: arāda
   26:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   27:
-    arabic: بِهٰذَا
+    arabic: بِهَٰذَا
     translation: by this
     transliteration: bihādhā
   28:
-    arabic: مَثَلًا ۘ
+    arabic: مَثَلٗاۘ
     translation: example
     transliteration: mathalan
   29:
@@ -127,23 +127,23 @@ word_by_word:
     translation: He lets go astray
     transliteration: yuḍillu
   30:
-    arabic: بِهٖ
+    arabic: بِهِۦ
     translation: by it
     transliteration: bihi
   31:
-    arabic: ڪَثِيۡرًا
+    arabic: كَثِيرٗا
     translation: many
     transliteration: kathīran
   32:
-    arabic: وَّيَهۡدِىۡ
+    arabic: وَيَهۡدِي
     translation: and He guides
     transliteration: wayahdī
   33:
-    arabic: بِهٖ
+    arabic: بِهِۦ
     translation: by it
     transliteration: bihi
   34:
-    arabic: كَثِيۡرًا ​ؕ
+    arabic: كَثِيرٗاۚ
     translation: many
     transliteration: kathīran
   35:
@@ -155,15 +155,15 @@ word_by_word:
     translation: He lets go astray
     transliteration: yuḍillu
   37:
-    arabic: بِهٖۤ
+    arabic: بِهِۦٓ
     translation: by it
     transliteration: bihi
   38:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   39:
-    arabic: الۡفٰسِقِيۡنَۙ
+    arabic: ٱلۡفَٰسِقِينَ
     translation: the defiantly disobedient
     transliteration: l-fāsiqīna
 ---

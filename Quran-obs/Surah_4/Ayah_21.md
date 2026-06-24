@@ -1,15 +1,15 @@
 ---
-arabic_ayat: وَ كَيۡفَ تَاۡخُذُوۡنَهٗ وَقَدۡ اَفۡضٰى بَعۡضُكُمۡ اِلٰى بَعۡضٍ وَّاَخَذۡنَ
-  مِنۡكُمۡ مِّيۡثَاقًا غَلِيۡظًا‏
+arabic_ayat: وَكَيۡفَ تَأۡخُذُونَهُۥ وَقَدۡ أَفۡضَىٰ بَعۡضُكُمۡ إِلَىٰ بَعۡضٖ وَأَخَذۡنَ
+  مِنكُم مِّيثَٰقًا غَلِيظٗا
 sentence_translation: And how could you take it back after having enjoyed each other
   intimately and she has taken from you a firm commitment? 
 word_by_word:
   1:
-    arabic: وَ كَيۡفَ
+    arabic: وَكَيۡفَ
     translation: And how
     transliteration: wakayfa
   2:
-    arabic: تَاۡخُذُوۡنَهٗ
+    arabic: تَأۡخُذُونَهُۥ
     translation: could you take it
     transliteration: takhudhūnahu
   3:
@@ -17,7 +17,7 @@ word_by_word:
     translation: when surely
     transliteration: waqad
   4:
-    arabic: اَفۡضٰى
+    arabic: أَفۡضَىٰ
     translation: 'has gone '
     transliteration: afḍā
   5:
@@ -25,27 +25,27 @@ word_by_word:
     translation: one of you
     transliteration: baʿḍukum
   6:
-    arabic: اِلٰى
+    arabic: إِلَىٰ
     translation: to
     transliteration: ilā
   7:
-    arabic: بَعۡضٍ
+    arabic: بَعۡضٖ
     translation: another
     transliteration: baʿḍin
   8:
-    arabic: وَّاَخَذۡنَ
+    arabic: وَأَخَذۡنَ
     translation: and they have taken
     transliteration: wa-akhadhna
   9:
-    arabic: مِنۡكُمۡ
+    arabic: مِنكُم
     translation: from you
     transliteration: minkum
   10:
-    arabic: مِّيۡثَاقًا
+    arabic: مِّيثَٰقًا
     translation: covenant
     transliteration: mīthāqan
   11:
-    arabic: غَلِيۡظًا‏
+    arabic: غَلِيظٗا
     translation: strong
     transliteration: ghalīẓan
 ---

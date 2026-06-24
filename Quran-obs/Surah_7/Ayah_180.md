@@ -1,48 +1,48 @@
 ---
-arabic_ayat: وَلِلّٰهِ الۡاَسۡمَآءُ الۡحُسۡنٰى فَادۡعُوۡهُ بِهَا​ وَذَرُوا الَّذِيۡنَ
-  يُلۡحِدُوۡنَ فِىۡۤ اَسۡمَآٮِٕهٖ​ ؕ سَيُجۡزَوۡنَ مَا كَانُوۡا يَعۡمَلُوۡنَ‏
+arabic_ayat: وَلِلَّهِ ٱلۡأَسۡمَآءُ ٱلۡحُسۡنَىٰ فَٱدۡعُوهُ بِهَاۖ وَذَرُواْ ٱلَّذِينَ
+  يُلۡحِدُونَ فِيٓ أَسۡمَٰٓئِهِۦۚ سَيُجۡزَوۡنَ مَا كَانُواْ يَعۡمَلُونَ
 sentence_translation: Allah has the Most Beautiful Names. So call upon Him by them,
   and keep away from those who abuse His Names. They will be punished for what they
   used to do.
 word_by_word:
   1:
-    arabic: وَلِلّٰهِ
+    arabic: وَلِلَّهِ
     translation: And for Allah
     transliteration: walillahi
   2:
-    arabic: الۡاَسۡمَآءُ
+    arabic: ٱلۡأَسۡمَآءُ
     translation: '(are) the names '
     transliteration: l-asmāu
   3:
-    arabic: الۡحُسۡنٰى
+    arabic: ٱلۡحُسۡنَىٰ
     translation: the most beautiful
     transliteration: l-ḥus'nā
   4:
-    arabic: فَادۡعُوۡهُ
+    arabic: فَٱدۡعُوهُ
     translation: so invoke Him
     transliteration: fa-id'ʿūhu
   5:
-    arabic: بِهَا​
+    arabic: بِهَاۖ
     translation: by them
     transliteration: bihā
   6:
-    arabic: وَذَرُوا
+    arabic: وَذَرُواْ
     translation: And leave
     transliteration: wadharū
   7:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   8:
-    arabic: يُلۡحِدُوۡنَ
+    arabic: يُلۡحِدُونَ
     translation: deviate
     transliteration: yul'ḥidūna
   9:
-    arabic: فِىۡۤ
+    arabic: فِيٓ
     translation: concerning
     transliteration: fī
   10:
-    arabic: اَسۡمَآٮِٕهٖ​ ؕ
+    arabic: أَسۡمَٰٓئِهِۦۚ
     translation: His names
     transliteration: asmāihi
   11:
@@ -54,11 +54,11 @@ word_by_word:
     translation: for what
     transliteration: mā
   13:
-    arabic: كَانُوۡا
+    arabic: كَانُواْ
     translation: they used to
     transliteration: kānū
   14:
-    arabic: يَعۡمَلُوۡنَ‏
+    arabic: يَعۡمَلُونَ
     translation: do
     transliteration: yaʿmalūna
 ---

@@ -1,6 +1,6 @@
 ---
-arabic_ayat: قَالَا رَبَّنَا ظَلَمۡنَاۤ اَنۡفُسَنَا وَاِنۡ لَّمۡ تَغۡفِرۡ لَـنَا وَتَرۡحَمۡنَا
-  لَـنَكُوۡنَنَّ مِنَ الۡخٰسِرِيۡنَ‏
+arabic_ayat: قَالَا رَبَّنَا ظَلَمۡنَآ أَنفُسَنَا وَإِن لَّمۡ تَغۡفِرۡ لَنَا وَتَرۡحَمۡنَا
+  لَنَكُونَنَّ مِنَ ٱلۡخَٰسِرِينَ
 sentence_translation: They replied, “Our Lord! We have wronged ourselves. If You do
   not forgive us and have mercy on us, we will certainly be losers.”
 word_by_word:
@@ -13,15 +13,15 @@ word_by_word:
     translation: Our Lord
     transliteration: rabbanā
   3:
-    arabic: ظَلَمۡنَاۤ
+    arabic: ظَلَمۡنَآ
     translation: we have wronged
     transliteration: ẓalamnā
   4:
-    arabic: اَنۡفُسَنَا
+    arabic: أَنفُسَنَا
     translation: ourselves
     transliteration: anfusanā
   5:
-    arabic: وَاِنۡ
+    arabic: وَإِن
     translation: and if
     transliteration: wa-in
   6:
@@ -33,7 +33,7 @@ word_by_word:
     translation: You forgive
     transliteration: taghfir
   8:
-    arabic: لَـنَا
+    arabic: لَنَا
     translation: '[for] us'
     transliteration: lanā
   9:
@@ -41,7 +41,7 @@ word_by_word:
     translation: and have mercy (on) us
     transliteration: watarḥamnā
   10:
-    arabic: لَـنَكُوۡنَنَّ
+    arabic: لَنَكُونَنَّ
     translation: surely, we will be
     transliteration: lanakūnanna
   11:
@@ -49,7 +49,7 @@ word_by_word:
     translation: among
     transliteration: mina
   12:
-    arabic: الۡخٰسِرِيۡنَ‏
+    arabic: ٱلۡخَٰسِرِينَ
     translation: the losers
     transliteration: l-khāsirīna
 ---

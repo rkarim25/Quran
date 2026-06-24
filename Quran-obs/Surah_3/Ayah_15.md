@@ -1,42 +1,42 @@
 ---
-arabic_ayat: قُلۡ اَؤُنَبِّئُكُمۡ بِخَيۡرٍ مِّنۡ ذٰ لِكُمۡ​ؕ لِلَّذِيۡنَ اتَّقَوۡا
-  عِنۡدَ رَبِّهِمۡ جَنّٰتٌ تَجۡرِىۡ مِنۡ تَحۡتِهَا الۡاَنۡهٰرُ خٰلِدِيۡنَ فِيۡهَا
-  وَاَزۡوَاجٌ مُّطَهَّرَةٌ وَّرِضۡوَانٌ مِّنَ اللّٰهِ​ؕ وَاللّٰهُ بَصِيۡرٌۢ بِالۡعِبَادِ​ۚ‏
+arabic_ayat: ۞ قُلۡ أَؤُنَبِّئُكُم بِخَيۡرٖ مِّن ذَٰلِكُمۡۖ لِلَّذِينَ ٱتَّقَوۡاْ
+  عِندَ رَبِّهِمۡ جَنَّٰتٞ تَجۡرِي مِن تَحۡتِهَا ٱلۡأَنۡهَٰرُ خَٰلِدِينَ فِيهَا وَأَزۡوَٰجٞ
+  مُّطَهَّرَةٞ وَرِضۡوَٰنٞ مِّنَ ٱللَّهِۗ وَٱللَّهُ بَصِيرُۢ بِٱلۡعِبَادِ
 sentence_translation: Say, ˹O Prophet,˺ “Shall I inform you of what is better than
   ˹all of˺ this? Those mindful ˹of Allah˺ will have Gardens with their Lord under
   which rivers flow, to stay there forever, and pure spouses, along with Allah’s pleasure.”
   And Allah is All-Seeing of ˹His˺ servants,
 word_by_word:
   1:
-    arabic: ۞ قُلۡ
+    arabic: ۞ قُلۡ
     translation: Say
     transliteration: qul
   2:
-    arabic: اَؤُنَبِّئُكُمۡ
+    arabic: أَؤُنَبِّئُكُم
     translation: Shall I inform you
     transliteration: a-unabbi-ukum
   3:
-    arabic: بِخَيۡرٍ
+    arabic: بِخَيۡرٖ
     translation: of better
     transliteration: bikhayrin
   4:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: than
     transliteration: min
   5:
-    arabic: ذٰ لِكُمۡ​ؕ
+    arabic: ذَٰلِكُمۡۖ
     translation: that
     transliteration: dhālikum
   6:
-    arabic: لِلَّذِيۡنَ
+    arabic: لِلَّذِينَ
     translation: For those who
     transliteration: lilladhīna
   7:
-    arabic: اتَّقَوۡا
+    arabic: ٱتَّقَوۡاْ
     translation: fear[ed]
     transliteration: ittaqaw
   8:
-    arabic: عِنۡدَ
+    arabic: عِندَ
     translation: with
     transliteration: ʿinda
   9:
@@ -44,15 +44,15 @@ word_by_word:
     translation: their Lord
     transliteration: rabbihim
   10:
-    arabic: جَنّٰتٌ
+    arabic: جَنَّٰتٞ
     translation: (are) Gardens
     transliteration: jannātun
   11:
-    arabic: تَجۡرِىۡ
+    arabic: تَجۡرِي
     translation: flows
     transliteration: tajrī
   12:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   13:
@@ -60,27 +60,27 @@ word_by_word:
     translation: underneath them
     transliteration: taḥtihā
   14:
-    arabic: الۡاَنۡهٰرُ
+    arabic: ٱلۡأَنۡهَٰرُ
     translation: '[the] rivers '
     transliteration: l-anhāru
   15:
-    arabic: خٰلِدِيۡنَ
+    arabic: خَٰلِدِينَ
     translation: abiding forever
     transliteration: khālidīna
   16:
-    arabic: فِيۡهَا
+    arabic: فِيهَا
     translation: in it
     transliteration: fīhā
   17:
-    arabic: وَاَزۡوَاجٌ
+    arabic: وَأَزۡوَٰجٞ
     translation: and spouses
     transliteration: wa-azwājun
   18:
-    arabic: مُّطَهَّرَةٌ
+    arabic: مُّطَهَّرَةٞ
     translation: pure
     transliteration: muṭahharatun
   19:
-    arabic: وَّرِضۡوَانٌ
+    arabic: وَرِضۡوَٰنٞ
     translation: and approval
     transliteration: wariḍ'wānun
   20:
@@ -88,19 +88,19 @@ word_by_word:
     translation: from
     transliteration: mina
   21:
-    arabic: اللّٰهِ​ؕ
+    arabic: ٱللَّهِۗ
     translation: Allah
     transliteration: l-lahi
   22:
-    arabic: وَاللّٰهُ
+    arabic: وَٱللَّهُ
     translation: And Allah
     transliteration: wal-lahu
   23:
-    arabic: بَصِيۡرٌۢ
+    arabic: بَصِيرُۢ
     translation: (is) All-Seer
     transliteration: baṣīrun
   24:
-    arabic: بِالۡعِبَادِ​ۚ‏
+    arabic: بِٱلۡعِبَادِ
     translation: of (His) slaves
     transliteration: bil-ʿibādi
 ---

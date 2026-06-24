@@ -1,29 +1,28 @@
 ---
-arabic_ayat: اِذۡ تَلَـقَّوۡنَهٗ بِاَ لۡسِنَتِكُمۡ وَتَقُوۡلُوۡنَ بِاَ فۡوَاهِكُمۡ
-  مَّا لَـيۡسَ لَـكُمۡ بِهٖ عِلۡمٌ وَّتَحۡسَبُوۡنَهٗ هَيِّنًا ​ ۖ  وَّهُوَ عِنۡدَ
-  اللّٰهِ عَظِيۡمٌ‏
+arabic_ayat: إِذۡ تَلَقَّوۡنَهُۥ بِأَلۡسِنَتِكُمۡ وَتَقُولُونَ بِأَفۡوَاهِكُم مَّا
+  لَيۡسَ لَكُم بِهِۦ عِلۡمٞ وَتَحۡسَبُونَهُۥ هَيِّنٗا وَهُوَ عِندَ ٱللَّهِ عَظِيمٞ
 sentence_translation: when you passed it from one tongue to the other, and said with
   your mouths what you had no knowledge of, taking it lightly while it is ˹extremely˺
   serious in the sight of Allah.
 word_by_word:
   1:
-    arabic: اِذۡ
+    arabic: إِذۡ
     translation: When
     transliteration: idh
   2:
-    arabic: تَلَـقَّوۡنَهٗ
+    arabic: تَلَقَّوۡنَهُۥ
     translation: you received it
     transliteration: talaqqawnahu
   3:
-    arabic: بِاَ لۡسِنَتِكُمۡ
+    arabic: بِأَلۡسِنَتِكُمۡ
     translation: with your tongues
     transliteration: bi-alsinatikum
   4:
-    arabic: وَتَقُوۡلُوۡنَ
+    arabic: وَتَقُولُونَ
     translation: and you said
     transliteration: wataqūlūna
   5:
-    arabic: بِاَ فۡوَاهِكُمۡ
+    arabic: بِأَفۡوَاهِكُم
     translation: with your mouths
     transliteration: bi-afwāhikum
   6:
@@ -31,43 +30,43 @@ word_by_word:
     translation: what
     transliteration: mā
   7:
-    arabic: لَـيۡسَ
+    arabic: لَيۡسَ
     translation: not
     transliteration: laysa
   8:
-    arabic: لَـكُمۡ
+    arabic: لَكُم
     translation: for you
     transliteration: lakum
   9:
-    arabic: بِهٖ
+    arabic: بِهِۦ
     translation: of it
     transliteration: bihi
   10:
-    arabic: عِلۡمٌ
+    arabic: عِلۡمٞ
     translation: any knowledge
     transliteration: ʿil'mun
   11:
-    arabic: وَّتَحۡسَبُوۡنَهٗ
+    arabic: وَتَحۡسَبُونَهُۥ
     translation: and you thought it
     transliteration: wataḥsabūnahu
   12:
-    arabic: هَيِّنًا ​ ۖ 
+    arabic: هَيِّنٗا
     translation: (was) insignificant
     transliteration: hayyinan
   13:
-    arabic: وَّهُوَ
+    arabic: وَهُوَ
     translation: while it
     transliteration: wahuwa
   14:
-    arabic: عِنۡدَ
+    arabic: عِندَ
     translation: (was) near Allah
     transliteration: ʿinda
   15:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (was) near Allah
     transliteration: l-lahi
   16:
-    arabic: عَظِيۡمٌ‏
+    arabic: عَظِيمٞ
     translation: great
     transliteration: ʿaẓīmun
 ---

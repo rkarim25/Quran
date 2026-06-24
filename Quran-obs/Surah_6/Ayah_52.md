@@ -1,7 +1,7 @@
 ---
-arabic_ayat: وَلَا تَطۡرُدِ الَّذِيۡنَ يَدۡعُوۡنَ رَبَّهُمۡ بِالۡغَدٰوةِ وَالۡعَشِىِّ
-  يُرِيۡدُوۡنَ وَجۡهَهٗ​ ؕ مَا عَلَيۡكَ مِنۡ حِسَابِهِمۡ مِّنۡ شَىۡءٍ وَّمَا مِنۡ
-  حِسَابِكَ عَلَيۡهِمۡ مِّنۡ شَىۡءٍ فَتَطۡرُدَهُمۡ فَتَكُوۡنَ مِنَ الظّٰلِمِيۡنَ‏
+arabic_ayat: وَلَا تَطۡرُدِ ٱلَّذِينَ يَدۡعُونَ رَبَّهُم بِٱلۡغَدَوٰةِ وَٱلۡعَشِيِّ
+  يُرِيدُونَ وَجۡهَهُۥۖ مَا عَلَيۡكَ مِنۡ حِسَابِهِم مِّن شَيۡءٖ وَمَا مِنۡ حِسَابِكَ
+  عَلَيۡهِم مِّن شَيۡءٖ فَتَطۡرُدَهُمۡ فَتَكُونَ مِنَ ٱلظَّٰلِمِينَ
 sentence_translation: ˹O Prophet!˺ Do not dismiss those ˹poor believers˺ who invoke
   their Lord morning and evening, seeking His pleasure. You are not accountable for
   them whatsoever, nor are they accountable for you. So do not dismiss them, or you
@@ -16,31 +16,31 @@ word_by_word:
     translation: send away
     transliteration: taṭrudi
   3:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   4:
-    arabic: يَدۡعُوۡنَ
+    arabic: يَدۡعُونَ
     translation: call
     transliteration: yadʿūna
   5:
-    arabic: رَبَّهُمۡ
+    arabic: رَبَّهُم
     translation: their Lord
     transliteration: rabbahum
   6:
-    arabic: بِالۡغَدٰوةِ
+    arabic: بِٱلۡغَدَوٰةِ
     translation: in the morning
     transliteration: bil-ghadati
   7:
-    arabic: وَالۡعَشِىِّ
+    arabic: وَٱلۡعَشِيِّ
     translation: and the evening
     transliteration: wal-ʿashiyi
   8:
-    arabic: يُرِيۡدُوۡنَ
+    arabic: يُرِيدُونَ
     translation: desiring
     transliteration: yurīdūna
   9:
-    arabic: وَجۡهَهٗ​ ؕ
+    arabic: وَجۡهَهُۥۖ
     translation: His Countenance
     transliteration: wajhahu
   10:
@@ -56,19 +56,19 @@ word_by_word:
     translation: of
     transliteration: min
   13:
-    arabic: حِسَابِهِمۡ
+    arabic: حِسَابِهِم
     translation: their account
     transliteration: ḥisābihim
   14:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: '[of]'
     transliteration: min
   15:
-    arabic: شَىۡءٍ
+    arabic: شَيۡءٖ
     translation: anything
     transliteration: shayin
   16:
-    arabic: وَّمَا
+    arabic: وَمَا
     translation: and not
     transliteration: wamā
   17:
@@ -80,15 +80,15 @@ word_by_word:
     translation: your account
     transliteration: ḥisābika
   19:
-    arabic: عَلَيۡهِمۡ
+    arabic: عَلَيۡهِم
     translation: on them
     transliteration: ʿalayhim
   20:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: '[of]'
     transliteration: min
   21:
-    arabic: شَىۡءٍ
+    arabic: شَيۡءٖ
     translation: anything
     transliteration: shayin
   22:
@@ -96,7 +96,7 @@ word_by_word:
     translation: So were you to send them away
     transliteration: fataṭrudahum
   23:
-    arabic: فَتَكُوۡنَ
+    arabic: فَتَكُونَ
     translation: then you would be
     transliteration: fatakūna
   24:
@@ -104,7 +104,7 @@ word_by_word:
     translation: of
     transliteration: mina
   25:
-    arabic: الظّٰلِمِيۡنَ‏
+    arabic: ٱلظَّٰلِمِينَ
     translation: the wrongdoers
     transliteration: l-ẓālimīna
 ---

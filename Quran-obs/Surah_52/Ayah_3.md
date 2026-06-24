@@ -1,17 +1,17 @@
 ---
-arabic_ayat: فِىۡ رَقٍّ مَّنۡشُوۡرٍۙ‏
+arabic_ayat: فِي رَقّٖ مَّنشُورٖ
 sentence_translation: on open pages ˹for all to read˺!
 word_by_word:
   1:
-    arabic: فِىۡ
+    arabic: فِي
     translation: In
     transliteration: fī
   2:
-    arabic: رَقٍّ
+    arabic: رَقّٖ
     translation: parchment
     transliteration: raqqin
   3:
-    arabic: مَّنۡشُوۡرٍۙ‏
+    arabic: مَّنشُورٖ
     translation: unrolled
     transliteration: manshūrin
 ---

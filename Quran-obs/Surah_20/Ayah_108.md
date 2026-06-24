@@ -1,20 +1,20 @@
 ---
-arabic_ayat: يَوۡمَٮِٕذٍ يَّتَّبِعُوۡنَ الدَّاعِىَ لَا عِوَجَ لَهٗ​ؕ وَخَشَعَتِ الۡاَصۡوَاتُ
-  لِلرَّحۡمٰنِ فَلَا تَسۡمَعُ اِلَّا هَمۡسًا‏
+arabic_ayat: يَوۡمَئِذٖ يَتَّبِعُونَ ٱلدَّاعِيَ لَا عِوَجَ لَهُۥۖ وَخَشَعَتِ ٱلۡأَصۡوَاتُ
+  لِلرَّحۡمَٰنِ فَلَا تَسۡمَعُ إِلَّا هَمۡسٗا
 sentence_translation: On that Day all will follow the caller ˹for assembly˺, ˹and˺
   none will dare to deviate. All voices will be hushed before the Most Compassionate.
   Only whispers will be heard.
 word_by_word:
   1:
-    arabic: يَوۡمَٮِٕذٍ
+    arabic: يَوۡمَئِذٖ
     translation: On that Day
     transliteration: yawma-idhin
   2:
-    arabic: يَّتَّبِعُوۡنَ
+    arabic: يَتَّبِعُونَ
     translation: they will follow
     transliteration: yattabiʿūna
   3:
-    arabic: الدَّاعِىَ
+    arabic: ٱلدَّاعِيَ
     translation: the caller
     transliteration: l-dāʿiya
   4:
@@ -26,7 +26,7 @@ word_by_word:
     translation: deviation
     transliteration: ʿiwaja
   6:
-    arabic: لَهٗ​ؕ
+    arabic: لَهُۥۖ
     translation: from it
     transliteration: lahu
   7:
@@ -34,11 +34,11 @@ word_by_word:
     translation: And (will be) humbled
     transliteration: wakhashaʿati
   8:
-    arabic: الۡاَصۡوَاتُ
+    arabic: ٱلۡأَصۡوَاتُ
     translation: the voices
     transliteration: l-aṣwātu
   9:
-    arabic: لِلرَّحۡمٰنِ
+    arabic: لِلرَّحۡمَٰنِ
     translation: for the Most Gracious
     transliteration: lilrraḥmāni
   10:
@@ -50,11 +50,11 @@ word_by_word:
     translation: you will hear
     transliteration: tasmaʿu
   12:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   13:
-    arabic: هَمۡسًا‏
+    arabic: هَمۡسٗا
     translation: a faint sound
     transliteration: hamsan
 ---

@@ -1,12 +1,12 @@
 ---
-arabic_ayat: وَاِنۡ مَّا نُرِيَـنَّكَ بَعۡضَ الَّذِىۡ نَعِدُهُمۡ اَوۡ نَـتَوَفَّيَنَّكَ
-  فَاِنَّمَا عَلَيۡكَ الۡبَلٰغُ وَعَلَيۡنَا الۡحِسَابُ‏
+arabic_ayat: وَإِن مَّا نُرِيَنَّكَ بَعۡضَ ٱلَّذِي نَعِدُهُمۡ أَوۡ نَتَوَفَّيَنَّكَ
+  فَإِنَّمَا عَلَيۡكَ ٱلۡبَلَٰغُ وَعَلَيۡنَا ٱلۡحِسَابُ
 sentence_translation: Whether We show you ˹O Prophet˺ some of what We threaten them
   with, or cause you to die ˹before that˺, your duty is only to deliver ˹the message˺.
   Judgment is for Us.
 word_by_word:
   1:
-    arabic: وَاِنۡ
+    arabic: وَإِن
     translation: And whether
     transliteration: wa-in
   2:
@@ -14,7 +14,7 @@ word_by_word:
     translation: (what)
     transliteration: mā
   3:
-    arabic: نُرِيَـنَّكَ
+    arabic: نُرِيَنَّكَ
     translation: We show you
     transliteration: nuriyannaka
   4:
@@ -22,7 +22,7 @@ word_by_word:
     translation: a part
     transliteration: baʿḍa
   5:
-    arabic: الَّذِىۡ
+    arabic: ٱلَّذِي
     translation: (of) what
     transliteration: alladhī
   6:
@@ -30,15 +30,15 @@ word_by_word:
     translation: We have promised them
     transliteration: naʿiduhum
   7:
-    arabic: اَوۡ
+    arabic: أَوۡ
     translation: or
     transliteration: aw
   8:
-    arabic: نَـتَوَفَّيَنَّكَ
+    arabic: نَتَوَفَّيَنَّكَ
     translation: We cause you to die
     transliteration: natawaffayannaka
   9:
-    arabic: فَاِنَّمَا
+    arabic: فَإِنَّمَا
     translation: so only
     transliteration: fa-innamā
   10:
@@ -46,7 +46,7 @@ word_by_word:
     translation: on you
     transliteration: ʿalayka
   11:
-    arabic: الۡبَلٰغُ
+    arabic: ٱلۡبَلَٰغُ
     translation: (is) the conveyance
     transliteration: l-balāghu
   12:
@@ -54,7 +54,7 @@ word_by_word:
     translation: and on Us
     transliteration: waʿalaynā
   13:
-    arabic: الۡحِسَابُ‏
+    arabic: ٱلۡحِسَابُ
     translation: (is) the reckoning
     transliteration: l-ḥisābu
 ---

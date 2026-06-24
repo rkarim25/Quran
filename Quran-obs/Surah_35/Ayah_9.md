@@ -1,53 +1,53 @@
 ---
-arabic_ayat: "وَاللّٰهُ الَّذِىۡۤ اَرۡسَلَ الرِّيٰحَ فَتُثِيۡرُ سَحَابًا فَسُقۡنٰهُ\
-  \ اِلٰى بَلَدٍ مَّيِّتٍ فَاَحۡيَيۡنَا بِهِ الۡاَرۡضَ بَعۡدَ مَوۡتِهَا ؕ كَذٰلِكَ\
-  \ النُّشُوۡرُ‏ \uFEFF\uFEFF"
+arabic_ayat: وَٱللَّهُ ٱلَّذِيٓ أَرۡسَلَ ٱلرِّيَٰحَ فَتُثِيرُ سَحَابٗا فَسُقۡنَٰهُ
+  إِلَىٰ بَلَدٖ مَّيِّتٖ فَأَحۡيَيۡنَا بِهِ ٱلۡأَرۡضَ بَعۡدَ مَوۡتِهَاۚ كَذَٰلِكَ
+  ٱلنُّشُورُ
 sentence_translation: And it is Allah Who sends the winds, which then stir up ˹vapour,
   forming˺ clouds, and then We drive them to a lifeless land, giving life to the earth
   after its death. Similar is the Resurrection.
 word_by_word:
   1:
-    arabic: وَاللّٰهُ
+    arabic: وَٱللَّهُ
     translation: And Allah
     transliteration: wal-lahu
   2:
-    arabic: الَّذِىۡۤ
+    arabic: ٱلَّذِيٓ
     translation: (is) the One Who
     transliteration: alladhī
   3:
-    arabic: اَرۡسَلَ
+    arabic: أَرۡسَلَ
     translation: sends
     transliteration: arsala
   4:
-    arabic: الرِّيٰحَ
+    arabic: ٱلرِّيَٰحَ
     translation: the winds
     transliteration: l-riyāḥa
   5:
-    arabic: فَتُثِيۡرُ
+    arabic: فَتُثِيرُ
     translation: so that they raise
     transliteration: fatuthīru
   6:
-    arabic: سَحَابًا
+    arabic: سَحَابٗا
     translation: (the) clouds
     transliteration: saḥāban
   7:
-    arabic: فَسُقۡنٰهُ
+    arabic: فَسُقۡنَٰهُ
     translation: and We drive them
     transliteration: fasuq'nāhu
   8:
-    arabic: اِلٰى
+    arabic: إِلَىٰ
     translation: to
     transliteration: ilā
   9:
-    arabic: بَلَدٍ
+    arabic: بَلَدٖ
     translation: a land
     transliteration: baladin
   10:
-    arabic: مَّيِّتٍ
+    arabic: مَّيِّتٖ
     translation: dead
     transliteration: mayyitin
   11:
-    arabic: فَاَحۡيَيۡنَا
+    arabic: فَأَحۡيَيۡنَا
     translation: and We revive
     transliteration: fa-aḥyaynā
   12:
@@ -55,7 +55,7 @@ word_by_word:
     translation: therewith
     transliteration: bihi
   13:
-    arabic: الۡاَرۡضَ
+    arabic: ٱلۡأَرۡضَ
     translation: the earth
     transliteration: l-arḍa
   14:
@@ -63,15 +63,15 @@ word_by_word:
     translation: after
     transliteration: baʿda
   15:
-    arabic: مَوۡتِهَا ؕ
+    arabic: مَوۡتِهَاۚ
     translation: its death
     transliteration: mawtihā
   16:
-    arabic: كَذٰلِكَ
+    arabic: كَذَٰلِكَ
     translation: Thus
     transliteration: kadhālika
   17:
-    arabic: "النُّشُوۡرُ‏ \uFEFF\uFEFF"
+    arabic: ٱلنُّشُورُ
     translation: (will be) the Resurrection
     transliteration: l-nushūru
 ---

@@ -1,7 +1,6 @@
 ---
-arabic_ayat: وَرَبُّكَ الۡغَفُوۡرُ ذُوۡ الرَّحۡمَةِ​ ؕ لَوۡ يُؤَاخِذُهُمۡ بِمَا كَسَبُوۡا
-  لَعَجَّلَ لَهُمُ الۡعَذَابَ​ ؕ بَلْ لَّهُمۡ مَّوۡعِدٌ لَّنۡ يَّجِدُوۡا مِنۡ دُوۡنِهٖ
-  مَوۡٮِٕلًا‏
+arabic_ayat: وَرَبُّكَ ٱلۡغَفُورُ ذُو ٱلرَّحۡمَةِۖ لَوۡ يُؤَاخِذُهُم بِمَا كَسَبُواْ
+  لَعَجَّلَ لَهُمُ ٱلۡعَذَابَۚ بَل لَّهُم مَّوۡعِدٞ لَّن يَجِدُواْ مِن دُونِهِۦ مَوۡئِلٗا
 sentence_translation: Your Lord is the All-Forgiving, Full of Mercy. If He were to
   seize them ˹immediately˺ for what they commit, He would have certainly hastened
   their punishment. But they have an appointed time, from which they will find no
@@ -12,15 +11,15 @@ word_by_word:
     translation: And your Lord
     transliteration: warabbuka
   2:
-    arabic: الۡغَفُوۡرُ
+    arabic: ٱلۡغَفُورُ
     translation: (is) the Most Forgiving
     transliteration: l-ghafūru
   3:
-    arabic: ذُوۡ
+    arabic: ذُو
     translation: Owner
     transliteration: dhū
   4:
-    arabic: الرَّحۡمَةِ​ ؕ
+    arabic: ٱلرَّحۡمَةِۖ
     translation: (of) the Mercy
     transliteration: l-raḥmati
   5:
@@ -28,7 +27,7 @@ word_by_word:
     translation: If
     transliteration: law
   6:
-    arabic: يُؤَاخِذُهُمۡ
+    arabic: يُؤَاخِذُهُم
     translation: He were to seize them
     transliteration: yuākhidhuhum
   7:
@@ -36,7 +35,7 @@ word_by_word:
     translation: for what
     transliteration: bimā
   8:
-    arabic: كَسَبُوۡا
+    arabic: كَسَبُواْ
     translation: they have earned
     transliteration: kasabū
   9:
@@ -48,39 +47,39 @@ word_by_word:
     translation: for them
     transliteration: lahumu
   11:
-    arabic: الۡعَذَابَ​ ؕ
+    arabic: ٱلۡعَذَابَۚ
     translation: the punishment
     transliteration: l-ʿadhāba
   12:
-    arabic: بَلْ
+    arabic: بَل
     translation: But
     transliteration: bal
   13:
-    arabic: لَّهُمۡ
+    arabic: لَّهُم
     translation: for them
     transliteration: lahum
   14:
-    arabic: مَّوۡعِدٌ
+    arabic: مَّوۡعِدٞ
     translation: (is) an appointment
     transliteration: mawʿidun
   15:
-    arabic: لَّنۡ
+    arabic: لَّن
     translation: never
     transliteration: lan
   16:
-    arabic: يَّجِدُوۡا
+    arabic: يَجِدُواْ
     translation: they will find
     transliteration: yajidū
   17:
-    arabic: مِنۡ
+    arabic: مِن
     translation: other than it
     transliteration: min
   18:
-    arabic: دُوۡنِهٖ
+    arabic: دُونِهِۦ
     translation: other than it
     transliteration: dūnihi
   19:
-    arabic: مَوۡٮِٕلًا‏
+    arabic: مَوۡئِلٗا
     translation: an escape
     transliteration: mawilan
 ---

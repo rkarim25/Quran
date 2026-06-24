@@ -1,7 +1,6 @@
 ---
-arabic_ayat: "فَبَدَّلَ الَّذِيۡنَ ظَلَمُوۡا مِنۡهُمۡ قَوۡلًا غَيۡرَ الَّذِىۡ قِيۡلَ\
-  \ لَهُمۡ فَاَرۡسَلۡنَا عَلَيۡهِمۡ رِجۡزًا مِّنَ السَّمَآءِ بِمَا كَانُوۡا يَظۡلِمُوۡنَ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: فَبَدَّلَ ٱلَّذِينَ ظَلَمُواْ مِنۡهُمۡ قَوۡلًا غَيۡرَ ٱلَّذِي قِيلَ لَهُمۡ
+  فَأَرۡسَلۡنَا عَلَيۡهِمۡ رِجۡزٗا مِّنَ ٱلسَّمَآءِ بِمَا كَانُواْ يَظۡلِمُونَ
 sentence_translation: But the wrongdoers among them changed the words they were commanded
   to say. So We sent down a punishment from the heavens upon them for their wrongdoing.
 word_by_word:
@@ -10,11 +9,11 @@ word_by_word:
     translation: But changed
     transliteration: fabaddala
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   3:
-    arabic: ظَلَمُوۡا
+    arabic: ظَلَمُواْ
     translation: wronged
     transliteration: ẓalamū
   4:
@@ -30,11 +29,11 @@ word_by_word:
     translation: other than
     transliteration: ghayra
   7:
-    arabic: الَّذِىۡ
+    arabic: ٱلَّذِي
     translation: (that) which
     transliteration: alladhī
   8:
-    arabic: قِيۡلَ
+    arabic: قِيلَ
     translation: was said
     transliteration: qīla
   9:
@@ -42,7 +41,7 @@ word_by_word:
     translation: to them
     transliteration: lahum
   10:
-    arabic: فَاَرۡسَلۡنَا
+    arabic: فَأَرۡسَلۡنَا
     translation: So We sent
     transliteration: fa-arsalnā
   11:
@@ -50,7 +49,7 @@ word_by_word:
     translation: upon them
     transliteration: ʿalayhim
   12:
-    arabic: رِجۡزًا
+    arabic: رِجۡزٗا
     translation: torment
     transliteration: rij'zan
   13:
@@ -58,7 +57,7 @@ word_by_word:
     translation: from
     transliteration: mina
   14:
-    arabic: السَّمَآءِ
+    arabic: ٱلسَّمَآءِ
     translation: the sky
     transliteration: l-samāi
   15:
@@ -66,11 +65,11 @@ word_by_word:
     translation: because
     transliteration: bimā
   16:
-    arabic: كَانُوۡا
+    arabic: كَانُواْ
     translation: they were
     transliteration: kānū
   17:
-    arabic: "يَظۡلِمُوۡنَ‏ \uFEFF\uFEFF"
+    arabic: يَظۡلِمُونَ
     translation: doing wrong
     transliteration: yaẓlimūna
 ---

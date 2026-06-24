@@ -1,9 +1,9 @@
 ---
-arabic_ayat: وَاَنَّهٗ هُوَ اَمَاتَ وَ اَحۡيَا ۙ‏
+arabic_ayat: وَأَنَّهُۥ هُوَ أَمَاتَ وَأَحۡيَا
 sentence_translation: And He is the One Who gives life and causes death.
 word_by_word:
   1:
-    arabic: وَاَنَّهٗ
+    arabic: وَأَنَّهُۥ
     translation: And that He
     transliteration: wa-annahu
   2:
@@ -11,11 +11,11 @@ word_by_word:
     translation: '[He]'
     transliteration: huwa
   3:
-    arabic: اَمَاتَ
+    arabic: أَمَاتَ
     translation: causes death
     transliteration: amāta
   4:
-    arabic: وَ اَحۡيَا ۙ‏
+    arabic: وَأَحۡيَا
     translation: and gives life
     transliteration: wa-aḥyā
 ---

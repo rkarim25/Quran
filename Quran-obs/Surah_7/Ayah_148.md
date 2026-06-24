@@ -1,14 +1,14 @@
 ---
-arabic_ayat: وَاتَّخَذَ قَوۡمُ مُوۡسٰى مِنۡۢ بَعۡدِهٖ مِنۡ حُلِيِّهِمۡ عِجۡلًا جَسَدًا
-  لَّهٗ خُوَارٌ​ ؕ اَلَمۡ يَرَوۡا اَنَّهٗ لَا يُكَلِّمُهُمۡ وَلَا يَهۡدِيۡهِمۡ سَبِيۡلًا
-  ۘ اِتَّخَذُوۡهُ وَكَانُوۡا ظٰلِمِيۡنَ‏
+arabic_ayat: وَٱتَّخَذَ قَوۡمُ مُوسَىٰ مِنۢ بَعۡدِهِۦ مِنۡ حُلِيِّهِمۡ عِجۡلٗا جَسَدٗا
+  لَّهُۥ خُوَارٌۚ أَلَمۡ يَرَوۡاْ أَنَّهُۥ لَا يُكَلِّمُهُمۡ وَلَا يَهۡدِيهِمۡ سَبِيلًاۘ
+  ٱتَّخَذُوهُ وَكَانُواْ ظَٰلِمِينَ
 sentence_translation: In the absence of Moses, his people made from their ˹golden˺
   jewellery an idol of a calf that made a lowing sound. Did they not see that it could
   neither speak to them nor guide them to the ˹Right˺ Path? Still they took it as
   a god and were wrongdoers.
 word_by_word:
   1:
-    arabic: وَاتَّخَذَ
+    arabic: وَٱتَّخَذَ
     translation: And took
     transliteration: wa-ittakhadha
   2:
@@ -16,15 +16,15 @@ word_by_word:
     translation: (the) people
     transliteration: qawmu
   3:
-    arabic: مُوۡسٰى
+    arabic: مُوسَىٰ
     translation: (of) Musa
     transliteration: mūsā
   4:
-    arabic: مِنۡۢ
+    arabic: مِنۢ
     translation: from
     transliteration: min
   5:
-    arabic: بَعۡدِهٖ
+    arabic: بَعۡدِهِۦ
     translation: after him
     transliteration: baʿdihi
   6:
@@ -36,31 +36,31 @@ word_by_word:
     translation: their ornaments
     transliteration: ḥuliyyihim
   8:
-    arabic: عِجۡلًا
+    arabic: عِجۡلٗا
     translation: 'a calf '
     transliteration: ʿij'lan
   9:
-    arabic: جَسَدًا
+    arabic: جَسَدٗا
     translation: an image
     transliteration: jasadan
   10:
-    arabic: لَّهٗ
+    arabic: لَّهُۥ
     translation: '[for] it'
     transliteration: lahu
   11:
-    arabic: خُوَارٌ​ ؕ
+    arabic: خُوَارٌۚ
     translation: (had) a lowing sound
     transliteration: khuwārun
   12:
-    arabic: اَلَمۡ
+    arabic: أَلَمۡ
     translation: Did not
     transliteration: alam
   13:
-    arabic: يَرَوۡا
+    arabic: يَرَوۡاْ
     translation: they see
     transliteration: yaraw
   14:
-    arabic: اَنَّهٗ
+    arabic: أَنَّهُۥ
     translation: that it
     transliteration: annahu
   15:
@@ -76,23 +76,23 @@ word_by_word:
     translation: and not
     transliteration: walā
   18:
-    arabic: يَهۡدِيۡهِمۡ
+    arabic: يَهۡدِيهِمۡ
     translation: guide them
     transliteration: yahdīhim
   19:
-    arabic: سَبِيۡلًا ۘ
+    arabic: سَبِيلًاۘ
     translation: (to) a way
     transliteration: sabīlan
   20:
-    arabic: اِتَّخَذُوۡهُ
+    arabic: ٱتَّخَذُوهُ
     translation: They took it (for worship)
     transliteration: ittakhadhūhu
   21:
-    arabic: وَكَانُوۡا
+    arabic: وَكَانُواْ
     translation: and they were
     transliteration: wakānū
   22:
-    arabic: ظٰلِمِيۡنَ‏
+    arabic: ظَٰلِمِينَ
     translation: wrongdoers
     transliteration: ẓālimīna
 ---

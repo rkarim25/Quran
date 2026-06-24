@@ -1,6 +1,6 @@
 ---
-arabic_ayat: وَلَقَدۡ مَكَّـنّٰكُمۡ فِى الۡاَرۡضِ وَجَعَلۡنَا لَـكُمۡ فِيۡهَا مَعَايِشَ
-  ؕ قَلِيۡلًا مَّا تَشۡكُرُوۡنَ‏
+arabic_ayat: وَلَقَدۡ مَكَّنَّٰكُمۡ فِي ٱلۡأَرۡضِ وَجَعَلۡنَا لَكُمۡ فِيهَا مَعَٰيِشَۗ
+  قَلِيلٗا مَّا تَشۡكُرُونَ
 sentence_translation: We have indeed established you on earth and provided you with
   a means of livelihood. ˹Yet˺ you seldom give any thanks.
 word_by_word:
@@ -9,15 +9,15 @@ word_by_word:
     translation: And certainly
     transliteration: walaqad
   2:
-    arabic: مَكَّـنّٰكُمۡ
+    arabic: مَكَّنَّٰكُمۡ
     translation: We established you
     transliteration: makkannākum
   3:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   4:
-    arabic: الۡاَرۡضِ
+    arabic: ٱلۡأَرۡضِ
     translation: the earth
     transliteration: l-arḍi
   5:
@@ -25,19 +25,19 @@ word_by_word:
     translation: and We made
     transliteration: wajaʿalnā
   6:
-    arabic: لَـكُمۡ
+    arabic: لَكُمۡ
     translation: for you
     transliteration: lakum
   7:
-    arabic: فِيۡهَا
+    arabic: فِيهَا
     translation: in it
     transliteration: fīhā
   8:
-    arabic: مَعَايِشَ ؕ
+    arabic: مَعَٰيِشَۗ
     translation: livelihood
     transliteration: maʿāyisha
   9:
-    arabic: قَلِيۡلًا
+    arabic: قَلِيلٗا
     translation: Little
     transliteration: qalīlan
   10:
@@ -45,7 +45,7 @@ word_by_word:
     translation: (is) what
     transliteration: mā
   11:
-    arabic: تَشۡكُرُوۡنَ‏
+    arabic: تَشۡكُرُونَ
     translation: you (are) grateful
     transliteration: tashkurūna
 ---

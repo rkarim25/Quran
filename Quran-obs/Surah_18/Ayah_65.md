@@ -1,6 +1,6 @@
 ---
-arabic_ayat: فَوَجَدَا عَبۡدًا مِّنۡ عِبَادِنَاۤ اٰتَيۡنٰهُ رَحۡمَةً مِّنۡ عِنۡدِنَا
-  وَعَلَّمۡنٰهُ مِنۡ لَّدُنَّا عِلۡمًا‏
+arabic_ayat: فَوَجَدَا عَبۡدٗا مِّنۡ عِبَادِنَآ ءَاتَيۡنَٰهُ رَحۡمَةٗ مِّنۡ عِندِنَا
+  وَعَلَّمۡنَٰهُ مِن لَّدُنَّا عِلۡمٗا
 sentence_translation: There they found a servant of Ours, to whom We had granted mercy
   from Us and enlightened with knowledge of Our Own.
 word_by_word:
@@ -9,7 +9,7 @@ word_by_word:
     translation: Then they found
     transliteration: fawajadā
   2:
-    arabic: عَبۡدًا
+    arabic: عَبۡدٗا
     translation: a servant
     transliteration: ʿabdan
   3:
@@ -17,15 +17,15 @@ word_by_word:
     translation: from
     transliteration: min
   4:
-    arabic: عِبَادِنَاۤ
+    arabic: عِبَادِنَآ ءَ
     translation: Our servants
     transliteration: ʿibādinā
   5:
-    arabic: اٰتَيۡنٰهُ
+    arabic: اتَيۡنَٰهُ
     translation: whom We had given
     transliteration: ātaynāhu
   6:
-    arabic: رَحۡمَةً
+    arabic: رَحۡمَةٗ
     translation: mercy
     transliteration: raḥmatan
   7:
@@ -33,15 +33,15 @@ word_by_word:
     translation: from
     transliteration: min
   8:
-    arabic: عِنۡدِنَا
+    arabic: عِندِنَا
     translation: Us
     transliteration: ʿindinā
   9:
-    arabic: وَعَلَّمۡنٰهُ
+    arabic: وَعَلَّمۡنَٰهُ
     translation: and We had taught him
     transliteration: waʿallamnāhu
   10:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   11:
@@ -49,7 +49,7 @@ word_by_word:
     translation: Us
     transliteration: ladunnā
   12:
-    arabic: عِلۡمًا‏
+    arabic: عِلۡمٗا
     translation: a knowledge
     transliteration: ʿil'man
 ---

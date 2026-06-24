@@ -1,6 +1,6 @@
 ---
-arabic_ayat: قَالَ يٰۤـاِبۡلِيۡسُ مَا مَنَعَكَ اَنۡ تَسۡجُدَ لِمَا خَلَقۡتُ بِيَدَىَّ​
-  ؕ اَسۡتَكۡبَرۡتَ اَمۡ كُنۡتَ مِنَ الۡعَالِيۡنَ‏
+arabic_ayat: قَالَ يَٰٓإِبۡلِيسُ مَا مَنَعَكَ أَن تَسۡجُدَ لِمَا خَلَقۡتُ بِيَدَيَّۖ
+  أَسۡتَكۡبَرۡتَ أَمۡ كُنتَ مِنَ ٱلۡعَالِينَ
 sentence_translation: Allah asked, “O Iblîs! What prevented you from prostrating to
   what I created with My Own Hands? Did you ˹just˺ become proud? Or have you always
   been arrogant?”
@@ -10,7 +10,7 @@ word_by_word:
     translation: He said
     transliteration: qāla
   2:
-    arabic: يٰۤـاِبۡلِيۡسُ
+    arabic: يَٰٓإِبۡلِيسُ
     translation: O Iblis
     transliteration: yāib'līsu
   3:
@@ -22,7 +22,7 @@ word_by_word:
     translation: prevented you
     transliteration: manaʿaka
   5:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that
     transliteration: an
   6:
@@ -38,19 +38,19 @@ word_by_word:
     translation: I created
     transliteration: khalaqtu
   9:
-    arabic: بِيَدَىَّ​ ؕ
+    arabic: بِيَدَيَّۖ
     translation: with My Hands
     transliteration: biyadayya
   10:
-    arabic: اَسۡتَكۡبَرۡتَ
+    arabic: أَسۡتَكۡبَرۡتَ
     translation: Are you arrogant
     transliteration: astakbarta
   11:
-    arabic: اَمۡ
+    arabic: أَمۡ
     translation: or
     transliteration: am
   12:
-    arabic: كُنۡتَ
+    arabic: كُنتَ
     translation: are you
     transliteration: kunta
   13:
@@ -58,7 +58,7 @@ word_by_word:
     translation: of
     transliteration: mina
   14:
-    arabic: الۡعَالِيۡنَ‏
+    arabic: ٱلۡعَالِينَ
     translation: the exalted ones
     transliteration: l-ʿālīna
 ---

@@ -1,5 +1,5 @@
 ---
-arabic_ayat: وَمَا خَلَقَ الذَّكَرَ وَالۡاُنۡثٰٓىۙ‏
+arabic_ayat: وَمَا خَلَقَ ٱلذَّكَرَ وَٱلۡأُنثَىٰٓ
 sentence_translation: And by ˹the One˺ Who created male and female!
 word_by_word:
   1:
@@ -11,11 +11,11 @@ word_by_word:
     translation: created
     transliteration: khalaqa
   3:
-    arabic: الذَّكَرَ
+    arabic: ٱلذَّكَرَ
     translation: the male
     transliteration: l-dhakara
   4:
-    arabic: وَالۡاُنۡثٰٓىۙ‏
+    arabic: وَٱلۡأُنثَىٰٓ
     translation: and the female
     transliteration: wal-unthā
 ---

@@ -1,11 +1,11 @@
 ---
-arabic_ayat: وَحِيۡلَ بَيۡنَهُمۡ وَبَيۡنَ مَا يَشۡتَهُوۡنَ كَمَا فُعِلَ بِاَشۡيَاعِهِمۡ
-  مِّنۡ قَبۡلُؕ اِنَّهُمۡ كَانُوۡا فِىۡ شَكٍّ مُّرِيۡبٍ‏
+arabic_ayat: وَحِيلَ بَيۡنَهُمۡ وَبَيۡنَ مَا يَشۡتَهُونَ كَمَا فُعِلَ بِأَشۡيَاعِهِم
+  مِّن قَبۡلُۚ إِنَّهُمۡ كَانُواْ فِي شَكّٖ مُّرِيبِۭ
 sentence_translation: They will be sealed off from whatever they desire, as was done
   to their counterparts before. Indeed, they were ˹all˺ in alarming doubt.
 word_by_word:
   1:
-    arabic: وَحِيۡلَ
+    arabic: وَحِيلَ
     translation: And a barrier will be placed
     transliteration: waḥīla
   2:
@@ -21,7 +21,7 @@ word_by_word:
     translation: what
     transliteration: mā
   5:
-    arabic: يَشۡتَهُوۡنَ
+    arabic: يَشۡتَهُونَ
     translation: they desire
     transliteration: yashtahūna
   6:
@@ -33,35 +33,35 @@ word_by_word:
     translation: was done
     transliteration: fuʿila
   8:
-    arabic: بِاَشۡيَاعِهِمۡ
+    arabic: بِأَشۡيَاعِهِم
     translation: with their kind
     transliteration: bi-ashyāʿihim
   9:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: before
     transliteration: min
   10:
-    arabic: قَبۡلُؕ
+    arabic: قَبۡلُۚ
     translation: before
     transliteration: qablu
   11:
-    arabic: اِنَّهُمۡ
+    arabic: إِنَّهُمۡ
     translation: Indeed, they
     transliteration: innahum
   12:
-    arabic: كَانُوۡا
+    arabic: كَانُواْ
     translation: were
     transliteration: kānū
   13:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   14:
-    arabic: شَكٍّ
+    arabic: شَكّٖ
     translation: doubt
     transliteration: shakkin
   15:
-    arabic: مُّرِيۡبٍ‏
+    arabic: مُّرِيبِۭ
     translation: disquieting
     transliteration: murībin
 ---

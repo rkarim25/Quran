@@ -1,15 +1,15 @@
 ---
-arabic_ayat: اِذًا لَّاَذَقۡنٰكَ ضِعۡفَ الۡحَيٰوةِ وَضِعۡفَ الۡمَمَاتِ ثُمَّ لَا تَجِدُ
-  لَـكَ عَلَيۡنَا نَصِيۡرًا‏
+arabic_ayat: إِذٗا لَّأَذَقۡنَٰكَ ضِعۡفَ ٱلۡحَيَوٰةِ وَضِعۡفَ ٱلۡمَمَاتِ ثُمَّ لَا
+  تَجِدُ لَكَ عَلَيۡنَا نَصِيرٗا
 sentence_translation: and then We truly would have made you taste double ˹punishment˺
   both in this life and after death, and you would have found no helper against Us.
 word_by_word:
   1:
-    arabic: اِذًا
+    arabic: إِذٗا
     translation: Then
     transliteration: idhan
   2:
-    arabic: لَّاَذَقۡنٰكَ
+    arabic: لَّأَذَقۡنَٰكَ
     translation: We (would) have made you taste
     transliteration: la-adhaqnāka
   3:
@@ -17,7 +17,7 @@ word_by_word:
     translation: double
     transliteration: ḍiʿ'fa
   4:
-    arabic: الۡحَيٰوةِ
+    arabic: ٱلۡحَيَوٰةِ
     translation: (in) the life
     transliteration: l-ḥayati
   5:
@@ -25,7 +25,7 @@ word_by_word:
     translation: and double
     transliteration: waḍiʿ'fa
   6:
-    arabic: الۡمَمَاتِ
+    arabic: ٱلۡمَمَاتِ
     translation: (after) the death
     transliteration: l-mamāti
   7:
@@ -41,7 +41,7 @@ word_by_word:
     translation: you (would) have found
     transliteration: tajidu
   10:
-    arabic: لَـكَ
+    arabic: لَكَ
     translation: for you
     transliteration: laka
   11:
@@ -49,7 +49,7 @@ word_by_word:
     translation: against Us
     transliteration: ʿalaynā
   12:
-    arabic: نَصِيۡرًا‏
+    arabic: نَصِيرٗا
     translation: any helper
     transliteration: naṣīran
 ---

@@ -1,16 +1,16 @@
 ---
-arabic_ayat: وَاِذَا قِيۡلَ لَهُمُ اسۡجُدُوۡا لِلرَّحۡمٰنِ قَالُوۡا وَمَا الرَّحۡمٰنُ
-  اَنَسۡجُدُ لِمَا تَاۡمُرُنَا وَزَادَهُمۡ نُفُوۡرًا ۩‏
+arabic_ayat: وَإِذَا قِيلَ لَهُمُ ٱسۡجُدُواْۤ لِلرَّحۡمَٰنِ قَالُواْ وَمَا ٱلرَّحۡمَٰنُ
+  أَنَسۡجُدُ لِمَا تَأۡمُرُنَا وَزَادَهُمۡ نُفُورٗا۩
 sentence_translation: When it is said to them, “Prostrate to the Most Compassionate,”
   they ask ˹in disgust˺, “What is ‘the Most Compassionate’? Will we prostrate to whatever
   you order us to?” And it only drives them farther away.
 word_by_word:
   1:
-    arabic: وَاِذَا
+    arabic: وَإِذَا
     translation: And when
     transliteration: wa-idhā
   2:
-    arabic: قِيۡلَ
+    arabic: قِيلَ
     translation: it is said
     transliteration: qīla
   3:
@@ -18,15 +18,15 @@ word_by_word:
     translation: to them
     transliteration: lahumu
   4:
-    arabic: اسۡجُدُوۡا
+    arabic: ٱسۡجُدُواْۤ
     translation: Prostrate
     transliteration: us'judū
   5:
-    arabic: لِلرَّحۡمٰنِ
+    arabic: لِلرَّحۡمَٰنِ
     translation: to the Most Gracious
     transliteration: lilrraḥmāni
   6:
-    arabic: قَالُوۡا
+    arabic: قَالُواْ
     translation: They say
     transliteration: qālū
   7:
@@ -34,11 +34,11 @@ word_by_word:
     translation: And what
     transliteration: wamā
   8:
-    arabic: الرَّحۡمٰنُ
+    arabic: ٱلرَّحۡمَٰنُ
     translation: (is) the Most Gracious
     transliteration: l-raḥmānu
   9:
-    arabic: اَنَسۡجُدُ
+    arabic: أَنَسۡجُدُ
     translation: Should we prostrate
     transliteration: anasjudu
   10:
@@ -46,7 +46,7 @@ word_by_word:
     translation: to what
     transliteration: limā
   11:
-    arabic: تَاۡمُرُنَا
+    arabic: تَأۡمُرُنَا
     translation: you order us
     transliteration: tamurunā
   12:
@@ -54,7 +54,7 @@ word_by_word:
     translation: And it increases them
     transliteration: wazādahum
   13:
-    arabic: نُفُوۡرًا  ۩
+    arabic: نُفُورٗا۩
     translation: (in) aversion
     transliteration: nufūran
 ---

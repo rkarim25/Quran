@@ -1,21 +1,21 @@
 ---
-arabic_ayat: وَالَّذِيۡنَ اِذَاۤ اَصَابَهُمُ الۡبَغۡىُ هُمۡ يَنۡتَصِرُوۡنَ‏
+arabic_ayat: وَٱلَّذِينَ إِذَآ أَصَابَهُمُ ٱلۡبَغۡيُ هُمۡ يَنتَصِرُونَ
 sentence_translation: and who enforce justice when wronged.
 word_by_word:
   1:
-    arabic: وَالَّذِيۡنَ
+    arabic: وَٱلَّذِينَ
     translation: And those who
     transliteration: wa-alladhīna
   2:
-    arabic: اِذَاۤ
+    arabic: إِذَآ
     translation: when
     transliteration: idhā
   3:
-    arabic: اَصَابَهُمُ
+    arabic: أَصَابَهُمُ
     translation: strikes them
     transliteration: aṣābahumu
   4:
-    arabic: الۡبَغۡىُ
+    arabic: ٱلۡبَغۡيُ
     translation: tyranny
     transliteration: l-baghyu
   5:
@@ -23,7 +23,7 @@ word_by_word:
     translation: they
     transliteration: hum
   6:
-    arabic: يَنۡتَصِرُوۡنَ‏
+    arabic: يَنتَصِرُونَ
     translation: defend themselves
     transliteration: yantaṣirūna
 ---

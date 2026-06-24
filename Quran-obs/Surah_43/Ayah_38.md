@@ -1,16 +1,16 @@
 ---
-arabic_ayat: حَتّٰٓى اِذَا جَآءَنَا قَالَ يٰلَيۡتَ بَيۡنِىۡ وَبَيۡنَكَ بُعۡدَ الۡمَشۡرِقَيۡنِ
-  فَبِئۡسَ الۡقَرِيۡنُ‏
+arabic_ayat: حَتَّىٰٓ إِذَا جَآءَنَا قَالَ يَٰلَيۡتَ بَيۡنِي وَبَيۡنَكَ بُعۡدَ ٱلۡمَشۡرِقَيۡنِ
+  فَبِئۡسَ ٱلۡقَرِينُ
 sentence_translation: But when such a person comes to Us, one will say ˹to their associate˺,
   “I wish you were as distant from me as the east is from the west! What an evil associate
   ˹you were˺!”
 word_by_word:
   1:
-    arabic: حَتّٰٓى
+    arabic: حَتَّىٰٓ
     translation: Until
     transliteration: ḥattā
   2:
-    arabic: اِذَا
+    arabic: إِذَا
     translation: when
     transliteration: idhā
   3:
@@ -22,11 +22,11 @@ word_by_word:
     translation: he says
     transliteration: qāla
   5:
-    arabic: يٰلَيۡتَ
+    arabic: يَٰلَيۡتَ
     translation: O would that
     transliteration: yālayta
   6:
-    arabic: بَيۡنِىۡ
+    arabic: بَيۡنِي
     translation: between me
     transliteration: baynī
   7:
@@ -38,7 +38,7 @@ word_by_word:
     translation: (were the) distance
     transliteration: buʿ'da
   9:
-    arabic: الۡمَشۡرِقَيۡنِ
+    arabic: ٱلۡمَشۡرِقَيۡنِ
     translation: (of) the East and the West
     transliteration: l-mashriqayni
   10:
@@ -46,7 +46,7 @@ word_by_word:
     translation: How wretched is
     transliteration: fabi'sa
   11:
-    arabic: الۡقَرِيۡنُ‏
+    arabic: ٱلۡقَرِينُ
     translation: the companion
     transliteration: l-qarīnu
 ---

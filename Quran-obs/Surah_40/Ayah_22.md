@@ -1,60 +1,60 @@
 ---
-arabic_ayat: ذٰلِكَ بِاَنَّهُمۡ كَانَتۡ تَّاۡتِيۡهِمۡ رُسُلُهُمۡ بِالۡبَيِّنٰتِ فَكَفَرُوۡا
-  فَاَخَذَهُمُ اللّٰهُؕ اِنَّهٗ قَوِىٌّ شَدِيۡدُ الۡعِقَابِ‏
+arabic_ayat: ذَٰلِكَ بِأَنَّهُمۡ كَانَت تَّأۡتِيهِمۡ رُسُلُهُم بِٱلۡبَيِّنَٰتِ فَكَفَرُواْ
+  فَأَخَذَهُمُ ٱللَّهُۚ إِنَّهُۥ قَوِيّٞ شَدِيدُ ٱلۡعِقَابِ
 sentence_translation: That was because their messengers used to come to them with
   clear proofs, but they persisted in disbelief. So Allah seized them. Surely He is
   All-Powerful, severe in punishment.
 word_by_word:
   1:
-    arabic: ذٰلِكَ
+    arabic: ذَٰلِكَ
     translation: That
     transliteration: dhālika
   2:
-    arabic: بِاَنَّهُمۡ
+    arabic: بِأَنَّهُمۡ
     translation: (was) because [they]
     transliteration: bi-annahum
   3:
-    arabic: كَانَتۡ
+    arabic: كَانَت
     translation: used to come to them
     transliteration: kānat
   4:
-    arabic: تَّاۡتِيۡهِمۡ
+    arabic: تَّأۡتِيهِمۡ
     translation: used to come to them
     transliteration: tatīhim
   5:
-    arabic: رُسُلُهُمۡ
+    arabic: رُسُلُهُم
     translation: their Messengers
     transliteration: rusuluhum
   6:
-    arabic: بِالۡبَيِّنٰتِ
+    arabic: بِٱلۡبَيِّنَٰتِ
     translation: with clear proofs
     transliteration: bil-bayināti
   7:
-    arabic: فَكَفَرُوۡا
+    arabic: فَكَفَرُواْ
     translation: but they disbelieved
     transliteration: fakafarū
   8:
-    arabic: فَاَخَذَهُمُ
+    arabic: فَأَخَذَهُمُ
     translation: So Allah seized them
     transliteration: fa-akhadhahumu
   9:
-    arabic: اللّٰهُؕ
+    arabic: ٱللَّهُۚ
     translation: So Allah seized them
     transliteration: l-lahu
   10:
-    arabic: اِنَّهٗ
+    arabic: إِنَّهُۥ
     translation: Indeed, He
     transliteration: innahu
   11:
-    arabic: قَوِىٌّ
+    arabic: قَوِيّٞ
     translation: (is) All-Strong
     transliteration: qawiyyun
   12:
-    arabic: شَدِيۡدُ
+    arabic: شَدِيدُ
     translation: severe
     transliteration: shadīdu
   13:
-    arabic: الۡعِقَابِ‏
+    arabic: ٱلۡعِقَابِ
     translation: (in) punishment
     transliteration: l-ʿiqābi
 ---

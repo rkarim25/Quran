@@ -1,6 +1,6 @@
 ---
-arabic_ayat: لَوۡ يَجِدُوۡنَ مَلۡجَاً اَوۡ مَغٰرٰتٍ اَوۡ مُدَّخَلًا لَّوَلَّوۡا اِلَيۡهِ
-  وَهُمۡ يَجۡمَحُوۡنَ‏
+arabic_ayat: لَوۡ يَجِدُونَ مَلۡجَـًٔا أَوۡ مَغَٰرَٰتٍ أَوۡ مُدَّخَلٗا لَّوَلَّوۡاْ
+  إِلَيۡهِ وَهُمۡ يَجۡمَحُونَ
 sentence_translation: If only they could find a refuge, or a cave, or any hiding-place,
   they would rush headlong towards it.
 word_by_word:
@@ -9,35 +9,35 @@ word_by_word:
     translation: If
     transliteration: law
   2:
-    arabic: يَجِدُوۡنَ
+    arabic: يَجِدُونَ
     translation: they could find
     transliteration: yajidūna
   3:
-    arabic: مَلۡجَاً
+    arabic: مَلۡجَـًٔا
     translation: a refuge
     transliteration: malja-an
   4:
-    arabic: اَوۡ
+    arabic: أَوۡ
     translation: or
     transliteration: aw
   5:
-    arabic: مَغٰرٰتٍ
+    arabic: مَغَٰرَٰتٍ
     translation: caves
     transliteration: maghārātin
   6:
-    arabic: اَوۡ
+    arabic: أَوۡ
     translation: or
     transliteration: aw
   7:
-    arabic: مُدَّخَلًا
+    arabic: مُدَّخَلٗا
     translation: a place to enter
     transliteration: muddakhalan
   8:
-    arabic: لَّوَلَّوۡا
+    arabic: لَّوَلَّوۡاْ
     translation: surely, they would turn
     transliteration: lawallaw
   9:
-    arabic: اِلَيۡهِ
+    arabic: إِلَيۡهِ
     translation: to it
     transliteration: ilayhi
   10:
@@ -45,7 +45,7 @@ word_by_word:
     translation: and they
     transliteration: wahum
   11:
-    arabic: يَجۡمَحُوۡنَ‏
+    arabic: يَجۡمَحُونَ
     translation: run wild
     transliteration: yajmaḥūna
 ---

@@ -1,49 +1,49 @@
 ---
-arabic_ayat: اِلَّا الَّذِيۡنَ اٰمَنُوۡا وَعَمِلُوا الصّٰلِحٰتِ وَذَكَرُوا اللّٰهَ
-  كَثِيۡرًا وَّانْتَصَرُوۡا مِنۡۢ بَعۡدِ مَا ظُلِمُوۡا​ ؕ وَسَيَـعۡلَمُ الَّذِيۡنَ
-  ظَلَمُوۡۤا اَىَّ مُنۡقَلَبٍ يَّـنۡقَلِبُوۡنَ‏
+arabic_ayat: إِلَّا ٱلَّذِينَ ءَامَنُواْ وَعَمِلُواْ ٱلصَّٰلِحَٰتِ وَذَكَرُواْ ٱللَّهَ
+  كَثِيرٗا وَٱنتَصَرُواْ مِنۢ بَعۡدِ مَا ظُلِمُواْۗ وَسَيَعۡلَمُ ٱلَّذِينَ ظَلَمُوٓاْ
+  أَيَّ مُنقَلَبٖ يَنقَلِبُونَ
 sentence_translation: Except those who believe, do good, remember Allah often, and
   ˹poetically˺ avenge ˹the believers˺ after being wrongfully slandered. The wrongdoers
   will come to know what ˹evil˺ end they will meet.
 word_by_word:
   1:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: Except
     transliteration: illā
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ ءَ
     translation: those who
     transliteration: alladhīna
   3:
-    arabic: اٰمَنُوۡا
+    arabic: امَنُواْ
     translation: believe
     transliteration: āmanū
   4:
-    arabic: وَعَمِلُوا
+    arabic: وَعَمِلُواْ
     translation: and do
     transliteration: waʿamilū
   5:
-    arabic: الصّٰلِحٰتِ
+    arabic: ٱلصَّٰلِحَٰتِ
     translation: righteous deeds
     transliteration: l-ṣāliḥāti
   6:
-    arabic: وَذَكَرُوا
+    arabic: وَذَكَرُواْ
     translation: and remember
     transliteration: wadhakarū
   7:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   8:
-    arabic: كَثِيۡرًا
+    arabic: كَثِيرٗا
     translation: much
     transliteration: kathīran
   9:
-    arabic: وَّانْتَصَرُوۡا
+    arabic: وَٱنتَصَرُواْ
     translation: and defend themselves
     transliteration: wa-intaṣarū
   10:
-    arabic: مِنۡۢ
+    arabic: مِنۢ
     translation: after
     transliteration: min
   11:
@@ -55,31 +55,31 @@ word_by_word:
     translation: after
     transliteration: mā
   13:
-    arabic: ظُلِمُوۡا​ ؕ
+    arabic: ظُلِمُواْۗ
     translation: they were wronged
     transliteration: ẓulimū
   14:
-    arabic: وَسَيَـعۡلَمُ
+    arabic: وَسَيَعۡلَمُ
     translation: And will come to know
     transliteration: wasayaʿlamu
   15:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   16:
-    arabic: ظَلَمُوۡۤا
+    arabic: ظَلَمُوٓاْ
     translation: have wronged
     transliteration: ẓalamū
   17:
-    arabic: اَىَّ
+    arabic: أَيَّ
     translation: (to) what
     transliteration: ayya
   18:
-    arabic: مُنۡقَلَبٍ
+    arabic: مُنقَلَبٖ
     translation: return
     transliteration: munqalabin
   19:
-    arabic: يَّـنۡقَلِبُوۡنَ‏
+    arabic: يَنقَلِبُونَ
     translation: they will return
     transliteration: yanqalibūna
 ---

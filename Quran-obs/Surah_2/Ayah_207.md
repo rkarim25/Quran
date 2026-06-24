@@ -1,6 +1,6 @@
 ---
-arabic_ayat: وَمِنَ النَّاسِ مَنۡ يَّشۡرِىۡ نَفۡسَهُ ابۡتِغَآءَ مَرۡضَاتِ اللّٰهِ​ؕ
-  وَ اللّٰهُ رَءُوۡفٌ ۢ بِالۡعِبَادِ‏
+arabic_ayat: وَمِنَ ٱلنَّاسِ مَن يَشۡرِي نَفۡسَهُ ٱبۡتِغَآءَ مَرۡضَاتِ ٱللَّهِۚ وَٱللَّهُ
+  رَءُوفُۢ بِٱلۡعِبَادِ
 sentence_translation: And there are those who would dedicate their lives to Allah’s
   pleasure. And Allah is Ever Gracious to ˹His˺ servants.
 word_by_word:
@@ -9,15 +9,15 @@ word_by_word:
     translation: And of
     transliteration: wamina
   2:
-    arabic: النَّاسِ
+    arabic: ٱلنَّاسِ
     translation: the people
     transliteration: l-nāsi
   3:
-    arabic: مَنۡ
+    arabic: مَن
     translation: (is the one) who
     transliteration: man
   4:
-    arabic: يَّشۡرِىۡ
+    arabic: يَشۡرِي
     translation: sells
     transliteration: yashrī
   5:
@@ -25,7 +25,7 @@ word_by_word:
     translation: his own self
     transliteration: nafsahu
   6:
-    arabic: ابۡتِغَآءَ
+    arabic: ٱبۡتِغَآءَ
     translation: seeking
     transliteration: ib'tighāa
   7:
@@ -33,19 +33,19 @@ word_by_word:
     translation: pleasure
     transliteration: marḍāti
   8:
-    arabic: اللّٰهِ​ؕ
+    arabic: ٱللَّهِۚ
     translation: (of) Allah
     transliteration: l-lahi
   9:
-    arabic: وَ اللّٰهُ
+    arabic: وَٱللَّهُ
     translation: And Allah
     transliteration: wal-lahu
   10:
-    arabic: رَءُوۡفٌ ۢ
+    arabic: رَءُوفُۢ
     translation: (is) full of Kindness
     transliteration: raūfun
   11:
-    arabic: بِالۡعِبَادِ‏
+    arabic: بِٱلۡعِبَادِ
     translation: to His servants
     transliteration: bil-ʿibādi
 ---

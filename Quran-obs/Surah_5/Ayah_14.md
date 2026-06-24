@@ -1,8 +1,7 @@
 ---
-arabic_ayat: "وَمِنَ الَّذِيۡنَ قَالُوۡۤا اِنَّا نَصٰرٰٓى اَخَذۡنَا مِيۡثَاقَهُمۡ\
-  \ فَنَسُوۡا حَظًّا مِّمَّا ذُكِّرُوۡا بِهٖ فَاَغۡرَيۡنَا بَيۡنَهُمُ الۡعَدَاوَةَ\
-  \ وَالۡبَغۡضَآءَ اِلٰى يَوۡمِ الۡقِيٰمَةِ​ ؕ وَسَوۡفَ يُنَبِّئُهُمُ اللّٰهُ بِمَا\
-  \ كَانُوۡا يَصۡنَعُوۡنَ‏ \uFEFF\uFEFF"
+arabic_ayat: وَمِنَ ٱلَّذِينَ قَالُوٓاْ إِنَّا نَصَٰرَىٰٓ أَخَذۡنَا مِيثَٰقَهُمۡ فَنَسُواْ
+  حَظّٗا مِّمَّا ذُكِّرُواْ بِهِۦ فَأَغۡرَيۡنَا بَيۡنَهُمُ ٱلۡعَدَاوَةَ وَٱلۡبَغۡضَآءَ
+  إِلَىٰ يَوۡمِ ٱلۡقِيَٰمَةِۚ وَسَوۡفَ يُنَبِّئُهُمُ ٱللَّهُ بِمَا كَانُواْ يَصۡنَعُونَ
 sentence_translation: And from those who say, “We are Christians,” We took their covenant,
   but they neglected a portion of what they had been commanded to uphold. So We let
   hostility and enmity arise between them until the Day of Judgment, and soon Allah
@@ -13,35 +12,35 @@ word_by_word:
     translation: And from
     transliteration: wamina
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   3:
-    arabic: قَالُوۡۤا
+    arabic: قَالُوٓاْ
     translation: said
     transliteration: qālū
   4:
-    arabic: اِنَّا
+    arabic: إِنَّا
     translation: Indeed we
     transliteration: innā
   5:
-    arabic: نَصٰرٰٓى
+    arabic: نَصَٰرَىٰٓ
     translation: (are) Christians
     transliteration: naṣārā
   6:
-    arabic: اَخَذۡنَا
+    arabic: أَخَذۡنَا
     translation: We took
     transliteration: akhadhnā
   7:
-    arabic: مِيۡثَاقَهُمۡ
+    arabic: مِيثَٰقَهُمۡ
     translation: their covenant
     transliteration: mīthāqahum
   8:
-    arabic: فَنَسُوۡا
+    arabic: فَنَسُواْ
     translation: but they forgot
     transliteration: fanasū
   9:
-    arabic: حَظًّا
+    arabic: حَظّٗا
     translation: a part
     transliteration: ḥaẓẓan
   10:
@@ -49,15 +48,15 @@ word_by_word:
     translation: of what
     transliteration: mimmā
   11:
-    arabic: ذُكِّرُوۡا
+    arabic: ذُكِّرُواْ
     translation: they were reminded
     transliteration: dhukkirū
   12:
-    arabic: بِهٖ
+    arabic: بِهِۦ
     translation: of [it]
     transliteration: bihi
   13:
-    arabic: فَاَغۡرَيۡنَا
+    arabic: فَأَغۡرَيۡنَا
     translation: So We aroused
     transliteration: fa-aghraynā
   14:
@@ -65,15 +64,15 @@ word_by_word:
     translation: between them
     transliteration: baynahumu
   15:
-    arabic: الۡعَدَاوَةَ
+    arabic: ٱلۡعَدَاوَةَ
     translation: '[the] enmity'
     transliteration: l-ʿadāwata
   16:
-    arabic: وَالۡبَغۡضَآءَ
+    arabic: وَٱلۡبَغۡضَآءَ
     translation: and [the] hatred
     transliteration: wal-baghḍāa
   17:
-    arabic: اِلٰى
+    arabic: إِلَىٰ
     translation: till
     transliteration: ilā
   18:
@@ -81,7 +80,7 @@ word_by_word:
     translation: (the) Day
     transliteration: yawmi
   19:
-    arabic: الۡقِيٰمَةِ​ ؕ
+    arabic: ٱلۡقِيَٰمَةِۚ
     translation: (of) the Resurrection
     transliteration: l-qiyāmati
   20:
@@ -93,7 +92,7 @@ word_by_word:
     translation: will inform them
     transliteration: yunabbi-uhumu
   22:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   23:
@@ -101,11 +100,11 @@ word_by_word:
     translation: of what
     transliteration: bimā
   24:
-    arabic: كَانُوۡا
+    arabic: كَانُواْ
     translation: they used to
     transliteration: kānū
   25:
-    arabic: "يَصۡنَعُوۡنَ‏ \uFEFF\uFEFF"
+    arabic: يَصۡنَعُونَ
     translation: do
     transliteration: yaṣnaʿūna
 ---

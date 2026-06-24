@@ -1,9 +1,9 @@
 ---
-arabic_ayat: يٰۤاَيُّهَا الَّذِيۡنَ اٰمَنُوۡا لَا يَسۡخَرۡ قَوۡمٌ مِّنۡ قَوۡمٍ عَسٰٓى
-  اَنۡ يَّكُوۡنُوۡا خَيۡرًا مِّنۡهُمۡ وَلَا نِسَآءٌ مِّنۡ نِّسَآءٍ عَسٰٓى اَنۡ يَّكُنَّ
-  خَيۡرًا مِّنۡهُنَّ​ۚ وَلَا تَلۡمِزُوۡۤا اَنۡفُسَكُمۡ وَلَا تَنَابَزُوۡا بِالۡاَلۡقَابِ​ؕ
-  بِئۡسَ الِاسۡمُ الۡفُسُوۡقُ بَعۡدَ الۡاِيۡمَانِ​ ۚ وَمَنۡ لَّمۡ يَتُبۡ فَاُولٰٓٮِٕكَ
-  هُمُ الظّٰلِمُوۡنَ‏
+arabic_ayat: يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُواْ لَا يَسۡخَرۡ قَوۡمٞ مِّن قَوۡمٍ عَسَىٰٓ
+  أَن يَكُونُواْ خَيۡرٗا مِّنۡهُمۡ وَلَا نِسَآءٞ مِّن نِّسَآءٍ عَسَىٰٓ أَن يَكُنَّ
+  خَيۡرٗا مِّنۡهُنَّۖ وَلَا تَلۡمِزُوٓاْ أَنفُسَكُمۡ وَلَا تَنَابَزُواْ بِٱلۡأَلۡقَٰبِۖ
+  بِئۡسَ ٱلِٱسۡمُ ٱلۡفُسُوقُ بَعۡدَ ٱلۡإِيمَٰنِۚ وَمَن لَّمۡ يَتُبۡ فَأُوْلَٰٓئِكَ
+  هُمُ ٱلظَّٰلِمُونَ
 sentence_translation: O believers! Do not let some ˹men˺ ridicule others, they may
   be better than them, nor let ˹some˺ women ridicule other women, they may be better
   than them. Do not defame one another, nor call each other by offensive nicknames.
@@ -11,15 +11,15 @@ sentence_translation: O believers! Do not let some ˹men˺ ridicule others, they
   it is they who are the ˹true˺ wrongdoers.
 word_by_word:
   1:
-    arabic: يٰۤاَيُّهَا
+    arabic: يَٰٓأَيُّهَا
     translation: O you who believe
     transliteration: yāayyuhā
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ ءَ
     translation: O you who believe
     transliteration: alladhīna
   3:
-    arabic: اٰمَنُوۡا
+    arabic: امَنُواْ
     translation: O you who believe
     transliteration: āmanū
   4:
@@ -31,11 +31,11 @@ word_by_word:
     translation: ridicule
     transliteration: yaskhar
   6:
-    arabic: قَوۡمٌ
+    arabic: قَوۡمٞ
     translation: a people
     transliteration: qawmun
   7:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: '[of]'
     transliteration: min
   8:
@@ -43,19 +43,19 @@ word_by_word:
     translation: (another) people
     transliteration: qawmin
   9:
-    arabic: عَسٰٓى
+    arabic: عَسَىٰٓ
     translation: perhaps
     transliteration: ʿasā
   10:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that
     transliteration: an
   11:
-    arabic: يَّكُوۡنُوۡا
+    arabic: يَكُونُواْ
     translation: they may be
     transliteration: yakūnū
   12:
-    arabic: خَيۡرًا
+    arabic: خَيۡرٗا
     translation: better
     transliteration: khayran
   13:
@@ -67,11 +67,11 @@ word_by_word:
     translation: and (let) not
     transliteration: walā
   15:
-    arabic: نِسَآءٌ
+    arabic: نِسَآءٞ
     translation: women
     transliteration: nisāon
   16:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: '[of]'
     transliteration: min
   17:
@@ -79,23 +79,23 @@ word_by_word:
     translation: (other) women
     transliteration: nisāin
   18:
-    arabic: عَسٰٓى
+    arabic: عَسَىٰٓ
     translation: perhaps
     transliteration: ʿasā
   19:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that
     transliteration: an
   20:
-    arabic: يَّكُنَّ
+    arabic: يَكُنَّ
     translation: they may be
     transliteration: yakunna
   21:
-    arabic: خَيۡرًا
+    arabic: خَيۡرٗا
     translation: better
     transliteration: khayran
   22:
-    arabic: مِّنۡهُنَّ​ۚ
+    arabic: مِّنۡهُنَّۖ
     translation: than them
     transliteration: min'hunna
   23:
@@ -103,11 +103,11 @@ word_by_word:
     translation: And (do) not
     transliteration: walā
   24:
-    arabic: تَلۡمِزُوۡۤا
+    arabic: تَلۡمِزُوٓاْ
     translation: insult
     transliteration: talmizū
   25:
-    arabic: اَنۡفُسَكُمۡ
+    arabic: أَنفُسَكُمۡ
     translation: yourselves
     transliteration: anfusakum
   26:
@@ -115,11 +115,11 @@ word_by_word:
     translation: and (do) not
     transliteration: walā
   27:
-    arabic: تَنَابَزُوۡا
+    arabic: تَنَابَزُواْ
     translation: call each other
     transliteration: tanābazū
   28:
-    arabic: بِالۡاَلۡقَابِ​ؕ
+    arabic: بِٱلۡأَلۡقَٰبِۖ
     translation: by nicknames
     transliteration: bil-alqābi
   29:
@@ -127,11 +127,11 @@ word_by_word:
     translation: Wretched is
     transliteration: bi'sa
   30:
-    arabic: الِاسۡمُ
+    arabic: ٱلِٱسۡمُ
     translation: the name
     transliteration: l-s'mu
   31:
-    arabic: الۡفُسُوۡقُ
+    arabic: ٱلۡفُسُوقُ
     translation: (of) disobedience
     transliteration: l-fusūqu
   32:
@@ -139,11 +139,11 @@ word_by_word:
     translation: after
     transliteration: baʿda
   33:
-    arabic: الۡاِيۡمَانِ​ ۚ
+    arabic: ٱلۡإِيمَٰنِۚ
     translation: the faith
     transliteration: l-īmāni
   34:
-    arabic: وَمَنۡ
+    arabic: وَمَن
     translation: And whoever
     transliteration: waman
   35:
@@ -155,7 +155,7 @@ word_by_word:
     translation: repent
     transliteration: yatub
   37:
-    arabic: فَاُولٰٓٮِٕكَ
+    arabic: فَأُوْلَٰٓئِكَ
     translation: 'then those '
     transliteration: fa-ulāika
   38:
@@ -163,7 +163,7 @@ word_by_word:
     translation: they
     transliteration: humu
   39:
-    arabic: الظّٰلِمُوۡنَ‏
+    arabic: ٱلظَّٰلِمُونَ
     translation: (are) the wrongdoers
     transliteration: l-ẓālimūna
 ---

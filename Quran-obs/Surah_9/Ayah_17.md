@@ -1,7 +1,7 @@
 ---
-arabic_ayat: مَا كَانَ لِلۡمُشۡرِكِيۡنَ اَنۡ يَّعۡمُرُوۡا مَسٰجِدَ اللّٰهِ شٰهِدِيۡنَ
-  عَلٰٓى اَنۡفُسِهِمۡ بِالـكُفۡرِ​ؕ اُولٰۤٮِٕكَ حَبِطَتۡ اَعۡمَالُهُمۡ ۖۚ وَ فِى النَّارِ
-  هُمۡ خٰلِدُوۡنَ‏
+arabic_ayat: مَا كَانَ لِلۡمُشۡرِكِينَ أَن يَعۡمُرُواْ مَسَٰجِدَ ٱللَّهِ شَٰهِدِينَ
+  عَلَىٰٓ أَنفُسِهِم بِٱلۡكُفۡرِۚ أُوْلَٰٓئِكَ حَبِطَتۡ أَعۡمَٰلُهُمۡ وَفِي ٱلنَّارِ
+  هُمۡ خَٰلِدُونَ
 sentence_translation: It is not for the polytheists to maintain the mosques of Allah
   while they openly profess disbelief. Their deeds are void, and they will be in the
   Fire forever.
@@ -15,43 +15,43 @@ word_by_word:
     translation: (It) is not
     transliteration: kāna
   3:
-    arabic: لِلۡمُشۡرِكِيۡنَ
+    arabic: لِلۡمُشۡرِكِينَ
     translation: for the polytheists
     transliteration: lil'mush'rikīna
   4:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that
     transliteration: an
   5:
-    arabic: يَّعۡمُرُوۡا
+    arabic: يَعۡمُرُواْ
     translation: they maintain
     transliteration: yaʿmurū
   6:
-    arabic: مَسٰجِدَ
+    arabic: مَسَٰجِدَ
     translation: (the) masajid of Allah
     transliteration: masājida
   7:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (the) masajid of Allah
     transliteration: l-lahi
   8:
-    arabic: شٰهِدِيۡنَ
+    arabic: شَٰهِدِينَ
     translation: (while) witnessing
     transliteration: shāhidīna
   9:
-    arabic: عَلٰٓى
+    arabic: عَلَىٰٓ
     translation: against
     transliteration: ʿalā
   10:
-    arabic: اَنۡفُسِهِمۡ
+    arabic: أَنفُسِهِم
     translation: themselves
     transliteration: anfusihim
   11:
-    arabic: بِالـكُفۡرِ​ؕ
+    arabic: بِٱلۡكُفۡرِۚ
     translation: '[with] disbelief'
     transliteration: bil-kuf'ri
   12:
-    arabic: اُولٰۤٮِٕكَ
+    arabic: أُوْلَٰٓئِكَ
     translation: (For) those
     transliteration: ulāika
   13:
@@ -59,15 +59,15 @@ word_by_word:
     translation: worthless
     transliteration: ḥabiṭat
   14:
-    arabic: اَعۡمَالُهُمۡ ۖۚ
+    arabic: أَعۡمَٰلُهُمۡ
     translation: (are) their deeds
     transliteration: aʿmāluhum
   15:
-    arabic: وَ فِى
+    arabic: وَفِي
     translation: and in
     transliteration: wafī
   16:
-    arabic: النَّارِ
+    arabic: ٱلنَّارِ
     translation: the Fire
     transliteration: l-nāri
   17:
@@ -75,7 +75,7 @@ word_by_word:
     translation: they
     transliteration: hum
   18:
-    arabic: خٰلِدُوۡنَ‏
+    arabic: خَٰلِدُونَ
     translation: (will) abide forever
     transliteration: khālidūna
 ---

@@ -1,39 +1,39 @@
 ---
-arabic_ayat: يَوۡمَٮِٕذٍ يُّوَفِّيۡهِمُ اللّٰهُ دِيۡنَهُمُ الۡحَـقَّ وَيَعۡلَمُوۡنَ
-  اَنَّ اللّٰهَ هُوَ الۡحَـقُّ الۡمُبِيۡنُ‏
+arabic_ayat: يَوۡمَئِذٖ يُوَفِّيهِمُ ٱللَّهُ دِينَهُمُ ٱلۡحَقَّ وَيَعۡلَمُونَ أَنَّ
+  ٱللَّهَ هُوَ ٱلۡحَقُّ ٱلۡمُبِينُ
 sentence_translation: On that Day, Allah will give them their just penalty in full,
   and they will ˹come to˺ know that Allah ˹alone˺ is the Ultimate Truth.
 word_by_word:
   1:
-    arabic: يَوۡمَٮِٕذٍ
+    arabic: يَوۡمَئِذٖ
     translation: That Day
     transliteration: yawma-idhin
   2:
-    arabic: يُّوَفِّيۡهِمُ
+    arabic: يُوَفِّيهِمُ
     translation: Allah will pay them in full
     transliteration: yuwaffīhimu
   3:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah will pay them in full
     transliteration: l-lahu
   4:
-    arabic: دِيۡنَهُمُ
+    arabic: دِينَهُمُ
     translation: their recompense
     transliteration: dīnahumu
   5:
-    arabic: الۡحَـقَّ
+    arabic: ٱلۡحَقَّ
     translation: the due
     transliteration: l-ḥaqa
   6:
-    arabic: وَيَعۡلَمُوۡنَ
+    arabic: وَيَعۡلَمُونَ
     translation: and they will know
     transliteration: wayaʿlamūna
   7:
-    arabic: اَنَّ
+    arabic: أَنَّ
     translation: that
     transliteration: anna
   8:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   9:
@@ -41,11 +41,11 @@ word_by_word:
     translation: He
     transliteration: huwa
   10:
-    arabic: الۡحَـقُّ
+    arabic: ٱلۡحَقُّ
     translation: (is) the Truth
     transliteration: l-ḥaqu
   11:
-    arabic: الۡمُبِيۡنُ‏
+    arabic: ٱلۡمُبِينُ
     translation: the Manifest
     transliteration: l-mubīnu
 ---

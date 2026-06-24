@@ -1,6 +1,6 @@
 ---
-arabic_ayat: قَالَ رَبِّ اِنِّىۡ لَاۤ اَمۡلِكُ اِلَّا نَفۡسِىۡ وَاَخِىۡ​ فَافۡرُقۡ
-  بَيۡنَـنَا وَبَيۡنَ الۡـقَوۡمِ الۡفٰسِقِيۡنَ‏
+arabic_ayat: قَالَ رَبِّ إِنِّي لَآ أَمۡلِكُ إِلَّا نَفۡسِي وَأَخِيۖ فَٱفۡرُقۡ بَيۡنَنَا
+  وَبَيۡنَ ٱلۡقَوۡمِ ٱلۡفَٰسِقِينَ
 sentence_translation: Moses pleaded, “My Lord! I have no control over anyone except
   myself and my brother. So set us apart from the rebellious people.”
 word_by_word:
@@ -13,35 +13,35 @@ word_by_word:
     translation: O my Lord
     transliteration: rabbi
   3:
-    arabic: اِنِّىۡ
+    arabic: إِنِّي
     translation: Indeed, I
     transliteration: innī
   4:
-    arabic: لَاۤ
+    arabic: لَآ
     translation: (do) not
     transliteration: lā
   5:
-    arabic: اَمۡلِكُ
+    arabic: أَمۡلِكُ
     translation: (have) power
     transliteration: amliku
   6:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   7:
-    arabic: نَفۡسِىۡ
+    arabic: نَفۡسِي
     translation: (over) myself
     transliteration: nafsī
   8:
-    arabic: وَاَخِىۡ​
+    arabic: وَأَخِيۖ
     translation: and my brother
     transliteration: wa-akhī
   9:
-    arabic: فَافۡرُقۡ
+    arabic: فَٱفۡرُقۡ
     translation: so (make a) separation
     transliteration: fa-uf'ruq
   10:
-    arabic: بَيۡنَـنَا
+    arabic: بَيۡنَنَا
     translation: between us
     transliteration: baynanā
   11:
@@ -49,11 +49,11 @@ word_by_word:
     translation: and between
     transliteration: wabayna
   12:
-    arabic: الۡـقَوۡمِ
+    arabic: ٱلۡقَوۡمِ
     translation: the people
     transliteration: l-qawmi
   13:
-    arabic: الۡفٰسِقِيۡنَ‏
+    arabic: ٱلۡفَٰسِقِينَ
     translation: (the) defiantly disobedient
     transliteration: l-fāsiqīna
 ---

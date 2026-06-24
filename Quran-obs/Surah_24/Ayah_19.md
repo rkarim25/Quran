@@ -1,45 +1,45 @@
 ---
-arabic_ayat: اِنَّ الَّذِيۡنَ يُحِبُّوۡنَ اَنۡ تَشِيۡعَ الۡفَاحِشَةُ فِى الَّذِيۡنَ
-  اٰمَنُوۡا لَهُمۡ عَذَابٌ اَلِيۡمٌۙ فِى الدُّنۡيَا وَالۡاٰخِرَةِ​ؕ وَاللّٰهُ يَعۡلَمُ
-  وَاَنۡـتُمۡ لَا تَعۡلَمُوۡنَ‏
+arabic_ayat: إِنَّ ٱلَّذِينَ يُحِبُّونَ أَن تَشِيعَ ٱلۡفَٰحِشَةُ فِي ٱلَّذِينَ ءَامَنُواْ
+  لَهُمۡ عَذَابٌ أَلِيمٞ فِي ٱلدُّنۡيَا وَٱلۡأٓخِرَةِۚ وَٱللَّهُ يَعۡلَمُ وَأَنتُمۡ
+  لَا تَعۡلَمُونَ
 sentence_translation: Indeed, those who love to see indecency spread among the believers
   will suffer a painful punishment in this life and the Hereafter. Allah knows and
   you do not know.
 word_by_word:
   1:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   3:
-    arabic: يُحِبُّوۡنَ
+    arabic: يُحِبُّونَ
     translation: like
     transliteration: yuḥibbūna
   4:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that
     transliteration: an
   5:
-    arabic: تَشِيۡعَ
+    arabic: تَشِيعَ
     translation: (should) spread
     transliteration: tashīʿa
   6:
-    arabic: الۡفَاحِشَةُ
+    arabic: ٱلۡفَٰحِشَةُ
     translation: the immorality
     transliteration: l-fāḥishatu
   7:
-    arabic: فِى
+    arabic: فِي
     translation: among
     transliteration: fī
   8:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ ءَ
     translation: those who
     transliteration: alladhīna
   9:
-    arabic: اٰمَنُوۡا
+    arabic: امَنُواْ
     translation: believe
     transliteration: āmanū
   10:
@@ -51,23 +51,23 @@ word_by_word:
     translation: (is) a punishment
     transliteration: ʿadhābun
   12:
-    arabic: اَلِيۡمٌۙ
+    arabic: أَلِيمٞ
     translation: painful
     transliteration: alīmun
   13:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   14:
-    arabic: الدُّنۡيَا
+    arabic: ٱلدُّنۡيَا
     translation: the world
     transliteration: l-dun'yā
   15:
-    arabic: وَالۡاٰخِرَةِ​ؕ
+    arabic: وَٱلۡأٓخِرَةِۚ
     translation: and the Hereafter
     transliteration: wal-ākhirati
   16:
-    arabic: وَاللّٰهُ
+    arabic: وَٱللَّهُ
     translation: And Allah
     transliteration: wal-lahu
   17:
@@ -75,7 +75,7 @@ word_by_word:
     translation: knows
     transliteration: yaʿlamu
   18:
-    arabic: وَاَنۡـتُمۡ
+    arabic: وَأَنتُمۡ
     translation: while you
     transliteration: wa-antum
   19:
@@ -83,7 +83,7 @@ word_by_word:
     translation: (do) not
     transliteration: lā
   20:
-    arabic: تَعۡلَمُوۡنَ‏
+    arabic: تَعۡلَمُونَ
     translation: know
     transliteration: taʿlamūna
 ---

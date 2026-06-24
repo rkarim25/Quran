@@ -1,18 +1,18 @@
 ---
-arabic_ayat: اَفَمَنۡ يَّخۡلُقُ كَمَنۡ لَّا يَخۡلُقُ​ؕ اَفَلَا تَذَكَّرُوۡنَ‏
+arabic_ayat: أَفَمَن يَخۡلُقُ كَمَن لَّا يَخۡلُقُۚ أَفَلَا تَذَكَّرُونَ
 sentence_translation: Can the One Who creates be equal to those who do not? Will you
   not then be mindful?
 word_by_word:
   1:
-    arabic: اَفَمَنۡ
+    arabic: أَفَمَن
     translation: Then is He Who
     transliteration: afaman
   2:
-    arabic: يَّخۡلُقُ
+    arabic: يَخۡلُقُ
     translation: creates
     transliteration: yakhluqu
   3:
-    arabic: كَمَنۡ
+    arabic: كَمَن
     translation: like one who
     transliteration: kaman
   4:
@@ -20,15 +20,15 @@ word_by_word:
     translation: (does) not
     transliteration: lā
   5:
-    arabic: يَخۡلُقُ​ؕ
+    arabic: يَخۡلُقُۚ
     translation: create
     transliteration: yakhluqu
   6:
-    arabic: اَفَلَا
+    arabic: أَفَلَا
     translation: Then will you not
     transliteration: afalā
   7:
-    arabic: تَذَكَّرُوۡنَ‏
+    arabic: تَذَكَّرُونَ
     translation: remember
     transliteration: tadhakkarūna
 ---

@@ -1,9 +1,8 @@
 ---
-arabic_ayat: "وَاِذۡ اَخَذَ اللّٰهُ مِيۡثَاقَ النَّبِيّٖنَ لَمَاۤ اٰتَيۡتُكُمۡ مِّنۡ\
-  \ كِتٰبٍ وَّحِكۡمَةٍ ثُمَّ جَآءَكُمۡ رَسُوۡلٌ مُّصَدِّقٌ لِّمَا مَعَكُمۡ لَـتُؤۡمِنُنَّ\
-  \ بِهٖ وَلَـتَـنۡصُرُنَّهٗ ​ؕ قَالَ ءَاَقۡرَرۡتُمۡ وَاَخَذۡتُمۡ عَلٰى ذٰ لِكُمۡ\
-  \ اِصۡرِىۡ​ؕ قَالُوۡۤا اَقۡرَرۡنَا ​ؕ قَالَ فَاشۡهَدُوۡا وَاَنَا مَعَكُمۡ مِّنَ\
-  \ الشّٰهِدِيۡنَ‏ \uFEFF\uFEFF"
+arabic_ayat: وَإِذۡ أَخَذَ ٱللَّهُ مِيثَٰقَ ٱلنَّبِيِّـۧنَ لَمَآ ءَاتَيۡتُكُم مِّن
+  كِتَٰبٖ وَحِكۡمَةٖ ثُمَّ جَآءَكُمۡ رَسُولٞ مُّصَدِّقٞ لِّمَا مَعَكُمۡ لَتُؤۡمِنُنَّ
+  بِهِۦ وَلَتَنصُرُنَّهُۥۚ قَالَ ءَأَقۡرَرۡتُمۡ وَأَخَذۡتُمۡ عَلَىٰ ذَٰلِكُمۡ إِصۡرِيۖ
+  قَالُوٓاْ أَقۡرَرۡنَاۚ قَالَ فَٱشۡهَدُواْ وَأَنَا۠ مَعَكُم مِّنَ ٱلشَّٰهِدِينَ
 sentence_translation: ˹Remember˺ when Allah made a covenant with the prophets, ˹saying,˺
   “Now that I have given you the Book and wisdom, if there comes to you a messenger confirming
   what you have, you must believe in him and support him.” He added, “Do you affirm
@@ -11,43 +10,43 @@ sentence_translation: ˹Remember˺ when Allah made a covenant with the prophets,
   “Then bear witness, and I too am a Witness.”
 word_by_word:
   1:
-    arabic: وَاِذۡ
+    arabic: وَإِذۡ
     translation: And when
     transliteration: wa-idh
   2:
-    arabic: اَخَذَ
+    arabic: أَخَذَ
     translation: took
     transliteration: akhadha
   3:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   4:
-    arabic: مِيۡثَاقَ
+    arabic: مِيثَٰقَ
     translation: covenant
     transliteration: mīthāqa
   5:
-    arabic: النَّبِيّٖنَ
+    arabic: ٱلنَّبِيِّـۧنَ
     translation: (of) the Prophets
     transliteration: l-nabiyīna
   6:
-    arabic: لَمَاۤ
+    arabic: لَمَآ ءَ
     translation: Certainly, whatever
     transliteration: lamā
   7:
-    arabic: اٰتَيۡتُكُمۡ
+    arabic: اتَيۡتُكُم
     translation: I (have) given you
     transliteration: ātaytukum
   8:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: of
     transliteration: min
   9:
-    arabic: كِتٰبٍ
+    arabic: كِتَٰبٖ
     translation: (the) Book
     transliteration: kitābin
   10:
-    arabic: وَّحِكۡمَةٍ
+    arabic: وَحِكۡمَةٖ
     translation: and wisdom
     transliteration: waḥik'matin
   11:
@@ -59,11 +58,11 @@ word_by_word:
     translation: comes to you
     transliteration: jāakum
   13:
-    arabic: رَسُوۡلٌ
+    arabic: رَسُولٞ
     translation: a Messenger
     transliteration: rasūlun
   14:
-    arabic: مُّصَدِّقٌ
+    arabic: مُّصَدِّقٞ
     translation: confirming
     transliteration: muṣaddiqun
   15:
@@ -75,15 +74,15 @@ word_by_word:
     translation: (is) with you
     transliteration: maʿakum
   17:
-    arabic: لَـتُؤۡمِنُنَّ
+    arabic: لَتُؤۡمِنُنَّ
     translation: you must believe
     transliteration: latu'minunna
   18:
-    arabic: بِهٖ
+    arabic: بِهِۦ
     translation: in him
     transliteration: bihi
   19:
-    arabic: وَلَـتَـنۡصُرُنَّهٗ ​ؕ
+    arabic: وَلَتَنصُرُنَّهُۥۚ
     translation: and you must help him
     transliteration: walatanṣurunnahu
   20:
@@ -91,31 +90,31 @@ word_by_word:
     translation: He said
     transliteration: qāla
   21:
-    arabic: ءَاَقۡرَرۡتُمۡ
+    arabic: ءَأَقۡرَرۡتُمۡ
     translation: Do you affirm
     transliteration: a-aqrartum
   22:
-    arabic: وَاَخَذۡتُمۡ
+    arabic: وَأَخَذۡتُمۡ
     translation: and take
     transliteration: wa-akhadhtum
   23:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: 'on'
     transliteration: ʿalā
   24:
-    arabic: ذٰ لِكُمۡ
+    arabic: ذَٰلِكُمۡ
     translation: that (condition)
     transliteration: dhālikum
   25:
-    arabic: اِصۡرِىۡ​ؕ
+    arabic: إِصۡرِيۖ
     translation: My Covenant
     transliteration: iṣ'rī
   26:
-    arabic: قَالُوۡۤا
+    arabic: قَالُوٓاْ
     translation: They said
     transliteration: qālū
   27:
-    arabic: اَقۡرَرۡنَا ​ؕ
+    arabic: أَقۡرَرۡنَاۚ
     translation: We affirm
     transliteration: aqrarnā
   28:
@@ -123,15 +122,15 @@ word_by_word:
     translation: He said
     transliteration: qāla
   29:
-    arabic: فَاشۡهَدُوۡا
+    arabic: فَٱشۡهَدُواْ
     translation: Then bear witness
     transliteration: fa-ish'hadū
   30:
-    arabic: وَاَنَا
+    arabic: وَأَنَا۠
     translation: and I (am)
     transliteration: wa-anā
   31:
-    arabic: مَعَكُمۡ
+    arabic: مَعَكُم
     translation: with you
     transliteration: maʿakum
   32:
@@ -139,7 +138,7 @@ word_by_word:
     translation: among
     transliteration: mina
   33:
-    arabic: "الشّٰهِدِيۡنَ‏ \uFEFF\uFEFF"
+    arabic: ٱلشَّٰهِدِينَ
     translation: the witnesses
     transliteration: l-shāhidīna
 ---

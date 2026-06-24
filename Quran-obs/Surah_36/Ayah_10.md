@@ -1,6 +1,5 @@
 ---
-arabic_ayat: "وَسَوَآءٌ عَلَيۡهِمۡ ءَاَنۡذَرۡتَهُمۡ اَمۡ لَمۡ تُنۡذِرۡهُمۡ لَا يُؤۡمِنُوۡنَ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: وَسَوَآءٌ عَلَيۡهِمۡ ءَأَنذَرۡتَهُمۡ أَمۡ لَمۡ تُنذِرۡهُمۡ لَا يُؤۡمِنُونَ
 sentence_translation: It is the same whether you warn them or not—they will never
   believe.
 word_by_word:
@@ -13,11 +12,11 @@ word_by_word:
     translation: to them
     transliteration: ʿalayhim
   3:
-    arabic: ءَاَنۡذَرۡتَهُمۡ
+    arabic: ءَأَنذَرۡتَهُمۡ
     translation: whether you warn them
     transliteration: a-andhartahum
   4:
-    arabic: اَمۡ
+    arabic: أَمۡ
     translation: or
     transliteration: am
   5:
@@ -25,7 +24,7 @@ word_by_word:
     translation: (do) not
     transliteration: lam
   6:
-    arabic: تُنۡذِرۡهُمۡ
+    arabic: تُنذِرۡهُمۡ
     translation: warn them
     transliteration: tundhir'hum
   7:
@@ -33,7 +32,7 @@ word_by_word:
     translation: not
     transliteration: lā
   8:
-    arabic: "يُؤۡمِنُوۡنَ‏ \uFEFF\uFEFF"
+    arabic: يُؤۡمِنُونَ
     translation: they will believe
     transliteration: yu'minūna
 ---

@@ -1,31 +1,30 @@
 ---
-arabic_ayat: "وَمَاۤ اَنۡتَ اِلَّا بَشَرٌ مِّثۡلُـنَا وَ اِنۡ نَّظُنُّكَ لَمِنَ الۡكٰذِبِيۡنَ​ۚ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: وَمَآ أَنتَ إِلَّا بَشَرٞ مِّثۡلُنَا وَإِن نَّظُنُّكَ لَمِنَ ٱلۡكَٰذِبِينَ
 sentence_translation: Also, you are only a human being like us, and we think you are
   indeed a liar.
 word_by_word:
   1:
-    arabic: وَمَاۤ
+    arabic: وَمَآ
     translation: And not
     transliteration: wamā
   2:
-    arabic: اَنۡتَ
+    arabic: أَنتَ
     translation: you
     transliteration: anta
   3:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: (are) except
     transliteration: illā
   4:
-    arabic: بَشَرٌ
+    arabic: بَشَرٞ
     translation: a man
     transliteration: basharun
   5:
-    arabic: مِّثۡلُـنَا
+    arabic: مِّثۡلُنَا
     translation: like us
     transliteration: mith'lunā
   6:
-    arabic: وَ اِنۡ
+    arabic: وَإِن
     translation: and indeed
     transliteration: wa-in
   7:
@@ -37,7 +36,7 @@ word_by_word:
     translation: surely (are) of
     transliteration: lamina
   9:
-    arabic: "الۡكٰذِبِيۡنَ​ۚ‏ \uFEFF\uFEFF"
+    arabic: ٱلۡكَٰذِبِينَ
     translation: the liars
     transliteration: l-kādhibīna
 ---

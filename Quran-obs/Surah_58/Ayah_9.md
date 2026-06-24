@@ -1,29 +1,29 @@
 ---
-arabic_ayat: يٰۤاَيُّهَا الَّذِيۡنَ اٰمَنُوۡۤا اِذَا تَنَاجَيۡتُمۡ فَلَا تَـتَـنَاجَوۡا
-  بِالۡاِثۡمِ وَالۡعُدۡوَانِ وَمَعۡصِيَتِ الرَّسُوۡلِ وَتَنَاجَوۡا بِالۡبِرِّ وَالتَّقۡوٰى​ؕ
-  وَاتَّقُوا اللّٰهَ الَّذِىۡۤ اِلَيۡهِ تُحۡشَرُوۡنَ‏
+arabic_ayat: يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓاْ إِذَا تَنَٰجَيۡتُمۡ فَلَا تَتَنَٰجَوۡاْ
+  بِٱلۡإِثۡمِ وَٱلۡعُدۡوَٰنِ وَمَعۡصِيَتِ ٱلرَّسُولِ وَتَنَٰجَوۡاْ بِٱلۡبِرِّ وَٱلتَّقۡوَىٰۖ
+  وَٱتَّقُواْ ٱللَّهَ ٱلَّذِيٓ إِلَيۡهِ تُحۡشَرُونَ
 sentence_translation: O believers! When you converse privately, let it not be for
   sin, aggression, or disobedience to the Messenger, but let it be for goodness and
   righteousness. And fear Allah, to Whom you will ˹all˺ be gathered.
 word_by_word:
   1:
-    arabic: يٰۤاَيُّهَا
+    arabic: يَٰٓأَيُّهَا
     translation: O you who believe
     transliteration: yāayyuhā
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ ءَ
     translation: O you who believe
     transliteration: alladhīna
   3:
-    arabic: اٰمَنُوۡۤا
+    arabic: امَنُوٓاْ
     translation: O you who believe
     transliteration: āmanū
   4:
-    arabic: اِذَا
+    arabic: إِذَا
     translation: When
     transliteration: idhā
   5:
-    arabic: تَنَاجَيۡتُمۡ
+    arabic: تَنَٰجَيۡتُمۡ
     translation: you hold secret counsel
     transliteration: tanājaytum
   6:
@@ -31,15 +31,15 @@ word_by_word:
     translation: then (do) not
     transliteration: falā
   7:
-    arabic: تَـتَـنَاجَوۡا
+    arabic: تَتَنَٰجَوۡاْ
     translation: hold secret counsel
     transliteration: tatanājaw
   8:
-    arabic: بِالۡاِثۡمِ
+    arabic: بِٱلۡإِثۡمِ
     translation: for sin
     transliteration: bil-ith'mi
   9:
-    arabic: وَالۡعُدۡوَانِ
+    arabic: وَٱلۡعُدۡوَٰنِ
     translation: and aggression
     transliteration: wal-ʿud'wāni
   10:
@@ -47,39 +47,39 @@ word_by_word:
     translation: and disobedience
     transliteration: wamaʿṣiyati
   11:
-    arabic: الرَّسُوۡلِ
+    arabic: ٱلرَّسُولِ
     translation: (to) the Messenger
     transliteration: l-rasūli
   12:
-    arabic: وَتَنَاجَوۡا
+    arabic: وَتَنَٰجَوۡاْ
     translation: but hold secret counsel
     transliteration: watanājaw
   13:
-    arabic: بِالۡبِرِّ
+    arabic: بِٱلۡبِرِّ
     translation: for righteousness
     transliteration: bil-biri
   14:
-    arabic: وَالتَّقۡوٰى​ؕ
+    arabic: وَٱلتَّقۡوَىٰۖ
     translation: and piety
     transliteration: wal-taqwā
   15:
-    arabic: وَاتَّقُوا
+    arabic: وَٱتَّقُواْ
     translation: And fear
     transliteration: wa-ittaqū
   16:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   17:
-    arabic: الَّذِىۡۤ
+    arabic: ٱلَّذِيٓ
     translation: the One Who
     transliteration: alladhī
   18:
-    arabic: اِلَيۡهِ
+    arabic: إِلَيۡهِ
     translation: to Him
     transliteration: ilayhi
   19:
-    arabic: تُحۡشَرُوۡنَ‏
+    arabic: تُحۡشَرُونَ
     translation: you will be gathered
     transliteration: tuḥ'sharūna
 ---

@@ -1,17 +1,17 @@
 ---
-arabic_ayat: جَنّٰتِ عَدۡنٍ مُّفَتَّحَةً لَّهُمُ الۡاَبۡوَابُ​ۚ‏
+arabic_ayat: جَنَّٰتِ عَدۡنٖ مُّفَتَّحَةٗ لَّهُمُ ٱلۡأَبۡوَٰبُ
 sentence_translation: the Gardens of Eternity, whose gates will be open for them.
 word_by_word:
   1:
-    arabic: جَنّٰتِ
+    arabic: جَنَّٰتِ
     translation: Gardens
     transliteration: jannāti
   2:
-    arabic: عَدۡنٍ
+    arabic: عَدۡنٖ
     translation: (of) Eternity
     transliteration: ʿadnin
   3:
-    arabic: مُّفَتَّحَةً
+    arabic: مُّفَتَّحَةٗ
     translation: (will be) opened
     transliteration: mufattaḥatan
   4:
@@ -19,7 +19,7 @@ word_by_word:
     translation: for them
     transliteration: lahumu
   5:
-    arabic: الۡاَبۡوَابُ​ۚ‏
+    arabic: ٱلۡأَبۡوَٰبُ
     translation: the gates
     transliteration: l-abwābu
 ---

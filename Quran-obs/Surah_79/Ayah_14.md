@@ -1,17 +1,17 @@
 ---
-arabic_ayat: فَاِذَا هُمۡ بِالسَّاهِرَةِ ؕ‏
+arabic_ayat: فَإِذَا هُم بِٱلسَّاهِرَةِ
 sentence_translation: and at once they will be above ground.
 word_by_word:
   1:
-    arabic: فَاِذَا
+    arabic: فَإِذَا
     translation: And behold
     transliteration: fa-idhā
   2:
-    arabic: هُمۡ
+    arabic: هُم
     translation: They
     transliteration: hum
   3:
-    arabic: بِالسَّاهِرَةِ ؕ‏
+    arabic: بِٱلسَّاهِرَةِ
     translation: (will be) awakened
     transliteration: bil-sāhirati
 ---

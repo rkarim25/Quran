@@ -1,11 +1,11 @@
 ---
-arabic_ayat: "ذٰ لِكَ مِنۡ اَنۡۢبَآءِ الۡـقُرٰى نَقُصُّهٗ عَلَيۡكَ​ مِنۡهَا قَآٮِٕمٌ\
-  \ وَّحَصِيۡدٌ‏ \uFEFF\uFEFF"
+arabic_ayat: ذَٰلِكَ مِنۡ أَنۢبَآءِ ٱلۡقُرَىٰ نَقُصُّهُۥ عَلَيۡكَۖ مِنۡهَا قَآئِمٞ
+  وَحَصِيدٞ
 sentence_translation: These are accounts, We relate to you ˹O Prophet˺, of the ˹destroyed˺
   cities. Some are still standing ˹barren˺, while others have been mowed down.
 word_by_word:
   1:
-    arabic: ذٰ لِكَ
+    arabic: ذَٰلِكَ
     translation: That
     transliteration: dhālika
   2:
@@ -13,19 +13,19 @@ word_by_word:
     translation: (is) from
     transliteration: min
   3:
-    arabic: اَنۡۢبَآءِ
+    arabic: أَنۢبَآءِ
     translation: (the) news
     transliteration: anbāi
   4:
-    arabic: الۡـقُرٰى
+    arabic: ٱلۡقُرَىٰ
     translation: (of) the cities
     transliteration: l-qurā
   5:
-    arabic: نَقُصُّهٗ
+    arabic: نَقُصُّهُۥ
     translation: (which) We relate
     transliteration: naquṣṣuhu
   6:
-    arabic: عَلَيۡكَ​
+    arabic: عَلَيۡكَۖ
     translation: to you
     transliteration: ʿalayka
   7:
@@ -33,11 +33,11 @@ word_by_word:
     translation: of them
     transliteration: min'hā
   8:
-    arabic: قَآٮِٕمٌ
+    arabic: قَآئِمٞ
     translation: some are standing
     transliteration: qāimun
   9:
-    arabic: "وَّحَصِيۡدٌ‏ \uFEFF\uFEFF"
+    arabic: وَحَصِيدٞ
     translation: and (some) mown
     transliteration: waḥaṣīdun
 ---

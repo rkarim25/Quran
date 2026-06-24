@@ -1,27 +1,27 @@
 ---
-arabic_ayat: اِذۡهَبْ بِّكِتٰبِىۡ هٰذَا فَاَلۡقِهۡ اِلَيۡهِمۡ ثُمَّ تَوَلَّ عَنۡهُمۡ
-  فَانْظُرۡ مَاذَا يَرۡجِعُوۡنَ‏
+arabic_ayat: ٱذۡهَب بِّكِتَٰبِي هَٰذَا فَأَلۡقِهۡ إِلَيۡهِمۡ ثُمَّ تَوَلَّ عَنۡهُمۡ
+  فَٱنظُرۡ مَاذَا يَرۡجِعُونَ
 sentence_translation: Go with this letter of mine and deliver it to them, then stand
   aside and see how they will respond.”
 word_by_word:
   1:
-    arabic: اِذۡهَبْ
+    arabic: ٱذۡهَب
     translation: Go
     transliteration: idh'hab
   2:
-    arabic: بِّكِتٰبِىۡ
+    arabic: بِّكِتَٰبِي
     translation: with my letter
     transliteration: bikitābī
   3:
-    arabic: هٰذَا
+    arabic: هَٰذَا
     translation: this
     transliteration: hādhā
   4:
-    arabic: فَاَلۡقِهۡ
+    arabic: فَأَلۡقِهۡ
     translation: and deliver it
     transliteration: fa-alqih
   5:
-    arabic: اِلَيۡهِمۡ
+    arabic: إِلَيۡهِمۡ
     translation: to them
     transliteration: ilayhim
   6:
@@ -37,7 +37,7 @@ word_by_word:
     translation: from them
     transliteration: ʿanhum
   9:
-    arabic: فَانْظُرۡ
+    arabic: فَٱنظُرۡ
     translation: and see
     transliteration: fa-unẓur
   10:
@@ -45,7 +45,7 @@ word_by_word:
     translation: what
     transliteration: mādhā
   11:
-    arabic: يَرۡجِعُوۡنَ‏
+    arabic: يَرۡجِعُونَ
     translation: they return
     transliteration: yarjiʿūna
 ---

@@ -1,5 +1,5 @@
 ---
-arabic_ayat: فَرَاغَ اِلٰٓى اَهۡلِهٖ فَجَآءَ بِعِجۡلٍ سَمِيۡنٍۙ‏
+arabic_ayat: فَرَاغَ إِلَىٰٓ أَهۡلِهِۦ فَجَآءَ بِعِجۡلٖ سَمِينٖ
 sentence_translation: Then he slipped off to his family and brought a fat ˹roasted˺
   calf,
 word_by_word:
@@ -8,11 +8,11 @@ word_by_word:
     translation: Then he went
     transliteration: farāgha
   2:
-    arabic: اِلٰٓى
+    arabic: إِلَىٰٓ
     translation: to
     transliteration: ilā
   3:
-    arabic: اَهۡلِهٖ
+    arabic: أَهۡلِهِۦ
     translation: his household
     transliteration: ahlihi
   4:
@@ -20,11 +20,11 @@ word_by_word:
     translation: and came
     transliteration: fajāa
   5:
-    arabic: بِعِجۡلٍ
+    arabic: بِعِجۡلٖ
     translation: with a calf
     transliteration: biʿij'lin
   6:
-    arabic: سَمِيۡنٍۙ‏
+    arabic: سَمِينٖ
     translation: fat
     transliteration: samīnin
 ---

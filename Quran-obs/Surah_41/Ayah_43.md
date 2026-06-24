@@ -1,12 +1,12 @@
 ---
-arabic_ayat: مَا يُقَالُ لَـكَ اِلَّا مَا قَدۡ قِيۡلَ لِلرُّسُلِ مِنۡ قَبۡلِكَ ​ؕ
-  اِنَّ رَبَّكَ لَذُوۡ مَغۡفِرَةٍ وَّذُوۡ عِقَابٍ اَ لِيۡمٍ‏
+arabic_ayat: مَّا يُقَالُ لَكَ إِلَّا مَا قَدۡ قِيلَ لِلرُّسُلِ مِن قَبۡلِكَۚ إِنَّ
+  رَبَّكَ لَذُو مَغۡفِرَةٖ وَذُو عِقَابٍ أَلِيمٖ
 sentence_translation: ˹O Prophet!˺ Nothing is said to you ˹by the deniers˺ except
   what was already said to the messengers before you. Surely your Lord is ˹the Lord˺
   of forgiveness and painful punishment.
 word_by_word:
   1:
-    arabic: مَا
+    arabic: مَّا
     translation: Not
     transliteration: mā
   2:
@@ -14,11 +14,11 @@ word_by_word:
     translation: is said
     transliteration: yuqālu
   3:
-    arabic: لَـكَ
+    arabic: لَكَ
     translation: to you
     transliteration: laka
   4:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   5:
@@ -30,7 +30,7 @@ word_by_word:
     translation: was said
     transliteration: qad
   7:
-    arabic: قِيۡلَ
+    arabic: قِيلَ
     translation: was said
     transliteration: qīla
   8:
@@ -38,15 +38,15 @@ word_by_word:
     translation: to the Messengers
     transliteration: lilrrusuli
   9:
-    arabic: مِنۡ
+    arabic: مِن
     translation: before you
     transliteration: min
   10:
-    arabic: قَبۡلِكَ ​ؕ
+    arabic: قَبۡلِكَۚ
     translation: before you
     transliteration: qablika
   11:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   12:
@@ -54,15 +54,15 @@ word_by_word:
     translation: your Lord
     transliteration: rabbaka
   13:
-    arabic: لَذُوۡ
+    arabic: لَذُو
     translation: (is) Possessor
     transliteration: ladhū
   14:
-    arabic: مَغۡفِرَةٍ
+    arabic: مَغۡفِرَةٖ
     translation: (of) forgiveness
     transliteration: maghfiratin
   15:
-    arabic: وَّذُوۡ
+    arabic: وَذُو
     translation: and Possessor
     transliteration: wadhū
   16:
@@ -70,7 +70,7 @@ word_by_word:
     translation: (of) penalty
     transliteration: ʿiqābin
   17:
-    arabic: اَ لِيۡمٍ‏
+    arabic: أَلِيمٖ
     translation: painful
     transliteration: alīmin
 ---

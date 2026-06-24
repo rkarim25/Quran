@@ -1,8 +1,8 @@
 ---
-arabic_ayat: قُلۡ اَرَءَيۡتُمۡ شُرَكَآءَكُمُ الَّذِيۡنَ تَدۡعُوۡنَ مِنۡ دُوۡنِ اللّٰهِ
-  ؕ اَرُوۡنِىۡ مَاذَا خَلَقُوۡا مِنَ الۡاَرۡضِ اَمۡ لَهُمۡ شِرۡكٌ فِى السَّمٰوٰتِ​
-  ۚ اَمۡ اٰتَيۡنٰهُمۡ كِتٰبًا فَهُمۡ عَلٰى بَيِّنَتٍ مِّنۡهُ ۚ بَلۡ اِنۡ يَّعِدُ الظّٰلِمُوۡنَ
-  بَعۡضُهُمۡ بَعۡضًا اِلَّا غُرُوۡرًا‏
+arabic_ayat: قُلۡ أَرَءَيۡتُمۡ شُرَكَآءَكُمُ ٱلَّذِينَ تَدۡعُونَ مِن دُونِ ٱللَّهِ
+  أَرُونِي مَاذَا خَلَقُواْ مِنَ ٱلۡأَرۡضِ أَمۡ لَهُمۡ شِرۡكٞ فِي ٱلسَّمَٰوَٰتِ أَمۡ
+  ءَاتَيۡنَٰهُمۡ كِتَٰبٗا فَهُمۡ عَلَىٰ بَيِّنَتٖ مِّنۡهُۚ بَلۡ إِن يَعِدُ ٱلظَّٰلِمُونَ
+  بَعۡضُهُم بَعۡضًا إِلَّا غُرُورًا
 sentence_translation: Ask ˹them, O  Prophet˺, “Have you considered your associate-gods
   which you invoke besides Allah? Show me what they have created on earth! Or do they
   have a share in ˹the creation of˺ the heavens? Or have We given the polytheists
@@ -14,7 +14,7 @@ word_by_word:
     translation: Say
     transliteration: qul
   2:
-    arabic: اَرَءَيۡتُمۡ
+    arabic: أَرَءَيۡتُمۡ
     translation: Have you seen
     transliteration: ara-aytum
   3:
@@ -22,27 +22,27 @@ word_by_word:
     translation: your partners
     transliteration: shurakāakumu
   4:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those whom
     transliteration: alladhīna
   5:
-    arabic: تَدۡعُوۡنَ
+    arabic: تَدۡعُونَ
     translation: you call
     transliteration: tadʿūna
   6:
-    arabic: مِنۡ
+    arabic: مِن
     translation: besides
     transliteration: min
   7:
-    arabic: دُوۡنِ
+    arabic: دُونِ
     translation: besides
     transliteration: dūni
   8:
-    arabic: اللّٰهِ ؕ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   9:
-    arabic: اَرُوۡنِىۡ
+    arabic: أَرُونِي
     translation: Show Me
     transliteration: arūnī
   10:
@@ -50,7 +50,7 @@ word_by_word:
     translation: what
     transliteration: mādhā
   11:
-    arabic: خَلَقُوۡا
+    arabic: خَلَقُواْ
     translation: they have created
     transliteration: khalaqū
   12:
@@ -58,11 +58,11 @@ word_by_word:
     translation: from
     transliteration: mina
   13:
-    arabic: الۡاَرۡضِ
+    arabic: ٱلۡأَرۡضِ
     translation: the earth
     transliteration: l-arḍi
   14:
-    arabic: اَمۡ
+    arabic: أَمۡ
     translation: or
     transliteration: am
   15:
@@ -70,27 +70,27 @@ word_by_word:
     translation: for them
     transliteration: lahum
   16:
-    arabic: شِرۡكٌ
+    arabic: شِرۡكٞ
     translation: (is) a share
     transliteration: shir'kun
   17:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   18:
-    arabic: السَّمٰوٰتِ​ ۚ
+    arabic: ٱلسَّمَٰوَٰتِ
     translation: the heavens
     transliteration: l-samāwāti
   19:
-    arabic: اَمۡ
+    arabic: أَمۡ ءَ
     translation: Or
     transliteration: am
   20:
-    arabic: اٰتَيۡنٰهُمۡ
+    arabic: اتَيۡنَٰهُمۡ
     translation: have We given them
     transliteration: ātaynāhum
   21:
-    arabic: كِتٰبًا
+    arabic: كِتَٰبٗا
     translation: a Book
     transliteration: kitāban
   22:
@@ -98,15 +98,15 @@ word_by_word:
     translation: so they
     transliteration: fahum
   23:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: (are) on
     transliteration: ʿalā
   24:
-    arabic: بَيِّنَتٍ
+    arabic: بَيِّنَتٖ
     translation: a clear proof
     transliteration: bayyinatin
   25:
-    arabic: مِّنۡهُ ۚ
+    arabic: مِّنۡهُۚ
     translation: therefrom
     transliteration: min'hu
   26:
@@ -114,19 +114,19 @@ word_by_word:
     translation: Nay
     transliteration: bal
   27:
-    arabic: اِنۡ
+    arabic: إِن
     translation: not
     transliteration: in
   28:
-    arabic: يَّعِدُ
+    arabic: يَعِدُ
     translation: promise
     transliteration: yaʿidu
   29:
-    arabic: الظّٰلِمُوۡنَ
+    arabic: ٱلظَّٰلِمُونَ
     translation: the wrongdoers
     transliteration: l-ẓālimūna
   30:
-    arabic: بَعۡضُهُمۡ
+    arabic: بَعۡضُهُم
     translation: some of them
     transliteration: baʿḍuhum
   31:
@@ -134,11 +134,11 @@ word_by_word:
     translation: (to) others
     transliteration: baʿḍan
   32:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   33:
-    arabic: غُرُوۡرًا‏
+    arabic: غُرُورًا
     translation: delusion
     transliteration: ghurūran
 ---

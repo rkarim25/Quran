@@ -1,5 +1,5 @@
 ---
-arabic_ayat: لَا يَسۡبِقُوۡنَهٗ بِالۡقَوۡلِ وَهُمۡ بِاَمۡرِهٖ يَعۡمَلُوۡنَ‏
+arabic_ayat: لَا يَسۡبِقُونَهُۥ بِٱلۡقَوۡلِ وَهُم بِأَمۡرِهِۦ يَعۡمَلُونَ
 sentence_translation: who do not speak until He has spoken, ˹only˺ acting at His command.
 word_by_word:
   1:
@@ -7,23 +7,23 @@ word_by_word:
     translation: Not
     transliteration: lā
   2:
-    arabic: يَسۡبِقُوۡنَهٗ
+    arabic: يَسۡبِقُونَهُۥ
     translation: they (can) precede Him
     transliteration: yasbiqūnahu
   3:
-    arabic: بِالۡقَوۡلِ
+    arabic: بِٱلۡقَوۡلِ
     translation: in word
     transliteration: bil-qawli
   4:
-    arabic: وَهُمۡ
+    arabic: وَهُم
     translation: and they
     transliteration: wahum
   5:
-    arabic: بِاَمۡرِهٖ
+    arabic: بِأَمۡرِهِۦ
     translation: by His command
     transliteration: bi-amrihi
   6:
-    arabic: يَعۡمَلُوۡنَ‏
+    arabic: يَعۡمَلُونَ
     translation: act
     transliteration: yaʿmalūna
 ---

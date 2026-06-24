@@ -1,17 +1,17 @@
 ---
-arabic_ayat: فَاَنۡتَ لَهٗ تَصَدّٰىؕ‏
+arabic_ayat: فَأَنتَ لَهُۥ تَصَدَّىٰ
 sentence_translation: you gave him your ˹undivided˺ attention,
 word_by_word:
   1:
-    arabic: فَاَنۡتَ
+    arabic: فَأَنتَ
     translation: So you
     transliteration: fa-anta
   2:
-    arabic: لَهٗ
+    arabic: لَهُۥ
     translation: to him
     transliteration: lahu
   3:
-    arabic: تَصَدّٰىؕ‏
+    arabic: تَصَدَّىٰ
     translation: give attention
     transliteration: taṣaddā
 ---

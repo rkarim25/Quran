@@ -1,5 +1,5 @@
 ---
-arabic_ayat: ثُمَّ اِنَّكُمۡ بَعۡدَ ذٰلِكَ لَمَيِّتُوۡنَؕ‏
+arabic_ayat: ثُمَّ إِنَّكُم بَعۡدَ ذَٰلِكَ لَمَيِّتُونَ
 sentence_translation: After that you will surely die,
 word_by_word:
   1:
@@ -7,7 +7,7 @@ word_by_word:
     translation: Then
     transliteration: thumma
   2:
-    arabic: اِنَّكُمۡ
+    arabic: إِنَّكُم
     translation: indeed, you
     transliteration: innakum
   3:
@@ -15,11 +15,11 @@ word_by_word:
     translation: after
     transliteration: baʿda
   4:
-    arabic: ذٰلِكَ
+    arabic: ذَٰلِكَ
     translation: that
     transliteration: dhālika
   5:
-    arabic: لَمَيِّتُوۡنَؕ‏
+    arabic: لَمَيِّتُونَ
     translation: surely (will) die
     transliteration: lamayyitūna
 ---

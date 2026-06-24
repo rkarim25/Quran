@@ -1,34 +1,34 @@
 ---
-arabic_ayat: وَابۡتَغِ فِيۡمَاۤ اٰتٰٮكَ اللّٰهُ الدَّارَ الۡاٰخِرَةَ​ وَلَا تَنۡسَ
-  نَصِيۡبَكَ مِنَ الدُّنۡيَا​ وَاَحۡسِنۡ كَمَاۤ اَحۡسَنَ اللّٰهُ اِلَيۡكَ​ وَلَا تَبۡغِ
-  الۡـفَسَادَ فِى الۡاَرۡضِ​ؕ اِنَّ اللّٰهَ لَا يُحِبُّ الۡمُفۡسِدِيۡنَ‏
+arabic_ayat: وَٱبۡتَغِ فِيمَآ ءَاتَىٰكَ ٱللَّهُ ٱلدَّارَ ٱلۡأٓخِرَةَۖ وَلَا تَنسَ
+  نَصِيبَكَ مِنَ ٱلدُّنۡيَاۖ وَأَحۡسِن كَمَآ أَحۡسَنَ ٱللَّهُ إِلَيۡكَۖ وَلَا تَبۡغِ
+  ٱلۡفَسَادَ فِي ٱلۡأَرۡضِۖ إِنَّ ٱللَّهَ لَا يُحِبُّ ٱلۡمُفۡسِدِينَ
 sentence_translation: Rather, seek the ˹reward˺ of the Hereafter by means of what
   Allah has granted you, without forgetting your share of this world. And be good
   ˹to others˺ as Allah has been good to you. Do not seek to spread corruption in the
   land, for Allah certainly does not like the corruptors.”
 word_by_word:
   1:
-    arabic: وَابۡتَغِ
+    arabic: وَٱبۡتَغِ
     translation: But seek
     transliteration: wa-ib'taghi
   2:
-    arabic: فِيۡمَاۤ
+    arabic: فِيمَآ ءَ
     translation: through what
     transliteration: fīmā
   3:
-    arabic: اٰتٰٮكَ
+    arabic: اتَىٰكَ
     translation: Allah has given you
     transliteration: ātāka
   4:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah has given you
     transliteration: l-lahu
   5:
-    arabic: الدَّارَ
+    arabic: ٱلدَّارَ
     translation: the home
     transliteration: l-dāra
   6:
-    arabic: الۡاٰخِرَةَ​
+    arabic: ٱلۡأٓخِرَةَۖ
     translation: (of) the Hereafter
     transliteration: l-ākhirata
   7:
@@ -36,11 +36,11 @@ word_by_word:
     translation: and (do) not
     transliteration: walā
   8:
-    arabic: تَنۡسَ
+    arabic: تَنسَ
     translation: forget
     transliteration: tansa
   9:
-    arabic: نَصِيۡبَكَ
+    arabic: نَصِيبَكَ
     translation: your share
     transliteration: naṣībaka
   10:
@@ -48,27 +48,27 @@ word_by_word:
     translation: of
     transliteration: mina
   11:
-    arabic: الدُّنۡيَا​
+    arabic: ٱلدُّنۡيَاۖ
     translation: the world
     transliteration: l-dun'yā
   12:
-    arabic: وَاَحۡسِنۡ
+    arabic: وَأَحۡسِن
     translation: And do good
     transliteration: wa-aḥsin
   13:
-    arabic: كَمَاۤ
+    arabic: كَمَآ
     translation: as
     transliteration: kamā
   14:
-    arabic: اَحۡسَنَ
+    arabic: أَحۡسَنَ
     translation: Allah has been good
     transliteration: aḥsana
   15:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah has been good
     transliteration: l-lahu
   16:
-    arabic: اِلَيۡكَ​
+    arabic: إِلَيۡكَۖ
     translation: to you
     transliteration: ilayka
   17:
@@ -80,23 +80,23 @@ word_by_word:
     translation: seek
     transliteration: tabghi
   19:
-    arabic: الۡـفَسَادَ
+    arabic: ٱلۡفَسَادَ
     translation: corruption
     transliteration: l-fasāda
   20:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   21:
-    arabic: الۡاَرۡضِ​ؕ
+    arabic: ٱلۡأَرۡضِۖ
     translation: the earth
     transliteration: l-arḍi
   22:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   23:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   24:
@@ -108,7 +108,7 @@ word_by_word:
     translation: love
     transliteration: yuḥibbu
   26:
-    arabic: الۡمُفۡسِدِيۡنَ‏
+    arabic: ٱلۡمُفۡسِدِينَ
     translation: the corrupters
     transliteration: l-muf'sidīna
 ---

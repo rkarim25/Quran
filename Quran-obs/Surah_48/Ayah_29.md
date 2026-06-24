@@ -1,11 +1,11 @@
 ---
-arabic_ayat: مُحَمَّدٌ رَّسُوۡلُ اللّٰهِ​ ؕ وَالَّذِيۡنَ مَعَهٗۤ اَشِدَّآءُ عَلَى
-  الۡكُفَّارِ رُحَمَآءُ بَيۡنَهُمۡ ​ تَرٰٮهُمۡ رُكَّعًا سُجَّدًا يَّبۡتَغُوۡنَ فَضۡلًا
-  مِّنَ اللّٰهِ وَرِضۡوَانًا​سِيۡمَاهُمۡ فِىۡ وُجُوۡهِهِمۡ مِّنۡ اَثَرِ السُّجُوۡدِ​
-  ؕ ذٰ لِكَ مَثَلُهُمۡ فِى التَّوۡرٰٮةِ ۛ ۖۚ وَمَثَلُهُمۡ فِى الۡاِنۡجِيۡلِ ۛۚ كَزَرۡعٍ
-  اَخۡرَجَ شَطْئَـهٗ فَاٰزَرَهٗ فَاسۡتَغۡلَظَ فَاسۡتَوٰى عَلٰى سُوۡقِهٖ يُعۡجِبُ الزُّرَّاعَ
-  لِيَـغِيۡظَ بِهِمُ الۡكُفَّارَ​ ؕ وَعَدَ اللّٰهُ الَّذِيۡنَ اٰمَنُوۡا وَعَمِلُوا
-  الصّٰلِحٰتِ مِنۡهُمۡ مَّغۡفِرَةً وَّاَجۡرًا عَظِيۡمًا‏
+arabic_ayat: مُّحَمَّدٞ رَّسُولُ ٱللَّهِۚ وَٱلَّذِينَ مَعَهُۥٓ أَشِدَّآءُ عَلَى ٱلۡكُفَّارِ
+  رُحَمَآءُ بَيۡنَهُمۡۖ تَرَىٰهُمۡ رُكَّعٗا سُجَّدٗا يَبۡتَغُونَ فَضۡلٗا مِّنَ ٱللَّهِ
+  وَرِضۡوَٰنٗاۖ سِيمَاهُمۡ فِي وُجُوهِهِم مِّنۡ أَثَرِ ٱلسُّجُودِۚ ذَٰلِكَ مَثَلُهُمۡ
+  فِي ٱلتَّوۡرَىٰةِۚ وَمَثَلُهُمۡ فِي ٱلۡإِنجِيلِ كَزَرۡعٍ أَخۡرَجَ شَطۡـَٔهُۥ فَـَٔازَرَهُۥ
+  فَٱسۡتَغۡلَظَ فَٱسۡتَوَىٰ عَلَىٰ سُوقِهِۦ يُعۡجِبُ ٱلزُّرَّاعَ لِيَغِيظَ بِهِمُ
+  ٱلۡكُفَّارَۗ وَعَدَ ٱللَّهُ ٱلَّذِينَ ءَامَنُواْ وَعَمِلُواْ ٱلصَّٰلِحَٰتِ مِنۡهُم
+  مَّغۡفِرَةٗ وَأَجۡرًا عَظِيمَۢا
 sentence_translation: Muḥammad is the Messenger of Allah. And those with him are firm
   with the disbelievers and compassionate with one another. You see them bowing and
   prostrating ˹in prayer˺, seeking Allah’s bounty and pleasure. The sign ˹of brightness
@@ -17,27 +17,27 @@ sentence_translation: Muḥammad is the Messenger of Allah. And those with him a
   Allah has promised forgiveness and a great reward.
 word_by_word:
   1:
-    arabic: مُحَمَّدٌ
+    arabic: مُّحَمَّدٞ
     translation: Muhammad
     transliteration: muḥammadun
   2:
-    arabic: رَّسُوۡلُ
+    arabic: رَّسُولُ
     translation: (is the) Messenger
     transliteration: rasūlu
   3:
-    arabic: اللّٰهِ​ ؕ
+    arabic: ٱللَّهِۚ
     translation: of Allah
     transliteration: l-lahi
   4:
-    arabic: وَالَّذِيۡنَ
+    arabic: وَٱلَّذِينَ
     translation: and those who
     transliteration: wa-alladhīna
   5:
-    arabic: مَعَهٗۤ
+    arabic: مَعَهُۥٓ
     translation: (are) with him
     transliteration: maʿahu
   6:
-    arabic: اَشِدَّآءُ
+    arabic: أَشِدَّآءُ
     translation: (are) firm
     transliteration: ashiddāu
   7:
@@ -45,7 +45,7 @@ word_by_word:
     translation: against
     transliteration: ʿalā
   8:
-    arabic: الۡكُفَّارِ
+    arabic: ٱلۡكُفَّارِ
     translation: the disbelievers
     transliteration: l-kufāri
   9:
@@ -53,27 +53,27 @@ word_by_word:
     translation: and merciful
     transliteration: ruḥamāu
   10:
-    arabic: بَيۡنَهُمۡ ​
+    arabic: بَيۡنَهُمۡۖ
     translation: among themselves
     transliteration: baynahum
   11:
-    arabic: تَرٰٮهُمۡ
+    arabic: تَرَىٰهُمۡ
     translation: You see them
     transliteration: tarāhum
   12:
-    arabic: رُكَّعًا
+    arabic: رُكَّعٗا
     translation: bowing
     transliteration: rukkaʿan
   13:
-    arabic: سُجَّدًا
+    arabic: سُجَّدٗا
     translation: and prostrating
     transliteration: sujjadan
   14:
-    arabic: يَّبۡتَغُوۡنَ
+    arabic: يَبۡتَغُونَ
     translation: seeking
     transliteration: yabtaghūna
   15:
-    arabic: فَضۡلًا
+    arabic: فَضۡلٗا
     translation: Bounty
     transliteration: faḍlan
   16:
@@ -81,23 +81,23 @@ word_by_word:
     translation: from Allah
     transliteration: mina
   17:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: from Allah
     transliteration: l-lahi
   18:
-    arabic: وَرِضۡوَانًا​
+    arabic: وَرِضۡوَٰنٗاۖ
     translation: and pleasure
     transliteration: wariḍ'wānan
   19:
-    arabic: سِيۡمَاهُمۡ
+    arabic: سِيمَاهُمۡ
     translation: Their mark
     transliteration: sīmāhum
   20:
-    arabic: فِىۡ
+    arabic: فِي
     translation: (is) on
     transliteration: fī
   21:
-    arabic: وُجُوۡهِهِمۡ
+    arabic: وُجُوهِهِم
     translation: their faces
     transliteration: wujūhihim
   22:
@@ -105,15 +105,15 @@ word_by_word:
     translation: from
     transliteration: min
   23:
-    arabic: اَثَرِ
+    arabic: أَثَرِ
     translation: (the) trace
     transliteration: athari
   24:
-    arabic: السُّجُوۡدِ​ ؕ
+    arabic: ٱلسُّجُودِۚ
     translation: (of) the prostration
     transliteration: l-sujūdi
   25:
-    arabic: ذٰ لِكَ
+    arabic: ذَٰلِكَ
     translation: That
     transliteration: dhālika
   26:
@@ -121,11 +121,11 @@ word_by_word:
     translation: (is) their similitude
     transliteration: mathaluhum
   27:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   28:
-    arabic: التَّوۡرٰٮةِ ۛ ۖۚ
+    arabic: ٱلتَّوۡرَىٰةِۚ
     translation: the Taurah
     transliteration: l-tawrāti
   29:
@@ -133,11 +133,11 @@ word_by_word:
     translation: And their similitude
     transliteration: wamathaluhum
   30:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   31:
-    arabic: الۡاِنۡجِيۡلِ ۛۚ
+    arabic: ٱلۡإِنجِيلِ
     translation: the Injeel
     transliteration: l-injīli
   32:
@@ -145,31 +145,31 @@ word_by_word:
     translation: (is) like a seed
     transliteration: kazarʿin
   33:
-    arabic: اَخۡرَجَ
+    arabic: أَخۡرَجَ
     translation: (which) sends forth
     transliteration: akhraja
   34:
-    arabic: شَطْئَـهٗ
+    arabic: شَطۡـَٔهُۥ
     translation: its shoot
     transliteration: shaṭahu
   35:
-    arabic: فَاٰزَرَهٗ
+    arabic: فَـَٔازَرَهُۥ
     translation: then strengthens it
     transliteration: faāzarahu
   36:
-    arabic: فَاسۡتَغۡلَظَ
+    arabic: فَٱسۡتَغۡلَظَ
     translation: then it becomes thick
     transliteration: fa-is'taghlaẓa
   37:
-    arabic: فَاسۡتَوٰى
+    arabic: فَٱسۡتَوَىٰ
     translation: and it stands
     transliteration: fa-is'tawā
   38:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: upon
     transliteration: ʿalā
   39:
-    arabic: سُوۡقِهٖ
+    arabic: سُوقِهِۦ
     translation: its stem
     transliteration: sūqihi
   40:
@@ -177,11 +177,11 @@ word_by_word:
     translation: delighting
     transliteration: yuʿ'jibu
   41:
-    arabic: الزُّرَّاعَ
+    arabic: ٱلزُّرَّاعَ
     translation: the sowers
     transliteration: l-zurāʿa
   42:
-    arabic: لِيَـغِيۡظَ
+    arabic: لِيَغِيظَ
     translation: that He (may) enrage
     transliteration: liyaghīẓa
   43:
@@ -189,7 +189,7 @@ word_by_word:
     translation: by them
     transliteration: bihimu
   44:
-    arabic: الۡكُفَّارَ​ ؕ
+    arabic: ٱلۡكُفَّارَۗ
     translation: the disbelievers
     transliteration: l-kufāra
   45:
@@ -197,39 +197,39 @@ word_by_word:
     translation: Allah has promised
     transliteration: waʿada
   46:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah has promised
     transliteration: l-lahu
   47:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ ءَ
     translation: those who
     transliteration: alladhīna
   48:
-    arabic: اٰمَنُوۡا
+    arabic: امَنُواْ
     translation: believe
     transliteration: āmanū
   49:
-    arabic: وَعَمِلُوا
+    arabic: وَعَمِلُواْ
     translation: and do
     transliteration: waʿamilū
   50:
-    arabic: الصّٰلِحٰتِ
+    arabic: ٱلصَّٰلِحَٰتِ
     translation: righteous deeds
     transliteration: l-ṣāliḥāti
   51:
-    arabic: مِنۡهُمۡ
+    arabic: مِنۡهُم
     translation: among them
     transliteration: min'hum
   52:
-    arabic: مَّغۡفِرَةً
+    arabic: مَّغۡفِرَةٗ
     translation: forgiveness
     transliteration: maghfiratan
   53:
-    arabic: وَّاَجۡرًا
+    arabic: وَأَجۡرًا
     translation: and a reward
     transliteration: wa-ajran
   54:
-    arabic: عَظِيۡمًا‏
+    arabic: عَظِيمَۢا
     translation: great
     transliteration: ʿaẓīman
 ---

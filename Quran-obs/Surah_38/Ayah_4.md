@@ -1,27 +1,27 @@
 ---
-arabic_ayat: وَعَجِبُوۡۤا اَنۡ جَآءَهُمۡ مُّنۡذِرٌ مِّنۡهُمۡ​ وَقَالَ الۡكٰفِرُوۡنَ
-  هٰذَا سٰحِرٌ كَذَّابٌ​ ۖ​ۚ‏
+arabic_ayat: وَعَجِبُوٓاْ أَن جَآءَهُم مُّنذِرٞ مِّنۡهُمۡۖ وَقَالَ ٱلۡكَٰفِرُونَ
+  هَٰذَا سَٰحِرٞ كَذَّابٌ
 sentence_translation: Now, the pagans are astonished that a warner has come to them
   from among themselves. And the disbelievers say, “This is a magician, a total liar!
 word_by_word:
   1:
-    arabic: وَعَجِبُوۡۤا
+    arabic: وَعَجِبُوٓاْ
     translation: And they wonder
     transliteration: waʿajibū
   2:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that
     transliteration: an
   3:
-    arabic: جَآءَهُمۡ
+    arabic: جَآءَهُم
     translation: has come to them
     transliteration: jāahum
   4:
-    arabic: مُّنۡذِرٌ
+    arabic: مُّنذِرٞ
     translation: a warner
     transliteration: mundhirun
   5:
-    arabic: مِّنۡهُمۡ​
+    arabic: مِّنۡهُمۡۖ
     translation: from themselves
     transliteration: min'hum
   6:
@@ -29,19 +29,19 @@ word_by_word:
     translation: And said
     transliteration: waqāla
   7:
-    arabic: الۡكٰفِرُوۡنَ
+    arabic: ٱلۡكَٰفِرُونَ
     translation: the disbelievers
     transliteration: l-kāfirūna
   8:
-    arabic: هٰذَا
+    arabic: هَٰذَا
     translation: This
     transliteration: hādhā
   9:
-    arabic: سٰحِرٌ
+    arabic: سَٰحِرٞ
     translation: (is) a magician
     transliteration: sāḥirun
   10:
-    arabic: كَذَّابٌ​ ۖ​ۚ‏
+    arabic: كَذَّابٌ
     translation: a liar
     transliteration: kadhābun
 ---

@@ -1,31 +1,31 @@
 ---
-arabic_ayat: اُولٰٓٮِٕكَ الَّذِيۡنَ اشۡتَرَوُا الۡحَيٰوةَ الدُّنۡيَا بِالۡاٰخِرَةِ​
-  فَلَا يُخَفَّفُ عَنۡهُمُ الۡعَذَابُ وَلَا هُمۡ يُنۡصَرُوۡنَ‏
+arabic_ayat: أُوْلَٰٓئِكَ ٱلَّذِينَ ٱشۡتَرَوُاْ ٱلۡحَيَوٰةَ ٱلدُّنۡيَا بِٱلۡأٓخِرَةِۖ
+  فَلَا يُخَفَّفُ عَنۡهُمُ ٱلۡعَذَابُ وَلَا هُمۡ يُنصَرُونَ
 sentence_translation: These are the ones who trade the Hereafter for the life of this
   world. So their punishment will not be reduced, nor will they be helped.
 word_by_word:
   1:
-    arabic: اُولٰٓٮِٕكَ
+    arabic: أُوْلَٰٓئِكَ
     translation: Those
     transliteration: ulāika
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: (are) the ones who
     transliteration: alladhīna
   3:
-    arabic: اشۡتَرَوُا
+    arabic: ٱشۡتَرَوُاْ
     translation: bought
     transliteration: ish'tarawū
   4:
-    arabic: الۡحَيٰوةَ
+    arabic: ٱلۡحَيَوٰةَ
     translation: the life
     transliteration: l-ḥayata
   5:
-    arabic: الدُّنۡيَا
+    arabic: ٱلدُّنۡيَا
     translation: (of) the world
     transliteration: l-dun'yā
   6:
-    arabic: بِالۡاٰخِرَةِ​
+    arabic: بِٱلۡأٓخِرَةِۖ
     translation: for the Hereafter
     transliteration: bil-ākhirati
   7:
@@ -41,7 +41,7 @@ word_by_word:
     translation: for them
     transliteration: ʿanhumu
   10:
-    arabic: الۡعَذَابُ
+    arabic: ٱلۡعَذَابُ
     translation: the punishment
     transliteration: l-ʿadhābu
   11:
@@ -53,7 +53,7 @@ word_by_word:
     translation: they
     transliteration: hum
   13:
-    arabic: يُنۡصَرُوۡنَ‏
+    arabic: يُنصَرُونَ
     translation: will be helped
     transliteration: yunṣarūna
 ---

@@ -1,9 +1,9 @@
 ---
-arabic_ayat: اَوۡ يَذَّكَّرُ فَتَنۡفَعَهُ الذِّكۡرٰىؕ‏
+arabic_ayat: أَوۡ يَذَّكَّرُ فَتَنفَعَهُ ٱلذِّكۡرَىٰٓ
 sentence_translation: or he may be mindful, benefitting from the reminder.
 word_by_word:
   1:
-    arabic: اَوۡ
+    arabic: أَوۡ
     translation: Or
     transliteration: aw
   2:
@@ -11,11 +11,11 @@ word_by_word:
     translation: be reminded
     transliteration: yadhakkaru
   3:
-    arabic: فَتَنۡفَعَهُ
+    arabic: فَتَنفَعَهُ
     translation: so would benefit him
     transliteration: fatanfaʿahu
   4:
-    arabic: الذِّكۡرٰىؕ‏
+    arabic: ٱلذِّكۡرَىٰٓ
     translation: the reminder
     transliteration: l-dhik'rā
 ---

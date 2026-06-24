@@ -1,7 +1,7 @@
 ---
-arabic_ayat: وَقَالَ الۡمَلِكُ اِنِّىۡۤ اَرٰى سَبۡعَ بَقَرٰتٍ سِمَانٍ يَّاۡكُلُهُنَّ
-  سَبۡعٌ عِجَافٌ وَّسَبۡعَ سُنۡۢبُلٰتٍ خُضۡرٍ وَّاُخَرَ يٰبِسٰتٍ​ؕ يٰۤاَيُّهَا الۡمَلَاُ
-  اَفۡتُوۡنِىۡ فِىۡ رُءۡيَاىَ اِنۡ كُنۡتُمۡ لِلرُّءۡيَا تَعۡبُرُوۡنَ‏
+arabic_ayat: وَقَالَ ٱلۡمَلِكُ إِنِّيٓ أَرَىٰ سَبۡعَ بَقَرَٰتٖ سِمَانٖ يَأۡكُلُهُنَّ
+  سَبۡعٌ عِجَافٞ وَسَبۡعَ سُنۢبُلَٰتٍ خُضۡرٖ وَأُخَرَ يَابِسَٰتٖۖ يَٰٓأَيُّهَا ٱلۡمَلَأُ
+  أَفۡتُونِي فِي رُءۡيَٰيَ إِن كُنتُمۡ لِلرُّءۡيَا تَعۡبُرُونَ
 sentence_translation: And ˹one day˺ the King said, “I dreamt of seven fat cows eaten
   up by seven skinny ones; and seven green ears of grain and ˹seven˺ others dry. O
    chiefs! Tell me the meaning of my dream if you can interpret dreams.”
@@ -11,15 +11,15 @@ word_by_word:
     translation: And said
     transliteration: waqāla
   2:
-    arabic: الۡمَلِكُ
+    arabic: ٱلۡمَلِكُ
     translation: the king
     transliteration: l-maliku
   3:
-    arabic: اِنِّىۡۤ
+    arabic: إِنِّيٓ
     translation: Indeed, I
     transliteration: innī
   4:
-    arabic: اَرٰى
+    arabic: أَرَىٰ
     translation: '[I] have seen'
     transliteration: arā
   5:
@@ -27,15 +27,15 @@ word_by_word:
     translation: seven
     transliteration: sabʿa
   6:
-    arabic: بَقَرٰتٍ
+    arabic: بَقَرَٰتٖ
     translation: cows
     transliteration: baqarātin
   7:
-    arabic: سِمَانٍ
+    arabic: سِمَانٖ
     translation: fat
     transliteration: simānin
   8:
-    arabic: يَّاۡكُلُهُنَّ
+    arabic: يَأۡكُلُهُنَّ
     translation: eating them
     transliteration: yakuluhunna
   9:
@@ -43,55 +43,55 @@ word_by_word:
     translation: seven
     transliteration: sabʿun
   10:
-    arabic: عِجَافٌ
+    arabic: عِجَافٞ
     translation: lean ones
     transliteration: ʿijāfun
   11:
-    arabic: وَّسَبۡعَ
+    arabic: وَسَبۡعَ
     translation: and seven
     transliteration: wasabʿa
   12:
-    arabic: سُنۡۢبُلٰتٍ
+    arabic: سُنۢبُلَٰتٍ
     translation: ears (of corn)
     transliteration: sunbulātin
   13:
-    arabic: خُضۡرٍ
+    arabic: خُضۡرٖ
     translation: green
     transliteration: khuḍ'rin
   14:
-    arabic: وَّاُخَرَ
+    arabic: وَأُخَرَ
     translation: and others
     transliteration: wa-ukhara
   15:
-    arabic: يٰبِسٰتٍ​ؕ
+    arabic: يَابِسَٰتٖۖ
     translation: dry
     transliteration: yābisātin
   16:
-    arabic: يٰۤاَيُّهَا
+    arabic: يَٰٓأَيُّهَا
     translation: O
     transliteration: yāayyuhā
   17:
-    arabic: الۡمَلَاُ
+    arabic: ٱلۡمَلَأُ
     translation: chiefs
     transliteration: l-mala-u
   18:
-    arabic: اَفۡتُوۡنِىۡ
+    arabic: أَفۡتُونِي
     translation: Explain to me
     transliteration: aftūnī
   19:
-    arabic: فِىۡ
+    arabic: فِي
     translation: about
     transliteration: fī
   20:
-    arabic: رُءۡيَاىَ
+    arabic: رُءۡيَٰيَ
     translation: my vision
     transliteration: ru'yāya
   21:
-    arabic: اِنۡ
+    arabic: إِن
     translation: if
     transliteration: in
   22:
-    arabic: كُنۡتُمۡ
+    arabic: كُنتُمۡ
     translation: you can
     transliteration: kuntum
   23:
@@ -99,7 +99,7 @@ word_by_word:
     translation: of visions
     transliteration: lilrru'yā
   24:
-    arabic: تَعۡبُرُوۡنَ‏
+    arabic: تَعۡبُرُونَ
     translation: interpret
     transliteration: taʿburūna
 ---

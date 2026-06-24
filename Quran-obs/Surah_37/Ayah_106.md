@@ -1,13 +1,13 @@
 ---
-arabic_ayat: اِنَّ هٰذَا لَهُوَ الۡبَلٰٓؤُا الۡمُبِيۡنُ‏
+arabic_ayat: إِنَّ هَٰذَا لَهُوَ ٱلۡبَلَٰٓؤُاْ ٱلۡمُبِينُ
 sentence_translation: That was truly a revealing test.
 word_by_word:
   1:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   2:
-    arabic: هٰذَا
+    arabic: هَٰذَا
     translation: this
     transliteration: hādhā
   3:
@@ -15,11 +15,11 @@ word_by_word:
     translation: (was) surely [it]
     transliteration: lahuwa
   4:
-    arabic: الۡبَلٰٓؤُا
+    arabic: ٱلۡبَلَٰٓؤُاْ
     translation: the trial
     transliteration: l-balāu
   5:
-    arabic: الۡمُبِيۡنُ‏
+    arabic: ٱلۡمُبِينُ
     translation: clear
     transliteration: l-mubīnu
 ---

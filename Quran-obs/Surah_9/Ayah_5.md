@@ -1,35 +1,35 @@
 ---
-arabic_ayat: فَاِذَا انْسَلَخَ الۡاَشۡهُرُ الۡحُـرُمُ فَاقۡتُلُوا الۡمُشۡرِكِيۡنَ
-  حَيۡثُ وَجَدْتُّمُوۡهُمۡ وَخُذُوۡهُمۡ وَاحۡصُرُوۡهُمۡ وَاقۡعُدُوۡا لَهُمۡ كُلَّ
-  مَرۡصَدٍ​ ۚ فَاِنۡ تَابُوۡا وَاَقَامُوا الصَّلٰوةَ وَ اٰتَوُا الزَّكٰوةَ فَخَلُّوۡا
-  سَبِيۡلَهُمۡ​ ؕ اِنَّ اللّٰهَ غَفُوۡرٌ رَّحِيۡمٌ‏
+arabic_ayat: فَإِذَا ٱنسَلَخَ ٱلۡأَشۡهُرُ ٱلۡحُرُمُ فَٱقۡتُلُواْ ٱلۡمُشۡرِكِينَ حَيۡثُ
+  وَجَدتُّمُوهُمۡ وَخُذُوهُمۡ وَٱحۡصُرُوهُمۡ وَٱقۡعُدُواْ لَهُمۡ كُلَّ مَرۡصَدٖۚ فَإِن
+  تَابُواْ وَأَقَامُواْ ٱلصَّلَوٰةَ وَءَاتَوُاْ ٱلزَّكَوٰةَ فَخَلُّواْ سَبِيلَهُمۡۚ
+  إِنَّ ٱللَّهَ غَفُورٞ رَّحِيمٞ
 sentence_translation: But once the Sacred Months have passed, kill the polytheists
   ˹who violated their treaties˺ wherever you find them, capture them, besiege them,
   and lie in wait for them on every way. But if they repent, perform prayers, and
   pay alms-tax, then set them free. Indeed, Allah is All-Forgiving, Most Merciful.
 word_by_word:
   1:
-    arabic: فَاِذَا
+    arabic: فَإِذَا
     translation: Then when
     transliteration: fa-idhā
   2:
-    arabic: انْسَلَخَ
+    arabic: ٱنسَلَخَ
     translation: have passed
     transliteration: insalakha
   3:
-    arabic: الۡاَشۡهُرُ
+    arabic: ٱلۡأَشۡهُرُ
     translation: the sacred months
     transliteration: l-ashhuru
   4:
-    arabic: الۡحُـرُمُ
+    arabic: ٱلۡحُرُمُ
     translation: the sacred months
     transliteration: l-ḥurumu
   5:
-    arabic: فَاقۡتُلُوا
+    arabic: فَٱقۡتُلُواْ
     translation: then kill
     transliteration: fa-uq'tulū
   6:
-    arabic: الۡمُشۡرِكِيۡنَ
+    arabic: ٱلۡمُشۡرِكِينَ
     translation: the polytheists
     transliteration: l-mush'rikīna
   7:
@@ -37,19 +37,19 @@ word_by_word:
     translation: wherever
     transliteration: ḥaythu
   8:
-    arabic: وَجَدْتُّمُوۡهُمۡ
+    arabic: وَجَدتُّمُوهُمۡ
     translation: you find them
     transliteration: wajadttumūhum
   9:
-    arabic: وَخُذُوۡهُمۡ
+    arabic: وَخُذُوهُمۡ
     translation: and seize them
     transliteration: wakhudhūhum
   10:
-    arabic: وَاحۡصُرُوۡهُمۡ
+    arabic: وَٱحۡصُرُوهُمۡ
     translation: and besiege them
     transliteration: wa-uḥ'ṣurūhum
   11:
-    arabic: وَاقۡعُدُوۡا
+    arabic: وَٱقۡعُدُواْ
     translation: and sit (in wait)
     transliteration: wa-uq'ʿudū
   12:
@@ -61,55 +61,55 @@ word_by_word:
     translation: (at) every
     transliteration: kulla
   14:
-    arabic: مَرۡصَدٍ​ ۚ
+    arabic: مَرۡصَدٖۚ
     translation: place of ambush
     transliteration: marṣadin
   15:
-    arabic: فَاِنۡ
+    arabic: فَإِن
     translation: But if
     transliteration: fa-in
   16:
-    arabic: تَابُوۡا
+    arabic: تَابُواْ
     translation: they repent
     transliteration: tābū
   17:
-    arabic: وَاَقَامُوا
+    arabic: وَأَقَامُواْ
     translation: and establish
     transliteration: wa-aqāmū
   18:
-    arabic: الصَّلٰوةَ
+    arabic: ٱلصَّلَوٰةَ
     translation: the prayer
     transliteration: l-ṣalata
   19:
-    arabic: وَ اٰتَوُا
+    arabic: وَءَاتَوُاْ
     translation: and give
     transliteration: waātawū
   20:
-    arabic: الزَّكٰوةَ
+    arabic: ٱلزَّكَوٰةَ
     translation: the zakah
     transliteration: l-zakata
   21:
-    arabic: فَخَلُّوۡا
+    arabic: فَخَلُّواْ
     translation: then leave
     transliteration: fakhallū
   22:
-    arabic: سَبِيۡلَهُمۡ​ ؕ
+    arabic: سَبِيلَهُمۡۚ
     translation: their way
     transliteration: sabīlahum
   23:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   24:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   25:
-    arabic: غَفُوۡرٌ
+    arabic: غَفُورٞ
     translation: (is) Oft-Forgiving
     transliteration: ghafūrun
   26:
-    arabic: رَّحِيۡمٌ‏
+    arabic: رَّحِيمٞ
     translation: Most Merciful
     transliteration: raḥīmun
 ---

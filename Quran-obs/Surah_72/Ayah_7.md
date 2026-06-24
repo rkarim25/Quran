@@ -1,15 +1,14 @@
 ---
-arabic_ayat: وَّاَنَّهُمۡ ظَنُّوۡا كَمَا ظَنَنۡتُمۡ اَنۡ لَّنۡ يَّبۡعَثَ اللّٰهُ اَحَدًا
-  ۙ‏
+arabic_ayat: وَأَنَّهُمۡ ظَنُّواْ كَمَا ظَنَنتُمۡ أَن لَّن يَبۡعَثَ ٱللَّهُ أَحَدٗا
 sentence_translation: And those ˹humans˺ thought, just like you ˹jinn˺, that Allah
   would not resurrect anyone ˹for judgment˺.
 word_by_word:
   1:
-    arabic: وَّاَنَّهُمۡ
+    arabic: وَأَنَّهُمۡ
     translation: And that they
     transliteration: wa-annahum
   2:
-    arabic: ظَنُّوۡا
+    arabic: ظَنُّواْ
     translation: thought
     transliteration: ẓannū
   3:
@@ -17,27 +16,27 @@ word_by_word:
     translation: as
     transliteration: kamā
   4:
-    arabic: ظَنَنۡتُمۡ
+    arabic: ظَنَنتُمۡ
     translation: you thought
     transliteration: ẓanantum
   5:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that
     transliteration: an
   6:
-    arabic: لَّنۡ
+    arabic: لَّن
     translation: never
     transliteration: lan
   7:
-    arabic: يَّبۡعَثَ
+    arabic: يَبۡعَثَ
     translation: will raise
     transliteration: yabʿatha
   8:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   9:
-    arabic: اَحَدًا ۙ‏
+    arabic: أَحَدٗا
     translation: anyone
     transliteration: aḥadan
 ---

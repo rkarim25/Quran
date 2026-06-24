@@ -1,36 +1,36 @@
 ---
-arabic_ayat: اِنۡ نَّقُوۡلُ اِلَّا اعۡتَـرٰٮكَ بَعۡضُ اٰلِهَتِنَا بِسُوۡٓءٍ​ ؕ قَالَ
-  اِنِّىۡۤ اُشۡهِدُ اللّٰهَ وَاشۡهَدُوۡۤا اَنِّىۡ بَرِىۡٓءٌ مِّمَّا تُشۡرِكُوۡنَ ۙ‏
+arabic_ayat: إِن نَّقُولُ إِلَّا ٱعۡتَرَىٰكَ بَعۡضُ ءَالِهَتِنَا بِسُوٓءٖۗ قَالَ إِنِّيٓ
+  أُشۡهِدُ ٱللَّهَ وَٱشۡهَدُوٓاْ أَنِّي بَرِيٓءٞ مِّمَّا تُشۡرِكُونَ
 sentence_translation: All we can say is that some of our gods have possessed you with
   evil.” He said, “I call Allah to witness, and you too bear witness, that I ˹totally˺
   reject whatever you associate
 word_by_word:
   1:
-    arabic: اِنۡ
+    arabic: إِن
     translation: Not
     transliteration: in
   2:
-    arabic: نَّقُوۡلُ
+    arabic: نَّقُولُ
     translation: we say
     transliteration: naqūlu
   3:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except (that)
     transliteration: illā
   4:
-    arabic: اعۡتَـرٰٮكَ
+    arabic: ٱعۡتَرَىٰكَ
     translation: have seized you
     transliteration: iʿ'tarāka
   5:
-    arabic: بَعۡضُ
+    arabic: بَعۡضُ ءَ
     translation: some
     transliteration: baʿḍu
   6:
-    arabic: اٰلِهَتِنَا
+    arabic: الِهَتِنَا
     translation: (of) our gods
     transliteration: ālihatinā
   7:
-    arabic: بِسُوۡٓءٍ​ ؕ
+    arabic: بِسُوٓءٖۗ
     translation: with evil
     transliteration: bisūin
   8:
@@ -38,27 +38,27 @@ word_by_word:
     translation: He said
     transliteration: qāla
   9:
-    arabic: اِنِّىۡۤ
+    arabic: إِنِّيٓ
     translation: Indeed, I
     transliteration: innī
   10:
-    arabic: اُشۡهِدُ
+    arabic: أُشۡهِدُ
     translation: '[I] call Allah to witness'
     transliteration: ush'hidu
   11:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: '[I] call Allah to witness'
     transliteration: l-laha
   12:
-    arabic: وَاشۡهَدُوۡۤا
+    arabic: وَٱشۡهَدُوٓاْ
     translation: and (you) bear witness
     transliteration: wa-ish'hadū
   13:
-    arabic: اَنِّىۡ
+    arabic: أَنِّي
     translation: that I am
     transliteration: annī
   14:
-    arabic: بَرِىۡٓءٌ
+    arabic: بَرِيٓءٞ
     translation: innocent
     transliteration: barīon
   15:
@@ -66,7 +66,7 @@ word_by_word:
     translation: of what
     transliteration: mimmā
   16:
-    arabic: تُشۡرِكُوۡنَ ۙ‏
+    arabic: تُشۡرِكُونَ
     translation: you associate
     transliteration: tush'rikūna
 ---

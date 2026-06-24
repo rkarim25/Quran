@@ -1,39 +1,39 @@
 ---
-arabic_ayat: وَاَمَّا الَّذِيۡنَ اٰمَنُوۡا وَعَمِلُوا الصّٰلِحٰتِ فَيُوَفِّيۡهِمۡ
-  اُجُوۡرَهُمۡ​ؕ وَ اللّٰهُ لَا يُحِبُّ الظّٰلِمِيۡنَ‏
+arabic_ayat: وَأَمَّا ٱلَّذِينَ ءَامَنُواْ وَعَمِلُواْ ٱلصَّٰلِحَٰتِ فَيُوَفِّيهِمۡ
+  أُجُورَهُمۡۗ وَٱللَّهُ لَا يُحِبُّ ٱلظَّٰلِمِينَ
 sentence_translation: And as for those who believe and do good, they will be rewarded
   in full. And Allah does not like the wrongdoers.”
 word_by_word:
   1:
-    arabic: وَاَمَّا
+    arabic: وَأَمَّا
     translation: And as for
     transliteration: wa-ammā
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ ءَ
     translation: those who
     transliteration: alladhīna
   3:
-    arabic: اٰمَنُوۡا
+    arabic: امَنُواْ
     translation: believe[d]
     transliteration: āmanū
   4:
-    arabic: وَعَمِلُوا
+    arabic: وَعَمِلُواْ
     translation: and did
     transliteration: waʿamilū
   5:
-    arabic: الصّٰلِحٰتِ
+    arabic: ٱلصَّٰلِحَٰتِ
     translation: '[the] righteous deeds'
     transliteration: l-ṣāliḥāti
   6:
-    arabic: فَيُوَفِّيۡهِمۡ
+    arabic: فَيُوَفِّيهِمۡ
     translation: then He will grant them in full
     transliteration: fayuwaffīhim
   7:
-    arabic: اُجُوۡرَهُمۡ​ؕ
+    arabic: أُجُورَهُمۡۗ
     translation: their reward
     transliteration: ujūrahum
   8:
-    arabic: وَ اللّٰهُ
+    arabic: وَٱللَّهُ
     translation: And Allah
     transliteration: wal-lahu
   9:
@@ -45,7 +45,7 @@ word_by_word:
     translation: love
     transliteration: yuḥibbu
   11:
-    arabic: الظّٰلِمِيۡنَ‏
+    arabic: ٱلظَّٰلِمِينَ
     translation: the wrongdoers
     transliteration: l-ẓālimīna
 ---

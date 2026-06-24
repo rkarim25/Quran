@@ -1,13 +1,13 @@
 ---
-arabic_ayat: وَّ مَآءٍ مَّسۡكُوۡبٍۙ‏
+arabic_ayat: وَمَآءٖ مَّسۡكُوبٖ
 sentence_translation: flowing water,
 word_by_word:
   1:
-    arabic: وَّ مَآءٍ
+    arabic: وَمَآءٖ
     translation: And water
     transliteration: wamāin
   2:
-    arabic: مَّسۡكُوۡبٍۙ‏
+    arabic: مَّسۡكُوبٖ
     translation: poured forth
     transliteration: maskūbin
 ---

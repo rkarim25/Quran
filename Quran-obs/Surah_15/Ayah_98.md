@@ -1,5 +1,5 @@
 ---
-arabic_ayat: فَسَبِّحۡ بِحَمۡدِ رَبِّكَ وَكُنۡ مِّنَ السّٰجِدِيۡنَۙ‏
+arabic_ayat: فَسَبِّحۡ بِحَمۡدِ رَبِّكَ وَكُن مِّنَ ٱلسَّٰجِدِينَ
 sentence_translation: So glorify the praises of your Lord and be one of those who
   ˹always˺ pray,
 word_by_word:
@@ -16,7 +16,7 @@ word_by_word:
     translation: (of) your Lord
     transliteration: rabbika
   4:
-    arabic: وَكُنۡ
+    arabic: وَكُن
     translation: and be
     transliteration: wakun
   5:
@@ -24,7 +24,7 @@ word_by_word:
     translation: of
     transliteration: mina
   6:
-    arabic: السّٰجِدِيۡنَۙ‏
+    arabic: ٱلسَّٰجِدِينَ
     translation: those who prostrate
     transliteration: l-sājidīna
 ---

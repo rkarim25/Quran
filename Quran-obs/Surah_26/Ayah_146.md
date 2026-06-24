@@ -1,14 +1,14 @@
 ---
-arabic_ayat: اَتُتۡرَكُوۡنَ فِىۡ مَا هٰهُنَاۤ اٰمِنِيۡنَۙ‏
+arabic_ayat: أَتُتۡرَكُونَ فِي مَا هَٰهُنَآ ءَامِنِينَ
 sentence_translation: 'Do you think you will be ˹forever˺ left secure in what you
   have here:'
 word_by_word:
   1:
-    arabic: اَتُتۡرَكُوۡنَ
+    arabic: أَتُتۡرَكُونَ
     translation: Will you be left
     transliteration: atut'rakūna
   2:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   3:
@@ -16,11 +16,11 @@ word_by_word:
     translation: what
     transliteration: mā
   4:
-    arabic: هٰهُنَاۤ
+    arabic: هَٰهُنَآ ءَ
     translation: (is) here
     transliteration: hāhunā
   5:
-    arabic: اٰمِنِيۡنَۙ‏
+    arabic: امِنِينَ
     translation: secure
     transliteration: āminīna
 ---

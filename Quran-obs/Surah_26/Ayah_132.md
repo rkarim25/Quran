@@ -1,18 +1,18 @@
 ---
-arabic_ayat: وَاتَّقُوۡا الَّذِىۡۤ اَمَدَّكُمۡ بِمَا تَعۡلَمُوۡنَ​ۚ‏
+arabic_ayat: وَٱتَّقُواْ ٱلَّذِيٓ أَمَدَّكُم بِمَا تَعۡلَمُونَ
 sentence_translation: 'Fear the One Who has provided you with ˹the good˺ things you
   know:'
 word_by_word:
   1:
-    arabic: وَاتَّقُوۡا
+    arabic: وَٱتَّقُواْ
     translation: And fear
     transliteration: wa-ittaqū
   2:
-    arabic: الَّذِىۡۤ
+    arabic: ٱلَّذِيٓ
     translation: the One Who
     transliteration: alladhī
   3:
-    arabic: اَمَدَّكُمۡ
+    arabic: أَمَدَّكُم
     translation: has aided you
     transliteration: amaddakum
   4:
@@ -20,7 +20,7 @@ word_by_word:
     translation: with what
     transliteration: bimā
   5:
-    arabic: تَعۡلَمُوۡنَ​ۚ‏
+    arabic: تَعۡلَمُونَ
     translation: you know
     transliteration: taʿlamūna
 ---

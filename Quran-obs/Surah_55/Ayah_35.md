@@ -1,6 +1,5 @@
 ---
-arabic_ayat: "يُرۡسَلُ عَلَيۡكُمَا شُوَاظٌ مِّنۡ نَّارٍ ۙ وَّنُحَاسٌ فَلَا تَنۡتَصِرٰنِ​ۚ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: يُرۡسَلُ عَلَيۡكُمَا شُوَاظٞ مِّن نَّارٖ وَنُحَاسٞ فَلَا تَنتَصِرَانِ
 sentence_translation: Flames of fire and ˹molten˺ copper will be sent against you,
   and you will not be able to defend one another.
 word_by_word:
@@ -13,19 +12,19 @@ word_by_word:
     translation: against both of you
     transliteration: ʿalaykumā
   3:
-    arabic: شُوَاظٌ
+    arabic: شُوَاظٞ
     translation: a flame
     transliteration: shuwāẓun
   4:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: of
     transliteration: min
   5:
-    arabic: نَّارٍ ۙ
+    arabic: نَّارٖ
     translation: fire
     transliteration: nārin
   6:
-    arabic: وَّنُحَاسٌ
+    arabic: وَنُحَاسٞ
     translation: and smoke
     transliteration: wanuḥāsun
   7:
@@ -33,7 +32,7 @@ word_by_word:
     translation: and not
     transliteration: falā
   8:
-    arabic: "تَنۡتَصِرٰنِ​ۚ‏ \uFEFF\uFEFF"
+    arabic: تَنتَصِرَانِ
     translation: you will (be able to) defend yourselves
     transliteration: tantaṣirāni
 ---

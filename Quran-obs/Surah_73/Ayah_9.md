@@ -1,31 +1,31 @@
 ---
-arabic_ayat: "رَبُّ الۡمَشۡرِقِ وَالۡمَغۡرِبِ لَاۤ اِلٰهَ اِلَّا هُوَ فَاتَّخِذۡهُ\
-  \ وَكِيۡلًا‏ \uFEFF\uFEFF"
+arabic_ayat: رَّبُّ ٱلۡمَشۡرِقِ وَٱلۡمَغۡرِبِ لَآ إِلَٰهَ إِلَّا هُوَ فَٱتَّخِذۡهُ
+  وَكِيلٗا
 sentence_translation: ˹He is the˺ Lord of the east and the west. There is no god ˹worthy
   of worship˺ except Him, so take Him ˹alone˺ as a Trustee of Affairs.
 word_by_word:
   1:
-    arabic: رَبُّ
+    arabic: رَّبُّ
     translation: (The) Lord
     transliteration: rabbu
   2:
-    arabic: الۡمَشۡرِقِ
+    arabic: ٱلۡمَشۡرِقِ
     translation: (of) the east
     transliteration: l-mashriqi
   3:
-    arabic: وَالۡمَغۡرِبِ
+    arabic: وَٱلۡمَغۡرِبِ
     translation: and the west
     transliteration: wal-maghribi
   4:
-    arabic: لَاۤ
+    arabic: لَآ
     translation: (there is) no
     transliteration: lā
   5:
-    arabic: اِلٰهَ
+    arabic: إِلَٰهَ
     translation: god
     transliteration: ilāha
   6:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   7:
@@ -33,11 +33,11 @@ word_by_word:
     translation: Him
     transliteration: huwa
   8:
-    arabic: فَاتَّخِذۡهُ
+    arabic: فَٱتَّخِذۡهُ
     translation: so take Him
     transliteration: fa-ittakhidh'hu
   9:
-    arabic: "وَكِيۡلًا‏ \uFEFF\uFEFF"
+    arabic: وَكِيلٗا
     translation: (as) Disposer of Affairs
     transliteration: wakīlan
 ---

@@ -1,17 +1,17 @@
 ---
-arabic_ayat: فَاَثَرۡنَ بِهٖ نَقۡعًا ۙ‏
+arabic_ayat: فَأَثَرۡنَ بِهِۦ نَقۡعٗا
 sentence_translation: stirring up ˹clouds of˺ dust,
 word_by_word:
   1:
-    arabic: فَاَثَرۡنَ
+    arabic: فَأَثَرۡنَ
     translation: Then raise
     transliteration: fa-atharna
   2:
-    arabic: بِهٖ
+    arabic: بِهِۦ
     translation: thereby
     transliteration: bihi
   3:
-    arabic: نَقۡعًا ۙ‏
+    arabic: نَقۡعٗا
     translation: dust
     transliteration: naqʿan
 ---

@@ -1,6 +1,6 @@
 ---
-arabic_ayat: "وَمَا نَقَمُوۡا مِنۡهُمۡ اِلَّاۤ اَنۡ يُّؤۡمِنُوۡا بِاللّٰهِ الۡعَزِيۡزِ\
-  \ الۡحَمِيۡدِۙ‏ \uFEFF\uFEFF"
+arabic_ayat: وَمَا نَقَمُواْ مِنۡهُمۡ إِلَّآ أَن يُؤۡمِنُواْ بِٱللَّهِ ٱلۡعَزِيزِ
+  ٱلۡحَمِيدِ
 sentence_translation: who they resented for no reason other than belief in Allah—the
   Almighty, the Praiseworthy—
 word_by_word:
@@ -9,7 +9,7 @@ word_by_word:
     translation: And not
     transliteration: wamā
   2:
-    arabic: نَقَمُوۡا
+    arabic: نَقَمُواْ
     translation: they resented
     transliteration: naqamū
   3:
@@ -17,27 +17,27 @@ word_by_word:
     translation: '[of] them'
     transliteration: min'hum
   4:
-    arabic: اِلَّاۤ
+    arabic: إِلَّآ
     translation: except
     transliteration: illā
   5:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that
     transliteration: an
   6:
-    arabic: يُّؤۡمِنُوۡا
+    arabic: يُؤۡمِنُواْ
     translation: they believed
     transliteration: yu'minū
   7:
-    arabic: بِاللّٰهِ
+    arabic: بِٱللَّهِ
     translation: in Allah
     transliteration: bil-lahi
   8:
-    arabic: الۡعَزِيۡزِ
+    arabic: ٱلۡعَزِيزِ
     translation: the All-Mighty
     transliteration: l-ʿazīzi
   9:
-    arabic: "الۡحَمِيۡدِۙ‏ \uFEFF\uFEFF"
+    arabic: ٱلۡحَمِيدِ
     translation: the Praiseworthy
     transliteration: l-ḥamīdi
 ---

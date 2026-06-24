@@ -1,5 +1,5 @@
 ---
-arabic_ayat: هَلۡ اَتٰٮكَ حَدِيۡثُ الۡغَاشِيَةِؕ‏
+arabic_ayat: هَلۡ أَتَىٰكَ حَدِيثُ ٱلۡغَٰشِيَةِ
 sentence_translation: Has the news of the Overwhelming Event reached you ˹O Prophet˺?
 word_by_word:
   1:
@@ -7,15 +7,15 @@ word_by_word:
     translation: Has
     transliteration: hal
   2:
-    arabic: اَتٰٮكَ
+    arabic: أَتَىٰكَ
     translation: (there) come to you
     transliteration: atāka
   3:
-    arabic: حَدِيۡثُ
+    arabic: حَدِيثُ
     translation: (the) news
     transliteration: ḥadīthu
   4:
-    arabic: الۡغَاشِيَةِؕ‏
+    arabic: ٱلۡغَٰشِيَةِ
     translation: (of) the Overwhelming
     transliteration: l-ghāshiyati
 ---

@@ -1,7 +1,7 @@
 ---
-arabic_ayat: وَلَا يَحۡزُنۡكَ الَّذِيۡنَ يُسَارِعُوۡنَ فِى الۡكُفۡرِ​ۚ اِنَّهُمۡ لَنۡ
-  يَّضُرُّوا اللّٰهَ شَيۡـــًٔا ​ؕ يُرِيۡدُ اللّٰهُ اَلَّا يَجۡعَلَ لَهُمۡ حَظًّا
-  فِىۡ الۡاٰخِرَةِ ​ۚ وَلَهُمۡ عَذَابٌ عَظِيۡمٌ‏
+arabic_ayat: وَلَا يَحۡزُنكَ ٱلَّذِينَ يُسَٰرِعُونَ فِي ٱلۡكُفۡرِۚ إِنَّهُمۡ لَن يَضُرُّواْ
+  ٱللَّهَ شَيۡـٔٗاۚ يُرِيدُ ٱللَّهُ أَلَّا يَجۡعَلَ لَهُمۡ حَظّٗا فِي ٱلۡأٓخِرَةِۖ
+  وَلَهُمۡ عَذَابٌ عَظِيمٌ
 sentence_translation: ˹O Prophet!˺ Do not grieve for those who race to disbelieve—surely
   they will not harm Allah in the least. It is Allah’s Will to disallow them a share
   in the Hereafter, and they will suffer a tremendous punishment.
@@ -11,55 +11,55 @@ word_by_word:
     translation: And (let) not
     transliteration: walā
   2:
-    arabic: يَحۡزُنۡكَ
+    arabic: يَحۡزُنكَ
     translation: grieve you
     transliteration: yaḥzunka
   3:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   4:
-    arabic: يُسَارِعُوۡنَ
+    arabic: يُسَٰرِعُونَ
     translation: hasten
     transliteration: yusāriʿūna
   5:
-    arabic: فِى
+    arabic: فِي
     translation: in(to)
     transliteration: fī
   6:
-    arabic: الۡكُفۡرِ​ۚ
+    arabic: ٱلۡكُفۡرِۚ
     translation: '[the] disbelief'
     transliteration: l-kuf'ri
   7:
-    arabic: اِنَّهُمۡ
+    arabic: إِنَّهُمۡ
     translation: Indeed, they
     transliteration: innahum
   8:
-    arabic: لَنۡ
+    arabic: لَن
     translation: never
     transliteration: lan
   9:
-    arabic: يَّضُرُّوا
+    arabic: يَضُرُّواْ
     translation: will harm
     transliteration: yaḍurrū
   10:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   11:
-    arabic: شَيۡـــًٔا ​ؕ
+    arabic: شَيۡـٔٗاۚ
     translation: (in) anything
     transliteration: shayan
   12:
-    arabic: يُرِيۡدُ
+    arabic: يُرِيدُ
     translation: intends
     transliteration: yurīdu
   13:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   14:
-    arabic: اَلَّا
+    arabic: أَلَّا
     translation: that not
     transliteration: allā
   15:
@@ -71,15 +71,15 @@ word_by_word:
     translation: for them
     transliteration: lahum
   17:
-    arabic: حَظًّا
+    arabic: حَظّٗا
     translation: any portion
     transliteration: ḥaẓẓan
   18:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   19:
-    arabic: الۡاٰخِرَةِ ​ۚ
+    arabic: ٱلۡأٓخِرَةِۖ
     translation: the Hereafter
     transliteration: l-ākhirati
   20:
@@ -91,7 +91,7 @@ word_by_word:
     translation: (is) a punishment
     transliteration: ʿadhābun
   22:
-    arabic: عَظِيۡمٌ‏
+    arabic: عَظِيمٌ
     translation: great
     transliteration: ʿaẓīmun
 ---

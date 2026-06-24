@@ -1,7 +1,7 @@
 ---
-arabic_ayat: وَلَيۡسَتِ التَّوۡبَةُ لِلَّذِيۡنَ يَعۡمَلُوۡنَ السَّيِّاٰتِ​ ۚ حَتّٰۤى
-  اِذَا حَضَرَ اَحَدَهُمُ الۡمَوۡتُ قَالَ اِنِّىۡ تُبۡتُ الۡـــٰٔنَ وَلَا الَّذِيۡنَ
-  يَمُوۡتُوۡنَ وَهُمۡ كُفَّارٌ ​ؕ اُولٰٓٮِٕكَ اَعۡتَدۡنَا لَهُمۡ عَذَابًا اَ لِيۡمًا‏
+arabic_ayat: وَلَيۡسَتِ ٱلتَّوۡبَةُ لِلَّذِينَ يَعۡمَلُونَ ٱلسَّيِّـَٔاتِ حَتَّىٰٓ
+  إِذَا حَضَرَ أَحَدَهُمُ ٱلۡمَوۡتُ قَالَ إِنِّي تُبۡتُ ٱلۡـَٰٔنَ وَلَا ٱلَّذِينَ
+  يَمُوتُونَ وَهُمۡ كُفَّارٌۚ أُوْلَٰٓئِكَ أَعۡتَدۡنَا لَهُمۡ عَذَابًا أَلِيمٗا
 sentence_translation: However, repentance is not accepted from those who knowingly
   persist in sin until they start dying, and then cry, “Now I repent!” nor those who
   die as disbelievers. For them We have prepared a painful punishment.
@@ -11,27 +11,27 @@ word_by_word:
     translation: And not
     transliteration: walaysati
   2:
-    arabic: التَّوۡبَةُ
+    arabic: ٱلتَّوۡبَةُ
     translation: (is) the acceptance of repentance
     transliteration: l-tawbatu
   3:
-    arabic: لِلَّذِيۡنَ
+    arabic: لِلَّذِينَ
     translation: for those who
     transliteration: lilladhīna
   4:
-    arabic: يَعۡمَلُوۡنَ
+    arabic: يَعۡمَلُونَ
     translation: do
     transliteration: yaʿmalūna
   5:
-    arabic: السَّيِّاٰتِ​ ۚ
+    arabic: ٱلسَّيِّـَٔاتِ
     translation: the evil deeds
     transliteration: l-sayiāti
   6:
-    arabic: حَتّٰۤى
+    arabic: حَتَّىٰٓ
     translation: until
     transliteration: ḥattā
   7:
-    arabic: اِذَا
+    arabic: إِذَا
     translation: when
     transliteration: idhā
   8:
@@ -39,11 +39,11 @@ word_by_word:
     translation: approaches
     transliteration: ḥaḍara
   9:
-    arabic: اَحَدَهُمُ
+    arabic: أَحَدَهُمُ
     translation: one of them
     transliteration: aḥadahumu
   10:
-    arabic: الۡمَوۡتُ
+    arabic: ٱلۡمَوۡتُ
     translation: '[the] death'
     transliteration: l-mawtu
   11:
@@ -51,7 +51,7 @@ word_by_word:
     translation: he says
     transliteration: qāla
   12:
-    arabic: اِنِّىۡ
+    arabic: إِنِّي
     translation: Indeed I
     transliteration: innī
   13:
@@ -59,7 +59,7 @@ word_by_word:
     translation: repent
     transliteration: tub'tu
   14:
-    arabic: الۡـــٰٔنَ
+    arabic: ٱلۡـَٰٔنَ
     translation: now
     transliteration: l-āna
   15:
@@ -67,11 +67,11 @@ word_by_word:
     translation: and not
     transliteration: walā
   16:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   17:
-    arabic: يَمُوۡتُوۡنَ
+    arabic: يَمُوتُونَ
     translation: die
     transliteration: yamūtūna
   18:
@@ -79,15 +79,15 @@ word_by_word:
     translation: while they
     transliteration: wahum
   19:
-    arabic: كُفَّارٌ ​ؕ
+    arabic: كُفَّارٌۚ
     translation: (are) disbelievers
     transliteration: kuffārun
   20:
-    arabic: اُولٰٓٮِٕكَ
+    arabic: أُوْلَٰٓئِكَ
     translation: 'Those '
     transliteration: ulāika
   21:
-    arabic: اَعۡتَدۡنَا
+    arabic: أَعۡتَدۡنَا
     translation: We have prepared
     transliteration: aʿtadnā
   22:
@@ -99,7 +99,7 @@ word_by_word:
     translation: a punishment
     transliteration: ʿadhāban
   24:
-    arabic: اَ لِيۡمًا‏
+    arabic: أَلِيمٗا
     translation: painful
     transliteration: alīman
 ---

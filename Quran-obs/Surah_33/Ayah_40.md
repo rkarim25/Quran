@@ -1,12 +1,12 @@
 ---
-arabic_ayat: مَا كَانَ مُحَمَّدٌ اَبَآ اَحَدٍ مِّنۡ رِّجَالِكُمۡ وَلٰـكِنۡ رَّسُوۡلَ
-  اللّٰهِ وَخَاتَمَ النَّبِيّٖنَ ؕ وَكَانَ اللّٰهُ بِكُلِّ شَىۡءٍ عَلِيۡمًا‏
+arabic_ayat: مَّا كَانَ مُحَمَّدٌ أَبَآ أَحَدٖ مِّن رِّجَالِكُمۡ وَلَٰكِن رَّسُولَ
+  ٱللَّهِ وَخَاتَمَ ٱلنَّبِيِّـۧنَۗ وَكَانَ ٱللَّهُ بِكُلِّ شَيۡءٍ عَلِيمٗا
 sentence_translation: Muḥammad is not the father of any of your men, but is the Messenger
   of Allah and the seal of the prophets. And Allah has ˹perfect˺ knowledge of all
   things.
 word_by_word:
   1:
-    arabic: مَا
+    arabic: مَّا
     translation: Not
     transliteration: mā
   2:
@@ -18,15 +18,15 @@ word_by_word:
     translation: Muhammad
     transliteration: muḥammadun
   4:
-    arabic: اَبَآ
+    arabic: أَبَآ
     translation: (the) father
     transliteration: abā
   5:
-    arabic: اَحَدٍ
+    arabic: أَحَدٖ
     translation: (of) anyone
     transliteration: aḥadin
   6:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: of
     transliteration: min
   7:
@@ -34,15 +34,15 @@ word_by_word:
     translation: your men
     transliteration: rijālikum
   8:
-    arabic: وَلٰـكِنۡ
+    arabic: وَلَٰكِن
     translation: but
     transliteration: walākin
   9:
-    arabic: رَّسُوۡلَ
+    arabic: رَّسُولَ
     translation: (he is the) Messenger
     transliteration: rasūla
   10:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (of) Allah
     transliteration: l-lahi
   11:
@@ -50,7 +50,7 @@ word_by_word:
     translation: and Seal
     transliteration: wakhātama
   12:
-    arabic: النَّبِيّٖنَ ؕ
+    arabic: ٱلنَّبِيِّـۧنَۗ
     translation: (of) the Prophets
     transliteration: l-nabiyīna
   13:
@@ -58,7 +58,7 @@ word_by_word:
     translation: And Allah is
     transliteration: wakāna
   14:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: And Allah is
     transliteration: l-lahu
   15:
@@ -66,11 +66,11 @@ word_by_word:
     translation: of every
     transliteration: bikulli
   16:
-    arabic: شَىۡءٍ
+    arabic: شَيۡءٍ
     translation: thing
     transliteration: shayin
   17:
-    arabic: عَلِيۡمًا‏
+    arabic: عَلِيمٗا
     translation: All-Knower
     transliteration: ʿalīman
 ---

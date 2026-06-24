@@ -1,8 +1,8 @@
 ---
-arabic_ayat: وَكَتَبۡنَا عَلَيۡهِمۡ فِيۡهَاۤ اَنَّ النَّفۡسَ بِالنَّفۡسِۙ وَالۡعَيۡنَ
-  بِالۡعَيۡنِ وَالۡاَنۡفَ بِالۡاَنۡفِ وَالۡاُذُنَ بِالۡاُذُنِ وَالسِّنَّ بِالسِّنِّۙ
-  وَالۡجُرُوۡحَ قِصَاصٌ​ؕ فَمَنۡ تَصَدَّقَ بِهٖ فَهُوَ كَفَّارَةٌ لَّهٗ ​ؕ وَمَنۡ
-  لَّمۡ يَحۡكُمۡ بِمَاۤ اَنۡزَلَ اللّٰهُ فَاُولٰٓٮِٕكَ هُمُ الظّٰلِمُوۡنَ‏
+arabic_ayat: وَكَتَبۡنَا عَلَيۡهِمۡ فِيهَآ أَنَّ ٱلنَّفۡسَ بِٱلنَّفۡسِ وَٱلۡعَيۡنَ
+  بِٱلۡعَيۡنِ وَٱلۡأَنفَ بِٱلۡأَنفِ وَٱلۡأُذُنَ بِٱلۡأُذُنِ وَٱلسِّنَّ بِٱلسِّنِّ
+  وَٱلۡجُرُوحَ قِصَاصٞۚ فَمَن تَصَدَّقَ بِهِۦ فَهُوَ كَفَّارَةٞ لَّهُۥۚ وَمَن لَّمۡ
+  يَحۡكُم بِمَآ أَنزَلَ ٱللَّهُ فَأُوْلَٰٓئِكَ هُمُ ٱلظَّٰلِمُونَ
 sentence_translation: We ordained for them in the Torah, “A life for a life, an eye
   for an eye, a nose for a nose, an ear for an ear, a tooth for a tooth—and for wounds
   equal retaliation.” But whoever waives it charitably, it will be atonement for them.
@@ -17,63 +17,63 @@ word_by_word:
     translation: for them
     transliteration: ʿalayhim
   3:
-    arabic: فِيۡهَاۤ
+    arabic: فِيهَآ
     translation: in it
     transliteration: fīhā
   4:
-    arabic: اَنَّ
+    arabic: أَنَّ
     translation: 'that '
     transliteration: anna
   5:
-    arabic: النَّفۡسَ
+    arabic: ٱلنَّفۡسَ
     translation: the life
     transliteration: l-nafsa
   6:
-    arabic: بِالنَّفۡسِۙ
+    arabic: بِٱلنَّفۡسِ
     translation: for the life
     transliteration: bil-nafsi
   7:
-    arabic: وَالۡعَيۡنَ
+    arabic: وَٱلۡعَيۡنَ
     translation: and the eye
     transliteration: wal-ʿayna
   8:
-    arabic: بِالۡعَيۡنِ
+    arabic: بِٱلۡعَيۡنِ
     translation: for the eye
     transliteration: bil-ʿayni
   9:
-    arabic: وَالۡاَنۡفَ
+    arabic: وَٱلۡأَنفَ
     translation: and the nose
     transliteration: wal-anfa
   10:
-    arabic: بِالۡاَنۡفِ
+    arabic: بِٱلۡأَنفِ
     translation: for the nose
     transliteration: bil-anfi
   11:
-    arabic: وَالۡاُذُنَ
+    arabic: وَٱلۡأُذُنَ
     translation: and the ear
     transliteration: wal-udhuna
   12:
-    arabic: بِالۡاُذُنِ
+    arabic: بِٱلۡأُذُنِ
     translation: for the ear
     transliteration: bil-udhuni
   13:
-    arabic: وَالسِّنَّ
+    arabic: وَٱلسِّنَّ
     translation: and the tooth
     transliteration: wal-sina
   14:
-    arabic: بِالسِّنِّۙ
+    arabic: بِٱلسِّنِّ
     translation: for the tooth
     transliteration: bil-sini
   15:
-    arabic: وَالۡجُرُوۡحَ
+    arabic: وَٱلۡجُرُوحَ
     translation: and (for) wounds
     transliteration: wal-jurūḥa
   16:
-    arabic: قِصَاصٌ​ؕ
+    arabic: قِصَاصٞۚ
     translation: (is) retribution
     transliteration: qiṣāṣun
   17:
-    arabic: فَمَنۡ
+    arabic: فَمَن
     translation: But whoever
     transliteration: faman
   18:
@@ -81,7 +81,7 @@ word_by_word:
     translation: gives charity
     transliteration: taṣaddaqa
   19:
-    arabic: بِهٖ
+    arabic: بِهِۦ
     translation: with it
     transliteration: bihi
   20:
@@ -89,15 +89,15 @@ word_by_word:
     translation: then it is
     transliteration: fahuwa
   21:
-    arabic: كَفَّارَةٌ
+    arabic: كَفَّارَةٞ
     translation: an expiation
     transliteration: kaffāratun
   22:
-    arabic: لَّهٗ ​ؕ
+    arabic: لَّهُۥۚ
     translation: for him
     transliteration: lahu
   23:
-    arabic: وَمَنۡ
+    arabic: وَمَن
     translation: And whoever
     transliteration: waman
   24:
@@ -105,23 +105,23 @@ word_by_word:
     translation: (does) not
     transliteration: lam
   25:
-    arabic: يَحۡكُمۡ
+    arabic: يَحۡكُم
     translation: judge
     transliteration: yaḥkum
   26:
-    arabic: بِمَاۤ
+    arabic: بِمَآ
     translation: by what
     transliteration: bimā
   27:
-    arabic: اَنۡزَلَ
+    arabic: أَنزَلَ
     translation: has revealed
     transliteration: anzala
   28:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   29:
-    arabic: فَاُولٰٓٮِٕكَ
+    arabic: فَأُوْلَٰٓئِكَ
     translation: then those
     transliteration: fa-ulāika
   30:
@@ -129,7 +129,7 @@ word_by_word:
     translation: '[they]'
     transliteration: humu
   31:
-    arabic: الظّٰلِمُوۡنَ‏
+    arabic: ٱلظَّٰلِمُونَ
     translation: (are) the wrongdoers
     transliteration: l-ẓālimūna
 ---

@@ -1,15 +1,14 @@
 ---
-arabic_ayat: "خٰلِدِيۡنَ فِيۡهَا ۚ لَا يُخَفَّفُ عَنۡهُمُ الۡعَذَابُ وَلَا هُمۡ يُنۡظَرُوۡنَ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: خَٰلِدِينَ فِيهَا لَا يُخَفَّفُ عَنۡهُمُ ٱلۡعَذَابُ وَلَا هُمۡ يُنظَرُونَ
 sentence_translation: They will be in Hell forever. Their punishment will not be lightened,
   nor will they be delayed ˹from it˺.
 word_by_word:
   1:
-    arabic: خٰلِدِيۡنَ
+    arabic: خَٰلِدِينَ
     translation: (Will) abide forever
     transliteration: khālidīna
   2:
-    arabic: فِيۡهَا ۚ
+    arabic: فِيهَا
     translation: in it
     transliteration: fīhā
   3:
@@ -25,7 +24,7 @@ word_by_word:
     translation: for them
     transliteration: ʿanhumu
   6:
-    arabic: الۡعَذَابُ
+    arabic: ٱلۡعَذَابُ
     translation: the punishment
     transliteration: l-ʿadhābu
   7:
@@ -37,7 +36,7 @@ word_by_word:
     translation: they
     transliteration: hum
   9:
-    arabic: "يُنۡظَرُوۡنَ‏ \uFEFF\uFEFF"
+    arabic: يُنظَرُونَ
     translation: will be reprieved
     transliteration: yunẓarūna
 ---

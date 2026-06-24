@@ -1,5 +1,5 @@
 ---
-arabic_ayat: وَلَهُمۡ عَلَىَّ ذَنۡۢبٌ فَاَخَافُ اَنۡ يَّقۡتُلُوۡنِ​ۚ‏
+arabic_ayat: وَلَهُمۡ عَلَيَّ ذَنۢبٞ فَأَخَافُ أَن يَقۡتُلُونِ
 sentence_translation: Also, they have a charge against me, so I fear they may kill
   me.”
 word_by_word:
@@ -8,23 +8,23 @@ word_by_word:
     translation: And they have
     transliteration: walahum
   2:
-    arabic: عَلَىَّ
+    arabic: عَلَيَّ
     translation: against me
     transliteration: ʿalayya
   3:
-    arabic: ذَنۡۢبٌ
+    arabic: ذَنۢبٞ
     translation: a crime
     transliteration: dhanbun
   4:
-    arabic: فَاَخَافُ
+    arabic: فَأَخَافُ
     translation: so I fear
     transliteration: fa-akhāfu
   5:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that
     transliteration: an
   6:
-    arabic: يَّقۡتُلُوۡنِ​ۚ‏
+    arabic: يَقۡتُلُونِ
     translation: they will kill me
     transliteration: yaqtulūni
 ---

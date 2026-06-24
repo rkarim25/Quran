@@ -1,5 +1,5 @@
 ---
-arabic_ayat: فَوَسَطۡنَ بِهٖ جَمۡعًا ۙ‏
+arabic_ayat: فَوَسَطۡنَ بِهِۦ جَمۡعًا
 sentence_translation: and penetrating into the heart of enemy lines!
 word_by_word:
   1:
@@ -7,11 +7,11 @@ word_by_word:
     translation: Then penetrate (in the) center
     transliteration: fawasaṭna
   2:
-    arabic: بِهٖ
+    arabic: بِهِۦ
     translation: thereby
     transliteration: bihi
   3:
-    arabic: جَمۡعًا ۙ‏
+    arabic: جَمۡعًا
     translation: collectively
     transliteration: jamʿan
 ---

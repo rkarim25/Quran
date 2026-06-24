@@ -1,44 +1,44 @@
 ---
-arabic_ayat: وَبِالۡحَـقِّ اَنۡزَلۡنٰهُ وَبِالۡحَـقِّ نَزَلَ​ ؕ وَمَاۤ اَرۡسَلۡنٰكَ
-  اِلَّا مُبَشِّرًا وَّنَذِيۡرًا ​ۘ‏
+arabic_ayat: وَبِٱلۡحَقِّ أَنزَلۡنَٰهُ وَبِٱلۡحَقِّ نَزَلَۗ وَمَآ أَرۡسَلۡنَٰكَ إِلَّا
+  مُبَشِّرٗا وَنَذِيرٗا
 sentence_translation: We have sent down the Quran in truth, and with the truth it
   has come down. We have sent you ˹O Prophet˺ only as a deliverer of good news and
   a warner.
 word_by_word:
   1:
-    arabic: وَبِالۡحَـقِّ
+    arabic: وَبِٱلۡحَقِّ
     translation: And with the truth
     transliteration: wabil-ḥaqi
   2:
-    arabic: اَنۡزَلۡنٰهُ
+    arabic: أَنزَلۡنَٰهُ
     translation: We sent it down
     transliteration: anzalnāhu
   3:
-    arabic: وَبِالۡحَـقِّ
+    arabic: وَبِٱلۡحَقِّ
     translation: and with the truth
     transliteration: wabil-ḥaqi
   4:
-    arabic: نَزَلَ​ ؕ
+    arabic: نَزَلَۗ
     translation: it descended
     transliteration: nazala
   5:
-    arabic: وَمَاۤ
+    arabic: وَمَآ
     translation: And not
     transliteration: wamā
   6:
-    arabic: اَرۡسَلۡنٰكَ
+    arabic: أَرۡسَلۡنَٰكَ
     translation: We sent you
     transliteration: arsalnāka
   7:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   8:
-    arabic: مُبَشِّرًا
+    arabic: مُبَشِّرٗا
     translation: (as) a bearer of glad tidings
     transliteration: mubashiran
   9:
-    arabic: وَّنَذِيۡرًا ​ۘ‏
+    arabic: وَنَذِيرٗا
     translation: and a warner
     transliteration: wanadhīran
 ---

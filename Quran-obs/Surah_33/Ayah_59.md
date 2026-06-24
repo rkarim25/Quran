@@ -1,30 +1,30 @@
 ---
-arabic_ayat: يٰۤـاَيُّهَا النَّبِىُّ قُلْ لِّاَزۡوَاجِكَ وَبَنٰتِكَ وَنِسَآءِ الۡمُؤۡمِنِيۡنَ
-  يُدۡنِيۡنَ عَلَيۡهِنَّ مِنۡ جَلَابِيۡبِهِنَّ ؕ ذٰ لِكَ اَدۡنٰٓى اَنۡ يُّعۡرَفۡنَ
-  فَلَا يُؤۡذَيۡنَ ؕ وَكَانَ اللّٰهُ غَفُوۡرًا رَّحِيۡمًا‏
+arabic_ayat: يَٰٓأَيُّهَا ٱلنَّبِيُّ قُل لِّأَزۡوَٰجِكَ وَبَنَاتِكَ وَنِسَآءِ ٱلۡمُؤۡمِنِينَ
+  يُدۡنِينَ عَلَيۡهِنَّ مِن جَلَٰبِيبِهِنَّۚ ذَٰلِكَ أَدۡنَىٰٓ أَن يُعۡرَفۡنَ فَلَا
+  يُؤۡذَيۡنَۗ وَكَانَ ٱللَّهُ غَفُورٗا رَّحِيمٗا
 sentence_translation: O Prophet! Ask your wives, daughters, and believing women to
   draw their cloaks over their bodies. In this way it is more likely that they will
   be recognized ˹as virtuous˺ and not be harassed. And Allah is All-Forgiving, Most
   Merciful. 
 word_by_word:
   1:
-    arabic: يٰۤـاَيُّهَا
+    arabic: يَٰٓأَيُّهَا
     translation: O Prophet
     transliteration: yāayyuhā
   2:
-    arabic: النَّبِىُّ
+    arabic: ٱلنَّبِيُّ
     translation: O Prophet
     transliteration: l-nabiyu
   3:
-    arabic: قُلْ
+    arabic: قُل
     translation: Say
     transliteration: qul
   4:
-    arabic: لِّاَزۡوَاجِكَ
+    arabic: لِّأَزۡوَٰجِكَ
     translation: to your wives
     transliteration: li-azwājika
   5:
-    arabic: وَبَنٰتِكَ
+    arabic: وَبَنَاتِكَ
     translation: and your daughters
     transliteration: wabanātika
   6:
@@ -32,11 +32,11 @@ word_by_word:
     translation: and (the) women
     transliteration: wanisāi
   7:
-    arabic: الۡمُؤۡمِنِيۡنَ
+    arabic: ٱلۡمُؤۡمِنِينَ
     translation: (of) the believers
     transliteration: l-mu'minīna
   8:
-    arabic: يُدۡنِيۡنَ
+    arabic: يُدۡنِينَ
     translation: to draw
     transliteration: yud'nīna
   9:
@@ -44,27 +44,27 @@ word_by_word:
     translation: over themselves
     transliteration: ʿalayhinna
   10:
-    arabic: مِنۡ
+    arabic: مِن
     translation: '[of]'
     transliteration: min
   11:
-    arabic: جَلَابِيۡبِهِنَّ ؕ
+    arabic: جَلَٰبِيبِهِنَّۚ
     translation: their outer garments
     transliteration: jalābībihinna
   12:
-    arabic: ذٰ لِكَ
+    arabic: ذَٰلِكَ
     translation: That
     transliteration: dhālika
   13:
-    arabic: اَدۡنٰٓى
+    arabic: أَدۡنَىٰٓ
     translation: (is) more suitable
     transliteration: adnā
   14:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that
     transliteration: an
   15:
-    arabic: يُّعۡرَفۡنَ
+    arabic: يُعۡرَفۡنَ
     translation: they should be known
     transliteration: yuʿ'rafna
   16:
@@ -72,7 +72,7 @@ word_by_word:
     translation: and not
     transliteration: falā
   17:
-    arabic: يُؤۡذَيۡنَ ؕ
+    arabic: يُؤۡذَيۡنَۗ
     translation: harmed
     transliteration: yu'dhayna
   18:
@@ -80,15 +80,15 @@ word_by_word:
     translation: And is
     transliteration: wakāna
   19:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   20:
-    arabic: غَفُوۡرًا
+    arabic: غَفُورٗا
     translation: Oft-Forgiving
     transliteration: ghafūran
   21:
-    arabic: رَّحِيۡمًا‏
+    arabic: رَّحِيمٗا
     translation: Most Merciful
     transliteration: raḥīman
 ---

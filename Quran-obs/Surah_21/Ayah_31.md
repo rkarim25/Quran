@@ -1,6 +1,6 @@
 ---
-arabic_ayat: وَجَعَلۡنَا فِى الۡاَرۡضِ رَوَاسِىَ اَنۡ تَمِيۡدَ بِهِمۡ وَجَعَلۡنَا
-  فِيۡهَا فِجَاجًا سُبُلًا لَّعَلَّهُمۡ يَهۡتَدُوۡنَ‏
+arabic_ayat: وَجَعَلۡنَا فِي ٱلۡأَرۡضِ رَوَٰسِيَ أَن تَمِيدَ بِهِمۡ وَجَعَلۡنَا فِيهَا
+  فِجَاجٗا سُبُلٗا لَّعَلَّهُمۡ يَهۡتَدُونَ
 sentence_translation: And We have placed firm mountains upon the earth so it does
   not shake with them, and made in it broad pathways so they may find their way.
 word_by_word:
@@ -9,27 +9,27 @@ word_by_word:
     translation: And We (have) placed
     transliteration: wajaʿalnā
   2:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   3:
-    arabic: الۡاَرۡضِ
+    arabic: ٱلۡأَرۡضِ
     translation: the earth
     transliteration: l-arḍi
   4:
-    arabic: رَوَاسِىَ
+    arabic: رَوَٰسِيَ
     translation: firmly set mountains
     transliteration: rawāsiya
   5:
-    arabic: اَنۡ
+    arabic: أَن
     translation: lest
     transliteration: an
   6:
-    arabic: تَمِيۡدَ
+    arabic: تَمِيدَ
     translation: it (should) shake
     transliteration: tamīda
   7:
-    arabic: بِهِمۡ
+    arabic: بِهِمۡ
     translation: with them
     transliteration: bihim
   8:
@@ -37,15 +37,15 @@ word_by_word:
     translation: and We made
     transliteration: wajaʿalnā
   9:
-    arabic: فِيۡهَا
+    arabic: فِيهَا
     translation: therein
     transliteration: fīhā
   10:
-    arabic: فِجَاجًا
+    arabic: فِجَاجٗا
     translation: broad passes
     transliteration: fijājan
   11:
-    arabic: سُبُلًا
+    arabic: سُبُلٗا
     translation: (as) ways
     transliteration: subulan
   12:
@@ -53,7 +53,7 @@ word_by_word:
     translation: so that they may
     transliteration: laʿallahum
   13:
-    arabic: يَهۡتَدُوۡنَ‏
+    arabic: يَهۡتَدُونَ
     translation: (be) guided
     transliteration: yahtadūna
 ---

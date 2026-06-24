@@ -1,27 +1,27 @@
 ---
-arabic_ayat: وَلَـنُسۡكِنَنَّكُمُ الۡاَرۡضَ مِنۡۢ بَعۡدِهِمۡ​ؕ ذٰ لِكَ لِمَنۡ خَافَ
-  مَقَامِىۡ وَخَافَ وَعِيۡدِ‏
+arabic_ayat: وَلَنُسۡكِنَنَّكُمُ ٱلۡأَرۡضَ مِنۢ بَعۡدِهِمۡۚ ذَٰلِكَ لِمَنۡ خَافَ مَقَامِي
+  وَخَافَ وَعِيدِ
 sentence_translation: and make you reside in the land after them. This is for whoever
   is in awe of standing before Me and fears My warning.”
 word_by_word:
   1:
-    arabic: وَلَـنُسۡكِنَنَّكُمُ
+    arabic: وَلَنُسۡكِنَنَّكُمُ
     translation: And surely We will make you dwell
     transliteration: walanus'kinannakumu
   2:
-    arabic: الۡاَرۡضَ
+    arabic: ٱلۡأَرۡضَ
     translation: (in) the land
     transliteration: l-arḍa
   3:
-    arabic: مِنۡۢ
+    arabic: مِنۢ
     translation: after them
     transliteration: min
   4:
-    arabic: بَعۡدِهِمۡ​ؕ
+    arabic: بَعۡدِهِمۡۚ
     translation: after them
     transliteration: baʿdihim
   5:
-    arabic: ذٰ لِكَ
+    arabic: ذَٰلِكَ
     translation: That
     transliteration: dhālika
   6:
@@ -33,7 +33,7 @@ word_by_word:
     translation: fears
     transliteration: khāfa
   8:
-    arabic: مَقَامِىۡ
+    arabic: مَقَامِي
     translation: standing before Me
     transliteration: maqāmī
   9:
@@ -41,7 +41,7 @@ word_by_word:
     translation: and fears
     transliteration: wakhāfa
   10:
-    arabic: وَعِيۡدِ‏
+    arabic: وَعِيدِ
     translation: My Threat
     transliteration: waʿīdi
 ---

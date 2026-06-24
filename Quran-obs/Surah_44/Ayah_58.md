@@ -1,14 +1,14 @@
 ---
-arabic_ayat: فَاِنَّمَا يَسَّرۡنٰهُ بِلِسَانِكَ لَعَلَّهُمۡ يَتَذَكَّرُوۡنَ‏
+arabic_ayat: فَإِنَّمَا يَسَّرۡنَٰهُ بِلِسَانِكَ لَعَلَّهُمۡ يَتَذَكَّرُونَ
 sentence_translation: Indeed, We have made this ˹Quran˺ easy in your own language
   ˹O Prophet˺ so perhaps they will be mindful.
 word_by_word:
   1:
-    arabic: فَاِنَّمَا
+    arabic: فَإِنَّمَا
     translation: Indeed
     transliteration: fa-innamā
   2:
-    arabic: يَسَّرۡنٰهُ
+    arabic: يَسَّرۡنَٰهُ
     translation: We have made it easy
     transliteration: yassarnāhu
   3:
@@ -20,7 +20,7 @@ word_by_word:
     translation: so that they may
     transliteration: laʿallahum
   5:
-    arabic: يَتَذَكَّرُوۡنَ‏
+    arabic: يَتَذَكَّرُونَ
     translation: take heed
     transliteration: yatadhakkarūna
 ---

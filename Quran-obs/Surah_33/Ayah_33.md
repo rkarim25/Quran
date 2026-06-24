@@ -1,8 +1,8 @@
 ---
-arabic_ayat: وَقَرۡنَ فِىۡ بُيُوۡتِكُنَّ وَلَا تَبَـرَّجۡنَ تَبَرُّجَ الۡجَاهِلِيَّةِ
-  الۡاُوۡلٰى وَاَقِمۡنَ الصَّلٰوةَ وَاٰتِيۡنَ الزَّكٰوةَ وَاَطِعۡنَ اللّٰهَ وَرَسُوۡلَهٗ
-  ؕ اِنَّمَا يُرِيۡدُ اللّٰهُ لِيُذۡهِبَ عَنۡكُمُ الرِّجۡسَ اَهۡلَ الۡبَيۡتِ وَيُطَهِّرَكُمۡ
-  تَطۡهِيۡرًا ۚ‏
+arabic_ayat: وَقَرۡنَ فِي بُيُوتِكُنَّ وَلَا تَبَرَّجۡنَ تَبَرُّجَ ٱلۡجَٰهِلِيَّةِ
+  ٱلۡأُولَىٰۖ وَأَقِمۡنَ ٱلصَّلَوٰةَ وَءَاتِينَ ٱلزَّكَوٰةَ وَأَطِعۡنَ ٱللَّهَ وَرَسُولَهُۥٓۚ
+  إِنَّمَا يُرِيدُ ٱللَّهُ لِيُذۡهِبَ عَنكُمُ ٱلرِّجۡسَ أَهۡلَ ٱلۡبَيۡتِ وَيُطَهِّرَكُمۡ
+  تَطۡهِيرٗا
 sentence_translation: Settle in your homes, and do not display yourselves as women
   did in the days of ˹pre-Islamic˺ ignorance. Establish prayer, pay alms-tax, and
   obey Allah and His Messenger. Allah only intends to keep ˹the causes of˺ evil away
@@ -13,11 +13,11 @@ word_by_word:
     translation: And stay
     transliteration: waqarna
   2:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   3:
-    arabic: بُيُوۡتِكُنَّ
+    arabic: بُيُوتِكُنَّ
     translation: your houses
     transliteration: buyūtikunna
   4:
@@ -25,7 +25,7 @@ word_by_word:
     translation: and (do) not
     transliteration: walā
   5:
-    arabic: تَبَـرَّجۡنَ
+    arabic: تَبَرَّجۡنَ
     translation: display yourselves
     transliteration: tabarrajna
   6:
@@ -33,51 +33,51 @@ word_by_word:
     translation: (as was the) display
     transliteration: tabarruja
   7:
-    arabic: الۡجَاهِلِيَّةِ
+    arabic: ٱلۡجَٰهِلِيَّةِ
     translation: (of the times of) ignorance
     transliteration: l-jāhiliyati
   8:
-    arabic: الۡاُوۡلٰى
+    arabic: ٱلۡأُولَىٰۖ
     translation: the former
     transliteration: l-ūlā
   9:
-    arabic: وَاَقِمۡنَ
+    arabic: وَأَقِمۡنَ
     translation: And establish
     transliteration: wa-aqim'na
   10:
-    arabic: الصَّلٰوةَ
+    arabic: ٱلصَّلَوٰةَ
     translation: the prayer
     transliteration: l-ṣalata
   11:
-    arabic: وَاٰتِيۡنَ
+    arabic: وَءَاتِينَ
     translation: and give
     transliteration: waātīna
   12:
-    arabic: الزَّكٰوةَ
+    arabic: ٱلزَّكَوٰةَ
     translation: zakah
     transliteration: l-zakata
   13:
-    arabic: وَاَطِعۡنَ
+    arabic: وَأَطِعۡنَ
     translation: and obey
     transliteration: wa-aṭiʿ'na
   14:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   15:
-    arabic: وَرَسُوۡلَهٗ ؕ
+    arabic: وَرَسُولَهُۥٓۚ
     translation: and His Messenger
     transliteration: warasūlahu
   16:
-    arabic: اِنَّمَا
+    arabic: إِنَّمَا
     translation: Only
     transliteration: innamā
   17:
-    arabic: يُرِيۡدُ
+    arabic: يُرِيدُ
     translation: Allah wishes
     transliteration: yurīdu
   18:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah wishes
     transliteration: l-lahu
   19:
@@ -85,19 +85,19 @@ word_by_word:
     translation: to remove
     transliteration: liyudh'hiba
   20:
-    arabic: عَنۡكُمُ
+    arabic: عَنكُمُ
     translation: from you
     transliteration: ʿankumu
   21:
-    arabic: الرِّجۡسَ
+    arabic: ٱلرِّجۡسَ
     translation: the impurity
     transliteration: l-rij'sa
   22:
-    arabic: اَهۡلَ
+    arabic: أَهۡلَ
     translation: (O) People
     transliteration: ahla
   23:
-    arabic: الۡبَيۡتِ
+    arabic: ٱلۡبَيۡتِ
     translation: (of) the House
     transliteration: l-bayti
   24:
@@ -105,7 +105,7 @@ word_by_word:
     translation: And to purify you
     transliteration: wayuṭahhirakum
   25:
-    arabic: تَطۡهِيۡرًا ۚ‏
+    arabic: تَطۡهِيرٗا
     translation: (with thorough) purification
     transliteration: taṭhīran
 ---

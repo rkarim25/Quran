@@ -1,8 +1,8 @@
 ---
-arabic_ayat: اَفَمَنۡ هُوَ قَآٮِٕمٌ عَلٰى كُلِّ نَفۡسٍۢ بِمَا كَسَبَتۡ​ۚ وَجَعَلُوۡالِلّٰهِ
-  شُرَكَآءَ ؕ قُلۡ سَمُّوۡهُمۡ​ؕ اَمۡ تُنَـبِّـئُــوْنَهٗ بِمَا لَا يَعۡلَمُ فِى
-  الۡاَرۡضِ اَمۡ بِظَاهِرٍ مِّنَ الۡقَوۡلِؕ بَلۡ زُيِّنَ لِلَّذِيۡنَ كَفَرُوۡا مَكۡرُهُمۡ
-  وَصُدُّوۡا عَنِ السَّبِيۡلِ​ؕ وَمَنۡ يُّضۡلِلِ اللّٰهُ فَمَا لَهٗ مِنۡ هَادٍ‏
+arabic_ayat: أَفَمَنۡ هُوَ قَآئِمٌ عَلَىٰ كُلِّ نَفۡسِۭ بِمَا كَسَبَتۡۗ وَجَعَلُواْ
+  لِلَّهِ شُرَكَآءَ قُلۡ سَمُّوهُمۡۚ أَمۡ تُنَبِّـُٔونَهُۥ بِمَا لَا يَعۡلَمُ فِي
+  ٱلۡأَرۡضِ أَم بِظَٰهِرٖ مِّنَ ٱلۡقَوۡلِۗ بَلۡ زُيِّنَ لِلَّذِينَ كَفَرُواْ مَكۡرُهُمۡ
+  وَصُدُّواْ عَنِ ٱلسَّبِيلِۗ وَمَن يُضۡلِلِ ٱللَّهُ فَمَا لَهُۥ مِنۡ هَادٖ
 sentence_translation: Is ˹there any equal to˺ the Vigilant One Who knows what every
   soul commits? Yet the pagans have associated others with Allah ˹in worship˺. Say,
   ˹O Prophet,˺ “Name them! Or do you ˹mean to˺ inform Him of something He does not
@@ -11,7 +11,7 @@ sentence_translation: Is ˹there any equal to˺ the Vigilant One Who knows what 
   the Path. And whoever Allah leaves to stray will be left with no guide.
 word_by_word:
   1:
-    arabic: اَفَمَنۡ
+    arabic: أَفَمَنۡ
     translation: Is then He Who
     transliteration: afaman
   2:
@@ -19,11 +19,11 @@ word_by_word:
     translation: (He)
     transliteration: huwa
   3:
-    arabic: قَآٮِٕمٌ
+    arabic: قَآئِمٌ
     translation: (is) a Maintainer
     transliteration: qāimun
   4:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: of
     transliteration: ʿalā
   5:
@@ -31,7 +31,7 @@ word_by_word:
     translation: every
     transliteration: kulli
   6:
-    arabic: نَفۡسٍۢ
+    arabic: نَفۡسِۭ
     translation: soul
     transliteration: nafsin
   7:
@@ -39,19 +39,19 @@ word_by_word:
     translation: for what
     transliteration: bimā
   8:
-    arabic: كَسَبَتۡ​ۚ
+    arabic: كَسَبَتۡۗ
     translation: it has earned
     transliteration: kasabat
   9:
-    arabic: وَجَعَلُوۡا
+    arabic: وَجَعَلُواْ
     translation: Yet they ascribe
     transliteration: wajaʿalū
   10:
-    arabic: لِلّٰهِ
+    arabic: لِلَّهِ
     translation: to Allah
     transliteration: lillahi
   11:
-    arabic: شُرَكَآءَ ؕ
+    arabic: شُرَكَآءَ
     translation: partners
     transliteration: shurakāa
   12:
@@ -59,15 +59,15 @@ word_by_word:
     translation: Say
     transliteration: qul
   13:
-    arabic: سَمُّوۡهُمۡ​ؕ
+    arabic: سَمُّوهُمۡۚ
     translation: Name them
     transliteration: sammūhum
   14:
-    arabic: اَمۡ
+    arabic: أَمۡ
     translation: Or
     transliteration: am
   15:
-    arabic: تُنَـبِّـئُــوْنَهٗ
+    arabic: تُنَبِّـُٔونَهُۥ
     translation: (do) you inform Him
     transliteration: tunabbiūnahu
   16:
@@ -83,19 +83,19 @@ word_by_word:
     translation: He knows
     transliteration: yaʿlamu
   19:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   20:
-    arabic: الۡاَرۡضِ
+    arabic: ٱلۡأَرۡضِ
     translation: the earth
     transliteration: l-arḍi
   21:
-    arabic: اَمۡ
+    arabic: أَم
     translation: or
     transliteration: am
   22:
-    arabic: بِظَاهِرٍ
+    arabic: بِظَٰهِرٖ
     translation: of the apparent
     transliteration: biẓāhirin
   23:
@@ -103,7 +103,7 @@ word_by_word:
     translation: of
     transliteration: mina
   24:
-    arabic: الۡقَوۡلِؕ
+    arabic: ٱلۡقَوۡلِۗ
     translation: the words
     transliteration: l-qawli
   25:
@@ -115,11 +115,11 @@ word_by_word:
     translation: (is) made fair-seeming
     transliteration: zuyyina
   27:
-    arabic: لِلَّذِيۡنَ
+    arabic: لِلَّذِينَ
     translation: to those who
     transliteration: lilladhīna
   28:
-    arabic: كَفَرُوۡا
+    arabic: كَفَرُواْ
     translation: disbelieve
     transliteration: kafarū
   29:
@@ -127,7 +127,7 @@ word_by_word:
     translation: their plotting
     transliteration: makruhum
   30:
-    arabic: وَصُدُّوۡا
+    arabic: وَصُدُّواْ
     translation: and they are hindered
     transliteration: waṣuddū
   31:
@@ -135,19 +135,19 @@ word_by_word:
     translation: from
     transliteration: ʿani
   32:
-    arabic: السَّبِيۡلِ​ؕ
+    arabic: ٱلسَّبِيلِۗ
     translation: the Path
     transliteration: l-sabīli
   33:
-    arabic: وَمَنۡ
+    arabic: وَمَن
     translation: And whoever
     transliteration: waman
   34:
-    arabic: يُّضۡلِلِ
+    arabic: يُضۡلِلِ
     translation: (by) Allah
     transliteration: yuḍ'lili
   35:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah lets go astray
     transliteration: l-lahu
   36:
@@ -155,7 +155,7 @@ word_by_word:
     translation: then not
     transliteration: famā
   37:
-    arabic: لَهٗ
+    arabic: لَهُۥ
     translation: for him
     transliteration: lahu
   38:
@@ -163,7 +163,7 @@ word_by_word:
     translation: any
     transliteration: min
   39:
-    arabic: هَادٍ‏
+    arabic: هَادٖ
     translation: guide
     transliteration: hādin
 ---

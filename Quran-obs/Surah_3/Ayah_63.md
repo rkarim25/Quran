@@ -1,30 +1,30 @@
 ---
-arabic_ayat: فَاِنۡ تَوَلَّوۡا فَاِنَّ اللّٰهَ عَلِيۡمٌۢ بِالۡمُفۡسِدِيۡنَ‏
+arabic_ayat: فَإِن تَوَلَّوۡاْ فَإِنَّ ٱللَّهَ عَلِيمُۢ بِٱلۡمُفۡسِدِينَ
 sentence_translation: If they turn away, then surely Allah has ˹perfect˺ knowledge
   of the corruptors.
 word_by_word:
   1:
-    arabic: فَاِنۡ
+    arabic: فَإِن
     translation: And if
     transliteration: fa-in
   2:
-    arabic: تَوَلَّوۡا
+    arabic: تَوَلَّوۡاْ
     translation: they turn back
     transliteration: tawallaw
   3:
-    arabic: فَاِنَّ
+    arabic: فَإِنَّ
     translation: then indeed
     transliteration: fa-inna
   4:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   5:
-    arabic: عَلِيۡمٌۢ
+    arabic: عَلِيمُۢ
     translation: (is) All-Knowing
     transliteration: ʿalīmun
   6:
-    arabic: بِالۡمُفۡسِدِيۡنَ‏
+    arabic: بِٱلۡمُفۡسِدِينَ
     translation: of the corrupters
     transliteration: bil-muf'sidīna
 ---

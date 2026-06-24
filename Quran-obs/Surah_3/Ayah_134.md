@@ -1,39 +1,39 @@
 ---
-arabic_ayat: الَّذِيۡنَ يُنۡفِقُوۡنَ فِى السَّرَّآءِ وَالضَّرَّآءِ وَالۡكٰظِمِيۡنَ
-  الۡغَيۡظَ وَالۡعَافِيۡنَ عَنِ النَّاسِ​ؕ وَاللّٰهُ يُحِبُّ الۡمُحۡسِنِيۡنَ​ۚ‏
+arabic_ayat: ٱلَّذِينَ يُنفِقُونَ فِي ٱلسَّرَّآءِ وَٱلضَّرَّآءِ وَٱلۡكَٰظِمِينَ
+  ٱلۡغَيۡظَ وَٱلۡعَافِينَ عَنِ ٱلنَّاسِۗ وَٱللَّهُ يُحِبُّ ٱلۡمُحۡسِنِينَ
 sentence_translation: ˹They are˺ those who donate in prosperity and adversity, control
   their anger, and pardon others. And Allah loves the good-doers.
 word_by_word:
   1:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: Those who
     transliteration: alladhīna
   2:
-    arabic: يُنۡفِقُوۡنَ
+    arabic: يُنفِقُونَ
     translation: spend
     transliteration: yunfiqūna
   3:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   4:
-    arabic: السَّرَّآءِ
+    arabic: ٱلسَّرَّآءِ
     translation: '[the] ease'
     transliteration: l-sarāi
   5:
-    arabic: وَالضَّرَّآءِ
+    arabic: وَٱلضَّرَّآءِ
     translation: and (in) the hardship
     transliteration: wal-ḍarāi
   6:
-    arabic: وَالۡكٰظِمِيۡنَ
+    arabic: وَٱلۡكَٰظِمِينَ
     translation: and those who restrain
     transliteration: wal-kāẓimīna
   7:
-    arabic: الۡغَيۡظَ
+    arabic: ٱلۡغَيۡظَ
     translation: the anger
     transliteration: l-ghayẓa
   8:
-    arabic: وَالۡعَافِيۡنَ
+    arabic: وَٱلۡعَافِينَ
     translation: and those who pardon
     transliteration: wal-ʿāfīna
   9:
@@ -41,11 +41,11 @@ word_by_word:
     translation: '[from]'
     transliteration: ʿani
   10:
-    arabic: النَّاسِ​ؕ
+    arabic: ٱلنَّاسِۗ
     translation: 'the people '
     transliteration: l-nāsi
   11:
-    arabic: وَاللّٰهُ
+    arabic: وَٱللَّهُ
     translation: and Allah
     transliteration: wal-lahu
   12:
@@ -53,7 +53,7 @@ word_by_word:
     translation: loves
     transliteration: yuḥibbu
   13:
-    arabic: الۡمُحۡسِنِيۡنَ​ۚ‏
+    arabic: ٱلۡمُحۡسِنِينَ
     translation: the good-doers
     transliteration: l-muḥ'sinīna
 ---

@@ -1,9 +1,9 @@
 ---
-arabic_ayat: فَاِذَا جَآءَتِ الطَّآمَّةُ الۡكُبۡرٰى ۖ‏
+arabic_ayat: فَإِذَا جَآءَتِ ٱلطَّآمَّةُ ٱلۡكُبۡرَىٰ
 sentence_translation: But, when the Supreme Disaster comes to pass—
 word_by_word:
   1:
-    arabic: فَاِذَا
+    arabic: فَإِذَا
     translation: But when
     transliteration: fa-idhā
   2:
@@ -11,11 +11,11 @@ word_by_word:
     translation: comes
     transliteration: jāati
   3:
-    arabic: الطَّآمَّةُ
+    arabic: ٱلطَّآمَّةُ
     translation: the Overwhelming Calamity
     transliteration: l-ṭāmatu
   4:
-    arabic: الۡكُبۡرٰى ۖ‏
+    arabic: ٱلۡكُبۡرَىٰ
     translation: the great
     transliteration: l-kub'rā
 ---

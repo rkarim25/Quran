@@ -1,22 +1,22 @@
 ---
-arabic_ayat: مَنۡ خَشِىَ الرَّحۡمٰنَ بِالۡغَيۡبِ وَجَآءَ بِقَلۡبٍ مُّنِيۡبِۙ‏
+arabic_ayat: مَّنۡ خَشِيَ ٱلرَّحۡمَٰنَ بِٱلۡغَيۡبِ وَجَآءَ بِقَلۡبٖ مُّنِيبٍ
 sentence_translation: who were in awe of the Most Compassionate without seeing ˹Him˺, and
   have come with a heart turning ˹only to Him˺.
 word_by_word:
   1:
-    arabic: مَنۡ
+    arabic: مَّنۡ
     translation: Who
     transliteration: man
   2:
-    arabic: خَشِىَ
+    arabic: خَشِيَ
     translation: feared
     transliteration: khashiya
   3:
-    arabic: الرَّحۡمٰنَ
+    arabic: ٱلرَّحۡمَٰنَ
     translation: the Most Gracious
     transliteration: l-raḥmāna
   4:
-    arabic: بِالۡغَيۡبِ
+    arabic: بِٱلۡغَيۡبِ
     translation: in the unseen
     transliteration: bil-ghaybi
   5:
@@ -24,11 +24,11 @@ word_by_word:
     translation: and came
     transliteration: wajāa
   6:
-    arabic: بِقَلۡبٍ
+    arabic: بِقَلۡبٖ
     translation: with a heart
     transliteration: biqalbin
   7:
-    arabic: مُّنِيۡبِۙ‏
+    arabic: مُّنِيبٍ
     translation: returning
     transliteration: munībin
 ---

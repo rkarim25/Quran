@@ -1,9 +1,9 @@
 ---
-arabic_ayat: وَّاَرۡسَلَ عَلَيۡهِمۡ طَيۡرًا اَبَابِيۡلَۙ‏
+arabic_ayat: وَأَرۡسَلَ عَلَيۡهِمۡ طَيۡرًا أَبَابِيلَ
 sentence_translation: For He sent against them flocks of birds,
 word_by_word:
   1:
-    arabic: وَّاَرۡسَلَ
+    arabic: وَأَرۡسَلَ
     translation: And He sent
     transliteration: wa-arsala
   2:
@@ -15,7 +15,7 @@ word_by_word:
     translation: birds
     transliteration: ṭayran
   4:
-    arabic: اَبَابِيۡلَۙ‏
+    arabic: أَبَابِيلَ
     translation: (in) flocks
     transliteration: abābīla
 ---

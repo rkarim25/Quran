@@ -1,8 +1,8 @@
 ---
-arabic_ayat: وَاَذَانٌ مِّنَ اللّٰهِ وَرَسُوۡلِهٖۤ اِلَى النَّاسِ يَوۡمَ الۡحَجِّ
-  الۡاَكۡبَرِ اَنَّ اللّٰهَ بَرِىۡۤءٌ مِّنَ الۡمُشۡرِكِيۡنَ ​ۙ  وَ رَسُوۡلُهٗ​ ؕ
-  فَاِنۡ تُبۡتُمۡ فَهُوَ خَيۡرٌ لَّـكُمۡ ​ۚ وَاِنۡ تَوَلَّيۡتُمۡ فَاعۡلَمُوۡۤا اَنَّكُمۡ
-  غَيۡرُ مُعۡجِزِى اللّٰهِ​ ؕ وَبَشِّرِ الَّذِيۡنَ كَفَرُوۡا بِعَذَابٍ اَ لِيۡمٍۙ‏
+arabic_ayat: وَأَذَٰنٞ مِّنَ ٱللَّهِ وَرَسُولِهِۦٓ إِلَى ٱلنَّاسِ يَوۡمَ ٱلۡحَجِّ
+  ٱلۡأَكۡبَرِ أَنَّ ٱللَّهَ بَرِيٓءٞ مِّنَ ٱلۡمُشۡرِكِينَ وَرَسُولُهُۥۚ فَإِن تُبۡتُمۡ
+  فَهُوَ خَيۡرٞ لَّكُمۡۖ وَإِن تَوَلَّيۡتُمۡ فَٱعۡلَمُوٓاْ أَنَّكُمۡ غَيۡرُ مُعۡجِزِي
+  ٱللَّهِۗ وَبَشِّرِ ٱلَّذِينَ كَفَرُواْ بِعَذَابٍ أَلِيمٍ
 sentence_translation: A declaration from Allah and His Messenger ˹is made˺ to all
   people on the day of the greater pilgrimage that Allah and His Messenger are free
   of the polytheists. So if you ˹pagans˺ repent, it will be better for you. But if
@@ -10,7 +10,7 @@ sentence_translation: A declaration from Allah and His Messenger ˹is made˺ to 
   news ˹O Prophet˺ to the disbelievers of a painful punishment.
 word_by_word:
   1:
-    arabic: وَاَذَانٌ
+    arabic: وَأَذَٰنٞ
     translation: And an announcement
     transliteration: wa-adhānun
   2:
@@ -18,19 +18,19 @@ word_by_word:
     translation: from Allah
     transliteration: mina
   3:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: from Allah
     transliteration: l-lahi
   4:
-    arabic: وَرَسُوۡلِهٖۤ
+    arabic: وَرَسُولِهِۦٓ
     translation: and His Messenger
     transliteration: warasūlihi
   5:
-    arabic: اِلَى
+    arabic: إِلَى
     translation: to
     transliteration: ilā
   6:
-    arabic: النَّاسِ
+    arabic: ٱلنَّاسِ
     translation: the people
     transliteration: l-nāsi
   7:
@@ -38,23 +38,23 @@ word_by_word:
     translation: (on the) day
     transliteration: yawma
   8:
-    arabic: الۡحَجِّ
+    arabic: ٱلۡحَجِّ
     translation: (of) the greater Pilgrimage
     transliteration: l-ḥaji
   9:
-    arabic: الۡاَكۡبَرِ
+    arabic: ٱلۡأَكۡبَرِ
     translation: (of) the greater Pilgrimage
     transliteration: l-akbari
   10:
-    arabic: اَنَّ
+    arabic: أَنَّ
     translation: that
     transliteration: anna
   11:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   12:
-    arabic: بَرِىۡۤءٌ
+    arabic: بَرِيٓءٞ
     translation: (is) free from obligations
     transliteration: barīon
   13:
@@ -62,15 +62,15 @@ word_by_word:
     translation: '[of]'
     transliteration: mina
   14:
-    arabic: الۡمُشۡرِكِيۡنَ ​ۙ 
+    arabic: ٱلۡمُشۡرِكِينَ
     translation: (to) the polytheists
     transliteration: l-mush'rikīna
   15:
-    arabic: وَ رَسُوۡلُهٗ​ ؕ
+    arabic: وَرَسُولُهُۥۚ
     translation: and (so is) His Messenger
     transliteration: warasūluhu
   16:
-    arabic: فَاِنۡ
+    arabic: فَإِن
     translation: So if
     transliteration: fa-in
   17:
@@ -82,15 +82,15 @@ word_by_word:
     translation: then, it is
     transliteration: fahuwa
   19:
-    arabic: خَيۡرٌ
+    arabic: خَيۡرٞ
     translation: best
     transliteration: khayrun
   20:
-    arabic: لَّـكُمۡ ​ۚ
+    arabic: لَّكُمۡۖ
     translation: for you
     transliteration: lakum
   21:
-    arabic: وَاِنۡ
+    arabic: وَإِن
     translation: But if
     transliteration: wa-in
   22:
@@ -98,11 +98,11 @@ word_by_word:
     translation: you turn away
     transliteration: tawallaytum
   23:
-    arabic: فَاعۡلَمُوۡۤا
+    arabic: فَٱعۡلَمُوٓاْ
     translation: then know
     transliteration: fa-iʿ'lamū
   24:
-    arabic: اَنَّكُمۡ
+    arabic: أَنَّكُمۡ
     translation: that you
     transliteration: annakum
   25:
@@ -110,11 +110,11 @@ word_by_word:
     translation: (can) not
     transliteration: ghayru
   26:
-    arabic: مُعۡجِزِى
+    arabic: مُعۡجِزِي
     translation: escape
     transliteration: muʿ'jizī
   27:
-    arabic: اللّٰهِ​ ؕ
+    arabic: ٱللَّهِۗ
     translation: Allah
     transliteration: l-lahi
   28:
@@ -122,11 +122,11 @@ word_by_word:
     translation: And give glad tidings
     transliteration: wabashiri
   29:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: (to) those who
     transliteration: alladhīna
   30:
-    arabic: كَفَرُوۡا
+    arabic: كَفَرُواْ
     translation: disbelieve
     transliteration: kafarū
   31:
@@ -134,7 +134,7 @@ word_by_word:
     translation: of a punishment
     transliteration: biʿadhābin
   32:
-    arabic: اَ لِيۡمٍۙ‏
+    arabic: أَلِيمٍ
     translation: painful
     transliteration: alīmin
 ---

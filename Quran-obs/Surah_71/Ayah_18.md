@@ -1,5 +1,5 @@
 ---
-arabic_ayat: ثُمَّ يُعِيۡدُكُمۡ فِيۡهَا وَيُخۡرِجُكُمۡ اِخۡرَاجًا‏
+arabic_ayat: ثُمَّ يُعِيدُكُمۡ فِيهَا وَيُخۡرِجُكُمۡ إِخۡرَاجٗا
 sentence_translation: Then He will return you to it, and then simply bring you forth
   ˹again˺.
 word_by_word:
@@ -8,11 +8,11 @@ word_by_word:
     translation: Then
     transliteration: thumma
   2:
-    arabic: يُعِيۡدُكُمۡ
+    arabic: يُعِيدُكُمۡ
     translation: He will return you
     transliteration: yuʿīdukum
   3:
-    arabic: فِيۡهَا
+    arabic: فِيهَا
     translation: into it
     transliteration: fīhā
   4:
@@ -20,7 +20,7 @@ word_by_word:
     translation: and bring you forth
     transliteration: wayukh'rijukum
   5:
-    arabic: اِخۡرَاجًا‏
+    arabic: إِخۡرَاجٗا
     translation: (a new) bringing forth
     transliteration: ikh'rājan
 ---

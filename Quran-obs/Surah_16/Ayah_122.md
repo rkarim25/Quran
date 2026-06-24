@@ -1,35 +1,35 @@
 ---
-arabic_ayat: وَاٰتَيۡنٰهُ فِى الدُّنۡيَا حَسَنَةً​  ؕ وَاِنَّهٗ فِى الۡاٰخِرَةِ لَمِنَ
-  الصّٰلِحِيۡنَؕ‏
+arabic_ayat: وَءَاتَيۡنَٰهُ فِي ٱلدُّنۡيَا حَسَنَةٗۖ وَإِنَّهُۥ فِي ٱلۡأٓخِرَةِ لَمِنَ
+  ٱلصَّٰلِحِينَ
 sentence_translation: We blessed him with all goodness in this world, and in the Hereafter
   he will certainly be among the righteous.
 word_by_word:
   1:
-    arabic: وَاٰتَيۡنٰهُ
+    arabic: وَءَاتَيۡنَٰهُ
     translation: And We gave him
     transliteration: waātaynāhu
   2:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   3:
-    arabic: الدُّنۡيَا
+    arabic: ٱلدُّنۡيَا
     translation: the world
     transliteration: l-dun'yā
   4:
-    arabic: حَسَنَةً​  ؕ
+    arabic: حَسَنَةٗۖ
     translation: good
     transliteration: ḥasanatan
   5:
-    arabic: وَاِنَّهٗ
+    arabic: وَإِنَّهُۥ
     translation: and indeed, he
     transliteration: wa-innahu
   6:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   7:
-    arabic: الۡاٰخِرَةِ
+    arabic: ٱلۡأٓخِرَةِ
     translation: the Hereafter
     transliteration: l-ākhirati
   8:
@@ -37,7 +37,7 @@ word_by_word:
     translation: (he) will surely (be) among
     transliteration: lamina
   9:
-    arabic: الصّٰلِحِيۡنَؕ‏
+    arabic: ٱلصَّٰلِحِينَ
     translation: the righteous
     transliteration: l-ṣāliḥīna
 ---

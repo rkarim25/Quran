@@ -1,5 +1,5 @@
 ---
-arabic_ayat: سَلۡهُمۡ اَيُّهُمۡ بِذٰلِكَ زَعِيۡمٌ ۛۚ‏
+arabic_ayat: سَلۡهُمۡ أَيُّهُم بِذَٰلِكَ زَعِيمٌ
 sentence_translation: Ask them ˹O Prophet˺ which of them can guarantee all that.
 word_by_word:
   1:
@@ -7,15 +7,15 @@ word_by_word:
     translation: Ask them
     transliteration: salhum
   2:
-    arabic: اَيُّهُمۡ
+    arabic: أَيُّهُم
     translation: which of them
     transliteration: ayyuhum
   3:
-    arabic: بِذٰلِكَ
+    arabic: بِذَٰلِكَ
     translation: for that
     transliteration: bidhālika
   4:
-    arabic: زَعِيۡمٌ ۛۚ‏
+    arabic: زَعِيمٌ
     translation: (is) responsible
     transliteration: zaʿīmun
 ---

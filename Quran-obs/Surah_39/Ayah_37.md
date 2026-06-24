@@ -1,19 +1,19 @@
 ---
-arabic_ayat: وَمَنۡ يَّهۡدِ اللّٰهُ فَمَا لَهٗ مِنۡ مُّضِلٍّ​ ؕ اَ لَيۡسَ اللّٰهُ
-  بِعَزِيۡزٍ ذِى انتِقَامٍ‏
+arabic_ayat: وَمَن يَهۡدِ ٱللَّهُ فَمَا لَهُۥ مِن مُّضِلٍّۗ أَلَيۡسَ ٱللَّهُ بِعَزِيزٖ
+  ذِي ٱنتِقَامٖ
 sentence_translation: And whoever Allah guides, none can lead astray. Is Allah not
   Almighty, capable of punishment?
 word_by_word:
   1:
-    arabic: وَمَنۡ
+    arabic: وَمَن
     translation: And whoever
     transliteration: waman
   2:
-    arabic: يَّهۡدِ
+    arabic: يَهۡدِ
     translation: Allah guides
     transliteration: yahdi
   3:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah guides
     transliteration: l-lahu
   4:
@@ -21,35 +21,35 @@ word_by_word:
     translation: then not
     transliteration: famā
   5:
-    arabic: لَهٗ
+    arabic: لَهُۥ
     translation: for him
     transliteration: lahu
   6:
-    arabic: مِنۡ
+    arabic: مِن
     translation: any
     transliteration: min
   7:
-    arabic: مُّضِلٍّ​ ؕ
+    arabic: مُّضِلٍّۗ
     translation: misleader
     transliteration: muḍillin
   8:
-    arabic: اَ لَيۡسَ
+    arabic: أَلَيۡسَ
     translation: Is not
     transliteration: alaysa
   9:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   10:
-    arabic: بِعَزِيۡزٍ
+    arabic: بِعَزِيزٖ
     translation: All-Mighty
     transliteration: biʿazīzin
   11:
-    arabic: ذِى
+    arabic: ذِي
     translation: All-Able of retribution
     transliteration: dhī
   12:
-    arabic: انتِقَامٍ‏
+    arabic: ٱنتِقَامٖ
     translation: All-Able of retribution
     transliteration: intiqāmin
 ---

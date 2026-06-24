@@ -1,5 +1,5 @@
 ---
-arabic_ayat: قَالَ اخۡسَـُٔـوۡا فِيۡهَا وَلَا تُكَلِّمُوۡنِ‏
+arabic_ayat: قَالَ ٱخۡسَـُٔواْ فِيهَا وَلَا تُكَلِّمُونِ
 sentence_translation: Allah will respond, “Be despised in there! Do not ˹ever˺ plead
   with Me ˹again˺!
 word_by_word:
@@ -8,11 +8,11 @@ word_by_word:
     translation: He (will) say
     transliteration: qāla
   2:
-    arabic: اخۡسَـُٔـوۡا
+    arabic: ٱخۡسَـُٔواْ
     translation: Remain despised
     transliteration: ikh'saū
   3:
-    arabic: فِيۡهَا
+    arabic: فِيهَا
     translation: in it
     transliteration: fīhā
   4:
@@ -20,7 +20,7 @@ word_by_word:
     translation: and (do) not
     transliteration: walā
   5:
-    arabic: تُكَلِّمُوۡنِ‏
+    arabic: تُكَلِّمُونِ
     translation: speak to Me
     transliteration: tukallimūni
 ---

@@ -1,28 +1,28 @@
 ---
-arabic_ayat: قَالُوۡا تَقَاسَمُوۡا بِاللّٰهِ لَـنُبَيِّتَـنَّهٗ وَ اَهۡلَهٗ ثُمَّ
-  لَـنَقُوۡلَنَّ لِوَلِيِّهٖ مَا شَهِدۡنَا مَهۡلِكَ اَهۡلِهٖ وَاِنَّا لَصٰدِقُوۡنَ‏
+arabic_ayat: قَالُواْ تَقَاسَمُواْ بِٱللَّهِ لَنُبَيِّتَنَّهُۥ وَأَهۡلَهُۥ ثُمَّ لَنَقُولَنَّ
+  لِوَلِيِّهِۦ مَا شَهِدۡنَا مَهۡلِكَ أَهۡلِهِۦ وَإِنَّا لَصَٰدِقُونَ
 sentence_translation: They vowed, “Let us swear by Allah that we will take him and
   his family down by night. Then we will certainly say to his ˹closest˺ heirs, ‘We
   did not witness the murder of his family. We are definitely telling the truth.’”
 word_by_word:
   1:
-    arabic: قَالُوۡا
+    arabic: قَالُواْ
     translation: They said
     transliteration: qālū
   2:
-    arabic: تَقَاسَمُوۡا
+    arabic: تَقَاسَمُواْ
     translation: Swear to each other
     transliteration: taqāsamū
   3:
-    arabic: بِاللّٰهِ
+    arabic: بِٱللَّهِ
     translation: by Allah
     transliteration: bil-lahi
   4:
-    arabic: لَـنُبَيِّتَـنَّهٗ
+    arabic: لَنُبَيِّتَنَّهُۥ
     translation: surely, we will attack him by night
     transliteration: lanubayyitannahu
   5:
-    arabic: وَ اَهۡلَهٗ
+    arabic: وَأَهۡلَهُۥ
     translation: and his family
     transliteration: wa-ahlahu
   6:
@@ -30,11 +30,11 @@ word_by_word:
     translation: Then
     transliteration: thumma
   7:
-    arabic: لَـنَقُوۡلَنَّ
+    arabic: لَنَقُولَنَّ
     translation: we will surely say
     transliteration: lanaqūlanna
   8:
-    arabic: لِوَلِيِّهٖ
+    arabic: لِوَلِيِّهِۦ
     translation: to his heir
     transliteration: liwaliyyihi
   9:
@@ -50,15 +50,15 @@ word_by_word:
     translation: (the) destruction
     transliteration: mahlika
   12:
-    arabic: اَهۡلِهٖ
+    arabic: أَهۡلِهِۦ
     translation: (of) his family
     transliteration: ahlihi
   13:
-    arabic: وَاِنَّا
+    arabic: وَإِنَّا
     translation: and indeed, we
     transliteration: wa-innā
   14:
-    arabic: لَصٰدِقُوۡنَ‏
+    arabic: لَصَٰدِقُونَ
     translation: (are) surely truthful
     transliteration: laṣādiqūna
 ---

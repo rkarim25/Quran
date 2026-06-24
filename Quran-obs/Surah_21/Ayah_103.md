@@ -1,6 +1,6 @@
 ---
-arabic_ayat: لَا يَحۡزُنُهُمُ الۡـفَزَعُ الۡاَكۡبَرُ وَتَتَلَقّٰٮهُمُ الۡمَلٰٓٮِٕكَةُ
-  ؕ هٰذَا يَوۡمُكُمُ الَّذِىۡ كُنۡـتُمۡ تُوۡعَدُوۡنَ‏
+arabic_ayat: لَا يَحۡزُنُهُمُ ٱلۡفَزَعُ ٱلۡأَكۡبَرُ وَتَتَلَقَّىٰهُمُ ٱلۡمَلَٰٓئِكَةُ
+  هَٰذَا يَوۡمُكُمُ ٱلَّذِي كُنتُمۡ تُوعَدُونَ
 sentence_translation: The Supreme Horror ˹of that Day˺ will not disturb them, and
   the angels will greet them, ˹saying,˺ “This is your Day, which you have been promised.”
 word_by_word:
@@ -13,23 +13,23 @@ word_by_word:
     translation: will grieve them
     transliteration: yaḥzunuhumu
   3:
-    arabic: الۡـفَزَعُ
+    arabic: ٱلۡفَزَعُ
     translation: the terror
     transliteration: l-fazaʿu
   4:
-    arabic: الۡاَكۡبَرُ
+    arabic: ٱلۡأَكۡبَرُ
     translation: '[the] greatest'
     transliteration: l-akbaru
   5:
-    arabic: وَتَتَلَقّٰٮهُمُ
+    arabic: وَتَتَلَقَّىٰهُمُ
     translation: and will meet them
     transliteration: watatalaqqāhumu
   6:
-    arabic: الۡمَلٰٓٮِٕكَةُ ؕ
+    arabic: ٱلۡمَلَٰٓئِكَةُ
     translation: the Angels
     transliteration: l-malāikatu
   7:
-    arabic: هٰذَا
+    arabic: هَٰذَا
     translation: This
     transliteration: hādhā
   8:
@@ -37,15 +37,15 @@ word_by_word:
     translation: (is) your Day
     transliteration: yawmukumu
   9:
-    arabic: الَّذِىۡ
+    arabic: ٱلَّذِي
     translation: which
     transliteration: alladhī
   10:
-    arabic: كُنۡـتُمۡ
+    arabic: كُنتُمۡ
     translation: you were
     transliteration: kuntum
   11:
-    arabic: تُوۡعَدُوۡنَ‏
+    arabic: تُوعَدُونَ
     translation: promised
     transliteration: tūʿadūna
 ---

@@ -1,6 +1,6 @@
 ---
-arabic_ayat: قَالَتۡ يٰۤاَيُّهَا الۡمَلَؤُا اَفۡتُوۡنِىۡ فِىۡۤ اَمۡرِىۡ​ۚ مَا كُنۡتُ
-  قَاطِعَةً اَمۡرًا حَتّٰى تَشۡهَدُوۡنِ‏
+arabic_ayat: قَالَتۡ يَٰٓأَيُّهَا ٱلۡمَلَؤُاْ أَفۡتُونِي فِيٓ أَمۡرِي مَا كُنتُ قَاطِعَةً
+  أَمۡرًا حَتَّىٰ تَشۡهَدُونِ
 sentence_translation: She said, “O chiefs! Advise me in this matter of mine, for I
   would never make any decision without you.”
 word_by_word:
@@ -9,23 +9,23 @@ word_by_word:
     translation: She said
     transliteration: qālat
   2:
-    arabic: يٰۤاَيُّهَا
+    arabic: يَٰٓأَيُّهَا
     translation: O
     transliteration: yāayyuhā
   3:
-    arabic: الۡمَلَؤُا
+    arabic: ٱلۡمَلَؤُاْ
     translation: chiefs
     transliteration: l-mala-u
   4:
-    arabic: اَفۡتُوۡنِىۡ
+    arabic: أَفۡتُونِي
     translation: Advise me
     transliteration: aftūnī
   5:
-    arabic: فِىۡۤ
+    arabic: فِيٓ
     translation: in
     transliteration: fī
   6:
-    arabic: اَمۡرِىۡ​ۚ
+    arabic: أَمۡرِي
     translation: my affair
     transliteration: amrī
   7:
@@ -33,7 +33,7 @@ word_by_word:
     translation: Not
     transliteration: mā
   8:
-    arabic: كُنۡتُ
+    arabic: كُنتُ
     translation: I would be
     transliteration: kuntu
   9:
@@ -41,15 +41,15 @@ word_by_word:
     translation: the one to decide
     transliteration: qāṭiʿatan
   10:
-    arabic: اَمۡرًا
+    arabic: أَمۡرًا
     translation: any matter
     transliteration: amran
   11:
-    arabic: حَتّٰى
+    arabic: حَتَّىٰ
     translation: until
     transliteration: ḥattā
   12:
-    arabic: تَشۡهَدُوۡنِ‏
+    arabic: تَشۡهَدُونِ
     translation: you are present with me
     transliteration: tashhadūni
 ---

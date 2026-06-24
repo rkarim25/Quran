@@ -1,8 +1,7 @@
 ---
-arabic_ayat: فَرِحَ الۡمُخَلَّفُوۡنَ بِمَقۡعَدِهِمۡ خِلٰفَ رَسُوۡلِ اللّٰهِ وَكَرِهُوۡۤا
-  اَنۡ يُّجَاهِدُوۡا بِاَمۡوَالِهِمۡ وَاَنۡفُسِهِمۡ فِىۡ سَبِيۡلِ اللّٰهِ وَقَالُوۡا
-  لَا تَنۡفِرُوۡا فِى الۡحَـرِّؕ قُلۡ نَارُ جَهَـنَّمَ اَشَدُّ حَرًّا​ؕ لَوۡ كَانُوۡا
-  يَفۡقَهُوۡنَ‏
+arabic_ayat: فَرِحَ ٱلۡمُخَلَّفُونَ بِمَقۡعَدِهِمۡ خِلَٰفَ رَسُولِ ٱللَّهِ وَكَرِهُوٓاْ
+  أَن يُجَٰهِدُواْ بِأَمۡوَٰلِهِمۡ وَأَنفُسِهِمۡ فِي سَبِيلِ ٱللَّهِ وَقَالُواْ لَا
+  تَنفِرُواْ فِي ٱلۡحَرِّۗ قُلۡ نَارُ جَهَنَّمَ أَشَدُّ حَرّٗاۚ لَّوۡ كَانُواْ يَفۡقَهُونَ
 sentence_translation: Those ˹hypocrites˺ who remained behind rejoiced for doing so
   in defiance of the Messenger of Allah and hated ˹the prospect of˺ striving with
   their wealth and their lives in the cause of Allah. They said ˹to one another˺,
@@ -14,7 +13,7 @@ word_by_word:
     translation: Rejoice
     transliteration: fariḥa
   2:
-    arabic: الۡمُخَلَّفُوۡنَ
+    arabic: ٱلۡمُخَلَّفُونَ
     translation: those who remained behind
     transliteration: l-mukhalafūna
   3:
@@ -22,51 +21,51 @@ word_by_word:
     translation: in their staying
     transliteration: bimaqʿadihim
   4:
-    arabic: خِلٰفَ
+    arabic: خِلَٰفَ
     translation: behind
     transliteration: khilāfa
   5:
-    arabic: رَسُوۡلِ
+    arabic: رَسُولِ
     translation: (the) Messenger
     transliteration: rasūli
   6:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (of) Allah
     transliteration: l-lahi
   7:
-    arabic: وَكَرِهُوۡۤا
+    arabic: وَكَرِهُوٓاْ
     translation: and they disliked
     transliteration: wakarihū
   8:
-    arabic: اَنۡ
+    arabic: أَن
     translation: to
     transliteration: an
   9:
-    arabic: يُّجَاهِدُوۡا
+    arabic: يُجَٰهِدُواْ
     translation: strive
     transliteration: yujāhidū
   10:
-    arabic: بِاَمۡوَالِهِمۡ
+    arabic: بِأَمۡوَٰلِهِمۡ
     translation: with their wealth
     transliteration: bi-amwālihim
   11:
-    arabic: وَاَنۡفُسِهِمۡ
+    arabic: وَأَنفُسِهِمۡ
     translation: and their lives
     transliteration: wa-anfusihim
   12:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   13:
-    arabic: سَبِيۡلِ
+    arabic: سَبِيلِ
     translation: (the) way
     transliteration: sabīli
   14:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (of) Allah
     transliteration: l-lahi
   15:
-    arabic: وَقَالُوۡا
+    arabic: وَقَالُواْ
     translation: and they said
     transliteration: waqālū
   16:
@@ -74,15 +73,15 @@ word_by_word:
     translation: (Do) not
     transliteration: lā
   17:
-    arabic: تَنۡفِرُوۡا
+    arabic: تَنفِرُواْ
     translation: go forth
     transliteration: tanfirū
   18:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   19:
-    arabic: الۡحَـرِّؕ
+    arabic: ٱلۡحَرِّۗ
     translation: the heat
     transliteration: l-ḥari
   20:
@@ -94,27 +93,27 @@ word_by_word:
     translation: (The) Fire
     transliteration: nāru
   22:
-    arabic: جَهَـنَّمَ
+    arabic: جَهَنَّمَ
     translation: (of) Hell
     transliteration: jahannama
   23:
-    arabic: اَشَدُّ
+    arabic: أَشَدُّ
     translation: (is) more intense
     transliteration: ashaddu
   24:
-    arabic: حَرًّا​ؕ
+    arabic: حَرّٗاۚ
     translation: (in) heat
     transliteration: ḥarran
   25:
-    arabic: لَوۡ
+    arabic: لَّوۡ
     translation: If (only)
     transliteration: law
   26:
-    arabic: كَانُوۡا
+    arabic: كَانُواْ
     translation: they could
     transliteration: kānū
   27:
-    arabic: يَفۡقَهُوۡنَ‏
+    arabic: يَفۡقَهُونَ
     translation: understand
     transliteration: yafqahūna
 ---

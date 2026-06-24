@@ -1,5 +1,5 @@
 ---
-arabic_ayat: فَمَا لَهٗ مِنۡ قُوَّةٍ وَّلَا نَاصِرٍؕ‏
+arabic_ayat: فَمَا لَهُۥ مِن قُوَّةٖ وَلَا نَاصِرٖ
 sentence_translation: Then one will have neither power nor ˹any˺ helper.
 word_by_word:
   1:
@@ -7,23 +7,23 @@ word_by_word:
     translation: Then not
     transliteration: famā
   2:
-    arabic: لَهٗ
+    arabic: لَهُۥ
     translation: (is) for him
     transliteration: lahu
   3:
-    arabic: مِنۡ
+    arabic: مِن
     translation: any
     transliteration: min
   4:
-    arabic: قُوَّةٍ
+    arabic: قُوَّةٖ
     translation: power
     transliteration: quwwatin
   5:
-    arabic: وَّلَا
+    arabic: وَلَا
     translation: and not
     transliteration: walā
   6:
-    arabic: نَاصِرٍؕ‏
+    arabic: نَاصِرٖ
     translation: any helper
     transliteration: nāṣirin
 ---

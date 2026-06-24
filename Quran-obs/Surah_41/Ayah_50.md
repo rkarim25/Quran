@@ -1,8 +1,8 @@
 ---
-arabic_ayat: وَلَٮِٕنۡ اَذَقۡنٰهُ رَحۡمَةً مِّنَّا مِنۡۢ بَعۡدِ ضَرَّآءَ مَسَّتۡهُ
-  لَيَقُوۡلَنَّ هٰذَا لِىۡ ۙ وَمَاۤ اَظُنُّ السَّاعَةَ قَآٮِٕمَةً  ۙ وَّلَٮِٕنۡ رُّجِعۡتُ
-  اِلٰى رَبِّىۡۤ اِنَّ لِىۡ عِنۡدَهٗ لَـلۡحُسۡنٰى​ ۚ فَلَـنُنَـبِّـئَنَّ الَّذِيۡنَ
-  كَفَرُوۡا بِمَا عَمِلُوۡا وَلَـنُذِيۡقَنَّهُمۡ مِّنۡ عَذَابٍ غَلِيۡظٍ‏
+arabic_ayat: وَلَئِنۡ أَذَقۡنَٰهُ رَحۡمَةٗ مِّنَّا مِنۢ بَعۡدِ ضَرَّآءَ مَسَّتۡهُ
+  لَيَقُولَنَّ هَٰذَا لِي وَمَآ أَظُنُّ ٱلسَّاعَةَ قَآئِمَةٗ وَلَئِن رُّجِعۡتُ إِلَىٰ
+  رَبِّيٓ إِنَّ لِي عِندَهُۥ لَلۡحُسۡنَىٰۚ فَلَنُنَبِّئَنَّ ٱلَّذِينَ كَفَرُواْ بِمَا
+  عَمِلُواْ وَلَنُذِيقَنَّهُم مِّنۡ عَذَابٍ غَلِيظٖ
 sentence_translation: And if We let them taste a mercy from Us after being touched
   with adversity, they will certainly say, “This is what I deserve. I do not think
   the Hour will ˹ever˺ come. And if in fact I am returned to my Lord, the finest reward
@@ -10,15 +10,15 @@ sentence_translation: And if We let them taste a mercy from Us after being touch
   what they used to do. And We will certainly make them taste a harsh torment.
 word_by_word:
   1:
-    arabic: وَلَٮِٕنۡ
+    arabic: وَلَئِنۡ
     translation: And verily, if
     transliteration: wala-in
   2:
-    arabic: اَذَقۡنٰهُ
+    arabic: أَذَقۡنَٰهُ
     translation: We let him taste
     transliteration: adhaqnāhu
   3:
-    arabic: رَحۡمَةً
+    arabic: رَحۡمَةٗ
     translation: mercy
     transliteration: raḥmatan
   4:
@@ -26,7 +26,7 @@ word_by_word:
     translation: from Us
     transliteration: minnā
   5:
-    arabic: مِنۡۢ
+    arabic: مِنۢ
     translation: after
     transliteration: min
   6:
@@ -42,35 +42,35 @@ word_by_word:
     translation: (has) touched him
     transliteration: massathu
   9:
-    arabic: لَيَقُوۡلَنَّ
+    arabic: لَيَقُولَنَّ
     translation: he will surely say
     transliteration: layaqūlanna
   10:
-    arabic: هٰذَا
+    arabic: هَٰذَا
     translation: This (is)
     transliteration: hādhā
   11:
-    arabic: لِىۡ ۙ
+    arabic: لِي
     translation: (due) to me
     transliteration: lī
   12:
-    arabic: وَمَاۤ
+    arabic: وَمَآ
     translation: and not
     transliteration: wamā
   13:
-    arabic: اَظُنُّ
+    arabic: أَظُنُّ
     translation: I think
     transliteration: aẓunnu
   14:
-    arabic: السَّاعَةَ
+    arabic: ٱلسَّاعَةَ
     translation: the Hour
     transliteration: l-sāʿata
   15:
-    arabic: قَآٮِٕمَةً  ۙ
+    arabic: قَآئِمَةٗ
     translation: (will be) established
     transliteration: qāimatan
   16:
-    arabic: وَّلَٮِٕنۡ
+    arabic: وَلَئِن
     translation: and if
     transliteration: wala-in
   17:
@@ -78,39 +78,39 @@ word_by_word:
     translation: I am returned
     transliteration: rujiʿ'tu
   18:
-    arabic: اِلٰى
+    arabic: إِلَىٰ
     translation: to
     transliteration: ilā
   19:
-    arabic: رَبِّىۡۤ
+    arabic: رَبِّيٓ
     translation: my Lord
     transliteration: rabbī
   20:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: indeed
     transliteration: inna
   21:
-    arabic: لِىۡ
+    arabic: لِي
     translation: for me
     transliteration: lī
   22:
-    arabic: عِنۡدَهٗ
+    arabic: عِندَهُۥ
     translation: with Him
     transliteration: ʿindahu
   23:
-    arabic: لَـلۡحُسۡنٰى​ ۚ
+    arabic: لَلۡحُسۡنَىٰۚ
     translation: (will be) the best
     transliteration: lalḥus'nā
   24:
-    arabic: فَلَـنُنَـبِّـئَنَّ
+    arabic: فَلَنُنَبِّئَنَّ
     translation: But We will surely inform
     transliteration: falanunabbi-anna
   25:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   26:
-    arabic: كَفَرُوۡا
+    arabic: كَفَرُواْ
     translation: disbelieved
     transliteration: kafarū
   27:
@@ -118,11 +118,11 @@ word_by_word:
     translation: about what
     transliteration: bimā
   28:
-    arabic: عَمِلُوۡا
+    arabic: عَمِلُواْ
     translation: they did
     transliteration: ʿamilū
   29:
-    arabic: وَلَـنُذِيۡقَنَّهُمۡ
+    arabic: وَلَنُذِيقَنَّهُم
     translation: and We will surely make them taste
     transliteration: walanudhīqannahum
   30:
@@ -134,7 +134,7 @@ word_by_word:
     translation: a punishment
     transliteration: ʿadhābin
   32:
-    arabic: غَلِيۡظٍ‏
+    arabic: غَلِيظٖ
     translation: severe
     transliteration: ghalīẓin
 ---

@@ -1,64 +1,64 @@
 ---
-arabic_ayat: لَـيۡسُوۡا سَوَآءً ​ؕ مِنۡ اَهۡلِ الۡكِتٰبِ اُمَّةٌ قَآٮِٕمَةٌ يَّتۡلُوۡنَ
-  اٰيٰتِ اللّٰهِ اٰنَآءَ الَّيۡلِ وَ هُمۡ يَسۡجُدُوۡنَ‏
+arabic_ayat: ۞ لَيۡسُواْ سَوَآءٗۗ مِّنۡ أَهۡلِ ٱلۡكِتَٰبِ أُمَّةٞ قَآئِمَةٞ يَتۡلُونَ
+  ءَايَٰتِ ٱللَّهِ ءَانَآءَ ٱلَّيۡلِ وَهُمۡ يَسۡجُدُونَ
 sentence_translation: 'Yet they are not all alike: there are some among the People
   of the Book who are upright, who recite Allah’s revelations throughout the night,
   prostrating ˹in prayer˺.'
 word_by_word:
   1:
-    arabic: ۞ لَـيۡسُوۡا
+    arabic: ۞ لَيۡسُواْ
     translation: They are not
     transliteration: laysū
   2:
-    arabic: سَوَآءً ​ؕ
+    arabic: سَوَآءٗۗ
     translation: (the) same
     transliteration: sawāan
   3:
-    arabic: مِنۡ
+    arabic: مِّنۡ
     translation: among
     transliteration: min
   4:
-    arabic: اَهۡلِ
+    arabic: أَهۡلِ
     translation: (the) People
     transliteration: ahli
   5:
-    arabic: الۡكِتٰبِ
+    arabic: ٱلۡكِتَٰبِ
     translation: (of) the Book
     transliteration: l-kitābi
   6:
-    arabic: اُمَّةٌ
+    arabic: أُمَّةٞ
     translation: (is) a community
     transliteration: ummatun
   7:
-    arabic: قَآٮِٕمَةٌ
+    arabic: قَآئِمَةٞ
     translation: standing
     transliteration: qāimatun
   8:
-    arabic: يَّتۡلُوۡنَ
+    arabic: يَتۡلُونَ ءَ
     translation: (and) reciting
     transliteration: yatlūna
   9:
-    arabic: اٰيٰتِ
+    arabic: ايَٰتِ
     translation: (the) Verses
     transliteration: āyāti
   10:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ ءَ
     translation: (of) Allah
     transliteration: l-lahi
   11:
-    arabic: اٰنَآءَ
+    arabic: انَآءَ
     translation: (in the) hours
     transliteration: ānāa
   12:
-    arabic: الَّيۡلِ
+    arabic: ٱلَّيۡلِ
     translation: (of) the night
     transliteration: al-layli
   13:
-    arabic: وَ هُمۡ
+    arabic: وَهُمۡ
     translation: and they
     transliteration: wahum
   14:
-    arabic: يَسۡجُدُوۡنَ‏
+    arabic: يَسۡجُدُونَ
     translation: prostrate
     transliteration: yasjudūna
 ---

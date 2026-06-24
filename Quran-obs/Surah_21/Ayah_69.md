@@ -1,5 +1,5 @@
 ---
-arabic_ayat: قُلۡنَا يٰنَارُ كُوۡنِىۡ بَرۡدًا وَّسَلٰمًا عَلٰٓى اِبۡرٰهِيۡمَۙ‏
+arabic_ayat: قُلۡنَا يَٰنَارُ كُونِي بَرۡدٗا وَسَلَٰمًا عَلَىٰٓ إِبۡرَٰهِيمَ
 sentence_translation: We ordered, “O fire! Be cool and safe for Abraham!”
 word_by_word:
   1:
@@ -7,27 +7,27 @@ word_by_word:
     translation: We said
     transliteration: qul'nā
   2:
-    arabic: يٰنَارُ
+    arabic: يَٰنَارُ
     translation: O fire
     transliteration: yānāru
   3:
-    arabic: كُوۡنِىۡ
+    arabic: كُونِي
     translation: Be
     transliteration: kūnī
   4:
-    arabic: بَرۡدًا
+    arabic: بَرۡدٗا
     translation: cool[ness]
     transliteration: bardan
   5:
-    arabic: وَّسَلٰمًا
+    arabic: وَسَلَٰمًا
     translation: and safe[ty]
     transliteration: wasalāman
   6:
-    arabic: عَلٰٓى
+    arabic: عَلَىٰٓ
     translation: for
     transliteration: ʿalā
   7:
-    arabic: اِبۡرٰهِيۡمَۙ‏
+    arabic: إِبۡرَٰهِيمَ
     translation: Ibrahim
     transliteration: ib'rāhīma
 ---

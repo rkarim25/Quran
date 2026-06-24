@@ -1,6 +1,6 @@
 ---
-arabic_ayat: قُلِ الۡحَمۡدُ لِلّٰهِ وَسَلٰمٌ عَلٰى عِبَادِهِ الَّذِيۡنَ اصۡطَفٰىؕ
-  ءٰۤللّٰهُ خَيۡرٌ اَمَّا يُشۡرِكُوۡنَؕ‏
+arabic_ayat: قُلِ ٱلۡحَمۡدُ لِلَّهِ وَسَلَٰمٌ عَلَىٰ عِبَادِهِ ٱلَّذِينَ ٱصۡطَفَىٰٓۗ
+  ءَآللَّهُ خَيۡرٌ أَمَّا يُشۡرِكُونَ
 sentence_translation: 'Say, ˹O Prophet,˺ “Praise be to Allah, and peace be upon the
   servants He has chosen.” ˹Ask the disbelievers,˺ “Which is better: Allah or whatever
   ˹gods˺ they associate ˹with Him˺?”'
@@ -10,19 +10,19 @@ word_by_word:
     translation: Say
     transliteration: quli
   2:
-    arabic: الۡحَمۡدُ
+    arabic: ٱلۡحَمۡدُ
     translation: All praise (be)
     transliteration: l-ḥamdu
   3:
-    arabic: لِلّٰهِ
+    arabic: لِلَّهِ
     translation: to Allah
     transliteration: lillahi
   4:
-    arabic: وَسَلٰمٌ
+    arabic: وَسَلَٰمٌ
     translation: and peace (be)
     transliteration: wasalāmun
   5:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: upon
     transliteration: ʿalā
   6:
@@ -30,15 +30,15 @@ word_by_word:
     translation: His slaves
     transliteration: ʿibādihi
   7:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those whom
     transliteration: alladhīna
   8:
-    arabic: اصۡطَفٰىؕ
+    arabic: ٱصۡطَفَىٰٓۗ
     translation: He has chosen
     transliteration: iṣ'ṭafā
   9:
-    arabic: ءٰۤللّٰهُ
+    arabic: ءَآللَّهُ
     translation: Is Allah
     transliteration: āllahu
   10:
@@ -46,11 +46,11 @@ word_by_word:
     translation: better
     transliteration: khayrun
   11:
-    arabic: اَمَّا
+    arabic: أَمَّا
     translation: or what
     transliteration: ammā
   12:
-    arabic: يُشۡرِكُوۡنَؕ‏
+    arabic: يُشۡرِكُونَ
     translation: they associate (with Him)
     transliteration: yush'rikūna
 ---

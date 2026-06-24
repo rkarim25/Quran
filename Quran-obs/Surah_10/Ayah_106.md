@@ -1,6 +1,6 @@
 ---
-arabic_ayat: وَلَا تَدۡعُ مِنۡ دُوۡنِ اللّٰهِ مَا لَا يَنۡفَعُكَ وَ لَا يَضُرُّكَ​ۚ
-  فَاِنۡ فَعَلۡتَ فَاِنَّكَ اِذًا مِّنَ الظّٰلِمِيۡنَ‏
+arabic_ayat: وَلَا تَدۡعُ مِن دُونِ ٱللَّهِ مَا لَا يَنفَعُكَ وَلَا يَضُرُّكَۖ فَإِن
+  فَعَلۡتَ فَإِنَّكَ إِذٗا مِّنَ ٱلظَّٰلِمِينَ
 sentence_translation: and ‘Do not invoke, instead of Allah, what can neither benefit
   nor harm you—for if you do, then you will certainly be one of the wrongdoers,’
 word_by_word:
@@ -13,15 +13,15 @@ word_by_word:
     translation: invoke
     transliteration: tadʿu
   3:
-    arabic: مِنۡ
+    arabic: مِن
     translation: besides Allah
     transliteration: min
   4:
-    arabic: دُوۡنِ
+    arabic: دُونِ
     translation: besides Allah
     transliteration: dūni
   5:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: besides Allah
     transliteration: l-lahi
   6:
@@ -33,19 +33,19 @@ word_by_word:
     translation: (will) not
     transliteration: lā
   8:
-    arabic: يَنۡفَعُكَ
+    arabic: يَنفَعُكَ
     translation: benefit you
     transliteration: yanfaʿuka
   9:
-    arabic: وَ لَا
+    arabic: وَلَا
     translation: and not
     transliteration: walā
   10:
-    arabic: يَضُرُّكَ​ۚ
+    arabic: يَضُرُّكَۖ
     translation: harm you
     transliteration: yaḍurruka
   11:
-    arabic: فَاِنۡ
+    arabic: فَإِن
     translation: But if
     transliteration: fa-in
   12:
@@ -53,11 +53,11 @@ word_by_word:
     translation: you did so
     transliteration: faʿalta
   13:
-    arabic: فَاِنَّكَ
+    arabic: فَإِنَّكَ
     translation: indeed, you
     transliteration: fa-innaka
   14:
-    arabic: اِذًا
+    arabic: إِذٗا
     translation: then (will be)
     transliteration: idhan
   15:
@@ -65,7 +65,7 @@ word_by_word:
     translation: of
     transliteration: mina
   16:
-    arabic: الظّٰلِمِيۡنَ‏
+    arabic: ٱلظَّٰلِمِينَ
     translation: the wrongdoers
     transliteration: l-ẓālimīna
 ---

@@ -1,6 +1,6 @@
 ---
-arabic_ayat: قَالَ اَفَتَعۡبُدُوۡنَ مِنۡ دُوۡنِ اللّٰهِ مَا لَا يَنۡفَعُكُمۡ شَيۡـًٔـا
-  وَّلَا يَضُرُّكُمۡؕ‏
+arabic_ayat: قَالَ أَفَتَعۡبُدُونَ مِن دُونِ ٱللَّهِ مَا لَا يَنفَعُكُمۡ شَيۡـٔٗا
+  وَلَا يَضُرُّكُمۡ
 sentence_translation: He rebuked ˹them˺, “Do you then worship—instead of Allah—what
   can neither benefit nor harm you in any way?
 word_by_word:
@@ -9,19 +9,19 @@ word_by_word:
     translation: He said
     transliteration: qāla
   2:
-    arabic: اَفَتَعۡبُدُوۡنَ
+    arabic: أَفَتَعۡبُدُونَ
     translation: Then do you worship
     transliteration: afataʿbudūna
   3:
-    arabic: مِنۡ
+    arabic: مِن
     translation: besides
     transliteration: min
   4:
-    arabic: دُوۡنِ
+    arabic: دُونِ
     translation: besides
     transliteration: dūni
   5:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   6:
@@ -33,19 +33,19 @@ word_by_word:
     translation: (does) not
     transliteration: lā
   8:
-    arabic: يَنۡفَعُكُمۡ
+    arabic: يَنفَعُكُمۡ
     translation: benefit you
     transliteration: yanfaʿukum
   9:
-    arabic: شَيۡـًٔـا
+    arabic: شَيۡـٔٗا
     translation: (in) anything
     transliteration: shayan
   10:
-    arabic: وَّلَا
+    arabic: وَلَا
     translation: and not
     transliteration: walā
   11:
-    arabic: يَضُرُّكُمۡؕ‏
+    arabic: يَضُرُّكُمۡ
     translation: harms you
     transliteration: yaḍurrukum
 ---

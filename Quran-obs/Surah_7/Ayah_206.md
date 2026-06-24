@@ -1,19 +1,19 @@
 ---
-arabic_ayat: اِنَّ الَّذِيۡنَ عِنۡدَ رَبِّكَ لَا يَسۡتَكۡبِرُوۡنَ عَنۡ عِبَادَتِهٖ
-  وَيُسَبِّحُوۡنَهٗ وَلَهٗ يَسۡجُدُوۡنَ۩‏
+arabic_ayat: إِنَّ ٱلَّذِينَ عِندَ رَبِّكَ لَا يَسۡتَكۡبِرُونَ عَنۡ عِبَادَتِهِۦ وَيُسَبِّحُونَهُۥ
+  وَلَهُۥ يَسۡجُدُونَۤ۩
 sentence_translation: Surely those ˹angels˺ nearest to your Lord are not too proud
   to worship Him. They glorify Him. And to Him they prostrate.
 word_by_word:
   1:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   3:
-    arabic: عِنۡدَ
+    arabic: عِندَ
     translation: (are) near
     transliteration: ʿinda
   4:
@@ -25,7 +25,7 @@ word_by_word:
     translation: not
     transliteration: lā
   6:
-    arabic: يَسۡتَكۡبِرُوۡنَ
+    arabic: يَسۡتَكۡبِرُونَ
     translation: (do) they turn away in pride
     transliteration: yastakbirūna
   7:
@@ -33,19 +33,19 @@ word_by_word:
     translation: from
     transliteration: ʿan
   8:
-    arabic: عِبَادَتِهٖ
+    arabic: عِبَادَتِهِۦ
     translation: His worship
     transliteration: ʿibādatihi
   9:
-    arabic: وَيُسَبِّحُوۡنَهٗ
+    arabic: وَيُسَبِّحُونَهُۥ
     translation: And they glorify Him
     transliteration: wayusabbiḥūnahu
   10:
-    arabic: وَلَهٗ
+    arabic: وَلَهُۥ
     translation: and to Him
     transliteration: walahu
   11:
-    arabic: يَسۡجُدُوۡنَ ۩
+    arabic: يَسۡجُدُونَۤ۩
     translation: they prostrate
     transliteration: yasjudūna
 ---

@@ -1,25 +1,25 @@
 ---
-arabic_ayat: اُدۡخُلُوا الۡجَنَّةَ اَنۡتُمۡ وَاَزۡوَاجُكُمۡ تُحۡبَرُوۡنَ​‏
+arabic_ayat: ٱدۡخُلُواْ ٱلۡجَنَّةَ أَنتُمۡ وَأَزۡوَٰجُكُمۡ تُحۡبَرُونَ
 sentence_translation: Enter Paradise, you and your spouses, rejoicing.”
 word_by_word:
   1:
-    arabic: اُدۡخُلُوا
+    arabic: ٱدۡخُلُواْ
     translation: Enter
     transliteration: ud'khulū
   2:
-    arabic: الۡجَنَّةَ
+    arabic: ٱلۡجَنَّةَ
     translation: Paradise
     transliteration: l-janata
   3:
-    arabic: اَنۡتُمۡ
+    arabic: أَنتُمۡ
     translation: you
     transliteration: antum
   4:
-    arabic: وَاَزۡوَاجُكُمۡ
+    arabic: وَأَزۡوَٰجُكُمۡ
     translation: and your spouses
     transliteration: wa-azwājukum
   5:
-    arabic: تُحۡبَرُوۡنَ​‏
+    arabic: تُحۡبَرُونَ
     translation: delighted
     transliteration: tuḥ'barūna
 ---

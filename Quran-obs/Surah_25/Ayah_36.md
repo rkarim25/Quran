@@ -1,6 +1,6 @@
 ---
-arabic_ayat: فَقُلۡنَا اذۡهَبَاۤ اِلَى الۡقَوۡمِ الَّذِيۡنَ كَذَّبُوۡا بِاٰيٰتِنَاؕ
-  فَدَمَّرۡنٰهُمۡ تَدۡمِيۡرًاؕ‏
+arabic_ayat: فَقُلۡنَا ٱذۡهَبَآ إِلَى ٱلۡقَوۡمِ ٱلَّذِينَ كَذَّبُواْ بِـَٔايَٰتِنَا
+  فَدَمَّرۡنَٰهُمۡ تَدۡمِيرٗا
 sentence_translation: We had ordered ˹them˺, “Go to the people who would deny Our
   signs.” Then We annihilated the deniers entirely.
 word_by_word:
@@ -9,35 +9,35 @@ word_by_word:
     translation: Then We said
     transliteration: faqul'nā
   2:
-    arabic: اذۡهَبَاۤ
+    arabic: ٱذۡهَبَآ
     translation: Go both of you
     transliteration: idh'habā
   3:
-    arabic: اِلَى
+    arabic: إِلَى
     translation: to
     transliteration: ilā
   4:
-    arabic: الۡقَوۡمِ
+    arabic: ٱلۡقَوۡمِ
     translation: the people
     transliteration: l-qawmi
   5:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   6:
-    arabic: كَذَّبُوۡا
+    arabic: كَذَّبُواْ
     translation: have denied
     transliteration: kadhabū
   7:
-    arabic: بِاٰيٰتِنَاؕ
+    arabic: بِـَٔايَٰتِنَا
     translation: Our Signs
     transliteration: biāyātinā
   8:
-    arabic: فَدَمَّرۡنٰهُمۡ
+    arabic: فَدَمَّرۡنَٰهُمۡ
     translation: Then We destroyed them
     transliteration: fadammarnāhum
   9:
-    arabic: تَدۡمِيۡرًاؕ‏
+    arabic: تَدۡمِيرٗا
     translation: (with) destruction
     transliteration: tadmīran
 ---

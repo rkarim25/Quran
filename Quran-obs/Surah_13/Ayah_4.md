@@ -1,31 +1,30 @@
 ---
-arabic_ayat: "وَ فِى الۡاَرۡضِ قِطَعٌ مُّتَجٰوِرٰتٌ وَّجَنّٰتٌ مِّنۡ اَعۡنَابٍ وَّزَرۡعٌ\
-  \ وَّنَخِيۡلٌ صِنۡوَانٌ وَّغَيۡرُ صِنۡوَانٍ يُّسۡقٰى بِمَآءٍ وَّاحِدٍ وَنُفَضِّلُ\
-  \ بَعۡضَهَا عَلٰى بَعۡضٍ فِى الۡاُكُلِ​ؕ اِنَّ فِىۡ ذٰ لِكَ لَاٰيٰتٍ لِّـقَوۡمٍ\
-  \ يَّعۡقِلُوۡنَ‏ \uFEFF\uFEFF"
+arabic_ayat: وَفِي ٱلۡأَرۡضِ قِطَعٞ مُّتَجَٰوِرَٰتٞ وَجَنَّٰتٞ مِّنۡ أَعۡنَٰبٖ وَزَرۡعٞ
+  وَنَخِيلٞ صِنۡوَانٞ وَغَيۡرُ صِنۡوَانٖ يُسۡقَىٰ بِمَآءٖ وَٰحِدٖ وَنُفَضِّلُ بَعۡضَهَا
+  عَلَىٰ بَعۡضٖ فِي ٱلۡأُكُلِۚ إِنَّ فِي ذَٰلِكَ لَأٓيَٰتٖ لِّقَوۡمٖ يَعۡقِلُونَ
 sentence_translation: And on the earth there are ˹different˺ neighbouring tracts,
   gardens of grapevines, ˹various˺ crops, palm trees—some stemming from the same root,
   others standing alone. They are all irrigated with the same water, yet We make some
   taste better than others. Surely in this are signs for those who understand.
 word_by_word:
   1:
-    arabic: وَ فِى
+    arabic: وَفِي
     translation: And in
     transliteration: wafī
   2:
-    arabic: الۡاَرۡضِ
+    arabic: ٱلۡأَرۡضِ
     translation: the earth
     transliteration: l-arḍi
   3:
-    arabic: قِطَعٌ
+    arabic: قِطَعٞ
     translation: are tracks
     transliteration: qiṭaʿun
   4:
-    arabic: مُّتَجٰوِرٰتٌ
+    arabic: مُّتَجَٰوِرَٰتٞ
     translation: neighboring
     transliteration: mutajāwirātun
   5:
-    arabic: وَّجَنّٰتٌ
+    arabic: وَجَنَّٰتٞ
     translation: and gardens
     transliteration: wajannātun
   6:
@@ -33,39 +32,39 @@ word_by_word:
     translation: of
     transliteration: min
   7:
-    arabic: اَعۡنَابٍ
+    arabic: أَعۡنَٰبٖ
     translation: grapevines
     transliteration: aʿnābin
   8:
-    arabic: وَّزَرۡعٌ
+    arabic: وَزَرۡعٞ
     translation: and crops
     transliteration: wazarʿun
   9:
-    arabic: وَّنَخِيۡلٌ
+    arabic: وَنَخِيلٞ
     translation: and date-palms
     transliteration: wanakhīlun
   10:
-    arabic: صِنۡوَانٌ
+    arabic: صِنۡوَانٞ
     translation: trees (growing) from a single root
     transliteration: ṣin'wānun
   11:
-    arabic: وَّغَيۡرُ
+    arabic: وَغَيۡرُ
     translation: and not
     transliteration: waghayru
   12:
-    arabic: صِنۡوَانٍ
+    arabic: صِنۡوَانٖ
     translation: trees (growing) from a single root
     transliteration: ṣin'wānin
   13:
-    arabic: يُّسۡقٰى
+    arabic: يُسۡقَىٰ
     translation: watered
     transliteration: yus'qā
   14:
-    arabic: بِمَآءٍ
+    arabic: بِمَآءٖ
     translation: with water
     transliteration: bimāin
   15:
-    arabic: وَّاحِدٍ
+    arabic: وَٰحِدٖ
     translation: one
     transliteration: wāḥidin
   16:
@@ -77,43 +76,43 @@ word_by_word:
     translation: some of them
     transliteration: baʿḍahā
   18:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: over
     transliteration: ʿalā
   19:
-    arabic: بَعۡضٍ
+    arabic: بَعۡضٖ
     translation: others
     transliteration: baʿḍin
   20:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   21:
-    arabic: الۡاُكُلِ​ؕ
+    arabic: ٱلۡأُكُلِۚ
     translation: the fruit
     transliteration: l-ukuli
   22:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   23:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   24:
-    arabic: ذٰ لِكَ
+    arabic: ذَٰلِكَ
     translation: that
     transliteration: dhālika
   25:
-    arabic: لَاٰيٰتٍ
+    arabic: لَأٓيَٰتٖ
     translation: surely (are) Signs
     transliteration: laāyātin
   26:
-    arabic: لِّـقَوۡمٍ
+    arabic: لِّقَوۡمٖ
     translation: for a people
     transliteration: liqawmin
   27:
-    arabic: "يَّعۡقِلُوۡنَ‏ \uFEFF\uFEFF"
+    arabic: يَعۡقِلُونَ
     translation: who use reason
     transliteration: yaʿqilūna
 ---

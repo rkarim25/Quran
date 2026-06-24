@@ -1,13 +1,13 @@
 ---
-arabic_ayat: اِنَّا سَنُلۡقِىۡ عَلَيۡكَ قَوۡلًا ثَقِيۡلًا‏
+arabic_ayat: إِنَّا سَنُلۡقِي عَلَيۡكَ قَوۡلٗا ثَقِيلًا
 sentence_translation: ˹For˺ We will soon send upon you a weighty revelation.
 word_by_word:
   1:
-    arabic: اِنَّا
+    arabic: إِنَّا
     translation: Indeed, We
     transliteration: innā
   2:
-    arabic: سَنُلۡقِىۡ
+    arabic: سَنُلۡقِي
     translation: will cast
     transliteration: sanul'qī
   3:
@@ -15,11 +15,11 @@ word_by_word:
     translation: upon you
     transliteration: ʿalayka
   4:
-    arabic: قَوۡلًا
+    arabic: قَوۡلٗا
     translation: a Word
     transliteration: qawlan
   5:
-    arabic: ثَقِيۡلًا‏
+    arabic: ثَقِيلًا
     translation: heavy
     transliteration: thaqīlan
 ---

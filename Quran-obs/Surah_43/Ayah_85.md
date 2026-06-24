@@ -1,20 +1,20 @@
 ---
-arabic_ayat: وَتَبٰـرَكَ الَّذِىۡ لَهٗ مُلۡكُ السَّمٰوٰتِ وَالۡاَرۡضِ وَمَا بَيۡنَهُمَا​
-  ۚ وَعِنۡدَهٗ عِلۡمُ السَّاعَةِ​ ۚ وَاِلَيۡهِ تُرۡجَعُوۡنَ‏
+arabic_ayat: وَتَبَارَكَ ٱلَّذِي لَهُۥ مُلۡكُ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِ وَمَا بَيۡنَهُمَا
+  وَعِندَهُۥ عِلۡمُ ٱلسَّاعَةِ وَإِلَيۡهِ تُرۡجَعُونَ
 sentence_translation: And Blessed is the One to Whom belongs the kingdom of the heavens
   and the earth and everything in between! With Him ˹alone˺ is the knowledge of the
   Hour. And to Him you will ˹all˺ be returned.
 word_by_word:
   1:
-    arabic: وَتَبٰـرَكَ
+    arabic: وَتَبَارَكَ
     translation: And blessed (is)
     transliteration: watabāraka
   2:
-    arabic: الَّذِىۡ
+    arabic: ٱلَّذِي
     translation: 'the One Who '
     transliteration: alladhī
   3:
-    arabic: لَهٗ
+    arabic: لَهُۥ
     translation: to Whom
     transliteration: lahu
   4:
@@ -22,11 +22,11 @@ word_by_word:
     translation: (belongs the) dominion
     transliteration: mul'ku
   5:
-    arabic: السَّمٰوٰتِ
+    arabic: ٱلسَّمَٰوَٰتِ
     translation: (of) the heavens
     transliteration: l-samāwāti
   6:
-    arabic: وَالۡاَرۡضِ
+    arabic: وَٱلۡأَرۡضِ
     translation: and the earth
     transliteration: wal-arḍi
   7:
@@ -34,11 +34,11 @@ word_by_word:
     translation: and whatever
     transliteration: wamā
   8:
-    arabic: بَيۡنَهُمَا​ ۚ
+    arabic: بَيۡنَهُمَا
     translation: (is) between both of them
     transliteration: baynahumā
   9:
-    arabic: وَعِنۡدَهٗ
+    arabic: وَعِندَهُۥ
     translation: and with Him
     transliteration: waʿindahu
   10:
@@ -46,15 +46,15 @@ word_by_word:
     translation: (is the) knowledge
     transliteration: ʿil'mu
   11:
-    arabic: السَّاعَةِ​ ۚ
+    arabic: ٱلسَّاعَةِ
     translation: (of) the Hour
     transliteration: l-sāʿati
   12:
-    arabic: وَاِلَيۡهِ
+    arabic: وَإِلَيۡهِ
     translation: and to Him
     transliteration: wa-ilayhi
   13:
-    arabic: تُرۡجَعُوۡنَ‏
+    arabic: تُرۡجَعُونَ
     translation: you will be returned
     transliteration: tur'jaʿūna
 ---

@@ -1,28 +1,28 @@
 ---
-arabic_ayat: اَ فَمَنۡ يَّتَّقِىۡ بِوَجۡهِهٖ سُوۡٓءَ الۡعَذَابِ يَوۡمَ الۡقِيٰمَةِ​
-  ؕ وَقِيۡلَ لِلظّٰلِمِيۡنَ ذُوۡقُوۡا مَا كُنۡـتُمۡ تَكۡسِبُوۡنَ‏
+arabic_ayat: أَفَمَن يَتَّقِي بِوَجۡهِهِۦ سُوٓءَ ٱلۡعَذَابِ يَوۡمَ ٱلۡقِيَٰمَةِۚ وَقِيلَ
+  لِلظَّٰلِمِينَ ذُوقُواْ مَا كُنتُمۡ تَكۡسِبُونَ
 sentence_translation: 'Are those who will only have their ˹bare˺ faces to shield themselves
   from the awful torment on Judgment Day ˹better than those in Paradise˺? It will
   ˹then˺ be said to the wrongdoers: “Reap what you sowed!”'
 word_by_word:
   1:
-    arabic: اَ فَمَنۡ
+    arabic: أَفَمَن
     translation: Then (is) he who
     transliteration: afaman
   2:
-    arabic: يَّتَّقِىۡ
+    arabic: يَتَّقِي
     translation: will shield
     transliteration: yattaqī
   3:
-    arabic: بِوَجۡهِهٖ
+    arabic: بِوَجۡهِهِۦ
     translation: with his face
     transliteration: biwajhihi
   4:
-    arabic: سُوۡٓءَ
+    arabic: سُوٓءَ
     translation: (the) worst
     transliteration: sūa
   5:
-    arabic: الۡعَذَابِ
+    arabic: ٱلۡعَذَابِ
     translation: punishment
     transliteration: l-ʿadhābi
   6:
@@ -30,19 +30,19 @@ word_by_word:
     translation: (on the) Day
     transliteration: yawma
   7:
-    arabic: الۡقِيٰمَةِ​ ؕ
+    arabic: ٱلۡقِيَٰمَةِۚ
     translation: (of) the Resurrection
     transliteration: l-qiyāmati
   8:
-    arabic: وَقِيۡلَ
+    arabic: وَقِيلَ
     translation: And it will be said
     transliteration: waqīla
   9:
-    arabic: لِلظّٰلِمِيۡنَ
+    arabic: لِلظَّٰلِمِينَ
     translation: to the wrongdoers
     transliteration: lilẓẓālimīna
   10:
-    arabic: ذُوۡقُوۡا
+    arabic: ذُوقُواْ
     translation: Taste
     transliteration: dhūqū
   11:
@@ -50,11 +50,11 @@ word_by_word:
     translation: what
     transliteration: mā
   12:
-    arabic: كُنۡـتُمۡ
+    arabic: كُنتُمۡ
     translation: you used to
     transliteration: kuntum
   13:
-    arabic: تَكۡسِبُوۡنَ‏
+    arabic: تَكۡسِبُونَ
     translation: earn
     transliteration: taksibūna
 ---

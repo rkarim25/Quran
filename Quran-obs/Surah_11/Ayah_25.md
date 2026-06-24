@@ -1,6 +1,5 @@
 ---
-arabic_ayat: "وَلَقَدۡ اَرۡسَلۡنَا نُوۡحًا اِلٰى قَوۡمِهٖۤ اِنِّىۡ لَـكُمۡ نَذِيۡرٌ\
-  \ مُّبِيۡنٌۙ‏ \uFEFF\uFEFF"
+arabic_ayat: وَلَقَدۡ أَرۡسَلۡنَا نُوحًا إِلَىٰ قَوۡمِهِۦٓ إِنِّي لَكُمۡ نَذِيرٞ مُّبِينٌ
 sentence_translation: Surely We sent Noah to his people. ˹He said,˺ “Indeed, I am
   sent to you with a clear warning
 word_by_word:
@@ -9,35 +8,35 @@ word_by_word:
     translation: And verily
     transliteration: walaqad
   2:
-    arabic: اَرۡسَلۡنَا
+    arabic: أَرۡسَلۡنَا
     translation: We sent
     transliteration: arsalnā
   3:
-    arabic: نُوۡحًا
+    arabic: نُوحًا
     translation: Nuh
     transliteration: nūḥan
   4:
-    arabic: اِلٰى
+    arabic: إِلَىٰ
     translation: to
     transliteration: ilā
   5:
-    arabic: قَوۡمِهٖۤ
+    arabic: قَوۡمِهِۦٓ
     translation: his people
     transliteration: qawmihi
   6:
-    arabic: اِنِّىۡ
+    arabic: إِنِّي
     translation: Indeed, I am
     transliteration: innī
   7:
-    arabic: لَـكُمۡ
+    arabic: لَكُمۡ
     translation: to you
     transliteration: lakum
   8:
-    arabic: نَذِيۡرٌ
+    arabic: نَذِيرٞ
     translation: a warner
     transliteration: nadhīrun
   9:
-    arabic: "مُّبِيۡنٌۙ‏ \uFEFF\uFEFF"
+    arabic: مُّبِينٌ
     translation: clear
     transliteration: mubīnun
 ---

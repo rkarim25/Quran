@@ -1,31 +1,31 @@
 ---
-arabic_ayat: وَاِنۡ مِّنۡ شَىۡءٍ اِلَّا عِنۡدَنَا خَزَآٮِٕنُهٗ وَمَا نُنَزِّلُهٗۤ
-  اِلَّا بِقَدَرٍ مَّعۡلُوۡمٍ‏
+arabic_ayat: وَإِن مِّن شَيۡءٍ إِلَّا عِندَنَا خَزَآئِنُهُۥ وَمَا نُنَزِّلُهُۥٓ إِلَّا
+  بِقَدَرٖ مَّعۡلُومٖ
 sentence_translation: There is not any means ˹of sustenance˺ whose reserves We do
   not hold, only bringing it forth in precise measure.
 word_by_word:
   1:
-    arabic: وَاِنۡ
+    arabic: وَإِن
     translation: And not
     transliteration: wa-in
   2:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: (is) any
     transliteration: min
   3:
-    arabic: شَىۡءٍ
+    arabic: شَيۡءٍ
     translation: thing
     transliteration: shayin
   4:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: but
     transliteration: illā
   5:
-    arabic: عِنۡدَنَا
+    arabic: عِندَنَا
     translation: with Us
     transliteration: ʿindanā
   6:
-    arabic: خَزَآٮِٕنُهٗ
+    arabic: خَزَآئِنُهُۥ
     translation: (are) its treasures
     transliteration: khazāinuhu
   7:
@@ -33,19 +33,19 @@ word_by_word:
     translation: and not
     transliteration: wamā
   8:
-    arabic: نُنَزِّلُهٗۤ
+    arabic: نُنَزِّلُهُۥٓ
     translation: We send it down
     transliteration: nunazziluhu
   9:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   10:
-    arabic: بِقَدَرٍ
+    arabic: بِقَدَرٖ
     translation: in a measure
     transliteration: biqadarin
   11:
-    arabic: مَّعۡلُوۡمٍ‏
+    arabic: مَّعۡلُومٖ
     translation: known
     transliteration: maʿlūmin
 ---

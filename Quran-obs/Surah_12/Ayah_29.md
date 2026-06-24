@@ -1,15 +1,15 @@
 ---
-arabic_ayat: يُوۡسُفُ اَعۡرِضۡ عَنۡ هٰذَا وَاسۡتَغۡفِرِىۡ لِذَنۡۢبِكِ ۖ ​ۚ اِنَّكِ
-  كُنۡتِ مِنَ الۡخٰطِٮـِٕيۡنَ‏
+arabic_ayat: يُوسُفُ أَعۡرِضۡ عَنۡ هَٰذَاۚ وَٱسۡتَغۡفِرِي لِذَنۢبِكِۖ إِنَّكِ كُنتِ
+  مِنَ ٱلۡخَاطِـِٔينَ
 sentence_translation: O  Joseph! Forget about this. And you ˹O wife˺! Seek forgiveness
   for your sin. It certainly has been your fault.”
 word_by_word:
   1:
-    arabic: يُوۡسُفُ
+    arabic: يُوسُفُ
     translation: Yusuf
     transliteration: yūsufu
   2:
-    arabic: اَعۡرِضۡ
+    arabic: أَعۡرِضۡ
     translation: turn away
     transliteration: aʿriḍ
   3:
@@ -17,23 +17,23 @@ word_by_word:
     translation: from
     transliteration: ʿan
   4:
-    arabic: هٰذَا
+    arabic: هَٰذَاۚ
     translation: this
     transliteration: hādhā
   5:
-    arabic: وَاسۡتَغۡفِرِىۡ
+    arabic: وَٱسۡتَغۡفِرِي
     translation: And ask forgiveness
     transliteration: wa-is'taghfirī
   6:
-    arabic: لِذَنۡۢبِكِ ۖ ​ۚ
+    arabic: لِذَنۢبِكِۖ
     translation: for your sin
     transliteration: lidhanbiki
   7:
-    arabic: اِنَّكِ
+    arabic: إِنَّكِ
     translation: Indeed, you
     transliteration: innaki
   8:
-    arabic: كُنۡتِ
+    arabic: كُنتِ
     translation: are
     transliteration: kunti
   9:
@@ -41,7 +41,7 @@ word_by_word:
     translation: of
     transliteration: mina
   10:
-    arabic: الۡخٰطِٮـِٕيۡنَ‏
+    arabic: ٱلۡخَاطِـِٔينَ
     translation: the sinful
     transliteration: l-khāṭiīna
 ---

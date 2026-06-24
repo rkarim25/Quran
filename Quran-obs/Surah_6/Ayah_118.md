@@ -1,11 +1,11 @@
 ---
-arabic_ayat: "فَـكُلُوۡا مِمَّا ذُكِرَ اسۡمُ اللّٰهِ عَلَيۡهِ اِنۡ كُنۡتُمۡ بِاٰيٰتِهٖ\
-  \ مُؤۡمِنِيۡنَ‏ \uFEFF\uFEFF"
+arabic_ayat: فَكُلُواْ مِمَّا ذُكِرَ ٱسۡمُ ٱللَّهِ عَلَيۡهِ إِن كُنتُم بِـَٔايَٰتِهِۦ
+  مُؤۡمِنِينَ
 sentence_translation: So eat only of what is slaughtered in Allah’s Name if you truly
   believe in His revelations.
 word_by_word:
   1:
-    arabic: فَـكُلُوۡا
+    arabic: فَكُلُواْ
     translation: So eat
     transliteration: fakulū
   2:
@@ -17,11 +17,11 @@ word_by_word:
     translation: (is) mentioned
     transliteration: dhukira
   4:
-    arabic: اسۡمُ
+    arabic: ٱسۡمُ
     translation: (the) name
     transliteration: us'mu
   5:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (of) Allah
     transliteration: l-lahi
   6:
@@ -29,19 +29,19 @@ word_by_word:
     translation: on it
     transliteration: ʿalayhi
   7:
-    arabic: اِنۡ
+    arabic: إِن
     translation: if
     transliteration: in
   8:
-    arabic: كُنۡتُمۡ
+    arabic: كُنتُم
     translation: you are
     transliteration: kuntum
   9:
-    arabic: بِاٰيٰتِهٖ
+    arabic: بِـَٔايَٰتِهِۦ
     translation: 'in His Verses '
     transliteration: biāyātihi
   10:
-    arabic: "مُؤۡمِنِيۡنَ‏ \uFEFF\uFEFF"
+    arabic: مُؤۡمِنِينَ
     translation: believers
     transliteration: mu'minīna
 ---

@@ -1,32 +1,32 @@
 ---
-arabic_ayat: يَوۡمَٮِٕذٍ يَّوَدُّ الَّذِيۡنَ كَفَرُوۡا وَعَصَوُا الرَّسُوۡلَ لَوۡ
-  تُسَوّٰى بِهِمُ الۡاَرۡضُ ؕ وَلَا يَكۡتُمُوۡنَ اللّٰهَ حَدِيۡـثًا‏
+arabic_ayat: يَوۡمَئِذٖ يَوَدُّ ٱلَّذِينَ كَفَرُواْ وَعَصَوُاْ ٱلرَّسُولَ لَوۡ تُسَوَّىٰ
+  بِهِمُ ٱلۡأَرۡضُ وَلَا يَكۡتُمُونَ ٱللَّهَ حَدِيثٗا
 sentence_translation: On that Day, those who denied ˹Allah˺ and disobeyed the Messenger
   will wish they were reduced to dust. And they will never be able to hide anything
   from Allah. 
 word_by_word:
   1:
-    arabic: يَوۡمَٮِٕذٍ
+    arabic: يَوۡمَئِذٖ
     translation: (On) that Day
     transliteration: yawma-idhin
   2:
-    arabic: يَّوَدُّ
+    arabic: يَوَدُّ
     translation: will wish
     transliteration: yawaddu
   3:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   4:
-    arabic: كَفَرُوۡا
+    arabic: كَفَرُواْ
     translation: disbelieved
     transliteration: kafarū
   5:
-    arabic: وَعَصَوُا
+    arabic: وَعَصَوُاْ
     translation: and disobeyed
     transliteration: waʿaṣawū
   6:
-    arabic: الرَّسُوۡلَ
+    arabic: ٱلرَّسُولَ
     translation: the Messenger
     transliteration: l-rasūla
   7:
@@ -34,7 +34,7 @@ word_by_word:
     translation: if
     transliteration: law
   8:
-    arabic: تُسَوّٰى
+    arabic: تُسَوَّىٰ
     translation: was leveled
     transliteration: tusawwā
   9:
@@ -42,7 +42,7 @@ word_by_word:
     translation: with them
     transliteration: bihimu
   10:
-    arabic: الۡاَرۡضُ ؕ
+    arabic: ٱلۡأَرۡضُ
     translation: the earth
     transliteration: l-arḍu
   11:
@@ -50,15 +50,15 @@ word_by_word:
     translation: and not
     transliteration: walā
   12:
-    arabic: يَكۡتُمُوۡنَ
+    arabic: يَكۡتُمُونَ
     translation: they will (be able to) hide
     transliteration: yaktumūna
   13:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: (from) Allah
     transliteration: l-laha
   14:
-    arabic: حَدِيۡـثًا‏
+    arabic: حَدِيثٗا
     translation: (any) statement
     transliteration: ḥadīthan
 ---

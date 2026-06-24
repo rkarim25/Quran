@@ -1,13 +1,13 @@
 ---
-arabic_ayat: وَالۡعٰدِيٰتِ ضَبۡحًا ۙ‏
+arabic_ayat: وَٱلۡعَٰدِيَٰتِ ضَبۡحٗا
 sentence_translation: ’ By the galloping, panting horses,
 word_by_word:
   1:
-    arabic: وَالۡعٰدِيٰتِ
+    arabic: وَٱلۡعَٰدِيَٰتِ
     translation: By the racers
     transliteration: wal-ʿādiyāti
   2:
-    arabic: ضَبۡحًا ۙ‏
+    arabic: ضَبۡحٗا
     translation: panting
     transliteration: ḍabḥan
 ---

@@ -1,11 +1,10 @@
 ---
-arabic_ayat: "دَرَجٰتٍ مِّنۡهُ وَمَغۡفِرَةً وَّرَحۡمَةً​ ؕ وَكَانَ اللّٰهُ غَفُوۡرًا\
-  \ رَّحِيۡمًا‏ \uFEFF\uFEFF"
+arabic_ayat: دَرَجَٰتٖ مِّنۡهُ وَمَغۡفِرَةٗ وَرَحۡمَةٗۚ وَكَانَ ٱللَّهُ غَفُورٗا رَّحِيمًا
 sentence_translation: far superior ranks, forgiveness, and mercy from Him. And Allah
   is All-Forgiving, Most Merciful.
 word_by_word:
   1:
-    arabic: دَرَجٰتٍ
+    arabic: دَرَجَٰتٖ
     translation: Ranks
     transliteration: darajātin
   2:
@@ -13,11 +12,11 @@ word_by_word:
     translation: from Him
     transliteration: min'hu
   3:
-    arabic: وَمَغۡفِرَةً
+    arabic: وَمَغۡفِرَةٗ
     translation: and forgiveness
     transliteration: wamaghfiratan
   4:
-    arabic: وَّرَحۡمَةً​ ؕ
+    arabic: وَرَحۡمَةٗۚ
     translation: and mercy
     transliteration: waraḥmatan
   5:
@@ -25,15 +24,15 @@ word_by_word:
     translation: And is
     transliteration: wakāna
   6:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   7:
-    arabic: غَفُوۡرًا
+    arabic: غَفُورٗا
     translation: Oft-Forgiving
     transliteration: ghafūran
   8:
-    arabic: "رَّحِيۡمًا‏ \uFEFF\uFEFF"
+    arabic: رَّحِيمًا
     translation: Most Merciful
     transliteration: raḥīman
 ---

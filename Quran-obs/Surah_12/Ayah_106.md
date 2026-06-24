@@ -1,5 +1,5 @@
 ---
-arabic_ayat: وَمَا يُؤۡمِنُ اَكۡثَرُهُمۡ بِاللّٰهِ اِلَّا وَهُمۡ مُّشۡرِكُوۡنَ‏
+arabic_ayat: وَمَا يُؤۡمِنُ أَكۡثَرُهُم بِٱللَّهِ إِلَّا وَهُم مُّشۡرِكُونَ
 sentence_translation: And most of them do not believe in Allah without associating
   others with Him ˹in worship˺.
 word_by_word:
@@ -12,23 +12,23 @@ word_by_word:
     translation: believe
     transliteration: yu'minu
   3:
-    arabic: اَكۡثَرُهُمۡ
+    arabic: أَكۡثَرُهُم
     translation: most of them
     transliteration: aktharuhum
   4:
-    arabic: بِاللّٰهِ
+    arabic: بِٱللَّهِ
     translation: in Allah
     transliteration: bil-lahi
   5:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   6:
-    arabic: وَهُمۡ
+    arabic: وَهُم
     translation: while they
     transliteration: wahum
   7:
-    arabic: مُّشۡرِكُوۡنَ‏
+    arabic: مُّشۡرِكُونَ
     translation: associate partners with Him
     transliteration: mush'rikūna
 ---

@@ -1,29 +1,29 @@
 ---
-arabic_ayat: وَاِذَا انۡقَلَبُوۡۤا اِلٰٓى اَهۡلِهِمُ انْقَلَبُوۡا فَكِهِيۡنَ  ۖ‏
+arabic_ayat: وَإِذَا ٱنقَلَبُوٓاْ إِلَىٰٓ أَهۡلِهِمُ ٱنقَلَبُواْ فَكِهِينَ
 sentence_translation: and muse ˹over these exploits˺ upon returning to their own people.
 word_by_word:
   1:
-    arabic: وَاِذَا
+    arabic: وَإِذَا
     translation: And when
     transliteration: wa-idhā
   2:
-    arabic: انۡقَلَبُوۡۤا
+    arabic: ٱنقَلَبُوٓاْ
     translation: they returned
     transliteration: inqalabū
   3:
-    arabic: اِلٰٓى
+    arabic: إِلَىٰٓ
     translation: to
     transliteration: ilā
   4:
-    arabic: اَهۡلِهِمُ
+    arabic: أَهۡلِهِمُ
     translation: their people
     transliteration: ahlihimu
   5:
-    arabic: انْقَلَبُوۡا
+    arabic: ٱنقَلَبُواْ
     translation: they would return
     transliteration: inqalabū
   6:
-    arabic: فَكِهِيۡنَ  ۖ‏
+    arabic: فَكِهِينَ
     translation: jesting
     transliteration: fakihīna
 ---

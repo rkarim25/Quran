@@ -1,6 +1,6 @@
 ---
-arabic_ayat: وَلَا تُفۡسِدُوۡا فِى الۡاَرۡضِ بَعۡدَ اِصۡلَاحِهَا وَادۡعُوۡهُ خَوۡفًا
-  وَّطَمَعًا​ ؕ اِنَّ رَحۡمَتَ اللّٰهِ قَرِيۡبٌ مِّنَ الۡمُحۡسِنِيۡنَ‏
+arabic_ayat: وَلَا تُفۡسِدُواْ فِي ٱلۡأَرۡضِ بَعۡدَ إِصۡلَٰحِهَا وَٱدۡعُوهُ خَوۡفٗا
+  وَطَمَعًاۚ إِنَّ رَحۡمَتَ ٱللَّهِ قَرِيبٞ مِّنَ ٱلۡمُحۡسِنِينَ
 sentence_translation: Do not spread corruption in the land after it has been set in
   order. And call upon Him with hope and fear. Indeed, Allah’s mercy is always close
   to the good-doers.
@@ -10,15 +10,15 @@ word_by_word:
     translation: And (do) not
     transliteration: walā
   2:
-    arabic: تُفۡسِدُوۡا
+    arabic: تُفۡسِدُواْ
     translation: cause corruption
     transliteration: tuf'sidū
   3:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   4:
-    arabic: الۡاَرۡضِ
+    arabic: ٱلۡأَرۡضِ
     translation: the earth
     transliteration: l-arḍi
   5:
@@ -26,23 +26,23 @@ word_by_word:
     translation: after
     transliteration: baʿda
   6:
-    arabic: اِصۡلَاحِهَا
+    arabic: إِصۡلَٰحِهَا
     translation: its reformation
     transliteration: iṣ'lāḥihā
   7:
-    arabic: وَادۡعُوۡهُ
+    arabic: وَٱدۡعُوهُ
     translation: And call Him
     transliteration: wa-id'ʿūhu
   8:
-    arabic: خَوۡفًا
+    arabic: خَوۡفٗا
     translation: (in) fear
     transliteration: khawfan
   9:
-    arabic: وَّطَمَعًا​ ؕ
+    arabic: وَطَمَعًاۚ
     translation: and hope
     transliteration: waṭamaʿan
   10:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   11:
@@ -50,11 +50,11 @@ word_by_word:
     translation: (the) Mercy
     transliteration: raḥmata
   12:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (of) Allah
     transliteration: l-lahi
   13:
-    arabic: قَرِيۡبٌ
+    arabic: قَرِيبٞ
     translation: (is) near
     transliteration: qarībun
   14:
@@ -62,7 +62,7 @@ word_by_word:
     translation: for
     transliteration: mina
   15:
-    arabic: الۡمُحۡسِنِيۡنَ‏
+    arabic: ٱلۡمُحۡسِنِينَ
     translation: the good-doers
     transliteration: l-muḥ'sinīna
 ---

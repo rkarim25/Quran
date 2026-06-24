@@ -1,73 +1,73 @@
 ---
-arabic_ayat: اَلَا تُقَاتِلُوۡنَ قَوۡمًا نَّكَثُوۡۤا اَيۡمَانَهُمۡ وَهَمُّوۡا بِاِخۡرَاجِ
-  الرَّسُوۡلِ وَهُمۡ بَدَءُوۡكُمۡ اَوَّلَ مَرَّةٍ​ ؕ اَتَخۡشَوۡنَهُمۡ​ ۚ فَاللّٰهُ
-  اَحَقُّ اَنۡ تَخۡشَوۡهُ اِنۡ كُنۡتُمۡ مُّؤۡمِنِيۡنَ‏
+arabic_ayat: أَلَا تُقَٰتِلُونَ قَوۡمٗا نَّكَثُوٓاْ أَيۡمَٰنَهُمۡ وَهَمُّواْ بِإِخۡرَاجِ
+  ٱلرَّسُولِ وَهُم بَدَءُوكُمۡ أَوَّلَ مَرَّةٍۚ أَتَخۡشَوۡنَهُمۡۚ فَٱللَّهُ أَحَقُّ
+  أَن تَخۡشَوۡهُ إِن كُنتُم مُّؤۡمِنِينَ
 sentence_translation: Will you not fight those who have broken their oaths, conspired
   to expel the Messenger ˹from Mecca˺, and attacked you first? Do you fear them? Allah
   is more deserving of your fear, if you are ˹true˺ believers.
 word_by_word:
   1:
-    arabic: اَلَا
+    arabic: أَلَا
     translation: Will not
     transliteration: alā
   2:
-    arabic: تُقَاتِلُوۡنَ
+    arabic: تُقَٰتِلُونَ
     translation: you fight
     transliteration: tuqātilūna
   3:
-    arabic: قَوۡمًا
+    arabic: قَوۡمٗا
     translation: a people
     transliteration: qawman
   4:
-    arabic: نَّكَثُوۡۤا
+    arabic: نَّكَثُوٓاْ
     translation: who broke
     transliteration: nakathū
   5:
-    arabic: اَيۡمَانَهُمۡ
+    arabic: أَيۡمَٰنَهُمۡ
     translation: their oaths
     transliteration: aymānahum
   6:
-    arabic: وَهَمُّوۡا
+    arabic: وَهَمُّواْ
     translation: and determined
     transliteration: wahammū
   7:
-    arabic: بِاِخۡرَاجِ
+    arabic: بِإِخۡرَاجِ
     translation: to drive out
     transliteration: bi-ikh'rāji
   8:
-    arabic: الرَّسُوۡلِ
+    arabic: ٱلرَّسُولِ
     translation: the Messenger
     transliteration: l-rasūli
   9:
-    arabic: وَهُمۡ
+    arabic: وَهُم
     translation: and they
     transliteration: wahum
   10:
-    arabic: بَدَءُوۡكُمۡ
+    arabic: بَدَءُوكُمۡ
     translation: began (to attack) you
     transliteration: badaūkum
   11:
-    arabic: اَوَّلَ
+    arabic: أَوَّلَ
     translation: first
     transliteration: awwala
   12:
-    arabic: مَرَّةٍ​ ؕ
+    arabic: مَرَّةٍۚ
     translation: time
     transliteration: marratin
   13:
-    arabic: اَتَخۡشَوۡنَهُمۡ​ ۚ
+    arabic: أَتَخۡشَوۡنَهُمۡۚ
     translation: Do you fear them
     transliteration: atakhshawnahum
   14:
-    arabic: فَاللّٰهُ
+    arabic: فَٱللَّهُ
     translation: But Allah
     transliteration: fal-lahu
   15:
-    arabic: اَحَقُّ
+    arabic: أَحَقُّ
     translation: (has) more right
     transliteration: aḥaqqu
   16:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that
     transliteration: an
   17:
@@ -75,15 +75,15 @@ word_by_word:
     translation: you should fear Him
     transliteration: takhshawhu
   18:
-    arabic: اِنۡ
+    arabic: إِن
     translation: if
     transliteration: in
   19:
-    arabic: كُنۡتُمۡ
+    arabic: كُنتُم
     translation: you are
     transliteration: kuntum
   20:
-    arabic: مُّؤۡمِنِيۡنَ‏
+    arabic: مُّؤۡمِنِينَ
     translation: believers
     transliteration: mu'minīna
 ---

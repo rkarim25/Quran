@@ -1,11 +1,11 @@
 ---
-arabic_ayat: اِنَّكَ لَا تَهۡدِىۡ مَنۡ اَحۡبَبۡتَ وَلٰـكِنَّ اللّٰهَ يَهۡدِىۡ مَنۡ
-  يَّشَآءُ​ؕ وَهُوَ اَعۡلَمُ بِالۡمُهۡتَدِيۡنَ‏
+arabic_ayat: إِنَّكَ لَا تَهۡدِي مَنۡ أَحۡبَبۡتَ وَلَٰكِنَّ ٱللَّهَ يَهۡدِي مَن يَشَآءُۚ
+  وَهُوَ أَعۡلَمُ بِٱلۡمُهۡتَدِينَ
 sentence_translation: You surely cannot guide whoever you like ˹O Prophet˺, but it
   is Allah Who guides whoever He wills, and He knows best who are ˹fit to be˺ guided.
 word_by_word:
   1:
-    arabic: اِنَّكَ
+    arabic: إِنَّكَ
     translation: Indeed, you
     transliteration: innaka
   2:
@@ -13,7 +13,7 @@ word_by_word:
     translation: (can) not
     transliteration: lā
   3:
-    arabic: تَهۡدِىۡ
+    arabic: تَهۡدِي
     translation: guide
     transliteration: tahdī
   4:
@@ -21,27 +21,27 @@ word_by_word:
     translation: whom
     transliteration: man
   5:
-    arabic: اَحۡبَبۡتَ
+    arabic: أَحۡبَبۡتَ
     translation: you love
     transliteration: aḥbabta
   6:
-    arabic: وَلٰـكِنَّ
+    arabic: وَلَٰكِنَّ
     translation: but
     transliteration: walākinna
   7:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   8:
-    arabic: يَهۡدِىۡ
+    arabic: يَهۡدِي
     translation: guides
     transliteration: yahdī
   9:
-    arabic: مَنۡ
+    arabic: مَن
     translation: whom
     transliteration: man
   10:
-    arabic: يَّشَآءُ​ؕ
+    arabic: يَشَآءُۚ
     translation: He wills
     transliteration: yashāu
   11:
@@ -49,11 +49,11 @@ word_by_word:
     translation: And He
     transliteration: wahuwa
   12:
-    arabic: اَعۡلَمُ
+    arabic: أَعۡلَمُ
     translation: (is) most knowing
     transliteration: aʿlamu
   13:
-    arabic: بِالۡمُهۡتَدِيۡنَ‏
+    arabic: بِٱلۡمُهۡتَدِينَ
     translation: (of) the guided ones
     transliteration: bil-muh'tadīna
 ---

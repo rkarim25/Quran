@@ -1,13 +1,13 @@
 ---
-arabic_ayat: عَيۡنًا يَّشۡرَبُ بِهَا الۡمُقَرَّبُوۡنَؕ‏
+arabic_ayat: عَيۡنٗا يَشۡرَبُ بِهَا ٱلۡمُقَرَّبُونَ
 sentence_translation: a spring from which those nearest ˹to Allah˺ will drink.
 word_by_word:
   1:
-    arabic: عَيۡنًا
+    arabic: عَيۡنٗا
     translation: A spring
     transliteration: ʿaynan
   2:
-    arabic: يَّشۡرَبُ
+    arabic: يَشۡرَبُ
     translation: will drink
     transliteration: yashrabu
   3:
@@ -15,7 +15,7 @@ word_by_word:
     translation: from it
     transliteration: bihā
   4:
-    arabic: الۡمُقَرَّبُوۡنَؕ‏
+    arabic: ٱلۡمُقَرَّبُونَ
     translation: those brought near
     transliteration: l-muqarabūna
 ---

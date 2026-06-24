@@ -1,13 +1,12 @@
 ---
-arabic_ayat: "يَّهۡدِىۡ بِهِ اللّٰهُ مَنِ اتَّبَعَ رِضۡوَانَهٗ سُبُلَ السَّلٰمِ وَيُخۡرِجُهُمۡ\
-  \ مِّنَ الظُّلُمٰتِ اِلَى النُّوۡرِ بِاِذۡنِهٖ وَيَهۡدِيۡهِمۡ اِلٰى صِرَاطٍ مُّسۡتَقِيۡمٍ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: يَهۡدِي بِهِ ٱللَّهُ مَنِ ٱتَّبَعَ رِضۡوَٰنَهُۥ سُبُلَ ٱلسَّلَٰمِ وَيُخۡرِجُهُم
+  مِّنَ ٱلظُّلُمَٰتِ إِلَى ٱلنُّورِ بِإِذۡنِهِۦ وَيَهۡدِيهِمۡ إِلَىٰ صِرَٰطٖ مُّسۡتَقِيمٖ
 sentence_translation: through which Allah guides those who seek His pleasure to the
   ways of peace, brings them out of darkness and into light by His Will, and guides
   them to the Straight Path.
 word_by_word:
   1:
-    arabic: يَّهۡدِىۡ
+    arabic: يَهۡدِي
     translation: Guides
     transliteration: yahdī
   2:
@@ -15,7 +14,7 @@ word_by_word:
     translation: with it
     transliteration: bihi
   3:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   4:
@@ -23,11 +22,11 @@ word_by_word:
     translation: (those) who
     transliteration: mani
   5:
-    arabic: اتَّبَعَ
+    arabic: ٱتَّبَعَ
     translation: seek
     transliteration: ittabaʿa
   6:
-    arabic: رِضۡوَانَهٗ
+    arabic: رِضۡوَٰنَهُۥ
     translation: His pleasure
     transliteration: riḍ'wānahu
   7:
@@ -35,11 +34,11 @@ word_by_word:
     translation: (to the) ways
     transliteration: subula
   8:
-    arabic: السَّلٰمِ
+    arabic: ٱلسَّلَٰمِ
     translation: (of) the peace
     transliteration: l-salāmi
   9:
-    arabic: وَيُخۡرِجُهُمۡ
+    arabic: وَيُخۡرِجُهُم
     translation: and brings them out
     transliteration: wayukh'rijuhum
   10:
@@ -47,35 +46,35 @@ word_by_word:
     translation: from
     transliteration: mina
   11:
-    arabic: الظُّلُمٰتِ
+    arabic: ٱلظُّلُمَٰتِ
     translation: the darknessess
     transliteration: l-ẓulumāti
   12:
-    arabic: اِلَى
+    arabic: إِلَى
     translation: to
     transliteration: ilā
   13:
-    arabic: النُّوۡرِ
+    arabic: ٱلنُّورِ
     translation: the light
     transliteration: l-nūri
   14:
-    arabic: بِاِذۡنِهٖ
+    arabic: بِإِذۡنِهِۦ
     translation: by His permission
     transliteration: bi-idh'nihi
   15:
-    arabic: وَيَهۡدِيۡهِمۡ
+    arabic: وَيَهۡدِيهِمۡ
     translation: and guides them
     transliteration: wayahdīhim
   16:
-    arabic: اِلٰى
+    arabic: إِلَىٰ
     translation: to
     transliteration: ilā
   17:
-    arabic: صِرَاطٍ
+    arabic: صِرَٰطٖ
     translation: (the) way
     transliteration: ṣirāṭin
   18:
-    arabic: "مُّسۡتَقِيۡمٍ‏ \uFEFF\uFEFF"
+    arabic: مُّسۡتَقِيمٖ
     translation: (the) straight
     transliteration: mus'taqīmin
 ---

@@ -1,17 +1,17 @@
 ---
-arabic_ayat: "اَمَّا السَّفِيۡنَةُ فَكَانَتۡ لِمَسٰكِيۡنَ يَعۡمَلُوۡنَ فِى الۡبَحۡرِ\
-  \ فَاَرَدْتُّ اَنۡ اَعِيۡبَهَا وَكَانَ وَرَآءَهُمۡ مَّلِكٌ يَّاۡخُذُ كُلَّ سَفِيۡنَةٍ\
-  \ غَصۡبًا‏ \uFEFF\uFEFF"
+arabic_ayat: أَمَّا ٱلسَّفِينَةُ فَكَانَتۡ لِمَسَٰكِينَ يَعۡمَلُونَ فِي ٱلۡبَحۡرِ
+  فَأَرَدتُّ أَنۡ أَعِيبَهَا وَكَانَ وَرَآءَهُم مَّلِكٞ يَأۡخُذُ كُلَّ سَفِينَةٍ
+  غَصۡبٗا
 sentence_translation: “As for the ship, it belonged to some poor people, working at
   sea. So I intended to damage it, for there was a ˹tyrant˺ king ahead of them who
   seizes every ˹good˺ ship by force.
 word_by_word:
   1:
-    arabic: اَمَّا
+    arabic: أَمَّا
     translation: As for
     transliteration: ammā
   2:
-    arabic: السَّفِيۡنَةُ
+    arabic: ٱلسَّفِينَةُ
     translation: the ship
     transliteration: l-safīnatu
   3:
@@ -19,31 +19,31 @@ word_by_word:
     translation: it was
     transliteration: fakānat
   4:
-    arabic: لِمَسٰكِيۡنَ
+    arabic: لِمَسَٰكِينَ
     translation: of (the) poor people
     transliteration: limasākīna
   5:
-    arabic: يَعۡمَلُوۡنَ
+    arabic: يَعۡمَلُونَ
     translation: working
     transliteration: yaʿmalūna
   6:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   7:
-    arabic: الۡبَحۡرِ
+    arabic: ٱلۡبَحۡرِ
     translation: the sea
     transliteration: l-baḥri
   8:
-    arabic: فَاَرَدْتُّ
+    arabic: فَأَرَدتُّ
     translation: So I intended
     transliteration: fa-aradttu
   9:
-    arabic: اَنۡ
+    arabic: أَنۡ
     translation: that
     transliteration: an
   10:
-    arabic: اَعِيۡبَهَا
+    arabic: أَعِيبَهَا
     translation: I cause defect (in) it
     transliteration: aʿībahā
   11:
@@ -51,15 +51,15 @@ word_by_word:
     translation: (as there) was
     transliteration: wakāna
   12:
-    arabic: وَرَآءَهُمۡ
+    arabic: وَرَآءَهُم
     translation: after them
     transliteration: warāahum
   13:
-    arabic: مَّلِكٌ
+    arabic: مَّلِكٞ
     translation: a king
     transliteration: malikun
   14:
-    arabic: يَّاۡخُذُ
+    arabic: يَأۡخُذُ
     translation: who seized
     transliteration: yakhudhu
   15:
@@ -67,11 +67,11 @@ word_by_word:
     translation: every
     transliteration: kulla
   16:
-    arabic: سَفِيۡنَةٍ
+    arabic: سَفِينَةٍ
     translation: ship
     transliteration: safīnatin
   17:
-    arabic: "غَصۡبًا‏ \uFEFF\uFEFF"
+    arabic: غَصۡبٗا
     translation: (by) force
     transliteration: ghaṣban
 ---

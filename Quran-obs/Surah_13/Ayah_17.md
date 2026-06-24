@@ -1,9 +1,9 @@
 ---
-arabic_ayat: اَنۡزَلَ مِنَ السَّمَآءِ مَآءً فَسَالَتۡ اَوۡدِيَةٌۢ بِقَدَرِهَا فَاحۡتَمَلَ
-  السَّيۡلُ زَبَدًا رَّابِيًا​ ؕ وَمِمَّا يُوۡقِدُوۡنَ عَلَيۡهِ فِى النَّارِ ابۡتِغَآءَ
-  حِلۡيَةٍ اَوۡ مَتَاعٍ زَبَدٌ مِّثۡلُهٗ​ ؕ كَذٰلِكَ يَضۡرِبُ اللّٰهُ الۡحَـقَّ وَالۡبَاطِلَ ؕ
-   فَاَمَّا الزَّبَدُ فَيَذۡهَبُ جُفَآءً​​ ۚ وَاَمَّا مَا يَنۡفَعُ النَّاسَ فَيَمۡكُثُ
-  فِى الۡاَرۡضِ​ؕ كَذٰلِكَ يَضۡرِبُ اللّٰهُ الۡاَمۡثَالَؕ‏
+arabic_ayat: أَنزَلَ مِنَ ٱلسَّمَآءِ مَآءٗ فَسَالَتۡ أَوۡدِيَةُۢ بِقَدَرِهَا فَٱحۡتَمَلَ
+  ٱلسَّيۡلُ زَبَدٗا رَّابِيٗاۖ وَمِمَّا يُوقِدُونَ عَلَيۡهِ فِي ٱلنَّارِ ٱبۡتِغَآءَ
+  حِلۡيَةٍ أَوۡ مَتَٰعٖ زَبَدٞ مِّثۡلُهُۥۚ كَذَٰلِكَ يَضۡرِبُ ٱللَّهُ ٱلۡحَقَّ وَٱلۡبَٰطِلَۚ
+  فَأَمَّا ٱلزَّبَدُ فَيَذۡهَبُ جُفَآءٗۖ وَأَمَّا مَا يَنفَعُ ٱلنَّاسَ فَيَمۡكُثُ
+  فِي ٱلۡأَرۡضِۚ كَذَٰلِكَ يَضۡرِبُ ٱللَّهُ ٱلۡأَمۡثَالَ
 sentence_translation: He sends down rain from the sky, causing the valleys to flow,
   each according to its capacity. The currents then carry along rising foam, similar
   to the slag produced from metal that people melt in the fire for ornaments or tools.
@@ -12,7 +12,7 @@ sentence_translation: He sends down rain from the sky, causing the valleys to fl
   parables.
 word_by_word:
   1:
-    arabic: اَنۡزَلَ
+    arabic: أَنزَلَ
     translation: He sends down
     transliteration: anzala
   2:
@@ -20,11 +20,11 @@ word_by_word:
     translation: from
     transliteration: mina
   3:
-    arabic: السَّمَآءِ
+    arabic: ٱلسَّمَآءِ
     translation: the sky
     transliteration: l-samāi
   4:
-    arabic: مَآءً
+    arabic: مَآءٗ
     translation: water
     transliteration: māan
   5:
@@ -32,7 +32,7 @@ word_by_word:
     translation: and flows
     transliteration: fasālat
   6:
-    arabic: اَوۡدِيَةٌۢ
+    arabic: أَوۡدِيَةُۢ
     translation: the valleys
     transliteration: awdiyatun
   7:
@@ -40,19 +40,19 @@ word_by_word:
     translation: according to their measure
     transliteration: biqadarihā
   8:
-    arabic: فَاحۡتَمَلَ
+    arabic: فَٱحۡتَمَلَ
     translation: and carries
     transliteration: fa-iḥ'tamala
   9:
-    arabic: السَّيۡلُ
+    arabic: ٱلسَّيۡلُ
     translation: the torrent
     transliteration: l-saylu
   10:
-    arabic: زَبَدًا
+    arabic: زَبَدٗا
     translation: a foam
     transliteration: zabadan
   11:
-    arabic: رَّابِيًا​ ؕ
+    arabic: رَّابِيٗاۖ
     translation: rising
     transliteration: rābiyan
   12:
@@ -60,7 +60,7 @@ word_by_word:
     translation: And from what
     transliteration: wamimmā
   13:
-    arabic: يُوۡقِدُوۡنَ
+    arabic: يُوقِدُونَ
     translation: they heat
     transliteration: yūqidūna
   14:
@@ -68,15 +68,15 @@ word_by_word:
     translation: '[on] it'
     transliteration: ʿalayhi
   15:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   16:
-    arabic: النَّارِ
+    arabic: ٱلنَّارِ
     translation: the fire
     transliteration: l-nāri
   17:
-    arabic: ابۡتِغَآءَ
+    arabic: ٱبۡتِغَآءَ
     translation: in order to make
     transliteration: ib'tighāa
   18:
@@ -84,23 +84,23 @@ word_by_word:
     translation: ornaments
     transliteration: ḥil'yatin
   19:
-    arabic: اَوۡ
+    arabic: أَوۡ
     translation: or
     transliteration: aw
   20:
-    arabic: مَتَاعٍ
+    arabic: مَتَٰعٖ
     translation: utensils
     transliteration: matāʿin
   21:
-    arabic: زَبَدٌ
+    arabic: زَبَدٞ
     translation: a foam
     transliteration: zabadun
   22:
-    arabic: مِّثۡلُهٗ​ ؕ
+    arabic: مِّثۡلُهُۥۚ
     translation: like it
     transliteration: mith'luhu
   23:
-    arabic: كَذٰلِكَ
+    arabic: كَذَٰلِكَ
     translation: Thus
     transliteration: kadhālika
   24:
@@ -108,23 +108,23 @@ word_by_word:
     translation: sets forth
     transliteration: yaḍribu
   25:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   26:
-    arabic: الۡحَـقَّ
+    arabic: ٱلۡحَقَّ
     translation: the truth
     transliteration: l-ḥaqa
   27:
-    arabic: وَالۡبَاطِلَ ؕ  
+    arabic: وَٱلۡبَٰطِلَۚ
     translation: and the falsehood
     transliteration: wal-bāṭila
   28:
-    arabic: فَاَمَّا
+    arabic: فَأَمَّا
     translation: Then as for
     transliteration: fa-ammā
   29:
-    arabic: الزَّبَدُ
+    arabic: ٱلزَّبَدُ
     translation: the foam
     transliteration: l-zabadu
   30:
@@ -132,11 +132,11 @@ word_by_word:
     translation: it passes away
     transliteration: fayadhhabu
   31:
-    arabic: جُفَآءً​​ ۚ
+    arabic: جُفَآءٗۖ
     translation: (as) scum
     transliteration: jufāan
   32:
-    arabic: وَاَمَّا
+    arabic: وَأَمَّا
     translation: and as for
     transliteration: wa-ammā
   33:
@@ -144,11 +144,11 @@ word_by_word:
     translation: what
     transliteration: mā
   34:
-    arabic: يَنۡفَعُ
+    arabic: يَنفَعُ
     translation: benefits
     transliteration: yanfaʿu
   35:
-    arabic: النَّاسَ
+    arabic: ٱلنَّاسَ
     translation: the mankind
     transliteration: l-nāsa
   36:
@@ -156,15 +156,15 @@ word_by_word:
     translation: remains
     transliteration: fayamkuthu
   37:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   38:
-    arabic: الۡاَرۡضِ​ؕ
+    arabic: ٱلۡأَرۡضِۚ
     translation: the earth
     transliteration: l-arḍi
   39:
-    arabic: كَذٰلِكَ
+    arabic: كَذَٰلِكَ
     translation: Thus
     transliteration: kadhālika
   40:
@@ -172,11 +172,11 @@ word_by_word:
     translation: Allah sets forth
     transliteration: yaḍribu
   41:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah sets forth
     transliteration: l-lahu
   42:
-    arabic: الۡاَمۡثَالَؕ‏
+    arabic: ٱلۡأَمۡثَالَ
     translation: the examples
     transliteration: l-amthāla
 ---

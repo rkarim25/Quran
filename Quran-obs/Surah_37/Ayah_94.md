@@ -1,17 +1,17 @@
 ---
-arabic_ayat: فَاَقۡبَلُوۡۤا اِلَيۡهِ يَزِفُّوۡنَ‏
+arabic_ayat: فَأَقۡبَلُوٓاْ إِلَيۡهِ يَزِفُّونَ
 sentence_translation: Later, his people came rushing towards him ˹furiously˺.
 word_by_word:
   1:
-    arabic: فَاَقۡبَلُوۡۤا
+    arabic: فَأَقۡبَلُوٓاْ
     translation: Then they advanced
     transliteration: fa-aqbalū
   2:
-    arabic: اِلَيۡهِ
+    arabic: إِلَيۡهِ
     translation: towards him
     transliteration: ilayhi
   3:
-    arabic: يَزِفُّوۡنَ‏
+    arabic: يَزِفُّونَ
     translation: hastening
     transliteration: yaziffūna
 ---

@@ -1,8 +1,8 @@
 ---
-arabic_ayat: ​وَلِيَعۡلَمَ الَّذِيۡنَ نَافَقُوۡا  ۖۚ وَقِيۡلَ لَهُمۡ تَعَالَوۡا قَاتِلُوۡا
-  فِىۡ سَبِيۡلِ اللّٰهِ اَوِ ادۡفَعُوۡا ​ۚ قَالُوۡا لَوۡ نَعۡلَمُ قِتَالًا لَّا تَّبَعۡنٰكُمۡ​ؕ
-  هُمۡ لِلۡكُفۡرِ يَوۡمَٮِٕذٍ اَقۡرَبُ مِنۡهُمۡ لِلۡاِيۡمَانِ​ۚ يَقُوۡلُوۡنَ بِاَفۡوَاهِهِمۡ
-  مَّا لَيۡسَ فِىۡ قُلُوۡبِهِمۡ​ؕ وَاللّٰهُ اَعۡلَمُ بِمَا يَكۡتُمُوۡنَ​ۚ‏
+arabic_ayat: وَلِيَعۡلَمَ ٱلَّذِينَ نَافَقُواْۚ وَقِيلَ لَهُمۡ تَعَالَوۡاْ قَٰتِلُواْ
+  فِي سَبِيلِ ٱللَّهِ أَوِ ٱدۡفَعُواْۖ قَالُواْ لَوۡ نَعۡلَمُ قِتَالٗا لَّٱتَّبَعۡنَٰكُمۡۗ
+  هُمۡ لِلۡكُفۡرِ يَوۡمَئِذٍ أَقۡرَبُ مِنۡهُمۡ لِلۡإِيمَٰنِۚ يَقُولُونَ بِأَفۡوَٰهِهِم
+  مَّا لَيۡسَ فِي قُلُوبِهِمۡۚ وَٱللَّهُ أَعۡلَمُ بِمَا يَكۡتُمُونَ
 sentence_translation: and expose the hypocrites. When it was said to them, “Come fight
   in the cause of Allah or ˹at least˺ defend yourselves,” they replied, “If we had
   known there was fighting, we would have definitely gone with you.” They were closer
@@ -10,19 +10,19 @@ sentence_translation: and expose the hypocrites. When it was said to them, “Co
   in their hearts. Allah is All-Knowing of what they hide.
 word_by_word:
   1:
-    arabic: ​وَلِيَعۡلَمَ
+    arabic: وَلِيَعۡلَمَ
     translation: And that He (might) make evident
     transliteration: waliyaʿlama
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   3:
-    arabic: نَافَقُوۡا  ۖۚ
+    arabic: نَافَقُواْۚ
     translation: (are) hypocrites
     transliteration: nāfaqū
   4:
-    arabic: وَقِيۡلَ
+    arabic: وَقِيلَ
     translation: And it was said
     transliteration: waqīla
   5:
@@ -30,35 +30,35 @@ word_by_word:
     translation: to them
     transliteration: lahum
   6:
-    arabic: تَعَالَوۡا
+    arabic: تَعَالَوۡاْ
     translation: Come
     transliteration: taʿālaw
   7:
-    arabic: قَاتِلُوۡا
+    arabic: قَٰتِلُواْ
     translation: fight
     transliteration: qātilū
   8:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   9:
-    arabic: سَبِيۡلِ
+    arabic: سَبِيلِ
     translation: (the) way
     transliteration: sabīli
   10:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (of) Allah
     transliteration: l-lahi
   11:
-    arabic: اَوِ
+    arabic: أَوِ
     translation: or
     transliteration: awi
   12:
-    arabic: ادۡفَعُوۡا ​ۚ
+    arabic: ٱدۡفَعُواْۖ
     translation: defend
     transliteration: id'faʿū
   13:
-    arabic: قَالُوۡا
+    arabic: قَالُواْ
     translation: They said
     transliteration: qālū
   14:
@@ -70,11 +70,11 @@ word_by_word:
     translation: we knew
     transliteration: naʿlamu
   16:
-    arabic: قِتَالًا
+    arabic: قِتَالٗا
     translation: fighting
     transliteration: qitālan
   17:
-    arabic: لَّا تَّبَعۡنٰكُمۡ​ؕ
+    arabic: لَّٱتَّبَعۡنَٰكُمۡۗ
     translation: certainly we (would have) followed you
     transliteration: la-ittabaʿnākum
   18:
@@ -86,11 +86,11 @@ word_by_word:
     translation: to disbelief
     transliteration: lil'kuf'ri
   20:
-    arabic: يَوۡمَٮِٕذٍ
+    arabic: يَوۡمَئِذٍ
     translation: that day
     transliteration: yawma-idhin
   21:
-    arabic: اَقۡرَبُ
+    arabic: أَقۡرَبُ
     translation: (were) nearer
     transliteration: aqrabu
   22:
@@ -98,15 +98,15 @@ word_by_word:
     translation: than [them]
     transliteration: min'hum
   23:
-    arabic: لِلۡاِيۡمَانِ​ۚ
+    arabic: لِلۡإِيمَٰنِۚ
     translation: to the faith
     transliteration: lil'īmāni
   24:
-    arabic: يَقُوۡلُوۡنَ
+    arabic: يَقُولُونَ
     translation: saying
     transliteration: yaqūlūna
   25:
-    arabic: بِاَفۡوَاهِهِمۡ
+    arabic: بِأَفۡوَٰهِهِم
     translation: with their mouths
     transliteration: bi-afwāhihim
   26:
@@ -118,19 +118,19 @@ word_by_word:
     translation: was not
     transliteration: laysa
   28:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   29:
-    arabic: قُلُوۡبِهِمۡ​ؕ
+    arabic: قُلُوبِهِمۡۚ
     translation: their hearts
     transliteration: qulūbihim
   30:
-    arabic: وَاللّٰهُ
+    arabic: وَٱللَّهُ
     translation: And Allah
     transliteration: wal-lahu
   31:
-    arabic: اَعۡلَمُ
+    arabic: أَعۡلَمُ
     translation: (is) Most Knowing
     transliteration: aʿlamu
   32:
@@ -138,7 +138,7 @@ word_by_word:
     translation: of what
     transliteration: bimā
   33:
-    arabic: يَكۡتُمُوۡنَ​ۚ‏
+    arabic: يَكۡتُمُونَ
     translation: they conceal
     transliteration: yaktumūna
 ---

@@ -1,23 +1,22 @@
 ---
-arabic_ayat: "مَنۡ يَّاۡتِيۡهِ عَذَابٌ يُّخۡزِيۡهِ وَيَحِلُّ عَلَيۡهِ عَذَابٌ مُّقِيۡمٌ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: مَن يَأۡتِيهِ عَذَابٞ يُخۡزِيهِ وَيَحِلُّ عَلَيۡهِ عَذَابٞ مُّقِيمٌ
 sentence_translation: who will be visited by a humiliating torment ˹in this life˺
   and overwhelmed by an everlasting punishment ˹in the next˺.”
 word_by_word:
   1:
-    arabic: مَنۡ
+    arabic: مَن
     translation: (Upon) whom
     transliteration: man
   2:
-    arabic: يَّاۡتِيۡهِ
+    arabic: يَأۡتِيهِ
     translation: will come
     transliteration: yatīhi
   3:
-    arabic: عَذَابٌ
+    arabic: عَذَابٞ
     translation: a punishment
     transliteration: ʿadhābun
   4:
-    arabic: يُّخۡزِيۡهِ
+    arabic: يُخۡزِيهِ
     translation: disgracing him
     transliteration: yukh'zīhi
   5:
@@ -29,11 +28,11 @@ word_by_word:
     translation: on him
     transliteration: ʿalayhi
   7:
-    arabic: عَذَابٌ
+    arabic: عَذَابٞ
     translation: a punishment
     transliteration: ʿadhābun
   8:
-    arabic: "مُّقِيۡمٌ‏ \uFEFF\uFEFF"
+    arabic: مُّقِيمٌ
     translation: everlasting
     transliteration: muqīmun
 ---

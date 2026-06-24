@@ -1,5 +1,5 @@
 ---
-arabic_ayat: صُحُفِ اِبۡرٰهِيۡمَ وَمُوۡسٰى‏
+arabic_ayat: صُحُفِ إِبۡرَٰهِيمَ وَمُوسَىٰ
 sentence_translation: the Scriptures of Abraham and Moses.
 word_by_word:
   1:
@@ -7,11 +7,11 @@ word_by_word:
     translation: (The) Scriptures
     transliteration: ṣuḥufi
   2:
-    arabic: اِبۡرٰهِيۡمَ
+    arabic: إِبۡرَٰهِيمَ
     translation: (of) Ibrahim
     transliteration: ib'rāhīma
   3:
-    arabic: وَمُوۡسٰى‏
+    arabic: وَمُوسَىٰ
     translation: and Musa
     transliteration: wamūsā
 ---

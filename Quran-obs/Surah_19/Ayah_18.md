@@ -1,5 +1,5 @@
 ---
-arabic_ayat: قَالَتۡ اِنِّىۡۤ اَعُوۡذُ بِالرَّحۡمٰنِ مِنۡكَ اِنۡ كُنۡتَ تَقِيًّا‏
+arabic_ayat: قَالَتۡ إِنِّيٓ أَعُوذُ بِٱلرَّحۡمَٰنِ مِنكَ إِن كُنتَ تَقِيّٗا
 sentence_translation: She appealed, “I truly seek refuge in the Most Compassionate
   from you! ˹So leave me alone˺ if you are God-fearing.”
 word_by_word:
@@ -8,31 +8,31 @@ word_by_word:
     translation: She said
     transliteration: qālat
   2:
-    arabic: اِنِّىۡۤ
+    arabic: إِنِّيٓ
     translation: Indeed, I
     transliteration: innī
   3:
-    arabic: اَعُوۡذُ
+    arabic: أَعُوذُ
     translation: '[I] seek refuge'
     transliteration: aʿūdhu
   4:
-    arabic: بِالرَّحۡمٰنِ
+    arabic: بِٱلرَّحۡمَٰنِ
     translation: with the Most Gracious
     transliteration: bil-raḥmāni
   5:
-    arabic: مِنۡكَ
+    arabic: مِنكَ
     translation: from you
     transliteration: minka
   6:
-    arabic: اِنۡ
+    arabic: إِن
     translation: if
     transliteration: in
   7:
-    arabic: كُنۡتَ
+    arabic: كُنتَ
     translation: you are
     transliteration: kunta
   8:
-    arabic: تَقِيًّا‏
+    arabic: تَقِيّٗا
     translation: God fearing
     transliteration: taqiyyan
 ---

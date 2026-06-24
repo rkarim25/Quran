@@ -1,25 +1,25 @@
 ---
-arabic_ayat: يٰۤـاَيُّهَا الَّذِيۡنَ اٰمَنُوا اذۡكُرُوۡا نِعۡمَةَ اللّٰهِ عَلَيۡكُمۡ
-  اِذۡ جَآءَتۡكُمۡ جُنُوۡدٌ فَاَرۡسَلۡنَا عَلَيۡهِمۡ رِيۡحًا وَّجُنُوۡدًا لَّمۡ تَرَوۡهَا​
-  ؕ وَكَانَ اللّٰهُ بِمَا تَعۡمَلُوۡنَ بَصِيۡرًا ۚ‏
+arabic_ayat: يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُواْ ٱذۡكُرُواْ نِعۡمَةَ ٱللَّهِ عَلَيۡكُمۡ
+  إِذۡ جَآءَتۡكُمۡ جُنُودٞ فَأَرۡسَلۡنَا عَلَيۡهِمۡ رِيحٗا وَجُنُودٗا لَّمۡ تَرَوۡهَاۚ
+  وَكَانَ ٱللَّهُ بِمَا تَعۡمَلُونَ بَصِيرًا
 sentence_translation: O believers! Remember Allah’s favour upon you when ˹enemy˺ forces
   came to ˹besiege˺ you ˹in Medina˺, so We sent against them a ˹bitter˺ wind and forces
   you could not see. And Allah is All-Seeing of what you do.
 word_by_word:
   1:
-    arabic: يٰۤـاَيُّهَا
+    arabic: يَٰٓأَيُّهَا
     translation: O you
     transliteration: yāayyuhā
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ ءَ
     translation: who
     transliteration: alladhīna
   3:
-    arabic: اٰمَنُوا
+    arabic: امَنُواْ
     translation: believe
     transliteration: āmanū
   4:
-    arabic: اذۡكُرُوۡا
+    arabic: ٱذۡكُرُواْ
     translation: Remember
     transliteration: udh'kurū
   5:
@@ -27,7 +27,7 @@ word_by_word:
     translation: (the) Favor
     transliteration: niʿ'mata
   6:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (of) Allah
     transliteration: l-lahi
   7:
@@ -35,7 +35,7 @@ word_by_word:
     translation: upon you
     transliteration: ʿalaykum
   8:
-    arabic: اِذۡ
+    arabic: إِذۡ
     translation: when
     transliteration: idh
   9:
@@ -43,11 +43,11 @@ word_by_word:
     translation: came to you
     transliteration: jāatkum
   10:
-    arabic: جُنُوۡدٌ
+    arabic: جُنُودٞ
     translation: (the) hosts
     transliteration: junūdun
   11:
-    arabic: فَاَرۡسَلۡنَا
+    arabic: فَأَرۡسَلۡنَا
     translation: and We sent
     transliteration: fa-arsalnā
   12:
@@ -55,11 +55,11 @@ word_by_word:
     translation: upon them
     transliteration: ʿalayhim
   13:
-    arabic: رِيۡحًا
+    arabic: رِيحٗا
     translation: a wind
     transliteration: rīḥan
   14:
-    arabic: وَّجُنُوۡدًا
+    arabic: وَجُنُودٗا
     translation: and hosts
     transliteration: wajunūdan
   15:
@@ -67,7 +67,7 @@ word_by_word:
     translation: not
     transliteration: lam
   16:
-    arabic: تَرَوۡهَا​ ؕ
+    arabic: تَرَوۡهَاۚ
     translation: you (could) see them
     transliteration: tarawhā
   17:
@@ -75,7 +75,7 @@ word_by_word:
     translation: And Allah is
     transliteration: wakāna
   18:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: And Allah is
     transliteration: l-lahu
   19:
@@ -83,11 +83,11 @@ word_by_word:
     translation: of what
     transliteration: bimā
   20:
-    arabic: تَعۡمَلُوۡنَ
+    arabic: تَعۡمَلُونَ
     translation: you do
     transliteration: taʿmalūna
   21:
-    arabic: بَصِيۡرًا ۚ‏
+    arabic: بَصِيرًا
     translation: All-Seer
     transliteration: baṣīran
 ---

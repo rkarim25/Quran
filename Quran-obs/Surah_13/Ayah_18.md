@@ -1,8 +1,8 @@
 ---
-arabic_ayat: لِلَّذِيۡنَ اسۡتَجَابُوۡا لِرَبِّهِمُ الۡحُسۡنٰى​ؕ وَالَّذِيۡنَ لَمۡ
-  يَسۡتَجِيۡبُوۡا لَهٗ لَوۡ اَنَّ لَهُمۡ مَّا فِى الۡاَرۡضِ جَمِيۡعًا وَّمِثۡلَهٗ
-  مَعَهٗ لَافۡتَدَوۡا بِهٖؕ اُولٰۤٮِٕكَ لَهُمۡ سُوۡۤءُ الۡحِسَابِ ۙ وَمَاۡوٰٮهُمۡ
-  جَهَـنَّمُ​ؕ وَبِئۡسَ الۡمِهَادُ‏
+arabic_ayat: لِلَّذِينَ ٱسۡتَجَابُواْ لِرَبِّهِمُ ٱلۡحُسۡنَىٰۚ وَٱلَّذِينَ لَمۡ يَسۡتَجِيبُواْ
+  لَهُۥ لَوۡ أَنَّ لَهُم مَّا فِي ٱلۡأَرۡضِ جَمِيعٗا وَمِثۡلَهُۥ مَعَهُۥ لَٱفۡتَدَوۡاْ
+  بِهِۦٓۚ أُوْلَٰٓئِكَ لَهُمۡ سُوٓءُ ٱلۡحِسَابِ وَمَأۡوَىٰهُمۡ جَهَنَّمُۖ وَبِئۡسَ
+  ٱلۡمِهَادُ
 sentence_translation: Those who respond to ˹the call of˺ their Lord will have the
   finest reward. As for those who do not respond to Him, even if they were to possess
   everything in the world twice over, they would certainly offer it to ransom themselves.
@@ -10,11 +10,11 @@ sentence_translation: Those who respond to ˹the call of˺ their Lord will have 
   to rest!
 word_by_word:
   1:
-    arabic: لِلَّذِيۡنَ
+    arabic: لِلَّذِينَ
     translation: For those who
     transliteration: lilladhīna
   2:
-    arabic: اسۡتَجَابُوۡا
+    arabic: ٱسۡتَجَابُواْ
     translation: responded
     transliteration: is'tajābū
   3:
@@ -22,11 +22,11 @@ word_by_word:
     translation: to their Lord
     transliteration: lirabbihimu
   4:
-    arabic: الۡحُسۡنٰى​ؕ
+    arabic: ٱلۡحُسۡنَىٰۚ
     translation: (is) the bliss
     transliteration: l-ḥus'nā
   5:
-    arabic: وَالَّذِيۡنَ
+    arabic: وَٱلَّذِينَ
     translation: And for those who
     transliteration: wa-alladhīna
   6:
@@ -34,11 +34,11 @@ word_by_word:
     translation: (did) not
     transliteration: lam
   7:
-    arabic: يَسۡتَجِيۡبُوۡا
+    arabic: يَسۡتَجِيبُواْ
     translation: respond
     transliteration: yastajībū
   8:
-    arabic: لَهٗ
+    arabic: لَهُۥ
     translation: to Him
     transliteration: lahu
   9:
@@ -46,11 +46,11 @@ word_by_word:
     translation: if
     transliteration: law
   10:
-    arabic: اَنَّ
+    arabic: أَنَّ
     translation: that
     transliteration: anna
   11:
-    arabic: لَهُمۡ
+    arabic: لَهُم
     translation: they had
     transliteration: lahum
   12:
@@ -58,35 +58,35 @@ word_by_word:
     translation: whatever
     transliteration: mā
   13:
-    arabic: فِى
+    arabic: فِي
     translation: (is) in
     transliteration: fī
   14:
-    arabic: الۡاَرۡضِ
+    arabic: ٱلۡأَرۡضِ
     translation: the earth
     transliteration: l-arḍi
   15:
-    arabic: جَمِيۡعًا
+    arabic: جَمِيعٗا
     translation: all
     transliteration: jamīʿan
   16:
-    arabic: وَّمِثۡلَهٗ
+    arabic: وَمِثۡلَهُۥ
     translation: and like of it
     transliteration: wamith'lahu
   17:
-    arabic: مَعَهٗ
+    arabic: مَعَهُۥ
     translation: with it
     transliteration: maʿahu
   18:
-    arabic: لَافۡتَدَوۡا
+    arabic: لَٱفۡتَدَوۡاْ
     translation: surely they would offer ransom
     transliteration: la-if'tadaw
   19:
-    arabic: بِهٖؕ
+    arabic: بِهِۦٓۚ
     translation: with it
     transliteration: bihi
   20:
-    arabic: اُولٰۤٮِٕكَ
+    arabic: أُوْلَٰٓئِكَ
     translation: Those
     transliteration: ulāika
   21:
@@ -94,19 +94,19 @@ word_by_word:
     translation: for them
     transliteration: lahum
   22:
-    arabic: سُوۡۤءُ
+    arabic: سُوٓءُ
     translation: (is) a terrible
     transliteration: sūu
   23:
-    arabic: الۡحِسَابِ ۙ
+    arabic: ٱلۡحِسَابِ
     translation: reckoning
     transliteration: l-ḥisābi
   24:
-    arabic: وَمَاۡوٰٮهُمۡ
+    arabic: وَمَأۡوَىٰهُمۡ
     translation: and their abode
     transliteration: wamawāhum
   25:
-    arabic: جَهَـنَّمُ​ؕ
+    arabic: جَهَنَّمُۖ
     translation: (is) Hell
     transliteration: jahannamu
   26:
@@ -114,7 +114,7 @@ word_by_word:
     translation: and wretched
     transliteration: wabi'sa
   27:
-    arabic: الۡمِهَادُ‏
+    arabic: ٱلۡمِهَادُ
     translation: (is) the resting place
     transliteration: l-mihādu
 ---

@@ -1,55 +1,55 @@
 ---
-arabic_ayat: اَيَوَدُّ اَحَدُكُمۡ اَنۡ تَكُوۡنَ لَهٗ جَنَّةٌ مِّنۡ نَّخِيۡلٍ وَّاَعۡنَابٍ
-  تَجۡرِىۡ مِنۡ تَحۡتِهَا الۡاَنۡهٰرُۙ لَهٗ فِيۡهَا مِنۡ كُلِّ الثَّمَرٰتِۙ وَاَصَابَهُ
-  الۡكِبَرُ وَلَهٗ ذُرِّيَّةٌ ضُعَفَآءُ ۖۚ فَاَصَابَهَاۤ اِعۡصَارٌ فِيۡهِ نَارٌ فَاحۡتَرَقَتۡ​ؕ
-  كَذٰلِكَ يُبَيِّنُ اللّٰهُ لَـكُمُ الۡاٰيٰتِ لَعَلَّكُمۡ تَتَفَكَّرُوۡنَ‏
+arabic_ayat: أَيَوَدُّ أَحَدُكُمۡ أَن تَكُونَ لَهُۥ جَنَّةٞ مِّن نَّخِيلٖ وَأَعۡنَابٖ
+  تَجۡرِي مِن تَحۡتِهَا ٱلۡأَنۡهَٰرُ لَهُۥ فِيهَا مِن كُلِّ ٱلثَّمَرَٰتِ وَأَصَابَهُ
+  ٱلۡكِبَرُ وَلَهُۥ ذُرِّيَّةٞ ضُعَفَآءُ فَأَصَابَهَآ إِعۡصَارٞ فِيهِ نَارٞ فَٱحۡتَرَقَتۡۗ
+  كَذَٰلِكَ يُبَيِّنُ ٱللَّهُ لَكُمُ ٱلۡأٓيَٰتِ لَعَلَّكُمۡ تَتَفَكَّرُونَ
 sentence_translation: Would any of you wish to have a garden with palm trees, grapevines,
   and all kinds of fruits with rivers flowing underneath and as they grow very old
   with dependent children, a fiery whirlwind hits the garden, burning it all up? This
   is how Allah makes His revelations clear to you, so perhaps you will reflect.
 word_by_word:
   1:
-    arabic: اَيَوَدُّ
+    arabic: أَيَوَدُّ
     translation: Would like
     transliteration: ayawaddu
   2:
-    arabic: اَحَدُكُمۡ
+    arabic: أَحَدُكُمۡ
     translation: any of you
     transliteration: aḥadukum
   3:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that
     transliteration: an
   4:
-    arabic: تَكُوۡنَ
+    arabic: تَكُونَ
     translation: it be
     transliteration: takūna
   5:
-    arabic: لَهٗ
+    arabic: لَهُۥ
     translation: for him
     transliteration: lahu
   6:
-    arabic: جَنَّةٌ
+    arabic: جَنَّةٞ
     translation: a garden
     transliteration: jannatun
   7:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: of
     transliteration: min
   8:
-    arabic: نَّخِيۡلٍ
+    arabic: نَّخِيلٖ
     translation: date-palms
     transliteration: nakhīlin
   9:
-    arabic: وَّاَعۡنَابٍ
+    arabic: وَأَعۡنَابٖ
     translation: and grapevines
     transliteration: wa-aʿnābin
   10:
-    arabic: تَجۡرِىۡ
+    arabic: تَجۡرِي
     translation: flowing
     transliteration: tajrī
   11:
-    arabic: مِنۡ
+    arabic: مِن
     translation: '[from]'
     transliteration: min
   12:
@@ -57,19 +57,19 @@ word_by_word:
     translation: underneath it
     transliteration: taḥtihā
   13:
-    arabic: الۡاَنۡهٰرُۙ
+    arabic: ٱلۡأَنۡهَٰرُ
     translation: the rivers
     transliteration: l-anhāru
   14:
-    arabic: لَهٗ
+    arabic: لَهُۥ
     translation: for him
     transliteration: lahu
   15:
-    arabic: فِيۡهَا
+    arabic: فِيهَا
     translation: in it
     transliteration: fīhā
   16:
-    arabic: مِنۡ
+    arabic: مِن
     translation: of
     transliteration: min
   17:
@@ -77,51 +77,51 @@ word_by_word:
     translation: all (kinds)
     transliteration: kulli
   18:
-    arabic: الثَّمَرٰتِۙ
+    arabic: ٱلثَّمَرَٰتِ
     translation: (of) [the] fruits
     transliteration: l-thamarāti
   19:
-    arabic: وَاَصَابَهُ
+    arabic: وَأَصَابَهُ
     translation: and strikes him
     transliteration: wa-aṣābahu
   20:
-    arabic: الۡكِبَرُ
+    arabic: ٱلۡكِبَرُ
     translation: '[the] old age'
     transliteration: l-kibaru
   21:
-    arabic: وَلَهٗ
+    arabic: وَلَهُۥ
     translation: and [for] his
     transliteration: walahu
   22:
-    arabic: ذُرِّيَّةٌ
+    arabic: ذُرِّيَّةٞ
     translation: children
     transliteration: dhurriyyatun
   23:
-    arabic: ضُعَفَآءُ ۖۚ
+    arabic: ضُعَفَآءُ
     translation: (are) weak
     transliteration: ḍuʿafāu
   24:
-    arabic: فَاَصَابَهَاۤ
+    arabic: فَأَصَابَهَآ
     translation: then falls on it
     transliteration: fa-aṣābahā
   25:
-    arabic: اِعۡصَارٌ
+    arabic: إِعۡصَارٞ
     translation: whirlwind
     transliteration: iʿ'ṣārun
   26:
-    arabic: فِيۡهِ
+    arabic: فِيهِ
     translation: in it
     transliteration: fīhi
   27:
-    arabic: نَارٌ
+    arabic: نَارٞ
     translation: (is) fire
     transliteration: nārun
   28:
-    arabic: فَاحۡتَرَقَتۡ​ؕ
+    arabic: فَٱحۡتَرَقَتۡۗ
     translation: then it is burnt
     transliteration: fa-iḥ'taraqat
   29:
-    arabic: كَذٰلِكَ
+    arabic: كَذَٰلِكَ
     translation: Thus
     transliteration: kadhālika
   30:
@@ -129,15 +129,15 @@ word_by_word:
     translation: makes clear
     transliteration: yubayyinu
   31:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   32:
-    arabic: لَـكُمُ
+    arabic: لَكُمُ
     translation: for you
     transliteration: lakumu
   33:
-    arabic: الۡاٰيٰتِ
+    arabic: ٱلۡأٓيَٰتِ
     translation: (His) Signs
     transliteration: l-āyāti
   34:
@@ -145,7 +145,7 @@ word_by_word:
     translation: so that you may
     transliteration: laʿallakum
   35:
-    arabic: تَتَفَكَّرُوۡنَ‏
+    arabic: تَتَفَكَّرُونَ
     translation: ponder
     transliteration: tatafakkarūna
 ---

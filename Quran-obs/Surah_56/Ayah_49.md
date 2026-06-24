@@ -1,5 +1,5 @@
 ---
-arabic_ayat: قُلۡ اِنَّ الۡاَوَّلِيۡنَ وَالۡاٰخِرِيۡنَۙ‏
+arabic_ayat: قُلۡ إِنَّ ٱلۡأَوَّلِينَ وَٱلۡأٓخِرِينَ
 sentence_translation: Say, ˹O Prophet,˺ “Most certainly, earlier and later generations
 word_by_word:
   1:
@@ -7,15 +7,15 @@ word_by_word:
     translation: Say
     transliteration: qul
   2:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   3:
-    arabic: الۡاَوَّلِيۡنَ
+    arabic: ٱلۡأَوَّلِينَ
     translation: the former
     transliteration: l-awalīna
   4:
-    arabic: وَالۡاٰخِرِيۡنَۙ‏
+    arabic: وَٱلۡأٓخِرِينَ
     translation: and the later people
     transliteration: wal-ākhirīna
 ---

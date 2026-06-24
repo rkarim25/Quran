@@ -1,23 +1,23 @@
 ---
-arabic_ayat: فَكَفٰى بِاللّٰهِ شَهِيۡدًۢا بَيۡنَـنَا وَبَيۡنَكُمۡ اِنۡ كُنَّا عَنۡ
-  عِبَادَتِكُمۡ لَغٰفِلِيۡنَ‏
+arabic_ayat: فَكَفَىٰ بِٱللَّهِ شَهِيدَۢا بَيۡنَنَا وَبَيۡنَكُمۡ إِن كُنَّا عَنۡ عِبَادَتِكُمۡ
+  لَغَٰفِلِينَ
 sentence_translation: Allah is sufficient as a Witness between each of us that we
   were totally unaware of your worship.”
 word_by_word:
   1:
-    arabic: فَكَفٰى
+    arabic: فَكَفَىٰ
     translation: So sufficient
     transliteration: fakafā
   2:
-    arabic: بِاللّٰهِ
+    arabic: بِٱللَّهِ
     translation: (is) Allah
     transliteration: bil-lahi
   3:
-    arabic: شَهِيۡدًۢا
+    arabic: شَهِيدَۢا
     translation: (as) a witness
     transliteration: shahīdan
   4:
-    arabic: بَيۡنَـنَا
+    arabic: بَيۡنَنَا
     translation: between us
     transliteration: baynanā
   5:
@@ -25,7 +25,7 @@ word_by_word:
     translation: and between you
     transliteration: wabaynakum
   6:
-    arabic: اِنۡ
+    arabic: إِن
     translation: that
     transliteration: in
   7:
@@ -41,7 +41,7 @@ word_by_word:
     translation: your worship
     transliteration: ʿibādatikum
   10:
-    arabic: لَغٰفِلِيۡنَ‏
+    arabic: لَغَٰفِلِينَ
     translation: certainly unaware
     transliteration: laghāfilīna
 ---

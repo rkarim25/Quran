@@ -1,9 +1,9 @@
 ---
-arabic_ayat: اِنۡ هُوَ اِلَّا وَحۡىٌ يُّوۡحٰىۙ‏
+arabic_ayat: إِنۡ هُوَ إِلَّا وَحۡيٞ يُوحَىٰ
 sentence_translation: It is only a revelation sent down ˹to him˺.
 word_by_word:
   1:
-    arabic: اِنۡ
+    arabic: إِنۡ
     translation: Not
     transliteration: in
   2:
@@ -11,15 +11,15 @@ word_by_word:
     translation: it
     transliteration: huwa
   3:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: (is) except
     transliteration: illā
   4:
-    arabic: وَحۡىٌ
+    arabic: وَحۡيٞ
     translation: a revelation
     transliteration: waḥyun
   5:
-    arabic: يُّوۡحٰىۙ‏
+    arabic: يُوحَىٰ
     translation: revealed
     transliteration: yūḥā
 ---

@@ -1,17 +1,17 @@
 ---
-arabic_ayat: فَمَاۤ اَغۡنٰى عَنۡهُمۡ مَّا كَانُوۡا يَكۡسِبُوۡنَؕ‏
+arabic_ayat: فَمَآ أَغۡنَىٰ عَنۡهُم مَّا كَانُواْ يَكۡسِبُونَ
 sentence_translation: and all they achieved was of no help to them.
 word_by_word:
   1:
-    arabic: فَمَاۤ
+    arabic: فَمَآ
     translation: And not
     transliteration: famā
   2:
-    arabic: اَغۡنٰى
+    arabic: أَغۡنَىٰ
     translation: availed
     transliteration: aghnā
   3:
-    arabic: عَنۡهُمۡ
+    arabic: عَنۡهُم
     translation: them
     transliteration: ʿanhum
   4:
@@ -19,11 +19,11 @@ word_by_word:
     translation: what
     transliteration: mā
   5:
-    arabic: كَانُوۡا
+    arabic: كَانُواْ
     translation: they used (to)
     transliteration: kānū
   6:
-    arabic: يَكۡسِبُوۡنَؕ‏
+    arabic: يَكۡسِبُونَ
     translation: earn
     transliteration: yaksibūna
 ---

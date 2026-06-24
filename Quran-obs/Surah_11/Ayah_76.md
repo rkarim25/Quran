@@ -1,16 +1,16 @@
 ---
-arabic_ayat: يٰۤـاِبۡرٰهِيۡمُ اَعۡرِضۡ عَنۡ هٰذَا ۚ اِنَّهٗ قَدۡ جَآءَ اَمۡرُ رَبِّكَ​
-  ۚ وَاِنَّهُمۡ اٰتِيۡهِمۡ عَذَابٌ غَيۡرُ مَرۡدُوۡدٍ‏
+arabic_ayat: يَٰٓإِبۡرَٰهِيمُ أَعۡرِضۡ عَنۡ هَٰذَآۖ إِنَّهُۥ قَدۡ جَآءَ أَمۡرُ رَبِّكَۖ
+  وَإِنَّهُمۡ ءَاتِيهِمۡ عَذَابٌ غَيۡرُ مَرۡدُودٖ
 sentence_translation: ˹The angels said,˺ “O Abraham! Plead no more! Your Lord’s decree
   has already come, and they will certainly be afflicted with a punishment that cannot
   be averted!”
 word_by_word:
   1:
-    arabic: يٰۤـاِبۡرٰهِيۡمُ
+    arabic: يَٰٓإِبۡرَٰهِيمُ
     translation: O Ibrahim
     transliteration: yāib'rāhīmu
   2:
-    arabic: اَعۡرِضۡ
+    arabic: أَعۡرِضۡ
     translation: Turn away
     transliteration: aʿriḍ
   3:
@@ -18,11 +18,11 @@ word_by_word:
     translation: from
     transliteration: ʿan
   4:
-    arabic: هٰذَا ۚ
+    arabic: هَٰذَآۖ
     translation: this
     transliteration: hādhā
   5:
-    arabic: اِنَّهٗ
+    arabic: إِنَّهُۥ
     translation: Indeed, it
     transliteration: innahu
   6:
@@ -34,19 +34,19 @@ word_by_word:
     translation: has come
     transliteration: jāa
   8:
-    arabic: اَمۡرُ
+    arabic: أَمۡرُ
     translation: (the) Command
     transliteration: amru
   9:
-    arabic: رَبِّكَ​ ۚ
+    arabic: رَبِّكَۖ
     translation: (of) your Lord
     transliteration: rabbika
   10:
-    arabic: وَاِنَّهُمۡ
+    arabic: وَإِنَّهُمۡ ءَ
     translation: and indeed, [they]
     transliteration: wa-innahum
   11:
-    arabic: اٰتِيۡهِمۡ
+    arabic: اتِيهِمۡ
     translation: (will) come (for) them
     transliteration: ātīhim
   12:
@@ -58,7 +58,7 @@ word_by_word:
     translation: (which) cannot
     transliteration: ghayru
   14:
-    arabic: مَرۡدُوۡدٍ‏
+    arabic: مَرۡدُودٖ
     translation: (be) repelled
     transliteration: mardūdin
 ---

@@ -1,18 +1,18 @@
 ---
-arabic_ayat: مَتَاعٌ قَلِيۡلٌ وَّلَهُمۡ عَذَابٌ اَلِيۡمٌ‏
+arabic_ayat: مَتَٰعٞ قَلِيلٞ وَلَهُمۡ عَذَابٌ أَلِيمٞ
 sentence_translation: ˹It is only˺ a brief enjoyment, then they will suffer a painful
   punishment.
 word_by_word:
   1:
-    arabic: مَتَاعٌ
+    arabic: مَتَٰعٞ
     translation: An enjoyment
     transliteration: matāʿun
   2:
-    arabic: قَلِيۡلٌ
+    arabic: قَلِيلٞ
     translation: little
     transliteration: qalīlun
   3:
-    arabic: وَّلَهُمۡ
+    arabic: وَلَهُمۡ
     translation: and for them
     transliteration: walahum
   4:
@@ -20,7 +20,7 @@ word_by_word:
     translation: (is) a punishment
     transliteration: ʿadhābun
   5:
-    arabic: اَلِيۡمٌ‏
+    arabic: أَلِيمٞ
     translation: painful
     transliteration: alīmun
 ---

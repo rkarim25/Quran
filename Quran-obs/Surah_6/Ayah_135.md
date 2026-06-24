@@ -1,6 +1,6 @@
 ---
-arabic_ayat: قُلۡ يٰقَوۡمِ اعۡمَلُوۡا عَلٰى مَكَانَتِكُمۡ اِنِّىۡ عَامِلٌ​ۚ فَسَوۡفَ
-  تَعۡلَمُوۡنَۙ مَنۡ تَكُوۡنُ لَهٗ عَاقِبَةُ الدَّارِ​ؕ اِنَّهٗ لَا يُفۡلِحُ الظّٰلِمُوۡنَ‏
+arabic_ayat: قُلۡ يَٰقَوۡمِ ٱعۡمَلُواْ عَلَىٰ مَكَانَتِكُمۡ إِنِّي عَامِلٞۖ فَسَوۡفَ
+  تَعۡلَمُونَ مَن تَكُونُ لَهُۥ عَٰقِبَةُ ٱلدَّارِۚ إِنَّهُۥ لَا يُفۡلِحُ ٱلظَّٰلِمُونَ
 sentence_translation: Say, ˹O Prophet,˺ “O my people! Persist in your ways, for I
   ˹too˺ will persist in mine. You will soon know who will fare best in the end. Indeed,
   the wrongdoers will never succeed.”
@@ -10,15 +10,15 @@ word_by_word:
     translation: Say
     transliteration: qul
   2:
-    arabic: يٰقَوۡمِ
+    arabic: يَٰقَوۡمِ
     translation: O my people
     transliteration: yāqawmi
   3:
-    arabic: اعۡمَلُوۡا
+    arabic: ٱعۡمَلُواْ
     translation: Work
     transliteration: iʿ'malū
   4:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: 'on'
     transliteration: ʿalā
   5:
@@ -26,11 +26,11 @@ word_by_word:
     translation: your position
     transliteration: makānatikum
   6:
-    arabic: اِنِّىۡ
+    arabic: إِنِّي
     translation: Indeed, I am
     transliteration: innī
   7:
-    arabic: عَامِلٌ​ۚ
+    arabic: عَامِلٞۖ
     translation: a worker
     transliteration: ʿāmilun
   8:
@@ -38,31 +38,31 @@ word_by_word:
     translation: And soon
     transliteration: fasawfa
   9:
-    arabic: تَعۡلَمُوۡنَۙ
+    arabic: تَعۡلَمُونَ
     translation: you will know
     transliteration: taʿlamūna
   10:
-    arabic: مَنۡ
+    arabic: مَن
     translation: who
     transliteration: man
   11:
-    arabic: تَكُوۡنُ
+    arabic: تَكُونُ
     translation: will have
     transliteration: takūnu
   12:
-    arabic: لَهٗ
+    arabic: لَهُۥ
     translation: for himself
     transliteration: lahu
   13:
-    arabic: عَاقِبَةُ
+    arabic: عَٰقِبَةُ
     translation: (in) the end
     transliteration: ʿāqibatu
   14:
-    arabic: الدَّارِ​ؕ
+    arabic: ٱلدَّارِۚ
     translation: (a good) home
     transliteration: l-dāri
   15:
-    arabic: اِنَّهٗ
+    arabic: إِنَّهُۥ
     translation: Indeed [he]
     transliteration: innahu
   16:
@@ -74,7 +74,7 @@ word_by_word:
     translation: succeed
     transliteration: yuf'liḥu
   18:
-    arabic: الظّٰلِمُوۡنَ‏
+    arabic: ٱلظَّٰلِمُونَ
     translation: the wrongdoers
     transliteration: l-ẓālimūna
 ---

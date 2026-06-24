@@ -1,5 +1,5 @@
 ---
-arabic_ayat: كَذَّبَتۡ ثَمُوۡدُ بِطَغۡوٰٮهَآ  ۙ‏
+arabic_ayat: كَذَّبَتۡ ثَمُودُ بِطَغۡوَىٰهَآ
 sentence_translation: Thamûd rejected ˹the truth˺ out of arrogance,
 word_by_word:
   1:
@@ -7,11 +7,11 @@ word_by_word:
     translation: Denied
     transliteration: kadhabat
   2:
-    arabic: ثَمُوۡدُ
+    arabic: ثَمُودُ
     translation: Thamud
     transliteration: thamūdu
   3:
-    arabic: بِطَغۡوٰٮهَآ  ۙ‏
+    arabic: بِطَغۡوَىٰهَآ
     translation: by their transgression
     transliteration: biṭaghwāhā
 ---

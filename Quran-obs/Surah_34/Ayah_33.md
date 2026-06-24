@@ -1,9 +1,8 @@
 ---
-arabic_ayat: "وَقَالَ الَّذِيۡنَ اسۡتُضۡعِفُوۡا لِلَّذِيۡنَ اسۡتَكۡبَرُوۡا بَلۡ مَكۡرُ\
-  \ الَّيۡلِ وَ النَّهَارِ اِذۡ تَاۡمُرُوۡنَـنَاۤ اَنۡ نَّـكۡفُرَ بِاللّٰهِ وَنَجۡعَلَ\
-  \ لَهٗۤ اَنۡدَادًا ؕ وَاَسَرُّوا النَّدَامَةَ لَمَّا رَاَوُا الۡعَذَابَ ؕ وَجَعَلۡنَا\
-  \ الۡاَغۡلٰلَ فِىۡۤ اَعۡنَاقِ الَّذِيۡنَ كَفَرُوۡا ؕ هَلۡ يُجۡزَوۡنَ اِلَّا مَا\
-  \ كَانُوۡا يَعۡمَلُوۡنَ‏ \uFEFF\uFEFF"
+arabic_ayat: وَقَالَ ٱلَّذِينَ ٱسۡتُضۡعِفُواْ لِلَّذِينَ ٱسۡتَكۡبَرُواْ بَلۡ مَكۡرُ
+  ٱلَّيۡلِ وَٱلنَّهَارِ إِذۡ تَأۡمُرُونَنَآ أَن نَّكۡفُرَ بِٱللَّهِ وَنَجۡعَلَ لَهُۥٓ
+  أَندَادٗاۚ وَأَسَرُّواْ ٱلنَّدَامَةَ لَمَّا رَأَوُاْ ٱلۡعَذَابَۚ وَجَعَلۡنَا ٱلۡأَغۡلَٰلَ
+  فِيٓ أَعۡنَاقِ ٱلَّذِينَ كَفَرُواْۖ هَلۡ يُجۡزَوۡنَ إِلَّا مَا كَانُواْ يَعۡمَلُونَ
 sentence_translation: The lowly will say to the arrogant, “No! It was your plotting
   by day and night—when you ordered us to disbelieve in Allah and to set up equals
   with Him.” They will ˹all˺ hide ˹their˺ remorse when they see the torment. And We
@@ -15,19 +14,19 @@ word_by_word:
     translation: And will say
     transliteration: waqāla
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   3:
-    arabic: اسۡتُضۡعِفُوۡا
+    arabic: ٱسۡتُضۡعِفُواْ
     translation: were oppressed
     transliteration: us'tuḍ'ʿifū
   4:
-    arabic: لِلَّذِيۡنَ
+    arabic: لِلَّذِينَ
     translation: to those who
     transliteration: lilladhīna
   5:
-    arabic: اسۡتَكۡبَرُوۡا
+    arabic: ٱسۡتَكۡبَرُواْ
     translation: were arrogant
     transliteration: is'takbarū
   6:
@@ -39,31 +38,31 @@ word_by_word:
     translation: (it was) a plot
     transliteration: makru
   8:
-    arabic: الَّيۡلِ
+    arabic: ٱلَّيۡلِ
     translation: (by) night
     transliteration: al-layli
   9:
-    arabic: وَ النَّهَارِ
+    arabic: وَٱلنَّهَارِ
     translation: and (by) day
     transliteration: wal-nahāri
   10:
-    arabic: اِذۡ
+    arabic: إِذۡ
     translation: when
     transliteration: idh
   11:
-    arabic: تَاۡمُرُوۡنَـنَاۤ
+    arabic: تَأۡمُرُونَنَآ
     translation: you were ordering us
     transliteration: tamurūnanā
   12:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that
     transliteration: an
   13:
-    arabic: نَّـكۡفُرَ
+    arabic: نَّكۡفُرَ
     translation: we disbelieve
     transliteration: nakfura
   14:
-    arabic: بِاللّٰهِ
+    arabic: بِٱللَّهِ
     translation: in Allah
     transliteration: bil-lahi
   15:
@@ -71,19 +70,19 @@ word_by_word:
     translation: and we set up
     transliteration: wanajʿala
   16:
-    arabic: لَهٗۤ
+    arabic: لَهُۥٓ
     translation: for Him
     transliteration: lahu
   17:
-    arabic: اَنۡدَادًا ؕ
+    arabic: أَندَادٗاۚ
     translation: equals
     transliteration: andādan
   18:
-    arabic: وَاَسَرُّوا
+    arabic: وَأَسَرُّواْ
     translation: But they will conceal
     transliteration: wa-asarrū
   19:
-    arabic: النَّدَامَةَ
+    arabic: ٱلنَّدَامَةَ
     translation: the regret
     transliteration: l-nadāmata
   20:
@@ -91,11 +90,11 @@ word_by_word:
     translation: when
     transliteration: lammā
   21:
-    arabic: رَاَوُا
+    arabic: رَأَوُاْ
     translation: they see
     transliteration: ra-awū
   22:
-    arabic: الۡعَذَابَ ؕ
+    arabic: ٱلۡعَذَابَۚ
     translation: the punishment
     transliteration: l-ʿadhāba
   23:
@@ -103,23 +102,23 @@ word_by_word:
     translation: And We will put
     transliteration: wajaʿalnā
   24:
-    arabic: الۡاَغۡلٰلَ
+    arabic: ٱلۡأَغۡلَٰلَ
     translation: shackles
     transliteration: l-aghlāla
   25:
-    arabic: فِىۡۤ
+    arabic: فِيٓ
     translation: 'on'
     transliteration: fī
   26:
-    arabic: اَعۡنَاقِ
+    arabic: أَعۡنَاقِ
     translation: (the) necks
     transliteration: aʿnāqi
   27:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: (of) those who
     transliteration: alladhīna
   28:
-    arabic: كَفَرُوۡا ؕ
+    arabic: كَفَرُواْۖ
     translation: disbelieved
     transliteration: kafarū
   29:
@@ -131,7 +130,7 @@ word_by_word:
     translation: they be recompensed
     transliteration: yuj'zawna
   31:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   32:
@@ -139,11 +138,11 @@ word_by_word:
     translation: (for) what
     transliteration: mā
   33:
-    arabic: كَانُوۡا
+    arabic: كَانُواْ
     translation: they used to
     transliteration: kānū
   34:
-    arabic: "يَعۡمَلُوۡنَ‏ \uFEFF\uFEFF"
+    arabic: يَعۡمَلُونَ
     translation: do
     transliteration: yaʿmalūna
 ---

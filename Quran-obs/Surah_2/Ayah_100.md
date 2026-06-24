@@ -1,31 +1,31 @@
 ---
-arabic_ayat: اَوَکُلَّمَا عٰهَدُوۡا عَهۡدًا نَّبَذَهٗ فَرِيۡقٌ مِّنۡهُمۡ​ؕ بَلۡ اَكۡثَرُهُمۡ
-  لَا يُؤۡمِنُوۡنَ‏
+arabic_ayat: أَوَكُلَّمَا عَٰهَدُواْ عَهۡدٗا نَّبَذَهُۥ فَرِيقٞ مِّنۡهُمۚ بَلۡ أَكۡثَرُهُمۡ
+  لَا يُؤۡمِنُونَ
 sentence_translation: Why is it that every time they make a covenant, a group of them
   casts it aside? In fact, most of them do not believe.
 word_by_word:
   1:
-    arabic: اَوَکُلَّمَا
+    arabic: أَوَكُلَّمَا
     translation: And is (it not that) whenever
     transliteration: awakullamā
   2:
-    arabic: عٰهَدُوۡا
+    arabic: عَٰهَدُواْ
     translation: they took
     transliteration: ʿāhadū
   3:
-    arabic: عَهۡدًا
+    arabic: عَهۡدٗا
     translation: a covenant
     transliteration: ʿahdan
   4:
-    arabic: نَّبَذَهٗ
+    arabic: نَّبَذَهُۥ
     translation: threw it away
     transliteration: nabadhahu
   5:
-    arabic: فَرِيۡقٌ
+    arabic: فَرِيقٞ
     translation: a party
     transliteration: farīqun
   6:
-    arabic: مِّنۡهُمۡ​ؕ
+    arabic: مِّنۡهُمۚ
     translation: of them
     transliteration: min'hum
   7:
@@ -33,7 +33,7 @@ word_by_word:
     translation: Nay
     transliteration: bal
   8:
-    arabic: اَكۡثَرُهُمۡ
+    arabic: أَكۡثَرُهُمۡ
     translation: most of them
     transliteration: aktharuhum
   9:
@@ -41,7 +41,7 @@ word_by_word:
     translation: (do) not
     transliteration: lā
   10:
-    arabic: يُؤۡمِنُوۡنَ‏
+    arabic: يُؤۡمِنُونَ
     translation: believe
     transliteration: yu'minūna
 ---

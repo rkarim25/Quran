@@ -1,9 +1,9 @@
 ---
-arabic_ayat: طٰهٰ​ ۚ‏
+arabic_ayat: طه
 sentence_translation: Ṭâ-Hâ.
 word_by_word:
   1:
-    arabic: طٰهٰ​ ۚ‏
+    arabic: طه
     translation: Ta Ha
     transliteration: tta-ha
 ---

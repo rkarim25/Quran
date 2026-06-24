@@ -1,19 +1,19 @@
 ---
-arabic_ayat: "اِنَّ هٰٓؤُلَۤاءِ مُتَبَّرٌ مَّا هُمۡ فِيۡهِ وَبٰطِلٌ مَّا كَانُوۡا\
-  \ يَعۡمَلُوۡنَ‏ \uFEFF\uFEFF"
+arabic_ayat: إِنَّ هَٰٓؤُلَآءِ مُتَبَّرٞ مَّا هُمۡ فِيهِ وَبَٰطِلٞ مَّا كَانُواْ
+  يَعۡمَلُونَ
 sentence_translation: What they follow is certainly doomed to destruction and their
   deeds are in vain.”
 word_by_word:
   1:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   2:
-    arabic: هٰٓؤُلَۤاءِ
+    arabic: هَٰٓؤُلَآءِ
     translation: these
     transliteration: hāulāi
   3:
-    arabic: مُتَبَّرٌ
+    arabic: مُتَبَّرٞ
     translation: destroyed
     transliteration: mutabbarun
   4:
@@ -25,11 +25,11 @@ word_by_word:
     translation: they
     transliteration: hum
   6:
-    arabic: فِيۡهِ
+    arabic: فِيهِ
     translation: (are) in it
     transliteration: fīhi
   7:
-    arabic: وَبٰطِلٌ
+    arabic: وَبَٰطِلٞ
     translation: and vain
     transliteration: wabāṭilun
   8:
@@ -37,11 +37,11 @@ word_by_word:
     translation: (is) what
     transliteration: mā
   9:
-    arabic: كَانُوۡا
+    arabic: كَانُواْ
     translation: they used to
     transliteration: kānū
   10:
-    arabic: "يَعۡمَلُوۡنَ‏ \uFEFF\uFEFF"
+    arabic: يَعۡمَلُونَ
     translation: do
     transliteration: yaʿmalūna
 ---

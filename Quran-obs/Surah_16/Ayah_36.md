@@ -1,14 +1,14 @@
 ---
-arabic_ayat: "وَلَـقَدۡ بَعَثۡنَا فِىۡ كُلِّ اُمَّةٍ رَّسُوۡلًا اَنِ اعۡبُدُوا اللّٰهَ\
-  \ وَاجۡتَنِبُوا الطَّاغُوۡتَ​ۚ فَمِنۡهُمۡ مَّنۡ هَدَى اللّٰهُ وَمِنۡهُمۡ مَّنۡ حَقَّتۡ\
-  \ عَلَيۡهِ الضَّلٰلَةُ​ ؕ فَسِيۡرُوۡا فِىۡ الۡاَرۡضِ فَانْظُرُوۡا كَيۡفَ كَانَ عَاقِبَةُ\
-  \ الۡمُكَذِّبِيۡنَ‏ \uFEFF\uFEFF"
+arabic_ayat: وَلَقَدۡ بَعَثۡنَا فِي كُلِّ أُمَّةٖ رَّسُولًا أَنِ ٱعۡبُدُواْ ٱللَّهَ
+  وَٱجۡتَنِبُواْ ٱلطَّٰغُوتَۖ فَمِنۡهُم مَّنۡ هَدَى ٱللَّهُ وَمِنۡهُم مَّنۡ حَقَّتۡ
+  عَلَيۡهِ ٱلضَّلَٰلَةُۚ فَسِيرُواْ فِي ٱلۡأَرۡضِ فَٱنظُرُواْ كَيۡفَ كَانَ عَٰقِبَةُ
+  ٱلۡمُكَذِّبِينَ
 sentence_translation: We surely sent a messenger to every community, saying, “Worship
   Allah and shun false gods.” But some of them were guided by Allah, while others
   were destined to stray. So travel throughout the land and see the fate of the deniers!
 word_by_word:
   1:
-    arabic: وَلَـقَدۡ
+    arabic: وَلَقَدۡ
     translation: And certainly
     transliteration: walaqad
   2:
@@ -16,7 +16,7 @@ word_by_word:
     translation: We sent
     transliteration: baʿathnā
   3:
-    arabic: فِىۡ
+    arabic: فِي
     translation: into
     transliteration: fī
   4:
@@ -24,35 +24,35 @@ word_by_word:
     translation: every
     transliteration: kulli
   5:
-    arabic: اُمَّةٍ
+    arabic: أُمَّةٖ
     translation: nation
     transliteration: ummatin
   6:
-    arabic: رَّسُوۡلًا
+    arabic: رَّسُولًا
     translation: a Messenger
     transliteration: rasūlan
   7:
-    arabic: اَنِ
+    arabic: أَنِ
     translation: that
     transliteration: ani
   8:
-    arabic: اعۡبُدُوا
+    arabic: ٱعۡبُدُواْ
     translation: Worship
     transliteration: uʿ'budū
   9:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   10:
-    arabic: وَاجۡتَنِبُوا
+    arabic: وَٱجۡتَنِبُواْ
     translation: and avoid
     transliteration: wa-ij'tanibū
   11:
-    arabic: الطَّاغُوۡتَ​ۚ
+    arabic: ٱلطَّٰغُوتَۖ
     translation: the false deities
     transliteration: l-ṭāghūta
   12:
-    arabic: فَمِنۡهُمۡ
+    arabic: فَمِنۡهُم
     translation: Then among them
     transliteration: famin'hum
   13:
@@ -64,11 +64,11 @@ word_by_word:
     translation: Allah guided
     transliteration: hadā
   15:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah guided
     transliteration: l-lahu
   16:
-    arabic: وَمِنۡهُمۡ
+    arabic: وَمِنۡهُم
     translation: and among them
     transliteration: wamin'hum
   17:
@@ -84,23 +84,23 @@ word_by_word:
     translation: on them
     transliteration: ʿalayhi
   20:
-    arabic: الضَّلٰلَةُ​ ؕ
+    arabic: ٱلضَّلَٰلَةُۚ
     translation: the straying
     transliteration: l-ḍalālatu
   21:
-    arabic: فَسِيۡرُوۡا
+    arabic: فَسِيرُواْ
     translation: So travel
     transliteration: fasīrū
   22:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   23:
-    arabic: الۡاَرۡضِ
+    arabic: ٱلۡأَرۡضِ
     translation: the earth
     transliteration: l-arḍi
   24:
-    arabic: فَانْظُرُوۡا
+    arabic: فَٱنظُرُواْ
     translation: and see
     transliteration: fa-unẓurū
   25:
@@ -112,11 +112,11 @@ word_by_word:
     translation: was
     transliteration: kāna
   27:
-    arabic: عَاقِبَةُ
+    arabic: عَٰقِبَةُ
     translation: the end
     transliteration: ʿāqibatu
   28:
-    arabic: "الۡمُكَذِّبِيۡنَ‏ \uFEFF\uFEFF"
+    arabic: ٱلۡمُكَذِّبِينَ
     translation: (of) the deniers
     transliteration: l-mukadhibīna
 ---

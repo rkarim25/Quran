@@ -1,28 +1,28 @@
 ---
-arabic_ayat: فِىۡ بُيُوۡتٍ اَذِنَ اللّٰهُ اَنۡ تُرۡفَعَ وَيُذۡكَرَ فِيۡهَا اسۡمُهٗۙ
-  يُسَبِّحُ لَهٗ فِيۡهَا بِالۡغُدُوِّ وَالۡاٰصَالِۙ‏
+arabic_ayat: فِي بُيُوتٍ أَذِنَ ٱللَّهُ أَن تُرۡفَعَ وَيُذۡكَرَ فِيهَا ٱسۡمُهُۥ يُسَبِّحُ
+  لَهُۥ فِيهَا بِٱلۡغُدُوِّ وَٱلۡأٓصَالِ
 sentence_translation: ˹That light shines˺ through houses ˹of worship˺ which Allah
   has ordered to be raised, and where His Name is mentioned. He is glorified there
   morning and evening
 word_by_word:
   1:
-    arabic: فِىۡ
+    arabic: فِي
     translation: In
     transliteration: fī
   2:
-    arabic: بُيُوۡتٍ
+    arabic: بُيُوتٍ
     translation: houses
     transliteration: buyūtin
   3:
-    arabic: اَذِنَ
+    arabic: أَذِنَ
     translation: (which) Allah ordered
     transliteration: adhina
   4:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: (which) Allah ordered
     transliteration: l-lahu
   5:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that
     transliteration: an
   6:
@@ -34,11 +34,11 @@ word_by_word:
     translation: and be mentioned
     transliteration: wayudh'kara
   8:
-    arabic: فِيۡهَا
+    arabic: فِيهَا
     translation: in them
     transliteration: fīhā
   9:
-    arabic: اسۡمُهٗۙ
+    arabic: ٱسۡمُهُۥ
     translation: His name
     transliteration: us'muhu
   10:
@@ -46,19 +46,19 @@ word_by_word:
     translation: Glorify
     transliteration: yusabbiḥu
   11:
-    arabic: لَهٗ
+    arabic: لَهُۥ
     translation: '[to] Him'
     transliteration: lahu
   12:
-    arabic: فِيۡهَا
+    arabic: فِيهَا
     translation: in them
     transliteration: fīhā
   13:
-    arabic: بِالۡغُدُوِّ
+    arabic: بِٱلۡغُدُوِّ
     translation: in the mornings
     transliteration: bil-ghuduwi
   14:
-    arabic: وَالۡاٰصَالِۙ‏
+    arabic: وَٱلۡأٓصَالِ
     translation: and (in) the evenings
     transliteration: wal-āṣāli
 ---

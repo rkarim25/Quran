@@ -1,7 +1,7 @@
 ---
-arabic_ayat: وَرَفَعۡنَا فَوۡقَهُمُ الطُّوۡرَ بِمِيۡثَاقِهِمۡ وَقُلۡنَا لَهُمُ ادۡخُلُوا
-  الۡبَابَ سُجَّدًا وَّقُلۡنَا لَهُمۡ لَا تَعۡدُوۡا فِى السَّبۡتِ وَاَخَذۡنَا مِنۡهُمۡ
-  مِّيۡثَاقًا غَلِيۡظًا‏
+arabic_ayat: وَرَفَعۡنَا فَوۡقَهُمُ ٱلطُّورَ بِمِيثَٰقِهِمۡ وَقُلۡنَا لَهُمُ ٱدۡخُلُواْ
+  ٱلۡبَابَ سُجَّدٗا وَقُلۡنَا لَهُمۡ لَا تَعۡدُواْ فِي ٱلسَّبۡتِ وَأَخَذۡنَا مِنۡهُم
+  مِّيثَٰقًا غَلِيظٗا
 sentence_translation: We raised the Mount over them ˹as a warning˺ for ˹breaking˺
   their covenant and said, “Enter the gate ˹of Jerusalem˺ with humility.” We also
   warned them, “Do not break the Sabbath,” and took from them a firm covenant.
@@ -15,11 +15,11 @@ word_by_word:
     translation: over them
     transliteration: fawqahumu
   3:
-    arabic: الطُّوۡرَ
+    arabic: ٱلطُّورَ
     translation: the mount
     transliteration: l-ṭūra
   4:
-    arabic: بِمِيۡثَاقِهِمۡ
+    arabic: بِمِيثَٰقِهِمۡ
     translation: for their covenant
     transliteration: bimīthāqihim
   5:
@@ -31,19 +31,19 @@ word_by_word:
     translation: to them
     transliteration: lahumu
   7:
-    arabic: ادۡخُلُوا
+    arabic: ٱدۡخُلُواْ
     translation: Enter
     transliteration: ud'khulū
   8:
-    arabic: الۡبَابَ
+    arabic: ٱلۡبَابَ
     translation: the gate
     transliteration: l-bāba
   9:
-    arabic: سُجَّدًا
+    arabic: سُجَّدٗا
     translation: prostrating
     transliteration: sujjadan
   10:
-    arabic: وَّقُلۡنَا
+    arabic: وَقُلۡنَا
     translation: And We said
     transliteration: waqul'nā
   11:
@@ -55,31 +55,31 @@ word_by_word:
     translation: (Do) not
     transliteration: lā
   13:
-    arabic: تَعۡدُوۡا
+    arabic: تَعۡدُواْ
     translation: transgress
     transliteration: taʿdū
   14:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   15:
-    arabic: السَّبۡتِ
+    arabic: ٱلسَّبۡتِ
     translation: the Sabbath
     transliteration: l-sabti
   16:
-    arabic: وَاَخَذۡنَا
+    arabic: وَأَخَذۡنَا
     translation: And We took
     transliteration: wa-akhadhnā
   17:
-    arabic: مِنۡهُمۡ
+    arabic: مِنۡهُم
     translation: from them
     transliteration: min'hum
   18:
-    arabic: مِّيۡثَاقًا
+    arabic: مِّيثَٰقًا
     translation: a covenant
     transliteration: mīthāqan
   19:
-    arabic: غَلِيۡظًا‏
+    arabic: غَلِيظٗا
     translation: solemn
     transliteration: ghalīẓan
 ---

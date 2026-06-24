@@ -1,5 +1,5 @@
 ---
-arabic_ayat: تِلۡكَ اِذًا قِسۡمَةٌ ضِيۡزٰى‏
+arabic_ayat: تِلۡكَ إِذٗا قِسۡمَةٞ ضِيزَىٰٓ
 sentence_translation: Then this is ˹truly˺ a biased distribution!
 word_by_word:
   1:
@@ -7,15 +7,15 @@ word_by_word:
     translation: This
     transliteration: til'ka
   2:
-    arabic: اِذًا
+    arabic: إِذٗا
     translation: then
     transliteration: idhan
   3:
-    arabic: قِسۡمَةٌ
+    arabic: قِسۡمَةٞ
     translation: (is) a division
     transliteration: qis'matun
   4:
-    arabic: ضِيۡزٰى‏
+    arabic: ضِيزَىٰٓ
     translation: unfair
     transliteration: ḍīzā
 ---

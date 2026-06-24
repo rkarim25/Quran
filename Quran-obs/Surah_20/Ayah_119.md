@@ -1,9 +1,9 @@
 ---
-arabic_ayat: وَاَنَّكَ لَا تَظۡمَؤُا فِيۡهَا وَلَا تَضۡحٰى‏
+arabic_ayat: وَأَنَّكَ لَا تَظۡمَؤُاْ فِيهَا وَلَا تَضۡحَىٰ
 sentence_translation: nor will you ˹ever˺ suffer from thirst or ˹the sun’s˺ heat.” 
 word_by_word:
   1:
-    arabic: وَاَنَّكَ
+    arabic: وَأَنَّكَ
     translation: And that you
     transliteration: wa-annaka
   2:
@@ -11,11 +11,11 @@ word_by_word:
     translation: not
     transliteration: lā
   3:
-    arabic: تَظۡمَؤُا
+    arabic: تَظۡمَؤُاْ
     translation: will suffer from thirst
     transliteration: taẓma-u
   4:
-    arabic: فِيۡهَا
+    arabic: فِيهَا
     translation: therein
     transliteration: fīhā
   5:
@@ -23,7 +23,7 @@ word_by_word:
     translation: and not
     transliteration: walā
   6:
-    arabic: تَضۡحٰى‏
+    arabic: تَضۡحَىٰ
     translation: exposed to the sun's heat
     transliteration: taḍḥā
 ---

@@ -1,29 +1,28 @@
 ---
-arabic_ayat: "وَالَّذِيۡنَ هَاجَرُوۡا فِىۡ سَبِيۡلِ اللّٰهِ ثُمَّ قُتِلُوۡۤا اَوۡ\
-  \ مَاتُوۡا لَيَرۡزُقَنَّهُمُ اللّٰهُ رِزۡقًا حَسَنًا​ؕ وَاِنَّ اللّٰهَ لَهُوَ خَيۡرُ\
-  \ الرّٰزِقِيۡنَ‏ \uFEFF\uFEFF"
+arabic_ayat: وَٱلَّذِينَ هَاجَرُواْ فِي سَبِيلِ ٱللَّهِ ثُمَّ قُتِلُوٓاْ أَوۡ مَاتُواْ
+  لَيَرۡزُقَنَّهُمُ ٱللَّهُ رِزۡقًا حَسَنٗاۚ وَإِنَّ ٱللَّهَ لَهُوَ خَيۡرُ ٱلرَّٰزِقِينَ
 sentence_translation: As for those who emigrate in the cause of Allah and then are
   martyred or die, Allah will indeed grant them a good provision. Surely Allah is
   the Best Provider.
 word_by_word:
   1:
-    arabic: وَالَّذِيۡنَ
+    arabic: وَٱلَّذِينَ
     translation: And those who
     transliteration: wa-alladhīna
   2:
-    arabic: هَاجَرُوۡا
+    arabic: هَاجَرُواْ
     translation: emigrated
     transliteration: hājarū
   3:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   4:
-    arabic: سَبِيۡلِ
+    arabic: سَبِيلِ
     translation: (the) way
     transliteration: sabīli
   5:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (of) Allah
     transliteration: l-lahi
   6:
@@ -31,15 +30,15 @@ word_by_word:
     translation: then
     transliteration: thumma
   7:
-    arabic: قُتِلُوۡۤا
+    arabic: قُتِلُوٓاْ
     translation: were killed
     transliteration: qutilū
   8:
-    arabic: اَوۡ
+    arabic: أَوۡ
     translation: or
     transliteration: aw
   9:
-    arabic: مَاتُوۡا
+    arabic: مَاتُواْ
     translation: died
     transliteration: mātū
   10:
@@ -47,7 +46,7 @@ word_by_word:
     translation: surely, Allah will provide them
     transliteration: layarzuqannahumu
   11:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: surely, Allah will provide them
     transliteration: l-lahu
   12:
@@ -55,15 +54,15 @@ word_by_word:
     translation: a provision
     transliteration: riz'qan
   13:
-    arabic: حَسَنًا​ؕ
+    arabic: حَسَنٗاۚ
     translation: good
     transliteration: ḥasanan
   14:
-    arabic: وَاِنَّ
+    arabic: وَإِنَّ
     translation: And indeed
     transliteration: wa-inna
   15:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   16:
@@ -75,7 +74,7 @@ word_by_word:
     translation: (is the) Best
     transliteration: khayru
   18:
-    arabic: "الرّٰزِقِيۡنَ‏ \uFEFF\uFEFF"
+    arabic: ٱلرَّٰزِقِينَ
     translation: (of) the Providers
     transliteration: l-rāziqīna
 ---

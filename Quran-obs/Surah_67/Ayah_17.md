@@ -1,36 +1,36 @@
 ---
-arabic_ayat: اَمۡ اَمِنۡتُمۡ مَّنۡ فِى السَّمَآءِ اَنۡ يُّرۡسِلَ عَلَيۡكُمۡ حَاصِبًا​
-  ؕ فَسَتَعۡلَمُوۡنَ كَيۡفَ نَذِيۡرِ‏
+arabic_ayat: أَمۡ أَمِنتُم مَّن فِي ٱلسَّمَآءِ أَن يُرۡسِلَ عَلَيۡكُمۡ حَاصِبٗاۖ
+  فَسَتَعۡلَمُونَ كَيۡفَ نَذِيرِ
 sentence_translation: Or do you feel secure that the One Who is in heaven will not
   unleash upon you a storm of stones. Only then would you know how ˹serious˺ My warning
   was!
 word_by_word:
   1:
-    arabic: اَمۡ
+    arabic: أَمۡ
     translation: Or
     transliteration: am
   2:
-    arabic: اَمِنۡتُمۡ
+    arabic: أَمِنتُم
     translation: do you feel secure
     transliteration: amintum
   3:
-    arabic: مَّنۡ
+    arabic: مَّن
     translation: (from Him) Who
     transliteration: man
   4:
-    arabic: فِى
+    arabic: فِي
     translation: (is) in
     transliteration: fī
   5:
-    arabic: السَّمَآءِ
+    arabic: ٱلسَّمَآءِ
     translation: the heaven
     transliteration: l-samāi
   6:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that
     transliteration: an
   7:
-    arabic: يُّرۡسِلَ
+    arabic: يُرۡسِلَ
     translation: He will send
     transliteration: yur'sila
   8:
@@ -38,11 +38,11 @@ word_by_word:
     translation: against you
     transliteration: ʿalaykum
   9:
-    arabic: حَاصِبًا​ ؕ
+    arabic: حَاصِبٗاۖ
     translation: a storm of stones
     transliteration: ḥāṣiban
   10:
-    arabic: فَسَتَعۡلَمُوۡنَ
+    arabic: فَسَتَعۡلَمُونَ
     translation: Then you would know
     transliteration: fasataʿlamūna
   11:
@@ -50,7 +50,7 @@ word_by_word:
     translation: how
     transliteration: kayfa
   12:
-    arabic: نَذِيۡرِ‏
+    arabic: نَذِيرِ
     translation: (was) My warning
     transliteration: nadhīri
 ---

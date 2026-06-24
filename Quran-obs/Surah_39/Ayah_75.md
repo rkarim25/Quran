@@ -1,7 +1,7 @@
 ---
-arabic_ayat: "وَتَرَى الۡمَلٰٓٮِٕكَةَ حَآفِّيۡنَ مِنۡ حَوۡلِ الۡعَرۡشِ يُسَبِّحُوۡنَ\
-  \ بِحَمۡدِ رَبِّهِمۡ​ۚ وَقُضِىَ بَيۡنَهُمۡ بِالۡحَـقِّ وَقِيۡلَ الۡحَمۡدُ لِلّٰهِ\
-  \ رَبِّ الۡعٰلَمِيۡنَ‏ \uFEFF\uFEFF"
+arabic_ayat: وَتَرَى ٱلۡمَلَٰٓئِكَةَ حَآفِّينَ مِنۡ حَوۡلِ ٱلۡعَرۡشِ يُسَبِّحُونَ
+  بِحَمۡدِ رَبِّهِمۡۚ وَقُضِيَ بَيۡنَهُم بِٱلۡحَقِّۚ وَقِيلَ ٱلۡحَمۡدُ لِلَّهِ رَبِّ
+  ٱلۡعَٰلَمِينَ
 sentence_translation: You will see the angels all around the Throne, glorifying the
   praises of their Lord, for judgment will have been passed on all with fairness.
   And it will be said, “Praise be to Allah—Lord of all worlds!”
@@ -11,11 +11,11 @@ word_by_word:
     translation: And you will see
     transliteration: watarā
   2:
-    arabic: الۡمَلٰٓٮِٕكَةَ
+    arabic: ٱلۡمَلَٰٓئِكَةَ
     translation: the Angels
     transliteration: l-malāikata
   3:
-    arabic: حَآفِّيۡنَ
+    arabic: حَآفِّينَ
     translation: surrounding
     transliteration: ḥāffīna
   4:
@@ -27,11 +27,11 @@ word_by_word:
     translation: around
     transliteration: ḥawli
   6:
-    arabic: الۡعَرۡشِ
+    arabic: ٱلۡعَرۡشِ
     translation: the Throne
     transliteration: l-ʿarshi
   7:
-    arabic: يُسَبِّحُوۡنَ
+    arabic: يُسَبِّحُونَ
     translation: glorifying
     transliteration: yusabbiḥūna
   8:
@@ -39,31 +39,31 @@ word_by_word:
     translation: (the) praise
     transliteration: biḥamdi
   9:
-    arabic: رَبِّهِمۡ​ۚ
+    arabic: رَبِّهِمۡۚ
     translation: (of) their Lord
     transliteration: rabbihim
   10:
-    arabic: وَقُضِىَ
+    arabic: وَقُضِيَ
     translation: And (will) be judged
     transliteration: waquḍiya
   11:
-    arabic: بَيۡنَهُمۡ
+    arabic: بَيۡنَهُم
     translation: between them
     transliteration: baynahum
   12:
-    arabic: بِالۡحَـقِّ
+    arabic: بِٱلۡحَقِّۚ
     translation: in truth
     transliteration: bil-ḥaqi
   13:
-    arabic: وَقِيۡلَ
+    arabic: وَقِيلَ
     translation: and it will be said
     transliteration: waqīla
   14:
-    arabic: الۡحَمۡدُ
+    arabic: ٱلۡحَمۡدُ
     translation: All praise be
     transliteration: l-ḥamdu
   15:
-    arabic: لِلّٰهِ
+    arabic: لِلَّهِ
     translation: to Allah
     transliteration: lillahi
   16:
@@ -71,7 +71,7 @@ word_by_word:
     translation: (the) Lord
     transliteration: rabbi
   17:
-    arabic: "الۡعٰلَمِيۡنَ‏ \uFEFF\uFEFF"
+    arabic: ٱلۡعَٰلَمِينَ
     translation: (of) the worlds
     transliteration: l-ʿālamīna
 ---

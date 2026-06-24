@@ -1,16 +1,16 @@
 ---
-arabic_ayat: اِنَّ الَّذِىۡ فَرَضَ عَلَيۡكَ الۡقُرۡاٰنَ لَرَآدُّكَ اِلٰى مَعَادٍ​
-  ؕ قُلْ رَّبِّىۡۤ اَعۡلَمُ مَنۡ جَآءَ بِالۡهُدٰى وَمَنۡ هُوَ فِىۡ ضَلٰلٍ مُّبِيۡنٍ‏
+arabic_ayat: إِنَّ ٱلَّذِي فَرَضَ عَلَيۡكَ ٱلۡقُرۡءَانَ لَرَآدُّكَ إِلَىٰ مَعَادٖۚ
+  قُل رَّبِّيٓ أَعۡلَمُ مَن جَآءَ بِٱلۡهُدَىٰ وَمَنۡ هُوَ فِي ضَلَٰلٖ مُّبِينٖ
 sentence_translation: Most certainly, the One Who has ordained the Quran for you will
   ˹ultimately˺ bring you back home ˹to Mecca˺. Say, “My Lord knows best who has come
   with ˹true˺ guidance and who is clearly astray.”
 word_by_word:
   1:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   2:
-    arabic: الَّذِىۡ
+    arabic: ٱلَّذِي
     translation: He Who
     transliteration: alladhī
   3:
@@ -22,7 +22,7 @@ word_by_word:
     translation: upon you
     transliteration: ʿalayka
   5:
-    arabic: الۡقُرۡاٰنَ
+    arabic: ٱلۡقُرۡءَانَ
     translation: the Quran
     transliteration: l-qur'āna
   6:
@@ -30,27 +30,27 @@ word_by_word:
     translation: (will) surely take you back
     transliteration: larādduka
   7:
-    arabic: اِلٰى
+    arabic: إِلَىٰ
     translation: to
     transliteration: ilā
   8:
-    arabic: مَعَادٍ​ ؕ
+    arabic: مَعَادٖۚ
     translation: a place of return
     transliteration: maʿādin
   9:
-    arabic: قُلْ
+    arabic: قُل
     translation: Say
     transliteration: qul
   10:
-    arabic: رَّبِّىۡۤ
+    arabic: رَّبِّيٓ
     translation: My Lord
     transliteration: rabbī
   11:
-    arabic: اَعۡلَمُ
+    arabic: أَعۡلَمُ
     translation: (is) most knowing
     transliteration: aʿlamu
   12:
-    arabic: مَنۡ
+    arabic: مَن
     translation: (of him) who
     transliteration: man
   13:
@@ -58,7 +58,7 @@ word_by_word:
     translation: comes
     transliteration: jāa
   14:
-    arabic: بِالۡهُدٰى
+    arabic: بِٱلۡهُدَىٰ
     translation: with the guidance
     transliteration: bil-hudā
   15:
@@ -70,15 +70,15 @@ word_by_word:
     translation: he
     transliteration: huwa
   17:
-    arabic: فِىۡ
+    arabic: فِي
     translation: (is) in
     transliteration: fī
   18:
-    arabic: ضَلٰلٍ
+    arabic: ضَلَٰلٖ
     translation: an error
     transliteration: ḍalālin
   19:
-    arabic: مُّبِيۡنٍ‏
+    arabic: مُّبِينٖ
     translation: manifest
     transliteration: mubīnin
 ---

@@ -1,15 +1,15 @@
 ---
-arabic_ayat: الَّذِىۡ لَهٗ مُلۡكُ السَّمٰوٰتِ وَالۡاَرۡضِ​ؕ وَ اللّٰهُ عَلٰى كُلِّ
-  شَىۡءٍ شَهِيۡدٌ ؕ‏
+arabic_ayat: ٱلَّذِي لَهُۥ مُلۡكُ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِۚ وَٱللَّهُ عَلَىٰ كُلِّ
+  شَيۡءٖ شَهِيدٌ
 sentence_translation: ˹the One˺ to Whom belongs the kingdom of the heavens and earth.
   And Allah is a Witness over all things.
 word_by_word:
   1:
-    arabic: الَّذِىۡ
+    arabic: ٱلَّذِي
     translation: The One Who
     transliteration: alladhī
   2:
-    arabic: لَهٗ
+    arabic: لَهُۥ
     translation: for Him
     transliteration: lahu
   3:
@@ -17,19 +17,19 @@ word_by_word:
     translation: (is) the dominion
     transliteration: mul'ku
   4:
-    arabic: السَّمٰوٰتِ
+    arabic: ٱلسَّمَٰوَٰتِ
     translation: (of) the heavens
     transliteration: l-samāwāti
   5:
-    arabic: وَالۡاَرۡضِ​ؕ
+    arabic: وَٱلۡأَرۡضِۚ
     translation: and the earth
     transliteration: wal-arḍi
   6:
-    arabic: وَ اللّٰهُ
+    arabic: وَٱللَّهُ
     translation: and Allah
     transliteration: wal-lahu
   7:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: 'on'
     transliteration: ʿalā
   8:
@@ -37,11 +37,11 @@ word_by_word:
     translation: every
     transliteration: kulli
   9:
-    arabic: شَىۡءٍ
+    arabic: شَيۡءٖ
     translation: thing
     transliteration: shayin
   10:
-    arabic: شَهِيۡدٌ ؕ‏
+    arabic: شَهِيدٌ
     translation: (is) a Witness
     transliteration: shahīdun
 ---

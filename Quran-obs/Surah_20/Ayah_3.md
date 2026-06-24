@@ -1,21 +1,21 @@
 ---
-arabic_ayat: اِلَّا تَذۡكِرَةً لِّمَنۡ يَّخۡشٰى ۙ‏
+arabic_ayat: إِلَّا تَذۡكِرَةٗ لِّمَن يَخۡشَىٰ
 sentence_translation: but as a reminder to those in awe ˹of Allah˺.
 word_by_word:
   1:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: (But)
     transliteration: illā
   2:
-    arabic: تَذۡكِرَةً
+    arabic: تَذۡكِرَةٗ
     translation: (as) a reminder
     transliteration: tadhkiratan
   3:
-    arabic: لِّمَنۡ
+    arabic: لِّمَن
     translation: for (those) who
     transliteration: liman
   4:
-    arabic: يَّخۡشٰى ۙ‏
+    arabic: يَخۡشَىٰ
     translation: fear
     transliteration: yakhshā
 ---

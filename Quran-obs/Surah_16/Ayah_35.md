@@ -1,8 +1,8 @@
 ---
-arabic_ayat: وَقَالَ الَّذِيۡنَ اَشۡرَكُوۡا لَوۡ شَآءَ اللّٰهُ مَا عَبَدۡنَا مِنۡ
-  دُوۡنِهٖ مِنۡ شَىۡءٍ نَّحۡنُ وَلَاۤ اٰبَآؤُنَا وَلَا حَرَّمۡنَا مِنۡ دُوۡنِهٖ مِنۡ
-  شَىۡءٍ​ؕ كَذٰلِكَ فَعَلَ الَّذِيۡنَ مِنۡ قَبۡلِهِمۡ​ۚ فَهَلۡ عَلَى الرُّسُلِ اِلَّا
-  الۡبَلٰغُ الۡمُبِيۡنُ‏
+arabic_ayat: وَقَالَ ٱلَّذِينَ أَشۡرَكُواْ لَوۡ شَآءَ ٱللَّهُ مَا عَبَدۡنَا مِن دُونِهِۦ
+  مِن شَيۡءٖ نَّحۡنُ وَلَآ ءَابَآؤُنَا وَلَا حَرَّمۡنَا مِن دُونِهِۦ مِن شَيۡءٖۚ
+  كَذَٰلِكَ فَعَلَ ٱلَّذِينَ مِن قَبۡلِهِمۡۚ فَهَلۡ عَلَى ٱلرُّسُلِ إِلَّا ٱلۡبَلَٰغُ
+  ٱلۡمُبِينُ
 sentence_translation: The polytheists argue, “Had Allah willed, neither we nor our
   forefathers would have worshipped anything other than Him, nor prohibited anything
   without His command.” So did those before them. Is not the messengers’ duty only
@@ -13,11 +13,11 @@ word_by_word:
     translation: And said
     transliteration: waqāla
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   3:
-    arabic: اَشۡرَكُوۡا
+    arabic: أَشۡرَكُواْ
     translation: associate partners (with Allah)
     transliteration: ashrakū
   4:
@@ -29,7 +29,7 @@ word_by_word:
     translation: Allah (had) willed
     transliteration: shāa
   6:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah (had) willed
     transliteration: l-lahu
   7:
@@ -41,19 +41,19 @@ word_by_word:
     translation: we (would) have worshipped
     transliteration: ʿabadnā
   9:
-    arabic: مِنۡ
+    arabic: مِن
     translation: other than Him
     transliteration: min
   10:
-    arabic: دُوۡنِهٖ
+    arabic: دُونِهِۦ
     translation: other than Him
     transliteration: dūnihi
   11:
-    arabic: مِنۡ
+    arabic: مِن
     translation: any
     transliteration: min
   12:
-    arabic: شَىۡءٍ
+    arabic: شَيۡءٖ
     translation: thing
     transliteration: shayin
   13:
@@ -61,11 +61,11 @@ word_by_word:
     translation: we
     transliteration: naḥnu
   14:
-    arabic: وَلَاۤ
+    arabic: وَلَآ ءَ
     translation: and not
     transliteration: walā
   15:
-    arabic: اٰبَآؤُنَا
+    arabic: ابَآؤُنَا
     translation: our forefathers
     transliteration: ābāunā
   16:
@@ -77,23 +77,23 @@ word_by_word:
     translation: we (would) have forbidden
     transliteration: ḥarramnā
   18:
-    arabic: مِنۡ
+    arabic: مِن
     translation: other than Him
     transliteration: min
   19:
-    arabic: دُوۡنِهٖ
+    arabic: دُونِهِۦ
     translation: other than Him
     transliteration: dūnihi
   20:
-    arabic: مِنۡ
+    arabic: مِن
     translation: anything
     transliteration: min
   21:
-    arabic: شَىۡءٍ​ؕ
+    arabic: شَيۡءٖۚ
     translation: anything
     transliteration: shayin
   22:
-    arabic: كَذٰلِكَ
+    arabic: كَذَٰلِكَ
     translation: Thus
     transliteration: kadhālika
   23:
@@ -101,15 +101,15 @@ word_by_word:
     translation: did
     transliteration: faʿala
   24:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   25:
-    arabic: مِنۡ
+    arabic: مِن
     translation: (were) before them
     transliteration: min
   26:
-    arabic: قَبۡلِهِمۡ​ۚ
+    arabic: قَبۡلِهِمۡۚ
     translation: (were) before them
     transliteration: qablihim
   27:
@@ -121,19 +121,19 @@ word_by_word:
     translation: 'on'
     transliteration: ʿalā
   29:
-    arabic: الرُّسُلِ
+    arabic: ٱلرُّسُلِ
     translation: the messengers
     transliteration: l-rusuli
   30:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   31:
-    arabic: الۡبَلٰغُ
+    arabic: ٱلۡبَلَٰغُ
     translation: the conveyance
     transliteration: l-balāghu
   32:
-    arabic: الۡمُبِيۡنُ‏
+    arabic: ٱلۡمُبِينُ
     translation: clear
     transliteration: l-mubīnu
 ---

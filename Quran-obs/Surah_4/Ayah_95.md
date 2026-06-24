@@ -1,9 +1,9 @@
 ---
-arabic_ayat: لَا يَسۡتَوِى الۡقَاعِدُوۡنَ مِنَ الۡمُؤۡمِنِيۡنَ غَيۡرُ اُولِى الضَّرَرِ
-  وَالۡمُجَاهِدُوۡنَ فِىۡ سَبِيۡلِ اللّٰهِ بِاَمۡوَالِهِمۡ وَاَنۡفُسِهِمۡ​ ؕ فَضَّلَ
-  اللّٰهُ الۡمُجٰهِدِيۡنَ بِاَمۡوَالِهِمۡ وَاَنۡفُسِهِمۡ عَلَى الۡقٰعِدِيۡنَ دَرَجَةً​ 
-  ؕ وَكُلًّا وَّعَدَ اللّٰهُ الۡحُسۡنٰى​ؕ وَفَضَّلَ اللّٰهُ الۡمُجٰهِدِيۡنَ عَلَى
-  الۡقٰعِدِيۡنَ اَجۡرًا عَظِيۡمًا ۙ‏
+arabic_ayat: لَّا يَسۡتَوِي ٱلۡقَٰعِدُونَ مِنَ ٱلۡمُؤۡمِنِينَ غَيۡرُ أُوْلِي ٱلضَّرَرِ
+  وَٱلۡمُجَٰهِدُونَ فِي سَبِيلِ ٱللَّهِ بِأَمۡوَٰلِهِمۡ وَأَنفُسِهِمۡۚ فَضَّلَ ٱللَّهُ
+  ٱلۡمُجَٰهِدِينَ بِأَمۡوَٰلِهِمۡ وَأَنفُسِهِمۡ عَلَى ٱلۡقَٰعِدِينَ دَرَجَةٗۚ وَكُلّٗا
+  وَعَدَ ٱللَّهُ ٱلۡحُسۡنَىٰۚ وَفَضَّلَ ٱللَّهُ ٱلۡمُجَٰهِدِينَ عَلَى ٱلۡقَٰعِدِينَ
+  أَجۡرًا عَظِيمٗا
 sentence_translation: Those who stay at home—except those with valid excuses—are not
   equal to those who strive in the cause of Allah with their wealth and their lives.
   Allah has elevated in rank those who strive with their wealth and their lives above
@@ -11,15 +11,15 @@ sentence_translation: Those who stay at home—except those with valid excuses�
   but those who strive will receive a far better reward than others—
 word_by_word:
   1:
-    arabic: لَا
+    arabic: لَّا
     translation: Not
     transliteration: lā
   2:
-    arabic: يَسۡتَوِى
+    arabic: يَسۡتَوِي
     translation: (are) equal
     transliteration: yastawī
   3:
-    arabic: الۡقَاعِدُوۡنَ
+    arabic: ٱلۡقَٰعِدُونَ
     translation: the ones who sit
     transliteration: l-qāʿidūna
   4:
@@ -27,7 +27,7 @@ word_by_word:
     translation: among
     transliteration: mina
   5:
-    arabic: الۡمُؤۡمِنِيۡنَ
+    arabic: ٱلۡمُؤۡمِنِينَ
     translation: the believers
     transliteration: l-mu'minīna
   6:
@@ -35,35 +35,35 @@ word_by_word:
     translation: other than
     transliteration: ghayru
   7:
-    arabic: اُولِى
+    arabic: أُوْلِي
     translation: the ones (who are)
     transliteration: ulī
   8:
-    arabic: الضَّرَرِ
+    arabic: ٱلضَّرَرِ
     translation: '[the] disabled'
     transliteration: l-ḍarari
   9:
-    arabic: وَالۡمُجَاهِدُوۡنَ
+    arabic: وَٱلۡمُجَٰهِدُونَ
     translation: and the ones who strive
     transliteration: wal-mujāhidūna
   10:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   11:
-    arabic: سَبِيۡلِ
+    arabic: سَبِيلِ
     translation: (the) way
     transliteration: sabīli
   12:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (of) Allah
     transliteration: l-lahi
   13:
-    arabic: بِاَمۡوَالِهِمۡ
+    arabic: بِأَمۡوَٰلِهِمۡ
     translation: with their wealth
     transliteration: bi-amwālihim
   14:
-    arabic: وَاَنۡفُسِهِمۡ​ ؕ
+    arabic: وَأَنفُسِهِمۡۚ
     translation: and their lives
     transliteration: wa-anfusihim
   15:
@@ -71,19 +71,19 @@ word_by_word:
     translation: Preferred
     transliteration: faḍḍala
   16:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: (has) Allah
     transliteration: l-lahu
   17:
-    arabic: الۡمُجٰهِدِيۡنَ
+    arabic: ٱلۡمُجَٰهِدِينَ
     translation: the ones who strive
     transliteration: l-mujāhidīna
   18:
-    arabic: بِاَمۡوَالِهِمۡ
+    arabic: بِأَمۡوَٰلِهِمۡ
     translation: with their wealth
     transliteration: bi-amwālihim
   19:
-    arabic: وَاَنۡفُسِهِمۡ
+    arabic: وَأَنفُسِهِمۡ
     translation: and their lives
     transliteration: wa-anfusihim
   20:
@@ -91,27 +91,27 @@ word_by_word:
     translation: to
     transliteration: ʿalā
   21:
-    arabic: الۡقٰعِدِيۡنَ
+    arabic: ٱلۡقَٰعِدِينَ
     translation: the ones who sit
     transliteration: l-qāʿidīna
   22:
-    arabic: دَرَجَةً​  ؕ
+    arabic: دَرَجَةٗۚ
     translation: (in) rank
     transliteration: darajatan
   23:
-    arabic: وَكُلًّا
+    arabic: وَكُلّٗا
     translation: And (to) all
     transliteration: wakullan
   24:
-    arabic: وَّعَدَ
+    arabic: وَعَدَ
     translation: promised
     transliteration: waʿada
   25:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: (has) Allah
     transliteration: l-lahu
   26:
-    arabic: الۡحُسۡنٰى​ؕ
+    arabic: ٱلۡحُسۡنَىٰۚ
     translation: the best
     transliteration: l-ḥus'nā
   27:
@@ -119,11 +119,11 @@ word_by_word:
     translation: preferred
     transliteration: wafaḍḍala
   28:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: (has) Allah
     transliteration: l-lahu
   29:
-    arabic: الۡمُجٰهِدِيۡنَ
+    arabic: ٱلۡمُجَٰهِدِينَ
     translation: the ones who strive
     transliteration: l-mujāhidīna
   30:
@@ -131,15 +131,15 @@ word_by_word:
     translation: over
     transliteration: ʿalā
   31:
-    arabic: الۡقٰعِدِيۡنَ
+    arabic: ٱلۡقَٰعِدِينَ
     translation: the ones who sit
     transliteration: l-qāʿidīna
   32:
-    arabic: اَجۡرًا
+    arabic: أَجۡرًا
     translation: (with) a reward
     transliteration: ajran
   33:
-    arabic: عَظِيۡمًا ۙ‏
+    arabic: عَظِيمٗا
     translation: great
     transliteration: ʿaẓīman
 ---

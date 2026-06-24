@@ -1,12 +1,12 @@
 ---
-arabic_ayat: وَيَجۡعَلُوۡنَ لِمَا لَا يَعۡلَمُوۡنَ نَصِيۡبًا مِّمَّا رَزَقۡنٰهُمۡ​ؕ
-  تَاللّٰهِ لَـتُسۡــَٔلُنَّ عَمَّا كُنۡتُمۡ تَفۡتَرُوۡنَ‏
+arabic_ayat: وَيَجۡعَلُونَ لِمَا لَا يَعۡلَمُونَ نَصِيبٗا مِّمَّا رَزَقۡنَٰهُمۡۗ تَٱللَّهِ
+  لَتُسۡـَٔلُنَّ عَمَّا كُنتُمۡ تَفۡتَرُونَ
 sentence_translation: And they ˹even˺ assign to those ˹idols˺—who know nothing—a share
   of what We have provided for them. By Allah! You will certainly be questioned about
   whatever ˹lies˺ you used to fabricate ˹against Allah˺.
 word_by_word:
   1:
-    arabic: وَيَجۡعَلُوۡنَ
+    arabic: وَيَجۡعَلُونَ
     translation: And they assign
     transliteration: wayajʿalūna
   2:
@@ -18,11 +18,11 @@ word_by_word:
     translation: not
     transliteration: lā
   4:
-    arabic: يَعۡلَمُوۡنَ
+    arabic: يَعۡلَمُونَ
     translation: 'they know '
     transliteration: yaʿlamūna
   5:
-    arabic: نَصِيۡبًا
+    arabic: نَصِيبٗا
     translation: a portion
     transliteration: naṣīban
   6:
@@ -30,15 +30,15 @@ word_by_word:
     translation: of what
     transliteration: mimmā
   7:
-    arabic: رَزَقۡنٰهُمۡ​ؕ
+    arabic: رَزَقۡنَٰهُمۡۗ
     translation: We have provided them
     transliteration: razaqnāhum
   8:
-    arabic: تَاللّٰهِ
+    arabic: تَٱللَّهِ
     translation: By Allah
     transliteration: tal-lahi
   9:
-    arabic: لَـتُسۡــَٔلُنَّ
+    arabic: لَتُسۡـَٔلُنَّ
     translation: surely you will be asked
     transliteration: latus'alunna
   10:
@@ -46,11 +46,11 @@ word_by_word:
     translation: about what
     transliteration: ʿammā
   11:
-    arabic: كُنۡتُمۡ
+    arabic: كُنتُمۡ
     translation: you used (to)
     transliteration: kuntum
   12:
-    arabic: تَفۡتَرُوۡنَ‏
+    arabic: تَفۡتَرُونَ
     translation: invent
     transliteration: taftarūna
 ---

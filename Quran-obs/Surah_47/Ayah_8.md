@@ -1,18 +1,18 @@
 ---
-arabic_ayat: وَالَّذِيۡنَ كَفَرُوۡا فَتَعۡسًا لَّهُمۡ وَاَضَلَّ اَعۡمَالَهُمۡ‏
+arabic_ayat: وَٱلَّذِينَ كَفَرُواْ فَتَعۡسٗا لَّهُمۡ وَأَضَلَّ أَعۡمَٰلَهُمۡ
 sentence_translation: As for the disbelievers, may they be doomed and may He render
   their deeds void.
 word_by_word:
   1:
-    arabic: وَالَّذِيۡنَ
+    arabic: وَٱلَّذِينَ
     translation: But those who
     transliteration: wa-alladhīna
   2:
-    arabic: كَفَرُوۡا
+    arabic: كَفَرُواْ
     translation: disbelieve
     transliteration: kafarū
   3:
-    arabic: فَتَعۡسًا
+    arabic: فَتَعۡسٗا
     translation: destruction (is)
     transliteration: fataʿsan
   4:
@@ -20,11 +20,11 @@ word_by_word:
     translation: for them
     transliteration: lahum
   5:
-    arabic: وَاَضَلَّ
+    arabic: وَأَضَلَّ
     translation: and He will cause to be lost
     transliteration: wa-aḍalla
   6:
-    arabic: اَعۡمَالَهُمۡ‏
+    arabic: أَعۡمَٰلَهُمۡ
     translation: their deeds
     transliteration: aʿmālahum
 ---

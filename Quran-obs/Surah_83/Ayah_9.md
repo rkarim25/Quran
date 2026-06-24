@@ -1,13 +1,13 @@
 ---
-arabic_ayat: كِتٰبٌ مَّرۡقُوۡمٌؕ‏
+arabic_ayat: كِتَٰبٞ مَّرۡقُومٞ
 sentence_translation: a fate ˹already˺ sealed.
 word_by_word:
   1:
-    arabic: كِتٰبٌ
+    arabic: كِتَٰبٞ
     translation: A book
     transliteration: kitābun
   2:
-    arabic: مَّرۡقُوۡمٌؕ‏
+    arabic: مَّرۡقُومٞ
     translation: written
     transliteration: marqūmun
 ---

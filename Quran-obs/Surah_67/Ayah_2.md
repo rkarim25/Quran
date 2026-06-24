@@ -1,11 +1,11 @@
 ---
-arabic_ayat: اۨلَّذِىۡ خَلَقَ الۡمَوۡتَ وَالۡحَيٰوةَ لِيَبۡلُوَكُمۡ اَيُّكُمۡ اَحۡسَنُ
-  عَمَلًا ؕ وَهُوَ الۡعَزِيۡزُ الۡغَفُوۡرُۙ‏
+arabic_ayat: ٱلَّذِي خَلَقَ ٱلۡمَوۡتَ وَٱلۡحَيَوٰةَ لِيَبۡلُوَكُمۡ أَيُّكُمۡ أَحۡسَنُ
+  عَمَلٗاۚ وَهُوَ ٱلۡعَزِيزُ ٱلۡغَفُورُ
 sentence_translation: ˹He is the One˺ Who created death and life in order to test
   which of you is best in deeds. And He is the Almighty, All-Forgiving.
 word_by_word:
   1:
-    arabic: اۨلَّذِىۡ
+    arabic: ٱلَّذِي
     translation: The One Who
     transliteration: alladhī
   2:
@@ -13,11 +13,11 @@ word_by_word:
     translation: created
     transliteration: khalaqa
   3:
-    arabic: الۡمَوۡتَ
+    arabic: ٱلۡمَوۡتَ
     translation: death
     transliteration: l-mawta
   4:
-    arabic: وَالۡحَيٰوةَ
+    arabic: وَٱلۡحَيَوٰةَ
     translation: and life
     transliteration: wal-ḥayata
   5:
@@ -25,15 +25,15 @@ word_by_word:
     translation: that He may test you
     transliteration: liyabluwakum
   6:
-    arabic: اَيُّكُمۡ
+    arabic: أَيُّكُمۡ
     translation: which of you
     transliteration: ayyukum
   7:
-    arabic: اَحۡسَنُ
+    arabic: أَحۡسَنُ
     translation: (is) best
     transliteration: aḥsanu
   8:
-    arabic: عَمَلًا ؕ
+    arabic: عَمَلٗاۚ
     translation: (in) deed
     transliteration: ʿamalan
   9:
@@ -41,11 +41,11 @@ word_by_word:
     translation: And He
     transliteration: wahuwa
   10:
-    arabic: الۡعَزِيۡزُ
+    arabic: ٱلۡعَزِيزُ
     translation: (is) the All-Mighty
     transliteration: l-ʿazīzu
   11:
-    arabic: الۡغَفُوۡرُۙ‏
+    arabic: ٱلۡغَفُورُ
     translation: the Oft-Forgiving
     transliteration: l-ghafūru
 ---

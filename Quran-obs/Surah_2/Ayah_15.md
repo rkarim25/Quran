@@ -1,11 +1,10 @@
 ---
-arabic_ayat: "اَللّٰهُ يَسۡتَهۡزِئُ بِهِمۡ وَيَمُدُّهُمۡ فِىۡ طُغۡيَانِهِمۡ يَعۡمَهُوۡنَ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: ٱللَّهُ يَسۡتَهۡزِئُ بِهِمۡ وَيَمُدُّهُمۡ فِي طُغۡيَٰنِهِمۡ يَعۡمَهُونَ
 sentence_translation: Allah will throw their mockery back at them, leaving them to
   continue wandering blindly in their defiance.
 word_by_word:
   1:
-    arabic: اَللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: al-lahu
   2:
@@ -21,15 +20,15 @@ word_by_word:
     translation: and prolongs them
     transliteration: wayamudduhum
   5:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   6:
-    arabic: طُغۡيَانِهِمۡ
+    arabic: طُغۡيَٰنِهِمۡ
     translation: their transgression
     transliteration: ṭugh'yānihim
   7:
-    arabic: "يَعۡمَهُوۡنَ‏ \uFEFF\uFEFF"
+    arabic: يَعۡمَهُونَ
     translation: they wander blindly
     transliteration: yaʿmahūna
 ---

@@ -1,5 +1,5 @@
 ---
-arabic_ayat: وَلَوۡ نَزَّلۡنٰهُ عَلٰى بَعۡضِ الۡاَعۡجَمِيۡنَۙ‏
+arabic_ayat: وَلَوۡ نَزَّلۡنَٰهُ عَلَىٰ بَعۡضِ ٱلۡأَعۡجَمِينَ
 sentence_translation: Had We revealed it to a non-Arab,
 word_by_word:
   1:
@@ -7,11 +7,11 @@ word_by_word:
     translation: And if
     transliteration: walaw
   2:
-    arabic: نَزَّلۡنٰهُ
+    arabic: نَزَّلۡنَٰهُ
     translation: We (had) revealed it
     transliteration: nazzalnāhu
   3:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: to
     transliteration: ʿalā
   4:
@@ -19,7 +19,7 @@ word_by_word:
     translation: any
     transliteration: baʿḍi
   5:
-    arabic: الۡاَعۡجَمِيۡنَۙ‏
+    arabic: ٱلۡأَعۡجَمِينَ
     translation: (of) the non-Arabs
     transliteration: l-aʿjamīna
 ---

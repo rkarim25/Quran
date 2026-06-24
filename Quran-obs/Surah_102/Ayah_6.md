@@ -1,5 +1,5 @@
 ---
-arabic_ayat: لَتَرَوُنَّ الۡجَحِيۡمَۙ‏
+arabic_ayat: لَتَرَوُنَّ ٱلۡجَحِيمَ
 sentence_translation: ˹But˺ you will surely see the Hellfire.
 word_by_word:
   1:
@@ -7,7 +7,7 @@ word_by_word:
     translation: Surely you will see
     transliteration: latarawunna
   2:
-    arabic: الۡجَحِيۡمَۙ‏
+    arabic: ٱلۡجَحِيمَ
     translation: the Hellfire
     transliteration: l-jaḥīma
 ---

@@ -1,17 +1,17 @@
 ---
-arabic_ayat: اَوۡ اَمَرَ بِالتَّقۡوٰىۙ‏
+arabic_ayat: أَوۡ أَمَرَ بِٱلتَّقۡوَىٰٓ
 sentence_translation: or encourages righteousness?
 word_by_word:
   1:
-    arabic: اَوۡ
+    arabic: أَوۡ
     translation: Or
     transliteration: aw
   2:
-    arabic: اَمَرَ
+    arabic: أَمَرَ
     translation: he enjoins
     transliteration: amara
   3:
-    arabic: بِالتَّقۡوٰىۙ‏
+    arabic: بِٱلتَّقۡوَىٰٓ
     translation: '[of the] righteousness'
     transliteration: bil-taqwā
 ---

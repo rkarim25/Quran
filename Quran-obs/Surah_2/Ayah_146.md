@@ -1,23 +1,23 @@
 ---
-arabic_ayat: اَلَّذِيۡنَ اٰتَيۡنٰهُمُ الۡكِتٰبَ يَعۡرِفُوۡنَهٗ كَمَا يَعۡرِفُوۡنَ
-  اَبۡنَآءَهُمۡؕ وَاِنَّ فَرِيۡقًا مِّنۡهُمۡ لَيَكۡتُمُوۡنَ الۡحَـقَّ وَهُمۡ يَعۡلَمُوۡنَ‏
+arabic_ayat: ٱلَّذِينَ ءَاتَيۡنَٰهُمُ ٱلۡكِتَٰبَ يَعۡرِفُونَهُۥ كَمَا يَعۡرِفُونَ
+  أَبۡنَآءَهُمۡۖ وَإِنَّ فَرِيقٗا مِّنۡهُمۡ لَيَكۡتُمُونَ ٱلۡحَقَّ وَهُمۡ يَعۡلَمُونَ
 sentence_translation: Those We have given the Scripture recognize this ˹Prophet˺ as
   they recognize their own children. Yet a group of them hides the truth knowingly.
 word_by_word:
   1:
-    arabic: اَلَّذِيۡنَ
+    arabic: ٱلَّذِينَ ءَ
     translation: (To) those whom
     transliteration: alladhīna
   2:
-    arabic: اٰتَيۡنٰهُمُ
+    arabic: اتَيۡنَٰهُمُ
     translation: We gave [them]
     transliteration: ātaynāhumu
   3:
-    arabic: الۡكِتٰبَ
+    arabic: ٱلۡكِتَٰبَ
     translation: the Book
     transliteration: l-kitāba
   4:
-    arabic: يَعۡرِفُوۡنَهٗ
+    arabic: يَعۡرِفُونَهُۥ
     translation: they recognize it
     transliteration: yaʿrifūnahu
   5:
@@ -25,19 +25,19 @@ word_by_word:
     translation: like
     transliteration: kamā
   6:
-    arabic: يَعۡرِفُوۡنَ
+    arabic: يَعۡرِفُونَ
     translation: they recognize
     transliteration: yaʿrifūna
   7:
-    arabic: اَبۡنَآءَهُمۡؕ
+    arabic: أَبۡنَآءَهُمۡۖ
     translation: their sons
     transliteration: abnāahum
   8:
-    arabic: وَاِنَّ
+    arabic: وَإِنَّ
     translation: And indeed
     transliteration: wa-inna
   9:
-    arabic: فَرِيۡقًا
+    arabic: فَرِيقٗا
     translation: a group
     transliteration: farīqan
   10:
@@ -45,11 +45,11 @@ word_by_word:
     translation: of them
     transliteration: min'hum
   11:
-    arabic: لَيَكۡتُمُوۡنَ
+    arabic: لَيَكۡتُمُونَ
     translation: surely they conceal
     transliteration: layaktumūna
   12:
-    arabic: الۡحَـقَّ
+    arabic: ٱلۡحَقَّ
     translation: the Truth
     transliteration: l-ḥaqa
   13:
@@ -57,7 +57,7 @@ word_by_word:
     translation: while they
     transliteration: wahum
   14:
-    arabic: يَعۡلَمُوۡنَ‏
+    arabic: يَعۡلَمُونَ
     translation: know
     transliteration: yaʿlamūna
 ---

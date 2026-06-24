@@ -1,9 +1,8 @@
 ---
-arabic_ayat: "وَلَٮِٕنۡ سَاَ لۡتَهُمۡ مَّنۡ خَلَقَ السَّمٰوٰتِ وَالۡاَرۡضَ لَيَـقُوۡلُنَّ\
-  \ اللّٰهُ​ ؕ قُلۡ اَفَرَءَيۡتُمۡ مَّا تَدۡعُوۡنَ مِنۡ دُوۡنِ اللّٰهِ اِنۡ اَرَادَنِىَ\
-  \ اللّٰهُ بِضُرٍّ هَلۡ هُنَّ كٰشِفٰتُ ضُرِّهٖۤ اَوۡ اَرَادَنِىۡ بِرَحۡمَةٍ هَلۡ\
-  \ هُنَّ مُمۡسِكٰتُ رَحۡمَتِهٖ​ ؕ قُلۡ حَسۡبِىَ اللّٰهُ​ ؕ عَلَيۡهِ يَتَوَكَّلُ الۡمُتَوَكِّلُوۡنَ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: وَلَئِن سَأَلۡتَهُم مَّنۡ خَلَقَ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضَ لَيَقُولُنَّ
+  ٱللَّهُۚ قُلۡ أَفَرَءَيۡتُم مَّا تَدۡعُونَ مِن دُونِ ٱللَّهِ إِنۡ أَرَادَنِيَ ٱللَّهُ
+  بِضُرٍّ هَلۡ هُنَّ كَٰشِفَٰتُ ضُرِّهِۦٓ أَوۡ أَرَادَنِي بِرَحۡمَةٍ هَلۡ هُنَّ مُمۡسِكَٰتُ
+  رَحۡمَتِهِۦۚ قُلۡ حَسۡبِيَ ٱللَّهُۖ عَلَيۡهِ يَتَوَكَّلُ ٱلۡمُتَوَكِّلُونَ
 sentence_translation: 'If you ask them ˹O Prophet˺ who created the heavens and the
   earth, they will certainly say, “Allah!” Ask ˹them˺, “Consider then whatever ˹idols˺
   you invoke besides Allah: if it was Allah’s Will to harm me, could they undo that
@@ -11,11 +10,11 @@ sentence_translation: 'If you ask them ˹O Prophet˺ who created the heavens and
   “Allah is sufficient for me. In Him ˹alone˺ the faithful put their trust.”'
 word_by_word:
   1:
-    arabic: وَلَٮِٕنۡ
+    arabic: وَلَئِن
     translation: And if
     transliteration: wala-in
   2:
-    arabic: سَاَ لۡتَهُمۡ
+    arabic: سَأَلۡتَهُم
     translation: you ask them
     transliteration: sa-altahum
   3:
@@ -27,19 +26,19 @@ word_by_word:
     translation: created
     transliteration: khalaqa
   5:
-    arabic: السَّمٰوٰتِ
+    arabic: ٱلسَّمَٰوَٰتِ
     translation: the heavens
     transliteration: l-samāwāti
   6:
-    arabic: وَالۡاَرۡضَ
+    arabic: وَٱلۡأَرۡضَ
     translation: and the earth
     transliteration: wal-arḍa
   7:
-    arabic: لَيَـقُوۡلُنَّ
+    arabic: لَيَقُولُنَّ
     translation: Surely, they will say
     transliteration: layaqūlunna
   8:
-    arabic: اللّٰهُ​ ؕ
+    arabic: ٱللَّهُۚ
     translation: Allah
     transliteration: l-lahu
   9:
@@ -47,7 +46,7 @@ word_by_word:
     translation: Say
     transliteration: qul
   10:
-    arabic: اَفَرَءَيۡتُمۡ
+    arabic: أَفَرَءَيۡتُم
     translation: Then do you see
     transliteration: afara-aytum
   11:
@@ -55,31 +54,31 @@ word_by_word:
     translation: what
     transliteration: mā
   12:
-    arabic: تَدۡعُوۡنَ
+    arabic: تَدۡعُونَ
     translation: you invoke
     transliteration: tadʿūna
   13:
-    arabic: مِنۡ
+    arabic: مِن
     translation: besides
     transliteration: min
   14:
-    arabic: دُوۡنِ
+    arabic: دُونِ
     translation: besides
     transliteration: dūni
   15:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   16:
-    arabic: اِنۡ
+    arabic: إِنۡ
     translation: if
     transliteration: in
   17:
-    arabic: اَرَادَنِىَ
+    arabic: أَرَادَنِيَ
     translation: Allah intended for me
     transliteration: arādaniya
   18:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah intended for me
     transliteration: l-lahu
   19:
@@ -95,19 +94,19 @@ word_by_word:
     translation: they
     transliteration: hunna
   22:
-    arabic: كٰشِفٰتُ
+    arabic: كَٰشِفَٰتُ
     translation: removers
     transliteration: kāshifātu
   23:
-    arabic: ضُرِّهٖۤ
+    arabic: ضُرِّهِۦٓ
     translation: (of) harm (from) Him
     transliteration: ḍurrihi
   24:
-    arabic: اَوۡ
+    arabic: أَوۡ
     translation: or
     transliteration: aw
   25:
-    arabic: اَرَادَنِىۡ
+    arabic: أَرَادَنِي
     translation: if He intended for me
     transliteration: arādanī
   26:
@@ -123,11 +122,11 @@ word_by_word:
     translation: they
     transliteration: hunna
   29:
-    arabic: مُمۡسِكٰتُ
+    arabic: مُمۡسِكَٰتُ
     translation: withholders
     transliteration: mum'sikātu
   30:
-    arabic: رَحۡمَتِهٖ​ ؕ
+    arabic: رَحۡمَتِهِۦۚ
     translation: (of) His mercy
     transliteration: raḥmatihi
   31:
@@ -135,11 +134,11 @@ word_by_word:
     translation: Say
     transliteration: qul
   32:
-    arabic: حَسۡبِىَ
+    arabic: حَسۡبِيَ
     translation: Sufficient (is) Allah for me
     transliteration: ḥasbiya
   33:
-    arabic: اللّٰهُ​ ؕ
+    arabic: ٱللَّهُۖ
     translation: Sufficient (is) Allah for me
     transliteration: l-lahu
   34:
@@ -151,7 +150,7 @@ word_by_word:
     translation: put trust
     transliteration: yatawakkalu
   36:
-    arabic: "الۡمُتَوَكِّلُوۡنَ‏ \uFEFF\uFEFF"
+    arabic: ٱلۡمُتَوَكِّلُونَ
     translation: those who trust
     transliteration: l-mutawakilūna
 ---

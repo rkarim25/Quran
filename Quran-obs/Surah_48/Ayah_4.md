@@ -1,7 +1,7 @@
 ---
-arabic_ayat: هُوَ الَّذِىۡۤ اَنۡزَلَ السَّكِيۡنَةَ فِىۡ قُلُوۡبِ الۡمُؤۡمِنِيۡنَ لِيَزۡدَادُوۡۤا
-  اِيۡمَانًا مَّعَ اِيۡمَانِهِمۡ​ ؕ وَلِلّٰهِ جُنُوۡدُ السَّمٰوٰتِ وَالۡاَرۡضِ​ؕ وَكَانَ
-  اللّٰهُ عَلِيۡمًا حَكِيۡمًا ۙ‏
+arabic_ayat: هُوَ ٱلَّذِيٓ أَنزَلَ ٱلسَّكِينَةَ فِي قُلُوبِ ٱلۡمُؤۡمِنِينَ لِيَزۡدَادُوٓاْ
+  إِيمَٰنٗا مَّعَ إِيمَٰنِهِمۡۗ وَلِلَّهِ جُنُودُ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِۚ وَكَانَ
+  ٱللَّهُ عَلِيمًا حَكِيمٗا
 sentence_translation: He is the One Who sent down serenity upon the hearts of the
   believers so that they may increase even more in their faith. To Allah ˹alone˺ belong
   the forces of the heavens and the earth. And Allah is All-Knowing, All-Wise.
@@ -11,35 +11,35 @@ word_by_word:
     translation: He
     transliteration: huwa
   2:
-    arabic: الَّذِىۡۤ
+    arabic: ٱلَّذِيٓ
     translation: (is) the One Who
     transliteration: alladhī
   3:
-    arabic: اَنۡزَلَ
+    arabic: أَنزَلَ
     translation: sent down
     transliteration: anzala
   4:
-    arabic: السَّكِيۡنَةَ
+    arabic: ٱلسَّكِينَةَ
     translation: '[the] tranquility'
     transliteration: l-sakīnata
   5:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in(to)
     transliteration: fī
   6:
-    arabic: قُلُوۡبِ
+    arabic: قُلُوبِ
     translation: (the) hearts
     transliteration: qulūbi
   7:
-    arabic: الۡمُؤۡمِنِيۡنَ
+    arabic: ٱلۡمُؤۡمِنِينَ
     translation: (of) the believers
     transliteration: l-mu'minīna
   8:
-    arabic: لِيَزۡدَادُوۡۤا
+    arabic: لِيَزۡدَادُوٓاْ
     translation: that they may increase
     transliteration: liyazdādū
   9:
-    arabic: اِيۡمَانًا
+    arabic: إِيمَٰنٗا
     translation: (in) faith
     transliteration: īmānan
   10:
@@ -47,23 +47,23 @@ word_by_word:
     translation: with
     transliteration: maʿa
   11:
-    arabic: اِيۡمَانِهِمۡ​ ؕ
+    arabic: إِيمَٰنِهِمۡۗ
     translation: their faith
     transliteration: īmānihim
   12:
-    arabic: وَلِلّٰهِ
+    arabic: وَلِلَّهِ
     translation: And for Allah
     transliteration: walillahi
   13:
-    arabic: جُنُوۡدُ
+    arabic: جُنُودُ
     translation: (are the) hosts
     transliteration: junūdu
   14:
-    arabic: السَّمٰوٰتِ
+    arabic: ٱلسَّمَٰوَٰتِ
     translation: (of) the heavens
     transliteration: l-samāwāti
   15:
-    arabic: وَالۡاَرۡضِ​ؕ
+    arabic: وَٱلۡأَرۡضِۚ
     translation: and the earth
     transliteration: wal-arḍi
   16:
@@ -71,15 +71,15 @@ word_by_word:
     translation: and Allah
     transliteration: wakāna
   17:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: and Allah
     transliteration: l-lahu
   18:
-    arabic: عَلِيۡمًا
+    arabic: عَلِيمًا
     translation: (is) All-Knower
     transliteration: ʿalīman
   19:
-    arabic: حَكِيۡمًا ۙ‏
+    arabic: حَكِيمٗا
     translation: All-Wise
     transliteration: ḥakīman
 ---

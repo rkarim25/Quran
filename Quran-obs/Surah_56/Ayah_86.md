@@ -1,17 +1,17 @@
 ---
-arabic_ayat: فَلَوۡلَاۤ اِنۡ كُنۡتُمۡ غَيۡرَ مَدِيۡنِيۡنَۙ‏
+arabic_ayat: فَلَوۡلَآ إِن كُنتُمۡ غَيۡرَ مَدِينِينَ
 sentence_translation: Now, if you are not subject to Our Will ˹as you claim˺,
 word_by_word:
   1:
-    arabic: فَلَوۡلَاۤ
+    arabic: فَلَوۡلَآ
     translation: Then why not
     transliteration: falawlā
   2:
-    arabic: اِنۡ
+    arabic: إِن
     translation: if
     transliteration: in
   3:
-    arabic: كُنۡتُمۡ
+    arabic: كُنتُمۡ
     translation: you are
     transliteration: kuntum
   4:
@@ -19,7 +19,7 @@ word_by_word:
     translation: not
     transliteration: ghayra
   5:
-    arabic: مَدِيۡنِيۡنَۙ‏
+    arabic: مَدِينِينَ
     translation: to be recompensed
     transliteration: madīnīna
 ---

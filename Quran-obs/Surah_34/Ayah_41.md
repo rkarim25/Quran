@@ -1,20 +1,20 @@
 ---
-arabic_ayat: قَالُوۡا سُبۡحٰنَكَ اَنۡتَ وَلِيُّنَا مِنۡ دُوۡنِهِمۡۚ بَلۡ كَانُوۡا
-  يَعۡبُدُوۡنَ الۡجِنَّ ۚ اَكۡثَرُهُمۡ بِهِمۡ مُّؤۡمِنُوۡنَ‏
+arabic_ayat: قَالُواْ سُبۡحَٰنَكَ أَنتَ وَلِيُّنَا مِن دُونِهِمۖ بَلۡ كَانُواْ يَعۡبُدُونَ
+  ٱلۡجِنَّۖ أَكۡثَرُهُم بِهِم مُّؤۡمِنُونَ
 sentence_translation: They will say, “Glory be to You! Our loyalty is to You, not
   them. In fact, they ˹only˺ followed the ˹temptations of evil˺ jinn, in whom most
   of them had faith.”
 word_by_word:
   1:
-    arabic: قَالُوۡا
+    arabic: قَالُواْ
     translation: They will say
     transliteration: qālū
   2:
-    arabic: سُبۡحٰنَكَ
+    arabic: سُبۡحَٰنَكَ
     translation: Glory be to You
     transliteration: sub'ḥānaka
   3:
-    arabic: اَنۡتَ
+    arabic: أَنتَ
     translation: You
     transliteration: anta
   4:
@@ -22,11 +22,11 @@ word_by_word:
     translation: (are) our Protector
     transliteration: waliyyunā
   5:
-    arabic: مِنۡ
+    arabic: مِن
     translation: not them
     transliteration: min
   6:
-    arabic: دُوۡنِهِمۡۚ
+    arabic: دُونِهِمۖ
     translation: not them
     transliteration: dūnihim
   7:
@@ -34,27 +34,27 @@ word_by_word:
     translation: Nay
     transliteration: bal
   8:
-    arabic: كَانُوۡا
+    arabic: كَانُواْ
     translation: they used
     transliteration: kānū
   9:
-    arabic: يَعۡبُدُوۡنَ
+    arabic: يَعۡبُدُونَ
     translation: (to) worship
     transliteration: yaʿbudūna
   10:
-    arabic: الۡجِنَّ ۚ
+    arabic: ٱلۡجِنَّۖ
     translation: the jinn
     transliteration: l-jina
   11:
-    arabic: اَكۡثَرُهُمۡ
+    arabic: أَكۡثَرُهُم
     translation: most of them
     transliteration: aktharuhum
   12:
-    arabic: بِهِمۡ
+    arabic: بِهِم
     translation: in them
     transliteration: bihim
   13:
-    arabic: مُّؤۡمِنُوۡنَ‏
+    arabic: مُّؤۡمِنُونَ
     translation: (were) believers
     transliteration: mu'minūna
 ---

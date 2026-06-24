@@ -1,10 +1,10 @@
 ---
-arabic_ayat: اِنَّهٗ هُوَ يُبۡدِئُ وَيُعِيۡدُ​ ۚ‏
+arabic_ayat: إِنَّهُۥ هُوَ يُبۡدِئُ وَيُعِيدُ
 sentence_translation: ˹For˺ He is certainly the One Who originates and resurrects
   ˹all˺.
 word_by_word:
   1:
-    arabic: اِنَّهٗ
+    arabic: إِنَّهُۥ
     translation: Indeed He
     transliteration: innahu
   2:
@@ -16,7 +16,7 @@ word_by_word:
     translation: originates
     transliteration: yub'di-u
   4:
-    arabic: وَيُعِيۡدُ​ ۚ‏
+    arabic: وَيُعِيدُ
     translation: and repeats
     transliteration: wayuʿīdu
 ---

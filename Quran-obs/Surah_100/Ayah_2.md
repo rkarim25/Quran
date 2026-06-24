@@ -1,13 +1,13 @@
 ---
-arabic_ayat: فَالۡمُوۡرِيٰتِ قَدۡحًا ۙ‏
+arabic_ayat: فَٱلۡمُورِيَٰتِ قَدۡحٗا
 sentence_translation: striking sparks of fire ˹with their hoofs˺,
 word_by_word:
   1:
-    arabic: فَالۡمُوۡرِيٰتِ
+    arabic: فَٱلۡمُورِيَٰتِ
     translation: And the producers of sparks
     transliteration: fal-mūriyāti
   2:
-    arabic: قَدۡحًا ۙ‏
+    arabic: قَدۡحٗا
     translation: striking
     transliteration: qadḥan
 ---

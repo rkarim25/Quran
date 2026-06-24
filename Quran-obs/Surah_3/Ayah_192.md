@@ -1,19 +1,19 @@
 ---
-arabic_ayat: رَبَّنَاۤ اِنَّكَ مَنۡ تُدۡخِلِ النَّارَ فَقَدۡ اَخۡزَيۡتَهٗ ​ؕ وَمَا
-  لِلظّٰلِمِيۡنَ مِنۡ اَنۡصَارٍ‏
+arabic_ayat: رَبَّنَآ إِنَّكَ مَن تُدۡخِلِ ٱلنَّارَ فَقَدۡ أَخۡزَيۡتَهُۥۖ وَمَا لِلظَّٰلِمِينَ
+  مِنۡ أَنصَارٖ
 sentence_translation: Our Lord! Indeed, those You commit to the Fire will be ˹completely˺
   disgraced! And the wrongdoers will have no helpers.
 word_by_word:
   1:
-    arabic: رَبَّنَاۤ
+    arabic: رَبَّنَآ
     translation: Our Lord
     transliteration: rabbanā
   2:
-    arabic: اِنَّكَ
+    arabic: إِنَّكَ
     translation: indeed [You]
     transliteration: innaka
   3:
-    arabic: مَنۡ
+    arabic: مَن
     translation: whom
     transliteration: man
   4:
@@ -21,7 +21,7 @@ word_by_word:
     translation: You admit
     transliteration: tud'khili
   5:
-    arabic: النَّارَ
+    arabic: ٱلنَّارَ
     translation: (to) the Fire
     transliteration: l-nāra
   6:
@@ -29,7 +29,7 @@ word_by_word:
     translation: then surely
     transliteration: faqad
   7:
-    arabic: اَخۡزَيۡتَهٗ ​ؕ
+    arabic: أَخۡزَيۡتَهُۥۖ
     translation: You (have) disgraced him
     transliteration: akhzaytahu
   8:
@@ -37,7 +37,7 @@ word_by_word:
     translation: and not
     transliteration: wamā
   9:
-    arabic: لِلظّٰلِمِيۡنَ
+    arabic: لِلظَّٰلِمِينَ
     translation: for the wrongdoers
     transliteration: lilẓẓālimīna
   10:
@@ -45,7 +45,7 @@ word_by_word:
     translation: (are) any
     transliteration: min
   11:
-    arabic: اَنۡصَارٍ‏
+    arabic: أَنصَارٖ
     translation: helpers
     transliteration: anṣārin
 ---

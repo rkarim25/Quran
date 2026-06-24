@@ -1,15 +1,14 @@
 ---
-arabic_ayat: "فَلَوۡ لَا كَانَ مِنَ الۡقُرُوۡنِ مِنۡ قَبۡلِكُمۡ اُولُوۡا بَقِيَّةٍ\
-  \ يَّـنۡهَوۡنَ عَنِ الۡفَسَادِ فِى الۡاَرۡضِ اِلَّا قَلِيۡلًا مِّمَّنۡ اَنۡجَيۡنَا\
-  \ مِنۡهُمۡ​ ۚ وَاتَّبَعَ الَّذِيۡنَ ظَلَمُوۡا مَاۤ اُتۡرِفُوۡا فِيۡهِ وَكَانُوۡا\
-  \ مُجۡرِمِيۡنَ‏ \uFEFF\uFEFF"
+arabic_ayat: فَلَوۡلَا كَانَ مِنَ ٱلۡقُرُونِ مِن قَبۡلِكُمۡ أُوْلُواْ بَقِيَّةٖ يَنۡهَوۡنَ
+  عَنِ ٱلۡفَسَادِ فِي ٱلۡأَرۡضِ إِلَّا قَلِيلٗا مِّمَّنۡ أَنجَيۡنَا مِنۡهُمۡۗ وَٱتَّبَعَ
+  ٱلَّذِينَ ظَلَمُواْ مَآ أُتۡرِفُواْ فِيهِ وَكَانُواْ مُجۡرِمِينَ
 sentence_translation: If only there had been among the ˹destroyed˺ peoples before
   you, ˹O believers,˺ virtuous individuals who forbade corruption in the land—other
   than the few We had saved ˹from the torment˺. But the wrongdoers ˹only˺ pursued
   their ˹worldly˺ pleasures, becoming wicked.
 word_by_word:
   1:
-    arabic: فَلَوۡ لَا
+    arabic: فَلَوۡلَا
     translation: So why not
     transliteration: falawlā
   2:
@@ -21,11 +20,11 @@ word_by_word:
     translation: of
     transliteration: mina
   4:
-    arabic: الۡقُرُوۡنِ
+    arabic: ٱلۡقُرُونِ
     translation: the generations
     transliteration: l-qurūni
   5:
-    arabic: مِنۡ
+    arabic: مِن
     translation: before you
     transliteration: min
   6:
@@ -33,15 +32,15 @@ word_by_word:
     translation: before you
     transliteration: qablikum
   7:
-    arabic: اُولُوۡا
+    arabic: أُوْلُواْ
     translation: those possessing a remnant
     transliteration: ulū
   8:
-    arabic: بَقِيَّةٍ
+    arabic: بَقِيَّةٖ
     translation: those possessing a remnant
     transliteration: baqiyyatin
   9:
-    arabic: يَّـنۡهَوۡنَ
+    arabic: يَنۡهَوۡنَ
     translation: forbidding
     transliteration: yanhawna
   10:
@@ -49,23 +48,23 @@ word_by_word:
     translation: from
     transliteration: ʿani
   11:
-    arabic: الۡفَسَادِ
+    arabic: ٱلۡفَسَادِ
     translation: the corruption
     transliteration: l-fasādi
   12:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   13:
-    arabic: الۡاَرۡضِ
+    arabic: ٱلۡأَرۡضِ
     translation: the earth
     transliteration: l-arḍi
   14:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   15:
-    arabic: قَلِيۡلًا
+    arabic: قَلِيلٗا
     translation: a few
     transliteration: qalīlan
   16:
@@ -73,43 +72,43 @@ word_by_word:
     translation: of those
     transliteration: mimman
   17:
-    arabic: اَنۡجَيۡنَا
+    arabic: أَنجَيۡنَا
     translation: We saved
     transliteration: anjaynā
   18:
-    arabic: مِنۡهُمۡ​ ۚ
+    arabic: مِنۡهُمۡۗ
     translation: among them
     transliteration: min'hum
   19:
-    arabic: وَاتَّبَعَ
+    arabic: وَٱتَّبَعَ
     translation: But followed
     transliteration: wa-ittabaʿa
   20:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   21:
-    arabic: ظَلَمُوۡا
+    arabic: ظَلَمُواْ
     translation: did wrong
     transliteration: ẓalamū
   22:
-    arabic: مَاۤ
+    arabic: مَآ
     translation: what
     transliteration: mā
   23:
-    arabic: اُتۡرِفُوۡا
+    arabic: أُتۡرِفُواْ
     translation: luxury they were given
     transliteration: ut'rifū
   24:
-    arabic: فِيۡهِ
+    arabic: فِيهِ
     translation: therein
     transliteration: fīhi
   25:
-    arabic: وَكَانُوۡا
+    arabic: وَكَانُواْ
     translation: and they were
     transliteration: wakānū
   26:
-    arabic: "مُجۡرِمِيۡنَ‏ \uFEFF\uFEFF"
+    arabic: مُجۡرِمِينَ
     translation: criminals
     transliteration: muj'rimīna
 ---

@@ -1,11 +1,11 @@
 ---
-arabic_ayat: قَاتِلُوۡهُمۡ يُعَذِّبۡهُمُ اللّٰهُ بِاَيۡدِيۡكُمۡ وَيُخۡزِهِمۡ وَيَنۡصُرۡكُمۡ
-  عَلَيۡهِمۡ وَيَشۡفِ صُدُوۡرَ قَوۡمٍ مُّؤۡمِنِيۡنَۙ‏
+arabic_ayat: قَٰتِلُوهُمۡ يُعَذِّبۡهُمُ ٱللَّهُ بِأَيۡدِيكُمۡ وَيُخۡزِهِمۡ وَيَنصُرۡكُمۡ
+  عَلَيۡهِمۡ وَيَشۡفِ صُدُورَ قَوۡمٖ مُّؤۡمِنِينَ
 sentence_translation: ˹So˺ fight them and Allah will punish them at your hands, put
   them to shame, help you overcome them, and soothe the hearts of the believers—
 word_by_word:
   1:
-    arabic: قَاتِلُوۡهُمۡ
+    arabic: قَٰتِلُوهُمۡ
     translation: 'Fight them '
     transliteration: qātilūhum
   2:
@@ -13,11 +13,11 @@ word_by_word:
     translation: Allah will punish them
     transliteration: yuʿadhib'humu
   3:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah will punish them
     transliteration: l-lahu
   4:
-    arabic: بِاَيۡدِيۡكُمۡ
+    arabic: بِأَيۡدِيكُمۡ
     translation: by your hands
     transliteration: bi-aydīkum
   5:
@@ -25,7 +25,7 @@ word_by_word:
     translation: and disgrace them
     transliteration: wayukh'zihim
   6:
-    arabic: وَيَنۡصُرۡكُمۡ
+    arabic: وَيَنصُرۡكُمۡ
     translation: and give you victory
     transliteration: wayanṣur'kum
   7:
@@ -37,15 +37,15 @@ word_by_word:
     translation: and will heal
     transliteration: wayashfi
   9:
-    arabic: صُدُوۡرَ
+    arabic: صُدُورَ
     translation: (the) breasts
     transliteration: ṣudūra
   10:
-    arabic: قَوۡمٍ
+    arabic: قَوۡمٖ
     translation: (of) a people
     transliteration: qawmin
   11:
-    arabic: مُّؤۡمِنِيۡنَۙ‏
+    arabic: مُّؤۡمِنِينَ
     translation: (who are) believers
     transliteration: mu'minīna
 ---

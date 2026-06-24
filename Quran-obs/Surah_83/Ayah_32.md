@@ -1,30 +1,30 @@
 ---
-arabic_ayat: وَاِذَا رَاَوۡهُمۡ قَالُوۡۤا اِنَّ هٰٓؤُلَاۤءِ لَـضَآلُّوۡنَۙ‏
+arabic_ayat: وَإِذَا رَأَوۡهُمۡ قَالُوٓاْ إِنَّ هَٰٓؤُلَآءِ لَضَآلُّونَ
 sentence_translation: And when they saw the faithful, they would say, “These ˹people˺
   are truly astray,”
 word_by_word:
   1:
-    arabic: وَاِذَا
+    arabic: وَإِذَا
     translation: And when
     transliteration: wa-idhā
   2:
-    arabic: رَاَوۡهُمۡ
+    arabic: رَأَوۡهُمۡ
     translation: they saw them
     transliteration: ra-awhum
   3:
-    arabic: قَالُوۡۤا
+    arabic: قَالُوٓاْ
     translation: they said
     transliteration: qālū
   4:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   5:
-    arabic: هٰٓؤُلَاۤءِ
+    arabic: هَٰٓؤُلَآءِ
     translation: these
     transliteration: hāulāi
   6:
-    arabic: لَـضَآلُّوۡنَۙ‏
+    arabic: لَضَآلُّونَ
     translation: surely have gone astray
     transliteration: laḍāllūna
 ---

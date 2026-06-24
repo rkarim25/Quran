@@ -1,8 +1,8 @@
 ---
-arabic_ayat: يَسۡـــَٔلُوۡنَكَ عَنِ الۡخَمۡرِ وَالۡمَيۡسِرِ​ؕ قُلۡ فِيۡهِمَآ اِثۡمٌ
-  کَبِيۡرٌ وَّمَنَافِعُ لِلنَّاسِ وَاِثۡمُهُمَآ اَکۡبَرُ مِنۡ نَّفۡعِهِمَا ؕ وَيَسۡـــَٔلُوۡنَكَ
-  مَاذَا يُنۡفِقُوۡنَؕ  قُلِ الۡعَفۡوَ​ؕ كَذٰلِكَ يُبَيِّنُ اللّٰهُ لَـكُمُ الۡاٰيٰتِ
-  لَعَلَّکُمۡ تَتَفَكَّرُوۡنَۙ‏
+arabic_ayat: ۞ يَسۡـَٔلُونَكَ عَنِ ٱلۡخَمۡرِ وَٱلۡمَيۡسِرِۖ قُلۡ فِيهِمَآ إِثۡمٞ
+  كَبِيرٞ وَمَنَٰفِعُ لِلنَّاسِ وَإِثۡمُهُمَآ أَكۡبَرُ مِن نَّفۡعِهِمَاۗ وَيَسۡـَٔلُونَكَ
+  مَاذَا يُنفِقُونَۖ قُلِ ٱلۡعَفۡوَۗ كَذَٰلِكَ يُبَيِّنُ ٱللَّهُ لَكُمُ ٱلۡأٓيَٰتِ
+  لَعَلَّكُمۡ تَتَفَكَّرُونَ
 sentence_translation: They ask you ˹O Prophet˺ about intoxicants and gambling. Say,
   “There is great evil in both, as well as some benefit for people—but the evil outweighs
   the benefit.” They ˹also˺ ask you ˹O Prophet˺ what they should donate. Say, “Whatever
@@ -10,7 +10,7 @@ sentence_translation: They ask you ˹O Prophet˺ about intoxicants and gambling.
   so perhaps you may reflect
 word_by_word:
   1:
-    arabic: ۞ يَسۡـــَٔلُوۡنَكَ
+    arabic: ۞ يَسۡـَٔلُونَكَ
     translation: They ask you
     transliteration: yasalūnaka
   2:
@@ -18,11 +18,11 @@ word_by_word:
     translation: about
     transliteration: ʿani
   3:
-    arabic: الۡخَمۡرِ
+    arabic: ٱلۡخَمۡرِ
     translation: '[the] intoxicants'
     transliteration: l-khamri
   4:
-    arabic: وَالۡمَيۡسِرِ​ؕ
+    arabic: وَٱلۡمَيۡسِرِۖ
     translation: and [the] games of chance
     transliteration: wal-maysiri
   5:
@@ -30,43 +30,43 @@ word_by_word:
     translation: Say
     transliteration: qul
   6:
-    arabic: فِيۡهِمَآ
+    arabic: فِيهِمَآ
     translation: In both of them
     transliteration: fīhimā
   7:
-    arabic: اِثۡمٌ
+    arabic: إِثۡمٞ
     translation: (is) a sin
     transliteration: ith'mun
   8:
-    arabic: کَبِيۡرٌ
+    arabic: كَبِيرٞ
     translation: great
     transliteration: kabīrun
   9:
-    arabic: وَّمَنَافِعُ
+    arabic: وَمَنَٰفِعُ
     translation: and (some) benefits
     transliteration: wamanāfiʿu
   10:
-    arabic: لِلنَّاسِ
+    arabic: لِلنَّاسِ
     translation: for [the] people
     transliteration: lilnnāsi
   11:
-    arabic: وَاِثۡمُهُمَآ
+    arabic: وَإِثۡمُهُمَآ
     translation: But sin of both of them
     transliteration: wa-ith'muhumā
   12:
-    arabic: اَکۡبَرُ
+    arabic: أَكۡبَرُ
     translation: (is) greater
     transliteration: akbaru
   13:
-    arabic: مِنۡ
+    arabic: مِن
     translation: than
     transliteration: min
   14:
-    arabic: نَّفۡعِهِمَا ؕ
+    arabic: نَّفۡعِهِمَاۗ
     translation: (the) benefit of (the) two
     transliteration: nafʿihimā
   15:
-    arabic: وَيَسۡـــَٔلُوۡنَكَ
+    arabic: وَيَسۡـَٔلُونَكَ
     translation: And they ask you
     transliteration: wayasalūnaka
   16:
@@ -74,7 +74,7 @@ word_by_word:
     translation: what
     transliteration: mādhā
   17:
-    arabic: يُنۡفِقُوۡنَؕ  
+    arabic: يُنفِقُونَۖ
     translation: they (should) spend
     transliteration: yunfiqūna
   18:
@@ -82,11 +82,11 @@ word_by_word:
     translation: Say
     transliteration: quli
   19:
-    arabic: الۡعَفۡوَ​ؕ
+    arabic: ٱلۡعَفۡوَۗ
     translation: The surplus
     transliteration: l-ʿafwa
   20:
-    arabic: كَذٰلِكَ
+    arabic: كَذَٰلِكَ
     translation: Thus
     transliteration: kadhālika
   21:
@@ -94,23 +94,23 @@ word_by_word:
     translation: makes clear
     transliteration: yubayyinu
   22:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   23:
-    arabic: لَـكُمُ
+    arabic: لَكُمُ
     translation: to you
     transliteration: lakumu
   24:
-    arabic: الۡاٰيٰتِ
+    arabic: ٱلۡأٓيَٰتِ
     translation: '[the] Verses'
     transliteration: l-āyāti
   25:
-    arabic: لَعَلَّکُمۡ
+    arabic: لَعَلَّكُمۡ
     translation: so that you may
     transliteration: laʿallakum
   26:
-    arabic: تَتَفَكَّرُوۡنَۙ‏
+    arabic: تَتَفَكَّرُونَ
     translation: ponder
     transliteration: tatafakkarūna
 ---

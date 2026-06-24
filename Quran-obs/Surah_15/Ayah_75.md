@@ -1,25 +1,25 @@
 ---
-arabic_ayat: اِنَّ فِىۡ ذٰ لِكَ لَاٰيٰتٍ لِّـلۡمُتَوَسِّمِيۡنَ‏
+arabic_ayat: إِنَّ فِي ذَٰلِكَ لَأٓيَٰتٖ لِّلۡمُتَوَسِّمِينَ
 sentence_translation: Surely in this are signs for those who contemplate.
 word_by_word:
   1:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   2:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   3:
-    arabic: ذٰ لِكَ
+    arabic: ذَٰلِكَ
     translation: that
     transliteration: dhālika
   4:
-    arabic: لَاٰيٰتٍ
+    arabic: لَأٓيَٰتٖ
     translation: (are) the Signs
     transliteration: laāyātin
   5:
-    arabic: لِّـلۡمُتَوَسِّمِيۡنَ‏
+    arabic: لِّلۡمُتَوَسِّمِينَ
     translation: for those who discern
     transliteration: lil'mutawassimīna
 ---

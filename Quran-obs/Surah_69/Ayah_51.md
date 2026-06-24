@@ -1,17 +1,17 @@
 ---
-arabic_ayat:  وَاِنَّهٗ لَحَـقُّ الۡيَقِيۡنِ‏
+arabic_ayat: وَإِنَّهُۥ لَحَقُّ ٱلۡيَقِينِ
 sentence_translation: And indeed, this ˹Quran˺ is the absolute truth.
 word_by_word:
   1:
-    arabic:  وَاِنَّهٗ
+    arabic: وَإِنَّهُۥ
     translation: And indeed, it (is)
     transliteration: wa-innahu
   2:
-    arabic: لَحَـقُّ
+    arabic: لَحَقُّ
     translation: surely (the) truth
     transliteration: laḥaqqu
   3:
-    arabic: الۡيَقِيۡنِ‏
+    arabic: ٱلۡيَقِينِ
     translation: (of) certainty
     transliteration: l-yaqīni
 ---

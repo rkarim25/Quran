@@ -1,26 +1,26 @@
 ---
-arabic_ayat: لَاۤ اِكۡرَاهَ فِى الدِّيۡنِ​ۙ  قَد تَّبَيَّنَ الرُّشۡدُ مِنَ الۡغَىِّ​ۚ
-  فَمَنۡ يَّكۡفُرۡ بِالطَّاغُوۡتِ وَيُؤۡمِنۡۢ بِاللّٰهِ فَقَدِ اسۡتَمۡسَكَ بِالۡعُرۡوَةِ
-  الۡوُثۡقٰى لَا انْفِصَامَ لَهَا​​ ؕ وَاللّٰهُ سَمِيۡعٌ عَلِيۡمٌ‏
+arabic_ayat: لَآ إِكۡرَاهَ فِي ٱلدِّينِۖ قَد تَّبَيَّنَ ٱلرُّشۡدُ مِنَ ٱلۡغَيِّۚ
+  فَمَن يَكۡفُرۡ بِٱلطَّٰغُوتِ وَيُؤۡمِنۢ بِٱللَّهِ فَقَدِ ٱسۡتَمۡسَكَ بِٱلۡعُرۡوَةِ
+  ٱلۡوُثۡقَىٰ لَا ٱنفِصَامَ لَهَاۗ وَٱللَّهُ سَمِيعٌ عَلِيمٌ
 sentence_translation: Let there be no compulsion in religion, for the truth stands
   out clearly from falsehood. So whoever renounces false gods and believes in Allah
   has certainly grasped the firmest, unfailing hand-hold. And Allah is All-Hearing,
   All-Knowing.
 word_by_word:
   1:
-    arabic: لَاۤ
+    arabic: لَآ
     translation: (There is) no
     transliteration: lā
   2:
-    arabic: اِكۡرَاهَ
+    arabic: إِكۡرَاهَ
     translation: compulsion
     transliteration: ik'rāha
   3:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   4:
-    arabic: الدِّيۡنِ​ۙ 
+    arabic: ٱلدِّينِۖ
     translation: the religion
     transliteration: l-dīni
   5:
@@ -32,7 +32,7 @@ word_by_word:
     translation: has become distinct
     transliteration: tabayyana
   7:
-    arabic: الرُّشۡدُ
+    arabic: ٱلرُّشۡدُ
     translation: the right (path)
     transliteration: l-rush'du
   8:
@@ -40,27 +40,27 @@ word_by_word:
     translation: from
     transliteration: mina
   9:
-    arabic: الۡغَىِّ​ۚ
+    arabic: ٱلۡغَيِّۚ
     translation: the wrong
     transliteration: l-ghayi
   10:
-    arabic: فَمَنۡ
+    arabic: فَمَن
     translation: Then whoever
     transliteration: faman
   11:
-    arabic: يَّكۡفُرۡ
+    arabic: يَكۡفُرۡ
     translation: disbelieves
     transliteration: yakfur
   12:
-    arabic: بِالطَّاغُوۡتِ
+    arabic: بِٱلطَّٰغُوتِ
     translation: in false deities
     transliteration: bil-ṭāghūti
   13:
-    arabic: وَيُؤۡمِنۡۢ
+    arabic: وَيُؤۡمِنۢ
     translation: and believes
     transliteration: wayu'min
   14:
-    arabic: بِاللّٰهِ
+    arabic: بِٱللَّهِ
     translation: in Allah
     transliteration: bil-lahi
   15:
@@ -68,15 +68,15 @@ word_by_word:
     translation: then surely
     transliteration: faqadi
   16:
-    arabic: اسۡتَمۡسَكَ
+    arabic: ٱسۡتَمۡسَكَ
     translation: he grasped
     transliteration: is'tamsaka
   17:
-    arabic: بِالۡعُرۡوَةِ
+    arabic: بِٱلۡعُرۡوَةِ
     translation: 'the handhold '
     transliteration: bil-ʿur'wati
   18:
-    arabic: الۡوُثۡقٰى
+    arabic: ٱلۡوُثۡقَىٰ
     translation: '[the] firm'
     transliteration: l-wuth'qā
   19:
@@ -84,23 +84,23 @@ word_by_word:
     translation: (which) not
     transliteration: lā
   20:
-    arabic: انْفِصَامَ
+    arabic: ٱنفِصَامَ
     translation: (will) break
     transliteration: infiṣāma
   21:
-    arabic: لَهَا​​ ؕ
+    arabic: لَهَاۗ
     translation: '[for it]'
     transliteration: lahā
   22:
-    arabic: وَاللّٰهُ
+    arabic: وَٱللَّهُ
     translation: And Allah
     transliteration: wal-lahu
   23:
-    arabic: سَمِيۡعٌ
+    arabic: سَمِيعٌ
     translation: (is) All-Hearing
     transliteration: samīʿun
   24:
-    arabic: عَلِيۡمٌ‏
+    arabic: عَلِيمٌ
     translation: All-Knowing
     transliteration: ʿalīmun
 ---

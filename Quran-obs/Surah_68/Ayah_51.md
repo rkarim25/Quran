@@ -1,31 +1,31 @@
 ---
-arabic_ayat: وَاِنۡ يَّكَادُ الَّذِيۡنَ كَفَرُوۡا لَيُزۡلِقُوۡنَكَ بِاَبۡصَارِهِمۡ
-  لَمَّا سَمِعُوا الذِّكۡرَ وَيَقُوۡلُوۡنَ اِنَّهٗ لَمَجۡنُوۡنٌ​ۘ‏
+arabic_ayat: وَإِن يَكَادُ ٱلَّذِينَ كَفَرُواْ لَيُزۡلِقُونَكَ بِأَبۡصَٰرِهِمۡ لَمَّا
+  سَمِعُواْ ٱلذِّكۡرَ وَيَقُولُونَ إِنَّهُۥ لَمَجۡنُونٞ
 sentence_translation: The disbelievers would almost cut you down with their eyes when
   they hear ˹you recite˺ the Reminder, and say, “He is certainly a madman.”
 word_by_word:
   1:
-    arabic: وَاِنۡ
+    arabic: وَإِن
     translation: And indeed
     transliteration: wa-in
   2:
-    arabic: يَّكَادُ
+    arabic: يَكَادُ
     translation: would almost
     transliteration: yakādu
   3:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   4:
-    arabic: كَفَرُوۡا
+    arabic: كَفَرُواْ
     translation: disbelieve
     transliteration: kafarū
   5:
-    arabic: لَيُزۡلِقُوۡنَكَ
+    arabic: لَيُزۡلِقُونَكَ
     translation: surely make you slip
     transliteration: layuz'liqūnaka
   6:
-    arabic: بِاَبۡصَارِهِمۡ
+    arabic: بِأَبۡصَٰرِهِمۡ
     translation: with their look
     transliteration: bi-abṣārihim
   7:
@@ -33,23 +33,23 @@ word_by_word:
     translation: when
     transliteration: lammā
   8:
-    arabic: سَمِعُوا
+    arabic: سَمِعُواْ
     translation: they hear
     transliteration: samiʿū
   9:
-    arabic: الذِّكۡرَ
+    arabic: ٱلذِّكۡرَ
     translation: the Message
     transliteration: l-dhik'ra
   10:
-    arabic: وَيَقُوۡلُوۡنَ
+    arabic: وَيَقُولُونَ
     translation: and they say
     transliteration: wayaqūlūna
   11:
-    arabic: اِنَّهٗ
+    arabic: إِنَّهُۥ
     translation: Indeed, he
     transliteration: innahu
   12:
-    arabic: لَمَجۡنُوۡنٌ​ۘ‏
+    arabic: لَمَجۡنُونٞ
     translation: (is) surely mad
     transliteration: lamajnūnun
 ---

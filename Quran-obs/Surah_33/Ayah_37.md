@@ -1,10 +1,9 @@
 ---
-arabic_ayat: وَاِذۡ تَقُوۡلُ لِلَّذِىۡۤ اَنۡعَمَ اللّٰهُ عَلَيۡهِ وَاَنۡعَمۡتَ عَلَيۡهِ
-  اَمۡسِكۡ عَلَيۡكَ زَوۡجَكَ وَاتَّقِ اللّٰهَ وَتُخۡفِىۡ فِىۡ نَفۡسِكَ مَا اللّٰهُ
-  مُبۡدِيۡهِ وَتَخۡشَى النَّاسَ ​ۚ وَاللّٰهُ اَحَقُّ اَنۡ تَخۡشٰٮهُ ؕ فَلَمَّا قَضٰى
-  زَيۡدٌ مِّنۡهَا وَطَرًا زَوَّجۡنٰكَهَا لِكَىۡ لَا يَكُوۡنَ عَلَى الۡمُؤۡمِنِيۡنَ
-  حَرَجٌ فِىۡۤ اَزۡوَاجِ اَدۡعِيَآٮِٕهِمۡ اِذَا قَضَوۡا مِنۡهُنَّ وَطَرًا ؕ وَكَانَ
-  اَمۡرُ اللّٰهِ مَفۡعُوۡلًا‏
+arabic_ayat: وَإِذۡ تَقُولُ لِلَّذِيٓ أَنۡعَمَ ٱللَّهُ عَلَيۡهِ وَأَنۡعَمۡتَ عَلَيۡهِ
+  أَمۡسِكۡ عَلَيۡكَ زَوۡجَكَ وَٱتَّقِ ٱللَّهَ وَتُخۡفِي فِي نَفۡسِكَ مَا ٱللَّهُ مُبۡدِيهِ
+  وَتَخۡشَى ٱلنَّاسَ وَٱللَّهُ أَحَقُّ أَن تَخۡشَىٰهُۖ فَلَمَّا قَضَىٰ زَيۡدٞ مِّنۡهَا
+  وَطَرٗا زَوَّجۡنَٰكَهَا لِكَيۡ لَا يَكُونَ عَلَى ٱلۡمُؤۡمِنِينَ حَرَجٞ فِيٓ أَزۡوَٰجِ
+  أَدۡعِيَآئِهِمۡ إِذَا قَضَوۡاْ مِنۡهُنَّ وَطَرٗاۚ وَكَانَ أَمۡرُ ٱللَّهِ مَفۡعُولٗا
 sentence_translation: And ˹remember, O  Prophet,˺ when you said to the one for whom
   Allah has done a favour and you ˹too˺ have done a favour, “Keep your wife and fear
   Allah,” while concealing within yourself what Allah was going to reveal. And ˹so˺
@@ -14,23 +13,23 @@ sentence_translation: And ˹remember, O  Prophet,˺ when you said to the one f
   of their adopted sons after their divorce. And Allah’s command is totally binding.
 word_by_word:
   1:
-    arabic: وَاِذۡ
+    arabic: وَإِذۡ
     translation: And when
     transliteration: wa-idh
   2:
-    arabic: تَقُوۡلُ
+    arabic: تَقُولُ
     translation: you said
     transliteration: taqūlu
   3:
-    arabic: لِلَّذِىۡۤ
+    arabic: لِلَّذِيٓ
     translation: to the one
     transliteration: lilladhī
   4:
-    arabic: اَنۡعَمَ
+    arabic: أَنۡعَمَ
     translation: Allah bestowed favor
     transliteration: anʿama
   5:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah bestowed favor
     transliteration: l-lahu
   6:
@@ -38,7 +37,7 @@ word_by_word:
     translation: on him
     transliteration: ʿalayhi
   7:
-    arabic: وَاَنۡعَمۡتَ
+    arabic: وَأَنۡعَمۡتَ
     translation: and you bestowed favor
     transliteration: wa-anʿamta
   8:
@@ -46,7 +45,7 @@ word_by_word:
     translation: on him
     transliteration: ʿalayhi
   9:
-    arabic: اَمۡسِكۡ
+    arabic: أَمۡسِكۡ
     translation: Keep
     transliteration: amsik
   10:
@@ -58,19 +57,19 @@ word_by_word:
     translation: your wife
     transliteration: zawjaka
   12:
-    arabic: وَاتَّقِ
+    arabic: وَٱتَّقِ
     translation: and fear
     transliteration: wa-ittaqi
   13:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   14:
-    arabic: وَتُخۡفِىۡ
+    arabic: وَتُخۡفِي
     translation: But you concealed
     transliteration: watukh'fī
   15:
-    arabic: فِىۡ
+    arabic: فِي
     translation: within
     transliteration: fī
   16:
@@ -82,11 +81,11 @@ word_by_word:
     translation: what
     transliteration: mā
   18:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   19:
-    arabic: مُبۡدِيۡهِ
+    arabic: مُبۡدِيهِ
     translation: (was to) disclose
     transliteration: mub'dīhi
   20:
@@ -94,23 +93,23 @@ word_by_word:
     translation: And you fear
     transliteration: watakhshā
   21:
-    arabic: النَّاسَ ​ۚ
+    arabic: ٱلنَّاسَ
     translation: the people
     transliteration: l-nāsa
   22:
-    arabic: وَاللّٰهُ
+    arabic: وَٱللَّهُ
     translation: while Allah
     transliteration: wal-lahu
   23:
-    arabic: اَحَقُّ
+    arabic: أَحَقُّ
     translation: has more right
     transliteration: aḥaqqu
   24:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that
     transliteration: an
   25:
-    arabic: تَخۡشٰٮهُ ؕ
+    arabic: تَخۡشَىٰهُۖ
     translation: you (should) fear Him
     transliteration: takhshāhu
   26:
@@ -118,11 +117,11 @@ word_by_word:
     translation: So when
     transliteration: falammā
   27:
-    arabic: قَضٰى
+    arabic: قَضَىٰ
     translation: ended
     transliteration: qaḍā
   28:
-    arabic: زَيۡدٌ
+    arabic: زَيۡدٞ
     translation: Zaid
     transliteration: zaydun
   29:
@@ -130,15 +129,15 @@ word_by_word:
     translation: from her
     transliteration: min'hā
   30:
-    arabic: وَطَرًا
+    arabic: وَطَرٗا
     translation: necessary (formalities)
     transliteration: waṭaran
   31:
-    arabic: زَوَّجۡنٰكَهَا
+    arabic: زَوَّجۡنَٰكَهَا
     translation: We married her to you
     transliteration: zawwajnākahā
   32:
-    arabic: لِكَىۡ
+    arabic: لِكَيۡ
     translation: so that
     transliteration: likay
   33:
@@ -146,7 +145,7 @@ word_by_word:
     translation: not
     transliteration: lā
   34:
-    arabic: يَكُوۡنَ
+    arabic: يَكُونَ
     translation: there be
     transliteration: yakūna
   35:
@@ -154,31 +153,31 @@ word_by_word:
     translation: 'on'
     transliteration: ʿalā
   36:
-    arabic: الۡمُؤۡمِنِيۡنَ
+    arabic: ٱلۡمُؤۡمِنِينَ
     translation: the believers
     transliteration: l-mu'minīna
   37:
-    arabic: حَرَجٌ
+    arabic: حَرَجٞ
     translation: any discomfort
     transliteration: ḥarajun
   38:
-    arabic: فِىۡۤ
+    arabic: فِيٓ
     translation: concerning
     transliteration: fī
   39:
-    arabic: اَزۡوَاجِ
+    arabic: أَزۡوَٰجِ
     translation: the wives
     transliteration: azwāji
   40:
-    arabic: اَدۡعِيَآٮِٕهِمۡ
+    arabic: أَدۡعِيَآئِهِمۡ
     translation: (of) their adopted sons
     transliteration: adʿiyāihim
   41:
-    arabic: اِذَا
+    arabic: إِذَا
     translation: when
     transliteration: idhā
   42:
-    arabic: قَضَوۡا
+    arabic: قَضَوۡاْ
     translation: they have ended
     transliteration: qaḍaw
   43:
@@ -186,7 +185,7 @@ word_by_word:
     translation: from them
     transliteration: min'hunna
   44:
-    arabic: وَطَرًا ؕ
+    arabic: وَطَرٗاۚ
     translation: necessary (formalities)
     transliteration: waṭaran
   45:
@@ -194,15 +193,15 @@ word_by_word:
     translation: And is
     transliteration: wakāna
   46:
-    arabic: اَمۡرُ
+    arabic: أَمۡرُ
     translation: (the) Command
     transliteration: amru
   47:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (of) Allah
     transliteration: l-lahi
   48:
-    arabic: مَفۡعُوۡلًا‏
+    arabic: مَفۡعُولٗا
     translation: accomplished
     transliteration: mafʿūlan
 ---

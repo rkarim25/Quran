@@ -1,15 +1,14 @@
 ---
-arabic_ayat: "وَاضۡرِبۡ لَهُمۡ مَّثَلًا اَصۡحٰبَ الۡقَرۡيَةِ ​ۘ اِذۡ جَآءَهَا الۡمُرۡسَلُوۡنَۚ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: وَٱضۡرِبۡ لَهُم مَّثَلًا أَصۡحَٰبَ ٱلۡقَرۡيَةِ إِذۡ جَآءَهَا ٱلۡمُرۡسَلُونَ
 sentence_translation: Give them an example ˹O Prophet˺ of the residents of a town,
   when the messengers came to them.
 word_by_word:
   1:
-    arabic: وَاضۡرِبۡ
+    arabic: وَٱضۡرِبۡ
     translation: And set forth
     transliteration: wa-iḍ'rib
   2:
-    arabic: لَهُمۡ
+    arabic: لَهُم
     translation: to them
     transliteration: lahum
   3:
@@ -17,15 +16,15 @@ word_by_word:
     translation: an example
     transliteration: mathalan
   4:
-    arabic: اَصۡحٰبَ
+    arabic: أَصۡحَٰبَ
     translation: (of the) companions
     transliteration: aṣḥāba
   5:
-    arabic: الۡقَرۡيَةِ ​ۘ
+    arabic: ٱلۡقَرۡيَةِ
     translation: (of) the city
     transliteration: l-qaryati
   6:
-    arabic: اِذۡ
+    arabic: إِذۡ
     translation: when
     transliteration: idh
   7:
@@ -33,7 +32,7 @@ word_by_word:
     translation: came to it
     transliteration: jāahā
   8:
-    arabic: "الۡمُرۡسَلُوۡنَۚ‏ \uFEFF\uFEFF"
+    arabic: ٱلۡمُرۡسَلُونَ
     translation: the Messengers
     transliteration: l-mur'salūna
 ---

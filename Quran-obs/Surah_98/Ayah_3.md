@@ -1,17 +1,17 @@
 ---
-arabic_ayat: فِيۡهَا كُتُبٌ قَيِّمَةٌ ؕ‏
+arabic_ayat: فِيهَا كُتُبٞ قَيِّمَةٞ
 sentence_translation: containing upright commandments.
 word_by_word:
   1:
-    arabic: فِيۡهَا
+    arabic: فِيهَا
     translation: Wherein
     transliteration: fīhā
   2:
-    arabic: كُتُبٌ
+    arabic: كُتُبٞ
     translation: (are) writings
     transliteration: kutubun
   3:
-    arabic: قَيِّمَةٌ ؕ‏
+    arabic: قَيِّمَةٞ
     translation: correct
     transliteration: qayyimatun
 ---

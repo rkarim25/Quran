@@ -1,10 +1,10 @@
 ---
-arabic_ayat: اَ لَّذِيۡنَ يَتَّبِعُوۡنَ الرَّسُوۡلَ النَّبِىَّ الۡاُمِّىَّ الَّذِىۡ
-  يَجِدُوۡنَهٗ مَكۡتُوۡبًا عِنۡدَهُمۡ فِى التَّوۡرٰٮةِ وَالۡاِنۡجِيۡلِ يَاۡمُرُهُمۡ
-  بِالۡمَعۡرُوۡفِ وَيَنۡهٰٮهُمۡ عَنِ الۡمُنۡكَرِ وَيُحِلُّ لَهُمُ الطَّيِّبٰتِ وَيُحَرِّمُ
-  عَلَيۡهِمُ الۡخَبٰۤٮِٕثَ وَيَضَعُ عَنۡهُمۡ اِصۡرَهُمۡ وَالۡاَغۡلٰلَ الَّتِىۡ كَانَتۡ
-  عَلَيۡهِمۡ​ ؕ فَالَّذِيۡنَ اٰمَنُوۡا بِهٖ وَعَزَّرُوۡهُ وَنَصَرُوۡهُ وَ اتَّبَـعُوا
-  النُّوۡرَ الَّذِىۡۤ اُنۡزِلَ مَعَهٗ ۤ​ ۙ اُولٰۤٮِٕكَ هُمُ الۡمُفۡلِحُوۡنَ‏
+arabic_ayat: ٱلَّذِينَ يَتَّبِعُونَ ٱلرَّسُولَ ٱلنَّبِيَّ ٱلۡأُمِّيَّ ٱلَّذِي يَجِدُونَهُۥ
+  مَكۡتُوبًا عِندَهُمۡ فِي ٱلتَّوۡرَىٰةِ وَٱلۡإِنجِيلِ يَأۡمُرُهُم بِٱلۡمَعۡرُوفِ
+  وَيَنۡهَىٰهُمۡ عَنِ ٱلۡمُنكَرِ وَيُحِلُّ لَهُمُ ٱلطَّيِّبَٰتِ وَيُحَرِّمُ عَلَيۡهِمُ
+  ٱلۡخَبَٰٓئِثَ وَيَضَعُ عَنۡهُمۡ إِصۡرَهُمۡ وَٱلۡأَغۡلَٰلَ ٱلَّتِي كَانَتۡ عَلَيۡهِمۡۚ
+  فَٱلَّذِينَ ءَامَنُواْ بِهِۦ وَعَزَّرُوهُ وَنَصَرُوهُ وَٱتَّبَعُواْ ٱلنُّورَ ٱلَّذِيٓ
+  أُنزِلَ مَعَهُۥٓ أُوْلَٰٓئِكَ هُمُ ٱلۡمُفۡلِحُونَ
 sentence_translation: “˹They are˺ the ones who follow the Messenger, the unlettered
   Prophet, whose description they find in their Torah and the Gospel. He commands
   them to do good and forbids them from evil, permits for them what is lawful and
@@ -13,63 +13,63 @@ sentence_translation: “˹They are˺ the ones who follow the Messenger, the unl
   the light sent down to him will be successful.”
 word_by_word:
   1:
-    arabic: اَ لَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: Those who
     transliteration: alladhīna
   2:
-    arabic: يَتَّبِعُوۡنَ
+    arabic: يَتَّبِعُونَ
     translation: follow
     transliteration: yattabiʿūna
   3:
-    arabic: الرَّسُوۡلَ
+    arabic: ٱلرَّسُولَ
     translation: the Messenger
     transliteration: l-rasūla
   4:
-    arabic: النَّبِىَّ
+    arabic: ٱلنَّبِيَّ
     translation: the Prophet
     transliteration: l-nabiya
   5:
-    arabic: الۡاُمِّىَّ
+    arabic: ٱلۡأُمِّيَّ
     translation: the unlettered
     transliteration: l-umiya
   6:
-    arabic: الَّذِىۡ
+    arabic: ٱلَّذِي
     translation: whom
     transliteration: alladhī
   7:
-    arabic: يَجِدُوۡنَهٗ
+    arabic: يَجِدُونَهُۥ
     translation: they find him
     transliteration: yajidūnahu
   8:
-    arabic: مَكۡتُوۡبًا
+    arabic: مَكۡتُوبًا
     translation: written
     transliteration: maktūban
   9:
-    arabic: عِنۡدَهُمۡ
+    arabic: عِندَهُمۡ
     translation: with them
     transliteration: ʿindahum
   10:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   11:
-    arabic: التَّوۡرٰٮةِ
+    arabic: ٱلتَّوۡرَىٰةِ
     translation: the Taurat
     transliteration: l-tawrāti
   12:
-    arabic: وَالۡاِنۡجِيۡلِ
+    arabic: وَٱلۡإِنجِيلِ
     translation: and the Injeel
     transliteration: wal-injīli
   13:
-    arabic: يَاۡمُرُهُمۡ
+    arabic: يَأۡمُرُهُم
     translation: He commands them
     transliteration: yamuruhum
   14:
-    arabic: بِالۡمَعۡرُوۡفِ
+    arabic: بِٱلۡمَعۡرُوفِ
     translation: to the right
     transliteration: bil-maʿrūfi
   15:
-    arabic: وَيَنۡهٰٮهُمۡ
+    arabic: وَيَنۡهَىٰهُمۡ
     translation: and forbids them
     transliteration: wayanhāhum
   16:
@@ -77,7 +77,7 @@ word_by_word:
     translation: from
     transliteration: ʿani
   17:
-    arabic: الۡمُنۡكَرِ
+    arabic: ٱلۡمُنكَرِ
     translation: the wrong
     transliteration: l-munkari
   18:
@@ -89,7 +89,7 @@ word_by_word:
     translation: for them
     transliteration: lahumu
   20:
-    arabic: الطَّيِّبٰتِ
+    arabic: ٱلطَّيِّبَٰتِ
     translation: the pure things
     transliteration: l-ṭayibāti
   21:
@@ -101,7 +101,7 @@ word_by_word:
     translation: for them
     transliteration: ʿalayhimu
   23:
-    arabic: الۡخَبٰۤٮِٕثَ
+    arabic: ٱلۡخَبَٰٓئِثَ
     translation: the impure things
     transliteration: l-khabāitha
   24:
@@ -113,15 +113,15 @@ word_by_word:
     translation: from them
     transliteration: ʿanhum
   26:
-    arabic: اِصۡرَهُمۡ
+    arabic: إِصۡرَهُمۡ
     translation: their burden
     transliteration: iṣ'rahum
   27:
-    arabic: وَالۡاَغۡلٰلَ
+    arabic: وَٱلۡأَغۡلَٰلَ
     translation: and the fetters
     transliteration: wal-aghlāla
   28:
-    arabic: الَّتِىۡ
+    arabic: ٱلَّتِي
     translation: which
     transliteration: allatī
   29:
@@ -129,51 +129,51 @@ word_by_word:
     translation: were
     transliteration: kānat
   30:
-    arabic: عَلَيۡهِمۡ​ ؕ
+    arabic: عَلَيۡهِمۡۚ
     translation: upon them
     transliteration: ʿalayhim
   31:
-    arabic: فَالَّذِيۡنَ
+    arabic: فَٱلَّذِينَ ءَ
     translation: So those who
     transliteration: fa-alladhīna
   32:
-    arabic: اٰمَنُوۡا
+    arabic: امَنُواْ
     translation: believe
     transliteration: āmanū
   33:
-    arabic: بِهٖ
+    arabic: بِهِۦ
     translation: in him
     transliteration: bihi
   34:
-    arabic: وَعَزَّرُوۡهُ
+    arabic: وَعَزَّرُوهُ
     translation: and honor him
     transliteration: waʿazzarūhu
   35:
-    arabic: وَنَصَرُوۡهُ
+    arabic: وَنَصَرُوهُ
     translation: and help him
     transliteration: wanaṣarūhu
   36:
-    arabic: وَ اتَّبَـعُوا
+    arabic: وَٱتَّبَعُواْ
     translation: and follow
     transliteration: wa-ittabaʿū
   37:
-    arabic: النُّوۡرَ
+    arabic: ٱلنُّورَ
     translation: the light
     transliteration: l-nūra
   38:
-    arabic: الَّذِىۡۤ
+    arabic: ٱلَّذِيٓ
     translation: which
     transliteration: alladhī
   39:
-    arabic: اُنۡزِلَ
+    arabic: أُنزِلَ
     translation: has been sent down
     transliteration: unzila
   40:
-    arabic: مَعَهٗ ۤ​ ۙ
+    arabic: مَعَهُۥٓ
     translation: 'with him '
     transliteration: maʿahu
   41:
-    arabic: اُولٰۤٮِٕكَ
+    arabic: أُوْلَٰٓئِكَ
     translation: Those (are)
     transliteration: ulāika
   42:
@@ -181,7 +181,7 @@ word_by_word:
     translation: '[they]'
     transliteration: humu
   43:
-    arabic: الۡمُفۡلِحُوۡنَ‏
+    arabic: ٱلۡمُفۡلِحُونَ
     translation: the successful ones
     transliteration: l-muf'liḥūna
 ---

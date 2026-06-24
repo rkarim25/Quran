@@ -1,7 +1,7 @@
 ---
-arabic_ayat: وَمِنَ النَّاسِ مَنۡ يَّعۡبُدُ اللّٰهَ عَلٰى حَرۡفٍ​ ​ۚ فَاِنۡ اَصَابَهٗ
-  خَيۡرٌ اۨطۡمَاَنَّ بِهٖ​ ۚ وَاِنۡ اَصَابَتۡهُ فِتۡنَةُ اۨنقَلَبَ عَلٰى وَجۡهِهٖ​ۚ
-  خَسِرَ الدُّنۡيَا وَالۡاٰخِرَةَ ​ ؕ ذٰ لِكَ هُوَ الۡخُسۡرَانُ الۡمُبِيۡنُ‏
+arabic_ayat: وَمِنَ ٱلنَّاسِ مَن يَعۡبُدُ ٱللَّهَ عَلَىٰ حَرۡفٖۖ فَإِنۡ أَصَابَهُۥ
+  خَيۡرٌ ٱطۡمَأَنَّ بِهِۦۖ وَإِنۡ أَصَابَتۡهُ فِتۡنَةٌ ٱنقَلَبَ عَلَىٰ وَجۡهِهِۦ خَسِرَ
+  ٱلدُّنۡيَا وَٱلۡأٓخِرَةَۚ ذَٰلِكَ هُوَ ٱلۡخُسۡرَانُ ٱلۡمُبِينُ
 sentence_translation: 'And there are some who worship Allah on the verge ˹of faith˺:
   if they are blessed with something good, they are content with it; but if they are
   afflicted with a trial, they relapse ˹into disbelief˺, losing this world and the
@@ -12,35 +12,35 @@ word_by_word:
     translation: And among
     transliteration: wamina
   2:
-    arabic: النَّاسِ
+    arabic: ٱلنَّاسِ
     translation: the mankind
     transliteration: l-nāsi
   3:
-    arabic: مَنۡ
+    arabic: مَن
     translation: (is he) who
     transliteration: man
   4:
-    arabic: يَّعۡبُدُ
+    arabic: يَعۡبُدُ
     translation: worships
     transliteration: yaʿbudu
   5:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   6:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: 'on'
     transliteration: ʿalā
   7:
-    arabic: حَرۡفٍ​ ​ۚ
+    arabic: حَرۡفٖۖ
     translation: an edge
     transliteration: ḥarfin
   8:
-    arabic: فَاِنۡ
+    arabic: فَإِنۡ
     translation: And if
     transliteration: fa-in
   9:
-    arabic: اَصَابَهٗ
+    arabic: أَصَابَهُۥ
     translation: befalls him
     transliteration: aṣābahu
   10:
@@ -48,35 +48,35 @@ word_by_word:
     translation: good
     transliteration: khayrun
   11:
-    arabic: اۨطۡمَاَنَّ
+    arabic: ٱطۡمَأَنَّ
     translation: he is content
     transliteration: iṭ'ma-anna
   12:
-    arabic: بِهٖ​ ۚ
+    arabic: بِهِۦۖ
     translation: with it
     transliteration: bihi
   13:
-    arabic: وَاِنۡ
+    arabic: وَإِنۡ
     translation: and if
     transliteration: wa-in
   14:
-    arabic: اَصَابَتۡهُ
+    arabic: أَصَابَتۡهُ
     translation: befalls him
     transliteration: aṣābathu
   15:
-    arabic: فِتۡنَةُ
+    arabic: فِتۡنَةٌ
     translation: a trial
     transliteration: fit'natun
   16:
-    arabic: اۨنقَلَبَ
+    arabic: ٱنقَلَبَ
     translation: he turns
     transliteration: inqalaba
   17:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: 'on'
     transliteration: ʿalā
   18:
-    arabic: وَجۡهِهٖ​ۚ
+    arabic: وَجۡهِهِۦ
     translation: his face
     transliteration: wajhihi
   19:
@@ -84,15 +84,15 @@ word_by_word:
     translation: He has lost
     transliteration: khasira
   20:
-    arabic: الدُّنۡيَا
+    arabic: ٱلدُّنۡيَا
     translation: the world
     transliteration: l-dun'yā
   21:
-    arabic: وَالۡاٰخِرَةَ ​ ؕ
+    arabic: وَٱلۡأٓخِرَةَۚ
     translation: and the Hereafter
     transliteration: wal-ākhirata
   22:
-    arabic: ذٰ لِكَ
+    arabic: ذَٰلِكَ
     translation: That
     transliteration: dhālika
   23:
@@ -100,11 +100,11 @@ word_by_word:
     translation: '[it]'
     transliteration: huwa
   24:
-    arabic: الۡخُسۡرَانُ
+    arabic: ٱلۡخُسۡرَانُ
     translation: (is) the loss
     transliteration: l-khus'rānu
   25:
-    arabic: الۡمُبِيۡنُ‏
+    arabic: ٱلۡمُبِينُ
     translation: clear
     transliteration: l-mubīnu
 ---

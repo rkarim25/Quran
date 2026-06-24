@@ -1,10 +1,10 @@
 ---
-arabic_ayat: وَاِنۡ تَجۡهَرۡ بِالۡقَوۡلِ فَاِنَّهٗ يَعۡلَمُ السِّرَّ وَاَخۡفٰى‏
+arabic_ayat: وَإِن تَجۡهَرۡ بِٱلۡقَوۡلِ فَإِنَّهُۥ يَعۡلَمُ ٱلسِّرَّ وَأَخۡفَى
 sentence_translation: Whether you speak openly ˹or not˺, He certainly knows what is
   secret and what is even more hidden.
 word_by_word:
   1:
-    arabic: وَاِنۡ
+    arabic: وَإِن
     translation: And if
     transliteration: wa-in
   2:
@@ -12,11 +12,11 @@ word_by_word:
     translation: you speak aloud
     transliteration: tajhar
   3:
-    arabic: بِالۡقَوۡلِ
+    arabic: بِٱلۡقَوۡلِ
     translation: the word
     transliteration: bil-qawli
   4:
-    arabic: فَاِنَّهٗ
+    arabic: فَإِنَّهُۥ
     translation: then indeed, He
     transliteration: fa-innahu
   5:
@@ -24,11 +24,11 @@ word_by_word:
     translation: knows
     transliteration: yaʿlamu
   6:
-    arabic: السِّرَّ
+    arabic: ٱلسِّرَّ
     translation: the secret
     transliteration: l-sira
   7:
-    arabic: وَاَخۡفٰى‏
+    arabic: وَأَخۡفَى
     translation: and the more hidden
     transliteration: wa-akhfā
 ---

@@ -1,13 +1,13 @@
 ---
-arabic_ayat: وَّفُتِحَتِ السَّمَآءُ فَكَانَتۡ اَبۡوَابًا ۙ‏
+arabic_ayat: وَفُتِحَتِ ٱلسَّمَآءُ فَكَانَتۡ أَبۡوَٰبٗا
 sentence_translation: The sky will be ˹split˺ open, becoming ˹many˺ gates,
 word_by_word:
   1:
-    arabic: وَّفُتِحَتِ
+    arabic: وَفُتِحَتِ
     translation: And is opened
     transliteration: wafutiḥati
   2:
-    arabic: السَّمَآءُ
+    arabic: ٱلسَّمَآءُ
     translation: the heaven
     transliteration: l-samāu
   3:
@@ -15,7 +15,7 @@ word_by_word:
     translation: and becomes
     transliteration: fakānat
   4:
-    arabic: اَبۡوَابًا ۙ‏
+    arabic: أَبۡوَٰبٗا
     translation: gateways
     transliteration: abwāban
 ---

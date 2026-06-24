@@ -1,10 +1,9 @@
 ---
-arabic_ayat: وَلَا تَنۡكِحُوا الۡمُشۡرِكٰتِ حَتّٰى يُؤۡمِنَّ​ؕ وَلَاَمَةٌ مُّؤۡمِنَةٌ
-  خَيۡرٌ مِّنۡ مُّشۡرِكَةٍ وَّلَوۡ اَعۡجَبَتۡكُمۡ​ۚ وَلَا تُنۡكِحُوا الۡمُشۡرِكِيۡنَ
-  حَتّٰى يُؤۡمِنُوۡا ​ؕ وَلَعَبۡدٌ مُّؤۡمِنٌ خَيۡرٌ مِّنۡ مُّشۡرِكٍ وَّلَوۡ اَعۡجَبَكُمۡؕ
-  اُولٰٓٮِٕكَ يَدۡعُوۡنَ اِلَى النَّارِ  ۖۚ وَاللّٰهُ يَدۡعُوۡٓا اِلَى الۡجَـنَّةِ
-  وَالۡمَغۡفِرَةِ بِاِذۡنِهٖ​ۚ وَيُبَيِّنُ اٰيٰتِهٖ لِلنَّاسِ لَعَلَّهُمۡ يَتَذَكَّرُوۡنَ
-  ‏
+arabic_ayat: وَلَا تَنكِحُواْ ٱلۡمُشۡرِكَٰتِ حَتَّىٰ يُؤۡمِنَّۚ وَلَأَمَةٞ مُّؤۡمِنَةٌ
+  خَيۡرٞ مِّن مُّشۡرِكَةٖ وَلَوۡ أَعۡجَبَتۡكُمۡۗ وَلَا تُنكِحُواْ ٱلۡمُشۡرِكِينَ حَتَّىٰ
+  يُؤۡمِنُواْۚ وَلَعَبۡدٞ مُّؤۡمِنٌ خَيۡرٞ مِّن مُّشۡرِكٖ وَلَوۡ أَعۡجَبَكُمۡۗ أُوْلَٰٓئِكَ
+  يَدۡعُونَ إِلَى ٱلنَّارِۖ وَٱللَّهُ يَدۡعُوٓاْ إِلَى ٱلۡجَنَّةِ وَٱلۡمَغۡفِرَةِ
+  بِإِذۡنِهِۦۖ وَيُبَيِّنُ ءَايَٰتِهِۦ لِلنَّاسِ لَعَلَّهُمۡ يَتَذَكَّرُونَ
 sentence_translation: Do not marry polytheistic women until they believe; for a believing
   slave-woman is better than a free polytheist, even though she may look pleasant
   to you. And do not marry your women to polytheistic men until they believe, for
@@ -18,23 +17,23 @@ word_by_word:
     translation: And (do) not
     transliteration: walā
   2:
-    arabic: تَنۡكِحُوا
+    arabic: تَنكِحُواْ
     translation: '[you] marry'
     transliteration: tankiḥū
   3:
-    arabic: الۡمُشۡرِكٰتِ
+    arabic: ٱلۡمُشۡرِكَٰتِ
     translation: '[the] polytheistic women'
     transliteration: l-mush'rikāti
   4:
-    arabic: حَتّٰى
+    arabic: حَتَّىٰ
     translation: until
     transliteration: ḥattā
   5:
-    arabic: يُؤۡمِنَّ​ؕ
+    arabic: يُؤۡمِنَّۚ
     translation: they believe
     transliteration: yu'minna
   6:
-    arabic: وَلَاَمَةٌ
+    arabic: وَلَأَمَةٞ
     translation: And a bondwoman
     transliteration: wala-amatun
   7:
@@ -42,23 +41,23 @@ word_by_word:
     translation: (who is) believing
     transliteration: mu'minatun
   8:
-    arabic: خَيۡرٌ
+    arabic: خَيۡرٞ
     translation: (is) better
     transliteration: khayrun
   9:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: than
     transliteration: min
   10:
-    arabic: مُّشۡرِكَةٍ
+    arabic: مُّشۡرِكَةٖ
     translation: a polytheistic woman
     transliteration: mush'rikatin
   11:
-    arabic: وَّلَوۡ
+    arabic: وَلَوۡ
     translation: '[and] even if'
     transliteration: walaw
   12:
-    arabic: اَعۡجَبَتۡكُمۡ​ۚ
+    arabic: أَعۡجَبَتۡكُمۡۗ
     translation: she pleases you
     transliteration: aʿjabatkum
   13:
@@ -66,23 +65,23 @@ word_by_word:
     translation: And (do) not
     transliteration: walā
   14:
-    arabic: تُنۡكِحُوا
+    arabic: تُنكِحُواْ
     translation: give in marriage (your women)
     transliteration: tunkiḥū
   15:
-    arabic: الۡمُشۡرِكِيۡنَ
+    arabic: ٱلۡمُشۡرِكِينَ
     translation: (to) [the] polytheistic men
     transliteration: l-mush'rikīna
   16:
-    arabic: حَتّٰى
+    arabic: حَتَّىٰ
     translation: until
     transliteration: ḥattā
   17:
-    arabic: يُؤۡمِنُوۡا ​ؕ
+    arabic: يُؤۡمِنُواْۚ
     translation: they believe
     transliteration: yu'minū
   18:
-    arabic: وَلَعَبۡدٌ
+    arabic: وَلَعَبۡدٞ
     translation: and a bondman
     transliteration: walaʿabdun
   19:
@@ -90,71 +89,71 @@ word_by_word:
     translation: (who is) believing
     transliteration: mu'minun
   20:
-    arabic: خَيۡرٌ
+    arabic: خَيۡرٞ
     translation: (is) better
     transliteration: khayrun
   21:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: than
     transliteration: min
   22:
-    arabic: مُّشۡرِكٍ
+    arabic: مُّشۡرِكٖ
     translation: a polytheistic man
     transliteration: mush'rikin
   23:
-    arabic: وَّلَوۡ
+    arabic: وَلَوۡ
     translation: '[and] even if'
     transliteration: walaw
   24:
-    arabic: اَعۡجَبَكُمۡؕ
+    arabic: أَعۡجَبَكُمۡۗ
     translation: he pleases you
     transliteration: aʿjabakum
   25:
-    arabic: اُولٰٓٮِٕكَ
+    arabic: أُوْلَٰٓئِكَ
     translation: '[Those]'
     transliteration: ulāika
   26:
-    arabic: يَدۡعُوۡنَ
+    arabic: يَدۡعُونَ
     translation: they invite
     transliteration: yadʿūna
   27:
-    arabic: اِلَى
+    arabic: إِلَى
     translation: to
     transliteration: ilā
   28:
-    arabic: النَّارِ  ۖۚ
+    arabic: ٱلنَّارِۖ
     translation: the Fire
     transliteration: l-nāri
   29:
-    arabic: وَاللّٰهُ
+    arabic: وَٱللَّهُ
     translation: and Allah
     transliteration: wal-lahu
   30:
-    arabic: يَدۡعُوۡٓا
+    arabic: يَدۡعُوٓاْ
     translation: invites
     transliteration: yadʿū
   31:
-    arabic: اِلَى
+    arabic: إِلَى
     translation: to
     transliteration: ilā
   32:
-    arabic: الۡجَـنَّةِ
+    arabic: ٱلۡجَنَّةِ
     translation: Paradise
     transliteration: l-janati
   33:
-    arabic: وَالۡمَغۡفِرَةِ
+    arabic: وَٱلۡمَغۡفِرَةِ
     translation: and [the] forgiveness
     transliteration: wal-maghfirati
   34:
-    arabic: بِاِذۡنِهٖ​ۚ
+    arabic: بِإِذۡنِهِۦۖ
     translation: by His permission
     transliteration: bi-idh'nihi
   35:
-    arabic: وَيُبَيِّنُ
+    arabic: وَيُبَيِّنُ ءَ
     translation: And He makes clear
     transliteration: wayubayyinu
   36:
-    arabic: اٰيٰتِهٖ
+    arabic: ايَٰتِهِۦ
     translation: His Verses
     transliteration: āyātihi
   37:
@@ -166,7 +165,7 @@ word_by_word:
     translation: so that they may
     transliteration: laʿallahum
   39:
-    arabic: يَتَذَكَّرُوۡنَ ‏
+    arabic: يَتَذَكَّرُونَ
     translation: take heed
     transliteration: yatadhakkarūna
 ---

@@ -1,15 +1,15 @@
 ---
-arabic_ayat: "قَالُوۡا لَنۡ نَّبۡرَحَ عَلَيۡهِ عٰكِفِيۡنَ حَتّٰى يَرۡجِعَ اِلَيۡنَا\
-  \ مُوۡسٰى‏ \uFEFF\uFEFF"
+arabic_ayat: قَالُواْ لَن نَّبۡرَحَ عَلَيۡهِ عَٰكِفِينَ حَتَّىٰ يَرۡجِعَ إِلَيۡنَا
+  مُوسَىٰ
 sentence_translation: They replied, “We will not cease to worship it until Moses returns
   to us.”
 word_by_word:
   1:
-    arabic: قَالُوۡا
+    arabic: قَالُواْ
     translation: They said
     transliteration: qālū
   2:
-    arabic: لَنۡ
+    arabic: لَن
     translation: Never
     transliteration: lan
   3:
@@ -21,11 +21,11 @@ word_by_word:
     translation: being devoted to it
     transliteration: ʿalayhi
   5:
-    arabic: عٰكِفِيۡنَ
+    arabic: عَٰكِفِينَ
     translation: being devoted to it
     transliteration: ʿākifīna
   6:
-    arabic: حَتّٰى
+    arabic: حَتَّىٰ
     translation: until
     transliteration: ḥattā
   7:
@@ -33,11 +33,11 @@ word_by_word:
     translation: returns
     transliteration: yarjiʿa
   8:
-    arabic: اِلَيۡنَا
+    arabic: إِلَيۡنَا
     translation: to us
     transliteration: ilaynā
   9:
-    arabic: "مُوۡسٰى‏ \uFEFF\uFEFF"
+    arabic: مُوسَىٰ
     translation: Musa
     transliteration: mūsā
 ---

@@ -1,19 +1,19 @@
 ---
-arabic_ayat: يٰۤـاَيُّهَا الَّذِيۡنَ اٰمَنُوۡا لَا تَاۡكُلُوا الرِّبٰٓوا اَضۡعَافًا
-  مُّضٰعَفَةً ​ وَاتَّقُوا اللّٰهَ لَعَلَّكُمۡ تُفۡلِحُوۡنَ​ۚ‏
+arabic_ayat: يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُواْ لَا تَأۡكُلُواْ ٱلرِّبَوٰٓاْ أَضۡعَٰفٗا
+  مُّضَٰعَفَةٗۖ وَٱتَّقُواْ ٱللَّهَ لَعَلَّكُمۡ تُفۡلِحُونَ
 sentence_translation: O believers! Do not consume interest, multiplying it many times
   over. And be mindful of Allah, so you may prosper.
 word_by_word:
   1:
-    arabic: يٰۤـاَيُّهَا
+    arabic: يَٰٓأَيُّهَا
     translation: O you
     transliteration: yāayyuhā
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ ءَ
     translation: who
     transliteration: alladhīna
   3:
-    arabic: اٰمَنُوۡا
+    arabic: امَنُواْ
     translation: believe
     transliteration: āmanū
   4:
@@ -21,27 +21,27 @@ word_by_word:
     translation: (Do) not
     transliteration: lā
   5:
-    arabic: تَاۡكُلُوا
+    arabic: تَأۡكُلُواْ
     translation: eat
     transliteration: takulū
   6:
-    arabic: الرِّبٰٓوا
+    arabic: ٱلرِّبَوٰٓاْ
     translation: the usury
     transliteration: l-riba
   7:
-    arabic: اَضۡعَافًا
+    arabic: أَضۡعَٰفٗا
     translation: doubled
     transliteration: aḍʿāfan
   8:
-    arabic: مُّضٰعَفَةً ​
+    arabic: مُّضَٰعَفَةٗۖ
     translation: multiplied
     transliteration: muḍāʿafatan
   9:
-    arabic: وَاتَّقُوا
+    arabic: وَٱتَّقُواْ
     translation: And fear
     transliteration: wa-ittaqū
   10:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   11:
@@ -49,7 +49,7 @@ word_by_word:
     translation: so that you may
     transliteration: laʿallakum
   12:
-    arabic: تُفۡلِحُوۡنَ​ۚ‏
+    arabic: تُفۡلِحُونَ
     translation: (be) successful
     transliteration: tuf'liḥūna
 ---

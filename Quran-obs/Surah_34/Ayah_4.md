@@ -1,47 +1,47 @@
 ---
-arabic_ayat: لِّيَجۡزِىَ الَّذِيۡنَ اٰمَنُوا وَعَمِلُوۡا الصّٰلِحٰتِؕ اُولٰٓٮِٕكَ
-  لَهُمۡ مَّغۡفِرَةٌ وَّرِزۡقٌ كَرِيۡمٌ‏
+arabic_ayat: لِّيَجۡزِيَ ٱلَّذِينَ ءَامَنُواْ وَعَمِلُواْ ٱلصَّٰلِحَٰتِۚ أُوْلَٰٓئِكَ
+  لَهُم مَّغۡفِرَةٞ وَرِزۡقٞ كَرِيمٞ
 sentence_translation: So He may reward those who believe and do good. It is they who
   will have forgiveness and an honourable provision.
 word_by_word:
   1:
-    arabic: لِّيَجۡزِىَ
+    arabic: لِّيَجۡزِيَ
     translation: That He may reward
     transliteration: liyajziya
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ ءَ
     translation: those who
     transliteration: alladhīna
   3:
-    arabic: اٰمَنُوا
+    arabic: امَنُواْ
     translation: believe
     transliteration: āmanū
   4:
-    arabic: وَعَمِلُوۡا
+    arabic: وَعَمِلُواْ
     translation: and do
     transliteration: waʿamilū
   5:
-    arabic: الصّٰلِحٰتِؕ
+    arabic: ٱلصَّٰلِحَٰتِۚ
     translation: righteous deeds
     transliteration: l-ṣāliḥāti
   6:
-    arabic: اُولٰٓٮِٕكَ
+    arabic: أُوْلَٰٓئِكَ
     translation: 'Those '
     transliteration: ulāika
   7:
-    arabic: لَهُمۡ
+    arabic: لَهُم
     translation: for them
     transliteration: lahum
   8:
-    arabic: مَّغۡفِرَةٌ
+    arabic: مَّغۡفِرَةٞ
     translation: (will be) forgiveness
     transliteration: maghfiratun
   9:
-    arabic: وَّرِزۡقٌ
+    arabic: وَرِزۡقٞ
     translation: and a provision
     transliteration: wariz'qun
   10:
-    arabic: كَرِيۡمٌ‏
+    arabic: كَرِيمٞ
     translation: noble
     transliteration: karīmun
 ---

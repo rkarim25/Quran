@@ -1,13 +1,13 @@
 ---
-arabic_ayat: اُولٰٓٮِٕكَ لَمۡ يَكُوۡنُوۡا مُعۡجِزِيۡنَ فِى الۡاَرۡضِ وَمَا كَانَ لَهُمۡ
-  مِّنۡ دُوۡنِ اللّٰهِ مِنۡ اَوۡلِيَآءَ​ ۘ يُضٰعَفُ لَهُمُ الۡعَذَابُ​ ؕ مَا كَانُوۡا
-  يَسۡتَطِيۡعُوۡنَ السَّمۡعَ وَمَا كَانُوۡا يُبۡصِرُوۡنَ‏
+arabic_ayat: أُوْلَٰٓئِكَ لَمۡ يَكُونُواْ مُعۡجِزِينَ فِي ٱلۡأَرۡضِ وَمَا كَانَ لَهُم
+  مِّن دُونِ ٱللَّهِ مِنۡ أَوۡلِيَآءَۘ يُضَٰعَفُ لَهُمُ ٱلۡعَذَابُۚ مَا كَانُواْ
+  يَسۡتَطِيعُونَ ٱلسَّمۡعَ وَمَا كَانُواْ يُبۡصِرُونَ
 sentence_translation: They will never frustrate Allah on earth, and they will have
   no protector besides Allah. Their punishment will be multiplied, for they failed
   to hear or see ˹the truth˺.
 word_by_word:
   1:
-    arabic: اُولٰٓٮِٕكَ
+    arabic: أُوْلَٰٓئِكَ
     translation: Those
     transliteration: ulāika
   2:
@@ -15,19 +15,19 @@ word_by_word:
     translation: not
     transliteration: lam
   3:
-    arabic: يَكُوۡنُوۡا
+    arabic: يَكُونُواْ
     translation: will be
     transliteration: yakūnū
   4:
-    arabic: مُعۡجِزِيۡنَ
+    arabic: مُعۡجِزِينَ
     translation: (able to) escape
     transliteration: muʿ'jizīna
   5:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   6:
-    arabic: الۡاَرۡضِ
+    arabic: ٱلۡأَرۡضِ
     translation: the earth
     transliteration: l-arḍi
   7:
@@ -39,19 +39,19 @@ word_by_word:
     translation: is
     transliteration: kāna
   9:
-    arabic: لَهُمۡ
+    arabic: لَهُم
     translation: for them
     transliteration: lahum
   10:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: besides
     transliteration: min
   11:
-    arabic: دُوۡنِ
+    arabic: دُونِ
     translation: besides
     transliteration: dūni
   12:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   13:
@@ -59,11 +59,11 @@ word_by_word:
     translation: any
     transliteration: min
   14:
-    arabic: اَوۡلِيَآءَ​ ۘ
+    arabic: أَوۡلِيَآءَۘ
     translation: protectors
     transliteration: awliyāa
   15:
-    arabic: يُضٰعَفُ
+    arabic: يُضَٰعَفُ
     translation: And will be doubled
     transliteration: yuḍāʿafu
   16:
@@ -71,7 +71,7 @@ word_by_word:
     translation: for them
     transliteration: lahumu
   17:
-    arabic: الۡعَذَابُ​ ؕ
+    arabic: ٱلۡعَذَابُۚ
     translation: the punishment
     transliteration: l-ʿadhābu
   18:
@@ -79,15 +79,15 @@ word_by_word:
     translation: Not
     transliteration: mā
   19:
-    arabic: كَانُوۡا
+    arabic: كَانُواْ
     translation: they were
     transliteration: kānū
   20:
-    arabic: يَسۡتَطِيۡعُوۡنَ
+    arabic: يَسۡتَطِيعُونَ
     translation: able
     transliteration: yastaṭīʿūna
   21:
-    arabic: السَّمۡعَ
+    arabic: ٱلسَّمۡعَ
     translation: (to) hear
     transliteration: l-samʿa
   22:
@@ -95,11 +95,11 @@ word_by_word:
     translation: and not
     transliteration: wamā
   23:
-    arabic: كَانُوۡا
+    arabic: كَانُواْ
     translation: they used (to)
     transliteration: kānū
   24:
-    arabic: يُبۡصِرُوۡنَ‏
+    arabic: يُبۡصِرُونَ
     translation: see
     transliteration: yub'ṣirūna
 ---

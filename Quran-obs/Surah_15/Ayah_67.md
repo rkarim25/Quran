@@ -1,5 +1,5 @@
 ---
-arabic_ayat: وَجَآءَ اَهۡلُ الۡمَدِيۡنَةِ يَسۡتَـبۡشِرُوۡنَ‏
+arabic_ayat: وَجَآءَ أَهۡلُ ٱلۡمَدِينَةِ يَسۡتَبۡشِرُونَ
 sentence_translation: And there came the men of the city, rejoicing.
 word_by_word:
   1:
@@ -7,15 +7,15 @@ word_by_word:
     translation: And came
     transliteration: wajāa
   2:
-    arabic: اَهۡلُ
+    arabic: أَهۡلُ
     translation: (the) people
     transliteration: ahlu
   3:
-    arabic: الۡمَدِيۡنَةِ
+    arabic: ٱلۡمَدِينَةِ
     translation: (of) the city
     transliteration: l-madīnati
   4:
-    arabic: يَسۡتَـبۡشِرُوۡنَ‏
+    arabic: يَسۡتَبۡشِرُونَ
     translation: rejoicing
     transliteration: yastabshirūna
 ---

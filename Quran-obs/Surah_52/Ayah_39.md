@@ -1,26 +1,26 @@
 ---
-arabic_ayat: اَمۡ لَـهُ الۡبَنٰتُ وَلَـكُمُ الۡبَنُوۡنَؕ‏
+arabic_ayat: أَمۡ لَهُ ٱلۡبَنَٰتُ وَلَكُمُ ٱلۡبَنُونَ
 sentence_translation: Or does He have daughters ˹as you claim˺, while you ˹prefer
   to˺ have sons?
 word_by_word:
   1:
-    arabic: اَمۡ
+    arabic: أَمۡ
     translation: Or
     transliteration: am
   2:
-    arabic: لَـهُ
+    arabic: لَهُ
     translation: for Him
     transliteration: lahu
   3:
-    arabic: الۡبَنٰتُ
+    arabic: ٱلۡبَنَٰتُ
     translation: (are) daughters
     transliteration: l-banātu
   4:
-    arabic: وَلَـكُمُ
+    arabic: وَلَكُمُ
     translation: while for you
     transliteration: walakumu
   5:
-    arabic: الۡبَنُوۡنَؕ‏
+    arabic: ٱلۡبَنُونَ
     translation: (are) sons
     transliteration: l-banūna
 ---

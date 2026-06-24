@@ -1,43 +1,43 @@
 ---
-arabic_ayat: يٰقَوۡمِ اِنَّمَا هٰذِهِ الۡحَيٰوةُ الدُّنۡيَا مَتَاعٌ وَّاِنَّ الۡاٰخِرَةَ
-  هِىَ دَارُ الۡقَرَارِ‏
+arabic_ayat: يَٰقَوۡمِ إِنَّمَا هَٰذِهِ ٱلۡحَيَوٰةُ ٱلدُّنۡيَا مَتَٰعٞ وَإِنَّ ٱلۡأٓخِرَةَ
+  هِيَ دَارُ ٱلۡقَرَارِ
 sentence_translation: O  my people! This worldly life is only ˹a fleeting˺ enjoyment,
   whereas the Hereafter is truly the home of settlement.
 word_by_word:
   1:
-    arabic: يٰقَوۡمِ
+    arabic: يَٰقَوۡمِ
     translation: O my people
     transliteration: yāqawmi
   2:
-    arabic: اِنَّمَا
+    arabic: إِنَّمَا
     translation: Only
     transliteration: innamā
   3:
-    arabic: هٰذِهِ
+    arabic: هَٰذِهِ
     translation: this
     transliteration: hādhihi
   4:
-    arabic: الۡحَيٰوةُ
+    arabic: ٱلۡحَيَوٰةُ
     translation: the life
     transliteration: l-ḥayatu
   5:
-    arabic: الدُّنۡيَا
+    arabic: ٱلدُّنۡيَا
     translation: (of) the world
     transliteration: l-dun'yā
   6:
-    arabic: مَتَاعٌ
+    arabic: مَتَٰعٞ
     translation: (is) enjoyment
     transliteration: matāʿun
   7:
-    arabic: وَّاِنَّ
+    arabic: وَإِنَّ
     translation: and indeed
     transliteration: wa-inna
   8:
-    arabic: الۡاٰخِرَةَ
+    arabic: ٱلۡأٓخِرَةَ
     translation: 'the Hereafter '
     transliteration: l-ākhirata
   9:
-    arabic: هِىَ
+    arabic: هِيَ
     translation: it
     transliteration: hiya
   10:
@@ -45,7 +45,7 @@ word_by_word:
     translation: (is the) home
     transliteration: dāru
   11:
-    arabic: الۡقَرَارِ‏
+    arabic: ٱلۡقَرَارِ
     translation: (of) settlement
     transliteration: l-qarāri
 ---

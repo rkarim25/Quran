@@ -1,6 +1,6 @@
 ---
-arabic_ayat: وَمَثَلُ كَلِمَةٍ خَبِيۡثَةٍ كَشَجَرَةٍ خَبِيۡثَةٍ ۨاجۡتُثَّتۡ مِنۡ فَوۡقِ
-  الۡاَرۡضِ مَا لَهَا مِنۡ قَرَارٍ‏
+arabic_ayat: وَمَثَلُ كَلِمَةٍ خَبِيثَةٖ كَشَجَرَةٍ خَبِيثَةٍ ٱجۡتُثَّتۡ مِن فَوۡقِ
+  ٱلۡأَرۡضِ مَا لَهَا مِن قَرَارٖ
 sentence_translation: And the parable of an evil word is that of an evil tree, uprooted
   from the earth, having no stability.
 word_by_word:
@@ -13,7 +13,7 @@ word_by_word:
     translation: (of) a word
     transliteration: kalimatin
   3:
-    arabic: خَبِيۡثَةٍ
+    arabic: خَبِيثَةٖ
     translation: evil
     transliteration: khabīthatin
   4:
@@ -21,15 +21,15 @@ word_by_word:
     translation: (is) like a tree
     transliteration: kashajaratin
   5:
-    arabic: خَبِيۡثَةٍ
+    arabic: خَبِيثَةٍ
     translation: evil
     transliteration: khabīthatin
   6:
-    arabic: ۨاجۡتُثَّتۡ
+    arabic: ٱجۡتُثَّتۡ
     translation: uprooted
     transliteration: uj'tuthat
   7:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   8:
@@ -37,7 +37,7 @@ word_by_word:
     translation: the surface
     transliteration: fawqi
   9:
-    arabic: الۡاَرۡضِ
+    arabic: ٱلۡأَرۡضِ
     translation: (of) the earth
     transliteration: l-arḍi
   10:
@@ -49,11 +49,11 @@ word_by_word:
     translation: for it
     transliteration: lahā
   12:
-    arabic: مِنۡ
+    arabic: مِن
     translation: (is) any
     transliteration: min
   13:
-    arabic: قَرَارٍ‏
+    arabic: قَرَارٖ
     translation: stability
     transliteration: qarārin
 ---

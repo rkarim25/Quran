@@ -1,19 +1,19 @@
 ---
-arabic_ayat: ذٰ لِكَ بِاَنَّ اللّٰهَ هُوَ الۡحَـقُّ وَاَنَّ مَا يَدۡعُوۡنَ مِنۡ دُوۡنِهٖ
-  هُوَ الۡبَاطِلُ وَاَنَّ اللّٰهَ هُوَ الۡعَلِىُّ الۡكَبِيۡرُ‏
+arabic_ayat: ذَٰلِكَ بِأَنَّ ٱللَّهَ هُوَ ٱلۡحَقُّ وَأَنَّ مَا يَدۡعُونَ مِن دُونِهِۦ
+  هُوَ ٱلۡبَٰطِلُ وَأَنَّ ٱللَّهَ هُوَ ٱلۡعَلِيُّ ٱلۡكَبِيرُ
 sentence_translation: That is because Allah ˹alone˺ is the Truth and what they invoke
   besides Him is falsehood, and Allah ˹alone˺ is truly the Most High, All-Great.
 word_by_word:
   1:
-    arabic: ذٰ لِكَ
+    arabic: ذَٰلِكَ
     translation: That (is)
     transliteration: dhālika
   2:
-    arabic: بِاَنَّ
+    arabic: بِأَنَّ
     translation: because
     transliteration: bi-anna
   3:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   4:
@@ -21,11 +21,11 @@ word_by_word:
     translation: He
     transliteration: huwa
   5:
-    arabic: الۡحَـقُّ
+    arabic: ٱلۡحَقُّ
     translation: (is) the Truth
     transliteration: l-ḥaqu
   6:
-    arabic: وَاَنَّ
+    arabic: وَأَنَّ
     translation: and that
     transliteration: wa-anna
   7:
@@ -33,15 +33,15 @@ word_by_word:
     translation: what
     transliteration: mā
   8:
-    arabic: يَدۡعُوۡنَ
+    arabic: يَدۡعُونَ
     translation: they invoke
     transliteration: yadʿūna
   9:
-    arabic: مِنۡ
+    arabic: مِن
     translation: besides Him
     transliteration: min
   10:
-    arabic: دُوۡنِهٖ
+    arabic: دُونِهِۦ
     translation: besides Him
     transliteration: dūnihi
   11:
@@ -49,15 +49,15 @@ word_by_word:
     translation: it
     transliteration: huwa
   12:
-    arabic: الۡبَاطِلُ
+    arabic: ٱلۡبَٰطِلُ
     translation: (is) the falsehood
     transliteration: l-bāṭilu
   13:
-    arabic: وَاَنَّ
+    arabic: وَأَنَّ
     translation: And that
     transliteration: wa-anna
   14:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   15:
@@ -65,11 +65,11 @@ word_by_word:
     translation: He
     transliteration: huwa
   16:
-    arabic: الۡعَلِىُّ
+    arabic: ٱلۡعَلِيُّ
     translation: (is) the Most High
     transliteration: l-ʿaliyu
   17:
-    arabic: الۡكَبِيۡرُ‏
+    arabic: ٱلۡكَبِيرُ
     translation: the Most Great
     transliteration: l-kabīru
 ---

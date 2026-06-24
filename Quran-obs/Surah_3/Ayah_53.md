@@ -1,35 +1,35 @@
 ---
-arabic_ayat: رَبَّنَاۤ اٰمَنَّا بِمَاۤ اَنۡزَلۡتَ وَاتَّبَعۡنَا الرَّسُوۡلَ فَاكۡتُبۡنَا
-  مَعَ الشّٰهِدِيۡنَ‏
+arabic_ayat: رَبَّنَآ ءَامَنَّا بِمَآ أَنزَلۡتَ وَٱتَّبَعۡنَا ٱلرَّسُولَ فَٱكۡتُبۡنَا
+  مَعَ ٱلشَّٰهِدِينَ
 sentence_translation: ˹They prayed to Allah,˺ “Our Lord! We believe in Your revelations
   and follow the messenger, so count us among those who bear witness.”
 word_by_word:
   1:
-    arabic: رَبَّنَاۤ
+    arabic: رَبَّنَآ ءَ
     translation: Our Lord
     transliteration: rabbanā
   2:
-    arabic: اٰمَنَّا
+    arabic: امَنَّا
     translation: we believe[d]
     transliteration: āmannā
   3:
-    arabic: بِمَاۤ
+    arabic: بِمَآ
     translation: in what
     transliteration: bimā
   4:
-    arabic: اَنۡزَلۡتَ
+    arabic: أَنزَلۡتَ
     translation: You revealed
     transliteration: anzalta
   5:
-    arabic: وَاتَّبَعۡنَا
+    arabic: وَٱتَّبَعۡنَا
     translation: and we follow[ed]
     transliteration: wa-ittabaʿnā
   6:
-    arabic: الرَّسُوۡلَ
+    arabic: ٱلرَّسُولَ
     translation: the Messenger
     transliteration: l-rasūla
   7:
-    arabic: فَاكۡتُبۡنَا
+    arabic: فَٱكۡتُبۡنَا
     translation: then write us
     transliteration: fa-uk'tub'nā
   8:
@@ -37,7 +37,7 @@ word_by_word:
     translation: among
     transliteration: maʿa
   9:
-    arabic: الشّٰهِدِيۡنَ‏
+    arabic: ٱلشَّٰهِدِينَ
     translation: the witnesses
     transliteration: l-shāhidīna
 ---

@@ -1,27 +1,27 @@
 ---
-arabic_ayat: لِّـنُحْیِۦَ بِهٖ بَلۡدَةً مَّيۡتًا وَّنُسۡقِيَهٗ مِمَّا خَلَقۡنَاۤ اَنۡعَامًا
-  وَّاَنَاسِىَّ كَثِيۡرًا‏
+arabic_ayat: لِّنُحۡـِۧيَ بِهِۦ بَلۡدَةٗ مَّيۡتٗا وَنُسۡقِيَهُۥ مِمَّا خَلَقۡنَآ
+  أَنۡعَٰمٗا وَأَنَاسِيَّ كَثِيرٗا
 sentence_translation: giving life to a lifeless land, and providing water for countless
   animals and humans of Our Own creation.
 word_by_word:
   1:
-    arabic: لِّـنُحْیِۦَ
+    arabic: لِّنُحۡـِۧيَ
     translation: That We may give life
     transliteration: linuḥ'yiya
   2:
-    arabic: بِهٖ
+    arabic: بِهِۦ
     translation: thereby
     transliteration: bihi
   3:
-    arabic: بَلۡدَةً
+    arabic: بَلۡدَةٗ
     translation: (to) a land
     transliteration: baldatan
   4:
-    arabic: مَّيۡتًا
+    arabic: مَّيۡتٗا
     translation: dead
     transliteration: maytan
   5:
-    arabic: وَّنُسۡقِيَهٗ
+    arabic: وَنُسۡقِيَهُۥ
     translation: and We give drink
     transliteration: wanus'qiyahu
   6:
@@ -29,19 +29,19 @@ word_by_word:
     translation: thereof
     transliteration: mimmā
   7:
-    arabic: خَلَقۡنَاۤ
+    arabic: خَلَقۡنَآ
     translation: (to those) We created
     transliteration: khalaqnā
   8:
-    arabic: اَنۡعَامًا
+    arabic: أَنۡعَٰمٗا
     translation: cattle
     transliteration: anʿāman
   9:
-    arabic: وَّاَنَاسِىَّ
+    arabic: وَأَنَاسِيَّ
     translation: and men
     transliteration: wa-anāsiyya
   10:
-    arabic: كَثِيۡرًا‏
+    arabic: كَثِيرٗا
     translation: many
     transliteration: kathīran
 ---

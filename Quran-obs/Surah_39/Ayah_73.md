@@ -1,21 +1,21 @@
 ---
-arabic_ayat: وَسِيۡقَ الَّذِيۡنَ اتَّقَوۡا رَبَّهُمۡ اِلَى الۡجَـنَّةِ زُمَرًا​ؕ حَتّٰٓى
-  اِذَا جَآءُوۡهَا وَفُتِحَتۡ اَبۡوَابُهَا وَقَالَ لَهُمۡ خَزَنَتُهَا سَلٰمٌ عَلَيۡكُمۡ
-  طِبۡتُمۡ فَادۡخُلُوۡهَا خٰلِدِيۡنَ‏
+arabic_ayat: وَسِيقَ ٱلَّذِينَ ٱتَّقَوۡاْ رَبَّهُمۡ إِلَى ٱلۡجَنَّةِ زُمَرًاۖ حَتَّىٰٓ
+  إِذَا جَآءُوهَا وَفُتِحَتۡ أَبۡوَٰبُهَا وَقَالَ لَهُمۡ خَزَنَتُهَا سَلَٰمٌ عَلَيۡكُمۡ
+  طِبۡتُمۡ فَٱدۡخُلُوهَا خَٰلِدِينَ
 sentence_translation: And those who were mindful of their Lord will be led to Paradise
   in ˹successive˺ groups. When they arrive at its ˹already˺ open gates, its keepers
   will say, “Peace be upon you! You have done well, so come in, to stay forever.”
 word_by_word:
   1:
-    arabic: وَسِيۡقَ
+    arabic: وَسِيقَ
     translation: And (will) be driven
     transliteration: wasīqa
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   3:
-    arabic: اتَّقَوۡا
+    arabic: ٱتَّقَوۡاْ
     translation: feared
     transliteration: ittaqaw
   4:
@@ -23,27 +23,27 @@ word_by_word:
     translation: their Lord
     transliteration: rabbahum
   5:
-    arabic: اِلَى
+    arabic: إِلَى
     translation: to
     transliteration: ilā
   6:
-    arabic: الۡجَـنَّةِ
+    arabic: ٱلۡجَنَّةِ
     translation: Paradise
     transliteration: l-janati
   7:
-    arabic: زُمَرًا​ؕ
+    arabic: زُمَرًاۖ
     translation: (in) groups
     transliteration: zumaran
   8:
-    arabic: حَتّٰٓى
+    arabic: حَتَّىٰٓ
     translation: until
     transliteration: ḥattā
   9:
-    arabic: اِذَا
+    arabic: إِذَا
     translation: when
     transliteration: idhā
   10:
-    arabic: جَآءُوۡهَا
+    arabic: جَآءُوهَا
     translation: they reach it
     transliteration: jāūhā
   11:
@@ -51,7 +51,7 @@ word_by_word:
     translation: and (will) be opened
     transliteration: wafutiḥat
   12:
-    arabic: اَبۡوَابُهَا
+    arabic: أَبۡوَٰبُهَا
     translation: its gates
     transliteration: abwābuhā
   13:
@@ -67,7 +67,7 @@ word_by_word:
     translation: its keepers
     transliteration: khazanatuhā
   16:
-    arabic: سَلٰمٌ
+    arabic: سَلَٰمٌ
     translation: Peace be
     transliteration: salāmun
   17:
@@ -79,11 +79,11 @@ word_by_word:
     translation: you have done well
     transliteration: ṭib'tum
   19:
-    arabic: فَادۡخُلُوۡهَا
+    arabic: فَٱدۡخُلُوهَا
     translation: so enter it
     transliteration: fa-ud'khulūhā
   20:
-    arabic: خٰلِدِيۡنَ‏
+    arabic: خَٰلِدِينَ
     translation: (to) abide eternally
     transliteration: khālidīna
 ---

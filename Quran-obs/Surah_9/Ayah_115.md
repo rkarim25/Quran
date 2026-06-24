@@ -1,6 +1,6 @@
 ---
-arabic_ayat: وَمَا كَانَ اللّٰهُ لِيُـضِلَّ قَوۡمًۢا بَعۡدَ اِذۡ هَدٰٮهُمۡ حَتّٰى
-  يُبَيِّنَ لَهُمۡ مَّا يَتَّقُوۡنَ​ؕ اِنَّ اللّٰهَ بِكُلِّ شَىۡءٍ عَلِيۡمٌ‏
+arabic_ayat: وَمَا كَانَ ٱللَّهُ لِيُضِلَّ قَوۡمَۢا بَعۡدَ إِذۡ هَدَىٰهُمۡ حَتَّىٰ
+  يُبَيِّنَ لَهُم مَّا يَتَّقُونَۚ إِنَّ ٱللَّهَ بِكُلِّ شَيۡءٍ عَلِيمٌ
 sentence_translation: Allah would never consider a people deviant after He has guided
   them, until He makes clear to them what they must avoid. Surely Allah has ˹full˺
   knowledge of everything.
@@ -14,15 +14,15 @@ word_by_word:
     translation: is
     transliteration: kāna
   3:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: (for) Allah
     transliteration: l-lahu
   4:
-    arabic: لِيُـضِلَّ
+    arabic: لِيُضِلَّ
     translation: that He lets go astray
     transliteration: liyuḍilla
   5:
-    arabic: قَوۡمًۢا
+    arabic: قَوۡمَۢا
     translation: a people
     transliteration: qawman
   6:
@@ -30,15 +30,15 @@ word_by_word:
     translation: after
     transliteration: baʿda
   7:
-    arabic: اِذۡ
+    arabic: إِذۡ
     translation: '[when]'
     transliteration: idh
   8:
-    arabic: هَدٰٮهُمۡ
+    arabic: هَدَىٰهُمۡ
     translation: He has guided them
     transliteration: hadāhum
   9:
-    arabic: حَتّٰى
+    arabic: حَتَّىٰ
     translation: until
     transliteration: ḥattā
   10:
@@ -46,7 +46,7 @@ word_by_word:
     translation: He makes clear
     transliteration: yubayyina
   11:
-    arabic: لَهُمۡ
+    arabic: لَهُم
     translation: to them
     transliteration: lahum
   12:
@@ -54,15 +54,15 @@ word_by_word:
     translation: what
     transliteration: mā
   13:
-    arabic: يَتَّقُوۡنَ​ؕ
+    arabic: يَتَّقُونَۚ
     translation: they should fear
     transliteration: yattaqūna
   14:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   15:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   16:
@@ -70,11 +70,11 @@ word_by_word:
     translation: (of) every
     transliteration: bikulli
   17:
-    arabic: شَىۡءٍ
+    arabic: شَيۡءٍ
     translation: thing
     transliteration: shayin
   18:
-    arabic: عَلِيۡمٌ‏
+    arabic: عَلِيمٌ
     translation: (is) All-Knower
     transliteration: ʿalīmun
 ---

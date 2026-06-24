@@ -1,27 +1,27 @@
 ---
-arabic_ayat: قُلْ لِّـلَّـهِ الشَّفَاعَةُ جَمِيۡعًا​ ؕ لَهٗ مُلۡكُ السَّمٰوٰتِ وَالۡاَرۡضِ​
-  ؕ ثُمَّ اِلَيۡهِ تُرۡجَعُوۡنَ‏
+arabic_ayat: قُل لِّلَّهِ ٱلشَّفَٰعَةُ جَمِيعٗاۖ لَّهُۥ مُلۡكُ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِۖ
+  ثُمَّ إِلَيۡهِ تُرۡجَعُونَ
 sentence_translation: Say, “All intercession belongs to Allah ˹alone˺. To Him belongs
   the kingdom of the heavens and the earth. Then to Him you will ˹all˺ be returned.”
 word_by_word:
   1:
-    arabic: قُلْ
+    arabic: قُل
     translation: Say
     transliteration: qul
   2:
-    arabic: لِّـلَّـهِ
+    arabic: لِّلَّهِ
     translation: To Allah (belongs)
     transliteration: lillahi
   3:
-    arabic: الشَّفَاعَةُ
+    arabic: ٱلشَّفَٰعَةُ
     translation: the intercession
     transliteration: l-shafāʿatu
   4:
-    arabic: جَمِيۡعًا​ ؕ
+    arabic: جَمِيعٗاۖ
     translation: all
     transliteration: jamīʿan
   5:
-    arabic: لَهٗ
+    arabic: لَّهُۥ
     translation: For Him
     transliteration: lahu
   6:
@@ -29,11 +29,11 @@ word_by_word:
     translation: (is the) dominion
     transliteration: mul'ku
   7:
-    arabic: السَّمٰوٰتِ
+    arabic: ٱلسَّمَٰوَٰتِ
     translation: (of) the heavens
     transliteration: l-samāwāti
   8:
-    arabic: وَالۡاَرۡضِ​ ؕ
+    arabic: وَٱلۡأَرۡضِۖ
     translation: and the earth
     transliteration: wal-arḍi
   9:
@@ -41,11 +41,11 @@ word_by_word:
     translation: Then
     transliteration: thumma
   10:
-    arabic: اِلَيۡهِ
+    arabic: إِلَيۡهِ
     translation: to Him
     transliteration: ilayhi
   11:
-    arabic: تُرۡجَعُوۡنَ‏
+    arabic: تُرۡجَعُونَ
     translation: you will be returned
     transliteration: tur'jaʿūna
 ---

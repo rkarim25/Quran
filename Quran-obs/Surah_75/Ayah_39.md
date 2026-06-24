@@ -1,5 +1,5 @@
 ---
-arabic_ayat: فَجَعَلَ مِنۡهُ الزَّوۡجَيۡنِ الذَّكَرَ وَالۡاُنۡثٰىؕ‏
+arabic_ayat: فَجَعَلَ مِنۡهُ ٱلزَّوۡجَيۡنِ ٱلذَّكَرَ وَٱلۡأُنثَىٰٓ
 sentence_translation: producing from it both sexes, male and female.
 word_by_word:
   1:
@@ -11,15 +11,15 @@ word_by_word:
     translation: of him
     transliteration: min'hu
   3:
-    arabic: الزَّوۡجَيۡنِ
+    arabic: ٱلزَّوۡجَيۡنِ
     translation: two kinds
     transliteration: l-zawjayni
   4:
-    arabic: الذَّكَرَ
+    arabic: ٱلذَّكَرَ
     translation: (the) male
     transliteration: l-dhakara
   5:
-    arabic: وَالۡاُنۡثٰىؕ‏
+    arabic: وَٱلۡأُنثَىٰٓ
     translation: and the female
     transliteration: wal-unthā
 ---

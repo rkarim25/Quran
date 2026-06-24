@@ -1,6 +1,6 @@
 ---
-arabic_ayat: قُلۡ مَا يَعۡبَـؤُا بِكُمۡ رَبِّىۡ لَوۡلَا دُعَآؤُكُمۡ​ۚ فَقَدۡ كَذَّبۡتُمۡ
-  فَسَوۡفَ يَكُوۡنُ لِزَامًا‏
+arabic_ayat: قُلۡ مَا يَعۡبَؤُاْ بِكُمۡ رَبِّي لَوۡلَا دُعَآؤُكُمۡۖ فَقَدۡ كَذَّبۡتُمۡ
+  فَسَوۡفَ يَكُونُ لِزَامَۢا
 sentence_translation: Say, ˹O Prophet,˺ “You ˹all˺ would not ˹even˺ matter to my Lord
   were it not for your faith ˹in Him˺. But now you ˹disbelievers˺ have denied ˹the
   truth˺, so the torment is bound to come.”
@@ -14,7 +14,7 @@ word_by_word:
     translation: Not
     transliteration: mā
   3:
-    arabic: يَعۡبَـؤُا
+    arabic: يَعۡبَؤُاْ
     translation: will care
     transliteration: yaʿba-u
   4:
@@ -22,7 +22,7 @@ word_by_word:
     translation: for you
     transliteration: bikum
   5:
-    arabic: رَبِّىۡ
+    arabic: رَبِّي
     translation: my Lord
     transliteration: rabbī
   6:
@@ -30,7 +30,7 @@ word_by_word:
     translation: if not
     transliteration: lawlā
   7:
-    arabic: دُعَآؤُكُمۡ​ۚ
+    arabic: دُعَآؤُكُمۡۖ
     translation: your prayer (is to Him)
     transliteration: duʿāukum
   8:
@@ -46,11 +46,11 @@ word_by_word:
     translation: so soon
     transliteration: fasawfa
   11:
-    arabic: يَكُوۡنُ
+    arabic: يَكُونُ
     translation: will be
     transliteration: yakūnu
   12:
-    arabic: لِزَامًا‏
+    arabic: لِزَامَۢا
     translation: the inevitable (punishment)
     transliteration: lizāman
 ---

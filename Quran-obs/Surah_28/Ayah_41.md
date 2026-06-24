@@ -1,27 +1,27 @@
 ---
-arabic_ayat: وَجَعَلۡنٰهُمۡ اَٮِٕمَّةً يَّدۡعُوۡنَ اِلَى النَّارِ​ۚ وَيَوۡمَ الۡقِيٰمَةِ
-  لَا يُنۡصَرُوۡنَ‏
+arabic_ayat: وَجَعَلۡنَٰهُمۡ أَئِمَّةٗ يَدۡعُونَ إِلَى ٱلنَّارِۖ وَيَوۡمَ ٱلۡقِيَٰمَةِ
+  لَا يُنصَرُونَ
 sentence_translation: We made them leaders inviting ˹others˺ to the Fire. And on the
   Day of Judgment they will not be helped.
 word_by_word:
   1:
-    arabic: وَجَعَلۡنٰهُمۡ
+    arabic: وَجَعَلۡنَٰهُمۡ
     translation: And We made them
     transliteration: wajaʿalnāhum
   2:
-    arabic: اَٮِٕمَّةً
+    arabic: أَئِمَّةٗ
     translation: leaders
     transliteration: a-immatan
   3:
-    arabic: يَّدۡعُوۡنَ
+    arabic: يَدۡعُونَ
     translation: inviting
     transliteration: yadʿūna
   4:
-    arabic: اِلَى
+    arabic: إِلَى
     translation: to
     transliteration: ilā
   5:
-    arabic: النَّارِ​ۚ
+    arabic: ٱلنَّارِۖ
     translation: the Fire
     transliteration: l-nāri
   6:
@@ -29,7 +29,7 @@ word_by_word:
     translation: and (on the) Day
     transliteration: wayawma
   7:
-    arabic: الۡقِيٰمَةِ
+    arabic: ٱلۡقِيَٰمَةِ
     translation: (of) the Resurrection
     transliteration: l-qiyāmati
   8:
@@ -37,7 +37,7 @@ word_by_word:
     translation: not
     transliteration: lā
   9:
-    arabic: يُنۡصَرُوۡنَ‏
+    arabic: يُنصَرُونَ
     translation: they will be helped
     transliteration: yunṣarūna
 ---

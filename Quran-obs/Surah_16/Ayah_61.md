@@ -1,7 +1,7 @@
 ---
-arabic_ayat: وَلَوۡ يُؤَاخِذُ اللّٰهُ النَّاسَ بِظُلۡمِهِمۡ مَّا تَرَكَ عَلَيۡهَا
-  مِنۡ دَآبَّةٍ وَّلٰـكِنۡ يُّؤَخِّرُهُمۡ اِلٰٓى اَجَلٍ مُّسَمًّى​​ۚ فَاِذَا جَآءَ
-  اَجَلُهُمۡ لَا يَسۡتَـاۡخِرُوۡنَ سَاعَةً​ وَّلَا يَسۡتَقۡدِمُوۡنَ‏
+arabic_ayat: وَلَوۡ يُؤَاخِذُ ٱللَّهُ ٱلنَّاسَ بِظُلۡمِهِم مَّا تَرَكَ عَلَيۡهَا مِن
+  دَآبَّةٖ وَلَٰكِن يُؤَخِّرُهُمۡ إِلَىٰٓ أَجَلٖ مُّسَمّٗىۖ فَإِذَا جَآءَ أَجَلُهُمۡ
+  لَا يَسۡتَـٔۡخِرُونَ سَاعَةٗ وَلَا يَسۡتَقۡدِمُونَ
 sentence_translation: If Allah were to punish people ˹immediately˺ for their wrongdoing,
   He would not have left a single living being on earth. But He delays them for an
   appointed term. And when their time arrives, they cannot delay it for a moment,
@@ -16,15 +16,15 @@ word_by_word:
     translation: Allah were to seize
     transliteration: yuākhidhu
   3:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah were to seize
     transliteration: l-lahu
   4:
-    arabic: النَّاسَ
+    arabic: ٱلنَّاسَ
     translation: the mankind
     transliteration: l-nāsa
   5:
-    arabic: بِظُلۡمِهِمۡ
+    arabic: بِظُلۡمِهِم
     translation: for their wrongdoing
     transliteration: biẓul'mihim
   6:
@@ -40,35 +40,35 @@ word_by_word:
     translation: upon it
     transliteration: ʿalayhā
   9:
-    arabic: مِنۡ
+    arabic: مِن
     translation: any
     transliteration: min
   10:
-    arabic: دَآبَّةٍ
+    arabic: دَآبَّةٖ
     translation: moving creature
     transliteration: dābbatin
   11:
-    arabic: وَّلٰـكِنۡ
+    arabic: وَلَٰكِن
     translation: but
     transliteration: walākin
   12:
-    arabic: يُّؤَخِّرُهُمۡ
+    arabic: يُؤَخِّرُهُمۡ
     translation: He defers them
     transliteration: yu-akhiruhum
   13:
-    arabic: اِلٰٓى
+    arabic: إِلَىٰٓ
     translation: for
     transliteration: ilā
   14:
-    arabic: اَجَلٍ
+    arabic: أَجَلٖ
     translation: a term
     transliteration: ajalin
   15:
-    arabic: مُّسَمًّى​​ۚ
+    arabic: مُّسَمّٗىۖ
     translation: appointed
     transliteration: musamman
   16:
-    arabic: فَاِذَا
+    arabic: فَإِذَا
     translation: Then when
     transliteration: fa-idhā
   17:
@@ -76,7 +76,7 @@ word_by_word:
     translation: comes
     transliteration: jāa
   18:
-    arabic: اَجَلُهُمۡ
+    arabic: أَجَلُهُمۡ
     translation: their terms
     transliteration: ajaluhum
   19:
@@ -84,19 +84,19 @@ word_by_word:
     translation: not
     transliteration: lā
   20:
-    arabic: يَسۡتَـاۡخِرُوۡنَ
+    arabic: يَسۡتَـٔۡخِرُونَ
     translation: they (will) remain behind
     transliteration: yastakhirūna
   21:
-    arabic: سَاعَةً​
+    arabic: سَاعَةٗ
     translation: an hour
     transliteration: sāʿatan
   22:
-    arabic: وَّلَا
+    arabic: وَلَا
     translation: and not
     transliteration: walā
   23:
-    arabic: يَسۡتَقۡدِمُوۡنَ‏
+    arabic: يَسۡتَقۡدِمُونَ
     translation: they can advance (it)
     transliteration: yastaqdimūna
 ---

@@ -1,14 +1,14 @@
 ---
-arabic_ayat: اَللّٰهُ خَالِقُ كُلِّ شَىۡءٍ​ وَّ هُوَ عَلٰى كُلِّ شَىۡءٍ وَّكِيۡلٌ‏
+arabic_ayat: ٱللَّهُ خَٰلِقُ كُلِّ شَيۡءٖۖ وَهُوَ عَلَىٰ كُلِّ شَيۡءٖ وَكِيلٞ
 sentence_translation: Allah is the Creator of all things, and He is the Maintainer
   of everything.
 word_by_word:
   1:
-    arabic: اَللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: al-lahu
   2:
-    arabic: خَالِقُ
+    arabic: خَٰلِقُ
     translation: (is the) Creator
     transliteration: khāliqu
   3:
@@ -16,15 +16,15 @@ word_by_word:
     translation: (of) all
     transliteration: kulli
   4:
-    arabic: شَىۡءٍ​
+    arabic: شَيۡءٖۖ
     translation: things
     transliteration: shayin
   5:
-    arabic: وَّ هُوَ
+    arabic: وَهُوَ
     translation: and He
     transliteration: wahuwa
   6:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: (is) over
     transliteration: ʿalā
   7:
@@ -32,11 +32,11 @@ word_by_word:
     translation: all
     transliteration: kulli
   8:
-    arabic: شَىۡءٍ
+    arabic: شَيۡءٖ
     translation: things
     transliteration: shayin
   9:
-    arabic: وَّكِيۡلٌ‏
+    arabic: وَكِيلٞ
     translation: a Guardian
     transliteration: wakīlun
 ---

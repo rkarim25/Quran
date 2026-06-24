@@ -1,23 +1,23 @@
 ---
-arabic_ayat: قَالُوۡا تَاللّٰهِ لَـقَدۡ عَلِمۡتُمۡ مَّا جِئۡنَا لِـنُفۡسِدَ فِى الۡاَرۡضِ
-  وَمَا كُنَّا سَارِقِيۡنَ‏
+arabic_ayat: قَالُواْ تَٱللَّهِ لَقَدۡ عَلِمۡتُم مَّا جِئۡنَا لِنُفۡسِدَ فِي ٱلۡأَرۡضِ
+  وَمَا كُنَّا سَٰرِقِينَ
 sentence_translation: Joseph’s brothers replied, “By Allah! You know well that we
   did not come to cause trouble in the land, nor are we thieves.”
 word_by_word:
   1:
-    arabic: قَالُوۡا
+    arabic: قَالُواْ
     translation: They said
     transliteration: qālū
   2:
-    arabic: تَاللّٰهِ
+    arabic: تَٱللَّهِ
     translation: By Allah
     transliteration: tal-lahi
   3:
-    arabic: لَـقَدۡ
+    arabic: لَقَدۡ
     translation: certainly
     transliteration: laqad
   4:
-    arabic: عَلِمۡتُمۡ
+    arabic: عَلِمۡتُم
     translation: you know
     transliteration: ʿalim'tum
   5:
@@ -29,15 +29,15 @@ word_by_word:
     translation: we came
     transliteration: ji'nā
   7:
-    arabic: لِـنُفۡسِدَ
+    arabic: لِنُفۡسِدَ
     translation: that we cause corruption
     transliteration: linuf'sida
   8:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   9:
-    arabic: الۡاَرۡضِ
+    arabic: ٱلۡأَرۡضِ
     translation: the land
     transliteration: l-arḍi
   10:
@@ -49,7 +49,7 @@ word_by_word:
     translation: we are
     transliteration: kunnā
   12:
-    arabic: سَارِقِيۡنَ‏
+    arabic: سَٰرِقِينَ
     translation: thieves
     transliteration: sāriqīna
 ---

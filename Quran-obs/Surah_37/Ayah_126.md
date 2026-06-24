@@ -1,9 +1,9 @@
 ---
-arabic_ayat: اللّٰهَ رَبَّكُمۡ وَرَبَّ اٰبَآٮِٕكُمُ الۡاَوَّلِيۡنَ‏
+arabic_ayat: ٱللَّهَ رَبَّكُمۡ وَرَبَّ ءَابَآئِكُمُ ٱلۡأَوَّلِينَ
 sentence_translation: Allah, your Lord and the Lord of your forefathers?”
 word_by_word:
   1:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: al-laha
   2:
@@ -11,15 +11,15 @@ word_by_word:
     translation: your Lord
     transliteration: rabbakum
   3:
-    arabic: وَرَبَّ
+    arabic: وَرَبَّ ءَ
     translation: and (the) Lord
     transliteration: warabba
   4:
-    arabic: اٰبَآٮِٕكُمُ
+    arabic: ابَآئِكُمُ
     translation: (of) your forefathers
     transliteration: ābāikumu
   5:
-    arabic: الۡاَوَّلِيۡنَ‏
+    arabic: ٱلۡأَوَّلِينَ
     translation: (of) your forefathers
     transliteration: l-awalīna
 ---

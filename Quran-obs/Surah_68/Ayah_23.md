@@ -1,9 +1,9 @@
 ---
-arabic_ayat: فَانۡطَلَقُوۡا وَهُمۡ يَتَخَافَتُوۡنَۙ‏
+arabic_ayat: فَٱنطَلَقُواْ وَهُمۡ يَتَخَٰفَتُونَ
 sentence_translation: So they went off, whispering to one another,
 word_by_word:
   1:
-    arabic: فَانۡطَلَقُوۡا
+    arabic: فَٱنطَلَقُواْ
     translation: So they went
     transliteration: fa-inṭalaqū
   2:
@@ -11,7 +11,7 @@ word_by_word:
     translation: while they
     transliteration: wahum
   3:
-    arabic: يَتَخَافَتُوۡنَۙ‏
+    arabic: يَتَخَٰفَتُونَ
     translation: lowered (their) voices
     transliteration: yatakhāfatūna
 ---

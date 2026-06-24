@@ -1,19 +1,19 @@
 ---
-arabic_ayat: فَاسۡتَفۡتِهِمۡ اَهُمۡ اَشَدُّ خَلۡقًا اَمۡ مَّنۡ خَلَقۡنَاؕ اِنَّا خَلَقۡنٰهُمۡ
-  مِّنۡ طِيۡنٍ لَّازِبٍ‏
+arabic_ayat: فَٱسۡتَفۡتِهِمۡ أَهُمۡ أَشَدُّ خَلۡقًا أَم مَّنۡ خَلَقۡنَآۚ إِنَّا خَلَقۡنَٰهُم
+  مِّن طِينٖ لَّازِبِۭ
 sentence_translation: 'So ask them ˹O Prophet˺, which is harder to create: them or
   other marvels of Our creation? Indeed, We created them from a sticky clay.'
 word_by_word:
   1:
-    arabic: فَاسۡتَفۡتِهِمۡ
+    arabic: فَٱسۡتَفۡتِهِمۡ
     translation: Then ask them
     transliteration: fa-is'taftihim
   2:
-    arabic: اَهُمۡ
+    arabic: أَهُمۡ
     translation: Are they
     transliteration: ahum
   3:
-    arabic: اَشَدُّ
+    arabic: أَشَدُّ
     translation: a stronger
     transliteration: ashaddu
   4:
@@ -21,7 +21,7 @@ word_by_word:
     translation: creation
     transliteration: khalqan
   5:
-    arabic: اَمۡ
+    arabic: أَم
     translation: or
     transliteration: am
   6:
@@ -29,27 +29,27 @@ word_by_word:
     translation: (those) whom
     transliteration: man
   7:
-    arabic: خَلَقۡنَاؕ
+    arabic: خَلَقۡنَآۚ
     translation: We have created
     transliteration: khalaqnā
   8:
-    arabic: اِنَّا
+    arabic: إِنَّا
     translation: Indeed, We
     transliteration: innā
   9:
-    arabic: خَلَقۡنٰهُمۡ
+    arabic: خَلَقۡنَٰهُم
     translation: created them
     transliteration: khalaqnāhum
   10:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: from
     transliteration: min
   11:
-    arabic: طِيۡنٍ
+    arabic: طِينٖ
     translation: a clay
     transliteration: ṭīnin
   12:
-    arabic: لَّازِبٍ‏
+    arabic: لَّازِبِۭ
     translation: sticky
     transliteration: lāzibin
 ---

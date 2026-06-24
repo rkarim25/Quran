@@ -1,19 +1,19 @@
 ---
-arabic_ayat: اَوَلَمۡ يَرَوۡا اَنَّا خَلَقۡنَا لَهُمۡ مِّمَّا عَمِلَتۡ اَيۡدِيۡنَاۤ
-  اَنۡعَامًا فَهُمۡ لَهَا مٰلِكُوۡنَ‏
+arabic_ayat: أَوَلَمۡ يَرَوۡاْ أَنَّا خَلَقۡنَا لَهُم مِّمَّا عَمِلَتۡ أَيۡدِينَآ
+  أَنۡعَٰمٗا فَهُمۡ لَهَا مَٰلِكُونَ
 sentence_translation: Do they not see that We singlehandedly created for them, among
   other things, cattle which are under their control?
 word_by_word:
   1:
-    arabic: اَوَلَمۡ
+    arabic: أَوَلَمۡ
     translation: Do not
     transliteration: awalam
   2:
-    arabic: يَرَوۡا
+    arabic: يَرَوۡاْ
     translation: they see
     transliteration: yaraw
   3:
-    arabic: اَنَّا
+    arabic: أَنَّا
     translation: that We
     transliteration: annā
   4:
@@ -21,7 +21,7 @@ word_by_word:
     translation: '[We] created'
     transliteration: khalaqnā
   5:
-    arabic: لَهُمۡ
+    arabic: لَهُم
     translation: for them
     transliteration: lahum
   6:
@@ -33,11 +33,11 @@ word_by_word:
     translation: have made
     transliteration: ʿamilat
   8:
-    arabic: اَيۡدِيۡنَاۤ
+    arabic: أَيۡدِينَآ
     translation: Our hands
     transliteration: aydīnā
   9:
-    arabic: اَنۡعَامًا
+    arabic: أَنۡعَٰمٗا
     translation: cattle
     transliteration: anʿāman
   10:
@@ -49,7 +49,7 @@ word_by_word:
     translation: '[for them]'
     transliteration: lahā
   12:
-    arabic: مٰلِكُوۡنَ‏
+    arabic: مَٰلِكُونَ
     translation: (are the) owners
     transliteration: mālikūna
 ---

@@ -1,16 +1,16 @@
 ---
-arabic_ayat: وَلَٮِٕنۡ سَاَلۡتَهُمۡ مَّنۡ خَلَقَ السَّمٰوٰتِ وَالۡاَرۡضَ لَيَـقُوۡلُنَّ
-  اللّٰهُ​ ؕ قُلِ الۡحَمۡدُ لِلّٰهِ​ ؕ بَلۡ اَكۡثَرُهُمۡ لَا يَعۡلَمُوۡنَ‏
+arabic_ayat: وَلَئِن سَأَلۡتَهُم مَّنۡ خَلَقَ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضَ لَيَقُولُنَّ
+  ٱللَّهُۚ قُلِ ٱلۡحَمۡدُ لِلَّهِۚ بَلۡ أَكۡثَرُهُمۡ لَا يَعۡلَمُونَ
 sentence_translation: And if you ask them who created the heavens and the earth, they
   will definitely say, “Allah!” Say, “Praise be to Allah!” In fact, most of them do
   not know.
 word_by_word:
   1:
-    arabic: وَلَٮِٕنۡ
+    arabic: وَلَئِن
     translation: And if
     transliteration: wala-in
   2:
-    arabic: سَاَلۡتَهُمۡ
+    arabic: سَأَلۡتَهُم
     translation: you ask them
     transliteration: sa-altahum
   3:
@@ -22,19 +22,19 @@ word_by_word:
     translation: created
     transliteration: khalaqa
   5:
-    arabic: السَّمٰوٰتِ
+    arabic: ٱلسَّمَٰوَٰتِ
     translation: the heavens
     transliteration: l-samāwāti
   6:
-    arabic: وَالۡاَرۡضَ
+    arabic: وَٱلۡأَرۡضَ
     translation: and the earth
     transliteration: wal-arḍa
   7:
-    arabic: لَيَـقُوۡلُنَّ
+    arabic: لَيَقُولُنَّ
     translation: They will surely say
     transliteration: layaqūlunna
   8:
-    arabic: اللّٰهُ​ ؕ
+    arabic: ٱللَّهُۚ
     translation: Allah
     transliteration: l-lahu
   9:
@@ -42,11 +42,11 @@ word_by_word:
     translation: Say
     transliteration: quli
   10:
-    arabic: الۡحَمۡدُ
+    arabic: ٱلۡحَمۡدُ
     translation: All praises
     transliteration: l-ḥamdu
   11:
-    arabic: لِلّٰهِ​ ؕ
+    arabic: لِلَّهِۚ
     translation: (are) for Allah
     transliteration: lillahi
   12:
@@ -54,7 +54,7 @@ word_by_word:
     translation: But
     transliteration: bal
   13:
-    arabic: اَكۡثَرُهُمۡ
+    arabic: أَكۡثَرُهُمۡ
     translation: most of them
     transliteration: aktharuhum
   14:
@@ -62,7 +62,7 @@ word_by_word:
     translation: (do) not
     transliteration: lā
   15:
-    arabic: يَعۡلَمُوۡنَ‏
+    arabic: يَعۡلَمُونَ
     translation: know
     transliteration: yaʿlamūna
 ---

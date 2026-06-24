@@ -1,19 +1,18 @@
 ---
-arabic_ayat: "يَسۡتَعۡجِلُوۡنَكَ بِالۡعَذَابِؕ وَ اِنَّ جَهَنَّمَ لَمُحِيۡطَةٌ ۢ بِالۡكٰفِرِيۡنَۙ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: يَسۡتَعۡجِلُونَكَ بِٱلۡعَذَابِ وَإِنَّ جَهَنَّمَ لَمُحِيطَةُۢ بِٱلۡكَٰفِرِينَ
 sentence_translation: They urge you to hasten the punishment. And Hell will certainly
   encompass the disbelievers
 word_by_word:
   1:
-    arabic: يَسۡتَعۡجِلُوۡنَكَ
+    arabic: يَسۡتَعۡجِلُونَكَ
     translation: They ask you to hasten
     transliteration: yastaʿjilūnaka
   2:
-    arabic: بِالۡعَذَابِؕ
+    arabic: بِٱلۡعَذَابِ
     translation: the punishment
     transliteration: bil-ʿadhābi
   3:
-    arabic: وَ اِنَّ
+    arabic: وَإِنَّ
     translation: And indeed
     transliteration: wa-inna
   4:
@@ -21,11 +20,11 @@ word_by_word:
     translation: Hell
     transliteration: jahannama
   5:
-    arabic: لَمُحِيۡطَةٌ ۢ
+    arabic: لَمُحِيطَةُۢ
     translation: will surely, encompass
     transliteration: lamuḥīṭatun
   6:
-    arabic: "بِالۡكٰفِرِيۡنَۙ‏ \uFEFF\uFEFF"
+    arabic: بِٱلۡكَٰفِرِينَ
     translation: the disbelievers
     transliteration: bil-kāfirīna
 ---

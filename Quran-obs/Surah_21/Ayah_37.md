@@ -1,6 +1,5 @@
 ---
-arabic_ayat: "خُلِقَ الۡاِنۡسَانُ مِنۡ عَجَلٍ​ؕ سَاُورِيۡكُمۡ اٰيٰتِىۡ فَلَا تَسۡتَعۡجِلُوۡنِ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: خُلِقَ ٱلۡإِنسَٰنُ مِنۡ عَجَلٖۚ سَأُوْرِيكُمۡ ءَايَٰتِي فَلَا تَسۡتَعۡجِلُونِ
 sentence_translation: Humankind is made of haste. I will soon show you My signs, so
   do not ask Me to hasten them.
 word_by_word:
@@ -9,7 +8,7 @@ word_by_word:
     translation: Is created
     transliteration: khuliqa
   2:
-    arabic: الۡاِنۡسَانُ
+    arabic: ٱلۡإِنسَٰنُ
     translation: the man
     transliteration: l-insānu
   3:
@@ -17,15 +16,15 @@ word_by_word:
     translation: of
     transliteration: min
   4:
-    arabic: عَجَلٍ​ؕ
+    arabic: عَجَلٖۚ
     translation: haste
     transliteration: ʿajalin
   5:
-    arabic: سَاُورِيۡكُمۡ
+    arabic: سَأُوْرِيكُمۡ ءَ
     translation: I will show you
     transliteration: sa-urīkum
   6:
-    arabic: اٰيٰتِىۡ
+    arabic: ايَٰتِي
     translation: My Signs
     transliteration: āyātī
   7:
@@ -33,7 +32,7 @@ word_by_word:
     translation: so (do) not
     transliteration: falā
   8:
-    arabic: "تَسۡتَعۡجِلُوۡنِ‏ \uFEFF\uFEFF"
+    arabic: تَسۡتَعۡجِلُونِ
     translation: ask Me to hasten
     transliteration: tastaʿjilūni
 ---

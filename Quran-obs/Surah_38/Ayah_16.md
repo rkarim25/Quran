@@ -1,10 +1,10 @@
 ---
-arabic_ayat: وَقَالُوۡا رَبَّنَا عَجِّلْ لَّنَا قِطَّنَا قَبۡلَ يَوۡمِ الۡحِسَابِ‏
+arabic_ayat: وَقَالُواْ رَبَّنَا عَجِّل لَّنَا قِطَّنَا قَبۡلَ يَوۡمِ ٱلۡحِسَابِ
 sentence_translation: They say ˹mockingly˺, “Our Lord! Hasten for us our share ˹of
   the punishment˺ before the Day of Reckoning.”
 word_by_word:
   1:
-    arabic: وَقَالُوۡا
+    arabic: وَقَالُواْ
     translation: And they say
     transliteration: waqālū
   2:
@@ -12,7 +12,7 @@ word_by_word:
     translation: Our Lord
     transliteration: rabbanā
   3:
-    arabic: عَجِّلْ
+    arabic: عَجِّل
     translation: Hasten
     transliteration: ʿajjil
   4:
@@ -32,7 +32,7 @@ word_by_word:
     translation: (the) Day
     transliteration: yawmi
   8:
-    arabic: الۡحِسَابِ‏
+    arabic: ٱلۡحِسَابِ
     translation: (of) the Account
     transliteration: l-ḥisābi
 ---

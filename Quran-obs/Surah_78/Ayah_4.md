@@ -1,13 +1,13 @@
 ---
-arabic_ayat: كَلَّا سَيَعۡلَمُوۡنَۙ‏
+arabic_ayat: كـَلَّا سَيَعۡلَمُونَ
 sentence_translation: But no! They will come to know.
 word_by_word:
   1:
-    arabic: كَلَّا
+    arabic: كـَلَّا
     translation: Nay
     transliteration: kallā
   2:
-    arabic: سَيَعۡلَمُوۡنَۙ‏
+    arabic: سَيَعۡلَمُونَ
     translation: (soon) they will know
     transliteration: sayaʿlamūna
 ---

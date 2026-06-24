@@ -1,14 +1,13 @@
 ---
-arabic_ayat: "اِنَّ اللّٰهَ لَا يَخۡفٰى عَلَيۡهِ شَىۡءٌ فِى الۡاَرۡضِ وَلَا فِى السَّمَآءِ ؕ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: إِنَّ ٱللَّهَ لَا يَخۡفَىٰ عَلَيۡهِ شَيۡءٞ فِي ٱلۡأَرۡضِ وَلَا فِي ٱلسَّمَآءِ
 sentence_translation: Surely nothing on earth or in the heavens is hidden from Allah.
 word_by_word:
   1:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   2:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: 'Allah '
     transliteration: l-laha
   3:
@@ -16,7 +15,7 @@ word_by_word:
     translation: not
     transliteration: lā
   4:
-    arabic: يَخۡفٰى
+    arabic: يَخۡفَىٰ
     translation: is hidden
     transliteration: yakhfā
   5:
@@ -24,15 +23,15 @@ word_by_word:
     translation: from Him
     transliteration: ʿalayhi
   6:
-    arabic: شَىۡءٌ
+    arabic: شَيۡءٞ
     translation: anything
     transliteration: shayon
   7:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   8:
-    arabic: الۡاَرۡضِ
+    arabic: ٱلۡأَرۡضِ
     translation: the earth
     transliteration: l-arḍi
   9:
@@ -40,11 +39,11 @@ word_by_word:
     translation: and not
     transliteration: walā
   10:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   11:
-    arabic: "السَّمَآءِ ؕ‏ \uFEFF\uFEFF"
+    arabic: ٱلسَّمَآءِ
     translation: the heaven
     transliteration: l-samāi
 ---

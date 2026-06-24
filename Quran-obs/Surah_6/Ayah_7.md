@@ -1,6 +1,6 @@
 ---
-arabic_ayat: وَلَوۡ نَزَّلۡنَا عَلَيۡكَ كِتٰبًا فِىۡ قِرۡطَاسٍ فَلَمَسُوۡهُ بِاَيۡدِيۡهِمۡ
-  لَقَالَ الَّذِيۡنَ كَفَرُوۡۤا اِنۡ هٰذَاۤ اِلَّا سِحۡرٌ مُّبِيۡنٌ‏
+arabic_ayat: وَلَوۡ نَزَّلۡنَا عَلَيۡكَ كِتَٰبٗا فِي قِرۡطَاسٖ فَلَمَسُوهُ بِأَيۡدِيهِمۡ
+  لَقَالَ ٱلَّذِينَ كَفَرُوٓاْ إِنۡ هَٰذَآ إِلَّا سِحۡرٞ مُّبِينٞ
 sentence_translation: Had We sent down to you ˹O Prophet˺ a revelation in writing
   and they were to touch it with their own hands, the disbelievers would still have
   said, “This is nothing but pure magic!”
@@ -18,23 +18,23 @@ word_by_word:
     translation: to you
     transliteration: ʿalayka
   4:
-    arabic: كِتٰبًا
+    arabic: كِتَٰبٗا
     translation: a written Scripture
     transliteration: kitāban
   5:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   6:
-    arabic: قِرۡطَاسٍ
+    arabic: قِرۡطَاسٖ
     translation: a parchment
     transliteration: qir'ṭāsin
   7:
-    arabic: فَلَمَسُوۡهُ
+    arabic: فَلَمَسُوهُ
     translation: and they touched it
     transliteration: falamasūhu
   8:
-    arabic: بِاَيۡدِيۡهِمۡ
+    arabic: بِأَيۡدِيهِمۡ
     translation: with their hands
     transliteration: bi-aydīhim
   9:
@@ -42,31 +42,31 @@ word_by_word:
     translation: surely (would) have said
     transliteration: laqāla
   10:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   11:
-    arabic: كَفَرُوۡۤا
+    arabic: كَفَرُوٓاْ
     translation: disbelieved
     transliteration: kafarū
   12:
-    arabic: اِنۡ
+    arabic: إِنۡ
     translation: Not
     transliteration: in
   13:
-    arabic: هٰذَاۤ
+    arabic: هَٰذَآ
     translation: (is) this
     transliteration: hādhā
   14:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: but
     transliteration: illā
   15:
-    arabic: سِحۡرٌ
+    arabic: سِحۡرٞ
     translation: magic
     transliteration: siḥ'run
   16:
-    arabic: مُّبِيۡنٌ‏
+    arabic: مُّبِينٞ
     translation: clear
     transliteration: mubīnun
 ---

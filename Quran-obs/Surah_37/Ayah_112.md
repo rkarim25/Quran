@@ -1,18 +1,18 @@
 ---
-arabic_ayat: وَبَشَّرۡنٰهُ بِاِسۡحٰقَ نَبِيًّا مِّنَ الصّٰلِحِيۡنَ‏
+arabic_ayat: وَبَشَّرۡنَٰهُ بِإِسۡحَٰقَ نَبِيّٗا مِّنَ ٱلصَّٰلِحِينَ
 sentence_translation: We ˹later˺ gave him good news of Isaac—a prophet, and one of
   the righteous.
 word_by_word:
   1:
-    arabic: وَبَشَّرۡنٰهُ
+    arabic: وَبَشَّرۡنَٰهُ
     translation: And We gave him glad tidings
     transliteration: wabasharnāhu
   2:
-    arabic: بِاِسۡحٰقَ
+    arabic: بِإِسۡحَٰقَ
     translation: of Isaac
     transliteration: bi-is'ḥāqa
   3:
-    arabic: نَبِيًّا
+    arabic: نَبِيّٗا
     translation: a Prophet
     transliteration: nabiyyan
   4:
@@ -20,7 +20,7 @@ word_by_word:
     translation: among
     transliteration: mina
   5:
-    arabic: الصّٰلِحِيۡنَ‏
+    arabic: ٱلصَّٰلِحِينَ
     translation: the righteous
     transliteration: l-ṣāliḥīna
 ---

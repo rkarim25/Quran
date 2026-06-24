@@ -1,23 +1,23 @@
 ---
-arabic_ayat: فَهَزَمُوۡهُمۡ بِاِذۡنِ اللّٰهِ ۙ وَقَتَلَ دَاوٗدُ جَالُوۡتَ وَاٰتٰٮهُ
-  اللّٰهُ الۡمُلۡكَ وَالۡحِکۡمَةَ وَعَلَّمَهٗ مِمَّا يَشَآءُ ​ؕ وَلَوۡلَا دَفۡعُ
-  اللّٰهِ النَّاسَ بَعۡضَهُمۡ بِبَعۡضٍ لَّفَسَدَتِ الۡاَرۡضُ وَلٰـکِنَّ اللّٰهَ ذُوۡ
-  فَضۡلٍ عَلَى الۡعٰلَمِيۡنَ‏
+arabic_ayat: فَهَزَمُوهُم بِإِذۡنِ ٱللَّهِ وَقَتَلَ دَاوُۥدُ جَالُوتَ وَءَاتَىٰهُ
+  ٱللَّهُ ٱلۡمُلۡكَ وَٱلۡحِكۡمَةَ وَعَلَّمَهُۥ مِمَّا يَشَآءُۗ وَلَوۡلَا دَفۡعُ ٱللَّهِ
+  ٱلنَّاسَ بَعۡضَهُم بِبَعۡضٖ لَّفَسَدَتِ ٱلۡأَرۡضُ وَلَٰكِنَّ ٱللَّهَ ذُو فَضۡلٍ
+  عَلَى ٱلۡعَٰلَمِينَ
 sentence_translation: So they defeated them by Allah’s Will, and David killed Goliath.
   And Allah blessed David with kingship and wisdom and taught him what He willed.
   Had Allah not repelled a group of people by ˹the might of˺ another, corruption would
   have dominated the earth, but Allah is Gracious to all.
 word_by_word:
   1:
-    arabic: فَهَزَمُوۡهُمۡ
+    arabic: فَهَزَمُوهُم
     translation: So they defeated them
     transliteration: fahazamūhum
   2:
-    arabic: بِاِذۡنِ
+    arabic: بِإِذۡنِ
     translation: by (the) permission
     transliteration: bi-idh'ni
   3:
-    arabic: اللّٰهِ ۙ
+    arabic: ٱللَّهِ
     translation: (of) Allah
     transliteration: l-lahi
   4:
@@ -25,31 +25,31 @@ word_by_word:
     translation: and killed
     transliteration: waqatala
   5:
-    arabic: دَاوٗدُ
+    arabic: دَاوُۥدُ
     translation: Dawood
     transliteration: dāwūdu
   6:
-    arabic: جَالُوۡتَ
+    arabic: جَالُوتَ
     translation: Jalut
     transliteration: jālūta
   7:
-    arabic: وَاٰتٰٮهُ
+    arabic: وَءَاتَىٰهُ
     translation: and gave him
     transliteration: waātāhu
   8:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   9:
-    arabic: الۡمُلۡكَ
+    arabic: ٱلۡمُلۡكَ
     translation: the kingdom
     transliteration: l-mul'ka
   10:
-    arabic: وَالۡحِکۡمَةَ
+    arabic: وَٱلۡحِكۡمَةَ
     translation: and the wisdom
     transliteration: wal-ḥik'mata
   11:
-    arabic: وَعَلَّمَهٗ
+    arabic: وَعَلَّمَهُۥ
     translation: and taught him
     transliteration: waʿallamahu
   12:
@@ -57,7 +57,7 @@ word_by_word:
     translation: that which
     transliteration: mimmā
   13:
-    arabic: يَشَآءُ ​ؕ
+    arabic: يَشَآءُۗ
     translation: He willed
     transliteration: yashāu
   14:
@@ -69,19 +69,19 @@ word_by_word:
     translation: (for the) repelling
     transliteration: dafʿu
   16:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (by) Allah
     transliteration: l-lahi
   17:
-    arabic: النَّاسَ
+    arabic: ٱلنَّاسَ
     translation: '[the] people '
     transliteration: l-nāsa
   18:
-    arabic: بَعۡضَهُمۡ
+    arabic: بَعۡضَهُم
     translation: some of them
     transliteration: baʿḍahum
   19:
-    arabic: بِبَعۡضٍ
+    arabic: بِبَعۡضٖ
     translation: with others
     transliteration: bibaʿḍin
   20:
@@ -89,19 +89,19 @@ word_by_word:
     translation: certainly (would have) corrupted
     transliteration: lafasadati
   21:
-    arabic: الۡاَرۡضُ
+    arabic: ٱلۡأَرۡضُ
     translation: the Earth
     transliteration: l-arḍu
   22:
-    arabic: وَلٰـکِنَّ
+    arabic: وَلَٰكِنَّ
     translation: '[and] but'
     transliteration: walākinna
   23:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   24:
-    arabic: ذُوۡ
+    arabic: ذُو
     translation: (is) Possessor
     transliteration: dhū
   25:
@@ -113,7 +113,7 @@ word_by_word:
     translation: to
     transliteration: ʿalā
   27:
-    arabic: الۡعٰلَمِيۡنَ‏
+    arabic: ٱلۡعَٰلَمِينَ
     translation: the worlds
     transliteration: l-ʿālamīna
 ---

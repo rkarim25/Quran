@@ -1,27 +1,26 @@
 ---
-arabic_ayat: "فَاَنۡجَيۡنٰهُ وَ اَهۡلَهٗۤ اِلَّا امۡرَاَتَهٗ قَدَّرۡنٰهَا مِنَ الۡغٰبِرِيۡنَ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: فَأَنجَيۡنَٰهُ وَأَهۡلَهُۥٓ إِلَّا ٱمۡرَأَتَهُۥ قَدَّرۡنَٰهَا مِنَ ٱلۡغَٰبِرِينَ
 sentence_translation: So We delivered him and his family, except his wife. We had
   destined her to be one of the doomed.
 word_by_word:
   1:
-    arabic: فَاَنۡجَيۡنٰهُ
+    arabic: فَأَنجَيۡنَٰهُ
     translation: So We saved him
     transliteration: fa-anjaynāhu
   2:
-    arabic: وَ اَهۡلَهٗۤ
+    arabic: وَأَهۡلَهُۥٓ
     translation: and his family
     transliteration: wa-ahlahu
   3:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   4:
-    arabic: امۡرَاَتَهٗ
+    arabic: ٱمۡرَأَتَهُۥ
     translation: his wife
     transliteration: im'ra-atahu
   5:
-    arabic: قَدَّرۡنٰهَا
+    arabic: قَدَّرۡنَٰهَا
     translation: We destined her
     transliteration: qaddarnāhā
   6:
@@ -29,7 +28,7 @@ word_by_word:
     translation: (to be) of
     transliteration: mina
   7:
-    arabic: "الۡغٰبِرِيۡنَ‏ \uFEFF\uFEFF"
+    arabic: ٱلۡغَٰبِرِينَ
     translation: those who remained behind
     transliteration: l-ghābirīna
 ---

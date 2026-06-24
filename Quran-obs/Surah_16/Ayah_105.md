@@ -1,23 +1,23 @@
 ---
-arabic_ayat: اِنَّمَا يَفۡتَرِى الۡـكَذِبَ الَّذِيۡنَ لَا يُؤۡمِنُوۡنَ بِاٰيٰتِ اللّٰهِ​ۚ
-  وَاُولٰۤٮِٕكَ هُمُ الۡكٰذِبُوۡنَ‏
+arabic_ayat: إِنَّمَا يَفۡتَرِي ٱلۡكَذِبَ ٱلَّذِينَ لَا يُؤۡمِنُونَ بِـَٔايَٰتِ ٱللَّهِۖ
+  وَأُوْلَٰٓئِكَ هُمُ ٱلۡكَٰذِبُونَ
 sentence_translation: No one fabricates lies except those who disbelieve in Allah’s
   revelations, and it is they who are the ˹true˺ liars.
 word_by_word:
   1:
-    arabic: اِنَّمَا
+    arabic: إِنَّمَا
     translation: Only
     transliteration: innamā
   2:
-    arabic: يَفۡتَرِى
+    arabic: يَفۡتَرِي
     translation: they invent
     transliteration: yaftarī
   3:
-    arabic: الۡـكَذِبَ
+    arabic: ٱلۡكَذِبَ
     translation: the falsehood
     transliteration: l-kadhiba
   4:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   5:
@@ -25,19 +25,19 @@ word_by_word:
     translation: (do) not
     transliteration: lā
   6:
-    arabic: يُؤۡمِنُوۡنَ
+    arabic: يُؤۡمِنُونَ
     translation: believe
     transliteration: yu'minūna
   7:
-    arabic: بِاٰيٰتِ
+    arabic: بِـَٔايَٰتِ
     translation: in the Verses
     transliteration: biāyāti
   8:
-    arabic: اللّٰهِ​ۚ
+    arabic: ٱللَّهِۖ
     translation: (of) Allah
     transliteration: l-lahi
   9:
-    arabic: وَاُولٰۤٮِٕكَ
+    arabic: وَأُوْلَٰٓئِكَ
     translation: 'and those '
     transliteration: wa-ulāika
   10:
@@ -45,7 +45,7 @@ word_by_word:
     translation: they
     transliteration: humu
   11:
-    arabic: الۡكٰذِبُوۡنَ‏
+    arabic: ٱلۡكَٰذِبُونَ
     translation: (are) the liars
     transliteration: l-kādhibūna
 ---

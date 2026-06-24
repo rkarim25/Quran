@@ -1,18 +1,18 @@
 ---
-arabic_ayat: وَكَذَّبُوۡا وَاتَّبَعُوۡۤا اَهۡوَآءَهُمۡ​ وَكُلُّ اَمۡرٍ مُّسۡتَقِرٌّ‏
+arabic_ayat: وَكَذَّبُواْ وَٱتَّبَعُوٓاْ أَهۡوَآءَهُمۡۚ وَكُلُّ أَمۡرٖ مُّسۡتَقِرّٞ
 sentence_translation: They rejected ˹the truth˺ and followed their own desires—and
   every matter will be settled—
 word_by_word:
   1:
-    arabic: وَكَذَّبُوۡا
+    arabic: وَكَذَّبُواْ
     translation: And they denied
     transliteration: wakadhabū
   2:
-    arabic: وَاتَّبَعُوۡۤا
+    arabic: وَٱتَّبَعُوٓاْ
     translation: and followed
     transliteration: wa-ittabaʿū
   3:
-    arabic: اَهۡوَآءَهُمۡ​
+    arabic: أَهۡوَآءَهُمۡۚ
     translation: their desires
     transliteration: ahwāahum
   4:
@@ -20,11 +20,11 @@ word_by_word:
     translation: but (for) every
     transliteration: wakullu
   5:
-    arabic: اَمۡرٍ
+    arabic: أَمۡرٖ
     translation: matter
     transliteration: amrin
   6:
-    arabic: مُّسۡتَقِرٌّ‏
+    arabic: مُّسۡتَقِرّٞ
     translation: (will be a) settlement
     transliteration: mus'taqirrun
 ---

@@ -1,40 +1,40 @@
 ---
-arabic_ayat: اِنَّمَاۤ اِلٰهُكُمُ اللّٰهُ الَّذِىۡ لَاۤ اِلٰـهَ اِلَّا هُوَ​ؕ وَسِعَ
-  كُلَّ شَىۡءٍ عِلۡمًا‏
+arabic_ayat: إِنَّمَآ إِلَٰهُكُمُ ٱللَّهُ ٱلَّذِي لَآ إِلَٰهَ إِلَّا هُوَۚ وَسِعَ
+  كُلَّ شَيۡءٍ عِلۡمٗا
 sentence_translation: ˹Then Moses addressed his people,˺ “Your only god is Allah,
   there is no god ˹worthy of worship˺ except Him. He encompasses everything in ˹His˺
   knowledge.”
 word_by_word:
   1:
-    arabic: اِنَّمَاۤ
+    arabic: إِنَّمَآ
     translation: Only
     transliteration: innamā
   2:
-    arabic: اِلٰهُكُمُ
+    arabic: إِلَٰهُكُمُ
     translation: your God
     transliteration: ilāhukumu
   3:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: (is) Allah
     transliteration: l-lahu
   4:
-    arabic: الَّذِىۡ
+    arabic: ٱلَّذِي
     translation: the One
     transliteration: alladhī
   5:
-    arabic: لَاۤ
+    arabic: لَآ
     translation: (there is) no
     transliteration: lā
   6:
-    arabic: اِلٰـهَ
+    arabic: إِلَٰهَ
     translation: god
     transliteration: ilāha
   7:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: but
     transliteration: illā
   8:
-    arabic: هُوَ​ؕ
+    arabic: هُوَۚ
     translation: He
     transliteration: huwa
   9:
@@ -46,11 +46,11 @@ word_by_word:
     translation: all
     transliteration: kulla
   11:
-    arabic: شَىۡءٍ
+    arabic: شَيۡءٍ
     translation: things
     transliteration: shayin
   12:
-    arabic: عِلۡمًا‏
+    arabic: عِلۡمٗا
     translation: (in) knowledge
     transliteration: ʿil'man
 ---

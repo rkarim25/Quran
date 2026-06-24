@@ -1,15 +1,15 @@
 ---
-arabic_ayat: اِلَّا مَنۡ تَابَ وَاٰمَنَ وَعَمِلَ صَالِحًـا فَاُولٰٓٮِٕكَ يَدۡخُلُوۡنَ
-  الۡجَـنَّةَ وَلَا يُظۡلَمُوۡنَ شَيۡــًٔـا ۙ‏
+arabic_ayat: إِلَّا مَن تَابَ وَءَامَنَ وَعَمِلَ صَٰلِحٗا فَأُوْلَٰٓئِكَ يَدۡخُلُونَ
+  ٱلۡجَنَّةَ وَلَا يُظۡلَمُونَ شَيۡـٔٗا
 sentence_translation: As for those who repent, believe, and do good, it is they who
   will be admitted into Paradise, never being denied any reward.
 word_by_word:
   1:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: Except
     transliteration: illā
   2:
-    arabic: مَنۡ
+    arabic: مَن
     translation: (one) who
     transliteration: man
   3:
@@ -17,7 +17,7 @@ word_by_word:
     translation: repented
     transliteration: tāba
   4:
-    arabic: وَاٰمَنَ
+    arabic: وَءَامَنَ
     translation: and believed
     transliteration: waāmana
   5:
@@ -25,19 +25,19 @@ word_by_word:
     translation: and did
     transliteration: waʿamila
   6:
-    arabic: صَالِحًـا
+    arabic: صَٰلِحٗا
     translation: good (deeds)
     transliteration: ṣāliḥan
   7:
-    arabic: فَاُولٰٓٮِٕكَ
+    arabic: فَأُوْلَٰٓئِكَ
     translation: Then those
     transliteration: fa-ulāika
   8:
-    arabic: يَدۡخُلُوۡنَ
+    arabic: يَدۡخُلُونَ
     translation: will enter
     transliteration: yadkhulūna
   9:
-    arabic: الۡجَـنَّةَ
+    arabic: ٱلۡجَنَّةَ
     translation: Paradise
     transliteration: l-janata
   10:
@@ -45,11 +45,11 @@ word_by_word:
     translation: and not
     transliteration: walā
   11:
-    arabic: يُظۡلَمُوۡنَ
+    arabic: يُظۡلَمُونَ
     translation: they will be wronged
     transliteration: yuẓ'lamūna
   12:
-    arabic: شَيۡــًٔـا ۙ‏
+    arabic: شَيۡـٔٗا
     translation: (in) anything
     transliteration: shayan
 ---

@@ -1,8 +1,8 @@
 ---
-arabic_ayat: ​قُل لَّاۤ اَجِدُ فِىۡ مَاۤ اُوۡحِىَ اِلَىَّ مُحَرَّمًا عَلٰى طَاعِمٍ
-  يَّطۡعَمُهٗۤ اِلَّاۤ اَنۡ يَّكُوۡنَ مَيۡتَةً اَوۡ دَمًا مَّسۡفُوۡحًا اَوۡ لَحۡمَ
-  خِنۡزِيۡرٍ فَاِنَّهٗ رِجۡسٌ اَوۡ فِسۡقًا اُهِلَّ لِغَيۡرِ اللّٰهِ بِهٖ​​ۚ فَمَنِ
-  اضۡطُرَّ غَيۡرَ بَاغٍ وَّلَا عَادٍ فَاِنَّ رَبَّكَ غَفُوۡرٌ رَّحِيۡمٌ‏
+arabic_ayat: قُل لَّآ أَجِدُ فِي مَآ أُوحِيَ إِلَيَّ مُحَرَّمًا عَلَىٰ طَاعِمٖ يَطۡعَمُهُۥٓ
+  إِلَّآ أَن يَكُونَ مَيۡتَةً أَوۡ دَمٗا مَّسۡفُوحًا أَوۡ لَحۡمَ خِنزِيرٖ فَإِنَّهُۥ
+  رِجۡسٌ أَوۡ فِسۡقًا أُهِلَّ لِغَيۡرِ ٱللَّهِ بِهِۦۚ فَمَنِ ٱضۡطُرَّ غَيۡرَ بَاغٖ
+  وَلَا عَادٖ فَإِنَّ رَبَّكَ غَفُورٞ رَّحِيمٞ
 sentence_translation: Say, ˹O Prophet,˺ “I do not find in what has been revealed to
   me anything forbidden to eat except carrion, running blood, swine—which is impure—or
   a sinful offering in the name of any other than Allah. But if someone is compelled
@@ -10,31 +10,31 @@ sentence_translation: Say, ˹O Prophet,˺ “I do not find in what has been reve
   Lord is All-Forgiving, Most Merciful.”
 word_by_word:
   1:
-    arabic: ​قُل
+    arabic: قُل
     translation: Say
     transliteration: qul
   2:
-    arabic: لَّاۤ
+    arabic: لَّآ
     translation: Not
     transliteration: lā
   3:
-    arabic: اَجِدُ
+    arabic: أَجِدُ
     translation: (do) I find
     transliteration: ajidu
   4:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   5:
-    arabic: مَاۤ
+    arabic: مَآ
     translation: what
     transliteration: mā
   6:
-    arabic: اُوۡحِىَ
+    arabic: أُوحِيَ
     translation: has been revealed
     transliteration: ūḥiya
   7:
-    arabic: اِلَىَّ
+    arabic: إِلَيَّ
     translation: to me
     transliteration: ilayya
   8:
@@ -42,27 +42,27 @@ word_by_word:
     translation: (anything) forbidden
     transliteration: muḥarraman
   9:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: to
     transliteration: ʿalā
   10:
-    arabic: طَاعِمٍ
+    arabic: طَاعِمٖ
     translation: an eater
     transliteration: ṭāʿimin
   11:
-    arabic: يَّطۡعَمُهٗۤ
+    arabic: يَطۡعَمُهُۥٓ
     translation: who eats it
     transliteration: yaṭʿamuhu
   12:
-    arabic: اِلَّاۤ
+    arabic: إِلَّآ
     translation: except
     transliteration: illā
   13:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that
     transliteration: an
   14:
-    arabic: يَّكُوۡنَ
+    arabic: يَكُونَ
     translation: it be
     transliteration: yakūna
   15:
@@ -70,19 +70,19 @@ word_by_word:
     translation: dead
     transliteration: maytatan
   16:
-    arabic: اَوۡ
+    arabic: أَوۡ
     translation: or
     transliteration: aw
   17:
-    arabic: دَمًا
+    arabic: دَمٗا
     translation: blood
     transliteration: daman
   18:
-    arabic: مَّسۡفُوۡحًا
+    arabic: مَّسۡفُوحًا
     translation: poured forth
     transliteration: masfūḥan
   19:
-    arabic: اَوۡ
+    arabic: أَوۡ
     translation: or
     transliteration: aw
   20:
@@ -90,11 +90,11 @@ word_by_word:
     translation: (the) flesh
     transliteration: laḥma
   21:
-    arabic: خِنۡزِيۡرٍ
+    arabic: خِنزِيرٖ
     translation: '(of) swine '
     transliteration: khinzīrin
   22:
-    arabic: فَاِنَّهٗ
+    arabic: فَإِنَّهُۥ
     translation: for indeed, it
     transliteration: fa-innahu
   23:
@@ -102,7 +102,7 @@ word_by_word:
     translation: '(is) filth '
     transliteration: rij'sun
   24:
-    arabic: اَوۡ
+    arabic: أَوۡ
     translation: or
     transliteration: aw
   25:
@@ -110,7 +110,7 @@ word_by_word:
     translation: (it be) disobedience
     transliteration: fis'qan
   26:
-    arabic: اُهِلَّ
+    arabic: أُهِلَّ
     translation: '[is] dedicated'
     transliteration: uhilla
   27:
@@ -118,11 +118,11 @@ word_by_word:
     translation: to other than
     transliteration: lighayri
   28:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   29:
-    arabic: بِهٖ​​ۚ
+    arabic: بِهِۦۚ
     translation: '[on it]'
     transliteration: bihi
   30:
@@ -130,7 +130,7 @@ word_by_word:
     translation: But whoever
     transliteration: famani
   31:
-    arabic: اضۡطُرَّ
+    arabic: ٱضۡطُرَّ
     translation: (is) compelled
     transliteration: uḍ'ṭurra
   32:
@@ -138,19 +138,19 @@ word_by_word:
     translation: not
     transliteration: ghayra
   33:
-    arabic: بَاغٍ
+    arabic: بَاغٖ
     translation: desiring
     transliteration: bāghin
   34:
-    arabic: وَّلَا
+    arabic: وَلَا
     translation: and not
     transliteration: walā
   35:
-    arabic: عَادٍ
+    arabic: عَادٖ
     translation: transgressing
     transliteration: ʿādin
   36:
-    arabic: فَاِنَّ
+    arabic: فَإِنَّ
     translation: then indeed
     transliteration: fa-inna
   37:
@@ -158,11 +158,11 @@ word_by_word:
     translation: your Lord
     transliteration: rabbaka
   38:
-    arabic: غَفُوۡرٌ
+    arabic: غَفُورٞ
     translation: (is) Oft-Forgiving
     transliteration: ghafūrun
   39:
-    arabic: رَّحِيۡمٌ‏
+    arabic: رَّحِيمٞ
     translation: Most Merciful
     transliteration: raḥīmun
 ---

@@ -1,11 +1,11 @@
 ---
-arabic_ayat: لَهُمۡ دَارُ السَّلٰمِ عِنۡدَ رَبِّهِمۡ​ وَهُوَ وَلِيُّهُمۡ بِمَا كَانُوۡا
-  يَعۡمَلُوۡنَ‏
+arabic_ayat: ۞ لَهُمۡ دَارُ ٱلسَّلَٰمِ عِندَ رَبِّهِمۡۖ وَهُوَ وَلِيُّهُم بِمَا كَانُواْ
+  يَعۡمَلُونَ
 sentence_translation: They will have the Home of Peace with their Lord, Who will be
   their Guardian because of what they used to do.
 word_by_word:
   1:
-    arabic: ۞ لَهُمۡ
+    arabic: ۞ لَهُمۡ
     translation: For them
     transliteration: lahum
   2:
@@ -13,15 +13,15 @@ word_by_word:
     translation: (will be) home
     transliteration: dāru
   3:
-    arabic: السَّلٰمِ
+    arabic: ٱلسَّلَٰمِ
     translation: (of) [the] peace
     transliteration: l-salāmi
   4:
-    arabic: عِنۡدَ
+    arabic: عِندَ
     translation: with
     transliteration: ʿinda
   5:
-    arabic: رَبِّهِمۡ​
+    arabic: رَبِّهِمۡۖ
     translation: their Lord
     transliteration: rabbihim
   6:
@@ -29,7 +29,7 @@ word_by_word:
     translation: And He
     transliteration: wahuwa
   7:
-    arabic: وَلِيُّهُمۡ
+    arabic: وَلِيُّهُم
     translation: (will be) their protecting friend
     transliteration: waliyyuhum
   8:
@@ -37,11 +37,11 @@ word_by_word:
     translation: because
     transliteration: bimā
   9:
-    arabic: كَانُوۡا
+    arabic: كَانُواْ
     translation: (of what) they used to
     transliteration: kānū
   10:
-    arabic: يَعۡمَلُوۡنَ‏
+    arabic: يَعۡمَلُونَ
     translation: do
     transliteration: yaʿmalūna
 ---

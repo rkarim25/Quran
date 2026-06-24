@@ -1,13 +1,13 @@
 ---
-arabic_ayat: وَ اَوۡفُوۡا بِعَهۡدِ اللّٰهِ اِذَا عَاهَدتُّمۡ وَلَا تَنۡقُضُوا الۡاَيۡمَانَ
-  بَعۡدَ تَوۡكِيۡدِهَا وَقَدۡ جَعَلۡتُمُ اللّٰهَ عَلَيۡكُمۡ كَفِيۡلًا​ ؕ اِنَّ اللّٰهَ
-  يَعۡلَمُ مَا تَفۡعَلُوۡنَ‏
+arabic_ayat: وَأَوۡفُواْ بِعَهۡدِ ٱللَّهِ إِذَا عَٰهَدتُّمۡ وَلَا تَنقُضُواْ ٱلۡأَيۡمَٰنَ
+  بَعۡدَ تَوۡكِيدِهَا وَقَدۡ جَعَلۡتُمُ ٱللَّهَ عَلَيۡكُمۡ كَفِيلًاۚ إِنَّ ٱللَّهَ
+  يَعۡلَمُ مَا تَفۡعَلُونَ
 sentence_translation: Honour Allah’s covenant when you make a pledge, and do not break
   your oaths after confirming them, having made Allah your guarantor. Surely Allah
   knows all you do.
 word_by_word:
   1:
-    arabic: وَ اَوۡفُوۡا
+    arabic: وَأَوۡفُواْ
     translation: And fulfil
     transliteration: wa-awfū
   2:
@@ -15,15 +15,15 @@ word_by_word:
     translation: the covenant
     transliteration: biʿahdi
   3:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (of) Allah
     transliteration: l-lahi
   4:
-    arabic: اِذَا
+    arabic: إِذَا
     translation: when
     transliteration: idhā
   5:
-    arabic: عَاهَدتُّمۡ
+    arabic: عَٰهَدتُّمۡ
     translation: you have taken a covenant
     transliteration: ʿāhadttum
   6:
@@ -31,11 +31,11 @@ word_by_word:
     translation: and (do) not
     transliteration: walā
   7:
-    arabic: تَنۡقُضُوا
+    arabic: تَنقُضُواْ
     translation: break
     transliteration: tanquḍū
   8:
-    arabic: الۡاَيۡمَانَ
+    arabic: ٱلۡأَيۡمَٰنَ
     translation: oaths
     transliteration: l-aymāna
   9:
@@ -43,7 +43,7 @@ word_by_word:
     translation: after
     transliteration: baʿda
   10:
-    arabic: تَوۡكِيۡدِهَا
+    arabic: تَوۡكِيدِهَا
     translation: their confirmation
     transliteration: tawkīdihā
   11:
@@ -55,7 +55,7 @@ word_by_word:
     translation: you have made
     transliteration: jaʿaltumu
   13:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   14:
@@ -63,15 +63,15 @@ word_by_word:
     translation: over you
     transliteration: ʿalaykum
   15:
-    arabic: كَفِيۡلًا​ ؕ
+    arabic: كَفِيلًاۚ
     translation: a surety
     transliteration: kafīlan
   16:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   17:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   18:
@@ -83,7 +83,7 @@ word_by_word:
     translation: what
     transliteration: mā
   20:
-    arabic: تَفۡعَلُوۡنَ‏
+    arabic: تَفۡعَلُونَ
     translation: you do
     transliteration: tafʿalūna
 ---

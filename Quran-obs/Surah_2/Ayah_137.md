@@ -1,17 +1,17 @@
 ---
-arabic_ayat: فَاِنۡ اٰمَنُوۡا بِمِثۡلِ مَآ اٰمَنۡتُمۡ بِهٖ فَقَدِ اهۡتَدَوْا ​ۚ وَاِنۡ
-  تَوَلَّوۡا فَاِنَّمَا هُمۡ فِىۡ شِقَاقٍ​ ۚ فَسَيَكۡفِيۡکَهُمُ اللّٰهُ ​ۚ وَهُوَ
-  السَّمِيۡعُ الۡعَلِيۡمُؕ‏
+arabic_ayat: فَإِنۡ ءَامَنُواْ بِمِثۡلِ مَآ ءَامَنتُم بِهِۦ فَقَدِ ٱهۡتَدَواْۖ وَّإِن
+  تَوَلَّوۡاْ فَإِنَّمَا هُمۡ فِي شِقَاقٖۖ فَسَيَكۡفِيكَهُمُ ٱللَّهُۚ وَهُوَ ٱلسَّمِيعُ
+  ٱلۡعَلِيمُ
 sentence_translation: So if they believe in what you believe, then they will indeed
   be ˹rightly˺ guided. But if they turn away, they are simply opposed ˹to the truth˺.
   But Allah will spare you their evil. For He is the All-Hearing, All-Knowing.
 word_by_word:
   1:
-    arabic: فَاِنۡ
+    arabic: فَإِنۡ ءَ
     translation: So if
     transliteration: fa-in
   2:
-    arabic: اٰمَنُوۡا
+    arabic: امَنُواْ
     translation: they believe[d]
     transliteration: āmanū
   3:
@@ -19,15 +19,15 @@ word_by_word:
     translation: in (the) like
     transliteration: bimith'li
   4:
-    arabic: مَآ
+    arabic: مَآ ءَ
     translation: (of) what
     transliteration: mā
   5:
-    arabic: اٰمَنۡتُمۡ
+    arabic: امَنتُم
     translation: you have believed
     transliteration: āmantum
   6:
-    arabic: بِهٖ
+    arabic: بِهِۦ
     translation: in [it]
     transliteration: bihi
   7:
@@ -35,19 +35,19 @@ word_by_word:
     translation: then indeed
     transliteration: faqadi
   8:
-    arabic: اهۡتَدَوْا ​ۚ
+    arabic: ٱهۡتَدَواْۖ
     translation: they are (rightly) guided
     transliteration: ih'tadaw
   9:
-    arabic: وَاِنۡ
+    arabic: وَّإِن
     translation: But if
     transliteration: wa-in
   10:
-    arabic: تَوَلَّوۡا
+    arabic: تَوَلَّوۡاْ
     translation: they turn away
     transliteration: tawallaw
   11:
-    arabic: فَاِنَّمَا
+    arabic: فَإِنَّمَا
     translation: then only
     transliteration: fa-innamā
   12:
@@ -55,19 +55,19 @@ word_by_word:
     translation: they
     transliteration: hum
   13:
-    arabic: فِىۡ
+    arabic: فِي
     translation: (are) in
     transliteration: fī
   14:
-    arabic: شِقَاقٍ​ ۚ
+    arabic: شِقَاقٖۖ
     translation: dissension
     transliteration: shiqāqin
   15:
-    arabic: فَسَيَكۡفِيۡکَهُمُ
+    arabic: فَسَيَكۡفِيكَهُمُ
     translation: So will suffice you against them
     transliteration: fasayakfīkahumu
   16:
-    arabic: اللّٰهُ ​ۚ
+    arabic: ٱللَّهُۚ
     translation: Allah
     transliteration: l-lahu
   17:
@@ -75,11 +75,11 @@ word_by_word:
     translation: and He
     transliteration: wahuwa
   18:
-    arabic: السَّمِيۡعُ
+    arabic: ٱلسَّمِيعُ
     translation: (is) the All-Hearing
     transliteration: l-samīʿu
   19:
-    arabic: الۡعَلِيۡمُؕ‏
+    arabic: ٱلۡعَلِيمُ
     translation: the All-Knowing
     transliteration: l-ʿalīmu
 ---

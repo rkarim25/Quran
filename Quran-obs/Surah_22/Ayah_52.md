@@ -1,23 +1,22 @@
 ---
-arabic_ayat: وَمَاۤ اَرۡسَلۡنَا مِنۡ قَبۡلِكَ مِنۡ رَّسُوۡلٍ وَّلَا نَبِىٍّ اِلَّاۤ
-  اِذَا تَمَنّٰٓى اَلۡقَى الشَّيۡطٰنُ فِىۡۤ اُمۡنِيَّتِهٖ ​ۚ فَيَنۡسَخُ اللّٰهُ مَا
-  يُلۡقِى الشَّيۡطٰنُ ثُمَّ يُحۡكِمُ اللّٰهُ اٰيٰتِهٖ​ ؕ وَاللّٰهُ عَلِيۡمٌ حَكِيۡمٌ
-  ۙ‏
+arabic_ayat: وَمَآ أَرۡسَلۡنَا مِن قَبۡلِكَ مِن رَّسُولٖ وَلَا نَبِيٍّ إِلَّآ إِذَا
+  تَمَنَّىٰٓ أَلۡقَى ٱلشَّيۡطَٰنُ فِيٓ أُمۡنِيَّتِهِۦ فَيَنسَخُ ٱللَّهُ مَا يُلۡقِي
+  ٱلشَّيۡطَٰنُ ثُمَّ يُحۡكِمُ ٱللَّهُ ءَايَٰتِهِۦۗ وَٱللَّهُ عَلِيمٌ حَكِيمٞ
 sentence_translation: Whenever We sent a messenger or a prophet before you ˹O Prophet˺
   and he recited ˹Our revelations˺, Satan would influence ˹people’s understanding
   of˺ his recitation. But ˹eventually˺ Allah would eliminate Satan’s influence. Then
   Allah would ˹firmly˺ establish His revelations. And Allah is All-Knowing, All-Wise.
 word_by_word:
   1:
-    arabic: وَمَاۤ
+    arabic: وَمَآ
     translation: And not
     transliteration: wamā
   2:
-    arabic: اَرۡسَلۡنَا
+    arabic: أَرۡسَلۡنَا
     translation: We sent
     transliteration: arsalnā
   3:
-    arabic: مِنۡ
+    arabic: مِن
     translation: before you
     transliteration: min
   4:
@@ -25,55 +24,55 @@ word_by_word:
     translation: before you
     transliteration: qablika
   5:
-    arabic: مِنۡ
+    arabic: مِن
     translation: any
     transliteration: min
   6:
-    arabic: رَّسُوۡلٍ
+    arabic: رَّسُولٖ
     translation: Messenger
     transliteration: rasūlin
   7:
-    arabic: وَّلَا
+    arabic: وَلَا
     translation: and not
     transliteration: walā
   8:
-    arabic: نَبِىٍّ
+    arabic: نَبِيٍّ
     translation: a Prophet
     transliteration: nabiyyin
   9:
-    arabic: اِلَّاۤ
+    arabic: إِلَّآ
     translation: but
     transliteration: illā
   10:
-    arabic: اِذَا
+    arabic: إِذَا
     translation: when
     transliteration: idhā
   11:
-    arabic: تَمَنّٰٓى
+    arabic: تَمَنَّىٰٓ
     translation: he recited
     transliteration: tamannā
   12:
-    arabic: اَلۡقَى
+    arabic: أَلۡقَى
     translation: threw
     transliteration: alqā
   13:
-    arabic: الشَّيۡطٰنُ
+    arabic: ٱلشَّيۡطَٰنُ
     translation: the Shaitaan
     transliteration: l-shayṭānu
   14:
-    arabic: فِىۡۤ
+    arabic: فِيٓ
     translation: in
     transliteration: fī
   15:
-    arabic: اُمۡنِيَّتِهٖ ​ۚ
+    arabic: أُمۡنِيَّتِهِۦ
     translation: his recitation
     transliteration: um'niyyatihi
   16:
-    arabic: فَيَنۡسَخُ
+    arabic: فَيَنسَخُ
     translation: But Allah abolishes
     transliteration: fayansakhu
   17:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: But Allah abolishes
     transliteration: l-lahu
   18:
@@ -81,11 +80,11 @@ word_by_word:
     translation: what
     transliteration: mā
   19:
-    arabic: يُلۡقِى
+    arabic: يُلۡقِي
     translation: throws
     transliteration: yul'qī
   20:
-    arabic: الشَّيۡطٰنُ
+    arabic: ٱلشَّيۡطَٰنُ
     translation: the Shaitaan
     transliteration: l-shayṭānu
   21:
@@ -97,23 +96,23 @@ word_by_word:
     translation: Allah will establish
     transliteration: yuḥ'kimu
   23:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ ءَ
     translation: Allah will establish
     transliteration: l-lahu
   24:
-    arabic: اٰيٰتِهٖ​ ؕ
+    arabic: ايَٰتِهِۦۗ
     translation: His Verses
     transliteration: āyātihi
   25:
-    arabic: وَاللّٰهُ
+    arabic: وَٱللَّهُ
     translation: And Allah
     transliteration: wal-lahu
   26:
-    arabic: عَلِيۡمٌ
+    arabic: عَلِيمٌ
     translation: (is) All-Knower
     transliteration: ʿalīmun
   27:
-    arabic: حَكِيۡمٌ ۙ‏
+    arabic: حَكِيمٞ
     translation: All-Wise
     transliteration: ḥakīmun
 ---

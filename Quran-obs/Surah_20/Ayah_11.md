@@ -1,21 +1,21 @@
 ---
-arabic_ayat: فَلَمَّاۤ اَتٰٮهَا نُوۡدِىَ يٰمُوۡسٰىؕ‏
+arabic_ayat: فَلَمَّآ أَتَىٰهَا نُودِيَ يَٰمُوسَىٰٓ
 sentence_translation: But when he approached it, he was called, “O Moses!
 word_by_word:
   1:
-    arabic: فَلَمَّاۤ
+    arabic: فَلَمَّآ
     translation: Then when
     transliteration: falammā
   2:
-    arabic: اَتٰٮهَا
+    arabic: أَتَىٰهَا
     translation: he came to it
     transliteration: atāhā
   3:
-    arabic: نُوۡدِىَ
+    arabic: نُودِيَ
     translation: he was called
     transliteration: nūdiya
   4:
-    arabic: يٰمُوۡسٰىؕ‏
+    arabic: يَٰمُوسَىٰٓ
     translation: O Musa
     transliteration: yāmūsā
 ---

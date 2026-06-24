@@ -1,5 +1,5 @@
 ---
-arabic_ayat: وَلَقَدۡ رَاٰهُ بِالۡاُفُقِ الۡمُبِيۡنِ​ۚ‏
+arabic_ayat: وَلَقَدۡ رَءَاهُ بِٱلۡأُفُقِ ٱلۡمُبِينِ
 sentence_translation: And he did see that ˹angel˺ on the clear horizon,
 word_by_word:
   1:
@@ -7,15 +7,15 @@ word_by_word:
     translation: And certainly
     transliteration: walaqad
   2:
-    arabic: رَاٰهُ
+    arabic: رَءَاهُ
     translation: he saw him
     transliteration: raāhu
   3:
-    arabic: بِالۡاُفُقِ
+    arabic: بِٱلۡأُفُقِ
     translation: in the horizon
     transliteration: bil-ufuqi
   4:
-    arabic: الۡمُبِيۡنِ​ۚ‏
+    arabic: ٱلۡمُبِينِ
     translation: the clear
     transliteration: l-mubīni
 ---

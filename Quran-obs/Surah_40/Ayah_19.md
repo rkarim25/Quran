@@ -1,5 +1,5 @@
 ---
-arabic_ayat: يَعۡلَمُ خَآٮِٕنَةَ الۡاَعۡيُنِ وَمَا تُخۡفِى الصُّدُوۡرُ‏
+arabic_ayat: يَعۡلَمُ خَآئِنَةَ ٱلۡأَعۡيُنِ وَمَا تُخۡفِي ٱلصُّدُورُ
 sentence_translation: Allah ˹even˺ knows the sly glances of the eyes and whatever
   the hearts conceal.
 word_by_word:
@@ -8,11 +8,11 @@ word_by_word:
     translation: He knows
     transliteration: yaʿlamu
   2:
-    arabic: خَآٮِٕنَةَ
+    arabic: خَآئِنَةَ
     translation: (the) stealthy glance
     transliteration: khāinata
   3:
-    arabic: الۡاَعۡيُنِ
+    arabic: ٱلۡأَعۡيُنِ
     translation: (the) stealthy glance
     transliteration: l-aʿyuni
   4:
@@ -20,11 +20,11 @@ word_by_word:
     translation: and what
     transliteration: wamā
   5:
-    arabic: تُخۡفِى
+    arabic: تُخۡفِي
     translation: conceal
     transliteration: tukh'fī
   6:
-    arabic: الصُّدُوۡرُ‏
+    arabic: ٱلصُّدُورُ
     translation: the breasts
     transliteration: l-ṣudūru
 ---

@@ -1,29 +1,29 @@
 ---
-arabic_ayat: اَوَلَمۡ يَرَوۡا اَنَّ اللّٰهَ الَّذِىۡ خَلَقَ السَّمٰوٰتِ وَالۡاَرۡضَ
-  قَادِرٌ عَلٰٓى اَنۡ يَّخۡلُقَ مِثۡلَهُمۡ وَجَعَلَ لَهُمۡ اَجَلًا لَّا رَيۡبَ فِيۡهِ
-  ؕ فَاَبَى الظّٰلِمُوۡنَ اِلَّا كُفُوۡرًا‏
+arabic_ayat: ۞ أَوَلَمۡ يَرَوۡاْ أَنَّ ٱللَّهَ ٱلَّذِي خَلَقَ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضَ
+  قَادِرٌ عَلَىٰٓ أَن يَخۡلُقَ مِثۡلَهُمۡ وَجَعَلَ لَهُمۡ أَجَلٗا لَّا رَيۡبَ فِيهِ
+  فَأَبَى ٱلظَّٰلِمُونَ إِلَّا كُفُورٗا
 sentence_translation: Have they not realized that Allah, Who created the heavens and
   the earth, can ˹easily˺ re-create them? He has ˹already˺ set for them a time, about
   which there is no doubt. But the wrongdoers persist in denial.
 word_by_word:
   1:
-    arabic: ۞ اَوَلَمۡ
+    arabic: ۞ أَوَلَمۡ
     translation: Do not
     transliteration: awalam
   2:
-    arabic: يَرَوۡا
+    arabic: يَرَوۡاْ
     translation: they see
     transliteration: yaraw
   3:
-    arabic: اَنَّ
+    arabic: أَنَّ
     translation: that
     transliteration: anna
   4:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   5:
-    arabic: الَّذِىۡ
+    arabic: ٱلَّذِي
     translation: the One Who
     transliteration: alladhī
   6:
@@ -31,11 +31,11 @@ word_by_word:
     translation: created
     transliteration: khalaqa
   7:
-    arabic: السَّمٰوٰتِ
+    arabic: ٱلسَّمَٰوَٰتِ
     translation: the heavens
     transliteration: l-samāwāti
   8:
-    arabic: وَالۡاَرۡضَ
+    arabic: وَٱلۡأَرۡضَ
     translation: and the earth
     transliteration: wal-arḍa
   9:
@@ -43,15 +43,15 @@ word_by_word:
     translation: (is) Able
     transliteration: qādirun
   10:
-    arabic: عَلٰٓى
+    arabic: عَلَىٰٓ
     translation: '[on]'
     transliteration: ʿalā
   11:
-    arabic: اَنۡ
+    arabic: أَن
     translation: to
     transliteration: an
   12:
-    arabic: يَّخۡلُقَ
+    arabic: يَخۡلُقَ
     translation: create
     transliteration: yakhluqa
   13:
@@ -67,7 +67,7 @@ word_by_word:
     translation: for them
     transliteration: lahum
   16:
-    arabic: اَجَلًا
+    arabic: أَجَلٗا
     translation: a term
     transliteration: ajalan
   17:
@@ -79,23 +79,23 @@ word_by_word:
     translation: doubt
     transliteration: rayba
   19:
-    arabic: فِيۡهِ ؕ
+    arabic: فِيهِ
     translation: in it
     transliteration: fīhi
   20:
-    arabic: فَاَبَى
+    arabic: فَأَبَى
     translation: But refused
     transliteration: fa-abā
   21:
-    arabic: الظّٰلِمُوۡنَ
+    arabic: ٱلظَّٰلِمُونَ
     translation: the wrongdoers
     transliteration: l-ẓālimūna
   22:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   23:
-    arabic: كُفُوۡرًا‏
+    arabic: كُفُورٗا
     translation: disbelief
     transliteration: kufūran
 ---

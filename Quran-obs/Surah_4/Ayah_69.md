@@ -1,29 +1,29 @@
 ---
-arabic_ayat: وَمَنۡ يُّطِعِ اللّٰهَ وَالرَّسُوۡلَ فَاُولٰٓٮِٕكَ مَعَ الَّذِيۡنَ اَنۡعَمَ
-  اللّٰهُ عَلَيۡهِمۡ مِّنَ النَّبِيّٖنَ وَالصِّدِّيۡقِيۡنَ وَالشُّهَدَآءِ وَالصّٰلِحِيۡنَ​
-  ۚ وَحَسُنَ اُولٰٓٮِٕكَ رَفِيۡقًا ؕ‏
+arabic_ayat: وَمَن يُطِعِ ٱللَّهَ وَٱلرَّسُولَ فَأُوْلَٰٓئِكَ مَعَ ٱلَّذِينَ أَنۡعَمَ
+  ٱللَّهُ عَلَيۡهِم مِّنَ ٱلنَّبِيِّـۧنَ وَٱلصِّدِّيقِينَ وَٱلشُّهَدَآءِ وَٱلصَّٰلِحِينَۚ
+  وَحَسُنَ أُوْلَٰٓئِكَ رَفِيقٗا
 sentence_translation: 'And whoever obeys Allah and the Messenger will be in the company
   of those blessed by Allah: the prophets, the people of truth, the martyrs, and the
   righteous—what honourable company!'
 word_by_word:
   1:
-    arabic: وَمَنۡ
+    arabic: وَمَن
     translation: And whoever
     transliteration: waman
   2:
-    arabic: يُّطِعِ
+    arabic: يُطِعِ
     translation: obeys
     transliteration: yuṭiʿi
   3:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   4:
-    arabic: وَالرَّسُوۡلَ
+    arabic: وَٱلرَّسُولَ
     translation: and the Messenger
     transliteration: wal-rasūla
   5:
-    arabic: فَاُولٰٓٮِٕكَ
+    arabic: فَأُوْلَٰٓئِكَ
     translation: then those
     transliteration: fa-ulāika
   6:
@@ -31,19 +31,19 @@ word_by_word:
     translation: (will be) with
     transliteration: maʿa
   7:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those whom
     transliteration: alladhīna
   8:
-    arabic: اَنۡعَمَ
+    arabic: أَنۡعَمَ
     translation: has bestowed (His) Favor
     transliteration: anʿama
   9:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   10:
-    arabic: عَلَيۡهِمۡ
+    arabic: عَلَيۡهِم
     translation: 'upon them '
     transliteration: ʿalayhim
   11:
@@ -51,19 +51,19 @@ word_by_word:
     translation: of
     transliteration: mina
   12:
-    arabic: النَّبِيّٖنَ
+    arabic: ٱلنَّبِيِّـۧنَ
     translation: the Prophets
     transliteration: l-nabiyīna
   13:
-    arabic: وَالصِّدِّيۡقِيۡنَ
+    arabic: وَٱلصِّدِّيقِينَ
     translation: and the truthful
     transliteration: wal-ṣidīqīna
   14:
-    arabic: وَالشُّهَدَآءِ
+    arabic: وَٱلشُّهَدَآءِ
     translation: and the martyrs
     transliteration: wal-shuhadāi
   15:
-    arabic: وَالصّٰلِحِيۡنَ​ ۚ
+    arabic: وَٱلصَّٰلِحِينَۚ
     translation: and the righteous
     transliteration: wal-ṣāliḥīna
   16:
@@ -71,11 +71,11 @@ word_by_word:
     translation: And excellent
     transliteration: waḥasuna
   17:
-    arabic: اُولٰٓٮِٕكَ
+    arabic: أُوْلَٰٓئِكَ
     translation: (are) those
     transliteration: ulāika
   18:
-    arabic: رَفِيۡقًا ؕ‏
+    arabic: رَفِيقٗا
     translation: companion(s)
     transliteration: rafīqan
 ---

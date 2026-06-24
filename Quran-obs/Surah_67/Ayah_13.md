@@ -1,35 +1,35 @@
 ---
-arabic_ayat: "وَاَسِرُّوۡا قَوۡلَـكُمۡ اَوِ اجۡهَرُوۡا بِهٖؕ اِنَّهٗ عَلِيۡمٌۢ بِذَاتِ\
-  \ الصُّدُوۡرِ‏ \uFEFF\uFEFF"
+arabic_ayat: وَأَسِرُّواْ قَوۡلَكُمۡ أَوِ ٱجۡهَرُواْ بِهِۦٓۖ إِنَّهُۥ عَلِيمُۢ بِذَاتِ
+  ٱلصُّدُورِ
 sentence_translation: Whether you speak secretly or openly—He surely knows best what
   is ˹hidden˺ in the heart.
 word_by_word:
   1:
-    arabic: وَاَسِرُّوۡا
+    arabic: وَأَسِرُّواْ
     translation: And conceal
     transliteration: wa-asirrū
   2:
-    arabic: قَوۡلَـكُمۡ
+    arabic: قَوۡلَكُمۡ
     translation: your speech
     transliteration: qawlakum
   3:
-    arabic: اَوِ
+    arabic: أَوِ
     translation: or
     transliteration: awi
   4:
-    arabic: اجۡهَرُوۡا
+    arabic: ٱجۡهَرُواْ
     translation: proclaim
     transliteration: ij'harū
   5:
-    arabic: بِهٖؕ
+    arabic: بِهِۦٓۖ
     translation: it
     transliteration: bihi
   6:
-    arabic: اِنَّهٗ
+    arabic: إِنَّهُۥ
     translation: Indeed, He
     transliteration: innahu
   7:
-    arabic: عَلِيۡمٌۢ
+    arabic: عَلِيمُۢ
     translation: (is the) All-Knower
     transliteration: ʿalīmun
   8:
@@ -37,7 +37,7 @@ word_by_word:
     translation: of what (is in)
     transliteration: bidhāti
   9:
-    arabic: "الصُّدُوۡرِ‏ \uFEFF\uFEFF"
+    arabic: ٱلصُّدُورِ
     translation: the breasts
     transliteration: l-ṣudūri
 ---

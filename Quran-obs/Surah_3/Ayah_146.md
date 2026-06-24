@@ -1,37 +1,37 @@
 ---
-arabic_ayat: وَكَاَيِّنۡ مِّنۡ نَّبِىٍّ قٰتَلَ ۙ مَعَهٗ رِبِّيُّوۡنَ كَثِيۡرٌ ۚ فَمَا
-  وَهَنُوۡا لِمَاۤ اَصَابَهُمۡ فِىۡ سَبِيۡلِ اللّٰهِ وَمَا ضَعُفُوۡا وَمَا اسۡتَكَانُوۡا ​ؕ
-  وَاللّٰهُ يُحِبُّ الصّٰبِرِيۡنَ‏
+arabic_ayat: وَكَأَيِّن مِّن نَّبِيّٖ قَٰتَلَ مَعَهُۥ رِبِّيُّونَ كَثِيرٞ فَمَا وَهَنُواْ
+  لِمَآ أَصَابَهُمۡ فِي سَبِيلِ ٱللَّهِ وَمَا ضَعُفُواْ وَمَا ٱسۡتَكَانُواْۗ وَٱللَّهُ
+  يُحِبُّ ٱلصَّٰبِرِينَ
 sentence_translation: ˹Imagine˺ how many devotees fought along with their prophets
   and never faltered despite whatever ˹losses˺ they suffered in the cause of Allah,
   nor did they weaken or give in! Allah loves those who persevere.
 word_by_word:
   1:
-    arabic: وَكَاَيِّنۡ
+    arabic: وَكَأَيِّن
     translation: And how many
     transliteration: waka-ayyin
   2:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: from
     transliteration: min
   3:
-    arabic: نَّبِىٍّ
+    arabic: نَّبِيّٖ
     translation: a Prophet
     transliteration: nabiyyin
   4:
-    arabic: قٰتَلَ ۙ
+    arabic: قَٰتَلَ
     translation: fought
     transliteration: qātala
   5:
-    arabic: مَعَهٗ
+    arabic: مَعَهُۥ
     translation: with him
     transliteration: maʿahu
   6:
-    arabic: رِبِّيُّوۡنَ
+    arabic: رِبِّيُّونَ
     translation: (were) religious scholars
     transliteration: ribbiyyūna
   7:
-    arabic: كَثِيۡرٌ ۚ
+    arabic: كَثِيرٞ
     translation: many
     transliteration: kathīrun
   8:
@@ -39,27 +39,27 @@ word_by_word:
     translation: But not
     transliteration: famā
   9:
-    arabic: وَهَنُوۡا
+    arabic: وَهَنُواْ
     translation: they lost heart
     transliteration: wahanū
   10:
-    arabic: لِمَاۤ
+    arabic: لِمَآ
     translation: for what
     transliteration: limā
   11:
-    arabic: اَصَابَهُمۡ
+    arabic: أَصَابَهُمۡ
     translation: befell them
     transliteration: aṣābahum
   12:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   13:
-    arabic: سَبِيۡلِ
+    arabic: سَبِيلِ
     translation: (the) way
     transliteration: sabīli
   14:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (of) Allah
     transliteration: l-lahi
   15:
@@ -67,7 +67,7 @@ word_by_word:
     translation: and not
     transliteration: wamā
   16:
-    arabic: ضَعُفُوۡا
+    arabic: ضَعُفُواْ
     translation: they weakened
     transliteration: ḍaʿufū
   17:
@@ -75,11 +75,11 @@ word_by_word:
     translation: and not
     transliteration: wamā
   18:
-    arabic: اسۡتَكَانُوۡا ​ؕ
+    arabic: ٱسۡتَكَانُواْۗ
     translation: they gave in
     transliteration: is'takānū
   19:
-    arabic: وَاللّٰهُ
+    arabic: وَٱللَّهُ
     translation: And Allah
     transliteration: wal-lahu
   20:
@@ -87,7 +87,7 @@ word_by_word:
     translation: loves
     transliteration: yuḥibbu
   21:
-    arabic: الصّٰبِرِيۡنَ‏
+    arabic: ٱلصَّٰبِرِينَ
     translation: the patient ones
     transliteration: l-ṣābirīna
 ---

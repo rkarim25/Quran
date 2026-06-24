@@ -1,27 +1,27 @@
 ---
-arabic_ayat: وَاَتۡبَعۡنٰهُمۡ فِىۡ هٰذِهِ الدُّنۡيَا لَـعۡنَةً​  ۚ وَيَوۡمَ الۡقِيٰمَةِ
-  هُمۡ مِّنَ الۡمَقۡبُوۡحِيۡنَ‏
+arabic_ayat: وَأَتۡبَعۡنَٰهُمۡ فِي هَٰذِهِ ٱلدُّنۡيَا لَعۡنَةٗۖ وَيَوۡمَ ٱلۡقِيَٰمَةِ
+  هُم مِّنَ ٱلۡمَقۡبُوحِينَ
 sentence_translation: We caused a curse to follow them in this world. And on the Day
   of Judgment they will be among the outcasts.
 word_by_word:
   1:
-    arabic: وَاَتۡبَعۡنٰهُمۡ
+    arabic: وَأَتۡبَعۡنَٰهُمۡ
     translation: And We caused to follow them
     transliteration: wa-atbaʿnāhum
   2:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   3:
-    arabic: هٰذِهِ
+    arabic: هَٰذِهِ
     translation: this
     transliteration: hādhihi
   4:
-    arabic: الدُّنۡيَا
+    arabic: ٱلدُّنۡيَا
     translation: world
     transliteration: l-dun'yā
   5:
-    arabic: لَـعۡنَةً​  ۚ
+    arabic: لَعۡنَةٗۖ
     translation: a curse
     transliteration: laʿnatan
   6:
@@ -29,11 +29,11 @@ word_by_word:
     translation: and (on the) Day
     transliteration: wayawma
   7:
-    arabic: الۡقِيٰمَةِ
+    arabic: ٱلۡقِيَٰمَةِ
     translation: (of) the Resurrection
     transliteration: l-qiyāmati
   8:
-    arabic: هُمۡ
+    arabic: هُم
     translation: they
     transliteration: hum
   9:
@@ -41,7 +41,7 @@ word_by_word:
     translation: (will be) of
     transliteration: mina
   10:
-    arabic: الۡمَقۡبُوۡحِيۡنَ‏
+    arabic: ٱلۡمَقۡبُوحِينَ
     translation: the despised
     transliteration: l-maqbūḥīna
 ---

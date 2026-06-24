@@ -1,7 +1,7 @@
 ---
-arabic_ayat: بَلۡ كَذَّبُوۡا بِمَا لَمۡ يُحِيۡطُوۡا بِعِلۡمِهٖ وَلَمَّا يَاۡتِهِمۡ
-  تَاۡوِيۡلُهٗ ​ؕ كَذٰلِكَ كَذَّبَ الَّذِيۡنَ مِنۡ قَبۡلِهِمۡ​ فَانْظُرۡ كَيۡفَ كَانَ
-  عَاقِبَةُ الظّٰلِمِيۡنَ‏
+arabic_ayat: بَلۡ كَذَّبُواْ بِمَا لَمۡ يُحِيطُواْ بِعِلۡمِهِۦ وَلَمَّا يَأۡتِهِمۡ
+  تَأۡوِيلُهُۥۚ كَذَٰلِكَ كَذَّبَ ٱلَّذِينَ مِن قَبۡلِهِمۡۖ فَٱنظُرۡ كَيۡفَ كَانَ
+  عَٰقِبَةُ ٱلظَّٰلِمِينَ
 sentence_translation: In fact, they ˹hastily˺ rejected the Book without comprehending
   it and before the fulfilment of its warnings. Similarly, those before them were
   in denial. See then what was the end of the wrongdoers!
@@ -11,7 +11,7 @@ word_by_word:
     translation: Nay
     transliteration: bal
   2:
-    arabic: كَذَّبُوۡا
+    arabic: كَذَّبُواْ
     translation: they denied
     transliteration: kadhabū
   3:
@@ -23,11 +23,11 @@ word_by_word:
     translation: not
     transliteration: lam
   5:
-    arabic: يُحِيۡطُوۡا
+    arabic: يُحِيطُواْ
     translation: they could encompass
     transliteration: yuḥīṭū
   6:
-    arabic: بِعِلۡمِهٖ
+    arabic: بِعِلۡمِهِۦ
     translation: (of) its knowledge
     transliteration: biʿil'mihi
   7:
@@ -35,15 +35,15 @@ word_by_word:
     translation: and not
     transliteration: walammā
   8:
-    arabic: يَاۡتِهِمۡ
+    arabic: يَأۡتِهِمۡ
     translation: has come (to) them
     transliteration: yatihim
   9:
-    arabic: تَاۡوِيۡلُهٗ ​ؕ
+    arabic: تَأۡوِيلُهُۥۚ
     translation: its interpretation
     transliteration: tawīluhu
   10:
-    arabic: كَذٰلِكَ
+    arabic: كَذَٰلِكَ
     translation: Thus
     transliteration: kadhālika
   11:
@@ -51,19 +51,19 @@ word_by_word:
     translation: denied
     transliteration: kadhaba
   12:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those
     transliteration: alladhīna
   13:
-    arabic: مِنۡ
+    arabic: مِن
     translation: before them
     transliteration: min
   14:
-    arabic: قَبۡلِهِمۡ​
+    arabic: قَبۡلِهِمۡۖ
     translation: before them
     transliteration: qablihim
   15:
-    arabic: فَانْظُرۡ
+    arabic: فَٱنظُرۡ
     translation: then see
     transliteration: fa-unẓur
   16:
@@ -75,11 +75,11 @@ word_by_word:
     translation: was
     transliteration: kāna
   18:
-    arabic: عَاقِبَةُ
+    arabic: عَٰقِبَةُ
     translation: (the) end
     transliteration: ʿāqibatu
   19:
-    arabic: الظّٰلِمِيۡنَ‏
+    arabic: ٱلظَّٰلِمِينَ
     translation: (of) the wrongdoers
     transliteration: l-ẓālimīna
 ---

@@ -1,13 +1,13 @@
 ---
-arabic_ayat: فَاَ تۡبَعَ سَبَبًا‏
+arabic_ayat: فَأَتۡبَعَ سَبَبًا
 sentence_translation: So he travelled a course,
 word_by_word:
   1:
-    arabic: فَاَ تۡبَعَ
+    arabic: فَأَتۡبَعَ
     translation: So he followed
     transliteration: fa-atbaʿa
   2:
-    arabic: سَبَبًا‏
+    arabic: سَبَبًا
     translation: a course
     transliteration: sababan
 ---

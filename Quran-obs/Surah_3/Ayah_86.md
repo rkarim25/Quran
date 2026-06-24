@@ -1,7 +1,7 @@
 ---
-arabic_ayat: كَيۡفَ يَهۡدِى اللّٰهُ قَوۡمًا كَفَرُوۡا بَعۡدَ اِيۡمَانِهِمۡ وَشَهِدُوۡۤا
-  اَنَّ الرَّسُوۡلَ حَقٌّ وَّجَآءَهُمُ الۡبَيِّنٰتُ​ؕ وَاللّٰهُ لَا يَهۡدِى الۡقَوۡمَ
-  الظّٰلِمِيۡنَ‏
+arabic_ayat: كَيۡفَ يَهۡدِي ٱللَّهُ قَوۡمٗا كَفَرُواْ بَعۡدَ إِيمَٰنِهِمۡ وَشَهِدُوٓاْ
+  أَنَّ ٱلرَّسُولَ حَقّٞ وَجَآءَهُمُ ٱلۡبَيِّنَٰتُۚ وَٱللَّهُ لَا يَهۡدِي ٱلۡقَوۡمَ
+  ٱلظَّٰلِمِينَ
 sentence_translation: How will Allah guide a people who chose to disbelieve after
   they had believed, acknowledged the Messenger to be true, and received clear proofs?
   For Allah does not guide the wrongdoing people.
@@ -11,19 +11,19 @@ word_by_word:
     translation: How
     transliteration: kayfa
   2:
-    arabic: يَهۡدِى
+    arabic: يَهۡدِي
     translation: (shall) guide
     transliteration: yahdī
   3:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   4:
-    arabic: قَوۡمًا
+    arabic: قَوۡمٗا
     translation: a people
     transliteration: qawman
   5:
-    arabic: كَفَرُوۡا
+    arabic: كَفَرُواْ
     translation: (who) disbelieved
     transliteration: kafarū
   6:
@@ -31,35 +31,35 @@ word_by_word:
     translation: after
     transliteration: baʿda
   7:
-    arabic: اِيۡمَانِهِمۡ
+    arabic: إِيمَٰنِهِمۡ
     translation: their belief
     transliteration: īmānihim
   8:
-    arabic: وَشَهِدُوۡۤا
+    arabic: وَشَهِدُوٓاْ
     translation: and (had) witnessed
     transliteration: washahidū
   9:
-    arabic: اَنَّ
+    arabic: أَنَّ
     translation: that
     transliteration: anna
   10:
-    arabic: الرَّسُوۡلَ
+    arabic: ٱلرَّسُولَ
     translation: the Messenger
     transliteration: l-rasūla
   11:
-    arabic: حَقٌّ
+    arabic: حَقّٞ
     translation: (is) true
     transliteration: ḥaqqun
   12:
-    arabic: وَّجَآءَهُمُ
+    arabic: وَجَآءَهُمُ
     translation: and came to them
     transliteration: wajāahumu
   13:
-    arabic: الۡبَيِّنٰتُ​ؕ
+    arabic: ٱلۡبَيِّنَٰتُۚ
     translation: the clear proofs
     transliteration: l-bayinātu
   14:
-    arabic: وَاللّٰهُ
+    arabic: وَٱللَّهُ
     translation: And Allah
     transliteration: wal-lahu
   15:
@@ -67,15 +67,15 @@ word_by_word:
     translation: (does) not
     transliteration: lā
   16:
-    arabic: يَهۡدِى
+    arabic: يَهۡدِي
     translation: guide
     transliteration: yahdī
   17:
-    arabic: الۡقَوۡمَ
+    arabic: ٱلۡقَوۡمَ
     translation: the people
     transliteration: l-qawma
   18:
-    arabic: الظّٰلِمِيۡنَ‏
+    arabic: ٱلظَّٰلِمِينَ
     translation: '[the] wrongdoers'
     transliteration: l-ẓālimīna
 ---

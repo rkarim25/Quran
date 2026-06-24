@@ -1,7 +1,6 @@
 ---
-arabic_ayat: رَبَّنَا وَاَدۡخِلۡهُمۡ جَنّٰتِ عَدۡنِ اۨلَّتِىۡ وَعَدْتَّهُمۡ وَمَنۡ
-  صَلَحَ مِنۡ اٰبَآٮِٕهِمۡ وَاَزۡوَاجِهِمۡ وَذُرِّيّٰتِهِمۡ ؕ اِنَّكَ اَنۡتَ الۡعَزِيۡزُ
-  الۡحَكِيۡمُ ۙ‏
+arabic_ayat: رَبَّنَا وَأَدۡخِلۡهُمۡ جَنَّٰتِ عَدۡنٍ ٱلَّتِي وَعَدتَّهُمۡ وَمَن صَلَحَ
+  مِنۡ ءَابَآئِهِمۡ وَأَزۡوَٰجِهِمۡ وَذُرِّيَّٰتِهِمۡۚ إِنَّكَ أَنتَ ٱلۡعَزِيزُ ٱلۡحَكِيمُ
 sentence_translation: Our Lord! Admit them into the Gardens of Eternity which You
   have promised them, along with the righteous among their parents, spouses, and descendants.
   You ˹alone˺ are truly the Almighty, All-Wise.
@@ -11,27 +10,27 @@ word_by_word:
     translation: Our Lord
     transliteration: rabbanā
   2:
-    arabic: وَاَدۡخِلۡهُمۡ
+    arabic: وَأَدۡخِلۡهُمۡ
     translation: And admit them
     transliteration: wa-adkhil'hum
   3:
-    arabic: جَنّٰتِ
+    arabic: جَنَّٰتِ
     translation: (to) Gardens
     transliteration: jannāti
   4:
-    arabic: عَدۡنِ
+    arabic: عَدۡنٍ
     translation: (of) Eden
     transliteration: ʿadnin
   5:
-    arabic: اۨلَّتِىۡ
+    arabic: ٱلَّتِي
     translation: which
     transliteration: allatī
   6:
-    arabic: وَعَدْتَّهُمۡ
+    arabic: وَعَدتَّهُمۡ
     translation: You have promised them
     transliteration: waʿadttahum
   7:
-    arabic: وَمَنۡ
+    arabic: وَمَن
     translation: and whoever
     transliteration: waman
   8:
@@ -39,35 +38,35 @@ word_by_word:
     translation: (was) righteous
     transliteration: ṣalaḥa
   9:
-    arabic: مِنۡ
+    arabic: مِنۡ ءَ
     translation: among
     transliteration: min
   10:
-    arabic: اٰبَآٮِٕهِمۡ
+    arabic: ابَآئِهِمۡ
     translation: their fathers
     transliteration: ābāihim
   11:
-    arabic: وَاَزۡوَاجِهِمۡ
+    arabic: وَأَزۡوَٰجِهِمۡ
     translation: and their spouses
     transliteration: wa-azwājihim
   12:
-    arabic: وَذُرِّيّٰتِهِمۡ ؕ
+    arabic: وَذُرِّيَّٰتِهِمۡۚ
     translation: and their offspring
     transliteration: wadhurriyyātihim
   13:
-    arabic: اِنَّكَ
+    arabic: إِنَّكَ
     translation: Indeed You
     transliteration: innaka
   14:
-    arabic: اَنۡتَ
+    arabic: أَنتَ
     translation: You
     transliteration: anta
   15:
-    arabic: الۡعَزِيۡزُ
+    arabic: ٱلۡعَزِيزُ
     translation: (are) the All-Mighty
     transliteration: l-ʿazīzu
   16:
-    arabic: الۡحَكِيۡمُ ۙ‏
+    arabic: ٱلۡحَكِيمُ
     translation: the All-Wise
     transliteration: l-ḥakīmu
 ---

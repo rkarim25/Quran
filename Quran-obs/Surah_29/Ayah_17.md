@@ -1,67 +1,66 @@
 ---
-arabic_ayat: اِنَّمَا تَعۡبُدُوۡنَ مِنۡ دُوۡنِ اللّٰهِ اَوۡثَانًا وَّتَخۡلُقُوۡنَ
-  اِفۡكًا​ ؕ اِنَّ الَّذِيۡنَ تَعۡبُدُوۡنَ مِنۡ دُوۡنِ اللّٰهِ لَا يَمۡلِكُوۡنَ لَـكُمۡ
-  رِزۡقًا فَابۡتَغُوۡا عِنۡدَ اللّٰهِ الرِّزۡقَ وَاعۡبُدُوۡهُ وَاشۡكُرُوۡا لَهٗ ؕ
-  اِلَيۡهِ تُرۡجَعُوۡنَ‏
+arabic_ayat: إِنَّمَا تَعۡبُدُونَ مِن دُونِ ٱللَّهِ أَوۡثَٰنٗا وَتَخۡلُقُونَ إِفۡكًاۚ
+  إِنَّ ٱلَّذِينَ تَعۡبُدُونَ مِن دُونِ ٱللَّهِ لَا يَمۡلِكُونَ لَكُمۡ رِزۡقٗا فَٱبۡتَغُواْ
+  عِندَ ٱللَّهِ ٱلرِّزۡقَ وَٱعۡبُدُوهُ وَٱشۡكُرُواْ لَهُۥٓۖ إِلَيۡهِ تُرۡجَعُونَ
 sentence_translation: You worship besides Allah nothing but idols, simply creating
   lies ˹about them˺. Those you worship besides Allah certainly cannot give you any
   provision. So seek provision from Allah ˹alone˺, worship Him, and be grateful to
   Him. To Him you will ˹all˺ be returned.
 word_by_word:
   1:
-    arabic: اِنَّمَا
+    arabic: إِنَّمَا
     translation: Only
     transliteration: innamā
   2:
-    arabic: تَعۡبُدُوۡنَ
+    arabic: تَعۡبُدُونَ
     translation: you worship
     transliteration: taʿbudūna
   3:
-    arabic: مِنۡ
+    arabic: مِن
     translation: besides
     transliteration: min
   4:
-    arabic: دُوۡنِ
+    arabic: دُونِ
     translation: besides
     transliteration: dūni
   5:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   6:
-    arabic: اَوۡثَانًا
+    arabic: أَوۡثَٰنٗا
     translation: idols
     transliteration: awthānan
   7:
-    arabic: وَّتَخۡلُقُوۡنَ
+    arabic: وَتَخۡلُقُونَ
     translation: and you create
     transliteration: watakhluqūna
   8:
-    arabic: اِفۡكًا​ ؕ
+    arabic: إِفۡكًاۚ
     translation: falsehood
     transliteration: if'kan
   9:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   10:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those whom
     transliteration: alladhīna
   11:
-    arabic: تَعۡبُدُوۡنَ
+    arabic: تَعۡبُدُونَ
     translation: you worship
     transliteration: taʿbudūna
   12:
-    arabic: مِنۡ
+    arabic: مِن
     translation: besides
     transliteration: min
   13:
-    arabic: دُوۡنِ
+    arabic: دُونِ
     translation: besides
     transliteration: dūni
   14:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   15:
@@ -69,51 +68,51 @@ word_by_word:
     translation: (do) not
     transliteration: lā
   16:
-    arabic: يَمۡلِكُوۡنَ
+    arabic: يَمۡلِكُونَ
     translation: possess
     transliteration: yamlikūna
   17:
-    arabic: لَـكُمۡ
+    arabic: لَكُمۡ
     translation: for you
     transliteration: lakum
   18:
-    arabic: رِزۡقًا
+    arabic: رِزۡقٗا
     translation: any provision
     transliteration: riz'qan
   19:
-    arabic: فَابۡتَغُوۡا
+    arabic: فَٱبۡتَغُواْ
     translation: So seek
     transliteration: fa-ib'taghū
   20:
-    arabic: عِنۡدَ
+    arabic: عِندَ
     translation: from
     transliteration: ʿinda
   21:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   22:
-    arabic: الرِّزۡقَ
+    arabic: ٱلرِّزۡقَ
     translation: the provision
     transliteration: l-riz'qa
   23:
-    arabic: وَاعۡبُدُوۡهُ
+    arabic: وَٱعۡبُدُوهُ
     translation: and worship Him
     transliteration: wa-uʿ'budūhu
   24:
-    arabic: وَاشۡكُرُوۡا
+    arabic: وَٱشۡكُرُواْ
     translation: and be grateful
     transliteration: wa-ush'kurū
   25:
-    arabic: لَهٗ ؕ
+    arabic: لَهُۥٓۖ
     translation: to Him
     transliteration: lahu
   26:
-    arabic: اِلَيۡهِ
+    arabic: إِلَيۡهِ
     translation: To Him
     transliteration: ilayhi
   27:
-    arabic: تُرۡجَعُوۡنَ‏
+    arabic: تُرۡجَعُونَ
     translation: you will be returned
     transliteration: tur'jaʿūna
 ---

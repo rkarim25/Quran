@@ -1,34 +1,34 @@
 ---
-arabic_ayat: وَهَلۡ اَتٰٮكَ نَبَؤُا الۡخَصۡمِ​ۘ اِذۡ تَسَوَّرُوا الۡمِحۡرَابَۙ‏
+arabic_ayat: ۞ وَهَلۡ أَتَىٰكَ نَبَؤُاْ ٱلۡخَصۡمِ إِذۡ تَسَوَّرُواْ ٱلۡمِحۡرَابَ
 sentence_translation: Has the story of the two plaintiffs, who scaled the ˹wall of
   David’s˺ sanctuary, reached you ˹O Prophet˺?
 word_by_word:
   1:
-    arabic: ۞ وَهَلۡ
+    arabic: ۞ وَهَلۡ
     translation: And has (there)
     transliteration: wahal
   2:
-    arabic: اَتٰٮكَ
+    arabic: أَتَىٰكَ
     translation: come to you
     transliteration: atāka
   3:
-    arabic: نَبَؤُا
+    arabic: نَبَؤُاْ
     translation: (the) news
     transliteration: naba-u
   4:
-    arabic: الۡخَصۡمِ​ۘ
+    arabic: ٱلۡخَصۡمِ
     translation: (of) the litigants
     transliteration: l-khaṣmi
   5:
-    arabic: اِذۡ
+    arabic: إِذۡ
     translation: when
     transliteration: idh
   6:
-    arabic: تَسَوَّرُوا
+    arabic: تَسَوَّرُواْ
     translation: they climbed over the wall
     transliteration: tasawwarū
   7:
-    arabic: الۡمِحۡرَابَۙ‏
+    arabic: ٱلۡمِحۡرَابَ
     translation: (of) the chamber
     transliteration: l-miḥ'rāba
 ---

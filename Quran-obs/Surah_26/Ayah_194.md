@@ -1,9 +1,9 @@
 ---
-arabic_ayat: عَلٰى قَلۡبِكَ لِتَكُوۡنَ مِنَ الۡمُنۡذِرِيۡنَۙ‏
+arabic_ayat: عَلَىٰ قَلۡبِكَ لِتَكُونَ مِنَ ٱلۡمُنذِرِينَ
 sentence_translation: into your heart ˹O Prophet˺—so that you may be one of the warners—
 word_by_word:
   1:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: Upon
     transliteration: ʿalā
   2:
@@ -11,7 +11,7 @@ word_by_word:
     translation: your heart
     transliteration: qalbika
   3:
-    arabic: لِتَكُوۡنَ
+    arabic: لِتَكُونَ
     translation: that you may be
     transliteration: litakūna
   4:
@@ -19,7 +19,7 @@ word_by_word:
     translation: of
     transliteration: mina
   5:
-    arabic: الۡمُنۡذِرِيۡنَۙ‏
+    arabic: ٱلۡمُنذِرِينَ
     translation: the warners
     transliteration: l-mundhirīna
 ---

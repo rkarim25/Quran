@@ -1,11 +1,10 @@
 ---
-arabic_ayat: "وَلَهٗ مَا سَكَنَ فِى الَّيۡلِ وَالنَّهَارِ​ؕ وَهُوَ السَّمِيۡعُ الۡعَلِيۡمُ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: ۞ وَلَهُۥ مَا سَكَنَ فِي ٱلَّيۡلِ وَٱلنَّهَارِۚ وَهُوَ ٱلسَّمِيعُ ٱلۡعَلِيمُ
 sentence_translation: To Him belongs whatever exists in the day and night. And He
   is the All-Hearing, All-Knowing.
 word_by_word:
   1:
-    arabic: ۞ وَلَهٗ
+    arabic: ۞ وَلَهُۥ
     translation: And for Him
     transliteration: walahu
   2:
@@ -17,15 +16,15 @@ word_by_word:
     translation: dwells
     transliteration: sakana
   4:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   5:
-    arabic: الَّيۡلِ
+    arabic: ٱلَّيۡلِ
     translation: the night
     transliteration: al-layli
   6:
-    arabic: وَالنَّهَارِ​ؕ
+    arabic: وَٱلنَّهَارِۚ
     translation: and the day
     transliteration: wal-nahāri
   7:
@@ -33,11 +32,11 @@ word_by_word:
     translation: and He
     transliteration: wahuwa
   8:
-    arabic: السَّمِيۡعُ
+    arabic: ٱلسَّمِيعُ
     translation: (is) All-Hearing
     transliteration: l-samīʿu
   9:
-    arabic: "الۡعَلِيۡمُ‏ \uFEFF\uFEFF"
+    arabic: ٱلۡعَلِيمُ
     translation: All-Knowing
     transliteration: l-ʿalīmu
 ---

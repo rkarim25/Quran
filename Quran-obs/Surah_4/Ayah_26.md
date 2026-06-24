@@ -1,16 +1,16 @@
 ---
-arabic_ayat: يُرِيۡدُ اللّٰهُ لِيُبَيِّنَ لَـكُمۡ وَيَهۡدِيَكُمۡ سُنَنَ الَّذِيۡنَ
-  مِنۡ قَبۡلِكُمۡ وَيَتُوۡبَ عَلَيۡكُمۡ​ ؕ وَاللّٰهُ عَلِيۡمٌ حَكِيۡمٌ‏
+arabic_ayat: يُرِيدُ ٱللَّهُ لِيُبَيِّنَ لَكُمۡ وَيَهۡدِيَكُمۡ سُنَنَ ٱلَّذِينَ مِن
+  قَبۡلِكُمۡ وَيَتُوبَ عَلَيۡكُمۡۗ وَٱللَّهُ عَلِيمٌ حَكِيمٞ
 sentence_translation: It is Allah’s Will to make things clear to you, guide you to
   the ˹noble˺ ways of those before you, and turn to you in mercy. For Allah is All-Knowing,
   All-Wise.
 word_by_word:
   1:
-    arabic: يُرِيۡدُ
+    arabic: يُرِيدُ
     translation: Wishes
     transliteration: yurīdu
   2:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   3:
@@ -18,7 +18,7 @@ word_by_word:
     translation: to make clear
     transliteration: liyubayyina
   4:
-    arabic: لَـكُمۡ
+    arabic: لَكُمۡ
     translation: to you
     transliteration: lakum
   5:
@@ -30,11 +30,11 @@ word_by_word:
     translation: (to) ways
     transliteration: sunana
   7:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: (of) those
     transliteration: alladhīna
   8:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   9:
@@ -42,23 +42,23 @@ word_by_word:
     translation: before you
     transliteration: qablikum
   10:
-    arabic: وَيَتُوۡبَ
+    arabic: وَيَتُوبَ
     translation: and (to) accept repentance
     transliteration: wayatūba
   11:
-    arabic: عَلَيۡكُمۡ​ ؕ
+    arabic: عَلَيۡكُمۡۗ
     translation: from you
     transliteration: ʿalaykum
   12:
-    arabic: وَاللّٰهُ
+    arabic: وَٱللَّهُ
     translation: And Allah
     transliteration: wal-lahu
   13:
-    arabic: عَلِيۡمٌ
+    arabic: عَلِيمٌ
     translation: (is) All-Knowing
     transliteration: ʿalīmun
   14:
-    arabic: حَكِيۡمٌ‏
+    arabic: حَكِيمٞ
     translation: All-Wise
     transliteration: ḥakīmun
 ---

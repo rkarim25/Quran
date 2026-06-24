@@ -1,5 +1,5 @@
 ---
-arabic_ayat: كُلُّ نَفۡسٍ ذَآٮِٕقَةُ الۡمَوۡتِ ثُمَّ اِلَيۡنَا تُرۡجَعُوۡنَ‏
+arabic_ayat: كُلُّ نَفۡسٖ ذَآئِقَةُ ٱلۡمَوۡتِۖ ثُمَّ إِلَيۡنَا تُرۡجَعُونَ
 sentence_translation: Every soul will taste death, then to Us you will ˹all˺ be returned.
 word_by_word:
   1:
@@ -7,15 +7,15 @@ word_by_word:
     translation: Every
     transliteration: kullu
   2:
-    arabic: نَفۡسٍ
+    arabic: نَفۡسٖ
     translation: soul
     transliteration: nafsin
   3:
-    arabic: ذَآٮِٕقَةُ
+    arabic: ذَآئِقَةُ
     translation: (will) taste
     transliteration: dhāiqatu
   4:
-    arabic: الۡمَوۡتِ
+    arabic: ٱلۡمَوۡتِۖ
     translation: the death
     transliteration: l-mawti
   5:
@@ -23,11 +23,11 @@ word_by_word:
     translation: Then
     transliteration: thumma
   6:
-    arabic: اِلَيۡنَا
+    arabic: إِلَيۡنَا
     translation: to Us
     transliteration: ilaynā
   7:
-    arabic: تُرۡجَعُوۡنَ‏
+    arabic: تُرۡجَعُونَ
     translation: you will be returned
     transliteration: tur'jaʿūna
 ---

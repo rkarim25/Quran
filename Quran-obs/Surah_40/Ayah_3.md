@@ -1,6 +1,6 @@
 ---
-arabic_ayat: غَافِرِ الذَّنۡۢبِ وَقَابِلِ التَّوۡبِ شَدِيۡدِ الۡعِقَابِ ذِى الطَّوۡلِؕ
-  لَاۤ اِلٰهَ اِلَّا هُوَؕ اِلَيۡهِ الۡمَصِيۡرُ‏
+arabic_ayat: غَافِرِ ٱلذَّنۢبِ وَقَابِلِ ٱلتَّوۡبِ شَدِيدِ ٱلۡعِقَابِ ذِي ٱلطَّوۡلِۖ
+  لَآ إِلَٰهَ إِلَّا هُوَۖ إِلَيۡهِ ٱلۡمَصِيرُ
 sentence_translation: the Forgiver of sin and Accepter of repentance, the Severe in
   punishment, and Infinite in bounty. There is no god ˹worthy of worship˺ except Him.
   To Him ˹alone˺  is the final return.
@@ -10,7 +10,7 @@ word_by_word:
     translation: (The) Forgiver
     transliteration: ghāfiri
   2:
-    arabic: الذَّنۡۢبِ
+    arabic: ٱلذَّنۢبِ
     translation: (of) the sin
     transliteration: l-dhanbi
   3:
@@ -18,47 +18,47 @@ word_by_word:
     translation: and (the) Acceptor
     transliteration: waqābili
   4:
-    arabic: التَّوۡبِ
+    arabic: ٱلتَّوۡبِ
     translation: (of) [the] repentance
     transliteration: l-tawbi
   5:
-    arabic: شَدِيۡدِ
+    arabic: شَدِيدِ
     translation: severe
     transliteration: shadīdi
   6:
-    arabic: الۡعِقَابِ
+    arabic: ٱلۡعِقَابِ
     translation: (in) the punishment
     transliteration: l-ʿiqābi
   7:
-    arabic: ذِى
+    arabic: ذِي
     translation: Owner (of) the abundance
     transliteration: dhī
   8:
-    arabic: الطَّوۡلِؕ
+    arabic: ٱلطَّوۡلِۖ
     translation: Owner (of) the abundance
     transliteration: l-ṭawli
   9:
-    arabic: لَاۤ
+    arabic: لَآ
     translation: (There is) no
     transliteration: lā
   10:
-    arabic: اِلٰهَ
+    arabic: إِلَٰهَ
     translation: god
     transliteration: ilāha
   11:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   12:
-    arabic: هُوَؕ
+    arabic: هُوَۖ
     translation: Him
     transliteration: huwa
   13:
-    arabic: اِلَيۡهِ
+    arabic: إِلَيۡهِ
     translation: to Him
     transliteration: ilayhi
   14:
-    arabic: الۡمَصِيۡرُ‏
+    arabic: ٱلۡمَصِيرُ
     translation: (is) the final return
     transliteration: l-maṣīru
 ---

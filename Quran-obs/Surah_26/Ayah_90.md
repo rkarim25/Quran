@@ -1,17 +1,17 @@
 ---
-arabic_ayat: وَاُزۡلِفَتِ الۡجَـنَّةُ لِلۡمُتَّقِيۡنَۙ‏
+arabic_ayat: وَأُزۡلِفَتِ ٱلۡجَنَّةُ لِلۡمُتَّقِينَ
 sentence_translation: ˹On that Day˺ Paradise will be brought near to the God-fearing,
 word_by_word:
   1:
-    arabic: وَاُزۡلِفَتِ
+    arabic: وَأُزۡلِفَتِ
     translation: And (will be) brought near
     transliteration: wa-uz'lifati
   2:
-    arabic: الۡجَـنَّةُ
+    arabic: ٱلۡجَنَّةُ
     translation: the Paradise
     transliteration: l-janatu
   3:
-    arabic: لِلۡمُتَّقِيۡنَۙ‏
+    arabic: لِلۡمُتَّقِينَ
     translation: for the righteous
     transliteration: lil'muttaqīna
 ---

@@ -1,5 +1,5 @@
 ---
-arabic_ayat: فَيُعَذِّبُهُ اللّٰهُ الۡعَذَابَ الۡاَكۡبَرَؕ‏
+arabic_ayat: فَيُعَذِّبُهُ ٱللَّهُ ٱلۡعَذَابَ ٱلۡأَكۡبَرَ
 sentence_translation: then Allah will inflict upon them the major punishment.
 word_by_word:
   1:
@@ -7,15 +7,15 @@ word_by_word:
     translation: Then will punish him
     transliteration: fayuʿadhibuhu
   2:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   3:
-    arabic: الۡعَذَابَ
+    arabic: ٱلۡعَذَابَ
     translation: (with) the punishment
     transliteration: l-ʿadhāba
   4:
-    arabic: الۡاَكۡبَرَؕ‏
+    arabic: ٱلۡأَكۡبَرَ
     translation: greatest
     transliteration: l-akbara
 ---

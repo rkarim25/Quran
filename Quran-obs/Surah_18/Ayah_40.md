@@ -1,32 +1,32 @@
 ---
-arabic_ayat: فَعَسٰى رَبِّىۡۤ اَنۡ يُّؤۡتِيَنِ خَيۡرًا مِّنۡ جَنَّتِكَ وَيُرۡسِلَ
-  عَلَيۡهَا حُسۡبَانًا مِّنَ السَّمَآءِ فَتُصۡبِحَ صَعِيۡدًا زَلَـقًا ۙ‏
+arabic_ayat: فَعَسَىٰ رَبِّيٓ أَن يُؤۡتِيَنِ خَيۡرٗا مِّن جَنَّتِكَ وَيُرۡسِلَ عَلَيۡهَا
+  حُسۡبَانٗا مِّنَ ٱلسَّمَآءِ فَتُصۡبِحَ صَعِيدٗا زَلَقًا
 sentence_translation: perhaps my Lord will grant me ˹something˺ better than your garden,
   and send down upon your garden a thunderbolt from the sky, turning it into a barren
   waste.
 word_by_word:
   1:
-    arabic: فَعَسٰى
+    arabic: فَعَسَىٰ
     translation: It may be
     transliteration: faʿasā
   2:
-    arabic: رَبِّىۡۤ
+    arabic: رَبِّيٓ
     translation: that my Lord
     transliteration: rabbī
   3:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that my Lord
     transliteration: an
   4:
-    arabic: يُّؤۡتِيَنِ
+    arabic: يُؤۡتِيَنِ
     translation: will give me
     transliteration: yu'tiyani
   5:
-    arabic: خَيۡرًا
+    arabic: خَيۡرٗا
     translation: better
     transliteration: khayran
   6:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: than
     transliteration: min
   7:
@@ -42,7 +42,7 @@ word_by_word:
     translation: upon it
     transliteration: ʿalayhā
   10:
-    arabic: حُسۡبَانًا
+    arabic: حُسۡبَانٗا
     translation: a calamity
     transliteration: ḥus'bānan
   11:
@@ -50,7 +50,7 @@ word_by_word:
     translation: from
     transliteration: mina
   12:
-    arabic: السَّمَآءِ
+    arabic: ٱلسَّمَآءِ
     translation: the sky
     transliteration: l-samāi
   13:
@@ -58,11 +58,11 @@ word_by_word:
     translation: then it will become
     transliteration: fatuṣ'biḥa
   14:
-    arabic: صَعِيۡدًا
+    arabic: صَعِيدٗا
     translation: ground
     transliteration: ṣaʿīdan
   15:
-    arabic: زَلَـقًا ۙ‏
+    arabic: زَلَقًا
     translation: slippery
     transliteration: zalaqan
 ---

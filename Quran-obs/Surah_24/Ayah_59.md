@@ -1,13 +1,13 @@
 ---
-arabic_ayat: وَاِذَا بَلَغَ الۡاَطۡفَالُ مِنۡكُمُ الۡحُـلُمَ فَلۡيَسۡتَـاْذِنُوۡا
-  كَمَا اسۡتَـاْذَنَ الَّذِيۡنَ مِنۡ قَبۡلِهِمۡ​ؕ كَذٰلِكَ يُبَيِّنُ اللّٰهُ لَـكُمۡ
-  اٰيٰتِهٖ​ؕ وَاللّٰهُ عَلِيۡمٌ حَكِيۡمٌ‏
+arabic_ayat: وَإِذَا بَلَغَ ٱلۡأَطۡفَٰلُ مِنكُمُ ٱلۡحُلُمَ فَلۡيَسۡتَـٔۡذِنُواْ كَمَا
+  ٱسۡتَـٔۡذَنَ ٱلَّذِينَ مِن قَبۡلِهِمۡۚ كَذَٰلِكَ يُبَيِّنُ ٱللَّهُ لَكُمۡ ءَايَٰتِهِۦۗ
+  وَٱللَّهُ عَلِيمٌ حَكِيمٞ
 sentence_translation: And when your children reach the age of puberty, let them seek
   permission ˹to come in˺, as their seniors do. This is how Allah makes His revelations
   clear to you, for Allah is All-Knowing, All-Wise.
 word_by_word:
   1:
-    arabic: وَاِذَا
+    arabic: وَإِذَا
     translation: And when
     transliteration: wa-idhā
   2:
@@ -15,19 +15,19 @@ word_by_word:
     translation: reach
     transliteration: balagha
   3:
-    arabic: الۡاَطۡفَالُ
+    arabic: ٱلۡأَطۡفَٰلُ
     translation: the children
     transliteration: l-aṭfālu
   4:
-    arabic: مِنۡكُمُ
+    arabic: مِنكُمُ
     translation: among you
     transliteration: minkumu
   5:
-    arabic: الۡحُـلُمَ
+    arabic: ٱلۡحُلُمَ
     translation: the puberty
     transliteration: l-ḥuluma
   6:
-    arabic: فَلۡيَسۡتَـاْذِنُوۡا
+    arabic: فَلۡيَسۡتَـٔۡذِنُواْ
     translation: then let them ask permission
     transliteration: falyastadhinū
   7:
@@ -35,23 +35,23 @@ word_by_word:
     translation: as
     transliteration: kamā
   8:
-    arabic: اسۡتَـاْذَنَ
+    arabic: ٱسۡتَـٔۡذَنَ
     translation: asked permission
     transliteration: is'tadhana
   9:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   10:
-    arabic: مِنۡ
+    arabic: مِن
     translation: (were) before them
     transliteration: min
   11:
-    arabic: قَبۡلِهِمۡ​ؕ
+    arabic: قَبۡلِهِمۡۚ
     translation: (were) before them
     transliteration: qablihim
   12:
-    arabic: كَذٰلِكَ
+    arabic: كَذَٰلِكَ
     translation: Thus
     transliteration: kadhālika
   13:
@@ -59,27 +59,27 @@ word_by_word:
     translation: Allah makes clear
     transliteration: yubayyinu
   14:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah makes clear
     transliteration: l-lahu
   15:
-    arabic: لَـكُمۡ
+    arabic: لَكُمۡ ءَ
     translation: for you
     transliteration: lakum
   16:
-    arabic: اٰيٰتِهٖ​ؕ
+    arabic: ايَٰتِهِۦۗ
     translation: His Verses
     transliteration: āyātihi
   17:
-    arabic: وَاللّٰهُ
+    arabic: وَٱللَّهُ
     translation: And Allah
     transliteration: wal-lahu
   18:
-    arabic: عَلِيۡمٌ
+    arabic: عَلِيمٌ
     translation: (is) All-Knower
     transliteration: ʿalīmun
   19:
-    arabic: حَكِيۡمٌ‏
+    arabic: حَكِيمٞ
     translation: All-Wise
     transliteration: ḥakīmun
 ---

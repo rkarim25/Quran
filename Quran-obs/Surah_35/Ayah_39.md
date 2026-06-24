@@ -1,7 +1,7 @@
 ---
-arabic_ayat: هُوَ الَّذِىۡ جَعَلَـكُمۡ خَلٰٓٮِٕفَ فِى الۡاَرۡضِ ؕ فَمَنۡ كَفَرَ فَعَلَيۡهِ
-  كُفۡرُهٗ ؕ وَلَا يَزِيۡدُ الۡـكٰفِرِيۡنَ كُفۡرُهُمۡ عِنۡدَ رَبِّهِمۡ اِلَّا مَقۡتًا
-  ۚ وَلَا يَزِيۡدُ الۡـكٰفِرِيۡنَ كُفۡرُهُمۡ اِلَّا خَسَارًا‏
+arabic_ayat: هُوَ ٱلَّذِي جَعَلَكُمۡ خَلَٰٓئِفَ فِي ٱلۡأَرۡضِۚ فَمَن كَفَرَ فَعَلَيۡهِ
+  كُفۡرُهُۥۖ وَلَا يَزِيدُ ٱلۡكَٰفِرِينَ كُفۡرُهُمۡ عِندَ رَبِّهِمۡ إِلَّا مَقۡتٗاۖ
+  وَلَا يَزِيدُ ٱلۡكَٰفِرِينَ كُفۡرُهُمۡ إِلَّا خَسَارٗا
 sentence_translation: He is the One Who has placed you as successors on earth. So
   whoever disbelieves will bear ˹the burden of˺ their own disbelief. The disbelievers’
   denial only increases them in contempt in the sight of their Lord, and it will only
@@ -12,27 +12,27 @@ word_by_word:
     translation: He
     transliteration: huwa
   2:
-    arabic: الَّذِىۡ
+    arabic: ٱلَّذِي
     translation: (is) the One Who
     transliteration: alladhī
   3:
-    arabic: جَعَلَـكُمۡ
+    arabic: جَعَلَكُمۡ
     translation: made you
     transliteration: jaʿalakum
   4:
-    arabic: خَلٰٓٮِٕفَ
+    arabic: خَلَٰٓئِفَ
     translation: successors
     transliteration: khalāifa
   5:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   6:
-    arabic: الۡاَرۡضِ ؕ
+    arabic: ٱلۡأَرۡضِۚ
     translation: the earth
     transliteration: l-arḍi
   7:
-    arabic: فَمَنۡ
+    arabic: فَمَن
     translation: And whoever
     transliteration: faman
   8:
@@ -44,7 +44,7 @@ word_by_word:
     translation: then upon him
     transliteration: faʿalayhi
   10:
-    arabic: كُفۡرُهٗ ؕ
+    arabic: كُفۡرُهُۥۖ
     translation: (is) his disbelief
     transliteration: kuf'ruhu
   11:
@@ -52,11 +52,11 @@ word_by_word:
     translation: And not
     transliteration: walā
   12:
-    arabic: يَزِيۡدُ
+    arabic: يَزِيدُ
     translation: increase
     transliteration: yazīdu
   13:
-    arabic: الۡـكٰفِرِيۡنَ
+    arabic: ٱلۡكَٰفِرِينَ
     translation: the disbelievers
     transliteration: l-kāfirīna
   14:
@@ -64,7 +64,7 @@ word_by_word:
     translation: their disbelief
     transliteration: kuf'ruhum
   15:
-    arabic: عِنۡدَ
+    arabic: عِندَ
     translation: near
     transliteration: ʿinda
   16:
@@ -72,11 +72,11 @@ word_by_word:
     translation: their Lord
     transliteration: rabbihim
   17:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   18:
-    arabic: مَقۡتًا ۚ
+    arabic: مَقۡتٗاۖ
     translation: (in) hatred
     transliteration: maqtan
   19:
@@ -84,11 +84,11 @@ word_by_word:
     translation: and not
     transliteration: walā
   20:
-    arabic: يَزِيۡدُ
+    arabic: يَزِيدُ
     translation: increase
     transliteration: yazīdu
   21:
-    arabic: الۡـكٰفِرِيۡنَ
+    arabic: ٱلۡكَٰفِرِينَ
     translation: the disbelievers
     transliteration: l-kāfirīna
   22:
@@ -96,11 +96,11 @@ word_by_word:
     translation: their disbelief
     transliteration: kuf'ruhum
   23:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   24:
-    arabic: خَسَارًا‏
+    arabic: خَسَارٗا
     translation: (in) loss
     transliteration: khasāran
 ---

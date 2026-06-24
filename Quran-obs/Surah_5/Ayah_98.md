@@ -1,43 +1,43 @@
 ---
-arabic_ayat: اِعۡلَمُوۡۤا اَنَّ اللّٰهَ شَدِيۡدُ الۡعِقَابِ وَاَنَّ اللّٰهَ غَفُوۡرٌ
-  رَّحِيۡمٌ ؕ‏
+arabic_ayat: ٱعۡلَمُوٓاْ أَنَّ ٱللَّهَ شَدِيدُ ٱلۡعِقَابِ وَأَنَّ ٱللَّهَ غَفُورٞ
+  رَّحِيمٞ
 sentence_translation: Know that Allah is severe in punishment and that He is All-Forgiving,
   Most Merciful.
 word_by_word:
   1:
-    arabic: اِعۡلَمُوۡۤا
+    arabic: ٱعۡلَمُوٓاْ
     translation: Know
     transliteration: iʿ'lamū
   2:
-    arabic: اَنَّ
+    arabic: أَنَّ
     translation: that
     transliteration: anna
   3:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   4:
-    arabic: شَدِيۡدُ
+    arabic: شَدِيدُ
     translation: (is) severe
     transliteration: shadīdu
   5:
-    arabic: الۡعِقَابِ
+    arabic: ٱلۡعِقَابِ
     translation: (in) punishment
     transliteration: l-ʿiqābi
   6:
-    arabic: وَاَنَّ
+    arabic: وَأَنَّ
     translation: and that
     transliteration: wa-anna
   7:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   8:
-    arabic: غَفُوۡرٌ
+    arabic: غَفُورٞ
     translation: (is) Oft-Forgiving
     transliteration: ghafūrun
   9:
-    arabic: رَّحِيۡمٌ ؕ‏
+    arabic: رَّحِيمٞ
     translation: Most Merciful
     transliteration: raḥīmun
 ---

@@ -1,9 +1,9 @@
 ---
-arabic_ayat: هٰذِهٖ جَهَنَّمُ الَّتِىۡ يُكَذِّبُ بِهَا الۡمُجۡرِمُوۡنَ​ۘ‏
+arabic_ayat: هَٰذِهِۦ جَهَنَّمُ ٱلَّتِي يُكَذِّبُ بِهَا ٱلۡمُجۡرِمُونَ
 sentence_translation: ˹They will be told,˺ “This is the Hell which the wicked denied.”
 word_by_word:
   1:
-    arabic: هٰذِهٖ
+    arabic: هَٰذِهِۦ
     translation: This
     transliteration: hādhihi
   2:
@@ -11,7 +11,7 @@ word_by_word:
     translation: (is) Hell
     transliteration: jahannamu
   3:
-    arabic: الَّتِىۡ
+    arabic: ٱلَّتِي
     translation: which
     transliteration: allatī
   4:
@@ -23,7 +23,7 @@ word_by_word:
     translation: '[of it]'
     transliteration: bihā
   6:
-    arabic: الۡمُجۡرِمُوۡنَ​ۘ‏
+    arabic: ٱلۡمُجۡرِمُونَ
     translation: the criminals
     transliteration: l-muj'rimūna
 ---

@@ -1,20 +1,20 @@
 ---
-arabic_ayat: وَاِنۡ كَادُوۡا لَيَـفۡتِنُوۡنَكَ عَنِ الَّذِىۡۤ اَوۡحَيۡنَاۤ اِلَيۡكَ
-  لِتَفۡتَرِىَ عَلَيۡنَا غَيۡرَهٗ​ ​ۖ  وَاِذًا لَّاتَّخَذُوۡكَ خَلِيۡلًا‏
+arabic_ayat: وَإِن كَادُواْ لَيَفۡتِنُونَكَ عَنِ ٱلَّذِيٓ أَوۡحَيۡنَآ إِلَيۡكَ لِتَفۡتَرِيَ
+  عَلَيۡنَا غَيۡرَهُۥۖ وَإِذٗا لَّٱتَّخَذُوكَ خَلِيلٗا
 sentence_translation: They definitely ˹thought they˺ were about to lure you away from
   what We have revealed to you ˹O Prophet˺, hoping that you would attribute something
   else to Us falsely—and then they would have certainly taken you as a close friend.
 word_by_word:
   1:
-    arabic: وَاِنۡ
+    arabic: وَإِن
     translation: And indeed
     transliteration: wa-in
   2:
-    arabic: كَادُوۡا
+    arabic: كَادُواْ
     translation: they were about (to)
     transliteration: kādū
   3:
-    arabic: لَيَـفۡتِنُوۡنَكَ
+    arabic: لَيَفۡتِنُونَكَ
     translation: tempt you away
     transliteration: layaftinūnaka
   4:
@@ -22,19 +22,19 @@ word_by_word:
     translation: from
     transliteration: ʿani
   5:
-    arabic: الَّذِىۡۤ
+    arabic: ٱلَّذِيٓ
     translation: that which
     transliteration: alladhī
   6:
-    arabic: اَوۡحَيۡنَاۤ
+    arabic: أَوۡحَيۡنَآ
     translation: We revealed
     transliteration: awḥaynā
   7:
-    arabic: اِلَيۡكَ
+    arabic: إِلَيۡكَ
     translation: to you
     transliteration: ilayka
   8:
-    arabic: لِتَفۡتَرِىَ
+    arabic: لِتَفۡتَرِيَ
     translation: that you invent
     transliteration: litaftariya
   9:
@@ -42,19 +42,19 @@ word_by_word:
     translation: about Us
     transliteration: ʿalaynā
   10:
-    arabic: غَيۡرَهٗ​ ​ۖ 
+    arabic: غَيۡرَهُۥۖ
     translation: other (than) it
     transliteration: ghayrahu
   11:
-    arabic: وَاِذًا
+    arabic: وَإِذٗا
     translation: And then
     transliteration: wa-idhan
   12:
-    arabic: لَّاتَّخَذُوۡكَ
+    arabic: لَّٱتَّخَذُوكَ
     translation: surely they would take you
     transliteration: la-ittakhadhūka
   13:
-    arabic: خَلِيۡلًا‏
+    arabic: خَلِيلٗا
     translation: (as) a friend
     transliteration: khalīlan
 ---

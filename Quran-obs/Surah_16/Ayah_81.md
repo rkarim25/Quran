@@ -1,14 +1,14 @@
 ---
-arabic_ayat: وَاللّٰهُ جَعَلَ لَـكُمۡ مِّمَّا خَلَقَ ظِلٰلًا وَّجَعَلَ لَـكُمۡ مِّنَ
-  الۡجِبَالِ اَكۡنَانًا وَّجَعَلَ لَـكُمۡ سَرَابِيۡلَ تَقِيۡكُمُ الۡحَـرَّ وَسَرَابِيۡلَ
-  تَقِيۡكُمۡ بَاۡسَكُمۡ​ؕ كَذٰلِكَ يُتِمُّ نِعۡمَتَهٗ عَلَيۡكُمۡ لَعَلَّكُمۡ تُسۡلِمُوۡنَ‏
+arabic_ayat: وَٱللَّهُ جَعَلَ لَكُم مِّمَّا خَلَقَ ظِلَٰلٗا وَجَعَلَ لَكُم مِّنَ ٱلۡجِبَالِ
+  أَكۡنَٰنٗا وَجَعَلَ لَكُمۡ سَرَٰبِيلَ تَقِيكُمُ ٱلۡحَرَّ وَسَرَٰبِيلَ تَقِيكُم بَأۡسَكُمۡۚ
+  كَذَٰلِكَ يُتِمُّ نِعۡمَتَهُۥ عَلَيۡكُمۡ لَعَلَّكُمۡ تُسۡلِمُونَ
 sentence_translation: And Allah has provided you shade out of what He created, and
   has given you shelter in the mountains. He has also provided you with clothes protecting
   you from the heat ˹and cold˺, and armour shielding you in battle. This is how He
   perfects His favour upon you, so perhaps you will ˹fully˺ submit ˹to Him˺.
 word_by_word:
   1:
-    arabic: وَاللّٰهُ
+    arabic: وَٱللَّهُ
     translation: And Allah
     transliteration: wal-lahu
   2:
@@ -16,7 +16,7 @@ word_by_word:
     translation: (has) made
     transliteration: jaʿala
   3:
-    arabic: لَـكُمۡ
+    arabic: لَكُم
     translation: for you
     transliteration: lakum
   4:
@@ -28,15 +28,15 @@ word_by_word:
     translation: He created
     transliteration: khalaqa
   6:
-    arabic: ظِلٰلًا
+    arabic: ظِلَٰلٗا
     translation: shades
     transliteration: ẓilālan
   7:
-    arabic: وَّجَعَلَ
+    arabic: وَجَعَلَ
     translation: and (has) made
     transliteration: wajaʿala
   8:
-    arabic: لَـكُمۡ
+    arabic: لَكُم
     translation: for you
     transliteration: lakum
   9:
@@ -44,47 +44,47 @@ word_by_word:
     translation: from
     transliteration: mina
   10:
-    arabic: الۡجِبَالِ
+    arabic: ٱلۡجِبَالِ
     translation: the mountains
     transliteration: l-jibāli
   11:
-    arabic: اَكۡنَانًا
+    arabic: أَكۡنَٰنٗا
     translation: shelters
     transliteration: aknānan
   12:
-    arabic: وَّجَعَلَ
+    arabic: وَجَعَلَ
     translation: and (has) made
     transliteration: wajaʿala
   13:
-    arabic: لَـكُمۡ
+    arabic: لَكُمۡ
     translation: for you
     transliteration: lakum
   14:
-    arabic: سَرَابِيۡلَ
+    arabic: سَرَٰبِيلَ
     translation: garments
     transliteration: sarābīla
   15:
-    arabic: تَقِيۡكُمُ
+    arabic: تَقِيكُمُ
     translation: to protect you
     transliteration: taqīkumu
   16:
-    arabic: الۡحَـرَّ
+    arabic: ٱلۡحَرَّ
     translation: (from) the heat
     transliteration: l-ḥara
   17:
-    arabic: وَسَرَابِيۡلَ
+    arabic: وَسَرَٰبِيلَ
     translation: and garments
     transliteration: wasarābīla
   18:
-    arabic: تَقِيۡكُمۡ
+    arabic: تَقِيكُم
     translation: to protect you
     transliteration: taqīkum
   19:
-    arabic: بَاۡسَكُمۡ​ؕ
+    arabic: بَأۡسَكُمۡۚ
     translation: from your (mutual) violence
     transliteration: basakum
   20:
-    arabic: كَذٰلِكَ
+    arabic: كَذَٰلِكَ
     translation: Thus
     transliteration: kadhālika
   21:
@@ -92,7 +92,7 @@ word_by_word:
     translation: He completes
     transliteration: yutimmu
   22:
-    arabic: نِعۡمَتَهٗ
+    arabic: نِعۡمَتَهُۥ
     translation: His Favor
     transliteration: niʿ'matahu
   23:
@@ -104,7 +104,7 @@ word_by_word:
     translation: so that you may
     transliteration: laʿallakum
   25:
-    arabic: تُسۡلِمُوۡنَ‏
+    arabic: تُسۡلِمُونَ
     translation: submit
     transliteration: tus'limūna
 ---

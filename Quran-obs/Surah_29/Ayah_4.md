@@ -1,11 +1,11 @@
 ---
-arabic_ayat: اَمۡ حَسِبَ الَّذِيۡنَ يَعۡمَلُوۡنَ السَّيِّاٰتِ اَنۡ يَّسۡبِقُوۡنَا​
-  ؕ سَآءَ مَا يَحۡكُمُوۡنَ‏
+arabic_ayat: أَمۡ حَسِبَ ٱلَّذِينَ يَعۡمَلُونَ ٱلسَّيِّـَٔاتِ أَن يَسۡبِقُونَاۚ سَآءَ
+  مَا يَحۡكُمُونَ
 sentence_translation: Or do the evildoers ˹simply˺ think that they will escape Us?
   How wrong is their judgment!
 word_by_word:
   1:
-    arabic: اَمۡ
+    arabic: أَمۡ
     translation: Or
     transliteration: am
   2:
@@ -13,23 +13,23 @@ word_by_word:
     translation: think
     transliteration: ḥasiba
   3:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   4:
-    arabic: يَعۡمَلُوۡنَ
+    arabic: يَعۡمَلُونَ
     translation: do
     transliteration: yaʿmalūna
   5:
-    arabic: السَّيِّاٰتِ
+    arabic: ٱلسَّيِّـَٔاتِ
     translation: evil deeds
     transliteration: l-sayiāti
   6:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that
     transliteration: an
   7:
-    arabic: يَّسۡبِقُوۡنَا​ ؕ
+    arabic: يَسۡبِقُونَاۚ
     translation: they can outrun Us
     transliteration: yasbiqūnā
   8:
@@ -41,7 +41,7 @@ word_by_word:
     translation: what
     transliteration: mā
   10:
-    arabic: يَحۡكُمُوۡنَ‏
+    arabic: يَحۡكُمُونَ
     translation: they judge
     transliteration: yaḥkumūna
 ---

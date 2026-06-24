@@ -1,7 +1,6 @@
 ---
-arabic_ayat: "قَالَ بَلۡ سَوَّلَتۡ لَـكُمۡ اَنۡفُسُكُمۡ اَمۡرًا​ؕ فَصَبۡرٌ جَمِيۡلٌ​ؕ\
-  \ عَسَى اللّٰهُ اَنۡ يَّاۡتِيَنِىۡ بِهِمۡ جَمِيۡعًا​ؕ اِنَّهٗ هُوَ الۡعَلِيۡمُ الۡحَكِيۡمُ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: قَالَ بَلۡ سَوَّلَتۡ لَكُمۡ أَنفُسُكُمۡ أَمۡرٗاۖ فَصَبۡرٞ جَمِيلٌۖ عَسَى
+  ٱللَّهُ أَن يَأۡتِيَنِي بِهِمۡ جَمِيعًاۚ إِنَّهُۥ هُوَ ٱلۡعَلِيمُ ٱلۡحَكِيمُ
 sentence_translation: He cried, “No! Your souls must have tempted you to do something
   ˹evil˺. So ˹I am left with nothing but˺ beautiful patience! I trust Allah will return
   them all to me. Surely He ˹alone˺ is the All-Knowing, All-Wise.”
@@ -19,23 +18,23 @@ word_by_word:
     translation: have enticed
     transliteration: sawwalat
   4:
-    arabic: لَـكُمۡ
+    arabic: لَكُمۡ
     translation: you
     transliteration: lakum
   5:
-    arabic: اَنۡفُسُكُمۡ
+    arabic: أَنفُسُكُمۡ
     translation: your souls
     transliteration: anfusukum
   6:
-    arabic: اَمۡرًا​ؕ
+    arabic: أَمۡرٗاۖ
     translation: something
     transliteration: amran
   7:
-    arabic: فَصَبۡرٌ
+    arabic: فَصَبۡرٞ
     translation: so patience
     transliteration: faṣabrun
   8:
-    arabic: جَمِيۡلٌ​ؕ
+    arabic: جَمِيلٌۖ
     translation: (is) beautiful
     transliteration: jamīlun
   9:
@@ -43,15 +42,15 @@ word_by_word:
     translation: Perhaps
     transliteration: ʿasā
   10:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   11:
-    arabic: اَنۡ
+    arabic: أَن
     translation: will bring them to me
     transliteration: an
   12:
-    arabic: يَّاۡتِيَنِىۡ
+    arabic: يَأۡتِيَنِي
     translation: will bring them to me
     transliteration: yatiyanī
   13:
@@ -59,11 +58,11 @@ word_by_word:
     translation: will bring them to me
     transliteration: bihim
   14:
-    arabic: جَمِيۡعًا​ؕ
+    arabic: جَمِيعًاۚ
     translation: all
     transliteration: jamīʿan
   15:
-    arabic: اِنَّهٗ
+    arabic: إِنَّهُۥ
     translation: Indeed, He
     transliteration: innahu
   16:
@@ -71,11 +70,11 @@ word_by_word:
     translation: He
     transliteration: huwa
   17:
-    arabic: الۡعَلِيۡمُ
+    arabic: ٱلۡعَلِيمُ
     translation: (is) the All-Knower
     transliteration: l-ʿalīmu
   18:
-    arabic: "الۡحَكِيۡمُ‏ \uFEFF\uFEFF"
+    arabic: ٱلۡحَكِيمُ
     translation: All-Wise
     transliteration: l-ḥakīmu
 ---

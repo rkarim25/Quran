@@ -1,6 +1,6 @@
 ---
-arabic_ayat: يَوۡمَ يَاۡتِ لَا تَكَلَّمُ نَفۡسٌ اِلَّا بِاِذۡنِهٖ​ۚ فَمِنۡهُمۡ شَقِىٌّ
-  وَّسَعِيۡدٌ‏
+arabic_ayat: يَوۡمَ يَأۡتِ لَا تَكَلَّمُ نَفۡسٌ إِلَّا بِإِذۡنِهِۦۚ فَمِنۡهُمۡ شَقِيّٞ
+  وَسَعِيدٞ
 sentence_translation: When that Day arrives, no one will dare speak except with His
   permission. Some of them will be miserable, others joyful.
 word_by_word:
@@ -9,7 +9,7 @@ word_by_word:
     translation: (The) Day
     transliteration: yawma
   2:
-    arabic: يَاۡتِ
+    arabic: يَأۡتِ
     translation: (it) comes
     transliteration: yati
   3:
@@ -25,11 +25,11 @@ word_by_word:
     translation: a soul
     transliteration: nafsun
   6:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   7:
-    arabic: بِاِذۡنِهٖ​ۚ
+    arabic: بِإِذۡنِهِۦۚ
     translation: by His leave
     transliteration: bi-idh'nihi
   8:
@@ -37,11 +37,11 @@ word_by_word:
     translation: Then among them
     transliteration: famin'hum
   9:
-    arabic: شَقِىٌّ
+    arabic: شَقِيّٞ
     translation: (will be the) wretched
     transliteration: shaqiyyun
   10:
-    arabic: وَّسَعِيۡدٌ‏
+    arabic: وَسَعِيدٞ
     translation: and (the) glad
     transliteration: wasaʿīdun
 ---

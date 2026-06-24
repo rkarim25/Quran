@@ -1,52 +1,52 @@
 ---
-arabic_ayat: بَدِيۡعُ السَّمٰوٰتِ وَالۡاَرۡضِ​ؕ اَنّٰى يَكُوۡنُ لَهٗ وَلَدٌ وَّلَمۡ
-  تَكُنۡ لَّهٗ صَاحِبَةٌ​ ؕ وَخَلَقَ كُلَّ شَىۡءٍ​ ۚ وَهُوَ بِكُلِّ شَىۡءٍ عَلِيۡمٌ‏
+arabic_ayat: بَدِيعُ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِۖ أَنَّىٰ يَكُونُ لَهُۥ وَلَدٞ وَلَمۡ
+  تَكُن لَّهُۥ صَٰحِبَةٞۖ وَخَلَقَ كُلَّ شَيۡءٖۖ وَهُوَ بِكُلِّ شَيۡءٍ عَلِيمٞ
 sentence_translation: ˹He is˺ the Originator of the heavens and earth. How could He
   have children when He has no mate? He created all things and has ˹perfect˺ knowledge
   of everything.
 word_by_word:
   1:
-    arabic: بَدِيۡعُ
+    arabic: بَدِيعُ
     translation: Originator
     transliteration: badīʿu
   2:
-    arabic: السَّمٰوٰتِ
+    arabic: ٱلسَّمَٰوَٰتِ
     translation: (of) the heavens
     transliteration: l-samāwāti
   3:
-    arabic: وَالۡاَرۡضِ​ؕ
+    arabic: وَٱلۡأَرۡضِۖ
     translation: and the earth
     transliteration: wal-arḍi
   4:
-    arabic: اَنّٰى
+    arabic: أَنَّىٰ
     translation: How
     transliteration: annā
   5:
-    arabic: يَكُوۡنُ
+    arabic: يَكُونُ
     translation: can be
     transliteration: yakūnu
   6:
-    arabic: لَهٗ
+    arabic: لَهُۥ
     translation: for Him
     transliteration: lahu
   7:
-    arabic: وَلَدٌ
+    arabic: وَلَدٞ
     translation: a son
     transliteration: waladun
   8:
-    arabic: وَّلَمۡ
+    arabic: وَلَمۡ
     translation: while not
     transliteration: walam
   9:
-    arabic: تَكُنۡ
+    arabic: تَكُن
     translation: (there) is
     transliteration: takun
   10:
-    arabic: لَّهٗ
+    arabic: لَّهُۥ
     translation: for Him
     transliteration: lahu
   11:
-    arabic: صَاحِبَةٌ​ ؕ
+    arabic: صَٰحِبَةٞۖ
     translation: a companion
     transliteration: ṣāḥibatun
   12:
@@ -58,7 +58,7 @@ word_by_word:
     translation: every
     transliteration: kulla
   14:
-    arabic: شَىۡءٍ​ ۚ
+    arabic: شَيۡءٖۖ
     translation: thing
     transliteration: shayin
   15:
@@ -70,11 +70,11 @@ word_by_word:
     translation: (is) of every
     transliteration: bikulli
   17:
-    arabic: شَىۡءٍ
+    arabic: شَيۡءٍ
     translation: thing
     transliteration: shayin
   18:
-    arabic: عَلِيۡمٌ‏
+    arabic: عَلِيمٞ
     translation: All-Knower
     transliteration: ʿalīmun
 ---

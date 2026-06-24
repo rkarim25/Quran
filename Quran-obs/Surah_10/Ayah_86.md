@@ -1,5 +1,5 @@
 ---
-arabic_ayat: وَنَجِّنَا بِرَحۡمَتِكَ مِنَ الۡقَوۡمِ الۡكٰفِرِيۡنَ‏
+arabic_ayat: وَنَجِّنَا بِرَحۡمَتِكَ مِنَ ٱلۡقَوۡمِ ٱلۡكَٰفِرِينَ
 sentence_translation: and deliver us by Your mercy from the disbelieving people.”
 word_by_word:
   1:
@@ -15,11 +15,11 @@ word_by_word:
     translation: from
     transliteration: mina
   4:
-    arabic: الۡقَوۡمِ
+    arabic: ٱلۡقَوۡمِ
     translation: 'the people '
     transliteration: l-qawmi
   5:
-    arabic: الۡكٰفِرِيۡنَ‏
+    arabic: ٱلۡكَٰفِرِينَ
     translation: the disbelievers
     transliteration: l-kāfirīna
 ---

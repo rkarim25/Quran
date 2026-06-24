@@ -1,13 +1,13 @@
 ---
-arabic_ayat: وَاسۡتَفۡزِزۡ مَنِ اسۡتَطَعۡتَ مِنۡهُمۡ بِصَوۡتِكَ وَاَجۡلِبۡ عَلَيۡهِمۡ
-  بِخَيۡلِكَ وَرَجِلِكَ وَشَارِكۡهُمۡ فِى الۡاَمۡوَالِ وَالۡاَوۡلَادِ وَعِدۡهُمۡ​
-  ؕ وَمَا يَعِدُهُمُ الشَّيۡطٰنُ اِلَّا غُرُوۡرًا‏
+arabic_ayat: وَٱسۡتَفۡزِزۡ مَنِ ٱسۡتَطَعۡتَ مِنۡهُم بِصَوۡتِكَ وَأَجۡلِبۡ عَلَيۡهِم
+  بِخَيۡلِكَ وَرَجِلِكَ وَشَارِكۡهُمۡ فِي ٱلۡأَمۡوَٰلِ وَٱلۡأَوۡلَٰدِ وَعِدۡهُمۡۚ
+  وَمَا يَعِدُهُمُ ٱلشَّيۡطَٰنُ إِلَّا غُرُورًا
 sentence_translation: And incite whoever you can of them with your voice, mobilize
   against them all your cavalry and infantry, manipulate them in their wealth and
   children, and make them promises.” But Satan promises them nothing but delusion.
 word_by_word:
   1:
-    arabic: وَاسۡتَفۡزِزۡ
+    arabic: وَٱسۡتَفۡزِزۡ
     translation: And incite
     transliteration: wa-is'tafziz
   2:
@@ -15,11 +15,11 @@ word_by_word:
     translation: whoever
     transliteration: mani
   3:
-    arabic: اسۡتَطَعۡتَ
+    arabic: ٱسۡتَطَعۡتَ
     translation: you can
     transliteration: is'taṭaʿta
   4:
-    arabic: مِنۡهُمۡ
+    arabic: مِنۡهُم
     translation: among them
     transliteration: min'hum
   5:
@@ -27,11 +27,11 @@ word_by_word:
     translation: with your voice
     transliteration: biṣawtika
   6:
-    arabic: وَاَجۡلِبۡ
+    arabic: وَأَجۡلِبۡ
     translation: and assault
     transliteration: wa-ajlib
   7:
-    arabic: عَلَيۡهِمۡ
+    arabic: عَلَيۡهِم
     translation: '[on] them'
     transliteration: ʿalayhim
   8:
@@ -47,19 +47,19 @@ word_by_word:
     translation: and be a partner
     transliteration: washārik'hum
   11:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   12:
-    arabic: الۡاَمۡوَالِ
+    arabic: ٱلۡأَمۡوَٰلِ
     translation: the wealth
     transliteration: l-amwāli
   13:
-    arabic: وَالۡاَوۡلَادِ
+    arabic: وَٱلۡأَوۡلَٰدِ
     translation: and the children
     transliteration: wal-awlādi
   14:
-    arabic: وَعِدۡهُمۡ​ ؕ
+    arabic: وَعِدۡهُمۡۚ
     translation: and promise them
     transliteration: waʿid'hum
   15:
@@ -71,15 +71,15 @@ word_by_word:
     translation: promises them
     transliteration: yaʿiduhumu
   17:
-    arabic: الشَّيۡطٰنُ
+    arabic: ٱلشَّيۡطَٰنُ
     translation: the Shaitaan
     transliteration: l-shayṭānu
   18:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   19:
-    arabic: غُرُوۡرًا‏
+    arabic: غُرُورًا
     translation: delusion
     transliteration: ghurūran
 ---

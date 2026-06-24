@@ -1,8 +1,8 @@
 ---
-arabic_ayat: وَبَشِّرِ الَّذِيۡنَ اٰمَنُوۡا وَ عَمِلُوا الصّٰلِحٰتِ اَنَّ لَهُمۡ جَنّٰتٍ
-  تَجۡرِىۡ مِنۡ تَحۡتِهَا الۡاَنۡهٰرُ​ؕ ڪُلَّمَا رُزِقُوۡا مِنۡهَا مِنۡ ثَمَرَةٍ رِّزۡقًا
-  ​ۙ قَالُوۡا هٰذَا الَّذِىۡ رُزِقۡنَا مِنۡ قَبۡلُ وَاُتُوۡا بِهٖ مُتَشَابِهًا ​ؕ
-  وَلَهُمۡ فِيۡهَآ اَزۡوَاجٌ مُّطَهَّرَةٌ ​ۙ وَّهُمۡ فِيۡهَا خٰلِدُوۡنَ‏
+arabic_ayat: وَبَشِّرِ ٱلَّذِينَ ءَامَنُواْ وَعَمِلُواْ ٱلصَّٰلِحَٰتِ أَنَّ لَهُمۡ
+  جَنَّٰتٖ تَجۡرِي مِن تَحۡتِهَا ٱلۡأَنۡهَٰرُۖ كُلَّمَا رُزِقُواْ مِنۡهَا مِن ثَمَرَةٖ
+  رِّزۡقٗا قَالُواْ هَٰذَا ٱلَّذِي رُزِقۡنَا مِن قَبۡلُۖ وَأُتُواْ بِهِۦ مُتَشَٰبِهٗاۖ
+  وَلَهُمۡ فِيهَآ أَزۡوَٰجٞ مُّطَهَّرَةٞۖ وَهُمۡ فِيهَا خَٰلِدُونَ
 sentence_translation: Give good news ˹O Prophet˺ to those who believe and do good
   that they will have Gardens under which rivers flow. Whenever provided with fruit,
   they will say, “This is what we were given before,” for they will be served fruit
@@ -14,23 +14,23 @@ word_by_word:
     translation: And give good news
     transliteration: wabashiri
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ ءَ
     translation: (to) those who
     transliteration: alladhīna
   3:
-    arabic: اٰمَنُوۡا
+    arabic: امَنُواْ
     translation: believe
     transliteration: āmanū
   4:
-    arabic: وَ عَمِلُوا
+    arabic: وَعَمِلُواْ
     translation: and do
     transliteration: waʿamilū
   5:
-    arabic: الصّٰلِحٰتِ
+    arabic: ٱلصَّٰلِحَٰتِ
     translation: '[the] righteous deeds'
     transliteration: l-ṣāliḥāti
   6:
-    arabic: اَنَّ
+    arabic: أَنَّ
     translation: that
     transliteration: anna
   7:
@@ -38,15 +38,15 @@ word_by_word:
     translation: for them
     transliteration: lahum
   8:
-    arabic: جَنّٰتٍ
+    arabic: جَنَّٰتٖ
     translation: (will be) Gardens
     transliteration: jannātin
   9:
-    arabic: تَجۡرِىۡ
+    arabic: تَجۡرِي
     translation: flow
     transliteration: tajrī
   10:
-    arabic: مِنۡ
+    arabic: مِن
     translation: '[from]'
     transliteration: min
   11:
@@ -54,15 +54,15 @@ word_by_word:
     translation: under them
     transliteration: taḥtihā
   12:
-    arabic: الۡاَنۡهٰرُ​ؕ
+    arabic: ٱلۡأَنۡهَٰرُۖ
     translation: the rivers
     transliteration: l-anhāru
   13:
-    arabic: ڪُلَّمَا
+    arabic: كُلَّمَا
     translation: Every time
     transliteration: kullamā
   14:
-    arabic: رُزِقُوۡا
+    arabic: رُزِقُواْ
     translation: they are provided
     transliteration: ruziqū
   15:
@@ -70,27 +70,27 @@ word_by_word:
     translation: therefrom
     transliteration: min'hā
   16:
-    arabic: مِنۡ
+    arabic: مِن
     translation: of
     transliteration: min
   17:
-    arabic: ثَمَرَةٍ
+    arabic: ثَمَرَةٖ
     translation: fruit
     transliteration: thamaratin
   18:
-    arabic: رِّزۡقًا ​ۙ
+    arabic: رِّزۡقٗا
     translation: (as) provision
     transliteration: riz'qan
   19:
-    arabic: قَالُوۡا
+    arabic: قَالُواْ
     translation: they (will) say
     transliteration: qālū
   20:
-    arabic: هٰذَا
+    arabic: هَٰذَا
     translation: This (is)
     transliteration: hādhā
   21:
-    arabic: الَّذِىۡ
+    arabic: ٱلَّذِي
     translation: the one which
     transliteration: alladhī
   22:
@@ -98,23 +98,23 @@ word_by_word:
     translation: we were provided
     transliteration: ruziq'nā
   23:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   24:
-    arabic: قَبۡلُ
+    arabic: قَبۡلُۖ
     translation: before
     transliteration: qablu
   25:
-    arabic: وَاُتُوۡا
+    arabic: وَأُتُواْ
     translation: And they will be given
     transliteration: wa-utū
   26:
-    arabic: بِهٖ
+    arabic: بِهِۦ
     translation: therefrom
     transliteration: bihi
   27:
-    arabic: مُتَشَابِهًا ​ؕ
+    arabic: مُتَشَٰبِهٗاۖ
     translation: (things) in resemblance
     transliteration: mutashābihan
   28:
@@ -122,27 +122,27 @@ word_by_word:
     translation: And for them
     transliteration: walahum
   29:
-    arabic: فِيۡهَآ
+    arabic: فِيهَآ
     translation: therein
     transliteration: fīhā
   30:
-    arabic: اَزۡوَاجٌ
+    arabic: أَزۡوَٰجٞ
     translation: spouses
     transliteration: azwājun
   31:
-    arabic: مُّطَهَّرَةٌ ​ۙ
+    arabic: مُّطَهَّرَةٞۖ
     translation: purified
     transliteration: muṭahharatun
   32:
-    arabic: وَّهُمۡ
+    arabic: وَهُمۡ
     translation: and they
     transliteration: wahum
   33:
-    arabic: فِيۡهَا
+    arabic: فِيهَا
     translation: therein
     transliteration: fīhā
   34:
-    arabic: خٰلِدُوۡنَ‏
+    arabic: خَٰلِدُونَ
     translation: (will) abide forever
     transliteration: khālidūna
 ---

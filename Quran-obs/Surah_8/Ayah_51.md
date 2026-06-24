@@ -1,11 +1,11 @@
 ---
-arabic_ayat: "ذٰلِكَ بِمَا قَدَّمَتۡ اَيۡدِيۡكُمۡ وَاَنَّ اللّٰهَ لَـيۡسَ بِظَلَّامٍ\
-  \ لِّـلۡعَبِيۡدِۙ‏ \uFEFF\uFEFF"
+arabic_ayat: ذَٰلِكَ بِمَا قَدَّمَتۡ أَيۡدِيكُمۡ وَأَنَّ ٱللَّهَ لَيۡسَ بِظَلَّٰمٖ
+  لِّلۡعَبِيدِ
 sentence_translation: This is ˹the reward˺ for what your hands have done. And Allah
   is never unjust to ˹His˺ creation.”
 word_by_word:
   1:
-    arabic: ذٰلِكَ
+    arabic: ذَٰلِكَ
     translation: That
     transliteration: dhālika
   2:
@@ -17,27 +17,27 @@ word_by_word:
     translation: sent forth
     transliteration: qaddamat
   4:
-    arabic: اَيۡدِيۡكُمۡ
+    arabic: أَيۡدِيكُمۡ
     translation: your hands
     transliteration: aydīkum
   5:
-    arabic: وَاَنَّ
+    arabic: وَأَنَّ
     translation: And indeed
     transliteration: wa-anna
   6:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   7:
-    arabic: لَـيۡسَ
+    arabic: لَيۡسَ
     translation: (is) not
     transliteration: laysa
   8:
-    arabic: بِظَلَّامٍ
+    arabic: بِظَلَّٰمٖ
     translation: unjust
     transliteration: biẓallāmin
   9:
-    arabic: "لِّـلۡعَبِيۡدِۙ‏ \uFEFF\uFEFF"
+    arabic: لِّلۡعَبِيدِ
     translation: to His slaves
     transliteration: lil'ʿabīdi
 ---

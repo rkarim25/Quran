@@ -1,11 +1,11 @@
 ---
-arabic_ayat: اِنِّىۡ وَجَدتُّ امۡرَاَةً تَمۡلِكُهُمۡ وَاُوۡتِيَتۡ مِنۡ كُلِّ شَىۡءٍ
-  وَّلَهَا عَرۡشٌ عَظِيۡمٌ‏
+arabic_ayat: إِنِّي وَجَدتُّ ٱمۡرَأَةٗ تَمۡلِكُهُمۡ وَأُوتِيَتۡ مِن كُلِّ شَيۡءٖ وَلَهَا
+  عَرۡشٌ عَظِيمٞ
 sentence_translation: Indeed, I found a woman ruling over them, who has been given
   everything ˹she needs˺, and who has a magnificent throne.
 word_by_word:
   1:
-    arabic: اِنِّىۡ
+    arabic: إِنِّي
     translation: Indeed, I
     transliteration: innī
   2:
@@ -13,7 +13,7 @@ word_by_word:
     translation: found
     transliteration: wajadttu
   3:
-    arabic: امۡرَاَةً
+    arabic: ٱمۡرَأَةٗ
     translation: a woman
     transliteration: im'ra-atan
   4:
@@ -21,11 +21,11 @@ word_by_word:
     translation: ruling them
     transliteration: tamlikuhum
   5:
-    arabic: وَاُوۡتِيَتۡ
+    arabic: وَأُوتِيَتۡ
     translation: and she has been given
     transliteration: waūtiyat
   6:
-    arabic: مِنۡ
+    arabic: مِن
     translation: of
     transliteration: min
   7:
@@ -33,11 +33,11 @@ word_by_word:
     translation: every
     transliteration: kulli
   8:
-    arabic: شَىۡءٍ
+    arabic: شَيۡءٖ
     translation: thing
     transliteration: shayin
   9:
-    arabic: وَّلَهَا
+    arabic: وَلَهَا
     translation: and for her
     transliteration: walahā
   10:
@@ -45,7 +45,7 @@ word_by_word:
     translation: (is) a throne
     transliteration: ʿarshun
   11:
-    arabic: عَظِيۡمٌ‏
+    arabic: عَظِيمٞ
     translation: great
     transliteration: ʿaẓīmun
 ---

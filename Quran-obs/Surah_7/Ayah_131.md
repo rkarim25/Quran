@@ -1,13 +1,13 @@
 ---
-arabic_ayat: فَاِذَا جَآءَتۡهُمُ الۡحَسَنَةُ قَالُوۡا لَـنَا هٰذِهٖ​ ۚ وَاِنۡ تُصِبۡهُمۡ
-  سَيِّئَةٌ يَّطَّيَّرُوۡا بِمُوۡسٰى وَمَنۡ مَّعَهٗ​ ؕ اَلَاۤ اِنَّمَا طٰٓٮِٕرُهُمۡ
-  عِنۡدَ اللّٰهِ وَلٰـكِنَّ اَكۡثَرَهُمۡ لَا يَعۡلَمُوۡنَ‏
+arabic_ayat: فَإِذَا جَآءَتۡهُمُ ٱلۡحَسَنَةُ قَالُواْ لَنَا هَٰذِهِۦۖ وَإِن تُصِبۡهُمۡ
+  سَيِّئَةٞ يَطَّيَّرُواْ بِمُوسَىٰ وَمَن مَّعَهُۥٓۗ أَلَآ إِنَّمَا طَٰٓئِرُهُمۡ
+  عِندَ ٱللَّهِ وَلَٰكِنَّ أَكۡثَرَهُمۡ لَا يَعۡلَمُونَ
 sentence_translation: In times of prosperity, they said, “This is what we deserve,”
   but in adversity, they blamed it on Moses and those with him. Surely all is destined
   by Allah. Yet most of them did not know.
 word_by_word:
   1:
-    arabic: فَاِذَا
+    arabic: فَإِذَا
     translation: But when
     transliteration: fa-idhā
   2:
@@ -15,23 +15,23 @@ word_by_word:
     translation: came to them
     transliteration: jāathumu
   3:
-    arabic: الۡحَسَنَةُ
+    arabic: ٱلۡحَسَنَةُ
     translation: the good
     transliteration: l-ḥasanatu
   4:
-    arabic: قَالُوۡا
+    arabic: قَالُواْ
     translation: they said
     transliteration: qālū
   5:
-    arabic: لَـنَا
+    arabic: لَنَا
     translation: For us
     transliteration: lanā
   6:
-    arabic: هٰذِهٖ​ ۚ
+    arabic: هَٰذِهِۦۖ
     translation: (is) this
     transliteration: hādhihi
   7:
-    arabic: وَاِنۡ
+    arabic: وَإِن
     translation: And if
     transliteration: wa-in
   8:
@@ -39,51 +39,51 @@ word_by_word:
     translation: afflicts them
     transliteration: tuṣib'hum
   9:
-    arabic: سَيِّئَةٌ
+    arabic: سَيِّئَةٞ
     translation: bad
     transliteration: sayyi-atun
   10:
-    arabic: يَّطَّيَّرُوۡا
+    arabic: يَطَّيَّرُواْ
     translation: they ascribe evil omens
     transliteration: yaṭṭayyarū
   11:
-    arabic: بِمُوۡسٰى
+    arabic: بِمُوسَىٰ
     translation: to Musa
     transliteration: bimūsā
   12:
-    arabic: وَمَنۡ
+    arabic: وَمَن
     translation: and who
     transliteration: waman
   13:
-    arabic: مَّعَهٗ​ ؕ
+    arabic: مَّعَهُۥٓۗ
     translation: (were) with him
     transliteration: maʿahu
   14:
-    arabic: اَلَاۤ
+    arabic: أَلَآ
     translation: Behold
     transliteration: alā
   15:
-    arabic: اِنَّمَا
+    arabic: إِنَّمَا
     translation: Only
     transliteration: innamā
   16:
-    arabic: طٰٓٮِٕرُهُمۡ
+    arabic: طَٰٓئِرُهُمۡ
     translation: their evil omens
     transliteration: ṭāiruhum
   17:
-    arabic: عِنۡدَ
+    arabic: عِندَ
     translation: (are) with
     transliteration: ʿinda
   18:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   19:
-    arabic: وَلٰـكِنَّ
+    arabic: وَلَٰكِنَّ
     translation: but
     transliteration: walākinna
   20:
-    arabic: اَكۡثَرَهُمۡ
+    arabic: أَكۡثَرَهُمۡ
     translation: most of them
     transliteration: aktharahum
   21:
@@ -91,7 +91,7 @@ word_by_word:
     translation: (do) not
     transliteration: lā
   22:
-    arabic: يَعۡلَمُوۡنَ‏
+    arabic: يَعۡلَمُونَ
     translation: know
     transliteration: yaʿlamūna
 ---

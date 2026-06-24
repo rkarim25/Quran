@@ -1,6 +1,6 @@
 ---
-arabic_ayat: وَمَا لَـكُمۡ لَا تُؤۡمِنُوۡنَ بِاللّٰهِ​ۚ وَالرَّسُوۡلُ يَدۡعُوۡكُمۡ
-  لِتُؤۡمِنُوۡا بِرَبِّكُمۡ وَقَدۡ اَخَذَ مِيۡثَاقَكُمۡ اِنۡ كُنۡتُمۡ مُّؤۡمِنِيۡنَ‏
+arabic_ayat: وَمَا لَكُمۡ لَا تُؤۡمِنُونَ بِٱللَّهِ وَٱلرَّسُولُ يَدۡعُوكُمۡ لِتُؤۡمِنُواْ
+  بِرَبِّكُمۡ وَقَدۡ أَخَذَ مِيثَٰقَكُمۡ إِن كُنتُم مُّؤۡمِنِينَ
 sentence_translation: Why do you not believe in Allah while the Messenger is inviting
   you to have faith in your Lord, although He has already taken your covenant, if
   you will ever believe.
@@ -10,7 +10,7 @@ word_by_word:
     translation: And what
     transliteration: wamā
   2:
-    arabic: لَـكُمۡ
+    arabic: لَكُمۡ
     translation: (is) for you
     transliteration: lakum
   3:
@@ -18,23 +18,23 @@ word_by_word:
     translation: (that) not
     transliteration: lā
   4:
-    arabic: تُؤۡمِنُوۡنَ
+    arabic: تُؤۡمِنُونَ
     translation: you believe
     transliteration: tu'minūna
   5:
-    arabic: بِاللّٰهِ​ۚ
+    arabic: بِٱللَّهِ
     translation: in Allah
     transliteration: bil-lahi
   6:
-    arabic: وَالرَّسُوۡلُ
+    arabic: وَٱلرَّسُولُ
     translation: while the Messenger
     transliteration: wal-rasūlu
   7:
-    arabic: يَدۡعُوۡكُمۡ
+    arabic: يَدۡعُوكُمۡ
     translation: calls you
     transliteration: yadʿūkum
   8:
-    arabic: لِتُؤۡمِنُوۡا
+    arabic: لِتُؤۡمِنُواْ
     translation: that you believe
     transliteration: litu'minū
   9:
@@ -46,23 +46,23 @@ word_by_word:
     translation: and indeed
     transliteration: waqad
   11:
-    arabic: اَخَذَ
+    arabic: أَخَذَ
     translation: He has taken
     transliteration: akhadha
   12:
-    arabic: مِيۡثَاقَكُمۡ
+    arabic: مِيثَٰقَكُمۡ
     translation: your covenant
     transliteration: mīthāqakum
   13:
-    arabic: اِنۡ
+    arabic: إِن
     translation: if
     transliteration: in
   14:
-    arabic: كُنۡتُمۡ
+    arabic: كُنتُم
     translation: you are
     transliteration: kuntum
   15:
-    arabic: مُّؤۡمِنِيۡنَ‏
+    arabic: مُّؤۡمِنِينَ
     translation: believers
     transliteration: mu'minīna
 ---

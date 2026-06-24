@@ -1,13 +1,13 @@
 ---
-arabic_ayat: اِنَّمَا كَانَ قَوۡلَ الۡمُؤۡمِنِيۡنَ اِذَا دُعُوۡۤا اِلَى اللّٰهِ وَرَسُوۡلِهٖ
-  لِيَحۡكُمَ بَيۡنَهُمۡ اَنۡ يَّقُوۡلُوۡا سَمِعۡنَا وَاَطَعۡنَا​ؕ وَاُولٰٓٮِٕكَ هُمُ
-  الۡمُفۡلِحُوۡنَ‏
+arabic_ayat: إِنَّمَا كَانَ قَوۡلَ ٱلۡمُؤۡمِنِينَ إِذَا دُعُوٓاْ إِلَى ٱللَّهِ وَرَسُولِهِۦ
+  لِيَحۡكُمَ بَيۡنَهُمۡ أَن يَقُولُواْ سَمِعۡنَا وَأَطَعۡنَاۚ وَأُوْلَٰٓئِكَ هُمُ
+  ٱلۡمُفۡلِحُونَ
 sentence_translation: The only response of the ˹true˺ believers, when they are called
   to Allah and His Messenger so he may judge between them, is to say, “We hear and
   obey.” It is they who will ˹truly˺ succeed.
 word_by_word:
   1:
-    arabic: اِنَّمَا
+    arabic: إِنَّمَا
     translation: Only
     transliteration: innamā
   2:
@@ -19,27 +19,27 @@ word_by_word:
     translation: (the) statement
     transliteration: qawla
   4:
-    arabic: الۡمُؤۡمِنِيۡنَ
+    arabic: ٱلۡمُؤۡمِنِينَ
     translation: (of) the believers
     transliteration: l-mu'minīna
   5:
-    arabic: اِذَا
+    arabic: إِذَا
     translation: when
     transliteration: idhā
   6:
-    arabic: دُعُوۡۤا
+    arabic: دُعُوٓاْ
     translation: they are called
     transliteration: duʿū
   7:
-    arabic: اِلَى
+    arabic: إِلَى
     translation: to
     transliteration: ilā
   8:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   9:
-    arabic: وَرَسُوۡلِهٖ
+    arabic: وَرَسُولِهِۦ
     translation: and His Messenger
     transliteration: warasūlihi
   10:
@@ -51,11 +51,11 @@ word_by_word:
     translation: between them
     transliteration: baynahum
   12:
-    arabic: اَنۡ
+    arabic: أَن
     translation: (is) that
     transliteration: an
   13:
-    arabic: يَّقُوۡلُوۡا
+    arabic: يَقُولُواْ
     translation: they say
     transliteration: yaqūlū
   14:
@@ -63,11 +63,11 @@ word_by_word:
     translation: We hear
     transliteration: samiʿ'nā
   15:
-    arabic: وَاَطَعۡنَا​ؕ
+    arabic: وَأَطَعۡنَاۚ
     translation: and we obey
     transliteration: wa-aṭaʿnā
   16:
-    arabic: وَاُولٰٓٮِٕكَ
+    arabic: وَأُوْلَٰٓئِكَ
     translation: And those
     transliteration: wa-ulāika
   17:
@@ -75,7 +75,7 @@ word_by_word:
     translation: '[they]'
     transliteration: humu
   18:
-    arabic: الۡمُفۡلِحُوۡنَ‏
+    arabic: ٱلۡمُفۡلِحُونَ
     translation: (are) the successful
     transliteration: l-muf'liḥūna
 ---

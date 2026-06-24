@@ -1,14 +1,14 @@
 ---
-arabic_ayat: يَوۡمَٮِٕذٍ تُعۡرَضُوۡنَ لَا تَخۡفٰى مِنۡكُمۡ خَافِيَةٌ‏
+arabic_ayat: يَوۡمَئِذٖ تُعۡرَضُونَ لَا تَخۡفَىٰ مِنكُمۡ خَافِيَةٞ
 sentence_translation: You will then be presented ˹before Him for judgment˺, and none
   of your secrets will stay hidden.
 word_by_word:
   1:
-    arabic: يَوۡمَٮِٕذٍ
+    arabic: يَوۡمَئِذٖ
     translation: That Day
     transliteration: yawma-idhin
   2:
-    arabic: تُعۡرَضُوۡنَ
+    arabic: تُعۡرَضُونَ
     translation: you will be exhibited
     transliteration: tuʿ'raḍūna
   3:
@@ -16,15 +16,15 @@ word_by_word:
     translation: not
     transliteration: lā
   4:
-    arabic: تَخۡفٰى
+    arabic: تَخۡفَىٰ
     translation: will be hidden
     transliteration: takhfā
   5:
-    arabic: مِنۡكُمۡ
+    arabic: مِنكُمۡ
     translation: among you
     transliteration: minkum
   6:
-    arabic: خَافِيَةٌ‏
+    arabic: خَافِيَةٞ
     translation: any secret
     transliteration: khāfiyatun
 ---

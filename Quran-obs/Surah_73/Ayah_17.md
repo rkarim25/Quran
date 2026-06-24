@@ -1,6 +1,5 @@
 ---
-arabic_ayat: فَكَيۡفَ تَتَّقُوۡنَ اِنۡ كَفَرۡتُمۡ يَوۡمًا يَّجۡعَلُ الۡوِلۡدَانَ شِيۡبَا
-   ۖ‏
+arabic_ayat: فَكَيۡفَ تَتَّقُونَ إِن كَفَرۡتُمۡ يَوۡمٗا يَجۡعَلُ ٱلۡوِلۡدَٰنَ شِيبًا
 sentence_translation: If you ˹pagans˺ persist in disbelief, then how will you guard
   yourselves against ˹the horrors of˺ a Day which will turn children’s hair grey?
 word_by_word:
@@ -9,11 +8,11 @@ word_by_word:
     translation: Then how
     transliteration: fakayfa
   2:
-    arabic: تَتَّقُوۡنَ
+    arabic: تَتَّقُونَ
     translation: will you guard yourselves
     transliteration: tattaqūna
   3:
-    arabic: اِنۡ
+    arabic: إِن
     translation: if
     transliteration: in
   4:
@@ -21,19 +20,19 @@ word_by_word:
     translation: you disbelieve
     transliteration: kafartum
   5:
-    arabic: يَوۡمًا
+    arabic: يَوۡمٗا
     translation: a Day
     transliteration: yawman
   6:
-    arabic: يَّجۡعَلُ
+    arabic: يَجۡعَلُ
     translation: (that) will make
     transliteration: yajʿalu
   7:
-    arabic: الۡوِلۡدَانَ
+    arabic: ٱلۡوِلۡدَٰنَ
     translation: the children
     transliteration: l-wil'dāna
   8:
-    arabic: شِيۡبَا  ۖ‏
+    arabic: شِيبًا
     translation: gray-haired
     transliteration: shīban
 ---

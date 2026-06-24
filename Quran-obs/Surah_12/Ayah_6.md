@@ -1,19 +1,18 @@
 ---
-arabic_ayat: "وَكَذٰلِكَ يَجۡتَبِيۡكَ رَبُّكَ وَيُعَلِّمُكَ مِنۡ تَاۡوِيۡلِ الۡاَحَادِيۡثِ\
-  \ وَيُتِمُّ نِعۡمَتَهٗ عَلَيۡكَ وَعَلٰٓى اٰلِ يَعۡقُوۡبَ كَمَاۤ اَتَمَّهَا عَلٰٓى\
-  \ اَبَوَيۡكَ مِنۡ قَبۡلُ اِبۡرٰهِيۡمَ وَاِسۡحٰقَ​ ؕ اِنَّ رَبَّكَ عَلِيۡمٌ حَكِيۡمٌ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: وَكَذَٰلِكَ يَجۡتَبِيكَ رَبُّكَ وَيُعَلِّمُكَ مِن تَأۡوِيلِ ٱلۡأَحَادِيثِ
+  وَيُتِمُّ نِعۡمَتَهُۥ عَلَيۡكَ وَعَلَىٰٓ ءَالِ يَعۡقُوبَ كَمَآ أَتَمَّهَا عَلَىٰٓ
+  أَبَوَيۡكَ مِن قَبۡلُ إِبۡرَٰهِيمَ وَإِسۡحَٰقَۚ إِنَّ رَبَّكَ عَلِيمٌ حَكِيمٞ
 sentence_translation: And so will your Lord choose you ˹O Joseph˺, and teach you the
   interpretation of dreams, and perfect His favour upon you and the descendants of
   Jacob—˹just˺ as He once perfected it upon your forefathers, Abraham and Isaac. Surely
   your Lord is All-Knowing, All-Wise.”
 word_by_word:
   1:
-    arabic: وَكَذٰلِكَ
+    arabic: وَكَذَٰلِكَ
     translation: And thus
     transliteration: wakadhālika
   2:
-    arabic: يَجۡتَبِيۡكَ
+    arabic: يَجۡتَبِيكَ
     translation: will choose you
     transliteration: yajtabīka
   3:
@@ -25,15 +24,15 @@ word_by_word:
     translation: and will teach you
     transliteration: wayuʿallimuka
   5:
-    arabic: مِنۡ
+    arabic: مِن
     translation: of
     transliteration: min
   6:
-    arabic: تَاۡوِيۡلِ
+    arabic: تَأۡوِيلِ
     translation: (the) interpretation
     transliteration: tawīli
   7:
-    arabic: الۡاَحَادِيۡثِ
+    arabic: ٱلۡأَحَادِيثِ
     translation: (of) the narratives
     transliteration: l-aḥādīthi
   8:
@@ -41,7 +40,7 @@ word_by_word:
     translation: and complete
     transliteration: wayutimmu
   9:
-    arabic: نِعۡمَتَهٗ
+    arabic: نِعۡمَتَهُۥ
     translation: His Favor
     transliteration: niʿ'matahu
   10:
@@ -49,35 +48,35 @@ word_by_word:
     translation: on you
     transliteration: ʿalayka
   11:
-    arabic: وَعَلٰٓى
+    arabic: وَعَلَىٰٓ ءَ
     translation: and on
     transliteration: waʿalā
   12:
-    arabic: اٰلِ
+    arabic: الِ
     translation: (the) family
     transliteration: āli
   13:
-    arabic: يَعۡقُوۡبَ
+    arabic: يَعۡقُوبَ
     translation: (of) Yaqub
     transliteration: yaʿqūba
   14:
-    arabic: كَمَاۤ
+    arabic: كَمَآ
     translation: as
     transliteration: kamā
   15:
-    arabic: اَتَمَّهَا
+    arabic: أَتَمَّهَا
     translation: He completed it
     transliteration: atammahā
   16:
-    arabic: عَلٰٓى
+    arabic: عَلَىٰٓ
     translation: 'on'
     transliteration: ʿalā
   17:
-    arabic: اَبَوَيۡكَ
+    arabic: أَبَوَيۡكَ
     translation: your two forefathers
     transliteration: abawayka
   18:
-    arabic: مِنۡ
+    arabic: مِن
     translation: 'before '
     transliteration: min
   19:
@@ -85,15 +84,15 @@ word_by_word:
     translation: 'before '
     transliteration: qablu
   20:
-    arabic: اِبۡرٰهِيۡمَ
+    arabic: إِبۡرَٰهِيمَ
     translation: Ibrahim
     transliteration: ib'rāhīma
   21:
-    arabic: وَاِسۡحٰقَ​ ؕ
+    arabic: وَإِسۡحَٰقَۚ
     translation: and Isaac
     transliteration: wa-is'ḥāqa
   22:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   23:
@@ -101,11 +100,11 @@ word_by_word:
     translation: your Lord
     transliteration: rabbaka
   24:
-    arabic: عَلِيۡمٌ
+    arabic: عَلِيمٌ
     translation: (is) All-Knower
     transliteration: ʿalīmun
   25:
-    arabic: "حَكِيۡمٌ‏ \uFEFF\uFEFF"
+    arabic: حَكِيمٞ
     translation: All-Wise
     transliteration: ḥakīmun
 ---

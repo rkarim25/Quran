@@ -1,6 +1,6 @@
 ---
-arabic_ayat: بَلۡ نَـقۡذِفُ بِالۡحَـقِّ عَلَى الۡبَاطِلِ فَيَدۡمَغُهٗ فَاِذَا هُوَ
-  زَاهِقٌ​ ؕ وَلَـكُمُ الۡوَيۡلُ مِمَّا تَصِفُوۡنَ‏
+arabic_ayat: بَلۡ نَقۡذِفُ بِٱلۡحَقِّ عَلَى ٱلۡبَٰطِلِ فَيَدۡمَغُهُۥ فَإِذَا هُوَ
+  زَاهِقٞۚ وَلَكُمُ ٱلۡوَيۡلُ مِمَّا تَصِفُونَ
 sentence_translation: In fact, We hurl the truth against falsehood, leaving it crushed,
   and it quickly vanishes. And woe be to you for what you claim!
 word_by_word:
@@ -9,11 +9,11 @@ word_by_word:
     translation: Nay
     transliteration: bal
   2:
-    arabic: نَـقۡذِفُ
+    arabic: نَقۡذِفُ
     translation: We hurl
     transliteration: naqdhifu
   3:
-    arabic: بِالۡحَـقِّ
+    arabic: بِٱلۡحَقِّ
     translation: the truth
     transliteration: bil-ḥaqi
   4:
@@ -21,15 +21,15 @@ word_by_word:
     translation: against
     transliteration: ʿalā
   5:
-    arabic: الۡبَاطِلِ
+    arabic: ٱلۡبَٰطِلِ
     translation: '[the] falsehood'
     transliteration: l-bāṭili
   6:
-    arabic: فَيَدۡمَغُهٗ
+    arabic: فَيَدۡمَغُهُۥ
     translation: and it breaks its head
     transliteration: fayadmaghuhu
   7:
-    arabic: فَاِذَا
+    arabic: فَإِذَا
     translation: behold
     transliteration: fa-idhā
   8:
@@ -37,15 +37,15 @@ word_by_word:
     translation: it (is)
     transliteration: huwa
   9:
-    arabic: زَاهِقٌ​ ؕ
+    arabic: زَاهِقٞۚ
     translation: vanishing
     transliteration: zāhiqun
   10:
-    arabic: وَلَـكُمُ
+    arabic: وَلَكُمُ
     translation: And for you
     transliteration: walakumu
   11:
-    arabic: الۡوَيۡلُ
+    arabic: ٱلۡوَيۡلُ
     translation: (is) destruction
     transliteration: l-waylu
   12:
@@ -53,7 +53,7 @@ word_by_word:
     translation: for what
     transliteration: mimmā
   13:
-    arabic: تَصِفُوۡنَ‏
+    arabic: تَصِفُونَ
     translation: you ascribe
     transliteration: taṣifūna
 ---

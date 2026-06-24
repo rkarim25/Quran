@@ -1,12 +1,12 @@
 ---
-arabic_ayat: مَنۡ ذَا الَّذِىۡ يُقۡرِضُ اللّٰهَ قَرۡضًا حَسَنًا فَيُضٰعِفَهٗ لَهٗۤ
-  اَضۡعَافًا کَثِيۡرَةً  ​ؕ وَاللّٰهُ يَقۡبِضُ وَيَبۡصُۜطُ وَ اِلَيۡهِ تُرۡجَعُوۡنَ‏
+arabic_ayat: مَّن ذَا ٱلَّذِي يُقۡرِضُ ٱللَّهَ قَرۡضًا حَسَنٗا فَيُضَٰعِفَهُۥ لَهُۥٓ
+  أَضۡعَافٗا كَثِيرَةٗۚ وَٱللَّهُ يَقۡبِضُ وَيَبۡصُۜطُ وَإِلَيۡهِ تُرۡجَعُونَ
 sentence_translation: Who will lend to Allah a good loan which Allah will multiply
   many times over? It is Allah ˹alone˺ who decreases and increases ˹wealth˺. And to
   Him you will ˹all˺ be returned.
 word_by_word:
   1:
-    arabic: مَنۡ
+    arabic: مَّن
     translation: Who
     transliteration: man
   2:
@@ -14,7 +14,7 @@ word_by_word:
     translation: (is) the one
     transliteration: dhā
   3:
-    arabic: الَّذِىۡ
+    arabic: ٱلَّذِي
     translation: who
     transliteration: alladhī
   4:
@@ -22,7 +22,7 @@ word_by_word:
     translation: will lend
     transliteration: yuq'riḍu
   5:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: '(to) Allah '
     transliteration: l-laha
   6:
@@ -30,27 +30,27 @@ word_by_word:
     translation: a loan
     transliteration: qarḍan
   7:
-    arabic: حَسَنًا
+    arabic: حَسَنٗا
     translation: good
     transliteration: ḥasanan
   8:
-    arabic: فَيُضٰعِفَهٗ
+    arabic: فَيُضَٰعِفَهُۥ
     translation: so (that) He multiplies it
     transliteration: fayuḍāʿifahu
   9:
-    arabic: لَهٗۤ
+    arabic: لَهُۥٓ
     translation: 'for him '
     transliteration: lahu
   10:
-    arabic: اَضۡعَافًا
+    arabic: أَضۡعَافٗا
     translation: manifolds
     transliteration: aḍʿāfan
   11:
-    arabic: کَثِيۡرَةً  ​ؕ
+    arabic: كَثِيرَةٗۚ
     translation: many
     transliteration: kathīratan
   12:
-    arabic: وَاللّٰهُ
+    arabic: وَٱللَّهُ
     translation: And Allah
     transliteration: wal-lahu
   13:
@@ -58,15 +58,15 @@ word_by_word:
     translation: withholds
     transliteration: yaqbiḍu
   14:
-    arabic: وَيَبۡصُۜطُ
+    arabic: وَيَبۡصُۜطُ
     translation: and grants abundance
     transliteration: wayabṣuṭu
   15:
-    arabic: وَ اِلَيۡهِ
+    arabic: وَإِلَيۡهِ
     translation: and to Him
     transliteration: wa-ilayhi
   16:
-    arabic: تُرۡجَعُوۡنَ‏
+    arabic: تُرۡجَعُونَ
     translation: you will be returned
     transliteration: tur'jaʿūna
 ---

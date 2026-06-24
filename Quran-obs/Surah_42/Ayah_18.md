@@ -1,7 +1,7 @@
 ---
-arabic_ayat: يَسۡتَعۡجِلُ بِهَا الَّذِيۡنَ لَا يُؤۡمِنُوۡنَ بِهَا​ ۚ وَالَّذِيۡنَ
-  اٰمَنُوۡا مُشۡفِقُوۡنَ مِنۡهَا ۙ وَيَعۡلَمُوۡنَ اَنَّهَا الۡحَقُّ ​ ؕ اَلَاۤ اِنَّ
-  الَّذِيۡنَ يُمَارُوۡنَ فِى السَّاعَةِ لَفِىۡ ضَلٰلٍۢ بَعِيۡدٍ‏
+arabic_ayat: يَسۡتَعۡجِلُ بِهَا ٱلَّذِينَ لَا يُؤۡمِنُونَ بِهَاۖ وَٱلَّذِينَ ءَامَنُواْ
+  مُشۡفِقُونَ مِنۡهَا وَيَعۡلَمُونَ أَنَّهَا ٱلۡحَقُّۗ أَلَآ إِنَّ ٱلَّذِينَ يُمَارُونَ
+  فِي ٱلسَّاعَةِ لَفِي ضَلَٰلِۭ بَعِيدٍ
 sentence_translation: Those who disbelieve in it ˹ask to˺ hasten it ˹mockingly˺. But
   the believers are fearful of it, knowing that it is the truth. Surely those who
   dispute about the Hour have gone far astray.
@@ -15,7 +15,7 @@ word_by_word:
     translation: '[of] it'
     transliteration: bihā
   3:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   4:
@@ -23,75 +23,75 @@ word_by_word:
     translation: (do) not
     transliteration: lā
   5:
-    arabic: يُؤۡمِنُوۡنَ
+    arabic: يُؤۡمِنُونَ
     translation: believe
     transliteration: yu'minūna
   6:
-    arabic: بِهَا​ ۚ
+    arabic: بِهَاۖ
     translation: in it
     transliteration: bihā
   7:
-    arabic: وَالَّذِيۡنَ
+    arabic: وَٱلَّذِينَ ءَ
     translation: and those who
     transliteration: wa-alladhīna
   8:
-    arabic: اٰمَنُوۡا
+    arabic: امَنُواْ
     translation: believe
     transliteration: āmanū
   9:
-    arabic: مُشۡفِقُوۡنَ
+    arabic: مُشۡفِقُونَ
     translation: (are) fearful
     transliteration: mush'fiqūna
   10:
-    arabic: مِنۡهَا ۙ
+    arabic: مِنۡهَا
     translation: of it
     transliteration: min'hā
   11:
-    arabic: وَيَعۡلَمُوۡنَ
+    arabic: وَيَعۡلَمُونَ
     translation: and know
     transliteration: wayaʿlamūna
   12:
-    arabic: اَنَّهَا
+    arabic: أَنَّهَا
     translation: that it
     transliteration: annahā
   13:
-    arabic: الۡحَقُّ ​ ؕ
+    arabic: ٱلۡحَقُّۗ
     translation: (is) the truth
     transliteration: l-ḥaqu
   14:
-    arabic: اَلَاۤ
+    arabic: أَلَآ
     translation: Unquestionably
     transliteration: alā
   15:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: indeed
     transliteration: inna
   16:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   17:
-    arabic: يُمَارُوۡنَ
+    arabic: يُمَارُونَ
     translation: dispute
     transliteration: yumārūna
   18:
-    arabic: فِى
+    arabic: فِي
     translation: concerning
     transliteration: fī
   19:
-    arabic: السَّاعَةِ
+    arabic: ٱلسَّاعَةِ
     translation: the Hour
     transliteration: l-sāʿati
   20:
-    arabic: لَفِىۡ
+    arabic: لَفِي
     translation: (are) certainly in
     transliteration: lafī
   21:
-    arabic: ضَلٰلٍۢ
+    arabic: ضَلَٰلِۭ
     translation: error
     transliteration: ḍalālin
   22:
-    arabic: بَعِيۡدٍ‏
+    arabic: بَعِيدٍ
     translation: far
     transliteration: baʿīdin
 ---

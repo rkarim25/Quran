@@ -1,6 +1,6 @@
 ---
-arabic_ayat: يُقَلِّبُ اللّٰهُ الَّيۡلَ وَالنَّهَارَ​ ؕ اِنَّ فِىۡ ذٰ لِكَ لَعِبۡرَةً
-  لِّاُولِى الۡاَبۡصَارِ‏
+arabic_ayat: يُقَلِّبُ ٱللَّهُ ٱلَّيۡلَ وَٱلنَّهَارَۚ إِنَّ فِي ذَٰلِكَ لَعِبۡرَةٗ
+  لِّأُوْلِي ٱلۡأَبۡصَٰرِ
 sentence_translation: Allah alternates the day and night. Surely in this is a lesson
   for people of insight.
 word_by_word:
@@ -9,39 +9,39 @@ word_by_word:
     translation: Allah alternates
     transliteration: yuqallibu
   2:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah alternates
     transliteration: l-lahu
   3:
-    arabic: الَّيۡلَ
+    arabic: ٱلَّيۡلَ
     translation: the night
     transliteration: al-layla
   4:
-    arabic: وَالنَّهَارَ​ ؕ
+    arabic: وَٱلنَّهَارَۚ
     translation: and the day
     transliteration: wal-nahāra
   5:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   6:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   7:
-    arabic: ذٰ لِكَ
+    arabic: ذَٰلِكَ
     translation: that
     transliteration: dhālika
   8:
-    arabic: لَعِبۡرَةً
+    arabic: لَعِبۡرَةٗ
     translation: surely is a lesson
     transliteration: laʿib'ratan
   9:
-    arabic: لِّاُولِى
+    arabic: لِّأُوْلِي
     translation: for those who have vision
     transliteration: li-ulī
   10:
-    arabic: الۡاَبۡصَارِ‏
+    arabic: ٱلۡأَبۡصَٰرِ
     translation: for those who have vision
     transliteration: l-abṣāri
 ---

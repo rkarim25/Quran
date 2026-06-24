@@ -1,7 +1,6 @@
 ---
-arabic_ayat: "وَمَا كَانَ لِنَبِىٍّ اَنۡ يَّغُلَّ​ؕ وَمَنۡ يَّغۡلُلۡ يَاۡتِ بِمَا\
-  \ غَلَّ يَوۡمَ الۡقِيٰمَةِ​ ۚ ثُمَّ تُوَفّٰى كُلُّ نَفۡسٍ مَّا كَسَبَتۡ وَهُمۡ لَا\
-  \ يُظۡلَمُوۡنَ‏ \uFEFF\uFEFF"
+arabic_ayat: وَمَا كَانَ لِنَبِيٍّ أَن يَغُلَّۚ وَمَن يَغۡلُلۡ يَأۡتِ بِمَا غَلَّ
+  يَوۡمَ ٱلۡقِيَٰمَةِۚ ثُمَّ تُوَفَّىٰ كُلُّ نَفۡسٖ مَّا كَسَبَتۡ وَهُمۡ لَا يُظۡلَمُونَ
 sentence_translation: It is not appropriate for a prophet to illegally withhold spoils
   of war. And whoever does so, it will be held against them on the Day of Judgment.
   Then every soul will be paid in full for what it has done, and none will be wronged.
@@ -15,27 +14,27 @@ word_by_word:
     translation: is
     transliteration: kāna
   3:
-    arabic: لِنَبِىٍّ
+    arabic: لِنَبِيٍّ
     translation: for a Prophet
     transliteration: linabiyyin
   4:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that
     transliteration: an
   5:
-    arabic: يَّغُلَّ​ؕ
+    arabic: يَغُلَّۚ
     translation: he defrauds
     transliteration: yaghulla
   6:
-    arabic: وَمَنۡ
+    arabic: وَمَن
     translation: And whoever
     transliteration: waman
   7:
-    arabic: يَّغۡلُلۡ
+    arabic: يَغۡلُلۡ
     translation: defrauds
     transliteration: yaghlul
   8:
-    arabic: يَاۡتِ
+    arabic: يَأۡتِ
     translation: will bring
     transliteration: yati
   9:
@@ -51,7 +50,7 @@ word_by_word:
     translation: (on the) Day
     transliteration: yawma
   12:
-    arabic: الۡقِيٰمَةِ​ ۚ
+    arabic: ٱلۡقِيَٰمَةِۚ
     translation: (of) Resurrection
     transliteration: l-qiyāmati
   13:
@@ -59,7 +58,7 @@ word_by_word:
     translation: Then
     transliteration: thumma
   14:
-    arabic: تُوَفّٰى
+    arabic: تُوَفَّىٰ
     translation: is repaid in full
     transliteration: tuwaffā
   15:
@@ -67,7 +66,7 @@ word_by_word:
     translation: every
     transliteration: kullu
   16:
-    arabic: نَفۡسٍ
+    arabic: نَفۡسٖ
     translation: soul
     transliteration: nafsin
   17:
@@ -87,7 +86,7 @@ word_by_word:
     translation: (will) not
     transliteration: lā
   21:
-    arabic: "يُظۡلَمُوۡنَ‏ \uFEFF\uFEFF"
+    arabic: يُظۡلَمُونَ
     translation: be wronged
     transliteration: yuẓ'lamūna
 ---

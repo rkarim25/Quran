@@ -1,10 +1,10 @@
 ---
-arabic_ayat: وَجَزٰٮهُمۡ بِمَا صَبَرُوۡا جَنَّةً وَّحَرِيۡرًا ۙ‏
+arabic_ayat: وَجَزَىٰهُم بِمَا صَبَرُواْ جَنَّةٗ وَحَرِيرٗا
 sentence_translation: and reward them for their perseverance with a Garden ˹in Paradise˺
   and ˹garments of˺ silk.
 word_by_word:
   1:
-    arabic: وَجَزٰٮهُمۡ
+    arabic: وَجَزَىٰهُم
     translation: And will reward them
     transliteration: wajazāhum
   2:
@@ -12,15 +12,15 @@ word_by_word:
     translation: because
     transliteration: bimā
   3:
-    arabic: صَبَرُوۡا
+    arabic: صَبَرُواْ
     translation: they were patient
     transliteration: ṣabarū
   4:
-    arabic: جَنَّةً
+    arabic: جَنَّةٗ
     translation: (with) a Garden
     transliteration: jannatan
   5:
-    arabic: وَّحَرِيۡرًا ۙ‏
+    arabic: وَحَرِيرٗا
     translation: and silk
     transliteration: waḥarīran
 ---

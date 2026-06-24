@@ -1,17 +1,17 @@
 ---
-arabic_ayat: فَلَاۤ اُقۡسِمُ بِالشَّفَقِۙ‏
+arabic_ayat: فَلَآ أُقۡسِمُ بِٱلشَّفَقِ
 sentence_translation: So, I do swear by the twilight!
 word_by_word:
   1:
-    arabic: فَلَاۤ
+    arabic: فَلَآ
     translation: But nay
     transliteration: falā
   2:
-    arabic: اُقۡسِمُ
+    arabic: أُقۡسِمُ
     translation: I swear
     transliteration: uq'simu
   3:
-    arabic: بِالشَّفَقِۙ‏
+    arabic: بِٱلشَّفَقِ
     translation: by the twilight glow
     transliteration: bil-shafaqi
 ---

@@ -1,10 +1,10 @@
 ---
-arabic_ayat: اِلَّا مَا شَآءَ اللّٰهُ​ؕ اِنَّهٗ يَعۡلَمُ الۡجَهۡرَ وَمَا يَخۡفٰىؕ‏
+arabic_ayat: إِلَّا مَا شَآءَ ٱللَّهُۚ إِنَّهُۥ يَعۡلَمُ ٱلۡجَهۡرَ وَمَا يَخۡفَىٰ
 sentence_translation: unless Allah wills otherwise. He surely knows what is open and
   what is hidden.
 word_by_word:
   1:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: Except
     transliteration: illā
   2:
@@ -16,11 +16,11 @@ word_by_word:
     translation: wills
     transliteration: shāa
   4:
-    arabic: اللّٰهُ​ؕ
+    arabic: ٱللَّهُۚ
     translation: Allah
     transliteration: l-lahu
   5:
-    arabic: اِنَّهٗ
+    arabic: إِنَّهُۥ
     translation: Indeed, He
     transliteration: innahu
   6:
@@ -28,7 +28,7 @@ word_by_word:
     translation: knows
     transliteration: yaʿlamu
   7:
-    arabic: الۡجَهۡرَ
+    arabic: ٱلۡجَهۡرَ
     translation: the manifest
     transliteration: l-jahra
   8:
@@ -36,7 +36,7 @@ word_by_word:
     translation: and what
     transliteration: wamā
   9:
-    arabic: يَخۡفٰىؕ‏
+    arabic: يَخۡفَىٰ
     translation: is hidden
     transliteration: yakhfā
 ---

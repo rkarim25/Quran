@@ -1,17 +1,17 @@
 ---
-arabic_ayat: اِنَّهٗ لَقَوۡلٌ فَصۡلٌۙ‏
+arabic_ayat: إِنَّهُۥ لَقَوۡلٞ فَصۡلٞ
 sentence_translation: Surely this ˹Quran˺ is a decisive word,
 word_by_word:
   1:
-    arabic: اِنَّهٗ
+    arabic: إِنَّهُۥ
     translation: Indeed, it
     transliteration: innahu
   2:
-    arabic: لَقَوۡلٌ
+    arabic: لَقَوۡلٞ
     translation: (is) surely a Word
     transliteration: laqawlun
   3:
-    arabic: فَصۡلٌۙ‏
+    arabic: فَصۡلٞ
     translation: decisive
     transliteration: faṣlun
 ---

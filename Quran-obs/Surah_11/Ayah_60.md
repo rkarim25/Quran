@@ -1,68 +1,68 @@
 ---
-arabic_ayat: وَاُتۡبِعُوۡا فِىۡ هٰذِهِ الدُّنۡيَا لَعۡنَةً وَّيَوۡمَ الۡقِيٰمَةِ​ؕ
-  اَلَاۤ اِنَّ عَادًا كَفَرُوۡا رَبَّهُمۡ​ؕ اَلَا بُعۡدًا لِّعَادٍ قَوۡمِ هُوۡدٍ‏
+arabic_ayat: وَأُتۡبِعُواْ فِي هَٰذِهِ ٱلدُّنۡيَا لَعۡنَةٗ وَيَوۡمَ ٱلۡقِيَٰمَةِۗ
+  أَلَآ إِنَّ عَادٗا كَفَرُواْ رَبَّهُمۡۗ أَلَا بُعۡدٗا لِّعَادٖ قَوۡمِ هُودٖ
 sentence_translation: They were followed by a curse in this world, as they will be
   on the Day of Judgment. Surely ’Âd denied their Lord. So away with ’Âd, the people
   of Hûd.
 word_by_word:
   1:
-    arabic: وَاُتۡبِعُوۡا
+    arabic: وَأُتۡبِعُواْ
     translation: And they were followed
     transliteration: wa-ut'biʿū
   2:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   3:
-    arabic: هٰذِهِ
+    arabic: هَٰذِهِ
     translation: this
     transliteration: hādhihi
   4:
-    arabic: الدُّنۡيَا
+    arabic: ٱلدُّنۡيَا
     translation: world
     transliteration: l-dun'yā
   5:
-    arabic: لَعۡنَةً
+    arabic: لَعۡنَةٗ
     translation: (with) a curse
     transliteration: laʿnatan
   6:
-    arabic: وَّيَوۡمَ
+    arabic: وَيَوۡمَ
     translation: and (on the) Day
     transliteration: wayawma
   7:
-    arabic: الۡقِيٰمَةِ​ؕ
+    arabic: ٱلۡقِيَٰمَةِۗ
     translation: (of) the Resurrection
     transliteration: l-qiyāmati
   8:
-    arabic: اَلَاۤ
+    arabic: أَلَآ
     translation: No doubt
     transliteration: alā
   9:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   10:
-    arabic: عَادًا
+    arabic: عَادٗا
     translation: Aad
     transliteration: ʿādan
   11:
-    arabic: كَفَرُوۡا
+    arabic: كَفَرُواْ
     translation: disbelieved
     transliteration: kafarū
   12:
-    arabic: رَبَّهُمۡ​ؕ
+    arabic: رَبَّهُمۡۗ
     translation: their Lord
     transliteration: rabbahum
   13:
-    arabic: اَلَا
+    arabic: أَلَا
     translation: So
     transliteration: alā
   14:
-    arabic: بُعۡدًا
+    arabic: بُعۡدٗا
     translation: away
     transliteration: buʿ'dan
   15:
-    arabic: لِّعَادٍ
+    arabic: لِّعَادٖ
     translation: with Aad
     transliteration: liʿādin
   16:
@@ -70,7 +70,7 @@ word_by_word:
     translation: (the) people
     transliteration: qawmi
   17:
-    arabic: هُوۡدٍ‏
+    arabic: هُودٖ
     translation: (of) Hud
     transliteration: hūdin
 ---

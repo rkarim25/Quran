@@ -1,6 +1,6 @@
 ---
-arabic_ayat: وَكَمۡ قَصَمۡنَا مِنۡ قَرۡيَةٍ كَانَتۡ ظَالِمَةً وَّاَنۡشَاۡنَا بَعۡدَهَا
-  قَوۡمًا اٰخَرِيۡنَ‏
+arabic_ayat: وَكَمۡ قَصَمۡنَا مِن قَرۡيَةٖ كَانَتۡ ظَالِمَةٗ وَأَنشَأۡنَا بَعۡدَهَا
+  قَوۡمًا ءَاخَرِينَ
 sentence_translation: ˹Imagine˺ how many societies of wrongdoers We have destroyed,
   raising up other people after them!
 word_by_word:
@@ -13,11 +13,11 @@ word_by_word:
     translation: We (have) shattered
     transliteration: qaṣamnā
   3:
-    arabic: مِنۡ
+    arabic: مِن
     translation: of
     transliteration: min
   4:
-    arabic: قَرۡيَةٍ
+    arabic: قَرۡيَةٖ
     translation: a town
     transliteration: qaryatin
   5:
@@ -25,11 +25,11 @@ word_by_word:
     translation: (that) was
     transliteration: kānat
   6:
-    arabic: ظَالِمَةً
+    arabic: ظَالِمَةٗ
     translation: unjust
     transliteration: ẓālimatan
   7:
-    arabic: وَّاَنۡشَاۡنَا
+    arabic: وَأَنشَأۡنَا
     translation: and We produced
     transliteration: wa-anshanā
   8:
@@ -37,11 +37,11 @@ word_by_word:
     translation: after them
     transliteration: baʿdahā
   9:
-    arabic: قَوۡمًا
+    arabic: قَوۡمًا ءَ
     translation: another people
     transliteration: qawman
   10:
-    arabic: اٰخَرِيۡنَ‏
+    arabic: اخَرِينَ
     translation: another people
     transliteration: ākharīna
 ---

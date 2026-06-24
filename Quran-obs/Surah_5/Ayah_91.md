@@ -1,29 +1,29 @@
 ---
-arabic_ayat: اِنَّمَا يُرِيۡدُ الشَّيۡطٰنُ اَنۡ يُّوۡقِعَ بَيۡنَكُمُ الۡعَدَاوَةَ
-  وَالۡبَغۡضَآءَ فِى الۡخَمۡرِ وَالۡمَيۡسِرِ وَيَصُدَّكُمۡ عَنۡ ذِكۡرِ اللّٰهِ وَعَنِ
-  الصَّلٰوةِ​ ۚ فَهَلۡ اَنۡـتُمۡ مُّنۡتَهُوۡنَ‏
+arabic_ayat: إِنَّمَا يُرِيدُ ٱلشَّيۡطَٰنُ أَن يُوقِعَ بَيۡنَكُمُ ٱلۡعَدَٰوَةَ وَٱلۡبَغۡضَآءَ
+  فِي ٱلۡخَمۡرِ وَٱلۡمَيۡسِرِ وَيَصُدَّكُمۡ عَن ذِكۡرِ ٱللَّهِ وَعَنِ ٱلصَّلَوٰةِۖ
+  فَهَلۡ أَنتُم مُّنتَهُونَ
 sentence_translation: Satan’s plan is to stir up hostility and hatred between you
   with intoxicants and gambling and to prevent you from remembering Allah and praying.
   Will you not then abstain?
 word_by_word:
   1:
-    arabic: اِنَّمَا
+    arabic: إِنَّمَا
     translation: Only
     transliteration: innamā
   2:
-    arabic: يُرِيۡدُ
+    arabic: يُرِيدُ
     translation: intends
     transliteration: yurīdu
   3:
-    arabic: الشَّيۡطٰنُ
+    arabic: ٱلشَّيۡطَٰنُ
     translation: the Shaitaan
     transliteration: l-shayṭānu
   4:
-    arabic: اَنۡ
+    arabic: أَن
     translation: to
     transliteration: an
   5:
-    arabic: يُّوۡقِعَ
+    arabic: يُوقِعَ
     translation: cause
     transliteration: yūqiʿa
   6:
@@ -31,23 +31,23 @@ word_by_word:
     translation: between you
     transliteration: baynakumu
   7:
-    arabic: الۡعَدَاوَةَ
+    arabic: ٱلۡعَدَٰوَةَ
     translation: '[the] enmity'
     transliteration: l-ʿadāwata
   8:
-    arabic: وَالۡبَغۡضَآءَ
+    arabic: وَٱلۡبَغۡضَآءَ
     translation: and [the] hatred
     transliteration: wal-baghḍāa
   9:
-    arabic: فِى
+    arabic: فِي
     translation: through
     transliteration: fī
   10:
-    arabic: الۡخَمۡرِ
+    arabic: ٱلۡخَمۡرِ
     translation: intoxicants
     transliteration: l-khamri
   11:
-    arabic: وَالۡمَيۡسِرِ
+    arabic: وَٱلۡمَيۡسِرِ
     translation: and gambling
     transliteration: wal-maysiri
   12:
@@ -55,7 +55,7 @@ word_by_word:
     translation: and hinders you
     transliteration: wayaṣuddakum
   13:
-    arabic: عَنۡ
+    arabic: عَن
     translation: from
     transliteration: ʿan
   14:
@@ -63,7 +63,7 @@ word_by_word:
     translation: (the) remembrance
     transliteration: dhik'ri
   15:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (of) Allah
     transliteration: l-lahi
   16:
@@ -71,7 +71,7 @@ word_by_word:
     translation: and from
     transliteration: waʿani
   17:
-    arabic: الصَّلٰوةِ​ ۚ
+    arabic: ٱلصَّلَوٰةِۖ
     translation: the prayer
     transliteration: l-ṣalati
   18:
@@ -79,11 +79,11 @@ word_by_word:
     translation: So will
     transliteration: fahal
   19:
-    arabic: اَنۡـتُمۡ
+    arabic: أَنتُم
     translation: you
     transliteration: antum
   20:
-    arabic: مُّنۡتَهُوۡنَ‏
+    arabic: مُّنتَهُونَ
     translation: (be) the ones who abstain
     transliteration: muntahūna
 ---

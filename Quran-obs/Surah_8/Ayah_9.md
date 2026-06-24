@@ -1,15 +1,15 @@
 ---
-arabic_ayat: اِذۡ تَسۡتَغِيۡثُوۡنَ رَبَّكُمۡ فَاسۡتَجَابَ لَـكُمۡ اَنِّىۡ مُمِدُّكُمۡ
-  بِاَلۡفٍ مِّنَ الۡمَلٰۤٮِٕكَةِ مُرۡدِفِيۡنَ‏
+arabic_ayat: إِذۡ تَسۡتَغِيثُونَ رَبَّكُمۡ فَٱسۡتَجَابَ لَكُمۡ أَنِّي مُمِدُّكُم بِأَلۡفٖ
+  مِّنَ ٱلۡمَلَٰٓئِكَةِ مُرۡدِفِينَ
 sentence_translation: ˹Remember˺ when you cried out to your Lord for help, He answered,
   “I will reinforce you with a thousand angels—followed by many others.”
 word_by_word:
   1:
-    arabic: اِذۡ
+    arabic: إِذۡ
     translation: When
     transliteration: idh
   2:
-    arabic: تَسۡتَغِيۡثُوۡنَ
+    arabic: تَسۡتَغِيثُونَ
     translation: you were seeking help
     transliteration: tastaghīthūna
   3:
@@ -17,23 +17,23 @@ word_by_word:
     translation: (of) your Lord
     transliteration: rabbakum
   4:
-    arabic: فَاسۡتَجَابَ
+    arabic: فَٱسۡتَجَابَ
     translation: and He answered
     transliteration: fa-is'tajāba
   5:
-    arabic: لَـكُمۡ
+    arabic: لَكُمۡ
     translation: '[to] you'
     transliteration: lakum
   6:
-    arabic: اَنِّىۡ
+    arabic: أَنِّي
     translation: Indeed, I am
     transliteration: annī
   7:
-    arabic: مُمِدُّكُمۡ
+    arabic: مُمِدُّكُم
     translation: going to reinforce you
     transliteration: mumiddukum
   8:
-    arabic: بِاَلۡفٍ
+    arabic: بِأَلۡفٖ
     translation: with a thousand
     transliteration: bi-alfin
   9:
@@ -41,11 +41,11 @@ word_by_word:
     translation: of
     transliteration: mina
   10:
-    arabic: الۡمَلٰۤٮِٕكَةِ
+    arabic: ٱلۡمَلَٰٓئِكَةِ
     translation: the Angels
     transliteration: l-malāikati
   11:
-    arabic: مُرۡدِفِيۡنَ‏
+    arabic: مُرۡدِفِينَ
     translation: one after another
     transliteration: mur'difīna
 ---

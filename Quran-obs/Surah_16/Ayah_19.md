@@ -1,9 +1,9 @@
 ---
-arabic_ayat: وَاللّٰهُ يَعۡلَمُ مَا تُسِرُّوۡنَ وَ مَا تُعۡلِنُوۡنَ‏
+arabic_ayat: وَٱللَّهُ يَعۡلَمُ مَا تُسِرُّونَ وَمَا تُعۡلِنُونَ
 sentence_translation: And Allah knows what you conceal and what you reveal.
 word_by_word:
   1:
-    arabic: وَاللّٰهُ
+    arabic: وَٱللَّهُ
     translation: And Allah
     transliteration: wal-lahu
   2:
@@ -15,15 +15,15 @@ word_by_word:
     translation: what
     transliteration: mā
   4:
-    arabic: تُسِرُّوۡنَ
+    arabic: تُسِرُّونَ
     translation: you conceal
     transliteration: tusirrūna
   5:
-    arabic: وَ مَا
+    arabic: وَمَا
     translation: and what
     transliteration: wamā
   6:
-    arabic: تُعۡلِنُوۡنَ‏
+    arabic: تُعۡلِنُونَ
     translation: you reveal
     transliteration: tuʿ'linūna
 ---

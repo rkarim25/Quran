@@ -1,9 +1,9 @@
 ---
-arabic_ayat: كَلَّا بَلۡ تُكَذِّبُوۡنَ بِالدِّيۡنِۙ‏
+arabic_ayat: كـَلَّا بَلۡ تُكَذِّبُونَ بِٱلدِّينِ
 sentence_translation: But no! In fact, you deny the ˹final˺ Judgment,
 word_by_word:
   1:
-    arabic: كَلَّا
+    arabic: كـَلَّا
     translation: Nay
     transliteration: kallā
   2:
@@ -11,11 +11,11 @@ word_by_word:
     translation: But
     transliteration: bal
   3:
-    arabic: تُكَذِّبُوۡنَ
+    arabic: تُكَذِّبُونَ
     translation: you deny
     transliteration: tukadhibūna
   4:
-    arabic: بِالدِّيۡنِۙ‏
+    arabic: بِٱلدِّينِ
     translation: the Judgment
     transliteration: bil-dīni
 ---

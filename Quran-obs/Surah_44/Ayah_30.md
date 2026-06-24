@@ -1,5 +1,5 @@
 ---
-arabic_ayat: وَلَقَدۡ نَجَّيۡنَا بَنِىۡۤ اِسۡرَآءِيۡلَ مِنَ الۡعَذَابِ الۡمُهِيۡنِۙ‏
+arabic_ayat: وَلَقَدۡ نَجَّيۡنَا بَنِيٓ إِسۡرَٰٓءِيلَ مِنَ ٱلۡعَذَابِ ٱلۡمُهِينِ
 sentence_translation: And We certainly delivered the Children of Israel from the humiliating
   torment
 word_by_word:
@@ -12,11 +12,11 @@ word_by_word:
     translation: We saved
     transliteration: najjaynā
   3:
-    arabic: بَنِىۡۤ
+    arabic: بَنِيٓ
     translation: (the) Children of Israel
     transliteration: banī
   4:
-    arabic: اِسۡرَآءِيۡلَ
+    arabic: إِسۡرَٰٓءِيلَ
     translation: (the) Children of Israel
     transliteration: is'rāīla
   5:
@@ -24,11 +24,11 @@ word_by_word:
     translation: from
     transliteration: mina
   6:
-    arabic: الۡعَذَابِ
+    arabic: ٱلۡعَذَابِ
     translation: the punishment
     transliteration: l-ʿadhābi
   7:
-    arabic: الۡمُهِيۡنِۙ‏
+    arabic: ٱلۡمُهِينِ
     translation: the humiliating
     transliteration: l-muhīni
 ---

@@ -1,17 +1,17 @@
 ---
-arabic_ayat: وَقَالَتۡ طَّآٮِٕفَةٌ مِّنۡ اَهۡلِ الۡكِتٰبِ اٰمِنُوۡا بِالَّذِىۡۤ اُنۡزِلَ
-  عَلَى الَّذِيۡنَ اٰمَنُوۡا وَجۡهَ النَّهَارِ وَاكۡفُرُوۡۤا اٰخِرَهٗ لَعَلَّهُمۡ
-  يَرۡجِعُوۡنَ​​ۚ​ ۖ‏
+arabic_ayat: وَقَالَت طَّآئِفَةٞ مِّنۡ أَهۡلِ ٱلۡكِتَٰبِ ءَامِنُواْ بِٱلَّذِيٓ أُنزِلَ
+  عَلَى ٱلَّذِينَ ءَامَنُواْ وَجۡهَ ٱلنَّهَارِ وَٱكۡفُرُوٓاْ ءَاخِرَهُۥ لَعَلَّهُمۡ
+  يَرۡجِعُونَ
 sentence_translation: A group among the People of the Book said ˹to one another˺,
   “Believe in what has been revealed to the believers in the morning and reject it
   in the evening, so they may abandon their faith.
 word_by_word:
   1:
-    arabic: وَقَالَتۡ
+    arabic: وَقَالَت
     translation: And said
     transliteration: waqālat
   2:
-    arabic: طَّآٮِٕفَةٌ
+    arabic: طَّآئِفَةٞ
     translation: a group
     transliteration: ṭāifatun
   3:
@@ -19,23 +19,23 @@ word_by_word:
     translation: of
     transliteration: min
   4:
-    arabic: اَهۡلِ
+    arabic: أَهۡلِ
     translation: (the) People
     transliteration: ahli
   5:
-    arabic: الۡكِتٰبِ
+    arabic: ٱلۡكِتَٰبِ ءَ
     translation: (of) the Book
     transliteration: l-kitābi
   6:
-    arabic: اٰمِنُوۡا
+    arabic: امِنُواْ
     translation: Believe
     transliteration: āminū
   7:
-    arabic: بِالَّذِىۡۤ
+    arabic: بِٱلَّذِيٓ
     translation: in what
     transliteration: bi-alladhī
   8:
-    arabic: اُنۡزِلَ
+    arabic: أُنزِلَ
     translation: was revealed
     transliteration: unzila
   9:
@@ -43,11 +43,11 @@ word_by_word:
     translation: 'on'
     transliteration: ʿalā
   10:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ ءَ
     translation: those who
     transliteration: alladhīna
   11:
-    arabic: اٰمَنُوۡا
+    arabic: امَنُواْ
     translation: believe[d]
     transliteration: āmanū
   12:
@@ -55,15 +55,15 @@ word_by_word:
     translation: (at the) beginning
     transliteration: wajha
   13:
-    arabic: النَّهَارِ
+    arabic: ٱلنَّهَارِ
     translation: (of) the day
     transliteration: l-nahāri
   14:
-    arabic: وَاكۡفُرُوۡۤا
+    arabic: وَٱكۡفُرُوٓاْ ءَ
     translation: and reject
     transliteration: wa-uk'furū
   15:
-    arabic: اٰخِرَهٗ
+    arabic: اخِرَهُۥ
     translation: (at) its end
     transliteration: ākhirahu
   16:
@@ -71,7 +71,7 @@ word_by_word:
     translation: perhaps they may
     transliteration: laʿallahum
   17:
-    arabic: يَرۡجِعُوۡنَ​​ۚ​ ۖ‏
+    arabic: يَرۡجِعُونَ
     translation: return
     transliteration: yarjiʿūna
 ---

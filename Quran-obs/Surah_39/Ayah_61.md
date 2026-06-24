@@ -1,27 +1,27 @@
 ---
-arabic_ayat: وَيُنَجِّىۡ اللّٰهُ الَّذِيۡنَ اتَّقَوۡا بِمَفَازَتِهِمۡ لَا يَمَسُّهُمُ
-  السُّوۡٓءُ وَلَا هُمۡ يَحۡزَنُوۡنَ‏
+arabic_ayat: وَيُنَجِّي ٱللَّهُ ٱلَّذِينَ ٱتَّقَوۡاْ بِمَفَازَتِهِمۡ لَا يَمَسُّهُمُ
+  ٱلسُّوٓءُ وَلَا هُمۡ يَحۡزَنُونَ
 sentence_translation: And Allah will deliver those who were mindful ˹of Him˺ to their
   place of ˹ultimate˺ triumph. No evil will touch them, nor will they grieve.
 word_by_word:
   1:
-    arabic: وَيُنَجِّىۡ
+    arabic: وَيُنَجِّي
     translation: And Allah will deliver
     transliteration: wayunajjī
   2:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: And Allah will deliver
     transliteration: l-lahu
   3:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   4:
-    arabic: اتَّقَوۡا
+    arabic: ٱتَّقَوۡاْ
     translation: feared (Him)
     transliteration: ittaqaw
   5:
-    arabic: بِمَفَازَتِهِمۡ
+    arabic: بِمَفَازَتِهِمۡ
     translation: to their place of salvation
     transliteration: bimafāzatihim
   6:
@@ -33,7 +33,7 @@ word_by_word:
     translation: will touch them
     transliteration: yamassuhumu
   8:
-    arabic: السُّوۡٓءُ
+    arabic: ٱلسُّوٓءُ
     translation: the evil
     transliteration: l-sūu
   9:
@@ -45,7 +45,7 @@ word_by_word:
     translation: they
     transliteration: hum
   11:
-    arabic: يَحۡزَنُوۡنَ‏
+    arabic: يَحۡزَنُونَ
     translation: will grieve
     transliteration: yaḥzanūna
 ---

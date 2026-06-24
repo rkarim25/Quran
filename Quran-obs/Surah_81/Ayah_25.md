@@ -1,5 +1,5 @@
 ---
-arabic_ayat: وَمَا هُوَ بِقَوۡلِ شَيۡطٰنٍ رَّجِيۡمٍۙ‏
+arabic_ayat: وَمَا هُوَ بِقَوۡلِ شَيۡطَٰنٖ رَّجِيمٖ
 sentence_translation: And this ˹Quran˺ is not the word of an outcast devil.
 word_by_word:
   1:
@@ -15,11 +15,11 @@ word_by_word:
     translation: (is the) word
     transliteration: biqawli
   4:
-    arabic: شَيۡطٰنٍ
+    arabic: شَيۡطَٰنٖ
     translation: (of) Shaitaan
     transliteration: shayṭānin
   5:
-    arabic: رَّجِيۡمٍۙ‏
+    arabic: رَّجِيمٖ
     translation: accursed
     transliteration: rajīmin
 ---

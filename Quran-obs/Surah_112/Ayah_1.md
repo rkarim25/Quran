@@ -1,5 +1,5 @@
 ---
-arabic_ayat: قُلۡ هُوَ اللّٰهُ اَحَدٌ​ ۚ‏
+arabic_ayat: قُلۡ هُوَ ٱللَّهُ أَحَدٌ
 sentence_translation: Say, ˹O Prophet,˺ “He is Allah—One ˹and Indivisible˺;
 word_by_word:
   1:
@@ -11,11 +11,11 @@ word_by_word:
     translation: He
     transliteration: huwa
   3:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: (is) Allah
     transliteration: l-lahu
   4:
-    arabic: اَحَدٌ​ ۚ‏
+    arabic: أَحَدٌ
     translation: the One
     transliteration: aḥadun
 ---

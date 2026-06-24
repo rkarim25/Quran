@@ -1,17 +1,17 @@
 ---
-arabic_ayat: وَاٰتَيۡنٰهُمۡ اٰيٰتِنَا فَكَانُوۡا عَنۡهَا مُعۡرِضِيۡنَۙ‏
+arabic_ayat: وَءَاتَيۡنَٰهُمۡ ءَايَٰتِنَا فَكَانُواْ عَنۡهَا مُعۡرِضِينَ
 sentence_translation: We gave them Our signs, but they turned away from them.
 word_by_word:
   1:
-    arabic: وَاٰتَيۡنٰهُمۡ
+    arabic: وَءَاتَيۡنَٰهُمۡ ءَ
     translation: And We gave them
     transliteration: waātaynāhum
   2:
-    arabic: اٰيٰتِنَا
+    arabic: ايَٰتِنَا
     translation: Our Signs
     transliteration: āyātinā
   3:
-    arabic: فَكَانُوۡا
+    arabic: فَكَانُواْ
     translation: but they were
     transliteration: fakānū
   4:
@@ -19,7 +19,7 @@ word_by_word:
     translation: from them
     transliteration: ʿanhā
   5:
-    arabic: مُعۡرِضِيۡنَۙ‏
+    arabic: مُعۡرِضِينَ
     translation: turning away
     transliteration: muʿ'riḍīna
 ---

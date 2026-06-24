@@ -1,27 +1,27 @@
 ---
-arabic_ayat: وَ كَانَ يَاۡمُرُ اَهۡلَهٗ بِالصَّلٰوةِ وَالزَّكٰوةِ وَكَانَ عِنۡدَ
-  رَبِّهٖ مَرۡضِيًّا‏
+arabic_ayat: وَكَانَ يَأۡمُرُ أَهۡلَهُۥ بِٱلصَّلَوٰةِ وَٱلزَّكَوٰةِ وَكَانَ عِندَ
+  رَبِّهِۦ مَرۡضِيّٗا
 sentence_translation: He used to urge his people to pray and give alms-tax. And his
   Lord was well pleased with him.
 word_by_word:
   1:
-    arabic: وَ كَانَ
+    arabic: وَكَانَ
     translation: And he used
     transliteration: wakāna
   2:
-    arabic: يَاۡمُرُ
+    arabic: يَأۡمُرُ
     translation: (to) enjoin
     transliteration: yamuru
   3:
-    arabic: اَهۡلَهٗ
+    arabic: أَهۡلَهُۥ
     translation: (on) his people
     transliteration: ahlahu
   4:
-    arabic: بِالصَّلٰوةِ
+    arabic: بِٱلصَّلَوٰةِ
     translation: the prayer
     transliteration: bil-ṣalati
   5:
-    arabic: وَالزَّكٰوةِ
+    arabic: وَٱلزَّكَوٰةِ
     translation: and zakah
     transliteration: wal-zakati
   6:
@@ -29,15 +29,15 @@ word_by_word:
     translation: and was
     transliteration: wakāna
   7:
-    arabic: عِنۡدَ
+    arabic: عِندَ
     translation: near
     transliteration: ʿinda
   8:
-    arabic: رَبِّهٖ
+    arabic: رَبِّهِۦ
     translation: his Lord
     transliteration: rabbihi
   9:
-    arabic: مَرۡضِيًّا‏
+    arabic: مَرۡضِيّٗا
     translation: pleasing
     transliteration: marḍiyyan
 ---

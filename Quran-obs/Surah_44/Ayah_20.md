@@ -1,10 +1,10 @@
 ---
-arabic_ayat: وَاِنِّىۡ عُذۡتُ بِرَبِّىۡ وَرَبِّكُمۡ اَنۡ تَرۡجُمُوۡنِ ۚ‏
+arabic_ayat: وَإِنِّي عُذۡتُ بِرَبِّي وَرَبِّكُمۡ أَن تَرۡجُمُونِ
 sentence_translation: And indeed, I seek refuge with my Lord and your Lord so you
   do not stone me ˹to death˺.
 word_by_word:
   1:
-    arabic: وَاِنِّىۡ
+    arabic: وَإِنِّي
     translation: And indeed, I
     transliteration: wa-innī
   2:
@@ -12,7 +12,7 @@ word_by_word:
     translation: '[I] seek refuge'
     transliteration: ʿudh'tu
   3:
-    arabic: بِرَبِّىۡ
+    arabic: بِرَبِّي
     translation: with my Lord
     transliteration: birabbī
   4:
@@ -20,11 +20,11 @@ word_by_word:
     translation: and your Lord
     transliteration: warabbikum
   5:
-    arabic: اَنۡ
+    arabic: أَن
     translation: lest
     transliteration: an
   6:
-    arabic: تَرۡجُمُوۡنِ ۚ‏
+    arabic: تَرۡجُمُونِ
     translation: you stone me
     transliteration: tarjumūni
 ---

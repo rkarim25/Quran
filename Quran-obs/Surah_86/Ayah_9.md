@@ -1,5 +1,5 @@
 ---
-arabic_ayat: يَوۡمَ تُبۡلَى السَّرَآٮِٕرُۙ‏
+arabic_ayat: يَوۡمَ تُبۡلَى ٱلسَّرَآئِرُ
 sentence_translation: on the Day all secrets will be disclosed.
 word_by_word:
   1:
@@ -11,7 +11,7 @@ word_by_word:
     translation: will be tested
     transliteration: tub'lā
   3:
-    arabic: السَّرَآٮِٕرُۙ‏
+    arabic: ٱلسَّرَآئِرُ
     translation: the secrets
     transliteration: l-sarāiru
 ---

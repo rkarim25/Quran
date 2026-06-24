@@ -1,19 +1,19 @@
 ---
-arabic_ayat: اِنَّ الَّذِيۡنَ كَفَرُوۡا بَعۡدَ اِيۡمَانِهِمۡ ثُمَّ ازۡدَادُوۡا كُفۡرًا
-  لَّنۡ تُقۡبَلَ تَوۡبَتُهُمۡ​ۚ وَاُولٰٓٮِٕكَ هُمُ الضَّآ لُّوۡنَ‏
+arabic_ayat: إِنَّ ٱلَّذِينَ كَفَرُواْ بَعۡدَ إِيمَٰنِهِمۡ ثُمَّ ٱزۡدَادُواْ كُفۡرٗا
+  لَّن تُقۡبَلَ تَوۡبَتُهُمۡ وَأُوْلَٰٓئِكَ هُمُ ٱلضَّآلُّونَ
 sentence_translation: Indeed, those who disbelieve after having believed then increase
   in disbelief, their repentance will never be accepted. It is they who are astray.
 word_by_word:
   1:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   3:
-    arabic: كَفَرُوۡا
+    arabic: كَفَرُواْ
     translation: disbelieved
     transliteration: kafarū
   4:
@@ -21,7 +21,7 @@ word_by_word:
     translation: after
     transliteration: baʿda
   5:
-    arabic: اِيۡمَانِهِمۡ
+    arabic: إِيمَٰنِهِمۡ
     translation: their belief
     transliteration: īmānihim
   6:
@@ -29,15 +29,15 @@ word_by_word:
     translation: then
     transliteration: thumma
   7:
-    arabic: ازۡدَادُوۡا
+    arabic: ٱزۡدَادُواْ
     translation: they increased
     transliteration: iz'dādū
   8:
-    arabic: كُفۡرًا
+    arabic: كُفۡرٗا
     translation: (in) disbelief
     transliteration: kuf'ran
   9:
-    arabic: لَّنۡ
+    arabic: لَّن
     translation: never
     transliteration: lan
   10:
@@ -45,11 +45,11 @@ word_by_word:
     translation: will be accepted
     transliteration: tuq'bala
   11:
-    arabic: تَوۡبَتُهُمۡ​ۚ
+    arabic: تَوۡبَتُهُمۡ
     translation: their repentance
     transliteration: tawbatuhum
   12:
-    arabic: وَاُولٰٓٮِٕكَ
+    arabic: وَأُوْلَٰٓئِكَ
     translation: 'and those '
     transliteration: wa-ulāika
   13:
@@ -57,7 +57,7 @@ word_by_word:
     translation: they
     transliteration: humu
   14:
-    arabic: الضَّآ لُّوۡنَ‏
+    arabic: ٱلضَّآلُّونَ
     translation: (are) those who have gone astray
     transliteration: l-ḍālūna
 ---

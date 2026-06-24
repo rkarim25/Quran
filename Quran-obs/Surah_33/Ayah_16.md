@@ -1,32 +1,32 @@
 ---
-arabic_ayat: قُلْ لَّنۡ يَّنۡفَعَكُمُ الۡفِرَارُ اِنۡ فَرَرۡتُمۡ مِّنَ الۡمَوۡتِ اَوِ
-  الۡقَتۡلِ وَاِذًا لَّا تُمَتَّعُوۡنَ اِلَّا قَلِيۡلًا‏
+arabic_ayat: قُل لَّن يَنفَعَكُمُ ٱلۡفِرَارُ إِن فَرَرۡتُم مِّنَ ٱلۡمَوۡتِ أَوِ ٱلۡقَتۡلِ
+  وَإِذٗا لَّا تُمَتَّعُونَ إِلَّا قَلِيلٗا
 sentence_translation: Say, ˹O Prophet,˺ “Fleeing will not benefit you if you ˹try
   to˺ escape a natural or violent death. ˹If it is not your time,˺ you will only be
   allowed enjoyment for a little while.”
 word_by_word:
   1:
-    arabic: قُلْ
+    arabic: قُل
     translation: Say
     transliteration: qul
   2:
-    arabic: لَّنۡ
+    arabic: لَّن
     translation: Never
     transliteration: lan
   3:
-    arabic: يَّنۡفَعَكُمُ
+    arabic: يَنفَعَكُمُ
     translation: will benefit you
     transliteration: yanfaʿakumu
   4:
-    arabic: الۡفِرَارُ
+    arabic: ٱلۡفِرَارُ
     translation: the fleeing
     transliteration: l-firāru
   5:
-    arabic: اِنۡ
+    arabic: إِن
     translation: if
     transliteration: in
   6:
-    arabic: فَرَرۡتُمۡ
+    arabic: فَرَرۡتُم
     translation: you flee
     transliteration: farartum
   7:
@@ -34,19 +34,19 @@ word_by_word:
     translation: from
     transliteration: mina
   8:
-    arabic: الۡمَوۡتِ
+    arabic: ٱلۡمَوۡتِ
     translation: death
     transliteration: l-mawti
   9:
-    arabic: اَوِ
+    arabic: أَوِ
     translation: or
     transliteration: awi
   10:
-    arabic: الۡقَتۡلِ
+    arabic: ٱلۡقَتۡلِ
     translation: killing
     transliteration: l-qatli
   11:
-    arabic: وَاِذًا
+    arabic: وَإِذٗا
     translation: and then
     transliteration: wa-idhan
   12:
@@ -54,15 +54,15 @@ word_by_word:
     translation: not
     transliteration: lā
   13:
-    arabic: تُمَتَّعُوۡنَ
+    arabic: تُمَتَّعُونَ
     translation: you will be allowed to enjoy
     transliteration: tumattaʿūna
   14:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   15:
-    arabic: قَلِيۡلًا‏
+    arabic: قَلِيلٗا
     translation: a little
     transliteration: qalīlan
 ---

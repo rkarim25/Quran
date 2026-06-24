@@ -1,15 +1,15 @@
 ---
-arabic_ayat: قَالُوۡا يٰۤاَبَانَا مَا لَـكَ لَا تَاۡمَنَّا عَلٰى يُوۡسُفَ وَاِنَّا
-  لَهٗ لَنٰصِحُوۡنَ‏
+arabic_ayat: قَالُواْ يَٰٓأَبَانَا مَا لَكَ لَا تَأۡمَ۬نَّا عَلَىٰ يُوسُفَ وَإِنَّا
+  لَهُۥ لَنَٰصِحُونَ
 sentence_translation: They said, “O our father! Why do you not trust us with Joseph,
   although we truly wish him well?
 word_by_word:
   1:
-    arabic: قَالُوۡا
+    arabic: قَالُواْ
     translation: They said
     transliteration: qālū
   2:
-    arabic: يٰۤاَبَانَا
+    arabic: يَٰٓأَبَانَا
     translation: O our father
     transliteration: yāabānā
   3:
@@ -17,7 +17,7 @@ word_by_word:
     translation: Why
     transliteration: mā
   4:
-    arabic: لَـكَ
+    arabic: لَكَ
     translation: (do) you
     transliteration: laka
   5:
@@ -25,27 +25,27 @@ word_by_word:
     translation: not
     transliteration: lā
   6:
-    arabic: تَاۡمَنَّا
+    arabic: تَأۡمَ۬نَّا
     translation: trust us
     transliteration: tamannā
   7:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: with
     transliteration: ʿalā
   8:
-    arabic: يُوۡسُفَ
+    arabic: يُوسُفَ
     translation: Yusuf
     transliteration: yūsufa
   9:
-    arabic: وَاِنَّا
+    arabic: وَإِنَّا
     translation: while indeed, we
     transliteration: wa-innā
   10:
-    arabic: لَهٗ
+    arabic: لَهُۥ
     translation: (are) for him
     transliteration: lahu
   11:
-    arabic: لَنٰصِحُوۡنَ‏
+    arabic: لَنَٰصِحُونَ
     translation: surely well-wishers
     transliteration: lanāṣiḥūna
 ---

@@ -1,9 +1,9 @@
 ---
-arabic_ayat: وَالَّذِيۡنَ هُمۡ لِفُرُوۡجِهِمۡ حٰفِظُوۡنَۙ‏
+arabic_ayat: وَٱلَّذِينَ هُمۡ لِفُرُوجِهِمۡ حَٰفِظُونَ
 sentence_translation: and those who guard their chastity
 word_by_word:
   1:
-    arabic: وَالَّذِيۡنَ
+    arabic: وَٱلَّذِينَ
     translation: And those who
     transliteration: wa-alladhīna
   2:
@@ -11,11 +11,11 @@ word_by_word:
     translation: '[they]'
     transliteration: hum
   3:
-    arabic: لِفُرُوۡجِهِمۡ
+    arabic: لِفُرُوجِهِمۡ
     translation: their modesty
     transliteration: lifurūjihim
   4:
-    arabic: حٰفِظُوۡنَۙ‏
+    arabic: حَٰفِظُونَ
     translation: (are) guardians
     transliteration: ḥāfiẓūna
 ---

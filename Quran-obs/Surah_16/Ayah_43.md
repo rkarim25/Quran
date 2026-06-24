@@ -1,20 +1,20 @@
 ---
-arabic_ayat: وَمَاۤ اَرۡسَلۡنَا مِنۡ قَبۡلِكَ اِلَّا رِجَالًا نُّوۡحِىۡۤ اِلَيۡهِمۡ​
-  فَسۡـــَٔلُوۡۤا اَهۡلَ الذِّكۡرِ اِنۡ كُنۡتُمۡ لَا تَعۡلَمُوۡنَۙ‏
+arabic_ayat: وَمَآ أَرۡسَلۡنَا مِن قَبۡلِكَ إِلَّا رِجَالٗا نُّوحِيٓ إِلَيۡهِمۡۖ
+  فَسۡـَٔلُوٓاْ أَهۡلَ ٱلذِّكۡرِ إِن كُنتُمۡ لَا تَعۡلَمُونَ
 sentence_translation: We did not send ˹messengers˺ before you ˹O Prophet˺ except mere
   men inspired by Us. If you ˹polytheists˺ do not know ˹this already˺, then ask those
   who have knowledge ˹of the Scriptures˺.
 word_by_word:
   1:
-    arabic: وَمَاۤ
+    arabic: وَمَآ
     translation: And not
     transliteration: wamā
   2:
-    arabic: اَرۡسَلۡنَا
+    arabic: أَرۡسَلۡنَا
     translation: We sent
     transliteration: arsalnā
   3:
-    arabic: مِنۡ
+    arabic: مِن
     translation: before you
     transliteration: min
   4:
@@ -22,39 +22,39 @@ word_by_word:
     translation: before you
     transliteration: qablika
   5:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   6:
-    arabic: رِجَالًا
+    arabic: رِجَالٗا
     translation: men
     transliteration: rijālan
   7:
-    arabic: نُّوۡحِىۡۤ
+    arabic: نُّوحِيٓ
     translation: We revealed
     transliteration: nūḥī
   8:
-    arabic: اِلَيۡهِمۡ​
+    arabic: إِلَيۡهِمۡۖ
     translation: to them
     transliteration: ilayhim
   9:
-    arabic: فَسۡـــَٔلُوۡۤا
+    arabic: فَسۡـَٔلُوٓاْ
     translation: so ask
     transliteration: fasalū
   10:
-    arabic: اَهۡلَ
+    arabic: أَهۡلَ
     translation: (the) people
     transliteration: ahla
   11:
-    arabic: الذِّكۡرِ
+    arabic: ٱلذِّكۡرِ
     translation: (of) the Reminder
     transliteration: l-dhik'ri
   12:
-    arabic: اِنۡ
+    arabic: إِن
     translation: if
     transliteration: in
   13:
-    arabic: كُنۡتُمۡ
+    arabic: كُنتُمۡ
     translation: you
     transliteration: kuntum
   14:
@@ -62,7 +62,7 @@ word_by_word:
     translation: (do) not
     transliteration: lā
   15:
-    arabic: تَعۡلَمُوۡنَۙ‏
+    arabic: تَعۡلَمُونَ
     translation: know
     transliteration: taʿlamūna
 ---

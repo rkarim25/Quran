@@ -1,13 +1,13 @@
 ---
-arabic_ayat: وَّنَمَارِقُ مَصۡفُوۡفَةٌ ۙ‏
+arabic_ayat: وَنَمَارِقُ مَصۡفُوفَةٞ
 sentence_translation: and ˹fine˺ cushions lined up,
 word_by_word:
   1:
-    arabic: وَّنَمَارِقُ
+    arabic: وَنَمَارِقُ
     translation: And cushions
     transliteration: wanamāriqu
   2:
-    arabic: مَصۡفُوۡفَةٌ ۙ‏
+    arabic: مَصۡفُوفَةٞ
     translation: lined up
     transliteration: maṣfūfatun
 ---

@@ -1,33 +1,33 @@
 ---
-arabic_ayat: "تَاللّٰهِ لَـقَدۡ اَرۡسَلۡنَاۤ اِلٰٓى اُمَمٍ مِّنۡ قَبۡلِكَ فَزَيَّنَ\
-  \ لَهُمُ الشَّيۡطٰنُ اَعۡمَالَهُمۡ فَهُوَ وَلِيُّهُمُ الۡيَوۡمَ وَلَهُمۡ عَذَابٌ\
-  \ اَلِيۡمٌ‏ \uFEFF\uFEFF"
+arabic_ayat: تَٱللَّهِ لَقَدۡ أَرۡسَلۡنَآ إِلَىٰٓ أُمَمٖ مِّن قَبۡلِكَ فَزَيَّنَ
+  لَهُمُ ٱلشَّيۡطَٰنُ أَعۡمَٰلَهُمۡ فَهُوَ وَلِيُّهُمُ ٱلۡيَوۡمَ وَلَهُمۡ عَذَابٌ
+  أَلِيمٞ
 sentence_translation: By Allah! We have surely sent messengers to communities before
   you ˹O Prophet˺, but Satan made their misdeeds appealing to them. So he is their
   patron today, and they will suffer a painful punishment.
 word_by_word:
   1:
-    arabic: تَاللّٰهِ
+    arabic: تَٱللَّهِ
     translation: By Allah
     transliteration: tal-lahi
   2:
-    arabic: لَـقَدۡ
+    arabic: لَقَدۡ
     translation: certainly
     transliteration: laqad
   3:
-    arabic: اَرۡسَلۡنَاۤ
+    arabic: أَرۡسَلۡنَآ
     translation: We have sent
     transliteration: arsalnā
   4:
-    arabic: اِلٰٓى
+    arabic: إِلَىٰٓ
     translation: to
     transliteration: ilā
   5:
-    arabic: اُمَمٍ
+    arabic: أُمَمٖ
     translation: nations
     transliteration: umamin
   6:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: before you
     transliteration: min
   7:
@@ -43,11 +43,11 @@ word_by_word:
     translation: to them
     transliteration: lahumu
   10:
-    arabic: الشَّيۡطٰنُ
+    arabic: ٱلشَّيۡطَٰنُ
     translation: the Shaitaan
     transliteration: l-shayṭānu
   11:
-    arabic: اَعۡمَالَهُمۡ
+    arabic: أَعۡمَٰلَهُمۡ
     translation: their deeds
     transliteration: aʿmālahum
   12:
@@ -59,7 +59,7 @@ word_by_word:
     translation: (is) their ally
     transliteration: waliyyuhumu
   14:
-    arabic: الۡيَوۡمَ
+    arabic: ٱلۡيَوۡمَ
     translation: today
     transliteration: l-yawma
   15:
@@ -71,7 +71,7 @@ word_by_word:
     translation: (is) a punishment
     transliteration: ʿadhābun
   17:
-    arabic: "اَلِيۡمٌ‏ \uFEFF\uFEFF"
+    arabic: أَلِيمٞ
     translation: painful
     transliteration: alīmun
 ---

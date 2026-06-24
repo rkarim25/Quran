@@ -1,11 +1,11 @@
 ---
-arabic_ayat: وَالَّذِيۡنَ لَا يَشۡهَدُوۡنَ الزُّوۡرَۙ وَ اِذَا مَرُّوۡا بِاللَّغۡوِ
-  مَرُّوۡا كِرَامًا‏
+arabic_ayat: وَٱلَّذِينَ لَا يَشۡهَدُونَ ٱلزُّورَ وَإِذَا مَرُّواْ بِٱللَّغۡوِ مَرُّواْ
+  كِرَامٗا
 sentence_translation: ˹They are˺ those who do not bear false witness, and when they
   come across falsehood, they pass ˹it˺ by with dignity.
 word_by_word:
   1:
-    arabic: وَالَّذِيۡنَ
+    arabic: وَٱلَّذِينَ
     translation: And those who
     transliteration: wa-alladhīna
   2:
@@ -13,31 +13,31 @@ word_by_word:
     translation: (do) not
     transliteration: lā
   3:
-    arabic: يَشۡهَدُوۡنَ
+    arabic: يَشۡهَدُونَ
     translation: bear witness
     transliteration: yashhadūna
   4:
-    arabic: الزُّوۡرَۙ
+    arabic: ٱلزُّورَ
     translation: (to) the falsehood
     transliteration: l-zūra
   5:
-    arabic: وَ اِذَا
+    arabic: وَإِذَا
     translation: and when
     transliteration: wa-idhā
   6:
-    arabic: مَرُّوۡا
+    arabic: مَرُّواْ
     translation: they pass
     transliteration: marrū
   7:
-    arabic: بِاللَّغۡوِ
+    arabic: بِٱللَّغۡوِ
     translation: by futility
     transliteration: bil-laghwi
   8:
-    arabic: مَرُّوۡا
+    arabic: مَرُّواْ
     translation: they pass
     transliteration: marrū
   9:
-    arabic: كِرَامًا‏
+    arabic: كِرَامٗا
     translation: (as) dignified ones
     transliteration: kirāman
 ---

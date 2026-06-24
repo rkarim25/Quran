@@ -1,12 +1,12 @@
 ---
-arabic_ayat: فَتَوَلّٰى عَنۡهُمۡ وَقَالَ يٰقَوۡمِ لَقَدۡ اَبۡلَغۡتُكُمۡ رِسٰلٰتِ رَبِّىۡ
-  وَنَصَحۡتُ لَـكُمۡ​ۚ فَكَيۡفَ اٰسٰی عَلٰى قَوۡمٍ كٰفِرِيۡنَ‏
+arabic_ayat: فَتَوَلَّىٰ عَنۡهُمۡ وَقَالَ يَٰقَوۡمِ لَقَدۡ أَبۡلَغۡتُكُمۡ رِسَٰلَٰتِ
+  رَبِّي وَنَصَحۡتُ لَكُمۡۖ فَكَيۡفَ ءَاسَىٰ عَلَىٰ قَوۡمٖ كَٰفِرِينَ
 sentence_translation: He turned away from them, saying, “O my people! Indeed, I have
   delivered to you the messages of my Lord and gave you ˹sincere˺ advice. How can
   I then grieve for those who chose to disbelieve?”
 word_by_word:
   1:
-    arabic: فَتَوَلّٰى
+    arabic: فَتَوَلَّىٰ
     translation: So he turned away
     transliteration: fatawallā
   2:
@@ -18,7 +18,7 @@ word_by_word:
     translation: and said
     transliteration: waqāla
   4:
-    arabic: يٰقَوۡمِ
+    arabic: يَٰقَوۡمِ
     translation: O my people
     transliteration: yāqawmi
   5:
@@ -26,15 +26,15 @@ word_by_word:
     translation: Verily
     transliteration: laqad
   6:
-    arabic: اَبۡلَغۡتُكُمۡ
+    arabic: أَبۡلَغۡتُكُمۡ
     translation: I (have) conveyed to you
     transliteration: ablaghtukum
   7:
-    arabic: رِسٰلٰتِ
+    arabic: رِسَٰلَٰتِ
     translation: (the) Messages
     transliteration: risālāti
   8:
-    arabic: رَبِّىۡ
+    arabic: رَبِّي
     translation: (of) my Lord
     transliteration: rabbī
   9:
@@ -42,27 +42,27 @@ word_by_word:
     translation: and advised
     transliteration: wanaṣaḥtu
   10:
-    arabic: لَـكُمۡ​ۚ
+    arabic: لَكُمۡۖ
     translation: '[to] you'
     transliteration: lakum
   11:
-    arabic: فَكَيۡفَ
+    arabic: فَكَيۡفَ ءَ
     translation: So how could
     transliteration: fakayfa
   12:
-    arabic: اٰسٰی
+    arabic: اسَىٰ
     translation: I grieve
     transliteration: āsā
   13:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: for
     transliteration: ʿalā
   14:
-    arabic: قَوۡمٍ
+    arabic: قَوۡمٖ
     translation: a people
     transliteration: qawmin
   15:
-    arabic: كٰفِرِيۡنَ‏
+    arabic: كَٰفِرِينَ
     translation: (who are) disbelievers
     transliteration: kāfirīna
 ---

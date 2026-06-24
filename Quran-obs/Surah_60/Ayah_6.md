@@ -1,7 +1,6 @@
 ---
-arabic_ayat: "لَقَدۡ كَانَ لَـكُمۡ فِيۡهِمۡ اُسۡوَةٌ حَسَنَةٌ لِّمَنۡ كَانَ يَرۡجُوا\
-  \ اللّٰهَ وَالۡيَوۡمَ الۡاٰخِرَ​ ؕ وَمَنۡ يَّتَوَلَّ فَاِنَّ اللّٰهَ هُوَ الۡغَنِىُّ\
-  \ الۡحَمِيۡدُ‏ \uFEFF\uFEFF"
+arabic_ayat: لَقَدۡ كَانَ لَكُمۡ فِيهِمۡ أُسۡوَةٌ حَسَنَةٞ لِّمَن كَانَ يَرۡجُواْ
+  ٱللَّهَ وَٱلۡيَوۡمَ ٱلۡأٓخِرَۚ وَمَن يَتَوَلَّ فَإِنَّ ٱللَّهَ هُوَ ٱلۡغَنِيُّ ٱلۡحَمِيدُ
 sentence_translation: You certainly have an excellent example in them for whoever
   has hope in Allah and the Last Day. But whoever turns away, then surely Allah ˹alone˺
   is the Self-Sufficient, Praiseworthy.
@@ -15,23 +14,23 @@ word_by_word:
     translation: (there) is
     transliteration: kāna
   3:
-    arabic: لَـكُمۡ
+    arabic: لَكُمۡ
     translation: for you
     transliteration: lakum
   4:
-    arabic: فِيۡهِمۡ
+    arabic: فِيهِمۡ
     translation: in them
     transliteration: fīhim
   5:
-    arabic: اُسۡوَةٌ
+    arabic: أُسۡوَةٌ
     translation: an example
     transliteration: us'watun
   6:
-    arabic: حَسَنَةٌ
+    arabic: حَسَنَةٞ
     translation: good
     transliteration: ḥasanatun
   7:
-    arabic: لِّمَنۡ
+    arabic: لِّمَن
     translation: for (he) who
     transliteration: liman
   8:
@@ -39,35 +38,35 @@ word_by_word:
     translation: is
     transliteration: kāna
   9:
-    arabic: يَرۡجُوا
+    arabic: يَرۡجُواْ
     translation: hopeful
     transliteration: yarjū
   10:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: (in) Allah
     transliteration: l-laha
   11:
-    arabic: وَالۡيَوۡمَ
+    arabic: وَٱلۡيَوۡمَ
     translation: and the Day
     transliteration: wal-yawma
   12:
-    arabic: الۡاٰخِرَ​ ؕ
+    arabic: ٱلۡأٓخِرَۚ
     translation: the Last
     transliteration: l-ākhira
   13:
-    arabic: وَمَنۡ
+    arabic: وَمَن
     translation: And whoever
     transliteration: waman
   14:
-    arabic: يَّتَوَلَّ
+    arabic: يَتَوَلَّ
     translation: turns away
     transliteration: yatawalla
   15:
-    arabic: فَاِنَّ
+    arabic: فَإِنَّ
     translation: then indeed
     transliteration: fa-inna
   16:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   17:
@@ -75,11 +74,11 @@ word_by_word:
     translation: He
     transliteration: huwa
   18:
-    arabic: الۡغَنِىُّ
+    arabic: ٱلۡغَنِيُّ
     translation: (is) Free of need
     transliteration: l-ghaniyu
   19:
-    arabic: "الۡحَمِيۡدُ‏ \uFEFF\uFEFF"
+    arabic: ٱلۡحَمِيدُ
     translation: the Praiseworthy
     transliteration: l-ḥamīdu
 ---

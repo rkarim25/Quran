@@ -1,35 +1,35 @@
 ---
-arabic_ayat: الَّذِيۡنَ كَذَّبُوۡا بِالۡكِتٰبِ وَبِمَاۤ اَرۡسَلۡنَا بِهٖ رُسُلَنَا
-  ۛ  فَسَوۡفَ يَعۡلَمُوۡنَ ۙ‏
+arabic_ayat: ٱلَّذِينَ كَذَّبُواْ بِٱلۡكِتَٰبِ وَبِمَآ أَرۡسَلۡنَا بِهِۦ رُسُلَنَاۖ
+  فَسَوۡفَ يَعۡلَمُونَ
 sentence_translation: ˹They are˺ the ones who reject this Book and all ˹scriptures˺
   We sent Our messengers with. So they will know ˹the consequences˺
 word_by_word:
   1:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: Those who
     transliteration: alladhīna
   2:
-    arabic: كَذَّبُوۡا
+    arabic: كَذَّبُواْ
     translation: deny
     transliteration: kadhabū
   3:
-    arabic: بِالۡكِتٰبِ
+    arabic: بِٱلۡكِتَٰبِ
     translation: the Book
     transliteration: bil-kitābi
   4:
-    arabic: وَبِمَاۤ
+    arabic: وَبِمَآ
     translation: and with what
     transliteration: wabimā
   5:
-    arabic: اَرۡسَلۡنَا
+    arabic: أَرۡسَلۡنَا
     translation: We sent
     transliteration: arsalnā
   6:
-    arabic: بِهٖ
+    arabic: بِهِۦ
     translation: with it
     transliteration: bihi
   7:
-    arabic: رُسُلَنَا ۛ 
+    arabic: رُسُلَنَاۖ
     translation: Our Messengers
     transliteration: rusulanā
   8:
@@ -37,7 +37,7 @@ word_by_word:
     translation: but soon
     transliteration: fasawfa
   9:
-    arabic: يَعۡلَمُوۡنَ ۙ‏
+    arabic: يَعۡلَمُونَ
     translation: they will know
     transliteration: yaʿlamūna
 ---

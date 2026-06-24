@@ -1,15 +1,15 @@
 ---
-arabic_ayat: وَاِذَا قِيۡلَ لَهُ اتَّقِ اللّٰهَ اَخَذَتۡهُ الۡعِزَّةُ بِالۡاِثۡمِ​
-  فَحَسۡبُهٗ جَهَنَّمُ​ؕ وَلَبِئۡسَ الۡمِهَادُ‏
+arabic_ayat: وَإِذَا قِيلَ لَهُ ٱتَّقِ ٱللَّهَ أَخَذَتۡهُ ٱلۡعِزَّةُ بِٱلۡإِثۡمِۚ
+  فَحَسۡبُهُۥ جَهَنَّمُۖ وَلَبِئۡسَ ٱلۡمِهَادُ
 sentence_translation: When it is said to them, “Fear Allah,” pride carries them off
   to sin. Hell will be their proper place. What an evil place to rest!
 word_by_word:
   1:
-    arabic: وَاِذَا
+    arabic: وَإِذَا
     translation: And when
     transliteration: wa-idhā
   2:
-    arabic: قِيۡلَ
+    arabic: قِيلَ
     translation: it is said
     transliteration: qīla
   3:
@@ -17,31 +17,31 @@ word_by_word:
     translation: to him
     transliteration: lahu
   4:
-    arabic: اتَّقِ
+    arabic: ٱتَّقِ
     translation: Fear
     transliteration: ittaqi
   5:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   6:
-    arabic: اَخَذَتۡهُ
+    arabic: أَخَذَتۡهُ
     translation: takes him
     transliteration: akhadhathu
   7:
-    arabic: الۡعِزَّةُ
+    arabic: ٱلۡعِزَّةُ
     translation: (his) pride
     transliteration: l-ʿizatu
   8:
-    arabic: بِالۡاِثۡمِ​
+    arabic: بِٱلۡإِثۡمِۚ
     translation: to [the] sins
     transliteration: bil-ith'mi
   9:
-    arabic: فَحَسۡبُهٗ
+    arabic: فَحَسۡبُهُۥ
     translation: Then enough for him
     transliteration: faḥasbuhu
   10:
-    arabic: جَهَنَّمُ​ؕ
+    arabic: جَهَنَّمُۖ
     translation: '(is) Hell '
     transliteration: jahannamu
   11:
@@ -49,7 +49,7 @@ word_by_word:
     translation: '[and] surely an evil'
     transliteration: walabi'sa
   12:
-    arabic: الۡمِهَادُ‏
+    arabic: ٱلۡمِهَادُ
     translation: '[the] resting-place'
     transliteration: l-mihādu
 ---

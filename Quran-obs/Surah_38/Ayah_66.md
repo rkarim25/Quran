@@ -1,5 +1,5 @@
 ---
-arabic_ayat: رَبُّ السَّمٰوٰتِ وَالۡاَرۡضِ وَمَا بَيۡنَهُمَا الۡعَزِيۡزُ الۡغَفَّارُ‏
+arabic_ayat: رَبُّ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِ وَمَا بَيۡنَهُمَا ٱلۡعَزِيزُ ٱلۡغَفَّٰرُ
 sentence_translation: ˹He is the˺ Lord of the heavens and the earth and everything
   in between—the Almighty, Most Forgiving.”
 word_by_word:
@@ -8,11 +8,11 @@ word_by_word:
     translation: Lord
     transliteration: rabbu
   2:
-    arabic: السَّمٰوٰتِ
+    arabic: ٱلسَّمَٰوَٰتِ
     translation: (of) the heavens
     transliteration: l-samāwāti
   3:
-    arabic: وَالۡاَرۡضِ
+    arabic: وَٱلۡأَرۡضِ
     translation: and the earth
     transliteration: wal-arḍi
   4:
@@ -24,11 +24,11 @@ word_by_word:
     translation: (is) between them
     transliteration: baynahumā
   6:
-    arabic: الۡعَزِيۡزُ
+    arabic: ٱلۡعَزِيزُ
     translation: the All-Mighty
     transliteration: l-ʿazīzu
   7:
-    arabic: الۡغَفَّارُ‏
+    arabic: ٱلۡغَفَّٰرُ
     translation: the Oft-Forgiving
     transliteration: l-ghafāru
 ---

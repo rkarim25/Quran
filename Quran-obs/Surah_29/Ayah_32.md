@@ -1,7 +1,6 @@
 ---
-arabic_ayat: "قَالَ اِنَّ فِيۡهَا لُوۡطًا ​ؕ قَالُوۡا نَحۡنُ اَعۡلَمُ بِمَنۡ فِيۡهَا​\
-  \ لَـنُـنَجِّيَـنَّهٗ وَاَهۡلَهٗۤ اِلَّا امۡرَاَتَهٗ كَانَتۡ مِنَ الۡغٰبِرِيۡنَ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: قَالَ إِنَّ فِيهَا لُوطٗاۚ قَالُواْ نَحۡنُ أَعۡلَمُ بِمَن فِيهَاۖ لَنُنَجِّيَنَّهُۥ
+  وَأَهۡلَهُۥٓ إِلَّا ٱمۡرَأَتَهُۥ كَانَتۡ مِنَ ٱلۡغَٰبِرِينَ
 sentence_translation: He said, “But Lot is there!” They responded, “We know best who
   is there. We will certainly save him and his family—except his wife, who is one
   of the doomed.”
@@ -11,19 +10,19 @@ word_by_word:
     translation: He said
     transliteration: qāla
   2:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   3:
-    arabic: فِيۡهَا
+    arabic: فِيهَا
     translation: in it
     transliteration: fīhā
   4:
-    arabic: لُوۡطًا ​ؕ
+    arabic: لُوطٗاۚ
     translation: (is) Lut
     transliteration: lūṭan
   5:
-    arabic: قَالُوۡا
+    arabic: قَالُواْ
     translation: They said
     transliteration: qālū
   6:
@@ -31,31 +30,31 @@ word_by_word:
     translation: We
     transliteration: naḥnu
   7:
-    arabic: اَعۡلَمُ
+    arabic: أَعۡلَمُ
     translation: know better
     transliteration: aʿlamu
   8:
-    arabic: بِمَنۡ
+    arabic: بِمَن
     translation: who
     transliteration: biman
   9:
-    arabic: فِيۡهَا​
+    arabic: فِيهَاۖ
     translation: (is) in it
     transliteration: fīhā
   10:
-    arabic: لَـنُـنَجِّيَـنَّهٗ
+    arabic: لَنُنَجِّيَنَّهُۥ
     translation: We will surely save him
     transliteration: lanunajjiyannahu
   11:
-    arabic: وَاَهۡلَهٗۤ
+    arabic: وَأَهۡلَهُۥٓ
     translation: and his family
     transliteration: wa-ahlahu
   12:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   13:
-    arabic: امۡرَاَتَهٗ
+    arabic: ٱمۡرَأَتَهُۥ
     translation: his wife
     transliteration: im'ra-atahu
   14:
@@ -67,7 +66,7 @@ word_by_word:
     translation: (is) of
     transliteration: mina
   16:
-    arabic: "الۡغٰبِرِيۡنَ‏ \uFEFF\uFEFF"
+    arabic: ٱلۡغَٰبِرِينَ
     translation: those who remain behind
     transliteration: l-ghābirīna
 ---

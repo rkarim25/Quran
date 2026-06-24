@@ -1,36 +1,36 @@
 ---
-arabic_ayat: يُؤۡتِى الۡحِكۡمَةَ مَنۡ يَّشَآءُ​​ ۚ وَمَنۡ يُّؤۡتَ الۡحِكۡمَةَ فَقَدۡ
-  اُوۡتِىَ خَيۡرًا كَثِيۡرًا​ ؕ وَمَا يَذَّكَّرُ اِلَّاۤ اُولُوا الۡاَلۡبَابِ‏
+arabic_ayat: يُؤۡتِي ٱلۡحِكۡمَةَ مَن يَشَآءُۚ وَمَن يُؤۡتَ ٱلۡحِكۡمَةَ فَقَدۡ أُوتِيَ
+  خَيۡرٗا كَثِيرٗاۗ وَمَا يَذَّكَّرُ إِلَّآ أُوْلُواْ ٱلۡأَلۡبَٰبِ
 sentence_translation: Allah grants wisdom to whoever He wills. And whoever is granted
   wisdom is certainly blessed with a great privilege. But none will be mindful ˹of
   this˺ except people of reason.
 word_by_word:
   1:
-    arabic: يُؤۡتِى
+    arabic: يُؤۡتِي
     translation: He grants
     transliteration: yu'tī
   2:
-    arabic: الۡحِكۡمَةَ
+    arabic: ٱلۡحِكۡمَةَ
     translation: '[the] wisdom'
     transliteration: l-ḥik'mata
   3:
-    arabic: مَنۡ
+    arabic: مَن
     translation: (to) whom
     transliteration: man
   4:
-    arabic: يَّشَآءُ​​ ۚ
+    arabic: يَشَآءُۚ
     translation: He wills
     transliteration: yashāu
   5:
-    arabic: وَمَنۡ
+    arabic: وَمَن
     translation: and whoever
     transliteration: waman
   6:
-    arabic: يُّؤۡتَ
+    arabic: يُؤۡتَ
     translation: is granted
     transliteration: yu'ta
   7:
-    arabic: الۡحِكۡمَةَ
+    arabic: ٱلۡحِكۡمَةَ
     translation: '[the] wisdom'
     transliteration: l-ḥik'mata
   8:
@@ -38,15 +38,15 @@ word_by_word:
     translation: then certainly
     transliteration: faqad
   9:
-    arabic: اُوۡتِىَ
+    arabic: أُوتِيَ
     translation: he is granted
     transliteration: ūtiya
   10:
-    arabic: خَيۡرًا
+    arabic: خَيۡرٗا
     translation: good
     transliteration: khayran
   11:
-    arabic: كَثِيۡرًا​ ؕ
+    arabic: كَثِيرٗاۗ
     translation: abundant
     transliteration: kathīran
   12:
@@ -58,15 +58,15 @@ word_by_word:
     translation: remembers
     transliteration: yadhakkaru
   14:
-    arabic: اِلَّاۤ
+    arabic: إِلَّآ
     translation: except
     transliteration: illā
   15:
-    arabic: اُولُوا
+    arabic: أُوْلُواْ
     translation: those
     transliteration: ulū
   16:
-    arabic: الۡاَلۡبَابِ‏
+    arabic: ٱلۡأَلۡبَٰبِ
     translation: (of) understanding
     transliteration: l-albābi
 ---

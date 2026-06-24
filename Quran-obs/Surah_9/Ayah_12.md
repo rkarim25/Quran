@@ -1,25 +1,25 @@
 ---
-arabic_ayat: وَاِنۡ نَّكَثُوۡۤا اَيۡمَانَهُمۡ مِّنۡۢ بَعۡدِ عَهۡدِهِمۡ وَطَعَنُوۡا
-  فِىۡ دِيۡـنِكُمۡ فَقَاتِلُوۡۤا اَٮِٕمَّةَ الۡـكُفۡرِ​ۙ اِنَّهُمۡ لَاۤ اَيۡمَانَ
-  لَهُمۡ لَعَلَّهُمۡ يَنۡتَهُوۡنَ‏
+arabic_ayat: وَإِن نَّكَثُوٓاْ أَيۡمَٰنَهُم مِّنۢ بَعۡدِ عَهۡدِهِمۡ وَطَعَنُواْ فِي
+  دِينِكُمۡ فَقَٰتِلُوٓاْ أَئِمَّةَ ٱلۡكُفۡرِ إِنَّهُمۡ لَآ أَيۡمَٰنَ لَهُمۡ لَعَلَّهُمۡ
+  يَنتَهُونَ
 sentence_translation: But if they break their oaths after making a pledge and attack
   your faith, then fight the champions of disbelief—who never honour their oaths—so
   perhaps they will desist.
 word_by_word:
   1:
-    arabic: وَاِنۡ
+    arabic: وَإِن
     translation: And if
     transliteration: wa-in
   2:
-    arabic: نَّكَثُوۡۤا
+    arabic: نَّكَثُوٓاْ
     translation: they break
     transliteration: nakathū
   3:
-    arabic: اَيۡمَانَهُمۡ
+    arabic: أَيۡمَٰنَهُم
     translation: their oaths
     transliteration: aymānahum
   4:
-    arabic: مِّنۡۢ
+    arabic: مِّنۢ
     translation: after
     transliteration: min
   5:
@@ -31,39 +31,39 @@ word_by_word:
     translation: their treaty
     transliteration: ʿahdihim
   7:
-    arabic: وَطَعَنُوۡا
+    arabic: وَطَعَنُواْ
     translation: and defame
     transliteration: waṭaʿanū
   8:
-    arabic: فِىۡ
+    arabic: فِي
     translation: '[in]'
     transliteration: fī
   9:
-    arabic: دِيۡـنِكُمۡ
+    arabic: دِينِكُمۡ
     translation: your religion
     transliteration: dīnikum
   10:
-    arabic: فَقَاتِلُوۡۤا
+    arabic: فَقَٰتِلُوٓاْ
     translation: then fight
     transliteration: faqātilū
   11:
-    arabic: اَٮِٕمَّةَ
+    arabic: أَئِمَّةَ
     translation: the leaders
     transliteration: a-immata
   12:
-    arabic: الۡـكُفۡرِ​ۙ
+    arabic: ٱلۡكُفۡرِ
     translation: (of) [the] disbelief
     transliteration: l-kuf'ri
   13:
-    arabic: اِنَّهُمۡ
+    arabic: إِنَّهُمۡ
     translation: 'indeed, they '
     transliteration: innahum
   14:
-    arabic: لَاۤ
+    arabic: لَآ
     translation: 'no'
     transliteration: lā
   15:
-    arabic: اَيۡمَانَ
+    arabic: أَيۡمَٰنَ
     translation: oaths
     transliteration: aymāna
   16:
@@ -75,7 +75,7 @@ word_by_word:
     translation: so that they may
     transliteration: laʿallahum
   18:
-    arabic: يَنۡتَهُوۡنَ‏
+    arabic: يَنتَهُونَ
     translation: cease
     transliteration: yantahūna
 ---

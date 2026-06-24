@@ -1,15 +1,14 @@
 ---
-arabic_ayat: "فَلِلّٰهِ الۡحَمۡدُ رَبِّ السَّمٰوٰتِ وَرَبِّ الۡاَرۡضِ رَبِّ الۡعٰلَمِيۡنَ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: فَلِلَّهِ ٱلۡحَمۡدُ رَبِّ ٱلسَّمَٰوَٰتِ وَرَبِّ ٱلۡأَرۡضِ رَبِّ ٱلۡعَٰلَمِينَ
 sentence_translation: So all praise is for Allah—Lord of the heavens and Lord of the
   earth, Lord of all worlds.
 word_by_word:
   1:
-    arabic: فَلِلّٰهِ
+    arabic: فَلِلَّهِ
     translation: Then for Allah
     transliteration: falillahi
   2:
-    arabic: الۡحَمۡدُ
+    arabic: ٱلۡحَمۡدُ
     translation: (is) all the praise
     transliteration: l-ḥamdu
   3:
@@ -17,7 +16,7 @@ word_by_word:
     translation: (the) Lord
     transliteration: rabbi
   4:
-    arabic: السَّمٰوٰتِ
+    arabic: ٱلسَّمَٰوَٰتِ
     translation: (of) the heavens
     transliteration: l-samāwāti
   5:
@@ -25,7 +24,7 @@ word_by_word:
     translation: and (the) Lord
     transliteration: warabbi
   6:
-    arabic: الۡاَرۡضِ
+    arabic: ٱلۡأَرۡضِ
     translation: (of) the earth
     transliteration: l-arḍi
   7:
@@ -33,7 +32,7 @@ word_by_word:
     translation: (the) lord
     transliteration: rabbi
   8:
-    arabic: "الۡعٰلَمِيۡنَ‏ \uFEFF\uFEFF"
+    arabic: ٱلۡعَٰلَمِينَ
     translation: (of) the worlds
     transliteration: l-ʿālamīna
 ---

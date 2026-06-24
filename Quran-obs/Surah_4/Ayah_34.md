@@ -1,10 +1,9 @@
 ---
-arabic_ayat: "اَلرِّجَالُ قَوَّامُوۡنَ عَلَى النِّسَآءِ بِمَا فَضَّلَ اللّٰهُ بَعۡضَهُمۡ\
-  \ عَلٰى بَعۡضٍ وَّبِمَاۤ اَنۡفَقُوۡا مِنۡ اَمۡوَالِهِمۡ​ ؕ فَالصّٰلِحٰتُ قٰنِتٰتٌ\
-  \ حٰفِظٰتٌ لِّلۡغَيۡبِ بِمَا حَفِظَ اللّٰهُ​ ؕ وَالّٰتِىۡ تَخَافُوۡنَ نُشُوۡزَهُنَّ\
-  \ فَعِظُوۡهُنَّ وَاهۡجُرُوۡهُنَّ فِى الۡمَضَاجِعِ وَاضۡرِبُوۡهُنَّ​ ۚ فَاِنۡ اَطَعۡنَكُمۡ\
-  \ فَلَا تَبۡغُوۡا عَلَيۡهِنَّ سَبِيۡلًا​ ؕاِنَّ اللّٰهَ كَانَ عَلِيًّا كَبِيۡرًا‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: ٱلرِّجَالُ قَوَّٰمُونَ عَلَى ٱلنِّسَآءِ بِمَا فَضَّلَ ٱللَّهُ بَعۡضَهُمۡ
+  عَلَىٰ بَعۡضٖ وَبِمَآ أَنفَقُواْ مِنۡ أَمۡوَٰلِهِمۡۚ فَٱلصَّٰلِحَٰتُ قَٰنِتَٰتٌ
+  حَٰفِظَٰتٞ لِّلۡغَيۡبِ بِمَا حَفِظَ ٱللَّهُۚ وَٱلَّٰتِي تَخَافُونَ نُشُوزَهُنَّ
+  فَعِظُوهُنَّ وَٱهۡجُرُوهُنَّ فِي ٱلۡمَضَاجِعِ وَٱضۡرِبُوهُنَّۖ فَإِنۡ أَطَعۡنَكُمۡ
+  فَلَا تَبۡغُواْ عَلَيۡهِنَّ سَبِيلًاۗ إِنَّ ٱللَّهَ كَانَ عَلِيّٗا كَبِيرٗا
 sentence_translation: Men are the caretakers of women, as men have been provisioned
   by Allah over women and tasked with supporting them financially. And righteous women
   are devoutly obedient and, when alone, protective of what Allah has entrusted them
@@ -14,11 +13,11 @@ sentence_translation: Men are the caretakers of women, as men have been provisio
   is Most High, All-Great.
 word_by_word:
   1:
-    arabic: اَلرِّجَالُ
+    arabic: ٱلرِّجَالُ
     translation: '[The] men'
     transliteration: al-rijālu
   2:
-    arabic: قَوَّامُوۡنَ
+    arabic: قَوَّٰمُونَ
     translation: (are) protectors
     transliteration: qawwāmūna
   3:
@@ -26,7 +25,7 @@ word_by_word:
     translation: of
     transliteration: ʿalā
   4:
-    arabic: النِّسَآءِ
+    arabic: ٱلنِّسَآءِ
     translation: the women
     transliteration: l-nisāi
   5:
@@ -38,7 +37,7 @@ word_by_word:
     translation: (has) bestowed
     transliteration: faḍḍala
   7:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   8:
@@ -46,19 +45,19 @@ word_by_word:
     translation: some of them
     transliteration: baʿḍahum
   9:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: over
     transliteration: ʿalā
   10:
-    arabic: بَعۡضٍ
+    arabic: بَعۡضٖ
     translation: others
     transliteration: baʿḍin
   11:
-    arabic: وَّبِمَاۤ
+    arabic: وَبِمَآ
     translation: and because
     transliteration: wabimā
   12:
-    arabic: اَنۡفَقُوۡا
+    arabic: أَنفَقُواْ
     translation: they spend
     transliteration: anfaqū
   13:
@@ -66,19 +65,19 @@ word_by_word:
     translation: from
     transliteration: min
   14:
-    arabic: اَمۡوَالِهِمۡ​ ؕ
+    arabic: أَمۡوَٰلِهِمۡۚ
     translation: their wealth
     transliteration: amwālihim
   15:
-    arabic: فَالصّٰلِحٰتُ
+    arabic: فَٱلصَّٰلِحَٰتُ
     translation: So the righteous women
     transliteration: fal-ṣāliḥātu
   16:
-    arabic: قٰنِتٰتٌ
+    arabic: قَٰنِتَٰتٌ
     translation: (are) obedient
     transliteration: qānitātun
   17:
-    arabic: حٰفِظٰتٌ
+    arabic: حَٰفِظَٰتٞ
     translation: guarding
     transliteration: ḥāfiẓātun
   18:
@@ -94,47 +93,47 @@ word_by_word:
     translation: (orders) them to guard
     transliteration: ḥafiẓa
   21:
-    arabic: اللّٰهُ​ ؕ
+    arabic: ٱللَّهُۚ
     translation: (by) Allah
     transliteration: l-lahu
   22:
-    arabic: وَالّٰتِىۡ
+    arabic: وَٱلَّٰتِي
     translation: And those (from) whom
     transliteration: wa-allātī
   23:
-    arabic: تَخَافُوۡنَ
+    arabic: تَخَافُونَ
     translation: you fear
     transliteration: takhāfūna
   24:
-    arabic: نُشُوۡزَهُنَّ
+    arabic: نُشُوزَهُنَّ
     translation: their ill-conduct
     transliteration: nushūzahunna
   25:
-    arabic: فَعِظُوۡهُنَّ
+    arabic: فَعِظُوهُنَّ
     translation: then advise them
     transliteration: faʿiẓūhunna
   26:
-    arabic: وَاهۡجُرُوۡهُنَّ
+    arabic: وَٱهۡجُرُوهُنَّ
     translation: and forsake them
     transliteration: wa-uh'jurūhunna
   27:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   28:
-    arabic: الۡمَضَاجِعِ
+    arabic: ٱلۡمَضَاجِعِ
     translation: the bed
     transliteration: l-maḍājiʿi
   29:
-    arabic: وَاضۡرِبُوۡهُنَّ​ ۚ
+    arabic: وَٱضۡرِبُوهُنَّۖ
     translation: and [finally] strike them
     transliteration: wa-iḍ'ribūhunna
   30:
-    arabic: فَاِنۡ
+    arabic: فَإِنۡ
     translation: Then if
     transliteration: fa-in
   31:
-    arabic: اَطَعۡنَكُمۡ
+    arabic: أَطَعۡنَكُمۡ
     translation: they obey you
     transliteration: aṭaʿnakum
   32:
@@ -142,7 +141,7 @@ word_by_word:
     translation: then (do) not
     transliteration: falā
   33:
-    arabic: تَبۡغُوۡا
+    arabic: تَبۡغُواْ
     translation: seek
     transliteration: tabghū
   34:
@@ -150,15 +149,15 @@ word_by_word:
     translation: against them
     transliteration: ʿalayhinna
   35:
-    arabic: سَبِيۡلًا​ ؕ
+    arabic: سَبِيلًاۗ
     translation: a way
     transliteration: sabīlan
   36:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   37:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   38:
@@ -166,11 +165,11 @@ word_by_word:
     translation: is
     transliteration: kāna
   39:
-    arabic: عَلِيًّا
+    arabic: عَلِيّٗا
     translation: Most High
     transliteration: ʿaliyyan
   40:
-    arabic: "كَبِيۡرًا‏ \uFEFF\uFEFF"
+    arabic: كَبِيرٗا
     translation: Most Great
     transliteration: kabīran
 ---

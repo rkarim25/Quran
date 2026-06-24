@@ -1,14 +1,14 @@
 ---
-arabic_ayat: اِذۡهَبَاۤ اِلٰى فِرۡعَوۡنَ اِنَّهٗ طَغٰى​ ​ۖۚ​​​‏
+arabic_ayat: ٱذۡهَبَآ إِلَىٰ فِرۡعَوۡنَ إِنَّهُۥ طَغَىٰ
 sentence_translation: Go, both of you, to Pharaoh, for he has truly transgressed ˹all
   bounds˺.
 word_by_word:
   1:
-    arabic: اِذۡهَبَاۤ
+    arabic: ٱذۡهَبَآ
     translation: Go, both of you
     transliteration: idh'habā
   2:
-    arabic: اِلٰى
+    arabic: إِلَىٰ
     translation: to
     transliteration: ilā
   3:
@@ -16,11 +16,11 @@ word_by_word:
     translation: Firaun
     transliteration: fir'ʿawna
   4:
-    arabic: اِنَّهٗ
+    arabic: إِنَّهُۥ
     translation: Indeed, he
     transliteration: innahu
   5:
-    arabic: طَغٰى​ ​ۖۚ​​​‏
+    arabic: طَغَىٰ
     translation: (has) transgressed
     transliteration: ṭaghā
 ---

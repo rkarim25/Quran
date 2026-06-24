@@ -1,6 +1,6 @@
 ---
-arabic_ayat: يَوۡمَ تُقَلَّبُ وُجُوۡهُهُمۡ فِى النَّارِ يَقُوۡلُوۡنَ يٰلَيۡتَـنَاۤ
-  اَطَعۡنَا اللّٰهَ وَاَطَعۡنَا الرَّسُوۡلَا‏
+arabic_ayat: يَوۡمَ تُقَلَّبُ وُجُوهُهُمۡ فِي ٱلنَّارِ يَقُولُونَ يَٰلَيۡتَنَآ أَطَعۡنَا
+  ٱللَّهَ وَأَطَعۡنَا ٱلرَّسُولَا۠
 sentence_translation: On the Day their faces are ˹constantly˺ flipped in the Fire,
   they will cry, “Oh! If only we had obeyed Allah and obeyed the Messenger!”
 word_by_word:
@@ -13,39 +13,39 @@ word_by_word:
     translation: will be turned about
     transliteration: tuqallabu
   3:
-    arabic: وُجُوۡهُهُمۡ
+    arabic: وُجُوهُهُمۡ
     translation: their faces
     transliteration: wujūhuhum
   4:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   5:
-    arabic: النَّارِ
+    arabic: ٱلنَّارِ
     translation: the Fire
     transliteration: l-nāri
   6:
-    arabic: يَقُوۡلُوۡنَ
+    arabic: يَقُولُونَ
     translation: they will say
     transliteration: yaqūlūna
   7:
-    arabic: يٰلَيۡتَـنَاۤ
+    arabic: يَٰلَيۡتَنَآ
     translation: O we wish
     transliteration: yālaytanā
   8:
-    arabic: اَطَعۡنَا
+    arabic: أَطَعۡنَا
     translation: we (had) obeyed
     transliteration: aṭaʿnā
   9:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   10:
-    arabic: وَاَطَعۡنَا
+    arabic: وَأَطَعۡنَا
     translation: and obeyed
     transliteration: wa-aṭaʿnā
   11:
-    arabic: الرَّسُوۡلَا‏
+    arabic: ٱلرَّسُولَا۠
     translation: the Messenger
     transliteration: l-rasūlā
 ---

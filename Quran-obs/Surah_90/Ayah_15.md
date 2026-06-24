@@ -1,9 +1,9 @@
 ---
-arabic_ayat: يَّتِيۡمًا ذَا مَقۡرَبَةٍ ۙ‏
+arabic_ayat: يَتِيمٗا ذَا مَقۡرَبَةٍ
 sentence_translation: to an orphaned relative
 word_by_word:
   1:
-    arabic: يَّتِيۡمًا
+    arabic: يَتِيمٗا
     translation: An orphan
     transliteration: yatīman
   2:
@@ -11,7 +11,7 @@ word_by_word:
     translation: of
     transliteration: dhā
   3:
-    arabic: مَقۡرَبَةٍ ۙ‏
+    arabic: مَقۡرَبَةٍ
     translation: near relationship
     transliteration: maqrabatin
 ---

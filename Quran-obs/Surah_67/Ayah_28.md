@@ -1,6 +1,6 @@
 ---
-arabic_ayat: قُلۡ اَرَءَيۡتُمۡ اِنۡ اَهۡلَـكَنِىَ اللّٰهُ وَمَنۡ مَّعِىَ اَوۡ رَحِمَنَا
-  ۙ فَمَنۡ يُّجِيۡرُ الۡكٰفِرِيۡنَ مِنۡ عَذَابٍ اَلِيۡمٍ‏
+arabic_ayat: قُلۡ أَرَءَيۡتُمۡ إِنۡ أَهۡلَكَنِيَ ٱللَّهُ وَمَن مَّعِيَ أَوۡ رَحِمَنَا
+  فَمَن يُجِيرُ ٱلۡكَٰفِرِينَ مِنۡ عَذَابٍ أَلِيمٖ
 sentence_translation: 'Say, ˹O Prophet,˺ “Consider this: whether Allah causes me and
   those with me to die or shows us mercy, who will save the disbelievers from a painful
   punishment?”'
@@ -10,47 +10,47 @@ word_by_word:
     translation: Say
     transliteration: qul
   2:
-    arabic: اَرَءَيۡتُمۡ
+    arabic: أَرَءَيۡتُمۡ
     translation: Have you seen
     transliteration: ara-aytum
   3:
-    arabic: اِنۡ
+    arabic: إِنۡ
     translation: if
     transliteration: in
   4:
-    arabic: اَهۡلَـكَنِىَ
+    arabic: أَهۡلَكَنِيَ
     translation: destroys me
     transliteration: ahlakaniya
   5:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   6:
-    arabic: وَمَنۡ
+    arabic: وَمَن
     translation: and whoever
     transliteration: waman
   7:
-    arabic: مَّعِىَ
+    arabic: مَّعِيَ
     translation: (is) with me
     transliteration: maʿiya
   8:
-    arabic: اَوۡ
+    arabic: أَوۡ
     translation: or
     transliteration: aw
   9:
-    arabic: رَحِمَنَا ۙ
+    arabic: رَحِمَنَا
     translation: has mercy upon us
     transliteration: raḥimanā
   10:
-    arabic: فَمَنۡ
+    arabic: فَمَن
     translation: then who
     transliteration: faman
   11:
-    arabic: يُّجِيۡرُ
+    arabic: يُجِيرُ
     translation: (can) protect
     transliteration: yujīru
   12:
-    arabic: الۡكٰفِرِيۡنَ
+    arabic: ٱلۡكَٰفِرِينَ
     translation: the disbelievers
     transliteration: l-kāfirīna
   13:
@@ -62,7 +62,7 @@ word_by_word:
     translation: a punishment
     transliteration: ʿadhābin
   15:
-    arabic: اَلِيۡمٍ‏
+    arabic: أَلِيمٖ
     translation: painful
     transliteration: alīmin
 ---

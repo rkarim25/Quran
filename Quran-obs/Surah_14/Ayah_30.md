@@ -1,31 +1,31 @@
 ---
-arabic_ayat: وَجَعَلُوۡا لِلّٰهِ اَنۡدَادًا لِّيُـضِلُّوۡا عَنۡ سَبِيۡلِهٖ​ؕ قُلۡ
-  تَمَتَّعُوۡا فَاِنَّ مَصِيۡرَكُمۡ اِلَى النَّارِ‏
+arabic_ayat: وَجَعَلُواْ لِلَّهِ أَندَادٗا لِّيُضِلُّواْ عَن سَبِيلِهِۦۗ قُلۡ تَمَتَّعُواْ
+  فَإِنَّ مَصِيرَكُمۡ إِلَى ٱلنَّارِ
 sentence_translation: They set up equals to Allah to mislead ˹others˺ from His Way.
   Say, ˹O Prophet,˺ “Enjoy yourselves! Surely your destination is the Fire.”
 word_by_word:
   1:
-    arabic: وَجَعَلُوۡا
+    arabic: وَجَعَلُواْ
     translation: And they set up
     transliteration: wajaʿalū
   2:
-    arabic: لِلّٰهِ
+    arabic: لِلَّهِ
     translation: to Allah
     transliteration: lillahi
   3:
-    arabic: اَنۡدَادًا
+    arabic: أَندَادٗا
     translation: equals
     transliteration: andādan
   4:
-    arabic: لِّيُـضِلُّوۡا
+    arabic: لِّيُضِلُّواْ
     translation: so that they mislead
     transliteration: liyuḍillū
   5:
-    arabic: عَنۡ
+    arabic: عَن
     translation: from
     transliteration: ʿan
   6:
-    arabic: سَبِيۡلِهٖ​ؕ
+    arabic: سَبِيلِهِۦۗ
     translation: His Path
     transliteration: sabīlihi
   7:
@@ -33,23 +33,23 @@ word_by_word:
     translation: Say
     transliteration: qul
   8:
-    arabic: تَمَتَّعُوۡا
+    arabic: تَمَتَّعُواْ
     translation: Enjoy
     transliteration: tamattaʿū
   9:
-    arabic: فَاِنَّ
+    arabic: فَإِنَّ
     translation: but indeed
     transliteration: fa-inna
   10:
-    arabic: مَصِيۡرَكُمۡ
+    arabic: مَصِيرَكُمۡ
     translation: your destination
     transliteration: maṣīrakum
   11:
-    arabic: اِلَى
+    arabic: إِلَى
     translation: (is) to
     transliteration: ilā
   12:
-    arabic: النَّارِ‏
+    arabic: ٱلنَّارِ
     translation: the Fire
     transliteration: l-nāri
 ---

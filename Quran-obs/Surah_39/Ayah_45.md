@@ -1,13 +1,12 @@
 ---
-arabic_ayat: "وَاِذَا ذُكِرَ اللّٰهُ وَحۡدَهُ اشۡمَاَزَّتۡ قُلُوۡبُ الَّذِيۡنَ لَا\
-  \ يُؤۡمِنُوۡنَ بِالۡاٰخِرَةِ​ ۚ وَاِذَا ذُكِرَ الَّذِيۡنَ مِنۡ دُوۡنِهٖۤ اِذَا هُمۡ\
-  \ يَسۡتَبۡشِرُوۡنَ‏ \uFEFF\uFEFF"
+arabic_ayat: وَإِذَا ذُكِرَ ٱللَّهُ وَحۡدَهُ ٱشۡمَأَزَّتۡ قُلُوبُ ٱلَّذِينَ لَا يُؤۡمِنُونَ
+  بِٱلۡأٓخِرَةِۖ وَإِذَا ذُكِرَ ٱلَّذِينَ مِن دُونِهِۦٓ إِذَا هُمۡ يَسۡتَبۡشِرُونَ
 sentence_translation: Yet when Allah alone is mentioned, the hearts of those who disbelieve
   in the Hereafter are filled with disgust. But as soon as those ˹gods˺ other than
   Him are mentioned, they are filled with joy.
 word_by_word:
   1:
-    arabic: وَاِذَا
+    arabic: وَإِذَا
     translation: And when
     transliteration: wa-idhā
   2:
@@ -15,7 +14,7 @@ word_by_word:
     translation: Allah is mentioned
     transliteration: dhukira
   3:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah is mentioned
     transliteration: l-lahu
   4:
@@ -23,15 +22,15 @@ word_by_word:
     translation: Alone
     transliteration: waḥdahu
   5:
-    arabic: اشۡمَاَزَّتۡ
+    arabic: ٱشۡمَأَزَّتۡ
     translation: shrink with aversion
     transliteration: ish'ma-azzat
   6:
-    arabic: قُلُوۡبُ
+    arabic: قُلُوبُ
     translation: (the) hearts
     transliteration: qulūbu
   7:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: (of) those who
     transliteration: alladhīna
   8:
@@ -39,15 +38,15 @@ word_by_word:
     translation: (do) not
     transliteration: lā
   9:
-    arabic: يُؤۡمِنُوۡنَ
+    arabic: يُؤۡمِنُونَ
     translation: believe
     transliteration: yu'minūna
   10:
-    arabic: بِالۡاٰخِرَةِ​ ۚ
+    arabic: بِٱلۡأٓخِرَةِۖ
     translation: in the Hereafter
     transliteration: bil-ākhirati
   11:
-    arabic: وَاِذَا
+    arabic: وَإِذَا
     translation: and when
     transliteration: wa-idhā
   12:
@@ -55,19 +54,19 @@ word_by_word:
     translation: are mentioned
     transliteration: dhukira
   13:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those
     transliteration: alladhīna
   14:
-    arabic: مِنۡ
+    arabic: مِن
     translation: besides Him
     transliteration: min
   15:
-    arabic: دُوۡنِهٖۤ
+    arabic: دُونِهِۦٓ
     translation: besides Him
     transliteration: dūnihi
   16:
-    arabic: اِذَا
+    arabic: إِذَا
     translation: behold
     transliteration: idhā
   17:
@@ -75,7 +74,7 @@ word_by_word:
     translation: They
     transliteration: hum
   18:
-    arabic: "يَسۡتَبۡشِرُوۡنَ‏ \uFEFF\uFEFF"
+    arabic: يَسۡتَبۡشِرُونَ
     translation: rejoice
     transliteration: yastabshirūna
 ---

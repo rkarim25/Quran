@@ -1,8 +1,8 @@
 ---
-arabic_ayat: فَكُلًّا اَخَذۡنَا بِذَنۡۢبِهٖ​ ۚ فَمِنۡهُمۡ مَّنۡ اَرۡسَلۡنَا عَلَيۡهِ
-  حَاصِبًا​ ۚ وَمِنۡهُمۡ مَّنۡ اَخَذَتۡهُ الصَّيۡحَةُ​ ۚ وَمِنۡهُمۡ مَّنۡ خَسَفۡنَا
-  بِهِ الۡاَرۡضَ​ ۚ وَمِنۡهُمۡ مَّنۡ اَغۡرَقۡنَا​ ۚ وَمَا كَانَ اللّٰهُ لِيَـظۡلِمَهُمۡ
-  وَلٰـكِنۡ كَانُوۡۤا اَنۡفُسَهُمۡ يَظۡلِمُوۡنَ‏
+arabic_ayat: فَكُلًّا أَخَذۡنَا بِذَنۢبِهِۦۖ فَمِنۡهُم مَّنۡ أَرۡسَلۡنَا عَلَيۡهِ
+  حَاصِبٗا وَمِنۡهُم مَّنۡ أَخَذَتۡهُ ٱلصَّيۡحَةُ وَمِنۡهُم مَّنۡ خَسَفۡنَا بِهِ ٱلۡأَرۡضَ
+  وَمِنۡهُم مَّنۡ أَغۡرَقۡنَاۚ وَمَا كَانَ ٱللَّهُ لِيَظۡلِمَهُمۡ وَلَٰكِن كَانُوٓاْ
+  أَنفُسَهُمۡ يَظۡلِمُونَ
 sentence_translation: 'So We seized each ˹people˺ for their sin: against some of them
   We sent a storm of stones, some were overtaken by a ˹mighty˺ blast, some We caused
   the earth to swallow, and some We drowned. Allah would not have wronged them, but
@@ -13,15 +13,15 @@ word_by_word:
     translation: So each
     transliteration: fakullan
   2:
-    arabic: اَخَذۡنَا
+    arabic: أَخَذۡنَا
     translation: We seized
     transliteration: akhadhnā
   3:
-    arabic: بِذَنۡۢبِهٖ​ ۚ
+    arabic: بِذَنۢبِهِۦۖ
     translation: for his sin
     transliteration: bidhanbihi
   4:
-    arabic: فَمِنۡهُمۡ
+    arabic: فَمِنۡهُم
     translation: Then of them
     transliteration: famin'hum
   5:
@@ -29,7 +29,7 @@ word_by_word:
     translation: (was he) who
     transliteration: man
   6:
-    arabic: اَرۡسَلۡنَا
+    arabic: أَرۡسَلۡنَا
     translation: We sent
     transliteration: arsalnā
   7:
@@ -37,11 +37,11 @@ word_by_word:
     translation: on him
     transliteration: ʿalayhi
   8:
-    arabic: حَاصِبًا​ ۚ
+    arabic: حَاصِبٗا
     translation: a violent storm
     transliteration: ḥāṣiban
   9:
-    arabic: وَمِنۡهُمۡ
+    arabic: وَمِنۡهُم
     translation: and of them
     transliteration: wamin'hum
   10:
@@ -49,15 +49,15 @@ word_by_word:
     translation: (was he) who
     transliteration: man
   11:
-    arabic: اَخَذَتۡهُ
+    arabic: أَخَذَتۡهُ
     translation: seized him
     transliteration: akhadhathu
   12:
-    arabic: الصَّيۡحَةُ​ ۚ
+    arabic: ٱلصَّيۡحَةُ
     translation: the awful cry
     transliteration: l-ṣayḥatu
   13:
-    arabic: وَمِنۡهُمۡ
+    arabic: وَمِنۡهُم
     translation: and of them
     transliteration: wamin'hum
   14:
@@ -73,11 +73,11 @@ word_by_word:
     translation: him
     transliteration: bihi
   17:
-    arabic: الۡاَرۡضَ​ ۚ
+    arabic: ٱلۡأَرۡضَ
     translation: the earth
     transliteration: l-arḍa
   18:
-    arabic: وَمِنۡهُمۡ
+    arabic: وَمِنۡهُم
     translation: and of them
     transliteration: wamin'hum
   19:
@@ -85,7 +85,7 @@ word_by_word:
     translation: (was he) who
     transliteration: man
   20:
-    arabic: اَغۡرَقۡنَا​ ۚ
+    arabic: أَغۡرَقۡنَاۚ
     translation: We drowned
     transliteration: aghraqnā
   21:
@@ -97,27 +97,27 @@ word_by_word:
     translation: was
     transliteration: kāna
   23:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   24:
-    arabic: لِيَـظۡلِمَهُمۡ
+    arabic: لِيَظۡلِمَهُمۡ
     translation: to wrong them
     transliteration: liyaẓlimahum
   25:
-    arabic: وَلٰـكِنۡ
+    arabic: وَلَٰكِن
     translation: but
     transliteration: walākin
   26:
-    arabic: كَانُوۡۤا
+    arabic: كَانُوٓاْ
     translation: they were
     transliteration: kānū
   27:
-    arabic: اَنۡفُسَهُمۡ
+    arabic: أَنفُسَهُمۡ
     translation: themselves
     transliteration: anfusahum
   28:
-    arabic: يَظۡلِمُوۡنَ‏
+    arabic: يَظۡلِمُونَ
     translation: doing wrong
     transliteration: yaẓlimūna
 ---

@@ -1,5 +1,5 @@
 ---
-arabic_ayat: وَيُبَيِّنُ اللّٰهُ لَـكُمُ الۡاٰيٰتِ​ؕ وَاللّٰهُ عَلِيۡمٌ حَكِيۡمٌ‏
+arabic_ayat: وَيُبَيِّنُ ٱللَّهُ لَكُمُ ٱلۡأٓيَٰتِۚ وَٱللَّهُ عَلِيمٌ حَكِيمٌ
 sentence_translation: And Allah makes ˹His˺ commandments clear to you, for Allah is
   All-Knowing, All-Wise.
 word_by_word:
@@ -8,27 +8,27 @@ word_by_word:
     translation: And Allah makes clear
     transliteration: wayubayyinu
   2:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: And Allah makes clear
     transliteration: l-lahu
   3:
-    arabic: لَـكُمُ
+    arabic: لَكُمُ
     translation: to you
     transliteration: lakumu
   4:
-    arabic: الۡاٰيٰتِ​ؕ
+    arabic: ٱلۡأٓيَٰتِۚ
     translation: the Verses
     transliteration: l-āyāti
   5:
-    arabic: وَاللّٰهُ
+    arabic: وَٱللَّهُ
     translation: And Allah
     transliteration: wal-lahu
   6:
-    arabic: عَلِيۡمٌ
+    arabic: عَلِيمٌ
     translation: (is) All-Knower
     transliteration: ʿalīmun
   7:
-    arabic: حَكِيۡمٌ‏
+    arabic: حَكِيمٌ
     translation: All-Wise
     transliteration: ḥakīmun
 ---

@@ -1,10 +1,10 @@
 ---
-arabic_ayat: اِذۡ عُرِضَ عَلَيۡهِ بِالۡعَشِىِّ الصّٰفِنٰتُ الۡجِيَادُ ۙ‏
+arabic_ayat: إِذۡ عُرِضَ عَلَيۡهِ بِٱلۡعَشِيِّ ٱلصَّٰفِنَٰتُ ٱلۡجِيَادُ
 sentence_translation: ˹Remember˺ when the well-trained, swift horses were paraded
   before him in the evening.
 word_by_word:
   1:
-    arabic: اِذۡ
+    arabic: إِذۡ
     translation: When
     transliteration: idh
   2:
@@ -16,15 +16,15 @@ word_by_word:
     translation: to him
     transliteration: ʿalayhi
   4:
-    arabic: بِالۡعَشِىِّ
+    arabic: بِٱلۡعَشِيِّ
     translation: in the afternoon
     transliteration: bil-ʿashiyi
   5:
-    arabic: الصّٰفِنٰتُ
+    arabic: ٱلصَّٰفِنَٰتُ
     translation: excellent bred steeds
     transliteration: l-ṣāfinātu
   6:
-    arabic: الۡجِيَادُ ۙ‏
+    arabic: ٱلۡجِيَادُ
     translation: excellent bred steeds
     transliteration: l-jiyādu
 ---

@@ -1,5 +1,5 @@
 ---
-arabic_ayat: فَهُوَ فِىۡ عِيۡشَةٍ رَّاضِيَةٍ ؕ‏
+arabic_ayat: فَهُوَ فِي عِيشَةٖ رَّاضِيَةٖ
 sentence_translation: they will be in a life of bliss.
 word_by_word:
   1:
@@ -7,15 +7,15 @@ word_by_word:
     translation: Then he
     transliteration: fahuwa
   2:
-    arabic: فِىۡ
+    arabic: فِي
     translation: (will be) in
     transliteration: fī
   3:
-    arabic: عِيۡشَةٍ
+    arabic: عِيشَةٖ
     translation: a life
     transliteration: ʿīshatin
   4:
-    arabic: رَّاضِيَةٍ ؕ‏
+    arabic: رَّاضِيَةٖ
     translation: pleasant
     transliteration: rāḍiyatin
 ---

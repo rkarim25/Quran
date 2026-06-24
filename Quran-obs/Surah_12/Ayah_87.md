@@ -1,33 +1,33 @@
 ---
-arabic_ayat: يٰبَنِىَّ اذۡهَبُوۡا فَتَحَسَّسُوۡا مِنۡ يُّوۡسُفَ وَاَخِيۡهِ وَلَا تَايۡــَٔسُوۡا
-  مِنۡ رَّوۡحِ اللّٰهِ​ؕ اِنَّهٗ لَا يَايۡــَٔسُ مِنۡ رَّوۡحِ اللّٰهِ اِلَّا الۡقَوۡمُ
-  الۡكٰفِرُوۡنَ‏
+arabic_ayat: يَٰبَنِيَّ ٱذۡهَبُواْ فَتَحَسَّسُواْ مِن يُوسُفَ وَأَخِيهِ وَلَا تَاْيۡـَٔسُواْ
+  مِن رَّوۡحِ ٱللَّهِۖ إِنَّهُۥ لَا يَاْيۡـَٔسُ مِن رَّوۡحِ ٱللَّهِ إِلَّا ٱلۡقَوۡمُ
+  ٱلۡكَٰفِرُونَ
 sentence_translation: O  my sons! Go and search ˹diligently˺ for Joseph and his brother.
   And do not lose hope in the mercy of Allah, for no one loses hope in Allah’s mercy
   except those with no faith.”
 word_by_word:
   1:
-    arabic: يٰبَنِىَّ
+    arabic: يَٰبَنِيَّ
     translation: O my sons
     transliteration: yābaniyya
   2:
-    arabic: اذۡهَبُوۡا
+    arabic: ٱذۡهَبُواْ
     translation: Go
     transliteration: idh'habū
   3:
-    arabic: فَتَحَسَّسُوۡا
+    arabic: فَتَحَسَّسُواْ
     translation: and inquire
     transliteration: fataḥassasū
   4:
-    arabic: مِنۡ
+    arabic: مِن
     translation: about
     transliteration: min
   5:
-    arabic: يُّوۡسُفَ
+    arabic: يُوسُفَ
     translation: Yusuf
     transliteration: yūsufa
   6:
-    arabic: وَاَخِيۡهِ
+    arabic: وَأَخِيهِ
     translation: and his brother
     transliteration: wa-akhīhi
   7:
@@ -35,11 +35,11 @@ word_by_word:
     translation: and not
     transliteration: walā
   8:
-    arabic: تَايۡــَٔسُوۡا
+    arabic: تَاْيۡـَٔسُواْ
     translation: despair
     transliteration: tāy'asū
   9:
-    arabic: مِنۡ
+    arabic: مِن
     translation: of
     transliteration: min
   10:
@@ -47,11 +47,11 @@ word_by_word:
     translation: (the) Mercy of Allah
     transliteration: rawḥi
   11:
-    arabic: اللّٰهِ​ؕ
+    arabic: ٱللَّهِۖ
     translation: (the) Mercy of Allah
     transliteration: l-lahi
   12:
-    arabic: اِنَّهٗ
+    arabic: إِنَّهُۥ
     translation: Indeed
     transliteration: innahu
   13:
@@ -59,11 +59,11 @@ word_by_word:
     translation: none
     transliteration: lā
   14:
-    arabic: يَايۡــَٔسُ
+    arabic: يَاْيۡـَٔسُ
     translation: despairs
     transliteration: yāy'asu
   15:
-    arabic: مِنۡ
+    arabic: مِن
     translation: of
     transliteration: min
   16:
@@ -71,19 +71,19 @@ word_by_word:
     translation: (the) Mercy of Allah
     transliteration: rawḥi
   17:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (the) Mercy of Allah
     transliteration: l-lahi
   18:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   19:
-    arabic: الۡقَوۡمُ
+    arabic: ٱلۡقَوۡمُ
     translation: the people
     transliteration: l-qawmu
   20:
-    arabic: الۡكٰفِرُوۡنَ‏
+    arabic: ٱلۡكَٰفِرُونَ
     translation: the disbelievers
     transliteration: l-kāfirūna
 ---

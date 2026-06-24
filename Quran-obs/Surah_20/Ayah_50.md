@@ -1,5 +1,5 @@
 ---
-arabic_ayat: قَالَ رَبُّنَا الَّذِىۡۤ اَعۡطٰـى كُلَّ شَىۡءٍ خَلۡقَهٗ ثُمَّ هَدٰى‏
+arabic_ayat: قَالَ رَبُّنَا ٱلَّذِيٓ أَعۡطَىٰ كُلَّ شَيۡءٍ خَلۡقَهُۥ ثُمَّ هَدَىٰ
 sentence_translation: He answered, “Our Lord is the One Who has given everything its
   ˹distinctive˺ form, then guided ˹it˺.”
 word_by_word:
@@ -12,11 +12,11 @@ word_by_word:
     translation: Our Lord
     transliteration: rabbunā
   3:
-    arabic: الَّذِىۡۤ
+    arabic: ٱلَّذِيٓ
     translation: (is) the One Who
     transliteration: alladhī
   4:
-    arabic: اَعۡطٰـى
+    arabic: أَعۡطَىٰ
     translation: gave
     transliteration: aʿṭā
   5:
@@ -24,11 +24,11 @@ word_by_word:
     translation: (to) every
     transliteration: kulla
   6:
-    arabic: شَىۡءٍ
+    arabic: شَيۡءٍ
     translation: thing
     transliteration: shayin
   7:
-    arabic: خَلۡقَهٗ
+    arabic: خَلۡقَهُۥ
     translation: its form
     transliteration: khalqahu
   8:
@@ -36,7 +36,7 @@ word_by_word:
     translation: then
     transliteration: thumma
   9:
-    arabic: هَدٰى‏
+    arabic: هَدَىٰ
     translation: He guided (it)
     transliteration: hadā
 ---

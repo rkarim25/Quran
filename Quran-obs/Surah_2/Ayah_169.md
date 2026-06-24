@@ -1,31 +1,31 @@
 ---
-arabic_ayat: اِنَّمَا يَاۡمُرُكُمۡ بِالسُّوۡٓءِ وَالۡفَحۡشَآءِ وَاَنۡ تَقُوۡلُوۡا
-  عَلَى اللّٰهِ مَا لَا تَعۡلَمُوۡنَ‏
+arabic_ayat: إِنَّمَا يَأۡمُرُكُم بِٱلسُّوٓءِ وَٱلۡفَحۡشَآءِ وَأَن تَقُولُواْ عَلَى
+  ٱللَّهِ مَا لَا تَعۡلَمُونَ
 sentence_translation: He only incites you to commit evil and indecency, and to claim
   against Allah what you do not know.
 word_by_word:
   1:
-    arabic: اِنَّمَا
+    arabic: إِنَّمَا
     translation: Only
     transliteration: innamā
   2:
-    arabic: يَاۡمُرُكُمۡ
+    arabic: يَأۡمُرُكُم
     translation: he commands you
     transliteration: yamurukum
   3:
-    arabic: بِالسُّوۡٓءِ
+    arabic: بِٱلسُّوٓءِ
     translation: to (do) the evil
     transliteration: bil-sūi
   4:
-    arabic: وَالۡفَحۡشَآءِ
+    arabic: وَٱلۡفَحۡشَآءِ
     translation: and the shameful
     transliteration: wal-faḥshāi
   5:
-    arabic: وَاَنۡ
+    arabic: وَأَن
     translation: and that
     transliteration: wa-an
   6:
-    arabic: تَقُوۡلُوۡا
+    arabic: تَقُولُواْ
     translation: you say
     transliteration: taqūlū
   7:
@@ -33,7 +33,7 @@ word_by_word:
     translation: about
     transliteration: ʿalā
   8:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   9:
@@ -45,7 +45,7 @@ word_by_word:
     translation: not
     transliteration: lā
   11:
-    arabic: تَعۡلَمُوۡنَ‏
+    arabic: تَعۡلَمُونَ
     translation: you know
     transliteration: taʿlamūna
 ---

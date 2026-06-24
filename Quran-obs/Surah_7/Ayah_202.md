@@ -1,23 +1,22 @@
 ---
-arabic_ayat: "وَاِخۡوَانُهُمۡ يَمُدُّوۡنَهُمۡ فِى الۡغَىِّ ثُمَّ لَا يُقۡصِرُوۡنَ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: وَإِخۡوَٰنُهُمۡ يَمُدُّونَهُمۡ فِي ٱلۡغَيِّ ثُمَّ لَا يُقۡصِرُونَ
 sentence_translation: But the devils persistently plunge their ˹human˺ associates deeper
   into wickedness, sparing no effort.
 word_by_word:
   1:
-    arabic: وَاِخۡوَانُهُمۡ
+    arabic: وَإِخۡوَٰنُهُمۡ
     translation: But their brothers
     transliteration: wa-ikh'wānuhum
   2:
-    arabic: يَمُدُّوۡنَهُمۡ
+    arabic: يَمُدُّونَهُمۡ
     translation: they plunge them
     transliteration: yamuddūnahum
   3:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   4:
-    arabic: الۡغَىِّ
+    arabic: ٱلۡغَيِّ
     translation: the error
     transliteration: l-ghayi
   5:
@@ -29,7 +28,7 @@ word_by_word:
     translation: not
     transliteration: lā
   7:
-    arabic: "يُقۡصِرُوۡنَ‏ \uFEFF\uFEFF"
+    arabic: يُقۡصِرُونَ
     translation: they cease
     transliteration: yuq'ṣirūna
 ---

@@ -1,21 +1,21 @@
 ---
-arabic_ayat: وَتَكُوۡنُ الۡجِبَالُ كَالۡعِهۡنِ الۡمَنۡفُوۡشِؕ‏
+arabic_ayat: وَتَكُونُ ٱلۡجِبَالُ كَٱلۡعِهۡنِ ٱلۡمَنفُوشِ
 sentence_translation: and the mountains will be like carded wool.
 word_by_word:
   1:
-    arabic: وَتَكُوۡنُ
+    arabic: وَتَكُونُ
     translation: And will be
     transliteration: watakūnu
   2:
-    arabic: الۡجِبَالُ
+    arabic: ٱلۡجِبَالُ
     translation: the mountains
     transliteration: l-jibālu
   3:
-    arabic: كَالۡعِهۡنِ
+    arabic: كَٱلۡعِهۡنِ
     translation: like wool
     transliteration: kal-ʿih'ni
   4:
-    arabic: الۡمَنۡفُوۡشِؕ‏
+    arabic: ٱلۡمَنفُوشِ
     translation: fluffed up
     transliteration: l-manfūshi
 ---

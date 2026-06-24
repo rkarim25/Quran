@@ -1,5 +1,5 @@
 ---
-arabic_ayat: فَرَّتۡ مِنۡ قَسۡوَرَةٍ ؕ‏
+arabic_ayat: فَرَّتۡ مِن قَسۡوَرَةِۭ
 sentence_translation: fleeing from a lion?
 word_by_word:
   1:
@@ -7,11 +7,11 @@ word_by_word:
     translation: Fleeing
     transliteration: farrat
   2:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   3:
-    arabic: قَسۡوَرَةٍ ؕ‏
+    arabic: قَسۡوَرَةِۭ
     translation: a lion
     transliteration: qaswaratin
 ---

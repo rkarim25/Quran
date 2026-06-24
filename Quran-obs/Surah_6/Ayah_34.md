@@ -1,7 +1,7 @@
 ---
-arabic_ayat: وَلَقَدۡ كُذِّبَتۡ رُسُلٌ مِّنۡ قَبۡلِكَ فَصَبَرُوۡا عَلٰى مَا كُذِّبُوۡا
-  وَاُوۡذُوۡا حَتّٰٓى اَتٰٮهُمۡ نَصۡرُنَا​ ۚ وَلَا مُبَدِّلَ لِكَلِمٰتِ اللّٰهِ​ ۚ
-  وَلَقَدۡ جَآءَكَ مِنۡ نَّبَاِى الۡمُرۡسَلِيۡنَ‏
+arabic_ayat: وَلَقَدۡ كُذِّبَتۡ رُسُلٞ مِّن قَبۡلِكَ فَصَبَرُواْ عَلَىٰ مَا كُذِّبُواْ
+  وَأُوذُواْ حَتَّىٰٓ أَتَىٰهُمۡ نَصۡرُنَاۚ وَلَا مُبَدِّلَ لِكَلِمَٰتِ ٱللَّهِۚ وَلَقَدۡ
+  جَآءَكَ مِن نَّبَإِيْ ٱلۡمُرۡسَلِينَ
 sentence_translation: Indeed, messengers before you were rejected but patiently endured
   rejection and persecution until Our help came to them. And Allah’s promise ˹to help˺
   is never broken. And you have already received some of the narratives of these messengers.
@@ -15,11 +15,11 @@ word_by_word:
     translation: were rejected
     transliteration: kudhibat
   3:
-    arabic: رُسُلٌ
+    arabic: رُسُلٞ
     translation: Messengers
     transliteration: rusulun
   4:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: from
     transliteration: min
   5:
@@ -27,11 +27,11 @@ word_by_word:
     translation: before you
     transliteration: qablika
   6:
-    arabic: فَصَبَرُوۡا
+    arabic: فَصَبَرُواْ
     translation: but they were patient
     transliteration: faṣabarū
   7:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: over
     transliteration: ʿalā
   8:
@@ -39,23 +39,23 @@ word_by_word:
     translation: what
     transliteration: mā
   9:
-    arabic: كُذِّبُوۡا
+    arabic: كُذِّبُواْ
     translation: they were rejected
     transliteration: kudhibū
   10:
-    arabic: وَاُوۡذُوۡا
+    arabic: وَأُوذُواْ
     translation: and they were harmed
     transliteration: waūdhū
   11:
-    arabic: حَتّٰٓى
+    arabic: حَتَّىٰٓ
     translation: until
     transliteration: ḥattā
   12:
-    arabic: اَتٰٮهُمۡ
+    arabic: أَتَىٰهُمۡ
     translation: came to them
     transliteration: atāhum
   13:
-    arabic: نَصۡرُنَا​ ۚ
+    arabic: نَصۡرُنَاۚ
     translation: Our help
     transliteration: naṣrunā
   14:
@@ -67,11 +67,11 @@ word_by_word:
     translation: one (can) alter
     transliteration: mubaddila
   16:
-    arabic: لِكَلِمٰتِ
+    arabic: لِكَلِمَٰتِ
     translation: (the) words
     transliteration: likalimāti
   17:
-    arabic: اللّٰهِ​ ۚ
+    arabic: ٱللَّهِۚ
     translation: (of) Allah
     transliteration: l-lahi
   18:
@@ -83,15 +83,15 @@ word_by_word:
     translation: has come to you
     transliteration: jāaka
   20:
-    arabic: مِنۡ
+    arabic: مِن
     translation: of
     transliteration: min
   21:
-    arabic: نَّبَاِى
+    arabic: نَّبَإِيْ
     translation: (the) news
     transliteration: naba-i
   22:
-    arabic: الۡمُرۡسَلِيۡنَ‏
+    arabic: ٱلۡمُرۡسَلِينَ
     translation: (of) the Messengers
     transliteration: l-mur'salīna
 ---

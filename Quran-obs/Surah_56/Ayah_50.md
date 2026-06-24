@@ -1,25 +1,25 @@
 ---
-arabic_ayat: لَمَجۡمُوۡعُوۡنَ ۙ اِلٰى مِيۡقَاتِ يَوۡمٍ مَّعۡلُوۡمٍ‏
+arabic_ayat: لَمَجۡمُوعُونَ إِلَىٰ مِيقَٰتِ يَوۡمٖ مَّعۡلُومٖ
 sentence_translation: will surely be gathered ˹together˺ for the appointed Day.
 word_by_word:
   1:
-    arabic: لَمَجۡمُوۡعُوۡنَ ۙ
+    arabic: لَمَجۡمُوعُونَ
     translation: Surely, will be gathered
     transliteration: lamajmūʿūna
   2:
-    arabic: اِلٰى
+    arabic: إِلَىٰ
     translation: for
     transliteration: ilā
   3:
-    arabic: مِيۡقَاتِ
+    arabic: مِيقَٰتِ
     translation: (the) appointment
     transliteration: mīqāti
   4:
-    arabic: يَوۡمٍ
+    arabic: يَوۡمٖ
     translation: (of) a Day
     transliteration: yawmin
   5:
-    arabic: مَّعۡلُوۡمٍ‏
+    arabic: مَّعۡلُومٖ
     translation: well-known
     transliteration: maʿlūmin
 ---

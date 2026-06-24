@@ -1,11 +1,11 @@
 ---
-arabic_ayat: اِنَّمَا نُطۡعِمُكُمۡ لِـوَجۡهِ اللّٰهِ لَا نُرِيۡدُ مِنۡكُمۡ جَزَآءً
-  وَّلَا شُكُوۡرًا‏
+arabic_ayat: إِنَّمَا نُطۡعِمُكُمۡ لِوَجۡهِ ٱللَّهِ لَا نُرِيدُ مِنكُمۡ جَزَآءٗ وَلَا
+  شُكُورًا
 sentence_translation: ˹saying to themselves,˺ “We feed you only for the sake of Allah,
   seeking neither reward nor thanks from you.
 word_by_word:
   1:
-    arabic: اِنَّمَا
+    arabic: إِنَّمَا
     translation: Only
     transliteration: innamā
   2:
@@ -13,11 +13,11 @@ word_by_word:
     translation: we feed you
     transliteration: nuṭ'ʿimukum
   3:
-    arabic: لِـوَجۡهِ
+    arabic: لِوَجۡهِ
     translation: for (the) Countenance
     transliteration: liwajhi
   4:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (of) Allah
     transliteration: l-lahi
   5:
@@ -25,23 +25,23 @@ word_by_word:
     translation: Not
     transliteration: lā
   6:
-    arabic: نُرِيۡدُ
+    arabic: نُرِيدُ
     translation: we desire
     transliteration: nurīdu
   7:
-    arabic: مِنۡكُمۡ
+    arabic: مِنكُمۡ
     translation: from you
     transliteration: minkum
   8:
-    arabic: جَزَآءً
+    arabic: جَزَآءٗ
     translation: any reward
     transliteration: jazāan
   9:
-    arabic: وَّلَا
+    arabic: وَلَا
     translation: and not
     transliteration: walā
   10:
-    arabic: شُكُوۡرًا‏
+    arabic: شُكُورًا
     translation: thanks
     transliteration: shukūran
 ---

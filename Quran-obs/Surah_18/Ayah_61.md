@@ -1,6 +1,6 @@
 ---
-arabic_ayat: فَلَمَّا بَلَغَا مَجۡمَعَ بَيۡنِهِمَا نَسِيَا حُوۡتَهُمَا فَاتَّخَذَ
-  سَبِيۡلَهٗ فِى الۡبَحۡرِ سَرَبًا‏
+arabic_ayat: فَلَمَّا بَلَغَا مَجۡمَعَ بَيۡنِهِمَا نَسِيَا حُوتَهُمَا فَٱتَّخَذَ سَبِيلَهُۥ
+  فِي ٱلۡبَحۡرِ سَرَبٗا
 sentence_translation: But when they ˹finally˺ reached the point where the seas met,
   they forgot their ˹salted˺ fish, and it made its way into the sea, slipping away
   ˹wondrously˺.
@@ -26,27 +26,27 @@ word_by_word:
     translation: they forgot
     transliteration: nasiyā
   6:
-    arabic: حُوۡتَهُمَا
+    arabic: حُوتَهُمَا
     translation: their fish
     transliteration: ḥūtahumā
   7:
-    arabic: فَاتَّخَذَ
+    arabic: فَٱتَّخَذَ
     translation: and it took
     transliteration: fa-ittakhadha
   8:
-    arabic: سَبِيۡلَهٗ
+    arabic: سَبِيلَهُۥ
     translation: its way
     transliteration: sabīlahu
   9:
-    arabic: فِى
+    arabic: فِي
     translation: into
     transliteration: fī
   10:
-    arabic: الۡبَحۡرِ
+    arabic: ٱلۡبَحۡرِ
     translation: the sea
     transliteration: l-baḥri
   11:
-    arabic: سَرَبًا‏
+    arabic: سَرَبٗا
     translation: slipping away
     transliteration: saraban
 ---

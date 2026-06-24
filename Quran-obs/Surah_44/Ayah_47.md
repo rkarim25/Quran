@@ -1,18 +1,18 @@
 ---
-arabic_ayat: خُذُوۡهُ فَاعۡتِلُوۡهُ اِلٰى سَوَآءِ الۡجَحِيۡمِ   ۖ‏
+arabic_ayat: خُذُوهُ فَٱعۡتِلُوهُ إِلَىٰ سَوَآءِ ٱلۡجَحِيمِ
 sentence_translation: ˹It will be said,˺ “Seize them and drag them into the depths
   of the Hellfire.
 word_by_word:
   1:
-    arabic: خُذُوۡهُ
+    arabic: خُذُوهُ
     translation: Seize him
     transliteration: khudhūhu
   2:
-    arabic: فَاعۡتِلُوۡهُ
+    arabic: فَٱعۡتِلُوهُ
     translation: and drag him
     transliteration: fa-iʿ'tilūhu
   3:
-    arabic: اِلٰى
+    arabic: إِلَىٰ
     translation: into
     transliteration: ilā
   4:
@@ -20,7 +20,7 @@ word_by_word:
     translation: (the) midst
     transliteration: sawāi
   5:
-    arabic: الۡجَحِيۡمِ   ۖ‏
+    arabic: ٱلۡجَحِيمِ
     translation: (of) the Hellfire
     transliteration: l-jaḥīmi
 ---

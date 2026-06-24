@@ -1,25 +1,25 @@
 ---
-arabic_ayat: وَاُمۡلِىۡ لَهُمۡ​ؕ اِنَّ كَيۡدِىۡ مَتِيۡنٌ‏
+arabic_ayat: وَأُمۡلِي لَهُمۡۚ إِنَّ كَيۡدِي مَتِينٌ
 sentence_translation: I ˹only˺ delay their end for a while, but My planning is flawless.
 word_by_word:
   1:
-    arabic: وَاُمۡلِىۡ
+    arabic: وَأُمۡلِي
     translation: And I will give respite
     transliteration: wa-um'lī
   2:
-    arabic: لَهُمۡ​ؕ
+    arabic: لَهُمۡۚ
     translation: to them
     transliteration: lahum
   3:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   4:
-    arabic: كَيۡدِىۡ
+    arabic: كَيۡدِي
     translation: My plan
     transliteration: kaydī
   5:
-    arabic: مَتِيۡنٌ‏
+    arabic: مَتِينٌ
     translation: (is) firm
     transliteration: matīnun
 ---

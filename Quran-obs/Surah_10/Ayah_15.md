@@ -1,8 +1,8 @@
 ---
-arabic_ayat: وَاِذَا تُتۡلٰى عَلَيۡهِمۡ اٰيَاتُنَا بَيِّنٰتٍ​ ۙ قَالَ الَّذِيۡنَ لَا
-  يَرۡجُوۡنَ لِقَآءَنَا ائۡتِ بِقُرۡاٰنٍ غَيۡرِ هٰذَاۤ اَوۡ بَدِّلۡهُ​ ؕ قُلۡ مَا
-  يَكُوۡنُ لِىۡۤ اَنۡ اُبَدِّلَهٗ مِنۡ تِلۡقَآئِ نَـفۡسِىۡ ۚ اِنۡ اَتَّبِعُ اِلَّا
-  مَا يُوۡحٰۤى اِلَىَّ​ ۚ اِنِّىۡۤ اَخَافُ اِنۡ عَصَيۡتُ رَبِّىۡ عَذَابَ يَوۡمٍ عَظِيۡمٍ‏
+arabic_ayat: وَإِذَا تُتۡلَىٰ عَلَيۡهِمۡ ءَايَاتُنَا بَيِّنَٰتٖ قَالَ ٱلَّذِينَ لَا
+  يَرۡجُونَ لِقَآءَنَا ٱئۡتِ بِقُرۡءَانٍ غَيۡرِ هَٰذَآ أَوۡ بَدِّلۡهُۚ قُلۡ مَا
+  يَكُونُ لِيٓ أَنۡ أُبَدِّلَهُۥ مِن تِلۡقَآيِٕ نَفۡسِيٓۖ إِنۡ أَتَّبِعُ إِلَّا مَا
+  يُوحَىٰٓ إِلَيَّۖ إِنِّيٓ أَخَافُ إِنۡ عَصَيۡتُ رَبِّي عَذَابَ يَوۡمٍ عَظِيمٖ
 sentence_translation: When Our clear revelations are recited to them, those who do
   not expect to meet Us say ˹to the Prophet˺, “Bring us a different Quran or make
   some changes in it.” Say ˹to them˺, “It is not for me to change it on my own. I
@@ -10,23 +10,23 @@ sentence_translation: When Our clear revelations are recited to them, those who 
   of a tremendous Day.”
 word_by_word:
   1:
-    arabic: وَاِذَا
+    arabic: وَإِذَا
     translation: And when
     transliteration: wa-idhā
   2:
-    arabic: تُتۡلٰى
+    arabic: تُتۡلَىٰ
     translation: are recited
     transliteration: tut'lā
   3:
-    arabic: عَلَيۡهِمۡ
+    arabic: عَلَيۡهِمۡ ءَ
     translation: to them
     transliteration: ʿalayhim
   4:
-    arabic: اٰيَاتُنَا
+    arabic: ايَاتُنَا
     translation: Our Verses
     transliteration: āyātunā
   5:
-    arabic: بَيِّنٰتٍ​ ۙ
+    arabic: بَيِّنَٰتٖ
     translation: (as) clear proofs
     transliteration: bayyinātin
   6:
@@ -34,7 +34,7 @@ word_by_word:
     translation: said
     transliteration: qāla
   7:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   8:
@@ -42,7 +42,7 @@ word_by_word:
     translation: (do) not
     transliteration: lā
   9:
-    arabic: يَرۡجُوۡنَ
+    arabic: يَرۡجُونَ
     translation: hope
     transliteration: yarjūna
   10:
@@ -50,11 +50,11 @@ word_by_word:
     translation: (for the) meeting (with) Us
     transliteration: liqāanā
   11:
-    arabic: ائۡتِ
+    arabic: ٱئۡتِ
     translation: Bring us
     transliteration: i'ti
   12:
-    arabic: بِقُرۡاٰنٍ
+    arabic: بِقُرۡءَانٍ
     translation: a Quran
     transliteration: biqur'ānin
   13:
@@ -62,15 +62,15 @@ word_by_word:
     translation: other (than)
     transliteration: ghayri
   14:
-    arabic: هٰذَاۤ
+    arabic: هَٰذَآ
     translation: this
     transliteration: hādhā
   15:
-    arabic: اَوۡ
+    arabic: أَوۡ
     translation: or
     transliteration: aw
   16:
-    arabic: بَدِّلۡهُ​ ؕ
+    arabic: بَدِّلۡهُۚ
     translation: change it
     transliteration: baddil'hu
   17:
@@ -82,43 +82,43 @@ word_by_word:
     translation: Not
     transliteration: mā
   19:
-    arabic: يَكُوۡنُ
+    arabic: يَكُونُ
     translation: (it) is
     transliteration: yakūnu
   20:
-    arabic: لِىۡۤ
+    arabic: لِيٓ
     translation: for me
     transliteration: lī
   21:
-    arabic: اَنۡ
+    arabic: أَنۡ
     translation: that
     transliteration: an
   22:
-    arabic: اُبَدِّلَهٗ
+    arabic: أُبَدِّلَهُۥ
     translation: I change it
     transliteration: ubaddilahu
   23:
-    arabic: مِنۡ
+    arabic: مِن
     translation: of
     transliteration: min
   24:
-    arabic: تِلۡقَآئِ
+    arabic: تِلۡقَآيِٕ
     translation: my own accord
     transliteration: til'qāi
   25:
-    arabic: نَـفۡسِىۡ ۚ
+    arabic: نَفۡسِيٓۖ
     translation: my own accord
     transliteration: nafsī
   26:
-    arabic: اِنۡ
+    arabic: إِنۡ
     translation: Not
     transliteration: in
   27:
-    arabic: اَتَّبِعُ
+    arabic: أَتَّبِعُ
     translation: I follow
     transliteration: attabiʿu
   28:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   29:
@@ -126,23 +126,23 @@ word_by_word:
     translation: what
     transliteration: mā
   30:
-    arabic: يُوۡحٰۤى
+    arabic: يُوحَىٰٓ
     translation: is revealed
     transliteration: yūḥā
   31:
-    arabic: اِلَىَّ​ ۚ
+    arabic: إِلَيَّۖ
     translation: to me
     transliteration: ilayya
   32:
-    arabic: اِنِّىۡۤ
+    arabic: إِنِّيٓ
     translation: Indeed, I
     transliteration: innī
   33:
-    arabic: اَخَافُ
+    arabic: أَخَافُ
     translation: '[I] fear'
     transliteration: akhāfu
   34:
-    arabic: اِنۡ
+    arabic: إِنۡ
     translation: if
     transliteration: in
   35:
@@ -150,7 +150,7 @@ word_by_word:
     translation: I were to disobey
     transliteration: ʿaṣaytu
   36:
-    arabic: رَبِّىۡ
+    arabic: رَبِّي
     translation: my Lord
     transliteration: rabbī
   37:
@@ -162,7 +162,7 @@ word_by_word:
     translation: (of) a Day
     transliteration: yawmin
   39:
-    arabic: عَظِيۡمٍ‏
+    arabic: عَظِيمٖ
     translation: Great
     transliteration: ʿaẓīmin
 ---

@@ -1,6 +1,6 @@
 ---
-arabic_ayat: يَغۡفِرۡ لَـكُمۡ مِّنۡ ذُنُوۡبِكُمۡ وَيُؤَخِّرۡكُمۡ اِلٰٓى اَجَلٍ مُّسَمًّى​ؕ
-  اِنَّ اَجَلَ اللّٰهِ اِذَا جَآءَ لَا يُؤَخَّرُ​​ۘ لَوۡ كُنۡتُمۡ تَعۡلَمُوۡنَ‏
+arabic_ayat: يَغۡفِرۡ لَكُم مِّن ذُنُوبِكُمۡ وَيُؤَخِّرۡكُمۡ إِلَىٰٓ أَجَلٖ مُّسَمًّىۚ
+  إِنَّ أَجَلَ ٱللَّهِ إِذَا جَآءَ لَا يُؤَخَّرُۚ لَوۡ كُنتُمۡ تَعۡلَمُونَ
 sentence_translation: He will forgive your sins, and delay your end until the appointed
   time. Indeed, when the time set by Allah comes, it cannot be delayed, if only you
   knew!”
@@ -10,15 +10,15 @@ word_by_word:
     translation: He will forgive
     transliteration: yaghfir
   2:
-    arabic: لَـكُمۡ
+    arabic: لَكُم
     translation: for you
     transliteration: lakum
   3:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: '[of]'
     transliteration: min
   4:
-    arabic: ذُنُوۡبِكُمۡ
+    arabic: ذُنُوبِكُمۡ
     translation: your sins
     transliteration: dhunūbikum
   5:
@@ -26,31 +26,31 @@ word_by_word:
     translation: and give you respite
     transliteration: wayu-akhir'kum
   6:
-    arabic: اِلٰٓى
+    arabic: إِلَىٰٓ
     translation: for
     transliteration: ilā
   7:
-    arabic: اَجَلٍ
+    arabic: أَجَلٖ
     translation: a term
     transliteration: ajalin
   8:
-    arabic: مُّسَمًّى​ؕ
+    arabic: مُّسَمًّىۚ
     translation: specified
     transliteration: musamman
   9:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   10:
-    arabic: اَجَلَ
+    arabic: أَجَلَ
     translation: (the) term
     transliteration: ajala
   11:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (of) Allah
     transliteration: l-lahi
   12:
-    arabic: اِذَا
+    arabic: إِذَا
     translation: when
     transliteration: idhā
   13:
@@ -62,7 +62,7 @@ word_by_word:
     translation: not
     transliteration: lā
   15:
-    arabic: يُؤَخَّرُ​​ۘ
+    arabic: يُؤَخَّرُۚ
     translation: is delayed
     transliteration: yu-akharu
   16:
@@ -70,11 +70,11 @@ word_by_word:
     translation: if
     transliteration: law
   17:
-    arabic: كُنۡتُمۡ
+    arabic: كُنتُمۡ
     translation: you
     transliteration: kuntum
   18:
-    arabic: تَعۡلَمُوۡنَ‏
+    arabic: تَعۡلَمُونَ
     translation: know
     transliteration: taʿlamūna
 ---

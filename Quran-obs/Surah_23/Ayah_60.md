@@ -1,27 +1,27 @@
 ---
-arabic_ayat: وَالَّذِيۡنَ يُؤۡتُوۡنَ مَاۤ اٰتَوْا وَّ قُلُوۡبُهُمۡ وَجِلَةٌ اَنَّهُمۡ
-  اِلٰى رَبِّهِمۡ رٰجِعُوۡنَ ۙ‏
+arabic_ayat: وَٱلَّذِينَ يُؤۡتُونَ مَآ ءَاتَواْ وَّقُلُوبُهُمۡ وَجِلَةٌ أَنَّهُمۡ
+  إِلَىٰ رَبِّهِمۡ رَٰجِعُونَ
 sentence_translation: and who do whatever ˹good˺ they do with their hearts fearful,
   ˹knowing˺ that they will return to their Lord—
 word_by_word:
   1:
-    arabic: وَالَّذِيۡنَ
+    arabic: وَٱلَّذِينَ
     translation: And those who
     transliteration: wa-alladhīna
   2:
-    arabic: يُؤۡتُوۡنَ
+    arabic: يُؤۡتُونَ
     translation: give
     transliteration: yu'tūna
   3:
-    arabic: مَاۤ
+    arabic: مَآ ءَ
     translation: what
     transliteration: mā
   4:
-    arabic: اٰتَوْا
+    arabic: اتَواْ
     translation: they give
     transliteration: ātaw
   5:
-    arabic: وَّ قُلُوۡبُهُمۡ
+    arabic: وَّقُلُوبُهُمۡ
     translation: while their hearts
     transliteration: waqulūbuhum
   6:
@@ -29,11 +29,11 @@ word_by_word:
     translation: (are) fearful
     transliteration: wajilatun
   7:
-    arabic: اَنَّهُمۡ
+    arabic: أَنَّهُمۡ
     translation: because they
     transliteration: annahum
   8:
-    arabic: اِلٰى
+    arabic: إِلَىٰ
     translation: to
     transliteration: ilā
   9:
@@ -41,7 +41,7 @@ word_by_word:
     translation: their Lord
     transliteration: rabbihim
   10:
-    arabic: رٰجِعُوۡنَ ۙ‏
+    arabic: رَٰجِعُونَ
     translation: (will) return
     transliteration: rājiʿūna
 ---

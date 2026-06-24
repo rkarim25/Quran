@@ -1,21 +1,21 @@
 ---
-arabic_ayat: اِنَّ الَّذِيۡنَ اٰمَنُوۡا ثُمَّ كَفَرُوۡا ثُمَّ اٰمَنُوۡا ثُمَّ كَفَرُوۡا
-  ثُمَّ ازۡدَادُوۡا كُفۡرًا لَّمۡ يَكُنِ اللّٰهُ لِيَـغۡفِرَ لَهُمۡ وَلَا لِيَـهۡدِيَهُمۡ
-  سَبِيۡلًا ؕ‏
+arabic_ayat: إِنَّ ٱلَّذِينَ ءَامَنُواْ ثُمَّ كَفَرُواْ ثُمَّ ءَامَنُواْ ثُمَّ كَفَرُواْ
+  ثُمَّ ٱزۡدَادُواْ كُفۡرٗا لَّمۡ يَكُنِ ٱللَّهُ لِيَغۡفِرَ لَهُمۡ وَلَا لِيَهۡدِيَهُمۡ
+  سَبِيلَۢا
 sentence_translation: Indeed, those who believed then disbelieved, then believed and
   again disbelieved—˹only˺ increasing in disbelief—Allah will neither forgive them
   nor guide them to the ˹Right˺ Way.
 word_by_word:
   1:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ ءَ
     translation: those who
     transliteration: alladhīna
   3:
-    arabic: اٰمَنُوۡا
+    arabic: امَنُواْ
     translation: believed
     transliteration: āmanū
   4:
@@ -23,15 +23,15 @@ word_by_word:
     translation: then
     transliteration: thumma
   5:
-    arabic: كَفَرُوۡا
+    arabic: كَفَرُواْ
     translation: disbelieved
     transliteration: kafarū
   6:
-    arabic: ثُمَّ
+    arabic: ثُمَّ ءَ
     translation: then
     transliteration: thumma
   7:
-    arabic: اٰمَنُوۡا
+    arabic: امَنُواْ
     translation: (again) believed
     transliteration: āmanū
   8:
@@ -39,7 +39,7 @@ word_by_word:
     translation: then
     transliteration: thumma
   9:
-    arabic: كَفَرُوۡا
+    arabic: كَفَرُواْ
     translation: disbelieved
     transliteration: kafarū
   10:
@@ -47,11 +47,11 @@ word_by_word:
     translation: then
     transliteration: thumma
   11:
-    arabic: ازۡدَادُوۡا
+    arabic: ٱزۡدَادُواْ
     translation: increased
     transliteration: iz'dādū
   12:
-    arabic: كُفۡرًا
+    arabic: كُفۡرٗا
     translation: '(in) disbelief '
     transliteration: kuf'ran
   13:
@@ -63,11 +63,11 @@ word_by_word:
     translation: will
     transliteration: yakuni
   15:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   16:
-    arabic: لِيَـغۡفِرَ
+    arabic: لِيَغۡفِرَ
     translation: forgive
     transliteration: liyaghfira
   17:
@@ -79,11 +79,11 @@ word_by_word:
     translation: and not
     transliteration: walā
   19:
-    arabic: لِيَـهۡدِيَهُمۡ
+    arabic: لِيَهۡدِيَهُمۡ
     translation: will guide them
     transliteration: liyahdiyahum
   20:
-    arabic: سَبِيۡلًا ؕ‏
+    arabic: سَبِيلَۢا
     translation: (to) a (right) way
     transliteration: sabīlan
 ---

@@ -1,7 +1,7 @@
 ---
-arabic_ayat: وَهُوَ الَّذِىۡ مَدَّ الۡاَرۡضَ وَجَعَلَ فِيۡهَا رَوَاسِىَ وَاَنۡهٰرًا​
-  ؕ وَمِنۡ كُلِّ الثَّمَرٰتِ جَعَلَ فِيۡهَا زَوۡجَيۡنِ اثۡنَيۡنِ​ يُغۡشِى الَّيۡلَ
-  النَّهَارَ​ ؕ اِنَّ فِىۡ ذٰ لِكَ لَاٰيٰتٍ لِّـقَوۡمٍ يَّتَفَكَّرُوۡنَ‏
+arabic_ayat: وَهُوَ ٱلَّذِي مَدَّ ٱلۡأَرۡضَ وَجَعَلَ فِيهَا رَوَٰسِيَ وَأَنۡهَٰرٗاۖ
+  وَمِن كُلِّ ٱلثَّمَرَٰتِ جَعَلَ فِيهَا زَوۡجَيۡنِ ٱثۡنَيۡنِۖ يُغۡشِي ٱلَّيۡلَ ٱلنَّهَارَۚ
+  إِنَّ فِي ذَٰلِكَ لَأٓيَٰتٖ لِّقَوۡمٖ يَتَفَكَّرُونَ
 sentence_translation: And He is the One Who spread out the earth and placed firm mountains
   and rivers upon it, and created fruits of every kind in pairs. He covers the day
   with night. Surely in this are signs for those who reflect.
@@ -11,7 +11,7 @@ word_by_word:
     translation: And He
     transliteration: wahuwa
   2:
-    arabic: الَّذِىۡ
+    arabic: ٱلَّذِي
     translation: (is) the One Who
     transliteration: alladhī
   3:
@@ -19,7 +19,7 @@ word_by_word:
     translation: spread
     transliteration: madda
   4:
-    arabic: الۡاَرۡضَ
+    arabic: ٱلۡأَرۡضَ
     translation: the earth
     transliteration: l-arḍa
   5:
@@ -27,19 +27,19 @@ word_by_word:
     translation: and placed
     transliteration: wajaʿala
   6:
-    arabic: فِيۡهَا
+    arabic: فِيهَا
     translation: in it
     transliteration: fīhā
   7:
-    arabic: رَوَاسِىَ
+    arabic: رَوَٰسِيَ
     translation: firm mountains
     transliteration: rawāsiya
   8:
-    arabic: وَاَنۡهٰرًا​ ؕ
+    arabic: وَأَنۡهَٰرٗاۖ
     translation: and rivers
     transliteration: wa-anhāran
   9:
-    arabic: وَمِنۡ
+    arabic: وَمِن
     translation: and from
     transliteration: wamin
   10:
@@ -47,7 +47,7 @@ word_by_word:
     translation: all
     transliteration: kulli
   11:
-    arabic: الثَّمَرٰتِ
+    arabic: ٱلثَّمَرَٰتِ
     translation: (of) the fruits
     transliteration: l-thamarāti
   12:
@@ -55,7 +55,7 @@ word_by_word:
     translation: He made
     transliteration: jaʿala
   13:
-    arabic: فِيۡهَا
+    arabic: فِيهَا
     translation: in it
     transliteration: fīhā
   14:
@@ -63,43 +63,43 @@ word_by_word:
     translation: pairs
     transliteration: zawjayni
   15:
-    arabic: اثۡنَيۡنِ​
+    arabic: ٱثۡنَيۡنِۖ
     translation: two
     transliteration: ith'nayni
   16:
-    arabic: يُغۡشِى
+    arabic: يُغۡشِي
     translation: He covers
     transliteration: yugh'shī
   17:
-    arabic: الَّيۡلَ
+    arabic: ٱلَّيۡلَ
     translation: the night
     transliteration: al-layla
   18:
-    arabic: النَّهَارَ​ ؕ
+    arabic: ٱلنَّهَارَۚ
     translation: (with) the day
     transliteration: l-nahāra
   19:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   20:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   21:
-    arabic: ذٰ لِكَ
+    arabic: ذَٰلِكَ
     translation: that
     transliteration: dhālika
   22:
-    arabic: لَاٰيٰتٍ
+    arabic: لَأٓيَٰتٖ
     translation: surely (are) Signs
     transliteration: laāyātin
   23:
-    arabic: لِّـقَوۡمٍ
+    arabic: لِّقَوۡمٖ
     translation: for a people
     transliteration: liqawmin
   24:
-    arabic: يَّتَفَكَّرُوۡنَ‏
+    arabic: يَتَفَكَّرُونَ
     translation: who ponder
     transliteration: yatafakkarūna
 ---

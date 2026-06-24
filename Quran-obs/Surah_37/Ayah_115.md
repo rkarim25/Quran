@@ -1,9 +1,9 @@
 ---
-arabic_ayat: وَنَجَّيۡنٰهُمَا وَقَوۡمَهُمَا مِنَ الۡكَرۡبِ الۡعَظِيۡمِ​ۚ‏
+arabic_ayat: وَنَجَّيۡنَٰهُمَا وَقَوۡمَهُمَا مِنَ ٱلۡكَرۡبِ ٱلۡعَظِيمِ
 sentence_translation: and delivered them and their people from the great distress.
 word_by_word:
   1:
-    arabic: وَنَجَّيۡنٰهُمَا
+    arabic: وَنَجَّيۡنَٰهُمَا
     translation: And We saved both of them
     transliteration: wanajjaynāhumā
   2:
@@ -15,11 +15,11 @@ word_by_word:
     translation: from
     transliteration: mina
   4:
-    arabic: الۡكَرۡبِ
+    arabic: ٱلۡكَرۡبِ
     translation: the distress
     transliteration: l-karbi
   5:
-    arabic: الۡعَظِيۡمِ​ۚ‏
+    arabic: ٱلۡعَظِيمِ
     translation: the great
     transliteration: l-ʿaẓīmi
 ---

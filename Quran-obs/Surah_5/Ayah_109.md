@@ -1,12 +1,12 @@
 ---
-arabic_ayat: يَوۡمَ يَجۡمَعُ اللّٰهُ الرُّسُلَ فَيَقُوۡلُ مَاذَاۤ اُجِبۡتُمۡ​ ؕ قَالُوۡا
-  لَا عِلۡمَ لَـنَا ؕ اِنَّكَ اَنۡتَ عَلَّامُ الۡغُيُوۡبِ‏
+arabic_ayat: ۞ يَوۡمَ يَجۡمَعُ ٱللَّهُ ٱلرُّسُلَ فَيَقُولُ مَاذَآ أُجِبۡتُمۡۖ قَالُواْ
+  لَا عِلۡمَ لَنَآۖ إِنَّكَ أَنتَ عَلَّٰمُ ٱلۡغُيُوبِ
 sentence_translation: ˹Consider˺ the Day Allah will gather the messengers and say,
   “What response did you receive?” They will reply, “We have no knowledge ˹compared
   to You˺! You ˹alone˺ are indeed the Knower of all unseen.”
 word_by_word:
   1:
-    arabic: ۞ يَوۡمَ
+    arabic: ۞ يَوۡمَ
     translation: (The) day
     transliteration: yawma
   2:
@@ -14,27 +14,27 @@ word_by_word:
     translation: will (be) gathered
     transliteration: yajmaʿu
   3:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: (by) Allah
     transliteration: l-lahu
   4:
-    arabic: الرُّسُلَ
+    arabic: ٱلرُّسُلَ
     translation: the Messengers
     transliteration: l-rusula
   5:
-    arabic: فَيَقُوۡلُ
+    arabic: فَيَقُولُ
     translation: and He will say
     transliteration: fayaqūlu
   6:
-    arabic: مَاذَاۤ
+    arabic: مَاذَآ
     translation: What
     transliteration: mādhā
   7:
-    arabic: اُجِبۡتُمۡ​ ؕ
+    arabic: أُجِبۡتُمۡۖ
     translation: was (the) response you received
     transliteration: ujib'tum
   8:
-    arabic: قَالُوۡا
+    arabic: قَالُواْ
     translation: They said
     transliteration: qālū
   9:
@@ -46,23 +46,23 @@ word_by_word:
     translation: knowledge
     transliteration: ʿil'ma
   11:
-    arabic: لَـنَا ؕ
+    arabic: لَنَآۖ
     translation: for us
     transliteration: lanā
   12:
-    arabic: اِنَّكَ
+    arabic: إِنَّكَ
     translation: Indeed You
     transliteration: innaka
   13:
-    arabic: اَنۡتَ
+    arabic: أَنتَ
     translation: You
     transliteration: anta
   14:
-    arabic: عَلَّامُ
+    arabic: عَلَّٰمُ
     translation: (are the) Knower
     transliteration: ʿallāmu
   15:
-    arabic: الۡغُيُوۡبِ‏
+    arabic: ٱلۡغُيُوبِ
     translation: (of) the unseen
     transliteration: l-ghuyūbi
 ---

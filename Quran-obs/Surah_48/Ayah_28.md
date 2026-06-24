@@ -1,6 +1,6 @@
 ---
-arabic_ayat: هُوَ الَّذِىۡۤ اَرۡسَلَ رَسُوۡلَهٗ بِالۡهُدٰى وَدِيۡنِ الۡحَـقِّ لِيُظۡهِرَهٗ
-  عَلَى الدِّيۡنِ كُلِّهٖ​ؕ وَكَفٰى بِاللّٰهِ شَهِيۡدًا ؕ‏
+arabic_ayat: هُوَ ٱلَّذِيٓ أَرۡسَلَ رَسُولَهُۥ بِٱلۡهُدَىٰ وَدِينِ ٱلۡحَقِّ لِيُظۡهِرَهُۥ
+  عَلَى ٱلدِّينِ كُلِّهِۦۚ وَكَفَىٰ بِٱللَّهِ شَهِيدٗا
 sentence_translation: He is the One Who has sent His Messenger with ˹right˺ guidance
   and the religion of truth, making it prevail over all others. And sufficient is
   Allah as a Witness.
@@ -10,31 +10,31 @@ word_by_word:
     translation: He
     transliteration: huwa
   2:
-    arabic: الَّذِىۡۤ
+    arabic: ٱلَّذِيٓ
     translation: (is) the One Who
     transliteration: alladhī
   3:
-    arabic: اَرۡسَلَ
+    arabic: أَرۡسَلَ
     translation: (has) sent
     transliteration: arsala
   4:
-    arabic: رَسُوۡلَهٗ
+    arabic: رَسُولَهُۥ
     translation: His Messenger
     transliteration: rasūlahu
   5:
-    arabic: بِالۡهُدٰى
+    arabic: بِٱلۡهُدَىٰ
     translation: with guidance
     transliteration: bil-hudā
   6:
-    arabic: وَدِيۡنِ
+    arabic: وَدِينِ
     translation: and (the) religion
     transliteration: wadīni
   7:
-    arabic: الۡحَـقِّ
+    arabic: ٱلۡحَقِّ
     translation: the true
     transliteration: l-ḥaqi
   8:
-    arabic: لِيُظۡهِرَهٗ
+    arabic: لِيُظۡهِرَهُۥ
     translation: that He (may) make it prevail
     transliteration: liyuẓ'hirahu
   9:
@@ -42,23 +42,23 @@ word_by_word:
     translation: over
     transliteration: ʿalā
   10:
-    arabic: الدِّيۡنِ
+    arabic: ٱلدِّينِ
     translation: the religions
     transliteration: l-dīni
   11:
-    arabic: كُلِّهٖ​ؕ
+    arabic: كُلِّهِۦۚ
     translation: all
     transliteration: kullihi
   12:
-    arabic: وَكَفٰى
+    arabic: وَكَفَىٰ
     translation: And sufficient is
     transliteration: wakafā
   13:
-    arabic: بِاللّٰهِ
+    arabic: بِٱللَّهِ
     translation: Allah
     transliteration: bil-lahi
   14:
-    arabic: شَهِيۡدًا ؕ‏
+    arabic: شَهِيدٗا
     translation: (as) a Witness
     transliteration: shahīdan
 ---

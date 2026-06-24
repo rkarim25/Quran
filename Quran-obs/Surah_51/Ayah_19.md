@@ -1,26 +1,26 @@
 ---
-arabic_ayat: وَفِىۡۤ اَمۡوَالِهِمۡ حَقٌّ لِّلسَّآٮِٕلِ وَالۡمَحۡرُوۡمِ‏
+arabic_ayat: وَفِيٓ أَمۡوَٰلِهِمۡ حَقّٞ لِّلسَّآئِلِ وَٱلۡمَحۡرُومِ
 sentence_translation: And in their wealth there was a rightful share ˹fulfilled˺ for
   the beggar and the poor.
 word_by_word:
   1:
-    arabic: وَفِىۡۤ
+    arabic: وَفِيٓ
     translation: And in
     transliteration: wafī
   2:
-    arabic: اَمۡوَالِهِمۡ
+    arabic: أَمۡوَٰلِهِمۡ
     translation: their wealth
     transliteration: amwālihim
   3:
-    arabic: حَقٌّ
+    arabic: حَقّٞ
     translation: (was the) right
     transliteration: ḥaqqun
   4:
-    arabic: لِّلسَّآٮِٕلِ
+    arabic: لِّلسَّآئِلِ
     translation: (of) those who asked
     transliteration: lilssāili
   5:
-    arabic: وَالۡمَحۡرُوۡمِ‏
+    arabic: وَٱلۡمَحۡرُومِ
     translation: and the deprived
     transliteration: wal-maḥrūmi
 ---

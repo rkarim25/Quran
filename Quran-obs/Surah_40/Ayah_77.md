@@ -1,16 +1,16 @@
 ---
-arabic_ayat: فَاصۡبِرۡ اِنَّ وَعۡدَ اللّٰهِ حَقٌّ ۚ فَاِمَّا نُرِيَنَّكَ بَعۡضَ الَّذِىۡ
-  نَعِدُهُمۡ اَوۡ نَتَوَفَّيَنَّكَ فَاِلَيۡنَا يُرۡجَعُوۡنَ‏
+arabic_ayat: فَٱصۡبِرۡ إِنَّ وَعۡدَ ٱللَّهِ حَقّٞۚ فَإِمَّا نُرِيَنَّكَ بَعۡضَ ٱلَّذِي
+  نَعِدُهُمۡ أَوۡ نَتَوَفَّيَنَّكَ فَإِلَيۡنَا يُرۡجَعُونَ
 sentence_translation: So be patient ˹O Prophet˺. Surely Allah’s promise is true. Whether
   We show you some of what We threaten them with, or cause you to die ˹before that˺,
   to Us they will ˹all˺ be returned.
 word_by_word:
   1:
-    arabic: فَاصۡبِرۡ
+    arabic: فَٱصۡبِرۡ
     translation: So be patient
     transliteration: fa-iṣ'bir
   2:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: indeed
     transliteration: inna
   3:
@@ -18,15 +18,15 @@ word_by_word:
     translation: (the) Promise
     transliteration: waʿda
   4:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (of) Allah
     transliteration: l-lahi
   5:
-    arabic: حَقٌّ ۚ
+    arabic: حَقّٞۚ
     translation: (is) true
     transliteration: ḥaqqun
   6:
-    arabic: فَاِمَّا
+    arabic: فَإِمَّا
     translation: And whether
     transliteration: fa-immā
   7:
@@ -38,7 +38,7 @@ word_by_word:
     translation: some
     transliteration: baʿḍa
   9:
-    arabic: الَّذِىۡ
+    arabic: ٱلَّذِي
     translation: (of) what
     transliteration: alladhī
   10:
@@ -46,7 +46,7 @@ word_by_word:
     translation: We have promised them
     transliteration: naʿiduhum
   11:
-    arabic: اَوۡ
+    arabic: أَوۡ
     translation: or
     transliteration: aw
   12:
@@ -54,11 +54,11 @@ word_by_word:
     translation: We cause you to die
     transliteration: natawaffayannaka
   13:
-    arabic: فَاِلَيۡنَا
+    arabic: فَإِلَيۡنَا
     translation: then to Us
     transliteration: fa-ilaynā
   14:
-    arabic: يُرۡجَعُوۡنَ‏
+    arabic: يُرۡجَعُونَ
     translation: they will be returned
     transliteration: yur'jaʿūna
 ---

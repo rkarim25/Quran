@@ -1,10 +1,10 @@
 ---
-arabic_ayat: وَالَّذِيۡنَ هُمۡ لِاَمٰنٰتِهِمۡ وَعَهۡدِهِمۡ رَاعُوۡنَ ۙ‏
+arabic_ayat: وَٱلَّذِينَ هُمۡ لِأَمَٰنَٰتِهِمۡ وَعَهۡدِهِمۡ رَٰعُونَ
 sentence_translation: ˹the believers are also˺ those who are true to their trusts
   and covenants;
 word_by_word:
   1:
-    arabic: وَالَّذِيۡنَ
+    arabic: وَٱلَّذِينَ
     translation: And those who
     transliteration: wa-alladhīna
   2:
@@ -12,7 +12,7 @@ word_by_word:
     translation: '[they]'
     transliteration: hum
   3:
-    arabic: لِاَمٰنٰتِهِمۡ
+    arabic: لِأَمَٰنَٰتِهِمۡ
     translation: of their trusts
     transliteration: li-amānātihim
   4:
@@ -20,7 +20,7 @@ word_by_word:
     translation: and their promise(s)
     transliteration: waʿahdihim
   5:
-    arabic: رَاعُوۡنَ ۙ‏
+    arabic: رَٰعُونَ
     translation: (are) observers
     transliteration: rāʿūna
 ---

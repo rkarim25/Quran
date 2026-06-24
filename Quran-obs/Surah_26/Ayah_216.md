@@ -1,10 +1,10 @@
 ---
-arabic_ayat: فَاِنۡ عَصَوۡكَ فَقُلۡ اِنِّىۡ بَرِىۡٓءٌ مِّمَّا تَعۡمَلُوۡنَ​ۚ‏
+arabic_ayat: فَإِنۡ عَصَوۡكَ فَقُلۡ إِنِّي بَرِيٓءٞ مِّمَّا تَعۡمَلُونَ
 sentence_translation: But if they disobey you, say, “I am certainly free of what you
   do.”
 word_by_word:
   1:
-    arabic: فَاِنۡ
+    arabic: فَإِنۡ
     translation: Then if
     transliteration: fa-in
   2:
@@ -16,11 +16,11 @@ word_by_word:
     translation: then say
     transliteration: faqul
   4:
-    arabic: اِنِّىۡ
+    arabic: إِنِّي
     translation: Indeed, I am
     transliteration: innī
   5:
-    arabic: بَرِىۡٓءٌ
+    arabic: بَرِيٓءٞ
     translation: innocent
     transliteration: barīon
   6:
@@ -28,7 +28,7 @@ word_by_word:
     translation: of what
     transliteration: mimmā
   7:
-    arabic: تَعۡمَلُوۡنَ​ۚ‏
+    arabic: تَعۡمَلُونَ
     translation: you do
     transliteration: taʿmalūna
 ---

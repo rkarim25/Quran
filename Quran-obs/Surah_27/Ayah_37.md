@@ -1,24 +1,24 @@
 ---
-arabic_ayat: اِرۡجِعۡ اِلَيۡهِمۡ فَلَنَاۡتِيَنَّهُمۡ بِجُنُوۡدٍ لَّا قِبَلَ لَهُمۡ
-  بِهَا وَلَـنُخۡرِجَنَّهُمۡ مِّنۡهَاۤ اَذِلَّةً وَّهُمۡ صٰغِرُوۡنَ‏
+arabic_ayat: ٱرۡجِعۡ إِلَيۡهِمۡ فَلَنَأۡتِيَنَّهُم بِجُنُودٖ لَّا قِبَلَ لَهُم بِهَا
+  وَلَنُخۡرِجَنَّهُم مِّنۡهَآ أَذِلَّةٗ وَهُمۡ صَٰغِرُونَ
 sentence_translation: Go back to them, for we will certainly mobilize against them
   forces which they can never resist, and we will drive them out from there in disgrace,
   fully humbled.” 
 word_by_word:
   1:
-    arabic: اِرۡجِعۡ
+    arabic: ٱرۡجِعۡ
     translation: Return
     transliteration: ir'jiʿ
   2:
-    arabic: اِلَيۡهِمۡ
+    arabic: إِلَيۡهِمۡ
     translation: to them
     transliteration: ilayhim
   3:
-    arabic: فَلَنَاۡتِيَنَّهُمۡ
+    arabic: فَلَنَأۡتِيَنَّهُم
     translation: surely, we will come to them
     transliteration: falanatiyannahum
   4:
-    arabic: بِجُنُوۡدٍ
+    arabic: بِجُنُودٖ
     translation: with hosts
     transliteration: bijunūdin
   5:
@@ -30,7 +30,7 @@ word_by_word:
     translation: (is) resistance
     transliteration: qibala
   7:
-    arabic: لَهُمۡ
+    arabic: لَهُم
     translation: for them
     transliteration: lahum
   8:
@@ -38,23 +38,23 @@ word_by_word:
     translation: of it
     transliteration: bihā
   9:
-    arabic: وَلَـنُخۡرِجَنَّهُمۡ
+    arabic: وَلَنُخۡرِجَنَّهُم
     translation: and surely, we will drive them out
     transliteration: walanukh'rijannahum
   10:
-    arabic: مِّنۡهَاۤ
+    arabic: مِّنۡهَآ
     translation: from there
     transliteration: min'hā
   11:
-    arabic: اَذِلَّةً
+    arabic: أَذِلَّةٗ
     translation: (in) humiliation
     transliteration: adhillatan
   12:
-    arabic: وَّهُمۡ
+    arabic: وَهُمۡ
     translation: and they
     transliteration: wahum
   13:
-    arabic: صٰغِرُوۡنَ‏
+    arabic: صَٰغِرُونَ
     translation: (will be) abased
     transliteration: ṣāghirūna
 ---

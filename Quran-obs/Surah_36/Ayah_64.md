@@ -1,13 +1,13 @@
 ---
-arabic_ayat: اِصۡلَوۡهَا الۡيَوۡمَ بِمَا كُنۡتُمۡ تَكۡفُرُوۡنَ‏
+arabic_ayat: ٱصۡلَوۡهَا ٱلۡيَوۡمَ بِمَا كُنتُمۡ تَكۡفُرُونَ
 sentence_translation: Burn in it Today for your disbelief.”
 word_by_word:
   1:
-    arabic: اِصۡلَوۡهَا
+    arabic: ٱصۡلَوۡهَا
     translation: Burn therein
     transliteration: iṣ'lawhā
   2:
-    arabic: الۡيَوۡمَ
+    arabic: ٱلۡيَوۡمَ
     translation: today
     transliteration: l-yawma
   3:
@@ -15,11 +15,11 @@ word_by_word:
     translation: because
     transliteration: bimā
   4:
-    arabic: كُنۡتُمۡ
+    arabic: كُنتُمۡ
     translation: you used to
     transliteration: kuntum
   5:
-    arabic: تَكۡفُرُوۡنَ‏
+    arabic: تَكۡفُرُونَ
     translation: disbelieve
     transliteration: takfurūna
 ---

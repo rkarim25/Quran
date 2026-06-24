@@ -1,17 +1,17 @@
 ---
-arabic_ayat: كَلَّاۤ اِنَّهَا تَذۡكِرَةٌ ۚ‏
+arabic_ayat: كـَلَّآ إِنَّهَا تَذۡكِرَةٞ
 sentence_translation: But no! This ˹revelation˺ is truly a reminder.
 word_by_word:
   1:
-    arabic: كَلَّاۤ
+    arabic: كـَلَّآ
     translation: Nay
     transliteration: kallā
   2:
-    arabic: اِنَّهَا
+    arabic: إِنَّهَا
     translation: Indeed, it
     transliteration: innahā
   3:
-    arabic: تَذۡكِرَةٌ ۚ‏
+    arabic: تَذۡكِرَةٞ
     translation: (is) a reminder
     transliteration: tadhkiratun
 ---

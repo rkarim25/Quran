@@ -1,36 +1,36 @@
 ---
-arabic_ayat: اِذۡ قَالُوۡا لَيُوۡسُفُ وَاَخُوۡهُ اَحَبُّ اِلٰٓى اَبِيۡنَا مِنَّا وَنَحۡنُ
-  عُصۡبَةٌ  ؕ اِنَّ اَبَانَا لَفِىۡ ضَلٰلٍ مُّبِيۡنِ ​ۖ ​ۚ‏
+arabic_ayat: إِذۡ قَالُواْ لَيُوسُفُ وَأَخُوهُ أَحَبُّ إِلَىٰٓ أَبِينَا مِنَّا وَنَحۡنُ
+  عُصۡبَةٌ إِنَّ أَبَانَا لَفِي ضَلَٰلٖ مُّبِينٍ
 sentence_translation: ˹Remember˺ when they said ˹to one another˺, “Surely Joseph and
   his brother ˹Benjamin˺ are more beloved to our father than we, even though we are
   a group of so many. Indeed, our father is clearly mistaken.
 word_by_word:
   1:
-    arabic: اِذۡ
+    arabic: إِذۡ
     translation: When
     transliteration: idh
   2:
-    arabic: قَالُوۡا
+    arabic: قَالُواْ
     translation: they said
     transliteration: qālū
   3:
-    arabic: لَيُوۡسُفُ
+    arabic: لَيُوسُفُ
     translation: Surely Yusuf
     transliteration: layūsufu
   4:
-    arabic: وَاَخُوۡهُ
+    arabic: وَأَخُوهُ
     translation: and his brother
     transliteration: wa-akhūhu
   5:
-    arabic: اَحَبُّ
+    arabic: أَحَبُّ
     translation: (are) more beloved
     transliteration: aḥabbu
   6:
-    arabic: اِلٰٓى
+    arabic: إِلَىٰٓ
     translation: to
     transliteration: ilā
   7:
-    arabic: اَبِيۡنَا
+    arabic: أَبِينَا
     translation: our father
     transliteration: abīnā
   8:
@@ -42,27 +42,27 @@ word_by_word:
     translation: while we
     transliteration: wanaḥnu
   10:
-    arabic: عُصۡبَةٌ  ؕ
+    arabic: عُصۡبَةٌ
     translation: (are) a group
     transliteration: ʿuṣ'batun
   11:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   12:
-    arabic: اَبَانَا
+    arabic: أَبَانَا
     translation: our father
     transliteration: abānā
   13:
-    arabic: لَفِىۡ
+    arabic: لَفِي
     translation: (is) surely in
     transliteration: lafī
   14:
-    arabic: ضَلٰلٍ
+    arabic: ضَلَٰلٖ
     translation: an error
     transliteration: ḍalālin
   15:
-    arabic: مُّبِيۡنِ ​ۖ ​ۚ‏
+    arabic: مُّبِينٍ
     translation: clear
     transliteration: mubīnin
 ---

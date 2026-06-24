@@ -1,27 +1,27 @@
 ---
-arabic_ayat: فَاَعۡرِضۡ عَنۡ مَّنۡ تَوَلّٰى ۙ عَنۡ ذِكۡرِنَا وَلَمۡ يُرِدۡ اِلَّا
-  الۡحَيٰوةَ الدُّنۡيَا ؕ‏
+arabic_ayat: فَأَعۡرِضۡ عَن مَّن تَوَلَّىٰ عَن ذِكۡرِنَا وَلَمۡ يُرِدۡ إِلَّا ٱلۡحَيَوٰةَ
+  ٱلدُّنۡيَا
 sentence_translation: So turn away ˹O Prophet˺ from whoever has shunned Our Reminder, only
   seeking the ˹fleeting˺ life of this world.
 word_by_word:
   1:
-    arabic: فَاَعۡرِضۡ
+    arabic: فَأَعۡرِضۡ
     translation: So turn away
     transliteration: fa-aʿriḍ
   2:
-    arabic: عَنۡ
+    arabic: عَن
     translation: from
     transliteration: ʿan
   3:
-    arabic: مَّنۡ
+    arabic: مَّن
     translation: (him) who
     transliteration: man
   4:
-    arabic: تَوَلّٰى ۙ
+    arabic: تَوَلَّىٰ
     translation: turns away
     transliteration: tawallā
   5:
-    arabic: عَنۡ
+    arabic: عَن
     translation: from
     transliteration: ʿan
   6:
@@ -37,15 +37,15 @@ word_by_word:
     translation: he desires
     transliteration: yurid
   9:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   10:
-    arabic: الۡحَيٰوةَ
+    arabic: ٱلۡحَيَوٰةَ
     translation: the life
     transliteration: l-ḥayata
   11:
-    arabic: الدُّنۡيَا ؕ‏
+    arabic: ٱلدُّنۡيَا
     translation: (of) the world
     transliteration: l-dun'yā
 ---

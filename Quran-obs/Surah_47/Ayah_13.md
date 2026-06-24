@@ -1,16 +1,16 @@
 ---
-arabic_ayat: وَكَاَيِّنۡ مِّنۡ قَرۡيَةٍ هِىَ اَشَدُّ قُوَّةً مِّنۡ قَرۡيَتِكَ الَّتِىۡۤ
-  اَخۡرَجَتۡكَ​ۚ اَهۡلَكۡنٰهُمۡ فَلَا نَاصِرَ لَهُمۡ‏
+arabic_ayat: وَكَأَيِّن مِّن قَرۡيَةٍ هِيَ أَشَدُّ قُوَّةٗ مِّن قَرۡيَتِكَ ٱلَّتِيٓ
+  أَخۡرَجَتۡكَ أَهۡلَكۡنَٰهُمۡ فَلَا نَاصِرَ لَهُمۡ
 sentence_translation: ˹Imagine, O  Prophet,˺ how many societies We destroyed that
   were far superior in might than your society—which drove you out—and there was none
   to help them!
 word_by_word:
   1:
-    arabic: وَكَاَيِّنۡ
+    arabic: وَكَأَيِّن
     translation: And how many
     transliteration: waka-ayyin
   2:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: of
     transliteration: min
   3:
@@ -18,19 +18,19 @@ word_by_word:
     translation: a town
     transliteration: qaryatin
   4:
-    arabic: هِىَ
+    arabic: هِيَ
     translation: which
     transliteration: hiya
   5:
-    arabic: اَشَدُّ
+    arabic: أَشَدُّ
     translation: (was) stronger
     transliteration: ashaddu
   6:
-    arabic: قُوَّةً
+    arabic: قُوَّةٗ
     translation: (in) strength
     transliteration: quwwatan
   7:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: than
     transliteration: min
   8:
@@ -38,15 +38,15 @@ word_by_word:
     translation: your town
     transliteration: qaryatika
   9:
-    arabic: الَّتِىۡۤ
+    arabic: ٱلَّتِيٓ
     translation: which
     transliteration: allatī
   10:
-    arabic: اَخۡرَجَتۡكَ​ۚ
+    arabic: أَخۡرَجَتۡكَ
     translation: has driven you out
     transliteration: akhrajatka
   11:
-    arabic: اَهۡلَكۡنٰهُمۡ
+    arabic: أَهۡلَكۡنَٰهُمۡ
     translation: We destroyed them
     transliteration: ahlaknāhum
   12:
@@ -58,7 +58,7 @@ word_by_word:
     translation: helper
     transliteration: nāṣira
   14:
-    arabic: لَهُمۡ‏
+    arabic: لَهُمۡ
     translation: for them
     transliteration: lahum
 ---

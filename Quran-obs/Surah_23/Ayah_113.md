@@ -1,11 +1,10 @@
 ---
-arabic_ayat: "قَالُوۡا لَبِثۡنَا يَوۡمًا اَوۡ بَعۡضَ يَوۡمٍ فَسۡــَٔـلِ الۡعَآدِّيۡنَ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: قَالُواْ لَبِثۡنَا يَوۡمًا أَوۡ بَعۡضَ يَوۡمٖ فَسۡـَٔلِ ٱلۡعَآدِّينَ
 sentence_translation: They will reply, “We remained ˹only˺ a day or part of a day. But
   ask those who kept count.”
 word_by_word:
   1:
-    arabic: قَالُوۡا
+    arabic: قَالُواْ
     translation: They will say
     transliteration: qālū
   2:
@@ -17,7 +16,7 @@ word_by_word:
     translation: a day
     transliteration: yawman
   4:
-    arabic: اَوۡ
+    arabic: أَوۡ
     translation: or
     transliteration: aw
   5:
@@ -25,15 +24,15 @@ word_by_word:
     translation: a part
     transliteration: baʿḍa
   6:
-    arabic: يَوۡمٍ
+    arabic: يَوۡمٖ
     translation: (of) a day
     transliteration: yawmin
   7:
-    arabic: فَسۡــَٔـلِ
+    arabic: فَسۡـَٔلِ
     translation: but ask
     transliteration: fasali
   8:
-    arabic: "الۡعَآدِّيۡنَ‏ \uFEFF\uFEFF"
+    arabic: ٱلۡعَآدِّينَ
     translation: those who keep count
     transliteration: l-ʿādīna
 ---

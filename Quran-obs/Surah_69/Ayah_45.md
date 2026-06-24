@@ -1,9 +1,9 @@
 ---
-arabic_ayat: لَاَخَذۡنَا مِنۡهُ بِالۡيَمِيۡنِۙ‏
+arabic_ayat: لَأَخَذۡنَا مِنۡهُ بِٱلۡيَمِينِ
 sentence_translation: We would have certainly seized him by his right hand,
 word_by_word:
   1:
-    arabic: لَاَخَذۡنَا
+    arabic: لَأَخَذۡنَا
     translation: Certainly We (would) have seized
     transliteration: la-akhadhnā
   2:
@@ -11,7 +11,7 @@ word_by_word:
     translation: him
     transliteration: min'hu
   3:
-    arabic: بِالۡيَمِيۡنِۙ‏
+    arabic: بِٱلۡيَمِينِ
     translation: by the right hand
     transliteration: bil-yamīni
 ---

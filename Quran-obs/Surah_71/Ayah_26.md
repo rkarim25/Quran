@@ -1,15 +1,14 @@
 ---
-arabic_ayat: "وَ قَالَ نُوۡحٌ رَّبِّ لَا تَذَرۡ عَلَى الۡاَرۡضِ مِنَ الۡكٰفِرِيۡنَ\
-  \ دَيَّارًا‏ \uFEFF\uFEFF"
+arabic_ayat: وَقَالَ نُوحٞ رَّبِّ لَا تَذَرۡ عَلَى ٱلۡأَرۡضِ مِنَ ٱلۡكَٰفِرِينَ دَيَّارًا
 sentence_translation: Noah had prayed, “My Lord! Do not leave a single disbeliever
   on earth.
 word_by_word:
   1:
-    arabic: وَ قَالَ
+    arabic: وَقَالَ
     translation: And said
     transliteration: waqāla
   2:
-    arabic: نُوۡحٌ
+    arabic: نُوحٞ
     translation: Nuh
     transliteration: nūḥun
   3:
@@ -29,7 +28,7 @@ word_by_word:
     translation: 'on'
     transliteration: ʿalā
   7:
-    arabic: الۡاَرۡضِ
+    arabic: ٱلۡأَرۡضِ
     translation: the earth
     transliteration: l-arḍi
   8:
@@ -37,11 +36,11 @@ word_by_word:
     translation: any
     transliteration: mina
   9:
-    arabic: الۡكٰفِرِيۡنَ
+    arabic: ٱلۡكَٰفِرِينَ
     translation: (of) the disbelievers
     transliteration: l-kāfirīna
   10:
-    arabic: دَيَّارًا‏
+    arabic: دَيَّارًا
     translation: (as) an inhabitant
     transliteration: dayyāran
 ---

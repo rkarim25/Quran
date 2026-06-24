@@ -1,6 +1,6 @@
 ---
-arabic_ayat: وَلَا تُجَادِلۡ عَنِ الَّذِيۡنَ يَخۡتَانُوۡنَ اَنۡفُسَهُمۡ​ ؕ اِنَّ اللّٰهَ
-  لَا يُحِبُّ مَنۡ كَانَ خَوَّانًا اَثِيۡمًا ۙ​ ۚ‏
+arabic_ayat: وَلَا تُجَٰدِلۡ عَنِ ٱلَّذِينَ يَخۡتَانُونَ أَنفُسَهُمۡۚ إِنَّ ٱللَّهَ
+  لَا يُحِبُّ مَن كَانَ خَوَّانًا أَثِيمٗا
 sentence_translation: Do not advocate for those who wrong themselves. Surely Allah
   does not like those who are deceitful, sinful.
 word_by_word:
@@ -9,7 +9,7 @@ word_by_word:
     translation: And (do) not
     transliteration: walā
   2:
-    arabic: تُجَادِلۡ
+    arabic: تُجَٰدِلۡ
     translation: argue
     transliteration: tujādil
   3:
@@ -17,23 +17,23 @@ word_by_word:
     translation: for
     transliteration: ʿani
   4:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   5:
-    arabic: يَخۡتَانُوۡنَ
+    arabic: يَخۡتَانُونَ
     translation: deceive
     transliteration: yakhtānūna
   6:
-    arabic: اَنۡفُسَهُمۡ​ ؕ
+    arabic: أَنفُسَهُمۡۚ
     translation: themselves
     transliteration: anfusahum
   7:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   8:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   9:
@@ -45,7 +45,7 @@ word_by_word:
     translation: love
     transliteration: yuḥibbu
   11:
-    arabic: مَنۡ
+    arabic: مَن
     translation: (the one) who
     transliteration: man
   12:
@@ -57,7 +57,7 @@ word_by_word:
     translation: treacherous
     transliteration: khawwānan
   14:
-    arabic: اَثِيۡمًا ۙ​ ۚ‏
+    arabic: أَثِيمٗا
     translation: (and) sinful
     transliteration: athīman
 ---

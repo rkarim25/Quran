@@ -1,5 +1,5 @@
 ---
-arabic_ayat: هَلۡ اُنَبِّئُكُمۡ عَلٰى مَنۡ تَنَزَّلُ الشَّيٰـطِيۡنُؕ‏
+arabic_ayat: هَلۡ أُنَبِّئُكُمۡ عَلَىٰ مَن تَنَزَّلُ ٱلشَّيَٰطِينُ
 sentence_translation: Shall I inform you of whom the devils ˹actually˺ descend upon?
 word_by_word:
   1:
@@ -7,15 +7,15 @@ word_by_word:
     translation: Shall
     transliteration: hal
   2:
-    arabic: اُنَبِّئُكُمۡ
+    arabic: أُنَبِّئُكُمۡ
     translation: I inform you
     transliteration: unabbi-ukum
   3:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: upon
     transliteration: ʿalā
   4:
-    arabic: مَنۡ
+    arabic: مَن
     translation: whom
     transliteration: man
   5:
@@ -23,7 +23,7 @@ word_by_word:
     translation: descend
     transliteration: tanazzalu
   6:
-    arabic: الشَّيٰـطِيۡنُؕ‏
+    arabic: ٱلشَّيَٰطِينُ
     translation: the devils
     transliteration: l-shayāṭīnu
 ---

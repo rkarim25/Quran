@@ -1,17 +1,16 @@
 ---
-arabic_ayat: "اَفَمَنۡ وَّعَدۡنٰهُ وَعۡدًا حَسَنًا فَهُوَ لَاقِيۡهِ كَمَنۡ مَّتَّعۡنٰهُ\
-  \ مَتَاعَ الۡحَيٰوةِ الدُّنۡيَا ثُمَّ هُوَ يَوۡمَ الۡقِيٰمَةِ مِنَ الۡمُحۡضَرِيۡنَ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: أَفَمَن وَعَدۡنَٰهُ وَعۡدًا حَسَنٗا فَهُوَ لَٰقِيهِ كَمَن مَّتَّعۡنَٰهُ
+  مَتَٰعَ ٱلۡحَيَوٰةِ ٱلدُّنۡيَا ثُمَّ هُوَ يَوۡمَ ٱلۡقِيَٰمَةِ مِنَ ٱلۡمُحۡضَرِينَ
 sentence_translation: Can those to whom We have made a fine promise—which they will
   see fulfilled—be like those who We have allowed to enjoy the pleasures of this worldly
   life, but on the Day of Judgment will be brought ˹for punishment˺?
 word_by_word:
   1:
-    arabic: اَفَمَنۡ
+    arabic: أَفَمَن
     translation: Then is (he) whom
     transliteration: afaman
   2:
-    arabic: وَّعَدۡنٰهُ
+    arabic: وَعَدۡنَٰهُ
     translation: We have promised him
     transliteration: waʿadnāhu
   3:
@@ -19,7 +18,7 @@ word_by_word:
     translation: a promise
     transliteration: waʿdan
   4:
-    arabic: حَسَنًا
+    arabic: حَسَنٗا
     translation: good
     transliteration: ḥasanan
   5:
@@ -27,27 +26,27 @@ word_by_word:
     translation: and he
     transliteration: fahuwa
   6:
-    arabic: لَاقِيۡهِ
+    arabic: لَٰقِيهِ
     translation: (will) meet it
     transliteration: lāqīhi
   7:
-    arabic: كَمَنۡ
+    arabic: كَمَن
     translation: like (the one) whom
     transliteration: kaman
   8:
-    arabic: مَّتَّعۡنٰهُ
+    arabic: مَّتَّعۡنَٰهُ
     translation: We provided him
     transliteration: mattaʿnāhu
   9:
-    arabic: مَتَاعَ
+    arabic: مَتَٰعَ
     translation: enjoyment
     transliteration: matāʿa
   10:
-    arabic: الۡحَيٰوةِ
+    arabic: ٱلۡحَيَوٰةِ
     translation: (of the) life
     transliteration: l-ḥayati
   11:
-    arabic: الدُّنۡيَا
+    arabic: ٱلدُّنۡيَا
     translation: (of) the world
     transliteration: l-dun'yā
   12:
@@ -63,7 +62,7 @@ word_by_word:
     translation: (on the) Day
     transliteration: yawma
   15:
-    arabic: الۡقِيٰمَةِ
+    arabic: ٱلۡقِيَٰمَةِ
     translation: (of) the Resurrection
     transliteration: l-qiyāmati
   16:
@@ -71,7 +70,7 @@ word_by_word:
     translation: (will be) among
     transliteration: mina
   17:
-    arabic: "الۡمُحۡضَرِيۡنَ‏ \uFEFF\uFEFF"
+    arabic: ٱلۡمُحۡضَرِينَ
     translation: those presented
     transliteration: l-muḥ'ḍarīna
 ---

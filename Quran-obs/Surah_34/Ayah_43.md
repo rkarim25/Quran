@@ -1,35 +1,35 @@
 ---
-arabic_ayat: وَاِذَا تُتۡلٰى عَلَيۡهِمۡ اٰيٰتُنَا بَيِّنٰتٍ قَالُوۡا مَا هٰذَاۤ اِلَّا
-  رَجُلٌ يُّرِيۡدُ اَنۡ يَّصُدَّكُمۡ عَمَّا كَانَ يَعۡبُدُ اٰبَآؤُكُمۡ​ ۚ وَقَالُوۡا
-  مَا هٰذَاۤ اِلَّاۤ اِفۡكٌ مُّفۡتَـرً ىؕ وَقَالَ الَّذِيۡنَ كَفَرُوۡا لِلۡحَقِّ لَمَّا
-  جَآءَهُمۡ ۙ اِنۡ هٰذَاۤ اِلَّا سِحۡرٌ مُّبِيۡنٌ‏
+arabic_ayat: وَإِذَا تُتۡلَىٰ عَلَيۡهِمۡ ءَايَٰتُنَا بَيِّنَٰتٖ قَالُواْ مَا هَٰذَآ
+  إِلَّا رَجُلٞ يُرِيدُ أَن يَصُدَّكُمۡ عَمَّا كَانَ يَعۡبُدُ ءَابَآؤُكُمۡ وَقَالُواْ
+  مَا هَٰذَآ إِلَّآ إِفۡكٞ مُّفۡتَرٗىۚ وَقَالَ ٱلَّذِينَ كَفَرُواْ لِلۡحَقِّ لَمَّا
+  جَآءَهُمۡ إِنۡ هَٰذَآ إِلَّا سِحۡرٞ مُّبِينٞ
 sentence_translation: When Our clear revelations are recited to them, they say, “This
   is only a man who wishes to hinder you from what your forefathers used to worship.”
   They also say, “This ˹Quran˺ is no more than a fabricated lie.” And the disbelievers
   say of the truth when it has come to them, “This is nothing but pure magic.”
 word_by_word:
   1:
-    arabic: وَاِذَا
+    arabic: وَإِذَا
     translation: And when
     transliteration: wa-idhā
   2:
-    arabic: تُتۡلٰى
+    arabic: تُتۡلَىٰ
     translation: are recited
     transliteration: tut'lā
   3:
-    arabic: عَلَيۡهِمۡ
+    arabic: عَلَيۡهِمۡ ءَ
     translation: to them
     transliteration: ʿalayhim
   4:
-    arabic: اٰيٰتُنَا
+    arabic: ايَٰتُنَا
     translation: Our Verses
     transliteration: āyātunā
   5:
-    arabic: بَيِّنٰتٍ
+    arabic: بَيِّنَٰتٖ
     translation: clear
     transliteration: bayyinātin
   6:
-    arabic: قَالُوۡا
+    arabic: قَالُواْ
     translation: they say
     transliteration: qālū
   7:
@@ -37,27 +37,27 @@ word_by_word:
     translation: Not
     transliteration: mā
   8:
-    arabic: هٰذَاۤ
+    arabic: هَٰذَآ
     translation: (is) this
     transliteration: hādhā
   9:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: but
     transliteration: illā
   10:
-    arabic: رَجُلٌ
+    arabic: رَجُلٞ
     translation: a man
     transliteration: rajulun
   11:
-    arabic: يُّرِيۡدُ
+    arabic: يُرِيدُ
     translation: who wishes
     transliteration: yurīdu
   12:
-    arabic: اَنۡ
+    arabic: أَن
     translation: to
     transliteration: an
   13:
-    arabic: يَّصُدَّكُمۡ
+    arabic: يَصُدَّكُمۡ
     translation: hinder you
     transliteration: yaṣuddakum
   14:
@@ -69,15 +69,15 @@ word_by_word:
     translation: used
     transliteration: kāna
   16:
-    arabic: يَعۡبُدُ
+    arabic: يَعۡبُدُ ءَ
     translation: (to) worship
     transliteration: yaʿbudu
   17:
-    arabic: اٰبَآؤُكُمۡ​ ۚ
+    arabic: ابَآؤُكُمۡ
     translation: your forefathers
     transliteration: ābāukum
   18:
-    arabic: وَقَالُوۡا
+    arabic: وَقَالُواْ
     translation: And they say
     transliteration: waqālū
   19:
@@ -85,19 +85,19 @@ word_by_word:
     translation: Not
     transliteration: mā
   20:
-    arabic: هٰذَاۤ
+    arabic: هَٰذَآ
     translation: (is) this
     transliteration: hādhā
   21:
-    arabic: اِلَّاۤ
+    arabic: إِلَّآ
     translation: except
     transliteration: illā
   22:
-    arabic: اِفۡكٌ
+    arabic: إِفۡكٞ
     translation: a lie
     transliteration: if'kun
   23:
-    arabic: مُّفۡتَـرً ىؕ
+    arabic: مُّفۡتَرٗىۚ
     translation: invented
     transliteration: muf'taran
   24:
@@ -105,11 +105,11 @@ word_by_word:
     translation: And said
     transliteration: waqāla
   25:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   26:
-    arabic: كَفَرُوۡا
+    arabic: كَفَرُواْ
     translation: disbelieved
     transliteration: kafarū
   27:
@@ -121,27 +121,27 @@ word_by_word:
     translation: when
     transliteration: lammā
   29:
-    arabic: جَآءَهُمۡ ۙ
+    arabic: جَآءَهُمۡ
     translation: it came to them
     transliteration: jāahum
   30:
-    arabic: اِنۡ
+    arabic: إِنۡ
     translation: Not
     transliteration: in
   31:
-    arabic: هٰذَاۤ
+    arabic: هَٰذَآ
     translation: (is) this
     transliteration: hādhā
   32:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   33:
-    arabic: سِحۡرٌ
+    arabic: سِحۡرٞ
     translation: a magic
     transliteration: siḥ'run
   34:
-    arabic: مُّبِيۡنٌ‏
+    arabic: مُّبِينٞ
     translation: obvious
     transliteration: mubīnun
 ---

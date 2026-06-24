@@ -1,5 +1,5 @@
 ---
-arabic_ayat: وَلَا تُخۡزِنِىۡ يَوۡمَ يُبۡعَثُوۡنَۙ‏
+arabic_ayat: وَلَا تُخۡزِنِي يَوۡمَ يُبۡعَثُونَ
 sentence_translation: And do not disgrace me on the Day all will be resurrected—
 word_by_word:
   1:
@@ -7,7 +7,7 @@ word_by_word:
     translation: And (do) not
     transliteration: walā
   2:
-    arabic: تُخۡزِنِىۡ
+    arabic: تُخۡزِنِي
     translation: disgrace me
     transliteration: tukh'zinī
   3:
@@ -15,7 +15,7 @@ word_by_word:
     translation: (on the) Day
     transliteration: yawma
   4:
-    arabic: يُبۡعَثُوۡنَۙ‏
+    arabic: يُبۡعَثُونَ
     translation: they are resurrected
     transliteration: yub'ʿathūna
 ---

@@ -1,6 +1,5 @@
 ---
-arabic_ayat: "قُلۡ اَفَغَيۡرَ اللّٰهِ تَاۡمُرُوۡٓنِّىۡۤ اَعۡبُدُ اَيُّهَا الۡجٰـهِلُوۡنَ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: قُلۡ أَفَغَيۡرَ ٱللَّهِ تَأۡمُرُوٓنِّيٓ أَعۡبُدُ أَيُّهَا ٱلۡجَٰهِلُونَ
 sentence_translation: Say, ˹O Prophet,˺ “Are you urging me to worship ˹anyone˺ other
   than Allah, O  ignorant ones?”
 word_by_word:
@@ -9,27 +8,27 @@ word_by_word:
     translation: Say
     transliteration: qul
   2:
-    arabic: اَفَغَيۡرَ
+    arabic: أَفَغَيۡرَ
     translation: Is (it) other than
     transliteration: afaghayra
   3:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   4:
-    arabic: تَاۡمُرُوۡٓنِّىۡۤ
+    arabic: تَأۡمُرُوٓنِّيٓ
     translation: you order me
     transliteration: tamurūnnī
   5:
-    arabic: اَعۡبُدُ
+    arabic: أَعۡبُدُ
     translation: (to) worship
     transliteration: aʿbudu
   6:
-    arabic: اَيُّهَا
+    arabic: أَيُّهَا
     translation: O
     transliteration: ayyuhā
   7:
-    arabic: "الۡجٰـهِلُوۡنَ‏ \uFEFF\uFEFF"
+    arabic: ٱلۡجَٰهِلُونَ
     translation: ignorant ones
     transliteration: l-jāhilūna
 ---

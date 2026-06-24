@@ -1,11 +1,10 @@
 ---
-arabic_ayat: "فَعَتَوۡا عَنۡ اَمۡرِ رَبِّهِمۡ فَاَخَذَتۡهُمُ الصّٰعِقَةُ وَ هُمۡ يَنۡظُرُوۡنَ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: فَعَتَوۡاْ عَنۡ أَمۡرِ رَبِّهِمۡ فَأَخَذَتۡهُمُ ٱلصَّٰعِقَةُ وَهُمۡ يَنظُرُونَ
 sentence_translation: Still they persisted in defying the commands of their Lord,
   so they were overtaken by a ˹mighty˺ blast while they were looking on.
 word_by_word:
   1:
-    arabic: فَعَتَوۡا
+    arabic: فَعَتَوۡاْ
     translation: But they rebelled
     transliteration: faʿataw
   2:
@@ -13,7 +12,7 @@ word_by_word:
     translation: against
     transliteration: ʿan
   3:
-    arabic: اَمۡرِ
+    arabic: أَمۡرِ
     translation: (the) Command
     transliteration: amri
   4:
@@ -21,11 +20,11 @@ word_by_word:
     translation: (of) their Lord
     transliteration: rabbihim
   5:
-    arabic: فَاَخَذَتۡهُمُ
+    arabic: فَأَخَذَتۡهُمُ
     translation: so seized them
     transliteration: fa-akhadhathumu
   6:
-    arabic: الصّٰعِقَةُ
+    arabic: ٱلصَّٰعِقَةُ
     translation: the thunderbolt
     transliteration: l-ṣāʿiqatu
   7:
@@ -33,7 +32,7 @@ word_by_word:
     translation: while they
     transliteration: wahum
   8:
-    arabic: يَنۡظُرُوۡنَ‏
+    arabic: يَنظُرُونَ
     translation: were looking
     transliteration: yanẓurūna
 ---

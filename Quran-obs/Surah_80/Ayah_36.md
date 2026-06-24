@@ -1,13 +1,13 @@
 ---
-arabic_ayat: وَصَاحِبَتِهٖ وَبَنِيۡهِؕ‏
+arabic_ayat: وَصَٰحِبَتِهِۦ وَبَنِيهِ
 sentence_translation: and ˹even˺ their spouse and children.
 word_by_word:
   1:
-    arabic: وَصَاحِبَتِهٖ
+    arabic: وَصَٰحِبَتِهِۦ
     translation: And his wife
     transliteration: waṣāḥibatihi
   2:
-    arabic: وَبَنِيۡهِؕ‏
+    arabic: وَبَنِيهِ
     translation: and his children
     transliteration: wabanīhi
 ---

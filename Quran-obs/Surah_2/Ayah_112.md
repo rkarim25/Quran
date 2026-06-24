@@ -1,12 +1,12 @@
 ---
-arabic_ayat: بَلٰى مَنۡ اَسۡلَمَ وَجۡهَهٗ لِلّٰهِ وَهُوَ مُحۡسِنٌ فَلَهٗۤ اَجۡرُهٗ
-  عِنۡدَ رَبِّهٖ وَلَا خَوۡفٌ عَلَيۡهِمۡ وَلَا هُمۡ يَحۡزَنُوۡنَ‏
+arabic_ayat: بَلَىٰۚ مَنۡ أَسۡلَمَ وَجۡهَهُۥ لِلَّهِ وَهُوَ مُحۡسِنٞ فَلَهُۥٓ أَجۡرُهُۥ
+  عِندَ رَبِّهِۦ وَلَا خَوۡفٌ عَلَيۡهِمۡ وَلَا هُمۡ يَحۡزَنُونَ
 sentence_translation: But no! Whoever submits themselves to Allah and does good will
   have their reward with their Lord. And there will be no fear for them, nor will
   they grieve.
 word_by_word:
   1:
-    arabic: بَلٰى
+    arabic: بَلَىٰۚ
     translation: 'Yes'
     transliteration: balā
   2:
@@ -14,15 +14,15 @@ word_by_word:
     translation: whoever
     transliteration: man
   3:
-    arabic: اَسۡلَمَ
+    arabic: أَسۡلَمَ
     translation: submits
     transliteration: aslama
   4:
-    arabic: وَجۡهَهٗ
+    arabic: وَجۡهَهُۥ
     translation: his face
     transliteration: wajhahu
   5:
-    arabic: لِلّٰهِ
+    arabic: لِلَّهِ
     translation: to Allah
     transliteration: lillahi
   6:
@@ -30,23 +30,23 @@ word_by_word:
     translation: and he
     transliteration: wahuwa
   7:
-    arabic: مُحۡسِنٌ
+    arabic: مُحۡسِنٞ
     translation: (is) a good-doer
     transliteration: muḥ'sinun
   8:
-    arabic: فَلَهٗۤ
+    arabic: فَلَهُۥٓ
     translation: so for him
     transliteration: falahu
   9:
-    arabic: اَجۡرُهٗ
+    arabic: أَجۡرُهُۥ
     translation: (is) his reward
     transliteration: ajruhu
   10:
-    arabic: عِنۡدَ
+    arabic: عِندَ
     translation: with
     transliteration: ʿinda
   11:
-    arabic: رَبِّهٖ
+    arabic: رَبِّهِۦ
     translation: his Lord
     transliteration: rabbihi
   12:
@@ -70,7 +70,7 @@ word_by_word:
     translation: they
     transliteration: hum
   17:
-    arabic: يَحۡزَنُوۡنَ‏
+    arabic: يَحۡزَنُونَ
     translation: (will) grieve
     transliteration: yaḥzanūna
 ---

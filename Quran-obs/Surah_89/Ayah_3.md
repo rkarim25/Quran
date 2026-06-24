@@ -1,13 +1,13 @@
 ---
-arabic_ayat: وَّالشَّفۡعِ وَالۡوَتۡرِۙ‏
+arabic_ayat: وَٱلشَّفۡعِ وَٱلۡوَتۡرِ
 sentence_translation: and the even and the odd,
 word_by_word:
   1:
-    arabic: وَّالشَّفۡعِ
+    arabic: وَٱلشَّفۡعِ
     translation: And the even
     transliteration: wal-shafʿi
   2:
-    arabic: وَالۡوَتۡرِۙ‏
+    arabic: وَٱلۡوَتۡرِ
     translation: and the odd
     transliteration: wal-watri
 ---

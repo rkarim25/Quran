@@ -1,18 +1,18 @@
 ---
-arabic_ayat: اِقۡرَاۡ كِتٰبَك َؕ كَفٰى بِنَفۡسِكَ الۡيَوۡمَ عَلَيۡكَ حَسِيۡبًا ؕ‏
+arabic_ayat: ٱقۡرَأۡ كِتَٰبَكَ كَفَىٰ بِنَفۡسِكَ ٱلۡيَوۡمَ عَلَيۡكَ حَسِيبٗا
 sentence_translation: ˹And it will be said,˺ “Read your record. You ˹alone˺ are sufficient
   this Day to take account of yourself.”
 word_by_word:
   1:
-    arabic: اِقۡرَاۡ
+    arabic: ٱقۡرَأۡ
     translation: Read
     transliteration: iq'ra
   2:
-    arabic: كِتٰبَك َؕ
+    arabic: كِتَٰبَكَ
     translation: your record
     transliteration: kitābaka
   3:
-    arabic: كَفٰى
+    arabic: كَفَىٰ
     translation: Sufficient
     transliteration: kafā
   4:
@@ -20,7 +20,7 @@ word_by_word:
     translation: (is) yourself
     transliteration: binafsika
   5:
-    arabic: الۡيَوۡمَ
+    arabic: ٱلۡيَوۡمَ
     translation: today
     transliteration: l-yawma
   6:
@@ -28,7 +28,7 @@ word_by_word:
     translation: against you
     transliteration: ʿalayka
   7:
-    arabic: حَسِيۡبًا ؕ‏
+    arabic: حَسِيبٗا
     translation: (as) accountant
     transliteration: ḥasīban
 ---

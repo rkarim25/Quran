@@ -1,19 +1,19 @@
 ---
-arabic_ayat: اَوَعَجِبۡتُمۡ اَنۡ جَآءَكُمۡ ذِكۡرٌ مِّنۡ رَّبِّكُمۡ عَلٰى رَجُلٍ مِّنۡكُمۡ
-  لِيُنۡذِرَكُمۡ​ ؕ وَاذۡكُرُوۡۤا اِذۡ جَعَلَـكُمۡ ۚ خُلَفَآءَ مِنۡۢ بَعۡدِ قَوۡمِ
-  نُوۡحٍ وَّزَادَكُمۡ فِى الۡخَـلۡقِ بَصۜۡطَةً​​ فَاذۡكُرُوۡۤا اٰ لَۤاءَ اللّٰهِ لَعَلَّكُمۡ
-  تُفۡلِحُوۡنَ‏
+arabic_ayat: أَوَعَجِبۡتُمۡ أَن جَآءَكُمۡ ذِكۡرٞ مِّن رَّبِّكُمۡ عَلَىٰ رَجُلٖ مِّنكُمۡ
+  لِيُنذِرَكُمۡۚ وَٱذۡكُرُوٓاْ إِذۡ جَعَلَكُمۡ خُلَفَآءَ مِنۢ بَعۡدِ قَوۡمِ نُوحٖ
+  وَزَادَكُمۡ فِي ٱلۡخَلۡقِ بَصۜۡطَةٗۖ فَٱذۡكُرُوٓاْ ءَالَآءَ ٱللَّهِ لَعَلَّكُمۡ
+  تُفۡلِحُونَ
 sentence_translation: Do you find it astonishing that a reminder should come to you
   from your Lord through one of your own so he may warn you? Remember that He made
   you successors after the people of Noah and increased you greatly in stature. So
   remember Allah’s favours, so you may be successful.”
 word_by_word:
   1:
-    arabic: اَوَعَجِبۡتُمۡ
+    arabic: أَوَعَجِبۡتُمۡ
     translation: Do you wonder
     transliteration: awaʿajib'tum
   2:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that
     transliteration: an
   3:
@@ -21,11 +21,11 @@ word_by_word:
     translation: has come to you
     transliteration: jāakum
   4:
-    arabic: ذِكۡرٌ
+    arabic: ذِكۡرٞ
     translation: a reminder
     transliteration: dhik'run
   5:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: from
     transliteration: min
   6:
@@ -33,31 +33,31 @@ word_by_word:
     translation: your Lord
     transliteration: rabbikum
   7:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: 'on'
     transliteration: ʿalā
   8:
-    arabic: رَجُلٍ
+    arabic: رَجُلٖ
     translation: a man
     transliteration: rajulin
   9:
-    arabic: مِّنۡكُمۡ
+    arabic: مِّنكُمۡ
     translation: among you
     transliteration: minkum
   10:
-    arabic: لِيُنۡذِرَكُمۡ​ ؕ
+    arabic: لِيُنذِرَكُمۡۚ
     translation: that he may warn you
     transliteration: liyundhirakum
   11:
-    arabic: وَاذۡكُرُوۡۤا
+    arabic: وَٱذۡكُرُوٓاْ
     translation: And remember
     transliteration: wa-udh'kurū
   12:
-    arabic: اِذۡ
+    arabic: إِذۡ
     translation: when
     transliteration: idh
   13:
-    arabic: جَعَلَـكُمۡ ۚ 
+    arabic: جَعَلَكُمۡ
     translation: He made you
     transliteration: jaʿalakum
   14:
@@ -65,7 +65,7 @@ word_by_word:
     translation: successors
     transliteration: khulafāa
   15:
-    arabic: مِنۡۢ
+    arabic: مِنۢ
     translation: from
     transliteration: min
   16:
@@ -77,35 +77,35 @@ word_by_word:
     translation: (the) people
     transliteration: qawmi
   18:
-    arabic: نُوۡحٍ
+    arabic: نُوحٖ
     translation: (of) Nuh
     transliteration: nūḥin
   19:
-    arabic: وَّزَادَكُمۡ
+    arabic: وَزَادَكُمۡ
     translation: and increased you
     transliteration: wazādakum
   20:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   21:
-    arabic: الۡخَـلۡقِ
+    arabic: ٱلۡخَلۡقِ
     translation: the stature
     transliteration: l-khalqi
   22:
-    arabic: بَصۜۡطَةً​​
+    arabic: بَصۜۡطَةٗۖ
     translation: extensively
     transliteration: baṣ'ṭatan
   23:
-    arabic: فَاذۡكُرُوۡۤا
+    arabic: فَٱذۡكُرُوٓاْ ءَ
     translation: So remember
     transliteration: fa-udh'kurū
   24:
-    arabic: اٰ لَۤاءَ
+    arabic: الَآءَ
     translation: (the) Bounties
     transliteration: ālāa
   25:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (of) Allah
     transliteration: l-lahi
   26:
@@ -113,7 +113,7 @@ word_by_word:
     translation: so that you may
     transliteration: laʿallakum
   27:
-    arabic: تُفۡلِحُوۡنَ‏
+    arabic: تُفۡلِحُونَ
     translation: succeed
     transliteration: tuf'liḥūna
 ---

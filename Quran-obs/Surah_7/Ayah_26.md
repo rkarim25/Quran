@@ -1,17 +1,17 @@
 ---
-arabic_ayat: يٰبَنِىۡۤ اٰدَمَ قَدۡ اَنۡزَلۡنَا عَلَيۡكُمۡ لِبَاسًا يُّوَارِىۡ سَوۡاٰتِكُمۡ
-  وَرِيۡشًا​ ؕ وَلِبَاسُ التَّقۡوٰى ۙ ذٰ لِكَ خَيۡرٌ​ ؕ ذٰ لِكَ مِنۡ اٰيٰتِ اللّٰهِ
-  لَعَلَّهُمۡ يَذَّكَّرُوۡنَ‏
+arabic_ayat: يَٰبَنِيٓ ءَادَمَ قَدۡ أَنزَلۡنَا عَلَيۡكُمۡ لِبَاسٗا يُوَٰرِي سَوۡءَٰتِكُمۡ
+  وَرِيشٗاۖ وَلِبَاسُ ٱلتَّقۡوَىٰ ذَٰلِكَ خَيۡرٞۚ ذَٰلِكَ مِنۡ ءَايَٰتِ ٱللَّهِ لَعَلَّهُمۡ
+  يَذَّكَّرُونَ
 sentence_translation: O children of Adam! We have provided for you clothing to cover
   your nakedness and as an adornment. However, the best clothing is righteousness.
   This is one of Allah’s bounties, so perhaps you will be mindful.
 word_by_word:
   1:
-    arabic: يٰبَنِىۡۤ
+    arabic: يَٰبَنِيٓ ءَ
     translation: O Children
     transliteration: yābanī
   2:
-    arabic: اٰدَمَ
+    arabic: ادَمَ
     translation: (of) Adam
     transliteration: ādama
   3:
@@ -19,7 +19,7 @@ word_by_word:
     translation: Verily
     transliteration: qad
   4:
-    arabic: اَنۡزَلۡنَا
+    arabic: أَنزَلۡنَا
     translation: We have sent down
     transliteration: anzalnā
   5:
@@ -27,19 +27,19 @@ word_by_word:
     translation: to you
     transliteration: ʿalaykum
   6:
-    arabic: لِبَاسًا
+    arabic: لِبَاسٗا
     translation: clothing
     transliteration: libāsan
   7:
-    arabic: يُّوَارِىۡ
+    arabic: يُوَٰرِي
     translation: it covers
     transliteration: yuwārī
   8:
-    arabic: سَوۡاٰتِكُمۡ
+    arabic: سَوۡءَٰتِكُمۡ
     translation: your shame
     transliteration: sawātikum
   9:
-    arabic: وَرِيۡشًا​ ؕ
+    arabic: وَرِيشٗاۖ
     translation: and (as) an adornment
     transliteration: warīshan
   10:
@@ -47,31 +47,31 @@ word_by_word:
     translation: But the clothing
     transliteration: walibāsu
   11:
-    arabic: التَّقۡوٰى ۙ
+    arabic: ٱلتَّقۡوَىٰ
     translation: '(of) [the] righteousness '
     transliteration: l-taqwā
   12:
-    arabic: ذٰ لِكَ
+    arabic: ذَٰلِكَ
     translation: that
     transliteration: dhālika
   13:
-    arabic: خَيۡرٌ​ ؕ
+    arabic: خَيۡرٞۚ
     translation: (is) best
     transliteration: khayrun
   14:
-    arabic: ذٰ لِكَ
+    arabic: ذَٰلِكَ
     translation: That
     transliteration: dhālika
   15:
-    arabic: مِنۡ
+    arabic: مِنۡ ءَ
     translation: (is) from
     transliteration: min
   16:
-    arabic: اٰيٰتِ
+    arabic: ايَٰتِ
     translation: (the) Signs
     transliteration: āyāti
   17:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (of) Allah
     transliteration: l-lahi
   18:
@@ -79,7 +79,7 @@ word_by_word:
     translation: so that they may
     transliteration: laʿallahum
   19:
-    arabic: يَذَّكَّرُوۡنَ‏
+    arabic: يَذَّكَّرُونَ
     translation: remember
     transliteration: yadhakkarūna
 ---

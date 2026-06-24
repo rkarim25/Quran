@@ -1,6 +1,6 @@
 ---
-arabic_ayat: قَالَ اَمَّا مَنۡ ظَلَمَ فَسَوۡفَ نُعَذِّبُهٗ ثُمَّ يُرَدُّ اِلٰى رَبِّهٖ
-  فَيُعَذِّبُهٗ عَذَابًا نُّكۡرًا‏
+arabic_ayat: قَالَ أَمَّا مَن ظَلَمَ فَسَوۡفَ نُعَذِّبُهُۥ ثُمَّ يُرَدُّ إِلَىٰ رَبِّهِۦ
+  فَيُعَذِّبُهُۥ عَذَابٗا نُّكۡرٗا
 sentence_translation: He responded, “Whoever does wrong will be punished by us, then
   will be returned to their Lord, Who will punish them with a horrible torment.
 word_by_word:
@@ -9,11 +9,11 @@ word_by_word:
     translation: He said
     transliteration: qāla
   2:
-    arabic: اَمَّا
+    arabic: أَمَّا
     translation: As for
     transliteration: ammā
   3:
-    arabic: مَنۡ
+    arabic: مَن
     translation: (one) who
     transliteration: man
   4:
@@ -25,7 +25,7 @@ word_by_word:
     translation: then soon
     transliteration: fasawfa
   6:
-    arabic: نُعَذِّبُهٗ
+    arabic: نُعَذِّبُهُۥ
     translation: we will punish him
     transliteration: nuʿadhibuhu
   7:
@@ -37,23 +37,23 @@ word_by_word:
     translation: he will be returned
     transliteration: yuraddu
   9:
-    arabic: اِلٰى
+    arabic: إِلَىٰ
     translation: to
     transliteration: ilā
   10:
-    arabic: رَبِّهٖ
+    arabic: رَبِّهِۦ
     translation: his Lord
     transliteration: rabbihi
   11:
-    arabic: فَيُعَذِّبُهٗ
+    arabic: فَيُعَذِّبُهُۥ
     translation: and He will punish him
     transliteration: fayuʿadhibuhu
   12:
-    arabic: عَذَابًا
+    arabic: عَذَابٗا
     translation: (with) a punishment
     transliteration: ʿadhāban
   13:
-    arabic: نُّكۡرًا‏
+    arabic: نُّكۡرٗا
     translation: terrible
     transliteration: nuk'ran
 ---

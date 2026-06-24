@@ -1,15 +1,15 @@
 ---
-arabic_ayat: وَجَعَلُوۡا لَهٗ مِنۡ عِبَادِهٖ جُزۡءًا​ ؕ اِنَّ الۡاِنۡسَانَ لَـكَفُوۡرٌ
-  مُّبِيۡنٌ ؕ‏
+arabic_ayat: وَجَعَلُواْ لَهُۥ مِنۡ عِبَادِهِۦ جُزۡءًاۚ إِنَّ ٱلۡإِنسَٰنَ لَكَفُورٞ
+  مُّبِينٌ
 sentence_translation: Still the pagans have made some of His creation out to be a
   part of Him. Indeed, humankind is clearly ungrateful.
 word_by_word:
   1:
-    arabic: وَجَعَلُوۡا
+    arabic: وَجَعَلُواْ
     translation: But they attribute
     transliteration: wajaʿalū
   2:
-    arabic: لَهٗ
+    arabic: لَهُۥ
     translation: to Him
     transliteration: lahu
   3:
@@ -17,27 +17,27 @@ word_by_word:
     translation: from
     transliteration: min
   4:
-    arabic: عِبَادِهٖ
+    arabic: عِبَادِهِۦ
     translation: His slaves
     transliteration: ʿibādihi
   5:
-    arabic: جُزۡءًا​ ؕ
+    arabic: جُزۡءًاۚ
     translation: a portion
     transliteration: juz'an
   6:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   7:
-    arabic: الۡاِنۡسَانَ
+    arabic: ٱلۡإِنسَٰنَ
     translation: man
     transliteration: l-insāna
   8:
-    arabic: لَـكَفُوۡرٌ
+    arabic: لَكَفُورٞ
     translation: surely (is) clearly ungrateful
     transliteration: lakafūrun
   9:
-    arabic: مُّبِيۡنٌ ؕ‏
+    arabic: مُّبِينٌ
     translation: surely (is) clearly ungrateful
     transliteration: mubīnun
 ---

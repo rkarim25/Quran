@@ -1,14 +1,14 @@
 ---
-arabic_ayat: اِلَّا رَحۡمَةً مِّنَّا وَمَتَاعًا اِلٰى حِيۡنٍ‏
+arabic_ayat: إِلَّا رَحۡمَةٗ مِّنَّا وَمَتَٰعًا إِلَىٰ حِينٖ
 sentence_translation: except by mercy from Us, allowing them enjoyment for a ˹little˺
   while.
 word_by_word:
   1:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: Except
     transliteration: illā
   2:
-    arabic: رَحۡمَةً
+    arabic: رَحۡمَةٗ
     translation: (by) Mercy
     transliteration: raḥmatan
   3:
@@ -16,15 +16,15 @@ word_by_word:
     translation: from Us
     transliteration: minnā
   4:
-    arabic: وَمَتَاعًا
+    arabic: وَمَتَٰعًا
     translation: and provision
     transliteration: wamatāʿan
   5:
-    arabic: اِلٰى
+    arabic: إِلَىٰ
     translation: for
     transliteration: ilā
   6:
-    arabic: حِيۡنٍ‏
+    arabic: حِينٖ
     translation: a time
     transliteration: ḥīnin
 ---

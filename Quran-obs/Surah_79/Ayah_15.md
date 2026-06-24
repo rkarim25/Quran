@@ -1,5 +1,5 @@
 ---
-arabic_ayat: هَلۡ اَتٰٮكَ حَدِيۡثُ مُوۡسٰى​ۘ‏
+arabic_ayat: هَلۡ أَتَىٰكَ حَدِيثُ مُوسَىٰٓ
 sentence_translation: Has the story of Moses reached you ˹O Prophet˺?
 word_by_word:
   1:
@@ -7,15 +7,15 @@ word_by_word:
     translation: Has
     transliteration: hal
   2:
-    arabic: اَتٰٮكَ
+    arabic: أَتَىٰكَ
     translation: (there) come to you
     transliteration: atāka
   3:
-    arabic: حَدِيۡثُ
+    arabic: حَدِيثُ
     translation: (the) story
     transliteration: ḥadīthu
   4:
-    arabic: مُوۡسٰى​ۘ‏
+    arabic: مُوسَىٰٓ
     translation: (of) Musa
     transliteration: mūsā
 ---

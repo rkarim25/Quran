@@ -1,9 +1,9 @@
 ---
-arabic_ayat: مِنۡ اَجۡلِ ذٰ لِكَ​ ۛ ۚ كَتَبۡنَا عَلٰى بَنِىۡۤ اِسۡرَآءِيۡلَ اَنَّهٗ
-  مَنۡ قَتَلَ نَفۡسًۢا بِغَيۡرِ نَفۡسٍ اَوۡ فَسَادٍ فِى الۡاَرۡضِ فَكَاَنَّمَا قَتَلَ
-  النَّاسَ جَمِيۡعًا ؕ وَمَنۡ اَحۡيَاهَا فَكَاَنَّمَاۤ اَحۡيَا النَّاسَ جَمِيۡعًا
-  ​ؕ وَلَـقَدۡ جَآءَتۡهُمۡ رُسُلُنَا بِالۡبَيِّنٰتِ ثُمَّ اِنَّ كَثِيۡرًا مِّنۡهُمۡ
-  بَعۡدَ ذٰ لِكَ فِى الۡاَرۡضِ لَمُسۡرِفُوۡنَ‏
+arabic_ayat: مِنۡ أَجۡلِ ذَٰلِكَ كَتَبۡنَا عَلَىٰ بَنِيٓ إِسۡرَٰٓءِيلَ أَنَّهُۥ مَن
+  قَتَلَ نَفۡسَۢا بِغَيۡرِ نَفۡسٍ أَوۡ فَسَادٖ فِي ٱلۡأَرۡضِ فَكَأَنَّمَا قَتَلَ ٱلنَّاسَ
+  جَمِيعٗا وَمَنۡ أَحۡيَاهَا فَكَأَنَّمَآ أَحۡيَا ٱلنَّاسَ جَمِيعٗاۚ وَلَقَدۡ جَآءَتۡهُمۡ
+  رُسُلُنَا بِٱلۡبَيِّنَٰتِ ثُمَّ إِنَّ كَثِيرٗا مِّنۡهُم بَعۡدَ ذَٰلِكَ فِي ٱلۡأَرۡضِ
+  لَمُسۡرِفُونَ
 sentence_translation: That is why We ordained for the Children of Israel that whoever
   takes a life—unless as a punishment for murder or mischief in the land—it will be
   as if they killed all of humanity; and whoever saves a life, it will be as if they
@@ -15,11 +15,11 @@ word_by_word:
     translation: From
     transliteration: min
   2:
-    arabic: اَجۡلِ
+    arabic: أَجۡلِ
     translation: time
     transliteration: ajli
   3:
-    arabic: ذٰ لِكَ​ ۛ ۚ
+    arabic: ذَٰلِكَ
     translation: that
     transliteration: dhālika
   4:
@@ -27,23 +27,23 @@ word_by_word:
     translation: We ordained
     transliteration: katabnā
   5:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: 'on'
     transliteration: ʿalā
   6:
-    arabic: بَنِىۡۤ
+    arabic: بَنِيٓ
     translation: (the) Children
     transliteration: banī
   7:
-    arabic: اِسۡرَآءِيۡلَ
+    arabic: إِسۡرَٰٓءِيلَ
     translation: (of) Israel
     transliteration: is'rāīla
   8:
-    arabic: اَنَّهٗ
+    arabic: أَنَّهُۥ
     translation: that he
     transliteration: annahu
   9:
-    arabic: مَنۡ
+    arabic: مَن
     translation: who
     transliteration: man
   10:
@@ -51,7 +51,7 @@ word_by_word:
     translation: kills
     transliteration: qatala
   11:
-    arabic: نَفۡسًۢا
+    arabic: نَفۡسَۢا
     translation: a soul
     transliteration: nafsan
   12:
@@ -63,23 +63,23 @@ word_by_word:
     translation: (for) a soul
     transliteration: nafsin
   14:
-    arabic: اَوۡ
+    arabic: أَوۡ
     translation: or
     transliteration: aw
   15:
-    arabic: فَسَادٍ
+    arabic: فَسَادٖ
     translation: (for) spreading corruption
     transliteration: fasādin
   16:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   17:
-    arabic: الۡاَرۡضِ
+    arabic: ٱلۡأَرۡضِ
     translation: the earth
     transliteration: l-arḍi
   18:
-    arabic: فَكَاَنَّمَا
+    arabic: فَكَأَنَّمَا
     translation: then (it) is as if
     transliteration: faka-annamā
   19:
@@ -87,11 +87,11 @@ word_by_word:
     translation: he has killed
     transliteration: qatala
   20:
-    arabic: النَّاسَ
+    arabic: ٱلنَّاسَ
     translation: mankind
     transliteration: l-nāsa
   21:
-    arabic: جَمِيۡعًا ؕ
+    arabic: جَمِيعٗا
     translation: all
     transliteration: jamīʿan
   22:
@@ -99,27 +99,27 @@ word_by_word:
     translation: and whoever
     transliteration: waman
   23:
-    arabic: اَحۡيَاهَا
+    arabic: أَحۡيَاهَا
     translation: saves it
     transliteration: aḥyāhā
   24:
-    arabic: فَكَاَنَّمَاۤ
+    arabic: فَكَأَنَّمَآ
     translation: then (it) is as if
     transliteration: faka-annamā
   25:
-    arabic: اَحۡيَا
+    arabic: أَحۡيَا
     translation: he has saved
     transliteration: aḥyā
   26:
-    arabic: النَّاسَ
+    arabic: ٱلنَّاسَ
     translation: mankind
     transliteration: l-nāsa
   27:
-    arabic: جَمِيۡعًا ​ؕ
+    arabic: جَمِيعٗاۚ
     translation: all
     transliteration: jamīʿan
   28:
-    arabic: وَلَـقَدۡ
+    arabic: وَلَقَدۡ
     translation: And surely
     transliteration: walaqad
   29:
@@ -131,7 +131,7 @@ word_by_word:
     translation: Our Messengers
     transliteration: rusulunā
   31:
-    arabic: بِالۡبَيِّنٰتِ
+    arabic: بِٱلۡبَيِّنَٰتِ
     translation: with clear Signs
     transliteration: bil-bayināti
   32:
@@ -139,15 +139,15 @@ word_by_word:
     translation: yet
     transliteration: thumma
   33:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: indeed
     transliteration: inna
   34:
-    arabic: كَثِيۡرًا
+    arabic: كَثِيرٗا
     translation: many
     transliteration: kathīran
   35:
-    arabic: مِّنۡهُمۡ
+    arabic: مِّنۡهُم
     translation: of them
     transliteration: min'hum
   36:
@@ -155,19 +155,19 @@ word_by_word:
     translation: after
     transliteration: baʿda
   37:
-    arabic: ذٰ لِكَ
+    arabic: ذَٰلِكَ
     translation: that
     transliteration: dhālika
   38:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   39:
-    arabic: الۡاَرۡضِ
+    arabic: ٱلۡأَرۡضِ
     translation: the earth
     transliteration: l-arḍi
   40:
-    arabic: لَمُسۡرِفُوۡنَ‏
+    arabic: لَمُسۡرِفُونَ
     translation: (are) surely those who commit excesses
     transliteration: lamus'rifūna
 ---

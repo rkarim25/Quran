@@ -1,49 +1,49 @@
 ---
-arabic_ayat: فَمَاۤ اٰمَنَ لِمُوۡسٰٓى اِلَّا ذُرِّيَّةٌ مِّنۡ قَوۡمِهٖ عَلٰى خَوۡفٍ
-  مِّنۡ فِرۡعَوۡنَ وَمَلَا۟ ٮِٕهِمۡ اَنۡ يَّفۡتِنَهُمۡ​ ؕ وَاِنَّ فِرۡعَوۡنَ لَعَالٍ
-  فِى الۡاَرۡضِ​ ۚ وَاِنَّهٗ لَمِنَ الۡمُسۡرِفِيۡنَ‏
+arabic_ayat: فَمَآ ءَامَنَ لِمُوسَىٰٓ إِلَّا ذُرِّيَّةٞ مِّن قَوۡمِهِۦ عَلَىٰ خَوۡفٖ
+  مِّن فِرۡعَوۡنَ وَمَلَإِيْهِمۡ أَن يَفۡتِنَهُمۡۚ وَإِنَّ فِرۡعَوۡنَ لَعَالٖ فِي
+  ٱلۡأَرۡضِ وَإِنَّهُۥ لَمِنَ ٱلۡمُسۡرِفِينَ
 sentence_translation: But no one believed in Moses except a few youths of his people,
   while fearing that Pharaoh and their own chiefs might persecute them. And certainly
   Pharaoh was a tyrant in the land, and he was truly a transgressor.
 word_by_word:
   1:
-    arabic: فَمَاۤ
+    arabic: فَمَآ ءَ
     translation: But none
     transliteration: famā
   2:
-    arabic: اٰمَنَ
+    arabic: امَنَ
     translation: believed
     transliteration: āmana
   3:
-    arabic: لِمُوۡسٰٓى
+    arabic: لِمُوسَىٰٓ
     translation: Musa
     transliteration: limūsā
   4:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   5:
-    arabic: ذُرِّيَّةٌ
+    arabic: ذُرِّيَّةٞ
     translation: (the) offspring
     transliteration: dhurriyyatun
   6:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: among
     transliteration: min
   7:
-    arabic: قَوۡمِهٖ
+    arabic: قَوۡمِهِۦ
     translation: his people
     transliteration: qawmihi
   8:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: for
     transliteration: ʿalā
   9:
-    arabic: خَوۡفٍ
+    arabic: خَوۡفٖ
     translation: fear
     transliteration: khawfin
   10:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: of
     transliteration: min
   11:
@@ -51,19 +51,19 @@ word_by_word:
     translation: Firaun
     transliteration: fir'ʿawna
   12:
-    arabic: وَمَلَا۟ ٮِٕهِمۡ
+    arabic: وَمَلَإِيْهِمۡ
     translation: and their chiefs
     transliteration: wamala-ihim
   13:
-    arabic: اَنۡ
+    arabic: أَن
     translation: lest
     transliteration: an
   14:
-    arabic: يَّفۡتِنَهُمۡ​ ؕ
+    arabic: يَفۡتِنَهُمۡۚ
     translation: they persecute them
     transliteration: yaftinahum
   15:
-    arabic: وَاِنَّ
+    arabic: وَإِنَّ
     translation: And indeed
     transliteration: wa-inna
   16:
@@ -71,19 +71,19 @@ word_by_word:
     translation: Firaun
     transliteration: fir'ʿawna
   17:
-    arabic: لَعَالٍ
+    arabic: لَعَالٖ
     translation: (was) a tyrant
     transliteration: laʿālin
   18:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   19:
-    arabic: الۡاَرۡضِ​ ۚ
+    arabic: ٱلۡأَرۡضِ
     translation: the earth
     transliteration: l-arḍi
   20:
-    arabic: وَاِنَّهٗ
+    arabic: وَإِنَّهُۥ
     translation: and indeed, he
     transliteration: wa-innahu
   21:
@@ -91,7 +91,7 @@ word_by_word:
     translation: (was) of
     transliteration: lamina
   22:
-    arabic: الۡمُسۡرِفِيۡنَ‏
+    arabic: ٱلۡمُسۡرِفِينَ
     translation: the ones who commit excesses
     transliteration: l-mus'rifīna
 ---

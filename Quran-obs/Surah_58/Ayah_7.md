@@ -1,9 +1,9 @@
 ---
-arabic_ayat: اَلَمۡ تَرَ اَنَّ اللّٰهَ يَعۡلَمُ مَا فِى السَّمٰوٰتِ وَمَا فِى الۡاَرۡضِ​ؕ
-  مَا يَكُوۡنُ مِنۡ نَّجۡوٰى ثَلٰثَةٍ اِلَّا هُوَ رَابِعُهُمۡ وَلَا خَمۡسَةٍ اِلَّا
-  هُوَ سَادِسُهُمۡ وَلَاۤ اَدۡنٰى مِنۡ ذٰ لِكَ وَلَاۤ اَكۡثَرَ اِلَّا هُوَ مَعَهُمۡ
-  اَيۡنَ مَا كَانُوۡا​ۚ ثُمَّ يُنَبِّئُهُمۡ بِمَا عَمِلُوۡا يَوۡمَ الۡقِيٰمَةِ​ ؕ
-  اِنَّ اللّٰهَ بِكُلِّ شَىۡءٍ عَلِيۡمٌ‏
+arabic_ayat: أَلَمۡ تَرَ أَنَّ ٱللَّهَ يَعۡلَمُ مَا فِي ٱلسَّمَٰوَٰتِ وَمَا فِي ٱلۡأَرۡضِۖ
+  مَا يَكُونُ مِن نَّجۡوَىٰ ثَلَٰثَةٍ إِلَّا هُوَ رَابِعُهُمۡ وَلَا خَمۡسَةٍ إِلَّا
+  هُوَ سَادِسُهُمۡ وَلَآ أَدۡنَىٰ مِن ذَٰلِكَ وَلَآ أَكۡثَرَ إِلَّا هُوَ مَعَهُمۡ
+  أَيۡنَ مَا كَانُواْۖ ثُمَّ يُنَبِّئُهُم بِمَا عَمِلُواْ يَوۡمَ ٱلۡقِيَٰمَةِۚ إِنَّ
+  ٱللَّهَ بِكُلِّ شَيۡءٍ عَلِيمٌ
 sentence_translation: Do you not see that Allah knows whatever is in the heavens and
   whatever is on the earth? If three converse privately, He is their fourth. If five,
   He is their sixth. Whether fewer or more, He is with them wherever they may be.
@@ -11,7 +11,7 @@ sentence_translation: Do you not see that Allah knows whatever is in the heavens
   Allah has ˹perfect˺ knowledge of all things.
 word_by_word:
   1:
-    arabic: اَلَمۡ
+    arabic: أَلَمۡ
     translation: Do not
     transliteration: alam
   2:
@@ -19,11 +19,11 @@ word_by_word:
     translation: you see
     transliteration: tara
   3:
-    arabic: اَنَّ
+    arabic: أَنَّ
     translation: that
     transliteration: anna
   4:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   5:
@@ -35,11 +35,11 @@ word_by_word:
     translation: whatever
     transliteration: mā
   7:
-    arabic: فِى
+    arabic: فِي
     translation: (is) in
     transliteration: fī
   8:
-    arabic: السَّمٰوٰتِ
+    arabic: ٱلسَّمَٰوَٰتِ
     translation: the heavens
     transliteration: l-samāwāti
   9:
@@ -47,11 +47,11 @@ word_by_word:
     translation: and whatever
     transliteration: wamā
   10:
-    arabic: فِى
+    arabic: فِي
     translation: (is) in
     transliteration: fī
   11:
-    arabic: الۡاَرۡضِ​ؕ
+    arabic: ٱلۡأَرۡضِۖ
     translation: the earth
     transliteration: l-arḍi
   12:
@@ -59,23 +59,23 @@ word_by_word:
     translation: Not
     transliteration: mā
   13:
-    arabic: يَكُوۡنُ
+    arabic: يَكُونُ
     translation: there is
     transliteration: yakūnu
   14:
-    arabic: مِنۡ
+    arabic: مِن
     translation: any
     transliteration: min
   15:
-    arabic: نَّجۡوٰى
+    arabic: نَّجۡوَىٰ
     translation: secret counsel
     transliteration: najwā
   16:
-    arabic: ثَلٰثَةٍ
+    arabic: ثَلَٰثَةٍ
     translation: (of) three
     transliteration: thalāthatin
   17:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: but
     transliteration: illā
   18:
@@ -95,7 +95,7 @@ word_by_word:
     translation: five
     transliteration: khamsatin
   22:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: but
     transliteration: illā
   23:
@@ -107,31 +107,31 @@ word_by_word:
     translation: (the) sixth of them
     transliteration: sādisuhum
   25:
-    arabic: وَلَاۤ
+    arabic: وَلَآ
     translation: and not
     transliteration: walā
   26:
-    arabic: اَدۡنٰى
+    arabic: أَدۡنَىٰ
     translation: less
     transliteration: adnā
   27:
-    arabic: مِنۡ
+    arabic: مِن
     translation: than
     transliteration: min
   28:
-    arabic: ذٰ لِكَ
+    arabic: ذَٰلِكَ
     translation: that
     transliteration: dhālika
   29:
-    arabic: وَلَاۤ
+    arabic: وَلَآ
     translation: and not
     transliteration: walā
   30:
-    arabic: اَكۡثَرَ
+    arabic: أَكۡثَرَ
     translation: more
     transliteration: akthara
   31:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: but
     transliteration: illā
   32:
@@ -143,7 +143,7 @@ word_by_word:
     translation: (is) with them
     transliteration: maʿahum
   34:
-    arabic: اَيۡنَ
+    arabic: أَيۡنَ
     translation: wherever
     transliteration: ayna
   35:
@@ -151,7 +151,7 @@ word_by_word:
     translation: wherever
     transliteration: mā
   36:
-    arabic: كَانُوۡا​ۚ
+    arabic: كَانُواْۖ
     translation: they are
     transliteration: kānū
   37:
@@ -159,7 +159,7 @@ word_by_word:
     translation: Then
     transliteration: thumma
   38:
-    arabic: يُنَبِّئُهُمۡ
+    arabic: يُنَبِّئُهُم
     translation: He will inform them
     transliteration: yunabbi-uhum
   39:
@@ -167,7 +167,7 @@ word_by_word:
     translation: of what
     transliteration: bimā
   40:
-    arabic: عَمِلُوۡا
+    arabic: عَمِلُواْ
     translation: they did
     transliteration: ʿamilū
   41:
@@ -175,15 +175,15 @@ word_by_word:
     translation: (on the) Day
     transliteration: yawma
   42:
-    arabic: الۡقِيٰمَةِ​ ؕ
+    arabic: ٱلۡقِيَٰمَةِۚ
     translation: (of) the Resurrection
     transliteration: l-qiyāmati
   43:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   44:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   45:
@@ -191,11 +191,11 @@ word_by_word:
     translation: of every
     transliteration: bikulli
   46:
-    arabic: شَىۡءٍ
+    arabic: شَيۡءٍ
     translation: thing
     transliteration: shayin
   47:
-    arabic: عَلِيۡمٌ‏
+    arabic: عَلِيمٌ
     translation: (is) All-Knower
     transliteration: ʿalīmun
 ---

@@ -1,26 +1,26 @@
 ---
-arabic_ayat: اَتَدۡعُوۡنَ بَعۡلًا وَّتَذَرُوۡنَ اَحۡسَنَ الۡخٰلِقِيۡنَۙ‏
+arabic_ayat: أَتَدۡعُونَ بَعۡلٗا وَتَذَرُونَ أَحۡسَنَ ٱلۡخَٰلِقِينَ
 sentence_translation: Do you call upon ˹the idol of˺ Ba’l and abandon the Best of
   Creators—
 word_by_word:
   1:
-    arabic: اَتَدۡعُوۡنَ
+    arabic: أَتَدۡعُونَ
     translation: Do you call
     transliteration: atadʿūna
   2:
-    arabic: بَعۡلًا
+    arabic: بَعۡلٗا
     translation: Baal
     transliteration: baʿlan
   3:
-    arabic: وَّتَذَرُوۡنَ
+    arabic: وَتَذَرُونَ
     translation: and you forsake
     transliteration: watadharūna
   4:
-    arabic: اَحۡسَنَ
+    arabic: أَحۡسَنَ
     translation: (the) Best
     transliteration: aḥsana
   5:
-    arabic: الۡخٰلِقِيۡنَۙ‏
+    arabic: ٱلۡخَٰلِقِينَ
     translation: '(of) Creators '
     transliteration: l-khāliqīna
 ---

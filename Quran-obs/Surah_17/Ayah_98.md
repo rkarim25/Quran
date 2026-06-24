@@ -1,35 +1,35 @@
 ---
-arabic_ayat: ذٰلِكَ جَزَآؤُهُمۡ بِاَنَّهُمۡ كَفَرُوۡا بِاٰيٰتِنَا وَقَالُوۡۤا ءَاِذَا
-  كُنَّا عِظَامًا وَّرُفَاتًا ءَاِنَّا لَمَبۡعُوۡثُوۡنَ خَلۡقًا جَدِيۡدًا‏
+arabic_ayat: ذَٰلِكَ جَزَآؤُهُم بِأَنَّهُمۡ كَفَرُواْ بِـَٔايَٰتِنَا وَقَالُوٓاْ
+  أَءِذَا كُنَّا عِظَٰمٗا وَرُفَٰتًا أَءِنَّا لَمَبۡعُوثُونَ خَلۡقٗا جَدِيدًا
 sentence_translation: That is their reward for rejecting Our signs and asking ˹mockingly˺,
   “When we are reduced to bones and ashes, will we really be raised as a new creation?”
 word_by_word:
   1:
-    arabic: ذٰلِكَ
+    arabic: ذَٰلِكَ
     translation: That
     transliteration: dhālika
   2:
-    arabic: جَزَآؤُهُمۡ
+    arabic: جَزَآؤُهُم
     translation: (is) their recompense
     transliteration: jazāuhum
   3:
-    arabic: بِاَنَّهُمۡ
+    arabic: بِأَنَّهُمۡ
     translation: because they
     transliteration: bi-annahum
   4:
-    arabic: كَفَرُوۡا
+    arabic: كَفَرُواْ
     translation: disbelieved
     transliteration: kafarū
   5:
-    arabic: بِاٰيٰتِنَا
+    arabic: بِـَٔايَٰتِنَا
     translation: in Our Verses
     transliteration: biāyātinā
   6:
-    arabic: وَقَالُوۡۤا
+    arabic: وَقَالُوٓاْ أَ
     translation: and said
     transliteration: waqālū
   7:
-    arabic: ءَاِذَا
+    arabic: ءِذَا
     translation: When
     transliteration: a-idhā
   8:
@@ -37,27 +37,27 @@ word_by_word:
     translation: we are
     transliteration: kunnā
   9:
-    arabic: عِظَامًا
+    arabic: عِظَٰمٗا
     translation: bones
     transliteration: ʿiẓāman
   10:
-    arabic: وَّرُفَاتًا
+    arabic: وَرُفَٰتًا أَ
     translation: and crumbled particles
     transliteration: warufātan
   11:
-    arabic: ءَاِنَّا
+    arabic: ءِنَّا
     translation: will we
     transliteration: a-innā
   12:
-    arabic: لَمَبۡعُوۡثُوۡنَ
+    arabic: لَمَبۡعُوثُونَ
     translation: surely (be) resurrected
     transliteration: lamabʿūthūna
   13:
-    arabic: خَلۡقًا
+    arabic: خَلۡقٗا
     translation: (as) a creation
     transliteration: khalqan
   14:
-    arabic: جَدِيۡدًا‏
+    arabic: جَدِيدًا
     translation: new
     transliteration: jadīdan
 ---

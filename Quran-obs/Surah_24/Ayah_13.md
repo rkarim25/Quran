@@ -1,15 +1,15 @@
 ---
-arabic_ayat: لَوۡلَا جَآءُوۡ عَلَيۡهِ بِاَرۡبَعَةِ شُهَدَآءَ​ ۚ فَاِذۡ لَمۡ يَاۡتُوۡا
-  بِالشُّهَدَآءِ فَاُولٰٓٮِٕكَ عِنۡدَ اللّٰهِ هُمُ الۡـكٰذِبُوۡنَ‏
+arabic_ayat: لَّوۡلَا جَآءُو عَلَيۡهِ بِأَرۡبَعَةِ شُهَدَآءَۚ فَإِذۡ لَمۡ يَأۡتُواْ
+  بِٱلشُّهَدَآءِ فَأُوْلَٰٓئِكَ عِندَ ٱللَّهِ هُمُ ٱلۡكَٰذِبُونَ
 sentence_translation: Why did they not produce four witnesses? Now, since they have
   failed to produce witnesses, they are ˹truly˺ liars in the sight of Allah.
 word_by_word:
   1:
-    arabic: لَوۡلَا
+    arabic: لَّوۡلَا
     translation: Why (did) not
     transliteration: lawlā
   2:
-    arabic: جَآءُوۡ
+    arabic: جَآءُو
     translation: they bring
     transliteration: jāū
   3:
@@ -17,15 +17,15 @@ word_by_word:
     translation: for it
     transliteration: ʿalayhi
   4:
-    arabic: بِاَرۡبَعَةِ
+    arabic: بِأَرۡبَعَةِ
     translation: four
     transliteration: bi-arbaʿati
   5:
-    arabic: شُهَدَآءَ​ ۚ
+    arabic: شُهَدَآءَۚ
     translation: witnesses
     transliteration: shuhadāa
   6:
-    arabic: فَاِذۡ
+    arabic: فَإِذۡ
     translation: Then when
     transliteration: fa-idh
   7:
@@ -33,23 +33,23 @@ word_by_word:
     translation: not
     transliteration: lam
   8:
-    arabic: يَاۡتُوۡا
+    arabic: يَأۡتُواْ
     translation: they brought
     transliteration: yatū
   9:
-    arabic: بِالشُّهَدَآءِ
+    arabic: بِٱلشُّهَدَآءِ
     translation: the witnesses
     transliteration: bil-shuhadāi
   10:
-    arabic: فَاُولٰٓٮِٕكَ
+    arabic: فَأُوْلَٰٓئِكَ
     translation: then those
     transliteration: fa-ulāika
   11:
-    arabic: عِنۡدَ
+    arabic: عِندَ
     translation: near Allah
     transliteration: ʿinda
   12:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: near Allah
     transliteration: l-lahi
   13:
@@ -57,7 +57,7 @@ word_by_word:
     translation: they
     transliteration: humu
   14:
-    arabic: الۡـكٰذِبُوۡنَ‏
+    arabic: ٱلۡكَٰذِبُونَ
     translation: (are) the liars
     transliteration: l-kādhibūna
 ---

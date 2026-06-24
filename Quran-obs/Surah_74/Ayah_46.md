@@ -1,5 +1,5 @@
 ---
-arabic_ayat: وَ كُنَّا نُكَذِّبُ بِيَوۡمِ الدِّيۡنِۙ‏
+arabic_ayat: وَكُنَّا نُكَذِّبُ بِيَوۡمِ ٱلدِّينِ
 sentence_translation: and deny the Day of Judgment,
 word_by_word:
   1:
@@ -15,7 +15,7 @@ word_by_word:
     translation: (the) Day
     transliteration: biyawmi
   4:
-    arabic: بِيَوۡمِ الدِّيۡنِۙ‏
+    arabic: بِيَوۡمِ ٱلدِّينِ
     translation: (of) the Judgment
     transliteration: l-dīni
 ---

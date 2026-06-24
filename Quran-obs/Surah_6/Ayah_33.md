@@ -1,6 +1,6 @@
 ---
-arabic_ayat: قَدۡ نَـعۡلَمُ اِنَّهٗ لَيَحۡزُنُكَ الَّذِىۡ يَقُوۡلُوۡنَ​ فَاِنَّهُمۡ
-  لَا يُكَذِّبُوۡنَكَ وَلٰـكِنَّ الظّٰلِمِيۡنَ بِاٰيٰتِ اللّٰهِ يَجۡحَدُوۡنَ‏
+arabic_ayat: قَدۡ نَعۡلَمُ إِنَّهُۥ لَيَحۡزُنُكَ ٱلَّذِي يَقُولُونَۖ فَإِنَّهُمۡ لَا
+  يُكَذِّبُونَكَ وَلَٰكِنَّ ٱلظَّٰلِمِينَ بِـَٔايَٰتِ ٱللَّهِ يَجۡحَدُونَ
 sentence_translation: We certainly know that what they say grieves you ˹O Prophet˺.
   It is not your honesty they question—it is Allah’s signs that the wrongdoers deny.
 word_by_word:
@@ -9,11 +9,11 @@ word_by_word:
     translation: Indeed
     transliteration: qad
   2:
-    arabic: نَـعۡلَمُ
+    arabic: نَعۡلَمُ
     translation: We know
     transliteration: naʿlamu
   3:
-    arabic: اِنَّهٗ
+    arabic: إِنَّهُۥ
     translation: that it
     transliteration: innahu
   4:
@@ -21,15 +21,15 @@ word_by_word:
     translation: grieves you
     transliteration: layaḥzunuka
   5:
-    arabic: الَّذِىۡ
+    arabic: ٱلَّذِي
     translation: what
     transliteration: alladhī
   6:
-    arabic: يَقُوۡلُوۡنَ​
+    arabic: يَقُولُونَۖ
     translation: they say
     transliteration: yaqūlūna
   7:
-    arabic: فَاِنَّهُمۡ
+    arabic: فَإِنَّهُمۡ
     translation: And indeed, they
     transliteration: fa-innahum
   8:
@@ -37,27 +37,27 @@ word_by_word:
     translation: (do) not
     transliteration: lā
   9:
-    arabic: يُكَذِّبُوۡنَكَ
+    arabic: يُكَذِّبُونَكَ
     translation: deny you
     transliteration: yukadhibūnaka
   10:
-    arabic: وَلٰـكِنَّ
+    arabic: وَلَٰكِنَّ
     translation: but
     transliteration: walākinna
   11:
-    arabic: الظّٰلِمِيۡنَ
+    arabic: ٱلظَّٰلِمِينَ
     translation: 'the wrongdoers '
     transliteration: l-ẓālimīna
   12:
-    arabic: بِاٰيٰتِ
+    arabic: بِـَٔايَٰتِ
     translation: the Verses
     transliteration: biāyāti
   13:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (of) Allah
     transliteration: l-lahi
   14:
-    arabic: يَجۡحَدُوۡنَ‏
+    arabic: يَجۡحَدُونَ
     translation: they reject
     transliteration: yajḥadūna
 ---

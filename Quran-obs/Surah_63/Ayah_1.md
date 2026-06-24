@@ -1,13 +1,13 @@
 ---
-arabic_ayat: اِذَا جَآءَكَ الۡمُنٰفِقُوۡنَ قَالُوۡا نَشۡهَدُ اِنَّكَ لَرَسُوۡلُ اللّٰهِ
-  ​ۘ وَاللّٰهُ يَعۡلَمُ اِنَّكَ لَرَسُوۡلُهٗ ؕ وَاللّٰهُ يَشۡهَدُ اِنَّ الۡمُنٰفِقِيۡنَ
-  لَـكٰذِبُوۡنَ​ ۚ‏
+arabic_ayat: إِذَا جَآءَكَ ٱلۡمُنَٰفِقُونَ قَالُواْ نَشۡهَدُ إِنَّكَ لَرَسُولُ ٱللَّهِۗ
+  وَٱللَّهُ يَعۡلَمُ إِنَّكَ لَرَسُولُهُۥ وَٱللَّهُ يَشۡهَدُ إِنَّ ٱلۡمُنَٰفِقِينَ
+  لَكَٰذِبُونَ
 sentence_translation: When the hypocrites come to you ˹O Prophet˺, they say, “We bear
   witness that you are certainly the Messenger of Allah”—and surely Allah knows that
   you are His Messenger—but Allah bears witness that the hypocrites are truly liars.
 word_by_word:
   1:
-    arabic: اِذَا
+    arabic: إِذَا
     translation: When
     transliteration: idhā
   2:
@@ -15,11 +15,11 @@ word_by_word:
     translation: come to you
     transliteration: jāaka
   3:
-    arabic: الۡمُنٰفِقُوۡنَ
+    arabic: ٱلۡمُنَٰفِقُونَ
     translation: the hypocrites
     transliteration: l-munāfiqūna
   4:
-    arabic: قَالُوۡا
+    arabic: قَالُواْ
     translation: they say
     transliteration: qālū
   5:
@@ -27,19 +27,19 @@ word_by_word:
     translation: We testify
     transliteration: nashhadu
   6:
-    arabic: اِنَّكَ
+    arabic: إِنَّكَ
     translation: that you
     transliteration: innaka
   7:
-    arabic: لَرَسُوۡلُ
+    arabic: لَرَسُولُ
     translation: (are) surely (the) Messenger
     transliteration: larasūlu
   8:
-    arabic: اللّٰهِ ​ۘ
+    arabic: ٱللَّهِۗ
     translation: (of) Allah
     transliteration: l-lahi
   9:
-    arabic: وَاللّٰهُ
+    arabic: وَٱللَّهُ
     translation: And Allah
     transliteration: wal-lahu
   10:
@@ -47,15 +47,15 @@ word_by_word:
     translation: knows
     transliteration: yaʿlamu
   11:
-    arabic: اِنَّكَ
+    arabic: إِنَّكَ
     translation: that you
     transliteration: innaka
   12:
-    arabic: لَرَسُوۡلُهٗ ؕ
+    arabic: لَرَسُولُهُۥ
     translation: (are) surely His Messenger
     transliteration: larasūluhu
   13:
-    arabic: وَاللّٰهُ
+    arabic: وَٱللَّهُ
     translation: and Allah
     transliteration: wal-lahu
   14:
@@ -63,15 +63,15 @@ word_by_word:
     translation: testifies
     transliteration: yashhadu
   15:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: that
     transliteration: inna
   16:
-    arabic: الۡمُنٰفِقِيۡنَ
+    arabic: ٱلۡمُنَٰفِقِينَ
     translation: the hypocrites
     transliteration: l-munāfiqīna
   17:
-    arabic: لَـكٰذِبُوۡنَ​ ۚ‏
+    arabic: لَكَٰذِبُونَ
     translation: (are) surely liars
     transliteration: lakādhibūna
 ---

@@ -1,25 +1,25 @@
 ---
-arabic_ayat: اَيَحۡسَبُ الۡاِنۡسَانُ اَنۡ يُّتۡرَكَ سُدًىؕ‏
+arabic_ayat: أَيَحۡسَبُ ٱلۡإِنسَٰنُ أَن يُتۡرَكَ سُدًى
 sentence_translation: Do people think they will be left without purpose?
 word_by_word:
   1:
-    arabic: اَيَحۡسَبُ
+    arabic: أَيَحۡسَبُ
     translation: Does think
     transliteration: ayaḥsabu
   2:
-    arabic: الۡاِنۡسَانُ
+    arabic: ٱلۡإِنسَٰنُ
     translation: man
     transliteration: l-insānu
   3:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that
     transliteration: an
   4:
-    arabic: يُّتۡرَكَ
+    arabic: يُتۡرَكَ
     translation: he will be left
     transliteration: yut'raka
   5:
-    arabic: سُدًىؕ‏
+    arabic: سُدًى
     translation: neglected
     transliteration: sudan
 ---

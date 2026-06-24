@@ -1,7 +1,7 @@
 ---
-arabic_ayat: قُلۡ مَنۡ حَرَّمَ زِيۡنَةَ اللّٰهِ الَّتِىۡۤ اَخۡرَجَ لِعِبَادِهٖ وَالطَّيِّبٰتِ
-  مِنَ الرِّزۡقِ​ؕ قُلۡ هِىَ لِلَّذِيۡنَ اٰمَنُوۡا فِى الۡحَيٰوةِ الدُّنۡيَا خَالِصَةً
-  يَّوۡمَ الۡقِيٰمَةِ​ؕ كَذٰلِكَ نُفَصِّلُ الۡاٰيٰتِ لِقَوۡمٍ يَّعۡلَمُوۡنَ‏
+arabic_ayat: قُلۡ مَنۡ حَرَّمَ زِينَةَ ٱللَّهِ ٱلَّتِيٓ أَخۡرَجَ لِعِبَادِهِۦ وَٱلطَّيِّبَٰتِ
+  مِنَ ٱلرِّزۡقِۚ قُلۡ هِيَ لِلَّذِينَ ءَامَنُواْ فِي ٱلۡحَيَوٰةِ ٱلدُّنۡيَا خَالِصَةٗ
+  يَوۡمَ ٱلۡقِيَٰمَةِۗ كَذَٰلِكَ نُفَصِّلُ ٱلۡأٓيَٰتِ لِقَوۡمٖ يَعۡلَمُونَ
 sentence_translation: Ask, ˹O Prophet,˺ “Who has forbidden the adornments and lawful
   provisions Allah has brought forth for His servants?” Say, “They are for the enjoyment
   of the believers in this worldly life, but they will be exclusively theirs on the
@@ -20,27 +20,27 @@ word_by_word:
     translation: has forbidden
     transliteration: ḥarrama
   4:
-    arabic: زِيۡنَةَ
+    arabic: زِينَةَ
     translation: (the) adornment
     transliteration: zīnata
   5:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (from) Allah
     transliteration: l-lahi
   6:
-    arabic: الَّتِىۡۤ
+    arabic: ٱلَّتِيٓ
     translation: which
     transliteration: allatī
   7:
-    arabic: اَخۡرَجَ
+    arabic: أَخۡرَجَ
     translation: He has brought forth
     transliteration: akhraja
   8:
-    arabic: لِعِبَادِهٖ
+    arabic: لِعِبَادِهِۦ
     translation: for His slaves
     transliteration: liʿibādihi
   9:
-    arabic: وَالطَّيِّبٰتِ
+    arabic: وَٱلطَّيِّبَٰتِ
     translation: and the pure things
     transliteration: wal-ṭayibāti
   10:
@@ -48,7 +48,7 @@ word_by_word:
     translation: of
     transliteration: mina
   11:
-    arabic: الرِّزۡقِ​ؕ
+    arabic: ٱلرِّزۡقِۚ
     translation: sustenance
     transliteration: l-riz'qi
   12:
@@ -56,43 +56,43 @@ word_by_word:
     translation: Say
     transliteration: qul
   13:
-    arabic: هِىَ
+    arabic: هِيَ
     translation: They
     transliteration: hiya
   14:
-    arabic: لِلَّذِيۡنَ
+    arabic: لِلَّذِينَ ءَ
     translation: (are) for those who
     transliteration: lilladhīna
   15:
-    arabic: اٰمَنُوۡا
+    arabic: امَنُواْ
     translation: believe
     transliteration: āmanū
   16:
-    arabic: فِى
+    arabic: فِي
     translation: during
     transliteration: fī
   17:
-    arabic: الۡحَيٰوةِ
+    arabic: ٱلۡحَيَوٰةِ
     translation: the life
     transliteration: l-ḥayati
   18:
-    arabic: الدُّنۡيَا
+    arabic: ٱلدُّنۡيَا
     translation: (of) the world
     transliteration: l-dun'yā
   19:
-    arabic: خَالِصَةً
+    arabic: خَالِصَةٗ
     translation: exclusively (for them)
     transliteration: khāliṣatan
   20:
-    arabic: يَّوۡمَ
+    arabic: يَوۡمَ
     translation: (on the) Day
     transliteration: yawma
   21:
-    arabic: الۡقِيٰمَةِ​ؕ
+    arabic: ٱلۡقِيَٰمَةِۗ
     translation: (of) Resurrection
     transliteration: l-qiyāmati
   22:
-    arabic: كَذٰلِكَ
+    arabic: كَذَٰلِكَ
     translation: Thus
     transliteration: kadhālika
   23:
@@ -100,15 +100,15 @@ word_by_word:
     translation: We explain
     transliteration: nufaṣṣilu
   24:
-    arabic: الۡاٰيٰتِ
+    arabic: ٱلۡأٓيَٰتِ
     translation: the Signs
     transliteration: l-āyāti
   25:
-    arabic: لِقَوۡمٍ
+    arabic: لِقَوۡمٖ
     translation: for (the) people
     transliteration: liqawmin
   26:
-    arabic: يَّعۡلَمُوۡنَ‏
+    arabic: يَعۡلَمُونَ
     translation: who know
     transliteration: yaʿlamūna
 ---

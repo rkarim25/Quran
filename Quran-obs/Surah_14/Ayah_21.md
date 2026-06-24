@@ -1,8 +1,8 @@
 ---
-arabic_ayat: وَبَرَزُوۡا لِلّٰهِ جَمِيۡعًا فَقَالَ الضُّعَفٰۤؤُا لِلَّذِيۡنَ اسۡتَكۡبَرُوۡۤا
-  اِنَّا كُنَّا لَـكُمۡ تَبَعًا فَهَلۡ اَنۡـتُمۡ مُّغۡـنُوۡنَ عَنَّا مِنۡ عَذَابِ
-  اللّٰهِ مِنۡ شَىۡءٍ​ؕ قَالُوۡا لَوۡ هَدٰٮنَا اللّٰهُ لَهَدَيۡنٰكُمۡ​ؕ سَوَآءٌ عَلَيۡنَاۤ
-  اَجَزِعۡنَاۤ اَمۡ صَبَرۡنَا مَا لَــنَا مِنۡ مَّحِيۡصٍ‏
+arabic_ayat: وَبَرَزُواْ لِلَّهِ جَمِيعٗا فَقَالَ ٱلضُّعَفَٰٓؤُاْ لِلَّذِينَ ٱسۡتَكۡبَرُوٓاْ
+  إِنَّا كُنَّا لَكُمۡ تَبَعٗا فَهَلۡ أَنتُم مُّغۡنُونَ عَنَّا مِنۡ عَذَابِ ٱللَّهِ
+  مِن شَيۡءٖۚ قَالُواْ لَوۡ هَدَىٰنَا ٱللَّهُ لَهَدَيۡنَٰكُمۡۖ سَوَآءٌ عَلَيۡنَآ
+  أَجَزِعۡنَآ أَمۡ صَبَرۡنَا مَا لَنَا مِن مَّحِيصٖ
 sentence_translation: They will all appear before Allah, and the lowly ˹followers˺
   will appeal to the arrogant ˹leaders˺, “We were your ˹dedicated˺ followers, so will
   you ˹then˺ protect us from Allah’s torment in any way?” They will reply, “Had Allah
@@ -10,15 +10,15 @@ sentence_translation: They will all appear before Allah, and the lowly ˹followe
   suffer patiently or impatiently, there is no escape for us.”
 word_by_word:
   1:
-    arabic: وَبَرَزُوۡا
+    arabic: وَبَرَزُواْ
     translation: And they will come forth
     transliteration: wabarazū
   2:
-    arabic: لِلّٰهِ
+    arabic: لِلَّهِ
     translation: before Allah
     transliteration: lillahi
   3:
-    arabic: جَمِيۡعًا
+    arabic: جَمِيعٗا
     translation: all together
     transliteration: jamīʿan
   4:
@@ -26,19 +26,19 @@ word_by_word:
     translation: then will say
     transliteration: faqāla
   5:
-    arabic: الضُّعَفٰۤؤُا
+    arabic: ٱلضُّعَفَٰٓؤُاْ
     translation: the weak
     transliteration: l-ḍuʿafāu
   6:
-    arabic: لِلَّذِيۡنَ
+    arabic: لِلَّذِينَ
     translation: to those who
     transliteration: lilladhīna
   7:
-    arabic: اسۡتَكۡبَرُوۡۤا
+    arabic: ٱسۡتَكۡبَرُوٓاْ
     translation: were arrogant
     transliteration: is'takbarū
   8:
-    arabic: اِنَّا
+    arabic: إِنَّا
     translation: Indeed we
     transliteration: innā
   9:
@@ -46,11 +46,11 @@ word_by_word:
     translation: we were
     transliteration: kunnā
   10:
-    arabic: لَـكُمۡ
+    arabic: لَكُمۡ
     translation: your
     transliteration: lakum
   11:
-    arabic: تَبَعًا
+    arabic: تَبَعٗا
     translation: followers
     transliteration: tabaʿan
   12:
@@ -58,11 +58,11 @@ word_by_word:
     translation: so can
     transliteration: fahal
   13:
-    arabic: اَنۡـتُمۡ
+    arabic: أَنتُم
     translation: you (be)
     transliteration: antum
   14:
-    arabic: مُّغۡـنُوۡنَ
+    arabic: مُّغۡنُونَ
     translation: the one who avails
     transliteration: mugh'nūna
   15:
@@ -78,19 +78,19 @@ word_by_word:
     translation: (the) punishment
     transliteration: ʿadhābi
   18:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (of) Allah
     transliteration: l-lahi
   19:
-    arabic: مِنۡ
+    arabic: مِن
     translation: anything
     transliteration: min
   20:
-    arabic: شَىۡءٍ​ؕ
+    arabic: شَيۡءٖۚ
     translation: anything
     transliteration: shayin
   21:
-    arabic: قَالُوۡا
+    arabic: قَالُواْ
     translation: They will say
     transliteration: qālū
   22:
@@ -98,15 +98,15 @@ word_by_word:
     translation: If
     transliteration: law
   23:
-    arabic: هَدٰٮنَا
+    arabic: هَدَىٰنَا
     translation: Allah had guided us
     transliteration: hadānā
   24:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah had guided us
     transliteration: l-lahu
   25:
-    arabic: لَهَدَيۡنٰكُمۡ​ؕ
+    arabic: لَهَدَيۡنَٰكُمۡۖ
     translation: surely we would have guided you
     transliteration: lahadaynākum
   26:
@@ -114,15 +114,15 @@ word_by_word:
     translation: (It is) same
     transliteration: sawāon
   27:
-    arabic: عَلَيۡنَاۤ
+    arabic: عَلَيۡنَآ
     translation: for us
     transliteration: ʿalaynā
   28:
-    arabic: اَجَزِعۡنَاۤ
+    arabic: أَجَزِعۡنَآ
     translation: whether we show intolerance
     transliteration: ajaziʿ'nā
   29:
-    arabic: اَمۡ
+    arabic: أَمۡ
     translation: or
     transliteration: am
   30:
@@ -134,15 +134,15 @@ word_by_word:
     translation: not
     transliteration: mā
   32:
-    arabic: لَــنَا
+    arabic: لَنَا
     translation: (is) for us
     transliteration: lanā
   33:
-    arabic: مِنۡ
+    arabic: مِن
     translation: any
     transliteration: min
   34:
-    arabic: مَّحِيۡصٍ‏
+    arabic: مَّحِيصٖ
     translation: place of escape
     transliteration: maḥīṣin
 ---

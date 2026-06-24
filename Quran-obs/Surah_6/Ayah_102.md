@@ -1,40 +1,40 @@
 ---
-arabic_ayat: ذٰ لِكُمُ اللّٰهُ رَبُّكُمۡ​ۚ لَاۤ اِلٰهَ اِلَّا هُوَ​ۚ خَالِقُ كُلِّ
-  شَىۡءٍ فَاعۡبُدُوۡهُ​ۚ وَهُوَ عَلٰى كُلِّ شَىۡءٍ وَّكِيۡلٌ‏
+arabic_ayat: ذَٰلِكُمُ ٱللَّهُ رَبُّكُمۡۖ لَآ إِلَٰهَ إِلَّا هُوَۖ خَٰلِقُ كُلِّ
+  شَيۡءٖ فَٱعۡبُدُوهُۚ وَهُوَ عَلَىٰ كُلِّ شَيۡءٖ وَكِيلٞ
 sentence_translation: That is Allah—your Lord! There is no god ˹worthy of worship˺
   except Him. ˹He is˺ the Creator of all things, so worship Him ˹alone˺. And He is
   the Maintainer of everything.
 word_by_word:
   1:
-    arabic: ذٰ لِكُمُ
+    arabic: ذَٰلِكُمُ
     translation: That
     transliteration: dhālikumu
   2:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: (is) Allah
     transliteration: l-lahu
   3:
-    arabic: رَبُّكُمۡ​ۚ
+    arabic: رَبُّكُمۡۖ
     translation: your Lord
     transliteration: rabbukum
   4:
-    arabic: لَاۤ
+    arabic: لَآ
     translation: (there is) no
     transliteration: lā
   5:
-    arabic: اِلٰهَ
+    arabic: إِلَٰهَ
     translation: god
     transliteration: ilāha
   6:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   7:
-    arabic: هُوَ​ۚ
+    arabic: هُوَۖ
     translation: Him
     transliteration: huwa
   8:
-    arabic: خَالِقُ
+    arabic: خَٰلِقُ
     translation: (the) Creator
     transliteration: khāliqu
   9:
@@ -42,11 +42,11 @@ word_by_word:
     translation: (of) every
     transliteration: kulli
   10:
-    arabic: شَىۡءٍ
+    arabic: شَيۡءٖ
     translation: thing
     transliteration: shayin
   11:
-    arabic: فَاعۡبُدُوۡهُ​ۚ
+    arabic: فَٱعۡبُدُوهُۚ
     translation: so worship Him
     transliteration: fa-uʿ'budūhu
   12:
@@ -54,7 +54,7 @@ word_by_word:
     translation: And He
     transliteration: wahuwa
   13:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: (is) on
     transliteration: ʿalā
   14:
@@ -62,11 +62,11 @@ word_by_word:
     translation: every
     transliteration: kulli
   15:
-    arabic: شَىۡءٍ
+    arabic: شَيۡءٖ
     translation: thing
     transliteration: shayin
   16:
-    arabic: وَّكِيۡلٌ‏
+    arabic: وَكِيلٞ
     translation: a Guardian
     transliteration: wakīlun
 ---

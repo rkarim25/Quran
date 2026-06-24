@@ -1,6 +1,6 @@
 ---
-arabic_ayat: قَالَ هَلۡ اٰمَنُكُمۡ عَلَيۡهِ اِلَّا كَمَاۤ اَمِنۡتُكُمۡ عَلٰٓى اَخِيۡهِ
-  مِنۡ قَبۡلُ​ؕ فَاللّٰهُ خَيۡرٌ حٰفِظًا​ وَّهُوَ اَرۡحَمُ الرّٰحِمِيۡنَ‏
+arabic_ayat: قَالَ هَلۡ ءَامَنُكُمۡ عَلَيۡهِ إِلَّا كَمَآ أَمِنتُكُمۡ عَلَىٰٓ أَخِيهِ
+  مِن قَبۡلُ فَٱللَّهُ خَيۡرٌ حَٰفِظٗاۖ وَهُوَ أَرۡحَمُ ٱلرَّٰحِمِينَ
 sentence_translation: He responded, “Should I trust you with him as I once trusted
   you with his brother ˹Joseph˺? But ˹only˺ Allah is the best Protector, and He is
   the Most Merciful of the merciful.”
@@ -10,11 +10,11 @@ word_by_word:
     translation: He said
     transliteration: qāla
   2:
-    arabic: هَلۡ
+    arabic: هَلۡ ءَ
     translation: Should
     transliteration: hal
   3:
-    arabic: اٰمَنُكُمۡ
+    arabic: امَنُكُمۡ
     translation: I entrust you
     transliteration: āmanukum
   4:
@@ -22,35 +22,35 @@ word_by_word:
     translation: with him
     transliteration: ʿalayhi
   5:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   6:
-    arabic: كَمَاۤ
+    arabic: كَمَآ
     translation: as
     transliteration: kamā
   7:
-    arabic: اَمِنۡتُكُمۡ
+    arabic: أَمِنتُكُمۡ
     translation: I entrusted you
     transliteration: amintukum
   8:
-    arabic: عَلٰٓى
+    arabic: عَلَىٰٓ
     translation: with
     transliteration: ʿalā
   9:
-    arabic: اَخِيۡهِ
+    arabic: أَخِيهِ
     translation: his brother
     transliteration: akhīhi
   10:
-    arabic: مِنۡ
+    arabic: مِن
     translation: before
     transliteration: min
   11:
-    arabic: قَبۡلُ​ؕ
+    arabic: قَبۡلُ
     translation: before
     transliteration: qablu
   12:
-    arabic: فَاللّٰهُ
+    arabic: فَٱللَّهُ
     translation: But Allah
     transliteration: fal-lahu
   13:
@@ -58,19 +58,19 @@ word_by_word:
     translation: (is) the best
     transliteration: khayrun
   14:
-    arabic: حٰفِظًا​
+    arabic: حَٰفِظٗاۖ
     translation: Guardian
     transliteration: ḥāfiẓan
   15:
-    arabic: وَّهُوَ
+    arabic: وَهُوَ
     translation: and He
     transliteration: wahuwa
   16:
-    arabic: اَرۡحَمُ
+    arabic: أَرۡحَمُ
     translation: (is the) Most Merciful
     transliteration: arḥamu
   17:
-    arabic: الرّٰحِمِيۡنَ‏
+    arabic: ٱلرَّٰحِمِينَ
     translation: (of) the merciful
     transliteration: l-rāḥimīna
 ---

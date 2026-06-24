@@ -1,13 +1,13 @@
 ---
-arabic_ayat: وَلَوۡ يُعَجِّلُ اللّٰهُ لِلنَّاسِ الشَّرَّ اسۡتِعۡجَالَهُمۡ بِالۡخَيۡرِ
-  لَـقُضِىَ اِلَيۡهِمۡ اَجَلُهُمۡ​ؕ فَنَذَرُ الَّذِيۡنَ لَا يَرۡجُوۡنَ لِقَآءَنَا
-  فِىۡ طُغۡيَانِهِمۡ يَعۡمَهُوۡنَ‏
+arabic_ayat: ۞ وَلَوۡ يُعَجِّلُ ٱللَّهُ لِلنَّاسِ ٱلشَّرَّ ٱسۡتِعۡجَالَهُم بِٱلۡخَيۡرِ
+  لَقُضِيَ إِلَيۡهِمۡ أَجَلُهُمۡۖ فَنَذَرُ ٱلَّذِينَ لَا يَرۡجُونَ لِقَآءَنَا فِي
+  طُغۡيَٰنِهِمۡ يَعۡمَهُونَ
 sentence_translation: If Allah were to hasten evil for people as they wish to hasten
   good, they would have certainly been doomed. But We leave those who do not expect
   to meet Us to wander blindly in their defiance.
 word_by_word:
   1:
-    arabic: ۞ وَلَوۡ
+    arabic: ۞ وَلَوۡ
     translation: And if
     transliteration: walaw
   2:
@@ -15,7 +15,7 @@ word_by_word:
     translation: hastens
     transliteration: yuʿajjilu
   3:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: (by) Allah
     transliteration: l-lahu
   4:
@@ -23,27 +23,27 @@ word_by_word:
     translation: for the mankind
     transliteration: lilnnāsi
   5:
-    arabic: الشَّرَّ
+    arabic: ٱلشَّرَّ
     translation: the evil
     transliteration: l-shara
   6:
-    arabic: اسۡتِعۡجَالَهُمۡ
+    arabic: ٱسۡتِعۡجَالَهُم
     translation: (as) He hastens for them
     transliteration: is'tiʿ'jālahum
   7:
-    arabic: بِالۡخَيۡرِ
+    arabic: بِٱلۡخَيۡرِ
     translation: the good
     transliteration: bil-khayri
   8:
-    arabic: لَـقُضِىَ
+    arabic: لَقُضِيَ
     translation: surely, would have been decreed
     transliteration: laquḍiya
   9:
-    arabic: اِلَيۡهِمۡ
+    arabic: إِلَيۡهِمۡ
     translation: for them
     transliteration: ilayhim
   10:
-    arabic: اَجَلُهُمۡ​ؕ
+    arabic: أَجَلُهُمۡۖ
     translation: their term
     transliteration: ajaluhum
   11:
@@ -51,7 +51,7 @@ word_by_word:
     translation: But We leave
     transliteration: fanadharu
   12:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   13:
@@ -59,7 +59,7 @@ word_by_word:
     translation: (do) not
     transliteration: lā
   14:
-    arabic: يَرۡجُوۡنَ
+    arabic: يَرۡجُونَ
     translation: expect
     transliteration: yarjūna
   15:
@@ -67,15 +67,15 @@ word_by_word:
     translation: the meeting with Us
     transliteration: liqāanā
   16:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   17:
-    arabic: طُغۡيَانِهِمۡ
+    arabic: طُغۡيَٰنِهِمۡ
     translation: their transgression
     transliteration: ṭugh'yānihim
   18:
-    arabic: يَعۡمَهُوۡنَ‏
+    arabic: يَعۡمَهُونَ
     translation: wandering blindly
     transliteration: yaʿmahūna
 ---

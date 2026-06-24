@@ -1,21 +1,21 @@
 ---
-arabic_ayat: مَاۤ اَغۡنٰى عَنِّىۡ مَالِيَهۡۚ‏
+arabic_ayat: مَآ أَغۡنَىٰ عَنِّي مَالِيَهۡۜ
 sentence_translation: My wealth has not benefited me!
 word_by_word:
   1:
-    arabic: مَاۤ
+    arabic: مَآ
     translation: Not
     transliteration: mā
   2:
-    arabic: اَغۡنٰى
+    arabic: أَغۡنَىٰ
     translation: has availed
     transliteration: aghnā
   3:
-    arabic: عَنِّىۡ
+    arabic: عَنِّي
     translation: me
     transliteration: ʿannī
   4:
-    arabic: مَالِيَهۡۚ‏
+    arabic: مَالِيَهۡۜ
     translation: my wealth
     transliteration: māliyah
 ---

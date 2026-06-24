@@ -1,11 +1,11 @@
 ---
-arabic_ayat: لِلَّذِيۡنَ لَا يُؤۡمِنُوۡنَ بِالۡاٰخِرَةِ مَثَلُ السَّوۡءِ​ۚ وَلِلّٰهِ
-  الۡمَثَلُ الۡاَعۡلٰى​ ؕ وَهُوَ الۡعَزِيۡزُ الۡحَكِيۡمُ‏
+arabic_ayat: لِلَّذِينَ لَا يُؤۡمِنُونَ بِٱلۡأٓخِرَةِ مَثَلُ ٱلسَّوۡءِۖ وَلِلَّهِ
+  ٱلۡمَثَلُ ٱلۡأَعۡلَىٰۚ وَهُوَ ٱلۡعَزِيزُ ٱلۡحَكِيمُ
 sentence_translation: To those who disbelieve in the Hereafter belong all evil qualities,
   whereas to Allah belong the finest attributes. And He is the Almighty, All-Wise.
 word_by_word:
   1:
-    arabic: لِلَّذِيۡنَ
+    arabic: لِلَّذِينَ
     translation: For those who
     transliteration: lilladhīna
   2:
@@ -13,11 +13,11 @@ word_by_word:
     translation: (do) not
     transliteration: lā
   3:
-    arabic: يُؤۡمِنُوۡنَ
+    arabic: يُؤۡمِنُونَ
     translation: believe
     transliteration: yu'minūna
   4:
-    arabic: بِالۡاٰخِرَةِ
+    arabic: بِٱلۡأٓخِرَةِ
     translation: in the Hereafter
     transliteration: bil-ākhirati
   5:
@@ -25,19 +25,19 @@ word_by_word:
     translation: (is) a similitude
     transliteration: mathalu
   6:
-    arabic: السَّوۡءِ​ۚ
+    arabic: ٱلسَّوۡءِۖ
     translation: (of) the evil
     transliteration: l-sawi
   7:
-    arabic: وَلِلّٰهِ
+    arabic: وَلِلَّهِ
     translation: and for Allah
     transliteration: walillahi
   8:
-    arabic: الۡمَثَلُ
+    arabic: ٱلۡمَثَلُ
     translation: (is) the similitude
     transliteration: l-mathalu
   9:
-    arabic: الۡاَعۡلٰى​ ؕ
+    arabic: ٱلۡأَعۡلَىٰۚ
     translation: the Highest
     transliteration: l-aʿlā
   10:
@@ -45,11 +45,11 @@ word_by_word:
     translation: And He
     transliteration: wahuwa
   11:
-    arabic: الۡعَزِيۡزُ
+    arabic: ٱلۡعَزِيزُ
     translation: (is) the All-Mighty
     transliteration: l-ʿazīzu
   12:
-    arabic: الۡحَكِيۡمُ‏
+    arabic: ٱلۡحَكِيمُ
     translation: All-Wise
     transliteration: l-ḥakīmu
 ---

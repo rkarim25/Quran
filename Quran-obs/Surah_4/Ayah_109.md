@@ -1,21 +1,21 @@
 ---
-arabic_ayat: "هٰۤاَنۡتُمۡ هٰٓؤُلَۤاءِ جَادَلۡـتُمۡ عَنۡهُمۡ فِى الۡحَيٰوةِ الدُّنۡيَا\
-  \ فَمَنۡ يُّجَادِلُ اللّٰهَ عَنۡهُمۡ يَوۡمَ الۡقِيٰمَةِ اَمۡ مَّنۡ يَّكُوۡنُ عَلَيۡهِمۡ\
-  \ وَكِيۡلًا‏ \uFEFF\uFEFF"
+arabic_ayat: هَٰٓأَنتُمۡ هَٰٓؤُلَآءِ جَٰدَلۡتُمۡ عَنۡهُمۡ فِي ٱلۡحَيَوٰةِ ٱلدُّنۡيَا
+  فَمَن يُجَٰدِلُ ٱللَّهَ عَنۡهُمۡ يَوۡمَ ٱلۡقِيَٰمَةِ أَم مَّن يَكُونُ عَلَيۡهِمۡ
+  وَكِيلٗا
 sentence_translation: Here you are! You ˹believers˺ are advocating for them in this
   life, but who will ˹dare to˺ advocate for them before Allah on the Day of Judgment?
   Or who will come to their defence?
 word_by_word:
   1:
-    arabic: هٰۤاَنۡتُمۡ
+    arabic: هَٰٓأَنتُمۡ
     translation: 'Here you are '
     transliteration: hāantum
   2:
-    arabic: هٰٓؤُلَۤاءِ
+    arabic: هَٰٓؤُلَآءِ
     translation: those who
     transliteration: hāulāi
   3:
-    arabic: جَادَلۡـتُمۡ
+    arabic: جَٰدَلۡتُمۡ
     translation: '[you] argue'
     transliteration: jādaltum
   4:
@@ -23,27 +23,27 @@ word_by_word:
     translation: for them
     transliteration: ʿanhum
   5:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   6:
-    arabic: الۡحَيٰوةِ
+    arabic: ٱلۡحَيَوٰةِ
     translation: the life
     transliteration: l-ḥayati
   7:
-    arabic: الدُّنۡيَا
+    arabic: ٱلدُّنۡيَا
     translation: (of) the world
     transliteration: l-dun'yā
   8:
-    arabic: فَمَنۡ
+    arabic: فَمَن
     translation: but who
     transliteration: faman
   9:
-    arabic: يُّجَادِلُ
+    arabic: يُجَٰدِلُ
     translation: will argue
     transliteration: yujādilu
   10:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: (with) Allah
     transliteration: l-laha
   11:
@@ -55,19 +55,19 @@ word_by_word:
     translation: (on the) Day
     transliteration: yawma
   13:
-    arabic: الۡقِيٰمَةِ
+    arabic: ٱلۡقِيَٰمَةِ
     translation: (of) [the] Resurrection
     transliteration: l-qiyāmati
   14:
-    arabic: اَمۡ
+    arabic: أَم
     translation: or
     transliteration: am
   15:
-    arabic: مَّنۡ
+    arabic: مَّن
     translation: who
     transliteration: man
   16:
-    arabic: يَّكُوۡنُ
+    arabic: يَكُونُ
     translation: will be
     transliteration: yakūnu
   17:
@@ -75,7 +75,7 @@ word_by_word:
     translation: '[over them]'
     transliteration: ʿalayhim
   18:
-    arabic: "وَكِيۡلًا‏ \uFEFF\uFEFF"
+    arabic: وَكِيلٗا
     translation: (their) defender
     transliteration: wakīlan
 ---

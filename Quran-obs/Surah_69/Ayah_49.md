@@ -1,9 +1,9 @@
 ---
-arabic_ayat: وَاِنَّا لَنَعۡلَمُ اَنَّ مِنۡكُمۡ مُّكَذِّبِيۡنَ‏
+arabic_ayat: وَإِنَّا لَنَعۡلَمُ أَنَّ مِنكُم مُّكَذِّبِينَ
 sentence_translation: And We certainly know that some of you will persist in denial,
 word_by_word:
   1:
-    arabic: وَاِنَّا
+    arabic: وَإِنَّا
     translation: And indeed, We
     transliteration: wa-innā
   2:
@@ -11,15 +11,15 @@ word_by_word:
     translation: surely know
     transliteration: lanaʿlamu
   3:
-    arabic: اَنَّ
+    arabic: أَنَّ
     translation: that
     transliteration: anna
   4:
-    arabic: مِنۡكُمۡ
+    arabic: مِنكُم
     translation: among you
     transliteration: minkum
   5:
-    arabic: مُّكَذِّبِيۡنَ‏
+    arabic: مُّكَذِّبِينَ
     translation: (are) deniers
     transliteration: mukadhibīna
 ---

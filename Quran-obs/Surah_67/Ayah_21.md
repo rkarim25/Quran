@@ -1,19 +1,19 @@
 ---
-arabic_ayat: اَمَّنۡ هٰذَا الَّذِىۡ يَرۡزُقُكُمۡ اِنۡ اَمۡسَكَ رِزۡقَهٗ​ ۚ بَلۡ لَّجُّوۡا
-  فِىۡ عُتُوٍّ وَّنُفُوۡرٍ‏
+arabic_ayat: أَمَّنۡ هَٰذَا ٱلَّذِي يَرۡزُقُكُمۡ إِنۡ أَمۡسَكَ رِزۡقَهُۥۚ بَل لَّجُّواْ
+  فِي عُتُوّٖ وَنُفُورٍ
 sentence_translation: Or who is it that will provide for you if He withholds His provision?
   In fact, they persist in arrogance and aversion ˹to the truth˺.
 word_by_word:
   1:
-    arabic: اَمَّنۡ
+    arabic: أَمَّنۡ
     translation: Who is
     transliteration: amman
   2:
-    arabic: هٰذَا
+    arabic: هَٰذَا
     translation: this
     transliteration: hādhā
   3:
-    arabic: الَّذِىۡ
+    arabic: ٱلَّذِي
     translation: the one
     transliteration: alladhī
   4:
@@ -21,35 +21,35 @@ word_by_word:
     translation: to provide you
     transliteration: yarzuqukum
   5:
-    arabic: اِنۡ
+    arabic: إِنۡ
     translation: if
     transliteration: in
   6:
-    arabic: اَمۡسَكَ
+    arabic: أَمۡسَكَ
     translation: He withheld
     transliteration: amsaka
   7:
-    arabic: رِزۡقَهٗ​ ۚ
+    arabic: رِزۡقَهُۥۚ
     translation: His provision
     transliteration: riz'qahu
   8:
-    arabic: بَلۡ
+    arabic: بَل
     translation: Nay
     transliteration: bal
   9:
-    arabic: لَّجُّوۡا
+    arabic: لَّجُّواْ
     translation: they persist
     transliteration: lajjū
   10:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   11:
-    arabic: عُتُوٍّ
+    arabic: عُتُوّٖ
     translation: pride
     transliteration: ʿutuwwin
   12:
-    arabic: وَّنُفُوۡرٍ‏
+    arabic: وَنُفُورٍ
     translation: and aversion
     transliteration: wanufūrin
 ---

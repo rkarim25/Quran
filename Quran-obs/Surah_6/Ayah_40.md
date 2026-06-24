@@ -1,6 +1,6 @@
 ---
-arabic_ayat: قُلۡ اَرَءَيۡتَكُمۡ اِنۡ اَتٰٮكُمۡ عَذَابُ اللّٰهِ اَوۡ اَ تَتۡكُمُ السَّاعَةُ
-  اَغَيۡرَ اللّٰهِ تَدۡعُوۡنَ​ۚ اِنۡ كُنۡتُمۡ صٰدِقِيۡنَ‏
+arabic_ayat: قُلۡ أَرَءَيۡتَكُمۡ إِنۡ أَتَىٰكُمۡ عَذَابُ ٱللَّهِ أَوۡ أَتَتۡكُمُ ٱلسَّاعَةُ
+  أَغَيۡرَ ٱللَّهِ تَدۡعُونَ إِن كُنتُمۡ صَٰدِقِينَ
 sentence_translation: Ask ˹them, O  Prophet˺, “Imagine if you were overwhelmed by
   Allah’s torment or the Hour—would you call upon any other than Allah ˹for help˺?
   ˹Answer me˺ if your claims are true!
@@ -10,15 +10,15 @@ word_by_word:
     translation: Say
     transliteration: qul
   2:
-    arabic: اَرَءَيۡتَكُمۡ
+    arabic: أَرَءَيۡتَكُمۡ
     translation: Have you seen
     transliteration: ara-aytakum
   3:
-    arabic: اِنۡ
+    arabic: إِنۡ
     translation: if
     transliteration: in
   4:
-    arabic: اَتٰٮكُمۡ
+    arabic: أَتَىٰكُمۡ
     translation: (there) came to you
     transliteration: atākum
   5:
@@ -26,43 +26,43 @@ word_by_word:
     translation: punishment
     transliteration: ʿadhābu
   6:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (of) Allah
     transliteration: l-lahi
   7:
-    arabic: اَوۡ
+    arabic: أَوۡ
     translation: or
     transliteration: aw
   8:
-    arabic: اَ تَتۡكُمُ
+    arabic: أَتَتۡكُمُ
     translation: (there) came to you
     transliteration: atatkumu
   9:
-    arabic: السَّاعَةُ
+    arabic: ٱلسَّاعَةُ
     translation: 'the Hour '
     transliteration: l-sāʿatu
   10:
-    arabic: اَغَيۡرَ
+    arabic: أَغَيۡرَ
     translation: is it other
     transliteration: aghayra
   11:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (than) Allah
     transliteration: l-lahi
   12:
-    arabic: تَدۡعُوۡنَ​ۚ
+    arabic: تَدۡعُونَ
     translation: you call
     transliteration: tadʿūna
   13:
-    arabic: اِنۡ
+    arabic: إِن
     translation: if
     transliteration: in
   14:
-    arabic: كُنۡتُمۡ
+    arabic: كُنتُمۡ
     translation: you are
     transliteration: kuntum
   15:
-    arabic: صٰدِقِيۡنَ‏
+    arabic: صَٰدِقِينَ
     translation: truthful
     transliteration: ṣādiqīna
 ---

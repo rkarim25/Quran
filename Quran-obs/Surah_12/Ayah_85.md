@@ -1,19 +1,19 @@
 ---
-arabic_ayat: قَالُوۡا تَاللّٰهِ تَفۡتَؤُا تَذۡكُرُ يُوۡسُفَ حَتّٰى تَكُوۡنَ حَرَضًا
-  اَوۡ تَكُوۡنَ مِنَ الۡهَالِكِيۡنَ‏
+arabic_ayat: قَالُواْ تَٱللَّهِ تَفۡتَؤُاْ تَذۡكُرُ يُوسُفَ حَتَّىٰ تَكُونَ حَرَضًا
+  أَوۡ تَكُونَ مِنَ ٱلۡهَٰلِكِينَ
 sentence_translation: They said, “By Allah! You will not cease to remember Joseph
   until you lose your health or ˹even˺ your life.”
 word_by_word:
   1:
-    arabic: قَالُوۡا
+    arabic: قَالُواْ
     translation: They said
     transliteration: qālū
   2:
-    arabic: تَاللّٰهِ
+    arabic: تَٱللَّهِ
     translation: By Allah
     transliteration: tal-lahi
   3:
-    arabic: تَفۡتَؤُا
+    arabic: تَفۡتَؤُاْ
     translation: you will not cease
     transliteration: tafta-u
   4:
@@ -21,15 +21,15 @@ word_by_word:
     translation: remembering
     transliteration: tadhkuru
   5:
-    arabic: يُوۡسُفَ
+    arabic: يُوسُفَ
     translation: Yusuf
     transliteration: yūsufa
   6:
-    arabic: حَتّٰى
+    arabic: حَتَّىٰ
     translation: until
     transliteration: ḥattā
   7:
-    arabic: تَكُوۡنَ
+    arabic: تَكُونَ
     translation: you become
     transliteration: takūna
   8:
@@ -37,11 +37,11 @@ word_by_word:
     translation: fatally ill
     transliteration: ḥaraḍan
   9:
-    arabic: اَوۡ
+    arabic: أَوۡ
     translation: or
     transliteration: aw
   10:
-    arabic: تَكُوۡنَ
+    arabic: تَكُونَ
     translation: become
     transliteration: takūna
   11:
@@ -49,7 +49,7 @@ word_by_word:
     translation: of
     transliteration: mina
   12:
-    arabic: الۡهَالِكِيۡنَ‏
+    arabic: ٱلۡهَٰلِكِينَ
     translation: those who perish
     transliteration: l-hālikīna
 ---

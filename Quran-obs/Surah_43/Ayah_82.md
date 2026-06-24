@@ -1,11 +1,10 @@
 ---
-arabic_ayat: "سُبۡحٰنَ رَبِّ السَّمٰوٰتِ وَالۡاَرۡضِ رَبِّ الۡعَرۡشِ عَمَّا يَصِفُوۡنَ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: سُبۡحَٰنَ رَبِّ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِ رَبِّ ٱلۡعَرۡشِ عَمَّا يَصِفُونَ
 sentence_translation: Glorified is the Lord of the heavens and the earth, the Lord
   of the Throne, far above what they claim.
 word_by_word:
   1:
-    arabic: سُبۡحٰنَ
+    arabic: سُبۡحَٰنَ
     translation: Glory be
     transliteration: sub'ḥāna
   2:
@@ -13,11 +12,11 @@ word_by_word:
     translation: (to the) Lord
     transliteration: rabbi
   3:
-    arabic: السَّمٰوٰتِ
+    arabic: ٱلسَّمَٰوَٰتِ
     translation: (of) the heavens
     transliteration: l-samāwāti
   4:
-    arabic: وَالۡاَرۡضِ
+    arabic: وَٱلۡأَرۡضِ
     translation: and the earth
     transliteration: wal-arḍi
   5:
@@ -25,7 +24,7 @@ word_by_word:
     translation: (the) Lord
     transliteration: rabbi
   6:
-    arabic: الۡعَرۡشِ
+    arabic: ٱلۡعَرۡشِ
     translation: (of) the Throne
     transliteration: l-ʿarshi
   7:
@@ -33,7 +32,7 @@ word_by_word:
     translation: above what
     transliteration: ʿammā
   8:
-    arabic: "يَصِفُوۡنَ‏ \uFEFF\uFEFF"
+    arabic: يَصِفُونَ
     translation: they ascribe
     transliteration: yaṣifūna
 ---

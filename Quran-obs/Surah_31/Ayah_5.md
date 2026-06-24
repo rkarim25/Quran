@@ -1,31 +1,30 @@
 ---
-arabic_ayat: "اُولٰٓٮِٕكَ عَلٰى هُدًى مِّنۡ رَّبِّهِمۡ​ وَاُولٰٓٮِٕكَ هُمُ الۡمُفۡلِحُوۡنَ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: أُوْلَٰٓئِكَ عَلَىٰ هُدٗى مِّن رَّبِّهِمۡۖ وَأُوْلَٰٓئِكَ هُمُ ٱلۡمُفۡلِحُونَ
 sentence_translation: It is they who are ˹truly˺ guided by their Lord, and it is they
   who will be successful.         
 word_by_word:
   1:
-    arabic: اُولٰٓٮِٕكَ
+    arabic: أُوْلَٰٓئِكَ
     translation: Those
     transliteration: ulāika
   2:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: (are) on
     transliteration: ʿalā
   3:
-    arabic: هُدًى
+    arabic: هُدٗى
     translation: guidance
     transliteration: hudan
   4:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: from
     transliteration: min
   5:
-    arabic: رَّبِّهِمۡ​
+    arabic: رَّبِّهِمۡۖ
     translation: their Lord
     transliteration: rabbihim
   6:
-    arabic: وَاُولٰٓٮِٕكَ
+    arabic: وَأُوْلَٰٓئِكَ
     translation: and those
     transliteration: wa-ulāika
   7:
@@ -33,7 +32,7 @@ word_by_word:
     translation: '[they]'
     transliteration: humu
   8:
-    arabic: "الۡمُفۡلِحُوۡنَ‏ \uFEFF\uFEFF"
+    arabic: ٱلۡمُفۡلِحُونَ
     translation: (are) the successful
     transliteration: l-muf'liḥūna
 ---

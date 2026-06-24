@@ -1,6 +1,5 @@
 ---
-arabic_ayat: "وَيُطَافُ عَلَيۡهِمۡ بِاٰنِيَةٍ مِّنۡ فِضَّةٍ وَّاَكۡوَابٍ كَانَتۡ قَوَارِيۡرَا۟ ۙ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: وَيُطَافُ عَلَيۡهِم بِـَٔانِيَةٖ مِّن فِضَّةٖ وَأَكۡوَابٖ كَانَتۡ قَوَارِيرَا۠
 sentence_translation: They will be waited on with silver vessels and cups of crystal—
 word_by_word:
   1:
@@ -8,23 +7,23 @@ word_by_word:
     translation: And will be circulated
     transliteration: wayuṭāfu
   2:
-    arabic: عَلَيۡهِمۡ
+    arabic: عَلَيۡهِم
     translation: among them
     transliteration: ʿalayhim
   3:
-    arabic: بِاٰنِيَةٍ
+    arabic: بِـَٔانِيَةٖ
     translation: vessels
     transliteration: biāniyatin
   4:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: of
     transliteration: min
   5:
-    arabic: فِضَّةٍ
+    arabic: فِضَّةٖ
     translation: silver
     transliteration: fiḍḍatin
   6:
-    arabic: وَّاَكۡوَابٍ
+    arabic: وَأَكۡوَابٖ
     translation: and cups
     transliteration: wa-akwābin
   7:
@@ -32,7 +31,7 @@ word_by_word:
     translation: (that) are
     transliteration: kānat
   8:
-    arabic: "قَوَارِيۡرَا۟ ۙ‏ \uFEFF\uFEFF"
+    arabic: قَوَارِيرَا۠
     translation: (of) crystal
     transliteration: qawārīrā
 ---

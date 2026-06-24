@@ -1,31 +1,30 @@
 ---
-arabic_ayat: ثَمٰنِيَةَ اَزۡوَاجٍ​ ۚ مِنَ الضَّاۡنِ اثۡنَيۡنِ وَمِنَ الۡمَعۡزِ اثۡنَيۡنِ​
-  ؕ قُلۡ ءٰٓالذَّكَرَيۡنِ حَرَّمَ اَمِ الۡاُنۡثَيَيۡنِ اَمَّا اشۡتَمَلَتۡ عَلَيۡهِ
-  اَرۡحَامُ الۡاُنۡثَيَيۡنِ​ ؕ نَـبِّــُٔــوۡنِىۡ بِعِلۡمٍ اِنۡ كُنۡتُمۡ صٰدِقِيۡنَ
-  ۙ‏
+arabic_ayat: ثَمَٰنِيَةَ أَزۡوَٰجٖۖ مِّنَ ٱلضَّأۡنِ ٱثۡنَيۡنِ وَمِنَ ٱلۡمَعۡزِ ٱثۡنَيۡنِۗ
+  قُلۡ ءَآلذَّكَرَيۡنِ حَرَّمَ أَمِ ٱلۡأُنثَيَيۡنِ أَمَّا ٱشۡتَمَلَتۡ عَلَيۡهِ أَرۡحَامُ
+  ٱلۡأُنثَيَيۡنِۖ نَبِّـُٔونِي بِعِلۡمٍ إِن كُنتُمۡ صَٰدِقِينَ
 sentence_translation: '˹Allah has created˺ four pairs: a pair of sheep and a pair
   of goats—ask ˹them, O  Prophet˺, “Has He forbidden ˹to you˺ the two males or the
   two females or what is in the wombs of the two females? Tell me with knowledge,
   if what you say is true.”—'
 word_by_word:
   1:
-    arabic: ثَمٰنِيَةَ
+    arabic: ثَمَٰنِيَةَ
     translation: Eight
     transliteration: thamāniyata
   2:
-    arabic: اَزۡوَاجٍ​ ۚ
+    arabic: أَزۡوَٰجٖۖ
     translation: 'pairs '
     transliteration: azwājin
   3:
-    arabic: مِنَ
+    arabic: مِّنَ
     translation: of
     transliteration: mina
   4:
-    arabic: الضَّاۡنِ
+    arabic: ٱلضَّأۡنِ
     translation: the sheep
     transliteration: l-ḍani
   5:
-    arabic: اثۡنَيۡنِ
+    arabic: ٱثۡنَيۡنِ
     translation: two
     transliteration: ith'nayni
   6:
@@ -33,11 +32,11 @@ word_by_word:
     translation: and of
     transliteration: wamina
   7:
-    arabic: الۡمَعۡزِ
+    arabic: ٱلۡمَعۡزِ
     translation: the goats
     transliteration: l-maʿzi
   8:
-    arabic: اثۡنَيۡنِ​ ؕ
+    arabic: ٱثۡنَيۡنِۗ
     translation: two
     transliteration: ith'nayni
   9:
@@ -45,7 +44,7 @@ word_by_word:
     translation: Say
     transliteration: qul
   10:
-    arabic: ءٰٓالذَّكَرَيۡنِ
+    arabic: ءَآلذَّكَرَيۡنِ
     translation: (Are) the two males
     transliteration: āldhakarayni
   11:
@@ -53,19 +52,19 @@ word_by_word:
     translation: He has forbidden
     transliteration: ḥarrama
   12:
-    arabic: اَمِ
+    arabic: أَمِ
     translation: or
     transliteration: ami
   13:
-    arabic: الۡاُنۡثَيَيۡنِ
+    arabic: ٱلۡأُنثَيَيۡنِ
     translation: the two females
     transliteration: l-unthayayni
   14:
-    arabic: اَمَّا
+    arabic: أَمَّا
     translation: or what
     transliteration: ammā
   15:
-    arabic: اشۡتَمَلَتۡ
+    arabic: ٱشۡتَمَلَتۡ
     translation: contains
     transliteration: ish'tamalat
   16:
@@ -73,15 +72,15 @@ word_by_word:
     translation: '[in it]'
     transliteration: ʿalayhi
   17:
-    arabic: اَرۡحَامُ
+    arabic: أَرۡحَامُ
     translation: (the) wombs
     transliteration: arḥāmu
   18:
-    arabic: الۡاُنۡثَيَيۡنِ​ ؕ
+    arabic: ٱلۡأُنثَيَيۡنِۖ
     translation: (of) the two females
     transliteration: l-unthayayni
   19:
-    arabic: نَـبِّــُٔــوۡنِىۡ
+    arabic: نَبِّـُٔونِي
     translation: Inform me
     transliteration: nabbiūnī
   20:
@@ -89,15 +88,15 @@ word_by_word:
     translation: with knowledge
     transliteration: biʿil'min
   21:
-    arabic: اِنۡ
+    arabic: إِن
     translation: if
     transliteration: in
   22:
-    arabic: كُنۡتُمۡ
+    arabic: كُنتُمۡ
     translation: you are
     transliteration: kuntum
   23:
-    arabic: صٰدِقِيۡنَ ۙ‏
+    arabic: صَٰدِقِينَ
     translation: truthful
     transliteration: ṣādiqīna
 ---

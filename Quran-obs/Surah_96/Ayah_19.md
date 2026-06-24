@@ -1,10 +1,10 @@
 ---
-arabic_ayat: كَلَّا ؕ لَا تُطِعۡهُ وَاسۡجُدۡ وَاقۡتَرِبْ۩‏
+arabic_ayat: كـَلَّا لَا تُطِعۡهُ وَٱسۡجُدۡۤ وَٱقۡتَرِب۩
 sentence_translation: Again, no! Never obey him ˹O Prophet˺! Rather, ˹continue to˺
   prostrate and draw near ˹to Allah˺.
 word_by_word:
   1:
-    arabic: كَلَّاؕ
+    arabic: كـَلَّا
     translation: Nay
     transliteration: kallā
   2:
@@ -16,11 +16,11 @@ word_by_word:
     translation: obey him
     transliteration: tuṭiʿ'hu
   4:
-    arabic: وَاسۡجُدۡ
+    arabic: وَٱسۡجُدۡۤ
     translation: But prostrate
     transliteration: wa-us'jud
   5:
-    arabic: وَاقۡتَرِبْ
+    arabic: وَٱقۡتَرِب۩
     translation: and draw near (to Allah)
     transliteration: wa-iq'tarib
 ---

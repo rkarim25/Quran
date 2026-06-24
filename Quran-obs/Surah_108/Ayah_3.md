@@ -1,9 +1,9 @@
 ---
-arabic_ayat: اِنَّ شَانِئَكَ هُوَ الۡاَبۡتَرُ‏
+arabic_ayat: إِنَّ شَانِئَكَ هُوَ ٱلۡأَبۡتَرُ
 sentence_translation: Only the one who hates you is truly cut off ˹from any goodness˺.
 word_by_word:
   1:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   2:
@@ -15,7 +15,7 @@ word_by_word:
     translation: he (is)
     transliteration: huwa
   4:
-    arabic: الۡاَبۡتَرُ‏
+    arabic: ٱلۡأَبۡتَرُ
     translation: the one cut off
     transliteration: l-abtaru
 ---

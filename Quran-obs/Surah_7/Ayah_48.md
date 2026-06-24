@@ -1,48 +1,48 @@
 ---
-arabic_ayat: وَنَادٰٓى اَصۡحٰبُ الۡاَعۡرَافِ رِجَالًا يَّعۡرِفُوۡنَهُمۡ بِسِيۡمٰٮهُمۡ
-  قَالُوۡا مَاۤ اَغۡنٰى عَنۡكُمۡ جَمۡعُكُمۡ وَمَا كُنۡتُمۡ تَسۡتَكۡبِرُوۡنَ‏
+arabic_ayat: وَنَادَىٰٓ أَصۡحَٰبُ ٱلۡأَعۡرَافِ رِجَالٗا يَعۡرِفُونَهُم بِسِيمَىٰهُمۡ
+  قَالُواْ مَآ أَغۡنَىٰ عَنكُمۡ جَمۡعُكُمۡ وَمَا كُنتُمۡ تَسۡتَكۡبِرُونَ
 sentence_translation: Those on the heights will call out to some ˹tyrants in the Fire˺,
   who they will recognize by their appearance, saying, “Your large numbers and arrogance
   are of no use ˹today˺!
 word_by_word:
   1:
-    arabic: وَنَادٰٓى
+    arabic: وَنَادَىٰٓ
     translation: And (will) call out
     transliteration: wanādā
   2:
-    arabic: اَصۡحٰبُ
+    arabic: أَصۡحَٰبُ
     translation: (the) companions
     transliteration: aṣḥābu
   3:
-    arabic: الۡاَعۡرَافِ
+    arabic: ٱلۡأَعۡرَافِ
     translation: (of) the heights
     transliteration: l-aʿrāfi
   4:
-    arabic: رِجَالًا
+    arabic: رِجَالٗا
     translation: (to) men
     transliteration: rijālan
   5:
-    arabic: يَّعۡرِفُوۡنَهُمۡ
+    arabic: يَعۡرِفُونَهُم
     translation: whom they recognize
     transliteration: yaʿrifūnahum
   6:
-    arabic: بِسِيۡمٰٮهُمۡ
+    arabic: بِسِيمَىٰهُمۡ
     translation: by their marks
     transliteration: bisīmāhum
   7:
-    arabic: قَالُوۡا
+    arabic: قَالُواْ
     translation: saying
     transliteration: qālū
   8:
-    arabic: مَاۤ
+    arabic: مَآ
     translation: Not
     transliteration: mā
   9:
-    arabic: اَغۡنٰى
+    arabic: أَغۡنَىٰ
     translation: (has) availed
     transliteration: aghnā
   10:
-    arabic: عَنۡكُمۡ
+    arabic: عَنكُمۡ
     translation: '[to] you'
     transliteration: ʿankum
   11:
@@ -54,11 +54,11 @@ word_by_word:
     translation: and what
     transliteration: wamā
   13:
-    arabic: كُنۡتُمۡ
+    arabic: كُنتُمۡ
     translation: you were
     transliteration: kuntum
   14:
-    arabic: تَسۡتَكۡبِرُوۡنَ‏
+    arabic: تَسۡتَكۡبِرُونَ
     translation: arrogant (about)
     transliteration: tastakbirūna
 ---

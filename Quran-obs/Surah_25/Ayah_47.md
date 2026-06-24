@@ -1,6 +1,6 @@
 ---
-arabic_ayat: وَهُوَ الَّذِىۡ جَعَلَ لَـكُمُ الَّيۡلَ لِبَاسًا وَّالنَّوۡمَ سُبَاتًا
-  وَّجَعَلَ النَّهَارَ نُشُوۡرًا‏
+arabic_ayat: وَهُوَ ٱلَّذِي جَعَلَ لَكُمُ ٱلَّيۡلَ لِبَاسٗا وَٱلنَّوۡمَ سُبَاتٗا وَجَعَلَ
+  ٱلنَّهَارَ نُشُورٗا
 sentence_translation: He is the One Who has made the night for you as a cover, and
   ˹made˺ sleep for resting, and the day for rising.
 word_by_word:
@@ -9,7 +9,7 @@ word_by_word:
     translation: And He
     transliteration: wahuwa
   2:
-    arabic: الَّذِىۡ
+    arabic: ٱلَّذِي
     translation: (is) the One Who
     transliteration: alladhī
   3:
@@ -17,35 +17,35 @@ word_by_word:
     translation: made
     transliteration: jaʿala
   4:
-    arabic: لَـكُمُ
+    arabic: لَكُمُ
     translation: for you
     transliteration: lakumu
   5:
-    arabic: الَّيۡلَ
+    arabic: ٱلَّيۡلَ
     translation: the night
     transliteration: al-layla
   6:
-    arabic: لِبَاسًا
+    arabic: لِبَاسٗا
     translation: (as) a covering
     transliteration: libāsan
   7:
-    arabic: وَّالنَّوۡمَ
+    arabic: وَٱلنَّوۡمَ
     translation: and the sleep
     transliteration: wal-nawma
   8:
-    arabic: سُبَاتًا
+    arabic: سُبَاتٗا
     translation: a rest
     transliteration: subātan
   9:
-    arabic: وَّجَعَلَ
+    arabic: وَجَعَلَ
     translation: and made
     transliteration: wajaʿala
   10:
-    arabic: النَّهَارَ
+    arabic: ٱلنَّهَارَ
     translation: the day
     transliteration: l-nahāra
   11:
-    arabic: نُشُوۡرًا‏
+    arabic: نُشُورٗا
     translation: a resurrection
     transliteration: nushūran
 ---

@@ -1,5 +1,5 @@
 ---
-arabic_ayat: وَمَا هُمۡ عَنۡهَا بِغَآٮِٕبِيۡنَؕ‏
+arabic_ayat: وَمَا هُمۡ عَنۡهَا بِغَآئِبِينَ
 sentence_translation: and they will have no escape from it.
 word_by_word:
   1:
@@ -15,7 +15,7 @@ word_by_word:
     translation: from it
     transliteration: ʿanhā
   4:
-    arabic: بِغَآٮِٕبِيۡنَؕ‏
+    arabic: بِغَآئِبِينَ
     translation: (will be) absent
     transliteration: bighāibīna
 ---

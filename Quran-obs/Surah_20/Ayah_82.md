@@ -1,19 +1,18 @@
 ---
-arabic_ayat: "وَاِنِّىۡ لَـغَفَّارٌ لِّمَنۡ تَابَ وَاٰمَنَ وَعَمِلَ صَالِحًـا ثُمَّ\
-  \ اهۡتَدٰى‏ \uFEFF\uFEFF"
+arabic_ayat: وَإِنِّي لَغَفَّارٞ لِّمَن تَابَ وَءَامَنَ وَعَمِلَ صَٰلِحٗا ثُمَّ ٱهۡتَدَىٰ
 sentence_translation: But I am truly Most Forgiving to whoever repents, believes,
   and does good, then persists on ˹true˺ guidance.”
 word_by_word:
   1:
-    arabic: وَاِنِّىۡ
+    arabic: وَإِنِّي
     translation: But indeed, I Am
     transliteration: wa-innī
   2:
-    arabic: لَـغَفَّارٌ
+    arabic: لَغَفَّارٞ
     translation: the Perpetual Forgiver
     transliteration: laghaffārun
   3:
-    arabic: لِّمَنۡ
+    arabic: لِّمَن
     translation: of whoever
     transliteration: liman
   4:
@@ -21,7 +20,7 @@ word_by_word:
     translation: repents
     transliteration: tāba
   5:
-    arabic: وَاٰمَنَ
+    arabic: وَءَامَنَ
     translation: and believes
     transliteration: waāmana
   6:
@@ -29,7 +28,7 @@ word_by_word:
     translation: and does
     transliteration: waʿamila
   7:
-    arabic: صَالِحًـا
+    arabic: صَٰلِحٗا
     translation: righteous (deeds)
     transliteration: ṣāliḥan
   8:
@@ -37,7 +36,7 @@ word_by_word:
     translation: then
     transliteration: thumma
   9:
-    arabic: "اهۡتَدٰى‏ \uFEFF\uFEFF"
+    arabic: ٱهۡتَدَىٰ
     translation: remains guided
     transliteration: ih'tadā
 ---

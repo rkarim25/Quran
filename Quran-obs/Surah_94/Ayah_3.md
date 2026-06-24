@@ -1,17 +1,17 @@
 ---
-arabic_ayat: الَّذِىۡۤ اَنۡقَضَ ظَهۡرَكَۙ‏
+arabic_ayat: ٱلَّذِيٓ أَنقَضَ ظَهۡرَكَ
 sentence_translation: which weighed so heavily on your back,
 word_by_word:
   1:
-    arabic: الَّذِىۡۤ
+    arabic: ٱلَّذِيٓ
     translation: Which
     transliteration: alladhī
   2:
-    arabic: اَنۡقَضَ
+    arabic: أَنقَضَ
     translation: weighed upon
     transliteration: anqaḍa
   3:
-    arabic: ظَهۡرَكَۙ‏
+    arabic: ظَهۡرَكَ
     translation: your back
     transliteration: ẓahraka
 ---

@@ -1,5 +1,5 @@
 ---
-arabic_ayat: قَالَ هَلۡ اَنۡتُمۡ مُّطَّلِعُوۡنَ‏
+arabic_ayat: قَالَ هَلۡ أَنتُم مُّطَّلِعُونَ
 sentence_translation: He will ˹then˺ ask, “Would you care to see ˹his fate˺?”
 word_by_word:
   1:
@@ -11,11 +11,11 @@ word_by_word:
     translation: Will
     transliteration: hal
   3:
-    arabic: اَنۡتُمۡ
+    arabic: أَنتُم
     translation: you
     transliteration: antum
   4:
-    arabic: مُّطَّلِعُوۡنَ‏
+    arabic: مُّطَّلِعُونَ
     translation: be looking
     transliteration: muṭṭaliʿūna
 ---

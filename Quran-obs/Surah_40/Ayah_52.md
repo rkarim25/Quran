@@ -1,6 +1,6 @@
 ---
-arabic_ayat: يَوۡمَ لَا يَنۡفَعُ الظّٰلِمِيۡنَ مَعۡذِرَتُهُمۡ وَلَهُمُ اللَّعۡنَةُ
-  وَلَهُمۡ سُوۡٓءُ الدَّارِ‏
+arabic_ayat: يَوۡمَ لَا يَنفَعُ ٱلظَّٰلِمِينَ مَعۡذِرَتُهُمۡۖ وَلَهُمُ ٱللَّعۡنَةُ
+  وَلَهُمۡ سُوٓءُ ٱلدَّارِ
 sentence_translation: the Day the wrongdoers’ excuses will be of no benefit to them.
   They will be condemned, and will have the worst outcome. 
 word_by_word:
@@ -13,15 +13,15 @@ word_by_word:
     translation: not
     transliteration: lā
   3:
-    arabic: يَنۡفَعُ
+    arabic: يَنفَعُ
     translation: will benefit
     transliteration: yanfaʿu
   4:
-    arabic: الظّٰلِمِيۡنَ
+    arabic: ٱلظَّٰلِمِينَ
     translation: the wrongdoers
     transliteration: l-ẓālimīna
   5:
-    arabic: مَعۡذِرَتُهُمۡ
+    arabic: مَعۡذِرَتُهُمۡۖ
     translation: their excuse
     transliteration: maʿdhiratuhum
   6:
@@ -29,7 +29,7 @@ word_by_word:
     translation: and for them
     transliteration: walahumu
   7:
-    arabic: اللَّعۡنَةُ
+    arabic: ٱللَّعۡنَةُ
     translation: (is) the curse
     transliteration: l-laʿnatu
   8:
@@ -37,11 +37,11 @@ word_by_word:
     translation: and for them
     transliteration: walahum
   9:
-    arabic: سُوۡٓءُ
+    arabic: سُوٓءُ
     translation: (is the) worst
     transliteration: sūu
   10:
-    arabic: الدَّارِ‏
+    arabic: ٱلدَّارِ
     translation: home
     transliteration: l-dāri
 ---

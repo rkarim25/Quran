@@ -1,6 +1,6 @@
 ---
-arabic_ayat: بَلۡ قَالُوۡۤا اَضۡغَاثُ اَحۡلَامٍۢ بَلِ افۡتَـرٰٮهُ بَلۡ هُوَ شَاعِرٌ
-  ​ ۖۚ فَلۡيَاۡتِنَا بِاٰيَةٍ كَمَاۤ اُرۡسِلَ الۡاَوَّلُوۡنَ‏
+arabic_ayat: بَلۡ قَالُوٓاْ أَضۡغَٰثُ أَحۡلَٰمِۭ بَلِ ٱفۡتَرَىٰهُ بَلۡ هُوَ شَاعِرٞ
+  فَلۡيَأۡتِنَا بِـَٔايَةٖ كَمَآ أُرۡسِلَ ٱلۡأَوَّلُونَ
 sentence_translation: Yet they say, “This ˹Quran˺ is a set of confused dreams! No,
   he has fabricated it! No, he must be a poet! So let him bring us a ˹tangible˺ sign
   like those ˹prophets˺ sent before.”
@@ -10,15 +10,15 @@ word_by_word:
     translation: Nay
     transliteration: bal
   2:
-    arabic: قَالُوۡۤا
+    arabic: قَالُوٓاْ
     translation: they say
     transliteration: qālū
   3:
-    arabic: اَضۡغَاثُ
+    arabic: أَضۡغَٰثُ
     translation: Muddled
     transliteration: aḍghāthu
   4:
-    arabic: اَحۡلَامٍۢ
+    arabic: أَحۡلَٰمِۭ
     translation: dreams
     transliteration: aḥlāmin
   5:
@@ -26,7 +26,7 @@ word_by_word:
     translation: nay
     transliteration: bali
   6:
-    arabic: افۡتَـرٰٮهُ
+    arabic: ٱفۡتَرَىٰهُ
     translation: he (has) invented it
     transliteration: if'tarāhu
   7:
@@ -38,27 +38,27 @@ word_by_word:
     translation: he
     transliteration: huwa
   9:
-    arabic: شَاعِرٌ ​ ۖۚ
+    arabic: شَاعِرٞ
     translation: (is) a poet
     transliteration: shāʿirun
   10:
-    arabic: فَلۡيَاۡتِنَا
+    arabic: فَلۡيَأۡتِنَا
     translation: So let him bring us
     transliteration: falyatinā
   11:
-    arabic: بِاٰيَةٍ
+    arabic: بِـَٔايَةٖ
     translation: a sign
     transliteration: biāyatin
   12:
-    arabic: كَمَاۤ
+    arabic: كَمَآ
     translation: like what
     transliteration: kamā
   13:
-    arabic: اُرۡسِلَ
+    arabic: أُرۡسِلَ
     translation: was sent
     transliteration: ur'sila
   14:
-    arabic: الۡاَوَّلُوۡنَ‏
+    arabic: ٱلۡأَوَّلُونَ
     translation: (to) the former
     transliteration: l-awalūna
 ---

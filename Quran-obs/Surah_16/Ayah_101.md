@@ -1,36 +1,36 @@
 ---
-arabic_ayat: وَاِذَا بَدَّلۡنَاۤ اٰيَةً مَّكَانَ اٰيَةٍ​ۙ وَّ اللّٰهُ اَعۡلَمُ بِمَا
-  يُنَزِّلُ قَالُوۡۤا اِنَّمَاۤ اَنۡتَ مُفۡتَرٍؕ بَلۡ اَكۡثَرُهُمۡ لَا يَعۡلَمُوۡنَ‏
+arabic_ayat: وَإِذَا بَدَّلۡنَآ ءَايَةٗ مَّكَانَ ءَايَةٖ وَٱللَّهُ أَعۡلَمُ بِمَا
+  يُنَزِّلُ قَالُوٓاْ إِنَّمَآ أَنتَ مُفۡتَرِۭۚ بَلۡ أَكۡثَرُهُمۡ لَا يَعۡلَمُونَ
 sentence_translation: When We replace a verse with another—and Allah knows best what
   He reveals—they say, “You ˹Muḥammad˺ are just a fabricator.” In fact, most of them
   do not know.
 word_by_word:
   1:
-    arabic: وَاِذَا
+    arabic: وَإِذَا
     translation: And when
     transliteration: wa-idhā
   2:
-    arabic: بَدَّلۡنَاۤ
+    arabic: بَدَّلۡنَآ ءَ
     translation: We substitute
     transliteration: baddalnā
   3:
-    arabic: اٰيَةً
+    arabic: ايَةٗ
     translation: a Verse
     transliteration: āyatan
   4:
-    arabic: مَّكَانَ
+    arabic: مَّكَانَ ءَ
     translation: (in) place
     transliteration: makāna
   5:
-    arabic: اٰيَةٍ​ۙ
+    arabic: ايَةٖ
     translation: (of) a Verse
     transliteration: āyatin
   6:
-    arabic: وَّ اللّٰهُ
+    arabic: وَٱللَّهُ
     translation: 'and Allah '
     transliteration: wal-lahu
   7:
-    arabic: اَعۡلَمُ
+    arabic: أَعۡلَمُ
     translation: (is) most knowing
     transliteration: aʿlamu
   8:
@@ -42,19 +42,19 @@ word_by_word:
     translation: He sends down
     transliteration: yunazzilu
   10:
-    arabic: قَالُوۡۤا
+    arabic: قَالُوٓاْ
     translation: they say
     transliteration: qālū
   11:
-    arabic: اِنَّمَاۤ
+    arabic: إِنَّمَآ
     translation: Only
     transliteration: innamā
   12:
-    arabic: اَنۡتَ
+    arabic: أَنتَ
     translation: you
     transliteration: anta
   13:
-    arabic: مُفۡتَرٍؕ
+    arabic: مُفۡتَرِۭۚ
     translation: (are) an inventor
     transliteration: muf'tarin
   14:
@@ -62,7 +62,7 @@ word_by_word:
     translation: Nay
     transliteration: bal
   15:
-    arabic: اَكۡثَرُهُمۡ
+    arabic: أَكۡثَرُهُمۡ
     translation: most of them
     transliteration: aktharuhum
   16:
@@ -70,7 +70,7 @@ word_by_word:
     translation: (do) not
     transliteration: lā
   17:
-    arabic: يَعۡلَمُوۡنَ‏
+    arabic: يَعۡلَمُونَ
     translation: know
     transliteration: yaʿlamūna
 ---

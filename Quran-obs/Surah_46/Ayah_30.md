@@ -1,21 +1,21 @@
 ---
-arabic_ayat: "قَالُوۡا يٰقَوۡمَنَاۤ اِنَّا سَمِعۡنَا كِتٰبًا اُنۡزِلَ مِنۡۢ بَعۡدِ\
-  \ مُوۡسٰى مُصَدِّقًا لِّمَا بَيۡنَ يَدَيۡهِ يَهۡدِىۡۤ اِلَى الۡحَقِّ وَاِلٰى طَرِيۡقٍ\
-  \ مُّسۡتَقِيۡمٍ‏ \uFEFF\uFEFF"
+arabic_ayat: قَالُواْ يَٰقَوۡمَنَآ إِنَّا سَمِعۡنَا كِتَٰبًا أُنزِلَ مِنۢ بَعۡدِ
+  مُوسَىٰ مُصَدِّقٗا لِّمَا بَيۡنَ يَدَيۡهِ يَهۡدِيٓ إِلَى ٱلۡحَقِّ وَإِلَىٰ طَرِيقٖ
+  مُّسۡتَقِيمٖ
 sentence_translation: They declared, “O our fellow jinn! We have truly heard a scripture
   revealed after Moses, confirming what came before it. It guides to the truth and
   the Straight Way.
 word_by_word:
   1:
-    arabic: قَالُوۡا
+    arabic: قَالُواْ
     translation: They said
     transliteration: qālū
   2:
-    arabic: يٰقَوۡمَنَاۤ
+    arabic: يَٰقَوۡمَنَآ
     translation: O our people
     transliteration: yāqawmanā
   3:
-    arabic: اِنَّا
+    arabic: إِنَّا
     translation: Indeed, we
     transliteration: innā
   4:
@@ -23,15 +23,15 @@ word_by_word:
     translation: '[we] have heard'
     transliteration: samiʿ'nā
   5:
-    arabic: كِتٰبًا
+    arabic: كِتَٰبًا
     translation: a Book
     transliteration: kitāban
   6:
-    arabic: اُنۡزِلَ
+    arabic: أُنزِلَ
     translation: revealed
     transliteration: unzila
   7:
-    arabic: مِنۡۢ
+    arabic: مِنۢ
     translation: after
     transliteration: min
   8:
@@ -39,11 +39,11 @@ word_by_word:
     translation: after
     transliteration: baʿdi
   9:
-    arabic: مُوۡسٰى
+    arabic: مُوسَىٰ
     translation: Musa
     transliteration: mūsā
   10:
-    arabic: مُصَدِّقًا
+    arabic: مُصَدِّقٗا
     translation: confirming
     transliteration: muṣaddiqan
   11:
@@ -59,27 +59,27 @@ word_by_word:
     translation: (was) before it
     transliteration: yadayhi
   14:
-    arabic: يَهۡدِىۡۤ
+    arabic: يَهۡدِيٓ
     translation: guiding
     transliteration: yahdī
   15:
-    arabic: اِلَى
+    arabic: إِلَى
     translation: to
     transliteration: ilā
   16:
-    arabic: الۡحَقِّ
+    arabic: ٱلۡحَقِّ
     translation: the truth
     transliteration: l-ḥaqi
   17:
-    arabic: وَاِلٰى
+    arabic: وَإِلَىٰ
     translation: and to
     transliteration: wa-ilā
   18:
-    arabic: طَرِيۡقٍ
+    arabic: طَرِيقٖ
     translation: a Path
     transliteration: ṭarīqin
   19:
-    arabic: "مُّسۡتَقِيۡمٍ‏ \uFEFF\uFEFF"
+    arabic: مُّسۡتَقِيمٖ
     translation: Straight
     transliteration: mus'taqīmin
 ---

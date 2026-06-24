@@ -1,15 +1,15 @@
 ---
-arabic_ayat: قَالُوۡا سُبۡحٰنَكَ لَا عِلۡمَ لَنَآ اِلَّا مَا عَلَّمۡتَنَا ؕ اِنَّكَ
-  اَنۡتَ الۡعَلِيۡمُ الۡحَكِيۡمُ‏
+arabic_ayat: قَالُواْ سُبۡحَٰنَكَ لَا عِلۡمَ لَنَآ إِلَّا مَا عَلَّمۡتَنَآۖ إِنَّكَ
+  أَنتَ ٱلۡعَلِيمُ ٱلۡحَكِيمُ
 sentence_translation: They replied, “Glory be to You! We have no knowledge except
   what You have taught us. You are truly the All-Knowing, All-Wise.”
 word_by_word:
   1:
-    arabic: قَالُوۡا
+    arabic: قَالُواْ
     translation: They said
     transliteration: qālū
   2:
-    arabic: سُبۡحٰنَكَ
+    arabic: سُبۡحَٰنَكَ
     translation: Glory be to You
     transliteration: sub'ḥānaka
   3:
@@ -25,7 +25,7 @@ word_by_word:
     translation: (is) for us
     transliteration: lanā
   6:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   7:
@@ -33,23 +33,23 @@ word_by_word:
     translation: what
     transliteration: mā
   8:
-    arabic: عَلَّمۡتَنَا ؕ
+    arabic: عَلَّمۡتَنَآۖ
     translation: You have taught us
     transliteration: ʿallamtanā
   9:
-    arabic: اِنَّكَ
+    arabic: إِنَّكَ
     translation: Indeed You
     transliteration: innaka
   10:
-    arabic: اَنۡتَ
+    arabic: أَنتَ
     translation: You
     transliteration: anta
   11:
-    arabic: الۡعَلِيۡمُ
+    arabic: ٱلۡعَلِيمُ
     translation: (are) the All-Knowing
     transliteration: l-ʿalīmu
   12:
-    arabic: الۡحَكِيۡمُ‏
+    arabic: ٱلۡحَكِيمُ
     translation: the All-Wise
     transliteration: l-ḥakīmu
 ---

@@ -1,15 +1,15 @@
 ---
-arabic_ayat: ذٰ لِكُمُ اللّٰهُ رَبُّكُمۡ خَالِقُ كُلِّ شَىۡءٍ​ ۘ لَّاۤ اِلٰهَ اِلَّا
-  هُوَ ​ۚ  فَاَ نّٰى تُؤۡفَكُوۡنَ‏
+arabic_ayat: ذَٰلِكُمُ ٱللَّهُ رَبُّكُمۡ خَٰلِقُ كُلِّ شَيۡءٖ لَّآ إِلَٰهَ إِلَّا
+  هُوَۖ فَأَنَّىٰ تُؤۡفَكُونَ
 sentence_translation: That is Allah, your Lord, the Creator of all things. There is
   no god ˹worthy of worship˺ except Him. How can you then be deluded ˹from the truth˺?
 word_by_word:
   1:
-    arabic: ذٰ لِكُمُ
+    arabic: ذَٰلِكُمُ
     translation: That
     transliteration: dhālikumu
   2:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: (is) Allah
     transliteration: l-lahu
   3:
@@ -17,7 +17,7 @@ word_by_word:
     translation: your Lord
     transliteration: rabbukum
   4:
-    arabic: خَالِقُ
+    arabic: خَٰلِقُ
     translation: (the) Creator
     transliteration: khāliqu
   5:
@@ -25,31 +25,31 @@ word_by_word:
     translation: (of) all
     transliteration: kulli
   6:
-    arabic: شَىۡءٍ​ ۘ
+    arabic: شَيۡءٖ
     translation: things
     transliteration: shayin
   7:
-    arabic: لَّاۤ
+    arabic: لَّآ
     translation: (there is) no
     transliteration: lā
   8:
-    arabic: اِلٰهَ
+    arabic: إِلَٰهَ
     translation: god
     transliteration: ilāha
   9:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   10:
-    arabic: هُوَ ​ۚ 
+    arabic: هُوَۖ
     translation: Him
     transliteration: huwa
   11:
-    arabic: فَاَ نّٰى
+    arabic: فَأَنَّىٰ
     translation: So how
     transliteration: fa-annā
   12:
-    arabic: تُؤۡفَكُوۡنَ‏
+    arabic: تُؤۡفَكُونَ
     translation: are you deluded
     transliteration: tu'fakūna
 ---

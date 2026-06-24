@@ -1,6 +1,5 @@
 ---
-arabic_ayat: "وَلَوۡ نَشَآءُ لَجَـعَلۡنَا مِنۡكُمۡ مَّلٰٓٮِٕكَةً فِى الۡاَرۡضِ يَخۡلُفُوۡنَ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: وَلَوۡ نَشَآءُ لَجَعَلۡنَا مِنكُم مَّلَٰٓئِكَةٗ فِي ٱلۡأَرۡضِ يَخۡلُفُونَ
 sentence_translation: Had We willed, We could have easily replaced you ˹all˺ with
   angels, succeeding one another on earth.
 word_by_word:
@@ -13,27 +12,27 @@ word_by_word:
     translation: We willed
     transliteration: nashāu
   3:
-    arabic: لَجَـعَلۡنَا
+    arabic: لَجَعَلۡنَا
     translation: surely We (could have) made
     transliteration: lajaʿalnā
   4:
-    arabic: مِنۡكُمۡ
+    arabic: مِنكُم
     translation: among you
     transliteration: minkum
   5:
-    arabic: مَّلٰٓٮِٕكَةً
+    arabic: مَّلَٰٓئِكَةٗ
     translation: Angels
     transliteration: malāikatan
   6:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   7:
-    arabic: الۡاَرۡضِ
+    arabic: ٱلۡأَرۡضِ
     translation: the earth
     transliteration: l-arḍi
   8:
-    arabic: "يَخۡلُفُوۡنَ‏ \uFEFF\uFEFF"
+    arabic: يَخۡلُفُونَ
     translation: succeeding
     transliteration: yakhlufūna
 ---

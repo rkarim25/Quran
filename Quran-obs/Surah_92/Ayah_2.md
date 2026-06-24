@@ -1,17 +1,17 @@
 ---
-arabic_ayat: وَالنَّهَارِ اِذَا تَجَلّٰىۙ‏
+arabic_ayat: وَٱلنَّهَارِ إِذَا تَجَلَّىٰ
 sentence_translation: and the day when it shines!
 word_by_word:
   1:
-    arabic: وَالنَّهَارِ
+    arabic: وَٱلنَّهَارِ
     translation: And the day
     transliteration: wal-nahāri
   2:
-    arabic: اِذَا
+    arabic: إِذَا
     translation: when
     transliteration: idhā
   3:
-    arabic: تَجَلّٰىۙ‏
+    arabic: تَجَلَّىٰ
     translation: it shines in brightness
     transliteration: tajallā
 ---

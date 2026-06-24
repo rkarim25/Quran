@@ -1,28 +1,28 @@
 ---
-arabic_ayat: اِنَّ الۡمُصَّدِّقِيۡنَ وَالۡمُصَّدِّقٰتِ وَاَقۡرَضُوا اللّٰهَ قَرۡضًا
-  حَسَنًا يُّضٰعَفُ لَهُمۡ وَلَهُمۡ اَجۡرٌ كَرِيۡمٌ‏
+arabic_ayat: إِنَّ ٱلۡمُصَّدِّقِينَ وَٱلۡمُصَّدِّقَٰتِ وَأَقۡرَضُواْ ٱللَّهَ قَرۡضًا
+  حَسَنٗا يُضَٰعَفُ لَهُمۡ وَلَهُمۡ أَجۡرٞ كَرِيمٞ
 sentence_translation: Indeed, those men and women who give in charity and lend to
   Allah a good loan will have it multiplied for them, and they will have an honourable
   reward.
 word_by_word:
   1:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   2:
-    arabic: الۡمُصَّدِّقِيۡنَ
+    arabic: ٱلۡمُصَّدِّقِينَ
     translation: the men who give charity
     transliteration: l-muṣadiqīna
   3:
-    arabic: وَالۡمُصَّدِّقٰتِ
+    arabic: وَٱلۡمُصَّدِّقَٰتِ
     translation: and the women who give charity
     transliteration: wal-muṣadiqāti
   4:
-    arabic: وَاَقۡرَضُوا
+    arabic: وَأَقۡرَضُواْ
     translation: and who lend
     transliteration: wa-aqraḍū
   5:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: (to) Allah
     transliteration: l-laha
   6:
@@ -30,11 +30,11 @@ word_by_word:
     translation: a loan
     transliteration: qarḍan
   7:
-    arabic: حَسَنًا
+    arabic: حَسَنٗا
     translation: goodly
     transliteration: ḥasanan
   8:
-    arabic: يُّضٰعَفُ
+    arabic: يُضَٰعَفُ
     translation: it will be multiplied
     transliteration: yuḍāʿafu
   9:
@@ -46,11 +46,11 @@ word_by_word:
     translation: and for them
     transliteration: walahum
   11:
-    arabic: اَجۡرٌ
+    arabic: أَجۡرٞ
     translation: (is) a reward
     transliteration: ajrun
   12:
-    arabic: كَرِيۡمٌ‏
+    arabic: كَرِيمٞ
     translation: noble
     transliteration: karīmun
 ---

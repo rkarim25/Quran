@@ -1,9 +1,9 @@
 ---
-arabic_ayat: اَلَمۡ يَاۡتِكُمۡ نَبَـؤُا الَّذِيۡنَ مِنۡ قَبۡلِكُمۡ قَوۡمِ نُوۡحٍ وَّعَادٍ
-  وَّثَمُوۡدَ​  ۛؕ وَالَّذِيۡنَ مِنۡۢ بَعۡدِهِمۡ ​ۛؕ لَا يَعۡلَمُهُمۡ اِلَّا اللّٰهُ​ؕ
-  جَآءَتۡهُمۡ رُسُلُهُمۡ بِالۡبَيِّنٰتِ فَرَدُّوۡۤا اَيۡدِيَهُمۡ فِىۡۤ اَفۡوَاهِهِمۡ
-  وَقَالُوۡۤا اِنَّا كَفَرۡنَا بِمَاۤ اُرۡسِلۡـتُمۡ بِهٖ وَاِنَّا لَفِىۡ شَكٍّ مِّمَّا
-  تَدۡعُوۡنَـنَاۤ اِلَيۡهِ مُرِيۡبٍ‏
+arabic_ayat: أَلَمۡ يَأۡتِكُمۡ نَبَؤُاْ ٱلَّذِينَ مِن قَبۡلِكُمۡ قَوۡمِ نُوحٖ وَعَادٖ
+  وَثَمُودَ وَٱلَّذِينَ مِنۢ بَعۡدِهِمۡ لَا يَعۡلَمُهُمۡ إِلَّا ٱللَّهُۚ جَآءَتۡهُمۡ
+  رُسُلُهُم بِٱلۡبَيِّنَٰتِ فَرَدُّوٓاْ أَيۡدِيَهُمۡ فِيٓ أَفۡوَٰهِهِمۡ وَقَالُوٓاْ
+  إِنَّا كَفَرۡنَا بِمَآ أُرۡسِلۡتُم بِهِۦ وَإِنَّا لَفِي شَكّٖ مِّمَّا تَدۡعُونَنَآ
+  إِلَيۡهِ مُرِيبٖ
 sentence_translation: 'Have you not ˹already˺ received the stories of those who were
   before you: the people of Noah, ’Âd, Thamûd, and those after them? Only Allah knows
   how many they were. Their messengers came to them with clear proofs, but they put
@@ -11,23 +11,23 @@ sentence_translation: 'Have you not ˹already˺ received the stories of those wh
   with, and we are certainly in alarming doubt about what you are inviting us to.”'
 word_by_word:
   1:
-    arabic: اَلَمۡ
+    arabic: أَلَمۡ
     translation: Has not
     transliteration: alam
   2:
-    arabic: يَاۡتِكُمۡ
+    arabic: يَأۡتِكُمۡ
     translation: come to you
     transliteration: yatikum
   3:
-    arabic: نَبَـؤُا
+    arabic: نَبَؤُاْ
     translation: (the) news
     transliteration: naba-u
   4:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: (of) those who
     transliteration: alladhīna
   5:
-    arabic: مِنۡ
+    arabic: مِن
     translation: (were) before you
     transliteration: min
   6:
@@ -39,27 +39,27 @@ word_by_word:
     translation: the people
     transliteration: qawmi
   8:
-    arabic: نُوۡحٍ
+    arabic: نُوحٖ
     translation: of Nuh
     transliteration: nūḥin
   9:
-    arabic: وَّعَادٍ
+    arabic: وَعَادٖ
     translation: and Aad
     transliteration: waʿādin
   10:
-    arabic: وَّثَمُوۡدَ​  ۛؕ
+    arabic: وَثَمُودَ
     translation: and Thamud
     transliteration: wathamūda
   11:
-    arabic: وَالَّذِيۡنَ
+    arabic: وَٱلَّذِينَ
     translation: and those who
     transliteration: wa-alladhīna
   12:
-    arabic: مِنۡۢ
+    arabic: مِنۢ
     translation: (were) after them
     transliteration: min
   13:
-    arabic: بَعۡدِهِمۡ ​ۛؕ
+    arabic: بَعۡدِهِمۡ
     translation: (were) after them
     transliteration: baʿdihim
   14:
@@ -71,11 +71,11 @@ word_by_word:
     translation: knows them
     transliteration: yaʿlamuhum
   16:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   17:
-    arabic: اللّٰهُ​ؕ
+    arabic: ٱللَّهُۚ
     translation: Allah
     transliteration: l-lahu
   18:
@@ -83,35 +83,35 @@ word_by_word:
     translation: Came to them
     transliteration: jāathum
   19:
-    arabic: رُسُلُهُمۡ
+    arabic: رُسُلُهُم
     translation: their Messengers
     transliteration: rusuluhum
   20:
-    arabic: بِالۡبَيِّنٰتِ
+    arabic: بِٱلۡبَيِّنَٰتِ
     translation: with clear proofs
     transliteration: bil-bayināti
   21:
-    arabic: فَرَدُّوۡۤا
+    arabic: فَرَدُّوٓاْ
     translation: but they returned
     transliteration: faraddū
   22:
-    arabic: اَيۡدِيَهُمۡ
+    arabic: أَيۡدِيَهُمۡ
     translation: their hands
     transliteration: aydiyahum
   23:
-    arabic: فِىۡۤ
+    arabic: فِيٓ
     translation: in
     transliteration: fī
   24:
-    arabic: اَفۡوَاهِهِمۡ
+    arabic: أَفۡوَٰهِهِمۡ
     translation: their mouths
     transliteration: afwāhihim
   25:
-    arabic: وَقَالُوۡۤا
+    arabic: وَقَالُوٓاْ
     translation: and they said
     transliteration: waqālū
   26:
-    arabic: اِنَّا
+    arabic: إِنَّا
     translation: Indeed we
     transliteration: innā
   27:
@@ -119,27 +119,27 @@ word_by_word:
     translation: '[we] disbelieve'
     transliteration: kafarnā
   28:
-    arabic: بِمَاۤ
+    arabic: بِمَآ
     translation: in what
     transliteration: bimā
   29:
-    arabic: اُرۡسِلۡـتُمۡ
+    arabic: أُرۡسِلۡتُم
     translation: you have been sent
     transliteration: ur'sil'tum
   30:
-    arabic: بِهٖ
+    arabic: بِهِۦ
     translation: with [it]
     transliteration: bihi
   31:
-    arabic: وَاِنَّا
+    arabic: وَإِنَّا
     translation: and indeed, we
     transliteration: wa-innā
   32:
-    arabic: لَفِىۡ
+    arabic: لَفِي
     translation: (are) surely in
     transliteration: lafī
   33:
-    arabic: شَكٍّ
+    arabic: شَكّٖ
     translation: doubt
     transliteration: shakkin
   34:
@@ -147,15 +147,15 @@ word_by_word:
     translation: about what
     transliteration: mimmā
   35:
-    arabic: تَدۡعُوۡنَـنَاۤ
+    arabic: تَدۡعُونَنَآ
     translation: you invite us
     transliteration: tadʿūnanā
   36:
-    arabic: اِلَيۡهِ
+    arabic: إِلَيۡهِ
     translation: to it
     transliteration: ilayhi
   37:
-    arabic: مُرِيۡبٍ‏
+    arabic: مُرِيبٖ
     translation: suspicious
     transliteration: murībin
 ---

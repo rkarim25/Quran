@@ -1,27 +1,26 @@
 ---
-arabic_ayat: "يُرِيۡدُ اللّٰهُ اَنۡ يُّخَفِّفَ عَنۡكُمۡ​ۚ وَخُلِقَ الۡاِنۡسَانُ ضَعِيۡفًا‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: يُرِيدُ ٱللَّهُ أَن يُخَفِّفَ عَنكُمۡۚ وَخُلِقَ ٱلۡإِنسَٰنُ ضَعِيفٗا
 sentence_translation: And it is Allah’s Will to lighten your burdens, for humankind
   was created weak.
 word_by_word:
   1:
-    arabic: يُرِيۡدُ
+    arabic: يُرِيدُ
     translation: Wishes
     transliteration: yurīdu
   2:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   3:
-    arabic: اَنۡ
+    arabic: أَن
     translation: to
     transliteration: an
   4:
-    arabic: يُّخَفِّفَ
+    arabic: يُخَفِّفَ
     translation: lighten
     transliteration: yukhaffifa
   5:
-    arabic: عَنۡكُمۡ​ۚ
+    arabic: عَنكُمۡۚ
     translation: for you
     transliteration: ʿankum
   6:
@@ -29,11 +28,11 @@ word_by_word:
     translation: and was created
     transliteration: wakhuliqa
   7:
-    arabic: الۡاِنۡسَانُ
+    arabic: ٱلۡإِنسَٰنُ
     translation: the mankind
     transliteration: l-insānu
   8:
-    arabic: "ضَعِيۡفًا‏ \uFEFF\uFEFF"
+    arabic: ضَعِيفٗا
     translation: weak
     transliteration: ḍaʿīfan
 ---

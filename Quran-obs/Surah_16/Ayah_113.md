@@ -1,11 +1,11 @@
 ---
-arabic_ayat: وَلَـقَدۡ جَآءَهُمۡ رَسُوۡلٌ مِّنۡهُمۡ فَكَذَّبُوۡهُ فَاَخَذَهُمُ الۡعَذَابُ
-  وَهُمۡ ظٰلِمُوۡنَ‏
+arabic_ayat: وَلَقَدۡ جَآءَهُمۡ رَسُولٞ مِّنۡهُمۡ فَكَذَّبُوهُ فَأَخَذَهُمُ ٱلۡعَذَابُ
+  وَهُمۡ ظَٰلِمُونَ
 sentence_translation: A messenger of their own actually did come to them, but they
   denied him. So the torment overtook them while they persisted in wrongdoing.
 word_by_word:
   1:
-    arabic: وَلَـقَدۡ
+    arabic: وَلَقَدۡ
     translation: And certainly
     transliteration: walaqad
   2:
@@ -13,7 +13,7 @@ word_by_word:
     translation: came to them
     transliteration: jāahum
   3:
-    arabic: رَسُوۡلٌ
+    arabic: رَسُولٞ
     translation: a Messenger
     transliteration: rasūlun
   4:
@@ -21,15 +21,15 @@ word_by_word:
     translation: from among them
     transliteration: min'hum
   5:
-    arabic: فَكَذَّبُوۡهُ
+    arabic: فَكَذَّبُوهُ
     translation: but they denied him
     transliteration: fakadhabūhu
   6:
-    arabic: فَاَخَذَهُمُ
+    arabic: فَأَخَذَهُمُ
     translation: so seized them
     transliteration: fa-akhadhahumu
   7:
-    arabic: الۡعَذَابُ
+    arabic: ٱلۡعَذَابُ
     translation: the punishment
     transliteration: l-ʿadhābu
   8:
@@ -37,7 +37,7 @@ word_by_word:
     translation: while they
     transliteration: wahum
   9:
-    arabic: ظٰلِمُوۡنَ‏
+    arabic: ظَٰلِمُونَ
     translation: (were) wrongdoers
     transliteration: ẓālimūna
 ---

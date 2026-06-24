@@ -1,5 +1,5 @@
 ---
-arabic_ayat: فَهَلۡ تَرٰى لَهُمۡ مِّنۡۢ بَاقِيَةٍ‏
+arabic_ayat: فَهَلۡ تَرَىٰ لَهُم مِّنۢ بَاقِيَةٖ
 sentence_translation: Do you see any of them left alive?
 word_by_word:
   1:
@@ -7,19 +7,19 @@ word_by_word:
     translation: Then do
     transliteration: fahal
   2:
-    arabic: تَرٰى
+    arabic: تَرَىٰ
     translation: you see
     transliteration: tarā
   3:
-    arabic: لَهُمۡ
+    arabic: لَهُم
     translation: of them
     transliteration: lahum
   4:
-    arabic: مِّنۡۢ
+    arabic: مِّنۢ
     translation: any
     transliteration: min
   5:
-    arabic: بَاقِيَةٍ‏
+    arabic: بَاقِيَةٖ
     translation: remains
     transliteration: bāqiyatin
 ---

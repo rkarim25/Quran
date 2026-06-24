@@ -1,13 +1,13 @@
 ---
-arabic_ayat: خٰلِدِيۡنَ فِيۡهَا لَا يَـبۡغُوۡنَ عَنۡهَا حِوَلًا‏
+arabic_ayat: خَٰلِدِينَ فِيهَا لَا يَبۡغُونَ عَنۡهَا حِوَلٗا
 sentence_translation: where they will be forever, never desiring anywhere else.
 word_by_word:
   1:
-    arabic: خٰلِدِيۡنَ
+    arabic: خَٰلِدِينَ
     translation: Abiding forever
     transliteration: khālidīna
   2:
-    arabic: فِيۡهَا
+    arabic: فِيهَا
     translation: in it
     transliteration: fīhā
   3:
@@ -15,7 +15,7 @@ word_by_word:
     translation: Not
     transliteration: lā
   4:
-    arabic: يَـبۡغُوۡنَ
+    arabic: يَبۡغُونَ
     translation: they will desire
     transliteration: yabghūna
   5:
@@ -23,7 +23,7 @@ word_by_word:
     translation: from it
     transliteration: ʿanhā
   6:
-    arabic: حِوَلًا‏
+    arabic: حِوَلٗا
     translation: any transfer
     transliteration: ḥiwalan
 ---

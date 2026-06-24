@@ -1,29 +1,29 @@
 ---
-arabic_ayat: اَوَلَمۡ يَرَوۡا اَنَّ اللّٰهَ اۨلَّذِىۡ خَلَقَ السَّمٰوٰتِ وَالۡاَرۡضَ
-  وَلَمۡ يَعۡىَ بِخَلۡقِهِنَّ بِقٰدِرٍ عَلٰۤی اَنۡ يُّحۡیِۦَ الۡمَوۡتٰى ​ؕ بَلٰٓى
-  اِنَّهٗ عَلٰى كُلِّ شَىۡءٍ قَدِيۡرٌ‏‏
+arabic_ayat: أَوَلَمۡ يَرَوۡاْ أَنَّ ٱللَّهَ ٱلَّذِي خَلَقَ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضَ
+  وَلَمۡ يَعۡيَ بِخَلۡقِهِنَّ بِقَٰدِرٍ عَلَىٰٓ أَن يُحۡـِۧيَ ٱلۡمَوۡتَىٰۚ بَلَىٰٓۚ
+  إِنَّهُۥ عَلَىٰ كُلِّ شَيۡءٖ قَدِيرٞ
 sentence_translation: Do they not realize that Allah, Who created the heavens and
   the earth and did not tire in creating them, is able to give life to the dead? Yes
   ˹indeed˺! He is certainly Most Capable of everything.
 word_by_word:
   1:
-    arabic: اَوَلَمۡ
+    arabic: أَوَلَمۡ
     translation: Do not
     transliteration: awalam
   2:
-    arabic: يَرَوۡا
+    arabic: يَرَوۡاْ
     translation: they see
     transliteration: yaraw
   3:
-    arabic: اَنَّ
+    arabic: أَنَّ
     translation: that
     transliteration: anna
   4:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   5:
-    arabic: اۨلَّذِىۡ
+    arabic: ٱلَّذِي
     translation: (is) the One Who
     transliteration: alladhī
   6:
@@ -31,11 +31,11 @@ word_by_word:
     translation: created
     transliteration: khalaqa
   7:
-    arabic: السَّمٰوٰتِ
+    arabic: ٱلسَّمَٰوَٰتِ
     translation: the heavens
     transliteration: l-samāwāti
   8:
-    arabic: وَالۡاَرۡضَ
+    arabic: وَٱلۡأَرۡضَ
     translation: and the earth
     transliteration: wal-arḍa
   9:
@@ -43,55 +43,55 @@ word_by_word:
     translation: and (was) not
     transliteration: walam
   10:
-    arabic: يَعۡىَ
+    arabic: يَعۡيَ
     translation: tired
     transliteration: yaʿya
   11:
-    arabic: بِخَلۡقِهِنَّ
+    arabic: بِخَلۡقِهِنَّ
     translation: by their creation
     transliteration: bikhalqihinna
   12:
-    arabic: بِقٰدِرٍ
+    arabic: بِقَٰدِرٍ
     translation: (is) able
     transliteration: biqādirin
   13:
-    arabic: عَلٰۤی
+    arabic: عَلَىٰٓ
     translation: to give life
     transliteration: ʿalā
   14:
-    arabic: اَنۡ
+    arabic: أَن
     translation: to give life
     transliteration: an
   15:
-    arabic: يُّحۡیِۦَ
+    arabic: يُحۡـِۧيَ
     translation: to give life
     transliteration: yuḥ'yiya
   16:
-    arabic: الۡمَوۡتٰى ​ؕ
+    arabic: ٱلۡمَوۡتَىٰۚ
     translation: (to) the dead
     transliteration: l-mawtā
   17:
-    arabic: بَلٰٓى
+    arabic: بَلَىٰٓۚ
     translation: 'Yes'
     transliteration: balā
   18:
-    arabic: اِنَّهٗ
+    arabic: إِنَّهُۥ
     translation: indeed He
     transliteration: innahu
   19:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: (is) on
     transliteration: ʿalā
   20:
-    arabic: كُلِّ
+    arabic: كُلِّ
     translation: every
     transliteration: kulli
   21:
-    arabic: شَىۡءٍ
+    arabic: شَيۡءٖ
     translation: thing
     transliteration: shayin
   22:
-    arabic: قَدِيۡرٌ‏‏
+    arabic: قَدِيرٞ
     translation: All-Powerful
     transliteration: qadīrun
 ---

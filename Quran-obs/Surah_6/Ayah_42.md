@@ -1,6 +1,6 @@
 ---
-arabic_ayat: وَلَقَدۡ اَرۡسَلۡنَاۤ اِلٰٓى اُمَمٍ مِّنۡ قَبۡلِكَ فَاَخَذۡنٰهُمۡ بِالۡبَاۡسَآءِ
-  وَالضَّرَّآءِ لَعَلَّهُمۡ يَتَضَرَّعُوۡنَ‏
+arabic_ayat: وَلَقَدۡ أَرۡسَلۡنَآ إِلَىٰٓ أُمَمٖ مِّن قَبۡلِكَ فَأَخَذۡنَٰهُم بِٱلۡبَأۡسَآءِ
+  وَٱلضَّرَّآءِ لَعَلَّهُمۡ يَتَضَرَّعُونَ
 sentence_translation: Indeed, We have sent messengers before you ˹O Prophet˺ to other
   people who We put through suffering and adversity ˹for their denial˺, so perhaps
   they would be humbled.
@@ -10,19 +10,19 @@ word_by_word:
     translation: And certainly
     transliteration: walaqad
   2:
-    arabic: اَرۡسَلۡنَاۤ
+    arabic: أَرۡسَلۡنَآ
     translation: We sent (Messengers)
     transliteration: arsalnā
   3:
-    arabic: اِلٰٓى
+    arabic: إِلَىٰٓ
     translation: to
     transliteration: ilā
   4:
-    arabic: اُمَمٍ
+    arabic: أُمَمٖ
     translation: nations
     transliteration: umamin
   5:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: from
     transliteration: min
   6:
@@ -30,15 +30,15 @@ word_by_word:
     translation: before you
     transliteration: qablika
   7:
-    arabic: فَاَخَذۡنٰهُمۡ
+    arabic: فَأَخَذۡنَٰهُم
     translation: then We seized them
     transliteration: fa-akhadhnāhum
   8:
-    arabic: بِالۡبَاۡسَآءِ
+    arabic: بِٱلۡبَأۡسَآءِ
     translation: with adversity
     transliteration: bil-basāi
   9:
-    arabic: وَالضَّرَّآءِ
+    arabic: وَٱلضَّرَّآءِ
     translation: and hardship
     transliteration: wal-ḍarāi
   10:
@@ -46,7 +46,7 @@ word_by_word:
     translation: so that they may
     transliteration: laʿallahum
   11:
-    arabic: يَتَضَرَّعُوۡنَ‏
+    arabic: يَتَضَرَّعُونَ
     translation: humble themselves
     transliteration: yataḍarraʿūna
 ---

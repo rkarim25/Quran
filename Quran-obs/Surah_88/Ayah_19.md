@@ -1,13 +1,13 @@
 ---
-arabic_ayat: وَاِلَى الۡجِبَالِ كَيۡفَ نُصِبَتۡ‏
+arabic_ayat: وَإِلَى ٱلۡجِبَالِ كَيۡفَ نُصِبَتۡ
 sentence_translation: and the mountains—how they were firmly set up;
 word_by_word:
   1:
-    arabic: وَاِلَى
+    arabic: وَإِلَى
     translation: And towards
     transliteration: wa-ilā
   2:
-    arabic: الۡجِبَالِ
+    arabic: ٱلۡجِبَالِ
     translation: the mountains
     transliteration: l-jibāli
   3:
@@ -15,7 +15,7 @@ word_by_word:
     translation: how
     transliteration: kayfa
   4:
-    arabic: نُصِبَتۡ‏
+    arabic: نُصِبَتۡ
     translation: they are fixed
     transliteration: nuṣibat
 ---

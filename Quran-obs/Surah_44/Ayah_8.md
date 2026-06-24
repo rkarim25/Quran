@@ -1,19 +1,19 @@
 ---
-arabic_ayat: لَاۤ اِلٰهَ اِلَّا هُوَ يُحۡىٖ وَيُمِيۡتُ​ؕ رَبُّكُمۡ وَرَبُّ اٰبَآٮِٕكُمُ
-  الۡاَوَّلِيۡنَ‏
+arabic_ayat: لَآ إِلَٰهَ إِلَّا هُوَ يُحۡيِۦ وَيُمِيتُۖ رَبُّكُمۡ وَرَبُّ ءَابَآئِكُمُ
+  ٱلۡأَوَّلِينَ
 sentence_translation: There is no god ˹worthy of worship˺ except Him. He ˹alone˺ gives
   life and causes death. ˹He is˺ your Lord, and the Lord of your forefathers.
 word_by_word:
   1:
-    arabic: لَاۤ
+    arabic: لَآ
     translation: (There is) no
     transliteration: lā
   2:
-    arabic: اِلٰهَ
+    arabic: إِلَٰهَ
     translation: god
     transliteration: ilāha
   3:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   4:
@@ -21,11 +21,11 @@ word_by_word:
     translation: Him
     transliteration: huwa
   5:
-    arabic: يُحۡىٖ
+    arabic: يُحۡيِۦ
     translation: He gives life
     transliteration: yuḥ'yī
   6:
-    arabic: وَيُمِيۡتُ​ؕ
+    arabic: وَيُمِيتُۖ
     translation: and causes death
     transliteration: wayumītu
   7:
@@ -33,15 +33,15 @@ word_by_word:
     translation: your Lord
     transliteration: rabbukum
   8:
-    arabic: وَرَبُّ
+    arabic: وَرَبُّ ءَ
     translation: and (the) Lord
     transliteration: warabbu
   9:
-    arabic: اٰبَآٮِٕكُمُ
+    arabic: ابَآئِكُمُ
     translation: (of) your fathers
     transliteration: ābāikumu
   10:
-    arabic: الۡاَوَّلِيۡنَ‏
+    arabic: ٱلۡأَوَّلِينَ
     translation: the former
     transliteration: l-awalīna
 ---

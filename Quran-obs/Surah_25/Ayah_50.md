@@ -1,15 +1,15 @@
 ---
-arabic_ayat: وَلَـقَدۡ صَرَّفۡنٰهُ بَيۡنَهُمۡ لِيَذَّكَّرُوْا ​ ۖ ا فَاَبٰٓى اَكۡثَرُ
-  النَّاسِ اِلَّا كُفُوۡرًا‏
+arabic_ayat: وَلَقَدۡ صَرَّفۡنَٰهُ بَيۡنَهُمۡ لِيَذَّكَّرُواْ فَأَبَىٰٓ أَكۡثَرُ ٱلنَّاسِ
+  إِلَّا كُفُورٗا
 sentence_translation: We certainly disperse it among them so they may be mindful,
   but most people persist in ungratefulness.
 word_by_word:
   1:
-    arabic: وَلَـقَدۡ
+    arabic: وَلَقَدۡ
     translation: And verily
     transliteration: walaqad
   2:
-    arabic: صَرَّفۡنٰهُ
+    arabic: صَرَّفۡنَٰهُ
     translation: We have distributed it
     transliteration: ṣarrafnāhu
   3:
@@ -17,27 +17,27 @@ word_by_word:
     translation: among them
     transliteration: baynahum
   4:
-    arabic: لِيَذَّكَّرُوْا ​ ۖ ا
+    arabic: لِيَذَّكَّرُواْ
     translation: that they may remember
     transliteration: liyadhakkarū
   5:
-    arabic: فَاَبٰٓى
+    arabic: فَأَبَىٰٓ
     translation: but refuse
     transliteration: fa-abā
   6:
-    arabic: اَكۡثَرُ
+    arabic: أَكۡثَرُ
     translation: most
     transliteration: aktharu
   7:
-    arabic: النَّاسِ
+    arabic: ٱلنَّاسِ
     translation: (of) the people
     transliteration: l-nāsi
   8:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   9:
-    arabic: كُفُوۡرًا‏
+    arabic: كُفُورٗا
     translation: disbelief
     transliteration: kufūran
 ---

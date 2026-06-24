@@ -1,28 +1,28 @@
 ---
-arabic_ayat: وَالَّذِيۡنَ يُحَآجُّوۡنَ فِى اللّٰهِ مِنۡۢ بَعۡدِ مَا اسۡتُجِيۡبَ لَهٗ
-  حُجَّتُهُمۡ دَاحِضَةٌ عِنۡدَ رَبِّهِمۡ وَعَلَيۡهِمۡ غَضَبٌ وَّلَهُمۡ عَذَابٌ شَدِيۡدٌ‏
+arabic_ayat: وَٱلَّذِينَ يُحَآجُّونَ فِي ٱللَّهِ مِنۢ بَعۡدِ مَا ٱسۡتُجِيبَ لَهُۥ
+  حُجَّتُهُمۡ دَاحِضَةٌ عِندَ رَبِّهِمۡ وَعَلَيۡهِمۡ غَضَبٞ وَلَهُمۡ عَذَابٞ شَدِيدٌ
 sentence_translation: As for those who dispute about Allah after He is ˹already˺ acknowledged
   ˹by many˺, their argument is futile in the sight of their Lord. Upon them is wrath,
   and they will suffer a severe punishment.
 word_by_word:
   1:
-    arabic: وَالَّذِيۡنَ
+    arabic: وَٱلَّذِينَ
     translation: And those who
     transliteration: wa-alladhīna
   2:
-    arabic: يُحَآجُّوۡنَ
+    arabic: يُحَآجُّونَ
     translation: argue
     transliteration: yuḥājjūna
   3:
-    arabic: فِى
+    arabic: فِي
     translation: concerning
     transliteration: fī
   4:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   5:
-    arabic: مِنۡۢ
+    arabic: مِنۢ
     translation: after
     transliteration: min
   6:
@@ -34,11 +34,11 @@ word_by_word:
     translation: '[what]'
     transliteration: mā
   8:
-    arabic: اسۡتُجِيۡبَ
+    arabic: ٱسۡتُجِيبَ
     translation: response has been made to Him
     transliteration: us'tujība
   9:
-    arabic: لَهٗ
+    arabic: لَهُۥ
     translation: response has been made to Him
     transliteration: lahu
   10:
@@ -50,7 +50,7 @@ word_by_word:
     translation: (is) invalid
     transliteration: dāḥiḍatun
   12:
-    arabic: عِنۡدَ
+    arabic: عِندَ
     translation: with
     transliteration: ʿinda
   13:
@@ -62,19 +62,19 @@ word_by_word:
     translation: and upon them
     transliteration: waʿalayhim
   15:
-    arabic: غَضَبٌ
+    arabic: غَضَبٞ
     translation: (is) wrath
     transliteration: ghaḍabun
   16:
-    arabic: وَّلَهُمۡ
+    arabic: وَلَهُمۡ
     translation: and for them
     transliteration: walahum
   17:
-    arabic: عَذَابٌ
+    arabic: عَذَابٞ
     translation: (is) a punishment
     transliteration: ʿadhābun
   18:
-    arabic: شَدِيۡدٌ‏
+    arabic: شَدِيدٌ
     translation: severe
     transliteration: shadīdun
 ---

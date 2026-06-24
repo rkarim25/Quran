@@ -1,11 +1,11 @@
 ---
-arabic_ayat: وَيَطُوۡفُ عَلَيۡهِمۡ وِلۡدَانٌ مُّخَلَّدُوۡنَ​ۚ اِذَا رَاَيۡتَهُمۡ حَسِبۡتَهُمۡ
-  لُـؤۡلُـؤًا مَّنۡثُوۡرًا‏
+arabic_ayat: ۞ وَيَطُوفُ عَلَيۡهِمۡ وِلۡدَٰنٞ مُّخَلَّدُونَ إِذَا رَأَيۡتَهُمۡ حَسِبۡتَهُمۡ
+  لُؤۡلُؤٗا مَّنثُورٗا
 sentence_translation: They will be waited on by eternal youths. If you saw them, you
   would think they were scattered pearls.
 word_by_word:
   1:
-    arabic: ۞ وَيَطُوۡفُ
+    arabic: ۞ وَيَطُوفُ
     translation: And will circulate
     transliteration: wayaṭūfu
   2:
@@ -13,19 +13,19 @@ word_by_word:
     translation: among them
     transliteration: ʿalayhim
   3:
-    arabic: وِلۡدَانٌ
+    arabic: وِلۡدَٰنٞ
     translation: young boys
     transliteration: wil'dānun
   4:
-    arabic: مُّخَلَّدُوۡنَ​ۚ
+    arabic: مُّخَلَّدُونَ
     translation: made eternal
     transliteration: mukhalladūna
   5:
-    arabic: اِذَا
+    arabic: إِذَا
     translation: When
     transliteration: idhā
   6:
-    arabic: رَاَيۡتَهُمۡ
+    arabic: رَأَيۡتَهُمۡ
     translation: you see them
     transliteration: ra-aytahum
   7:
@@ -33,11 +33,11 @@ word_by_word:
     translation: you would think them
     transliteration: ḥasib'tahum
   8:
-    arabic: لُـؤۡلُـؤًا
+    arabic: لُؤۡلُؤٗا
     translation: (to be) pearls
     transliteration: lu'lu-an
   9:
-    arabic: مَّنۡثُوۡرًا‏
+    arabic: مَّنثُورٗا
     translation: scattered
     transliteration: manthūran
 ---

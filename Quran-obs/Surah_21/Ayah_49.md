@@ -1,11 +1,10 @@
 ---
-arabic_ayat: "الَّذِيۡنَ يَخۡشَوۡنَ رَبَّهُمۡ بِالۡغَيۡبِ وَهُمۡ مِّنَ السَّاعَةِ\
-  \ مُشۡفِقُوۡنَ‏ \uFEFF\uFEFF"
+arabic_ayat: ٱلَّذِينَ يَخۡشَوۡنَ رَبَّهُم بِٱلۡغَيۡبِ وَهُم مِّنَ ٱلسَّاعَةِ مُشۡفِقُونَ
 sentence_translation: who are in awe of their Lord without seeing Him, and are fearful
   of the Hour.
 word_by_word:
   1:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: Those who
     transliteration: alladhīna
   2:
@@ -13,15 +12,15 @@ word_by_word:
     translation: fear
     transliteration: yakhshawna
   3:
-    arabic: رَبَّهُمۡ
+    arabic: رَبَّهُم
     translation: their Lord
     transliteration: rabbahum
   4:
-    arabic: بِالۡغَيۡبِ
+    arabic: بِٱلۡغَيۡبِ
     translation: in the unseen
     transliteration: bil-ghaybi
   5:
-    arabic: وَهُمۡ
+    arabic: وَهُم
     translation: and they
     transliteration: wahum
   6:
@@ -29,11 +28,11 @@ word_by_word:
     translation: of
     transliteration: mina
   7:
-    arabic: السَّاعَةِ
+    arabic: ٱلسَّاعَةِ
     translation: the Hour
     transliteration: l-sāʿati
   8:
-    arabic: "مُشۡفِقُوۡنَ‏ \uFEFF\uFEFF"
+    arabic: مُشۡفِقُونَ
     translation: (are) afraid
     transliteration: mush'fiqūna
 ---

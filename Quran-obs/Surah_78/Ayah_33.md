@@ -1,13 +1,13 @@
 ---
-arabic_ayat: وَّكَوَاعِبَ اَتۡرَابًا ۙ‏
+arabic_ayat: وَكَوَاعِبَ أَتۡرَابٗا
 sentence_translation: and full-bosomed maidens of equal age,
 word_by_word:
   1:
-    arabic: وَّكَوَاعِبَ
+    arabic: وَكَوَاعِبَ
     translation: And splendid companions
     transliteration: wakawāʿiba
   2:
-    arabic: اَتۡرَابًا ۙ‏
+    arabic: أَتۡرَابٗا
     translation: well-matched
     transliteration: atrāban
 ---

@@ -1,12 +1,12 @@
 ---
-arabic_ayat: اَلَمۡ تَرَ اَنَّ الۡفُلۡكَ تَجۡرِىۡ فِى الۡبَحۡرِ بِنِعۡمَتِ اللّٰهِ
-  لِيُرِيَكُمۡ مِّنۡ اٰيٰتِهٖؕ اِنَّ فِىۡ ذٰ لِكَ لَاٰيٰتٍ لِّـكُلِّ صَبَّارٍ شَكُوۡرٍ‏
+arabic_ayat: أَلَمۡ تَرَ أَنَّ ٱلۡفُلۡكَ تَجۡرِي فِي ٱلۡبَحۡرِ بِنِعۡمَتِ ٱللَّهِ
+  لِيُرِيَكُم مِّنۡ ءَايَٰتِهِۦٓۚ إِنَّ فِي ذَٰلِكَ لَأٓيَٰتٖ لِّكُلِّ صَبَّارٖ شَكُورٖ
 sentence_translation: Do you not see that the ships sail ˹smoothly˺ through the sea
   by the grace of Allah so that He may show you some of His signs? Surely in this
   are signs for whoever is steadfast, grateful.
 word_by_word:
   1:
-    arabic: اَلَمۡ
+    arabic: أَلَمۡ
     translation: Do not
     transliteration: alam
   2:
@@ -14,23 +14,23 @@ word_by_word:
     translation: you see
     transliteration: tara
   3:
-    arabic: اَنَّ
+    arabic: أَنَّ
     translation: that
     transliteration: anna
   4:
-    arabic: الۡفُلۡكَ
+    arabic: ٱلۡفُلۡكَ
     translation: the ships
     transliteration: l-ful'ka
   5:
-    arabic: تَجۡرِىۡ
+    arabic: تَجۡرِي
     translation: sail
     transliteration: tajrī
   6:
-    arabic: فِى
+    arabic: فِي
     translation: through
     transliteration: fī
   7:
-    arabic: الۡبَحۡرِ
+    arabic: ٱلۡبَحۡرِ
     translation: the sea
     transliteration: l-baḥri
   8:
@@ -38,47 +38,47 @@ word_by_word:
     translation: by (the) Grace
     transliteration: biniʿ'mati
   9:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (of) Allah
     transliteration: l-lahi
   10:
-    arabic: لِيُرِيَكُمۡ
+    arabic: لِيُرِيَكُم
     translation: that He may show you
     transliteration: liyuriyakum
   11:
-    arabic: مِّنۡ
+    arabic: مِّنۡ ءَ
     translation: of
     transliteration: min
   12:
-    arabic: اٰيٰتِهٖؕ
+    arabic: ايَٰتِهِۦٓۚ
     translation: His Signs
     transliteration: āyātihi
   13:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   14:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   15:
-    arabic: ذٰ لِكَ
+    arabic: ذَٰلِكَ
     translation: that
     transliteration: dhālika
   16:
-    arabic: لَاٰيٰتٍ
+    arabic: لَأٓيَٰتٖ
     translation: surely (are) Signs
     transliteration: laāyātin
   17:
-    arabic: لِّـكُلِّ
+    arabic: لِّكُلِّ
     translation: for everyone
     transliteration: likulli
   18:
-    arabic: صَبَّارٍ
+    arabic: صَبَّارٖ
     translation: (who is) patient
     transliteration: ṣabbārin
   19:
-    arabic: شَكُوۡرٍ‏
+    arabic: شَكُورٖ
     translation: grateful
     transliteration: shakūrin
 ---

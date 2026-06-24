@@ -1,12 +1,12 @@
 ---
-arabic_ayat: اِنۡ تُصِبۡكَ حَسَنَةٌ تَسُؤۡهُمۡ​ ۚ وَاِنۡ تُصِبۡكَ مُصِيۡبَةٌ يَّقُوۡلُوۡا
-  قَدۡ اَخَذۡنَاۤ اَمۡرَنَا مِنۡ قَبۡلُ وَيَتَوَلَّوْا وَّهُمۡ فَرِحُوۡنَ‏
+arabic_ayat: إِن تُصِبۡكَ حَسَنَةٞ تَسُؤۡهُمۡۖ وَإِن تُصِبۡكَ مُصِيبَةٞ يَقُولُواْ
+  قَدۡ أَخَذۡنَآ أَمۡرَنَا مِن قَبۡلُ وَيَتَوَلَّواْ وَّهُمۡ فَرِحُونَ
 sentence_translation: If a blessing befalls you ˹O Prophet˺, they grieve, but if a
   disaster befalls you, they say, “We took our precaution in advance,” and turn away,
   rejoicing.
 word_by_word:
   1:
-    arabic: اِنۡ
+    arabic: إِن
     translation: If
     transliteration: in
   2:
@@ -14,15 +14,15 @@ word_by_word:
     translation: befalls you
     transliteration: tuṣib'ka
   3:
-    arabic: حَسَنَةٌ
+    arabic: حَسَنَةٞ
     translation: good
     transliteration: ḥasanatun
   4:
-    arabic: تَسُؤۡهُمۡ​ ۚ
+    arabic: تَسُؤۡهُمۡۖ
     translation: it distresses them
     transliteration: tasu'hum
   5:
-    arabic: وَاِنۡ
+    arabic: وَإِن
     translation: but if
     transliteration: wa-in
   6:
@@ -30,11 +30,11 @@ word_by_word:
     translation: befalls you
     transliteration: tuṣib'ka
   7:
-    arabic: مُصِيۡبَةٌ
+    arabic: مُصِيبَةٞ
     translation: a calamity
     transliteration: muṣībatun
   8:
-    arabic: يَّقُوۡلُوۡا
+    arabic: يَقُولُواْ
     translation: they say
     transliteration: yaqūlū
   9:
@@ -42,15 +42,15 @@ word_by_word:
     translation: Verily
     transliteration: qad
   10:
-    arabic: اَخَذۡنَاۤ
+    arabic: أَخَذۡنَآ
     translation: we took
     transliteration: akhadhnā
   11:
-    arabic: اَمۡرَنَا
+    arabic: أَمۡرَنَا
     translation: our matter
     transliteration: amranā
   12:
-    arabic: مِنۡ
+    arabic: مِن
     translation: before
     transliteration: min
   13:
@@ -58,7 +58,7 @@ word_by_word:
     translation: before
     transliteration: qablu
   14:
-    arabic: وَيَتَوَلَّوْا
+    arabic: وَيَتَوَلَّواْ
     translation: And they turn away
     transliteration: wayatawallaw
   15:
@@ -66,7 +66,7 @@ word_by_word:
     translation: while they
     transliteration: wahum
   16:
-    arabic: فَرِحُوۡنَ‏
+    arabic: فَرِحُونَ
     translation: (are) rejoicing
     transliteration: fariḥūna
 ---

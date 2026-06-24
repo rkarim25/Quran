@@ -1,10 +1,10 @@
 ---
-arabic_ayat: اِذۡ قَالَ لِاَبِيۡهِ وَقَوۡمِهٖ مَا تَعۡبُدُوۡنَ‏
+arabic_ayat: إِذۡ قَالَ لِأَبِيهِ وَقَوۡمِهِۦ مَا تَعۡبُدُونَ
 sentence_translation: when he questioned his father and his people, “What is that
   you worship ˹besides Allah˺?”
 word_by_word:
   1:
-    arabic: اِذۡ
+    arabic: إِذۡ
     translation: When
     transliteration: idh
   2:
@@ -12,11 +12,11 @@ word_by_word:
     translation: he said
     transliteration: qāla
   3:
-    arabic: لِاَبِيۡهِ
+    arabic: لِأَبِيهِ
     translation: to his father
     transliteration: li-abīhi
   4:
-    arabic: وَقَوۡمِهٖ
+    arabic: وَقَوۡمِهِۦ
     translation: and his people
     transliteration: waqawmihi
   5:
@@ -24,7 +24,7 @@ word_by_word:
     translation: What
     transliteration: mā
   6:
-    arabic: تَعۡبُدُوۡنَ‏
+    arabic: تَعۡبُدُونَ
     translation: (do) you worship
     transliteration: taʿbudūna
 ---

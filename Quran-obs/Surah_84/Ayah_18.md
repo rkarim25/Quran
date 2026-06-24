@@ -1,17 +1,17 @@
 ---
-arabic_ayat: وَالۡقَمَرِ اِذَا اتَّسَقَۙ‏
+arabic_ayat: وَٱلۡقَمَرِ إِذَا ٱتَّسَقَ
 sentence_translation: And by the moon when it waxes full!
 word_by_word:
   1:
-    arabic: وَالۡقَمَرِ
+    arabic: وَٱلۡقَمَرِ
     translation: And the moon
     transliteration: wal-qamari
   2:
-    arabic: اِذَا
+    arabic: إِذَا
     translation: when
     transliteration: idhā
   3:
-    arabic: اتَّسَقَۙ‏
+    arabic: ٱتَّسَقَ
     translation: it becomes full
     transliteration: ittasaqa
 ---

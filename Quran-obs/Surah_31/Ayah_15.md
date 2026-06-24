@@ -1,27 +1,26 @@
 ---
-arabic_ayat: "وَاِنۡ جَاهَدٰكَ عَلٰٓى اَنۡ تُشۡرِكَ بِىۡ مَا لَيۡسَ لَكَ بِهٖ عِلۡمٌ ۙ\
-  \ فَلَا تُطِعۡهُمَا​ وَصَاحِبۡهُمَا فِى الدُّنۡيَا مَعۡرُوۡفًا​ وَّاتَّبِعۡ سَبِيۡلَ\
-  \ مَنۡ اَنَابَ اِلَىَّ ​ۚ ثُمَّ اِلَىَّ مَرۡجِعُكُمۡ فَاُنَبِّئُكُمۡ بِمَا كُنۡتُمۡ\
-  \ تَعۡمَلُوۡنَ‏ \uFEFF\uFEFF"
+arabic_ayat: وَإِن جَٰهَدَاكَ عَلَىٰٓ أَن تُشۡرِكَ بِي مَا لَيۡسَ لَكَ بِهِۦ عِلۡمٞ
+  فَلَا تُطِعۡهُمَاۖ وَصَاحِبۡهُمَا فِي ٱلدُّنۡيَا مَعۡرُوفٗاۖ وَٱتَّبِعۡ سَبِيلَ
+  مَنۡ أَنَابَ إِلَيَّۚ ثُمَّ إِلَيَّ مَرۡجِعُكُمۡ فَأُنَبِّئُكُم بِمَا كُنتُمۡ تَعۡمَلُونَ
 sentence_translation: But if they pressure you to associate with Me what you have
   no knowledge of, do not obey them. Still keep their company in this world courteously,
   and follow the way of those who turn to Me ˹in devotion˺. Then to Me you will ˹all˺
   return, and then I will inform you of what you used to do.
 word_by_word:
   1:
-    arabic: وَاِنۡ
+    arabic: وَإِن
     translation: But if
     transliteration: wa-in
   2:
-    arabic: جَاهَدٰكَ
+    arabic: جَٰهَدَاكَ
     translation: they strive against you
     transliteration: jāhadāka
   3:
-    arabic: عَلٰٓى
+    arabic: عَلَىٰٓ
     translation: 'on'
     transliteration: ʿalā
   4:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that
     transliteration: an
   5:
@@ -29,7 +28,7 @@ word_by_word:
     translation: you associate partners
     transliteration: tush'rika
   6:
-    arabic: بِىۡ
+    arabic: بِي
     translation: with Me
     transliteration: bī
   7:
@@ -45,11 +44,11 @@ word_by_word:
     translation: you have
     transliteration: laka
   10:
-    arabic: بِهٖ
+    arabic: بِهِۦ
     translation: of it
     transliteration: bihi
   11:
-    arabic: عِلۡمٌ ۙ
+    arabic: عِلۡمٞ
     translation: any knowledge
     transliteration: ʿil'mun
   12:
@@ -57,7 +56,7 @@ word_by_word:
     translation: then (do) not
     transliteration: falā
   13:
-    arabic: تُطِعۡهُمَا​
+    arabic: تُطِعۡهُمَاۖ
     translation: obey both of them
     transliteration: tuṭiʿ'humā
   14:
@@ -65,23 +64,23 @@ word_by_word:
     translation: But accompany them
     transliteration: waṣāḥib'humā
   15:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   16:
-    arabic: الدُّنۡيَا
+    arabic: ٱلدُّنۡيَا
     translation: the world
     transliteration: l-dun'yā
   17:
-    arabic: مَعۡرُوۡفًا​
+    arabic: مَعۡرُوفٗاۖ
     translation: (with) kindness
     transliteration: maʿrūfan
   18:
-    arabic: وَّاتَّبِعۡ
+    arabic: وَٱتَّبِعۡ
     translation: and follow
     transliteration: wa-ittabiʿ
   19:
-    arabic: سَبِيۡلَ
+    arabic: سَبِيلَ
     translation: (the) path
     transliteration: sabīla
   20:
@@ -89,11 +88,11 @@ word_by_word:
     translation: (of him) who
     transliteration: man
   21:
-    arabic: اَنَابَ
+    arabic: أَنَابَ
     translation: turns
     transliteration: anāba
   22:
-    arabic: اِلَىَّ ​ۚ
+    arabic: إِلَيَّۚ
     translation: to Me
     transliteration: ilayya
   23:
@@ -101,7 +100,7 @@ word_by_word:
     translation: Then
     transliteration: thumma
   24:
-    arabic: اِلَىَّ
+    arabic: إِلَيَّ
     translation: towards Me
     transliteration: ilayya
   25:
@@ -109,7 +108,7 @@ word_by_word:
     translation: (is) your return
     transliteration: marjiʿukum
   26:
-    arabic: فَاُنَبِّئُكُمۡ
+    arabic: فَأُنَبِّئُكُم
     translation: then I will inform you
     transliteration: fa-unabbi-ukum
   27:
@@ -117,11 +116,11 @@ word_by_word:
     translation: of what
     transliteration: bimā
   28:
-    arabic: كُنۡتُمۡ
+    arabic: كُنتُمۡ
     translation: you used (to)
     transliteration: kuntum
   29:
-    arabic: "تَعۡمَلُوۡنَ‏ \uFEFF\uFEFF"
+    arabic: تَعۡمَلُونَ
     translation: do
     transliteration: taʿmalūna
 ---

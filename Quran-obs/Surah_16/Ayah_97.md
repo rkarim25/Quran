@@ -1,7 +1,6 @@
 ---
-arabic_ayat: "مَنۡ عَمِلَ صَالِحًـا مِّنۡ ذَكَرٍ اَوۡ اُنۡثٰى وَهُوَ مُؤۡمِنٌ فَلَـنُحۡيِيَنَّهٗ\
-  \ حَيٰوةً طَيِّبَةً​ ۚ وَلَـنَجۡزِيَـنَّهُمۡ اَجۡرَهُمۡ بِاَحۡسَنِ مَا كَانُوۡا\
-  \ يَعۡمَلُوۡنَ‏ \uFEFF\uFEFF"
+arabic_ayat: مَنۡ عَمِلَ صَٰلِحٗا مِّن ذَكَرٍ أَوۡ أُنثَىٰ وَهُوَ مُؤۡمِنٞ فَلَنُحۡيِيَنَّهُۥ
+  حَيَوٰةٗ طَيِّبَةٗۖ وَلَنَجۡزِيَنَّهُمۡ أَجۡرَهُم بِأَحۡسَنِ مَا كَانُواْ يَعۡمَلُونَ
 sentence_translation: Whoever does good, whether male or female, and is a believer,
   We will surely bless them with a good life, and We will certainly reward them according
   to the best of their deeds.
@@ -15,11 +14,11 @@ word_by_word:
     translation: does
     transliteration: ʿamila
   3:
-    arabic: صَالِحًـا
+    arabic: صَٰلِحٗا
     translation: righteous deeds
     transliteration: ṣāliḥan
   4:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: whether
     transliteration: min
   5:
@@ -27,11 +26,11 @@ word_by_word:
     translation: male
     transliteration: dhakarin
   6:
-    arabic: اَوۡ
+    arabic: أَوۡ
     translation: or
     transliteration: aw
   7:
-    arabic: اُنۡثٰى
+    arabic: أُنثَىٰ
     translation: female
     transliteration: unthā
   8:
@@ -39,31 +38,31 @@ word_by_word:
     translation: while he
     transliteration: wahuwa
   9:
-    arabic: مُؤۡمِنٌ
+    arabic: مُؤۡمِنٞ
     translation: (is) a believer
     transliteration: mu'minun
   10:
-    arabic: فَلَـنُحۡيِيَنَّهٗ
+    arabic: فَلَنُحۡيِيَنَّهُۥ
     translation: then surely We will give him life
     transliteration: falanuḥ'yiyannahu
   11:
-    arabic: حَيٰوةً
+    arabic: حَيَوٰةٗ
     translation: a life
     transliteration: ḥayatan
   12:
-    arabic: طَيِّبَةً​ ۚ
+    arabic: طَيِّبَةٗۖ
     translation: good
     transliteration: ṭayyibatan
   13:
-    arabic: وَلَـنَجۡزِيَـنَّهُمۡ
+    arabic: وَلَنَجۡزِيَنَّهُمۡ
     translation: and We will pay them
     transliteration: walanajziyannahum
   14:
-    arabic: اَجۡرَهُمۡ
+    arabic: أَجۡرَهُم
     translation: their reward
     transliteration: ajrahum
   15:
-    arabic: بِاَحۡسَنِ
+    arabic: بِأَحۡسَنِ
     translation: to (the) best
     transliteration: bi-aḥsani
   16:
@@ -71,11 +70,11 @@ word_by_word:
     translation: of what
     transliteration: mā
   17:
-    arabic: كَانُوۡا
+    arabic: كَانُواْ
     translation: they used (to)
     transliteration: kānū
   18:
-    arabic: "يَعۡمَلُوۡنَ‏ \uFEFF\uFEFF"
+    arabic: يَعۡمَلُونَ
     translation: do
     transliteration: yaʿmalūna
 ---

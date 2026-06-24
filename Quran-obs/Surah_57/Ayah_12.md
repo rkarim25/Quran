@@ -1,7 +1,7 @@
 ---
-arabic_ayat: يَوۡمَ تَرَى الۡمُؤۡمِنِيۡنَ وَالۡمُؤۡمِنٰتِ يَسۡعٰى نُوۡرُهُمۡ بَيۡنَ
-  اَيۡدِيۡهِمۡ وَبِاَيۡمَانِهِمۡ بُشۡرٰٮكُمُ الۡيَوۡمَ جَنّٰتٌ تَجۡرِىۡ مِنۡ تَحۡتِهَا
-  الۡاَنۡهٰرُ خٰلِدِيۡنَ فِيۡهَا​ؕ ذٰلِكَ هُوَ الۡفَوۡزُ الۡعَظِيۡمُ​ۚ‏
+arabic_ayat: يَوۡمَ تَرَى ٱلۡمُؤۡمِنِينَ وَٱلۡمُؤۡمِنَٰتِ يَسۡعَىٰ نُورُهُم بَيۡنَ
+  أَيۡدِيهِمۡ وَبِأَيۡمَٰنِهِمۖ بُشۡرَىٰكُمُ ٱلۡيَوۡمَ جَنَّٰتٞ تَجۡرِي مِن تَحۡتِهَا
+  ٱلۡأَنۡهَٰرُ خَٰلِدِينَ فِيهَاۚ ذَٰلِكَ هُوَ ٱلۡفَوۡزُ ٱلۡعَظِيمُ
 sentence_translation: On that Day you will see believing men and women with their
   light shining ahead of them and on their right. ˹They will be told,˺ “Today you
   have good news of Gardens, under which rivers flow, ˹for you˺ to stay in forever.
@@ -16,19 +16,19 @@ word_by_word:
     translation: you will see
     transliteration: tarā
   3:
-    arabic: الۡمُؤۡمِنِيۡنَ
+    arabic: ٱلۡمُؤۡمِنِينَ
     translation: the believing men
     transliteration: l-mu'minīna
   4:
-    arabic: وَالۡمُؤۡمِنٰتِ
+    arabic: وَٱلۡمُؤۡمِنَٰتِ
     translation: and the believing women
     transliteration: wal-mu'mināti
   5:
-    arabic: يَسۡعٰى
+    arabic: يَسۡعَىٰ
     translation: running
     transliteration: yasʿā
   6:
-    arabic: نُوۡرُهُمۡ
+    arabic: نُورُهُم
     translation: their light
     transliteration: nūruhum
   7:
@@ -36,31 +36,31 @@ word_by_word:
     translation: before them
     transliteration: bayna
   8:
-    arabic: اَيۡدِيۡهِمۡ
+    arabic: أَيۡدِيهِمۡ
     translation: before them
     transliteration: aydīhim
   9:
-    arabic: وَبِاَيۡمَانِهِمۡ
+    arabic: وَبِأَيۡمَٰنِهِمۖ
     translation: and on their right
     transliteration: wabi-aymānihim
   10:
-    arabic: بُشۡرٰٮكُمُ
+    arabic: بُشۡرَىٰكُمُ
     translation: Glad tidings for you
     transliteration: bush'rākumu
   11:
-    arabic: الۡيَوۡمَ
+    arabic: ٱلۡيَوۡمَ
     translation: 'this Day '
     transliteration: l-yawma
   12:
-    arabic: جَنّٰتٌ
+    arabic: جَنَّٰتٞ
     translation: gardens
     transliteration: jannātun
   13:
-    arabic: تَجۡرِىۡ
+    arabic: تَجۡرِي
     translation: flowing
     transliteration: tajrī
   14:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   15:
@@ -68,19 +68,19 @@ word_by_word:
     translation: underneath it
     transliteration: taḥtihā
   16:
-    arabic: الۡاَنۡهٰرُ
+    arabic: ٱلۡأَنۡهَٰرُ
     translation: the rivers
     transliteration: l-anhāru
   17:
-    arabic: خٰلِدِيۡنَ
+    arabic: خَٰلِدِينَ
     translation: abiding forever
     transliteration: khālidīna
   18:
-    arabic: فِيۡهَا​ؕ
+    arabic: فِيهَاۚ
     translation: therein
     transliteration: fīhā
   19:
-    arabic: ذٰلِكَ
+    arabic: ذَٰلِكَ
     translation: That
     transliteration: dhālika
   20:
@@ -88,11 +88,11 @@ word_by_word:
     translation: '[it] (is)'
     transliteration: huwa
   21:
-    arabic: الۡفَوۡزُ
+    arabic: ٱلۡفَوۡزُ
     translation: the success
     transliteration: l-fawzu
   22:
-    arabic: الۡعَظِيۡمُ​ۚ‏
+    arabic: ٱلۡعَظِيمُ
     translation: the great
     transliteration: l-ʿaẓīmu
 ---

@@ -1,8 +1,8 @@
 ---
-arabic_ayat: وَاِذۡ اَخَذۡنَا مِيۡثَاقَكُمۡ وَرَفَعۡنَا فَوۡقَکُمُ الطُّوۡرَ ؕ خُذُوۡا
-  مَآ اٰتَيۡنٰکُمۡ بِقُوَّةٍ وَّاسۡمَعُوۡا ​ ؕ قَالُوۡا سَمِعۡنَا وَعَصَيۡنَا  وَاُشۡرِبُوۡا
-  فِىۡ قُلُوۡبِهِمُ الۡعِجۡلَ بِکُفۡرِهِمۡ ​ؕ قُلۡ بِئۡسَمَا يَاۡمُرُکُمۡ بِهٖۤ اِيۡمَانُكُمۡ
-  اِنۡ كُنۡتُمۡ مُّؤۡمِنِيۡنَ‏
+arabic_ayat: وَإِذۡ أَخَذۡنَا مِيثَٰقَكُمۡ وَرَفَعۡنَا فَوۡقَكُمُ ٱلطُّورَ خُذُواْ
+  مَآ ءَاتَيۡنَٰكُم بِقُوَّةٖ وَٱسۡمَعُواْۖ قَالُواْ سَمِعۡنَا وَعَصَيۡنَا وَأُشۡرِبُواْ
+  فِي قُلُوبِهِمُ ٱلۡعِجۡلَ بِكُفۡرِهِمۡۚ قُلۡ بِئۡسَمَا يَأۡمُرُكُم بِهِۦٓ إِيمَٰنُكُمۡ
+  إِن كُنتُم مُّؤۡمِنِينَ
 sentence_translation: And when We took your covenant and raised the mountain above
   you ˹saying˺, “Hold firmly to that ˹Scripture˺ which We have given you and obey,”
   they answered, “We hear and disobey.” The love of the calf was rooted in their hearts
@@ -10,15 +10,15 @@ sentence_translation: And when We took your covenant and raised the mountain abo
   belief prompts you to do, if you ˹actually˺ believe ˹in the Torah˺!”
 word_by_word:
   1:
-    arabic: وَاِذۡ
+    arabic: وَإِذۡ
     translation: And when
     transliteration: wa-idh
   2:
-    arabic: اَخَذۡنَا
+    arabic: أَخَذۡنَا
     translation: We took
     transliteration: akhadhnā
   3:
-    arabic: مِيۡثَاقَكُمۡ
+    arabic: مِيثَٰقَكُمۡ
     translation: your covenant
     transliteration: mīthāqakum
   4:
@@ -26,35 +26,35 @@ word_by_word:
     translation: and We raised
     transliteration: warafaʿnā
   5:
-    arabic: فَوۡقَکُمُ
+    arabic: فَوۡقَكُمُ
     translation: over you
     transliteration: fawqakumu
   6:
-    arabic: الطُّوۡرَ ؕ
+    arabic: ٱلطُّورَ
     translation: the mount
     transliteration: l-ṭūra
   7:
-    arabic: خُذُوۡا
+    arabic: خُذُواْ
     translation: Hold
     transliteration: khudhū
   8:
-    arabic: مَآ
+    arabic: مَآ ءَ
     translation: what
     transliteration: mā
   9:
-    arabic: اٰتَيۡنٰکُمۡ
+    arabic: اتَيۡنَٰكُم
     translation: We gave you
     transliteration: ātaynākum
   10:
-    arabic: بِقُوَّةٍ
+    arabic: بِقُوَّةٖ
     translation: with firmness
     transliteration: biquwwatin
   11:
-    arabic: وَّاسۡمَعُوۡا ​ ؕ
+    arabic: وَٱسۡمَعُواْۖ
     translation: and listen
     transliteration: wa-is'maʿū
   12:
-    arabic: قَالُوۡا
+    arabic: قَالُواْ
     translation: They said
     transliteration: qālū
   13:
@@ -62,27 +62,27 @@ word_by_word:
     translation: We heard
     transliteration: samiʿ'nā
   14:
-    arabic: وَعَصَيۡنَا 
+    arabic: وَعَصَيۡنَا
     translation: and we disobeyed
     transliteration: waʿaṣaynā
   15:
-    arabic: وَاُشۡرِبُوۡا
+    arabic: وَأُشۡرِبُواْ
     translation: And they were made to drink
     transliteration: wa-ush'ribū
   16:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   17:
-    arabic: قُلُوۡبِهِمُ
+    arabic: قُلُوبِهِمُ
     translation: their hearts
     transliteration: qulūbihimu
   18:
-    arabic: الۡعِجۡلَ
+    arabic: ٱلۡعِجۡلَ
     translation: (love of) the calf
     transliteration: l-ʿij'la
   19:
-    arabic: بِکُفۡرِهِمۡ ​ؕ
+    arabic: بِكُفۡرِهِمۡۚ
     translation: because of their disbelief
     transliteration: bikuf'rihim
   20:
@@ -94,27 +94,27 @@ word_by_word:
     translation: Evil (is) that
     transliteration: bi'samā
   22:
-    arabic: يَاۡمُرُکُمۡ
+    arabic: يَأۡمُرُكُم
     translation: orders you (to do) it
     transliteration: yamurukum
   23:
-    arabic: بِهٖۤ
+    arabic: بِهِۦٓ
     translation: with
     transliteration: bihi
   24:
-    arabic: اِيۡمَانُكُمۡ
+    arabic: إِيمَٰنُكُمۡ
     translation: your faith
     transliteration: īmānukum
   25:
-    arabic: اِنۡ
+    arabic: إِن
     translation: if
     transliteration: in
   26:
-    arabic: كُنۡتُمۡ
+    arabic: كُنتُم
     translation: you are
     transliteration: kuntum
   27:
-    arabic: مُّؤۡمِنِيۡنَ‏
+    arabic: مُّؤۡمِنِينَ
     translation: believers
     transliteration: mu'minīna
 ---

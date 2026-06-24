@@ -1,21 +1,21 @@
 ---
-arabic_ayat: اِلَّا عَجُوۡزًا فِى الۡغٰبِرِيۡنَ‏
+arabic_ayat: إِلَّا عَجُوزٗا فِي ٱلۡغَٰبِرِينَ
 sentence_translation: except an old woman, who was one of the doomed.
 word_by_word:
   1:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: Except
     transliteration: illā
   2:
-    arabic: عَجُوۡزًا
+    arabic: عَجُوزٗا
     translation: an old woman
     transliteration: ʿajūzan
   3:
-    arabic: فِى
+    arabic: فِي
     translation: (was) among
     transliteration: fī
   4:
-    arabic: الۡغٰبِرِيۡنَ‏
+    arabic: ٱلۡغَٰبِرِينَ
     translation: those who remained behind
     transliteration: l-ghābirīna
 ---

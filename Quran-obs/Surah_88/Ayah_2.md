@@ -1,17 +1,17 @@
 ---
-arabic_ayat: وُجُوۡهٌ يَّوۡمَٮِٕذٍ خَاشِعَةٌ ۙ‏
+arabic_ayat: وُجُوهٞ يَوۡمَئِذٍ خَٰشِعَةٌ
 sentence_translation: On that Day ˹some˺ faces will be downcast,
 word_by_word:
   1:
-    arabic: وُجُوۡهٌ
+    arabic: وُجُوهٞ
     translation: Faces
     transliteration: wujūhun
   2:
-    arabic: يَّوۡمَٮِٕذٍ
+    arabic: يَوۡمَئِذٍ
     translation: that Day
     transliteration: yawma-idhin
   3:
-    arabic: خَاشِعَةٌ ۙ‏
+    arabic: خَٰشِعَةٌ
     translation: (will be) humbled
     transliteration: khāshiʿatun
 ---

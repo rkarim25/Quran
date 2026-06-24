@@ -1,21 +1,21 @@
 ---
-arabic_ayat: يٰۤاَ يُّهَا الَّذِيۡنَ اٰمَنُوۡا لَا تَتَّخِذُوۡۤا اٰبَآءَكُمۡ وَاِخۡوَانَـكُمۡ
-  اَوۡلِيَآءَ اِنِ اسۡتَحَبُّوا الۡـكُفۡرَ عَلَى الۡاِيۡمَانِ​ ؕ وَمَنۡ يَّتَوَلَّهُمۡ
-  مِّنۡكُمۡ فَاُولٰۤٮِٕكَ هُمُ الظّٰلِمُوۡنَ‏
+arabic_ayat: يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُواْ لَا تَتَّخِذُوٓاْ ءَابَآءَكُمۡ وَإِخۡوَٰنَكُمۡ
+  أَوۡلِيَآءَ إِنِ ٱسۡتَحَبُّواْ ٱلۡكُفۡرَ عَلَى ٱلۡإِيمَٰنِۚ وَمَن يَتَوَلَّهُم
+  مِّنكُمۡ فَأُوْلَٰٓئِكَ هُمُ ٱلظَّٰلِمُونَ
 sentence_translation: O believers! Do not take your parents and siblings as trusted
   allies if they choose disbelief over belief. And whoever of you does so, they are
   the ˹true˺ wrongdoers.
 word_by_word:
   1:
-    arabic: يٰۤاَ يُّهَا
+    arabic: يَٰٓأَيُّهَا
     translation: O you
     transliteration: yāayyuhā
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ ءَ
     translation: who
     transliteration: alladhīna
   3:
-    arabic: اٰمَنُوۡا
+    arabic: امَنُواْ
     translation: believe
     transliteration: āmanū
   4:
@@ -23,31 +23,31 @@ word_by_word:
     translation: (Do) not
     transliteration: lā
   5:
-    arabic: تَتَّخِذُوۡۤا
+    arabic: تَتَّخِذُوٓاْ ءَ
     translation: take
     transliteration: tattakhidhū
   6:
-    arabic: اٰبَآءَكُمۡ
+    arabic: ابَآءَكُمۡ
     translation: your fathers
     transliteration: ābāakum
   7:
-    arabic: وَاِخۡوَانَـكُمۡ
+    arabic: وَإِخۡوَٰنَكُمۡ
     translation: and your brothers
     transliteration: wa-ikh'wānakum
   8:
-    arabic: اَوۡلِيَآءَ
+    arabic: أَوۡلِيَآءَ
     translation: (as) allies
     transliteration: awliyāa
   9:
-    arabic: اِنِ
+    arabic: إِنِ
     translation: if
     transliteration: ini
   10:
-    arabic: اسۡتَحَبُّوا
+    arabic: ٱسۡتَحَبُّواْ
     translation: they prefer
     transliteration: is'taḥabbū
   11:
-    arabic: الۡـكُفۡرَ
+    arabic: ٱلۡكُفۡرَ
     translation: '[the] disbelief'
     transliteration: l-kuf'ra
   12:
@@ -55,23 +55,23 @@ word_by_word:
     translation: over
     transliteration: ʿalā
   13:
-    arabic: الۡاِيۡمَانِ​ ؕ
+    arabic: ٱلۡإِيمَٰنِۚ
     translation: '[the] belief'
     transliteration: l-īmāni
   14:
-    arabic: وَمَنۡ
+    arabic: وَمَن
     translation: And whoever
     transliteration: waman
   15:
-    arabic: يَّتَوَلَّهُمۡ
+    arabic: يَتَوَلَّهُم
     translation: takes them as allies
     transliteration: yatawallahum
   16:
-    arabic: مِّنۡكُمۡ
+    arabic: مِّنكُمۡ
     translation: among you
     transliteration: minkum
   17:
-    arabic: فَاُولٰۤٮِٕكَ
+    arabic: فَأُوْلَٰٓئِكَ
     translation: then those
     transliteration: fa-ulāika
   18:
@@ -79,7 +79,7 @@ word_by_word:
     translation: '[they]'
     transliteration: humu
   19:
-    arabic: الظّٰلِمُوۡنَ‏
+    arabic: ٱلظَّٰلِمُونَ
     translation: (are) the wrongdoers
     transliteration: l-ẓālimūna
 ---

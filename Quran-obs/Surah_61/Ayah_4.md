@@ -1,15 +1,15 @@
 ---
-arabic_ayat: اِنَّ اللّٰهَ يُحِبُّ الَّذِيۡنَ يُقَاتِلُوۡنَ فِىۡ سَبِيۡلِهٖ صَفًّا
-  كَاَنَّهُمۡ بُنۡيَانٌ مَّرۡصُوۡصٌ‏
+arabic_ayat: إِنَّ ٱللَّهَ يُحِبُّ ٱلَّذِينَ يُقَٰتِلُونَ فِي سَبِيلِهِۦ صَفّٗا كَأَنَّهُم
+  بُنۡيَٰنٞ مَّرۡصُوصٞ
 sentence_translation: Surely Allah loves those who fight in His cause in ˹solid˺ ranks
   as if they were one concrete structure.
 word_by_word:
   1:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   2:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   3:
@@ -17,35 +17,35 @@ word_by_word:
     translation: loves
     transliteration: yuḥibbu
   4:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   5:
-    arabic: يُقَاتِلُوۡنَ
+    arabic: يُقَٰتِلُونَ
     translation: fight
     transliteration: yuqātilūna
   6:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   7:
-    arabic: سَبِيۡلِهٖ
+    arabic: سَبِيلِهِۦ
     translation: His Way
     transliteration: sabīlihi
   8:
-    arabic: صَفًّا
+    arabic: صَفّٗا
     translation: (in) a row
     transliteration: ṣaffan
   9:
-    arabic: كَاَنَّهُمۡ
+    arabic: كَأَنَّهُم
     translation: as if they
     transliteration: ka-annahum
   10:
-    arabic: بُنۡيَانٌ
+    arabic: بُنۡيَٰنٞ
     translation: (were) a structure
     transliteration: bun'yānun
   11:
-    arabic: مَّرۡصُوۡصٌ‏
+    arabic: مَّرۡصُوصٞ
     translation: joined firmly
     transliteration: marṣūṣun
 ---

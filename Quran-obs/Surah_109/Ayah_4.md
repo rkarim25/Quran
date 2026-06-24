@@ -1,17 +1,17 @@
 ---
-arabic_ayat: وَلَاۤ اَنَا عَابِدٌ مَّا عَبَدۡتُّمۡۙ‏
+arabic_ayat: وَلَآ أَنَا۠ عَابِدٞ مَّا عَبَدتُّمۡ
 sentence_translation: I will never worship what you worship,
 word_by_word:
   1:
-    arabic: وَلَاۤ
+    arabic: وَلَآ
     translation: And not
     transliteration: walā
   2:
-    arabic: اَنَا
+    arabic: أَنَا۠
     translation: I am
     transliteration: anā
   3:
-    arabic: عَابِدٌ
+    arabic: عَابِدٞ
     translation: a worshipper
     transliteration: ʿābidun
   4:
@@ -19,7 +19,7 @@ word_by_word:
     translation: (of) what
     transliteration: mā
   5:
-    arabic: عَبَدۡتُّمۡۙ‏
+    arabic: عَبَدتُّمۡ
     translation: you worship
     transliteration: ʿabadttum
 ---

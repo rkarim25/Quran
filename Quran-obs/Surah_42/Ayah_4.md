@@ -1,11 +1,10 @@
 ---
-arabic_ayat: "لَهٗ مَا فِى السَّمٰوٰتِ وَمَا فِى الۡاَرۡضِ​ؕ وَهُوَ الۡعَلِىُّ الۡعَظِيۡمُ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: لَهُۥ مَا فِي ٱلسَّمَٰوَٰتِ وَمَا فِي ٱلۡأَرۡضِۖ وَهُوَ ٱلۡعَلِيُّ ٱلۡعَظِيمُ
 sentence_translation: To Him belongs whatever is in the heavens and whatever is on
   the earth. And He is the Most High, the Greatest.
 word_by_word:
   1:
-    arabic: لَهٗ
+    arabic: لَهُۥ
     translation: To Him
     transliteration: lahu
   2:
@@ -13,11 +12,11 @@ word_by_word:
     translation: (belong) whatever
     transliteration: mā
   3:
-    arabic: فِى
+    arabic: فِي
     translation: (is) in
     transliteration: fī
   4:
-    arabic: السَّمٰوٰتِ
+    arabic: ٱلسَّمَٰوَٰتِ
     translation: the heavens
     transliteration: l-samāwāti
   5:
@@ -25,11 +24,11 @@ word_by_word:
     translation: and whatever
     transliteration: wamā
   6:
-    arabic: فِى
+    arabic: فِي
     translation: (is) in
     transliteration: fī
   7:
-    arabic: الۡاَرۡضِ​ؕ
+    arabic: ٱلۡأَرۡضِۖ
     translation: the earth
     transliteration: l-arḍi
   8:
@@ -37,11 +36,11 @@ word_by_word:
     translation: and He
     transliteration: wahuwa
   9:
-    arabic: الۡعَلِىُّ
+    arabic: ٱلۡعَلِيُّ
     translation: (is) the Most High
     transliteration: l-ʿaliyu
   10:
-    arabic: "الۡعَظِيۡمُ‏ \uFEFF\uFEFF"
+    arabic: ٱلۡعَظِيمُ
     translation: the Most Great
     transliteration: l-ʿaẓīmu
 ---

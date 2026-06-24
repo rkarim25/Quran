@@ -1,13 +1,13 @@
 ---
-arabic_ayat: سَاُصۡلِيۡهِ سَقَرَ‏
+arabic_ayat: سَأُصۡلِيهِ سَقَرَ
 sentence_translation: Soon I will burn him in Hell!
 word_by_word:
   1:
-    arabic: سَاُصۡلِيۡهِ
+    arabic: سَأُصۡلِيهِ
     translation: Soon I will drive him
     transliteration: sa-uṣ'līhi
   2:
-    arabic: سَقَرَ‏
+    arabic: سَقَرَ
     translation: (into) Hell
     transliteration: saqara
 ---

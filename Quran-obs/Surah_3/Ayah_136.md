@@ -1,25 +1,24 @@
 ---
-arabic_ayat: "اُولٰٓٮِٕكَ جَزَآؤُهُمۡ مَّغۡفِرَةٌ مِّنۡ رَّبِّهِمۡ وَ جَنّٰتٌ تَجۡرِىۡ\
-  \ مِنۡ تَحۡتِهَا الۡاَنۡهٰرُ خٰلِدِيۡنَ فِيۡهَا​ ؕ وَنِعۡمَ اَجۡرُ الۡعٰمِلِيۡنَؕ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: أُوْلَٰٓئِكَ جَزَآؤُهُم مَّغۡفِرَةٞ مِّن رَّبِّهِمۡ وَجَنَّٰتٞ تَجۡرِي
+  مِن تَحۡتِهَا ٱلۡأَنۡهَٰرُ خَٰلِدِينَ فِيهَاۚ وَنِعۡمَ أَجۡرُ ٱلۡعَٰمِلِينَ
 sentence_translation: Their reward is forgiveness from their Lord and Gardens under
   which rivers flow, staying there forever. How excellent is the reward for those
   who work ˹righteousness˺!
 word_by_word:
   1:
-    arabic: اُولٰٓٮِٕكَ
+    arabic: أُوْلَٰٓئِكَ
     translation: 'Those '
     transliteration: ulāika
   2:
-    arabic: جَزَآؤُهُمۡ
+    arabic: جَزَآؤُهُم
     translation: their reward
     transliteration: jazāuhum
   3:
-    arabic: مَّغۡفِرَةٌ
+    arabic: مَّغۡفِرَةٞ
     translation: (is) forgiveness
     transliteration: maghfiratun
   4:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: from
     transliteration: min
   5:
@@ -27,15 +26,15 @@ word_by_word:
     translation: their Lord
     transliteration: rabbihim
   6:
-    arabic: وَ جَنّٰتٌ
+    arabic: وَجَنَّٰتٞ
     translation: and Gardens
     transliteration: wajannātun
   7:
-    arabic: تَجۡرِىۡ
+    arabic: تَجۡرِي
     translation: flows
     transliteration: tajrī
   8:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   9:
@@ -43,15 +42,15 @@ word_by_word:
     translation: underneath it
     transliteration: taḥtihā
   10:
-    arabic: الۡاَنۡهٰرُ
+    arabic: ٱلۡأَنۡهَٰرُ
     translation: the rivers
     transliteration: l-anhāru
   11:
-    arabic: خٰلِدِيۡنَ
+    arabic: خَٰلِدِينَ
     translation: abiding forever
     transliteration: khālidīna
   12:
-    arabic: فِيۡهَا​ ؕ
+    arabic: فِيهَاۚ
     translation: in it
     transliteration: fīhā
   13:
@@ -59,11 +58,11 @@ word_by_word:
     translation: And an excellent
     transliteration: waniʿ'ma
   14:
-    arabic: اَجۡرُ
+    arabic: أَجۡرُ
     translation: reward
     transliteration: ajru
   15:
-    arabic: "الۡعٰمِلِيۡنَؕ‏ \uFEFF\uFEFF"
+    arabic: ٱلۡعَٰمِلِينَ
     translation: (for) the (righteous) workers
     transliteration: l-ʿāmilīna
 ---

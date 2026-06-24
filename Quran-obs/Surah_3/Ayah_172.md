@@ -1,28 +1,28 @@
 ---
-arabic_ayat: اَلَّذِيۡنَ اسۡتَجَابُوۡا لِلّٰهِ وَالرَّسُوۡلِ مِنۡۢ بَعۡدِ مَاۤ اَصَابَهُمُ
-  الۡقَرۡحُ  ۛؕ لِلَّذِيۡنَ اَحۡسَنُوۡا مِنۡهُمۡ وَاتَّقَوۡا اَجۡرٌ عَظِيۡمٌ​ۚ‏
+arabic_ayat: ٱلَّذِينَ ٱسۡتَجَابُواْ لِلَّهِ وَٱلرَّسُولِ مِنۢ بَعۡدِ مَآ أَصَابَهُمُ
+  ٱلۡقَرۡحُۚ لِلَّذِينَ أَحۡسَنُواْ مِنۡهُمۡ وَٱتَّقَوۡاْ أَجۡرٌ عَظِيمٌ
 sentence_translation: ˹As for˺ those who responded to the call of Allah and His Messenger
   after their injury, those of them who did good and were mindful ˹of Allah˺ will
   have a great reward.
 word_by_word:
   1:
-    arabic: اَلَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: Those who
     transliteration: alladhīna
   2:
-    arabic: اسۡتَجَابُوۡا
+    arabic: ٱسۡتَجَابُواْ
     translation: responded
     transliteration: is'tajābū
   3:
-    arabic: لِلّٰهِ
+    arabic: لِلَّهِ
     translation: to Allah
     transliteration: lillahi
   4:
-    arabic: وَالرَّسُوۡلِ
+    arabic: وَٱلرَّسُولِ
     translation: and the Messenger
     transliteration: wal-rasūli
   5:
-    arabic: مِنۡۢ
+    arabic: مِنۢ
     translation: from
     transliteration: min
   6:
@@ -30,23 +30,23 @@ word_by_word:
     translation: after
     transliteration: baʿdi
   7:
-    arabic: مَاۤ
+    arabic: مَآ
     translation: what
     transliteration: mā
   8:
-    arabic: اَصَابَهُمُ
+    arabic: أَصَابَهُمُ
     translation: 'befell them '
     transliteration: aṣābahumu
   9:
-    arabic: الۡقَرۡحُ  ۛؕ
+    arabic: ٱلۡقَرۡحُۚ
     translation: 'the injury '
     transliteration: l-qarḥu
   10:
-    arabic: لِلَّذِيۡنَ
+    arabic: لِلَّذِينَ
     translation: for those who
     transliteration: lilladhīna
   11:
-    arabic: اَحۡسَنُوۡا
+    arabic: أَحۡسَنُواْ
     translation: did good
     transliteration: aḥsanū
   12:
@@ -54,15 +54,15 @@ word_by_word:
     translation: among them
     transliteration: min'hum
   13:
-    arabic: وَاتَّقَوۡا
+    arabic: وَٱتَّقَوۡاْ
     translation: and feared Allah
     transliteration: wa-ittaqaw
   14:
-    arabic: اَجۡرٌ
+    arabic: أَجۡرٌ
     translation: '(is) a reward '
     transliteration: ajrun
   15:
-    arabic: عَظِيۡمٌ​ۚ‏
+    arabic: عَظِيمٌ
     translation: great
     transliteration: ʿaẓīmun
 ---

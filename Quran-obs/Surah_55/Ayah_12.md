@@ -1,9 +1,9 @@
 ---
-arabic_ayat: وَالۡحَبُّ ذُو الۡعَصۡفِ وَالرَّيۡحَانُ​ۚ‏
+arabic_ayat: وَٱلۡحَبُّ ذُو ٱلۡعَصۡفِ وَٱلرَّيۡحَانُ
 sentence_translation: and grain with husks, and aromatic plants.
 word_by_word:
   1:
-    arabic: وَالۡحَبُّ
+    arabic: وَٱلۡحَبُّ
     translation: And the grain
     transliteration: wal-ḥabu
   2:
@@ -11,11 +11,11 @@ word_by_word:
     translation: having
     transliteration: dhū
   3:
-    arabic: الۡعَصۡفِ
+    arabic: ٱلۡعَصۡفِ
     translation: husk
     transliteration: l-ʿaṣfi
   4:
-    arabic: وَالرَّيۡحَانُ​ۚ‏
+    arabic: وَٱلرَّيۡحَانُ
     translation: and scented plants
     transliteration: wal-rayḥānu
 ---

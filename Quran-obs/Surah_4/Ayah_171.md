@@ -1,10 +1,10 @@
 ---
-arabic_ayat: يٰۤـاَهۡلَ الۡكِتٰبِ لَا تَغۡلُوۡا فِىۡ دِيۡـنِكُمۡوَلَا تَقُوۡلُوۡا
-  عَلَى اللّٰهِ اِلَّا الۡحَـقَّ​ ؕ اِنَّمَا الۡمَسِيۡحُ عِيۡسَى ابۡنُ مَرۡيَمَ رَسُوۡلُ
-  اللّٰهِ وَكَلِمَتُهٗ​ ۚ اَ لۡقٰٮهَاۤ اِلٰى مَرۡيَمَ وَرُوۡحٌ مِّنۡهُ​ فَاٰمِنُوۡا
-  بِاللّٰهِ وَرُسُلِهٖ​ ​ۚ وَلَا تَقُوۡلُوۡا ثَلٰثَةٌ​ ؕ اِنْتَهُوۡا خَيۡرًا لَّـكُمۡ​
-  ؕ اِنَّمَا اللّٰهُ اِلٰـهٌ وَّاحِدٌ​ ؕ سُبۡحٰنَهٗۤ اَنۡ يَّكُوۡنَ لَهٗ وَلَدٌ​ ۘ
-  لَهٗ مَا فِى السَّمٰوٰتِ وَمَا فِى الۡاَرۡضِ​ؕ وَكَفٰى بِاللّٰهِ وَكِيۡلًا‏
+arabic_ayat: يَٰٓأَهۡلَ ٱلۡكِتَٰبِ لَا تَغۡلُواْ فِي دِينِكُمۡ وَلَا تَقُولُواْ عَلَى
+  ٱللَّهِ إِلَّا ٱلۡحَقَّۚ إِنَّمَا ٱلۡمَسِيحُ عِيسَى ٱبۡنُ مَرۡيَمَ رَسُولُ ٱللَّهِ
+  وَكَلِمَتُهُۥٓ أَلۡقَىٰهَآ إِلَىٰ مَرۡيَمَ وَرُوحٞ مِّنۡهُۖ فَـَٔامِنُواْ بِٱللَّهِ
+  وَرُسُلِهِۦۖ وَلَا تَقُولُواْ ثَلَٰثَةٌۚ ٱنتَهُواْ خَيۡرٗا لَّكُمۡۚ إِنَّمَا ٱللَّهُ
+  إِلَٰهٞ وَٰحِدٞۖ سُبۡحَٰنَهُۥٓ أَن يَكُونَ لَهُۥ وَلَدٞۘ لَّهُۥ مَا فِي ٱلسَّمَٰوَٰتِ
+  وَمَا فِي ٱلۡأَرۡضِۗ وَكَفَىٰ بِٱللَّهِ وَكِيلٗا
 sentence_translation: O People of the Book! Do not go to extremes regarding your faith;
   say nothing about Allah except the truth. The Messiah, Jesus, son of Mary, was no
   more than a messenger of Allah and the fulfilment of His Word through Mary and a
@@ -14,11 +14,11 @@ sentence_translation: O People of the Book! Do not go to extremes regarding your
   and whatever is on the earth. And Allah is sufficient as a Trustee of Affairs.
 word_by_word:
   1:
-    arabic: يٰۤـاَهۡلَ
+    arabic: يَٰٓأَهۡلَ
     translation: O People
     transliteration: yāahla
   2:
-    arabic: الۡكِتٰبِ
+    arabic: ٱلۡكِتَٰبِ
     translation: (of) the Book
     transliteration: l-kitābi
   3:
@@ -26,15 +26,15 @@ word_by_word:
     translation: (Do) not
     transliteration: lā
   4:
-    arabic: تَغۡلُوۡا
+    arabic: تَغۡلُواْ
     translation: commit excess
     transliteration: taghlū
   5:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   6:
-    arabic: دِيۡـنِكُمۡ
+    arabic: دِينِكُمۡ
     translation: your religion
     transliteration: dīnikum
   7:
@@ -42,7 +42,7 @@ word_by_word:
     translation: and (do) not
     transliteration: walā
   8:
-    arabic: تَقُوۡلُوۡا
+    arabic: تَقُولُواْ
     translation: say
     transliteration: taqūlū
   9:
@@ -50,31 +50,31 @@ word_by_word:
     translation: about
     transliteration: ʿalā
   10:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   11:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   12:
-    arabic: الۡحَـقَّ​ ؕ
+    arabic: ٱلۡحَقَّۚ
     translation: the truth
     transliteration: l-ḥaqa
   13:
-    arabic: اِنَّمَا
+    arabic: إِنَّمَا
     translation: Only
     transliteration: innamā
   14:
-    arabic: الۡمَسِيۡحُ
+    arabic: ٱلۡمَسِيحُ
     translation: the Messiah
     transliteration: l-masīḥu
   15:
-    arabic: عِيۡسَى
+    arabic: عِيسَى
     translation: Isa
     transliteration: ʿīsā
   16:
-    arabic: ابۡنُ
+    arabic: ٱبۡنُ
     translation: son
     transliteration: ub'nu
   17:
@@ -82,23 +82,23 @@ word_by_word:
     translation: (of) Maryam
     transliteration: maryama
   18:
-    arabic: رَسُوۡلُ
+    arabic: رَسُولُ
     translation: (was) a Messenger
     transliteration: rasūlu
   19:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (of) Allah
     transliteration: l-lahi
   20:
-    arabic: وَكَلِمَتُهٗ​ ۚ
+    arabic: وَكَلِمَتُهُۥٓ
     translation: and His word
     transliteration: wakalimatuhu
   21:
-    arabic: اَ لۡقٰٮهَاۤ
+    arabic: أَلۡقَىٰهَآ
     translation: which He conveyed
     transliteration: alqāhā
   22:
-    arabic: اِلٰى
+    arabic: إِلَىٰ
     translation: to
     transliteration: ilā
   23:
@@ -106,23 +106,23 @@ word_by_word:
     translation: Maryam
     transliteration: maryama
   24:
-    arabic: وَرُوۡحٌ
+    arabic: وَرُوحٞ
     translation: and a spirit
     transliteration: warūḥun
   25:
-    arabic: مِّنۡهُ​
+    arabic: مِّنۡهُۖ
     translation: from Him
     transliteration: min'hu
   26:
-    arabic: فَاٰمِنُوۡا
+    arabic: فَـَٔامِنُواْ
     translation: So believe
     transliteration: faāminū
   27:
-    arabic: بِاللّٰهِ
+    arabic: بِٱللَّهِ
     translation: in Allah
     transliteration: bil-lahi
   28:
-    arabic: وَرُسُلِهٖ​ ​ۚ
+    arabic: وَرُسُلِهِۦۖ
     translation: and His Messengers
     transliteration: warusulihi
   29:
@@ -130,63 +130,63 @@ word_by_word:
     translation: And (do) not
     transliteration: walā
   30:
-    arabic: تَقُوۡلُوۡا
+    arabic: تَقُولُواْ
     translation: say
     transliteration: taqūlū
   31:
-    arabic: ثَلٰثَةٌ​ ؕ
+    arabic: ثَلَٰثَةٌۚ
     translation: Three
     transliteration: thalāthatun
   32:
-    arabic: اِنْتَهُوۡا
+    arabic: ٱنتَهُواْ
     translation: desist
     transliteration: intahū
   33:
-    arabic: خَيۡرًا
+    arabic: خَيۡرٗا
     translation: (it is) better
     transliteration: khayran
   34:
-    arabic: لَّـكُمۡ​ ؕ
+    arabic: لَّكُمۡۚ
     translation: for you
     transliteration: lakum
   35:
-    arabic: اِنَّمَا
+    arabic: إِنَّمَا
     translation: Only
     transliteration: innamā
   36:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   37:
-    arabic: اِلٰـهٌ
+    arabic: إِلَٰهٞ
     translation: (is) God
     transliteration: ilāhun
   38:
-    arabic: وَّاحِدٌ​ ؕ
+    arabic: وَٰحِدٞۖ
     translation: One
     transliteration: wāḥidun
   39:
-    arabic: سُبۡحٰنَهٗۤ
+    arabic: سُبۡحَٰنَهُۥٓ
     translation: Glory be to Him
     transliteration: sub'ḥānahu
   40:
-    arabic: اَنۡ
+    arabic: أَن
     translation: That
     transliteration: an
   41:
-    arabic: يَّكُوۡنَ
+    arabic: يَكُونَ
     translation: He (should) have
     transliteration: yakūna
   42:
-    arabic: لَهٗ
+    arabic: لَهُۥ
     translation: for Him
     transliteration: lahu
   43:
-    arabic: وَلَدٌ​ ۘ
+    arabic: وَلَدٞۘ
     translation: a son
     transliteration: waladun
   44:
-    arabic: لَهٗ
+    arabic: لَّهُۥ
     translation: To Him (belongs)
     transliteration: lahu
   45:
@@ -194,11 +194,11 @@ word_by_word:
     translation: whatever
     transliteration: mā
   46:
-    arabic: فِى
+    arabic: فِي
     translation: (is) in
     transliteration: fī
   47:
-    arabic: السَّمٰوٰتِ
+    arabic: ٱلسَّمَٰوَٰتِ
     translation: the heavens
     transliteration: l-samāwāti
   48:
@@ -206,23 +206,23 @@ word_by_word:
     translation: and whatever
     transliteration: wamā
   49:
-    arabic: فِى
+    arabic: فِي
     translation: (is) in
     transliteration: fī
   50:
-    arabic: الۡاَرۡضِ​ؕ
+    arabic: ٱلۡأَرۡضِۗ
     translation: the earth
     transliteration: l-arḍi
   51:
-    arabic: وَكَفٰى
+    arabic: وَكَفَىٰ
     translation: And is sufficient
     transliteration: wakafā
   52:
-    arabic: بِاللّٰهِ
+    arabic: بِٱللَّهِ
     translation: Allah
     transliteration: bil-lahi
   53:
-    arabic: وَكِيۡلًا‏
+    arabic: وَكِيلٗا
     translation: (as) a Disposer of affairs
     transliteration: wakīlan
 ---

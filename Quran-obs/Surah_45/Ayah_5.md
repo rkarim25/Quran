@@ -1,33 +1,33 @@
 ---
-arabic_ayat: وَاخۡتِلَافِ الَّيۡلِ وَالنَّهَارِ وَمَاۤ اَنۡزَلَ اللّٰهُ مِنَ السَّمَآءِ
-  مِنۡ رِّزۡقٍ فَاَحۡيَا بِهِ الۡاَرۡضَ بَعۡدَ مَوۡتِهَا وَ تَصۡرِيۡفِ الرِّيٰحِ اٰيٰتٌ
-  لِّقَوۡمٍ يَّعۡقِلُوۡنَ‏
+arabic_ayat: وَٱخۡتِلَٰفِ ٱلَّيۡلِ وَٱلنَّهَارِ وَمَآ أَنزَلَ ٱللَّهُ مِنَ ٱلسَّمَآءِ
+  مِن رِّزۡقٖ فَأَحۡيَا بِهِ ٱلۡأَرۡضَ بَعۡدَ مَوۡتِهَا وَتَصۡرِيفِ ٱلرِّيَٰحِ ءَايَٰتٞ
+  لِّقَوۡمٖ يَعۡقِلُونَ
 sentence_translation: And ˹in˺ the alternation of the day and the night, the provision sent
   down from the skies by Allah—reviving the earth after its death—and the shifting
   of the winds, are signs for people of understanding.
 word_by_word:
   1:
-    arabic: وَاخۡتِلَافِ
+    arabic: وَٱخۡتِلَٰفِ
     translation: And (in the) alternation
     transliteration: wa-ikh'tilāfi
   2:
-    arabic: الَّيۡلِ
+    arabic: ٱلَّيۡلِ
     translation: (of) the night
     transliteration: al-layli
   3:
-    arabic: وَالنَّهَارِ
+    arabic: وَٱلنَّهَارِ
     translation: and the day
     transliteration: wal-nahāri
   4:
-    arabic: وَمَاۤ
+    arabic: وَمَآ
     translation: and what
     transliteration: wamā
   5:
-    arabic: اَنۡزَلَ
+    arabic: أَنزَلَ
     translation: Allah sends down
     transliteration: anzala
   6:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah sends down
     transliteration: l-lahu
   7:
@@ -35,19 +35,19 @@ word_by_word:
     translation: from
     transliteration: mina
   8:
-    arabic: السَّمَآءِ
+    arabic: ٱلسَّمَآءِ
     translation: the sky
     transliteration: l-samāi
   9:
-    arabic: مِنۡ
+    arabic: مِن
     translation: of
     transliteration: min
   10:
-    arabic: رِّزۡقٍ
+    arabic: رِّزۡقٖ
     translation: (the) provision
     transliteration: riz'qin
   11:
-    arabic: فَاَحۡيَا
+    arabic: فَأَحۡيَا
     translation: and gives life
     transliteration: fa-aḥyā
   12:
@@ -55,7 +55,7 @@ word_by_word:
     translation: thereby
     transliteration: bihi
   13:
-    arabic: الۡاَرۡضَ
+    arabic: ٱلۡأَرۡضَ
     translation: (to) the earth
     transliteration: l-arḍa
   14:
@@ -67,23 +67,23 @@ word_by_word:
     translation: its death
     transliteration: mawtihā
   16:
-    arabic: وَ تَصۡرِيۡفِ
+    arabic: وَتَصۡرِيفِ
     translation: and (in) directing
     transliteration: wataṣrīfi
   17:
-    arabic: الرِّيٰحِ
+    arabic: ٱلرِّيَٰحِ ءَ
     translation: (the) winds
     transliteration: l-riyāḥi
   18:
-    arabic: اٰيٰتٌ
+    arabic: ايَٰتٞ
     translation: (are) Signs
     transliteration: āyātun
   19:
-    arabic: لِّقَوۡمٍ
+    arabic: لِّقَوۡمٖ
     translation: for a people
     transliteration: liqawmin
   20:
-    arabic: يَّعۡقِلُوۡنَ‏
+    arabic: يَعۡقِلُونَ
     translation: who reason
     transliteration: yaʿqilūna
 ---

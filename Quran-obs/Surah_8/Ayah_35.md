@@ -1,6 +1,6 @@
 ---
-arabic_ayat: وَمَا كَانَ صَلَاتُهُمۡ عِنۡدَ الۡبَيۡتِ اِلَّا مُكَآءً وَّتَصۡدِيَةً​ 
-  ؕ فَذُوۡقُوا الۡعَذَابَ بِمَا كُنۡتُمۡ تَكۡفُرُوۡنَ‏
+arabic_ayat: وَمَا كَانَ صَلَاتُهُمۡ عِندَ ٱلۡبَيۡتِ إِلَّا مُكَآءٗ وَتَصۡدِيَةٗۚ
+  فَذُوقُواْ ٱلۡعَذَابَ بِمَا كُنتُمۡ تَكۡفُرُونَ
 sentence_translation: Their prayer at the Sacred House was nothing but whistling and
   clapping. So taste the punishment for your disbelief.
 word_by_word:
@@ -17,31 +17,31 @@ word_by_word:
     translation: their prayer
     transliteration: ṣalātuhum
   4:
-    arabic: عِنۡدَ
+    arabic: عِندَ
     translation: at
     transliteration: ʿinda
   5:
-    arabic: الۡبَيۡتِ
+    arabic: ٱلۡبَيۡتِ
     translation: the House
     transliteration: l-bayti
   6:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   7:
-    arabic: مُكَآءً
+    arabic: مُكَآءٗ
     translation: whistling
     transliteration: mukāan
   8:
-    arabic: وَّتَصۡدِيَةً​  ؕ
+    arabic: وَتَصۡدِيَةٗۚ
     translation: and clapping
     transliteration: wataṣdiyatan
   9:
-    arabic: فَذُوۡقُوا
+    arabic: فَذُوقُواْ
     translation: So taste
     transliteration: fadhūqū
   10:
-    arabic: الۡعَذَابَ
+    arabic: ٱلۡعَذَابَ
     translation: the punishment
     transliteration: l-ʿadhāba
   11:
@@ -49,11 +49,11 @@ word_by_word:
     translation: because
     transliteration: bimā
   12:
-    arabic: كُنۡتُمۡ
+    arabic: كُنتُمۡ
     translation: you used to
     transliteration: kuntum
   13:
-    arabic: تَكۡفُرُوۡنَ‏
+    arabic: تَكۡفُرُونَ
     translation: disbelieve
     transliteration: takfurūna
 ---

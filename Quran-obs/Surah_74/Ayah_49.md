@@ -1,5 +1,5 @@
 ---
-arabic_ayat: فَمَا لَهُمۡ عَنِ التَّذۡكِرَةِ مُعۡرِضِيۡنَۙ‏
+arabic_ayat: فَمَا لَهُمۡ عَنِ ٱلتَّذۡكِرَةِ مُعۡرِضِينَ
 sentence_translation: Now, what is the matter with them that they are turning away
   from the reminder,
 word_by_word:
@@ -16,11 +16,11 @@ word_by_word:
     translation: (that) from
     transliteration: ʿani
   4:
-    arabic: التَّذۡكِرَةِ
+    arabic: ٱلتَّذۡكِرَةِ
     translation: the Reminder
     transliteration: l-tadhkirati
   5:
-    arabic: مُعۡرِضِيۡنَۙ‏
+    arabic: مُعۡرِضِينَ
     translation: they (are) turning away
     transliteration: muʿ'riḍīna
 ---

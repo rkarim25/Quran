@@ -1,33 +1,33 @@
 ---
-arabic_ayat: وَاتَّبَعۡتُ مِلَّةَ اٰبَآءِىۡۤ اِبۡرٰهِيۡمَ وَاِسۡحٰقَ وَيَعۡقُوۡبَ​ؕ
-  مَا كَانَ لَنَاۤ اَنۡ نُّشۡرِكَ بِاللّٰهِ مِنۡ شَىۡءٍ​ؕ ذٰلِكَ مِنۡ فَضۡلِ اللّٰهِ
-  عَلَيۡنَا وَعَلَى النَّاسِ وَلٰـكِنَّ اَكۡثَرَ النَّاسِ لَا يَشۡكُرُوۡنَ‏
+arabic_ayat: وَٱتَّبَعۡتُ مِلَّةَ ءَابَآءِيٓ إِبۡرَٰهِيمَ وَإِسۡحَٰقَ وَيَعۡقُوبَۚ
+  مَا كَانَ لَنَآ أَن نُّشۡرِكَ بِٱللَّهِ مِن شَيۡءٖۚ ذَٰلِكَ مِن فَضۡلِ ٱللَّهِ
+  عَلَيۡنَا وَعَلَى ٱلنَّاسِ وَلَٰكِنَّ أَكۡثَرَ ٱلنَّاسِ لَا يَشۡكُرُونَ
 sentence_translation: 'I follow the faith of my fathers: Abraham, Isaac, and Jacob.
   It is not ˹right˺ for us to associate anything with Allah ˹in worship˺. This is
   part of Allah’s grace upon us and humanity, but most people are not grateful.'
 word_by_word:
   1:
-    arabic: وَاتَّبَعۡتُ
+    arabic: وَٱتَّبَعۡتُ
     translation: And I follow
     transliteration: wa-ittabaʿtu
   2:
-    arabic: مِلَّةَ
+    arabic: مِلَّةَ ءَ
     translation: (the) religion
     transliteration: millata
   3:
-    arabic: اٰبَآءِىۡۤ
+    arabic: ابَآءِيٓ
     translation: (of) my forefathers
     transliteration: ābāī
   4:
-    arabic: اِبۡرٰهِيۡمَ
+    arabic: إِبۡرَٰهِيمَ
     translation: Ibrahim
     transliteration: ib'rāhīma
   5:
-    arabic: وَاِسۡحٰقَ
+    arabic: وَإِسۡحَٰقَ
     translation: and Isaac
     transliteration: wa-is'ḥāqa
   6:
-    arabic: وَيَعۡقُوۡبَ​ؕ
+    arabic: وَيَعۡقُوبَۚ
     translation: and Yaqub
     transliteration: wayaʿqūba
   7:
@@ -39,11 +39,11 @@ word_by_word:
     translation: was
     transliteration: kāna
   9:
-    arabic: لَنَاۤ
+    arabic: لَنَآ
     translation: for us
     transliteration: lanā
   10:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that
     transliteration: an
   11:
@@ -51,23 +51,23 @@ word_by_word:
     translation: we associate
     transliteration: nush'rika
   12:
-    arabic: بِاللّٰهِ
+    arabic: بِٱللَّهِ
     translation: with Allah
     transliteration: bil-lahi
   13:
-    arabic: مِنۡ
+    arabic: مِن
     translation: any
     transliteration: min
   14:
-    arabic: شَىۡءٍ​ؕ
+    arabic: شَيۡءٖۚ
     translation: thing
     transliteration: shayin
   15:
-    arabic: ذٰلِكَ
+    arabic: ذَٰلِكَ
     translation: That
     transliteration: dhālika
   16:
-    arabic: مِنۡ
+    arabic: مِن
     translation: (is) from
     transliteration: min
   17:
@@ -75,7 +75,7 @@ word_by_word:
     translation: (the) Grace
     transliteration: faḍli
   18:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (of) Allah
     transliteration: l-lahi
   19:
@@ -87,19 +87,19 @@ word_by_word:
     translation: and upon
     transliteration: waʿalā
   21:
-    arabic: النَّاسِ
+    arabic: ٱلنَّاسِ
     translation: the mankind
     transliteration: l-nāsi
   22:
-    arabic: وَلٰـكِنَّ
+    arabic: وَلَٰكِنَّ
     translation: but
     transliteration: walākinna
   23:
-    arabic: اَكۡثَرَ
+    arabic: أَكۡثَرَ
     translation: most
     transliteration: akthara
   24:
-    arabic: النَّاسِ
+    arabic: ٱلنَّاسِ
     translation: (of) the men
     transliteration: l-nāsi
   25:
@@ -107,7 +107,7 @@ word_by_word:
     translation: (are) not
     transliteration: lā
   26:
-    arabic: يَشۡكُرُوۡنَ‏
+    arabic: يَشۡكُرُونَ
     translation: grateful
     transliteration: yashkurūna
 ---

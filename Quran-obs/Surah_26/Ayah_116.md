@@ -1,15 +1,14 @@
 ---
-arabic_ayat: "قَالُوۡا لَٮِٕنۡ لَّمۡ تَنۡتَهِ يٰـنُوۡحُ لَـتَكُوۡنَنَّ مِنَ الۡمَرۡجُوۡمِيۡنَؕ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: قَالُواْ لَئِن لَّمۡ تَنتَهِ يَٰنُوحُ لَتَكُونَنَّ مِنَ ٱلۡمَرۡجُومِينَ
 sentence_translation: They threatened, “If you do not desist, O  Noah, you will surely
   be stoned ˹to death˺.”
 word_by_word:
   1:
-    arabic: قَالُوۡا
+    arabic: قَالُواْ
     translation: They said
     transliteration: qālū
   2:
-    arabic: لَٮِٕنۡ
+    arabic: لَئِن
     translation: If
     transliteration: la-in
   3:
@@ -17,15 +16,15 @@ word_by_word:
     translation: not
     transliteration: lam
   4:
-    arabic: تَنۡتَهِ
+    arabic: تَنتَهِ
     translation: you desist
     transliteration: tantahi
   5:
-    arabic: يٰـنُوۡحُ
+    arabic: يَٰنُوحُ
     translation: O Nuh
     transliteration: yānūḥu
   6:
-    arabic: لَـتَكُوۡنَنَّ
+    arabic: لَتَكُونَنَّ
     translation: Surely you will be
     transliteration: latakūnanna
   7:
@@ -33,7 +32,7 @@ word_by_word:
     translation: of
     transliteration: mina
   8:
-    arabic: "الۡمَرۡجُوۡمِيۡنَؕ‏ \uFEFF\uFEFF"
+    arabic: ٱلۡمَرۡجُومِينَ
     translation: those who are stoned
     transliteration: l-marjūmīna
 ---

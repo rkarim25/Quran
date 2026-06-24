@@ -1,11 +1,11 @@
 ---
-arabic_ayat: اَمۡ حَسِبَ الَّذِيۡنَ فِىۡ قُلُوۡبِهِمۡ مَّرَضٌ اَنۡ لَّنۡ يُّخۡرِجَ
-  اللّٰهُ اَضۡغَانَهُمۡ‏
+arabic_ayat: أَمۡ حَسِبَ ٱلَّذِينَ فِي قُلُوبِهِم مَّرَضٌ أَن لَّن يُخۡرِجَ ٱللَّهُ
+  أَضۡغَٰنَهُمۡ
 sentence_translation: Or do those with sickness in their hearts think that Allah will
   not ˹be able to˺ expose their malice?
 word_by_word:
   1:
-    arabic: اَمۡ
+    arabic: أَمۡ
     translation: Or do
     transliteration: am
   2:
@@ -13,15 +13,15 @@ word_by_word:
     translation: think
     transliteration: ḥasiba
   3:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   4:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   5:
-    arabic: قُلُوۡبِهِمۡ
+    arabic: قُلُوبِهِم
     translation: their hearts
     transliteration: qulūbihim
   6:
@@ -29,23 +29,23 @@ word_by_word:
     translation: (is) a disease
     transliteration: maraḍun
   7:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that
     transliteration: an
   8:
-    arabic: لَّنۡ
+    arabic: لَّن
     translation: never
     transliteration: lan
   9:
-    arabic: يُّخۡرِجَ
+    arabic: يُخۡرِجَ
     translation: will Allah bring forth
     transliteration: yukh'rija
   10:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: will Allah bring forth
     transliteration: l-lahu
   11:
-    arabic: اَضۡغَانَهُمۡ‏
+    arabic: أَضۡغَٰنَهُمۡ
     translation: their hatred
     transliteration: aḍghānahum
 ---

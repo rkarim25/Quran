@@ -1,6 +1,6 @@
 ---
-arabic_ayat: "وَيَوۡمَ تَشَقَّقُ السَّمَآءُ بِالۡـغَمَامِ وَنُزِّلَ الۡمَلٰٓٮِٕكَةُ\
-  \ تَنۡزِيۡلًا‏ \uFEFF\uFEFF"
+arabic_ayat: وَيَوۡمَ تَشَقَّقُ ٱلسَّمَآءُ بِٱلۡغَمَٰمِ وَنُزِّلَ ٱلۡمَلَٰٓئِكَةُ
+  تَنزِيلًا
 sentence_translation: ˹Watch for˺ the Day the heavens will burst with clouds, and
   the angels will be sent down in successive ranks.
 word_by_word:
@@ -13,11 +13,11 @@ word_by_word:
     translation: will split open
     transliteration: tashaqqaqu
   3:
-    arabic: السَّمَآءُ
+    arabic: ٱلسَّمَآءُ
     translation: the heavens
     transliteration: l-samāu
   4:
-    arabic: بِالۡـغَمَامِ
+    arabic: بِٱلۡغَمَٰمِ
     translation: with the clouds
     transliteration: bil-ghamāmi
   5:
@@ -25,11 +25,11 @@ word_by_word:
     translation: and (will be) sent down
     transliteration: wanuzzila
   6:
-    arabic: الۡمَلٰٓٮِٕكَةُ
+    arabic: ٱلۡمَلَٰٓئِكَةُ
     translation: the Angels
     transliteration: l-malāikatu
   7:
-    arabic: "تَنۡزِيۡلًا‏ \uFEFF\uFEFF"
+    arabic: تَنزِيلًا
     translation: descending
     transliteration: tanzīlan
 ---

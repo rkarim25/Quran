@@ -1,14 +1,13 @@
 ---
-arabic_ayat: "اِنَّ اللّٰهَ مَعَ الَّذِيۡنَ اتَّقَوْا وَّالَّذِيۡنَ هُمۡ مُّحۡسِنُوۡنَ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: إِنَّ ٱللَّهَ مَعَ ٱلَّذِينَ ٱتَّقَواْ وَّٱلَّذِينَ هُم مُّحۡسِنُونَ
 sentence_translation: Surely Allah is with those who shun evil and who do good ˹deeds˺.
 word_by_word:
   1:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   2:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   3:
@@ -16,23 +15,23 @@ word_by_word:
     translation: (is) with
     transliteration: maʿa
   4:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   5:
-    arabic: اتَّقَوْا
+    arabic: ٱتَّقَواْ
     translation: fear (Him)
     transliteration: ittaqaw
   6:
-    arabic: وَّالَّذِيۡنَ
+    arabic: وَّٱلَّذِينَ
     translation: and those who
     transliteration: wa-alladhīna
   7:
-    arabic: هُمۡ
+    arabic: هُم
     translation: '[they]'
     transliteration: hum
   8:
-    arabic: "مُّحۡسِنُوۡنَ‏ \uFEFF\uFEFF"
+    arabic: مُّحۡسِنُونَ
     translation: (are) good-doers
     transliteration: muḥ'sinūna
 ---

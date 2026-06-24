@@ -1,10 +1,10 @@
 ---
-arabic_ayat: اِنَّا لَمَّا طَغَا الۡمَآءُ حَمَلۡنٰكُمۡ فِى الۡجَارِيَةِ ۙ‏
+arabic_ayat: إِنَّا لَمَّا طَغَا ٱلۡمَآءُ حَمَلۡنَٰكُمۡ فِي ٱلۡجَارِيَةِ
 sentence_translation: Indeed, when the floodwater had overflowed, We carried you in
   the floating Ark ˹with Noah˺,
 word_by_word:
   1:
-    arabic: اِنَّا
+    arabic: إِنَّا
     translation: Indeed, We
     transliteration: innā
   2:
@@ -16,19 +16,19 @@ word_by_word:
     translation: overflowed
     transliteration: ṭaghā
   4:
-    arabic: الۡمَآءُ
+    arabic: ٱلۡمَآءُ
     translation: the water
     transliteration: l-māu
   5:
-    arabic: حَمَلۡنٰكُمۡ
+    arabic: حَمَلۡنَٰكُمۡ
     translation: We carried you
     transliteration: ḥamalnākum
   6:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   7:
-    arabic: الۡجَارِيَةِ ۙ‏
+    arabic: ٱلۡجَارِيَةِ
     translation: the sailing (ship)
     transliteration: l-jāriyati
 ---

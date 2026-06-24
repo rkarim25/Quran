@@ -1,19 +1,19 @@
 ---
-arabic_ayat: "قَالُوۡۤا اَضۡغَاثُ اَحۡلَامٍۚ وَمَا نَحۡنُ بِتَاۡوِيۡلِ الۡاَحۡلَامِ\
-  \ بِعٰلِمِيۡنَ‏ \uFEFF\uFEFF"
+arabic_ayat: قَالُوٓاْ أَضۡغَٰثُ أَحۡلَٰمٖۖ وَمَا نَحۡنُ بِتَأۡوِيلِ ٱلۡأَحۡلَٰمِ
+  بِعَٰلِمِينَ
 sentence_translation: They replied, “These are confused visions and we do not know
   the interpretation of such dreams.”
 word_by_word:
   1:
-    arabic: قَالُوۡۤا
+    arabic: قَالُوٓاْ
     translation: They said
     transliteration: qālū
   2:
-    arabic: اَضۡغَاثُ
+    arabic: أَضۡغَٰثُ
     translation: Confused
     transliteration: aḍghāthu
   3:
-    arabic: اَحۡلَامٍۚ
+    arabic: أَحۡلَٰمٖۖ
     translation: dreams
     transliteration: aḥlāmin
   4:
@@ -25,15 +25,15 @@ word_by_word:
     translation: we
     transliteration: naḥnu
   6:
-    arabic: بِتَاۡوِيۡلِ
+    arabic: بِتَأۡوِيلِ
     translation: (are) in the interpretation
     transliteration: bitawīli
   7:
-    arabic: الۡاَحۡلَامِ
+    arabic: ٱلۡأَحۡلَٰمِ
     translation: (of) the dreams
     transliteration: l-aḥlāmi
   8:
-    arabic: "بِعٰلِمِيۡنَ‏ \uFEFF\uFEFF"
+    arabic: بِعَٰلِمِينَ
     translation: learned
     transliteration: biʿālimīna
 ---

@@ -1,39 +1,39 @@
 ---
-arabic_ayat: وَالۡاَرۡضَ مَدَدۡنٰهَا وَاَ لۡقَيۡنَا فِيۡهَا رَوَاسِىَ وَاَنۡۢبَتۡنَا
-  فِيۡهَا مِنۡ كُلِّ زَوۡجٍۢ بَهِيۡجٍ ۙ‏
+arabic_ayat: وَٱلۡأَرۡضَ مَدَدۡنَٰهَا وَأَلۡقَيۡنَا فِيهَا رَوَٰسِيَ وَأَنۢبَتۡنَا
+  فِيهَا مِن كُلِّ زَوۡجِۭ بَهِيجٖ
 sentence_translation: As for the earth, We spread it out and placed upon it firm mountains,
   and produced in it every type of pleasant plant—
 word_by_word:
   1:
-    arabic: وَالۡاَرۡضَ
+    arabic: وَٱلۡأَرۡضَ
     translation: And the earth
     transliteration: wal-arḍa
   2:
-    arabic: مَدَدۡنٰهَا
+    arabic: مَدَدۡنَٰهَا
     translation: We have spread it out
     transliteration: madadnāhā
   3:
-    arabic: وَاَ لۡقَيۡنَا
+    arabic: وَأَلۡقَيۡنَا
     translation: and cast
     transliteration: wa-alqaynā
   4:
-    arabic: فِيۡهَا
+    arabic: فِيهَا
     translation: therein
     transliteration: fīhā
   5:
-    arabic: رَوَاسِىَ
+    arabic: رَوَٰسِيَ
     translation: firmly set mountains
     transliteration: rawāsiya
   6:
-    arabic: وَاَنۡۢبَتۡنَا
+    arabic: وَأَنۢبَتۡنَا
     translation: and We made to grow
     transliteration: wa-anbatnā
   7:
-    arabic: فِيۡهَا
+    arabic: فِيهَا
     translation: therein
     transliteration: fīhā
   8:
-    arabic: مِنۡ
+    arabic: مِن
     translation: of
     transliteration: min
   9:
@@ -41,11 +41,11 @@ word_by_word:
     translation: every
     transliteration: kulli
   10:
-    arabic: زَوۡجٍۢ
+    arabic: زَوۡجِۭ
     translation: kind
     transliteration: zawjin
   11:
-    arabic: بَهِيۡجٍ ۙ‏
+    arabic: بَهِيجٖ
     translation: beautiful
     transliteration: bahījin
 ---

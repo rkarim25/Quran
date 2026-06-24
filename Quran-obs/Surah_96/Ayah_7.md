@@ -1,17 +1,17 @@
 ---
-arabic_ayat: اَنۡ رَّاٰهُ اسۡتَغۡنٰىؕ‏
+arabic_ayat: أَن رَّءَاهُ ٱسۡتَغۡنَىٰٓ
 sentence_translation: once they think they are self-sufficient.
 word_by_word:
   1:
-    arabic: اَنۡ
+    arabic: أَن
     translation: That
     transliteration: an
   2:
-    arabic: رَّاٰهُ
+    arabic: رَّءَاهُ
     translation: he sees himself
     transliteration: raāhu
   3:
-    arabic: اسۡتَغۡنٰىؕ‏
+    arabic: ٱسۡتَغۡنَىٰٓ
     translation: self-sufficient
     transliteration: is'taghnā
 ---

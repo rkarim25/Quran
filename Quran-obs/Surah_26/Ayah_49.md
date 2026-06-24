@@ -1,22 +1,22 @@
 ---
-arabic_ayat: قَالَ اٰمَنۡتُمۡ لَهٗ قَبۡلَ اَنۡ اٰذَنَ لَـكُمۡ​ۚ اِنَّهٗ لَـكَبِيۡرُكُمُ
-  الَّذِىۡ عَلَّمَكُمُ السِّحۡرَ​ۚ فَلَسَوۡفَ تَعۡلَمُوۡنَ ۙ لَاُقَطِّعَنَّ اَيۡدِيَكُمۡ
-  وَاَرۡجُلَـكُمۡ مِّنۡ خِلَافٍ وَّلَاُصَلِّبَنَّكُمۡ اَجۡمَعِيۡنَ​ۚ‏
+arabic_ayat: قَالَ ءَامَنتُمۡ لَهُۥ قَبۡلَ أَنۡ ءَاذَنَ لَكُمۡۖ إِنَّهُۥ لَكَبِيرُكُمُ
+  ٱلَّذِي عَلَّمَكُمُ ٱلسِّحۡرَ فَلَسَوۡفَ تَعۡلَمُونَۚ لَأُقَطِّعَنَّ أَيۡدِيَكُمۡ
+  وَأَرۡجُلَكُم مِّنۡ خِلَٰفٖ وَلَأُصَلِّبَنَّكُمۡ أَجۡمَعِينَ
 sentence_translation: Pharaoh threatened, “How dare you believe in him before I give
   you permission? He must be your master who taught you magic, but soon you will see.
   I will certainly cut off your hands and feet on opposite sides, then crucify you
   all.”
 word_by_word:
   1:
-    arabic: قَالَ
+    arabic: قَالَ ءَ
     translation: He said
     transliteration: qāla
   2:
-    arabic: اٰمَنۡتُمۡ
+    arabic: امَنتُمۡ
     translation: You believed
     transliteration: āmantum
   3:
-    arabic: لَهٗ
+    arabic: لَهُۥ
     translation: in him
     transliteration: lahu
   4:
@@ -24,27 +24,27 @@ word_by_word:
     translation: before
     transliteration: qabla
   5:
-    arabic: اَنۡ
+    arabic: أَنۡ ءَ
     translation: '[that]'
     transliteration: an
   6:
-    arabic: اٰذَنَ
+    arabic: اذَنَ
     translation: I gave permission
     transliteration: ādhana
   7:
-    arabic: لَـكُمۡ​ۚ
+    arabic: لَكُمۡۖ
     translation: to you
     transliteration: lakum
   8:
-    arabic: اِنَّهٗ
+    arabic: إِنَّهُۥ
     translation: Indeed, he
     transliteration: innahu
   9:
-    arabic: لَـكَبِيۡرُكُمُ
+    arabic: لَكَبِيرُكُمُ
     translation: (is) surely your chief
     transliteration: lakabīrukumu
   10:
-    arabic: الَّذِىۡ
+    arabic: ٱلَّذِي
     translation: who
     transliteration: alladhī
   11:
@@ -52,7 +52,7 @@ word_by_word:
     translation: has taught you
     transliteration: ʿallamakumu
   12:
-    arabic: السِّحۡرَ​ۚ
+    arabic: ٱلسِّحۡرَ
     translation: the magic
     transliteration: l-siḥ'ra
   13:
@@ -60,19 +60,19 @@ word_by_word:
     translation: so surely soon
     transliteration: falasawfa
   14:
-    arabic: تَعۡلَمُوۡنَ ۙ
+    arabic: تَعۡلَمُونَۚ
     translation: you will know
     transliteration: taʿlamūna
   15:
-    arabic: لَاُقَطِّعَنَّ
+    arabic: لَأُقَطِّعَنَّ
     translation: I will surely cut off
     transliteration: la-uqaṭṭiʿanna
   16:
-    arabic: اَيۡدِيَكُمۡ
+    arabic: أَيۡدِيَكُمۡ
     translation: your hands
     transliteration: aydiyakum
   17:
-    arabic: وَاَرۡجُلَـكُمۡ
+    arabic: وَأَرۡجُلَكُم
     translation: and your feet
     transliteration: wa-arjulakum
   18:
@@ -80,15 +80,15 @@ word_by_word:
     translation: of
     transliteration: min
   19:
-    arabic: خِلَافٍ
+    arabic: خِلَٰفٖ
     translation: opposite sides
     transliteration: khilāfin
   20:
-    arabic: وَّلَاُصَلِّبَنَّكُمۡ
+    arabic: وَلَأُصَلِّبَنَّكُمۡ
     translation: and I will surely crucify you
     transliteration: wala-uṣallibannakum
   21:
-    arabic: اَجۡمَعِيۡنَ​ۚ‏
+    arabic: أَجۡمَعِينَ
     translation: all
     transliteration: ajmaʿīna
 ---

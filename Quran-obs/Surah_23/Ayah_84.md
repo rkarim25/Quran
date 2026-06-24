@@ -1,10 +1,10 @@
 ---
-arabic_ayat: قُلْ لِّمَنِ الۡاَرۡضُ وَمَنۡ فِيۡهَاۤ اِنۡ كُنۡتُمۡ تَعۡلَمُوۡنَ‏
+arabic_ayat: قُل لِّمَنِ ٱلۡأَرۡضُ وَمَن فِيهَآ إِن كُنتُمۡ تَعۡلَمُونَ
 sentence_translation: Ask ˹them, O  Prophet˺, “To whom belong the earth and all those
   on it, if you ˹really˺ know?”
 word_by_word:
   1:
-    arabic: قُلْ
+    arabic: قُل
     translation: Say
     transliteration: qul
   2:
@@ -12,27 +12,27 @@ word_by_word:
     translation: To whom (belongs)
     transliteration: limani
   3:
-    arabic: الۡاَرۡضُ
+    arabic: ٱلۡأَرۡضُ
     translation: the earth
     transliteration: l-arḍu
   4:
-    arabic: وَمَنۡ
+    arabic: وَمَن
     translation: and whoever
     transliteration: waman
   5:
-    arabic: فِيۡهَاۤ
+    arabic: فِيهَآ
     translation: (is) in it
     transliteration: fīhā
   6:
-    arabic: اِنۡ
+    arabic: إِن
     translation: if
     transliteration: in
   7:
-    arabic: كُنۡتُمۡ
+    arabic: كُنتُمۡ
     translation: you
     transliteration: kuntum
   8:
-    arabic: تَعۡلَمُوۡنَ‏
+    arabic: تَعۡلَمُونَ
     translation: know
     transliteration: taʿlamūna
 ---

@@ -1,12 +1,12 @@
 ---
-arabic_ayat: مَنۡ كَانَ يُرِيۡدُ ثَوَابَ الدُّنۡيَا فَعِنۡدَ اللّٰهِ ثَوَابُ الدُّنۡيَا
-  وَالۡاٰخِرَةِ​ ؕ وَكَانَ اللّٰهُ سَمِيۡعًاۢ بَصِيۡرًا‏
+arabic_ayat: مَّن كَانَ يُرِيدُ ثَوَابَ ٱلدُّنۡيَا فَعِندَ ٱللَّهِ ثَوَابُ ٱلدُّنۡيَا
+  وَٱلۡأٓخِرَةِۚ وَكَانَ ٱللَّهُ سَمِيعَۢا بَصِيرٗا
 sentence_translation: Whoever desires the reward of this world, then ˹let them know
   that˺ with Allah are the rewards of this world and the Hereafter. And Allah is All-Hearing,
   All-Seeing.
 word_by_word:
   1:
-    arabic: مَنۡ
+    arabic: مَّن
     translation: Whoever
     transliteration: man
   2:
@@ -14,7 +14,7 @@ word_by_word:
     translation: '[is]'
     transliteration: kāna
   3:
-    arabic: يُرِيۡدُ
+    arabic: يُرِيدُ
     translation: desires
     transliteration: yurīdu
   4:
@@ -22,15 +22,15 @@ word_by_word:
     translation: reward
     transliteration: thawāba
   5:
-    arabic: الدُّنۡيَا
+    arabic: ٱلدُّنۡيَا
     translation: '(of) the world '
     transliteration: l-dun'yā
   6:
-    arabic: فَعِنۡدَ
+    arabic: فَعِندَ
     translation: then with
     transliteration: faʿinda
   7:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   8:
@@ -38,11 +38,11 @@ word_by_word:
     translation: (is the) reward
     transliteration: thawābu
   9:
-    arabic: الدُّنۡيَا
+    arabic: ٱلدُّنۡيَا
     translation: (of) the world
     transliteration: l-dun'yā
   10:
-    arabic: وَالۡاٰخِرَةِ​ ؕ
+    arabic: وَٱلۡأٓخِرَةِۚ
     translation: and the Hereafter
     transliteration: wal-ākhirati
   11:
@@ -50,15 +50,15 @@ word_by_word:
     translation: And is
     transliteration: wakāna
   12:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   13:
-    arabic: سَمِيۡعًاۢ
+    arabic: سَمِيعَۢا
     translation: All-Hearing
     transliteration: samīʿan
   14:
-    arabic: بَصِيۡرًا‏
+    arabic: بَصِيرٗا
     translation: All-Seeing
     transliteration: baṣīran
 ---

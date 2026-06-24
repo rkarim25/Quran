@@ -1,17 +1,17 @@
 ---
-arabic_ayat: وَالَّيۡلِ اِذۡ اَدۡبَرَۙ‏
+arabic_ayat: وَٱلَّيۡلِ إِذۡ أَدۡبَرَ
 sentence_translation: and the night as it retreats,
 word_by_word:
   1:
-    arabic: وَالَّيۡلِ
+    arabic: وَٱلَّيۡلِ
     translation: And the night
     transliteration: wa-al-layli
   2:
-    arabic: اِذۡ
+    arabic: إِذۡ
     translation: when
     transliteration: idh
   3:
-    arabic: اَدۡبَرَۙ‏
+    arabic: أَدۡبَرَ
     translation: it departs
     transliteration: adbara
 ---

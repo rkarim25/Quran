@@ -1,9 +1,9 @@
 ---
-arabic_ayat: اِنۡ كُلُّ نَفۡسٍ لَّمَّا عَلَيۡهَا حَافِظٌؕ‏
+arabic_ayat: إِن كُلُّ نَفۡسٖ لَّمَّا عَلَيۡهَا حَافِظٞ
 sentence_translation: There is no soul without a vigilant angel ˹recording everything˺.
 word_by_word:
   1:
-    arabic: اِنۡ
+    arabic: إِن
     translation: Not
     transliteration: in
   2:
@@ -11,7 +11,7 @@ word_by_word:
     translation: (is) every
     transliteration: kullu
   3:
-    arabic: نَفۡسٍ
+    arabic: نَفۡسٖ
     translation: soul
     transliteration: nafsin
   4:
@@ -23,7 +23,7 @@ word_by_word:
     translation: over it
     transliteration: ʿalayhā
   6:
-    arabic: حَافِظٌؕ‏
+    arabic: حَافِظٞ
     translation: (is) a protector
     transliteration: ḥāfiẓun
 ---

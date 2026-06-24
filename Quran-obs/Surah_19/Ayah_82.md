@@ -1,15 +1,14 @@
 ---
-arabic_ayat: "كَلَّا​ ؕ سَيَكۡفُرُوۡنَ بِعِبَادَتِهِمۡ وَيَكُوۡنُوۡنَ عَلَيۡهِمۡ ضِدًّا‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: كـَلَّاۚ سَيَكۡفُرُونَ بِعِبَادَتِهِمۡ وَيَكُونُونَ عَلَيۡهِمۡ ضِدًّا
 sentence_translation: But no! Those ˹gods˺ will deny their worship and turn against
   them.
 word_by_word:
   1:
-    arabic: كَلَّا​ ؕ
+    arabic: كـَلَّاۚ
     translation: Nay
     transliteration: kallā
   2:
-    arabic: سَيَكۡفُرُوۡنَ
+    arabic: سَيَكۡفُرُونَ
     translation: they will deny
     transliteration: sayakfurūna
   3:
@@ -17,7 +16,7 @@ word_by_word:
     translation: their worship (of them)
     transliteration: biʿibādatihim
   4:
-    arabic: وَيَكُوۡنُوۡنَ
+    arabic: وَيَكُونُونَ
     translation: and they will be
     transliteration: wayakūnūna
   5:
@@ -25,7 +24,7 @@ word_by_word:
     translation: against them
     transliteration: ʿalayhim
   6:
-    arabic: "ضِدًّا‏ \uFEFF\uFEFF"
+    arabic: ضِدًّا
     translation: opponents
     transliteration: ḍiddan
 ---

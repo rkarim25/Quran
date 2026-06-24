@@ -1,9 +1,9 @@
 ---
-arabic_ayat: اَخۡرَجَ مِنۡهَا مَآءَهَا وَمَرۡعٰٮهَا‏
+arabic_ayat: أَخۡرَجَ مِنۡهَا مَآءَهَا وَمَرۡعَىٰهَا
 sentence_translation: bringing forth its water and pastures
 word_by_word:
   1:
-    arabic: اَخۡرَجَ
+    arabic: أَخۡرَجَ
     translation: He brought forth
     transliteration: akhraja
   2:
@@ -15,7 +15,7 @@ word_by_word:
     translation: its water
     transliteration: māahā
   4:
-    arabic: وَمَرۡعٰٮهَا‏
+    arabic: وَمَرۡعَىٰهَا
     translation: and its pasture
     transliteration: wamarʿāhā
 ---

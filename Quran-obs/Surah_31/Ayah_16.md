@@ -1,21 +1,21 @@
 ---
-arabic_ayat: يٰبُنَىَّ اِنَّهَاۤ اِنۡ تَكُ مِثۡقَالَ حَبَّةٍ مِّنۡ خَرۡدَلٍ فَتَكُنۡ
-  فِىۡ صَخۡرَةٍ اَوۡ فِى السَّمٰوٰتِ اَوۡ فِى الۡاَرۡضِ يَاۡتِ بِهَا اللّٰهُ ​ؕ اِنَّ
-  اللّٰهَ لَطِيۡفٌ خَبِيۡرٌ‏
+arabic_ayat: يَٰبُنَيَّ إِنَّهَآ إِن تَكُ مِثۡقَالَ حَبَّةٖ مِّنۡ خَرۡدَلٖ فَتَكُن
+  فِي صَخۡرَةٍ أَوۡ فِي ٱلسَّمَٰوَٰتِ أَوۡ فِي ٱلۡأَرۡضِ يَأۡتِ بِهَا ٱللَّهُۚ إِنَّ
+  ٱللَّهَ لَطِيفٌ خَبِيرٞ
 sentence_translation: ˹Luqmân  added,˺ “O my dear son! ˹Even˺ if a deed were the weight
   of a mustard seed—be it ˹hidden˺ in a rock or in the heavens or the earth—Allah
   will bring it forth. Surely Allah is Most Subtle, All-Aware.
 word_by_word:
   1:
-    arabic: يٰبُنَىَّ
+    arabic: يَٰبُنَيَّ
     translation: O my son
     transliteration: yābunayya
   2:
-    arabic: اِنَّهَاۤ
+    arabic: إِنَّهَآ
     translation: Indeed it
     transliteration: innahā
   3:
-    arabic: اِنۡ
+    arabic: إِن
     translation: if
     transliteration: in
   4:
@@ -27,7 +27,7 @@ word_by_word:
     translation: (the) weight
     transliteration: mith'qāla
   6:
-    arabic: حَبَّةٍ
+    arabic: حَبَّةٖ
     translation: (of) a grain
     transliteration: ḥabbatin
   7:
@@ -35,15 +35,15 @@ word_by_word:
     translation: of
     transliteration: min
   8:
-    arabic: خَرۡدَلٍ
+    arabic: خَرۡدَلٖ
     translation: a mustard seed
     transliteration: khardalin
   9:
-    arabic: فَتَكُنۡ
+    arabic: فَتَكُن
     translation: and it be
     transliteration: fatakun
   10:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   11:
@@ -51,31 +51,31 @@ word_by_word:
     translation: a rock
     transliteration: ṣakhratin
   12:
-    arabic: اَوۡ
+    arabic: أَوۡ
     translation: or
     transliteration: aw
   13:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   14:
-    arabic: السَّمٰوٰتِ
+    arabic: ٱلسَّمَٰوَٰتِ
     translation: the heavens
     transliteration: l-samāwāti
   15:
-    arabic: اَوۡ
+    arabic: أَوۡ
     translation: or
     transliteration: aw
   16:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   17:
-    arabic: الۡاَرۡضِ
+    arabic: ٱلۡأَرۡضِ
     translation: the earth
     transliteration: l-arḍi
   18:
-    arabic: يَاۡتِ
+    arabic: يَأۡتِ
     translation: Allah will bring it forth
     transliteration: yati
   19:
@@ -83,23 +83,23 @@ word_by_word:
     translation: Allah will bring it forth
     transliteration: bihā
   20:
-    arabic: اللّٰهُ ​ؕ
+    arabic: ٱللَّهُۚ
     translation: Allah will bring it forth
     transliteration: l-lahu
   21:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   22:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   23:
-    arabic: لَطِيۡفٌ
+    arabic: لَطِيفٌ
     translation: (is) All-Subtle
     transliteration: laṭīfun
   24:
-    arabic: خَبِيۡرٌ‏
+    arabic: خَبِيرٞ
     translation: All-Aware
     transliteration: khabīrun
 ---

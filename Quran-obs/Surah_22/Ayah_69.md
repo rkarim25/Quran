@@ -1,11 +1,11 @@
 ---
-arabic_ayat: "اللّٰهُ يَحۡكُمُ بَيۡنَكُمۡ يَوۡمَ الۡقِيٰمَةِ فِيۡمَا كُنۡتُمۡ فِيۡهِ\
-  \ تَخۡتَلِفُوۡنَ‏ \uFEFF\uFEFF"
+arabic_ayat: ٱللَّهُ يَحۡكُمُ بَيۡنَكُمۡ يَوۡمَ ٱلۡقِيَٰمَةِ فِيمَا كُنتُمۡ فِيهِ
+  تَخۡتَلِفُونَ
 sentence_translation: Allah will judge between you ˹all˺ on Judgment Day regarding
   your differences.
 word_by_word:
   1:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: al-lahu
   2:
@@ -21,23 +21,23 @@ word_by_word:
     translation: (on the) Day
     transliteration: yawma
   5:
-    arabic: الۡقِيٰمَةِ
+    arabic: ٱلۡقِيَٰمَةِ
     translation: (of) the Resurrection
     transliteration: l-qiyāmati
   6:
-    arabic: فِيۡمَا
+    arabic: فِيمَا
     translation: concerning what
     transliteration: fīmā
   7:
-    arabic: كُنۡتُمۡ
+    arabic: كُنتُمۡ
     translation: you used (to)
     transliteration: kuntum
   8:
-    arabic: فِيۡهِ
+    arabic: فِيهِ
     translation: in it
     transliteration: fīhi
   9:
-    arabic: "تَخۡتَلِفُوۡنَ‏ \uFEFF\uFEFF"
+    arabic: تَخۡتَلِفُونَ
     translation: differ
     transliteration: takhtalifūna
 ---

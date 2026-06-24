@@ -1,23 +1,23 @@
 ---
-arabic_ayat: وَلَقَدۡ جَآءَکُمۡ مُّوۡسٰى بِالۡبَيِّنٰتِ ثُمَّ اتَّخَذۡتُمُ الۡعِجۡلَ
-  مِنۡۢ بَعۡدِهٖ وَاَنۡـتُمۡ ظٰلِمُوۡنَ‏
+arabic_ayat: ۞ وَلَقَدۡ جَآءَكُم مُّوسَىٰ بِٱلۡبَيِّنَٰتِ ثُمَّ ٱتَّخَذۡتُمُ ٱلۡعِجۡلَ
+  مِنۢ بَعۡدِهِۦ وَأَنتُمۡ ظَٰلِمُونَ
 sentence_translation: Indeed, Moses came to you with clear proofs, then you worshipped
   the calf in his absence, acting wrongfully.
 word_by_word:
   1:
-    arabic: ۞ وَلَقَدۡ
+    arabic: ۞ وَلَقَدۡ
     translation: And indeed
     transliteration: walaqad
   2:
-    arabic: جَآءَکُمۡ
+    arabic: جَآءَكُم
     translation: came to you
     transliteration: jāakum
   3:
-    arabic: مُّوۡسٰى
+    arabic: مُّوسَىٰ
     translation: Musa
     transliteration: mūsā
   4:
-    arabic: بِالۡبَيِّنٰتِ
+    arabic: بِٱلۡبَيِّنَٰتِ
     translation: with [the] clear signs
     transliteration: bil-bayināti
   5:
@@ -25,27 +25,27 @@ word_by_word:
     translation: then
     transliteration: thumma
   6:
-    arabic: اتَّخَذۡتُمُ
+    arabic: ٱتَّخَذۡتُمُ
     translation: you took
     transliteration: ittakhadhtumu
   7:
-    arabic: الۡعِجۡلَ
+    arabic: ٱلۡعِجۡلَ
     translation: the calf
     transliteration: l-ʿij'la
   8:
-    arabic: مِنۡۢ
+    arabic: مِنۢ
     translation: from
     transliteration: min
   9:
-    arabic: بَعۡدِهٖ
+    arabic: بَعۡدِهِۦ
     translation: after him
     transliteration: baʿdihi
   10:
-    arabic: وَاَنۡـتُمۡ
+    arabic: وَأَنتُمۡ
     translation: and you
     transliteration: wa-antum
   11:
-    arabic: ظٰلِمُوۡنَ‏
+    arabic: ظَٰلِمُونَ
     translation: (were) wrongdoers
     transliteration: ẓālimūna
 ---

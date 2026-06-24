@@ -1,45 +1,45 @@
 ---
-arabic_ayat: سَنُلۡقِىۡ فِىۡ قُلُوۡبِ الَّذِيۡنَ كَفَرُوا الرُّعۡبَ بِمَاۤ اَشۡرَكُوۡا
-  بِاللّٰهِ مَا لَمۡ يُنَزِّلۡ بِهٖ سُلۡطٰنًا ​​ۚ وَمَاۡوٰٮهُمُ النَّارُ​ؕ وَ بِئۡسَ
-  مَثۡوَى الظّٰلِمِيۡنَ‏
+arabic_ayat: سَنُلۡقِي فِي قُلُوبِ ٱلَّذِينَ كَفَرُواْ ٱلرُّعۡبَ بِمَآ أَشۡرَكُواْ
+  بِٱللَّهِ مَا لَمۡ يُنَزِّلۡ بِهِۦ سُلۡطَٰنٗاۖ وَمَأۡوَىٰهُمُ ٱلنَّارُۖ وَبِئۡسَ
+  مَثۡوَى ٱلظَّٰلِمِينَ
 sentence_translation: We will cast horror into the hearts of the disbelievers for
   associating ˹false gods˺ with Allah—a practice He has never authorized. The Fire
   will be their home—what an evil place for the wrongdoers to stay!
 word_by_word:
   1:
-    arabic: سَنُلۡقِىۡ
+    arabic: سَنُلۡقِي
     translation: We will cast
     transliteration: sanul'qī
   2:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   3:
-    arabic: قُلُوۡبِ
+    arabic: قُلُوبِ
     translation: (the) hearts
     transliteration: qulūbi
   4:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: (of) those who
     transliteration: alladhīna
   5:
-    arabic: كَفَرُوا
+    arabic: كَفَرُواْ
     translation: disbelieve
     transliteration: kafarū
   6:
-    arabic: الرُّعۡبَ
+    arabic: ٱلرُّعۡبَ
     translation: '[the] terror'
     transliteration: l-ruʿ'ba
   7:
-    arabic: بِمَاۤ
+    arabic: بِمَآ
     translation: because
     transliteration: bimā
   8:
-    arabic: اَشۡرَكُوۡا
+    arabic: أَشۡرَكُواْ
     translation: they associated partners
     transliteration: ashrakū
   9:
-    arabic: بِاللّٰهِ
+    arabic: بِٱللَّهِ
     translation: with Allah
     transliteration: bil-lahi
   10:
@@ -55,23 +55,23 @@ word_by_word:
     translation: He sent down
     transliteration: yunazzil
   13:
-    arabic: بِهٖ
+    arabic: بِهِۦ
     translation: about it
     transliteration: bihi
   14:
-    arabic: سُلۡطٰنًا ​​ۚ
+    arabic: سُلۡطَٰنٗاۖ
     translation: any authority
     transliteration: sul'ṭānan
   15:
-    arabic: وَمَاۡوٰٮهُمُ
+    arabic: وَمَأۡوَىٰهُمُ
     translation: and their refuge
     transliteration: wamawāhumu
   16:
-    arabic: النَّارُ​ؕ
+    arabic: ٱلنَّارُۖ
     translation: (will be) the Fire
     transliteration: l-nāru
   17:
-    arabic: وَ بِئۡسَ
+    arabic: وَبِئۡسَ
     translation: and wretched
     transliteration: wabi'sa
   18:
@@ -79,7 +79,7 @@ word_by_word:
     translation: (is the) abode
     transliteration: mathwā
   19:
-    arabic: الظّٰلِمِيۡنَ‏
+    arabic: ٱلظَّٰلِمِينَ
     translation: '[of] the wrongdoers'
     transliteration: l-ẓālimīna
 ---

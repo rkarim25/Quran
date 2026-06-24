@@ -1,9 +1,9 @@
 ---
-arabic_ayat: فَشٰرِبُوۡنَ شُرۡبَ الۡهِيۡمِؕ‏
+arabic_ayat: فَشَٰرِبُونَ شُرۡبَ ٱلۡهِيمِ
 sentence_translation: and you will drink ˹it˺ like thirsty camels do.”
 word_by_word:
   1:
-    arabic: فَشٰرِبُوۡنَ
+    arabic: فَشَٰرِبُونَ
     translation: And will drink
     transliteration: fashāribūna
   2:
@@ -11,7 +11,7 @@ word_by_word:
     translation: (as) drinking
     transliteration: shur'ba
   3:
-    arabic: الۡهِيۡمِؕ‏
+    arabic: ٱلۡهِيمِ
     translation: (of) the thirsty camels
     transliteration: l-hīmi
 ---

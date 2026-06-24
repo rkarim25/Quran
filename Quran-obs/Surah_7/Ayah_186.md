@@ -1,19 +1,19 @@
 ---
-arabic_ayat: مَنۡ يُّضۡلِلِ اللّٰهُ فَلَا هَادِىَ لَهٗ ​ؕ وَ يَذَرُهُمۡ فِىۡ طُغۡيَانِهِمۡ
-  يَعۡمَهُوۡنَ‏
+arabic_ayat: مَن يُضۡلِلِ ٱللَّهُ فَلَا هَادِيَ لَهُۥۚ وَيَذَرُهُمۡ فِي طُغۡيَٰنِهِمۡ
+  يَعۡمَهُونَ
 sentence_translation: Whoever Allah allows to stray, none can guide, leaving them
   to wander blindly in their defiance.
 word_by_word:
   1:
-    arabic: مَنۡ
+    arabic: مَن
     translation: Whoever
     transliteration: man
   2:
-    arabic: يُّضۡلِلِ
+    arabic: يُضۡلِلِ
     translation: (is) let go astray
     transliteration: yuḍ'lili
   3:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: (by) Allah
     transliteration: l-lahu
   4:
@@ -21,27 +21,27 @@ word_by_word:
     translation: then (there is) no
     transliteration: falā
   5:
-    arabic: هَادِىَ
+    arabic: هَادِيَ
     translation: guide
     transliteration: hādiya
   6:
-    arabic: لَهٗ ​ؕ
+    arabic: لَهُۥۚ
     translation: for him
     transliteration: lahu
   7:
-    arabic: وَ يَذَرُهُمۡ
+    arabic: وَيَذَرُهُمۡ
     translation: And He leaves them
     transliteration: wayadharuhum
   8:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   9:
-    arabic: طُغۡيَانِهِمۡ
+    arabic: طُغۡيَٰنِهِمۡ
     translation: their transgression
     transliteration: ṭugh'yānihim
   10:
-    arabic: يَعۡمَهُوۡنَ‏
+    arabic: يَعۡمَهُونَ
     translation: wandering blindly
     transliteration: yaʿmahūna
 ---

@@ -1,6 +1,5 @@
 ---
-arabic_ayat: "قَالَ وَمَنۡ يَّقۡنَطُ مِنۡ رَّحۡمَةِ رَبِّهٖۤ اِلَّا الضَّآلُّوۡنَ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: قَالَ وَمَن يَقۡنَطُ مِن رَّحۡمَةِ رَبِّهِۦٓ إِلَّا ٱلضَّآلُّونَ
 sentence_translation: He exclaimed, “Who would despair of the mercy of their Lord
   except the misguided?”
 word_by_word:
@@ -9,15 +8,15 @@ word_by_word:
     translation: He said
     transliteration: qāla
   2:
-    arabic: وَمَنۡ
+    arabic: وَمَن
     translation: And who
     transliteration: waman
   3:
-    arabic: يَّقۡنَطُ
+    arabic: يَقۡنَطُ
     translation: despairs
     transliteration: yaqnaṭu
   4:
-    arabic: مِنۡ
+    arabic: مِن
     translation: of
     transliteration: min
   5:
@@ -25,15 +24,15 @@ word_by_word:
     translation: (the) Mercy
     transliteration: raḥmati
   6:
-    arabic: رَبِّهٖۤ
+    arabic: رَبِّهِۦٓ
     translation: (of) his Lord
     transliteration: rabbihi
   7:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   8:
-    arabic: "الضَّآلُّوۡنَ‏ \uFEFF\uFEFF"
+    arabic: ٱلضَّآلُّونَ
     translation: those who are astray
     transliteration: l-ḍālūna
 ---

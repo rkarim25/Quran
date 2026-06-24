@@ -1,43 +1,42 @@
 ---
-arabic_ayat: "اَوَلَمۡ يَكُنۡ لَّهُمۡ اٰيَةً اَنۡ يَّعۡلَمَهٗ عُلَمٰٓؤُا بَنِىۡۤ اِسۡرَآءِيۡلَؕ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: أَوَلَمۡ يَكُن لَّهُمۡ ءَايَةً أَن يَعۡلَمَهُۥ عُلَمَٰٓؤُاْ بَنِيٓ إِسۡرَٰٓءِيلَ
 sentence_translation: Was it not sufficient proof for the deniers that it has been
   recognized by the knowledgeable among the Children of Israel?
 word_by_word:
   1:
-    arabic: اَوَلَمۡ
+    arabic: أَوَلَمۡ
     translation: Is it not
     transliteration: awalam
   2:
-    arabic: يَكُنۡ
+    arabic: يَكُن
     translation: Is it not
     transliteration: yakun
   3:
-    arabic: لَّهُمۡ
+    arabic: لَّهُمۡ ءَ
     translation: to them
     transliteration: lahum
   4:
-    arabic: اٰيَةً
+    arabic: ايَةً
     translation: a sign
     transliteration: āyatan
   5:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that
     transliteration: an
   6:
-    arabic: يَّعۡلَمَهٗ
+    arabic: يَعۡلَمَهُۥ
     translation: know it
     transliteration: yaʿlamahu
   7:
-    arabic: عُلَمٰٓؤُا
+    arabic: عُلَمَٰٓؤُاْ
     translation: (the) scholars
     transliteration: ʿulamāu
   8:
-    arabic: بَنِىۡۤ
+    arabic: بَنِيٓ
     translation: (of the) Children
     transliteration: banī
   9:
-    arabic: "اِسۡرَآءِيۡلَؕ‏ \uFEFF\uFEFF"
+    arabic: إِسۡرَٰٓءِيلَ
     translation: (of) Israel
     transliteration: is'rāīla
 ---

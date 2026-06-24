@@ -1,6 +1,6 @@
 ---
-arabic_ayat: وَلَا تَحۡسَبَنَّ اللّٰهَ غَافِلًا عَمَّا يَعۡمَلُ الظّٰلِمُوۡنَ​ ؕ
-  اِنَّمَا يُؤَخِّرُهُمۡ لِيَوۡمٍ تَشۡخَصُ فِيۡهِ الۡاَبۡصَارُ ۙ‏
+arabic_ayat: وَلَا تَحۡسَبَنَّ ٱللَّهَ غَٰفِلًا عَمَّا يَعۡمَلُ ٱلظَّٰلِمُونَۚ إِنَّمَا
+  يُؤَخِّرُهُمۡ لِيَوۡمٖ تَشۡخَصُ فِيهِ ٱلۡأَبۡصَٰرُ
 sentence_translation: Do not think ˹O Prophet˺ that Allah is unaware of what the wrongdoers
   do. He only delays them until a Day when ˹their˺ eyes will stare in horror—
 word_by_word:
@@ -13,11 +13,11 @@ word_by_word:
     translation: think
     transliteration: taḥsabanna
   3:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: (that) Allah
     transliteration: l-laha
   4:
-    arabic: غَافِلًا
+    arabic: غَٰفِلًا
     translation: (is) unaware
     transliteration: ghāfilan
   5:
@@ -29,11 +29,11 @@ word_by_word:
     translation: do
     transliteration: yaʿmalu
   7:
-    arabic: الظّٰلِمُوۡنَ​ ؕ
+    arabic: ٱلظَّٰلِمُونَۚ
     translation: the wrongdoers
     transliteration: l-ẓālimūna
   8:
-    arabic: اِنَّمَا
+    arabic: إِنَّمَا
     translation: Only
     transliteration: innamā
   9:
@@ -41,7 +41,7 @@ word_by_word:
     translation: He gives them respite
     transliteration: yu-akhiruhum
   10:
-    arabic: لِيَوۡمٍ
+    arabic: لِيَوۡمٖ
     translation: to a Day
     transliteration: liyawmin
   11:
@@ -49,11 +49,11 @@ word_by_word:
     translation: will stare
     transliteration: tashkhaṣu
   12:
-    arabic: فِيۡهِ
+    arabic: فِيهِ
     translation: in it
     transliteration: fīhi
   13:
-    arabic: الۡاَبۡصَارُ ۙ‏
+    arabic: ٱلۡأَبۡصَٰرُ
     translation: the eyes
     transliteration: l-abṣāru
 ---

@@ -1,16 +1,16 @@
 ---
-arabic_ayat: وَاِذَا قِيۡلَ لَهُمۡ تَعَالَوۡا يَسۡتَغۡفِرۡ لَـكُمۡ رَسُوۡلُ اللّٰهِ
-  لَـوَّوۡا رُءُوۡسَهُمۡ وَرَاَيۡتَهُمۡ يَصُدُّوۡنَ وَهُمۡ مُّسۡتَكۡبِرُوۡنَ‏
+arabic_ayat: وَإِذَا قِيلَ لَهُمۡ تَعَالَوۡاْ يَسۡتَغۡفِرۡ لَكُمۡ رَسُولُ ٱللَّهِ
+  لَوَّوۡاْ رُءُوسَهُمۡ وَرَأَيۡتَهُمۡ يَصُدُّونَ وَهُم مُّسۡتَكۡبِرُونَ
 sentence_translation: When it is said to them, “Come! The Messenger of Allah will
   pray for you to be forgiven,” they turn their heads ˹in disgust˺, and you see them
   ˹O Prophet˺ turn away in arrogance.
 word_by_word:
   1:
-    arabic: وَاِذَا
+    arabic: وَإِذَا
     translation: And when
     transliteration: wa-idhā
   2:
-    arabic: قِيۡلَ
+    arabic: قِيلَ
     translation: it is said
     transliteration: qīla
   3:
@@ -18,7 +18,7 @@ word_by_word:
     translation: to them
     transliteration: lahum
   4:
-    arabic: تَعَالَوۡا
+    arabic: تَعَالَوۡاْ
     translation: Come
     transliteration: taʿālaw
   5:
@@ -26,39 +26,39 @@ word_by_word:
     translation: will ask forgiveness
     transliteration: yastaghfir
   6:
-    arabic: لَـكُمۡ
+    arabic: لَكُمۡ
     translation: for you
     transliteration: lakum
   7:
-    arabic: رَسُوۡلُ
+    arabic: رَسُولُ
     translation: (the) Messenger
     transliteration: rasūlu
   8:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (of) Allah
     transliteration: l-lahi
   9:
-    arabic: لَـوَّوۡا
+    arabic: لَوَّوۡاْ
     translation: They turn aside
     transliteration: lawwaw
   10:
-    arabic: رُءُوۡسَهُمۡ
+    arabic: رُءُوسَهُمۡ
     translation: their heads
     transliteration: ruūsahum
   11:
-    arabic: وَرَاَيۡتَهُمۡ
+    arabic: وَرَأَيۡتَهُمۡ
     translation: and you see them
     transliteration: wara-aytahum
   12:
-    arabic: يَصُدُّوۡنَ
+    arabic: يَصُدُّونَ
     translation: turning away
     transliteration: yaṣuddūna
   13:
-    arabic: وَهُمۡ
+    arabic: وَهُم
     translation: while they
     transliteration: wahum
   14:
-    arabic: مُّسۡتَكۡبِرُوۡنَ‏
+    arabic: مُّسۡتَكۡبِرُونَ
     translation: (are) arrogant
     transliteration: mus'takbirūna
 ---

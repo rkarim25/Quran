@@ -1,8 +1,7 @@
 ---
-arabic_ayat: وَاِنۡ خِفۡتُمۡ اَلَّا تُقۡسِطُوۡا فِى الۡيَتٰمٰى فَانْكِحُوۡا مَا طَابَ
-  لَـكُمۡ مِّنَ النِّسَآءِ مَثۡنٰى وَثُلٰثَ وَرُبٰعَ​ ​ۚ فَاِنۡ خِفۡتُمۡ اَلَّا تَعۡدِلُوۡا
-  فَوَاحِدَةً اَوۡ مَا مَلَـكَتۡ اَيۡمَانُكُمۡ​ ؕ ذٰ لِكَ اَدۡنٰٓى اَلَّا تَعُوۡلُوۡا
-  ؕ‏
+arabic_ayat: وَإِنۡ خِفۡتُمۡ أَلَّا تُقۡسِطُواْ فِي ٱلۡيَتَٰمَىٰ فَٱنكِحُواْ مَا طَابَ
+  لَكُم مِّنَ ٱلنِّسَآءِ مَثۡنَىٰ وَثُلَٰثَ وَرُبَٰعَۖ فَإِنۡ خِفۡتُمۡ أَلَّا تَعۡدِلُواْ
+  فَوَٰحِدَةً أَوۡ مَا مَلَكَتۡ أَيۡمَٰنُكُمۡۚ ذَٰلِكَ أَدۡنَىٰٓ أَلَّا تَعُولُواْ
 sentence_translation: If you fear you might fail to give orphan women their ˹due˺
   rights ˹if you were to marry them˺, then marry other women of your choice—two, three,
   or four. But if you are afraid you will fail to maintain justice, then ˹content
@@ -10,7 +9,7 @@ sentence_translation: If you fear you might fail to give orphan women their ˹du
   likely to commit injustice.
 word_by_word:
   1:
-    arabic: وَاِنۡ
+    arabic: وَإِنۡ
     translation: And if
     transliteration: wa-in
   2:
@@ -18,23 +17,23 @@ word_by_word:
     translation: you fear
     transliteration: khif'tum
   3:
-    arabic: اَلَّا
+    arabic: أَلَّا
     translation: that not
     transliteration: allā
   4:
-    arabic: تُقۡسِطُوۡا
+    arabic: تُقۡسِطُواْ
     translation: you will be able to do justice
     transliteration: tuq'siṭū
   5:
-    arabic: فِى
+    arabic: فِي
     translation: with
     transliteration: fī
   6:
-    arabic: الۡيَتٰمٰى
+    arabic: ٱلۡيَتَٰمَىٰ
     translation: the orphans
     transliteration: l-yatāmā
   7:
-    arabic: فَانْكِحُوۡا
+    arabic: فَٱنكِحُواْ
     translation: then marry
     transliteration: fa-inkiḥū
   8:
@@ -46,7 +45,7 @@ word_by_word:
     translation: seems suitable
     transliteration: ṭāba
   10:
-    arabic: لَـكُمۡ
+    arabic: لَكُم
     translation: to you
     transliteration: lakum
   11:
@@ -54,23 +53,23 @@ word_by_word:
     translation: from
     transliteration: mina
   12:
-    arabic: النِّسَآءِ
+    arabic: ٱلنِّسَآءِ
     translation: the women
     transliteration: l-nisāi
   13:
-    arabic: مَثۡنٰى
+    arabic: مَثۡنَىٰ
     translation: two
     transliteration: mathnā
   14:
-    arabic: وَثُلٰثَ
+    arabic: وَثُلَٰثَ
     translation: or three
     transliteration: wathulātha
   15:
-    arabic: وَرُبٰعَ​ ​ۚ
+    arabic: وَرُبَٰعَۖ
     translation: or four
     transliteration: warubāʿa
   16:
-    arabic: فَاِنۡ
+    arabic: فَإِنۡ
     translation: But if
     transliteration: fa-in
   17:
@@ -78,19 +77,19 @@ word_by_word:
     translation: you fear
     transliteration: khif'tum
   18:
-    arabic: اَلَّا
+    arabic: أَلَّا
     translation: that not
     transliteration: allā
   19:
-    arabic: تَعۡدِلُوۡا
+    arabic: تَعۡدِلُواْ
     translation: you can do justice
     transliteration: taʿdilū
   20:
-    arabic: فَوَاحِدَةً
+    arabic: فَوَٰحِدَةً
     translation: then (marry) one
     transliteration: fawāḥidatan
   21:
-    arabic: اَوۡ
+    arabic: أَوۡ
     translation: or
     transliteration: aw
   22:
@@ -98,27 +97,27 @@ word_by_word:
     translation: what
     transliteration: mā
   23:
-    arabic: مَلَـكَتۡ
+    arabic: مَلَكَتۡ
     translation: possesses
     transliteration: malakat
   24:
-    arabic: اَيۡمَانُكُمۡ​ ؕ
+    arabic: أَيۡمَٰنُكُمۡۚ
     translation: your right hand
     transliteration: aymānukum
   25:
-    arabic: ذٰ لِكَ
+    arabic: ذَٰلِكَ
     translation: That
     transliteration: dhālika
   26:
-    arabic: اَدۡنٰٓى
+    arabic: أَدۡنَىٰٓ
     translation: (is) more appropriate
     transliteration: adnā
   27:
-    arabic: اَلَّا
+    arabic: أَلَّا
     translation: that (may) not
     transliteration: allā
   28:
-    arabic: تَعُوۡلُوۡا ؕ‏
+    arabic: تَعُولُواْ
     translation: you oppress
     transliteration: taʿūlū
 ---

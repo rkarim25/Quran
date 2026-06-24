@@ -1,30 +1,30 @@
 ---
-arabic_ayat: اِنَّاۤ اَعۡتَدۡنَا لِلۡكٰفِرِيۡنَ سَلٰسِلَا۟ وَاَغۡلٰلًا وَّسَعِيۡرًا‏
+arabic_ayat: إِنَّآ أَعۡتَدۡنَا لِلۡكَٰفِرِينَ سَلَٰسِلَاْ وَأَغۡلَٰلٗا وَسَعِيرًا
 sentence_translation: Indeed, We have prepared for the disbelievers chains, shackles,
   and a blazing Fire.
 word_by_word:
   1:
-    arabic: اِنَّاۤ
+    arabic: إِنَّآ
     translation: Indeed, We
     transliteration: innā
   2:
-    arabic: اَعۡتَدۡنَا
+    arabic: أَعۡتَدۡنَا
     translation: '[We] have prepared'
     transliteration: aʿtadnā
   3:
-    arabic: لِلۡكٰفِرِيۡنَ
+    arabic: لِلۡكَٰفِرِينَ
     translation: for the disbelievers
     transliteration: lil'kāfirīna
   4:
-    arabic: سَلٰسِلَا۟
+    arabic: سَلَٰسِلَاْ
     translation: chains
     transliteration: salāsilā
   5:
-    arabic: وَاَغۡلٰلًا
+    arabic: وَأَغۡلَٰلٗا
     translation: and shackles
     transliteration: wa-aghlālan
   6:
-    arabic: وَّسَعِيۡرًا‏
+    arabic: وَسَعِيرًا
     translation: and a Blazing Fire
     transliteration: wasaʿīran
 ---

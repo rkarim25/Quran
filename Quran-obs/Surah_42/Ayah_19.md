@@ -1,19 +1,19 @@
 ---
-arabic_ayat: اَللّٰهُ لَطِيۡفٌۢ بِعِبَادِهٖ يَرۡزُقُ مَنۡ يَّشَآءُ​ۚ وَهُوَ الۡقَوِىُّ
-  الۡعَزِيۡزُ‏
+arabic_ayat: ٱللَّهُ لَطِيفُۢ بِعِبَادِهِۦ يَرۡزُقُ مَن يَشَآءُۖ وَهُوَ ٱلۡقَوِيُّ
+  ٱلۡعَزِيزُ
 sentence_translation: Allah is Ever Kind to His servants. He provides ˹abundantly˺
   to whoever He wills. And He is the All-Powerful, Almighty.
 word_by_word:
   1:
-    arabic: اَللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: al-lahu
   2:
-    arabic: لَطِيۡفٌۢ
+    arabic: لَطِيفُۢ
     translation: (is) Subtle
     transliteration: laṭīfun
   3:
-    arabic: بِعِبَادِهٖ
+    arabic: بِعِبَادِهِۦ
     translation: with His slaves
     transliteration: biʿibādihi
   4:
@@ -21,11 +21,11 @@ word_by_word:
     translation: He gives provision
     transliteration: yarzuqu
   5:
-    arabic: مَنۡ
+    arabic: مَن
     translation: (to) whom
     transliteration: man
   6:
-    arabic: يَّشَآءُ​ۚ
+    arabic: يَشَآءُۖ
     translation: He wills
     transliteration: yashāu
   7:
@@ -33,11 +33,11 @@ word_by_word:
     translation: And He
     transliteration: wahuwa
   8:
-    arabic: الۡقَوِىُّ
+    arabic: ٱلۡقَوِيُّ
     translation: (is) the All-Strong
     transliteration: l-qawiyu
   9:
-    arabic: الۡعَزِيۡزُ‏
+    arabic: ٱلۡعَزِيزُ
     translation: the All-Mighty
     transliteration: l-ʿazīzu
 ---

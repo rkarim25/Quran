@@ -1,11 +1,11 @@
 ---
-arabic_ayat: وَاِذَا بُشِّرَ اَحَدُهُمۡ بِمَا ضَرَبَ لِلرَّحۡمٰنِ مَثَلًا ظَلَّ وَجۡهُهٗ
-  مُسۡوَدًّا وَّهُوَ كَظِيۡمٌ‏
+arabic_ayat: وَإِذَا بُشِّرَ أَحَدُهُم بِمَا ضَرَبَ لِلرَّحۡمَٰنِ مَثَلٗا ظَلَّ وَجۡهُهُۥ
+  مُسۡوَدّٗا وَهُوَ كَظِيمٌ
 sentence_translation: Whenever one of them is given the good news of what they attribute
   to the Most Compassionate, his face grows gloomy, as he suppresses his rage.
 word_by_word:
   1:
-    arabic: وَاِذَا
+    arabic: وَإِذَا
     translation: And when
     transliteration: wa-idhā
   2:
@@ -13,7 +13,7 @@ word_by_word:
     translation: is given good news
     transliteration: bushira
   3:
-    arabic: اَحَدُهُمۡ
+    arabic: أَحَدُهُم
     translation: (to) one of them
     transliteration: aḥaduhum
   4:
@@ -25,11 +25,11 @@ word_by_word:
     translation: he sets up
     transliteration: ḍaraba
   6:
-    arabic: لِلرَّحۡمٰنِ
+    arabic: لِلرَّحۡمَٰنِ
     translation: for the Most Gracious
     transliteration: lilrraḥmāni
   7:
-    arabic: مَثَلًا
+    arabic: مَثَلٗا
     translation: (as) a likeness
     transliteration: mathalan
   8:
@@ -37,19 +37,19 @@ word_by_word:
     translation: becomes
     transliteration: ẓalla
   9:
-    arabic: وَجۡهُهٗ
+    arabic: وَجۡهُهُۥ
     translation: his face
     transliteration: wajhuhu
   10:
-    arabic: مُسۡوَدًّا
+    arabic: مُسۡوَدّٗا
     translation: dark
     transliteration: mus'waddan
   11:
-    arabic: وَّهُوَ
+    arabic: وَهُوَ
     translation: and he
     transliteration: wahuwa
   12:
-    arabic: كَظِيۡمٌ‏
+    arabic: كَظِيمٌ
     translation: (is) filled with grief
     transliteration: kaẓīmun
 ---

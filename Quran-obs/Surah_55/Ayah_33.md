@@ -1,36 +1,36 @@
 ---
-arabic_ayat: يٰمَعۡشَرَ الۡجِنِّ وَالۡاِنۡسِ اِنِ اسۡتَطَعۡتُمۡ اَنۡ تَنۡفُذُوۡا مِنۡ
-  اَقۡطَارِ السَّمٰوٰتِ وَالۡاَرۡضِ فَانْفُذُوۡا​ؕ لَا تَنۡفُذُوۡنَ اِلَّا بِسُلۡطٰنٍ​ۚ‏
+arabic_ayat: يَٰمَعۡشَرَ ٱلۡجِنِّ وَٱلۡإِنسِ إِنِ ٱسۡتَطَعۡتُمۡ أَن تَنفُذُواْ مِنۡ
+  أَقۡطَارِ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِ فَٱنفُذُواْۚ لَا تَنفُذُونَ إِلَّا بِسُلۡطَٰنٖ
 sentence_translation: O  assembly of jinn and humans! If you can penetrate beyond
   the realms of the heavens and the earth, then do so. ˹But˺ you cannot do that without
   ˹Our˺ authority.
 word_by_word:
   1:
-    arabic: يٰمَعۡشَرَ
+    arabic: يَٰمَعۡشَرَ
     translation: O assembly
     transliteration: yāmaʿshara
   2:
-    arabic: الۡجِنِّ
+    arabic: ٱلۡجِنِّ
     translation: (of) the jinn
     transliteration: l-jini
   3:
-    arabic: وَالۡاِنۡسِ
+    arabic: وَٱلۡإِنسِ
     translation: and the men
     transliteration: wal-insi
   4:
-    arabic: اِنِ
+    arabic: إِنِ
     translation: If
     transliteration: ini
   5:
-    arabic: اسۡتَطَعۡتُمۡ
+    arabic: ٱسۡتَطَعۡتُمۡ
     translation: you are able
     transliteration: is'taṭaʿtum
   6:
-    arabic: اَنۡ
+    arabic: أَن
     translation: to
     transliteration: an
   7:
-    arabic: تَنۡفُذُوۡا
+    arabic: تَنفُذُواْ
     translation: pass beyond
     transliteration: tanfudhū
   8:
@@ -38,19 +38,19 @@ word_by_word:
     translation: '[of]'
     transliteration: min
   9:
-    arabic: اَقۡطَارِ
+    arabic: أَقۡطَارِ
     translation: (the) regions
     transliteration: aqṭāri
   10:
-    arabic: السَّمٰوٰتِ
+    arabic: ٱلسَّمَٰوَٰتِ
     translation: (of) the heavens
     transliteration: l-samāwāti
   11:
-    arabic: وَالۡاَرۡضِ
+    arabic: وَٱلۡأَرۡضِ
     translation: and the earth
     transliteration: wal-arḍi
   12:
-    arabic: فَانْفُذُوۡا​ؕ
+    arabic: فَٱنفُذُواْۚ
     translation: then pass
     transliteration: fa-unfudhū
   13:
@@ -58,15 +58,15 @@ word_by_word:
     translation: Not
     transliteration: lā
   14:
-    arabic: تَنۡفُذُوۡنَ
+    arabic: تَنفُذُونَ
     translation: you (can) pass
     transliteration: tanfudhūna
   15:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   16:
-    arabic: بِسُلۡطٰنٍ​ۚ‏
+    arabic: بِسُلۡطَٰنٖ
     translation: by authority
     transliteration: bisul'ṭānin
 ---

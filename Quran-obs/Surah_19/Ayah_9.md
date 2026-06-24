@@ -1,6 +1,6 @@
 ---
-arabic_ayat: قَالَ كَذٰلِكَ​ۚ قَالَ رَبُّكَ هُوَ عَلَىَّ هَيِّنٌ وَّقَدۡ خَلَقۡتُكَ
-  مِنۡ قَبۡلُ وَلَمۡ تَكُ شَيۡـًٔـا‏
+arabic_ayat: قَالَ كَذَٰلِكَ قَالَ رَبُّكَ هُوَ عَلَيَّ هَيِّنٞ وَقَدۡ خَلَقۡتُكَ
+  مِن قَبۡلُ وَلَمۡ تَكُ شَيۡـٔٗا
 sentence_translation: An angel replied, “So will it be! Your Lord says, ‘It is easy
   for Me, just as I created you before, when you were nothing!’”
 word_by_word:
@@ -9,7 +9,7 @@ word_by_word:
     translation: He said
     transliteration: qāla
   2:
-    arabic: كَذٰلِكَ​ۚ
+    arabic: كَذَٰلِكَ
     translation: Thus
     transliteration: kadhālika
   3:
@@ -25,15 +25,15 @@ word_by_word:
     translation: '''It'
     transliteration: huwa
   6:
-    arabic: عَلَىَّ
+    arabic: عَلَيَّ
     translation: (is) easy for Me
     transliteration: ʿalayya
   7:
-    arabic: هَيِّنٌ
+    arabic: هَيِّنٞ
     translation: (is) easy for Me
     transliteration: hayyinun
   8:
-    arabic: وَّقَدۡ
+    arabic: وَقَدۡ
     translation: and certainly
     transliteration: waqad
   9:
@@ -41,7 +41,7 @@ word_by_word:
     translation: I (have) created you
     transliteration: khalaqtuka
   10:
-    arabic: مِنۡ
+    arabic: مِن
     translation: before
     transliteration: min
   11:
@@ -57,7 +57,7 @@ word_by_word:
     translation: you were
     transliteration: taku
   14:
-    arabic: شَيۡـًٔـا‏
+    arabic: شَيۡـٔٗا
     translation: anything.'
     transliteration: shayan
 ---

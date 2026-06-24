@@ -1,44 +1,44 @@
 ---
-arabic_ayat: فَاِذَا رَكِبُوۡا فِى الۡفُلۡكِ دَعَوُا اللّٰهَ مُخۡلِصِيۡنَ لَـهُ الدِّيۡنَ ۚ
-  فَلَمَّا نَجّٰٮهُمۡ اِلَى الۡبَـرِّ اِذَا هُمۡ يُشۡرِكُوۡنَۙ‏
+arabic_ayat: فَإِذَا رَكِبُواْ فِي ٱلۡفُلۡكِ دَعَوُاْ ٱللَّهَ مُخۡلِصِينَ لَهُ ٱلدِّينَ
+  فَلَمَّا نَجَّىٰهُمۡ إِلَى ٱلۡبَرِّ إِذَا هُمۡ يُشۡرِكُونَ
 sentence_translation: If they happen to be aboard a ship ˹caught in a storm˺, they
   cry out to Allah ˹alone˺ in sincere devotion. But as soon as He delivers them ˹safely˺
   to shore, they associate ˹others with Him once again˺.
 word_by_word:
   1:
-    arabic: فَاِذَا
+    arabic: فَإِذَا
     translation: And when
     transliteration: fa-idhā
   2:
-    arabic: رَكِبُوۡا
+    arabic: رَكِبُواْ
     translation: they embark
     transliteration: rakibū
   3:
-    arabic: فِى
+    arabic: فِي
     translation: '[in]'
     transliteration: fī
   4:
-    arabic: الۡفُلۡكِ
+    arabic: ٱلۡفُلۡكِ
     translation: the ship
     transliteration: l-ful'ki
   5:
-    arabic: دَعَوُا
+    arabic: دَعَوُاْ
     translation: they call
     transliteration: daʿawū
   6:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   7:
-    arabic: مُخۡلِصِيۡنَ
+    arabic: مُخۡلِصِينَ
     translation: (being) sincere
     transliteration: mukh'liṣīna
   8:
-    arabic: لَـهُ
+    arabic: لَهُ
     translation: to Him
     transliteration: lahu
   9:
-    arabic: الدِّيۡنَ ۚ
+    arabic: ٱلدِّينَ
     translation: (in) the religion
     transliteration: l-dīna
   10:
@@ -46,19 +46,19 @@ word_by_word:
     translation: But when
     transliteration: falammā
   11:
-    arabic: نَجّٰٮهُمۡ
+    arabic: نَجَّىٰهُمۡ
     translation: He delivers them
     transliteration: najjāhum
   12:
-    arabic: اِلَى
+    arabic: إِلَى
     translation: to
     transliteration: ilā
   13:
-    arabic: الۡبَـرِّ
+    arabic: ٱلۡبَرِّ
     translation: the land
     transliteration: l-bari
   14:
-    arabic: اِذَا
+    arabic: إِذَا
     translation: behold
     transliteration: idhā
   15:
@@ -66,7 +66,7 @@ word_by_word:
     translation: they
     transliteration: hum
   16:
-    arabic: يُشۡرِكُوۡنَۙ‏
+    arabic: يُشۡرِكُونَ
     translation: associate partners (with Him)
     transliteration: yush'rikūna
 ---

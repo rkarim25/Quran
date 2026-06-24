@@ -1,7 +1,7 @@
 ---
-arabic_ayat: وَمَا مَنَعَنَاۤ اَنۡ نُّرۡسِلَ بِالۡاٰيٰتِ اِلَّاۤ اَنۡ كَذَّبَ بِهَا
-  الۡاَوَّلُوۡنَ​ؕ وَاٰتَيۡنَا ثَمُوۡدَ النَّاقَةَ مُبۡصِرَةً فَظَلَمُوۡا بِهَا​ؕ
-  وَمَا نُرۡسِلُ بِالۡاٰيٰتِ اِلَّا تَخۡوِيۡفًا‏
+arabic_ayat: وَمَا مَنَعَنَآ أَن نُّرۡسِلَ بِٱلۡأٓيَٰتِ إِلَّآ أَن كَذَّبَ بِهَا
+  ٱلۡأَوَّلُونَۚ وَءَاتَيۡنَا ثَمُودَ ٱلنَّاقَةَ مُبۡصِرَةٗ فَظَلَمُواْ بِهَاۚ وَمَا
+  نُرۡسِلُ بِٱلۡأٓيَٰتِ إِلَّا تَخۡوِيفٗا
 sentence_translation: Nothing keeps Us from sending the ˹demanded˺ signs except that
   they had ˹already˺ been denied by earlier peoples. And We gave Thamûd the she-camel
   as a clear sign, but they wrongfully rejected it. We only send the signs as a warning.
@@ -11,11 +11,11 @@ word_by_word:
     translation: And not
     transliteration: wamā
   2:
-    arabic: مَنَعَنَاۤ
+    arabic: مَنَعَنَآ
     translation: stopped Us
     transliteration: manaʿanā
   3:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that
     transliteration: an
   4:
@@ -23,15 +23,15 @@ word_by_word:
     translation: We send
     transliteration: nur'sila
   5:
-    arabic: بِالۡاٰيٰتِ
+    arabic: بِٱلۡأٓيَٰتِ
     translation: the Signs
     transliteration: bil-āyāti
   6:
-    arabic: اِلَّاۤ
+    arabic: إِلَّآ
     translation: except
     transliteration: illā
   7:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that
     transliteration: an
   8:
@@ -43,31 +43,31 @@ word_by_word:
     translation: them
     transliteration: bihā
   10:
-    arabic: الۡاَوَّلُوۡنَ​ؕ
+    arabic: ٱلۡأَوَّلُونَۚ
     translation: the former (people)
     transliteration: l-awalūna
   11:
-    arabic: وَاٰتَيۡنَا
+    arabic: وَءَاتَيۡنَا
     translation: And We gave
     transliteration: waātaynā
   12:
-    arabic: ثَمُوۡدَ
+    arabic: ثَمُودَ
     translation: Thamud
     transliteration: thamūda
   13:
-    arabic: النَّاقَةَ
+    arabic: ٱلنَّاقَةَ
     translation: the she-camel
     transliteration: l-nāqata
   14:
-    arabic: مُبۡصِرَةً
+    arabic: مُبۡصِرَةٗ
     translation: (as) a visible sign
     transliteration: mub'ṣiratan
   15:
-    arabic: فَظَلَمُوۡا
+    arabic: فَظَلَمُواْ
     translation: but they wronged
     transliteration: faẓalamū
   16:
-    arabic: بِهَا​ؕ
+    arabic: بِهَاۚ
     translation: her
     transliteration: bihā
   17:
@@ -79,15 +79,15 @@ word_by_word:
     translation: We send
     transliteration: nur'silu
   19:
-    arabic: بِالۡاٰيٰتِ
+    arabic: بِٱلۡأٓيَٰتِ
     translation: the Signs
     transliteration: bil-āyāti
   20:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   21:
-    arabic: تَخۡوِيۡفًا‏
+    arabic: تَخۡوِيفٗا
     translation: (as) a warning
     transliteration: takhwīfan
 ---

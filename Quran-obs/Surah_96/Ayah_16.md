@@ -1,17 +1,17 @@
 ---
-arabic_ayat: نَاصِيَةٍ كَاذِبَةٍ خَاطِئَةٍ​ ۚ‏
+arabic_ayat: نَاصِيَةٖ كَٰذِبَةٍ خَاطِئَةٖ
 sentence_translation: a lying, sinful forelock.
 word_by_word:
   1:
-    arabic: نَاصِيَةٍ
+    arabic: نَاصِيَةٖ
     translation: A forelock
     transliteration: nāṣiyatin
   2:
-    arabic: كَاذِبَةٍ
+    arabic: كَٰذِبَةٍ
     translation: lying
     transliteration: kādhibatin
   3:
-    arabic: خَاطِئَةٍ​ ۚ‏
+    arabic: خَاطِئَةٖ
     translation: sinful
     transliteration: khāṭi-atin
 ---

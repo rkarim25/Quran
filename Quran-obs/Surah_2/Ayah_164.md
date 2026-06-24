@@ -1,9 +1,9 @@
 ---
-arabic_ayat: اِنَّ فِىۡ خَلۡقِ السَّمٰوٰتِ وَالۡاَرۡضِ وَاخۡتِلَافِ الَّيۡلِ وَالنَّهَارِ
-  وَالۡفُلۡكِ الَّتِىۡ تَجۡرِىۡ فِى الۡبَحۡرِ بِمَا يَنۡفَعُ النَّاسَ وَمَآ اَنۡزَلَ
-  اللّٰهُ مِنَ السَّمَآءِ مِنۡ مَّآءٍ فَاَحۡيَا بِهِ الۡاَرۡضَ بَعۡدَ مَوۡتِهَا
-  وَبَثَّ فِيۡهَا مِنۡ کُلِّ دَآ بَّةٍ وَّتَصۡرِيۡفِ الرِّيٰحِ وَالسَّحَابِ الۡمُسَخَّرِ
-  بَيۡنَ السَّمَآءِ وَالۡاَرۡضِ لَاٰيٰتٍ لِّقَوۡمٍ يَّعۡقِلُوۡنَ‏
+arabic_ayat: إِنَّ فِي خَلۡقِ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِ وَٱخۡتِلَٰفِ ٱلَّيۡلِ وَٱلنَّهَارِ
+  وَٱلۡفُلۡكِ ٱلَّتِي تَجۡرِي فِي ٱلۡبَحۡرِ بِمَا يَنفَعُ ٱلنَّاسَ وَمَآ أَنزَلَ
+  ٱللَّهُ مِنَ ٱلسَّمَآءِ مِن مَّآءٖ فَأَحۡيَا بِهِ ٱلۡأَرۡضَ بَعۡدَ مَوۡتِهَا وَبَثَّ
+  فِيهَا مِن كُلِّ دَآبَّةٖ وَتَصۡرِيفِ ٱلرِّيَٰحِ وَٱلسَّحَابِ ٱلۡمُسَخَّرِ بَيۡنَ
+  ٱلسَّمَآءِ وَٱلۡأَرۡضِ لَأٓيَٰتٖ لِّقَوۡمٖ يَعۡقِلُونَ
 sentence_translation: Indeed, in the creation of the heavens and the earth; the alternation
   of the day and the night; the ships that sail the sea for the benefit of humanity;
   the rain sent down by Allah from the skies, reviving the earth after its death;
@@ -12,11 +12,11 @@ sentence_translation: Indeed, in the creation of the heavens and the earth; the 
   signs for people of understanding.
 word_by_word:
   1:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   2:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   3:
@@ -24,43 +24,43 @@ word_by_word:
     translation: (the) creation
     transliteration: khalqi
   4:
-    arabic: السَّمٰوٰتِ
+    arabic: ٱلسَّمَٰوَٰتِ
     translation: (of) the heavens
     transliteration: l-samāwāti
   5:
-    arabic: وَالۡاَرۡضِ
+    arabic: وَٱلۡأَرۡضِ
     translation: and the earth
     transliteration: wal-arḍi
   6:
-    arabic: وَاخۡتِلَافِ
+    arabic: وَٱخۡتِلَٰفِ
     translation: and alternation
     transliteration: wa-ikh'tilāfi
   7:
-    arabic: الَّيۡلِ
+    arabic: ٱلَّيۡلِ
     translation: of the night
     transliteration: al-layli
   8:
-    arabic: وَالنَّهَارِ
+    arabic: وَٱلنَّهَارِ
     translation: and the day
     transliteration: wal-nahāri
   9:
-    arabic: وَالۡفُلۡكِ
+    arabic: وَٱلۡفُلۡكِ
     translation: and the ships
     transliteration: wal-ful'ki
   10:
-    arabic: الَّتِىۡ
+    arabic: ٱلَّتِي
     translation: which
     transliteration: allatī
   11:
-    arabic: تَجۡرِىۡ
+    arabic: تَجۡرِي
     translation: sail
     transliteration: tajrī
   12:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   13:
-    arabic: الۡبَحۡرِ
+    arabic: ٱلۡبَحۡرِ
     translation: the sea
     transliteration: l-baḥri
   14:
@@ -68,11 +68,11 @@ word_by_word:
     translation: with what
     transliteration: bimā
   15:
-    arabic: يَنۡفَعُ
+    arabic: يَنفَعُ
     translation: benefits
     transliteration: yanfaʿu
   16:
-    arabic: النَّاسَ
+    arabic: ٱلنَّاسَ
     translation: '[the] people'
     transliteration: l-nāsa
   17:
@@ -80,11 +80,11 @@ word_by_word:
     translation: and what
     transliteration: wamā
   18:
-    arabic: اَنۡزَلَ
+    arabic: أَنزَلَ
     translation: (has) sent down
     transliteration: anzala
   19:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   20:
@@ -92,19 +92,19 @@ word_by_word:
     translation: from
     transliteration: mina
   21:
-    arabic: السَّمَآءِ
+    arabic: ٱلسَّمَآءِ
     translation: the sky
     transliteration: l-samāi
   22:
-    arabic: مِنۡ
+    arabic: مِن
     translation: '[of]'
     transliteration: min
   23:
-    arabic: مَّآءٍ
+    arabic: مَّآءٖ
     translation: water
     transliteration: māin
   24:
-    arabic: فَاَحۡيَا
+    arabic: فَأَحۡيَا
     translation: giving life
     transliteration: fa-aḥyā
   25:
@@ -112,7 +112,7 @@ word_by_word:
     translation: thereby
     transliteration: bihi
   26:
-    arabic: الۡاَرۡضَ
+    arabic: ٱلۡأَرۡضَ
     translation: (to) the earth
     transliteration: l-arḍa
   27:
@@ -128,35 +128,35 @@ word_by_word:
     translation: and dispersing
     transliteration: wabatha
   30:
-    arabic: فِيۡهَا
+    arabic: فِيهَا
     translation: therein
     transliteration: fīhā
   31:
-    arabic: مِنۡ
+    arabic: مِن
     translation: '[of]'
     transliteration: min
   32:
-    arabic: کُلِّ
+    arabic: كُلِّ
     translation: every
     transliteration: kulli
   33:
-    arabic: دَآ بَّةٍ
+    arabic: دَآبَّةٖ
     translation: moving creature
     transliteration: dābbatin
   34:
-    arabic: وَّتَصۡرِيۡفِ
+    arabic: وَتَصۡرِيفِ
     translation: and directing
     transliteration: wataṣrīfi
   35:
-    arabic: الرِّيٰحِ
+    arabic: ٱلرِّيَٰحِ
     translation: (of) the winds
     transliteration: l-riyāḥi
   36:
-    arabic: وَالسَّحَابِ
+    arabic: وَٱلسَّحَابِ
     translation: and the clouds
     transliteration: wal-saḥābi
   37:
-    arabic: الۡمُسَخَّرِ
+    arabic: ٱلۡمُسَخَّرِ
     translation: '[the] controlled'
     transliteration: l-musakhari
   38:
@@ -164,23 +164,23 @@ word_by_word:
     translation: between
     transliteration: bayna
   39:
-    arabic: السَّمَآءِ
+    arabic: ٱلسَّمَآءِ
     translation: the sky
     transliteration: l-samāi
   40:
-    arabic: وَالۡاَرۡضِ
+    arabic: وَٱلۡأَرۡضِ
     translation: and the earth
     transliteration: wal-arḍi
   41:
-    arabic: لَاٰيٰتٍ
+    arabic: لَأٓيَٰتٖ
     translation: surely (are) Signs
     transliteration: laāyātin
   42:
-    arabic: لِّقَوۡمٍ
+    arabic: لِّقَوۡمٖ
     translation: for a people
     transliteration: liqawmin
   43:
-    arabic: يَّعۡقِلُوۡنَ‏
+    arabic: يَعۡقِلُونَ
     translation: who use their intellect
     transliteration: yaʿqilūna
 ---

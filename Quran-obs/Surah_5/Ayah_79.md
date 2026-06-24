@@ -1,11 +1,11 @@
 ---
-arabic_ayat: كَانُوۡا لَا يَتَـنَاهَوۡنَ عَنۡ مُّنۡكَرٍ فَعَلُوۡهُ ​ؕ لَبِئۡسَ مَا
-  كَانُوۡا يَفۡعَلُوۡنَ‏
+arabic_ayat: كَانُواْ لَا يَتَنَاهَوۡنَ عَن مُّنكَرٖ فَعَلُوهُۚ لَبِئۡسَ مَا كَانُواْ
+  يَفۡعَلُونَ
 sentence_translation: They did not forbid one another from doing evil. Evil indeed
   was what they did!
 word_by_word:
   1:
-    arabic: كَانُوۡا
+    arabic: كَانُواْ
     translation: They had been
     transliteration: kānū
   2:
@@ -13,19 +13,19 @@ word_by_word:
     translation: not
     transliteration: lā
   3:
-    arabic: يَتَـنَاهَوۡنَ
+    arabic: يَتَنَاهَوۡنَ
     translation: forbidding each other
     transliteration: yatanāhawna
   4:
-    arabic: عَنۡ
+    arabic: عَن
     translation: from
     transliteration: ʿan
   5:
-    arabic: مُّنۡكَرٍ
+    arabic: مُّنكَرٖ
     translation: wrongdoing
     transliteration: munkarin
   6:
-    arabic: فَعَلُوۡهُ ​ؕ
+    arabic: فَعَلُوهُۚ
     translation: they did [it]
     transliteration: faʿalūhu
   7:
@@ -37,11 +37,11 @@ word_by_word:
     translation: (was) what
     transliteration: mā
   9:
-    arabic: كَانُوۡا
+    arabic: كَانُواْ
     translation: they were
     transliteration: kānū
   10:
-    arabic: يَفۡعَلُوۡنَ‏
+    arabic: يَفۡعَلُونَ
     translation: doing
     transliteration: yafʿalūna
 ---

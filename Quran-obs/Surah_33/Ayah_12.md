@@ -1,35 +1,35 @@
 ---
-arabic_ayat: وَاِذۡ يَقُوۡلُ الۡمُنٰفِقُوۡنَ وَالَّذِيۡنَ فِىۡ قُلُوۡبِهِمۡ مَّرَضٌ
-  مَّا وَعَدَنَا اللّٰهُ وَرَسُوۡلُهٗۤ اِلَّا غُرُوۡرًا‏
+arabic_ayat: وَإِذۡ يَقُولُ ٱلۡمُنَٰفِقُونَ وَٱلَّذِينَ فِي قُلُوبِهِم مَّرَضٞ مَّا
+  وَعَدَنَا ٱللَّهُ وَرَسُولُهُۥٓ إِلَّا غُرُورٗا
 sentence_translation: And ˹remember˺ when the hypocrites and those with sickness in
   their hearts said, “Allah and His Messenger have promised us nothing but delusion!”
 word_by_word:
   1:
-    arabic: وَاِذۡ
+    arabic: وَإِذۡ
     translation: And when
     transliteration: wa-idh
   2:
-    arabic: يَقُوۡلُ
+    arabic: يَقُولُ
     translation: said
     transliteration: yaqūlu
   3:
-    arabic: الۡمُنٰفِقُوۡنَ
+    arabic: ٱلۡمُنَٰفِقُونَ
     translation: the hypocrites
     transliteration: l-munāfiqūna
   4:
-    arabic: وَالَّذِيۡنَ
+    arabic: وَٱلَّذِينَ
     translation: and those
     transliteration: wa-alladhīna
   5:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   6:
-    arabic: قُلُوۡبِهِمۡ
+    arabic: قُلُوبِهِم
     translation: their hearts
     transliteration: qulūbihim
   7:
-    arabic: مَّرَضٌ
+    arabic: مَّرَضٞ
     translation: (was) a disease
     transliteration: maraḍun
   8:
@@ -41,19 +41,19 @@ word_by_word:
     translation: Allah promised us
     transliteration: waʿadanā
   10:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah promised us
     transliteration: l-lahu
   11:
-    arabic: وَرَسُوۡلُهٗۤ
+    arabic: وَرَسُولُهُۥٓ
     translation: and His messenger
     transliteration: warasūluhu
   12:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   13:
-    arabic: غُرُوۡرًا‏
+    arabic: غُرُورٗا
     translation: delusion
     transliteration: ghurūran
 ---

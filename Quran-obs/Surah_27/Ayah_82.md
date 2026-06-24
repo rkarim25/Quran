@@ -1,12 +1,12 @@
 ---
-arabic_ayat: وَ اِذَا وَقَعَ الۡقَوۡلُ عَلَيۡهِمۡ اَخۡرَجۡنَا لَهُمۡ دَآبَّةً مِّنَ
-  الۡاَرۡضِ تُكَلِّمُهُمۡۙ اَنَّ النَّاسَ كَانُوۡا بِاٰيٰتِنَا لَا يُوۡقِنُوۡنَ‏
+arabic_ayat: ۞ وَإِذَا وَقَعَ ٱلۡقَوۡلُ عَلَيۡهِمۡ أَخۡرَجۡنَا لَهُمۡ دَآبَّةٗ مِّنَ
+  ٱلۡأَرۡضِ تُكَلِّمُهُمۡ أَنَّ ٱلنَّاسَ كَانُواْ بِـَٔايَٰتِنَا لَا يُوقِنُونَ
 sentence_translation: And when the decree ˹of the Hour˺ comes to pass against them,
   We will bring forth for them a beast from the earth, telling them that the people
   had no sure faith in Our revelations.
 word_by_word:
   1:
-    arabic: ۞ وَ اِذَا
+    arabic: ۞ وَإِذَا
     translation: And when
     transliteration: wa-idhā
   2:
@@ -14,7 +14,7 @@ word_by_word:
     translation: (is) fulfilled
     transliteration: waqaʿa
   3:
-    arabic: الۡقَوۡلُ
+    arabic: ٱلۡقَوۡلُ
     translation: the word
     transliteration: l-qawlu
   4:
@@ -22,7 +22,7 @@ word_by_word:
     translation: against them
     transliteration: ʿalayhim
   5:
-    arabic: اَخۡرَجۡنَا
+    arabic: أَخۡرَجۡنَا
     translation: We will bring forth
     transliteration: akhrajnā
   6:
@@ -30,7 +30,7 @@ word_by_word:
     translation: for them
     transliteration: lahum
   7:
-    arabic: دَآبَّةً
+    arabic: دَآبَّةٗ
     translation: a creature
     transliteration: dābbatan
   8:
@@ -38,27 +38,27 @@ word_by_word:
     translation: from
     transliteration: mina
   9:
-    arabic: الۡاَرۡضِ
+    arabic: ٱلۡأَرۡضِ
     translation: the earth
     transliteration: l-arḍi
   10:
-    arabic: تُكَلِّمُهُمۡۙ
+    arabic: تُكَلِّمُهُمۡ
     translation: speaking to them
     transliteration: tukallimuhum
   11:
-    arabic: اَنَّ
+    arabic: أَنَّ
     translation: that
     transliteration: anna
   12:
-    arabic: النَّاسَ
+    arabic: ٱلنَّاسَ
     translation: the people
     transliteration: l-nāsa
   13:
-    arabic: كَانُوۡا
+    arabic: كَانُواْ
     translation: were
     transliteration: kānū
   14:
-    arabic: بِاٰيٰتِنَا
+    arabic: بِـَٔايَٰتِنَا
     translation: of Our Signs
     transliteration: biāyātinā
   15:
@@ -66,7 +66,7 @@ word_by_word:
     translation: not
     transliteration: lā
   16:
-    arabic: يُوۡقِنُوۡنَ‏
+    arabic: يُوقِنُونَ
     translation: certain
     transliteration: yūqinūna
 ---

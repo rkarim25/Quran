@@ -1,6 +1,6 @@
 ---
-arabic_ayat: وَيَوۡمَ يَحۡشُرُهُمۡ وَمَا يَعۡبُدُوۡنَ مِنۡ دُوۡنِ اللّٰهِ فَيَقُوۡلُ
-  ءَاَنۡـتُمۡ اَضۡلَلۡـتُمۡ عِبَادِىۡ هٰٓؤُلَاۤءِ اَمۡ هُمۡ ضَلُّوا السَّبِيۡلَ ؕ‏
+arabic_ayat: وَيَوۡمَ يَحۡشُرُهُمۡ وَمَا يَعۡبُدُونَ مِن دُونِ ٱللَّهِ فَيَقُولُ ءَأَنتُمۡ
+  أَضۡلَلۡتُمۡ عِبَادِي هَٰٓؤُلَآءِ أَمۡ هُمۡ ضَلُّواْ ٱلسَّبِيلَ
 sentence_translation: ˹Watch for˺ the Day He will gather them along with what they
   used to worship besides Allah, and ask ˹the objects of worship˺, “Was it you who
   misled these servants of Mine, or did they stray from the Way ˹on their own˺?”
@@ -18,43 +18,43 @@ word_by_word:
     translation: and what
     transliteration: wamā
   4:
-    arabic: يَعۡبُدُوۡنَ
+    arabic: يَعۡبُدُونَ
     translation: they worship
     transliteration: yaʿbudūna
   5:
-    arabic: مِنۡ
+    arabic: مِن
     translation: besides Allah
     transliteration: min
   6:
-    arabic: دُوۡنِ
+    arabic: دُونِ
     translation: besides Allah
     transliteration: dūni
   7:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: besides Allah
     transliteration: l-lahi
   8:
-    arabic: فَيَقُوۡلُ
+    arabic: فَيَقُولُ
     translation: and He will say
     transliteration: fayaqūlu
   9:
-    arabic: ءَاَنۡـتُمۡ
+    arabic: ءَأَنتُمۡ
     translation: Did you
     transliteration: a-antum
   10:
-    arabic: اَضۡلَلۡـتُمۡ
+    arabic: أَضۡلَلۡتُمۡ
     translation: '[you] mislead'
     transliteration: aḍlaltum
   11:
-    arabic: عِبَادِىۡ
+    arabic: عِبَادِي
     translation: My slaves
     transliteration: ʿibādī
   12:
-    arabic: هٰٓؤُلَاۤءِ
+    arabic: هَٰٓؤُلَآءِ
     translation: these
     transliteration: hāulāi
   13:
-    arabic: اَمۡ
+    arabic: أَمۡ
     translation: or
     transliteration: am
   14:
@@ -62,11 +62,11 @@ word_by_word:
     translation: they
     transliteration: hum
   15:
-    arabic: ضَلُّوا
+    arabic: ضَلُّواْ
     translation: went astray
     transliteration: ḍallū
   16:
-    arabic: السَّبِيۡلَ ؕ‏
+    arabic: ٱلسَّبِيلَ
     translation: (from) the way
     transliteration: l-sabīla
 ---

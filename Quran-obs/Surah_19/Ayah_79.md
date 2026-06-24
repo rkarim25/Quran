@@ -1,11 +1,10 @@
 ---
-arabic_ayat: "كَلَّا ​ ؕ سَنَكۡتُبُ مَا يَقُوۡلُ وَنَمُدُّ لَهٗ مِنَ الۡعَذَابِ مَدًّا\
-  \ ۙ‏ \uFEFF\uFEFF"
+arabic_ayat: كـَلَّاۚ سَنَكۡتُبُ مَا يَقُولُ وَنَمُدُّ لَهُۥ مِنَ ٱلۡعَذَابِ مَدّٗا
 sentence_translation: Not at all! We certainly record whatever he claims and will
   increase his punishment extensively.
 word_by_word:
   1:
-    arabic: كَلَّا ​ ؕ
+    arabic: كـَلَّاۚ
     translation: Nay
     transliteration: kallā
   2:
@@ -17,7 +16,7 @@ word_by_word:
     translation: what
     transliteration: mā
   4:
-    arabic: يَقُوۡلُ
+    arabic: يَقُولُ
     translation: he says
     transliteration: yaqūlu
   5:
@@ -25,7 +24,7 @@ word_by_word:
     translation: and We will extend
     transliteration: wanamuddu
   6:
-    arabic: لَهٗ
+    arabic: لَهُۥ
     translation: for him
     transliteration: lahu
   7:
@@ -33,11 +32,11 @@ word_by_word:
     translation: from
     transliteration: mina
   8:
-    arabic: الۡعَذَابِ
+    arabic: ٱلۡعَذَابِ
     translation: the punishment
     transliteration: l-ʿadhābi
   9:
-    arabic: "مَدًّا ۙ‏ \uFEFF\uFEFF"
+    arabic: مَدّٗا
     translation: extensively
     transliteration: maddan
 ---

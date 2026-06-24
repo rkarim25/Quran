@@ -1,6 +1,6 @@
 ---
-arabic_ayat: هُنَالِكَ الۡوَلَايَةُ لِلّٰهِ الۡحَـقِّ​ؕ هُوَ خَيۡرٌ ثَوَابًا وَّخَيۡرٌ
-  عُقۡبًا‏
+arabic_ayat: هُنَالِكَ ٱلۡوَلَٰيَةُ لِلَّهِ ٱلۡحَقِّۚ هُوَ خَيۡرٞ ثَوَابٗا وَخَيۡرٌ
+  عُقۡبٗا
 sentence_translation: At this time, support comes ˹only˺ from Allah—the True ˹Lord˺.
   He is best in reward and best in outcome.
 word_by_word:
@@ -9,15 +9,15 @@ word_by_word:
     translation: There
     transliteration: hunālika
   2:
-    arabic: الۡوَلَايَةُ
+    arabic: ٱلۡوَلَٰيَةُ
     translation: the protection
     transliteration: l-walāyatu
   3:
-    arabic: لِلّٰهِ
+    arabic: لِلَّهِ
     translation: (is) from Allah
     transliteration: lillahi
   4:
-    arabic: الۡحَـقِّ​ؕ
+    arabic: ٱلۡحَقِّۚ
     translation: the True
     transliteration: l-ḥaqi
   5:
@@ -25,19 +25,19 @@ word_by_word:
     translation: He
     transliteration: huwa
   6:
-    arabic: خَيۡرٌ
+    arabic: خَيۡرٞ
     translation: (is the) best
     transliteration: khayrun
   7:
-    arabic: ثَوَابًا
+    arabic: ثَوَابٗا
     translation: (to) reward
     transliteration: thawāban
   8:
-    arabic: وَّخَيۡرٌ
+    arabic: وَخَيۡرٌ
     translation: and (the) best
     transliteration: wakhayrun
   9:
-    arabic: عُقۡبًا‏
+    arabic: عُقۡبٗا
     translation: (for) the final end
     transliteration: ʿuq'ban
 ---

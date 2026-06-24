@@ -1,34 +1,34 @@
 ---
-arabic_ayat: وَ وَهَبۡنَا لَهٗ مِنۡ رَّحۡمَتِنَاۤ اَخَاهُ هٰرُوۡنَ نَبِيًّا‏
+arabic_ayat: وَوَهَبۡنَا لَهُۥ مِن رَّحۡمَتِنَآ أَخَاهُ هَٰرُونَ نَبِيّٗا
 sentence_translation: And We appointed for him—out of Our grace—his brother, Aaron,
   as a prophet.
 word_by_word:
   1:
-    arabic: وَ وَهَبۡنَا
+    arabic: وَوَهَبۡنَا
     translation: And We bestowed
     transliteration: wawahabnā
   2:
-    arabic: لَهٗ
+    arabic: لَهُۥ
     translation: '[to] him'
     transliteration: lahu
   3:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   4:
-    arabic: رَّحۡمَتِنَاۤ
+    arabic: رَّحۡمَتِنَآ
     translation: Our Mercy
     transliteration: raḥmatinā
   5:
-    arabic: اَخَاهُ
+    arabic: أَخَاهُ
     translation: his brother
     transliteration: akhāhu
   6:
-    arabic: هٰرُوۡنَ
+    arabic: هَٰرُونَ
     translation: Harun
     transliteration: hārūna
   7:
-    arabic: نَبِيًّا‏
+    arabic: نَبِيّٗا
     translation: a Prophet
     transliteration: nabiyyan
 ---

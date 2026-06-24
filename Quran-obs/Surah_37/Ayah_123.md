@@ -1,13 +1,13 @@
 ---
-arabic_ayat: وَاِنَّ اِلۡيَاسَ لَمِنَ الۡمُرۡسَلِيۡنَؕ‏
+arabic_ayat: وَإِنَّ إِلۡيَاسَ لَمِنَ ٱلۡمُرۡسَلِينَ
 sentence_translation: And Elias was indeed one of the messengers.
 word_by_word:
   1:
-    arabic: وَاِنَّ
+    arabic: وَإِنَّ
     translation: And indeed
     transliteration: wa-inna
   2:
-    arabic: اِلۡيَاسَ
+    arabic: إِلۡيَاسَ
     translation: Elijah
     transliteration: il'yāsa
   3:
@@ -15,7 +15,7 @@ word_by_word:
     translation: (was) surely of
     transliteration: lamina
   4:
-    arabic: الۡمُرۡسَلِيۡنَؕ‏
+    arabic: ٱلۡمُرۡسَلِينَ
     translation: the Messengers
     transliteration: l-mur'salīna
 ---

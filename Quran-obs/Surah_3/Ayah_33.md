@@ -1,43 +1,43 @@
 ---
-arabic_ayat: اِنَّ اللّٰهَ اصۡطَفٰۤى اٰدَمَ وَنُوۡحًا وَّاٰلَ اِبۡرٰهِيۡمَ وَاٰلَ
-  عِمۡرٰنَ عَلَى الۡعٰلَمِيۡنَۙ‏
+arabic_ayat: ۞ إِنَّ ٱللَّهَ ٱصۡطَفَىٰٓ ءَادَمَ وَنُوحٗا وَءَالَ إِبۡرَٰهِيمَ وَءَالَ
+  عِمۡرَٰنَ عَلَى ٱلۡعَٰلَمِينَ
 sentence_translation: Indeed, Allah chose Adam, Noah, the family of Abraham, and the
   family of ’Imrân above all people ˹of their time˺.
 word_by_word:
   1:
-    arabic: ۞ اِنَّ
+    arabic: ۞ إِنَّ
     translation: Indeed
     transliteration: inna
   2:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   3:
-    arabic: اصۡطَفٰۤى
+    arabic: ٱصۡطَفَىٰٓ ءَ
     translation: chose
     transliteration: iṣ'ṭafā
   4:
-    arabic: اٰدَمَ
+    arabic: ادَمَ
     translation: Adam
     transliteration: ādama
   5:
-    arabic: وَنُوۡحًا
+    arabic: وَنُوحٗا
     translation: and Nuh
     transliteration: wanūḥan
   6:
-    arabic: وَّاٰلَ
+    arabic: وَءَالَ
     translation: and (the) family
     transliteration: waāla
   7:
-    arabic: اِبۡرٰهِيۡمَ
+    arabic: إِبۡرَٰهِيمَ
     translation: (of) Ibrahim
     transliteration: ib'rāhīma
   8:
-    arabic: وَاٰلَ
+    arabic: وَءَالَ
     translation: and (the) family
     transliteration: waāla
   9:
-    arabic: عِمۡرٰنَ
+    arabic: عِمۡرَٰنَ
     translation: (of) Imran
     transliteration: ʿim'rāna
   10:
@@ -45,7 +45,7 @@ word_by_word:
     translation: over
     transliteration: ʿalā
   11:
-    arabic: الۡعٰلَمِيۡنَۙ‏
+    arabic: ٱلۡعَٰلَمِينَ
     translation: the worlds
     transliteration: l-ʿālamīna
 ---

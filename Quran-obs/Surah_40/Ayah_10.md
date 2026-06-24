@@ -1,20 +1,20 @@
 ---
-arabic_ayat: اِنَّ الَّذِيۡنَ كَفَرُوۡا يُنَادَوۡنَ لَمَقۡتُ اللّٰهِ اَكۡبَرُ مِنۡ
-  مَّقۡتِكُمۡ اَنۡفُسَكُمۡ اِذۡ تُدۡعَوۡنَ اِلَى الۡاِيۡمَانِ فَتَكۡفُرُوۡنَ‏
+arabic_ayat: إِنَّ ٱلَّذِينَ كَفَرُواْ يُنَادَوۡنَ لَمَقۡتُ ٱللَّهِ أَكۡبَرُ مِن مَّقۡتِكُمۡ
+  أَنفُسَكُمۡ إِذۡ تُدۡعَوۡنَ إِلَى ٱلۡإِيمَٰنِ فَتَكۡفُرُونَ
 sentence_translation: Indeed, it will be announced to the disbelievers, “Allah’s contempt
   for you—as you disbelieved when invited to belief—was far worse than your contempt
   for one another ˹Today˺.”
 word_by_word:
   1:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   3:
-    arabic: كَفَرُوۡا
+    arabic: كَفَرُواْ
     translation: disbelieved
     transliteration: kafarū
   4:
@@ -26,15 +26,15 @@ word_by_word:
     translation: Certainly Allah's hatred
     transliteration: lamaqtu
   6:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Certainly Allah's hatred
     transliteration: l-lahi
   7:
-    arabic: اَكۡبَرُ
+    arabic: أَكۡبَرُ
     translation: (was) greater
     transliteration: akbaru
   8:
-    arabic: مِنۡ
+    arabic: مِن
     translation: than
     transliteration: min
   9:
@@ -42,11 +42,11 @@ word_by_word:
     translation: your hatred
     transliteration: maqtikum
   10:
-    arabic: اَنۡفُسَكُمۡ
+    arabic: أَنفُسَكُمۡ
     translation: (of) yourselves
     transliteration: anfusakum
   11:
-    arabic: اِذۡ
+    arabic: إِذۡ
     translation: when
     transliteration: idh
   12:
@@ -54,15 +54,15 @@ word_by_word:
     translation: you were called
     transliteration: tud'ʿawna
   13:
-    arabic: اِلَى
+    arabic: إِلَى
     translation: to
     transliteration: ilā
   14:
-    arabic: الۡاِيۡمَانِ
+    arabic: ٱلۡإِيمَٰنِ
     translation: the faith
     transliteration: l-īmāni
   15:
-    arabic: فَتَكۡفُرُوۡنَ‏
+    arabic: فَتَكۡفُرُونَ
     translation: and you disbelieved
     transliteration: fatakfurūna
 ---

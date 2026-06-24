@@ -1,11 +1,11 @@
 ---
-arabic_ayat: ذٰلِكَ جَزَآؤُهُمۡ جَهَنَّمُ بِمَا كَفَرُوۡا وَاتَّخَذُوۡۤا اٰيٰتِىۡ
-  وَرُسُلِىۡ هُزُوًا‏
+arabic_ayat: ذَٰلِكَ جَزَآؤُهُمۡ جَهَنَّمُ بِمَا كَفَرُواْ وَٱتَّخَذُوٓاْ ءَايَٰتِي
+  وَرُسُلِي هُزُوًا
 sentence_translation: 'That is their reward: Hell, for their disbelief and mockery
   of My signs and messengers.'
 word_by_word:
   1:
-    arabic: ذٰلِكَ
+    arabic: ذَٰلِكَ
     translation: That
     transliteration: dhālika
   2:
@@ -21,23 +21,23 @@ word_by_word:
     translation: because
     transliteration: bimā
   5:
-    arabic: كَفَرُوۡا
+    arabic: كَفَرُواْ
     translation: they disbelieved
     transliteration: kafarū
   6:
-    arabic: وَاتَّخَذُوۡۤا
+    arabic: وَٱتَّخَذُوٓاْ ءَ
     translation: and took
     transliteration: wa-ittakhadhū
   7:
-    arabic: اٰيٰتِىۡ
+    arabic: ايَٰتِي
     translation: My Verses
     transliteration: āyātī
   8:
-    arabic: وَرُسُلِىۡ
+    arabic: وَرُسُلِي
     translation: and My Messengers
     transliteration: warusulī
   9:
-    arabic: هُزُوًا‏
+    arabic: هُزُوًا
     translation: (in) ridicule
     transliteration: huzuwan
 ---

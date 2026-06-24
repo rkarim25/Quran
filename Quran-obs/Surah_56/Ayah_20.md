@@ -1,9 +1,9 @@
 ---
-arabic_ayat: وَفَاكِهَةٍ مِّمَّا يَتَخَيَّرُوۡنَۙ‏
+arabic_ayat: وَفَٰكِهَةٖ مِّمَّا يَتَخَيَّرُونَ
 sentence_translation: ˹They will also be served˺ any fruit they choose
 word_by_word:
   1:
-    arabic: وَفَاكِهَةٍ
+    arabic: وَفَٰكِهَةٖ
     translation: And fruits
     transliteration: wafākihatin
   2:
@@ -11,7 +11,7 @@ word_by_word:
     translation: of what
     transliteration: mimmā
   3:
-    arabic: يَتَخَيَّرُوۡنَۙ‏
+    arabic: يَتَخَيَّرُونَ
     translation: they select
     transliteration: yatakhayyarūna
 ---

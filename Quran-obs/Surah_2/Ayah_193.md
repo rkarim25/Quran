@@ -1,16 +1,16 @@
 ---
-arabic_ayat: وَقٰتِلُوۡهُمۡ حَتّٰى لَا تَكُوۡنَ فِتۡنَةٌ وَّيَكُوۡنَ الدِّيۡنُ لِلّٰهِ​ؕ
-  فَاِنِ انتَهَوۡا فَلَا عُدۡوَانَ اِلَّا عَلَى الظّٰلِمِيۡنَ‏
+arabic_ayat: وَقَٰتِلُوهُمۡ حَتَّىٰ لَا تَكُونَ فِتۡنَةٞ وَيَكُونَ ٱلدِّينُ لِلَّهِۖ
+  فَإِنِ ٱنتَهَوۡاْ فَلَا عُدۡوَٰنَ إِلَّا عَلَى ٱلظَّٰلِمِينَ
 sentence_translation: Fight against them ˹if they persecute you˺ until there is no
   more persecution, and ˹your˺ devotion will be to Allah ˹alone˺. If they stop ˹persecuting
   you˺, let there be no hostility except against the aggressors.
 word_by_word:
   1:
-    arabic: وَقٰتِلُوۡهُمۡ
+    arabic: وَقَٰتِلُوهُمۡ
     translation: And fight (against) them
     transliteration: waqātilūhum
   2:
-    arabic: حَتّٰى
+    arabic: حَتَّىٰ
     translation: until
     transliteration: ḥattā
   3:
@@ -18,31 +18,31 @@ word_by_word:
     translation: not
     transliteration: lā
   4:
-    arabic: تَكُوۡنَ
+    arabic: تَكُونَ
     translation: (there) is
     transliteration: takūna
   5:
-    arabic: فِتۡنَةٌ
+    arabic: فِتۡنَةٞ
     translation: oppression
     transliteration: fit'natun
   6:
-    arabic: وَّيَكُوۡنَ
+    arabic: وَيَكُونَ
     translation: and becomes
     transliteration: wayakūna
   7:
-    arabic: الدِّيۡنُ
+    arabic: ٱلدِّينُ
     translation: the religion
     transliteration: l-dīnu
   8:
-    arabic: لِلّٰهِ​ؕ
+    arabic: لِلَّهِۖ
     translation: for Allah
     transliteration: lillahi
   9:
-    arabic: فَاِنِ
+    arabic: فَإِنِ
     translation: Then if
     transliteration: fa-ini
   10:
-    arabic: انتَهَوۡا
+    arabic: ٱنتَهَوۡاْ
     translation: they cease
     transliteration: intahaw
   11:
@@ -50,11 +50,11 @@ word_by_word:
     translation: then (let there be) no
     transliteration: falā
   12:
-    arabic: عُدۡوَانَ
+    arabic: عُدۡوَٰنَ
     translation: hostility
     transliteration: ʿud'wāna
   13:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   14:
@@ -62,7 +62,7 @@ word_by_word:
     translation: against
     transliteration: ʿalā
   15:
-    arabic: الظّٰلِمِيۡنَ‏
+    arabic: ٱلظَّٰلِمِينَ
     translation: the oppressors
     transliteration: l-ẓālimīna
 ---

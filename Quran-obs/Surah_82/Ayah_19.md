@@ -1,6 +1,6 @@
 ---
-arabic_ayat: يَوۡمَ لَا تَمۡلِكُ نَفۡسٌ لِّنَفۡسٍ شَيۡـــًٔا​ ؕ وَالۡاَمۡرُ يَوۡمَٮِٕذٍ
-  لِّلَّهِ‏
+arabic_ayat: يَوۡمَ لَا تَمۡلِكُ نَفۡسٞ لِّنَفۡسٖ شَيۡـٔٗاۖ وَٱلۡأَمۡرُ يَوۡمَئِذٖ
+  لِّلَّهِ
 sentence_translation: ˹It is˺ the Day no soul will be of ˹any˺ benefit to another
   whatsoever, for all authority on that Day belongs to Allah ˹entirely˺.
 word_by_word:
@@ -17,27 +17,27 @@ word_by_word:
     translation: will have power
     transliteration: tamliku
   4:
-    arabic: نَفۡسٌ
+    arabic: نَفۡسٞ
     translation: a soul
     transliteration: nafsun
   5:
-    arabic: لِّنَفۡسٍ
+    arabic: لِّنَفۡسٖ
     translation: for a soul
     transliteration: linafsin
   6:
-    arabic: شَيۡـــًٔا​ ؕ
+    arabic: شَيۡـٔٗاۖ
     translation: anything
     transliteration: shayan
   7:
-    arabic: وَالۡاَمۡرُ
+    arabic: وَٱلۡأَمۡرُ
     translation: and the Command
     transliteration: wal-amru
   8:
-    arabic: يَوۡمَٮِٕذٍ
+    arabic: يَوۡمَئِذٖ
     translation: that Day
     transliteration: yawma-idhin
   9:
-    arabic: لِّلَّهِ‏
+    arabic: لِّلَّهِ
     translation: (will be) with Allah
     transliteration: lillahi
 ---

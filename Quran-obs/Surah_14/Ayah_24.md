@@ -1,11 +1,11 @@
 ---
-arabic_ayat: اَلَمۡ تَرَ كَيۡفَ ضَرَبَ اللّٰهُ مَثَلًا كَلِمَةً طَيِّبَةً كَشَجَرَةٍ
-  طَيِّبَةٍ اَصۡلُهَا ثَابِتٌ وَّفَرۡعُهَا فِى السَّمَآءِۙ‏
+arabic_ayat: أَلَمۡ تَرَ كَيۡفَ ضَرَبَ ٱللَّهُ مَثَلٗا كَلِمَةٗ طَيِّبَةٗ كَشَجَرَةٖ
+  طَيِّبَةٍ أَصۡلُهَا ثَابِتٞ وَفَرۡعُهَا فِي ٱلسَّمَآءِ
 sentence_translation: Do you not see how Allah compares a good word to a good tree?
   Its root is firm and its branches reach the sky,
 word_by_word:
   1:
-    arabic: اَلَمۡ
+    arabic: أَلَمۡ
     translation: Do not
     transliteration: alam
   2:
@@ -21,23 +21,23 @@ word_by_word:
     translation: Allah sets forth
     transliteration: ḍaraba
   5:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah sets forth
     transliteration: l-lahu
   6:
-    arabic: مَثَلًا
+    arabic: مَثَلٗا
     translation: the example
     transliteration: mathalan
   7:
-    arabic: كَلِمَةً
+    arabic: كَلِمَةٗ
     translation: a word
     transliteration: kalimatan
   8:
-    arabic: طَيِّبَةً
+    arabic: طَيِّبَةٗ
     translation: good
     transliteration: ṭayyibatan
   9:
-    arabic: كَشَجَرَةٍ
+    arabic: كَشَجَرَةٖ
     translation: (is) like a tree
     transliteration: kashajaratin
   10:
@@ -45,23 +45,23 @@ word_by_word:
     translation: good
     transliteration: ṭayyibatin
   11:
-    arabic: اَصۡلُهَا
+    arabic: أَصۡلُهَا
     translation: its root
     transliteration: aṣluhā
   12:
-    arabic: ثَابِتٌ
+    arabic: ثَابِتٞ
     translation: (is) firm
     transliteration: thābitun
   13:
-    arabic: وَّفَرۡعُهَا
+    arabic: وَفَرۡعُهَا
     translation: and its branches
     transliteration: wafarʿuhā
   14:
-    arabic: فِى
+    arabic: فِي
     translation: (are) in
     transliteration: fī
   15:
-    arabic: السَّمَآءِۙ‏
+    arabic: ٱلسَّمَآءِ
     translation: the sky
     transliteration: l-samāi
 ---

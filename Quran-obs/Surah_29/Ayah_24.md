@@ -1,7 +1,6 @@
 ---
-arabic_ayat: "فَمَا كَانَ جَوَابَ قَوۡمِهٖۤ اِلَّاۤ اَنۡ قَالُوا اقۡتُلُوۡهُ اَوۡ\
-  \ حَرِّقُوۡهُ فَاَنۡجٰٮهُ اللّٰهُ مِنَ النَّارِ ​ؕ اِنَّ فِىۡ ذٰ لِكَ لَاٰيٰتٍ لِّقَوۡمٍ\
-  \ يُّؤۡمِنُوۡنَ‏ \uFEFF\uFEFF"
+arabic_ayat: فَمَا كَانَ جَوَابَ قَوۡمِهِۦٓ إِلَّآ أَن قَالُواْ ٱقۡتُلُوهُ أَوۡ حَرِّقُوهُ
+  فَأَنجَىٰهُ ٱللَّهُ مِنَ ٱلنَّارِۚ إِنَّ فِي ذَٰلِكَ لَأٓيَٰتٖ لِّقَوۡمٖ يُؤۡمِنُونَ
 sentence_translation: 'But the only response of Abraham’s people was to say: “Kill
   him or burn him!” But Allah saved him from the fire. Surely in this are signs for
   people who believe.'
@@ -19,39 +18,39 @@ word_by_word:
     translation: (the) answer
     transliteration: jawāba
   4:
-    arabic: قَوۡمِهٖۤ
+    arabic: قَوۡمِهِۦٓ
     translation: (of) his people
     transliteration: qawmihi
   5:
-    arabic: اِلَّاۤ
+    arabic: إِلَّآ
     translation: except
     transliteration: illā
   6:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that
     transliteration: an
   7:
-    arabic: قَالُوا
+    arabic: قَالُواْ
     translation: they said
     transliteration: qālū
   8:
-    arabic: اقۡتُلُوۡهُ
+    arabic: ٱقۡتُلُوهُ
     translation: Kill him
     transliteration: uq'tulūhu
   9:
-    arabic: اَوۡ
+    arabic: أَوۡ
     translation: or
     transliteration: aw
   10:
-    arabic: حَرِّقُوۡهُ
+    arabic: حَرِّقُوهُ
     translation: burn him
     transliteration: ḥarriqūhu
   11:
-    arabic: فَاَنۡجٰٮهُ
+    arabic: فَأَنجَىٰهُ
     translation: But Allah saved him
     transliteration: fa-anjāhu
   12:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: But Allah saved him
     transliteration: l-lahu
   13:
@@ -59,31 +58,31 @@ word_by_word:
     translation: from
     transliteration: mina
   14:
-    arabic: النَّارِ ​ؕ
+    arabic: ٱلنَّارِۚ
     translation: the fire
     transliteration: l-nāri
   15:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   16:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   17:
-    arabic: ذٰ لِكَ
+    arabic: ذَٰلِكَ
     translation: that
     transliteration: dhālika
   18:
-    arabic: لَاٰيٰتٍ
+    arabic: لَأٓيَٰتٖ
     translation: surely (are) Signs
     transliteration: laāyātin
   19:
-    arabic: لِّقَوۡمٍ
+    arabic: لِّقَوۡمٖ
     translation: for a people
     transliteration: liqawmin
   20:
-    arabic: "يُّؤۡمِنُوۡنَ‏ \uFEFF\uFEFF"
+    arabic: يُؤۡمِنُونَ
     translation: who believe
     transliteration: yu'minūna
 ---

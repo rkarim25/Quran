@@ -1,6 +1,6 @@
 ---
-arabic_ayat: "قَالَ كَذٰلِكَ اَتَـتۡكَ اٰيٰتُنَا فَنَسِيۡتَهَا​ۚ وَكَذٰلِكَ الۡيَوۡمَ\
-  \ تُنۡسٰى‏ \uFEFF\uFEFF"
+arabic_ayat: قَالَ كَذَٰلِكَ أَتَتۡكَ ءَايَٰتُنَا فَنَسِيتَهَاۖ وَكَذَٰلِكَ ٱلۡيَوۡمَ
+  تُنسَىٰ
 sentence_translation: Allah will respond, “It is so, just as Our revelations came
   to you and you neglected them, so Today you are neglected.”
 word_by_word:
@@ -9,31 +9,31 @@ word_by_word:
     translation: He will say
     transliteration: qāla
   2:
-    arabic: كَذٰلِكَ
+    arabic: كَذَٰلِكَ
     translation: Thus
     transliteration: kadhālika
   3:
-    arabic: اَتَـتۡكَ
+    arabic: أَتَتۡكَ ءَ
     translation: came to you
     transliteration: atatka
   4:
-    arabic: اٰيٰتُنَا
+    arabic: ايَٰتُنَا
     translation: Our Signs
     transliteration: āyātunā
   5:
-    arabic: فَنَسِيۡتَهَا​ۚ
+    arabic: فَنَسِيتَهَاۖ
     translation: but you forgot them
     transliteration: fanasītahā
   6:
-    arabic: وَكَذٰلِكَ
+    arabic: وَكَذَٰلِكَ
     translation: and thus
     transliteration: wakadhālika
   7:
-    arabic: الۡيَوۡمَ
+    arabic: ٱلۡيَوۡمَ
     translation: today
     transliteration: l-yawma
   8:
-    arabic: "تُنۡسٰى‏ \uFEFF\uFEFF"
+    arabic: تُنسَىٰ
     translation: you will be forgotten
     transliteration: tunsā
 ---

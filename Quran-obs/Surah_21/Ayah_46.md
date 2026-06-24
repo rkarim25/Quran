@@ -1,11 +1,11 @@
 ---
-arabic_ayat: وَلَٮِٕنۡ مَّسَّتۡهُمۡ نَفۡحَةٌ مِّنۡ عَذَابِ رَبِّكَ لَيَقُوۡلُنَّ يٰوَيۡلَنَاۤ
-  اِنَّا كُنَّا ظٰلِمِيۡنَ‏
+arabic_ayat: وَلَئِن مَّسَّتۡهُمۡ نَفۡحَةٞ مِّنۡ عَذَابِ رَبِّكَ لَيَقُولُنَّ يَٰوَيۡلَنَآ
+  إِنَّا كُنَّا ظَٰلِمِينَ
 sentence_translation: If they were touched by even a breath of your Lord’s torment,
   they would certainly cry, “Woe to us! We have really been wrongdoers.”
 word_by_word:
   1:
-    arabic: وَلَٮِٕنۡ
+    arabic: وَلَئِن
     translation: And if
     transliteration: wala-in
   2:
@@ -13,7 +13,7 @@ word_by_word:
     translation: touches them
     transliteration: massathum
   3:
-    arabic: نَفۡحَةٌ
+    arabic: نَفۡحَةٞ
     translation: a whiff
     transliteration: nafḥatun
   4:
@@ -29,15 +29,15 @@ word_by_word:
     translation: (of) your Lord
     transliteration: rabbika
   7:
-    arabic: لَيَقُوۡلُنَّ
+    arabic: لَيَقُولُنَّ
     translation: surely they will say
     transliteration: layaqūlunna
   8:
-    arabic: يٰوَيۡلَنَاۤ
+    arabic: يَٰوَيۡلَنَآ
     translation: O woe to us
     transliteration: yāwaylanā
   9:
-    arabic: اِنَّا
+    arabic: إِنَّا
     translation: Indeed, we
     transliteration: innā
   10:
@@ -45,7 +45,7 @@ word_by_word:
     translation: '[we] were'
     transliteration: kunnā
   11:
-    arabic: ظٰلِمِيۡنَ‏
+    arabic: ظَٰلِمِينَ
     translation: wrongdoers
     transliteration: ẓālimīna
 ---

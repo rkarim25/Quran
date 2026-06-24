@@ -1,6 +1,6 @@
 ---
-arabic_ayat: قَالَ اِنۡ سَاَ لۡـتُكَ عَنۡ شَىۡءٍۢ بَعۡدَهَا فَلَا تُصٰحِبۡنِىۡ​ ۚ
-  قَدۡ بَلَـغۡتَ مِنۡ لَّدُنِّىۡ عُذۡرًا‏
+arabic_ayat: قَالَ إِن سَأَلۡتُكَ عَن شَيۡءِۭ بَعۡدَهَا فَلَا تُصَٰحِبۡنِيۖ قَدۡ بَلَغۡتَ
+  مِن لَّدُنِّي عُذۡرٗا
 sentence_translation: Moses replied, “If I ever question you about anything after
   this, then do not keep me in your company, for by then I would have given you enough
   of an excuse.”
@@ -10,19 +10,19 @@ word_by_word:
     translation: He said
     transliteration: qāla
   2:
-    arabic: اِنۡ
+    arabic: إِن
     translation: If
     transliteration: in
   3:
-    arabic: سَاَ لۡـتُكَ
+    arabic: سَأَلۡتُكَ
     translation: I ask you
     transliteration: sa-altuka
   4:
-    arabic: عَنۡ
+    arabic: عَن
     translation: about
     transliteration: ʿan
   5:
-    arabic: شَىۡءٍۢ
+    arabic: شَيۡءِۭ
     translation: anything
     transliteration: shayin
   6:
@@ -34,7 +34,7 @@ word_by_word:
     translation: then (do) not
     transliteration: falā
   8:
-    arabic: تُصٰحِبۡنِىۡ​ ۚ
+    arabic: تُصَٰحِبۡنِيۖ
     translation: keep me as a companion
     transliteration: tuṣāḥib'nī
   9:
@@ -42,19 +42,19 @@ word_by_word:
     translation: Verily
     transliteration: qad
   10:
-    arabic: بَلَـغۡتَ
+    arabic: بَلَغۡتَ
     translation: you have reached
     transliteration: balaghta
   11:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from me
     transliteration: min
   12:
-    arabic: لَّدُنِّىۡ
+    arabic: لَّدُنِّي
     translation: from me
     transliteration: ladunnī
   13:
-    arabic: عُذۡرًا‏
+    arabic: عُذۡرٗا
     translation: an excuse
     transliteration: ʿudh'ran
 ---

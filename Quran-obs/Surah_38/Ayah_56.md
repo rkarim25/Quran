@@ -1,13 +1,13 @@
 ---
-arabic_ayat: جَهَـنَّمَ​ ۚ يَصۡلَوۡنَهَا​ ۚ فَبِئۡسَ الۡمِهَادُ‏
+arabic_ayat: جَهَنَّمَ يَصۡلَوۡنَهَا فَبِئۡسَ ٱلۡمِهَادُ
 sentence_translation: Hell, where they will burn. What an evil place to rest!
 word_by_word:
   1:
-    arabic: جَهَـنَّمَ​ ۚ
+    arabic: جَهَنَّمَ
     translation: Hell
     transliteration: jahannama
   2:
-    arabic: يَصۡلَوۡنَهَا​ ۚ
+    arabic: يَصۡلَوۡنَهَا
     translation: they will burn therein
     transliteration: yaṣlawnahā
   3:
@@ -15,7 +15,7 @@ word_by_word:
     translation: and wretched (is)
     transliteration: fabi'sa
   4:
-    arabic: الۡمِهَادُ‏
+    arabic: ٱلۡمِهَادُ
     translation: the resting place
     transliteration: l-mihādu
 ---

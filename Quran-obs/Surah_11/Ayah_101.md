@@ -1,7 +1,7 @@
 ---
-arabic_ayat: وَمَا ظَلَمۡنٰهُمۡ وَلٰـكِنۡ ظَلَمُوۡۤا اَنۡفُسَهُمۡ​ فَمَاۤ اَغۡنَتۡ
-  عَنۡهُمۡ اٰلِهَتُهُمُ الَّتِىۡ يَدۡعُوۡنَ مِنۡ دُوۡنِ اللّٰهِ مِنۡ شَىۡءٍ لَّمَّا
-  جَآءَ اَمۡرُ رَبِّكَؕ ​ وَمَا زَادُوۡهُمۡ غَيۡرَ تَتۡبِيۡبٍ‏
+arabic_ayat: وَمَا ظَلَمۡنَٰهُمۡ وَلَٰكِن ظَلَمُوٓاْ أَنفُسَهُمۡۖ فَمَآ أَغۡنَتۡ
+  عَنۡهُمۡ ءَالِهَتُهُمُ ٱلَّتِي يَدۡعُونَ مِن دُونِ ٱللَّهِ مِن شَيۡءٖ لَّمَّا جَآءَ
+  أَمۡرُ رَبِّكَۖ وَمَا زَادُوهُمۡ غَيۡرَ تَتۡبِيبٖ
 sentence_translation: We did not wrong them, rather they wronged themselves. The gods
   they invoked beside Allah were of no help at all when the command of your Lord came,
   and only contributed to their ruin.
@@ -11,63 +11,63 @@ word_by_word:
     translation: And not
     transliteration: wamā
   2:
-    arabic: ظَلَمۡنٰهُمۡ
+    arabic: ظَلَمۡنَٰهُمۡ
     translation: We wronged them
     transliteration: ẓalamnāhum
   3:
-    arabic: وَلٰـكِنۡ
+    arabic: وَلَٰكِن
     translation: but
     transliteration: walākin
   4:
-    arabic: ظَلَمُوۡۤا
+    arabic: ظَلَمُوٓاْ
     translation: they wronged
     transliteration: ẓalamū
   5:
-    arabic: اَنۡفُسَهُمۡ​
+    arabic: أَنفُسَهُمۡۖ
     translation: themselves
     transliteration: anfusahum
   6:
-    arabic: فَمَاۤ
+    arabic: فَمَآ
     translation: So not
     transliteration: famā
   7:
-    arabic: اَغۡنَتۡ
+    arabic: أَغۡنَتۡ
     translation: availed
     transliteration: aghnat
   8:
-    arabic: عَنۡهُمۡ
+    arabic: عَنۡهُمۡ ءَ
     translation: them
     transliteration: ʿanhum
   9:
-    arabic: اٰلِهَتُهُمُ
+    arabic: الِهَتُهُمُ
     translation: their gods
     transliteration: ālihatuhumu
   10:
-    arabic: الَّتِىۡ
+    arabic: ٱلَّتِي
     translation: which
     transliteration: allatī
   11:
-    arabic: يَدۡعُوۡنَ
+    arabic: يَدۡعُونَ
     translation: they invoked
     transliteration: yadʿūna
   12:
-    arabic: مِنۡ
+    arabic: مِن
     translation: other than Allah
     transliteration: min
   13:
-    arabic: دُوۡنِ
+    arabic: دُونِ
     translation: other than Allah
     transliteration: dūni
   14:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: other than Allah
     transliteration: l-lahi
   15:
-    arabic: مِنۡ
+    arabic: مِن
     translation: any
     transliteration: min
   16:
-    arabic: شَىۡءٍ
+    arabic: شَيۡءٖ
     translation: thing
     transliteration: shayin
   17:
@@ -79,11 +79,11 @@ word_by_word:
     translation: came
     transliteration: jāa
   19:
-    arabic: اَمۡرُ
+    arabic: أَمۡرُ
     translation: (the) command (of) your Lord
     transliteration: amru
   20:
-    arabic: رَبِّكَؕ ​
+    arabic: رَبِّكَۖ
     translation: (the) command (of) your Lord
     transliteration: rabbika
   21:
@@ -91,7 +91,7 @@ word_by_word:
     translation: And not
     transliteration: wamā
   22:
-    arabic: زَادُوۡهُمۡ
+    arabic: زَادُوهُمۡ
     translation: they increased them
     transliteration: zādūhum
   23:
@@ -99,7 +99,7 @@ word_by_word:
     translation: other than
     transliteration: ghayra
   24:
-    arabic: تَتۡبِيۡبٍ‏
+    arabic: تَتۡبِيبٖ
     translation: ruin
     transliteration: tatbībin
 ---

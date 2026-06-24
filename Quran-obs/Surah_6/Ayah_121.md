@@ -1,7 +1,7 @@
 ---
-arabic_ayat: وَلَا تَاۡكُلُوۡا مِمَّا لَمۡ يُذۡكَرِ اسۡمُ اللّٰهِ عَلَيۡهِ وَاِنَّهٗ
-  لَفِسۡقٌ ؕ وَاِنَّ الشَّيٰطِيۡنَ لَيُوۡحُوۡنَ اِلٰٓى اَوۡلِيٰٓـٮِٕـهِمۡ لِيُجَادِلُوۡكُمۡ​
-  ۚ وَاِنۡ اَطَعۡتُمُوۡهُمۡ اِنَّكُمۡ لَمُشۡرِكُوۡنَ‏
+arabic_ayat: وَلَا تَأۡكُلُواْ مِمَّا لَمۡ يُذۡكَرِ ٱسۡمُ ٱللَّهِ عَلَيۡهِ وَإِنَّهُۥ
+  لَفِسۡقٞۗ وَإِنَّ ٱلشَّيَٰطِينَ لَيُوحُونَ إِلَىٰٓ أَوۡلِيَآئِهِمۡ لِيُجَٰدِلُوكُمۡۖ
+  وَإِنۡ أَطَعۡتُمُوهُمۡ إِنَّكُمۡ لَمُشۡرِكُونَ
 sentence_translation: Do not eat of what is not slaughtered in Allah’s Name. For that
   would certainly be ˹an act of˺ disobedience. Surely the devils whisper to their
   ˹human˺ associates to argue with you. If you were to obey them, then you ˹too˺ would
@@ -12,7 +12,7 @@ word_by_word:
     translation: And (do) not
     transliteration: walā
   2:
-    arabic: تَاۡكُلُوۡا
+    arabic: تَأۡكُلُواْ
     translation: eat
     transliteration: takulū
   3:
@@ -28,11 +28,11 @@ word_by_word:
     translation: has been mentioned
     transliteration: yudh'kari
   6:
-    arabic: اسۡمُ
+    arabic: ٱسۡمُ
     translation: (the) name
     transliteration: us'mu
   7:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (of) Allah
     transliteration: l-lahi
   8:
@@ -40,51 +40,51 @@ word_by_word:
     translation: on it
     transliteration: ʿalayhi
   9:
-    arabic: وَاِنَّهٗ
+    arabic: وَإِنَّهُۥ
     translation: and indeed, it (is)
     transliteration: wa-innahu
   10:
-    arabic: لَفِسۡقٌ ؕ
+    arabic: لَفِسۡقٞۗ
     translation: grave disobedience
     transliteration: lafis'qun
   11:
-    arabic: وَاِنَّ
+    arabic: وَإِنَّ
     translation: And indeed
     transliteration: wa-inna
   12:
-    arabic: الشَّيٰطِيۡنَ
+    arabic: ٱلشَّيَٰطِينَ
     translation: the devils
     transliteration: l-shayāṭīna
   13:
-    arabic: لَيُوۡحُوۡنَ
+    arabic: لَيُوحُونَ
     translation: inspire
     transliteration: layūḥūna
   14:
-    arabic: اِلٰٓى
+    arabic: إِلَىٰٓ
     translation: to
     transliteration: ilā
   15:
-    arabic: اَوۡلِيٰٓـٮِٕـهِمۡ
+    arabic: أَوۡلِيَآئِهِمۡ
     translation: their friends
     transliteration: awliyāihim
   16:
-    arabic: لِيُجَادِلُوۡكُمۡ​ ۚ
+    arabic: لِيُجَٰدِلُوكُمۡۖ
     translation: so that they dispute with you
     transliteration: liyujādilūkum
   17:
-    arabic: وَاِنۡ
+    arabic: وَإِنۡ
     translation: and if
     transliteration: wa-in
   18:
-    arabic: اَطَعۡتُمُوۡهُمۡ
+    arabic: أَطَعۡتُمُوهُمۡ
     translation: you obey them
     transliteration: aṭaʿtumūhum
   19:
-    arabic: اِنَّكُمۡ
+    arabic: إِنَّكُمۡ
     translation: indeed, you
     transliteration: innakum
   20:
-    arabic: لَمُشۡرِكُوۡنَ‏
+    arabic: لَمُشۡرِكُونَ
     translation: (would) be the polytheists
     transliteration: lamush'rikūna
 ---

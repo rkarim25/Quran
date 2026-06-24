@@ -1,9 +1,9 @@
 ---
-arabic_ayat: وَالۡاَرۡضِ وَمَا طَحٰٮهَا ۙ‏
+arabic_ayat: وَٱلۡأَرۡضِ وَمَا طَحَىٰهَا
 sentence_translation: and the earth and ˹the One˺ Who spread it!
 word_by_word:
   1:
-    arabic: وَالۡاَرۡضِ
+    arabic: وَٱلۡأَرۡضِ
     translation: And the earth
     transliteration: wal-arḍi
   2:
@@ -11,7 +11,7 @@ word_by_word:
     translation: and by (He) Who
     transliteration: wamā
   3:
-    arabic: طَحٰٮهَا ۙ‏
+    arabic: طَحَىٰهَا
     translation: spread it
     transliteration: ṭaḥāhā
 ---

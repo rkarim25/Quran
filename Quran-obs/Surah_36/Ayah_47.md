@@ -1,17 +1,17 @@
 ---
-arabic_ayat: وَاِذَا قِيۡلَ لَهُمۡ اَنۡفِقُوۡا مِمَّا رَزَقَكُمُ اللّٰهُ ۙ قَالَ الَّذِيۡنَ
-  كَفَرُوۡا لِلَّذِيۡنَ اٰمَنُوۡۤا اَنُطۡعِمُ مَنۡ لَّوۡ يَشَآءُ اللّٰهُ اَطۡعَمَهٗٓ
-  ۖ  اِنۡ اَنۡـتُمۡ اِلَّا فِىۡ ضَلٰلٍ مُّبِيۡنٍ‏
+arabic_ayat: وَإِذَا قِيلَ لَهُمۡ أَنفِقُواْ مِمَّا رَزَقَكُمُ ٱللَّهُ قَالَ ٱلَّذِينَ
+  كَفَرُواْ لِلَّذِينَ ءَامَنُوٓاْ أَنُطۡعِمُ مَن لَّوۡ يَشَآءُ ٱللَّهُ أَطۡعَمَهُۥٓ
+  إِنۡ أَنتُمۡ إِلَّا فِي ضَلَٰلٖ مُّبِينٖ
 sentence_translation: And when it is said to them, “Donate from what Allah has provided
   for you,” the disbelievers say to the believers, “Why should we feed those whom
   Allah could have fed if He wanted to? You are clearly astray!”
 word_by_word:
   1:
-    arabic: وَاِذَا
+    arabic: وَإِذَا
     translation: And when
     transliteration: wa-idhā
   2:
-    arabic: قِيۡلَ
+    arabic: قِيلَ
     translation: it is said
     transliteration: qīla
   3:
@@ -19,7 +19,7 @@ word_by_word:
     translation: to them
     transliteration: lahum
   4:
-    arabic: اَنۡفِقُوۡا
+    arabic: أَنفِقُواْ
     translation: Spend
     transliteration: anfiqū
   5:
@@ -31,7 +31,7 @@ word_by_word:
     translation: (has) provided you
     transliteration: razaqakumu
   7:
-    arabic: اللّٰهُ ۙ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   8:
@@ -39,27 +39,27 @@ word_by_word:
     translation: Said
     transliteration: qāla
   9:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   10:
-    arabic: كَفَرُوۡا
+    arabic: كَفَرُواْ
     translation: disbelieved
     transliteration: kafarū
   11:
-    arabic: لِلَّذِيۡنَ
+    arabic: لِلَّذِينَ ءَ
     translation: to those who
     transliteration: lilladhīna
   12:
-    arabic: اٰمَنُوۡۤا
+    arabic: امَنُوٓاْ
     translation: believed
     transliteration: āmanū
   13:
-    arabic: اَنُطۡعِمُ
+    arabic: أَنُطۡعِمُ
     translation: Should we feed
     transliteration: anuṭ'ʿimu
   14:
-    arabic: مَنۡ
+    arabic: مَن
     translation: whom
     transliteration: man
   15:
@@ -71,35 +71,35 @@ word_by_word:
     translation: 'Allah willed '
     transliteration: yashāu
   17:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: 'Allah willed '
     transliteration: l-lahu
   18:
-    arabic: اَطۡعَمَهٗٓ ۖ 
+    arabic: أَطۡعَمَهُۥٓ
     translation: He would have fed him
     transliteration: aṭʿamahu
   19:
-    arabic: اِنۡ
+    arabic: إِنۡ
     translation: Not
     transliteration: in
   20:
-    arabic: اَنۡـتُمۡ
+    arabic: أَنتُمۡ
     translation: (are) you
     transliteration: antum
   21:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   22:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   23:
-    arabic: ضَلٰلٍ
+    arabic: ضَلَٰلٖ
     translation: an error
     transliteration: ḍalālin
   24:
-    arabic: مُّبِيۡنٍ‏
+    arabic: مُّبِينٖ
     translation: clear
     transliteration: mubīnin
 ---

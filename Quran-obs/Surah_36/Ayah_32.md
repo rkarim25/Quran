@@ -1,13 +1,13 @@
 ---
-arabic_ayat: وَاِنۡ كُلٌّ لَّمَّا جَمِيۡعٌ لَّدَيۡنَا مُحۡضَرُوۡنَ‏
+arabic_ayat: وَإِن كُلّٞ لَّمَّا جَمِيعٞ لَّدَيۡنَا مُحۡضَرُونَ
 sentence_translation: Yet they will all be brought before Us.
 word_by_word:
   1:
-    arabic: وَاِنۡ
+    arabic: وَإِن
     translation: And surely
     transliteration: wa-in
   2:
-    arabic: كُلٌّ
+    arabic: كُلّٞ
     translation: all
     transliteration: kullun
   3:
@@ -15,7 +15,7 @@ word_by_word:
     translation: then
     transliteration: lammā
   4:
-    arabic: جَمِيۡعٌ
+    arabic: جَمِيعٞ
     translation: together
     transliteration: jamīʿun
   5:
@@ -23,7 +23,7 @@ word_by_word:
     translation: before Us
     transliteration: ladaynā
   6:
-    arabic: مُحۡضَرُوۡنَ‏
+    arabic: مُحۡضَرُونَ
     translation: (will be) brought
     transliteration: muḥ'ḍarūna
 ---

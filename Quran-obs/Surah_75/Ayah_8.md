@@ -1,5 +1,5 @@
 ---
-arabic_ayat: وَخَسَفَ الۡقَمَرُۙ‏
+arabic_ayat: وَخَسَفَ ٱلۡقَمَرُ
 sentence_translation: and the moon is dimmed,
 word_by_word:
   1:
@@ -7,7 +7,7 @@ word_by_word:
     translation: And becomes dark
     transliteration: wakhasafa
   2:
-    arabic: الۡقَمَرُۙ‏
+    arabic: ٱلۡقَمَرُ
     translation: the moon
     transliteration: l-qamaru
 ---

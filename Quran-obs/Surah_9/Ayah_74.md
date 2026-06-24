@@ -1,10 +1,9 @@
 ---
-arabic_ayat: يَحۡلِفُوۡنَ بِاللّٰهِ مَا قَالُوۡا ؕ وَلَقَدۡ قَالُوۡا كَلِمَةَ الۡـكُفۡرِ
-  وَكَفَرُوۡا بَعۡدَ اِسۡلَامِهِمۡ وَهَمُّوۡا بِمَا لَمۡ يَنَالُوۡا​ ۚ وَمَا نَقَمُوۡۤا
-  اِلَّاۤ اَنۡ اَغۡنٰٮهُمُ اللّٰهُ وَرَسُوۡلُهٗ مِنۡ فَضۡلِهٖ​ ۚ فَاِنۡ يَّتُوۡبُوۡا
-  يَكُ خَيۡرًا لَّهُمۡ​ ۚ وَاِنۡ يَّتَوَلَّوۡا يُعَذِّبۡهُمُ اللّٰهُ عَذَابًا اَلِيۡمًا
-  ۙ فِى الدُّنۡيَا وَالۡاٰخِرَةِ​ ۚ وَمَا لَهُمۡ فِى الۡاَرۡضِ مِنۡ وَّلِىٍّ وَّلَا
-  نَصِيۡرٍ‏
+arabic_ayat: يَحۡلِفُونَ بِٱللَّهِ مَا قَالُواْ وَلَقَدۡ قَالُواْ كَلِمَةَ ٱلۡكُفۡرِ
+  وَكَفَرُواْ بَعۡدَ إِسۡلَٰمِهِمۡ وَهَمُّواْ بِمَا لَمۡ يَنَالُواْۚ وَمَا نَقَمُوٓاْ
+  إِلَّآ أَنۡ أَغۡنَىٰهُمُ ٱللَّهُ وَرَسُولُهُۥ مِن فَضۡلِهِۦۚ فَإِن يَتُوبُواْ يَكُ
+  خَيۡرٗا لَّهُمۡۖ وَإِن يَتَوَلَّوۡاْ يُعَذِّبۡهُمُ ٱللَّهُ عَذَابًا أَلِيمٗا فِي
+  ٱلدُّنۡيَا وَٱلۡأٓخِرَةِۚ وَمَا لَهُمۡ فِي ٱلۡأَرۡضِ مِن وَلِيّٖ وَلَا نَصِيرٖ
 sentence_translation: They swear by Allah that they never said anything ˹blasphemous˺,
   while they did in fact utter a blasphemy, lost faith after accepting Islam, and
   plotted what they could not carry out. It is only through resentment that they pay
@@ -14,11 +13,11 @@ sentence_translation: They swear by Allah that they never said anything ˹blasph
   on earth to protect or help them.
 word_by_word:
   1:
-    arabic: يَحۡلِفُوۡنَ
+    arabic: يَحۡلِفُونَ
     translation: They swear
     transliteration: yaḥlifūna
   2:
-    arabic: بِاللّٰهِ
+    arabic: بِٱللَّهِ
     translation: by Allah
     transliteration: bil-lahi
   3:
@@ -26,7 +25,7 @@ word_by_word:
     translation: (that) they said nothing
     transliteration: mā
   4:
-    arabic: قَالُوۡا ؕ
+    arabic: قَالُواْ
     translation: (that) they said nothing
     transliteration: qālū
   5:
@@ -34,7 +33,7 @@ word_by_word:
     translation: while certainly
     transliteration: walaqad
   6:
-    arabic: قَالُوۡا
+    arabic: قَالُواْ
     translation: they said
     transliteration: qālū
   7:
@@ -42,11 +41,11 @@ word_by_word:
     translation: (the) word
     transliteration: kalimata
   8:
-    arabic: الۡـكُفۡرِ
+    arabic: ٱلۡكُفۡرِ
     translation: (of) the disbelief
     transliteration: l-kuf'ri
   9:
-    arabic: وَكَفَرُوۡا
+    arabic: وَكَفَرُواْ
     translation: and disbelieved
     transliteration: wakafarū
   10:
@@ -54,11 +53,11 @@ word_by_word:
     translation: after
     transliteration: baʿda
   11:
-    arabic: اِسۡلَامِهِمۡ
+    arabic: إِسۡلَٰمِهِمۡ
     translation: their (pretense of) Islam
     transliteration: is'lāmihim
   12:
-    arabic: وَهَمُّوۡا
+    arabic: وَهَمُّواْ
     translation: and planned
     transliteration: wahammū
   13:
@@ -70,7 +69,7 @@ word_by_word:
     translation: not
     transliteration: lam
   15:
-    arabic: يَنَالُوۡا​ ۚ
+    arabic: يَنَالُواْۚ
     translation: they could attain
     transliteration: yanālū
   16:
@@ -78,43 +77,43 @@ word_by_word:
     translation: And not
     transliteration: wamā
   17:
-    arabic: نَقَمُوۡۤا
+    arabic: نَقَمُوٓاْ
     translation: they were resentful
     transliteration: naqamū
   18:
-    arabic: اِلَّاۤ
+    arabic: إِلَّآ
     translation: except
     transliteration: illā
   19:
-    arabic: اَنۡ
+    arabic: أَنۡ
     translation: that
     transliteration: an
   20:
-    arabic: اَغۡنٰٮهُمُ
+    arabic: أَغۡنَىٰهُمُ
     translation: Allah had enriched them
     transliteration: aghnāhumu
   21:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah had enriched them
     transliteration: l-lahu
   22:
-    arabic: وَرَسُوۡلُهٗ
+    arabic: وَرَسُولُهُۥ
     translation: and His Messenger
     transliteration: warasūluhu
   23:
-    arabic: مِنۡ
+    arabic: مِن
     translation: of
     transliteration: min
   24:
-    arabic: فَضۡلِهٖ​ ۚ
+    arabic: فَضۡلِهِۦۚ
     translation: His Bounty
     transliteration: faḍlihi
   25:
-    arabic: فَاِنۡ
+    arabic: فَإِن
     translation: So if
     transliteration: fa-in
   26:
-    arabic: يَّتُوۡبُوۡا
+    arabic: يَتُوبُواْ
     translation: they repent
     transliteration: yatūbū
   27:
@@ -122,19 +121,19 @@ word_by_word:
     translation: it is
     transliteration: yaku
   28:
-    arabic: خَيۡرًا
+    arabic: خَيۡرٗا
     translation: better
     transliteration: khayran
   29:
-    arabic: لَّهُمۡ​ ۚ
+    arabic: لَّهُمۡۖ
     translation: for them
     transliteration: lahum
   30:
-    arabic: وَاِنۡ
+    arabic: وَإِن
     translation: and if
     transliteration: wa-in
   31:
-    arabic: يَّتَوَلَّوۡا
+    arabic: يَتَوَلَّوۡاْ
     translation: they turn away
     transliteration: yatawallaw
   32:
@@ -142,7 +141,7 @@ word_by_word:
     translation: Allah will punish them
     transliteration: yuʿadhib'humu
   33:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah will punish them
     transliteration: l-lahu
   34:
@@ -150,19 +149,19 @@ word_by_word:
     translation: (with) a punishment
     transliteration: ʿadhāban
   35:
-    arabic: اَلِيۡمًا ۙ
+    arabic: أَلِيمٗا
     translation: painful
     transliteration: alīman
   36:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   37:
-    arabic: الدُّنۡيَا
+    arabic: ٱلدُّنۡيَا
     translation: the world
     transliteration: l-dun'yā
   38:
-    arabic: وَالۡاٰخِرَةِ​ ۚ
+    arabic: وَٱلۡأٓخِرَةِۚ
     translation: and (in) the Hereafter
     transliteration: wal-ākhirati
   39:
@@ -174,27 +173,27 @@ word_by_word:
     translation: for them
     transliteration: lahum
   41:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   42:
-    arabic: الۡاَرۡضِ
+    arabic: ٱلۡأَرۡضِ
     translation: the earth
     transliteration: l-arḍi
   43:
-    arabic: مِنۡ
+    arabic: مِن
     translation: any
     transliteration: min
   44:
-    arabic: وَّلِىٍّ
+    arabic: وَلِيّٖ
     translation: protector
     transliteration: waliyyin
   45:
-    arabic: وَّلَا
+    arabic: وَلَا
     translation: and not
     transliteration: walā
   46:
-    arabic: نَصِيۡرٍ‏
+    arabic: نَصِيرٖ
     translation: a helper
     transliteration: naṣīrin
 ---

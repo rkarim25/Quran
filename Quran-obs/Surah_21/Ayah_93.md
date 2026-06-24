@@ -1,18 +1,18 @@
 ---
-arabic_ayat: وَتَقَطَّعُوۡۤا اَمۡرَهُمۡ بَيۡنَهُمۡ​ؕ كُلٌّ اِلَـيۡنَا رٰجِعُوۡنَ‏
+arabic_ayat: وَتَقَطَّعُوٓاْ أَمۡرَهُم بَيۡنَهُمۡۖ كُلٌّ إِلَيۡنَا رَٰجِعُونَ
 sentence_translation: Yet the people have divided it into sects. But to Us they will
   all return.
 word_by_word:
   1:
-    arabic: وَتَقَطَّعُوۡۤا
+    arabic: وَتَقَطَّعُوٓاْ
     translation: But they cut off
     transliteration: wataqaṭṭaʿū
   2:
-    arabic: اَمۡرَهُمۡ
+    arabic: أَمۡرَهُم
     translation: their affair
     transliteration: amrahum
   3:
-    arabic: بَيۡنَهُمۡ​ؕ
+    arabic: بَيۡنَهُمۡۖ
     translation: among themselves
     transliteration: baynahum
   4:
@@ -20,11 +20,11 @@ word_by_word:
     translation: all
     transliteration: kullun
   5:
-    arabic: اِلَـيۡنَا
+    arabic: إِلَيۡنَا
     translation: to Us
     transliteration: ilaynā
   6:
-    arabic: رٰجِعُوۡنَ‏
+    arabic: رَٰجِعُونَ
     translation: (will) return
     transliteration: rājiʿūna
 ---

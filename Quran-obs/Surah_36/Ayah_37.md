@@ -1,11 +1,10 @@
 ---
-arabic_ayat: "وَاٰيَةٌ لَّهُمُ الَّيۡلُ ۖۚ نَسۡلَخُ مِنۡهُ النَّهَارَ فَاِذَا هُمۡ\
-  \ مُّظۡلِمُوۡنَۙ‏ \uFEFF\uFEFF"
+arabic_ayat: وَءَايَةٞ لَّهُمُ ٱلَّيۡلُ نَسۡلَخُ مِنۡهُ ٱلنَّهَارَ فَإِذَا هُم مُّظۡلِمُونَ
 sentence_translation: 'There is also a sign for them in the night: We strip from it
   daylight, then—behold!—they are in darkness.'
 word_by_word:
   1:
-    arabic: وَاٰيَةٌ
+    arabic: وَءَايَةٞ
     translation: And a Sign
     transliteration: waāyatun
   2:
@@ -13,7 +12,7 @@ word_by_word:
     translation: for them
     transliteration: lahumu
   3:
-    arabic: الَّيۡلُ ۖۚ
+    arabic: ٱلَّيۡلُ
     translation: (is) the night
     transliteration: al-laylu
   4:
@@ -25,19 +24,19 @@ word_by_word:
     translation: from it
     transliteration: min'hu
   6:
-    arabic: النَّهَارَ
+    arabic: ٱلنَّهَارَ
     translation: the day
     transliteration: l-nahāra
   7:
-    arabic: فَاِذَا
+    arabic: فَإِذَا
     translation: Then behold
     transliteration: fa-idhā
   8:
-    arabic: هُمۡ
+    arabic: هُم
     translation: They
     transliteration: hum
   9:
-    arabic: "مُّظۡلِمُوۡنَۙ‏ \uFEFF\uFEFF"
+    arabic: مُّظۡلِمُونَ
     translation: (are) those in darkness
     transliteration: muẓ'limūna
 ---

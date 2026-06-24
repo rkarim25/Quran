@@ -1,6 +1,6 @@
 ---
-arabic_ayat: رَّبُّ السَّمٰوٰتِ وَ الۡاَرۡضِ وَمَا بَيۡنَهُمَا فَاعۡبُدۡهُ وَاصۡطَبِرۡ
-  لِـعِبَادَتِهٖ​ؕ هَلۡ تَعۡلَمُ لَهٗ سَمِيًّا‏
+arabic_ayat: رَّبُّ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِ وَمَا بَيۡنَهُمَا فَٱعۡبُدۡهُ وَٱصۡطَبِرۡ
+  لِعِبَٰدَتِهِۦۚ هَلۡ تَعۡلَمُ لَهُۥ سَمِيّٗا
 sentence_translation: ˹He is the˺ Lord of the heavens, and the earth, and everything
   in between. So worship Him ˹alone˺, and be steadfast in His worship. Do you know
   of anyone equal to Him ˹in His attributes˺?”
@@ -10,11 +10,11 @@ word_by_word:
     translation: Lord
     transliteration: rabbu
   2:
-    arabic: السَّمٰوٰتِ
+    arabic: ٱلسَّمَٰوَٰتِ
     translation: (of) the heavens
     transliteration: l-samāwāti
   3:
-    arabic: وَ الۡاَرۡضِ
+    arabic: وَٱلۡأَرۡضِ
     translation: and the earth
     transliteration: wal-arḍi
   4:
@@ -26,15 +26,15 @@ word_by_word:
     translation: (is) between both of them
     transliteration: baynahumā
   6:
-    arabic: فَاعۡبُدۡهُ
+    arabic: فَٱعۡبُدۡهُ
     translation: so worship Him
     transliteration: fa-uʿ'bud'hu
   7:
-    arabic: وَاصۡطَبِرۡ
+    arabic: وَٱصۡطَبِرۡ
     translation: and be constant
     transliteration: wa-iṣ'ṭabir
   8:
-    arabic: لِـعِبَادَتِهٖ​ؕ
+    arabic: لِعِبَٰدَتِهِۦۚ
     translation: in His worship
     transliteration: liʿibādatihi
   9:
@@ -46,11 +46,11 @@ word_by_word:
     translation: you know
     transliteration: taʿlamu
   11:
-    arabic: لَهٗ
+    arabic: لَهُۥ
     translation: for Him
     transliteration: lahu
   12:
-    arabic: سَمِيًّا‏
+    arabic: سَمِيّٗا
     translation: any similarity
     transliteration: samiyyan
 ---

@@ -1,8 +1,7 @@
 ---
-arabic_ayat: وَلَتَجِدَنَّهُمۡ اَحۡرَصَ النَّاسِ عَلٰى حَيٰوةٍ  ۛۚ وَ مِنَ الَّذِيۡنَ
-  اَشۡرَكُوۡا​​  ۛۚ يَوَدُّ اَحَدُهُمۡ لَوۡ يُعَمَّرُ اَ لۡفَ سَنَةٍ ۚ وَمَا هُوَ
-  بِمُزَحۡزِحِهٖ مِنَ الۡعَذَابِ اَنۡ يُّعَمَّرَ​ؕ وَاللّٰهُ بَصِيۡرٌۢ بِمَا يَعۡمَلُوۡنَ
-  ‏
+arabic_ayat: وَلَتَجِدَنَّهُمۡ أَحۡرَصَ ٱلنَّاسِ عَلَىٰ حَيَوٰةٖ وَمِنَ ٱلَّذِينَ
+  أَشۡرَكُواْۚ يَوَدُّ أَحَدُهُمۡ لَوۡ يُعَمَّرُ أَلۡفَ سَنَةٖ وَمَا هُوَ بِمُزَحۡزِحِهِۦ
+  مِنَ ٱلۡعَذَابِ أَن يُعَمَّرَۗ وَٱللَّهُ بَصِيرُۢ بِمَا يَعۡمَلُونَ
 sentence_translation: You will surely find them clinging to life more eagerly than
   any other people, even more than polytheists. Each one of them wishes to live a
   thousand years. But even if they were to live that long, it would not save them
@@ -13,31 +12,31 @@ word_by_word:
     translation: And surely you will find them
     transliteration: walatajidannahum
   2:
-    arabic: اَحۡرَصَ
+    arabic: أَحۡرَصَ
     translation: (the) most greedy
     transliteration: aḥraṣa
   3:
-    arabic: النَّاسِ
+    arabic: ٱلنَّاسِ
     translation: (of) [the] mankind
     transliteration: l-nāsi
   4:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: for
     transliteration: ʿalā
   5:
-    arabic: حَيٰوةٍ  ۛۚ
+    arabic: حَيَوٰةٖ
     translation: life
     transliteration: ḥayatin
   6:
-    arabic: وَ مِنَ
+    arabic: وَمِنَ
     translation: and (greedier) than
     transliteration: wamina
   7:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   8:
-    arabic: اَشۡرَكُوۡا​​  ۛۚ
+    arabic: أَشۡرَكُواْۚ
     translation: associate[d] partners (with Allah)
     transliteration: ashrakū
   9:
@@ -45,7 +44,7 @@ word_by_word:
     translation: Loves
     transliteration: yawaddu
   10:
-    arabic: اَحَدُهُمۡ
+    arabic: أَحَدُهُمۡ
     translation: (each) one of them
     transliteration: aḥaduhum
   11:
@@ -57,11 +56,11 @@ word_by_word:
     translation: he could be granted a life
     transliteration: yuʿammaru
   13:
-    arabic: اَ لۡفَ
+    arabic: أَلۡفَ
     translation: (of) a thousand
     transliteration: alfa
   14:
-    arabic: سَنَةٍ ۚ
+    arabic: سَنَةٖ
     translation: year(s)
     transliteration: sanatin
   15:
@@ -73,7 +72,7 @@ word_by_word:
     translation: it
     transliteration: huwa
   17:
-    arabic: بِمُزَحۡزِحِهٖ
+    arabic: بِمُزَحۡزِحِهِۦ
     translation: (will) remove him
     transliteration: bimuzaḥziḥihi
   18:
@@ -81,23 +80,23 @@ word_by_word:
     translation: from
     transliteration: mina
   19:
-    arabic: الۡعَذَابِ
+    arabic: ٱلۡعَذَابِ
     translation: the punishment
     transliteration: l-ʿadhābi
   20:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that
     transliteration: an
   21:
-    arabic: يُّعَمَّرَ​ؕ
+    arabic: يُعَمَّرَۗ
     translation: he should be granted life
     transliteration: yuʿammara
   22:
-    arabic: وَاللّٰهُ
+    arabic: وَٱللَّهُ
     translation: And Allah
     transliteration: wal-lahu
   23:
-    arabic: بَصِيۡرٌۢ
+    arabic: بَصِيرُۢ
     translation: (is) All-Seer
     transliteration: baṣīrun
   24:
@@ -105,7 +104,7 @@ word_by_word:
     translation: of what
     transliteration: bimā
   25:
-    arabic: يَعۡمَلُوۡنَ ‏
+    arabic: يَعۡمَلُونَ
     translation: they do
     transliteration: yaʿmalūna
 ---

@@ -1,6 +1,6 @@
 ---
-arabic_ayat: وَمَنۡ اَحۡسَنُ قَوۡلًا مِّمَّنۡ دَعَاۤ اِلَى اللّٰهِ وَعَمِلَ صَالِحًا
-  وَّقَالَ اِنَّنِىۡ مِنَ الۡمُسۡلِمِيۡنَ‏
+arabic_ayat: وَمَنۡ أَحۡسَنُ قَوۡلٗا مِّمَّن دَعَآ إِلَى ٱللَّهِ وَعَمِلَ صَٰلِحٗا
+  وَقَالَ إِنَّنِي مِنَ ٱلۡمُسۡلِمِينَ
 sentence_translation: And whose words are better than someone who calls ˹others˺ to
   Allah, does good, and says, “I am truly one of those who submit.”?
 word_by_word:
@@ -9,27 +9,27 @@ word_by_word:
     translation: And who
     transliteration: waman
   2:
-    arabic: اَحۡسَنُ
+    arabic: أَحۡسَنُ
     translation: (is) better
     transliteration: aḥsanu
   3:
-    arabic: قَوۡلًا
+    arabic: قَوۡلٗا
     translation: (in) speech
     transliteration: qawlan
   4:
-    arabic: مِّمَّنۡ
+    arabic: مِّمَّن
     translation: than (one) who
     transliteration: mimman
   5:
-    arabic: دَعَاۤ
+    arabic: دَعَآ
     translation: invites
     transliteration: daʿā
   6:
-    arabic: اِلَى
+    arabic: إِلَى
     translation: to
     transliteration: ilā
   7:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   8:
@@ -37,15 +37,15 @@ word_by_word:
     translation: and does
     transliteration: waʿamila
   9:
-    arabic: صَالِحًا
+    arabic: صَٰلِحٗا
     translation: righteous (deeds)
     transliteration: ṣāliḥan
   10:
-    arabic: وَّقَالَ
+    arabic: وَقَالَ
     translation: and says
     transliteration: waqāla
   11:
-    arabic: اِنَّنِىۡ
+    arabic: إِنَّنِي
     translation: Indeed, I am
     transliteration: innanī
   12:
@@ -53,7 +53,7 @@ word_by_word:
     translation: of
     transliteration: mina
   13:
-    arabic: الۡمُسۡلِمِيۡنَ‏
+    arabic: ٱلۡمُسۡلِمِينَ
     translation: those who submit
     transliteration: l-mus'limīna
 ---

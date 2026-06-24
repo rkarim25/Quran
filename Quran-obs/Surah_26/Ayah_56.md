@@ -1,17 +1,17 @@
 ---
-arabic_ayat: وَاِنَّا لَجَمِيۡعٌ حٰذِرُوۡنَؕ‏
+arabic_ayat: وَإِنَّا لَجَمِيعٌ حَٰذِرُونَ
 sentence_translation: but we are all on the alert.”
 word_by_word:
   1:
-    arabic: وَاِنَّا
+    arabic: وَإِنَّا
     translation: And indeed, we
     transliteration: wa-innā
   2:
-    arabic: لَجَمِيۡعٌ
+    arabic: لَجَمِيعٌ
     translation: (are) surely a multitude
     transliteration: lajamīʿun
   3:
-    arabic: حٰذِرُوۡنَؕ‏
+    arabic: حَٰذِرُونَ
     translation: forewarned
     transliteration: ḥādhirūna
 ---

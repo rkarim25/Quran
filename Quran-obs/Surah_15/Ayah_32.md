@@ -1,5 +1,5 @@
 ---
-arabic_ayat: قَالَ يٰۤاِبۡلِيۡسُ مَا لَـكَ اَلَّا تَكُوۡنَ مَعَ السّٰجِدِيۡنَ‏
+arabic_ayat: قَالَ يَٰٓإِبۡلِيسُ مَا لَكَ أَلَّا تَكُونَ مَعَ ٱلسَّٰجِدِينَ
 sentence_translation: Allah asked, “O Iblîs! What is the matter with you that you
   did not join others in prostration?”
 word_by_word:
@@ -8,7 +8,7 @@ word_by_word:
     translation: He said
     transliteration: qāla
   2:
-    arabic: يٰۤاِبۡلِيۡسُ
+    arabic: يَٰٓإِبۡلِيسُ
     translation: O Iblis
     transliteration: yāib'līsu
   3:
@@ -16,15 +16,15 @@ word_by_word:
     translation: What
     transliteration: mā
   4:
-    arabic: لَـكَ
+    arabic: لَكَ
     translation: (is) for you
     transliteration: laka
   5:
-    arabic: اَلَّا
+    arabic: أَلَّا
     translation: that not
     transliteration: allā
   6:
-    arabic: تَكُوۡنَ
+    arabic: تَكُونَ
     translation: you are
     transliteration: takūna
   7:
@@ -32,7 +32,7 @@ word_by_word:
     translation: with
     transliteration: maʿa
   8:
-    arabic: السّٰجِدِيۡنَ‏
+    arabic: ٱلسَّٰجِدِينَ
     translation: those who prostrated
     transliteration: l-sājidīna
 ---

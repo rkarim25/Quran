@@ -1,16 +1,16 @@
 ---
-arabic_ayat: اَلنَّارُ يُعۡرَضُوۡنَ عَلَيۡهَا غُدُوًّا وَّعَشِيًّا ۚ وَيَوۡمَ تَقُوۡمُ
-  السَّاعَةُ اَدۡخِلُوۡۤا اٰلَ فِرۡعَوۡنَ اَشَدَّ الۡعَذَابِ‏
+arabic_ayat: ٱلنَّارُ يُعۡرَضُونَ عَلَيۡهَا غُدُوّٗا وَعَشِيّٗاۚ وَيَوۡمَ تَقُومُ
+  ٱلسَّاعَةُ أَدۡخِلُوٓاْ ءَالَ فِرۡعَوۡنَ أَشَدَّ ٱلۡعَذَابِ
 sentence_translation: they are exposed to the Fire ˹in their graves˺ morning and evening.
   And on the Day the Hour will be established ˹it will be said˺, “Admit Pharaoh’s
   people into the harshest punishment ˹of Hell˺.”
 word_by_word:
   1:
-    arabic: اَلنَّارُ
+    arabic: ٱلنَّارُ
     translation: The Fire
     transliteration: al-nāru
   2:
-    arabic: يُعۡرَضُوۡنَ
+    arabic: يُعۡرَضُونَ
     translation: they are exposed
     transliteration: yuʿ'raḍūna
   3:
@@ -18,11 +18,11 @@ word_by_word:
     translation: to it
     transliteration: ʿalayhā
   4:
-    arabic: غُدُوًّا
+    arabic: غُدُوّٗا
     translation: morning
     transliteration: ghuduwwan
   5:
-    arabic: وَّعَشِيًّا ۚ
+    arabic: وَعَشِيّٗاۚ
     translation: and evening
     transliteration: waʿashiyyan
   6:
@@ -30,19 +30,19 @@ word_by_word:
     translation: And (the) Day
     transliteration: wayawma
   7:
-    arabic: تَقُوۡمُ
+    arabic: تَقُومُ
     translation: (will be) established
     transliteration: taqūmu
   8:
-    arabic: السَّاعَةُ
+    arabic: ٱلسَّاعَةُ
     translation: the Hour
     transliteration: l-sāʿatu
   9:
-    arabic: اَدۡخِلُوۡۤا
+    arabic: أَدۡخِلُوٓاْ ءَ
     translation: Cause to enter
     transliteration: adkhilū
   10:
-    arabic: اٰلَ
+    arabic: الَ
     translation: (the) people
     transliteration: āla
   11:
@@ -50,11 +50,11 @@ word_by_word:
     translation: (of) Firaun
     transliteration: fir'ʿawna
   12:
-    arabic: اَشَدَّ
+    arabic: أَشَدَّ
     translation: (in the) severest
     transliteration: ashadda
   13:
-    arabic: الۡعَذَابِ‏
+    arabic: ٱلۡعَذَابِ
     translation: punishment
     transliteration: l-ʿadhābi
 ---

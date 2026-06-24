@@ -1,6 +1,6 @@
 ---
-arabic_ayat: رَبِّ اجۡعَلۡنِىۡ مُقِيۡمَ الصَّلٰوةِ وَمِنۡ ذُرِّيَّتِىۡ​​ ۖ  رَبَّنَا
-  وَتَقَبَّلۡ دُعَآءِ‏
+arabic_ayat: رَبِّ ٱجۡعَلۡنِي مُقِيمَ ٱلصَّلَوٰةِ وَمِن ذُرِّيَّتِيۚ رَبَّنَا وَتَقَبَّلۡ
+  دُعَآءِ
 sentence_translation: My Lord! Make me and those ˹believers˺ of my descendants keep
   up prayer. Our Lord! Accept my prayers.
 word_by_word:
@@ -9,23 +9,23 @@ word_by_word:
     translation: My Lord
     transliteration: rabbi
   2:
-    arabic: اجۡعَلۡنِىۡ
+    arabic: ٱجۡعَلۡنِي
     translation: Make me
     transliteration: ij'ʿalnī
   3:
-    arabic: مُقِيۡمَ
+    arabic: مُقِيمَ
     translation: an establisher
     transliteration: muqīma
   4:
-    arabic: الصَّلٰوةِ
+    arabic: ٱلصَّلَوٰةِ
     translation: (of) the prayer
     transliteration: l-ṣalati
   5:
-    arabic: وَمِنۡ
+    arabic: وَمِن
     translation: and from
     transliteration: wamin
   6:
-    arabic: ذُرِّيَّتِىۡ​​ ۖ 
+    arabic: ذُرِّيَّتِيۚ
     translation: my offsprings
     transliteration: dhurriyyatī
   7:
@@ -37,7 +37,7 @@ word_by_word:
     translation: and accept
     transliteration: wataqabbal
   9:
-    arabic: دُعَآءِ‏
+    arabic: دُعَآءِ
     translation: my prayer
     transliteration: duʿāi
 ---

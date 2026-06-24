@@ -1,6 +1,6 @@
 ---
-arabic_ayat: وَتَمَّتۡ كَلِمَتُ رَبِّكَ صِدۡقًا وَّعَدۡلاً  ؕ لَا مُبَدِّلَ لِكَلِمٰتِهٖ​
-  ۚ وَهُوَ السَّمِيۡعُ الۡعَلِيۡمُ‏
+arabic_ayat: وَتَمَّتۡ كَلِمَتُ رَبِّكَ صِدۡقٗا وَعَدۡلٗاۚ لَّا مُبَدِّلَ لِكَلِمَٰتِهِۦۚ
+  وَهُوَ ٱلسَّمِيعُ ٱلۡعَلِيمُ
 sentence_translation: The Word of your Lord has been perfected in truth and justice.
   None can change His Words. And He is the All-Hearing, All- Knowing.
 word_by_word:
@@ -17,15 +17,15 @@ word_by_word:
     translation: (of) your Lord
     transliteration: rabbika
   4:
-    arabic: صِدۡقًا
+    arabic: صِدۡقٗا
     translation: (in) truth
     transliteration: ṣid'qan
   5:
-    arabic: وَّعَدۡلاً  ؕ
+    arabic: وَعَدۡلٗاۚ
     translation: and justice
     transliteration: waʿadlan
   6:
-    arabic: لَا
+    arabic: لَّا
     translation: 'No'
     transliteration: lā
   7:
@@ -33,7 +33,7 @@ word_by_word:
     translation: one can change
     transliteration: mubaddila
   8:
-    arabic: لِكَلِمٰتِهٖ​ ۚ
+    arabic: لِكَلِمَٰتِهِۦۚ
     translation: His words
     transliteration: likalimātihi
   9:
@@ -41,11 +41,11 @@ word_by_word:
     translation: and He
     transliteration: wahuwa
   10:
-    arabic: السَّمِيۡعُ
+    arabic: ٱلسَّمِيعُ
     translation: (is) the All-Hearer
     transliteration: l-samīʿu
   11:
-    arabic: الۡعَلِيۡمُ‏
+    arabic: ٱلۡعَلِيمُ
     translation: the All-Knower
     transliteration: l-ʿalīmu
 ---

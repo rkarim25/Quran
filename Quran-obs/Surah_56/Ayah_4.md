@@ -1,9 +1,9 @@
 ---
-arabic_ayat: اِذَا رُجَّتِ الۡاَرۡضُ رَجًّا ۙ‏
+arabic_ayat: إِذَا رُجَّتِ ٱلۡأَرۡضُ رَجّٗا
 sentence_translation: When the earth will be violently shaken,
 word_by_word:
   1:
-    arabic: اِذَا
+    arabic: إِذَا
     translation: When
     transliteration: idhā
   2:
@@ -11,11 +11,11 @@ word_by_word:
     translation: will be shaken
     transliteration: rujjati
   3:
-    arabic: الۡاَرۡضُ
+    arabic: ٱلۡأَرۡضُ
     translation: the earth
     transliteration: l-arḍu
   4:
-    arabic: رَجًّا ۙ‏
+    arabic: رَجّٗا
     translation: (with) a shaking
     transliteration: rajjan
 ---

@@ -1,7 +1,7 @@
 ---
-arabic_ayat: "وَهُوَ الَّذِىۡ يَـبۡدَؤُا الۡخَـلۡقَ ثُمَّ يُعِيۡدُهٗ وَهُوَ اَهۡوَنُ\
-  \ عَلَيۡهِ​ؕ وَلَهُ الۡمَثَلُ الۡاَعۡلٰى فِى السَّمٰوٰتِ وَالۡاَرۡضِ​ۚ وَهُوَ الۡعَزِيۡزُ\
-  \ الۡحَكِيۡمُ‏ \uFEFF\uFEFF"
+arabic_ayat: وَهُوَ ٱلَّذِي يَبۡدَؤُاْ ٱلۡخَلۡقَ ثُمَّ يُعِيدُهُۥ وَهُوَ أَهۡوَنُ
+  عَلَيۡهِۚ وَلَهُ ٱلۡمَثَلُ ٱلۡأَعۡلَىٰ فِي ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِۚ وَهُوَ ٱلۡعَزِيزُ
+  ٱلۡحَكِيمُ
 sentence_translation: And He is the One Who originates the creation then will resurrect
   it—which is even easier for Him. To Him belong the finest attributes in the heavens
   and the earth. And He is the Almighty, All-Wise.
@@ -11,15 +11,15 @@ word_by_word:
     translation: And He
     transliteration: wahuwa
   2:
-    arabic: الَّذِىۡ
+    arabic: ٱلَّذِي
     translation: (is) the One Who
     transliteration: alladhī
   3:
-    arabic: يَـبۡدَؤُا
+    arabic: يَبۡدَؤُاْ
     translation: originates
     transliteration: yabda-u
   4:
-    arabic: الۡخَـلۡقَ
+    arabic: ٱلۡخَلۡقَ
     translation: the creation
     transliteration: l-khalqa
   5:
@@ -27,7 +27,7 @@ word_by_word:
     translation: then
     transliteration: thumma
   6:
-    arabic: يُعِيۡدُهٗ
+    arabic: يُعِيدُهُۥ
     translation: repeats it
     transliteration: yuʿīduhu
   7:
@@ -35,11 +35,11 @@ word_by_word:
     translation: and it
     transliteration: wahuwa
   8:
-    arabic: اَهۡوَنُ
+    arabic: أَهۡوَنُ
     translation: (is) easier
     transliteration: ahwanu
   9:
-    arabic: عَلَيۡهِ​ؕ
+    arabic: عَلَيۡهِۚ
     translation: for Him
     transliteration: ʿalayhi
   10:
@@ -47,23 +47,23 @@ word_by_word:
     translation: And for Him
     transliteration: walahu
   11:
-    arabic: الۡمَثَلُ
+    arabic: ٱلۡمَثَلُ
     translation: (is) the description
     transliteration: l-mathalu
   12:
-    arabic: الۡاَعۡلٰى
+    arabic: ٱلۡأَعۡلَىٰ
     translation: the highest
     transliteration: l-aʿlā
   13:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   14:
-    arabic: السَّمٰوٰتِ
+    arabic: ٱلسَّمَٰوَٰتِ
     translation: the heavens
     transliteration: l-samāwāti
   15:
-    arabic: وَالۡاَرۡضِ​ۚ
+    arabic: وَٱلۡأَرۡضِۚ
     translation: and the earth
     transliteration: wal-arḍi
   16:
@@ -71,11 +71,11 @@ word_by_word:
     translation: And He
     transliteration: wahuwa
   17:
-    arabic: الۡعَزِيۡزُ
+    arabic: ٱلۡعَزِيزُ
     translation: (is) the All-Mighty
     transliteration: l-ʿazīzu
   18:
-    arabic: "الۡحَكِيۡمُ‏ \uFEFF\uFEFF"
+    arabic: ٱلۡحَكِيمُ
     translation: the All-Wise
     transliteration: l-ḥakīmu
 ---

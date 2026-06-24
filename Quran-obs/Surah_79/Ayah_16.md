@@ -1,29 +1,29 @@
 ---
-arabic_ayat: اِذۡ نَادٰٮهُ رَبُّهٗ بِالۡوَادِ الۡمُقَدَّسِ طُوًى​ۚ‏
+arabic_ayat: إِذۡ نَادَىٰهُ رَبُّهُۥ بِٱلۡوَادِ ٱلۡمُقَدَّسِ طُوًى
 sentence_translation: His Lord called him in the sacred valley of Ṭuwa,
 word_by_word:
   1:
-    arabic: اِذۡ
+    arabic: إِذۡ
     translation: When
     transliteration: idh
   2:
-    arabic: نَادٰٮهُ
+    arabic: نَادَىٰهُ
     translation: called him
     transliteration: nādāhu
   3:
-    arabic: رَبُّهٗ
+    arabic: رَبُّهُۥ
     translation: his Lord
     transliteration: rabbuhu
   4:
-    arabic: بِالۡوَادِ
+    arabic: بِٱلۡوَادِ
     translation: in the valley
     transliteration: bil-wādi
   5:
-    arabic: الۡمُقَدَّسِ
+    arabic: ٱلۡمُقَدَّسِ
     translation: the sacred
     transliteration: l-muqadasi
   6:
-    arabic: طُوًى​ۚ‏
+    arabic: طُوًى
     translation: (of) Tuwa
     transliteration: ṭuwan
 ---

@@ -1,21 +1,20 @@
 ---
-arabic_ayat: قَالُوۡا مَاۤ اَخۡلَـفۡنَا مَوۡعِدَكَ بِمَلۡكِنَا وَلٰـكِنَّا حُمِّلۡنَاۤ
-  اَوۡزَارًا مِّنۡ زِيۡنَةِ الۡقَوۡمِ فَقَذَفۡنٰهَا فَكَذٰلِكَ اَلۡقَى السَّامِرِىُّ
-  ۙ‏
+arabic_ayat: قَالُواْ مَآ أَخۡلَفۡنَا مَوۡعِدَكَ بِمَلۡكِنَا وَلَٰكِنَّا حُمِّلۡنَآ
+  أَوۡزَارٗا مِّن زِينَةِ ٱلۡقَوۡمِ فَقَذَفۡنَٰهَا فَكَذَٰلِكَ أَلۡقَى ٱلسَّامِرِيُّ
 sentence_translation: They argued, “We did not break our promise to you of our own
   free will, but we were made to carry the burden of the people’s ˹golden˺ jewellery, then
   we threw it ˹into the fire˺, and so did the Sâmiri.”
 word_by_word:
   1:
-    arabic: قَالُوۡا
+    arabic: قَالُواْ
     translation: They said
     transliteration: qālū
   2:
-    arabic: مَاۤ
+    arabic: مَآ
     translation: Not
     transliteration: mā
   3:
-    arabic: اَخۡلَـفۡنَا
+    arabic: أَخۡلَفۡنَا
     translation: we broke
     transliteration: akhlafnā
   4:
@@ -27,43 +26,43 @@ word_by_word:
     translation: by our will
     transliteration: bimalkinā
   6:
-    arabic: وَلٰـكِنَّا
+    arabic: وَلَٰكِنَّا
     translation: but we
     transliteration: walākinnā
   7:
-    arabic: حُمِّلۡنَاۤ
+    arabic: حُمِّلۡنَآ
     translation: '[we] were made to carry'
     transliteration: ḥummil'nā
   8:
-    arabic: اَوۡزَارًا
+    arabic: أَوۡزَارٗا
     translation: burdens
     transliteration: awzāran
   9:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: from
     transliteration: min
   10:
-    arabic: زِيۡنَةِ
+    arabic: زِينَةِ
     translation: ornaments
     transliteration: zīnati
   11:
-    arabic: الۡقَوۡمِ
+    arabic: ٱلۡقَوۡمِ
     translation: (of) the people
     transliteration: l-qawmi
   12:
-    arabic: فَقَذَفۡنٰهَا
+    arabic: فَقَذَفۡنَٰهَا
     translation: so we threw them
     transliteration: faqadhafnāhā
   13:
-    arabic: فَكَذٰلِكَ
+    arabic: فَكَذَٰلِكَ
     translation: and thus
     transliteration: fakadhālika
   14:
-    arabic: اَلۡقَى
+    arabic: أَلۡقَى
     translation: threw
     transliteration: alqā
   15:
-    arabic: السَّامِرِىُّ ۙ‏
+    arabic: ٱلسَّامِرِيُّ
     translation: the Samiri
     transliteration: l-sāmiriyu
 ---

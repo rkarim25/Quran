@@ -1,21 +1,20 @@
 ---
-arabic_ayat: "فَرِيۡقًا هَدٰى وَ فَرِيۡقًا حَقَّ عَلَيۡهِمُ الضَّلٰلَةُ ​ ؕ اِنَّهُمُ\
-  \ اتَّخَذُوا الشَّيٰطِيۡنَ اَوۡلِيَآءَ مِنۡ دُوۡنِ اللّٰهِ وَيَحۡسَبُوۡنَ اَنَّهُمۡ\
-  \ مُّهۡتَدُوۡنَ‏ \uFEFF\uFEFF"
+arabic_ayat: فَرِيقًا هَدَىٰ وَفَرِيقًا حَقَّ عَلَيۡهِمُ ٱلضَّلَٰلَةُۚ إِنَّهُمُ ٱتَّخَذُواْ
+  ٱلشَّيَٰطِينَ أَوۡلِيَآءَ مِن دُونِ ٱللَّهِ وَيَحۡسَبُونَ أَنَّهُم مُّهۡتَدُونَ
 sentence_translation: He has guided some, while others are destined to stray. They
   have taken devils as their masters instead of Allah—thinking they are ˹rightly˺
   guided.
 word_by_word:
   1:
-    arabic: فَرِيۡقًا
+    arabic: فَرِيقًا
     translation: A group
     transliteration: farīqan
   2:
-    arabic: هَدٰى
+    arabic: هَدَىٰ
     translation: He guided
     transliteration: hadā
   3:
-    arabic: وَ فَرِيۡقًا
+    arabic: وَفَرِيقًا
     translation: and a group
     transliteration: wafarīqan
   4:
@@ -27,47 +26,47 @@ word_by_word:
     translation: '[on] they'
     transliteration: ʿalayhimu
   6:
-    arabic: الضَّلٰلَةُ ​ ؕ
+    arabic: ٱلضَّلَٰلَةُۚ
     translation: the astraying
     transliteration: l-ḍalālatu
   7:
-    arabic: اِنَّهُمُ
+    arabic: إِنَّهُمُ
     translation: Indeed, they
     transliteration: innahumu
   8:
-    arabic: اتَّخَذُوا
+    arabic: ٱتَّخَذُواْ
     translation: take
     transliteration: ittakhadhū
   9:
-    arabic: الشَّيٰطِيۡنَ
+    arabic: ٱلشَّيَٰطِينَ
     translation: the devils
     transliteration: l-shayāṭīna
   10:
-    arabic: اَوۡلِيَآءَ
+    arabic: أَوۡلِيَآءَ
     translation: (as) allies
     transliteration: awliyāa
   11:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   12:
-    arabic: دُوۡنِ
+    arabic: دُونِ
     translation: besides
     transliteration: dūni
   13:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   14:
-    arabic: وَيَحۡسَبُوۡنَ
+    arabic: وَيَحۡسَبُونَ
     translation: while they think
     transliteration: wayaḥsabūna
   15:
-    arabic: اَنَّهُمۡ
+    arabic: أَنَّهُم
     translation: that they
     transliteration: annahum
   16:
-    arabic: "مُّهۡتَدُوۡنَ‏ \uFEFF\uFEFF"
+    arabic: مُّهۡتَدُونَ
     translation: (are the) guided-ones
     transliteration: muh'tadūna
 ---

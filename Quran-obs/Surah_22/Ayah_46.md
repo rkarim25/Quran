@@ -1,29 +1,29 @@
 ---
-arabic_ayat: اَفَلَمۡ يَسِيۡرُوۡا فِى الۡاَرۡضِ فَتَكُوۡنَ لَهُمۡ قُلُوۡبٌ يَّعۡقِلُوۡنَ
-  بِهَاۤ اَوۡ اٰذَانٌ يَّسۡمَعُوۡنَ بِهَا​ ۚ فَاِنَّهَا لَا تَعۡمَى الۡاَبۡصَارُ وَلٰـكِنۡ
-  تَعۡمَى الۡـقُلُوۡبُ الَّتِىۡ فِى الصُّدُوۡرِ‏
+arabic_ayat: أَفَلَمۡ يَسِيرُواْ فِي ٱلۡأَرۡضِ فَتَكُونَ لَهُمۡ قُلُوبٞ يَعۡقِلُونَ
+  بِهَآ أَوۡ ءَاذَانٞ يَسۡمَعُونَ بِهَاۖ فَإِنَّهَا لَا تَعۡمَى ٱلۡأَبۡصَٰرُ وَلَٰكِن
+  تَعۡمَى ٱلۡقُلُوبُ ٱلَّتِي فِي ٱلصُّدُورِ
 sentence_translation: Have they not travelled throughout the land so their hearts
   may reason, and their ears may listen? Indeed, it is not the eyes that are blind,
   but it is the hearts in the chests that grow blind.
 word_by_word:
   1:
-    arabic: اَفَلَمۡ
+    arabic: أَفَلَمۡ
     translation: So have not
     transliteration: afalam
   2:
-    arabic: يَسِيۡرُوۡا
+    arabic: يَسِيرُواْ
     translation: they traveled
     transliteration: yasīrū
   3:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   4:
-    arabic: الۡاَرۡضِ
+    arabic: ٱلۡأَرۡضِ
     translation: the land
     transliteration: l-arḍi
   5:
-    arabic: فَتَكُوۡنَ
+    arabic: فَتَكُونَ
     translation: and is
     transliteration: fatakūna
   6:
@@ -31,35 +31,35 @@ word_by_word:
     translation: for them
     transliteration: lahum
   7:
-    arabic: قُلُوۡبٌ
+    arabic: قُلُوبٞ
     translation: hearts
     transliteration: qulūbun
   8:
-    arabic: يَّعۡقِلُوۡنَ
+    arabic: يَعۡقِلُونَ
     translation: (to) reason
     transliteration: yaʿqilūna
   9:
-    arabic: بِهَاۤ
+    arabic: بِهَآ
     translation: with it
     transliteration: bihā
   10:
-    arabic: اَوۡ
+    arabic: أَوۡ ءَ
     translation: or
     transliteration: aw
   11:
-    arabic: اٰذَانٌ
+    arabic: اذَانٞ
     translation: ears
     transliteration: ādhānun
   12:
-    arabic: يَّسۡمَعُوۡنَ
+    arabic: يَسۡمَعُونَ
     translation: (to) hear
     transliteration: yasmaʿūna
   13:
-    arabic: بِهَا​ ۚ
+    arabic: بِهَاۖ
     translation: with it
     transliteration: bihā
   14:
-    arabic: فَاِنَّهَا
+    arabic: فَإِنَّهَا
     translation: For indeed, [it]
     transliteration: fa-innahā
   15:
@@ -71,11 +71,11 @@ word_by_word:
     translation: (are) blinded
     transliteration: taʿmā
   17:
-    arabic: الۡاَبۡصَارُ
+    arabic: ٱلۡأَبۡصَٰرُ
     translation: the eyes
     transliteration: l-abṣāru
   18:
-    arabic: وَلٰـكِنۡ
+    arabic: وَلَٰكِن
     translation: but
     transliteration: walākin
   19:
@@ -83,19 +83,19 @@ word_by_word:
     translation: (are) blinded
     transliteration: taʿmā
   20:
-    arabic: الۡـقُلُوۡبُ
+    arabic: ٱلۡقُلُوبُ
     translation: the hearts
     transliteration: l-qulūbu
   21:
-    arabic: الَّتِىۡ
+    arabic: ٱلَّتِي
     translation: which
     transliteration: allatī
   22:
-    arabic: فِى
+    arabic: فِي
     translation: (are) in
     transliteration: fī
   23:
-    arabic: الصُّدُوۡرِ‏
+    arabic: ٱلصُّدُورِ
     translation: the breasts
     transliteration: l-ṣudūri
 ---

@@ -1,5 +1,5 @@
 ---
-arabic_ayat: رَبِّ فَلَا تَجۡعَلۡنِىۡ فِى الۡقَوۡمِ الظّٰلِمِيۡنَ‏
+arabic_ayat: رَبِّ فَلَا تَجۡعَلۡنِي فِي ٱلۡقَوۡمِ ٱلظَّٰلِمِينَ
 sentence_translation: then, my Lord, do not count me among the wrongdoing people.”
 word_by_word:
   1:
@@ -11,19 +11,19 @@ word_by_word:
     translation: then (do) not
     transliteration: falā
   3:
-    arabic: تَجۡعَلۡنِىۡ
+    arabic: تَجۡعَلۡنِي
     translation: place me
     transliteration: tajʿalnī
   4:
-    arabic: فِى
+    arabic: فِي
     translation: among
     transliteration: fī
   5:
-    arabic: الۡقَوۡمِ
+    arabic: ٱلۡقَوۡمِ
     translation: 'the people '
     transliteration: l-qawmi
   6:
-    arabic: الظّٰلِمِيۡنَ‏
+    arabic: ٱلظَّٰلِمِينَ
     translation: the wrongdoers
     transliteration: l-ẓālimīna
 ---

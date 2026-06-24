@@ -1,36 +1,36 @@
 ---
-arabic_ayat: اِنَّ الَّذِيۡنَ يَكۡفُرُوۡنَ بِاٰيٰتِ اللّٰهِ وَيَقۡتُلُوۡنَ النَّبِيّٖنَ
-  بِغَيۡرِ حَقٍّۙ وَّيَقۡتُلُوۡنَ الَّذِيۡنَ يَاۡمُرُوۡنَ بِالۡقِسۡطِ مِنَ النَّاسِۙ
-  فَبَشِّرۡهُمۡ بِعَذَابٍ اَ لِيۡمٍ‏
+arabic_ayat: إِنَّ ٱلَّذِينَ يَكۡفُرُونَ بِـَٔايَٰتِ ٱللَّهِ وَيَقۡتُلُونَ ٱلنَّبِيِّـۧنَ
+  بِغَيۡرِ حَقّٖ وَيَقۡتُلُونَ ٱلَّذِينَ يَأۡمُرُونَ بِٱلۡقِسۡطِ مِنَ ٱلنَّاسِ فَبَشِّرۡهُم
+  بِعَذَابٍ أَلِيمٍ
 sentence_translation: Indeed, those who deny Allah’s signs, kill the prophets unjustly,
   and kill people who stand up for justice—give them good news of a painful punishment.
 word_by_word:
   1:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   3:
-    arabic: يَكۡفُرُوۡنَ
+    arabic: يَكۡفُرُونَ
     translation: disbelieve
     transliteration: yakfurūna
   4:
-    arabic: بِاٰيٰتِ
+    arabic: بِـَٔايَٰتِ
     translation: in (the) Signs (of)
     transliteration: biāyāti
   5:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   6:
-    arabic: وَيَقۡتُلُوۡنَ
+    arabic: وَيَقۡتُلُونَ
     translation: and they kill
     transliteration: wayaqtulūna
   7:
-    arabic: النَّبِيّٖنَ
+    arabic: ٱلنَّبِيِّـۧنَ
     translation: the Prophets
     transliteration: l-nabiyīna
   8:
@@ -38,23 +38,23 @@ word_by_word:
     translation: without
     transliteration: bighayri
   9:
-    arabic: حَقٍّۙ
+    arabic: حَقّٖ
     translation: right
     transliteration: ḥaqqin
   10:
-    arabic: وَّيَقۡتُلُوۡنَ
+    arabic: وَيَقۡتُلُونَ
     translation: and they kill
     transliteration: wayaqtulūna
   11:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   12:
-    arabic: يَاۡمُرُوۡنَ
+    arabic: يَأۡمُرُونَ
     translation: order
     transliteration: yamurūna
   13:
-    arabic: بِالۡقِسۡطِ
+    arabic: بِٱلۡقِسۡطِ
     translation: '[with] justice'
     transliteration: bil-qis'ṭi
   14:
@@ -62,11 +62,11 @@ word_by_word:
     translation: among
     transliteration: mina
   15:
-    arabic: النَّاسِۙ
+    arabic: ٱلنَّاسِ
     translation: the people
     transliteration: l-nāsi
   16:
-    arabic: فَبَشِّرۡهُمۡ
+    arabic: فَبَشِّرۡهُم
     translation: then give them tidings
     transliteration: fabashir'hum
   17:
@@ -74,7 +74,7 @@ word_by_word:
     translation: of a punishment
     transliteration: biʿadhābin
   18:
-    arabic: اَ لِيۡمٍ‏
+    arabic: أَلِيمٍ
     translation: painful
     transliteration: alīmin
 ---

@@ -1,6 +1,6 @@
 ---
-arabic_ayat: يُسَبِّحُ لِلّٰهِ مَا فِى السَّمٰوٰتِ وَمَا فِى الۡاَرۡضِ​ۚ لَهُ الۡمُلۡكُ
-  وَلَهُ الۡحَمۡدُ​ وَهُوَ عَلٰى كُلِّ شَىۡءٍ قَدِيۡرٌ‏
+arabic_ayat: يُسَبِّحُ لِلَّهِ مَا فِي ٱلسَّمَٰوَٰتِ وَمَا فِي ٱلۡأَرۡضِۖ لَهُ ٱلۡمُلۡكُ
+  وَلَهُ ٱلۡحَمۡدُۖ وَهُوَ عَلَىٰ كُلِّ شَيۡءٖ قَدِيرٌ
 sentence_translation: Whatever is in the heavens and whatever is on the earth ˹constantly˺
   glorifies Allah. The kingdom is His, and all praise is for Him. For He is Most Capable
   of everything.
@@ -10,7 +10,7 @@ word_by_word:
     translation: Glorifies
     transliteration: yusabbiḥu
   2:
-    arabic: لِلّٰهِ
+    arabic: لِلَّهِ
     translation: '[to] Allah'
     transliteration: lillahi
   3:
@@ -18,11 +18,11 @@ word_by_word:
     translation: whatever
     transliteration: mā
   4:
-    arabic: فِى
+    arabic: فِي
     translation: (is) in
     transliteration: fī
   5:
-    arabic: السَّمٰوٰتِ
+    arabic: ٱلسَّمَٰوَٰتِ
     translation: the heavens
     transliteration: l-samāwāti
   6:
@@ -30,11 +30,11 @@ word_by_word:
     translation: and whatever
     transliteration: wamā
   7:
-    arabic: فِى
+    arabic: فِي
     translation: (is) in
     transliteration: fī
   8:
-    arabic: الۡاَرۡضِ​ۚ
+    arabic: ٱلۡأَرۡضِۖ
     translation: the earth
     transliteration: l-arḍi
   9:
@@ -42,7 +42,7 @@ word_by_word:
     translation: For Him
     transliteration: lahu
   10:
-    arabic: الۡمُلۡكُ
+    arabic: ٱلۡمُلۡكُ
     translation: (is the) dominion
     transliteration: l-mul'ku
   11:
@@ -50,7 +50,7 @@ word_by_word:
     translation: and for Him
     transliteration: walahu
   12:
-    arabic: الۡحَمۡدُ​
+    arabic: ٱلۡحَمۡدُۖ
     translation: (is) the praise
     transliteration: l-ḥamdu
   13:
@@ -58,7 +58,7 @@ word_by_word:
     translation: And He
     transliteration: wahuwa
   14:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: (is) on
     transliteration: ʿalā
   15:
@@ -66,11 +66,11 @@ word_by_word:
     translation: every
     transliteration: kulli
   16:
-    arabic: شَىۡءٍ
+    arabic: شَيۡءٖ
     translation: thing
     transliteration: shayin
   17:
-    arabic: قَدِيۡرٌ‏
+    arabic: قَدِيرٌ
     translation: All-Powerful
     transliteration: qadīrun
 ---

@@ -1,15 +1,14 @@
 ---
-arabic_ayat: "فَاِنۡ رَّجَعَكَ اللّٰهُ اِلٰى طَآٮِٕفَةٍ مِّنۡهُمۡ فَاسۡتَـاْذَنُوۡكَ\
-  \ لِلۡخُرُوۡجِ فَقُلْ لَّنۡ تَخۡرُجُوۡا مَعِىَ اَبَدًا وَّلَنۡ تُقَاتِلُوۡا مَعِىَ\
-  \ عَدُوًّا​ ؕ اِنَّكُمۡ رَضِيۡتُمۡ بِالۡقُعُوۡدِ اَوَّلَ مَرَّةٍ فَاقۡعُدُوۡا مَعَ\
-  \ الۡخٰلـِفِيۡنَ‏ \uFEFF\uFEFF"
+arabic_ayat: فَإِن رَّجَعَكَ ٱللَّهُ إِلَىٰ طَآئِفَةٖ مِّنۡهُمۡ فَٱسۡتَـٔۡذَنُوكَ
+  لِلۡخُرُوجِ فَقُل لَّن تَخۡرُجُواْ مَعِيَ أَبَدٗا وَلَن تُقَٰتِلُواْ مَعِيَ عَدُوًّاۖ
+  إِنَّكُمۡ رَضِيتُم بِٱلۡقُعُودِ أَوَّلَ مَرَّةٖ فَٱقۡعُدُواْ مَعَ ٱلۡخَٰلِفِينَ
 sentence_translation: If Allah returns you ˹O Prophet˺ to a group of them and they
   ask to go forth with you, say, “You will not ever go forth or fight an enemy along
   with me. You preferred to stay behind the first time, so stay with those ˹helpless˺
   who remain behind.”
 word_by_word:
   1:
-    arabic: فَاِنۡ
+    arabic: فَإِن
     translation: Then if
     transliteration: fa-in
   2:
@@ -17,15 +16,15 @@ word_by_word:
     translation: Allah returns you
     transliteration: rajaʿaka
   3:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah returns you
     transliteration: l-lahu
   4:
-    arabic: اِلٰى
+    arabic: إِلَىٰ
     translation: to
     transliteration: ilā
   5:
-    arabic: طَآٮِٕفَةٍ
+    arabic: طَآئِفَةٖ
     translation: a group
     transliteration: ṭāifatin
   6:
@@ -33,71 +32,71 @@ word_by_word:
     translation: of them
     transliteration: min'hum
   7:
-    arabic: فَاسۡتَـاْذَنُوۡكَ
+    arabic: فَٱسۡتَـٔۡذَنُوكَ
     translation: and they ask you permission
     transliteration: fa-is'tadhanūka
   8:
-    arabic: لِلۡخُرُوۡجِ
+    arabic: لِلۡخُرُوجِ
     translation: to go out
     transliteration: lil'khurūji
   9:
-    arabic: فَقُلْ
+    arabic: فَقُل
     translation: then say
     transliteration: faqul
   10:
-    arabic: لَّنۡ
+    arabic: لَّن
     translation: Never
     transliteration: lan
   11:
-    arabic: تَخۡرُجُوۡا
+    arabic: تَخۡرُجُواْ
     translation: will you come out
     transliteration: takhrujū
   12:
-    arabic: مَعِىَ
+    arabic: مَعِيَ
     translation: with me
     transliteration: maʿiya
   13:
-    arabic: اَبَدًا
+    arabic: أَبَدٗا
     translation: ever
     transliteration: abadan
   14:
-    arabic: وَّلَنۡ
+    arabic: وَلَن
     translation: and never
     transliteration: walan
   15:
-    arabic: تُقَاتِلُوۡا
+    arabic: تُقَٰتِلُواْ
     translation: will you fight
     transliteration: tuqātilū
   16:
-    arabic: مَعِىَ
+    arabic: مَعِيَ
     translation: with me
     transliteration: maʿiya
   17:
-    arabic: عَدُوًّا​ ؕ
+    arabic: عَدُوًّاۖ
     translation: any enemy
     transliteration: ʿaduwwan
   18:
-    arabic: اِنَّكُمۡ
+    arabic: إِنَّكُمۡ
     translation: Indeed, you
     transliteration: innakum
   19:
-    arabic: رَضِيۡتُمۡ
+    arabic: رَضِيتُم
     translation: were satisfied
     transliteration: raḍītum
   20:
-    arabic: بِالۡقُعُوۡدِ
+    arabic: بِٱلۡقُعُودِ
     translation: with sitting
     transliteration: bil-quʿūdi
   21:
-    arabic: اَوَّلَ
+    arabic: أَوَّلَ
     translation: (the) first
     transliteration: awwala
   22:
-    arabic: مَرَّةٍ
+    arabic: مَرَّةٖ
     translation: time
     transliteration: marratin
   23:
-    arabic: فَاقۡعُدُوۡا
+    arabic: فَٱقۡعُدُواْ
     translation: so sit
     transliteration: fa-uq'ʿudū
   24:
@@ -105,7 +104,7 @@ word_by_word:
     translation: with
     transliteration: maʿa
   25:
-    arabic: "الۡخٰلـِفِيۡنَ‏ \uFEFF\uFEFF"
+    arabic: ٱلۡخَٰلِفِينَ
     translation: those who stay behind
     transliteration: l-khālifīna
 ---

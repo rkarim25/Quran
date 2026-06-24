@@ -1,6 +1,6 @@
 ---
-arabic_ayat: هَلۡ يَنۡظُرُوۡنَ اِلَّاۤ اَنۡ يَّاۡتِيَهُمُ اللّٰهُ فِىۡ ظُلَلٍ مِّنَ
-  الۡغَمَامِ وَالۡمَلٰٓٮِٕکَةُ وَقُضِىَ الۡاَمۡرُ​ؕ وَاِلَى اللّٰهِ تُرۡجَعُ الۡاُمُوۡرُ‏
+arabic_ayat: هَلۡ يَنظُرُونَ إِلَّآ أَن يَأۡتِيَهُمُ ٱللَّهُ فِي ظُلَلٖ مِّنَ ٱلۡغَمَامِ
+  وَٱلۡمَلَٰٓئِكَةُ وَقُضِيَ ٱلۡأَمۡرُۚ وَإِلَى ٱللَّهِ تُرۡجَعُ ٱلۡأُمُورُ
 sentence_translation: Are they waiting for Allah ˹Himself˺ to come to them in the
   shade of clouds, along with the angels? ˹If He did˺, then the matter would be settled
   ˹at once˺. And to Allah ˹all˺ matters will be returned ˹for judgment˺.
@@ -10,31 +10,31 @@ word_by_word:
     translation: Are
     transliteration: hal
   2:
-    arabic: يَنۡظُرُوۡنَ
+    arabic: يَنظُرُونَ
     translation: they waiting
     transliteration: yanẓurūna
   3:
-    arabic: اِلَّاۤ
+    arabic: إِلَّآ
     translation: '[except]'
     transliteration: illā
   4:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that
     transliteration: an
   5:
-    arabic: يَّاۡتِيَهُمُ
+    arabic: يَأۡتِيَهُمُ
     translation: comes to them
     transliteration: yatiyahumu
   6:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   7:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   8:
-    arabic: ظُلَلٍ
+    arabic: ظُلَلٖ
     translation: (the) shadows
     transliteration: ẓulalin
   9:
@@ -42,27 +42,27 @@ word_by_word:
     translation: of
     transliteration: mina
   10:
-    arabic: الۡغَمَامِ
+    arabic: ٱلۡغَمَامِ
     translation: '[the] clouds'
     transliteration: l-ghamāmi
   11:
-    arabic: وَالۡمَلٰٓٮِٕکَةُ
+    arabic: وَٱلۡمَلَٰٓئِكَةُ
     translation: and the Angels
     transliteration: wal-malāikatu
   12:
-    arabic: وَقُضِىَ
+    arabic: وَقُضِيَ
     translation: and is decreed
     transliteration: waquḍiya
   13:
-    arabic: الۡاَمۡرُ​ؕ
+    arabic: ٱلۡأَمۡرُۚ
     translation: the matter
     transliteration: l-amru
   14:
-    arabic: وَاِلَى
+    arabic: وَإِلَى
     translation: And to
     transliteration: wa-ilā
   15:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   16:
@@ -70,7 +70,7 @@ word_by_word:
     translation: return
     transliteration: tur'jaʿu
   17:
-    arabic: الۡاُمُوۡرُ‏
+    arabic: ٱلۡأُمُورُ
     translation: (all) the matters
     transliteration: l-umūru
 ---

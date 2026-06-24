@@ -1,43 +1,43 @@
 ---
-arabic_ayat: كُلُوۡا وَارۡعَوۡا اَنۡعَامَكُمۡ​ ؕ اِنَّ فِىۡ ذٰ لِكَ لَاٰيٰتٍ لِّاُولِى
-  الـنُّهٰى‏
+arabic_ayat: كُلُواْ وَٱرۡعَوۡاْ أَنۡعَٰمَكُمۡۚ إِنَّ فِي ذَٰلِكَ لَأٓيَٰتٖ لِّأُوْلِي
+  ٱلنُّهَىٰ
 sentence_translation: ˹so˺ eat and graze your cattle. Surely in this are signs for
   people of sound judgment.
 word_by_word:
   1:
-    arabic: كُلُوۡا
+    arabic: كُلُواْ
     translation: Eat
     transliteration: kulū
   2:
-    arabic: وَارۡعَوۡا
+    arabic: وَٱرۡعَوۡاْ
     translation: and pasture
     transliteration: wa-ir'ʿaw
   3:
-    arabic: اَنۡعَامَكُمۡ​ ؕ
+    arabic: أَنۡعَٰمَكُمۡۚ
     translation: your cattle
     transliteration: anʿāmakum
   4:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   5:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   6:
-    arabic: ذٰ لِكَ
+    arabic: ذَٰلِكَ
     translation: that
     transliteration: dhālika
   7:
-    arabic: لَاٰيٰتٍ
+    arabic: لَأٓيَٰتٖ
     translation: surely (are) Signs
     transliteration: laāyātin
   8:
-    arabic: لِّاُولِى
+    arabic: لِّأُوْلِي
     translation: for possessors
     transliteration: li-ulī
   9:
-    arabic: الـنُّهٰى‏
+    arabic: ٱلنُّهَىٰ
     translation: (of) intelligence
     transliteration: l-nuhā
 ---

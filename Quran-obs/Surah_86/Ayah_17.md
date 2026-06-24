@@ -1,5 +1,5 @@
 ---
-arabic_ayat: فَمَهِّلِ الۡكٰفِرِيۡنَ اَمۡهِلۡهُمۡ رُوَيۡدًا‏
+arabic_ayat: فَمَهِّلِ ٱلۡكَٰفِرِينَ أَمۡهِلۡهُمۡ رُوَيۡدَۢا
 sentence_translation: So bear with the disbelievers ˹O Prophet˺. Let them be for ˹just˺
   a little while.
 word_by_word:
@@ -8,15 +8,15 @@ word_by_word:
     translation: So give respite
     transliteration: famahhili
   2:
-    arabic: الۡكٰفِرِيۡنَ
+    arabic: ٱلۡكَٰفِرِينَ
     translation: (to) the disbelievers
     transliteration: l-kāfirīna
   3:
-    arabic: اَمۡهِلۡهُمۡ
+    arabic: أَمۡهِلۡهُمۡ
     translation: 'Give respite to them '
     transliteration: amhil'hum
   4:
-    arabic: رُوَيۡدًا‏
+    arabic: رُوَيۡدَۢا
     translation: little
     transliteration: ruwaydan
 ---

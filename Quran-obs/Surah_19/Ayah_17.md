@@ -1,35 +1,35 @@
 ---
-arabic_ayat: فَاتَّخَذَتۡ مِنۡ دُوۡنِهِمۡ حِجَابًا فَاَرۡسَلۡنَاۤ اِلَيۡهَا رُوۡحَنَا
-  فَتَمَثَّلَ لَهَا بَشَرًا سَوِيًّا‏
+arabic_ayat: فَٱتَّخَذَتۡ مِن دُونِهِمۡ حِجَابٗا فَأَرۡسَلۡنَآ إِلَيۡهَا رُوحَنَا
+  فَتَمَثَّلَ لَهَا بَشَرٗا سَوِيّٗا
 sentence_translation: screening herself off from them. Then We sent to her Our angel,
   ˹Gabriel,˺ appearing before her as a man, perfectly formed.
 word_by_word:
   1:
-    arabic: فَاتَّخَذَتۡ
+    arabic: فَٱتَّخَذَتۡ
     translation: Then she took
     transliteration: fa-ittakhadhat
   2:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from them
     transliteration: min
   3:
-    arabic: دُوۡنِهِمۡ
+    arabic: دُونِهِمۡ
     translation: from them
     transliteration: dūnihim
   4:
-    arabic: حِجَابًا
+    arabic: حِجَابٗا
     translation: a screen
     transliteration: ḥijāban
   5:
-    arabic: فَاَرۡسَلۡنَاۤ
+    arabic: فَأَرۡسَلۡنَآ
     translation: Then We sent
     transliteration: fa-arsalnā
   6:
-    arabic: اِلَيۡهَا
+    arabic: إِلَيۡهَا
     translation: to her
     transliteration: ilayhā
   7:
-    arabic: رُوۡحَنَا
+    arabic: رُوحَنَا
     translation: Our Spirit
     transliteration: rūḥanā
   8:
@@ -41,11 +41,11 @@ word_by_word:
     translation: then he assumed for her the likeness
     transliteration: lahā
   10:
-    arabic: بَشَرًا
+    arabic: بَشَرٗا
     translation: (of) a man
     transliteration: basharan
   11:
-    arabic: سَوِيًّا‏
+    arabic: سَوِيّٗا
     translation: well-proportioned
     transliteration: sawiyyan
 ---

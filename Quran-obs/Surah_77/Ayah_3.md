@@ -1,13 +1,13 @@
 ---
-arabic_ayat: وَّالنّٰشِرٰتِ نَشۡرًا ۙ‏
+arabic_ayat: وَٱلنَّٰشِرَٰتِ نَشۡرٗا
 sentence_translation: and those scattering ˹rainclouds˺ widely!
 word_by_word:
   1:
-    arabic: وَّالنّٰشِرٰتِ
+    arabic: وَٱلنَّٰشِرَٰتِ
     translation: And the ones that scatter
     transliteration: wal-nāshirāti
   2:
-    arabic: نَشۡرًا ۙ‏
+    arabic: نَشۡرٗا
     translation: far and wide
     transliteration: nashran
 ---

@@ -1,20 +1,20 @@
 ---
-arabic_ayat: فَعَقَرُوا النَّاقَةَ وَعَتَوۡا عَنۡ اَمۡرِ رَبِّهِمۡ وَ قَالُوۡا يٰصٰلِحُ
-  ائۡتِنَا بِمَا تَعِدُنَاۤ اِنۡ كُنۡتَ مِنَ الۡمُرۡسَلِيۡنَ‏
+arabic_ayat: فَعَقَرُواْ ٱلنَّاقَةَ وَعَتَوۡاْ عَنۡ أَمۡرِ رَبِّهِمۡ وَقَالُواْ يَٰصَٰلِحُ
+  ٱئۡتِنَا بِمَا تَعِدُنَآ إِن كُنتَ مِنَ ٱلۡمُرۡسَلِينَ
 sentence_translation: Then they killed the she-camel—defying their Lord’s command—and
   challenged ˹Ṣâliḥ˺, “Bring us what you threaten us with, if you are ˹truly˺ one
   of the messengers.”
 word_by_word:
   1:
-    arabic: فَعَقَرُوا
+    arabic: فَعَقَرُواْ
     translation: Then they hamstrung
     transliteration: faʿaqarū
   2:
-    arabic: النَّاقَةَ
+    arabic: ٱلنَّاقَةَ
     translation: the she-camel
     transliteration: l-nāqata
   3:
-    arabic: وَعَتَوۡا
+    arabic: وَعَتَوۡاْ
     translation: and (were) insolent
     transliteration: waʿataw
   4:
@@ -22,7 +22,7 @@ word_by_word:
     translation: towards
     transliteration: ʿan
   5:
-    arabic: اَمۡرِ
+    arabic: أَمۡرِ
     translation: (the) command
     transliteration: amri
   6:
@@ -30,15 +30,15 @@ word_by_word:
     translation: (of) their Lord
     transliteration: rabbihim
   7:
-    arabic: وَ قَالُوۡا
+    arabic: وَقَالُواْ
     translation: and they said
     transliteration: waqālū
   8:
-    arabic: يٰصٰلِحُ
+    arabic: يَٰصَٰلِحُ
     translation: O Salih
     transliteration: yāṣāliḥu
   9:
-    arabic: ائۡتِنَا
+    arabic: ٱئۡتِنَا
     translation: Bring us
     transliteration: i'tinā
   10:
@@ -46,15 +46,15 @@ word_by_word:
     translation: what
     transliteration: bimā
   11:
-    arabic: تَعِدُنَاۤ
+    arabic: تَعِدُنَآ
     translation: you promise us
     transliteration: taʿidunā
   12:
-    arabic: اِنۡ
+    arabic: إِن
     translation: if
     transliteration: in
   13:
-    arabic: كُنۡتَ
+    arabic: كُنتَ
     translation: you are
     transliteration: kunta
   14:
@@ -62,7 +62,7 @@ word_by_word:
     translation: of
     transliteration: mina
   15:
-    arabic: الۡمُرۡسَلِيۡنَ‏
+    arabic: ٱلۡمُرۡسَلِينَ
     translation: the Messengers
     transliteration: l-mur'salīna
 ---

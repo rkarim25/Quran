@@ -1,6 +1,6 @@
 ---
-arabic_ayat: وَلَوۡ شَآءَ رَبُّكَ لَجَـعَلَ النَّاسَ اُمَّةً وَّاحِدَةً​ وَّلَا يَزَالُوۡنَ
-  مُخۡتَلِفِيۡنَۙ‏
+arabic_ayat: وَلَوۡ شَآءَ رَبُّكَ لَجَعَلَ ٱلنَّاسَ أُمَّةٗ وَٰحِدَةٗۖ وَلَا يَزَالُونَ
+  مُخۡتَلِفِينَ
 sentence_translation: Had your Lord so willed, He would have certainly made humanity
   one single community ˹of believers˺, but they will always ˹choose to˺ differ—
 word_by_word:
@@ -17,31 +17,31 @@ word_by_word:
     translation: your Lord (had) willed
     transliteration: rabbuka
   4:
-    arabic: لَجَـعَلَ
+    arabic: لَجَعَلَ
     translation: surely He (could) have made
     transliteration: lajaʿala
   5:
-    arabic: النَّاسَ
+    arabic: ٱلنَّاسَ
     translation: the mankind
     transliteration: l-nāsa
   6:
-    arabic: اُمَّةً
+    arabic: أُمَّةٗ
     translation: one community
     transliteration: ummatan
   7:
-    arabic: وَّاحِدَةً​
+    arabic: وَٰحِدَةٗۖ
     translation: one community
     transliteration: wāḥidatan
   8:
-    arabic: وَّلَا
+    arabic: وَلَا
     translation: but not
     transliteration: walā
   9:
-    arabic: يَزَالُوۡنَ
+    arabic: يَزَالُونَ
     translation: they will cease
     transliteration: yazālūna
   10:
-    arabic: مُخۡتَلِفِيۡنَۙ‏
+    arabic: مُخۡتَلِفِينَ
     translation: to differ
     transliteration: mukh'talifīna
 ---

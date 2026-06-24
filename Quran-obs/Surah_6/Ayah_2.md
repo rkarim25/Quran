@@ -1,6 +1,6 @@
 ---
-arabic_ayat: هُوَ الَّذِىۡ خَلَقَكُمۡ مِّنۡ طِيۡنٍ ثُمَّ قَضٰۤى اَجَلًا  ؕ وَاَجَلٌ
-  مُّسَمًّى عِنۡدَهٗ​ ثُمَّ اَنۡـتُمۡ تَمۡتَرُوۡنَ‏
+arabic_ayat: هُوَ ٱلَّذِي خَلَقَكُم مِّن طِينٖ ثُمَّ قَضَىٰٓ أَجَلٗاۖ وَأَجَلٞ مُّسَمًّى
+  عِندَهُۥۖ ثُمَّ أَنتُمۡ تَمۡتَرُونَ
 sentence_translation: He is the One Who created you from clay, then appointed a term
   ˹for your death˺ and another known only to Him ˹for your resurrection˺—yet you continue
   to doubt!
@@ -10,19 +10,19 @@ word_by_word:
     translation: He
     transliteration: huwa
   2:
-    arabic: الَّذِىۡ
+    arabic: ٱلَّذِي
     translation: (is) the One Who
     transliteration: alladhī
   3:
-    arabic: خَلَقَكُمۡ
+    arabic: خَلَقَكُم
     translation: created you
     transliteration: khalaqakum
   4:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: from
     transliteration: min
   5:
-    arabic: طِيۡنٍ
+    arabic: طِينٖ
     translation: clay
     transliteration: ṭīnin
   6:
@@ -30,15 +30,15 @@ word_by_word:
     translation: then
     transliteration: thumma
   7:
-    arabic: قَضٰۤى
+    arabic: قَضَىٰٓ
     translation: He decreed
     transliteration: qaḍā
   8:
-    arabic: اَجَلًا  ؕ
+    arabic: أَجَلٗاۖ
     translation: 'a term '
     transliteration: ajalan
   9:
-    arabic: وَاَجَلٌ
+    arabic: وَأَجَلٞ
     translation: and a term
     transliteration: wa-ajalun
   10:
@@ -46,7 +46,7 @@ word_by_word:
     translation: specified
     transliteration: musamman
   11:
-    arabic: عِنۡدَهٗ​
+    arabic: عِندَهُۥۖ
     translation: with Him
     transliteration: ʿindahu
   12:
@@ -54,11 +54,11 @@ word_by_word:
     translation: yet
     transliteration: thumma
   13:
-    arabic: اَنۡـتُمۡ
+    arabic: أَنتُمۡ
     translation: you
     transliteration: antum
   14:
-    arabic: تَمۡتَرُوۡنَ‏
+    arabic: تَمۡتَرُونَ
     translation: doubt
     transliteration: tamtarūna
 ---

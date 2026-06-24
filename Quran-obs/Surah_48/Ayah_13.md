@@ -1,11 +1,11 @@
 ---
-arabic_ayat: وَمَنۡ لَّمۡ يُؤۡمِنۡۢ بِاللّٰهِ وَرَسُوۡلِهٖ فَاِنَّاۤ اَعۡتَدۡنَا لِلۡكٰفِرِيۡنَ
-  سَعِيۡرًا‏
+arabic_ayat: وَمَن لَّمۡ يُؤۡمِنۢ بِٱللَّهِ وَرَسُولِهِۦ فَإِنَّآ أَعۡتَدۡنَا لِلۡكَٰفِرِينَ
+  سَعِيرٗا
 sentence_translation: And whoever does not believe in Allah and His Messenger, then
   We surely have prepared for the disbelievers a blazing Fire.
 word_by_word:
   1:
-    arabic: وَمَنۡ
+    arabic: وَمَن
     translation: And whoever
     transliteration: waman
   2:
@@ -13,31 +13,31 @@ word_by_word:
     translation: (has) not believed
     transliteration: lam
   3:
-    arabic: يُؤۡمِنۡۢ
+    arabic: يُؤۡمِنۢ
     translation: (has) not believed
     transliteration: yu'min
   4:
-    arabic: بِاللّٰهِ
+    arabic: بِٱللَّهِ
     translation: in Allah
     transliteration: bil-lahi
   5:
-    arabic: وَرَسُوۡلِهٖ
+    arabic: وَرَسُولِهِۦ
     translation: and His Messenger
     transliteration: warasūlihi
   6:
-    arabic: فَاِنَّاۤ
+    arabic: فَإِنَّآ
     translation: then indeed, We
     transliteration: fa-innā
   7:
-    arabic: اَعۡتَدۡنَا
+    arabic: أَعۡتَدۡنَا
     translation: '[We] have prepared'
     transliteration: aʿtadnā
   8:
-    arabic: لِلۡكٰفِرِيۡنَ
+    arabic: لِلۡكَٰفِرِينَ
     translation: for the disbelievers
     transliteration: lil'kāfirīna
   9:
-    arabic: سَعِيۡرًا‏
+    arabic: سَعِيرٗا
     translation: a Blazing Fire
     transliteration: saʿīran
 ---

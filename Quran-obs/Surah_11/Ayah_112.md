@@ -1,24 +1,24 @@
 ---
-arabic_ayat: فَاسۡتَقِمۡ كَمَاۤ اُمِرۡتَ وَمَنۡ تَابَ مَعَكَ وَلَا تَطۡغَوۡا​ ؕ اِنَّهٗ
-  بِمَا تَعۡمَلُوۡنَ بَصِيۡرٌ‏
+arabic_ayat: فَٱسۡتَقِمۡ كَمَآ أُمِرۡتَ وَمَن تَابَ مَعَكَ وَلَا تَطۡغَوۡاْۚ إِنَّهُۥ
+  بِمَا تَعۡمَلُونَ بَصِيرٞ
 sentence_translation: So be steadfast as you are commanded ˹O Prophet˺, along with
   those who turn ˹in submission to Allah˺ with you. And do not transgress. Surely
   He is All-Seeing of what you ˹believers˺ do.
 word_by_word:
   1:
-    arabic: فَاسۡتَقِمۡ
+    arabic: فَٱسۡتَقِمۡ
     translation: So stand firm
     transliteration: fa-is'taqim
   2:
-    arabic: كَمَاۤ
+    arabic: كَمَآ
     translation: as
     transliteration: kamā
   3:
-    arabic: اُمِرۡتَ
+    arabic: أُمِرۡتَ
     translation: you are commanded
     transliteration: umir'ta
   4:
-    arabic: وَمَنۡ
+    arabic: وَمَن
     translation: and (those) who
     transliteration: waman
   5:
@@ -34,11 +34,11 @@ word_by_word:
     translation: and (do) not
     transliteration: walā
   8:
-    arabic: تَطۡغَوۡا​ ؕ
+    arabic: تَطۡغَوۡاْۚ
     translation: transgress
     transliteration: taṭghaw
   9:
-    arabic: اِنَّهٗ
+    arabic: إِنَّهُۥ
     translation: Indeed, He
     transliteration: innahu
   10:
@@ -46,11 +46,11 @@ word_by_word:
     translation: of what
     transliteration: bimā
   11:
-    arabic: تَعۡمَلُوۡنَ
+    arabic: تَعۡمَلُونَ
     translation: you do
     transliteration: taʿmalūna
   12:
-    arabic: بَصِيۡرٌ‏
+    arabic: بَصِيرٞ
     translation: (is) All-Seer
     transliteration: baṣīrun
 ---

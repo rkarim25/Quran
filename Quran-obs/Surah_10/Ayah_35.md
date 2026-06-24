@@ -1,8 +1,7 @@
 ---
-arabic_ayat: "قُلۡ هَلۡ مِنۡ شُرَكَآٮِٕكُمۡ مَّنۡ يَّهۡدِىۡۤ اِلَى الۡحَـقِّ​ؕ قُلِ\
-  \ اللّٰهُ يَهۡدِىۡ لِلۡحَقِّ​ؕ اَفَمَنۡ يَّهۡدِىۡۤ اِلَى الۡحَقِّ اَحَقُّ اَنۡ يُّتَّبَعَ\
-  \ اَمَّنۡ لَّا يَهِدِّىۡۤ اِلَّاۤ اَنۡ يُّهۡدٰى​ۚ فَمَا لَكُمۡ كَيۡفَ تَحۡكُمُوۡنَ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: قُلۡ هَلۡ مِن شُرَكَآئِكُم مَّن يَهۡدِيٓ إِلَى ٱلۡحَقِّۚ قُلِ ٱللَّهُ
+  يَهۡدِي لِلۡحَقِّۗ أَفَمَن يَهۡدِيٓ إِلَى ٱلۡحَقِّ أَحَقُّ أَن يُتَّبَعَ أَمَّن
+  لَّا يَهِدِّيٓ إِلَّآ أَن يُهۡدَىٰۖ فَمَا لَكُمۡ كَيۡفَ تَحۡكُمُونَ
 sentence_translation: 'Ask ˹them, O  Prophet˺, “Can any of your associate-gods guide
   to the truth?” Say, “˹Only˺ Allah guides to the truth.” Who then is more worthy
   to be followed: the One Who guides to the truth or those who cannot find the way
@@ -17,27 +16,27 @@ word_by_word:
     translation: Is (there)
     transliteration: hal
   3:
-    arabic: مِنۡ
+    arabic: مِن
     translation: of
     transliteration: min
   4:
-    arabic: شُرَكَآٮِٕكُمۡ
+    arabic: شُرَكَآئِكُم
     translation: your partners
     transliteration: shurakāikum
   5:
-    arabic: مَّنۡ
+    arabic: مَّن
     translation: (any) who
     transliteration: man
   6:
-    arabic: يَّهۡدِىۡۤ
+    arabic: يَهۡدِيٓ
     translation: guides
     transliteration: yahdī
   7:
-    arabic: اِلَى
+    arabic: إِلَى
     translation: to
     transliteration: ilā
   8:
-    arabic: الۡحَـقِّ​ؕ
+    arabic: ٱلۡحَقِّۚ
     translation: the truth
     transliteration: l-ḥaqi
   9:
@@ -45,47 +44,47 @@ word_by_word:
     translation: Say
     transliteration: quli
   10:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   11:
-    arabic: يَهۡدِىۡ
+    arabic: يَهۡدِي
     translation: guides
     transliteration: yahdī
   12:
-    arabic: لِلۡحَقِّ​ؕ
+    arabic: لِلۡحَقِّۗ
     translation: to the truth
     transliteration: lil'ḥaqqi
   13:
-    arabic: اَفَمَنۡ
+    arabic: أَفَمَن
     translation: Is then (he) who
     transliteration: afaman
   14:
-    arabic: يَّهۡدِىۡۤ
+    arabic: يَهۡدِيٓ
     translation: guides
     transliteration: yahdī
   15:
-    arabic: اِلَى
+    arabic: إِلَى
     translation: to
     transliteration: ilā
   16:
-    arabic: الۡحَقِّ
+    arabic: ٱلۡحَقِّ
     translation: the truth
     transliteration: l-ḥaqi
   17:
-    arabic: اَحَقُّ
+    arabic: أَحَقُّ
     translation: more worthy
     transliteration: aḥaqqu
   18:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that
     transliteration: an
   19:
-    arabic: يُّتَّبَعَ
+    arabic: يُتَّبَعَ
     translation: he should be followed
     transliteration: yuttabaʿa
   20:
-    arabic: اَمَّنۡ
+    arabic: أَمَّن
     translation: or (he) who
     transliteration: amman
   21:
@@ -93,19 +92,19 @@ word_by_word:
     translation: (does) not
     transliteration: lā
   22:
-    arabic: يَهِدِّىۡۤ
+    arabic: يَهِدِّيٓ
     translation: guide
     transliteration: yahiddī
   23:
-    arabic: اِلَّاۤ
+    arabic: إِلَّآ
     translation: unless
     transliteration: illā
   24:
-    arabic: اَنۡ
+    arabic: أَن
     translation: '[that]'
     transliteration: an
   25:
-    arabic: يُّهۡدٰى​ۚ
+    arabic: يُهۡدَىٰۖ
     translation: he is guided
     transliteration: yuh'dā
   26:
@@ -113,7 +112,7 @@ word_by_word:
     translation: Then what
     transliteration: famā
   27:
-    arabic: لَكُمۡ
+    arabic: لَكُمۡ
     translation: (is) for you
     transliteration: lakum
   28:
@@ -121,7 +120,7 @@ word_by_word:
     translation: how
     transliteration: kayfa
   29:
-    arabic: "تَحۡكُمُوۡنَ‏ \uFEFF\uFEFF"
+    arabic: تَحۡكُمُونَ
     translation: you judge
     transliteration: taḥkumūna
 ---

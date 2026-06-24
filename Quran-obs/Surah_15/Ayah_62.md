@@ -1,5 +1,5 @@
 ---
-arabic_ayat: قَالَ اِنَّـكُمۡ قَوۡمٌ مُّنۡكَرُوۡنَ‏
+arabic_ayat: قَالَ إِنَّكُمۡ قَوۡمٞ مُّنكَرُونَ
 sentence_translation: he said, “You are surely an unfamiliar people!”
 word_by_word:
   1:
@@ -7,15 +7,15 @@ word_by_word:
     translation: He said
     transliteration: qāla
   2:
-    arabic: اِنَّـكُمۡ
+    arabic: إِنَّكُمۡ
     translation: Indeed, you
     transliteration: innakum
   3:
-    arabic: قَوۡمٌ
+    arabic: قَوۡمٞ
     translation: (are) a people
     transliteration: qawmun
   4:
-    arabic: مُّنۡكَرُوۡنَ‏
+    arabic: مُّنكَرُونَ
     translation: unknown
     transliteration: munkarūna
 ---

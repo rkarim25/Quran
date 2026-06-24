@@ -1,6 +1,5 @@
 ---
-arabic_ayat: "مَا كَانَ لِىَ مِنۡ عِلۡمٍۢ بِالۡمَلَاِ الۡاَعۡلٰٓى اِذۡ يَخۡتَصِمُوۡنَ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: مَا كَانَ لِيَ مِنۡ عِلۡمِۭ بِٱلۡمَلَإِ ٱلۡأَعۡلَىٰٓ إِذۡ يَخۡتَصِمُونَ
 sentence_translation: ˹And say,˺ “I had no knowledge of the highest assembly ˹in heaven˺
   when they differed ˹concerning Adam˺.
 word_by_word:
@@ -13,7 +12,7 @@ word_by_word:
     translation: is
     transliteration: kāna
   3:
-    arabic: لِىَ
+    arabic: لِيَ
     translation: for me
     transliteration: liya
   4:
@@ -21,23 +20,23 @@ word_by_word:
     translation: any
     transliteration: min
   5:
-    arabic: عِلۡمٍۢ
+    arabic: عِلۡمِۭ
     translation: knowledge
     transliteration: ʿil'min
   6:
-    arabic: بِالۡمَلَاِ
+    arabic: بِٱلۡمَلَإِ
     translation: (of) the chiefs
     transliteration: bil-mala-i
   7:
-    arabic: الۡاَعۡلٰٓى
+    arabic: ٱلۡأَعۡلَىٰٓ
     translation: the exalted
     transliteration: l-aʿlā
   8:
-    arabic: اِذۡ
+    arabic: إِذۡ
     translation: when
     transliteration: idh
   9:
-    arabic: "يَخۡتَصِمُوۡنَ‏ \uFEFF\uFEFF"
+    arabic: يَخۡتَصِمُونَ
     translation: they were disputing
     transliteration: yakhtaṣimūna
 ---

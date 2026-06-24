@@ -1,14 +1,14 @@
 ---
-arabic_ayat: ارۡجِعِىۡۤ اِلٰى رَبِّكِ رَاضِيَةً مَّرۡضِيَّةً​ ۚ‏
+arabic_ayat: ٱرۡجِعِيٓ إِلَىٰ رَبِّكِ رَاضِيَةٗ مَّرۡضِيَّةٗ
 sentence_translation: Return to your Lord, well pleased ˹with Him˺ and well pleasing
   ˹to Him˺.
 word_by_word:
   1:
-    arabic: ارۡجِعِىۡۤ
+    arabic: ٱرۡجِعِيٓ
     translation: Return
     transliteration: ir'jiʿī
   2:
-    arabic: اِلٰى
+    arabic: إِلَىٰ
     translation: to
     transliteration: ilā
   3:
@@ -16,11 +16,11 @@ word_by_word:
     translation: your Lord
     transliteration: rabbiki
   4:
-    arabic: رَاضِيَةً
+    arabic: رَاضِيَةٗ
     translation: well pleased
     transliteration: rāḍiyatan
   5:
-    arabic: مَّرۡضِيَّةً​ ۚ‏
+    arabic: مَّرۡضِيَّةٗ
     translation: and pleasing
     transliteration: marḍiyyatan
 ---

@@ -1,5 +1,5 @@
 ---
-arabic_ayat: وَقَوۡمُ اِبۡرٰهِيۡمَ وَقَوۡمُ لُوۡطٍ ۙ‏
+arabic_ayat: وَقَوۡمُ إِبۡرَٰهِيمَ وَقَوۡمُ لُوطٖ
 sentence_translation: the people of Abraham, the people of Lot,
 word_by_word:
   1:
@@ -7,7 +7,7 @@ word_by_word:
     translation: And (the) people
     transliteration: waqawmu
   2:
-    arabic: اِبۡرٰهِيۡمَ
+    arabic: إِبۡرَٰهِيمَ
     translation: (of) Ibrahim
     transliteration: ib'rāhīma
   3:
@@ -15,7 +15,7 @@ word_by_word:
     translation: and (the) people
     transliteration: waqawmu
   4:
-    arabic: لُوۡطٍ ۙ‏
+    arabic: لُوطٖ
     translation: (of) Lut
     transliteration: lūṭin
 ---

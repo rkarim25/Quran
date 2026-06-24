@@ -1,17 +1,17 @@
 ---
-arabic_ayat: كُلُّ الطَّعَامِ كَانَ حِلًّا لِّبَنِىۡۤ اِسۡرَآءِيۡلَ اِلَّا مَا حَرَّمَ
-  اِسۡرَآءِيۡلُ عَلٰى نَفۡسِهٖ مِنۡ قَبۡلِ اَنۡ تُنَزَّلَ التَّوۡرٰٮةُ ​ؕ قُلۡ فَاۡتُوۡا
-  بِالتَّوۡرٰٮةِ فَاتۡلُوۡهَاۤ اِنۡ كُنۡتُمۡ صٰدِقِيۡنَ‏
+arabic_ayat: ۞ كُلُّ ٱلطَّعَامِ كَانَ حِلّٗا لِّبَنِيٓ إِسۡرَٰٓءِيلَ إِلَّا مَا حَرَّمَ
+  إِسۡرَٰٓءِيلُ عَلَىٰ نَفۡسِهِۦ مِن قَبۡلِ أَن تُنَزَّلَ ٱلتَّوۡرَىٰةُۚ قُلۡ فَأۡتُواْ
+  بِٱلتَّوۡرَىٰةِ فَٱتۡلُوهَآ إِن كُنتُمۡ صَٰدِقِينَ
 sentence_translation: All food was lawful for the children of Israel, except what
   Israel made unlawful for himself before the Torah was revealed. Say, ˹O Prophet,˺
   “Bring the Torah and read it, if your claims are true.”
 word_by_word:
   1:
-    arabic: ۞ كُلُّ
+    arabic: ۞ كُلُّ
     translation: All
     transliteration: kullu
   2:
-    arabic: الطَّعَامِ
+    arabic: ٱلطَّعَامِ
     translation: '[the] food'
     transliteration: l-ṭaʿāmi
   3:
@@ -19,19 +19,19 @@ word_by_word:
     translation: was
     transliteration: kāna
   4:
-    arabic: حِلًّا
+    arabic: حِلّٗا
     translation: lawful
     transliteration: ḥillan
   5:
-    arabic: لِّبَنِىۡۤ
+    arabic: لِّبَنِيٓ
     translation: for (the) Children
     transliteration: libanī
   6:
-    arabic: اِسۡرَآءِيۡلَ
+    arabic: إِسۡرَٰٓءِيلَ
     translation: (of) Israel
     transliteration: is'rāīla
   7:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   8:
@@ -43,19 +43,19 @@ word_by_word:
     translation: made unlawful
     transliteration: ḥarrama
   10:
-    arabic: اِسۡرَآءِيۡلُ
+    arabic: إِسۡرَٰٓءِيلُ
     translation: Israel
     transliteration: is'rāīlu
   11:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: upon
     transliteration: ʿalā
   12:
-    arabic: نَفۡسِهٖ
+    arabic: نَفۡسِهِۦ
     translation: himself
     transliteration: nafsihi
   13:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   14:
@@ -63,7 +63,7 @@ word_by_word:
     translation: before
     transliteration: qabli
   15:
-    arabic: اَنۡ
+    arabic: أَن
     translation: '[that]'
     transliteration: an
   16:
@@ -71,7 +71,7 @@ word_by_word:
     translation: (was) revealed
     transliteration: tunazzala
   17:
-    arabic: التَّوۡرٰٮةُ ​ؕ
+    arabic: ٱلتَّوۡرَىٰةُۚ
     translation: the Taurat
     transliteration: l-tawrātu
   18:
@@ -79,27 +79,27 @@ word_by_word:
     translation: Say
     transliteration: qul
   19:
-    arabic: فَاۡتُوۡا
+    arabic: فَأۡتُواْ
     translation: So bring
     transliteration: fatū
   20:
-    arabic: بِالتَّوۡرٰٮةِ
+    arabic: بِٱلتَّوۡرَىٰةِ
     translation: the Taurat
     transliteration: bil-tawrāti
   21:
-    arabic: فَاتۡلُوۡهَاۤ
+    arabic: فَٱتۡلُوهَآ
     translation: and recite it
     transliteration: fa-it'lūhā
   22:
-    arabic: اِنۡ
+    arabic: إِن
     translation: if
     transliteration: in
   23:
-    arabic: كُنۡتُمۡ
+    arabic: كُنتُمۡ
     translation: you are
     transliteration: kuntum
   24:
-    arabic: صٰدِقِيۡنَ‏
+    arabic: صَٰدِقِينَ
     translation: truthful
     transliteration: ṣādiqīna
 ---

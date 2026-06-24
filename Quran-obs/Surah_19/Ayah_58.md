@@ -1,8 +1,8 @@
 ---
-arabic_ayat: اُولٰٓٮِٕكَ الَّذِيۡنَ اَنۡعَمَ اللّٰهُ عَلَيۡهِمۡ مِّنَ النَّبِيّٖنَ
-  مِنۡ ذُرِّيَّةِ اٰدَمَ وَمِمَّنۡ حَمَلۡنَا مَعَ نُوۡحٍ وَّمِنۡ ذُرِّيَّةِ اِبۡرٰهِيۡمَ
-  وَاِسۡرَآءِيۡلَ وَمِمَّنۡ هَدَيۡنَا وَاجۡتَبَيۡنَا​ ؕ اِذَا تُتۡلٰى عَلَيۡهِمۡ
-  اٰيٰتُ الرَّحۡمٰنِ خَرُّوۡا سُجَّدًا وَّبُكِيًّا ۩‏
+arabic_ayat: أُوْلَٰٓئِكَ ٱلَّذِينَ أَنۡعَمَ ٱللَّهُ عَلَيۡهِم مِّنَ ٱلنَّبِيِّـۧنَ
+  مِن ذُرِّيَّةِ ءَادَمَ وَمِمَّنۡ حَمَلۡنَا مَعَ نُوحٖ وَمِن ذُرِّيَّةِ إِبۡرَٰهِيمَ
+  وَإِسۡرَٰٓءِيلَ وَمِمَّنۡ هَدَيۡنَا وَٱجۡتَبَيۡنَآۚ إِذَا تُتۡلَىٰ عَلَيۡهِمۡ ءَايَٰتُ
+  ٱلرَّحۡمَٰنِ خَرُّواْۤ سُجَّدٗاۤ وَبُكِيّٗا۩
 sentence_translation: Those were ˹some of˺ the prophets who Allah has blessed from
   among the descendants of Adam, and of those We carried with Noah ˹in the Ark˺, and
   of the descendants of Abraham and Israel, and of those We ˹rightly˺ guided and chose.
@@ -10,23 +10,23 @@ sentence_translation: Those were ˹some of˺ the prophets who Allah has blessed 
   down, prostrating and weeping.
 word_by_word:
   1:
-    arabic: اُولٰٓٮِٕكَ
+    arabic: أُوْلَٰٓئِكَ
     translation: Those
     transliteration: ulāika
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: (were) the ones whom
     transliteration: alladhīna
   3:
-    arabic: اَنۡعَمَ
+    arabic: أَنۡعَمَ
     translation: Allah bestowed favor
     transliteration: anʿama
   4:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah bestowed favor
     transliteration: l-lahu
   5:
-    arabic: عَلَيۡهِمۡ
+    arabic: عَلَيۡهِم
     translation: upon them
     transliteration: ʿalayhim
   6:
@@ -34,19 +34,19 @@ word_by_word:
     translation: from (among)
     transliteration: mina
   7:
-    arabic: النَّبِيّٖنَ
+    arabic: ٱلنَّبِيِّـۧنَ
     translation: the Prophets
     transliteration: l-nabiyīna
   8:
-    arabic: مِنۡ
+    arabic: مِن
     translation: of
     transliteration: min
   9:
-    arabic: ذُرِّيَّةِ
+    arabic: ذُرِّيَّةِ ءَ
     translation: (the) offspring
     transliteration: dhurriyyati
   10:
-    arabic: اٰدَمَ
+    arabic: ادَمَ
     translation: (of) Adam
     transliteration: ādama
   11:
@@ -62,11 +62,11 @@ word_by_word:
     translation: with
     transliteration: maʿa
   14:
-    arabic: نُوۡحٍ
+    arabic: نُوحٖ
     translation: Nuh
     transliteration: nūḥin
   15:
-    arabic: وَّمِنۡ
+    arabic: وَمِن
     translation: and of
     transliteration: wamin
   16:
@@ -74,11 +74,11 @@ word_by_word:
     translation: (the) offspring
     transliteration: dhurriyyati
   17:
-    arabic: اِبۡرٰهِيۡمَ
+    arabic: إِبۡرَٰهِيمَ
     translation: (of) Ibrahim
     transliteration: ib'rāhīma
   18:
-    arabic: وَاِسۡرَآءِيۡلَ
+    arabic: وَإِسۡرَٰٓءِيلَ
     translation: and Israel
     transliteration: wa-is'rāīla
   19:
@@ -90,39 +90,39 @@ word_by_word:
     translation: We guided
     transliteration: hadaynā
   21:
-    arabic: وَاجۡتَبَيۡنَا​ ؕ
+    arabic: وَٱجۡتَبَيۡنَآۚ
     translation: and We chose
     transliteration: wa-ij'tabaynā
   22:
-    arabic: اِذَا
+    arabic: إِذَا
     translation: When
     transliteration: idhā
   23:
-    arabic: تُتۡلٰى
+    arabic: تُتۡلَىٰ
     translation: were recited
     transliteration: tut'lā
   24:
-    arabic: عَلَيۡهِمۡ
+    arabic: عَلَيۡهِمۡ ءَ
     translation: to them
     transliteration: ʿalayhim
   25:
-    arabic: اٰيٰتُ
+    arabic: ايَٰتُ
     translation: (the) Verses
     transliteration: āyātu
   26:
-    arabic: الرَّحۡمٰنِ
+    arabic: ٱلرَّحۡمَٰنِ
     translation: (of) the Most Gracious
     transliteration: l-raḥmāni
   27:
-    arabic: خَرُّوۡا
+    arabic: خَرُّواْۤ
     translation: they fell
     transliteration: kharrū
   28:
-    arabic: سُجَّدًا
+    arabic: سُجَّدٗاۤ
     translation: prostrating
     transliteration: sujjadan
   29:
-    arabic: وَّبُكِيًّا ۩
+    arabic: وَبُكِيّٗا۩
     translation: and weeping
     transliteration: wabukiyyan
 ---

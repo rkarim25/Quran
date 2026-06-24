@@ -1,21 +1,21 @@
 ---
-arabic_ayat: اِنَّـكُمۡ لَفِىۡ قَوۡلٍ مُّخۡتَلِفٍ ۙ‏
+arabic_ayat: إِنَّكُمۡ لَفِي قَوۡلٖ مُّخۡتَلِفٖ
 sentence_translation: Surely you are ˹lost˺ in conflicting views ˹regarding the truth˺.
 word_by_word:
   1:
-    arabic: اِنَّـكُمۡ
+    arabic: إِنَّكُمۡ
     translation: Indeed, you
     transliteration: innakum
   2:
-    arabic: لَفِىۡ
+    arabic: لَفِي
     translation: (are) surely in
     transliteration: lafī
   3:
-    arabic: قَوۡلٍ
+    arabic: قَوۡلٖ
     translation: a speech
     transliteration: qawlin
   4:
-    arabic: مُّخۡتَلِفٍ ۙ‏
+    arabic: مُّخۡتَلِفٖ
     translation: differing
     transliteration: mukh'talifin
 ---

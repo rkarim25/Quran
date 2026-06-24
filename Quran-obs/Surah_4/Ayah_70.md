@@ -1,14 +1,14 @@
 ---
-arabic_ayat: ذٰ لِكَ الۡـفَضۡلُ مِنَ اللّٰهِ​ ؕ وَكَفٰى بِاللّٰهِ عَلِيۡمًا‏
+arabic_ayat: ذَٰلِكَ ٱلۡفَضۡلُ مِنَ ٱللَّهِۚ وَكَفَىٰ بِٱللَّهِ عَلِيمٗا
 sentence_translation: This is Allah’s favour, and Allah fully knows ˹who deserves
   it˺.
 word_by_word:
   1:
-    arabic: ذٰ لِكَ
+    arabic: ذَٰلِكَ
     translation: That
     transliteration: dhālika
   2:
-    arabic: الۡـفَضۡلُ
+    arabic: ٱلۡفَضۡلُ
     translation: (is) the Bounty
     transliteration: l-faḍlu
   3:
@@ -16,19 +16,19 @@ word_by_word:
     translation: of
     transliteration: mina
   4:
-    arabic: اللّٰهِ​ ؕ
+    arabic: ٱللَّهِۚ
     translation: Allah
     transliteration: l-lahi
   5:
-    arabic: وَكَفٰى
+    arabic: وَكَفَىٰ
     translation: and sufficient
     transliteration: wakafā
   6:
-    arabic: بِاللّٰهِ
+    arabic: بِٱللَّهِ
     translation: Allah
     transliteration: bil-lahi
   7:
-    arabic: عَلِيۡمًا‏
+    arabic: عَلِيمٗا
     translation: (as) All-Knower
     transliteration: ʿalīman
 ---

@@ -1,19 +1,19 @@
 ---
-arabic_ayat: وَاِذَا قَرَاۡتَ الۡقُرۡاٰنَ جَعَلۡنَا بَيۡنَكَ وَبَيۡنَ الَّذِيۡنَ لَا
-  يُؤۡمِنُوۡنَ بِالۡاٰخِرَةِ حِجَابًا مَّسۡتُوۡرًا ۙ‏
+arabic_ayat: وَإِذَا قَرَأۡتَ ٱلۡقُرۡءَانَ جَعَلۡنَا بَيۡنَكَ وَبَيۡنَ ٱلَّذِينَ لَا
+  يُؤۡمِنُونَ بِٱلۡأٓخِرَةِ حِجَابٗا مَّسۡتُورٗا
 sentence_translation: When you ˹O Prophet˺ recite the Quran, We put a hidden barrier
   between you and those who do not believe in the Hereafter.
 word_by_word:
   1:
-    arabic: وَاِذَا
+    arabic: وَإِذَا
     translation: And when
     transliteration: wa-idhā
   2:
-    arabic: قَرَاۡتَ
+    arabic: قَرَأۡتَ
     translation: you recite
     transliteration: qarata
   3:
-    arabic: الۡقُرۡاٰنَ
+    arabic: ٱلۡقُرۡءَانَ
     translation: the Quran
     transliteration: l-qur'āna
   4:
@@ -29,7 +29,7 @@ word_by_word:
     translation: and between
     transliteration: wabayna
   7:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   8:
@@ -37,19 +37,19 @@ word_by_word:
     translation: (do) not
     transliteration: lā
   9:
-    arabic: يُؤۡمِنُوۡنَ
+    arabic: يُؤۡمِنُونَ
     translation: believe
     transliteration: yu'minūna
   10:
-    arabic: بِالۡاٰخِرَةِ
+    arabic: بِٱلۡأٓخِرَةِ
     translation: in the Hereafter
     transliteration: bil-ākhirati
   11:
-    arabic: حِجَابًا
+    arabic: حِجَابٗا
     translation: a barrier
     transliteration: ḥijāban
   12:
-    arabic: مَّسۡتُوۡرًا ۙ‏
+    arabic: مَّسۡتُورٗا
     translation: hidden
     transliteration: mastūran
 ---

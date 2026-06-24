@@ -1,36 +1,36 @@
 ---
-arabic_ayat: وَاِذَاۤ اَذَقۡنَا النَّاسَ رَحۡمَةً فَرِحُوۡا بِهَاؕ​ وَاِنۡ تُصِبۡهُمۡ
-  سَيِّئَةٌ ۢ بِمَا قَدَّمَتۡ اَيۡدِيۡهِمۡ اِذَا هُمۡ يَقۡنَطُوۡنَ‏
+arabic_ayat: وَإِذَآ أَذَقۡنَا ٱلنَّاسَ رَحۡمَةٗ فَرِحُواْ بِهَاۖ وَإِن تُصِبۡهُمۡ
+  سَيِّئَةُۢ بِمَا قَدَّمَتۡ أَيۡدِيهِمۡ إِذَا هُمۡ يَقۡنَطُونَ
 sentence_translation: If We give people a taste of mercy, they become prideful ˹because˺
   of it. But if they are afflicted with an evil for what their hands have done, they
   instantly fall into despair.
 word_by_word:
   1:
-    arabic: وَاِذَاۤ
+    arabic: وَإِذَآ
     translation: And when
     transliteration: wa-idhā
   2:
-    arabic: اَذَقۡنَا
+    arabic: أَذَقۡنَا
     translation: We cause people to taste
     transliteration: adhaqnā
   3:
-    arabic: النَّاسَ
+    arabic: ٱلنَّاسَ
     translation: We cause people to taste
     transliteration: l-nāsa
   4:
-    arabic: رَحۡمَةً
+    arabic: رَحۡمَةٗ
     translation: mercy
     transliteration: raḥmatan
   5:
-    arabic: فَرِحُوۡا
+    arabic: فَرِحُواْ
     translation: they rejoice
     transliteration: fariḥū
   6:
-    arabic: بِهَاؕ​
+    arabic: بِهَاۖ
     translation: therein
     transliteration: bihā
   7:
-    arabic: وَاِنۡ
+    arabic: وَإِن
     translation: But if
     transliteration: wa-in
   8:
@@ -38,7 +38,7 @@ word_by_word:
     translation: afflicts them
     transliteration: tuṣib'hum
   9:
-    arabic: سَيِّئَةٌ ۢ
+    arabic: سَيِّئَةُۢ
     translation: an evil
     transliteration: sayyi-atun
   10:
@@ -50,11 +50,11 @@ word_by_word:
     translation: have sent forth
     transliteration: qaddamat
   12:
-    arabic: اَيۡدِيۡهِمۡ
+    arabic: أَيۡدِيهِمۡ
     translation: their hands
     transliteration: aydīhim
   13:
-    arabic: اِذَا
+    arabic: إِذَا
     translation: behold
     transliteration: idhā
   14:
@@ -62,7 +62,7 @@ word_by_word:
     translation: They
     transliteration: hum
   15:
-    arabic: يَقۡنَطُوۡنَ‏
+    arabic: يَقۡنَطُونَ
     translation: despair
     transliteration: yaqnaṭūna
 ---

@@ -1,7 +1,7 @@
 ---
-arabic_ayat: "وَمَرۡيَمَ ابۡنَتَ عِمۡرٰنَ الَّتِىۡۤ اَحۡصَنَتۡ فَرۡجَهَا فَنَفَخۡنَا\
-  \ فِيۡهِ مِنۡ رُّوۡحِنَا وَصَدَّقَتۡ بِكَلِمٰتِ رَبِّهَا وَكُتُبِهٖ وَكَانَتۡ مِنَ\
-  \ الۡقٰنِتِيۡنَ‏ \uFEFF\uFEFF"
+arabic_ayat: وَمَرۡيَمَ ٱبۡنَتَ عِمۡرَٰنَ ٱلَّتِيٓ أَحۡصَنَتۡ فَرۡجَهَا فَنَفَخۡنَا
+  فِيهِ مِن رُّوحِنَا وَصَدَّقَتۡ بِكَلِمَٰتِ رَبِّهَا وَكُتُبِهِۦ وَكَانَتۡ مِنَ
+  ٱلۡقَٰنِتِينَ
 sentence_translation: ˹There is˺ also ˹the example of˺ Mary, the daughter of ’Imrân,
   who guarded her chastity, so We breathed into her ˹womb˺ through Our angel ˹Gabriel˺. She
   testified to the words of her Lord and His Scriptures, and was one of the ˹sincerely˺
@@ -12,19 +12,19 @@ word_by_word:
     translation: And Maryam
     transliteration: wamaryama
   2:
-    arabic: ابۡنَتَ
+    arabic: ٱبۡنَتَ
     translation: (the) daughter
     transliteration: ib'nata
   3:
-    arabic: عِمۡرٰنَ
+    arabic: عِمۡرَٰنَ
     translation: (of) Imran
     transliteration: ʿim'rāna
   4:
-    arabic: الَّتِىۡۤ
+    arabic: ٱلَّتِيٓ
     translation: who
     transliteration: allatī
   5:
-    arabic: اَحۡصَنَتۡ
+    arabic: أَحۡصَنَتۡ
     translation: guarded
     transliteration: aḥṣanat
   6:
@@ -36,15 +36,15 @@ word_by_word:
     translation: so We breathed
     transliteration: fanafakhnā
   8:
-    arabic: فِيۡهِ
+    arabic: فِيهِ
     translation: into it
     transliteration: fīhi
   9:
-    arabic: مِنۡ
+    arabic: مِن
     translation: of
     transliteration: min
   10:
-    arabic: رُّوۡحِنَا
+    arabic: رُّوحِنَا
     translation: Our Spirit
     transliteration: rūḥinā
   11:
@@ -52,7 +52,7 @@ word_by_word:
     translation: And she believed
     transliteration: waṣaddaqat
   12:
-    arabic: بِكَلِمٰتِ
+    arabic: بِكَلِمَٰتِ
     translation: (in the) Words
     transliteration: bikalimāti
   13:
@@ -60,7 +60,7 @@ word_by_word:
     translation: (of) her Lord
     transliteration: rabbihā
   14:
-    arabic: وَكُتُبِهٖ
+    arabic: وَكُتُبِهِۦ
     translation: and His Books
     transliteration: wakutubihi
   15:
@@ -72,7 +72,7 @@ word_by_word:
     translation: of
     transliteration: mina
   17:
-    arabic: "الۡقٰنِتِيۡنَ‏ \uFEFF\uFEFF"
+    arabic: ٱلۡقَٰنِتِينَ
     translation: the devoutly obedient
     transliteration: l-qānitīna
 ---

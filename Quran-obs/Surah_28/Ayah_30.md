@@ -1,49 +1,48 @@
 ---
-arabic_ayat: فَلَمَّاۤ اَتٰٮهَا نُوۡدِىَ مِنۡ شَاطِیٴِ الۡوَادِ الۡاَيۡمَنِ فِى الۡبُقۡعَةِ
-  الۡمُبٰرَكَةِ مِنَ الشَّجَرَةِ اَنۡ يّٰمُوۡسٰٓى اِنِّىۡۤ اَنَا اللّٰهُ رَبُّ الۡعٰلَمِيۡنَ
-  ۙ‏
+arabic_ayat: فَلَمَّآ أَتَىٰهَا نُودِيَ مِن شَٰطِيِٕ ٱلۡوَادِ ٱلۡأَيۡمَنِ فِي ٱلۡبُقۡعَةِ
+  ٱلۡمُبَٰرَكَةِ مِنَ ٱلشَّجَرَةِ أَن يَٰمُوسَىٰٓ إِنِّيٓ أَنَا ٱللَّهُ رَبُّ ٱلۡعَٰلَمِينَ
 sentence_translation: 'But when he came to it, he was called from the bush in the
   sacred ground to the right side of the valley: “O Moses! It is truly I. I am Allah—the
   Lord of all worlds.'
 word_by_word:
   1:
-    arabic: فَلَمَّاۤ
+    arabic: فَلَمَّآ
     translation: But when
     transliteration: falammā
   2:
-    arabic: اَتٰٮهَا
+    arabic: أَتَىٰهَا
     translation: he came (to) it
     transliteration: atāhā
   3:
-    arabic: نُوۡدِىَ
+    arabic: نُودِيَ
     translation: he was called
     transliteration: nūdiya
   4:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   5:
-    arabic: شَاطِیٴِ
+    arabic: شَٰطِيِٕ
     translation: (the) side
     transliteration: shāṭi-i
   6:
-    arabic: الۡوَادِ
+    arabic: ٱلۡوَادِ
     translation: '(of) the valley '
     transliteration: l-wādi
   7:
-    arabic: الۡاَيۡمَنِ
+    arabic: ٱلۡأَيۡمَنِ
     translation: the right
     transliteration: l-aymani
   8:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   9:
-    arabic: الۡبُقۡعَةِ
+    arabic: ٱلۡبُقۡعَةِ
     translation: the place even
     transliteration: l-buq'ʿati
   10:
-    arabic: الۡمُبٰرَكَةِ
+    arabic: ٱلۡمُبَٰرَكَةِ
     translation: blessed
     transliteration: l-mubārakati
   11:
@@ -51,27 +50,27 @@ word_by_word:
     translation: from
     transliteration: mina
   12:
-    arabic: الشَّجَرَةِ
+    arabic: ٱلشَّجَرَةِ
     translation: the tree
     transliteration: l-shajarati
   13:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that
     transliteration: an
   14:
-    arabic: يّٰمُوۡسٰٓى
+    arabic: يَٰمُوسَىٰٓ
     translation: O Musa
     transliteration: yāmūsā
   15:
-    arabic: اِنِّىۡۤ
+    arabic: إِنِّيٓ
     translation: Indeed
     transliteration: innī
   16:
-    arabic: اَنَا
+    arabic: أَنَا
     translation: I Am
     transliteration: anā
   17:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   18:
@@ -79,7 +78,7 @@ word_by_word:
     translation: (the) Lord
     transliteration: rabbu
   19:
-    arabic: الۡعٰلَمِيۡنَ ۙ‏
+    arabic: ٱلۡعَٰلَمِينَ
     translation: (of) the worlds
     transliteration: l-ʿālamīna
 ---

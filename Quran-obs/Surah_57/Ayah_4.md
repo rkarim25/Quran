@@ -1,8 +1,8 @@
 ---
-arabic_ayat: هُوَ الَّذِىۡ خَلَقَ السَّمٰوٰتِ وَالۡاَرۡضَ فِىۡ سِتَّةِ اَيَّامٍ ثُمَّ
-  اسۡتَوٰى عَلَى الۡعَرۡشِ​ؕ يَعۡلَمُ مَا يَلِجُ فِى الۡاَرۡضِ وَمَا يَخۡرُجُ مِنۡهَا
-  وَمَا يَنۡزِلُ مِنَ السَّمَآءِ وَمَا يَعۡرُجُ فِيۡهَاؕ وَهُوَ مَعَكُمۡ اَيۡنَ مَا
-  كُنۡتُمۡ​ؕ وَاللّٰهُ بِمَا تَعۡمَلُوۡنَ بَصِيۡرٌ‏
+arabic_ayat: هُوَ ٱلَّذِي خَلَقَ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضَ فِي سِتَّةِ أَيَّامٖ ثُمَّ
+  ٱسۡتَوَىٰ عَلَى ٱلۡعَرۡشِۖ يَعۡلَمُ مَا يَلِجُ فِي ٱلۡأَرۡضِ وَمَا يَخۡرُجُ مِنۡهَا
+  وَمَا يَنزِلُ مِنَ ٱلسَّمَآءِ وَمَا يَعۡرُجُ فِيهَاۖ وَهُوَ مَعَكُمۡ أَيۡنَ مَا
+  كُنتُمۡۚ وَٱللَّهُ بِمَا تَعۡمَلُونَ بَصِيرٞ
 sentence_translation: He is the One Who created the heavens and the earth in six Days, then
   established Himself on the Throne. He knows whatever goes into the earth and whatever
   comes out of it, and whatever descends from the sky and whatever ascends into it.
@@ -13,7 +13,7 @@ word_by_word:
     translation: He
     transliteration: huwa
   2:
-    arabic: الَّذِىۡ
+    arabic: ٱلَّذِي
     translation: (is) the One Who
     transliteration: alladhī
   3:
@@ -21,15 +21,15 @@ word_by_word:
     translation: created
     transliteration: khalaqa
   4:
-    arabic: السَّمٰوٰتِ
+    arabic: ٱلسَّمَٰوَٰتِ
     translation: the heavens
     transliteration: l-samāwāti
   5:
-    arabic: وَالۡاَرۡضَ
+    arabic: وَٱلۡأَرۡضَ
     translation: and the earth
     transliteration: wal-arḍa
   6:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   7:
@@ -37,7 +37,7 @@ word_by_word:
     translation: six
     transliteration: sittati
   8:
-    arabic: اَيَّامٍ
+    arabic: أَيَّامٖ
     translation: periods
     transliteration: ayyāmin
   9:
@@ -45,7 +45,7 @@ word_by_word:
     translation: then
     transliteration: thumma
   10:
-    arabic: اسۡتَوٰى
+    arabic: ٱسۡتَوَىٰ
     translation: He rose
     transliteration: is'tawā
   11:
@@ -53,7 +53,7 @@ word_by_word:
     translation: over
     transliteration: ʿalā
   12:
-    arabic: الۡعَرۡشِ​ؕ
+    arabic: ٱلۡعَرۡشِۖ
     translation: the Throne
     transliteration: l-ʿarshi
   13:
@@ -69,11 +69,11 @@ word_by_word:
     translation: penetrates
     transliteration: yaliju
   16:
-    arabic: فِى
+    arabic: فِي
     translation: in(to)
     transliteration: fī
   17:
-    arabic: الۡاَرۡضِ
+    arabic: ٱلۡأَرۡضِ
     translation: the earth
     transliteration: l-arḍi
   18:
@@ -93,7 +93,7 @@ word_by_word:
     translation: and what
     transliteration: wamā
   22:
-    arabic: يَنۡزِلُ
+    arabic: يَنزِلُ
     translation: descends
     transliteration: yanzilu
   23:
@@ -101,7 +101,7 @@ word_by_word:
     translation: from
     transliteration: mina
   24:
-    arabic: السَّمَآءِ
+    arabic: ٱلسَّمَآءِ
     translation: the heaven
     transliteration: l-samāi
   25:
@@ -113,7 +113,7 @@ word_by_word:
     translation: ascends
     transliteration: yaʿruju
   27:
-    arabic: فِيۡهَاؕ
+    arabic: فِيهَاۖ
     translation: therein
     transliteration: fīhā
   28:
@@ -125,7 +125,7 @@ word_by_word:
     translation: (is) with you
     transliteration: maʿakum
   30:
-    arabic: اَيۡنَ
+    arabic: أَيۡنَ
     translation: wherever
     transliteration: ayna
   31:
@@ -133,11 +133,11 @@ word_by_word:
     translation: wherever
     transliteration: mā
   32:
-    arabic: كُنۡتُمۡ​ؕ
+    arabic: كُنتُمۡۚ
     translation: you are
     transliteration: kuntum
   33:
-    arabic: وَاللّٰهُ
+    arabic: وَٱللَّهُ
     translation: And Allah
     transliteration: wal-lahu
   34:
@@ -145,11 +145,11 @@ word_by_word:
     translation: of what
     transliteration: bimā
   35:
-    arabic: تَعۡمَلُوۡنَ
+    arabic: تَعۡمَلُونَ
     translation: you do
     transliteration: taʿmalūna
   36:
-    arabic: بَصِيۡرٌ‏
+    arabic: بَصِيرٞ
     translation: (is) All-seer
     transliteration: baṣīrun
 ---

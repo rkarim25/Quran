@@ -1,6 +1,6 @@
 ---
-arabic_ayat: رَبَّنَا لَا تَجۡعَلۡنَا فِتۡنَةً لِّلَّذِيۡنَ كَفَرُوۡا وَاغۡفِرۡ لَـنَا
-  رَبَّنَا​ ۚ اِنَّكَ اَنۡتَ الۡعَزِيۡزُ الۡحَكِيۡمُ‏
+arabic_ayat: رَبَّنَا لَا تَجۡعَلۡنَا فِتۡنَةٗ لِّلَّذِينَ كَفَرُواْ وَٱغۡفِرۡ لَنَا
+  رَبَّنَآۖ إِنَّكَ أَنتَ ٱلۡعَزِيزُ ٱلۡحَكِيمُ
 sentence_translation: Our Lord! Do not subject us to the persecution of the disbelievers.
   Forgive us, our Lord! You ˹alone˺ are truly the Almighty, All-Wise.”
 word_by_word:
@@ -17,43 +17,43 @@ word_by_word:
     translation: make us
     transliteration: tajʿalnā
   4:
-    arabic: فِتۡنَةً
+    arabic: فِتۡنَةٗ
     translation: a trial
     transliteration: fit'natan
   5:
-    arabic: لِّلَّذِيۡنَ
+    arabic: لِّلَّذِينَ
     translation: for those who
     transliteration: lilladhīna
   6:
-    arabic: كَفَرُوۡا
+    arabic: كَفَرُواْ
     translation: disbelieve
     transliteration: kafarū
   7:
-    arabic: وَاغۡفِرۡ
+    arabic: وَٱغۡفِرۡ
     translation: and forgive
     transliteration: wa-igh'fir
   8:
-    arabic: لَـنَا
+    arabic: لَنَا
     translation: us
     transliteration: lanā
   9:
-    arabic: رَبَّنَا​ ۚ
+    arabic: رَبَّنَآۖ
     translation: our Lord
     transliteration: rabbanā
   10:
-    arabic: اِنَّكَ
+    arabic: إِنَّكَ
     translation: Indeed You
     transliteration: innaka
   11:
-    arabic: اَنۡتَ
+    arabic: أَنتَ
     translation: '[You]'
     transliteration: anta
   12:
-    arabic: الۡعَزِيۡزُ
+    arabic: ٱلۡعَزِيزُ
     translation: (are) the All-Mighty
     transliteration: l-ʿazīzu
   13:
-    arabic: الۡحَكِيۡمُ‏
+    arabic: ٱلۡحَكِيمُ
     translation: the All-Wise
     transliteration: l-ḥakīmu
 ---

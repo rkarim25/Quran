@@ -1,6 +1,6 @@
 ---
-arabic_ayat: وَهُوَ الَّذِىۡ فِى السَّمَآءِ اِلٰـهٌ وَّفِى الۡاَرۡضِ اِلٰـهٌ​ ؕ وَهُوَ
-  الۡحَكِيۡمُ الۡعَلِيۡمُ‏
+arabic_ayat: وَهُوَ ٱلَّذِي فِي ٱلسَّمَآءِ إِلَٰهٞ وَفِي ٱلۡأَرۡضِ إِلَٰهٞۚ وَهُوَ
+  ٱلۡحَكِيمُ ٱلۡعَلِيمُ
 sentence_translation: It is He Who is ˹the only˺ God in the heavens and ˹the only˺
   God on the earth. For He is the All-Wise, All-Knowing.
 word_by_word:
@@ -9,31 +9,31 @@ word_by_word:
     translation: And He
     transliteration: wahuwa
   2:
-    arabic: الَّذِىۡ
+    arabic: ٱلَّذِي
     translation: (is) the One Who
     transliteration: alladhī
   3:
-    arabic: فِى
+    arabic: فِي
     translation: (is) in
     transliteration: fī
   4:
-    arabic: السَّمَآءِ
+    arabic: ٱلسَّمَآءِ
     translation: 'the heaven '
     transliteration: l-samāi
   5:
-    arabic: اِلٰـهٌ
+    arabic: إِلَٰهٞ
     translation: God
     transliteration: ilāhun
   6:
-    arabic: وَّفِى
+    arabic: وَفِي
     translation: and in
     transliteration: wafī
   7:
-    arabic: الۡاَرۡضِ
+    arabic: ٱلۡأَرۡضِ
     translation: 'the earth '
     transliteration: l-arḍi
   8:
-    arabic: اِلٰـهٌ​ ؕ
+    arabic: إِلَٰهٞۚ
     translation: God
     transliteration: ilāhun
   9:
@@ -41,11 +41,11 @@ word_by_word:
     translation: And He
     transliteration: wahuwa
   10:
-    arabic: الۡحَكِيۡمُ
+    arabic: ٱلۡحَكِيمُ
     translation: (is) the All-Wise
     transliteration: l-ḥakīmu
   11:
-    arabic: الۡعَلِيۡمُ‏
+    arabic: ٱلۡعَلِيمُ
     translation: the All-Knower
     transliteration: l-ʿalīmu
 ---

@@ -1,10 +1,10 @@
 ---
-arabic_ayat: اِنَّهٗ لَقَوۡلُ رَسُوۡلٍ كَرِيۡمٍۙ‏
+arabic_ayat: إِنَّهُۥ لَقَوۡلُ رَسُولٖ كَرِيمٖ
 sentence_translation: Indeed, this ˹Quran˺ is the Word of ˹Allah delivered by Gabriel,˺
   a noble messenger-angel,
 word_by_word:
   1:
-    arabic: اِنَّهٗ
+    arabic: إِنَّهُۥ
     translation: Indeed, it
     transliteration: innahu
   2:
@@ -12,11 +12,11 @@ word_by_word:
     translation: (is) surely a word
     transliteration: laqawlu
   3:
-    arabic: رَسُوۡلٍ
+    arabic: رَسُولٖ
     translation: (of) a Messenger
     transliteration: rasūlin
   4:
-    arabic: كَرِيۡمٍۙ‏
+    arabic: كَرِيمٖ
     translation: noble
     transliteration: karīmin
 ---

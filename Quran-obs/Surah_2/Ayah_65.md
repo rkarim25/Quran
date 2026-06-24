@@ -1,6 +1,6 @@
 ---
-arabic_ayat: وَلَقَدۡ عَلِمۡتُمُ الَّذِيۡنَ اعۡتَدَوۡا مِنۡكُمۡ فِىۡ السَّبۡتِ فَقُلۡنَا
-  لَهُمۡ كُوۡنُوۡا قِرَدَةً خَاسِـِٔـيۡنَ ​ۚ‏
+arabic_ayat: وَلَقَدۡ عَلِمۡتُمُ ٱلَّذِينَ ٱعۡتَدَوۡاْ مِنكُمۡ فِي ٱلسَّبۡتِ فَقُلۡنَا
+  لَهُمۡ كُونُواْ قِرَدَةً خَٰسِـِٔينَ
 sentence_translation: You are already aware of those of you who broke the Sabbath.
   We said to them, “Be disgraced apes!”
 word_by_word:
@@ -13,23 +13,23 @@ word_by_word:
     translation: you knew
     transliteration: ʿalim'tumu
   3:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   4:
-    arabic: اعۡتَدَوۡا
+    arabic: ٱعۡتَدَوۡاْ
     translation: transgressed
     transliteration: iʿ'tadaw
   5:
-    arabic: مِنۡكُمۡ
+    arabic: مِنكُمۡ
     translation: among you
     transliteration: minkum
   6:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   7:
-    arabic: السَّبۡتِ
+    arabic: ٱلسَّبۡتِ
     translation: the (matter of) Sabbath
     transliteration: l-sabti
   8:
@@ -41,7 +41,7 @@ word_by_word:
     translation: to them
     transliteration: lahum
   10:
-    arabic: كُوۡنُوۡا
+    arabic: كُونُواْ
     translation: Be
     transliteration: kūnū
   11:
@@ -49,7 +49,7 @@ word_by_word:
     translation: apes
     transliteration: qiradatan
   12:
-    arabic: خَاسِـِٔـيۡنَ ​ۚ‏
+    arabic: خَٰسِـِٔينَ
     translation: despised
     transliteration: khāsiīna
 ---

@@ -1,7 +1,7 @@
 ---
-arabic_ayat: قُلۡ اَرَءَيۡتُمۡ اِنۡ اَخَذَ اللّٰهُ سَمۡعَكُمۡ وَ اَبۡصَارَكُمۡ وَخَتَمَ
-  عَلٰى قُلُوۡبِكُمۡ مَّنۡ اِلٰـهٌ غَيۡرُ اللّٰهِ يَاۡتِيۡكُمۡ بِهؕ اُنْظُرۡ كَيۡفَ
-  نُصَرِّفُ الۡاٰيٰتِ ثُمَّ هُمۡ يَصۡدِفُوۡنَ‏
+arabic_ayat: قُلۡ أَرَءَيۡتُمۡ إِنۡ أَخَذَ ٱللَّهُ سَمۡعَكُمۡ وَأَبۡصَٰرَكُمۡ وَخَتَمَ
+  عَلَىٰ قُلُوبِكُم مَّنۡ إِلَٰهٌ غَيۡرُ ٱللَّهِ يَأۡتِيكُم بِهِۗ ٱنظُرۡ كَيۡفَ نُصَرِّفُ
+  ٱلۡأٓيَٰتِ ثُمَّ هُمۡ يَصۡدِفُونَ
 sentence_translation: Ask ˹them, O  Prophet˺, “Imagine if Allah were to take away
   your hearing or sight, or seal your hearts—who else other than Allah could restore
   it?” See ˹O Prophet˺ how We vary the signs, yet they still turn away.
@@ -11,19 +11,19 @@ word_by_word:
     translation: Say
     transliteration: qul
   2:
-    arabic: اَرَءَيۡتُمۡ
+    arabic: أَرَءَيۡتُمۡ
     translation: Have you seen
     transliteration: ara-aytum
   3:
-    arabic: اِنۡ
+    arabic: إِنۡ
     translation: if
     transliteration: in
   4:
-    arabic: اَخَذَ
+    arabic: أَخَذَ
     translation: took away
     transliteration: akhadha
   5:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   6:
@@ -31,7 +31,7 @@ word_by_word:
     translation: your hearing
     transliteration: samʿakum
   7:
-    arabic: وَ اَبۡصَارَكُمۡ
+    arabic: وَأَبۡصَٰرَكُمۡ
     translation: and your sight
     transliteration: wa-abṣārakum
   8:
@@ -39,11 +39,11 @@ word_by_word:
     translation: and sealed
     transliteration: wakhatama
   9:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: '[on]'
     transliteration: ʿalā
   10:
-    arabic: قُلُوۡبِكُمۡ
+    arabic: قُلُوبِكُم
     translation: your hearts
     transliteration: qulūbikum
   11:
@@ -51,7 +51,7 @@ word_by_word:
     translation: who
     transliteration: man
   12:
-    arabic: اِلٰـهٌ
+    arabic: إِلَٰهٌ
     translation: (is the) god
     transliteration: ilāhun
   13:
@@ -59,19 +59,19 @@ word_by_word:
     translation: other than
     transliteration: ghayru
   14:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   15:
-    arabic: يَاۡتِيۡكُمۡ
+    arabic: يَأۡتِيكُم
     translation: to bring [back] to you
     transliteration: yatīkum
   16:
-    arabic: بِهؕ
+    arabic: بِهِۗ
     translation: with it
     transliteration: bihi
   17:
-    arabic: اُنْظُرۡ
+    arabic: ٱنظُرۡ
     translation: See
     transliteration: unẓur
   18:
@@ -83,7 +83,7 @@ word_by_word:
     translation: We explain
     transliteration: nuṣarrifu
   20:
-    arabic: الۡاٰيٰتِ
+    arabic: ٱلۡأٓيَٰتِ
     translation: the Signs
     transliteration: l-āyāti
   21:
@@ -95,7 +95,7 @@ word_by_word:
     translation: they
     transliteration: hum
   23:
-    arabic: يَصۡدِفُوۡنَ‏
+    arabic: يَصۡدِفُونَ
     translation: turn away
     transliteration: yaṣdifūna
 ---

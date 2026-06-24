@@ -1,10 +1,10 @@
 ---
-arabic_ayat: هٰذَا عَطَآؤُنَا فَامۡنُنۡ اَوۡ اَمۡسِكۡ بِغَيۡرِ حِسَابٍ‏
+arabic_ayat: هَٰذَا عَطَآؤُنَا فَٱمۡنُنۡ أَوۡ أَمۡسِكۡ بِغَيۡرِ حِسَابٖ
 sentence_translation: ˹Allah said,˺ “This is Our gift, so give or withhold ˹as you
   wish˺, never to be called to account.”
 word_by_word:
   1:
-    arabic: هٰذَا
+    arabic: هَٰذَا
     translation: This
     transliteration: hādhā
   2:
@@ -12,15 +12,15 @@ word_by_word:
     translation: (is) Our gift
     transliteration: ʿaṭāunā
   3:
-    arabic: فَامۡنُنۡ
+    arabic: فَٱمۡنُنۡ
     translation: so grant
     transliteration: fa-um'nun
   4:
-    arabic: اَوۡ
+    arabic: أَوۡ
     translation: or
     transliteration: aw
   5:
-    arabic: اَمۡسِكۡ
+    arabic: أَمۡسِكۡ
     translation: withhold
     transliteration: amsik
   6:
@@ -28,7 +28,7 @@ word_by_word:
     translation: without
     transliteration: bighayri
   7:
-    arabic: حِسَابٍ‏
+    arabic: حِسَابٖ
     translation: account
     transliteration: ḥisābin
 ---

@@ -1,9 +1,9 @@
 ---
-arabic_ayat: وَاَزۡلَـفۡنَا ثَمَّ الۡاٰخَرِيۡنَ​ۚ‏
+arabic_ayat: وَأَزۡلَفۡنَا ثَمَّ ٱلۡأٓخَرِينَ
 sentence_translation: We drew the pursuers to that place,
 word_by_word:
   1:
-    arabic: وَاَزۡلَـفۡنَا
+    arabic: وَأَزۡلَفۡنَا
     translation: And We brought near
     transliteration: wa-azlafnā
   2:
@@ -11,7 +11,7 @@ word_by_word:
     translation: there
     transliteration: thamma
   3:
-    arabic: الۡاٰخَرِيۡنَ​ۚ‏
+    arabic: ٱلۡأٓخَرِينَ
     translation: the others
     transliteration: l-ākharīna
 ---

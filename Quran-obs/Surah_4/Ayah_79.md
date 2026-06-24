@@ -1,17 +1,16 @@
 ---
-arabic_ayat: "مَاۤ اَصَابَكَ مِنۡ حَسَنَةٍ فَمِنَ اللّٰهِ​ وَمَاۤ اَصَابَكَ مِنۡ\
-  \ سَيِّئَةٍ فَمِنۡ نَّـفۡسِكَ​ ؕ وَاَرۡسَلۡنٰكَ لِلنَّاسِ رَسُوۡلًا​ ؕ وَكَفٰى بِاللّٰهِ\
-  \ شَهِيۡدًا‏ \uFEFF\uFEFF"
+arabic_ayat: مَّآ أَصَابَكَ مِنۡ حَسَنَةٖ فَمِنَ ٱللَّهِۖ وَمَآ أَصَابَكَ مِن سَيِّئَةٖ
+  فَمِن نَّفۡسِكَۚ وَأَرۡسَلۡنَٰكَ لِلنَّاسِ رَسُولٗاۚ وَكَفَىٰ بِٱللَّهِ شَهِيدٗا
 sentence_translation: Whatever good befalls you is from Allah and whatever evil befalls
   you is from yourself. We have sent you ˹O Prophet˺ as a messenger to ˹all˺ people.
   And Allah is sufficient as a Witness.
 word_by_word:
   1:
-    arabic: مَاۤ
+    arabic: مَّآ
     translation: What(ever)
     transliteration: mā
   2:
-    arabic: اَصَابَكَ
+    arabic: أَصَابَكَ
     translation: befalls you
     transliteration: aṣābaka
   3:
@@ -19,7 +18,7 @@ word_by_word:
     translation: of
     transliteration: min
   4:
-    arabic: حَسَنَةٍ
+    arabic: حَسَنَةٖ
     translation: (the) good
     transliteration: ḥasanatin
   5:
@@ -27,35 +26,35 @@ word_by_word:
     translation: (is) from
     transliteration: famina
   6:
-    arabic: اللّٰهِ​
+    arabic: ٱللَّهِۖ
     translation: Allah
     transliteration: l-lahi
   7:
-    arabic: وَمَاۤ
+    arabic: وَمَآ
     translation: and whatever
     transliteration: wamā
   8:
-    arabic: اَصَابَكَ
+    arabic: أَصَابَكَ
     translation: befalls you
     transliteration: aṣābaka
   9:
-    arabic: مِنۡ
+    arabic: مِن
     translation: of
     transliteration: min
   10:
-    arabic: سَيِّئَةٍ
+    arabic: سَيِّئَةٖ
     translation: (the) evil
     transliteration: sayyi-atin
   11:
-    arabic: فَمِنۡ
+    arabic: فَمِن
     translation: (is) from
     transliteration: famin
   12:
-    arabic: نَّـفۡسِكَ​ ؕ
+    arabic: نَّفۡسِكَۚ
     translation: yourself
     transliteration: nafsika
   13:
-    arabic: وَاَرۡسَلۡنٰكَ
+    arabic: وَأَرۡسَلۡنَٰكَ
     translation: And We have sent you
     transliteration: wa-arsalnāka
   14:
@@ -63,19 +62,19 @@ word_by_word:
     translation: for the people
     transliteration: lilnnāsi
   15:
-    arabic: رَسُوۡلًا​ ؕ
+    arabic: رَسُولٗاۚ
     translation: (as) a Messenger
     transliteration: rasūlan
   16:
-    arabic: وَكَفٰى
+    arabic: وَكَفَىٰ
     translation: and is sufficient
     transliteration: wakafā
   17:
-    arabic: بِاللّٰهِ
+    arabic: بِٱللَّهِ
     translation: Allah
     transliteration: bil-lahi
   18:
-    arabic: "شَهِيۡدًا‏ \uFEFF\uFEFF"
+    arabic: شَهِيدٗا
     translation: (as) a Witness
     transliteration: shahīdan
 ---

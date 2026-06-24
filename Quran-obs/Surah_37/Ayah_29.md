@@ -1,13 +1,13 @@
 ---
-arabic_ayat: قَالُوۡا بَلْ لَّمۡ تَكُوۡنُوۡا مُؤۡمِنِيۡنَ​ۚ‏
+arabic_ayat: قَالُواْ بَل لَّمۡ تَكُونُواْ مُؤۡمِنِينَ
 sentence_translation: The misleaders will reply, “No! You disbelieved on your own.
 word_by_word:
   1:
-    arabic: قَالُوۡا
+    arabic: قَالُواْ
     translation: They will say
     transliteration: qālū
   2:
-    arabic: بَلْ
+    arabic: بَل
     translation: Nay
     transliteration: bal
   3:
@@ -15,11 +15,11 @@ word_by_word:
     translation: not
     transliteration: lam
   4:
-    arabic: تَكُوۡنُوۡا
+    arabic: تَكُونُواْ
     translation: you were
     transliteration: takūnū
   5:
-    arabic: مُؤۡمِنِيۡنَ​ۚ‏
+    arabic: مُؤۡمِنِينَ
     translation: believers
     transliteration: mu'minīna
 ---

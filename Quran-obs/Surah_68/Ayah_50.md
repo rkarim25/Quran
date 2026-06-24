@@ -1,17 +1,17 @@
 ---
-arabic_ayat: فَاجۡتَبٰهُ رَبُّهٗ فَجَعَلَهٗ مِنَ الصّٰلِحِيۡنَ‏
+arabic_ayat: فَٱجۡتَبَٰهُ رَبُّهُۥ فَجَعَلَهُۥ مِنَ ٱلصَّٰلِحِينَ
 sentence_translation: Then his Lord chose him, making him one of the righteous.
 word_by_word:
   1:
-    arabic: فَاجۡتَبٰهُ
+    arabic: فَٱجۡتَبَٰهُ
     translation: But chose him
     transliteration: fa-ij'tabāhu
   2:
-    arabic: رَبُّهٗ
+    arabic: رَبُّهُۥ
     translation: his Lord
     transliteration: rabbuhu
   3:
-    arabic: فَجَعَلَهٗ
+    arabic: فَجَعَلَهُۥ
     translation: and made him
     transliteration: fajaʿalahu
   4:
@@ -19,7 +19,7 @@ word_by_word:
     translation: of
     transliteration: mina
   5:
-    arabic: الصّٰلِحِيۡنَ‏
+    arabic: ٱلصَّٰلِحِينَ
     translation: the righteous
     transliteration: l-ṣāliḥīna
 ---

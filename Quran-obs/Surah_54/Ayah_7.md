@@ -1,6 +1,6 @@
 ---
-arabic_ayat: خُشَّعًا اَبۡصَارُهُمۡ يَخۡرُجُوۡنَ مِنَ الۡاَجۡدَاثِ كَاَنَّهُمۡ جَرَادٌ
-  مُّنۡتَشِرٌۙ‏
+arabic_ayat: خُشَّعًا أَبۡصَٰرُهُمۡ يَخۡرُجُونَ مِنَ ٱلۡأَجۡدَاثِ كَأَنَّهُمۡ جَرَادٞ
+  مُّنتَشِرٞ
 sentence_translation: With eyes downcast, they will come forth from the graves as
   if they were swarming locusts,
 word_by_word:
@@ -9,11 +9,11 @@ word_by_word:
     translation: (Will be) humbled
     transliteration: khushaʿan
   2:
-    arabic: اَبۡصَارُهُمۡ
+    arabic: أَبۡصَٰرُهُمۡ
     translation: their eyes
     transliteration: abṣāruhum
   3:
-    arabic: يَخۡرُجُوۡنَ
+    arabic: يَخۡرُجُونَ
     translation: they will come forth
     transliteration: yakhrujūna
   4:
@@ -21,19 +21,19 @@ word_by_word:
     translation: from
     transliteration: mina
   5:
-    arabic: الۡاَجۡدَاثِ
+    arabic: ٱلۡأَجۡدَاثِ
     translation: the graves
     transliteration: l-ajdāthi
   6:
-    arabic: كَاَنَّهُمۡ
+    arabic: كَأَنَّهُمۡ
     translation: as if they (were)
     transliteration: ka-annahum
   7:
-    arabic: جَرَادٌ
+    arabic: جَرَادٞ
     translation: locusts
     transliteration: jarādun
   8:
-    arabic: مُّنۡتَشِرٌۙ‏
+    arabic: مُّنتَشِرٞ
     translation: spreading
     transliteration: muntashirun
 ---

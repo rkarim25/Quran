@@ -1,5 +1,5 @@
 ---
-arabic_ayat: وَلَقَدۡ سَبَقَتۡ كَلِمَتُنَا لِعِبَادِنَا الۡمُرۡسَلِيۡنَ ​ۖ​ۚ‏
+arabic_ayat: وَلَقَدۡ سَبَقَتۡ كَلِمَتُنَا لِعِبَادِنَا ٱلۡمُرۡسَلِينَ
 sentence_translation: Our Word has already gone forth to Our servants, the messengers,
 word_by_word:
   1:
@@ -19,7 +19,7 @@ word_by_word:
     translation: for Our slaves
     transliteration: liʿibādinā
   5:
-    arabic: الۡمُرۡسَلِيۡنَ ​ۖ​ۚ‏
+    arabic: ٱلۡمُرۡسَلِينَ
     translation: the Messengers
     transliteration: l-mur'salīna
 ---

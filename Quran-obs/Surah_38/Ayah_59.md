@@ -1,24 +1,24 @@
 ---
-arabic_ayat: هٰذَا فَوۡجٌ مُّقۡتَحِمٌ مَّعَكُمۡ​ۚ لَا مَرۡحَبًۢـا بِهِمۡ​ؕ اِنَّهُمۡ
-  صَالُوا النَّارِ‏
+arabic_ayat: هَٰذَا فَوۡجٞ مُّقۡتَحِمٞ مَّعَكُمۡ لَا مَرۡحَبَۢا بِهِمۡۚ إِنَّهُمۡ
+  صَالُواْ ٱلنَّارِ
 sentence_translation: ˹The misleaders will say to one another,˺ “Here is a crowd ˹of
   followers˺ being thrown in with us. They are not welcome, ˹for˺ they ˹too˺ will
   burn in the Fire.”
 word_by_word:
   1:
-    arabic: هٰذَا
+    arabic: هَٰذَا
     translation: This
     transliteration: hādhā
   2:
-    arabic: فَوۡجٌ
+    arabic: فَوۡجٞ
     translation: (is) a company
     transliteration: fawjun
   3:
-    arabic: مُّقۡتَحِمٌ
+    arabic: مُّقۡتَحِمٞ
     translation: bursting
     transliteration: muq'taḥimun
   4:
-    arabic: مَّعَكُمۡ​ۚ
+    arabic: مَّعَكُمۡ
     translation: (in) with you
     transliteration: maʿakum
   5:
@@ -26,23 +26,23 @@ word_by_word:
     translation: 'No'
     transliteration: lā
   6:
-    arabic: مَرۡحَبًۢـا
+    arabic: مَرۡحَبَۢا
     translation: welcome
     transliteration: marḥaban
   7:
-    arabic: بِهِمۡ​ؕ
+    arabic: بِهِمۡۚ
     translation: for them
     transliteration: bihim
   8:
-    arabic: اِنَّهُمۡ
+    arabic: إِنَّهُمۡ
     translation: Indeed, they
     transliteration: innahum
   9:
-    arabic: صَالُوا
+    arabic: صَالُواْ
     translation: (will) burn
     transliteration: ṣālū
   10:
-    arabic: النَّارِ‏
+    arabic: ٱلنَّارِ
     translation: (in) the Fire
     transliteration: l-nāri
 ---

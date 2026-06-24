@@ -1,51 +1,51 @@
 ---
-arabic_ayat: يٰۤاَيُّهَا الَّذِيۡنَ اٰمَنُوۡۤا اِذَا قِيۡلَ لَـكُمۡ تَفَسَّحُوۡا فِى
-  الۡمَجٰلِسِ فَافۡسَحُوۡا يَفۡسَحِ اللّٰهُ لَـكُمۡ​ ۚ وَاِذَا قِيۡلَ انْشُزُوۡا فَانْشُزُوۡا
-  يَرۡفَعِ اللّٰهُ الَّذِيۡنَ اٰمَنُوۡا مِنۡكُمۡ ۙ وَالَّذِيۡنَ اُوۡتُوا الۡعِلۡمَ
-  دَرَجٰتٍ ​ؕ وَاللّٰهُ بِمَا تَعۡمَلُوۡنَ خَبِيۡرٌ‏
+arabic_ayat: يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓاْ إِذَا قِيلَ لَكُمۡ تَفَسَّحُواْ فِي
+  ٱلۡمَجَٰلِسِ فَٱفۡسَحُواْ يَفۡسَحِ ٱللَّهُ لَكُمۡۖ وَإِذَا قِيلَ ٱنشُزُواْ فَٱنشُزُواْ
+  يَرۡفَعِ ٱللَّهُ ٱلَّذِينَ ءَامَنُواْ مِنكُمۡ وَٱلَّذِينَ أُوتُواْ ٱلۡعِلۡمَ دَرَجَٰتٖۚ
+  وَٱللَّهُ بِمَا تَعۡمَلُونَ خَبِيرٞ
 sentence_translation: O believers! When you are told to make room in gatherings, then
   do so. Allah will make room for you ˹in His grace˺. And if you are told to rise,
   then do so. Allah will elevate those of you who are faithful, and ˹raise˺ those
   gifted with knowledge in rank. And Allah is All-Aware of what you do.
 word_by_word:
   1:
-    arabic: يٰۤاَيُّهَا
+    arabic: يَٰٓأَيُّهَا
     translation: O you who believe
     transliteration: yāayyuhā
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ ءَ
     translation: O you who believe
     transliteration: alladhīna
   3:
-    arabic: اٰمَنُوۡۤا
+    arabic: امَنُوٓاْ
     translation: O you who believe
     transliteration: āmanū
   4:
-    arabic: اِذَا
+    arabic: إِذَا
     translation: When
     transliteration: idhā
   5:
-    arabic: قِيۡلَ
+    arabic: قِيلَ
     translation: it is said
     transliteration: qīla
   6:
-    arabic: لَـكُمۡ
+    arabic: لَكُمۡ
     translation: to you
     transliteration: lakum
   7:
-    arabic: تَفَسَّحُوۡا
+    arabic: تَفَسَّحُواْ
     translation: Make room
     transliteration: tafassaḥū
   8:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   9:
-    arabic: الۡمَجٰلِسِ
+    arabic: ٱلۡمَجَٰلِسِ
     translation: the assemblies
     transliteration: l-majālisi
   10:
-    arabic: فَافۡسَحُوۡا
+    arabic: فَٱفۡسَحُواْ
     translation: then make room
     transliteration: fa-if'saḥū
   11:
@@ -53,27 +53,27 @@ word_by_word:
     translation: Allah will make room
     transliteration: yafsaḥi
   12:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah will make room
     transliteration: l-lahu
   13:
-    arabic: لَـكُمۡ​ ۚ
+    arabic: لَكُمۡۖ
     translation: for you
     transliteration: lakum
   14:
-    arabic: وَاِذَا
+    arabic: وَإِذَا
     translation: And when
     transliteration: wa-idhā
   15:
-    arabic: قِيۡلَ
+    arabic: قِيلَ
     translation: it is said
     transliteration: qīla
   16:
-    arabic: انْشُزُوۡا
+    arabic: ٱنشُزُواْ
     translation: Rise up
     transliteration: unshuzū
   17:
-    arabic: فَانْشُزُوۡا
+    arabic: فَٱنشُزُواْ
     translation: then rise up
     transliteration: fa-unshuzū
   18:
@@ -81,39 +81,39 @@ word_by_word:
     translation: Allah will raise
     transliteration: yarfaʿi
   19:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah will raise
     transliteration: l-lahu
   20:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ ءَ
     translation: those who
     transliteration: alladhīna
   21:
-    arabic: اٰمَنُوۡا
+    arabic: امَنُواْ
     translation: believe
     transliteration: āmanū
   22:
-    arabic: مِنۡكُمۡ ۙ
+    arabic: مِنكُمۡ
     translation: among you
     transliteration: minkum
   23:
-    arabic: وَالَّذِيۡنَ
+    arabic: وَٱلَّذِينَ
     translation: and those who
     transliteration: wa-alladhīna
   24:
-    arabic: اُوۡتُوا
+    arabic: أُوتُواْ
     translation: were given
     transliteration: ūtū
   25:
-    arabic: الۡعِلۡمَ
+    arabic: ٱلۡعِلۡمَ
     translation: the knowledge
     transliteration: l-ʿil'ma
   26:
-    arabic: دَرَجٰتٍ ​ؕ
+    arabic: دَرَجَٰتٖۚ
     translation: (in) degrees
     transliteration: darajātin
   27:
-    arabic: وَاللّٰهُ
+    arabic: وَٱللَّهُ
     translation: And Allah
     transliteration: wal-lahu
   28:
@@ -121,11 +121,11 @@ word_by_word:
     translation: of what
     transliteration: bimā
   29:
-    arabic: تَعۡمَلُوۡنَ
+    arabic: تَعۡمَلُونَ
     translation: you do
     transliteration: taʿmalūna
   30:
-    arabic: خَبِيۡرٌ‏
+    arabic: خَبِيرٞ
     translation: (is) All-Aware
     transliteration: khabīrun
 ---

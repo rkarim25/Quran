@@ -1,10 +1,10 @@
 ---
-arabic_ayat: قَدۡ كَانَتۡ لَـكُمۡ اُسۡوَةٌ حَسَنَةٌ فِىۡۤ اِبۡرٰهِيۡمَ وَالَّذِيۡنَ
-  مَعَهٗ​ۚ اِذۡ قَالُوۡا لِقَوۡمِهِمۡ اِنَّا بُرَءٰٓؤُا مِنۡكُمۡ وَمِمَّا تَعۡبُدُوۡنَ
-  مِنۡ دُوۡنِ اللّٰهِ كَفَرۡنَا بِكُمۡ وَبَدَا بَيۡنَنَا وَبَيۡنَكُمُ الۡعَدَاوَةُ
-  وَالۡبَغۡضَآءُ اَبَدًا حَتّٰى تُؤۡمِنُوۡا بِاللّٰهِ وَحۡدَهٗۤ اِلَّا قَوۡلَ اِبۡرٰهِيۡمَ
-  لِاَبِيۡهِ لَاَسۡتَغۡفِرَنَّ لَـكَ وَمَاۤ اَمۡلِكُ لَـكَ مِنَ اللّٰهِ مِنۡ شَىۡءٍ
-  ​ؕ رَبَّنَا عَلَيۡكَ تَوَكَّلۡنَا وَاِلَيۡكَ اَنَـبۡنَا وَاِلَيۡكَ الۡمَصِيۡرُ‏
+arabic_ayat: قَدۡ كَانَتۡ لَكُمۡ أُسۡوَةٌ حَسَنَةٞ فِيٓ إِبۡرَٰهِيمَ وَٱلَّذِينَ مَعَهُۥٓ
+  إِذۡ قَالُواْ لِقَوۡمِهِمۡ إِنَّا بُرَءَٰٓؤُاْ مِنكُمۡ وَمِمَّا تَعۡبُدُونَ مِن
+  دُونِ ٱللَّهِ كَفَرۡنَا بِكُمۡ وَبَدَا بَيۡنَنَا وَبَيۡنَكُمُ ٱلۡعَدَٰوَةُ وَٱلۡبَغۡضَآءُ
+  أَبَدًا حَتَّىٰ تُؤۡمِنُواْ بِٱللَّهِ وَحۡدَهُۥٓ إِلَّا قَوۡلَ إِبۡرَٰهِيمَ لِأَبِيهِ
+  لَأَسۡتَغۡفِرَنَّ لَكَ وَمَآ أَمۡلِكُ لَكَ مِنَ ٱللَّهِ مِن شَيۡءٖۖ رَّبَّنَا عَلَيۡكَ
+  تَوَكَّلۡنَا وَإِلَيۡكَ أَنَبۡنَا وَإِلَيۡكَ ٱلۡمَصِيرُ
 sentence_translation: You already have an excellent example in Abraham and those with
   him, when they said to their people, “We totally dissociate ourselves from you and
   ˹shun˺ whatever ˹idols˺ you worship besides Allah. We reject you. The enmity and
@@ -23,39 +23,39 @@ word_by_word:
     translation: (there) is
     transliteration: kānat
   3:
-    arabic: لَـكُمۡ
+    arabic: لَكُمۡ
     translation: for you
     transliteration: lakum
   4:
-    arabic: اُسۡوَةٌ
+    arabic: أُسۡوَةٌ
     translation: an example
     transliteration: us'watun
   5:
-    arabic: حَسَنَةٌ
+    arabic: حَسَنَةٞ
     translation: good
     transliteration: ḥasanatun
   6:
-    arabic: فِىۡۤ
+    arabic: فِيٓ
     translation: in
     transliteration: fī
   7:
-    arabic: اِبۡرٰهِيۡمَ
+    arabic: إِبۡرَٰهِيمَ
     translation: Ibrahim
     transliteration: ib'rāhīma
   8:
-    arabic: وَالَّذِيۡنَ
+    arabic: وَٱلَّذِينَ
     translation: and those
     transliteration: wa-alladhīna
   9:
-    arabic: مَعَهٗ​ۚ
+    arabic: مَعَهُۥٓ
     translation: with him
     transliteration: maʿahu
   10:
-    arabic: اِذۡ
+    arabic: إِذۡ
     translation: when
     transliteration: idh
   11:
-    arabic: قَالُوۡا
+    arabic: قَالُواْ
     translation: they said
     transliteration: qālū
   12:
@@ -63,15 +63,15 @@ word_by_word:
     translation: to their people
     transliteration: liqawmihim
   13:
-    arabic: اِنَّا
+    arabic: إِنَّا
     translation: Indeed, we
     transliteration: innā
   14:
-    arabic: بُرَءٰٓؤُا
+    arabic: بُرَءَٰٓؤُاْ
     translation: (are) disassociated
     transliteration: buraāu
   15:
-    arabic: مِنۡكُمۡ
+    arabic: مِنكُمۡ
     translation: from you
     transliteration: minkum
   16:
@@ -79,19 +79,19 @@ word_by_word:
     translation: and from what
     transliteration: wamimmā
   17:
-    arabic: تَعۡبُدُوۡنَ
+    arabic: تَعۡبُدُونَ
     translation: you worship
     transliteration: taʿbudūna
   18:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   19:
-    arabic: دُوۡنِ
+    arabic: دُونِ
     translation: besides
     transliteration: dūni
   20:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   21:
@@ -115,35 +115,35 @@ word_by_word:
     translation: and between you
     transliteration: wabaynakumu
   26:
-    arabic: الۡعَدَاوَةُ
+    arabic: ٱلۡعَدَٰوَةُ
     translation: enmity
     transliteration: l-ʿadāwatu
   27:
-    arabic: وَالۡبَغۡضَآءُ
+    arabic: وَٱلۡبَغۡضَآءُ
     translation: and hatred
     transliteration: wal-baghḍāu
   28:
-    arabic: اَبَدًا
+    arabic: أَبَدًا
     translation: forever
     transliteration: abadan
   29:
-    arabic: حَتّٰى
+    arabic: حَتَّىٰ
     translation: until
     transliteration: ḥattā
   30:
-    arabic: تُؤۡمِنُوۡا
+    arabic: تُؤۡمِنُواْ
     translation: you believe
     transliteration: tu'minū
   31:
-    arabic: بِاللّٰهِ
+    arabic: بِٱللَّهِ
     translation: in Allah
     transliteration: bil-lahi
   32:
-    arabic: وَحۡدَهٗۤ
+    arabic: وَحۡدَهُۥٓ
     translation: Alone
     transliteration: waḥdahu
   33:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: Except
     transliteration: illā
   34:
@@ -151,31 +151,31 @@ word_by_word:
     translation: (the) saying
     transliteration: qawla
   35:
-    arabic: اِبۡرٰهِيۡمَ
+    arabic: إِبۡرَٰهِيمَ
     translation: (of) Ibrahim
     transliteration: ib'rāhīma
   36:
-    arabic: لِاَبِيۡهِ
+    arabic: لِأَبِيهِ
     translation: to his father
     transliteration: li-abīhi
   37:
-    arabic: لَاَسۡتَغۡفِرَنَّ
+    arabic: لَأَسۡتَغۡفِرَنَّ
     translation: Surely I ask forgiveness
     transliteration: la-astaghfiranna
   38:
-    arabic: لَـكَ
+    arabic: لَكَ
     translation: for you
     transliteration: laka
   39:
-    arabic: وَمَاۤ
+    arabic: وَمَآ
     translation: but not
     transliteration: wamā
   40:
-    arabic: اَمۡلِكُ
+    arabic: أَمۡلِكُ
     translation: I have power
     transliteration: amliku
   41:
-    arabic: لَـكَ
+    arabic: لَكَ
     translation: for you
     transliteration: laka
   42:
@@ -183,19 +183,19 @@ word_by_word:
     translation: from
     transliteration: mina
   43:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   44:
-    arabic: مِنۡ
+    arabic: مِن
     translation: of
     transliteration: min
   45:
-    arabic: شَىۡءٍ ​ؕ
+    arabic: شَيۡءٖۖ
     translation: anything
     transliteration: shayin
   46:
-    arabic: رَبَّنَا
+    arabic: رَّبَّنَا
     translation: Our Lord
     transliteration: rabbanā
   47:
@@ -207,19 +207,19 @@ word_by_word:
     translation: we put our trust
     transliteration: tawakkalnā
   49:
-    arabic: وَاِلَيۡكَ
+    arabic: وَإِلَيۡكَ
     translation: and to You
     transliteration: wa-ilayka
   50:
-    arabic: اَنَـبۡنَا
+    arabic: أَنَبۡنَا
     translation: we turn
     transliteration: anabnā
   51:
-    arabic: وَاِلَيۡكَ
+    arabic: وَإِلَيۡكَ
     translation: and to You
     transliteration: wa-ilayka
   52:
-    arabic: الۡمَصِيۡرُ‏
+    arabic: ٱلۡمَصِيرُ
     translation: (is) the final return
     transliteration: l-maṣīru
 ---

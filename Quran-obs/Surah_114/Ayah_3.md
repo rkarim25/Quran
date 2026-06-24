@@ -1,13 +1,13 @@
 ---
-arabic_ayat: اِلٰهِ النَّاسِۙ‏
+arabic_ayat: إِلَٰهِ ٱلنَّاسِ
 sentence_translation: the God of humankind,
 word_by_word:
   1:
-    arabic: اِلٰهِ
+    arabic: إِلَٰهِ
     translation: (The) God
     transliteration: ilāhi
   2:
-    arabic: النَّاسِۙ‏
+    arabic: ٱلنَّاسِ
     translation: (of) mankind
     transliteration: l-nāsi
 ---

@@ -1,11 +1,11 @@
 ---
-arabic_ayat: فَاِمَّا تَثۡقَفَنَّهُمۡ فِى الۡحَـرۡبِ فَشَرِّدۡ بِهِمۡ مَّنۡ خَلۡفَهُمۡ
-  لَعَلَّهُمۡ يَذَّكَّرُوۡنَ‏
+arabic_ayat: فَإِمَّا تَثۡقَفَنَّهُمۡ فِي ٱلۡحَرۡبِ فَشَرِّدۡ بِهِم مَّنۡ خَلۡفَهُمۡ
+  لَعَلَّهُمۡ يَذَّكَّرُونَ
 sentence_translation: If you ever encounter them in battle, make a fearsome example
   of them, so perhaps those who would follow them may be deterred.
 word_by_word:
   1:
-    arabic: فَاِمَّا
+    arabic: فَإِمَّا
     translation: So if
     transliteration: fa-immā
   2:
@@ -13,11 +13,11 @@ word_by_word:
     translation: you gain dominance over them
     transliteration: tathqafannahum
   3:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   4:
-    arabic: الۡحَـرۡبِ
+    arabic: ٱلۡحَرۡبِ
     translation: the war
     transliteration: l-ḥarbi
   5:
@@ -25,7 +25,7 @@ word_by_word:
     translation: disperse
     transliteration: fasharrid
   6:
-    arabic: بِهِمۡ
+    arabic: بِهِم
     translation: by them
     transliteration: bihim
   7:
@@ -41,7 +41,7 @@ word_by_word:
     translation: so that they may
     transliteration: laʿallahum
   10:
-    arabic: يَذَّكَّرُوۡنَ‏
+    arabic: يَذَّكَّرُونَ
     translation: take heed
     transliteration: yadhakkarūna
 ---

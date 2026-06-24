@@ -1,34 +1,34 @@
 ---
-arabic_ayat: اَطَّلَعَ الۡغَيۡبَ اَمِ اتَّخَذَ عِنۡدَ الرَّحۡمٰنِ عَهۡدًا ۙ‏
+arabic_ayat: أَطَّلَعَ ٱلۡغَيۡبَ أَمِ ٱتَّخَذَ عِندَ ٱلرَّحۡمَٰنِ عَهۡدٗا
 sentence_translation: Has he looked into the unseen or taken a pledge from the Most
   Compassionate?
 word_by_word:
   1:
-    arabic: اَطَّلَعَ
+    arabic: أَطَّلَعَ
     translation: Has he looked
     transliteration: aṭṭalaʿa
   2:
-    arabic: الۡغَيۡبَ
+    arabic: ٱلۡغَيۡبَ
     translation: (into) the unseen
     transliteration: l-ghayba
   3:
-    arabic: اَمِ
+    arabic: أَمِ
     translation: or
     transliteration: ami
   4:
-    arabic: اتَّخَذَ
+    arabic: ٱتَّخَذَ
     translation: has he taken
     transliteration: ittakhadha
   5:
-    arabic: عِنۡدَ
+    arabic: عِندَ
     translation: from
     transliteration: ʿinda
   6:
-    arabic: الرَّحۡمٰنِ
+    arabic: ٱلرَّحۡمَٰنِ
     translation: the Most Gracious
     transliteration: l-raḥmāni
   7:
-    arabic: عَهۡدًا ۙ‏
+    arabic: عَهۡدٗا
     translation: a promise
     transliteration: ʿahdan
 ---

@@ -1,12 +1,12 @@
 ---
-arabic_ayat: قُلْ لَّوۡ شَآءَ اللّٰهُ مَا تَلَوۡتُهٗ عَلَيۡكُمۡ وَلَاۤ اَدۡرٰٮكُمۡ
-  بِهٖ ​ۖ  فَقَدۡ لَبِثۡتُ فِيۡكُمۡ عُمُرًا مِّنۡ قَبۡلِهٖ ؕ اَفَلَا تَعۡقِلُوۡنَ‏
+arabic_ayat: قُل لَّوۡ شَآءَ ٱللَّهُ مَا تَلَوۡتُهُۥ عَلَيۡكُمۡ وَلَآ أَدۡرَىٰكُم
+  بِهِۦۖ فَقَدۡ لَبِثۡتُ فِيكُمۡ عُمُرٗا مِّن قَبۡلِهِۦٓۚ أَفَلَا تَعۡقِلُونَ
 sentence_translation: Say, “Had Allah willed, I would not have recited it to you,
   nor would He have made it known to you. I had lived my whole life among you before
   this ˹revelation˺. Do you not understand?”
 word_by_word:
   1:
-    arabic: قُلْ
+    arabic: قُل
     translation: Say
     transliteration: qul
   2:
@@ -18,7 +18,7 @@ word_by_word:
     translation: (had) willed
     transliteration: shāa
   4:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   5:
@@ -26,7 +26,7 @@ word_by_word:
     translation: not
     transliteration: mā
   6:
-    arabic: تَلَوۡتُهٗ
+    arabic: تَلَوۡتُهُۥ
     translation: I (would) have recited it
     transliteration: talawtuhu
   7:
@@ -34,15 +34,15 @@ word_by_word:
     translation: to you
     transliteration: ʿalaykum
   8:
-    arabic: وَلَاۤ
+    arabic: وَلَآ
     translation: and not
     transliteration: walā
   9:
-    arabic: اَدۡرٰٮكُمۡ
+    arabic: أَدۡرَىٰكُم
     translation: He (would) have made it known to you
     transliteration: adrākum
   10:
-    arabic: بِهٖ ​ۖ 
+    arabic: بِهِۦۖ
     translation: He (would) have made it known to you
     transliteration: bihi
   11:
@@ -54,27 +54,27 @@ word_by_word:
     translation: I have stayed
     transliteration: labith'tu
   13:
-    arabic: فِيۡكُمۡ
+    arabic: فِيكُمۡ
     translation: among you
     transliteration: fīkum
   14:
-    arabic: عُمُرًا
+    arabic: عُمُرٗا
     translation: a lifetime
     transliteration: ʿumuran
   15:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: before it
     transliteration: min
   16:
-    arabic: قَبۡلِهٖ ؕ
+    arabic: قَبۡلِهِۦٓۚ
     translation: before it
     transliteration: qablihi
   17:
-    arabic: اَفَلَا
+    arabic: أَفَلَا
     translation: Then will not
     transliteration: afalā
   18:
-    arabic: تَعۡقِلُوۡنَ‏
+    arabic: تَعۡقِلُونَ
     translation: you use reason
     transliteration: taʿqilūna
 ---

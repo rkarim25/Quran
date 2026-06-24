@@ -1,31 +1,30 @@
 ---
-arabic_ayat: "اِلَّا رَحۡمَةً مِّنۡ رَّبِّكَ​ ؕ اِنَّ فَضۡلَهٗ كَانَ عَلَيۡكَ كَبِيۡرًا‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: إِلَّا رَحۡمَةٗ مِّن رَّبِّكَۚ إِنَّ فَضۡلَهُۥ كَانَ عَلَيۡكَ كَبِيرٗا
 sentence_translation: had it not been for the mercy of your Lord. Indeed, His favour
   upon you is immense.
 word_by_word:
   1:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: Except
     transliteration: illā
   2:
-    arabic: رَحۡمَةً
+    arabic: رَحۡمَةٗ
     translation: a mercy
     transliteration: raḥmatan
   3:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: from
     transliteration: min
   4:
-    arabic: رَّبِّكَ​ ؕ
+    arabic: رَّبِّكَۚ
     translation: your Lord
     transliteration: rabbika
   5:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   6:
-    arabic: فَضۡلَهٗ
+    arabic: فَضۡلَهُۥ
     translation: His Bounty
     transliteration: faḍlahu
   7:
@@ -37,7 +36,7 @@ word_by_word:
     translation: upon you
     transliteration: ʿalayka
   9:
-    arabic: "كَبِيۡرًا‏ \uFEFF\uFEFF"
+    arabic: كَبِيرٗا
     translation: great
     transliteration: kabīran
 ---

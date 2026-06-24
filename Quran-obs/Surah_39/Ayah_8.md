@@ -1,8 +1,8 @@
 ---
-arabic_ayat: وَاِذَا مَسَّ الۡاِنۡسَانَ ضُرٌّ دَعَا رَبَّهٗ مُنِيۡبًا اِلَيۡهِ ثُمَّ
-  اِذَا خَوَّلَهٗ نِعۡمَةً مِّنۡهُ نَسِىَ مَا كَانَ يَدۡعُوۡۤا اِلَيۡهِ مِنۡ قَبۡلُ
-  وَجَعَلَ لِلّٰهِ اَنۡدَادًا لِّيُـضِلَّ عَنۡ سَبِيۡلِهٖ​ ؕ قُلۡ تَمَتَّعۡ بِكُفۡرِكَ
-  قَلِيۡلًا ​ۖ  اِنَّكَ مِنۡ اَصۡحٰبِ النَّارِ‏
+arabic_ayat: ۞ وَإِذَا مَسَّ ٱلۡإِنسَٰنَ ضُرّٞ دَعَا رَبَّهُۥ مُنِيبًا إِلَيۡهِ ثُمَّ
+  إِذَا خَوَّلَهُۥ نِعۡمَةٗ مِّنۡهُ نَسِيَ مَا كَانَ يَدۡعُوٓاْ إِلَيۡهِ مِن قَبۡلُ
+  وَجَعَلَ لِلَّهِ أَندَادٗا لِّيُضِلَّ عَن سَبِيلِهِۦۚ قُلۡ تَمَتَّعۡ بِكُفۡرِكَ
+  قَلِيلًا إِنَّكَ مِنۡ أَصۡحَٰبِ ٱلنَّارِ
 sentence_translation: When one is touched with hardship, they cry out to their Lord,
   turning to Him ˹alone˺. But as soon as He showers them with blessings from Him,
   they ˹totally˺ forget the One they had cried to earlier, and set up equals to Allah
@@ -10,7 +10,7 @@ sentence_translation: When one is touched with hardship, they cry out to their L
   little while! You will certainly be one of the inmates of the Fire.”
 word_by_word:
   1:
-    arabic: ۞ وَاِذَا
+    arabic: ۞ وَإِذَا
     translation: And when
     transliteration: wa-idhā
   2:
@@ -18,11 +18,11 @@ word_by_word:
     translation: touches
     transliteration: massa
   3:
-    arabic: الۡاِنۡسَانَ
+    arabic: ٱلۡإِنسَٰنَ
     translation: '[the] man'
     transliteration: l-insāna
   4:
-    arabic: ضُرٌّ
+    arabic: ضُرّٞ
     translation: adversity
     transliteration: ḍurrun
   5:
@@ -30,15 +30,15 @@ word_by_word:
     translation: he calls
     transliteration: daʿā
   6:
-    arabic: رَبَّهٗ
+    arabic: رَبَّهُۥ
     translation: his Lord
     transliteration: rabbahu
   7:
-    arabic: مُنِيۡبًا
+    arabic: مُنِيبًا
     translation: turning
     transliteration: munīban
   8:
-    arabic: اِلَيۡهِ
+    arabic: إِلَيۡهِ
     translation: to Him
     transliteration: ilayhi
   9:
@@ -46,15 +46,15 @@ word_by_word:
     translation: then
     transliteration: thumma
   10:
-    arabic: اِذَا
+    arabic: إِذَا
     translation: when
     transliteration: idhā
   11:
-    arabic: خَوَّلَهٗ
+    arabic: خَوَّلَهُۥ
     translation: He bestows on him
     transliteration: khawwalahu
   12:
-    arabic: نِعۡمَةً
+    arabic: نِعۡمَةٗ
     translation: a favor
     transliteration: niʿ'matan
   13:
@@ -62,7 +62,7 @@ word_by_word:
     translation: from Himself
     transliteration: min'hu
   14:
-    arabic: نَسِىَ
+    arabic: نَسِيَ
     translation: he forgets
     transliteration: nasiya
   15:
@@ -74,15 +74,15 @@ word_by_word:
     translation: he used to call
     transliteration: kāna
   17:
-    arabic: يَدۡعُوۡۤا
+    arabic: يَدۡعُوٓاْ
     translation: he used to call
     transliteration: yadʿū
   18:
-    arabic: اِلَيۡهِ
+    arabic: إِلَيۡهِ
     translation: '[to] Him'
     transliteration: ilayhi
   19:
-    arabic: مِنۡ
+    arabic: مِن
     translation: before
     transliteration: min
   20:
@@ -94,23 +94,23 @@ word_by_word:
     translation: and he sets up
     transliteration: wajaʿala
   22:
-    arabic: لِلّٰهِ
+    arabic: لِلَّهِ
     translation: to Allah
     transliteration: lillahi
   23:
-    arabic: اَنۡدَادًا
+    arabic: أَندَادٗا
     translation: rivals
     transliteration: andādan
   24:
-    arabic: لِّيُـضِلَّ
+    arabic: لِّيُضِلَّ
     translation: to mislead
     transliteration: liyuḍilla
   25:
-    arabic: عَنۡ
+    arabic: عَن
     translation: from
     transliteration: ʿan
   26:
-    arabic: سَبِيۡلِهٖ​ ؕ
+    arabic: سَبِيلِهِۦۚ
     translation: His Path
     transliteration: sabīlihi
   27:
@@ -126,11 +126,11 @@ word_by_word:
     translation: in your disbelief
     transliteration: bikuf'rika
   30:
-    arabic: قَلِيۡلًا ​ۖ 
+    arabic: قَلِيلًا
     translation: (for) a little
     transliteration: qalīlan
   31:
-    arabic: اِنَّكَ
+    arabic: إِنَّكَ
     translation: Indeed, you
     transliteration: innaka
   32:
@@ -138,11 +138,11 @@ word_by_word:
     translation: (are) of
     transliteration: min
   33:
-    arabic: اَصۡحٰبِ
+    arabic: أَصۡحَٰبِ
     translation: (the) companions
     transliteration: aṣḥābi
   34:
-    arabic: النَّارِ‏
+    arabic: ٱلنَّارِ
     translation: (of) the Fire
     transliteration: l-nāri
 ---

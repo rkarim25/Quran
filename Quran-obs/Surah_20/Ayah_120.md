@@ -1,6 +1,6 @@
 ---
-arabic_ayat: فَوَسۡوَسَ اِلَيۡهِ الشَّيۡطٰنُ قَالَ يٰۤاٰدَمُ هَلۡ اَدُلُّكَ عَلٰى
-  شَجَرَةِ الۡخُلۡدِ وَمُلۡكٍ لَّا يَبۡلٰى‏
+arabic_ayat: فَوَسۡوَسَ إِلَيۡهِ ٱلشَّيۡطَٰنُ قَالَ يَٰٓـَٔادَمُ هَلۡ أَدُلُّكَ عَلَىٰ
+  شَجَرَةِ ٱلۡخُلۡدِ وَمُلۡكٖ لَّا يَبۡلَىٰ
 sentence_translation: But Satan whispered to him, saying, “O Adam! Shall I show you
   the Tree of Immortality and a kingdom that does not fade away?”
 word_by_word:
@@ -9,11 +9,11 @@ word_by_word:
     translation: Then whispered
     transliteration: fawaswasa
   2:
-    arabic: اِلَيۡهِ
+    arabic: إِلَيۡهِ
     translation: to him
     transliteration: ilayhi
   3:
-    arabic: الشَّيۡطٰنُ
+    arabic: ٱلشَّيۡطَٰنُ
     translation: Shaitaan
     transliteration: l-shayṭānu
   4:
@@ -21,7 +21,7 @@ word_by_word:
     translation: he said
     transliteration: qāla
   5:
-    arabic: يٰۤاٰدَمُ
+    arabic: يَٰٓـَٔادَمُ
     translation: O Adam
     transliteration: yāādamu
   6:
@@ -29,11 +29,11 @@ word_by_word:
     translation: Shall
     transliteration: hal
   7:
-    arabic: اَدُلُّكَ
+    arabic: أَدُلُّكَ
     translation: I direct you
     transliteration: adulluka
   8:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: to
     transliteration: ʿalā
   9:
@@ -41,11 +41,11 @@ word_by_word:
     translation: (the) tree
     transliteration: shajarati
   10:
-    arabic: الۡخُلۡدِ
+    arabic: ٱلۡخُلۡدِ
     translation: (of) the Eternity
     transliteration: l-khul'di
   11:
-    arabic: وَمُلۡكٍ
+    arabic: وَمُلۡكٖ
     translation: and a kingdom
     transliteration: wamul'kin
   12:
@@ -53,7 +53,7 @@ word_by_word:
     translation: not
     transliteration: lā
   13:
-    arabic: يَبۡلٰى‏
+    arabic: يَبۡلَىٰ
     translation: (that will) deteriorate
     transliteration: yablā
 ---

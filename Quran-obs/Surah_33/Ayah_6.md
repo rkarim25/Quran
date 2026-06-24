@@ -1,8 +1,8 @@
 ---
-arabic_ayat: اَلنَّبِىُّ اَوۡلٰى بِالۡمُؤۡمِنِيۡنَ مِنۡ اَنۡفُسِهِمۡ​ وَاَزۡوَاجُهٗۤ
-  اُمَّهٰتُهُمۡ​ ؕ وَاُولُوا الۡاَرۡحَامِ بَعۡضُهُمۡ اَوۡلٰى بِبَعۡضٍ فِىۡ كِتٰبِ
-  اللّٰهِ مِنَ الۡمُؤۡمِنِيۡنَ وَالۡمُهٰجِرِيۡنَ اِلَّاۤ اَنۡ تَفۡعَلُوۡۤا اِلٰٓى
-  اَوۡلِيٰٓٮِٕكُمۡ مَّعۡرُوۡفًا​ ؕ كَانَ ذٰ لِكَ فِى الۡكِتٰبِ مَسۡطُوۡرًا‏
+arabic_ayat: ٱلنَّبِيُّ أَوۡلَىٰ بِٱلۡمُؤۡمِنِينَ مِنۡ أَنفُسِهِمۡۖ وَأَزۡوَٰجُهُۥٓ
+  أُمَّهَٰتُهُمۡۗ وَأُوْلُواْ ٱلۡأَرۡحَامِ بَعۡضُهُمۡ أَوۡلَىٰ بِبَعۡضٖ فِي كِتَٰبِ
+  ٱللَّهِ مِنَ ٱلۡمُؤۡمِنِينَ وَٱلۡمُهَٰجِرِينَ إِلَّآ أَن تَفۡعَلُوٓاْ إِلَىٰٓ أَوۡلِيَآئِكُم
+  مَّعۡرُوفٗاۚ كَانَ ذَٰلِكَ فِي ٱلۡكِتَٰبِ مَسۡطُورٗا
 sentence_translation: The Prophet has a stronger affinity to the believers than they
   do themselves. And his wives are their mothers. As ordained by Allah, blood relatives
   are more entitled ˹to inheritance˺ than ˹other˺ believers and immigrants, unless
@@ -10,15 +10,15 @@ sentence_translation: The Prophet has a stronger affinity to the believers than 
   decreed in the Record. 
 word_by_word:
   1:
-    arabic: اَلنَّبِىُّ
+    arabic: ٱلنَّبِيُّ
     translation: The Prophet
     transliteration: al-nabiyu
   2:
-    arabic: اَوۡلٰى
+    arabic: أَوۡلَىٰ
     translation: (is) closer
     transliteration: awlā
   3:
-    arabic: بِالۡمُؤۡمِنِيۡنَ
+    arabic: بِٱلۡمُؤۡمِنِينَ
     translation: to the believers
     transliteration: bil-mu'minīna
   4:
@@ -26,23 +26,23 @@ word_by_word:
     translation: than
     transliteration: min
   5:
-    arabic: اَنۡفُسِهِمۡ​
+    arabic: أَنفُسِهِمۡۖ
     translation: their own selves
     transliteration: anfusihim
   6:
-    arabic: وَاَزۡوَاجُهٗۤ
+    arabic: وَأَزۡوَٰجُهُۥٓ
     translation: and his wives
     transliteration: wa-azwājuhu
   7:
-    arabic: اُمَّهٰتُهُمۡ​ ؕ
+    arabic: أُمَّهَٰتُهُمۡۗ
     translation: (are) their mothers
     transliteration: ummahātuhum
   8:
-    arabic: وَاُولُوا
+    arabic: وَأُوْلُواْ
     translation: And possessors
     transliteration: wa-ulū
   9:
-    arabic: الۡاَرۡحَامِ
+    arabic: ٱلۡأَرۡحَامِ
     translation: (of) relationships
     transliteration: l-arḥāmi
   10:
@@ -50,23 +50,23 @@ word_by_word:
     translation: some of them
     transliteration: baʿḍuhum
   11:
-    arabic: اَوۡلٰى
+    arabic: أَوۡلَىٰ
     translation: (are) closer
     transliteration: awlā
   12:
-    arabic: بِبَعۡضٍ
+    arabic: بِبَعۡضٖ
     translation: to another
     transliteration: bibaʿḍin
   13:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   14:
-    arabic: كِتٰبِ
+    arabic: كِتَٰبِ
     translation: (the) Decree
     transliteration: kitābi
   15:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (of) Allah
     transliteration: l-lahi
   16:
@@ -74,35 +74,35 @@ word_by_word:
     translation: than
     transliteration: mina
   17:
-    arabic: الۡمُؤۡمِنِيۡنَ
+    arabic: ٱلۡمُؤۡمِنِينَ
     translation: the believers
     transliteration: l-mu'minīna
   18:
-    arabic: وَالۡمُهٰجِرِيۡنَ
+    arabic: وَٱلۡمُهَٰجِرِينَ
     translation: and the emigrants
     transliteration: wal-muhājirīna
   19:
-    arabic: اِلَّاۤ
+    arabic: إِلَّآ
     translation: except
     transliteration: illā
   20:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that
     transliteration: an
   21:
-    arabic: تَفۡعَلُوۡۤا
+    arabic: تَفۡعَلُوٓاْ
     translation: you do
     transliteration: tafʿalū
   22:
-    arabic: اِلٰٓى
+    arabic: إِلَىٰٓ
     translation: to
     transliteration: ilā
   23:
-    arabic: اَوۡلِيٰٓٮِٕكُمۡ
+    arabic: أَوۡلِيَآئِكُم
     translation: your friends
     transliteration: awliyāikum
   24:
-    arabic: مَّعۡرُوۡفًا​ ؕ
+    arabic: مَّعۡرُوفٗاۚ
     translation: a kindness
     transliteration: maʿrūfan
   25:
@@ -110,19 +110,19 @@ word_by_word:
     translation: That is
     transliteration: kāna
   26:
-    arabic: ذٰ لِكَ
+    arabic: ذَٰلِكَ
     translation: That is
     transliteration: dhālika
   27:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   28:
-    arabic: الۡكِتٰبِ
+    arabic: ٱلۡكِتَٰبِ
     translation: the Book
     transliteration: l-kitābi
   29:
-    arabic: مَسۡطُوۡرًا‏
+    arabic: مَسۡطُورٗا
     translation: written
     transliteration: masṭūran
 ---

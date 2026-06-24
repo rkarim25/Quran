@@ -1,5 +1,5 @@
 ---
-arabic_ayat: مَا لَـكُمۡ لَا تَنۡطِقُوۡنَ‏
+arabic_ayat: مَا لَكُمۡ لَا تَنطِقُونَ
 sentence_translation: What is wrong with you that you cannot speak?”
 word_by_word:
   1:
@@ -7,7 +7,7 @@ word_by_word:
     translation: What (is)
     transliteration: mā
   2:
-    arabic: لَـكُمۡ
+    arabic: لَكُمۡ
     translation: for you
     transliteration: lakum
   3:
@@ -15,7 +15,7 @@ word_by_word:
     translation: not
     transliteration: lā
   4:
-    arabic: تَنۡطِقُوۡنَ‏
+    arabic: تَنطِقُونَ
     translation: you speak
     transliteration: tanṭiqūna
 ---

@@ -1,15 +1,15 @@
 ---
-arabic_ayat: "اَكُفَّارُكُمۡ خَيۡرٌ مِّنۡ اُولٰٓٮِٕكُمۡ اَمۡ لَكُمۡ بَرَآءَةٌ فِى\
-  \ الزُّبُرِ​ۚ‏ \uFEFF\uFEFF"
+arabic_ayat: أَكُفَّارُكُمۡ خَيۡرٞ مِّنۡ أُوْلَٰٓئِكُمۡ أَمۡ لَكُم بَرَآءَةٞ فِي
+  ٱلزُّبُرِ
 sentence_translation: Now, are you ˹Meccan˺ disbelievers superior to those ˹destroyed
   peoples˺? Or have you ˹been granted˺ immunity ˹from punishment˺ in divine Books?
 word_by_word:
   1:
-    arabic: اَكُفَّارُكُمۡ
+    arabic: أَكُفَّارُكُمۡ
     translation: Are your disbelievers
     transliteration: akuffārukum
   2:
-    arabic: خَيۡرٌ
+    arabic: خَيۡرٞ
     translation: better
     transliteration: khayrun
   3:
@@ -17,27 +17,27 @@ word_by_word:
     translation: than
     transliteration: min
   4:
-    arabic: اُولٰٓٮِٕكُمۡ
+    arabic: أُوْلَٰٓئِكُمۡ
     translation: those
     transliteration: ulāikum
   5:
-    arabic: اَمۡ
+    arabic: أَمۡ
     translation: or
     transliteration: am
   6:
-    arabic: لَكُمۡ
+    arabic: لَكُم
     translation: for you
     transliteration: lakum
   7:
-    arabic: بَرَآءَةٌ
+    arabic: بَرَآءَةٞ
     translation: (is) an exemption
     transliteration: barāatun
   8:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   9:
-    arabic: "الزُّبُرِ​ۚ‏ \uFEFF\uFEFF"
+    arabic: ٱلزُّبُرِ
     translation: the Scriptures
     transliteration: l-zuburi
 ---

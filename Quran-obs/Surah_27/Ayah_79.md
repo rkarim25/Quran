@@ -1,5 +1,5 @@
 ---
-arabic_ayat: فَتَوَكَّلۡ عَلَى اللّٰهِ​ؕ اِنَّكَ عَلَى الۡحَـقِّ الۡمُبِيۡنِ‏
+arabic_ayat: فَتَوَكَّلۡ عَلَى ٱللَّهِۖ إِنَّكَ عَلَى ٱلۡحَقِّ ٱلۡمُبِينِ
 sentence_translation: So put your trust in Allah, for you are surely upon the ˹Path
   of˺ clear truth.
 word_by_word:
@@ -12,11 +12,11 @@ word_by_word:
     translation: in
     transliteration: ʿalā
   3:
-    arabic: اللّٰهِ​ؕ
+    arabic: ٱللَّهِۖ
     translation: Allah
     transliteration: l-lahi
   4:
-    arabic: اِنَّكَ
+    arabic: إِنَّكَ
     translation: indeed, you
     transliteration: innaka
   5:
@@ -24,11 +24,11 @@ word_by_word:
     translation: (are) on
     transliteration: ʿalā
   6:
-    arabic: الۡحَـقِّ
+    arabic: ٱلۡحَقِّ
     translation: the truth
     transliteration: l-ḥaqi
   7:
-    arabic: الۡمُبِيۡنِ‏
+    arabic: ٱلۡمُبِينِ
     translation: manifest
     transliteration: l-mubīni
 ---

@@ -1,11 +1,10 @@
 ---
-arabic_ayat: "وَ جَآءَتۡ سَكۡرَةُ الۡمَوۡتِ بِالۡحَـقِّ​ؕ ذٰلِكَ مَا كُنۡتَ مِنۡهُ\
-  \ تَحِيۡدُ‏ \uFEFF\uFEFF"
+arabic_ayat: وَجَآءَتۡ سَكۡرَةُ ٱلۡمَوۡتِ بِٱلۡحَقِّۖ ذَٰلِكَ مَا كُنتَ مِنۡهُ تَحِيدُ
 sentence_translation: ˹Ultimately,˺ with the throes of death will come the truth. This
   is what you were trying to escape!
 word_by_word:
   1:
-    arabic: وَ جَآءَتۡ
+    arabic: وَجَآءَتۡ
     translation: And will come
     transliteration: wajāat
   2:
@@ -13,15 +12,15 @@ word_by_word:
     translation: (the) stupor
     transliteration: sakratu
   3:
-    arabic: الۡمَوۡتِ
+    arabic: ٱلۡمَوۡتِ
     translation: (of) death
     transliteration: l-mawti
   4:
-    arabic: بِالۡحَـقِّ​ؕ
+    arabic: بِٱلۡحَقِّۖ
     translation: in truth
     transliteration: bil-ḥaqi
   5:
-    arabic: ذٰلِكَ
+    arabic: ذَٰلِكَ
     translation: That
     transliteration: dhālika
   6:
@@ -29,7 +28,7 @@ word_by_word:
     translation: (is) what
     transliteration: mā
   7:
-    arabic: كُنۡتَ
+    arabic: كُنتَ
     translation: you were
     transliteration: kunta
   8:
@@ -37,7 +36,7 @@ word_by_word:
     translation: '[from it]'
     transliteration: min'hu
   9:
-    arabic: "تَحِيۡدُ‏ \uFEFF\uFEFF"
+    arabic: تَحِيدُ
     translation: avoiding
     transliteration: taḥīdu
 ---

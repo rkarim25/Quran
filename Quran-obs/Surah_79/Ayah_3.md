@@ -1,13 +1,13 @@
 ---
-arabic_ayat: وَّالسّٰبِحٰتِ سَبۡحًا ۙ‏
+arabic_ayat: وَٱلسَّٰبِحَٰتِ سَبۡحٗا
 sentence_translation: and those gliding ˹through heavens˺ swiftly,
 word_by_word:
   1:
-    arabic: وَّالسّٰبِحٰتِ
+    arabic: وَٱلسَّٰبِحَٰتِ
     translation: And those who glide
     transliteration: wal-sābiḥāti
   2:
-    arabic: سَبۡحًا ۙ‏
+    arabic: سَبۡحٗا
     translation: swimming
     transliteration: sabḥan
 ---

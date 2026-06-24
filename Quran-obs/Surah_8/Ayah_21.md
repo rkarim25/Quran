@@ -1,6 +1,5 @@
 ---
-arabic_ayat: "وَلَا تَكُوۡنُوۡا كَالَّذِيۡنَ قَالُوۡا سَمِعۡنَا وَهُمۡ لَا يَسۡمَعُوۡنَ​‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: وَلَا تَكُونُواْ كَٱلَّذِينَ قَالُواْ سَمِعۡنَا وَهُمۡ لَا يَسۡمَعُونَ
 sentence_translation: Do not be like those who say, “We hear,” but in fact they are
   not listening.
 word_by_word:
@@ -9,15 +8,15 @@ word_by_word:
     translation: And (do) not
     transliteration: walā
   2:
-    arabic: تَكُوۡنُوۡا
+    arabic: تَكُونُواْ
     translation: be
     transliteration: takūnū
   3:
-    arabic: كَالَّذِيۡنَ
+    arabic: كَٱلَّذِينَ
     translation: like those who
     transliteration: ka-alladhīna
   4:
-    arabic: قَالُوۡا
+    arabic: قَالُواْ
     translation: say
     transliteration: qālū
   5:
@@ -33,7 +32,7 @@ word_by_word:
     translation: (do) not
     transliteration: lā
   8:
-    arabic: "يَسۡمَعُوۡنَ​‏ \uFEFF\uFEFF"
+    arabic: يَسۡمَعُونَ
     translation: hear
     transliteration: yasmaʿūna
 ---

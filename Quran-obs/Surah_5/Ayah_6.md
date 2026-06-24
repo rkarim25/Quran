@@ -1,12 +1,12 @@
 ---
-arabic_ayat: يٰۤـاَيُّهَا الَّذِيۡنَ اٰمَنُوۡۤا اِذَا قُمۡتُمۡ اِلَى الصَّلٰوةِ فَاغۡسِلُوۡا
-  وُجُوۡهَكُمۡ وَاَيۡدِيَكُمۡ اِلَى الۡمَرَافِقِ وَامۡسَحُوۡا بِرُءُوۡسِكُمۡ وَاَرۡجُلَكُمۡ
-  اِلَى الۡـكَعۡبَيۡنِ​ ؕ وَاِنۡ كُنۡتُمۡ جُنُبًا فَاطَّهَّرُوۡا​ ؕ وَاِنۡ كُنۡتُمۡ
-  مَّرۡضَىٰۤ اَوۡ عَلٰى سَفَرٍ اَوۡ جَآءَ اَحَدٌ مِّنۡكُمۡ مِّنَ الۡغَآٮِٕطِ اَوۡ
-  لٰمَسۡتُمُ النِّسَآءَ فَلَمۡ تَجِدُوۡا مَآءً فَتَيَمَّمُوۡا صَعِيۡدًا طَيِّبًا
-  فَامۡسَحُوۡا بِوُجُوۡهِكُمۡ وَاَيۡدِيۡكُمۡ مِّنۡهُ​ ؕ مَا يُرِيۡدُ اللّٰهُ لِيَجۡعَلَ
-  عَلَيۡكُمۡ مِّنۡ حَرَجٍ وَّلٰـكِنۡ يُّرِيۡدُ لِيُطَهِّرَكُمۡ وَ لِيُتِمَّ نِعۡمَتَهٗ
-  عَلَيۡكُمۡ لَعَلَّكُمۡ تَشۡكُرُوۡنَ‏
+arabic_ayat: يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓاْ إِذَا قُمۡتُمۡ إِلَى ٱلصَّلَوٰةِ فَٱغۡسِلُواْ
+  وُجُوهَكُمۡ وَأَيۡدِيَكُمۡ إِلَى ٱلۡمَرَافِقِ وَٱمۡسَحُواْ بِرُءُوسِكُمۡ وَأَرۡجُلَكُمۡ
+  إِلَى ٱلۡكَعۡبَيۡنِۚ وَإِن كُنتُمۡ جُنُبٗا فَٱطَّهَّرُواْۚ وَإِن كُنتُم مَّرۡضَىٰٓ
+  أَوۡ عَلَىٰ سَفَرٍ أَوۡ جَآءَ أَحَدٞ مِّنكُم مِّنَ ٱلۡغَآئِطِ أَوۡ لَٰمَسۡتُمُ
+  ٱلنِّسَآءَ فَلَمۡ تَجِدُواْ مَآءٗ فَتَيَمَّمُواْ صَعِيدٗا طَيِّبٗا فَٱمۡسَحُواْ
+  بِوُجُوهِكُمۡ وَأَيۡدِيكُم مِّنۡهُۚ مَا يُرِيدُ ٱللَّهُ لِيَجۡعَلَ عَلَيۡكُم مِّنۡ
+  حَرَجٖ وَلَٰكِن يُرِيدُ لِيُطَهِّرَكُمۡ وَلِيُتِمَّ نِعۡمَتَهُۥ عَلَيۡكُمۡ لَعَلَّكُمۡ
+  تَشۡكُرُونَ
 sentence_translation: O believers! When you rise up for prayer, wash your faces and
   your hands up to the elbows, wipe your heads, and wash your feet to the ankles.
   And if you are in a state of ˹full˺ impurity, then take a full bath. But if you
@@ -16,19 +16,19 @@ sentence_translation: O believers! When you rise up for prayer, wash your faces 
   His favour upon you, so perhaps you will be grateful.
 word_by_word:
   1:
-    arabic: يٰۤـاَيُّهَا
+    arabic: يَٰٓأَيُّهَا
     translation: O you
     transliteration: yāayyuhā
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ ءَ
     translation: who
     transliteration: alladhīna
   3:
-    arabic: اٰمَنُوۡۤا
+    arabic: امَنُوٓاْ
     translation: believe
     transliteration: āmanū
   4:
-    arabic: اِذَا
+    arabic: إِذَا
     translation: When
     transliteration: idhā
   5:
@@ -36,87 +36,87 @@ word_by_word:
     translation: you stand up
     transliteration: qum'tum
   6:
-    arabic: اِلَى
+    arabic: إِلَى
     translation: for
     transliteration: ilā
   7:
-    arabic: الصَّلٰوةِ
+    arabic: ٱلصَّلَوٰةِ
     translation: the prayer
     transliteration: l-ṣalati
   8:
-    arabic: فَاغۡسِلُوۡا
+    arabic: فَٱغۡسِلُواْ
     translation: then wash
     transliteration: fa-igh'silū
   9:
-    arabic: وُجُوۡهَكُمۡ
+    arabic: وُجُوهَكُمۡ
     translation: your faces
     transliteration: wujūhakum
   10:
-    arabic: وَاَيۡدِيَكُمۡ
+    arabic: وَأَيۡدِيَكُمۡ
     translation: and your hands
     transliteration: wa-aydiyakum
   11:
-    arabic: اِلَى
+    arabic: إِلَى
     translation: till
     transliteration: ilā
   12:
-    arabic: الۡمَرَافِقِ
+    arabic: ٱلۡمَرَافِقِ
     translation: the elbows
     transliteration: l-marāfiqi
   13:
-    arabic: وَامۡسَحُوۡا
+    arabic: وَٱمۡسَحُواْ
     translation: and wipe
     transliteration: wa-im'saḥū
   14:
-    arabic: بِرُءُوۡسِكُمۡ
+    arabic: بِرُءُوسِكُمۡ
     translation: your heads
     transliteration: biruūsikum
   15:
-    arabic: وَاَرۡجُلَكُمۡ
+    arabic: وَأَرۡجُلَكُمۡ
     translation: and your feet
     transliteration: wa-arjulakum
   16:
-    arabic: اِلَى
+    arabic: إِلَى
     translation: till
     transliteration: ilā
   17:
-    arabic: الۡـكَعۡبَيۡنِ​ ؕ
+    arabic: ٱلۡكَعۡبَيۡنِۚ
     translation: the ankles
     transliteration: l-kaʿbayni
   18:
-    arabic: وَاِنۡ
+    arabic: وَإِن
     translation: But if
     transliteration: wa-in
   19:
-    arabic: كُنۡتُمۡ
+    arabic: كُنتُمۡ
     translation: you are
     transliteration: kuntum
   20:
-    arabic: جُنُبًا
+    arabic: جُنُبٗا
     translation: (in) a state of ceremonial impurity
     transliteration: junuban
   21:
-    arabic: فَاطَّهَّرُوۡا​ ؕ
+    arabic: فَٱطَّهَّرُواْۚ
     translation: then purify yourselves
     transliteration: fa-iṭṭahharū
   22:
-    arabic: وَاِنۡ
+    arabic: وَإِن
     translation: But if
     transliteration: wa-in
   23:
-    arabic: كُنۡتُمۡ
+    arabic: كُنتُم
     translation: you are
     transliteration: kuntum
   24:
-    arabic: مَّرۡضَىٰۤ
+    arabic: مَّرۡضَىٰٓ
     translation: ill
     transliteration: marḍā
   25:
-    arabic: اَوۡ
+    arabic: أَوۡ
     translation: or
     transliteration: aw
   26:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: 'on'
     transliteration: ʿalā
   27:
@@ -124,7 +124,7 @@ word_by_word:
     translation: a journey
     transliteration: safarin
   28:
-    arabic: اَوۡ
+    arabic: أَوۡ
     translation: or
     transliteration: aw
   29:
@@ -132,11 +132,11 @@ word_by_word:
     translation: has come
     transliteration: jāa
   30:
-    arabic: اَحَدٌ
+    arabic: أَحَدٞ
     translation: anyone
     transliteration: aḥadun
   31:
-    arabic: مِّنۡكُمۡ
+    arabic: مِّنكُم
     translation: of you
     transliteration: minkum
   32:
@@ -144,19 +144,19 @@ word_by_word:
     translation: from
     transliteration: mina
   33:
-    arabic: الۡغَآٮِٕطِ
+    arabic: ٱلۡغَآئِطِ
     translation: the toilet
     transliteration: l-ghāiṭi
   34:
-    arabic: اَوۡ
+    arabic: أَوۡ
     translation: or
     transliteration: aw
   35:
-    arabic: لٰمَسۡتُمُ
+    arabic: لَٰمَسۡتُمُ
     translation: has (had) contact
     transliteration: lāmastumu
   36:
-    arabic: النِّسَآءَ
+    arabic: ٱلنِّسَآءَ
     translation: (with) the women
     transliteration: l-nisāa
   37:
@@ -164,39 +164,39 @@ word_by_word:
     translation: and not
     transliteration: falam
   38:
-    arabic: تَجِدُوۡا
+    arabic: تَجِدُواْ
     translation: you find
     transliteration: tajidū
   39:
-    arabic: مَآءً
+    arabic: مَآءٗ
     translation: water
     transliteration: māan
   40:
-    arabic: فَتَيَمَّمُوۡا
+    arabic: فَتَيَمَّمُواْ
     translation: then do tayyammum
     transliteration: fatayammamū
   41:
-    arabic: صَعِيۡدًا
+    arabic: صَعِيدٗا
     translation: (with) earth
     transliteration: ṣaʿīdan
   42:
-    arabic: طَيِّبًا
+    arabic: طَيِّبٗا
     translation: clean
     transliteration: ṭayyiban
   43:
-    arabic: فَامۡسَحُوۡا
+    arabic: فَٱمۡسَحُواْ
     translation: then wipe
     transliteration: fa-im'saḥū
   44:
-    arabic: بِوُجُوۡهِكُمۡ
+    arabic: بِوُجُوهِكُمۡ
     translation: your faces
     transliteration: biwujūhikum
   45:
-    arabic: وَاَيۡدِيۡكُمۡ
+    arabic: وَأَيۡدِيكُم
     translation: and your hands
     transliteration: wa-aydīkum
   46:
-    arabic: مِّنۡهُ​ ؕ
+    arabic: مِّنۡهُۚ
     translation: with it
     transliteration: min'hu
   47:
@@ -204,11 +204,11 @@ word_by_word:
     translation: Does not
     transliteration: mā
   48:
-    arabic: يُرِيۡدُ
+    arabic: يُرِيدُ
     translation: intend
     transliteration: yurīdu
   49:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   50:
@@ -216,7 +216,7 @@ word_by_word:
     translation: to make
     transliteration: liyajʿala
   51:
-    arabic: عَلَيۡكُمۡ
+    arabic: عَلَيۡكُم
     translation: for you
     transliteration: ʿalaykum
   52:
@@ -224,15 +224,15 @@ word_by_word:
     translation: any
     transliteration: min
   53:
-    arabic: حَرَجٍ
+    arabic: حَرَجٖ
     translation: difficulty
     transliteration: ḥarajin
   54:
-    arabic: وَّلٰـكِنۡ
+    arabic: وَلَٰكِن
     translation: but
     transliteration: walākin
   55:
-    arabic: يُّرِيۡدُ
+    arabic: يُرِيدُ
     translation: He intends
     transliteration: yurīdu
   56:
@@ -240,11 +240,11 @@ word_by_word:
     translation: to purify you
     transliteration: liyuṭahhirakum
   57:
-    arabic: وَ لِيُتِمَّ
+    arabic: وَلِيُتِمَّ
     translation: and to complete
     transliteration: waliyutimma
   58:
-    arabic: نِعۡمَتَهٗ
+    arabic: نِعۡمَتَهُۥ
     translation: His Favor
     transliteration: niʿ'matahu
   59:
@@ -256,7 +256,7 @@ word_by_word:
     translation: so that you may
     transliteration: laʿallakum
   61:
-    arabic: تَشۡكُرُوۡنَ‏
+    arabic: تَشۡكُرُونَ
     translation: (be) grateful
     transliteration: tashkurūna
 ---

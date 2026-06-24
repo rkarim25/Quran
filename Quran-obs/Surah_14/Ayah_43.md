@@ -1,18 +1,18 @@
 ---
-arabic_ayat: مُهۡطِعِيۡنَ مُقۡنِعِىۡ رُءُوۡسِهِمۡ لَا يَرۡتَدُّ اِلَيۡهِمۡ طَرۡفُهُمۡ​
-  ۚ وَاَفۡـِٕدَتُهُمۡ هَوَآءٌ ؕ‏
+arabic_ayat: مُهۡطِعِينَ مُقۡنِعِي رُءُوسِهِمۡ لَا يَرۡتَدُّ إِلَيۡهِمۡ طَرۡفُهُمۡۖ
+  وَأَفۡـِٔدَتُهُمۡ هَوَآءٞ
 sentence_translation: rushing forth, heads raised, never blinking, hearts void.
 word_by_word:
   1:
-    arabic: مُهۡطِعِيۡنَ
+    arabic: مُهۡطِعِينَ
     translation: Racing ahead
     transliteration: muh'ṭiʿīna
   2:
-    arabic: مُقۡنِعِىۡ
+    arabic: مُقۡنِعِي
     translation: raised up
     transliteration: muq'niʿī
   3:
-    arabic: رُءُوۡسِهِمۡ
+    arabic: رُءُوسِهِمۡ
     translation: their heads
     transliteration: ruūsihim
   4:
@@ -24,19 +24,19 @@ word_by_word:
     translation: returning
     transliteration: yartaddu
   6:
-    arabic: اِلَيۡهِمۡ
+    arabic: إِلَيۡهِمۡ
     translation: towards them
     transliteration: ilayhim
   7:
-    arabic: طَرۡفُهُمۡ​ ۚ
+    arabic: طَرۡفُهُمۡۖ
     translation: their gaze
     transliteration: ṭarfuhum
   8:
-    arabic: وَاَفۡـِٕدَتُهُمۡ
+    arabic: وَأَفۡـِٔدَتُهُمۡ
     translation: and their hearts
     transliteration: wa-afidatuhum
   9:
-    arabic: هَوَآءٌ ؕ‏
+    arabic: هَوَآءٞ
     translation: (are) empty
     transliteration: hawāon
 ---

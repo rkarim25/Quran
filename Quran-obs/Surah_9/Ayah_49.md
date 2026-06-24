@@ -1,28 +1,28 @@
 ---
-arabic_ayat: وَمِنۡهُمۡ مَّنۡ يَّقُوۡلُ ائۡذَنۡ لِّىۡ وَلَا تَفۡتِنِّىۡ​ ؕ اَلَا فِى
-  الۡفِتۡنَةِ سَقَطُوۡا​ ؕ وَاِنَّ جَهَـنَّمَ لَمُحِيۡطَةٌ ۢ بِالۡـكٰفِرِيۡنَ‏
+arabic_ayat: وَمِنۡهُم مَّن يَقُولُ ٱئۡذَن لِّي وَلَا تَفۡتِنِّيٓۚ أَلَا فِي ٱلۡفِتۡنَةِ
+  سَقَطُواْۗ وَإِنَّ جَهَنَّمَ لَمُحِيطَةُۢ بِٱلۡكَٰفِرِينَ
 sentence_translation: There are some of them who say, “Exempt me and do not expose
   me to temptation.” They have already fallen into temptation. And Hell will surely
   engulf the disbelievers.
 word_by_word:
   1:
-    arabic: وَمِنۡهُمۡ
+    arabic: وَمِنۡهُم
     translation: And among them
     transliteration: wamin'hum
   2:
-    arabic: مَّنۡ
+    arabic: مَّن
     translation: (is he) who
     transliteration: man
   3:
-    arabic: يَّقُوۡلُ
+    arabic: يَقُولُ
     translation: says
     transliteration: yaqūlu
   4:
-    arabic: ائۡذَنۡ
+    arabic: ٱئۡذَن
     translation: Grant me leave
     transliteration: i'dhan
   5:
-    arabic: لِّىۡ
+    arabic: لِّي
     translation: Grant me leave
     transliteration: lī
   6:
@@ -30,39 +30,39 @@ word_by_word:
     translation: and (do) not
     transliteration: walā
   7:
-    arabic: تَفۡتِنِّىۡ​ ؕ
+    arabic: تَفۡتِنِّيٓۚ
     translation: put me to trial
     transliteration: taftinnī
   8:
-    arabic: اَلَا
+    arabic: أَلَا
     translation: Surely
     transliteration: alā
   9:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   10:
-    arabic: الۡفِتۡنَةِ
+    arabic: ٱلۡفِتۡنَةِ
     translation: the trial
     transliteration: l-fit'nati
   11:
-    arabic: سَقَطُوۡا​ ؕ
+    arabic: سَقَطُواْۗ
     translation: they have fallen
     transliteration: saqaṭū
   12:
-    arabic: وَاِنَّ
+    arabic: وَإِنَّ
     translation: And indeed
     transliteration: wa-inna
   13:
-    arabic: جَهَـنَّمَ
+    arabic: جَهَنَّمَ
     translation: Hell
     transliteration: jahannama
   14:
-    arabic: لَمُحِيۡطَةٌ ۢ
+    arabic: لَمُحِيطَةُۢ
     translation: (will) surely surround
     transliteration: lamuḥīṭatun
   15:
-    arabic: بِالۡـكٰفِرِيۡنَ‏
+    arabic: بِٱلۡكَٰفِرِينَ
     translation: the disbelievers
     transliteration: bil-kāfirīna
 ---

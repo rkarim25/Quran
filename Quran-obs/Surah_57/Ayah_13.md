@@ -1,8 +1,8 @@
 ---
-arabic_ayat: يَوۡمَ يَقُوۡلُ الۡمُنٰفِقُوۡنَ وَالۡمُنٰفِقٰتُ لِلَّذِيۡنَ اٰمَنُوا
-  انْظُرُوۡنَا نَقۡتَبِسۡ مِنۡ نُّوۡرِكُمۡ​ۚ قِيۡلَ ارۡجِعُوۡا وَرَآءَكُمۡ فَالۡتَمِسُوۡا
-  نُوۡرًاؕ فَضُرِبَ بَيۡنَهُمۡ بِسُوۡرٍ لَّهٗ بَابٌؕ بَاطِنُهٗ فِيۡهِ الرَّحۡمَةُ
-  وَظَاهِرُهٗ مِنۡ قِبَلِهِ الۡعَذَابُؕ‏
+arabic_ayat: يَوۡمَ يَقُولُ ٱلۡمُنَٰفِقُونَ وَٱلۡمُنَٰفِقَٰتُ لِلَّذِينَ ءَامَنُواْ
+  ٱنظُرُونَا نَقۡتَبِسۡ مِن نُّورِكُمۡ قِيلَ ٱرۡجِعُواْ وَرَآءَكُمۡ فَٱلۡتَمِسُواْ
+  نُورٗاۖ فَضُرِبَ بَيۡنَهُم بِسُورٖ لَّهُۥ بَابُۢ بَاطِنُهُۥ فِيهِ ٱلرَّحۡمَةُ وَظَٰهِرُهُۥ
+  مِن قِبَلِهِ ٱلۡعَذَابُ
 sentence_translation: On that Day hypocrite men and women will beg the believers,
   “Wait for us so that we may have some of your light.” It will be said ˹mockingly˺,
   “Go back ˹to the world˺ and seek a light ˹there˺!” Then a ˹separating˺ wall with
@@ -14,27 +14,27 @@ word_by_word:
     translation: (On the) Day
     transliteration: yawma
   2:
-    arabic: يَقُوۡلُ
+    arabic: يَقُولُ
     translation: will say
     transliteration: yaqūlu
   3:
-    arabic: الۡمُنٰفِقُوۡنَ
+    arabic: ٱلۡمُنَٰفِقُونَ
     translation: the hypocrite men
     transliteration: l-munāfiqūna
   4:
-    arabic: وَالۡمُنٰفِقٰتُ
+    arabic: وَٱلۡمُنَٰفِقَٰتُ
     translation: and the hypocrite women
     transliteration: wal-munāfiqātu
   5:
-    arabic: لِلَّذِيۡنَ
+    arabic: لِلَّذِينَ ءَ
     translation: to those who
     transliteration: lilladhīna
   6:
-    arabic: اٰمَنُوا
+    arabic: امَنُواْ
     translation: believed
     transliteration: āmanū
   7:
-    arabic: انْظُرُوۡنَا
+    arabic: ٱنظُرُونَا
     translation: Wait for us
     transliteration: unẓurūnā
   8:
@@ -42,19 +42,19 @@ word_by_word:
     translation: we may acquire
     transliteration: naqtabis
   9:
-    arabic: مِنۡ
+    arabic: مِن
     translation: of
     transliteration: min
   10:
-    arabic: نُّوۡرِكُمۡ​ۚ
+    arabic: نُّورِكُمۡ
     translation: your light
     transliteration: nūrikum
   11:
-    arabic: قِيۡلَ
+    arabic: قِيلَ
     translation: It will be said
     transliteration: qīla
   12:
-    arabic: ارۡجِعُوۡا
+    arabic: ٱرۡجِعُواْ
     translation: Go back
     transliteration: ir'jiʿū
   13:
@@ -62,11 +62,11 @@ word_by_word:
     translation: behind you
     transliteration: warāakum
   14:
-    arabic: فَالۡتَمِسُوۡا
+    arabic: فَٱلۡتَمِسُواْ
     translation: and seek
     transliteration: fal-tamisū
   15:
-    arabic: نُوۡرًاؕ
+    arabic: نُورٗاۖ
     translation: light
     transliteration: nūran
   16:
@@ -74,39 +74,39 @@ word_by_word:
     translation: Then will be put up
     transliteration: faḍuriba
   17:
-    arabic: بَيۡنَهُمۡ
+    arabic: بَيۡنَهُم
     translation: between them
     transliteration: baynahum
   18:
-    arabic: بِسُوۡرٍ
+    arabic: بِسُورٖ
     translation: a wall
     transliteration: bisūrin
   19:
-    arabic: لَّهٗ
+    arabic: لَّهُۥ
     translation: for it
     transliteration: lahu
   20:
-    arabic: بَابٌؕ
+    arabic: بَابُۢ
     translation: a gate
     transliteration: bābun
   21:
-    arabic: بَاطِنُهٗ
+    arabic: بَاطِنُهُۥ
     translation: its interior
     transliteration: bāṭinuhu
   22:
-    arabic: فِيۡهِ
+    arabic: فِيهِ
     translation: in it
     transliteration: fīhi
   23:
-    arabic: الرَّحۡمَةُ
+    arabic: ٱلرَّحۡمَةُ
     translation: (is) mercy
     transliteration: l-raḥmatu
   24:
-    arabic: وَظَاهِرُهٗ
+    arabic: وَظَٰهِرُهُۥ
     translation: but its exterior
     transliteration: waẓāhiruhu
   25:
-    arabic: مِنۡ
+    arabic: مِن
     translation: facing towards [it]
     transliteration: min
   26:
@@ -114,7 +114,7 @@ word_by_word:
     translation: facing towards [it]
     transliteration: qibalihi
   27:
-    arabic: الۡعَذَابُؕ‏
+    arabic: ٱلۡعَذَابُ
     translation: the punishment
     transliteration: l-ʿadhābu
 ---

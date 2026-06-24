@@ -1,9 +1,9 @@
 ---
-arabic_ayat: فَاِذَا نُفِخَ فِى الصُّوۡرِ نَفۡخَةٌ وَّاحِدَةٌ ۙ‏
+arabic_ayat: فَإِذَا نُفِخَ فِي ٱلصُّورِ نَفۡخَةٞ وَٰحِدَةٞ
 sentence_translation: At last, when the Trumpet will be blown with one blast,
 word_by_word:
   1:
-    arabic: فَاِذَا
+    arabic: فَإِذَا
     translation: Then when
     transliteration: fa-idhā
   2:
@@ -11,19 +11,19 @@ word_by_word:
     translation: is blown
     transliteration: nufikha
   3:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   4:
-    arabic: الصُّوۡرِ
+    arabic: ٱلصُّورِ
     translation: 'the trumpet '
     transliteration: l-ṣūri
   5:
-    arabic: نَفۡخَةٌ
+    arabic: نَفۡخَةٞ
     translation: a blast
     transliteration: nafkhatun
   6:
-    arabic: وَّاحِدَةٌ ۙ‏
+    arabic: وَٰحِدَةٞ
     translation: single
     transliteration: wāḥidatun
 ---

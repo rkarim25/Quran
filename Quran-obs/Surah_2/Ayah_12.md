@@ -1,14 +1,14 @@
 ---
-arabic_ayat: اَلَا ۤ اِنَّهُمۡ هُمُ الۡمُفۡسِدُوۡنَ وَلٰـكِنۡ لَّا يَشۡعُرُوۡنَ‏
+arabic_ayat: أَلَآ إِنَّهُمۡ هُمُ ٱلۡمُفۡسِدُونَ وَلَٰكِن لَّا يَشۡعُرُونَ
 sentence_translation: Indeed, it is they who are the corruptors, but they fail to
   perceive it.
 word_by_word:
   1:
-    arabic: اَلَا ۤ
+    arabic: أَلَآ
     translation: Beware
     transliteration: alā
   2:
-    arabic: اِنَّهُمۡ
+    arabic: إِنَّهُمۡ
     translation: indeed they
     transliteration: innahum
   3:
@@ -16,11 +16,11 @@ word_by_word:
     translation: themselves
     transliteration: humu
   4:
-    arabic: الۡمُفۡسِدُوۡنَ
+    arabic: ٱلۡمُفۡسِدُونَ
     translation: (are) the ones who spread corruption
     transliteration: l-muf'sidūna
   5:
-    arabic: وَلٰـكِنۡ
+    arabic: وَلَٰكِن
     translation: '[and] but'
     transliteration: walākin
   6:
@@ -28,7 +28,7 @@ word_by_word:
     translation: not
     transliteration: lā
   7:
-    arabic: يَشۡعُرُوۡنَ‏
+    arabic: يَشۡعُرُونَ
     translation: they realize (it)
     transliteration: yashʿurūna
 ---

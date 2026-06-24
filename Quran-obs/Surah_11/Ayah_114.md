@@ -1,28 +1,28 @@
 ---
-arabic_ayat: وَاَقِمِ الصَّلٰوةَ طَرَفَىِ النَّهَارِ وَزُلَـفًا مِّنَ الَّيۡلِ​ ؕ
-  اِنَّ الۡحَسَنٰتِ يُذۡهِبۡنَ السَّيِّاٰتِ ​ؕ ذٰ لِكَ ذِكۡرٰى لِلذّٰكِرِيۡنَ ​ۚ‏
+arabic_ayat: وَأَقِمِ ٱلصَّلَوٰةَ طَرَفَيِ ٱلنَّهَارِ وَزُلَفٗا مِّنَ ٱلَّيۡلِۚ إِنَّ
+  ٱلۡحَسَنَٰتِ يُذۡهِبۡنَ ٱلسَّيِّـَٔاتِۚ ذَٰلِكَ ذِكۡرَىٰ لِلذَّٰكِرِينَ
 sentence_translation: Establish prayer ˹O Prophet˺ at both ends of the day and in
   the early part of the night. Surely good deeds wipe out evil deeds. That is a reminder
   for the mindful.
 word_by_word:
   1:
-    arabic: وَاَقِمِ
+    arabic: وَأَقِمِ
     translation: And establish
     transliteration: wa-aqimi
   2:
-    arabic: الصَّلٰوةَ
+    arabic: ٱلصَّلَوٰةَ
     translation: the prayer
     transliteration: l-ṣalata
   3:
-    arabic: طَرَفَىِ
+    arabic: طَرَفَيِ
     translation: (at the) two ends
     transliteration: ṭarafayi
   4:
-    arabic: النَّهَارِ
+    arabic: ٱلنَّهَارِ
     translation: (of) the day
     transliteration: l-nahāri
   5:
-    arabic: وَزُلَـفًا
+    arabic: وَزُلَفٗا
     translation: and (at) the approach
     transliteration: wazulafan
   6:
@@ -30,15 +30,15 @@ word_by_word:
     translation: of
     transliteration: mina
   7:
-    arabic: الَّيۡلِ​ ؕ
+    arabic: ٱلَّيۡلِۚ
     translation: the night
     transliteration: al-layli
   8:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   9:
-    arabic: الۡحَسَنٰتِ
+    arabic: ٱلۡحَسَنَٰتِ
     translation: the good deeds
     transliteration: l-ḥasanāti
   10:
@@ -46,19 +46,19 @@ word_by_word:
     translation: remove
     transliteration: yudh'hib'na
   11:
-    arabic: السَّيِّاٰتِ ​ؕ
+    arabic: ٱلسَّيِّـَٔاتِۚ
     translation: the evil deeds
     transliteration: l-sayiāti
   12:
-    arabic: ذٰ لِكَ
+    arabic: ذَٰلِكَ
     translation: That
     transliteration: dhālika
   13:
-    arabic: ذِكۡرٰى
+    arabic: ذِكۡرَىٰ
     translation: (is) a reminder
     transliteration: dhik'rā
   14:
-    arabic: لِلذّٰكِرِيۡنَ ​ۚ‏
+    arabic: لِلذَّٰكِرِينَ
     translation: for those who remember
     transliteration: lildhākirīna
 ---

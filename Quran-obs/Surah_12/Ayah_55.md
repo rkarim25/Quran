@@ -1,6 +1,5 @@
 ---
-arabic_ayat: "قَالَ اجۡعَلۡنِىۡ عَلٰى خَزَآٮِٕنِ الۡاَرۡضِ​ۚ اِنِّىۡ حَفِيۡظٌ عَلِيۡمٌ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: قَالَ ٱجۡعَلۡنِي عَلَىٰ خَزَآئِنِ ٱلۡأَرۡضِۖ إِنِّي حَفِيظٌ عَلِيمٞ
 sentence_translation: Joseph proposed, “Put me in charge of the store-houses of the
   land, for I am truly reliable and adept.”
 word_by_word:
@@ -9,31 +8,31 @@ word_by_word:
     translation: He said
     transliteration: qāla
   2:
-    arabic: اجۡعَلۡنِىۡ
+    arabic: ٱجۡعَلۡنِي
     translation: Appoint me
     transliteration: ij'ʿalnī
   3:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: over
     transliteration: ʿalā
   4:
-    arabic: خَزَآٮِٕنِ
+    arabic: خَزَآئِنِ
     translation: (the) treasuries
     transliteration: khazāini
   5:
-    arabic: الۡاَرۡضِ​ۚ
+    arabic: ٱلۡأَرۡضِۖ
     translation: (of) the land
     transliteration: l-arḍi
   6:
-    arabic: اِنِّىۡ
+    arabic: إِنِّي
     translation: Indeed, I
     transliteration: innī
   7:
-    arabic: حَفِيۡظٌ
+    arabic: حَفِيظٌ
     translation: (will be) a guardian
     transliteration: ḥafīẓun
   8:
-    arabic: "عَلِيۡمٌ‏ \uFEFF\uFEFF"
+    arabic: عَلِيمٞ
     translation: knowing
     transliteration: ʿalīmun
 ---

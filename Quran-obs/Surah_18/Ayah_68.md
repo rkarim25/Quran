@@ -1,5 +1,5 @@
 ---
-arabic_ayat: وَكَيۡفَ تَصۡبِرُ عَلٰى مَا لَمۡ تُحِطۡ بِهٖ خُبۡرًا‏
+arabic_ayat: وَكَيۡفَ تَصۡبِرُ عَلَىٰ مَا لَمۡ تُحِطۡ بِهِۦ خُبۡرٗا
 sentence_translation: And how can you be patient with what is beyond your ˹realm of˺
   knowledge?”
 word_by_word:
@@ -12,7 +12,7 @@ word_by_word:
     translation: you have patience
     transliteration: taṣbiru
   3:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: for
     transliteration: ʿalā
   4:
@@ -28,11 +28,11 @@ word_by_word:
     translation: you encompass
     transliteration: tuḥiṭ
   7:
-    arabic: بِهٖ
+    arabic: بِهِۦ
     translation: of it
     transliteration: bihi
   8:
-    arabic: خُبۡرًا‏
+    arabic: خُبۡرٗا
     translation: any knowledge
     transliteration: khub'ran
 ---

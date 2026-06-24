@@ -1,17 +1,17 @@
 ---
-arabic_ayat: وَّزُرُوۡعٍ وَّمَقَامٍ كَرِيۡمٍۙ‏
+arabic_ayat: وَزُرُوعٖ وَمَقَامٖ كَرِيمٖ
 sentence_translation: as well as ˹various˺ crops and splendid residences,
 word_by_word:
   1:
-    arabic: وَّزُرُوۡعٍ
+    arabic: وَزُرُوعٖ
     translation: And cornfields
     transliteration: wazurūʿin
   2:
-    arabic: وَّمَقَامٍ
+    arabic: وَمَقَامٖ
     translation: and places
     transliteration: wamaqāmin
   3:
-    arabic: كَرِيۡمٍۙ‏
+    arabic: كَرِيمٖ
     translation: noble
     transliteration: karīmin
 ---

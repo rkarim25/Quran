@@ -1,13 +1,13 @@
 ---
-arabic_ayat: سُبۡحٰنَهٗ وَتَعٰلٰى عَمَّا يَقُوۡلُوۡنَ عُلُوًّا كَبِيۡرًا‏
+arabic_ayat: سُبۡحَٰنَهُۥ وَتَعَٰلَىٰ عَمَّا يَقُولُونَ عُلُوّٗا كَبِيرٗا
 sentence_translation: Glorified and Highly Exalted is He above what they claim!
 word_by_word:
   1:
-    arabic: سُبۡحٰنَهٗ
+    arabic: سُبۡحَٰنَهُۥ
     translation: Glorified is He
     transliteration: sub'ḥānahu
   2:
-    arabic: وَتَعٰلٰى
+    arabic: وَتَعَٰلَىٰ
     translation: and Exalted is He
     transliteration: wataʿālā
   3:
@@ -15,15 +15,15 @@ word_by_word:
     translation: above what
     transliteration: ʿammā
   4:
-    arabic: يَقُوۡلُوۡنَ
+    arabic: يَقُولُونَ
     translation: they say
     transliteration: yaqūlūna
   5:
-    arabic: عُلُوًّا
+    arabic: عُلُوّٗا
     translation: (by) height
     transliteration: ʿuluwwan
   6:
-    arabic: كَبِيۡرًا‏
+    arabic: كَبِيرٗا
     translation: great
     transliteration: kabīran
 ---

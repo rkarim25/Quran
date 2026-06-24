@@ -1,61 +1,60 @@
 ---
-arabic_ayat: "وَالَّذِيۡنَ كَذَّبُوۡا بِاٰيٰتِنَا صُمٌّ وَّبُكۡمٌ فِى الظُّلُمٰتِ​ؕ\
-  \ مَنۡ يَّشَاِ اللّٰهُ يُضۡلِلۡهُ ؕ وَمَنۡ يَّشَاۡ يَجۡعَلۡهُ عَلٰى صِرَاطٍ مُّسۡتَقِيۡمٍ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: وَٱلَّذِينَ كَذَّبُواْ بِـَٔايَٰتِنَا صُمّٞ وَبُكۡمٞ فِي ٱلظُّلُمَٰتِۗ
+  مَن يَشَإِ ٱللَّهُ يُضۡلِلۡهُ وَمَن يَشَأۡ يَجۡعَلۡهُ عَلَىٰ صِرَٰطٖ مُّسۡتَقِيمٖ
 sentence_translation: Those who deny Our signs are ˹wilfully˺ deaf and dumb—lost in
   darkness. Allah leaves whoever He wills to stray and guides whoever He wills to
   the Straight Way.
 word_by_word:
   1:
-    arabic: وَالَّذِيۡنَ
+    arabic: وَٱلَّذِينَ
     translation: And those who
     transliteration: wa-alladhīna
   2:
-    arabic: كَذَّبُوۡا
+    arabic: كَذَّبُواْ
     translation: rejected
     transliteration: kadhabū
   3:
-    arabic: بِاٰيٰتِنَا
+    arabic: بِـَٔايَٰتِنَا
     translation: Our Verses
     transliteration: biāyātinā
   4:
-    arabic: صُمٌّ
+    arabic: صُمّٞ
     translation: (are) deaf
     transliteration: ṣummun
   5:
-    arabic: وَّبُكۡمٌ
+    arabic: وَبُكۡمٞ
     translation: and dumb
     transliteration: wabuk'mun
   6:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   7:
-    arabic: الظُّلُمٰتِ​ؕ
+    arabic: ٱلظُّلُمَٰتِۗ
     translation: the darkness[es]
     transliteration: l-ẓulumāti
   8:
-    arabic: مَنۡ
+    arabic: مَن
     translation: Whoever
     transliteration: man
   9:
-    arabic: يَّشَاِ
+    arabic: يَشَإِ
     translation: wills
     transliteration: yasha-i
   10:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: 'Allah '
     transliteration: l-lahu
   11:
-    arabic: يُضۡلِلۡهُ ؕ
+    arabic: يُضۡلِلۡهُ
     translation: He lets him go astray
     transliteration: yuḍ'lil'hu
   12:
-    arabic: وَمَنۡ
+    arabic: وَمَن
     translation: and whoever
     transliteration: waman
   13:
-    arabic: يَّشَاۡ
+    arabic: يَشَأۡ
     translation: 'He wills '
     transliteration: yasha
   14:
@@ -63,15 +62,15 @@ word_by_word:
     translation: He places him
     transliteration: yajʿalhu
   15:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: 'on'
     transliteration: ʿalā
   16:
-    arabic: صِرَاطٍ
+    arabic: صِرَٰطٖ
     translation: (the) way
     transliteration: ṣirāṭin
   17:
-    arabic: "مُّسۡتَقِيۡمٍ‏ \uFEFF\uFEFF"
+    arabic: مُّسۡتَقِيمٖ
     translation: (the) straight
     transliteration: mus'taqīmin
 ---

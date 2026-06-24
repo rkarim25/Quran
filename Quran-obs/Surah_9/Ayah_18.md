@@ -1,13 +1,13 @@
 ---
-arabic_ayat: اِنَّمَا يَعۡمُرُ مَسٰجِدَ اللّٰهِ مَنۡ اٰمَنَ بِاللّٰهِ وَالۡيَوۡمِ
-  الۡاٰخِرِ وَاَ قَامَ الصَّلٰوةَ وَاٰتَى الزَّكٰوةَ وَلَمۡ يَخۡشَ اِلَّا اللّٰهَ​
-  فَعَسٰٓى اُولٰۤٮِٕكَ اَنۡ يَّكُوۡنُوۡا مِنَ الۡمُهۡتَدِيۡنَ‏
+arabic_ayat: إِنَّمَا يَعۡمُرُ مَسَٰجِدَ ٱللَّهِ مَنۡ ءَامَنَ بِٱللَّهِ وَٱلۡيَوۡمِ
+  ٱلۡأٓخِرِ وَأَقَامَ ٱلصَّلَوٰةَ وَءَاتَى ٱلزَّكَوٰةَ وَلَمۡ يَخۡشَ إِلَّا ٱللَّهَۖ
+  فَعَسَىٰٓ أُوْلَٰٓئِكَ أَن يَكُونُواْ مِنَ ٱلۡمُهۡتَدِينَ
 sentence_translation: The mosques of Allah should only be maintained by those who
   believe in Allah and the Last Day, establish prayer, pay alms-tax, and fear none
   but Allah. It is right to hope that they will be among the ˹truly˺ guided.
 word_by_word:
   1:
-    arabic: اِنَّمَا
+    arabic: إِنَّمَا
     translation: Only
     transliteration: innamā
   2:
@@ -15,47 +15,47 @@ word_by_word:
     translation: will maintain
     transliteration: yaʿmuru
   3:
-    arabic: مَسٰجِدَ
+    arabic: مَسَٰجِدَ
     translation: (the) masajid of Allah
     transliteration: masājida
   4:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (the) masajid of Allah
     transliteration: l-lahi
   5:
-    arabic: مَنۡ
+    arabic: مَنۡ ءَ
     translation: (the one) who
     transliteration: man
   6:
-    arabic: اٰمَنَ
+    arabic: امَنَ
     translation: believes
     transliteration: āmana
   7:
-    arabic: بِاللّٰهِ
+    arabic: بِٱللَّهِ
     translation: in Allah
     transliteration: bil-lahi
   8:
-    arabic: وَالۡيَوۡمِ
+    arabic: وَٱلۡيَوۡمِ
     translation: and the Day
     transliteration: wal-yawmi
   9:
-    arabic: الۡاٰخِرِ
+    arabic: ٱلۡأٓخِرِ
     translation: the Last
     transliteration: l-ākhiri
   10:
-    arabic: وَاَ قَامَ
+    arabic: وَأَقَامَ
     translation: and establishes
     transliteration: wa-aqāma
   11:
-    arabic: الصَّلٰوةَ
+    arabic: ٱلصَّلَوٰةَ
     translation: the prayer
     transliteration: l-ṣalata
   12:
-    arabic: وَاٰتَى
+    arabic: وَءَاتَى
     translation: and gives
     transliteration: waātā
   13:
-    arabic: الزَّكٰوةَ
+    arabic: ٱلزَّكَوٰةَ
     translation: the zakah
     transliteration: l-zakata
   14:
@@ -67,27 +67,27 @@ word_by_word:
     translation: fear
     transliteration: yakhsha
   16:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   17:
-    arabic: اللّٰهَ​
+    arabic: ٱللَّهَۖ
     translation: Allah
     transliteration: l-laha
   18:
-    arabic: فَعَسٰٓى
+    arabic: فَعَسَىٰٓ
     translation: Then perhaps
     transliteration: faʿasā
   19:
-    arabic: اُولٰۤٮِٕكَ
+    arabic: أُوْلَٰٓئِكَ
     translation: those
     transliteration: ulāika
   20:
-    arabic: اَنۡ
+    arabic: أَن
     translation: '[that]'
     transliteration: an
   21:
-    arabic: يَّكُوۡنُوۡا
+    arabic: يَكُونُواْ
     translation: they are
     transliteration: yakūnū
   22:
@@ -95,7 +95,7 @@ word_by_word:
     translation: of
     transliteration: mina
   23:
-    arabic: الۡمُهۡتَدِيۡنَ‏
+    arabic: ٱلۡمُهۡتَدِينَ
     translation: the guided ones
     transliteration: l-muh'tadīna
 ---

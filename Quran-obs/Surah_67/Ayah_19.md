@@ -1,24 +1,24 @@
 ---
-arabic_ayat: اَوَلَمۡ يَرَوۡا اِلَى الطَّيۡرِ فَوۡقَهُمۡ صٰٓفّٰتٍ وَّيَقۡبِضۡنَؕ ۘ
-  مَا يُمۡسِكُهُنَّ اِلَّا الرَّحۡمٰنُ​ؕ اِنَّهٗ بِكُلِّ شَىۡءٍۢ بَصِيۡرٌ‏
+arabic_ayat: أَوَلَمۡ يَرَوۡاْ إِلَى ٱلطَّيۡرِ فَوۡقَهُمۡ صَٰٓفَّٰتٖ وَيَقۡبِضۡنَۚ
+  مَا يُمۡسِكُهُنَّ إِلَّا ٱلرَّحۡمَٰنُۚ إِنَّهُۥ بِكُلِّ شَيۡءِۭ بَصِيرٌ
 sentence_translation: Have they not seen the birds above them, spreading and folding
   their wings? None holds them up except the Most Compassionate. Indeed, He is All-Seeing
   of everything.
 word_by_word:
   1:
-    arabic: اَوَلَمۡ
+    arabic: أَوَلَمۡ
     translation: Do not
     transliteration: awalam
   2:
-    arabic: يَرَوۡا
+    arabic: يَرَوۡاْ
     translation: they see
     transliteration: yaraw
   3:
-    arabic: اِلَى
+    arabic: إِلَى
     translation: '[to]'
     transliteration: ilā
   4:
-    arabic: الطَّيۡرِ
+    arabic: ٱلطَّيۡرِ
     translation: the birds
     transliteration: l-ṭayri
   5:
@@ -26,11 +26,11 @@ word_by_word:
     translation: above them
     transliteration: fawqahum
   6:
-    arabic: صٰٓفّٰتٍ
+    arabic: صَٰٓفَّٰتٖ
     translation: spreading (their wings)
     transliteration: ṣāffātin
   7:
-    arabic: وَّيَقۡبِضۡنَؕ ۘ
+    arabic: وَيَقۡبِضۡنَۚ
     translation: and folding
     transliteration: wayaqbiḍ'na
   8:
@@ -42,15 +42,15 @@ word_by_word:
     translation: holds them
     transliteration: yum'sikuhunna
   10:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   11:
-    arabic: الرَّحۡمٰنُ​ؕ
+    arabic: ٱلرَّحۡمَٰنُۚ
     translation: the Most Gracious
     transliteration: l-raḥmānu
   12:
-    arabic: اِنَّهٗ
+    arabic: إِنَّهُۥ
     translation: Indeed, He
     transliteration: innahu
   13:
@@ -58,11 +58,11 @@ word_by_word:
     translation: (is) of every
     transliteration: bikulli
   14:
-    arabic: شَىۡءٍۢ
+    arabic: شَيۡءِۭ
     translation: thing
     transliteration: shayin
   15:
-    arabic: بَصِيۡرٌ‏
+    arabic: بَصِيرٌ
     translation: All-Seer
     transliteration: baṣīrun
 ---

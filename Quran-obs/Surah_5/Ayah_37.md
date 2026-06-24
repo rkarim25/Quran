@@ -1,19 +1,19 @@
 ---
-arabic_ayat: يُرِيۡدُوۡنَ اَنۡ يَّخۡرُجُوۡا مِنَ النَّارِ وَمَا هُمۡ بِخَارِجِيۡنَ
-  مِنۡهَا​ وَلَهُمۡ عَذَابٌ مُّقِيۡمٌ‏
+arabic_ayat: يُرِيدُونَ أَن يَخۡرُجُواْ مِنَ ٱلنَّارِ وَمَا هُم بِخَٰرِجِينَ مِنۡهَاۖ
+  وَلَهُمۡ عَذَابٞ مُّقِيمٞ
 sentence_translation: They will be desperate to get out of the Fire but they will
   never be able to. And they will suffer an everlasting punishment.
 word_by_word:
   1:
-    arabic: يُرِيۡدُوۡنَ
+    arabic: يُرِيدُونَ
     translation: They will wish
     transliteration: yurīdūna
   2:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that
     transliteration: an
   3:
-    arabic: يَّخۡرُجُوۡا
+    arabic: يَخۡرُجُواْ
     translation: they come out
     transliteration: yakhrujū
   4:
@@ -21,7 +21,7 @@ word_by_word:
     translation: of
     transliteration: mina
   5:
-    arabic: النَّارِ
+    arabic: ٱلنَّارِ
     translation: the Fire
     transliteration: l-nāri
   6:
@@ -29,15 +29,15 @@ word_by_word:
     translation: but not
     transliteration: wamā
   7:
-    arabic: هُمۡ
+    arabic: هُم
     translation: they
     transliteration: hum
   8:
-    arabic: بِخَارِجِيۡنَ
+    arabic: بِخَٰرِجِينَ
     translation: will come out
     transliteration: bikhārijīna
   9:
-    arabic: مِنۡهَا​
+    arabic: مِنۡهَاۖ
     translation: of it
     transliteration: min'hā
   10:
@@ -45,11 +45,11 @@ word_by_word:
     translation: And for them
     transliteration: walahum
   11:
-    arabic: عَذَابٌ
+    arabic: عَذَابٞ
     translation: (is) a punishment
     transliteration: ʿadhābun
   12:
-    arabic: مُّقِيۡمٌ‏
+    arabic: مُّقِيمٞ
     translation: lasting
     transliteration: muqīmun
 ---

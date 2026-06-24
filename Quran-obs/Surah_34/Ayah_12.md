@@ -1,7 +1,7 @@
 ---
-arabic_ayat: وَلِسُلَيۡمٰنَ الرِّيۡحَ غُدُوُّهَا شَهۡرٌ وَّرَوَاحُهَا شَهۡرٌۚ وَ اَسَلۡنَا
-  لَهٗ عَيۡنَ الۡقِطۡرِؕ وَمِنَ الۡجِنِّ مَنۡ يَّعۡمَلُ بَيۡنَ يَدَيۡهِ بِاِذۡنِ رَبِّهِؕ
-  وَمَنۡ يَّزِغۡ مِنۡهُمۡ عَنۡ اَمۡرِنَا نُذِقۡهُ مِنۡ عَذَابِ السَّعِيۡرِ‏
+arabic_ayat: وَلِسُلَيۡمَٰنَ ٱلرِّيحَ غُدُوُّهَا شَهۡرٞ وَرَوَاحُهَا شَهۡرٞۖ وَأَسَلۡنَا
+  لَهُۥ عَيۡنَ ٱلۡقِطۡرِۖ وَمِنَ ٱلۡجِنِّ مَن يَعۡمَلُ بَيۡنَ يَدَيۡهِ بِإِذۡنِ رَبِّهِۦۖ
+  وَمَن يَزِغۡ مِنۡهُمۡ عَنۡ أَمۡرِنَا نُذِقۡهُ مِنۡ عَذَابِ ٱلسَّعِيرِ
 sentence_translation: 'And to Solomon ˹We subjected˺ the wind: its morning stride
   was a month’s journey and so was its evening stride. And We caused a stream of molten
   copper to flow for him, and ˹We subjected˺ some of the jinn to work under him by
@@ -9,11 +9,11 @@ sentence_translation: 'And to Solomon ˹We subjected˺ the wind: its morning str
   the torment of the blaze.'
 word_by_word:
   1:
-    arabic: وَلِسُلَيۡمٰنَ
+    arabic: وَلِسُلَيۡمَٰنَ
     translation: And to Sulaiman
     transliteration: walisulaymāna
   2:
-    arabic: الرِّيۡحَ
+    arabic: ٱلرِّيحَ
     translation: 'the wind '
     transliteration: l-rīḥa
   3:
@@ -21,23 +21,23 @@ word_by_word:
     translation: its morning course
     transliteration: ghuduwwuhā
   4:
-    arabic: شَهۡرٌ
+    arabic: شَهۡرٞ
     translation: (was) a month
     transliteration: shahrun
   5:
-    arabic: وَّرَوَاحُهَا
+    arabic: وَرَوَاحُهَا
     translation: and its afternoon course
     transliteration: warawāḥuhā
   6:
-    arabic: شَهۡرٌۚ
+    arabic: شَهۡرٞۖ
     translation: (was) a month
     transliteration: shahrun
   7:
-    arabic: وَ اَسَلۡنَا
+    arabic: وَأَسَلۡنَا
     translation: and We caused to flow
     transliteration: wa-asalnā
   8:
-    arabic: لَهٗ
+    arabic: لَهُۥ
     translation: for him
     transliteration: lahu
   9:
@@ -45,7 +45,7 @@ word_by_word:
     translation: a spring
     transliteration: ʿayna
   10:
-    arabic: الۡقِطۡرِؕ
+    arabic: ٱلۡقِطۡرِۖ
     translation: (of) molten copper
     transliteration: l-qiṭ'ri
   11:
@@ -53,15 +53,15 @@ word_by_word:
     translation: And [of]
     transliteration: wamina
   12:
-    arabic: الۡجِنِّ
+    arabic: ٱلۡجِنِّ
     translation: the jinn
     transliteration: l-jini
   13:
-    arabic: مَنۡ
+    arabic: مَن
     translation: who
     transliteration: man
   14:
-    arabic: يَّعۡمَلُ
+    arabic: يَعۡمَلُ
     translation: worked
     transliteration: yaʿmalu
   15:
@@ -73,19 +73,19 @@ word_by_word:
     translation: before him
     transliteration: yadayhi
   17:
-    arabic: بِاِذۡنِ
+    arabic: بِإِذۡنِ
     translation: by the permission
     transliteration: bi-idh'ni
   18:
-    arabic: رَبِّهِؕ
+    arabic: رَبِّهِۦۖ
     translation: (of) his Lord
     transliteration: rabbihi
   19:
-    arabic: وَمَنۡ
+    arabic: وَمَن
     translation: And whoever
     transliteration: waman
   20:
-    arabic: يَّزِغۡ
+    arabic: يَزِغۡ
     translation: deviated
     transliteration: yazigh
   21:
@@ -97,7 +97,7 @@ word_by_word:
     translation: from
     transliteration: ʿan
   23:
-    arabic: اَمۡرِنَا
+    arabic: أَمۡرِنَا
     translation: Our Command
     transliteration: amrinā
   24:
@@ -113,7 +113,7 @@ word_by_word:
     translation: (the) punishment
     transliteration: ʿadhābi
   27:
-    arabic: السَّعِيۡرِ‏
+    arabic: ٱلسَّعِيرِ
     translation: (of) the Blaze
     transliteration: l-saʿīri
 ---

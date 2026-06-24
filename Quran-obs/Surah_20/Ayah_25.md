@@ -1,5 +1,5 @@
 ---
-arabic_ayat: قَالَ رَبِّ اشۡرَحۡ لِىۡ صَدۡرِىْ ۙ‏
+arabic_ayat: قَالَ رَبِّ ٱشۡرَحۡ لِي صَدۡرِي
 sentence_translation: Moses prayed, “My Lord! Uplift my heart for me,
 word_by_word:
   1:
@@ -11,15 +11,15 @@ word_by_word:
     translation: My Lord
     transliteration: rabbi
   3:
-    arabic: اشۡرَحۡ
+    arabic: ٱشۡرَحۡ
     translation: Expand
     transliteration: ish'raḥ
   4:
-    arabic: لِىۡ
+    arabic: لِي
     translation: for me
     transliteration: lī
   5:
-    arabic: صَدۡرِىْ ۙ‏
+    arabic: صَدۡرِي
     translation: my breast
     transliteration: ṣadrī
 ---

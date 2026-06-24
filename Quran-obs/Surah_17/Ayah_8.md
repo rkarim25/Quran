@@ -1,12 +1,12 @@
 ---
-arabic_ayat: عَسٰى رَبُّكُمۡ اَنۡ يَّرۡحَمَكُمۡ​ ۚ وَاِنۡ عُدْتُّمۡ عُدۡنَا​ۘ وَجَعَلۡنَا
-  جَهَنَّمَ لِلۡكٰفِرِيۡنَ حَصِيۡرًا‏
+arabic_ayat: عَسَىٰ رَبُّكُمۡ أَن يَرۡحَمَكُمۡۚ وَإِنۡ عُدتُّمۡ عُدۡنَاۚ وَجَعَلۡنَا
+  جَهَنَّمَ لِلۡكَٰفِرِينَ حَصِيرًا
 sentence_translation: Perhaps your Lord will have mercy on you ˹if you repent˺, but
   if you return ˹to sin˺, We will return ˹to punishment˺. And We have made Hell a
   ˹permanent˺ confinement for the disbelievers.”
 word_by_word:
   1:
-    arabic: عَسٰى
+    arabic: عَسَىٰ
     translation: (It) may be
     transliteration: ʿasā
   2:
@@ -14,23 +14,23 @@ word_by_word:
     translation: that your Lord
     transliteration: rabbukum
   3:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that your Lord
     transliteration: an
   4:
-    arabic: يَّرۡحَمَكُمۡ​ ۚ
+    arabic: يَرۡحَمَكُمۡۚ
     translation: (may) have mercy upon you
     transliteration: yarḥamakum
   5:
-    arabic: وَاِنۡ
+    arabic: وَإِنۡ
     translation: But if
     transliteration: wa-in
   6:
-    arabic: عُدْتُّمۡ
+    arabic: عُدتُّمۡ
     translation: you return
     transliteration: ʿudttum
   7:
-    arabic: عُدۡنَا​ۘ
+    arabic: عُدۡنَاۚ
     translation: We will return
     transliteration: ʿud'nā
   8:
@@ -42,11 +42,11 @@ word_by_word:
     translation: Hell
     transliteration: jahannama
   10:
-    arabic: لِلۡكٰفِرِيۡنَ
+    arabic: لِلۡكَٰفِرِينَ
     translation: for the disbelievers
     transliteration: lil'kāfirīna
   11:
-    arabic: حَصِيۡرًا‏
+    arabic: حَصِيرًا
     translation: a prison-bed
     transliteration: ḥaṣīran
 ---

@@ -1,21 +1,21 @@
 ---
-arabic_ayat: اِذۡ اَوۡحَيۡنَاۤ اِلٰٓى اُمِّكَ مَا يُوۡحٰٓى ۙ‏
+arabic_ayat: إِذۡ أَوۡحَيۡنَآ إِلَىٰٓ أُمِّكَ مَا يُوحَىٰٓ
 sentence_translation: 'when We inspired your mother with this:'
 word_by_word:
   1:
-    arabic: اِذۡ
+    arabic: إِذۡ
     translation: When
     transliteration: idh
   2:
-    arabic: اَوۡحَيۡنَاۤ
+    arabic: أَوۡحَيۡنَآ
     translation: We inspired
     transliteration: awḥaynā
   3:
-    arabic: اِلٰٓى
+    arabic: إِلَىٰٓ
     translation: to
     transliteration: ilā
   4:
-    arabic: اُمِّكَ
+    arabic: أُمِّكَ
     translation: your mother
     transliteration: ummika
   5:
@@ -23,7 +23,7 @@ word_by_word:
     translation: what
     transliteration: mā
   6:
-    arabic: يُوۡحٰٓى ۙ‏
+    arabic: يُوحَىٰٓ
     translation: is inspired
     transliteration: yūḥā
 ---

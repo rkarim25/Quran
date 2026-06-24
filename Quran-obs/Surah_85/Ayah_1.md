@@ -1,9 +1,9 @@
 ---
-arabic_ayat: وَالسَّمَآءِ ذَاتِ الۡبُرُوۡجِۙ‏
+arabic_ayat: وَٱلسَّمَآءِ ذَاتِ ٱلۡبُرُوجِ
 sentence_translation: By the sky full of constellations,
 word_by_word:
   1:
-    arabic: وَالسَّمَآءِ
+    arabic: وَٱلسَّمَآءِ
     translation: By the sky
     transliteration: wal-samāi
   2:
@@ -11,7 +11,7 @@ word_by_word:
     translation: containing
     transliteration: dhāti
   3:
-    arabic: الۡبُرُوۡجِۙ‏
+    arabic: ٱلۡبُرُوجِ
     translation: the constellations
     transliteration: l-burūji
 ---

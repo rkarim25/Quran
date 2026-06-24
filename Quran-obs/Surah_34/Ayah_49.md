@@ -1,5 +1,5 @@
 ---
-arabic_ayat: قُلۡ جَآءَ الۡحَـقُّ وَمَا يُبۡدِئُ الۡبَاطِلُ وَمَا يُعِيۡدُ‏
+arabic_ayat: قُلۡ جَآءَ ٱلۡحَقُّ وَمَا يُبۡدِئُ ٱلۡبَٰطِلُ وَمَا يُعِيدُ
 sentence_translation: Say, “The truth has come, and falsehood will vanish, never to
   return.”
 word_by_word:
@@ -12,7 +12,7 @@ word_by_word:
     translation: Has come
     transliteration: jāa
   3:
-    arabic: الۡحَـقُّ
+    arabic: ٱلۡحَقُّ
     translation: the truth
     transliteration: l-ḥaqu
   4:
@@ -24,7 +24,7 @@ word_by_word:
     translation: (can) originate
     transliteration: yub'di-u
   6:
-    arabic: الۡبَاطِلُ
+    arabic: ٱلۡبَٰطِلُ
     translation: the falsehood
     transliteration: l-bāṭilu
   7:
@@ -32,7 +32,7 @@ word_by_word:
     translation: and not
     transliteration: wamā
   8:
-    arabic: يُعِيۡدُ‏
+    arabic: يُعِيدُ
     translation: repeat
     transliteration: yuʿīdu
 ---

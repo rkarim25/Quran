@@ -1,20 +1,20 @@
 ---
-arabic_ayat: اِنَّمَا يَسۡتَاْذِنُكَ الَّذِيۡنَ لَا يُؤۡمِنُوۡنَ بِاللّٰهِ وَالۡيَوۡمِ
-  الۡاٰخِرِ وَارۡتَابَتۡ قُلُوۡبُهُمۡ فَهُمۡ فِىۡ رَيۡبِهِمۡ يَتَرَدَّدُوۡنَ‏
+arabic_ayat: إِنَّمَا يَسۡتَـٔۡذِنُكَ ٱلَّذِينَ لَا يُؤۡمِنُونَ بِٱللَّهِ وَٱلۡيَوۡمِ
+  ٱلۡأٓخِرِ وَٱرۡتَابَتۡ قُلُوبُهُمۡ فَهُمۡ فِي رَيۡبِهِمۡ يَتَرَدَّدُونَ
 sentence_translation: No one would ask for exemption except those who have no faith
   in Allah or the Last Day, and whose hearts are in doubt, so they are torn by their
   doubts.
 word_by_word:
   1:
-    arabic: اِنَّمَا
+    arabic: إِنَّمَا
     translation: Only
     transliteration: innamā
   2:
-    arabic: يَسۡتَاْذِنُكَ
+    arabic: يَسۡتَـٔۡذِنُكَ
     translation: ask your leave
     transliteration: yastadhinuka
   3:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   4:
@@ -22,27 +22,27 @@ word_by_word:
     translation: (do) not
     transliteration: lā
   5:
-    arabic: يُؤۡمِنُوۡنَ
+    arabic: يُؤۡمِنُونَ
     translation: believe
     transliteration: yu'minūna
   6:
-    arabic: بِاللّٰهِ
+    arabic: بِٱللَّهِ
     translation: in Allah
     transliteration: bil-lahi
   7:
-    arabic: وَالۡيَوۡمِ
+    arabic: وَٱلۡيَوۡمِ
     translation: and the Day
     transliteration: wal-yawmi
   8:
-    arabic: الۡاٰخِرِ
+    arabic: ٱلۡأٓخِرِ
     translation: the Last
     transliteration: l-ākhiri
   9:
-    arabic: وَارۡتَابَتۡ
+    arabic: وَٱرۡتَابَتۡ
     translation: and (are in) doubts
     transliteration: wa-ir'tābat
   10:
-    arabic: قُلُوۡبُهُمۡ
+    arabic: قُلُوبُهُمۡ
     translation: their hearts
     transliteration: qulūbuhum
   11:
@@ -50,7 +50,7 @@ word_by_word:
     translation: so they
     transliteration: fahum
   12:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   13:
@@ -58,7 +58,7 @@ word_by_word:
     translation: their doubts
     transliteration: raybihim
   14:
-    arabic: يَتَرَدَّدُوۡنَ‏
+    arabic: يَتَرَدَّدُونَ
     translation: they waver
     transliteration: yataraddadūna
 ---

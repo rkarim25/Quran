@@ -1,22 +1,22 @@
 ---
-arabic_ayat: عٰلِمِ الۡغَيۡبِ وَالشَّهَادَةِ فَتَعٰلٰى عَمَّا يُشۡرِكُوۡنَ‏
+arabic_ayat: عَٰلِمِ ٱلۡغَيۡبِ وَٱلشَّهَٰدَةِ فَتَعَٰلَىٰ عَمَّا يُشۡرِكُونَ
 sentence_translation: ˹He is the˺ Knower of the seen and unseen. Exalted is He above
   what they associate ˹with Him˺.
 word_by_word:
   1:
-    arabic: عٰلِمِ
+    arabic: عَٰلِمِ
     translation: Knower
     transliteration: ʿālimi
   2:
-    arabic: الۡغَيۡبِ
+    arabic: ٱلۡغَيۡبِ
     translation: (of) the unseen
     transliteration: l-ghaybi
   3:
-    arabic: وَالشَّهَادَةِ
+    arabic: وَٱلشَّهَٰدَةِ
     translation: and the witnessed
     transliteration: wal-shahādati
   4:
-    arabic: فَتَعٰلٰى
+    arabic: فَتَعَٰلَىٰ
     translation: exalted is He
     transliteration: fataʿālā
   5:
@@ -24,7 +24,7 @@ word_by_word:
     translation: above what
     transliteration: ʿammā
   6:
-    arabic: يُشۡرِكُوۡنَ‏
+    arabic: يُشۡرِكُونَ
     translation: they associate
     transliteration: yush'rikūna
 ---

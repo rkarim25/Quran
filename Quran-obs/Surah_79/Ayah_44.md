@@ -1,9 +1,9 @@
 ---
-arabic_ayat: اِلٰى رَبِّكَ مُنۡتَهٰٮهَاؕ‏
+arabic_ayat: إِلَىٰ رَبِّكَ مُنتَهَىٰهَآ
 sentence_translation: That knowledge rests with your Lord ˹alone˺.
 word_by_word:
   1:
-    arabic: اِلٰى
+    arabic: إِلَىٰ
     translation: To
     transliteration: ilā
   2:
@@ -11,7 +11,7 @@ word_by_word:
     translation: your Lord
     transliteration: rabbika
   3:
-    arabic: مُنۡتَهٰٮهَاؕ‏
+    arabic: مُنتَهَىٰهَآ
     translation: (is) its finality
     transliteration: muntahāhā
 ---

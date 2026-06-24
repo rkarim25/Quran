@@ -1,13 +1,13 @@
 ---
-arabic_ayat: وَمَنۡ يَّعۡمَلۡ مِثۡقَالَ ذَرَّةٍ شَرًّا يَّرَهٗ‏
+arabic_ayat: وَمَن يَعۡمَلۡ مِثۡقَالَ ذَرَّةٖ شَرّٗا يَرَهُۥ
 sentence_translation: And whoever does an atom’s weight of evil will see it.
 word_by_word:
   1:
-    arabic: وَمَنۡ
+    arabic: وَمَن
     translation: And whoever
     transliteration: waman
   2:
-    arabic: يَّعۡمَلۡ
+    arabic: يَعۡمَلۡ
     translation: does
     transliteration: yaʿmal
   3:
@@ -15,15 +15,15 @@ word_by_word:
     translation: (equal to the) weight
     transliteration: mith'qāla
   4:
-    arabic: ذَرَّةٍ
+    arabic: ذَرَّةٖ
     translation: (of) an atom
     transliteration: dharratin
   5:
-    arabic: شَرًّا
+    arabic: شَرّٗا
     translation: evil
     transliteration: sharran
   6:
-    arabic: يَّرَهٗ‏
+    arabic: يَرَهُۥ
     translation: will see it
     transliteration: yarahu
 ---

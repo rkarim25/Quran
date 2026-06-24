@@ -1,5 +1,5 @@
 ---
-arabic_ayat: وَمَا هُوَ عَلَى الۡغَيۡبِ بِضَنِيۡنٍ​ۚ‏
+arabic_ayat: وَمَا هُوَ عَلَى ٱلۡغَيۡبِ بِضَنِينٖ
 sentence_translation: and he does not withhold ˹what is revealed to him of˺ the unseen.
 word_by_word:
   1:
@@ -15,11 +15,11 @@ word_by_word:
     translation: 'on'
     transliteration: ʿalā
   4:
-    arabic: الۡغَيۡبِ
+    arabic: ٱلۡغَيۡبِ
     translation: the unseen
     transliteration: l-ghaybi
   5:
-    arabic: بِضَنِيۡنٍ​ۚ‏
+    arabic: بِضَنِينٖ
     translation: a withholder
     transliteration: biḍanīnin
 ---

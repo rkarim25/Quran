@@ -1,11 +1,11 @@
 ---
-arabic_ayat: وَقَالُوۡا لَوۡلَا نُزِّلَ هٰذَا الۡقُرۡاٰنُ عَلٰى رَجُلٍ مِّنَ الۡقَرۡيَتَيۡنِ
-  عَظِيۡمٍ‏
+arabic_ayat: وَقَالُواْ لَوۡلَا نُزِّلَ هَٰذَا ٱلۡقُرۡءَانُ عَلَىٰ رَجُلٖ مِّنَ ٱلۡقَرۡيَتَيۡنِ
+  عَظِيمٍ
 sentence_translation: And they exclaimed, “If only this Quran was revealed to a great
   man from ˹one of˺ the two cities!”
 word_by_word:
   1:
-    arabic: وَقَالُوۡا
+    arabic: وَقَالُواْ
     translation: And they say
     transliteration: waqālū
   2:
@@ -17,19 +17,19 @@ word_by_word:
     translation: was sent down
     transliteration: nuzzila
   4:
-    arabic: هٰذَا
+    arabic: هَٰذَا
     translation: this
     transliteration: hādhā
   5:
-    arabic: الۡقُرۡاٰنُ
+    arabic: ٱلۡقُرۡءَانُ
     translation: the Quran
     transliteration: l-qur'ānu
   6:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: to
     transliteration: ʿalā
   7:
-    arabic: رَجُلٍ
+    arabic: رَجُلٖ
     translation: a man
     transliteration: rajulin
   8:
@@ -37,11 +37,11 @@ word_by_word:
     translation: from
     transliteration: mina
   9:
-    arabic: الۡقَرۡيَتَيۡنِ
+    arabic: ٱلۡقَرۡيَتَيۡنِ
     translation: the two towns
     transliteration: l-qaryatayni
   10:
-    arabic: عَظِيۡمٍ‏
+    arabic: عَظِيمٍ
     translation: great
     transliteration: ʿaẓīmin
 ---

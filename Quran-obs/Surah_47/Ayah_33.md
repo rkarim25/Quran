@@ -1,35 +1,35 @@
 ---
-arabic_ayat: يٰۤاَيُّهَا الَّذِيۡنَ اٰمَنُوۡۤا اَطِيۡعُوا اللّٰهَ وَاَطِيۡعُوا الرَّسُوۡلَ
-  وَلَا تُبۡطِلُوۡۤا اَعۡمَالَـكُمۡ‏
+arabic_ayat: ۞ يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓاْ أَطِيعُواْ ٱللَّهَ وَأَطِيعُواْ
+  ٱلرَّسُولَ وَلَا تُبۡطِلُوٓاْ أَعۡمَٰلَكُمۡ
 sentence_translation: O believers! Obey Allah and obey the Messenger, and do not let
   your deeds be in vain.
 word_by_word:
   1:
-    arabic: ۞ يٰۤاَيُّهَا
+    arabic: ۞ يَٰٓأَيُّهَا
     translation: O you who believe
     transliteration: yāayyuhā
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ ءَ
     translation: O you who believe
     transliteration: alladhīna
   3:
-    arabic: اٰمَنُوۡۤا
+    arabic: امَنُوٓاْ
     translation: O you who believe
     transliteration: āmanū
   4:
-    arabic: اَطِيۡعُوا
+    arabic: أَطِيعُواْ
     translation: Obey
     transliteration: aṭīʿū
   5:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   6:
-    arabic: وَاَطِيۡعُوا
+    arabic: وَأَطِيعُواْ
     translation: and obey
     transliteration: wa-aṭīʿū
   7:
-    arabic: الرَّسُوۡلَ
+    arabic: ٱلرَّسُولَ
     translation: the Messenger
     transliteration: l-rasūla
   8:
@@ -37,11 +37,11 @@ word_by_word:
     translation: and (do) not
     transliteration: walā
   9:
-    arabic: تُبۡطِلُوۡۤا
+    arabic: تُبۡطِلُوٓاْ
     translation: make vain
     transliteration: tub'ṭilū
   10:
-    arabic: اَعۡمَالَـكُمۡ‏
+    arabic: أَعۡمَٰلَكُمۡ
     translation: your deeds
     transliteration: aʿmālakum
 ---

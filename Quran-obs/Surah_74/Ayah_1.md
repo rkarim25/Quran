@@ -1,13 +1,13 @@
 ---
-arabic_ayat: يٰۤاَيُّهَا الۡمُدَّثِّرُۙ‏
+arabic_ayat: يَٰٓأَيُّهَا ٱلۡمُدَّثِّرُ
 sentence_translation: O you covered up ˹in your clothes˺!
 word_by_word:
   1:
-    arabic: يٰۤاَيُّهَا
+    arabic: يَٰٓأَيُّهَا
     translation: O you
     transliteration: yāayyuhā
   2:
-    arabic: الۡمُدَّثِّرُۙ‏
+    arabic: ٱلۡمُدَّثِّرُ
     translation: who covers himself
     transliteration: l-mudathiru
 ---

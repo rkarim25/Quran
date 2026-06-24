@@ -1,17 +1,17 @@
 ---
-arabic_ayat: وَاَنۡتُمۡ حِيۡنَٮِٕذٍ تَـنۡظُرُوۡنَۙ‏
+arabic_ayat: وَأَنتُمۡ حِينَئِذٖ تَنظُرُونَ
 sentence_translation: while you are looking on?
 word_by_word:
   1:
-    arabic: وَاَنۡتُمۡ
+    arabic: وَأَنتُمۡ
     translation: And you
     transliteration: wa-antum
   2:
-    arabic: حِيۡنَٮِٕذٍ
+    arabic: حِينَئِذٖ
     translation: (at) that time
     transliteration: ḥīna-idhin
   3:
-    arabic: تَـنۡظُرُوۡنَۙ‏
+    arabic: تَنظُرُونَ
     translation: look on
     transliteration: tanẓurūna
 ---

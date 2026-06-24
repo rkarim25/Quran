@@ -1,17 +1,17 @@
 ---
-arabic_ayat: فِىۡ عَمَدٍ مُّمَدَّدَةٍ‏
+arabic_ayat: فِي عَمَدٖ مُّمَدَّدَةِۭ
 sentence_translation: ˹tightly secured˺ with long braces. 
 word_by_word:
   1:
-    arabic: فِىۡ
+    arabic: فِي
     translation: In
     transliteration: fī
   2:
-    arabic: عَمَدٍ
+    arabic: عَمَدٖ
     translation: columns
     transliteration: ʿamadin
   3:
-    arabic: مُّمَدَّدَةٍ‏
+    arabic: مُّمَدَّدَةِۭ
     translation: extended
     transliteration: mumaddadatin
 ---

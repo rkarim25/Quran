@@ -1,13 +1,13 @@
 ---
-arabic_ayat: وَّنَذۡكُرَكَ كَثِيۡرًا ؕ‏
+arabic_ayat: وَنَذۡكُرَكَ كَثِيرًا
 sentence_translation: and remember You much,
 word_by_word:
   1:
-    arabic: وَّنَذۡكُرَكَ
+    arabic: وَنَذۡكُرَكَ
     translation: And [we] remember You
     transliteration: wanadhkuraka
   2:
-    arabic: كَثِيۡرًا ؕ‏
+    arabic: كَثِيرًا
     translation: much
     transliteration: kathīran
 ---

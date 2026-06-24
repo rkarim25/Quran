@@ -1,8 +1,8 @@
 ---
-arabic_ayat: اِنَّ رَبَّكُمُ اللّٰهُ الَّذِىۡ خَلَقَ السَّمٰوٰتِ وَ الۡاَرۡضَ فِىۡ
-  سِتَّةِ اَيَّامٍ ثُمَّ اسۡتَوٰى عَلَى الۡعَرۡشِ يُغۡشِى الَّيۡلَ النَّهَارَ يَطۡلُبُهٗ
-  حَثِيۡثًا ۙ وَّالشَّمۡسَ وَالۡقَمَرَ وَالنُّجُوۡمَ مُسَخَّرٰتٍۢ بِاَمۡرِهٖ ؕ اَلَا
-  لَـهُ الۡخَـلۡقُ وَالۡاَمۡرُ​ ؕ تَبٰرَكَ اللّٰهُ رَبُّ الۡعٰلَمِيۡنَ‏
+arabic_ayat: إِنَّ رَبَّكُمُ ٱللَّهُ ٱلَّذِي خَلَقَ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضَ فِي
+  سِتَّةِ أَيَّامٖ ثُمَّ ٱسۡتَوَىٰ عَلَى ٱلۡعَرۡشِۖ يُغۡشِي ٱلَّيۡلَ ٱلنَّهَارَ يَطۡلُبُهُۥ
+  حَثِيثٗا وَٱلشَّمۡسَ وَٱلۡقَمَرَ وَٱلنُّجُومَ مُسَخَّرَٰتِۭ بِأَمۡرِهِۦٓۗ أَلَا
+  لَهُ ٱلۡخَلۡقُ وَٱلۡأَمۡرُۗ تَبَارَكَ ٱللَّهُ رَبُّ ٱلۡعَٰلَمِينَ
 sentence_translation: Indeed your Lord is Allah Who created the heavens and the earth
   in six Days, then established Himself on the Throne. He makes the day and night
   overlap in rapid succession. He created the sun, the moon, and the stars—all subjected
@@ -10,7 +10,7 @@ sentence_translation: Indeed your Lord is Allah Who created the heavens and the 
   of all worlds!
 word_by_word:
   1:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   2:
@@ -18,11 +18,11 @@ word_by_word:
     translation: your Lord
     transliteration: rabbakumu
   3:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: (is) Allah
     transliteration: l-lahu
   4:
-    arabic: الَّذِىۡ
+    arabic: ٱلَّذِي
     translation: the One Who
     transliteration: alladhī
   5:
@@ -30,15 +30,15 @@ word_by_word:
     translation: created
     transliteration: khalaqa
   6:
-    arabic: السَّمٰوٰتِ
+    arabic: ٱلسَّمَٰوَٰتِ
     translation: the heavens
     transliteration: l-samāwāti
   7:
-    arabic: وَ الۡاَرۡضَ
+    arabic: وَٱلۡأَرۡضَ
     translation: and the earth
     transliteration: wal-arḍa
   8:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   9:
@@ -46,7 +46,7 @@ word_by_word:
     translation: six
     transliteration: sittati
   10:
-    arabic: اَيَّامٍ
+    arabic: أَيَّامٖ
     translation: epochs
     transliteration: ayyāmin
   11:
@@ -54,7 +54,7 @@ word_by_word:
     translation: then
     transliteration: thumma
   12:
-    arabic: اسۡتَوٰى
+    arabic: ٱسۡتَوَىٰ
     translation: He ascended
     transliteration: is'tawā
   13:
@@ -62,71 +62,71 @@ word_by_word:
     translation: 'on'
     transliteration: ʿalā
   14:
-    arabic: الۡعَرۡشِ
+    arabic: ٱلۡعَرۡشِۖ
     translation: the Throne
     transliteration: l-ʿarshi
   15:
-    arabic: يُغۡشِى
+    arabic: يُغۡشِي
     translation: He covers
     transliteration: yugh'shī
   16:
-    arabic: الَّيۡلَ
+    arabic: ٱلَّيۡلَ
     translation: the night
     transliteration: al-layla
   17:
-    arabic: النَّهَارَ
+    arabic: ٱلنَّهَارَ
     translation: (with) the day
     transliteration: l-nahāra
   18:
-    arabic: يَطۡلُبُهٗ
+    arabic: يَطۡلُبُهُۥ
     translation: seeking it
     transliteration: yaṭlubuhu
   19:
-    arabic: حَثِيۡثًا ۙ
+    arabic: حَثِيثٗا
     translation: rapidly
     transliteration: ḥathīthan
   20:
-    arabic: وَّالشَّمۡسَ
+    arabic: وَٱلشَّمۡسَ
     translation: and the sun
     transliteration: wal-shamsa
   21:
-    arabic: وَالۡقَمَرَ
+    arabic: وَٱلۡقَمَرَ
     translation: and the moon
     transliteration: wal-qamara
   22:
-    arabic: وَالنُّجُوۡمَ
+    arabic: وَٱلنُّجُومَ
     translation: 'and the stars '
     transliteration: wal-nujūma
   23:
-    arabic: مُسَخَّرٰتٍۢ
+    arabic: مُسَخَّرَٰتِۭ
     translation: subjected
     transliteration: musakharātin
   24:
-    arabic: بِاَمۡرِهٖ ؕ
+    arabic: بِأَمۡرِهِۦٓۗ
     translation: by His command
     transliteration: bi-amrihi
   25:
-    arabic: اَلَا
+    arabic: أَلَا
     translation: Unquestionably
     transliteration: alā
   26:
-    arabic: لَـهُ
+    arabic: لَهُ
     translation: for Him
     transliteration: lahu
   27:
-    arabic: الۡخَـلۡقُ
+    arabic: ٱلۡخَلۡقُ
     translation: (is) the creation
     transliteration: l-khalqu
   28:
-    arabic: وَالۡاَمۡرُ​ ؕ
+    arabic: وَٱلۡأَمۡرُۗ
     translation: and the command
     transliteration: wal-amru
   29:
-    arabic: تَبٰرَكَ
+    arabic: تَبَارَكَ
     translation: blessed
     transliteration: tabāraka
   30:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: (is) Allah
     transliteration: l-lahu
   31:
@@ -134,7 +134,7 @@ word_by_word:
     translation: Lord
     transliteration: rabbu
   32:
-    arabic: الۡعٰلَمِيۡنَ‏
+    arabic: ٱلۡعَٰلَمِينَ
     translation: (of) the worlds
     transliteration: l-ʿālamīna
 ---

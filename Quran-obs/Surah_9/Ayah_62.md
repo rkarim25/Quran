@@ -1,56 +1,56 @@
 ---
-arabic_ayat: يَحۡلِفُوۡنَ بِاللّٰهِ لَـكُمۡ لِيُرۡضُوۡكُمۡ​ۚ وَاللّٰهُ وَرَسُوۡلُهٗۤ
-  اَحَقُّ اَنۡ يُّرۡضُوۡهُ اِنۡ كَانُوۡا مُؤۡمِنِيۡنَ‏
+arabic_ayat: يَحۡلِفُونَ بِٱللَّهِ لَكُمۡ لِيُرۡضُوكُمۡ وَٱللَّهُ وَرَسُولُهُۥٓ أَحَقُّ
+  أَن يُرۡضُوهُ إِن كَانُواْ مُؤۡمِنِينَ
 sentence_translation: They swear by Allah to you ˹believers˺ in order to please you,
   while it is the pleasure of Allah and His Messenger they should seek, if they are
   ˹true˺ believers.
 word_by_word:
   1:
-    arabic: يَحۡلِفُوۡنَ
+    arabic: يَحۡلِفُونَ
     translation: They swear
     transliteration: yaḥlifūna
   2:
-    arabic: بِاللّٰهِ
+    arabic: بِٱللَّهِ
     translation: by Allah
     transliteration: bil-lahi
   3:
-    arabic: لَـكُمۡ
+    arabic: لَكُمۡ
     translation: to you
     transliteration: lakum
   4:
-    arabic: لِيُرۡضُوۡكُمۡ​ۚ
+    arabic: لِيُرۡضُوكُمۡ
     translation: to please you
     transliteration: liyur'ḍūkum
   5:
-    arabic: وَاللّٰهُ
+    arabic: وَٱللَّهُ
     translation: And Allah
     transliteration: wal-lahu
   6:
-    arabic: وَرَسُوۡلُهٗۤ
+    arabic: وَرَسُولُهُۥٓ
     translation: and His Messenger
     transliteration: warasūluhu
   7:
-    arabic: اَحَقُّ
+    arabic: أَحَقُّ
     translation: (have) more right
     transliteration: aḥaqqu
   8:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that
     transliteration: an
   9:
-    arabic: يُّرۡضُوۡهُ
+    arabic: يُرۡضُوهُ
     translation: they should please Him
     transliteration: yur'ḍūhu
   10:
-    arabic: اِنۡ
+    arabic: إِن
     translation: if
     transliteration: in
   11:
-    arabic: كَانُوۡا
+    arabic: كَانُواْ
     translation: they are
     transliteration: kānū
   12:
-    arabic: مُؤۡمِنِيۡنَ‏
+    arabic: مُؤۡمِنِينَ
     translation: believers
     transliteration: mu'minīna
 ---

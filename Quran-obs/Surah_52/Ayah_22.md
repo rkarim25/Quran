@@ -1,18 +1,18 @@
 ---
-arabic_ayat: وَاَمۡدَدۡنٰهُمۡ بِفَاكِهَةٍ وَّلَحۡمٍ مِّمَّا يَشۡتَهُوۡنَ‏
+arabic_ayat: وَأَمۡدَدۡنَٰهُم بِفَٰكِهَةٖ وَلَحۡمٖ مِّمَّا يَشۡتَهُونَ
 sentence_translation: And We will ˹continually˺ provide them with whatever fruit or
   meat they desire.
 word_by_word:
   1:
-    arabic: وَاَمۡدَدۡنٰهُمۡ
+    arabic: وَأَمۡدَدۡنَٰهُم
     translation: And We will provide them
     transliteration: wa-amdadnāhum
   2:
-    arabic: بِفَاكِهَةٍ
+    arabic: بِفَٰكِهَةٖ
     translation: with fruit
     transliteration: bifākihatin
   3:
-    arabic: وَّلَحۡمٍ
+    arabic: وَلَحۡمٖ
     translation: and meat
     transliteration: walaḥmin
   4:
@@ -20,7 +20,7 @@ word_by_word:
     translation: from what
     transliteration: mimmā
   5:
-    arabic: يَشۡتَهُوۡنَ‏
+    arabic: يَشۡتَهُونَ
     translation: they desire
     transliteration: yashtahūna
 ---

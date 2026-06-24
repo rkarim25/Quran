@@ -1,6 +1,6 @@
 ---
-arabic_ayat: لِيُوَفِّيَهُمۡ اُجُوۡرَهُمۡ وَيَزِيۡدَهُمۡ مِّنۡ فَضۡلِهٖ ؕ اِنَّهٗ
-  غَفُوۡرٌ شَكُوۡرٌ‏
+arabic_ayat: لِيُوَفِّيَهُمۡ أُجُورَهُمۡ وَيَزِيدَهُم مِّن فَضۡلِهِۦٓۚ إِنَّهُۥ غَفُورٞ
+  شَكُورٞ
 sentence_translation: so that He will reward them in full and increase them out of
   His grace. He is truly All-Forgiving, Most Appreciative.
 word_by_word:
@@ -9,31 +9,31 @@ word_by_word:
     translation: That He may give them in full
     transliteration: liyuwaffiyahum
   2:
-    arabic: اُجُوۡرَهُمۡ
+    arabic: أُجُورَهُمۡ
     translation: their rewards
     transliteration: ujūrahum
   3:
-    arabic: وَيَزِيۡدَهُمۡ
+    arabic: وَيَزِيدَهُم
     translation: and increase for them
     transliteration: wayazīdahum
   4:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: of
     transliteration: min
   5:
-    arabic: فَضۡلِهٖ ؕ
+    arabic: فَضۡلِهِۦٓۚ
     translation: His Bounty
     transliteration: faḍlihi
   6:
-    arabic: اِنَّهٗ
+    arabic: إِنَّهُۥ
     translation: Indeed, He
     transliteration: innahu
   7:
-    arabic: غَفُوۡرٌ
+    arabic: غَفُورٞ
     translation: (is) Oft-Forgiving
     transliteration: ghafūrun
   8:
-    arabic: شَكُوۡرٌ‏
+    arabic: شَكُورٞ
     translation: Most Appreciative
     transliteration: shakūrun
 ---

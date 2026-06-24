@@ -1,11 +1,10 @@
 ---
-arabic_ayat: "وَاَنۡزَلۡنَاۤ اِلَيۡكَ الۡكِتٰبَ بِالۡحَـقِّ مُصَدِّقًا لِّمَا بَيۡنَ\
-  \ يَدَيۡهِ مِنَ الۡكِتٰبِ وَمُهَيۡمِنًا عَلَيۡهِ​ فَاحۡكُمۡ بَيۡنَهُمۡ بِمَاۤ اَنۡزَلَ\
-  \ اللّٰهُ وَلَا تَتَّبِعۡ اَهۡوَآءَهُمۡ عَمَّا جَآءَكَ مِنَ الۡحَـقِّ​ؕ لِكُلٍّ\
-  \ جَعَلۡنَا مِنۡكُمۡ شِرۡعَةً وَّمِنۡهَاجًا ​ؕ وَلَوۡ شَآءَ اللّٰهُ لَجَـعَلَـكُمۡ\
-  \ اُمَّةً وَّاحِدَةً وَّلٰـكِنۡ لِّيَبۡلُوَكُمۡ فِىۡ مَاۤ اٰتٰٮكُمۡ فَاسۡتَبِقُوا\
-  \ الۡخَـيۡـرٰتِ​ؕ اِلَى اللّٰهِ مَرۡجِعُكُمۡ جَمِيۡعًا فَيُنَبِّئُكُمۡ بِمَا كُنۡتُمۡ\
-  \ فِيۡهِ تَخۡتَلِفُوۡنَۙ‏ \uFEFF\uFEFF"
+arabic_ayat: وَأَنزَلۡنَآ إِلَيۡكَ ٱلۡكِتَٰبَ بِٱلۡحَقِّ مُصَدِّقٗا لِّمَا بَيۡنَ
+  يَدَيۡهِ مِنَ ٱلۡكِتَٰبِ وَمُهَيۡمِنًا عَلَيۡهِۖ فَٱحۡكُم بَيۡنَهُم بِمَآ أَنزَلَ
+  ٱللَّهُۖ وَلَا تَتَّبِعۡ أَهۡوَآءَهُمۡ عَمَّا جَآءَكَ مِنَ ٱلۡحَقِّۚ لِكُلّٖ جَعَلۡنَا
+  مِنكُمۡ شِرۡعَةٗ وَمِنۡهَاجٗاۚ وَلَوۡ شَآءَ ٱللَّهُ لَجَعَلَكُمۡ أُمَّةٗ وَٰحِدَةٗ
+  وَلَٰكِن لِّيَبۡلُوَكُمۡ فِي مَآ ءَاتَىٰكُمۡۖ فَٱسۡتَبِقُواْ ٱلۡخَيۡرَٰتِۚ إِلَى
+  ٱللَّهِ مَرۡجِعُكُمۡ جَمِيعٗا فَيُنَبِّئُكُم بِمَا كُنتُمۡ فِيهِ تَخۡتَلِفُونَ
 sentence_translation: We have revealed to you ˹O Prophet˺ this Book with the truth,
   as a confirmation of previous Scriptures and a supreme authority on them. So judge
   between them by what Allah has revealed, and do not follow their desires over the
@@ -16,23 +15,23 @@ sentence_translation: We have revealed to you ˹O Prophet˺ this Book with the t
   regarding your differences.
 word_by_word:
   1:
-    arabic: وَاَنۡزَلۡنَاۤ
+    arabic: وَأَنزَلۡنَآ
     translation: And We revealed
     transliteration: wa-anzalnā
   2:
-    arabic: اِلَيۡكَ
+    arabic: إِلَيۡكَ
     translation: to you
     transliteration: ilayka
   3:
-    arabic: الۡكِتٰبَ
+    arabic: ٱلۡكِتَٰبَ
     translation: the Book
     transliteration: l-kitāba
   4:
-    arabic: بِالۡحَـقِّ
+    arabic: بِٱلۡحَقِّ
     translation: in [the] truth
     transliteration: bil-ḥaqi
   5:
-    arabic: مُصَدِّقًا
+    arabic: مُصَدِّقٗا
     translation: confirming
     transliteration: muṣaddiqan
   6:
@@ -52,7 +51,7 @@ word_by_word:
     translation: of
     transliteration: mina
   10:
-    arabic: الۡكِتٰبِ
+    arabic: ٱلۡكِتَٰبِ
     translation: the Book
     transliteration: l-kitābi
   11:
@@ -60,27 +59,27 @@ word_by_word:
     translation: and a guardian
     transliteration: wamuhayminan
   12:
-    arabic: عَلَيۡهِ​
+    arabic: عَلَيۡهِۖ
     translation: over it
     transliteration: ʿalayhi
   13:
-    arabic: فَاحۡكُمۡ
+    arabic: فَٱحۡكُم
     translation: So judge
     transliteration: fa-uḥ'kum
   14:
-    arabic: بَيۡنَهُمۡ
+    arabic: بَيۡنَهُم
     translation: between them
     transliteration: baynahum
   15:
-    arabic: بِمَاۤ
+    arabic: بِمَآ
     translation: by what
     transliteration: bimā
   16:
-    arabic: اَنۡزَلَ
+    arabic: أَنزَلَ
     translation: has revealed
     transliteration: anzala
   17:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُۖ
     translation: Allah
     transliteration: l-lahu
   18:
@@ -92,7 +91,7 @@ word_by_word:
     translation: follow
     transliteration: tattabiʿ
   20:
-    arabic: اَهۡوَآءَهُمۡ
+    arabic: أَهۡوَآءَهُمۡ
     translation: their vain desires
     transliteration: ahwāahum
   21:
@@ -108,11 +107,11 @@ word_by_word:
     translation: of
     transliteration: mina
   24:
-    arabic: الۡحَـقِّ​ؕ
+    arabic: ٱلۡحَقِّۚ
     translation: the truth
     transliteration: l-ḥaqi
   25:
-    arabic: لِكُلٍّ
+    arabic: لِكُلّٖ
     translation: For each
     transliteration: likullin
   26:
@@ -120,15 +119,15 @@ word_by_word:
     translation: We have made
     transliteration: jaʿalnā
   27:
-    arabic: مِنۡكُمۡ
+    arabic: مِنكُمۡ
     translation: for you
     transliteration: minkum
   28:
-    arabic: شِرۡعَةً
+    arabic: شِرۡعَةٗ
     translation: a law
     transliteration: shir'ʿatan
   29:
-    arabic: وَّمِنۡهَاجًا ​ؕ
+    arabic: وَمِنۡهَاجٗاۚ
     translation: and a clear way
     transliteration: wamin'hājan
   30:
@@ -140,23 +139,23 @@ word_by_word:
     translation: (had) willed
     transliteration: shāa
   32:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   33:
-    arabic: لَجَـعَلَـكُمۡ
+    arabic: لَجَعَلَكُمۡ
     translation: He (would have) made you
     transliteration: lajaʿalakum
   34:
-    arabic: اُمَّةً
+    arabic: أُمَّةٗ
     translation: a community
     transliteration: ummatan
   35:
-    arabic: وَّاحِدَةً
+    arabic: وَٰحِدَةٗ
     translation: one
     transliteration: wāḥidatan
   36:
-    arabic: وَّلٰـكِنۡ
+    arabic: وَلَٰكِن
     translation: '[and] but'
     transliteration: walākin
   37:
@@ -164,31 +163,31 @@ word_by_word:
     translation: to test you
     transliteration: liyabluwakum
   38:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   39:
-    arabic: مَاۤ
+    arabic: مَآ ءَ
     translation: what
     transliteration: mā
   40:
-    arabic: اٰتٰٮكُمۡ
+    arabic: اتَىٰكُمۡۖ
     translation: He (has) given you
     transliteration: ātākum
   41:
-    arabic: فَاسۡتَبِقُوا
+    arabic: فَٱسۡتَبِقُواْ
     translation: so race
     transliteration: fa-is'tabiqū
   42:
-    arabic: الۡخَـيۡـرٰتِ​ؕ
+    arabic: ٱلۡخَيۡرَٰتِۚ
     translation: (to) the good
     transliteration: l-khayrāti
   43:
-    arabic: اِلَى
+    arabic: إِلَى
     translation: To
     transliteration: ilā
   44:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   45:
@@ -196,11 +195,11 @@ word_by_word:
     translation: you will return
     transliteration: marjiʿukum
   46:
-    arabic: جَمِيۡعًا
+    arabic: جَمِيعٗا
     translation: all
     transliteration: jamīʿan
   47:
-    arabic: فَيُنَبِّئُكُمۡ
+    arabic: فَيُنَبِّئُكُم
     translation: then He will inform you
     transliteration: fayunabbi-ukum
   48:
@@ -208,15 +207,15 @@ word_by_word:
     translation: of what
     transliteration: bimā
   49:
-    arabic: كُنۡتُمۡ
+    arabic: كُنتُمۡ
     translation: you were
     transliteration: kuntum
   50:
-    arabic: فِيۡهِ
+    arabic: فِيهِ
     translation: concerning it
     transliteration: fīhi
   51:
-    arabic: "تَخۡتَلِفُوۡنَۙ‏ \uFEFF\uFEFF"
+    arabic: تَخۡتَلِفُونَ
     translation: differing
     transliteration: takhtalifūna
 ---

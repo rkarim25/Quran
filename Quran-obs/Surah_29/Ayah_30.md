@@ -1,5 +1,5 @@
 ---
-arabic_ayat: قَالَ رَبِّ انْصُرۡنِىۡ عَلَى الۡقَوۡمِ الۡمُفۡسِدِيۡنَ‏
+arabic_ayat: قَالَ رَبِّ ٱنصُرۡنِي عَلَى ٱلۡقَوۡمِ ٱلۡمُفۡسِدِينَ
 sentence_translation: Lot prayed, “My Lord! Help me against the people of corruption.”
 word_by_word:
   1:
@@ -11,7 +11,7 @@ word_by_word:
     translation: My Lord
     transliteration: rabbi
   3:
-    arabic: انْصُرۡنِىۡ
+    arabic: ٱنصُرۡنِي
     translation: Help me
     transliteration: unṣur'nī
   4:
@@ -19,11 +19,11 @@ word_by_word:
     translation: against
     transliteration: ʿalā
   5:
-    arabic: الۡقَوۡمِ
+    arabic: ٱلۡقَوۡمِ
     translation: the people
     transliteration: l-qawmi
   6:
-    arabic: الۡمُفۡسِدِيۡنَ‏
+    arabic: ٱلۡمُفۡسِدِينَ
     translation: the corrupters
     transliteration: l-muf'sidīna
 ---

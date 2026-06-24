@@ -1,6 +1,5 @@
 ---
-arabic_ayat: "قُلِ اللّٰهُ يُنَجِّيۡكُمۡ مِّنۡهَا وَمِنۡ كُلِّ كَرۡبٍ ثُمَّ اَنۡـتُمۡ\
-  \ تُشۡرِكُوۡنَ‏ \uFEFF\uFEFF"
+arabic_ayat: قُلِ ٱللَّهُ يُنَجِّيكُم مِّنۡهَا وَمِن كُلِّ كَرۡبٖ ثُمَّ أَنتُمۡ تُشۡرِكُونَ
 sentence_translation: Say, “˹Only˺ Allah rescues you from this and any other distress,
   yet you associate others with Him ˹in worship˺.”
 word_by_word:
@@ -9,11 +8,11 @@ word_by_word:
     translation: Say
     transliteration: quli
   2:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   3:
-    arabic: يُنَجِّيۡكُمۡ
+    arabic: يُنَجِّيكُم
     translation: saves you
     transliteration: yunajjīkum
   4:
@@ -21,7 +20,7 @@ word_by_word:
     translation: from it
     transliteration: min'hā
   5:
-    arabic: وَمِنۡ
+    arabic: وَمِن
     translation: and from
     transliteration: wamin
   6:
@@ -29,7 +28,7 @@ word_by_word:
     translation: every
     transliteration: kulli
   7:
-    arabic: كَرۡبٍ
+    arabic: كَرۡبٖ
     translation: distress
     transliteration: karbin
   8:
@@ -37,11 +36,11 @@ word_by_word:
     translation: yet
     transliteration: thumma
   9:
-    arabic: اَنۡـتُمۡ
+    arabic: أَنتُمۡ
     translation: you
     transliteration: antum
   10:
-    arabic: "تُشۡرِكُوۡنَ‏ \uFEFF\uFEFF"
+    arabic: تُشۡرِكُونَ
     translation: associate partners (with Allah)
     transliteration: tush'rikūna
 ---

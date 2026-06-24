@@ -1,9 +1,9 @@
 ---
-arabic_ayat: هٰذَا مَا تُوۡعَدُوۡنَ لِيَوۡمِ الۡحِسَابِ‏
+arabic_ayat: هَٰذَا مَا تُوعَدُونَ لِيَوۡمِ ٱلۡحِسَابِ
 sentence_translation: This is what you are promised for the Day of Reckoning.
 word_by_word:
   1:
-    arabic: هٰذَا
+    arabic: هَٰذَا
     translation: This
     transliteration: hādhā
   2:
@@ -11,7 +11,7 @@ word_by_word:
     translation: (is) what
     transliteration: mā
   3:
-    arabic: تُوۡعَدُوۡنَ
+    arabic: تُوعَدُونَ
     translation: you are promised
     transliteration: tūʿadūna
   4:
@@ -19,7 +19,7 @@ word_by_word:
     translation: for (the) Day
     transliteration: liyawmi
   5:
-    arabic: الۡحِسَابِ‏
+    arabic: ٱلۡحِسَابِ
     translation: (of) Account
     transliteration: l-ḥisābi
 ---

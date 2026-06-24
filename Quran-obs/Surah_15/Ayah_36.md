@@ -1,5 +1,5 @@
 ---
-arabic_ayat: قَالَ رَبِّ فَاَنۡظِرۡنِىۡۤ اِلٰى يَوۡمِ يُبۡعَثُوۡنَ‏
+arabic_ayat: قَالَ رَبِّ فَأَنظِرۡنِيٓ إِلَىٰ يَوۡمِ يُبۡعَثُونَ
 sentence_translation: Satan appealed, “My Lord! Then delay my end until the Day of
   their resurrection.”
 word_by_word:
@@ -12,11 +12,11 @@ word_by_word:
     translation: O my Lord
     transliteration: rabbi
   3:
-    arabic: فَاَنۡظِرۡنِىۡۤ
+    arabic: فَأَنظِرۡنِيٓ
     translation: Then give me respite
     transliteration: fa-anẓir'nī
   4:
-    arabic: اِلٰى
+    arabic: إِلَىٰ
     translation: till
     transliteration: ilā
   5:
@@ -24,7 +24,7 @@ word_by_word:
     translation: (the) Day
     transliteration: yawmi
   6:
-    arabic: يُبۡعَثُوۡنَ‏
+    arabic: يُبۡعَثُونَ
     translation: they are raised
     transliteration: yub'ʿathūna
 ---

@@ -1,59 +1,59 @@
 ---
-arabic_ayat: وَيَقُوۡلُ الَّذِيۡنَ كَفَرُوۡا لَوۡلَاۤ اُنۡزِلَ عَلَيۡهِ اٰيَةٌ مِّنۡ
-  رَّبِّهٖؕ اِنَّمَاۤ اَنۡتَ مُنۡذِرٌ​ وَّ لِكُلِّ قَوۡمٍ هَادٍ‏
+arabic_ayat: وَيَقُولُ ٱلَّذِينَ كَفَرُواْ لَوۡلَآ أُنزِلَ عَلَيۡهِ ءَايَةٞ مِّن
+  رَّبِّهِۦٓۗ إِنَّمَآ أَنتَ مُنذِرٞۖ وَلِكُلِّ قَوۡمٍ هَادٍ
 sentence_translation: The disbelievers say, “If only a sign could be sent down to
   him from his Lord.” You ˹O Prophet˺ are only a warner. And every people had a guide.
 word_by_word:
   1:
-    arabic: وَيَقُوۡلُ
+    arabic: وَيَقُولُ
     translation: And say
     transliteration: wayaqūlu
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   3:
-    arabic: كَفَرُوۡا
+    arabic: كَفَرُواْ
     translation: disbelieved
     transliteration: kafarū
   4:
-    arabic: لَوۡلَاۤ
+    arabic: لَوۡلَآ
     translation: Why not
     transliteration: lawlā
   5:
-    arabic: اُنۡزِلَ
+    arabic: أُنزِلَ
     translation: has been sent down
     transliteration: unzila
   6:
-    arabic: عَلَيۡهِ
+    arabic: عَلَيۡهِ ءَ
     translation: to him
     transliteration: ʿalayhi
   7:
-    arabic: اٰيَةٌ
+    arabic: ايَةٞ
     translation: a sign
     transliteration: āyatun
   8:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: from
     transliteration: min
   9:
-    arabic: رَّبِّهٖؕ
+    arabic: رَّبِّهِۦٓۗ
     translation: his Lord
     transliteration: rabbihi
   10:
-    arabic: اِنَّمَاۤ
+    arabic: إِنَّمَآ
     translation: Only
     transliteration: innamā
   11:
-    arabic: اَنۡتَ
+    arabic: أَنتَ
     translation: you
     transliteration: anta
   12:
-    arabic: مُنۡذِرٌ​
+    arabic: مُنذِرٞۖ
     translation: (are) a warner
     transliteration: mundhirun
   13:
-    arabic: وَّ لِكُلِّ
+    arabic: وَلِكُلِّ
     translation: and for every
     transliteration: walikulli
   14:
@@ -61,7 +61,7 @@ word_by_word:
     translation: people
     transliteration: qawmin
   15:
-    arabic: هَادٍ‏
+    arabic: هَادٍ
     translation: (is) a guide
     transliteration: hādin
 ---

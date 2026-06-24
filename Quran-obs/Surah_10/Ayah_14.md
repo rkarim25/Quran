@@ -1,6 +1,6 @@
 ---
-arabic_ayat: ثُمَّ جَعَلۡنٰكُمۡ خَلٰٓٮِٕفَ فِى الۡاَرۡضِ مِنۡۢ بَعۡدِهِمۡ لِنَـنۡظُرَ
-  كَيۡفَ تَعۡمَلُوۡنَ‏
+arabic_ayat: ثُمَّ جَعَلۡنَٰكُمۡ خَلَٰٓئِفَ فِي ٱلۡأَرۡضِ مِنۢ بَعۡدِهِمۡ لِنَنظُرَ
+  كَيۡفَ تَعۡمَلُونَ
 sentence_translation: Then We made you their successors in the land to see how you
   would act.
 word_by_word:
@@ -9,23 +9,23 @@ word_by_word:
     translation: Then
     transliteration: thumma
   2:
-    arabic: جَعَلۡنٰكُمۡ
+    arabic: جَعَلۡنَٰكُمۡ
     translation: We made you
     transliteration: jaʿalnākum
   3:
-    arabic: خَلٰٓٮِٕفَ
+    arabic: خَلَٰٓئِفَ
     translation: successors
     transliteration: khalāifa
   4:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   5:
-    arabic: الۡاَرۡضِ
+    arabic: ٱلۡأَرۡضِ
     translation: the earth
     transliteration: l-arḍi
   6:
-    arabic: مِنۡۢ
+    arabic: مِنۢ
     translation: after them
     transliteration: min
   7:
@@ -33,7 +33,7 @@ word_by_word:
     translation: after them
     transliteration: baʿdihim
   8:
-    arabic: لِنَـنۡظُرَ
+    arabic: لِنَنظُرَ
     translation: so that We may see
     transliteration: linanẓura
   9:
@@ -41,7 +41,7 @@ word_by_word:
     translation: how
     transliteration: kayfa
   10:
-    arabic: تَعۡمَلُوۡنَ‏
+    arabic: تَعۡمَلُونَ
     translation: you do
     transliteration: taʿmalūna
 ---

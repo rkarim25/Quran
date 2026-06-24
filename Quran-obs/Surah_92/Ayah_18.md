@@ -1,21 +1,21 @@
 ---
-arabic_ayat: الَّذِىۡ يُؤۡتِىۡ مَالَهٗ يَتَزَكّٰى​ۚ‏
+arabic_ayat: ٱلَّذِي يُؤۡتِي مَالَهُۥ يَتَزَكَّىٰ
 sentence_translation: who donate ˹some of˺ their wealth only to purify themselves,
 word_by_word:
   1:
-    arabic: الَّذِىۡ
+    arabic: ٱلَّذِي
     translation: The one who
     transliteration: alladhī
   2:
-    arabic: يُؤۡتِىۡ
+    arabic: يُؤۡتِي
     translation: gives
     transliteration: yu'tī
   3:
-    arabic: مَالَهٗ
+    arabic: مَالَهُۥ
     translation: his wealth
     transliteration: mālahu
   4:
-    arabic: يَتَزَكّٰى​ۚ‏
+    arabic: يَتَزَكَّىٰ
     translation: (to) purify himself
     transliteration: yatazakkā
 ---

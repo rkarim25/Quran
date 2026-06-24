@@ -1,5 +1,5 @@
 ---
-arabic_ayat: قَالَ مَوۡعِدُكُمۡ يَوۡمُ الزِّيۡنَةِ وَاَنۡ يُّحۡشَرَ النَّاسُ ضُحًى‏
+arabic_ayat: قَالَ مَوۡعِدُكُمۡ يَوۡمُ ٱلزِّينَةِ وَأَن يُحۡشَرَ ٱلنَّاسُ ضُحٗى
 sentence_translation: Moses said, “Your appointment is on the Day of the Festival,
   and let the people be gathered mid-morning.”
 word_by_word:
@@ -16,23 +16,23 @@ word_by_word:
     translation: (is on the) day
     transliteration: yawmu
   4:
-    arabic: الزِّيۡنَةِ
+    arabic: ٱلزِّينَةِ
     translation: (of) the festival
     transliteration: l-zīnati
   5:
-    arabic: وَاَنۡ
+    arabic: وَأَن
     translation: and that
     transliteration: wa-an
   6:
-    arabic: يُّحۡشَرَ
+    arabic: يُحۡشَرَ
     translation: will be assembled
     transliteration: yuḥ'shara
   7:
-    arabic: النَّاسُ
+    arabic: ٱلنَّاسُ
     translation: the people
     transliteration: l-nāsu
   8:
-    arabic: ضُحًى‏
+    arabic: ضُحٗى
     translation: (at) forenoon
     transliteration: ḍuḥan
 ---

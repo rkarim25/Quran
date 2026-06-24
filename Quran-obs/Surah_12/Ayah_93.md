@@ -1,27 +1,27 @@
 ---
-arabic_ayat: اِذۡهَبُوۡا بِقَمِيۡصِىۡ هٰذَا فَاَلۡقُوۡهُ عَلٰى وَجۡهِ اَبِىۡ يَاۡتِ
-  بَصِيۡرًا​ۚ وَاۡتُوۡنِىۡ بِاَهۡلِكُمۡ اَجۡمَعِيۡنَ‏
+arabic_ayat: ٱذۡهَبُواْ بِقَمِيصِي هَٰذَا فَأَلۡقُوهُ عَلَىٰ وَجۡهِ أَبِي يَأۡتِ بَصِيرٗا
+  وَأۡتُونِي بِأَهۡلِكُمۡ أَجۡمَعِينَ
 sentence_translation: Go with this shirt of mine and cast it over my father’s face,
   and he will regain his sight. Then come back to me with your whole family.”
 word_by_word:
   1:
-    arabic: اِذۡهَبُوۡا
+    arabic: ٱذۡهَبُواْ
     translation: Go
     transliteration: idh'habū
   2:
-    arabic: بِقَمِيۡصِىۡ
+    arabic: بِقَمِيصِي
     translation: with this shirt of mine
     transliteration: biqamīṣī
   3:
-    arabic: هٰذَا
+    arabic: هَٰذَا
     translation: with this shirt of mine
     transliteration: hādhā
   4:
-    arabic: فَاَلۡقُوۡهُ
+    arabic: فَأَلۡقُوهُ
     translation: and cast it
     transliteration: fa-alqūhu
   5:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: over
     transliteration: ʿalā
   6:
@@ -29,27 +29,27 @@ word_by_word:
     translation: (the) face
     transliteration: wajhi
   7:
-    arabic: اَبِىۡ
+    arabic: أَبِي
     translation: (of) my father
     transliteration: abī
   8:
-    arabic: يَاۡتِ
+    arabic: يَأۡتِ
     translation: he will regain sight
     transliteration: yati
   9:
-    arabic: بَصِيۡرًا​ۚ
+    arabic: بَصِيرٗا
     translation: he will regain sight
     transliteration: baṣīran
   10:
-    arabic: وَاۡتُوۡنِىۡ
+    arabic: وَأۡتُونِي
     translation: And bring to me
     transliteration: watūnī
   11:
-    arabic: بِاَهۡلِكُمۡ
+    arabic: بِأَهۡلِكُمۡ
     translation: your family
     transliteration: bi-ahlikum
   12:
-    arabic: اَجۡمَعِيۡنَ‏
+    arabic: أَجۡمَعِينَ
     translation: all together
     transliteration: ajmaʿīna
 ---

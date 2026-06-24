@@ -1,5 +1,5 @@
 ---
-arabic_ayat: عُذۡرًا اَوۡ نُذۡرًا ۙ‏
+arabic_ayat: عُذۡرًا أَوۡ نُذۡرًا
 sentence_translation: ending excuses and giving warnings.
 word_by_word:
   1:
@@ -7,11 +7,11 @@ word_by_word:
     translation: (As) justification
     transliteration: ʿudh'ran
   2:
-    arabic: اَوۡ
+    arabic: أَوۡ
     translation: or
     transliteration: aw
   3:
-    arabic: نُذۡرًا ۙ‏
+    arabic: نُذۡرًا
     translation: warning
     transliteration: nudh'ran
 ---

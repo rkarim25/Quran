@@ -1,9 +1,9 @@
 ---
-arabic_ayat: وَاَنۡ لَّيۡسَ لِلۡاِنۡسَانِ اِلَّا مَا سَعٰىۙ‏
+arabic_ayat: وَأَن لَّيۡسَ لِلۡإِنسَٰنِ إِلَّا مَا سَعَىٰ
 sentence_translation: and that each person will only have what they endeavoured towards,
 word_by_word:
   1:
-    arabic: وَاَنۡ
+    arabic: وَأَن
     translation: And that
     transliteration: wa-an
   2:
@@ -11,11 +11,11 @@ word_by_word:
     translation: is not
     transliteration: laysa
   3:
-    arabic: لِلۡاِنۡسَانِ
+    arabic: لِلۡإِنسَٰنِ
     translation: for man
     transliteration: lil'insāni
   4:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   5:
@@ -23,7 +23,7 @@ word_by_word:
     translation: what
     transliteration: mā
   6:
-    arabic: سَعٰىۙ‏
+    arabic: سَعَىٰ
     translation: he strives (for)
     transliteration: saʿā
 ---

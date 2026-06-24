@@ -1,9 +1,9 @@
 ---
-arabic_ayat: وَاِنۡ كَانَ اَصۡحٰبُ الۡاَيۡكَةِ لَظٰلِمِيۡنَۙ‏
+arabic_ayat: وَإِن كَانَ أَصۡحَٰبُ ٱلۡأَيۡكَةِ لَظَٰلِمِينَ
 sentence_translation: And the residents of the Forest were truly wrongdoers,
 word_by_word:
   1:
-    arabic: وَاِنۡ
+    arabic: وَإِن
     translation: And were
     transliteration: wa-in
   2:
@@ -11,15 +11,15 @@ word_by_word:
     translation: And were
     transliteration: kāna
   3:
-    arabic: اَصۡحٰبُ
+    arabic: أَصۡحَٰبُ
     translation: (the) companions
     transliteration: aṣḥābu
   4:
-    arabic: الۡاَيۡكَةِ
+    arabic: ٱلۡأَيۡكَةِ
     translation: (of) the wood
     transliteration: l-aykati
   5:
-    arabic: لَظٰلِمِيۡنَۙ‏
+    arabic: لَظَٰلِمِينَ
     translation: surely wrongdoers
     transliteration: laẓālimīna
 ---

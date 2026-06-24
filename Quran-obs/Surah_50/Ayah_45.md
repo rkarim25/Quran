@@ -1,15 +1,15 @@
 ---
-arabic_ayat: نَحۡنُ اَعۡلَمُ بِمَا يَقُوۡلُوۡنَ​ وَمَاۤ اَنۡتَ عَلَيۡهِمۡ بِجَـبَّارٍ​
-  فَذَكِّرۡ بِالۡقُرۡاٰنِ مَنۡ يَّخَافُ وَعِيۡدِ‏
+arabic_ayat: نَّحۡنُ أَعۡلَمُ بِمَا يَقُولُونَۖ وَمَآ أَنتَ عَلَيۡهِم بِجَبَّارٖۖ
+  فَذَكِّرۡ بِٱلۡقُرۡءَانِ مَن يَخَافُ وَعِيدِ
 sentence_translation: We know best what they say. And you ˹O Prophet˺ are not ˹there˺
   to compel them ˹to believe˺. So remind with the Quran ˹only˺ those who fear My warning.
 word_by_word:
   1:
-    arabic: نَحۡنُ
+    arabic: نَّحۡنُ
     translation: We
     transliteration: naḥnu
   2:
-    arabic: اَعۡلَمُ
+    arabic: أَعۡلَمُ
     translation: know best
     transliteration: aʿlamu
   3:
@@ -17,23 +17,23 @@ word_by_word:
     translation: '[of] what'
     transliteration: bimā
   4:
-    arabic: يَقُوۡلُوۡنَ​
+    arabic: يَقُولُونَۖ
     translation: they say
     transliteration: yaqūlūna
   5:
-    arabic: وَمَاۤ
+    arabic: وَمَآ
     translation: and not
     transliteration: wamā
   6:
-    arabic: اَنۡتَ
+    arabic: أَنتَ
     translation: (are) you
     transliteration: anta
   7:
-    arabic: عَلَيۡهِمۡ
+    arabic: عَلَيۡهِم
     translation: over them
     transliteration: ʿalayhim
   8:
-    arabic: بِجَـبَّارٍ​
+    arabic: بِجَبَّارٖۖ
     translation: the one to compel
     transliteration: bijabbārin
   9:
@@ -41,19 +41,19 @@ word_by_word:
     translation: But remind
     transliteration: fadhakkir
   10:
-    arabic: بِالۡقُرۡاٰنِ
+    arabic: بِٱلۡقُرۡءَانِ
     translation: with the Quran
     transliteration: bil-qur'āni
   11:
-    arabic: مَنۡ
+    arabic: مَن
     translation: whoever
     transliteration: man
   12:
-    arabic: يَّخَافُ
+    arabic: يَخَافُ
     translation: fears
     transliteration: yakhāfu
   13:
-    arabic: وَعِيۡدِ‏
+    arabic: وَعِيدِ
     translation: My threat
     transliteration: waʿīdi
 ---

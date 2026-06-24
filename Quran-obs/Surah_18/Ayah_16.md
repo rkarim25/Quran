@@ -1,17 +1,17 @@
 ---
-arabic_ayat: وَاِذِ اعۡتَزَلۡـتُمُوۡهُمۡ وَمَا يَعۡبُدُوۡنَ اِلَّا اللّٰهَ فَاۡوٗۤا
-  اِلَى الۡـكَهۡفِ يَنۡشُرۡ لَـكُمۡ رَبُّكُمۡ مِّنۡ رَّحۡمَتِهٖ وَيُهَيِّئۡ لَـكُمۡ
-  مِّنۡ اَمۡرِكُمۡ مِّرۡفَقًا‏
+arabic_ayat: وَإِذِ ٱعۡتَزَلۡتُمُوهُمۡ وَمَا يَعۡبُدُونَ إِلَّا ٱللَّهَ فَأۡوُۥٓاْ
+  إِلَى ٱلۡكَهۡفِ يَنشُرۡ لَكُمۡ رَبُّكُم مِّن رَّحۡمَتِهِۦ وَيُهَيِّئۡ لَكُم مِّنۡ
+  أَمۡرِكُم مِّرۡفَقٗا
 sentence_translation: Since you have distanced yourselves from them and what they
   worship besides Allah, take refuge in the cave. Your Lord will extend His mercy
   to you and accommodate you in your ordeal.”
 word_by_word:
   1:
-    arabic: وَاِذِ
+    arabic: وَإِذِ
     translation: And when
     transliteration: wa-idhi
   2:
-    arabic: اعۡتَزَلۡـتُمُوۡهُمۡ
+    arabic: ٱعۡتَزَلۡتُمُوهُمۡ
     translation: you withdraw from them
     transliteration: iʿ'tazaltumūhum
   3:
@@ -19,47 +19,47 @@ word_by_word:
     translation: and what
     transliteration: wamā
   4:
-    arabic: يَعۡبُدُوۡنَ
+    arabic: يَعۡبُدُونَ
     translation: they worship
     transliteration: yaʿbudūna
   5:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   6:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   7:
-    arabic: فَاۡوٗۤا
+    arabic: فَأۡوُۥٓاْ
     translation: then retreat
     transliteration: fawū
   8:
-    arabic: اِلَى
+    arabic: إِلَى
     translation: to
     transliteration: ilā
   9:
-    arabic: الۡـكَهۡفِ
+    arabic: ٱلۡكَهۡفِ
     translation: the cave
     transliteration: l-kahfi
   10:
-    arabic: يَنۡشُرۡ
+    arabic: يَنشُرۡ
     translation: Will spread
     transliteration: yanshur
   11:
-    arabic: لَـكُمۡ
+    arabic: لَكُمۡ
     translation: for you
     transliteration: lakum
   12:
-    arabic: رَبُّكُمۡ
+    arabic: رَبُّكُم
     translation: your Lord
     transliteration: rabbukum
   13:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: of
     transliteration: min
   14:
-    arabic: رَّحۡمَتِهٖ
+    arabic: رَّحۡمَتِهِۦ
     translation: His Mercy
     transliteration: raḥmatihi
   15:
@@ -67,7 +67,7 @@ word_by_word:
     translation: and will facilitate
     transliteration: wayuhayyi
   16:
-    arabic: لَـكُمۡ
+    arabic: لَكُم
     translation: for you
     transliteration: lakum
   17:
@@ -75,11 +75,11 @@ word_by_word:
     translation: '[from]'
     transliteration: min
   18:
-    arabic: اَمۡرِكُمۡ
+    arabic: أَمۡرِكُم
     translation: your affair
     transliteration: amrikum
   19:
-    arabic: مِّرۡفَقًا‏
+    arabic: مِّرۡفَقٗا
     translation: (in) ease
     transliteration: mir'faqan
 ---

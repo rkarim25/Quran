@@ -1,27 +1,26 @@
 ---
-arabic_ayat: "وَيَجۡعَلُوۡنَ لِلّٰهِ الۡبَـنٰتِ سُبۡحٰنَهٗ​ۙ وَلَهُمۡ مَّا يَشۡتَهُوۡنَ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: وَيَجۡعَلُونَ لِلَّهِ ٱلۡبَنَٰتِ سُبۡحَٰنَهُۥ وَلَهُم مَّا يَشۡتَهُونَ
 sentence_translation: And they attribute ˹angels as˺ daughters to Allah—glory be to
   Him!—the opposite of what they desire for themselves.
 word_by_word:
   1:
-    arabic: وَيَجۡعَلُوۡنَ
+    arabic: وَيَجۡعَلُونَ
     translation: And they assign
     transliteration: wayajʿalūna
   2:
-    arabic: لِلّٰهِ
+    arabic: لِلَّهِ
     translation: to Allah
     transliteration: lillahi
   3:
-    arabic: الۡبَـنٰتِ
+    arabic: ٱلۡبَنَٰتِ
     translation: daughters
     transliteration: l-banāti
   4:
-    arabic: سُبۡحٰنَهٗ​ۙ
+    arabic: سُبۡحَٰنَهُۥ
     translation: Glory be to Him
     transliteration: sub'ḥānahu
   5:
-    arabic: وَلَهُمۡ
+    arabic: وَلَهُم
     translation: And for them
     transliteration: walahum
   6:
@@ -29,7 +28,7 @@ word_by_word:
     translation: (is) what
     transliteration: mā
   7:
-    arabic: "يَشۡتَهُوۡنَ‏ \uFEFF\uFEFF"
+    arabic: يَشۡتَهُونَ
     translation: they desire
     transliteration: yashtahūna
 ---

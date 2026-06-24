@@ -1,31 +1,30 @@
 ---
-arabic_ayat: "وَقَالُوۡا هٰذِهٖۤ اَنۡعَامٌ وَّحَرۡثٌ حِجۡرٌ ​ۖ لَّا يَطۡعَمُهَاۤ\
-  \ اِلَّا مَنۡ نَّشَآءُ بِزَعۡمِهِمۡ وَاَنۡعَامٌ حُرِّمَتۡ ظُهُوۡرُهَا وَاَنۡعَامٌ\
-  \ لَّا يَذۡكُرُوۡنَ اسۡمَ اللّٰهِ عَلَيۡهَا افۡتِرَآءً عَلَيۡهِ ​ؕ سَيَجۡزِيۡهِمۡ\
-  \ بِمَا كَانُوۡا يَفۡتَرُوۡنَ‏ \uFEFF\uFEFF"
+arabic_ayat: وَقَالُواْ هَٰذِهِۦٓ أَنۡعَٰمٞ وَحَرۡثٌ حِجۡرٞ لَّا يَطۡعَمُهَآ إِلَّا
+  مَن نَّشَآءُ بِزَعۡمِهِمۡ وَأَنۡعَٰمٌ حُرِّمَتۡ ظُهُورُهَا وَأَنۡعَٰمٞ لَّا يَذۡكُرُونَ
+  ٱسۡمَ ٱللَّهِ عَلَيۡهَا ٱفۡتِرَآءً عَلَيۡهِۚ سَيَجۡزِيهِم بِمَا كَانُواْ يَفۡتَرُونَ
 sentence_translation: They say, “These cattle and crops are reserved—none may eat
   them except those we permit,” so they claim. Some other cattle are exempted from
   labour and others are not slaughtered in Allah’s Name—falsely attributing lies to
   Him. He will repay them for their lies.
 word_by_word:
   1:
-    arabic: وَقَالُوۡا
+    arabic: وَقَالُواْ
     translation: And they say
     transliteration: waqālū
   2:
-    arabic: هٰذِهٖۤ
+    arabic: هَٰذِهِۦٓ
     translation: These
     transliteration: hādhihi
   3:
-    arabic: اَنۡعَامٌ
+    arabic: أَنۡعَٰمٞ
     translation: (are) cattle
     transliteration: anʿāmun
   4:
-    arabic: وَّحَرۡثٌ
+    arabic: وَحَرۡثٌ
     translation: and crops
     transliteration: waḥarthun
   5:
-    arabic: حِجۡرٌ ​ۖ
+    arabic: حِجۡرٞ
     translation: forbidden
     transliteration: ḥij'run
   6:
@@ -33,15 +32,15 @@ word_by_word:
     translation: no (one)
     transliteration: lā
   7:
-    arabic: يَطۡعَمُهَاۤ
+    arabic: يَطۡعَمُهَآ
     translation: can eat them
     transliteration: yaṭʿamuhā
   8:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   9:
-    arabic: مَنۡ
+    arabic: مَن
     translation: whom
     transliteration: man
   10:
@@ -53,7 +52,7 @@ word_by_word:
     translation: by their claim
     transliteration: bizaʿmihim
   12:
-    arabic: وَاَنۡعَامٌ
+    arabic: وَأَنۡعَٰمٌ
     translation: And cattle
     transliteration: wa-anʿāmun
   13:
@@ -61,11 +60,11 @@ word_by_word:
     translation: forbidden
     transliteration: ḥurrimat
   14:
-    arabic: ظُهُوۡرُهَا
+    arabic: ظُهُورُهَا
     translation: (are) their backs
     transliteration: ẓuhūruhā
   15:
-    arabic: وَاَنۡعَامٌ
+    arabic: وَأَنۡعَٰمٞ
     translation: and cattle
     transliteration: wa-anʿāmun
   16:
@@ -73,15 +72,15 @@ word_by_word:
     translation: not
     transliteration: lā
   17:
-    arabic: يَذۡكُرُوۡنَ
+    arabic: يَذۡكُرُونَ
     translation: they mention
     transliteration: yadhkurūna
   18:
-    arabic: اسۡمَ
+    arabic: ٱسۡمَ
     translation: (the) name
     transliteration: is'ma
   19:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (of) Allah
     transliteration: l-lahi
   20:
@@ -89,15 +88,15 @@ word_by_word:
     translation: on it
     transliteration: ʿalayhā
   21:
-    arabic: افۡتِرَآءً
+    arabic: ٱفۡتِرَآءً
     translation: (as) an invention
     transliteration: if'tirāan
   22:
-    arabic: عَلَيۡهِ ​ؕ
+    arabic: عَلَيۡهِۚ
     translation: against Him
     transliteration: ʿalayhi
   23:
-    arabic: سَيَجۡزِيۡهِمۡ
+    arabic: سَيَجۡزِيهِم
     translation: He will recompense them
     transliteration: sayajzīhim
   24:
@@ -105,11 +104,11 @@ word_by_word:
     translation: for what
     transliteration: bimā
   25:
-    arabic: كَانُوۡا
+    arabic: كَانُواْ
     translation: they used to
     transliteration: kānū
   26:
-    arabic: "يَفۡتَرُوۡنَ‏ \uFEFF\uFEFF"
+    arabic: يَفۡتَرُونَ
     translation: invent
     transliteration: yaftarūna
 ---

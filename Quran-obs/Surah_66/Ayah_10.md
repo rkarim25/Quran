@@ -1,8 +1,7 @@
 ---
-arabic_ayat: ضَرَبَ اللّٰهُ مَثَلًا لِّـلَّذِيۡنَ كَفَرُوا امۡرَاَتَ نُوۡحٍ وَّ امۡرَاَتَ
-  لُوۡطٍ​ ؕ كَانَـتَا تَحۡتَ عَبۡدَيۡنِ مِنۡ عِبَادِنَا صَالِحَـيۡنِ فَخَانَتٰهُمَا
-  فَلَمۡ يُغۡنِيَا عَنۡهُمَا مِنَ اللّٰهِ شَيۡــًٔا وَّقِيۡلَ ادۡخُلَا النَّارَ مَعَ
-  الدّٰخِلِيۡنَ‏
+arabic_ayat: ضَرَبَ ٱللَّهُ مَثَلٗا لِّلَّذِينَ كَفَرُواْ ٱمۡرَأَتَ نُوحٖ وَٱمۡرَأَتَ
+  لُوطٖۖ كَانَتَا تَحۡتَ عَبۡدَيۡنِ مِنۡ عِبَادِنَا صَٰلِحَيۡنِ فَخَانَتَاهُمَا فَلَمۡ
+  يُغۡنِيَا عَنۡهُمَا مِنَ ٱللَّهِ شَيۡـٔٗا وَقِيلَ ٱدۡخُلَا ٱلنَّارَ مَعَ ٱلدَّٰخِلِينَ
 sentence_translation: 'Allah sets forth an example for the disbelievers: the wife
   of Noah and the wife of Lot. Each was married to one of Our righteous servants,
   yet betrayed them. So their husbands were of no benefit to them against Allah whatsoever.
@@ -13,39 +12,39 @@ word_by_word:
     translation: Presents
     transliteration: ḍaraba
   2:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   3:
-    arabic: مَثَلًا
+    arabic: مَثَلٗا
     translation: an example
     transliteration: mathalan
   4:
-    arabic: لِّـلَّذِيۡنَ
+    arabic: لِّلَّذِينَ
     translation: for those who
     transliteration: lilladhīna
   5:
-    arabic: كَفَرُوا
+    arabic: كَفَرُواْ
     translation: 'disbelieved '
     transliteration: kafarū
   6:
-    arabic: امۡرَاَتَ
+    arabic: ٱمۡرَأَتَ
     translation: (the) wife
     transliteration: im'ra-ata
   7:
-    arabic: نُوۡحٍ
+    arabic: نُوحٖ
     translation: (of) Nuh
     transliteration: nūḥin
   8:
-    arabic: وَّ امۡرَاَتَ
+    arabic: وَٱمۡرَأَتَ
     translation: (and the) wife
     transliteration: wa-im'ra-ata
   9:
-    arabic: لُوۡطٍ​ ؕ
+    arabic: لُوطٖۖ
     translation: (of) Lut
     transliteration: lūṭin
   10:
-    arabic: كَانَـتَا
+    arabic: كَانَتَا
     translation: They were
     transliteration: kānatā
   11:
@@ -65,11 +64,11 @@ word_by_word:
     translation: Our slaves
     transliteration: ʿibādinā
   15:
-    arabic: صَالِحَـيۡنِ
+    arabic: صَٰلِحَيۡنِ
     translation: righteous
     transliteration: ṣāliḥayni
   16:
-    arabic: فَخَانَتٰهُمَا
+    arabic: فَخَانَتَاهُمَا
     translation: but they both betrayed them
     transliteration: fakhānatāhumā
   17:
@@ -89,23 +88,23 @@ word_by_word:
     translation: from
     transliteration: mina
   21:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   22:
-    arabic: شَيۡــًٔا
+    arabic: شَيۡـٔٗا
     translation: (in) anything
     transliteration: shayan
   23:
-    arabic: وَّقِيۡلَ
+    arabic: وَقِيلَ
     translation: and it was said
     transliteration: waqīla
   24:
-    arabic: ادۡخُلَا
+    arabic: ٱدۡخُلَا
     translation: Enter
     transliteration: ud'khulā
   25:
-    arabic: النَّارَ
+    arabic: ٱلنَّارَ
     translation: the Fire
     transliteration: l-nāra
   26:
@@ -113,7 +112,7 @@ word_by_word:
     translation: with
     transliteration: maʿa
   27:
-    arabic: الدّٰخِلِيۡنَ‏
+    arabic: ٱلدَّٰخِلِينَ
     translation: those who enter
     transliteration: l-dākhilīna
 ---

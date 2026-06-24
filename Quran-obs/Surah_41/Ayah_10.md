@@ -1,6 +1,6 @@
 ---
-arabic_ayat: وَجَعَلَ فِيۡهَا رَوَاسِىَ مِنۡ فَوۡقِهَا وَبٰرَكَ فِيۡهَا وَقَدَّرَ
-  فِيۡهَاۤ اَقۡوَاتَهَا فِىۡۤ اَرۡبَعَةِ اَيَّامٍؕ سَوَآءً لِّلسَّآٮِٕلِيۡنَ‏
+arabic_ayat: وَجَعَلَ فِيهَا رَوَٰسِيَ مِن فَوۡقِهَا وَبَٰرَكَ فِيهَا وَقَدَّرَ فِيهَآ
+  أَقۡوَٰتَهَا فِيٓ أَرۡبَعَةِ أَيَّامٖ سَوَآءٗ لِّلسَّآئِلِينَ
 sentence_translation: He placed on the earth firm mountains, standing high, showered
   His blessings upon it, and ordained ˹all˺ its means of sustenance—totaling four
   Days exactly—for all who ask.
@@ -10,15 +10,15 @@ word_by_word:
     translation: And He placed
     transliteration: wajaʿala
   2:
-    arabic: فِيۡهَا
+    arabic: فِيهَا
     translation: therein
     transliteration: fīhā
   3:
-    arabic: رَوَاسِىَ
+    arabic: رَوَٰسِيَ
     translation: firmly-set mountains
     transliteration: rawāsiya
   4:
-    arabic: مِنۡ
+    arabic: مِن
     translation: above it
     transliteration: min
   5:
@@ -26,11 +26,11 @@ word_by_word:
     translation: above it
     transliteration: fawqihā
   6:
-    arabic: وَبٰرَكَ
+    arabic: وَبَٰرَكَ
     translation: and He blessed
     transliteration: wabāraka
   7:
-    arabic: فِيۡهَا
+    arabic: فِيهَا
     translation: therein
     transliteration: fīhā
   8:
@@ -38,31 +38,31 @@ word_by_word:
     translation: and determined
     transliteration: waqaddara
   9:
-    arabic: فِيۡهَاۤ
+    arabic: فِيهَآ
     translation: therein
     transliteration: fīhā
   10:
-    arabic: اَقۡوَاتَهَا
+    arabic: أَقۡوَٰتَهَا
     translation: its sustenance
     transliteration: aqwātahā
   11:
-    arabic: فِىۡۤ
+    arabic: فِيٓ
     translation: in
     transliteration: fī
   12:
-    arabic: اَرۡبَعَةِ
+    arabic: أَرۡبَعَةِ
     translation: four
     transliteration: arbaʿati
   13:
-    arabic: اَيَّامٍؕ
+    arabic: أَيَّامٖ
     translation: periods
     transliteration: ayyāmin
   14:
-    arabic: سَوَآءً
+    arabic: سَوَآءٗ
     translation: equal
     transliteration: sawāan
   15:
-    arabic: لِّلسَّآٮِٕلِيۡنَ‏
+    arabic: لِّلسَّآئِلِينَ
     translation: for those who ask
     transliteration: lilssāilīna
 ---

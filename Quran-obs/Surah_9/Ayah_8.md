@@ -1,7 +1,6 @@
 ---
-arabic_ayat: كَيۡفَ وَاِنۡ يَّظۡهَرُوۡا عَلَيۡكُمۡ لَا يَرۡقُبُوۡا فِيۡكُمۡ اِلًّا
-  وَّلَا ذِمَّةً​ ؕ يُرۡضُوۡنَـكُمۡ بِاَفۡوَاهِهِمۡ وَتَاۡبٰى قُلُوۡبُهُمۡ​ۚ وَاَكۡثَرُهُمۡ
-  فٰسِقُوۡنَ​ۚ‏
+arabic_ayat: كَيۡفَ وَإِن يَظۡهَرُواْ عَلَيۡكُمۡ لَا يَرۡقُبُواْ فِيكُمۡ إِلّٗا وَلَا
+  ذِمَّةٗۚ يُرۡضُونَكُم بِأَفۡوَٰهِهِمۡ وَتَأۡبَىٰ قُلُوبُهُمۡ وَأَكۡثَرُهُمۡ فَٰسِقُونَ
 sentence_translation: How ˹can they have a treaty˺? If they were to have the upper
   hand over you, they would have no respect for kinship or treaty. They only flatter
   you with their tongues, but their hearts are in denial, and most of them are rebellious.
@@ -11,11 +10,11 @@ word_by_word:
     translation: How
     transliteration: kayfa
   2:
-    arabic: وَاِنۡ
+    arabic: وَإِن
     translation: while, if
     transliteration: wa-in
   3:
-    arabic: يَّظۡهَرُوۡا
+    arabic: يَظۡهَرُواْ
     translation: they gain dominance
     transliteration: yaẓharū
   4:
@@ -27,47 +26,47 @@ word_by_word:
     translation: they do not regard (the ties)
     transliteration: lā
   6:
-    arabic: يَرۡقُبُوۡا
+    arabic: يَرۡقُبُواْ
     translation: they do not regard (the ties)
     transliteration: yarqubū
   7:
-    arabic: فِيۡكُمۡ
+    arabic: فِيكُمۡ
     translation: with you
     transliteration: fīkum
   8:
-    arabic: اِلًّا
+    arabic: إِلّٗا
     translation: (of) kinship
     transliteration: illan
   9:
-    arabic: وَّلَا
+    arabic: وَلَا
     translation: and not
     transliteration: walā
   10:
-    arabic: ذِمَّةً​ ؕ
+    arabic: ذِمَّةٗۚ
     translation: covenant of protection
     transliteration: dhimmatan
   11:
-    arabic: يُرۡضُوۡنَـكُمۡ
+    arabic: يُرۡضُونَكُم
     translation: They satisfy you
     transliteration: yur'ḍūnakum
   12:
-    arabic: بِاَفۡوَاهِهِمۡ
+    arabic: بِأَفۡوَٰهِهِمۡ
     translation: with their mouths
     transliteration: bi-afwāhihim
   13:
-    arabic: وَتَاۡبٰى
+    arabic: وَتَأۡبَىٰ
     translation: but refuse
     transliteration: watabā
   14:
-    arabic: قُلُوۡبُهُمۡ​ۚ
+    arabic: قُلُوبُهُمۡ
     translation: their hearts
     transliteration: qulūbuhum
   15:
-    arabic: وَاَكۡثَرُهُمۡ
+    arabic: وَأَكۡثَرُهُمۡ
     translation: and most of them
     transliteration: wa-aktharuhum
   16:
-    arabic: فٰسِقُوۡنَ​ۚ‏
+    arabic: فَٰسِقُونَ
     translation: (are) defiantly disobedient
     transliteration: fāsiqūna
 ---

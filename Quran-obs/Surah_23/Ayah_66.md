@@ -1,6 +1,6 @@
 ---
-arabic_ayat: قَدۡ كَانَتۡ اٰيٰتِىۡ تُتۡلٰى عَلَيۡكُمۡ فَـكُنۡتُمۡ عَلٰٓى اَعۡقَابِكُمۡ
-  تَـنۡكِصُوۡنَۙ‏
+arabic_ayat: قَدۡ كَانَتۡ ءَايَٰتِي تُتۡلَىٰ عَلَيۡكُمۡ فَكُنتُمۡ عَلَىٰٓ أَعۡقَٰبِكُمۡ
+  تَنكِصُونَ
 sentence_translation: Indeed, My revelations were recited to you, but you used to
   back away ˹in disgust˺,
 word_by_word:
@@ -9,15 +9,15 @@ word_by_word:
     translation: Verily
     transliteration: qad
   2:
-    arabic: كَانَتۡ
+    arabic: كَانَتۡ ءَ
     translation: were
     transliteration: kānat
   3:
-    arabic: اٰيٰتِىۡ
+    arabic: ايَٰتِي
     translation: My Verses
     transliteration: āyātī
   4:
-    arabic: تُتۡلٰى
+    arabic: تُتۡلَىٰ
     translation: recited
     transliteration: tut'lā
   5:
@@ -25,19 +25,19 @@ word_by_word:
     translation: to you
     transliteration: ʿalaykum
   6:
-    arabic: فَـكُنۡتُمۡ
+    arabic: فَكُنتُمۡ
     translation: but you used
     transliteration: fakuntum
   7:
-    arabic: عَلٰٓى
+    arabic: عَلَىٰٓ
     translation: (to) on
     transliteration: ʿalā
   8:
-    arabic: اَعۡقَابِكُمۡ
+    arabic: أَعۡقَٰبِكُمۡ
     translation: your heels
     transliteration: aʿqābikum
   9:
-    arabic: تَـنۡكِصُوۡنَۙ‏
+    arabic: تَنكِصُونَ
     translation: turn back
     transliteration: tankiṣūna
 ---

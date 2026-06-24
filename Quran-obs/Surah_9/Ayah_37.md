@@ -1,8 +1,8 @@
 ---
-arabic_ayat: اِنَّمَا النَّسِىۡٓءُ زِيَادَةٌ فِى الۡكُفۡرِ​ يُضَلُّ بِهِ الَّذِيۡنَ
-  كَفَرُوۡا يُحِلُّوۡنَهٗ عَامًا وَّيُحَرِّمُوۡنَهٗ عَامًا لِّيُوَاطِــُٔــوۡا عِدَّةَ
-  مَا حَرَّمَ اللّٰهُ فَيُحِلُّوۡا مَا حَرَّمَ اللّٰهُ​ ؕ زُيِّنَ لَهُمۡ سُوۡۤءُ اَعۡمَالِهِمۡ​
-  ؕ وَاللّٰهُ لَا يَهۡدِى الۡقَوۡمَ الۡـكٰفِرِيۡنَ‏
+arabic_ayat: إِنَّمَا ٱلنَّسِيٓءُ زِيَادَةٞ فِي ٱلۡكُفۡرِۖ يُضَلُّ بِهِ ٱلَّذِينَ
+  كَفَرُواْ يُحِلُّونَهُۥ عَامٗا وَيُحَرِّمُونَهُۥ عَامٗا لِّيُوَاطِـُٔواْ عِدَّةَ
+  مَا حَرَّمَ ٱللَّهُ فَيُحِلُّواْ مَا حَرَّمَ ٱللَّهُۚ زُيِّنَ لَهُمۡ سُوٓءُ أَعۡمَٰلِهِمۡۗ
+  وَٱللَّهُ لَا يَهۡدِي ٱلۡقَوۡمَ ٱلۡكَٰفِرِينَ
 sentence_translation: Reallocating the sanctity of ˹these˺ months is an increase in
   disbelief, by which the disbelievers are led ˹far˺ astray. They adjust the sanctity
   one year and uphold it in another, only to maintain the number of months sanctified
@@ -10,23 +10,23 @@ sentence_translation: Reallocating the sanctity of ˹these˺ months is an incre
   been made appealing to them. And Allah does not guide the disbelieving people.
 word_by_word:
   1:
-    arabic: اِنَّمَا
+    arabic: إِنَّمَا
     translation: Indeed
     transliteration: innamā
   2:
-    arabic: النَّسِىۡٓءُ
+    arabic: ٱلنَّسِيٓءُ
     translation: the postponing
     transliteration: l-nasīu
   3:
-    arabic: زِيَادَةٌ
+    arabic: زِيَادَةٞ
     translation: (is) an increase
     transliteration: ziyādatun
   4:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   5:
-    arabic: الۡكُفۡرِ​
+    arabic: ٱلۡكُفۡرِۖ
     translation: the disbelief
     transliteration: l-kuf'ri
   6:
@@ -38,31 +38,31 @@ word_by_word:
     translation: by it
     transliteration: bihi
   8:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   9:
-    arabic: كَفَرُوۡا
+    arabic: كَفَرُواْ
     translation: disbelieve
     transliteration: kafarū
   10:
-    arabic: يُحِلُّوۡنَهٗ
+    arabic: يُحِلُّونَهُۥ
     translation: They make it lawful
     transliteration: yuḥillūnahu
   11:
-    arabic: عَامًا
+    arabic: عَامٗا
     translation: one year
     transliteration: ʿāman
   12:
-    arabic: وَّيُحَرِّمُوۡنَهٗ
+    arabic: وَيُحَرِّمُونَهُۥ
     translation: and make it unlawful
     transliteration: wayuḥarrimūnahu
   13:
-    arabic: عَامًا
+    arabic: عَامٗا
     translation: (another) year
     transliteration: ʿāman
   14:
-    arabic: لِّيُوَاطِــُٔــوۡا
+    arabic: لِّيُوَاطِـُٔواْ
     translation: to adjust
     transliteration: liyuwāṭiū
   15:
@@ -78,11 +78,11 @@ word_by_word:
     translation: Allah has made unlawful
     transliteration: ḥarrama
   18:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah has made unlawful
     transliteration: l-lahu
   19:
-    arabic: فَيُحِلُّوۡا
+    arabic: فَيُحِلُّواْ
     translation: and making lawful
     transliteration: fayuḥillū
   20:
@@ -94,7 +94,7 @@ word_by_word:
     translation: Allah has made unlawful
     transliteration: ḥarrama
   22:
-    arabic: اللّٰهُ​ ؕ
+    arabic: ٱللَّهُۚ
     translation: Allah has made unlawful
     transliteration: l-lahu
   23:
@@ -106,15 +106,15 @@ word_by_word:
     translation: to them
     transliteration: lahum
   25:
-    arabic: سُوۡۤءُ
+    arabic: سُوٓءُ
     translation: (the) evil
     transliteration: sūu
   26:
-    arabic: اَعۡمَالِهِمۡ​ ؕ
+    arabic: أَعۡمَٰلِهِمۡۗ
     translation: (of) their deeds
     transliteration: aʿmālihim
   27:
-    arabic: وَاللّٰهُ
+    arabic: وَٱللَّهُ
     translation: And Allah
     transliteration: wal-lahu
   28:
@@ -122,15 +122,15 @@ word_by_word:
     translation: (does) not
     transliteration: lā
   29:
-    arabic: يَهۡدِى
+    arabic: يَهۡدِي
     translation: guide
     transliteration: yahdī
   30:
-    arabic: الۡقَوۡمَ
+    arabic: ٱلۡقَوۡمَ
     translation: 'the people '
     transliteration: l-qawma
   31:
-    arabic: الۡـكٰفِرِيۡنَ‏
+    arabic: ٱلۡكَٰفِرِينَ
     translation: the disbelievers
     transliteration: l-kāfirīna
 ---

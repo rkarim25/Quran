@@ -1,13 +1,13 @@
 ---
-arabic_ayat: وَّ فُرُشٍ مَّرۡفُوۡعَةٍؕ‏
+arabic_ayat: وَفُرُشٖ مَّرۡفُوعَةٍ
 sentence_translation: and elevated furnishings.
 word_by_word:
   1:
-    arabic: وَّ فُرُشٍ
+    arabic: وَفُرُشٖ
     translation: And (on) couches
     transliteration: wafurushin
   2:
-    arabic: مَّرۡفُوۡعَةٍؕ‏
+    arabic: مَّرۡفُوعَةٍ
     translation: raised
     transliteration: marfūʿatin
 ---

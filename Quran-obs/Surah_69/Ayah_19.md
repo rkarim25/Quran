@@ -1,11 +1,11 @@
 ---
-arabic_ayat: فَاَمَّا مَنۡ اُوۡتِىَ كِتٰبَهٗ بِيَمِيۡنِهٖۙ فَيَقُوۡلُ هَآؤُمُ اقۡرَءُوۡا
-  كِتٰبِيَهۡ​ۚ‏
+arabic_ayat: فَأَمَّا مَنۡ أُوتِيَ كِتَٰبَهُۥ بِيَمِينِهِۦ فَيَقُولُ هَآؤُمُ ٱقۡرَءُواْ
+  كِتَٰبِيَهۡ
 sentence_translation: As for those given their records in their right hand, they will
   cry ˹happily˺, “Here ˹everyone˺! Read my record!
 word_by_word:
   1:
-    arabic: فَاَمَّا
+    arabic: فَأَمَّا
     translation: Then as for
     transliteration: fa-ammā
   2:
@@ -13,19 +13,19 @@ word_by_word:
     translation: (him) who
     transliteration: man
   3:
-    arabic: اُوۡتِىَ
+    arabic: أُوتِيَ
     translation: is given
     transliteration: ūtiya
   4:
-    arabic: كِتٰبَهٗ
+    arabic: كِتَٰبَهُۥ
     translation: his record
     transliteration: kitābahu
   5:
-    arabic: بِيَمِيۡنِهٖۙ
+    arabic: بِيَمِينِهِۦ
     translation: in his right hand
     transliteration: biyamīnihi
   6:
-    arabic: فَيَقُوۡلُ
+    arabic: فَيَقُولُ
     translation: will say
     transliteration: fayaqūlu
   7:
@@ -33,11 +33,11 @@ word_by_word:
     translation: Here
     transliteration: hāumu
   8:
-    arabic: اقۡرَءُوۡا
+    arabic: ٱقۡرَءُواْ
     translation: read
     transliteration: iq'raū
   9:
-    arabic: كِتٰبِيَهۡ​ۚ‏
+    arabic: كِتَٰبِيَهۡ
     translation: my record
     transliteration: kitābiyah
 ---

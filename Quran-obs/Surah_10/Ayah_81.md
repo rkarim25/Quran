@@ -1,16 +1,16 @@
 ---
-arabic_ayat: فَلَمَّاۤ اَلۡقَوۡا قَالَ مُوۡسٰى مَا جِئۡتُمۡ بِهِۙ السِّحۡرُ​ؕ اِنَّ
-  اللّٰهَ سَيُبۡطِلُهٗ ؕ اِنَّ اللّٰهَ لَا يُصۡلِحُ عَمَلَ الۡمُفۡسِدِيۡنَ‏
+arabic_ayat: فَلَمَّآ أَلۡقَوۡاْ قَالَ مُوسَىٰ مَا جِئۡتُم بِهِ ٱلسِّحۡرُۖ إِنَّ
+  ٱللَّهَ سَيُبۡطِلُهُۥٓ إِنَّ ٱللَّهَ لَا يُصۡلِحُ عَمَلَ ٱلۡمُفۡسِدِينَ
 sentence_translation: When they did, Moses said, “What you have produced is mere magic,
   Allah will surely make it useless, for Allah certainly does not set right the work
   of the corruptors.
 word_by_word:
   1:
-    arabic: فَلَمَّاۤ
+    arabic: فَلَمَّآ
     translation: Then when
     transliteration: falammā
   2:
-    arabic: اَلۡقَوۡا
+    arabic: أَلۡقَوۡاْ
     translation: they (had) thrown
     transliteration: alqaw
   3:
@@ -18,7 +18,7 @@ word_by_word:
     translation: Musa said
     transliteration: qāla
   4:
-    arabic: مُوۡسٰى
+    arabic: مُوسَىٰ
     translation: Musa said
     transliteration: mūsā
   5:
@@ -26,35 +26,35 @@ word_by_word:
     translation: What
     transliteration: mā
   6:
-    arabic: جِئۡتُمۡ
+    arabic: جِئۡتُم
     translation: you have brought
     transliteration: ji'tum
   7:
-    arabic: بِهِۙ
+    arabic: بِهِ
     translation: '[it]'
     transliteration: bihi
   8:
-    arabic: السِّحۡرُ​ؕ
+    arabic: ٱلسِّحۡرُۖ
     translation: (is) the magic
     transliteration: l-siḥ'ru
   9:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   10:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   11:
-    arabic: سَيُبۡطِلُهٗ ؕ
+    arabic: سَيُبۡطِلُهُۥٓ
     translation: will nullify it
     transliteration: sayub'ṭiluhu
   12:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   13:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   14:
@@ -70,7 +70,7 @@ word_by_word:
     translation: the work
     transliteration: ʿamala
   17:
-    arabic: الۡمُفۡسِدِيۡنَ‏
+    arabic: ٱلۡمُفۡسِدِينَ
     translation: (of) the corrupters
     transliteration: l-muf'sidīna
 ---

@@ -1,5 +1,5 @@
 ---
-arabic_ayat: يَوۡمَ يَتَذَكَّرُ الۡاِنۡسَانُ مَا سَعٰىۙ‏
+arabic_ayat: يَوۡمَ يَتَذَكَّرُ ٱلۡإِنسَٰنُ مَا سَعَىٰ
 sentence_translation: the Day every person will remember all ˹their˺ striving,
 word_by_word:
   1:
@@ -11,7 +11,7 @@ word_by_word:
     translation: will remember
     transliteration: yatadhakkaru
   3:
-    arabic: الۡاِنۡسَانُ
+    arabic: ٱلۡإِنسَٰنُ
     translation: man
     transliteration: l-insānu
   4:
@@ -19,7 +19,7 @@ word_by_word:
     translation: what
     transliteration: mā
   5:
-    arabic: سَعٰىۙ‏
+    arabic: سَعَىٰ
     translation: he strove (for)
     transliteration: saʿā
 ---

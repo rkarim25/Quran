@@ -1,8 +1,7 @@
 ---
-arabic_ayat: "وَهُمۡ يَصۡطَرِخُوۡنَ فِيۡهَا ​ۚ رَبَّنَاۤ اَخۡرِجۡنَا نَـعۡمَلۡ صَالِحًـا\
-  \ غَيۡرَ الَّذِىۡ كُـنَّا نَـعۡمَلُؕ اَوَلَمۡ نُعَمِّرۡكُمۡ مَّا يَتَذَكَّرُ فِيۡهِ\
-  \ مَنۡ تَذَكَّرَ وَجَآءَكُمُ النَّذِيۡرُؕ فَذُوۡقُوۡا فَمَا لِلظّٰلِمِيۡنَ مِنۡ\
-  \ نَّصِيۡرٍ‏ \uFEFF\uFEFF"
+arabic_ayat: وَهُمۡ يَصۡطَرِخُونَ فِيهَا رَبَّنَآ أَخۡرِجۡنَا نَعۡمَلۡ صَٰلِحًا غَيۡرَ
+  ٱلَّذِي كُنَّا نَعۡمَلُۚ أَوَلَمۡ نُعَمِّرۡكُم مَّا يَتَذَكَّرُ فِيهِ مَن تَذَكَّرَ
+  وَجَآءَكُمُ ٱلنَّذِيرُۖ فَذُوقُواْ فَمَا لِلظَّٰلِمِينَ مِن نَّصِيرٍ
 sentence_translation: There they will be ˹fervently˺ screaming, “Our Lord! Take us
   out ˹and send us back˺. We will do good, unlike what we used to do.” ˹They will
   be told,˺ “Did We not give you lives long enough so that whoever wanted to be mindful
@@ -14,27 +13,27 @@ word_by_word:
     translation: And they
     transliteration: wahum
   2:
-    arabic: يَصۡطَرِخُوۡنَ
+    arabic: يَصۡطَرِخُونَ
     translation: will cry
     transliteration: yaṣṭarikhūna
   3:
-    arabic: فِيۡهَا ​ۚ
+    arabic: فِيهَا
     translation: therein
     transliteration: fīhā
   4:
-    arabic: رَبَّنَاۤ
+    arabic: رَبَّنَآ
     translation: Our Lord
     transliteration: rabbanā
   5:
-    arabic: اَخۡرِجۡنَا
+    arabic: أَخۡرِجۡنَا
     translation: Bring us out
     transliteration: akhrij'nā
   6:
-    arabic: نَـعۡمَلۡ
+    arabic: نَعۡمَلۡ
     translation: we will do
     transliteration: naʿmal
   7:
-    arabic: صَالِحًـا
+    arabic: صَٰلِحًا
     translation: righteous (deeds)
     transliteration: ṣāliḥan
   8:
@@ -42,23 +41,23 @@ word_by_word:
     translation: other than
     transliteration: ghayra
   9:
-    arabic: الَّذِىۡ
+    arabic: ٱلَّذِي
     translation: (that) which
     transliteration: alladhī
   10:
-    arabic: كُـنَّا
+    arabic: كُنَّا
     translation: we used
     transliteration: kunnā
   11:
-    arabic: نَـعۡمَلُؕ
+    arabic: نَعۡمَلُۚ
     translation: (to) do
     transliteration: naʿmalu
   12:
-    arabic: اَوَلَمۡ
+    arabic: أَوَلَمۡ
     translation: Did not
     transliteration: awalam
   13:
-    arabic: نُعَمِّرۡكُمۡ
+    arabic: نُعَمِّرۡكُم
     translation: We give you life long enough
     transliteration: nuʿammir'kum
   14:
@@ -70,11 +69,11 @@ word_by_word:
     translation: (would) receive admonition
     transliteration: yatadhakkaru
   16:
-    arabic: فِيۡهِ
+    arabic: فِيهِ
     translation: therein
     transliteration: fīhi
   17:
-    arabic: مَنۡ
+    arabic: مَن
     translation: whoever
     transliteration: man
   18:
@@ -86,11 +85,11 @@ word_by_word:
     translation: And came to you
     transliteration: wajāakumu
   20:
-    arabic: النَّذِيۡرُؕ
+    arabic: ٱلنَّذِيرُۖ
     translation: the warner
     transliteration: l-nadhīru
   21:
-    arabic: فَذُوۡقُوۡا
+    arabic: فَذُوقُواْ
     translation: So taste
     transliteration: fadhūqū
   22:
@@ -98,15 +97,15 @@ word_by_word:
     translation: then not
     transliteration: famā
   23:
-    arabic: لِلظّٰلِمِيۡنَ
+    arabic: لِلظَّٰلِمِينَ
     translation: (is) for the wrongdoers
     transliteration: lilẓẓālimīna
   24:
-    arabic: مِنۡ
+    arabic: مِن
     translation: any
     transliteration: min
   25:
-    arabic: "نَّصِيۡرٍ‏ \uFEFF\uFEFF"
+    arabic: نَّصِيرٍ
     translation: helper
     transliteration: naṣīrin
 ---

@@ -1,19 +1,19 @@
 ---
-arabic_ayat: اَفَلَا يَتَدَبَّرُوۡنَ الۡقُرۡاٰنَ​ؕ وَلَوۡ كَانَ مِنۡ عِنۡدِ غَيۡرِ
-  اللّٰهِ لَوَجَدُوۡا فِيۡهِ اخۡتِلَافًا كَثِيۡرًا‏
+arabic_ayat: أَفَلَا يَتَدَبَّرُونَ ٱلۡقُرۡءَانَۚ وَلَوۡ كَانَ مِنۡ عِندِ غَيۡرِ ٱللَّهِ
+  لَوَجَدُواْ فِيهِ ٱخۡتِلَٰفٗا كَثِيرٗا
 sentence_translation: Do they not then reflect on the Quran? Had it been from anyone
   other than Allah, they would have certainly found in it many inconsistencies.
 word_by_word:
   1:
-    arabic: اَفَلَا
+    arabic: أَفَلَا
     translation: Then (do) not
     transliteration: afalā
   2:
-    arabic: يَتَدَبَّرُوۡنَ
+    arabic: يَتَدَبَّرُونَ
     translation: they ponder
     transliteration: yatadabbarūna
   3:
-    arabic: الۡقُرۡاٰنَ​ؕ
+    arabic: ٱلۡقُرۡءَانَۚ
     translation: (on) the Quran
     transliteration: l-qur'āna
   4:
@@ -29,7 +29,7 @@ word_by_word:
     translation: (of)
     transliteration: min
   7:
-    arabic: عِنۡدِ
+    arabic: عِندِ
     translation: from
     transliteration: ʿindi
   8:
@@ -37,23 +37,23 @@ word_by_word:
     translation: other than
     transliteration: ghayri
   9:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   10:
-    arabic: لَوَجَدُوۡا
+    arabic: لَوَجَدُواْ
     translation: surely they (would have) found
     transliteration: lawajadū
   11:
-    arabic: فِيۡهِ
+    arabic: فِيهِ
     translation: in it
     transliteration: fīhi
   12:
-    arabic: اخۡتِلَافًا
+    arabic: ٱخۡتِلَٰفٗا
     translation: contradiction
     transliteration: ikh'tilāfan
   13:
-    arabic: كَثِيۡرًا‏
+    arabic: كَثِيرٗا
     translation: much
     transliteration: kathīran
 ---

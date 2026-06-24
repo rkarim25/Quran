@@ -1,23 +1,23 @@
 ---
-arabic_ayat: اَلۡمُلۡكُ يَوۡمَٮِٕذِ اۨلۡحَـقُّ لِلرَّحۡمٰنِ​ؕ وَكَانَ يَوۡمًا عَلَى
-  الۡكٰفِرِيۡنَ عَسِيۡرًا‏
+arabic_ayat: ٱلۡمُلۡكُ يَوۡمَئِذٍ ٱلۡحَقُّ لِلرَّحۡمَٰنِۚ وَكَانَ يَوۡمًا عَلَى ٱلۡكَٰفِرِينَ
+  عَسِيرٗا
 sentence_translation: True authority on that Day will belong ˹only˺ to the Most Compassionate. And
   it will be a hard day for the disbelievers.
 word_by_word:
   1:
-    arabic: اَلۡمُلۡكُ
+    arabic: ٱلۡمُلۡكُ
     translation: The Sovereignty
     transliteration: al-mul'ku
   2:
-    arabic: يَوۡمَٮِٕذِ
+    arabic: يَوۡمَئِذٍ
     translation: that Day
     transliteration: yawma-idhin
   3:
-    arabic: اۨلۡحَـقُّ
+    arabic: ٱلۡحَقُّ
     translation: (will be) truly
     transliteration: l-ḥaqu
   4:
-    arabic: لِلرَّحۡمٰنِ​ؕ
+    arabic: لِلرَّحۡمَٰنِۚ
     translation: for the Most Gracious
     transliteration: lilrraḥmāni
   5:
@@ -33,11 +33,11 @@ word_by_word:
     translation: for
     transliteration: ʿalā
   8:
-    arabic: الۡكٰفِرِيۡنَ
+    arabic: ٱلۡكَٰفِرِينَ
     translation: the disbelievers
     transliteration: l-kāfirīna
   9:
-    arabic: عَسِيۡرًا‏
+    arabic: عَسِيرٗا
     translation: difficult
     transliteration: ʿasīran
 ---

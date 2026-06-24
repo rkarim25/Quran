@@ -1,17 +1,17 @@
 ---
-arabic_ayat: فِيۡهَا سُرُرٌ مَّرۡفُوۡعَةٌ ۙ‏
+arabic_ayat: فِيهَا سُرُرٞ مَّرۡفُوعَةٞ
 sentence_translation: along with thrones raised high,
 word_by_word:
   1:
-    arabic: فِيۡهَا
+    arabic: فِيهَا
     translation: Therein
     transliteration: fīhā
   2:
-    arabic: سُرُرٌ
+    arabic: سُرُرٞ
     translation: (will be) thrones
     transliteration: sururun
   3:
-    arabic: مَّرۡفُوۡعَةٌ ۙ‏
+    arabic: مَّرۡفُوعَةٞ
     translation: raised high
     transliteration: marfūʿatun
 ---

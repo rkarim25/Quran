@@ -1,23 +1,22 @@
 ---
-arabic_ayat: "اِنَّا مُرۡسِلُوا النَّاقَةِ فِتۡنَةً لَّهُمۡ فَارۡتَقِبۡهُمۡ وَاصۡطَبِرۡ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: إِنَّا مُرۡسِلُواْ ٱلنَّاقَةِ فِتۡنَةٗ لَّهُمۡ فَٱرۡتَقِبۡهُمۡ وَٱصۡطَبِرۡ
 sentence_translation: We are sending the she-camel as a test for them. So watch them
   ˹closely˺, and have patience.
 word_by_word:
   1:
-    arabic: اِنَّا
+    arabic: إِنَّا
     translation: Indeed, We
     transliteration: innā
   2:
-    arabic: مُرۡسِلُوا
+    arabic: مُرۡسِلُواْ
     translation: (are) sending
     transliteration: mur'silū
   3:
-    arabic: النَّاقَةِ
+    arabic: ٱلنَّاقَةِ
     translation: the she-camel
     transliteration: l-nāqati
   4:
-    arabic: فِتۡنَةً
+    arabic: فِتۡنَةٗ
     translation: (as) a trial
     transliteration: fit'natan
   5:
@@ -25,11 +24,11 @@ word_by_word:
     translation: for them
     transliteration: lahum
   6:
-    arabic: فَارۡتَقِبۡهُمۡ
+    arabic: فَٱرۡتَقِبۡهُمۡ
     translation: so watch them
     transliteration: fa-ir'taqib'hum
   7:
-    arabic: "وَاصۡطَبِرۡ‏ \uFEFF\uFEFF"
+    arabic: وَٱصۡطَبِرۡ
     translation: and be patient
     transliteration: wa-iṣ'ṭabir
 ---

@@ -1,99 +1,99 @@
 ---
-arabic_ayat: وَاعۡلَمُوۡۤا اَنَّمَا غَنِمۡتُمۡ مِّنۡ شَىۡءٍ فَاَنَّ لِلّٰهِ خُمُسَهٗ
-  وَ لِلرَّسُوۡلِ وَلِذِى الۡقُرۡبٰى وَالۡيَتٰمٰى وَالۡمَسٰكِيۡنِ وَابۡنِ السَّبِيۡلِ
-  ۙ اِنۡ كُنۡتُمۡ اٰمَنۡتُمۡ بِاللّٰهِ وَمَاۤ اَنۡزَلۡنَا عَلٰى عَبۡدِنَا يَوۡمَ الۡفُرۡقَانِ
-  يَوۡمَ الۡتَقَى الۡجَمۡعٰنِ​ ؕ وَاللّٰهُ عَلٰى كُلِّ شَىۡءٍ قَدِيۡرٌ‏
+arabic_ayat: ۞ وَٱعۡلَمُوٓاْ أَنَّمَا غَنِمۡتُم مِّن شَيۡءٖ فَأَنَّ لِلَّهِ خُمُسَهُۥ
+  وَلِلرَّسُولِ وَلِذِي ٱلۡقُرۡبَىٰ وَٱلۡيَتَٰمَىٰ وَٱلۡمَسَٰكِينِ وَٱبۡنِ ٱلسَّبِيلِ
+  إِن كُنتُمۡ ءَامَنتُم بِٱللَّهِ وَمَآ أَنزَلۡنَا عَلَىٰ عَبۡدِنَا يَوۡمَ ٱلۡفُرۡقَانِ
+  يَوۡمَ ٱلۡتَقَى ٱلۡجَمۡعَانِۗ وَٱللَّهُ عَلَىٰ كُلِّ شَيۡءٖ قَدِيرٌ
 sentence_translation: Know that whatever spoils you take, one-fifth is for Allah and
   the Messenger, his close relatives, orphans, the poor, and ˹needy˺ travellers, if
   you ˹truly˺ believe in Allah and what We revealed to Our servant on that decisive
   day when the two armies met ˹at Badr˺. And Allah is Most Capable of everything.
 word_by_word:
   1:
-    arabic: ۞ وَاعۡلَمُوۡۤا
+    arabic: ۞ وَٱعۡلَمُوٓاْ
     translation: And know
     transliteration: wa-iʿ'lamū
   2:
-    arabic: اَنَّمَا
+    arabic: أَنَّمَا
     translation: that what
     transliteration: annamā
   3:
-    arabic: غَنِمۡتُمۡ
+    arabic: غَنِمۡتُم
     translation: you obtain (as) spoils of war
     transliteration: ghanim'tum
   4:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: of
     transliteration: min
   5:
-    arabic: شَىۡءٍ
+    arabic: شَيۡءٖ
     translation: anything
     transliteration: shayin
   6:
-    arabic: فَاَنَّ
+    arabic: فَأَنَّ
     translation: then that
     transliteration: fa-anna
   7:
-    arabic: لِلّٰهِ
+    arabic: لِلَّهِ
     translation: for Allah
     transliteration: lillahi
   8:
-    arabic: خُمُسَهٗ
+    arabic: خُمُسَهُۥ
     translation: (is) one fifth of it
     transliteration: khumusahu
   9:
-    arabic: وَ لِلرَّسُوۡلِ
+    arabic: وَلِلرَّسُولِ
     translation: and for the Messenger
     transliteration: walilrrasūli
   10:
-    arabic: وَلِذِى
+    arabic: وَلِذِي
     translation: and for the
     transliteration: walidhī
   11:
-    arabic: الۡقُرۡبٰى
+    arabic: ٱلۡقُرۡبَىٰ
     translation: near relatives
     transliteration: l-qur'bā
   12:
-    arabic: وَالۡيَتٰمٰى
+    arabic: وَٱلۡيَتَٰمَىٰ
     translation: and the orphans
     transliteration: wal-yatāmā
   13:
-    arabic: وَالۡمَسٰكِيۡنِ
+    arabic: وَٱلۡمَسَٰكِينِ
     translation: and the needy
     transliteration: wal-masākīni
   14:
-    arabic: وَابۡنِ
+    arabic: وَٱبۡنِ
     translation: and the
     transliteration: wa-ib'ni
   15:
-    arabic: السَّبِيۡلِ ۙ
+    arabic: ٱلسَّبِيلِ
     translation: wayfarer
     transliteration: l-sabīli
   16:
-    arabic: اِنۡ
+    arabic: إِن
     translation: if
     transliteration: in
   17:
-    arabic: كُنۡتُمۡ
+    arabic: كُنتُمۡ ءَ
     translation: you
     transliteration: kuntum
   18:
-    arabic: اٰمَنۡتُمۡ
+    arabic: امَنتُم
     translation: believe
     transliteration: āmantum
   19:
-    arabic: بِاللّٰهِ
+    arabic: بِٱللَّهِ
     translation: in Allah
     transliteration: bil-lahi
   20:
-    arabic: وَمَاۤ
+    arabic: وَمَآ
     translation: and (in) what
     transliteration: wamā
   21:
-    arabic: اَنۡزَلۡنَا
+    arabic: أَنزَلۡنَا
     translation: We sent down
     transliteration: anzalnā
   22:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: to
     transliteration: ʿalā
   23:
@@ -105,7 +105,7 @@ word_by_word:
     translation: (on the) day
     transliteration: yawma
   25:
-    arabic: الۡفُرۡقَانِ
+    arabic: ٱلۡفُرۡقَانِ
     translation: (of) the criterion
     transliteration: l-fur'qāni
   26:
@@ -113,19 +113,19 @@ word_by_word:
     translation: (the) day
     transliteration: yawma
   27:
-    arabic: الۡتَقَى
+    arabic: ٱلۡتَقَى
     translation: (when) met
     transliteration: l-taqā
   28:
-    arabic: الۡجَمۡعٰنِ​ ؕ
+    arabic: ٱلۡجَمۡعَانِۗ
     translation: the two forces
     transliteration: l-jamʿāni
   29:
-    arabic: وَاللّٰهُ
+    arabic: وَٱللَّهُ
     translation: And Allah
     transliteration: wal-lahu
   30:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: (is) on
     transliteration: ʿalā
   31:
@@ -133,11 +133,11 @@ word_by_word:
     translation: every
     transliteration: kulli
   32:
-    arabic: شَىۡءٍ
+    arabic: شَيۡءٖ
     translation: thing
     transliteration: shayin
   33:
-    arabic: قَدِيۡرٌ‏
+    arabic: قَدِيرٌ
     translation: All-Powerful
     transliteration: qadīrun
 ---

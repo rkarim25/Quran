@@ -1,21 +1,21 @@
 ---
-arabic_ayat: لٰكِنِ الَّذِيۡنَ اتَّقَوۡا رَبَّهُمۡ لَهُمۡ جَنّٰتٌ تَجۡرِىۡ مِنۡ تَحۡتِهَا
-  الۡاَنۡهٰرُ خٰلِدِيۡنَ فِيۡهَا نُزُلًا مِّنۡ عِنۡدِ اللّٰهِ​ؕ وَمَا عِنۡدَ اللّٰهِ
-  خَيۡرٌ لِّلۡاَبۡرَارِ‏
+arabic_ayat: لَٰكِنِ ٱلَّذِينَ ٱتَّقَوۡاْ رَبَّهُمۡ لَهُمۡ جَنَّٰتٞ تَجۡرِي مِن تَحۡتِهَا
+  ٱلۡأَنۡهَٰرُ خَٰلِدِينَ فِيهَا نُزُلٗا مِّنۡ عِندِ ٱللَّهِۗ وَمَا عِندَ ٱللَّهِ
+  خَيۡرٞ لِّلۡأَبۡرَارِ
 sentence_translation: But those who are mindful of their Lord will be in Gardens under
   which rivers flow, to stay there forever—as an accommodation from Allah. And what
   is with Allah is best for the virtuous.
 word_by_word:
   1:
-    arabic: لٰكِنِ
+    arabic: لَٰكِنِ
     translation: But
     transliteration: lākini
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   3:
-    arabic: اتَّقَوۡا
+    arabic: ٱتَّقَوۡاْ
     translation: fear
     transliteration: ittaqaw
   4:
@@ -27,15 +27,15 @@ word_by_word:
     translation: for them
     transliteration: lahum
   6:
-    arabic: جَنّٰتٌ
+    arabic: جَنَّٰتٞ
     translation: (will be) Gardens
     transliteration: jannātun
   7:
-    arabic: تَجۡرِىۡ
+    arabic: تَجۡرِي
     translation: flows
     transliteration: tajrī
   8:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   9:
@@ -43,19 +43,19 @@ word_by_word:
     translation: underneath them
     transliteration: taḥtihā
   10:
-    arabic: الۡاَنۡهٰرُ
+    arabic: ٱلۡأَنۡهَٰرُ
     translation: the rivers
     transliteration: l-anhāru
   11:
-    arabic: خٰلِدِيۡنَ
+    arabic: خَٰلِدِينَ
     translation: will abide forever
     transliteration: khālidīna
   12:
-    arabic: فِيۡهَا
+    arabic: فِيهَا
     translation: 'in it '
     transliteration: fīhā
   13:
-    arabic: نُزُلًا
+    arabic: نُزُلٗا
     translation: a hospitality
     transliteration: nuzulan
   14:
@@ -63,11 +63,11 @@ word_by_word:
     translation: from
     transliteration: min
   15:
-    arabic: عِنۡدِ
+    arabic: عِندِ
     translation: '[near]'
     transliteration: ʿindi
   16:
-    arabic: اللّٰهِ​ؕ
+    arabic: ٱللَّهِۗ
     translation: Allah
     transliteration: l-lahi
   17:
@@ -75,19 +75,19 @@ word_by_word:
     translation: And what
     transliteration: wamā
   18:
-    arabic: عِنۡدَ
+    arabic: عِندَ
     translation: (is) with
     transliteration: ʿinda
   19:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   20:
-    arabic: خَيۡرٌ
+    arabic: خَيۡرٞ
     translation: (is) best
     transliteration: khayrun
   21:
-    arabic: لِّلۡاَبۡرَارِ‏
+    arabic: لِّلۡأَبۡرَارِ
     translation: for the righteous
     transliteration: lil'abrāri
 ---

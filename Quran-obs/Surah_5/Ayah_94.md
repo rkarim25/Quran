@@ -1,21 +1,21 @@
 ---
-arabic_ayat: يٰۤـاَيُّهَا الَّذِيۡنَ اٰمَنُوۡا لَيَبۡلُوَنَّكُمُ اللّٰهُ بِشَىۡءٍ
-  مِّنَ الصَّيۡدِ تَنَالُـهٗۤ اَيۡدِيۡكُمۡ وَ رِمَاحُكُمۡ لِيَـعۡلَمَ اللّٰهُ مَنۡ
-  يَّخَافُهٗ بِالۡـغَيۡبِ​ ۚ فَمَنِ اعۡتَدٰى بَعۡدَ ذٰ لِكَ فَلَهٗ عَذَابٌ اَ لِيۡمٌ‏
+arabic_ayat: يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُواْ لَيَبۡلُوَنَّكُمُ ٱللَّهُ بِشَيۡءٖ
+  مِّنَ ٱلصَّيۡدِ تَنَالُهُۥٓ أَيۡدِيكُمۡ وَرِمَاحُكُمۡ لِيَعۡلَمَ ٱللَّهُ مَن يَخَافُهُۥ
+  بِٱلۡغَيۡبِۚ فَمَنِ ٱعۡتَدَىٰ بَعۡدَ ذَٰلِكَ فَلَهُۥ عَذَابٌ أَلِيمٞ
 sentence_translation: O believers! Allah will surely test you with game within the
   reach of your hands and spears to distinguish those who fear Him in secret. Whoever
   transgresses from now on will suffer a painful punishment.
 word_by_word:
   1:
-    arabic: يٰۤـاَيُّهَا
+    arabic: يَٰٓأَيُّهَا
     translation: O you
     transliteration: yāayyuhā
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ ءَ
     translation: who
     transliteration: alladhīna
   3:
-    arabic: اٰمَنُوۡا
+    arabic: امَنُواْ
     translation: believe
     transliteration: āmanū
   4:
@@ -23,11 +23,11 @@ word_by_word:
     translation: Surely will test you
     transliteration: layabluwannakumu
   5:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   6:
-    arabic: بِشَىۡءٍ
+    arabic: بِشَيۡءٖ
     translation: through something
     transliteration: bishayin
   7:
@@ -35,39 +35,39 @@ word_by_word:
     translation: of
     transliteration: mina
   8:
-    arabic: الصَّيۡدِ
+    arabic: ٱلصَّيۡدِ
     translation: 'the game '
     transliteration: l-ṣaydi
   9:
-    arabic: تَنَالُـهٗۤ
+    arabic: تَنَالُهُۥٓ
     translation: can reach it
     transliteration: tanāluhu
   10:
-    arabic: اَيۡدِيۡكُمۡ
+    arabic: أَيۡدِيكُمۡ
     translation: your hands
     transliteration: aydīkum
   11:
-    arabic: وَ رِمَاحُكُمۡ
+    arabic: وَرِمَاحُكُمۡ
     translation: and your spears
     transliteration: warimāḥukum
   12:
-    arabic: لِيَـعۡلَمَ
+    arabic: لِيَعۡلَمَ
     translation: that may make evident
     transliteration: liyaʿlama
   13:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   14:
-    arabic: مَنۡ
+    arabic: مَن
     translation: who
     transliteration: man
   15:
-    arabic: يَّخَافُهٗ
+    arabic: يَخَافُهُۥ
     translation: fears Him
     transliteration: yakhāfuhu
   16:
-    arabic: بِالۡـغَيۡبِ​ ۚ
+    arabic: بِٱلۡغَيۡبِۚ
     translation: in the unseen
     transliteration: bil-ghaybi
   17:
@@ -75,7 +75,7 @@ word_by_word:
     translation: And whoever
     transliteration: famani
   18:
-    arabic: اعۡتَدٰى
+    arabic: ٱعۡتَدَىٰ
     translation: transgressed
     transliteration: iʿ'tadā
   19:
@@ -83,11 +83,11 @@ word_by_word:
     translation: after
     transliteration: baʿda
   20:
-    arabic: ذٰ لِكَ
+    arabic: ذَٰلِكَ
     translation: that
     transliteration: dhālika
   21:
-    arabic: فَلَهٗ
+    arabic: فَلَهُۥ
     translation: then for him
     transliteration: falahu
   22:
@@ -95,7 +95,7 @@ word_by_word:
     translation: (is) a punishment
     transliteration: ʿadhābun
   23:
-    arabic: اَ لِيۡمٌ‏
+    arabic: أَلِيمٞ
     translation: painful
     transliteration: alīmun
 ---

@@ -1,5 +1,5 @@
 ---
-arabic_ayat: وَلَقَدۡ جَآءَهُمۡ مِّنَ الۡاَنۡۢبَآءِ مَا فِيۡهِ مُزۡدَجَرٌۙ‏
+arabic_ayat: وَلَقَدۡ جَآءَهُم مِّنَ ٱلۡأَنۢبَآءِ مَا فِيهِ مُزۡدَجَرٌ
 sentence_translation: even though the stories ˹of destroyed nations˺ that have already
   come to them are a sufficient deterrent.
 word_by_word:
@@ -8,7 +8,7 @@ word_by_word:
     translation: And certainly
     transliteration: walaqad
   2:
-    arabic: جَآءَهُمۡ
+    arabic: جَآءَهُم
     translation: has come to them
     transliteration: jāahum
   3:
@@ -16,7 +16,7 @@ word_by_word:
     translation: of
     transliteration: mina
   4:
-    arabic: الۡاَنۡۢبَآءِ
+    arabic: ٱلۡأَنۢبَآءِ
     translation: the information
     transliteration: l-anbāi
   5:
@@ -24,11 +24,11 @@ word_by_word:
     translation: wherein
     transliteration: mā
   6:
-    arabic: فِيۡهِ
+    arabic: فِيهِ
     translation: wherein
     transliteration: fīhi
   7:
-    arabic: مُزۡدَجَرٌۙ‏
+    arabic: مُزۡدَجَرٌ
     translation: (is) deterrence
     transliteration: muz'dajarun
 ---

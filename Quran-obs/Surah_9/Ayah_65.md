@@ -1,24 +1,24 @@
 ---
-arabic_ayat: وَلَٮِٕنۡ سَاَلۡتَهُمۡ لَيَـقُوۡلُنَّ اِنَّمَا كُنَّا نَخُوۡضُ وَنَلۡعَبُ​ؕ
-  قُلۡ اَبِاللّٰهِ وَاٰيٰتِهٖ وَرَسُوۡلِهٖ كُنۡتُمۡ تَسۡتَهۡزِءُوۡنَ‏
+arabic_ayat: وَلَئِن سَأَلۡتَهُمۡ لَيَقُولُنَّ إِنَّمَا كُنَّا نَخُوضُ وَنَلۡعَبُۚ
+  قُلۡ أَبِٱللَّهِ وَءَايَٰتِهِۦ وَرَسُولِهِۦ كُنتُمۡ تَسۡتَهۡزِءُونَ
 sentence_translation: If you question them, they will certainly say, “We were only
   talking idly and joking around.” Say, “Was it Allah, His revelations, and His Messenger
   that you ridiculed?”
 word_by_word:
   1:
-    arabic: وَلَٮِٕنۡ
+    arabic: وَلَئِن
     translation: And if
     transliteration: wala-in
   2:
-    arabic: سَاَلۡتَهُمۡ
+    arabic: سَأَلۡتَهُمۡ
     translation: you ask them
     transliteration: sa-altahum
   3:
-    arabic: لَيَـقُوۡلُنَّ
+    arabic: لَيَقُولُنَّ
     translation: surely they will say
     transliteration: layaqūlunna
   4:
-    arabic: اِنَّمَا
+    arabic: إِنَّمَا
     translation: Only
     transliteration: innamā
   5:
@@ -26,11 +26,11 @@ word_by_word:
     translation: we were
     transliteration: kunnā
   6:
-    arabic: نَخُوۡضُ
+    arabic: نَخُوضُ
     translation: conversing
     transliteration: nakhūḍu
   7:
-    arabic: وَنَلۡعَبُ​ؕ
+    arabic: وَنَلۡعَبُۚ
     translation: and playing
     transliteration: wanalʿabu
   8:
@@ -38,23 +38,23 @@ word_by_word:
     translation: Say
     transliteration: qul
   9:
-    arabic: اَبِاللّٰهِ
+    arabic: أَبِٱللَّهِ
     translation: Is it Allah
     transliteration: abil-lahi
   10:
-    arabic: وَاٰيٰتِهٖ
+    arabic: وَءَايَٰتِهِۦ
     translation: and His Verses
     transliteration: waāyātihi
   11:
-    arabic: وَرَسُوۡلِهٖ
+    arabic: وَرَسُولِهِۦ
     translation: and His Messenger
     transliteration: warasūlihi
   12:
-    arabic: كُنۡتُمۡ
+    arabic: كُنتُمۡ
     translation: (that) you were
     transliteration: kuntum
   13:
-    arabic: تَسۡتَهۡزِءُوۡنَ‏
+    arabic: تَسۡتَهۡزِءُونَ
     translation: mocking
     transliteration: tastahziūna
 ---

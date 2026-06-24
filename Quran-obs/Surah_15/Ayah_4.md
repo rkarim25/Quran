@@ -1,17 +1,17 @@
 ---
-arabic_ayat: وَمَاۤ اَهۡلَـكۡنَا مِنۡ قَرۡيَةٍ اِلَّا وَلَهَا كِتَابٌ مَّعۡلُوۡمٌ‏
+arabic_ayat: وَمَآ أَهۡلَكۡنَا مِن قَرۡيَةٍ إِلَّا وَلَهَا كِتَابٞ مَّعۡلُومٞ
 sentence_translation: We have never destroyed a society without a destined term.
 word_by_word:
   1:
-    arabic: وَمَاۤ
+    arabic: وَمَآ
     translation: And not
     transliteration: wamā
   2:
-    arabic: اَهۡلَـكۡنَا
+    arabic: أَهۡلَكۡنَا
     translation: We destroyed
     transliteration: ahlaknā
   3:
-    arabic: مِنۡ
+    arabic: مِن
     translation: any
     transliteration: min
   4:
@@ -19,7 +19,7 @@ word_by_word:
     translation: town
     transliteration: qaryatin
   5:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: but
     transliteration: illā
   6:
@@ -27,11 +27,11 @@ word_by_word:
     translation: (there was) for it
     transliteration: walahā
   7:
-    arabic: كِتَابٌ
+    arabic: كِتَابٞ
     translation: a decree
     transliteration: kitābun
   8:
-    arabic: مَّعۡلُوۡمٌ‏
+    arabic: مَّعۡلُومٞ
     translation: known
     transliteration: maʿlūmun
 ---

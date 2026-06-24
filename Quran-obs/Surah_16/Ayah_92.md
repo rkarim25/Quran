@@ -1,8 +1,8 @@
 ---
-arabic_ayat: وَلَا تَكُوۡنُوۡا كَالَّتِىۡ نَقَضَتۡ غَزۡلَهَا مِنۡۢ بَعۡدِ قُوَّةٍ
-  اَنۡكَاثًا ؕ تَتَّخِذُوۡنَ اَيۡمَانَكُمۡ دَخَلًاۢ بَيۡنَكُمۡ اَنۡ تَكُوۡنَ اُمَّةٌ
-  هِىَ اَرۡبٰى مِنۡ اُمَّةٍ​ ؕ اِنَّمَا يَبۡلُوۡكُمُ اللّٰهُ بِهٖ ​ؕ وَلَيُبَيِّنَنَّ
-  لَـكُمۡ يَوۡمَ الۡقِيٰمَةِ مَا كُنۡـتُمۡ فِيۡهِ تَخۡتَلِفُوۡنَ‏
+arabic_ayat: وَلَا تَكُونُواْ كَٱلَّتِي نَقَضَتۡ غَزۡلَهَا مِنۢ بَعۡدِ قُوَّةٍ أَنكَٰثٗا
+  تَتَّخِذُونَ أَيۡمَٰنَكُمۡ دَخَلَۢا بَيۡنَكُمۡ أَن تَكُونَ أُمَّةٌ هِيَ أَرۡبَىٰ
+  مِنۡ أُمَّةٍۚ إِنَّمَا يَبۡلُوكُمُ ٱللَّهُ بِهِۦۚ وَلَيُبَيِّنَنَّ لَكُمۡ يَوۡمَ
+  ٱلۡقِيَٰمَةِ مَا كُنتُمۡ فِيهِ تَخۡتَلِفُونَ
 sentence_translation: Do not be like the woman who ˹foolishly˺ unravels her yarn after
   it is firmly spun, by taking your oaths as a means of deceiving one another in favour
   of a stronger group. Surely Allah tests you through this. And on the Day of Judgment
@@ -13,11 +13,11 @@ word_by_word:
     translation: And (do) not
     transliteration: walā
   2:
-    arabic: تَكُوۡنُوۡا
+    arabic: تَكُونُواْ
     translation: be
     transliteration: takūnū
   3:
-    arabic: كَالَّتِىۡ
+    arabic: كَٱلَّتِي
     translation: like her who
     transliteration: ka-allatī
   4:
@@ -29,7 +29,7 @@ word_by_word:
     translation: her spun yarn
     transliteration: ghazlahā
   6:
-    arabic: مِنۡۢ
+    arabic: مِنۢ
     translation: after
     transliteration: min
   7:
@@ -41,19 +41,19 @@ word_by_word:
     translation: strength
     transliteration: quwwatin
   9:
-    arabic: اَنۡكَاثًا ؕ
+    arabic: أَنكَٰثٗا
     translation: (into) untwisted strands
     transliteration: ankāthan
   10:
-    arabic: تَتَّخِذُوۡنَ
+    arabic: تَتَّخِذُونَ
     translation: you take
     transliteration: tattakhidhūna
   11:
-    arabic: اَيۡمَانَكُمۡ
+    arabic: أَيۡمَٰنَكُمۡ
     translation: your oaths
     transliteration: aymānakum
   12:
-    arabic: دَخَلًاۢ
+    arabic: دَخَلَۢا
     translation: (as) a deception
     transliteration: dakhalan
   13:
@@ -61,23 +61,23 @@ word_by_word:
     translation: between you
     transliteration: baynakum
   14:
-    arabic: اَنۡ
+    arabic: أَن
     translation: because
     transliteration: an
   15:
-    arabic: تَكُوۡنَ
+    arabic: تَكُونَ
     translation: is
     transliteration: takūna
   16:
-    arabic: اُمَّةٌ
+    arabic: أُمَّةٌ
     translation: a community
     transliteration: ummatun
   17:
-    arabic: هِىَ
+    arabic: هِيَ
     translation: '[it]'
     transliteration: hiya
   18:
-    arabic: اَرۡبٰى
+    arabic: أَرۡبَىٰ
     translation: more numerous
     transliteration: arbā
   19:
@@ -85,23 +85,23 @@ word_by_word:
     translation: than
     transliteration: min
   20:
-    arabic: اُمَّةٍ​ ؕ
+    arabic: أُمَّةٍۚ
     translation: (another) community
     transliteration: ummatin
   21:
-    arabic: اِنَّمَا
+    arabic: إِنَّمَا
     translation: Only
     transliteration: innamā
   22:
-    arabic: يَبۡلُوۡكُمُ
+    arabic: يَبۡلُوكُمُ
     translation: Allah tests you
     transliteration: yablūkumu
   23:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah tests you
     transliteration: l-lahu
   24:
-    arabic: بِهٖ ​ؕ
+    arabic: بِهِۦۚ
     translation: by it
     transliteration: bihi
   25:
@@ -109,7 +109,7 @@ word_by_word:
     translation: And He will make clear
     transliteration: walayubayyinanna
   26:
-    arabic: لَـكُمۡ
+    arabic: لَكُمۡ
     translation: to you
     transliteration: lakum
   27:
@@ -117,7 +117,7 @@ word_by_word:
     translation: (on) the Day
     transliteration: yawma
   28:
-    arabic: الۡقِيٰمَةِ
+    arabic: ٱلۡقِيَٰمَةِ
     translation: (of) the Resurrection
     transliteration: l-qiyāmati
   29:
@@ -125,15 +125,15 @@ word_by_word:
     translation: what
     transliteration: mā
   30:
-    arabic: كُنۡـتُمۡ
+    arabic: كُنتُمۡ
     translation: you used (to)
     transliteration: kuntum
   31:
-    arabic: فِيۡهِ
+    arabic: فِيهِ
     translation: in it
     transliteration: fīhi
   32:
-    arabic: تَخۡتَلِفُوۡنَ‏
+    arabic: تَخۡتَلِفُونَ
     translation: differ
     transliteration: takhtalifūna
 ---

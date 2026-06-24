@@ -1,9 +1,9 @@
 ---
-arabic_ayat: اِنَّ رَبَّكَ هُوَ الۡخَـلّٰقُ الۡعَلِيۡمُ‏
+arabic_ayat: إِنَّ رَبَّكَ هُوَ ٱلۡخَلَّٰقُ ٱلۡعَلِيمُ
 sentence_translation: Surely your Lord is the Master Creator, All-Knowing.
 word_by_word:
   1:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   2:
@@ -15,11 +15,11 @@ word_by_word:
     translation: He
     transliteration: huwa
   4:
-    arabic: الۡخَـلّٰقُ
+    arabic: ٱلۡخَلَّٰقُ
     translation: (is) the Creator
     transliteration: l-khalāqu
   5:
-    arabic: الۡعَلِيۡمُ‏
+    arabic: ٱلۡعَلِيمُ
     translation: the All-Knower
     transliteration: l-ʿalīmu
 ---

@@ -1,11 +1,11 @@
 ---
-arabic_ayat: وَاِذۡ قَالَ اِبۡرٰهِيۡمُ رَبِّ اجۡعَلۡ هٰذَا الۡبَلَدَ اٰمِنًا وَّاجۡنُبۡنِىۡ
-  وَبَنِىَّ اَنۡ نَّـعۡبُدَ الۡاَصۡنَامَؕ‏
+arabic_ayat: وَإِذۡ قَالَ إِبۡرَٰهِيمُ رَبِّ ٱجۡعَلۡ هَٰذَا ٱلۡبَلَدَ ءَامِنٗا وَٱجۡنُبۡنِي
+  وَبَنِيَّ أَن نَّعۡبُدَ ٱلۡأَصۡنَامَ
 sentence_translation: ˹Remember˺ when Abraham prayed, “My Lord! Make this city ˹of
   Mecca˺ secure, and keep me and my children away from the worship of idols.
 word_by_word:
   1:
-    arabic: وَاِذۡ
+    arabic: وَإِذۡ
     translation: And when
     transliteration: wa-idh
   2:
@@ -13,7 +13,7 @@ word_by_word:
     translation: said
     transliteration: qāla
   3:
-    arabic: اِبۡرٰهِيۡمُ
+    arabic: إِبۡرَٰهِيمُ
     translation: Ibrahim
     transliteration: ib'rāhīmu
   4:
@@ -21,39 +21,39 @@ word_by_word:
     translation: My Lord
     transliteration: rabbi
   5:
-    arabic: اجۡعَلۡ
+    arabic: ٱجۡعَلۡ
     translation: Make
     transliteration: ij'ʿal
   6:
-    arabic: هٰذَا
+    arabic: هَٰذَا
     translation: this
     transliteration: hādhā
   7:
-    arabic: الۡبَلَدَ
+    arabic: ٱلۡبَلَدَ ءَ
     translation: city
     transliteration: l-balada
   8:
-    arabic: اٰمِنًا
+    arabic: امِنٗا
     translation: safe
     transliteration: āminan
   9:
-    arabic: وَّاجۡنُبۡنِىۡ
+    arabic: وَٱجۡنُبۡنِي
     translation: and keep me away
     transliteration: wa-uj'nub'nī
   10:
-    arabic: وَبَنِىَّ
+    arabic: وَبَنِيَّ
     translation: and my sons
     transliteration: wabaniyya
   11:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that
     transliteration: an
   12:
-    arabic: نَّـعۡبُدَ
+    arabic: نَّعۡبُدَ
     translation: we worship
     transliteration: naʿbuda
   13:
-    arabic: الۡاَصۡنَامَؕ‏
+    arabic: ٱلۡأَصۡنَامَ
     translation: the idols
     transliteration: l-aṣnāma
 ---

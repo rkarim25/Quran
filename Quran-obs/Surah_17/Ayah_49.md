@@ -1,15 +1,15 @@
 ---
-arabic_ayat: وَقَالُوۡۤا ءَاِذَا كُنَّا عِظَامًا وَّرُفَاتًا ءَاِنَّا لَمَبۡعُوۡثُوۡنَ
-  خَلۡقًا جَدِيۡدًا‏
+arabic_ayat: وَقَالُوٓاْ أَءِذَا كُنَّا عِظَٰمٗا وَرُفَٰتًا أَءِنَّا لَمَبۡعُوثُونَ
+  خَلۡقٗا جَدِيدٗا
 sentence_translation: And they say ˹mockingly˺, “When we are reduced to bones and
   ashes, will we really be raised as a new creation?”
 word_by_word:
   1:
-    arabic: وَقَالُوۡۤا
+    arabic: وَقَالُوٓاْ أَ
     translation: And they say
     transliteration: waqālū
   2:
-    arabic: ءَاِذَا
+    arabic: ءِذَا
     translation: Is it when
     transliteration: a-idhā
   3:
@@ -17,27 +17,27 @@ word_by_word:
     translation: we are
     transliteration: kunnā
   4:
-    arabic: عِظَامًا
+    arabic: عِظَٰمٗا
     translation: bones
     transliteration: ʿiẓāman
   5:
-    arabic: وَّرُفَاتًا
+    arabic: وَرُفَٰتًا أَ
     translation: and crumbled particles
     transliteration: warufātan
   6:
-    arabic: ءَاِنَّا
+    arabic: ءِنَّا
     translation: will we
     transliteration: a-innā
   7:
-    arabic: لَمَبۡعُوۡثُوۡنَ
+    arabic: لَمَبۡعُوثُونَ
     translation: surely (be) resurrected
     transliteration: lamabʿūthūna
   8:
-    arabic: خَلۡقًا
+    arabic: خَلۡقٗا
     translation: (as) a creation
     transliteration: khalqan
   9:
-    arabic: جَدِيۡدًا‏
+    arabic: جَدِيدٗا
     translation: new
     transliteration: jadīdan
 ---

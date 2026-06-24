@@ -1,23 +1,22 @@
 ---
-arabic_ayat: "وَاَمۡطَرۡنَا عَلَيۡهِمۡ مَّطَرًا ​ؕ فَانْظُرۡ كَيۡفَ كَانَ عَاقِبَةُ\
-  \ الۡمُجۡرِمِيۡنَ‏ \uFEFF\uFEFF"
+arabic_ayat: وَأَمۡطَرۡنَا عَلَيۡهِم مَّطَرٗاۖ فَٱنظُرۡ كَيۡفَ كَانَ عَٰقِبَةُ ٱلۡمُجۡرِمِينَ
 sentence_translation: We poured upon them a rain ˹of brimstone˺. See what was the
   end of the wicked!
 word_by_word:
   1:
-    arabic: وَاَمۡطَرۡنَا
+    arabic: وَأَمۡطَرۡنَا
     translation: And We showered
     transliteration: wa-amṭarnā
   2:
-    arabic: عَلَيۡهِمۡ
+    arabic: عَلَيۡهِم
     translation: upon them
     transliteration: ʿalayhim
   3:
-    arabic: مَّطَرًا ​ؕ
+    arabic: مَّطَرٗاۖ
     translation: a rain
     transliteration: maṭaran
   4:
-    arabic: فَانْظُرۡ
+    arabic: فَٱنظُرۡ
     translation: So see
     transliteration: fa-unẓur
   5:
@@ -29,11 +28,11 @@ word_by_word:
     translation: was
     transliteration: kāna
   7:
-    arabic: عَاقِبَةُ
+    arabic: عَٰقِبَةُ
     translation: (the) end
     transliteration: ʿāqibatu
   8:
-    arabic: "الۡمُجۡرِمِيۡنَ‏ \uFEFF\uFEFF"
+    arabic: ٱلۡمُجۡرِمِينَ
     translation: (of) the criminals
     transliteration: l-muj'rimīna
 ---

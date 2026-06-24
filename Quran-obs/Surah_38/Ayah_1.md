@@ -1,21 +1,21 @@
 ---
-arabic_ayat: صٓ​ وَالۡقُرۡاٰنِ ذِى الذِّكۡرِؕ‏
+arabic_ayat: صٓۚ وَٱلۡقُرۡءَانِ ذِي ٱلذِّكۡرِ
 sentence_translation: Ṣãd. By the Quran, full of reminders!
 word_by_word:
   1:
-    arabic: صٓ​
+    arabic: صٓۚ
     translation: Saad
     transliteration: sad
   2:
-    arabic: وَالۡقُرۡاٰنِ
+    arabic: وَٱلۡقُرۡءَانِ
     translation: By the Quran
     transliteration: wal-qur'āni
   3:
-    arabic: ذِى
+    arabic: ذِي
     translation: full (of) reminder
     transliteration: dhī
   4:
-    arabic: الذِّكۡرِؕ‏
+    arabic: ٱلذِّكۡرِ
     translation: full (of) reminder
     transliteration: l-dhik'ri
 ---

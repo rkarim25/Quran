@@ -1,6 +1,6 @@
 ---
-arabic_ayat: وَيَوۡمَ الۡقِيٰمَةِ تَرَى الَّذِيۡنَ كَذَبُوۡا عَلَى اللّٰهِ وُجُوۡهُهُمۡ
-  مُّسۡوَدَّةٌ ؕ اَلَيۡسَ فِىۡ جَهَنَّمَ مَثۡوًى لِّلۡمُتَكَبِّرِيۡنَ‏
+arabic_ayat: وَيَوۡمَ ٱلۡقِيَٰمَةِ تَرَى ٱلَّذِينَ كَذَبُواْ عَلَى ٱللَّهِ وُجُوهُهُم
+  مُّسۡوَدَّةٌۚ أَلَيۡسَ فِي جَهَنَّمَ مَثۡوٗى لِّلۡمُتَكَبِّرِينَ
 sentence_translation: On the Day of Judgment you will see those who lied about Allah
   with their faces gloomy. Is Hell not a ˹fitting˺ home for the arrogant?
 word_by_word:
@@ -9,7 +9,7 @@ word_by_word:
     translation: And (on the) Day
     transliteration: wayawma
   2:
-    arabic: الۡقِيٰمَةِ
+    arabic: ٱلۡقِيَٰمَةِ
     translation: (of) the Resurrection
     transliteration: l-qiyāmati
   3:
@@ -17,11 +17,11 @@ word_by_word:
     translation: you will see
     transliteration: tarā
   4:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   5:
-    arabic: كَذَبُوۡا
+    arabic: كَذَبُواْ
     translation: lied
     transliteration: kadhabū
   6:
@@ -29,23 +29,23 @@ word_by_word:
     translation: about
     transliteration: ʿalā
   7:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   8:
-    arabic: وُجُوۡهُهُمۡ
+    arabic: وُجُوهُهُم
     translation: their faces
     transliteration: wujūhuhum
   9:
-    arabic: مُّسۡوَدَّةٌ ؕ
+    arabic: مُّسۡوَدَّةٌۚ
     translation: (will be) blackened
     transliteration: mus'waddatun
   10:
-    arabic: اَلَيۡسَ
+    arabic: أَلَيۡسَ
     translation: Is (there) not
     transliteration: alaysa
   11:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   12:
@@ -53,11 +53,11 @@ word_by_word:
     translation: Hell
     transliteration: jahannama
   13:
-    arabic: مَثۡوًى
+    arabic: مَثۡوٗى
     translation: an abode
     transliteration: mathwan
   14:
-    arabic: لِّلۡمُتَكَبِّرِيۡنَ‏
+    arabic: لِّلۡمُتَكَبِّرِينَ
     translation: for the arrogant
     transliteration: lil'mutakabbirīna
 ---

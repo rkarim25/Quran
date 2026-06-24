@@ -1,5 +1,5 @@
 ---
-arabic_ayat: عَلِمَتۡ نَفۡسٌ مَّاۤ اَحۡضَرَتۡؕ‏
+arabic_ayat: عَلِمَتۡ نَفۡسٞ مَّآ أَحۡضَرَتۡ
 sentence_translation: ˹on that Day˺ each soul will know what ˹deeds˺ it has brought
   along.
 word_by_word:
@@ -8,15 +8,15 @@ word_by_word:
     translation: Will know
     transliteration: ʿalimat
   2:
-    arabic: نَفۡسٌ
+    arabic: نَفۡسٞ
     translation: a soul
     transliteration: nafsun
   3:
-    arabic: مَّاۤ
+    arabic: مَّآ
     translation: what
     transliteration: mā
   4:
-    arabic: اَحۡضَرَتۡؕ‏
+    arabic: أَحۡضَرَتۡ
     translation: it has brought
     transliteration: aḥḍarat
 ---

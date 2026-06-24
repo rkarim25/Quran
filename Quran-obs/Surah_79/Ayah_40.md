@@ -1,10 +1,10 @@
 ---
-arabic_ayat: وَاَمَّا مَنۡ خَافَ مَقَامَ رَبِّهٖ وَ نَهَى النَّفۡسَ عَنِ الۡهَوٰىۙ‏
+arabic_ayat: وَأَمَّا مَنۡ خَافَ مَقَامَ رَبِّهِۦ وَنَهَى ٱلنَّفۡسَ عَنِ ٱلۡهَوَىٰ
 sentence_translation: And as for those who were in awe of standing before their Lord
   and restrained themselves from ˹evil˺ desires,
 word_by_word:
   1:
-    arabic: وَاَمَّا
+    arabic: وَأَمَّا
     translation: But as for
     transliteration: wa-ammā
   2:
@@ -20,15 +20,15 @@ word_by_word:
     translation: standing
     transliteration: maqāma
   5:
-    arabic: رَبِّهٖ
+    arabic: رَبِّهِۦ
     translation: (before) his Lord
     transliteration: rabbihi
   6:
-    arabic: وَ نَهَى
+    arabic: وَنَهَى
     translation: and restrained
     transliteration: wanahā
   7:
-    arabic: النَّفۡسَ
+    arabic: ٱلنَّفۡسَ
     translation: his soul
     transliteration: l-nafsa
   8:
@@ -36,7 +36,7 @@ word_by_word:
     translation: from
     transliteration: ʿani
   9:
-    arabic: الۡهَوٰىۙ‏
+    arabic: ٱلۡهَوَىٰ
     translation: the vain desires
     transliteration: l-hawā
 ---

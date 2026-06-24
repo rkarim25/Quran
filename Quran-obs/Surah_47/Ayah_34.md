@@ -1,35 +1,35 @@
 ---
-arabic_ayat: اِنَّ الَّذِيۡنَ كَفَرُوۡا وَصَدُّوۡا عَنۡ سَبِيۡلِ اللّٰهِ ثُمَّ مَاتُوۡا
-  وَهُمۡ كُفَّارٌ فَلَنۡ يَّغۡفِرَ اللّٰهُ لَهُمۡ‏
+arabic_ayat: إِنَّ ٱلَّذِينَ كَفَرُواْ وَصَدُّواْ عَن سَبِيلِ ٱللَّهِ ثُمَّ مَاتُواْ
+  وَهُمۡ كُفَّارٞ فَلَن يَغۡفِرَ ٱللَّهُ لَهُمۡ
 sentence_translation: Surely those who disbelieve, hinder ˹others˺ from the Way of
   Allah, and then die as disbelievers; Allah will never forgive them.
 word_by_word:
   1:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   3:
-    arabic: كَفَرُوۡا
+    arabic: كَفَرُواْ
     translation: disbelieve
     transliteration: kafarū
   4:
-    arabic: وَصَدُّوۡا
+    arabic: وَصَدُّواْ
     translation: and turn away
     transliteration: waṣaddū
   5:
-    arabic: عَنۡ
+    arabic: عَن
     translation: from
     transliteration: ʿan
   6:
-    arabic: سَبِيۡلِ
+    arabic: سَبِيلِ
     translation: (the) way
     transliteration: sabīli
   7:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (of) Allah
     transliteration: l-lahi
   8:
@@ -37,7 +37,7 @@ word_by_word:
     translation: then
     transliteration: thumma
   9:
-    arabic: مَاتُوۡا
+    arabic: مَاتُواْ
     translation: died
     transliteration: mātū
   10:
@@ -45,23 +45,23 @@ word_by_word:
     translation: while they
     transliteration: wahum
   11:
-    arabic: كُفَّارٌ
+    arabic: كُفَّارٞ
     translation: (were) disbelievers
     transliteration: kuffārun
   12:
-    arabic: فَلَنۡ
+    arabic: فَلَن
     translation: never
     transliteration: falan
   13:
-    arabic: يَّغۡفِرَ
+    arabic: يَغۡفِرَ
     translation: will Allah forgive
     transliteration: yaghfira
   14:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: will Allah forgive
     transliteration: l-lahu
   15:
-    arabic: لَهُمۡ‏
+    arabic: لَهُمۡ
     translation: them
     transliteration: lahum
 ---

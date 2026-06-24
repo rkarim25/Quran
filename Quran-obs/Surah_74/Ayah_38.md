@@ -1,5 +1,5 @@
 ---
-arabic_ayat: كُلُّ نَفۡسٍ ۢ بِمَا كَسَبَتۡ رَهِيۡنَةٌ ۙ‏
+arabic_ayat: كُلُّ نَفۡسِۭ بِمَا كَسَبَتۡ رَهِينَةٌ
 sentence_translation: Every soul will be detained for what it has done,
 word_by_word:
   1:
@@ -7,7 +7,7 @@ word_by_word:
     translation: Every
     transliteration: kullu
   2:
-    arabic: نَفۡسٍ ۢ
+    arabic: نَفۡسِۭ
     translation: soul
     transliteration: nafsin
   3:
@@ -19,7 +19,7 @@ word_by_word:
     translation: it has earned
     transliteration: kasabat
   5:
-    arabic: رَهِيۡنَةٌ ۙ‏
+    arabic: رَهِينَةٌ
     translation: (is) pledged
     transliteration: rahīnatun
 ---

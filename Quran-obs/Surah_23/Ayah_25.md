@@ -1,9 +1,9 @@
 ---
-arabic_ayat: اِنۡ هُوَ اِلَّا رَجُلٌۢ بِهٖ جِنَّةٌ فَتَرَبَّصُوۡا بِهٖ حَتّٰى حِيۡنٍ‏
+arabic_ayat: إِنۡ هُوَ إِلَّا رَجُلُۢ بِهِۦ جِنَّةٞ فَتَرَبَّصُواْ بِهِۦ حَتَّىٰ حِينٖ
 sentence_translation: He is simply insane, so bear with him for a while.” 
 word_by_word:
   1:
-    arabic: اِنۡ
+    arabic: إِنۡ
     translation: Not
     transliteration: in
   2:
@@ -11,35 +11,35 @@ word_by_word:
     translation: he
     transliteration: huwa
   3:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: (is) but
     transliteration: illā
   4:
-    arabic: رَجُلٌۢ
+    arabic: رَجُلُۢ
     translation: a man
     transliteration: rajulun
   5:
-    arabic: بِهٖ
+    arabic: بِهِۦ
     translation: in him
     transliteration: bihi
   6:
-    arabic: جِنَّةٌ
+    arabic: جِنَّةٞ
     translation: (is) madness
     transliteration: jinnatun
   7:
-    arabic: فَتَرَبَّصُوۡا
+    arabic: فَتَرَبَّصُواْ
     translation: so wait
     transliteration: fatarabbaṣū
   8:
-    arabic: بِهٖ
+    arabic: بِهِۦ
     translation: concerning him
     transliteration: bihi
   9:
-    arabic: حَتّٰى
+    arabic: حَتَّىٰ
     translation: until
     transliteration: ḥattā
   10:
-    arabic: حِيۡنٍ‏
+    arabic: حِينٖ
     translation: a time
     transliteration: ḥīnin
 ---

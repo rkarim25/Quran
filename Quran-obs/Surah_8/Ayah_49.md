@@ -1,33 +1,33 @@
 ---
-arabic_ayat: اِذۡ يَقُوۡلُ الۡمُنٰفِقُوۡنَ وَالَّذِيۡنَ فِىۡ قُلُوۡبِهِمۡ مَّرَضٌ
-  غَرَّ هٰٓؤُلَاۤءِ دِيۡنُهُمۡؕ وَمَنۡ يَّتَوَكَّلۡ عَلَى اللّٰهِ فَاِنَّ اللّٰهَ
-  عَزِيۡزٌ حَكِيۡمٌ‏
+arabic_ayat: إِذۡ يَقُولُ ٱلۡمُنَٰفِقُونَ وَٱلَّذِينَ فِي قُلُوبِهِم مَّرَضٌ غَرَّ
+  هَٰٓؤُلَآءِ دِينُهُمۡۗ وَمَن يَتَوَكَّلۡ عَلَى ٱللَّهِ فَإِنَّ ٱللَّهَ عَزِيزٌ
+  حَكِيمٞ
 sentence_translation: ˹Remember˺ when the hypocrites and those with sickness in their
   hearts said, “These ˹believers˺ are deluded by their faith.” But whoever puts their
   trust in Allah, surely Allah is Almighty, All-Wise.
 word_by_word:
   1:
-    arabic: اِذۡ
+    arabic: إِذۡ
     translation: When
     transliteration: idh
   2:
-    arabic: يَقُوۡلُ
+    arabic: يَقُولُ
     translation: said
     transliteration: yaqūlu
   3:
-    arabic: الۡمُنٰفِقُوۡنَ
+    arabic: ٱلۡمُنَٰفِقُونَ
     translation: the hypocrites
     transliteration: l-munāfiqūna
   4:
-    arabic: وَالَّذِيۡنَ
+    arabic: وَٱلَّذِينَ
     translation: 'and those who '
     transliteration: wa-alladhīna
   5:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   6:
-    arabic: قُلُوۡبِهِمۡ
+    arabic: قُلُوبِهِم
     translation: their hearts
     transliteration: qulūbihim
   7:
@@ -39,19 +39,19 @@ word_by_word:
     translation: (Had) deluded
     transliteration: gharra
   9:
-    arabic: هٰٓؤُلَاۤءِ
+    arabic: هَٰٓؤُلَآءِ
     translation: these (people)
     transliteration: hāulāi
   10:
-    arabic: دِيۡنُهُمۡؕ
+    arabic: دِينُهُمۡۗ
     translation: their religion
     transliteration: dīnuhum
   11:
-    arabic: وَمَنۡ
+    arabic: وَمَن
     translation: But whoever
     transliteration: waman
   12:
-    arabic: يَّتَوَكَّلۡ
+    arabic: يَتَوَكَّلۡ
     translation: puts (his) trust
     transliteration: yatawakkal
   13:
@@ -59,23 +59,23 @@ word_by_word:
     translation: in
     transliteration: ʿalā
   14:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   15:
-    arabic: فَاِنَّ
+    arabic: فَإِنَّ
     translation: then indeed
     transliteration: fa-inna
   16:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   17:
-    arabic: عَزِيۡزٌ
+    arabic: عَزِيزٌ
     translation: (is) All-Mighty
     transliteration: ʿazīzun
   18:
-    arabic: حَكِيۡمٌ‏
+    arabic: حَكِيمٞ
     translation: All-Wise
     transliteration: ḥakīmun
 ---

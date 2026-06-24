@@ -1,5 +1,5 @@
 ---
-arabic_ayat: قَالَ قَدۡ اُوۡتِيۡتَ سُؤۡلَـكَ يٰمُوۡسٰى‏
+arabic_ayat: قَالَ قَدۡ أُوتِيتَ سُؤۡلَكَ يَٰمُوسَىٰ
 sentence_translation: Allah responded, “All that you requested has been granted, O
    Moses!
 word_by_word:
@@ -12,15 +12,15 @@ word_by_word:
     translation: Verily
     transliteration: qad
   3:
-    arabic: اُوۡتِيۡتَ
+    arabic: أُوتِيتَ
     translation: you are granted
     transliteration: ūtīta
   4:
-    arabic: سُؤۡلَـكَ
+    arabic: سُؤۡلَكَ
     translation: your request
     transliteration: su'laka
   5:
-    arabic: يٰمُوۡسٰى‏
+    arabic: يَٰمُوسَىٰ
     translation: O Musa
     transliteration: yāmūsā
 ---

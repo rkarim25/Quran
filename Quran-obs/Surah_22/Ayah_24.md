@@ -1,19 +1,19 @@
 ---
-arabic_ayat: "وَهُدُوۡۤا اِلَى الطَّيِّبِ مِنَ الۡقَوۡلِ​ ۖۚ وَهُدُوۡۤا اِلٰى صِرَاطِ\
-  \ الۡحَمِيۡدِ‏ \uFEFF\uFEFF"
+arabic_ayat: وَهُدُوٓاْ إِلَى ٱلطَّيِّبِ مِنَ ٱلۡقَوۡلِ وَهُدُوٓاْ إِلَىٰ صِرَٰطِ
+  ٱلۡحَمِيدِ
 sentence_translation: for they have been guided to the best of speech, and they have
   been guided to the Commendable Path. 
 word_by_word:
   1:
-    arabic: وَهُدُوۡۤا
+    arabic: وَهُدُوٓاْ
     translation: And they were guided
     transliteration: wahudū
   2:
-    arabic: اِلَى
+    arabic: إِلَى
     translation: to
     transliteration: ilā
   3:
-    arabic: الطَّيِّبِ
+    arabic: ٱلطَّيِّبِ
     translation: the good
     transliteration: l-ṭayibi
   4:
@@ -21,23 +21,23 @@ word_by_word:
     translation: of
     transliteration: mina
   5:
-    arabic: الۡقَوۡلِ​ ۖۚ
+    arabic: ٱلۡقَوۡلِ
     translation: the speech
     transliteration: l-qawli
   6:
-    arabic: وَهُدُوۡۤا
+    arabic: وَهُدُوٓاْ
     translation: and they were guided
     transliteration: wahudū
   7:
-    arabic: اِلٰى
+    arabic: إِلَىٰ
     translation: to
     transliteration: ilā
   8:
-    arabic: صِرَاطِ
+    arabic: صِرَٰطِ
     translation: (the) path
     transliteration: ṣirāṭi
   9:
-    arabic: "الۡحَمِيۡدِ‏ \uFEFF\uFEFF"
+    arabic: ٱلۡحَمِيدِ
     translation: (of) the Praiseworthy
     transliteration: l-ḥamīdi
 ---

@@ -1,11 +1,11 @@
 ---
-arabic_ayat: اَلَمۡ تَرَ اَنَّ اللّٰهَ اَنۡزَلَ مِنَ السَّمَآءِ مَآءً  فَتُصۡبِحُ
-  الۡاَرۡضُ مُخۡضَرَّة ً  ؕاِنَّ اللّٰهَ لَطِيۡفٌ خَبِيۡرٌ​ ۚ‏
+arabic_ayat: أَلَمۡ تَرَ أَنَّ ٱللَّهَ أَنزَلَ مِنَ ٱلسَّمَآءِ مَآءٗ فَتُصۡبِحُ
+  ٱلۡأَرۡضُ مُخۡضَرَّةًۚ إِنَّ ٱللَّهَ لَطِيفٌ خَبِيرٞ
 sentence_translation: Do you not see that Allah sends down rain from the sky, then
   the earth becomes green? Surely Allah is Most Subtle, All-Aware.
 word_by_word:
   1:
-    arabic: اَلَمۡ
+    arabic: أَلَمۡ
     translation: Do not
     transliteration: alam
   2:
@@ -13,15 +13,15 @@ word_by_word:
     translation: you see
     transliteration: tara
   3:
-    arabic: اَنَّ
+    arabic: أَنَّ
     translation: that
     transliteration: anna
   4:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   5:
-    arabic: اَنۡزَلَ
+    arabic: أَنزَلَ
     translation: sends down
     transliteration: anzala
   6:
@@ -29,11 +29,11 @@ word_by_word:
     translation: from
     transliteration: mina
   7:
-    arabic: السَّمَآءِ
+    arabic: ٱلسَّمَآءِ
     translation: the sky
     transliteration: l-samāi
   8:
-    arabic: مَآءً 
+    arabic: مَآءٗ
     translation: water
     transliteration: māan
   9:
@@ -41,27 +41,27 @@ word_by_word:
     translation: then becomes
     transliteration: fatuṣ'biḥu
   10:
-    arabic: الۡاَرۡضُ
+    arabic: ٱلۡأَرۡضُ
     translation: the earth
     transliteration: l-arḍu
   11:
-    arabic: مُخۡضَرَّة ً  ؕ
+    arabic: مُخۡضَرَّةًۚ
     translation: green
     transliteration: mukh'ḍarratan
   12:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   13:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   14:
-    arabic: لَطِيۡفٌ
+    arabic: لَطِيفٌ
     translation: (is) surely Subtle
     transliteration: laṭīfun
   15:
-    arabic: خَبِيۡرٌ​ ۚ‏
+    arabic: خَبِيرٞ
     translation: All-Aware
     transliteration: khabīrun
 ---

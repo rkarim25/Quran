@@ -1,15 +1,15 @@
 ---
-arabic_ayat: اِلَّا مَنۡ ظَلَمَ ثُمَّ بَدَّلَ حُسۡنًۢا بَعۡدَ سُوۡٓءٍ فَاِنِّىۡ غَفُوۡرٌ
-  رَّحِيۡمٌ‏
+arabic_ayat: إِلَّا مَن ظَلَمَ ثُمَّ بَدَّلَ حُسۡنَۢا بَعۡدَ سُوٓءٖ فَإِنِّي غَفُورٞ
+  رَّحِيمٞ
 sentence_translation: ˹Fear is˺ only for those who do wrong. But if they later mend
   ˹their˺ evil ˹ways˺ with good, then I am certainly All-Forgiving, Most Merciful.
 word_by_word:
   1:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: Except
     transliteration: illā
   2:
-    arabic: مَنۡ
+    arabic: مَن
     translation: who
     transliteration: man
   3:
@@ -25,7 +25,7 @@ word_by_word:
     translation: substitutes
     transliteration: baddala
   6:
-    arabic: حُسۡنًۢا
+    arabic: حُسۡنَۢا
     translation: good
     transliteration: ḥus'nan
   7:
@@ -33,19 +33,19 @@ word_by_word:
     translation: after
     transliteration: baʿda
   8:
-    arabic: سُوۡٓءٍ
+    arabic: سُوٓءٖ
     translation: evil
     transliteration: sūin
   9:
-    arabic: فَاِنِّىۡ
+    arabic: فَإِنِّي
     translation: then indeed, I Am
     transliteration: fa-innī
   10:
-    arabic: غَفُوۡرٌ
+    arabic: غَفُورٞ
     translation: Oft-Forgiving
     transliteration: ghafūrun
   11:
-    arabic: رَّحِيۡمٌ‏
+    arabic: رَّحِيمٞ
     translation: Most Merciful
     transliteration: raḥīmun
 ---

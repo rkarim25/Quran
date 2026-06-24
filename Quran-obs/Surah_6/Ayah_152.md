@@ -1,9 +1,8 @@
 ---
-arabic_ayat: وَلَا تَقۡرَبُوۡا مَالَ الۡيَتِيۡمِ اِلَّا بِالَّتِىۡ هِىَ اَحۡسَنُ حَتّٰى
-  يَبۡلُغَ اَشُدَّهٗ​ ۚ وَاَوۡفُوۡا الۡكَيۡلَ وَالۡمِيۡزَانَ بِالۡقِسۡطِ​ ۚ لَا نُـكَلِّفُ
-  نَفۡسًا اِلَّا وُسۡعَهَا​ ۚ وَاِذَا قُلۡتُمۡ فَاعۡدِلُوۡا وَلَوۡ كَانَ ذَا قُرۡبٰى​​
-  ۚ وَبِعَهۡدِ اللّٰهِ اَوۡفُوۡا​ ؕ ذٰ لِكُمۡ وَصّٰٮكُمۡ بِهٖ لَعَلَّكُمۡ تَذَكَّرُوۡنَ
-  ۙ‏
+arabic_ayat: وَلَا تَقۡرَبُواْ مَالَ ٱلۡيَتِيمِ إِلَّا بِٱلَّتِي هِيَ أَحۡسَنُ حَتَّىٰ
+  يَبۡلُغَ أَشُدَّهُۥۚ وَأَوۡفُواْ ٱلۡكَيۡلَ وَٱلۡمِيزَانَ بِٱلۡقِسۡطِۖ لَا نُكَلِّفُ
+  نَفۡسًا إِلَّا وُسۡعَهَاۖ وَإِذَا قُلۡتُمۡ فَٱعۡدِلُواْ وَلَوۡ كَانَ ذَا قُرۡبَىٰۖ
+  وَبِعَهۡدِ ٱللَّهِ أَوۡفُواْۚ ذَٰلِكُمۡ وَصَّىٰكُم بِهِۦ لَعَلَّكُمۡ تَذَكَّرُونَ
 sentence_translation: And do not come near the wealth of the orphan—unless intending
   to enhance it—until they attain maturity. Give full measure and weigh with justice.
   We never require of any soul more than what it can afford. Whenever you speak, maintain
@@ -15,7 +14,7 @@ word_by_word:
     translation: And (do) not
     transliteration: walā
   2:
-    arabic: تَقۡرَبُوۡا
+    arabic: تَقۡرَبُواْ
     translation: go near
     transliteration: taqrabū
   3:
@@ -23,27 +22,27 @@ word_by_word:
     translation: wealth
     transliteration: māla
   4:
-    arabic: الۡيَتِيۡمِ
+    arabic: ٱلۡيَتِيمِ
     translation: (of) the orphans
     transliteration: l-yatīmi
   5:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   6:
-    arabic: بِالَّتِىۡ
+    arabic: بِٱلَّتِي
     translation: with that
     transliteration: bi-allatī
   7:
-    arabic: هِىَ
+    arabic: هِيَ
     translation: which
     transliteration: hiya
   8:
-    arabic: اَحۡسَنُ
+    arabic: أَحۡسَنُ
     translation: (is) best
     transliteration: aḥsanu
   9:
-    arabic: حَتّٰى
+    arabic: حَتَّىٰ
     translation: until
     transliteration: ḥattā
   10:
@@ -51,23 +50,23 @@ word_by_word:
     translation: he reaches
     transliteration: yablugha
   11:
-    arabic: اَشُدَّهٗ​ ۚ
+    arabic: أَشُدَّهُۥۚ
     translation: his maturity
     transliteration: ashuddahu
   12:
-    arabic: وَاَوۡفُوۡا
+    arabic: وَأَوۡفُواْ
     translation: And give full
     transliteration: wa-awfū
   13:
-    arabic: الۡكَيۡلَ
+    arabic: ٱلۡكَيۡلَ
     translation: '[the] measure'
     transliteration: l-kayla
   14:
-    arabic: وَالۡمِيۡزَانَ
+    arabic: وَٱلۡمِيزَانَ
     translation: and the weight
     transliteration: wal-mīzāna
   15:
-    arabic: بِالۡقِسۡطِ​ ۚ
+    arabic: بِٱلۡقِسۡطِۖ
     translation: with justice
     transliteration: bil-qis'ṭi
   16:
@@ -75,7 +74,7 @@ word_by_word:
     translation: Not
     transliteration: lā
   17:
-    arabic: نُـكَلِّفُ
+    arabic: نُكَلِّفُ
     translation: We burden
     transliteration: nukallifu
   18:
@@ -83,15 +82,15 @@ word_by_word:
     translation: any soul
     transliteration: nafsan
   19:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   20:
-    arabic: وُسۡعَهَا​ ۚ
+    arabic: وُسۡعَهَاۖ
     translation: (to) its capacity
     transliteration: wus'ʿahā
   21:
-    arabic: وَاِذَا
+    arabic: وَإِذَا
     translation: And when
     transliteration: wa-idhā
   22:
@@ -99,7 +98,7 @@ word_by_word:
     translation: you speak
     transliteration: qul'tum
   23:
-    arabic: فَاعۡدِلُوۡا
+    arabic: فَٱعۡدِلُواْ
     translation: then be just
     transliteration: fa-iʿ'dilū
   24:
@@ -115,7 +114,7 @@ word_by_word:
     translation: (one of)
     transliteration: dhā
   27:
-    arabic: قُرۡبٰى​​ ۚ
+    arabic: قُرۡبَىٰۖ
     translation: a near relative
     transliteration: qur'bā
   28:
@@ -123,23 +122,23 @@ word_by_word:
     translation: And (the) Covenant
     transliteration: wabiʿahdi
   29:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (of) Allah
     transliteration: l-lahi
   30:
-    arabic: اَوۡفُوۡا​ ؕ
+    arabic: أَوۡفُواْۚ
     translation: fulfil
     transliteration: awfū
   31:
-    arabic: ذٰ لِكُمۡ
+    arabic: ذَٰلِكُمۡ
     translation: That
     transliteration: dhālikum
   32:
-    arabic: وَصّٰٮكُمۡ
+    arabic: وَصَّىٰكُم
     translation: (He) has enjoined on you
     transliteration: waṣṣākum
   33:
-    arabic: بِهٖ
+    arabic: بِهِۦ
     translation: with it
     transliteration: bihi
   34:
@@ -147,7 +146,7 @@ word_by_word:
     translation: so that you may
     transliteration: laʿallakum
   35:
-    arabic: تَذَكَّرُوۡنَ ۙ‏
+    arabic: تَذَكَّرُونَ
     translation: remember
     transliteration: tadhakkarūna
 ---

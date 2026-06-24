@@ -1,10 +1,9 @@
 ---
-arabic_ayat: "اِنَّهٗ يَعۡلَمُ الۡجَـهۡرَ مِنَ الۡقَوۡلِ وَيَعۡلَمُ مَا تَكۡتُمُوۡنَ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: إِنَّهُۥ يَعۡلَمُ ٱلۡجَهۡرَ مِنَ ٱلۡقَوۡلِ وَيَعۡلَمُ مَا تَكۡتُمُونَ
 sentence_translation: Allah surely knows what you say openly and whatever you hide.
 word_by_word:
   1:
-    arabic: اِنَّهٗ
+    arabic: إِنَّهُۥ
     translation: Indeed, He
     transliteration: innahu
   2:
@@ -12,7 +11,7 @@ word_by_word:
     translation: knows
     transliteration: yaʿlamu
   3:
-    arabic: الۡجَـهۡرَ
+    arabic: ٱلۡجَهۡرَ
     translation: the declared
     transliteration: l-jahra
   4:
@@ -20,7 +19,7 @@ word_by_word:
     translation: '[of]'
     transliteration: mina
   5:
-    arabic: الۡقَوۡلِ
+    arabic: ٱلۡقَوۡلِ
     translation: '[the] speech'
     transliteration: l-qawli
   6:
@@ -32,7 +31,7 @@ word_by_word:
     translation: what
     transliteration: mā
   8:
-    arabic: "تَكۡتُمُوۡنَ‏ \uFEFF\uFEFF"
+    arabic: تَكۡتُمُونَ
     translation: you conceal
     transliteration: taktumūna
 ---

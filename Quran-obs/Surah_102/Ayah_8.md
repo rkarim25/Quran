@@ -1,5 +1,5 @@
 ---
-arabic_ayat: ثُمَّ لَـتُسۡـَٔـلُنَّ يَوۡمَٮِٕذٍ عَنِ النَّعِيۡمِ‏
+arabic_ayat: ثُمَّ لَتُسۡـَٔلُنَّ يَوۡمَئِذٍ عَنِ ٱلنَّعِيمِ
 sentence_translation: Then, on that Day, you will definitely be questioned about ˹your
   worldly˺ pleasures.
 word_by_word:
@@ -8,11 +8,11 @@ word_by_word:
     translation: Then
     transliteration: thumma
   2:
-    arabic: لَـتُسۡـَٔـلُنَّ
+    arabic: لَتُسۡـَٔلُنَّ
     translation: surely you will be asked
     transliteration: latus'alunna
   3:
-    arabic: يَوۡمَٮِٕذٍ
+    arabic: يَوۡمَئِذٍ
     translation: that Day
     transliteration: yawma-idhin
   4:
@@ -20,7 +20,7 @@ word_by_word:
     translation: about
     transliteration: ʿani
   5:
-    arabic: النَّعِيۡمِ‏
+    arabic: ٱلنَّعِيمِ
     translation: the pleasures
     transliteration: l-naʿīmi
 ---

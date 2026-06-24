@@ -1,39 +1,39 @@
 ---
-arabic_ayat: قَالُوۡا رَبَّنَاۤ اَمَتَّنَا اثۡنَتَيۡنِ وَاَحۡيَيۡتَنَا اثۡنَتَيۡنِ
-  فَاعۡتَرَفۡنَا بِذُنُوۡبِنَا فَهَلۡ اِلٰى خُرُوۡجٍ مِّنۡ سَبِيۡلٍ‏
+arabic_ayat: قَالُواْ رَبَّنَآ أَمَتَّنَا ٱثۡنَتَيۡنِ وَأَحۡيَيۡتَنَا ٱثۡنَتَيۡنِ
+  فَٱعۡتَرَفۡنَا بِذُنُوبِنَا فَهَلۡ إِلَىٰ خُرُوجٖ مِّن سَبِيلٖ
 sentence_translation: They will plead, “Our Lord! You made us lifeless twice, and
   gave us life twice. Now we confess our sins. So is there any way out?”
 word_by_word:
   1:
-    arabic: قَالُوۡا
+    arabic: قَالُواْ
     translation: They (will) say
     transliteration: qālū
   2:
-    arabic: رَبَّنَاۤ
+    arabic: رَبَّنَآ
     translation: Our Lord
     transliteration: rabbanā
   3:
-    arabic: اَمَتَّنَا
+    arabic: أَمَتَّنَا
     translation: You gave us death
     transliteration: amattanā
   4:
-    arabic: اثۡنَتَيۡنِ
+    arabic: ٱثۡنَتَيۡنِ
     translation: twice
     transliteration: ith'natayni
   5:
-    arabic: وَاَحۡيَيۡتَنَا
+    arabic: وَأَحۡيَيۡتَنَا
     translation: and You gave us life
     transliteration: wa-aḥyaytanā
   6:
-    arabic: اثۡنَتَيۡنِ
+    arabic: ٱثۡنَتَيۡنِ
     translation: twice
     transliteration: ith'natayni
   7:
-    arabic: فَاعۡتَرَفۡنَا
+    arabic: فَٱعۡتَرَفۡنَا
     translation: and we confess
     transliteration: fa-iʿ'tarafnā
   8:
-    arabic: بِذُنُوۡبِنَا
+    arabic: بِذُنُوبِنَا
     translation: our sins
     transliteration: bidhunūbinā
   9:
@@ -41,19 +41,19 @@ word_by_word:
     translation: So is (there)
     transliteration: fahal
   10:
-    arabic: اِلٰى
+    arabic: إِلَىٰ
     translation: to
     transliteration: ilā
   11:
-    arabic: خُرُوۡجٍ
+    arabic: خُرُوجٖ
     translation: get out
     transliteration: khurūjin
   12:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: any
     transliteration: min
   13:
-    arabic: سَبِيۡلٍ‏
+    arabic: سَبِيلٖ
     translation: way
     transliteration: sabīlin
 ---

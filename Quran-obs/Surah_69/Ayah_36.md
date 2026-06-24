@@ -1,9 +1,9 @@
 ---
-arabic_ayat: وَّلَا طَعَامٌ اِلَّا مِنۡ غِسۡلِيۡنٍۙ‏
+arabic_ayat: وَلَا طَعَامٌ إِلَّا مِنۡ غِسۡلِينٖ
 sentence_translation: nor any food except ˹oozing˺ pus,
 word_by_word:
   1:
-    arabic: وَّلَا
+    arabic: وَلَا
     translation: And not
     transliteration: walā
   2:
@@ -11,7 +11,7 @@ word_by_word:
     translation: any food
     transliteration: ṭaʿāmun
   3:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   4:
@@ -19,7 +19,7 @@ word_by_word:
     translation: from
     transliteration: min
   5:
-    arabic: غِسۡلِيۡنٍۙ‏
+    arabic: غِسۡلِينٖ
     translation: (the) discharge of wounds
     transliteration: ghis'līnin
 ---

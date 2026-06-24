@@ -1,14 +1,14 @@
 ---
-arabic_ayat: وَالَّذِىۡ يُمِيۡتُنِىۡ ثُمَّ يُحۡيِيۡنِۙ‏
+arabic_ayat: وَٱلَّذِي يُمِيتُنِي ثُمَّ يُحۡيِينِ
 sentence_translation: And He ˹is the One Who˺ will cause me to die, and then bring
   me back to life.
 word_by_word:
   1:
-    arabic: وَالَّذِىۡ
+    arabic: وَٱلَّذِي
     translation: And the One Who
     transliteration: wa-alladhī
   2:
-    arabic: يُمِيۡتُنِىۡ
+    arabic: يُمِيتُنِي
     translation: will cause me to die
     transliteration: yumītunī
   3:
@@ -16,7 +16,7 @@ word_by_word:
     translation: then
     transliteration: thumma
   4:
-    arabic: يُحۡيِيۡنِۙ‏
+    arabic: يُحۡيِينِ
     translation: he will give me life
     transliteration: yuḥ'yīni
 ---

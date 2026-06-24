@@ -1,23 +1,23 @@
 ---
-arabic_ayat: اَمۡ يَـقُوۡلُوۡنَ بِهٖ جِنَّةٌ  ؕ بَلۡ جَآءَهُمۡ بِالۡحَـقِّ وَاَكۡثَرُهُمۡ
-  لِلۡحَقِّ كٰرِهُوۡنَ‏
+arabic_ayat: أَمۡ يَقُولُونَ بِهِۦ جِنَّةُۢۚ بَلۡ جَآءَهُم بِٱلۡحَقِّ وَأَكۡثَرُهُمۡ
+  لِلۡحَقِّ كَٰرِهُونَ
 sentence_translation: Or ˹because˺ they say, “He is insane?” In fact, he has come
   to them with the truth, but most of them are resentful of the truth.
 word_by_word:
   1:
-    arabic: اَمۡ
+    arabic: أَمۡ
     translation: Or
     transliteration: am
   2:
-    arabic: يَـقُوۡلُوۡنَ
+    arabic: يَقُولُونَ
     translation: they say
     transliteration: yaqūlūna
   3:
-    arabic: بِهٖ
+    arabic: بِهِۦ
     translation: In him
     transliteration: bihi
   4:
-    arabic: جِنَّةٌ  ؕ
+    arabic: جِنَّةُۢۚ
     translation: (is) madness
     transliteration: jinnatun
   5:
@@ -25,15 +25,15 @@ word_by_word:
     translation: Nay
     transliteration: bal
   6:
-    arabic: جَآءَهُمۡ
+    arabic: جَآءَهُم
     translation: he brought them
     transliteration: jāahum
   7:
-    arabic: بِالۡحَـقِّ
+    arabic: بِٱلۡحَقِّ
     translation: the truth
     transliteration: bil-ḥaqi
   8:
-    arabic: وَاَكۡثَرُهُمۡ
+    arabic: وَأَكۡثَرُهُمۡ
     translation: but most of them
     transliteration: wa-aktharuhum
   9:
@@ -41,7 +41,7 @@ word_by_word:
     translation: to the truth
     transliteration: lil'ḥaqqi
   10:
-    arabic: كٰرِهُوۡنَ‏
+    arabic: كَٰرِهُونَ
     translation: (are) averse
     transliteration: kārihūna
 ---

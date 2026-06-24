@@ -1,5 +1,5 @@
 ---
-arabic_ayat: وَلَا الظِّلُّ وَلَا الۡحَـرُوۡرُۚ‏
+arabic_ayat: وَلَا ٱلظِّلُّ وَلَا ٱلۡحَرُورُ
 sentence_translation: nor the ˹scorching˺ heat and the ˹cool˺ shade.
 word_by_word:
   1:
@@ -7,7 +7,7 @@ word_by_word:
     translation: And not
     transliteration: walā
   2:
-    arabic: الظِّلُّ
+    arabic: ٱلظِّلُّ
     translation: the shade
     transliteration: l-ẓilu
   3:
@@ -15,7 +15,7 @@ word_by_word:
     translation: and not
     transliteration: walā
   4:
-    arabic: الۡحَـرُوۡرُۚ‏
+    arabic: ٱلۡحَرُورُ
     translation: the heat
     transliteration: l-ḥarūru
 ---

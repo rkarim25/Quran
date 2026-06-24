@@ -1,13 +1,13 @@
 ---
-arabic_ayat: وَاُمِّهٖ وَاَبِيۡهِۙ‏
+arabic_ayat: وَأُمِّهِۦ وَأَبِيهِ
 sentence_translation: and ˹even˺ their mother and father,
 word_by_word:
   1:
-    arabic: وَاُمِّهٖ
+    arabic: وَأُمِّهِۦ
     translation: And his mother
     transliteration: wa-ummihi
   2:
-    arabic: وَاَبِيۡهِۙ‏
+    arabic: وَأَبِيهِ
     translation: and his father
     transliteration: wa-abīhi
 ---

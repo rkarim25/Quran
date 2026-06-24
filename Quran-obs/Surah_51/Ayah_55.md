@@ -1,26 +1,26 @@
 ---
-arabic_ayat: وَّذَكِّرۡ فَاِنَّ الذِّكۡرٰى تَنۡفَعُ الۡمُؤۡمِنِيۡنَ‏
+arabic_ayat: وَذَكِّرۡ فَإِنَّ ٱلذِّكۡرَىٰ تَنفَعُ ٱلۡمُؤۡمِنِينَ
 sentence_translation: But ˹continue to˺ remind. For certainly reminders benefit the
   believers.
 word_by_word:
   1:
-    arabic: وَّذَكِّرۡ
+    arabic: وَذَكِّرۡ
     translation: And remind
     transliteration: wadhakkir
   2:
-    arabic: فَاِنَّ
+    arabic: فَإِنَّ
     translation: for indeed
     transliteration: fa-inna
   3:
-    arabic: الذِّكۡرٰى
+    arabic: ٱلذِّكۡرَىٰ
     translation: the reminder
     transliteration: l-dhik'rā
   4:
-    arabic: تَنۡفَعُ
+    arabic: تَنفَعُ
     translation: benefits
     transliteration: tanfaʿu
   5:
-    arabic: الۡمُؤۡمِنِيۡنَ‏
+    arabic: ٱلۡمُؤۡمِنِينَ
     translation: the believers
     transliteration: l-mu'minīna
 ---

@@ -1,13 +1,13 @@
 ---
-arabic_ayat: وَقَالُوۡا مَا هِىَ اِلَّا حَيَاتُنَا الدُّنۡيَا نَمُوۡتُ وَنَحۡيَا وَمَا
-  يُهۡلِكُنَاۤ اِلَّا الدَّهۡرُ​ؕ وَمَا لَهُمۡ بِذٰلِكَ مِنۡ عِلۡمٍ​ ۚ اِنۡ هُمۡ اِلَّا
-  يَظُنُّوۡنَ‏
+arabic_ayat: وَقَالُواْ مَا هِيَ إِلَّا حَيَاتُنَا ٱلدُّنۡيَا نَمُوتُ وَنَحۡيَا وَمَا
+  يُهۡلِكُنَآ إِلَّا ٱلدَّهۡرُۚ وَمَا لَهُم بِذَٰلِكَ مِنۡ عِلۡمٍۖ إِنۡ هُمۡ إِلَّا
+  يَظُنُّونَ
 sentence_translation: And they argue, “There is nothing beyond our worldly life. We
   die; others are born. And nothing destroys us but ˹the passage of˺ time.” Yet they
   have no knowledge ˹in support˺ of this ˹claim˺. They only speculate.
 word_by_word:
   1:
-    arabic: وَقَالُوۡا
+    arabic: وَقَالُواْ
     translation: And they say
     transliteration: waqālū
   2:
@@ -15,11 +15,11 @@ word_by_word:
     translation: Not
     transliteration: mā
   3:
-    arabic: هِىَ
+    arabic: هِيَ
     translation: it
     transliteration: hiya
   4:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: (is) but
     transliteration: illā
   5:
@@ -27,11 +27,11 @@ word_by_word:
     translation: our life
     transliteration: ḥayātunā
   6:
-    arabic: الدُّنۡيَا
+    arabic: ٱلدُّنۡيَا
     translation: (of) the world
     transliteration: l-dun'yā
   7:
-    arabic: نَمُوۡتُ
+    arabic: نَمُوتُ
     translation: we die
     transliteration: namūtu
   8:
@@ -43,15 +43,15 @@ word_by_word:
     translation: and not
     transliteration: wamā
   10:
-    arabic: يُهۡلِكُنَاۤ
+    arabic: يُهۡلِكُنَآ
     translation: destroys us
     transliteration: yuh'likunā
   11:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   12:
-    arabic: الدَّهۡرُ​ؕ
+    arabic: ٱلدَّهۡرُۚ
     translation: the time
     transliteration: l-dahru
   13:
@@ -59,11 +59,11 @@ word_by_word:
     translation: And not
     transliteration: wamā
   14:
-    arabic: لَهُمۡ
+    arabic: لَهُم
     translation: for them
     transliteration: lahum
   15:
-    arabic: بِذٰلِكَ
+    arabic: بِذَٰلِكَ
     translation: of that
     transliteration: bidhālika
   16:
@@ -71,11 +71,11 @@ word_by_word:
     translation: any
     transliteration: min
   17:
-    arabic: عِلۡمٍ​ ۚ
+    arabic: عِلۡمٍۖ
     translation: knowledge
     transliteration: ʿil'min
   18:
-    arabic: اِنۡ
+    arabic: إِنۡ
     translation: not
     transliteration: in
   19:
@@ -83,11 +83,11 @@ word_by_word:
     translation: they
     transliteration: hum
   20:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: (do) but
     transliteration: illā
   21:
-    arabic: يَظُنُّوۡنَ‏
+    arabic: يَظُنُّونَ
     translation: guess
     transliteration: yaẓunnūna
 ---

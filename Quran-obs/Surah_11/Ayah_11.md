@@ -1,47 +1,47 @@
 ---
-arabic_ayat: اِلَّا الَّذِيۡنَ صَبَرُوۡا وَعَمِلُوا الصّٰلِحٰتِؕ اُولٰٓٮِٕكَ لَهُمۡ
-  مَّغۡفِرَةٌ وَّاَجۡرٌ كَبِيۡرٌ‏
+arabic_ayat: إِلَّا ٱلَّذِينَ صَبَرُواْ وَعَمِلُواْ ٱلصَّٰلِحَٰتِ أُوْلَٰٓئِكَ لَهُم
+  مَّغۡفِرَةٞ وَأَجۡرٞ كَبِيرٞ
 sentence_translation: except those who patiently endure and do good. It is they who
   will have forgiveness and a mighty reward.
 word_by_word:
   1:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: Except
     transliteration: illā
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   3:
-    arabic: صَبَرُوۡا
+    arabic: صَبَرُواْ
     translation: (are) patient
     transliteration: ṣabarū
   4:
-    arabic: وَعَمِلُوا
+    arabic: وَعَمِلُواْ
     translation: and do
     transliteration: waʿamilū
   5:
-    arabic: الصّٰلِحٰتِؕ
+    arabic: ٱلصَّٰلِحَٰتِ
     translation: the good deeds
     transliteration: l-ṣāliḥāti
   6:
-    arabic: اُولٰٓٮِٕكَ
+    arabic: أُوْلَٰٓئِكَ
     translation: those
     transliteration: ulāika
   7:
-    arabic: لَهُمۡ
+    arabic: لَهُم
     translation: for them
     transliteration: lahum
   8:
-    arabic: مَّغۡفِرَةٌ
+    arabic: مَّغۡفِرَةٞ
     translation: (will be) forgiveness
     transliteration: maghfiratun
   9:
-    arabic: وَّاَجۡرٌ
+    arabic: وَأَجۡرٞ
     translation: and a reward
     transliteration: wa-ajrun
   10:
-    arabic: كَبِيۡرٌ‏
+    arabic: كَبِيرٞ
     translation: great
     transliteration: kabīrun
 ---

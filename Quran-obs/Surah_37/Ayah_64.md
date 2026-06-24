@@ -1,13 +1,13 @@
 ---
-arabic_ayat: اِنَّهَا شَجَرَةٌ تَخۡرُجُ فِىۡۤ اَصۡلِ الۡجَحِيۡمِۙ‏
+arabic_ayat: إِنَّهَا شَجَرَةٞ تَخۡرُجُ فِيٓ أَصۡلِ ٱلۡجَحِيمِ
 sentence_translation: Indeed, it is a tree that grows in the depths of Hell,
 word_by_word:
   1:
-    arabic: اِنَّهَا
+    arabic: إِنَّهَا
     translation: Indeed, it
     transliteration: innahā
   2:
-    arabic: شَجَرَةٌ
+    arabic: شَجَرَةٞ
     translation: (is) a tree
     transliteration: shajaratun
   3:
@@ -15,15 +15,15 @@ word_by_word:
     translation: that grows
     transliteration: takhruju
   4:
-    arabic: فِىۡۤ
+    arabic: فِيٓ
     translation: in
     transliteration: fī
   5:
-    arabic: اَصۡلِ
+    arabic: أَصۡلِ
     translation: (the) bottom
     transliteration: aṣli
   6:
-    arabic: الۡجَحِيۡمِۙ‏
+    arabic: ٱلۡجَحِيمِ
     translation: (of) the Hellfire
     transliteration: l-jaḥīmi
 ---

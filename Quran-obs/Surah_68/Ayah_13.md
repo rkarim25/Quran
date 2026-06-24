@@ -1,9 +1,9 @@
 ---
-arabic_ayat: عُتُلٍّ ۢ بَعۡدَ ذٰلِكَ زَنِيۡمٍۙ‏
+arabic_ayat: عُتُلِّۭ بَعۡدَ ذَٰلِكَ زَنِيمٍ
 sentence_translation: brute, and—on top of all that—an illegitimate child.
 word_by_word:
   1:
-    arabic: عُتُلٍّ ۢ
+    arabic: عُتُلِّۭ
     translation: Cruel
     transliteration: ʿutullin
   2:
@@ -11,11 +11,11 @@ word_by_word:
     translation: after
     transliteration: baʿda
   3:
-    arabic: ذٰلِكَ
+    arabic: ذَٰلِكَ
     translation: (all) that
     transliteration: dhālika
   4:
-    arabic: زَنِيۡمٍۙ‏
+    arabic: زَنِيمٍ
     translation: utterly useless
     transliteration: zanīmin
 ---

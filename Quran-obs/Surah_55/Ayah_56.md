@@ -1,19 +1,19 @@
 ---
-arabic_ayat: "فِيۡهِنَّ قٰصِرٰتُ الطَّرۡفِۙ لَمۡ يَطۡمِثۡهُنَّ اِنۡسٌ قَبۡلَهُمۡ وَلَا\
-  \ جَآنٌّ​ۚ‏ \uFEFF\uFEFF"
+arabic_ayat: فِيهِنَّ قَٰصِرَٰتُ ٱلطَّرۡفِ لَمۡ يَطۡمِثۡهُنَّ إِنسٞ قَبۡلَهُمۡ وَلَا
+  جَآنّٞ
 sentence_translation: In both ˹Gardens˺ will be maidens of modest gaze, who no human
   or jinn has ever touched before.
 word_by_word:
   1:
-    arabic: فِيۡهِنَّ
+    arabic: فِيهِنَّ
     translation: In them
     transliteration: fīhinna
   2:
-    arabic: قٰصِرٰتُ
+    arabic: قَٰصِرَٰتُ
     translation: (will be) companions of modest gaze
     transliteration: qāṣirātu
   3:
-    arabic: الطَّرۡفِۙ
+    arabic: ٱلطَّرۡفِ
     translation: (will be) companions of modest gaze
     transliteration: l-ṭarfi
   4:
@@ -25,7 +25,7 @@ word_by_word:
     translation: has touched them
     transliteration: yaṭmith'hunna
   6:
-    arabic: اِنۡسٌ
+    arabic: إِنسٞ
     translation: any man
     transliteration: insun
   7:
@@ -37,7 +37,7 @@ word_by_word:
     translation: and not
     transliteration: walā
   9:
-    arabic: "جَآنٌّ​ۚ‏ \uFEFF\uFEFF"
+    arabic: جَآنّٞ
     translation: any jinn
     transliteration: jānnun
 ---

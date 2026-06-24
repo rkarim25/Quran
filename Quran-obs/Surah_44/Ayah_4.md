@@ -1,9 +1,9 @@
 ---
-arabic_ayat: فِيۡهَا يُفۡرَقُ كُلُّ اَمۡرٍ حَكِيۡمٍۙ‏
+arabic_ayat: فِيهَا يُفۡرَقُ كُلُّ أَمۡرٍ حَكِيمٍ
 sentence_translation: On that night every matter of wisdom is ordained
 word_by_word:
   1:
-    arabic: فِيۡهَا
+    arabic: فِيهَا
     translation: Therein
     transliteration: fīhā
   2:
@@ -15,11 +15,11 @@ word_by_word:
     translation: every
     transliteration: kullu
   4:
-    arabic: اَمۡرٍ
+    arabic: أَمۡرٍ
     translation: affair
     transliteration: amrin
   5:
-    arabic: حَكِيۡمٍۙ‏
+    arabic: حَكِيمٍ
     translation: wise
     transliteration: ḥakīmin
 ---

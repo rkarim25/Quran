@@ -1,17 +1,17 @@
 ---
-arabic_ayat: اِذۡ نَادٰى رَبَّهٗ نِدَآءً خَفِيًّا‏
+arabic_ayat: إِذۡ نَادَىٰ رَبَّهُۥ نِدَآءً خَفِيّٗا
 sentence_translation: when he cried out to his Lord privately,
 word_by_word:
   1:
-    arabic: اِذۡ
+    arabic: إِذۡ
     translation: When
     transliteration: idh
   2:
-    arabic: نَادٰى
+    arabic: نَادَىٰ
     translation: he called
     transliteration: nādā
   3:
-    arabic: رَبَّهٗ
+    arabic: رَبَّهُۥ
     translation: (to) his Lord
     transliteration: rabbahu
   4:
@@ -19,7 +19,7 @@ word_by_word:
     translation: 'a call '
     transliteration: nidāan
   5:
-    arabic: خَفِيًّا‏
+    arabic: خَفِيّٗا
     translation: secret
     transliteration: khafiyyan
 ---

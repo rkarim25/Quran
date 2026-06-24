@@ -1,11 +1,11 @@
 ---
-arabic_ayat: وَاَنۡذِرۡهُمۡ يَوۡمَ الۡحَسۡرَةِ اِذۡ قُضِىَ الۡاَمۡرُ​​ۘ وَهُمۡ فِىۡ
-  غَفۡلَةٍ وَّهُمۡ لَا يُؤۡمِنُوۡنَ‏
+arabic_ayat: وَأَنذِرۡهُمۡ يَوۡمَ ٱلۡحَسۡرَةِ إِذۡ قُضِيَ ٱلۡأَمۡرُ وَهُمۡ فِي غَفۡلَةٖ
+  وَهُمۡ لَا يُؤۡمِنُونَ
 sentence_translation: And warn them ˹O Prophet˺ of the Day of Regret, when all matters
   will be settled, while they are ˹engrossed˺ in heedlessness and disbelief.
 word_by_word:
   1:
-    arabic: وَاَنۡذِرۡهُمۡ
+    arabic: وَأَنذِرۡهُمۡ
     translation: And warn them
     transliteration: wa-andhir'hum
   2:
@@ -13,19 +13,19 @@ word_by_word:
     translation: (of the) Day
     transliteration: yawma
   3:
-    arabic: الۡحَسۡرَةِ
+    arabic: ٱلۡحَسۡرَةِ
     translation: (of) the Regret
     transliteration: l-ḥasrati
   4:
-    arabic: اِذۡ
+    arabic: إِذۡ
     translation: when
     transliteration: idh
   5:
-    arabic: قُضِىَ
+    arabic: قُضِيَ
     translation: has been decided
     transliteration: quḍiya
   6:
-    arabic: الۡاَمۡرُ​​ۘ
+    arabic: ٱلۡأَمۡرُ
     translation: the matter
     transliteration: l-amru
   7:
@@ -33,15 +33,15 @@ word_by_word:
     translation: And they
     transliteration: wahum
   8:
-    arabic: فِىۡ
+    arabic: فِي
     translation: (are) in
     transliteration: fī
   9:
-    arabic: غَفۡلَةٍ
+    arabic: غَفۡلَةٖ
     translation: heedlessness
     transliteration: ghaflatin
   10:
-    arabic: وَّهُمۡ
+    arabic: وَهُمۡ
     translation: and they
     transliteration: wahum
   11:
@@ -49,7 +49,7 @@ word_by_word:
     translation: (do) not
     transliteration: lā
   12:
-    arabic: يُؤۡمِنُوۡنَ‏
+    arabic: يُؤۡمِنُونَ
     translation: believe
     transliteration: yu'minūna
 ---

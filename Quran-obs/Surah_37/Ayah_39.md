@@ -1,5 +1,5 @@
 ---
-arabic_ayat: وَمَا تُجۡزَوۡنَ اِلَّا مَا كُنۡتُمۡ تَعۡمَلُوۡنَۙ‏
+arabic_ayat: وَمَا تُجۡزَوۡنَ إِلَّا مَا كُنتُمۡ تَعۡمَلُونَ
 sentence_translation: and will only be rewarded for what you used to do.
 word_by_word:
   1:
@@ -11,7 +11,7 @@ word_by_word:
     translation: you will be recompensed
     transliteration: tuj'zawna
   3:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   4:
@@ -19,11 +19,11 @@ word_by_word:
     translation: what
     transliteration: mā
   5:
-    arabic: كُنۡتُمۡ
+    arabic: كُنتُمۡ
     translation: you used to
     transliteration: kuntum
   6:
-    arabic: تَعۡمَلُوۡنَۙ‏
+    arabic: تَعۡمَلُونَ
     translation: do
     transliteration: taʿmalūna
 ---

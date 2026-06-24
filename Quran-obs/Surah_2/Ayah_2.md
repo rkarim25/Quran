@@ -1,14 +1,14 @@
 ---
-arabic_ayat: ذٰلِكَ الۡڪِتٰبُ لَا رَيۡبَۛۚۖ فِيۡهِۛۚ هُدًى لِّلۡمُتَّقِيۡنَۙ‏
+arabic_ayat: ذَٰلِكَ ٱلۡكِتَٰبُ لَا رَيۡبَۛ فِيهِۛ هُدٗى لِّلۡمُتَّقِينَ
 sentence_translation: This is the Book! There is no doubt about it—a guide for those
   mindful ˹of Allah˺,
 word_by_word:
   1:
-    arabic: ذٰلِكَ
+    arabic: ذَٰلِكَ
     translation: That
     transliteration: dhālika
   2:
-    arabic: الۡڪِتٰبُ
+    arabic: ٱلۡكِتَٰبُ
     translation: (is) the book
     transliteration: l-kitābu
   3:
@@ -16,19 +16,19 @@ word_by_word:
     translation: 'no'
     transliteration: lā
   4:
-    arabic: رَيۡبَۛۚۖ
+    arabic: رَيۡبَۛ
     translation: doubt
     transliteration: rayba
   5:
-    arabic: فِيۡهِۛۚ
+    arabic: فِيهِۛ
     translation: in it
     transliteration: fīhi
   6:
-    arabic: هُدًى
+    arabic: هُدٗى
     translation: a Guidance
     transliteration: hudan
   7:
-    arabic: لِّلۡمُتَّقِيۡنَۙ‏
+    arabic: لِّلۡمُتَّقِينَ
     translation: for the God-conscious
     transliteration: lil'muttaqīna
 ---

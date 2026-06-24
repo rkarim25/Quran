@@ -1,19 +1,19 @@
 ---
-arabic_ayat: وَّاَنَّ السَّاعَةَ اٰتِيَةٌ لَّا رَيۡبَ فِيۡهَا ۙ وَاَنَّ اللّٰهَ يَـبۡعَثُ
-  مَنۡ فِى الۡقُبُوۡرِ‏
+arabic_ayat: وَأَنَّ ٱلسَّاعَةَ ءَاتِيَةٞ لَّا رَيۡبَ فِيهَا وَأَنَّ ٱللَّهَ يَبۡعَثُ
+  مَن فِي ٱلۡقُبُورِ
 sentence_translation: And certainly the Hour is coming, there is no doubt about it.
   And Allah will surely resurrect those in the graves.
 word_by_word:
   1:
-    arabic: وَّاَنَّ
+    arabic: وَأَنَّ
     translation: And that
     transliteration: wa-anna
   2:
-    arabic: السَّاعَةَ
+    arabic: ٱلسَّاعَةَ ءَ
     translation: the Hour
     transliteration: l-sāʿata
   3:
-    arabic: اٰتِيَةٌ
+    arabic: اتِيَةٞ
     translation: will come
     transliteration: ātiyatun
   4:
@@ -25,31 +25,31 @@ word_by_word:
     translation: doubt
     transliteration: rayba
   6:
-    arabic: فِيۡهَا ۙ
+    arabic: فِيهَا
     translation: about it
     transliteration: fīhā
   7:
-    arabic: وَاَنَّ
+    arabic: وَأَنَّ
     translation: and that
     transliteration: wa-anna
   8:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   9:
-    arabic: يَـبۡعَثُ
+    arabic: يَبۡعَثُ
     translation: will resurrect
     transliteration: yabʿathu
   10:
-    arabic: مَنۡ
+    arabic: مَن
     translation: (those) who
     transliteration: man
   11:
-    arabic: فِى
+    arabic: فِي
     translation: (are) in
     transliteration: fī
   12:
-    arabic: الۡقُبُوۡرِ‏
+    arabic: ٱلۡقُبُورِ
     translation: the graves
     transliteration: l-qubūri
 ---

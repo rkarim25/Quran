@@ -1,26 +1,26 @@
 ---
-arabic_ayat: كُلُوۡا وَتَمَتَّعُوۡا قَلِيۡلًا اِنَّكُمۡ مُّجۡرِمُوۡنَ‏
+arabic_ayat: كُلُواْ وَتَمَتَّعُواْ قَلِيلًا إِنَّكُم مُّجۡرِمُونَ
 sentence_translation: “Eat and enjoy yourselves for a little while, ˹for˺ you are
   truly wicked.”
 word_by_word:
   1:
-    arabic: كُلُوۡا
+    arabic: كُلُواْ
     translation: Eat
     transliteration: kulū
   2:
-    arabic: وَتَمَتَّعُوۡا
+    arabic: وَتَمَتَّعُواْ
     translation: and enjoy yourselves
     transliteration: watamattaʿū
   3:
-    arabic: قَلِيۡلًا
+    arabic: قَلِيلًا
     translation: a little
     transliteration: qalīlan
   4:
-    arabic: اِنَّكُمۡ
+    arabic: إِنَّكُم
     translation: indeed, you
     transliteration: innakum
   5:
-    arabic: مُّجۡرِمُوۡنَ‏
+    arabic: مُّجۡرِمُونَ
     translation: (are) criminals
     transliteration: muj'rimūna
 ---

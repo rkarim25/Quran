@@ -1,23 +1,23 @@
 ---
-arabic_ayat: اِنَّ الَّذِيۡنَ يَشۡتَرُوۡنَ بِعَهۡدِ اللّٰهِ وَاَيۡمَانِهِمۡ ثَمَنًا
-  قَلِيۡلًا اُولٰٓٮِٕكَ لَا خَلَاقَ لَهُمۡ فِى الۡاٰخِرَةِ وَلَا يُكَلِّمُهُمُ اللّٰهُ
-  وَلَا يَنۡظُرُ اِلَيۡهِمۡ يَوۡمَ الۡقِيٰمَةِ وَلَا يُزَكِّيۡهِمۡ وَلَهُمۡ عَذَابٌ
-  اَ لِيۡمٌ‏
+arabic_ayat: إِنَّ ٱلَّذِينَ يَشۡتَرُونَ بِعَهۡدِ ٱللَّهِ وَأَيۡمَٰنِهِمۡ ثَمَنٗا
+  قَلِيلًا أُوْلَٰٓئِكَ لَا خَلَٰقَ لَهُمۡ فِي ٱلۡأٓخِرَةِ وَلَا يُكَلِّمُهُمُ ٱللَّهُ
+  وَلَا يَنظُرُ إِلَيۡهِمۡ يَوۡمَ ٱلۡقِيَٰمَةِ وَلَا يُزَكِّيهِمۡ وَلَهُمۡ عَذَابٌ
+  أَلِيمٞ
 sentence_translation: Indeed, those who trade Allah’s covenant and their oaths for
   a fleeting gain will have no share in the Hereafter. Allah will neither speak to
   them, nor look at them, nor purify them on the Day of Judgment. And they will suffer
   a painful punishment.
 word_by_word:
   1:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   3:
-    arabic: يَشۡتَرُوۡنَ
+    arabic: يَشۡتَرُونَ
     translation: exchange
     transliteration: yashtarūna
   4:
@@ -25,23 +25,23 @@ word_by_word:
     translation: (the) Covenant
     transliteration: biʿahdi
   5:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (of) Allah
     transliteration: l-lahi
   6:
-    arabic: وَاَيۡمَانِهِمۡ
+    arabic: وَأَيۡمَٰنِهِمۡ
     translation: and their oaths
     transliteration: wa-aymānihim
   7:
-    arabic: ثَمَنًا
+    arabic: ثَمَنٗا
     translation: (for) a price
     transliteration: thamanan
   8:
-    arabic: قَلِيۡلًا
+    arabic: قَلِيلًا
     translation: little
     transliteration: qalīlan
   9:
-    arabic: اُولٰٓٮِٕكَ
+    arabic: أُوْلَٰٓئِكَ
     translation: 'those '
     transliteration: ulāika
   10:
@@ -49,7 +49,7 @@ word_by_word:
     translation: 'no'
     transliteration: lā
   11:
-    arabic: خَلَاقَ
+    arabic: خَلَٰقَ
     translation: share
     transliteration: khalāqa
   12:
@@ -57,11 +57,11 @@ word_by_word:
     translation: for them
     transliteration: lahum
   13:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   14:
-    arabic: الۡاٰخِرَةِ
+    arabic: ٱلۡأٓخِرَةِ
     translation: the Hereafter
     transliteration: l-ākhirati
   15:
@@ -73,7 +73,7 @@ word_by_word:
     translation: will speak to them
     transliteration: yukallimuhumu
   17:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   18:
@@ -81,11 +81,11 @@ word_by_word:
     translation: and not
     transliteration: walā
   19:
-    arabic: يَنۡظُرُ
+    arabic: يَنظُرُ
     translation: look
     transliteration: yanẓuru
   20:
-    arabic: اِلَيۡهِمۡ
+    arabic: إِلَيۡهِمۡ
     translation: at them
     transliteration: ilayhim
   21:
@@ -93,7 +93,7 @@ word_by_word:
     translation: (on the) Day
     transliteration: yawma
   22:
-    arabic: الۡقِيٰمَةِ
+    arabic: ٱلۡقِيَٰمَةِ
     translation: (of) the Resurrection
     transliteration: l-qiyāmati
   23:
@@ -101,7 +101,7 @@ word_by_word:
     translation: and not
     transliteration: walā
   24:
-    arabic: يُزَكِّيۡهِمۡ
+    arabic: يُزَكِّيهِمۡ
     translation: purify them
     transliteration: yuzakkīhim
   25:
@@ -113,7 +113,7 @@ word_by_word:
     translation: (is) a punishment
     transliteration: ʿadhābun
   27:
-    arabic: اَ لِيۡمٌ‏
+    arabic: أَلِيمٞ
     translation: painful
     transliteration: alīmun
 ---

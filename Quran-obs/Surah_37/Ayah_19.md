@@ -1,26 +1,26 @@
 ---
-arabic_ayat: فَاِنَّمَا هِىَ زَجۡرَةٌ وَّاحِدَةٌ فَاِذَا هُمۡ يَنۡظُرُوۡنَ‏
+arabic_ayat: فَإِنَّمَا هِيَ زَجۡرَةٞ وَٰحِدَةٞ فَإِذَا هُمۡ يَنظُرُونَ
 sentence_translation: It will only take one Blast, then at once they will see ˹it
   all˺.
 word_by_word:
   1:
-    arabic: فَاِنَّمَا
+    arabic: فَإِنَّمَا
     translation: Then only
     transliteration: fa-innamā
   2:
-    arabic: هِىَ
+    arabic: هِيَ
     translation: it
     transliteration: hiya
   3:
-    arabic: زَجۡرَةٌ
+    arabic: زَجۡرَةٞ
     translation: (will be) a cry
     transliteration: zajratun
   4:
-    arabic: وَّاحِدَةٌ
+    arabic: وَٰحِدَةٞ
     translation: single
     transliteration: wāḥidatun
   5:
-    arabic: فَاِذَا
+    arabic: فَإِذَا
     translation: then, behold
     transliteration: fa-idhā
   6:
@@ -28,7 +28,7 @@ word_by_word:
     translation: They
     transliteration: hum
   7:
-    arabic: يَنۡظُرُوۡنَ‏
+    arabic: يَنظُرُونَ
     translation: will see
     transliteration: yanẓurūna
 ---

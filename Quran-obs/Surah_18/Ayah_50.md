@@ -1,8 +1,8 @@
 ---
-arabic_ayat: "وَاِذۡ قُلۡنَا لِلۡمَلٰۤٮِٕكَةِ اسۡجُدُوۡا لِاٰدَمَ فَسَجَدُوۡۤا اِلَّاۤ\
-  \ اِبۡلِيۡسَؕ كَانَ مِنَ الۡجِنِّ فَفَسَقَ عَنۡ اَمۡرِ رَبِّهٖؕ اَفَتَـتَّخِذُوۡنَهٗ\
-  \ وَذُرِّيَّتَهٗۤ اَوۡلِيَآءَ مِنۡ دُوۡنِىۡ وَهُمۡ لَـكُمۡ عَدُوٌّ ؕ بِئۡسَ لِلظّٰلِمِيۡنَ\
-  \ بَدَلًا‏ \uFEFF\uFEFF"
+arabic_ayat: وَإِذۡ قُلۡنَا لِلۡمَلَٰٓئِكَةِ ٱسۡجُدُواْ لِأٓدَمَ فَسَجَدُوٓاْ إِلَّآ
+  إِبۡلِيسَ كَانَ مِنَ ٱلۡجِنِّ فَفَسَقَ عَنۡ أَمۡرِ رَبِّهِۦٓۗ أَفَتَتَّخِذُونَهُۥ
+  وَذُرِّيَّتَهُۥٓ أَوۡلِيَآءَ مِن دُونِي وَهُمۡ لَكُمۡ عَدُوُّۢۚ بِئۡسَ لِلظَّٰلِمِينَ
+  بَدَلٗا
 sentence_translation: And ˹remember˺ when We said to the angels, “Prostrate before
   Adam,” so they all did—but not Iblîs, who was one of the jinn, but he rebelled against
   the command of his Lord. Would you then take him and his descendants as patrons
@@ -10,7 +10,7 @@ sentence_translation: And ˹remember˺ when We said to the angels, “Prostrate 
   ˹to choose˺!
 word_by_word:
   1:
-    arabic: وَاِذۡ
+    arabic: وَإِذۡ
     translation: And when
     transliteration: wa-idh
   2:
@@ -18,27 +18,27 @@ word_by_word:
     translation: We said
     transliteration: qul'nā
   3:
-    arabic: لِلۡمَلٰۤٮِٕكَةِ
+    arabic: لِلۡمَلَٰٓئِكَةِ
     translation: to the Angels
     transliteration: lil'malāikati
   4:
-    arabic: اسۡجُدُوۡا
+    arabic: ٱسۡجُدُواْ
     translation: Prostrate
     transliteration: us'judū
   5:
-    arabic: لِاٰدَمَ
+    arabic: لِأٓدَمَ
     translation: to Adam
     transliteration: liādama
   6:
-    arabic: فَسَجَدُوۡۤا
+    arabic: فَسَجَدُوٓاْ
     translation: so they prostrated
     transliteration: fasajadū
   7:
-    arabic: اِلَّاۤ
+    arabic: إِلَّآ
     translation: except
     transliteration: illā
   8:
-    arabic: اِبۡلِيۡسَؕ
+    arabic: إِبۡلِيسَ
     translation: Iblis
     transliteration: ib'līsa
   9:
@@ -50,7 +50,7 @@ word_by_word:
     translation: of
     transliteration: mina
   11:
-    arabic: الۡجِنِّ
+    arabic: ٱلۡجِنِّ
     translation: the jinn
     transliteration: l-jini
   12:
@@ -62,31 +62,31 @@ word_by_word:
     translation: against
     transliteration: ʿan
   14:
-    arabic: اَمۡرِ
+    arabic: أَمۡرِ
     translation: the Command
     transliteration: amri
   15:
-    arabic: رَبِّهٖؕ
+    arabic: رَبِّهِۦٓۗ
     translation: (of) his Lord
     transliteration: rabbihi
   16:
-    arabic: اَفَتَـتَّخِذُوۡنَهٗ
+    arabic: أَفَتَتَّخِذُونَهُۥ
     translation: Will you then take him
     transliteration: afatattakhidhūnahu
   17:
-    arabic: وَذُرِّيَّتَهٗۤ
+    arabic: وَذُرِّيَّتَهُۥٓ
     translation: and his offspring
     transliteration: wadhurriyyatahu
   18:
-    arabic: اَوۡلِيَآءَ
+    arabic: أَوۡلِيَآءَ
     translation: (as) protectors
     transliteration: awliyāa
   19:
-    arabic: مِنۡ
+    arabic: مِن
     translation: other than Me
     transliteration: min
   20:
-    arabic: دُوۡنِىۡ
+    arabic: دُونِي
     translation: other than Me
     transliteration: dūnī
   21:
@@ -94,11 +94,11 @@ word_by_word:
     translation: while they
     transliteration: wahum
   22:
-    arabic: لَـكُمۡ
+    arabic: لَكُمۡ
     translation: (are) to you
     transliteration: lakum
   23:
-    arabic: عَدُوٌّ ؕ
+    arabic: عَدُوُّۢۚ
     translation: enemies
     transliteration: ʿaduwwun
   24:
@@ -106,11 +106,11 @@ word_by_word:
     translation: Wretched
     transliteration: bi'sa
   25:
-    arabic: لِلظّٰلِمِيۡنَ
+    arabic: لِلظَّٰلِمِينَ
     translation: for the wrongdoers
     transliteration: lilẓẓālimīna
   26:
-    arabic: "بَدَلًا‏ \uFEFF\uFEFF"
+    arabic: بَدَلٗا
     translation: (is) the exchange
     transliteration: badalan
 ---

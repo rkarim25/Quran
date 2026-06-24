@@ -1,7 +1,7 @@
 ---
-arabic_ayat: وَقَالَ الَّذِيۡنَ اتَّبَعُوۡا لَوۡ اَنَّ لَنَا كَرَّةً فَنَتَبَرَّاَ
-  مِنۡهُمۡ كَمَا تَبَرَّءُوۡا مِنَّا ؕ كَذٰلِكَ يُرِيۡهِمُ اللّٰهُ اَعۡمَالَهُمۡ حَسَرٰتٍ
-  عَلَيۡهِمۡؕ وَمَا هُمۡ بِخٰرِجِيۡنَ مِنَ النَّارِ‏
+arabic_ayat: وَقَالَ ٱلَّذِينَ ٱتَّبَعُواْ لَوۡ أَنَّ لَنَا كَرَّةٗ فَنَتَبَرَّأَ
+  مِنۡهُمۡ كَمَا تَبَرَّءُواْ مِنَّاۗ كَذَٰلِكَ يُرِيهِمُ ٱللَّهُ أَعۡمَٰلَهُمۡ حَسَرَٰتٍ
+  عَلَيۡهِمۡۖ وَمَا هُم بِخَٰرِجِينَ مِنَ ٱلنَّارِ
 sentence_translation: The ˹misled˺ followers will cry, “If only we could have a second
   chance, we would disown them as they disowned us.” And so Allah will make them remorseful
   of their misdeeds. And they will never ˹be able to˺ leave the Fire.
@@ -11,11 +11,11 @@ word_by_word:
     translation: And said
     transliteration: waqāla
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   3:
-    arabic: اتَّبَعُوۡا
+    arabic: ٱتَّبَعُواْ
     translation: followed
     transliteration: ittabaʿū
   4:
@@ -23,7 +23,7 @@ word_by_word:
     translation: (Only) if
     transliteration: law
   5:
-    arabic: اَنَّ
+    arabic: أَنَّ
     translation: '[that]'
     transliteration: anna
   6:
@@ -31,11 +31,11 @@ word_by_word:
     translation: for us
     transliteration: lanā
   7:
-    arabic: كَرَّةً
+    arabic: كَرَّةٗ
     translation: a return
     transliteration: karratan
   8:
-    arabic: فَنَتَبَرَّاَ
+    arabic: فَنَتَبَرَّأَ
     translation: then we will disown
     transliteration: fanatabarra-a
   9:
@@ -47,35 +47,35 @@ word_by_word:
     translation: as
     transliteration: kamā
   11:
-    arabic: تَبَرَّءُوۡا
+    arabic: تَبَرَّءُواْ
     translation: they disown
     transliteration: tabarraū
   12:
-    arabic: مِنَّا ؕ
+    arabic: مِنَّاۗ
     translation: '[from] us'
     transliteration: minnā
   13:
-    arabic: كَذٰلِكَ
+    arabic: كَذَٰلِكَ
     translation: Thus
     transliteration: kadhālika
   14:
-    arabic: يُرِيۡهِمُ
+    arabic: يُرِيهِمُ
     translation: will show them
     transliteration: yurīhimu
   15:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   16:
-    arabic: اَعۡمَالَهُمۡ
+    arabic: أَعۡمَٰلَهُمۡ
     translation: their deeds
     transliteration: aʿmālahum
   17:
-    arabic: حَسَرٰتٍ
+    arabic: حَسَرَٰتٍ
     translation: (as) regrets
     transliteration: ḥasarātin
   18:
-    arabic: عَلَيۡهِمۡؕ
+    arabic: عَلَيۡهِمۡۖ
     translation: for them
     transliteration: ʿalayhim
   19:
@@ -83,11 +83,11 @@ word_by_word:
     translation: And not
     transliteration: wamā
   20:
-    arabic: هُمۡ
+    arabic: هُم
     translation: they
     transliteration: hum
   21:
-    arabic: بِخٰرِجِيۡنَ
+    arabic: بِخَٰرِجِينَ
     translation: will come out
     transliteration: bikhārijīna
   22:
@@ -95,7 +95,7 @@ word_by_word:
     translation: from
     transliteration: mina
   23:
-    arabic: النَّارِ‏
+    arabic: ٱلنَّارِ
     translation: the Fire
     transliteration: l-nāri
 ---

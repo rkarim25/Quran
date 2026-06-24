@@ -1,36 +1,36 @@
 ---
-arabic_ayat: هٰذَا بَلٰغٌ لِّـلنَّاسِ وَلِيُنۡذَرُوۡا بِهٖ وَلِيَـعۡلَمُوۡۤا اَنَّمَا
-  هُوَ اِلٰـهٌ وَّاحِدٌ وَّلِيَذَّكَّرَ اُولُوا الۡا َلۡبَابِ‏
+arabic_ayat: هَٰذَا بَلَٰغٞ لِّلنَّاسِ وَلِيُنذَرُواْ بِهِۦ وَلِيَعۡلَمُوٓاْ أَنَّمَا
+  هُوَ إِلَٰهٞ وَٰحِدٞ وَلِيَذَّكَّرَ أُوْلُواْ ٱلۡأَلۡبَٰبِ
 sentence_translation: This ˹Quran˺ is a ˹sufficient˺ message for humanity so that
   they may take it as a warning and know that there is only One God, and so that people
   of reason may be mindful.
 word_by_word:
   1:
-    arabic: هٰذَا
+    arabic: هَٰذَا
     translation: This
     transliteration: hādhā
   2:
-    arabic: بَلٰغٌ
+    arabic: بَلَٰغٞ
     translation: (is) a Message
     transliteration: balāghun
   3:
-    arabic: لِّـلنَّاسِ
+    arabic: لِّلنَّاسِ
     translation: for the mankind
     transliteration: lilnnāsi
   4:
-    arabic: وَلِيُنۡذَرُوۡا
+    arabic: وَلِيُنذَرُواْ
     translation: that they may be warned
     transliteration: waliyundharū
   5:
-    arabic: بِهٖ
+    arabic: بِهِۦ
     translation: with it
     transliteration: bihi
   6:
-    arabic: وَلِيَـعۡلَمُوۡۤا
+    arabic: وَلِيَعۡلَمُوٓاْ
     translation: and that they may know
     transliteration: waliyaʿlamū
   7:
-    arabic: اَنَّمَا
+    arabic: أَنَّمَا
     translation: that only
     transliteration: annamā
   8:
@@ -38,23 +38,23 @@ word_by_word:
     translation: He
     transliteration: huwa
   9:
-    arabic: اِلٰـهٌ
+    arabic: إِلَٰهٞ
     translation: (is) One God
     transliteration: ilāhun
   10:
-    arabic: وَّاحِدٌ
+    arabic: وَٰحِدٞ
     translation: (is) One God
     transliteration: wāḥidun
   11:
-    arabic: وَّلِيَذَّكَّرَ
+    arabic: وَلِيَذَّكَّرَ
     translation: and that may take heed
     transliteration: waliyadhakkara
   12:
-    arabic: اُولُوا
+    arabic: أُوْلُواْ
     translation: men
     transliteration: ulū
   13:
-    arabic: الۡا َلۡبَابِ‏
+    arabic: ٱلۡأَلۡبَٰبِ
     translation: (of) understanding
     transliteration: l-albābi
 ---

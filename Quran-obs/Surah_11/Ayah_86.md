@@ -1,6 +1,6 @@
 ---
-arabic_ayat: بَقِيَّتُ اللّٰهِ خَيۡرٌ لَّـكُمۡ اِنۡ كُنۡتُمۡ مُّؤۡمِنِيۡنَ  ۚ وَمَاۤ
-  اَنَا عَلَيۡكُمۡ بِحَفِيۡظٍ‏
+arabic_ayat: بَقِيَّتُ ٱللَّهِ خَيۡرٞ لَّكُمۡ إِن كُنتُم مُّؤۡمِنِينَۚ وَمَآ أَنَا۠
+  عَلَيۡكُم بِحَفِيظٖ
 sentence_translation: What is left ˹as a lawful gain˺ by Allah is far better for you
   if you are ˹truly˺ believers. And I am not a keeper over you.”
 word_by_word:
@@ -9,43 +9,43 @@ word_by_word:
     translation: (What) remains
     transliteration: baqiyyatu
   2:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (from) Allah
     transliteration: l-lahi
   3:
-    arabic: خَيۡرٌ
+    arabic: خَيۡرٞ
     translation: (is) best
     transliteration: khayrun
   4:
-    arabic: لَّـكُمۡ
+    arabic: لَّكُمۡ
     translation: for you
     transliteration: lakum
   5:
-    arabic: اِنۡ
+    arabic: إِن
     translation: if
     transliteration: in
   6:
-    arabic: كُنۡتُمۡ
+    arabic: كُنتُم
     translation: you are
     transliteration: kuntum
   7:
-    arabic: مُّؤۡمِنِيۡنَ  ۚ 
+    arabic: مُّؤۡمِنِينَۚ
     translation: believers
     transliteration: mu'minīna
   8:
-    arabic: وَمَاۤ
+    arabic: وَمَآ
     translation: And not
     transliteration: wamā
   9:
-    arabic: اَنَا
+    arabic: أَنَا۠
     translation: I am
     transliteration: anā
   10:
-    arabic: عَلَيۡكُمۡ
+    arabic: عَلَيۡكُم
     translation: over you
     transliteration: ʿalaykum
   11:
-    arabic: بِحَفِيۡظٍ‏
+    arabic: بِحَفِيظٖ
     translation: a guardian
     transliteration: biḥafīẓin
 ---

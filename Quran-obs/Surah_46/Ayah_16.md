@@ -1,21 +1,21 @@
 ---
-arabic_ayat: اُولٰٓٮِٕكَ الَّذِيۡنَ نَـتَقَبَّلُ عَنۡهُمۡ اَحۡسَنَ مَا عَمِلُوۡا وَنَـتَجَاوَزُ
-  عَنۡ سَيِّاٰتِهِمۡ فِىۡۤ اَصۡحٰبِ الۡجَنَّةِ​ ؕ وَعۡدَ الصِّدۡقِ الَّذِىۡ كَانُوۡا
-  يُوۡعَدُوۡنَ‏
+arabic_ayat: أُوْلَٰٓئِكَ ٱلَّذِينَ نَتَقَبَّلُ عَنۡهُمۡ أَحۡسَنَ مَا عَمِلُواْ وَنَتَجَاوَزُ
+  عَن سَيِّـَٔاتِهِمۡ فِيٓ أَصۡحَٰبِ ٱلۡجَنَّةِۖ وَعۡدَ ٱلصِّدۡقِ ٱلَّذِي كَانُواْ
+  يُوعَدُونَ
 sentence_translation: It is from these ˹people˺ that We will accept the good they
   did, and overlook their misdeeds—along with the residents of Paradise, ˹in fulfilment
   of˺ the true promise they have been given.
 word_by_word:
   1:
-    arabic: اُولٰٓٮِٕكَ
+    arabic: أُوْلَٰٓئِكَ
     translation: Those
     transliteration: ulāika
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: (are) the ones
     transliteration: alladhīna
   3:
-    arabic: نَـتَقَبَّلُ
+    arabic: نَتَقَبَّلُ
     translation: We will accept
     transliteration: nataqabbalu
   4:
@@ -23,7 +23,7 @@ word_by_word:
     translation: from them
     transliteration: ʿanhum
   5:
-    arabic: اَحۡسَنَ
+    arabic: أَحۡسَنَ
     translation: (the) best
     transliteration: aḥsana
   6:
@@ -31,31 +31,31 @@ word_by_word:
     translation: (of) what
     transliteration: mā
   7:
-    arabic: عَمِلُوۡا
+    arabic: عَمِلُواْ
     translation: they did
     transliteration: ʿamilū
   8:
-    arabic: وَنَـتَجَاوَزُ
+    arabic: وَنَتَجَاوَزُ
     translation: and We will overlook
     transliteration: wanatajāwazu
   9:
-    arabic: عَنۡ
+    arabic: عَن
     translation: '[from]'
     transliteration: ʿan
   10:
-    arabic: سَيِّاٰتِهِمۡ
+    arabic: سَيِّـَٔاتِهِمۡ
     translation: their evil deeds
     transliteration: sayyiātihim
   11:
-    arabic: فِىۡۤ
+    arabic: فِيٓ
     translation: among
     transliteration: fī
   12:
-    arabic: اَصۡحٰبِ
+    arabic: أَصۡحَٰبِ
     translation: (the) companions
     transliteration: aṣḥābi
   13:
-    arabic: الۡجَنَّةِ​ ؕ
+    arabic: ٱلۡجَنَّةِۖ
     translation: (of) Paradise
     transliteration: l-janati
   14:
@@ -63,19 +63,19 @@ word_by_word:
     translation: A promise
     transliteration: waʿda
   15:
-    arabic: الصِّدۡقِ
+    arabic: ٱلصِّدۡقِ
     translation: 'true'
     transliteration: l-ṣid'qi
   16:
-    arabic: الَّذِىۡ
+    arabic: ٱلَّذِي
     translation: which
     transliteration: alladhī
   17:
-    arabic: كَانُوۡا
+    arabic: كَانُواْ
     translation: they were
     transliteration: kānū
   18:
-    arabic: يُوۡعَدُوۡنَ‏
+    arabic: يُوعَدُونَ
     translation: promised
     transliteration: yūʿadūna
 ---

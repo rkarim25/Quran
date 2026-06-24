@@ -1,9 +1,9 @@
 ---
-arabic_ayat: اِنۡ حِسَابُهُمۡ اِلَّا عَلٰى رَبِّىۡ​ لَوۡ تَشۡعُرُوۡنَ​ۚ‏
+arabic_ayat: إِنۡ حِسَابُهُمۡ إِلَّا عَلَىٰ رَبِّيۖ لَوۡ تَشۡعُرُونَ
 sentence_translation: Their judgment is with my Lord, if you had any sense!
 word_by_word:
   1:
-    arabic: اِنۡ
+    arabic: إِنۡ
     translation: Verily
     transliteration: in
   2:
@@ -11,15 +11,15 @@ word_by_word:
     translation: their account
     transliteration: ḥisābuhum
   3:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: (is) but
     transliteration: illā
   4:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: upon
     transliteration: ʿalā
   5:
-    arabic: رَبِّىۡ​
+    arabic: رَبِّيۖ
     translation: my Lord
     transliteration: rabbī
   6:
@@ -27,7 +27,7 @@ word_by_word:
     translation: if
     transliteration: law
   7:
-    arabic: تَشۡعُرُوۡنَ​ۚ‏
+    arabic: تَشۡعُرُونَ
     translation: you perceive
     transliteration: tashʿurūna
 ---

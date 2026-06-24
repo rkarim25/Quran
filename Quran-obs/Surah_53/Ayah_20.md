@@ -1,17 +1,17 @@
 ---
-arabic_ayat: وَمَنٰوةَ الثَّالِثَةَ الۡاُخۡرٰى‏
+arabic_ayat: وَمَنَوٰةَ ٱلثَّالِثَةَ ٱلۡأُخۡرَىٰٓ
 sentence_translation: and the third one, Manât, as well?
 word_by_word:
   1:
-    arabic: وَمَنٰوةَ
+    arabic: وَمَنَوٰةَ
     translation: And Manat
     transliteration: wamanata
   2:
-    arabic: الثَّالِثَةَ
+    arabic: ٱلثَّالِثَةَ
     translation: the third
     transliteration: l-thālithata
   3:
-    arabic: الۡاُخۡرٰى‏
+    arabic: ٱلۡأُخۡرَىٰٓ
     translation: the other
     transliteration: l-ukh'rā
 ---

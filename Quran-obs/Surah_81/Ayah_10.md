@@ -1,17 +1,17 @@
 ---
-arabic_ayat: وَاِذَا الصُّحُفُ نُشِرَتۡۙ‏
+arabic_ayat: وَإِذَا ٱلصُّحُفُ نُشِرَتۡ
 sentence_translation: and when the records ˹of deeds˺ are laid open,
 word_by_word:
   1:
-    arabic: وَاِذَا
+    arabic: وَإِذَا
     translation: And when
     transliteration: wa-idhā
   2:
-    arabic: الصُّحُفُ
+    arabic: ٱلصُّحُفُ
     translation: the pages
     transliteration: l-ṣuḥufu
   3:
-    arabic: نُشِرَتۡۙ‏
+    arabic: نُشِرَتۡ
     translation: are laid open
     transliteration: nushirat
 ---

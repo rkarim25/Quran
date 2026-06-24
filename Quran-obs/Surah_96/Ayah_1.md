@@ -1,13 +1,13 @@
 ---
-arabic_ayat: اِقۡرَاۡ بِاسۡمِ رَبِّكَ الَّذِىۡ خَلَقَ​ۚ‏
+arabic_ayat: ٱقۡرَأۡ بِٱسۡمِ رَبِّكَ ٱلَّذِي خَلَقَ
 sentence_translation: Read, ˹O Prophet,˺ in the Name of your Lord Who created—
 word_by_word:
   1:
-    arabic: اِقۡرَاۡ
+    arabic: ٱقۡرَأۡ
     translation: Read
     transliteration: iq'ra
   2:
-    arabic: بِاسۡمِ
+    arabic: بِٱسۡمِ
     translation: in (the) name
     transliteration: bi-is'mi
   3:
@@ -15,11 +15,11 @@ word_by_word:
     translation: (of) your Lord
     transliteration: rabbika
   4:
-    arabic: الَّذِىۡ
+    arabic: ٱلَّذِي
     translation: the One Who
     transliteration: alladhī
   5:
-    arabic: خَلَقَ​ۚ‏
+    arabic: خَلَقَ
     translation: 'created '
     transliteration: khalaqa
 ---

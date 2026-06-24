@@ -1,9 +1,9 @@
 ---
-arabic_ayat: اِنۡ كُلٌّ اِلَّا كَذَّبَ الرُّسُلَ فَحَقَّ عِقَابِ‏
+arabic_ayat: إِن كُلٌّ إِلَّا كَذَّبَ ٱلرُّسُلَ فَحَقَّ عِقَابِ
 sentence_translation: Each rejected their messenger, so My punishment was justified.
 word_by_word:
   1:
-    arabic: اِنۡ
+    arabic: إِن
     translation: Not
     transliteration: in
   2:
@@ -11,7 +11,7 @@ word_by_word:
     translation: all (of them)
     transliteration: kullun
   3:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: but
     transliteration: illā
   4:
@@ -19,7 +19,7 @@ word_by_word:
     translation: denied
     transliteration: kadhaba
   5:
-    arabic: الرُّسُلَ
+    arabic: ٱلرُّسُلَ
     translation: the Messengers
     transliteration: l-rusula
   6:
@@ -27,7 +27,7 @@ word_by_word:
     translation: so (was) just
     transliteration: faḥaqqa
   7:
-    arabic: عِقَابِ‏
+    arabic: عِقَابِ
     translation: My penalty
     transliteration: ʿiqābi
 ---

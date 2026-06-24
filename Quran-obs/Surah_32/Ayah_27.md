@@ -1,40 +1,39 @@
 ---
-arabic_ayat: "اَوَلَمۡ يَرَوۡا اَنَّا نَسُوۡقُ الۡمَآءَ اِلَى الۡاَرۡضِ الۡجُرُزِ\
-  \ فَنُخۡرِجُ بِهٖ زَرۡعًا تَاۡكُلُ مِنۡهُ اَنۡعَامُهُمۡ وَاَنۡفُسُهُمۡ​ؕ اَفَلَا\
-  \ يُبۡصِرُوۡنَ‏ \uFEFF\uFEFF"
+arabic_ayat: أَوَلَمۡ يَرَوۡاْ أَنَّا نَسُوقُ ٱلۡمَآءَ إِلَى ٱلۡأَرۡضِ ٱلۡجُرُزِ
+  فَنُخۡرِجُ بِهِۦ زَرۡعٗا تَأۡكُلُ مِنۡهُ أَنۡعَٰمُهُمۡ وَأَنفُسُهُمۡۚ أَفَلَا يُبۡصِرُونَ
 sentence_translation: Do they not see how We drive rain to parched land, producing
   ˹various˺ crops from which they and their cattle eat? Will they not then see?
 word_by_word:
   1:
-    arabic: اَوَلَمۡ
+    arabic: أَوَلَمۡ
     translation: Do not
     transliteration: awalam
   2:
-    arabic: يَرَوۡا
+    arabic: يَرَوۡاْ
     translation: they see
     transliteration: yaraw
   3:
-    arabic: اَنَّا
+    arabic: أَنَّا
     translation: that We
     transliteration: annā
   4:
-    arabic: نَسُوۡقُ
+    arabic: نَسُوقُ
     translation: drive
     transliteration: nasūqu
   5:
-    arabic: الۡمَآءَ
+    arabic: ٱلۡمَآءَ
     translation: water
     transliteration: l-māa
   6:
-    arabic: اِلَى
+    arabic: إِلَى
     translation: to
     transliteration: ilā
   7:
-    arabic: الۡاَرۡضِ
+    arabic: ٱلۡأَرۡضِ
     translation: the land
     transliteration: l-arḍi
   8:
-    arabic: الۡجُرُزِ
+    arabic: ٱلۡجُرُزِ
     translation: '[the] barren'
     transliteration: l-juruzi
   9:
@@ -42,15 +41,15 @@ word_by_word:
     translation: then We bring forth
     transliteration: fanukh'riju
   10:
-    arabic: بِهٖ
+    arabic: بِهِۦ
     translation: thereby
     transliteration: bihi
   11:
-    arabic: زَرۡعًا
+    arabic: زَرۡعٗا
     translation: crops
     transliteration: zarʿan
   12:
-    arabic: تَاۡكُلُ
+    arabic: تَأۡكُلُ
     translation: eat
     transliteration: takulu
   13:
@@ -58,19 +57,19 @@ word_by_word:
     translation: from it
     transliteration: min'hu
   14:
-    arabic: اَنۡعَامُهُمۡ
+    arabic: أَنۡعَٰمُهُمۡ
     translation: their cattle
     transliteration: anʿāmuhum
   15:
-    arabic: وَاَنۡفُسُهُمۡ​ؕ
+    arabic: وَأَنفُسُهُمۡۚ
     translation: and they themselves
     transliteration: wa-anfusuhum
   16:
-    arabic: اَفَلَا
+    arabic: أَفَلَا
     translation: Then do not
     transliteration: afalā
   17:
-    arabic: "يُبۡصِرُوۡنَ‏ \uFEFF\uFEFF"
+    arabic: يُبۡصِرُونَ
     translation: they see
     transliteration: yub'ṣirūna
 ---

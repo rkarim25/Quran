@@ -1,5 +1,5 @@
 ---
-arabic_ayat: فَمَا لَـنَا مِنۡ شٰفِعِيۡنَۙ‏
+arabic_ayat: فَمَا لَنَا مِن شَٰفِعِينَ
 sentence_translation: Now we have none to intercede for us,
 word_by_word:
   1:
@@ -7,15 +7,15 @@ word_by_word:
     translation: So (now) not
     transliteration: famā
   2:
-    arabic: لَـنَا
+    arabic: لَنَا
     translation: we have
     transliteration: lanā
   3:
-    arabic: مِنۡ
+    arabic: مِن
     translation: any
     transliteration: min
   4:
-    arabic: شٰفِعِيۡنَۙ‏
+    arabic: شَٰفِعِينَ
     translation: intercessors
     transliteration: shāfiʿīna
 ---

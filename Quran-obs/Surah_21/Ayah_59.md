@@ -1,14 +1,14 @@
 ---
-arabic_ayat: قَالُوۡا مَنۡ فَعَلَ هٰذَا بِاٰلِهَتِنَاۤ اِنَّهٗ لَمِنَ الظّٰلِمِيۡنَ‏
+arabic_ayat: قَالُواْ مَن فَعَلَ هَٰذَا بِـَٔالِهَتِنَآ إِنَّهُۥ لَمِنَ ٱلظَّٰلِمِينَ
 sentence_translation: They protested, “Who dared do this to our gods? It must be an
   evildoer!”
 word_by_word:
   1:
-    arabic: قَالُوۡا
+    arabic: قَالُواْ
     translation: They said
     transliteration: qālū
   2:
-    arabic: مَنۡ
+    arabic: مَن
     translation: Who
     transliteration: man
   3:
@@ -16,15 +16,15 @@ word_by_word:
     translation: (has) done
     transliteration: faʿala
   4:
-    arabic: هٰذَا
+    arabic: هَٰذَا
     translation: this
     transliteration: hādhā
   5:
-    arabic: بِاٰلِهَتِنَاۤ
+    arabic: بِـَٔالِهَتِنَآ
     translation: to our gods
     transliteration: biālihatinā
   6:
-    arabic: اِنَّهٗ
+    arabic: إِنَّهُۥ
     translation: Indeed, he
     transliteration: innahu
   7:
@@ -32,7 +32,7 @@ word_by_word:
     translation: (is) of
     transliteration: lamina
   8:
-    arabic: الظّٰلِمِيۡنَ‏
+    arabic: ٱلظَّٰلِمِينَ
     translation: the wrongdoers
     transliteration: l-ẓālimīna
 ---

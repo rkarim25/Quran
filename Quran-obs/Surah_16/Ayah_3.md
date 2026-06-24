@@ -1,6 +1,5 @@
 ---
-arabic_ayat: "خَلَقَ السَّمٰوٰتِ وَالۡاَرۡضَ بِالۡحَـقِّ​ؕ تَعٰلٰى عَمَّا يُشۡرِكُوۡنَ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: خَلَقَ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضَ بِٱلۡحَقِّۚ تَعَٰلَىٰ عَمَّا يُشۡرِكُونَ
 sentence_translation: He created the heavens and the earth for a purpose. Exalted
   is He above what they associate with Him ˹in worship˺!
 word_by_word:
@@ -9,19 +8,19 @@ word_by_word:
     translation: He created
     transliteration: khalaqa
   2:
-    arabic: السَّمٰوٰتِ
+    arabic: ٱلسَّمَٰوَٰتِ
     translation: the heavens
     transliteration: l-samāwāti
   3:
-    arabic: وَالۡاَرۡضَ
+    arabic: وَٱلۡأَرۡضَ
     translation: and the earth
     transliteration: wal-arḍa
   4:
-    arabic: بِالۡحَـقِّ​ؕ
+    arabic: بِٱلۡحَقِّۚ
     translation: in truth
     transliteration: bil-ḥaqi
   5:
-    arabic: تَعٰلٰى
+    arabic: تَعَٰلَىٰ
     translation: Exalted is He
     transliteration: taʿālā
   6:
@@ -29,7 +28,7 @@ word_by_word:
     translation: above what
     transliteration: ʿammā
   7:
-    arabic: "يُشۡرِكُوۡنَ‏ \uFEFF\uFEFF"
+    arabic: يُشۡرِكُونَ
     translation: they associate
     transliteration: yush'rikūna
 ---

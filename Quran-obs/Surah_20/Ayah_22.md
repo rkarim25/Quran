@@ -1,11 +1,11 @@
 ---
-arabic_ayat: وَاضۡمُمۡ يَدَكَ اِلَىٰ جَنَاحِكَ تَخۡرُجۡ بَيۡضَآءَ مِنۡ غَيۡرِ سُوۡٓءٍ
-  اٰيَةً اُخۡرٰىۙ‏
+arabic_ayat: وَٱضۡمُمۡ يَدَكَ إِلَىٰ جَنَاحِكَ تَخۡرُجۡ بَيۡضَآءَ مِنۡ غَيۡرِ سُوٓءٍ
+  ءَايَةً أُخۡرَىٰ
 sentence_translation: And put your hand under your armpit, it will come out ˹shining˺
   white, unblemished, as another sign,
 word_by_word:
   1:
-    arabic: وَاضۡمُمۡ
+    arabic: وَٱضۡمُمۡ
     translation: And draw near
     transliteration: wa-uḍ'mum
   2:
@@ -13,7 +13,7 @@ word_by_word:
     translation: your hand
     transliteration: yadaka
   3:
-    arabic: اِلَىٰ
+    arabic: إِلَىٰ
     translation: to
     transliteration: ilā
   4:
@@ -37,15 +37,15 @@ word_by_word:
     translation: without any
     transliteration: ghayri
   9:
-    arabic: سُوۡٓءٍ
+    arabic: سُوٓءٍ ءَ
     translation: disease
     transliteration: sūin
   10:
-    arabic: اٰيَةً
+    arabic: ايَةً
     translation: (as) a sign
     transliteration: āyatan
   11:
-    arabic: اُخۡرٰىۙ‏
+    arabic: أُخۡرَىٰ
     translation: another
     transliteration: ukh'rā
 ---

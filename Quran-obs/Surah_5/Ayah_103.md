@@ -1,7 +1,7 @@
 ---
-arabic_ayat: مَا جَعَلَ اللّٰهُ مِنۡۢ بَحِيۡرَةٍ وَّلَا سَآٮِٕبَةٍ وَّلَا وَصِيۡلَةٍ
-  وَّلَا حَامٍ​ ۙ وَّلٰـكِنَّ الَّذِيۡنَ كَفَرُوۡا يَفۡتَرُوۡنَ عَلَى اللّٰهِ الۡـكَذِبَ​
-  ؕ وَاَكۡثَرُهُمۡ لَا يَعۡقِلُوۡنَ‏
+arabic_ayat: مَا جَعَلَ ٱللَّهُ مِنۢ بَحِيرَةٖ وَلَا سَآئِبَةٖ وَلَا وَصِيلَةٖ وَلَا
+  حَامٖ وَلَٰكِنَّ ٱلَّذِينَ كَفَرُواْ يَفۡتَرُونَ عَلَى ٱللَّهِ ٱلۡكَذِبَۖ وَأَكۡثَرُهُمۡ
+  لَا يَعۡقِلُونَ
 sentence_translation: Allah has never ordained the ˹so-called˺ baḥîrah, sâ'ibah, waṣîlah,
   and ḥâm camels. But the disbelievers just fabricate lies about Allah, and most of
   them lack understanding.
@@ -15,55 +15,55 @@ word_by_word:
     translation: has (been) made
     transliteration: jaʿala
   3:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: (by) Allah
     transliteration: l-lahu
   4:
-    arabic: مِنۡۢ
+    arabic: مِنۢ
     translation: of
     transliteration: min
   5:
-    arabic: بَحِيۡرَةٍ
+    arabic: بَحِيرَةٖ
     translation: a Bahirah
     transliteration: baḥīratin
   6:
-    arabic: وَّلَا
+    arabic: وَلَا
     translation: and not
     transliteration: walā
   7:
-    arabic: سَآٮِٕبَةٍ
+    arabic: سَآئِبَةٖ
     translation: a Saibah
     transliteration: sāibatin
   8:
-    arabic: وَّلَا
+    arabic: وَلَا
     translation: and not
     transliteration: walā
   9:
-    arabic: وَصِيۡلَةٍ
+    arabic: وَصِيلَةٖ
     translation: a Wasilah
     transliteration: waṣīlatin
   10:
-    arabic: وَّلَا
+    arabic: وَلَا
     translation: and not
     transliteration: walā
   11:
-    arabic: حَامٍ​ ۙ
+    arabic: حَامٖ
     translation: a Hami
     transliteration: ḥāmin
   12:
-    arabic: وَّلٰـكِنَّ
+    arabic: وَلَٰكِنَّ
     translation: '[And] but'
     transliteration: walākinna
   13:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   14:
-    arabic: كَفَرُوۡا
+    arabic: كَفَرُواْ
     translation: disbelieved
     transliteration: kafarū
   15:
-    arabic: يَفۡتَرُوۡنَ
+    arabic: يَفۡتَرُونَ
     translation: they invent
     transliteration: yaftarūna
   16:
@@ -71,15 +71,15 @@ word_by_word:
     translation: against
     transliteration: ʿalā
   17:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   18:
-    arabic: الۡـكَذِبَ​ ؕ
+    arabic: ٱلۡكَذِبَۖ
     translation: the lie
     transliteration: l-kadhiba
   19:
-    arabic: وَاَكۡثَرُهُمۡ
+    arabic: وَأَكۡثَرُهُمۡ
     translation: and most of them
     transliteration: wa-aktharuhum
   20:
@@ -87,7 +87,7 @@ word_by_word:
     translation: (do) not
     transliteration: lā
   21:
-    arabic: يَعۡقِلُوۡنَ‏
+    arabic: يَعۡقِلُونَ
     translation: use reason
     transliteration: yaʿqilūna
 ---

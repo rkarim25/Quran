@@ -1,11 +1,11 @@
 ---
-arabic_ayat: وَاَنۡزَلۡنَا مِنَ السَّمَآءِ مَآءًۢ بِقَدَرٍ فَاَسۡكَنّٰهُ فِى الۡاَرۡضِ​ۖ
-  وَاِنَّا عَلٰى ذَهَابٍۢ بِهٖ لَقٰدِرُوۡنَ​ ۚ‏
+arabic_ayat: وَأَنزَلۡنَا مِنَ ٱلسَّمَآءِ مَآءَۢ بِقَدَرٖ فَأَسۡكَنَّٰهُ فِي ٱلۡأَرۡضِۖ
+  وَإِنَّا عَلَىٰ ذَهَابِۭ بِهِۦ لَقَٰدِرُونَ
 sentence_translation: We send down rain from the sky in perfect measure, causing it
   to soak into the earth. And We are surely able to take it away.
 word_by_word:
   1:
-    arabic: وَاَنۡزَلۡنَا
+    arabic: وَأَنزَلۡنَا
     translation: And We send down
     transliteration: wa-anzalnā
   2:
@@ -13,47 +13,47 @@ word_by_word:
     translation: from
     transliteration: mina
   3:
-    arabic: السَّمَآءِ
+    arabic: ٱلسَّمَآءِ
     translation: the sky
     transliteration: l-samāi
   4:
-    arabic: مَآءًۢ
+    arabic: مَآءَۢ
     translation: water
     transliteration: māan
   5:
-    arabic: بِقَدَرٍ
+    arabic: بِقَدَرٖ
     translation: in (due) measure
     transliteration: biqadarin
   6:
-    arabic: فَاَسۡكَنّٰهُ
+    arabic: فَأَسۡكَنَّٰهُ
     translation: then We cause it to settle
     transliteration: fa-askannāhu
   7:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   8:
-    arabic: الۡاَرۡضِ​ۖ
+    arabic: ٱلۡأَرۡضِۖ
     translation: the earth
     transliteration: l-arḍi
   9:
-    arabic: وَاِنَّا
+    arabic: وَإِنَّا
     translation: And indeed, We
     transliteration: wa-innā
   10:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: 'on'
     transliteration: ʿalā
   11:
-    arabic: ذَهَابٍۢ
+    arabic: ذَهَابِۭ
     translation: taking it away
     transliteration: dhahābin
   12:
-    arabic: بِهٖ
+    arabic: بِهِۦ
     translation: taking it away
     transliteration: bihi
   13:
-    arabic: لَقٰدِرُوۡنَ​ ۚ‏
+    arabic: لَقَٰدِرُونَ
     translation: surely (are) Able
     transliteration: laqādirūna
 ---

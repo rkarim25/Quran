@@ -1,16 +1,16 @@
 ---
-arabic_ayat: وَ مِنۡ اٰيٰتِهٖ خَلۡقُ السَّمٰوٰتِ وَالۡاَرۡضِ وَمَا بَثَّ فِيۡهِمَا
-  مِنۡ دَآبَّةٍ​ ؕ وَهُوَ عَلٰى جَمۡعِهِمۡ اِذَا يَشَآءُ قَدِيۡرٌ‏
+arabic_ayat: وَمِنۡ ءَايَٰتِهِۦ خَلۡقُ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِ وَمَا بَثَّ فِيهِمَا
+  مِن دَآبَّةٖۚ وَهُوَ عَلَىٰ جَمۡعِهِمۡ إِذَا يَشَآءُ قَدِيرٞ
 sentence_translation: And among His signs is the creation of the heavens and the earth,
   and all living beings He dispersed throughout both. And He is Most Capable of bringing
   all together whenever He wills.
 word_by_word:
   1:
-    arabic: وَ مِنۡ
+    arabic: وَمِنۡ ءَ
     translation: And among
     transliteration: wamin
   2:
-    arabic: اٰيٰتِهٖ
+    arabic: ايَٰتِهِۦ
     translation: His Signs
     transliteration: āyātihi
   3:
@@ -18,11 +18,11 @@ word_by_word:
     translation: (is the) creation
     transliteration: khalqu
   4:
-    arabic: السَّمٰوٰتِ
+    arabic: ٱلسَّمَٰوَٰتِ
     translation: (of) the heavens
     transliteration: l-samāwāti
   5:
-    arabic: وَالۡاَرۡضِ
+    arabic: وَٱلۡأَرۡضِ
     translation: and the earth
     transliteration: wal-arḍi
   6:
@@ -34,15 +34,15 @@ word_by_word:
     translation: He has dispersed
     transliteration: batha
   8:
-    arabic: فِيۡهِمَا
+    arabic: فِيهِمَا
     translation: in both of them
     transliteration: fīhimā
   9:
-    arabic: مِنۡ
+    arabic: مِن
     translation: of
     transliteration: min
   10:
-    arabic: دَآبَّةٍ​ ؕ
+    arabic: دَآبَّةٖۚ
     translation: (the) creatures
     transliteration: dābbatin
   11:
@@ -50,7 +50,7 @@ word_by_word:
     translation: And He
     transliteration: wahuwa
   12:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: (is) over
     transliteration: ʿalā
   13:
@@ -58,7 +58,7 @@ word_by_word:
     translation: their gathering
     transliteration: jamʿihim
   14:
-    arabic: اِذَا
+    arabic: إِذَا
     translation: when
     transliteration: idhā
   15:
@@ -66,7 +66,7 @@ word_by_word:
     translation: He wills
     transliteration: yashāu
   16:
-    arabic: قَدِيۡرٌ‏
+    arabic: قَدِيرٞ
     translation: All-Powerful
     transliteration: qadīrun
 ---

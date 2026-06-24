@@ -1,9 +1,9 @@
 ---
-arabic_ayat: وَالسَّمَآءِ ذَاتِ الرَّجۡعِۙ‏
+arabic_ayat: وَٱلسَّمَآءِ ذَاتِ ٱلرَّجۡعِ
 sentence_translation: By the sky with its recurring cycles,
 word_by_word:
   1:
-    arabic: وَالسَّمَآءِ
+    arabic: وَٱلسَّمَآءِ
     translation: By the sky
     transliteration: wal-samāi
   2:
@@ -11,7 +11,7 @@ word_by_word:
     translation: which
     transliteration: dhāti
   3:
-    arabic: الرَّجۡعِۙ‏
+    arabic: ٱلرَّجۡعِ
     translation: returns
     transliteration: l-rajʿi
 ---

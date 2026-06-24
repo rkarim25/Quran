@@ -1,6 +1,6 @@
 ---
-arabic_ayat: وَعَلَى الَّذِيۡنَ هَادُوۡا حَرَّمۡنَا مَا قَصَصۡنَا عَلَيۡكَ مِنۡ قَبۡلُ​ۚ
-  وَمَا ظَلَمۡنٰهُمۡ وَلٰـكِنۡ كَانُوۡۤا اَنۡفُسَهُمۡ يَظۡلِمُوۡنَ‏
+arabic_ayat: وَعَلَى ٱلَّذِينَ هَادُواْ حَرَّمۡنَا مَا قَصَصۡنَا عَلَيۡكَ مِن قَبۡلُۖ
+  وَمَا ظَلَمۡنَٰهُمۡ وَلَٰكِن كَانُوٓاْ أَنفُسَهُمۡ يَظۡلِمُونَ
 sentence_translation: To the Jews, We have forbidden what We related to you before. We
   did not wrong them, but it was they who wronged themselves.
 word_by_word:
@@ -9,11 +9,11 @@ word_by_word:
     translation: And to
     transliteration: waʿalā
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   3:
-    arabic: هَادُوۡا
+    arabic: هَادُواْ
     translation: are Jews
     transliteration: hādū
   4:
@@ -33,11 +33,11 @@ word_by_word:
     translation: to you
     transliteration: ʿalayka
   8:
-    arabic: مِنۡ
+    arabic: مِن
     translation: before
     transliteration: min
   9:
-    arabic: قَبۡلُ​ۚ
+    arabic: قَبۡلُۖ
     translation: before
     transliteration: qablu
   10:
@@ -45,23 +45,23 @@ word_by_word:
     translation: And not
     transliteration: wamā
   11:
-    arabic: ظَلَمۡنٰهُمۡ
+    arabic: ظَلَمۡنَٰهُمۡ
     translation: We wronged them
     transliteration: ẓalamnāhum
   12:
-    arabic: وَلٰـكِنۡ
+    arabic: وَلَٰكِن
     translation: but
     transliteration: walākin
   13:
-    arabic: كَانُوۡۤا
+    arabic: كَانُوٓاْ
     translation: they used (to)
     transliteration: kānū
   14:
-    arabic: اَنۡفُسَهُمۡ
+    arabic: أَنفُسَهُمۡ
     translation: themselves
     transliteration: anfusahum
   15:
-    arabic: يَظۡلِمُوۡنَ‏
+    arabic: يَظۡلِمُونَ
     translation: wrong
     transliteration: yaẓlimūna
 ---

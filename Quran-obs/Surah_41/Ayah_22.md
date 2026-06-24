@@ -1,7 +1,7 @@
 ---
-arabic_ayat: وَمَا كُنۡتُمۡ تَسۡتَتِرُوۡنَ اَنۡ يَّشۡهَدَ عَلَيۡكُمۡ سَمۡعُكُمۡ وَلَاۤ
-  اَبۡصَارُكُمۡ وَلَا جُلُوۡدُكُمۡ وَلٰكِنۡ ظَنَنۡتُمۡ اَنَّ اللّٰهَ لَا يَعۡلَمُ
-  كَثِيۡرًا مِّمَّا تَعۡمَلُوۡنَ‏
+arabic_ayat: وَمَا كُنتُمۡ تَسۡتَتِرُونَ أَن يَشۡهَدَ عَلَيۡكُمۡ سَمۡعُكُمۡ وَلَآ
+  أَبۡصَٰرُكُمۡ وَلَا جُلُودُكُمۡ وَلَٰكِن ظَنَنتُمۡ أَنَّ ٱللَّهَ لَا يَعۡلَمُ كَثِيرٗا
+  مِّمَّا تَعۡمَلُونَ
 sentence_translation: You did not ˹bother to˺ hide yourselves from your ears, eyes,
   and skin to prevent them from testifying against you. Rather, you assumed that Allah
   did not know much of what you used to do.
@@ -11,19 +11,19 @@ word_by_word:
     translation: And not
     transliteration: wamā
   2:
-    arabic: كُنۡتُمۡ
+    arabic: كُنتُمۡ
     translation: you were
     transliteration: kuntum
   3:
-    arabic: تَسۡتَتِرُوۡنَ
+    arabic: تَسۡتَتِرُونَ
     translation: covering yourselves
     transliteration: tastatirūna
   4:
-    arabic: اَنۡ
+    arabic: أَن
     translation: lest
     transliteration: an
   5:
-    arabic: يَّشۡهَدَ
+    arabic: يَشۡهَدَ
     translation: testify
     transliteration: yashhada
   6:
@@ -35,11 +35,11 @@ word_by_word:
     translation: your hearing
     transliteration: samʿukum
   8:
-    arabic: وَلَاۤ
+    arabic: وَلَآ
     translation: and not
     transliteration: walā
   9:
-    arabic: اَبۡصَارُكُمۡ
+    arabic: أَبۡصَٰرُكُمۡ
     translation: your sight
     transliteration: abṣārukum
   10:
@@ -47,23 +47,23 @@ word_by_word:
     translation: and not
     transliteration: walā
   11:
-    arabic: جُلُوۡدُكُمۡ
+    arabic: جُلُودُكُمۡ
     translation: your skins
     transliteration: julūdukum
   12:
-    arabic: وَلٰكِنۡ
+    arabic: وَلَٰكِن
     translation: but
     transliteration: walākin
   13:
-    arabic: ظَنَنۡتُمۡ
+    arabic: ظَنَنتُمۡ
     translation: you assumed
     transliteration: ẓanantum
   14:
-    arabic: اَنَّ
+    arabic: أَنَّ
     translation: that
     transliteration: anna
   15:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   16:
@@ -75,7 +75,7 @@ word_by_word:
     translation: know
     transliteration: yaʿlamu
   18:
-    arabic: كَثِيۡرًا
+    arabic: كَثِيرٗا
     translation: much
     transliteration: kathīran
   19:
@@ -83,7 +83,7 @@ word_by_word:
     translation: of what
     transliteration: mimmā
   20:
-    arabic: تَعۡمَلُوۡنَ‏
+    arabic: تَعۡمَلُونَ
     translation: you do
     transliteration: taʿmalūna
 ---

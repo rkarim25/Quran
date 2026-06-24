@@ -1,15 +1,15 @@
 ---
-arabic_ayat: "كَذٰلِكَ الۡعَذَابُ​ؕ وَلَعَذَابُ الۡاٰخِرَةِ اَكۡبَرُ ​ۘ لَوۡ كَانُوۡا\
-  \ يَعۡلَمُوۡنَ‏ \uFEFF\uFEFF"
+arabic_ayat: كَذَٰلِكَ ٱلۡعَذَابُۖ وَلَعَذَابُ ٱلۡأٓخِرَةِ أَكۡبَرُۚ لَوۡ كَانُواْ
+  يَعۡلَمُونَ
 sentence_translation: That is the ˹way of Our˺ punishment ˹in this world˺. But the
   punishment of the Hereafter is certainly far worse, if only they knew. 
 word_by_word:
   1:
-    arabic: كَذٰلِكَ
+    arabic: كَذَٰلِكَ
     translation: Such
     transliteration: kadhālika
   2:
-    arabic: الۡعَذَابُ​ؕ
+    arabic: ٱلۡعَذَابُۖ
     translation: (is) the punishment
     transliteration: l-ʿadhābu
   3:
@@ -17,11 +17,11 @@ word_by_word:
     translation: And surely the punishment
     transliteration: walaʿadhābu
   4:
-    arabic: الۡاٰخِرَةِ
+    arabic: ٱلۡأٓخِرَةِ
     translation: (of) the Hereafter
     transliteration: l-ākhirati
   5:
-    arabic: اَكۡبَرُ ​ۘ
+    arabic: أَكۡبَرُۚ
     translation: (is) greater
     transliteration: akbaru
   6:
@@ -29,11 +29,11 @@ word_by_word:
     translation: if
     transliteration: law
   7:
-    arabic: كَانُوۡا
+    arabic: كَانُواْ
     translation: they
     transliteration: kānū
   8:
-    arabic: "يَعۡلَمُوۡنَ‏ \uFEFF\uFEFF"
+    arabic: يَعۡلَمُونَ
     translation: know
     transliteration: yaʿlamūna
 ---

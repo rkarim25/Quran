@@ -1,14 +1,14 @@
 ---
-arabic_ayat: وَلَـمَّا وَقَعَ عَلَيۡهِمُ الرِّجۡزُ قَالُوۡا يٰمُوۡسَى ادۡعُ لَـنَا
-  رَبَّكَ بِمَا عَهِدَ عِنۡدَكَ​ۚ لَٮِٕنۡ كَشَفۡتَ عَنَّا الرِّجۡزَ لَـنُؤۡمِنَنَّ
-  لَكَ وَلَـنُرۡسِلَنَّ مَعَكَ بَنِىۡۤ اِسۡرَآءِيۡلَ​ۚ‏
+arabic_ayat: وَلَمَّا وَقَعَ عَلَيۡهِمُ ٱلرِّجۡزُ قَالُواْ يَٰمُوسَى ٱدۡعُ لَنَا رَبَّكَ
+  بِمَا عَهِدَ عِندَكَۖ لَئِن كَشَفۡتَ عَنَّا ٱلرِّجۡزَ لَنُؤۡمِنَنَّ لَكَ وَلَنُرۡسِلَنَّ
+  مَعَكَ بَنِيٓ إِسۡرَٰٓءِيلَ
 sentence_translation: When tormented, they pleaded, “O Moses! Pray to your Lord on
   our behalf, by virtue of the covenant He made with you. If you help remove this
   torment from us, we will certainly believe in you and let the Children of Israel
   go with you.”
 word_by_word:
   1:
-    arabic: وَلَـمَّا
+    arabic: وَلَمَّا
     translation: And when
     transliteration: walammā
   2:
@@ -20,23 +20,23 @@ word_by_word:
     translation: on them
     transliteration: ʿalayhimu
   4:
-    arabic: الرِّجۡزُ
+    arabic: ٱلرِّجۡزُ
     translation: the punishment
     transliteration: l-rij'zu
   5:
-    arabic: قَالُوۡا
+    arabic: قَالُواْ
     translation: they said
     transliteration: qālū
   6:
-    arabic: يٰمُوۡسَى
+    arabic: يَٰمُوسَى
     translation: O Musa
     transliteration: yāmūsā
   7:
-    arabic: ادۡعُ
+    arabic: ٱدۡعُ
     translation: Invoke
     transliteration: ud'ʿu
   8:
-    arabic: لَـنَا
+    arabic: لَنَا
     translation: for us
     transliteration: lanā
   9:
@@ -52,11 +52,11 @@ word_by_word:
     translation: He has promised
     transliteration: ʿahida
   12:
-    arabic: عِنۡدَكَ​ۚ
+    arabic: عِندَكَۖ
     translation: to you
     transliteration: ʿindaka
   13:
-    arabic: لَٮِٕنۡ
+    arabic: لَئِن
     translation: If
     transliteration: la-in
   14:
@@ -68,11 +68,11 @@ word_by_word:
     translation: from us
     transliteration: ʿannā
   16:
-    arabic: الرِّجۡزَ
+    arabic: ٱلرِّجۡزَ
     translation: the punishment
     transliteration: l-rij'za
   17:
-    arabic: لَـنُؤۡمِنَنَّ
+    arabic: لَنُؤۡمِنَنَّ
     translation: surely, we will believe
     transliteration: lanu'minanna
   18:
@@ -80,7 +80,7 @@ word_by_word:
     translation: '[for] you'
     transliteration: laka
   19:
-    arabic: وَلَـنُرۡسِلَنَّ
+    arabic: وَلَنُرۡسِلَنَّ
     translation: and surely, we will send
     transliteration: walanur'silanna
   20:
@@ -88,11 +88,11 @@ word_by_word:
     translation: with you
     transliteration: maʿaka
   21:
-    arabic: بَنِىۡۤ
+    arabic: بَنِيٓ
     translation: (the) Children
     transliteration: banī
   22:
-    arabic: اِسۡرَآءِيۡلَ​ۚ‏
+    arabic: إِسۡرَٰٓءِيلَ
     translation: (of) Israel
     transliteration: is'rāīla
 ---

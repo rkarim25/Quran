@@ -1,7 +1,6 @@
 ---
-arabic_ayat: "هُوَ الَّذِىۡ خَلَقَ لَـكُمۡ مَّا فِى الۡاَرۡضِ جَمِيۡعًا ثُمَّ اسۡتَوٰۤى\
-  \ اِلَى السَّمَآءِ فَسَوّٰٮهُنَّ سَبۡعَ سَمٰوٰتٍ​ؕ وَهُوَ بِكُلِّ شَىۡءٍ عَلِيۡمٌ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: هُوَ ٱلَّذِي خَلَقَ لَكُم مَّا فِي ٱلۡأَرۡضِ جَمِيعٗا ثُمَّ ٱسۡتَوَىٰٓ
+  إِلَى ٱلسَّمَآءِ فَسَوَّىٰهُنَّ سَبۡعَ سَمَٰوَٰتٖۚ وَهُوَ بِكُلِّ شَيۡءٍ عَلِيمٞ
 sentence_translation: He is the One Who created everything in the earth for you. Then
   He turned towards the heaven, forming it into seven heavens. And He has ˹perfect˺
   knowledge of all things.
@@ -11,7 +10,7 @@ word_by_word:
     translation: He
     transliteration: huwa
   2:
-    arabic: الَّذِىۡ
+    arabic: ٱلَّذِي
     translation: (is) the One Who
     transliteration: alladhī
   3:
@@ -19,7 +18,7 @@ word_by_word:
     translation: created
     transliteration: khalaqa
   4:
-    arabic: لَـكُمۡ
+    arabic: لَكُم
     translation: for you
     transliteration: lakum
   5:
@@ -27,15 +26,15 @@ word_by_word:
     translation: what
     transliteration: mā
   6:
-    arabic: فِى
+    arabic: فِي
     translation: (is) in
     transliteration: fī
   7:
-    arabic: الۡاَرۡضِ
+    arabic: ٱلۡأَرۡضِ
     translation: the earth
     transliteration: l-arḍi
   8:
-    arabic: جَمِيۡعًا
+    arabic: جَمِيعٗا
     translation: all
     transliteration: jamīʿan
   9:
@@ -43,19 +42,19 @@ word_by_word:
     translation: Moreover
     transliteration: thumma
   10:
-    arabic: اسۡتَوٰۤى
+    arabic: ٱسۡتَوَىٰٓ
     translation: He turned
     transliteration: is'tawā
   11:
-    arabic: اِلَى
+    arabic: إِلَى
     translation: to
     transliteration: ilā
   12:
-    arabic: السَّمَآءِ
+    arabic: ٱلسَّمَآءِ
     translation: the heaven
     transliteration: l-samāi
   13:
-    arabic: فَسَوّٰٮهُنَّ
+    arabic: فَسَوَّىٰهُنَّ
     translation: and fashioned them
     transliteration: fasawwāhunna
   14:
@@ -63,7 +62,7 @@ word_by_word:
     translation: seven
     transliteration: sabʿa
   15:
-    arabic: سَمٰوٰتٍ​ؕ
+    arabic: سَمَٰوَٰتٖۚ
     translation: heavens
     transliteration: samāwātin
   16:
@@ -75,11 +74,11 @@ word_by_word:
     translation: of every
     transliteration: bikulli
   18:
-    arabic: شَىۡءٍ
+    arabic: شَيۡءٍ
     translation: thing
     transliteration: shayin
   19:
-    arabic: "عَلِيۡمٌ‏ \uFEFF\uFEFF"
+    arabic: عَلِيمٞ
     translation: (is) All-Knowing
     transliteration: ʿalīmun
 ---

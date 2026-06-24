@@ -1,10 +1,10 @@
 ---
-arabic_ayat: قَالُوۡا رَبُّنَا يَعۡلَمُ اِنَّاۤ اِلَيۡكُمۡ لَمُرۡسَلُوۡنَ‏
+arabic_ayat: قَالُواْ رَبُّنَا يَعۡلَمُ إِنَّآ إِلَيۡكُمۡ لَمُرۡسَلُونَ
 sentence_translation: The messengers responded, “Our Lord knows that we have truly
   been sent to you.
 word_by_word:
   1:
-    arabic: قَالُوۡا
+    arabic: قَالُواْ
     translation: They said
     transliteration: qālū
   2:
@@ -16,15 +16,15 @@ word_by_word:
     translation: knows
     transliteration: yaʿlamu
   4:
-    arabic: اِنَّاۤ
+    arabic: إِنَّآ
     translation: that we
     transliteration: innā
   5:
-    arabic: اِلَيۡكُمۡ
+    arabic: إِلَيۡكُمۡ
     translation: to you
     transliteration: ilaykum
   6:
-    arabic: لَمُرۡسَلُوۡنَ‏
+    arabic: لَمُرۡسَلُونَ
     translation: (are) surely Messengers
     transliteration: lamur'salūna
 ---

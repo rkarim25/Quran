@@ -1,11 +1,11 @@
 ---
-arabic_ayat: وَاِنۡ عَاقَبۡتُمۡ فَعَاقِبُوۡا بِمِثۡلِ مَا عُوۡقِبۡتُمۡ بِهٖ​ۚ وَلَٮِٕنۡ
-  صَبَرۡتُمۡ لَهُوَ خَيۡرٌ لِّلصّٰبِرِيۡنَ‏
+arabic_ayat: وَإِنۡ عَاقَبۡتُمۡ فَعَاقِبُواْ بِمِثۡلِ مَا عُوقِبۡتُم بِهِۦۖ وَلَئِن
+  صَبَرۡتُمۡ لَهُوَ خَيۡرٞ لِّلصَّٰبِرِينَ
 sentence_translation: If you retaliate, then let it be equivalent to what you have
   suffered. But if you patiently endure, it is certainly best for those who are patient.
 word_by_word:
   1:
-    arabic: وَاِنۡ
+    arabic: وَإِنۡ
     translation: And if
     transliteration: wa-in
   2:
@@ -13,7 +13,7 @@ word_by_word:
     translation: you retaliate
     transliteration: ʿāqabtum
   3:
-    arabic: فَعَاقِبُوۡا
+    arabic: فَعَاقِبُواْ
     translation: then retaliate
     transliteration: faʿāqibū
   4:
@@ -25,15 +25,15 @@ word_by_word:
     translation: of what
     transliteration: mā
   6:
-    arabic: عُوۡقِبۡتُمۡ
+    arabic: عُوقِبۡتُم
     translation: you were afflicted
     transliteration: ʿūqib'tum
   7:
-    arabic: بِهٖ​ۚ
+    arabic: بِهِۦۖ
     translation: with [it]
     transliteration: bihi
   8:
-    arabic: وَلَٮِٕنۡ
+    arabic: وَلَئِن
     translation: But if
     transliteration: wala-in
   9:
@@ -45,11 +45,11 @@ word_by_word:
     translation: surely (it) is
     transliteration: lahuwa
   11:
-    arabic: خَيۡرٌ
+    arabic: خَيۡرٞ
     translation: better
     transliteration: khayrun
   12:
-    arabic: لِّلصّٰبِرِيۡنَ‏
+    arabic: لِّلصَّٰبِرِينَ
     translation: for those who are patient
     transliteration: lilṣṣābirīna
 ---

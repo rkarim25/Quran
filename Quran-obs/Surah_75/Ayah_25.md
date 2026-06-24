@@ -1,5 +1,5 @@
 ---
-arabic_ayat: تَظُنُّ اَنۡ يُّفۡعَلَ بِهَا فَاقِرَةٌ ؕ‏
+arabic_ayat: تَظُنُّ أَن يُفۡعَلَ بِهَا فَاقِرَةٞ
 sentence_translation: anticipating something devastating to befall them.
 word_by_word:
   1:
@@ -7,11 +7,11 @@ word_by_word:
     translation: Thinking
     transliteration: taẓunnu
   2:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that
     transliteration: an
   3:
-    arabic: يُّفۡعَلَ
+    arabic: يُفۡعَلَ
     translation: will be done
     transliteration: yuf'ʿala
   4:
@@ -19,7 +19,7 @@ word_by_word:
     translation: to them
     transliteration: bihā
   5:
-    arabic: فَاقِرَةٌ ؕ‏
+    arabic: فَاقِرَةٞ
     translation: backbreaking
     transliteration: fāqiratun
 ---

@@ -1,6 +1,6 @@
 ---
-arabic_ayat: فَهَلۡ عَسَيۡتُمۡ اِنۡ تَوَلَّيۡتُمۡ اَنۡ تُفۡسِدُوۡا فِى الۡاَرۡضِ وَتُقَطِّعُوۡۤا
-  اَرۡحَامَكُمۡ‏
+arabic_ayat: فَهَلۡ عَسَيۡتُمۡ إِن تَوَلَّيۡتُمۡ أَن تُفۡسِدُواْ فِي ٱلۡأَرۡضِ وَتُقَطِّعُوٓاْ
+  أَرۡحَامَكُمۡ
 sentence_translation: Now if you ˹hypocrites˺ turn away, perhaps you would then spread
   corruption throughout the land and sever your ˹ties of˺ kinship!
 word_by_word:
@@ -13,7 +13,7 @@ word_by_word:
     translation: you perhaps
     transliteration: ʿasaytum
   3:
-    arabic: اِنۡ
+    arabic: إِن
     translation: if
     transliteration: in
   4:
@@ -21,27 +21,27 @@ word_by_word:
     translation: you are given authority
     transliteration: tawallaytum
   5:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that
     transliteration: an
   6:
-    arabic: تُفۡسِدُوۡا
+    arabic: تُفۡسِدُواْ
     translation: you cause corruption
     transliteration: tuf'sidū
   7:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   8:
-    arabic: الۡاَرۡضِ
+    arabic: ٱلۡأَرۡضِ
     translation: the earth
     transliteration: l-arḍi
   9:
-    arabic: وَتُقَطِّعُوۡۤا
+    arabic: وَتُقَطِّعُوٓاْ
     translation: and cut off
     transliteration: watuqaṭṭiʿū
   10:
-    arabic: اَرۡحَامَكُمۡ‏
+    arabic: أَرۡحَامَكُمۡ
     translation: your ties of kinship
     transliteration: arḥāmakum
 ---

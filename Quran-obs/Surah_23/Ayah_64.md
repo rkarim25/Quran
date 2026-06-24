@@ -1,31 +1,30 @@
 ---
-arabic_ayat: "حَتّٰۤى اِذَاۤ اَخَذۡنَا مُتۡـرَفِيۡهِمۡ بِالۡعَذَابِ اِذَا هُمۡ يَجۡـــَٔرُوۡنَؕ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: حَتَّىٰٓ إِذَآ أَخَذۡنَا مُتۡرَفِيهِم بِٱلۡعَذَابِ إِذَا هُمۡ يَجۡـَٔرُونَ
 sentence_translation: But as soon as We seize their elite with torment, they start
   to cry for help.
 word_by_word:
   1:
-    arabic: حَتّٰۤى
+    arabic: حَتَّىٰٓ
     translation: Until
     transliteration: ḥattā
   2:
-    arabic: اِذَاۤ
+    arabic: إِذَآ
     translation: when
     transliteration: idhā
   3:
-    arabic: اَخَذۡنَا
+    arabic: أَخَذۡنَا
     translation: We seize
     transliteration: akhadhnā
   4:
-    arabic: مُتۡـرَفِيۡهِمۡ
+    arabic: مُتۡرَفِيهِم
     translation: their affluent ones
     transliteration: mut'rafīhim
   5:
-    arabic: بِالۡعَذَابِ
+    arabic: بِٱلۡعَذَابِ
     translation: with the punishment
     transliteration: bil-ʿadhābi
   6:
-    arabic: اِذَا
+    arabic: إِذَا
     translation: behold
     transliteration: idhā
   7:
@@ -33,7 +32,7 @@ word_by_word:
     translation: They
     transliteration: hum
   8:
-    arabic: "يَجۡـــَٔرُوۡنَؕ‏ \uFEFF\uFEFF"
+    arabic: يَجۡـَٔرُونَ
     translation: cry for help
     transliteration: yajarūna
 ---

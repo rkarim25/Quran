@@ -1,8 +1,8 @@
 ---
-arabic_ayat: وَمَنۡ اَظۡلَمُ مِمَّنۡ ذُكِّرَ بِاٰيٰتِ رَبِّهٖ فَاَعۡرَضَ عَنۡهَا وَنَسِىَ
-  مَا قَدَّمَتۡ يَدٰهُ​ ؕ اِنَّا جَعَلۡنَا عَلٰى قُلُوۡبِهِمۡ اَكِنَّةً اَنۡ يَّفۡقَهُوۡهُ
-  وَفِىۡۤ اٰذَانِهِمۡ وَقۡرًا​ ؕ وَاِنۡ تَدۡعُهُمۡ اِلَى الۡهُدٰى فَلَنۡ يَّهۡتَدُوۡۤا
-  اِذًا اَبَدًا‏
+arabic_ayat: وَمَنۡ أَظۡلَمُ مِمَّن ذُكِّرَ بِـَٔايَٰتِ رَبِّهِۦ فَأَعۡرَضَ عَنۡهَا
+  وَنَسِيَ مَا قَدَّمَتۡ يَدَاهُۚ إِنَّا جَعَلۡنَا عَلَىٰ قُلُوبِهِمۡ أَكِنَّةً أَن
+  يَفۡقَهُوهُ وَفِيٓ ءَاذَانِهِمۡ وَقۡرٗاۖ وَإِن تَدۡعُهُمۡ إِلَى ٱلۡهُدَىٰ فَلَن
+  يَهۡتَدُوٓاْ إِذًا أَبَدٗا
 sentence_translation: And who does more wrong than those who, when reminded of their
   Lord’s revelations, turn away from them and forget what their own hands have done?
   We have certainly cast veils over their hearts—leaving them unable to comprehend
@@ -14,11 +14,11 @@ word_by_word:
     translation: And who
     transliteration: waman
   2:
-    arabic: اَظۡلَمُ
+    arabic: أَظۡلَمُ
     translation: (is) more wrong
     transliteration: aẓlamu
   3:
-    arabic: مِمَّنۡ
+    arabic: مِمَّن
     translation: than (he) who
     transliteration: mimman
   4:
@@ -26,15 +26,15 @@ word_by_word:
     translation: is reminded
     transliteration: dhukkira
   5:
-    arabic: بِاٰيٰتِ
+    arabic: بِـَٔايَٰتِ
     translation: of the Verses
     transliteration: biāyāti
   6:
-    arabic: رَبِّهٖ
+    arabic: رَبِّهِۦ
     translation: (of) his Lord
     transliteration: rabbihi
   7:
-    arabic: فَاَعۡرَضَ
+    arabic: فَأَعۡرَضَ
     translation: but turns away
     transliteration: fa-aʿraḍa
   8:
@@ -42,7 +42,7 @@ word_by_word:
     translation: from them
     transliteration: ʿanhā
   9:
-    arabic: وَنَسِىَ
+    arabic: وَنَسِيَ
     translation: and forgets
     transliteration: wanasiya
   10:
@@ -54,11 +54,11 @@ word_by_word:
     translation: have sent forth
     transliteration: qaddamat
   12:
-    arabic: يَدٰهُ​ ؕ
+    arabic: يَدَاهُۚ
     translation: his hands
     transliteration: yadāhu
   13:
-    arabic: اِنَّا
+    arabic: إِنَّا
     translation: Indeed, We
     transliteration: innā
   14:
@@ -66,39 +66,39 @@ word_by_word:
     translation: '[We] have placed'
     transliteration: jaʿalnā
   15:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: over
     transliteration: ʿalā
   16:
-    arabic: قُلُوۡبِهِمۡ
+    arabic: قُلُوبِهِمۡ
     translation: their hearts
     transliteration: qulūbihim
   17:
-    arabic: اَكِنَّةً
+    arabic: أَكِنَّةً
     translation: coverings
     transliteration: akinnatan
   18:
-    arabic: اَنۡ
+    arabic: أَن
     translation: lest
     transliteration: an
   19:
-    arabic: يَّفۡقَهُوۡهُ
+    arabic: يَفۡقَهُوهُ
     translation: they understand it
     transliteration: yafqahūhu
   20:
-    arabic: وَفِىۡۤ
+    arabic: وَفِيٓ ءَ
     translation: and in
     transliteration: wafī
   21:
-    arabic: اٰذَانِهِمۡ
+    arabic: اذَانِهِمۡ
     translation: their ears
     transliteration: ādhānihim
   22:
-    arabic: وَقۡرًا​ ؕ
+    arabic: وَقۡرٗاۖ
     translation: (is) deafness
     transliteration: waqran
   23:
-    arabic: وَاِنۡ
+    arabic: وَإِن
     translation: And if
     transliteration: wa-in
   24:
@@ -106,27 +106,27 @@ word_by_word:
     translation: you call them
     transliteration: tadʿuhum
   25:
-    arabic: اِلَى
+    arabic: إِلَى
     translation: to
     transliteration: ilā
   26:
-    arabic: الۡهُدٰى
+    arabic: ٱلۡهُدَىٰ
     translation: the guidance
     transliteration: l-hudā
   27:
-    arabic: فَلَنۡ
+    arabic: فَلَن
     translation: then never
     transliteration: falan
   28:
-    arabic: يَّهۡتَدُوۡۤا
+    arabic: يَهۡتَدُوٓاْ
     translation: they will be guided
     transliteration: yahtadū
   29:
-    arabic: اِذًا
+    arabic: إِذًا
     translation: then
     transliteration: idhan
   30:
-    arabic: اَبَدًا‏
+    arabic: أَبَدٗا
     translation: ever
     transliteration: abadan
 ---

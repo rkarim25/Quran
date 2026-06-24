@@ -1,6 +1,6 @@
 ---
-arabic_ayat: وَقَالَ الَّذِىۡۤ اٰمَنَ يٰقَوۡمِ اِنِّىۡۤ اَخَافُ عَلَيۡكُمۡ مِّثۡلَ
-  يَوۡمِ الۡاَحۡزَابِۙ‏
+arabic_ayat: وَقَالَ ٱلَّذِيٓ ءَامَنَ يَٰقَوۡمِ إِنِّيٓ أَخَافُ عَلَيۡكُم مِّثۡلَ
+  يَوۡمِ ٱلۡأَحۡزَابِ
 sentence_translation: And the man who believed cautioned, “O my people! I truly fear
   for you the doom of ˹earlier˺ enemy forces—
 word_by_word:
@@ -9,27 +9,27 @@ word_by_word:
     translation: And said
     transliteration: waqāla
   2:
-    arabic: الَّذِىۡۤ
+    arabic: ٱلَّذِيٓ ءَ
     translation: (he) who
     transliteration: alladhī
   3:
-    arabic: اٰمَنَ
+    arabic: امَنَ
     translation: believed
     transliteration: āmana
   4:
-    arabic: يٰقَوۡمِ
+    arabic: يَٰقَوۡمِ
     translation: O my people
     transliteration: yāqawmi
   5:
-    arabic: اِنِّىۡۤ
+    arabic: إِنِّيٓ
     translation: Indeed I
     transliteration: innī
   6:
-    arabic: اَخَافُ
+    arabic: أَخَافُ
     translation: '[I] fear'
     transliteration: akhāfu
   7:
-    arabic: عَلَيۡكُمۡ
+    arabic: عَلَيۡكُم
     translation: for you
     transliteration: ʿalaykum
   8:
@@ -41,7 +41,7 @@ word_by_word:
     translation: (the) day
     transliteration: yawmi
   10:
-    arabic: الۡاَحۡزَابِۙ‏
+    arabic: ٱلۡأَحۡزَابِ
     translation: (of) the companies
     transliteration: l-aḥzābi
 ---

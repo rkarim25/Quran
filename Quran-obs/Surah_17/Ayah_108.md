@@ -1,23 +1,22 @@
 ---
-arabic_ayat: "وَّيَقُوۡلُوۡنَ سُبۡحٰنَ رَبِّنَاۤ اِنۡ كَانَ وَعۡدُ رَبِّنَا لَمَفۡعُوۡلًا‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: وَيَقُولُونَ سُبۡحَٰنَ رَبِّنَآ إِن كَانَ وَعۡدُ رَبِّنَا لَمَفۡعُولٗا
 sentence_translation: and say, ‘Glory be to our Lord! Surely the promise of our Lord
   has been fulfilled.’
 word_by_word:
   1:
-    arabic: وَّيَقُوۡلُوۡنَ
+    arabic: وَيَقُولُونَ
     translation: And they say
     transliteration: wayaqūlūna
   2:
-    arabic: سُبۡحٰنَ
+    arabic: سُبۡحَٰنَ
     translation: Glory be to
     transliteration: sub'ḥāna
   3:
-    arabic: رَبِّنَاۤ
+    arabic: رَبِّنَآ
     translation: our Lord
     transliteration: rabbinā
   4:
-    arabic: اِنۡ
+    arabic: إِن
     translation: Indeed
     transliteration: in
   5:
@@ -33,7 +32,7 @@ word_by_word:
     translation: (of) our Lord
     transliteration: rabbinā
   8:
-    arabic: "لَمَفۡعُوۡلًا‏ \uFEFF\uFEFF"
+    arabic: لَمَفۡعُولٗا
     translation: surely fulfilled
     transliteration: lamafʿūlan
 ---

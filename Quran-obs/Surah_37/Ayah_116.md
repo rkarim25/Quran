@@ -1,13 +1,13 @@
 ---
-arabic_ayat: وَنَصَرۡنٰهُمۡ فَكَانُوۡا هُمُ الۡغٰلِبِيۡنَ​ۚ‏
+arabic_ayat: وَنَصَرۡنَٰهُمۡ فَكَانُواْ هُمُ ٱلۡغَٰلِبِينَ
 sentence_translation: We helped them so it was they who prevailed.
 word_by_word:
   1:
-    arabic: وَنَصَرۡنٰهُمۡ
+    arabic: وَنَصَرۡنَٰهُمۡ
     translation: And We helped them
     transliteration: wanaṣarnāhum
   2:
-    arabic: فَكَانُوۡا
+    arabic: فَكَانُواْ
     translation: so they became
     transliteration: fakānū
   3:
@@ -15,7 +15,7 @@ word_by_word:
     translation: so they became
     transliteration: humu
   4:
-    arabic: الۡغٰلِبِيۡنَ​ۚ‏
+    arabic: ٱلۡغَٰلِبِينَ
     translation: the victors
     transliteration: l-ghālibīna
 ---

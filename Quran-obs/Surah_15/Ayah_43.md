@@ -1,13 +1,13 @@
 ---
-arabic_ayat: وَاِنَّ جَهَـنَّمَ لَمَوۡعِدُهُمۡ اَجۡمَعِيۡنَۙ‏
+arabic_ayat: وَإِنَّ جَهَنَّمَ لَمَوۡعِدُهُمۡ أَجۡمَعِينَ
 sentence_translation: and surely Hell is their destined place, all together.
 word_by_word:
   1:
-    arabic: وَاِنَّ
+    arabic: وَإِنَّ
     translation: And indeed
     transliteration: wa-inna
   2:
-    arabic: جَهَـنَّمَ
+    arabic: جَهَنَّمَ
     translation: Hell
     transliteration: jahannama
   3:
@@ -15,7 +15,7 @@ word_by_word:
     translation: (is) surely the promised place for them
     transliteration: lamawʿiduhum
   4:
-    arabic: اَجۡمَعِيۡنَۙ‏
+    arabic: أَجۡمَعِينَ
     translation: all
     transliteration: ajmaʿīna
 ---

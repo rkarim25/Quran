@@ -1,49 +1,49 @@
 ---
-arabic_ayat: يٰۤـاَيُّهَا الَّذِيۡنَ اٰمَنُوۡۤا اَوۡفُوۡا بِالۡعُقُوۡدِ​ ؕ اُحِلَّتۡ
-  لَـكُمۡ بَهِيۡمَةُ الۡاَنۡعَامِ اِلَّا مَا يُتۡلٰى عَلَيۡكُمۡ غَيۡرَ مُحِلِّى الصَّيۡدِ
-  وَاَنۡـتُمۡ حُرُمٌ​ ؕ اِنَّ اللّٰهَ يَحۡكُمُ مَا يُرِيۡدُ‏
+arabic_ayat: يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓاْ أَوۡفُواْ بِٱلۡعُقُودِۚ أُحِلَّتۡ
+  لَكُم بَهِيمَةُ ٱلۡأَنۡعَٰمِ إِلَّا مَا يُتۡلَىٰ عَلَيۡكُمۡ غَيۡرَ مُحِلِّي ٱلصَّيۡدِ
+  وَأَنتُمۡ حُرُمٌۗ إِنَّ ٱللَّهَ يَحۡكُمُ مَا يُرِيدُ
 sentence_translation: O believers! Honour your obligations. All grazing livestock
   has been made lawful to you—except what is hereby announced to you and hunting while
   on pilgrimage. Indeed, Allah commands what He wills.
 word_by_word:
   1:
-    arabic: يٰۤـاَيُّهَا
+    arabic: يَٰٓأَيُّهَا
     translation: O
     transliteration: yāayyuhā
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ ءَ
     translation: you (who)
     transliteration: alladhīna
   3:
-    arabic: اٰمَنُوۡۤا
+    arabic: امَنُوٓاْ
     translation: believe
     transliteration: āmanū
   4:
-    arabic: اَوۡفُوۡا
+    arabic: أَوۡفُواْ
     translation: Fulfil
     transliteration: awfū
   5:
-    arabic: بِالۡعُقُوۡدِ​ ؕ
+    arabic: بِٱلۡعُقُودِۚ
     translation: the contracts
     transliteration: bil-ʿuqūdi
   6:
-    arabic: اُحِلَّتۡ
+    arabic: أُحِلَّتۡ
     translation: Are made lawful
     transliteration: uḥillat
   7:
-    arabic: لَـكُمۡ
+    arabic: لَكُم
     translation: for you
     transliteration: lakum
   8:
-    arabic: بَهِيۡمَةُ
+    arabic: بَهِيمَةُ
     translation: the quadruped
     transliteration: bahīmatu
   9:
-    arabic: الۡاَنۡعَامِ
+    arabic: ٱلۡأَنۡعَٰمِ
     translation: (of) the grazing livestock
     transliteration: l-anʿāmi
   10:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   11:
@@ -51,7 +51,7 @@ word_by_word:
     translation: what
     transliteration: mā
   12:
-    arabic: يُتۡلٰى
+    arabic: يُتۡلَىٰ
     translation: is recited
     transliteration: yut'lā
   13:
@@ -63,27 +63,27 @@ word_by_word:
     translation: not
     transliteration: ghayra
   15:
-    arabic: مُحِلِّى
+    arabic: مُحِلِّي
     translation: being permitted
     transliteration: muḥillī
   16:
-    arabic: الصَّيۡدِ
+    arabic: ٱلصَّيۡدِ
     translation: (to) hunt
     transliteration: l-ṣaydi
   17:
-    arabic: وَاَنۡـتُمۡ
+    arabic: وَأَنتُمۡ
     translation: while you
     transliteration: wa-antum
   18:
-    arabic: حُرُمٌ​ ؕ
+    arabic: حُرُمٌۗ
     translation: (are in) Ihram
     transliteration: ḥurumun
   19:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   20:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   21:
@@ -95,7 +95,7 @@ word_by_word:
     translation: what
     transliteration: mā
   23:
-    arabic: يُرِيۡدُ‏
+    arabic: يُرِيدُ
     translation: He wills
     transliteration: yurīdu
 ---

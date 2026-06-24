@@ -1,22 +1,22 @@
 ---
-arabic_ayat: اَمۡ يَقُوۡلُوۡنَ تَقَوَّلَهٗ​ ۚ بَلْ لَّا يُؤۡمِنُوۡنَ​ ۚ‏
+arabic_ayat: أَمۡ يَقُولُونَ تَقَوَّلَهُۥۚ بَل لَّا يُؤۡمِنُونَ
 sentence_translation: Or do they say, “He made this ˹Quran˺ up!”? In fact, they have
   no faith.
 word_by_word:
   1:
-    arabic: اَمۡ
+    arabic: أَمۡ
     translation: Or
     transliteration: am
   2:
-    arabic: يَقُوۡلُوۡنَ
+    arabic: يَقُولُونَ
     translation: (do) they say
     transliteration: yaqūlūna
   3:
-    arabic: تَقَوَّلَهٗ​ ۚ
+    arabic: تَقَوَّلَهُۥۚ
     translation: He has made it up
     transliteration: taqawwalahu
   4:
-    arabic: بَلْ
+    arabic: بَل
     translation: Nay
     transliteration: bal
   5:
@@ -24,7 +24,7 @@ word_by_word:
     translation: not
     transliteration: lā
   6:
-    arabic: يُؤۡمِنُوۡنَ​ ۚ‏
+    arabic: يُؤۡمِنُونَ
     translation: they believe
     transliteration: yu'minūna
 ---

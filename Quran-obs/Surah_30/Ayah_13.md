@@ -1,6 +1,6 @@
 ---
-arabic_ayat: وَلَمۡ يَكُنۡ لَّهُمۡ مِّنۡ شُرَكَآٮِٕهِمۡ شُفَعٰٓؤُا وَكَانُوۡا بِشُرَكَآٮِٕهِمۡ
-  كٰفِرِيۡنَ‏
+arabic_ayat: وَلَمۡ يَكُن لَّهُم مِّن شُرَكَآئِهِمۡ شُفَعَٰٓؤُاْ وَكَانُواْ بِشُرَكَآئِهِمۡ
+  كَٰفِرِينَ
 sentence_translation: There will be no intercessors for them from among their associate-gods,
   and they will ˹totally˺ deny their associate-gods.
 word_by_word:
@@ -9,35 +9,35 @@ word_by_word:
     translation: And not
     transliteration: walam
   2:
-    arabic: يَكُنۡ
+    arabic: يَكُن
     translation: will be
     transliteration: yakun
   3:
-    arabic: لَّهُمۡ
+    arabic: لَّهُم
     translation: for them
     transliteration: lahum
   4:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: among
     transliteration: min
   5:
-    arabic: شُرَكَآٮِٕهِمۡ
+    arabic: شُرَكَآئِهِمۡ
     translation: theirs partners
     transliteration: shurakāihim
   6:
-    arabic: شُفَعٰٓؤُا
+    arabic: شُفَعَٰٓؤُاْ
     translation: any intercessors
     transliteration: shufaʿāu
   7:
-    arabic: وَكَانُوۡا
+    arabic: وَكَانُواْ
     translation: and they will be
     transliteration: wakānū
   8:
-    arabic: بِشُرَكَآٮِٕهِمۡ
+    arabic: بِشُرَكَآئِهِمۡ
     translation: in their partners
     transliteration: bishurakāihim
   9:
-    arabic: كٰفِرِيۡنَ‏
+    arabic: كَٰفِرِينَ
     translation: disbelievers
     transliteration: kāfirīna
 ---

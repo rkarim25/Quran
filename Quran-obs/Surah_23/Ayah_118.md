@@ -1,10 +1,10 @@
 ---
-arabic_ayat: وَقُلْ رَّبِّ اغۡفِرۡ وَارۡحَمۡ وَاَنۡتَ خَيۡرُ الرّٰحِمِيۡنَ‏
+arabic_ayat: وَقُل رَّبِّ ٱغۡفِرۡ وَٱرۡحَمۡ وَأَنتَ خَيۡرُ ٱلرَّٰحِمِينَ
 sentence_translation: Say, ˹O Prophet,˺ “My Lord! Forgive and have mercy, for You
   are the best of those who show mercy.”
 word_by_word:
   1:
-    arabic: وَقُلْ
+    arabic: وَقُل
     translation: And say
     transliteration: waqul
   2:
@@ -12,15 +12,15 @@ word_by_word:
     translation: My Lord
     transliteration: rabbi
   3:
-    arabic: اغۡفِرۡ
+    arabic: ٱغۡفِرۡ
     translation: Forgive
     transliteration: igh'fir
   4:
-    arabic: وَارۡحَمۡ
+    arabic: وَٱرۡحَمۡ
     translation: and have mercy
     transliteration: wa-ir'ḥam
   5:
-    arabic: وَاَنۡتَ
+    arabic: وَأَنتَ
     translation: and You
     transliteration: wa-anta
   6:
@@ -28,7 +28,7 @@ word_by_word:
     translation: (are the) Best
     transliteration: khayru
   7:
-    arabic: الرّٰحِمِيۡنَ‏
+    arabic: ٱلرَّٰحِمِينَ
     translation: (of) those who show mercy
     transliteration: l-rāḥimīna
 ---

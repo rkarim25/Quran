@@ -1,15 +1,15 @@
 ---
-arabic_ayat: وَمَاۤ اَسۡــَٔـلُكُمۡ عَلَيۡهِ مِنۡ اَجۡرٍ​ۚ اِنۡ اَجۡرِىَ اِلَّا عَلٰى
-  رَبِّ الۡعٰلَمِيۡنَ ؕ‏
+arabic_ayat: وَمَآ أَسۡـَٔلُكُمۡ عَلَيۡهِ مِنۡ أَجۡرٍۖ إِنۡ أَجۡرِيَ إِلَّا عَلَىٰ
+  رَبِّ ٱلۡعَٰلَمِينَ
 sentence_translation: I do not ask you for any reward for this ˹message˺. My reward
   is only from the Lord of all worlds.
 word_by_word:
   1:
-    arabic: وَمَاۤ
+    arabic: وَمَآ
     translation: And not
     transliteration: wamā
   2:
-    arabic: اَسۡــَٔـلُكُمۡ
+    arabic: أَسۡـَٔلُكُمۡ
     translation: I ask you
     transliteration: asalukum
   3:
@@ -21,23 +21,23 @@ word_by_word:
     translation: any
     transliteration: min
   5:
-    arabic: اَجۡرٍ​ۚ
+    arabic: أَجۡرٍۖ
     translation: payment
     transliteration: ajrin
   6:
-    arabic: اِنۡ
+    arabic: إِنۡ
     translation: Not
     transliteration: in
   7:
-    arabic: اَجۡرِىَ
+    arabic: أَجۡرِيَ
     translation: (is) my payment
     transliteration: ajriya
   8:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   9:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: from
     transliteration: ʿalā
   10:
@@ -45,7 +45,7 @@ word_by_word:
     translation: (the) Lord
     transliteration: rabbi
   11:
-    arabic: الۡعٰلَمِيۡنَ ؕ‏
+    arabic: ٱلۡعَٰلَمِينَ
     translation: (of) the worlds
     transliteration: l-ʿālamīna
 ---

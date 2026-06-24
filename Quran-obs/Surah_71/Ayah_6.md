@@ -1,5 +1,5 @@
 ---
-arabic_ayat: فَلَمۡ يَزِدۡهُمۡ دُعَآءِىۡۤ اِلَّا فِرَارًا‏
+arabic_ayat: فَلَمۡ يَزِدۡهُمۡ دُعَآءِيٓ إِلَّا فِرَارٗا
 sentence_translation: but my calls only made them run farther away.
 word_by_word:
   1:
@@ -11,15 +11,15 @@ word_by_word:
     translation: increased them
     transliteration: yazid'hum
   3:
-    arabic: دُعَآءِىۡۤ
+    arabic: دُعَآءِيٓ
     translation: my invitation
     transliteration: duʿāī
   4:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   5:
-    arabic: فِرَارًا‏
+    arabic: فِرَارٗا
     translation: (in) flight
     transliteration: firāran
 ---

@@ -1,27 +1,27 @@
 ---
-arabic_ayat: "وَّعَادًا وَّثَمُوۡدَا۟ وَ اَصۡحٰبَ الرَّسِّ وَقُرُوۡنًۢا بَيۡنَ ذٰ\
-  \ لِكَ كَثِيۡرًا‏ \uFEFF\uFEFF"
+arabic_ayat: وَعَادٗا وَثَمُودَاْ وَأَصۡحَٰبَ ٱلرَّسِّ وَقُرُونَۢا بَيۡنَ ذَٰلِكَ
+  كَثِيرٗا
 sentence_translation: Also ˹We destroyed˺ ’Ȃd, Thamûd, and the people of the Water-pit, as
   well as many peoples in between.
 word_by_word:
   1:
-    arabic: وَّعَادًا
+    arabic: وَعَادٗا
     translation: And Ad
     transliteration: waʿādan
   2:
-    arabic: وَّثَمُوۡدَا۟
+    arabic: وَثَمُودَاْ
     translation: and Thamud
     transliteration: wathamūdā
   3:
-    arabic: وَ اَصۡحٰبَ
+    arabic: وَأَصۡحَٰبَ
     translation: and (the) dwellers
     transliteration: wa-aṣḥāba
   4:
-    arabic: الرَّسِّ
+    arabic: ٱلرَّسِّ
     translation: (of) Ar-rass
     transliteration: l-rasi
   5:
-    arabic: وَقُرُوۡنًۢا
+    arabic: وَقُرُونَۢا
     translation: and generations
     transliteration: waqurūnan
   6:
@@ -29,11 +29,11 @@ word_by_word:
     translation: between
     transliteration: bayna
   7:
-    arabic: ذٰ لِكَ
+    arabic: ذَٰلِكَ
     translation: that
     transliteration: dhālika
   8:
-    arabic: "كَثِيۡرًا‏ \uFEFF\uFEFF"
+    arabic: كَثِيرٗا
     translation: many
     transliteration: kathīran
 ---

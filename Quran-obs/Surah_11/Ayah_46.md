@@ -1,7 +1,7 @@
 ---
-arabic_ayat: قَالَ يٰـنُوۡحُ اِنَّهٗ لَـيۡسَ مِنۡ اَهۡلِكَ ​ۚاِنَّهٗ عَمَلٌ غَيۡرُ
-  صَالِحٍ ​​ۖ فَلَا تَسۡــَٔــلۡنِ مَا لَـيۡسَ لَـكَ بِهٖ عِلۡمٌ​ ؕ اِنِّىۡۤ اَعِظُكَ
-  اَنۡ تَكُوۡنَ مِنَ الۡجٰهِلِيۡنَ‏
+arabic_ayat: قَالَ يَٰنُوحُ إِنَّهُۥ لَيۡسَ مِنۡ أَهۡلِكَۖ إِنَّهُۥ عَمَلٌ غَيۡرُ
+  صَٰلِحٖۖ فَلَا تَسۡـَٔلۡنِ مَا لَيۡسَ لَكَ بِهِۦ عِلۡمٌۖ إِنِّيٓ أَعِظُكَ أَن تَكُونَ
+  مِنَ ٱلۡجَٰهِلِينَ
 sentence_translation: Allah replied, “O Noah! He is certainly not of your family—he
   was entirely of unrighteous conduct. So do not ask Me about what you have no knowledge
   of! I warn you so you do not fall into ignorance.”
@@ -11,15 +11,15 @@ word_by_word:
     translation: He said
     transliteration: qāla
   2:
-    arabic: يٰـنُوۡحُ
+    arabic: يَٰنُوحُ
     translation: O Nuh
     transliteration: yānūḥu
   3:
-    arabic: اِنَّهٗ
+    arabic: إِنَّهُۥ
     translation: Indeed, he
     transliteration: innahu
   4:
-    arabic: لَـيۡسَ
+    arabic: لَيۡسَ
     translation: (is) not
     transliteration: laysa
   5:
@@ -27,11 +27,11 @@ word_by_word:
     translation: of
     transliteration: min
   6:
-    arabic: اَهۡلِكَ ​ۚ
+    arabic: أَهۡلِكَۖ
     translation: your family
     transliteration: ahlika
   7:
-    arabic: اِنَّهٗ
+    arabic: إِنَّهُۥ
     translation: indeed, [he]
     transliteration: innahu
   8:
@@ -43,7 +43,7 @@ word_by_word:
     translation: (is) other than
     transliteration: ghayru
   10:
-    arabic: صَالِحٍ ​​ۖ
+    arabic: صَٰلِحٖۖ
     translation: righteous
     transliteration: ṣāliḥin
   11:
@@ -51,7 +51,7 @@ word_by_word:
     translation: so (do) not
     transliteration: falā
   12:
-    arabic: تَسۡــَٔــلۡنِ
+    arabic: تَسۡـَٔلۡنِ
     translation: ask Me
     transliteration: tasalni
   13:
@@ -59,35 +59,35 @@ word_by_word:
     translation: (about) what
     transliteration: mā
   14:
-    arabic: لَـيۡسَ
+    arabic: لَيۡسَ
     translation: not
     transliteration: laysa
   15:
-    arabic: لَـكَ
+    arabic: لَكَ
     translation: you have
     transliteration: laka
   16:
-    arabic: بِهٖ
+    arabic: بِهِۦ
     translation: of it
     transliteration: bihi
   17:
-    arabic: عِلۡمٌ​ ؕ
+    arabic: عِلۡمٌۖ
     translation: any knowledge
     transliteration: ʿil'mun
   18:
-    arabic: اِنِّىۡۤ
+    arabic: إِنِّيٓ
     translation: Indeed, I
     transliteration: innī
   19:
-    arabic: اَعِظُكَ
+    arabic: أَعِظُكَ
     translation: admonish you
     transliteration: aʿiẓuka
   20:
-    arabic: اَنۡ
+    arabic: أَن
     translation: lest
     transliteration: an
   21:
-    arabic: تَكُوۡنَ
+    arabic: تَكُونَ
     translation: you be
     transliteration: takūna
   22:
@@ -95,7 +95,7 @@ word_by_word:
     translation: among
     transliteration: mina
   23:
-    arabic: الۡجٰهِلِيۡنَ‏
+    arabic: ٱلۡجَٰهِلِينَ
     translation: the ignorant
     transliteration: l-jāhilīna
 ---

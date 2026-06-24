@@ -1,36 +1,36 @@
 ---
-arabic_ayat: وَيَسۡتَعۡجِلُوۡنَكَ بِالۡعَذَابِ وَلَنۡ يُّخۡلِفَ اللّٰهُ وَعۡدَهٗ​
-  ؕ وَاِنَّ يَوۡمًا عِنۡدَ رَبِّكَ كَاَ لۡفِ سَنَةٍ مِّمَّا تَعُدُّوۡنَ‏
+arabic_ayat: وَيَسۡتَعۡجِلُونَكَ بِٱلۡعَذَابِ وَلَن يُخۡلِفَ ٱللَّهُ وَعۡدَهُۥۚ وَإِنَّ
+  يَوۡمًا عِندَ رَبِّكَ كَأَلۡفِ سَنَةٖ مِّمَّا تَعُدُّونَ
 sentence_translation: They challenge you ˹O Prophet˺ to hasten the torment. And Allah
   will never fail in His promise. But a day with your Lord is indeed like a thousand
   years by your counting.
 word_by_word:
   1:
-    arabic: وَيَسۡتَعۡجِلُوۡنَكَ
+    arabic: وَيَسۡتَعۡجِلُونَكَ
     translation: And they ask you to hasten
     transliteration: wayastaʿjilūnaka
   2:
-    arabic: بِالۡعَذَابِ
+    arabic: بِٱلۡعَذَابِ
     translation: the punishment
     transliteration: bil-ʿadhābi
   3:
-    arabic: وَلَنۡ
+    arabic: وَلَن
     translation: But never will
     transliteration: walan
   4:
-    arabic: يُّخۡلِفَ
+    arabic: يُخۡلِفَ
     translation: fail/violate
     transliteration: yukh'lifa
   5:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   6:
-    arabic: وَعۡدَهٗ​ ؕ
+    arabic: وَعۡدَهُۥۚ
     translation: (in) His Promise
     transliteration: waʿdahu
   7:
-    arabic: وَاِنَّ
+    arabic: وَإِنَّ
     translation: And indeed
     transliteration: wa-inna
   8:
@@ -38,7 +38,7 @@ word_by_word:
     translation: a day
     transliteration: yawman
   9:
-    arabic: عِنۡدَ
+    arabic: عِندَ
     translation: with
     transliteration: ʿinda
   10:
@@ -46,11 +46,11 @@ word_by_word:
     translation: your Lord
     transliteration: rabbika
   11:
-    arabic: كَاَ لۡفِ
+    arabic: كَأَلۡفِ
     translation: (is) like a thousand
     transliteration: ka-alfi
   12:
-    arabic: سَنَةٍ
+    arabic: سَنَةٖ
     translation: year(s)
     transliteration: sanatin
   13:
@@ -58,7 +58,7 @@ word_by_word:
     translation: of what
     transliteration: mimmā
   14:
-    arabic: تَعُدُّوۡنَ‏
+    arabic: تَعُدُّونَ
     translation: you count
     transliteration: taʿuddūna
 ---

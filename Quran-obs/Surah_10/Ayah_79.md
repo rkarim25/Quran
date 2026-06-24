@@ -1,5 +1,5 @@
 ---
-arabic_ayat: وَقَالَ فِرۡعَوۡنُ ائۡتُوۡنِىۡ بِكُلِّ سٰحِرٍ عَلِيۡمٍ‏
+arabic_ayat: وَقَالَ فِرۡعَوۡنُ ٱئۡتُونِي بِكُلِّ سَٰحِرٍ عَلِيمٖ
 sentence_translation: Pharaoh demanded, “Bring me every skilled magician.”
 word_by_word:
   1:
@@ -11,7 +11,7 @@ word_by_word:
     translation: And Firaun said
     transliteration: fir'ʿawnu
   3:
-    arabic: ائۡتُوۡنِىۡ
+    arabic: ٱئۡتُونِي
     translation: Bring to me
     transliteration: i'tūnī
   4:
@@ -19,11 +19,11 @@ word_by_word:
     translation: every
     transliteration: bikulli
   5:
-    arabic: سٰحِرٍ
+    arabic: سَٰحِرٍ
     translation: magician
     transliteration: sāḥirin
   6:
-    arabic: عَلِيۡمٍ‏
+    arabic: عَلِيمٖ
     translation: learned
     transliteration: ʿalīmin
 ---

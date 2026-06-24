@@ -1,7 +1,6 @@
 ---
-arabic_ayat: "وَلَا تَقۡرَبُوۡا مَالَ الۡيَتِيۡمِ اِلَّا بِالَّتِىۡ هِىَ اَحۡسَنُ\
-  \ حَتّٰى يَبۡلُغَ اَشُدَّهٗ​ وَاَوۡفُوۡا بِالۡعَهۡدِ​ۚ اِنَّ الۡعَهۡدَ كَانَ مَسۡـــُٔوۡلًا‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: وَلَا تَقۡرَبُواْ مَالَ ٱلۡيَتِيمِ إِلَّا بِٱلَّتِي هِيَ أَحۡسَنُ حَتَّىٰ
+  يَبۡلُغَ أَشُدَّهُۥۚ وَأَوۡفُواْ بِٱلۡعَهۡدِۖ إِنَّ ٱلۡعَهۡدَ كَانَ مَسۡـُٔولٗا
 sentence_translation: Do not come near the wealth of the orphan—unless intending to
   enhance it—until they attain maturity. Honour ˹your˺ pledges, for you will surely
   be accountable for them.
@@ -11,7 +10,7 @@ word_by_word:
     translation: And (do) not
     transliteration: walā
   2:
-    arabic: تَقۡرَبُوۡا
+    arabic: تَقۡرَبُواْ
     translation: come near
     transliteration: taqrabū
   3:
@@ -19,27 +18,27 @@ word_by_word:
     translation: (the) wealth
     transliteration: māla
   4:
-    arabic: الۡيَتِيۡمِ
+    arabic: ٱلۡيَتِيمِ
     translation: (of) the orphan
     transliteration: l-yatīmi
   5:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   6:
-    arabic: بِالَّتِىۡ
+    arabic: بِٱلَّتِي
     translation: with what
     transliteration: bi-allatī
   7:
-    arabic: هِىَ
+    arabic: هِيَ
     translation: '[it] is'
     transliteration: hiya
   8:
-    arabic: اَحۡسَنُ
+    arabic: أَحۡسَنُ
     translation: best
     transliteration: aḥsanu
   9:
-    arabic: حَتّٰى
+    arabic: حَتَّىٰ
     translation: until
     transliteration: ḥattā
   10:
@@ -47,23 +46,23 @@ word_by_word:
     translation: he reaches
     transliteration: yablugha
   11:
-    arabic: اَشُدَّهٗ​
+    arabic: أَشُدَّهُۥۚ
     translation: his maturity
     transliteration: ashuddahu
   12:
-    arabic: وَاَوۡفُوۡا
+    arabic: وَأَوۡفُواْ
     translation: And fulfil
     transliteration: wa-awfū
   13:
-    arabic: بِالۡعَهۡدِ​ۚ
+    arabic: بِٱلۡعَهۡدِۖ
     translation: the covenant
     transliteration: bil-ʿahdi
   14:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   15:
-    arabic: الۡعَهۡدَ
+    arabic: ٱلۡعَهۡدَ
     translation: the covenant
     transliteration: l-ʿahda
   16:
@@ -71,7 +70,7 @@ word_by_word:
     translation: will be
     transliteration: kāna
   17:
-    arabic: "مَسۡـــُٔوۡلًا‏ \uFEFF\uFEFF"
+    arabic: مَسۡـُٔولٗا
     translation: questioned
     transliteration: masūlan
 ---

@@ -1,47 +1,47 @@
 ---
-arabic_ayat: اِنَّ الَّذِيۡنَ يَرۡمُوۡنَ الۡمُحۡصَنٰتِ الۡغٰفِلٰتِ الۡمُؤۡمِنٰتِ لُعِنُوۡا
-  فِى الدُّنۡيَا وَالۡاٰخِرَةِ وَلَهُمۡ عَذَابٌ عَظِيۡمٌۙ‏
+arabic_ayat: إِنَّ ٱلَّذِينَ يَرۡمُونَ ٱلۡمُحۡصَنَٰتِ ٱلۡغَٰفِلَٰتِ ٱلۡمُؤۡمِنَٰتِ
+  لُعِنُواْ فِي ٱلدُّنۡيَا وَٱلۡأٓخِرَةِ وَلَهُمۡ عَذَابٌ عَظِيمٞ
 sentence_translation: Surely those who accuse chaste, unsuspecting, believing women
   are cursed in this life and the Hereafter. And they will suffer a tremendous punishment
 word_by_word:
   1:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   3:
-    arabic: يَرۡمُوۡنَ
+    arabic: يَرۡمُونَ
     translation: accuse
     transliteration: yarmūna
   4:
-    arabic: الۡمُحۡصَنٰتِ
+    arabic: ٱلۡمُحۡصَنَٰتِ
     translation: the chaste women
     transliteration: l-muḥ'ṣanāti
   5:
-    arabic: الۡغٰفِلٰتِ
+    arabic: ٱلۡغَٰفِلَٰتِ
     translation: the unaware women
     transliteration: l-ghāfilāti
   6:
-    arabic: الۡمُؤۡمِنٰتِ
+    arabic: ٱلۡمُؤۡمِنَٰتِ
     translation: (and) the believing women
     transliteration: l-mu'mināti
   7:
-    arabic: لُعِنُوۡا
+    arabic: لُعِنُواْ
     translation: are cursed
     transliteration: luʿinū
   8:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   9:
-    arabic: الدُّنۡيَا
+    arabic: ٱلدُّنۡيَا
     translation: the world
     transliteration: l-dun'yā
   10:
-    arabic: وَالۡاٰخِرَةِ
+    arabic: وَٱلۡأٓخِرَةِ
     translation: and the Hereafter
     transliteration: wal-ākhirati
   11:
@@ -53,7 +53,7 @@ word_by_word:
     translation: (is) a punishment
     transliteration: ʿadhābun
   13:
-    arabic: عَظِيۡمٌۙ‏
+    arabic: عَظِيمٞ
     translation: great
     transliteration: ʿaẓīmun
 ---

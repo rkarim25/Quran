@@ -1,5 +1,5 @@
 ---
-arabic_ayat: بَلۡ هُوَ قُرۡاٰنٌ مَّجِيۡدٌ ۙ‏
+arabic_ayat: بَلۡ هُوَ قُرۡءَانٞ مَّجِيدٞ
 sentence_translation: In fact, this is a glorious Quran,
 word_by_word:
   1:
@@ -11,11 +11,11 @@ word_by_word:
     translation: It
     transliteration: huwa
   3:
-    arabic: قُرۡاٰنٌ
+    arabic: قُرۡءَانٞ
     translation: (is) a Quran
     transliteration: qur'ānun
   4:
-    arabic: مَّجِيۡدٌ ۙ‏
+    arabic: مَّجِيدٞ
     translation: Glorious
     transliteration: majīdun
 ---

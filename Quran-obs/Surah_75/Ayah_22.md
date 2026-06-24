@@ -1,17 +1,17 @@
 ---
-arabic_ayat: وُجُوۡهٌ يَّوۡمَٮِٕذٍ نَّاضِرَةٌ ۙ‏
+arabic_ayat: وُجُوهٞ يَوۡمَئِذٖ نَّاضِرَةٌ
 sentence_translation: On that Day ˹some˺ faces will be bright,
 word_by_word:
   1:
-    arabic: وُجُوۡهٌ
+    arabic: وُجُوهٞ
     translation: Faces
     transliteration: wujūhun
   2:
-    arabic: يَّوۡمَٮِٕذٍ
+    arabic: يَوۡمَئِذٖ
     translation: that Day
     transliteration: yawma-idhin
   3:
-    arabic: نَّاضِرَةٌ ۙ‏
+    arabic: نَّاضِرَةٌ
     translation: (will be) radiant
     transliteration: nāḍiratun
 ---

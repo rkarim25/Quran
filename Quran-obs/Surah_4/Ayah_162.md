@@ -1,27 +1,27 @@
 ---
-arabic_ayat: لٰـكِنِ الرّٰسِخُوۡنَ فِى الۡعِلۡمِ مِنۡهُمۡ وَالۡمُؤۡمِنُوۡنَ يُـؤۡمِنُوۡنَ
-  بِمَاۤ اُنۡزِلَ اِلَيۡكَ وَمَاۤ اُنۡزِلَ مِنۡ قَبۡلِكَ​ وَالۡمُقِيۡمِيۡنَ الصَّلٰوةَ​
-  وَالۡمُؤۡتُوۡنَ الزَّكٰوةَ وَ الۡمُؤۡمِنُوۡنَ بِاللّٰهِ وَالۡيَوۡمِ الۡاٰخِرِ ؕ
-  اُولٰٓٮِٕكَ سَنُؤۡتِيۡهِمۡ اَجۡرًا عَظِيۡمًا‏
+arabic_ayat: لَّٰكِنِ ٱلرَّٰسِخُونَ فِي ٱلۡعِلۡمِ مِنۡهُمۡ وَٱلۡمُؤۡمِنُونَ يُؤۡمِنُونَ
+  بِمَآ أُنزِلَ إِلَيۡكَ وَمَآ أُنزِلَ مِن قَبۡلِكَۚ وَٱلۡمُقِيمِينَ ٱلصَّلَوٰةَۚ
+  وَٱلۡمُؤۡتُونَ ٱلزَّكَوٰةَ وَٱلۡمُؤۡمِنُونَ بِٱللَّهِ وَٱلۡيَوۡمِ ٱلۡأٓخِرِ أُوْلَٰٓئِكَ
+  سَنُؤۡتِيهِمۡ أَجۡرًا عَظِيمًا
 sentence_translation: But those of them well-grounded in knowledge, the faithful ˹who˺
   believe in what has been revealed to you ˹O Prophet˺ and what was revealed before
   you—˹especially˺ those who establish prayer—and those who pay alms-tax and believe
   in Allah and the Last Day, to these ˹people˺ We will grant a great reward.
 word_by_word:
   1:
-    arabic: لٰـكِنِ
+    arabic: لَّٰكِنِ
     translation: But
     transliteration: lākini
   2:
-    arabic: الرّٰسِخُوۡنَ
+    arabic: ٱلرَّٰسِخُونَ
     translation: the ones who are firm
     transliteration: l-rāsikhūna
   3:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   4:
-    arabic: الۡعِلۡمِ
+    arabic: ٱلۡعِلۡمِ
     translation: the knowledge
     transliteration: l-ʿil'mi
   5:
@@ -29,87 +29,87 @@ word_by_word:
     translation: among them
     transliteration: min'hum
   6:
-    arabic: وَالۡمُؤۡمِنُوۡنَ
+    arabic: وَٱلۡمُؤۡمِنُونَ
     translation: and the believers
     transliteration: wal-mu'minūna
   7:
-    arabic: يُـؤۡمِنُوۡنَ
+    arabic: يُؤۡمِنُونَ
     translation: believe
     transliteration: yu'minūna
   8:
-    arabic: بِمَاۤ
+    arabic: بِمَآ
     translation: in what
     transliteration: bimā
   9:
-    arabic: اُنۡزِلَ
+    arabic: أُنزِلَ
     translation: (is) revealed
     transliteration: unzila
   10:
-    arabic: اِلَيۡكَ
+    arabic: إِلَيۡكَ
     translation: to you
     transliteration: ilayka
   11:
-    arabic: وَمَاۤ
+    arabic: وَمَآ
     translation: and what
     transliteration: wamā
   12:
-    arabic: اُنۡزِلَ
+    arabic: أُنزِلَ
     translation: was revealed
     transliteration: unzila
   13:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   14:
-    arabic: قَبۡلِكَ​
+    arabic: قَبۡلِكَۚ
     translation: before you
     transliteration: qablika
   15:
-    arabic: وَالۡمُقِيۡمِيۡنَ
+    arabic: وَٱلۡمُقِيمِينَ
     translation: And the ones who establish
     transliteration: wal-muqīmīna
   16:
-    arabic: الصَّلٰوةَ​
+    arabic: ٱلصَّلَوٰةَۚ
     translation: the prayer
     transliteration: l-ṣalata
   17:
-    arabic: وَالۡمُؤۡتُوۡنَ
+    arabic: وَٱلۡمُؤۡتُونَ
     translation: and the ones who give
     transliteration: wal-mu'tūna
   18:
-    arabic: الزَّكٰوةَ
+    arabic: ٱلزَّكَوٰةَ
     translation: the zakah
     transliteration: l-zakata
   19:
-    arabic: وَ الۡمُؤۡمِنُوۡنَ
+    arabic: وَٱلۡمُؤۡمِنُونَ
     translation: and the ones who believe
     transliteration: wal-mu'minūna
   20:
-    arabic: بِاللّٰهِ
+    arabic: بِٱللَّهِ
     translation: in Allah
     transliteration: bil-lahi
   21:
-    arabic: وَالۡيَوۡمِ
+    arabic: وَٱلۡيَوۡمِ
     translation: and the Day
     transliteration: wal-yawmi
   22:
-    arabic: الۡاٰخِرِ ؕ
+    arabic: ٱلۡأٓخِرِ
     translation: 'the Last '
     transliteration: l-ākhiri
   23:
-    arabic: اُولٰٓٮِٕكَ
+    arabic: أُوْلَٰٓئِكَ
     translation: those
     transliteration: ulāika
   24:
-    arabic: سَنُؤۡتِيۡهِمۡ
+    arabic: سَنُؤۡتِيهِمۡ
     translation: We will give them
     transliteration: sanu'tīhim
   25:
-    arabic: اَجۡرًا
+    arabic: أَجۡرًا
     translation: a reward
     transliteration: ajran
   26:
-    arabic: عَظِيۡمًا‏
+    arabic: عَظِيمًا
     translation: great
     transliteration: ʿaẓīman
 ---

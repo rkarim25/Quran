@@ -1,37 +1,37 @@
 ---
-arabic_ayat: يٰۤاَيُّهَا الَّذِيۡنَ اٰمَنُوۡۤا اِذَا نَاجَيۡتُمُ الرَّسُوۡلَ فَقَدِّمُوۡا
-  بَيۡنَ يَدَىۡ نَجۡوٰٮكُمۡ صَدَقَةً  ​ؕ ذٰ لِكَ خَيۡرٌ لَّكُمۡ وَاَطۡهَرُ ​ؕ فَاِنۡ
-  لَّمۡ تَجِدُوۡا فَاِنَّ اللّٰهَ غَفُوۡرٌ رَّحِيۡمٌ‏
+arabic_ayat: يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓاْ إِذَا نَٰجَيۡتُمُ ٱلرَّسُولَ فَقَدِّمُواْ
+  بَيۡنَ يَدَيۡ نَجۡوَىٰكُمۡ صَدَقَةٗۚ ذَٰلِكَ خَيۡرٞ لَّكُمۡ وَأَطۡهَرُۚ فَإِن لَّمۡ
+  تَجِدُواْ فَإِنَّ ٱللَّهَ غَفُورٞ رَّحِيمٌ
 sentence_translation: O believers! When you consult the Messenger privately, give
   something in charity before your consultation. That is better and purer for you.
   But if you lack the means, then Allah is truly All-Forgiving, Most Merciful.
 word_by_word:
   1:
-    arabic: يٰۤاَيُّهَا
+    arabic: يَٰٓأَيُّهَا
     translation: O you who believe
     transliteration: yāayyuhā
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ ءَ
     translation: O you who believe
     transliteration: alladhīna
   3:
-    arabic: اٰمَنُوۡۤا
+    arabic: امَنُوٓاْ
     translation: O you who believe
     transliteration: āmanū
   4:
-    arabic: اِذَا
+    arabic: إِذَا
     translation: When
     transliteration: idhā
   5:
-    arabic: نَاجَيۡتُمُ
+    arabic: نَٰجَيۡتُمُ
     translation: you privately consult
     transliteration: nājaytumu
   6:
-    arabic: الرَّسُوۡلَ
+    arabic: ٱلرَّسُولَ
     translation: the Messenger
     transliteration: l-rasūla
   7:
-    arabic: فَقَدِّمُوۡا
+    arabic: فَقَدِّمُواْ
     translation: then offer
     transliteration: faqaddimū
   8:
@@ -39,23 +39,23 @@ word_by_word:
     translation: before
     transliteration: bayna
   9:
-    arabic: يَدَىۡ
+    arabic: يَدَيۡ
     translation: before
     transliteration: yaday
   10:
-    arabic: نَجۡوٰٮكُمۡ
+    arabic: نَجۡوَىٰكُمۡ
     translation: your private consultation
     transliteration: najwākum
   11:
-    arabic: صَدَقَةً  ​ؕ
+    arabic: صَدَقَةٗۚ
     translation: charity
     transliteration: ṣadaqatan
   12:
-    arabic: ذٰ لِكَ
+    arabic: ذَٰلِكَ
     translation: That
     transliteration: dhālika
   13:
-    arabic: خَيۡرٌ
+    arabic: خَيۡرٞ
     translation: (is) better
     transliteration: khayrun
   14:
@@ -63,11 +63,11 @@ word_by_word:
     translation: for you
     transliteration: lakum
   15:
-    arabic: وَاَطۡهَرُ ​ؕ
+    arabic: وَأَطۡهَرُۚ
     translation: and purer
     transliteration: wa-aṭharu
   16:
-    arabic: فَاِنۡ
+    arabic: فَإِن
     translation: But if
     transliteration: fa-in
   17:
@@ -75,23 +75,23 @@ word_by_word:
     translation: not
     transliteration: lam
   18:
-    arabic: تَجِدُوۡا
+    arabic: تَجِدُواْ
     translation: you find
     transliteration: tajidū
   19:
-    arabic: فَاِنَّ
+    arabic: فَإِنَّ
     translation: then indeed
     transliteration: fa-inna
   20:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   21:
-    arabic: غَفُوۡرٌ
+    arabic: غَفُورٞ
     translation: (is) Oft-Forgiving
     transliteration: ghafūrun
   22:
-    arabic: رَّحِيۡمٌ‏
+    arabic: رَّحِيمٌ
     translation: Most Merciful
     transliteration: raḥīmun
 ---

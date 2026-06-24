@@ -1,6 +1,6 @@
 ---
-arabic_ayat: كُتِبَ عَلَيۡهِ اَنَّهٗ مَنۡ تَوَلَّاهُ فَاَنَّهٗ يُضِلُّهٗ وَيَهۡدِيۡهِ
-  اِلٰى عَذَابِ السَّعِيۡرِ‏
+arabic_ayat: كُتِبَ عَلَيۡهِ أَنَّهُۥ مَن تَوَلَّاهُ فَأَنَّهُۥ يُضِلُّهُۥ وَيَهۡدِيهِ
+  إِلَىٰ عَذَابِ ٱلسَّعِيرِ
 sentence_translation: It has been decreed for such devils that whoever takes them
   as a guide will be misguided and led by them into the torment of the Blaze.
 word_by_word:
@@ -13,11 +13,11 @@ word_by_word:
     translation: for him
     transliteration: ʿalayhi
   3:
-    arabic: اَنَّهٗ
+    arabic: أَنَّهُۥ
     translation: that he
     transliteration: annahu
   4:
-    arabic: مَنۡ
+    arabic: مَن
     translation: who
     transliteration: man
   5:
@@ -25,19 +25,19 @@ word_by_word:
     translation: befriends him
     transliteration: tawallāhu
   6:
-    arabic: فَاَنَّهٗ
+    arabic: فَأَنَّهُۥ
     translation: then indeed, he
     transliteration: fa-annahu
   7:
-    arabic: يُضِلُّهٗ
+    arabic: يُضِلُّهُۥ
     translation: will misguide him
     transliteration: yuḍilluhu
   8:
-    arabic: وَيَهۡدِيۡهِ
+    arabic: وَيَهۡدِيهِ
     translation: and will guide him
     transliteration: wayahdīhi
   9:
-    arabic: اِلٰى
+    arabic: إِلَىٰ
     translation: to
     transliteration: ilā
   10:
@@ -45,7 +45,7 @@ word_by_word:
     translation: (the) punishment
     transliteration: ʿadhābi
   11:
-    arabic: السَّعِيۡرِ‏
+    arabic: ٱلسَّعِيرِ
     translation: (of) the Blaze
     transliteration: l-saʿīri
 ---

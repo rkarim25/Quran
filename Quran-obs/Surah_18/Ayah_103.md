@@ -1,5 +1,5 @@
 ---
-arabic_ayat: قُلۡ هَلۡ نُـنَبِّئُكُمۡ بِالۡاَخۡسَرِيۡنَ اَعۡمَالًا ؕ‏
+arabic_ayat: قُلۡ هَلۡ نُنَبِّئُكُم بِٱلۡأَخۡسَرِينَ أَعۡمَٰلًا
 sentence_translation: Say, ˹O Prophet,˺ “Shall we inform you of who will lose the
   most deeds?
 word_by_word:
@@ -12,15 +12,15 @@ word_by_word:
     translation: Shall
     transliteration: hal
   3:
-    arabic: نُـنَبِّئُكُمۡ
+    arabic: نُنَبِّئُكُم
     translation: We inform you
     transliteration: nunabbi-ukum
   4:
-    arabic: بِالۡاَخۡسَرِيۡنَ
+    arabic: بِٱلۡأَخۡسَرِينَ
     translation: of the greatest losers
     transliteration: bil-akhsarīna
   5:
-    arabic: اَعۡمَالًا ؕ‏
+    arabic: أَعۡمَٰلًا
     translation: (as to their) deeds
     transliteration: aʿmālan
 ---

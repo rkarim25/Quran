@@ -1,13 +1,13 @@
 ---
-arabic_ayat: "وَاِذَا مَسَّكُمُ الضُّرُّ فِى الۡبَحۡرِ ضَلَّ مَنۡ تَدۡعُوۡنَ اِلَّاۤ\
-  \ اِيَّاهُ​ ۚ فَلَمَّا نَجّٰٮكُمۡ اِلَى الۡبَرِّ اَعۡرَضۡتُمۡ​ ؕ وَكَانَ الۡاِنۡسَانُ\
-  \ كَفُوۡرًا‏ \uFEFF\uFEFF"
+arabic_ayat: وَإِذَا مَسَّكُمُ ٱلضُّرُّ فِي ٱلۡبَحۡرِ ضَلَّ مَن تَدۡعُونَ إِلَّآ
+  إِيَّاهُۖ فَلَمَّا نَجَّىٰكُمۡ إِلَى ٱلۡبَرِّ أَعۡرَضۡتُمۡۚ وَكَانَ ٱلۡإِنسَٰنُ
+  كَفُورًا
 sentence_translation: When you are touched with hardship at sea, you ˹totally˺ forget
   all ˹the gods˺ you ˹normally˺ invoke, except Him. But when He delivers you ˹safely˺
   to shore, you turn away. Humankind is ever ungrateful.
 word_by_word:
   1:
-    arabic: وَاِذَا
+    arabic: وَإِذَا
     translation: And when
     transliteration: wa-idhā
   2:
@@ -15,15 +15,15 @@ word_by_word:
     translation: touches you
     transliteration: massakumu
   3:
-    arabic: الضُّرُّ
+    arabic: ٱلضُّرُّ
     translation: the hardship
     transliteration: l-ḍuru
   4:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   5:
-    arabic: الۡبَحۡرِ
+    arabic: ٱلۡبَحۡرِ
     translation: the sea
     transliteration: l-baḥri
   6:
@@ -31,19 +31,19 @@ word_by_word:
     translation: lost
     transliteration: ḍalla
   7:
-    arabic: مَنۡ
+    arabic: مَن
     translation: (are) who
     transliteration: man
   8:
-    arabic: تَدۡعُوۡنَ
+    arabic: تَدۡعُونَ
     translation: you call
     transliteration: tadʿūna
   9:
-    arabic: اِلَّاۤ
+    arabic: إِلَّآ
     translation: except
     transliteration: illā
   10:
-    arabic: اِيَّاهُ​ ۚ
+    arabic: إِيَّاهُۖ
     translation: Him Alone
     transliteration: iyyāhu
   11:
@@ -51,19 +51,19 @@ word_by_word:
     translation: But when
     transliteration: falammā
   12:
-    arabic: نَجّٰٮكُمۡ
+    arabic: نَجَّىٰكُمۡ
     translation: He delivers you
     transliteration: najjākum
   13:
-    arabic: اِلَى
+    arabic: إِلَى
     translation: to
     transliteration: ilā
   14:
-    arabic: الۡبَرِّ
+    arabic: ٱلۡبَرِّ
     translation: the land
     transliteration: l-bari
   15:
-    arabic: اَعۡرَضۡتُمۡ​ ؕ
+    arabic: أَعۡرَضۡتُمۡۚ
     translation: you turn away
     transliteration: aʿraḍtum
   16:
@@ -71,11 +71,11 @@ word_by_word:
     translation: And is
     transliteration: wakāna
   17:
-    arabic: الۡاِنۡسَانُ
+    arabic: ٱلۡإِنسَٰنُ
     translation: man
     transliteration: l-insānu
   18:
-    arabic: "كَفُوۡرًا‏ \uFEFF\uFEFF"
+    arabic: كَفُورًا
     translation: ungrateful
     transliteration: kafūran
 ---

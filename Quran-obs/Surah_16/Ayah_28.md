@@ -1,37 +1,37 @@
 ---
-arabic_ayat: الَّذِيۡنَ تَتَوَفّٰٮهُمُ الۡمَلٰۤٮِٕكَةُ ظَالِمِىۡۤ اَنۡفُسِهِمۡ​ فَاَلۡقَوُا
-  السَّلَمَ مَا كُنَّا نَـعۡمَلُ مِنۡ سُوۡۤءٍؕ بَلٰٓى اِنَّ اللّٰهَ عَلِيۡمٌۢ بِمَا
-  كُنۡتُمۡ تَعۡمَلُوۡنَ‏
+arabic_ayat: ٱلَّذِينَ تَتَوَفَّىٰهُمُ ٱلۡمَلَٰٓئِكَةُ ظَالِمِيٓ أَنفُسِهِمۡۖ فَأَلۡقَوُاْ
+  ٱلسَّلَمَ مَا كُنَّا نَعۡمَلُ مِن سُوٓءِۭۚ بَلَىٰٓۚ إِنَّ ٱللَّهَ عَلِيمُۢ بِمَا
+  كُنتُمۡ تَعۡمَلُونَ
 sentence_translation: Those whose souls the angels seize while they wrong themselves
   will then offer ˹full˺ submission ˹and say falsely,˺ “We did not do any evil.” ˹The
   angels will say,˺ “No! Surely Allah fully knows what you used to do.
 word_by_word:
   1:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: 'Those whom '
     transliteration: alladhīna
   2:
-    arabic: تَتَوَفّٰٮهُمُ
+    arabic: تَتَوَفَّىٰهُمُ
     translation: take them in death
     transliteration: tatawaffāhumu
   3:
-    arabic: الۡمَلٰۤٮِٕكَةُ
+    arabic: ٱلۡمَلَٰٓئِكَةُ
     translation: the Angels
     transliteration: l-malāikatu
   4:
-    arabic: ظَالِمِىۡۤ
+    arabic: ظَالِمِيٓ
     translation: (while) wronging
     transliteration: ẓālimī
   5:
-    arabic: اَنۡفُسِهِمۡ​
+    arabic: أَنفُسِهِمۡۖ
     translation: themselves
     transliteration: anfusihim
   6:
-    arabic: فَاَلۡقَوُا
+    arabic: فَأَلۡقَوُاْ
     translation: then they would offer
     transliteration: fa-alqawū
   7:
-    arabic: السَّلَمَ
+    arabic: ٱلسَّلَمَ
     translation: the submission
     transliteration: l-salama
   8:
@@ -43,31 +43,31 @@ word_by_word:
     translation: we were
     transliteration: kunnā
   10:
-    arabic: نَـعۡمَلُ
+    arabic: نَعۡمَلُ
     translation: doing
     transliteration: naʿmalu
   11:
-    arabic: مِنۡ
+    arabic: مِن
     translation: any
     transliteration: min
   12:
-    arabic: سُوۡۤءٍؕ
+    arabic: سُوٓءِۭۚ
     translation: evil
     transliteration: sūin
   13:
-    arabic: بَلٰٓى
+    arabic: بَلَىٰٓۚ
     translation: Nay
     transliteration: balā
   14:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: indeed
     transliteration: inna
   15:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   16:
-    arabic: عَلِيۡمٌۢ
+    arabic: عَلِيمُۢ
     translation: (is) All-Knower
     transliteration: ʿalīmun
   17:
@@ -75,11 +75,11 @@ word_by_word:
     translation: of what
     transliteration: bimā
   18:
-    arabic: كُنۡتُمۡ
+    arabic: كُنتُمۡ
     translation: you used (to)
     transliteration: kuntum
   19:
-    arabic: تَعۡمَلُوۡنَ‏
+    arabic: تَعۡمَلُونَ
     translation: do
     transliteration: taʿmalūna
 ---

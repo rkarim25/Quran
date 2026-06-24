@@ -1,9 +1,9 @@
 ---
-arabic_ayat: كَلَّا بَلۡ تُحِبُّوۡنَ الۡعَاجِلَةَ ۙ‏
+arabic_ayat: كـَلَّا بَلۡ تُحِبُّونَ ٱلۡعَاجِلَةَ
 sentence_translation: But no! In fact, you love this fleeting world,
 word_by_word:
   1:
-    arabic: كَلَّا
+    arabic: كـَلَّا
     translation: 'No'
     transliteration: kallā
   2:
@@ -11,11 +11,11 @@ word_by_word:
     translation: But
     transliteration: bal
   3:
-    arabic: تُحِبُّوۡنَ
+    arabic: تُحِبُّونَ
     translation: you love
     transliteration: tuḥibbūna
   4:
-    arabic: الۡعَاجِلَةَ ۙ‏
+    arabic: ٱلۡعَاجِلَةَ
     translation: the immediate
     transliteration: l-ʿājilata
 ---

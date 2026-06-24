@@ -1,7 +1,6 @@
 ---
-arabic_ayat: "وَكَمۡ اَهۡلَـكۡنَا مِنۡ قَرۡيَةٍۢ بَطِرَتۡ مَعِيۡشَتَهَا ​ۚ فَتِلۡكَ\
-  \ مَسٰكِنُهُمۡ لَمۡ تُسۡكَنۡ مِّنۡۢ بَعۡدِهِمۡ اِلَّا قَلِيۡلًا ؕ وَكُنَّا نَحۡنُ\
-  \ الۡوٰرِثِيۡنَ‏ \uFEFF\uFEFF"
+arabic_ayat: وَكَمۡ أَهۡلَكۡنَا مِن قَرۡيَةِۭ بَطِرَتۡ مَعِيشَتَهَاۖ فَتِلۡكَ مَسَٰكِنُهُمۡ
+  لَمۡ تُسۡكَن مِّنۢ بَعۡدِهِمۡ إِلَّا قَلِيلٗاۖ وَكُنَّا نَحۡنُ ٱلۡوَٰرِثِينَ
 sentence_translation: ˹Imagine˺ how many societies We have destroyed that had been
   spoiled by their ˹comfortable˺ living! Those are their residences, never inhabited
   after them except passingly. And We ˹alone˺ were the Successor.
@@ -11,15 +10,15 @@ word_by_word:
     translation: And how many
     transliteration: wakam
   2:
-    arabic: اَهۡلَـكۡنَا
+    arabic: أَهۡلَكۡنَا
     translation: We have destroyed
     transliteration: ahlaknā
   3:
-    arabic: مِنۡ
+    arabic: مِن
     translation: of
     transliteration: min
   4:
-    arabic: قَرۡيَةٍۢ
+    arabic: قَرۡيَةِۭ
     translation: a town
     transliteration: qaryatin
   5:
@@ -27,7 +26,7 @@ word_by_word:
     translation: which exulted
     transliteration: baṭirat
   6:
-    arabic: مَعِيۡشَتَهَا ​ۚ
+    arabic: مَعِيشَتَهَاۖ
     translation: (in) its means of livelihood
     transliteration: maʿīshatahā
   7:
@@ -35,7 +34,7 @@ word_by_word:
     translation: And these
     transliteration: fatil'ka
   8:
-    arabic: مَسٰكِنُهُمۡ
+    arabic: مَسَٰكِنُهُمۡ
     translation: (are) their dwellings
     transliteration: masākinuhum
   9:
@@ -43,11 +42,11 @@ word_by_word:
     translation: not
     transliteration: lam
   10:
-    arabic: تُسۡكَنۡ
+    arabic: تُسۡكَن
     translation: have been inhabited
     transliteration: tus'kan
   11:
-    arabic: مِّنۡۢ
+    arabic: مِّنۢ
     translation: after them
     transliteration: min
   12:
@@ -55,11 +54,11 @@ word_by_word:
     translation: after them
     transliteration: baʿdihim
   13:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   14:
-    arabic: قَلِيۡلًا ؕ
+    arabic: قَلِيلٗاۖ
     translation: a little
     transliteration: qalīlan
   15:
@@ -71,7 +70,7 @@ word_by_word:
     translation: We
     transliteration: naḥnu
   17:
-    arabic: "الۡوٰرِثِيۡنَ‏ \uFEFF\uFEFF"
+    arabic: ٱلۡوَٰرِثِينَ
     translation: (are) the inheritors
     transliteration: l-wārithīna
 ---

@@ -1,22 +1,22 @@
 ---
-arabic_ayat: وَلَـقَدۡ نَـعۡلَمُ اَنَّكَ يَضِيۡقُ صَدۡرُكَ بِمَا يَقُوۡلُوۡنَۙ‏
+arabic_ayat: وَلَقَدۡ نَعۡلَمُ أَنَّكَ يَضِيقُ صَدۡرُكَ بِمَا يَقُولُونَ
 sentence_translation: We certainly know that your heart is truly distressed by what
   they say.
 word_by_word:
   1:
-    arabic: وَلَـقَدۡ
+    arabic: وَلَقَدۡ
     translation: And verily
     transliteration: walaqad
   2:
-    arabic: نَـعۡلَمُ
+    arabic: نَعۡلَمُ
     translation: We know
     transliteration: naʿlamu
   3:
-    arabic: اَنَّكَ
+    arabic: أَنَّكَ
     translation: that [you]
     transliteration: annaka
   4:
-    arabic: يَضِيۡقُ
+    arabic: يَضِيقُ
     translation: (is) straitened
     transliteration: yaḍīqu
   5:
@@ -28,7 +28,7 @@ word_by_word:
     translation: by what
     transliteration: bimā
   7:
-    arabic: يَقُوۡلُوۡنَۙ‏
+    arabic: يَقُولُونَ
     translation: they say
     transliteration: yaqūlūna
 ---

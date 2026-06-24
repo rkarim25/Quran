@@ -1,11 +1,11 @@
 ---
-arabic_ayat: فَاِذَا قُضِيَتِ الصَّلٰوةُ فَانْتَشِرُوۡا فِى الۡاَرۡضِ وَابۡتَغُوۡا
-  مِنۡ فَضۡلِ اللّٰهِ وَاذۡكُرُوا اللّٰهَ كَثِيۡرًا لَّعَلَّكُمۡ تُفۡلِحُوۡنَ‏
+arabic_ayat: فَإِذَا قُضِيَتِ ٱلصَّلَوٰةُ فَٱنتَشِرُواْ فِي ٱلۡأَرۡضِ وَٱبۡتَغُواْ
+  مِن فَضۡلِ ٱللَّهِ وَٱذۡكُرُواْ ٱللَّهَ كَثِيرٗا لَّعَلَّكُمۡ تُفۡلِحُونَ
 sentence_translation: Once the prayer is over, disperse throughout the land and seek
   the bounty of Allah. And remember Allah often so you may be successful.
 word_by_word:
   1:
-    arabic: فَاِذَا
+    arabic: فَإِذَا
     translation: Then when
     transliteration: fa-idhā
   2:
@@ -13,27 +13,27 @@ word_by_word:
     translation: is concluded
     transliteration: quḍiyati
   3:
-    arabic: الصَّلٰوةُ
+    arabic: ٱلصَّلَوٰةُ
     translation: the prayer
     transliteration: l-ṣalatu
   4:
-    arabic: فَانْتَشِرُوۡا
+    arabic: فَٱنتَشِرُواْ
     translation: then disperse
     transliteration: fa-intashirū
   5:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   6:
-    arabic: الۡاَرۡضِ
+    arabic: ٱلۡأَرۡضِ
     translation: the land
     transliteration: l-arḍi
   7:
-    arabic: وَابۡتَغُوۡا
+    arabic: وَٱبۡتَغُواْ
     translation: and seek
     transliteration: wa-ib'taghū
   8:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   9:
@@ -41,19 +41,19 @@ word_by_word:
     translation: (the) Bounty
     transliteration: faḍli
   10:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (of) Allah
     transliteration: l-lahi
   11:
-    arabic: وَاذۡكُرُوا
+    arabic: وَٱذۡكُرُواْ
     translation: and remember
     transliteration: wa-udh'kurū
   12:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   13:
-    arabic: كَثِيۡرًا
+    arabic: كَثِيرٗا
     translation: much
     transliteration: kathīran
   14:
@@ -61,7 +61,7 @@ word_by_word:
     translation: so that you may
     transliteration: laʿallakum
   15:
-    arabic: تُفۡلِحُوۡنَ‏
+    arabic: تُفۡلِحُونَ
     translation: succeed
     transliteration: tuf'liḥūna
 ---

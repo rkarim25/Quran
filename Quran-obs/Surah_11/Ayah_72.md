@@ -1,6 +1,6 @@
 ---
-arabic_ayat: قَالَتۡ يٰوَيۡلَتٰٓى ءَاَلِدُ وَاَنَا عَجُوۡزٌ وَّهٰذَا بَعۡلِىۡ شَيۡخًا
-  ​ؕ اِنَّ هٰذَا لَشَىۡءٌ عَجِيۡبٌ‏
+arabic_ayat: قَالَتۡ يَٰوَيۡلَتَىٰٓ ءَأَلِدُ وَأَنَا۠ عَجُوزٞ وَهَٰذَا بَعۡلِي شَيۡخًاۖ
+  إِنَّ هَٰذَا لَشَيۡءٌ عَجِيبٞ
 sentence_translation: She wondered, “Oh, my! How can I have a child in this old age,
   and my husband here is an old man? This is truly an astonishing thing!”
 word_by_word:
@@ -9,47 +9,47 @@ word_by_word:
     translation: She said
     transliteration: qālat
   2:
-    arabic: يٰوَيۡلَتٰٓى
+    arabic: يَٰوَيۡلَتَىٰٓ
     translation: Woe to me
     transliteration: yāwaylatā
   3:
-    arabic: ءَاَلِدُ
+    arabic: ءَأَلِدُ
     translation: Shall I bear a child
     transliteration: a-alidu
   4:
-    arabic: وَاَنَا
+    arabic: وَأَنَا۠
     translation: while I am
     transliteration: wa-anā
   5:
-    arabic: عَجُوۡزٌ
+    arabic: عَجُوزٞ
     translation: an old woman
     transliteration: ʿajūzun
   6:
-    arabic: وَّهٰذَا
+    arabic: وَهَٰذَا
     translation: and this
     transliteration: wahādhā
   7:
-    arabic: بَعۡلِىۡ
+    arabic: بَعۡلِي
     translation: my husband
     transliteration: baʿlī
   8:
-    arabic: شَيۡخًا ​ؕ
+    arabic: شَيۡخًاۖ
     translation: (is) an old man
     transliteration: shaykhan
   9:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   10:
-    arabic: هٰذَا
+    arabic: هَٰذَا
     translation: this
     transliteration: hādhā
   11:
-    arabic: لَشَىۡءٌ
+    arabic: لَشَيۡءٌ
     translation: (is) surely a thing
     transliteration: lashayon
   12:
-    arabic: عَجِيۡبٌ‏
+    arabic: عَجِيبٞ
     translation: amazing
     transliteration: ʿajībun
 ---

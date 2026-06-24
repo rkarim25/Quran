@@ -1,13 +1,13 @@
 ---
-arabic_ayat: كَلَّاۤ اِذَا دُكَّتِ الۡاَرۡضُ دَكًّا دَكًّا ۙ‏
+arabic_ayat: كـَلَّآۖ إِذَا دُكَّتِ ٱلۡأَرۡضُ دَكّٗا دَكّٗا
 sentence_translation: Enough! When the earth is entirely crushed over and over,
 word_by_word:
   1:
-    arabic: كَلَّاۤ
+    arabic: كـَلَّآۖ
     translation: Nay
     transliteration: kallā
   2:
-    arabic: اِذَا
+    arabic: إِذَا
     translation: When
     transliteration: idhā
   3:
@@ -15,15 +15,15 @@ word_by_word:
     translation: is leveled
     transliteration: dukkati
   4:
-    arabic: الۡاَرۡضُ
+    arabic: ٱلۡأَرۡضُ
     translation: the earth
     transliteration: l-arḍu
   5:
-    arabic: دَكًّا
+    arabic: دَكّٗا
     translation: pounded
     transliteration: dakkan
   6:
-    arabic: دَكًّا ۙ‏
+    arabic: دَكّٗا
     translation: (and) crushed
     transliteration: dakkan
 ---

@@ -1,7 +1,7 @@
 ---
-arabic_ayat: هُوَ الَّذِىۡ جَعَلَ الشَّمۡسَ ضِيَآءً وَّالۡقَمَرَ نُوۡرًا وَّقَدَّرَهٗ
-  مَنَازِلَ لِتَعۡلَمُوۡا عَدَدَ السِّنِيۡنَ وَالۡحِسَابَ​ؕ مَا خَلَقَ اللّٰهُ ذٰلِكَ
-  اِلَّا بِالۡحَـقِّ​ۚ يُفَصِّلُ الۡاٰيٰتِ لِقَوۡمٍ يَّعۡلَمُوۡنَ‏
+arabic_ayat: هُوَ ٱلَّذِي جَعَلَ ٱلشَّمۡسَ ضِيَآءٗ وَٱلۡقَمَرَ نُورٗا وَقَدَّرَهُۥ
+  مَنَازِلَ لِتَعۡلَمُواْ عَدَدَ ٱلسِّنِينَ وَٱلۡحِسَابَۚ مَا خَلَقَ ٱللَّهُ ذَٰلِكَ
+  إِلَّا بِٱلۡحَقِّۚ يُفَصِّلُ ٱلۡأٓيَٰتِ لِقَوۡمٖ يَعۡلَمُونَ
 sentence_translation: He is the One Who made the sun a radiant source and the moon
   a reflected light, with precisely ordained phases, so that you may know the number
   of years and calculation ˹of time˺. Allah did not create all this except for a purpose.
@@ -12,7 +12,7 @@ word_by_word:
     translation: He
     transliteration: huwa
   2:
-    arabic: الَّذِىۡ
+    arabic: ٱلَّذِي
     translation: (is) the One Who
     transliteration: alladhī
   3:
@@ -20,23 +20,23 @@ word_by_word:
     translation: made
     transliteration: jaʿala
   4:
-    arabic: الشَّمۡسَ
+    arabic: ٱلشَّمۡسَ
     translation: the sun
     transliteration: l-shamsa
   5:
-    arabic: ضِيَآءً
+    arabic: ضِيَآءٗ
     translation: a shining light
     transliteration: ḍiyāan
   6:
-    arabic: وَّالۡقَمَرَ
+    arabic: وَٱلۡقَمَرَ
     translation: and the moon
     transliteration: wal-qamara
   7:
-    arabic: نُوۡرًا
+    arabic: نُورٗا
     translation: a reflected light
     transliteration: nūran
   8:
-    arabic: وَّقَدَّرَهٗ
+    arabic: وَقَدَّرَهُۥ
     translation: and determined for it
     transliteration: waqaddarahu
   9:
@@ -44,7 +44,7 @@ word_by_word:
     translation: phases
     transliteration: manāzila
   10:
-    arabic: لِتَعۡلَمُوۡا
+    arabic: لِتَعۡلَمُواْ
     translation: that you may know
     transliteration: litaʿlamū
   11:
@@ -52,11 +52,11 @@ word_by_word:
     translation: (the) number
     transliteration: ʿadada
   12:
-    arabic: السِّنِيۡنَ
+    arabic: ٱلسِّنِينَ
     translation: (of) the years
     transliteration: l-sinīna
   13:
-    arabic: وَالۡحِسَابَ​ؕ
+    arabic: وَٱلۡحِسَابَۚ
     translation: and the count (of time)
     transliteration: wal-ḥisāba
   14:
@@ -68,19 +68,19 @@ word_by_word:
     translation: created
     transliteration: khalaqa
   16:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   17:
-    arabic: ذٰلِكَ
+    arabic: ذَٰلِكَ
     translation: that
     transliteration: dhālika
   18:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   19:
-    arabic: بِالۡحَـقِّ​ۚ
+    arabic: بِٱلۡحَقِّۚ
     translation: in truth
     transliteration: bil-ḥaqi
   20:
@@ -88,15 +88,15 @@ word_by_word:
     translation: He explains
     transliteration: yufaṣṣilu
   21:
-    arabic: الۡاٰيٰتِ
+    arabic: ٱلۡأٓيَٰتِ
     translation: the Signs
     transliteration: l-āyāti
   22:
-    arabic: لِقَوۡمٍ
+    arabic: لِقَوۡمٖ
     translation: for a people
     transliteration: liqawmin
   23:
-    arabic: يَّعۡلَمُوۡنَ‏
+    arabic: يَعۡلَمُونَ
     translation: (who) know
     transliteration: yaʿlamūna
 ---

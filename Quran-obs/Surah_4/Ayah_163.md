@@ -1,111 +1,111 @@
 ---
-arabic_ayat: اِنَّاۤ اَوۡحَيۡنَاۤ اِلَيۡكَ كَمَاۤ اَوۡحَيۡنَاۤ اِلٰى نُوۡحٍ وَّالنَّبِيّٖنَ
-  مِنۡۢ بَعۡدِهٖ​ ۚ وَاَوۡحَيۡنَاۤ اِلٰٓى اِبۡرٰهِيۡمَ وَاِسۡمٰعِيۡلَ وَاِسۡحٰقَ وَيَعۡقُوۡبَ
-  وَالۡاَسۡبَاطِ وَعِيۡسٰى وَاَيُّوۡبَ وَيُوۡنُسَ وَهٰرُوۡنَ وَسُلَيۡمٰنَ​ ۚ وَاٰتَيۡنَا
-  دَاوٗدَ زَبُوۡرًا​ ۚ‏
+arabic_ayat: ۞ إِنَّآ أَوۡحَيۡنَآ إِلَيۡكَ كَمَآ أَوۡحَيۡنَآ إِلَىٰ نُوحٖ وَٱلنَّبِيِّـۧنَ
+  مِنۢ بَعۡدِهِۦۚ وَأَوۡحَيۡنَآ إِلَىٰٓ إِبۡرَٰهِيمَ وَإِسۡمَٰعِيلَ وَإِسۡحَٰقَ وَيَعۡقُوبَ
+  وَٱلۡأَسۡبَاطِ وَعِيسَىٰ وَأَيُّوبَ وَيُونُسَ وَهَٰرُونَ وَسُلَيۡمَٰنَۚ وَءَاتَيۡنَا
+  دَاوُۥدَ زَبُورٗا
 sentence_translation: Indeed, We have sent revelation to you ˹O Prophet˺ as We sent
   revelation to Noah and the prophets after him. We also sent revelation to Abraham,
   Ishmael, Isaac, Jacob, and his descendants, ˹as well as˺ Jesus, Job, Jonah, Aaron,
   and Solomon. And to David We gave the Psalms.
 word_by_word:
   1:
-    arabic: ۞ اِنَّاۤ
+    arabic: ۞ إِنَّآ
     translation: Indeed, We
     transliteration: innā
   2:
-    arabic: اَوۡحَيۡنَاۤ
+    arabic: أَوۡحَيۡنَآ
     translation: have revealed
     transliteration: awḥaynā
   3:
-    arabic: اِلَيۡكَ
+    arabic: إِلَيۡكَ
     translation: to you
     transliteration: ilayka
   4:
-    arabic: كَمَاۤ
+    arabic: كَمَآ
     translation: as
     transliteration: kamā
   5:
-    arabic: اَوۡحَيۡنَاۤ
+    arabic: أَوۡحَيۡنَآ
     translation: We revealed
     transliteration: awḥaynā
   6:
-    arabic: اِلٰى
+    arabic: إِلَىٰ
     translation: to
     transliteration: ilā
   7:
-    arabic: نُوۡحٍ
+    arabic: نُوحٖ
     translation: Nuh
     transliteration: nūḥin
   8:
-    arabic: وَّالنَّبِيّٖنَ
+    arabic: وَٱلنَّبِيِّـۧنَ
     translation: and the Prophets
     transliteration: wal-nabiyīna
   9:
-    arabic: مِنۡۢ
+    arabic: مِنۢ
     translation: from
     transliteration: min
   10:
-    arabic: بَعۡدِهٖ​ ۚ
+    arabic: بَعۡدِهِۦۚ
     translation: after him
     transliteration: baʿdihi
   11:
-    arabic: وَاَوۡحَيۡنَاۤ
+    arabic: وَأَوۡحَيۡنَآ
     translation: and We revealed
     transliteration: wa-awḥaynā
   12:
-    arabic: اِلٰٓى
+    arabic: إِلَىٰٓ
     translation: to
     transliteration: ilā
   13:
-    arabic: اِبۡرٰهِيۡمَ
+    arabic: إِبۡرَٰهِيمَ
     translation: Ibrahim
     transliteration: ib'rāhīma
   14:
-    arabic: وَاِسۡمٰعِيۡلَ
+    arabic: وَإِسۡمَٰعِيلَ
     translation: and Ishmael
     transliteration: wa-is'māʿīla
   15:
-    arabic: وَاِسۡحٰقَ
+    arabic: وَإِسۡحَٰقَ
     translation: and Isaac
     transliteration: wa-is'ḥāqa
   16:
-    arabic: وَيَعۡقُوۡبَ
+    arabic: وَيَعۡقُوبَ
     translation: and Yaqub
     transliteration: wayaʿqūba
   17:
-    arabic: وَالۡاَسۡبَاطِ
+    arabic: وَٱلۡأَسۡبَاطِ
     translation: and the tribes
     transliteration: wal-asbāṭi
   18:
-    arabic: وَعِيۡسٰى
+    arabic: وَعِيسَىٰ
     translation: and Isa
     transliteration: waʿīsā
   19:
-    arabic: وَاَيُّوۡبَ
+    arabic: وَأَيُّوبَ
     translation: and Ayyub
     transliteration: wa-ayyūba
   20:
-    arabic: وَيُوۡنُسَ
+    arabic: وَيُونُسَ
     translation: and Yunus
     transliteration: wayūnusa
   21:
-    arabic: وَهٰرُوۡنَ
+    arabic: وَهَٰرُونَ
     translation: and Harun
     transliteration: wahārūna
   22:
-    arabic: وَسُلَيۡمٰنَ​ ۚ
+    arabic: وَسُلَيۡمَٰنَۚ
     translation: and Sulaiman
     transliteration: wasulaymāna
   23:
-    arabic: وَاٰتَيۡنَا
+    arabic: وَءَاتَيۡنَا
     translation: and We gave
     transliteration: waātaynā
   24:
-    arabic: دَاوٗدَ
+    arabic: دَاوُۥدَ
     translation: (to) Dawood
     transliteration: dāwūda
   25:
-    arabic: زَبُوۡرًا​ ۚ‏
+    arabic: زَبُورٗا
     translation: the Zaboor
     transliteration: zabūran
 ---

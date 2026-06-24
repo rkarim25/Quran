@@ -1,35 +1,35 @@
 ---
-arabic_ayat: فَاِنۡ يَّصۡبِرُوۡا فَالنَّارُ مَثۡوًى لَّهُمۡ​ؕ وَاِنۡ يَّسۡتَعۡتِبُوۡا
-  فَمَا هُمۡ مِّنَ الۡمُعۡتَبِيۡنَ‏
+arabic_ayat: فَإِن يَصۡبِرُواْ فَٱلنَّارُ مَثۡوٗى لَّهُمۡۖ وَإِن يَسۡتَعۡتِبُواْ فَمَا
+  هُم مِّنَ ٱلۡمُعۡتَبِينَ
 sentence_translation: Even if they endure patiently, the Fire will ˹always˺ be their
   home. And if they ˹beg to˺ appease ˹their Lord˺, they will never be allowed to.
 word_by_word:
   1:
-    arabic: فَاِنۡ
+    arabic: فَإِن
     translation: Then if
     transliteration: fa-in
   2:
-    arabic: يَّصۡبِرُوۡا
+    arabic: يَصۡبِرُواْ
     translation: they endure
     transliteration: yaṣbirū
   3:
-    arabic: فَالنَّارُ
+    arabic: فَٱلنَّارُ
     translation: the Fire
     transliteration: fal-nāru
   4:
-    arabic: مَثۡوًى
+    arabic: مَثۡوٗى
     translation: (is) an abode
     transliteration: mathwan
   5:
-    arabic: لَّهُمۡ​ؕ
+    arabic: لَّهُمۡۖ
     translation: for them
     transliteration: lahum
   6:
-    arabic: وَاِنۡ
+    arabic: وَإِن
     translation: and if
     transliteration: wa-in
   7:
-    arabic: يَّسۡتَعۡتِبُوۡا
+    arabic: يَسۡتَعۡتِبُواْ
     translation: they ask for favor
     transliteration: yastaʿtibū
   8:
@@ -37,7 +37,7 @@ word_by_word:
     translation: then not
     transliteration: famā
   9:
-    arabic: هُمۡ
+    arabic: هُم
     translation: they
     transliteration: hum
   10:
@@ -45,7 +45,7 @@ word_by_word:
     translation: (will be) of
     transliteration: mina
   11:
-    arabic: الۡمُعۡتَبِيۡنَ‏
+    arabic: ٱلۡمُعۡتَبِينَ
     translation: those who receive favor
     transliteration: l-muʿ'tabīna
 ---

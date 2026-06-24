@@ -1,7 +1,7 @@
 ---
-arabic_ayat: كَمَآ اَرۡسَلۡنَا فِيۡکُمۡ رَسُوۡلًا مِّنۡکُمۡ يَتۡلُوۡا عَلَيۡكُمۡ
-  اٰيٰتِنَا وَيُزَكِّيۡکُمۡ وَيُعَلِّمُکُمُ الۡكِتٰبَ وَالۡحِکۡمَةَ وَيُعَلِّمُكُمۡ
-  مَّا لَمۡ تَكُوۡنُوۡا تَعۡلَمُوۡنَ ؕ​ۛ‏
+arabic_ayat: كَمَآ أَرۡسَلۡنَا فِيكُمۡ رَسُولٗا مِّنكُمۡ يَتۡلُواْ عَلَيۡكُمۡ ءَايَٰتِنَا
+  وَيُزَكِّيكُمۡ وَيُعَلِّمُكُمُ ٱلۡكِتَٰبَ وَٱلۡحِكۡمَةَ وَيُعَلِّمُكُم مَّا لَمۡ
+  تَكُونُواْ تَعۡلَمُونَ
 sentence_translation: Since We have sent you a messenger from among yourselves—reciting
   to you Our revelations, purifying you, teaching you the Book and wisdom, and teaching
   you what you never knew—
@@ -11,51 +11,51 @@ word_by_word:
     translation: As
     transliteration: kamā
   2:
-    arabic: اَرۡسَلۡنَا
+    arabic: أَرۡسَلۡنَا
     translation: We sent
     transliteration: arsalnā
   3:
-    arabic: فِيۡکُمۡ
+    arabic: فِيكُمۡ
     translation: among you
     transliteration: fīkum
   4:
-    arabic: رَسُوۡلًا
+    arabic: رَسُولٗا
     translation: a Messenger
     transliteration: rasūlan
   5:
-    arabic: مِّنۡکُمۡ
+    arabic: مِّنكُمۡ
     translation: from you
     transliteration: minkum
   6:
-    arabic: يَتۡلُوۡا
+    arabic: يَتۡلُواْ
     translation: (who) recites
     transliteration: yatlū
   7:
-    arabic: عَلَيۡكُمۡ
+    arabic: عَلَيۡكُمۡ ءَ
     translation: to you
     transliteration: ʿalaykum
   8:
-    arabic: اٰيٰتِنَا
+    arabic: ايَٰتِنَا
     translation: Our verses
     transliteration: āyātinā
   9:
-    arabic: وَيُزَكِّيۡکُمۡ
+    arabic: وَيُزَكِّيكُمۡ
     translation: and purifies you
     transliteration: wayuzakkīkum
   10:
-    arabic: وَيُعَلِّمُکُمُ
+    arabic: وَيُعَلِّمُكُمُ
     translation: and teaches you
     transliteration: wayuʿallimukumu
   11:
-    arabic: الۡكِتٰبَ
+    arabic: ٱلۡكِتَٰبَ
     translation: the Book
     transliteration: l-kitāba
   12:
-    arabic: وَالۡحِکۡمَةَ
+    arabic: وَٱلۡحِكۡمَةَ
     translation: and the wisdom
     transliteration: wal-ḥik'mata
   13:
-    arabic: وَيُعَلِّمُكُمۡ
+    arabic: وَيُعَلِّمُكُم
     translation: and teaches you
     transliteration: wayuʿallimukum
   14:
@@ -67,11 +67,11 @@ word_by_word:
     translation: not
     transliteration: lam
   16:
-    arabic: تَكُوۡنُوۡا
+    arabic: تَكُونُواْ
     translation: you were
     transliteration: takūnū
   17:
-    arabic: تَعۡلَمُوۡنَ ؕ​ۛ‏
+    arabic: تَعۡلَمُونَ
     translation: knowing
     transliteration: taʿlamūna
 ---

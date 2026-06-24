@@ -1,5 +1,5 @@
 ---
-arabic_ayat: بَلۡ جَآءَ بِالۡحَقِّ وَصَدَّقَ الۡمُرۡسَلِيۡنَ‏
+arabic_ayat: بَلۡ جَآءَ بِٱلۡحَقِّ وَصَدَّقَ ٱلۡمُرۡسَلِينَ
 sentence_translation: In fact, he came with the truth, confirming ˹earlier˺ messengers.
 word_by_word:
   1:
@@ -11,7 +11,7 @@ word_by_word:
     translation: he has brought
     transliteration: jāa
   3:
-    arabic: بِالۡحَقِّ
+    arabic: بِٱلۡحَقِّ
     translation: the truth
     transliteration: bil-ḥaqi
   4:
@@ -19,7 +19,7 @@ word_by_word:
     translation: and confirmed
     transliteration: waṣaddaqa
   5:
-    arabic: الۡمُرۡسَلِيۡنَ‏
+    arabic: ٱلۡمُرۡسَلِينَ
     translation: the Messengers
     transliteration: l-mur'salīna
 ---

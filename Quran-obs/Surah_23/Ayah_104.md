@@ -1,5 +1,5 @@
 ---
-arabic_ayat: تَلۡفَحُ وُجُوۡهَهُمُ النَّارُ وَهُمۡ فِيۡهَا كٰلِحُوۡنَ‏
+arabic_ayat: تَلۡفَحُ وُجُوهَهُمُ ٱلنَّارُ وَهُمۡ فِيهَا كَٰلِحُونَ
 sentence_translation: The Fire will burn their faces, leaving them deformed.
 word_by_word:
   1:
@@ -7,11 +7,11 @@ word_by_word:
     translation: Will burn
     transliteration: talfaḥu
   2:
-    arabic: وُجُوۡهَهُمُ
+    arabic: وُجُوهَهُمُ
     translation: their faces
     transliteration: wujūhahumu
   3:
-    arabic: النَّارُ
+    arabic: ٱلنَّارُ
     translation: the Fire
     transliteration: l-nāru
   4:
@@ -19,11 +19,11 @@ word_by_word:
     translation: and they
     transliteration: wahum
   5:
-    arabic: فِيۡهَا
+    arabic: فِيهَا
     translation: in it
     transliteration: fīhā
   6:
-    arabic: كٰلِحُوۡنَ‏
+    arabic: كَٰلِحُونَ
     translation: (will) grin with displaced lips
     transliteration: kāliḥūna
 ---

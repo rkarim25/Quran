@@ -1,5 +1,5 @@
 ---
-arabic_ayat: خَلَقَ الۡاِنۡسَانَۙ‏
+arabic_ayat: خَلَقَ ٱلۡإِنسَٰنَ
 sentence_translation: created humanity,
 word_by_word:
   1:
@@ -7,7 +7,7 @@ word_by_word:
     translation: He created
     transliteration: khalaqa
   2:
-    arabic: الۡاِنۡسَانَۙ‏
+    arabic: ٱلۡإِنسَٰنَ
     translation: '[the] man'
     transliteration: l-insāna
 ---

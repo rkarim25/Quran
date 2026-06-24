@@ -1,25 +1,24 @@
 ---
-arabic_ayat: مِنَ الۡمُؤۡمِنِيۡنَ رِجَالٌ صَدَقُوۡا مَا عَاهَدُوا اللّٰهَ عَلَيۡهِ​ۚ
-  فَمِنۡهُمۡ مَّنۡ قَضٰى نَحۡبَهٗ وَمِنۡهُمۡ مَّنۡ يَّنۡتَظِرُ​ ۖ  وَمَا بَدَّلُوۡا
-  تَبۡدِيۡلًا ۙ‏
+arabic_ayat: مِّنَ ٱلۡمُؤۡمِنِينَ رِجَالٞ صَدَقُواْ مَا عَٰهَدُواْ ٱللَّهَ عَلَيۡهِۖ
+  فَمِنۡهُم مَّن قَضَىٰ نَحۡبَهُۥ وَمِنۡهُم مَّن يَنتَظِرُۖ وَمَا بَدَّلُواْ تَبۡدِيلٗا
 sentence_translation: Among the believers are men who have proven true to what they
   pledged to Allah. Some of them have fulfilled their pledge ˹with their lives˺, others
   are waiting ˹their turn˺. They have never changed ˹their commitment˺ in the least.
 word_by_word:
   1:
-    arabic: مِنَ
+    arabic: مِّنَ
     translation: Among
     transliteration: mina
   2:
-    arabic: الۡمُؤۡمِنِيۡنَ
+    arabic: ٱلۡمُؤۡمِنِينَ
     translation: the believers
     transliteration: l-mu'minīna
   3:
-    arabic: رِجَالٌ
+    arabic: رِجَالٞ
     translation: (are) men
     transliteration: rijālun
   4:
-    arabic: صَدَقُوۡا
+    arabic: صَدَقُواْ
     translation: (who) have been true
     transliteration: ṣadaqū
   5:
@@ -27,43 +26,43 @@ word_by_word:
     translation: (to) what
     transliteration: mā
   6:
-    arabic: عَاهَدُوا
+    arabic: عَٰهَدُواْ
     translation: they promised Allah
     transliteration: ʿāhadū
   7:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: they promised Allah
     transliteration: l-laha
   8:
-    arabic: عَلَيۡهِ​ۚ
+    arabic: عَلَيۡهِۖ
     translation: '[on it]'
     transliteration: ʿalayhi
   9:
-    arabic: فَمِنۡهُمۡ
+    arabic: فَمِنۡهُم
     translation: And among them
     transliteration: famin'hum
   10:
-    arabic: مَّنۡ
+    arabic: مَّن
     translation: (is he) who
     transliteration: man
   11:
-    arabic: قَضٰى
+    arabic: قَضَىٰ
     translation: has fulfilled
     transliteration: qaḍā
   12:
-    arabic: نَحۡبَهٗ
+    arabic: نَحۡبَهُۥ
     translation: his vow
     transliteration: naḥbahu
   13:
-    arabic: وَمِنۡهُمۡ
+    arabic: وَمِنۡهُم
     translation: and among them
     transliteration: wamin'hum
   14:
-    arabic: مَّنۡ
+    arabic: مَّن
     translation: (is he) who
     transliteration: man
   15:
-    arabic: يَّنۡتَظِرُ​ ۖ 
+    arabic: يَنتَظِرُۖ
     translation: awaits
     transliteration: yantaẓiru
   16:
@@ -71,11 +70,11 @@ word_by_word:
     translation: And not
     transliteration: wamā
   17:
-    arabic: بَدَّلُوۡا
+    arabic: بَدَّلُواْ
     translation: they alter
     transliteration: baddalū
   18:
-    arabic: تَبۡدِيۡلًا ۙ‏
+    arabic: تَبۡدِيلٗا
     translation: '(by) any alteration '
     transliteration: tabdīlan
 ---

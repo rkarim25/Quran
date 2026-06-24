@@ -1,20 +1,20 @@
 ---
-arabic_ayat: يٰٓاَيُّهَا الَّذِيۡنَ اٰمَنُوۡا لَا تَقُوۡلُوۡا رَاعِنَا وَ قُوۡلُوا
-  انۡظُرۡنَا وَاسۡمَعُوۡا ​ؕ وَلِلۡڪٰفِرِيۡنَ عَذَابٌ اَلِيۡمٌ‏
+arabic_ayat: يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُواْ لَا تَقُولُواْ رَٰعِنَا وَقُولُواْ
+  ٱنظُرۡنَا وَٱسۡمَعُواْۗ وَلِلۡكَٰفِرِينَ عَذَابٌ أَلِيمٞ
 sentence_translation: O believers! Do not say, “Râ’ina.” [Herd us!] But say, “Unẓurna,”
   [Tend to us!] and listen ˹attentively˺. And the disbelievers will suffer a painful
   punishment.
 word_by_word:
   1:
-    arabic: يٰٓاَيُّهَا
+    arabic: يَٰٓأَيُّهَا
     translation: O you
     transliteration: yāayyuhā
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ ءَ
     translation: who
     transliteration: alladhīna
   3:
-    arabic: اٰمَنُوۡا
+    arabic: امَنُواْ
     translation: believe[d]
     transliteration: āmanū
   4:
@@ -22,27 +22,27 @@ word_by_word:
     translation: (Do) not
     transliteration: lā
   5:
-    arabic: تَقُوۡلُوۡا
+    arabic: تَقُولُواْ
     translation: say
     transliteration: taqūlū
   6:
-    arabic: رَاعِنَا
+    arabic: رَٰعِنَا
     translation: Raina
     transliteration: rāʿinā
   7:
-    arabic: وَ قُوۡلُوا
+    arabic: وَقُولُواْ
     translation: and say
     transliteration: waqūlū
   8:
-    arabic: انۡظُرۡنَا
+    arabic: ٱنظُرۡنَا
     translation: Unzurna
     transliteration: unẓur'nā
   9:
-    arabic: وَاسۡمَعُوۡا ​ؕ
+    arabic: وَٱسۡمَعُواْۗ
     translation: and listen
     transliteration: wa-is'maʿū
   10:
-    arabic: وَلِلۡڪٰفِرِيۡنَ
+    arabic: وَلِلۡكَٰفِرِينَ
     translation: And for the disbelievers
     transliteration: walil'kāfirīna
   11:
@@ -50,7 +50,7 @@ word_by_word:
     translation: (is) a punishment
     transliteration: ʿadhābun
   12:
-    arabic: اَلِيۡمٌ‏
+    arabic: أَلِيمٞ
     translation: painful
     transliteration: alīmun
 ---

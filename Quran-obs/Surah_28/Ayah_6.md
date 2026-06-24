@@ -1,6 +1,6 @@
 ---
-arabic_ayat: وَنُمَكِّنَ لَهُمۡ فِى الۡاَرۡضِ وَنُرِىَ فِرۡعَوۡنَ وَهَامٰنَ وَجُنُوۡدَهُمَا
-  مِنۡهُمۡ مَّا كَانُوۡا يَحۡذَرُوۡنَ‏
+arabic_ayat: وَنُمَكِّنَ لَهُمۡ فِي ٱلۡأَرۡضِ وَنُرِيَ فِرۡعَوۡنَ وَهَٰمَٰنَ وَجُنُودَهُمَا
+  مِنۡهُم مَّا كَانُواْ يَحۡذَرُونَ
 sentence_translation: and to establish them in the land; and through them show Pharaoh,
   Hamân, and their soldiers ˹the fulfilment of˺ what they feared. 
 word_by_word:
@@ -13,15 +13,15 @@ word_by_word:
     translation: them
     transliteration: lahum
   3:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   4:
-    arabic: الۡاَرۡضِ
+    arabic: ٱلۡأَرۡضِ
     translation: the land
     transliteration: l-arḍi
   5:
-    arabic: وَنُرِىَ
+    arabic: وَنُرِيَ
     translation: and show
     transliteration: wanuriya
   6:
@@ -29,15 +29,15 @@ word_by_word:
     translation: Firaun
     transliteration: fir'ʿawna
   7:
-    arabic: وَهَامٰنَ
+    arabic: وَهَٰمَٰنَ
     translation: and Haman
     transliteration: wahāmāna
   8:
-    arabic: وَجُنُوۡدَهُمَا
+    arabic: وَجُنُودَهُمَا
     translation: and their hosts
     transliteration: wajunūdahumā
   9:
-    arabic: مِنۡهُمۡ
+    arabic: مِنۡهُم
     translation: through them
     transliteration: min'hum
   10:
@@ -45,11 +45,11 @@ word_by_word:
     translation: what
     transliteration: mā
   11:
-    arabic: كَانُوۡا
+    arabic: كَانُواْ
     translation: they were
     transliteration: kānū
   12:
-    arabic: يَحۡذَرُوۡنَ‏
+    arabic: يَحۡذَرُونَ
     translation: fearing
     transliteration: yaḥdharūna
 ---

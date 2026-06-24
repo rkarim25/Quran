@@ -1,6 +1,5 @@
 ---
-arabic_ayat: "لَقَدۡ اَنۡزَلۡنَاۤ اِلَيۡكُمۡ كِتٰبًا فِيۡهِ ذِكۡرُكُمۡ​ؕ اَفَلَا تَعۡقِلُوۡنَ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: لَقَدۡ أَنزَلۡنَآ إِلَيۡكُمۡ كِتَٰبٗا فِيهِ ذِكۡرُكُمۡۚ أَفَلَا تَعۡقِلُونَ
 sentence_translation: We have surely revealed to you a Book, in which there is glory
   for you. Will you not then understand?
 word_by_word:
@@ -9,31 +8,31 @@ word_by_word:
     translation: Indeed
     transliteration: laqad
   2:
-    arabic: اَنۡزَلۡنَاۤ
+    arabic: أَنزَلۡنَآ
     translation: We (have) sent down
     transliteration: anzalnā
   3:
-    arabic: اِلَيۡكُمۡ
+    arabic: إِلَيۡكُمۡ
     translation: to you
     transliteration: ilaykum
   4:
-    arabic: كِتٰبًا
+    arabic: كِتَٰبٗا
     translation: a Book
     transliteration: kitāban
   5:
-    arabic: فِيۡهِ
+    arabic: فِيهِ
     translation: in it
     transliteration: fīhi
   6:
-    arabic: ذِكۡرُكُمۡ​ؕ
+    arabic: ذِكۡرُكُمۡۚ
     translation: (is) your mention
     transliteration: dhik'rukum
   7:
-    arabic: اَفَلَا
+    arabic: أَفَلَا
     translation: Then will not
     transliteration: afalā
   8:
-    arabic: "تَعۡقِلُوۡنَ‏ \uFEFF\uFEFF"
+    arabic: تَعۡقِلُونَ
     translation: you use reason
     transliteration: taʿqilūna
 ---

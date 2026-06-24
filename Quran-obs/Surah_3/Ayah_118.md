@@ -1,23 +1,23 @@
 ---
-arabic_ayat: يٰۤـاَيُّهَا الَّذِيۡنَ اٰمَنُوۡا لَا تَتَّخِذُوۡا بِطَانَةً مِّنۡ دُوۡنِكُمۡ
-  لَا يَاۡلُوۡنَكُمۡ خَبَالًا ؕ وَدُّوۡا مَا عَنِتُّمۡ​ۚ قَدۡ بَدَتِ الۡبَغۡضَآءُ
-  مِنۡ اَفۡوَاهِهِمۡ  ۖۚ وَمَا تُخۡفِىۡ صُدُوۡرُهُمۡ اَكۡبَرُ​ؕ قَدۡ بَيَّنَّا لَـكُمُ
-  الۡاٰيٰتِ​ اِنۡ كُنۡتُمۡ تَعۡقِلُوۡنَ‏
+arabic_ayat: يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُواْ لَا تَتَّخِذُواْ بِطَانَةٗ مِّن دُونِكُمۡ
+  لَا يَأۡلُونَكُمۡ خَبَالٗا وَدُّواْ مَا عَنِتُّمۡ قَدۡ بَدَتِ ٱلۡبَغۡضَآءُ مِنۡ
+  أَفۡوَٰهِهِمۡ وَمَا تُخۡفِي صُدُورُهُمۡ أَكۡبَرُۚ قَدۡ بَيَّنَّا لَكُمُ ٱلۡأٓيَٰتِۖ
+  إِن كُنتُمۡ تَعۡقِلُونَ
 sentence_translation: O believers! Do not associate closely with others who would
   not miss a chance to harm you. Their only desire is to see you suffer. Their prejudice
   has become evident from what they say—and what their hearts hide is far worse. We
   have made Our revelations clear to you, if only you understood.
 word_by_word:
   1:
-    arabic: يٰۤـاَيُّهَا
+    arabic: يَٰٓأَيُّهَا
     translation: O you
     transliteration: yāayyuhā
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ ءَ
     translation: who
     transliteration: alladhīna
   3:
-    arabic: اٰمَنُوۡا
+    arabic: امَنُواْ
     translation: believe[d]
     transliteration: āmanū
   4:
@@ -25,19 +25,19 @@ word_by_word:
     translation: (Do) not
     transliteration: lā
   5:
-    arabic: تَتَّخِذُوۡا
+    arabic: تَتَّخِذُواْ
     translation: take
     transliteration: tattakhidhū
   6:
-    arabic: بِطَانَةً
+    arabic: بِطَانَةٗ
     translation: (as) intimates
     transliteration: biṭānatan
   7:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: from
     transliteration: min
   8:
-    arabic: دُوۡنِكُمۡ
+    arabic: دُونِكُمۡ
     translation: other than yourselves
     transliteration: dūnikum
   9:
@@ -45,15 +45,15 @@ word_by_word:
     translation: not
     transliteration: lā
   10:
-    arabic: يَاۡلُوۡنَكُمۡ
+    arabic: يَأۡلُونَكُمۡ
     translation: they will spare you
     transliteration: yalūnakum
   11:
-    arabic: خَبَالًا ؕ
+    arabic: خَبَالٗا
     translation: (any) ruin
     transliteration: khabālan
   12:
-    arabic: وَدُّوۡا
+    arabic: وَدُّواْ
     translation: They wish
     transliteration: waddū
   13:
@@ -61,7 +61,7 @@ word_by_word:
     translation: what
     transliteration: mā
   14:
-    arabic: عَنِتُّمۡ​ۚ
+    arabic: عَنِتُّمۡ
     translation: distresses you
     transliteration: ʿanittum
   15:
@@ -73,7 +73,7 @@ word_by_word:
     translation: (has become) apparent
     transliteration: badati
   17:
-    arabic: الۡبَغۡضَآءُ
+    arabic: ٱلۡبَغۡضَآءُ
     translation: the hatred
     transliteration: l-baghḍāu
   18:
@@ -81,7 +81,7 @@ word_by_word:
     translation: from
     transliteration: min
   19:
-    arabic: اَفۡوَاهِهِمۡ  ۖۚ
+    arabic: أَفۡوَٰهِهِمۡ
     translation: their mouths
     transliteration: afwāhihim
   20:
@@ -89,15 +89,15 @@ word_by_word:
     translation: and what
     transliteration: wamā
   21:
-    arabic: تُخۡفِىۡ
+    arabic: تُخۡفِي
     translation: conceals
     transliteration: tukh'fī
   22:
-    arabic: صُدُوۡرُهُمۡ
+    arabic: صُدُورُهُمۡ
     translation: their breasts
     transliteration: ṣudūruhum
   23:
-    arabic: اَكۡبَرُ​ؕ
+    arabic: أَكۡبَرُۚ
     translation: (is) greater
     transliteration: akbaru
   24:
@@ -109,23 +109,23 @@ word_by_word:
     translation: We made clear
     transliteration: bayyannā
   26:
-    arabic: لَـكُمُ
+    arabic: لَكُمُ
     translation: for you
     transliteration: lakumu
   27:
-    arabic: الۡاٰيٰتِ​
+    arabic: ٱلۡأٓيَٰتِۖ
     translation: the Verses
     transliteration: l-āyāti
   28:
-    arabic: اِنۡ
+    arabic: إِن
     translation: if
     transliteration: in
   29:
-    arabic: كُنۡتُمۡ
+    arabic: كُنتُمۡ
     translation: you were
     transliteration: kuntum
   30:
-    arabic: تَعۡقِلُوۡنَ‏
+    arabic: تَعۡقِلُونَ
     translation: (to use) reason
     transliteration: taʿqilūna
 ---

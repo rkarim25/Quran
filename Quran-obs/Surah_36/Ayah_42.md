@@ -1,5 +1,5 @@
 ---
-arabic_ayat: وَخَلَقۡنَا لَهُمۡ مِّنۡ مِّثۡلِهٖ مَا يَرۡكَبُوۡنَ‏
+arabic_ayat: وَخَلَقۡنَا لَهُم مِّن مِّثۡلِهِۦ مَا يَرۡكَبُونَ
 sentence_translation: and created for them similar things to ride in.
 word_by_word:
   1:
@@ -7,15 +7,15 @@ word_by_word:
     translation: And We created
     transliteration: wakhalaqnā
   2:
-    arabic: لَهُمۡ
+    arabic: لَهُم
     translation: for them
     transliteration: lahum
   3:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: from
     transliteration: min
   4:
-    arabic: مِّثۡلِهٖ
+    arabic: مِّثۡلِهِۦ
     translation: (the) likes of it
     transliteration: mith'lihi
   5:
@@ -23,7 +23,7 @@ word_by_word:
     translation: what
     transliteration: mā
   6:
-    arabic: يَرۡكَبُوۡنَ‏
+    arabic: يَرۡكَبُونَ
     translation: they ride
     transliteration: yarkabūna
 ---

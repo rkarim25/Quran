@@ -1,9 +1,9 @@
 ---
-arabic_ayat: اَلَمۡ نَشۡرَحۡ لَـكَ صَدۡرَكَۙ‏
+arabic_ayat: أَلَمۡ نَشۡرَحۡ لَكَ صَدۡرَكَ
 sentence_translation: Have We not uplifted your heart for you ˹O Prophet˺,
 word_by_word:
   1:
-    arabic: اَلَمۡ
+    arabic: أَلَمۡ
     translation: Have not
     transliteration: alam
   2:
@@ -11,11 +11,11 @@ word_by_word:
     translation: We expanded
     transliteration: nashraḥ
   3:
-    arabic: لَـكَ
+    arabic: لَكَ
     translation: for you
     transliteration: laka
   4:
-    arabic: صَدۡرَكَۙ‏
+    arabic: صَدۡرَكَ
     translation: your breast
     transliteration: ṣadraka
 ---

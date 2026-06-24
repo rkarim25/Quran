@@ -1,9 +1,9 @@
 ---
-arabic_ayat: اِذَا زُلۡزِلَتِ الۡاَرۡضُ زِلۡزَالَهَا ۙ‏
+arabic_ayat: إِذَا زُلۡزِلَتِ ٱلۡأَرۡضُ زِلۡزَالَهَا
 sentence_translation: When the earth is shaken ˹in˺ its ultimate quaking,
 word_by_word:
   1:
-    arabic: اِذَا
+    arabic: إِذَا
     translation: When
     transliteration: idhā
   2:
@@ -11,11 +11,11 @@ word_by_word:
     translation: is shaken
     transliteration: zul'zilati
   3:
-    arabic: الۡاَرۡضُ
+    arabic: ٱلۡأَرۡضُ
     translation: the earth
     transliteration: l-arḍu
   4:
-    arabic: زِلۡزَالَهَا ۙ‏
+    arabic: زِلۡزَالَهَا
     translation: (with) its earthquake
     transliteration: zil'zālahā
 ---

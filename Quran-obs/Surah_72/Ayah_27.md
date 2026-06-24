@@ -1,11 +1,11 @@
 ---
-arabic_ayat: اِلَّا مَنِ ارۡتَضٰى مِنۡ رَّسُوۡلٍ فَاِنَّهٗ يَسۡلُكُ مِنۡۢ بَيۡنِ يَدَيۡهِ
-  وَمِنۡ خَلۡفِهٖ رَصَدًا ۙ‏
+arabic_ayat: إِلَّا مَنِ ٱرۡتَضَىٰ مِن رَّسُولٖ فَإِنَّهُۥ يَسۡلُكُ مِنۢ بَيۡنِ يَدَيۡهِ
+  وَمِنۡ خَلۡفِهِۦ رَصَدٗا
 sentence_translation: except messengers of His choice. Then He appoints angel-guards
   before and behind them
 word_by_word:
   1:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: Except
     transliteration: illā
   2:
@@ -13,19 +13,19 @@ word_by_word:
     translation: whom
     transliteration: mani
   3:
-    arabic: ارۡتَضٰى
+    arabic: ٱرۡتَضَىٰ
     translation: He has approved
     transliteration: ir'taḍā
   4:
-    arabic: مِنۡ
+    arabic: مِن
     translation: of
     transliteration: min
   5:
-    arabic: رَّسُوۡلٍ
+    arabic: رَّسُولٖ
     translation: a Messenger
     transliteration: rasūlin
   6:
-    arabic: فَاِنَّهٗ
+    arabic: فَإِنَّهُۥ
     translation: and indeed, He
     transliteration: fa-innahu
   7:
@@ -33,7 +33,7 @@ word_by_word:
     translation: makes to march
     transliteration: yasluku
   8:
-    arabic: مِنۡۢ
+    arabic: مِنۢ
     translation: from
     transliteration: min
   9:
@@ -49,11 +49,11 @@ word_by_word:
     translation: and from
     transliteration: wamin
   12:
-    arabic: خَلۡفِهٖ
+    arabic: خَلۡفِهِۦ
     translation: behind him
     transliteration: khalfihi
   13:
-    arabic: رَصَدًا ۙ‏
+    arabic: رَصَدٗا
     translation: a guard
     transliteration: raṣadan
 ---

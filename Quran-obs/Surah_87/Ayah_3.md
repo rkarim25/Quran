@@ -1,9 +1,9 @@
 ---
-arabic_ayat: وَالَّذِىۡ قَدَّرَ فَهَدٰى ۙ‏
+arabic_ayat: وَٱلَّذِي قَدَّرَ فَهَدَىٰ
 sentence_translation: and Who ordained precisely and inspired accordingly,
 word_by_word:
   1:
-    arabic: وَالَّذِىۡ
+    arabic: وَٱلَّذِي
     translation: And the One Who
     transliteration: wa-alladhī
   2:
@@ -11,7 +11,7 @@ word_by_word:
     translation: measured
     transliteration: qaddara
   3:
-    arabic: فَهَدٰى ۙ‏
+    arabic: فَهَدَىٰ
     translation: then guided
     transliteration: fahadā
 ---

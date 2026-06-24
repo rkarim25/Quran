@@ -1,17 +1,17 @@
 ---
-arabic_ayat: فَادۡخُلِىۡ فِىۡ عِبٰدِىۙ‏
+arabic_ayat: فَٱدۡخُلِي فِي عِبَٰدِي
 sentence_translation: So join My servants,
 word_by_word:
   1:
-    arabic: فَادۡخُلِىۡ
+    arabic: فَٱدۡخُلِي
     translation: So enter
     transliteration: fa-ud'khulī
   2:
-    arabic: فِىۡ
+    arabic: فِي
     translation: among
     transliteration: fī
   3:
-    arabic: عِبٰدِىۙ‏
+    arabic: عِبَٰدِي
     translation: My slaves
     transliteration: ʿibādī
 ---

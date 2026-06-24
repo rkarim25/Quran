@@ -1,13 +1,13 @@
 ---
-arabic_ayat: وَاَلَّفَ بَيۡنَ قُلُوۡبِهِمۡ​ؕ لَوۡ اَنۡفَقۡتَ مَا فِى الۡاَرۡضِ جَمِيۡعًا
-  مَّاۤ اَلَّفۡتَ بَيۡنَ قُلُوۡبِهِمۡ وَلٰـكِنَّ اللّٰهَ اَلَّفَ بَيۡنَهُمۡ​ؕ اِنَّهٗ
-  عَزِيۡزٌ حَكِيۡمٌ‏
+arabic_ayat: وَأَلَّفَ بَيۡنَ قُلُوبِهِمۡۚ لَوۡ أَنفَقۡتَ مَا فِي ٱلۡأَرۡضِ جَمِيعٗا
+  مَّآ أَلَّفۡتَ بَيۡنَ قُلُوبِهِمۡ وَلَٰكِنَّ ٱللَّهَ أَلَّفَ بَيۡنَهُمۡۚ إِنَّهُۥ
+  عَزِيزٌ حَكِيمٞ
 sentence_translation: He brought their hearts together. Had you spent all the riches
   in the earth, you could not have united their hearts. But Allah has united them.
   Indeed, He is Almighty, All-Wise.
 word_by_word:
   1:
-    arabic: وَاَلَّفَ
+    arabic: وَأَلَّفَ
     translation: And He (has) put affection
     transliteration: wa-allafa
   2:
@@ -15,7 +15,7 @@ word_by_word:
     translation: between
     transliteration: bayna
   3:
-    arabic: قُلُوۡبِهِمۡ​ؕ
+    arabic: قُلُوبِهِمۡۚ
     translation: their hearts
     transliteration: qulūbihim
   4:
@@ -23,7 +23,7 @@ word_by_word:
     translation: If
     transliteration: law
   5:
-    arabic: اَنۡفَقۡتَ
+    arabic: أَنفَقۡتَ
     translation: you (had) spent
     transliteration: anfaqta
   6:
@@ -31,23 +31,23 @@ word_by_word:
     translation: whatever
     transliteration: mā
   7:
-    arabic: فِى
+    arabic: فِي
     translation: (is) in
     transliteration: fī
   8:
-    arabic: الۡاَرۡضِ
+    arabic: ٱلۡأَرۡضِ
     translation: the earth
     transliteration: l-arḍi
   9:
-    arabic: جَمِيۡعًا
+    arabic: جَمِيعٗا
     translation: all
     transliteration: jamīʿan
   10:
-    arabic: مَّاۤ
+    arabic: مَّآ
     translation: not
     transliteration: mā
   11:
-    arabic: اَلَّفۡتَ
+    arabic: أَلَّفۡتَ
     translation: (could) you (have) put affection
     transliteration: allafta
   12:
@@ -55,35 +55,35 @@ word_by_word:
     translation: between
     transliteration: bayna
   13:
-    arabic: قُلُوۡبِهِمۡ
+    arabic: قُلُوبِهِمۡ
     translation: their hearts
     transliteration: qulūbihim
   14:
-    arabic: وَلٰـكِنَّ
+    arabic: وَلَٰكِنَّ
     translation: but
     transliteration: walākinna
   15:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   16:
-    arabic: اَلَّفَ
+    arabic: أَلَّفَ
     translation: (has) put affection
     transliteration: allafa
   17:
-    arabic: بَيۡنَهُمۡ​ؕ
+    arabic: بَيۡنَهُمۡۚ
     translation: between them
     transliteration: baynahum
   18:
-    arabic: اِنَّهٗ
+    arabic: إِنَّهُۥ
     translation: Indeed, He
     transliteration: innahu
   19:
-    arabic: عَزِيۡزٌ
+    arabic: عَزِيزٌ
     translation: (is) All-Mighty
     transliteration: ʿazīzun
   20:
-    arabic: حَكِيۡمٌ‏
+    arabic: حَكِيمٞ
     translation: All-Wise
     transliteration: ḥakīmun
 ---

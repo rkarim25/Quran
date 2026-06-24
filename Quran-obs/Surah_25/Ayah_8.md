@@ -1,48 +1,48 @@
 ---
-arabic_ayat: اَوۡ يُلۡقٰٓى اِلَيۡهِ كَنۡزٌ اَوۡ تَكُوۡنُ لَهٗ جَنَّةٌ يَّاۡكُلُ مِنۡهَا​
-  ؕ وَقَالَ الظّٰلِمُوۡنَ اِنۡ تَتَّبِعُوۡنَ اِلَّا رَجُلًا مَّسۡحُوۡرًا‏
+arabic_ayat: أَوۡ يُلۡقَىٰٓ إِلَيۡهِ كَنزٌ أَوۡ تَكُونُ لَهُۥ جَنَّةٞ يَأۡكُلُ مِنۡهَاۚ
+  وَقَالَ ٱلظَّٰلِمُونَ إِن تَتَّبِعُونَ إِلَّا رَجُلٗا مَّسۡحُورًا
 sentence_translation: or a treasure had been cast down to him, or he had had a garden
   from which he may eat!” And the wrongdoers say ˹to the believers˺, “You are only
   following a bewitched man.”
 word_by_word:
   1:
-    arabic: اَوۡ
+    arabic: أَوۡ
     translation: Or
     transliteration: aw
   2:
-    arabic: يُلۡقٰٓى
+    arabic: يُلۡقَىٰٓ
     translation: is delivered
     transliteration: yul'qā
   3:
-    arabic: اِلَيۡهِ
+    arabic: إِلَيۡهِ
     translation: to him
     transliteration: ilayhi
   4:
-    arabic: كَنۡزٌ
+    arabic: كَنزٌ
     translation: a treasure
     transliteration: kanzun
   5:
-    arabic: اَوۡ
+    arabic: أَوۡ
     translation: or
     transliteration: aw
   6:
-    arabic: تَكُوۡنُ
+    arabic: تَكُونُ
     translation: is
     transliteration: takūnu
   7:
-    arabic: لَهٗ
+    arabic: لَهُۥ
     translation: for him
     transliteration: lahu
   8:
-    arabic: جَنَّةٌ
+    arabic: جَنَّةٞ
     translation: a garden
     transliteration: jannatun
   9:
-    arabic: يَّاۡكُلُ
+    arabic: يَأۡكُلُ
     translation: he may eat
     transliteration: yakulu
   10:
-    arabic: مِنۡهَا​ ؕ
+    arabic: مِنۡهَاۚ
     translation: from it
     transliteration: min'hā
   11:
@@ -50,27 +50,27 @@ word_by_word:
     translation: And say
     transliteration: waqāla
   12:
-    arabic: الظّٰلِمُوۡنَ
+    arabic: ٱلظَّٰلِمُونَ
     translation: the wrongdoers
     transliteration: l-ẓālimūna
   13:
-    arabic: اِنۡ
+    arabic: إِن
     translation: Not
     transliteration: in
   14:
-    arabic: تَتَّبِعُوۡنَ
+    arabic: تَتَّبِعُونَ
     translation: you follow
     transliteration: tattabiʿūna
   15:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: but
     transliteration: illā
   16:
-    arabic: رَجُلًا
+    arabic: رَجُلٗا
     translation: a man
     transliteration: rajulan
   17:
-    arabic: مَّسۡحُوۡرًا‏
+    arabic: مَّسۡحُورًا
     translation: bewitched
     transliteration: masḥūran
 ---

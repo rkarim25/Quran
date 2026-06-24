@@ -1,5 +1,5 @@
 ---
-arabic_ayat: وَصَدَّقَ بِالۡحُسۡنٰىۙ‏
+arabic_ayat: وَصَدَّقَ بِٱلۡحُسۡنَىٰ
 sentence_translation: and ˹firmly˺ believes in the finest reward,
 word_by_word:
   1:
@@ -7,7 +7,7 @@ word_by_word:
     translation: And believes
     transliteration: waṣaddaqa
   2:
-    arabic: بِالۡحُسۡنٰىۙ‏
+    arabic: بِٱلۡحُسۡنَىٰ
     translation: in the best
     transliteration: bil-ḥus'nā
 ---

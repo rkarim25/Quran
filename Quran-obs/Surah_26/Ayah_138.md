@@ -1,5 +1,5 @@
 ---
-arabic_ayat: وَمَا نَحۡنُ بِمُعَذَّبِيۡنَ​ۚ‏
+arabic_ayat: وَمَا نَحۡنُ بِمُعَذَّبِينَ
 sentence_translation: And we will never be punished.”
 word_by_word:
   1:
@@ -11,7 +11,7 @@ word_by_word:
     translation: we
     transliteration: naḥnu
   3:
-    arabic: بِمُعَذَّبِيۡنَ​ۚ‏
+    arabic: بِمُعَذَّبِينَ
     translation: (are) the ones to be punished
     transliteration: bimuʿadhabīna
 ---

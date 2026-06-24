@@ -1,73 +1,73 @@
 ---
-arabic_ayat: وَجَاوَزۡنَا بِبَنِىۡۤ اِسۡرَاۤءِيۡلَ الۡبَحۡرَ فَاَ تَوۡا عَلٰى قَوۡمٍ
-  يَّعۡكُفُوۡنَ عَلٰٓى اَصۡنَامٍ لَّهُمۡ​ ۚ قَالُوۡا يٰمُوۡسَى اجۡعَلْ لَّـنَاۤ اِلٰهًا
-  كَمَا لَهُمۡ اٰلِهَةٌ​  ؕ قَالَ اِنَّكُمۡ قَوۡمٌ تَجۡهَلُوۡنَ‏
+arabic_ayat: وَجَٰوَزۡنَا بِبَنِيٓ إِسۡرَٰٓءِيلَ ٱلۡبَحۡرَ فَأَتَوۡاْ عَلَىٰ قَوۡمٖ
+  يَعۡكُفُونَ عَلَىٰٓ أَصۡنَامٖ لَّهُمۡۚ قَالُواْ يَٰمُوسَى ٱجۡعَل لَّنَآ إِلَٰهٗا
+  كَمَا لَهُمۡ ءَالِهَةٞۚ قَالَ إِنَّكُمۡ قَوۡمٞ تَجۡهَلُونَ
 sentence_translation: We brought the Children of Israel across the sea and they came
   upon a people devoted to idols. They demanded, “O Moses! Make for us a god like
   their gods.” He replied, “Indeed, you are a people acting ignorantly!
 word_by_word:
   1:
-    arabic: وَجَاوَزۡنَا
+    arabic: وَجَٰوَزۡنَا
     translation: And We led across
     transliteration: wajāwaznā
   2:
-    arabic: بِبَنِىۡۤ
+    arabic: بِبَنِيٓ
     translation: (the) Children
     transliteration: bibanī
   3:
-    arabic: اِسۡرَاۤءِيۡلَ
+    arabic: إِسۡرَٰٓءِيلَ
     translation: (of) Israel
     transliteration: is'rāīla
   4:
-    arabic: الۡبَحۡرَ
+    arabic: ٱلۡبَحۡرَ
     translation: the sea
     transliteration: l-baḥra
   5:
-    arabic: فَاَ تَوۡا
+    arabic: فَأَتَوۡاْ
     translation: Then they came
     transliteration: fa-ataw
   6:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: upon
     transliteration: ʿalā
   7:
-    arabic: قَوۡمٍ
+    arabic: قَوۡمٖ
     translation: a people
     transliteration: qawmin
   8:
-    arabic: يَّعۡكُفُوۡنَ
+    arabic: يَعۡكُفُونَ
     translation: devoted
     transliteration: yaʿkufūna
   9:
-    arabic: عَلٰٓى
+    arabic: عَلَىٰٓ
     translation: to
     transliteration: ʿalā
   10:
-    arabic: اَصۡنَامٍ
+    arabic: أَصۡنَامٖ
     translation: idols
     transliteration: aṣnāmin
   11:
-    arabic: لَّهُمۡ​ ۚ
+    arabic: لَّهُمۡۚ
     translation: of theirs
     transliteration: lahum
   12:
-    arabic: قَالُوۡا
+    arabic: قَالُواْ
     translation: They said
     transliteration: qālū
   13:
-    arabic: يٰمُوۡسَى
+    arabic: يَٰمُوسَى
     translation: O Musa
     transliteration: yāmūsā
   14:
-    arabic: اجۡعَلْ
+    arabic: ٱجۡعَل
     translation: Make
     transliteration: ij'ʿal
   15:
-    arabic: لَّـنَاۤ
+    arabic: لَّنَآ
     translation: for us
     transliteration: lanā
   16:
-    arabic: اِلٰهًا
+    arabic: إِلَٰهٗا
     translation: a god
     transliteration: ilāhan
   17:
@@ -75,11 +75,11 @@ word_by_word:
     translation: like what
     transliteration: kamā
   18:
-    arabic: لَهُمۡ
+    arabic: لَهُمۡ ءَ
     translation: they have
     transliteration: lahum
   19:
-    arabic: اٰلِهَةٌ​  ؕ
+    arabic: الِهَةٞۚ
     translation: gods
     transliteration: ālihatun
   20:
@@ -87,15 +87,15 @@ word_by_word:
     translation: He said
     transliteration: qāla
   21:
-    arabic: اِنَّكُمۡ
+    arabic: إِنَّكُمۡ
     translation: Indeed, you
     transliteration: innakum
   22:
-    arabic: قَوۡمٌ
+    arabic: قَوۡمٞ
     translation: (are) a people
     transliteration: qawmun
   23:
-    arabic: تَجۡهَلُوۡنَ‏
+    arabic: تَجۡهَلُونَ
     translation: ignorant
     transliteration: tajhalūna
 ---

@@ -1,25 +1,25 @@
 ---
-arabic_ayat: فَاَوۡجَسَ فِىۡ نَفۡسِهٖ خِيۡفَةً مُّوۡسٰى‏
+arabic_ayat: فَأَوۡجَسَ فِي نَفۡسِهِۦ خِيفَةٗ مُّوسَىٰ
 sentence_translation: So Moses concealed fear within himself.
 word_by_word:
   1:
-    arabic: فَاَوۡجَسَ
+    arabic: فَأَوۡجَسَ
     translation: So sensed
     transliteration: fa-awjasa
   2:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   3:
-    arabic: نَفۡسِهٖ
+    arabic: نَفۡسِهِۦ
     translation: himself
     transliteration: nafsihi
   4:
-    arabic: خِيۡفَةً
+    arabic: خِيفَةٗ
     translation: a fear
     transliteration: khīfatan
   5:
-    arabic: مُّوۡسٰى‏
+    arabic: مُّوسَىٰ
     translation: Musa
     transliteration: mūsā
 ---

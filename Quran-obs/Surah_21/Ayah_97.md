@@ -1,49 +1,48 @@
 ---
-arabic_ayat: "وَاقۡتَـرَبَ الۡوَعۡدُ الۡحَـقُّ فَاِذَا هِىَ شَاخِصَةٌ اَبۡصَارُ الَّذِيۡنَ\
-  \ كَفَرُوۡا ؕ يٰوَيۡلَنَا قَدۡ كُنَّا فِىۡ غَفۡلَةٍ مِّنۡ هٰذَا بَلۡ كُـنَّا ظٰلِمِيۡنَ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: وَٱقۡتَرَبَ ٱلۡوَعۡدُ ٱلۡحَقُّ فَإِذَا هِيَ شَٰخِصَةٌ أَبۡصَٰرُ ٱلَّذِينَ
+  كَفَرُواْ يَٰوَيۡلَنَا قَدۡ كُنَّا فِي غَفۡلَةٖ مِّنۡ هَٰذَا بَلۡ كُنَّا ظَٰلِمِينَ
 sentence_translation: ushering in the True Promise. Then—behold!—the disbelievers
   will stare ˹in horror, crying,˺ “Oh, woe to us! We have truly been heedless of this.
   In fact, we have been wrongdoers.”
 word_by_word:
   1:
-    arabic: وَاقۡتَـرَبَ
+    arabic: وَٱقۡتَرَبَ
     translation: And has approached
     transliteration: wa-iq'taraba
   2:
-    arabic: الۡوَعۡدُ
+    arabic: ٱلۡوَعۡدُ
     translation: the promise
     transliteration: l-waʿdu
   3:
-    arabic: الۡحَـقُّ
+    arabic: ٱلۡحَقُّ
     translation: '[the] true'
     transliteration: l-ḥaqu
   4:
-    arabic: فَاِذَا
+    arabic: فَإِذَا
     translation: then behold
     transliteration: fa-idhā
   5:
-    arabic: هِىَ
+    arabic: هِيَ
     translation: '[it]'
     transliteration: hiya
   6:
-    arabic: شَاخِصَةٌ
+    arabic: شَٰخِصَةٌ
     translation: (are) staring
     transliteration: shākhiṣatun
   7:
-    arabic: اَبۡصَارُ
+    arabic: أَبۡصَٰرُ
     translation: (the) eyes
     transliteration: abṣāru
   8:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: (of) those who
     transliteration: alladhīna
   9:
-    arabic: كَفَرُوۡا ؕ
+    arabic: كَفَرُواْ
     translation: disbelieved
     transliteration: kafarū
   10:
-    arabic: يٰوَيۡلَنَا
+    arabic: يَٰوَيۡلَنَا
     translation: O woe to us
     transliteration: yāwaylanā
   11:
@@ -55,11 +54,11 @@ word_by_word:
     translation: we had been
     transliteration: kunnā
   13:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   14:
-    arabic: غَفۡلَةٍ
+    arabic: غَفۡلَةٖ
     translation: heedlessness
     transliteration: ghaflatin
   15:
@@ -67,7 +66,7 @@ word_by_word:
     translation: of
     transliteration: min
   16:
-    arabic: هٰذَا
+    arabic: هَٰذَا
     translation: this
     transliteration: hādhā
   17:
@@ -75,11 +74,11 @@ word_by_word:
     translation: nay
     transliteration: bal
   18:
-    arabic: كُـنَّا
+    arabic: كُنَّا
     translation: we were
     transliteration: kunnā
   19:
-    arabic: "ظٰلِمِيۡنَ‏ \uFEFF\uFEFF"
+    arabic: ظَٰلِمِينَ
     translation: wrongdoers
     transliteration: ẓālimīna
 ---

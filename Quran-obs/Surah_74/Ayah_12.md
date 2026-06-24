@@ -1,21 +1,21 @@
 ---
-arabic_ayat: وَّجَعَلۡتُ لَهٗ مَالًا مَّمۡدُوۡدًا ۙ‏
+arabic_ayat: وَجَعَلۡتُ لَهُۥ مَالٗا مَّمۡدُودٗا
 sentence_translation: and granted him abundant wealth,
 word_by_word:
   1:
-    arabic: وَّجَعَلۡتُ
+    arabic: وَجَعَلۡتُ
     translation: And I granted
     transliteration: wajaʿaltu
   2:
-    arabic: لَهٗ
+    arabic: لَهُۥ
     translation: to him
     transliteration: lahu
   3:
-    arabic: مَالًا
+    arabic: مَالٗا
     translation: wealth
     transliteration: mālan
   4:
-    arabic: مَّمۡدُوۡدًا ۙ‏
+    arabic: مَّمۡدُودٗا
     translation: extensive
     transliteration: mamdūdan
 ---

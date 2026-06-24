@@ -1,23 +1,23 @@
 ---
-arabic_ayat: يٰصَاحِبَىِ السِّجۡنِ ءَاَرۡبَابٌ مُّتَفَرِّقُوۡنَ خَيۡرٌ اَمِ اللّٰهُ
-  الۡوَاحِدُ الۡقَهَّارُؕ‏
+arabic_ayat: يَٰصَٰحِبَيِ ٱلسِّجۡنِ ءَأَرۡبَابٞ مُّتَفَرِّقُونَ خَيۡرٌ أَمِ ٱللَّهُ
+  ٱلۡوَٰحِدُ ٱلۡقَهَّارُ
 sentence_translation: 'O  my fellow-prisoners! Which is far better: many different
   lords or Allah—the One, the Supreme?'
 word_by_word:
   1:
-    arabic: يٰصَاحِبَىِ
+    arabic: يَٰصَٰحِبَيِ
     translation: O my two companions
     transliteration: yāṣāḥibayi
   2:
-    arabic: السِّجۡنِ
+    arabic: ٱلسِّجۡنِ
     translation: (of) the prison
     transliteration: l-sij'ni
   3:
-    arabic: ءَاَرۡبَابٌ
+    arabic: ءَأَرۡبَابٞ
     translation: Are lords
     transliteration: a-arbābun
   4:
-    arabic: مُّتَفَرِّقُوۡنَ
+    arabic: مُّتَفَرِّقُونَ
     translation: separate
     transliteration: mutafarriqūna
   5:
@@ -25,19 +25,19 @@ word_by_word:
     translation: better
     transliteration: khayrun
   6:
-    arabic: اَمِ
+    arabic: أَمِ
     translation: or
     transliteration: ami
   7:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   8:
-    arabic: الۡوَاحِدُ
+    arabic: ٱلۡوَٰحِدُ
     translation: the One
     transliteration: l-wāḥidu
   9:
-    arabic: الۡقَهَّارُؕ‏
+    arabic: ٱلۡقَهَّارُ
     translation: the Irresistible
     transliteration: l-qahāru
 ---

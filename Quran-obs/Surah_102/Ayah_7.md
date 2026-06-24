@@ -1,5 +1,5 @@
 ---
-arabic_ayat: ثُمَّ لَتَرَوُنَّهَا عَيۡنَ الۡيَقِيۡنِۙ‏
+arabic_ayat: ثُمَّ لَتَرَوُنَّهَا عَيۡنَ ٱلۡيَقِينِ
 sentence_translation: Again, you will surely see it with the eye of certainty.
 word_by_word:
   1:
@@ -15,7 +15,7 @@ word_by_word:
     translation: (with the) eye
     transliteration: ʿayna
   4:
-    arabic: الۡيَقِيۡنِۙ‏
+    arabic: ٱلۡيَقِينِ
     translation: (of) certainty
     transliteration: l-yaqīni
 ---

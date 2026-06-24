@@ -1,9 +1,9 @@
 ---
-arabic_ayat: سَتَجِدُوۡنَ اٰخَرِيۡنَ يُرِيۡدُوۡنَ اَنۡ يَّاۡمَنُوۡكُمۡ وَيَاۡمَنُوۡا
-  قَوۡمَهُمۡ ؕ كُلَّمَا رُدُّوۡۤا اِلَى الۡفِتۡنَةِ اُرۡكِسُوۡا فِيۡهَا​​ ۚ فَاِنۡ
-  لَّمۡ يَعۡتَزِلُوۡكُمۡ وَيُلۡقُوۡۤا اِلَيۡكُمُ السَّلَمَ وَيَكُفُّوۡۤا اَيۡدِيَهُمۡ
-  فَخُذُوۡهُمۡ وَاقۡتُلُوۡهُمۡ حَيۡثُ ثَقِفۡتُمُوۡهُمۡ​ ؕ وَاُولٰٓٮِٕكُمۡ جَعَلۡنَا
-  لَـكُمۡ عَلَيۡهِمۡ سُلۡطٰنًا مُّبِيۡنًا‏
+arabic_ayat: سَتَجِدُونَ ءَاخَرِينَ يُرِيدُونَ أَن يَأۡمَنُوكُمۡ وَيَأۡمَنُواْ قَوۡمَهُمۡ
+  كُلَّ مَا رُدُّوٓاْ إِلَى ٱلۡفِتۡنَةِ أُرۡكِسُواْ فِيهَاۚ فَإِن لَّمۡ يَعۡتَزِلُوكُمۡ
+  وَيُلۡقُوٓاْ إِلَيۡكُمُ ٱلسَّلَمَ وَيَكُفُّوٓاْ أَيۡدِيَهُمۡ فَخُذُوهُمۡ وَٱقۡتُلُوهُمۡ
+  حَيۡثُ ثَقِفۡتُمُوهُمۡۚ وَأُوْلَٰٓئِكُمۡ جَعَلۡنَا لَكُمۡ عَلَيۡهِمۡ سُلۡطَٰنٗا
+  مُّبِينٗا
 sentence_translation: You will find others who wish to be safe from you and their
   own people. Yet they cannot resist the temptation ˹of disbelief or hostility˺. If
   they do not keep away, offer you peace, or refrain from attacking you, then seize
@@ -11,31 +11,31 @@ sentence_translation: You will find others who wish to be safe from you and thei
   such people.
 word_by_word:
   1:
-    arabic: سَتَجِدُوۡنَ
+    arabic: سَتَجِدُونَ ءَ
     translation: You will find
     transliteration: satajidūna
   2:
-    arabic: اٰخَرِيۡنَ
+    arabic: اخَرِينَ
     translation: others
     transliteration: ākharīna
   3:
-    arabic: يُرِيۡدُوۡنَ
+    arabic: يُرِيدُونَ
     translation: wishing
     transliteration: yurīdūna
   4:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that
     transliteration: an
   5:
-    arabic: يَّاۡمَنُوۡكُمۡ
+    arabic: يَأۡمَنُوكُمۡ
     translation: they be secure from you
     transliteration: yamanūkum
   6:
-    arabic: وَيَاۡمَنُوۡا
+    arabic: وَيَأۡمَنُواْ
     translation: and they be secure from
     transliteration: wayamanū
   7:
-    arabic: قَوۡمَهُمۡ ؕ
+    arabic: قَوۡمَهُمۡ
     translation: their people
     transliteration: qawmahum
   8:
@@ -47,27 +47,27 @@ word_by_word:
     translation: that
     transliteration: mā
   10:
-    arabic: رُدُّوۡۤا
+    arabic: رُدُّوٓاْ
     translation: they are returned
     transliteration: ruddū
   11:
-    arabic: اِلَى
+    arabic: إِلَى
     translation: to
     transliteration: ilā
   12:
-    arabic: الۡفِتۡنَةِ
+    arabic: ٱلۡفِتۡنَةِ
     translation: the temptation
     transliteration: l-fit'nati
   13:
-    arabic: اُرۡكِسُوۡا
+    arabic: أُرۡكِسُواْ
     translation: they are plunged
     transliteration: ur'kisū
   14:
-    arabic: فِيۡهَا​​ ۚ
+    arabic: فِيهَاۚ
     translation: into it
     transliteration: fīhā
   15:
-    arabic: فَاِنۡ
+    arabic: فَإِن
     translation: So if
     transliteration: fa-in
   16:
@@ -75,35 +75,35 @@ word_by_word:
     translation: not
     transliteration: lam
   17:
-    arabic: يَعۡتَزِلُوۡكُمۡ
+    arabic: يَعۡتَزِلُوكُمۡ
     translation: they withdraw from you
     transliteration: yaʿtazilūkum
   18:
-    arabic: وَيُلۡقُوۡۤا
+    arabic: وَيُلۡقُوٓاْ
     translation: and offer
     transliteration: wayul'qū
   19:
-    arabic: اِلَيۡكُمُ
+    arabic: إِلَيۡكُمُ
     translation: to you
     transliteration: ilaykumu
   20:
-    arabic: السَّلَمَ
+    arabic: ٱلسَّلَمَ
     translation: '[the] peace'
     transliteration: l-salama
   21:
-    arabic: وَيَكُفُّوۡۤا
+    arabic: وَيَكُفُّوٓاْ
     translation: and they restrain
     transliteration: wayakuffū
   22:
-    arabic: اَيۡدِيَهُمۡ
+    arabic: أَيۡدِيَهُمۡ
     translation: their hands
     transliteration: aydiyahum
   23:
-    arabic: فَخُذُوۡهُمۡ
+    arabic: فَخُذُوهُمۡ
     translation: then seize them
     transliteration: fakhudhūhum
   24:
-    arabic: وَاقۡتُلُوۡهُمۡ
+    arabic: وَٱقۡتُلُوهُمۡ
     translation: and kill them
     transliteration: wa-uq'tulūhum
   25:
@@ -111,11 +111,11 @@ word_by_word:
     translation: wherever
     transliteration: ḥaythu
   26:
-    arabic: ثَقِفۡتُمُوۡهُمۡ​ ؕ
+    arabic: ثَقِفۡتُمُوهُمۡۚ
     translation: you find them
     transliteration: thaqif'tumūhum
   27:
-    arabic: وَاُولٰٓٮِٕكُمۡ
+    arabic: وَأُوْلَٰٓئِكُمۡ
     translation: 'And those '
     transliteration: wa-ulāikum
   28:
@@ -123,7 +123,7 @@ word_by_word:
     translation: We made
     transliteration: jaʿalnā
   29:
-    arabic: لَـكُمۡ
+    arabic: لَكُمۡ
     translation: for you
     transliteration: lakum
   30:
@@ -131,11 +131,11 @@ word_by_word:
     translation: against them
     transliteration: ʿalayhim
   31:
-    arabic: سُلۡطٰنًا
+    arabic: سُلۡطَٰنٗا
     translation: an authority
     transliteration: sul'ṭānan
   32:
-    arabic: مُّبِيۡنًا‏
+    arabic: مُّبِينٗا
     translation: clear
     transliteration: mubīnan
 ---

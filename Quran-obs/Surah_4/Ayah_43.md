@@ -1,10 +1,10 @@
 ---
-arabic_ayat: يٰۤـاَيُّهَا الَّذِيۡنَ اٰمَنُوۡا لَا تَقۡرَبُوا الصَّلٰوةَ وَاَنۡـتُمۡ
-  سُكَارٰى حَتّٰى تَعۡلَمُوۡا مَا تَقُوۡلُوۡنَ وَلَا جُنُبًا اِلَّا عَابِرِىۡ سَبِيۡلٍ
-  حَتّٰى تَغۡتَسِلُوۡا​ ؕ وَاِنۡ كُنۡتُمۡ مَّرۡضٰۤى اَوۡ عَلٰى سَفَرٍ اَوۡ جَآءَ
-  اَحَدٌ مِّنۡكُمۡ مِّنَ الۡغَآٮِٕطِ اَوۡ لٰمَسۡتُمُ النِّسَآءَ فَلَمۡ تَجِدُوۡا
-  مَآءً فَتَيَمَّمُوۡا صَعِيۡدًا طَيِّبًا فَامۡسَحُوۡا بِوُجُوۡهِكُمۡ وَاَيۡدِيۡكُمۡ​
-  ؕ اِنَّ اللّٰهَ كَانَ عَفُوًّا غَفُوۡرًا‏
+arabic_ayat: يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُواْ لَا تَقۡرَبُواْ ٱلصَّلَوٰةَ وَأَنتُمۡ
+  سُكَٰرَىٰ حَتَّىٰ تَعۡلَمُواْ مَا تَقُولُونَ وَلَا جُنُبًا إِلَّا عَابِرِي سَبِيلٍ
+  حَتَّىٰ تَغۡتَسِلُواْۚ وَإِن كُنتُم مَّرۡضَىٰٓ أَوۡ عَلَىٰ سَفَرٍ أَوۡ جَآءَ أَحَدٞ
+  مِّنكُم مِّنَ ٱلۡغَآئِطِ أَوۡ لَٰمَسۡتُمُ ٱلنِّسَآءَ فَلَمۡ تَجِدُواْ مَآءٗ فَتَيَمَّمُواْ
+  صَعِيدٗا طَيِّبٗا فَٱمۡسَحُواْ بِوُجُوهِكُمۡ وَأَيۡدِيكُمۡۗ إِنَّ ٱللَّهَ كَانَ
+  عَفُوًّا غَفُورًا
 sentence_translation: O believers! Do not approach prayer while intoxicated until
   you are aware of what you say, nor in a state of ˹full˺ impurity—unless you merely
   pass through ˹the mosque˺—until you have bathed. But if you are ill, on a journey,
@@ -13,15 +13,15 @@ sentence_translation: O believers! Do not approach prayer while intoxicated unt
   is Ever-Pardoning, All-Forgiving.
 word_by_word:
   1:
-    arabic: يٰۤـاَيُّهَا
+    arabic: يَٰٓأَيُّهَا
     translation: O you
     transliteration: yāayyuhā
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ ءَ
     translation: who
     transliteration: alladhīna
   3:
-    arabic: اٰمَنُوۡا
+    arabic: امَنُواْ
     translation: believe[d]
     transliteration: āmanū
   4:
@@ -29,27 +29,27 @@ word_by_word:
     translation: (Do) not
     transliteration: lā
   5:
-    arabic: تَقۡرَبُوا
+    arabic: تَقۡرَبُواْ
     translation: go near
     transliteration: taqrabū
   6:
-    arabic: الصَّلٰوةَ
+    arabic: ٱلصَّلَوٰةَ
     translation: the prayer
     transliteration: l-ṣalata
   7:
-    arabic: وَاَنۡـتُمۡ
+    arabic: وَأَنتُمۡ
     translation: while you
     transliteration: wa-antum
   8:
-    arabic: سُكَارٰى
+    arabic: سُكَٰرَىٰ
     translation: (are) intoxicated
     transliteration: sukārā
   9:
-    arabic: حَتّٰى
+    arabic: حَتَّىٰ
     translation: until
     transliteration: ḥattā
   10:
-    arabic: تَعۡلَمُوۡا
+    arabic: تَعۡلَمُواْ
     translation: you know
     transliteration: taʿlamū
   11:
@@ -57,7 +57,7 @@ word_by_word:
     translation: what
     transliteration: mā
   12:
-    arabic: تَقُوۡلُوۡنَ
+    arabic: تَقُولُونَ
     translation: you are saying
     transliteration: taqūlūna
   13:
@@ -69,43 +69,43 @@ word_by_word:
     translation: (when you are) impure
     transliteration: junuban
   15:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   16:
-    arabic: عَابِرِىۡ
+    arabic: عَابِرِي
     translation: (when) passing
     transliteration: ʿābirī
   17:
-    arabic: سَبِيۡلٍ
+    arabic: سَبِيلٍ
     translation: (through) a way
     transliteration: sabīlin
   18:
-    arabic: حَتّٰى
+    arabic: حَتَّىٰ
     translation: until
     transliteration: ḥattā
   19:
-    arabic: تَغۡتَسِلُوۡا​ ؕ
+    arabic: تَغۡتَسِلُواْۚ
     translation: you have bathed
     transliteration: taghtasilū
   20:
-    arabic: وَاِنۡ
+    arabic: وَإِن
     translation: And if
     transliteration: wa-in
   21:
-    arabic: كُنۡتُمۡ
+    arabic: كُنتُم
     translation: you are
     transliteration: kuntum
   22:
-    arabic: مَّرۡضٰۤى
+    arabic: مَّرۡضَىٰٓ
     translation: ill
     transliteration: marḍā
   23:
-    arabic: اَوۡ
+    arabic: أَوۡ
     translation: or
     transliteration: aw
   24:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: 'on'
     transliteration: ʿalā
   25:
@@ -113,7 +113,7 @@ word_by_word:
     translation: a journey
     transliteration: safarin
   26:
-    arabic: اَوۡ
+    arabic: أَوۡ
     translation: or
     transliteration: aw
   27:
@@ -121,11 +121,11 @@ word_by_word:
     translation: came
     transliteration: jāa
   28:
-    arabic: اَحَدٌ
+    arabic: أَحَدٞ
     translation: one
     transliteration: aḥadun
   29:
-    arabic: مِّنۡكُمۡ
+    arabic: مِّنكُم
     translation: of you
     transliteration: minkum
   30:
@@ -133,19 +133,19 @@ word_by_word:
     translation: from
     transliteration: mina
   31:
-    arabic: الۡغَآٮِٕطِ
+    arabic: ٱلۡغَآئِطِ
     translation: the toilet
     transliteration: l-ghāiṭi
   32:
-    arabic: اَوۡ
+    arabic: أَوۡ
     translation: or
     transliteration: aw
   33:
-    arabic: لٰمَسۡتُمُ
+    arabic: لَٰمَسۡتُمُ
     translation: you have touched
     transliteration: lāmastumu
   34:
-    arabic: النِّسَآءَ
+    arabic: ٱلنِّسَآءَ
     translation: the women
     transliteration: l-nisāa
   35:
@@ -153,43 +153,43 @@ word_by_word:
     translation: and not
     transliteration: falam
   36:
-    arabic: تَجِدُوۡا
+    arabic: تَجِدُواْ
     translation: you find
     transliteration: tajidū
   37:
-    arabic: مَآءً
+    arabic: مَآءٗ
     translation: water
     transliteration: māan
   38:
-    arabic: فَتَيَمَّمُوۡا
+    arabic: فَتَيَمَّمُواْ
     translation: then do tayammum
     transliteration: fatayammamū
   39:
-    arabic: صَعِيۡدًا
+    arabic: صَعِيدٗا
     translation: (with) earth
     transliteration: ṣaʿīdan
   40:
-    arabic: طَيِّبًا
+    arabic: طَيِّبٗا
     translation: clean
     transliteration: ṭayyiban
   41:
-    arabic: فَامۡسَحُوۡا
+    arabic: فَٱمۡسَحُواْ
     translation: and wipe (with it)
     transliteration: fa-im'saḥū
   42:
-    arabic: بِوُجُوۡهِكُمۡ
+    arabic: بِوُجُوهِكُمۡ
     translation: your faces
     transliteration: biwujūhikum
   43:
-    arabic: وَاَيۡدِيۡكُمۡ​ ؕ
+    arabic: وَأَيۡدِيكُمۡۗ
     translation: and your hands
     transliteration: wa-aydīkum
   44:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   45:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   46:
@@ -201,7 +201,7 @@ word_by_word:
     translation: Oft-Pardoning
     transliteration: ʿafuwwan
   48:
-    arabic: غَفُوۡرًا‏
+    arabic: غَفُورًا
     translation: Oft-Forgiving
     transliteration: ghafūran
 ---

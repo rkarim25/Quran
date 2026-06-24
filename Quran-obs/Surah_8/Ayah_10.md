@@ -1,6 +1,6 @@
 ---
-arabic_ayat: وَمَا جَعَلَهُ اللّٰهُ اِلَّا بُشۡرٰى وَلِتَطۡمَٮِٕنَّ بِهٖ قُلُوۡبُكُمۡ​ۚ
-  وَمَا النَّصۡرُ اِلَّا مِنۡ عِنۡدِ اللّٰهِ​ؕ اِنَّ اللّٰهَ عَزِيۡزٌ حَكِيۡمٌ‏
+arabic_ayat: وَمَا جَعَلَهُ ٱللَّهُ إِلَّا بُشۡرَىٰ وَلِتَطۡمَئِنَّ بِهِۦ قُلُوبُكُمۡۚ
+  وَمَا ٱلنَّصۡرُ إِلَّا مِنۡ عِندِ ٱللَّهِۚ إِنَّ ٱللَّهَ عَزِيزٌ حَكِيمٌ
 sentence_translation: And Allah made this a sign of victory and reassurance to your
   hearts. Victory comes only from Allah. Surely Allah is Almighty, All-Wise.
 word_by_word:
@@ -13,27 +13,27 @@ word_by_word:
     translation: (it was) made
     transliteration: jaʿalahu
   3:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: (by) Allah
     transliteration: l-lahu
   4:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: but
     transliteration: illā
   5:
-    arabic: بُشۡرٰى
+    arabic: بُشۡرَىٰ
     translation: good tidings
     transliteration: bush'rā
   6:
-    arabic: وَلِتَطۡمَٮِٕنَّ
+    arabic: وَلِتَطۡمَئِنَّ
     translation: and so that might be at rest
     transliteration: walitaṭma-inna
   7:
-    arabic: بِهٖ
+    arabic: بِهِۦ
     translation: with it
     transliteration: bihi
   8:
-    arabic: قُلُوۡبُكُمۡ​ۚ
+    arabic: قُلُوبُكُمۡۚ
     translation: your hearts
     transliteration: qulūbukum
   9:
@@ -41,11 +41,11 @@ word_by_word:
     translation: And (there is) no
     transliteration: wamā
   10:
-    arabic: النَّصۡرُ
+    arabic: ٱلنَّصۡرُ
     translation: '[the] victory'
     transliteration: l-naṣru
   11:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   12:
@@ -53,27 +53,27 @@ word_by_word:
     translation: from
     transliteration: min
   13:
-    arabic: عِنۡدِ
+    arabic: عِندِ
     translation: '[of]'
     transliteration: ʿindi
   14:
-    arabic: اللّٰهِ​ؕ
+    arabic: ٱللَّهِۚ
     translation: Allah
     transliteration: l-lahi
   15:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   16:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   17:
-    arabic: عَزِيۡزٌ
+    arabic: عَزِيزٌ
     translation: (is) All-Mighty
     transliteration: ʿazīzun
   18:
-    arabic: حَكِيۡمٌ‏
+    arabic: حَكِيمٌ
     translation: All-Wise
     transliteration: ḥakīmun
 ---

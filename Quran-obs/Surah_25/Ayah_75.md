@@ -1,12 +1,12 @@
 ---
-arabic_ayat: اُولٰٓٮِٕكَ يُجۡزَوۡنَ الۡغُرۡفَةَ بِمَا صَبَرُوۡا وَيُلَقَّوۡنَ فِيۡهَا
-  تَحِيَّةً وَّسَلٰمًا ۙ‏
+arabic_ayat: أُوْلَٰٓئِكَ يُجۡزَوۡنَ ٱلۡغُرۡفَةَ بِمَا صَبَرُواْ وَيُلَقَّوۡنَ فِيهَا
+  تَحِيَّةٗ وَسَلَٰمًا
 sentence_translation: It is they who will be rewarded with ˹elevated˺ mansions ˹in
   Paradise˺ for their perseverance, and will be received with salutations and ˹greetings
   of˺ peace,
 word_by_word:
   1:
-    arabic: اُولٰٓٮِٕكَ
+    arabic: أُوْلَٰٓئِكَ
     translation: Those
     transliteration: ulāika
   2:
@@ -14,7 +14,7 @@ word_by_word:
     translation: will be awarded
     transliteration: yuj'zawna
   3:
-    arabic: الۡغُرۡفَةَ
+    arabic: ٱلۡغُرۡفَةَ
     translation: the Chamber
     transliteration: l-ghur'fata
   4:
@@ -22,7 +22,7 @@ word_by_word:
     translation: because
     transliteration: bimā
   5:
-    arabic: صَبَرُوۡا
+    arabic: صَبَرُواْ
     translation: they were patient
     transliteration: ṣabarū
   6:
@@ -30,15 +30,15 @@ word_by_word:
     translation: and they will be met
     transliteration: wayulaqqawna
   7:
-    arabic: فِيۡهَا
+    arabic: فِيهَا
     translation: therein
     transliteration: fīhā
   8:
-    arabic: تَحِيَّةً
+    arabic: تَحِيَّةٗ
     translation: (with) greetings
     transliteration: taḥiyyatan
   9:
-    arabic: وَّسَلٰمًا ۙ‏
+    arabic: وَسَلَٰمًا
     translation: and peace
     transliteration: wasalāman
 ---

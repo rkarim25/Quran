@@ -1,14 +1,14 @@
 ---
-arabic_ayat: قَالُوۡۤا اَنُؤۡمِنُ لَكَ وَاتَّبَعَكَ الۡاَرۡذَلُوۡنَؕ‏
+arabic_ayat: ۞ قَالُوٓاْ أَنُؤۡمِنُ لَكَ وَٱتَّبَعَكَ ٱلۡأَرۡذَلُونَ
 sentence_translation: They argued, “How can we believe in you, when you are followed
   ˹only˺ by the lowest of the low?”
 word_by_word:
   1:
-    arabic: ۞ قَالُوۡۤا
+    arabic: ۞ قَالُوٓاْ
     translation: They said
     transliteration: qālū
   2:
-    arabic: اَنُؤۡمِنُ
+    arabic: أَنُؤۡمِنُ
     translation: Should we believe
     transliteration: anu'minu
   3:
@@ -16,11 +16,11 @@ word_by_word:
     translation: in you
     transliteration: laka
   4:
-    arabic: وَاتَّبَعَكَ
+    arabic: وَٱتَّبَعَكَ
     translation: while followed you
     transliteration: wa-ittabaʿaka
   5:
-    arabic: الۡاَرۡذَلُوۡنَؕ‏
+    arabic: ٱلۡأَرۡذَلُونَ
     translation: the lowest
     transliteration: l-ardhalūna
 ---

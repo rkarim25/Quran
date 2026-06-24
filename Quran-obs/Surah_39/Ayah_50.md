@@ -1,6 +1,6 @@
 ---
-arabic_ayat: قَدۡ قَالَهَا الَّذِيۡنَ مِنۡ قَبۡلِهِمۡ فَمَاۤ اَغۡنٰى عَنۡهُمۡ مَّا
-  كَانُوۡا يَكۡسِبُوۡنَ‏
+arabic_ayat: قَدۡ قَالَهَا ٱلَّذِينَ مِن قَبۡلِهِمۡ فَمَآ أَغۡنَىٰ عَنۡهُم مَّا كَانُواْ
+  يَكۡسِبُونَ
 sentence_translation: The same had already been said by those ˹destroyed˺ before them, but
   their ˹worldly˺ gains were of no benefit to them.
 word_by_word:
@@ -13,11 +13,11 @@ word_by_word:
     translation: said it
     transliteration: qālahā
   3:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those
     transliteration: alladhīna
   4:
-    arabic: مِنۡ
+    arabic: مِن
     translation: before them
     transliteration: min
   5:
@@ -25,15 +25,15 @@ word_by_word:
     translation: before them
     transliteration: qablihim
   6:
-    arabic: فَمَاۤ
+    arabic: فَمَآ
     translation: but (did) not
     transliteration: famā
   7:
-    arabic: اَغۡنٰى
+    arabic: أَغۡنَىٰ
     translation: avail
     transliteration: aghnā
   8:
-    arabic: عَنۡهُمۡ
+    arabic: عَنۡهُم
     translation: them
     transliteration: ʿanhum
   9:
@@ -41,11 +41,11 @@ word_by_word:
     translation: what
     transliteration: mā
   10:
-    arabic: كَانُوۡا
+    arabic: كَانُواْ
     translation: they used to
     transliteration: kānū
   11:
-    arabic: يَكۡسِبُوۡنَ‏
+    arabic: يَكۡسِبُونَ
     translation: earn
     transliteration: yaksibūna
 ---

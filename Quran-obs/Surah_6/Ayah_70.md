@@ -1,10 +1,9 @@
 ---
-arabic_ayat: "وَذَرِ الَّذِيۡنَ اتَّخَذُوۡا دِيۡنَهُمۡ لَعِبًا وَّلَهۡوًا وَّغَرَّتۡهُمُ\
-  \ الۡحَيٰوةُ الدُّنۡيَا​ وَ ذَكِّرۡ بِهٖۤ اَنۡ تُبۡسَلَ نَفۡسٌ ۢ بِمَا كَسَبَتۡ​ۖ\
-  \ لَـيۡسَ لَهَا مِنۡ دُوۡنِ اللّٰهِ وَلِىٌّ وَّلَا شَفِيۡعٌ​ ۚ وَاِنۡ تَعۡدِلۡ كُلَّ\
-  \ عَدۡلٍ لَّا يُؤۡخَذۡ مِنۡهَا​ ؕ اُولٰٓٮِٕكَ الَّذِيۡنَ اُبۡسِلُوۡا بِمَا كَسَبُوۡا​\
-  \ ۚ لَهُمۡ شَرَابٌ مِّنۡ حَمِيۡمٍ وَّعَذَابٌ اَ لِيۡمٌۢ بِمَا كَانُوۡا يَكۡفُرُوۡنَ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: وَذَرِ ٱلَّذِينَ ٱتَّخَذُواْ دِينَهُمۡ لَعِبٗا وَلَهۡوٗا وَغَرَّتۡهُمُ
+  ٱلۡحَيَوٰةُ ٱلدُّنۡيَاۚ وَذَكِّرۡ بِهِۦٓ أَن تُبۡسَلَ نَفۡسُۢ بِمَا كَسَبَتۡ لَيۡسَ
+  لَهَا مِن دُونِ ٱللَّهِ وَلِيّٞ وَلَا شَفِيعٞ وَإِن تَعۡدِلۡ كُلَّ عَدۡلٖ لَّا يُؤۡخَذۡ
+  مِنۡهَآۗ أُوْلَٰٓئِكَ ٱلَّذِينَ أُبۡسِلُواْ بِمَا كَسَبُواْۖ لَهُمۡ شَرَابٞ مِّنۡ
+  حَمِيمٖ وَعَذَابٌ أَلِيمُۢ بِمَا كَانُواْ يَكۡفُرُونَ
 sentence_translation: And leave those who take this faith ˹of Islam˺ as mere play
   and amusement and are deluded by ˹their˺ worldly life. Yet remind them by this ˹Quran˺,
   so no one should be ruined for their misdeeds. They will have no protector or intercessor
@@ -17,47 +16,47 @@ word_by_word:
     translation: And leave
     transliteration: wadhari
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   3:
-    arabic: اتَّخَذُوۡا
+    arabic: ٱتَّخَذُواْ
     translation: take
     transliteration: ittakhadhū
   4:
-    arabic: دِيۡنَهُمۡ
+    arabic: دِينَهُمۡ
     translation: their religion
     transliteration: dīnahum
   5:
-    arabic: لَعِبًا
+    arabic: لَعِبٗا
     translation: (as) a play
     transliteration: laʿiban
   6:
-    arabic: وَّلَهۡوًا
+    arabic: وَلَهۡوٗا
     translation: and amusement
     transliteration: walahwan
   7:
-    arabic: وَّغَرَّتۡهُمُ
+    arabic: وَغَرَّتۡهُمُ
     translation: and deluded them
     transliteration: wagharrathumu
   8:
-    arabic: الۡحَيٰوةُ
+    arabic: ٱلۡحَيَوٰةُ
     translation: the life
     transliteration: l-ḥayatu
   9:
-    arabic: الدُّنۡيَا​
+    arabic: ٱلدُّنۡيَاۚ
     translation: (of) the world
     transliteration: l-dun'yā
   10:
-    arabic: وَ ذَكِّرۡ
+    arabic: وَذَكِّرۡ
     translation: But remind
     transliteration: wadhakkir
   11:
-    arabic: بِهٖۤ
+    arabic: بِهِۦٓ
     translation: with it
     transliteration: bihi
   12:
-    arabic: اَنۡ
+    arabic: أَن
     translation: lest
     transliteration: an
   13:
@@ -65,7 +64,7 @@ word_by_word:
     translation: is given up to destruction
     transliteration: tub'sala
   14:
-    arabic: نَفۡسٌ ۢ
+    arabic: نَفۡسُۢ
     translation: a soul
     transliteration: nafsun
   15:
@@ -73,11 +72,11 @@ word_by_word:
     translation: for what
     transliteration: bimā
   16:
-    arabic: كَسَبَتۡ​ۖ
+    arabic: كَسَبَتۡ
     translation: it (has) earned
     transliteration: kasabat
   17:
-    arabic: لَـيۡسَ
+    arabic: لَيۡسَ
     translation: not
     transliteration: laysa
   18:
@@ -85,31 +84,31 @@ word_by_word:
     translation: (is) for it
     transliteration: lahā
   19:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   20:
-    arabic: دُوۡنِ
+    arabic: دُونِ
     translation: besides
     transliteration: dūni
   21:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   22:
-    arabic: وَلِىٌّ
+    arabic: وَلِيّٞ
     translation: any protector
     transliteration: waliyyun
   23:
-    arabic: وَّلَا
+    arabic: وَلَا
     translation: and not
     transliteration: walā
   24:
-    arabic: شَفِيۡعٌ​ ۚ
+    arabic: شَفِيعٞ
     translation: any intercessor
     transliteration: shafīʿun
   25:
-    arabic: وَاِنۡ
+    arabic: وَإِن
     translation: And if
     transliteration: wa-in
   26:
@@ -121,7 +120,7 @@ word_by_word:
     translation: every
     transliteration: kulla
   28:
-    arabic: عَدۡلٍ
+    arabic: عَدۡلٖ
     translation: ransom
     transliteration: ʿadlin
   29:
@@ -133,19 +132,19 @@ word_by_word:
     translation: will it be taken
     transliteration: yu'khadh
   31:
-    arabic: مِنۡهَا​ ؕ
+    arabic: مِنۡهَآۗ
     translation: from it
     transliteration: min'hā
   32:
-    arabic: اُولٰٓٮِٕكَ
+    arabic: أُوْلَٰٓئِكَ
     translation: Those
     transliteration: ulāika
   33:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: (are) ones who
     transliteration: alladhīna
   34:
-    arabic: اُبۡسِلُوۡا
+    arabic: أُبۡسِلُواْ
     translation: are given to destruction
     transliteration: ub'silū
   35:
@@ -153,7 +152,7 @@ word_by_word:
     translation: for what
     transliteration: bimā
   36:
-    arabic: كَسَبُوۡا​ ۚ
+    arabic: كَسَبُواْۖ
     translation: they earned
     transliteration: kasabū
   37:
@@ -161,7 +160,7 @@ word_by_word:
     translation: For them
     transliteration: lahum
   38:
-    arabic: شَرَابٌ
+    arabic: شَرَابٞ
     translation: (will be) a drink
     transliteration: sharābun
   39:
@@ -169,15 +168,15 @@ word_by_word:
     translation: of
     transliteration: min
   40:
-    arabic: حَمِيۡمٍ
+    arabic: حَمِيمٖ
     translation: boiling water
     transliteration: ḥamīmin
   41:
-    arabic: وَّعَذَابٌ
+    arabic: وَعَذَابٌ
     translation: and a punishment
     transliteration: waʿadhābun
   42:
-    arabic: اَ لِيۡمٌۢ
+    arabic: أَلِيمُۢ
     translation: painful
     transliteration: alīmun
   43:
@@ -185,11 +184,11 @@ word_by_word:
     translation: because
     transliteration: bimā
   44:
-    arabic: كَانُوۡا
+    arabic: كَانُواْ
     translation: they used to
     transliteration: kānū
   45:
-    arabic: "يَكۡفُرُوۡنَ‏ \uFEFF\uFEFF"
+    arabic: يَكۡفُرُونَ
     translation: disbelieve
     transliteration: yakfurūna
 ---

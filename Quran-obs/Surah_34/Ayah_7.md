@@ -1,6 +1,6 @@
 ---
-arabic_ayat: وَقَالَ الَّذِيۡنَ كَفَرُوۡا هَلۡ نَدُلُّكُمۡ عَلٰى رَجُلٍ يُّنَبِّئُكُمۡ
-  اِذَا مُزِّقۡتُمۡ كُلَّ مُمَزَّقٍۙ اِنَّكُمۡ لَفِىۡ خَلۡقٍ جَدِيۡدٍۚ‏
+arabic_ayat: وَقَالَ ٱلَّذِينَ كَفَرُواْ هَلۡ نَدُلُّكُمۡ عَلَىٰ رَجُلٖ يُنَبِّئُكُمۡ
+  إِذَا مُزِّقۡتُمۡ كُلَّ مُمَزَّقٍ إِنَّكُمۡ لَفِي خَلۡقٖ جَدِيدٍ
 sentence_translation: The disbelievers say ˹mockingly to one another˺, “Shall we show
   you a man who claims that when you have been utterly disintegrated you will be raised
   as a new creation?
@@ -10,11 +10,11 @@ word_by_word:
     translation: But say
     transliteration: waqāla
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   3:
-    arabic: كَفَرُوۡا
+    arabic: كَفَرُواْ
     translation: disbelieve
     transliteration: kafarū
   4:
@@ -26,19 +26,19 @@ word_by_word:
     translation: we direct you
     transliteration: nadullukum
   6:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: to
     transliteration: ʿalā
   7:
-    arabic: رَجُلٍ
+    arabic: رَجُلٖ
     translation: a man
     transliteration: rajulin
   8:
-    arabic: يُّنَبِّئُكُمۡ
+    arabic: يُنَبِّئُكُمۡ
     translation: who informs you
     transliteration: yunabbi-ukum
   9:
-    arabic: اِذَا
+    arabic: إِذَا
     translation: when
     transliteration: idhā
   10:
@@ -50,23 +50,23 @@ word_by_word:
     translation: (in) total
     transliteration: kulla
   12:
-    arabic: مُمَزَّقٍۙ
+    arabic: مُمَزَّقٍ
     translation: disintegration
     transliteration: mumazzaqin
   13:
-    arabic: اِنَّكُمۡ
+    arabic: إِنَّكُمۡ
     translation: indeed you
     transliteration: innakum
   14:
-    arabic: لَفِىۡ
+    arabic: لَفِي
     translation: surely (will be) in
     transliteration: lafī
   15:
-    arabic: خَلۡقٍ
+    arabic: خَلۡقٖ
     translation: a creation
     transliteration: khalqin
   16:
-    arabic: جَدِيۡدٍۚ‏
+    arabic: جَدِيدٍ
     translation: new
     transliteration: jadīdin
 ---

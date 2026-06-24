@@ -1,17 +1,17 @@
 ---
-arabic_ayat: فَاَنۡۢبَتۡنَا فِيۡهَا حَبًّا ۙ‏
+arabic_ayat: فَأَنۢبَتۡنَا فِيهَا حَبّٗا
 sentence_translation: causing grain to grow in it,
 word_by_word:
   1:
-    arabic: فَاَنۡۢبَتۡنَا
+    arabic: فَأَنۢبَتۡنَا
     translation: Then We caused to grow
     transliteration: fa-anbatnā
   2:
-    arabic: فِيۡهَا
+    arabic: فِيهَا
     translation: therein
     transliteration: fīhā
   3:
-    arabic: حَبًّا ۙ‏
+    arabic: حَبّٗا
     translation: grain
     transliteration: ḥabban
 ---

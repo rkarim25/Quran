@@ -1,7 +1,7 @@
 ---
-arabic_ayat: وَلَا تَهِنُوۡا فِى ابۡتِغَآءِ الۡقَوۡمِ​ ؕ اِنۡ تَكُوۡنُوۡا تَاۡلَمُوۡنَ
-  فَاِنَّهُمۡ يَاۡلَمُوۡنَ كَمَا تَاۡلَمُوۡنَ​ ۚ وَتَرۡجُوۡنَ مِنَ اللّٰهِ مَا لَا
-  يَرۡجُوۡنَ​ ؕ وَ كَانَ اللّٰهُ عَلِيۡمًا حَكِيۡمًا‏
+arabic_ayat: وَلَا تَهِنُواْ فِي ٱبۡتِغَآءِ ٱلۡقَوۡمِۖ إِن تَكُونُواْ تَأۡلَمُونَ
+  فَإِنَّهُمۡ يَأۡلَمُونَ كَمَا تَأۡلَمُونَۖ وَتَرۡجُونَ مِنَ ٱللَّهِ مَا لَا يَرۡجُونَۗ
+  وَكَانَ ٱللَّهُ عَلِيمًا حَكِيمًا
 sentence_translation: Do not falter in pursuit of the enemy—if you are suffering,
   they too are suffering. But you can hope to receive from Allah what they can never
   hope for. And Allah is All-Knowing, All-Wise.
@@ -11,39 +11,39 @@ word_by_word:
     translation: And (do) not
     transliteration: walā
   2:
-    arabic: تَهِنُوۡا
+    arabic: تَهِنُواْ
     translation: be weak
     transliteration: tahinū
   3:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   4:
-    arabic: ابۡتِغَآءِ
+    arabic: ٱبۡتِغَآءِ
     translation: pursuit
     transliteration: ib'tighāi
   5:
-    arabic: الۡقَوۡمِ​ ؕ
+    arabic: ٱلۡقَوۡمِۖ
     translation: (of) the people
     transliteration: l-qawmi
   6:
-    arabic: اِنۡ
+    arabic: إِن
     translation: If
     transliteration: in
   7:
-    arabic: تَكُوۡنُوۡا
+    arabic: تَكُونُواْ
     translation: you are
     transliteration: takūnū
   8:
-    arabic: تَاۡلَمُوۡنَ
+    arabic: تَأۡلَمُونَ
     translation: suffering
     transliteration: talamūna
   9:
-    arabic: فَاِنَّهُمۡ
+    arabic: فَإِنَّهُمۡ
     translation: then indeed, they
     transliteration: fa-innahum
   10:
-    arabic: يَاۡلَمُوۡنَ
+    arabic: يَأۡلَمُونَ
     translation: are (also) suffering
     transliteration: yalamūna
   11:
@@ -51,11 +51,11 @@ word_by_word:
     translation: like what
     transliteration: kamā
   12:
-    arabic: تَاۡلَمُوۡنَ​ ۚ
+    arabic: تَأۡلَمُونَۖ
     translation: you are suffering
     transliteration: talamūna
   13:
-    arabic: وَتَرۡجُوۡنَ
+    arabic: وَتَرۡجُونَ
     translation: while you (have) hope
     transliteration: watarjūna
   14:
@@ -63,7 +63,7 @@ word_by_word:
     translation: from
     transliteration: mina
   15:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   16:
@@ -75,23 +75,23 @@ word_by_word:
     translation: not
     transliteration: lā
   18:
-    arabic: يَرۡجُوۡنَ​ ؕ
+    arabic: يَرۡجُونَۗ
     translation: they hope
     transliteration: yarjūna
   19:
-    arabic: وَ كَانَ
+    arabic: وَكَانَ
     translation: And is
     transliteration: wakāna
   20:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   21:
-    arabic: عَلِيۡمًا
+    arabic: عَلِيمًا
     translation: All-Knowing
     transliteration: ʿalīman
   22:
-    arabic: حَكِيۡمًا‏
+    arabic: حَكِيمًا
     translation: All-Wise
     transliteration: ḥakīman
 ---

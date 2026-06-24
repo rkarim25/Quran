@@ -1,7 +1,6 @@
 ---
-arabic_ayat: "وَمَنۡ اَحۡسَنُ دِيۡنًا مِّمَّنۡ اَسۡلَمَ وَجۡهَهٗ لِلّٰهِ وَهُوَ مُحۡسِنٌ\
-  \ وَّاتَّبَعَ مِلَّةَ اِبۡرٰهِيۡمَ حَنِيۡفًا​ ؕ وَاتَّخَذَ اللّٰهُ اِبۡرٰهِيۡمَ\
-  \ خَلِيۡلًا‏ \uFEFF\uFEFF"
+arabic_ayat: وَمَنۡ أَحۡسَنُ دِينٗا مِّمَّنۡ أَسۡلَمَ وَجۡهَهُۥ لِلَّهِ وَهُوَ مُحۡسِنٞ
+  وَٱتَّبَعَ مِلَّةَ إِبۡرَٰهِيمَ حَنِيفٗاۗ وَٱتَّخَذَ ٱللَّهُ إِبۡرَٰهِيمَ خَلِيلٗا
 sentence_translation: And who is better in faith than those who ˹fully˺ submit themselves
   to Allah, do good, and follow the Way of Abraham, the upright? Allah chose Abraham
   as a close friend.
@@ -11,11 +10,11 @@ word_by_word:
     translation: And who
     transliteration: waman
   2:
-    arabic: اَحۡسَنُ
+    arabic: أَحۡسَنُ
     translation: (is) better
     transliteration: aḥsanu
   3:
-    arabic: دِيۡنًا
+    arabic: دِينٗا
     translation: (in) religion
     transliteration: dīnan
   4:
@@ -23,15 +22,15 @@ word_by_word:
     translation: than (one) who
     transliteration: mimman
   5:
-    arabic: اَسۡلَمَ
+    arabic: أَسۡلَمَ
     translation: submits
     transliteration: aslama
   6:
-    arabic: وَجۡهَهٗ
+    arabic: وَجۡهَهُۥ
     translation: his face
     transliteration: wajhahu
   7:
-    arabic: لِلّٰهِ
+    arabic: لِلَّهِ
     translation: to Allah
     transliteration: lillahi
   8:
@@ -39,11 +38,11 @@ word_by_word:
     translation: and he
     transliteration: wahuwa
   9:
-    arabic: مُحۡسِنٌ
+    arabic: مُحۡسِنٞ
     translation: (is) a good-doer
     transliteration: muḥ'sinun
   10:
-    arabic: وَّاتَّبَعَ
+    arabic: وَٱتَّبَعَ
     translation: and follows
     transliteration: wa-ittabaʿa
   11:
@@ -51,27 +50,27 @@ word_by_word:
     translation: (the) religion
     transliteration: millata
   12:
-    arabic: اِبۡرٰهِيۡمَ
+    arabic: إِبۡرَٰهِيمَ
     translation: (of) Ibrahim
     transliteration: ib'rāhīma
   13:
-    arabic: حَنِيۡفًا​ ؕ
+    arabic: حَنِيفٗاۗ
     translation: (the) upright
     transliteration: ḥanīfan
   14:
-    arabic: وَاتَّخَذَ
+    arabic: وَٱتَّخَذَ
     translation: And was taken
     transliteration: wa-ittakhadha
   15:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: (by) Allah
     transliteration: l-lahu
   16:
-    arabic: اِبۡرٰهِيۡمَ
+    arabic: إِبۡرَٰهِيمَ
     translation: Ibrahim
     transliteration: ib'rāhīma
   17:
-    arabic: "خَلِيۡلًا‏ \uFEFF\uFEFF"
+    arabic: خَلِيلٗا
     translation: (as) a friend
     transliteration: khalīlan
 ---

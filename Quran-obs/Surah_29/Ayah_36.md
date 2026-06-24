@@ -1,12 +1,12 @@
 ---
-arabic_ayat: وَاِلٰى مَدۡيَنَ اَخَاهُمۡ شُعَيۡبًا ۙ فَقَالَ يٰقَوۡمِ اعۡبُدُوا اللّٰهَ
-  وَ ارۡجُوا الۡيَوۡمَ الۡاٰخِرَ وَلَا تَعۡثَوۡا فِى الۡاَرۡضِ مُفۡسِدِيۡنَ‏
+arabic_ayat: وَإِلَىٰ مَدۡيَنَ أَخَاهُمۡ شُعَيۡبٗا فَقَالَ يَٰقَوۡمِ ٱعۡبُدُواْ ٱللَّهَ
+  وَٱرۡجُواْ ٱلۡيَوۡمَ ٱلۡأٓخِرَ وَلَا تَعۡثَوۡاْ فِي ٱلۡأَرۡضِ مُفۡسِدِينَ
 sentence_translation: And to the people of Midian ˹We sent˺ their brother Shu’aib.
   He said, “O my people! Worship Allah, and hope for ˹the reward of˺ the Last Day.
   And do not go about spreading corruption in the land.”
 word_by_word:
   1:
-    arabic: وَاِلٰى
+    arabic: وَإِلَىٰ
     translation: And to
     transliteration: wa-ilā
   2:
@@ -14,11 +14,11 @@ word_by_word:
     translation: Madyan
     transliteration: madyana
   3:
-    arabic: اَخَاهُمۡ
+    arabic: أَخَاهُمۡ
     translation: their brother
     transliteration: akhāhum
   4:
-    arabic: شُعَيۡبًا ۙ
+    arabic: شُعَيۡبٗا
     translation: Shuaib
     transliteration: shuʿayban
   5:
@@ -26,27 +26,27 @@ word_by_word:
     translation: And he said
     transliteration: faqāla
   6:
-    arabic: يٰقَوۡمِ
+    arabic: يَٰقَوۡمِ
     translation: O my people
     transliteration: yāqawmi
   7:
-    arabic: اعۡبُدُوا
+    arabic: ٱعۡبُدُواْ
     translation: Worship
     transliteration: uʿ'budū
   8:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   9:
-    arabic: وَ ارۡجُوا
+    arabic: وَٱرۡجُواْ
     translation: and expect
     transliteration: wa-ir'jū
   10:
-    arabic: الۡيَوۡمَ
+    arabic: ٱلۡيَوۡمَ
     translation: the Day
     transliteration: l-yawma
   11:
-    arabic: الۡاٰخِرَ
+    arabic: ٱلۡأٓخِرَ
     translation: the Last
     transliteration: l-ākhira
   12:
@@ -54,19 +54,19 @@ word_by_word:
     translation: and (do) not
     transliteration: walā
   13:
-    arabic: تَعۡثَوۡا
+    arabic: تَعۡثَوۡاْ
     translation: commit evil
     transliteration: taʿthaw
   14:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   15:
-    arabic: الۡاَرۡضِ
+    arabic: ٱلۡأَرۡضِ
     translation: the earth
     transliteration: l-arḍi
   16:
-    arabic: مُفۡسِدِيۡنَ‏
+    arabic: مُفۡسِدِينَ
     translation: (as) corrupters
     transliteration: muf'sidīna
 ---

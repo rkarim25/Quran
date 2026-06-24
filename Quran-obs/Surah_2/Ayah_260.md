@@ -1,9 +1,8 @@
 ---
-arabic_ayat: وَاِذۡ قَالَ اِبۡرٰهٖمُ رَبِّ اَرِنِىۡ كَيۡفَ تُحۡىِ الۡمَوۡتٰى ؕ قَالَ
-  اَوَلَمۡ تُؤۡمِنۡ​ؕ قَالَ بَلٰى وَلٰـكِنۡ لِّيَطۡمَٮِٕنَّ قَلۡبِىۡ​ؕ قَالَ فَخُذۡ
-  اَرۡبَعَةً مِّنَ الطَّيۡرِ فَصُرۡهُنَّ اِلَيۡكَ ثُمَّ اجۡعَلۡ عَلٰى كُلِّ جَبَلٍ
-  مِّنۡهُنَّ جُزۡءًا ثُمَّ ادۡعُهُنَّ يَاۡتِيۡنَكَ سَعۡيًا ​ؕ وَاعۡلَمۡ اَنَّ اللّٰهَ
-  عَزِيۡزٌ حَكِيۡمٌ‏
+arabic_ayat: وَإِذۡ قَالَ إِبۡرَٰهِـۧمُ رَبِّ أَرِنِي كَيۡفَ تُحۡيِ ٱلۡمَوۡتَىٰۖ قَالَ
+  أَوَلَمۡ تُؤۡمِنۖ قَالَ بَلَىٰ وَلَٰكِن لِّيَطۡمَئِنَّ قَلۡبِيۖ قَالَ فَخُذۡ أَرۡبَعَةٗ
+  مِّنَ ٱلطَّيۡرِ فَصُرۡهُنَّ إِلَيۡكَ ثُمَّ ٱجۡعَلۡ عَلَىٰ كُلِّ جَبَلٖ مِّنۡهُنَّ
+  جُزۡءٗا ثُمَّ ٱدۡعُهُنَّ يَأۡتِينَكَ سَعۡيٗاۚ وَٱعۡلَمۡ أَنَّ ٱللَّهَ عَزِيزٌ حَكِيمٞ
 sentence_translation: And ˹remember˺ when Abraham said, “My Lord! Show me how you
   give life to the dead.” Allah responded, “Do you not believe?” Abraham replied,
   “Yes I do, but just so my heart can be reassured.” Allah said, “Then bring four
@@ -12,7 +11,7 @@ sentence_translation: And ˹remember˺ when Abraham said, “My Lord! Show me ho
   you will˺ know that Allah is Almighty, All-Wise.”
 word_by_word:
   1:
-    arabic: وَاِذۡ
+    arabic: وَإِذۡ
     translation: And when
     transliteration: wa-idh
   2:
@@ -20,7 +19,7 @@ word_by_word:
     translation: said
     transliteration: qāla
   3:
-    arabic: اِبۡرٰهٖمُ
+    arabic: إِبۡرَٰهِـۧمُ
     translation: Ibrahim
     transliteration: ib'rāhīmu
   4:
@@ -28,7 +27,7 @@ word_by_word:
     translation: My Lord
     transliteration: rabbi
   5:
-    arabic: اَرِنِىۡ
+    arabic: أَرِنِي
     translation: show me
     transliteration: arinī
   6:
@@ -36,11 +35,11 @@ word_by_word:
     translation: how
     transliteration: kayfa
   7:
-    arabic: تُحۡىِ
+    arabic: تُحۡيِ
     translation: You give life
     transliteration: tuḥ'yī
   8:
-    arabic: الۡمَوۡتٰى ؕ
+    arabic: ٱلۡمَوۡتَىٰۖ
     translation: (to) the dead
     transliteration: l-mawtā
   9:
@@ -48,11 +47,11 @@ word_by_word:
     translation: He said
     transliteration: qāla
   10:
-    arabic: اَوَلَمۡ
+    arabic: أَوَلَمۡ
     translation: Have not
     transliteration: awalam
   11:
-    arabic: تُؤۡمِنۡ​ؕ
+    arabic: تُؤۡمِنۖ
     translation: you believed
     transliteration: tu'min
   12:
@@ -60,19 +59,19 @@ word_by_word:
     translation: He said
     transliteration: qāla
   13:
-    arabic: بَلٰى
+    arabic: بَلَىٰ
     translation: 'Yes'
     transliteration: balā
   14:
-    arabic: وَلٰـكِنۡ
+    arabic: وَلَٰكِن
     translation: '[and] but'
     transliteration: walākin
   15:
-    arabic: لِّيَطۡمَٮِٕنَّ
+    arabic: لِّيَطۡمَئِنَّ
     translation: to satisfy
     transliteration: liyaṭma-inna
   16:
-    arabic: قَلۡبِىۡ​ؕ
+    arabic: قَلۡبِيۖ
     translation: my heart
     transliteration: qalbī
   17:
@@ -84,7 +83,7 @@ word_by_word:
     translation: Then take
     transliteration: fakhudh
   19:
-    arabic: اَرۡبَعَةً
+    arabic: أَرۡبَعَةٗ
     translation: four
     transliteration: arbaʿatan
   20:
@@ -92,7 +91,7 @@ word_by_word:
     translation: of
     transliteration: mina
   21:
-    arabic: الطَّيۡرِ
+    arabic: ٱلطَّيۡرِ
     translation: the birds
     transliteration: l-ṭayri
   22:
@@ -100,7 +99,7 @@ word_by_word:
     translation: and incline them
     transliteration: faṣur'hunna
   23:
-    arabic: اِلَيۡكَ
+    arabic: إِلَيۡكَ
     translation: towards you
     transliteration: ilayka
   24:
@@ -108,11 +107,11 @@ word_by_word:
     translation: then
     transliteration: thumma
   25:
-    arabic: اجۡعَلۡ
+    arabic: ٱجۡعَلۡ
     translation: put
     transliteration: ij'ʿal
   26:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: 'on'
     transliteration: ʿalā
   27:
@@ -120,7 +119,7 @@ word_by_word:
     translation: each
     transliteration: kulli
   28:
-    arabic: جَبَلٍ
+    arabic: جَبَلٖ
     translation: hill
     transliteration: jabalin
   29:
@@ -128,7 +127,7 @@ word_by_word:
     translation: of them
     transliteration: min'hunna
   30:
-    arabic: جُزۡءًا
+    arabic: جُزۡءٗا
     translation: a portion
     transliteration: juz'an
   31:
@@ -136,35 +135,35 @@ word_by_word:
     translation: then
     transliteration: thumma
   32:
-    arabic: ادۡعُهُنَّ
+    arabic: ٱدۡعُهُنَّ
     translation: call them
     transliteration: ud'ʿuhunna
   33:
-    arabic: يَاۡتِيۡنَكَ
+    arabic: يَأۡتِينَكَ
     translation: they will come to you
     transliteration: yatīnaka
   34:
-    arabic: سَعۡيًا ​ؕ
+    arabic: سَعۡيٗاۚ
     translation: (in) haste
     transliteration: saʿyan
   35:
-    arabic: وَاعۡلَمۡ
+    arabic: وَٱعۡلَمۡ
     translation: And know
     transliteration: wa-iʿ'lam
   36:
-    arabic: اَنَّ
+    arabic: أَنَّ
     translation: that
     transliteration: anna
   37:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   38:
-    arabic: عَزِيۡزٌ
+    arabic: عَزِيزٌ
     translation: (is) All-Mighty
     transliteration: ʿazīzun
   39:
-    arabic: حَكِيۡمٌ‏
+    arabic: حَكِيمٞ
     translation: All-Wise
     transliteration: ḥakīmun
 ---

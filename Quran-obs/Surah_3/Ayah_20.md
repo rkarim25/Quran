@@ -1,8 +1,8 @@
 ---
-arabic_ayat: فَاِنۡ حَآجُّوۡكَ فَقُلۡ اَسۡلَمۡتُ وَجۡهِىَ لِلّٰهِ وَمَنِ اتَّبَعَنِ​ؕ
-  وَقُل لِّلَّذِيۡنَ اُوۡتُوا الۡكِتٰبَ وَالۡاُمِّيّٖنَ ءَاَسۡلَمۡتُمۡ​ؕ فَاِنۡ اَسۡلَمُوۡا
-  فَقَدِ اهۡتَدَوْا ​ۚ وَاِنۡ تَوَلَّوۡا فَاِنَّمَا عَلَيۡكَ الۡبَلٰغُ ​ ؕ وَاللّٰهُ
-  بَصِيۡرٌۢ بِالۡعِبَادِ‏
+arabic_ayat: فَإِنۡ حَآجُّوكَ فَقُلۡ أَسۡلَمۡتُ وَجۡهِيَ لِلَّهِ وَمَنِ ٱتَّبَعَنِۗ
+  وَقُل لِّلَّذِينَ أُوتُواْ ٱلۡكِتَٰبَ وَٱلۡأُمِّيِّـۧنَ ءَأَسۡلَمۡتُمۡۚ فَإِنۡ أَسۡلَمُواْ
+  فَقَدِ ٱهۡتَدَواْۖ وَّإِن تَوَلَّوۡاْ فَإِنَّمَا عَلَيۡكَ ٱلۡبَلَٰغُۗ وَٱللَّهُ
+  بَصِيرُۢ بِٱلۡعِبَادِ
 sentence_translation: So if they argue with you ˹O Prophet˺, say, “I have submitted
   myself to Allah, and so have my followers.” And ask those who were given the Scripture
   and the illiterate ˹people˺, “Have you submitted yourselves ˹to Allah˺?” If they
@@ -10,11 +10,11 @@ sentence_translation: So if they argue with you ˹O Prophet˺, say, “I have su
   only to deliver ˹the message˺. And Allah is All-Seeing of ˹His˺ servants.
 word_by_word:
   1:
-    arabic: فَاِنۡ
+    arabic: فَإِنۡ
     translation: Then if
     transliteration: fa-in
   2:
-    arabic: حَآجُّوۡكَ
+    arabic: حَآجُّوكَ
     translation: they argue with you
     transliteration: ḥājjūka
   3:
@@ -22,15 +22,15 @@ word_by_word:
     translation: then say
     transliteration: faqul
   4:
-    arabic: اَسۡلَمۡتُ
+    arabic: أَسۡلَمۡتُ
     translation: I have submitted
     transliteration: aslamtu
   5:
-    arabic: وَجۡهِىَ
+    arabic: وَجۡهِيَ
     translation: myself
     transliteration: wajhiya
   6:
-    arabic: لِلّٰهِ
+    arabic: لِلَّهِ
     translation: to Allah
     transliteration: lillahi
   7:
@@ -38,7 +38,7 @@ word_by_word:
     translation: and (those) who
     transliteration: wamani
   8:
-    arabic: اتَّبَعَنِ​ؕ
+    arabic: ٱتَّبَعَنِۗ
     translation: follow me
     transliteration: ittabaʿani
   9:
@@ -46,31 +46,31 @@ word_by_word:
     translation: And say
     transliteration: waqul
   10:
-    arabic: لِّلَّذِيۡنَ
+    arabic: لِّلَّذِينَ
     translation: to those who
     transliteration: lilladhīna
   11:
-    arabic: اُوۡتُوا
+    arabic: أُوتُواْ
     translation: were given
     transliteration: ūtū
   12:
-    arabic: الۡكِتٰبَ
+    arabic: ٱلۡكِتَٰبَ
     translation: the Book
     transliteration: l-kitāba
   13:
-    arabic: وَالۡاُمِّيّٖنَ
+    arabic: وَٱلۡأُمِّيِّـۧنَ
     translation: and the unlettered people
     transliteration: wal-umiyīna
   14:
-    arabic: ءَاَسۡلَمۡتُمۡ​ؕ
+    arabic: ءَأَسۡلَمۡتُمۡۚ
     translation: Have you submitted yourselves
     transliteration: a-aslamtum
   15:
-    arabic: فَاِنۡ
+    arabic: فَإِنۡ
     translation: Then if
     transliteration: fa-in
   16:
-    arabic: اَسۡلَمُوۡا
+    arabic: أَسۡلَمُواْ
     translation: they submit
     transliteration: aslamū
   17:
@@ -78,19 +78,19 @@ word_by_word:
     translation: then surely
     transliteration: faqadi
   18:
-    arabic: اهۡتَدَوْا ​ۚ
+    arabic: ٱهۡتَدَواْۖ
     translation: they are guided
     transliteration: ih'tadaw
   19:
-    arabic: وَاِنۡ
+    arabic: وَّإِن
     translation: But if
     transliteration: wa-in
   20:
-    arabic: تَوَلَّوۡا
+    arabic: تَوَلَّوۡاْ
     translation: they turn back
     transliteration: tawallaw
   21:
-    arabic: فَاِنَّمَا
+    arabic: فَإِنَّمَا
     translation: then only
     transliteration: fa-innamā
   22:
@@ -98,19 +98,19 @@ word_by_word:
     translation: on you
     transliteration: ʿalayka
   23:
-    arabic: الۡبَلٰغُ ​ ؕ
+    arabic: ٱلۡبَلَٰغُۗ
     translation: (is) to [the] convey
     transliteration: l-balāghu
   24:
-    arabic: وَاللّٰهُ
+    arabic: وَٱللَّهُ
     translation: And Allah
     transliteration: wal-lahu
   25:
-    arabic: بَصِيۡرٌۢ
+    arabic: بَصِيرُۢ
     translation: (is) All-Seer
     transliteration: baṣīrun
   26:
-    arabic: بِالۡعِبَادِ‏
+    arabic: بِٱلۡعِبَادِ
     translation: of [His] slaves
     transliteration: bil-ʿibādi
 ---

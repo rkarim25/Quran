@@ -1,54 +1,54 @@
 ---
-arabic_ayat: وَالَّذِيۡنَ كَفَرُوۡۤا اَعۡمَالُهُمۡ كَسَرَابٍۢ بِقِيۡعَةٍ يَّحۡسَبُهُ
-  الظَّمۡاٰنُ مَآءً ؕ حَتّٰۤى اِذَا جَآءَهٗ لَمۡ يَجِدۡهُ شَيۡــًٔـا وَّ وَجَدَ
-  اللّٰهَ عِنۡدَهٗ فَوَفّٰٮهُ حِسَابَهٗ​ ؕ وَاللّٰهُ سَرِيۡعُ الۡحِسَابِ ۙ‏
+arabic_ayat: وَٱلَّذِينَ كَفَرُوٓاْ أَعۡمَٰلُهُمۡ كَسَرَابِۭ بِقِيعَةٖ يَحۡسَبُهُ
+  ٱلظَّمۡـَٔانُ مَآءً حَتَّىٰٓ إِذَا جَآءَهُۥ لَمۡ يَجِدۡهُ شَيۡـٔٗا وَوَجَدَ ٱللَّهَ
+  عِندَهُۥ فَوَفَّىٰهُ حِسَابَهُۥۗ وَٱللَّهُ سَرِيعُ ٱلۡحِسَابِ
 sentence_translation: As for the disbelievers, their deeds are like a mirage in a
   desert, which the thirsty perceive as water, but when they approach it, they find
   it to be nothing. Instead, they find Allah there ˹in the Hereafter, ready˺ to settle
   their account. And Allah is swift in reckoning.
 word_by_word:
   1:
-    arabic: وَالَّذِيۡنَ
+    arabic: وَٱلَّذِينَ
     translation: But those who
     transliteration: wa-alladhīna
   2:
-    arabic: كَفَرُوۡۤا
+    arabic: كَفَرُوٓاْ
     translation: disbelieve
     transliteration: kafarū
   3:
-    arabic: اَعۡمَالُهُمۡ
+    arabic: أَعۡمَٰلُهُمۡ
     translation: their deeds
     transliteration: aʿmāluhum
   4:
-    arabic: كَسَرَابٍۢ
+    arabic: كَسَرَابِۭ
     translation: (are) like a mirage
     transliteration: kasarābin
   5:
-    arabic: بِقِيۡعَةٍ
+    arabic: بِقِيعَةٖ
     translation: in a lowland
     transliteration: biqīʿatin
   6:
-    arabic: يَّحۡسَبُهُ
+    arabic: يَحۡسَبُهُ
     translation: thinks it
     transliteration: yaḥsabuhu
   7:
-    arabic: الظَّمۡاٰنُ
+    arabic: ٱلظَّمۡـَٔانُ
     translation: the thirsty one
     transliteration: l-ẓamānu
   8:
-    arabic: مَآءً ؕ
+    arabic: مَآءً
     translation: (to be) water
     transliteration: māan
   9:
-    arabic: حَتّٰۤى
+    arabic: حَتَّىٰٓ
     translation: until
     transliteration: ḥattā
   10:
-    arabic: اِذَا
+    arabic: إِذَا
     translation: when
     transliteration: idhā
   11:
-    arabic: جَآءَهٗ
+    arabic: جَآءَهُۥ
     translation: he comes to it
     transliteration: jāahu
   12:
@@ -60,39 +60,39 @@ word_by_word:
     translation: he finds it
     transliteration: yajid'hu
   14:
-    arabic: شَيۡــًٔـا
+    arabic: شَيۡـٔٗا
     translation: (to be) anything
     transliteration: shayan
   15:
-    arabic: وَّ وَجَدَ
+    arabic: وَوَجَدَ
     translation: but he finds
     transliteration: wawajada
   16:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   17:
-    arabic: عِنۡدَهٗ
+    arabic: عِندَهُۥ
     translation: before him
     transliteration: ʿindahu
   18:
-    arabic: فَوَفّٰٮهُ
+    arabic: فَوَفَّىٰهُ
     translation: He will pay him in full
     transliteration: fawaffāhu
   19:
-    arabic: حِسَابَهٗ​ ؕ
+    arabic: حِسَابَهُۥۗ
     translation: his due
     transliteration: ḥisābahu
   20:
-    arabic: وَاللّٰهُ
+    arabic: وَٱللَّهُ
     translation: And Allah
     transliteration: wal-lahu
   21:
-    arabic: سَرِيۡعُ
+    arabic: سَرِيعُ
     translation: (is) swift
     transliteration: sarīʿu
   22:
-    arabic: الۡحِسَابِ ۙ‏
+    arabic: ٱلۡحِسَابِ
     translation: (in) the account
     transliteration: l-ḥisābi
 ---

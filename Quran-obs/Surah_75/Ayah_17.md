@@ -1,9 +1,9 @@
 ---
-arabic_ayat: اِنَّ عَلَيۡنَا جَمۡعَهٗ وَقُرۡاٰنَهٗۚ  ۖ‏
+arabic_ayat: إِنَّ عَلَيۡنَا جَمۡعَهُۥ وَقُرۡءَانَهُۥ
 sentence_translation: It is certainly upon Us to ˹make you˺ memorize and recite it.
 word_by_word:
   1:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   2:
@@ -11,11 +11,11 @@ word_by_word:
     translation: upon Us
     transliteration: ʿalaynā
   3:
-    arabic: جَمۡعَهٗ
+    arabic: جَمۡعَهُۥ
     translation: (is) its collection
     transliteration: jamʿahu
   4:
-    arabic: وَقُرۡاٰنَهٗۚ  ۖ‏
+    arabic: وَقُرۡءَانَهُۥ
     translation: and its recitation
     transliteration: waqur'ānahu
 ---

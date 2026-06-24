@@ -1,39 +1,39 @@
 ---
-arabic_ayat: لِيَجۡزِىَ الَّذِيۡنَ اٰمَنُوا وَعَمِلُوۡا الصّٰلِحٰتِ مِنۡ فَضۡلِهٖ​ؕ
-  اِنَّهٗ لَا يُحِبُّ الۡكٰفِرِيۡنَ‏
+arabic_ayat: لِيَجۡزِيَ ٱلَّذِينَ ءَامَنُواْ وَعَمِلُواْ ٱلصَّٰلِحَٰتِ مِن فَضۡلِهِۦٓۚ
+  إِنَّهُۥ لَا يُحِبُّ ٱلۡكَٰفِرِينَ
 sentence_translation: so that He may ˹generously˺ reward those who believe and do
   good, out of His grace. He truly does not like the disbelievers.
 word_by_word:
   1:
-    arabic: لِيَجۡزِىَ
+    arabic: لِيَجۡزِيَ
     translation: That He may reward
     transliteration: liyajziya
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ ءَ
     translation: those who
     transliteration: alladhīna
   3:
-    arabic: اٰمَنُوا
+    arabic: امَنُواْ
     translation: believe
     transliteration: āmanū
   4:
-    arabic: وَعَمِلُوۡا
+    arabic: وَعَمِلُواْ
     translation: and do
     transliteration: waʿamilū
   5:
-    arabic: الصّٰلِحٰتِ
+    arabic: ٱلصَّٰلِحَٰتِ
     translation: righteous deeds
     transliteration: l-ṣāliḥāti
   6:
-    arabic: مِنۡ
+    arabic: مِن
     translation: (out) of
     transliteration: min
   7:
-    arabic: فَضۡلِهٖ​ؕ
+    arabic: فَضۡلِهِۦٓۚ
     translation: His Bounty
     transliteration: faḍlihi
   8:
-    arabic: اِنَّهٗ
+    arabic: إِنَّهُۥ
     translation: Indeed, He
     transliteration: innahu
   9:
@@ -45,7 +45,7 @@ word_by_word:
     translation: like
     transliteration: yuḥibbu
   11:
-    arabic: الۡكٰفِرِيۡنَ‏
+    arabic: ٱلۡكَٰفِرِينَ
     translation: the disbelievers
     transliteration: l-kāfirīna
 ---

@@ -1,9 +1,9 @@
 ---
-arabic_ayat: لَـكُنَّا عِبَادَ اللّٰهِ الۡمُخۡلَصِيۡنَ‏
+arabic_ayat: لَكُنَّا عِبَادَ ٱللَّهِ ٱلۡمُخۡلَصِينَ
 sentence_translation: we would have truly been Allah’s devoted servants.”
 word_by_word:
   1:
-    arabic: لَـكُنَّا
+    arabic: لَكُنَّا
     translation: Certainly, we (would) have been
     transliteration: lakunnā
   2:
@@ -11,11 +11,11 @@ word_by_word:
     translation: slaves
     transliteration: ʿibāda
   3:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (of) Allah
     transliteration: l-lahi
   4:
-    arabic: الۡمُخۡلَصِيۡنَ‏
+    arabic: ٱلۡمُخۡلَصِينَ
     translation: the chosen
     transliteration: l-mukh'laṣīna
 ---

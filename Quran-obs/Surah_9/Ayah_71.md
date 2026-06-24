@@ -1,19 +1,19 @@
 ---
-arabic_ayat: وَالۡمُؤۡمِنُوۡنَ وَالۡمُؤۡمِنٰتُ بَعۡضُهُمۡ اَوۡلِيَآءُ بَعۡضٍ​ۘ يَاۡمُرُوۡنَ
-  بِالۡمَعۡرُوۡفِ وَيَنۡهَوۡنَ عَنِ الۡمُنۡكَرِ وَيُقِيۡمُوۡنَ الصَّلٰوةَ وَيُؤۡتُوۡنَ
-  الزَّكٰوةَ وَيُطِيۡعُوۡنَ اللّٰهَ وَرَسُوۡلَهٗ​ؕ اُولٰۤٮِٕكَ سَيَرۡحَمُهُمُ اللّٰهُؕ
-  اِنَّ اللّٰهَ عَزِيۡزٌ حَكِيۡمٌ‏
+arabic_ayat: وَٱلۡمُؤۡمِنُونَ وَٱلۡمُؤۡمِنَٰتُ بَعۡضُهُمۡ أَوۡلِيَآءُ بَعۡضٖۚ يَأۡمُرُونَ
+  بِٱلۡمَعۡرُوفِ وَيَنۡهَوۡنَ عَنِ ٱلۡمُنكَرِ وَيُقِيمُونَ ٱلصَّلَوٰةَ وَيُؤۡتُونَ
+  ٱلزَّكَوٰةَ وَيُطِيعُونَ ٱللَّهَ وَرَسُولَهُۥٓۚ أُوْلَٰٓئِكَ سَيَرۡحَمُهُمُ ٱللَّهُۗ
+  إِنَّ ٱللَّهَ عَزِيزٌ حَكِيمٞ
 sentence_translation: The believers, both men and women, are guardians of one another.
   They encourage good and forbid evil, establish prayer and pay alms-tax, and obey
   Allah and His Messenger. It is they who will be shown Allah’s mercy. Surely Allah
   is Almighty, All-Wise.
 word_by_word:
   1:
-    arabic: وَالۡمُؤۡمِنُوۡنَ
+    arabic: وَٱلۡمُؤۡمِنُونَ
     translation: And the believing men
     transliteration: wal-mu'minūna
   2:
-    arabic: وَالۡمُؤۡمِنٰتُ
+    arabic: وَٱلۡمُؤۡمِنَٰتُ
     translation: and the believing women
     transliteration: wal-mu'minātu
   3:
@@ -21,19 +21,19 @@ word_by_word:
     translation: some of them
     transliteration: baʿḍuhum
   4:
-    arabic: اَوۡلِيَآءُ
+    arabic: أَوۡلِيَآءُ
     translation: (are) allies
     transliteration: awliyāu
   5:
-    arabic: بَعۡضٍ​ۘ
+    arabic: بَعۡضٖۚ
     translation: (of) others
     transliteration: baʿḍin
   6:
-    arabic: يَاۡمُرُوۡنَ
+    arabic: يَأۡمُرُونَ
     translation: They enjoin
     transliteration: yamurūna
   7:
-    arabic: بِالۡمَعۡرُوۡفِ
+    arabic: بِٱلۡمَعۡرُوفِ
     translation: the right
     transliteration: bil-maʿrūfi
   8:
@@ -45,39 +45,39 @@ word_by_word:
     translation: from
     transliteration: ʿani
   10:
-    arabic: الۡمُنۡكَرِ
+    arabic: ٱلۡمُنكَرِ
     translation: the wrong
     transliteration: l-munkari
   11:
-    arabic: وَيُقِيۡمُوۡنَ
+    arabic: وَيُقِيمُونَ
     translation: and they establish
     transliteration: wayuqīmūna
   12:
-    arabic: الصَّلٰوةَ
+    arabic: ٱلصَّلَوٰةَ
     translation: the prayer
     transliteration: l-ṣalata
   13:
-    arabic: وَيُؤۡتُوۡنَ
+    arabic: وَيُؤۡتُونَ
     translation: and give
     transliteration: wayu'tūna
   14:
-    arabic: الزَّكٰوةَ
+    arabic: ٱلزَّكَوٰةَ
     translation: the zakah
     transliteration: l-zakata
   15:
-    arabic: وَيُطِيۡعُوۡنَ
+    arabic: وَيُطِيعُونَ
     translation: and they obey
     transliteration: wayuṭīʿūna
   16:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   17:
-    arabic: وَرَسُوۡلَهٗ​ؕ
+    arabic: وَرَسُولَهُۥٓۚ
     translation: and His Messenger
     transliteration: warasūlahu
   18:
-    arabic: اُولٰۤٮِٕكَ
+    arabic: أُوْلَٰٓئِكَ
     translation: Those
     transliteration: ulāika
   19:
@@ -85,23 +85,23 @@ word_by_word:
     translation: Allah will have mercy on them
     transliteration: sayarḥamuhumu
   20:
-    arabic: اللّٰهُؕ
+    arabic: ٱللَّهُۗ
     translation: Allah will have mercy on them
     transliteration: l-lahu
   21:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   22:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   23:
-    arabic: عَزِيۡزٌ
+    arabic: عَزِيزٌ
     translation: (is) All-Mighty
     transliteration: ʿazīzun
   24:
-    arabic: حَكِيۡمٌ‏
+    arabic: حَكِيمٞ
     translation: All-Wise
     transliteration: ḥakīmun
 ---

@@ -1,8 +1,7 @@
 ---
-arabic_ayat: وَوُضِعَ الۡكِتٰبُ فَتَرَى الۡمُجۡرِمِيۡنَ مُشۡفِقِيۡنَ مِمَّا فِيۡهِ
-  وَ يَقُوۡلُوۡنَ يٰوَيۡلَـتَـنَا مَالِ هٰذَا الۡـكِتٰبِ لَا يُغَادِرُ صَغِيۡرَةً
-  وَّلَا كَبِيۡرَةً اِلَّاۤ اَحۡصٰٮهَا​ ۚ وَوَجَدُوۡا مَا عَمِلُوۡا حَاضِرًا​ ؕ وَ
-  لَا يَظۡلِمُ رَبُّكَ اَحَدًا‏
+arabic_ayat: وَوُضِعَ ٱلۡكِتَٰبُ فَتَرَى ٱلۡمُجۡرِمِينَ مُشۡفِقِينَ مِمَّا فِيهِ وَيَقُولُونَ
+  يَٰوَيۡلَتَنَا مَالِ هَٰذَا ٱلۡكِتَٰبِ لَا يُغَادِرُ صَغِيرَةٗ وَلَا كَبِيرَةً إِلَّآ
+  أَحۡصَىٰهَاۚ وَوَجَدُواْ مَا عَمِلُواْ حَاضِرٗاۗ وَلَا يَظۡلِمُ رَبُّكَ أَحَدٗا
 sentence_translation: And the record ˹of deeds˺ will be laid ˹open˺, and you will
   see the wicked in fear of what is ˹written˺ in it. They will cry, “Woe to us! What
   kind of record is this that does not leave any sin, small or large, unlisted?” They
@@ -14,7 +13,7 @@ word_by_word:
     translation: And (will) be placed
     transliteration: wawuḍiʿa
   2:
-    arabic: الۡكِتٰبُ
+    arabic: ٱلۡكِتَٰبُ
     translation: the Book
     transliteration: l-kitābu
   3:
@@ -22,11 +21,11 @@ word_by_word:
     translation: and you will see
     transliteration: fatarā
   4:
-    arabic: الۡمُجۡرِمِيۡنَ
+    arabic: ٱلۡمُجۡرِمِينَ
     translation: the criminals
     transliteration: l-muj'rimīna
   5:
-    arabic: مُشۡفِقِيۡنَ
+    arabic: مُشۡفِقِينَ
     translation: fearful
     transliteration: mush'fiqīna
   6:
@@ -34,15 +33,15 @@ word_by_word:
     translation: of what
     transliteration: mimmā
   7:
-    arabic: فِيۡهِ
+    arabic: فِيهِ
     translation: (is) in it
     transliteration: fīhi
   8:
-    arabic: وَ يَقُوۡلُوۡنَ
+    arabic: وَيَقُولُونَ
     translation: and they will say
     transliteration: wayaqūlūna
   9:
-    arabic: يٰوَيۡلَـتَـنَا
+    arabic: يَٰوَيۡلَتَنَا
     translation: Oh, woe to us
     transliteration: yāwaylatanā
   10:
@@ -50,11 +49,11 @@ word_by_word:
     translation: What (is) for
     transliteration: māli
   11:
-    arabic: هٰذَا
+    arabic: هَٰذَا
     translation: this
     transliteration: hādhā
   12:
-    arabic: الۡـكِتٰبِ
+    arabic: ٱلۡكِتَٰبِ
     translation: '[the] Book'
     transliteration: l-kitābi
   13:
@@ -66,27 +65,27 @@ word_by_word:
     translation: leaves
     transliteration: yughādiru
   15:
-    arabic: صَغِيۡرَةً
+    arabic: صَغِيرَةٗ
     translation: a small
     transliteration: ṣaghīratan
   16:
-    arabic: وَّلَا
+    arabic: وَلَا
     translation: and not
     transliteration: walā
   17:
-    arabic: كَبِيۡرَةً
+    arabic: كَبِيرَةً
     translation: a great
     transliteration: kabīratan
   18:
-    arabic: اِلَّاۤ
+    arabic: إِلَّآ
     translation: except
     transliteration: illā
   19:
-    arabic: اَحۡصٰٮهَا​ ۚ
+    arabic: أَحۡصَىٰهَاۚ
     translation: has enumerated it
     transliteration: aḥṣāhā
   20:
-    arabic: وَوَجَدُوۡا
+    arabic: وَوَجَدُواْ
     translation: And they will find
     transliteration: wawajadū
   21:
@@ -94,15 +93,15 @@ word_by_word:
     translation: what
     transliteration: mā
   22:
-    arabic: عَمِلُوۡا
+    arabic: عَمِلُواْ
     translation: they did
     transliteration: ʿamilū
   23:
-    arabic: حَاضِرًا​ ؕ
+    arabic: حَاضِرٗاۗ
     translation: presented
     transliteration: ḥāḍiran
   24:
-    arabic: وَ لَا
+    arabic: وَلَا
     translation: And not
     transliteration: walā
   25:
@@ -114,7 +113,7 @@ word_by_word:
     translation: your Lord
     transliteration: rabbuka
   27:
-    arabic: اَحَدًا‏
+    arabic: أَحَدٗا
     translation: (with) anyone
     transliteration: aḥadan
 ---

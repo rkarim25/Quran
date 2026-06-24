@@ -1,7 +1,7 @@
 ---
-arabic_ayat: قُلۡ يٰۤاَيُّهَا النَّاسُ اِنۡ كُنۡتُمۡ فِىۡ شَكٍّ مِّنۡ دِيۡنِىۡ فَلَاۤ
-  اَعۡبُدُ الَّذِيۡنَ تَعۡبُدُوۡنَ مِنۡ دُوۡنِ اللّٰهِ وَلٰـكِنۡ اَعۡبُدُ اللّٰهَ
-  الَّذِىۡ يَتَوَفّٰٮكُمۡ​ ۖۚ​ وَاُمِرۡتُ اَنۡ اَكُوۡنَ مِنَ الۡمُؤۡمِنِيۡنَۙ‏
+arabic_ayat: قُلۡ يَٰٓأَيُّهَا ٱلنَّاسُ إِن كُنتُمۡ فِي شَكّٖ مِّن دِينِي فَلَآ أَعۡبُدُ
+  ٱلَّذِينَ تَعۡبُدُونَ مِن دُونِ ٱللَّهِ وَلَٰكِنۡ أَعۡبُدُ ٱللَّهَ ٱلَّذِي يَتَوَفَّىٰكُمۡۖ
+  وَأُمِرۡتُ أَنۡ أَكُونَ مِنَ ٱلۡمُؤۡمِنِينَ
 sentence_translation: Say, ˹O Prophet,˺ “O humanity! If you are in doubt of my faith,
   then ˹know that˺ I do not worship those ˹idols˺ you worship instead of Allah. But
   I worship Allah, Who has the power to cause your death. And I have been commanded,
@@ -12,95 +12,95 @@ word_by_word:
     translation: Say
     transliteration: qul
   2:
-    arabic: يٰۤاَيُّهَا
+    arabic: يَٰٓأَيُّهَا
     translation: O mankind
     transliteration: yāayyuhā
   3:
-    arabic: النَّاسُ
+    arabic: ٱلنَّاسُ
     translation: O mankind
     transliteration: l-nāsu
   4:
-    arabic: اِنۡ
+    arabic: إِن
     translation: If
     transliteration: in
   5:
-    arabic: كُنۡتُمۡ
+    arabic: كُنتُمۡ
     translation: you are
     transliteration: kuntum
   6:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   7:
-    arabic: شَكٍّ
+    arabic: شَكّٖ
     translation: doubt
     transliteration: shakkin
   8:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: of
     transliteration: min
   9:
-    arabic: دِيۡنِىۡ
+    arabic: دِينِي
     translation: my religion
     transliteration: dīnī
   10:
-    arabic: فَلَاۤ
+    arabic: فَلَآ
     translation: then not
     transliteration: falā
   11:
-    arabic: اَعۡبُدُ
+    arabic: أَعۡبُدُ
     translation: I worship
     transliteration: aʿbudu
   12:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those whom
     transliteration: alladhīna
   13:
-    arabic: تَعۡبُدُوۡنَ
+    arabic: تَعۡبُدُونَ
     translation: you worship
     transliteration: taʿbudūna
   14:
-    arabic: مِنۡ
+    arabic: مِن
     translation: besides Allah
     transliteration: min
   15:
-    arabic: دُوۡنِ
+    arabic: دُونِ
     translation: besides Allah
     transliteration: dūni
   16:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: besides Allah
     transliteration: l-lahi
   17:
-    arabic: وَلٰـكِنۡ
+    arabic: وَلَٰكِنۡ
     translation: but
     transliteration: walākin
   18:
-    arabic: اَعۡبُدُ
+    arabic: أَعۡبُدُ
     translation: I worship
     transliteration: aʿbudu
   19:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   20:
-    arabic: الَّذِىۡ
+    arabic: ٱلَّذِي
     translation: the One Who
     transliteration: alladhī
   21:
-    arabic: يَتَوَفّٰٮكُمۡ​ ۖۚ​
+    arabic: يَتَوَفَّىٰكُمۡۖ
     translation: causes you to die
     transliteration: yatawaffākum
   22:
-    arabic: وَاُمِرۡتُ
+    arabic: وَأُمِرۡتُ
     translation: And I am commanded
     transliteration: wa-umir'tu
   23:
-    arabic: اَنۡ
+    arabic: أَنۡ
     translation: that
     transliteration: an
   24:
-    arabic: اَكُوۡنَ
+    arabic: أَكُونَ
     translation: I be
     transliteration: akūna
   25:
@@ -108,7 +108,7 @@ word_by_word:
     translation: of
     transliteration: mina
   26:
-    arabic: الۡمُؤۡمِنِيۡنَۙ‏
+    arabic: ٱلۡمُؤۡمِنِينَ
     translation: the believers
     transliteration: l-mu'minīna
 ---

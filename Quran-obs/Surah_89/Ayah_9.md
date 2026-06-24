@@ -1,26 +1,26 @@
 ---
-arabic_ayat: وَثَمُوۡدَ الَّذِيۡنَ جَابُوا الصَّخۡرَ بِالۡوَادِۙ‏
+arabic_ayat: وَثَمُودَ ٱلَّذِينَ جَابُواْ ٱلصَّخۡرَ بِٱلۡوَادِ
 sentence_translation: and Thamûd who carved ˹their homes into˺ the rocks in the ˹Stone˺
   Valley;
 word_by_word:
   1:
-    arabic: وَثَمُوۡدَ
+    arabic: وَثَمُودَ
     translation: And Thamud
     transliteration: wathamūda
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: who
     transliteration: alladhīna
   3:
-    arabic: جَابُوا
+    arabic: جَابُواْ
     translation: carved out
     transliteration: jābū
   4:
-    arabic: الصَّخۡرَ
+    arabic: ٱلصَّخۡرَ
     translation: the rocks
     transliteration: l-ṣakhra
   5:
-    arabic: بِالۡوَادِۙ‏
+    arabic: بِٱلۡوَادِ
     translation: in the valley
     transliteration: bil-wādi
 ---

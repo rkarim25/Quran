@@ -1,26 +1,26 @@
 ---
-arabic_ayat: اَمۡ تَاۡمُرُهُمۡ اَحۡلَامُهُمۡ بِهٰذَآ​ اَمۡ هُمۡ قَوۡمٌ طَاغُوۡنَ​ۚ‏
+arabic_ayat: أَمۡ تَأۡمُرُهُمۡ أَحۡلَٰمُهُم بِهَٰذَآۚ أَمۡ هُمۡ قَوۡمٞ طَاغُونَ
 sentence_translation: Or do their ˹intelligent˺ minds prompt them to this ˹paradox˺? Or
   are they ˹just˺ a transgressing people?
 word_by_word:
   1:
-    arabic: اَمۡ
+    arabic: أَمۡ
     translation: Or
     transliteration: am
   2:
-    arabic: تَاۡمُرُهُمۡ
+    arabic: تَأۡمُرُهُمۡ
     translation: command them
     transliteration: tamuruhum
   3:
-    arabic: اَحۡلَامُهُمۡ
+    arabic: أَحۡلَٰمُهُم
     translation: their minds
     transliteration: aḥlāmuhum
   4:
-    arabic: بِهٰذَآ​
+    arabic: بِهَٰذَآۚ
     translation: this
     transliteration: bihādhā
   5:
-    arabic: اَمۡ
+    arabic: أَمۡ
     translation: or
     transliteration: am
   6:
@@ -28,11 +28,11 @@ word_by_word:
     translation: they
     transliteration: hum
   7:
-    arabic: قَوۡمٌ
+    arabic: قَوۡمٞ
     translation: (are) a people
     transliteration: qawmun
   8:
-    arabic: طَاغُوۡنَ​ۚ‏
+    arabic: طَاغُونَ
     translation: transgressing
     transliteration: ṭāghūna
 ---

@@ -1,17 +1,17 @@
 ---
-arabic_ayat: اِنَّاۤ اَخۡلَصۡنٰهُمۡ بِخَالِصَةٍ ذِكۡرَى الدَّارِ​ۚ‏
+arabic_ayat: إِنَّآ أَخۡلَصۡنَٰهُم بِخَالِصَةٖ ذِكۡرَى ٱلدَّارِ
 sentence_translation: We truly chose them for the honour of proclaiming the Hereafter.
 word_by_word:
   1:
-    arabic: اِنَّاۤ
+    arabic: إِنَّآ
     translation: Indeed, We
     transliteration: innā
   2:
-    arabic: اَخۡلَصۡنٰهُمۡ
+    arabic: أَخۡلَصۡنَٰهُم
     translation: '[We] chose them'
     transliteration: akhlaṣnāhum
   3:
-    arabic: بِخَالِصَةٍ
+    arabic: بِخَالِصَةٖ
     translation: for an exclusive (quality)
     transliteration: bikhāliṣatin
   4:
@@ -19,7 +19,7 @@ word_by_word:
     translation: remembrance
     transliteration: dhik'rā
   5:
-    arabic: الدَّارِ​ۚ‏
+    arabic: ٱلدَّارِ
     translation: (of) the Home
     transliteration: l-dāri
 ---

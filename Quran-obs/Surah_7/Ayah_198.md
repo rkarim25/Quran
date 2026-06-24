@@ -1,23 +1,23 @@
 ---
-arabic_ayat: وَاِنۡ تَدۡعُوۡهُمۡ اِلَى الۡهُدٰى لَا يَسۡمَعُوۡا​ ؕ وَتَرٰٮهُمۡ يَنۡظُرُوۡنَ
-  اِلَيۡكَ وَهُمۡ لَا يُبۡصِرُوۡنَ‏
+arabic_ayat: وَإِن تَدۡعُوهُمۡ إِلَى ٱلۡهُدَىٰ لَا يَسۡمَعُواْۖ وَتَرَىٰهُمۡ يَنظُرُونَ
+  إِلَيۡكَ وَهُمۡ لَا يُبۡصِرُونَ
 sentence_translation: If you ˹idolaters˺ call them to guidance, they cannot hear.
   And you ˹O Prophet˺ may see them facing towards you, but they cannot see.
 word_by_word:
   1:
-    arabic: وَاِنۡ
+    arabic: وَإِن
     translation: And if
     transliteration: wa-in
   2:
-    arabic: تَدۡعُوۡهُمۡ
+    arabic: تَدۡعُوهُمۡ
     translation: you call them
     transliteration: tadʿūhum
   3:
-    arabic: اِلَى
+    arabic: إِلَى
     translation: to
     transliteration: ilā
   4:
-    arabic: الۡهُدٰى
+    arabic: ٱلۡهُدَىٰ
     translation: the guidance
     transliteration: l-hudā
   5:
@@ -25,19 +25,19 @@ word_by_word:
     translation: not
     transliteration: lā
   6:
-    arabic: يَسۡمَعُوۡا​ ؕ
+    arabic: يَسۡمَعُواْۖ
     translation: do they not
     transliteration: yasmaʿū
   7:
-    arabic: وَتَرٰٮهُمۡ
+    arabic: وَتَرَىٰهُمۡ
     translation: And you see them
     transliteration: watarāhum
   8:
-    arabic: يَنۡظُرُوۡنَ
+    arabic: يَنظُرُونَ
     translation: looking
     transliteration: yanẓurūna
   9:
-    arabic: اِلَيۡكَ
+    arabic: إِلَيۡكَ
     translation: at you
     transliteration: ilayka
   10:
@@ -49,7 +49,7 @@ word_by_word:
     translation: not
     transliteration: lā
   12:
-    arabic: يُبۡصِرُوۡنَ‏
+    arabic: يُبۡصِرُونَ
     translation: (do) they see
     transliteration: yub'ṣirūna
 ---

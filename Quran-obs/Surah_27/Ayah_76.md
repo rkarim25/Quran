@@ -1,19 +1,19 @@
 ---
-arabic_ayat: اِنَّ هٰذَا الۡقُرۡاٰنَ يَقُصُّ عَلٰى بَنِىۡۤ اِسۡرَآءِيۡلَ اَكۡثَرَ
-  الَّذِىۡ هُمۡ فِيۡهِ يَخۡتَلِفُوۡنَ‏
+arabic_ayat: إِنَّ هَٰذَا ٱلۡقُرۡءَانَ يَقُصُّ عَلَىٰ بَنِيٓ إِسۡرَٰٓءِيلَ أَكۡثَرَ
+  ٱلَّذِي هُمۡ فِيهِ يَخۡتَلِفُونَ
 sentence_translation: Indeed, this Quran clarifies for the Children of Israel most
   of what they differ over.
 word_by_word:
   1:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   2:
-    arabic: هٰذَا
+    arabic: هَٰذَا
     translation: this
     transliteration: hādhā
   3:
-    arabic: الۡقُرۡاٰنَ
+    arabic: ٱلۡقُرۡءَانَ
     translation: '[the] Quran'
     transliteration: l-qur'āna
   4:
@@ -21,23 +21,23 @@ word_by_word:
     translation: relates
     transliteration: yaquṣṣu
   5:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: to
     transliteration: ʿalā
   6:
-    arabic: بَنِىۡۤ
+    arabic: بَنِيٓ
     translation: (the) Children
     transliteration: banī
   7:
-    arabic: اِسۡرَآءِيۡلَ
+    arabic: إِسۡرَٰٓءِيلَ
     translation: (of) Israel
     transliteration: is'rāīla
   8:
-    arabic: اَكۡثَرَ
+    arabic: أَكۡثَرَ
     translation: most
     transliteration: akthara
   9:
-    arabic: الَّذِىۡ
+    arabic: ٱلَّذِي
     translation: (of) that
     transliteration: alladhī
   10:
@@ -45,11 +45,11 @@ word_by_word:
     translation: they
     transliteration: hum
   11:
-    arabic: فِيۡهِ
+    arabic: فِيهِ
     translation: in it
     transliteration: fīhi
   12:
-    arabic: يَخۡتَلِفُوۡنَ‏
+    arabic: يَخۡتَلِفُونَ
     translation: differ
     transliteration: yakhtalifūna
 ---

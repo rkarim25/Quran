@@ -1,6 +1,5 @@
 ---
-arabic_ayat: "وَكَمۡ اَهۡلَكۡنَا قَبۡلَهُمۡ مِّنۡ قَرۡنٍ هُمۡ اَحۡسَنُ اَثَاثًا وَّرِءۡيًا‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: وَكَمۡ أَهۡلَكۡنَا قَبۡلَهُم مِّن قَرۡنٍ هُمۡ أَحۡسَنُ أَثَٰثٗا وَرِءۡيٗا
 sentence_translation: ˹Imagine, O  Prophet˺ how many peoples We have destroyed before
   them, who were far better in luxury and splendour!
 word_by_word:
@@ -9,15 +8,15 @@ word_by_word:
     translation: And how many
     transliteration: wakam
   2:
-    arabic: اَهۡلَكۡنَا
+    arabic: أَهۡلَكۡنَا
     translation: We destroyed
     transliteration: ahlaknā
   3:
-    arabic: قَبۡلَهُمۡ
+    arabic: قَبۡلَهُم
     translation: before them
     transliteration: qablahum
   4:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: of
     transliteration: min
   5:
@@ -29,15 +28,15 @@ word_by_word:
     translation: they
     transliteration: hum
   7:
-    arabic: اَحۡسَنُ
+    arabic: أَحۡسَنُ
     translation: (were) better
     transliteration: aḥsanu
   8:
-    arabic: اَثَاثًا
+    arabic: أَثَٰثٗا
     translation: (in) possessions
     transliteration: athāthan
   9:
-    arabic: "وَّرِءۡيًا‏ \uFEFF\uFEFF"
+    arabic: وَرِءۡيٗا
     translation: and appearance
     transliteration: wari'yan
 ---

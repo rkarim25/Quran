@@ -1,5 +1,5 @@
 ---
-arabic_ayat: قَالَ كَلَّا​​ ۚ اِنَّ مَعِىَ رَبِّىۡ سَيَهۡدِيۡنِ‏
+arabic_ayat: قَالَ كـَلَّآۖ إِنَّ مَعِيَ رَبِّي سَيَهۡدِينِ
 sentence_translation: Moses reassured ˹them˺, “Absolutely not! My Lord is certainly
   with me—He will guide me.”
 word_by_word:
@@ -8,23 +8,23 @@ word_by_word:
     translation: He said
     transliteration: qāla
   2:
-    arabic: كَلَّا​​ ۚ
+    arabic: كـَلَّآۖ
     translation: Nay
     transliteration: kallā
   3:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: indeed
     transliteration: inna
   4:
-    arabic: مَعِىَ
+    arabic: مَعِيَ
     translation: with me
     transliteration: maʿiya
   5:
-    arabic: رَبِّىۡ
+    arabic: رَبِّي
     translation: (is) my Lord
     transliteration: rabbī
   6:
-    arabic: سَيَهۡدِيۡنِ‏
+    arabic: سَيَهۡدِينِ
     translation: He will guide me
     transliteration: sayahdīni
 ---

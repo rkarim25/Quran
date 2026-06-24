@@ -1,9 +1,9 @@
 ---
-arabic_ayat: تُسۡقٰى مِنۡ عَيۡنٍ اٰنِيَةٍؕ‏
+arabic_ayat: تُسۡقَىٰ مِنۡ عَيۡنٍ ءَانِيَةٖ
 sentence_translation: left to drink from a scalding spring.
 word_by_word:
   1:
-    arabic: تُسۡقٰى
+    arabic: تُسۡقَىٰ
     translation: They will be given to drink
     transliteration: tus'qā
   2:
@@ -11,11 +11,11 @@ word_by_word:
     translation: from
     transliteration: min
   3:
-    arabic: عَيۡنٍ
+    arabic: عَيۡنٍ ءَ
     translation: a spring
     transliteration: ʿaynin
   4:
-    arabic: اٰنِيَةٍؕ‏
+    arabic: انِيَةٖ
     translation: boiling
     transliteration: āniyatin
 ---

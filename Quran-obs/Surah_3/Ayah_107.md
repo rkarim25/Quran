@@ -1,27 +1,27 @@
 ---
-arabic_ayat: وَاَمَّا الَّذِيۡنَ ابۡيَـضَّتۡ وُجُوۡهُهُمۡ فَفِىۡ رَحۡمَةِ اللّٰهِ ؕ
-  هُمۡ فِيۡهَا خٰلِدُوۡنَ‏
+arabic_ayat: وَأَمَّا ٱلَّذِينَ ٱبۡيَضَّتۡ وُجُوهُهُمۡ فَفِي رَحۡمَةِ ٱللَّهِۖ هُمۡ
+  فِيهَا خَٰلِدُونَ
 sentence_translation: As for the bright-faced, they will be in Allah’s mercy, where
   they will remain forever.
 word_by_word:
   1:
-    arabic: وَاَمَّا
+    arabic: وَأَمَّا
     translation: But as for
     transliteration: wa-ammā
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those whose
     transliteration: alladhīna
   3:
-    arabic: ابۡيَـضَّتۡ
+    arabic: ٱبۡيَضَّتۡ
     translation: turn white
     transliteration: ib'yaḍḍat
   4:
-    arabic: وُجُوۡهُهُمۡ
+    arabic: وُجُوهُهُمۡ
     translation: '[their] faces'
     transliteration: wujūhuhum
   5:
-    arabic: فَفِىۡ
+    arabic: فَفِي
     translation: then (they will be) in
     transliteration: fafī
   6:
@@ -29,7 +29,7 @@ word_by_word:
     translation: (the) Mercy
     transliteration: raḥmati
   7:
-    arabic: اللّٰهِ ؕ
+    arabic: ٱللَّهِۖ
     translation: (of) Allah
     transliteration: l-lahi
   8:
@@ -37,11 +37,11 @@ word_by_word:
     translation: they
     transliteration: hum
   9:
-    arabic: فِيۡهَا
+    arabic: فِيهَا
     translation: in it
     transliteration: fīhā
   10:
-    arabic: خٰلِدُوۡنَ‏
+    arabic: خَٰلِدُونَ
     translation: (will) abide forever
     transliteration: khālidūna
 ---

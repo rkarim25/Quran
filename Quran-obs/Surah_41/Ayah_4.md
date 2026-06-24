@@ -1,23 +1,22 @@
 ---
-arabic_ayat: "بَشِيۡرًا وَّنَذِيۡرًا​ ۚ فَاَعۡرَضَ اَكۡثَرُهُمۡ فَهُمۡ لَا يَسۡمَعُوۡنَ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: بَشِيرٗا وَنَذِيرٗا فَأَعۡرَضَ أَكۡثَرُهُمۡ فَهُمۡ لَا يَسۡمَعُونَ
 sentence_translation: delivering good news and warning. Yet most of them turn away,
   so they do not hear.
 word_by_word:
   1:
-    arabic: بَشِيۡرًا
+    arabic: بَشِيرٗا
     translation: A giver of glad tidings
     transliteration: bashīran
   2:
-    arabic: وَّنَذِيۡرًا​ ۚ
+    arabic: وَنَذِيرٗا
     translation: and a warner
     transliteration: wanadhīran
   3:
-    arabic: فَاَعۡرَضَ
+    arabic: فَأَعۡرَضَ
     translation: but turn away
     transliteration: fa-aʿraḍa
   4:
-    arabic: اَكۡثَرُهُمۡ
+    arabic: أَكۡثَرُهُمۡ
     translation: most of them
     transliteration: aktharuhum
   5:
@@ -29,7 +28,7 @@ word_by_word:
     translation: (do) not
     transliteration: lā
   7:
-    arabic: "يَسۡمَعُوۡنَ‏ \uFEFF\uFEFF"
+    arabic: يَسۡمَعُونَ
     translation: hear
     transliteration: yasmaʿūna
 ---

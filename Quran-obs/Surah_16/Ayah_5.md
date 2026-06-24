@@ -1,31 +1,31 @@
 ---
-arabic_ayat: وَالۡاَنۡعَامَ خَلَقَهَا​ ۚ لَـكُمۡ فِيۡهَا دِفۡ ٴٌ وَّمَنَافِعُ وَمِنۡهَا
-  تَاۡكُلُوۡنَ‏
+arabic_ayat: وَٱلۡأَنۡعَٰمَ خَلَقَهَاۖ لَكُمۡ فِيهَا دِفۡءٞ وَمَنَٰفِعُ وَمِنۡهَا
+  تَأۡكُلُونَ
 sentence_translation: And He created the cattle for you as a source of warmth, food,
   and ˹many other˺ benefits.
 word_by_word:
   1:
-    arabic: وَالۡاَنۡعَامَ
+    arabic: وَٱلۡأَنۡعَٰمَ
     translation: And the cattle
     transliteration: wal-anʿāma
   2:
-    arabic: خَلَقَهَا​ ۚ
+    arabic: خَلَقَهَاۖ
     translation: He created them
     transliteration: khalaqahā
   3:
-    arabic: لَـكُمۡ
+    arabic: لَكُمۡ
     translation: for you
     transliteration: lakum
   4:
-    arabic: فِيۡهَا
+    arabic: فِيهَا
     translation: in them
     transliteration: fīhā
   5:
-    arabic: دِفۡ ٴٌ
+    arabic: دِفۡءٞ
     translation: (is) warmth
     transliteration: dif'on
   6:
-    arabic: وَّمَنَافِعُ
+    arabic: وَمَنَٰفِعُ
     translation: and benefits
     transliteration: wamanāfiʿu
   7:
@@ -33,7 +33,7 @@ word_by_word:
     translation: and from them
     transliteration: wamin'hā
   8:
-    arabic: تَاۡكُلُوۡنَ‏
+    arabic: تَأۡكُلُونَ
     translation: you eat
     transliteration: takulūna
 ---

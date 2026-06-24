@@ -1,21 +1,21 @@
 ---
-arabic_ayat: وَاِنَّهٗ عَلٰى ذٰلِكَ لَشَهِيۡدٌ ۚ‏
+arabic_ayat: وَإِنَّهُۥ عَلَىٰ ذَٰلِكَ لَشَهِيدٞ
 sentence_translation: and they certainly attest to this—
 word_by_word:
   1:
-    arabic: وَاِنَّهٗ
+    arabic: وَإِنَّهُۥ
     translation: And indeed, he
     transliteration: wa-innahu
   2:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: 'on'
     transliteration: ʿalā
   3:
-    arabic: ذٰلِكَ
+    arabic: ذَٰلِكَ
     translation: that
     transliteration: dhālika
   4:
-    arabic: لَشَهِيۡدٌ ۚ‏
+    arabic: لَشَهِيدٞ
     translation: surely (is) a witness
     transliteration: lashahīdun
 ---

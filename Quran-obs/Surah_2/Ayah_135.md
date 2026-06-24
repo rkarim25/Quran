@@ -1,32 +1,32 @@
 ---
-arabic_ayat: وَقَالُوۡا کُوۡنُوۡا هُوۡدًا اَوۡ نَصٰرٰى تَهۡتَدُوۡا ​ؕ قُلۡ بَلۡ مِلَّةَ
-  اِبۡرٰهٖمَ حَنِيۡفًا ​ؕ وَمَا كَانَ مِنَ الۡمُشۡرِكِيۡنَ‏
+arabic_ayat: وَقَالُواْ كُونُواْ هُودًا أَوۡ نَصَٰرَىٰ تَهۡتَدُواْۗ قُلۡ بَلۡ مِلَّةَ
+  إِبۡرَٰهِـۧمَ حَنِيفٗاۖ وَمَا كَانَ مِنَ ٱلۡمُشۡرِكِينَ
 sentence_translation: The Jews and Christians each say, “Follow our faith to be ˹rightly˺
   guided.” Say, ˹O Prophet,˺ “No! We follow the faith of Abraham, the upright—who
   was not a polytheist.”
 word_by_word:
   1:
-    arabic: وَقَالُوۡا
+    arabic: وَقَالُواْ
     translation: And they said
     transliteration: waqālū
   2:
-    arabic: کُوۡنُوۡا
+    arabic: كُونُواْ
     translation: Be
     transliteration: kūnū
   3:
-    arabic: هُوۡدًا
+    arabic: هُودًا
     translation: Jews
     transliteration: hūdan
   4:
-    arabic: اَوۡ
+    arabic: أَوۡ
     translation: or
     transliteration: aw
   5:
-    arabic: نَصٰرٰى
+    arabic: نَصَٰرَىٰ
     translation: Christians
     transliteration: naṣārā
   6:
-    arabic: تَهۡتَدُوۡا ​ؕ
+    arabic: تَهۡتَدُواْۗ
     translation: (then) you will be guided
     transliteration: tahtadū
   7:
@@ -42,11 +42,11 @@ word_by_word:
     translation: (the) religion
     transliteration: millata
   10:
-    arabic: اِبۡرٰهٖمَ
+    arabic: إِبۡرَٰهِـۧمَ
     translation: (of) Ibrahim
     transliteration: ib'rāhīma
   11:
-    arabic: حَنِيۡفًا ​ؕ
+    arabic: حَنِيفٗاۖ
     translation: (the) upright
     transliteration: ḥanīfan
   12:
@@ -62,7 +62,7 @@ word_by_word:
     translation: of
     transliteration: mina
   15:
-    arabic: الۡمُشۡرِكِيۡنَ‏
+    arabic: ٱلۡمُشۡرِكِينَ
     translation: those who associated partners (with Allah)
     transliteration: l-mush'rikīna
 ---

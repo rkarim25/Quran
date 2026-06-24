@@ -1,17 +1,17 @@
 ---
-arabic_ayat: اِنَّ اللّٰهَ يُمۡسِكُ السَّمٰوٰتِ وَالۡاَرۡضَ اَنۡ تَزُوۡلَا ۚوَلَٮِٕنۡ
-  زَالَــتَاۤ اِنۡ اَمۡسَكَهُمَا مِنۡ اَحَدٍ مِّنۡۢ بَعۡدِهٖ ؕ اِنَّهٗ كَانَ حَلِيۡمًا
-  غَفُوۡرًا‏
+arabic_ayat: ۞ إِنَّ ٱللَّهَ يُمۡسِكُ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضَ أَن تَزُولَاۚ وَلَئِن
+  زَالَتَآ إِنۡ أَمۡسَكَهُمَا مِنۡ أَحَدٖ مِّنۢ بَعۡدِهِۦٓۚ إِنَّهُۥ كَانَ حَلِيمًا
+  غَفُورٗا
 sentence_translation: Indeed, Allah ˹alone˺ keeps the heavens and the earth from falling
   apart. If they were to fall apart, none but Him could hold them up. He is truly
   Most Forbearing, All-Forgiving.
 word_by_word:
   1:
-    arabic: ۞ اِنَّ
+    arabic: ۞ إِنَّ
     translation: Indeed
     transliteration: inna
   2:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   3:
@@ -19,35 +19,35 @@ word_by_word:
     translation: upholds
     transliteration: yum'siku
   4:
-    arabic: السَّمٰوٰتِ
+    arabic: ٱلسَّمَٰوَٰتِ
     translation: the heavens
     transliteration: l-samāwāti
   5:
-    arabic: وَالۡاَرۡضَ
+    arabic: وَٱلۡأَرۡضَ
     translation: and the earth
     transliteration: wal-arḍa
   6:
-    arabic: اَنۡ
+    arabic: أَن
     translation: lest
     transliteration: an
   7:
-    arabic: تَزُوۡلَا ۚ
+    arabic: تَزُولَاۚ
     translation: they cease
     transliteration: tazūlā
   8:
-    arabic: وَلَٮِٕنۡ
+    arabic: وَلَئِن
     translation: And if
     transliteration: wala-in
   9:
-    arabic: زَالَــتَاۤ
+    arabic: زَالَتَآ
     translation: they should cease
     transliteration: zālatā
   10:
-    arabic: اِنۡ
+    arabic: إِنۡ
     translation: not
     transliteration: in
   11:
-    arabic: اَمۡسَكَهُمَا
+    arabic: أَمۡسَكَهُمَا
     translation: can uphold them
     transliteration: amsakahumā
   12:
@@ -55,19 +55,19 @@ word_by_word:
     translation: any
     transliteration: min
   13:
-    arabic: اَحَدٍ
+    arabic: أَحَدٖ
     translation: one
     transliteration: aḥadin
   14:
-    arabic: مِّنۡۢ
+    arabic: مِّنۢ
     translation: after Him
     transliteration: min
   15:
-    arabic: بَعۡدِهٖ ؕ
+    arabic: بَعۡدِهِۦٓۚ
     translation: after Him
     transliteration: baʿdihi
   16:
-    arabic: اِنَّهٗ
+    arabic: إِنَّهُۥ
     translation: Indeed, He
     transliteration: innahu
   17:
@@ -75,11 +75,11 @@ word_by_word:
     translation: is
     transliteration: kāna
   18:
-    arabic: حَلِيۡمًا
+    arabic: حَلِيمًا
     translation: Most Forbearing
     transliteration: ḥalīman
   19:
-    arabic: غَفُوۡرًا‏
+    arabic: غَفُورٗا
     translation: Oft-Forgiving
     transliteration: ghafūran
 ---

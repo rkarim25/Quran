@@ -1,9 +1,9 @@
 ---
-arabic_ayat: اَلَمۡ نَجۡعَلِ الۡاَرۡضَ كِفَاتًا ۙ‏
+arabic_ayat: أَلَمۡ نَجۡعَلِ ٱلۡأَرۡضَ كِفَاتًا
 sentence_translation: Have We not made the earth a lodging
 word_by_word:
   1:
-    arabic: اَلَمۡ
+    arabic: أَلَمۡ
     translation: Have not
     transliteration: alam
   2:
@@ -11,11 +11,11 @@ word_by_word:
     translation: We made
     transliteration: najʿali
   3:
-    arabic: الۡاَرۡضَ
+    arabic: ٱلۡأَرۡضَ
     translation: the earth
     transliteration: l-arḍa
   4:
-    arabic: كِفَاتًا ۙ‏
+    arabic: كِفَاتًا
     translation: a receptacle
     transliteration: kifātan
 ---

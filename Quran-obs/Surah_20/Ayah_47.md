@@ -1,26 +1,26 @@
 ---
-arabic_ayat: فَاۡتِيٰهُ فَقُوۡلَاۤ اِنَّا رَسُوۡلَا رَبِّكَ فَاَرۡسِلۡ مَعَنَا بَنِىۡۤ
-  اِسۡرَآءِيۡلَ ۙ وَلَا تُعَذِّبۡهُمۡ​ ؕ قَدۡ جِئۡنٰكَ بِاٰيَةٍ مِّنۡ رَّبِّكَ​
-  ؕ وَالسَّلٰمُ عَلٰى مَنِ اتَّبَعَ الۡهُدٰى‏
+arabic_ayat: فَأۡتِيَاهُ فَقُولَآ إِنَّا رَسُولَا رَبِّكَ فَأَرۡسِلۡ مَعَنَا بَنِيٓ
+  إِسۡرَٰٓءِيلَ وَلَا تُعَذِّبۡهُمۡۖ قَدۡ جِئۡنَٰكَ بِـَٔايَةٖ مِّن رَّبِّكَۖ وَٱلسَّلَٰمُ
+  عَلَىٰ مَنِ ٱتَّبَعَ ٱلۡهُدَىٰٓ
 sentence_translation: So go to him and say, ‘Indeed we are both messengers from your
   Lord, so let the Children of Israel go with us, and do not oppress them. We have
   come to you with a sign from your Lord. And salvation will be for whoever follows
   the ˹right˺ guidance.
 word_by_word:
   1:
-    arabic: فَاۡتِيٰهُ
+    arabic: فَأۡتِيَاهُ
     translation: So go to him
     transliteration: fatiyāhu
   2:
-    arabic: فَقُوۡلَاۤ
+    arabic: فَقُولَآ
     translation: and say
     transliteration: faqūlā
   3:
-    arabic: اِنَّا
+    arabic: إِنَّا
     translation: Indeed, we
     transliteration: innā
   4:
-    arabic: رَسُوۡلَا
+    arabic: رَسُولَا
     translation: both (are) Messengers
     transliteration: rasūlā
   5:
@@ -28,7 +28,7 @@ word_by_word:
     translation: (of) your Lord
     transliteration: rabbika
   6:
-    arabic: فَاَرۡسِلۡ
+    arabic: فَأَرۡسِلۡ
     translation: so send
     transliteration: fa-arsil
   7:
@@ -36,11 +36,11 @@ word_by_word:
     translation: with us
     transliteration: maʿanā
   8:
-    arabic: بَنِىۡۤ
+    arabic: بَنِيٓ
     translation: (the) Children of Israel
     transliteration: banī
   9:
-    arabic: اِسۡرَآءِيۡلَ ۙ
+    arabic: إِسۡرَٰٓءِيلَ
     translation: (the) Children of Israel
     transliteration: is'rāīla
   10:
@@ -48,7 +48,7 @@ word_by_word:
     translation: and (do) not
     transliteration: walā
   11:
-    arabic: تُعَذِّبۡهُمۡ​ ؕ
+    arabic: تُعَذِّبۡهُمۡۖ
     translation: torment them
     transliteration: tuʿadhib'hum
   12:
@@ -56,27 +56,27 @@ word_by_word:
     translation: Verily
     transliteration: qad
   13:
-    arabic: جِئۡنٰكَ
+    arabic: جِئۡنَٰكَ
     translation: we came to you
     transliteration: ji'nāka
   14:
-    arabic: بِاٰيَةٍ
+    arabic: بِـَٔايَةٖ
     translation: with a Sign
     transliteration: biāyatin
   15:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: from
     transliteration: min
   16:
-    arabic: رَّبِّكَ​ ؕ
+    arabic: رَّبِّكَۖ
     translation: your Lord
     transliteration: rabbika
   17:
-    arabic: وَالسَّلٰمُ
+    arabic: وَٱلسَّلَٰمُ
     translation: And peace
     transliteration: wal-salāmu
   18:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: 'on'
     transliteration: ʿalā
   19:
@@ -84,11 +84,11 @@ word_by_word:
     translation: (one) who
     transliteration: mani
   20:
-    arabic: اتَّبَعَ
+    arabic: ٱتَّبَعَ
     translation: follows
     transliteration: ittabaʿa
   21:
-    arabic: الۡهُدٰى‏
+    arabic: ٱلۡهُدَىٰٓ
     translation: the Guidance
     transliteration: l-hudā
 ---

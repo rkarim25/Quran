@@ -1,28 +1,28 @@
 ---
-arabic_ayat: اِذۡ اَرۡسَلۡنَاۤ اِلَيۡهِمُ اثۡنَيۡنِ فَكَذَّبُوۡهُمَا فَعَزَّزۡنَا
-  بِثَالِثٍ فَقَالُـوۡۤا اِنَّاۤ اِلَيۡكُمۡ مُّرۡسَلُوۡنَ‏
+arabic_ayat: إِذۡ أَرۡسَلۡنَآ إِلَيۡهِمُ ٱثۡنَيۡنِ فَكَذَّبُوهُمَا فَعَزَّزۡنَا بِثَالِثٖ
+  فَقَالُوٓاْ إِنَّآ إِلَيۡكُم مُّرۡسَلُونَ
 sentence_translation: We sent them two messengers, but they rejected both. So We reinforced
   ˹the two˺ with a third, and they declared, “We have indeed been sent to you ˹as
   messengers˺.”
 word_by_word:
   1:
-    arabic: اِذۡ
+    arabic: إِذۡ
     translation: When
     transliteration: idh
   2:
-    arabic: اَرۡسَلۡنَاۤ
+    arabic: أَرۡسَلۡنَآ
     translation: We sent
     transliteration: arsalnā
   3:
-    arabic: اِلَيۡهِمُ
+    arabic: إِلَيۡهِمُ
     translation: to them
     transliteration: ilayhimu
   4:
-    arabic: اثۡنَيۡنِ
+    arabic: ٱثۡنَيۡنِ
     translation: two (Messengers)
     transliteration: ith'nayni
   5:
-    arabic: فَكَذَّبُوۡهُمَا
+    arabic: فَكَذَّبُوهُمَا
     translation: but they denied both of them
     transliteration: fakadhabūhumā
   6:
@@ -30,23 +30,23 @@ word_by_word:
     translation: so We strengthened them
     transliteration: faʿazzaznā
   7:
-    arabic: بِثَالِثٍ
+    arabic: بِثَالِثٖ
     translation: with a third
     transliteration: bithālithin
   8:
-    arabic: فَقَالُـوۡۤا
+    arabic: فَقَالُوٓاْ
     translation: and they said
     transliteration: faqālū
   9:
-    arabic: اِنَّاۤ
+    arabic: إِنَّآ
     translation: Indeed, We
     transliteration: innā
   10:
-    arabic: اِلَيۡكُمۡ
+    arabic: إِلَيۡكُم
     translation: to you
     transliteration: ilaykum
   11:
-    arabic: مُّرۡسَلُوۡنَ‏
+    arabic: مُّرۡسَلُونَ
     translation: (are) Messengers
     transliteration: mur'salūna
 ---

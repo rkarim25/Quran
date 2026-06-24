@@ -1,5 +1,5 @@
 ---
-arabic_ayat: وَجَآءَ فِرۡعَوۡنُ وَمَنۡ قَبۡلَهٗ وَالۡمُؤۡتَفِكٰتُ بِالۡخَـاطِئَةِ​ۚ‏
+arabic_ayat: وَجَآءَ فِرۡعَوۡنُ وَمَن قَبۡلَهُۥ وَٱلۡمُؤۡتَفِكَٰتُ بِٱلۡخَاطِئَةِ
 sentence_translation: Also, Pharaoh and those before him, and ˹the people of˺ the
   overturned cities ˹of Lot˺ indulged in sin,
 word_by_word:
@@ -12,19 +12,19 @@ word_by_word:
     translation: Firaun
     transliteration: fir'ʿawnu
   3:
-    arabic: وَمَنۡ
+    arabic: وَمَن
     translation: and (those)
     transliteration: waman
   4:
-    arabic: قَبۡلَهٗ
+    arabic: قَبۡلَهُۥ
     translation: before him
     transliteration: qablahu
   5:
-    arabic: وَالۡمُؤۡتَفِكٰتُ
+    arabic: وَٱلۡمُؤۡتَفِكَٰتُ
     translation: and the overturned cities
     transliteration: wal-mu'tafikātu
   6:
-    arabic: بِالۡخَـاطِئَةِ​ۚ‏
+    arabic: بِٱلۡخَاطِئَةِ
     translation: with sin
     transliteration: bil-khāṭi-ati
 ---

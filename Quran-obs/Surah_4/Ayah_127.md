@@ -1,9 +1,9 @@
 ---
-arabic_ayat: وَيَسۡتَفۡتُوۡنَكَ فِى النِّسَآءِ ​ؕ قُلِ اللّٰهُ يُفۡتِيۡكُمۡ فِيۡهِنَّ
-  ۙ وَمَا يُتۡلٰى عَلَيۡكُمۡ فِى الۡكِتٰبِ فِىۡ يَتٰمَى النِّسَآءِ الّٰتِىۡ لَا تُؤۡتُوۡنَهُنَّ
-  مَا كُتِبَ لَهُنَّ وَتَرۡغَبُوۡنَ اَنۡ تَـنۡكِحُوۡهُنَّ وَالۡمُسۡتَضۡعَفِيۡنَ مِنَ
-  الۡوِلۡدَانِ ۙ وَاَنۡ تَقُوۡمُوۡا لِلۡيَتٰمٰى بِالۡقِسۡطِ​ ؕ وَمَا تَفۡعَلُوۡا مِنۡ
-  خَيۡرٍ فَاِنَّ اللّٰهَ كَانَ بِهٖ عَلِيۡمًا‏
+arabic_ayat: وَيَسۡتَفۡتُونَكَ فِي ٱلنِّسَآءِۖ قُلِ ٱللَّهُ يُفۡتِيكُمۡ فِيهِنَّ
+  وَمَا يُتۡلَىٰ عَلَيۡكُمۡ فِي ٱلۡكِتَٰبِ فِي يَتَٰمَى ٱلنِّسَآءِ ٱلَّٰتِي لَا تُؤۡتُونَهُنَّ
+  مَا كُتِبَ لَهُنَّ وَتَرۡغَبُونَ أَن تَنكِحُوهُنَّ وَٱلۡمُسۡتَضۡعَفِينَ مِنَ ٱلۡوِلۡدَٰنِ
+  وَأَن تَقُومُواْ لِلۡيَتَٰمَىٰ بِٱلۡقِسۡطِۚ وَمَا تَفۡعَلُواْ مِنۡ خَيۡرٖ فَإِنَّ
+  ٱللَّهَ كَانَ بِهِۦ عَلِيمٗا
 sentence_translation: They ask you ˹O Prophet˺ regarding women. Say, “It is Allah
   Who instructs you regarding them. Instruction has ˹already˺ been revealed in the
   Book concerning the orphan women you deprive of their due rights but still wish
@@ -11,15 +11,15 @@ sentence_translation: They ask you ˹O Prophet˺ regarding women. Say, “It is 
   whatever good you do is certainly well known to Allah.”
 word_by_word:
   1:
-    arabic: وَيَسۡتَفۡتُوۡنَكَ
+    arabic: وَيَسۡتَفۡتُونَكَ
     translation: And they seek your ruling
     transliteration: wayastaftūnaka
   2:
-    arabic: فِى
+    arabic: فِي
     translation: concerning
     transliteration: fī
   3:
-    arabic: النِّسَآءِ ​ؕ
+    arabic: ٱلنِّسَآءِۖ
     translation: the women
     transliteration: l-nisāi
   4:
@@ -27,15 +27,15 @@ word_by_word:
     translation: Say
     transliteration: quli
   5:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   6:
-    arabic: يُفۡتِيۡكُمۡ
+    arabic: يُفۡتِيكُمۡ
     translation: gives you the ruling
     transliteration: yuf'tīkum
   7:
-    arabic: فِيۡهِنَّ ۙ
+    arabic: فِيهِنَّ
     translation: about them
     transliteration: fīhinna
   8:
@@ -43,7 +43,7 @@ word_by_word:
     translation: and what
     transliteration: wamā
   9:
-    arabic: يُتۡلٰى
+    arabic: يُتۡلَىٰ
     translation: is recited
     transliteration: yut'lā
   10:
@@ -51,27 +51,27 @@ word_by_word:
     translation: to you
     transliteration: ʿalaykum
   11:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   12:
-    arabic: الۡكِتٰبِ
+    arabic: ٱلۡكِتَٰبِ
     translation: the Book
     transliteration: l-kitābi
   13:
-    arabic: فِىۡ
+    arabic: فِي
     translation: concerning
     transliteration: fī
   14:
-    arabic: يَتٰمَى
+    arabic: يَتَٰمَى
     translation: orphans
     transliteration: yatāmā
   15:
-    arabic: النِّسَآءِ
+    arabic: ٱلنِّسَآءِ
     translation: (of) girls
     transliteration: l-nisāi
   16:
-    arabic: الّٰتِىۡ
+    arabic: ٱلَّٰتِي
     translation: (to) whom
     transliteration: allātī
   17:
@@ -79,7 +79,7 @@ word_by_word:
     translation: not
     transliteration: lā
   18:
-    arabic: تُؤۡتُوۡنَهُنَّ
+    arabic: تُؤۡتُونَهُنَّ
     translation: (do) you give them
     transliteration: tu'tūnahunna
   19:
@@ -95,19 +95,19 @@ word_by_word:
     translation: for them
     transliteration: lahunna
   22:
-    arabic: وَتَرۡغَبُوۡنَ
+    arabic: وَتَرۡغَبُونَ
     translation: and you desire
     transliteration: watarghabūna
   23:
-    arabic: اَنۡ
+    arabic: أَن
     translation: to
     transliteration: an
   24:
-    arabic: تَـنۡكِحُوۡهُنَّ
+    arabic: تَنكِحُوهُنَّ
     translation: marry them
     transliteration: tankiḥūhunna
   25:
-    arabic: وَالۡمُسۡتَضۡعَفِيۡنَ
+    arabic: وَٱلۡمُسۡتَضۡعَفِينَ
     translation: and the ones who are weak
     transliteration: wal-mus'taḍʿafīna
   26:
@@ -115,23 +115,23 @@ word_by_word:
     translation: of
     transliteration: mina
   27:
-    arabic: الۡوِلۡدَانِ ۙ
+    arabic: ٱلۡوِلۡدَٰنِ
     translation: the children
     transliteration: l-wil'dāni
   28:
-    arabic: وَاَنۡ
+    arabic: وَأَن
     translation: and to
     transliteration: wa-an
   29:
-    arabic: تَقُوۡمُوۡا
+    arabic: تَقُومُواْ
     translation: stand
     transliteration: taqūmū
   30:
-    arabic: لِلۡيَتٰمٰى
+    arabic: لِلۡيَتَٰمَىٰ
     translation: for orphans
     transliteration: lil'yatāmā
   31:
-    arabic: بِالۡقِسۡطِ​ ؕ
+    arabic: بِٱلۡقِسۡطِۚ
     translation: with justice
     transliteration: bil-qis'ṭi
   32:
@@ -139,7 +139,7 @@ word_by_word:
     translation: And whatever
     transliteration: wamā
   33:
-    arabic: تَفۡعَلُوۡا
+    arabic: تَفۡعَلُواْ
     translation: you do
     transliteration: tafʿalū
   34:
@@ -147,15 +147,15 @@ word_by_word:
     translation: of
     transliteration: min
   35:
-    arabic: خَيۡرٍ
+    arabic: خَيۡرٖ
     translation: good
     transliteration: khayrin
   36:
-    arabic: فَاِنَّ
+    arabic: فَإِنَّ
     translation: then indeed
     transliteration: fa-inna
   37:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   38:
@@ -163,11 +163,11 @@ word_by_word:
     translation: is
     transliteration: kāna
   39:
-    arabic: بِهٖ
+    arabic: بِهِۦ
     translation: about it
     transliteration: bihi
   40:
-    arabic: عَلِيۡمًا‏
+    arabic: عَلِيمٗا
     translation: All-Knowing
     transliteration: ʿalīman
 ---

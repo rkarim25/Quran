@@ -1,21 +1,21 @@
 ---
-arabic_ayat: وَّتُحِبُّوۡنَ الۡمَالَ حُبًّا جَمًّا ؕ‏
+arabic_ayat: وَتُحِبُّونَ ٱلۡمَالَ حُبّٗا جَمّٗا
 sentence_translation: and love wealth fervently.
 word_by_word:
   1:
-    arabic: وَّتُحِبُّوۡنَ
+    arabic: وَتُحِبُّونَ
     translation: And you love
     transliteration: watuḥibbūna
   2:
-    arabic: الۡمَالَ
+    arabic: ٱلۡمَالَ
     translation: wealth
     transliteration: l-māla
   3:
-    arabic: حُبًّا
+    arabic: حُبّٗا
     translation: (with) love
     transliteration: ḥubban
   4:
-    arabic: جَمًّا ؕ‏
+    arabic: جَمّٗا
     translation: immense
     transliteration: jamman
 ---

@@ -1,21 +1,21 @@
 ---
-arabic_ayat: ​قَالُوۡا يٰۤاَبَانَاۤ اِنَّا ذَهَبۡنَا نَسۡتَبِقُ وَتَرَكۡنَا يُوۡسُفَ
-  عِنۡدَ مَتَاعِنَا فَاَكَلَهُ الذِّئۡبُ​ۚ وَمَاۤ اَنۡتَ بِمُؤۡمِنٍ لَّنَا وَلَوۡ
-  كُنَّا صٰدِقِيۡنَ‏
+arabic_ayat: قَالُواْ يَٰٓأَبَانَآ إِنَّا ذَهَبۡنَا نَسۡتَبِقُ وَتَرَكۡنَا يُوسُفَ
+  عِندَ مَتَٰعِنَا فَأَكَلَهُ ٱلذِّئۡبُۖ وَمَآ أَنتَ بِمُؤۡمِنٖ لَّنَا وَلَوۡ كُنَّا
+  صَٰدِقِينَ
 sentence_translation: They cried, “Our father! We went racing and left Joseph with
   our belongings, and a wolf devoured him! But you will not believe us, no matter
   how truthful we are.”
 word_by_word:
   1:
-    arabic: ​قَالُوۡا
+    arabic: قَالُواْ
     translation: They said
     transliteration: qālū
   2:
-    arabic: يٰۤاَبَانَاۤ
+    arabic: يَٰٓأَبَانَآ
     translation: O our father
     transliteration: yāabānā
   3:
-    arabic: اِنَّا
+    arabic: إِنَّا
     translation: Indeed, we
     transliteration: innā
   4:
@@ -31,35 +31,35 @@ word_by_word:
     translation: and we left
     transliteration: wataraknā
   7:
-    arabic: يُوۡسُفَ
+    arabic: يُوسُفَ
     translation: Yusuf
     transliteration: yūsufa
   8:
-    arabic: عِنۡدَ
+    arabic: عِندَ
     translation: with
     transliteration: ʿinda
   9:
-    arabic: مَتَاعِنَا
+    arabic: مَتَٰعِنَا
     translation: our possessions
     transliteration: matāʿinā
   10:
-    arabic: فَاَكَلَهُ
+    arabic: فَأَكَلَهُ
     translation: and ate him
     transliteration: fa-akalahu
   11:
-    arabic: الذِّئۡبُ​ۚ
+    arabic: ٱلذِّئۡبُۖ
     translation: the wolf
     transliteration: l-dhi'bu
   12:
-    arabic: وَمَاۤ
+    arabic: وَمَآ
     translation: But not
     transliteration: wamā
   13:
-    arabic: اَنۡتَ
+    arabic: أَنتَ
     translation: you
     transliteration: anta
   14:
-    arabic: بِمُؤۡمِنٍ
+    arabic: بِمُؤۡمِنٖ
     translation: (will) believe
     transliteration: bimu'minin
   15:
@@ -75,7 +75,7 @@ word_by_word:
     translation: we are
     transliteration: kunnā
   18:
-    arabic: صٰدِقِيۡنَ‏
+    arabic: صَٰدِقِينَ
     translation: truthful
     transliteration: ṣādiqīna
 ---

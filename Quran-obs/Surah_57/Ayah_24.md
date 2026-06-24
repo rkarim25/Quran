@@ -1,44 +1,44 @@
 ---
-arabic_ayat: اۨلَّذِيۡنَ يَبۡخَلُوۡنَ وَيَاۡمُرُوۡنَ النَّاسَ بِالۡبُخۡلِ​ؕ وَمَنۡ
-  يَّتَوَلَّ فَاِنَّ اللّٰهَ هُوَ الۡغَنِىُّ الۡحَمِيۡدُ‏
+arabic_ayat: ٱلَّذِينَ يَبۡخَلُونَ وَيَأۡمُرُونَ ٱلنَّاسَ بِٱلۡبُخۡلِۗ وَمَن يَتَوَلَّ
+  فَإِنَّ ٱللَّهَ هُوَ ٱلۡغَنِيُّ ٱلۡحَمِيدُ
 sentence_translation: those who are stingy and promote stinginess among people. And
   whoever turns away ˹should know that˺ Allah ˹alone˺ is truly the Self-Sufficient,
   Praiseworthy.
 word_by_word:
   1:
-    arabic: اۨلَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: Those who
     transliteration: alladhīna
   2:
-    arabic: يَبۡخَلُوۡنَ
+    arabic: يَبۡخَلُونَ
     translation: are stingy
     transliteration: yabkhalūna
   3:
-    arabic: وَيَاۡمُرُوۡنَ
+    arabic: وَيَأۡمُرُونَ
     translation: and enjoin
     transliteration: wayamurūna
   4:
-    arabic: النَّاسَ
+    arabic: ٱلنَّاسَ
     translation: (on) the people
     transliteration: l-nāsa
   5:
-    arabic: بِالۡبُخۡلِ​ؕ
+    arabic: بِٱلۡبُخۡلِۗ
     translation: stinginess
     transliteration: bil-bukh'li
   6:
-    arabic: وَمَنۡ
+    arabic: وَمَن
     translation: And whoever
     transliteration: waman
   7:
-    arabic: يَّتَوَلَّ
+    arabic: يَتَوَلَّ
     translation: turns away
     transliteration: yatawalla
   8:
-    arabic: فَاِنَّ
+    arabic: فَإِنَّ
     translation: then indeed
     transliteration: fa-inna
   9:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   10:
@@ -46,11 +46,11 @@ word_by_word:
     translation: He
     transliteration: huwa
   11:
-    arabic: الۡغَنِىُّ
+    arabic: ٱلۡغَنِيُّ
     translation: (is) Free of need
     transliteration: l-ghaniyu
   12:
-    arabic: الۡحَمِيۡدُ‏
+    arabic: ٱلۡحَمِيدُ
     translation: the Praiseworthy
     transliteration: l-ḥamīdu
 ---

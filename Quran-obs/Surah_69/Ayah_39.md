@@ -1,5 +1,5 @@
 ---
-arabic_ayat: وَمَا لَا تُبۡصِرُوۡنَۙ‏
+arabic_ayat: وَمَا لَا تُبۡصِرُونَ
 sentence_translation: and whatever you cannot see!
 word_by_word:
   1:
@@ -11,7 +11,7 @@ word_by_word:
     translation: not
     transliteration: lā
   3:
-    arabic: تُبۡصِرُوۡنَۙ‏
+    arabic: تُبۡصِرُونَ
     translation: you see
     transliteration: tub'ṣirūna
 ---

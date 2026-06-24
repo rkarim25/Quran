@@ -1,7 +1,6 @@
 ---
-arabic_ayat: "وَكَيۡفَ يُحَكِّمُوۡنَكَ وَعِنۡدَهُمُ التَّوۡرٰٮةُ فِيۡهَا حُكۡمُ اللّٰهِ\
-  \ ثُمَّ يَتَوَلَّوۡنَ مِنۡۢ بَعۡدِ ذٰ لِكَ​ ؕ وَمَاۤ اُولٰٓٮِٕكَ بِالۡمُؤۡمِنِيۡنَ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: وَكَيۡفَ يُحَكِّمُونَكَ وَعِندَهُمُ ٱلتَّوۡرَىٰةُ فِيهَا حُكۡمُ ٱللَّهِ
+  ثُمَّ يَتَوَلَّوۡنَ مِنۢ بَعۡدِ ذَٰلِكَۚ وَمَآ أُوْلَٰٓئِكَ بِٱلۡمُؤۡمِنِينَ
 sentence_translation: But why do they come to you for judgment when they ˹already˺
   have the Torah containing Allah’s judgment, then they turn away after all? They
   are not ˹true˺ believers.
@@ -11,19 +10,19 @@ word_by_word:
     translation: But how can
     transliteration: wakayfa
   2:
-    arabic: يُحَكِّمُوۡنَكَ
+    arabic: يُحَكِّمُونَكَ
     translation: they appoint you a judge
     transliteration: yuḥakkimūnaka
   3:
-    arabic: وَعِنۡدَهُمُ
+    arabic: وَعِندَهُمُ
     translation: while they (have) with them
     transliteration: waʿindahumu
   4:
-    arabic: التَّوۡرٰٮةُ
+    arabic: ٱلتَّوۡرَىٰةُ
     translation: the Taurat
     transliteration: l-tawrātu
   5:
-    arabic: فِيۡهَا
+    arabic: فِيهَا
     translation: in it
     transliteration: fīhā
   6:
@@ -31,7 +30,7 @@ word_by_word:
     translation: (is the) Command
     transliteration: ḥuk'mu
   7:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (of) Allah
     transliteration: l-lahi
   8:
@@ -43,7 +42,7 @@ word_by_word:
     translation: they turn away
     transliteration: yatawallawna
   10:
-    arabic: مِنۡۢ
+    arabic: مِنۢ
     translation: from
     transliteration: min
   11:
@@ -51,19 +50,19 @@ word_by_word:
     translation: after
     transliteration: baʿdi
   12:
-    arabic: ذٰ لِكَ​ ؕ
+    arabic: ذَٰلِكَۚ
     translation: that
     transliteration: dhālika
   13:
-    arabic: وَمَاۤ
+    arabic: وَمَآ
     translation: and not
     transliteration: wamā
   14:
-    arabic: اُولٰٓٮِٕكَ
+    arabic: أُوْلَٰٓئِكَ
     translation: those
     transliteration: ulāika
   15:
-    arabic: "بِالۡمُؤۡمِنِيۡنَ‏ \uFEFF\uFEFF"
+    arabic: بِٱلۡمُؤۡمِنِينَ
     translation: (are) the believers
     transliteration: bil-mu'minīna
 ---

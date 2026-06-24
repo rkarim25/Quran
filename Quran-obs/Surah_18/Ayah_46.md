@@ -1,35 +1,35 @@
 ---
-arabic_ayat: اَلۡمَالُ وَ الۡبَـنُوۡنَ زِيۡنَةُ الۡحَيٰوةِ الدُّنۡيَا​ ۚ وَالۡبٰقِيٰتُ
-  الصّٰلِحٰتُ خَيۡرٌ عِنۡدَ رَبِّكَ ثَوَابًا وَّخَيۡرٌ اَمَلًا‏
+arabic_ayat: ٱلۡمَالُ وَٱلۡبَنُونَ زِينَةُ ٱلۡحَيَوٰةِ ٱلدُّنۡيَاۖ وَٱلۡبَٰقِيَٰتُ
+  ٱلصَّٰلِحَٰتُ خَيۡرٌ عِندَ رَبِّكَ ثَوَابٗا وَخَيۡرٌ أَمَلٗا
 sentence_translation: Wealth and children are the adornment of this worldly life,
   but the everlasting good deeds are far better with your Lord in reward and in hope. 
 word_by_word:
   1:
-    arabic: اَلۡمَالُ
+    arabic: ٱلۡمَالُ
     translation: The wealth
     transliteration: al-mālu
   2:
-    arabic: وَ الۡبَـنُوۡنَ
+    arabic: وَٱلۡبَنُونَ
     translation: and children
     transliteration: wal-banūna
   3:
-    arabic: زِيۡنَةُ
+    arabic: زِينَةُ
     translation: (are) adornment
     transliteration: zīnatu
   4:
-    arabic: الۡحَيٰوةِ
+    arabic: ٱلۡحَيَوٰةِ
     translation: (of) the life
     transliteration: l-ḥayati
   5:
-    arabic: الدُّنۡيَا​ ۚ
+    arabic: ٱلدُّنۡيَاۖ
     translation: (of) the world
     transliteration: l-dun'yā
   6:
-    arabic: وَالۡبٰقِيٰتُ
+    arabic: وَٱلۡبَٰقِيَٰتُ
     translation: But the enduring
     transliteration: wal-bāqiyātu
   7:
-    arabic: الصّٰلِحٰتُ
+    arabic: ٱلصَّٰلِحَٰتُ
     translation: good deeds
     transliteration: l-ṣāliḥātu
   8:
@@ -37,7 +37,7 @@ word_by_word:
     translation: (are) better
     transliteration: khayrun
   9:
-    arabic: عِنۡدَ
+    arabic: عِندَ
     translation: near
     transliteration: ʿinda
   10:
@@ -45,15 +45,15 @@ word_by_word:
     translation: your Lord
     transliteration: rabbika
   11:
-    arabic: ثَوَابًا
+    arabic: ثَوَابٗا
     translation: (for) reward
     transliteration: thawāban
   12:
-    arabic: وَّخَيۡرٌ
+    arabic: وَخَيۡرٌ
     translation: and better
     transliteration: wakhayrun
   13:
-    arabic: اَمَلًا‏
+    arabic: أَمَلٗا
     translation: (for) hope
     transliteration: amalan
 ---

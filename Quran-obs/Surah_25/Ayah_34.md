@@ -1,51 +1,51 @@
 ---
-arabic_ayat: اَلَّذِيۡنَ يُحۡشَرُوۡنَ عَلٰى وُجُوۡهِهِمۡ اِلٰى جَهَـنَّمَۙ اُولٰٓٮِٕكَ
-  شَرٌّ مَّكَانًا وَّاَضَلُّ سَبِيۡلًا‏
+arabic_ayat: ٱلَّذِينَ يُحۡشَرُونَ عَلَىٰ وُجُوهِهِمۡ إِلَىٰ جَهَنَّمَ أُوْلَٰٓئِكَ
+  شَرّٞ مَّكَانٗا وَأَضَلُّ سَبِيلٗا
 sentence_translation: Those who will be dragged into Hell on their faces will be in
   the worst place, and are ˹now˺ farthest from the ˹Right˺ Way.
 word_by_word:
   1:
-    arabic: اَلَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: Those who
     transliteration: alladhīna
   2:
-    arabic: يُحۡشَرُوۡنَ
+    arabic: يُحۡشَرُونَ
     translation: will be gathered
     transliteration: yuḥ'sharūna
   3:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: 'on'
     transliteration: ʿalā
   4:
-    arabic: وُجُوۡهِهِمۡ
+    arabic: وُجُوهِهِمۡ
     translation: their faces
     transliteration: wujūhihim
   5:
-    arabic: اِلٰى
+    arabic: إِلَىٰ
     translation: to
     transliteration: ilā
   6:
-    arabic: جَهَـنَّمَۙ
+    arabic: جَهَنَّمَ
     translation: Hell
     transliteration: jahannama
   7:
-    arabic: اُولٰٓٮِٕكَ
+    arabic: أُوْلَٰٓئِكَ
     translation: those
     transliteration: ulāika
   8:
-    arabic: شَرٌّ
+    arabic: شَرّٞ
     translation: (are the) worst
     transliteration: sharrun
   9:
-    arabic: مَّكَانًا
+    arabic: مَّكَانٗا
     translation: (in) position
     transliteration: makānan
   10:
-    arabic: وَّاَضَلُّ
+    arabic: وَأَضَلُّ
     translation: and most astray
     transliteration: wa-aḍallu
   11:
-    arabic: سَبِيۡلًا‏
+    arabic: سَبِيلٗا
     translation: (from the) way
     transliteration: sabīlan
 ---

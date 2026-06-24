@@ -1,8 +1,8 @@
 ---
-arabic_ayat: وَقَالَ الَّذِيۡنَ كَفَرُوۡا لَنۡ نُّؤۡمِنَ بِهٰذَا الۡقُرۡاٰنِ وَلَا
-  بِالَّذِىۡ بَيۡنَ يَدَيۡهِؕ وَلَوۡ تَرٰٓى اِذِ الظّٰلِمُوۡنَ مَوۡقُوۡفُوۡنَ عِنۡدَ
-  رَبِّهِمۡ ۖۚ يَرۡجِعُ بَعۡضُهُمۡ اِلٰى بَعۡضِ اۨلۡقَوۡلَ​ۚ يَقُوۡلُ الَّذِيۡنَ اسۡتُضۡعِفُوۡا
-  لِلَّذِيۡنَ اسۡتَكۡبَرُوۡا لَوۡلَاۤ اَنۡـتُمۡ لَـكُـنَّا مُؤۡمِنِيۡنَ‏
+arabic_ayat: وَقَالَ ٱلَّذِينَ كَفَرُواْ لَن نُّؤۡمِنَ بِهَٰذَا ٱلۡقُرۡءَانِ وَلَا
+  بِٱلَّذِي بَيۡنَ يَدَيۡهِۗ وَلَوۡ تَرَىٰٓ إِذِ ٱلظَّٰلِمُونَ مَوۡقُوفُونَ عِندَ
+  رَبِّهِمۡ يَرۡجِعُ بَعۡضُهُمۡ إِلَىٰ بَعۡضٍ ٱلۡقَوۡلَ يَقُولُ ٱلَّذِينَ ٱسۡتُضۡعِفُواْ
+  لِلَّذِينَ ٱسۡتَكۡبَرُواْ لَوۡلَآ أَنتُمۡ لَكُنَّا مُؤۡمِنِينَ
 sentence_translation: The disbelievers vow, “We will never believe in this Quran,
   nor in those ˹Scriptures˺ before it.” If only you could see when the wrongdoers
   will be detained before their Lord, throwing blame at each other! The lowly ˹followers˺
@@ -14,15 +14,15 @@ word_by_word:
     translation: And say
     transliteration: waqāla
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   3:
-    arabic: كَفَرُوۡا
+    arabic: كَفَرُواْ
     translation: disbelieve
     transliteration: kafarū
   4:
-    arabic: لَنۡ
+    arabic: لَن
     translation: Never will
     transliteration: lan
   5:
@@ -30,11 +30,11 @@ word_by_word:
     translation: we believe
     transliteration: nu'mina
   6:
-    arabic: بِهٰذَا
+    arabic: بِهَٰذَا
     translation: in this
     transliteration: bihādhā
   7:
-    arabic: الۡقُرۡاٰنِ
+    arabic: ٱلۡقُرۡءَانِ
     translation: Quran
     transliteration: l-qur'āni
   8:
@@ -42,7 +42,7 @@ word_by_word:
     translation: and not
     transliteration: walā
   9:
-    arabic: بِالَّذِىۡ
+    arabic: بِٱلَّذِي
     translation: in (that) which
     transliteration: bi-alladhī
   10:
@@ -50,7 +50,7 @@ word_by_word:
     translation: (was) before it
     transliteration: bayna
   11:
-    arabic: يَدَيۡهِؕ
+    arabic: يَدَيۡهِۗ
     translation: (was) before it
     transliteration: yadayhi
   12:
@@ -58,27 +58,27 @@ word_by_word:
     translation: But if
     transliteration: walaw
   13:
-    arabic: تَرٰٓى
+    arabic: تَرَىٰٓ
     translation: you (could) see
     transliteration: tarā
   14:
-    arabic: اِذِ
+    arabic: إِذِ
     translation: when
     transliteration: idhi
   15:
-    arabic: الظّٰلِمُوۡنَ
+    arabic: ٱلظَّٰلِمُونَ
     translation: the wrongdoers
     transliteration: l-ẓālimūna
   16:
-    arabic: مَوۡقُوۡفُوۡنَ
+    arabic: مَوۡقُوفُونَ
     translation: will be made to stand
     transliteration: mawqūfūna
   17:
-    arabic: عِنۡدَ
+    arabic: عِندَ
     translation: before
     transliteration: ʿinda
   18:
-    arabic: رَبِّهِمۡ ۖۚ
+    arabic: رَبِّهِمۡ
     translation: their Lord
     transliteration: rabbihim
   19:
@@ -90,51 +90,51 @@ word_by_word:
     translation: some of them
     transliteration: baʿḍuhum
   21:
-    arabic: اِلٰى
+    arabic: إِلَىٰ
     translation: to
     transliteration: ilā
   22:
-    arabic: بَعۡضِ
+    arabic: بَعۡضٍ
     translation: others
     transliteration: baʿḍin
   23:
-    arabic: اۨلۡقَوۡلَ​ۚ
+    arabic: ٱلۡقَوۡلَ
     translation: the word
     transliteration: l-qawla
   24:
-    arabic: يَقُوۡلُ
+    arabic: يَقُولُ
     translation: Will say
     transliteration: yaqūlu
   25:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   26:
-    arabic: اسۡتُضۡعِفُوۡا
+    arabic: ٱسۡتُضۡعِفُواْ
     translation: were oppressed
     transliteration: us'tuḍ'ʿifū
   27:
-    arabic: لِلَّذِيۡنَ
+    arabic: لِلَّذِينَ
     translation: to those who
     transliteration: lilladhīna
   28:
-    arabic: اسۡتَكۡبَرُوۡا
+    arabic: ٱسۡتَكۡبَرُواْ
     translation: were arrogant
     transliteration: is'takbarū
   29:
-    arabic: لَوۡلَاۤ
+    arabic: لَوۡلَآ
     translation: If not
     transliteration: lawlā
   30:
-    arabic: اَنۡـتُمۡ
+    arabic: أَنتُمۡ
     translation: (for) you
     transliteration: antum
   31:
-    arabic: لَـكُـنَّا
+    arabic: لَكُنَّا
     translation: certainly we (would) have been
     transliteration: lakunnā
   32:
-    arabic: مُؤۡمِنِيۡنَ‏
+    arabic: مُؤۡمِنِينَ
     translation: believers
     transliteration: mu'minīna
 ---

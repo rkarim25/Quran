@@ -1,15 +1,15 @@
 ---
-arabic_ayat: اِنۡ تُبۡدُوۡا خَيۡرًا اَوۡ تُخۡفُوۡهُ اَوۡ تَعۡفُوۡا عَنۡ سُوۡٓءٍ فَاِنَّ
-  اللّٰهَ كَانَ عَفُوًّا قَدِيۡرًا‏
+arabic_ayat: إِن تُبۡدُواْ خَيۡرًا أَوۡ تُخۡفُوهُ أَوۡ تَعۡفُواْ عَن سُوٓءٖ فَإِنَّ
+  ٱللَّهَ كَانَ عَفُوّٗا قَدِيرًا
 sentence_translation: Whether you reveal or conceal a good or pardon an evil—surely
   Allah is Ever-Pardoning, Most Capable.
 word_by_word:
   1:
-    arabic: اِنۡ
+    arabic: إِن
     translation: If
     transliteration: in
   2:
-    arabic: تُبۡدُوۡا
+    arabic: تُبۡدُواْ
     translation: you disclose
     transliteration: tub'dū
   3:
@@ -17,35 +17,35 @@ word_by_word:
     translation: a good
     transliteration: khayran
   4:
-    arabic: اَوۡ
+    arabic: أَوۡ
     translation: or
     transliteration: aw
   5:
-    arabic: تُخۡفُوۡهُ
+    arabic: تُخۡفُوهُ
     translation: you conceal it
     transliteration: tukh'fūhu
   6:
-    arabic: اَوۡ
+    arabic: أَوۡ
     translation: or
     transliteration: aw
   7:
-    arabic: تَعۡفُوۡا
+    arabic: تَعۡفُواْ
     translation: pardon
     transliteration: taʿfū
   8:
-    arabic: عَنۡ
+    arabic: عَن
     translation: '[of]'
     transliteration: ʿan
   9:
-    arabic: سُوۡٓءٍ
+    arabic: سُوٓءٖ
     translation: an evil
     transliteration: sūin
   10:
-    arabic: فَاِنَّ
+    arabic: فَإِنَّ
     translation: then indeed
     transliteration: fa-inna
   11:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   12:
@@ -53,11 +53,11 @@ word_by_word:
     translation: is
     transliteration: kāna
   13:
-    arabic: عَفُوًّا
+    arabic: عَفُوّٗا
     translation: Oft-Pardoning
     transliteration: ʿafuwwan
   14:
-    arabic: قَدِيۡرًا‏
+    arabic: قَدِيرًا
     translation: All-Powerful
     transliteration: qadīran
 ---

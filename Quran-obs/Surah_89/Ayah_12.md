@@ -1,17 +1,17 @@
 ---
-arabic_ayat: فَاَكۡثَرُوۡا فِيۡهَا الۡفَسَادَۙ‏
+arabic_ayat: فَأَكۡثَرُواْ فِيهَا ٱلۡفَسَادَ
 sentence_translation: spreading much corruption there.
 word_by_word:
   1:
-    arabic: فَاَكۡثَرُوۡا
+    arabic: فَأَكۡثَرُواْ
     translation: And (made) much
     transliteration: fa-aktharū
   2:
-    arabic: فِيۡهَا
+    arabic: فِيهَا
     translation: therein
     transliteration: fīhā
   3:
-    arabic: الۡفَسَادَۙ‏
+    arabic: ٱلۡفَسَادَ
     translation: corruption
     transliteration: l-fasāda
 ---

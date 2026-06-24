@@ -1,11 +1,10 @@
 ---
-arabic_ayat: "لَا تَجۡعَلۡ مَعَ اللّٰهِ اِلٰهًا اٰخَرَ فَتَقۡعُدَ مَذۡمُوۡمًا مَّخۡذُوۡلًا‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: لَّا تَجۡعَلۡ مَعَ ٱللَّهِ إِلَٰهًا ءَاخَرَ فَتَقۡعُدَ مَذۡمُومٗا مَّخۡذُولٗا
 sentence_translation: Do not set up any other god with Allah, or you will end up condemned,
   abandoned.
 word_by_word:
   1:
-    arabic: لَا
+    arabic: لَّا
     translation: (Do) not
     transliteration: lā
   2:
@@ -17,15 +16,15 @@ word_by_word:
     translation: with
     transliteration: maʿa
   4:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   5:
-    arabic: اِلٰهًا
+    arabic: إِلَٰهًا ءَ
     translation: god
     transliteration: ilāhan
   6:
-    arabic: اٰخَرَ
+    arabic: اخَرَ
     translation: another
     transliteration: ākhara
   7:
@@ -33,11 +32,11 @@ word_by_word:
     translation: lest you will sit
     transliteration: fataqʿuda
   8:
-    arabic: مَذۡمُوۡمًا
+    arabic: مَذۡمُومٗا
     translation: disgraced
     transliteration: madhmūman
   9:
-    arabic: "مَّخۡذُوۡلًا‏ \uFEFF\uFEFF"
+    arabic: مَّخۡذُولٗا
     translation: forsaken
     transliteration: makhdhūlan
 ---

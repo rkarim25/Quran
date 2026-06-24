@@ -1,18 +1,18 @@
 ---
-arabic_ayat: قَالُوۡا سُبۡحٰنَكَ مَا كَانَ يَنۢۡبَغِىۡ لَنَاۤ اَنۡ نَّـتَّخِذَ مِنۡ
-  دُوۡنِكَ مِنۡ اَوۡلِيَآءَ وَ لٰـكِنۡ مَّتَّعۡتَهُمۡ وَاٰبَآءَهُمۡ حَتّٰى نَسُوا
-  الذِّكۡرَ​ۚ وَكَانُوۡا قَوۡمًۢا بُوۡرًا‏
+arabic_ayat: قَالُواْ سُبۡحَٰنَكَ مَا كَانَ يَنۢبَغِي لَنَآ أَن نَّتَّخِذَ مِن دُونِكَ
+  مِنۡ أَوۡلِيَآءَ وَلَٰكِن مَّتَّعۡتَهُمۡ وَءَابَآءَهُمۡ حَتَّىٰ نَسُواْ ٱلذِّكۡرَ
+  وَكَانُواْ قَوۡمَۢا بُورٗا
 sentence_translation: They will say, “Glory be to You! It was not right for ˹others
   like˺ us to take any lords besides You, but You allowed enjoyment for them and their
   forefathers ˹for so long˺ that they forgot ˹Your˺ remembrance and became a doomed
   people.”
 word_by_word:
   1:
-    arabic: قَالُوۡا
+    arabic: قَالُواْ
     translation: They say
     transliteration: qālū
   2:
-    arabic: سُبۡحٰنَكَ
+    arabic: سُبۡحَٰنَكَ
     translation: Glory be to You
     transliteration: sub'ḥānaka
   3:
@@ -24,27 +24,27 @@ word_by_word:
     translation: it was proper
     transliteration: kāna
   5:
-    arabic: يَنۢۡبَغِىۡ
+    arabic: يَنۢبَغِي
     translation: it was proper
     transliteration: yanbaghī
   6:
-    arabic: لَنَاۤ
+    arabic: لَنَآ
     translation: for us
     transliteration: lanā
   7:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that
     transliteration: an
   8:
-    arabic: نَّـتَّخِذَ
+    arabic: نَّتَّخِذَ
     translation: we take
     transliteration: nattakhidha
   9:
-    arabic: مِنۡ
+    arabic: مِن
     translation: besides You
     transliteration: min
   10:
-    arabic: دُوۡنِكَ
+    arabic: دُونِكَ
     translation: besides You
     transliteration: dūnika
   11:
@@ -52,11 +52,11 @@ word_by_word:
     translation: any
     transliteration: min
   12:
-    arabic: اَوۡلِيَآءَ
+    arabic: أَوۡلِيَآءَ
     translation: protectors
     transliteration: awliyāa
   13:
-    arabic: وَ لٰـكِنۡ
+    arabic: وَلَٰكِن
     translation: But
     transliteration: walākin
   14:
@@ -64,31 +64,31 @@ word_by_word:
     translation: You gave them comforts
     transliteration: mattaʿtahum
   15:
-    arabic: وَاٰبَآءَهُمۡ
+    arabic: وَءَابَآءَهُمۡ
     translation: and their forefathers
     transliteration: waābāahum
   16:
-    arabic: حَتّٰى
+    arabic: حَتَّىٰ
     translation: until
     transliteration: ḥattā
   17:
-    arabic: نَسُوا
+    arabic: نَسُواْ
     translation: they forgot
     transliteration: nasū
   18:
-    arabic: الذِّكۡرَ​ۚ
+    arabic: ٱلذِّكۡرَ
     translation: the Message
     transliteration: l-dhik'ra
   19:
-    arabic: وَكَانُوۡا
+    arabic: وَكَانُواْ
     translation: and became
     transliteration: wakānū
   20:
-    arabic: قَوۡمًۢا
+    arabic: قَوۡمَۢا
     translation: a people
     transliteration: qawman
   21:
-    arabic: بُوۡرًا‏
+    arabic: بُورٗا
     translation: ruined
     transliteration: būran
 ---

@@ -1,15 +1,15 @@
 ---
-arabic_ayat: يَسۡـــَٔلُكَ النَّاسُ عَنِ السَّاعَةِؕ قُلۡ اِنَّمَا عِلۡمُهَا عِنۡدَ
-  اللّٰهِؕ وَمَا يُدۡرِيۡكَ لَعَلَّ السَّاعَةَ تَكُوۡنُ قَرِيۡبًا‏
+arabic_ayat: يَسۡـَٔلُكَ ٱلنَّاسُ عَنِ ٱلسَّاعَةِۖ قُلۡ إِنَّمَا عِلۡمُهَا عِندَ ٱللَّهِۚ
+  وَمَا يُدۡرِيكَ لَعَلَّ ٱلسَّاعَةَ تَكُونُ قَرِيبًا
 sentence_translation: People ask you ˹O Prophet˺ about the Hour. Say, “That knowledge
   is only with Allah. You never know, perhaps the Hour is near.”
 word_by_word:
   1:
-    arabic: يَسۡـــَٔلُكَ
+    arabic: يَسۡـَٔلُكَ
     translation: Ask you
     transliteration: yasaluka
   2:
-    arabic: النَّاسُ
+    arabic: ٱلنَّاسُ
     translation: the people
     transliteration: l-nāsu
   3:
@@ -17,7 +17,7 @@ word_by_word:
     translation: about
     transliteration: ʿani
   4:
-    arabic: السَّاعَةِؕ
+    arabic: ٱلسَّاعَةِۖ
     translation: the Hour
     transliteration: l-sāʿati
   5:
@@ -25,7 +25,7 @@ word_by_word:
     translation: Say
     transliteration: qul
   6:
-    arabic: اِنَّمَا
+    arabic: إِنَّمَا
     translation: Only
     transliteration: innamā
   7:
@@ -33,11 +33,11 @@ word_by_word:
     translation: its knowledge
     transliteration: ʿil'muhā
   8:
-    arabic: عِنۡدَ
+    arabic: عِندَ
     translation: (is) with
     transliteration: ʿinda
   9:
-    arabic: اللّٰهِؕ
+    arabic: ٱللَّهِۚ
     translation: Allah
     transliteration: l-lahi
   10:
@@ -45,7 +45,7 @@ word_by_word:
     translation: And what
     transliteration: wamā
   11:
-    arabic: يُدۡرِيۡكَ
+    arabic: يُدۡرِيكَ
     translation: will make you know
     transliteration: yud'rīka
   12:
@@ -53,15 +53,15 @@ word_by_word:
     translation: Perhaps
     transliteration: laʿalla
   13:
-    arabic: السَّاعَةَ
+    arabic: ٱلسَّاعَةَ
     translation: the Hour
     transliteration: l-sāʿata
   14:
-    arabic: تَكُوۡنُ
+    arabic: تَكُونُ
     translation: is
     transliteration: takūnu
   15:
-    arabic: قَرِيۡبًا‏
+    arabic: قَرِيبًا
     translation: near
     transliteration: qarīban
 ---

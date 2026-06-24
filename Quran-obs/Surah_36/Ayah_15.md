@@ -1,67 +1,67 @@
 ---
-arabic_ayat: قَالُوۡا مَاۤ اَنۡـتُمۡ اِلَّا بَشَرٌ مِّثۡلُـنَا ۙ وَمَاۤ اَنۡزَلَ الرَّحۡمٰنُ
-  مِنۡ شَىۡءٍۙ اِنۡ اَنۡـتُمۡ اِلَّا تَكۡذِبُوۡنَ‏
+arabic_ayat: قَالُواْ مَآ أَنتُمۡ إِلَّا بَشَرٞ مِّثۡلُنَا وَمَآ أَنزَلَ ٱلرَّحۡمَٰنُ
+  مِن شَيۡءٍ إِنۡ أَنتُمۡ إِلَّا تَكۡذِبُونَ
 sentence_translation: The people replied, “You are only humans like us, and the Most
   Compassionate has not revealed anything. You are simply lying!”
 word_by_word:
   1:
-    arabic: قَالُوۡا
+    arabic: قَالُواْ
     translation: They said
     transliteration: qālū
   2:
-    arabic: مَاۤ
+    arabic: مَآ
     translation: Not
     transliteration: mā
   3:
-    arabic: اَنۡـتُمۡ
+    arabic: أَنتُمۡ
     translation: you
     transliteration: antum
   4:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: (are) but
     transliteration: illā
   5:
-    arabic: بَشَرٌ
+    arabic: بَشَرٞ
     translation: human beings
     transliteration: basharun
   6:
-    arabic: مِّثۡلُـنَا ۙ
+    arabic: مِّثۡلُنَا
     translation: like us
     transliteration: mith'lunā
   7:
-    arabic: وَمَاۤ
+    arabic: وَمَآ
     translation: and not
     transliteration: wamā
   8:
-    arabic: اَنۡزَلَ
+    arabic: أَنزَلَ
     translation: has revealed
     transliteration: anzala
   9:
-    arabic: الرَّحۡمٰنُ
+    arabic: ٱلرَّحۡمَٰنُ
     translation: the Most Gracious
     transliteration: l-raḥmānu
   10:
-    arabic: مِنۡ
+    arabic: مِن
     translation: any
     transliteration: min
   11:
-    arabic: شَىۡءٍۙ
+    arabic: شَيۡءٍ
     translation: thing
     transliteration: shayin
   12:
-    arabic: اِنۡ
+    arabic: إِنۡ
     translation: Not
     transliteration: in
   13:
-    arabic: اَنۡـتُمۡ
+    arabic: أَنتُمۡ
     translation: you
     transliteration: antum
   14:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: (are) but
     transliteration: illā
   15:
-    arabic: تَكۡذِبُوۡنَ‏
+    arabic: تَكۡذِبُونَ
     translation: lying
     transliteration: takdhibūna
 ---

@@ -1,19 +1,19 @@
 ---
-arabic_ayat: وَالَّذِىۡۤ اَوۡحَيۡنَاۤ اِلَيۡكَ مِنَ الۡكِتٰبِ هُوَ الۡحَـقُّ مُصَدِّقًا
-  لِّمَا بَيۡنَ يَدَيۡهِؕ اِنَّ اللّٰهَ بِعِبَادِهٖ لَخَبِيۡرٌۢ بَصِيۡرٌ‏
+arabic_ayat: وَٱلَّذِيٓ أَوۡحَيۡنَآ إِلَيۡكَ مِنَ ٱلۡكِتَٰبِ هُوَ ٱلۡحَقُّ مُصَدِّقٗا
+  لِّمَا بَيۡنَ يَدَيۡهِۗ إِنَّ ٱللَّهَ بِعِبَادِهِۦ لَخَبِيرُۢ بَصِيرٞ
 sentence_translation: The Book We have revealed to you ˹O Prophet˺ is the truth, confirming
   what came before it. Surely Allah is All-Aware, All-Seeing of His servants.
 word_by_word:
   1:
-    arabic: وَالَّذِىۡۤ
+    arabic: وَٱلَّذِيٓ
     translation: And (that) which
     transliteration: wa-alladhī
   2:
-    arabic: اَوۡحَيۡنَاۤ
+    arabic: أَوۡحَيۡنَآ
     translation: We have revealed
     transliteration: awḥaynā
   3:
-    arabic: اِلَيۡكَ
+    arabic: إِلَيۡكَ
     translation: to you
     transliteration: ilayka
   4:
@@ -21,7 +21,7 @@ word_by_word:
     translation: of
     transliteration: mina
   5:
-    arabic: الۡكِتٰبِ
+    arabic: ٱلۡكِتَٰبِ
     translation: the Book
     transliteration: l-kitābi
   6:
@@ -29,11 +29,11 @@ word_by_word:
     translation: it
     transliteration: huwa
   7:
-    arabic: الۡحَـقُّ
+    arabic: ٱلۡحَقُّ
     translation: (is) the truth
     transliteration: l-ḥaqu
   8:
-    arabic: مُصَدِّقًا
+    arabic: مُصَدِّقٗا
     translation: confirming
     transliteration: muṣaddiqan
   9:
@@ -45,27 +45,27 @@ word_by_word:
     translation: before it
     transliteration: bayna
   11:
-    arabic: يَدَيۡهِؕ
+    arabic: يَدَيۡهِۗ
     translation: before it
     transliteration: yadayhi
   12:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   13:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   14:
-    arabic: بِعِبَادِهٖ
+    arabic: بِعِبَادِهِۦ
     translation: of His slaves
     transliteration: biʿibādihi
   15:
-    arabic: لَخَبِيۡرٌۢ
+    arabic: لَخَبِيرُۢ
     translation: surely, (is) All-Aware
     transliteration: lakhabīrun
   16:
-    arabic: بَصِيۡرٌ‏
+    arabic: بَصِيرٞ
     translation: All-Seer
     transliteration: baṣīrun
 ---

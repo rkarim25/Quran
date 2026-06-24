@@ -1,32 +1,32 @@
 ---
-arabic_ayat: اِلَّا الَّذِيۡنَ يَصِلُوۡنَ اِلٰى قَوۡمٍۢ بَيۡنَكُمۡ وَبَيۡنَهُمۡ مِّيۡثَاقٌ
-  اَوۡ جَآءُوۡكُمۡ حَصِرَتۡ صُدُوۡرُهُمۡ اَنۡ يُّقَاتِلُوۡكُمۡ اَوۡ يُقَاتِلُوۡا
-  قَوۡمَهُمۡ​ ؕ وَلَوۡ شَآءَ اللّٰهُ لَسَلَّطَهُمۡ عَلَيۡكُمۡ فَلَقٰتَلُوۡكُمۡ​​
-  ۚ فَاِنِ اعۡتَزَلُوۡكُمۡ فَلَمۡ يُقَاتِلُوۡكُمۡ وَاَلۡقَوۡا اِلَيۡكُمُ السَّلَمَ
-  ۙ فَمَا جَعَلَ اللّٰهُ لَـكُمۡ عَلَيۡهِمۡ سَبِيۡلًا‏
+arabic_ayat: إِلَّا ٱلَّذِينَ يَصِلُونَ إِلَىٰ قَوۡمِۭ بَيۡنَكُمۡ وَبَيۡنَهُم مِّيثَٰقٌ
+  أَوۡ جَآءُوكُمۡ حَصِرَتۡ صُدُورُهُمۡ أَن يُقَٰتِلُوكُمۡ أَوۡ يُقَٰتِلُواْ قَوۡمَهُمۡۚ
+  وَلَوۡ شَآءَ ٱللَّهُ لَسَلَّطَهُمۡ عَلَيۡكُمۡ فَلَقَٰتَلُوكُمۡۚ فَإِنِ ٱعۡتَزَلُوكُمۡ
+  فَلَمۡ يُقَٰتِلُوكُمۡ وَأَلۡقَوۡاْ إِلَيۡكُمُ ٱلسَّلَمَ فَمَا جَعَلَ ٱللَّهُ لَكُمۡ
+  عَلَيۡهِمۡ سَبِيلٗا
 sentence_translation: except those who are allies of a people you are bound with in
   a treaty or those wholeheartedly opposed to fighting either you or their own people.
   If Allah had willed, He would have empowered them to fight you. So if they refrain
   from fighting you and offer you peace, then Allah does not permit you to harm them.
 word_by_word:
   1:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: Except
     transliteration: illā
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   3:
-    arabic: يَصِلُوۡنَ
+    arabic: يَصِلُونَ
     translation: join
     transliteration: yaṣilūna
   4:
-    arabic: اِلٰى
+    arabic: إِلَىٰ
     translation: '[to]'
     transliteration: ilā
   5:
-    arabic: قَوۡمٍۢ
+    arabic: قَوۡمِۭ
     translation: a group
     transliteration: qawmin
   6:
@@ -34,19 +34,19 @@ word_by_word:
     translation: between you
     transliteration: baynakum
   7:
-    arabic: وَبَيۡنَهُمۡ
+    arabic: وَبَيۡنَهُم
     translation: and between them
     transliteration: wabaynahum
   8:
-    arabic: مِّيۡثَاقٌ
+    arabic: مِّيثَٰقٌ
     translation: (is) a treaty
     transliteration: mīthāqun
   9:
-    arabic: اَوۡ
+    arabic: أَوۡ
     translation: or
     transliteration: aw
   10:
-    arabic: جَآءُوۡكُمۡ
+    arabic: جَآءُوكُمۡ
     translation: those who come to you
     transliteration: jāūkum
   11:
@@ -54,27 +54,27 @@ word_by_word:
     translation: restraining
     transliteration: ḥaṣirat
   12:
-    arabic: صُدُوۡرُهُمۡ
+    arabic: صُدُورُهُمۡ
     translation: their hearts
     transliteration: ṣudūruhum
   13:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that
     transliteration: an
   14:
-    arabic: يُّقَاتِلُوۡكُمۡ
+    arabic: يُقَٰتِلُوكُمۡ
     translation: they fight you
     transliteration: yuqātilūkum
   15:
-    arabic: اَوۡ
+    arabic: أَوۡ
     translation: or
     transliteration: aw
   16:
-    arabic: يُقَاتِلُوۡا
+    arabic: يُقَٰتِلُواْ
     translation: they fight
     transliteration: yuqātilū
   17:
-    arabic: قَوۡمَهُمۡ​ ؕ
+    arabic: قَوۡمَهُمۡۚ
     translation: their people
     transliteration: qawmahum
   18:
@@ -86,7 +86,7 @@ word_by_word:
     translation: (had) willed
     transliteration: shāa
   20:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   21:
@@ -98,15 +98,15 @@ word_by_word:
     translation: over you
     transliteration: ʿalaykum
   23:
-    arabic: فَلَقٰتَلُوۡكُمۡ​​ ۚ
+    arabic: فَلَقَٰتَلُوكُمۡۚ
     translation: and surely they (would have) fought you
     transliteration: falaqātalūkum
   24:
-    arabic: فَاِنِ
+    arabic: فَإِنِ
     translation: So if
     transliteration: fa-ini
   25:
-    arabic: اعۡتَزَلُوۡكُمۡ
+    arabic: ٱعۡتَزَلُوكُمۡ
     translation: they withdraw from you
     transliteration: iʿ'tazalūkum
   26:
@@ -114,19 +114,19 @@ word_by_word:
     translation: and (do) not
     transliteration: falam
   27:
-    arabic: يُقَاتِلُوۡكُمۡ
+    arabic: يُقَٰتِلُوكُمۡ
     translation: fight against you
     transliteration: yuqātilūkum
   28:
-    arabic: وَاَلۡقَوۡا
+    arabic: وَأَلۡقَوۡاْ
     translation: and offer
     transliteration: wa-alqaw
   29:
-    arabic: اِلَيۡكُمُ
+    arabic: إِلَيۡكُمُ
     translation: to you
     transliteration: ilaykumu
   30:
-    arabic: السَّلَمَ ۙ
+    arabic: ٱلسَّلَمَ
     translation: '[the] peace'
     transliteration: l-salama
   31:
@@ -138,11 +138,11 @@ word_by_word:
     translation: (has) made
     transliteration: jaʿala
   33:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   34:
-    arabic: لَـكُمۡ
+    arabic: لَكُمۡ
     translation: for you
     transliteration: lakum
   35:
@@ -150,7 +150,7 @@ word_by_word:
     translation: against them
     transliteration: ʿalayhim
   36:
-    arabic: سَبِيۡلًا‏
+    arabic: سَبِيلٗا
     translation: a way
     transliteration: sabīlan
 ---

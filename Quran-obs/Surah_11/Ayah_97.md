@@ -1,11 +1,11 @@
 ---
-arabic_ayat: اِلٰى فِرۡعَوۡنَ وَمَلَا۟ ٮِٕهٖ فَاتَّبَعُوۡۤا اَمۡرَ فِرۡعَوۡنَ​ۚ وَمَاۤ
-  اَمۡرُ فِرۡعَوۡنَ بِرَشِيۡدٍ‏
+arabic_ayat: إِلَىٰ فِرۡعَوۡنَ وَمَلَإِيْهِۦ فَٱتَّبَعُوٓاْ أَمۡرَ فِرۡعَوۡنَۖ وَمَآ
+  أَمۡرُ فِرۡعَوۡنَ بِرَشِيدٖ
 sentence_translation: to Pharaoh and his chiefs, but they followed the command of
   Pharaoh, and Pharaoh’s command was not well guided.
 word_by_word:
   1:
-    arabic: اِلٰى
+    arabic: إِلَىٰ
     translation: To
     transliteration: ilā
   2:
@@ -13,27 +13,27 @@ word_by_word:
     translation: Firaun
     transliteration: fir'ʿawna
   3:
-    arabic: وَمَلَا۟ ٮِٕهٖ
+    arabic: وَمَلَإِيْهِۦ
     translation: and his chiefs
     transliteration: wamala-ihi
   4:
-    arabic: فَاتَّبَعُوۡۤا
+    arabic: فَٱتَّبَعُوٓاْ
     translation: but they followed
     transliteration: fa-ittabaʿū
   5:
-    arabic: اَمۡرَ
+    arabic: أَمۡرَ
     translation: (the) command of Firaun
     transliteration: amra
   6:
-    arabic: فِرۡعَوۡنَ​ۚ
+    arabic: فِرۡعَوۡنَۖ
     translation: (the) command of Firaun
     transliteration: fir'ʿawna
   7:
-    arabic: وَمَاۤ
+    arabic: وَمَآ
     translation: and not
     transliteration: wamā
   8:
-    arabic: اَمۡرُ
+    arabic: أَمۡرُ
     translation: (the) command of Firaun
     transliteration: amru
   9:
@@ -41,7 +41,7 @@ word_by_word:
     translation: (the) command of Firaun
     transliteration: fir'ʿawna
   10:
-    arabic: بِرَشِيۡدٍ‏
+    arabic: بِرَشِيدٖ
     translation: was right
     transliteration: birashīdin
 ---

@@ -1,17 +1,17 @@
 ---
-arabic_ayat: وَاَنۡفِقُوۡا مِنۡ مَّا رَزَقۡنٰكُمۡ مِّنۡ قَبۡلِ اَنۡ يَّاۡتِىَ اَحَدَكُمُ
-  الۡمَوۡتُ فَيَقُوۡلَ رَبِّ لَوۡلَاۤ اَخَّرۡتَنِىۡۤ اِلٰٓى اَجَلٍ قَرِيۡبٍۙ فَاَصَّدَّقَ
-  وَاَكُنۡ مِّنَ الصّٰلِحِيۡنَ‏
+arabic_ayat: وَأَنفِقُواْ مِن مَّا رَزَقۡنَٰكُم مِّن قَبۡلِ أَن يَأۡتِيَ أَحَدَكُمُ
+  ٱلۡمَوۡتُ فَيَقُولَ رَبِّ لَوۡلَآ أَخَّرۡتَنِيٓ إِلَىٰٓ أَجَلٖ قَرِيبٖ فَأَصَّدَّقَ
+  وَأَكُن مِّنَ ٱلصَّٰلِحِينَ
 sentence_translation: And donate from what We have provided for you before death comes
   to one of you, and you cry, “My Lord! If only You delayed me for a short while,
   I would give in charity and be one of the righteous.”
 word_by_word:
   1:
-    arabic: وَاَنۡفِقُوۡا
+    arabic: وَأَنفِقُواْ
     translation: And spend
     transliteration: wa-anfiqū
   2:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   3:
@@ -19,11 +19,11 @@ word_by_word:
     translation: what
     transliteration: mā
   4:
-    arabic: رَزَقۡنٰكُمۡ
+    arabic: رَزَقۡنَٰكُم
     translation: We have provided you
     transliteration: razaqnākum
   5:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: from
     transliteration: min
   6:
@@ -31,23 +31,23 @@ word_by_word:
     translation: before
     transliteration: qabli
   7:
-    arabic: اَنۡ
+    arabic: أَن
     translation: '[that]'
     transliteration: an
   8:
-    arabic: يَّاۡتِىَ
+    arabic: يَأۡتِيَ
     translation: comes
     transliteration: yatiya
   9:
-    arabic: اَحَدَكُمُ
+    arabic: أَحَدَكُمُ
     translation: (to) one of you
     transliteration: aḥadakumu
   10:
-    arabic: الۡمَوۡتُ
+    arabic: ٱلۡمَوۡتُ
     translation: the death
     transliteration: l-mawtu
   11:
-    arabic: فَيَقُوۡلَ
+    arabic: فَيَقُولَ
     translation: and he says
     transliteration: fayaqūla
   12:
@@ -55,31 +55,31 @@ word_by_word:
     translation: My Lord
     transliteration: rabbi
   13:
-    arabic: لَوۡلَاۤ
+    arabic: لَوۡلَآ
     translation: Why not
     transliteration: lawlā
   14:
-    arabic: اَخَّرۡتَنِىۡۤ
+    arabic: أَخَّرۡتَنِيٓ
     translation: You delay me
     transliteration: akhartanī
   15:
-    arabic: اِلٰٓى
+    arabic: إِلَىٰٓ
     translation: for
     transliteration: ilā
   16:
-    arabic: اَجَلٍ
+    arabic: أَجَلٖ
     translation: a term
     transliteration: ajalin
   17:
-    arabic: قَرِيۡبٍۙ
+    arabic: قَرِيبٖ
     translation: near
     transliteration: qarībin
   18:
-    arabic: فَاَصَّدَّقَ
+    arabic: فَأَصَّدَّقَ
     translation: so I would give charity
     transliteration: fa-aṣṣaddaqa
   19:
-    arabic: وَاَكُنۡ
+    arabic: وَأَكُن
     translation: and be
     transliteration: wa-akun
   20:
@@ -87,7 +87,7 @@ word_by_word:
     translation: among
     transliteration: mina
   21:
-    arabic: الصّٰلِحِيۡنَ‏
+    arabic: ٱلصَّٰلِحِينَ
     translation: the righteous
     transliteration: l-ṣāliḥīna
 ---

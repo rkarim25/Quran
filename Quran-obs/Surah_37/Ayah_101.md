@@ -1,17 +1,17 @@
 ---
-arabic_ayat: فَبَشَّرۡنٰهُ بِغُلٰمٍ حَلِيۡمٍ‏
+arabic_ayat: فَبَشَّرۡنَٰهُ بِغُلَٰمٍ حَلِيمٖ
 sentence_translation: So We gave him good news of a forbearing son.
 word_by_word:
   1:
-    arabic: فَبَشَّرۡنٰهُ
+    arabic: فَبَشَّرۡنَٰهُ
     translation: So We gave him the glad tidings
     transliteration: fabasharnāhu
   2:
-    arabic: بِغُلٰمٍ
+    arabic: بِغُلَٰمٍ
     translation: of a boy
     transliteration: bighulāmin
   3:
-    arabic: حَلِيۡمٍ‏
+    arabic: حَلِيمٖ
     translation: forbearing
     transliteration: ḥalīmin
 ---

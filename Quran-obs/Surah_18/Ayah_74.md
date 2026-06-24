@@ -1,20 +1,20 @@
 ---
-arabic_ayat: فَانْطَلَقَاحَتّٰۤى اِذَا لَقِيَا غُلٰمًا فَقَتَلَهٗ ۙ قَالَ اَقَتَلۡتَ
-  نَـفۡسًا زَكِيَّةً ۢ بِغَيۡرِ نَـفۡسٍ ؕ لَـقَدۡ جِئۡتَ شَيۡــًٔـا نُّـكۡرًا‏
+arabic_ayat: فَٱنطَلَقَا حَتَّىٰٓ إِذَا لَقِيَا غُلَٰمٗا فَقَتَلَهُۥ قَالَ أَقَتَلۡتَ
+  نَفۡسٗا زَكِيَّةَۢ بِغَيۡرِ نَفۡسٖ لَّقَدۡ جِئۡتَ شَيۡـٔٗا نُّكۡرٗا
 sentence_translation: So they proceeded until they came across a boy, and the man
   killed him. Moses protested, “Have you killed an innocent soul, who killed no one?
   You have certainly done a horrible thing.”
 word_by_word:
   1:
-    arabic: فَانْطَلَقَا
+    arabic: فَٱنطَلَقَا
     translation: Then they both set out
     transliteration: fa-inṭalaqā
   2:
-    arabic: حَتّٰۤى
+    arabic: حَتَّىٰٓ
     translation: until
     transliteration: ḥattā
   3:
-    arabic: اِذَا
+    arabic: إِذَا
     translation: when
     transliteration: idhā
   4:
@@ -22,11 +22,11 @@ word_by_word:
     translation: they met
     transliteration: laqiyā
   5:
-    arabic: غُلٰمًا
+    arabic: غُلَٰمٗا
     translation: a boy
     transliteration: ghulāman
   6:
-    arabic: فَقَتَلَهٗ ۙ
+    arabic: فَقَتَلَهُۥ
     translation: then he killed him
     transliteration: faqatalahu
   7:
@@ -34,15 +34,15 @@ word_by_word:
     translation: He said
     transliteration: qāla
   8:
-    arabic: اَقَتَلۡتَ
+    arabic: أَقَتَلۡتَ
     translation: Have you killed
     transliteration: aqatalta
   9:
-    arabic: نَـفۡسًا
+    arabic: نَفۡسٗا
     translation: a soul
     transliteration: nafsan
   10:
-    arabic: زَكِيَّةً ۢ
+    arabic: زَكِيَّةَۢ
     translation: pure
     transliteration: zakiyyatan
   11:
@@ -50,11 +50,11 @@ word_by_word:
     translation: for other than
     transliteration: bighayri
   12:
-    arabic: نَـفۡسٍ ؕ
+    arabic: نَفۡسٖ
     translation: a soul
     transliteration: nafsin
   13:
-    arabic: لَـقَدۡ
+    arabic: لَّقَدۡ
     translation: Certainly
     transliteration: laqad
   14:
@@ -62,11 +62,11 @@ word_by_word:
     translation: you have done
     transliteration: ji'ta
   15:
-    arabic: شَيۡــًٔـا
+    arabic: شَيۡـٔٗا
     translation: a thing
     transliteration: shayan
   16:
-    arabic: نُّـكۡرًا‏
+    arabic: نُّكۡرٗا
     translation: evil
     transliteration: nuk'ran
 ---

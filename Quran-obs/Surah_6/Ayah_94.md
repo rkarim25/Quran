@@ -1,8 +1,8 @@
 ---
-arabic_ayat: وَلَقَدۡ جِئۡتُمُوۡنَا فُرَادٰى كَمَا خَلَقۡنٰكُمۡ اَوَّلَ مَرَّةٍ وَّتَرَكۡتُمۡ
-  مَّا خَوَّلۡنٰكُمۡ وَرَآءَ ظُهُوۡرِكُمۡ​ۚ وَمَا نَرٰى مَعَكُمۡ شُفَعَآءَكُمُ الَّذِيۡنَ
-  زَعَمۡتُمۡ اَنَّهُمۡ فِيۡكُمۡ شُرَكٰٓؤُا​ ؕ لَقَدْ تَّقَطَّعَ بَيۡنَكُمۡ وَضَلَّ
-  عَنۡكُمۡ مَّا كُنۡتُمۡ تَزۡعُمُوۡنَ‏
+arabic_ayat: وَلَقَدۡ جِئۡتُمُونَا فُرَٰدَىٰ كَمَا خَلَقۡنَٰكُمۡ أَوَّلَ مَرَّةٖ وَتَرَكۡتُم
+  مَّا خَوَّلۡنَٰكُمۡ وَرَآءَ ظُهُورِكُمۡۖ وَمَا نَرَىٰ مَعَكُمۡ شُفَعَآءَكُمُ ٱلَّذِينَ
+  زَعَمۡتُمۡ أَنَّهُمۡ فِيكُمۡ شُرَكَٰٓؤُاْۚ لَقَد تَّقَطَّعَ بَيۡنَكُمۡ وَضَلَّ عَنكُم
+  مَّا كُنتُمۡ تَزۡعُمُونَ
 sentence_translation: ˹Today˺ you have come back to Us all alone as We created you
   the first time—leaving behind everything We have provided you with. We do not see
   your intercessors with you—those you claimed were Allah’s partners ˹in worship˺.
@@ -13,11 +13,11 @@ word_by_word:
     translation: And certainly
     transliteration: walaqad
   2:
-    arabic: جِئۡتُمُوۡنَا
+    arabic: جِئۡتُمُونَا
     translation: you have come to Us
     transliteration: ji'tumūnā
   3:
-    arabic: فُرَادٰى
+    arabic: فُرَٰدَىٰ
     translation: alone
     transliteration: furādā
   4:
@@ -25,19 +25,19 @@ word_by_word:
     translation: as
     transliteration: kamā
   5:
-    arabic: خَلَقۡنٰكُمۡ
+    arabic: خَلَقۡنَٰكُمۡ
     translation: We created you
     transliteration: khalaqnākum
   6:
-    arabic: اَوَّلَ
+    arabic: أَوَّلَ
     translation: (the) first
     transliteration: awwala
   7:
-    arabic: مَرَّةٍ
+    arabic: مَرَّةٖ
     translation: time
     transliteration: marratin
   8:
-    arabic: وَّتَرَكۡتُمۡ
+    arabic: وَتَرَكۡتُم
     translation: and you have left
     transliteration: wataraktum
   9:
@@ -45,7 +45,7 @@ word_by_word:
     translation: whatever
     transliteration: mā
   10:
-    arabic: خَوَّلۡنٰكُمۡ
+    arabic: خَوَّلۡنَٰكُمۡ
     translation: We bestowed (on) you
     transliteration: khawwalnākum
   11:
@@ -53,7 +53,7 @@ word_by_word:
     translation: behind
     transliteration: warāa
   12:
-    arabic: ظُهُوۡرِكُمۡ​ۚ
+    arabic: ظُهُورِكُمۡۖ
     translation: your backs
     transliteration: ẓuhūrikum
   13:
@@ -61,7 +61,7 @@ word_by_word:
     translation: And not
     transliteration: wamā
   14:
-    arabic: نَرٰى
+    arabic: نَرَىٰ
     translation: We see
     transliteration: narā
   15:
@@ -73,7 +73,7 @@ word_by_word:
     translation: your intercessors
     transliteration: shufaʿāakumu
   17:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those whom
     transliteration: alladhīna
   18:
@@ -81,19 +81,19 @@ word_by_word:
     translation: you claimed
     transliteration: zaʿamtum
   19:
-    arabic: اَنَّهُمۡ
+    arabic: أَنَّهُمۡ
     translation: that they (were)
     transliteration: annahum
   20:
-    arabic: فِيۡكُمۡ
+    arabic: فِيكُمۡ
     translation: in your (matters)
     transliteration: fīkum
   21:
-    arabic: شُرَكٰٓؤُا​ ؕ
+    arabic: شُرَكَٰٓؤُاْۚ
     translation: partners (with Allah)
     transliteration: shurakāu
   22:
-    arabic: لَقَدْ
+    arabic: لَقَد
     translation: Indeed
     transliteration: laqad
   23:
@@ -109,7 +109,7 @@ word_by_word:
     translation: and is lost
     transliteration: waḍalla
   26:
-    arabic: عَنۡكُمۡ
+    arabic: عَنكُم
     translation: from you
     transliteration: ʿankum
   27:
@@ -117,11 +117,11 @@ word_by_word:
     translation: what
     transliteration: mā
   28:
-    arabic: كُنۡتُمۡ
+    arabic: كُنتُمۡ
     translation: you used to
     transliteration: kuntum
   29:
-    arabic: تَزۡعُمُوۡنَ‏
+    arabic: تَزۡعُمُونَ
     translation: claim
     transliteration: tazʿumūna
 ---

@@ -1,7 +1,7 @@
 ---
-arabic_ayat: هُمُ الَّذِيۡنَ يَقُوۡلُوۡنَ لَا تُنۡفِقُوۡا عَلٰى مَنۡ عِنۡدَ رَسُوۡلِ
-  اللّٰهِ حَتّٰى يَنۡفَضُّوۡا​ؕ وَلِلّٰهِ خَزَآٮِٕنُ السَّمٰوٰتِ وَالۡاَرۡضِ وَلٰـكِنَّ
-  الۡمُنٰفِقِيۡنَ لَا يَفۡقَهُوۡنَ‏
+arabic_ayat: هُمُ ٱلَّذِينَ يَقُولُونَ لَا تُنفِقُواْ عَلَىٰ مَنۡ عِندَ رَسُولِ ٱللَّهِ
+  حَتَّىٰ يَنفَضُّواْۗ وَلِلَّهِ خَزَآئِنُ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِ وَلَٰكِنَّ ٱلۡمُنَٰفِقِينَ
+  لَا يَفۡقَهُونَ
 sentence_translation: They are the ones who say ˹to one another˺, “Do not spend ˹anything˺
   on those ˹emigrants˺ with the Messenger of Allah so that they will break away ˹from
   him˺.” But to Allah ˹alone˺ belong the treasuries of the heavens and the earth,
@@ -12,11 +12,11 @@ word_by_word:
     translation: They
     transliteration: humu
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: (are) those who
     transliteration: alladhīna
   3:
-    arabic: يَقُوۡلُوۡنَ
+    arabic: يَقُولُونَ
     translation: say
     transliteration: yaqūlūna
   4:
@@ -24,11 +24,11 @@ word_by_word:
     translation: (Do) not
     transliteration: lā
   5:
-    arabic: تُنۡفِقُوۡا
+    arabic: تُنفِقُواْ
     translation: spend
     transliteration: tunfiqū
   6:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: 'on'
     transliteration: ʿalā
   7:
@@ -36,47 +36,47 @@ word_by_word:
     translation: (those) who
     transliteration: man
   8:
-    arabic: عِنۡدَ
+    arabic: عِندَ
     translation: (are) with
     transliteration: ʿinda
   9:
-    arabic: رَسُوۡلِ
+    arabic: رَسُولِ
     translation: (the) Messenger
     transliteration: rasūli
   10:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (of) Allah
     transliteration: l-lahi
   11:
-    arabic: حَتّٰى
+    arabic: حَتَّىٰ
     translation: until
     transliteration: ḥattā
   12:
-    arabic: يَنۡفَضُّوۡا​ؕ
+    arabic: يَنفَضُّواْۗ
     translation: they disband
     transliteration: yanfaḍḍū
   13:
-    arabic: وَلِلّٰهِ
+    arabic: وَلِلَّهِ
     translation: And for Allah
     transliteration: walillahi
   14:
-    arabic: خَزَآٮِٕنُ
+    arabic: خَزَآئِنُ
     translation: (are the) treasures
     transliteration: khazāinu
   15:
-    arabic: السَّمٰوٰتِ
+    arabic: ٱلسَّمَٰوَٰتِ
     translation: (of) the heavens
     transliteration: l-samāwāti
   16:
-    arabic: وَالۡاَرۡضِ
+    arabic: وَٱلۡأَرۡضِ
     translation: and the earth
     transliteration: wal-arḍi
   17:
-    arabic: وَلٰـكِنَّ
+    arabic: وَلَٰكِنَّ
     translation: but
     transliteration: walākinna
   18:
-    arabic: الۡمُنٰفِقِيۡنَ
+    arabic: ٱلۡمُنَٰفِقِينَ
     translation: the hypocrites
     transliteration: l-munāfiqīna
   19:
@@ -84,7 +84,7 @@ word_by_word:
     translation: (do) not
     transliteration: lā
   20:
-    arabic: يَفۡقَهُوۡنَ‏
+    arabic: يَفۡقَهُونَ
     translation: understand
     transliteration: yafqahūna
 ---

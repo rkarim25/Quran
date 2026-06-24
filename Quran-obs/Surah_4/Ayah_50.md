@@ -1,11 +1,11 @@
 ---
-arabic_ayat: اُنْظُرۡ كَيۡفَ يَفۡتَرُوۡنَ عَلَى اللّٰهِ الۡـكَذِبَ​ؕ وَكَفٰى بِهٖۤ
-  اِثۡمًا مُّبِيۡنًا‏
+arabic_ayat: ٱنظُرۡ كَيۡفَ يَفۡتَرُونَ عَلَى ٱللَّهِ ٱلۡكَذِبَۖ وَكَفَىٰ بِهِۦٓ إِثۡمٗا
+  مُّبِينًا
 sentence_translation: See how they fabricate lies against Allah—this alone is a blatant
   sin.
 word_by_word:
   1:
-    arabic: اُنْظُرۡ
+    arabic: ٱنظُرۡ
     translation: See
     transliteration: unẓur
   2:
@@ -13,7 +13,7 @@ word_by_word:
     translation: how
     transliteration: kayfa
   3:
-    arabic: يَفۡتَرُوۡنَ
+    arabic: يَفۡتَرُونَ
     translation: they invent
     transliteration: yaftarūna
   4:
@@ -21,27 +21,27 @@ word_by_word:
     translation: about
     transliteration: ʿalā
   5:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   6:
-    arabic: الۡـكَذِبَ​ؕ
+    arabic: ٱلۡكَذِبَۖ
     translation: '[the] lie'
     transliteration: l-kadhiba
   7:
-    arabic: وَكَفٰى
+    arabic: وَكَفَىٰ
     translation: and sufficient
     transliteration: wakafā
   8:
-    arabic: بِهٖۤ
+    arabic: بِهِۦٓ
     translation: 'is it '
     transliteration: bihi
   9:
-    arabic: اِثۡمًا
+    arabic: إِثۡمٗا
     translation: (as) a sin
     transliteration: ith'man
   10:
-    arabic: مُّبِيۡنًا‏
+    arabic: مُّبِينًا
     translation: manifest
     transliteration: mubīnan
 ---

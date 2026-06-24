@@ -1,23 +1,23 @@
 ---
-arabic_ayat: وَالَّذِيۡنَ اِذَا ذُكِّرُوۡا بِاٰيٰتِ رَبِّهِمۡ لَمۡ يَخِرُّوۡا عَلَيۡهَا
-  صُمًّا وَّعُمۡيَانًا‏
+arabic_ayat: وَٱلَّذِينَ إِذَا ذُكِّرُواْ بِـَٔايَٰتِ رَبِّهِمۡ لَمۡ يَخِرُّواْ عَلَيۡهَا
+  صُمّٗا وَعُمۡيَانٗا
 sentence_translation: ˹They are˺ those who, when reminded of the revelation of their
   Lord, do not turn a blind eye or a deaf ear to it.
 word_by_word:
   1:
-    arabic: وَالَّذِيۡنَ
+    arabic: وَٱلَّذِينَ
     translation: And those who
     transliteration: wa-alladhīna
   2:
-    arabic: اِذَا
+    arabic: إِذَا
     translation: when
     transliteration: idhā
   3:
-    arabic: ذُكِّرُوۡا
+    arabic: ذُكِّرُواْ
     translation: they are reminded
     transliteration: dhukkirū
   4:
-    arabic: بِاٰيٰتِ
+    arabic: بِـَٔايَٰتِ
     translation: of (the) Verses
     transliteration: biāyāti
   5:
@@ -29,7 +29,7 @@ word_by_word:
     translation: (do) not
     transliteration: lam
   7:
-    arabic: يَخِرُّوۡا
+    arabic: يَخِرُّواْ
     translation: fall
     transliteration: yakhirrū
   8:
@@ -37,11 +37,11 @@ word_by_word:
     translation: upon them
     transliteration: ʿalayhā
   9:
-    arabic: صُمًّا
+    arabic: صُمّٗا
     translation: deaf
     transliteration: ṣumman
   10:
-    arabic: وَّعُمۡيَانًا‏
+    arabic: وَعُمۡيَانٗا
     translation: and blind
     transliteration: waʿum'yānan
 ---

@@ -1,20 +1,20 @@
 ---
-arabic_ayat: وَلَقَدۡ اٰتَيۡنَا دَاوٗدَ مِنَّا فَضۡلًا ؕ يٰجِبَالُ اَوِّبِىۡ مَعَهٗ
-  وَالطَّيۡرَ ۚ وَاَلَــنَّا لَـهُ الۡحَدِيۡدَ ۙ‏
+arabic_ayat: ۞ وَلَقَدۡ ءَاتَيۡنَا دَاوُۥدَ مِنَّا فَضۡلٗاۖ يَٰجِبَالُ أَوِّبِي مَعَهُۥ
+  وَٱلطَّيۡرَۖ وَأَلَنَّا لَهُ ٱلۡحَدِيدَ
 sentence_translation: Indeed, We granted David a ˹great˺ privilege from Us, ˹commanding:˺
   “O mountains! Echo his hymns! And the birds as well.” We made iron mouldable for
   him,
 word_by_word:
   1:
-    arabic: ۞ وَلَقَدۡ
+    arabic: ۞ وَلَقَدۡ ءَ
     translation: And certainly
     transliteration: walaqad
   2:
-    arabic: اٰتَيۡنَا
+    arabic: اتَيۡنَا
     translation: We gave
     transliteration: ātaynā
   3:
-    arabic: دَاوٗدَ
+    arabic: دَاوُۥدَ
     translation: Dawood
     transliteration: dāwūda
   4:
@@ -22,35 +22,35 @@ word_by_word:
     translation: from Us
     transliteration: minnā
   5:
-    arabic: فَضۡلًا ؕ
+    arabic: فَضۡلٗاۖ
     translation: Bounty
     transliteration: faḍlan
   6:
-    arabic: يٰجِبَالُ
+    arabic: يَٰجِبَالُ
     translation: O mountains
     transliteration: yājibālu
   7:
-    arabic: اَوِّبِىۡ
+    arabic: أَوِّبِي
     translation: Repeat praises
     transliteration: awwibī
   8:
-    arabic: مَعَهٗ
+    arabic: مَعَهُۥ
     translation: with him
     transliteration: maʿahu
   9:
-    arabic: وَالطَّيۡرَ ۚ
+    arabic: وَٱلطَّيۡرَۖ
     translation: and the birds
     transliteration: wal-ṭayra
   10:
-    arabic: وَاَلَــنَّا
+    arabic: وَأَلَنَّا
     translation: And We made pliable
     transliteration: wa-alannā
   11:
-    arabic: لَـهُ
+    arabic: لَهُ
     translation: for him
     transliteration: lahu
   12:
-    arabic: الۡحَدِيۡدَ ۙ‏
+    arabic: ٱلۡحَدِيدَ
     translation: '[the] iron'
     transliteration: l-ḥadīda
 ---

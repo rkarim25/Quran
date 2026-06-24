@@ -1,6 +1,5 @@
 ---
-arabic_ayat: "وَنَبِّئۡهُمۡ اَنَّ الۡمَآءَ قِسۡمَةٌ ۢ بَيۡنَهُمۡ​ۚ كُلُّ شِرۡبٍ مُّحۡتَضَرٌ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: وَنَبِّئۡهُمۡ أَنَّ ٱلۡمَآءَ قِسۡمَةُۢ بَيۡنَهُمۡۖ كُلُّ شِرۡبٖ مُّحۡتَضَرٞ
 sentence_translation: And tell them that the ˹drinking˺ water must be divided between
   them ˹and her˺, each taking a turn to drink ˹every other day˺.”
 word_by_word:
@@ -9,19 +8,19 @@ word_by_word:
     translation: And inform them
     transliteration: wanabbi'hum
   2:
-    arabic: اَنَّ
+    arabic: أَنَّ
     translation: that
     transliteration: anna
   3:
-    arabic: الۡمَآءَ
+    arabic: ٱلۡمَآءَ
     translation: the water
     transliteration: l-māa
   4:
-    arabic: قِسۡمَةٌ ۢ
+    arabic: قِسۡمَةُۢ
     translation: (is) to be shared
     transliteration: qis'matun
   5:
-    arabic: بَيۡنَهُمۡ​ۚ
+    arabic: بَيۡنَهُمۡۖ
     translation: between them
     transliteration: baynahum
   6:
@@ -29,11 +28,11 @@ word_by_word:
     translation: each
     transliteration: kullu
   7:
-    arabic: شِرۡبٍ
+    arabic: شِرۡبٖ
     translation: drink
     transliteration: shir'bin
   8:
-    arabic: "مُّحۡتَضَرٌ‏ \uFEFF\uFEFF"
+    arabic: مُّحۡتَضَرٞ
     translation: attended
     transliteration: muḥ'taḍarun
 ---

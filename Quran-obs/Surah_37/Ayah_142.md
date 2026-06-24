@@ -1,13 +1,13 @@
 ---
-arabic_ayat: فَالۡتَقَمَهُ الۡحُوۡتُ وَهُوَ مُلِيۡمٌ‏
+arabic_ayat: فَٱلۡتَقَمَهُ ٱلۡحُوتُ وَهُوَ مُلِيمٞ
 sentence_translation: Then the whale engulfed him while he was blameworthy.
 word_by_word:
   1:
-    arabic: فَالۡتَقَمَهُ
+    arabic: فَٱلۡتَقَمَهُ
     translation: Then swallowed him
     transliteration: fal-taqamahu
   2:
-    arabic: الۡحُوۡتُ
+    arabic: ٱلۡحُوتُ
     translation: the fish
     transliteration: l-ḥūtu
   3:
@@ -15,7 +15,7 @@ word_by_word:
     translation: while he
     transliteration: wahuwa
   4:
-    arabic: مُلِيۡمٌ‏
+    arabic: مُلِيمٞ
     translation: (was) blameworthy
     transliteration: mulīmun
 ---

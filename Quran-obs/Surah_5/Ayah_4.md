@@ -1,8 +1,8 @@
 ---
-arabic_ayat: يَسۡـَٔـــلُوۡنَكَ مَاذَاۤ اُحِلَّ لَهُمۡ​ؕ قُلۡ اُحِلَّ لَـكُمُ الطَّيِّبٰتُ​
-  ۙ وَمَا عَلَّمۡتُمۡ مِّنَ الۡجَـوَارِحِ مُكَلِّبِيۡنَ تُعَلِّمُوۡنَهُنَّ مِمَّا
-  عَلَّمَكُمُ اللّٰهُ​ فَكُلُوۡا مِمَّاۤ اَمۡسَكۡنَ عَلَيۡكُمۡ وَاذۡكُرُوا اسۡمَ
-  اللّٰهِ عَلَيۡهِ​ وَاتَّقُوا اللّٰهَ​ ؕ اِنَّ اللّٰهَ سَرِيۡعُ الۡحِسَابِ‏
+arabic_ayat: يَسۡـَٔلُونَكَ مَاذَآ أُحِلَّ لَهُمۡۖ قُلۡ أُحِلَّ لَكُمُ ٱلطَّيِّبَٰتُ
+  وَمَا عَلَّمۡتُم مِّنَ ٱلۡجَوَارِحِ مُكَلِّبِينَ تُعَلِّمُونَهُنَّ مِمَّا عَلَّمَكُمُ
+  ٱللَّهُۖ فَكُلُواْ مِمَّآ أَمۡسَكۡنَ عَلَيۡكُمۡ وَٱذۡكُرُواْ ٱسۡمَ ٱللَّهِ عَلَيۡهِۖ
+  وَٱتَّقُواْ ٱللَّهَۚ إِنَّ ٱللَّهَ سَرِيعُ ٱلۡحِسَابِ
 sentence_translation: They ask you, ˹O Prophet,˺ what is permissible for them ˹to
   eat˺. Say, “What is good and lawful. Also what is caught by your hunting animals
   and birds of prey which you have trained as instructed by Allah. So eat what they
@@ -10,19 +10,19 @@ sentence_translation: They ask you, ˹O Prophet,˺ what is permissible for them 
   Allah. Surely Allah is swift in reckoning.
 word_by_word:
   1:
-    arabic: يَسۡـَٔـــلُوۡنَكَ
+    arabic: يَسۡـَٔلُونَكَ
     translation: They ask you
     transliteration: yasalūnaka
   2:
-    arabic: مَاذَاۤ
+    arabic: مَاذَآ
     translation: what
     transliteration: mādhā
   3:
-    arabic: اُحِلَّ
+    arabic: أُحِلَّ
     translation: (is) made lawful
     transliteration: uḥilla
   4:
-    arabic: لَهُمۡ​ؕ
+    arabic: لَهُمۡۖ
     translation: for them
     transliteration: lahum
   5:
@@ -30,15 +30,15 @@ word_by_word:
     translation: Say
     transliteration: qul
   6:
-    arabic: اُحِلَّ
+    arabic: أُحِلَّ
     translation: Are made lawful
     transliteration: uḥilla
   7:
-    arabic: لَـكُمُ
+    arabic: لَكُمُ
     translation: for you
     transliteration: lakumu
   8:
-    arabic: الطَّيِّبٰتُ​ ۙ
+    arabic: ٱلطَّيِّبَٰتُ
     translation: the good things
     transliteration: l-ṭayibātu
   9:
@@ -46,7 +46,7 @@ word_by_word:
     translation: and what
     transliteration: wamā
   10:
-    arabic: عَلَّمۡتُمۡ
+    arabic: عَلَّمۡتُم
     translation: you have taught
     transliteration: ʿallamtum
   11:
@@ -54,15 +54,15 @@ word_by_word:
     translation: of
     transliteration: mina
   12:
-    arabic: الۡجَـوَارِحِ
+    arabic: ٱلۡجَوَارِحِ
     translation: (your) hunting animals
     transliteration: l-jawāriḥi
   13:
-    arabic: مُكَلِّبِيۡنَ
+    arabic: مُكَلِّبِينَ
     translation: ones who train animals to hunt
     transliteration: mukallibīna
   14:
-    arabic: تُعَلِّمُوۡنَهُنَّ
+    arabic: تُعَلِّمُونَهُنَّ
     translation: you teach them
     transliteration: tuʿallimūnahunna
   15:
@@ -74,19 +74,19 @@ word_by_word:
     translation: has taught you
     transliteration: ʿallamakumu
   17:
-    arabic: اللّٰهُ​
+    arabic: ٱللَّهُۖ
     translation: Allah
     transliteration: l-lahu
   18:
-    arabic: فَكُلُوۡا
+    arabic: فَكُلُواْ
     translation: So eat
     transliteration: fakulū
   19:
-    arabic: مِمَّاۤ
+    arabic: مِمَّآ
     translation: of what
     transliteration: mimmā
   20:
-    arabic: اَمۡسَكۡنَ
+    arabic: أَمۡسَكۡنَ
     translation: they catch
     transliteration: amsakna
   21:
@@ -94,43 +94,43 @@ word_by_word:
     translation: for you
     transliteration: ʿalaykum
   22:
-    arabic: وَاذۡكُرُوا
+    arabic: وَٱذۡكُرُواْ
     translation: but mention
     transliteration: wa-udh'kurū
   23:
-    arabic: اسۡمَ
+    arabic: ٱسۡمَ
     translation: (the) name
     transliteration: is'ma
   24:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (of) Allah
     transliteration: l-lahi
   25:
-    arabic: عَلَيۡهِ​
+    arabic: عَلَيۡهِۖ
     translation: on it
     transliteration: ʿalayhi
   26:
-    arabic: وَاتَّقُوا
+    arabic: وَٱتَّقُواْ
     translation: and fear
     transliteration: wa-ittaqū
   27:
-    arabic: اللّٰهَ​ ؕ
+    arabic: ٱللَّهَۚ
     translation: Allah
     transliteration: l-laha
   28:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   29:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   30:
-    arabic: سَرِيۡعُ
+    arabic: سَرِيعُ
     translation: is swift
     transliteration: sarīʿu
   31:
-    arabic: الۡحِسَابِ‏
+    arabic: ٱلۡحِسَابِ
     translation: (in taking) account
     transliteration: l-ḥisābi
 ---

@@ -1,91 +1,91 @@
 ---
-arabic_ayat: لَـتَجِدَنَّ اَشَدَّ النَّاسِ عَدَاوَةً لِّـلَّذِيۡنَ اٰمَنُوا الۡيَهُوۡدَ
-  وَالَّذِيۡنَ اَشۡرَكُوۡا​ ۚ وَلَـتَجِدَنَّ اَ قۡرَبَهُمۡ مَّوَدَّةً لِّـلَّذِيۡنَ
-  اٰمَنُوا الَّذِيۡنَ قَالُوۡۤا اِنَّا نَصٰرٰى​ ؕ ذٰ لِكَ بِاَنَّ مِنۡهُمۡ قِسِّيۡسِيۡنَ
-  وَرُهۡبَانًا وَّاَنَّهُمۡ لَا يَسۡتَكۡبِرُوۡنَ‏
+arabic_ayat: ۞ لَتَجِدَنَّ أَشَدَّ ٱلنَّاسِ عَدَٰوَةٗ لِّلَّذِينَ ءَامَنُواْ ٱلۡيَهُودَ
+  وَٱلَّذِينَ أَشۡرَكُواْۖ وَلَتَجِدَنَّ أَقۡرَبَهُم مَّوَدَّةٗ لِّلَّذِينَ ءَامَنُواْ
+  ٱلَّذِينَ قَالُوٓاْ إِنَّا نَصَٰرَىٰۚ ذَٰلِكَ بِأَنَّ مِنۡهُمۡ قِسِّيسِينَ وَرُهۡبَانٗا
+  وَأَنَّهُمۡ لَا يَسۡتَكۡبِرُونَ
 sentence_translation: You will surely find the most bitter towards the believers to
   be the Jews and polytheists and the most gracious to be those who call themselves
   Christian. That is because there are priests and monks among them and because they
   are not arrogant.
 word_by_word:
   1:
-    arabic: ۞ لَـتَجِدَنَّ
+    arabic: ۞ لَتَجِدَنَّ
     translation: Surely you will find
     transliteration: latajidanna
   2:
-    arabic: اَشَدَّ
+    arabic: أَشَدَّ
     translation: strongest
     transliteration: ashadda
   3:
-    arabic: النَّاسِ
+    arabic: ٱلنَّاسِ
     translation: (of) the people
     transliteration: l-nāsi
   4:
-    arabic: عَدَاوَةً
+    arabic: عَدَٰوَةٗ
     translation: (in) enmity
     transliteration: ʿadāwatan
   5:
-    arabic: لِّـلَّذِيۡنَ
+    arabic: لِّلَّذِينَ ءَ
     translation: to those who
     transliteration: lilladhīna
   6:
-    arabic: اٰمَنُوا
+    arabic: امَنُواْ
     translation: believe
     transliteration: āmanū
   7:
-    arabic: الۡيَهُوۡدَ
+    arabic: ٱلۡيَهُودَ
     translation: the Jews
     transliteration: l-yahūda
   8:
-    arabic: وَالَّذِيۡنَ
+    arabic: وَٱلَّذِينَ
     translation: and those who
     transliteration: wa-alladhīna
   9:
-    arabic: اَشۡرَكُوۡا​ ۚ
+    arabic: أَشۡرَكُواْۖ
     translation: (are) polytheists
     transliteration: ashrakū
   10:
-    arabic: وَلَـتَجِدَنَّ
+    arabic: وَلَتَجِدَنَّ
     translation: and surely you will find
     transliteration: walatajidanna
   11:
-    arabic: اَ قۡرَبَهُمۡ
+    arabic: أَقۡرَبَهُم
     translation: nearest of them
     transliteration: aqrabahum
   12:
-    arabic: مَّوَدَّةً
+    arabic: مَّوَدَّةٗ
     translation: (in) affection
     transliteration: mawaddatan
   13:
-    arabic: لِّـلَّذِيۡنَ
+    arabic: لِّلَّذِينَ ءَ
     translation: to those who
     transliteration: lilladhīna
   14:
-    arabic: اٰمَنُوا
+    arabic: امَنُواْ
     translation: believe
     transliteration: āmanū
   15:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   16:
-    arabic: قَالُوۡۤا
+    arabic: قَالُوٓاْ
     translation: say
     transliteration: qālū
   17:
-    arabic: اِنَّا
+    arabic: إِنَّا
     translation: We
     transliteration: innā
   18:
-    arabic: نَصٰرٰى​ ؕ
+    arabic: نَصَٰرَىٰۚ
     translation: (are) Christians
     transliteration: naṣārā
   19:
-    arabic: ذٰ لِكَ
+    arabic: ذَٰلِكَ
     translation: That (is)
     transliteration: dhālika
   20:
-    arabic: بِاَنَّ
+    arabic: بِأَنَّ
     translation: because
     transliteration: bi-anna
   21:
@@ -93,15 +93,15 @@ word_by_word:
     translation: among them
     transliteration: min'hum
   22:
-    arabic: قِسِّيۡسِيۡنَ
+    arabic: قِسِّيسِينَ
     translation: (are) priests
     transliteration: qissīsīna
   23:
-    arabic: وَرُهۡبَانًا
+    arabic: وَرُهۡبَانٗا
     translation: and monks
     transliteration: waruh'bānan
   24:
-    arabic: وَّاَنَّهُمۡ
+    arabic: وَأَنَّهُمۡ
     translation: and that they
     transliteration: wa-annahum
   25:
@@ -109,7 +109,7 @@ word_by_word:
     translation: (are) not
     transliteration: lā
   26:
-    arabic: يَسۡتَكۡبِرُوۡنَ‏
+    arabic: يَسۡتَكۡبِرُونَ
     translation: arrogant
     transliteration: yastakbirūna
 ---

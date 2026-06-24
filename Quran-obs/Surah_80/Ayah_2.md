@@ -1,9 +1,9 @@
 ---
-arabic_ayat: اَنۡ جَآءَهُ الۡاَعۡمٰىؕ‏
+arabic_ayat: أَن جَآءَهُ ٱلۡأَعۡمَىٰ
 sentence_translation: ˹simply˺ because the blind man came to him ˹interrupting˺.
 word_by_word:
   1:
-    arabic: اَنۡ
+    arabic: أَن
     translation: Because
     transliteration: an
   2:
@@ -11,7 +11,7 @@ word_by_word:
     translation: came to him
     transliteration: jāahu
   3:
-    arabic: الۡاَعۡمٰىؕ‏
+    arabic: ٱلۡأَعۡمَىٰ
     translation: the blind man
     transliteration: l-aʿmā
 ---

@@ -1,15 +1,15 @@
 ---
-arabic_ayat: اِنَّ الَّذِيۡنَ يَخۡشَوۡنَ رَبَّهُمۡ بِالۡغَيۡبِ لَهُمۡ مَّغۡفِرَةٌ
-  وَّاَجۡرٌ كَبِيۡرٌ‏
+arabic_ayat: إِنَّ ٱلَّذِينَ يَخۡشَوۡنَ رَبَّهُم بِٱلۡغَيۡبِ لَهُم مَّغۡفِرَةٞ وَأَجۡرٞ
+  كَبِيرٞ
 sentence_translation: Indeed, those in awe of their Lord without seeing Him will have
   forgiveness and a mighty reward.
 word_by_word:
   1:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   3:
@@ -17,27 +17,27 @@ word_by_word:
     translation: fear
     transliteration: yakhshawna
   4:
-    arabic: رَبَّهُمۡ
+    arabic: رَبَّهُم
     translation: their Lord
     transliteration: rabbahum
   5:
-    arabic: بِالۡغَيۡبِ
+    arabic: بِٱلۡغَيۡبِ
     translation: unseen
     transliteration: bil-ghaybi
   6:
-    arabic: لَهُمۡ
+    arabic: لَهُم
     translation: for them
     transliteration: lahum
   7:
-    arabic: مَّغۡفِرَةٌ
+    arabic: مَّغۡفِرَةٞ
     translation: (is) forgiveness
     transliteration: maghfiratun
   8:
-    arabic: وَّاَجۡرٌ
+    arabic: وَأَجۡرٞ
     translation: and a reward
     transliteration: wa-ajrun
   9:
-    arabic: كَبِيۡرٌ‏
+    arabic: كَبِيرٞ
     translation: great
     transliteration: kabīrun
 ---

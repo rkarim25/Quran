@@ -1,7 +1,7 @@
 ---
-arabic_ayat: سَلۡ بَنِىۡٓ اِسۡرَآءِيۡلَ كَمۡ اٰتَيۡنٰهُمۡ مِّنۡ اٰيَةٍۢ بَيِّنَةٍ ​ؕ
-  وَمَنۡ يُّبَدِّلۡ نِعۡمَةَ اللّٰهِ مِنۡۢ بَعۡدِ مَا جَآءَتۡهُ فَاِنَّ اللّٰهَ شَدِيۡدُ
-  الۡعِقَابِ‏
+arabic_ayat: سَلۡ بَنِيٓ إِسۡرَٰٓءِيلَ كَمۡ ءَاتَيۡنَٰهُم مِّنۡ ءَايَةِۭ بَيِّنَةٖۗ
+  وَمَن يُبَدِّلۡ نِعۡمَةَ ٱللَّهِ مِنۢ بَعۡدِ مَا جَآءَتۡهُ فَإِنَّ ٱللَّهَ شَدِيدُ
+  ٱلۡعِقَابِ
 sentence_translation: Ask the Children of Israel how many clear signs We have given
   them. And whoever trades Allah’s favour—after receiving it—˹for disbelief˺ should
   know that Allah is indeed severe in punishment.
@@ -11,39 +11,39 @@ word_by_word:
     translation: Ask
     transliteration: sal
   2:
-    arabic: بَنِىۡٓ
+    arabic: بَنِيٓ
     translation: (the) Children
     transliteration: banī
   3:
-    arabic: اِسۡرَآءِيۡلَ
+    arabic: إِسۡرَٰٓءِيلَ
     translation: (of) Israel
     transliteration: is'rāīla
   4:
-    arabic: كَمۡ
+    arabic: كَمۡ ءَ
     translation: how many
     transliteration: kam
   5:
-    arabic: اٰتَيۡنٰهُمۡ
+    arabic: اتَيۡنَٰهُم
     translation: We gave them
     transliteration: ātaynāhum
   6:
-    arabic: مِّنۡ
+    arabic: مِّنۡ ءَ
     translation: of
     transliteration: min
   7:
-    arabic: اٰيَةٍۢ
+    arabic: ايَةِۭ
     translation: (the) Sign(s)
     transliteration: āyatin
   8:
-    arabic: بَيِّنَةٍ ​ؕ
+    arabic: بَيِّنَةٖۗ
     translation: clear
     transliteration: bayyinatin
   9:
-    arabic: وَمَنۡ
+    arabic: وَمَن
     translation: And whoever
     transliteration: waman
   10:
-    arabic: يُّبَدِّلۡ
+    arabic: يُبَدِّلۡ
     translation: changes
     transliteration: yubaddil
   11:
@@ -51,11 +51,11 @@ word_by_word:
     translation: Favor
     transliteration: niʿ'mata
   12:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (of) Allah
     transliteration: l-lahi
   13:
-    arabic: مِنۡۢ
+    arabic: مِنۢ
     translation: from
     transliteration: min
   14:
@@ -71,19 +71,19 @@ word_by_word:
     translation: 'it (has) come to him '
     transliteration: jāathu
   17:
-    arabic: فَاِنَّ
+    arabic: فَإِنَّ
     translation: then indeed
     transliteration: fa-inna
   18:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   19:
-    arabic: شَدِيۡدُ
+    arabic: شَدِيدُ
     translation: (is) severe
     transliteration: shadīdu
   20:
-    arabic: الۡعِقَابِ‏
+    arabic: ٱلۡعِقَابِ
     translation: in [the] chastising
     transliteration: l-ʿiqābi
 ---

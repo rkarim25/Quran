@@ -1,5 +1,5 @@
 ---
-arabic_ayat: وَلَقَدۡ نَادٰٮنَا نُوۡحٌ فَلَنِعۡمَ الۡمُجِيۡبُوۡنَ  ۖ‏
+arabic_ayat: وَلَقَدۡ نَادَىٰنَا نُوحٞ فَلَنِعۡمَ ٱلۡمُجِيبُونَ
 sentence_translation: Indeed, Noah cried out to Us, and how excellent are We in responding!
 word_by_word:
   1:
@@ -7,11 +7,11 @@ word_by_word:
     translation: And verily
     transliteration: walaqad
   2:
-    arabic: نَادٰٮنَا
+    arabic: نَادَىٰنَا
     translation: called Us
     transliteration: nādānā
   3:
-    arabic: نُوۡحٌ
+    arabic: نُوحٞ
     translation: Nuh
     transliteration: nūḥun
   4:
@@ -19,7 +19,7 @@ word_by_word:
     translation: and Best
     transliteration: falaniʿ'ma
   5:
-    arabic: الۡمُجِيۡبُوۡنَ  ۖ‏
+    arabic: ٱلۡمُجِيبُونَ
     translation: (are We as) Responders
     transliteration: l-mujībūna
 ---

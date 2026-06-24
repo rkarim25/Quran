@@ -1,23 +1,23 @@
 ---
-arabic_ayat: وَّاَنَّا ظَنَنَّاۤ اَنۡ لَّنۡ نُّعۡجِزَ اللّٰهَ فِى الۡاَرۡضِ وَلَنۡ
-  نُّعۡجِزَهٗ هَرَبًا ۙ‏
+arabic_ayat: وَأَنَّا ظَنَنَّآ أَن لَّن نُّعۡجِزَ ٱللَّهَ فِي ٱلۡأَرۡضِ وَلَن نُّعۡجِزَهُۥ
+  هَرَبٗا
 sentence_translation: ˹Now,˺ we truly know that we cannot frustrate Allah on earth,
   nor can we escape from Him ˹into heaven˺.
 word_by_word:
   1:
-    arabic: وَّاَنَّا
+    arabic: وَأَنَّا
     translation: And that we
     transliteration: wa-annā
   2:
-    arabic: ظَنَنَّاۤ
+    arabic: ظَنَنَّآ
     translation: '[we] have become certain'
     transliteration: ẓanannā
   3:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that
     transliteration: an
   4:
-    arabic: لَّنۡ
+    arabic: لَّن
     translation: never
     transliteration: lan
   5:
@@ -25,27 +25,27 @@ word_by_word:
     translation: we will cause failure
     transliteration: nuʿ'jiza
   6:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: (to) Allah
     transliteration: l-laha
   7:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   8:
-    arabic: الۡاَرۡضِ
+    arabic: ٱلۡأَرۡضِ
     translation: the earth
     transliteration: l-arḍi
   9:
-    arabic: وَلَنۡ
+    arabic: وَلَن
     translation: and never
     transliteration: walan
   10:
-    arabic: نُّعۡجِزَهٗ
+    arabic: نُّعۡجِزَهُۥ
     translation: we can escape Him
     transliteration: nuʿ'jizahu
   11:
-    arabic: هَرَبًا ۙ‏
+    arabic: هَرَبٗا
     translation: (by) flight
     transliteration: haraban
 ---

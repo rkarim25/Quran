@@ -1,16 +1,16 @@
 ---
-arabic_ayat: خَاشِعَةً اَبۡصَارُهُمۡ تَرۡهَقُهُمۡ ذِلَّةٌ ؕ وَقَدۡ كَانُوۡا يُدۡعَوۡنَ
-  اِلَى السُّجُوۡدِ وَهُمۡ سٰلِمُوۡنَ‏
+arabic_ayat: خَٰشِعَةً أَبۡصَٰرُهُمۡ تَرۡهَقُهُمۡ ذِلَّةٞۖ وَقَدۡ كَانُواْ يُدۡعَوۡنَ
+  إِلَى ٱلسُّجُودِ وَهُمۡ سَٰلِمُونَ
 sentence_translation: with eyes downcast, totally covered with disgrace. For they
   were ˹always˺ called to prostrate ˹in the world˺ when they were fully capable ˹but
   they chose not to˺.
 word_by_word:
   1:
-    arabic: خَاشِعَةً
+    arabic: خَٰشِعَةً
     translation: Humbled
     transliteration: khāshiʿatan
   2:
-    arabic: اَبۡصَارُهُمۡ
+    arabic: أَبۡصَٰرُهُمۡ
     translation: their eyes
     transliteration: abṣāruhum
   3:
@@ -18,7 +18,7 @@ word_by_word:
     translation: will cover them
     transliteration: tarhaquhum
   4:
-    arabic: ذِلَّةٌ
+    arabic: ذِلَّةٞۖ
     translation: humiliation
     transliteration: dhillatun
   5:
@@ -26,7 +26,7 @@ word_by_word:
     translation: And indeed
     transliteration: waqad
   6:
-    arabic: كَانُوۡا
+    arabic: كَانُواْ
     translation: they were
     transliteration: kānū
   7:
@@ -34,11 +34,11 @@ word_by_word:
     translation: called
     transliteration: yud'ʿawna
   8:
-    arabic: اِلَى
+    arabic: إِلَى
     translation: to
     transliteration: ilā
   9:
-    arabic: السُّجُوۡدِ
+    arabic: ٱلسُّجُودِ
     translation: prostrate
     transliteration: l-sujūdi
   10:
@@ -46,7 +46,7 @@ word_by_word:
     translation: while they
     transliteration: wahum
   11:
-    arabic: سٰلِمُوۡنَ‏
+    arabic: سَٰلِمُونَ
     translation: (were) sound
     transliteration: sālimūna
 ---

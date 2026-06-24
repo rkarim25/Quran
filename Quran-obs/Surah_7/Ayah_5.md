@@ -1,6 +1,6 @@
 ---
-arabic_ayat: فَمَا كَانَ دَعۡوٰٮهُمۡ اِذۡ جَآءَهُمۡ بَاۡسُنَاۤ اِلَّاۤ اَنۡ قَالُوۡۤا
-  اِنَّا كُنَّا ظٰلِمِيۡنَ‏
+arabic_ayat: فَمَا كَانَ دَعۡوَىٰهُمۡ إِذۡ جَآءَهُم بَأۡسُنَآ إِلَّآ أَن قَالُوٓاْ
+  إِنَّا كُنَّا ظَٰلِمِينَ
 sentence_translation: Their only cry—when overwhelmed by Our torment—was, “We have
   indeed been wrongdoers.”
 word_by_word:
@@ -13,35 +13,35 @@ word_by_word:
     translation: was
     transliteration: kāna
   3:
-    arabic: دَعۡوٰٮهُمۡ
+    arabic: دَعۡوَىٰهُمۡ
     translation: their plea
     transliteration: daʿwāhum
   4:
-    arabic: اِذۡ
+    arabic: إِذۡ
     translation: when
     transliteration: idh
   5:
-    arabic: جَآءَهُمۡ
+    arabic: جَآءَهُم
     translation: came to them
     transliteration: jāahum
   6:
-    arabic: بَاۡسُنَاۤ
+    arabic: بَأۡسُنَآ
     translation: Our punishment
     transliteration: basunā
   7:
-    arabic: اِلَّاۤ
+    arabic: إِلَّآ
     translation: except
     transliteration: illā
   8:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that
     transliteration: an
   9:
-    arabic: قَالُوۡۤا
+    arabic: قَالُوٓاْ
     translation: they said
     transliteration: qālū
   10:
-    arabic: اِنَّا
+    arabic: إِنَّا
     translation: Indeed, we
     transliteration: innā
   11:
@@ -49,7 +49,7 @@ word_by_word:
     translation: were
     transliteration: kunnā
   12:
-    arabic: ظٰلِمِيۡنَ‏
+    arabic: ظَٰلِمِينَ
     translation: wrongdoers
     transliteration: ẓālimīna
 ---

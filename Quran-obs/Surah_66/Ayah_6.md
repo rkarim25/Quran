@@ -1,49 +1,49 @@
 ---
-arabic_ayat: يٰۤاَيُّهَا الَّذِيۡنَ اٰمَنُوۡا قُوۡۤا اَنۡفُسَكُمۡ وَاَهۡلِيۡكُمۡ نَارًا
-  وَّقُوۡدُهَا النَّاسُ وَالۡحِجَارَةُ عَلَيۡهَا مَلٰٓٮِٕكَةٌ غِلَاظٌ شِدَادٌ لَّا
-  يَعۡصُوۡنَ اللّٰهَ مَاۤ اَمَرَهُمۡ وَيَفۡعَلُوۡنَ مَا يُؤۡمَرُوۡنَ‏
+arabic_ayat: يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُواْ قُوٓاْ أَنفُسَكُمۡ وَأَهۡلِيكُمۡ نَارٗا
+  وَقُودُهَا ٱلنَّاسُ وَٱلۡحِجَارَةُ عَلَيۡهَا مَلَٰٓئِكَةٌ غِلَاظٞ شِدَادٞ لَّا يَعۡصُونَ
+  ٱللَّهَ مَآ أَمَرَهُمۡ وَيَفۡعَلُونَ مَا يُؤۡمَرُونَ
 sentence_translation: O believers! Protect yourselves and your families from a Fire
   whose fuel is people and stones, overseen by formidable and severe angels, who never
   disobey whatever Allah orders—always doing as commanded.
 word_by_word:
   1:
-    arabic: يٰۤاَيُّهَا
+    arabic: يَٰٓأَيُّهَا
     translation: O
     transliteration: yāayyuhā
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ ءَ
     translation: (you) who
     transliteration: alladhīna
   3:
-    arabic: اٰمَنُوۡا
+    arabic: امَنُواْ
     translation: believe
     transliteration: āmanū
   4:
-    arabic: قُوۡۤا
+    arabic: قُوٓاْ
     translation: Protect
     transliteration: qū
   5:
-    arabic: اَنۡفُسَكُمۡ
+    arabic: أَنفُسَكُمۡ
     translation: yourselves
     transliteration: anfusakum
   6:
-    arabic: وَاَهۡلِيۡكُمۡ
+    arabic: وَأَهۡلِيكُمۡ
     translation: and your families
     transliteration: wa-ahlīkum
   7:
-    arabic: نَارًا
+    arabic: نَارٗا
     translation: (from) a Fire
     transliteration: nāran
   8:
-    arabic: وَّقُوۡدُهَا
+    arabic: وَقُودُهَا
     translation: whose fuel
     transliteration: waqūduhā
   9:
-    arabic: النَّاسُ
+    arabic: ٱلنَّاسُ
     translation: (is) people
     transliteration: l-nāsu
   10:
-    arabic: وَالۡحِجَارَةُ
+    arabic: وَٱلۡحِجَارَةُ
     translation: and stones
     transliteration: wal-ḥijāratu
   11:
@@ -51,15 +51,15 @@ word_by_word:
     translation: over it
     transliteration: ʿalayhā
   12:
-    arabic: مَلٰٓٮِٕكَةٌ
+    arabic: مَلَٰٓئِكَةٌ
     translation: (are) Angels
     transliteration: malāikatun
   13:
-    arabic: غِلَاظٌ
+    arabic: غِلَاظٞ
     translation: stern
     transliteration: ghilāẓun
   14:
-    arabic: شِدَادٌ
+    arabic: شِدَادٞ
     translation: severe
     transliteration: shidādun
   15:
@@ -67,23 +67,23 @@ word_by_word:
     translation: not
     transliteration: lā
   16:
-    arabic: يَعۡصُوۡنَ
+    arabic: يَعۡصُونَ
     translation: they disobey
     transliteration: yaʿṣūna
   17:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   18:
-    arabic: مَاۤ
+    arabic: مَآ
     translation: (in) what
     transliteration: mā
   19:
-    arabic: اَمَرَهُمۡ
+    arabic: أَمَرَهُمۡ
     translation: He Commands them
     transliteration: amarahum
   20:
-    arabic: وَيَفۡعَلُوۡنَ
+    arabic: وَيَفۡعَلُونَ
     translation: but they do
     transliteration: wayafʿalūna
   21:
@@ -91,7 +91,7 @@ word_by_word:
     translation: what
     transliteration: mā
   22:
-    arabic: يُؤۡمَرُوۡنَ‏
+    arabic: يُؤۡمَرُونَ
     translation: they are commanded
     transliteration: yu'marūna
 ---

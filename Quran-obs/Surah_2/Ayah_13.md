@@ -1,65 +1,65 @@
 ---
-arabic_ayat: وَاِذَا قِيۡلَ لَهُمۡ اٰمِنُوۡا كَمَاۤ اٰمَنَ النَّاسُ قَالُوۡاۤ اَنُؤۡمِنُ
-  كَمَاۤ اٰمَنَ السُّفَهَآءُ​ ؕ اَلَاۤ اِنَّهُمۡ هُمُ السُّفَهَآءُ وَلٰـكِنۡ لَّا
-  يَعۡلَمُوۡنَ‏
+arabic_ayat: وَإِذَا قِيلَ لَهُمۡ ءَامِنُواْ كَمَآ ءَامَنَ ٱلنَّاسُ قَالُوٓاْ أَنُؤۡمِنُ
+  كَمَآ ءَامَنَ ٱلسُّفَهَآءُۗ أَلَآ إِنَّهُمۡ هُمُ ٱلسُّفَهَآءُ وَلَٰكِن لَّا
+  يَعۡلَمُونَ
 sentence_translation: And when they are told, “Believe as others believe,” they reply,
   “Will we believe as the fools believe?” Indeed, it is they who are fools, but they
   do not know.
 word_by_word:
   1:
-    arabic: وَاِذَا
+    arabic: وَإِذَا
     translation: And when
     transliteration: wa-idhā
   2:
-    arabic: قِيۡلَ
+    arabic: قِيلَ
     translation: it is said
     transliteration: qīla
   3:
-    arabic: لَهُمۡ
+    arabic: لَهُمۡ ءَ
     translation: to them
     transliteration: lahum
   4:
-    arabic: اٰمِنُوۡا
+    arabic: امِنُواْ
     translation: Believe
     transliteration: āminū
   5:
-    arabic: كَمَاۤ
+    arabic: كَمَآ ءَ
     translation: as
     transliteration: kamā
   6:
-    arabic: اٰمَنَ
+    arabic: امَنَ
     translation: believed
     transliteration: āmana
   7:
-    arabic: النَّاسُ
+    arabic: ٱلنَّاسُ
     translation: the people
     transliteration: l-nāsu
   8:
-    arabic: قَالُوۡاۤ
+    arabic: قَالُوٓاْ
     translation: they say
     transliteration: qālū
   9:
-    arabic: اَنُؤۡمِنُ
+    arabic: أَنُؤۡمِنُ
     translation: Should we believe
     transliteration: anu'minu
   10:
-    arabic: كَمَاۤ
+    arabic: كَمَآ ءَ
     translation: as
     transliteration: kamā
   11:
-    arabic: اٰمَنَ
+    arabic: امَنَ
     translation: believed
     transliteration: āmana
   12:
-    arabic: السُّفَهَآءُ​ ؕ
+    arabic: ٱلسُّفَهَآءُۗ
     translation: the fools
     transliteration: l-sufahāu
   13:
-    arabic: اَلَاۤ
+    arabic: أَلَآ
     translation: Beware
     transliteration: alā
   14:
-    arabic: اِنَّهُمۡ
+    arabic: إِنَّهُمۡ
     translation: certainly they
     transliteration: innahum
   15:
@@ -67,11 +67,11 @@ word_by_word:
     translation: themselves
     transliteration: humu
   16:
-    arabic: السُّفَهَآءُ
+    arabic: ٱلسُّفَهَآءُ
     translation: (are) the fools
     transliteration: l-sufahāu
   17:
-    arabic: وَلٰـكِنۡ
+    arabic: وَلَٰكِن
     translation: '[and] but'
     transliteration: walākin
   18:
@@ -79,7 +79,7 @@ word_by_word:
     translation: not
     transliteration: lā
   19:
-    arabic: يَعۡلَمُوۡنَ‏
+    arabic: يَعۡلَمُونَ
     translation: they know
     transliteration: yaʿlamūna
 ---

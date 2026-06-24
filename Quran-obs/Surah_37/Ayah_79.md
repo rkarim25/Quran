@@ -1,25 +1,25 @@
 ---
-arabic_ayat: سَلٰمٌ عَلٰى نُوۡحٍ فِى الۡعٰلَمِيۡنَ‏
+arabic_ayat: سَلَٰمٌ عَلَىٰ نُوحٖ فِي ٱلۡعَٰلَمِينَ
 sentence_translation: “Peace be upon Noah among all peoples.”
 word_by_word:
   1:
-    arabic: سَلٰمٌ
+    arabic: سَلَٰمٌ
     translation: Peace be
     transliteration: salāmun
   2:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: upon
     transliteration: ʿalā
   3:
-    arabic: نُوۡحٍ
+    arabic: نُوحٖ
     translation: Nuh
     transliteration: nūḥin
   4:
-    arabic: فِى
+    arabic: فِي
     translation: among
     transliteration: fī
   5:
-    arabic: الۡعٰلَمِيۡنَ‏
+    arabic: ٱلۡعَٰلَمِينَ
     translation: the worlds
     transliteration: l-ʿālamīna
 ---

@@ -1,47 +1,47 @@
 ---
-arabic_ayat: الَّذِيۡنَ يَسۡتَمِعُوۡنَ الۡقَوۡلَ فَيَتَّبِعُوۡنَ اَحۡسَنَهٗ​ ؕ اُولٰٓٮِٕكَ
-  الَّذِيۡنَ هَدٰٮهُمُ اللّٰهُ​ وَاُولٰٓٮِٕكَ هُمۡ اُولُوا الۡاَلۡبَابِ‏
+arabic_ayat: ٱلَّذِينَ يَسۡتَمِعُونَ ٱلۡقَوۡلَ فَيَتَّبِعُونَ أَحۡسَنَهُۥٓۚ أُوْلَٰٓئِكَ
+  ٱلَّذِينَ هَدَىٰهُمُ ٱللَّهُۖ وَأُوْلَٰٓئِكَ هُمۡ أُوْلُواْ ٱلۡأَلۡبَٰبِ
 sentence_translation: those who listen to what is said and follow the best of it. These
   are the ones ˹rightly˺ guided by Allah, and these are ˹truly˺ the people of reason.
 word_by_word:
   1:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: Those who
     transliteration: alladhīna
   2:
-    arabic: يَسۡتَمِعُوۡنَ
+    arabic: يَسۡتَمِعُونَ
     translation: they listen (to)
     transliteration: yastamiʿūna
   3:
-    arabic: الۡقَوۡلَ
+    arabic: ٱلۡقَوۡلَ
     translation: the Word
     transliteration: l-qawla
   4:
-    arabic: فَيَتَّبِعُوۡنَ
+    arabic: فَيَتَّبِعُونَ
     translation: then follow
     transliteration: fayattabiʿūna
   5:
-    arabic: اَحۡسَنَهٗ​ ؕ
+    arabic: أَحۡسَنَهُۥٓۚ
     translation: the best thereof
     transliteration: aḥsanahu
   6:
-    arabic: اُولٰٓٮِٕكَ
+    arabic: أُوْلَٰٓئِكَ
     translation: those
     transliteration: ulāika
   7:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: (are) they whom
     transliteration: alladhīna
   8:
-    arabic: هَدٰٮهُمُ
+    arabic: هَدَىٰهُمُ
     translation: Allah has guided them
     transliteration: hadāhumu
   9:
-    arabic: اللّٰهُ​
+    arabic: ٱللَّهُۖ
     translation: Allah has guided them
     transliteration: l-lahu
   10:
-    arabic: وَاُولٰٓٮِٕكَ
+    arabic: وَأُوْلَٰٓئِكَ
     translation: and those
     transliteration: wa-ulāika
   11:
@@ -49,11 +49,11 @@ word_by_word:
     translation: are [they]
     transliteration: hum
   12:
-    arabic: اُولُوا
+    arabic: أُوْلُواْ
     translation: the men of understanding
     transliteration: ulū
   13:
-    arabic: الۡاَلۡبَابِ‏
+    arabic: ٱلۡأَلۡبَٰبِ
     translation: the men of understanding
     transliteration: l-albābi
 ---

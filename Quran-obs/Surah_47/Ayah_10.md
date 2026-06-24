@@ -1,28 +1,28 @@
 ---
-arabic_ayat: اَفَلَمۡ يَسِيۡرُوۡا فِى الۡاَرۡضِ فَيَنۡظُرُوۡا كَيۡفَ كَانَ عَاقِبَةُ
-  الَّذِيۡنَ مِنۡ قَبۡلِهِمۡ​ؕ دَمَّرَ اللّٰهُ عَلَيۡهِمۡ وَلِلۡكٰفِرِيۡنَ اَمۡثَالُهَا‏
+arabic_ayat: ۞ أَفَلَمۡ يَسِيرُواْ فِي ٱلۡأَرۡضِ فَيَنظُرُواْ كَيۡفَ كَانَ عَٰقِبَةُ
+  ٱلَّذِينَ مِن قَبۡلِهِمۡۖ دَمَّرَ ٱللَّهُ عَلَيۡهِمۡۖ وَلِلۡكَٰفِرِينَ أَمۡثَٰلُهَا
 sentence_translation: Have they not travelled throughout the land to see what was
   the end of those before them? Allah annihilated them, and a similar fate awaits
   the disbelievers.
 word_by_word:
   1:
-    arabic: ۞ اَفَلَمۡ
+    arabic: ۞ أَفَلَمۡ
     translation: Do not
     transliteration: afalam
   2:
-    arabic: يَسِيۡرُوۡا
+    arabic: يَسِيرُواْ
     translation: they travel
     transliteration: yasīrū
   3:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   4:
-    arabic: الۡاَرۡضِ
+    arabic: ٱلۡأَرۡضِ
     translation: the earth
     transliteration: l-arḍi
   5:
-    arabic: فَيَنۡظُرُوۡا
+    arabic: فَيَنظُرُواْ
     translation: and see
     transliteration: fayanẓurū
   6:
@@ -34,19 +34,19 @@ word_by_word:
     translation: was
     transliteration: kāna
   8:
-    arabic: عَاقِبَةُ
+    arabic: عَٰقِبَةُ
     translation: (the) end
     transliteration: ʿāqibatu
   9:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: (of) those
     transliteration: alladhīna
   10:
-    arabic: مِنۡ
+    arabic: مِن
     translation: before them
     transliteration: min
   11:
-    arabic: قَبۡلِهِمۡ​ؕ
+    arabic: قَبۡلِهِمۡۖ
     translation: before them
     transliteration: qablihim
   12:
@@ -54,19 +54,19 @@ word_by_word:
     translation: Allah destroyed
     transliteration: dammara
   13:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah destroyed
     transliteration: l-lahu
   14:
-    arabic: عَلَيۡهِمۡ
+    arabic: عَلَيۡهِمۡۖ
     translation: '[over] them'
     transliteration: ʿalayhim
   15:
-    arabic: وَلِلۡكٰفِرِيۡنَ
+    arabic: وَلِلۡكَٰفِرِينَ
     translation: and for the disbelievers
     transliteration: walil'kāfirīna
   16:
-    arabic: اَمۡثَالُهَا‏
+    arabic: أَمۡثَٰلُهَا
     translation: its likeness
     transliteration: amthāluhā
 ---

@@ -1,5 +1,5 @@
 ---
-arabic_ayat: ثُمَّ لَـنَحۡنُ اَعۡلَمُ بِالَّذِيۡنَ هُمۡ اَوۡلٰى بِهَا صِلِيًّا‏
+arabic_ayat: ثُمَّ لَنَحۡنُ أَعۡلَمُ بِٱلَّذِينَ هُمۡ أَوۡلَىٰ بِهَا صِلِيّٗا
 sentence_translation: And We truly know best who is most deserving of burning in it.
 word_by_word:
   1:
@@ -7,15 +7,15 @@ word_by_word:
     translation: Then
     transliteration: thumma
   2:
-    arabic: لَـنَحۡنُ
+    arabic: لَنَحۡنُ
     translation: surely, We
     transliteration: lanaḥnu
   3:
-    arabic: اَعۡلَمُ
+    arabic: أَعۡلَمُ
     translation: know best
     transliteration: aʿlamu
   4:
-    arabic: بِالَّذِيۡنَ
+    arabic: بِٱلَّذِينَ
     translation: '[of] those who'
     transliteration: bi-alladhīna
   5:
@@ -23,7 +23,7 @@ word_by_word:
     translation: '[they]'
     transliteration: hum
   6:
-    arabic: اَوۡلٰى
+    arabic: أَوۡلَىٰ
     translation: (are) most worthy
     transliteration: awlā
   7:
@@ -31,7 +31,7 @@ word_by_word:
     translation: therein
     transliteration: bihā
   8:
-    arabic: صِلِيًّا‏
+    arabic: صِلِيّٗا
     translation: (of) being burnt
     transliteration: ṣiliyyan
 ---

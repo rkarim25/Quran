@@ -1,10 +1,10 @@
 ---
-arabic_ayat: قَالُوۡا لَا ضَيۡرَ​ اِنَّاۤ اِلٰى رَبِّنَا مُنۡقَلِبُوۡنَ​ۚ‏
+arabic_ayat: قَالُواْ لَا ضَيۡرَۖ إِنَّآ إِلَىٰ رَبِّنَا مُنقَلِبُونَ
 sentence_translation: They responded, “˹That would be˺ no harm! Surely to our Lord
   we will ˹all˺ return.
 word_by_word:
   1:
-    arabic: قَالُوۡا
+    arabic: قَالُواْ
     translation: They said
     transliteration: qālū
   2:
@@ -12,15 +12,15 @@ word_by_word:
     translation: 'No'
     transliteration: lā
   3:
-    arabic: ضَيۡرَ​
+    arabic: ضَيۡرَۖ
     translation: harm
     transliteration: ḍayra
   4:
-    arabic: اِنَّاۤ
+    arabic: إِنَّآ
     translation: Indeed, we
     transliteration: innā
   5:
-    arabic: اِلٰى
+    arabic: إِلَىٰ
     translation: to
     transliteration: ilā
   6:
@@ -28,7 +28,7 @@ word_by_word:
     translation: our Lord
     transliteration: rabbinā
   7:
-    arabic: مُنۡقَلِبُوۡنَ​ۚ‏
+    arabic: مُنقَلِبُونَ
     translation: (will) return
     transliteration: munqalibūna
 ---

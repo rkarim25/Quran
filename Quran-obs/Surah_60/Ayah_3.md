@@ -1,27 +1,27 @@
 ---
-arabic_ayat: لَنۡ تَـنۡفَعَكُمۡ اَرۡحَامُكُمۡ وَلَاۤ اَوۡلَادُكُمۡ ۛۚ يَوۡمَ الۡقِيٰمَةِ
-  ۛۚ يَفۡصِلُ بَيۡنَكُمۡ​ؕ وَاللّٰهُ بِمَا تَعۡمَلُوۡنَ بَصِيۡرٌ‏
+arabic_ayat: لَن تَنفَعَكُمۡ أَرۡحَامُكُمۡ وَلَآ أَوۡلَٰدُكُمۡۚ يَوۡمَ ٱلۡقِيَٰمَةِ
+  يَفۡصِلُ بَيۡنَكُمۡۚ وَٱللَّهُ بِمَا تَعۡمَلُونَ بَصِيرٞ
 sentence_translation: Neither your relatives nor children will benefit you on Judgment
   Day—He will decide between you ˹all˺. For Allah is All-Seeing of what you do.
 word_by_word:
   1:
-    arabic: لَنۡ
+    arabic: لَن
     translation: Never
     transliteration: lan
   2:
-    arabic: تَـنۡفَعَكُمۡ
+    arabic: تَنفَعَكُمۡ
     translation: will benefit you
     transliteration: tanfaʿakum
   3:
-    arabic: اَرۡحَامُكُمۡ
+    arabic: أَرۡحَامُكُمۡ
     translation: your relatives
     transliteration: arḥāmukum
   4:
-    arabic: وَلَاۤ
+    arabic: وَلَآ
     translation: and not
     transliteration: walā
   5:
-    arabic: اَوۡلَادُكُمۡ ۛۚ
+    arabic: أَوۡلَٰدُكُمۡۚ
     translation: your children
     transliteration: awlādukum
   6:
@@ -29,7 +29,7 @@ word_by_word:
     translation: (on the) Day
     transliteration: yawma
   7:
-    arabic: الۡقِيٰمَةِ ۛۚ
+    arabic: ٱلۡقِيَٰمَةِ
     translation: (of) the Resurrection
     transliteration: l-qiyāmati
   8:
@@ -37,11 +37,11 @@ word_by_word:
     translation: He will judge
     transliteration: yafṣilu
   9:
-    arabic: بَيۡنَكُمۡ​ؕ
+    arabic: بَيۡنَكُمۡۚ
     translation: between you
     transliteration: baynakum
   10:
-    arabic: وَاللّٰهُ
+    arabic: وَٱللَّهُ
     translation: And Allah
     transliteration: wal-lahu
   11:
@@ -49,11 +49,11 @@ word_by_word:
     translation: of what
     transliteration: bimā
   12:
-    arabic: تَعۡمَلُوۡنَ
+    arabic: تَعۡمَلُونَ
     translation: you do
     transliteration: taʿmalūna
   13:
-    arabic: بَصِيۡرٌ‏
+    arabic: بَصِيرٞ
     translation: (is) All-Seer
     transliteration: baṣīrun
 ---

@@ -1,26 +1,26 @@
 ---
-arabic_ayat: اِذۡ يُرِيۡكَهُمُ اللّٰهُ فِىۡ مَنَامِكَ قَلِيۡلًا ؕ وَّلَوۡ اَرٰٮكَهُمۡ
-  كَثِيۡرًا لَّـفَشِلۡـتُمۡ وَلَـتَـنَازَعۡتُمۡ فِى الۡاَمۡرِ وَلٰـكِنَّ اللّٰهَ سَلَّمَ​ؕ
-  اِنَّهٗ عَلِيۡمٌۢ بِذَاتِ الصُّدُوۡرِ‏
+arabic_ayat: إِذۡ يُرِيكَهُمُ ٱللَّهُ فِي مَنَامِكَ قَلِيلٗاۖ وَلَوۡ أَرَىٰكَهُمۡ
+  كَثِيرٗا لَّفَشِلۡتُمۡ وَلَتَنَٰزَعۡتُمۡ فِي ٱلۡأَمۡرِ وَلَٰكِنَّ ٱللَّهَ سَلَّمَۚ
+  إِنَّهُۥ عَلِيمُۢ بِذَاتِ ٱلصُّدُورِ
 sentence_translation: ˹Remember, O  Prophet,˺ when Allah showed them in your dream
   as few in number. Had He shown them to you as many, you ˹believers˺ would have certainly
   faltered and disputed in the matter. But Allah spared you ˹from that˺. Surely He
   knows best what is ˹hidden˺ in the heart.
 word_by_word:
   1:
-    arabic: اِذۡ
+    arabic: إِذۡ
     translation: When
     transliteration: idh
   2:
-    arabic: يُرِيۡكَهُمُ
+    arabic: يُرِيكَهُمُ
     translation: you (where) shown them
     transliteration: yurīkahumu
   3:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: (by) Allah
     transliteration: l-lahu
   4:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   5:
@@ -28,55 +28,55 @@ word_by_word:
     translation: your dream
     transliteration: manāmika
   6:
-    arabic: قَلِيۡلًا ؕ
+    arabic: قَلِيلٗاۖ
     translation: (as) few
     transliteration: qalīlan
   7:
-    arabic: وَّلَوۡ
+    arabic: وَلَوۡ
     translation: and if
     transliteration: walaw
   8:
-    arabic: اَرٰٮكَهُمۡ
+    arabic: أَرَىٰكَهُمۡ
     translation: He had shown them to you
     transliteration: arākahum
   9:
-    arabic: كَثِيۡرًا
+    arabic: كَثِيرٗا
     translation: (as) many
     transliteration: kathīran
   10:
-    arabic: لَّـفَشِلۡـتُمۡ
+    arabic: لَّفَشِلۡتُمۡ
     translation: surely you would have lost courage
     transliteration: lafashil'tum
   11:
-    arabic: وَلَـتَـنَازَعۡتُمۡ
+    arabic: وَلَتَنَٰزَعۡتُمۡ
     translation: and surely you would have disputed
     transliteration: walatanāzaʿtum
   12:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   13:
-    arabic: الۡاَمۡرِ
+    arabic: ٱلۡأَمۡرِ
     translation: the matter
     transliteration: l-amri
   14:
-    arabic: وَلٰـكِنَّ
+    arabic: وَلَٰكِنَّ
     translation: but
     transliteration: walākinna
   15:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   16:
-    arabic: سَلَّمَ​ؕ
+    arabic: سَلَّمَۚ
     translation: saved (you)
     transliteration: sallama
   17:
-    arabic: اِنَّهٗ
+    arabic: إِنَّهُۥ
     translation: Indeed, He
     transliteration: innahu
   18:
-    arabic: عَلِيۡمٌۢ
+    arabic: عَلِيمُۢ
     translation: (is) All-Knower
     transliteration: ʿalīmun
   19:
@@ -84,7 +84,7 @@ word_by_word:
     translation: of what is in
     transliteration: bidhāti
   20:
-    arabic: الصُّدُوۡرِ‏
+    arabic: ٱلصُّدُورِ
     translation: the breasts
     transliteration: l-ṣudūri
 ---

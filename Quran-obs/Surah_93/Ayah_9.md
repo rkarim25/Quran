@@ -1,13 +1,13 @@
 ---
-arabic_ayat: فَاَمَّا الۡيَتِيۡمَ فَلَا تَقۡهَرۡؕ‏
+arabic_ayat: فَأَمَّا ٱلۡيَتِيمَ فَلَا تَقۡهَرۡ
 sentence_translation: So do not oppress the orphan,
 word_by_word:
   1:
-    arabic: فَاَمَّا
+    arabic: فَأَمَّا
     translation: So as for
     transliteration: fa-ammā
   2:
-    arabic: الۡيَتِيۡمَ
+    arabic: ٱلۡيَتِيمَ
     translation: the orphan
     transliteration: l-yatīma
   3:
@@ -15,7 +15,7 @@ word_by_word:
     translation: then (do) not
     transliteration: falā
   4:
-    arabic: تَقۡهَرۡؕ‏
+    arabic: تَقۡهَرۡ
     translation: oppress
     transliteration: taqhar
 ---

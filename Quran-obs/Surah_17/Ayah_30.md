@@ -1,11 +1,11 @@
 ---
-arabic_ayat: اِنَّ رَبَّكَ يَبۡسُطُ الرِّزۡقَ لِمَنۡ يَّشَآءُ وَيَقۡدِرُ​ؕ اِنَّهٗ
-  كَانَ بِعِبَادِهٖ خَبِيۡرًۢا بَصِيۡرًا‏
+arabic_ayat: إِنَّ رَبَّكَ يَبۡسُطُ ٱلرِّزۡقَ لِمَن يَشَآءُ وَيَقۡدِرُۚ إِنَّهُۥ
+  كَانَ بِعِبَادِهِۦ خَبِيرَۢا بَصِيرٗا
 sentence_translation: Surely your Lord gives abundant or limited provisions to whoever
   He wills. He is certainly All-Aware, All-Seeing of His servants.
 word_by_word:
   1:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   2:
@@ -17,23 +17,23 @@ word_by_word:
     translation: extends
     transliteration: yabsuṭu
   4:
-    arabic: الرِّزۡقَ
+    arabic: ٱلرِّزۡقَ
     translation: the provision
     transliteration: l-riz'qa
   5:
-    arabic: لِمَنۡ
+    arabic: لِمَن
     translation: for whom
     transliteration: liman
   6:
-    arabic: يَّشَآءُ
+    arabic: يَشَآءُ
     translation: He wills
     transliteration: yashāu
   7:
-    arabic: وَيَقۡدِرُ​ؕ
+    arabic: وَيَقۡدِرُۚ
     translation: and straitens
     transliteration: wayaqdiru
   8:
-    arabic: اِنَّهٗ
+    arabic: إِنَّهُۥ
     translation: Indeed, He
     transliteration: innahu
   9:
@@ -41,15 +41,15 @@ word_by_word:
     translation: is
     transliteration: kāna
   10:
-    arabic: بِعِبَادِهٖ
+    arabic: بِعِبَادِهِۦ
     translation: of His slaves
     transliteration: biʿibādihi
   11:
-    arabic: خَبِيۡرًۢا
+    arabic: خَبِيرَۢا
     translation: All-Aware
     transliteration: khabīran
   12:
-    arabic: بَصِيۡرًا‏
+    arabic: بَصِيرٗا
     translation: All-Seer
     transliteration: baṣīran
 ---

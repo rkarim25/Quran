@@ -1,41 +1,41 @@
 ---
-arabic_ayat: كَدَاۡبِ اٰلِ فِرۡعَوۡنَ​ۙ وَالَّذِيۡنَ مِنۡ قَبۡلِهِمۡ​ؕ كَذَّبُوۡا
-  بِاٰيٰتِ رَبِّهِمۡ فَاَهۡلَكۡنٰهُمۡ بِذُنُوۡبِهِمۡ وَاَغۡرَقۡنَاۤ اٰلَ فِرۡعَوۡنَ​ۚ
-  وَكُلٌّ كَانُوۡا ظٰلِمِيۡنَ‏
+arabic_ayat: كَدَأۡبِ ءَالِ فِرۡعَوۡنَ وَٱلَّذِينَ مِن قَبۡلِهِمۡۚ كَذَّبُواْ بِـَٔايَٰتِ
+  رَبِّهِمۡ فَأَهۡلَكۡنَٰهُم بِذُنُوبِهِمۡ وَأَغۡرَقۡنَآ ءَالَ فِرۡعَوۡنَۚ وَكُلّٞ
+  كَانُواْ ظَٰلِمِينَ
 sentence_translation: That was the case with Pharaoh’s people and those before them—they
   all rejected the signs of their Lord, so We destroyed them for their sins and drowned
   Pharaoh’s people. They were all wrongdoers.
 word_by_word:
   1:
-    arabic: كَدَاۡبِ
+    arabic: كَدَأۡبِ ءَ
     translation: Like (the) way
     transliteration: kadabi
   2:
-    arabic: اٰلِ
+    arabic: الِ
     translation: (of) people
     transliteration: āli
   3:
-    arabic: فِرۡعَوۡنَ​ۙ
+    arabic: فِرۡعَوۡنَ
     translation: (of) Firaun
     transliteration: fir'ʿawna
   4:
-    arabic: وَالَّذِيۡنَ
+    arabic: وَٱلَّذِينَ
     translation: and those who
     transliteration: wa-alladhīna
   5:
-    arabic: مِنۡ
+    arabic: مِن
     translation: (were) from
     transliteration: min
   6:
-    arabic: قَبۡلِهِمۡ​ؕ
+    arabic: قَبۡلِهِمۡۚ
     translation: before them
     transliteration: qablihim
   7:
-    arabic: كَذَّبُوۡا
+    arabic: كَذَّبُواْ
     translation: They denied
     transliteration: kadhabū
   8:
-    arabic: بِاٰيٰتِ
+    arabic: بِـَٔايَٰتِ
     translation: (the) Signs
     transliteration: biāyāti
   9:
@@ -43,35 +43,35 @@ word_by_word:
     translation: (of) their Lord
     transliteration: rabbihim
   10:
-    arabic: فَاَهۡلَكۡنٰهُمۡ
+    arabic: فَأَهۡلَكۡنَٰهُم
     translation: so We destroyed them
     transliteration: fa-ahlaknāhum
   11:
-    arabic: بِذُنُوۡبِهِمۡ
+    arabic: بِذُنُوبِهِمۡ
     translation: for their sins
     transliteration: bidhunūbihim
   12:
-    arabic: وَاَغۡرَقۡنَاۤ
+    arabic: وَأَغۡرَقۡنَآ ءَ
     translation: and We drowned
     transliteration: wa-aghraqnā
   13:
-    arabic: اٰلَ
+    arabic: الَ
     translation: (the) people
     transliteration: āla
   14:
-    arabic: فِرۡعَوۡنَ​ۚ
+    arabic: فِرۡعَوۡنَۚ
     translation: (of) Firaun
     transliteration: fir'ʿawna
   15:
-    arabic: وَكُلٌّ
+    arabic: وَكُلّٞ
     translation: and (they) all
     transliteration: wakullun
   16:
-    arabic: كَانُوۡا
+    arabic: كَانُواْ
     translation: were
     transliteration: kānū
   17:
-    arabic: ظٰلِمِيۡنَ‏
+    arabic: ظَٰلِمِينَ
     translation: wrongdoers
     transliteration: ẓālimīna
 ---

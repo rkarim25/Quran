@@ -1,15 +1,15 @@
 ---
-arabic_ayat: يَوۡمَ تَاۡتِىۡ كُلُّ نَفۡسٍ تُجَادِلُ عَنۡ نَّفۡسِهَا وَتُوَفّٰى كُلُّ
-  نَفۡسٍ مَّا عَمِلَتۡ وَهُمۡ لَا يُظۡلَمُوۡنَ‏
+arabic_ayat: ۞ يَوۡمَ تَأۡتِي كُلُّ نَفۡسٖ تُجَٰدِلُ عَن نَّفۡسِهَا وَتُوَفَّىٰ كُلُّ
+  نَفۡسٖ مَّا عَمِلَتۡ وَهُمۡ لَا يُظۡلَمُونَ
 sentence_translation: ˹Consider˺ the Day ˹when˺ every soul will come pleading for
   itself, and each will be paid in full for what it did, and none will be wronged.
 word_by_word:
   1:
-    arabic: ۞ يَوۡمَ
+    arabic: ۞ يَوۡمَ
     translation: (On) the Day
     transliteration: yawma
   2:
-    arabic: تَاۡتِىۡ
+    arabic: تَأۡتِي
     translation: (when) will come
     transliteration: tatī
   3:
@@ -17,15 +17,15 @@ word_by_word:
     translation: every
     transliteration: kullu
   4:
-    arabic: نَفۡسٍ
+    arabic: نَفۡسٖ
     translation: soul
     transliteration: nafsin
   5:
-    arabic: تُجَادِلُ
+    arabic: تُجَٰدِلُ
     translation: pleading
     transliteration: tujādilu
   6:
-    arabic: عَنۡ
+    arabic: عَن
     translation: for
     transliteration: ʿan
   7:
@@ -33,7 +33,7 @@ word_by_word:
     translation: itself
     transliteration: nafsihā
   8:
-    arabic: وَتُوَفّٰى
+    arabic: وَتُوَفَّىٰ
     translation: and will be paid in full
     transliteration: watuwaffā
   9:
@@ -41,7 +41,7 @@ word_by_word:
     translation: every
     transliteration: kullu
   10:
-    arabic: نَفۡسٍ
+    arabic: نَفۡسٖ
     translation: soul
     transliteration: nafsin
   11:
@@ -61,7 +61,7 @@ word_by_word:
     translation: (will) not
     transliteration: lā
   15:
-    arabic: يُظۡلَمُوۡنَ‏
+    arabic: يُظۡلَمُونَ
     translation: be wronged
     transliteration: yuẓ'lamūna
 ---

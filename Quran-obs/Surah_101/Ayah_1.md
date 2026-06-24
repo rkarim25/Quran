@@ -1,9 +1,9 @@
 ---
-arabic_ayat: اَلۡقَارِعَةُ ۙ‏
+arabic_ayat: ٱلۡقَارِعَةُ
 sentence_translation: The Striking Disaster!
 word_by_word:
   1:
-    arabic: اَلۡقَارِعَةُ ۙ‏
+    arabic: ٱلۡقَارِعَةُ
     translation: The Striking Calamity
     transliteration: al-qāriʿatu
 ---

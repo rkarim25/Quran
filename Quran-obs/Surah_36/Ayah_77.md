@@ -1,11 +1,11 @@
 ---
-arabic_ayat: اَوَلَمۡ يَرَ الۡاِنۡسَانُ اَنَّا خَلَقۡنٰهُ مِنۡ نُّطۡفَةٍ فَاِذَا هُوَ
-  خَصِيۡمٌ مُّبِيۡنٌ‏
+arabic_ayat: أَوَلَمۡ يَرَ ٱلۡإِنسَٰنُ أَنَّا خَلَقۡنَٰهُ مِن نُّطۡفَةٖ فَإِذَا هُوَ
+  خَصِيمٞ مُّبِينٞ
 sentence_translation: Do people not see that We have created them from a sperm-drop,
   then—behold!—they openly challenge ˹Us˺?
 word_by_word:
   1:
-    arabic: اَوَلَمۡ
+    arabic: أَوَلَمۡ
     translation: Does not
     transliteration: awalam
   2:
@@ -13,27 +13,27 @@ word_by_word:
     translation: see
     transliteration: yara
   3:
-    arabic: الۡاِنۡسَانُ
+    arabic: ٱلۡإِنسَٰنُ
     translation: '[the] man'
     transliteration: l-insānu
   4:
-    arabic: اَنَّا
+    arabic: أَنَّا
     translation: that We
     transliteration: annā
   5:
-    arabic: خَلَقۡنٰهُ
+    arabic: خَلَقۡنَٰهُ
     translation: '[We] created him'
     transliteration: khalaqnāhu
   6:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   7:
-    arabic: نُّطۡفَةٍ
+    arabic: نُّطۡفَةٖ
     translation: a semen-drop
     transliteration: nuṭ'fatin
   8:
-    arabic: فَاِذَا
+    arabic: فَإِذَا
     translation: Then behold
     transliteration: fa-idhā
   9:
@@ -41,11 +41,11 @@ word_by_word:
     translation: He
     transliteration: huwa
   10:
-    arabic: خَصِيۡمٌ
+    arabic: خَصِيمٞ
     translation: (is) an opponent
     transliteration: khaṣīmun
   11:
-    arabic: مُّبِيۡنٌ‏
+    arabic: مُّبِينٞ
     translation: clear
     transliteration: mubīnun
 ---

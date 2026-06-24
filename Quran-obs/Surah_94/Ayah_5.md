@@ -1,9 +1,9 @@
 ---
-arabic_ayat: فَاِنَّ مَعَ الۡعُسۡرِ يُسۡرًا ۙ‏
+arabic_ayat: فَإِنَّ مَعَ ٱلۡعُسۡرِ يُسۡرًا
 sentence_translation: So, surely with hardship comes ease.
 word_by_word:
   1:
-    arabic: فَاِنَّ
+    arabic: فَإِنَّ
     translation: So indeed
     transliteration: fa-inna
   2:
@@ -11,11 +11,11 @@ word_by_word:
     translation: with
     transliteration: maʿa
   3:
-    arabic: الۡعُسۡرِ
+    arabic: ٱلۡعُسۡرِ
     translation: the hardship
     transliteration: l-ʿus'ri
   4:
-    arabic: يُسۡرًا ۙ‏
+    arabic: يُسۡرًا
     translation: (is) ease
     transliteration: yus'ran
 ---

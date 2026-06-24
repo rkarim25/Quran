@@ -1,15 +1,15 @@
 ---
-arabic_ayat: اِنَّ الَّذِيۡنَ لَا يُؤۡمِنُوۡنَ بِالۡاٰخِرَةِ لَيُسَمُّوۡنَ الۡمَلٰٓٮِٕكَةَ
-  تَسۡمِيَةَ الۡاُنۡثٰى‏
+arabic_ayat: إِنَّ ٱلَّذِينَ لَا يُؤۡمِنُونَ بِٱلۡأٓخِرَةِ لَيُسَمُّونَ ٱلۡمَلَٰٓئِكَةَ
+  تَسۡمِيَةَ ٱلۡأُنثَىٰ
 sentence_translation: Indeed, those who do not believe in the Hereafter label angels
   as female,
 word_by_word:
   1:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   3:
@@ -17,19 +17,19 @@ word_by_word:
     translation: (do) not
     transliteration: lā
   4:
-    arabic: يُؤۡمِنُوۡنَ
+    arabic: يُؤۡمِنُونَ
     translation: believe
     transliteration: yu'minūna
   5:
-    arabic: بِالۡاٰخِرَةِ
+    arabic: بِٱلۡأٓخِرَةِ
     translation: in the Hereafter
     transliteration: bil-ākhirati
   6:
-    arabic: لَيُسَمُّوۡنَ
+    arabic: لَيُسَمُّونَ
     translation: surely they name
     transliteration: layusammūna
   7:
-    arabic: الۡمَلٰٓٮِٕكَةَ
+    arabic: ٱلۡمَلَٰٓئِكَةَ
     translation: the Angels
     transliteration: l-malāikata
   8:
@@ -37,7 +37,7 @@ word_by_word:
     translation: name(s)
     transliteration: tasmiyata
   9:
-    arabic: الۡاُنۡثٰى‏
+    arabic: ٱلۡأُنثَىٰ
     translation: (of) female
     transliteration: l-unthā
 ---

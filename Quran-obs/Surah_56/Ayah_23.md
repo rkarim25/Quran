@@ -1,17 +1,17 @@
 ---
-arabic_ayat: كَاَمۡثَالِ اللُّـؤۡلُـوٴِالۡمَكۡنُوۡنِ​ۚ‏
+arabic_ayat: كَأَمۡثَٰلِ ٱللُّؤۡلُوِٕ ٱلۡمَكۡنُونِ
 sentence_translation: like pristine pearls,
 word_by_word:
   1:
-    arabic: كَاَمۡثَالِ
+    arabic: كَأَمۡثَٰلِ
     translation: Like
     transliteration: ka-amthāli
   2:
-    arabic: اللُّـؤۡلُـوٴِ
+    arabic: ٱللُّؤۡلُوِٕ
     translation: pearls
     transliteration: l-lu'lu-i
   3:
-    arabic: الۡمَكۡنُوۡنِ​ۚ‏
+    arabic: ٱلۡمَكۡنُونِ
     translation: well-protected
     transliteration: l-maknūni
 ---

@@ -1,19 +1,19 @@
 ---
-arabic_ayat: وَلَٮِٕنۡ اَذَقۡنٰهُ نَـعۡمَآءَ بَعۡدَ ضَرَّآءَ مَسَّتۡهُ لَيَـقُوۡلَنَّ
-  ذَهَبَ السَّيِّاٰتُ عَنِّىۡ​ ؕ اِنَّهٗ لَـفَرِحٌ فَخُوۡرٌۙ‏
+arabic_ayat: وَلَئِنۡ أَذَقۡنَٰهُ نَعۡمَآءَ بَعۡدَ ضَرَّآءَ مَسَّتۡهُ لَيَقُولَنَّ
+  ذَهَبَ ٱلسَّيِّـَٔاتُ عَنِّيٓۚ إِنَّهُۥ لَفَرِحٞ فَخُورٌ
 sentence_translation: But if We give them a taste of prosperity after being touched
   with adversity, they say, “My ills are gone,” and become totally prideful and boastful,
 word_by_word:
   1:
-    arabic: وَلَٮِٕنۡ
+    arabic: وَلَئِنۡ
     translation: But if
     transliteration: wala-in
   2:
-    arabic: اَذَقۡنٰهُ
+    arabic: أَذَقۡنَٰهُ
     translation: We give him a taste
     transliteration: adhaqnāhu
   3:
-    arabic: نَـعۡمَآءَ
+    arabic: نَعۡمَآءَ
     translation: (of) favor
     transliteration: naʿmāa
   4:
@@ -29,7 +29,7 @@ word_by_word:
     translation: (has) touched him
     transliteration: massathu
   7:
-    arabic: لَيَـقُوۡلَنَّ
+    arabic: لَيَقُولَنَّ
     translation: surely, he will say
     transliteration: layaqūlanna
   8:
@@ -37,23 +37,23 @@ word_by_word:
     translation: Have gone
     transliteration: dhahaba
   9:
-    arabic: السَّيِّاٰتُ
+    arabic: ٱلسَّيِّـَٔاتُ
     translation: the evils
     transliteration: l-sayiātu
   10:
-    arabic: عَنِّىۡ​ ؕ
+    arabic: عَنِّيٓۚ
     translation: from me
     transliteration: ʿannī
   11:
-    arabic: اِنَّهٗ
+    arabic: إِنَّهُۥ
     translation: Indeed, he
     transliteration: innahu
   12:
-    arabic: لَـفَرِحٌ
+    arabic: لَفَرِحٞ
     translation: (is) exultant
     transliteration: lafariḥun
   13:
-    arabic: فَخُوۡرٌۙ‏
+    arabic: فَخُورٌ
     translation: (and) boastful
     transliteration: fakhūrun
 ---

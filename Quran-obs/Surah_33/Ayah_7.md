@@ -1,17 +1,17 @@
 ---
-arabic_ayat: "وَاِذۡ اَخَذۡنَا مِنَ النَّبِيّٖنَ مِيۡثَاقَهُمۡ وَمِنۡكَ وَمِنۡ نُّوۡحٍ\
-  \ وَّاِبۡرٰهِيۡمَ وَمُوۡسٰى وَعِيۡسَى ابۡنِ مَرۡيَمَ وَاَخَذۡنَا مِنۡهُمۡ مِّيۡثاقًا\
-  \ غَلِيۡظًا ۙ‏ \uFEFF\uFEFF"
+arabic_ayat: وَإِذۡ أَخَذۡنَا مِنَ ٱلنَّبِيِّـۧنَ مِيثَٰقَهُمۡ وَمِنكَ وَمِن نُّوحٖ
+  وَإِبۡرَٰهِيمَ وَمُوسَىٰ وَعِيسَى ٱبۡنِ مَرۡيَمَۖ وَأَخَذۡنَا مِنۡهُم مِّيثَٰقًا
+  غَلِيظٗا
 sentence_translation: And ˹remember˺ when We took a covenant from the prophets, as
   well as from you ˹O Prophet˺, and from Noah, Abraham, Moses, and Jesus, son of Mary.
   We did take a solemn covenant from ˹all of˺ them
 word_by_word:
   1:
-    arabic: وَاِذۡ
+    arabic: وَإِذۡ
     translation: And when
     transliteration: wa-idh
   2:
-    arabic: اَخَذۡنَا
+    arabic: أَخَذۡنَا
     translation: We took
     transliteration: akhadhnā
   3:
@@ -19,59 +19,59 @@ word_by_word:
     translation: from
     transliteration: mina
   4:
-    arabic: النَّبِيّٖنَ
+    arabic: ٱلنَّبِيِّـۧنَ
     translation: the Prophets
     transliteration: l-nabiyīna
   5:
-    arabic: مِيۡثَاقَهُمۡ
+    arabic: مِيثَٰقَهُمۡ
     translation: their Covenant
     transliteration: mīthāqahum
   6:
-    arabic: وَمِنۡكَ
+    arabic: وَمِنكَ
     translation: and from you
     transliteration: waminka
   7:
-    arabic: وَمِنۡ
+    arabic: وَمِن
     translation: and from
     transliteration: wamin
   8:
-    arabic: نُّوۡحٍ
+    arabic: نُّوحٖ
     translation: Nuh
     transliteration: nūḥin
   9:
-    arabic: وَّاِبۡرٰهِيۡمَ
+    arabic: وَإِبۡرَٰهِيمَ
     translation: and Ibrahim
     transliteration: wa-ib'rāhīma
   10:
-    arabic: وَمُوۡسٰى
+    arabic: وَمُوسَىٰ
     translation: and Musa
     transliteration: wamūsā
   11:
-    arabic: وَعِيۡسَى
+    arabic: وَعِيسَى
     translation: and Isa
     transliteration: waʿīsā
   12:
-    arabic: ابۡنِ
+    arabic: ٱبۡنِ
     translation: son
     transliteration: ib'ni
   13:
-    arabic: مَرۡيَمَ
+    arabic: مَرۡيَمَۖ
     translation: (of) Maryam
     transliteration: maryama
   14:
-    arabic: وَاَخَذۡنَا
+    arabic: وَأَخَذۡنَا
     translation: And We took
     transliteration: wa-akhadhnā
   15:
-    arabic: مِنۡهُمۡ
+    arabic: مِنۡهُم
     translation: from them
     transliteration: min'hum
   16:
-    arabic: مِّيۡثاقًا
+    arabic: مِّيثَٰقًا
     translation: a covenant
     transliteration: mīthāqan
   17:
-    arabic: "غَلِيۡظًا ۙ‏ \uFEFF\uFEFF"
+    arabic: غَلِيظٗا
     translation: strong
     transliteration: ghalīẓan
 ---

@@ -1,8 +1,8 @@
 ---
-arabic_ayat: اِنۡ تَكۡفُرُوۡا فَاِنَّ اللّٰهَ غَنِىٌّ عَنۡكُمۡ​ وَلَا يَرۡضٰى لِعِبَادِهِ
-  الۡـكُفۡرَ​ ۚ وَاِنۡ تَشۡكُرُوۡا يَرۡضَهُ لَـكُمۡ​ ؕ وَلَا تَزِرُ وَازِرَةٌ وِّزۡرَ
-  اُخۡرٰى​ ؕ ثُمَّ اِلٰى رَبِّكُمۡ مَّرۡجِعُكُمۡ فَيُنَبِّئُكُمۡ بِمَا كُنۡتُمۡ تَعۡمَلُوۡنَ​
-  ؕ اِنَّهٗ عَلِيۡمٌۢ بِذَاتِ الصُّدُوۡرِ‏
+arabic_ayat: إِن تَكۡفُرُواْ فَإِنَّ ٱللَّهَ غَنِيٌّ عَنكُمۡۖ وَلَا يَرۡضَىٰ لِعِبَادِهِ
+  ٱلۡكُفۡرَۖ وَإِن تَشۡكُرُواْ يَرۡضَهُ لَكُمۡۗ وَلَا تَزِرُ وَازِرَةٞ وِزۡرَ أُخۡرَىٰۚ
+  ثُمَّ إِلَىٰ رَبِّكُم مَّرۡجِعُكُمۡ فَيُنَبِّئُكُم بِمَا كُنتُمۡ تَعۡمَلُونَۚ إِنَّهُۥ
+  عَلِيمُۢ بِذَاتِ ٱلصُّدُورِ
 sentence_translation: If you disbelieve, then ˹know that˺ Allah is truly not in need
   of you, nor does He approve of disbelief from His servants. But if you become grateful
   ˹through faith˺, He will appreciate that from you. No soul burdened with sin will
@@ -10,27 +10,27 @@ sentence_translation: If you disbelieve, then ˹know that˺ Allah is truly not i
   you of what you used to do. He certainly knows best what is ˹hidden˺ in the heart.
 word_by_word:
   1:
-    arabic: اِنۡ
+    arabic: إِن
     translation: If
     transliteration: in
   2:
-    arabic: تَكۡفُرُوۡا
+    arabic: تَكۡفُرُواْ
     translation: you disbelieve
     transliteration: takfurū
   3:
-    arabic: فَاِنَّ
+    arabic: فَإِنَّ
     translation: then indeed
     transliteration: fa-inna
   4:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   5:
-    arabic: غَنِىٌّ
+    arabic: غَنِيٌّ
     translation: (is) free from need
     transliteration: ghaniyyun
   6:
-    arabic: عَنۡكُمۡ​
+    arabic: عَنكُمۡۖ
     translation: of you
     transliteration: ʿankum
   7:
@@ -38,7 +38,7 @@ word_by_word:
     translation: And not
     transliteration: walā
   8:
-    arabic: يَرۡضٰى
+    arabic: يَرۡضَىٰ
     translation: He likes
     transliteration: yarḍā
   9:
@@ -46,15 +46,15 @@ word_by_word:
     translation: in His slaves
     transliteration: liʿibādihi
   10:
-    arabic: الۡـكُفۡرَ​ ۚ
+    arabic: ٱلۡكُفۡرَۖ
     translation: ungratefulness
     transliteration: l-kuf'ra
   11:
-    arabic: وَاِنۡ
+    arabic: وَإِن
     translation: And if
     transliteration: wa-in
   12:
-    arabic: تَشۡكُرُوۡا
+    arabic: تَشۡكُرُواْ
     translation: you are grateful
     transliteration: tashkurū
   13:
@@ -62,7 +62,7 @@ word_by_word:
     translation: He likes it
     transliteration: yarḍahu
   14:
-    arabic: لَـكُمۡ​ ؕ
+    arabic: لَكُمۡۗ
     translation: in you
     transliteration: lakum
   15:
@@ -74,15 +74,15 @@ word_by_word:
     translation: will bear
     transliteration: taziru
   17:
-    arabic: وَازِرَةٌ
+    arabic: وَازِرَةٞ
     translation: bearer of burdens
     transliteration: wāziratun
   18:
-    arabic: وِّزۡرَ
+    arabic: وِزۡرَ
     translation: (the) burden
     transliteration: wiz'ra
   19:
-    arabic: اُخۡرٰى​ ؕ
+    arabic: أُخۡرَىٰۚ
     translation: (of) another
     transliteration: ukh'rā
   20:
@@ -90,11 +90,11 @@ word_by_word:
     translation: Then
     transliteration: thumma
   21:
-    arabic: اِلٰى
+    arabic: إِلَىٰ
     translation: to
     transliteration: ilā
   22:
-    arabic: رَبِّكُمۡ
+    arabic: رَبِّكُم
     translation: your Lord
     transliteration: rabbikum
   23:
@@ -102,7 +102,7 @@ word_by_word:
     translation: (is) your return
     transliteration: marjiʿukum
   24:
-    arabic: فَيُنَبِّئُكُمۡ
+    arabic: فَيُنَبِّئُكُم
     translation: then He will inform you
     transliteration: fayunabbi-ukum
   25:
@@ -110,19 +110,19 @@ word_by_word:
     translation: about what
     transliteration: bimā
   26:
-    arabic: كُنۡتُمۡ
+    arabic: كُنتُمۡ
     translation: you used to
     transliteration: kuntum
   27:
-    arabic: تَعۡمَلُوۡنَ​ ؕ
+    arabic: تَعۡمَلُونَۚ
     translation: do
     transliteration: taʿmalūna
   28:
-    arabic: اِنَّهٗ
+    arabic: إِنَّهُۥ
     translation: Indeed, He
     transliteration: innahu
   29:
-    arabic: عَلِيۡمٌۢ
+    arabic: عَلِيمُۢ
     translation: (is) the All-Knower
     transliteration: ʿalīmun
   30:
@@ -130,7 +130,7 @@ word_by_word:
     translation: of what (is) in the breasts
     transliteration: bidhāti
   31:
-    arabic: الصُّدُوۡرِ‏
+    arabic: ٱلصُّدُورِ
     translation: of what (is) in the breasts
     transliteration: l-ṣudūri
 ---

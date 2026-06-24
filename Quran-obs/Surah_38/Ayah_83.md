@@ -1,9 +1,9 @@
 ---
-arabic_ayat: اِلَّا عِبَادَكَ مِنۡهُمُ الۡمُخۡلَصِيۡنَ‏
+arabic_ayat: إِلَّا عِبَادَكَ مِنۡهُمُ ٱلۡمُخۡلَصِينَ
 sentence_translation: except Your chosen servants among them.”
 word_by_word:
   1:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: Except
     transliteration: illā
   2:
@@ -15,7 +15,7 @@ word_by_word:
     translation: among them
     transliteration: min'humu
   4:
-    arabic: الۡمُخۡلَصِيۡنَ‏
+    arabic: ٱلۡمُخۡلَصِينَ
     translation: the chosen ones
     transliteration: l-mukh'laṣīna
 ---

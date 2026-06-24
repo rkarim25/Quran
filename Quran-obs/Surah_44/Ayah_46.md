@@ -1,13 +1,13 @@
 ---
-arabic_ayat: كَغَلۡىِ الۡحَمِيۡمِ‏
+arabic_ayat: كَغَلۡيِ ٱلۡحَمِيمِ
 sentence_translation: like the boiling of hot water.
 word_by_word:
   1:
-    arabic: كَغَلۡىِ
+    arabic: كَغَلۡيِ
     translation: Like boiling
     transliteration: kaghalyi
   2:
-    arabic: الۡحَمِيۡمِ‏
+    arabic: ٱلۡحَمِيمِ
     translation: (of) scalding water
     transliteration: l-ḥamīmi
 ---

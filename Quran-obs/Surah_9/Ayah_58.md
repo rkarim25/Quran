@@ -1,36 +1,36 @@
 ---
-arabic_ayat: وَمِنۡهُمۡ مَّنۡ يَّلۡمِزُكَ فِى الصَّدَقٰتِ​ ۚ فَاِنۡ اُعۡطُوۡا مِنۡهَا
-  رَضُوۡا وَاِنۡ لَّمۡ يُعۡطَوۡا مِنۡهَاۤ اِذَا هُمۡ يَسۡخَطُوۡنَ‏
+arabic_ayat: وَمِنۡهُم مَّن يَلۡمِزُكَ فِي ٱلصَّدَقَٰتِ فَإِنۡ أُعۡطُواْ مِنۡهَا رَضُواْ
+  وَإِن لَّمۡ يُعۡطَوۡاْ مِنۡهَآ إِذَا هُمۡ يَسۡخَطُونَ
 sentence_translation: There are some of them who are critical of your distribution
   of alms ˹O Prophet˺. If they are given some of it they are pleased, but if not they
   are enraged.
 word_by_word:
   1:
-    arabic: وَمِنۡهُمۡ
+    arabic: وَمِنۡهُم
     translation: And among them
     transliteration: wamin'hum
   2:
-    arabic: مَّنۡ
+    arabic: مَّن
     translation: (is he) who
     transliteration: man
   3:
-    arabic: يَّلۡمِزُكَ
+    arabic: يَلۡمِزُكَ
     translation: criticizes you
     transliteration: yalmizuka
   4:
-    arabic: فِى
+    arabic: فِي
     translation: concerning
     transliteration: fī
   5:
-    arabic: الصَّدَقٰتِ​ ۚ
+    arabic: ٱلصَّدَقَٰتِ
     translation: the charities
     transliteration: l-ṣadaqāti
   6:
-    arabic: فَاِنۡ
+    arabic: فَإِنۡ
     translation: Then if
     transliteration: fa-in
   7:
-    arabic: اُعۡطُوۡا
+    arabic: أُعۡطُواْ
     translation: they are given
     transliteration: uʿ'ṭū
   8:
@@ -38,11 +38,11 @@ word_by_word:
     translation: from it
     transliteration: min'hā
   9:
-    arabic: رَضُوۡا
+    arabic: رَضُواْ
     translation: they are pleased
     transliteration: raḍū
   10:
-    arabic: وَاِنۡ
+    arabic: وَإِن
     translation: but if
     transliteration: wa-in
   11:
@@ -50,15 +50,15 @@ word_by_word:
     translation: not
     transliteration: lam
   12:
-    arabic: يُعۡطَوۡا
+    arabic: يُعۡطَوۡاْ
     translation: they are given
     transliteration: yuʿ'ṭaw
   13:
-    arabic: مِنۡهَاۤ
+    arabic: مِنۡهَآ
     translation: from it
     transliteration: min'hā
   14:
-    arabic: اِذَا
+    arabic: إِذَا
     translation: then
     transliteration: idhā
   15:
@@ -66,7 +66,7 @@ word_by_word:
     translation: they
     transliteration: hum
   16:
-    arabic: يَسۡخَطُوۡنَ‏
+    arabic: يَسۡخَطُونَ
     translation: (are) enraged
     transliteration: yaskhaṭūna
 ---

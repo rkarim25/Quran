@@ -1,15 +1,15 @@
 ---
-arabic_ayat: حَتّٰٓى اِذَا بَلَغَ بَيۡنَ السَّدَّيۡنِ وَجَدَ مِنۡ دُوۡنِهِمَا قَوۡمًا
-  ۙ لَّا يَكَادُوۡنَ يَفۡقَهُوۡنَ قَوۡلًا‏
+arabic_ayat: حَتَّىٰٓ إِذَا بَلَغَ بَيۡنَ ٱلسَّدَّيۡنِ وَجَدَ مِن دُونِهِمَا قَوۡمٗا
+  لَّا يَكَادُونَ يَفۡقَهُونَ قَوۡلٗا
 sentence_translation: until he reached ˹a pass˺ between two mountains. He found in
   front of them a people who could hardly understand ˹his˺ language.
 word_by_word:
   1:
-    arabic: حَتّٰٓى
+    arabic: حَتَّىٰٓ
     translation: Until
     transliteration: ḥattā
   2:
-    arabic: اِذَا
+    arabic: إِذَا
     translation: when
     transliteration: idhā
   3:
@@ -21,7 +21,7 @@ word_by_word:
     translation: between
     transliteration: bayna
   5:
-    arabic: السَّدَّيۡنِ
+    arabic: ٱلسَّدَّيۡنِ
     translation: the two mountains
     transliteration: l-sadayni
   6:
@@ -29,15 +29,15 @@ word_by_word:
     translation: he found
     transliteration: wajada
   7:
-    arabic: مِنۡ
+    arabic: مِن
     translation: besides them
     transliteration: min
   8:
-    arabic: دُوۡنِهِمَا
+    arabic: دُونِهِمَا
     translation: besides them
     transliteration: dūnihimā
   9:
-    arabic: قَوۡمًا ۙ
+    arabic: قَوۡمٗا
     translation: a community
     transliteration: qawman
   10:
@@ -45,15 +45,15 @@ word_by_word:
     translation: not
     transliteration: lā
   11:
-    arabic: يَكَادُوۡنَ
+    arabic: يَكَادُونَ
     translation: who would almost
     transliteration: yakādūna
   12:
-    arabic: يَفۡقَهُوۡنَ
+    arabic: يَفۡقَهُونَ
     translation: understand
     transliteration: yafqahūna
   13:
-    arabic: قَوۡلًا‏
+    arabic: قَوۡلٗا
     translation: (his) speech
     transliteration: qawlan
 ---

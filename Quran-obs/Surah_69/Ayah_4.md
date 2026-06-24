@@ -1,5 +1,5 @@
 ---
-arabic_ayat: كَذَّبَتۡ ثَمُوۡدُ وَعَادٌۢ بِالۡقَارِعَةِ‏
+arabic_ayat: كَذَّبَتۡ ثَمُودُ وَعَادُۢ بِٱلۡقَارِعَةِ
 sentence_translation: ˹Both˺ Thamûd and ’Ȃd denied the Striking Disaster.
 word_by_word:
   1:
@@ -7,15 +7,15 @@ word_by_word:
     translation: Denied
     transliteration: kadhabat
   2:
-    arabic: ثَمُوۡدُ
+    arabic: ثَمُودُ
     translation: Thamud
     transliteration: thamūdu
   3:
-    arabic: وَعَادٌۢ
+    arabic: وَعَادُۢ
     translation: and Aad
     transliteration: waʿādun
   4:
-    arabic: بِالۡقَارِعَةِ‏
+    arabic: بِٱلۡقَارِعَةِ
     translation: the Striking Calamity
     transliteration: bil-qāriʿati
 ---

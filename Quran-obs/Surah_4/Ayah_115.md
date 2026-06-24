@@ -1,25 +1,25 @@
 ---
-arabic_ayat: وَمَنۡ يُّشَاقِقِ الرَّسُوۡلَ مِنۡۢ بَعۡدِ مَا تَبَيَّنَ لَـهُ الۡهُدٰى
-  وَ يَـتَّبِعۡ غَيۡرَ سَبِيۡلِ الۡمُؤۡمِنِيۡنَ نُوَلِّهٖ مَا تَوَلّٰى وَنُصۡلِهٖ
-  جَهَـنَّمَ​ ؕ وَسَآءَتۡ مَصِيۡرًا‏
+arabic_ayat: وَمَن يُشَاقِقِ ٱلرَّسُولَ مِنۢ بَعۡدِ مَا تَبَيَّنَ لَهُ ٱلۡهُدَىٰ وَيَتَّبِعۡ
+  غَيۡرَ سَبِيلِ ٱلۡمُؤۡمِنِينَ نُوَلِّهِۦ مَا تَوَلَّىٰ وَنُصۡلِهِۦ جَهَنَّمَۖ وَسَآءَتۡ
+  مَصِيرًا
 sentence_translation: And whoever defies the Messenger after guidance has become clear
   to them and follows a path other than that of the believers, We will let them pursue
   what they have chosen, then burn them in Hell—what an evil end!
 word_by_word:
   1:
-    arabic: وَمَنۡ
+    arabic: وَمَن
     translation: And whoever
     transliteration: waman
   2:
-    arabic: يُّشَاقِقِ
+    arabic: يُشَاقِقِ
     translation: opposes
     transliteration: yushāqiqi
   3:
-    arabic: الرَّسُوۡلَ
+    arabic: ٱلرَّسُولَ
     translation: the Messenger
     transliteration: l-rasūla
   4:
-    arabic: مِنۡۢ
+    arabic: مِنۢ
     translation: from
     transliteration: min
   5:
@@ -35,15 +35,15 @@ word_by_word:
     translation: (has) become clear
     transliteration: tabayyana
   8:
-    arabic: لَـهُ
+    arabic: لَهُ
     translation: to him
     transliteration: lahu
   9:
-    arabic: الۡهُدٰى
+    arabic: ٱلۡهُدَىٰ
     translation: (of) the guidance
     transliteration: l-hudā
   10:
-    arabic: وَ يَـتَّبِعۡ
+    arabic: وَيَتَّبِعۡ
     translation: and he follows
     transliteration: wayattabiʿ
   11:
@@ -51,15 +51,15 @@ word_by_word:
     translation: other than
     transliteration: ghayra
   12:
-    arabic: سَبِيۡلِ
+    arabic: سَبِيلِ
     translation: (the) way
     transliteration: sabīli
   13:
-    arabic: الۡمُؤۡمِنِيۡنَ
+    arabic: ٱلۡمُؤۡمِنِينَ
     translation: (of) the believers
     transliteration: l-mu'minīna
   14:
-    arabic: نُوَلِّهٖ
+    arabic: نُوَلِّهِۦ
     translation: We will turn him
     transliteration: nuwallihi
   15:
@@ -67,15 +67,15 @@ word_by_word:
     translation: (to) what
     transliteration: mā
   16:
-    arabic: تَوَلّٰى
+    arabic: تَوَلَّىٰ
     translation: he (has) turned
     transliteration: tawallā
   17:
-    arabic: وَنُصۡلِهٖ
+    arabic: وَنُصۡلِهِۦ
     translation: and We will burn him
     transliteration: wanuṣ'lihi
   18:
-    arabic: جَهَـنَّمَ​ ؕ
+    arabic: جَهَنَّمَۖ
     translation: (in) Hell
     transliteration: jahannama
   19:
@@ -83,7 +83,7 @@ word_by_word:
     translation: and evil it is
     transliteration: wasāat
   20:
-    arabic: مَصِيۡرًا‏
+    arabic: مَصِيرًا
     translation: (as) a destination
     transliteration: maṣīran
 ---

@@ -1,6 +1,5 @@
 ---
-arabic_ayat: "قُلۡ سِيۡرُوۡا فِى الۡاَرۡضِ فَانْظُرُوۡا كَيۡفَ كَانَ عَاقِبَةُ الۡمُجۡرِمِيۡنَ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: قُلۡ سِيرُواْ فِي ٱلۡأَرۡضِ فَٱنظُرُواْ كَيۡفَ كَانَ عَٰقِبَةُ ٱلۡمُجۡرِمِينَ
 sentence_translation: Say, ˹O Prophet,˺ “Travel throughout the land and see the fate
   of the wicked.”
 word_by_word:
@@ -9,19 +8,19 @@ word_by_word:
     translation: Say
     transliteration: qul
   2:
-    arabic: سِيۡرُوۡا
+    arabic: سِيرُواْ
     translation: Travel
     transliteration: sīrū
   3:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   4:
-    arabic: الۡاَرۡضِ
+    arabic: ٱلۡأَرۡضِ
     translation: the land
     transliteration: l-arḍi
   5:
-    arabic: فَانْظُرُوۡا
+    arabic: فَٱنظُرُواْ
     translation: and see
     transliteration: fa-unẓurū
   6:
@@ -33,11 +32,11 @@ word_by_word:
     translation: was
     transliteration: kāna
   8:
-    arabic: عَاقِبَةُ
+    arabic: عَٰقِبَةُ
     translation: (the) end
     transliteration: ʿāqibatu
   9:
-    arabic: "الۡمُجۡرِمِيۡنَ‏ \uFEFF\uFEFF"
+    arabic: ٱلۡمُجۡرِمِينَ
     translation: (of) the criminals
     transliteration: l-muj'rimīna
 ---

@@ -1,15 +1,14 @@
 ---
-arabic_ayat: "وَاِذۡ قُلۡنَا لَـكَ اِنَّ رَبَّكَ اَحَاطَ بِالنَّاسِ​ ؕ وَمَا جَعَلۡنَا\
-  \ الرُّءۡيَا الَّتِىۡۤ اَرَيۡنٰكَ اِلَّا فِتۡنَةً لِّلنَّاسِ وَ الشَّجَرَةَ الۡمَلۡعُوۡنَةَ\
-  \ فِى الۡقُرۡاٰنِ​ ؕ وَنُخَوِّفُهُمۡۙ فَمَا يَزِيۡدُهُمۡ اِلَّا طُغۡيَانًا كَبِيۡرًا‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: وَإِذۡ قُلۡنَا لَكَ إِنَّ رَبَّكَ أَحَاطَ بِٱلنَّاسِۚ وَمَا جَعَلۡنَا
+  ٱلرُّءۡيَا ٱلَّتِيٓ أَرَيۡنَٰكَ إِلَّا فِتۡنَةٗ لِّلنَّاسِ وَٱلشَّجَرَةَ ٱلۡمَلۡعُونَةَ
+  فِي ٱلۡقُرۡءَانِۚ وَنُخَوِّفُهُمۡ فَمَا يَزِيدُهُمۡ إِلَّا طُغۡيَٰنٗا كَبِيرٗا
 sentence_translation: And ˹remember, O  Prophet˺ when We told you, “Certainly your
   Lord encompasses the people.” And We have made what We brought you to see as well
   as the cursed tree ˹mentioned˺ in the Quran only as a test for the people. We keep
   warning them, but it only increases them greatly in defiance.
 word_by_word:
   1:
-    arabic: وَاِذۡ
+    arabic: وَإِذۡ
     translation: And when
     transliteration: wa-idh
   2:
@@ -17,11 +16,11 @@ word_by_word:
     translation: We said
     transliteration: qul'nā
   3:
-    arabic: لَـكَ
+    arabic: لَكَ
     translation: to you
     transliteration: laka
   4:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   5:
@@ -29,11 +28,11 @@ word_by_word:
     translation: your Lord
     transliteration: rabbaka
   6:
-    arabic: اَحَاطَ
+    arabic: أَحَاطَ
     translation: has encompassed
     transliteration: aḥāṭa
   7:
-    arabic: بِالنَّاسِ​ ؕ
+    arabic: بِٱلنَّاسِۚ
     translation: the mankind
     transliteration: bil-nāsi
   8:
@@ -45,23 +44,23 @@ word_by_word:
     translation: We made
     transliteration: jaʿalnā
   10:
-    arabic: الرُّءۡيَا
+    arabic: ٱلرُّءۡيَا
     translation: the vision
     transliteration: l-ru'yā
   11:
-    arabic: الَّتِىۡۤ
+    arabic: ٱلَّتِيٓ
     translation: which
     transliteration: allatī
   12:
-    arabic: اَرَيۡنٰكَ
+    arabic: أَرَيۡنَٰكَ
     translation: We showed you
     transliteration: araynāka
   13:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   14:
-    arabic: فِتۡنَةً
+    arabic: فِتۡنَةٗ
     translation: (as) a trial
     transliteration: fit'natan
   15:
@@ -69,23 +68,23 @@ word_by_word:
     translation: for mankind
     transliteration: lilnnāsi
   16:
-    arabic: وَ الشَّجَرَةَ
+    arabic: وَٱلشَّجَرَةَ
     translation: and the tree
     transliteration: wal-shajarata
   17:
-    arabic: الۡمَلۡعُوۡنَةَ
+    arabic: ٱلۡمَلۡعُونَةَ
     translation: the accursed
     transliteration: l-malʿūnata
   18:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   19:
-    arabic: الۡقُرۡاٰنِ​ ؕ
+    arabic: ٱلۡقُرۡءَانِۚ
     translation: the Quran
     transliteration: l-qur'āni
   20:
-    arabic: وَنُخَوِّفُهُمۡۙ
+    arabic: وَنُخَوِّفُهُمۡ
     translation: And We threaten them
     transliteration: wanukhawwifuhum
   21:
@@ -93,19 +92,19 @@ word_by_word:
     translation: but not
     transliteration: famā
   22:
-    arabic: يَزِيۡدُهُمۡ
+    arabic: يَزِيدُهُمۡ
     translation: it increases them
     transliteration: yazīduhum
   23:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   24:
-    arabic: طُغۡيَانًا
+    arabic: طُغۡيَٰنٗا
     translation: (in) transgression
     transliteration: ṭugh'yānan
   25:
-    arabic: "كَبِيۡرًا‏ \uFEFF\uFEFF"
+    arabic: كَبِيرٗا
     translation: great
     transliteration: kabīran
 ---

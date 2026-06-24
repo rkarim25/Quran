@@ -1,7 +1,7 @@
 ---
-arabic_ayat: قَالَ يٰقَوۡمِ اَرَءَيۡتُمۡ اِنۡ كُنۡتُ عَلٰى بَيِّنَةٍ مِّنۡ رَّبِّىۡ
-  وَاٰتٰٮنِىۡ مِنۡهُ رَحۡمَةً فَمَنۡ يَّـنۡصُرُنِىۡ مِنَ اللّٰهِ اِنۡ عَصَيۡتُهٗ​
-  فَمَا تَزِيۡدُوۡنَنِىۡ غَيۡرَ تَخۡسِيۡرٍ‏
+arabic_ayat: قَالَ يَٰقَوۡمِ أَرَءَيۡتُمۡ إِن كُنتُ عَلَىٰ بَيِّنَةٖ مِّن رَّبِّي
+  وَءَاتَىٰنِي مِنۡهُ رَحۡمَةٗ فَمَن يَنصُرُنِي مِنَ ٱللَّهِ إِنۡ عَصَيۡتُهُۥۖ فَمَا
+  تَزِيدُونَنِي غَيۡرَ تَخۡسِيرٖ
 sentence_translation: He responded, “O my people! Consider if I stand on a clear proof
   from my Lord and He has blessed me with a mercy from Him. Who could help me against
   Allah if I were to disobey Him? You would only contribute to my doom.
@@ -11,39 +11,39 @@ word_by_word:
     translation: He said
     transliteration: qāla
   2:
-    arabic: يٰقَوۡمِ
+    arabic: يَٰقَوۡمِ
     translation: O my people
     transliteration: yāqawmi
   3:
-    arabic: اَرَءَيۡتُمۡ
+    arabic: أَرَءَيۡتُمۡ
     translation: Do you see
     transliteration: ara-aytum
   4:
-    arabic: اِنۡ
+    arabic: إِن
     translation: if
     transliteration: in
   5:
-    arabic: كُنۡتُ
+    arabic: كُنتُ
     translation: I am
     transliteration: kuntu
   6:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: 'on'
     transliteration: ʿalā
   7:
-    arabic: بَيِّنَةٍ
+    arabic: بَيِّنَةٖ
     translation: a clear proof
     transliteration: bayyinatin
   8:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: from
     transliteration: min
   9:
-    arabic: رَّبِّىۡ
+    arabic: رَّبِّي
     translation: my Lord
     transliteration: rabbī
   10:
-    arabic: وَاٰتٰٮنِىۡ
+    arabic: وَءَاتَىٰنِي
     translation: and He has given me
     transliteration: waātānī
   11:
@@ -51,15 +51,15 @@ word_by_word:
     translation: from Him
     transliteration: min'hu
   12:
-    arabic: رَحۡمَةً
+    arabic: رَحۡمَةٗ
     translation: a Mercy
     transliteration: raḥmatan
   13:
-    arabic: فَمَنۡ
+    arabic: فَمَن
     translation: then who
     transliteration: faman
   14:
-    arabic: يَّـنۡصُرُنِىۡ
+    arabic: يَنصُرُنِي
     translation: (can) help me
     transliteration: yanṣurunī
   15:
@@ -67,15 +67,15 @@ word_by_word:
     translation: against
     transliteration: mina
   16:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   17:
-    arabic: اِنۡ
+    arabic: إِنۡ
     translation: if
     transliteration: in
   18:
-    arabic: عَصَيۡتُهٗ​
+    arabic: عَصَيۡتُهُۥۖ
     translation: I (were to) disobey Him
     transliteration: ʿaṣaytuhu
   19:
@@ -83,7 +83,7 @@ word_by_word:
     translation: So not
     transliteration: famā
   20:
-    arabic: تَزِيۡدُوۡنَنِىۡ
+    arabic: تَزِيدُونَنِي
     translation: you would increase me
     transliteration: tazīdūnanī
   21:
@@ -91,7 +91,7 @@ word_by_word:
     translation: but
     transliteration: ghayra
   22:
-    arabic: تَخۡسِيۡرٍ‏
+    arabic: تَخۡسِيرٖ
     translation: (in) loss
     transliteration: takhsīrin
 ---

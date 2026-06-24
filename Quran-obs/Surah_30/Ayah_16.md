@@ -1,51 +1,51 @@
 ---
-arabic_ayat: وَاَمَّا الَّذِيۡنَ كَفَرُوۡا وَكَذَّبُوۡا بِاٰيٰتِنَا وَلِقَآئِ الۡاٰخِرَةِ
-  فَاُولٰٓٮِٕكَ فِى الۡعَذَابِ مُحۡضَرُوۡنَ‏
+arabic_ayat: وَأَمَّا ٱلَّذِينَ كَفَرُواْ وَكَذَّبُواْ بِـَٔايَٰتِنَا وَلِقَآيِٕ
+  ٱلۡأٓخِرَةِ فَأُوْلَٰٓئِكَ فِي ٱلۡعَذَابِ مُحۡضَرُونَ
 sentence_translation: And as for those who disbelieved, and denied Our signs and the
   meeting ˹with Allah˺ in the Hereafter, they will be confined in punishment.
 word_by_word:
   1:
-    arabic: وَاَمَّا
+    arabic: وَأَمَّا
     translation: But as for
     transliteration: wa-ammā
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   3:
-    arabic: كَفَرُوۡا
+    arabic: كَفَرُواْ
     translation: disbelieved
     transliteration: kafarū
   4:
-    arabic: وَكَذَّبُوۡا
+    arabic: وَكَذَّبُواْ
     translation: and denied
     transliteration: wakadhabū
   5:
-    arabic: بِاٰيٰتِنَا
+    arabic: بِـَٔايَٰتِنَا
     translation: Our Signs
     transliteration: biāyātinā
   6:
-    arabic: وَلِقَآئِ
+    arabic: وَلِقَآيِٕ
     translation: and (the) meeting
     transliteration: waliqāi
   7:
-    arabic: الۡاٰخِرَةِ
+    arabic: ٱلۡأٓخِرَةِ
     translation: (of) the Hereafter
     transliteration: l-ākhirati
   8:
-    arabic: فَاُولٰٓٮِٕكَ
+    arabic: فَأُوْلَٰٓئِكَ
     translation: then those
     transliteration: fa-ulāika
   9:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   10:
-    arabic: الۡعَذَابِ
+    arabic: ٱلۡعَذَابِ
     translation: the punishment
     transliteration: l-ʿadhābi
   11:
-    arabic: مُحۡضَرُوۡنَ‏
+    arabic: مُحۡضَرُونَ
     translation: (will be) brought forth
     transliteration: muḥ'ḍarūna
 ---

@@ -1,23 +1,23 @@
 ---
-arabic_ayat: اِنَّ اَوَّلَ بَيۡتٍ وُّضِعَ لِلنَّاسِ لَـلَّذِىۡ بِبَكَّةَ مُبٰرَكًا
-  وَّهُدًى لِّلۡعٰلَمِيۡنَ​​ۚ‏
+arabic_ayat: إِنَّ أَوَّلَ بَيۡتٖ وُضِعَ لِلنَّاسِ لَلَّذِي بِبَكَّةَ مُبَارَكٗا وَهُدٗى
+  لِّلۡعَٰلَمِينَ
 sentence_translation: Surely the first House ˹of worship˺ established for humanity
   is the one at Bakkah—a blessed sanctuary and a guide for ˹all˺ people.
 word_by_word:
   1:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   2:
-    arabic: اَوَّلَ
+    arabic: أَوَّلَ
     translation: (the) First
     transliteration: awwala
   3:
-    arabic: بَيۡتٍ
+    arabic: بَيۡتٖ
     translation: House
     transliteration: baytin
   4:
-    arabic: وُّضِعَ
+    arabic: وُضِعَ
     translation: set up
     transliteration: wuḍiʿa
   5:
@@ -25,7 +25,7 @@ word_by_word:
     translation: for the mankind
     transliteration: lilnnāsi
   6:
-    arabic: لَـلَّذِىۡ
+    arabic: لَلَّذِي
     translation: (is) the one which
     transliteration: lalladhī
   7:
@@ -33,15 +33,15 @@ word_by_word:
     translation: (is) at Bakkah
     transliteration: bibakkata
   8:
-    arabic: مُبٰرَكًا
+    arabic: مُبَارَكٗا
     translation: blessed
     transliteration: mubārakan
   9:
-    arabic: وَّهُدًى
+    arabic: وَهُدٗى
     translation: and a guidance
     transliteration: wahudan
   10:
-    arabic: لِّلۡعٰلَمِيۡنَ​​ۚ‏
+    arabic: لِّلۡعَٰلَمِينَ
     translation: for the worlds
     transliteration: lil'ʿālamīna
 ---

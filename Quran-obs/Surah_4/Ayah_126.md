@@ -1,11 +1,11 @@
 ---
-arabic_ayat: وَلِلّٰهِ مَا فِى السَّمٰوٰتِ وَمَا فِى الۡاَرۡضِ​ؕ وَكَانَ اللّٰهُ بِكُلِّ
-  شَىۡءٍ مُّحِيۡـطًا‏
+arabic_ayat: وَلِلَّهِ مَا فِي ٱلسَّمَٰوَٰتِ وَمَا فِي ٱلۡأَرۡضِۚ وَكَانَ ٱللَّهُ
+  بِكُلِّ شَيۡءٖ مُّحِيطٗا
 sentence_translation: To Allah ˹alone˺ belongs whatever is in the heavens and whatever
   is on the earth. And Allah is Fully Aware of everything.
 word_by_word:
   1:
-    arabic: وَلِلّٰهِ
+    arabic: وَلِلَّهِ
     translation: And for Allah
     transliteration: walillahi
   2:
@@ -13,11 +13,11 @@ word_by_word:
     translation: (is) what
     transliteration: mā
   3:
-    arabic: فِى
+    arabic: فِي
     translation: (is) in
     transliteration: fī
   4:
-    arabic: السَّمٰوٰتِ
+    arabic: ٱلسَّمَٰوَٰتِ
     translation: the heavens
     transliteration: l-samāwāti
   5:
@@ -25,11 +25,11 @@ word_by_word:
     translation: and what
     transliteration: wamā
   6:
-    arabic: فِى
+    arabic: فِي
     translation: (is) in
     transliteration: fī
   7:
-    arabic: الۡاَرۡضِ​ؕ
+    arabic: ٱلۡأَرۡضِۚ
     translation: the earth
     transliteration: l-arḍi
   8:
@@ -37,7 +37,7 @@ word_by_word:
     translation: and is
     transliteration: wakāna
   9:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   10:
@@ -45,11 +45,11 @@ word_by_word:
     translation: of every
     transliteration: bikulli
   11:
-    arabic: شَىۡءٍ
+    arabic: شَيۡءٖ
     translation: thing
     transliteration: shayin
   12:
-    arabic: مُّحِيۡـطًا‏
+    arabic: مُّحِيطٗا
     translation: All-Encompassing
     transliteration: muḥīṭan
 ---

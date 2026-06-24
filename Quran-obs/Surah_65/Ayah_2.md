@@ -1,8 +1,8 @@
 ---
-arabic_ayat: فَاِذَا بَلَغۡنَ اَجَلَهُنَّ فَاَمۡسِكُوۡهُنَّ بِمَعۡرُوۡفٍ اَوۡ فَارِقُوۡهُنَّ
-  بِمَعۡرُوۡفٍ وَّاَشۡهِدُوۡا ذَوَىۡ عَدۡلٍ مِّنۡكُمۡ وَاَقِيۡمُوا الشَّهَادَةَ لِلّٰهِ​
-  ؕ ذٰ لِكُمۡ يُوۡعَظُ بِهٖ مَنۡ كَانَ يُؤۡمِنُ بِاللّٰهِ وَالۡيَوۡمِ الۡاٰخِرِ​ ۙ
-  وَمَنۡ يَّـتَّـقِ اللّٰهَ يَجۡعَلْ لَّهٗ مَخۡرَجًا ۙ‏
+arabic_ayat: فَإِذَا بَلَغۡنَ أَجَلَهُنَّ فَأَمۡسِكُوهُنَّ بِمَعۡرُوفٍ أَوۡ فَارِقُوهُنَّ
+  بِمَعۡرُوفٖ وَأَشۡهِدُواْ ذَوَيۡ عَدۡلٖ مِّنكُمۡ وَأَقِيمُواْ ٱلشَّهَٰدَةَ لِلَّهِۚ
+  ذَٰلِكُمۡ يُوعَظُ بِهِۦ مَن كَانَ يُؤۡمِنُ بِٱللَّهِ وَٱلۡيَوۡمِ ٱلۡأٓخِرِۚ وَمَن
+  يَتَّقِ ٱللَّهَ يَجۡعَل لَّهُۥ مَخۡرَجٗا
 sentence_translation: Then when they have ˹almost˺ reached the end of their waiting
   period, either retain them honourably or separate from them honourably. And call
   two of your reliable men to witness ˹either way˺—and ˹let the witnesses˺ bear true
@@ -10,7 +10,7 @@ sentence_translation: Then when they have ˹almost˺ reached the end of their wa
   and the Last Day. And whoever is mindful of Allah, He will make a way out for them,
 word_by_word:
   1:
-    arabic: فَاِذَا
+    arabic: فَإِذَا
     translation: Then when
     transliteration: fa-idhā
   2:
@@ -18,71 +18,71 @@ word_by_word:
     translation: they have reached
     transliteration: balaghna
   3:
-    arabic: اَجَلَهُنَّ
+    arabic: أَجَلَهُنَّ
     translation: their term
     transliteration: ajalahunna
   4:
-    arabic: فَاَمۡسِكُوۡهُنَّ
+    arabic: فَأَمۡسِكُوهُنَّ
     translation: then retain them
     transliteration: fa-amsikūhunna
   5:
-    arabic: بِمَعۡرُوۡفٍ
+    arabic: بِمَعۡرُوفٍ
     translation: with kindness
     transliteration: bimaʿrūfin
   6:
-    arabic: اَوۡ
+    arabic: أَوۡ
     translation: or
     transliteration: aw
   7:
-    arabic: فَارِقُوۡهُنَّ
+    arabic: فَارِقُوهُنَّ
     translation: part with them
     transliteration: fāriqūhunna
   8:
-    arabic: بِمَعۡرُوۡفٍ
+    arabic: بِمَعۡرُوفٖ
     translation: with kindness
     transliteration: bimaʿrūfin
   9:
-    arabic: وَّاَشۡهِدُوۡا
+    arabic: وَأَشۡهِدُواْ
     translation: And take witness
     transliteration: wa-ashhidū
   10:
-    arabic: ذَوَىۡ
+    arabic: ذَوَيۡ
     translation: two men
     transliteration: dhaway
   11:
-    arabic: عَدۡلٍ
+    arabic: عَدۡلٖ
     translation: just
     transliteration: ʿadlin
   12:
-    arabic: مِّنۡكُمۡ
+    arabic: مِّنكُمۡ
     translation: among you
     transliteration: minkum
   13:
-    arabic: وَاَقِيۡمُوا
+    arabic: وَأَقِيمُواْ
     translation: and establish
     transliteration: wa-aqīmū
   14:
-    arabic: الشَّهَادَةَ
+    arabic: ٱلشَّهَٰدَةَ
     translation: the testimony
     transliteration: l-shahādata
   15:
-    arabic: لِلّٰهِ​ ؕ
+    arabic: لِلَّهِۚ
     translation: for Allah
     transliteration: lillahi
   16:
-    arabic: ذٰ لِكُمۡ
+    arabic: ذَٰلِكُمۡ
     translation: That
     transliteration: dhālikum
   17:
-    arabic: يُوۡعَظُ
+    arabic: يُوعَظُ
     translation: is instructed
     transliteration: yūʿaẓu
   18:
-    arabic: بِهٖ
+    arabic: بِهِۦ
     translation: with it
     transliteration: bihi
   19:
-    arabic: مَنۡ
+    arabic: مَن
     translation: whoever
     transliteration: man
   20:
@@ -94,39 +94,39 @@ word_by_word:
     translation: believes
     transliteration: yu'minu
   22:
-    arabic: بِاللّٰهِ
+    arabic: بِٱللَّهِ
     translation: in Allah
     transliteration: bil-lahi
   23:
-    arabic: وَالۡيَوۡمِ
+    arabic: وَٱلۡيَوۡمِ
     translation: and the Day
     transliteration: wal-yawmi
   24:
-    arabic: الۡاٰخِرِ​ ۙ
+    arabic: ٱلۡأٓخِرِۚ
     translation: the Last
     transliteration: l-ākhiri
   25:
-    arabic: وَمَنۡ
+    arabic: وَمَن
     translation: And whoever
     transliteration: waman
   26:
-    arabic: يَّـتَّـقِ
+    arabic: يَتَّقِ
     translation: fears
     transliteration: yattaqi
   27:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   28:
-    arabic: يَجۡعَلْ
+    arabic: يَجۡعَل
     translation: He will make
     transliteration: yajʿal
   29:
-    arabic: لَّهٗ
+    arabic: لَّهُۥ
     translation: for him
     transliteration: lahu
   30:
-    arabic: مَخۡرَجًا ۙ‏
+    arabic: مَخۡرَجٗا
     translation: a way out
     transliteration: makhrajan
 ---

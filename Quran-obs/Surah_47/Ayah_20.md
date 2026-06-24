@@ -1,23 +1,23 @@
 ---
-arabic_ayat: وَيَقُوۡلُ الَّذِيۡنَ اٰمَنُوۡا لَوۡلَا نُزِّلَتۡ سُوۡرَةٌ ​ۚ فَاِذَاۤ
-  اُنۡزِلَتۡ سُوۡرَةٌ مُّحۡكَمَةٌ وَّذُكِرَ فِيۡهَا الۡقِتَالُ​ۙ رَاَيۡتَ الَّذِيۡنَ
-  فِىۡ قُلُوۡبِهِمۡ مَّرَضٌ يَّنۡظُرُوۡنَ اِلَيۡكَ نَظَرَ الۡمَغۡشِىِّ عَلَيۡهِ مِنَ
-  الۡمَوۡتِ​ؕ فَاَوۡلٰى لَهُمۡ​ۚ‏
+arabic_ayat: وَيَقُولُ ٱلَّذِينَ ءَامَنُواْ لَوۡلَا نُزِّلَتۡ سُورَةٞۖ فَإِذَآ أُنزِلَتۡ
+  سُورَةٞ مُّحۡكَمَةٞ وَذُكِرَ فِيهَا ٱلۡقِتَالُ رَأَيۡتَ ٱلَّذِينَ فِي قُلُوبِهِم
+  مَّرَضٞ يَنظُرُونَ إِلَيۡكَ نَظَرَ ٱلۡمَغۡشِيِّ عَلَيۡهِ مِنَ ٱلۡمَوۡتِۖ فَأَوۡلَىٰ
+  لَهُمۡ
 sentence_translation: And the believers say, “If only a sûrah was revealed ˹allowing
   self-defence˺!” Yet when a precise sûrah is revealed, in which fighting is ˹explicitly˺
   mentioned, you see those with sickness in their hearts staring at you like someone
   in the throes of death. It would have been better for them
 word_by_word:
   1:
-    arabic: وَيَقُوۡلُ
+    arabic: وَيَقُولُ
     translation: And say
     transliteration: wayaqūlu
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ ءَ
     translation: those who
     transliteration: alladhīna
   3:
-    arabic: اٰمَنُوۡا
+    arabic: امَنُواْ
     translation: believe
     transliteration: āmanū
   4:
@@ -29,63 +29,63 @@ word_by_word:
     translation: has been revealed
     transliteration: nuzzilat
   6:
-    arabic: سُوۡرَةٌ ​ۚ
+    arabic: سُورَةٞۖ
     translation: a Surah
     transliteration: sūratun
   7:
-    arabic: فَاِذَاۤ
+    arabic: فَإِذَآ
     translation: But when
     transliteration: fa-idhā
   8:
-    arabic: اُنۡزِلَتۡ
+    arabic: أُنزِلَتۡ
     translation: is revealed
     transliteration: unzilat
   9:
-    arabic: سُوۡرَةٌ
+    arabic: سُورَةٞ
     translation: a Surah
     transliteration: sūratun
   10:
-    arabic: مُّحۡكَمَةٌ
+    arabic: مُّحۡكَمَةٞ
     translation: precise
     transliteration: muḥ'kamatun
   11:
-    arabic: وَّذُكِرَ
+    arabic: وَذُكِرَ
     translation: and is mentioned
     transliteration: wadhukira
   12:
-    arabic: فِيۡهَا
+    arabic: فِيهَا
     translation: in it
     transliteration: fīhā
   13:
-    arabic: الۡقِتَالُ​ۙ
+    arabic: ٱلۡقِتَالُ
     translation: the fighting
     transliteration: l-qitālu
   14:
-    arabic: رَاَيۡتَ
+    arabic: رَأَيۡتَ
     translation: you see
     transliteration: ra-ayta
   15:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   16:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   17:
-    arabic: قُلُوۡبِهِمۡ
+    arabic: قُلُوبِهِم
     translation: their hearts
     transliteration: qulūbihim
   18:
-    arabic: مَّرَضٌ
+    arabic: مَّرَضٞ
     translation: (is) a disease
     transliteration: maraḍun
   19:
-    arabic: يَّنۡظُرُوۡنَ
+    arabic: يَنظُرُونَ
     translation: looking
     transliteration: yanẓurūna
   20:
-    arabic: اِلَيۡكَ
+    arabic: إِلَيۡكَ
     translation: 'at you '
     transliteration: ilayka
   21:
@@ -93,7 +93,7 @@ word_by_word:
     translation: a look
     transliteration: naẓara
   22:
-    arabic: الۡمَغۡشِىِّ
+    arabic: ٱلۡمَغۡشِيِّ
     translation: (of) one fainting
     transliteration: l-maghshiyi
   23:
@@ -105,15 +105,15 @@ word_by_word:
     translation: from
     transliteration: mina
   25:
-    arabic: الۡمَوۡتِ​ؕ
+    arabic: ٱلۡمَوۡتِۖ
     translation: the death
     transliteration: l-mawti
   26:
-    arabic: فَاَوۡلٰى
+    arabic: فَأَوۡلَىٰ
     translation: But more appropriate
     transliteration: fa-awlā
   27:
-    arabic: لَهُمۡ​ۚ‏
+    arabic: لَهُمۡ
     translation: for them
     transliteration: lahum
 ---

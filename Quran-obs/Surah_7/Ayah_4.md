@@ -1,15 +1,15 @@
 ---
-arabic_ayat: وَكَمۡ مِّنۡ قَرۡيَةٍ اَهۡلَـكۡنٰهَا فَجَآءَهَا بَاۡسُنَا بَيَاتًا اَوۡ
-  هُمۡ قَآٮِٕلُوۡنَ‏
+arabic_ayat: وَكَم مِّن قَرۡيَةٍ أَهۡلَكۡنَٰهَا فَجَآءَهَا بَأۡسُنَا بَيَٰتًا أَوۡ
+  هُمۡ قَآئِلُونَ
 sentence_translation: ˹Imagine˺ how many societies We have destroyed! Our torment
   took them by surprise ˹while sleeping˺ at night or midday.
 word_by_word:
   1:
-    arabic: وَكَمۡ
+    arabic: وَكَم
     translation: And how many
     transliteration: wakam
   2:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: of
     transliteration: min
   3:
@@ -17,7 +17,7 @@ word_by_word:
     translation: a city
     transliteration: qaryatin
   4:
-    arabic: اَهۡلَـكۡنٰهَا
+    arabic: أَهۡلَكۡنَٰهَا
     translation: We destroyed it
     transliteration: ahlaknāhā
   5:
@@ -25,15 +25,15 @@ word_by_word:
     translation: and came to it
     transliteration: fajāahā
   6:
-    arabic: بَاۡسُنَا
+    arabic: بَأۡسُنَا
     translation: Our punishment
     transliteration: basunā
   7:
-    arabic: بَيَاتًا
+    arabic: بَيَٰتًا
     translation: (at) night
     transliteration: bayātan
   8:
-    arabic: اَوۡ
+    arabic: أَوۡ
     translation: or
     transliteration: aw
   9:
@@ -41,7 +41,7 @@ word_by_word:
     translation: (while) they
     transliteration: hum
   10:
-    arabic: قَآٮِٕلُوۡنَ‏
+    arabic: قَآئِلُونَ
     translation: were sleeping at noon
     transliteration: qāilūna
 ---

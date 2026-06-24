@@ -1,5 +1,5 @@
 ---
-arabic_ayat: ثُمَّ اَدۡبَرَ وَاسۡتَكۡبَرَۙ‏
+arabic_ayat: ثُمَّ أَدۡبَرَ وَٱسۡتَكۡبَرَ
 sentence_translation: then turned his back ˹on the truth˺ and acted arrogantly,
 word_by_word:
   1:
@@ -7,11 +7,11 @@ word_by_word:
     translation: Then
     transliteration: thumma
   2:
-    arabic: اَدۡبَرَ
+    arabic: أَدۡبَرَ
     translation: he turned back
     transliteration: adbara
   3:
-    arabic: وَاسۡتَكۡبَرَۙ‏
+    arabic: وَٱسۡتَكۡبَرَ
     translation: and was proud
     transliteration: wa-is'takbara
 ---

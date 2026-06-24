@@ -1,6 +1,6 @@
 ---
-arabic_ayat: وَلَقَدۡ اَخَذۡنَاۤ اٰلَ فِرۡعَوۡنَ بِالسِّنِيۡنَ وَنَقۡصٍ مِّنَ الثَّمَرٰتِ
-  لَعَلَّهُمۡ يَذَّكَّرُوۡنَ‏
+arabic_ayat: وَلَقَدۡ أَخَذۡنَآ ءَالَ فِرۡعَوۡنَ بِٱلسِّنِينَ وَنَقۡصٖ مِّنَ ٱلثَّمَرَٰتِ
+  لَعَلَّهُمۡ يَذَّكَّرُونَ
 sentence_translation: Indeed, We afflicted Pharaoh’s people with famine and shortage
   of crops so they might come back ˹to their senses˺.
 word_by_word:
@@ -9,11 +9,11 @@ word_by_word:
     translation: And certainly
     transliteration: walaqad
   2:
-    arabic: اَخَذۡنَاۤ
+    arabic: أَخَذۡنَآ ءَ
     translation: We seized
     transliteration: akhadhnā
   3:
-    arabic: اٰلَ
+    arabic: الَ
     translation: (the) people
     transliteration: āla
   4:
@@ -21,11 +21,11 @@ word_by_word:
     translation: (of) Firaun
     transliteration: fir'ʿawna
   5:
-    arabic: بِالسِّنِيۡنَ
+    arabic: بِٱلسِّنِينَ
     translation: with years (of famine)
     transliteration: bil-sinīna
   6:
-    arabic: وَنَقۡصٍ
+    arabic: وَنَقۡصٖ
     translation: and a deficit
     transliteration: wanaqṣin
   7:
@@ -33,7 +33,7 @@ word_by_word:
     translation: of
     transliteration: mina
   8:
-    arabic: الثَّمَرٰتِ
+    arabic: ٱلثَّمَرَٰتِ
     translation: '[the] fruits'
     transliteration: l-thamarāti
   9:
@@ -41,7 +41,7 @@ word_by_word:
     translation: so that they may
     transliteration: laʿallahum
   10:
-    arabic: يَذَّكَّرُوۡنَ‏
+    arabic: يَذَّكَّرُونَ
     translation: receive admonition
     transliteration: yadhakkarūna
 ---

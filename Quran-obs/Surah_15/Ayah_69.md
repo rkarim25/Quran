@@ -1,13 +1,13 @@
 ---
-arabic_ayat: وَاتَّقُوا اللّٰهَ وَلَا تُخۡزُوۡنِ‏
+arabic_ayat: وَٱتَّقُواْ ٱللَّهَ وَلَا تُخۡزُونِ
 sentence_translation: Fear Allah and do not humiliate me.”
 word_by_word:
   1:
-    arabic: وَاتَّقُوا
+    arabic: وَٱتَّقُواْ
     translation: And fear
     transliteration: wa-ittaqū
   2:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   3:
@@ -15,7 +15,7 @@ word_by_word:
     translation: and (do) not
     transliteration: walā
   4:
-    arabic: تُخۡزُوۡنِ‏
+    arabic: تُخۡزُونِ
     translation: disgrace me
     transliteration: tukh'zūni
 ---

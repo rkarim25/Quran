@@ -1,20 +1,20 @@
 ---
-arabic_ayat: لَوۡلَاۤ اِذۡ سَمِعۡتُمُوۡهُ ظَنَّ الۡمُؤۡمِنُوۡنَ وَالۡمُؤۡمِنٰتُ بِاَنۡفُسِهِمۡ
-  خَيۡرًاۙ وَّقَالُوۡا هٰذَاۤ اِفۡكٌ مُّبِيۡنٌ‏
+arabic_ayat: لَّوۡلَآ إِذۡ سَمِعۡتُمُوهُ ظَنَّ ٱلۡمُؤۡمِنُونَ وَٱلۡمُؤۡمِنَٰتُ بِأَنفُسِهِمۡ
+  خَيۡرٗا وَقَالُواْ هَٰذَآ إِفۡكٞ مُّبِينٞ
 sentence_translation: If only the believing men and women had thought well of one
   another, when you heard this ˹rumour˺, and said, “This is clearly ˹an outrageous˺
   slander!”
 word_by_word:
   1:
-    arabic: لَوۡلَاۤ
+    arabic: لَّوۡلَآ
     translation: Why not
     transliteration: lawlā
   2:
-    arabic: اِذۡ
+    arabic: إِذۡ
     translation: when
     transliteration: idh
   3:
-    arabic: سَمِعۡتُمُوۡهُ
+    arabic: سَمِعۡتُمُوهُ
     translation: you heard it
     transliteration: samiʿ'tumūhu
   4:
@@ -22,35 +22,35 @@ word_by_word:
     translation: think
     transliteration: ẓanna
   5:
-    arabic: الۡمُؤۡمِنُوۡنَ
+    arabic: ٱلۡمُؤۡمِنُونَ
     translation: the believing men
     transliteration: l-mu'minūna
   6:
-    arabic: وَالۡمُؤۡمِنٰتُ
+    arabic: وَٱلۡمُؤۡمِنَٰتُ
     translation: and the believing women
     transliteration: wal-mu'minātu
   7:
-    arabic: بِاَنۡفُسِهِمۡ
+    arabic: بِأَنفُسِهِمۡ
     translation: good of themselves
     transliteration: bi-anfusihim
   8:
-    arabic: خَيۡرًاۙ
+    arabic: خَيۡرٗا
     translation: good of themselves
     transliteration: khayran
   9:
-    arabic: وَّقَالُوۡا
+    arabic: وَقَالُواْ
     translation: and say
     transliteration: waqālū
   10:
-    arabic: هٰذَاۤ
+    arabic: هَٰذَآ
     translation: This
     transliteration: hādhā
   11:
-    arabic: اِفۡكٌ
+    arabic: إِفۡكٞ
     translation: (is) a lie
     transliteration: if'kun
   12:
-    arabic: مُّبِيۡنٌ‏
+    arabic: مُّبِينٞ
     translation: clear
     transliteration: mubīnun
 ---

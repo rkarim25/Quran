@@ -1,48 +1,48 @@
 ---
-arabic_ayat: اُذِنَ لِلَّذِيۡنَ يُقٰتَلُوۡنَ بِاَنَّهُمۡ ظُلِمُوۡا​ ؕ وَاِنَّ اللّٰهَ
-  عَلٰى نَـصۡرِهِمۡ لَـقَدِيۡرُ ۙ‏
+arabic_ayat: أُذِنَ لِلَّذِينَ يُقَٰتَلُونَ بِأَنَّهُمۡ ظُلِمُواْۚ وَإِنَّ ٱللَّهَ
+  عَلَىٰ نَصۡرِهِمۡ لَقَدِيرٌ
 sentence_translation: Permission ˹to fight back˺ is ˹hereby˺ granted to those being
   fought, for they have been wronged. And Allah is truly Most Capable of helping them
   ˹prevail˺.
 word_by_word:
   1:
-    arabic: اُذِنَ
+    arabic: أُذِنَ
     translation: Permission is given
     transliteration: udhina
   2:
-    arabic: لِلَّذِيۡنَ
+    arabic: لِلَّذِينَ
     translation: to those who
     transliteration: lilladhīna
   3:
-    arabic: يُقٰتَلُوۡنَ
+    arabic: يُقَٰتَلُونَ
     translation: are being fought
     transliteration: yuqātalūna
   4:
-    arabic: بِاَنَّهُمۡ
+    arabic: بِأَنَّهُمۡ
     translation: because they
     transliteration: bi-annahum
   5:
-    arabic: ظُلِمُوۡا​ ؕ
+    arabic: ظُلِمُواْۚ
     translation: were wronged
     transliteration: ẓulimū
   6:
-    arabic: وَاِنَّ
+    arabic: وَإِنَّ
     translation: And indeed
     transliteration: wa-inna
   7:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   8:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: for
     transliteration: ʿalā
   9:
-    arabic: نَـصۡرِهِمۡ
+    arabic: نَصۡرِهِمۡ
     translation: their victory
     transliteration: naṣrihim
   10:
-    arabic: لَـقَدِيۡرُ ۙ‏
+    arabic: لَقَدِيرٌ
     translation: (is) surely Able
     transliteration: laqadīrun
 ---

@@ -1,13 +1,13 @@
 ---
-arabic_ayat: وَاِذَا مَرُّوۡا بِهِمۡ يَتَغَامَزُوۡنَ  ۖ‏
+arabic_ayat: وَإِذَا مَرُّواْ بِهِمۡ يَتَغَامَزُونَ
 sentence_translation: wink to one another whenever they passed by,
 word_by_word:
   1:
-    arabic: وَاِذَا
+    arabic: وَإِذَا
     translation: And when
     transliteration: wa-idhā
   2:
-    arabic: مَرُّوۡا
+    arabic: مَرُّواْ
     translation: they passed
     transliteration: marrū
   3:
@@ -15,7 +15,7 @@ word_by_word:
     translation: by them
     transliteration: bihim
   4:
-    arabic: يَتَغَامَزُوۡنَ  ۖ‏
+    arabic: يَتَغَامَزُونَ
     translation: they winked at one another
     transliteration: yataghāmazūna
 ---

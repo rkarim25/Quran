@@ -1,17 +1,17 @@
 ---
-arabic_ayat: اِلَّا مَوۡتَتَـنَا الۡاُوۡلٰى وَمَا نَحۡنُ بِمُعَذَّبِيۡنَ‏
+arabic_ayat: إِلَّا مَوۡتَتَنَا ٱلۡأُولَىٰ وَمَا نَحۡنُ بِمُعَذَّبِينَ
 sentence_translation: except our first death, nor be punished ˹like the others˺?”
 word_by_word:
   1:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: Except
     transliteration: illā
   2:
-    arabic: مَوۡتَتَـنَا
+    arabic: مَوۡتَتَنَا
     translation: our death
     transliteration: mawtatanā
   3:
-    arabic: الۡاُوۡلٰى
+    arabic: ٱلۡأُولَىٰ
     translation: the first
     transliteration: l-ūlā
   4:
@@ -23,7 +23,7 @@ word_by_word:
     translation: we
     transliteration: naḥnu
   6:
-    arabic: بِمُعَذَّبِيۡنَ‏
+    arabic: بِمُعَذَّبِينَ
     translation: will be punished
     transliteration: bimuʿadhabīna
 ---

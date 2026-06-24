@@ -1,5 +1,5 @@
 ---
-arabic_ayat: مَا لَـكُمۡ كَيۡفَ تَحۡكُمُوۡنَ​ۚ‏
+arabic_ayat: مَا لَكُمۡ كَيۡفَ تَحۡكُمُونَ
 sentence_translation: What is the matter with you? How do you judge?
 word_by_word:
   1:
@@ -7,7 +7,7 @@ word_by_word:
     translation: What
     transliteration: mā
   2:
-    arabic: لَـكُمۡ
+    arabic: لَكُمۡ
     translation: (is) for you
     transliteration: lakum
   3:
@@ -15,7 +15,7 @@ word_by_word:
     translation: How
     transliteration: kayfa
   4:
-    arabic: تَحۡكُمُوۡنَ​ۚ‏
+    arabic: تَحۡكُمُونَ
     translation: (do) you judge
     transliteration: taḥkumūna
 ---

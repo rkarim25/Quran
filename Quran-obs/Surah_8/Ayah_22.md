@@ -1,11 +1,11 @@
 ---
-arabic_ayat: اِنَّ شَرَّ الدَّوَآبِّ عِنۡدَ اللّٰهِ الصُّمُّ الۡبُكۡمُ الَّذِيۡنَ
-  لَا يَعۡقِلُوۡنَ‏
+arabic_ayat: ۞ إِنَّ شَرَّ ٱلدَّوَآبِّ عِندَ ٱللَّهِ ٱلصُّمُّ ٱلۡبُكۡمُ ٱلَّذِينَ
+  لَا يَعۡقِلُونَ
 sentence_translation: Indeed, the worst of all beings in the sight of Allah are the
   ˹wilfully˺ deaf and dumb, who do not understand.
 word_by_word:
   1:
-    arabic: ۞ اِنَّ
+    arabic: ۞ إِنَّ
     translation: Indeed
     transliteration: inna
   2:
@@ -13,27 +13,27 @@ word_by_word:
     translation: worst
     transliteration: sharra
   3:
-    arabic: الدَّوَآبِّ
+    arabic: ٱلدَّوَآبِّ
     translation: (of) the living creatures
     transliteration: l-dawābi
   4:
-    arabic: عِنۡدَ
+    arabic: عِندَ
     translation: near
     transliteration: ʿinda
   5:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   6:
-    arabic: الصُّمُّ
+    arabic: ٱلصُّمُّ
     translation: (are) the deaf
     transliteration: l-ṣumu
   7:
-    arabic: الۡبُكۡمُ
+    arabic: ٱلۡبُكۡمُ
     translation: 'the dumb '
     transliteration: l-buk'mu
   8:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   9:
@@ -41,7 +41,7 @@ word_by_word:
     translation: (do) not
     transliteration: lā
   10:
-    arabic: يَعۡقِلُوۡنَ‏
+    arabic: يَعۡقِلُونَ
     translation: use (their) intellect
     transliteration: yaʿqilūna
 ---

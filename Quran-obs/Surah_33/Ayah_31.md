@@ -1,28 +1,28 @@
 ---
-arabic_ayat: وَمَنۡ يَّقۡنُتۡ مِنۡكُنَّ لِلّٰهِ وَرَسُوۡلِهٖ وَتَعۡمَلۡ صَالِحًـا
-  نُّؤۡتِهَـآ اَجۡرَهَا مَرَّتَيۡنِۙ وَاَعۡتَدۡنَا لَهَا رِزۡقًا كَرِيۡمًا‏
+arabic_ayat: ۞ وَمَن يَقۡنُتۡ مِنكُنَّ لِلَّهِ وَرَسُولِهِۦ وَتَعۡمَلۡ صَٰلِحٗا نُّؤۡتِهَآ
+  أَجۡرَهَا مَرَّتَيۡنِ وَأَعۡتَدۡنَا لَهَا رِزۡقٗا كَرِيمٗا
 sentence_translation: And whoever of you devoutly obeys Allah and His Messenger and
   does good, We will grant her double the reward, and We have prepared for her an
   honourable provision.
 word_by_word:
   1:
-    arabic: ۞ وَمَنۡ
+    arabic: ۞ وَمَن
     translation: And whoever
     transliteration: waman
   2:
-    arabic: يَّقۡنُتۡ
+    arabic: يَقۡنُتۡ
     translation: is obedient
     transliteration: yaqnut
   3:
-    arabic: مِنۡكُنَّ
+    arabic: مِنكُنَّ
     translation: among you
     transliteration: minkunna
   4:
-    arabic: لِلّٰهِ
+    arabic: لِلَّهِ
     translation: to Allah
     transliteration: lillahi
   5:
-    arabic: وَرَسُوۡلِهٖ
+    arabic: وَرَسُولِهِۦ
     translation: and His Messenger
     transliteration: warasūlihi
   6:
@@ -30,23 +30,23 @@ word_by_word:
     translation: and does
     transliteration: wataʿmal
   7:
-    arabic: صَالِحًـا
+    arabic: صَٰلِحٗا
     translation: righteousness
     transliteration: ṣāliḥan
   8:
-    arabic: نُّؤۡتِهَـآ
+    arabic: نُّؤۡتِهَآ
     translation: We will give her
     transliteration: nu'tihā
   9:
-    arabic: اَجۡرَهَا
+    arabic: أَجۡرَهَا
     translation: her reward
     transliteration: ajrahā
   10:
-    arabic: مَرَّتَيۡنِۙ
+    arabic: مَرَّتَيۡنِ
     translation: twice
     transliteration: marratayni
   11:
-    arabic: وَاَعۡتَدۡنَا
+    arabic: وَأَعۡتَدۡنَا
     translation: and We have prepared
     transliteration: wa-aʿtadnā
   12:
@@ -54,11 +54,11 @@ word_by_word:
     translation: for her
     transliteration: lahā
   13:
-    arabic: رِزۡقًا
+    arabic: رِزۡقٗا
     translation: a provision
     transliteration: riz'qan
   14:
-    arabic: كَرِيۡمًا‏
+    arabic: كَرِيمٗا
     translation: noble
     transliteration: karīman
 ---

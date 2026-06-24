@@ -1,42 +1,42 @@
 ---
-arabic_ayat: اِنۡ اَحۡسَنۡتُمۡ اَحۡسَنۡتُمۡ لِاَنۡفُسِكُمۡ​وَاِنۡ اَسَاۡتُمۡ فَلَهَا
-  ​ؕ فَاِذَا جَآءَ وَعۡدُ الۡاٰخِرَةِ لِيَسُـوْۤءا وُجُوۡهَكُمۡ وَلِيَدۡخُلُوا الۡمَسۡجِدَ
-  كَمَا دَخَلُوۡهُ اَوَّلَ مَرَّةٍ وَّلِيُتَبِّرُوۡا مَا عَلَوۡا تَتۡبِيۡرًا‏
+arabic_ayat: إِنۡ أَحۡسَنتُمۡ أَحۡسَنتُمۡ لِأَنفُسِكُمۡۖ وَإِنۡ أَسَأۡتُمۡ فَلَهَاۚ
+  فَإِذَا جَآءَ وَعۡدُ ٱلۡأٓخِرَةِ لِيَسُـُٔواْ وُجُوهَكُمۡ وَلِيَدۡخُلُواْ ٱلۡمَسۡجِدَ
+  كَمَا دَخَلُوهُ أَوَّلَ مَرَّةٖ وَلِيُتَبِّرُواْ مَا عَلَوۡاْ تَتۡبِيرًا
 sentence_translation: If you act rightly, it is for your own good, but if you do wrong,
   it is to your own loss. “And when the second warning would come to pass, your enemies
   would ˹be left to˺ totally disgrace you and enter the Temple ˹of Jerusalem˺ as they
   entered it the first time, and utterly destroy whatever would fall into their hands.
 word_by_word:
   1:
-    arabic: اِنۡ
+    arabic: إِنۡ
     translation: If
     transliteration: in
   2:
-    arabic: اَحۡسَنۡتُمۡ
+    arabic: أَحۡسَنتُمۡ
     translation: you do good
     transliteration: aḥsantum
   3:
-    arabic: اَحۡسَنۡتُمۡ
+    arabic: أَحۡسَنتُمۡ
     translation: you do good
     transliteration: aḥsantum
   4:
-    arabic: لِاَنۡفُسِكُمۡ​
+    arabic: لِأَنفُسِكُمۡۖ
     translation: for yourselves
     transliteration: li-anfusikum
   5:
-    arabic: وَاِنۡ
+    arabic: وَإِنۡ
     translation: and if
     transliteration: wa-in
   6:
-    arabic: اَسَاۡتُمۡ
+    arabic: أَسَأۡتُمۡ
     translation: you do evil
     transliteration: asatum
   7:
-    arabic: فَلَهَا ​ؕ
+    arabic: فَلَهَاۚ
     translation: then it is for it
     transliteration: falahā
   8:
-    arabic: فَاِذَا
+    arabic: فَإِذَا
     translation: So when
     transliteration: fa-idhā
   9:
@@ -48,23 +48,23 @@ word_by_word:
     translation: promise
     transliteration: waʿdu
   11:
-    arabic: الۡاٰخِرَةِ
+    arabic: ٱلۡأٓخِرَةِ
     translation: the last
     transliteration: l-ākhirati
   12:
-    arabic: لِيَسُـوْۤءا
+    arabic: لِيَسُـُٔواْ
     translation: to sadden
     transliteration: liyasūū
   13:
-    arabic: وُجُوۡهَكُمۡ
+    arabic: وُجُوهَكُمۡ
     translation: your faces
     transliteration: wujūhakum
   14:
-    arabic: وَلِيَدۡخُلُوا
+    arabic: وَلِيَدۡخُلُواْ
     translation: and to enter
     transliteration: waliyadkhulū
   15:
-    arabic: الۡمَسۡجِدَ
+    arabic: ٱلۡمَسۡجِدَ
     translation: the Masjid
     transliteration: l-masjida
   16:
@@ -72,19 +72,19 @@ word_by_word:
     translation: just as
     transliteration: kamā
   17:
-    arabic: دَخَلُوۡهُ
+    arabic: دَخَلُوهُ
     translation: they (had) entered it
     transliteration: dakhalūhu
   18:
-    arabic: اَوَّلَ
+    arabic: أَوَّلَ
     translation: first
     transliteration: awwala
   19:
-    arabic: مَرَّةٍ
+    arabic: مَرَّةٖ
     translation: time
     transliteration: marratin
   20:
-    arabic: وَّلِيُتَبِّرُوۡا
+    arabic: وَلِيُتَبِّرُواْ
     translation: and to destroy
     transliteration: waliyutabbirū
   21:
@@ -92,11 +92,11 @@ word_by_word:
     translation: what
     transliteration: mā
   22:
-    arabic: عَلَوۡا
+    arabic: عَلَوۡاْ
     translation: they had conquered
     transliteration: ʿalaw
   23:
-    arabic: تَتۡبِيۡرًا‏
+    arabic: تَتۡبِيرًا
     translation: (with) destruction
     transliteration: tatbīran
 ---

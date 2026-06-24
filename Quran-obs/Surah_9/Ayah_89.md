@@ -1,15 +1,15 @@
 ---
-arabic_ayat: اَعَدَّ اللّٰهُ لَهُمۡ جَنّٰتٍ تَجۡرِىۡ مِنۡ تَحۡتِهَا الۡاَنۡهٰرُ خٰلِدِيۡنَ
-  فِيۡهَا​ ؕ ذٰ لِكَ الۡـفَوۡزُ الۡعَظِيۡمُ‏
+arabic_ayat: أَعَدَّ ٱللَّهُ لَهُمۡ جَنَّٰتٖ تَجۡرِي مِن تَحۡتِهَا ٱلۡأَنۡهَٰرُ خَٰلِدِينَ
+  فِيهَاۚ ذَٰلِكَ ٱلۡفَوۡزُ ٱلۡعَظِيمُ
 sentence_translation: Allah has prepared for them Gardens under which rivers flow,
   to stay there forever. That is the ultimate triumph.
 word_by_word:
   1:
-    arabic: اَعَدَّ
+    arabic: أَعَدَّ
     translation: Allah has prepared
     transliteration: aʿadda
   2:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah has prepared
     transliteration: l-lahu
   3:
@@ -17,15 +17,15 @@ word_by_word:
     translation: for them
     transliteration: lahum
   4:
-    arabic: جَنّٰتٍ
+    arabic: جَنَّٰتٖ
     translation: Gardens
     transliteration: jannātin
   5:
-    arabic: تَجۡرِىۡ
+    arabic: تَجۡرِي
     translation: flows
     transliteration: tajrī
   6:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   7:
@@ -33,27 +33,27 @@ word_by_word:
     translation: underneath it
     transliteration: taḥtihā
   8:
-    arabic: الۡاَنۡهٰرُ
+    arabic: ٱلۡأَنۡهَٰرُ
     translation: the rivers
     transliteration: l-anhāru
   9:
-    arabic: خٰلِدِيۡنَ
+    arabic: خَٰلِدِينَ
     translation: (will) abide forever
     transliteration: khālidīna
   10:
-    arabic: فِيۡهَا​ ؕ
+    arabic: فِيهَاۚ
     translation: in it
     transliteration: fīhā
   11:
-    arabic: ذٰ لِكَ
+    arabic: ذَٰلِكَ
     translation: That
     transliteration: dhālika
   12:
-    arabic: الۡـفَوۡزُ
+    arabic: ٱلۡفَوۡزُ
     translation: (is) the success
     transliteration: l-fawzu
   13:
-    arabic: الۡعَظِيۡمُ‏
+    arabic: ٱلۡعَظِيمُ
     translation: the great
     transliteration: l-ʿaẓīmu
 ---

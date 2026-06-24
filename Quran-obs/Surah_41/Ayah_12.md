@@ -1,13 +1,13 @@
 ---
-arabic_ayat: فَقَضٰٮهُنَّ سَبۡعَ سَمٰوَاتٍ فِىۡ يَوۡمَيۡنِ وَاَوۡحٰى فِىۡ كُلِّ سَمَآءٍ
-  اَمۡرَهَا​ ؕ وَزَ يَّـنَّـا السَّمَآءَ الدُّنۡيَا بِمَصَابِيۡحَ ​ۖ  وَحِفۡظًا
-  ​ؕ ذٰ لِكَ تَقۡدِيۡرُ الۡعَزِيۡزِ الۡعَلِيۡمِ‏
+arabic_ayat: فَقَضَىٰهُنَّ سَبۡعَ سَمَٰوَاتٖ فِي يَوۡمَيۡنِ وَأَوۡحَىٰ فِي كُلِّ سَمَآءٍ
+  أَمۡرَهَاۚ وَزَيَّنَّا ٱلسَّمَآءَ ٱلدُّنۡيَا بِمَصَٰبِيحَ وَحِفۡظٗاۚ ذَٰلِكَ تَقۡدِيرُ
+  ٱلۡعَزِيزِ ٱلۡعَلِيمِ
 sentence_translation: So He formed the heaven into seven heavens in two Days, assigning
   to each its mandate. And We adorned the lowest heaven with ˹stars like˺ lamps ˹for
   beauty˺ and for protection. That is the design of the Almighty, All-Knowing.” 
 word_by_word:
   1:
-    arabic: فَقَضٰٮهُنَّ
+    arabic: فَقَضَىٰهُنَّ
     translation: Then He completed them
     transliteration: faqaḍāhunna
   2:
@@ -15,11 +15,11 @@ word_by_word:
     translation: (as) seven
     transliteration: sabʿa
   3:
-    arabic: سَمٰوَاتٍ
+    arabic: سَمَٰوَاتٖ
     translation: heavens
     transliteration: samāwātin
   4:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   5:
@@ -27,11 +27,11 @@ word_by_word:
     translation: two periods
     transliteration: yawmayni
   6:
-    arabic: وَاَوۡحٰى
+    arabic: وَأَوۡحَىٰ
     translation: and He revealed
     transliteration: wa-awḥā
   7:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   8:
@@ -43,43 +43,43 @@ word_by_word:
     translation: heaven
     transliteration: samāin
   10:
-    arabic: اَمۡرَهَا​ ؕ
+    arabic: أَمۡرَهَاۚ
     translation: its affair
     transliteration: amrahā
   11:
-    arabic: وَزَ يَّـنَّـا
+    arabic: وَزَيَّنَّا
     translation: And We adorned
     transliteration: wazayyannā
   12:
-    arabic: السَّمَآءَ
+    arabic: ٱلسَّمَآءَ
     translation: the heaven
     transliteration: l-samāa
   13:
-    arabic: الدُّنۡيَا
+    arabic: ٱلدُّنۡيَا
     translation: '[the world]'
     transliteration: l-dun'yā
   14:
-    arabic: بِمَصَابِيۡحَ ​ۖ 
+    arabic: بِمَصَٰبِيحَ
     translation: with lamps
     transliteration: bimaṣābīḥa
   15:
-    arabic: وَحِفۡظًا ​ؕ
+    arabic: وَحِفۡظٗاۚ
     translation: and (to) guard
     transliteration: waḥif'ẓan
   16:
-    arabic: ذٰ لِكَ
+    arabic: ذَٰلِكَ
     translation: That
     transliteration: dhālika
   17:
-    arabic: تَقۡدِيۡرُ
+    arabic: تَقۡدِيرُ
     translation: (is the) Decree
     transliteration: taqdīru
   18:
-    arabic: الۡعَزِيۡزِ
+    arabic: ٱلۡعَزِيزِ
     translation: (of) the All-Mighty
     transliteration: l-ʿazīzi
   19:
-    arabic: الۡعَلِيۡمِ‏
+    arabic: ٱلۡعَلِيمِ
     translation: the All-Knower
     transliteration: l-ʿalīmi
 ---

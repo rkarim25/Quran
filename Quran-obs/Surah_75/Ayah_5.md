@@ -1,5 +1,5 @@
 ---
-arabic_ayat: بَلۡ يُرِيۡدُ الۡاِنۡسَانُ لِيَفۡجُرَ اَمَامَهٗ​ۚ‏
+arabic_ayat: بَلۡ يُرِيدُ ٱلۡإِنسَٰنُ لِيَفۡجُرَ أَمَامَهُۥ
 sentence_translation: Still people want to deny what is yet to come,
 word_by_word:
   1:
@@ -7,11 +7,11 @@ word_by_word:
     translation: Nay
     transliteration: bal
   2:
-    arabic: يُرِيۡدُ
+    arabic: يُرِيدُ
     translation: Desires
     transliteration: yurīdu
   3:
-    arabic: الۡاِنۡسَانُ
+    arabic: ٱلۡإِنسَٰنُ
     translation: '[the] man'
     transliteration: l-insānu
   4:
@@ -19,7 +19,7 @@ word_by_word:
     translation: to give (the) lie
     transliteration: liyafjura
   5:
-    arabic: اَمَامَهٗ​ۚ‏
+    arabic: أَمَامَهُۥ
     translation: (to) what is before him
     transliteration: amāmahu
 ---

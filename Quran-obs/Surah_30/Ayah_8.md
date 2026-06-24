@@ -1,29 +1,29 @@
 ---
-arabic_ayat: اَوَلَمۡ يَتَفَكَّرُوۡا فِىۡۤ اَنۡفُسِهِمۡ مَا خَلَقَ اللّٰهُ السَّمٰوٰتِ
-  وَالۡاَرۡضَ وَمَا بَيۡنَهُمَاۤ اِلَّا بِالۡحَقِّ وَاَجَلٍ مُّسَمًّى​ؕ وَ اِنَّ كَثِيۡرًا
-  مِّنَ النَّاسِ بِلِقَآئِ رَبِّهِمۡ لَـكٰفِرُوۡنَ‏
+arabic_ayat: أَوَلَمۡ يَتَفَكَّرُواْ فِيٓ أَنفُسِهِمۗ مَّا خَلَقَ ٱللَّهُ ٱلسَّمَٰوَٰتِ
+  وَٱلۡأَرۡضَ وَمَا بَيۡنَهُمَآ إِلَّا بِٱلۡحَقِّ وَأَجَلٖ مُّسَمّٗىۗ وَإِنَّ كَثِيرٗا
+  مِّنَ ٱلنَّاسِ بِلِقَآيِٕ رَبِّهِمۡ لَكَٰفِرُونَ
 sentence_translation: Have they not reflected upon their own being? Allah only created
   the heavens and the earth and everything in between for a purpose and an appointed
   term. Yet most people are truly in denial of the meeting with their Lord!
 word_by_word:
   1:
-    arabic: اَوَلَمۡ
+    arabic: أَوَلَمۡ
     translation: Do not
     transliteration: awalam
   2:
-    arabic: يَتَفَكَّرُوۡا
+    arabic: يَتَفَكَّرُواْ
     translation: they ponder
     transliteration: yatafakkarū
   3:
-    arabic: فِىۡۤ
+    arabic: فِيٓ
     translation: within
     transliteration: fī
   4:
-    arabic: اَنۡفُسِهِمۡ
+    arabic: أَنفُسِهِمۗ
     translation: themselves
     transliteration: anfusihim
   5:
-    arabic: مَا
+    arabic: مَّا
     translation: Not
     transliteration: mā
   6:
@@ -31,15 +31,15 @@ word_by_word:
     translation: Allah (has) created
     transliteration: khalaqa
   7:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah (has) created
     transliteration: l-lahu
   8:
-    arabic: السَّمٰوٰتِ
+    arabic: ٱلسَّمَٰوَٰتِ
     translation: the heavens
     transliteration: l-samāwāti
   9:
-    arabic: وَالۡاَرۡضَ
+    arabic: وَٱلۡأَرۡضَ
     translation: and the earth
     transliteration: wal-arḍa
   10:
@@ -47,31 +47,31 @@ word_by_word:
     translation: and what
     transliteration: wamā
   11:
-    arabic: بَيۡنَهُمَاۤ
+    arabic: بَيۡنَهُمَآ
     translation: (is) between them
     transliteration: baynahumā
   12:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   13:
-    arabic: بِالۡحَقِّ
+    arabic: بِٱلۡحَقِّ
     translation: in truth
     transliteration: bil-ḥaqi
   14:
-    arabic: وَاَجَلٍ
+    arabic: وَأَجَلٖ
     translation: and (for) a term
     transliteration: wa-ajalin
   15:
-    arabic: مُّسَمًّى​ؕ
+    arabic: مُّسَمّٗىۗ
     translation: appointed
     transliteration: musamman
   16:
-    arabic: وَ اِنَّ
+    arabic: وَإِنَّ
     translation: And indeed
     transliteration: wa-inna
   17:
-    arabic: كَثِيۡرًا
+    arabic: كَثِيرٗا
     translation: many
     transliteration: kathīran
   18:
@@ -79,11 +79,11 @@ word_by_word:
     translation: of
     transliteration: mina
   19:
-    arabic: النَّاسِ
+    arabic: ٱلنَّاسِ
     translation: the people
     transliteration: l-nāsi
   20:
-    arabic: بِلِقَآئِ
+    arabic: بِلِقَآيِٕ
     translation: in (the) meeting
     transliteration: biliqāi
   21:
@@ -91,7 +91,7 @@ word_by_word:
     translation: (with) their Lord
     transliteration: rabbihim
   22:
-    arabic: لَـكٰفِرُوۡنَ‏
+    arabic: لَكَٰفِرُونَ
     translation: surely (are) disbelievers
     transliteration: lakāfirūna
 ---

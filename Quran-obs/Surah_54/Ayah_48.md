@@ -1,6 +1,5 @@
 ---
-arabic_ayat: "يَوۡمَ يُسۡحَبُوۡنَ فِى النَّارِ عَلٰى وُجُوۡهِهِمۡؕ ذُوۡقُوۡا مَسَّ\
-  \ سَقَرَ‏ \uFEFF\uFEFF"
+arabic_ayat: يَوۡمَ يُسۡحَبُونَ فِي ٱلنَّارِ عَلَىٰ وُجُوهِهِمۡ ذُوقُواْ مَسَّ سَقَرَ
 sentence_translation: On the Day they will be dragged into the Fire on their faces,
   ˹they will be told,˺ “Taste the touch of Hell!”
 word_by_word:
@@ -9,27 +8,27 @@ word_by_word:
     translation: (The) Day
     transliteration: yawma
   2:
-    arabic: يُسۡحَبُوۡنَ
+    arabic: يُسۡحَبُونَ
     translation: they will be dragged
     transliteration: yus'ḥabūna
   3:
-    arabic: فِى
+    arabic: فِي
     translation: into
     transliteration: fī
   4:
-    arabic: النَّارِ
+    arabic: ٱلنَّارِ
     translation: the Fire
     transliteration: l-nāri
   5:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: 'on'
     transliteration: ʿalā
   6:
-    arabic: وُجُوۡهِهِمۡؕ
+    arabic: وُجُوهِهِمۡ
     translation: their faces
     transliteration: wujūhihim
   7:
-    arabic: ذُوۡقُوۡا
+    arabic: ذُوقُواْ
     translation: Taste
     transliteration: dhūqū
   8:
@@ -37,7 +36,7 @@ word_by_word:
     translation: (the) touch
     transliteration: massa
   9:
-    arabic: "سَقَرَ‏ \uFEFF\uFEFF"
+    arabic: سَقَرَ
     translation: (of) Hell
     transliteration: saqara
 ---

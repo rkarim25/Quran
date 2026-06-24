@@ -1,9 +1,9 @@
 ---
-arabic_ayat: يٰۤاَيُّهَا النَّبِىُّ اِذَا طَلَّقۡتُمُ النِّسَآءَ فَطَلِّقُوۡهُنَّ
-  لِعِدَّتِهِنَّ وَاَحۡصُوا الۡعِدَّةَ ​ ۚ وَاتَّقُوا اللّٰهَ رَبَّكُمۡ​ ۚ لَا تُخۡرِجُوۡهُنَّ
-  مِنۡۢ بُيُوۡتِهِنَّ وَلَا يَخۡرُجۡنَ اِلَّاۤ اَنۡ يَّاۡتِيۡنَ بِفَاحِشَةٍ مُّبَيِّنَةٍ​
-  ؕ وَتِلۡكَ حُدُوۡدُ اللّٰهِ​ ؕ وَمَنۡ يَّتَعَدَّ حُدُوۡدَ اللّٰهِ فَقَدۡ ظَلَمَ
-  نَفۡسَهٗ​ ؕ لَا تَدۡرِىۡ لَعَلَّ اللّٰهَ يُحۡدِثُ بَعۡدَ ذٰ لِكَ اَمۡرًا‏
+arabic_ayat: يَٰٓأَيُّهَا ٱلنَّبِيُّ إِذَا طَلَّقۡتُمُ ٱلنِّسَآءَ فَطَلِّقُوهُنَّ
+  لِعِدَّتِهِنَّ وَأَحۡصُواْ ٱلۡعِدَّةَۖ وَٱتَّقُواْ ٱللَّهَ رَبَّكُمۡۖ لَا تُخۡرِجُوهُنَّ
+  مِنۢ بُيُوتِهِنَّ وَلَا يَخۡرُجۡنَ إِلَّآ أَن يَأۡتِينَ بِفَٰحِشَةٖ مُّبَيِّنَةٖۚ
+  وَتِلۡكَ حُدُودُ ٱللَّهِۚ وَمَن يَتَعَدَّ حُدُودَ ٱللَّهِ فَقَدۡ ظَلَمَ نَفۡسَهُۥۚ
+  لَا تَدۡرِي لَعَلَّ ٱللَّهَ يُحۡدِثُ بَعۡدَ ذَٰلِكَ أَمۡرٗا
 sentence_translation: O Prophet! ˹Instruct the believers:˺ When you ˹intend to˺ divorce
   women, then divorce them with concern for their waiting period, and count it accurately.
   And fear Allah, your Lord. Do not force them out of their homes, nor should they
@@ -12,15 +12,15 @@ sentence_translation: O Prophet! ˹Instruct the believers:˺ When you ˹intend t
   know, perhaps Allah will bring about a change ˹of heart˺ later. 
 word_by_word:
   1:
-    arabic: يٰۤاَيُّهَا
+    arabic: يَٰٓأَيُّهَا
     translation: O
     transliteration: yāayyuhā
   2:
-    arabic: النَّبِىُّ
+    arabic: ٱلنَّبِيُّ
     translation: Prophet
     transliteration: l-nabiyu
   3:
-    arabic: اِذَا
+    arabic: إِذَا
     translation: When
     transliteration: idhā
   4:
@@ -28,11 +28,11 @@ word_by_word:
     translation: you divorce
     transliteration: ṭallaqtumu
   5:
-    arabic: النِّسَآءَ
+    arabic: ٱلنِّسَآءَ
     translation: '[the] women'
     transliteration: l-nisāa
   6:
-    arabic: فَطَلِّقُوۡهُنَّ
+    arabic: فَطَلِّقُوهُنَّ
     translation: then divorce them
     transliteration: faṭalliqūhunna
   7:
@@ -40,23 +40,23 @@ word_by_word:
     translation: for their waiting period
     transliteration: liʿiddatihinna
   8:
-    arabic: وَاَحۡصُوا
+    arabic: وَأَحۡصُواْ
     translation: and keep count
     transliteration: wa-aḥṣū
   9:
-    arabic: الۡعِدَّةَ ​ ۚ
+    arabic: ٱلۡعِدَّةَۖ
     translation: (of) the waiting period
     transliteration: l-ʿidata
   10:
-    arabic: وَاتَّقُوا
+    arabic: وَٱتَّقُواْ
     translation: and fear
     transliteration: wa-ittaqū
   11:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   12:
-    arabic: رَبَّكُمۡ​ ۚ
+    arabic: رَبَّكُمۡۖ
     translation: your Lord
     transliteration: rabbakum
   13:
@@ -64,15 +64,15 @@ word_by_word:
     translation: (Do) not
     transliteration: lā
   14:
-    arabic: تُخۡرِجُوۡهُنَّ
+    arabic: تُخۡرِجُوهُنَّ
     translation: expel them
     transliteration: tukh'rijūhunna
   15:
-    arabic: مِنۡۢ
+    arabic: مِنۢ
     translation: from
     transliteration: min
   16:
-    arabic: بُيُوۡتِهِنَّ
+    arabic: بُيُوتِهِنَّ
     translation: their houses
     transliteration: buyūtihinna
   17:
@@ -84,23 +84,23 @@ word_by_word:
     translation: they should leave
     transliteration: yakhruj'na
   19:
-    arabic: اِلَّاۤ
+    arabic: إِلَّآ
     translation: except
     transliteration: illā
   20:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that
     transliteration: an
   21:
-    arabic: يَّاۡتِيۡنَ
+    arabic: يَأۡتِينَ
     translation: they commit
     transliteration: yatīna
   22:
-    arabic: بِفَاحِشَةٍ
+    arabic: بِفَٰحِشَةٖ
     translation: an immorality
     transliteration: bifāḥishatin
   23:
-    arabic: مُّبَيِّنَةٍ​ ؕ
+    arabic: مُّبَيِّنَةٖۚ
     translation: clear
     transliteration: mubayyinatin
   24:
@@ -108,27 +108,27 @@ word_by_word:
     translation: And these
     transliteration: watil'ka
   25:
-    arabic: حُدُوۡدُ
+    arabic: حُدُودُ
     translation: (are the) limits
     transliteration: ḥudūdu
   26:
-    arabic: اللّٰهِ​ ؕ
+    arabic: ٱللَّهِۚ
     translation: (of) Allah
     transliteration: l-lahi
   27:
-    arabic: وَمَنۡ
+    arabic: وَمَن
     translation: And whoever
     transliteration: waman
   28:
-    arabic: يَّتَعَدَّ
+    arabic: يَتَعَدَّ
     translation: transgresses
     transliteration: yataʿadda
   29:
-    arabic: حُدُوۡدَ
+    arabic: حُدُودَ
     translation: (the) limits
     transliteration: ḥudūda
   30:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (of) Allah
     transliteration: l-lahi
   31:
@@ -140,7 +140,7 @@ word_by_word:
     translation: he has wronged
     transliteration: ẓalama
   33:
-    arabic: نَفۡسَهٗ​ ؕ
+    arabic: نَفۡسَهُۥۚ
     translation: himself
     transliteration: nafsahu
   34:
@@ -148,7 +148,7 @@ word_by_word:
     translation: Not
     transliteration: lā
   35:
-    arabic: تَدۡرِىۡ
+    arabic: تَدۡرِي
     translation: you know
     transliteration: tadrī
   36:
@@ -156,7 +156,7 @@ word_by_word:
     translation: Perhaps
     transliteration: laʿalla
   37:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   38:
@@ -168,11 +168,11 @@ word_by_word:
     translation: after
     transliteration: baʿda
   40:
-    arabic: ذٰ لِكَ
+    arabic: ذَٰلِكَ
     translation: that
     transliteration: dhālika
   41:
-    arabic: اَمۡرًا‏
+    arabic: أَمۡرٗا
     translation: a matter
     transliteration: amran
 ---

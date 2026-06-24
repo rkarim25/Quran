@@ -1,23 +1,23 @@
 ---
-arabic_ayat: اِنَّمَا الۡمُؤۡمِنُوۡنَ اِخۡوَةٌ فَاَصۡلِحُوۡا بَيۡنَ اَخَوَيۡكُمۡ​وَاتَّقُوا
-  اللّٰهَ لَعَلَّكُمۡ تُرۡحَمُوۡنَ‏
+arabic_ayat: إِنَّمَا ٱلۡمُؤۡمِنُونَ إِخۡوَةٞ فَأَصۡلِحُواْ بَيۡنَ أَخَوَيۡكُمۡۚ وَٱتَّقُواْ
+  ٱللَّهَ لَعَلَّكُمۡ تُرۡحَمُونَ
 sentence_translation: The believers are but one brotherhood, so make peace between
   your brothers. And be mindful of Allah so you may be shown mercy.
 word_by_word:
   1:
-    arabic: اِنَّمَا
+    arabic: إِنَّمَا
     translation: Only
     transliteration: innamā
   2:
-    arabic: الۡمُؤۡمِنُوۡنَ
+    arabic: ٱلۡمُؤۡمِنُونَ
     translation: the believers
     transliteration: l-mu'minūna
   3:
-    arabic: اِخۡوَةٌ
+    arabic: إِخۡوَةٞ
     translation: (are) brothers
     transliteration: ikh'watun
   4:
-    arabic: فَاَصۡلِحُوۡا
+    arabic: فَأَصۡلِحُواْ
     translation: so make peace
     transliteration: fa-aṣliḥū
   5:
@@ -25,15 +25,15 @@ word_by_word:
     translation: between
     transliteration: bayna
   6:
-    arabic: اَخَوَيۡكُمۡ​وَ
+    arabic: أَخَوَيۡكُمۡۚ وَ
     translation: your brothers
     transliteration: akhawaykum
   7:
-    arabic: اتَّقُوا
+    arabic: ٱتَّقُواْ
     translation: and fear Allah
     transliteration: wa-ittaqū
   8:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: and fear Allah
     transliteration: l-laha
   9:
@@ -41,7 +41,7 @@ word_by_word:
     translation: so that you may
     transliteration: laʿallakum
   10:
-    arabic: تُرۡحَمُوۡنَ‏
+    arabic: تُرۡحَمُونَ
     translation: receive mercy
     transliteration: tur'ḥamūna
 ---

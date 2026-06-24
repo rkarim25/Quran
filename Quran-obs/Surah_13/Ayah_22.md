@@ -1,22 +1,22 @@
 ---
-arabic_ayat: وَالَّذِيۡنَ صَبَرُوا ابۡتِغَآءَ وَجۡهِ رَبِّهِمۡ وَاَقَامُوا الصَّلٰوةَ
-  وَاَنۡفَقُوۡا مِمَّا رَزَقۡنٰهُمۡ سِرًّا وَّعَلَانِيَةً وَّيَدۡرَءُوۡنَ بِالۡحَسَنَةِ
-  السَّيِّئَةَ اُولٰۤٮِٕكَ لَهُمۡ عُقۡبَى الدَّارِۙ‏
+arabic_ayat: وَٱلَّذِينَ صَبَرُواْ ٱبۡتِغَآءَ وَجۡهِ رَبِّهِمۡ وَأَقَامُواْ ٱلصَّلَوٰةَ
+  وَأَنفَقُواْ مِمَّا رَزَقۡنَٰهُمۡ سِرّٗا وَعَلَانِيَةٗ وَيَدۡرَءُونَ بِٱلۡحَسَنَةِ
+  ٱلسَّيِّئَةَ أُوْلَٰٓئِكَ لَهُمۡ عُقۡبَى ٱلدَّارِ
 sentence_translation: 'And ˹they are˺ those who endure patiently, seeking their Lord’s
   pleasure, establish prayer, donate from what We have provided for them—secretly
   and openly—and respond to evil with good. It is they who will have the ultimate
   abode:'
 word_by_word:
   1:
-    arabic: وَالَّذِيۡنَ
+    arabic: وَٱلَّذِينَ
     translation: And those who
     transliteration: wa-alladhīna
   2:
-    arabic: صَبَرُوا
+    arabic: صَبَرُواْ
     translation: (are) patient
     transliteration: ṣabarū
   3:
-    arabic: ابۡتِغَآءَ
+    arabic: ٱبۡتِغَآءَ
     translation: seeking
     transliteration: ib'tighāa
   4:
@@ -28,15 +28,15 @@ word_by_word:
     translation: (of) their Lord
     transliteration: rabbihim
   6:
-    arabic: وَاَقَامُوا
+    arabic: وَأَقَامُواْ
     translation: and establish
     transliteration: wa-aqāmū
   7:
-    arabic: الصَّلٰوةَ
+    arabic: ٱلصَّلَوٰةَ
     translation: the prayer
     transliteration: l-ṣalata
   8:
-    arabic: وَاَنۡفَقُوۡا
+    arabic: وَأَنفَقُواْ
     translation: and spend
     transliteration: wa-anfaqū
   9:
@@ -44,31 +44,31 @@ word_by_word:
     translation: from what
     transliteration: mimmā
   10:
-    arabic: رَزَقۡنٰهُمۡ
+    arabic: رَزَقۡنَٰهُمۡ
     translation: We have provided them
     transliteration: razaqnāhum
   11:
-    arabic: سِرًّا
+    arabic: سِرّٗا
     translation: secretly
     transliteration: sirran
   12:
-    arabic: وَّعَلَانِيَةً
+    arabic: وَعَلَانِيَةٗ
     translation: and publicly
     transliteration: waʿalāniyatan
   13:
-    arabic: وَّيَدۡرَءُوۡنَ
+    arabic: وَيَدۡرَءُونَ
     translation: and they repel
     transliteration: wayadraūna
   14:
-    arabic: بِالۡحَسَنَةِ
+    arabic: بِٱلۡحَسَنَةِ
     translation: with the good
     transliteration: bil-ḥasanati
   15:
-    arabic: السَّيِّئَةَ
+    arabic: ٱلسَّيِّئَةَ
     translation: 'the evil '
     transliteration: l-sayi-ata
   16:
-    arabic: اُولٰۤٮِٕكَ
+    arabic: أُوْلَٰٓئِكَ
     translation: those
     transliteration: ulāika
   17:
@@ -80,7 +80,7 @@ word_by_word:
     translation: (is) the final attainment
     transliteration: ʿuq'bā
   19:
-    arabic: الدَّارِۙ‏
+    arabic: ٱلدَّارِ
     translation: '(of) the Home '
     transliteration: l-dāri
 ---

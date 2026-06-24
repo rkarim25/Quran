@@ -1,11 +1,11 @@
 ---
-arabic_ayat: اِنَّا جَعَلۡنَا فِىۡۤ اَعۡنَاقِهِمۡ اَغۡلٰلًا فَهِىَ اِلَى الۡاَ ذۡقَانِ
-  فَهُمۡ مُّقۡمَحُوۡنَ‏
+arabic_ayat: إِنَّا جَعَلۡنَا فِيٓ أَعۡنَٰقِهِمۡ أَغۡلَٰلٗا فَهِيَ إِلَى ٱلۡأَذۡقَانِ
+  فَهُم مُّقۡمَحُونَ
 sentence_translation: ˹It is as if˺ We have put shackles around their necks up to
   their chins, so their heads are forced up,
 word_by_word:
   1:
-    arabic: اِنَّا
+    arabic: إِنَّا
     translation: Indeed, We
     transliteration: innā
   2:
@@ -13,35 +13,35 @@ word_by_word:
     translation: '[We] have placed'
     transliteration: jaʿalnā
   3:
-    arabic: فِىۡۤ
+    arabic: فِيٓ
     translation: 'on'
     transliteration: fī
   4:
-    arabic: اَعۡنَاقِهِمۡ
+    arabic: أَعۡنَٰقِهِمۡ
     translation: their necks
     transliteration: aʿnāqihim
   5:
-    arabic: اَغۡلٰلًا
+    arabic: أَغۡلَٰلٗا
     translation: iron collars
     transliteration: aghlālan
   6:
-    arabic: فَهِىَ
+    arabic: فَهِيَ
     translation: and they
     transliteration: fahiya
   7:
-    arabic: اِلَى
+    arabic: إِلَى
     translation: (are up) to
     transliteration: ilā
   8:
-    arabic: الۡاَ ذۡقَانِ
+    arabic: ٱلۡأَذۡقَانِ
     translation: the chins
     transliteration: l-adhqāni
   9:
-    arabic: فَهُمۡ
+    arabic: فَهُم
     translation: so they
     transliteration: fahum
   10:
-    arabic: مُّقۡمَحُوۡنَ‏
+    arabic: مُّقۡمَحُونَ
     translation: (are with) heads raised up
     transliteration: muq'maḥūna
 ---

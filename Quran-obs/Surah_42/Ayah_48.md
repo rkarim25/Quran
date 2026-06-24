@@ -1,8 +1,8 @@
 ---
-arabic_ayat: فَاِنۡ اَعۡرَضُوۡا فَمَاۤ اَرۡسَلۡنٰكَ عَلَيۡهِمۡ حَفِيۡظًا​ؕ اِنۡ عَلَيۡكَ
-  اِلَّا الۡبَلٰغُ​ ؕ وَاِنَّاۤ اِذَاۤ اَذَقۡنَا الۡاِنۡسَانَ مِنَّا رَحۡمَةً فَرِحَ
-  بِهَا​ۚ وَاِنۡ تُصِبۡهُمۡ سَيِّئَةٌۢ بِمَا قَدَّمَتۡ اَيۡدِيۡهِمۡ فَاِنَّ الۡاِنۡسَانَ
-  كَفُوۡرٌ‏
+arabic_ayat: فَإِنۡ أَعۡرَضُواْ فَمَآ أَرۡسَلۡنَٰكَ عَلَيۡهِمۡ حَفِيظًاۖ إِنۡ عَلَيۡكَ
+  إِلَّا ٱلۡبَلَٰغُۗ وَإِنَّآ إِذَآ أَذَقۡنَا ٱلۡإِنسَٰنَ مِنَّا رَحۡمَةٗ فَرِحَ
+  بِهَاۖ وَإِن تُصِبۡهُمۡ سَيِّئَةُۢ بِمَا قَدَّمَتۡ أَيۡدِيهِمۡ فَإِنَّ ٱلۡإِنسَٰنَ
+  كَفُورٞ
 sentence_translation: But if they turn away, We have not sent you ˹O Prophet˺ as a
   keeper over them. Your duty is only to deliver ˹the message˺. And indeed, when We
   let someone taste a mercy from Us, they become prideful ˹because˺ of it. But when
@@ -10,19 +10,19 @@ sentence_translation: But if they turn away, We have not sent you ˹O Prophet˺ 
   ungrateful. 
 word_by_word:
   1:
-    arabic: فَاِنۡ
+    arabic: فَإِنۡ
     translation: Then if
     transliteration: fa-in
   2:
-    arabic: اَعۡرَضُوۡا
+    arabic: أَعۡرَضُواْ
     translation: they turn away
     transliteration: aʿraḍū
   3:
-    arabic: فَمَاۤ
+    arabic: فَمَآ
     translation: then not
     transliteration: famā
   4:
-    arabic: اَرۡسَلۡنٰكَ
+    arabic: أَرۡسَلۡنَٰكَ
     translation: We have sent you
     transliteration: arsalnāka
   5:
@@ -30,11 +30,11 @@ word_by_word:
     translation: over them
     transliteration: ʿalayhim
   6:
-    arabic: حَفِيۡظًا​ؕ
+    arabic: حَفِيظًاۖ
     translation: (as) a guardian
     transliteration: ḥafīẓan
   7:
-    arabic: اِنۡ
+    arabic: إِنۡ
     translation: Not
     transliteration: in
   8:
@@ -42,27 +42,27 @@ word_by_word:
     translation: (is) on you
     transliteration: ʿalayka
   9:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   10:
-    arabic: الۡبَلٰغُ​ ؕ
+    arabic: ٱلۡبَلَٰغُۗ
     translation: the conveyance
     transliteration: l-balāghu
   11:
-    arabic: وَاِنَّاۤ
+    arabic: وَإِنَّآ
     translation: And indeed
     transliteration: wa-innā
   12:
-    arabic: اِذَاۤ
+    arabic: إِذَآ
     translation: when
     transliteration: idhā
   13:
-    arabic: اَذَقۡنَا
+    arabic: أَذَقۡنَا
     translation: We cause to taste
     transliteration: adhaqnā
   14:
-    arabic: الۡاِنۡسَانَ
+    arabic: ٱلۡإِنسَٰنَ
     translation: '[the] man'
     transliteration: l-insāna
   15:
@@ -70,7 +70,7 @@ word_by_word:
     translation: from Us
     transliteration: minnā
   16:
-    arabic: رَحۡمَةً
+    arabic: رَحۡمَةٗ
     translation: Mercy
     transliteration: raḥmatan
   17:
@@ -78,11 +78,11 @@ word_by_word:
     translation: he rejoices
     transliteration: fariḥa
   18:
-    arabic: بِهَا​ۚ
+    arabic: بِهَاۖ
     translation: in it
     transliteration: bihā
   19:
-    arabic: وَاِنۡ
+    arabic: وَإِن
     translation: But if
     transliteration: wa-in
   20:
@@ -90,7 +90,7 @@ word_by_word:
     translation: befalls them
     transliteration: tuṣib'hum
   21:
-    arabic: سَيِّئَةٌۢ
+    arabic: سَيِّئَةُۢ
     translation: evil
     transliteration: sayyi-atun
   22:
@@ -102,19 +102,19 @@ word_by_word:
     translation: have sent forth
     transliteration: qaddamat
   24:
-    arabic: اَيۡدِيۡهِمۡ
+    arabic: أَيۡدِيهِمۡ
     translation: their hands
     transliteration: aydīhim
   25:
-    arabic: فَاِنَّ
+    arabic: فَإِنَّ
     translation: then indeed
     transliteration: fa-inna
   26:
-    arabic: الۡاِنۡسَانَ
+    arabic: ٱلۡإِنسَٰنَ
     translation: '[the] man'
     transliteration: l-insāna
   27:
-    arabic: كَفُوۡرٌ‏
+    arabic: كَفُورٞ
     translation: (is) ungrateful
     transliteration: kafūrun
 ---

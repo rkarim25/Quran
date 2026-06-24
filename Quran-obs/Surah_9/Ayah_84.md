@@ -1,6 +1,6 @@
 ---
-arabic_ayat: وَلَا تُصَلِّ عَلٰٓى اَحَدٍ مِّنۡهُمۡ مَّاتَ اَبَدًا وَّلَا تَقُمۡ عَلٰى
-  قَبۡرِهٖ ؕ اِنَّهُمۡ كَفَرُوۡا بِاللّٰهِ وَرَسُوۡلِهٖ وَمَاتُوۡا وَهُمۡ فٰسِقُوۡنَ‏
+arabic_ayat: وَلَا تُصَلِّ عَلَىٰٓ أَحَدٖ مِّنۡهُم مَّاتَ أَبَدٗا وَلَا تَقُمۡ عَلَىٰ
+  قَبۡرِهِۦٓۖ إِنَّهُمۡ كَفَرُواْ بِٱللَّهِ وَرَسُولِهِۦ وَمَاتُواْ وَهُمۡ فَٰسِقُونَ
 sentence_translation: And do not ever offer ˹funeral˺ prayers for any of their dead,
   nor stand by their grave ˹at burial˺, for they have lost faith in Allah and His
   Messenger and died rebellious.
@@ -14,15 +14,15 @@ word_by_word:
     translation: you pray
     transliteration: tuṣalli
   3:
-    arabic: عَلٰٓى
+    arabic: عَلَىٰٓ
     translation: for
     transliteration: ʿalā
   4:
-    arabic: اَحَدٍ
+    arabic: أَحَدٖ
     translation: any
     transliteration: aḥadin
   5:
-    arabic: مِّنۡهُمۡ
+    arabic: مِّنۡهُم
     translation: of them
     transliteration: min'hum
   6:
@@ -30,11 +30,11 @@ word_by_word:
     translation: who dies
     transliteration: māta
   7:
-    arabic: اَبَدًا
+    arabic: أَبَدٗا
     translation: ever
     transliteration: abadan
   8:
-    arabic: وَّلَا
+    arabic: وَلَا
     translation: and not
     transliteration: walā
   9:
@@ -42,31 +42,31 @@ word_by_word:
     translation: you stand
     transliteration: taqum
   10:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: by
     transliteration: ʿalā
   11:
-    arabic: قَبۡرِهٖ ؕ
+    arabic: قَبۡرِهِۦٓۖ
     translation: his grave
     transliteration: qabrihi
   12:
-    arabic: اِنَّهُمۡ
+    arabic: إِنَّهُمۡ
     translation: Indeed, they
     transliteration: innahum
   13:
-    arabic: كَفَرُوۡا
+    arabic: كَفَرُواْ
     translation: disbelieved
     transliteration: kafarū
   14:
-    arabic: بِاللّٰهِ
+    arabic: بِٱللَّهِ
     translation: in Allah
     transliteration: bil-lahi
   15:
-    arabic: وَرَسُوۡلِهٖ
+    arabic: وَرَسُولِهِۦ
     translation: and His Messenger
     transliteration: warasūlihi
   16:
-    arabic: وَمَاتُوۡا
+    arabic: وَمَاتُواْ
     translation: and died
     transliteration: wamātū
   17:
@@ -74,7 +74,7 @@ word_by_word:
     translation: while they were
     transliteration: wahum
   18:
-    arabic: فٰسِقُوۡنَ‏
+    arabic: فَٰسِقُونَ
     translation: defiantly disobedient
     transliteration: fāsiqūna
 ---

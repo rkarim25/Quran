@@ -1,27 +1,27 @@
 ---
-arabic_ayat: وَمَنۡ يَّفۡعَلۡ ذٰ لِكَ عُدۡوَانًا وَّظُلۡمًا فَسَوۡفَ نُصۡلِيۡهِ نَارًا​
-  ؕ وَكَانَ ذٰ لِكَ عَلَى اللّٰهِ يَسِيۡرًا‏
+arabic_ayat: وَمَن يَفۡعَلۡ ذَٰلِكَ عُدۡوَٰنٗا وَظُلۡمٗا فَسَوۡفَ نُصۡلِيهِ نَارٗاۚ
+  وَكَانَ ذَٰلِكَ عَلَى ٱللَّهِ يَسِيرًا
 sentence_translation: And whoever does this sinfully and unjustly, We will burn them
   in the Fire. That is easy for Allah.
 word_by_word:
   1:
-    arabic: وَمَنۡ
+    arabic: وَمَن
     translation: And whoever
     transliteration: waman
   2:
-    arabic: يَّفۡعَلۡ
+    arabic: يَفۡعَلۡ
     translation: does
     transliteration: yafʿal
   3:
-    arabic: ذٰ لِكَ
+    arabic: ذَٰلِكَ
     translation: that
     transliteration: dhālika
   4:
-    arabic: عُدۡوَانًا
+    arabic: عُدۡوَٰنٗا
     translation: (in) aggression
     transliteration: ʿud'wānan
   5:
-    arabic: وَّظُلۡمًا
+    arabic: وَظُلۡمٗا
     translation: and injustice
     transliteration: waẓul'man
   6:
@@ -29,11 +29,11 @@ word_by_word:
     translation: then soon
     transliteration: fasawfa
   7:
-    arabic: نُصۡلِيۡهِ
+    arabic: نُصۡلِيهِ
     translation: We (will) cast him
     transliteration: nuṣ'līhi
   8:
-    arabic: نَارًا​ ؕ
+    arabic: نَارٗاۚ
     translation: (into) a Fire
     transliteration: nāran
   9:
@@ -41,7 +41,7 @@ word_by_word:
     translation: And is
     transliteration: wakāna
   10:
-    arabic: ذٰ لِكَ
+    arabic: ذَٰلِكَ
     translation: that
     transliteration: dhālika
   11:
@@ -49,11 +49,11 @@ word_by_word:
     translation: for
     transliteration: ʿalā
   12:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   13:
-    arabic: يَسِيۡرًا‏
+    arabic: يَسِيرًا
     translation: easy
     transliteration: yasīran
 ---

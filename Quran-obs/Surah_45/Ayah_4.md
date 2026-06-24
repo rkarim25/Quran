@@ -1,11 +1,10 @@
 ---
-arabic_ayat: "وَفِىۡ خَلۡقِكُمۡ وَمَا يَبُثُّ مِنۡ دَآبَّةٍ اٰيٰتٌ لِّقَوۡمٍ يُّوۡقِنُوۡنَۙ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: وَفِي خَلۡقِكُمۡ وَمَا يَبُثُّ مِن دَآبَّةٍ ءَايَٰتٞ لِّقَوۡمٖ يُوقِنُونَ
 sentence_translation: And in your own creation, and whatever living beings He dispersed,
   are signs for people of sure faith.
 word_by_word:
   1:
-    arabic: وَفِىۡ
+    arabic: وَفِي
     translation: And in
     transliteration: wafī
   2:
@@ -21,23 +20,23 @@ word_by_word:
     translation: He disperses
     transliteration: yabuthu
   5:
-    arabic: مِنۡ
+    arabic: مِن
     translation: of
     transliteration: min
   6:
-    arabic: دَآبَّةٍ
+    arabic: دَآبَّةٍ ءَ
     translation: (the) moving creatures
     transliteration: dābbatin
   7:
-    arabic: اٰيٰتٌ
+    arabic: ايَٰتٞ
     translation: (are) Signs
     transliteration: āyātun
   8:
-    arabic: لِّقَوۡمٍ
+    arabic: لِّقَوۡمٖ
     translation: for a people
     transliteration: liqawmin
   9:
-    arabic: "يُّوۡقِنُوۡنَۙ‏ \uFEFF\uFEFF"
+    arabic: يُوقِنُونَ
     translation: who are certain
     transliteration: yūqinūna
 ---

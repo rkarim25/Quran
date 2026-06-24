@@ -1,11 +1,11 @@
 ---
-arabic_ayat: اِنَّ رَبَّكَ هُوَ يَفۡصِلُ بَيۡنَهُمۡ يَوۡمَ الۡقِيٰمَةِ فِيۡمَا كَانُوۡا
-  فِيۡهِ يَخۡتَلِفُوۡنَ‏
+arabic_ayat: إِنَّ رَبَّكَ هُوَ يَفۡصِلُ بَيۡنَهُمۡ يَوۡمَ ٱلۡقِيَٰمَةِ فِيمَا كَانُواْ
+  فِيهِ يَخۡتَلِفُونَ
 sentence_translation: Indeed, your Lord will decide between them on the Day of Judgment
   regarding their differences.
 word_by_word:
   1:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   2:
@@ -29,23 +29,23 @@ word_by_word:
     translation: (on the) Day
     transliteration: yawma
   7:
-    arabic: الۡقِيٰمَةِ
+    arabic: ٱلۡقِيَٰمَةِ
     translation: (of) Resurrection
     transliteration: l-qiyāmati
   8:
-    arabic: فِيۡمَا
+    arabic: فِيمَا
     translation: in what
     transliteration: fīmā
   9:
-    arabic: كَانُوۡا
+    arabic: كَانُواْ
     translation: they used (to)
     transliteration: kānū
   10:
-    arabic: فِيۡهِ
+    arabic: فِيهِ
     translation: '[in it]'
     transliteration: fīhi
   11:
-    arabic: يَخۡتَلِفُوۡنَ‏
+    arabic: يَخۡتَلِفُونَ
     translation: differ
     transliteration: yakhtalifūna
 ---

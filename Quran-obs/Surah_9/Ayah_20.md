@@ -1,49 +1,48 @@
 ---
-arabic_ayat: "اَلَّذِيۡنَ اٰمَنُوۡا وَ هَاجَرُوۡا وَجَاهَدُوۡا فِىۡ سَبِيۡلِ اللّٰهِ\
-  \ بِاَمۡوَالِهِمۡ وَاَنۡفُسِهِمۡۙ اَعۡظَمُ دَرَجَةً عِنۡدَ اللّٰهِ​ؕ وَاُولٰٓٮِٕكَ\
-  \ هُمُ الۡفَآٮِٕزُوۡنَ‏ \uFEFF\uFEFF"
+arabic_ayat: ٱلَّذِينَ ءَامَنُواْ وَهَاجَرُواْ وَجَٰهَدُواْ فِي سَبِيلِ ٱللَّهِ بِأَمۡوَٰلِهِمۡ
+  وَأَنفُسِهِمۡ أَعۡظَمُ دَرَجَةً عِندَ ٱللَّهِۚ وَأُوْلَٰٓئِكَ هُمُ ٱلۡفَآئِزُونَ
 sentence_translation: Those who have believed, emigrated, and strived in the cause
   of Allah with their wealth and their lives are greater in rank in the sight of Allah.
   It is they who will triumph.
 word_by_word:
   1:
-    arabic: اَلَّذِيۡنَ
+    arabic: ٱلَّذِينَ ءَ
     translation: Those who
     transliteration: alladhīna
   2:
-    arabic: اٰمَنُوۡا
+    arabic: امَنُواْ
     translation: believed
     transliteration: āmanū
   3:
-    arabic: وَ هَاجَرُوۡا
+    arabic: وَهَاجَرُواْ
     translation: and emigrated
     transliteration: wahājarū
   4:
-    arabic: وَجَاهَدُوۡا
+    arabic: وَجَٰهَدُواْ
     translation: and strove
     transliteration: wajāhadū
   5:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   6:
-    arabic: سَبِيۡلِ
+    arabic: سَبِيلِ
     translation: (the) way
     transliteration: sabīli
   7:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (of) Allah
     transliteration: l-lahi
   8:
-    arabic: بِاَمۡوَالِهِمۡ
+    arabic: بِأَمۡوَٰلِهِمۡ
     translation: with their wealth
     transliteration: bi-amwālihim
   9:
-    arabic: وَاَنۡفُسِهِمۡۙ
+    arabic: وَأَنفُسِهِمۡ
     translation: and their lives
     transliteration: wa-anfusihim
   10:
-    arabic: اَعۡظَمُ
+    arabic: أَعۡظَمُ
     translation: (are) greater
     transliteration: aʿẓamu
   11:
@@ -51,15 +50,15 @@ word_by_word:
     translation: (in) rank
     transliteration: darajatan
   12:
-    arabic: عِنۡدَ
+    arabic: عِندَ
     translation: near
     transliteration: ʿinda
   13:
-    arabic: اللّٰهِ​ؕ
+    arabic: ٱللَّهِۚ
     translation: Allah
     transliteration: l-lahi
   14:
-    arabic: وَاُولٰٓٮِٕكَ
+    arabic: وَأُوْلَٰٓئِكَ
     translation: 'And those '
     transliteration: wa-ulāika
   15:
@@ -67,7 +66,7 @@ word_by_word:
     translation: they
     transliteration: humu
   16:
-    arabic: "الۡفَآٮِٕزُوۡنَ‏ \uFEFF\uFEFF"
+    arabic: ٱلۡفَآئِزُونَ
     translation: (are) the successful
     transliteration: l-fāizūna
 ---

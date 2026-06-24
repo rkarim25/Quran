@@ -1,6 +1,6 @@
 ---
-arabic_ayat: بَلۡ عَجِبُوۡۤا اَنۡ جَآءَهُمۡ مُّنۡذِرٌ مِّنۡهُمۡ فَقَالَ الۡكٰفِرُوۡنَ
-  هٰذَا شَىۡءٌ عَجِيۡبٌ​ۚ‏
+arabic_ayat: بَلۡ عَجِبُوٓاْ أَن جَآءَهُم مُّنذِرٞ مِّنۡهُمۡ فَقَالَ ٱلۡكَٰفِرُونَ
+  هَٰذَا شَيۡءٌ عَجِيبٌ
 sentence_translation: ˹All will be resurrected,˺ yet the deniers are astonished that
   a warner has come to them from among themselves ˹warning of resurrection˺. So the
   disbelievers say, “This is an astonishing thing!
@@ -10,19 +10,19 @@ word_by_word:
     translation: Nay
     transliteration: bal
   2:
-    arabic: عَجِبُوۡۤا
+    arabic: عَجِبُوٓاْ
     translation: they wonder
     transliteration: ʿajibū
   3:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that
     transliteration: an
   4:
-    arabic: جَآءَهُمۡ
+    arabic: جَآءَهُم
     translation: has come to them
     transliteration: jāahum
   5:
-    arabic: مُّنۡذِرٌ
+    arabic: مُّنذِرٞ
     translation: a warner
     transliteration: mundhirun
   6:
@@ -34,19 +34,19 @@ word_by_word:
     translation: So say
     transliteration: faqāla
   8:
-    arabic: الۡكٰفِرُوۡنَ
+    arabic: ٱلۡكَٰفِرُونَ
     translation: the disbelievers
     transliteration: l-kāfirūna
   9:
-    arabic: هٰذَا
+    arabic: هَٰذَا
     translation: This
     transliteration: hādhā
   10:
-    arabic: شَىۡءٌ
+    arabic: شَيۡءٌ
     translation: (is) a thing
     transliteration: shayon
   11:
-    arabic: عَجِيۡبٌ​ۚ‏
+    arabic: عَجِيبٌ
     translation: amazing
     transliteration: ʿajībun
 ---

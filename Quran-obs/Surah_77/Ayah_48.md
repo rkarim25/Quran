@@ -1,14 +1,14 @@
 ---
-arabic_ayat: وَاِذَا قِيۡلَ لَهُمُ ارۡكَعُوۡا لَا يَرۡكَعُوۡنَ‏
+arabic_ayat: وَإِذَا قِيلَ لَهُمُ ٱرۡكَعُواْ لَا يَرۡكَعُونَ
 sentence_translation: When it is said to them, “Bow down ˹before Allah,” they do not
   bow.
 word_by_word:
   1:
-    arabic: وَاِذَا
+    arabic: وَإِذَا
     translation: And when
     transliteration: wa-idhā
   2:
-    arabic: قِيۡلَ
+    arabic: قِيلَ
     translation: it is said
     transliteration: qīla
   3:
@@ -16,7 +16,7 @@ word_by_word:
     translation: to them
     transliteration: lahumu
   4:
-    arabic: ارۡكَعُوۡا
+    arabic: ٱرۡكَعُواْ
     translation: Bow
     transliteration: ir'kaʿū
   5:
@@ -24,7 +24,7 @@ word_by_word:
     translation: not
     transliteration: lā
   6:
-    arabic: يَرۡكَعُوۡنَ‏
+    arabic: يَرۡكَعُونَ
     translation: they bow
     transliteration: yarkaʿūna
 ---

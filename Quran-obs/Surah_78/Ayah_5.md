@@ -1,5 +1,5 @@
 ---
-arabic_ayat: ثُمَّ كَلَّا سَيَعۡلَمُوۡنَ‏
+arabic_ayat: ثُمَّ كـَلَّا سَيَعۡلَمُونَ
 sentence_translation: Again, no! They will come to know.
 word_by_word:
   1:
@@ -7,11 +7,11 @@ word_by_word:
     translation: Then
     transliteration: thumma
   2:
-    arabic: كَلَّا
+    arabic: كـَلَّا
     translation: Nay
     transliteration: kallā
   3:
-    arabic: سَيَعۡلَمُوۡنَ‏
+    arabic: سَيَعۡلَمُونَ
     translation: (soon) they will know
     transliteration: sayaʿlamūna
 ---

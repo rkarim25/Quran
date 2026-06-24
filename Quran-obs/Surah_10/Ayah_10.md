@@ -1,56 +1,56 @@
 ---
-arabic_ayat: دَعۡوٰٮهُمۡ فِيۡهَا سُبۡحٰنَكَ اللّٰهُمَّ وَ تَحِيَّـتُهُمۡ فِيۡهَا سَلٰمٌ​ۚ
-  وَاٰخِرُ دَعۡوٰٮهُمۡ اَنِ الۡحَمۡدُ لِلّٰهِ رَبِّ الۡعٰلَمِيۡنَ‏
+arabic_ayat: دَعۡوَىٰهُمۡ فِيهَا سُبۡحَٰنَكَ ٱللَّهُمَّ وَتَحِيَّتُهُمۡ فِيهَا سَلَٰمٞۚ
+  وَءَاخِرُ دَعۡوَىٰهُمۡ أَنِ ٱلۡحَمۡدُ لِلَّهِ رَبِّ ٱلۡعَٰلَمِينَ
 sentence_translation: in which their prayer will be, “Glory be to You, O  Allah!”
   and their greeting will be, “Peace!” and their closing prayer will be, “All praise
   is for Allah—Lord of all worlds!”
 word_by_word:
   1:
-    arabic: دَعۡوٰٮهُمۡ
+    arabic: دَعۡوَىٰهُمۡ
     translation: Their prayer
     transliteration: daʿwāhum
   2:
-    arabic: فِيۡهَا
+    arabic: فِيهَا
     translation: therein
     transliteration: fīhā
   3:
-    arabic: سُبۡحٰنَكَ
+    arabic: سُبۡحَٰنَكَ
     translation: (will be), "Glory be to You
     transliteration: sub'ḥānaka
   4:
-    arabic: اللّٰهُمَّ
+    arabic: ٱللَّهُمَّ
     translation: O Allah
     transliteration: l-lahuma
   5:
-    arabic: وَ تَحِيَّـتُهُمۡ
+    arabic: وَتَحِيَّتُهُمۡ
     translation: And their greeting
     transliteration: wataḥiyyatuhum
   6:
-    arabic: فِيۡهَا
+    arabic: فِيهَا
     translation: therein (will be)
     transliteration: fīhā
   7:
-    arabic: سَلٰمٌ​ۚ
+    arabic: سَلَٰمٞۚ
     translation: Peace
     transliteration: salāmun
   8:
-    arabic: وَاٰخِرُ
+    arabic: وَءَاخِرُ
     translation: And the last
     transliteration: waākhiru
   9:
-    arabic: دَعۡوٰٮهُمۡ
+    arabic: دَعۡوَىٰهُمۡ
     translation: (of) their call
     transliteration: daʿwāhum
   10:
-    arabic: اَنِ
+    arabic: أَنِ
     translation: (will be) [that]
     transliteration: ani
   11:
-    arabic: الۡحَمۡدُ
+    arabic: ٱلۡحَمۡدُ
     translation: All the Praise be
     transliteration: l-ḥamdu
   12:
-    arabic: لِلّٰهِ
+    arabic: لِلَّهِ
     translation: to Allah
     transliteration: lillahi
   13:
@@ -58,7 +58,7 @@ word_by_word:
     translation: Lord
     transliteration: rabbi
   14:
-    arabic: الۡعٰلَمِيۡنَ‏
+    arabic: ٱلۡعَٰلَمِينَ
     translation: (of) the worlds
     transliteration: l-ʿālamīna
 ---

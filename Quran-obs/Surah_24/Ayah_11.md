@@ -1,35 +1,34 @@
 ---
-arabic_ayat: "اِنَّ الَّذِيۡنَ جَآءُوۡ بِالۡاِفۡكِ عُصۡبَةٌ مِّنۡكُمۡ​ ؕ لَا تَحۡسَبُوۡهُ\
-  \ شَرًّا لَّـكُمۡ​ ؕ بَلۡ هُوَ خَيۡرٌ لَّـكُمۡ​ ؕ لِكُلِّ امۡرِىٴٍ مِّنۡهُمۡ مَّا\
-  \ اكۡتَسَبَ مِنَ الۡاِثۡمِ​ ۚ وَالَّذِىۡ تَوَلّٰى كِبۡرَهٗ مِنۡهُمۡ لَهٗ عَذَابٌ\
-  \ عَظِيۡمٌ‏ \uFEFF\uFEFF"
+arabic_ayat: إِنَّ ٱلَّذِينَ جَآءُو بِٱلۡإِفۡكِ عُصۡبَةٞ مِّنكُمۡۚ لَا تَحۡسَبُوهُ
+  شَرّٗا لَّكُمۖ بَلۡ هُوَ خَيۡرٞ لَّكُمۡۚ لِكُلِّ ٱمۡرِيٕٖ مِّنۡهُم مَّا ٱكۡتَسَبَ
+  مِنَ ٱلۡإِثۡمِۚ وَٱلَّذِي تَوَلَّىٰ كِبۡرَهُۥ مِنۡهُمۡ لَهُۥ عَذَابٌ عَظِيمٞ
 sentence_translation: Indeed, those who came up with that ˹outrageous˺ slander are
   a group of you. Do not think this is bad for you. Rather, it is good for you. They
   will be punished, each according to their share of the sin. As for their mastermind, he
   will suffer a tremendous punishment.
 word_by_word:
   1:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   3:
-    arabic: جَآءُوۡ
+    arabic: جَآءُو
     translation: brought
     transliteration: jāū
   4:
-    arabic: بِالۡاِفۡكِ
+    arabic: بِٱلۡإِفۡكِ
     translation: the lie
     transliteration: bil-if'ki
   5:
-    arabic: عُصۡبَةٌ
+    arabic: عُصۡبَةٞ
     translation: (are) a group
     transliteration: ʿuṣ'batun
   6:
-    arabic: مِّنۡكُمۡ​ ؕ
+    arabic: مِّنكُمۡۚ
     translation: among you
     transliteration: minkum
   7:
@@ -37,15 +36,15 @@ word_by_word:
     translation: (Do) not
     transliteration: lā
   8:
-    arabic: تَحۡسَبُوۡهُ
+    arabic: تَحۡسَبُوهُ
     translation: think it
     transliteration: taḥsabūhu
   9:
-    arabic: شَرًّا
+    arabic: شَرّٗا
     translation: bad
     transliteration: sharran
   10:
-    arabic: لَّـكُمۡ​ ؕ
+    arabic: لَّكُمۖ
     translation: for you
     transliteration: lakum
   11:
@@ -57,11 +56,11 @@ word_by_word:
     translation: it
     transliteration: huwa
   13:
-    arabic: خَيۡرٌ
+    arabic: خَيۡرٞ
     translation: (is) good
     transliteration: khayrun
   14:
-    arabic: لَّـكُمۡ​ ؕ
+    arabic: لَّكُمۡۚ
     translation: for you
     transliteration: lakum
   15:
@@ -69,11 +68,11 @@ word_by_word:
     translation: For every
     transliteration: likulli
   16:
-    arabic: امۡرِىٴٍ
+    arabic: ٱمۡرِيٕٖ
     translation: person
     transliteration: im'ri-in
   17:
-    arabic: مِّنۡهُمۡ
+    arabic: مِّنۡهُم
     translation: among them
     transliteration: min'hum
   18:
@@ -81,7 +80,7 @@ word_by_word:
     translation: (is) what
     transliteration: mā
   19:
-    arabic: اكۡتَسَبَ
+    arabic: ٱكۡتَسَبَ
     translation: he earned
     transliteration: ik'tasaba
   20:
@@ -89,19 +88,19 @@ word_by_word:
     translation: of
     transliteration: mina
   21:
-    arabic: الۡاِثۡمِ​ ۚ
+    arabic: ٱلۡإِثۡمِۚ
     translation: the sin
     transliteration: l-ith'mi
   22:
-    arabic: وَالَّذِىۡ
+    arabic: وَٱلَّذِي
     translation: and the one who
     transliteration: wa-alladhī
   23:
-    arabic: تَوَلّٰى
+    arabic: تَوَلَّىٰ
     translation: took upon himself a greater share of it
     transliteration: tawallā
   24:
-    arabic: كِبۡرَهٗ
+    arabic: كِبۡرَهُۥ
     translation: took upon himself a greater share of it
     transliteration: kib'rahu
   25:
@@ -109,7 +108,7 @@ word_by_word:
     translation: 'among them '
     transliteration: min'hum
   26:
-    arabic: لَهٗ
+    arabic: لَهُۥ
     translation: for him
     transliteration: lahu
   27:
@@ -117,7 +116,7 @@ word_by_word:
     translation: (is) a punishment
     transliteration: ʿadhābun
   28:
-    arabic: "عَظِيۡمٌ‏ \uFEFF\uFEFF"
+    arabic: عَظِيمٞ
     translation: great
     transliteration: ʿaẓīmun
 ---

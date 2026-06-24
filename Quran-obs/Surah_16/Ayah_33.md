@@ -1,7 +1,7 @@
 ---
-arabic_ayat: هَلۡ يَنۡظُرُوۡنَ اِلَّاۤ اَنۡ تَاۡتِيَهُمُ الۡمَلٰۤٮِٕكَةُ اَوۡ يَاۡتِىَ
-  اَمۡرُ رَبِّكَ​ؕ كَذٰلِكَ فَعَلَ الَّذِيۡنَ مِنۡ قَبۡلِهِمۡ​ؕ وَمَا ظَلَمَهُمُ اللّٰهُ
-  وَلٰـكِنۡ كَانُوۡۤا اَنۡفُسَهُمۡ يَظۡلِمُوۡنَ‏
+arabic_ayat: هَلۡ يَنظُرُونَ إِلَّآ أَن تَأۡتِيَهُمُ ٱلۡمَلَٰٓئِكَةُ أَوۡ يَأۡتِيَ
+  أَمۡرُ رَبِّكَۚ كَذَٰلِكَ فَعَلَ ٱلَّذِينَ مِن قَبۡلِهِمۡۚ وَمَا ظَلَمَهُمُ ٱللَّهُ
+  وَلَٰكِن كَانُوٓاْ أَنفُسَهُمۡ يَظۡلِمُونَ
 sentence_translation: Are they only awaiting the coming of the angels or the command
   of your Lord ˹O Prophet˺? So were those before them. And Allah never wronged them,
   but it was they who wronged themselves.
@@ -11,43 +11,43 @@ word_by_word:
     translation: Do
     transliteration: hal
   2:
-    arabic: يَنۡظُرُوۡنَ
+    arabic: يَنظُرُونَ
     translation: they wait
     transliteration: yanẓurūna
   3:
-    arabic: اِلَّاۤ
+    arabic: إِلَّآ
     translation: except
     transliteration: illā
   4:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that
     transliteration: an
   5:
-    arabic: تَاۡتِيَهُمُ
+    arabic: تَأۡتِيَهُمُ
     translation: (should) come to them
     transliteration: tatiyahumu
   6:
-    arabic: الۡمَلٰۤٮِٕكَةُ
+    arabic: ٱلۡمَلَٰٓئِكَةُ
     translation: the Angels
     transliteration: l-malāikatu
   7:
-    arabic: اَوۡ
+    arabic: أَوۡ
     translation: or
     transliteration: aw
   8:
-    arabic: يَاۡتِىَ
+    arabic: يَأۡتِيَ
     translation: (should) come
     transliteration: yatiya
   9:
-    arabic: اَمۡرُ
+    arabic: أَمۡرُ
     translation: (the) Command
     transliteration: amru
   10:
-    arabic: رَبِّكَ​ؕ
+    arabic: رَبِّكَۚ
     translation: (of) your Lord
     transliteration: rabbika
   11:
-    arabic: كَذٰلِكَ
+    arabic: كَذَٰلِكَ
     translation: Thus
     transliteration: kadhālika
   12:
@@ -55,15 +55,15 @@ word_by_word:
     translation: did
     transliteration: faʿala
   13:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   14:
-    arabic: مِنۡ
+    arabic: مِن
     translation: (were) before them
     transliteration: min
   15:
-    arabic: قَبۡلِهِمۡ​ؕ
+    arabic: قَبۡلِهِمۡۚ
     translation: (were) before them
     transliteration: qablihim
   16:
@@ -75,23 +75,23 @@ word_by_word:
     translation: wronged them
     transliteration: ẓalamahumu
   18:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   19:
-    arabic: وَلٰـكِنۡ
+    arabic: وَلَٰكِن
     translation: but
     transliteration: walākin
   20:
-    arabic: كَانُوۡۤا
+    arabic: كَانُوٓاْ
     translation: they were
     transliteration: kānū
   21:
-    arabic: اَنۡفُسَهُمۡ
+    arabic: أَنفُسَهُمۡ
     translation: themselves
     transliteration: anfusahum
   22:
-    arabic: يَظۡلِمُوۡنَ‏
+    arabic: يَظۡلِمُونَ
     translation: wronging
     transliteration: yaẓlimūna
 ---

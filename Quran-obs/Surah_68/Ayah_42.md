@@ -1,6 +1,5 @@
 ---
-arabic_ayat: "يَوۡمَ يُكۡشَفُ عَنۡ سَاقٍ وَّيُدۡعَوۡنَ اِلَى السُّجُوۡدِ فَلَا يَسۡتَطِيۡعُوۡنَۙ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: يَوۡمَ يُكۡشَفُ عَن سَاقٖ وَيُدۡعَوۡنَ إِلَى ٱلسُّجُودِ فَلَا يَسۡتَطِيعُونَ
 sentence_translation: ˹Beware of˺ the Day the Shin ˹of Allah˺ will be bared, and the
   wicked will be asked to prostrate, but they will not be able to do so,
 word_by_word:
@@ -13,23 +12,23 @@ word_by_word:
     translation: will be uncovered
     transliteration: yuk'shafu
   3:
-    arabic: عَنۡ
+    arabic: عَن
     translation: from
     transliteration: ʿan
   4:
-    arabic: سَاقٍ
+    arabic: سَاقٖ
     translation: the shin
     transliteration: sāqin
   5:
-    arabic: وَّيُدۡعَوۡنَ
+    arabic: وَيُدۡعَوۡنَ
     translation: and they will be called
     transliteration: wayud'ʿawna
   6:
-    arabic: اِلَى
+    arabic: إِلَى
     translation: to
     transliteration: ilā
   7:
-    arabic: السُّجُوۡدِ
+    arabic: ٱلسُّجُودِ
     translation: prostrate
     transliteration: l-sujūdi
   8:
@@ -37,7 +36,7 @@ word_by_word:
     translation: but not
     transliteration: falā
   9:
-    arabic: "يَسۡتَطِيۡعُوۡنَۙ‏ \uFEFF\uFEFF"
+    arabic: يَسۡتَطِيعُونَ
     translation: they will be able
     transliteration: yastaṭīʿūna
 ---

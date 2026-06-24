@@ -1,27 +1,26 @@
 ---
-arabic_ayat: وَاذۡكُرۡ فِى الۡكِتٰبِ اِدۡرِيۡسَ​ اِنَّهٗ كَانَ صِدِّيۡقًا نَّبِيًّا
-  ۙ ‏
+arabic_ayat: وَٱذۡكُرۡ فِي ٱلۡكِتَٰبِ إِدۡرِيسَۚ إِنَّهُۥ كَانَ صِدِّيقٗا نَّبِيّٗا
 sentence_translation: And mention in the Book ˹O Prophet, the story of˺ Enoch. He
   was surely a man of truth and a prophet.
 word_by_word:
   1:
-    arabic: وَاذۡكُرۡ
+    arabic: وَٱذۡكُرۡ
     translation: And mention
     transliteration: wa-udh'kur
   2:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   3:
-    arabic: الۡكِتٰبِ
+    arabic: ٱلۡكِتَٰبِ
     translation: the Book
     transliteration: l-kitābi
   4:
-    arabic: اِدۡرِيۡسَ​
+    arabic: إِدۡرِيسَۚ
     translation: Idris
     transliteration: id'rīsa
   5:
-    arabic: اِنَّهٗ
+    arabic: إِنَّهُۥ
     translation: Indeed, he
     transliteration: innahu
   6:
@@ -29,11 +28,11 @@ word_by_word:
     translation: was
     transliteration: kāna
   7:
-    arabic: صِدِّيۡقًا
+    arabic: صِدِّيقٗا
     translation: truthful
     transliteration: ṣiddīqan
   8:
-    arabic: نَّبِيًّا ۙ ‏
+    arabic: نَّبِيّٗا
     translation: a Prophet
     transliteration: nabiyyan
 ---

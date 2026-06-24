@@ -1,22 +1,22 @@
 ---
-arabic_ayat: فَاذۡكُرُوۡنِىۡٓ اَذۡكُرۡكُمۡ وَاشۡکُرُوۡا لِىۡ وَلَا تَكۡفُرُوۡنِ‏
+arabic_ayat: فَٱذۡكُرُونِيٓ أَذۡكُرۡكُمۡ وَٱشۡكُرُواْ لِي وَلَا تَكۡفُرُونِ
 sentence_translation: remember Me; I will remember you. And thank Me, and never be
   ungrateful.
 word_by_word:
   1:
-    arabic: فَاذۡكُرُوۡنِىۡٓ
+    arabic: فَٱذۡكُرُونِيٓ
     translation: So remember Me
     transliteration: fa-udh'kurūnī
   2:
-    arabic: اَذۡكُرۡكُمۡ
+    arabic: أَذۡكُرۡكُمۡ
     translation: I will remember you
     transliteration: adhkur'kum
   3:
-    arabic: وَاشۡکُرُوۡا
+    arabic: وَٱشۡكُرُواْ
     translation: and be grateful
     transliteration: wa-ush'kurū
   4:
-    arabic: لِىۡ
+    arabic: لِي
     translation: to Me
     transliteration: lī
   5:
@@ -24,7 +24,7 @@ word_by_word:
     translation: and (do) not
     transliteration: walā
   6:
-    arabic: تَكۡفُرُوۡنِ‏
+    arabic: تَكۡفُرُونِ
     translation: (be) ungrateful to Me
     transliteration: takfurūni
 ---

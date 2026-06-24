@@ -1,11 +1,11 @@
 ---
-arabic_ayat: كَذٰلِكَ حَقَّتۡ كَلِمَتُ رَبِّكَ عَلَى الَّذِيۡنَ فَسَقُوۡۤا اَنَّهُمۡ
-  لَا يُؤۡمِنُوۡنَ‏
+arabic_ayat: كَذَٰلِكَ حَقَّتۡ كَلِمَتُ رَبِّكَ عَلَى ٱلَّذِينَ فَسَقُوٓاْ أَنَّهُمۡ
+  لَا يُؤۡمِنُونَ
 sentence_translation: And so your Lord’s decree has been proven true against the rebellious—that
   they will never believe.
 word_by_word:
   1:
-    arabic: كَذٰلِكَ
+    arabic: كَذَٰلِكَ
     translation: Thus
     transliteration: kadhālika
   2:
@@ -25,15 +25,15 @@ word_by_word:
     translation: upon
     transliteration: ʿalā
   6:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   7:
-    arabic: فَسَقُوۡۤا
+    arabic: فَسَقُوٓاْ
     translation: defiantly disobeyed
     transliteration: fasaqū
   8:
-    arabic: اَنَّهُمۡ
+    arabic: أَنَّهُمۡ
     translation: that they
     transliteration: annahum
   9:
@@ -41,7 +41,7 @@ word_by_word:
     translation: (will) not
     transliteration: lā
   10:
-    arabic: يُؤۡمِنُوۡنَ‏
+    arabic: يُؤۡمِنُونَ
     translation: believe
     transliteration: yu'minūna
 ---

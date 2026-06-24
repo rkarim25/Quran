@@ -1,5 +1,5 @@
 ---
-arabic_ayat: وَلَسَوۡفَ يُعۡطِيۡكَ رَبُّكَ فَتَرۡضٰىؕ‏
+arabic_ayat: وَلَسَوۡفَ يُعۡطِيكَ رَبُّكَ فَتَرۡضَىٰٓ
 sentence_translation: And ˹surely˺ your Lord will give so much to you that you will
   be pleased.
 word_by_word:
@@ -8,7 +8,7 @@ word_by_word:
     translation: And soon
     transliteration: walasawfa
   2:
-    arabic: يُعۡطِيۡكَ
+    arabic: يُعۡطِيكَ
     translation: will give you
     transliteration: yuʿ'ṭīka
   3:
@@ -16,7 +16,7 @@ word_by_word:
     translation: your Lord
     transliteration: rabbuka
   4:
-    arabic: فَتَرۡضٰىؕ‏
+    arabic: فَتَرۡضَىٰٓ
     translation: then you will be satisfied
     transliteration: fatarḍā
 ---

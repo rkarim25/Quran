@@ -1,37 +1,37 @@
 ---
-arabic_ayat: يٰۤاَيُّهَا الَّذِيۡنَ اٰمَنُوا اتَّقُوا اللّٰهَ وَاٰمِنُوۡا بِرَسُوۡلِهٖ
-  يُؤۡتِكُمۡ كِفۡلَيۡنِ مِنۡ رَّحۡمَتِهٖ وَيَجۡعَلْ لَّـكُمۡ نُوۡرًا تَمۡشُوۡنَ بِهٖ
-  وَيَغۡفِرۡ لَـكُمۡ​ؕ وَاللّٰهُ غَفُوۡرٌ رَّحِيۡمٌ ۙۚ‏
+arabic_ayat: يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُواْ ٱتَّقُواْ ٱللَّهَ وَءَامِنُواْ بِرَسُولِهِۦ
+  يُؤۡتِكُمۡ كِفۡلَيۡنِ مِن رَّحۡمَتِهِۦ وَيَجۡعَل لَّكُمۡ نُورٗا تَمۡشُونَ بِهِۦ
+  وَيَغۡفِرۡ لَكُمۡۚ وَٱللَّهُ غَفُورٞ رَّحِيمٞ
 sentence_translation: O people of faith! Fear Allah and believe in His Messenger.
   ˹And˺ He will grant you a double share of His mercy, provide you with a light to
   walk in ˹on Judgment Day˺, and forgive you. For Allah is All-Forgiving, Most Merciful.
 word_by_word:
   1:
-    arabic: يٰۤاَيُّهَا
+    arabic: يَٰٓأَيُّهَا
     translation: O you who believe
     transliteration: yāayyuhā
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ ءَ
     translation: O you who believe
     transliteration: alladhīna
   3:
-    arabic: اٰمَنُوا
+    arabic: امَنُواْ
     translation: O you who believe
     transliteration: āmanū
   4:
-    arabic: اتَّقُوا
+    arabic: ٱتَّقُواْ
     translation: Fear
     transliteration: ittaqū
   5:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   6:
-    arabic: وَاٰمِنُوۡا
+    arabic: وَءَامِنُواْ
     translation: and believe
     transliteration: waāminū
   7:
-    arabic: بِرَسُوۡلِهٖ
+    arabic: بِرَسُولِهِۦ
     translation: in His Messenger
     transliteration: birasūlihi
   8:
@@ -43,31 +43,31 @@ word_by_word:
     translation: double portion
     transliteration: kif'layni
   10:
-    arabic: مِنۡ
+    arabic: مِن
     translation: of
     transliteration: min
   11:
-    arabic: رَّحۡمَتِهٖ
+    arabic: رَّحۡمَتِهِۦ
     translation: His Mercy
     transliteration: raḥmatihi
   12:
-    arabic: وَيَجۡعَلْ
+    arabic: وَيَجۡعَل
     translation: and He will make
     transliteration: wayajʿal
   13:
-    arabic: لَّـكُمۡ
+    arabic: لَّكُمۡ
     translation: for you
     transliteration: lakum
   14:
-    arabic: نُوۡرًا
+    arabic: نُورٗا
     translation: a light
     transliteration: nūran
   15:
-    arabic: تَمۡشُوۡنَ
+    arabic: تَمۡشُونَ
     translation: you will walk
     transliteration: tamshūna
   16:
-    arabic: بِهٖ
+    arabic: بِهِۦ
     translation: with it
     transliteration: bihi
   17:
@@ -75,19 +75,19 @@ word_by_word:
     translation: and He will forgive
     transliteration: wayaghfir
   18:
-    arabic: لَـكُمۡ​ؕ
+    arabic: لَكُمۡۚ
     translation: you
     transliteration: lakum
   19:
-    arabic: وَاللّٰهُ
+    arabic: وَٱللَّهُ
     translation: And Allah
     transliteration: wal-lahu
   20:
-    arabic: غَفُوۡرٌ
+    arabic: غَفُورٞ
     translation: (is) Oft-Forgiving
     transliteration: ghafūrun
   21:
-    arabic: رَّحِيۡمٌ ۙۚ‏
+    arabic: رَّحِيمٞ
     translation: Most Merciful
     transliteration: raḥīmun
 ---

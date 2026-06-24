@@ -1,9 +1,9 @@
 ---
-arabic_ayat: وَاَذِنَتۡ لِرَبِّهَا وَحُقَّتۡؕ‏
+arabic_ayat: وَأَذِنَتۡ لِرَبِّهَا وَحُقَّتۡ
 sentence_translation: obeying its Lord as it must, ˹surely you will all be judged˺.
 word_by_word:
   1:
-    arabic: وَاَذِنَتۡ
+    arabic: وَأَذِنَتۡ
     translation: And has listened
     transliteration: wa-adhinat
   2:
@@ -11,7 +11,7 @@ word_by_word:
     translation: to its Lord
     transliteration: lirabbihā
   3:
-    arabic: وَحُقَّتۡؕ‏
+    arabic: وَحُقَّتۡ
     translation: and was obligated
     transliteration: waḥuqqat
 ---

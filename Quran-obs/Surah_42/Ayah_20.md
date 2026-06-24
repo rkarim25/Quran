@@ -1,13 +1,13 @@
 ---
-arabic_ayat: مَنۡ كَانَ يُرِيۡدُ حَرۡثَ الۡاٰخِرَةِ نَزِدۡ لَهٗ فِىۡ حَرۡثِهٖ​ۚ وَمَنۡ
-  كَانَ يُرِيۡدُ حَرۡثَ الدُّنۡيَا نُؤۡتِهٖ مِنۡهَا وَمَا لَهٗ فِى الۡاٰخِرَةِ مِنۡ
-  نَّصِيۡبٍ‏
+arabic_ayat: مَن كَانَ يُرِيدُ حَرۡثَ ٱلۡأٓخِرَةِ نَزِدۡ لَهُۥ فِي حَرۡثِهِۦۖ وَمَن
+  كَانَ يُرِيدُ حَرۡثَ ٱلدُّنۡيَا نُؤۡتِهِۦ مِنۡهَا وَمَا لَهُۥ فِي ٱلۡأٓخِرَةِ مِن
+  نَّصِيبٍ
 sentence_translation: Whoever desires the harvest of the Hereafter, We will increase
   their harvest. And whoever desires ˹only˺ the harvest of this world, We will give
   them some of it, but they will have no share in the Hereafter.
 word_by_word:
   1:
-    arabic: مَنۡ
+    arabic: مَن
     translation: Whoever
     transliteration: man
   2:
@@ -15,7 +15,7 @@ word_by_word:
     translation: is
     transliteration: kāna
   3:
-    arabic: يُرِيۡدُ
+    arabic: يُرِيدُ
     translation: desiring
     transliteration: yurīdu
   4:
@@ -23,7 +23,7 @@ word_by_word:
     translation: (the) harvest
     transliteration: ḥartha
   5:
-    arabic: الۡاٰخِرَةِ
+    arabic: ٱلۡأٓخِرَةِ
     translation: '(of) the Hereafter '
     transliteration: l-ākhirati
   6:
@@ -31,19 +31,19 @@ word_by_word:
     translation: We increase
     transliteration: nazid
   7:
-    arabic: لَهٗ
+    arabic: لَهُۥ
     translation: for him
     transliteration: lahu
   8:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   9:
-    arabic: حَرۡثِهٖ​ۚ
+    arabic: حَرۡثِهِۦۖ
     translation: his harvest
     transliteration: ḥarthihi
   10:
-    arabic: وَمَنۡ
+    arabic: وَمَن
     translation: And whoever
     transliteration: waman
   11:
@@ -51,7 +51,7 @@ word_by_word:
     translation: is
     transliteration: kāna
   12:
-    arabic: يُرِيۡدُ
+    arabic: يُرِيدُ
     translation: desiring
     transliteration: yurīdu
   13:
@@ -59,11 +59,11 @@ word_by_word:
     translation: (the) harvest
     transliteration: ḥartha
   14:
-    arabic: الدُّنۡيَا
+    arabic: ٱلدُّنۡيَا
     translation: (of) the world
     transliteration: l-dun'yā
   15:
-    arabic: نُؤۡتِهٖ
+    arabic: نُؤۡتِهِۦ
     translation: We give him
     transliteration: nu'tihi
   16:
@@ -75,23 +75,23 @@ word_by_word:
     translation: but not
     transliteration: wamā
   18:
-    arabic: لَهٗ
+    arabic: لَهُۥ
     translation: for him
     transliteration: lahu
   19:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   20:
-    arabic: الۡاٰخِرَةِ
+    arabic: ٱلۡأٓخِرَةِ
     translation: the Hereafter
     transliteration: l-ākhirati
   21:
-    arabic: مِنۡ
+    arabic: مِن
     translation: any
     transliteration: min
   22:
-    arabic: نَّصِيۡبٍ‏
+    arabic: نَّصِيبٍ
     translation: share
     transliteration: naṣībin
 ---

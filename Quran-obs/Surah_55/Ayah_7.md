@@ -1,10 +1,10 @@
 ---
-arabic_ayat: وَالسَّمَآءَ رَفَعَهَا وَوَضَعَ الۡمِيۡزَانَۙ‏
+arabic_ayat: وَٱلسَّمَآءَ رَفَعَهَا وَوَضَعَ ٱلۡمِيزَانَ
 sentence_translation: As for the sky, He raised it ˹high˺, and set the balance ˹of
   justice˺
 word_by_word:
   1:
-    arabic: وَالسَّمَآءَ
+    arabic: وَٱلسَّمَآءَ
     translation: And the heaven
     transliteration: wal-samāa
   2:
@@ -16,7 +16,7 @@ word_by_word:
     translation: and He has set up
     transliteration: wawaḍaʿa
   4:
-    arabic: الۡمِيۡزَانَۙ‏
+    arabic: ٱلۡمِيزَانَ
     translation: the balance
     transliteration: l-mīzāna
 ---

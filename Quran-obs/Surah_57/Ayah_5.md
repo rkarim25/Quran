@@ -1,11 +1,10 @@
 ---
-arabic_ayat: "لَهٗ مُلۡكُ السَّمٰوٰتِ وَالۡاَرۡضِ​ؕ وَاِلَى اللّٰهِ تُرۡجَعُ الۡاُمُوۡرُ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: لَّهُۥ مُلۡكُ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِۚ وَإِلَى ٱللَّهِ تُرۡجَعُ ٱلۡأُمُورُ
 sentence_translation: To Him belongs the kingdom of the heavens and the earth. And
   to Allah all matters are returned.
 word_by_word:
   1:
-    arabic: لَهٗ
+    arabic: لَّهُۥ
     translation: For Him
     transliteration: lahu
   2:
@@ -13,19 +12,19 @@ word_by_word:
     translation: (is the) dominion
     transliteration: mul'ku
   3:
-    arabic: السَّمٰوٰتِ
+    arabic: ٱلسَّمَٰوَٰتِ
     translation: (of) the heavens
     transliteration: l-samāwāti
   4:
-    arabic: وَالۡاَرۡضِ​ؕ
+    arabic: وَٱلۡأَرۡضِۚ
     translation: and the earth
     transliteration: wal-arḍi
   5:
-    arabic: وَاِلَى
+    arabic: وَإِلَى
     translation: and to
     transliteration: wa-ilā
   6:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   7:
@@ -33,7 +32,7 @@ word_by_word:
     translation: will be returned
     transliteration: tur'jaʿu
   8:
-    arabic: "الۡاُمُوۡرُ‏ \uFEFF\uFEFF"
+    arabic: ٱلۡأُمُورُ
     translation: the matters
     transliteration: l-umūru
 ---

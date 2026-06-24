@@ -1,5 +1,5 @@
 ---
-arabic_ayat: لِنُرۡسِلَ عَلَيۡهِمۡ حِجَارَةً مِّنۡ طِيۡنٍۙ‏
+arabic_ayat: لِنُرۡسِلَ عَلَيۡهِمۡ حِجَارَةٗ مِّن طِينٖ
 sentence_translation: to send upon them stones of ˹baked˺ clay,
 word_by_word:
   1:
@@ -11,15 +11,15 @@ word_by_word:
     translation: upon them
     transliteration: ʿalayhim
   3:
-    arabic: حِجَارَةً
+    arabic: حِجَارَةٗ
     translation: stones
     transliteration: ḥijāratan
   4:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: of
     transliteration: min
   5:
-    arabic: طِيۡنٍۙ‏
+    arabic: طِينٖ
     translation: clay
     transliteration: ṭīnin
 ---

@@ -1,20 +1,20 @@
 ---
-arabic_ayat: وَاَنۡ اَتۡلُوَا الۡقُرۡاٰنَ​ۚ فَمَنِ اهۡتَدٰى فَاِنَّمَا يَهۡتَدِىۡ
-  لِنَفۡسِهٖ​ۚ وَمَنۡ ضَلَّ فَقُلۡ اِنَّمَاۤ اَنَا مِنَ الۡمُنۡذِرِيۡنَ‏
+arabic_ayat: وَأَنۡ أَتۡلُوَاْ ٱلۡقُرۡءَانَۖ فَمَنِ ٱهۡتَدَىٰ فَإِنَّمَا يَهۡتَدِي
+  لِنَفۡسِهِۦۖ وَمَن ضَلَّ فَقُلۡ إِنَّمَآ أَنَا۠ مِنَ ٱلۡمُنذِرِينَ
 sentence_translation: and to recite the Quran.” Then whoever chooses to be guided,
   it is only for their own good. But whoever chooses to stray, say, ˹O Prophet,˺ “I
   am only a warner.”
 word_by_word:
   1:
-    arabic: وَاَنۡ
+    arabic: وَأَنۡ
     translation: And that
     transliteration: wa-an
   2:
-    arabic: اَتۡلُوَا
+    arabic: أَتۡلُوَاْ
     translation: I recite
     transliteration: atluwā
   3:
-    arabic: الۡقُرۡاٰنَ​ۚ
+    arabic: ٱلۡقُرۡءَانَۖ
     translation: the Quran
     transliteration: l-qur'āna
   4:
@@ -22,23 +22,23 @@ word_by_word:
     translation: And whoever
     transliteration: famani
   5:
-    arabic: اهۡتَدٰى
+    arabic: ٱهۡتَدَىٰ
     translation: accepts guidance
     transliteration: ih'tadā
   6:
-    arabic: فَاِنَّمَا
+    arabic: فَإِنَّمَا
     translation: then only
     transliteration: fa-innamā
   7:
-    arabic: يَهۡتَدِىۡ
+    arabic: يَهۡتَدِي
     translation: he accepts guidance
     transliteration: yahtadī
   8:
-    arabic: لِنَفۡسِهٖ​ۚ
+    arabic: لِنَفۡسِهِۦۖ
     translation: for himself
     transliteration: linafsihi
   9:
-    arabic: وَمَنۡ
+    arabic: وَمَن
     translation: and whoever
     transliteration: waman
   10:
@@ -50,11 +50,11 @@ word_by_word:
     translation: then say
     transliteration: faqul
   12:
-    arabic: اِنَّمَاۤ
+    arabic: إِنَّمَآ
     translation: Only
     transliteration: innamā
   13:
-    arabic: اَنَا
+    arabic: أَنَا۠
     translation: I am
     transliteration: anā
   14:
@@ -62,7 +62,7 @@ word_by_word:
     translation: of
     transliteration: mina
   15:
-    arabic: الۡمُنۡذِرِيۡنَ‏
+    arabic: ٱلۡمُنذِرِينَ
     translation: the warners
     transliteration: l-mundhirīna
 ---

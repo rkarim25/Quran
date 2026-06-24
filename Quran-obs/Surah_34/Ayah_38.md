@@ -1,11 +1,11 @@
 ---
-arabic_ayat: وَ الَّذِيۡنَ يَسۡعَوۡنَ فِىۡۤ اٰيٰتِنَا مُعٰجِزِيۡنَ اُولٰٓٮِٕكَ فِى
-  الۡعَذَابِ مُحۡضَرُوۡنَ‏
+arabic_ayat: وَٱلَّذِينَ يَسۡعَوۡنَ فِيٓ ءَايَٰتِنَا مُعَٰجِزِينَ أُوْلَٰٓئِكَ فِي
+  ٱلۡعَذَابِ مُحۡضَرُونَ
 sentence_translation: As for those who strive to discredit Our revelations, it is
   they who will be confined in punishment.
 word_by_word:
   1:
-    arabic: وَ الَّذِيۡنَ
+    arabic: وَٱلَّذِينَ
     translation: And those who
     transliteration: wa-alladhīna
   2:
@@ -13,31 +13,31 @@ word_by_word:
     translation: strive
     transliteration: yasʿawna
   3:
-    arabic: فِىۡۤ
+    arabic: فِيٓ ءَ
     translation: against
     transliteration: fī
   4:
-    arabic: اٰيٰتِنَا
+    arabic: ايَٰتِنَا
     translation: Our Verses
     transliteration: āyātinā
   5:
-    arabic: مُعٰجِزِيۡنَ
+    arabic: مُعَٰجِزِينَ
     translation: (to) cause failure
     transliteration: muʿājizīna
   6:
-    arabic: اُولٰٓٮِٕكَ
+    arabic: أُوْلَٰٓئِكَ
     translation: those
     transliteration: ulāika
   7:
-    arabic: فِى
+    arabic: فِي
     translation: into
     transliteration: fī
   8:
-    arabic: الۡعَذَابِ
+    arabic: ٱلۡعَذَابِ
     translation: the punishment
     transliteration: l-ʿadhābi
   9:
-    arabic: مُحۡضَرُوۡنَ‏
+    arabic: مُحۡضَرُونَ
     translation: (will be) brought
     transliteration: muḥ'ḍarūna
 ---

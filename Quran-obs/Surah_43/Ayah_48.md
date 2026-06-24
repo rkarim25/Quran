@@ -1,6 +1,6 @@
 ---
-arabic_ayat: وَمَا نُرِيۡهِمۡ مِّنۡ اٰيَةٍ اِلَّا هِىَ اَكۡبَرُ مِنۡ اُخۡتِهَا​ وَ
-  اَخَذۡنٰهُمۡ بِالۡعَذَابِ لَعَلَّهُمۡ يَرۡجِعُوۡنَ‏
+arabic_ayat: وَمَا نُرِيهِم مِّنۡ ءَايَةٍ إِلَّا هِيَ أَكۡبَرُ مِنۡ أُخۡتِهَاۖ وَأَخَذۡنَٰهُم
+  بِٱلۡعَذَابِ لَعَلَّهُمۡ يَرۡجِعُونَ
 sentence_translation: although every sign We showed them was greater than the one
   before. Ultimately, We seized them with torments so that they might return ˹to the
   Right Path˺.
@@ -10,27 +10,27 @@ word_by_word:
     translation: And not
     transliteration: wamā
   2:
-    arabic: نُرِيۡهِمۡ
+    arabic: نُرِيهِم
     translation: We showed them
     transliteration: nurīhim
   3:
-    arabic: مِّنۡ
+    arabic: مِّنۡ ءَ
     translation: of
     transliteration: min
   4:
-    arabic: اٰيَةٍ
+    arabic: ايَةٍ
     translation: a Sign
     transliteration: āyatin
   5:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: but
     transliteration: illā
   6:
-    arabic: هِىَ
+    arabic: هِيَ
     translation: it
     transliteration: hiya
   7:
-    arabic: اَكۡبَرُ
+    arabic: أَكۡبَرُ
     translation: (was) greater
     transliteration: akbaru
   8:
@@ -38,15 +38,15 @@ word_by_word:
     translation: than
     transliteration: min
   9:
-    arabic: اُخۡتِهَا​
+    arabic: أُخۡتِهَاۖ
     translation: its sister
     transliteration: ukh'tihā
   10:
-    arabic: وَ اَخَذۡنٰهُمۡ
+    arabic: وَأَخَذۡنَٰهُم
     translation: and We seized them
     transliteration: wa-akhadhnāhum
   11:
-    arabic: بِالۡعَذَابِ
+    arabic: بِٱلۡعَذَابِ
     translation: with the punishment
     transliteration: bil-ʿadhābi
   12:
@@ -54,7 +54,7 @@ word_by_word:
     translation: so that they may
     transliteration: laʿallahum
   13:
-    arabic: يَرۡجِعُوۡنَ‏
+    arabic: يَرۡجِعُونَ
     translation: return
     transliteration: yarjiʿūna
 ---

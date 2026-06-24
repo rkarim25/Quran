@@ -1,6 +1,6 @@
 ---
-arabic_ayat: "قَالَ رَبُّ الۡمَشۡرِقِ وَالۡمَغۡرِبِ وَمَا بَيۡنَهُمَا ؕ اِنۡ كُنۡتُمۡ\
-  \ تَعۡقِلُوۡنَ‏ \uFEFF\uFEFF"
+arabic_ayat: قَالَ رَبُّ ٱلۡمَشۡرِقِ وَٱلۡمَغۡرِبِ وَمَا بَيۡنَهُمَآۖ إِن كُنتُمۡ
+  تَعۡقِلُونَ
 sentence_translation: 'Moses responded: “˹He is˺ the Lord of the east and west, and
   everything in between, if only you had any sense.”'
 word_by_word:
@@ -13,11 +13,11 @@ word_by_word:
     translation: Lord
     transliteration: rabbu
   3:
-    arabic: الۡمَشۡرِقِ
+    arabic: ٱلۡمَشۡرِقِ
     translation: (of) the east
     transliteration: l-mashriqi
   4:
-    arabic: وَالۡمَغۡرِبِ
+    arabic: وَٱلۡمَغۡرِبِ
     translation: and the west
     transliteration: wal-maghribi
   5:
@@ -25,19 +25,19 @@ word_by_word:
     translation: and whatever
     transliteration: wamā
   6:
-    arabic: بَيۡنَهُمَا ؕ
+    arabic: بَيۡنَهُمَآۖ
     translation: (is) between them
     transliteration: baynahumā
   7:
-    arabic: اِنۡ
+    arabic: إِن
     translation: if
     transliteration: in
   8:
-    arabic: كُنۡتُمۡ
+    arabic: كُنتُمۡ
     translation: you were
     transliteration: kuntum
   9:
-    arabic: "تَعۡقِلُوۡنَ‏ \uFEFF\uFEFF"
+    arabic: تَعۡقِلُونَ
     translation: (to) reason
     transliteration: taʿqilūna
 ---

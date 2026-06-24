@@ -1,25 +1,25 @@
 ---
-arabic_ayat: وَاَرَادُوۡا بِهٖ كَيۡدًا فَجَعَلۡنٰهُمُ الۡاَخۡسَرِيۡنَ​ۚ‏
+arabic_ayat: وَأَرَادُواْ بِهِۦ كَيۡدٗا فَجَعَلۡنَٰهُمُ ٱلۡأَخۡسَرِينَ
 sentence_translation: They had sought to harm him, but We made them the worst losers.
 word_by_word:
   1:
-    arabic: وَاَرَادُوۡا
+    arabic: وَأَرَادُواْ
     translation: And they intended
     transliteration: wa-arādū
   2:
-    arabic: بِهٖ
+    arabic: بِهِۦ
     translation: for him
     transliteration: bihi
   3:
-    arabic: كَيۡدًا
+    arabic: كَيۡدٗا
     translation: a plan
     transliteration: kaydan
   4:
-    arabic: فَجَعَلۡنٰهُمُ
+    arabic: فَجَعَلۡنَٰهُمُ
     translation: but We made them
     transliteration: fajaʿalnāhumu
   5:
-    arabic: الۡاَخۡسَرِيۡنَ​ۚ‏
+    arabic: ٱلۡأَخۡسَرِينَ
     translation: the greatest losers
     transliteration: l-akhsarīna
 ---

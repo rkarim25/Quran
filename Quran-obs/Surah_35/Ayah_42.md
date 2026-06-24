@@ -1,17 +1,17 @@
 ---
-arabic_ayat: وَاَ قۡسَمُوۡا بِاللّٰهِ جَهۡدَ اَيۡمَانِهِمۡ لَٮِٕنۡ جَآءَهُمۡ نَذِيۡرٌ
-  لَّيَكُوۡنُنَّ اَهۡدٰى مِنۡ اِحۡدَى الۡاُمَمِۚ فَلَمَّا جَآءَهُمۡ نَذِيۡرٌ مَّا
-  زَادَهُمۡ اِلَّا نُفُوۡرًا ۙ‏
+arabic_ayat: وَأَقۡسَمُواْ بِٱللَّهِ جَهۡدَ أَيۡمَٰنِهِمۡ لَئِن جَآءَهُمۡ نَذِيرٞ
+  لَّيَكُونُنَّ أَهۡدَىٰ مِنۡ إِحۡدَى ٱلۡأُمَمِۖ فَلَمَّا جَآءَهُمۡ نَذِيرٞ مَّا
+  زَادَهُمۡ إِلَّا نُفُورًا
 sentence_translation: They swore by Allah their most solemn oaths that if a warner
   were to come to them, they would certainly be better guided than any other community.
   Yet when a warner did come to them, it only drove them farther away—
 word_by_word:
   1:
-    arabic: وَاَ قۡسَمُوۡا
+    arabic: وَأَقۡسَمُواْ
     translation: And they swore
     transliteration: wa-aqsamū
   2:
-    arabic: بِاللّٰهِ
+    arabic: بِٱللَّهِ
     translation: by Allah
     transliteration: bil-lahi
   3:
@@ -19,11 +19,11 @@ word_by_word:
     translation: (the) strongest
     transliteration: jahda
   4:
-    arabic: اَيۡمَانِهِمۡ
+    arabic: أَيۡمَٰنِهِمۡ
     translation: (of) their oaths
     transliteration: aymānihim
   5:
-    arabic: لَٮِٕنۡ
+    arabic: لَئِن
     translation: that if
     transliteration: la-in
   6:
@@ -31,15 +31,15 @@ word_by_word:
     translation: came to them
     transliteration: jāahum
   7:
-    arabic: نَذِيۡرٌ
+    arabic: نَذِيرٞ
     translation: a warner
     transliteration: nadhīrun
   8:
-    arabic: لَّيَكُوۡنُنَّ
+    arabic: لَّيَكُونُنَّ
     translation: surely, they would be
     transliteration: layakūnunna
   9:
-    arabic: اَهۡدٰى
+    arabic: أَهۡدَىٰ
     translation: more guided
     transliteration: ahdā
   10:
@@ -47,11 +47,11 @@ word_by_word:
     translation: than
     transliteration: min
   11:
-    arabic: اِحۡدَى
+    arabic: إِحۡدَى
     translation: any
     transliteration: iḥ'dā
   12:
-    arabic: الۡاُمَمِۚ
+    arabic: ٱلۡأُمَمِۖ
     translation: (of) the nations
     transliteration: l-umami
   13:
@@ -63,7 +63,7 @@ word_by_word:
     translation: came to them
     transliteration: jāahum
   15:
-    arabic: نَذِيۡرٌ
+    arabic: نَذِيرٞ
     translation: a warner
     transliteration: nadhīrun
   16:
@@ -75,11 +75,11 @@ word_by_word:
     translation: it increased them
     transliteration: zādahum
   18:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: but
     transliteration: illā
   19:
-    arabic: نُفُوۡرًا ۙ‏
+    arabic: نُفُورًا
     translation: (in) aversion
     transliteration: nufūran
 ---

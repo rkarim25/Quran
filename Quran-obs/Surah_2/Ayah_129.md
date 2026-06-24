@@ -1,7 +1,7 @@
 ---
-arabic_ayat: رَبَّنَا وَابۡعَثۡ فِيۡهِمۡ رَسُوۡلًا مِّنۡهُمۡ يَتۡلُوۡا عَلَيۡهِمۡ
-  اٰيٰتِكَ وَيُعَلِّمُهُمُ الۡكِتٰبَ وَالۡحِكۡمَةَ وَ يُزَكِّيۡهِمۡ​ؕ اِنَّكَ اَنۡتَ
-  الۡعَزِيۡزُ الۡحَكِيۡمُ‏
+arabic_ayat: رَبَّنَا وَٱبۡعَثۡ فِيهِمۡ رَسُولٗا مِّنۡهُمۡ يَتۡلُواْ عَلَيۡهِمۡ ءَايَٰتِكَ
+  وَيُعَلِّمُهُمُ ٱلۡكِتَٰبَ وَٱلۡحِكۡمَةَ وَيُزَكِّيهِمۡۖ إِنَّكَ أَنتَ ٱلۡعَزِيزُ
+  ٱلۡحَكِيمُ
 sentence_translation: Our Lord! Raise from among them a messenger who will recite
   to them Your revelations, teach them the Book and wisdom, and purify them. Indeed,
   You ˹alone˺ are the Almighty, All-Wise.”
@@ -11,15 +11,15 @@ word_by_word:
     translation: Our Lord
     transliteration: rabbanā
   2:
-    arabic: وَابۡعَثۡ
+    arabic: وَٱبۡعَثۡ
     translation: '[And] raise up'
     transliteration: wa-ib'ʿath
   3:
-    arabic: فِيۡهِمۡ
+    arabic: فِيهِمۡ
     translation: in them
     transliteration: fīhim
   4:
-    arabic: رَسُوۡلًا
+    arabic: رَسُولٗا
     translation: a Messenger
     transliteration: rasūlan
   5:
@@ -27,15 +27,15 @@ word_by_word:
     translation: from them
     transliteration: min'hum
   6:
-    arabic: يَتۡلُوۡا
+    arabic: يَتۡلُواْ
     translation: (who) will recite
     transliteration: yatlū
   7:
-    arabic: عَلَيۡهِمۡ
+    arabic: عَلَيۡهِمۡ ءَ
     translation: to them
     transliteration: ʿalayhim
   8:
-    arabic: اٰيٰتِكَ
+    arabic: ايَٰتِكَ
     translation: Your Verses
     transliteration: āyātika
   9:
@@ -43,31 +43,31 @@ word_by_word:
     translation: and will teach them
     transliteration: wayuʿallimuhumu
   10:
-    arabic: الۡكِتٰبَ
+    arabic: ٱلۡكِتَٰبَ
     translation: the Book
     transliteration: l-kitāba
   11:
-    arabic: وَالۡحِكۡمَةَ
+    arabic: وَٱلۡحِكۡمَةَ
     translation: and the wisdom
     transliteration: wal-ḥik'mata
   12:
-    arabic: وَ يُزَكِّيۡهِمۡ​ؕ
+    arabic: وَيُزَكِّيهِمۡۖ
     translation: and purify them
     transliteration: wayuzakkīhim
   13:
-    arabic: اِنَّكَ
+    arabic: إِنَّكَ
     translation: Indeed You
     transliteration: innaka
   14:
-    arabic: اَنۡتَ
+    arabic: أَنتَ
     translation: You (are)
     transliteration: anta
   15:
-    arabic: الۡعَزِيۡزُ
+    arabic: ٱلۡعَزِيزُ
     translation: the All-Mighty
     transliteration: l-ʿazīzu
   16:
-    arabic: الۡحَكِيۡمُ‏
+    arabic: ٱلۡحَكِيمُ
     translation: the All-Wise
     transliteration: l-ḥakīmu
 ---

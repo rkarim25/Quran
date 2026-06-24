@@ -1,9 +1,9 @@
 ---
-arabic_ayat: اَنۡتُمۡ عَنۡهُ مُعۡرِضُوۡنَ‏
+arabic_ayat: أَنتُمۡ عَنۡهُ مُعۡرِضُونَ
 sentence_translation: from which you ˹pagans˺ are turning away.”
 word_by_word:
   1:
-    arabic: اَنۡتُمۡ
+    arabic: أَنتُمۡ
     translation: You
     transliteration: antum
   2:
@@ -11,7 +11,7 @@ word_by_word:
     translation: from it
     transliteration: ʿanhu
   3:
-    arabic: مُعۡرِضُوۡنَ‏
+    arabic: مُعۡرِضُونَ
     translation: turn away
     transliteration: muʿ'riḍūna
 ---

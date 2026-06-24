@@ -1,6 +1,6 @@
 ---
-arabic_ayat: وَلَا يَحۡزُنۡكَ قَوۡلُهُمۡ​ۘ اِنَّ الۡعِزَّةَ لِلّٰهِ جَمِيۡعًا​ ؕ هُوَ
-  السَّمِيۡعُ الۡعَلِيۡمُ‏
+arabic_ayat: وَلَا يَحۡزُنكَ قَوۡلُهُمۡۘ إِنَّ ٱلۡعِزَّةَ لِلَّهِ جَمِيعًاۚ هُوَ ٱلسَّمِيعُ
+  ٱلۡعَلِيمُ
 sentence_translation: Do not let their words grieve you ˹O Prophet˺. Surely all honour
   and power belongs to Allah. He is the All-Hearing, All-Knowing.
 word_by_word:
@@ -9,27 +9,27 @@ word_by_word:
     translation: And (let) not
     transliteration: walā
   2:
-    arabic: يَحۡزُنۡكَ
+    arabic: يَحۡزُنكَ
     translation: grieve you
     transliteration: yaḥzunka
   3:
-    arabic: قَوۡلُهُمۡ​ۘ
+    arabic: قَوۡلُهُمۡۘ
     translation: their speech
     transliteration: qawluhum
   4:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   5:
-    arabic: الۡعِزَّةَ
+    arabic: ٱلۡعِزَّةَ
     translation: the honor
     transliteration: l-ʿizata
   6:
-    arabic: لِلّٰهِ
+    arabic: لِلَّهِ
     translation: (belongs) to Allah
     transliteration: lillahi
   7:
-    arabic: جَمِيۡعًا​ ؕ
+    arabic: جَمِيعًاۚ
     translation: all
     transliteration: jamīʿan
   8:
@@ -37,11 +37,11 @@ word_by_word:
     translation: He
     transliteration: huwa
   9:
-    arabic: السَّمِيۡعُ
+    arabic: ٱلسَّمِيعُ
     translation: (is) the All-Hearer
     transliteration: l-samīʿu
   10:
-    arabic: الۡعَلِيۡمُ‏
+    arabic: ٱلۡعَلِيمُ
     translation: the All-Knower
     transliteration: l-ʿalīmu
 ---

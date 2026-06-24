@@ -1,13 +1,12 @@
 ---
-arabic_ayat: "مَنۡ جَآءَ بِالۡحَسَنَةِ فَلَهٗ خَيۡرٌ مِّنۡهَا​ ۚ وَمَنۡ جَآءَ بِالسَّيِّئَةِ\
-  \ فَلَا يُجۡزَى الَّذِيۡنَ عَمِلُوا السَّيِّاٰتِ اِلَّا مَا كَانُوۡا يَعۡمَلُوۡنَ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: مَن جَآءَ بِٱلۡحَسَنَةِ فَلَهُۥ خَيۡرٞ مِّنۡهَاۖ وَمَن جَآءَ بِٱلسَّيِّئَةِ
+  فَلَا يُجۡزَى ٱلَّذِينَ عَمِلُواْ ٱلسَّيِّـَٔاتِ إِلَّا مَا كَانُواْ يَعۡمَلُونَ
 sentence_translation: Whoever comes with a good deed will be rewarded with what is
   better. And whoever comes with an evil deed, then the evildoers will only be rewarded
   for what they used to do.
 word_by_word:
   1:
-    arabic: مَنۡ
+    arabic: مَن
     translation: Whoever
     transliteration: man
   2:
@@ -15,23 +14,23 @@ word_by_word:
     translation: comes
     transliteration: jāa
   3:
-    arabic: بِالۡحَسَنَةِ
+    arabic: بِٱلۡحَسَنَةِ
     translation: with a good (deed)
     transliteration: bil-ḥasanati
   4:
-    arabic: فَلَهٗ
+    arabic: فَلَهُۥ
     translation: then for him
     transliteration: falahu
   5:
-    arabic: خَيۡرٌ
+    arabic: خَيۡرٞ
     translation: (will be) better
     transliteration: khayrun
   6:
-    arabic: مِّنۡهَا​ ۚ
+    arabic: مِّنۡهَاۖ
     translation: than it
     transliteration: min'hā
   7:
-    arabic: وَمَنۡ
+    arabic: وَمَن
     translation: and whoever
     transliteration: waman
   8:
@@ -39,7 +38,7 @@ word_by_word:
     translation: comes
     transliteration: jāa
   9:
-    arabic: بِالسَّيِّئَةِ
+    arabic: بِٱلسَّيِّئَةِ
     translation: with an evil (deed)
     transliteration: bil-sayi-ati
   10:
@@ -51,19 +50,19 @@ word_by_word:
     translation: will be recompensed
     transliteration: yuj'zā
   12:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   13:
-    arabic: عَمِلُوا
+    arabic: عَمِلُواْ
     translation: do
     transliteration: ʿamilū
   14:
-    arabic: السَّيِّاٰتِ
+    arabic: ٱلسَّيِّـَٔاتِ
     translation: the evil (deeds)
     transliteration: l-sayiāti
   15:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   16:
@@ -71,11 +70,11 @@ word_by_word:
     translation: what
     transliteration: mā
   17:
-    arabic: كَانُوۡا
+    arabic: كَانُواْ
     translation: they used (to)
     transliteration: kānū
   18:
-    arabic: "يَعۡمَلُوۡنَ‏ \uFEFF\uFEFF"
+    arabic: يَعۡمَلُونَ
     translation: do
     transliteration: yaʿmalūna
 ---

@@ -1,31 +1,31 @@
 ---
-arabic_ayat: اَلَمۡ يَاۡتِهِمۡ نَبَاُ الَّذِيۡنَ مِنۡ قَبۡلِهِمۡ قَوۡمِ نُوۡحٍ وَّعَادٍ
-  وَّثَمُوۡدَ  ۙ وَقَوۡمِ اِبۡرٰهِيۡمَ وَاَصۡحٰبِ مَدۡيَنَ وَالۡمُؤۡتَفِكٰتِ​ ؕ اَتَتۡهُمۡ
-  رُسُلُهُمۡ بِالۡبَيِّنٰتِ​​ ۚ فَمَا كَانَ اللّٰهُ لِيَظۡلِمَهُمۡ وَلٰـكِنۡ كَانُوۡۤا
-  اَنۡفُسَهُمۡ يَظۡلِمُوۡنَ‏
+arabic_ayat: أَلَمۡ يَأۡتِهِمۡ نَبَأُ ٱلَّذِينَ مِن قَبۡلِهِمۡ قَوۡمِ نُوحٖ وَعَادٖ
+  وَثَمُودَ وَقَوۡمِ إِبۡرَٰهِيمَ وَأَصۡحَٰبِ مَدۡيَنَ وَٱلۡمُؤۡتَفِكَٰتِۚ أَتَتۡهُمۡ
+  رُسُلُهُم بِٱلۡبَيِّنَٰتِۖ فَمَا كَانَ ٱللَّهُ لِيَظۡلِمَهُمۡ وَلَٰكِن كَانُوٓاْ
+  أَنفُسَهُمۡ يَظۡلِمُونَ
 sentence_translation: 'Have they not received the stories of those ˹destroyed˺ before
   them: the people of Noah, ’Âd, and Thamûd, the people of Abraham, the residents
   of Midian, and the overturned cities ˹of Lot˺? Their messengers came to them with
   clear proofs. Allah would have never wronged them, but it was they who wronged themselves.'
 word_by_word:
   1:
-    arabic: اَلَمۡ
+    arabic: أَلَمۡ
     translation: Has not
     transliteration: alam
   2:
-    arabic: يَاۡتِهِمۡ
+    arabic: يَأۡتِهِمۡ
     translation: come to them
     transliteration: yatihim
   3:
-    arabic: نَبَاُ
+    arabic: نَبَأُ
     translation: (the) news
     transliteration: naba-u
   4:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: (of) those who
     transliteration: alladhīna
   5:
-    arabic: مِنۡ
+    arabic: مِن
     translation: (were) before them
     transliteration: min
   6:
@@ -37,15 +37,15 @@ word_by_word:
     translation: (the) people
     transliteration: qawmi
   8:
-    arabic: نُوۡحٍ
+    arabic: نُوحٖ
     translation: (of) Nuh
     transliteration: nūḥin
   9:
-    arabic: وَّعَادٍ
+    arabic: وَعَادٖ
     translation: and Aad
     transliteration: waʿādin
   10:
-    arabic: وَّثَمُوۡدَ  ۙ
+    arabic: وَثَمُودَ
     translation: and Thamud
     transliteration: wathamūda
   11:
@@ -53,11 +53,11 @@ word_by_word:
     translation: and (the) people
     transliteration: waqawmi
   12:
-    arabic: اِبۡرٰهِيۡمَ
+    arabic: إِبۡرَٰهِيمَ
     translation: (of) Ibrahim
     transliteration: ib'rāhīma
   13:
-    arabic: وَاَصۡحٰبِ
+    arabic: وَأَصۡحَٰبِ
     translation: and (the) companions
     transliteration: wa-aṣḥābi
   14:
@@ -65,19 +65,19 @@ word_by_word:
     translation: (of) Madyan
     transliteration: madyana
   15:
-    arabic: وَالۡمُؤۡتَفِكٰتِ​ ؕ
+    arabic: وَٱلۡمُؤۡتَفِكَٰتِۚ
     translation: and the towns overturned
     transliteration: wal-mu'tafikāti
   16:
-    arabic: اَتَتۡهُمۡ
+    arabic: أَتَتۡهُمۡ
     translation: Came to them
     transliteration: atathum
   17:
-    arabic: رُسُلُهُمۡ
+    arabic: رُسُلُهُم
     translation: their Messengers
     transliteration: rusuluhum
   18:
-    arabic: بِالۡبَيِّنٰتِ​​ ۚ
+    arabic: بِٱلۡبَيِّنَٰتِۖ
     translation: with clear proofs
     transliteration: bil-bayināti
   19:
@@ -89,7 +89,7 @@ word_by_word:
     translation: was
     transliteration: kāna
   21:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   22:
@@ -97,19 +97,19 @@ word_by_word:
     translation: to wrong them
     transliteration: liyaẓlimahum
   23:
-    arabic: وَلٰـكِنۡ
+    arabic: وَلَٰكِن
     translation: but
     transliteration: walākin
   24:
-    arabic: كَانُوۡۤا
+    arabic: كَانُوٓاْ
     translation: they were (to)
     transliteration: kānū
   25:
-    arabic: اَنۡفُسَهُمۡ
+    arabic: أَنفُسَهُمۡ
     translation: themselves
     transliteration: anfusahum
   26:
-    arabic: يَظۡلِمُوۡنَ‏
+    arabic: يَظۡلِمُونَ
     translation: doing wrong
     transliteration: yaẓlimūna
 ---

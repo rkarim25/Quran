@@ -1,7 +1,6 @@
 ---
-arabic_ayat: "قَالَ يَابۡنَؤُمَّ لَا تَاۡخُذۡ بِلِحۡيَتِىۡ وَلَا بِرَاۡسِىۡ​ۚ اِنِّىۡ\
-  \ خَشِيۡتُ اَنۡ تَقُوۡلَ فَرَّقۡتَ بَيۡنَ بَنِىۡۤ اِسۡرَآءِيۡلَ وَلَمۡ تَرۡقُبۡ\
-  \ قَوۡلِىْ‏ \uFEFF\uFEFF"
+arabic_ayat: قَالَ يَبۡنَؤُمَّ لَا تَأۡخُذۡ بِلِحۡيَتِي وَلَا بِرَأۡسِيٓۖ إِنِّي خَشِيتُ
+  أَن تَقُولَ فَرَّقۡتَ بَيۡنَ بَنِيٓ إِسۡرَٰٓءِيلَ وَلَمۡ تَرۡقُبۡ قَوۡلِي
 sentence_translation: Aaron pleaded, “O son of my mother! Do not seize me by my beard
   or ˹the hair of˺ my head. I really feared that you would say, ‘You have caused division
   among the Children of Israel, and did not observe my word.’”
@@ -11,7 +10,7 @@ word_by_word:
     translation: He said
     transliteration: qāla
   2:
-    arabic: يَابۡنَؤُمَّ
+    arabic: يَبۡنَؤُمَّ
     translation: O son of my mother
     transliteration: yabna-umma
   3:
@@ -19,11 +18,11 @@ word_by_word:
     translation: (Do) not
     transliteration: lā
   4:
-    arabic: تَاۡخُذۡ
+    arabic: تَأۡخُذۡ
     translation: seize (me)
     transliteration: takhudh
   5:
-    arabic: بِلِحۡيَتِىۡ
+    arabic: بِلِحۡيَتِي
     translation: by my beard
     transliteration: biliḥ'yatī
   6:
@@ -31,23 +30,23 @@ word_by_word:
     translation: and not
     transliteration: walā
   7:
-    arabic: بِرَاۡسِىۡ​ۚ
+    arabic: بِرَأۡسِيٓۖ
     translation: by my head
     transliteration: birasī
   8:
-    arabic: اِنِّىۡ
+    arabic: إِنِّي
     translation: Indeed, I
     transliteration: innī
   9:
-    arabic: خَشِيۡتُ
+    arabic: خَشِيتُ
     translation: '[I] feared'
     transliteration: khashītu
   10:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that
     transliteration: an
   11:
-    arabic: تَقُوۡلَ
+    arabic: تَقُولَ
     translation: you would say
     transliteration: taqūla
   12:
@@ -59,11 +58,11 @@ word_by_word:
     translation: between
     transliteration: bayna
   14:
-    arabic: بَنِىۡۤ
+    arabic: بَنِيٓ
     translation: (the) Children of Israel
     transliteration: banī
   15:
-    arabic: اِسۡرَآءِيۡلَ
+    arabic: إِسۡرَٰٓءِيلَ
     translation: (the) Children of Israel
     transliteration: is'rāīla
   16:
@@ -75,7 +74,7 @@ word_by_word:
     translation: you respect
     transliteration: tarqub
   18:
-    arabic: "قَوۡلِىْ‏ \uFEFF\uFEFF"
+    arabic: قَوۡلِي
     translation: my word
     transliteration: qawlī
 ---

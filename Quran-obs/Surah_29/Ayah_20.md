@@ -1,7 +1,6 @@
 ---
-arabic_ayat: "قُلۡ سِيۡرُوۡا فِى الۡاَرۡضِ فَانْظُرُوۡا كَيۡفَ بَدَاَ الۡخَـلۡقَ​\
-  \ ثُمَّ اللّٰهُ يُنۡشِئُ النَّشۡاَةَ الۡاٰخِرَةَ​ ؕ اِنَّ اللّٰهَ عَلٰى كُلِّ شَىۡءٍ\
-  \ قَدِيۡرٌ​ۚ‏ \uFEFF\uFEFF"
+arabic_ayat: قُلۡ سِيرُواْ فِي ٱلۡأَرۡضِ فَٱنظُرُواْ كَيۡفَ بَدَأَ ٱلۡخَلۡقَۚ ثُمَّ
+  ٱللَّهُ يُنشِئُ ٱلنَّشۡأَةَ ٱلۡأٓخِرَةَۚ إِنَّ ٱللَّهَ عَلَىٰ كُلِّ شَيۡءٖ قَدِيرٞ
 sentence_translation: Say, ˹O Prophet,˺ “Travel throughout the land and see how He
   originated the creation, then Allah will bring it into being one more time. Surely
   Allah is Most Capable of everything.
@@ -11,19 +10,19 @@ word_by_word:
     translation: Say
     transliteration: qul
   2:
-    arabic: سِيۡرُوۡا
+    arabic: سِيرُواْ
     translation: Travel
     transliteration: sīrū
   3:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   4:
-    arabic: الۡاَرۡضِ
+    arabic: ٱلۡأَرۡضِ
     translation: the earth
     transliteration: l-arḍi
   5:
-    arabic: فَانْظُرُوۡا
+    arabic: فَٱنظُرُواْ
     translation: and see
     transliteration: fa-unẓurū
   6:
@@ -31,11 +30,11 @@ word_by_word:
     translation: how
     transliteration: kayfa
   7:
-    arabic: بَدَاَ
+    arabic: بَدَأَ
     translation: He originated
     transliteration: bada-a
   8:
-    arabic: الۡخَـلۡقَ​
+    arabic: ٱلۡخَلۡقَۚ
     translation: the creation
     transliteration: l-khalqa
   9:
@@ -43,31 +42,31 @@ word_by_word:
     translation: Then
     transliteration: thumma
   10:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   11:
-    arabic: يُنۡشِئُ
+    arabic: يُنشِئُ
     translation: will produce
     transliteration: yunshi-u
   12:
-    arabic: النَّشۡاَةَ
+    arabic: ٱلنَّشۡأَةَ
     translation: the creation
     transliteration: l-nashata
   13:
-    arabic: الۡاٰخِرَةَ​ ؕ
+    arabic: ٱلۡأٓخِرَةَۚ
     translation: the last
     transliteration: l-ākhirata
   14:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   15:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   16:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: 'on'
     transliteration: ʿalā
   17:
@@ -75,11 +74,11 @@ word_by_word:
     translation: every
     transliteration: kulli
   18:
-    arabic: شَىۡءٍ
+    arabic: شَيۡءٖ
     translation: thing
     transliteration: shayin
   19:
-    arabic: "قَدِيۡرٌ​ۚ‏ \uFEFF\uFEFF"
+    arabic: قَدِيرٞ
     translation: (is) All-Powerful
     transliteration: qadīrun
 ---

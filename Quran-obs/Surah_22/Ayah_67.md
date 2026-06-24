@@ -1,16 +1,16 @@
 ---
-arabic_ayat: لِّـكُلِّ اُمَّةٍ جَعَلۡنَا مَنۡسَكًا هُمۡ نَاسِكُوۡهُ​ فَلَا يُنَازِعُنَّكَ
-  فِى الۡاَمۡرِ​ وَادۡعُ اِلٰى رَبِّكَ​ ؕ اِنَّكَ لَعَلٰى هُدًى مُّسۡتَقِيۡمٍ‏
+arabic_ayat: لِّكُلِّ أُمَّةٖ جَعَلۡنَا مَنسَكًا هُمۡ نَاسِكُوهُۖ فَلَا يُنَٰزِعُنَّكَ
+  فِي ٱلۡأَمۡرِۚ وَٱدۡعُ إِلَىٰ رَبِّكَۖ إِنَّكَ لَعَلَىٰ هُدٗى مُّسۡتَقِيمٖ
 sentence_translation: For every community We appointed a code of life to follow. So
   do not let them dispute with you ˹O Prophet˺ in this matter. And invite ˹all˺ to
   your Lord, for you are truly on the Right Guidance.
 word_by_word:
   1:
-    arabic: لِّـكُلِّ
+    arabic: لِّكُلِّ
     translation: For every
     transliteration: likulli
   2:
-    arabic: اُمَّةٍ
+    arabic: أُمَّةٖ
     translation: nation
     transliteration: ummatin
   3:
@@ -18,7 +18,7 @@ word_by_word:
     translation: We have made
     transliteration: jaʿalnā
   4:
-    arabic: مَنۡسَكًا
+    arabic: مَنسَكًا
     translation: rite(s)
     transliteration: mansakan
   5:
@@ -26,7 +26,7 @@ word_by_word:
     translation: they
     transliteration: hum
   6:
-    arabic: نَاسِكُوۡهُ​
+    arabic: نَاسِكُوهُۖ
     translation: perform it
     transliteration: nāsikūhu
   7:
@@ -34,43 +34,43 @@ word_by_word:
     translation: So let them not dispute with you
     transliteration: falā
   8:
-    arabic: يُنَازِعُنَّكَ
+    arabic: يُنَٰزِعُنَّكَ
     translation: So let them not dispute with you
     transliteration: yunāziʿunnaka
   9:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   10:
-    arabic: الۡاَمۡرِ​
+    arabic: ٱلۡأَمۡرِۚ
     translation: the matter
     transliteration: l-amri
   11:
-    arabic: وَادۡعُ
+    arabic: وَٱدۡعُ
     translation: but invite (them)
     transliteration: wa-ud'ʿu
   12:
-    arabic: اِلٰى
+    arabic: إِلَىٰ
     translation: to
     transliteration: ilā
   13:
-    arabic: رَبِّكَ​ ؕ
+    arabic: رَبِّكَۖ
     translation: your Lord
     transliteration: rabbika
   14:
-    arabic: اِنَّكَ
+    arabic: إِنَّكَ
     translation: Indeed, you
     transliteration: innaka
   15:
-    arabic: لَعَلٰى
+    arabic: لَعَلَىٰ
     translation: (are) surely on
     transliteration: laʿalā
   16:
-    arabic: هُدًى
+    arabic: هُدٗى
     translation: guidance
     transliteration: hudan
   17:
-    arabic: مُّسۡتَقِيۡمٍ‏
+    arabic: مُّسۡتَقِيمٖ
     translation: straight
     transliteration: mus'taqīmin
 ---

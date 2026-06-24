@@ -1,15 +1,15 @@
 ---
-arabic_ayat: "اِنَّاۤ اَرۡسَلۡنَا عَلَيۡهِمۡ صَيۡحَةً وَّاحِدَةً فَكَانُوۡا كَهَشِيۡمِ\
-  \ الۡمُحۡتَظِرِ‏ \uFEFF\uFEFF"
+arabic_ayat: إِنَّآ أَرۡسَلۡنَا عَلَيۡهِمۡ صَيۡحَةٗ وَٰحِدَةٗ فَكَانُواْ كَهَشِيمِ
+  ٱلۡمُحۡتَظِرِ
 sentence_translation: Indeed, We sent against them ˹only˺ one ˹mighty˺ blast, leaving
   them like the twigs of fence-builders.
 word_by_word:
   1:
-    arabic: اِنَّاۤ
+    arabic: إِنَّآ
     translation: Indeed, We
     transliteration: innā
   2:
-    arabic: اَرۡسَلۡنَا
+    arabic: أَرۡسَلۡنَا
     translation: '[We] sent'
     transliteration: arsalnā
   3:
@@ -17,23 +17,23 @@ word_by_word:
     translation: upon them
     transliteration: ʿalayhim
   4:
-    arabic: صَيۡحَةً
+    arabic: صَيۡحَةٗ
     translation: thunderous blast
     transliteration: ṣayḥatan
   5:
-    arabic: وَّاحِدَةً
+    arabic: وَٰحِدَةٗ
     translation: single
     transliteration: wāḥidatan
   6:
-    arabic: فَكَانُوۡا
+    arabic: فَكَانُواْ
     translation: and they became
     transliteration: fakānū
   7:
-    arabic: كَهَشِيۡمِ
+    arabic: كَهَشِيمِ
     translation: like dry twig fragments
     transliteration: kahashīmi
   8:
-    arabic: "الۡمُحۡتَظِرِ‏ \uFEFF\uFEFF"
+    arabic: ٱلۡمُحۡتَظِرِ
     translation: (used by) a fence builder
     transliteration: l-muḥ'taẓiri
 ---

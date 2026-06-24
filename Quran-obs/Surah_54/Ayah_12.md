@@ -1,35 +1,35 @@
 ---
-arabic_ayat: وَّفَجَّرۡنَا الۡاَرۡضَ عُيُوۡنًا فَالۡتَقَى الۡمَآءُ عَلٰٓى اَمۡرٍ
-  قَدۡ قُدِرَ​ۚ‏
+arabic_ayat: وَفَجَّرۡنَا ٱلۡأَرۡضَ عُيُونٗا فَٱلۡتَقَى ٱلۡمَآءُ عَلَىٰٓ أَمۡرٖ قَدۡ
+  قُدِرَ
 sentence_translation: and caused the earth to burst with springs, so the waters met
   for a fate already set.
 word_by_word:
   1:
-    arabic: وَّفَجَّرۡنَا
+    arabic: وَفَجَّرۡنَا
     translation: And We caused to burst
     transliteration: wafajjarnā
   2:
-    arabic: الۡاَرۡضَ
+    arabic: ٱلۡأَرۡضَ
     translation: the earth
     transliteration: l-arḍa
   3:
-    arabic: عُيُوۡنًا
+    arabic: عُيُونٗا
     translation: (with) springs
     transliteration: ʿuyūnan
   4:
-    arabic: فَالۡتَقَى
+    arabic: فَٱلۡتَقَى
     translation: so met
     transliteration: fal-taqā
   5:
-    arabic: الۡمَآءُ
+    arabic: ٱلۡمَآءُ
     translation: the water(s)
     transliteration: l-māu
   6:
-    arabic: عَلٰٓى
+    arabic: عَلَىٰٓ
     translation: for
     transliteration: ʿalā
   7:
-    arabic: اَمۡرٍ
+    arabic: أَمۡرٖ
     translation: a matter
     transliteration: amrin
   8:
@@ -37,7 +37,7 @@ word_by_word:
     translation: already
     transliteration: qad
   9:
-    arabic: قُدِرَ​ۚ‏
+    arabic: قُدِرَ
     translation: predestined
     transliteration: qudira
 ---

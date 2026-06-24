@@ -1,7 +1,7 @@
 ---
-arabic_ayat: وَلِكُلِّ اُمَّةٍ جَعَلۡنَا مَنۡسَكًا لِّيَذۡكُرُوا اسۡمَ اللّٰهِ عَلٰى
-  مَا رَزَقَهُمۡ مِّنۡۢ بَهِيۡمَةِ الۡاَنۡعَامِ ؕ فَاِلٰهُكُمۡ اِلٰـهٌ وَّاحِدٌ فَلَهٗۤ
-  اَسۡلِمُوۡا​ ؕ وَبَشِّرِ الۡمُخۡبِتِيۡنَ ۙ‏
+arabic_ayat: وَلِكُلِّ أُمَّةٖ جَعَلۡنَا مَنسَكٗا لِّيَذۡكُرُواْ ٱسۡمَ ٱللَّهِ عَلَىٰ
+  مَا رَزَقَهُم مِّنۢ بَهِيمَةِ ٱلۡأَنۡعَٰمِۗ فَإِلَٰهُكُمۡ إِلَٰهٞ وَٰحِدٞ فَلَهُۥٓ
+  أَسۡلِمُواْۗ وَبَشِّرِ ٱلۡمُخۡبِتِينَ
 sentence_translation: 'For every community We appointed a rite of sacrifice so that
   they may pronounce the Name of Allah over the sacrificial animals He has provided
   for them. For your God is only One God, so submit yourselves to Him ˹alone˺. And
@@ -12,7 +12,7 @@ word_by_word:
     translation: And for every
     transliteration: walikulli
   2:
-    arabic: اُمَّةٍ
+    arabic: أُمَّةٖ
     translation: nation
     transliteration: ummatin
   3:
@@ -20,23 +20,23 @@ word_by_word:
     translation: We have appointed
     transliteration: jaʿalnā
   4:
-    arabic: مَنۡسَكًا
+    arabic: مَنسَكٗا
     translation: a rite
     transliteration: mansakan
   5:
-    arabic: لِّيَذۡكُرُوا
+    arabic: لِّيَذۡكُرُواْ
     translation: that they may mention
     transliteration: liyadhkurū
   6:
-    arabic: اسۡمَ
+    arabic: ٱسۡمَ
     translation: (the) name
     transliteration: is'ma
   7:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (of) Allah
     transliteration: l-lahi
   8:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: over
     transliteration: ʿalā
   9:
@@ -44,39 +44,39 @@ word_by_word:
     translation: what
     transliteration: mā
   10:
-    arabic: رَزَقَهُمۡ
+    arabic: رَزَقَهُم
     translation: He (has) provided them
     transliteration: razaqahum
   11:
-    arabic: مِّنۡۢ
+    arabic: مِّنۢ
     translation: of
     transliteration: min
   12:
-    arabic: بَهِيۡمَةِ
+    arabic: بَهِيمَةِ
     translation: (the) beast
     transliteration: bahīmati
   13:
-    arabic: الۡاَنۡعَامِ ؕ
+    arabic: ٱلۡأَنۡعَٰمِۗ
     translation: (of) cattle
     transliteration: l-anʿāmi
   14:
-    arabic: فَاِلٰهُكُمۡ
+    arabic: فَإِلَٰهُكُمۡ
     translation: And your God
     transliteration: fa-ilāhukum
   15:
-    arabic: اِلٰـهٌ
+    arabic: إِلَٰهٞ
     translation: (is) God
     transliteration: ilāhun
   16:
-    arabic: وَّاحِدٌ
+    arabic: وَٰحِدٞ
     translation: One
     transliteration: wāḥidun
   17:
-    arabic: فَلَهٗۤ
+    arabic: فَلَهُۥٓ
     translation: so to Him
     transliteration: falahu
   18:
-    arabic: اَسۡلِمُوۡا​ ؕ
+    arabic: أَسۡلِمُواْۗ
     translation: submit
     transliteration: aslimū
   19:
@@ -84,7 +84,7 @@ word_by_word:
     translation: And give glad tidings
     transliteration: wabashiri
   20:
-    arabic: الۡمُخۡبِتِيۡنَ ۙ‏
+    arabic: ٱلۡمُخۡبِتِينَ
     translation: (to) the humble ones
     transliteration: l-mukh'bitīna
 ---

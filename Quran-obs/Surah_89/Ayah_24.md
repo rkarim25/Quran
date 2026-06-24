@@ -1,14 +1,14 @@
 ---
-arabic_ayat: يَقُوۡلُ يٰلَيۡتَنِىۡ قَدَّمۡتُ لِحَـيَاتِى​ۚ‏
+arabic_ayat: يَقُولُ يَٰلَيۡتَنِي قَدَّمۡتُ لِحَيَاتِي
 sentence_translation: They will cry, “I wish I had sent forth ˹something good˺ for
   my ˹true˺ life.”
 word_by_word:
   1:
-    arabic: يَقُوۡلُ
+    arabic: يَقُولُ
     translation: He will say
     transliteration: yaqūlu
   2:
-    arabic: يٰلَيۡتَنِىۡ
+    arabic: يَٰلَيۡتَنِي
     translation: O I wish
     transliteration: yālaytanī
   3:
@@ -16,7 +16,7 @@ word_by_word:
     translation: I had sent forth
     transliteration: qaddamtu
   4:
-    arabic: لِحَـيَاتِى​ۚ‏
+    arabic: لِحَيَاتِي
     translation: for my life
     transliteration: liḥayātī
 ---

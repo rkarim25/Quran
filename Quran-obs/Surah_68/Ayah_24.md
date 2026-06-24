@@ -1,9 +1,9 @@
 ---
-arabic_ayat: اَنۡ لَّا يَدۡخُلَنَّهَا الۡيَوۡمَ عَلَيۡكُمۡ مِّسۡكِيۡنٌۙ‏
+arabic_ayat: أَن لَّا يَدۡخُلَنَّهَا ٱلۡيَوۡمَ عَلَيۡكُم مِّسۡكِينٞ
 sentence_translation: “Do not let any poor person enter your garden today.”
 word_by_word:
   1:
-    arabic: اَنۡ
+    arabic: أَن
     translation: That
     transliteration: an
   2:
@@ -15,15 +15,15 @@ word_by_word:
     translation: will enter it
     transliteration: yadkhulannahā
   4:
-    arabic: الۡيَوۡمَ
+    arabic: ٱلۡيَوۡمَ
     translation: today
     transliteration: l-yawma
   5:
-    arabic: عَلَيۡكُمۡ
+    arabic: عَلَيۡكُم
     translation: upon you
     transliteration: ʿalaykum
   6:
-    arabic: مِّسۡكِيۡنٌۙ‏
+    arabic: مِّسۡكِينٞ
     translation: any poor person
     transliteration: mis'kīnun
 ---

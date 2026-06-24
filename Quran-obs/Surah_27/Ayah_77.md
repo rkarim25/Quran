@@ -1,21 +1,21 @@
 ---
-arabic_ayat: وَاِنَّهٗ لَهُدًى وَّرَحۡمَةٌ لِّلۡمُؤۡمِنِيۡنَ‏
+arabic_ayat: وَإِنَّهُۥ لَهُدٗى وَرَحۡمَةٞ لِّلۡمُؤۡمِنِينَ
 sentence_translation: And it is truly a guide and mercy for the believers.
 word_by_word:
   1:
-    arabic: وَاِنَّهٗ
+    arabic: وَإِنَّهُۥ
     translation: And indeed, it
     transliteration: wa-innahu
   2:
-    arabic: لَهُدًى
+    arabic: لَهُدٗى
     translation: (is) surely a guidance
     transliteration: lahudan
   3:
-    arabic: وَّرَحۡمَةٌ
+    arabic: وَرَحۡمَةٞ
     translation: and a mercy
     transliteration: waraḥmatun
   4:
-    arabic: لِّلۡمُؤۡمِنِيۡنَ‏
+    arabic: لِّلۡمُؤۡمِنِينَ
     translation: for the believers
     transliteration: lil'mu'minīna
 ---

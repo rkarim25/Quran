@@ -1,8 +1,8 @@
 ---
-arabic_ayat: وَمَثَلُ الَّذِيۡنَ يُنۡفِقُوۡنَ اَمۡوَالَهُمُ ابۡتِغَآءَ مَرۡضَاتِ
-  اللّٰهِ وَ تَثۡبِيۡتًا مِّنۡ اَنۡفُسِهِمۡ كَمَثَلِ جَنَّةٍۢ بِرَبۡوَةٍ اَصَابَهَا
-  وَابِلٌ فَاٰتَتۡ اُكُلَهَا ضِعۡفَيۡنِ​ۚ فَاِنۡ لَّمۡ يُصِبۡهَا وَابِلٌ فَطَلٌّ​ؕ
-  وَاللّٰهُ بِمَا تَعۡمَلُوۡنَ بَصِيۡرٌ‏
+arabic_ayat: وَمَثَلُ ٱلَّذِينَ يُنفِقُونَ أَمۡوَٰلَهُمُ ٱبۡتِغَآءَ مَرۡضَاتِ ٱللَّهِ
+  وَتَثۡبِيتٗا مِّنۡ أَنفُسِهِمۡ كَمَثَلِ جَنَّةِۭ بِرَبۡوَةٍ أَصَابَهَا وَابِلٞ فَـَٔاتَتۡ
+  أُكُلَهَا ضِعۡفَيۡنِ فَإِن لَّمۡ يُصِبۡهَا وَابِلٞ فَطَلّٞۗ وَٱللَّهُ بِمَا تَعۡمَلُونَ
+  بَصِيرٌ
 sentence_translation: 'And the example of those who donate their wealth, seeking Allah’s
   pleasure and believing the reward is certain, is that of a garden on a fertile hill:
   when heavy rain falls, it yields up twice its normal produce. If no heavy rain falls,
@@ -13,19 +13,19 @@ word_by_word:
     translation: And (the) example
     transliteration: wamathalu
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: (of) those who
     transliteration: alladhīna
   3:
-    arabic: يُنۡفِقُوۡنَ
+    arabic: يُنفِقُونَ
     translation: spend
     transliteration: yunfiqūna
   4:
-    arabic: اَمۡوَالَهُمُ
+    arabic: أَمۡوَٰلَهُمُ
     translation: their wealth
     transliteration: amwālahumu
   5:
-    arabic: ابۡتِغَآءَ
+    arabic: ٱبۡتِغَآءَ
     translation: seeking
     transliteration: ib'tighāa
   6:
@@ -33,11 +33,11 @@ word_by_word:
     translation: (the) pleasure
     transliteration: marḍāti
   7:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (of) Allah
     transliteration: l-lahi
   8:
-    arabic: وَ تَثۡبِيۡتًا
+    arabic: وَتَثۡبِيتٗا
     translation: and certainty
     transliteration: watathbītan
   9:
@@ -45,7 +45,7 @@ word_by_word:
     translation: from
     transliteration: min
   10:
-    arabic: اَنۡفُسِهِمۡ
+    arabic: أَنفُسِهِمۡ
     translation: their (inner) souls
     transliteration: anfusihim
   11:
@@ -53,7 +53,7 @@ word_by_word:
     translation: (is) like
     transliteration: kamathali
   12:
-    arabic: جَنَّةٍۢ
+    arabic: جَنَّةِۭ
     translation: a garden
     transliteration: jannatin
   13:
@@ -61,27 +61,27 @@ word_by_word:
     translation: on a height
     transliteration: birabwatin
   14:
-    arabic: اَصَابَهَا
+    arabic: أَصَابَهَا
     translation: fell on it
     transliteration: aṣābahā
   15:
-    arabic: وَابِلٌ
+    arabic: وَابِلٞ
     translation: heavy rain
     transliteration: wābilun
   16:
-    arabic: فَاٰتَتۡ
+    arabic: فَـَٔاتَتۡ
     translation: so it yielded
     transliteration: faātat
   17:
-    arabic: اُكُلَهَا
+    arabic: أُكُلَهَا
     translation: its harvest
     transliteration: ukulahā
   18:
-    arabic: ضِعۡفَيۡنِ​ۚ
+    arabic: ضِعۡفَيۡنِ
     translation: double
     transliteration: ḍiʿ'fayni
   19:
-    arabic: فَاِنۡ
+    arabic: فَإِن
     translation: Then if
     transliteration: fa-in
   20:
@@ -93,15 +93,15 @@ word_by_word:
     translation: fall (on) it
     transliteration: yuṣib'hā
   22:
-    arabic: وَابِلٌ
+    arabic: وَابِلٞ
     translation: heavy rain
     transliteration: wābilun
   23:
-    arabic: فَطَلٌّ​ؕ
+    arabic: فَطَلّٞۗ
     translation: then a drizzle
     transliteration: faṭallun
   24:
-    arabic: وَاللّٰهُ
+    arabic: وَٱللَّهُ
     translation: And Allah
     transliteration: wal-lahu
   25:
@@ -109,11 +109,11 @@ word_by_word:
     translation: of what
     transliteration: bimā
   26:
-    arabic: تَعۡمَلُوۡنَ
+    arabic: تَعۡمَلُونَ
     translation: you do
     transliteration: taʿmalūna
   27:
-    arabic: بَصِيۡرٌ‏
+    arabic: بَصِيرٌ
     translation: (is) All-Seer
     transliteration: baṣīrun
 ---

@@ -1,15 +1,15 @@
 ---
-arabic_ayat: اِنَّ اللّٰهَ لَا يَظۡلِمُ النَّاسَ شَيۡــًٔا وَّلٰـكِنَّ النَّاسَ اَنۡفُسَهُمۡ
-  يَظۡلِمُوۡنَ‏
+arabic_ayat: إِنَّ ٱللَّهَ لَا يَظۡلِمُ ٱلنَّاسَ شَيۡـٔٗا وَلَٰكِنَّ ٱلنَّاسَ أَنفُسَهُمۡ
+  يَظۡلِمُونَ
 sentence_translation: Indeed, Allah does not wrong people in the least, but it is
   people who wrong themselves.
 word_by_word:
   1:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   2:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   3:
@@ -21,27 +21,27 @@ word_by_word:
     translation: wrong
     transliteration: yaẓlimu
   5:
-    arabic: النَّاسَ
+    arabic: ٱلنَّاسَ
     translation: the people
     transliteration: l-nāsa
   6:
-    arabic: شَيۡــًٔا
+    arabic: شَيۡـٔٗا
     translation: (in) anything
     transliteration: shayan
   7:
-    arabic: وَّلٰـكِنَّ
+    arabic: وَلَٰكِنَّ
     translation: but
     transliteration: walākinna
   8:
-    arabic: النَّاسَ
+    arabic: ٱلنَّاسَ
     translation: the people
     transliteration: l-nāsa
   9:
-    arabic: اَنۡفُسَهُمۡ
+    arabic: أَنفُسَهُمۡ
     translation: wrong themselves
     transliteration: anfusahum
   10:
-    arabic: يَظۡلِمُوۡنَ‏
+    arabic: يَظۡلِمُونَ
     translation: wrong themselves
     transliteration: yaẓlimūna
 ---

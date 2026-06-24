@@ -1,7 +1,7 @@
 ---
-arabic_ayat: مَثَلُ مَا يُنۡفِقُوۡنَ فِىۡ هٰذِهِ الۡحَيٰوةِ الدُّنۡيَا كَمَثَلِ رِيۡحٍ
-  فِيۡهَا صِرٌّ اَصَابَتۡ حَرۡثَ قَوۡمٍ ظَلَمُوۡۤا اَنۡفُسَهُمۡ فَاَهۡلَكَتۡهُ ​ؕ
-  وَمَا ظَلَمَهُمُ اللّٰهُ وَلٰـكِنۡ اَنۡفُسَهُمۡ يَظۡلِمُوۡنَ‏
+arabic_ayat: مَثَلُ مَا يُنفِقُونَ فِي هَٰذِهِ ٱلۡحَيَوٰةِ ٱلدُّنۡيَا كَمَثَلِ رِيحٖ
+  فِيهَا صِرٌّ أَصَابَتۡ حَرۡثَ قَوۡمٖ ظَلَمُوٓاْ أَنفُسَهُمۡ فَأَهۡلَكَتۡهُۚ وَمَا
+  ظَلَمَهُمُ ٱللَّهُ وَلَٰكِنۡ أَنفُسَهُمۡ يَظۡلِمُونَ
 sentence_translation: The good they do in this worldly life is like the harvest of
   an evil people struck by a bitter wind, destroying it ˹completely˺. Allah never
   wronged them, but they wronged themselves.
@@ -15,23 +15,23 @@ word_by_word:
     translation: (of) what
     transliteration: mā
   3:
-    arabic: يُنۡفِقُوۡنَ
+    arabic: يُنفِقُونَ
     translation: they spend
     transliteration: yunfiqūna
   4:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   5:
-    arabic: هٰذِهِ
+    arabic: هَٰذِهِ
     translation: this
     transliteration: hādhihi
   6:
-    arabic: الۡحَيٰوةِ
+    arabic: ٱلۡحَيَوٰةِ
     translation: '[the] life'
     transliteration: l-ḥayati
   7:
-    arabic: الدُّنۡيَا
+    arabic: ٱلدُّنۡيَا
     translation: (of) the world
     transliteration: l-dun'yā
   8:
@@ -39,11 +39,11 @@ word_by_word:
     translation: (is) like (the) example
     transliteration: kamathali
   9:
-    arabic: رِيۡحٍ
+    arabic: رِيحٖ
     translation: (of) a wind
     transliteration: rīḥin
   10:
-    arabic: فِيۡهَا
+    arabic: فِيهَا
     translation: in it
     transliteration: fīhā
   11:
@@ -51,7 +51,7 @@ word_by_word:
     translation: (is) frost
     transliteration: ṣirrun
   12:
-    arabic: اَصَابَتۡ
+    arabic: أَصَابَتۡ
     translation: it struck
     transliteration: aṣābat
   13:
@@ -59,19 +59,19 @@ word_by_word:
     translation: (the) harvest
     transliteration: ḥartha
   14:
-    arabic: قَوۡمٍ
+    arabic: قَوۡمٖ
     translation: (of) a people
     transliteration: qawmin
   15:
-    arabic: ظَلَمُوۡۤا
+    arabic: ظَلَمُوٓاْ
     translation: who wronged
     transliteration: ẓalamū
   16:
-    arabic: اَنۡفُسَهُمۡ
+    arabic: أَنفُسَهُمۡ
     translation: themselves
     transliteration: anfusahum
   17:
-    arabic: فَاَهۡلَكَتۡهُ ​ؕ
+    arabic: فَأَهۡلَكَتۡهُۚ
     translation: then destroyed it
     transliteration: fa-ahlakathu
   18:
@@ -83,19 +83,19 @@ word_by_word:
     translation: (has) wronged them
     transliteration: ẓalamahumu
   20:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   21:
-    arabic: وَلٰـكِنۡ
+    arabic: وَلَٰكِنۡ
     translation: '[and] but'
     transliteration: walākin
   22:
-    arabic: اَنۡفُسَهُمۡ
+    arabic: أَنفُسَهُمۡ
     translation: themselves
     transliteration: anfusahum
   23:
-    arabic: يَظۡلِمُوۡنَ‏
+    arabic: يَظۡلِمُونَ
     translation: they wronged
     transliteration: yaẓlimūna
 ---

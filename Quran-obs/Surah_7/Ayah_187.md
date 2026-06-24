@@ -1,9 +1,8 @@
 ---
-arabic_ayat: يَسۡـَٔـــلُوۡنَكَ عَنِ السَّاعَةِ اَيَّانَ مُرۡسٰٮهَا ​ؕ قُلۡ اِنَّمَا
-  عِلۡمُهَا عِنۡدَ رَبِّىۡ​ ۚ لَا يُجَلِّيۡهَا لِوَقۡتِهَاۤ اِلَّا هُوَۘ ​ؕ ثَقُلَتۡ
-  فِى السَّمٰوٰتِ وَالۡاَرۡضِ​ؕ لَا تَاۡتِيۡكُمۡ اِلَّا بَغۡتَةً ​ ؕ يَسۡـــَٔلُوۡنَكَ
-  كَاَنَّكَ حَفِىٌّ عَنۡهَا ؕ قُلۡ اِنَّمَا عِلۡمُهَا عِنۡدَ اللّٰهِ وَلٰـكِنَّ اَكۡثَرَ
-  النَّاسِ لَا يَعۡلَمُوۡنَ‏
+arabic_ayat: يَسۡـَٔلُونَكَ عَنِ ٱلسَّاعَةِ أَيَّانَ مُرۡسَىٰهَاۖ قُلۡ إِنَّمَا عِلۡمُهَا
+  عِندَ رَبِّيۖ لَا يُجَلِّيهَا لِوَقۡتِهَآ إِلَّا هُوَۚ ثَقُلَتۡ فِي ٱلسَّمَٰوَٰتِ
+  وَٱلۡأَرۡضِۚ لَا تَأۡتِيكُمۡ إِلَّا بَغۡتَةٗۗ يَسۡـَٔلُونَكَ كَأَنَّكَ حَفِيٌّ عَنۡهَاۖ
+  قُلۡ إِنَّمَا عِلۡمُهَا عِندَ ٱللَّهِ وَلَٰكِنَّ أَكۡثَرَ ٱلنَّاسِ لَا يَعۡلَمُونَ
 sentence_translation: They ask you ˹O Prophet˺ regarding the Hour, “When will it be?”
   Say, “That knowledge is only with my Lord. He alone will reveal it when the time
   comes. It is too tremendous for the heavens and the earth and will only take you
@@ -11,7 +10,7 @@ sentence_translation: They ask you ˹O Prophet˺ regarding the Hour, “When wil
   is only with Allah, but most people do not know.”
 word_by_word:
   1:
-    arabic: يَسۡـَٔـــلُوۡنَكَ
+    arabic: يَسۡـَٔلُونَكَ
     translation: They ask you
     transliteration: yasalūnaka
   2:
@@ -19,15 +18,15 @@ word_by_word:
     translation: about
     transliteration: ʿani
   3:
-    arabic: السَّاعَةِ
+    arabic: ٱلسَّاعَةِ
     translation: the Hour
     transliteration: l-sāʿati
   4:
-    arabic: اَيَّانَ
+    arabic: أَيَّانَ
     translation: when will be
     transliteration: ayyāna
   5:
-    arabic: مُرۡسٰٮهَا ​ؕ
+    arabic: مُرۡسَىٰهَاۖ
     translation: its appointed time
     transliteration: mur'sāhā
   6:
@@ -35,7 +34,7 @@ word_by_word:
     translation: Say
     transliteration: qul
   7:
-    arabic: اِنَّمَا
+    arabic: إِنَّمَا
     translation: Only
     transliteration: innamā
   8:
@@ -43,11 +42,11 @@ word_by_word:
     translation: its knowledge
     transliteration: ʿil'muhā
   9:
-    arabic: عِنۡدَ
+    arabic: عِندَ
     translation: (is) with
     transliteration: ʿinda
   10:
-    arabic: رَبِّىۡ​ ۚ
+    arabic: رَبِّيۖ
     translation: my Lord
     transliteration: rabbī
   11:
@@ -55,19 +54,19 @@ word_by_word:
     translation: no (one)
     transliteration: lā
   12:
-    arabic: يُجَلِّيۡهَا
+    arabic: يُجَلِّيهَا
     translation: can reveal [it]
     transliteration: yujallīhā
   13:
-    arabic: لِوَقۡتِهَاۤ
+    arabic: لِوَقۡتِهَآ
     translation: its time
     transliteration: liwaqtihā
   14:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   15:
-    arabic: هُوَۘ ​ؕ
+    arabic: هُوَۚ
     translation: Him
     transliteration: huwa
   16:
@@ -75,15 +74,15 @@ word_by_word:
     translation: It lays heavily
     transliteration: thaqulat
   17:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   18:
-    arabic: السَّمٰوٰتِ
+    arabic: ٱلسَّمَٰوَٰتِ
     translation: the heavens
     transliteration: l-samāwāti
   19:
-    arabic: وَالۡاَرۡضِ​ؕ
+    arabic: وَٱلۡأَرۡضِۚ
     translation: and the earth
     transliteration: wal-arḍi
   20:
@@ -91,31 +90,31 @@ word_by_word:
     translation: Not
     transliteration: lā
   21:
-    arabic: تَاۡتِيۡكُمۡ
+    arabic: تَأۡتِيكُمۡ
     translation: will it come to you
     transliteration: tatīkum
   22:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: but
     transliteration: illā
   23:
-    arabic: بَغۡتَةً ​ ؕ
+    arabic: بَغۡتَةٗۗ
     translation: suddenly
     transliteration: baghtatan
   24:
-    arabic: يَسۡـــَٔلُوۡنَكَ
+    arabic: يَسۡـَٔلُونَكَ
     translation: They ask you
     transliteration: yasalūnaka
   25:
-    arabic: كَاَنَّكَ
+    arabic: كَأَنَّكَ
     translation: as if you
     transliteration: ka-annaka
   26:
-    arabic: حَفِىٌّ
+    arabic: حَفِيٌّ
     translation: (were) well informed
     transliteration: ḥafiyyun
   27:
-    arabic: عَنۡهَا ؕ
+    arabic: عَنۡهَاۖ
     translation: about it
     transliteration: ʿanhā
   28:
@@ -123,7 +122,7 @@ word_by_word:
     translation: Say
     transliteration: qul
   29:
-    arabic: اِنَّمَا
+    arabic: إِنَّمَا
     translation: Only
     transliteration: innamā
   30:
@@ -131,23 +130,23 @@ word_by_word:
     translation: its knowledge
     transliteration: ʿil'muhā
   31:
-    arabic: عِنۡدَ
+    arabic: عِندَ
     translation: (is) with
     transliteration: ʿinda
   32:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   33:
-    arabic: وَلٰـكِنَّ
+    arabic: وَلَٰكِنَّ
     translation: but
     transliteration: walākinna
   34:
-    arabic: اَكۡثَرَ
+    arabic: أَكۡثَرَ
     translation: most
     transliteration: akthara
   35:
-    arabic: النَّاسِ
+    arabic: ٱلنَّاسِ
     translation: (of) the people
     transliteration: l-nāsi
   36:
@@ -155,7 +154,7 @@ word_by_word:
     translation: (do) not
     transliteration: lā
   37:
-    arabic: يَعۡلَمُوۡنَ‏
+    arabic: يَعۡلَمُونَ
     translation: know
     transliteration: yaʿlamūna
 ---

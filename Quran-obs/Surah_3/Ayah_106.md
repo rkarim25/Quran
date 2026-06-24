@@ -1,13 +1,13 @@
 ---
-arabic_ayat: يَّوۡمَ تَبۡيَضُّ وُجُوۡهٌ وَّتَسۡوَدُّ وُجُوۡهٌ  ؕ فَاَمَّا الَّذِيۡنَ
-  اسۡوَدَّتۡ وُجُوۡهُهُمۡ اَكَفَرۡتُمۡ بَعۡدَ اِيۡمَانِكُمۡ فَذُوۡقُوا الۡعَذَابَ
-  بِمَا كُنۡتُمۡ تَكۡفُرُوۡنَ‏
+arabic_ayat: يَوۡمَ تَبۡيَضُّ وُجُوهٞ وَتَسۡوَدُّ وُجُوهٞۚ فَأَمَّا ٱلَّذِينَ ٱسۡوَدَّتۡ
+  وُجُوهُهُمۡ أَكَفَرۡتُم بَعۡدَ إِيمَٰنِكُمۡ فَذُوقُواْ ٱلۡعَذَابَ بِمَا كُنتُمۡ
+  تَكۡفُرُونَ
 sentence_translation: On that Day some faces will be bright while others gloomy. To
   the gloomy-faced it will be said, “Did you disbelieve after having believed? So
   taste the punishment for your disbelief.”
 word_by_word:
   1:
-    arabic: يَّوۡمَ
+    arabic: يَوۡمَ
     translation: (On the) Day
     transliteration: yawma
   2:
@@ -15,35 +15,35 @@ word_by_word:
     translation: would become white
     transliteration: tabyaḍḍu
   3:
-    arabic: وُجُوۡهٌ
+    arabic: وُجُوهٞ
     translation: (some) faces
     transliteration: wujūhun
   4:
-    arabic: وَّتَسۡوَدُّ
+    arabic: وَتَسۡوَدُّ
     translation: and would become black
     transliteration: wataswaddu
   5:
-    arabic: وُجُوۡهٌ  ؕ
+    arabic: وُجُوهٞۚ
     translation: (some) faces
     transliteration: wujūhun
   6:
-    arabic: فَاَمَّا
+    arabic: فَأَمَّا
     translation: As for
     transliteration: fa-ammā
   7:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those whose
     transliteration: alladhīna
   8:
-    arabic: اسۡوَدَّتۡ
+    arabic: ٱسۡوَدَّتۡ
     translation: turn black
     transliteration: is'waddat
   9:
-    arabic: وُجُوۡهُهُمۡ
+    arabic: وُجُوهُهُمۡ
     translation: '[their] faces '
     transliteration: wujūhuhum
   10:
-    arabic: اَكَفَرۡتُمۡ
+    arabic: أَكَفَرۡتُم
     translation: Did you disbelieve
     transliteration: akafartum
   11:
@@ -51,15 +51,15 @@ word_by_word:
     translation: after
     transliteration: baʿda
   12:
-    arabic: اِيۡمَانِكُمۡ
+    arabic: إِيمَٰنِكُمۡ
     translation: your belief
     transliteration: īmānikum
   13:
-    arabic: فَذُوۡقُوا
+    arabic: فَذُوقُواْ
     translation: Then taste
     transliteration: fadhūqū
   14:
-    arabic: الۡعَذَابَ
+    arabic: ٱلۡعَذَابَ
     translation: the punishment
     transliteration: l-ʿadhāba
   15:
@@ -67,11 +67,11 @@ word_by_word:
     translation: for what
     transliteration: bimā
   16:
-    arabic: كُنۡتُمۡ
+    arabic: كُنتُمۡ
     translation: you used to
     transliteration: kuntum
   17:
-    arabic: تَكۡفُرُوۡنَ‏
+    arabic: تَكۡفُرُونَ
     translation: disbelieve
     transliteration: takfurūna
 ---

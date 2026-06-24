@@ -1,21 +1,21 @@
 ---
-arabic_ayat: وَفِى الۡاَرۡضِ اٰيٰتٌ لِّلۡمُوۡقِنِيۡنَۙ‏
+arabic_ayat: وَفِي ٱلۡأَرۡضِ ءَايَٰتٞ لِّلۡمُوقِنِينَ
 sentence_translation: There are ˹countless˺ signs on earth for those with sure faith,
 word_by_word:
   1:
-    arabic: وَفِى
+    arabic: وَفِي
     translation: And in
     transliteration: wafī
   2:
-    arabic: الۡاَرۡضِ
+    arabic: ٱلۡأَرۡضِ ءَ
     translation: the earth
     transliteration: l-arḍi
   3:
-    arabic: اٰيٰتٌ
+    arabic: ايَٰتٞ
     translation: (are) signs
     transliteration: āyātun
   4:
-    arabic: لِّلۡمُوۡقِنِيۡنَۙ‏
+    arabic: لِّلۡمُوقِنِينَ
     translation: for those who are certain
     transliteration: lil'mūqinīna
 ---

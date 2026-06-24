@@ -1,11 +1,11 @@
 ---
-arabic_ayat: "وَاِنِّىۡ مُرۡسِلَةٌ اِلَيۡهِمۡ بِهَدِيَّةٍ فَنٰظِرَةٌۢ بِمَ يَرۡجِعُ\
-  \ الۡمُرۡسَلُوۡنَ‏ \uFEFF\uFEFF"
+arabic_ayat: وَإِنِّي مُرۡسِلَةٌ إِلَيۡهِم بِهَدِيَّةٖ فَنَاظِرَةُۢ بِمَ يَرۡجِعُ
+  ٱلۡمُرۡسَلُونَ
 sentence_translation: But I will certainly send him a gift, and see what ˹response˺
   my envoys will return with.” 
 word_by_word:
   1:
-    arabic: وَاِنِّىۡ
+    arabic: وَإِنِّي
     translation: But indeed, I am
     transliteration: wa-innī
   2:
@@ -13,15 +13,15 @@ word_by_word:
     translation: going to send
     transliteration: mur'silatun
   3:
-    arabic: اِلَيۡهِمۡ
+    arabic: إِلَيۡهِم
     translation: to them
     transliteration: ilayhim
   4:
-    arabic: بِهَدِيَّةٍ
+    arabic: بِهَدِيَّةٖ
     translation: a gift
     transliteration: bihadiyyatin
   5:
-    arabic: فَنٰظِرَةٌۢ
+    arabic: فَنَاظِرَةُۢ
     translation: and see
     transliteration: fanāẓiratun
   6:
@@ -33,7 +33,7 @@ word_by_word:
     translation: return
     transliteration: yarjiʿu
   8:
-    arabic: "الۡمُرۡسَلُوۡنَ‏ \uFEFF\uFEFF"
+    arabic: ٱلۡمُرۡسَلُونَ
     translation: the messengers
     transliteration: l-mur'salūna
 ---

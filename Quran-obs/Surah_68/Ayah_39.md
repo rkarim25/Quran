@@ -1,19 +1,19 @@
 ---
-arabic_ayat: اَمۡ لَـكُمۡ اَيۡمَانٌ عَلَيۡنَا بَالِغَةٌ اِلٰى يَوۡمِ الۡقِيٰمَةِ​
-  ۙ اِنَّ لَـكُمۡ لَمَا تَحۡكُمُوۡنَ​ۚ‏
+arabic_ayat: أَمۡ لَكُمۡ أَيۡمَٰنٌ عَلَيۡنَا بَٰلِغَةٌ إِلَىٰ يَوۡمِ ٱلۡقِيَٰمَةِ
+  إِنَّ لَكُمۡ لَمَا تَحۡكُمُونَ
 sentence_translation: Or do you have oaths binding on Us until the Day of Judgment
   that you will have whatever you decide?
 word_by_word:
   1:
-    arabic: اَمۡ
+    arabic: أَمۡ
     translation: Or
     transliteration: am
   2:
-    arabic: لَـكُمۡ
+    arabic: لَكُمۡ
     translation: for you
     transliteration: lakum
   3:
-    arabic: اَيۡمَانٌ
+    arabic: أَيۡمَٰنٌ
     translation: oaths
     transliteration: aymānun
   4:
@@ -21,11 +21,11 @@ word_by_word:
     translation: from us
     transliteration: ʿalaynā
   5:
-    arabic: بَالِغَةٌ
+    arabic: بَٰلِغَةٌ
     translation: reaching
     transliteration: bālighatun
   6:
-    arabic: اِلٰى
+    arabic: إِلَىٰ
     translation: to
     transliteration: ilā
   7:
@@ -33,15 +33,15 @@ word_by_word:
     translation: (the) Day
     transliteration: yawmi
   8:
-    arabic: الۡقِيٰمَةِ​ ۙ
+    arabic: ٱلۡقِيَٰمَةِ
     translation: (of) the Resurrection
     transliteration: l-qiyāmati
   9:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: indeed
     transliteration: inna
   10:
-    arabic: لَـكُمۡ
+    arabic: لَكُمۡ
     translation: for you
     transliteration: lakum
   11:
@@ -49,7 +49,7 @@ word_by_word:
     translation: (is) what
     transliteration: lamā
   12:
-    arabic: تَحۡكُمُوۡنَ​ۚ‏
+    arabic: تَحۡكُمُونَ
     translation: you judge
     transliteration: taḥkumūna
 ---

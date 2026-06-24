@@ -1,17 +1,17 @@
 ---
-arabic_ayat: اِنَّ الۡمُتَّقِيۡنَ فِىۡ مَقَامٍ اَمِيۡنٍۙ‏
+arabic_ayat: إِنَّ ٱلۡمُتَّقِينَ فِي مَقَامٍ أَمِينٖ
 sentence_translation: Indeed, the righteous will be in a secure place,
 word_by_word:
   1:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   2:
-    arabic: الۡمُتَّقِيۡنَ
+    arabic: ٱلۡمُتَّقِينَ
     translation: the righteous
     transliteration: l-mutaqīna
   3:
-    arabic: فِىۡ
+    arabic: فِي
     translation: (will be) in
     transliteration: fī
   4:
@@ -19,7 +19,7 @@ word_by_word:
     translation: a place
     transliteration: maqāmin
   5:
-    arabic: اَمِيۡنٍۙ‏
+    arabic: أَمِينٖ
     translation: secure
     transliteration: amīnin
 ---

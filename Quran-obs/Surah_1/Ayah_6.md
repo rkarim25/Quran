@@ -1,17 +1,17 @@
 ---
-arabic_ayat: اِهۡدِنَا الصِّرَاطَ الۡمُسۡتَقِيۡمَۙ‏
+arabic_ayat: ٱهۡدِنَا ٱلصِّرَٰطَ ٱلۡمُسۡتَقِيمَ
 sentence_translation: Guide us along the Straight Path,
 word_by_word:
   1:
-    arabic: اِهۡدِنَا
+    arabic: ٱهۡدِنَا
     translation: Guide us
     transliteration: ih'dinā
   2:
-    arabic: الصِّرَاطَ
+    arabic: ٱلصِّرَٰطَ
     translation: (to) the path
     transliteration: l-ṣirāṭa
   3:
-    arabic: الۡمُسۡتَقِيۡمَۙ‏
+    arabic: ٱلۡمُسۡتَقِيمَ
     translation: the straight
     transliteration: l-mus'taqīma
 ---

@@ -1,5 +1,5 @@
 ---
-arabic_ayat: وَهُوَ بِالۡاُفُقِ الۡاَعۡلٰى ؕ‏
+arabic_ayat: وَهُوَ بِٱلۡأُفُقِ ٱلۡأَعۡلَىٰ
 sentence_translation: while on the highest point above the horizon,
 word_by_word:
   1:
@@ -7,11 +7,11 @@ word_by_word:
     translation: While he
     transliteration: wahuwa
   2:
-    arabic: بِالۡاُفُقِ
+    arabic: بِٱلۡأُفُقِ
     translation: '(was) in the horizon '
     transliteration: bil-ufuqi
   3:
-    arabic: الۡاَعۡلٰى ؕ‏
+    arabic: ٱلۡأَعۡلَىٰ
     translation: the highest
     transliteration: l-aʿlā
 ---

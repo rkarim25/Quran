@@ -1,5 +1,5 @@
 ---
-arabic_ayat: وَجَعَلۡنَا ذُرِّيَّتَهٗ هُمُ الۡبٰقِيۡنَ  ۖ‏
+arabic_ayat: وَجَعَلۡنَا ذُرِّيَّتَهُۥ هُمُ ٱلۡبَاقِينَ
 sentence_translation: and made his descendants the sole survivors.
 word_by_word:
   1:
@@ -7,7 +7,7 @@ word_by_word:
     translation: And We made
     transliteration: wajaʿalnā
   2:
-    arabic: ذُرِّيَّتَهٗ
+    arabic: ذُرِّيَّتَهُۥ
     translation: his offspring
     transliteration: dhurriyyatahu
   3:
@@ -15,7 +15,7 @@ word_by_word:
     translation: '[they]'
     transliteration: humu
   4:
-    arabic: الۡبٰقِيۡنَ  ۖ‏
+    arabic: ٱلۡبَاقِينَ
     translation: the survivors
     transliteration: l-bāqīna
 ---

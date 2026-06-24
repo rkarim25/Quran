@@ -1,13 +1,13 @@
 ---
-arabic_ayat: اِنَّ هٰذَا لَرِزۡقُنَا مَا لَهٗ مِنۡ نَّـفَادٍ ​ۖ ​ۚ‏
+arabic_ayat: إِنَّ هَٰذَا لَرِزۡقُنَا مَا لَهُۥ مِن نَّفَادٍ
 sentence_translation: This is indeed Our provision that will never end.
 word_by_word:
   1:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   2:
-    arabic: هٰذَا
+    arabic: هَٰذَا
     translation: this
     transliteration: hādhā
   3:
@@ -19,15 +19,15 @@ word_by_word:
     translation: not
     transliteration: mā
   5:
-    arabic: لَهٗ
+    arabic: لَهُۥ
     translation: for it
     transliteration: lahu
   6:
-    arabic: مِنۡ
+    arabic: مِن
     translation: any
     transliteration: min
   7:
-    arabic: نَّـفَادٍ ​ۖ ​ۚ‏
+    arabic: نَّفَادٍ
     translation: depletion
     transliteration: nafādin
 ---

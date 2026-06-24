@@ -1,31 +1,31 @@
 ---
-arabic_ayat: يٰۤـاَيُّهَا الَّذِيۡنَ اٰمَنُوا اتَّقُوا اللّٰهَ وَذَرُوۡا مَا بَقِىَ
-  مِنَ الرِّبٰٓوا اِنۡ كُنۡتُمۡ مُّؤۡمِنِيۡنَ‏
+arabic_ayat: يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُواْ ٱتَّقُواْ ٱللَّهَ وَذَرُواْ مَا بَقِيَ
+  مِنَ ٱلرِّبَوٰٓاْ إِن كُنتُم مُّؤۡمِنِينَ
 sentence_translation: O believers! Fear Allah, and give up outstanding interest if
   you are ˹true˺ believers.
 word_by_word:
   1:
-    arabic: يٰۤـاَيُّهَا
+    arabic: يَٰٓأَيُّهَا
     translation: O you
     transliteration: yāayyuhā
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ ءَ
     translation: who
     transliteration: alladhīna
   3:
-    arabic: اٰمَنُوا
+    arabic: امَنُواْ
     translation: believe[d]
     transliteration: āmanū
   4:
-    arabic: اتَّقُوا
+    arabic: ٱتَّقُواْ
     translation: Fear
     transliteration: ittaqū
   5:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   6:
-    arabic: وَذَرُوۡا
+    arabic: وَذَرُواْ
     translation: and give up
     transliteration: wadharū
   7:
@@ -33,7 +33,7 @@ word_by_word:
     translation: what
     transliteration: mā
   8:
-    arabic: بَقِىَ
+    arabic: بَقِيَ
     translation: remained
     transliteration: baqiya
   9:
@@ -41,19 +41,19 @@ word_by_word:
     translation: of
     transliteration: mina
   10:
-    arabic: الرِّبٰٓوا
+    arabic: ٱلرِّبَوٰٓاْ
     translation: '[the] usury'
     transliteration: l-riba
   11:
-    arabic: اِنۡ
+    arabic: إِن
     translation: if
     transliteration: in
   12:
-    arabic: كُنۡتُمۡ
+    arabic: كُنتُم
     translation: you are
     transliteration: kuntum
   13:
-    arabic: مُّؤۡمِنِيۡنَ‏
+    arabic: مُّؤۡمِنِينَ
     translation: believers
     transliteration: mu'minīna
 ---

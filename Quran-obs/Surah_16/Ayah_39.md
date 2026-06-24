@@ -1,6 +1,6 @@
 ---
-arabic_ayat: لِيُبَيِّنَ لَهُمُ الَّذِىۡ يَخۡتَلِفُوۡنَ فِيۡهِ وَلِيَـعۡلَمَ الَّذِيۡنَ
-  كَفَرُوۡۤا اَنَّهُمۡ كَانُوۡا كٰذِبِيۡنَ‏
+arabic_ayat: لِيُبَيِّنَ لَهُمُ ٱلَّذِي يَخۡتَلِفُونَ فِيهِ وَلِيَعۡلَمَ ٱلَّذِينَ
+  كَفَرُوٓاْ أَنَّهُمۡ كَانُواْ كَٰذِبِينَ
 sentence_translation: ˹He will do that˺ to make clear to them what they disagreed
   on, and for the disbelievers to know that they were liars.
 word_by_word:
@@ -13,39 +13,39 @@ word_by_word:
     translation: to them
     transliteration: lahumu
   3:
-    arabic: الَّذِىۡ
+    arabic: ٱلَّذِي
     translation: that
     transliteration: alladhī
   4:
-    arabic: يَخۡتَلِفُوۡنَ
+    arabic: يَخۡتَلِفُونَ
     translation: they differ
     transliteration: yakhtalifūna
   5:
-    arabic: فِيۡهِ
+    arabic: فِيهِ
     translation: wherein
     transliteration: fīhi
   6:
-    arabic: وَلِيَـعۡلَمَ
+    arabic: وَلِيَعۡلَمَ
     translation: and that may know
     transliteration: waliyaʿlama
   7:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   8:
-    arabic: كَفَرُوۡۤا
+    arabic: كَفَرُوٓاْ
     translation: disbelieved
     transliteration: kafarū
   9:
-    arabic: اَنَّهُمۡ
+    arabic: أَنَّهُمۡ
     translation: that they
     transliteration: annahum
   10:
-    arabic: كَانُوۡا
+    arabic: كَانُواْ
     translation: were
     transliteration: kānū
   11:
-    arabic: كٰذِبِيۡنَ‏
+    arabic: كَٰذِبِينَ
     translation: liars
     transliteration: kādhibīna
 ---

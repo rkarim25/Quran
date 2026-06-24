@@ -1,5 +1,5 @@
 ---
-arabic_ayat: فَمَا ظَنُّكُمۡ بِرَبِّ الۡعٰلَمِيۡنَ‏
+arabic_ayat: فَمَا ظَنُّكُم بِرَبِّ ٱلۡعَٰلَمِينَ
 sentence_translation: What then do you expect from the Lord of all worlds?”
 word_by_word:
   1:
@@ -7,7 +7,7 @@ word_by_word:
     translation: Then what
     transliteration: famā
   2:
-    arabic: ظَنُّكُمۡ
+    arabic: ظَنُّكُم
     translation: (do) you think
     transliteration: ẓannukum
   3:
@@ -15,7 +15,7 @@ word_by_word:
     translation: about (the) Lord
     transliteration: birabbi
   4:
-    arabic: الۡعٰلَمِيۡنَ‏
+    arabic: ٱلۡعَٰلَمِينَ
     translation: (of) the worlds
     transliteration: l-ʿālamīna
 ---

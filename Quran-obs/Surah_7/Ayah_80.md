@@ -1,15 +1,15 @@
 ---
-arabic_ayat: وَلُوۡطًا اِذۡ قَالَ لِقَوۡمِهٖۤ اَتَاۡتُوۡنَ الۡفَاحِشَةَ مَا سَبَقَكُمۡ
-  بِهَا مِنۡ اَحَدٍ مِّنَ الۡعٰلَمِيۡنَ‏
+arabic_ayat: وَلُوطًا إِذۡ قَالَ لِقَوۡمِهِۦٓ أَتَأۡتُونَ ٱلۡفَٰحِشَةَ مَا سَبَقَكُم
+  بِهَا مِنۡ أَحَدٖ مِّنَ ٱلۡعَٰلَمِينَ
 sentence_translation: And ˹remember˺ when Lot scolded ˹the men of˺ his people, ˹saying,˺
   “Do you commit a shameful deed that no man has ever done before?
 word_by_word:
   1:
-    arabic: وَلُوۡطًا
+    arabic: وَلُوطًا
     translation: And Lut
     transliteration: walūṭan
   2:
-    arabic: اِذۡ
+    arabic: إِذۡ
     translation: when
     transliteration: idh
   3:
@@ -17,15 +17,15 @@ word_by_word:
     translation: he said
     transliteration: qāla
   4:
-    arabic: لِقَوۡمِهٖۤ
+    arabic: لِقَوۡمِهِۦٓ
     translation: to his people
     transliteration: liqawmihi
   5:
-    arabic: اَتَاۡتُوۡنَ
+    arabic: أَتَأۡتُونَ
     translation: Do you commit
     transliteration: atatūna
   6:
-    arabic: الۡفَاحِشَةَ
+    arabic: ٱلۡفَٰحِشَةَ
     translation: (such) immorality
     transliteration: l-fāḥishata
   7:
@@ -33,7 +33,7 @@ word_by_word:
     translation: not
     transliteration: mā
   8:
-    arabic: سَبَقَكُمۡ
+    arabic: سَبَقَكُم
     translation: has preceded you
     transliteration: sabaqakum
   9:
@@ -45,7 +45,7 @@ word_by_word:
     translation: any
     transliteration: min
   11:
-    arabic: اَحَدٍ
+    arabic: أَحَدٖ
     translation: one
     transliteration: aḥadin
   12:
@@ -53,7 +53,7 @@ word_by_word:
     translation: of
     transliteration: mina
   13:
-    arabic: الۡعٰلَمِيۡنَ‏
+    arabic: ٱلۡعَٰلَمِينَ
     translation: the worlds
     transliteration: l-ʿālamīna
 ---

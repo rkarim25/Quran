@@ -1,17 +1,17 @@
 ---
-arabic_ayat: وَّكَذَّبُوۡا بِاٰيٰتِنَا كِذَّابًا ؕ‏
+arabic_ayat: وَكَذَّبُواْ بِـَٔايَٰتِنَا كِذَّابٗا
 sentence_translation: and totally rejected Our signs.
 word_by_word:
   1:
-    arabic: وَّكَذَّبُوۡا
+    arabic: وَكَذَّبُواْ
     translation: And they denied
     transliteration: wakadhabū
   2:
-    arabic: بِاٰيٰتِنَا
+    arabic: بِـَٔايَٰتِنَا
     translation: Our Signs
     transliteration: biāyātinā
   3:
-    arabic: كِذَّابًا ؕ‏
+    arabic: كِذَّابٗا
     translation: (with) denial
     transliteration: kidhāban
 ---

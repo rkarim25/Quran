@@ -1,20 +1,20 @@
 ---
-arabic_ayat: اِنَّ اللّٰهَ لَهٗ مُلۡكُ السَّمٰوٰتِ وَالۡاَرۡضِ​ؕ يُحۡىٖ وَيُمِيۡتُ​ؕ
-  وَمَا لَـكُمۡ مِّنۡ دُوۡنِ اللّٰهِ مِنۡ وَّلِىٍّ وَّلَا نَصِيۡرٍ‏
+arabic_ayat: إِنَّ ٱللَّهَ لَهُۥ مُلۡكُ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِۖ يُحۡيِۦ وَيُمِيتُۚ
+  وَمَا لَكُم مِّن دُونِ ٱللَّهِ مِن وَلِيّٖ وَلَا نَصِيرٖ
 sentence_translation: Indeed, to Allah ˹alone˺ belongs the kingdom of the heavens
   and the earth. He gives life and causes death. And besides Allah you have no guardian
   or helper.
 word_by_word:
   1:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   2:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   3:
-    arabic: لَهٗ
+    arabic: لَهُۥ
     translation: to Him (belongs)
     transliteration: lahu
   4:
@@ -22,19 +22,19 @@ word_by_word:
     translation: the dominion
     transliteration: mul'ku
   5:
-    arabic: السَّمٰوٰتِ
+    arabic: ٱلسَّمَٰوَٰتِ
     translation: (of) the heavens
     transliteration: l-samāwāti
   6:
-    arabic: وَالۡاَرۡضِ​ؕ
+    arabic: وَٱلۡأَرۡضِۖ
     translation: and the earth
     transliteration: wal-arḍi
   7:
-    arabic: يُحۡىٖ
+    arabic: يُحۡيِۦ
     translation: He gives life
     transliteration: yuḥ'yī
   8:
-    arabic: وَيُمِيۡتُ​ؕ
+    arabic: وَيُمِيتُۚ
     translation: and He causes death
     transliteration: wayumītu
   9:
@@ -42,35 +42,35 @@ word_by_word:
     translation: And not
     transliteration: wamā
   10:
-    arabic: لَـكُمۡ
+    arabic: لَكُم
     translation: for you
     transliteration: lakum
   11:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: besides Allah
     transliteration: min
   12:
-    arabic: دُوۡنِ
+    arabic: دُونِ
     translation: besides Allah
     transliteration: dūni
   13:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: besides Allah
     transliteration: l-lahi
   14:
-    arabic: مِنۡ
+    arabic: مِن
     translation: any
     transliteration: min
   15:
-    arabic: وَّلِىٍّ
+    arabic: وَلِيّٖ
     translation: protector
     transliteration: waliyyin
   16:
-    arabic: وَّلَا
+    arabic: وَلَا
     translation: and not
     transliteration: walā
   17:
-    arabic: نَصِيۡرٍ‏
+    arabic: نَصِيرٖ
     translation: any helper
     transliteration: naṣīrin
 ---

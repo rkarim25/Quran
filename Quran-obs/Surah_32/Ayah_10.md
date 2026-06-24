@@ -1,16 +1,16 @@
 ---
-arabic_ayat: وَقَالُوۡٓا ءَاِذَا ضَلَلۡنَا فِى الۡاَرۡضِ ءَاِنَّا لَفِىۡ خَلۡقٍ جَدِيۡدٍ ؕ
-  ​بَلۡ هُمۡ بِلِقَآءِ رَبِّهِمۡ كٰفِرُوۡنَ‏
+arabic_ayat: وَقَالُوٓاْ أَءِذَا ضَلَلۡنَا فِي ٱلۡأَرۡضِ أَءِنَّا لَفِي خَلۡقٖ جَدِيدِۭۚ
+  بَلۡ هُم بِلِقَآءِ رَبِّهِمۡ كَٰفِرُونَ
 sentence_translation: ˹Still˺ they ask ˹mockingly˺, “When we are disintegrated into
   the earth, will we really be raised as a new creation?” In fact, they are in denial
   of the meeting with their Lord.
 word_by_word:
   1:
-    arabic: وَقَالُوۡٓا
+    arabic: وَقَالُوٓاْ أَ
     translation: And they say
     transliteration: waqālū
   2:
-    arabic: ءَاِذَا
+    arabic: ءِذَا
     translation: Is (it) when
     transliteration: a-idhā
   3:
@@ -18,27 +18,27 @@ word_by_word:
     translation: we are lost
     transliteration: ḍalalnā
   4:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   5:
-    arabic: الۡاَرۡضِ
+    arabic: ٱلۡأَرۡضِ أَ
     translation: the earth
     transliteration: l-arḍi
   6:
-    arabic: ءَاِنَّا
+    arabic: ءِنَّا
     translation: will we
     transliteration: a-innā
   7:
-    arabic: لَفِىۡ
+    arabic: لَفِي
     translation: certainly be in
     transliteration: lafī
   8:
-    arabic: خَلۡقٍ
+    arabic: خَلۡقٖ
     translation: a creation
     transliteration: khalqin
   9:
-    arabic: جَدِيۡدٍ ؕ ​
+    arabic: جَدِيدِۭۚ
     translation: new
     transliteration: jadīdin
   10:
@@ -46,7 +46,7 @@ word_by_word:
     translation: Nay
     transliteration: bal
   11:
-    arabic: هُمۡ
+    arabic: هُم
     translation: they
     transliteration: hum
   12:
@@ -58,7 +58,7 @@ word_by_word:
     translation: (of) their Lord
     transliteration: rabbihim
   14:
-    arabic: كٰفِرُوۡنَ‏
+    arabic: كَٰفِرُونَ
     translation: (are) disbelievers
     transliteration: kāfirūna
 ---

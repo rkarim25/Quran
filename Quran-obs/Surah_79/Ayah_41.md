@@ -1,21 +1,21 @@
 ---
-arabic_ayat: فَاِنَّ الۡجَـنَّةَ هِىَ الۡمَاۡوٰىؕ‏
+arabic_ayat: فَإِنَّ ٱلۡجَنَّةَ هِيَ ٱلۡمَأۡوَىٰ
 sentence_translation: Paradise will certainly be ˹their˺ home.
 word_by_word:
   1:
-    arabic: فَاِنَّ
+    arabic: فَإِنَّ
     translation: Then indeed
     transliteration: fa-inna
   2:
-    arabic: الۡجَـنَّةَ
+    arabic: ٱلۡجَنَّةَ
     translation: 'Paradise '
     transliteration: l-janata
   3:
-    arabic: هِىَ
+    arabic: هِيَ
     translation: it (is)
     transliteration: hiya
   4:
-    arabic: الۡمَاۡوٰىؕ‏
+    arabic: ٱلۡمَأۡوَىٰ
     translation: the refuge
     transliteration: l-mawā
 ---

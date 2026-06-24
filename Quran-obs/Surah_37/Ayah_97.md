@@ -1,34 +1,34 @@
 ---
-arabic_ayat: قَالُوا ابۡنُوۡا لَهٗ بُنۡيَانًا فَاَلۡقُوۡهُ فِى الۡجَحِيۡمِ‏
+arabic_ayat: قَالُواْ ٱبۡنُواْ لَهُۥ بُنۡيَٰنٗا فَأَلۡقُوهُ فِي ٱلۡجَحِيمِ
 sentence_translation: They said ˹to one another˺, “Build him a furnace and cast him
   into the blazing fire.”
 word_by_word:
   1:
-    arabic: قَالُوا
+    arabic: قَالُواْ
     translation: They said
     transliteration: qālū
   2:
-    arabic: ابۡنُوۡا
+    arabic: ٱبۡنُواْ
     translation: Build
     transliteration: ib'nū
   3:
-    arabic: لَهٗ
+    arabic: لَهُۥ
     translation: for him
     transliteration: lahu
   4:
-    arabic: بُنۡيَانًا
+    arabic: بُنۡيَٰنٗا
     translation: a structure
     transliteration: bun'yānan
   5:
-    arabic: فَاَلۡقُوۡهُ
+    arabic: فَأَلۡقُوهُ
     translation: and throw him
     transliteration: fa-alqūhu
   6:
-    arabic: فِى
+    arabic: فِي
     translation: into
     transliteration: fī
   7:
-    arabic: الۡجَحِيۡمِ‏
+    arabic: ٱلۡجَحِيمِ
     translation: the blazing Fire
     transliteration: l-jaḥīmi
 ---

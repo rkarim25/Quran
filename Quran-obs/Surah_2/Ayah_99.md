@@ -1,6 +1,6 @@
 ---
-arabic_ayat: وَلَقَدۡ اَنۡزَلۡنَآ اِلَيۡكَ اٰيٰتٍۢ بَيِّنٰتٍ​​ۚ وَمَا يَكۡفُرُ بِهَآ
-  اِلَّا الۡفٰسِقُوۡنَ‏
+arabic_ayat: وَلَقَدۡ أَنزَلۡنَآ إِلَيۡكَ ءَايَٰتِۭ بَيِّنَٰتٖۖ وَمَا يَكۡفُرُ بِهَآ
+  إِلَّا ٱلۡفَٰسِقُونَ
 sentence_translation: Indeed, We have sent down to you ˹O Prophet˺ clear revelations.
   ˹But˺ none will deny them except the rebellious.
 word_by_word:
@@ -9,19 +9,19 @@ word_by_word:
     translation: And indeed
     transliteration: walaqad
   2:
-    arabic: اَنۡزَلۡنَآ
+    arabic: أَنزَلۡنَآ
     translation: We revealed
     transliteration: anzalnā
   3:
-    arabic: اِلَيۡكَ
+    arabic: إِلَيۡكَ ءَ
     translation: to you
     transliteration: ilayka
   4:
-    arabic: اٰيٰتٍۢ
+    arabic: ايَٰتِۭ
     translation: Verses
     transliteration: āyātin
   5:
-    arabic: بَيِّنٰتٍ​​ۚ
+    arabic: بَيِّنَٰتٖۖ
     translation: clear
     transliteration: bayyinātin
   6:
@@ -37,11 +37,11 @@ word_by_word:
     translation: in them
     transliteration: bihā
   9:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   10:
-    arabic: الۡفٰسِقُوۡنَ‏
+    arabic: ٱلۡفَٰسِقُونَ
     translation: the defiantly disobedient
     transliteration: l-fāsiqūna
 ---

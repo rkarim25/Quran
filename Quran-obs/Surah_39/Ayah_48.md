@@ -1,6 +1,6 @@
 ---
-arabic_ayat: "وَبَدَا لَهُمۡ سَيِّاٰتُ مَا كَسَبُوۡا وَحَاقَ بِهِمۡ مَّا كَانُوۡا\
-  \ بِهٖ يَسۡتَهۡزِءُوۡنَ‏ \uFEFF\uFEFF"
+arabic_ayat: وَبَدَا لَهُمۡ سَيِّـَٔاتُ مَا كَسَبُواْ وَحَاقَ بِهِم مَّا كَانُواْ
+  بِهِۦ يَسۡتَهۡزِءُونَ
 sentence_translation: And the evil ˹consequences˺ of their deeds will unfold before
   them, and they will be overwhelmed by what they used to ridicule.
 word_by_word:
@@ -13,7 +13,7 @@ word_by_word:
     translation: to them
     transliteration: lahum
   3:
-    arabic: سَيِّاٰتُ
+    arabic: سَيِّـَٔاتُ
     translation: (the) evils
     transliteration: sayyiātu
   4:
@@ -21,7 +21,7 @@ word_by_word:
     translation: (of) what
     transliteration: mā
   5:
-    arabic: كَسَبُوۡا
+    arabic: كَسَبُواْ
     translation: they earned
     transliteration: kasabū
   6:
@@ -29,7 +29,7 @@ word_by_word:
     translation: and will surround
     transliteration: waḥāqa
   7:
-    arabic: بِهِمۡ
+    arabic: بِهِم
     translation: them
     transliteration: bihim
   8:
@@ -37,15 +37,15 @@ word_by_word:
     translation: what
     transliteration: mā
   9:
-    arabic: كَانُوۡا
+    arabic: كَانُواْ
     translation: they used to
     transliteration: kānū
   10:
-    arabic: بِهٖ
+    arabic: بِهِۦ
     translation: '[in it]'
     transliteration: bihi
   11:
-    arabic: "يَسۡتَهۡزِءُوۡنَ‏ \uFEFF\uFEFF"
+    arabic: يَسۡتَهۡزِءُونَ
     translation: mock
     transliteration: yastahziūna
 ---

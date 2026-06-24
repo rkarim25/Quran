@@ -1,6 +1,6 @@
 ---
-arabic_ayat: وَمَا تَفَرَّقَ الَّذِيۡنَ اُوۡتُوا الۡكِتٰبَ اِلَّا مِنۡۢ بَعۡدِ مَا
-  جَآءَتۡهُمُ الۡبَيِّنَةُ ؕ‏
+arabic_ayat: وَمَا تَفَرَّقَ ٱلَّذِينَ أُوتُواْ ٱلۡكِتَٰبَ إِلَّا مِنۢ بَعۡدِ مَا
+  جَآءَتۡهُمُ ٱلۡبَيِّنَةُ
 sentence_translation: It was not until this clear proof came to the People of the
   Book that they became divided ˹about his prophethood˺—
 word_by_word:
@@ -13,23 +13,23 @@ word_by_word:
     translation: became divided
     transliteration: tafarraqa
   3:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   4:
-    arabic: اُوۡتُوا
+    arabic: أُوتُواْ
     translation: were given
     transliteration: ūtū
   5:
-    arabic: الۡكِتٰبَ
+    arabic: ٱلۡكِتَٰبَ
     translation: the Book
     transliteration: l-kitāba
   6:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: until
     transliteration: illā
   7:
-    arabic: مِنۡۢ
+    arabic: مِنۢ
     translation: from
     transliteration: min
   8:
@@ -45,7 +45,7 @@ word_by_word:
     translation: came (to) them
     transliteration: jāathumu
   11:
-    arabic: الۡبَيِّنَةُ ؕ‏
+    arabic: ٱلۡبَيِّنَةُ
     translation: (of) the clear evidence
     transliteration: l-bayinatu
 ---

@@ -1,18 +1,17 @@
 ---
-arabic_ayat: لَٮِٕنۡ اُخۡرِجُوۡا لَا يَخۡرُجُوۡنَ مَعَهُمۡ​ۚ وَلَٮِٕنۡ قُوۡتِلُوۡا
-  لَا يَنۡصُرُوۡنَهُمۡ​ۚ وَلَٮِٕنۡ نَّصَرُوۡهُمۡ لَيُوَلُّنَّ الۡاَدۡبَارَ ثُمَّ
-  لَا يُنۡصَرُوۡنَ‏
+arabic_ayat: لَئِنۡ أُخۡرِجُواْ لَا يَخۡرُجُونَ مَعَهُمۡ وَلَئِن قُوتِلُواْ لَا يَنصُرُونَهُمۡ
+  وَلَئِن نَّصَرُوهُمۡ لَيُوَلُّنَّ ٱلۡأَدۡبَٰرَ ثُمَّ لَا يُنصَرُونَ
 sentence_translation: Indeed, if they are expelled, the hypocrites will never leave
   with them. And if they are fought against, the hypocrites will never help them.
   And even if the hypocrites did so, they would certainly flee, then the disbelievers
   would be left with no help.
 word_by_word:
   1:
-    arabic: لَٮِٕنۡ
+    arabic: لَئِنۡ
     translation: If
     transliteration: la-in
   2:
-    arabic: اُخۡرِجُوۡا
+    arabic: أُخۡرِجُواْ
     translation: they are expelled
     transliteration: ukh'rijū
   3:
@@ -20,19 +19,19 @@ word_by_word:
     translation: not
     transliteration: lā
   4:
-    arabic: يَخۡرُجُوۡنَ
+    arabic: يَخۡرُجُونَ
     translation: they will leave
     transliteration: yakhrujūna
   5:
-    arabic: مَعَهُمۡ​ۚ
+    arabic: مَعَهُمۡ
     translation: with them
     transliteration: maʿahum
   6:
-    arabic: وَلَٮِٕنۡ
+    arabic: وَلَئِن
     translation: and if
     transliteration: wala-in
   7:
-    arabic: قُوۡتِلُوۡا
+    arabic: قُوتِلُواْ
     translation: they are fought
     transliteration: qūtilū
   8:
@@ -40,15 +39,15 @@ word_by_word:
     translation: not
     transliteration: lā
   9:
-    arabic: يَنۡصُرُوۡنَهُمۡ​ۚ
+    arabic: يَنصُرُونَهُمۡ
     translation: they will help them
     transliteration: yanṣurūnahum
   10:
-    arabic: وَلَٮِٕنۡ
+    arabic: وَلَئِن
     translation: And if
     transliteration: wala-in
   11:
-    arabic: نَّصَرُوۡهُمۡ
+    arabic: نَّصَرُوهُمۡ
     translation: they help them
     transliteration: naṣarūhum
   12:
@@ -56,7 +55,7 @@ word_by_word:
     translation: certainly they will turn
     transliteration: layuwallunna
   13:
-    arabic: الۡاَدۡبَارَ
+    arabic: ٱلۡأَدۡبَٰرَ
     translation: (their) backs
     transliteration: l-adbāra
   14:
@@ -68,7 +67,7 @@ word_by_word:
     translation: not
     transliteration: lā
   16:
-    arabic: يُنۡصَرُوۡنَ‏
+    arabic: يُنصَرُونَ
     translation: they will be helped
     transliteration: yunṣarūna
 ---

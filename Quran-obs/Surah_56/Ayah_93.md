@@ -1,9 +1,9 @@
 ---
-arabic_ayat: فَنُزُلٌ مِّنۡ حَمِيۡمٍۙ‏
+arabic_ayat: فَنُزُلٞ مِّنۡ حَمِيمٖ
 sentence_translation: then their accommodation will be boiling water ˹to drink˺
 word_by_word:
   1:
-    arabic: فَنُزُلٌ
+    arabic: فَنُزُلٞ
     translation: Then, hospitality
     transliteration: fanuzulun
   2:
@@ -11,7 +11,7 @@ word_by_word:
     translation: of
     transliteration: min
   3:
-    arabic: حَمِيۡمٍۙ‏
+    arabic: حَمِيمٖ
     translation: (the) scalding water
     transliteration: ḥamīmin
 ---

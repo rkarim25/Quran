@@ -1,6 +1,6 @@
 ---
-arabic_ayat: وَلَقَدۡ اَرۡسَلۡنَاۤ اِلٰى ثَمُوۡدَ اَخَاهُمۡ صٰلِحًا اَنِ اعۡبُدُوۡا
-  اللّٰهَ فَاِذَا هُمۡ فَرِيۡقٰنِ يَخۡتَصِمُوۡنَ‏
+arabic_ayat: وَلَقَدۡ أَرۡسَلۡنَآ إِلَىٰ ثَمُودَ أَخَاهُمۡ صَٰلِحًا أَنِ ٱعۡبُدُواْ
+  ٱللَّهَ فَإِذَا هُمۡ فَرِيقَانِ يَخۡتَصِمُونَ
 sentence_translation: And We certainly sent to the people of Thamûd their brother
   Ṣâliḥ, proclaiming, “Worship Allah,” but they suddenly split into two opposing groups.
 word_by_word:
@@ -9,39 +9,39 @@ word_by_word:
     translation: And certainly
     transliteration: walaqad
   2:
-    arabic: اَرۡسَلۡنَاۤ
+    arabic: أَرۡسَلۡنَآ
     translation: We sent
     transliteration: arsalnā
   3:
-    arabic: اِلٰى
+    arabic: إِلَىٰ
     translation: to
     transliteration: ilā
   4:
-    arabic: ثَمُوۡدَ
+    arabic: ثَمُودَ
     translation: Thamud
     transliteration: thamūda
   5:
-    arabic: اَخَاهُمۡ
+    arabic: أَخَاهُمۡ
     translation: their brother
     transliteration: akhāhum
   6:
-    arabic: صٰلِحًا
+    arabic: صَٰلِحًا
     translation: Salih
     transliteration: ṣāliḥan
   7:
-    arabic: اَنِ
+    arabic: أَنِ
     translation: that
     transliteration: ani
   8:
-    arabic: اعۡبُدُوۡا
+    arabic: ٱعۡبُدُواْ
     translation: Worship
     transliteration: uʿ'budū
   9:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   10:
-    arabic: فَاِذَا
+    arabic: فَإِذَا
     translation: Then behold
     transliteration: fa-idhā
   11:
@@ -49,11 +49,11 @@ word_by_word:
     translation: They
     transliteration: hum
   12:
-    arabic: فَرِيۡقٰنِ
+    arabic: فَرِيقَانِ
     translation: (became) two parties
     transliteration: farīqāni
   13:
-    arabic: يَخۡتَصِمُوۡنَ‏
+    arabic: يَخۡتَصِمُونَ
     translation: quarreling
     transliteration: yakhtaṣimūna
 ---

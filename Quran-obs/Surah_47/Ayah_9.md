@@ -1,39 +1,38 @@
 ---
-arabic_ayat: "ذٰلِكَ بِاَنَّهُمۡ كَرِهُوۡا مَاۤ اَنۡزَلَ اللّٰهُ فَاَحۡبَطَ اَعۡمَالَهُمۡ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: ذَٰلِكَ بِأَنَّهُمۡ كَرِهُواْ مَآ أَنزَلَ ٱللَّهُ فَأَحۡبَطَ أَعۡمَٰلَهُمۡ
 sentence_translation: That is because they detest what Allah has revealed, so He has
   rendered their deeds void.
 word_by_word:
   1:
-    arabic: ذٰلِكَ
+    arabic: ذَٰلِكَ
     translation: That
     transliteration: dhālika
   2:
-    arabic: بِاَنَّهُمۡ
+    arabic: بِأَنَّهُمۡ
     translation: (is) because they
     transliteration: bi-annahum
   3:
-    arabic: كَرِهُوۡا
+    arabic: كَرِهُواْ
     translation: hate
     transliteration: karihū
   4:
-    arabic: مَاۤ
+    arabic: مَآ
     translation: what
     transliteration: mā
   5:
-    arabic: اَنۡزَلَ
+    arabic: أَنزَلَ
     translation: Allah has revealed
     transliteration: anzala
   6:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah has revealed
     transliteration: l-lahu
   7:
-    arabic: فَاَحۡبَطَ
+    arabic: فَأَحۡبَطَ
     translation: so He has made worthless
     transliteration: fa-aḥbaṭa
   8:
-    arabic: "اَعۡمَالَهُمۡ‏ \uFEFF\uFEFF"
+    arabic: أَعۡمَٰلَهُمۡ
     translation: their deeds
     transliteration: aʿmālahum
 ---

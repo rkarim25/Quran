@@ -1,7 +1,7 @@
 ---
-arabic_ayat: فَلَمَّا بَلَغَ مَعَهُ السَّعۡىَ قَالَ يٰبُنَىَّ اِنِّىۡۤ اَرٰى فِى الۡمَنَامِ
-  اَنِّىۡۤ اَذۡبَحُكَ فَانْظُرۡ مَاذَا تَرٰى​ؕ قَالَ يٰۤاَبَتِ افۡعَلۡ مَا تُؤۡمَرُ​
-  سَتَجِدُنِىۡۤ اِنۡ شَآءَ اللّٰهُ مِنَ الصّٰبِرِيۡنَ‏
+arabic_ayat: فَلَمَّا بَلَغَ مَعَهُ ٱلسَّعۡيَ قَالَ يَٰبُنَيَّ إِنِّيٓ أَرَىٰ فِي
+  ٱلۡمَنَامِ أَنِّيٓ أَذۡبَحُكَ فَٱنظُرۡ مَاذَا تَرَىٰۚ قَالَ يَٰٓأَبَتِ ٱفۡعَلۡ مَا
+  تُؤۡمَرُۖ سَتَجِدُنِيٓ إِن شَآءَ ٱللَّهُ مِنَ ٱلصَّٰبِرِينَ
 sentence_translation: Then when the boy reached the age to work with him, Abraham
   said, “O my dear son! I have seen in a dream that I ˹must˺ sacrifice you. So tell
   me what you think.” He replied, “O my dear father! Do as you are commanded. Allah
@@ -20,7 +20,7 @@ word_by_word:
     translation: the (age of) working with him
     transliteration: maʿahu
   4:
-    arabic: السَّعۡىَ
+    arabic: ٱلسَّعۡيَ
     translation: the (age of) working with him
     transliteration: l-saʿya
   5:
@@ -28,35 +28,35 @@ word_by_word:
     translation: he said
     transliteration: qāla
   6:
-    arabic: يٰبُنَىَّ
+    arabic: يَٰبُنَيَّ
     translation: O my son
     transliteration: yābunayya
   7:
-    arabic: اِنِّىۡۤ
+    arabic: إِنِّيٓ
     translation: Indeed, I
     transliteration: innī
   8:
-    arabic: اَرٰى
+    arabic: أَرَىٰ
     translation: have seen
     transliteration: arā
   9:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   10:
-    arabic: الۡمَنَامِ
+    arabic: ٱلۡمَنَامِ
     translation: the dream
     transliteration: l-manāmi
   11:
-    arabic: اَنِّىۡۤ
+    arabic: أَنِّيٓ
     translation: that I am
     transliteration: annī
   12:
-    arabic: اَذۡبَحُكَ
+    arabic: أَذۡبَحُكَ
     translation: sacrificing you
     transliteration: adhbaḥuka
   13:
-    arabic: فَانْظُرۡ
+    arabic: فَٱنظُرۡ
     translation: so look
     transliteration: fa-unẓur
   14:
@@ -64,7 +64,7 @@ word_by_word:
     translation: what
     transliteration: mādhā
   15:
-    arabic: تَرٰى​ؕ
+    arabic: تَرَىٰۚ
     translation: you see
     transliteration: tarā
   16:
@@ -72,11 +72,11 @@ word_by_word:
     translation: He said
     transliteration: qāla
   17:
-    arabic: يٰۤاَبَتِ
+    arabic: يَٰٓأَبَتِ
     translation: O my father
     transliteration: yāabati
   18:
-    arabic: افۡعَلۡ
+    arabic: ٱفۡعَلۡ
     translation: Do
     transliteration: if'ʿal
   19:
@@ -84,15 +84,15 @@ word_by_word:
     translation: what
     transliteration: mā
   20:
-    arabic: تُؤۡمَرُ​
+    arabic: تُؤۡمَرُۖ
     translation: you are commanded
     transliteration: tu'maru
   21:
-    arabic: سَتَجِدُنِىۡۤ
+    arabic: سَتَجِدُنِيٓ
     translation: You will find me
     transliteration: satajidunī
   22:
-    arabic: اِنۡ
+    arabic: إِن
     translation: if
     transliteration: in
   23:
@@ -100,7 +100,7 @@ word_by_word:
     translation: Allah wills
     transliteration: shāa
   24:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah wills
     transliteration: l-lahu
   25:
@@ -108,7 +108,7 @@ word_by_word:
     translation: of
     transliteration: mina
   26:
-    arabic: الصّٰبِرِيۡنَ‏
+    arabic: ٱلصَّٰبِرِينَ
     translation: the patient ones
     transliteration: l-ṣābirīna
 ---

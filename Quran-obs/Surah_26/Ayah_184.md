@@ -1,13 +1,13 @@
 ---
-arabic_ayat: وَاتَّقُوا الَّذِىۡ خَلَقَكُمۡ وَالۡجِـبِلَّةَ الۡاَوَّلِيۡنَؕ‏
+arabic_ayat: وَٱتَّقُواْ ٱلَّذِي خَلَقَكُمۡ وَٱلۡجِبِلَّةَ ٱلۡأَوَّلِينَ
 sentence_translation: And fear the One Who created you and ˹all˺ earlier peoples.”
 word_by_word:
   1:
-    arabic: وَاتَّقُوا
+    arabic: وَٱتَّقُواْ
     translation: And fear
     transliteration: wa-ittaqū
   2:
-    arabic: الَّذِىۡ
+    arabic: ٱلَّذِي
     translation: the One Who
     transliteration: alladhī
   3:
@@ -15,11 +15,11 @@ word_by_word:
     translation: created you
     transliteration: khalaqakum
   4:
-    arabic: وَالۡجِـبِلَّةَ
+    arabic: وَٱلۡجِبِلَّةَ
     translation: and the generations
     transliteration: wal-jibilata
   5:
-    arabic: الۡاَوَّلِيۡنَؕ‏
+    arabic: ٱلۡأَوَّلِينَ
     translation: the former
     transliteration: l-awalīna
 ---

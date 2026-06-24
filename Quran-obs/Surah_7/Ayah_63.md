@@ -1,16 +1,16 @@
 ---
-arabic_ayat: اَوَعَجِبۡتُمۡ اَنۡ جَآءَكُمۡ ذِكۡرٌ مِّنۡ رَّبِّكُمۡ عَلٰى رَجُلٍ مِّنۡكُمۡ
-  لِيُنۡذِرَكُمۡ وَلِتَـتَّقُوۡا وَلَعَلَّكُمۡ تُرۡحَمُوۡنَ‏
+arabic_ayat: أَوَعَجِبۡتُمۡ أَن جَآءَكُمۡ ذِكۡرٞ مِّن رَّبِّكُمۡ عَلَىٰ رَجُلٖ مِّنكُمۡ
+  لِيُنذِرَكُمۡ وَلِتَتَّقُواْ وَلَعَلَّكُمۡ تُرۡحَمُونَ
 sentence_translation: Do you find it astonishing that a reminder should come to you
   from your Lord through one of your own, warning you, so you may beware and perhaps
   be shown mercy?”
 word_by_word:
   1:
-    arabic: اَوَعَجِبۡتُمۡ
+    arabic: أَوَعَجِبۡتُمۡ
     translation: Do you wonder
     transliteration: awaʿajib'tum
   2:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that
     transliteration: an
   3:
@@ -18,11 +18,11 @@ word_by_word:
     translation: has come to you
     transliteration: jāakum
   4:
-    arabic: ذِكۡرٌ
+    arabic: ذِكۡرٞ
     translation: a reminder
     transliteration: dhik'run
   5:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: from
     transliteration: min
   6:
@@ -30,23 +30,23 @@ word_by_word:
     translation: your Lord
     transliteration: rabbikum
   7:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: 'on'
     transliteration: ʿalā
   8:
-    arabic: رَجُلٍ
+    arabic: رَجُلٖ
     translation: a man
     transliteration: rajulin
   9:
-    arabic: مِّنۡكُمۡ
+    arabic: مِّنكُمۡ
     translation: among you
     transliteration: minkum
   10:
-    arabic: لِيُنۡذِرَكُمۡ
+    arabic: لِيُنذِرَكُمۡ
     translation: that he may warn you
     transliteration: liyundhirakum
   11:
-    arabic: وَلِتَـتَّقُوۡا
+    arabic: وَلِتَتَّقُواْ
     translation: and that you may fear
     transliteration: walitattaqū
   12:
@@ -54,7 +54,7 @@ word_by_word:
     translation: and so that you may
     transliteration: walaʿallakum
   13:
-    arabic: تُرۡحَمُوۡنَ‏
+    arabic: تُرۡحَمُونَ
     translation: receive mercy
     transliteration: tur'ḥamūna
 ---

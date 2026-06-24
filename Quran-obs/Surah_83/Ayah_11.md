@@ -1,13 +1,13 @@
 ---
-arabic_ayat: الَّذِيۡنَ يُكَذِّبُوۡنَ بِيَوۡمِ الدِّيۡنِؕ‏
+arabic_ayat: ٱلَّذِينَ يُكَذِّبُونَ بِيَوۡمِ ٱلدِّينِ
 sentence_translation: those who deny Judgment Day!
 word_by_word:
   1:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: Those who
     transliteration: alladhīna
   2:
-    arabic: يُكَذِّبُوۡنَ
+    arabic: يُكَذِّبُونَ
     translation: deny
     transliteration: yukadhibūna
   3:
@@ -15,7 +15,7 @@ word_by_word:
     translation: (the) Day
     transliteration: biyawmi
   4:
-    arabic: الدِّيۡنِؕ‏
+    arabic: ٱلدِّينِ
     translation: (of) the Judgment
     transliteration: l-dīni
 ---

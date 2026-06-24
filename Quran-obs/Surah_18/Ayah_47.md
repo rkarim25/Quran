@@ -1,6 +1,6 @@
 ---
-arabic_ayat: وَيَوۡمَ نُسَيِّرُ الۡجِبَالَ و تَرَى الۡاَرۡضَ بَارِزَةً  ۙ وَّحَشَرۡنٰهُمۡ
-  فَلَمۡ نُغَادِرۡ مِنۡهُمۡ اَحَدًا​ ۚ‏
+arabic_ayat: وَيَوۡمَ نُسَيِّرُ ٱلۡجِبَالَ وَتَرَى ٱلۡأَرۡضَ بَارِزَةٗ وَحَشَرۡنَٰهُمۡ
+  فَلَمۡ نُغَادِرۡ مِنۡهُمۡ أَحَدٗا
 sentence_translation: ˹Beware of˺ the Day We will blow the mountains away, and you
   will see the earth laid bare. And We will gather all ˹humankind˺, leaving none behind.
 word_by_word:
@@ -13,23 +13,23 @@ word_by_word:
     translation: We will cause (to) move
     transliteration: nusayyiru
   3:
-    arabic: الۡجِبَالَ
+    arabic: ٱلۡجِبَالَ
     translation: the mountains
     transliteration: l-jibāla
   4:
-    arabic: و تَرَى
+    arabic: وَتَرَى
     translation: and you will see
     transliteration: watarā
   5:
-    arabic: الۡاَرۡضَ
+    arabic: ٱلۡأَرۡضَ
     translation: the earth
     transliteration: l-arḍa
   6:
-    arabic: بَارِزَةً  ۙ
+    arabic: بَارِزَةٗ
     translation: (as) a leveled plain
     transliteration: bārizatan
   7:
-    arabic: وَّحَشَرۡنٰهُمۡ
+    arabic: وَحَشَرۡنَٰهُمۡ
     translation: and We will gather them
     transliteration: waḥasharnāhum
   8:
@@ -45,7 +45,7 @@ word_by_word:
     translation: from them
     transliteration: min'hum
   11:
-    arabic: اَحَدًا​ ۚ‏
+    arabic: أَحَدٗا
     translation: anyone
     transliteration: aḥadan
 ---

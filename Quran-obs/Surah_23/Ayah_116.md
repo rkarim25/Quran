@@ -1,39 +1,39 @@
 ---
-arabic_ayat: فَتَعٰلَى اللّٰهُ الۡمَلِكُ الۡحَـقُّ​ ۚ لَاۤ اِلٰهَ اِلَّا هُوَ​ۚ رَبُّ
-  الۡعَرۡشِ الۡـكَرِيۡمِ‏
+arabic_ayat: فَتَعَٰلَى ٱللَّهُ ٱلۡمَلِكُ ٱلۡحَقُّۖ لَآ إِلَٰهَ إِلَّا هُوَ رَبُّ
+  ٱلۡعَرۡشِ ٱلۡكَرِيمِ
 sentence_translation: Exalted is Allah, the True King! There is no god ˹worthy of
   worship˺ except Him, the Lord of the Honourable Throne.
 word_by_word:
   1:
-    arabic: فَتَعٰلَى
+    arabic: فَتَعَٰلَى
     translation: So exalted is
     transliteration: fataʿālā
   2:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   3:
-    arabic: الۡمَلِكُ
+    arabic: ٱلۡمَلِكُ
     translation: the King
     transliteration: l-maliku
   4:
-    arabic: الۡحَـقُّ​ ۚ
+    arabic: ٱلۡحَقُّۖ
     translation: the Truth
     transliteration: l-ḥaqu
   5:
-    arabic: لَاۤ
+    arabic: لَآ
     translation: (There is) no
     transliteration: lā
   6:
-    arabic: اِلٰهَ
+    arabic: إِلَٰهَ
     translation: god
     transliteration: ilāha
   7:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   8:
-    arabic: هُوَ​ۚ
+    arabic: هُوَ
     translation: Him
     transliteration: huwa
   9:
@@ -41,11 +41,11 @@ word_by_word:
     translation: (the) Lord
     transliteration: rabbu
   10:
-    arabic: الۡعَرۡشِ
+    arabic: ٱلۡعَرۡشِ
     translation: (of) the Throne
     transliteration: l-ʿarshi
   11:
-    arabic: الۡـكَرِيۡمِ‏
+    arabic: ٱلۡكَرِيمِ
     translation: Honorable
     transliteration: l-karīmi
 ---

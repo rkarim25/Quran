@@ -1,44 +1,44 @@
 ---
-arabic_ayat: وَلَـقَدۡ اُوۡحِىَ اِلَيۡكَ وَاِلَى الَّذِيۡنَ مِنۡ قَبۡلِكَ​ۚ لَٮِٕنۡ
-  اَشۡرَكۡتَ لَيَحۡبَطَنَّ عَمَلُكَ وَلَتَكُوۡنَنَّ مِنَ الۡخٰسِرِيۡنَ‏
+arabic_ayat: وَلَقَدۡ أُوحِيَ إِلَيۡكَ وَإِلَى ٱلَّذِينَ مِن قَبۡلِكَ لَئِنۡ أَشۡرَكۡتَ
+  لَيَحۡبَطَنَّ عَمَلُكَ وَلَتَكُونَنَّ مِنَ ٱلۡخَٰسِرِينَ
 sentence_translation: It has already been revealed to you—and to those ˹prophets˺
   before you—that if you associate others ˹with Allah˺, your deeds will certainly
   be void and you will truly be one of the losers.
 word_by_word:
   1:
-    arabic: وَلَـقَدۡ
+    arabic: وَلَقَدۡ
     translation: And verily
     transliteration: walaqad
   2:
-    arabic: اُوۡحِىَ
+    arabic: أُوحِيَ
     translation: it has been revealed
     transliteration: ūḥiya
   3:
-    arabic: اِلَيۡكَ
+    arabic: إِلَيۡكَ
     translation: to you
     transliteration: ilayka
   4:
-    arabic: وَاِلَى
+    arabic: وَإِلَى
     translation: and to
     transliteration: wa-ilā
   5:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   6:
-    arabic: مِنۡ
+    arabic: مِن
     translation: (were) before you
     transliteration: min
   7:
-    arabic: قَبۡلِكَ​ۚ
+    arabic: قَبۡلِكَ
     translation: (were) before you
     transliteration: qablika
   8:
-    arabic: لَٮِٕنۡ
+    arabic: لَئِنۡ
     translation: if
     transliteration: la-in
   9:
-    arabic: اَشۡرَكۡتَ
+    arabic: أَشۡرَكۡتَ
     translation: you associate (with Allah)
     transliteration: ashrakta
   10:
@@ -50,7 +50,7 @@ word_by_word:
     translation: your deeds
     transliteration: ʿamaluka
   12:
-    arabic: وَلَتَكُوۡنَنَّ
+    arabic: وَلَتَكُونَنَّ
     translation: and you will surely be
     transliteration: walatakūnanna
   13:
@@ -58,7 +58,7 @@ word_by_word:
     translation: among
     transliteration: mina
   14:
-    arabic: الۡخٰسِرِيۡنَ‏
+    arabic: ٱلۡخَٰسِرِينَ
     translation: the losers
     transliteration: l-khāsirīna
 ---

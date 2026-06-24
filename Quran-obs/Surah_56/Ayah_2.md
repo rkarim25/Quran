@@ -1,5 +1,5 @@
 ---
-arabic_ayat: لَيۡسَ لِـوَقۡعَتِهَا كَاذِبَةٌ​ ۘ‏
+arabic_ayat: لَيۡسَ لِوَقۡعَتِهَا كَاذِبَةٌ
 sentence_translation: then no one can deny it has come.
 word_by_word:
   1:
@@ -7,11 +7,11 @@ word_by_word:
     translation: Not
     transliteration: laysa
   2:
-    arabic: لِـوَقۡعَتِهَا
+    arabic: لِوَقۡعَتِهَا
     translation: at its occurrence
     transliteration: liwaqʿatihā
   3:
-    arabic: كَاذِبَةٌ​ ۘ‏
+    arabic: كَاذِبَةٌ
     translation: a denial
     transliteration: kādhibatun
 ---

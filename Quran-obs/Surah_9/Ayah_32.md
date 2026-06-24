@@ -1,55 +1,55 @@
 ---
-arabic_ayat: يُرِيۡدُوۡنَ اَنۡ يُّطۡفِــُٔــوۡا نُوۡرَ اللّٰهِ بِاَ فۡوَاهِهِمۡ وَيَاۡبَى
-  اللّٰهُ اِلَّاۤ اَنۡ يُّتِمَّ نُوۡرَهٗ وَلَوۡ كَرِهَ الۡـكٰفِرُوۡنَ‏
+arabic_ayat: يُرِيدُونَ أَن يُطۡفِـُٔواْ نُورَ ٱللَّهِ بِأَفۡوَٰهِهِمۡ وَيَأۡبَى ٱللَّهُ
+  إِلَّآ أَن يُتِمَّ نُورَهُۥ وَلَوۡ كَرِهَ ٱلۡكَٰفِرُونَ
 sentence_translation: They wish to extinguish Allah’s light with their mouths, but
   Allah will only allow His light to be perfected, even to the dismay of the disbelievers.
 word_by_word:
   1:
-    arabic: يُرِيۡدُوۡنَ
+    arabic: يُرِيدُونَ
     translation: They want
     transliteration: yurīdūna
   2:
-    arabic: اَنۡ
+    arabic: أَن
     translation: to
     transliteration: an
   3:
-    arabic: يُّطۡفِــُٔــوۡا
+    arabic: يُطۡفِـُٔواْ
     translation: extinguish
     transliteration: yuṭ'fiū
   4:
-    arabic: نُوۡرَ
+    arabic: نُورَ
     translation: Allah's light
     transliteration: nūra
   5:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah's light
     transliteration: l-lahi
   6:
-    arabic: بِاَ فۡوَاهِهِمۡ
+    arabic: بِأَفۡوَٰهِهِمۡ
     translation: with their mouths
     transliteration: bi-afwāhihim
   7:
-    arabic: وَيَاۡبَى
+    arabic: وَيَأۡبَى
     translation: but Allah refuses
     transliteration: wayabā
   8:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: but Allah refuses
     transliteration: l-lahu
   9:
-    arabic: اِلَّاۤ
+    arabic: إِلَّآ
     translation: except
     transliteration: illā
   10:
-    arabic: اَنۡ
+    arabic: أَن
     translation: to
     transliteration: an
   11:
-    arabic: يُّتِمَّ
+    arabic: يُتِمَّ
     translation: perfect
     transliteration: yutimma
   12:
-    arabic: نُوۡرَهٗ
+    arabic: نُورَهُۥ
     translation: His Light
     transliteration: nūrahu
   13:
@@ -61,7 +61,7 @@ word_by_word:
     translation: the disbelievers dislike (it)
     transliteration: kariha
   15:
-    arabic: الۡـكٰفِرُوۡنَ‏
+    arabic: ٱلۡكَٰفِرُونَ
     translation: the disbelievers dislike (it)
     transliteration: l-kāfirūna
 ---

@@ -1,6 +1,5 @@
 ---
-arabic_ayat: "قَالَ لَا تَخۡتَصِمُوۡا لَدَىَّ وَقَدۡ قَدَّمۡتُ اِلَيۡكُمۡ بِالۡوَعِيۡدِ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: قَالَ لَا تَخۡتَصِمُواْ لَدَيَّ وَقَدۡ قَدَّمۡتُ إِلَيۡكُم بِٱلۡوَعِيدِ
 sentence_translation: Allah will respond, “Do not dispute in My presence, since I
   had already given you a warning.
 word_by_word:
@@ -13,11 +12,11 @@ word_by_word:
     translation: (Do) not
     transliteration: lā
   3:
-    arabic: تَخۡتَصِمُوۡا
+    arabic: تَخۡتَصِمُواْ
     translation: dispute
     transliteration: takhtaṣimū
   4:
-    arabic: لَدَىَّ
+    arabic: لَدَيَّ
     translation: (in) My presence
     transliteration: ladayya
   5:
@@ -29,11 +28,11 @@ word_by_word:
     translation: I sent forth
     transliteration: qaddamtu
   7:
-    arabic: اِلَيۡكُمۡ
+    arabic: إِلَيۡكُم
     translation: to you
     transliteration: ilaykum
   8:
-    arabic: "بِالۡوَعِيۡدِ‏ \uFEFF\uFEFF"
+    arabic: بِٱلۡوَعِيدِ
     translation: the Warning
     transliteration: bil-waʿīdi
 ---

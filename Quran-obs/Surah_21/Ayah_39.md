@@ -1,6 +1,6 @@
 ---
-arabic_ayat: لَوۡ يَعۡلَمُ الَّذِيۡنَ كَفَرُوۡا حِيۡنَ لَا يَكُفُّوۡنَ عَنۡ وُّجُوۡهِهِمُ
-  النَّارَ وَلَا عَنۡ ظُهُوۡرِهِمۡ وَلَا هُمۡ يُنۡصَرُوۡنَ‏
+arabic_ayat: لَوۡ يَعۡلَمُ ٱلَّذِينَ كَفَرُواْ حِينَ لَا يَكُفُّونَ عَن وُجُوهِهِمُ
+  ٱلنَّارَ وَلَا عَن ظُهُورِهِمۡ وَلَا هُمۡ يُنصَرُونَ
 sentence_translation: If only the disbelievers knew that a time will come when they
   will not be able to keep the Fire off their faces or backs, nor will they be helped.
 word_by_word:
@@ -13,15 +13,15 @@ word_by_word:
     translation: knew
     transliteration: yaʿlamu
   3:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   4:
-    arabic: كَفَرُوۡا
+    arabic: كَفَرُواْ
     translation: disbelieved
     transliteration: kafarū
   5:
-    arabic: حِيۡنَ
+    arabic: حِينَ
     translation: (the) time
     transliteration: ḥīna
   6:
@@ -29,19 +29,19 @@ word_by_word:
     translation: (when) not
     transliteration: lā
   7:
-    arabic: يَكُفُّوۡنَ
+    arabic: يَكُفُّونَ
     translation: they will avert
     transliteration: yakuffūna
   8:
-    arabic: عَنۡ
+    arabic: عَن
     translation: from
     transliteration: ʿan
   9:
-    arabic: وُّجُوۡهِهِمُ
+    arabic: وُجُوهِهِمُ
     translation: their faces
     transliteration: wujūhihimu
   10:
-    arabic: النَّارَ
+    arabic: ٱلنَّارَ
     translation: the Fire
     transliteration: l-nāra
   11:
@@ -49,11 +49,11 @@ word_by_word:
     translation: and not
     transliteration: walā
   12:
-    arabic: عَنۡ
+    arabic: عَن
     translation: from
     transliteration: ʿan
   13:
-    arabic: ظُهُوۡرِهِمۡ
+    arabic: ظُهُورِهِمۡ
     translation: their backs
     transliteration: ẓuhūrihim
   14:
@@ -65,7 +65,7 @@ word_by_word:
     translation: they
     transliteration: hum
   16:
-    arabic: يُنۡصَرُوۡنَ‏
+    arabic: يُنصَرُونَ
     translation: will be helped
     transliteration: yunṣarūna
 ---

@@ -1,37 +1,37 @@
 ---
-arabic_ayat: وَنَادٰٓى اَصۡحٰبُ النَّارِ اَصۡحٰبَ الۡجَـنَّةِ اَنۡ اَفِيۡضُوۡا عَلَيۡنَا
-  مِنَ الۡمَآءِ اَوۡ مِمَّا رَزَقَكُمُ اللّٰهُ ​ؕ قَالُـوۡۤا اِنَّ اللّٰهَ حَرَّمَهُمَا
-  عَلَى الۡـكٰفِرِيۡنَ ۙ‏
+arabic_ayat: وَنَادَىٰٓ أَصۡحَٰبُ ٱلنَّارِ أَصۡحَٰبَ ٱلۡجَنَّةِ أَنۡ أَفِيضُواْ عَلَيۡنَا
+  مِنَ ٱلۡمَآءِ أَوۡ مِمَّا رَزَقَكُمُ ٱللَّهُۚ قَالُوٓاْ إِنَّ ٱللَّهَ حَرَّمَهُمَا
+  عَلَى ٱلۡكَٰفِرِينَ
 sentence_translation: The residents of the Fire will then cry out to the residents
   of Paradise, “Aid us with some water or any provision Allah has granted you.” They
   will reply, “Allah has forbidden both to the disbelievers,
 word_by_word:
   1:
-    arabic: وَنَادٰٓى
+    arabic: وَنَادَىٰٓ
     translation: And (will) call out
     transliteration: wanādā
   2:
-    arabic: اَصۡحٰبُ
+    arabic: أَصۡحَٰبُ
     translation: (the) companions
     transliteration: aṣḥābu
   3:
-    arabic: النَّارِ
+    arabic: ٱلنَّارِ
     translation: (of) the Fire
     transliteration: l-nāri
   4:
-    arabic: اَصۡحٰبَ
+    arabic: أَصۡحَٰبَ
     translation: (to the) companions
     transliteration: aṣḥāba
   5:
-    arabic: الۡجَـنَّةِ
+    arabic: ٱلۡجَنَّةِ
     translation: (of) Paradise
     transliteration: l-janati
   6:
-    arabic: اَنۡ
+    arabic: أَنۡ
     translation: '[that]'
     transliteration: an
   7:
-    arabic: اَفِيۡضُوۡا
+    arabic: أَفِيضُواْ
     translation: Pour
     transliteration: afīḍū
   8:
@@ -43,11 +43,11 @@ word_by_word:
     translation: '[of]'
     transliteration: mina
   10:
-    arabic: الۡمَآءِ
+    arabic: ٱلۡمَآءِ
     translation: (some) water
     transliteration: l-māi
   11:
-    arabic: اَوۡ
+    arabic: أَوۡ
     translation: or
     transliteration: aw
   12:
@@ -59,19 +59,19 @@ word_by_word:
     translation: (has been) provided (to) you
     transliteration: razaqakumu
   14:
-    arabic: اللّٰهُ ​ؕ
+    arabic: ٱللَّهُۚ
     translation: (by) Allah
     transliteration: l-lahu
   15:
-    arabic: قَالُـوۡۤا
+    arabic: قَالُوٓاْ
     translation: They (will) say
     transliteration: qālū
   16:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   17:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   18:
@@ -83,7 +83,7 @@ word_by_word:
     translation: to
     transliteration: ʿalā
   20:
-    arabic: الۡـكٰفِرِيۡنَ ۙ‏
+    arabic: ٱلۡكَٰفِرِينَ
     translation: the disbelievers
     transliteration: l-kāfirīna
 ---

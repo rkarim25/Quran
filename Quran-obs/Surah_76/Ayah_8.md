@@ -1,35 +1,34 @@
 ---
-arabic_ayat: "وَيُطۡعِمُوۡنَ الطَّعَامَ عَلٰى حُبِّهٖ مِسۡكِيۡنًا وَّيَتِيۡمًا وَّاَسِيۡرًا‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: وَيُطۡعِمُونَ ٱلطَّعَامَ عَلَىٰ حُبِّهِۦ مِسۡكِينٗا وَيَتِيمٗا وَأَسِيرًا
 sentence_translation: and give food—despite their desire for it—to the poor, the orphan,
   and the captive,
 word_by_word:
   1:
-    arabic: وَيُطۡعِمُوۡنَ
+    arabic: وَيُطۡعِمُونَ
     translation: And they feed
     transliteration: wayuṭ'ʿimūna
   2:
-    arabic: الطَّعَامَ
+    arabic: ٱلطَّعَامَ
     translation: the food
     transliteration: l-ṭaʿāma
   3:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: in spite of
     transliteration: ʿalā
   4:
-    arabic: حُبِّهٖ
+    arabic: حُبِّهِۦ
     translation: love (for) it
     transliteration: ḥubbihi
   5:
-    arabic: مِسۡكِيۡنًا
+    arabic: مِسۡكِينٗا
     translation: (to the) needy
     transliteration: mis'kīnan
   6:
-    arabic: وَّيَتِيۡمًا
+    arabic: وَيَتِيمٗا
     translation: and (the) orphan
     transliteration: wayatīman
   7:
-    arabic: "وَّاَسِيۡرًا‏ \uFEFF\uFEFF"
+    arabic: وَأَسِيرًا
     translation: and (the) captive
     transliteration: wa-asīran
 ---

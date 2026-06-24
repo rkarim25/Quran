@@ -1,13 +1,13 @@
 ---
-arabic_ayat: وَاذۡكُرِ اسۡمَ رَبِّكَ بُكۡرَةً وَّاَصِيۡلًا ۚ  ۖ‏
+arabic_ayat: وَٱذۡكُرِ ٱسۡمَ رَبِّكَ بُكۡرَةٗ وَأَصِيلٗا
 sentence_translation: ˹Always˺ remember the Name of your Lord morning and evening,
 word_by_word:
   1:
-    arabic: وَاذۡكُرِ
+    arabic: وَٱذۡكُرِ
     translation: And remember
     transliteration: wa-udh'kuri
   2:
-    arabic: اسۡمَ
+    arabic: ٱسۡمَ
     translation: (the) name
     transliteration: is'ma
   3:
@@ -15,11 +15,11 @@ word_by_word:
     translation: (of) your Lord
     transliteration: rabbika
   4:
-    arabic: بُكۡرَةً
+    arabic: بُكۡرَةٗ
     translation: morning
     transliteration: buk'ratan
   5:
-    arabic: وَّاَصِيۡلًا ۚ  ۖ‏
+    arabic: وَأَصِيلٗا
     translation: and evening
     transliteration: wa-aṣīlan
 ---

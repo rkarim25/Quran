@@ -1,17 +1,17 @@
 ---
-arabic_ayat: ذُوۡ مِرَّةٍؕ فَاسۡتَوٰىۙ‏
+arabic_ayat: ذُو مِرَّةٖ فَٱسۡتَوَىٰ
 sentence_translation: and great perfection, who once rose to ˹his˺ true form
 word_by_word:
   1:
-    arabic: ذُوۡ
+    arabic: ذُو
     translation: Possessor of soundness
     transliteration: dhū
   2:
-    arabic: مِرَّةٍؕ
+    arabic: مِرَّةٖ
     translation: Possessor of soundness
     transliteration: mirratin
   3:
-    arabic: فَاسۡتَوٰىۙ‏
+    arabic: فَٱسۡتَوَىٰ
     translation: And he rose
     transliteration: fa-is'tawā
 ---

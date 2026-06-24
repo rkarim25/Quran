@@ -1,5 +1,5 @@
 ---
-arabic_ayat: لِيَوۡمٍ عَظِيۡمٍۙ‏
+arabic_ayat: لِيَوۡمٍ عَظِيمٖ
 sentence_translation: for a tremendous Day—
 word_by_word:
   1:
@@ -7,7 +7,7 @@ word_by_word:
     translation: For a Day
     transliteration: liyawmin
   2:
-    arabic: عَظِيۡمٍۙ‏
+    arabic: عَظِيمٖ
     translation: Great
     transliteration: ʿaẓīmin
 ---

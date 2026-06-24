@@ -1,38 +1,38 @@
 ---
-arabic_ayat: مَثَلُ الَّذِيۡنَ يُنۡفِقُوۡنَ اَمۡوَالَهُمۡ فِىۡ سَبِيۡلِ اللّٰهِ كَمَثَلِ
-  حَبَّةٍ اَنۡۢبَتَتۡ سَبۡعَ سَنَابِلَ فِىۡ كُلِّ سُنۡۢبُلَةٍ مِّائَةُ حَبَّةٍ​ؕ وَاللّٰهُ
-  يُضٰعِفُ لِمَنۡ يَّشَآءُ​ ؕ وَاللّٰهُ وَاسِعٌ عَلِيۡمٌ‏
+arabic_ayat: مَّثَلُ ٱلَّذِينَ يُنفِقُونَ أَمۡوَٰلَهُمۡ فِي سَبِيلِ ٱللَّهِ كَمَثَلِ
+  حَبَّةٍ أَنۢبَتَتۡ سَبۡعَ سَنَابِلَ فِي كُلِّ سُنۢبُلَةٖ مِّاْئَةُ حَبَّةٖۗ وَٱللَّهُ
+  يُضَٰعِفُ لِمَن يَشَآءُۚ وَٱللَّهُ وَٰسِعٌ عَلِيمٌ
 sentence_translation: The example of those who spend their wealth in the cause of
   Allah is that of a grain that sprouts into seven ears, each bearing one hundred
   grains. And Allah multiplies ˹the reward even more˺ to whoever He wills. For Allah
   is All-Bountiful, All-Knowing.
 word_by_word:
   1:
-    arabic: مَثَلُ
+    arabic: مَّثَلُ
     translation: Example
     transliteration: mathalu
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: (of) those who
     transliteration: alladhīna
   3:
-    arabic: يُنۡفِقُوۡنَ
+    arabic: يُنفِقُونَ
     translation: spend
     transliteration: yunfiqūna
   4:
-    arabic: اَمۡوَالَهُمۡ
+    arabic: أَمۡوَٰلَهُمۡ
     translation: their wealth
     transliteration: amwālahum
   5:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   6:
-    arabic: سَبِيۡلِ
+    arabic: سَبِيلِ
     translation: (the) way
     transliteration: sabīli
   7:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (of) Allah
     transliteration: l-lahi
   8:
@@ -44,7 +44,7 @@ word_by_word:
     translation: a grain
     transliteration: ḥabbatin
   10:
-    arabic: اَنۡۢبَتَتۡ
+    arabic: أَنۢبَتَتۡ
     translation: which grows
     transliteration: anbatat
   11:
@@ -56,7 +56,7 @@ word_by_word:
     translation: ears
     transliteration: sanābila
   13:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   14:
@@ -64,43 +64,43 @@ word_by_word:
     translation: each
     transliteration: kulli
   15:
-    arabic: سُنۡۢبُلَةٍ
+    arabic: سُنۢبُلَةٖ
     translation: ear
     transliteration: sunbulatin
   16:
-    arabic: مِّائَةُ
+    arabic: مِّاْئَةُ
     translation: hundred
     transliteration: mi-atu
   17:
-    arabic: حَبَّةٍ​ؕ
+    arabic: حَبَّةٖۗ
     translation: grain(s)
     transliteration: ḥabbatin
   18:
-    arabic: وَاللّٰهُ
+    arabic: وَٱللَّهُ
     translation: And Allah
     transliteration: wal-lahu
   19:
-    arabic: يُضٰعِفُ
+    arabic: يُضَٰعِفُ
     translation: gives manifold
     transliteration: yuḍāʿifu
   20:
-    arabic: لِمَنۡ
+    arabic: لِمَن
     translation: to whom
     transliteration: liman
   21:
-    arabic: يَّشَآءُ​ ؕ
+    arabic: يَشَآءُۚ
     translation: He wills
     transliteration: yashāu
   22:
-    arabic: وَاللّٰهُ
+    arabic: وَٱللَّهُ
     translation: And Allah
     transliteration: wal-lahu
   23:
-    arabic: وَاسِعٌ
+    arabic: وَٰسِعٌ
     translation: (is) All-Encompassing
     transliteration: wāsiʿun
   24:
-    arabic: عَلِيۡمٌ‏
+    arabic: عَلِيمٌ
     translation: All-Knowing
     transliteration: ʿalīmun
 ---

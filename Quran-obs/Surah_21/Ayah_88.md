@@ -1,19 +1,19 @@
 ---
-arabic_ayat: "فَاسۡتَجَبۡنَا لَهٗۙ وَنَجَّيۡنٰهُ مِنَ الۡـغَمِّ​ؕ وَكَذٰلِكَ نُـنْجِى\
-  \ الۡمُؤۡمِنِيۡنَ‏ \uFEFF\uFEFF"
+arabic_ayat: فَٱسۡتَجَبۡنَا لَهُۥ وَنَجَّيۡنَٰهُ مِنَ ٱلۡغَمِّۚ وَكَذَٰلِكَ نُـۨجِي
+  ٱلۡمُؤۡمِنِينَ
 sentence_translation: So We answered his prayer and rescued him from anguish. And
   so do We save the ˹true˺ believers.
 word_by_word:
   1:
-    arabic: فَاسۡتَجَبۡنَا
+    arabic: فَٱسۡتَجَبۡنَا
     translation: So We responded
     transliteration: fa-is'tajabnā
   2:
-    arabic: لَهٗۙ
+    arabic: لَهُۥ
     translation: to him
     transliteration: lahu
   3:
-    arabic: وَنَجَّيۡنٰهُ
+    arabic: وَنَجَّيۡنَٰهُ
     translation: and We saved him
     transliteration: wanajjaynāhu
   4:
@@ -21,19 +21,19 @@ word_by_word:
     translation: from
     transliteration: mina
   5:
-    arabic: الۡـغَمِّ​ؕ
+    arabic: ٱلۡغَمِّۚ
     translation: the distress
     transliteration: l-ghami
   6:
-    arabic: وَكَذٰلِكَ
+    arabic: وَكَذَٰلِكَ
     translation: And thus
     transliteration: wakadhālika
   7:
-    arabic: نُـنْجِى
+    arabic: نُـۨجِي
     translation: We save
     transliteration: nunjī
   8:
-    arabic: "الۡمُؤۡمِنِيۡنَ‏ \uFEFF\uFEFF"
+    arabic: ٱلۡمُؤۡمِنِينَ
     translation: the believers
     transliteration: l-mu'minīna
 ---

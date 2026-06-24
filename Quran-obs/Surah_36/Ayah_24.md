@@ -1,25 +1,25 @@
 ---
-arabic_ayat: اِنِّىۡۤ اِذًا لَّفِىۡ ضَلٰلٍ مُّبِيۡنٍ‏
+arabic_ayat: إِنِّيٓ إِذٗا لَّفِي ضَلَٰلٖ مُّبِينٍ
 sentence_translation: Indeed, I would then be clearly astray.
 word_by_word:
   1:
-    arabic: اِنِّىۡۤ
+    arabic: إِنِّيٓ
     translation: Indeed, I
     transliteration: innī
   2:
-    arabic: اِذًا
+    arabic: إِذٗا
     translation: then
     transliteration: idhan
   3:
-    arabic: لَّفِىۡ
+    arabic: لَّفِي
     translation: surely would be in
     transliteration: lafī
   4:
-    arabic: ضَلٰلٍ
+    arabic: ضَلَٰلٖ
     translation: an error
     transliteration: ḍalālin
   5:
-    arabic: مُّبِيۡنٍ‏
+    arabic: مُّبِينٍ
     translation: clear
     transliteration: mubīnin
 ---

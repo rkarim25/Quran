@@ -1,31 +1,31 @@
 ---
-arabic_ayat: وَهٰذَا كِتٰبٌ اَنۡزَلۡنٰهُ مُبٰرَكٌ فَاتَّبِعُوۡهُ وَاتَّقُوۡا لَعَلَّكُمۡ
-  تُرۡحَمُوۡنَۙ‏
+arabic_ayat: وَهَٰذَا كِتَٰبٌ أَنزَلۡنَٰهُ مُبَارَكٞ فَٱتَّبِعُوهُ وَٱتَّقُواْ لَعَلَّكُمۡ
+  تُرۡحَمُونَ
 sentence_translation: This is a blessed Book We have revealed. So follow it and be
   mindful ˹of Allah˺, so you may be shown mercy.
 word_by_word:
   1:
-    arabic: وَهٰذَا
+    arabic: وَهَٰذَا
     translation: And this
     transliteration: wahādhā
   2:
-    arabic: كِتٰبٌ
+    arabic: كِتَٰبٌ
     translation: (is) a Book
     transliteration: kitābun
   3:
-    arabic: اَنۡزَلۡنٰهُ
+    arabic: أَنزَلۡنَٰهُ
     translation: 'We have revealed it '
     transliteration: anzalnāhu
   4:
-    arabic: مُبٰرَكٌ
+    arabic: مُبَارَكٞ
     translation: blessed
     transliteration: mubārakun
   5:
-    arabic: فَاتَّبِعُوۡهُ
+    arabic: فَٱتَّبِعُوهُ
     translation: so follow it
     transliteration: fa-ittabiʿūhu
   6:
-    arabic: وَاتَّقُوۡا
+    arabic: وَٱتَّقُواْ
     translation: and fear (Allah)
     transliteration: wa-ittaqū
   7:
@@ -33,7 +33,7 @@ word_by_word:
     translation: so that you may
     transliteration: laʿallakum
   8:
-    arabic: تُرۡحَمُوۡنَۙ‏
+    arabic: تُرۡحَمُونَ
     translation: receive mercy
     transliteration: tur'ḥamūna
 ---

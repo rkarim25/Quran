@@ -1,94 +1,94 @@
 ---
-arabic_ayat: اِتَّخَذُوۡۤا اَحۡبَارَهُمۡ وَرُهۡبَانَهُمۡ اَرۡبَابًا مِّنۡ دُوۡنِ اللّٰهِ
-  وَالۡمَسِيۡحَ ابۡنَ مَرۡيَمَ​ ۚ وَمَاۤ اُمِرُوۡۤا اِلَّا لِيَـعۡبُدُوۡۤا اِلٰهًا
-  وَّاحِدًا​ ۚ لَاۤ اِلٰهَ اِلَّا هُوَ​ ؕ سُبۡحٰنَهٗ عَمَّا يُشۡرِكُوۡنَ‏
+arabic_ayat: ٱتَّخَذُوٓاْ أَحۡبَارَهُمۡ وَرُهۡبَٰنَهُمۡ أَرۡبَابٗا مِّن دُونِ ٱللَّهِ
+  وَٱلۡمَسِيحَ ٱبۡنَ مَرۡيَمَ وَمَآ أُمِرُوٓاْ إِلَّا لِيَعۡبُدُوٓاْ إِلَٰهٗا وَٰحِدٗاۖ
+  لَّآ إِلَٰهَ إِلَّا هُوَۚ سُبۡحَٰنَهُۥ عَمَّا يُشۡرِكُونَ
 sentence_translation: They have taken their rabbis and monks as well as the Messiah,
   son of Mary, as lords besides Allah, even though they were commanded to worship
   none but One God. There is no god ˹worthy of worship˺ except Him. Glorified is He
   above what they associate ˹with Him˺!
 word_by_word:
   1:
-    arabic: اِتَّخَذُوۡۤا
+    arabic: ٱتَّخَذُوٓاْ
     translation: They have taken
     transliteration: ittakhadhū
   2:
-    arabic: اَحۡبَارَهُمۡ
+    arabic: أَحۡبَارَهُمۡ
     translation: their rabbis
     transliteration: aḥbārahum
   3:
-    arabic: وَرُهۡبَانَهُمۡ
+    arabic: وَرُهۡبَٰنَهُمۡ
     translation: and their monks
     transliteration: waruh'bānahum
   4:
-    arabic: اَرۡبَابًا
+    arabic: أَرۡبَابٗا
     translation: (as) Lords
     transliteration: arbāban
   5:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: besides
     transliteration: min
   6:
-    arabic: دُوۡنِ
+    arabic: دُونِ
     translation: besides
     transliteration: dūni
   7:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   8:
-    arabic: وَالۡمَسِيۡحَ
+    arabic: وَٱلۡمَسِيحَ
     translation: and the Messiah
     transliteration: wal-masīḥa
   9:
-    arabic: ابۡنَ
+    arabic: ٱبۡنَ
     translation: son
     transliteration: ib'na
   10:
-    arabic: مَرۡيَمَ​ ۚ
+    arabic: مَرۡيَمَ
     translation: (of) Maryam
     transliteration: maryama
   11:
-    arabic: وَمَاۤ
+    arabic: وَمَآ
     translation: And not
     transliteration: wamā
   12:
-    arabic: اُمِرُوۡۤا
+    arabic: أُمِرُوٓاْ
     translation: they were commanded
     transliteration: umirū
   13:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   14:
-    arabic: لِيَـعۡبُدُوۡۤا
+    arabic: لِيَعۡبُدُوٓاْ
     translation: that they worship
     transliteration: liyaʿbudū
   15:
-    arabic: اِلٰهًا
+    arabic: إِلَٰهٗا
     translation: One God
     transliteration: ilāhan
   16:
-    arabic: وَّاحِدًا​ ۚ
+    arabic: وَٰحِدٗاۖ
     translation: One God
     transliteration: wāḥidan
   17:
-    arabic: لَاۤ
+    arabic: لَّآ
     translation: (There) is no
     transliteration: lā
   18:
-    arabic: اِلٰهَ
+    arabic: إِلَٰهَ
     translation: god
     transliteration: ilāha
   19:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   20:
-    arabic: هُوَ​ ؕ
+    arabic: هُوَۚ
     translation: Him
     transliteration: huwa
   21:
-    arabic: سُبۡحٰنَهٗ
+    arabic: سُبۡحَٰنَهُۥ
     translation: Glory be to Him
     transliteration: sub'ḥānahu
   22:
@@ -96,7 +96,7 @@ word_by_word:
     translation: from what
     transliteration: ʿammā
   23:
-    arabic: يُشۡرِكُوۡنَ‏
+    arabic: يُشۡرِكُونَ
     translation: they associate (with Him)
     transliteration: yush'rikūna
 ---

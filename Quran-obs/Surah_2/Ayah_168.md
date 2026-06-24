@@ -1,19 +1,19 @@
 ---
-arabic_ayat: يٰٓاَيُّهَا النَّاسُ كُلُوۡا مِمَّا فِى الۡاَرۡضِ حَلٰلًا طَيِّبًا  ۖ
-  وَّلَا تَتَّبِعُوۡا خُطُوٰتِ الشَّيۡطٰنِؕ اِنَّهٗ لَـكُمۡ عَدُوٌّ مُّبِيۡنٌ‏
+arabic_ayat: يَٰٓأَيُّهَا ٱلنَّاسُ كُلُواْ مِمَّا فِي ٱلۡأَرۡضِ حَلَٰلٗا طَيِّبٗا
+  وَلَا تَتَّبِعُواْ خُطُوَٰتِ ٱلشَّيۡطَٰنِۚ إِنَّهُۥ لَكُمۡ عَدُوّٞ مُّبِينٌ
 sentence_translation: O humanity! Eat from what is lawful and good on the earth and
   do not follow Satan’s footsteps. He is truly your sworn enemy.
 word_by_word:
   1:
-    arabic: يٰٓاَيُّهَا
+    arabic: يَٰٓأَيُّهَا
     translation: O
     transliteration: yāayyuhā
   2:
-    arabic: النَّاسُ
+    arabic: ٱلنَّاسُ
     translation: mankind
     transliteration: l-nāsu
   3:
-    arabic: كُلُوۡا
+    arabic: كُلُواْ
     translation: Eat
     transliteration: kulū
   4:
@@ -21,51 +21,51 @@ word_by_word:
     translation: of what
     transliteration: mimmā
   5:
-    arabic: فِى
+    arabic: فِي
     translation: (is) in
     transliteration: fī
   6:
-    arabic: الۡاَرۡضِ
+    arabic: ٱلۡأَرۡضِ
     translation: the earth
     transliteration: l-arḍi
   7:
-    arabic: حَلٰلًا
+    arabic: حَلَٰلٗا
     translation: lawful
     transliteration: ḥalālan
   8:
-    arabic: طَيِّبًا  ۖ
+    arabic: طَيِّبٗا
     translation: (and) good
     transliteration: ṭayyiban
   9:
-    arabic: وَّلَا
+    arabic: وَلَا
     translation: And (do) not
     transliteration: walā
   10:
-    arabic: تَتَّبِعُوۡا
+    arabic: تَتَّبِعُواْ
     translation: follow
     transliteration: tattabiʿū
   11:
-    arabic: خُطُوٰتِ
+    arabic: خُطُوَٰتِ
     translation: (the) footsteps (of)
     transliteration: khuṭuwāti
   12:
-    arabic: الشَّيۡطٰنِؕ
+    arabic: ٱلشَّيۡطَٰنِۚ
     translation: the Shaitaan
     transliteration: l-shayṭāni
   13:
-    arabic: اِنَّهٗ
+    arabic: إِنَّهُۥ
     translation: Indeed, he
     transliteration: innahu
   14:
-    arabic: لَـكُمۡ
+    arabic: لَكُمۡ
     translation: (is) to you
     transliteration: lakum
   15:
-    arabic: عَدُوٌّ
+    arabic: عَدُوّٞ
     translation: an enemy
     transliteration: ʿaduwwun
   16:
-    arabic: مُّبِيۡنٌ‏
+    arabic: مُّبِينٌ
     translation: clear
     transliteration: mubīnun
 ---

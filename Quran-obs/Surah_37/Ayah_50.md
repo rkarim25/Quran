@@ -1,9 +1,9 @@
 ---
-arabic_ayat: فَاَقۡبَلَ بَعۡضُهُمۡ عَلٰى بَعۡضٍ يَّتَسَآءَلُوۡنَ‏
+arabic_ayat: فَأَقۡبَلَ بَعۡضُهُمۡ عَلَىٰ بَعۡضٖ يَتَسَآءَلُونَ
 sentence_translation: Then they will turn to one another inquisitively.
 word_by_word:
   1:
-    arabic: فَاَقۡبَلَ
+    arabic: فَأَقۡبَلَ
     translation: And (will) approach
     transliteration: fa-aqbala
   2:
@@ -11,15 +11,15 @@ word_by_word:
     translation: some of them
     transliteration: baʿḍuhum
   3:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: to
     transliteration: ʿalā
   4:
-    arabic: بَعۡضٍ
+    arabic: بَعۡضٖ
     translation: others
     transliteration: baʿḍin
   5:
-    arabic: يَّتَسَآءَلُوۡنَ‏
+    arabic: يَتَسَآءَلُونَ
     translation: questioning one another
     transliteration: yatasāalūna
 ---

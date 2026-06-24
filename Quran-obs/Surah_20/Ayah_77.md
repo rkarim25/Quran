@@ -1,6 +1,6 @@
 ---
-arabic_ayat: وَلَقَدۡ اَوۡحَيۡنَاۤ اِلٰى مُوۡسٰٓى ۙ اَنۡ اَسۡرِ بِعِبَادِىۡ فَاضۡرِبۡ
-  لَهُمۡ طَرِيۡقًا فِى الۡبَحۡرِ يَبَسًا ۙ لَّا تَخٰفُ دَرَكًا وَّلَا تَخۡشٰى‏
+arabic_ayat: وَلَقَدۡ أَوۡحَيۡنَآ إِلَىٰ مُوسَىٰٓ أَنۡ أَسۡرِ بِعِبَادِي فَٱضۡرِبۡ
+  لَهُمۡ طَرِيقٗا فِي ٱلۡبَحۡرِ يَبَسٗا لَّا تَخَٰفُ دَرَكٗا وَلَا تَخۡشَىٰ
 sentence_translation: And We surely inspired Moses, ˹saying,˺ “Leave with My servants
   ˹at night˺ and strike a dry passage for them across the sea. Have no fear of being
   overtaken, nor be concerned ˹of drowning˺.”
@@ -10,31 +10,31 @@ word_by_word:
     translation: And verily
     transliteration: walaqad
   2:
-    arabic: اَوۡحَيۡنَاۤ
+    arabic: أَوۡحَيۡنَآ
     translation: We inspired
     transliteration: awḥaynā
   3:
-    arabic: اِلٰى
+    arabic: إِلَىٰ
     translation: to
     transliteration: ilā
   4:
-    arabic: مُوۡسٰٓى ۙ
+    arabic: مُوسَىٰٓ
     translation: Musa
     transliteration: mūsā
   5:
-    arabic: اَنۡ
+    arabic: أَنۡ
     translation: that
     transliteration: an
   6:
-    arabic: اَسۡرِ
+    arabic: أَسۡرِ
     translation: Travel by night
     transliteration: asri
   7:
-    arabic: بِعِبَادِىۡ
+    arabic: بِعِبَادِي
     translation: with My slaves
     transliteration: biʿibādī
   8:
-    arabic: فَاضۡرِبۡ
+    arabic: فَٱضۡرِبۡ
     translation: and strike
     transliteration: fa-iḍ'rib
   9:
@@ -42,19 +42,19 @@ word_by_word:
     translation: for them
     transliteration: lahum
   10:
-    arabic: طَرِيۡقًا
+    arabic: طَرِيقٗا
     translation: a path
     transliteration: ṭarīqan
   11:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   12:
-    arabic: الۡبَحۡرِ
+    arabic: ٱلۡبَحۡرِ
     translation: the sea
     transliteration: l-baḥri
   13:
-    arabic: يَبَسًا ۙ
+    arabic: يَبَسٗا
     translation: dry
     transliteration: yabasan
   14:
@@ -62,19 +62,19 @@ word_by_word:
     translation: not
     transliteration: lā
   15:
-    arabic: تَخٰفُ
+    arabic: تَخَٰفُ
     translation: fearing
     transliteration: takhāfu
   16:
-    arabic: دَرَكًا
+    arabic: دَرَكٗا
     translation: to be overtaken
     transliteration: darakan
   17:
-    arabic: وَّلَا
+    arabic: وَلَا
     translation: and not
     transliteration: walā
   18:
-    arabic: تَخۡشٰى‏
+    arabic: تَخۡشَىٰ
     translation: being afraid
     transliteration: takhshā
 ---

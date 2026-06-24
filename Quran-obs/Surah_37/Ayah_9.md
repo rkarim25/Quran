@@ -1,22 +1,22 @@
 ---
-arabic_ayat: دُحُوۡرًا  وَّلَهُمۡ عَذَابٌ وَّاصِبٌ  ۙ‏
+arabic_ayat: دُحُورٗاۖ وَلَهُمۡ عَذَابٞ وَاصِبٌ
 sentence_translation: ˹fiercely˺ driven away. And they will suffer an everlasting
   torment.
 word_by_word:
   1:
-    arabic: دُحُوۡرًا 
+    arabic: دُحُورٗاۖ
     translation: Repelled
     transliteration: duḥūran
   2:
-    arabic: وَّلَهُمۡ
+    arabic: وَلَهُمۡ
     translation: and for them
     transliteration: walahum
   3:
-    arabic: عَذَابٌ
+    arabic: عَذَابٞ
     translation: (is) a punishment
     transliteration: ʿadhābun
   4:
-    arabic: وَّاصِبٌ  ۙ‏
+    arabic: وَاصِبٌ
     translation: perpetual
     transliteration: wāṣibun
 ---

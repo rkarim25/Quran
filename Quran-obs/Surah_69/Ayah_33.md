@@ -1,9 +1,9 @@
 ---
-arabic_ayat: اِنَّهٗ كَانَ لَا يُؤۡمِنُ بِاللّٰهِ الۡعَظِيۡمِۙ‏
+arabic_ayat: إِنَّهُۥ كَانَ لَا يُؤۡمِنُ بِٱللَّهِ ٱلۡعَظِيمِ
 sentence_translation: For they never had faith in Allah, the Greatest,
 word_by_word:
   1:
-    arabic: اِنَّهٗ
+    arabic: إِنَّهُۥ
     translation: Indeed, he
     transliteration: innahu
   2:
@@ -19,11 +19,11 @@ word_by_word:
     translation: believing
     transliteration: yu'minu
   5:
-    arabic: بِاللّٰهِ
+    arabic: بِٱللَّهِ
     translation: in Allah
     transliteration: bil-lahi
   6:
-    arabic: الۡعَظِيۡمِۙ‏
+    arabic: ٱلۡعَظِيمِ
     translation: the Most Great
     transliteration: l-ʿaẓīmi
 ---

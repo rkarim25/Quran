@@ -1,9 +1,9 @@
 ---
-arabic_ayat: تَصۡلٰى نَارًا حَامِيَةً ۙ‏
+arabic_ayat: تَصۡلَىٰ نَارًا حَامِيَةٗ
 sentence_translation: burning in a scorching Fire,
 word_by_word:
   1:
-    arabic: تَصۡلٰى
+    arabic: تَصۡلَىٰ
     translation: They will burn
     transliteration: taṣlā
   2:
@@ -11,7 +11,7 @@ word_by_word:
     translation: (in) a Fire
     transliteration: nāran
   3:
-    arabic: حَامِيَةً ۙ‏
+    arabic: حَامِيَةٗ
     translation: intensely hot
     transliteration: ḥāmiyatan
 ---

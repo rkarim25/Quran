@@ -1,6 +1,6 @@
 ---
-arabic_ayat: وَتِلۡكَ حُجَّتُنَاۤ اٰتَيۡنٰهَاۤ اِبۡرٰهِيۡمَ عَلٰى قَوۡمِهٖ​ؕ نَرۡفَعُ
-  دَرَجٰتٍ مَّنۡ نَّشَآءُ ​ؕ اِنَّ رَبَّكَ حَكِيۡمٌ عَلِيۡمٌ‏
+arabic_ayat: وَتِلۡكَ حُجَّتُنَآ ءَاتَيۡنَٰهَآ إِبۡرَٰهِيمَ عَلَىٰ قَوۡمِهِۦۚ نَرۡفَعُ
+  دَرَجَٰتٖ مَّن نَّشَآءُۗ إِنَّ رَبَّكَ حَكِيمٌ عَلِيمٞ
 sentence_translation: This was the argument We gave Abraham against his people. We
   elevate in rank whoever We please. Surely your Lord is All-Wise, All-Knowing.
 word_by_word:
@@ -9,23 +9,23 @@ word_by_word:
     translation: And this
     transliteration: watil'ka
   2:
-    arabic: حُجَّتُنَاۤ
+    arabic: حُجَّتُنَآ ءَ
     translation: (is) Our argument
     transliteration: ḥujjatunā
   3:
-    arabic: اٰتَيۡنٰهَاۤ
+    arabic: اتَيۡنَٰهَآ
     translation: We gave it
     transliteration: ātaynāhā
   4:
-    arabic: اِبۡرٰهِيۡمَ
+    arabic: إِبۡرَٰهِيمَ
     translation: (to) Ibrahim
     transliteration: ib'rāhīma
   5:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: against
     transliteration: ʿalā
   6:
-    arabic: قَوۡمِهٖ​ؕ
+    arabic: قَوۡمِهِۦۚ
     translation: his people
     transliteration: qawmihi
   7:
@@ -33,19 +33,19 @@ word_by_word:
     translation: We raise
     transliteration: narfaʿu
   8:
-    arabic: دَرَجٰتٍ
+    arabic: دَرَجَٰتٖ
     translation: (by) degrees
     transliteration: darajātin
   9:
-    arabic: مَّنۡ
+    arabic: مَّن
     translation: whom
     transliteration: man
   10:
-    arabic: نَّشَآءُ ​ؕ
+    arabic: نَّشَآءُۗ
     translation: We will
     transliteration: nashāu
   11:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   12:
@@ -53,11 +53,11 @@ word_by_word:
     translation: your Lord
     transliteration: rabbaka
   13:
-    arabic: حَكِيۡمٌ
+    arabic: حَكِيمٌ
     translation: (is) All-Wise
     transliteration: ḥakīmun
   14:
-    arabic: عَلِيۡمٌ‏
+    arabic: عَلِيمٞ
     translation: All-Knowing
     transliteration: ʿalīmun
 ---

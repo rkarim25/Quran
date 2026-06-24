@@ -1,22 +1,22 @@
 ---
-arabic_ayat: فَذَكِّرۡ ؕ اِنَّمَاۤ اَنۡتَ مُذَكِّرٌ ؕ‏
+arabic_ayat: فَذَكِّرۡ إِنَّمَآ أَنتَ مُذَكِّرٞ
 sentence_translation: So, ˹continue to˺ remind ˹all, O  Prophet˺, for your duty is
   only to remind.
 word_by_word:
   1:
-    arabic: فَذَكِّرۡؕ
+    arabic: فَذَكِّرۡ
     translation: So remind
     transliteration: fadhakkir
   2:
-    arabic: اِنَّمَاۤ
+    arabic: إِنَّمَآ
     translation: only
     transliteration: innamā
   3:
-    arabic: اَنۡتَ
+    arabic: أَنتَ
     translation: you
     transliteration: anta
   4:
-    arabic: مُذَكِّرٌ ؕ‏
+    arabic: مُذَكِّرٞ
     translation: (are) a reminder
     transliteration: mudhakkirun
 ---

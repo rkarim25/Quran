@@ -1,8 +1,7 @@
 ---
-arabic_ayat: وَ اِذۡ اَخَذَ رَبُّكَ مِنۡۢ بَنِىۡۤ اٰدَمَ مِنۡ ظُهُوۡرِهِمۡ ذُرِّيَّتَهُمۡ
-  وَ اَشۡهَدَهُمۡ عَلٰٓى اَنۡفُسِهِمۡ​ ۚ اَلَسۡتُ بِرَبِّكُمۡ​ ؕ قَالُوۡا بَلٰى​ ۛۚ
-  شَهِدۡنَا ​ۛۚ اَنۡ تَقُوۡلُوۡا يَوۡمَ الۡقِيٰمَةِ اِنَّا كُنَّا عَنۡ هٰذَا غٰفِلِيۡنَ
-  ۙ‏
+arabic_ayat: وَإِذۡ أَخَذَ رَبُّكَ مِنۢ بَنِيٓ ءَادَمَ مِن ظُهُورِهِمۡ ذُرِّيَّتَهُمۡ
+  وَأَشۡهَدَهُمۡ عَلَىٰٓ أَنفُسِهِمۡ أَلَسۡتُ بِرَبِّكُمۡۖ قَالُواْ بَلَىٰ شَهِدۡنَآۚ
+  أَن تَقُولُواْ يَوۡمَ ٱلۡقِيَٰمَةِ إِنَّا كُنَّا عَنۡ هَٰذَا غَٰفِلِينَ
 sentence_translation: And ˹remember˺ when your Lord brought forth from the loins of
   the children of Adam their descendants and had them testify regarding themselves.
   ˹Allah asked,˺ “Am I not your Lord?” They replied, “Yes, You are! We testify.” ˹He
@@ -10,11 +9,11 @@ sentence_translation: And ˹remember˺ when your Lord brought forth from the loi
   this.’
 word_by_word:
   1:
-    arabic: وَ اِذۡ
+    arabic: وَإِذۡ
     translation: And when
     transliteration: wa-idh
   2:
-    arabic: اَخَذَ
+    arabic: أَخَذَ
     translation: (was) taken
     transliteration: akhadha
   3:
@@ -22,23 +21,23 @@ word_by_word:
     translation: (by) your Lord
     transliteration: rabbuka
   4:
-    arabic: مِنۡۢ
+    arabic: مِنۢ
     translation: from
     transliteration: min
   5:
-    arabic: بَنِىۡۤ
+    arabic: بَنِيٓ ءَ
     translation: (the) Children
     transliteration: banī
   6:
-    arabic: اٰدَمَ
+    arabic: ادَمَ
     translation: '(of) Adam '
     transliteration: ādama
   7:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   8:
-    arabic: ظُهُوۡرِهِمۡ
+    arabic: ظُهُورِهِمۡ
     translation: 'their loins '
     transliteration: ẓuhūrihim
   9:
@@ -46,43 +45,43 @@ word_by_word:
     translation: their descendants
     transliteration: dhurriyyatahum
   10:
-    arabic: وَ اَشۡهَدَهُمۡ
+    arabic: وَأَشۡهَدَهُمۡ
     translation: and made them testify
     transliteration: wa-ashhadahum
   11:
-    arabic: عَلٰٓى
+    arabic: عَلَىٰٓ
     translation: over
     transliteration: ʿalā
   12:
-    arabic: اَنۡفُسِهِمۡ​ ۚ
+    arabic: أَنفُسِهِمۡ
     translation: themselves
     transliteration: anfusihim
   13:
-    arabic: اَلَسۡتُ
+    arabic: أَلَسۡتُ
     translation: Am I not
     transliteration: alastu
   14:
-    arabic: بِرَبِّكُمۡ​ ؕ
+    arabic: بِرَبِّكُمۡۖ
     translation: your Lord
     transliteration: birabbikum
   15:
-    arabic: قَالُوۡا
+    arabic: قَالُواْ
     translation: They said
     transliteration: qālū
   16:
-    arabic: بَلٰى​ ۛۚ
+    arabic: بَلَىٰ
     translation: 'Yes'
     transliteration: balā
   17:
-    arabic: شَهِدۡنَا ​ۛۚ
+    arabic: شَهِدۡنَآۚ
     translation: we have testified
     transliteration: shahid'nā
   18:
-    arabic: اَنۡ
+    arabic: أَن
     translation: Lest
     transliteration: an
   19:
-    arabic: تَقُوۡلُوۡا
+    arabic: تَقُولُواْ
     translation: you say
     transliteration: taqūlū
   20:
@@ -90,11 +89,11 @@ word_by_word:
     translation: (on the) Day
     transliteration: yawma
   21:
-    arabic: الۡقِيٰمَةِ
+    arabic: ٱلۡقِيَٰمَةِ
     translation: (of) the Resurrection
     transliteration: l-qiyāmati
   22:
-    arabic: اِنَّا
+    arabic: إِنَّا
     translation: Indeed
     transliteration: innā
   23:
@@ -106,11 +105,11 @@ word_by_word:
     translation: about
     transliteration: ʿan
   25:
-    arabic: هٰذَا
+    arabic: هَٰذَا
     translation: this
     transliteration: hādhā
   26:
-    arabic: غٰفِلِيۡنَ ۙ‏
+    arabic: غَٰفِلِينَ
     translation: unaware
     transliteration: ghāfilīna
 ---

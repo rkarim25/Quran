@@ -1,39 +1,39 @@
 ---
-arabic_ayat: وَذَرُوۡا ظَاهِرَ الۡاِثۡمِ وَبَاطِنَهٗ​ؕ اِنَّ الَّذِيۡنَ یَکْسِبُوۡنَ
-  الۡاِثۡمَ سَيُجۡزَوۡنَ بِمَا كَانُوۡا يَقۡتَرِفُوۡنَ‏
+arabic_ayat: وَذَرُواْ ظَٰهِرَ ٱلۡإِثۡمِ وَبَاطِنَهُۥٓۚ إِنَّ ٱلَّذِينَ يَكۡسِبُونَ
+  ٱلۡإِثۡمَ سَيُجۡزَوۡنَ بِمَا كَانُواْ يَقۡتَرِفُونَ
 sentence_translation: Shun all sin—open and secret. Indeed, those who commit sin will
   be punished for what they earn.
 word_by_word:
   1:
-    arabic: وَذَرُوۡا
+    arabic: وَذَرُواْ
     translation: Forsake
     transliteration: wadharū
   2:
-    arabic: ظَاهِرَ
+    arabic: ظَٰهِرَ
     translation: open
     transliteration: ẓāhira
   3:
-    arabic: الۡاِثۡمِ
+    arabic: ٱلۡإِثۡمِ
     translation: '[the] sins'
     transliteration: l-ith'mi
   4:
-    arabic: وَبَاطِنَهٗ​ؕ
+    arabic: وَبَاطِنَهُۥٓۚ
     translation: and the secret
     transliteration: wabāṭinahu
   5:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   6:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   7:
-    arabic: یَکْسِبُوۡنَ
+    arabic: يَكۡسِبُونَ
     translation: earn
     transliteration: yaksibūna
   8:
-    arabic: الۡاِثۡمَ
+    arabic: ٱلۡإِثۡمَ
     translation: '[the] sin'
     transliteration: l-ith'ma
   9:
@@ -45,11 +45,11 @@ word_by_word:
     translation: for what
     transliteration: bimā
   11:
-    arabic: كَانُوۡا
+    arabic: كَانُواْ
     translation: they used to
     transliteration: kānū
   12:
-    arabic: يَقۡتَرِفُوۡنَ‏
+    arabic: يَقۡتَرِفُونَ
     translation: commit
     transliteration: yaqtarifūna
 ---

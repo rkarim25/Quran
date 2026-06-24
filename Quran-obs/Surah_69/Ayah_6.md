@@ -1,21 +1,21 @@
 ---
-arabic_ayat: وَاَمَّا عَادٌ فَاُهۡلِكُوۡا بِرِيۡحٍ صَرۡصَرٍ عَاتِيَةٍۙ‏
+arabic_ayat: وَأَمَّا عَادٞ فَأُهۡلِكُواْ بِرِيحٖ صَرۡصَرٍ عَاتِيَةٖ
 sentence_translation: And as for ’Ȃd, they were destroyed by a furious, bitter wind
 word_by_word:
   1:
-    arabic: وَاَمَّا
+    arabic: وَأَمَّا
     translation: And as for
     transliteration: wa-ammā
   2:
-    arabic: عَادٌ
+    arabic: عَادٞ
     translation: Aad
     transliteration: ʿādun
   3:
-    arabic: فَاُهۡلِكُوۡا
+    arabic: فَأُهۡلِكُواْ
     translation: they were destroyed
     transliteration: fa-uh'likū
   4:
-    arabic: بِرِيۡحٍ
+    arabic: بِرِيحٖ
     translation: by a wind
     transliteration: birīḥin
   5:
@@ -23,7 +23,7 @@ word_by_word:
     translation: screaming
     transliteration: ṣarṣarin
   6:
-    arabic: عَاتِيَةٍۙ‏
+    arabic: عَاتِيَةٖ
     translation: violent
     transliteration: ʿātiyatin
 ---

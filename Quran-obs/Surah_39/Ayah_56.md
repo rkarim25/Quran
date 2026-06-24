@@ -1,27 +1,27 @@
 ---
-arabic_ayat: اَنۡ تَقُوۡلَ نَفۡسٌ يّٰحَسۡرَتٰى عَلٰى مَا فَرَّطْتُّ فِىۡ جَنۡۢبِ اللّٰهِ
-  وَاِنۡ كُنۡتُ لَمِنَ السّٰخِرِيۡنَۙ‏
+arabic_ayat: أَن تَقُولَ نَفۡسٞ يَٰحَسۡرَتَىٰ عَلَىٰ مَا فَرَّطتُ فِي جَنۢبِ ٱللَّهِ
+  وَإِن كُنتُ لَمِنَ ٱلسَّٰخِرِينَ
 sentence_translation: so that no ˹sinful˺ soul will say ˹on Judgment Day˺, ‘Woe to
   me for neglecting ˹my duties towards˺ Allah, while ridiculing ˹the truth˺.’
 word_by_word:
   1:
-    arabic: اَنۡ
+    arabic: أَن
     translation: Lest
     transliteration: an
   2:
-    arabic: تَقُوۡلَ
+    arabic: تَقُولَ
     translation: should say
     transliteration: taqūla
   3:
-    arabic: نَفۡسٌ
+    arabic: نَفۡسٞ
     translation: a soul
     transliteration: nafsun
   4:
-    arabic: يّٰحَسۡرَتٰى
+    arabic: يَٰحَسۡرَتَىٰ
     translation: Oh! My regret
     transliteration: yāḥasratā
   5:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: over
     transliteration: ʿalā
   6:
@@ -29,27 +29,27 @@ word_by_word:
     translation: what
     transliteration: mā
   7:
-    arabic: فَرَّطْتُّ
+    arabic: فَرَّطتُ
     translation: I neglected
     transliteration: farraṭtu
   8:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   9:
-    arabic: جَنۡۢبِ
+    arabic: جَنۢبِ
     translation: regard (to)
     transliteration: janbi
   10:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   11:
-    arabic: وَاِنۡ
+    arabic: وَإِن
     translation: and that
     transliteration: wa-in
   12:
-    arabic: كُنۡتُ
+    arabic: كُنتُ
     translation: I was
     transliteration: kuntu
   13:
@@ -57,7 +57,7 @@ word_by_word:
     translation: surely, among
     transliteration: lamina
   14:
-    arabic: السّٰخِرِيۡنَۙ‏
+    arabic: ٱلسَّٰخِرِينَ
     translation: the mockers
     transliteration: l-sākhirīna
 ---

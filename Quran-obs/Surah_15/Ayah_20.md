@@ -1,6 +1,5 @@
 ---
-arabic_ayat: "وَجَعَلۡنَا لَـكُمۡ فِيۡهَا مَعَايِشَ وَمَنۡ لَّسۡتُمۡ لَهٗ بِرٰزِقِيۡنَ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: وَجَعَلۡنَا لَكُمۡ فِيهَا مَعَٰيِشَ وَمَن لَّسۡتُمۡ لَهُۥ بِرَٰزِقِينَ
 sentence_translation: And We made in it means of sustenance for you and others, who
   you do not provide for.
 word_by_word:
@@ -9,19 +8,19 @@ word_by_word:
     translation: And We have made
     transliteration: wajaʿalnā
   2:
-    arabic: لَـكُمۡ
+    arabic: لَكُمۡ
     translation: for you
     transliteration: lakum
   3:
-    arabic: فِيۡهَا
+    arabic: فِيهَا
     translation: therein
     transliteration: fīhā
   4:
-    arabic: مَعَايِشَ
+    arabic: مَعَٰيِشَ
     translation: means of living
     transliteration: maʿāyisha
   5:
-    arabic: وَمَنۡ
+    arabic: وَمَن
     translation: and whom
     transliteration: waman
   6:
@@ -29,11 +28,11 @@ word_by_word:
     translation: you are not
     transliteration: lastum
   7:
-    arabic: لَهٗ
+    arabic: لَهُۥ
     translation: for him
     transliteration: lahu
   8:
-    arabic: "بِرٰزِقِيۡنَ‏ \uFEFF\uFEFF"
+    arabic: بِرَٰزِقِينَ
     translation: providers
     transliteration: birāziqīna
 ---

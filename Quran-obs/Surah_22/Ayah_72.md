@@ -1,8 +1,8 @@
 ---
-arabic_ayat: وَاِذَا تُتۡلٰى عَلَيۡهِمۡ اٰيٰـتُـنَا بَيِّنٰتٍ تَعۡرِفُ فِىۡ وُجُوۡهِ
-  الَّذِيۡنَ كَفَرُوۡا الۡمُنۡكَرَ​ ؕ يَكَادُوۡنَ يَسۡطُوۡنَ بِالَّذِيۡنَ يَتۡلُوۡنَ
-  عَلَيۡهِمۡ اٰيٰتِنَا​ ؕ قُلۡ اَفَاُنَبِّئُكُمۡ بِشَرٍّ مِّنۡ ذٰ لِكُمُ​ ؕ اَلنَّارُؕ
-  وَعَدَهَا اللّٰهُ الَّذِيۡنَ كَفَرُوۡا​ ۚ وَبِئۡسَ الۡمَصِيۡرُ‏
+arabic_ayat: وَإِذَا تُتۡلَىٰ عَلَيۡهِمۡ ءَايَٰتُنَا بَيِّنَٰتٖ تَعۡرِفُ فِي وُجُوهِ
+  ٱلَّذِينَ كَفَرُواْ ٱلۡمُنكَرَۖ يَكَادُونَ يَسۡطُونَ بِٱلَّذِينَ يَتۡلُونَ عَلَيۡهِمۡ
+  ءَايَٰتِنَاۗ قُلۡ أَفَأُنَبِّئُكُم بِشَرّٖ مِّن ذَٰلِكُمُۚ ٱلنَّارُ وَعَدَهَا ٱللَّهُ
+  ٱلَّذِينَ كَفَرُواْۖ وَبِئۡسَ ٱلۡمَصِيرُ
 sentence_translation: Whenever Our clear revelations are recited to them, you ˹O Prophet˺
   recognize rage on the faces of the disbelievers, as if they are going to snap at
   those who recite Our revelations to them. Say, “Shall I inform you of something
@@ -10,23 +10,23 @@ sentence_translation: Whenever Our clear revelations are recited to them, you ˹
   who disbelieve. What an evil destination!”
 word_by_word:
   1:
-    arabic: وَاِذَا
+    arabic: وَإِذَا
     translation: And when
     transliteration: wa-idhā
   2:
-    arabic: تُتۡلٰى
+    arabic: تُتۡلَىٰ
     translation: are recited
     transliteration: tut'lā
   3:
-    arabic: عَلَيۡهِمۡ
+    arabic: عَلَيۡهِمۡ ءَ
     translation: to them
     transliteration: ʿalayhim
   4:
-    arabic: اٰيٰـتُـنَا
+    arabic: ايَٰتُنَا
     translation: Our Verses
     transliteration: āyātunā
   5:
-    arabic: بَيِّنٰتٍ
+    arabic: بَيِّنَٰتٖ
     translation: clear
     transliteration: bayyinātin
   6:
@@ -34,47 +34,47 @@ word_by_word:
     translation: you will recognize
     transliteration: taʿrifu
   7:
-    arabic: فِىۡ
+    arabic: فِي
     translation: 'on'
     transliteration: fī
   8:
-    arabic: وُجُوۡهِ
+    arabic: وُجُوهِ
     translation: (the) faces
     transliteration: wujūhi
   9:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: (of) those who
     transliteration: alladhīna
   10:
-    arabic: كَفَرُوۡا
+    arabic: كَفَرُواْ
     translation: disbelieve
     transliteration: kafarū
   11:
-    arabic: الۡمُنۡكَرَ​ ؕ
+    arabic: ٱلۡمُنكَرَۖ
     translation: the denial
     transliteration: l-munkara
   12:
-    arabic: يَكَادُوۡنَ
+    arabic: يَكَادُونَ
     translation: They almost
     transliteration: yakādūna
   13:
-    arabic: يَسۡطُوۡنَ
+    arabic: يَسۡطُونَ
     translation: attack
     transliteration: yasṭūna
   14:
-    arabic: بِالَّذِيۡنَ
+    arabic: بِٱلَّذِينَ
     translation: those who
     transliteration: bi-alladhīna
   15:
-    arabic: يَتۡلُوۡنَ
+    arabic: يَتۡلُونَ
     translation: recite
     transliteration: yatlūna
   16:
-    arabic: عَلَيۡهِمۡ
+    arabic: عَلَيۡهِمۡ ءَ
     translation: to them
     transliteration: ʿalayhim
   17:
-    arabic: اٰيٰتِنَا​ ؕ
+    arabic: ايَٰتِنَاۗ
     translation: Our Verses
     transliteration: āyātinā
   18:
@@ -82,23 +82,23 @@ word_by_word:
     translation: Say
     transliteration: qul
   19:
-    arabic: اَفَاُنَبِّئُكُمۡ
+    arabic: أَفَأُنَبِّئُكُم
     translation: Then shall I inform you
     transliteration: afa-unabbi-ukum
   20:
-    arabic: بِشَرٍّ
+    arabic: بِشَرّٖ
     translation: of worse
     transliteration: bisharrin
   21:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: than
     transliteration: min
   22:
-    arabic: ذٰ لِكُمُ​ ؕ
+    arabic: ذَٰلِكُمُۚ
     translation: that
     transliteration: dhālikumu
   23:
-    arabic: اَلنَّارُؕ
+    arabic: ٱلنَّارُ
     translation: The Fire
     transliteration: l-nāru
   24:
@@ -106,15 +106,15 @@ word_by_word:
     translation: Allah (has) promised it
     transliteration: waʿadahā
   25:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah (has) promised it
     transliteration: l-lahu
   26:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: (for) those who
     transliteration: alladhīna
   27:
-    arabic: كَفَرُوۡا​ ۚ
+    arabic: كَفَرُواْۖ
     translation: disbelieve
     transliteration: kafarū
   28:
@@ -122,7 +122,7 @@ word_by_word:
     translation: and wretched
     transliteration: wabi'sa
   29:
-    arabic: الۡمَصِيۡرُ‏
+    arabic: ٱلۡمَصِيرُ
     translation: (is) the destination
     transliteration: l-maṣīru
 ---

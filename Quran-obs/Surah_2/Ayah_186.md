@@ -1,37 +1,36 @@
 ---
-arabic_ayat: وَاِذَا سَاَلَـكَ عِبَادِىۡ عَنِّىۡ فَاِنِّىۡ قَرِيۡبٌؕ اُجِيۡبُ دَعۡوَةَ
-  الدَّاعِ اِذَا دَعَانِ فَلۡيَسۡتَجِيۡبُوۡا لِىۡ وَلۡيُؤۡمِنُوۡا بِىۡ لَعَلَّهُمۡ
-  يَرۡشُدُوۡنَ‏
+arabic_ayat: وَإِذَا سَأَلَكَ عِبَادِي عَنِّي فَإِنِّي قَرِيبٌۖ أُجِيبُ دَعۡوَةَ ٱلدَّاعِ
+  إِذَا دَعَانِۖ فَلۡيَسۡتَجِيبُواْ لِي وَلۡيُؤۡمِنُواْ بِي لَعَلَّهُمۡ يَرۡشُدُونَ
 sentence_translation: 'When My servants ask you ˹O Prophet˺ about Me: I am truly near.
   I respond to one’s prayer when they call upon Me. So let them respond ˹with obedience˺
   to Me and believe in Me, perhaps they will be guided ˹to the Right Way˺.'
 word_by_word:
   1:
-    arabic: وَاِذَا
+    arabic: وَإِذَا
     translation: And when
     transliteration: wa-idhā
   2:
-    arabic: سَاَلَـكَ
+    arabic: سَأَلَكَ
     translation: ask you
     transliteration: sa-alaka
   3:
-    arabic: عِبَادِىۡ
+    arabic: عِبَادِي
     translation: My servants
     transliteration: ʿibādī
   4:
-    arabic: عَنِّىۡ
+    arabic: عَنِّي
     translation: about Me
     transliteration: ʿannī
   5:
-    arabic: فَاِنِّىۡ
+    arabic: فَإِنِّي
     translation: then indeed I am
     transliteration: fa-innī
   6:
-    arabic: قَرِيۡبٌؕ
+    arabic: قَرِيبٌۖ
     translation: near
     transliteration: qarībun
   7:
-    arabic: اُجِيۡبُ
+    arabic: أُجِيبُ
     translation: I respond
     transliteration: ujību
   8:
@@ -39,31 +38,31 @@ word_by_word:
     translation: (to the) invocation
     transliteration: daʿwata
   9:
-    arabic: الدَّاعِ
+    arabic: ٱلدَّاعِ
     translation: (of) the supplicant
     transliteration: l-dāʿi
   10:
-    arabic: اِذَا
+    arabic: إِذَا
     translation: when
     transliteration: idhā
   11:
-    arabic: دَعَانِ
+    arabic: دَعَانِۖ
     translation: he calls Me
     transliteration: daʿāni
   12:
-    arabic: فَلۡيَسۡتَجِيۡبُوۡا
+    arabic: فَلۡيَسۡتَجِيبُواْ
     translation: So let them respond
     transliteration: falyastajībū
   13:
-    arabic: لِىۡ
+    arabic: لِي
     translation: to Me
     transliteration: lī
   14:
-    arabic: وَلۡيُؤۡمِنُوۡا
+    arabic: وَلۡيُؤۡمِنُواْ
     translation: and let them believe
     transliteration: walyu'minū
   15:
-    arabic: بِىۡ
+    arabic: بِي
     translation: in Me
     transliteration: bī
   16:
@@ -71,7 +70,7 @@ word_by_word:
     translation: so that they may
     transliteration: laʿallahum
   17:
-    arabic: يَرۡشُدُوۡنَ‏
+    arabic: يَرۡشُدُونَ
     translation: (be) led aright
     transliteration: yarshudūna
 ---

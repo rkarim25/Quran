@@ -1,6 +1,5 @@
 ---
-arabic_ayat: "قُلۡ مَاۤ اَسۡـَٔــلُكُمۡ عَلَيۡهِ مِنۡ اَجۡرٍ وَّمَاۤ اَنَا مِنَ الۡمُتَكَلِّفِيۡنَ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: قُلۡ مَآ أَسۡـَٔلُكُمۡ عَلَيۡهِ مِنۡ أَجۡرٖ وَمَآ أَنَا۠ مِنَ ٱلۡمُتَكَلِّفِينَ
 sentence_translation: Say, ˹O Prophet,˺ “I do not ask you for any reward for this
   ˹Quran˺, nor do I pretend to be someone I am not.
 word_by_word:
@@ -9,11 +8,11 @@ word_by_word:
     translation: Say
     transliteration: qul
   2:
-    arabic: مَاۤ
+    arabic: مَآ
     translation: Not
     transliteration: mā
   3:
-    arabic: اَسۡـَٔــلُكُمۡ
+    arabic: أَسۡـَٔلُكُمۡ
     translation: I ask of you
     transliteration: asalukum
   4:
@@ -25,15 +24,15 @@ word_by_word:
     translation: any
     transliteration: min
   6:
-    arabic: اَجۡرٍ
+    arabic: أَجۡرٖ
     translation: payment
     transliteration: ajrin
   7:
-    arabic: وَّمَاۤ
+    arabic: وَمَآ
     translation: and not
     transliteration: wamā
   8:
-    arabic: اَنَا
+    arabic: أَنَا۠
     translation: I am
     transliteration: anā
   9:
@@ -41,7 +40,7 @@ word_by_word:
     translation: of
     transliteration: mina
   10:
-    arabic: "الۡمُتَكَلِّفِيۡنَ‏ \uFEFF\uFEFF"
+    arabic: ٱلۡمُتَكَلِّفِينَ
     translation: the ones who pretend
     transliteration: l-mutakalifīna
 ---

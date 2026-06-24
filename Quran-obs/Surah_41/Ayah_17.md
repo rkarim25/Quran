@@ -1,28 +1,28 @@
 ---
-arabic_ayat: وَاَمَّا ثَمُوۡدُ فَهَدَيۡنٰهُمۡ فَاسۡتَحَبُّوا الۡعَمٰى عَلَى الۡهُدٰى
-  فَاَخَذَتۡهُمۡ صٰعِقَةُ الۡعَذَابِ الۡهُوۡنِ بِمَا كَانُوۡا يَكۡسِبُوۡنَ​ۚ‏
+arabic_ayat: وَأَمَّا ثَمُودُ فَهَدَيۡنَٰهُمۡ فَٱسۡتَحَبُّواْ ٱلۡعَمَىٰ عَلَى ٱلۡهُدَىٰ
+  فَأَخَذَتۡهُمۡ صَٰعِقَةُ ٱلۡعَذَابِ ٱلۡهُونِ بِمَا كَانُواْ يَكۡسِبُونَ
 sentence_translation: As for Thamûd, We showed them guidance, but they preferred blindness
   over guidance. So the blast of a disgracing punishment overtook them for what they
   used to commit.
 word_by_word:
   1:
-    arabic: وَاَمَّا
+    arabic: وَأَمَّا
     translation: And as for
     transliteration: wa-ammā
   2:
-    arabic: ثَمُوۡدُ
+    arabic: ثَمُودُ
     translation: Thamud
     transliteration: thamūdu
   3:
-    arabic: فَهَدَيۡنٰهُمۡ
+    arabic: فَهَدَيۡنَٰهُمۡ
     translation: We guided them
     transliteration: fahadaynāhum
   4:
-    arabic: فَاسۡتَحَبُّوا
+    arabic: فَٱسۡتَحَبُّواْ
     translation: but they preferred
     transliteration: fa-is'taḥabbū
   5:
-    arabic: الۡعَمٰى
+    arabic: ٱلۡعَمَىٰ
     translation: '[the] blindness'
     transliteration: l-ʿamā
   6:
@@ -30,23 +30,23 @@ word_by_word:
     translation: over
     transliteration: ʿalā
   7:
-    arabic: الۡهُدٰى
+    arabic: ٱلۡهُدَىٰ
     translation: the guidance
     transliteration: l-hudā
   8:
-    arabic: فَاَخَذَتۡهُمۡ
+    arabic: فَأَخَذَتۡهُمۡ
     translation: so seized them
     transliteration: fa-akhadhathum
   9:
-    arabic: صٰعِقَةُ
+    arabic: صَٰعِقَةُ
     translation: a thunderbolt
     transliteration: ṣāʿiqatu
   10:
-    arabic: الۡعَذَابِ
+    arabic: ٱلۡعَذَابِ
     translation: (of) the punishment
     transliteration: l-ʿadhābi
   11:
-    arabic: الۡهُوۡنِ
+    arabic: ٱلۡهُونِ
     translation: humiliating
     transliteration: l-hūni
   12:
@@ -54,11 +54,11 @@ word_by_word:
     translation: for what
     transliteration: bimā
   13:
-    arabic: كَانُوۡا
+    arabic: كَانُواْ
     translation: they used to
     transliteration: kānū
   14:
-    arabic: يَكۡسِبُوۡنَ​ۚ‏
+    arabic: يَكۡسِبُونَ
     translation: earn
     transliteration: yaksibūna
 ---

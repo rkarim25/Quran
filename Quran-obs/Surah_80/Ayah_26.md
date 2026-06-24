@@ -1,5 +1,5 @@
 ---
-arabic_ayat: ثُمَّ شَقَقۡنَا الۡاَرۡضَ شَقًّا ۙ‏
+arabic_ayat: ثُمَّ شَقَقۡنَا ٱلۡأَرۡضَ شَقّٗا
 sentence_translation: and meticulously split the earth open ˹for sprouts˺,
 word_by_word:
   1:
@@ -11,11 +11,11 @@ word_by_word:
     translation: We cleaved
     transliteration: shaqaqnā
   3:
-    arabic: الۡاَرۡضَ
+    arabic: ٱلۡأَرۡضَ
     translation: the earth
     transliteration: l-arḍa
   4:
-    arabic: شَقًّا ۙ‏
+    arabic: شَقّٗا
     translation: splitting
     transliteration: shaqqan
 ---

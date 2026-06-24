@@ -1,9 +1,9 @@
 ---
-arabic_ayat: وَبِالۡاَسۡحَارِ هُمۡ يَسۡتَغۡفِرُوۡنَ‏
+arabic_ayat: وَبِٱلۡأَسۡحَارِ هُمۡ يَسۡتَغۡفِرُونَ
 sentence_translation: and pray for forgiveness before dawn.
 word_by_word:
   1:
-    arabic: وَبِالۡاَسۡحَارِ
+    arabic: وَبِٱلۡأَسۡحَارِ
     translation: And in the hours before dawn
     transliteration: wabil-asḥāri
   2:
@@ -11,7 +11,7 @@ word_by_word:
     translation: they
     transliteration: hum
   3:
-    arabic: يَسۡتَغۡفِرُوۡنَ‏
+    arabic: يَسۡتَغۡفِرُونَ
     translation: would ask forgiveness
     transliteration: yastaghfirūna
 ---

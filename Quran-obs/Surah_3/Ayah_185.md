@@ -1,7 +1,7 @@
 ---
-arabic_ayat: كُلُّ نَفۡسٍ ذَآٮِٕقَةُ الۡمَوۡتِ​ؕ وَاِنَّمَا تُوَفَّوۡنَ اُجُوۡرَكُمۡ
-  يَوۡمَ الۡقِيٰمَةِ​ؕ فَمَنۡ زُحۡزِحَ عَنِ النَّارِ وَاُدۡخِلَ الۡجَـنَّةَ فَقَدۡ
-  فَازَ ​ؕ وَمَا الۡحَيٰوةُ الدُّنۡيَاۤ اِلَّا مَتَاعُ الۡغُرُوۡرِ‏
+arabic_ayat: كُلُّ نَفۡسٖ ذَآئِقَةُ ٱلۡمَوۡتِۗ وَإِنَّمَا تُوَفَّوۡنَ أُجُورَكُمۡ
+  يَوۡمَ ٱلۡقِيَٰمَةِۖ فَمَن زُحۡزِحَ عَنِ ٱلنَّارِ وَأُدۡخِلَ ٱلۡجَنَّةَ فَقَدۡ فَازَۗ
+  وَمَا ٱلۡحَيَوٰةُ ٱلدُّنۡيَآ إِلَّا مَتَٰعُ ٱلۡغُرُورِ
 sentence_translation: Every soul will taste death. And you will only receive your
   full reward on the Day of Judgment. Whoever is spared from the Fire and is admitted
   into Paradise will ˹indeed˺ triumph, whereas the life of this world is no more than
@@ -12,19 +12,19 @@ word_by_word:
     translation: Every
     transliteration: kullu
   2:
-    arabic: نَفۡسٍ
+    arabic: نَفۡسٖ
     translation: soul
     transliteration: nafsin
   3:
-    arabic: ذَآٮِٕقَةُ
+    arabic: ذَآئِقَةُ
     translation: (will) taste
     transliteration: dhāiqatu
   4:
-    arabic: الۡمَوۡتِ​ؕ
+    arabic: ٱلۡمَوۡتِۗ
     translation: '[the] death'
     transliteration: l-mawti
   5:
-    arabic: وَاِنَّمَا
+    arabic: وَإِنَّمَا
     translation: and only
     transliteration: wa-innamā
   6:
@@ -32,7 +32,7 @@ word_by_word:
     translation: you will be paid in full
     transliteration: tuwaffawna
   7:
-    arabic: اُجُوۡرَكُمۡ
+    arabic: أُجُورَكُمۡ
     translation: your reward
     transliteration: ujūrakum
   8:
@@ -40,11 +40,11 @@ word_by_word:
     translation: (on the) Day
     transliteration: yawma
   9:
-    arabic: الۡقِيٰمَةِ​ؕ
+    arabic: ٱلۡقِيَٰمَةِۖ
     translation: (of) [the] Resurrection
     transliteration: l-qiyāmati
   10:
-    arabic: فَمَنۡ
+    arabic: فَمَن
     translation: Then whoever
     transliteration: faman
   11:
@@ -56,15 +56,15 @@ word_by_word:
     translation: from
     transliteration: ʿani
   13:
-    arabic: النَّارِ
+    arabic: ٱلنَّارِ
     translation: the Fire
     transliteration: l-nāri
   14:
-    arabic: وَاُدۡخِلَ
+    arabic: وَأُدۡخِلَ
     translation: and admitted
     transliteration: wa-ud'khila
   15:
-    arabic: الۡجَـنَّةَ
+    arabic: ٱلۡجَنَّةَ
     translation: (to) Paradise
     transliteration: l-janata
   16:
@@ -72,7 +72,7 @@ word_by_word:
     translation: then surely
     transliteration: faqad
   17:
-    arabic: فَازَ ​ؕ
+    arabic: فَازَۗ
     translation: he is successful
     transliteration: fāza
   18:
@@ -80,23 +80,23 @@ word_by_word:
     translation: And not
     transliteration: wamā
   19:
-    arabic: الۡحَيٰوةُ
+    arabic: ٱلۡحَيَوٰةُ
     translation: (is) the life
     transliteration: l-ḥayatu
   20:
-    arabic: الدُّنۡيَاۤ
+    arabic: ٱلدُّنۡيَآ
     translation: (of) the world
     transliteration: l-dun'yā
   21:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   22:
-    arabic: مَتَاعُ
+    arabic: مَتَٰعُ
     translation: enjoyment
     transliteration: matāʿu
   23:
-    arabic: الۡغُرُوۡرِ‏
+    arabic: ٱلۡغُرُورِ
     translation: (of) delusion
     transliteration: l-ghurūri
 ---

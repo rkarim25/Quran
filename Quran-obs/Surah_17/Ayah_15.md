@@ -1,34 +1,34 @@
 ---
-arabic_ayat: مَنِ اهۡتَدٰى فَاِنَّمَا يَهۡتَدِىۡ لِنَفۡسِهٖ ​ۚ وَمَنۡ ضَلَّ فَاِنَّمَا
-  يَضِلُّ عَلَيۡهَا​ ؕ وَلَا تَزِرُ وَازِرَةٌ وِّزۡرَ اُخۡرٰى​ ؕ وَمَا كُنَّا مُعَذِّبِيۡنَ
-  حَتّٰى نَبۡعَثَ رَسُوۡلًا‏
+arabic_ayat: مَّنِ ٱهۡتَدَىٰ فَإِنَّمَا يَهۡتَدِي لِنَفۡسِهِۦۖ وَمَن ضَلَّ فَإِنَّمَا
+  يَضِلُّ عَلَيۡهَاۚ وَلَا تَزِرُ وَازِرَةٞ وِزۡرَ أُخۡرَىٰۗ وَمَا كُنَّا مُعَذِّبِينَ
+  حَتَّىٰ نَبۡعَثَ رَسُولٗا
 sentence_translation: Whoever chooses to be guided, it is only for their own good.
   And whoever chooses to stray, it is only to their own loss. No soul burdened with
   sin will bear the burden of another. And We would never punish ˹a people˺ until
   We have sent a messenger ˹to warn them˺.
 word_by_word:
   1:
-    arabic: مَنِ
+    arabic: مَّنِ
     translation: Whoever
     transliteration: mani
   2:
-    arabic: اهۡتَدٰى
+    arabic: ٱهۡتَدَىٰ
     translation: (is) guided
     transliteration: ih'tadā
   3:
-    arabic: فَاِنَّمَا
+    arabic: فَإِنَّمَا
     translation: then only
     transliteration: fa-innamā
   4:
-    arabic: يَهۡتَدِىۡ
+    arabic: يَهۡتَدِي
     translation: he is guided
     transliteration: yahtadī
   5:
-    arabic: لِنَفۡسِهٖ ​ۚ
+    arabic: لِنَفۡسِهِۦۖ
     translation: for his soul
     transliteration: linafsihi
   6:
-    arabic: وَمَنۡ
+    arabic: وَمَن
     translation: And whoever
     transliteration: waman
   7:
@@ -36,7 +36,7 @@ word_by_word:
     translation: goes astray
     transliteration: ḍalla
   8:
-    arabic: فَاِنَّمَا
+    arabic: فَإِنَّمَا
     translation: then only
     transliteration: fa-innamā
   9:
@@ -44,7 +44,7 @@ word_by_word:
     translation: he goes astray
     transliteration: yaḍillu
   10:
-    arabic: عَلَيۡهَا​ ؕ
+    arabic: عَلَيۡهَاۚ
     translation: against it
     transliteration: ʿalayhā
   11:
@@ -56,15 +56,15 @@ word_by_word:
     translation: will bear
     transliteration: taziru
   13:
-    arabic: وَازِرَةٌ
+    arabic: وَازِرَةٞ
     translation: a bearer of burden
     transliteration: wāziratun
   14:
-    arabic: وِّزۡرَ
+    arabic: وِزۡرَ
     translation: burden
     transliteration: wiz'ra
   15:
-    arabic: اُخۡرٰى​ ؕ
+    arabic: أُخۡرَىٰۗ
     translation: (of) another
     transliteration: ukh'rā
   16:
@@ -76,11 +76,11 @@ word_by_word:
     translation: We
     transliteration: kunnā
   18:
-    arabic: مُعَذِّبِيۡنَ
+    arabic: مُعَذِّبِينَ
     translation: are to punish
     transliteration: muʿadhibīna
   19:
-    arabic: حَتّٰى
+    arabic: حَتَّىٰ
     translation: until
     transliteration: ḥattā
   20:
@@ -88,7 +88,7 @@ word_by_word:
     translation: We have sent
     transliteration: nabʿatha
   21:
-    arabic: رَسُوۡلًا‏
+    arabic: رَسُولٗا
     translation: a Messenger
     transliteration: rasūlan
 ---

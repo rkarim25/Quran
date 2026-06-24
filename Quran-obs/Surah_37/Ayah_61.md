@@ -1,5 +1,5 @@
 ---
-arabic_ayat: لِمِثۡلِ هٰذَا فَلۡيَعۡمَلِ الۡعٰمِلُوۡنَ‏
+arabic_ayat: لِمِثۡلِ هَٰذَا فَلۡيَعۡمَلِ ٱلۡعَٰمِلُونَ
 sentence_translation: For such ˹honour˺ all should strive.
 word_by_word:
   1:
@@ -7,7 +7,7 @@ word_by_word:
     translation: For (the) like
     transliteration: limith'li
   2:
-    arabic: هٰذَا
+    arabic: هَٰذَا
     translation: (of) this
     transliteration: hādhā
   3:
@@ -15,7 +15,7 @@ word_by_word:
     translation: let work
     transliteration: falyaʿmali
   4:
-    arabic: الۡعٰمِلُوۡنَ‏
+    arabic: ٱلۡعَٰمِلُونَ
     translation: the workers
     transliteration: l-ʿāmilūna
 ---

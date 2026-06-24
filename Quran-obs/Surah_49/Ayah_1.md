@@ -1,19 +1,19 @@
 ---
-arabic_ayat: يٰۤاَيُّهَا الَّذِيۡنَ اٰمَنُوۡا لَا تُقَدِّمُوۡا بَيۡنَ يَدَىِ اللّٰهِ
-  وَرَسُوۡلِهٖ​ وَ اتَّقُوا اللّٰهَ​ؕ اِنَّ اللّٰهَ سَمِيۡعٌ عَلِيۡمٌ‏
+arabic_ayat: يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُواْ لَا تُقَدِّمُواْ بَيۡنَ يَدَيِ ٱللَّهِ
+  وَرَسُولِهِۦۖ وَٱتَّقُواْ ٱللَّهَۚ إِنَّ ٱللَّهَ سَمِيعٌ عَلِيمٞ
 sentence_translation: O believers! Do not proceed ˹in any matter˺ before ˹a decree
   from˺ Allah and His Messenger. And fear Allah. Surely Allah is All-Hearing, All-Knowing.
 word_by_word:
   1:
-    arabic: يٰۤاَيُّهَا
+    arabic: يَٰٓأَيُّهَا
     translation: O you who believe
     transliteration: yāayyuhā
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ ءَ
     translation: O you who believe
     transliteration: alladhīna
   3:
-    arabic: اٰمَنُوۡا
+    arabic: امَنُواْ
     translation: O you who believe
     transliteration: āmanū
   4:
@@ -21,7 +21,7 @@ word_by_word:
     translation: (Do) not
     transliteration: lā
   5:
-    arabic: تُقَدِّمُوۡا
+    arabic: تُقَدِّمُواْ
     translation: 'put (yourselves) forward '
     transliteration: tuqaddimū
   6:
@@ -29,39 +29,39 @@ word_by_word:
     translation: before Allah
     transliteration: bayna
   7:
-    arabic: يَدَىِ
+    arabic: يَدَيِ
     translation: before Allah
     transliteration: yadayi
   8:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: before Allah
     transliteration: l-lahi
   9:
-    arabic: وَرَسُوۡلِهٖ​
+    arabic: وَرَسُولِهِۦۖ
     translation: and His Messenger
     transliteration: warasūlihi
   10:
-    arabic: وَ اتَّقُوا
+    arabic: وَٱتَّقُواْ
     translation: and fear Allah
     transliteration: wa-ittaqū
   11:
-    arabic: اللّٰهَ​ؕ
+    arabic: ٱللَّهَۚ
     translation: and fear Allah
     transliteration: l-laha
   12:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   13:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   14:
-    arabic: سَمِيۡعٌ
+    arabic: سَمِيعٌ
     translation: (is) All-Hearer
     transliteration: samīʿun
   15:
-    arabic: عَلِيۡمٌ‏
+    arabic: عَلِيمٞ
     translation: All-Knower
     transliteration: ʿalīmun
 ---

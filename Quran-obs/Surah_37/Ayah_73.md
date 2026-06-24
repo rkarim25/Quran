@@ -1,9 +1,9 @@
 ---
-arabic_ayat: فَانْظُرۡ كَيۡفَ كَانَ عَاقِبَةُ الۡمُنۡذَرِيۡنَۙ‏
+arabic_ayat: فَٱنظُرۡ كَيۡفَ كَانَ عَٰقِبَةُ ٱلۡمُنذَرِينَ
 sentence_translation: See then what was the end of those who had been warned.
 word_by_word:
   1:
-    arabic: فَانْظُرۡ
+    arabic: فَٱنظُرۡ
     translation: Then see
     transliteration: fa-unẓur
   2:
@@ -15,11 +15,11 @@ word_by_word:
     translation: was
     transliteration: kāna
   4:
-    arabic: عَاقِبَةُ
+    arabic: عَٰقِبَةُ
     translation: (the) end
     transliteration: ʿāqibatu
   5:
-    arabic: الۡمُنۡذَرِيۡنَۙ‏
+    arabic: ٱلۡمُنذَرِينَ
     translation: (of) those who were warned
     transliteration: l-mundharīna
 ---

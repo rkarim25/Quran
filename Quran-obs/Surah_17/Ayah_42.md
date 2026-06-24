@@ -1,12 +1,12 @@
 ---
-arabic_ayat: قُلْ لَّوۡ كَانَ مَعَهٗۤ اٰلِهَةٌ كَمَا يَقُوۡلُوۡنَ اِذًا لَّابۡتَغَوۡا
-  اِلٰى ذِى الۡعَرۡشِ سَبِيۡلًا‏
+arabic_ayat: قُل لَّوۡ كَانَ مَعَهُۥٓ ءَالِهَةٞ كَمَا يَقُولُونَ إِذٗا لَّٱبۡتَغَوۡاْ
+  إِلَىٰ ذِي ٱلۡعَرۡشِ سَبِيلٗا
 sentence_translation: Say, ˹O Prophet,˺ “Had there been other gods besides Him—as
   they claim—then they would have certainly sought a way to ˹challenge˺ the Lord of
   the Throne.”
 word_by_word:
   1:
-    arabic: قُلْ
+    arabic: قُل
     translation: Say
     transliteration: qul
   2:
@@ -18,11 +18,11 @@ word_by_word:
     translation: (there) were
     transliteration: kāna
   4:
-    arabic: مَعَهٗۤ
+    arabic: مَعَهُۥٓ ءَ
     translation: with Him
     transliteration: maʿahu
   5:
-    arabic: اٰلِهَةٌ
+    arabic: الِهَةٞ
     translation: gods
     transliteration: ālihatun
   6:
@@ -30,31 +30,31 @@ word_by_word:
     translation: as
     transliteration: kamā
   7:
-    arabic: يَقُوۡلُوۡنَ
+    arabic: يَقُولُونَ
     translation: they say
     transliteration: yaqūlūna
   8:
-    arabic: اِذًا
+    arabic: إِذٗا
     translation: then
     transliteration: idhan
   9:
-    arabic: لَّابۡتَغَوۡا
+    arabic: لَّٱبۡتَغَوۡاْ
     translation: surely they (would) have sought
     transliteration: la-ib'taghaw
   10:
-    arabic: اِلٰى
+    arabic: إِلَىٰ
     translation: to
     transliteration: ilā
   11:
-    arabic: ذِى
+    arabic: ذِي
     translation: (the) Owner
     transliteration: dhī
   12:
-    arabic: الۡعَرۡشِ
+    arabic: ٱلۡعَرۡشِ
     translation: (of) the Throne
     transliteration: l-ʿarshi
   13:
-    arabic: سَبِيۡلًا‏
+    arabic: سَبِيلٗا
     translation: a way
     transliteration: sabīlan
 ---

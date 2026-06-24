@@ -1,11 +1,10 @@
 ---
-arabic_ayat: "وَمَنۡ تَابَ وَعَمِلَ صَالِحًـا فَاِنَّهٗ يَتُوۡبُ اِلَى اللّٰهِ مَتَابًا‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: وَمَن تَابَ وَعَمِلَ صَٰلِحٗا فَإِنَّهُۥ يَتُوبُ إِلَى ٱللَّهِ مَتَابٗا
 sentence_translation: And whoever repents and does good has truly turned to Allah
   properly.
 word_by_word:
   1:
-    arabic: وَمَنۡ
+    arabic: وَمَن
     translation: And whoever
     transliteration: waman
   2:
@@ -17,27 +16,27 @@ word_by_word:
     translation: and does
     transliteration: waʿamila
   4:
-    arabic: صَالِحًـا
+    arabic: صَٰلِحٗا
     translation: righteous (deeds)
     transliteration: ṣāliḥan
   5:
-    arabic: فَاِنَّهٗ
+    arabic: فَإِنَّهُۥ
     translation: then indeed, he
     transliteration: fa-innahu
   6:
-    arabic: يَتُوۡبُ
+    arabic: يَتُوبُ
     translation: turns
     transliteration: yatūbu
   7:
-    arabic: اِلَى
+    arabic: إِلَى
     translation: to
     transliteration: ilā
   8:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   9:
-    arabic: "مَتَابًا‏ \uFEFF\uFEFF"
+    arabic: مَتَابٗا
     translation: (with) repentance
     transliteration: matāban
 ---

@@ -1,6 +1,6 @@
 ---
-arabic_ayat: وَلَا تَلۡبِسُوا الۡحَـقَّ بِالۡبَاطِلِ وَتَكۡتُمُوا الۡحَـقَّ وَاَنۡتُمۡ
-  تَعۡلَمُوۡنَ‏
+arabic_ayat: وَلَا تَلۡبِسُواْ ٱلۡحَقَّ بِٱلۡبَٰطِلِ وَتَكۡتُمُواْ ٱلۡحَقَّ وَأَنتُمۡ
+  تَعۡلَمُونَ
 sentence_translation: Do not mix truth with falsehood or hide the truth knowingly.
 word_by_word:
   1:
@@ -8,31 +8,31 @@ word_by_word:
     translation: And (do) not
     transliteration: walā
   2:
-    arabic: تَلۡبِسُوا
+    arabic: تَلۡبِسُواْ
     translation: mix
     transliteration: talbisū
   3:
-    arabic: الۡحَـقَّ
+    arabic: ٱلۡحَقَّ
     translation: the Truth
     transliteration: l-ḥaqa
   4:
-    arabic: بِالۡبَاطِلِ
+    arabic: بِٱلۡبَٰطِلِ
     translation: with [the] falsehood
     transliteration: bil-bāṭili
   5:
-    arabic: وَتَكۡتُمُوا
+    arabic: وَتَكۡتُمُواْ
     translation: and conceal
     transliteration: wataktumū
   6:
-    arabic: الۡحَـقَّ
+    arabic: ٱلۡحَقَّ
     translation: the Truth
     transliteration: l-ḥaqa
   7:
-    arabic: وَاَنۡتُمۡ
+    arabic: وَأَنتُمۡ
     translation: while you
     transliteration: wa-antum
   8:
-    arabic: تَعۡلَمُوۡنَ‏
+    arabic: تَعۡلَمُونَ
     translation: '[you] know'
     transliteration: taʿlamūna
 ---

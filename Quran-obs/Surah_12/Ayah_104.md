@@ -1,6 +1,5 @@
 ---
-arabic_ayat: "وَمَا تَسۡــَٔلُهُمۡ عَلَيۡهِ مِنۡ اَجۡرٍ​ؕ اِنۡ هُوَ اِلَّا ذِكۡرٌ\
-  \ لِّـلۡعٰلَمِيۡنَ‏ \uFEFF\uFEFF"
+arabic_ayat: وَمَا تَسۡـَٔلُهُمۡ عَلَيۡهِ مِنۡ أَجۡرٍۚ إِنۡ هُوَ إِلَّا ذِكۡرٞ لِّلۡعَٰلَمِينَ
 sentence_translation: even though you are not asking them for a reward for this ˹Quran˺.
   It is only a reminder to the whole world.
 word_by_word:
@@ -9,7 +8,7 @@ word_by_word:
     translation: And not
     transliteration: wamā
   2:
-    arabic: تَسۡــَٔلُهُمۡ
+    arabic: تَسۡـَٔلُهُمۡ
     translation: you ask them
     transliteration: tasaluhum
   3:
@@ -21,11 +20,11 @@ word_by_word:
     translation: any
     transliteration: min
   5:
-    arabic: اَجۡرٍ​ؕ
+    arabic: أَجۡرٍۚ
     translation: reward
     transliteration: ajrin
   6:
-    arabic: اِنۡ
+    arabic: إِنۡ
     translation: Not
     transliteration: in
   7:
@@ -33,15 +32,15 @@ word_by_word:
     translation: (is) it
     transliteration: huwa
   8:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: but
     transliteration: illā
   9:
-    arabic: ذِكۡرٌ
+    arabic: ذِكۡرٞ
     translation: a reminder
     transliteration: dhik'run
   10:
-    arabic: "لِّـلۡعٰلَمِيۡنَ‏ \uFEFF\uFEFF"
+    arabic: لِّلۡعَٰلَمِينَ
     translation: to the worlds
     transliteration: lil'ʿālamīna
 ---

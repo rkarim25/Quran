@@ -1,18 +1,18 @@
 ---
-arabic_ayat: ءَاَنۡتُمۡ تَخۡلُقُوۡنَهٗۤ اَمۡ نَحۡنُ الۡخٰلِقُوۡنَ‏
+arabic_ayat: ءَأَنتُمۡ تَخۡلُقُونَهُۥٓ أَمۡ نَحۡنُ ٱلۡخَٰلِقُونَ
 sentence_translation: Is it you who create ˹a child out of˺ it, or is it We Who do
   so?
 word_by_word:
   1:
-    arabic: ءَاَنۡتُمۡ
+    arabic: ءَأَنتُمۡ
     translation: Is it you
     transliteration: a-antum
   2:
-    arabic: تَخۡلُقُوۡنَهٗۤ
+    arabic: تَخۡلُقُونَهُۥٓ
     translation: who create it
     transliteration: takhluqūnahu
   3:
-    arabic: اَمۡ
+    arabic: أَمۡ
     translation: or
     transliteration: am
   4:
@@ -20,7 +20,7 @@ word_by_word:
     translation: (are) We
     transliteration: naḥnu
   5:
-    arabic: الۡخٰلِقُوۡنَ‏
+    arabic: ٱلۡخَٰلِقُونَ
     translation: the Creators
     transliteration: l-khāliqūna
 ---

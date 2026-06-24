@@ -1,34 +1,34 @@
 ---
-arabic_ayat: اَلشَّهۡرُ الۡحَـرَامُ بِالشَّهۡرِ الۡحَـرَامِ وَالۡحُرُمٰتُ قِصَاصٌ​ؕ
-  فَمَنِ اعۡتَدٰى عَلَيۡكُمۡ فَاعۡتَدُوۡا عَلَيۡهِ بِمِثۡلِ مَا اعۡتَدٰى عَلَيۡكُمۡ
-  وَاتَّقُوا اللّٰهَ وَاعۡلَمُوۡٓا اَنَّ اللّٰهَ مَعَ الۡمُتَّقِيۡنَ‏
+arabic_ayat: ٱلشَّهۡرُ ٱلۡحَرَامُ بِٱلشَّهۡرِ ٱلۡحَرَامِ وَٱلۡحُرُمَٰتُ قِصَاصٞۚ فَمَنِ
+  ٱعۡتَدَىٰ عَلَيۡكُمۡ فَٱعۡتَدُواْ عَلَيۡهِ بِمِثۡلِ مَا ٱعۡتَدَىٰ عَلَيۡكُمۡۚ وَٱتَّقُواْ
+  ٱللَّهَ وَٱعۡلَمُوٓاْ أَنَّ ٱللَّهَ مَعَ ٱلۡمُتَّقِينَ
 sentence_translation: ˹There will be retaliation in˺ a sacred month for ˹an offence
   in˺ a sacred month, and all violations will bring about retaliation. So, if anyone
   attacks you, retaliate in the same manner. ˹But˺ be mindful of Allah, and know that
   Allah is with those mindful ˹of Him˺.
 word_by_word:
   1:
-    arabic: اَلشَّهۡرُ
+    arabic: ٱلشَّهۡرُ
     translation: The month
     transliteration: al-shahru
   2:
-    arabic: الۡحَـرَامُ
+    arabic: ٱلۡحَرَامُ
     translation: '[the] sacred'
     transliteration: l-ḥarāmu
   3:
-    arabic: بِالشَّهۡرِ
+    arabic: بِٱلشَّهۡرِ
     translation: (is) for the month
     transliteration: bil-shahri
   4:
-    arabic: الۡحَـرَامِ
+    arabic: ٱلۡحَرَامِ
     translation: '[the] sacred'
     transliteration: l-ḥarāmi
   5:
-    arabic: وَالۡحُرُمٰتُ
+    arabic: وَٱلۡحُرُمَٰتُ
     translation: and for all the violations
     transliteration: wal-ḥurumātu
   6:
-    arabic: قِصَاصٌ​ؕ
+    arabic: قِصَاصٞۚ
     translation: (is) legal retribution
     transliteration: qiṣāṣun
   7:
@@ -36,7 +36,7 @@ word_by_word:
     translation: Then whoever
     transliteration: famani
   8:
-    arabic: اعۡتَدٰى
+    arabic: ٱعۡتَدَىٰ
     translation: transgressed
     transliteration: iʿ'tadā
   9:
@@ -44,7 +44,7 @@ word_by_word:
     translation: upon you
     transliteration: ʿalaykum
   10:
-    arabic: فَاعۡتَدُوۡا
+    arabic: فَٱعۡتَدُواْ
     translation: then you transgress
     transliteration: fa-iʿ'tadū
   11:
@@ -60,31 +60,31 @@ word_by_word:
     translation: (as)
     transliteration: mā
   14:
-    arabic: اعۡتَدٰى
+    arabic: ٱعۡتَدَىٰ
     translation: he transgressed
     transliteration: iʿ'tadā
   15:
-    arabic: عَلَيۡكُمۡ
+    arabic: عَلَيۡكُمۡۚ
     translation: upon you
     transliteration: ʿalaykum
   16:
-    arabic: وَاتَّقُوا
+    arabic: وَٱتَّقُواْ
     translation: And fear
     transliteration: wa-ittaqū
   17:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   18:
-    arabic: وَاعۡلَمُوۡٓا
+    arabic: وَٱعۡلَمُوٓاْ
     translation: and know
     transliteration: wa-iʿ'lamū
   19:
-    arabic: اَنَّ
+    arabic: أَنَّ
     translation: that
     transliteration: anna
   20:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   21:
@@ -92,7 +92,7 @@ word_by_word:
     translation: (is) with
     transliteration: maʿa
   22:
-    arabic: الۡمُتَّقِيۡنَ‏
+    arabic: ٱلۡمُتَّقِينَ
     translation: those who fear (Him)
     transliteration: l-mutaqīna
 ---

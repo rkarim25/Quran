@@ -1,23 +1,23 @@
 ---
-arabic_ayat: "وَلِلّٰهِ جُنُوۡدُ السَّمٰوٰتِ وَالۡاَرۡضِ​ؕ وَكَانَ اللّٰهُ عَزِيۡزًا\
-  \ حَكِيۡمًا‏ \uFEFF\uFEFF"
+arabic_ayat: وَلِلَّهِ جُنُودُ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِۚ وَكَانَ ٱللَّهُ عَزِيزًا
+  حَكِيمًا
 sentence_translation: To Allah ˹alone˺ belong the forces of the heavens and the earth.
   And Allah is Almighty, All-Wise.
 word_by_word:
   1:
-    arabic: وَلِلّٰهِ
+    arabic: وَلِلَّهِ
     translation: And for Allah
     transliteration: walillahi
   2:
-    arabic: جُنُوۡدُ
+    arabic: جُنُودُ
     translation: (are the) hosts
     transliteration: junūdu
   3:
-    arabic: السَّمٰوٰتِ
+    arabic: ٱلسَّمَٰوَٰتِ
     translation: (of) the heavens
     transliteration: l-samāwāti
   4:
-    arabic: وَالۡاَرۡضِ​ؕ
+    arabic: وَٱلۡأَرۡضِۚ
     translation: and the earth
     transliteration: wal-arḍi
   5:
@@ -25,15 +25,15 @@ word_by_word:
     translation: and Allah
     transliteration: wakāna
   6:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: and Allah
     transliteration: l-lahu
   7:
-    arabic: عَزِيۡزًا
+    arabic: عَزِيزًا
     translation: (is) All-Mighty
     transliteration: ʿazīzan
   8:
-    arabic: "حَكِيۡمًا‏ \uFEFF\uFEFF"
+    arabic: حَكِيمًا
     translation: All-Wise
     transliteration: ḥakīman
 ---

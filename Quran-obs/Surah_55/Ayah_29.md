@@ -1,27 +1,27 @@
 ---
-arabic_ayat: "يَسۡـَٔـلُهٗ مَنۡ فِى السَّمٰوٰتِ وَالۡاَرۡضِ​ؕ كُلَّ يَوۡمٍ هُوَ فِىۡ\
-  \ شَاۡنٍ​ۚ‏ \uFEFF\uFEFF"
+arabic_ayat: يَسۡـَٔلُهُۥ مَن فِي ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِۚ كُلَّ يَوۡمٍ هُوَ فِي
+  شَأۡنٖ
 sentence_translation: All those in the heavens and the earth are dependent on Him.
   Day in and day out He has something to bring about.
 word_by_word:
   1:
-    arabic: يَسۡـَٔـلُهٗ
+    arabic: يَسۡـَٔلُهُۥ
     translation: Asks Him
     transliteration: yasaluhu
   2:
-    arabic: مَنۡ
+    arabic: مَن
     translation: whoever
     transliteration: man
   3:
-    arabic: فِى
+    arabic: فِي
     translation: (is) in
     transliteration: fī
   4:
-    arabic: السَّمٰوٰتِ
+    arabic: ٱلسَّمَٰوَٰتِ
     translation: the heavens
     transliteration: l-samāwāti
   5:
-    arabic: وَالۡاَرۡضِ​ؕ
+    arabic: وَٱلۡأَرۡضِۚ
     translation: and the earth
     transliteration: wal-arḍi
   6:
@@ -37,11 +37,11 @@ word_by_word:
     translation: He
     transliteration: huwa
   9:
-    arabic: فِىۡ
+    arabic: فِي
     translation: (is) in
     transliteration: fī
   10:
-    arabic: "شَاۡنٍ​ۚ‏ \uFEFF\uFEFF"
+    arabic: شَأۡنٖ
     translation: a matter
     transliteration: shanin
 ---

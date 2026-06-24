@@ -1,23 +1,23 @@
 ---
-arabic_ayat: اِنَّ الَّذِيۡنَ يَكۡتُمُوۡنَ مَآ اَنۡزَلَ اللّٰهُ مِنَ الۡکِتٰبِ وَ
-  يَشۡتَرُوۡنَ بِهٖ ثَمَنًا قَلِيۡلًا ۙ اُولٰٓٮِٕكَ مَا يَاۡكُلُوۡنَ فِىۡ بُطُوۡنِهِمۡ
-  اِلَّا النَّارَ وَلَا يُکَلِّمُهُمُ اللّٰهُ يَوۡمَ الۡقِيٰمَةِ وَلَا يُزَکِّيۡهِمۡ
-  ۖۚ وَلَهُمۡ عَذَابٌ اَ لِيۡمٌ‏
+arabic_ayat: إِنَّ ٱلَّذِينَ يَكۡتُمُونَ مَآ أَنزَلَ ٱللَّهُ مِنَ ٱلۡكِتَٰبِ وَيَشۡتَرُونَ
+  بِهِۦ ثَمَنٗا قَلِيلًا أُوْلَٰٓئِكَ مَا يَأۡكُلُونَ فِي بُطُونِهِمۡ إِلَّا ٱلنَّارَ
+  وَلَا يُكَلِّمُهُمُ ٱللَّهُ يَوۡمَ ٱلۡقِيَٰمَةِ وَلَا يُزَكِّيهِمۡ وَلَهُمۡ عَذَابٌ
+  أَلِيمٌ
 sentence_translation: Indeed, those who hide Allah’s revelations, trading them for
   a fleeting gain consume nothing but fire into their bellies. Allah will neither
   speak to them on the Day of Judgment, nor will He purify them. And they will suffer
   a painful punishment.
 word_by_word:
   1:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   3:
-    arabic: يَكۡتُمُوۡنَ
+    arabic: يَكۡتُمُونَ
     translation: conceal
     transliteration: yaktumūna
   4:
@@ -25,11 +25,11 @@ word_by_word:
     translation: what
     transliteration: mā
   5:
-    arabic: اَنۡزَلَ
+    arabic: أَنزَلَ
     translation: (has) revealed
     transliteration: anzala
   6:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah (has)
     transliteration: l-lahu
   7:
@@ -37,27 +37,27 @@ word_by_word:
     translation: of
     transliteration: mina
   8:
-    arabic: الۡکِتٰبِ
+    arabic: ٱلۡكِتَٰبِ
     translation: the Book
     transliteration: l-kitābi
   9:
-    arabic: وَ يَشۡتَرُوۡنَ
+    arabic: وَيَشۡتَرُونَ
     translation: and they purchase
     transliteration: wayashtarūna
   10:
-    arabic: بِهٖ
+    arabic: بِهِۦ
     translation: there with
     transliteration: bihi
   11:
-    arabic: ثَمَنًا
+    arabic: ثَمَنٗا
     translation: a gain
     transliteration: thamanan
   12:
-    arabic: قَلِيۡلًا ۙ
+    arabic: قَلِيلًا
     translation: little
     transliteration: qalīlan
   13:
-    arabic: اُولٰٓٮِٕكَ
+    arabic: أُوْلَٰٓئِكَ
     translation: Those
     transliteration: ulāika
   14:
@@ -65,23 +65,23 @@ word_by_word:
     translation: not
     transliteration: mā
   15:
-    arabic: يَاۡكُلُوۡنَ
+    arabic: يَأۡكُلُونَ
     translation: they eat
     transliteration: yakulūna
   16:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   17:
-    arabic: بُطُوۡنِهِمۡ
+    arabic: بُطُونِهِمۡ
     translation: their bellies
     transliteration: buṭūnihim
   18:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   19:
-    arabic: النَّارَ
+    arabic: ٱلنَّارَ
     translation: the Fire
     transliteration: l-nāra
   20:
@@ -89,11 +89,11 @@ word_by_word:
     translation: And not
     transliteration: walā
   21:
-    arabic: يُکَلِّمُهُمُ
+    arabic: يُكَلِّمُهُمُ
     translation: will speak to them
     transliteration: yukallimuhumu
   22:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   23:
@@ -101,7 +101,7 @@ word_by_word:
     translation: (on the) Day
     transliteration: yawma
   24:
-    arabic: الۡقِيٰمَةِ
+    arabic: ٱلۡقِيَٰمَةِ
     translation: (of) [the] Judgment
     transliteration: l-qiyāmati
   25:
@@ -109,7 +109,7 @@ word_by_word:
     translation: and not
     transliteration: walā
   26:
-    arabic: يُزَکِّيۡهِمۡ ۖۚ
+    arabic: يُزَكِّيهِمۡ
     translation: will He purify them
     transliteration: yuzakkīhim
   27:
@@ -121,7 +121,7 @@ word_by_word:
     translation: (is) a punishment
     transliteration: ʿadhābun
   29:
-    arabic: اَ لِيۡمٌ‏
+    arabic: أَلِيمٌ
     translation: painful
     transliteration: alīmun
 ---

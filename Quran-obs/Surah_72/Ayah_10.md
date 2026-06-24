@@ -1,11 +1,11 @@
 ---
-arabic_ayat: وَّاَنَّا لَا نَدۡرِىۡۤ اَشَرٌّ اُرِيۡدَ بِمَنۡ فِى الۡاَرۡضِ اَمۡ اَرَادَ
-  بِهِمۡ رَبُّهُمۡ رَشَدًا ۙ‏
+arabic_ayat: وَأَنَّا لَا نَدۡرِيٓ أَشَرٌّ أُرِيدَ بِمَن فِي ٱلۡأَرۡضِ أَمۡ أَرَادَ
+  بِهِمۡ رَبُّهُمۡ رَشَدٗا
 sentence_translation: Now, we have no clue whether evil is intended for those on earth,
   or their Lord intends for them what is right.
 word_by_word:
   1:
-    arabic: وَّاَنَّا
+    arabic: وَأَنَّا
     translation: 'And that we '
     transliteration: wa-annā
   2:
@@ -13,35 +13,35 @@ word_by_word:
     translation: not
     transliteration: lā
   3:
-    arabic: نَدۡرِىۡۤ
+    arabic: نَدۡرِيٓ
     translation: we know
     transliteration: nadrī
   4:
-    arabic: اَشَرٌّ
+    arabic: أَشَرٌّ
     translation: whether evil
     transliteration: asharrun
   5:
-    arabic: اُرِيۡدَ
+    arabic: أُرِيدَ
     translation: is intended
     transliteration: urīda
   6:
-    arabic: بِمَنۡ
+    arabic: بِمَن
     translation: for (those) who
     transliteration: biman
   7:
-    arabic: فِى
+    arabic: فِي
     translation: (are) in
     transliteration: fī
   8:
-    arabic: الۡاَرۡضِ
+    arabic: ٱلۡأَرۡضِ
     translation: the earth
     transliteration: l-arḍi
   9:
-    arabic: اَمۡ
+    arabic: أَمۡ
     translation: or
     transliteration: am
   10:
-    arabic: اَرَادَ
+    arabic: أَرَادَ
     translation: intends
     transliteration: arāda
   11:
@@ -53,7 +53,7 @@ word_by_word:
     translation: their Lord
     transliteration: rabbuhum
   13:
-    arabic: رَشَدًا ۙ‏
+    arabic: رَشَدٗا
     translation: a right path
     transliteration: rashadan
 ---

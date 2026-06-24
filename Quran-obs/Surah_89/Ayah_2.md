@@ -1,5 +1,5 @@
 ---
-arabic_ayat: وَلَيَالٍ عَشۡرٍۙ‏
+arabic_ayat: وَلَيَالٍ عَشۡرٖ
 sentence_translation: and the ten nights,
 word_by_word:
   1:
@@ -7,7 +7,7 @@ word_by_word:
     translation: And the nights
     transliteration: walayālin
   2:
-    arabic: عَشۡرٍۙ‏
+    arabic: عَشۡرٖ
     translation: ten
     transliteration: ʿashrin
 ---

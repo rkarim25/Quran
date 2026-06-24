@@ -1,13 +1,13 @@
 ---
-arabic_ayat: اِذۡ جَآءَتۡهُمُ الرُّسُلُ مِنۡۢ بَيۡنِ اَيۡدِيۡهِمۡ وَمِنۡ خَلۡفِهِمۡ
-  اَلَّا تَعۡبُدُوۡۤا اِلَّا اللّٰهَ​ؕ قَالُوۡا لَوۡ شَآءَ رَبُّنَا لَاَنۡزَلَ مَلٰٓٮِٕكَةً
-  فَاِنَّا بِمَاۤ اُرۡسِلۡتُمۡ بِهٖ كٰفِرُوۡنَ‏
+arabic_ayat: إِذۡ جَآءَتۡهُمُ ٱلرُّسُلُ مِنۢ بَيۡنِ أَيۡدِيهِمۡ وَمِنۡ خَلۡفِهِمۡ
+  أَلَّا تَعۡبُدُوٓاْ إِلَّا ٱللَّهَۖ قَالُواْ لَوۡ شَآءَ رَبُّنَا لَأَنزَلَ مَلَٰٓئِكَةٗ
+  فَإِنَّا بِمَآ أُرۡسِلۡتُم بِهِۦ كَٰفِرُونَ
 sentence_translation: The messengers had come to them from all angles, ˹proclaiming,˺
   “Worship none but Allah.” They responded, “Had our Lord willed, He could have easily
   sent down angels ˹instead˺. So we totally reject what you have been sent with.”
 word_by_word:
   1:
-    arabic: اِذۡ
+    arabic: إِذۡ
     translation: When
     transliteration: idh
   2:
@@ -15,11 +15,11 @@ word_by_word:
     translation: came to them
     transliteration: jāathumu
   3:
-    arabic: الرُّسُلُ
+    arabic: ٱلرُّسُلُ
     translation: the Messengers
     transliteration: l-rusulu
   4:
-    arabic: مِنۡۢ
+    arabic: مِنۢ
     translation: from before them
     transliteration: min
   5:
@@ -27,7 +27,7 @@ word_by_word:
     translation: from before them
     transliteration: bayni
   6:
-    arabic: اَيۡدِيۡهِمۡ
+    arabic: أَيۡدِيهِمۡ
     translation: from before them
     transliteration: aydīhim
   7:
@@ -39,23 +39,23 @@ word_by_word:
     translation: behind them
     transliteration: khalfihim
   9:
-    arabic: اَلَّا
+    arabic: أَلَّا
     translation: (saying) "Do not
     transliteration: allā
   10:
-    arabic: تَعۡبُدُوۡۤا
+    arabic: تَعۡبُدُوٓاْ
     translation: worship
     transliteration: taʿbudū
   11:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   12:
-    arabic: اللّٰهَ​ؕ
+    arabic: ٱللَّهَۖ
     translation: Allah
     transliteration: l-laha
   13:
-    arabic: قَالُوۡا
+    arabic: قَالُواْ
     translation: They said
     transliteration: qālū
   14:
@@ -71,31 +71,31 @@ word_by_word:
     translation: our Lord
     transliteration: rabbunā
   17:
-    arabic: لَاَنۡزَلَ
+    arabic: لَأَنزَلَ
     translation: surely, He (would have) sent down
     transliteration: la-anzala
   18:
-    arabic: مَلٰٓٮِٕكَةً
+    arabic: مَلَٰٓئِكَةٗ
     translation: Angels
     transliteration: malāikatan
   19:
-    arabic: فَاِنَّا
+    arabic: فَإِنَّا
     translation: So indeed, we
     transliteration: fa-innā
   20:
-    arabic: بِمَاۤ
+    arabic: بِمَآ
     translation: in what
     transliteration: bimā
   21:
-    arabic: اُرۡسِلۡتُمۡ
+    arabic: أُرۡسِلۡتُم
     translation: you have been sent
     transliteration: ur'sil'tum
   22:
-    arabic: بِهٖ
+    arabic: بِهِۦ
     translation: with
     transliteration: bihi
   23:
-    arabic: كٰفِرُوۡنَ‏
+    arabic: كَٰفِرُونَ
     translation: (are) disbelievers
     transliteration: kāfirūna
 ---

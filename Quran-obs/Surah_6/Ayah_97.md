@@ -1,6 +1,6 @@
 ---
-arabic_ayat: وَهُوَ الَّذِىۡ جَعَلَ لَـكُمُ النُّجُوۡمَ لِتَهۡتَدُوۡا بِهَا فِىۡ ظُلُمٰتِ
-  الۡبَرِّ وَالۡبَحۡرِ​ؕ قَدۡ فَصَّلۡنَا الۡاٰيٰتِ لِقَوۡمٍ يَّعۡلَمُوۡنَ‏
+arabic_ayat: وَهُوَ ٱلَّذِي جَعَلَ لَكُمُ ٱلنُّجُومَ لِتَهۡتَدُواْ بِهَا فِي ظُلُمَٰتِ
+  ٱلۡبَرِّ وَٱلۡبَحۡرِۗ قَدۡ فَصَّلۡنَا ٱلۡأٓيَٰتِ لِقَوۡمٖ يَعۡلَمُونَ
 sentence_translation: And He is the One Who has made the stars as your guide through
   the darkness of land and sea. We have already made the signs clear for people who
   know.
@@ -10,7 +10,7 @@ word_by_word:
     translation: And He
     transliteration: wahuwa
   2:
-    arabic: الَّذِىۡ
+    arabic: ٱلَّذِي
     translation: (is) the One Who
     transliteration: alladhī
   3:
@@ -18,15 +18,15 @@ word_by_word:
     translation: made
     transliteration: jaʿala
   4:
-    arabic: لَـكُمُ
+    arabic: لَكُمُ
     translation: for you
     transliteration: lakumu
   5:
-    arabic: النُّجُوۡمَ
+    arabic: ٱلنُّجُومَ
     translation: the stars
     transliteration: l-nujūma
   6:
-    arabic: لِتَهۡتَدُوۡا
+    arabic: لِتَهۡتَدُواْ
     translation: that you may guide yourselves
     transliteration: litahtadū
   7:
@@ -34,19 +34,19 @@ word_by_word:
     translation: with them
     transliteration: bihā
   8:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   9:
-    arabic: ظُلُمٰتِ
+    arabic: ظُلُمَٰتِ
     translation: the darkness[es]
     transliteration: ẓulumāti
   10:
-    arabic: الۡبَرِّ
+    arabic: ٱلۡبَرِّ
     translation: (of) the land
     transliteration: l-bari
   11:
-    arabic: وَالۡبَحۡرِ​ؕ
+    arabic: وَٱلۡبَحۡرِۗ
     translation: and the sea
     transliteration: wal-baḥri
   12:
@@ -58,15 +58,15 @@ word_by_word:
     translation: We have made clear
     transliteration: faṣṣalnā
   14:
-    arabic: الۡاٰيٰتِ
+    arabic: ٱلۡأٓيَٰتِ
     translation: the Signs
     transliteration: l-āyāti
   15:
-    arabic: لِقَوۡمٍ
+    arabic: لِقَوۡمٖ
     translation: for a people
     transliteration: liqawmin
   16:
-    arabic: يَّعۡلَمُوۡنَ‏
+    arabic: يَعۡلَمُونَ
     translation: (who) know
     transliteration: yaʿlamūna
 ---

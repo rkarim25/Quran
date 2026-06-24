@@ -1,14 +1,13 @@
 ---
-arabic_ayat: "وَاِسۡمٰعِيۡلَ وَاِدۡرِيۡسَ وَذَا الۡكِفۡلِ​ؕ كُلٌّ مِّنَ الصّٰبِرِيۡنَ​\
-  \ ۖ​ۚ‏ \uFEFF\uFEFF"
+arabic_ayat: وَإِسۡمَٰعِيلَ وَإِدۡرِيسَ وَذَا ٱلۡكِفۡلِۖ كُلّٞ مِّنَ ٱلصَّٰبِرِينَ
 sentence_translation: And ˹remember˺ Ishmael, Enoch, and Ⱬul-Kifl. They were all steadfast.
 word_by_word:
   1:
-    arabic: وَاِسۡمٰعِيۡلَ
+    arabic: وَإِسۡمَٰعِيلَ
     translation: And Ishmael
     transliteration: wa-is'māʿīla
   2:
-    arabic: وَاِدۡرِيۡسَ
+    arabic: وَإِدۡرِيسَ
     translation: and Idris
     transliteration: wa-id'rīsa
   3:
@@ -16,11 +15,11 @@ word_by_word:
     translation: and Dhul-Kifl
     transliteration: wadhā
   4:
-    arabic: الۡكِفۡلِ​ؕ
+    arabic: ٱلۡكِفۡلِۖ
     translation: and Dhul-Kifl
     transliteration: l-kif'li
   5:
-    arabic: كُلٌّ
+    arabic: كُلّٞ
     translation: all
     transliteration: kullun
   6:
@@ -28,7 +27,7 @@ word_by_word:
     translation: (were) of
     transliteration: mina
   7:
-    arabic: "الصّٰبِرِيۡنَ​ ۖ​ۚ‏ \uFEFF\uFEFF"
+    arabic: ٱلصَّٰبِرِينَ
     translation: the patient ones
     transliteration: l-ṣābirīna
 ---

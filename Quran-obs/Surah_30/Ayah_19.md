@@ -1,6 +1,6 @@
 ---
-arabic_ayat: يُخۡرِجُ الۡحَـىَّ مِنَ الۡمَيِّتِ وَيُخۡرِجُ الۡمَيِّتَ مِنَ الۡحَـىِّ
-  وَيُحۡىِ الۡاَرۡضَ بَعۡدَ مَوۡتِهَا ​ؕ وَكَذٰلِكَ تُخۡرَجُوۡنَ‏
+arabic_ayat: يُخۡرِجُ ٱلۡحَيَّ مِنَ ٱلۡمَيِّتِ وَيُخۡرِجُ ٱلۡمَيِّتَ مِنَ ٱلۡحَيِّ
+  وَيُحۡيِ ٱلۡأَرۡضَ بَعۡدَ مَوۡتِهَاۚ وَكَذَٰلِكَ تُخۡرَجُونَ
 sentence_translation: He brings forth the living from the dead and the dead from the
   living. And He gives life to the earth after its death. And so will you be brought
   forth ˹from the grave˺.
@@ -10,7 +10,7 @@ word_by_word:
     translation: He brings forth
     transliteration: yukh'riju
   2:
-    arabic: الۡحَـىَّ
+    arabic: ٱلۡحَيَّ
     translation: the living
     transliteration: l-ḥaya
   3:
@@ -18,7 +18,7 @@ word_by_word:
     translation: from
     transliteration: mina
   4:
-    arabic: الۡمَيِّتِ
+    arabic: ٱلۡمَيِّتِ
     translation: the dead
     transliteration: l-mayiti
   5:
@@ -26,7 +26,7 @@ word_by_word:
     translation: and He brings forth
     transliteration: wayukh'riju
   6:
-    arabic: الۡمَيِّتَ
+    arabic: ٱلۡمَيِّتَ
     translation: the dead
     transliteration: l-mayita
   7:
@@ -34,15 +34,15 @@ word_by_word:
     translation: from
     transliteration: mina
   8:
-    arabic: الۡحَـىِّ
+    arabic: ٱلۡحَيِّ
     translation: the living
     transliteration: l-ḥayi
   9:
-    arabic: وَيُحۡىِ
+    arabic: وَيُحۡيِ
     translation: and He gives life
     transliteration: wayuḥ'yī
   10:
-    arabic: الۡاَرۡضَ
+    arabic: ٱلۡأَرۡضَ
     translation: (to) the earth
     transliteration: l-arḍa
   11:
@@ -50,15 +50,15 @@ word_by_word:
     translation: after
     transliteration: baʿda
   12:
-    arabic: مَوۡتِهَا ​ؕ
+    arabic: مَوۡتِهَاۚ
     translation: its death
     transliteration: mawtihā
   13:
-    arabic: وَكَذٰلِكَ
+    arabic: وَكَذَٰلِكَ
     translation: and thus
     transliteration: wakadhālika
   14:
-    arabic: تُخۡرَجُوۡنَ‏
+    arabic: تُخۡرَجُونَ
     translation: you will be brought forth
     transliteration: tukh'rajūna
 ---

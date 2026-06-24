@@ -1,14 +1,14 @@
 ---
-arabic_ayat: خٰلِدِيۡنَ فِيۡهَا​ ؕ حَسُنَتۡ مُسۡتَقَرًّا وَّمُقَامًا‏
+arabic_ayat: خَٰلِدِينَ فِيهَاۚ حَسُنَتۡ مُسۡتَقَرّٗا وَمُقَامٗا
 sentence_translation: staying there forever. What an excellent place to settle and
   reside!
 word_by_word:
   1:
-    arabic: خٰلِدِيۡنَ
+    arabic: خَٰلِدِينَ
     translation: Will abide forever
     transliteration: khālidīna
   2:
-    arabic: فِيۡهَا​ ؕ
+    arabic: فِيهَاۚ
     translation: in it
     transliteration: fīhā
   3:
@@ -16,11 +16,11 @@ word_by_word:
     translation: Good
     transliteration: ḥasunat
   4:
-    arabic: مُسۡتَقَرًّا
+    arabic: مُسۡتَقَرّٗا
     translation: (is) the settlement
     transliteration: mus'taqarran
   5:
-    arabic: وَّمُقَامًا‏
+    arabic: وَمُقَامٗا
     translation: and a resting place
     transliteration: wamuqāman
 ---

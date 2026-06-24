@@ -1,23 +1,23 @@
 ---
-arabic_ayat: فَكَيۡـفَ اِذَا جِئۡـنَا مِنۡ كُلِّ اُمَّةٍ ۭ بِشَهِيۡدٍ وَّجِئۡـنَا
-  بِكَ عَلٰى هٰٓؤُلَاۤءِ شَهِيۡدًا ؕ‏
+arabic_ayat: فَكَيۡفَ إِذَا جِئۡنَا مِن كُلِّ أُمَّةِۭ بِشَهِيدٖ وَجِئۡنَا بِكَ عَلَىٰ
+  هَٰٓؤُلَآءِ شَهِيدٗا
 sentence_translation: So how will it be when We bring a witness from every faith-community
   and bring you ˹O Prophet˺ as a witness against yours?
 word_by_word:
   1:
-    arabic: فَكَيۡـفَ
+    arabic: فَكَيۡفَ
     translation: So how (will it be)
     transliteration: fakayfa
   2:
-    arabic: اِذَا
+    arabic: إِذَا
     translation: when
     transliteration: idhā
   3:
-    arabic: جِئۡـنَا
+    arabic: جِئۡنَا
     translation: We bring
     transliteration: ji'nā
   4:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   5:
@@ -25,15 +25,15 @@ word_by_word:
     translation: every
     transliteration: kulli
   6:
-    arabic: اُمَّةٍ ۭ
+    arabic: أُمَّةِۭ
     translation: nation
     transliteration: ummatin
   7:
-    arabic: بِشَهِيۡدٍ
+    arabic: بِشَهِيدٖ
     translation: a witness
     transliteration: bishahīdin
   8:
-    arabic: وَّجِئۡـنَا
+    arabic: وَجِئۡنَا
     translation: and We bring
     transliteration: waji'nā
   9:
@@ -41,15 +41,15 @@ word_by_word:
     translation: you
     transliteration: bika
   10:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: against
     transliteration: ʿalā
   11:
-    arabic: هٰٓؤُلَاۤءِ
+    arabic: هَٰٓؤُلَآءِ
     translation: these (people)
     transliteration: hāulāi
   12:
-    arabic: شَهِيۡدًا ؕ‏
+    arabic: شَهِيدٗا
     translation: (as) a witness
     transliteration: shahīdan
 ---

@@ -1,21 +1,21 @@
 ---
-arabic_ayat: اِنِّىۡ لَـكُمۡ رَسُوۡلٌ اَمِيۡنٌۙ‏
+arabic_ayat: إِنِّي لَكُمۡ رَسُولٌ أَمِينٞ
 sentence_translation: I am truly a trustworthy messenger to you.
 word_by_word:
   1:
-    arabic: اِنِّىۡ
+    arabic: إِنِّي
     translation: Indeed, I am
     transliteration: innī
   2:
-    arabic: لَـكُمۡ
+    arabic: لَكُمۡ
     translation: to you
     transliteration: lakum
   3:
-    arabic: رَسُوۡلٌ
+    arabic: رَسُولٌ
     translation: a Messenger
     transliteration: rasūlun
   4:
-    arabic: اَمِيۡنٌۙ‏
+    arabic: أَمِينٞ
     translation: trustworthy
     transliteration: amīnun
 ---

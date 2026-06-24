@@ -1,5 +1,5 @@
 ---
-arabic_ayat: خَلَقَ الۡاِنۡسَانَ مِنۡ نُّـطۡفَةٍ فَاِذَا هُوَ خَصِيۡمٌ مُّبِيۡنٌ‏
+arabic_ayat: خَلَقَ ٱلۡإِنسَٰنَ مِن نُّطۡفَةٖ فَإِذَا هُوَ خَصِيمٞ مُّبِينٞ
 sentence_translation: He created humans from a sperm-drop, then—behold!—they openly
   challenge ˹Him˺.
 word_by_word:
@@ -8,19 +8,19 @@ word_by_word:
     translation: He created
     transliteration: khalaqa
   2:
-    arabic: الۡاِنۡسَانَ
+    arabic: ٱلۡإِنسَٰنَ
     translation: the human kind
     transliteration: l-insāna
   3:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   4:
-    arabic: نُّـطۡفَةٍ
+    arabic: نُّطۡفَةٖ
     translation: a minute quantity of semen
     transliteration: nuṭ'fatin
   5:
-    arabic: فَاِذَا
+    arabic: فَإِذَا
     translation: then behold
     transliteration: fa-idhā
   6:
@@ -28,11 +28,11 @@ word_by_word:
     translation: he
     transliteration: huwa
   7:
-    arabic: خَصِيۡمٌ
+    arabic: خَصِيمٞ
     translation: (is) an opponent
     transliteration: khaṣīmun
   8:
-    arabic: مُّبِيۡنٌ‏
+    arabic: مُّبِينٞ
     translation: clear
     transliteration: mubīnun
 ---

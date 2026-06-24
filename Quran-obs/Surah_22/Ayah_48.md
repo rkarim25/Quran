@@ -1,15 +1,15 @@
 ---
-arabic_ayat: وَكَاَيِّنۡ مِّنۡ قَرۡيَةٍ اَمۡلَيۡتُ لَهَا وَهِىَ ظَالِمَةٌ ثُمَّ اَخَذۡتُهَا​ۚ
-  وَاِلَىَّ الۡمَصِيۡرُ‏
+arabic_ayat: وَكَأَيِّن مِّن قَرۡيَةٍ أَمۡلَيۡتُ لَهَا وَهِيَ ظَالِمَةٞ ثُمَّ أَخَذۡتُهَا
+  وَإِلَيَّ ٱلۡمَصِيرُ
 sentence_translation: Many are the societies whose end We delayed while they did wrong,
   then seized them. And to Me is the final return.
 word_by_word:
   1:
-    arabic: وَكَاَيِّنۡ
+    arabic: وَكَأَيِّن
     translation: And how many
     transliteration: waka-ayyin
   2:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: of
     transliteration: min
   3:
@@ -17,7 +17,7 @@ word_by_word:
     translation: a township
     transliteration: qaryatin
   4:
-    arabic: اَمۡلَيۡتُ
+    arabic: أَمۡلَيۡتُ
     translation: I gave respite
     transliteration: amlaytu
   5:
@@ -25,11 +25,11 @@ word_by_word:
     translation: to it
     transliteration: lahā
   6:
-    arabic: وَهِىَ
+    arabic: وَهِيَ
     translation: while it
     transliteration: wahiya
   7:
-    arabic: ظَالِمَةٌ
+    arabic: ظَالِمَةٞ
     translation: (was) doing wrong
     transliteration: ẓālimatun
   8:
@@ -37,15 +37,15 @@ word_by_word:
     translation: Then
     transliteration: thumma
   9:
-    arabic: اَخَذۡتُهَا​ۚ
+    arabic: أَخَذۡتُهَا
     translation: I seized it
     transliteration: akhadhtuhā
   10:
-    arabic: وَاِلَىَّ
+    arabic: وَإِلَيَّ
     translation: and to Me
     transliteration: wa-ilayya
   11:
-    arabic: الۡمَصِيۡرُ‏
+    arabic: ٱلۡمَصِيرُ
     translation: (is) the destination
     transliteration: l-maṣīru
 ---

@@ -1,11 +1,11 @@
 ---
-arabic_ayat: "وَقَالُوۡا لَوۡ كُنَّا نَسۡمَعُ اَوۡ نَعۡقِلُ مَا كُنَّا فِىۡۤ اَصۡحٰبِ\
-  \ السَّعِيۡرِ‏ \uFEFF\uFEFF"
+arabic_ayat: وَقَالُواْ لَوۡ كُنَّا نَسۡمَعُ أَوۡ نَعۡقِلُ مَا كُنَّا فِيٓ أَصۡحَٰبِ
+  ٱلسَّعِيرِ
 sentence_translation: And they will lament, “If only we had listened and reasoned,
   we would not be among the residents of the Blaze!”
 word_by_word:
   1:
-    arabic: وَقَالُوۡا
+    arabic: وَقَالُواْ
     translation: And they will say
     transliteration: waqālū
   2:
@@ -21,7 +21,7 @@ word_by_word:
     translation: listened
     transliteration: nasmaʿu
   5:
-    arabic: اَوۡ
+    arabic: أَوۡ
     translation: or
     transliteration: aw
   6:
@@ -37,15 +37,15 @@ word_by_word:
     translation: we (would) have been
     transliteration: kunnā
   9:
-    arabic: فِىۡۤ
+    arabic: فِيٓ
     translation: among
     transliteration: fī
   10:
-    arabic: اَصۡحٰبِ
+    arabic: أَصۡحَٰبِ
     translation: (the) companions
     transliteration: aṣḥābi
   11:
-    arabic: "السَّعِيۡرِ‏ \uFEFF\uFEFF"
+    arabic: ٱلسَّعِيرِ
     translation: (of) the Blaze
     transliteration: l-saʿīri
 ---

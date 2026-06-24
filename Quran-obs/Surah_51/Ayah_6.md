@@ -1,17 +1,17 @@
 ---
-arabic_ayat: وَّاِنَّ الدِّيۡنَ لوَاقِعٌ ؕ‏
+arabic_ayat: وَإِنَّ ٱلدِّينَ لَوَٰقِعٞ
 sentence_translation: And the Judgment will certainly come to pass.
 word_by_word:
   1:
-    arabic: وَّاِنَّ
+    arabic: وَإِنَّ
     translation: And indeed
     transliteration: wa-inna
   2:
-    arabic: الدِّيۡنَ
+    arabic: ٱلدِّينَ
     translation: the Judgment
     transliteration: l-dīna
   3:
-    arabic: لوَاقِعٌ ؕ‏
+    arabic: لَوَٰقِعٞ
     translation: (is) surely to occur
     transliteration: lawāqiʿun
 ---

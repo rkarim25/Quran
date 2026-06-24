@@ -1,59 +1,59 @@
 ---
-arabic_ayat: اَمۡ تَقُوۡلُوۡنَ اِنَّ اِبۡرٰهٖمَ وَاِسۡمٰعِيۡلَ وَاِسۡحٰقَ وَيَعۡقُوۡبَ
-  وَالۡاَسۡبَاطَ كَانُوۡا هُوۡدًا اَوۡ نَصٰرٰى​ؕ قُلۡ ءَاَنۡـتُمۡ اَعۡلَمُ اَمِ اللّٰهُ​
-  ؕ وَمَنۡ اَظۡلَمُ مِمَّنۡ كَتَمَ شَهَادَةً عِنۡدَهٗ مِنَ اللّٰهِ​ؕ وَمَا اللّٰهُ
-  بِغَافِلٍ عَمَّا تَعۡمَلُوۡنَ‏
+arabic_ayat: أَمۡ تَقُولُونَ إِنَّ إِبۡرَٰهِـۧمَ وَإِسۡمَٰعِيلَ وَإِسۡحَٰقَ وَيَعۡقُوبَ
+  وَٱلۡأَسۡبَاطَ كَانُواْ هُودًا أَوۡ نَصَٰرَىٰۗ قُلۡ ءَأَنتُمۡ أَعۡلَمُ أَمِ ٱللَّهُۗ
+  وَمَنۡ أَظۡلَمُ مِمَّن كَتَمَ شَهَٰدَةً عِندَهُۥ مِنَ ٱللَّهِۗ وَمَا ٱللَّهُ بِغَٰفِلٍ
+  عَمَّا تَعۡمَلُونَ
 sentence_translation: 'Do you claim that Abraham, Ishmael, Isaac, Jacob, and his descendants
   were all Jews or Christians?” Say, “Who is more knowledgeable: you or Allah?” Who
   does more wrong than those who hide the testimony they received from Allah? And
   Allah is never unaware of what you do.'
 word_by_word:
   1:
-    arabic: اَمۡ
+    arabic: أَمۡ
     translation: Or
     transliteration: am
   2:
-    arabic: تَقُوۡلُوۡنَ
+    arabic: تَقُولُونَ
     translation: (do) you say
     transliteration: taqūlūna
   3:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: that
     transliteration: inna
   4:
-    arabic: اِبۡرٰهٖمَ
+    arabic: إِبۡرَٰهِـۧمَ
     translation: Ibrahim
     transliteration: ib'rāhīma
   5:
-    arabic: وَاِسۡمٰعِيۡلَ
+    arabic: وَإِسۡمَٰعِيلَ
     translation: and Ishmael
     transliteration: wa-is'māʿīla
   6:
-    arabic: وَاِسۡحٰقَ
+    arabic: وَإِسۡحَٰقَ
     translation: and Isaac
     transliteration: wa-is'ḥāqa
   7:
-    arabic: وَيَعۡقُوۡبَ
+    arabic: وَيَعۡقُوبَ
     translation: and Yaqub
     transliteration: wayaʿqūba
   8:
-    arabic: وَالۡاَسۡبَاطَ
+    arabic: وَٱلۡأَسۡبَاطَ
     translation: and the descendants
     transliteration: wal-asbāṭa
   9:
-    arabic: كَانُوۡا
+    arabic: كَانُواْ
     translation: were
     transliteration: kānū
   10:
-    arabic: هُوۡدًا
+    arabic: هُودًا
     translation: Jews
     transliteration: hūdan
   11:
-    arabic: اَوۡ
+    arabic: أَوۡ
     translation: or
     transliteration: aw
   12:
-    arabic: نَصٰرٰى​ؕ
+    arabic: نَصَٰرَىٰۗ
     translation: Christians
     transliteration: naṣārā
   13:
@@ -61,19 +61,19 @@ word_by_word:
     translation: Say
     transliteration: qul
   14:
-    arabic: ءَاَنۡـتُمۡ
+    arabic: ءَأَنتُمۡ
     translation: Are you
     transliteration: a-antum
   15:
-    arabic: اَعۡلَمُ
+    arabic: أَعۡلَمُ
     translation: better knowing
     transliteration: aʿlamu
   16:
-    arabic: اَمِ
+    arabic: أَمِ
     translation: or
     transliteration: ami
   17:
-    arabic: اللّٰهُ​ ؕ
+    arabic: ٱللَّهُۗ
     translation: (is) Allah
     transliteration: l-lahu
   18:
@@ -81,11 +81,11 @@ word_by_word:
     translation: And who
     transliteration: waman
   19:
-    arabic: اَظۡلَمُ
+    arabic: أَظۡلَمُ
     translation: (is) more unjust
     transliteration: aẓlamu
   20:
-    arabic: مِمَّنۡ
+    arabic: مِمَّن
     translation: than (the one) who
     transliteration: mimman
   21:
@@ -93,11 +93,11 @@ word_by_word:
     translation: concealed
     transliteration: katama
   22:
-    arabic: شَهَادَةً
+    arabic: شَهَٰدَةً
     translation: a testimony
     transliteration: shahādatan
   23:
-    arabic: عِنۡدَهٗ
+    arabic: عِندَهُۥ
     translation: (that) he has
     transliteration: ʿindahu
   24:
@@ -105,7 +105,7 @@ word_by_word:
     translation: from
     transliteration: mina
   25:
-    arabic: اللّٰهِ​ؕ
+    arabic: ٱللَّهِۗ
     translation: Allah
     transliteration: l-lahi
   26:
@@ -113,11 +113,11 @@ word_by_word:
     translation: And not
     transliteration: wamā
   27:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: (is) Allah
     transliteration: l-lahu
   28:
-    arabic: بِغَافِلٍ
+    arabic: بِغَٰفِلٍ
     translation: unaware
     transliteration: bighāfilin
   29:
@@ -125,7 +125,7 @@ word_by_word:
     translation: of what
     transliteration: ʿammā
   30:
-    arabic: تَعۡمَلُوۡنَ‏
+    arabic: تَعۡمَلُونَ
     translation: you do
     transliteration: taʿmalūna
 ---

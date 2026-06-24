@@ -1,13 +1,13 @@
 ---
-arabic_ayat: فَالۡعٰصِفٰتِ عَصۡفًا ۙ‏
+arabic_ayat: فَٱلۡعَٰصِفَٰتِ عَصۡفٗا
 sentence_translation: and those blowing violently,
 word_by_word:
   1:
-    arabic: فَالۡعٰصِفٰتِ
+    arabic: فَٱلۡعَٰصِفَٰتِ
     translation: And the winds that blow
     transliteration: fal-ʿāṣifāti
   2:
-    arabic: عَصۡفًا ۙ‏
+    arabic: عَصۡفٗا
     translation: violently
     transliteration: ʿaṣfan
 ---

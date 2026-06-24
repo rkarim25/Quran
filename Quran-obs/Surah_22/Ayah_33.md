@@ -1,31 +1,31 @@
 ---
-arabic_ayat: لَـكُمۡ فِيۡهَا مَنَافِعُ اِلٰٓى اَجَلٍ مُّسَمًّى ثُمَّ مَحِلُّهَاۤ اِلَى
-  الۡبَيۡتِ الۡعَتِيۡقِ‏
+arabic_ayat: لَكُمۡ فِيهَا مَنَٰفِعُ إِلَىٰٓ أَجَلٖ مُّسَمّٗى ثُمَّ مَحِلُّهَآ إِلَى
+  ٱلۡبَيۡتِ ٱلۡعَتِيقِ
 sentence_translation: You may benefit from sacrificial animals for an appointed term, then
   their place of sacrifice is at the Ancient House.
 word_by_word:
   1:
-    arabic: لَـكُمۡ
+    arabic: لَكُمۡ
     translation: For you
     transliteration: lakum
   2:
-    arabic: فِيۡهَا
+    arabic: فِيهَا
     translation: therein
     transliteration: fīhā
   3:
-    arabic: مَنَافِعُ
+    arabic: مَنَٰفِعُ
     translation: (are) benefits
     transliteration: manāfiʿu
   4:
-    arabic: اِلٰٓى
+    arabic: إِلَىٰٓ
     translation: for
     transliteration: ilā
   5:
-    arabic: اَجَلٍ
+    arabic: أَجَلٖ
     translation: a term
     transliteration: ajalin
   6:
-    arabic: مُّسَمًّى
+    arabic: مُّسَمّٗى
     translation: appointed
     transliteration: musamman
   7:
@@ -33,19 +33,19 @@ word_by_word:
     translation: then
     transliteration: thumma
   8:
-    arabic: مَحِلُّهَاۤ
+    arabic: مَحِلُّهَآ
     translation: their place of sacrifice
     transliteration: maḥilluhā
   9:
-    arabic: اِلَى
+    arabic: إِلَى
     translation: (is) at
     transliteration: ilā
   10:
-    arabic: الۡبَيۡتِ
+    arabic: ٱلۡبَيۡتِ
     translation: the House
     transliteration: l-bayti
   11:
-    arabic: الۡعَتِيۡقِ‏
+    arabic: ٱلۡعَتِيقِ
     translation: the Ancient
     transliteration: l-ʿatīqi
 ---

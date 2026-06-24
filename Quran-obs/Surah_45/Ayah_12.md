@@ -1,16 +1,16 @@
 ---
-arabic_ayat: اَللّٰهُ الَّذِىۡ سَخَّرَ لَـكُمُ الۡبَحۡرَ لِتَجۡرِىَ الۡفُلۡكُ فِيۡهِ
-  بِاَمۡرِهٖ وَلِتَبۡتَغُوۡا مِنۡ فَضۡلِهٖ وَلَعَلَّكُمۡ تَشۡكُرُوۡنَ​ۚ‏
+arabic_ayat: ۞ ٱللَّهُ ٱلَّذِي سَخَّرَ لَكُمُ ٱلۡبَحۡرَ لِتَجۡرِيَ ٱلۡفُلۡكُ فِيهِ
+  بِأَمۡرِهِۦ وَلِتَبۡتَغُواْ مِن فَضۡلِهِۦ وَلَعَلَّكُمۡ تَشۡكُرُونَ
 sentence_translation: Allah is the One Who has subjected the sea for you so that ships
   may sail upon it by His command, and that you may seek His bounty, and that perhaps
   you will be grateful.
 word_by_word:
   1:
-    arabic: ۞ اَللّٰهُ
+    arabic: ۞ ٱللَّهُ
     translation: Allah
     transliteration: al-lahu
   2:
-    arabic: الَّذِىۡ
+    arabic: ٱلَّذِي
     translation: (is) the One Who
     transliteration: alladhī
   3:
@@ -18,39 +18,39 @@ word_by_word:
     translation: subjected
     transliteration: sakhara
   4:
-    arabic: لَـكُمُ
+    arabic: لَكُمُ
     translation: to you
     transliteration: lakumu
   5:
-    arabic: الۡبَحۡرَ
+    arabic: ٱلۡبَحۡرَ
     translation: the sea
     transliteration: l-baḥra
   6:
-    arabic: لِتَجۡرِىَ
+    arabic: لِتَجۡرِيَ
     translation: that may sail
     transliteration: litajriya
   7:
-    arabic: الۡفُلۡكُ
+    arabic: ٱلۡفُلۡكُ
     translation: the ships
     transliteration: l-ful'ku
   8:
-    arabic: فِيۡهِ
+    arabic: فِيهِ
     translation: therein
     transliteration: fīhi
   9:
-    arabic: بِاَمۡرِهٖ
+    arabic: بِأَمۡرِهِۦ
     translation: by His Command
     transliteration: bi-amrihi
   10:
-    arabic: وَلِتَبۡتَغُوۡا
+    arabic: وَلِتَبۡتَغُواْ
     translation: and that you may seek
     transliteration: walitabtaghū
   11:
-    arabic: مِنۡ
+    arabic: مِن
     translation: of
     transliteration: min
   12:
-    arabic: فَضۡلِهٖ
+    arabic: فَضۡلِهِۦ
     translation: His Bounty
     transliteration: faḍlihi
   13:
@@ -58,7 +58,7 @@ word_by_word:
     translation: and that you may
     transliteration: walaʿallakum
   14:
-    arabic: تَشۡكُرُوۡنَ​ۚ‏
+    arabic: تَشۡكُرُونَ
     translation: give thanks
     transliteration: tashkurūna
 ---

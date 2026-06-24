@@ -1,13 +1,13 @@
 ---
-arabic_ayat: اٰتُوۡنِىۡ زُبَرَ الۡحَدِيۡدِ​ ؕ حَتّٰٓى اِذَا سَاوٰى بَيۡنَ الصَّدَفَيۡنِ
-  قَالَ انْـفُخُوۡا​ ؕ حَتّٰٓى اِذَا جَعَلَهٗ نَارًا ۙ قَالَ اٰتُوۡنِىۡۤ اُفۡرِغۡ
-  عَلَيۡهِ قِطۡرًا ؕ‏
+arabic_ayat: ءَاتُونِي زُبَرَ ٱلۡحَدِيدِۖ حَتَّىٰٓ إِذَا سَاوَىٰ بَيۡنَ ٱلصَّدَفَيۡنِ
+  قَالَ ٱنفُخُواْۖ حَتَّىٰٓ إِذَا جَعَلَهُۥ نَارٗا قَالَ ءَاتُونِيٓ أُفۡرِغۡ عَلَيۡهِ
+  قِطۡرٗا
 sentence_translation: Bring me blocks of iron!” Then, when he had filled up ˹the gap˺
   between the two mountains, he ordered, “Blow!” When the iron became red hot, he
   said, “Bring me molten copper to pour over it.”
 word_by_word:
   1:
-    arabic: اٰتُوۡنِىۡ
+    arabic: ءَاتُونِي
     translation: Bring me
     transliteration: ātūnī
   2:
@@ -15,19 +15,19 @@ word_by_word:
     translation: sheets
     transliteration: zubara
   3:
-    arabic: الۡحَدِيۡدِ​ ؕ
+    arabic: ٱلۡحَدِيدِۖ
     translation: (of) iron
     transliteration: l-ḥadīdi
   4:
-    arabic: حَتّٰٓى
+    arabic: حَتَّىٰٓ
     translation: until
     transliteration: ḥattā
   5:
-    arabic: اِذَا
+    arabic: إِذَا
     translation: when
     transliteration: idhā
   6:
-    arabic: سَاوٰى
+    arabic: سَاوَىٰ
     translation: he (had) leveled
     transliteration: sāwā
   7:
@@ -35,7 +35,7 @@ word_by_word:
     translation: between
     transliteration: bayna
   8:
-    arabic: الصَّدَفَيۡنِ
+    arabic: ٱلصَّدَفَيۡنِ
     translation: the two cliffs
     transliteration: l-ṣadafayni
   9:
@@ -43,35 +43,35 @@ word_by_word:
     translation: he said
     transliteration: qāla
   10:
-    arabic: انْـفُخُوۡا​ ؕ
+    arabic: ٱنفُخُواْۖ
     translation: Blow
     transliteration: unfukhū
   11:
-    arabic: حَتّٰٓى
+    arabic: حَتَّىٰٓ
     translation: until
     transliteration: ḥattā
   12:
-    arabic: اِذَا
+    arabic: إِذَا
     translation: when
     transliteration: idhā
   13:
-    arabic: جَعَلَهٗ
+    arabic: جَعَلَهُۥ
     translation: he made it
     transliteration: jaʿalahu
   14:
-    arabic: نَارًا ۙ
+    arabic: نَارٗا
     translation: fire
     transliteration: nāran
   15:
-    arabic: قَالَ
+    arabic: قَالَ ءَ
     translation: he said
     transliteration: qāla
   16:
-    arabic: اٰتُوۡنِىۡۤ
+    arabic: اتُونِيٓ
     translation: Bring me
     transliteration: ātūnī
   17:
-    arabic: اُفۡرِغۡ
+    arabic: أُفۡرِغۡ
     translation: I pour
     transliteration: uf'righ
   18:
@@ -79,7 +79,7 @@ word_by_word:
     translation: over it
     transliteration: ʿalayhi
   19:
-    arabic: قِطۡرًا ؕ‏
+    arabic: قِطۡرٗا
     translation: molten copper
     transliteration: qiṭ'ran
 ---

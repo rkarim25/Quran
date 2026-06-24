@@ -1,12 +1,12 @@
 ---
-arabic_ayat: اِنَّمَا يُؤۡمِنُ بِاٰيٰتِنَا الَّذِيۡنَ اِذَا ذُكِّرُوۡا بِهَا خَرُّوۡا
-  سُجَّدًا وَّسَبَّحُوۡا بِحَمۡدِ رَبِّهِمۡ وَهُمۡ لَا يَسۡتَكۡبِرُوۡنَ۩‏
+arabic_ayat: إِنَّمَا يُؤۡمِنُ بِـَٔايَٰتِنَا ٱلَّذِينَ إِذَا ذُكِّرُواْ بِهَا خَرُّواْۤ
+  سُجَّدٗاۤ وَسَبَّحُواْ بِحَمۡدِ رَبِّهِمۡ وَهُمۡ لَا يَسۡتَكۡبِرُونَ۩
 sentence_translation: The only ˹true˺ believers in Our revelation are those who—when
   it is recited to them—fall into prostration and glorify the praises of their Lord
   and are not too proud.
 word_by_word:
   1:
-    arabic: اِنَّمَا
+    arabic: إِنَّمَا
     translation: Only
     transliteration: innamā
   2:
@@ -14,19 +14,19 @@ word_by_word:
     translation: believe
     transliteration: yu'minu
   3:
-    arabic: بِاٰيٰتِنَا
+    arabic: بِـَٔايَٰتِنَا
     translation: in Our Verses
     transliteration: biāyātinā
   4:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   5:
-    arabic: اِذَا
+    arabic: إِذَا
     translation: when
     transliteration: idhā
   6:
-    arabic: ذُكِّرُوۡا
+    arabic: ذُكِّرُواْ
     translation: they are reminded
     transliteration: dhukkirū
   7:
@@ -34,15 +34,15 @@ word_by_word:
     translation: of them
     transliteration: bihā
   8:
-    arabic: خَرُّوۡا
+    arabic: خَرُّواْۤ
     translation: fall down
     transliteration: kharrū
   9:
-    arabic: سُجَّدًا
+    arabic: سُجَّدٗاۤ
     translation: prostrating
     transliteration: sujjadan
   10:
-    arabic: وَّسَبَّحُوۡا
+    arabic: وَسَبَّحُواْ
     translation: and glorify
     transliteration: wasabbaḥū
   11:
@@ -62,7 +62,7 @@ word_by_word:
     translation: are not arrogant
     transliteration: lā
   15:
-    arabic: يَسۡتَكۡبِرُوۡنَ ۩
+    arabic: يَسۡتَكۡبِرُونَ۩
     translation: are not arrogant
     transliteration: yastakbirūna
 ---

@@ -1,11 +1,11 @@
 ---
-arabic_ayat: وَاصۡبِرۡ وَمَا صَبۡرُكَ اِلَّا بِاللّٰهِ​ وَلَا تَحۡزَنۡ عَلَيۡهِمۡ
-  وَلَا تَكُ فِىۡ ضَيۡقٍ مِّمَّا يَمۡكُرُوۡنَ‏
+arabic_ayat: وَٱصۡبِرۡ وَمَا صَبۡرُكَ إِلَّا بِٱللَّهِۚ وَلَا تَحۡزَنۡ عَلَيۡهِمۡ
+  وَلَا تَكُ فِي ضَيۡقٖ مِّمَّا يَمۡكُرُونَ
 sentence_translation: Be patient ˹O Prophet˺, for your patience is only with Allah’s
   help. Do not grieve over those ˹who disbelieve˺, nor be distressed by their schemes.
 word_by_word:
   1:
-    arabic: وَاصۡبِرۡ
+    arabic: وَٱصۡبِرۡ
     translation: And be patient
     transliteration: wa-iṣ'bir
   2:
@@ -17,11 +17,11 @@ word_by_word:
     translation: (is) your patience
     transliteration: ṣabruka
   4:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: but
     transliteration: illā
   5:
-    arabic: بِاللّٰهِ​
+    arabic: بِٱللَّهِۚ
     translation: from Allah
     transliteration: bil-lahi
   6:
@@ -45,11 +45,11 @@ word_by_word:
     translation: be
     transliteration: taku
   11:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   12:
-    arabic: ضَيۡقٍ
+    arabic: ضَيۡقٖ
     translation: distress
     transliteration: ḍayqin
   13:
@@ -57,7 +57,7 @@ word_by_word:
     translation: for what
     transliteration: mimmā
   14:
-    arabic: يَمۡكُرُوۡنَ‏
+    arabic: يَمۡكُرُونَ
     translation: they plot
     transliteration: yamkurūna
 ---

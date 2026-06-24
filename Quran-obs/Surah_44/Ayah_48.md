@@ -1,5 +1,5 @@
 ---
-arabic_ayat: ثُمَّ صُبُّوۡا فَوۡقَ رَاۡسِهٖ مِنۡ عَذَابِ الۡحَمِيۡمِؕ‏
+arabic_ayat: ثُمَّ صُبُّواْ فَوۡقَ رَأۡسِهِۦ مِنۡ عَذَابِ ٱلۡحَمِيمِ
 sentence_translation: Then pour over their heads the torment of boiling water.”
 word_by_word:
   1:
@@ -7,7 +7,7 @@ word_by_word:
     translation: Then
     transliteration: thumma
   2:
-    arabic: صُبُّوۡا
+    arabic: صُبُّواْ
     translation: pour
     transliteration: ṣubbū
   3:
@@ -15,7 +15,7 @@ word_by_word:
     translation: over
     transliteration: fawqa
   4:
-    arabic: رَاۡسِهٖ
+    arabic: رَأۡسِهِۦ
     translation: his head
     transliteration: rasihi
   5:
@@ -27,7 +27,7 @@ word_by_word:
     translation: (the) punishment
     transliteration: ʿadhābi
   7:
-    arabic: الۡحَمِيۡمِؕ‏
+    arabic: ٱلۡحَمِيمِ
     translation: (of) the scalding water
     transliteration: l-ḥamīmi
 ---

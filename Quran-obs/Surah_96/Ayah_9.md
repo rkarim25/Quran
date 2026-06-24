@@ -1,17 +1,17 @@
 ---
-arabic_ayat: اَرَءَيۡتَ الَّذِىۡ يَنۡهٰىؕ‏
+arabic_ayat: أَرَءَيۡتَ ٱلَّذِي يَنۡهَىٰ
 sentence_translation: Have you seen the man who prevents
 word_by_word:
   1:
-    arabic: اَرَءَيۡتَ
+    arabic: أَرَءَيۡتَ
     translation: Have you seen
     transliteration: ara-ayta
   2:
-    arabic: الَّذِىۡ
+    arabic: ٱلَّذِي
     translation: the one who
     transliteration: alladhī
   3:
-    arabic: يَنۡهٰىؕ‏
+    arabic: يَنۡهَىٰ
     translation: forbids
     transliteration: yanhā
 ---

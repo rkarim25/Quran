@@ -1,21 +1,21 @@
 ---
-arabic_ayat: وَيۡلٌ لِّـكُلِّ هُمَزَةٍ لُّمَزَةِ ۙ‏
+arabic_ayat: وَيۡلٞ لِّكُلِّ هُمَزَةٖ لُّمَزَةٍ
 sentence_translation: Woe to every backbiter, slanderer,
 word_by_word:
   1:
-    arabic: وَيۡلٌ
+    arabic: وَيۡلٞ
     translation: Woe
     transliteration: waylun
   2:
-    arabic: لِّـكُلِّ
+    arabic: لِّكُلِّ
     translation: to every
     transliteration: likulli
   3:
-    arabic: هُمَزَةٍ
+    arabic: هُمَزَةٖ
     translation: slanderer
     transliteration: humazatin
   4:
-    arabic: لُّمَزَةِ ۙ‏
+    arabic: لُّمَزَةٍ
     translation: backbiter
     transliteration: lumazatin
 ---

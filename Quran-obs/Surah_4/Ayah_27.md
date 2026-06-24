@@ -1,51 +1,51 @@
 ---
-arabic_ayat: وَاللّٰهُ يُرِيۡدُ اَنۡ يَّتُوۡبَ عَلَيۡكُمۡ وَيُرِيۡدُ الَّذِيۡنَ يَتَّبِعُوۡنَ
-  الشَّهَوٰتِ اَنۡ تَمِيۡلُوۡا مَيۡلًا عَظِيۡمًا‏
+arabic_ayat: وَٱللَّهُ يُرِيدُ أَن يَتُوبَ عَلَيۡكُمۡ وَيُرِيدُ ٱلَّذِينَ يَتَّبِعُونَ
+  ٱلشَّهَوَٰتِ أَن تَمِيلُواْ مَيۡلًا عَظِيمٗا
 sentence_translation: And it is Allah’s Will to turn to you in grace, but those who
   follow their desires wish to see you deviate entirely ˹from Allah’s Way˺.
 word_by_word:
   1:
-    arabic: وَاللّٰهُ
+    arabic: وَٱللَّهُ
     translation: And Allah
     transliteration: wal-lahu
   2:
-    arabic: يُرِيۡدُ
+    arabic: يُرِيدُ
     translation: wishes
     transliteration: yurīdu
   3:
-    arabic: اَنۡ
+    arabic: أَن
     translation: to
     transliteration: an
   4:
-    arabic: يَّتُوۡبَ
+    arabic: يَتُوبَ
     translation: accept repentance
     transliteration: yatūba
   5:
-    arabic: عَلَيۡكُمۡ
+    arabic: عَلَيۡكُمۡ
     translation: from you
     transliteration: ʿalaykum
   6:
-    arabic: وَيُرِيۡدُ
+    arabic: وَيُرِيدُ
     translation: but wish
     transliteration: wayurīdu
   7:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   8:
-    arabic: يَتَّبِعُوۡنَ
+    arabic: يَتَّبِعُونَ
     translation: follow
     transliteration: yattabiʿūna
   9:
-    arabic: الشَّهَوٰتِ
+    arabic: ٱلشَّهَوَٰتِ
     translation: the passions
     transliteration: l-shahawāti
   10:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that
     transliteration: an
   11:
-    arabic: تَمِيۡلُوۡا
+    arabic: تَمِيلُواْ
     translation: 'you deviate '
     transliteration: tamīlū
   12:
@@ -53,7 +53,7 @@ word_by_word:
     translation: (into) a deviation
     transliteration: maylan
   13:
-    arabic: عَظِيۡمًا‏
+    arabic: عَظِيمٗا
     translation: great
     transliteration: ʿaẓīman
 ---

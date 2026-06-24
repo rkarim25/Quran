@@ -1,22 +1,22 @@
 ---
-arabic_ayat: يٰۤـاَيُّهَا الَّذِيۡنَ اٰمَنُوۡا لَا تَسۡـــَٔلُوۡا عَنۡ اَشۡيَآءَ
-  اِنۡ تُبۡدَ لَـكُمۡ تَسُؤۡكُمۡ​ۚ وَاِنۡ تَسۡــَٔـلُوۡا عَنۡهَا حِيۡنَ يُنَزَّلُ
-  الۡقُرۡاٰنُ تُبۡدَ لَـكُمۡ ؕ عَفَا اللّٰهُ عَنۡهَا​ ؕ وَاللّٰهُ غَفُوۡرٌ حَلِيۡمٌ‏
+arabic_ayat: يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُواْ لَا تَسۡـَٔلُواْ عَنۡ أَشۡيَآءَ إِن
+  تُبۡدَ لَكُمۡ تَسُؤۡكُمۡ وَإِن تَسۡـَٔلُواْ عَنۡهَا حِينَ يُنَزَّلُ ٱلۡقُرۡءَانُ
+  تُبۡدَ لَكُمۡ عَفَا ٱللَّهُ عَنۡهَاۗ وَٱللَّهُ غَفُورٌ حَلِيمٞ
 sentence_translation: O believers! Do not ask about any matter which, if made clear
   to you, may disturb you. But if you inquire about what is being revealed in the
   Quran, it will be made clear to you. Allah has forgiven what was done ˹in the past˺. And
   Allah is All-Forgiving, Most Forbearing.
 word_by_word:
   1:
-    arabic: يٰۤـاَيُّهَا
+    arabic: يَٰٓأَيُّهَا
     translation: O you
     transliteration: yāayyuhā
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ ءَ
     translation: who
     transliteration: alladhīna
   3:
-    arabic: اٰمَنُوۡا
+    arabic: امَنُواْ
     translation: believe
     transliteration: āmanū
   4:
@@ -24,7 +24,7 @@ word_by_word:
     translation: (Do) not
     transliteration: lā
   5:
-    arabic: تَسۡـــَٔلُوۡا
+    arabic: تَسۡـَٔلُواْ
     translation: ask
     transliteration: tasalū
   6:
@@ -32,11 +32,11 @@ word_by_word:
     translation: about
     transliteration: ʿan
   7:
-    arabic: اَشۡيَآءَ
+    arabic: أَشۡيَآءَ
     translation: things
     transliteration: ashyāa
   8:
-    arabic: اِنۡ
+    arabic: إِن
     translation: if
     transliteration: in
   9:
@@ -44,19 +44,19 @@ word_by_word:
     translation: made clear
     transliteration: tub'da
   10:
-    arabic: لَـكُمۡ
+    arabic: لَكُمۡ
     translation: to you
     transliteration: lakum
   11:
-    arabic: تَسُؤۡكُمۡ​ۚ
+    arabic: تَسُؤۡكُمۡ
     translation: it may distress you
     transliteration: tasu'kum
   12:
-    arabic: وَاِنۡ
+    arabic: وَإِن
     translation: and if
     transliteration: wa-in
   13:
-    arabic: تَسۡــَٔـلُوۡا
+    arabic: تَسۡـَٔلُواْ
     translation: you ask
     transliteration: tasalū
   14:
@@ -64,7 +64,7 @@ word_by_word:
     translation: about it
     transliteration: ʿanhā
   15:
-    arabic: حِيۡنَ
+    arabic: حِينَ
     translation: when
     transliteration: ḥīna
   16:
@@ -72,7 +72,7 @@ word_by_word:
     translation: is being revealed
     transliteration: yunazzalu
   17:
-    arabic: الۡقُرۡاٰنُ
+    arabic: ٱلۡقُرۡءَانُ
     translation: the Quran
     transliteration: l-qur'ānu
   18:
@@ -80,7 +80,7 @@ word_by_word:
     translation: it would be made clear
     transliteration: tub'da
   19:
-    arabic: لَـكُمۡ ؕ
+    arabic: لَكُمۡ
     translation: to you
     transliteration: lakum
   20:
@@ -88,23 +88,23 @@ word_by_word:
     translation: has (been) pardoned
     transliteration: ʿafā
   21:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: (by) Allah
     transliteration: l-lahu
   22:
-    arabic: عَنۡهَا​ ؕ
+    arabic: عَنۡهَاۗ
     translation: '[about] it'
     transliteration: ʿanhā
   23:
-    arabic: وَاللّٰهُ
+    arabic: وَٱللَّهُ
     translation: and Allah
     transliteration: wal-lahu
   24:
-    arabic: غَفُوۡرٌ
+    arabic: غَفُورٌ
     translation: (is) Oft-Forgiving
     transliteration: ghafūrun
   25:
-    arabic: حَلِيۡمٌ‏
+    arabic: حَلِيمٞ
     translation: All-Forbearing
     transliteration: ḥalīmun
 ---

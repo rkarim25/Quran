@@ -1,6 +1,6 @@
 ---
-arabic_ayat: فَلَمَّا رَاَوۡا بَاۡسَنَا قَالُوۡۤا اٰمَنَّا بِاللّٰهِ وَحۡدَهٗ وَكَفَرۡنَا
-  بِمَا كُنَّا بِهٖ مُشۡرِكِيۡنَ‏
+arabic_ayat: فَلَمَّا رَأَوۡاْ بَأۡسَنَا قَالُوٓاْ ءَامَنَّا بِٱللَّهِ وَحۡدَهُۥ وَكَفَرۡنَا
+  بِمَا كُنَّا بِهِۦ مُشۡرِكِينَ
 sentence_translation: When they saw Our punishment, they cried, “˹Now˺ we believe
   in Allah alone and reject what we had been associating with Him!”
 word_by_word:
@@ -9,27 +9,27 @@ word_by_word:
     translation: So when
     transliteration: falammā
   2:
-    arabic: رَاَوۡا
+    arabic: رَأَوۡاْ
     translation: they saw
     transliteration: ra-aw
   3:
-    arabic: بَاۡسَنَا
+    arabic: بَأۡسَنَا
     translation: Our punishment
     transliteration: basanā
   4:
-    arabic: قَالُوۡۤا
+    arabic: قَالُوٓاْ ءَ
     translation: they said
     transliteration: qālū
   5:
-    arabic: اٰمَنَّا
+    arabic: امَنَّا
     translation: We believe
     transliteration: āmannā
   6:
-    arabic: بِاللّٰهِ
+    arabic: بِٱللَّهِ
     translation: in Allah
     transliteration: bil-lahi
   7:
-    arabic: وَحۡدَهٗ
+    arabic: وَحۡدَهُۥ
     translation: Alone
     transliteration: waḥdahu
   8:
@@ -45,11 +45,11 @@ word_by_word:
     translation: we used to
     transliteration: kunnā
   11:
-    arabic: بِهٖ
+    arabic: بِهِۦ
     translation: with Him
     transliteration: bihi
   12:
-    arabic: مُشۡرِكِيۡنَ‏
+    arabic: مُشۡرِكِينَ
     translation: associate
     transliteration: mush'rikīna
 ---

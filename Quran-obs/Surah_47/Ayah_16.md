@@ -1,38 +1,38 @@
 ---
-arabic_ayat: وَمِنۡهُمۡ مَّنۡ يَّسۡتَمِعُ اِلَيۡكَ​ۚ حَتّٰٓى اِذَا خَرَجُوۡا مِنۡ
-  عِنۡدِكَ قَالُوۡا لِلَّذِيۡنَ اُوۡتُوا الۡعِلۡمَ مَاذَا قَالَ اٰنِفًا​​ اُولٰٓٮِٕكَ
-  الَّذِيۡنَ طَبَعَ اللّٰهُ عَلٰى قُلُوۡبِهِمۡ وَ اتَّبَعُوۡۤا اَهۡوَآءَهُمۡ‏
+arabic_ayat: وَمِنۡهُم مَّن يَسۡتَمِعُ إِلَيۡكَ حَتَّىٰٓ إِذَا خَرَجُواْ مِنۡ عِندِكَ
+  قَالُواْ لِلَّذِينَ أُوتُواْ ٱلۡعِلۡمَ مَاذَا قَالَ ءَانِفًاۚ أُوْلَٰٓئِكَ ٱلَّذِينَ
+  طَبَعَ ٱللَّهُ عَلَىٰ قُلُوبِهِمۡ وَٱتَّبَعُوٓاْ أَهۡوَآءَهُمۡ
 sentence_translation: There are some of them who listen to you ˹O Prophet˺, but when
   they depart from you, they say ˹mockingly˺ to those ˹believers˺ gifted with knowledge,
   “What did he just say?” These are the ones whose hearts Allah has sealed and who
   ˹only˺ follow their desires.
 word_by_word:
   1:
-    arabic: وَمِنۡهُمۡ
+    arabic: وَمِنۡهُم
     translation: And among them
     transliteration: wamin'hum
   2:
-    arabic: مَّنۡ
+    arabic: مَّن
     translation: (are some) who
     transliteration: man
   3:
-    arabic: يَّسۡتَمِعُ
+    arabic: يَسۡتَمِعُ
     translation: listen
     transliteration: yastamiʿu
   4:
-    arabic: اِلَيۡكَ​ۚ
+    arabic: إِلَيۡكَ
     translation: to you
     transliteration: ilayka
   5:
-    arabic: حَتّٰٓى
+    arabic: حَتَّىٰٓ
     translation: until
     transliteration: ḥattā
   6:
-    arabic: اِذَا
+    arabic: إِذَا
     translation: when
     transliteration: idhā
   7:
-    arabic: خَرَجُوۡا
+    arabic: خَرَجُواْ
     translation: they depart
     transliteration: kharajū
   8:
@@ -40,23 +40,23 @@ word_by_word:
     translation: from
     transliteration: min
   9:
-    arabic: عِنۡدِكَ
+    arabic: عِندِكَ
     translation: you
     transliteration: ʿindika
   10:
-    arabic: قَالُوۡا
+    arabic: قَالُواْ
     translation: they say
     transliteration: qālū
   11:
-    arabic: لِلَّذِيۡنَ
+    arabic: لِلَّذِينَ
     translation: to those who
     transliteration: lilladhīna
   12:
-    arabic: اُوۡتُوا
+    arabic: أُوتُواْ
     translation: were given
     transliteration: ūtū
   13:
-    arabic: الۡعِلۡمَ
+    arabic: ٱلۡعِلۡمَ
     translation: the knowledge
     transliteration: l-ʿil'ma
   14:
@@ -64,19 +64,19 @@ word_by_word:
     translation: What
     transliteration: mādhā
   15:
-    arabic: قَالَ
+    arabic: قَالَ ءَ
     translation: (has) he said
     transliteration: qāla
   16:
-    arabic: اٰنِفًا​​
+    arabic: انِفًاۚ
     translation: just now
     transliteration: ānifan
   17:
-    arabic: اُولٰٓٮِٕكَ
+    arabic: أُوْلَٰٓئِكَ
     translation: 'Those '
     transliteration: ulāika
   18:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: (are) the ones
     transliteration: alladhīna
   19:
@@ -84,23 +84,23 @@ word_by_word:
     translation: Allah has set a seal
     transliteration: ṭabaʿa
   20:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah has set a seal
     transliteration: l-lahu
   21:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: upon
     transliteration: ʿalā
   22:
-    arabic: قُلُوۡبِهِمۡ
+    arabic: قُلُوبِهِمۡ
     translation: their hearts
     transliteration: qulūbihim
   23:
-    arabic: وَ اتَّبَعُوۡۤا
+    arabic: وَٱتَّبَعُوٓاْ
     translation: and they follow
     transliteration: wa-ittabaʿū
   24:
-    arabic: اَهۡوَآءَهُمۡ‏
+    arabic: أَهۡوَآءَهُمۡ
     translation: their desires
     transliteration: ahwāahum
 ---

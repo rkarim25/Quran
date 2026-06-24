@@ -1,6 +1,5 @@
 ---
-arabic_ayat: قَالَ اِنِّىۡ عَبۡدُ اللّٰهِ ؕ اٰتٰٮنِىَ الۡكِتٰبَ وَجَعَلَنِىۡ نَبِيًّا
-  ۙ‏
+arabic_ayat: قَالَ إِنِّي عَبۡدُ ٱللَّهِ ءَاتَىٰنِيَ ٱلۡكِتَٰبَ وَجَعَلَنِي نَبِيّٗا
 sentence_translation: ˹Jesus˺ declared, “I am truly a servant of Allah. He has destined
   me to be given the Scripture and to be a prophet.
 word_by_word:
@@ -9,7 +8,7 @@ word_by_word:
     translation: He said
     transliteration: qāla
   2:
-    arabic: اِنِّىۡ
+    arabic: إِنِّي
     translation: Indeed, I am
     transliteration: innī
   3:
@@ -17,23 +16,23 @@ word_by_word:
     translation: a slave
     transliteration: ʿabdu
   4:
-    arabic: اللّٰهِ ؕ
+    arabic: ٱللَّهِ ءَ
     translation: (of) Allah
     transliteration: l-lahi
   5:
-    arabic: اٰتٰٮنِىَ
+    arabic: اتَىٰنِيَ
     translation: He gave me
     transliteration: ātāniya
   6:
-    arabic: الۡكِتٰبَ
+    arabic: ٱلۡكِتَٰبَ
     translation: the Scripture
     transliteration: l-kitāba
   7:
-    arabic: وَجَعَلَنِىۡ
+    arabic: وَجَعَلَنِي
     translation: and made me
     transliteration: wajaʿalanī
   8:
-    arabic: نَبِيًّا ۙ‏
+    arabic: نَبِيّٗا
     translation: a Prophet
     transliteration: nabiyyan
 ---

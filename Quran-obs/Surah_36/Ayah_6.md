@@ -1,26 +1,26 @@
 ---
-arabic_ayat: لِتُنۡذِرَ قَوۡمًا مَّاۤ اُنۡذِرَ اٰبَآؤُهُمۡ فَهُمۡ غٰفِلُوۡنَ‏
+arabic_ayat: لِتُنذِرَ قَوۡمٗا مَّآ أُنذِرَ ءَابَآؤُهُمۡ فَهُمۡ غَٰفِلُونَ
 sentence_translation: so that you may warn a people whose forefathers were not warned,
   and so are heedless.
 word_by_word:
   1:
-    arabic: لِتُنۡذِرَ
+    arabic: لِتُنذِرَ
     translation: That you may warn
     transliteration: litundhira
   2:
-    arabic: قَوۡمًا
+    arabic: قَوۡمٗا
     translation: a people
     transliteration: qawman
   3:
-    arabic: مَّاۤ
+    arabic: مَّآ
     translation: not
     transliteration: mā
   4:
-    arabic: اُنۡذِرَ
+    arabic: أُنذِرَ ءَ
     translation: were warned
     transliteration: undhira
   5:
-    arabic: اٰبَآؤُهُمۡ
+    arabic: ابَآؤُهُمۡ
     translation: their forefathers
     transliteration: ābāuhum
   6:
@@ -28,7 +28,7 @@ word_by_word:
     translation: so they
     transliteration: fahum
   7:
-    arabic: غٰفِلُوۡنَ‏
+    arabic: غَٰفِلُونَ
     translation: (are) heedless
     transliteration: ghāfilūna
 ---

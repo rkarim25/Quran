@@ -1,14 +1,14 @@
 ---
-arabic_ayat: وَالۡاَرۡضَ فَرَشۡنٰهَا فَنِعۡمَ الۡمٰهِدُوۡنَ‏
+arabic_ayat: وَٱلۡأَرۡضَ فَرَشۡنَٰهَا فَنِعۡمَ ٱلۡمَٰهِدُونَ
 sentence_translation: As for the earth, We spread it out. How superbly did We smooth
   it out!
 word_by_word:
   1:
-    arabic: وَالۡاَرۡضَ
+    arabic: وَٱلۡأَرۡضَ
     translation: And the earth
     transliteration: wal-arḍa
   2:
-    arabic: فَرَشۡنٰهَا
+    arabic: فَرَشۡنَٰهَا
     translation: We have spread it
     transliteration: farashnāhā
   3:
@@ -16,7 +16,7 @@ word_by_word:
     translation: how excellent
     transliteration: faniʿ'ma
   4:
-    arabic: الۡمٰهِدُوۡنَ‏
+    arabic: ٱلۡمَٰهِدُونَ
     translation: (are) the Spreaders
     transliteration: l-māhidūna
 ---

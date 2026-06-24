@@ -1,13 +1,12 @@
 ---
-arabic_ayat: "وَلِلّٰهِ غَيۡبُ السَّمٰوٰتِ وَالۡاَرۡضِ وَاِلَيۡهِ يُرۡجَعُ الۡاَمۡرُ\
-  \ كُلُّهٗ فَاعۡبُدۡهُ وَتَوَكَّلۡ عَلَيۡهِ​ؕ وَمَا رَبُّكَ بِغَافِلٍ عَمَّا تَعۡمَلُوۡنَ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: وَلِلَّهِ غَيۡبُ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِ وَإِلَيۡهِ يُرۡجَعُ ٱلۡأَمۡرُ
+  كُلُّهُۥ فَٱعۡبُدۡهُ وَتَوَكَّلۡ عَلَيۡهِۚ وَمَا رَبُّكَ بِغَٰفِلٍ عَمَّا تَعۡمَلُونَ
 sentence_translation: To Allah ˹alone˺ belongs the knowledge of what is hidden in
   the heavens and the earth. And to Him all matters are returned. So worship Him and
   put your trust in Him. And your Lord is never unaware of what you do.
 word_by_word:
   1:
-    arabic: وَلِلّٰهِ
+    arabic: وَلِلَّهِ
     translation: And for Allah
     transliteration: walillahi
   2:
@@ -15,15 +14,15 @@ word_by_word:
     translation: (is the) unseen
     transliteration: ghaybu
   3:
-    arabic: السَّمٰوٰتِ
+    arabic: ٱلسَّمَٰوَٰتِ
     translation: (of) the heavens
     transliteration: l-samāwāti
   4:
-    arabic: وَالۡاَرۡضِ
+    arabic: وَٱلۡأَرۡضِ
     translation: and the earth
     transliteration: wal-arḍi
   5:
-    arabic: وَاِلَيۡهِ
+    arabic: وَإِلَيۡهِ
     translation: and to Him
     transliteration: wa-ilayhi
   6:
@@ -31,15 +30,15 @@ word_by_word:
     translation: will be returned
     transliteration: yur'jaʿu
   7:
-    arabic: الۡاَمۡرُ
+    arabic: ٱلۡأَمۡرُ
     translation: the matter
     transliteration: l-amru
   8:
-    arabic: كُلُّهٗ
+    arabic: كُلُّهُۥ
     translation: all (of) it
     transliteration: kulluhu
   9:
-    arabic: فَاعۡبُدۡهُ
+    arabic: فَٱعۡبُدۡهُ
     translation: so worship Him
     transliteration: fa-uʿ'bud'hu
   10:
@@ -47,7 +46,7 @@ word_by_word:
     translation: and put your trust
     transliteration: watawakkal
   11:
-    arabic: عَلَيۡهِ​ؕ
+    arabic: عَلَيۡهِۚ
     translation: upon Him
     transliteration: ʿalayhi
   12:
@@ -59,7 +58,7 @@ word_by_word:
     translation: And your Lord is not
     transliteration: rabbuka
   14:
-    arabic: بِغَافِلٍ
+    arabic: بِغَٰفِلٍ
     translation: unaware
     transliteration: bighāfilin
   15:
@@ -67,7 +66,7 @@ word_by_word:
     translation: of what
     transliteration: ʿammā
   16:
-    arabic: "تَعۡمَلُوۡنَ‏ \uFEFF\uFEFF"
+    arabic: تَعۡمَلُونَ
     translation: you do
     transliteration: taʿmalūna
 ---

@@ -1,8 +1,8 @@
 ---
-arabic_ayat: اِذۡ جَعَلَ الَّذِيۡنَ كَفَرُوۡا فِىۡ قُلُوۡبِهِمُ الۡحَمِيَّةَ حَمِيَّةَ
-  الۡجَـاهِلِيَّةِ فَاَنۡزَلَ اللّٰهُ سَكِيۡنَـتَهٗ عَلٰى رَسُوۡلِهٖ وَعَلَى الۡمُؤۡمِنِيۡنَ
-  وَاَلۡزَمَهُمۡ كَلِمَةَ التَّقۡوٰى وَ كَانُوۡۤا اَحَقَّ بِهَا وَاَهۡلَهَا​ؕ وَكَانَ
-  اللّٰهُ بِكُلِّ شَىۡءٍ عَلِيۡمًا‏
+arabic_ayat: إِذۡ جَعَلَ ٱلَّذِينَ كَفَرُواْ فِي قُلُوبِهِمُ ٱلۡحَمِيَّةَ حَمِيَّةَ
+  ٱلۡجَٰهِلِيَّةِ فَأَنزَلَ ٱللَّهُ سَكِينَتَهُۥ عَلَىٰ رَسُولِهِۦ وَعَلَى ٱلۡمُؤۡمِنِينَ
+  وَأَلۡزَمَهُمۡ كَلِمَةَ ٱلتَّقۡوَىٰ وَكَانُوٓاْ أَحَقَّ بِهَا وَأَهۡلَهَاۚ وَكَانَ
+  ٱللَّهُ بِكُلِّ شَيۡءٍ عَلِيمٗا
 sentence_translation: ˹Remember˺ when the disbelievers had filled their hearts with
   pride—the pride of ˹pre-Islamic˺ ignorance—then Allah sent down His serenity upon
   His Messenger and the believers, inspiring them to uphold the declaration of faith, for
@@ -10,7 +10,7 @@ sentence_translation: ˹Remember˺ when the disbelievers had filled their hearts
   of all things.
 word_by_word:
   1:
-    arabic: اِذۡ
+    arabic: إِذۡ
     translation: When
     transliteration: idh
   2:
@@ -18,23 +18,23 @@ word_by_word:
     translation: had put
     transliteration: jaʿala
   3:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   4:
-    arabic: كَفَرُوۡا
+    arabic: كَفَرُواْ
     translation: disbelieved
     transliteration: kafarū
   5:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   6:
-    arabic: قُلُوۡبِهِمُ
+    arabic: قُلُوبِهِمُ
     translation: their hearts
     transliteration: qulūbihimu
   7:
-    arabic: الۡحَمِيَّةَ
+    arabic: ٱلۡحَمِيَّةَ
     translation: 'disdain '
     transliteration: l-ḥamiyata
   8:
@@ -42,27 +42,27 @@ word_by_word:
     translation: (the) disdain
     transliteration: ḥamiyyata
   9:
-    arabic: الۡجَـاهِلِيَّةِ
+    arabic: ٱلۡجَٰهِلِيَّةِ
     translation: (of the time of) ignorance
     transliteration: l-jāhiliyati
   10:
-    arabic: فَاَنۡزَلَ
+    arabic: فَأَنزَلَ
     translation: Then Allah sent down
     transliteration: fa-anzala
   11:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Then Allah sent down
     transliteration: l-lahu
   12:
-    arabic: سَكِيۡنَـتَهٗ
+    arabic: سَكِينَتَهُۥ
     translation: His tranquility
     transliteration: sakīnatahu
   13:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: upon
     transliteration: ʿalā
   14:
-    arabic: رَسُوۡلِهٖ
+    arabic: رَسُولِهِۦ
     translation: His Messenger
     transliteration: rasūlihi
   15:
@@ -70,11 +70,11 @@ word_by_word:
     translation: and upon
     transliteration: waʿalā
   16:
-    arabic: الۡمُؤۡمِنِيۡنَ
+    arabic: ٱلۡمُؤۡمِنِينَ
     translation: the believers
     transliteration: l-mu'minīna
   17:
-    arabic: وَاَلۡزَمَهُمۡ
+    arabic: وَأَلۡزَمَهُمۡ
     translation: and made them adhere
     transliteration: wa-alzamahum
   18:
@@ -82,15 +82,15 @@ word_by_word:
     translation: (to the) word
     transliteration: kalimata
   19:
-    arabic: التَّقۡوٰى
+    arabic: ٱلتَّقۡوَىٰ
     translation: (of) righteousness
     transliteration: l-taqwā
   20:
-    arabic: وَ كَانُوۡۤا
+    arabic: وَكَانُوٓاْ
     translation: and they were
     transliteration: wakānū
   21:
-    arabic: اَحَقَّ
+    arabic: أَحَقَّ
     translation: more deserving
     transliteration: aḥaqqa
   22:
@@ -98,7 +98,7 @@ word_by_word:
     translation: of it
     transliteration: bihā
   23:
-    arabic: وَاَهۡلَهَا​ؕ
+    arabic: وَأَهۡلَهَاۚ
     translation: and worthy of it
     transliteration: wa-ahlahā
   24:
@@ -106,7 +106,7 @@ word_by_word:
     translation: And is
     transliteration: wakāna
   25:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   26:
@@ -114,11 +114,11 @@ word_by_word:
     translation: of every
     transliteration: bikulli
   27:
-    arabic: شَىۡءٍ
+    arabic: شَيۡءٍ
     translation: thing
     transliteration: shayin
   28:
-    arabic: عَلِيۡمًا‏
+    arabic: عَلِيمٗا
     translation: All-Knower
     transliteration: ʿalīman
 ---

@@ -1,9 +1,9 @@
 ---
-arabic_ayat: وَكَذٰلِكَ بَعَثۡنٰهُمۡ لِيَتَسَآءَلُوۡا بَيۡنَهُمۡ​ ؕ قَالَ قَآٮِٕلٌ
-  مِّنۡهُمۡ كَمۡ لَبِثۡتُمۡ ؕ قَالُوۡا لَبِثۡنَا يَوۡمًا اَوۡ بَعۡضَ يَوۡمٍ​ ؕ قَالُوۡا
-  رَبُّكُمۡ اَعۡلَمُ بِمَا لَبِثۡتُمۡ ؕ فَابۡعَثُوۡۤا اَحَدَكُمۡ بِوَرِقِكُمۡ هٰذِهٖۤ
-  اِلَى الۡمَدِيۡنَةِ فَلۡيَنۡظُرۡ اَيُّهَاۤ اَزۡكٰى طَعَامًا فَلۡيَاۡتِكُمۡ بِرِزۡقٍ
-  مِّنۡهُ وَلۡيَتَلَطَّفۡ وَلَا يُشۡعِرَنَّ بِكُمۡ اَحَدًا‏
+arabic_ayat: وَكَذَٰلِكَ بَعَثۡنَٰهُمۡ لِيَتَسَآءَلُواْ بَيۡنَهُمۡۚ قَالَ قَآئِلٞ
+  مِّنۡهُمۡ كَمۡ لَبِثۡتُمۡۖ قَالُواْ لَبِثۡنَا يَوۡمًا أَوۡ بَعۡضَ يَوۡمٖۚ قَالُواْ
+  رَبُّكُمۡ أَعۡلَمُ بِمَا لَبِثۡتُمۡ فَٱبۡعَثُوٓاْ أَحَدَكُم بِوَرِقِكُمۡ هَٰذِهِۦٓ
+  إِلَى ٱلۡمَدِينَةِ فَلۡيَنظُرۡ أَيُّهَآ أَزۡكَىٰ طَعَامٗا فَلۡيَأۡتِكُم بِرِزۡقٖ
+  مِّنۡهُ وَلۡيَتَلَطَّفۡ وَلَا يُشۡعِرَنَّ بِكُمۡ أَحَدًا
 sentence_translation: And so We awakened them so that they might question one another.
   One of them exclaimed, “How long have you remained ˹asleep˺?” Some replied, “Perhaps
   a day, or part of a day.” They said ˹to one another˺, “Your Lord knows best how
@@ -12,19 +12,19 @@ sentence_translation: And so We awakened them so that they might question one an
   it. Let him be ˹exceptionally˺ cautious, and do not let him give you away.
 word_by_word:
   1:
-    arabic: وَكَذٰلِكَ
+    arabic: وَكَذَٰلِكَ
     translation: And similarly
     transliteration: wakadhālika
   2:
-    arabic: بَعَثۡنٰهُمۡ
+    arabic: بَعَثۡنَٰهُمۡ
     translation: We raised them
     transliteration: baʿathnāhum
   3:
-    arabic: لِيَتَسَآءَلُوۡا
+    arabic: لِيَتَسَآءَلُواْ
     translation: that they might question
     transliteration: liyatasāalū
   4:
-    arabic: بَيۡنَهُمۡ​ ؕ
+    arabic: بَيۡنَهُمۡۚ
     translation: among them
     transliteration: baynahum
   5:
@@ -32,7 +32,7 @@ word_by_word:
     translation: Said
     transliteration: qāla
   6:
-    arabic: قَآٮِٕلٌ
+    arabic: قَآئِلٞ
     translation: a speaker
     transliteration: qāilun
   7:
@@ -44,11 +44,11 @@ word_by_word:
     translation: How long
     transliteration: kam
   9:
-    arabic: لَبِثۡتُمۡ ؕ
+    arabic: لَبِثۡتُمۡۖ
     translation: have you remained
     transliteration: labith'tum
   10:
-    arabic: قَالُوۡا
+    arabic: قَالُواْ
     translation: They said
     transliteration: qālū
   11:
@@ -60,7 +60,7 @@ word_by_word:
     translation: a day
     transliteration: yawman
   13:
-    arabic: اَوۡ
+    arabic: أَوۡ
     translation: or
     transliteration: aw
   14:
@@ -68,11 +68,11 @@ word_by_word:
     translation: a part
     transliteration: baʿḍa
   15:
-    arabic: يَوۡمٍ​ ؕ
+    arabic: يَوۡمٖۚ
     translation: (of) a day
     transliteration: yawmin
   16:
-    arabic: قَالُوۡا
+    arabic: قَالُواْ
     translation: They said
     transliteration: qālū
   17:
@@ -80,7 +80,7 @@ word_by_word:
     translation: Your Lord
     transliteration: rabbukum
   18:
-    arabic: اَعۡلَمُ
+    arabic: أَعۡلَمُ
     translation: knows best
     transliteration: aʿlamu
   19:
@@ -88,15 +88,15 @@ word_by_word:
     translation: how long
     transliteration: bimā
   20:
-    arabic: لَبِثۡتُمۡ ؕ
+    arabic: لَبِثۡتُمۡ
     translation: you have remained
     transliteration: labith'tum
   21:
-    arabic: فَابۡعَثُوۡۤا
+    arabic: فَٱبۡعَثُوٓاْ
     translation: So send
     transliteration: fa-ib'ʿathū
   22:
-    arabic: اَحَدَكُمۡ
+    arabic: أَحَدَكُم
     translation: one of you
     transliteration: aḥadakum
   23:
@@ -104,39 +104,39 @@ word_by_word:
     translation: with this silver coin of yours
     transliteration: biwariqikum
   24:
-    arabic: هٰذِهٖۤ
+    arabic: هَٰذِهِۦٓ
     translation: with this silver coin of yours
     transliteration: hādhihi
   25:
-    arabic: اِلَى
+    arabic: إِلَى
     translation: to
     transliteration: ilā
   26:
-    arabic: الۡمَدِيۡنَةِ
+    arabic: ٱلۡمَدِينَةِ
     translation: the city
     transliteration: l-madīnati
   27:
-    arabic: فَلۡيَنۡظُرۡ
+    arabic: فَلۡيَنظُرۡ
     translation: and let him see
     transliteration: falyanẓur
   28:
-    arabic: اَيُّهَاۤ
+    arabic: أَيُّهَآ
     translation: which is
     transliteration: ayyuhā
   29:
-    arabic: اَزۡكٰى
+    arabic: أَزۡكَىٰ
     translation: the purest
     transliteration: azkā
   30:
-    arabic: طَعَامًا
+    arabic: طَعَامٗا
     translation: food
     transliteration: ṭaʿāman
   31:
-    arabic: فَلۡيَاۡتِكُمۡ
+    arabic: فَلۡيَأۡتِكُم
     translation: and let him bring to you
     transliteration: falyatikum
   32:
-    arabic: بِرِزۡقٍ
+    arabic: بِرِزۡقٖ
     translation: provision
     transliteration: biriz'qin
   33:
@@ -160,7 +160,7 @@ word_by_word:
     translation: about you
     transliteration: bikum
   38:
-    arabic: اَحَدًا‏
+    arabic: أَحَدًا
     translation: anyone
     transliteration: aḥadan
 ---

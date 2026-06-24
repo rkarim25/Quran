@@ -1,5 +1,5 @@
 ---
-arabic_ayat: يَوۡمَ نَبۡطِشُ الۡبَطۡشَةَ الۡكُبۡـرٰى​ۚ اِنَّا مُنۡتَقِمُوۡنَ‏
+arabic_ayat: يَوۡمَ نَبۡطِشُ ٱلۡبَطۡشَةَ ٱلۡكُبۡرَىٰٓ إِنَّا مُنتَقِمُونَ
 sentence_translation: ˹Then˺ on the Day We will deal ˹you˺ the fiercest blow, We will
   surely inflict punishment.
 word_by_word:
@@ -12,19 +12,19 @@ word_by_word:
     translation: We will seize
     transliteration: nabṭishu
   3:
-    arabic: الۡبَطۡشَةَ
+    arabic: ٱلۡبَطۡشَةَ
     translation: (with) the seizure
     transliteration: l-baṭshata
   4:
-    arabic: الۡكُبۡـرٰى​ۚ
+    arabic: ٱلۡكُبۡرَىٰٓ
     translation: the greatest
     transliteration: l-kub'rā
   5:
-    arabic: اِنَّا
+    arabic: إِنَّا
     translation: indeed, We
     transliteration: innā
   6:
-    arabic: مُنۡتَقِمُوۡنَ‏
+    arabic: مُنتَقِمُونَ
     translation: (will) take retribution
     transliteration: muntaqimūna
 ---

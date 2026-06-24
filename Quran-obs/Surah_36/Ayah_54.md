@@ -1,11 +1,11 @@
 ---
-arabic_ayat: فَالۡيَوۡمَ لَا تُظۡلَمُ نَفۡسٌ شَيۡـــًٔا وَّلَا تُجۡزَوۡنَ اِلَّا مَا
-  كُنۡتُمۡ تَعۡمَلُوۡنَ‏
+arabic_ayat: فَٱلۡيَوۡمَ لَا تُظۡلَمُ نَفۡسٞ شَيۡـٔٗا وَلَا تُجۡزَوۡنَ إِلَّا مَا
+  كُنتُمۡ تَعۡمَلُونَ
 sentence_translation: On that Day no soul will be wronged in the least, nor will you
   be rewarded except for what you used to do.
 word_by_word:
   1:
-    arabic: فَالۡيَوۡمَ
+    arabic: فَٱلۡيَوۡمَ
     translation: So this Day
     transliteration: fal-yawma
   2:
@@ -17,15 +17,15 @@ word_by_word:
     translation: will be wronged
     transliteration: tuẓ'lamu
   4:
-    arabic: نَفۡسٌ
+    arabic: نَفۡسٞ
     translation: a soul
     transliteration: nafsun
   5:
-    arabic: شَيۡـــًٔا
+    arabic: شَيۡـٔٗا
     translation: (in) anything
     transliteration: shayan
   6:
-    arabic: وَّلَا
+    arabic: وَلَا
     translation: and not
     transliteration: walā
   7:
@@ -33,7 +33,7 @@ word_by_word:
     translation: you will be recompensed
     transliteration: tuj'zawna
   8:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   9:
@@ -41,11 +41,11 @@ word_by_word:
     translation: (for) what
     transliteration: mā
   10:
-    arabic: كُنۡتُمۡ
+    arabic: كُنتُمۡ
     translation: you used (to)
     transliteration: kuntum
   11:
-    arabic: تَعۡمَلُوۡنَ‏
+    arabic: تَعۡمَلُونَ
     translation: do
     transliteration: taʿmalūna
 ---

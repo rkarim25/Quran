@@ -1,5 +1,5 @@
 ---
-arabic_ayat: نَحۡنُ خَلَقۡنٰكُمۡ فَلَوۡلَا تُصَدِّقُوۡنَ‏
+arabic_ayat: نَحۡنُ خَلَقۡنَٰكُمۡ فَلَوۡلَا تُصَدِّقُونَ
 sentence_translation: It is We Who created you. Will you not then believe ˹in resurrection˺?
 word_by_word:
   1:
@@ -7,7 +7,7 @@ word_by_word:
     translation: We
     transliteration: naḥnu
   2:
-    arabic: خَلَقۡنٰكُمۡ
+    arabic: خَلَقۡنَٰكُمۡ
     translation: '[We] created you'
     transliteration: khalaqnākum
   3:
@@ -15,7 +15,7 @@ word_by_word:
     translation: so why (do) not
     transliteration: falawlā
   4:
-    arabic: تُصَدِّقُوۡنَ‏
+    arabic: تُصَدِّقُونَ
     translation: you admit the truth
     transliteration: tuṣaddiqūna
 ---

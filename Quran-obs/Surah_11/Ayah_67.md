@@ -1,39 +1,39 @@
 ---
-arabic_ayat: "وَاَخَذَ الَّذِيۡنَ ظَلَمُوا الصَّيۡحَةُ فَاَصۡبَحُوۡا فِىۡ دِيَارِهِمۡ\
-  \ جٰثِمِيۡنَۙ‏ \uFEFF\uFEFF"
+arabic_ayat: وَأَخَذَ ٱلَّذِينَ ظَلَمُواْ ٱلصَّيۡحَةُ فَأَصۡبَحُواْ فِي دِيَٰرِهِمۡ
+  جَٰثِمِينَ
 sentence_translation: And the ˹mighty˺ blast overtook the wrongdoers, so they fell
   lifeless in their homes,
 word_by_word:
   1:
-    arabic: وَاَخَذَ
+    arabic: وَأَخَذَ
     translation: And seized
     transliteration: wa-akhadha
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   3:
-    arabic: ظَلَمُوا
+    arabic: ظَلَمُواْ
     translation: wronged
     transliteration: ẓalamū
   4:
-    arabic: الصَّيۡحَةُ
+    arabic: ٱلصَّيۡحَةُ
     translation: the thunderous blast
     transliteration: l-ṣayḥatu
   5:
-    arabic: فَاَصۡبَحُوۡا
+    arabic: فَأَصۡبَحُواْ
     translation: then they became
     transliteration: fa-aṣbaḥū
   6:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   7:
-    arabic: دِيَارِهِمۡ
+    arabic: دِيَٰرِهِمۡ
     translation: their homes
     transliteration: diyārihim
   8:
-    arabic: "جٰثِمِيۡنَۙ‏ \uFEFF\uFEFF"
+    arabic: جَٰثِمِينَ
     translation: fallen prone
     transliteration: jāthimīna
 ---

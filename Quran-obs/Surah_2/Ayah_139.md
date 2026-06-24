@@ -1,6 +1,6 @@
 ---
-arabic_ayat: قُلۡ اَ تُحَآجُّوۡنَـنَا فِى اللّٰهِ وَهُوَ رَبُّنَا وَرَبُّکُمۡۚ وَلَنَآ
-  اَعۡمَالُـنَا وَلَـكُمۡ اَعۡمَالُكُمۡۚ وَنَحۡنُ لَهٗ مُخۡلِصُوۡنَۙ‏
+arabic_ayat: قُلۡ أَتُحَآجُّونَنَا فِي ٱللَّهِ وَهُوَ رَبُّنَا وَرَبُّكُمۡ وَلَنَآ
+  أَعۡمَٰلُنَا وَلَكُمۡ أَعۡمَٰلُكُمۡ وَنَحۡنُ لَهُۥ مُخۡلِصُونَ
 sentence_translation: Say, “Would you dispute with us about Allah, while He is our
   Lord and your Lord? We are accountable for our deeds and you for yours. And we are
   devoted to Him ˹alone˺.
@@ -10,15 +10,15 @@ word_by_word:
     translation: Say
     transliteration: qul
   2:
-    arabic: اَ تُحَآجُّوۡنَـنَا
+    arabic: أَتُحَآجُّونَنَا
     translation: Do you argue with us
     transliteration: atuḥājjūnanā
   3:
-    arabic: فِى
+    arabic: فِي
     translation: about
     transliteration: fī
   4:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   5:
@@ -30,7 +30,7 @@ word_by_word:
     translation: (is) our Lord
     transliteration: rabbunā
   7:
-    arabic: وَرَبُّکُمۡۚ
+    arabic: وَرَبُّكُمۡ
     translation: and your Lord
     transliteration: warabbukum
   8:
@@ -38,15 +38,15 @@ word_by_word:
     translation: And for us
     transliteration: walanā
   9:
-    arabic: اَعۡمَالُـنَا
+    arabic: أَعۡمَٰلُنَا
     translation: (are) our deeds
     transliteration: aʿmālunā
   10:
-    arabic: وَلَـكُمۡ
+    arabic: وَلَكُمۡ
     translation: and for you
     transliteration: walakum
   11:
-    arabic: اَعۡمَالُكُمۡۚ
+    arabic: أَعۡمَٰلُكُمۡ
     translation: (are) your deeds
     transliteration: aʿmālukum
   12:
@@ -54,11 +54,11 @@ word_by_word:
     translation: and we
     transliteration: wanaḥnu
   13:
-    arabic: لَهٗ
+    arabic: لَهُۥ
     translation: to Him
     transliteration: lahu
   14:
-    arabic: مُخۡلِصُوۡنَۙ‏
+    arabic: مُخۡلِصُونَ
     translation: (are) sincere
     transliteration: mukh'liṣūna
 ---

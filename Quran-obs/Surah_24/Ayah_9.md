@@ -1,15 +1,14 @@
 ---
-arabic_ayat: "وَالۡخَـامِسَةَ اَنَّ غَضَبَ اللّٰهِ عَلَيۡهَاۤ اِنۡ كَانَ مِنَ الصّٰدِقِيۡنَ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: وَٱلۡخَٰمِسَةَ أَنَّ غَضَبَ ٱللَّهِ عَلَيۡهَآ إِن كَانَ مِنَ ٱلصَّٰدِقِينَ
 sentence_translation: and a fifth oath that Allah may be displeased with her if he
   is telling the truth.
 word_by_word:
   1:
-    arabic: وَالۡخَـامِسَةَ
+    arabic: وَٱلۡخَٰمِسَةَ
     translation: And the fifth
     transliteration: wal-khāmisata
   2:
-    arabic: اَنَّ
+    arabic: أَنَّ
     translation: that
     transliteration: anna
   3:
@@ -17,15 +16,15 @@ word_by_word:
     translation: the wrath of Allah
     transliteration: ghaḍaba
   4:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: the wrath of Allah
     transliteration: l-lahi
   5:
-    arabic: عَلَيۡهَاۤ
+    arabic: عَلَيۡهَآ
     translation: (be) upon her
     transliteration: ʿalayhā
   6:
-    arabic: اِنۡ
+    arabic: إِن
     translation: if
     transliteration: in
   7:
@@ -37,7 +36,7 @@ word_by_word:
     translation: of
     transliteration: mina
   9:
-    arabic: "الصّٰدِقِيۡنَ‏ \uFEFF\uFEFF"
+    arabic: ٱلصَّٰدِقِينَ
     translation: the truthful
     transliteration: l-ṣādiqīna
 ---

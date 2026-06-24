@@ -1,17 +1,17 @@
 ---
-arabic_ayat: فِيۡهِمَا عَيۡنٰنِ نَضَّاخَتٰنِ​ۚ‏
+arabic_ayat: فِيهِمَا عَيۡنَانِ نَضَّاخَتَانِ
 sentence_translation: In each will be two gushing springs.
 word_by_word:
   1:
-    arabic: فِيۡهِمَا
+    arabic: فِيهِمَا
     translation: In both of them
     transliteration: fīhimā
   2:
-    arabic: عَيۡنٰنِ
+    arabic: عَيۡنَانِ
     translation: (are) two springs
     transliteration: ʿaynāni
   3:
-    arabic: نَضَّاخَتٰنِ​ۚ‏
+    arabic: نَضَّاخَتَانِ
     translation: gushing forth
     transliteration: naḍḍākhatāni
 ---

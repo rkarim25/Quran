@@ -1,6 +1,6 @@
 ---
-arabic_ayat: وَلَا تَحۡسَبَنَّ الَّذِيۡنَ قُتِلُوۡا فِىۡ سَبِيۡلِ اللّٰهِ اَمۡوَاتًا ​ؕ
-  بَلۡ اَحۡيَآءٌ عِنۡدَ رَبِّهِمۡ يُرۡزَقُوۡنَۙ‏
+arabic_ayat: وَلَا تَحۡسَبَنَّ ٱلَّذِينَ قُتِلُواْ فِي سَبِيلِ ٱللَّهِ أَمۡوَٰتَۢاۚ
+  بَلۡ أَحۡيَآءٌ عِندَ رَبِّهِمۡ يُرۡزَقُونَ
 sentence_translation: Never think of those martyred in the cause of Allah as dead.
   In fact, they are alive with their Lord, well provided for—
 word_by_word:
@@ -13,27 +13,27 @@ word_by_word:
     translation: think
     transliteration: taḥsabanna
   3:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: (of) those who
     transliteration: alladhīna
   4:
-    arabic: قُتِلُوۡا
+    arabic: قُتِلُواْ
     translation: are killed
     transliteration: qutilū
   5:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   6:
-    arabic: سَبِيۡلِ
+    arabic: سَبِيلِ
     translation: (the) way
     transliteration: sabīli
   7:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (of) Allah
     transliteration: l-lahi
   8:
-    arabic: اَمۡوَاتًا ​ؕ
+    arabic: أَمۡوَٰتَۢاۚ
     translation: (as) dead
     transliteration: amwātan
   9:
@@ -41,11 +41,11 @@ word_by_word:
     translation: Nay
     transliteration: bal
   10:
-    arabic: اَحۡيَآءٌ
+    arabic: أَحۡيَآءٌ
     translation: They are alive
     transliteration: aḥyāon
   11:
-    arabic: عِنۡدَ
+    arabic: عِندَ
     translation: near
     transliteration: ʿinda
   12:
@@ -53,7 +53,7 @@ word_by_word:
     translation: their Lord
     transliteration: rabbihim
   13:
-    arabic: يُرۡزَقُوۡنَۙ‏
+    arabic: يُرۡزَقُونَ
     translation: they are given provision
     transliteration: yur'zaqūna
 ---

@@ -1,7 +1,7 @@
 ---
-arabic_ayat: قُلۡ اِنَّمَاۤ اَنَا بَشَرٌ مِّثۡلُكُمۡ يُوۡحٰٓى اِلَىَّ اَنَّمَاۤ اِلٰهُكُمۡ
-  اِلٰـهٌ وَّاحِدٌ​  ۚ فَمَنۡ كَانَ يَرۡجُوۡالِقَآءَ رَبِّهٖ فَلۡيَـعۡمَلۡ عَمَلًا
-  صَالِحًـاوَّلَايُشۡرِكۡ بِعِبَادَةِ رَبِّهٖۤ اَحَدًا‏
+arabic_ayat: قُلۡ إِنَّمَآ أَنَا۠ بَشَرٞ مِّثۡلُكُمۡ يُوحَىٰٓ إِلَيَّ أَنَّمَآ إِلَٰهُكُمۡ
+  إِلَٰهٞ وَٰحِدٞۖ فَمَن كَانَ يَرۡجُواْ لِقَآءَ رَبِّهِۦ فَلۡيَعۡمَلۡ عَمَلٗا صَٰلِحٗا
+  وَلَا يُشۡرِكۡ بِعِبَادَةِ رَبِّهِۦٓ أَحَدَۢا
 sentence_translation: Say, ˹O Prophet,˺ “I am only a man like you, ˹but˺ it has been
   revealed to me that your God is only One God. So whoever hopes for the meeting with
   their Lord, let them do good deeds and associate none in the worship of their Lord.”
@@ -11,15 +11,15 @@ word_by_word:
     translation: Say
     transliteration: qul
   2:
-    arabic: اِنَّمَاۤ
+    arabic: إِنَّمَآ
     translation: Only
     transliteration: innamā
   3:
-    arabic: اَنَا
+    arabic: أَنَا۠
     translation: I
     transliteration: anā
   4:
-    arabic: بَشَرٌ
+    arabic: بَشَرٞ
     translation: (am) a man
     transliteration: basharun
   5:
@@ -27,31 +27,31 @@ word_by_word:
     translation: like you
     transliteration: mith'lukum
   6:
-    arabic: يُوۡحٰٓى
+    arabic: يُوحَىٰٓ
     translation: Has been revealed
     transliteration: yūḥā
   7:
-    arabic: اِلَىَّ
+    arabic: إِلَيَّ
     translation: to me
     transliteration: ilayya
   8:
-    arabic: اَنَّمَاۤ
+    arabic: أَنَّمَآ
     translation: that
     transliteration: annamā
   9:
-    arabic: اِلٰهُكُمۡ
+    arabic: إِلَٰهُكُمۡ
     translation: your God
     transliteration: ilāhukum
   10:
-    arabic: اِلٰـهٌ
+    arabic: إِلَٰهٞ
     translation: (is) God
     transliteration: ilāhun
   11:
-    arabic: وَّاحِدٌ​  ۚ
+    arabic: وَٰحِدٞۖ
     translation: One
     transliteration: wāḥidun
   12:
-    arabic: فَمَنۡ
+    arabic: فَمَن
     translation: So whoever
     transliteration: faman
   13:
@@ -59,7 +59,7 @@ word_by_word:
     translation: is
     transliteration: kāna
   14:
-    arabic: يَرۡجُوۡا
+    arabic: يَرۡجُواْ
     translation: hoping
     transliteration: yarjū
   15:
@@ -67,23 +67,23 @@ word_by_word:
     translation: (for the) meeting
     transliteration: liqāa
   16:
-    arabic: رَبِّهٖ
+    arabic: رَبِّهِۦ
     translation: (with) his Lord
     transliteration: rabbihi
   17:
-    arabic: فَلۡيَـعۡمَلۡ
+    arabic: فَلۡيَعۡمَلۡ
     translation: let him do
     transliteration: falyaʿmal
   18:
-    arabic: عَمَلًا
+    arabic: عَمَلٗا
     translation: deeds
     transliteration: ʿamalan
   19:
-    arabic: صَالِحًـا
+    arabic: صَٰلِحٗا
     translation: righteous
     transliteration: ṣāliḥan
   20:
-    arabic: وَّلَا
+    arabic: وَلَا
     translation: and not
     transliteration: walā
   21:
@@ -95,11 +95,11 @@ word_by_word:
     translation: in (the) worship
     transliteration: biʿibādati
   23:
-    arabic: رَبِّهٖۤ
+    arabic: رَبِّهِۦٓ
     translation: (of) his Lord
     transliteration: rabbihi
   24:
-    arabic: اَحَدًا‏
+    arabic: أَحَدَۢا
     translation: anyone
     transliteration: aḥadan
 ---

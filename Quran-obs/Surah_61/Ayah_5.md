@@ -1,14 +1,14 @@
 ---
-arabic_ayat: وَاِذۡ قَالَ مُوۡسٰى لِقَوۡمِهٖ يٰقَوۡمِ لِمَ تُؤۡذُوۡنَنِىۡ وَقَد تَّعۡلَمُوۡنَ
-  اَنِّىۡ رَسُوۡلُ اللّٰهِ اِلَيۡكُمۡؕ فَلَمَّا زَاغُوۡۤا اَزَاغَ اللّٰهُ قُلُوۡبَهُمۡ​ؕ
-  وَاللّٰهُ لَا يَهۡدِى الۡقَوۡمَ الۡفٰسِقِيۡنَ‏
+arabic_ayat: وَإِذۡ قَالَ مُوسَىٰ لِقَوۡمِهِۦ يَٰقَوۡمِ لِمَ تُؤۡذُونَنِي وَقَد تَّعۡلَمُونَ
+  أَنِّي رَسُولُ ٱللَّهِ إِلَيۡكُمۡۖ فَلَمَّا زَاغُوٓاْ أَزَاغَ ٱللَّهُ قُلُوبَهُمۡۚ
+  وَٱللَّهُ لَا يَهۡدِي ٱلۡقَوۡمَ ٱلۡفَٰسِقِينَ
 sentence_translation: ˹Remember, O  Prophet,˺ when Moses said to his people, “O my
   people! Why do you hurt me when you already know I am Allah’s messenger to you?”
   So when they ˹persistently˺ deviated, Allah caused their hearts to deviate. For
   Allah does not guide the rebellious people.
 word_by_word:
   1:
-    arabic: وَاِذۡ
+    arabic: وَإِذۡ
     translation: And when
     transliteration: wa-idh
   2:
@@ -16,15 +16,15 @@ word_by_word:
     translation: said
     transliteration: qāla
   3:
-    arabic: مُوۡسٰى
+    arabic: مُوسَىٰ
     translation: Musa
     transliteration: mūsā
   4:
-    arabic: لِقَوۡمِهٖ
+    arabic: لِقَوۡمِهِۦ
     translation: to his people
     transliteration: liqawmihi
   5:
-    arabic: يٰقَوۡمِ
+    arabic: يَٰقَوۡمِ
     translation: O my people
     transliteration: yāqawmi
   6:
@@ -32,7 +32,7 @@ word_by_word:
     translation: Why
     transliteration: lima
   7:
-    arabic: تُؤۡذُوۡنَنِىۡ
+    arabic: تُؤۡذُونَنِي
     translation: do you hurt me
     transliteration: tu'dhūnanī
   8:
@@ -40,23 +40,23 @@ word_by_word:
     translation: while certainly
     transliteration: waqad
   9:
-    arabic: تَّعۡلَمُوۡنَ
+    arabic: تَّعۡلَمُونَ
     translation: you know
     transliteration: taʿlamūna
   10:
-    arabic: اَنِّىۡ
+    arabic: أَنِّي
     translation: that I am
     transliteration: annī
   11:
-    arabic: رَسُوۡلُ
+    arabic: رَسُولُ
     translation: (the) Messenger
     transliteration: rasūlu
   12:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (of) Allah
     transliteration: l-lahi
   13:
-    arabic: اِلَيۡكُمۡؕ
+    arabic: إِلَيۡكُمۡۖ
     translation: to you
     transliteration: ilaykum
   14:
@@ -64,23 +64,23 @@ word_by_word:
     translation: Then when
     transliteration: falammā
   15:
-    arabic: زَاغُوۡۤا
+    arabic: زَاغُوٓاْ
     translation: they deviated
     transliteration: zāghū
   16:
-    arabic: اَزَاغَ
+    arabic: أَزَاغَ
     translation: (was caused to) deviate
     transliteration: azāgha
   17:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: (by) Allah
     transliteration: l-lahu
   18:
-    arabic: قُلُوۡبَهُمۡ​ؕ
+    arabic: قُلُوبَهُمۡۚ
     translation: their hearts
     transliteration: qulūbahum
   19:
-    arabic: وَاللّٰهُ
+    arabic: وَٱللَّهُ
     translation: And Allah
     transliteration: wal-lahu
   20:
@@ -88,15 +88,15 @@ word_by_word:
     translation: (does) not
     transliteration: lā
   21:
-    arabic: يَهۡدِى
+    arabic: يَهۡدِي
     translation: guide
     transliteration: yahdī
   22:
-    arabic: الۡقَوۡمَ
+    arabic: ٱلۡقَوۡمَ
     translation: the people
     transliteration: l-qawma
   23:
-    arabic: الۡفٰسِقِيۡنَ‏
+    arabic: ٱلۡفَٰسِقِينَ
     translation: the defiantly disobedient
     transliteration: l-fāsiqīna
 ---

@@ -1,9 +1,9 @@
 ---
-arabic_ayat: اِنَّ بَطۡشَ رَبِّكَ لَشَدِيۡدٌ ؕ‏
+arabic_ayat: إِنَّ بَطۡشَ رَبِّكَ لَشَدِيدٌ
 sentence_translation: Indeed, the ˹crushing˺ grip of your Lord is severe.
 word_by_word:
   1:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   2:
@@ -15,7 +15,7 @@ word_by_word:
     translation: (of) your Lord
     transliteration: rabbika
   4:
-    arabic: لَشَدِيۡدٌ ؕ‏
+    arabic: لَشَدِيدٌ
     translation: (is) surely strong
     transliteration: lashadīdun
 ---

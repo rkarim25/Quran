@@ -1,14 +1,14 @@
 ---
-arabic_ayat: وَاِذۡ قَالَتۡ اُمَّةٌ مِّنۡهُمۡ لِمَ تَعِظُوۡنَ قَوۡمَاْ ​ ۙ اۨللّٰهُ
-  مُهۡلِكُهُمۡ اَوۡ مُعَذِّبُهُمۡ عَذَابًا شَدِيۡدًا​ ؕ قَالُوۡا مَعۡذِرَةً اِلٰى
-  رَبِّكُمۡ وَلَعَلَّهُمۡ يَتَّقُوۡنَ‏
+arabic_ayat: وَإِذۡ قَالَتۡ أُمَّةٞ مِّنۡهُمۡ لِمَ تَعِظُونَ قَوۡمًا ٱللَّهُ مُهۡلِكُهُمۡ
+  أَوۡ مُعَذِّبُهُمۡ عَذَابٗا شَدِيدٗاۖ قَالُواْ مَعۡذِرَةً إِلَىٰ رَبِّكُمۡ وَلَعَلَّهُمۡ
+  يَتَّقُونَ
 sentence_translation: When some of ˹the righteous among˺ them questioned ˹their fellow
   Sabbath-keepers˺, “Why do you ˹bother to˺ warn those ˹Sabbath-breakers˺ who will
   either be destroyed or severely punished by Allah?” They replied, “Just to be free
   from your Lord’s blame, and so perhaps they may abstain.”
 word_by_word:
   1:
-    arabic: وَاِذۡ
+    arabic: وَإِذۡ
     translation: And when
     transliteration: wa-idh
   2:
@@ -16,7 +16,7 @@ word_by_word:
     translation: said
     transliteration: qālat
   3:
-    arabic: اُمَّةٌ
+    arabic: أُمَّةٞ
     translation: a community
     transliteration: ummatun
   4:
@@ -28,15 +28,15 @@ word_by_word:
     translation: Why
     transliteration: lima
   6:
-    arabic: تَعِظُوۡنَ
+    arabic: تَعِظُونَ
     translation: (do) you preach
     transliteration: taʿiẓūna
   7:
-    arabic: قَوۡمَاْ ​ ۙ
+    arabic: قَوۡمًا
     translation: a people
     transliteration: qawman
   8:
-    arabic: اۨللّٰهُ
+    arabic: ٱللَّهُ
     translation: (whom) Allah
     transliteration: l-lahu
   9:
@@ -44,7 +44,7 @@ word_by_word:
     translation: (is going to) destroy them
     transliteration: muh'likuhum
   10:
-    arabic: اَوۡ
+    arabic: أَوۡ
     translation: or
     transliteration: aw
   11:
@@ -52,15 +52,15 @@ word_by_word:
     translation: punish them
     transliteration: muʿadhibuhum
   12:
-    arabic: عَذَابًا
+    arabic: عَذَابٗا
     translation: (with) a punishment
     transliteration: ʿadhāban
   13:
-    arabic: شَدِيۡدًا​ ؕ
+    arabic: شَدِيدٗاۖ
     translation: severe
     transliteration: shadīdan
   14:
-    arabic: قَالُوۡا
+    arabic: قَالُواْ
     translation: They said
     transliteration: qālū
   15:
@@ -68,7 +68,7 @@ word_by_word:
     translation: To be absolved
     transliteration: maʿdhiratan
   16:
-    arabic: اِلٰى
+    arabic: إِلَىٰ
     translation: before
     transliteration: ilā
   17:
@@ -80,7 +80,7 @@ word_by_word:
     translation: and that they may
     transliteration: walaʿallahum
   19:
-    arabic: يَتَّقُوۡنَ‏
+    arabic: يَتَّقُونَ
     translation: become righteous
     transliteration: yattaqūna
 ---

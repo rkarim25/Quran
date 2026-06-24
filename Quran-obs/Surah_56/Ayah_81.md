@@ -1,21 +1,21 @@
 ---
-arabic_ayat: اَفَبِهٰذَا الۡحَـدِيۡثِ اَنۡتُمۡ مُّدۡهِنُوۡنَۙ‏
+arabic_ayat: أَفَبِهَٰذَا ٱلۡحَدِيثِ أَنتُم مُّدۡهِنُونَ
 sentence_translation: How can you then take this message lightly,
 word_by_word:
   1:
-    arabic: اَفَبِهٰذَا
+    arabic: أَفَبِهَٰذَا
     translation: Then is it to this
     transliteration: afabihādhā
   2:
-    arabic: الۡحَـدِيۡثِ
+    arabic: ٱلۡحَدِيثِ
     translation: statement
     transliteration: l-ḥadīthi
   3:
-    arabic: اَنۡتُمۡ
+    arabic: أَنتُم
     translation: that you
     transliteration: antum
   4:
-    arabic: مُّدۡهِنُوۡنَۙ‏
+    arabic: مُّدۡهِنُونَ
     translation: (are) indifferent
     transliteration: mud'hinūna
 ---

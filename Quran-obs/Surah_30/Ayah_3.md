@@ -1,25 +1,25 @@
 ---
-arabic_ayat: فِىۡۤ اَدۡنَى الۡاَرۡضِ وَهُمۡ مِّنۡۢ بَعۡدِ غَلَبِهِمۡ سَيَغۡلِبُوۡنَۙ‏
+arabic_ayat: فِيٓ أَدۡنَى ٱلۡأَرۡضِ وَهُم مِّنۢ بَعۡدِ غَلَبِهِمۡ سَيَغۡلِبُونَ
 sentence_translation: in a nearby land. Yet following their defeat, they will triumph
 word_by_word:
   1:
-    arabic: فِىۡۤ
+    arabic: فِيٓ
     translation: In
     transliteration: fī
   2:
-    arabic: اَدۡنَى
+    arabic: أَدۡنَى
     translation: (the) nearest
     transliteration: adnā
   3:
-    arabic: الۡاَرۡضِ
+    arabic: ٱلۡأَرۡضِ
     translation: land
     transliteration: l-arḍi
   4:
-    arabic: وَهُمۡ
+    arabic: وَهُم
     translation: But they
     transliteration: wahum
   5:
-    arabic: مِّنۡۢ
+    arabic: مِّنۢ
     translation: after
     transliteration: min
   6:
@@ -31,7 +31,7 @@ word_by_word:
     translation: their defeat
     transliteration: ghalabihim
   8:
-    arabic: سَيَغۡلِبُوۡنَۙ‏
+    arabic: سَيَغۡلِبُونَ
     translation: will overcome
     transliteration: sayaghlibūna
 ---

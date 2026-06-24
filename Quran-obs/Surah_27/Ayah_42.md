@@ -1,6 +1,6 @@
 ---
-arabic_ayat: فَلَمَّا جَآءَتۡ قِيۡلَ اَهٰكَذَا عَرۡشُكِ​ؕ قَالَتۡ كَاَنَّهٗ هُوَ​ۚ
-  وَاُوۡتِيۡنَا الۡعِلۡمَ مِنۡ قَبۡلِهَا وَ كُنَّا مُسۡلِمِيۡنَ‏
+arabic_ayat: فَلَمَّا جَآءَتۡ قِيلَ أَهَٰكَذَا عَرۡشُكِۖ قَالَتۡ كَأَنَّهُۥ هُوَۚ
+  وَأُوتِينَا ٱلۡعِلۡمَ مِن قَبۡلِهَا وَكُنَّا مُسۡلِمِينَ
 sentence_translation: So when she arrived, it was said ˹to her˺, “Is your throne like
   this?” She replied, “It looks to be the same. We have ˹already˺ received knowledge
   ˹of Solomon’s prophethood˺ before this ˹miracle˺, and have submitted ˹to Allah˺.”
@@ -14,15 +14,15 @@ word_by_word:
     translation: she came
     transliteration: jāat
   3:
-    arabic: قِيۡلَ
+    arabic: قِيلَ
     translation: it was said
     transliteration: qīla
   4:
-    arabic: اَهٰكَذَا
+    arabic: أَهَٰكَذَا
     translation: Is like this
     transliteration: ahākadhā
   5:
-    arabic: عَرۡشُكِ​ؕ
+    arabic: عَرۡشُكِۖ
     translation: your throne
     transliteration: ʿarshuki
   6:
@@ -30,23 +30,23 @@ word_by_word:
     translation: She said
     transliteration: qālat
   7:
-    arabic: كَاَنَّهٗ
+    arabic: كَأَنَّهُۥ
     translation: It is like
     transliteration: ka-annahu
   8:
-    arabic: هُوَ​ۚ
+    arabic: هُوَۚ
     translation: it
     transliteration: huwa
   9:
-    arabic: وَاُوۡتِيۡنَا
+    arabic: وَأُوتِينَا
     translation: And we were given
     transliteration: waūtīnā
   10:
-    arabic: الۡعِلۡمَ
+    arabic: ٱلۡعِلۡمَ
     translation: the knowledge
     transliteration: l-ʿil'ma
   11:
-    arabic: مِنۡ
+    arabic: مِن
     translation: before her
     transliteration: min
   12:
@@ -54,11 +54,11 @@ word_by_word:
     translation: before her
     transliteration: qablihā
   13:
-    arabic: وَ كُنَّا
+    arabic: وَكُنَّا
     translation: and we have been
     transliteration: wakunnā
   14:
-    arabic: مُسۡلِمِيۡنَ‏
+    arabic: مُسۡلِمِينَ
     translation: Muslims
     transliteration: mus'limīna
 ---

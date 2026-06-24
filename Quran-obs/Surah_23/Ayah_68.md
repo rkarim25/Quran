@@ -1,27 +1,27 @@
 ---
-arabic_ayat: اَفَلَمۡ يَدَّبَّرُوا الۡقَوۡلَ اَمۡ جَآءَهُمۡ مَّا لَمۡ يَاۡتِ اٰبَآءَهُمُ
-  الۡاَوَّلِيۡنَ‏
+arabic_ayat: أَفَلَمۡ يَدَّبَّرُواْ ٱلۡقَوۡلَ أَمۡ جَآءَهُم مَّا لَمۡ يَأۡتِ ءَابَآءَهُمُ
+  ٱلۡأَوَّلِينَ
 sentence_translation: Is it because they have never contemplated the Word ˹of Allah˺?
   Or ˹because˺ there has come to them something that did not come to their forefathers?
 word_by_word:
   1:
-    arabic: اَفَلَمۡ
+    arabic: أَفَلَمۡ
     translation: Then, do not
     transliteration: afalam
   2:
-    arabic: يَدَّبَّرُوا
+    arabic: يَدَّبَّرُواْ
     translation: they ponder
     transliteration: yaddabbarū
   3:
-    arabic: الۡقَوۡلَ
+    arabic: ٱلۡقَوۡلَ
     translation: the Word
     transliteration: l-qawla
   4:
-    arabic: اَمۡ
+    arabic: أَمۡ
     translation: or
     transliteration: am
   5:
-    arabic: جَآءَهُمۡ
+    arabic: جَآءَهُم
     translation: has come to them
     transliteration: jāahum
   6:
@@ -33,15 +33,15 @@ word_by_word:
     translation: not
     transliteration: lam
   8:
-    arabic: يَاۡتِ
+    arabic: يَأۡتِ ءَ
     translation: (had) come
     transliteration: yati
   9:
-    arabic: اٰبَآءَهُمُ
+    arabic: ابَآءَهُمُ
     translation: (to) their forefathers
     transliteration: ābāahumu
   10:
-    arabic: الۡاَوَّلِيۡنَ‏
+    arabic: ٱلۡأَوَّلِينَ
     translation: (to) their forefathers
     transliteration: l-awalīna
 ---

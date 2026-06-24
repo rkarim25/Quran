@@ -1,6 +1,6 @@
 ---
-arabic_ayat: فَفَرَرۡتُ مِنۡكُمۡ لَمَّا خِفۡتُكُمۡ فَوَهَبَ لِىۡ رَبِّىۡ حُكۡمًا وَّجَعَلَنِىۡ
-  مِنَ الۡمُرۡسَلِيۡنَ‏
+arabic_ayat: فَفَرَرۡتُ مِنكُمۡ لَمَّا خِفۡتُكُمۡ فَوَهَبَ لِي رَبِّي حُكۡمٗا وَجَعَلَنِي
+  مِنَ ٱلۡمُرۡسَلِينَ
 sentence_translation: So I fled from you when I feared you. Then my Lord granted me
   wisdom and made me one of the messengers.
 word_by_word:
@@ -9,7 +9,7 @@ word_by_word:
     translation: So I fled
     transliteration: fafarartu
   2:
-    arabic: مِنۡكُمۡ
+    arabic: مِنكُمۡ
     translation: from you
     transliteration: minkum
   3:
@@ -25,19 +25,19 @@ word_by_word:
     translation: But granted
     transliteration: fawahaba
   6:
-    arabic: لِىۡ
+    arabic: لِي
     translation: to me
     transliteration: lī
   7:
-    arabic: رَبِّىۡ
+    arabic: رَبِّي
     translation: my Lord
     transliteration: rabbī
   8:
-    arabic: حُكۡمًا
+    arabic: حُكۡمٗا
     translation: judgment
     transliteration: ḥuk'man
   9:
-    arabic: وَّجَعَلَنِىۡ
+    arabic: وَجَعَلَنِي
     translation: and made me
     transliteration: wajaʿalanī
   10:
@@ -45,7 +45,7 @@ word_by_word:
     translation: of
     transliteration: mina
   11:
-    arabic: الۡمُرۡسَلِيۡنَ‏
+    arabic: ٱلۡمُرۡسَلِينَ
     translation: the Messengers
     transliteration: l-mur'salīna
 ---

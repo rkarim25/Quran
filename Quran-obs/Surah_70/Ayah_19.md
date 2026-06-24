@@ -1,13 +1,13 @@
 ---
-arabic_ayat: اِنَّ الۡاِنۡسَانَ خُلِقَ هَلُوۡعًا ۙ‏
+arabic_ayat: ۞ إِنَّ ٱلۡإِنسَٰنَ خُلِقَ هَلُوعًا
 sentence_translation: 'Indeed, humankind was created impatient:'
 word_by_word:
   1:
-    arabic: ۞ اِنَّ
+    arabic: ۞ إِنَّ
     translation: Indeed
     transliteration: inna
   2:
-    arabic: الۡاِنۡسَانَ
+    arabic: ٱلۡإِنسَٰنَ
     translation: the man
     transliteration: l-insāna
   3:
@@ -15,7 +15,7 @@ word_by_word:
     translation: was created
     transliteration: khuliqa
   4:
-    arabic: هَلُوۡعًا ۙ‏
+    arabic: هَلُوعًا
     translation: 'anxious '
     transliteration: halūʿan
 ---

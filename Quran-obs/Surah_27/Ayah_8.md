@@ -1,6 +1,6 @@
 ---
-arabic_ayat: فَلَمَّا جَآءَهَا نُوۡدِىَ اَنۡۢ بُوۡرِكَ مَنۡ فِى النَّارِ وَ مَنۡ
-  حَوۡلَهَا ؕ وَسُبۡحٰنَ اللّٰهِ رَبِّ الۡعٰلَمِيۡنَ‏
+arabic_ayat: فَلَمَّا جَآءَهَا نُودِيَ أَنۢ بُورِكَ مَن فِي ٱلنَّارِ وَمَنۡ حَوۡلَهَا
+  وَسُبۡحَٰنَ ٱللَّهِ رَبِّ ٱلۡعَٰلَمِينَ
 sentence_translation: But when he came to it, he was called ˹by Allah˺, “Blessed is
   the one at the fire, and whoever is around it! Glory be to Allah, the Lord of all
   worlds.
@@ -14,43 +14,43 @@ word_by_word:
     translation: he came to it
     transliteration: jāahā
   3:
-    arabic: نُوۡدِىَ
+    arabic: نُودِيَ
     translation: he was called
     transliteration: nūdiya
   4:
-    arabic: اَنۡۢ
+    arabic: أَنۢ
     translation: '[that]'
     transliteration: an
   5:
-    arabic: بُوۡرِكَ
+    arabic: بُورِكَ
     translation: Blessed is
     transliteration: būrika
   6:
-    arabic: مَنۡ
+    arabic: مَن
     translation: who
     transliteration: man
   7:
-    arabic: فِى
+    arabic: فِي
     translation: (is) at
     transliteration: fī
   8:
-    arabic: النَّارِ
+    arabic: ٱلنَّارِ
     translation: the fire
     transliteration: l-nāri
   9:
-    arabic: وَ مَنۡ
+    arabic: وَمَنۡ
     translation: and whoever
     transliteration: waman
   10:
-    arabic: حَوۡلَهَا ؕ
+    arabic: حَوۡلَهَا
     translation: (is) around it
     transliteration: ḥawlahā
   11:
-    arabic: وَسُبۡحٰنَ
+    arabic: وَسُبۡحَٰنَ
     translation: And glory be
     transliteration: wasub'ḥāna
   12:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (to) Allah
     transliteration: l-lahi
   13:
@@ -58,7 +58,7 @@ word_by_word:
     translation: (the) Lord
     transliteration: rabbi
   14:
-    arabic: الۡعٰلَمِيۡنَ‏
+    arabic: ٱلۡعَٰلَمِينَ
     translation: (of) the worlds
     transliteration: l-ʿālamīna
 ---

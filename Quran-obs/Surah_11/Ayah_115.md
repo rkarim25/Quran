@@ -1,18 +1,18 @@
 ---
-arabic_ayat: وَاصۡبِرۡ فَاِنَّ اللّٰهَ لَا يُضِيۡعُ اَجۡرَ الۡمُحۡسِنِيۡنَ‏
+arabic_ayat: وَٱصۡبِرۡ فَإِنَّ ٱللَّهَ لَا يُضِيعُ أَجۡرَ ٱلۡمُحۡسِنِينَ
 sentence_translation: And be patient! Certainly Allah does not discount the reward
   of the good-doers.
 word_by_word:
   1:
-    arabic: وَاصۡبِرۡ
+    arabic: وَٱصۡبِرۡ
     translation: And be patient
     transliteration: wa-iṣ'bir
   2:
-    arabic: فَاِنَّ
+    arabic: فَإِنَّ
     translation: for indeed
     transliteration: fa-inna
   3:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   4:
@@ -20,15 +20,15 @@ word_by_word:
     translation: (does) not
     transliteration: lā
   5:
-    arabic: يُضِيۡعُ
+    arabic: يُضِيعُ
     translation: let go waste
     transliteration: yuḍīʿu
   6:
-    arabic: اَجۡرَ
+    arabic: أَجۡرَ
     translation: (the) reward
     transliteration: ajra
   7:
-    arabic: الۡمُحۡسِنِيۡنَ‏
+    arabic: ٱلۡمُحۡسِنِينَ
     translation: (of) the good-doers
     transliteration: l-muḥ'sinīna
 ---

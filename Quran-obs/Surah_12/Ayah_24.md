@@ -1,13 +1,13 @@
 ---
-arabic_ayat: وَلَـقَدۡ هَمَّتۡ بِهٖ​ۚ وَهَمَّ بِهَا​ لَوۡلَاۤ اَنۡ رَّاٰ بُرۡهَانَ
-  رَبِّهٖ​ؕ كَذٰلِكَ لِنَصۡرِفَ عَنۡهُ السُّۤوۡءَ وَالۡـفَحۡشَآءَ​ؕ اِنَّهٗ مِنۡ
-  عِبَادِنَا الۡمُخۡلَصِيۡنَ‏
+arabic_ayat: وَلَقَدۡ هَمَّتۡ بِهِۦۖ وَهَمَّ بِهَا لَوۡلَآ أَن رَّءَا بُرۡهَٰنَ رَبِّهِۦۚ
+  كَذَٰلِكَ لِنَصۡرِفَ عَنۡهُ ٱلسُّوٓءَ وَٱلۡفَحۡشَآءَۚ إِنَّهُۥ مِنۡ عِبَادِنَا
+  ٱلۡمُخۡلَصِينَ
 sentence_translation: She advanced towards him, and he would have done likewise, had
   he not seen a sign from his Lord. This is how We kept evil and indecency away from
   him, for he was truly one of Our chosen servants.
 word_by_word:
   1:
-    arabic: وَلَـقَدۡ
+    arabic: وَلَقَدۡ
     translation: And certainly
     transliteration: walaqad
   2:
@@ -15,7 +15,7 @@ word_by_word:
     translation: she did desire
     transliteration: hammat
   3:
-    arabic: بِهٖ​ۚ
+    arabic: بِهِۦۖ
     translation: him
     transliteration: bihi
   4:
@@ -23,31 +23,31 @@ word_by_word:
     translation: and he would have desired
     transliteration: wahamma
   5:
-    arabic: بِهَا​
+    arabic: بِهَا
     translation: her
     transliteration: bihā
   6:
-    arabic: لَوۡلَاۤ
+    arabic: لَوۡلَآ
     translation: if not
     transliteration: lawlā
   7:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that
     transliteration: an
   8:
-    arabic: رَّاٰ
+    arabic: رَّءَا
     translation: he saw
     transliteration: raā
   9:
-    arabic: بُرۡهَانَ
+    arabic: بُرۡهَٰنَ
     translation: the proof
     transliteration: bur'hāna
   10:
-    arabic: رَبِّهٖ​ؕ
+    arabic: رَبِّهِۦۚ
     translation: (of) his Lord
     transliteration: rabbihi
   11:
-    arabic: كَذٰلِكَ
+    arabic: كَذَٰلِكَ
     translation: Thus
     transliteration: kadhālika
   12:
@@ -59,15 +59,15 @@ word_by_word:
     translation: from him
     transliteration: ʿanhu
   14:
-    arabic: السُّۤوۡءَ
+    arabic: ٱلسُّوٓءَ
     translation: the evil
     transliteration: l-sūa
   15:
-    arabic: وَالۡـفَحۡشَآءَ​ؕ
+    arabic: وَٱلۡفَحۡشَآءَۚ
     translation: and the immorality
     transliteration: wal-faḥshāa
   16:
-    arabic: اِنَّهٗ
+    arabic: إِنَّهُۥ
     translation: Indeed, he
     transliteration: innahu
   17:
@@ -79,7 +79,7 @@ word_by_word:
     translation: Our slaves
     transliteration: ʿibādinā
   19:
-    arabic: الۡمُخۡلَصِيۡنَ‏
+    arabic: ٱلۡمُخۡلَصِينَ
     translation: the sincere
     transliteration: l-mukh'laṣīna
 ---

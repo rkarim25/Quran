@@ -1,33 +1,33 @@
 ---
-arabic_ayat: اِنَّ الَّذِيۡنَ يُحَآدُّوۡنَ اللّٰهَ وَرَسُوۡلَهٗ كُبِتُوۡا كَمَا كُبِتَ
-  الَّذِيۡنَ مِنۡ قَبۡلِهِمۡ​ وَقَدۡ اَنۡزَلۡنَاۤ اٰيٰتٍۢ بَيِّنٰتٍ​ ؕ وَ لِلۡكٰفِرِيۡنَ
-  عَذَابٌ مُّهِيۡنٌ​ ۚ‏
+arabic_ayat: إِنَّ ٱلَّذِينَ يُحَآدُّونَ ٱللَّهَ وَرَسُولَهُۥ كُبِتُواْ كَمَا كُبِتَ
+  ٱلَّذِينَ مِن قَبۡلِهِمۡۚ وَقَدۡ أَنزَلۡنَآ ءَايَٰتِۭ بَيِّنَٰتٖۚ وَلِلۡكَٰفِرِينَ
+  عَذَابٞ مُّهِينٞ
 sentence_translation: Indeed, those who defy Allah and His Messenger will be debased,
   just like those before them. We have certainly sent down clear revelations. And
   the disbelievers will suffer a humiliating punishment.
 word_by_word:
   1:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   3:
-    arabic: يُحَآدُّوۡنَ
+    arabic: يُحَآدُّونَ
     translation: oppose
     transliteration: yuḥāddūna
   4:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   5:
-    arabic: وَرَسُوۡلَهٗ
+    arabic: وَرَسُولَهُۥ
     translation: and His Messenger
     transliteration: warasūlahu
   6:
-    arabic: كُبِتُوۡا
+    arabic: كُبِتُواْ
     translation: (will) be disgraced
     transliteration: kubitū
   7:
@@ -39,15 +39,15 @@ word_by_word:
     translation: were disgraced
     transliteration: kubita
   9:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those
     transliteration: alladhīna
   10:
-    arabic: مِنۡ
+    arabic: مِن
     translation: before them
     transliteration: min
   11:
-    arabic: قَبۡلِهِمۡ​
+    arabic: قَبۡلِهِمۡۚ
     translation: before them
     transliteration: qablihim
   12:
@@ -55,27 +55,27 @@ word_by_word:
     translation: And certainly
     transliteration: waqad
   13:
-    arabic: اَنۡزَلۡنَاۤ
+    arabic: أَنزَلۡنَآ ءَ
     translation: We have sent down
     transliteration: anzalnā
   14:
-    arabic: اٰيٰتٍۢ
+    arabic: ايَٰتِۭ
     translation: Verses
     transliteration: āyātin
   15:
-    arabic: بَيِّنٰتٍ​ ؕ
+    arabic: بَيِّنَٰتٖۚ
     translation: clear
     transliteration: bayyinātin
   16:
-    arabic: وَ لِلۡكٰفِرِيۡنَ
+    arabic: وَلِلۡكَٰفِرِينَ
     translation: And for the disbelievers
     transliteration: walil'kāfirīna
   17:
-    arabic: عَذَابٌ
+    arabic: عَذَابٞ
     translation: (is) a punishment
     transliteration: ʿadhābun
   18:
-    arabic: مُّهِيۡنٌ​ ۚ‏
+    arabic: مُّهِينٞ
     translation: humiliating
     transliteration: muhīnun
 ---

@@ -1,18 +1,18 @@
 ---
-arabic_ayat: يٰۤـاَيُّهَا النَّاسُ قَدۡ جَآءَكُمُ الرَّسُوۡلُ بِالۡحَـقِّ مِنۡ رَّبِّكُمۡ
-  فَاٰمِنُوۡا خَيۡرًا لَّـكُمۡ​ ؕ وَاِنۡ تَكۡفُرُوۡا فَاِنَّ لِلّٰهِ مَا فِى السَّمٰوٰتِ
-  وَالۡاَرۡضِ​ ؕ وَكَانَ اللّٰهُ عَلِيۡمًا حَكِيۡمًا‏
+arabic_ayat: يَٰٓأَيُّهَا ٱلنَّاسُ قَدۡ جَآءَكُمُ ٱلرَّسُولُ بِٱلۡحَقِّ مِن رَّبِّكُمۡ
+  فَـَٔامِنُواْ خَيۡرٗا لَّكُمۡۚ وَإِن تَكۡفُرُواْ فَإِنَّ لِلَّهِ مَا فِي ٱلسَّمَٰوَٰتِ
+  وَٱلۡأَرۡضِۚ وَكَانَ ٱللَّهُ عَلِيمًا حَكِيمٗا
 sentence_translation: O humanity! The Messenger has certainly come to you with the
   truth from your Lord, so believe for your own good. But if you disbelieve, then
   ˹know that˺ to Allah belongs whatever is in the heavens and the earth. And Allah
   is All-Knowing, All-Wise.
 word_by_word:
   1:
-    arabic: يٰۤـاَيُّهَا
+    arabic: يَٰٓأَيُّهَا
     translation: O
     transliteration: yāayyuhā
   2:
-    arabic: النَّاسُ
+    arabic: ٱلنَّاسُ
     translation: mankind
     transliteration: l-nāsu
   3:
@@ -24,15 +24,15 @@ word_by_word:
     translation: has come to you
     transliteration: jāakumu
   5:
-    arabic: الرَّسُوۡلُ
+    arabic: ٱلرَّسُولُ
     translation: the Messenger
     transliteration: l-rasūlu
   6:
-    arabic: بِالۡحَـقِّ
+    arabic: بِٱلۡحَقِّ
     translation: with the truth
     transliteration: bil-ḥaqi
   7:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   8:
@@ -40,31 +40,31 @@ word_by_word:
     translation: your Lord
     transliteration: rabbikum
   9:
-    arabic: فَاٰمِنُوۡا
+    arabic: فَـَٔامِنُواْ
     translation: so believe
     transliteration: faāminū
   10:
-    arabic: خَيۡرًا
+    arabic: خَيۡرٗا
     translation: (it is) better
     transliteration: khayran
   11:
-    arabic: لَّـكُمۡ​ ؕ
+    arabic: لَّكُمۡۚ
     translation: for you
     transliteration: lakum
   12:
-    arabic: وَاِنۡ
+    arabic: وَإِن
     translation: But if
     transliteration: wa-in
   13:
-    arabic: تَكۡفُرُوۡا
+    arabic: تَكۡفُرُواْ
     translation: you disbelieve
     transliteration: takfurū
   14:
-    arabic: فَاِنَّ
+    arabic: فَإِنَّ
     translation: then indeed
     transliteration: fa-inna
   15:
-    arabic: لِلّٰهِ
+    arabic: لِلَّهِ
     translation: to Allah (belongs)
     transliteration: lillahi
   16:
@@ -72,15 +72,15 @@ word_by_word:
     translation: whatever
     transliteration: mā
   17:
-    arabic: فِى
+    arabic: فِي
     translation: (is) in
     transliteration: fī
   18:
-    arabic: السَّمٰوٰتِ
+    arabic: ٱلسَّمَٰوَٰتِ
     translation: the heavens
     transliteration: l-samāwāti
   19:
-    arabic: وَالۡاَرۡضِ​ ؕ
+    arabic: وَٱلۡأَرۡضِۚ
     translation: and the earth
     transliteration: wal-arḍi
   20:
@@ -88,15 +88,15 @@ word_by_word:
     translation: And is
     transliteration: wakāna
   21:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   22:
-    arabic: عَلِيۡمًا
+    arabic: عَلِيمًا
     translation: All-Knowing
     transliteration: ʿalīman
   23:
-    arabic: حَكِيۡمًا‏
+    arabic: حَكِيمٗا
     translation: All-Wise
     transliteration: ḥakīman
 ---

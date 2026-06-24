@@ -1,32 +1,32 @@
 ---
-arabic_ayat: اَوۡ تَقُوۡلُوۡۤا اِنَّمَاۤ اَشۡرَكَ اٰبَآؤُنَا مِنۡ قَبۡلُ وَكُنَّا
-  ذُرِّيَّةً مِّنۡۢ بَعۡدِهِمۡ​ۚ اَفَتُهۡلِكُنَا بِمَا فَعَلَ الۡمُبۡطِلُوۡنَ‏
+arabic_ayat: أَوۡ تَقُولُوٓاْ إِنَّمَآ أَشۡرَكَ ءَابَآؤُنَا مِن قَبۡلُ وَكُنَّا
+  ذُرِّيَّةٗ مِّنۢ بَعۡدِهِمۡۖ أَفَتُهۡلِكُنَا بِمَا فَعَلَ ٱلۡمُبۡطِلُونَ
 sentence_translation: Nor say, ‘It was our forefathers who had associated others ˹with
   Allah in worship˺ and we, as their descendants, followed in their footsteps. Will
   you then destroy us for the falsehood they invented?’”
 word_by_word:
   1:
-    arabic: اَوۡ
+    arabic: أَوۡ
     translation: Or
     transliteration: aw
   2:
-    arabic: تَقُوۡلُوۡۤا
+    arabic: تَقُولُوٓاْ
     translation: you say
     transliteration: taqūlū
   3:
-    arabic: اِنَّمَاۤ
+    arabic: إِنَّمَآ
     translation: Only
     transliteration: innamā
   4:
-    arabic: اَشۡرَكَ
+    arabic: أَشۡرَكَ ءَ
     translation: partners (were) associated (with Allah)
     transliteration: ashraka
   5:
-    arabic: اٰبَآؤُنَا
+    arabic: ابَآؤُنَا
     translation: (by) our forefathers
     transliteration: ābāunā
   6:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   7:
@@ -38,19 +38,19 @@ word_by_word:
     translation: and we are
     transliteration: wakunnā
   9:
-    arabic: ذُرِّيَّةً
+    arabic: ذُرِّيَّةٗ
     translation: descendants
     transliteration: dhurriyyatan
   10:
-    arabic: مِّنۡۢ
+    arabic: مِّنۢ
     translation: from
     transliteration: min
   11:
-    arabic: بَعۡدِهِمۡ​ۚ
+    arabic: بَعۡدِهِمۡۖ
     translation: after them
     transliteration: baʿdihim
   12:
-    arabic: اَفَتُهۡلِكُنَا
+    arabic: أَفَتُهۡلِكُنَا
     translation: So will You destroy us
     transliteration: afatuh'likunā
   13:
@@ -62,7 +62,7 @@ word_by_word:
     translation: did
     transliteration: faʿala
   15:
-    arabic: الۡمُبۡطِلُوۡنَ‏
+    arabic: ٱلۡمُبۡطِلُونَ
     translation: the falsifiers
     transliteration: l-mub'ṭilūna
 ---

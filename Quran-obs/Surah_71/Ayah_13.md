@@ -1,14 +1,14 @@
 ---
-arabic_ayat: مَا لَـكُمۡ لَا تَرۡجُوۡنَ لِلّٰهِ وَقَارًا​ ۚ‏
+arabic_ayat: مَّا لَكُمۡ لَا تَرۡجُونَ لِلَّهِ وَقَارٗا
 sentence_translation: What is the matter with you that you are not in awe of the Majesty
   of Allah,
 word_by_word:
   1:
-    arabic: مَا
+    arabic: مَّا
     translation: What
     transliteration: mā
   2:
-    arabic: لَـكُمۡ
+    arabic: لَكُمۡ
     translation: (is) for you
     transliteration: lakum
   3:
@@ -16,15 +16,15 @@ word_by_word:
     translation: not
     transliteration: lā
   4:
-    arabic: تَرۡجُوۡنَ
+    arabic: تَرۡجُونَ
     translation: you attribute
     transliteration: tarjūna
   5:
-    arabic: لِلّٰهِ
+    arabic: لِلَّهِ
     translation: to Allah
     transliteration: lillahi
   6:
-    arabic: وَقَارًا​ ۚ‏
+    arabic: وَقَارٗا
     translation: grandeur
     transliteration: waqāran
 ---

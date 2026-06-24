@@ -1,18 +1,18 @@
 ---
-arabic_ayat: وَمَاۤ اَعۡجَلَكَ عَنۡ قَوۡمِكَ يٰمُوۡسٰى‏
+arabic_ayat: ۞ وَمَآ أَعۡجَلَكَ عَن قَوۡمِكَ يَٰمُوسَىٰ
 sentence_translation: ˹Allah asked,˺ “Why have you come with such haste ahead of your
   people, O  Moses?”
 word_by_word:
   1:
-    arabic: ۞ وَمَاۤ
+    arabic: ۞ وَمَآ
     translation: And what
     transliteration: wamā
   2:
-    arabic: اَعۡجَلَكَ
+    arabic: أَعۡجَلَكَ
     translation: made you hasten
     transliteration: aʿjalaka
   3:
-    arabic: عَنۡ
+    arabic: عَن
     translation: from
     transliteration: ʿan
   4:
@@ -20,7 +20,7 @@ word_by_word:
     translation: your people
     transliteration: qawmika
   5:
-    arabic: يٰمُوۡسٰى‏
+    arabic: يَٰمُوسَىٰ
     translation: O Musa
     transliteration: yāmūsā
 ---

@@ -1,13 +1,13 @@
 ---
-arabic_ayat: اَيَحۡسَبُ اَنۡ لَّمۡ يَرَهٗۤ اَحَدٌ ؕ‏
+arabic_ayat: أَيَحۡسَبُ أَن لَّمۡ يَرَهُۥٓ أَحَدٌ
 sentence_translation: Do they think that no one sees them?
 word_by_word:
   1:
-    arabic: اَيَحۡسَبُ
+    arabic: أَيَحۡسَبُ
     translation: Does he think
     transliteration: ayaḥsabu
   2:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that
     transliteration: an
   3:
@@ -15,11 +15,11 @@ word_by_word:
     translation: not
     transliteration: lam
   4:
-    arabic: يَرَهٗۤ
+    arabic: يَرَهُۥٓ
     translation: sees him
     transliteration: yarahu
   5:
-    arabic: اَحَدٌ ؕ‏
+    arabic: أَحَدٌ
     translation: anyone
     transliteration: aḥadun
 ---

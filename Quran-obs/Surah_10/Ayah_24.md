@@ -1,10 +1,10 @@
 ---
-arabic_ayat: اِنَّمَا مَثَلُ الۡحَيٰوةِ الدُّنۡيَا كَمَآءٍ اَنۡزَلۡنٰهُ مِنَ السَّمَآءِ
-  فَاخۡتَلَطَ بِهٖ نَبَاتُ الۡاَرۡضِ مِمَّا يَاۡكُلُ النَّاسُ وَالۡاَنۡعَامُؕ حَتّٰۤى
-  اِذَاۤ اَخَذَتِ الۡاَرۡضُ زُخۡرُفَهَا وَازَّيَّنَتۡ وَظَنَّ اَهۡلُهَاۤ اَنَّهُمۡ
-  قٰدِرُوۡنَ عَلَيۡهَاۤ ۙ اَتٰٮهَاۤ اَمۡرُنَا لَيۡلًا اَوۡ نَهَارًا فَجَعَلۡنٰهَا
-  حَصِيۡدًا كَاَنۡ لَّمۡ تَغۡنَ بِالۡاَمۡسِ​ ؕ كَذٰلِكَ نُـفَصِّلُ الۡاٰيٰتِ لِقَوۡمٍ
-  يَّتَفَكَّرُوۡنَ‏
+arabic_ayat: إِنَّمَا مَثَلُ ٱلۡحَيَوٰةِ ٱلدُّنۡيَا كَمَآءٍ أَنزَلۡنَٰهُ مِنَ ٱلسَّمَآءِ
+  فَٱخۡتَلَطَ بِهِۦ نَبَاتُ ٱلۡأَرۡضِ مِمَّا يَأۡكُلُ ٱلنَّاسُ وَٱلۡأَنۡعَٰمُ حَتَّىٰٓ
+  إِذَآ أَخَذَتِ ٱلۡأَرۡضُ زُخۡرُفَهَا وَٱزَّيَّنَتۡ وَظَنَّ أَهۡلُهَآ أَنَّهُمۡ
+  قَٰدِرُونَ عَلَيۡهَآ أَتَىٰهَآ أَمۡرُنَا لَيۡلًا أَوۡ نَهَارٗا فَجَعَلۡنَٰهَا
+  حَصِيدٗا كَأَن لَّمۡ تَغۡنَ بِٱلۡأَمۡسِۚ كَذَٰلِكَ نُفَصِّلُ ٱلۡأٓيَٰتِ لِقَوۡمٖ
+  يَتَفَكَّرُونَ
 sentence_translation: The life of this world is just like rain We send down from the
   sky, producing a mixture of plants which humans and animals consume. Then just as
   the earth looks its best, perfectly beautified, and its people think they have full
@@ -13,7 +13,7 @@ sentence_translation: The life of this world is just like rain We send down from
   people who reflect.
 word_by_word:
   1:
-    arabic: اِنَّمَا
+    arabic: إِنَّمَا
     translation: Only
     transliteration: innamā
   2:
@@ -21,11 +21,11 @@ word_by_word:
     translation: (the) example
     transliteration: mathalu
   3:
-    arabic: الۡحَيٰوةِ
+    arabic: ٱلۡحَيَوٰةِ
     translation: (of) the life
     transliteration: l-ḥayati
   4:
-    arabic: الدُّنۡيَا
+    arabic: ٱلدُّنۡيَا
     translation: (of) the world
     transliteration: l-dun'yā
   5:
@@ -33,7 +33,7 @@ word_by_word:
     translation: (is) like (the) water
     transliteration: kamāin
   6:
-    arabic: اَنۡزَلۡنٰهُ
+    arabic: أَنزَلۡنَٰهُ
     translation: which We sent down
     transliteration: anzalnāhu
   7:
@@ -41,15 +41,15 @@ word_by_word:
     translation: from
     transliteration: mina
   8:
-    arabic: السَّمَآءِ
+    arabic: ٱلسَّمَآءِ
     translation: the sky
     transliteration: l-samāi
   9:
-    arabic: فَاخۡتَلَطَ
+    arabic: فَٱخۡتَلَطَ
     translation: so absorbs
     transliteration: fa-ikh'talaṭa
   10:
-    arabic: بِهٖ
+    arabic: بِهِۦ
     translation: '[with] it'
     transliteration: bihi
   11:
@@ -57,7 +57,7 @@ word_by_word:
     translation: (the) plants
     transliteration: nabātu
   12:
-    arabic: الۡاَرۡضِ
+    arabic: ٱلۡأَرۡضِ
     translation: (of) the earth
     transliteration: l-arḍi
   13:
@@ -65,31 +65,31 @@ word_by_word:
     translation: from which
     transliteration: mimmā
   14:
-    arabic: يَاۡكُلُ
+    arabic: يَأۡكُلُ
     translation: eat
     transliteration: yakulu
   15:
-    arabic: النَّاسُ
+    arabic: ٱلنَّاسُ
     translation: the men
     transliteration: l-nāsu
   16:
-    arabic: وَالۡاَنۡعَامُؕ
+    arabic: وَٱلۡأَنۡعَٰمُ
     translation: and the cattle
     transliteration: wal-anʿāmu
   17:
-    arabic: حَتّٰۤى
+    arabic: حَتَّىٰٓ
     translation: until
     transliteration: ḥattā
   18:
-    arabic: اِذَاۤ
+    arabic: إِذَآ
     translation: when
     transliteration: idhā
   19:
-    arabic: اَخَذَتِ
+    arabic: أَخَذَتِ
     translation: takes
     transliteration: akhadhati
   20:
-    arabic: الۡاَرۡضُ
+    arabic: ٱلۡأَرۡضُ
     translation: the earth
     transliteration: l-arḍu
   21:
@@ -97,7 +97,7 @@ word_by_word:
     translation: its adornment
     transliteration: zukh'rufahā
   22:
-    arabic: وَازَّيَّنَتۡ
+    arabic: وَٱزَّيَّنَتۡ
     translation: and is beautified
     transliteration: wa-izzayyanat
   23:
@@ -105,27 +105,27 @@ word_by_word:
     translation: and think
     transliteration: waẓanna
   24:
-    arabic: اَهۡلُهَاۤ
+    arabic: أَهۡلُهَآ
     translation: its people
     transliteration: ahluhā
   25:
-    arabic: اَنَّهُمۡ
+    arabic: أَنَّهُمۡ
     translation: that they
     transliteration: annahum
   26:
-    arabic: قٰدِرُوۡنَ
+    arabic: قَٰدِرُونَ
     translation: have the power
     transliteration: qādirūna
   27:
-    arabic: عَلَيۡهَاۤ ۙ
+    arabic: عَلَيۡهَآ
     translation: over it
     transliteration: ʿalayhā
   28:
-    arabic: اَتٰٮهَاۤ
+    arabic: أَتَىٰهَآ
     translation: comes (to) it
     transliteration: atāhā
   29:
-    arabic: اَمۡرُنَا
+    arabic: أَمۡرُنَا
     translation: Our command
     transliteration: amrunā
   30:
@@ -133,23 +133,23 @@ word_by_word:
     translation: (by) night
     transliteration: laylan
   31:
-    arabic: اَوۡ
+    arabic: أَوۡ
     translation: or
     transliteration: aw
   32:
-    arabic: نَهَارًا
+    arabic: نَهَارٗا
     translation: (by) day
     transliteration: nahāran
   33:
-    arabic: فَجَعَلۡنٰهَا
+    arabic: فَجَعَلۡنَٰهَا
     translation: and We make it
     transliteration: fajaʿalnāhā
   34:
-    arabic: حَصِيۡدًا
+    arabic: حَصِيدٗا
     translation: a harvest clean-mown
     transliteration: ḥaṣīdan
   35:
-    arabic: كَاَنۡ
+    arabic: كَأَن
     translation: as if
     transliteration: ka-an
   36:
@@ -161,27 +161,27 @@ word_by_word:
     translation: it had flourished
     transliteration: taghna
   38:
-    arabic: بِالۡاَمۡسِ​ ؕ
+    arabic: بِٱلۡأَمۡسِۚ
     translation: yesterday
     transliteration: bil-amsi
   39:
-    arabic: كَذٰلِكَ
+    arabic: كَذَٰلِكَ
     translation: Thus
     transliteration: kadhālika
   40:
-    arabic: نُـفَصِّلُ
+    arabic: نُفَصِّلُ
     translation: We explain
     transliteration: nufaṣṣilu
   41:
-    arabic: الۡاٰيٰتِ
+    arabic: ٱلۡأٓيَٰتِ
     translation: the Signs
     transliteration: l-āyāti
   42:
-    arabic: لِقَوۡمٍ
+    arabic: لِقَوۡمٖ
     translation: for a people
     transliteration: liqawmin
   43:
-    arabic: يَّتَفَكَّرُوۡنَ‏
+    arabic: يَتَفَكَّرُونَ
     translation: who reflect
     transliteration: yatafakkarūna
 ---

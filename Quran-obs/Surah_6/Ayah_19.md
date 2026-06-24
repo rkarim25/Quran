@@ -1,9 +1,8 @@
 ---
-arabic_ayat: قُلۡ اَىُّ شَىۡءٍ اَكۡبَرُ شَهَادَةً  ؕ قُلِ اللّٰهُ ​ۙ شَهِيۡدٌ ۢ بَيۡنِىۡ
-  وَبَيۡنَكُمۡ​ وَاُوۡحِىَ اِلَىَّ هٰذَا الۡـقُرۡاٰنُ لِاُنۡذِرَكُمۡ بِهٖ وَمَنۡۢ
-  بَلَغَ​ ؕ اَٮِٕنَّكُمۡ لَـتَشۡهَدُوۡنَ اَنَّ مَعَ اللّٰهِ اٰلِهَةً اُخۡرٰى​ؕ قُلْ
-  لَّاۤ اَشۡهَدُ​ ۚ قُلۡ اِنَّمَا هُوَ اِلٰـهٌ وَّاحِدٌ وَّاِنَّنِىۡ بَرِىۡٓءٌ مِّمَّا
-  تُشۡرِكُوۡنَ​ۘ‏
+arabic_ayat: قُلۡ أَيُّ شَيۡءٍ أَكۡبَرُ شَهَٰدَةٗۖ قُلِ ٱللَّهُۖ شَهِيدُۢ بَيۡنِي
+  وَبَيۡنَكُمۡۚ وَأُوحِيَ إِلَيَّ هَٰذَا ٱلۡقُرۡءَانُ لِأُنذِرَكُم بِهِۦ وَمَنۢ بَلَغَۚ
+  أَئِنَّكُمۡ لَتَشۡهَدُونَ أَنَّ مَعَ ٱللَّهِ ءَالِهَةً أُخۡرَىٰۚ قُل لَّآ أَشۡهَدُۚ
+  قُلۡ إِنَّمَا هُوَ إِلَٰهٞ وَٰحِدٞ وَإِنَّنِي بَرِيٓءٞ مِّمَّا تُشۡرِكُونَ
 sentence_translation: Ask ˹them, O  Prophet˺, “Who is the best witness?” Say, “Allah
   is! He is a Witness between me and you. And this Quran has been revealed to me so
   that, with it, I may warn you and whoever it reaches. Do you ˹pagans˺ testify that
@@ -16,19 +15,19 @@ word_by_word:
     translation: Say
     transliteration: qul
   2:
-    arabic: اَىُّ
+    arabic: أَيُّ
     translation: What
     transliteration: ayyu
   3:
-    arabic: شَىۡءٍ
+    arabic: شَيۡءٍ
     translation: thing
     transliteration: shayin
   4:
-    arabic: اَكۡبَرُ
+    arabic: أَكۡبَرُ
     translation: (is) greatest
     transliteration: akbaru
   5:
-    arabic: شَهَادَةً  ؕ
+    arabic: شَهَٰدَةٗۖ
     translation: (as) a testimony
     transliteration: shahādatan
   6:
@@ -36,63 +35,63 @@ word_by_word:
     translation: Say
     transliteration: quli
   7:
-    arabic: اللّٰهُ ​ۙ
+    arabic: ٱللَّهُۖ
     translation: Allah
     transliteration: l-lahu
   8:
-    arabic: شَهِيۡدٌ ۢ
+    arabic: شَهِيدُۢ
     translation: (is) Witness
     transliteration: shahīdun
   9:
-    arabic: بَيۡنِىۡ
+    arabic: بَيۡنِي
     translation: between me
     transliteration: baynī
   10:
-    arabic: وَبَيۡنَكُمۡ​
+    arabic: وَبَيۡنَكُمۡۚ
     translation: and between you
     transliteration: wabaynakum
   11:
-    arabic: وَاُوۡحِىَ
+    arabic: وَأُوحِيَ
     translation: and has been revealed
     transliteration: waūḥiya
   12:
-    arabic: اِلَىَّ
+    arabic: إِلَيَّ
     translation: to me
     transliteration: ilayya
   13:
-    arabic: هٰذَا
+    arabic: هَٰذَا
     translation: this
     transliteration: hādhā
   14:
-    arabic: الۡـقُرۡاٰنُ
+    arabic: ٱلۡقُرۡءَانُ
     translation: '[the] Quran'
     transliteration: l-qur'ānu
   15:
-    arabic: لِاُنۡذِرَكُمۡ
+    arabic: لِأُنذِرَكُم
     translation: that I may warn you
     transliteration: li-undhirakum
   16:
-    arabic: بِهٖ
+    arabic: بِهِۦ
     translation: with it
     transliteration: bihi
   17:
-    arabic: وَمَنۡۢ
+    arabic: وَمَنۢ
     translation: and whoever
     transliteration: waman
   18:
-    arabic: بَلَغَ​ ؕ
+    arabic: بَلَغَۚ
     translation: it reaches
     transliteration: balagha
   19:
-    arabic: اَٮِٕنَّكُمۡ
+    arabic: أَئِنَّكُمۡ
     translation: Do you truly
     transliteration: a-innakum
   20:
-    arabic: لَـتَشۡهَدُوۡنَ
+    arabic: لَتَشۡهَدُونَ
     translation: testify
     transliteration: latashhadūna
   21:
-    arabic: اَنَّ
+    arabic: أَنَّ
     translation: that
     transliteration: anna
   22:
@@ -100,27 +99,27 @@ word_by_word:
     translation: with
     transliteration: maʿa
   23:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ ءَ
     translation: Allah
     transliteration: l-lahi
   24:
-    arabic: اٰلِهَةً
+    arabic: الِهَةً
     translation: (there are) gods
     transliteration: ālihatan
   25:
-    arabic: اُخۡرٰى​ؕ
+    arabic: أُخۡرَىٰۚ
     translation: other
     transliteration: ukh'rā
   26:
-    arabic: قُلْ
+    arabic: قُل
     translation: Say
     transliteration: qul
   27:
-    arabic: لَّاۤ
+    arabic: لَّآ
     translation: Not
     transliteration: lā
   28:
-    arabic: اَشۡهَدُ​ ۚ
+    arabic: أَشۡهَدُۚ
     translation: (do) I testify
     transliteration: ashhadu
   29:
@@ -128,7 +127,7 @@ word_by_word:
     translation: Say
     transliteration: qul
   30:
-    arabic: اِنَّمَا
+    arabic: إِنَّمَا
     translation: Only
     transliteration: innamā
   31:
@@ -136,19 +135,19 @@ word_by_word:
     translation: He
     transliteration: huwa
   32:
-    arabic: اِلٰـهٌ
+    arabic: إِلَٰهٞ
     translation: (is) God
     transliteration: ilāhun
   33:
-    arabic: وَّاحِدٌ
+    arabic: وَٰحِدٞ
     translation: One
     transliteration: wāḥidun
   34:
-    arabic: وَّاِنَّنِىۡ
+    arabic: وَإِنَّنِي
     translation: and indeed, I am
     transliteration: wa-innanī
   35:
-    arabic: بَرِىۡٓءٌ
+    arabic: بَرِيٓءٞ
     translation: free
     transliteration: barīon
   36:
@@ -156,7 +155,7 @@ word_by_word:
     translation: of what
     transliteration: mimmā
   37:
-    arabic: تُشۡرِكُوۡنَ​ۘ‏
+    arabic: تُشۡرِكُونَ
     translation: you associate (with Him)
     transliteration: tush'rikūna
 ---

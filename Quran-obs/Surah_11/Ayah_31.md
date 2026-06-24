@@ -1,107 +1,107 @@
 ---
-arabic_ayat: وَلَاۤ اَقُوۡلُ لَـكُمۡ عِنۡدِىۡ خَزَآٮِٕنُ اللّٰهِ وَلَاۤ اَعۡلَمُ
-  الۡغَيۡبَ وَلَاۤ اَقُوۡلُ اِنِّىۡ مَلَكٌ وَّلَاۤ اَقُوۡلُ لِلَّذِيۡنَ تَزۡدَرِىۡۤ
-  اَعۡيُنُكُمۡ لَنۡ يُّؤۡتِيَهُمُ اللّٰهُ خَيۡرًا​ ؕ اَللّٰهُ اَعۡلَمُ بِمَا فِىۡۤ
-  اَنۡفُسِهِمۡ​ ۖۚ اِنِّىۡۤ اِذًا لَّمِنَ الظّٰلِمِيۡنَ‏
+arabic_ayat: وَلَآ أَقُولُ لَكُمۡ عِندِي خَزَآئِنُ ٱللَّهِ وَلَآ أَعۡلَمُ ٱلۡغَيۡبَ
+  وَلَآ أَقُولُ إِنِّي مَلَكٞ وَلَآ أَقُولُ لِلَّذِينَ تَزۡدَرِيٓ أَعۡيُنُكُمۡ لَن
+  يُؤۡتِيَهُمُ ٱللَّهُ خَيۡرًاۖ ٱللَّهُ أَعۡلَمُ بِمَا فِيٓ أَنفُسِهِمۡ إِنِّيٓ إِذٗا
+  لَّمِنَ ٱلظَّٰلِمِينَ
 sentence_translation: I do not say to you that I possess Allah’s treasuries or know
   the unseen, nor do I claim to be an angel, nor do I say that Allah will never grant
   goodness to those you look down upon. Allah knows best what is ˹hidden˺ within them.
   ˹If I did,˺ then I would truly be one of the wrongdoers.”
 word_by_word:
   1:
-    arabic: وَلَاۤ
+    arabic: وَلَآ
     translation: And not
     transliteration: walā
   2:
-    arabic: اَقُوۡلُ
+    arabic: أَقُولُ
     translation: I say
     transliteration: aqūlu
   3:
-    arabic: لَـكُمۡ
+    arabic: لَكُمۡ
     translation: to you
     transliteration: lakum
   4:
-    arabic: عِنۡدِىۡ
+    arabic: عِندِي
     translation: (that) with me
     transliteration: ʿindī
   5:
-    arabic: خَزَآٮِٕنُ
+    arabic: خَزَآئِنُ
     translation: (are the) treasures
     transliteration: khazāinu
   6:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (of) Allah
     transliteration: l-lahi
   7:
-    arabic: وَلَاۤ
+    arabic: وَلَآ
     translation: and not
     transliteration: walā
   8:
-    arabic: اَعۡلَمُ
+    arabic: أَعۡلَمُ
     translation: I know
     transliteration: aʿlamu
   9:
-    arabic: الۡغَيۡبَ
+    arabic: ٱلۡغَيۡبَ
     translation: the unseen
     transliteration: l-ghayba
   10:
-    arabic: وَلَاۤ
+    arabic: وَلَآ
     translation: and not
     transliteration: walā
   11:
-    arabic: اَقُوۡلُ
+    arabic: أَقُولُ
     translation: I say
     transliteration: aqūlu
   12:
-    arabic: اِنِّىۡ
+    arabic: إِنِّي
     translation: that I am
     transliteration: innī
   13:
-    arabic: مَلَكٌ
+    arabic: مَلَكٞ
     translation: an Angel
     transliteration: malakun
   14:
-    arabic: وَّلَاۤ
+    arabic: وَلَآ
     translation: and not
     transliteration: walā
   15:
-    arabic: اَقُوۡلُ
+    arabic: أَقُولُ
     translation: I say
     transliteration: aqūlu
   16:
-    arabic: لِلَّذِيۡنَ
+    arabic: لِلَّذِينَ
     translation: for those whom
     transliteration: lilladhīna
   17:
-    arabic: تَزۡدَرِىۡۤ
+    arabic: تَزۡدَرِيٓ
     translation: look down upon
     transliteration: tazdarī
   18:
-    arabic: اَعۡيُنُكُمۡ
+    arabic: أَعۡيُنُكُمۡ
     translation: your eyes
     transliteration: aʿyunukum
   19:
-    arabic: لَنۡ
+    arabic: لَن
     translation: never
     transliteration: lan
   20:
-    arabic: يُّؤۡتِيَهُمُ
+    arabic: يُؤۡتِيَهُمُ
     translation: will Allah give them
     transliteration: yu'tiyahumu
   21:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: will Allah give them
     transliteration: l-lahu
   22:
-    arabic: خَيۡرًا​ ؕ
+    arabic: خَيۡرًاۖ
     translation: any good
     transliteration: khayran
   23:
-    arabic: اَللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   24:
-    arabic: اَعۡلَمُ
+    arabic: أَعۡلَمُ
     translation: knows best
     transliteration: aʿlamu
   25:
@@ -109,19 +109,19 @@ word_by_word:
     translation: what
     transliteration: bimā
   26:
-    arabic: فِىۡۤ
+    arabic: فِيٓ
     translation: (is) in
     transliteration: fī
   27:
-    arabic: اَنۡفُسِهِمۡ​ ۖۚ
+    arabic: أَنفُسِهِمۡ
     translation: their souls
     transliteration: anfusihim
   28:
-    arabic: اِنِّىۡۤ
+    arabic: إِنِّيٓ
     translation: Indeed, I
     transliteration: innī
   29:
-    arabic: اِذًا
+    arabic: إِذٗا
     translation: then
     transliteration: idhan
   30:
@@ -129,7 +129,7 @@ word_by_word:
     translation: (will be) surely of
     transliteration: lamina
   31:
-    arabic: الظّٰلِمِيۡنَ‏
+    arabic: ٱلظَّٰلِمِينَ
     translation: the wrongdoers
     transliteration: l-ẓālimīna
 ---

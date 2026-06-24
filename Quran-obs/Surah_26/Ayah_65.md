@@ -1,25 +1,25 @@
 ---
-arabic_ayat: وَاَنۡجَيۡنَا مُوۡسٰى وَمَنۡ مَّعَهٗۤ اَجۡمَعِيۡنَ​ۚ‏
+arabic_ayat: وَأَنجَيۡنَا مُوسَىٰ وَمَن مَّعَهُۥٓ أَجۡمَعِينَ
 sentence_translation: and delivered Moses and those with him all together.
 word_by_word:
   1:
-    arabic: وَاَنۡجَيۡنَا
+    arabic: وَأَنجَيۡنَا
     translation: And We saved
     transliteration: wa-anjaynā
   2:
-    arabic: مُوۡسٰى
+    arabic: مُوسَىٰ
     translation: Musa
     transliteration: mūsā
   3:
-    arabic: وَمَنۡ
+    arabic: وَمَن
     translation: and who
     transliteration: waman
   4:
-    arabic: مَّعَهٗۤ
+    arabic: مَّعَهُۥٓ
     translation: (were) with him
     transliteration: maʿahu
   5:
-    arabic: اَجۡمَعِيۡنَ​ۚ‏
+    arabic: أَجۡمَعِينَ
     translation: all
     transliteration: ajmaʿīna
 ---

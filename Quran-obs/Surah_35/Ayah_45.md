@@ -1,7 +1,7 @@
 ---
-arabic_ayat: وَلَوۡ يُـؤَاخِذُ اللّٰهُ النَّاسَ بِمَا كَسَبُوۡا مَا تَرَكَ عَلٰى ظَهۡرِهَا
-  مِنۡ دَآ بَّةٍ وَّلٰـكِنۡ يُّؤَخِّرُهُمۡ اِلٰٓى اَجَلٍ مُّسَمًّىۚ فَاِذَا جَآءَ
-  اَجَلُهُمۡ فَاِنَّ اللّٰهَ كَانَ بِعِبَادِهٖ بَصِيۡرًا‏
+arabic_ayat: وَلَوۡ يُؤَاخِذُ ٱللَّهُ ٱلنَّاسَ بِمَا كَسَبُواْ مَا تَرَكَ عَلَىٰ ظَهۡرِهَا
+  مِن دَآبَّةٖ وَلَٰكِن يُؤَخِّرُهُمۡ إِلَىٰٓ أَجَلٖ مُّسَمّٗىۖ فَإِذَا جَآءَ أَجَلُهُمۡ
+  فَإِنَّ ٱللَّهَ كَانَ بِعِبَادِهِۦ بَصِيرَۢا
 sentence_translation: If Allah were to punish people ˹immediately˺ for what they have
   committed, He would not have left a single living being on earth. But He delays
   them for an appointed term. And when their time arrives, then surely Allah is All-Seeing
@@ -12,15 +12,15 @@ word_by_word:
     translation: And if
     transliteration: walaw
   2:
-    arabic: يُـؤَاخِذُ
+    arabic: يُؤَاخِذُ
     translation: Allah (were to) punish
     transliteration: yuākhidhu
   3:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah (were to) punish
     transliteration: l-lahu
   4:
-    arabic: النَّاسَ
+    arabic: ٱلنَّاسَ
     translation: the people
     transliteration: l-nāsa
   5:
@@ -28,7 +28,7 @@ word_by_word:
     translation: for what
     transliteration: bimā
   6:
-    arabic: كَسَبُوۡا
+    arabic: كَسَبُواْ
     translation: they have earned
     transliteration: kasabū
   7:
@@ -40,7 +40,7 @@ word_by_word:
     translation: He would leave
     transliteration: taraka
   9:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: 'on'
     transliteration: ʿalā
   10:
@@ -48,35 +48,35 @@ word_by_word:
     translation: its back
     transliteration: ẓahrihā
   11:
-    arabic: مِنۡ
+    arabic: مِن
     translation: any
     transliteration: min
   12:
-    arabic: دَآ بَّةٍ
+    arabic: دَآبَّةٖ
     translation: creature
     transliteration: dābbatin
   13:
-    arabic: وَّلٰـكِنۡ
+    arabic: وَلَٰكِن
     translation: But
     transliteration: walākin
   14:
-    arabic: يُّؤَخِّرُهُمۡ
+    arabic: يُؤَخِّرُهُمۡ
     translation: He gives them respite
     transliteration: yu-akhiruhum
   15:
-    arabic: اِلٰٓى
+    arabic: إِلَىٰٓ
     translation: till
     transliteration: ilā
   16:
-    arabic: اَجَلٍ
+    arabic: أَجَلٖ
     translation: a term
     transliteration: ajalin
   17:
-    arabic: مُّسَمًّىۚ
+    arabic: مُّسَمّٗىۖ
     translation: appointed
     transliteration: musamman
   18:
-    arabic: فَاِذَا
+    arabic: فَإِذَا
     translation: And when
     transliteration: fa-idhā
   19:
@@ -84,15 +84,15 @@ word_by_word:
     translation: comes
     transliteration: jāa
   20:
-    arabic: اَجَلُهُمۡ
+    arabic: أَجَلُهُمۡ
     translation: their term
     transliteration: ajaluhum
   21:
-    arabic: فَاِنَّ
+    arabic: فَإِنَّ
     translation: then indeed
     transliteration: fa-inna
   22:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   23:
@@ -100,11 +100,11 @@ word_by_word:
     translation: is
     transliteration: kāna
   24:
-    arabic: بِعِبَادِهٖ
+    arabic: بِعِبَادِهِۦ
     translation: of His slaves
     transliteration: biʿibādihi
   25:
-    arabic: بَصِيۡرًا‏
+    arabic: بَصِيرَۢا
     translation: All-Seer
     transliteration: baṣīran
 ---

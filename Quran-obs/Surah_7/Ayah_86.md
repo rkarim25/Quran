@@ -1,7 +1,7 @@
 ---
-arabic_ayat: وَلَا تَقۡعُدُوۡا بِكُلِّ صِرَاطٍ تُوۡعِدُوۡنَ وَتَصُدُّوۡنَ عَنۡ سَبِيۡلِ
-  اللّٰهِ مَنۡ اٰمَنَ بِهٖ وَتَبۡغُوۡنَهَا عِوَجًا​ ۚ وَاذۡكُرُوۡۤا اِذۡ كُنۡتُمۡ
-  قَلِيۡلًا فَكَثَّرَكُمۡ​وَانْظُرُوۡا كَيۡفَ كَانَ عَاقِبَةُ الۡمُفۡسِدِيۡنَ‏
+arabic_ayat: وَلَا تَقۡعُدُواْ بِكُلِّ صِرَٰطٖ تُوعِدُونَ وَتَصُدُّونَ عَن سَبِيلِ
+  ٱللَّهِ مَنۡ ءَامَنَ بِهِۦ وَتَبۡغُونَهَا عِوَجٗاۚ وَٱذۡكُرُوٓاْ إِذۡ كُنتُمۡ قَلِيلٗا
+  فَكَثَّرَكُمۡۖ وَٱنظُرُواْ كَيۡفَ كَانَ عَٰقِبَةُ ٱلۡمُفۡسِدِينَ
 sentence_translation: And do not lie in ambush on every road—threatening and hindering
   those who believe in Allah from His Path and striving to make it ˹appear˺ crooked.
   Remember when you were few, then He increased you in number. And consider the fate
@@ -12,7 +12,7 @@ word_by_word:
     translation: And (do) not
     transliteration: walā
   2:
-    arabic: تَقۡعُدُوۡا
+    arabic: تَقۡعُدُواْ
     translation: sit
     transliteration: taqʿudū
   3:
@@ -20,71 +20,71 @@ word_by_word:
     translation: on every
     transliteration: bikulli
   4:
-    arabic: صِرَاطٍ
+    arabic: صِرَٰطٖ
     translation: path
     transliteration: ṣirāṭin
   5:
-    arabic: تُوۡعِدُوۡنَ
+    arabic: تُوعِدُونَ
     translation: threatening
     transliteration: tūʿidūna
   6:
-    arabic: وَتَصُدُّوۡنَ
+    arabic: وَتَصُدُّونَ
     translation: and hindering
     transliteration: wataṣuddūna
   7:
-    arabic: عَنۡ
+    arabic: عَن
     translation: from
     transliteration: ʿan
   8:
-    arabic: سَبِيۡلِ
+    arabic: سَبِيلِ
     translation: (the) way
     transliteration: sabīli
   9:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (of) Allah
     transliteration: l-lahi
   10:
-    arabic: مَنۡ
+    arabic: مَنۡ ءَ
     translation: (those) who
     transliteration: man
   11:
-    arabic: اٰمَنَ
+    arabic: امَنَ
     translation: believe
     transliteration: āmana
   12:
-    arabic: بِهٖ
+    arabic: بِهِۦ
     translation: in Him
     transliteration: bihi
   13:
-    arabic: وَتَبۡغُوۡنَهَا
+    arabic: وَتَبۡغُونَهَا
     translation: and seeking (to make) it
     transliteration: watabghūnahā
   14:
-    arabic: عِوَجًا​ ۚ
+    arabic: عِوَجٗاۚ
     translation: crooked
     transliteration: ʿiwajan
   15:
-    arabic: وَاذۡكُرُوۡۤا
+    arabic: وَٱذۡكُرُوٓاْ
     translation: And remember
     transliteration: wa-udh'kurū
   16:
-    arabic: اِذۡ
+    arabic: إِذۡ
     translation: when
     transliteration: idh
   17:
-    arabic: كُنۡتُمۡ
+    arabic: كُنتُمۡ
     translation: you were
     transliteration: kuntum
   18:
-    arabic: قَلِيۡلًا
+    arabic: قَلِيلٗا
     translation: few
     transliteration: qalīlan
   19:
-    arabic: فَكَثَّرَكُمۡ​
+    arabic: فَكَثَّرَكُمۡۖ
     translation: and He increased you
     transliteration: fakatharakum
   20:
-    arabic: وَانْظُرُوۡا
+    arabic: وَٱنظُرُواْ
     translation: And see
     transliteration: wa-unẓurū
   21:
@@ -96,11 +96,11 @@ word_by_word:
     translation: was
     transliteration: kāna
   23:
-    arabic: عَاقِبَةُ
+    arabic: عَٰقِبَةُ
     translation: (the) end
     transliteration: ʿāqibatu
   24:
-    arabic: الۡمُفۡسِدِيۡنَ‏
+    arabic: ٱلۡمُفۡسِدِينَ
     translation: (of) the corrupters
     transliteration: l-muf'sidīna
 ---

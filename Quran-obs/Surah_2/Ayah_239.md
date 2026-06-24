@@ -1,11 +1,11 @@
 ---
-arabic_ayat: فَاِنۡ خِفۡتُمۡ فَرِجَالًا اَوۡ رُكۡبَانًا ​​ ۚ فَاِذَآ اَمِنۡتُمۡ فَاذۡکُرُوا
-  اللّٰهَ کَمَا عَلَّمَکُمۡ مَّا لَمۡ تَكُوۡنُوۡا تَعۡلَمُوۡنَ‏
+arabic_ayat: فَإِنۡ خِفۡتُمۡ فَرِجَالًا أَوۡ رُكۡبَانٗاۖ فَإِذَآ أَمِنتُمۡ فَٱذۡكُرُواْ
+  ٱللَّهَ كَمَا عَلَّمَكُم مَّا لَمۡ تَكُونُواْ تَعۡلَمُونَ
 sentence_translation: If you are in danger, pray on foot or while riding. But when
   you are safe, ˹take time to˺ remember Allah for teaching you what you did not know.
 word_by_word:
   1:
-    arabic: فَاِنۡ
+    arabic: فَإِنۡ
     translation: And if
     transliteration: fa-in
   2:
@@ -17,35 +17,35 @@ word_by_word:
     translation: then (pray) on foot
     transliteration: farijālan
   4:
-    arabic: اَوۡ
+    arabic: أَوۡ
     translation: or
     transliteration: aw
   5:
-    arabic: رُكۡبَانًا ​​ ۚ
+    arabic: رُكۡبَانٗاۖ
     translation: riding
     transliteration: ruk'bānan
   6:
-    arabic: فَاِذَآ
+    arabic: فَإِذَآ
     translation: Then when
     transliteration: fa-idhā
   7:
-    arabic: اَمِنۡتُمۡ
+    arabic: أَمِنتُمۡ
     translation: you are secure
     transliteration: amintum
   8:
-    arabic: فَاذۡکُرُوا
+    arabic: فَٱذۡكُرُواْ
     translation: then remember
     transliteration: fa-udh'kurū
   9:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   10:
-    arabic: کَمَا
+    arabic: كَمَا
     translation: as
     transliteration: kamā
   11:
-    arabic: عَلَّمَکُمۡ
+    arabic: عَلَّمَكُم
     translation: He (has) taught you
     transliteration: ʿallamakum
   12:
@@ -57,11 +57,11 @@ word_by_word:
     translation: not
     transliteration: lam
   14:
-    arabic: تَكُوۡنُوۡا
+    arabic: تَكُونُواْ
     translation: you were
     transliteration: takūnū
   15:
-    arabic: تَعۡلَمُوۡنَ‏
+    arabic: تَعۡلَمُونَ
     translation: knowing
     transliteration: taʿlamūna
 ---

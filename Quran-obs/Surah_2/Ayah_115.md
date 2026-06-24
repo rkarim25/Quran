@@ -1,27 +1,27 @@
 ---
-arabic_ayat: وَلِلّٰهِ الۡمَشۡرِقُ وَالۡمَغۡرِبُ​ فَاَيۡنَمَا تُوَلُّوۡا فَثَمَّ
-  وَجۡهُ اللّٰهِ​ؕ اِنَّ اللّٰهَ وَاسِعٌ عَلِيۡمٌ‏
+arabic_ayat: وَلِلَّهِ ٱلۡمَشۡرِقُ وَٱلۡمَغۡرِبُۚ فَأَيۡنَمَا تُوَلُّواْ فَثَمَّ وَجۡهُ
+  ٱللَّهِۚ إِنَّ ٱللَّهَ وَٰسِعٌ عَلِيمٞ
 sentence_translation: To Allah belong the east and the west, so wherever you turn
   you are facing ˹towards˺ Allah. Surely Allah is All-Encompassing, All-Knowing.
 word_by_word:
   1:
-    arabic: وَلِلّٰهِ
+    arabic: وَلِلَّهِ
     translation: And for Allah
     transliteration: walillahi
   2:
-    arabic: الۡمَشۡرِقُ
+    arabic: ٱلۡمَشۡرِقُ
     translation: (is) the east
     transliteration: l-mashriqu
   3:
-    arabic: وَالۡمَغۡرِبُ​
+    arabic: وَٱلۡمَغۡرِبُۚ
     translation: and the west
     transliteration: wal-maghribu
   4:
-    arabic: فَاَيۡنَمَا
+    arabic: فَأَيۡنَمَا
     translation: so wherever
     transliteration: fa-aynamā
   5:
-    arabic: تُوَلُّوۡا
+    arabic: تُوَلُّواْ
     translation: you turn
     transliteration: tuwallū
   6:
@@ -33,23 +33,23 @@ word_by_word:
     translation: (is the) face
     transliteration: wajhu
   8:
-    arabic: اللّٰهِ​ؕ
+    arabic: ٱللَّهِۚ
     translation: (of) Allah
     transliteration: l-lahi
   9:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   10:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   11:
-    arabic: وَاسِعٌ
+    arabic: وَٰسِعٌ
     translation: (is) All-Encompassing
     transliteration: wāsiʿun
   12:
-    arabic: عَلِيۡمٌ‏
+    arabic: عَلِيمٞ
     translation: All-Knowing
     transliteration: ʿalīmun
 ---

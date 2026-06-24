@@ -1,5 +1,5 @@
 ---
-arabic_ayat: وَ لِرَبِّكَ فَاصۡبِرۡؕ‏
+arabic_ayat: وَلِرَبِّكَ فَٱصۡبِرۡ
 sentence_translation: And persevere for ˹the sake of˺ your Lord.
 word_by_word:
   1:
@@ -7,7 +7,7 @@ word_by_word:
     translation: And for your Lord
     transliteration: walirabbika
   2:
-    arabic: فَاصۡبِرۡؕ‏
+    arabic: فَٱصۡبِرۡ
     translation: be patient
     transliteration: fa-iṣ'bir
 ---

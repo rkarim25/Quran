@@ -1,11 +1,11 @@
 ---
-arabic_ayat: وَكَذٰلِكَ حَقَّتۡ كَلِمَتُ رَبِّكَ عَلَى الَّذِيۡنَ كَفَرُوۡۤا اَنَّهُمۡ
-  اَصۡحٰبُ النَّارِ ​ۘ‏
+arabic_ayat: وَكَذَٰلِكَ حَقَّتۡ كَلِمَتُ رَبِّكَ عَلَى ٱلَّذِينَ كَفَرُوٓاْ أَنَّهُمۡ
+  أَصۡحَٰبُ ٱلنَّارِ
 sentence_translation: And so your Lord’s decree has been proven true against the disbelievers—that
   they will be the inmates of the Fire.
 word_by_word:
   1:
-    arabic: وَكَذٰلِكَ
+    arabic: وَكَذَٰلِكَ
     translation: And thus
     transliteration: wakadhālika
   2:
@@ -25,23 +25,23 @@ word_by_word:
     translation: against
     transliteration: ʿalā
   6:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   7:
-    arabic: كَفَرُوۡۤا
+    arabic: كَفَرُوٓاْ
     translation: disbelieved
     transliteration: kafarū
   8:
-    arabic: اَنَّهُمۡ
+    arabic: أَنَّهُمۡ
     translation: that they
     transliteration: annahum
   9:
-    arabic: اَصۡحٰبُ
+    arabic: أَصۡحَٰبُ
     translation: (are) companions
     transliteration: aṣḥābu
   10:
-    arabic: النَّارِ ​ۘ‏
+    arabic: ٱلنَّارِ
     translation: (of) the Fire
     transliteration: l-nāri
 ---

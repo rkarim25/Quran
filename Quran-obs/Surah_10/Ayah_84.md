@@ -1,6 +1,6 @@
 ---
-arabic_ayat: وَقَالَ مُوۡسٰى يٰقَوۡمِ اِنۡ كُنۡتُمۡ اٰمَنۡتُمۡ بِاللّٰهِ فَعَلَيۡهِ
-  تَوَكَّلُوۡاۤ اِنۡ كُنۡتُمۡ مُّسۡلِمِيۡنَ‏
+arabic_ayat: وَقَالَ مُوسَىٰ يَٰقَوۡمِ إِن كُنتُمۡ ءَامَنتُم بِٱللَّهِ فَعَلَيۡهِ
+  تَوَكَّلُوٓاْ إِن كُنتُم مُّسۡلِمِينَ
 sentence_translation: Moses said, “O my people! If you do believe in Allah and submit
   ˹to His Will˺, then put your trust in Him.”
 word_by_word:
@@ -9,27 +9,27 @@ word_by_word:
     translation: And Musa said
     transliteration: waqāla
   2:
-    arabic: مُوۡسٰى
+    arabic: مُوسَىٰ
     translation: And Musa said
     transliteration: mūsā
   3:
-    arabic: يٰقَوۡمِ
+    arabic: يَٰقَوۡمِ
     translation: O my people
     transliteration: yāqawmi
   4:
-    arabic: اِنۡ
+    arabic: إِن
     translation: If
     transliteration: in
   5:
-    arabic: كُنۡتُمۡ
+    arabic: كُنتُمۡ ءَ
     translation: you have
     transliteration: kuntum
   6:
-    arabic: اٰمَنۡتُمۡ
+    arabic: امَنتُم
     translation: believed
     transliteration: āmantum
   7:
-    arabic: بِاللّٰهِ
+    arabic: بِٱللَّهِ
     translation: in Allah
     transliteration: bil-lahi
   8:
@@ -37,19 +37,19 @@ word_by_word:
     translation: then on Him
     transliteration: faʿalayhi
   9:
-    arabic: تَوَكَّلُوۡاۤ
+    arabic: تَوَكَّلُوٓاْ
     translation: put your trust
     transliteration: tawakkalū
   10:
-    arabic: اِنۡ
+    arabic: إِن
     translation: if
     transliteration: in
   11:
-    arabic: كُنۡتُمۡ
+    arabic: كُنتُم
     translation: you are
     transliteration: kuntum
   12:
-    arabic: مُّسۡلِمِيۡنَ‏
+    arabic: مُّسۡلِمِينَ
     translation: Muslims
     transliteration: mus'limīna
 ---

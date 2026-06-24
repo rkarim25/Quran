@@ -1,6 +1,6 @@
 ---
-arabic_ayat: قَالَ رَبِّ اجۡعَلْ لِّىۡۤ اٰيَةً​  ؕ قَالَ اٰيَتُكَ اَلَّا تُكَلِّمَ
-  النَّاسَ ثَلٰثَ لَيَالٍ سَوِيًّا‏
+arabic_ayat: قَالَ رَبِّ ٱجۡعَل لِّيٓ ءَايَةٗۖ قَالَ ءَايَتُكَ أَلَّا تُكَلِّمَ ٱلنَّاسَ
+  ثَلَٰثَ لَيَالٖ سَوِيّٗا
 sentence_translation: Zachariah said, “My Lord! Grant me a sign.” He responded, “Your
   sign is that you will not ˹be able to˺ speak to people for three nights, despite
   being healthy.”
@@ -14,27 +14,27 @@ word_by_word:
     translation: My Lord
     transliteration: rabbi
   3:
-    arabic: اجۡعَلْ
+    arabic: ٱجۡعَل
     translation: Make
     transliteration: ij'ʿal
   4:
-    arabic: لِّىۡۤ
+    arabic: لِّيٓ ءَ
     translation: for me
     transliteration: lī
   5:
-    arabic: اٰيَةً​  ؕ
+    arabic: ايَةٗۖ
     translation: a sign
     transliteration: āyatan
   6:
-    arabic: قَالَ
+    arabic: قَالَ ءَ
     translation: He said
     transliteration: qāla
   7:
-    arabic: اٰيَتُكَ
+    arabic: ايَتُكَ
     translation: Your sign
     transliteration: āyatuka
   8:
-    arabic: اَلَّا
+    arabic: أَلَّا
     translation: (is) that not
     transliteration: allā
   9:
@@ -42,19 +42,19 @@ word_by_word:
     translation: you will speak
     transliteration: tukallima
   10:
-    arabic: النَّاسَ
+    arabic: ٱلنَّاسَ
     translation: (to) the people
     transliteration: l-nāsa
   11:
-    arabic: ثَلٰثَ
+    arabic: ثَلَٰثَ
     translation: (for) three
     transliteration: thalātha
   12:
-    arabic: لَيَالٍ
+    arabic: لَيَالٖ
     translation: nights
     transliteration: layālin
   13:
-    arabic: سَوِيًّا‏
+    arabic: سَوِيّٗا
     translation: sound
     transliteration: sawiyyan
 ---

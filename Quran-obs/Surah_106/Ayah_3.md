@@ -1,9 +1,9 @@
 ---
-arabic_ayat: فَلۡيَـعۡبُدُوۡا رَبَّ هٰذَا الۡبَيۡتِۙ‏
+arabic_ayat: فَلۡيَعۡبُدُواْ رَبَّ هَٰذَا ٱلۡبَيۡتِ
 sentence_translation: let them worship the Lord of this ˹Sacred˺ House,
 word_by_word:
   1:
-    arabic: فَلۡيَـعۡبُدُوۡا
+    arabic: فَلۡيَعۡبُدُواْ
     translation: So let them worship
     transliteration: falyaʿbudū
   2:
@@ -11,11 +11,11 @@ word_by_word:
     translation: (the) Lord
     transliteration: rabba
   3:
-    arabic: هٰذَا
+    arabic: هَٰذَا
     translation: (of) this
     transliteration: hādhā
   4:
-    arabic: الۡبَيۡتِۙ‏
+    arabic: ٱلۡبَيۡتِ
     translation: House
     transliteration: l-bayti
 ---

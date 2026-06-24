@@ -1,12 +1,11 @@
 ---
-arabic_ayat: "وَمَنۡ لَّمۡ يَسۡتَطِعۡ مِنۡكُمۡ طَوۡلًا اَنۡ يَّنۡكِحَ الۡمُحۡصَنٰتِ\
-  \ الۡمُؤۡمِنٰتِ فَمِنۡ مَّا مَلَـكَتۡ اَيۡمَانُكُمۡ مِّنۡ فَتَيٰـتِكُمُ الۡمُؤۡمِنٰتِ​\
-  \ ؕ وَاللّٰهُ اَعۡلَمُ بِاِيۡمَانِكُمۡ​ ؕ بَعۡضُكُمۡ مِّنۡۢ بَعۡضٍ​ ۚ فَانْكِحُوۡهُنَّ\
-  \ بِاِذۡنِ اَهۡلِهِنَّ وَاٰ تُوۡهُنَّ اُجُوۡرَهُنَّ بِالۡمَعۡرُوۡفِ مُحۡصَنٰتٍ غَيۡرَ\
-  \ مُسٰفِحٰتٍ وَّلَا مُتَّخِذٰتِ اَخۡدَانٍ​ ؕ فَاِذَاۤ اُحۡصِنَّ فَاِنۡ اَ تَيۡنَ\
-  \ بِفَاحِشَةٍ فَعَلَيۡهِنَّ نِصۡفُ مَا عَلَى الۡمُحۡصَنٰتِ مِنَ الۡعَذَابِ​ ؕ ذٰ\
-  \ لِكَ لِمَنۡ خَشِىَ الۡعَنَتَ مِنۡكُمۡ​ ؕ وَاَنۡ تَصۡبِرُوۡا خَيۡرٌ لَّكُمۡ​ ؕ\
-  \ وَاللّٰهُ غَفُوۡرٌ رَّحِيۡمٌ‏ \uFEFF\uFEFF"
+arabic_ayat: وَمَن لَّمۡ يَسۡتَطِعۡ مِنكُمۡ طَوۡلًا أَن يَنكِحَ ٱلۡمُحۡصَنَٰتِ ٱلۡمُؤۡمِنَٰتِ
+  فَمِن مَّا مَلَكَتۡ أَيۡمَٰنُكُم مِّن فَتَيَٰتِكُمُ ٱلۡمُؤۡمِنَٰتِۚ وَٱللَّهُ أَعۡلَمُ
+  بِإِيمَٰنِكُمۚ بَعۡضُكُم مِّنۢ بَعۡضٖۚ فَٱنكِحُوهُنَّ بِإِذۡنِ أَهۡلِهِنَّ وَءَاتُوهُنَّ
+  أُجُورَهُنَّ بِٱلۡمَعۡرُوفِ مُحۡصَنَٰتٍ غَيۡرَ مُسَٰفِحَٰتٖ وَلَا مُتَّخِذَٰتِ أَخۡدَانٖۚ
+  فَإِذَآ أُحۡصِنَّ فَإِنۡ أَتَيۡنَ بِفَٰحِشَةٖ فَعَلَيۡهِنَّ نِصۡفُ مَا عَلَى ٱلۡمُحۡصَنَٰتِ
+  مِنَ ٱلۡعَذَابِۚ ذَٰلِكَ لِمَنۡ خَشِيَ ٱلۡعَنَتَ مِنكُمۡۚ وَأَن تَصۡبِرُواْ خَيۡرٞ
+  لَّكُمۡۗ وَٱللَّهُ غَفُورٞ رَّحِيمٞ
 sentence_translation: But if any of you cannot afford to marry a free believing woman,
   then ˹let him marry˺ a believing bondwoman possessed by one of you. Allah knows
   best ˹the state of˺ your faith ˹and theirs˺. You are from one another. So marry
@@ -17,7 +16,7 @@ sentence_translation: But if any of you cannot afford to marry a free believing 
   And Allah is All-Forgiving, Most Merciful.
 word_by_word:
   1:
-    arabic: وَمَنۡ
+    arabic: وَمَن
     translation: And whoever
     transliteration: waman
   2:
@@ -29,7 +28,7 @@ word_by_word:
     translation: able to
     transliteration: yastaṭiʿ
   4:
-    arabic: مِنۡكُمۡ
+    arabic: مِنكُمۡ
     translation: among you
     transliteration: minkum
   5:
@@ -37,23 +36,23 @@ word_by_word:
     translation: afford
     transliteration: ṭawlan
   6:
-    arabic: اَنۡ
+    arabic: أَن
     translation: to
     transliteration: an
   7:
-    arabic: يَّنۡكِحَ
+    arabic: يَنكِحَ
     translation: marry
     transliteration: yankiḥa
   8:
-    arabic: الۡمُحۡصَنٰتِ
+    arabic: ٱلۡمُحۡصَنَٰتِ
     translation: the free chaste
     transliteration: l-muḥ'ṣanāti
   9:
-    arabic: الۡمُؤۡمِنٰتِ
+    arabic: ٱلۡمُؤۡمِنَٰتِ
     translation: '[the] believing women'
     transliteration: l-mu'mināti
   10:
-    arabic: فَمِنۡ
+    arabic: فَمِن
     translation: then (marry) from
     transliteration: famin
   11:
@@ -61,75 +60,75 @@ word_by_word:
     translation: what
     transliteration: mā
   12:
-    arabic: مَلَـكَتۡ
+    arabic: مَلَكَتۡ
     translation: possess[ed]
     transliteration: malakat
   13:
-    arabic: اَيۡمَانُكُمۡ
+    arabic: أَيۡمَٰنُكُم
     translation: your right hands
     transliteration: aymānukum
   14:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: of
     transliteration: min
   15:
-    arabic: فَتَيٰـتِكُمُ
+    arabic: فَتَيَٰتِكُمُ
     translation: 'your slave girls '
     transliteration: fatayātikumu
   16:
-    arabic: الۡمُؤۡمِنٰتِ​ ؕ
+    arabic: ٱلۡمُؤۡمِنَٰتِۚ
     translation: (of) the believers
     transliteration: l-mu'mināti
   17:
-    arabic: وَاللّٰهُ
+    arabic: وَٱللَّهُ
     translation: And Allah
     transliteration: wal-lahu
   18:
-    arabic: اَعۡلَمُ
+    arabic: أَعۡلَمُ
     translation: knows best
     transliteration: aʿlamu
   19:
-    arabic: بِاِيۡمَانِكُمۡ​ ؕ
+    arabic: بِإِيمَٰنِكُمۚ
     translation: about your faith
     transliteration: biīmānikum
   20:
-    arabic: بَعۡضُكُمۡ
+    arabic: بَعۡضُكُم
     translation: You
     transliteration: baʿḍukum
   21:
-    arabic: مِّنۡۢ
+    arabic: مِّنۢ
     translation: (are) from
     transliteration: min
   22:
-    arabic: بَعۡضٍ​ ۚ
+    arabic: بَعۡضٖۚ
     translation: (one) another
     transliteration: baʿḍin
   23:
-    arabic: فَانْكِحُوۡهُنَّ
+    arabic: فَٱنكِحُوهُنَّ
     translation: So marry them
     transliteration: fa-inkiḥūhunna
   24:
-    arabic: بِاِذۡنِ
+    arabic: بِإِذۡنِ
     translation: with (the) permission
     transliteration: bi-idh'ni
   25:
-    arabic: اَهۡلِهِنَّ
+    arabic: أَهۡلِهِنَّ
     translation: (of) their family
     transliteration: ahlihinna
   26:
-    arabic: وَاٰ تُوۡهُنَّ
+    arabic: وَءَاتُوهُنَّ
     translation: and give them
     transliteration: waātūhunna
   27:
-    arabic: اُجُوۡرَهُنَّ
+    arabic: أُجُورَهُنَّ
     translation: their bridal due
     transliteration: ujūrahunna
   28:
-    arabic: بِالۡمَعۡرُوۡفِ
+    arabic: بِٱلۡمَعۡرُوفِ
     translation: in a fair manner
     transliteration: bil-maʿrūfi
   29:
-    arabic: مُحۡصَنٰتٍ
+    arabic: مُحۡصَنَٰتٍ
     translation: (They should be) chaste
     transliteration: muḥ'ṣanātin
   30:
@@ -137,39 +136,39 @@ word_by_word:
     translation: not
     transliteration: ghayra
   31:
-    arabic: مُسٰفِحٰتٍ
+    arabic: مُسَٰفِحَٰتٖ
     translation: those who commit immorality
     transliteration: musāfiḥātin
   32:
-    arabic: وَّلَا
+    arabic: وَلَا
     translation: and not
     transliteration: walā
   33:
-    arabic: مُتَّخِذٰتِ
+    arabic: مُتَّخِذَٰتِ
     translation: those who take
     transliteration: muttakhidhāti
   34:
-    arabic: اَخۡدَانٍ​ ؕ
+    arabic: أَخۡدَانٖۚ
     translation: secret lovers
     transliteration: akhdānin
   35:
-    arabic: فَاِذَاۤ
+    arabic: فَإِذَآ
     translation: Then when
     transliteration: fa-idhā
   36:
-    arabic: اُحۡصِنَّ
+    arabic: أُحۡصِنَّ
     translation: they are married
     transliteration: uḥ'ṣinna
   37:
-    arabic: فَاِنۡ
+    arabic: فَإِنۡ
     translation: and if
     transliteration: fa-in
   38:
-    arabic: اَ تَيۡنَ
+    arabic: أَتَيۡنَ
     translation: they commit
     transliteration: atayna
   39:
-    arabic: بِفَاحِشَةٍ
+    arabic: بِفَٰحِشَةٖ
     translation: adultery
     transliteration: bifāḥishatin
   40:
@@ -189,7 +188,7 @@ word_by_word:
     translation: (is) on
     transliteration: ʿalā
   44:
-    arabic: الۡمُحۡصَنٰتِ
+    arabic: ٱلۡمُحۡصَنَٰتِ
     translation: the free chaste women
     transliteration: l-muḥ'ṣanāti
   45:
@@ -197,11 +196,11 @@ word_by_word:
     translation: of
     transliteration: mina
   46:
-    arabic: الۡعَذَابِ​ ؕ
+    arabic: ٱلۡعَذَابِۚ
     translation: the punishment
     transliteration: l-ʿadhābi
   47:
-    arabic: ذٰ لِكَ
+    arabic: ذَٰلِكَ
     translation: That
     transliteration: dhālika
   48:
@@ -209,43 +208,43 @@ word_by_word:
     translation: (is) for whoever
     transliteration: liman
   49:
-    arabic: خَشِىَ
+    arabic: خَشِيَ
     translation: fears
     transliteration: khashiya
   50:
-    arabic: الۡعَنَتَ
+    arabic: ٱلۡعَنَتَ
     translation: committing sin
     transliteration: l-ʿanata
   51:
-    arabic: مِنۡكُمۡ​ ؕ
+    arabic: مِنكُمۡۚ
     translation: among you
     transliteration: minkum
   52:
-    arabic: وَاَنۡ
+    arabic: وَأَن
     translation: and that
     transliteration: wa-an
   53:
-    arabic: تَصۡبِرُوۡا
+    arabic: تَصۡبِرُواْ
     translation: you be patient
     transliteration: taṣbirū
   54:
-    arabic: خَيۡرٌ
+    arabic: خَيۡرٞ
     translation: (is) better
     transliteration: khayrun
   55:
-    arabic: لَّكُمۡ​ ؕ
+    arabic: لَّكُمۡۗ
     translation: for you
     transliteration: lakum
   56:
-    arabic: وَاللّٰهُ
+    arabic: وَٱللَّهُ
     translation: And Allah
     transliteration: wal-lahu
   57:
-    arabic: غَفُوۡرٌ
+    arabic: غَفُورٞ
     translation: (is) Oft-Forgiving
     transliteration: ghafūrun
   58:
-    arabic: "رَّحِيۡمٌ‏ \uFEFF\uFEFF"
+    arabic: رَّحِيمٞ
     translation: Most Merciful
     transliteration: raḥīmun
 ---

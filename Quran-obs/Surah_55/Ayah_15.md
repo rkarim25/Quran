@@ -1,5 +1,5 @@
 ---
-arabic_ayat: وَخَلَقَ الۡجَآنَّ مِنۡ مَّارِجٍ مِّنۡ نَّارٍ​ۚ‏
+arabic_ayat: وَخَلَقَ ٱلۡجَآنَّ مِن مَّارِجٖ مِّن نَّارٖ
 sentence_translation: and created jinn from a ˹smokeless˺ flame of fire.
 word_by_word:
   1:
@@ -7,23 +7,23 @@ word_by_word:
     translation: And He created
     transliteration: wakhalaqa
   2:
-    arabic: الۡجَآنَّ
+    arabic: ٱلۡجَآنَّ
     translation: the jinn
     transliteration: l-jāna
   3:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   4:
-    arabic: مَّارِجٍ
+    arabic: مَّارِجٖ
     translation: a smokeless flame
     transliteration: mārijin
   5:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: of
     transliteration: min
   6:
-    arabic: نَّارٍ​ۚ‏
+    arabic: نَّارٖ
     translation: fire
     transliteration: nārin
 ---

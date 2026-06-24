@@ -1,6 +1,6 @@
 ---
-arabic_ayat: وَلَقَدۡ رَاوَدُوۡهُ عَنۡ ضَيۡفِهٖ فَطَمَسۡنَاۤ اَعۡيُنَهُمۡ فَذُوۡقُوۡا
-  عَذَابِىۡ وَنُذُرِ‏
+arabic_ayat: وَلَقَدۡ رَٰوَدُوهُ عَن ضَيۡفِهِۦ فَطَمَسۡنَآ أَعۡيُنَهُمۡ فَذُوقُواْ
+  عَذَابِي وَنُذُرِ
 sentence_translation: And they even demanded his angel-guests from him, so We blinded
   their eyes. ˹And they were told,˺ “Taste then My punishment and warnings!”
 word_by_word:
@@ -9,35 +9,35 @@ word_by_word:
     translation: And certainly
     transliteration: walaqad
   2:
-    arabic: رَاوَدُوۡهُ
+    arabic: رَٰوَدُوهُ
     translation: they demanded from him
     transliteration: rāwadūhu
   3:
-    arabic: عَنۡ
+    arabic: عَن
     translation: they demanded from him
     transliteration: ʿan
   4:
-    arabic: ضَيۡفِهٖ
+    arabic: ضَيۡفِهِۦ
     translation: his guests
     transliteration: ḍayfihi
   5:
-    arabic: فَطَمَسۡنَاۤ
+    arabic: فَطَمَسۡنَآ
     translation: so We blinded
     transliteration: faṭamasnā
   6:
-    arabic: اَعۡيُنَهُمۡ
+    arabic: أَعۡيُنَهُمۡ
     translation: their eyes
     transliteration: aʿyunahum
   7:
-    arabic: فَذُوۡقُوۡا
+    arabic: فَذُوقُواْ
     translation: So taste
     transliteration: fadhūqū
   8:
-    arabic: عَذَابِىۡ
+    arabic: عَذَابِي
     translation: My punishment
     transliteration: ʿadhābī
   9:
-    arabic: وَنُذُرِ‏
+    arabic: وَنُذُرِ
     translation: and My warnings
     transliteration: wanudhuri
 ---

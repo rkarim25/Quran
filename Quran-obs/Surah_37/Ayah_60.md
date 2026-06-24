@@ -1,13 +1,13 @@
 ---
-arabic_ayat: اِنَّ هٰذَا لَهُوَ الۡفَوۡزُ الۡعَظِيۡمُ‏
+arabic_ayat: إِنَّ هَٰذَا لَهُوَ ٱلۡفَوۡزُ ٱلۡعَظِيمُ
 sentence_translation: This is truly the ultimate triumph.
 word_by_word:
   1:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   2:
-    arabic: هٰذَا
+    arabic: هَٰذَا
     translation: this
     transliteration: hādhā
   3:
@@ -15,11 +15,11 @@ word_by_word:
     translation: surely
     transliteration: lahuwa
   4:
-    arabic: الۡفَوۡزُ
+    arabic: ٱلۡفَوۡزُ
     translation: (is) the attainment
     transliteration: l-fawzu
   5:
-    arabic: الۡعَظِيۡمُ‏
+    arabic: ٱلۡعَظِيمُ
     translation: great
     transliteration: l-ʿaẓīmu
 ---

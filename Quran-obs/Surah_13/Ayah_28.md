@@ -1,23 +1,23 @@
 ---
-arabic_ayat: اَلَّذِيۡنَ اٰمَنُوۡا وَتَطۡمَٮِٕنُّ قُلُوۡبُهُمۡ بِذِكۡرِ اللّٰهِ​ ؕ
-  اَلَا بِذِكۡرِ اللّٰهِ تَطۡمَٮِٕنُّ الۡقُلُوۡبُ ؕ‏
+arabic_ayat: ٱلَّذِينَ ءَامَنُواْ وَتَطۡمَئِنُّ قُلُوبُهُم بِذِكۡرِ ٱللَّهِۗ أَلَا
+  بِذِكۡرِ ٱللَّهِ تَطۡمَئِنُّ ٱلۡقُلُوبُ
 sentence_translation: those who believe and whose hearts find comfort in the remembrance
   of Allah. Surely in the remembrance of Allah do hearts find comfort.
 word_by_word:
   1:
-    arabic: اَلَّذِيۡنَ
+    arabic: ٱلَّذِينَ ءَ
     translation: Those who
     transliteration: alladhīna
   2:
-    arabic: اٰمَنُوۡا
+    arabic: امَنُواْ
     translation: believed
     transliteration: āmanū
   3:
-    arabic: وَتَطۡمَٮِٕنُّ
+    arabic: وَتَطۡمَئِنُّ
     translation: and find satisfaction
     transliteration: wataṭma-innu
   4:
-    arabic: قُلُوۡبُهُمۡ
+    arabic: قُلُوبُهُم
     translation: their hearts
     transliteration: qulūbuhum
   5:
@@ -25,11 +25,11 @@ word_by_word:
     translation: in the remembrance
     transliteration: bidhik'ri
   6:
-    arabic: اللّٰهِ​ ؕ
+    arabic: ٱللَّهِۗ
     translation: (of) Allah
     transliteration: l-lahi
   7:
-    arabic: اَلَا
+    arabic: أَلَا
     translation: No doubt
     transliteration: alā
   8:
@@ -37,15 +37,15 @@ word_by_word:
     translation: in the remembrance
     transliteration: bidhik'ri
   9:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (of) Allah
     transliteration: l-lahi
   10:
-    arabic: تَطۡمَٮِٕنُّ
+    arabic: تَطۡمَئِنُّ
     translation: find satisfaction
     transliteration: taṭma-innu
   11:
-    arabic: الۡقُلُوۡبُ ؕ‏
+    arabic: ٱلۡقُلُوبُ
     translation: the hearts
     transliteration: l-qulūbu
 ---

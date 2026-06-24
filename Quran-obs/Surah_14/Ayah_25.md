@@ -1,16 +1,16 @@
 ---
-arabic_ayat: تُؤۡتِىۡۤ اُكُلَهَا كُلَّ حِيۡنٍۢ بِاِذۡنِ رَبِّهَا​ؕ وَيَضۡرِبُ اللّٰهُ
-  الۡاَمۡثَالَ لِلنَّاسِ لَعَلَّهُمۡ يَتَذَكَّرُوۡنَ‏
+arabic_ayat: تُؤۡتِيٓ أُكُلَهَا كُلَّ حِينِۭ بِإِذۡنِ رَبِّهَاۗ وَيَضۡرِبُ ٱللَّهُ
+  ٱلۡأَمۡثَالَ لِلنَّاسِ لَعَلَّهُمۡ يَتَذَكَّرُونَ
 sentence_translation: ˹always˺ yielding its fruit in every season by the Will of its
   Lord. This is how Allah sets forth parables for the people, so perhaps they will
   be mindful.
 word_by_word:
   1:
-    arabic: تُؤۡتِىۡۤ
+    arabic: تُؤۡتِيٓ
     translation: Giving
     transliteration: tu'tī
   2:
-    arabic: اُكُلَهَا
+    arabic: أُكُلَهَا
     translation: its fruit
     transliteration: ukulahā
   3:
@@ -18,15 +18,15 @@ word_by_word:
     translation: all
     transliteration: kulla
   4:
-    arabic: حِيۡنٍۢ
+    arabic: حِينِۭ
     translation: time
     transliteration: ḥīnin
   5:
-    arabic: بِاِذۡنِ
+    arabic: بِإِذۡنِ
     translation: by the permission
     transliteration: bi-idh'ni
   6:
-    arabic: رَبِّهَا​ؕ
+    arabic: رَبِّهَاۗ
     translation: of its Lord
     transliteration: rabbihā
   7:
@@ -34,11 +34,11 @@ word_by_word:
     translation: And Allah sets forth
     transliteration: wayaḍribu
   8:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: And Allah sets forth
     transliteration: l-lahu
   9:
-    arabic: الۡاَمۡثَالَ
+    arabic: ٱلۡأَمۡثَالَ
     translation: the examples
     transliteration: l-amthāla
   10:
@@ -50,7 +50,7 @@ word_by_word:
     translation: so that they may
     transliteration: laʿallahum
   12:
-    arabic: يَتَذَكَّرُوۡنَ‏
+    arabic: يَتَذَكَّرُونَ
     translation: remember
     transliteration: yatadhakkarūna
 ---

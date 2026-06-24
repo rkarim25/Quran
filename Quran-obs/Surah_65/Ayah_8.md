@@ -1,16 +1,16 @@
 ---
-arabic_ayat: وَكَاَيِّنۡ مِّنۡ قَرۡيَةٍ عَتَتۡ عَنۡ اَمۡرِ رَبِّهَا وَرُسُلِهٖ فَحَاسَبۡنٰهَا
-  حِسَابًا شَدِيۡدًاۙ وَّعَذَّبۡنٰهَا عَذَابًا نُّكۡرًا‏
+arabic_ayat: وَكَأَيِّن مِّن قَرۡيَةٍ عَتَتۡ عَنۡ أَمۡرِ رَبِّهَا وَرُسُلِهِۦ فَحَاسَبۡنَٰهَا
+  حِسَابٗا شَدِيدٗا وَعَذَّبۡنَٰهَا عَذَابٗا نُّكۡرٗا
 sentence_translation: ˹Imagine˺ how many societies rebelled against the commandments
   of their Lord and His messengers, so We called each ˹society˺ to a severe account
   and subjected them to a horrible punishment.
 word_by_word:
   1:
-    arabic: وَكَاَيِّنۡ
+    arabic: وَكَأَيِّن
     translation: And how many
     transliteration: waka-ayyin
   2:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: of
     transliteration: min
   3:
@@ -26,7 +26,7 @@ word_by_word:
     translation: against
     transliteration: ʿan
   6:
-    arabic: اَمۡرِ
+    arabic: أَمۡرِ
     translation: (the) Command
     transliteration: amri
   7:
@@ -34,31 +34,31 @@ word_by_word:
     translation: (of) its Lord
     transliteration: rabbihā
   8:
-    arabic: وَرُسُلِهٖ
+    arabic: وَرُسُلِهِۦ
     translation: and His Messengers
     transliteration: warusulihi
   9:
-    arabic: فَحَاسَبۡنٰهَا
+    arabic: فَحَاسَبۡنَٰهَا
     translation: so We took it to account
     transliteration: faḥāsabnāhā
   10:
-    arabic: حِسَابًا
+    arabic: حِسَابٗا
     translation: an account
     transliteration: ḥisāban
   11:
-    arabic: شَدِيۡدًاۙ
+    arabic: شَدِيدٗا
     translation: severe
     transliteration: shadīdan
   12:
-    arabic: وَّعَذَّبۡنٰهَا
+    arabic: وَعَذَّبۡنَٰهَا
     translation: and We punished it
     transliteration: waʿadhabnāhā
   13:
-    arabic: عَذَابًا
+    arabic: عَذَابٗا
     translation: a punishment
     transliteration: ʿadhāban
   14:
-    arabic: نُّكۡرًا‏
+    arabic: نُّكۡرٗا
     translation: terrible
     transliteration: nuk'ran
 ---

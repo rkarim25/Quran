@@ -1,17 +1,17 @@
 ---
-arabic_ayat: وَاِذَا الۡجَحِيۡمُ سُعِّرَتۡۙ‏
+arabic_ayat: وَإِذَا ٱلۡجَحِيمُ سُعِّرَتۡ
 sentence_translation: and when the Hellfire is fiercely flared up,
 word_by_word:
   1:
-    arabic: وَاِذَا
+    arabic: وَإِذَا
     translation: And when
     transliteration: wa-idhā
   2:
-    arabic: الۡجَحِيۡمُ
+    arabic: ٱلۡجَحِيمُ
     translation: the Hellfire
     transliteration: l-jaḥīmu
   3:
-    arabic: سُعِّرَتۡۙ‏
+    arabic: سُعِّرَتۡ
     translation: is set ablaze
     transliteration: suʿʿirat
 ---

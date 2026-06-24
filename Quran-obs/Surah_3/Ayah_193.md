@@ -1,17 +1,17 @@
 ---
-arabic_ayat: رَبَّنَاۤ اِنَّنَا سَمِعۡنَا مُنَادِيًا يُّنَادِىۡ لِلۡاِيۡمَانِ اَنۡ
-  اٰمِنُوۡا بِرَبِّكُمۡ فَاٰمَنَّا  ۖ رَبَّنَا فَاغۡفِرۡ لَنَا ذُنُوۡبَنَا وَكَفِّرۡ
-  عَنَّا سَيِّاٰتِنَا وَتَوَفَّنَا مَعَ الۡاَبۡرَارِ​ۚ‏
+arabic_ayat: رَّبَّنَآ إِنَّنَا سَمِعۡنَا مُنَادِيٗا يُنَادِي لِلۡإِيمَٰنِ أَنۡ ءَامِنُواْ
+  بِرَبِّكُمۡ فَـَٔامَنَّاۚ رَبَّنَا فَٱغۡفِرۡ لَنَا ذُنُوبَنَا وَكَفِّرۡ عَنَّا سَيِّـَٔاتِنَا
+  وَتَوَفَّنَا مَعَ ٱلۡأَبۡرَارِ
 sentence_translation: Our Lord! We have heard the caller to ˹true˺ belief, ˹proclaiming,˺
   ‘Believe in your Lord ˹alone˺,’ so we believed. Our Lord! Forgive our sins, absolve
   us of our misdeeds, and allow us ˹each˺ to die as one of the virtuous.
 word_by_word:
   1:
-    arabic: رَبَّنَاۤ
+    arabic: رَّبَّنَآ
     translation: Our Lord
     transliteration: rabbanā
   2:
-    arabic: اِنَّنَا
+    arabic: إِنَّنَا
     translation: indeed we
     transliteration: innanā
   3:
@@ -19,23 +19,23 @@ word_by_word:
     translation: '[we] heard'
     transliteration: samiʿ'nā
   4:
-    arabic: مُنَادِيًا
+    arabic: مُنَادِيٗا
     translation: a caller
     transliteration: munādiyan
   5:
-    arabic: يُّنَادِىۡ
+    arabic: يُنَادِي
     translation: calling
     transliteration: yunādī
   6:
-    arabic: لِلۡاِيۡمَانِ
+    arabic: لِلۡإِيمَٰنِ
     translation: to the faith
     transliteration: lil'īmāni
   7:
-    arabic: اَنۡ
+    arabic: أَنۡ ءَ
     translation: that
     transliteration: an
   8:
-    arabic: اٰمِنُوۡا
+    arabic: امِنُواْ
     translation: Believe
     transliteration: āminū
   9:
@@ -43,7 +43,7 @@ word_by_word:
     translation: in your Lord
     transliteration: birabbikum
   10:
-    arabic: فَاٰمَنَّا  ۖ
+    arabic: فَـَٔامَنَّاۚ
     translation: so we have believed
     transliteration: faāmannā
   11:
@@ -51,7 +51,7 @@ word_by_word:
     translation: Our Lord
     transliteration: rabbanā
   12:
-    arabic: فَاغۡفِرۡ
+    arabic: فَٱغۡفِرۡ
     translation: so forgive
     transliteration: fa-igh'fir
   13:
@@ -59,7 +59,7 @@ word_by_word:
     translation: for us
     transliteration: lanā
   14:
-    arabic: ذُنُوۡبَنَا
+    arabic: ذُنُوبَنَا
     translation: our sins
     transliteration: dhunūbanā
   15:
@@ -71,7 +71,7 @@ word_by_word:
     translation: from us
     transliteration: ʿannā
   17:
-    arabic: سَيِّاٰتِنَا
+    arabic: سَيِّـَٔاتِنَا
     translation: our evil deeds
     transliteration: sayyiātinā
   18:
@@ -83,7 +83,7 @@ word_by_word:
     translation: with
     transliteration: maʿa
   20:
-    arabic: الۡاَبۡرَارِ​ۚ‏
+    arabic: ٱلۡأَبۡرَارِ
     translation: the righteous
     transliteration: l-abrāri
 ---

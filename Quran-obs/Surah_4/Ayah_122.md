@@ -1,25 +1,25 @@
 ---
-arabic_ayat: وَالَّذِيۡنَ اٰمَنُوۡا وَعَمِلُوا الصّٰلِحٰتِ سَنُدۡخِلُهُمۡ جَنّٰتٍ
-  تَجۡرِىۡ مِنۡ تَحۡتِهَا الۡاَنۡهٰرُ خٰلِدِيۡنَ فِيۡهَاۤ اَبَدًا​ ؕ وَعۡدَ اللّٰهِ
-  حَقًّا​ ؕ وَمَنۡ اَصۡدَقُ مِنَ اللّٰهِ قِيۡلًا‏
+arabic_ayat: وَٱلَّذِينَ ءَامَنُواْ وَعَمِلُواْ ٱلصَّٰلِحَٰتِ سَنُدۡخِلُهُمۡ جَنَّٰتٖ
+  تَجۡرِي مِن تَحۡتِهَا ٱلۡأَنۡهَٰرُ خَٰلِدِينَ فِيهَآ أَبَدٗاۖ وَعۡدَ ٱللَّهِ حَقّٗاۚ
+  وَمَنۡ أَصۡدَقُ مِنَ ٱللَّهِ قِيلٗا
 sentence_translation: And those who believe and do good, We will soon admit them into
   Gardens under which rivers flow, to stay there for ever and ever. Allah’s promise
   is ˹always˺ true. And whose word is more truthful than Allah’s?
 word_by_word:
   1:
-    arabic: وَالَّذِيۡنَ
+    arabic: وَٱلَّذِينَ ءَ
     translation: And those who
     transliteration: wa-alladhīna
   2:
-    arabic: اٰمَنُوۡا
+    arabic: امَنُواْ
     translation: believe[d]
     transliteration: āmanū
   3:
-    arabic: وَعَمِلُوا
+    arabic: وَعَمِلُواْ
     translation: and do
     transliteration: waʿamilū
   4:
-    arabic: الصّٰلِحٰتِ
+    arabic: ٱلصَّٰلِحَٰتِ
     translation: '[the] righteous deeds'
     transliteration: l-ṣāliḥāti
   5:
@@ -27,15 +27,15 @@ word_by_word:
     translation: We will admit them
     transliteration: sanud'khiluhum
   6:
-    arabic: جَنّٰتٍ
+    arabic: جَنَّٰتٖ
     translation: (in) Gardens
     transliteration: jannātin
   7:
-    arabic: تَجۡرِىۡ
+    arabic: تَجۡرِي
     translation: flow
     transliteration: tajrī
   8:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   9:
@@ -43,19 +43,19 @@ word_by_word:
     translation: underneath it
     transliteration: taḥtihā
   10:
-    arabic: الۡاَنۡهٰرُ
+    arabic: ٱلۡأَنۡهَٰرُ
     translation: the rivers
     transliteration: l-anhāru
   11:
-    arabic: خٰلِدِيۡنَ
+    arabic: خَٰلِدِينَ
     translation: will abide
     transliteration: khālidīna
   12:
-    arabic: فِيۡهَاۤ
+    arabic: فِيهَآ
     translation: in it
     transliteration: fīhā
   13:
-    arabic: اَبَدًا​ ؕ
+    arabic: أَبَدٗاۖ
     translation: forever
     transliteration: abadan
   14:
@@ -63,11 +63,11 @@ word_by_word:
     translation: A Promise
     transliteration: waʿda
   15:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (of) Allah
     transliteration: l-lahi
   16:
-    arabic: حَقًّا​ ؕ
+    arabic: حَقّٗاۚ
     translation: (in) truth
     transliteration: ḥaqqan
   17:
@@ -75,7 +75,7 @@ word_by_word:
     translation: and who
     transliteration: waman
   18:
-    arabic: اَصۡدَقُ
+    arabic: أَصۡدَقُ
     translation: (is) truer
     transliteration: aṣdaqu
   19:
@@ -83,11 +83,11 @@ word_by_word:
     translation: than
     transliteration: mina
   20:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   21:
-    arabic: قِيۡلًا‏
+    arabic: قِيلٗا
     translation: (in) statement
     transliteration: qīlan
 ---

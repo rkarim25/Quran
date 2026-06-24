@@ -1,59 +1,58 @@
 ---
-arabic_ayat: فَتَـرَى الَّذِيۡنَ فِىۡ قُلُوۡبِهِمۡ مَّرَضٌ يُّسَارِعُوۡنَ فِيۡهِمۡ
-  يَقُوۡلُوۡنَ نَخۡشٰٓى اَنۡ تُصِيۡبَـنَا دَآٮِٕرَةٌ​ ؕ فَعَسَى اللّٰهُ اَنۡ يَّاۡتِىَ
-  بِالۡفَتۡحِ اَوۡ اَمۡرٍ مِّنۡ عِنۡدِهٖ فَيُصۡبِحُوۡا عَلٰى مَاۤ اَسَرُّوۡا فِىۡۤ
-  اَنۡفُسِهِمۡ نٰدِمِيۡنَ ؕ‏
+arabic_ayat: فَتَرَى ٱلَّذِينَ فِي قُلُوبِهِم مَّرَضٞ يُسَٰرِعُونَ فِيهِمۡ يَقُولُونَ
+  نَخۡشَىٰٓ أَن تُصِيبَنَا دَآئِرَةٞۚ فَعَسَى ٱللَّهُ أَن يَأۡتِيَ بِٱلۡفَتۡحِ أَوۡ
+  أَمۡرٖ مِّنۡ عِندِهِۦ فَيُصۡبِحُواْ عَلَىٰ مَآ أَسَرُّواْ فِيٓ أَنفُسِهِمۡ نَٰدِمِينَ
 sentence_translation: You see those with sickness in their hearts racing for their
   guardianship, saying ˹in justification˺, “We fear a turn of fortune will strike
   us.” But perhaps Allah will bring about ˹your˺ victory or another favour by His
   command, and they will regret what they have hidden in their hearts.
 word_by_word:
   1:
-    arabic: فَتَـرَى
+    arabic: فَتَرَى
     translation: And you see
     transliteration: fatarā
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: 'those '
     transliteration: alladhīna
   3:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   4:
-    arabic: قُلُوۡبِهِمۡ
+    arabic: قُلُوبِهِم
     translation: their hearts
     transliteration: qulūbihim
   5:
-    arabic: مَّرَضٌ
+    arabic: مَّرَضٞ
     translation: (is) a disease
     transliteration: maraḍun
   6:
-    arabic: يُّسَارِعُوۡنَ
+    arabic: يُسَٰرِعُونَ
     translation: they hasten
     transliteration: yusāriʿūna
   7:
-    arabic: فِيۡهِمۡ
+    arabic: فِيهِمۡ
     translation: to them
     transliteration: fīhim
   8:
-    arabic: يَقُوۡلُوۡنَ
+    arabic: يَقُولُونَ
     translation: saying
     transliteration: yaqūlūna
   9:
-    arabic: نَخۡشٰٓى
+    arabic: نَخۡشَىٰٓ
     translation: We fear
     transliteration: nakhshā
   10:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that
     transliteration: an
   11:
-    arabic: تُصِيۡبَـنَا
+    arabic: تُصِيبَنَا
     translation: (may) strike us
     transliteration: tuṣībanā
   12:
-    arabic: دَآٮِٕرَةٌ​ ؕ
+    arabic: دَآئِرَةٞۚ
     translation: a misfortune
     transliteration: dāiratun
   13:
@@ -61,27 +60,27 @@ word_by_word:
     translation: But perhaps
     transliteration: faʿasā
   14:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   15:
-    arabic: اَنۡ
+    arabic: أَن
     translation: '[that]'
     transliteration: an
   16:
-    arabic: يَّاۡتِىَ
+    arabic: يَأۡتِيَ
     translation: will bring
     transliteration: yatiya
   17:
-    arabic: بِالۡفَتۡحِ
+    arabic: بِٱلۡفَتۡحِ
     translation: the victory
     transliteration: bil-fatḥi
   18:
-    arabic: اَوۡ
+    arabic: أَوۡ
     translation: or
     transliteration: aw
   19:
-    arabic: اَمۡرٍ
+    arabic: أَمۡرٖ
     translation: a decision
     transliteration: amrin
   20:
@@ -89,35 +88,35 @@ word_by_word:
     translation: from
     transliteration: min
   21:
-    arabic: عِنۡدِهٖ
+    arabic: عِندِهِۦ
     translation: (of) Him
     transliteration: ʿindihi
   22:
-    arabic: فَيُصۡبِحُوۡا
+    arabic: فَيُصۡبِحُواْ
     translation: Then they will become
     transliteration: fayuṣ'biḥū
   23:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: for
     transliteration: ʿalā
   24:
-    arabic: مَاۤ
+    arabic: مَآ
     translation: what
     transliteration: mā
   25:
-    arabic: اَسَرُّوۡا
+    arabic: أَسَرُّواْ
     translation: they had concealed
     transliteration: asarrū
   26:
-    arabic: فِىۡۤ
+    arabic: فِيٓ
     translation: within
     transliteration: fī
   27:
-    arabic: اَنۡفُسِهِمۡ
+    arabic: أَنفُسِهِمۡ
     translation: themselves
     transliteration: anfusihim
   28:
-    arabic: نٰدِمِيۡنَ ؕ‏
+    arabic: نَٰدِمِينَ
     translation: regretful
     transliteration: nādimīna
 ---

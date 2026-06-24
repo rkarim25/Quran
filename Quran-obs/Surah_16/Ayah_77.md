@@ -1,13 +1,13 @@
 ---
-arabic_ayat: "وَلِلّٰهِ غَيۡبُ السَّمٰوٰتِ وَالۡاَرۡضِ​ؕ وَمَاۤ اَمۡرُ السَّاعَةِ\
-  \ اِلَّا كَلَمۡحِ الۡبَصَرِ اَوۡ هُوَ اَقۡرَبُ​ؕ اِنَّ اللّٰهَ عَلٰى كُلِّ شَىۡءٍ\
-  \ قَدِيۡرٌ‏ \uFEFF\uFEFF"
+arabic_ayat: وَلِلَّهِ غَيۡبُ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِۚ وَمَآ أَمۡرُ ٱلسَّاعَةِ
+  إِلَّا كَلَمۡحِ ٱلۡبَصَرِ أَوۡ هُوَ أَقۡرَبُۚ إِنَّ ٱللَّهَ عَلَىٰ كُلِّ شَيۡءٖ
+  قَدِيرٞ
 sentence_translation: To Allah ˹alone˺ belongs ˹the knowledge of˺ the unseen in the
   heavens and the earth. Bringing about the Hour would only take the blink of an eye,
   or even less. Surely Allah is Most Capable of everything.
 word_by_word:
   1:
-    arabic: وَلِلّٰهِ
+    arabic: وَلِلَّهِ
     translation: And to Allah (belongs)
     transliteration: walillahi
   2:
@@ -15,27 +15,27 @@ word_by_word:
     translation: (the) unseen
     transliteration: ghaybu
   3:
-    arabic: السَّمٰوٰتِ
+    arabic: ٱلسَّمَٰوَٰتِ
     translation: (of) the heavens
     transliteration: l-samāwāti
   4:
-    arabic: وَالۡاَرۡضِ​ؕ
+    arabic: وَٱلۡأَرۡضِۚ
     translation: and the earth
     transliteration: wal-arḍi
   5:
-    arabic: وَمَاۤ
+    arabic: وَمَآ
     translation: And not
     transliteration: wamā
   6:
-    arabic: اَمۡرُ
+    arabic: أَمۡرُ
     translation: (is the) matter
     transliteration: amru
   7:
-    arabic: السَّاعَةِ
+    arabic: ٱلسَّاعَةِ
     translation: (of) the Hour
     transliteration: l-sāʿati
   8:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: but
     transliteration: illā
   9:
@@ -43,11 +43,11 @@ word_by_word:
     translation: as a twinkling
     transliteration: kalamḥi
   10:
-    arabic: الۡبَصَرِ
+    arabic: ٱلۡبَصَرِ
     translation: (of) the eye
     transliteration: l-baṣari
   11:
-    arabic: اَوۡ
+    arabic: أَوۡ
     translation: or
     transliteration: aw
   12:
@@ -55,19 +55,19 @@ word_by_word:
     translation: it
     transliteration: huwa
   13:
-    arabic: اَقۡرَبُ​ؕ
+    arabic: أَقۡرَبُۚ
     translation: (is) nearer
     transliteration: aqrabu
   14:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   15:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   16:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: 'on'
     transliteration: ʿalā
   17:
@@ -75,11 +75,11 @@ word_by_word:
     translation: every
     transliteration: kulli
   18:
-    arabic: شَىۡءٍ
+    arabic: شَيۡءٖ
     translation: thing
     transliteration: shayin
   19:
-    arabic: "قَدِيۡرٌ‏ \uFEFF\uFEFF"
+    arabic: قَدِيرٞ
     translation: (is) All-Powerful
     transliteration: qadīrun
 ---

@@ -1,8 +1,8 @@
 ---
-arabic_ayat: وَمَا لَـكُمۡ لَا تُقَاتِلُوۡنَ فِىۡ سَبِيۡلِ اللّٰهِ وَالۡمُسۡتَضۡعَفِيۡنَ
-  مِنَ الرِّجَالِ وَالنِّسَآءِ وَالۡوِلۡدَانِ الَّذِيۡنَ يَقُوۡلُوۡنَ رَبَّنَاۤ اَخۡرِجۡنَا
-  مِنۡ هٰذِهِ الۡـقَرۡيَةِ الظَّالِمِ اَهۡلُهَا​ ۚ وَاجۡعَلْ لَّـنَا مِنۡ لَّدُنۡكَ
-  وَلِيًّا ۙۚ وَّاجۡعَلْ لَّـنَا مِنۡ لَّدُنۡكَ نَصِيۡرًا ؕ‏
+arabic_ayat: وَمَا لَكُمۡ لَا تُقَٰتِلُونَ فِي سَبِيلِ ٱللَّهِ وَٱلۡمُسۡتَضۡعَفِينَ
+  مِنَ ٱلرِّجَالِ وَٱلنِّسَآءِ وَٱلۡوِلۡدَٰنِ ٱلَّذِينَ يَقُولُونَ رَبَّنَآ أَخۡرِجۡنَا
+  مِنۡ هَٰذِهِ ٱلۡقَرۡيَةِ ٱلظَّالِمِ أَهۡلُهَا وَٱجۡعَل لَّنَا مِن لَّدُنكَ وَلِيّٗا
+  وَٱجۡعَل لَّنَا مِن لَّدُنكَ نَصِيرًا
 sentence_translation: And what is it with you? You do not fight in the cause of Allah
   and for oppressed men, women, and children who cry out, “Our Lord! Deliver us from
   this land of oppressors! Appoint for us a saviour; appoint for us a helper—all by
@@ -13,7 +13,7 @@ word_by_word:
     translation: And what
     transliteration: wamā
   2:
-    arabic: لَـكُمۡ
+    arabic: لَكُمۡ
     translation: for you
     transliteration: lakum
   3:
@@ -21,23 +21,23 @@ word_by_word:
     translation: (that) not
     transliteration: lā
   4:
-    arabic: تُقَاتِلُوۡنَ
+    arabic: تُقَٰتِلُونَ
     translation: you fight
     transliteration: tuqātilūna
   5:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   6:
-    arabic: سَبِيۡلِ
+    arabic: سَبِيلِ
     translation: (the) way
     transliteration: sabīli
   7:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (of) Allah
     transliteration: l-lahi
   8:
-    arabic: وَالۡمُسۡتَضۡعَفِيۡنَ
+    arabic: وَٱلۡمُسۡتَضۡعَفِينَ
     translation: and (for) those who are weak
     transliteration: wal-mus'taḍʿafīna
   9:
@@ -45,31 +45,31 @@ word_by_word:
     translation: among
     transliteration: mina
   10:
-    arabic: الرِّجَالِ
+    arabic: ٱلرِّجَالِ
     translation: the men
     transliteration: l-rijāli
   11:
-    arabic: وَالنِّسَآءِ
+    arabic: وَٱلنِّسَآءِ
     translation: and the women
     transliteration: wal-nisāi
   12:
-    arabic: وَالۡوِلۡدَانِ
+    arabic: وَٱلۡوِلۡدَٰنِ
     translation: and the children
     transliteration: wal-wil'dāni
   13:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   14:
-    arabic: يَقُوۡلُوۡنَ
+    arabic: يَقُولُونَ
     translation: say
     transliteration: yaqūlūna
   15:
-    arabic: رَبَّنَاۤ
+    arabic: رَبَّنَآ
     translation: Our Lord
     transliteration: rabbanā
   16:
-    arabic: اَخۡرِجۡنَا
+    arabic: أَخۡرِجۡنَا
     translation: take us out
     transliteration: akhrij'nā
   17:
@@ -77,59 +77,59 @@ word_by_word:
     translation: of
     transliteration: min
   18:
-    arabic: هٰذِهِ
+    arabic: هَٰذِهِ
     translation: this
     transliteration: hādhihi
   19:
-    arabic: الۡـقَرۡيَةِ
+    arabic: ٱلۡقَرۡيَةِ
     translation: '[the] town'
     transliteration: l-qaryati
   20:
-    arabic: الظَّالِمِ
+    arabic: ٱلظَّالِمِ
     translation: '[the] oppressor(s)'
     transliteration: l-ẓālimi
   21:
-    arabic: اَهۡلُهَا​ ۚ
+    arabic: أَهۡلُهَا
     translation: (are) its people
     transliteration: ahluhā
   22:
-    arabic: وَاجۡعَلْ
+    arabic: وَٱجۡعَل
     translation: and appoint
     transliteration: wa-ij'ʿal
   23:
-    arabic: لَّـنَا
+    arabic: لَّنَا
     translation: for us
     transliteration: lanā
   24:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   25:
-    arabic: لَّدُنۡكَ
+    arabic: لَّدُنكَ
     translation: Yourself
     transliteration: ladunka
   26:
-    arabic: وَلِيًّا ۙۚ
+    arabic: وَلِيّٗا
     translation: a protector
     transliteration: waliyyan
   27:
-    arabic: وَّاجۡعَلْ
+    arabic: وَٱجۡعَل
     translation: and appoint
     transliteration: wa-ij'ʿal
   28:
-    arabic: لَّـنَا
+    arabic: لَّنَا
     translation: for us
     transliteration: lanā
   29:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   30:
-    arabic: لَّدُنۡكَ
+    arabic: لَّدُنكَ
     translation: Yourself
     transliteration: ladunka
   31:
-    arabic: نَصِيۡرًا ؕ‏
+    arabic: نَصِيرًا
     translation: a helper
     transliteration: naṣīran
 ---

@@ -1,47 +1,47 @@
 ---
-arabic_ayat: كَذٰلِكَ يُوۡحِىۡۤ اِلَيۡكَ وَاِلَى الَّذِيۡنَ مِنۡ قَبۡلِكَۙ اللّٰهُ
-  الۡعَزِيۡزُ الۡحَكِيۡمُ‏
+arabic_ayat: كَذَٰلِكَ يُوحِيٓ إِلَيۡكَ وَإِلَى ٱلَّذِينَ مِن قَبۡلِكَ ٱللَّهُ ٱلۡعَزِيزُ
+  ٱلۡحَكِيمُ
 sentence_translation: And so you ˹O Prophet˺ are sent revelation, just like those
   before you, by Allah—the Almighty, All-Wise.
 word_by_word:
   1:
-    arabic: كَذٰلِكَ
+    arabic: كَذَٰلِكَ
     translation: Thus
     transliteration: kadhālika
   2:
-    arabic: يُوۡحِىۡۤ
+    arabic: يُوحِيٓ
     translation: reveals
     transliteration: yūḥī
   3:
-    arabic: اِلَيۡكَ
+    arabic: إِلَيۡكَ
     translation: to you
     transliteration: ilayka
   4:
-    arabic: وَاِلَى
+    arabic: وَإِلَى
     translation: and to
     transliteration: wa-ilā
   5:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those
     transliteration: alladhīna
   6:
-    arabic: مِنۡ
+    arabic: مِن
     translation: 'before you '
     transliteration: min
   7:
-    arabic: قَبۡلِكَۙ
+    arabic: قَبۡلِكَ
     translation: 'before you '
     transliteration: qablika
   8:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   9:
-    arabic: الۡعَزِيۡزُ
+    arabic: ٱلۡعَزِيزُ
     translation: the All-Mighty
     transliteration: l-ʿazīzu
   10:
-    arabic: الۡحَكِيۡمُ‏
+    arabic: ٱلۡحَكِيمُ
     translation: the All-Wise
     transliteration: l-ḥakīmu
 ---

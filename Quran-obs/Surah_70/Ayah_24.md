@@ -1,25 +1,25 @@
 ---
-arabic_ayat: وَالَّذِيۡنَ فِىۡۤ اَمۡوَالِهِمۡ حَقٌّ مَّعۡلُوۡمٌۙ‏
+arabic_ayat: وَٱلَّذِينَ فِيٓ أَمۡوَٰلِهِمۡ حَقّٞ مَّعۡلُومٞ
 sentence_translation: and who give the rightful share of their wealth
 word_by_word:
   1:
-    arabic: وَالَّذِيۡنَ
+    arabic: وَٱلَّذِينَ
     translation: And those who
     transliteration: wa-alladhīna
   2:
-    arabic: فِىۡۤ
+    arabic: فِيٓ
     translation: in
     transliteration: fī
   3:
-    arabic: اَمۡوَالِهِمۡ
+    arabic: أَمۡوَٰلِهِمۡ
     translation: their wealth
     transliteration: amwālihim
   4:
-    arabic: حَقٌّ
+    arabic: حَقّٞ
     translation: (is) a right
     transliteration: ḥaqqun
   5:
-    arabic: مَّعۡلُوۡمٌۙ‏
+    arabic: مَّعۡلُومٞ
     translation: known
     transliteration: maʿlūmun
 ---

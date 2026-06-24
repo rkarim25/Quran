@@ -1,6 +1,5 @@
 ---
-arabic_ayat: "قَالَ رَبِّ بِمَاۤ اَنۡعَمۡتَ عَلَىَّ فَلَنۡ اَكُوۡنَ ظَهِيۡرًا لِّلۡمُجۡرِمِيۡنَ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: قَالَ رَبِّ بِمَآ أَنۡعَمۡتَ عَلَيَّ فَلَنۡ أَكُونَ ظَهِيرٗا لِّلۡمُجۡرِمِينَ
 sentence_translation: Moses pledged, “My Lord! For all Your favours upon me, I will
   never side with the wicked.”
 word_by_word:
@@ -13,15 +12,15 @@ word_by_word:
     translation: My Lord
     transliteration: rabbi
   3:
-    arabic: بِمَاۤ
+    arabic: بِمَآ
     translation: Because
     transliteration: bimā
   4:
-    arabic: اَنۡعَمۡتَ
+    arabic: أَنۡعَمۡتَ
     translation: You have favored
     transliteration: anʿamta
   5:
-    arabic: عَلَىَّ
+    arabic: عَلَيَّ
     translation: '[on] me'
     transliteration: ʿalayya
   6:
@@ -29,15 +28,15 @@ word_by_word:
     translation: so not
     transliteration: falan
   7:
-    arabic: اَكُوۡنَ
+    arabic: أَكُونَ
     translation: I will be
     transliteration: akūna
   8:
-    arabic: ظَهِيۡرًا
+    arabic: ظَهِيرٗا
     translation: a supporter
     transliteration: ẓahīran
   9:
-    arabic: "لِّلۡمُجۡرِمِيۡنَ‏ \uFEFF\uFEFF"
+    arabic: لِّلۡمُجۡرِمِينَ
     translation: (of) the criminals
     transliteration: lil'muj'rimīna
 ---

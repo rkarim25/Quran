@@ -1,40 +1,40 @@
 ---
-arabic_ayat: وَّقُلۡنَا مِنۡۢ بَعۡدِهٖ لِبَنِىۡۤ اِسۡرَاۤءِيۡلَ اسۡكُنُوا الۡاَرۡضَ
-  فَاِذَا جَآءَ وَعۡدُ الۡاٰخِرَةِ جِئۡنَا بِكُمۡ لَفِيۡفًا ؕ‏
+arabic_ayat: وَقُلۡنَا مِنۢ بَعۡدِهِۦ لِبَنِيٓ إِسۡرَٰٓءِيلَ ٱسۡكُنُواْ ٱلۡأَرۡضَ
+  فَإِذَا جَآءَ وَعۡدُ ٱلۡأٓخِرَةِ جِئۡنَا بِكُمۡ لَفِيفٗا
 sentence_translation: And We said to the Children of Israel after Pharaoh, “Reside
   in the land, but when the promise of the Hereafter comes to pass, We will bring
   you all together.”
 word_by_word:
   1:
-    arabic: وَّقُلۡنَا
+    arabic: وَقُلۡنَا
     translation: And We said
     transliteration: waqul'nā
   2:
-    arabic: مِنۡۢ
+    arabic: مِنۢ
     translation: after him
     transliteration: min
   3:
-    arabic: بَعۡدِهٖ
+    arabic: بَعۡدِهِۦ
     translation: after him
     transliteration: baʿdihi
   4:
-    arabic: لِبَنِىۡۤ
+    arabic: لِبَنِيٓ
     translation: to the Children of Israel
     transliteration: libanī
   5:
-    arabic: اِسۡرَاۤءِيۡلَ
+    arabic: إِسۡرَٰٓءِيلَ
     translation: to the Children of Israel
     transliteration: is'rāīla
   6:
-    arabic: اسۡكُنُوا
+    arabic: ٱسۡكُنُواْ
     translation: Dwell
     transliteration: us'kunū
   7:
-    arabic: الۡاَرۡضَ
+    arabic: ٱلۡأَرۡضَ
     translation: (in) the land
     transliteration: l-arḍa
   8:
-    arabic: فَاِذَا
+    arabic: فَإِذَا
     translation: then when
     transliteration: fa-idhā
   9:
@@ -46,7 +46,7 @@ word_by_word:
     translation: (the) promise
     transliteration: waʿdu
   11:
-    arabic: الۡاٰخِرَةِ
+    arabic: ٱلۡأٓخِرَةِ
     translation: (of) the Hereafter
     transliteration: l-ākhirati
   12:
@@ -58,7 +58,7 @@ word_by_word:
     translation: you
     transliteration: bikum
   14:
-    arabic: لَفِيۡفًا ؕ‏
+    arabic: لَفِيفٗا
     translation: (as) a mixed crowd
     transliteration: lafīfan
 ---

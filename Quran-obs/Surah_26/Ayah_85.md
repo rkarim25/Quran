@@ -1,17 +1,17 @@
 ---
-arabic_ayat: وَاجۡعَلۡنِىۡ مِنۡ وَّرَثَةِ جَنَّةِ النَّعِيۡمِۙ‏
+arabic_ayat: وَٱجۡعَلۡنِي مِن وَرَثَةِ جَنَّةِ ٱلنَّعِيمِ
 sentence_translation: Make me one of those awarded the Garden of Bliss.
 word_by_word:
   1:
-    arabic: وَاجۡعَلۡنِىۡ
+    arabic: وَٱجۡعَلۡنِي
     translation: And make me
     transliteration: wa-ij'ʿalnī
   2:
-    arabic: مِنۡ
+    arabic: مِن
     translation: of
     transliteration: min
   3:
-    arabic: وَّرَثَةِ
+    arabic: وَرَثَةِ
     translation: (the) inheritors
     transliteration: warathati
   4:
@@ -19,7 +19,7 @@ word_by_word:
     translation: (of) Garden(s)
     transliteration: jannati
   5:
-    arabic: النَّعِيۡمِۙ‏
+    arabic: ٱلنَّعِيمِ
     translation: (of) Delight
     transliteration: l-naʿīmi
 ---

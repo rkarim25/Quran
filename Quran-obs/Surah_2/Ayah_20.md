@@ -1,7 +1,7 @@
 ---
-arabic_ayat: يَكَادُ الۡبَرۡقُ يَخۡطَفُ اَبۡصَارَهُمۡ​ؕ كُلَّمَاۤ اَضَآءَ لَهُمۡ
-  مَّشَوۡا فِيۡهِۙ وَاِذَاۤ اَظۡلَمَ عَلَيۡهِمۡ قَامُوۡا​ؕ وَلَوۡ شَآءَ اللّٰهُ
-  لَذَهَبَ بِسَمۡعِهِمۡ وَاَبۡصَارِهِمۡ​ؕ اِنَّ اللّٰهَ عَلٰى كُلِّ شَىۡءٍ قَدِيۡرٌ‏
+arabic_ayat: يَكَادُ ٱلۡبَرۡقُ يَخۡطَفُ أَبۡصَٰرَهُمۡۖ كُلَّمَآ أَضَآءَ لَهُم مَّشَوۡاْ
+  فِيهِ وَإِذَآ أَظۡلَمَ عَلَيۡهِمۡ قَامُواْۚ وَلَوۡ شَآءَ ٱللَّهُ لَذَهَبَ بِسَمۡعِهِمۡ
+  وَأَبۡصَٰرِهِمۡۚ إِنَّ ٱللَّهَ عَلَىٰ كُلِّ شَيۡءٖ قَدِيرٞ
 sentence_translation: It is as if the lightning were about to snatch away their sight.
   Whenever lightning strikes, they walk in its light, but when darkness covers them,
   they stand still. Had Allah willed, He could have taken away their hearing and sight.
@@ -12,7 +12,7 @@ word_by_word:
     translation: Almost
     transliteration: yakādu
   2:
-    arabic: الۡبَرۡقُ
+    arabic: ٱلۡبَرۡقُ
     translation: the lightning
     transliteration: l-barqu
   3:
@@ -20,35 +20,35 @@ word_by_word:
     translation: snatches away
     transliteration: yakhṭafu
   4:
-    arabic: اَبۡصَارَهُمۡ​ؕ
+    arabic: أَبۡصَٰرَهُمۡۖ
     translation: their sight
     transliteration: abṣārahum
   5:
-    arabic: كُلَّمَاۤ
+    arabic: كُلَّمَآ
     translation: Whenever
     transliteration: kullamā
   6:
-    arabic: اَضَآءَ
+    arabic: أَضَآءَ
     translation: it flashes
     transliteration: aḍāa
   7:
-    arabic: لَهُمۡ
+    arabic: لَهُم
     translation: for them
     transliteration: lahum
   8:
-    arabic: مَّشَوۡا
+    arabic: مَّشَوۡاْ
     translation: they walk
     transliteration: mashaw
   9:
-    arabic: فِيۡهِۙ
+    arabic: فِيهِ
     translation: in it
     transliteration: fīhi
   10:
-    arabic: وَاِذَاۤ
+    arabic: وَإِذَآ
     translation: and when
     transliteration: wa-idhā
   11:
-    arabic: اَظۡلَمَ
+    arabic: أَظۡلَمَ
     translation: it darkens
     transliteration: aẓlama
   12:
@@ -56,7 +56,7 @@ word_by_word:
     translation: on them
     transliteration: ʿalayhim
   13:
-    arabic: قَامُوۡا​ؕ
+    arabic: قَامُواْۚ
     translation: they stand (still)
     transliteration: qāmū
   14:
@@ -68,7 +68,7 @@ word_by_word:
     translation: had willed
     transliteration: shāa
   16:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   17:
@@ -80,19 +80,19 @@ word_by_word:
     translation: their hearing
     transliteration: bisamʿihim
   19:
-    arabic: وَاَبۡصَارِهِمۡ​ؕ
+    arabic: وَأَبۡصَٰرِهِمۡۚ
     translation: and their sight
     transliteration: wa-abṣārihim
   20:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   21:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   22:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: (is) on
     transliteration: ʿalā
   23:
@@ -100,11 +100,11 @@ word_by_word:
     translation: every
     transliteration: kulli
   24:
-    arabic: شَىۡءٍ
+    arabic: شَيۡءٖ
     translation: thing
     transliteration: shayin
   25:
-    arabic: قَدِيۡرٌ‏
+    arabic: قَدِيرٞ
     translation: All-Powerful
     transliteration: qadīrun
 ---

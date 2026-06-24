@@ -1,32 +1,32 @@
 ---
-arabic_ayat: يُؤۡمِنُوۡنَ بِاللّٰهِ وَالۡيَوۡمِ الۡاٰخِرِ وَ يَاۡمُرُوۡنَ بِالۡمَعۡرُوۡفِ
-  وَيَنۡهَوۡنَ عَنِ الۡمُنۡكَرِ وَيُسَارِعُوۡنَ فِىۡ الۡخَيۡرٰتِ ؕ وَاُولٰٓٮِٕكَ مِنَ
-  الصّٰلِحِيۡنَ‏
+arabic_ayat: يُؤۡمِنُونَ بِٱللَّهِ وَٱلۡيَوۡمِ ٱلۡأٓخِرِ وَيَأۡمُرُونَ بِٱلۡمَعۡرُوفِ
+  وَيَنۡهَوۡنَ عَنِ ٱلۡمُنكَرِ وَيُسَٰرِعُونَ فِي ٱلۡخَيۡرَٰتِۖ وَأُوْلَٰٓئِكَ مِنَ
+  ٱلصَّٰلِحِينَ
 sentence_translation: They believe in Allah and the Last Day, encourage good and forbid
   evil, and race with one another in doing good. They are ˹truly˺ among the righteous.
 word_by_word:
   1:
-    arabic: يُؤۡمِنُوۡنَ
+    arabic: يُؤۡمِنُونَ
     translation: They believe
     transliteration: yu'minūna
   2:
-    arabic: بِاللّٰهِ
+    arabic: بِٱللَّهِ
     translation: in Allah
     transliteration: bil-lahi
   3:
-    arabic: وَالۡيَوۡمِ
+    arabic: وَٱلۡيَوۡمِ
     translation: and the Day
     transliteration: wal-yawmi
   4:
-    arabic: الۡاٰخِرِ
+    arabic: ٱلۡأٓخِرِ
     translation: the Last
     transliteration: l-ākhiri
   5:
-    arabic: وَ يَاۡمُرُوۡنَ
+    arabic: وَيَأۡمُرُونَ
     translation: and they enjoin
     transliteration: wayamurūna
   6:
-    arabic: بِالۡمَعۡرُوۡفِ
+    arabic: بِٱلۡمَعۡرُوفِ
     translation: '[with] the right'
     transliteration: bil-maʿrūfi
   7:
@@ -38,23 +38,23 @@ word_by_word:
     translation: '[from]'
     transliteration: ʿani
   9:
-    arabic: الۡمُنۡكَرِ
+    arabic: ٱلۡمُنكَرِ
     translation: the wrong
     transliteration: l-munkari
   10:
-    arabic: وَيُسَارِعُوۡنَ
+    arabic: وَيُسَٰرِعُونَ
     translation: and they hasten
     transliteration: wayusāriʿūna
   11:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   12:
-    arabic: الۡخَيۡرٰتِ ؕ
+    arabic: ٱلۡخَيۡرَٰتِۖ
     translation: the good deeds
     transliteration: l-khayrāti
   13:
-    arabic: وَاُولٰٓٮِٕكَ
+    arabic: وَأُوْلَٰٓئِكَ
     translation: And those
     transliteration: wa-ulāika
   14:
@@ -62,7 +62,7 @@ word_by_word:
     translation: (are) from
     transliteration: mina
   15:
-    arabic: الصّٰلِحِيۡنَ‏
+    arabic: ٱلصَّٰلِحِينَ
     translation: the righteous
     transliteration: l-ṣāliḥīna
 ---

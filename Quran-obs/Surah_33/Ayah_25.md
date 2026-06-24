@@ -1,7 +1,6 @@
 ---
-arabic_ayat: وَرَدَّ اللّٰهُ الَّذِيۡنَ كَفَرُوۡا بِغَيۡظِهِمۡ لَمۡ يَنَالُوۡا خَيۡرًا​
-  ؕ وَكَفَى اللّٰهُ الۡمُؤۡمِنِيۡنَ الۡقِتَالَ​ ؕ وَكَانَ اللّٰهُ قَوِيًّا عَزِيۡزًا
-  ۚ‏
+arabic_ayat: وَرَدَّ ٱللَّهُ ٱلَّذِينَ كَفَرُواْ بِغَيۡظِهِمۡ لَمۡ يَنَالُواْ خَيۡرٗاۚ
+  وَكَفَى ٱللَّهُ ٱلۡمُؤۡمِنِينَ ٱلۡقِتَالَۚ وَكَانَ ٱللَّهُ قَوِيًّا عَزِيزٗا
 sentence_translation: And Allah drove back the disbelievers in their rage, totally
   empty-handed. And Allah spared the believers from fighting. For Allah is All-Powerful,
   Almighty.
@@ -11,15 +10,15 @@ word_by_word:
     translation: And Allah turned back
     transliteration: waradda
   2:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: And Allah turned back
     transliteration: l-lahu
   3:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   4:
-    arabic: كَفَرُوۡا
+    arabic: كَفَرُواْ
     translation: disbelieved
     transliteration: kafarū
   5:
@@ -31,11 +30,11 @@ word_by_word:
     translation: not
     transliteration: lam
   7:
-    arabic: يَنَالُوۡا
+    arabic: يَنَالُواْ
     translation: they obtained
     transliteration: yanālū
   8:
-    arabic: خَيۡرًا​ ؕ
+    arabic: خَيۡرٗاۚ
     translation: any good
     transliteration: khayran
   9:
@@ -43,15 +42,15 @@ word_by_word:
     translation: And sufficient is
     transliteration: wakafā
   10:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   11:
-    arabic: الۡمُؤۡمِنِيۡنَ
+    arabic: ٱلۡمُؤۡمِنِينَ
     translation: (for) the believers
     transliteration: l-mu'minīna
   12:
-    arabic: الۡقِتَالَ​ ؕ
+    arabic: ٱلۡقِتَالَۚ
     translation: (in) the battle
     transliteration: l-qitāla
   13:
@@ -59,7 +58,7 @@ word_by_word:
     translation: and Allah is
     transliteration: wakāna
   14:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: and Allah is
     transliteration: l-lahu
   15:
@@ -67,7 +66,7 @@ word_by_word:
     translation: All-Strong
     transliteration: qawiyyan
   16:
-    arabic: عَزِيۡزًا ۚ‏
+    arabic: عَزِيزٗا
     translation: All-Mighty
     transliteration: ʿazīzan
 ---

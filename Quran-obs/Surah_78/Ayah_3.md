@@ -1,9 +1,9 @@
 ---
-arabic_ayat: الَّذِىۡ هُمۡ فِيۡهِ مُخۡتَلِفُوۡنَؕ‏
+arabic_ayat: ٱلَّذِي هُمۡ فِيهِ مُخۡتَلِفُونَ
 sentence_translation: over which they disagree.
 word_by_word:
   1:
-    arabic: الَّذِىۡ
+    arabic: ٱلَّذِي
     translation: (About) which
     transliteration: alladhī
   2:
@@ -11,11 +11,11 @@ word_by_word:
     translation: they
     transliteration: hum
   3:
-    arabic: فِيۡهِ
+    arabic: فِيهِ
     translation: (are) concerning it
     transliteration: fīhi
   4:
-    arabic: مُخۡتَلِفُوۡنَؕ‏
+    arabic: مُخۡتَلِفُونَ
     translation: (in) disagreement
     transliteration: mukh'talifūna
 ---

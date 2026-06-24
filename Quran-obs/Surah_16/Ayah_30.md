@@ -1,66 +1,66 @@
 ---
-arabic_ayat: وَقِيۡلَ لِلَّذِيۡنَ اتَّقَوۡا مَاذَاۤ اَنۡزَلَ رَبُّكُمۡ​ؕ قَالُوۡا
-  خَيۡرًاؕ لِّـلَّذِيۡنَ اَحۡسَنُوۡا فِىۡ هٰذِهِ الدُّنۡيَا حَسَنَةٌ​  ؕ وَلَدَارُ
-  الۡاٰخِرَةِ خَيۡرٌ ​ ؕ وَلَنِعۡمَ دَارُ الۡمُتَّقِيۡنَۙ‏
+arabic_ayat: ۞ وَقِيلَ لِلَّذِينَ ٱتَّقَوۡاْ مَاذَآ أَنزَلَ رَبُّكُمۡۚ قَالُواْ خَيۡرٗاۗ
+  لِّلَّذِينَ أَحۡسَنُواْ فِي هَٰذِهِ ٱلدُّنۡيَا حَسَنَةٞۚ وَلَدَارُ ٱلۡأٓخِرَةِ خَيۡرٞۚ
+  وَلَنِعۡمَ دَارُ ٱلۡمُتَّقِينَ
 sentence_translation: 'And ˹when˺ it is said to those mindful ˹of Allah˺, “What has
   your Lord revealed?” They say, “All the best!” For those who do good in this world,
   there is goodness. But far better is the ˹eternal˺ Home of the Hereafter. How excellent
   indeed is the home of the righteous:'
 word_by_word:
   1:
-    arabic: ۞ وَقِيۡلَ
+    arabic: ۞ وَقِيلَ
     translation: And it will be said
     transliteration: waqīla
   2:
-    arabic: لِلَّذِيۡنَ
+    arabic: لِلَّذِينَ
     translation: to those who
     transliteration: lilladhīna
   3:
-    arabic: اتَّقَوۡا
+    arabic: ٱتَّقَوۡاْ
     translation: fear Allah
     transliteration: ittaqaw
   4:
-    arabic: مَاذَاۤ
+    arabic: مَاذَآ
     translation: What
     transliteration: mādhā
   5:
-    arabic: اَنۡزَلَ
+    arabic: أَنزَلَ
     translation: has your Lord sent down
     transliteration: anzala
   6:
-    arabic: رَبُّكُمۡ​ؕ
+    arabic: رَبُّكُمۡۚ
     translation: has your Lord sent down
     transliteration: rabbukum
   7:
-    arabic: قَالُوۡا
+    arabic: قَالُواْ
     translation: They will say
     transliteration: qālū
   8:
-    arabic: خَيۡرًاؕ
+    arabic: خَيۡرٗاۗ
     translation: Good
     transliteration: khayran
   9:
-    arabic: لِّـلَّذِيۡنَ
+    arabic: لِّلَّذِينَ
     translation: For those who
     transliteration: lilladhīna
   10:
-    arabic: اَحۡسَنُوۡا
+    arabic: أَحۡسَنُواْ
     translation: do good
     transliteration: aḥsanū
   11:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   12:
-    arabic: هٰذِهِ
+    arabic: هَٰذِهِ
     translation: this
     transliteration: hādhihi
   13:
-    arabic: الدُّنۡيَا
+    arabic: ٱلدُّنۡيَا
     translation: world
     transliteration: l-dun'yā
   14:
-    arabic: حَسَنَةٌ​  ؕ
+    arabic: حَسَنَةٞۚ
     translation: (is) a good
     transliteration: ḥasanatun
   15:
@@ -68,11 +68,11 @@ word_by_word:
     translation: and the home
     transliteration: waladāru
   16:
-    arabic: الۡاٰخِرَةِ
+    arabic: ٱلۡأٓخِرَةِ
     translation: of the Hereafter
     transliteration: l-ākhirati
   17:
-    arabic: خَيۡرٌ ​ ؕ
+    arabic: خَيۡرٞۚ
     translation: (is) better
     transliteration: khayrun
   18:
@@ -84,7 +84,7 @@ word_by_word:
     translation: (is) the home
     transliteration: dāru
   20:
-    arabic: الۡمُتَّقِيۡنَۙ‏
+    arabic: ٱلۡمُتَّقِينَ
     translation: (of) the righteous
     transliteration: l-mutaqīna
 ---

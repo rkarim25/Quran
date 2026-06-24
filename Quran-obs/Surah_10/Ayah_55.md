@@ -1,19 +1,19 @@
 ---
-arabic_ayat: اَلَاۤ اِنَّ لِلّٰهِ مَا فِى السَّمٰوٰتِ وَالۡاَرۡضِؕ اَلَاۤ اِنَّ وَعۡدَ
-  اللّٰهِ حَقٌّ وَّلٰـكِنَّ اَكۡثَرَهُمۡ لَا يَعۡلَمُوۡنَ‏
+arabic_ayat: أَلَآ إِنَّ لِلَّهِ مَا فِي ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِۗ أَلَآ إِنَّ
+  وَعۡدَ ٱللَّهِ حَقّٞ وَلَٰكِنَّ أَكۡثَرَهُمۡ لَا يَعۡلَمُونَ
 sentence_translation: Surely to Allah belongs whatever is in the heavens and the earth.
   Surely Allah’s promise is ˹always˺ true, but most of them do not know.
 word_by_word:
   1:
-    arabic: اَلَاۤ
+    arabic: أَلَآ
     translation: No doubt
     transliteration: alā
   2:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: indeed
     transliteration: inna
   3:
-    arabic: لِلّٰهِ
+    arabic: لِلَّهِ
     translation: for Allah
     transliteration: lillahi
   4:
@@ -21,23 +21,23 @@ word_by_word:
     translation: (is) whatever
     transliteration: mā
   5:
-    arabic: فِى
+    arabic: فِي
     translation: (is) in
     transliteration: fī
   6:
-    arabic: السَّمٰوٰتِ
+    arabic: ٱلسَّمَٰوَٰتِ
     translation: the heavens
     transliteration: l-samāwāti
   7:
-    arabic: وَالۡاَرۡضِؕ
+    arabic: وَٱلۡأَرۡضِۗ
     translation: and the earth
     transliteration: wal-arḍi
   8:
-    arabic: اَلَاۤ
+    arabic: أَلَآ
     translation: No doubt
     transliteration: alā
   9:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: indeed
     transliteration: inna
   10:
@@ -45,19 +45,19 @@ word_by_word:
     translation: (the) Promise of Allah
     transliteration: waʿda
   11:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (the) Promise of Allah
     transliteration: l-lahi
   12:
-    arabic: حَقٌّ
+    arabic: حَقّٞ
     translation: (is) true
     transliteration: ḥaqqun
   13:
-    arabic: وَّلٰـكِنَّ
+    arabic: وَلَٰكِنَّ
     translation: But
     transliteration: walākinna
   14:
-    arabic: اَكۡثَرَهُمۡ
+    arabic: أَكۡثَرَهُمۡ
     translation: most of them
     transliteration: aktharahum
   15:
@@ -65,7 +65,7 @@ word_by_word:
     translation: (do) not
     transliteration: lā
   16:
-    arabic: يَعۡلَمُوۡنَ‏
+    arabic: يَعۡلَمُونَ
     translation: know
     transliteration: yaʿlamūna
 ---

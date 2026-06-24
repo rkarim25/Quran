@@ -1,24 +1,24 @@
 ---
-arabic_ayat: فَرَدَدۡنٰهُ اِلٰٓى اُمِّهٖ كَىۡ تَقَرَّ عَيۡنُهَا وَلَا تَحۡزَنَ وَلِتَعۡلَمَ
-  اَنَّ وَعۡدَ اللّٰهِ حَقٌّ وَّلٰـكِنَّ اَكۡثَرَهُمۡ لَا يَعۡلَمُوۡنَ‏
+arabic_ayat: فَرَدَدۡنَٰهُ إِلَىٰٓ أُمِّهِۦ كَيۡ تَقَرَّ عَيۡنُهَا وَلَا تَحۡزَنَ
+  وَلِتَعۡلَمَ أَنَّ وَعۡدَ ٱللَّهِ حَقّٞ وَلَٰكِنَّ أَكۡثَرَهُمۡ لَا يَعۡلَمُونَ
 sentence_translation: This is how We returned him to his mother so that her heart
   would be put at ease, and not grieve, and that she would know that Allah’s promise
   is ˹always˺ true. But most people do not know.
 word_by_word:
   1:
-    arabic: فَرَدَدۡنٰهُ
+    arabic: فَرَدَدۡنَٰهُ
     translation: So We restored him
     transliteration: faradadnāhu
   2:
-    arabic: اِلٰٓى
+    arabic: إِلَىٰٓ
     translation: to
     transliteration: ilā
   3:
-    arabic: اُمِّهٖ
+    arabic: أُمِّهِۦ
     translation: his mother
     transliteration: ummihi
   4:
-    arabic: كَىۡ
+    arabic: كَيۡ
     translation: that
     transliteration: kay
   5:
@@ -42,7 +42,7 @@ word_by_word:
     translation: and that she would know
     transliteration: walitaʿlama
   10:
-    arabic: اَنَّ
+    arabic: أَنَّ
     translation: that
     transliteration: anna
   11:
@@ -50,19 +50,19 @@ word_by_word:
     translation: the Promise of Allah
     transliteration: waʿda
   12:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: the Promise of Allah
     transliteration: l-lahi
   13:
-    arabic: حَقٌّ
+    arabic: حَقّٞ
     translation: (is) true
     transliteration: ḥaqqun
   14:
-    arabic: وَّلٰـكِنَّ
+    arabic: وَلَٰكِنَّ
     translation: But
     transliteration: walākinna
   15:
-    arabic: اَكۡثَرَهُمۡ
+    arabic: أَكۡثَرَهُمۡ
     translation: most of them
     transliteration: aktharahum
   16:
@@ -70,7 +70,7 @@ word_by_word:
     translation: (do) not
     transliteration: lā
   17:
-    arabic: يَعۡلَمُوۡنَ‏
+    arabic: يَعۡلَمُونَ
     translation: know
     transliteration: yaʿlamūna
 ---

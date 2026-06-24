@@ -1,6 +1,6 @@
 ---
-arabic_ayat: وَمَنۡ خَفَّتۡ مَوَازِيۡنُهٗ فَاُولٰٓٮِٕكَ الَّذِيۡنَ خَسِرُوۡۤا اَنۡفُسَهُمۡ
-  فِىۡ جَهَـنَّمَ خٰلِدُوۡنَ​ ۚ‏
+arabic_ayat: وَمَنۡ خَفَّتۡ مَوَٰزِينُهُۥ فَأُوْلَٰٓئِكَ ٱلَّذِينَ خَسِرُوٓاْ أَنفُسَهُمۡ
+  فِي جَهَنَّمَ خَٰلِدُونَ
 sentence_translation: But those whose scale is light, they will have doomed themselves,
   staying in Hell forever.
 word_by_word:
@@ -13,35 +13,35 @@ word_by_word:
     translation: (are) light
     transliteration: khaffat
   3:
-    arabic: مَوَازِيۡنُهٗ
+    arabic: مَوَٰزِينُهُۥ
     translation: his scales
     transliteration: mawāzīnuhu
   4:
-    arabic: فَاُولٰٓٮِٕكَ
+    arabic: فَأُوْلَٰٓئِكَ
     translation: then those
     transliteration: fa-ulāika
   5:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: they [who]
     transliteration: alladhīna
   6:
-    arabic: خَسِرُوۡۤا
+    arabic: خَسِرُوٓاْ
     translation: have lost
     transliteration: khasirū
   7:
-    arabic: اَنۡفُسَهُمۡ
+    arabic: أَنفُسَهُمۡ
     translation: their souls
     transliteration: anfusahum
   8:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   9:
-    arabic: جَهَـنَّمَ
+    arabic: جَهَنَّمَ
     translation: Hell
     transliteration: jahannama
   10:
-    arabic: خٰلِدُوۡنَ​ ۚ‏
+    arabic: خَٰلِدُونَ
     translation: they (will) abide forever
     transliteration: khālidūna
 ---

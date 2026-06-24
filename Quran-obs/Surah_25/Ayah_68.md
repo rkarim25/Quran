@@ -1,13 +1,13 @@
 ---
-arabic_ayat: وَالَّذِيۡنَ لَا يَدۡعُوۡنَ مَعَ اللّٰهِ اِلٰهًا اٰخَرَ وَلَا يَقۡتُلُوۡنَ
-  النَّفۡسَ الَّتِىۡ حَرَّمَ اللّٰهُ اِلَّا بِالۡحَـقِّ وَلَا يَزۡنُوۡنَ​ ۚ وَمَنۡ
-  يَّفۡعَلۡ ذٰ لِكَ يَلۡقَ اَثَامًا ۙ‏
+arabic_ayat: وَٱلَّذِينَ لَا يَدۡعُونَ مَعَ ٱللَّهِ إِلَٰهًا ءَاخَرَ وَلَا يَقۡتُلُونَ
+  ٱلنَّفۡسَ ٱلَّتِي حَرَّمَ ٱللَّهُ إِلَّا بِٱلۡحَقِّ وَلَا يَزۡنُونَۚ وَمَن يَفۡعَلۡ
+  ذَٰلِكَ يَلۡقَ أَثَامٗا
 sentence_translation: ˹They are˺ those who do not invoke any other god besides Allah,
   nor take a ˹human˺ life—made sacred by Allah—except with ˹legal˺ right, nor commit
   fornication. And whoever does ˹any of˺ this will face the penalty.
 word_by_word:
   1:
-    arabic: وَالَّذِيۡنَ
+    arabic: وَٱلَّذِينَ
     translation: And those who
     transliteration: wa-alladhīna
   2:
@@ -15,7 +15,7 @@ word_by_word:
     translation: (do) not
     transliteration: lā
   3:
-    arabic: يَدۡعُوۡنَ
+    arabic: يَدۡعُونَ
     translation: invoke
     transliteration: yadʿūna
   4:
@@ -23,15 +23,15 @@ word_by_word:
     translation: with
     transliteration: maʿa
   5:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   6:
-    arabic: اِلٰهًا
+    arabic: إِلَٰهًا ءَ
     translation: god
     transliteration: ilāhan
   7:
-    arabic: اٰخَرَ
+    arabic: اخَرَ
     translation: another
     transliteration: ākhara
   8:
@@ -39,15 +39,15 @@ word_by_word:
     translation: and (do) not
     transliteration: walā
   9:
-    arabic: يَقۡتُلُوۡنَ
+    arabic: يَقۡتُلُونَ
     translation: '[they] kill'
     transliteration: yaqtulūna
   10:
-    arabic: النَّفۡسَ
+    arabic: ٱلنَّفۡسَ
     translation: the soul
     transliteration: l-nafsa
   11:
-    arabic: الَّتِىۡ
+    arabic: ٱلَّتِي
     translation: which
     transliteration: allatī
   12:
@@ -55,15 +55,15 @@ word_by_word:
     translation: Allah has forbidden
     transliteration: ḥarrama
   13:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah has forbidden
     transliteration: l-lahu
   14:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   15:
-    arabic: بِالۡحَـقِّ
+    arabic: بِٱلۡحَقِّ
     translation: by right
     transliteration: bil-ḥaqi
   16:
@@ -71,19 +71,19 @@ word_by_word:
     translation: and (do) not
     transliteration: walā
   17:
-    arabic: يَزۡنُوۡنَ​ ۚ
+    arabic: يَزۡنُونَۚ
     translation: commit unlawful sexual intercourse
     transliteration: yaznūna
   18:
-    arabic: وَمَنۡ
+    arabic: وَمَن
     translation: And whoever
     transliteration: waman
   19:
-    arabic: يَّفۡعَلۡ
+    arabic: يَفۡعَلۡ
     translation: does
     transliteration: yafʿal
   20:
-    arabic: ذٰ لِكَ
+    arabic: ذَٰلِكَ
     translation: that
     transliteration: dhālika
   21:
@@ -91,7 +91,7 @@ word_by_word:
     translation: will meet
     transliteration: yalqa
   22:
-    arabic: اَثَامًا ۙ‏
+    arabic: أَثَامٗا
     translation: a penalty
     transliteration: athāman
 ---

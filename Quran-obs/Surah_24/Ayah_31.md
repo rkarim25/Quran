@@ -1,14 +1,13 @@
 ---
-arabic_ayat: وَقُلْ لِّـلۡمُؤۡمِنٰتِ يَغۡضُضۡنَ مِنۡ اَبۡصَارِهِنَّ وَيَحۡفَظۡنَ فُرُوۡجَهُنَّ
-  وَلَا يُبۡدِيۡنَ زِيۡنَتَهُنَّ اِلَّا مَا ظَهَرَ مِنۡهَا​ وَلۡيَـضۡرِبۡنَ بِخُمُرِهِنَّ
-  عَلٰى جُيُوۡبِهِنَّ​ وَلَا يُبۡدِيۡنَ زِيۡنَتَهُنَّ اِلَّا لِبُعُوۡلَتِهِنَّ اَوۡ
-  اٰبَآٮِٕهِنَّ اَوۡ اٰبَآءِ بُعُوۡلَتِهِنَّ اَوۡ اَبۡنَآٮِٕهِنَّ اَوۡ اَبۡنَآءِ
-  بُعُوۡلَتِهِنَّ اَوۡ اِخۡوَانِهِنَّ اَوۡ بَنِىۡۤ اِخۡوَانِهِنَّ اَوۡ بَنِىۡۤ اَخَوٰتِهِنَّ
-  اَوۡ نِسَآٮِٕهِنَّ اَوۡ مَا مَلَـكَتۡ اَيۡمَانُهُنَّ اَوِ التّٰبِعِيۡنَ غَيۡرِ
-  اُولِى الۡاِرۡبَةِ مِنَ الرِّجَالِ اَوِ الطِّفۡلِ الَّذِيۡنَ لَمۡ يَظۡهَرُوۡا عَلٰى
-  عَوۡرٰتِ النِّسَآءِ​ وَلَا يَضۡرِبۡنَ بِاَرۡجُلِهِنَّ لِيُـعۡلَمَ مَا يُخۡفِيۡنَ
-  مِنۡ زِيۡنَتِهِنَّ​ ؕ وَتُوۡبُوۡۤا اِلَى اللّٰهِ جَمِيۡعًا اَيُّهَ الۡمُؤۡمِنُوۡنَ
-  لَعَلَّكُمۡ تُفۡلِحُوۡنَ‏
+arabic_ayat: وَقُل لِّلۡمُؤۡمِنَٰتِ يَغۡضُضۡنَ مِنۡ أَبۡصَٰرِهِنَّ وَيَحۡفَظۡنَ فُرُوجَهُنَّ
+  وَلَا يُبۡدِينَ زِينَتَهُنَّ إِلَّا مَا ظَهَرَ مِنۡهَاۖ وَلۡيَضۡرِبۡنَ بِخُمُرِهِنَّ
+  عَلَىٰ جُيُوبِهِنَّۖ وَلَا يُبۡدِينَ زِينَتَهُنَّ إِلَّا لِبُعُولَتِهِنَّ أَوۡ ءَابَآئِهِنَّ
+  أَوۡ ءَابَآءِ بُعُولَتِهِنَّ أَوۡ أَبۡنَآئِهِنَّ أَوۡ أَبۡنَآءِ بُعُولَتِهِنَّ
+  أَوۡ إِخۡوَٰنِهِنَّ أَوۡ بَنِيٓ إِخۡوَٰنِهِنَّ أَوۡ بَنِيٓ أَخَوَٰتِهِنَّ أَوۡ نِسَآئِهِنَّ
+  أَوۡ مَا مَلَكَتۡ أَيۡمَٰنُهُنَّ أَوِ ٱلتَّٰبِعِينَ غَيۡرِ أُوْلِي ٱلۡإِرۡبَةِ مِنَ
+  ٱلرِّجَالِ أَوِ ٱلطِّفۡلِ ٱلَّذِينَ لَمۡ يَظۡهَرُواْ عَلَىٰ عَوۡرَٰتِ ٱلنِّسَآءِۖ
+  وَلَا يَضۡرِبۡنَ بِأَرۡجُلِهِنَّ لِيُعۡلَمَ مَا يُخۡفِينَ مِن زِينَتِهِنَّۚ وَتُوبُوٓاْ
+  إِلَى ٱللَّهِ جَمِيعًا أَيُّهَ ٱلۡمُؤۡمِنُونَ لَعَلَّكُمۡ تُفۡلِحُونَ
 sentence_translation: And tell the believing women to lower their gaze and guard their
   chastity, and not to reveal their adornments except what normally appears. Let them
   draw their veils over their chests, and not reveal their ˹hidden˺ adornments except
@@ -20,11 +19,11 @@ sentence_translation: And tell the believing women to lower their gaze and guard
   so that you may be successful.
 word_by_word:
   1:
-    arabic: وَقُلْ
+    arabic: وَقُل
     translation: And say
     transliteration: waqul
   2:
-    arabic: لِّـلۡمُؤۡمِنٰتِ
+    arabic: لِّلۡمُؤۡمِنَٰتِ
     translation: to the believing women
     transliteration: lil'mu'mināti
   3:
@@ -36,7 +35,7 @@ word_by_word:
     translation: '[of]'
     transliteration: min
   5:
-    arabic: اَبۡصَارِهِنَّ
+    arabic: أَبۡصَٰرِهِنَّ
     translation: their gaze
     transliteration: abṣārihinna
   6:
@@ -44,7 +43,7 @@ word_by_word:
     translation: and they should guard
     transliteration: wayaḥfaẓna
   7:
-    arabic: فُرُوۡجَهُنَّ
+    arabic: فُرُوجَهُنَّ
     translation: their chastity
     transliteration: furūjahunna
   8:
@@ -52,15 +51,15 @@ word_by_word:
     translation: and not
     transliteration: walā
   9:
-    arabic: يُبۡدِيۡنَ
+    arabic: يُبۡدِينَ
     translation: (to) display
     transliteration: yub'dīna
   10:
-    arabic: زِيۡنَتَهُنَّ
+    arabic: زِينَتَهُنَّ
     translation: their adornment
     transliteration: zīnatahunna
   11:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   12:
@@ -72,11 +71,11 @@ word_by_word:
     translation: is apparent
     transliteration: ẓahara
   14:
-    arabic: مِنۡهَا​
+    arabic: مِنۡهَاۖ
     translation: of it
     transliteration: min'hā
   15:
-    arabic: وَلۡيَـضۡرِبۡنَ
+    arabic: وَلۡيَضۡرِبۡنَ
     translation: And let them draw
     transliteration: walyaḍrib'na
   16:
@@ -84,11 +83,11 @@ word_by_word:
     translation: their head covers
     transliteration: bikhumurihinna
   17:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: over
     transliteration: ʿalā
   18:
-    arabic: جُيُوۡبِهِنَّ​
+    arabic: جُيُوبِهِنَّۖ
     translation: their bosoms
     transliteration: juyūbihinna
   19:
@@ -96,103 +95,103 @@ word_by_word:
     translation: and not
     transliteration: walā
   20:
-    arabic: يُبۡدِيۡنَ
+    arabic: يُبۡدِينَ
     translation: (to) display
     transliteration: yub'dīna
   21:
-    arabic: زِيۡنَتَهُنَّ
+    arabic: زِينَتَهُنَّ
     translation: their adornment
     transliteration: zīnatahunna
   22:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   23:
-    arabic: لِبُعُوۡلَتِهِنَّ
+    arabic: لِبُعُولَتِهِنَّ
     translation: to their husbands
     transliteration: libuʿūlatihinna
   24:
-    arabic: اَوۡ
+    arabic: أَوۡ ءَ
     translation: or
     transliteration: aw
   25:
-    arabic: اٰبَآٮِٕهِنَّ
+    arabic: ابَآئِهِنَّ
     translation: their fathers
     transliteration: ābāihinna
   26:
-    arabic: اَوۡ
+    arabic: أَوۡ ءَ
     translation: or
     transliteration: aw
   27:
-    arabic: اٰبَآءِ
+    arabic: ابَآءِ
     translation: fathers
     transliteration: ābāi
   28:
-    arabic: بُعُوۡلَتِهِنَّ
+    arabic: بُعُولَتِهِنَّ
     translation: (of) their husbands
     transliteration: buʿūlatihinna
   29:
-    arabic: اَوۡ
+    arabic: أَوۡ
     translation: or
     transliteration: aw
   30:
-    arabic: اَبۡنَآٮِٕهِنَّ
+    arabic: أَبۡنَآئِهِنَّ
     translation: their sons
     transliteration: abnāihinna
   31:
-    arabic: اَوۡ
+    arabic: أَوۡ
     translation: or
     transliteration: aw
   32:
-    arabic: اَبۡنَآءِ
+    arabic: أَبۡنَآءِ
     translation: sons
     transliteration: abnāi
   33:
-    arabic: بُعُوۡلَتِهِنَّ
+    arabic: بُعُولَتِهِنَّ
     translation: (of) their husbands
     transliteration: buʿūlatihinna
   34:
-    arabic: اَوۡ
+    arabic: أَوۡ
     translation: or
     transliteration: aw
   35:
-    arabic: اِخۡوَانِهِنَّ
+    arabic: إِخۡوَٰنِهِنَّ
     translation: their brothers
     transliteration: ikh'wānihinna
   36:
-    arabic: اَوۡ
+    arabic: أَوۡ
     translation: or
     transliteration: aw
   37:
-    arabic: بَنِىۡۤ
+    arabic: بَنِيٓ
     translation: sons
     transliteration: banī
   38:
-    arabic: اِخۡوَانِهِنَّ
+    arabic: إِخۡوَٰنِهِنَّ
     translation: (of) their brothers
     transliteration: ikh'wānihinna
   39:
-    arabic: اَوۡ
+    arabic: أَوۡ
     translation: or
     transliteration: aw
   40:
-    arabic: بَنِىۡۤ
+    arabic: بَنِيٓ
     translation: sons
     transliteration: banī
   41:
-    arabic: اَخَوٰتِهِنَّ
+    arabic: أَخَوَٰتِهِنَّ
     translation: (of) their sisters
     transliteration: akhawātihinna
   42:
-    arabic: اَوۡ
+    arabic: أَوۡ
     translation: or
     transliteration: aw
   43:
-    arabic: نِسَآٮِٕهِنَّ
+    arabic: نِسَآئِهِنَّ
     translation: their women
     transliteration: nisāihinna
   44:
-    arabic: اَوۡ
+    arabic: أَوۡ
     translation: or
     transliteration: aw
   45:
@@ -200,19 +199,19 @@ word_by_word:
     translation: what
     transliteration: mā
   46:
-    arabic: مَلَـكَتۡ
+    arabic: مَلَكَتۡ
     translation: possess
     transliteration: malakat
   47:
-    arabic: اَيۡمَانُهُنَّ
+    arabic: أَيۡمَٰنُهُنَّ
     translation: their right hands
     transliteration: aymānuhunna
   48:
-    arabic: اَوِ
+    arabic: أَوِ
     translation: or
     transliteration: awi
   49:
-    arabic: التّٰبِعِيۡنَ
+    arabic: ٱلتَّٰبِعِينَ
     translation: the attendants
     transliteration: l-tābiʿīna
   50:
@@ -220,11 +219,11 @@ word_by_word:
     translation: having no physical desire
     transliteration: ghayri
   51:
-    arabic: اُولِى
+    arabic: أُوْلِي
     translation: having no physical desire
     transliteration: ulī
   52:
-    arabic: الۡاِرۡبَةِ
+    arabic: ٱلۡإِرۡبَةِ
     translation: having no physical desire
     transliteration: l-ir'bati
   53:
@@ -232,19 +231,19 @@ word_by_word:
     translation: among
     transliteration: mina
   54:
-    arabic: الرِّجَالِ
+    arabic: ٱلرِّجَالِ
     translation: '[the] men'
     transliteration: l-rijāli
   55:
-    arabic: اَوِ
+    arabic: أَوِ
     translation: or
     transliteration: awi
   56:
-    arabic: الطِّفۡلِ
+    arabic: ٱلطِّفۡلِ
     translation: '[the] children'
     transliteration: l-ṭif'li
   57:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: who
     transliteration: alladhīna
   58:
@@ -252,19 +251,19 @@ word_by_word:
     translation: (are) not
     transliteration: lam
   59:
-    arabic: يَظۡهَرُوۡا
+    arabic: يَظۡهَرُواْ
     translation: aware
     transliteration: yaẓharū
   60:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: of
     transliteration: ʿalā
   61:
-    arabic: عَوۡرٰتِ
+    arabic: عَوۡرَٰتِ
     translation: private aspects
     transliteration: ʿawrāti
   62:
-    arabic: النِّسَآءِ​
+    arabic: ٱلنِّسَآءِۖ
     translation: (of) the women
     transliteration: l-nisāi
   63:
@@ -276,11 +275,11 @@ word_by_word:
     translation: let them stamp
     transliteration: yaḍrib'na
   65:
-    arabic: بِاَرۡجُلِهِنَّ
+    arabic: بِأَرۡجُلِهِنَّ
     translation: their feet
     transliteration: bi-arjulihinna
   66:
-    arabic: لِيُـعۡلَمَ
+    arabic: لِيُعۡلَمَ
     translation: to make known
     transliteration: liyuʿ'lama
   67:
@@ -288,39 +287,39 @@ word_by_word:
     translation: what
     transliteration: mā
   68:
-    arabic: يُخۡفِيۡنَ
+    arabic: يُخۡفِينَ
     translation: they conceal
     transliteration: yukh'fīna
   69:
-    arabic: مِنۡ
+    arabic: مِن
     translation: of
     transliteration: min
   70:
-    arabic: زِيۡنَتِهِنَّ​ ؕ
+    arabic: زِينَتِهِنَّۚ
     translation: their adornment
     transliteration: zīnatihinna
   71:
-    arabic: وَتُوۡبُوۡۤا
+    arabic: وَتُوبُوٓاْ
     translation: And turn
     transliteration: watūbū
   72:
-    arabic: اِلَى
+    arabic: إِلَى
     translation: to
     transliteration: ilā
   73:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   74:
-    arabic: جَمِيۡعًا
+    arabic: جَمِيعًا
     translation: altogether
     transliteration: jamīʿan
   75:
-    arabic: اَيُّهَ
+    arabic: أَيُّهَ
     translation: O believers
     transliteration: ayyuha
   76:
-    arabic: الۡمُؤۡمِنُوۡنَ
+    arabic: ٱلۡمُؤۡمِنُونَ
     translation: O believers
     transliteration: l-mu'minūna
   77:
@@ -328,7 +327,7 @@ word_by_word:
     translation: So that you may
     transliteration: laʿallakum
   78:
-    arabic: تُفۡلِحُوۡنَ‏
+    arabic: تُفۡلِحُونَ
     translation: succeed
     transliteration: tuf'liḥūna
 ---

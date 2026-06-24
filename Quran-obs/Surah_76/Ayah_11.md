@@ -1,15 +1,14 @@
 ---
-arabic_ayat: "فَوَقٰٮهُمُ اللّٰهُ شَرَّ ذٰلِكَ الۡيَوۡمِ وَ لَقّٰٮهُمۡ نَضۡرَةً وَّسُرُوۡرًا​ۚ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: فَوَقَىٰهُمُ ٱللَّهُ شَرَّ ذَٰلِكَ ٱلۡيَوۡمِ وَلَقَّىٰهُمۡ نَضۡرَةٗ وَسُرُورٗا
 sentence_translation: So Allah will deliver them from the horror of that Day, and
   grant them radiance and joy,
 word_by_word:
   1:
-    arabic: فَوَقٰٮهُمُ
+    arabic: فَوَقَىٰهُمُ
     translation: But will protect them
     transliteration: fawaqāhumu
   2:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   3:
@@ -17,23 +16,23 @@ word_by_word:
     translation: (from the) evil
     transliteration: sharra
   4:
-    arabic: ذٰلِكَ
+    arabic: ذَٰلِكَ
     translation: (of) that
     transliteration: dhālika
   5:
-    arabic: الۡيَوۡمِ
+    arabic: ٱلۡيَوۡمِ
     translation: Day
     transliteration: l-yawmi
   6:
-    arabic: وَ لَقّٰٮهُمۡ
+    arabic: وَلَقَّىٰهُمۡ
     translation: and will cause them to meet
     transliteration: walaqqāhum
   7:
-    arabic: "نَضۡرَةً \uFEFF\uFEFF"
+    arabic: نَضۡرَةٗ
     translation: radiance
     transliteration: naḍratan
   8:
-    arabic: وَّسُرُوۡرًا​ۚ‏
+    arabic: وَسُرُورٗا
     translation: and happiness
     transliteration: wasurūran
 ---

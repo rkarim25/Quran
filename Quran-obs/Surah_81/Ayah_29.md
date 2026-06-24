@@ -1,5 +1,5 @@
 ---
-arabic_ayat: وَمَا تَشَآءُوۡنَ اِلَّاۤ اَنۡ يَّشَآءَ اللّٰهُ رَبُّ الۡعٰلَمِيۡنَ‏
+arabic_ayat: وَمَا تَشَآءُونَ إِلَّآ أَن يَشَآءَ ٱللَّهُ رَبُّ ٱلۡعَٰلَمِينَ
 sentence_translation: But you cannot will ˹to do so˺, except by the Will of Allah,
   the Lord of all worlds.
 word_by_word:
@@ -8,23 +8,23 @@ word_by_word:
     translation: And not
     transliteration: wamā
   2:
-    arabic: تَشَآءُوۡنَ
+    arabic: تَشَآءُونَ
     translation: you will
     transliteration: tashāūna
   3:
-    arabic: اِلَّاۤ
+    arabic: إِلَّآ
     translation: except
     transliteration: illā
   4:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that
     transliteration: an
   5:
-    arabic: يَّشَآءَ
+    arabic: يَشَآءَ
     translation: wills
     transliteration: yashāa
   6:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   7:
@@ -32,7 +32,7 @@ word_by_word:
     translation: Lord
     transliteration: rabbu
   8:
-    arabic: الۡعٰلَمِيۡنَ‏
+    arabic: ٱلۡعَٰلَمِينَ
     translation: (of) the worlds
     transliteration: l-ʿālamīna
 ---

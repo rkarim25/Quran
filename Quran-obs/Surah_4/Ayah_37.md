@@ -1,68 +1,67 @@
 ---
-arabic_ayat: اۨلَّذِيۡنَ يَـبۡخَلُوۡنَ وَيَاۡمُرُوۡنَ النَّاسَ بِالۡبُخۡلِ وَيَكۡتُمُوۡنَ
-  مَاۤ اٰتٰٮهُمُ اللّٰهُ مِنۡ فَضۡلِهٖ​ ؕ وَ اَعۡتَدۡنَا لِلۡكٰفِرِيۡنَ عَذَابًا مُّهِيۡنًا​
-  ۚ‏
+arabic_ayat: ٱلَّذِينَ يَبۡخَلُونَ وَيَأۡمُرُونَ ٱلنَّاسَ بِٱلۡبُخۡلِ وَيَكۡتُمُونَ
+  مَآ ءَاتَىٰهُمُ ٱللَّهُ مِن فَضۡلِهِۦۗ وَأَعۡتَدۡنَا لِلۡكَٰفِرِينَ عَذَابٗا مُّهِينٗا
 sentence_translation: those who are stingy, promote stinginess among people, and withhold
   Allah’s bounties. We have prepared for the disbelievers a humiliating punishment.
 word_by_word:
   1:
-    arabic: اۨلَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: Those who
     transliteration: alladhīna
   2:
-    arabic: يَـبۡخَلُوۡنَ
+    arabic: يَبۡخَلُونَ
     translation: are stingy
     transliteration: yabkhalūna
   3:
-    arabic: وَيَاۡمُرُوۡنَ
+    arabic: وَيَأۡمُرُونَ
     translation: and order
     transliteration: wayamurūna
   4:
-    arabic: النَّاسَ
+    arabic: ٱلنَّاسَ
     translation: the people
     transliteration: l-nāsa
   5:
-    arabic: بِالۡبُخۡلِ
+    arabic: بِٱلۡبُخۡلِ
     translation: '[of] stinginess'
     transliteration: bil-bukh'li
   6:
-    arabic: وَيَكۡتُمُوۡنَ
+    arabic: وَيَكۡتُمُونَ
     translation: and hide
     transliteration: wayaktumūna
   7:
-    arabic: مَاۤ
+    arabic: مَآ ءَ
     translation: what
     transliteration: mā
   8:
-    arabic: اٰتٰٮهُمُ
+    arabic: اتَىٰهُمُ
     translation: (has) given them
     transliteration: ātāhumu
   9:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   10:
-    arabic: مِنۡ
+    arabic: مِن
     translation: of
     transliteration: min
   11:
-    arabic: فَضۡلِهٖ​ ؕ
+    arabic: فَضۡلِهِۦۗ
     translation: 'His Bounty '
     transliteration: faḍlihi
   12:
-    arabic: وَ اَعۡتَدۡنَا
+    arabic: وَأَعۡتَدۡنَا
     translation: and We (have) prepared
     transliteration: wa-aʿtadnā
   13:
-    arabic: لِلۡكٰفِرِيۡنَ
+    arabic: لِلۡكَٰفِرِينَ
     translation: for the disbelievers
     transliteration: lil'kāfirīna
   14:
-    arabic: عَذَابًا
+    arabic: عَذَابٗا
     translation: a punishment
     transliteration: ʿadhāban
   15:
-    arabic: مُّهِيۡنًا​ ۚ‏
+    arabic: مُّهِينٗا
     translation: humiliating
     transliteration: muhīnan
 ---

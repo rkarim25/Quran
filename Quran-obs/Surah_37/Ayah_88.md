@@ -1,5 +1,5 @@
 ---
-arabic_ayat: فَنَظَرَ نَظۡرَةً فِى النُّجُوۡمِۙ‏
+arabic_ayat: فَنَظَرَ نَظۡرَةٗ فِي ٱلنُّجُومِ
 sentence_translation: He later looked up to the stars ˹in contemplation˺,
 word_by_word:
   1:
@@ -7,15 +7,15 @@ word_by_word:
     translation: Then he glanced
     transliteration: fanaẓara
   2:
-    arabic: نَظۡرَةً
+    arabic: نَظۡرَةٗ
     translation: a glance
     transliteration: naẓratan
   3:
-    arabic: فِى
+    arabic: فِي
     translation: at
     transliteration: fī
   4:
-    arabic: النُّجُوۡمِۙ‏
+    arabic: ٱلنُّجُومِ
     translation: the stars
     transliteration: l-nujūmi
 ---

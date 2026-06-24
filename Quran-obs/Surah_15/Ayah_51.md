@@ -1,5 +1,5 @@
 ---
-arabic_ayat: وَنَبِّئۡهُمۡ عَنۡ ضَيۡفِ اِبۡرٰهِيۡمَ​ۘ‏
+arabic_ayat: وَنَبِّئۡهُمۡ عَن ضَيۡفِ إِبۡرَٰهِيمَ
 sentence_translation: And inform them ˹O Prophet˺ about Abraham’s guests
 word_by_word:
   1:
@@ -7,7 +7,7 @@ word_by_word:
     translation: And inform them
     transliteration: wanabbi'hum
   2:
-    arabic: عَنۡ
+    arabic: عَن
     translation: about
     transliteration: ʿan
   3:
@@ -15,7 +15,7 @@ word_by_word:
     translation: (the) guests
     transliteration: ḍayfi
   4:
-    arabic: اِبۡرٰهِيۡمَ​ۘ‏
+    arabic: إِبۡرَٰهِيمَ
     translation: (of) Ibrahim
     transliteration: ib'rāhīma
 ---

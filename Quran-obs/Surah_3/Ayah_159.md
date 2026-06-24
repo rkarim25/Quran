@@ -1,8 +1,8 @@
 ---
-arabic_ayat: فَبِمَا رَحۡمَةٍ مِّنَ اللّٰهِ لِنۡتَ لَهُمۡ​ۚ وَلَوۡ كُنۡتَ فَظًّا غَلِيۡظَ
-  الۡقَلۡبِ لَانْفَضُّوۡا مِنۡ حَوۡلِكَ​ فَاعۡفُ عَنۡهُمۡ وَاسۡتَغۡفِرۡ لَهُمۡ وَشَاوِرۡهُمۡ
-  فِى الۡاَمۡرِ​ۚ فَاِذَا عَزَمۡتَ فَتَوَكَّلۡ عَلَى اللّٰهِ​ؕ اِنَّ اللّٰهَ يُحِبُّ
-  الۡمُتَوَكِّلِيۡنَ‏
+arabic_ayat: فَبِمَا رَحۡمَةٖ مِّنَ ٱللَّهِ لِنتَ لَهُمۡۖ وَلَوۡ كُنتَ فَظًّا غَلِيظَ
+  ٱلۡقَلۡبِ لَٱنفَضُّواْ مِنۡ حَوۡلِكَۖ فَٱعۡفُ عَنۡهُمۡ وَٱسۡتَغۡفِرۡ لَهُمۡ وَشَاوِرۡهُمۡ
+  فِي ٱلۡأَمۡرِۖ فَإِذَا عَزَمۡتَ فَتَوَكَّلۡ عَلَى ٱللَّهِۚ إِنَّ ٱللَّهَ يُحِبُّ
+  ٱلۡمُتَوَكِّلِينَ
 sentence_translation: It is out of Allah’s mercy that you ˹O Prophet˺ have been lenient
   with them. Had you been cruel or hard-hearted, they would have certainly abandoned
   you. So pardon them, ask Allah’s forgiveness for them, and consult with them in
@@ -14,7 +14,7 @@ word_by_word:
     translation: So because
     transliteration: fabimā
   2:
-    arabic: رَحۡمَةٍ
+    arabic: رَحۡمَةٖ
     translation: (of) Mercy
     transliteration: raḥmatin
   3:
@@ -22,15 +22,15 @@ word_by_word:
     translation: from
     transliteration: mina
   4:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   5:
-    arabic: لِنۡتَ
+    arabic: لِنتَ
     translation: you dealt gently
     transliteration: linta
   6:
-    arabic: لَهُمۡ​ۚ
+    arabic: لَهُمۡۖ
     translation: with them
     transliteration: lahum
   7:
@@ -38,7 +38,7 @@ word_by_word:
     translation: And if
     transliteration: walaw
   8:
-    arabic: كُنۡتَ
+    arabic: كُنتَ
     translation: you had been
     transliteration: kunta
   9:
@@ -46,15 +46,15 @@ word_by_word:
     translation: rude
     transliteration: faẓẓan
   10:
-    arabic: غَلِيۡظَ
+    arabic: غَلِيظَ
     translation: (and) harsh
     transliteration: ghalīẓa
   11:
-    arabic: الۡقَلۡبِ
+    arabic: ٱلۡقَلۡبِ
     translation: (at) [the] heart
     transliteration: l-qalbi
   12:
-    arabic: لَانْفَضُّوۡا
+    arabic: لَٱنفَضُّواْ
     translation: surely they (would have) dispersed
     transliteration: la-infaḍḍū
   13:
@@ -62,11 +62,11 @@ word_by_word:
     translation: from
     transliteration: min
   14:
-    arabic: حَوۡلِكَ​
+    arabic: حَوۡلِكَۖ
     translation: around you
     transliteration: ḥawlika
   15:
-    arabic: فَاعۡفُ
+    arabic: فَٱعۡفُ
     translation: Then pardon
     transliteration: fa-uʿ'fu
   16:
@@ -74,7 +74,7 @@ word_by_word:
     translation: '[from] them'
     transliteration: ʿanhum
   17:
-    arabic: وَاسۡتَغۡفِرۡ
+    arabic: وَٱسۡتَغۡفِرۡ
     translation: and ask forgiveness
     transliteration: wa-is'taghfir
   18:
@@ -86,15 +86,15 @@ word_by_word:
     translation: and consult them
     transliteration: washāwir'hum
   20:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   21:
-    arabic: الۡاَمۡرِ​ۚ
+    arabic: ٱلۡأَمۡرِۖ
     translation: the matter
     transliteration: l-amri
   22:
-    arabic: فَاِذَا
+    arabic: فَإِذَا
     translation: Then when
     transliteration: fa-idhā
   23:
@@ -110,15 +110,15 @@ word_by_word:
     translation: 'on'
     transliteration: ʿalā
   26:
-    arabic: اللّٰهِ​ؕ
+    arabic: ٱللَّهِۚ
     translation: Allah
     transliteration: l-lahi
   27:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   28:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   29:
@@ -126,7 +126,7 @@ word_by_word:
     translation: loves
     transliteration: yuḥibbu
   30:
-    arabic: الۡمُتَوَكِّلِيۡنَ‏
+    arabic: ٱلۡمُتَوَكِّلِينَ
     translation: the ones who put trust (in Him)
     transliteration: l-mutawakilīna
 ---

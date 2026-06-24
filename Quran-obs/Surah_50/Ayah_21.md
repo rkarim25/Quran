@@ -1,5 +1,5 @@
 ---
-arabic_ayat: وَجَآءَتۡ كُلُّ نَفۡسٍ مَّعَهَا سَآٮِٕقٌ وَّشَهِيۡدٌ‏
+arabic_ayat: وَجَآءَتۡ كُلُّ نَفۡسٖ مَّعَهَا سَآئِقٞ وَشَهِيدٞ
 sentence_translation: Each soul will come forth with an angel to drive it and another
   to testify.
 word_by_word:
@@ -12,7 +12,7 @@ word_by_word:
     translation: every
     transliteration: kullu
   3:
-    arabic: نَفۡسٍ
+    arabic: نَفۡسٖ
     translation: soul
     transliteration: nafsin
   4:
@@ -20,11 +20,11 @@ word_by_word:
     translation: with it
     transliteration: maʿahā
   5:
-    arabic: سَآٮِٕقٌ
+    arabic: سَآئِقٞ
     translation: a driver
     transliteration: sāiqun
   6:
-    arabic: وَّشَهِيۡدٌ‏
+    arabic: وَشَهِيدٞ
     translation: and a witness
     transliteration: washahīdun
 ---

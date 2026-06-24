@@ -1,26 +1,26 @@
 ---
-arabic_ayat: فَقُوۡلَا لَهٗ قَوۡلًا لَّيِّنًا لَّعَلَّهٗ يَتَذَكَّرُ اَوۡ يَخۡشٰى‏
+arabic_ayat: فَقُولَا لَهُۥ قَوۡلٗا لَّيِّنٗا لَّعَلَّهُۥ يَتَذَكَّرُ أَوۡ يَخۡشَىٰ
 sentence_translation: Speak to him gently, so perhaps he may be mindful ˹of Me˺ or
   fearful ˹of My punishment˺.”
 word_by_word:
   1:
-    arabic: فَقُوۡلَا
+    arabic: فَقُولَا
     translation: And speak
     transliteration: faqūlā
   2:
-    arabic: لَهٗ
+    arabic: لَهُۥ
     translation: to him
     transliteration: lahu
   3:
-    arabic: قَوۡلًا
+    arabic: قَوۡلٗا
     translation: a word
     transliteration: qawlan
   4:
-    arabic: لَّيِّنًا
+    arabic: لَّيِّنٗا
     translation: gentle
     transliteration: layyinan
   5:
-    arabic: لَّعَلَّهٗ
+    arabic: لَّعَلَّهُۥ
     translation: perhaps he
     transliteration: laʿallahu
   6:
@@ -28,11 +28,11 @@ word_by_word:
     translation: may take heed
     transliteration: yatadhakkaru
   7:
-    arabic: اَوۡ
+    arabic: أَوۡ
     translation: or
     transliteration: aw
   8:
-    arabic: يَخۡشٰى‏
+    arabic: يَخۡشَىٰ
     translation: fear
     transliteration: yakhshā
 ---

@@ -1,12 +1,12 @@
 ---
-arabic_ayat: وَالۡوَالِدٰتُ يُرۡضِعۡنَ اَوۡلَادَهُنَّ حَوۡلَيۡنِ كَامِلَيۡنِ​ لِمَنۡ
-  اَرَادَ اَنۡ يُّتِمَّ الرَّضَاعَةَ ​ ؕ وَعَلَى الۡمَوۡلُوۡدِ لَهٗ رِزۡقُهُنَّ وَكِسۡوَتُهُنَّ
-  بِالۡمَعۡرُوۡفِ​ؕ لَا تُكَلَّفُ نَفۡسٌ اِلَّا وُسۡعَهَا ۚ لَا تُضَآرَّ وَالِدَةٌ
-  ۢ بِوَلَدِهَا وَلَا مَوۡلُوۡدٌ لَّهٗ بِوَلَدِهٖ وَعَلَى الۡوَارِثِ مِثۡلُ ذٰ لِكَ
-  ۚ فَاِنۡ اَرَادَا فِصَالًا عَنۡ تَرَاضٍ مِّنۡهُمَا وَتَشَاوُرٍ فَلَا جُنَاحَ عَلَيۡهِمَا ​ؕ
-  وَاِنۡ اَرَدْتُّمۡ اَنۡ تَسۡتَرۡضِعُوۡٓا اَوۡلَادَكُمۡ فَلَا جُنَاحَ عَلَيۡكُمۡ
-  اِذَا سَلَّمۡتُمۡ مَّآ اٰتَيۡتُمۡ بِالۡمَعۡرُوۡفِ​ؕ وَاتَّقُوا اللّٰهَ وَاعۡلَمُوۡٓا
-  اَنَّ اللّٰهَ بِمَا تَعۡمَلُوۡنَ بَصِيۡرٌ‏
+arabic_ayat: ۞ وَٱلۡوَٰلِدَٰتُ يُرۡضِعۡنَ أَوۡلَٰدَهُنَّ حَوۡلَيۡنِ كَامِلَيۡنِۖ لِمَنۡ
+  أَرَادَ أَن يُتِمَّ ٱلرَّضَاعَةَۚ وَعَلَى ٱلۡمَوۡلُودِ لَهُۥ رِزۡقُهُنَّ وَكِسۡوَتُهُنَّ
+  بِٱلۡمَعۡرُوفِۚ لَا تُكَلَّفُ نَفۡسٌ إِلَّا وُسۡعَهَاۚ لَا تُضَآرَّ وَٰلِدَةُۢ
+  بِوَلَدِهَا وَلَا مَوۡلُودٞ لَّهُۥ بِوَلَدِهِۦۚ وَعَلَى ٱلۡوَارِثِ مِثۡلُ ذَٰلِكَۗ
+  فَإِنۡ أَرَادَا فِصَالًا عَن تَرَاضٖ مِّنۡهُمَا وَتَشَاوُرٖ فَلَا جُنَاحَ عَلَيۡهِمَاۗ
+  وَإِنۡ أَرَدتُّمۡ أَن تَسۡتَرۡضِعُوٓاْ أَوۡلَٰدَكُمۡ فَلَا جُنَاحَ عَلَيۡكُمۡ إِذَا
+  سَلَّمۡتُم مَّآ ءَاتَيۡتُم بِٱلۡمَعۡرُوفِۗ وَٱتَّقُواْ ٱللَّهَ وَٱعۡلَمُوٓاْ أَنَّ
+  ٱللَّهَ بِمَا تَعۡمَلُونَ بَصِيرٞ
 sentence_translation: ˹Divorced˺ mothers will breastfeed their offspring for two whole
   years, for those who wish to complete the nursing ˹of their child˺. The child’s
   father will provide reasonable maintenance and clothing for the mother ˹during that
@@ -18,7 +18,7 @@ sentence_translation: ˹Divorced˺ mothers will breastfeed their offspring for t
   and know that Allah is All-Seeing of what you do.
 word_by_word:
   1:
-    arabic: ۞ وَالۡوَالِدٰتُ
+    arabic: ۞ وَٱلۡوَٰلِدَٰتُ
     translation: And the mothers
     transliteration: wal-wālidātu
   2:
@@ -26,7 +26,7 @@ word_by_word:
     translation: shall suckle
     transliteration: yur'ḍiʿ'na
   3:
-    arabic: اَوۡلَادَهُنَّ
+    arabic: أَوۡلَٰدَهُنَّ
     translation: their children
     transliteration: awlādahunna
   4:
@@ -34,7 +34,7 @@ word_by_word:
     translation: (for) two years
     transliteration: ḥawlayni
   5:
-    arabic: كَامِلَيۡنِ​
+    arabic: كَامِلَيۡنِۖ
     translation: complete
     transliteration: kāmilayni
   6:
@@ -42,19 +42,19 @@ word_by_word:
     translation: for whoever
     transliteration: liman
   7:
-    arabic: اَرَادَ
+    arabic: أَرَادَ
     translation: wishes
     transliteration: arāda
   8:
-    arabic: اَنۡ
+    arabic: أَن
     translation: to
     transliteration: an
   9:
-    arabic: يُّتِمَّ
+    arabic: يُتِمَّ
     translation: complete
     transliteration: yutimma
   10:
-    arabic: الرَّضَاعَةَ ​ ؕ
+    arabic: ٱلرَّضَاعَةَۚ
     translation: the suckling
     transliteration: l-raḍāʿata
   11:
@@ -62,11 +62,11 @@ word_by_word:
     translation: And upon
     transliteration: waʿalā
   12:
-    arabic: الۡمَوۡلُوۡدِ
+    arabic: ٱلۡمَوۡلُودِ
     translation: the father
     transliteration: l-mawlūdi
   13:
-    arabic: لَهٗ
+    arabic: لَهُۥ
     translation: (on) him
     transliteration: lahu
   14:
@@ -78,7 +78,7 @@ word_by_word:
     translation: and their clothing
     transliteration: wakis'watuhunna
   16:
-    arabic: بِالۡمَعۡرُوۡفِ​ؕ
+    arabic: بِٱلۡمَعۡرُوفِۚ
     translation: in a fair manner
     transliteration: bil-maʿrūfi
   17:
@@ -94,11 +94,11 @@ word_by_word:
     translation: any soul
     transliteration: nafsun
   20:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   21:
-    arabic: وُسۡعَهَا ۚ
+    arabic: وُسۡعَهَاۚ
     translation: its capacity
     transliteration: wus'ʿahā
   22:
@@ -110,7 +110,7 @@ word_by_word:
     translation: made to suffer
     transliteration: tuḍārra
   24:
-    arabic: وَالِدَةٌ ۢ
+    arabic: وَٰلِدَةُۢ
     translation: (the) mother
     transliteration: wālidatun
   25:
@@ -122,15 +122,15 @@ word_by_word:
     translation: and not
     transliteration: walā
   27:
-    arabic: مَوۡلُوۡدٌ
+    arabic: مَوۡلُودٞ
     translation: (the) father
     transliteration: mawlūdun
   28:
-    arabic: لَّهٗ
+    arabic: لَّهُۥ
     translation: (be)
     transliteration: lahu
   29:
-    arabic: بِوَلَدِهٖ
+    arabic: بِوَلَدِهِۦۚ
     translation: because of his child
     transliteration: biwaladihi
   30:
@@ -138,7 +138,7 @@ word_by_word:
     translation: And on
     transliteration: waʿalā
   31:
-    arabic: الۡوَارِثِ
+    arabic: ٱلۡوَارِثِ
     translation: the (father's) heir
     transliteration: l-wārithi
   32:
@@ -146,15 +146,15 @@ word_by_word:
     translation: (is a duty) like
     transliteration: mith'lu
   33:
-    arabic: ذٰ لِكَ ۚ
+    arabic: ذَٰلِكَۗ
     translation: that (of the father)
     transliteration: dhālika
   34:
-    arabic: فَاِنۡ
+    arabic: فَإِنۡ
     translation: Then if
     transliteration: fa-in
   35:
-    arabic: اَرَادَا
+    arabic: أَرَادَا
     translation: they both desire
     transliteration: arādā
   36:
@@ -162,11 +162,11 @@ word_by_word:
     translation: weaning
     transliteration: fiṣālan
   37:
-    arabic: عَنۡ
+    arabic: عَن
     translation: through
     transliteration: ʿan
   38:
-    arabic: تَرَاضٍ
+    arabic: تَرَاضٖ
     translation: mutual consent
     transliteration: tarāḍin
   39:
@@ -174,7 +174,7 @@ word_by_word:
     translation: of both of them
     transliteration: min'humā
   40:
-    arabic: وَتَشَاوُرٍ
+    arabic: وَتَشَاوُرٖ
     translation: and consultation
     transliteration: watashāwurin
   41:
@@ -186,27 +186,27 @@ word_by_word:
     translation: blame
     transliteration: junāḥa
   43:
-    arabic: عَلَيۡهِمَا ​ؕ
+    arabic: عَلَيۡهِمَاۗ
     translation: on both of them
     transliteration: ʿalayhimā
   44:
-    arabic: وَاِنۡ
+    arabic: وَإِنۡ
     translation: And if
     transliteration: wa-in
   45:
-    arabic: اَرَدْتُّمۡ
+    arabic: أَرَدتُّمۡ
     translation: you want
     transliteration: aradttum
   46:
-    arabic: اَنۡ
+    arabic: أَن
     translation: to
     transliteration: an
   47:
-    arabic: تَسۡتَرۡضِعُوۡٓا
+    arabic: تَسۡتَرۡضِعُوٓاْ
     translation: ask another women to suckle
     transliteration: tastarḍiʿū
   48:
-    arabic: اَوۡلَادَكُمۡ
+    arabic: أَوۡلَٰدَكُمۡ
     translation: your child
     transliteration: awlādakum
   49:
@@ -222,43 +222,43 @@ word_by_word:
     translation: on you
     transliteration: ʿalaykum
   52:
-    arabic: اِذَا
+    arabic: إِذَا
     translation: when
     transliteration: idhā
   53:
-    arabic: سَلَّمۡتُمۡ
+    arabic: سَلَّمۡتُم
     translation: you pay
     transliteration: sallamtum
   54:
-    arabic: مَّآ
+    arabic: مَّآ ءَ
     translation: what
     transliteration: mā
   55:
-    arabic: اٰتَيۡتُمۡ
+    arabic: اتَيۡتُم
     translation: you give
     transliteration: ātaytum
   56:
-    arabic: بِالۡمَعۡرُوۡفِ​ؕ
+    arabic: بِٱلۡمَعۡرُوفِۗ
     translation: in a fair manner
     transliteration: bil-maʿrūfi
   57:
-    arabic: وَاتَّقُوا
+    arabic: وَٱتَّقُواْ
     translation: And fear
     transliteration: wa-ittaqū
   58:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   59:
-    arabic: وَاعۡلَمُوۡٓا
+    arabic: وَٱعۡلَمُوٓاْ
     translation: and know
     transliteration: wa-iʿ'lamū
   60:
-    arabic: اَنَّ
+    arabic: أَنَّ
     translation: that
     transliteration: anna
   61:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   62:
@@ -266,11 +266,11 @@ word_by_word:
     translation: of what
     transliteration: bimā
   63:
-    arabic: تَعۡمَلُوۡنَ
+    arabic: تَعۡمَلُونَ
     translation: you do
     transliteration: taʿmalūna
   64:
-    arabic: بَصِيۡرٌ‏
+    arabic: بَصِيرٞ
     translation: (is) All-Seer
     transliteration: baṣīrun
 ---

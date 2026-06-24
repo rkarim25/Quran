@@ -1,19 +1,19 @@
 ---
-arabic_ayat: اَلَمۡ يَرَوۡا اَنَّا جَعَلۡنَا الَّيۡلَ لِيَسۡكُنُوۡا فِيۡهِ وَالنَّهَارَ
-  مُبۡصِرًا ​ؕ اِنَّ فِىۡ ذٰ لِكَ لَاٰيٰتٍ لِّـقَوۡمٍ يُّؤۡمِنُوۡنَ‏
+arabic_ayat: أَلَمۡ يَرَوۡاْ أَنَّا جَعَلۡنَا ٱلَّيۡلَ لِيَسۡكُنُواْ فِيهِ وَٱلنَّهَارَ
+  مُبۡصِرًاۚ إِنَّ فِي ذَٰلِكَ لَأٓيَٰتٖ لِّقَوۡمٖ يُؤۡمِنُونَ
 sentence_translation: Do they not see that We made the night for them to rest in and
   the day bright? Surely in this are signs for those who believe.
 word_by_word:
   1:
-    arabic: اَلَمۡ
+    arabic: أَلَمۡ
     translation: Do not
     transliteration: alam
   2:
-    arabic: يَرَوۡا
+    arabic: يَرَوۡاْ
     translation: they see
     transliteration: yaraw
   3:
-    arabic: اَنَّا
+    arabic: أَنَّا
     translation: that We
     transliteration: annā
   4:
@@ -21,47 +21,47 @@ word_by_word:
     translation: '[We] have made'
     transliteration: jaʿalnā
   5:
-    arabic: الَّيۡلَ
+    arabic: ٱلَّيۡلَ
     translation: the night
     transliteration: al-layla
   6:
-    arabic: لِيَسۡكُنُوۡا
+    arabic: لِيَسۡكُنُواْ
     translation: that they may rest
     transliteration: liyaskunū
   7:
-    arabic: فِيۡهِ
+    arabic: فِيهِ
     translation: in it
     transliteration: fīhi
   8:
-    arabic: وَالنَّهَارَ
+    arabic: وَٱلنَّهَارَ
     translation: and the day
     transliteration: wal-nahāra
   9:
-    arabic: مُبۡصِرًا ​ؕ
+    arabic: مُبۡصِرًاۚ
     translation: giving visibility
     transliteration: mub'ṣiran
   10:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   11:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   12:
-    arabic: ذٰ لِكَ
+    arabic: ذَٰلِكَ
     translation: that
     transliteration: dhālika
   13:
-    arabic: لَاٰيٰتٍ
+    arabic: لَأٓيَٰتٖ
     translation: surely (are) Signs
     transliteration: laāyātin
   14:
-    arabic: لِّـقَوۡمٍ
+    arabic: لِّقَوۡمٖ
     translation: for a people
     transliteration: liqawmin
   15:
-    arabic: يُّؤۡمِنُوۡنَ‏
+    arabic: يُؤۡمِنُونَ
     translation: who believe
     transliteration: yu'minūna
 ---

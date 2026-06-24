@@ -1,8 +1,8 @@
 ---
-arabic_ayat: وَلَقَدۡ مَكَّنّٰهُمۡ فِيۡمَاۤ اِنۡ مَّكَّنّٰكُمۡ فِيۡهِ وَجَعَلۡنَا
-  لَهُمۡ سَمۡعًا وَّاَبۡصَارًا وَّاَفۡـِٕدَةً  ۖ فَمَاۤ اَغۡنٰى عَنۡهُمۡ سَمۡعُهُمۡ
-  وَلَاۤ اَبۡصَارُهُمۡ وَلَاۤ اَفۡـِٕدَتُهُمۡ مِّنۡ شَىۡءٍ اِذۡ كَانُوۡا يَجۡحَدُوۡنَۙ
-  بِاٰيٰتِ اللّٰهِ وَحَاقَ بِهِمۡ مَّا كَانُوۡا بِهٖ يَسۡتَهۡزِءُوۡنَ‏
+arabic_ayat: وَلَقَدۡ مَكَّنَّٰهُمۡ فِيمَآ إِن مَّكَّنَّٰكُمۡ فِيهِ وَجَعَلۡنَا لَهُمۡ
+  سَمۡعٗا وَأَبۡصَٰرٗا وَأَفۡـِٔدَةٗ فَمَآ أَغۡنَىٰ عَنۡهُمۡ سَمۡعُهُمۡ وَلَآ أَبۡصَٰرُهُمۡ
+  وَلَآ أَفۡـِٔدَتُهُم مِّن شَيۡءٍ إِذۡ كَانُواْ يَجۡحَدُونَ بِـَٔايَٰتِ ٱللَّهِ
+  وَحَاقَ بِهِم مَّا كَانُواْ بِهِۦ يَسۡتَهۡزِءُونَ
 sentence_translation: Indeed, We had established them in a way We have not established
   you ˹Meccans˺. And We gave them hearing, sight, and intellect. But neither their
   hearing, sight, nor intellect were of any benefit to them whatsoever, since they
@@ -14,23 +14,23 @@ word_by_word:
     translation: And certainly
     transliteration: walaqad
   2:
-    arabic: مَكَّنّٰهُمۡ
+    arabic: مَكَّنَّٰهُمۡ
     translation: We had established them
     transliteration: makkannāhum
   3:
-    arabic: فِيۡمَاۤ
+    arabic: فِيمَآ
     translation: in what
     transliteration: fīmā
   4:
-    arabic: اِنۡ
+    arabic: إِن
     translation: not
     transliteration: in
   5:
-    arabic: مَّكَّنّٰكُمۡ
+    arabic: مَّكَّنَّٰكُمۡ
     translation: We have established you
     transliteration: makkannākum
   6:
-    arabic: فِيۡهِ
+    arabic: فِيهِ
     translation: in it
     transliteration: fīhi
   7:
@@ -42,23 +42,23 @@ word_by_word:
     translation: for them
     transliteration: lahum
   9:
-    arabic: سَمۡعًا
+    arabic: سَمۡعٗا
     translation: hearing
     transliteration: samʿan
   10:
-    arabic: وَّاَبۡصَارًا
+    arabic: وَأَبۡصَٰرٗا
     translation: and vision
     transliteration: wa-abṣāran
   11:
-    arabic: وَّاَفۡـِٕدَةً  ۖ
+    arabic: وَأَفۡـِٔدَةٗ
     translation: and hearts
     transliteration: wa-afidatan
   12:
-    arabic: فَمَاۤ
+    arabic: فَمَآ
     translation: But not
     transliteration: famā
   13:
-    arabic: اَغۡنٰى
+    arabic: أَغۡنَىٰ
     translation: availed
     transliteration: aghnā
   14:
@@ -70,47 +70,47 @@ word_by_word:
     translation: their hearing
     transliteration: samʿuhum
   16:
-    arabic: وَلَاۤ
+    arabic: وَلَآ
     translation: and not
     transliteration: walā
   17:
-    arabic: اَبۡصَارُهُمۡ
+    arabic: أَبۡصَٰرُهُمۡ
     translation: their vision
     transliteration: abṣāruhum
   18:
-    arabic: وَلَاۤ
+    arabic: وَلَآ
     translation: and not
     transliteration: walā
   19:
-    arabic: اَفۡـِٕدَتُهُمۡ
+    arabic: أَفۡـِٔدَتُهُم
     translation: their hearts
     transliteration: afidatuhum
   20:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: any
     transliteration: min
   21:
-    arabic: شَىۡءٍ
+    arabic: شَيۡءٍ
     translation: thing
     transliteration: shayin
   22:
-    arabic: اِذۡ
+    arabic: إِذۡ
     translation: when
     transliteration: idh
   23:
-    arabic: كَانُوۡا
+    arabic: كَانُواْ
     translation: they were
     transliteration: kānū
   24:
-    arabic: يَجۡحَدُوۡنَۙ
+    arabic: يَجۡحَدُونَ
     translation: rejecting
     transliteration: yajḥadūna
   25:
-    arabic: بِاٰيٰتِ
+    arabic: بِـَٔايَٰتِ
     translation: (the) Signs
     transliteration: biāyāti
   26:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (of) Allah
     transliteration: l-lahi
   27:
@@ -118,7 +118,7 @@ word_by_word:
     translation: and enveloped
     transliteration: waḥāqa
   28:
-    arabic: بِهِمۡ
+    arabic: بِهِم
     translation: them
     transliteration: bihim
   29:
@@ -126,15 +126,15 @@ word_by_word:
     translation: what
     transliteration: mā
   30:
-    arabic: كَانُوۡا
+    arabic: كَانُواْ
     translation: they used to
     transliteration: kānū
   31:
-    arabic: بِهٖ
+    arabic: بِهِۦ
     translation: '[at it]'
     transliteration: bihi
   32:
-    arabic: يَسۡتَهۡزِءُوۡنَ‏
+    arabic: يَسۡتَهۡزِءُونَ
     translation: ridicule
     transliteration: yastahziūna
 ---

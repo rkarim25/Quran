@@ -1,22 +1,22 @@
 ---
-arabic_ayat: قَالُوۡۤا اِنَّكُمۡ كُنۡتُمۡ تَاۡتُوۡنَنَا عَنِ الۡيَمِيۡنِ‏
+arabic_ayat: قَالُوٓاْ إِنَّكُمۡ كُنتُمۡ تَأۡتُونَنَا عَنِ ٱلۡيَمِينِ
 sentence_translation: The misled will say, “It was you who deluded us away from what
   is right.”
 word_by_word:
   1:
-    arabic: قَالُوۡۤا
+    arabic: قَالُوٓاْ
     translation: They will say
     transliteration: qālū
   2:
-    arabic: اِنَّكُمۡ
+    arabic: إِنَّكُمۡ
     translation: Indeed, you
     transliteration: innakum
   3:
-    arabic: كُنۡتُمۡ
+    arabic: كُنتُمۡ
     translation: '[you] used (to)'
     transliteration: kuntum
   4:
-    arabic: تَاۡتُوۡنَنَا
+    arabic: تَأۡتُونَنَا
     translation: come (to) us
     transliteration: tatūnanā
   5:
@@ -24,7 +24,7 @@ word_by_word:
     translation: from
     transliteration: ʿani
   6:
-    arabic: الۡيَمِيۡنِ‏
+    arabic: ٱلۡيَمِينِ
     translation: the right
     transliteration: l-yamīni
 ---

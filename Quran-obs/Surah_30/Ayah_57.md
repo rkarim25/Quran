@@ -1,11 +1,11 @@
 ---
-arabic_ayat: فَيَوۡمَٮِٕذٍ لَّا يَنۡفَعُ الَّذِيۡنَ ظَلَمُوۡا مَعۡذِرَتُهُمۡ وَلَا
-  هُمۡ يُسۡتَعۡتَبُوۡنَ‏
+arabic_ayat: فَيَوۡمَئِذٖ لَّا يَنفَعُ ٱلَّذِينَ ظَلَمُواْ مَعۡذِرَتُهُمۡ وَلَا هُمۡ
+  يُسۡتَعۡتَبُونَ
 sentence_translation: So on that Day the wrongdoers’ excuses will not benefit them,
   nor will they be allowed to appease ˹their Lord˺.
 word_by_word:
   1:
-    arabic: فَيَوۡمَٮِٕذٍ
+    arabic: فَيَوۡمَئِذٖ
     translation: So that Day
     transliteration: fayawma-idhin
   2:
@@ -13,15 +13,15 @@ word_by_word:
     translation: not
     transliteration: lā
   3:
-    arabic: يَنۡفَعُ
+    arabic: يَنفَعُ
     translation: will profit
     transliteration: yanfaʿu
   4:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   5:
-    arabic: ظَلَمُوۡا
+    arabic: ظَلَمُواْ
     translation: wronged
     transliteration: ẓalamū
   6:
@@ -37,7 +37,7 @@ word_by_word:
     translation: they
     transliteration: hum
   9:
-    arabic: يُسۡتَعۡتَبُوۡنَ‏
+    arabic: يُسۡتَعۡتَبُونَ
     translation: will be allowed to make amends
     transliteration: yus'taʿtabūna
 ---

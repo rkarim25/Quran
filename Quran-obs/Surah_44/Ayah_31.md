@@ -1,17 +1,17 @@
 ---
-arabic_ayat: مِنۡ فِرۡعَوۡنَ​ؕ اِنَّهٗ كَانَ عَالِيًا مِّنَ الۡمُسۡرِفِيۡنَ‏
+arabic_ayat: مِن فِرۡعَوۡنَۚ إِنَّهُۥ كَانَ عَالِيٗا مِّنَ ٱلۡمُسۡرِفِينَ
 sentence_translation: of Pharaoh. He was truly a tyrant, a transgressor.
 word_by_word:
   1:
-    arabic: مِنۡ
+    arabic: مِن
     translation: From
     transliteration: min
   2:
-    arabic: فِرۡعَوۡنَ​ؕ
+    arabic: فِرۡعَوۡنَۚ
     translation: Firaun
     transliteration: fir'ʿawna
   3:
-    arabic: اِنَّهٗ
+    arabic: إِنَّهُۥ
     translation: Indeed, he
     transliteration: innahu
   4:
@@ -19,7 +19,7 @@ word_by_word:
     translation: was
     transliteration: kāna
   5:
-    arabic: عَالِيًا
+    arabic: عَالِيٗا
     translation: arrogant
     transliteration: ʿāliyan
   6:
@@ -27,7 +27,7 @@ word_by_word:
     translation: among
     transliteration: mina
   7:
-    arabic: الۡمُسۡرِفِيۡنَ‏
+    arabic: ٱلۡمُسۡرِفِينَ
     translation: the transgressors
     transliteration: l-mus'rifīna
 ---

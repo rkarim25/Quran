@@ -1,13 +1,13 @@
 ---
-arabic_ayat: وَحَفِظۡنٰهَا مِنۡ كُلِّ شَيۡطٰنٍ رَّجِيۡمٍۙ‏
+arabic_ayat: وَحَفِظۡنَٰهَا مِن كُلِّ شَيۡطَٰنٖ رَّجِيمٍ
 sentence_translation: And We protected it from every accursed devil,
 word_by_word:
   1:
-    arabic: وَحَفِظۡنٰهَا
+    arabic: وَحَفِظۡنَٰهَا
     translation: And We have protected it
     transliteration: waḥafiẓ'nāhā
   2:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   3:
@@ -15,11 +15,11 @@ word_by_word:
     translation: every
     transliteration: kulli
   4:
-    arabic: شَيۡطٰنٍ
+    arabic: شَيۡطَٰنٖ
     translation: devil
     transliteration: shayṭānin
   5:
-    arabic: رَّجِيۡمٍۙ‏
+    arabic: رَّجِيمٍ
     translation: accursed
     transliteration: rajīmin
 ---

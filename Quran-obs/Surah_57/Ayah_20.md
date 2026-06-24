@@ -1,9 +1,9 @@
 ---
-arabic_ayat: اِعۡلَمُوۡۤا اَنَّمَا الۡحَيٰوةُ الدُّنۡيَا لَعِبٌ وَّلَهۡوٌ وَّزِيۡنَةٌ
-  وَّتَفَاخُرٌۢ بَيۡنَكُمۡ وَتَكَاثُرٌ فِى الۡاَمۡوَالِ وَالۡاَوۡلَادِ​ؕ كَمَثَلِ
-  غَيۡثٍ اَعۡجَبَ الۡكُفَّارَ نَبَاتُهٗ ثُمَّ يَهِيۡجُ فَتَرٰٮهُ مُصۡفَرًّا ثُمَّ
-  يَكُوۡنُ حُطٰمًا​ؕ وَفِى الۡاٰخِرَةِ عَذَابٌ شَدِيۡدٌ ۙ وَّمَغۡفِرَةٌ مِّنَ اللّٰهِ
-  وَرِضۡوَانٌ​ؕ وَمَا الۡحَيٰوةُ الدُّنۡيَاۤ اِلَّا مَتَاعُ الۡغُرُوۡرِ‏
+arabic_ayat: ٱعۡلَمُوٓاْ أَنَّمَا ٱلۡحَيَوٰةُ ٱلدُّنۡيَا لَعِبٞ وَلَهۡوٞ وَزِينَةٞ
+  وَتَفَاخُرُۢ بَيۡنَكُمۡ وَتَكَاثُرٞ فِي ٱلۡأَمۡوَٰلِ وَٱلۡأَوۡلَٰدِۖ كَمَثَلِ غَيۡثٍ
+  أَعۡجَبَ ٱلۡكُفَّارَ نَبَاتُهُۥ ثُمَّ يَهِيجُ فَتَرَىٰهُ مُصۡفَرّٗا ثُمَّ يَكُونُ
+  حُطَٰمٗاۖ وَفِي ٱلۡأٓخِرَةِ عَذَابٞ شَدِيدٞ وَمَغۡفِرَةٞ مِّنَ ٱللَّهِ وَرِضۡوَٰنٞۚ
+  وَمَا ٱلۡحَيَوٰةُ ٱلدُّنۡيَآ إِلَّا مَتَٰعُ ٱلۡغُرُورِ
 sentence_translation: Know that this worldly life is no more than play, amusement,
   luxury, mutual boasting, and competition in wealth and children. This is like rain
   that causes plants to grow, to the delight of the planters. But later the plants
@@ -12,35 +12,35 @@ sentence_translation: Know that this worldly life is no more than play, amusemen
   the life of this world is no more than the delusion of enjoyment.
 word_by_word:
   1:
-    arabic: اِعۡلَمُوۡۤا
+    arabic: ٱعۡلَمُوٓاْ
     translation: Know
     transliteration: iʿ'lamū
   2:
-    arabic: اَنَّمَا
+    arabic: أَنَّمَا
     translation: that
     transliteration: annamā
   3:
-    arabic: الۡحَيٰوةُ
+    arabic: ٱلۡحَيَوٰةُ
     translation: the life
     transliteration: l-ḥayatu
   4:
-    arabic: الدُّنۡيَا
+    arabic: ٱلدُّنۡيَا
     translation: (of) the world
     transliteration: l-dun'yā
   5:
-    arabic: لَعِبٌ
+    arabic: لَعِبٞ
     translation: (is) play
     transliteration: laʿibun
   6:
-    arabic: وَّلَهۡوٌ
+    arabic: وَلَهۡوٞ
     translation: and amusement
     transliteration: walahwun
   7:
-    arabic: وَّزِيۡنَةٌ
+    arabic: وَزِينَةٞ
     translation: and adornment
     transliteration: wazīnatun
   8:
-    arabic: وَّتَفَاخُرٌۢ
+    arabic: وَتَفَاخُرُۢ
     translation: and boasting
     transliteration: watafākhurun
   9:
@@ -48,19 +48,19 @@ word_by_word:
     translation: among you
     transliteration: baynakum
   10:
-    arabic: وَتَكَاثُرٌ
+    arabic: وَتَكَاثُرٞ
     translation: and competition in increase
     transliteration: watakāthurun
   11:
-    arabic: فِى
+    arabic: فِي
     translation: of
     transliteration: fī
   12:
-    arabic: الۡاَمۡوَالِ
+    arabic: ٱلۡأَمۡوَٰلِ
     translation: the wealth
     transliteration: l-amwāli
   13:
-    arabic: وَالۡاَوۡلَادِ​ؕ
+    arabic: وَٱلۡأَوۡلَٰدِۖ
     translation: and the children
     transliteration: wal-awlādi
   14:
@@ -72,15 +72,15 @@ word_by_word:
     translation: (of) a rain
     transliteration: ghaythin
   16:
-    arabic: اَعۡجَبَ
+    arabic: أَعۡجَبَ
     translation: pleases
     transliteration: aʿjaba
   17:
-    arabic: الۡكُفَّارَ
+    arabic: ٱلۡكُفَّارَ
     translation: the tillers
     transliteration: l-kufāra
   18:
-    arabic: نَبَاتُهٗ
+    arabic: نَبَاتُهُۥ
     translation: its growth
     transliteration: nabātuhu
   19:
@@ -88,15 +88,15 @@ word_by_word:
     translation: then
     transliteration: thumma
   20:
-    arabic: يَهِيۡجُ
+    arabic: يَهِيجُ
     translation: it dries
     transliteration: yahīju
   21:
-    arabic: فَتَرٰٮهُ
+    arabic: فَتَرَىٰهُ
     translation: and you see it
     transliteration: fatarāhu
   22:
-    arabic: مُصۡفَرًّا
+    arabic: مُصۡفَرّٗا
     translation: turning yellow
     transliteration: muṣ'farran
   23:
@@ -104,31 +104,31 @@ word_by_word:
     translation: then
     transliteration: thumma
   24:
-    arabic: يَكُوۡنُ
+    arabic: يَكُونُ
     translation: becomes
     transliteration: yakūnu
   25:
-    arabic: حُطٰمًا​ؕ
+    arabic: حُطَٰمٗاۖ
     translation: debris
     transliteration: ḥuṭāman
   26:
-    arabic: وَفِى
+    arabic: وَفِي
     translation: And in
     transliteration: wafī
   27:
-    arabic: الۡاٰخِرَةِ
+    arabic: ٱلۡأٓخِرَةِ
     translation: the Hereafter
     transliteration: l-ākhirati
   28:
-    arabic: عَذَابٌ
+    arabic: عَذَابٞ
     translation: (is) a punishment
     transliteration: ʿadhābun
   29:
-    arabic: شَدِيۡدٌ ۙ
+    arabic: شَدِيدٞ
     translation: severe
     transliteration: shadīdun
   30:
-    arabic: وَّمَغۡفِرَةٌ
+    arabic: وَمَغۡفِرَةٞ
     translation: and forgiveness
     transliteration: wamaghfiratun
   31:
@@ -136,11 +136,11 @@ word_by_word:
     translation: from
     transliteration: mina
   32:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   33:
-    arabic: وَرِضۡوَانٌ​ؕ
+    arabic: وَرِضۡوَٰنٞۚ
     translation: and Pleasure
     transliteration: wariḍ'wānun
   34:
@@ -148,23 +148,23 @@ word_by_word:
     translation: But not
     transliteration: wamā
   35:
-    arabic: الۡحَيٰوةُ
+    arabic: ٱلۡحَيَوٰةُ
     translation: (is) the life
     transliteration: l-ḥayatu
   36:
-    arabic: الدُّنۡيَاۤ
+    arabic: ٱلدُّنۡيَآ
     translation: (of) the world
     transliteration: l-dun'yā
   37:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   38:
-    arabic: مَتَاعُ
+    arabic: مَتَٰعُ
     translation: (the) enjoyment
     transliteration: matāʿu
   39:
-    arabic: الۡغُرُوۡرِ‏
+    arabic: ٱلۡغُرُورِ
     translation: (of) delusion
     transliteration: l-ghurūri
 ---

@@ -1,15 +1,14 @@
 ---
-arabic_ayat: "ذٰ لِكَ جَزَيۡنٰهُمۡ بِمَا كَفَرُوۡا ؕ وَهَلۡ نُـجٰزِىۡۤ اِلَّا الۡـكَفُوۡرَ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: ذَٰلِكَ جَزَيۡنَٰهُم بِمَا كَفَرُواْۖ وَهَلۡ نُجَٰزِيٓ إِلَّا ٱلۡكَفُورَ
 sentence_translation: This is how We rewarded them for their ingratitude. Would We
   ever punish ˹anyone in such a way˺ except the ungrateful?
 word_by_word:
   1:
-    arabic: ذٰ لِكَ
+    arabic: ذَٰلِكَ
     translation: That
     transliteration: dhālika
   2:
-    arabic: جَزَيۡنٰهُمۡ
+    arabic: جَزَيۡنَٰهُم
     translation: We recompensed them
     transliteration: jazaynāhum
   3:
@@ -17,7 +16,7 @@ word_by_word:
     translation: because
     transliteration: bimā
   4:
-    arabic: كَفَرُوۡا ؕ
+    arabic: كَفَرُواْۖ
     translation: they disbelieved
     transliteration: kafarū
   5:
@@ -25,15 +24,15 @@ word_by_word:
     translation: And not
     transliteration: wahal
   6:
-    arabic: نُـجٰزِىۡۤ
+    arabic: نُجَٰزِيٓ
     translation: We recompense
     transliteration: nujāzī
   7:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   8:
-    arabic: "الۡـكَفُوۡرَ‏ \uFEFF\uFEFF"
+    arabic: ٱلۡكَفُورَ
     translation: the ungrateful
     transliteration: l-kafūra
 ---

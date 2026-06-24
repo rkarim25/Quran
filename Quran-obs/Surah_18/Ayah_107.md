@@ -1,27 +1,27 @@
 ---
-arabic_ayat: اِنَّ الَّذِيۡنَ اٰمَنُوۡا وَعَمِلُوا الصّٰلِحٰتِ كَانَتۡ لَهُمۡ جَنّٰتُ
-  الۡفِرۡدَوۡسِ نُزُلًا ۙ‏
+arabic_ayat: إِنَّ ٱلَّذِينَ ءَامَنُواْ وَعَمِلُواْ ٱلصَّٰلِحَٰتِ كَانَتۡ لَهُمۡ جَنَّٰتُ
+  ٱلۡفِرۡدَوۡسِ نُزُلًا
 sentence_translation: Indeed, those who believe and do good will have the Gardens
   of Paradise as an accommodation,
 word_by_word:
   1:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ ءَ
     translation: those who
     transliteration: alladhīna
   3:
-    arabic: اٰمَنُوۡا
+    arabic: امَنُواْ
     translation: believed
     transliteration: āmanū
   4:
-    arabic: وَعَمِلُوا
+    arabic: وَعَمِلُواْ
     translation: and did
     transliteration: waʿamilū
   5:
-    arabic: الصّٰلِحٰتِ
+    arabic: ٱلصَّٰلِحَٰتِ
     translation: righteous deeds
     transliteration: l-ṣāliḥāti
   6:
@@ -33,15 +33,15 @@ word_by_word:
     translation: for them will be
     transliteration: lahum
   8:
-    arabic: جَنّٰتُ
+    arabic: جَنَّٰتُ
     translation: Gardens
     transliteration: jannātu
   9:
-    arabic: الۡفِرۡدَوۡسِ
+    arabic: ٱلۡفِرۡدَوۡسِ
     translation: (of) the Paradise
     transliteration: l-fir'dawsi
   10:
-    arabic: نُزُلًا ۙ‏
+    arabic: نُزُلًا
     translation: (as) a lodging
     transliteration: nuzulan
 ---

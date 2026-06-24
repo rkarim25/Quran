@@ -1,16 +1,15 @@
 ---
-arabic_ayat: "يُنۡۢبِتُ لَـكُمۡ بِهِ الزَّرۡعَ وَالزَّيۡتُوۡنَ وَالنَّخِيۡلَ وَالۡاَعۡنَابَ\
-  \ وَمِنۡ كُلِّ الثَّمَرٰتِ​ؕ اِنَّ فِىۡ ذٰ لِكَ لَاٰيَةً لِّـقَوۡمٍ يَّتَفَكَّرُوۡنَ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: يُنۢبِتُ لَكُم بِهِ ٱلزَّرۡعَ وَٱلزَّيۡتُونَ وَٱلنَّخِيلَ وَٱلۡأَعۡنَٰبَ
+  وَمِن كُلِّ ٱلثَّمَرَٰتِۚ إِنَّ فِي ذَٰلِكَ لَأٓيَةٗ لِّقَوۡمٖ يَتَفَكَّرُونَ
 sentence_translation: With it He produces for you ˹various˺ crops, olives, palm trees,
   grapevines, and every type of fruit. Surely in this is a sign for those who reflect.
 word_by_word:
   1:
-    arabic: يُنۡۢبِتُ
+    arabic: يُنۢبِتُ
     translation: He causes to grow
     transliteration: yunbitu
   2:
-    arabic: لَـكُمۡ
+    arabic: لَكُم
     translation: for you
     transliteration: lakum
   3:
@@ -18,23 +17,23 @@ word_by_word:
     translation: with it
     transliteration: bihi
   4:
-    arabic: الزَّرۡعَ
+    arabic: ٱلزَّرۡعَ
     translation: the crops
     transliteration: l-zarʿa
   5:
-    arabic: وَالزَّيۡتُوۡنَ
+    arabic: وَٱلزَّيۡتُونَ
     translation: and the olives
     transliteration: wal-zaytūna
   6:
-    arabic: وَالنَّخِيۡلَ
+    arabic: وَٱلنَّخِيلَ
     translation: and the date-palms
     transliteration: wal-nakhīla
   7:
-    arabic: وَالۡاَعۡنَابَ
+    arabic: وَٱلۡأَعۡنَٰبَ
     translation: and the grapes
     transliteration: wal-aʿnāba
   8:
-    arabic: وَمِنۡ
+    arabic: وَمِن
     translation: and of
     transliteration: wamin
   9:
@@ -42,31 +41,31 @@ word_by_word:
     translation: every kind
     transliteration: kulli
   10:
-    arabic: الثَّمَرٰتِ​ؕ
+    arabic: ٱلثَّمَرَٰتِۚ
     translation: (of) fruits
     transliteration: l-thamarāti
   11:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   12:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   13:
-    arabic: ذٰ لِكَ
+    arabic: ذَٰلِكَ
     translation: that
     transliteration: dhālika
   14:
-    arabic: لَاٰيَةً
+    arabic: لَأٓيَةٗ
     translation: surely (is) a sign
     transliteration: laāyatan
   15:
-    arabic: لِّـقَوۡمٍ
+    arabic: لِّقَوۡمٖ
     translation: for a people
     transliteration: liqawmin
   16:
-    arabic: "يَّتَفَكَّرُوۡنَ‏ \uFEFF\uFEFF"
+    arabic: يَتَفَكَّرُونَ
     translation: who reflect
     transliteration: yatafakkarūna
 ---

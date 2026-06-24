@@ -1,15 +1,15 @@
 ---
-arabic_ayat: "فَافۡتَحۡ بَيۡنِىۡ وَبَيۡنَهُمۡ فَتۡحًا وَّنَجِّنِىۡ وَمَنۡ مَّعِىَ\
-  \ مِنَ الۡمُؤۡمِنِيۡنَ‏ \uFEFF\uFEFF"
+arabic_ayat: فَٱفۡتَحۡ بَيۡنِي وَبَيۡنَهُمۡ فَتۡحٗا وَنَجِّنِي وَمَن مَّعِيَ مِنَ
+  ٱلۡمُؤۡمِنِينَ
 sentence_translation: So judge between me and them decisively, and save me and the
   believers with me.”
 word_by_word:
   1:
-    arabic: فَافۡتَحۡ
+    arabic: فَٱفۡتَحۡ
     translation: So judge
     transliteration: fa-if'taḥ
   2:
-    arabic: بَيۡنِىۡ
+    arabic: بَيۡنِي
     translation: between me
     transliteration: baynī
   3:
@@ -17,19 +17,19 @@ word_by_word:
     translation: and between them
     transliteration: wabaynahum
   4:
-    arabic: فَتۡحًا
+    arabic: فَتۡحٗا
     translation: (with decisive) judgment
     transliteration: fatḥan
   5:
-    arabic: وَّنَجِّنِىۡ
+    arabic: وَنَجِّنِي
     translation: and save me
     transliteration: wanajjinī
   6:
-    arabic: وَمَنۡ
+    arabic: وَمَن
     translation: and who
     transliteration: waman
   7:
-    arabic: مَّعِىَ
+    arabic: مَّعِيَ
     translation: (are) with me
     transliteration: maʿiya
   8:
@@ -37,7 +37,7 @@ word_by_word:
     translation: of
     transliteration: mina
   9:
-    arabic: "الۡمُؤۡمِنِيۡنَ‏ \uFEFF\uFEFF"
+    arabic: ٱلۡمُؤۡمِنِينَ
     translation: the believers
     transliteration: l-mu'minīna
 ---

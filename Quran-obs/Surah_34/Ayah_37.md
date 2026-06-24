@@ -1,29 +1,29 @@
 ---
-arabic_ayat: وَمَاۤ اَمۡوَالُـكُمۡ وَلَاۤ اَوۡلَادُكُمۡ بِالَّتِىۡ تُقَرِّبُكُمۡ عِنۡدَنَا
-  زُلۡفٰٓى اِلَّا مَنۡ اٰمَنَ وَعَمِلَ صَالِحًـا فَاُولٰٓٮِٕكَ لَهُمۡ جَزَآءُ الضِّعۡفِ
-  بِمَا عَمِلُوۡا وَهُمۡ فِى الۡغُرُفٰتِ اٰمِنُوۡنَ‏
+arabic_ayat: وَمَآ أَمۡوَٰلُكُمۡ وَلَآ أَوۡلَٰدُكُم بِٱلَّتِي تُقَرِّبُكُمۡ عِندَنَا
+  زُلۡفَىٰٓ إِلَّا مَنۡ ءَامَنَ وَعَمِلَ صَٰلِحٗا فَأُوْلَٰٓئِكَ لَهُمۡ جَزَآءُ ٱلضِّعۡفِ
+  بِمَا عَمِلُواْ وَهُمۡ فِي ٱلۡغُرُفَٰتِ ءَامِنُونَ
 sentence_translation: It is not your wealth or children that bring you closer to Us.
   But those who believe and do good—it is they who will have a multiplied reward for
   what they did, and they will be secure in ˹elevated˺ mansions.
 word_by_word:
   1:
-    arabic: وَمَاۤ
+    arabic: وَمَآ
     translation: And not
     transliteration: wamā
   2:
-    arabic: اَمۡوَالُـكُمۡ
+    arabic: أَمۡوَٰلُكُمۡ
     translation: your wealth
     transliteration: amwālukum
   3:
-    arabic: وَلَاۤ
+    arabic: وَلَآ
     translation: and not
     transliteration: walā
   4:
-    arabic: اَوۡلَادُكُمۡ
+    arabic: أَوۡلَٰدُكُم
     translation: your children
     transliteration: awlādukum
   5:
-    arabic: بِالَّتِىۡ
+    arabic: بِٱلَّتِي
     translation: '[that]'
     transliteration: bi-allatī
   6:
@@ -31,23 +31,23 @@ word_by_word:
     translation: will bring you close
     transliteration: tuqarribukum
   7:
-    arabic: عِنۡدَنَا
+    arabic: عِندَنَا
     translation: to Us
     transliteration: ʿindanā
   8:
-    arabic: زُلۡفٰٓى
+    arabic: زُلۡفَىٰٓ
     translation: (in) position
     transliteration: zul'fā
   9:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: but
     transliteration: illā
   10:
-    arabic: مَنۡ
+    arabic: مَنۡ ءَ
     translation: whoever
     transliteration: man
   11:
-    arabic: اٰمَنَ
+    arabic: امَنَ
     translation: believes
     transliteration: āmana
   12:
@@ -55,11 +55,11 @@ word_by_word:
     translation: and does
     transliteration: waʿamila
   13:
-    arabic: صَالِحًـا
+    arabic: صَٰلِحٗا
     translation: righteousness
     transliteration: ṣāliḥan
   14:
-    arabic: فَاُولٰٓٮِٕكَ
+    arabic: فَأُوْلَٰٓئِكَ
     translation: then those
     transliteration: fa-ulāika
   15:
@@ -71,7 +71,7 @@ word_by_word:
     translation: (will be) reward
     transliteration: jazāu
   17:
-    arabic: الضِّعۡفِ
+    arabic: ٱلضِّعۡفِ
     translation: two-fold
     transliteration: l-ḍiʿ'fi
   18:
@@ -79,7 +79,7 @@ word_by_word:
     translation: for what
     transliteration: bimā
   19:
-    arabic: عَمِلُوۡا
+    arabic: عَمِلُواْ
     translation: they did
     transliteration: ʿamilū
   20:
@@ -87,15 +87,15 @@ word_by_word:
     translation: and they
     transliteration: wahum
   21:
-    arabic: فِى
+    arabic: فِي
     translation: (will be) in
     transliteration: fī
   22:
-    arabic: الۡغُرُفٰتِ
+    arabic: ٱلۡغُرُفَٰتِ ءَ
     translation: the high dwellings
     transliteration: l-ghurufāti
   23:
-    arabic: اٰمِنُوۡنَ‏
+    arabic: امِنُونَ
     translation: secure
     transliteration: āminūna
 ---

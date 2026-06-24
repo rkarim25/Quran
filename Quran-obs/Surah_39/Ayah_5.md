@@ -1,7 +1,7 @@
 ---
-arabic_ayat: خَلَقَ السَّمٰوٰتِ وَالۡاَرۡضَ بِالۡحَقِّ​ ۚ يُكَوِّرُ الَّيۡلَ عَلَى
-  النَّهَارِ وَيُكَوِّرُ النَّهَارَ عَلَى الَّيۡلِ وَسَخَّرَ الشَّمۡسَ وَالۡقَمَرَ​ؕ
-  كُلٌّ يَّجۡرِىۡ لِاَجَلٍ مُّسَمًّى​ؕ اَلَا هُوَ الۡعَزِيۡزُ الۡغَفَّارُ‏
+arabic_ayat: خَلَقَ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضَ بِٱلۡحَقِّۖ يُكَوِّرُ ٱلَّيۡلَ عَلَى
+  ٱلنَّهَارِ وَيُكَوِّرُ ٱلنَّهَارَ عَلَى ٱلَّيۡلِۖ وَسَخَّرَ ٱلشَّمۡسَ وَٱلۡقَمَرَۖ
+  كُلّٞ يَجۡرِي لِأَجَلٖ مُّسَمًّىۗ أَلَا هُوَ ٱلۡعَزِيزُ ٱلۡغَفَّٰرُ
 sentence_translation: He created the heavens and the earth for a purpose. He wraps
   the night around the day, and wraps the day around the night. And He has subjected
   the sun and the moon, each orbiting for an appointed term. He is truly the Almighty,
@@ -12,15 +12,15 @@ word_by_word:
     translation: He created
     transliteration: khalaqa
   2:
-    arabic: السَّمٰوٰتِ
+    arabic: ٱلسَّمَٰوَٰتِ
     translation: the heavens
     transliteration: l-samāwāti
   3:
-    arabic: وَالۡاَرۡضَ
+    arabic: وَٱلۡأَرۡضَ
     translation: and the earth
     transliteration: wal-arḍa
   4:
-    arabic: بِالۡحَقِّ​ ۚ
+    arabic: بِٱلۡحَقِّۖ
     translation: in [the] truth
     transliteration: bil-ḥaqi
   5:
@@ -28,7 +28,7 @@ word_by_word:
     translation: He wraps
     transliteration: yukawwiru
   6:
-    arabic: الَّيۡلَ
+    arabic: ٱلَّيۡلَ
     translation: the night
     transliteration: al-layla
   7:
@@ -36,7 +36,7 @@ word_by_word:
     translation: over
     transliteration: ʿalā
   8:
-    arabic: النَّهَارِ
+    arabic: ٱلنَّهَارِ
     translation: the day
     transliteration: l-nahāri
   9:
@@ -44,7 +44,7 @@ word_by_word:
     translation: and wraps
     transliteration: wayukawwiru
   10:
-    arabic: النَّهَارَ
+    arabic: ٱلنَّهَارَ
     translation: the day
     transliteration: l-nahāra
   11:
@@ -52,7 +52,7 @@ word_by_word:
     translation: over
     transliteration: ʿalā
   12:
-    arabic: الَّيۡلِ
+    arabic: ٱلَّيۡلِۖ
     translation: the night
     transliteration: al-layli
   13:
@@ -60,31 +60,31 @@ word_by_word:
     translation: And He subjected
     transliteration: wasakhara
   14:
-    arabic: الشَّمۡسَ
+    arabic: ٱلشَّمۡسَ
     translation: the sun
     transliteration: l-shamsa
   15:
-    arabic: وَالۡقَمَرَ​ؕ
+    arabic: وَٱلۡقَمَرَۖ
     translation: and the moon
     transliteration: wal-qamara
   16:
-    arabic: كُلٌّ
+    arabic: كُلّٞ
     translation: each
     transliteration: kullun
   17:
-    arabic: يَّجۡرِىۡ
+    arabic: يَجۡرِي
     translation: running
     transliteration: yajrī
   18:
-    arabic: لِاَجَلٍ
+    arabic: لِأَجَلٖ
     translation: for a term
     transliteration: li-ajalin
   19:
-    arabic: مُّسَمًّى​ؕ
+    arabic: مُّسَمًّىۗ
     translation: specified
     transliteration: musamman
   20:
-    arabic: اَلَا
+    arabic: أَلَا
     translation: Unquestionably
     transliteration: alā
   21:
@@ -92,11 +92,11 @@ word_by_word:
     translation: He
     transliteration: huwa
   22:
-    arabic: الۡعَزِيۡزُ
+    arabic: ٱلۡعَزِيزُ
     translation: (is) the All-Mighty
     transliteration: l-ʿazīzu
   23:
-    arabic: الۡغَفَّارُ‏
+    arabic: ٱلۡغَفَّٰرُ
     translation: the Oft-Forgiving
     transliteration: l-ghafāru
 ---

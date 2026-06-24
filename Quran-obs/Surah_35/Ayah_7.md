@@ -1,15 +1,15 @@
 ---
-arabic_ayat: اَ لَّذِيۡنَ كَفَرُوۡا لَهُمۡ عَذَابٌ شَدِيۡدٌ ؕ وَّالَّذِيۡنَ اٰمَنُوا
-  وَعَمِلُوۡا الصّٰلِحٰتِ لَهُمۡ مَّغۡفِرَةٌ وَّاَجۡرٌ كَبِيۡرٌ‏
+arabic_ayat: ٱلَّذِينَ كَفَرُواْ لَهُمۡ عَذَابٞ شَدِيدٞۖ وَٱلَّذِينَ ءَامَنُواْ وَعَمِلُواْ
+  ٱلصَّٰلِحَٰتِ لَهُم مَّغۡفِرَةٞ وَأَجۡرٞ كَبِيرٌ
 sentence_translation: Those who disbelieve will have a severe punishment. But those
   who believe and do good will have forgiveness and a great reward.
 word_by_word:
   1:
-    arabic: اَ لَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: Those who
     transliteration: alladhīna
   2:
-    arabic: كَفَرُوۡا
+    arabic: كَفَرُواْ
     translation: disbelieve
     transliteration: kafarū
   3:
@@ -17,43 +17,43 @@ word_by_word:
     translation: for them
     transliteration: lahum
   4:
-    arabic: عَذَابٌ
+    arabic: عَذَابٞ
     translation: (will be) a punishment
     transliteration: ʿadhābun
   5:
-    arabic: شَدِيۡدٌ ؕ
+    arabic: شَدِيدٞۖ
     translation: severe
     transliteration: shadīdun
   6:
-    arabic: وَّالَّذِيۡنَ
+    arabic: وَٱلَّذِينَ ءَ
     translation: and those
     transliteration: wa-alladhīna
   7:
-    arabic: اٰمَنُوا
+    arabic: امَنُواْ
     translation: who believe
     transliteration: āmanū
   8:
-    arabic: وَعَمِلُوۡا
+    arabic: وَعَمِلُواْ
     translation: and do
     transliteration: waʿamilū
   9:
-    arabic: الصّٰلِحٰتِ
+    arabic: ٱلصَّٰلِحَٰتِ
     translation: righteous deeds
     transliteration: l-ṣāliḥāti
   10:
-    arabic: لَهُمۡ
+    arabic: لَهُم
     translation: for them
     transliteration: lahum
   11:
-    arabic: مَّغۡفِرَةٌ
+    arabic: مَّغۡفِرَةٞ
     translation: (will be) forgiveness
     transliteration: maghfiratun
   12:
-    arabic: وَّاَجۡرٌ
+    arabic: وَأَجۡرٞ
     translation: and a reward
     transliteration: wa-ajrun
   13:
-    arabic: كَبِيۡرٌ‏
+    arabic: كَبِيرٌ
     translation: great
     transliteration: kabīrun
 ---

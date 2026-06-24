@@ -1,6 +1,6 @@
 ---
-arabic_ayat: قَالَ اخۡرُجۡ مِنۡهَا مَذۡءُوۡمًا مَّدۡحُوۡرًا ​ؕ لَمَنۡ تَبِعَكَ مِنۡهُمۡ
-  لَاَمۡلَــٴَــنَّ جَهَنَّمَ مِنۡكُمۡ اَجۡمَعِيۡنَ‏
+arabic_ayat: قَالَ ٱخۡرُجۡ مِنۡهَا مَذۡءُومٗا مَّدۡحُورٗاۖ لَّمَن تَبِعَكَ مِنۡهُمۡ
+  لَأَمۡلَأَنَّ جَهَنَّمَ مِنكُمۡ أَجۡمَعِينَ
 sentence_translation: Allah said, “Get out of Paradise! You are disgraced and rejected!
   I will certainly fill up Hell with you and your followers all together.”
 word_by_word:
@@ -9,7 +9,7 @@ word_by_word:
     translation: (Allah) said
     transliteration: qāla
   2:
-    arabic: اخۡرُجۡ
+    arabic: ٱخۡرُجۡ
     translation: Get out
     transliteration: ukh'ruj
   3:
@@ -17,15 +17,15 @@ word_by_word:
     translation: of it
     transliteration: min'hā
   4:
-    arabic: مَذۡءُوۡمًا
+    arabic: مَذۡءُومٗا
     translation: disgraced
     transliteration: madhūman
   5:
-    arabic: مَّدۡحُوۡرًا ​ؕ
+    arabic: مَّدۡحُورٗاۖ
     translation: and expelled
     transliteration: madḥūran
   6:
-    arabic: لَمَنۡ
+    arabic: لَّمَن
     translation: Certainly, whoever
     transliteration: laman
   7:
@@ -37,7 +37,7 @@ word_by_word:
     translation: among them
     transliteration: min'hum
   9:
-    arabic: لَاَمۡلَــٴَــنَّ
+    arabic: لَأَمۡلَأَنَّ
     translation: surely, I will fill
     transliteration: la-amla-anna
   10:
@@ -45,11 +45,11 @@ word_by_word:
     translation: Hell
     transliteration: jahannama
   11:
-    arabic: مِنۡكُمۡ
+    arabic: مِنكُمۡ
     translation: with you
     transliteration: minkum
   12:
-    arabic: اَجۡمَعِيۡنَ‏
+    arabic: أَجۡمَعِينَ
     translation: all
     transliteration: ajmaʿīna
 ---

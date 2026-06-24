@@ -1,21 +1,21 @@
 ---
-arabic_ayat: وَّغَدَوۡا عَلٰى حَرۡدٍ قٰدِرِيۡنَ‏
+arabic_ayat: وَغَدَوۡاْ عَلَىٰ حَرۡدٖ قَٰدِرِينَ
 sentence_translation: And they proceeded early, totally fixated on their purpose.
 word_by_word:
   1:
-    arabic: وَّغَدَوۡا
+    arabic: وَغَدَوۡاْ
     translation: And they went early
     transliteration: waghadaw
   2:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: with
     transliteration: ʿalā
   3:
-    arabic: حَرۡدٍ
+    arabic: حَرۡدٖ
     translation: determination
     transliteration: ḥardin
   4:
-    arabic: قٰدِرِيۡنَ‏
+    arabic: قَٰدِرِينَ
     translation: able
     transliteration: qādirīna
 ---

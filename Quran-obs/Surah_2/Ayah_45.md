@@ -1,31 +1,31 @@
 ---
-arabic_ayat: وَاسۡتَعِيۡنُوۡا بِالصَّبۡرِ وَالصَّلٰوةِ ​ؕ وَاِنَّهَا لَكَبِيۡرَةٌ
-  اِلَّا عَلَى الۡخٰشِعِيۡنَۙ‏
+arabic_ayat: وَٱسۡتَعِينُواْ بِٱلصَّبۡرِ وَٱلصَّلَوٰةِۚ وَإِنَّهَا لَكَبِيرَةٌ إِلَّا
+  عَلَى ٱلۡخَٰشِعِينَ
 sentence_translation: And seek help through patience and prayer. Indeed, it is a burden
   except for the humble—
 word_by_word:
   1:
-    arabic: وَاسۡتَعِيۡنُوۡا
+    arabic: وَٱسۡتَعِينُواْ
     translation: And seek help
     transliteration: wa-is'taʿīnū
   2:
-    arabic: بِالصَّبۡرِ
+    arabic: بِٱلصَّبۡرِ
     translation: through patience
     transliteration: bil-ṣabri
   3:
-    arabic: وَالصَّلٰوةِ ​ؕ
+    arabic: وَٱلصَّلَوٰةِۚ
     translation: and the prayer
     transliteration: wal-ṣalati
   4:
-    arabic: وَاِنَّهَا
+    arabic: وَإِنَّهَا
     translation: and indeed, it
     transliteration: wa-innahā
   5:
-    arabic: لَكَبِيۡرَةٌ
+    arabic: لَكَبِيرَةٌ
     translation: (is) surely difficult
     transliteration: lakabīratun
   6:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   7:
@@ -33,7 +33,7 @@ word_by_word:
     translation: 'on'
     transliteration: ʿalā
   8:
-    arabic: الۡخٰشِعِيۡنَۙ‏
+    arabic: ٱلۡخَٰشِعِينَ
     translation: the humble ones
     transliteration: l-khāshiʿīna
 ---

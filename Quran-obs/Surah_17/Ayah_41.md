@@ -1,6 +1,6 @@
 ---
-arabic_ayat: وَلَقَدۡ صَرَّفۡنَا فِىۡ هٰذَا الۡقُرۡاٰنِ لِيَذَّكَّرُوۡا ؕ وَمَا يَزِيۡدُهُمۡ
-  اِلَّا نُفُوۡرًا‏
+arabic_ayat: وَلَقَدۡ صَرَّفۡنَا فِي هَٰذَا ٱلۡقُرۡءَانِ لِيَذَّكَّرُواْ وَمَا يَزِيدُهُمۡ
+  إِلَّا نُفُورٗا
 sentence_translation: We have surely varied ˹the signs˺ in this Quran so perhaps they
   may be mindful, but it only drives them farther away.
 word_by_word:
@@ -13,19 +13,19 @@ word_by_word:
     translation: We have explained
     transliteration: ṣarrafnā
   3:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   4:
-    arabic: هٰذَا
+    arabic: هَٰذَا
     translation: this
     transliteration: hādhā
   5:
-    arabic: الۡقُرۡاٰنِ
+    arabic: ٱلۡقُرۡءَانِ
     translation: the Quran
     transliteration: l-qur'āni
   6:
-    arabic: لِيَذَّكَّرُوۡا ؕ
+    arabic: لِيَذَّكَّرُواْ
     translation: that they may take heed
     transliteration: liyadhakkarū
   7:
@@ -33,15 +33,15 @@ word_by_word:
     translation: but not
     transliteration: wamā
   8:
-    arabic: يَزِيۡدُهُمۡ
+    arabic: يَزِيدُهُمۡ
     translation: it increases them
     transliteration: yazīduhum
   9:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   10:
-    arabic: نُفُوۡرًا‏
+    arabic: نُفُورٗا
     translation: (in) aversion
     transliteration: nufūran
 ---

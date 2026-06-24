@@ -1,5 +1,5 @@
 ---
-arabic_ayat: عَلَيۡهَا تِسۡعَةَ عَشَرَؕ‏
+arabic_ayat: عَلَيۡهَا تِسۡعَةَ عَشَرَ
 sentence_translation: It is overseen by nineteen ˹keepers˺.
 word_by_word:
   1:
@@ -11,7 +11,7 @@ word_by_word:
     translation: (are) nine
     transliteration: tis'ʿata
   3:
-    arabic: عَشَرَؕ‏
+    arabic: عَشَرَ
     translation: teen
     transliteration: ʿashara
 ---

@@ -1,5 +1,5 @@
 ---
-arabic_ayat: وَهُوَ الۡغَفُوۡرُ الۡوَدُوۡدُۙ‏
+arabic_ayat: وَهُوَ ٱلۡغَفُورُ ٱلۡوَدُودُ
 sentence_translation: And He is the All-Forgiving, All-Loving—
 word_by_word:
   1:
@@ -7,11 +7,11 @@ word_by_word:
     translation: And He
     transliteration: wahuwa
   2:
-    arabic: الۡغَفُوۡرُ
+    arabic: ٱلۡغَفُورُ
     translation: (is) the Oft-Forgiving
     transliteration: l-ghafūru
   3:
-    arabic: الۡوَدُوۡدُۙ‏
+    arabic: ٱلۡوَدُودُ
     translation: the Most Loving
     transliteration: l-wadūdu
 ---

@@ -1,9 +1,9 @@
 ---
-arabic_ayat: الَّذِيۡنَ هُمۡ عَنۡ صَلَاتِهِمۡ سَاهُوۡنَۙ‏
+arabic_ayat: ٱلَّذِينَ هُمۡ عَن صَلَاتِهِمۡ سَاهُونَ
 sentence_translation: yet are unmindful of their prayers;
 word_by_word:
   1:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: Those who
     transliteration: alladhīna
   2:
@@ -11,7 +11,7 @@ word_by_word:
     translation: '[they]'
     transliteration: hum
   3:
-    arabic: عَنۡ
+    arabic: عَن
     translation: about
     transliteration: ʿan
   4:
@@ -19,7 +19,7 @@ word_by_word:
     translation: their prayers
     transliteration: ṣalātihim
   5:
-    arabic: سَاهُوۡنَۙ‏
+    arabic: سَاهُونَ
     translation: (are) neglectful
     transliteration: sāhūna
 ---

@@ -1,11 +1,11 @@
 ---
-arabic_ayat: قُلْ لَّا يَعۡلَمُ مَنۡ فِى السَّمٰوٰتِ وَالۡاَرۡضِ الۡغَيۡبَ اِلَّا
-  اللّٰهُ​ؕ وَمَا يَشۡعُرُوۡنَ اَيَّانَ يُبۡعَثُوۡنَ‏
+arabic_ayat: قُل لَّا يَعۡلَمُ مَن فِي ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِ ٱلۡغَيۡبَ إِلَّا
+  ٱللَّهُۚ وَمَا يَشۡعُرُونَ أَيَّانَ يُبۡعَثُونَ
 sentence_translation: Say, ˹O Prophet,˺ “None in the heavens and the earth has knowledge
   of the unseen except Allah. Nor do they know when they will be resurrected.
 word_by_word:
   1:
-    arabic: قُلْ
+    arabic: قُل
     translation: Say
     transliteration: qul
   2:
@@ -17,31 +17,31 @@ word_by_word:
     translation: knows
     transliteration: yaʿlamu
   4:
-    arabic: مَنۡ
+    arabic: مَن
     translation: whoever
     transliteration: man
   5:
-    arabic: فِى
+    arabic: فِي
     translation: (is) in
     transliteration: fī
   6:
-    arabic: السَّمٰوٰتِ
+    arabic: ٱلسَّمَٰوَٰتِ
     translation: the heavens
     transliteration: l-samāwāti
   7:
-    arabic: وَالۡاَرۡضِ
+    arabic: وَٱلۡأَرۡضِ
     translation: and the earth
     transliteration: wal-arḍi
   8:
-    arabic: الۡغَيۡبَ
+    arabic: ٱلۡغَيۡبَ
     translation: (of) the unseen
     transliteration: l-ghayba
   9:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   10:
-    arabic: اللّٰهُ​ؕ
+    arabic: ٱللَّهُۚ
     translation: Allah
     transliteration: l-lahu
   11:
@@ -49,15 +49,15 @@ word_by_word:
     translation: and not
     transliteration: wamā
   12:
-    arabic: يَشۡعُرُوۡنَ
+    arabic: يَشۡعُرُونَ
     translation: they perceive
     transliteration: yashʿurūna
   13:
-    arabic: اَيَّانَ
+    arabic: أَيَّانَ
     translation: when
     transliteration: ayyāna
   14:
-    arabic: يُبۡعَثُوۡنَ‏
+    arabic: يُبۡعَثُونَ
     translation: they will be resurrected
     transliteration: yub'ʿathūna
 ---

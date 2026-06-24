@@ -1,5 +1,5 @@
 ---
-arabic_ayat: تَنَزَّلُ عَلٰى كُلِّ اَفَّاكٍ اَثِيۡمٍۙ‏
+arabic_ayat: تَنَزَّلُ عَلَىٰ كُلِّ أَفَّاكٍ أَثِيمٖ
 sentence_translation: They descend upon every sinful liar,
 word_by_word:
   1:
@@ -7,7 +7,7 @@ word_by_word:
     translation: They descend
     transliteration: tanazzalu
   2:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: upon
     transliteration: ʿalā
   3:
@@ -15,11 +15,11 @@ word_by_word:
     translation: every
     transliteration: kulli
   4:
-    arabic: اَفَّاكٍ
+    arabic: أَفَّاكٍ
     translation: liar
     transliteration: affākin
   5:
-    arabic: اَثِيۡمٍۙ‏
+    arabic: أَثِيمٖ
     translation: sinful
     transliteration: athīmin
 ---

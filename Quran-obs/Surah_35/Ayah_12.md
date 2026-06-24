@@ -1,8 +1,8 @@
 ---
-arabic_ayat: وَمَا يَسۡتَوِىۡ الۡبَحۡرٰنِ ​ۖ  هٰذَا عَذۡبٌ فُرَاتٌ سَآٮِٕغٌ شَرَابُهٗ
-  وَ هٰذَا مِلۡحٌ اُجَاجٌ ؕ وَمِنۡ كُلٍّ تَاۡكُلُوۡنَ لَحۡمًا طَرِيًّا وَّتَسۡتَخۡرِجُوۡنَ
-  حِلۡيَةً تَلۡبَسُوۡنَهَا ۚ وَتَرَى الۡـفُلۡكَ فِيۡهِ مَوَاخِرَ لِتَبۡـتَـغُوۡا مِنۡ
-  فَضۡلِهٖ وَلَعَلَّـكُمۡ تَشۡكُرُوۡنَ‏
+arabic_ayat: وَمَا يَسۡتَوِي ٱلۡبَحۡرَانِ هَٰذَا عَذۡبٞ فُرَاتٞ سَآئِغٞ شَرَابُهُۥ
+  وَهَٰذَا مِلۡحٌ أُجَاجٞۖ وَمِن كُلّٖ تَأۡكُلُونَ لَحۡمٗا طَرِيّٗا وَتَسۡتَخۡرِجُونَ
+  حِلۡيَةٗ تَلۡبَسُونَهَاۖ وَتَرَى ٱلۡفُلۡكَ فِيهِ مَوَاخِرَ لِتَبۡتَغُواْ مِن فَضۡلِهِۦ
+  وَلَعَلَّكُمۡ تَشۡكُرُونَ
 sentence_translation: 'The two bodies of water are not alike: one is fresh, palatable,
   and pleasant to drink and the other is salty and bitter. Yet from them both you
   eat tender seafood and extract ornaments to wear. And you see the ships ploughing
@@ -13,35 +13,35 @@ word_by_word:
     translation: And not
     transliteration: wamā
   2:
-    arabic: يَسۡتَوِىۡ
+    arabic: يَسۡتَوِي
     translation: are alike
     transliteration: yastawī
   3:
-    arabic: الۡبَحۡرٰنِ ​ۖ 
+    arabic: ٱلۡبَحۡرَانِ
     translation: the two seas
     transliteration: l-baḥrāni
   4:
-    arabic: هٰذَا
+    arabic: هَٰذَا
     translation: This
     transliteration: hādhā
   5:
-    arabic: عَذۡبٌ
+    arabic: عَذۡبٞ
     translation: (is) fresh
     transliteration: ʿadhbun
   6:
-    arabic: فُرَاتٌ
+    arabic: فُرَاتٞ
     translation: sweet
     transliteration: furātun
   7:
-    arabic: سَآٮِٕغٌ
+    arabic: سَآئِغٞ
     translation: pleasant
     transliteration: sāighun
   8:
-    arabic: شَرَابُهٗ
+    arabic: شَرَابُهُۥ
     translation: its drink
     transliteration: sharābuhu
   9:
-    arabic: وَ هٰذَا
+    arabic: وَهَٰذَا
     translation: and this
     transliteration: wahādhā
   10:
@@ -49,39 +49,39 @@ word_by_word:
     translation: salty
     transliteration: mil'ḥun
   11:
-    arabic: اُجَاجٌ ؕ
+    arabic: أُجَاجٞۖ
     translation: (and) bitter
     transliteration: ujājun
   12:
-    arabic: وَمِنۡ
+    arabic: وَمِن
     translation: And from
     transliteration: wamin
   13:
-    arabic: كُلٍّ
+    arabic: كُلّٖ
     translation: each
     transliteration: kullin
   14:
-    arabic: تَاۡكُلُوۡنَ
+    arabic: تَأۡكُلُونَ
     translation: you eat
     transliteration: takulūna
   15:
-    arabic: لَحۡمًا
+    arabic: لَحۡمٗا
     translation: meat
     transliteration: laḥman
   16:
-    arabic: طَرِيًّا
+    arabic: طَرِيّٗا
     translation: fresh
     transliteration: ṭariyyan
   17:
-    arabic: وَّتَسۡتَخۡرِجُوۡنَ
+    arabic: وَتَسۡتَخۡرِجُونَ
     translation: and you extract
     transliteration: watastakhrijūna
   18:
-    arabic: حِلۡيَةً
+    arabic: حِلۡيَةٗ
     translation: ornaments
     transliteration: ḥil'yatan
   19:
-    arabic: تَلۡبَسُوۡنَهَا ۚ
+    arabic: تَلۡبَسُونَهَاۖ
     translation: you wear them
     transliteration: talbasūnahā
   20:
@@ -89,11 +89,11 @@ word_by_word:
     translation: and you see
     transliteration: watarā
   21:
-    arabic: الۡـفُلۡكَ
+    arabic: ٱلۡفُلۡكَ
     translation: the ships
     transliteration: l-ful'ka
   22:
-    arabic: فِيۡهِ
+    arabic: فِيهِ
     translation: in it
     transliteration: fīhi
   23:
@@ -101,23 +101,23 @@ word_by_word:
     translation: cleaving
     transliteration: mawākhira
   24:
-    arabic: لِتَبۡـتَـغُوۡا
+    arabic: لِتَبۡتَغُواْ
     translation: so that you may seek
     transliteration: litabtaghū
   25:
-    arabic: مِنۡ
+    arabic: مِن
     translation: of
     transliteration: min
   26:
-    arabic: فَضۡلِهٖ
+    arabic: فَضۡلِهِۦ
     translation: His Bounty
     transliteration: faḍlihi
   27:
-    arabic: وَلَعَلَّـكُمۡ
+    arabic: وَلَعَلَّكُمۡ
     translation: and that you may
     transliteration: walaʿallakum
   28:
-    arabic: تَشۡكُرُوۡنَ‏
+    arabic: تَشۡكُرُونَ
     translation: be grateful
     transliteration: tashkurūna
 ---

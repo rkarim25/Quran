@@ -1,6 +1,6 @@
 ---
-arabic_ayat: وَلَا تَرۡكَنُوۡۤا اِلَى الَّذِيۡنَ ظَلَمُوۡا فَتَمَسَّكُمُ النَّارُۙ
-  وَمَا لَـكُمۡ مِّنۡ دُوۡنِ اللّٰهِ مِنۡ اَوۡلِيَآءَ ثُمَّ لَا تُنۡصَرُوۡنَ‏
+arabic_ayat: وَلَا تَرۡكَنُوٓاْ إِلَى ٱلَّذِينَ ظَلَمُواْ فَتَمَسَّكُمُ ٱلنَّارُ وَمَا
+  لَكُم مِّن دُونِ ٱللَّهِ مِنۡ أَوۡلِيَآءَ ثُمَّ لَا تُنصَرُونَ
 sentence_translation: And do not be inclined to the wrongdoers or you will be touched
   by the Fire. For then you would have no protectors other than Allah, nor would you
   be helped.
@@ -10,19 +10,19 @@ word_by_word:
     translation: And (do) not
     transliteration: walā
   2:
-    arabic: تَرۡكَنُوۡۤا
+    arabic: تَرۡكَنُوٓاْ
     translation: incline
     transliteration: tarkanū
   3:
-    arabic: اِلَى
+    arabic: إِلَى
     translation: to
     transliteration: ilā
   4:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   5:
-    arabic: ظَلَمُوۡا
+    arabic: ظَلَمُواْ
     translation: do wrong
     transliteration: ẓalamū
   6:
@@ -30,7 +30,7 @@ word_by_word:
     translation: lest touches you
     transliteration: fatamassakumu
   7:
-    arabic: النَّارُۙ
+    arabic: ٱلنَّارُ
     translation: the Fire
     transliteration: l-nāru
   8:
@@ -38,19 +38,19 @@ word_by_word:
     translation: and not
     transliteration: wamā
   9:
-    arabic: لَـكُمۡ
+    arabic: لَكُم
     translation: (is) for you
     transliteration: lakum
   10:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: besides Allah
     transliteration: min
   11:
-    arabic: دُوۡنِ
+    arabic: دُونِ
     translation: besides Allah
     transliteration: dūni
   12:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: besides Allah
     transliteration: l-lahi
   13:
@@ -58,7 +58,7 @@ word_by_word:
     translation: any
     transliteration: min
   14:
-    arabic: اَوۡلِيَآءَ
+    arabic: أَوۡلِيَآءَ
     translation: protectors
     transliteration: awliyāa
   15:
@@ -70,7 +70,7 @@ word_by_word:
     translation: not
     transliteration: lā
   17:
-    arabic: تُنۡصَرُوۡنَ‏
+    arabic: تُنصَرُونَ
     translation: you will be helped
     transliteration: tunṣarūna
 ---

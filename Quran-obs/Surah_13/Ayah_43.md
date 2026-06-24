@@ -1,20 +1,20 @@
 ---
-arabic_ayat: وَيَقُوۡلُ الَّذِيۡنَ كَفَرُوۡا لَسۡتَ مُرۡسَلًا​ ؕ قُلۡ كَفٰى بِاللّٰهِ
-  شَهِيۡدًۢا بَيۡنِىۡ وَبَيۡنَكُمۡۙ وَمَنۡ عِنۡدَهٗ عِلۡمُ الۡكِتٰبِ‏
+arabic_ayat: وَيَقُولُ ٱلَّذِينَ كَفَرُواْ لَسۡتَ مُرۡسَلٗاۚ قُلۡ كَفَىٰ بِٱللَّهِ
+  شَهِيدَۢا بَيۡنِي وَبَيۡنَكُمۡ وَمَنۡ عِندَهُۥ عِلۡمُ ٱلۡكِتَٰبِ
 sentence_translation: The disbelievers say, “You ˹Muḥammad˺ are no messenger.” Say,
   ˹O Prophet,˺ “Allah is sufficient as a Witness between me and you, as is whoever
   has knowledge of the Scripture.”
 word_by_word:
   1:
-    arabic: وَيَقُوۡلُ
+    arabic: وَيَقُولُ
     translation: And say
     transliteration: wayaqūlu
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   3:
-    arabic: كَفَرُوۡا
+    arabic: كَفَرُواْ
     translation: disbelieve
     transliteration: kafarū
   4:
@@ -22,7 +22,7 @@ word_by_word:
     translation: You are not
     transliteration: lasta
   5:
-    arabic: مُرۡسَلًا​ ؕ
+    arabic: مُرۡسَلٗاۚ
     translation: a Messenger
     transliteration: mur'salan
   6:
@@ -30,23 +30,23 @@ word_by_word:
     translation: Say
     transliteration: qul
   7:
-    arabic: كَفٰى
+    arabic: كَفَىٰ
     translation: Sufficient
     transliteration: kafā
   8:
-    arabic: بِاللّٰهِ
+    arabic: بِٱللَّهِ
     translation: (is) Allah
     transliteration: bil-lahi
   9:
-    arabic: شَهِيۡدًۢا
+    arabic: شَهِيدَۢا
     translation: (as) a Witness
     transliteration: shahīdan
   10:
-    arabic: بَيۡنِىۡ
+    arabic: بَيۡنِي
     translation: between me
     transliteration: baynī
   11:
-    arabic: وَبَيۡنَكُمۡۙ
+    arabic: وَبَيۡنَكُمۡ
     translation: and between you
     transliteration: wabaynakum
   12:
@@ -54,7 +54,7 @@ word_by_word:
     translation: and whoever
     transliteration: waman
   13:
-    arabic: عِنۡدَهٗ
+    arabic: عِندَهُۥ
     translation: '[he] has'
     transliteration: ʿindahu
   14:
@@ -62,7 +62,7 @@ word_by_word:
     translation: knowledge
     transliteration: ʿil'mu
   15:
-    arabic: الۡكِتٰبِ‏
+    arabic: ٱلۡكِتَٰبِ
     translation: (of) the Book
     transliteration: l-kitābi
 ---

@@ -1,20 +1,20 @@
 ---
-arabic_ayat: وَجَعَلُوا الۡمَلٰٓٮِٕكَةَ الَّذِيۡنَ هُمۡ عِبَادُ الرَّحۡمٰنِ اِنَاثًا​
-  ؕ اَشَهِدُوۡا خَلۡقَهُمۡ​ ؕ سَتُكۡتَبُ شَهَادَتُهُمۡ وَيُسۡـَٔــلُوۡنَ‏
+arabic_ayat: وَجَعَلُواْ ٱلۡمَلَٰٓئِكَةَ ٱلَّذِينَ هُمۡ عِبَٰدُ ٱلرَّحۡمَٰنِ إِنَٰثًاۚ
+  أَشَهِدُواْ خَلۡقَهُمۡۚ سَتُكۡتَبُ شَهَٰدَتُهُمۡ وَيُسۡـَٔلُونَ
 sentence_translation: Still they have labelled the angels, who are servants of the
   Most Compassionate, as female. Did they witness their creation? Their statement
   will be recorded, and they will be questioned!
 word_by_word:
   1:
-    arabic: وَجَعَلُوا
+    arabic: وَجَعَلُواْ
     translation: And they made
     transliteration: wajaʿalū
   2:
-    arabic: الۡمَلٰٓٮِٕكَةَ
+    arabic: ٱلۡمَلَٰٓئِكَةَ
     translation: the Angels
     transliteration: l-malāikata
   3:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   4:
@@ -22,23 +22,23 @@ word_by_word:
     translation: themselves
     transliteration: hum
   5:
-    arabic: عِبَادُ
+    arabic: عِبَٰدُ
     translation: (are) slaves
     transliteration: ʿibādu
   6:
-    arabic: الرَّحۡمٰنِ
+    arabic: ٱلرَّحۡمَٰنِ
     translation: (of) the Most Gracious
     transliteration: l-raḥmāni
   7:
-    arabic: اِنَاثًا​ ؕ
+    arabic: إِنَٰثًاۚ
     translation: females
     transliteration: ināthan
   8:
-    arabic: اَشَهِدُوۡا
+    arabic: أَشَهِدُواْ
     translation: Did they witness
     transliteration: ashahidū
   9:
-    arabic: خَلۡقَهُمۡ​ ؕ
+    arabic: خَلۡقَهُمۡۚ
     translation: their creation
     transliteration: khalqahum
   10:
@@ -46,11 +46,11 @@ word_by_word:
     translation: Will be recorded
     transliteration: satuk'tabu
   11:
-    arabic: شَهَادَتُهُمۡ
+    arabic: شَهَٰدَتُهُمۡ
     translation: their testimony
     transliteration: shahādatuhum
   12:
-    arabic: وَيُسۡـَٔــلُوۡنَ‏
+    arabic: وَيُسۡـَٔلُونَ
     translation: and they will be questioned
     transliteration: wayus'alūna
 ---

@@ -1,57 +1,57 @@
 ---
-arabic_ayat: اِنَّ الَّذِيۡنَ اٰمَنُوۡا وَالَّذِيۡنَ هَادُوۡا وَالصَّابِـُٔـوۡنَ وَالنَّصٰرٰى
-  مَنۡ اٰمَنَ بِاللّٰهِ وَالۡيَوۡمِ الۡاٰخِرِ وَعَمِلَ صَالِحًـا فَلَا خَوۡفٌ عَلَيۡهِمۡ
-  وَلَا هُمۡ يَحۡزَنُوۡنَ‏
+arabic_ayat: إِنَّ ٱلَّذِينَ ءَامَنُواْ وَٱلَّذِينَ هَادُواْ وَٱلصَّٰبِـُٔونَ وَٱلنَّصَٰرَىٰ
+  مَنۡ ءَامَنَ بِٱللَّهِ وَٱلۡيَوۡمِ ٱلۡأٓخِرِ وَعَمِلَ صَٰلِحٗا فَلَا خَوۡفٌ عَلَيۡهِمۡ
+  وَلَا هُمۡ يَحۡزَنُونَ
 sentence_translation: Indeed, the believers, Jews, Sabians and Christians—whoever
   ˹truly˺ believes in Allah and the Last Day and does good, there will be no fear
   for them, nor will they grieve.
 word_by_word:
   1:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ ءَ
     translation: those who
     transliteration: alladhīna
   3:
-    arabic: اٰمَنُوۡا
+    arabic: امَنُواْ
     translation: believed
     transliteration: āmanū
   4:
-    arabic: وَالَّذِيۡنَ
+    arabic: وَٱلَّذِينَ
     translation: and those who
     transliteration: wa-alladhīna
   5:
-    arabic: هَادُوۡا
+    arabic: هَادُواْ
     translation: became Jews
     transliteration: hādū
   6:
-    arabic: وَالصَّابِـُٔـوۡنَ
+    arabic: وَٱلصَّٰبِـُٔونَ
     translation: and the Sabians
     transliteration: wal-ṣābiūna
   7:
-    arabic: وَالنَّصٰرٰى
+    arabic: وَٱلنَّصَٰرَىٰ
     translation: and the Christians
     transliteration: wal-naṣārā
   8:
-    arabic: مَنۡ
+    arabic: مَنۡ ءَ
     translation: whoever
     transliteration: man
   9:
-    arabic: اٰمَنَ
+    arabic: امَنَ
     translation: believed
     transliteration: āmana
   10:
-    arabic: بِاللّٰهِ
+    arabic: بِٱللَّهِ
     translation: in Allah
     transliteration: bil-lahi
   11:
-    arabic: وَالۡيَوۡمِ
+    arabic: وَٱلۡيَوۡمِ
     translation: and the Day
     transliteration: wal-yawmi
   12:
-    arabic: الۡاٰخِرِ
+    arabic: ٱلۡأٓخِرِ
     translation: the Last
     transliteration: l-ākhiri
   13:
@@ -59,7 +59,7 @@ word_by_word:
     translation: and did
     transliteration: waʿamila
   14:
-    arabic: صَالِحًـا
+    arabic: صَٰلِحٗا
     translation: good deeds
     transliteration: ṣāliḥan
   15:
@@ -83,7 +83,7 @@ word_by_word:
     translation: they
     transliteration: hum
   20:
-    arabic: يَحۡزَنُوۡنَ‏
+    arabic: يَحۡزَنُونَ
     translation: will grieve
     transliteration: yaḥzanūna
 ---

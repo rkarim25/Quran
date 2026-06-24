@@ -1,37 +1,37 @@
 ---
-arabic_ayat: وَاَوۡحَيۡنَاۤ اِلٰٓى اُمِّ مُوۡسٰٓى اَنۡ اَرۡضِعِيۡهِ​ۚ فَاِذَا خِفۡتِ
-  عَلَيۡهِ فَاَ لۡقِيۡهِ فِى الۡيَمِّ وَلَا تَخَافِىۡ وَلَا تَحۡزَنِىۡۚ اِنَّا رَآدُّوۡهُ
-  اِلَيۡكِ وَجٰعِلُوۡهُ مِنَ الۡمُرۡسَلِيۡنَ‏
+arabic_ayat: وَأَوۡحَيۡنَآ إِلَىٰٓ أُمِّ مُوسَىٰٓ أَنۡ أَرۡضِعِيهِۖ فَإِذَا خِفۡتِ
+  عَلَيۡهِ فَأَلۡقِيهِ فِي ٱلۡيَمِّ وَلَا تَخَافِي وَلَا تَحۡزَنِيٓۖ إِنَّا رَآدُّوهُ
+  إِلَيۡكِ وَجَاعِلُوهُ مِنَ ٱلۡمُرۡسَلِينَ
 sentence_translation: 'We inspired the mother of Moses: “Nurse him, but when you fear
   for him, put him then into the river, and do not fear or grieve. We will certainly
   return him to you, and make him one of the messengers.”'
 word_by_word:
   1:
-    arabic: وَاَوۡحَيۡنَاۤ
+    arabic: وَأَوۡحَيۡنَآ
     translation: And We inspired
     transliteration: wa-awḥaynā
   2:
-    arabic: اِلٰٓى
+    arabic: إِلَىٰٓ
     translation: '[to]'
     transliteration: ilā
   3:
-    arabic: اُمِّ
+    arabic: أُمِّ
     translation: (the) mother
     transliteration: ummi
   4:
-    arabic: مُوۡسٰٓى
+    arabic: مُوسَىٰٓ
     translation: (of) Musa
     transliteration: mūsā
   5:
-    arabic: اَنۡ
+    arabic: أَنۡ
     translation: that
     transliteration: an
   6:
-    arabic: اَرۡضِعِيۡهِ​ۚ
+    arabic: أَرۡضِعِيهِۖ
     translation: Suckle him
     transliteration: arḍiʿīhi
   7:
-    arabic: فَاِذَا
+    arabic: فَإِذَا
     translation: but when
     transliteration: fa-idhā
   8:
@@ -43,15 +43,15 @@ word_by_word:
     translation: for him
     transliteration: ʿalayhi
   10:
-    arabic: فَاَ لۡقِيۡهِ
+    arabic: فَأَلۡقِيهِ
     translation: then cast him
     transliteration: fa-alqīhi
   11:
-    arabic: فِى
+    arabic: فِي
     translation: in(to)
     transliteration: fī
   12:
-    arabic: الۡيَمِّ
+    arabic: ٱلۡيَمِّ
     translation: the river
     transliteration: l-yami
   13:
@@ -59,7 +59,7 @@ word_by_word:
     translation: and (do) not
     transliteration: walā
   14:
-    arabic: تَخَافِىۡ
+    arabic: تَخَافِي
     translation: fear
     transliteration: takhāfī
   15:
@@ -67,23 +67,23 @@ word_by_word:
     translation: and (do) not
     transliteration: walā
   16:
-    arabic: تَحۡزَنِىۡۚ
+    arabic: تَحۡزَنِيٓۖ
     translation: grieve
     transliteration: taḥzanī
   17:
-    arabic: اِنَّا
+    arabic: إِنَّا
     translation: Indeed, We
     transliteration: innā
   18:
-    arabic: رَآدُّوۡهُ
+    arabic: رَآدُّوهُ
     translation: (will) restore him
     transliteration: rāddūhu
   19:
-    arabic: اِلَيۡكِ
+    arabic: إِلَيۡكِ
     translation: to you
     transliteration: ilayki
   20:
-    arabic: وَجٰعِلُوۡهُ
+    arabic: وَجَاعِلُوهُ
     translation: and (will) make him
     transliteration: wajāʿilūhu
   21:
@@ -91,7 +91,7 @@ word_by_word:
     translation: of
     transliteration: mina
   22:
-    arabic: الۡمُرۡسَلِيۡنَ‏
+    arabic: ٱلۡمُرۡسَلِينَ
     translation: the Messengers
     transliteration: l-mur'salīna
 ---

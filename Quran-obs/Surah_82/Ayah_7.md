@@ -1,9 +1,9 @@
 ---
-arabic_ayat: الَّذِىۡ خَلَقَكَ فَسَوّٰٮكَ فَعَدَلَـكَۙ‏
+arabic_ayat: ٱلَّذِي خَلَقَكَ فَسَوَّىٰكَ فَعَدَلَكَ
 sentence_translation: Who created you, fashioned you, and perfected your design,
 word_by_word:
   1:
-    arabic: الَّذِىۡ
+    arabic: ٱلَّذِي
     translation: Who
     transliteration: alladhī
   2:
@@ -11,11 +11,11 @@ word_by_word:
     translation: created you
     transliteration: khalaqaka
   3:
-    arabic: فَسَوّٰٮكَ
+    arabic: فَسَوَّىٰكَ
     translation: then fashioned you
     transliteration: fasawwāka
   4:
-    arabic: فَعَدَلَـكَۙ‏
+    arabic: فَعَدَلَكَ
     translation: then balanced you
     transliteration: faʿadalaka
 ---

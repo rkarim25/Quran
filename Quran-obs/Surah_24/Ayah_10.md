@@ -1,6 +1,6 @@
 ---
-arabic_ayat: وَلَوۡلَا فَضۡلُ اللّٰهِ عَلَيۡكُمۡ وَرَحۡمَتُهٗ وَاَنَّ اللّٰهَ تَوَّابٌ
-  حَكِيۡمٌ‏
+arabic_ayat: وَلَوۡلَا فَضۡلُ ٱللَّهِ عَلَيۡكُمۡ وَرَحۡمَتُهُۥ وَأَنَّ ٱللَّهَ تَوَّابٌ
+  حَكِيمٌ
 sentence_translation: ˹You would have suffered,˺ had it not been for Allah’s grace
   and mercy upon you, and had Allah not been Accepting of Repentance, All-Wise.
 word_by_word:
@@ -13,7 +13,7 @@ word_by_word:
     translation: (for) the Grace of Allah
     transliteration: faḍlu
   3:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (for) the Grace of Allah
     transliteration: l-lahi
   4:
@@ -21,15 +21,15 @@ word_by_word:
     translation: upon you
     transliteration: ʿalaykum
   5:
-    arabic: وَرَحۡمَتُهٗ
+    arabic: وَرَحۡمَتُهُۥ
     translation: 'and His Mercy '
     transliteration: waraḥmatuhu
   6:
-    arabic: وَاَنَّ
+    arabic: وَأَنَّ
     translation: and that
     transliteration: wa-anna
   7:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   8:
@@ -37,7 +37,7 @@ word_by_word:
     translation: (is) Oft-Returning (to Mercy)
     transliteration: tawwābun
   9:
-    arabic: حَكِيۡمٌ‏
+    arabic: حَكِيمٌ
     translation: All-Wise
     transliteration: ḥakīmun
 ---

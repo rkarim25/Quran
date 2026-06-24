@@ -1,5 +1,5 @@
 ---
-arabic_ayat: وَرَبَّكَ فَكَبِّرۡۙ‏
+arabic_ayat: وَرَبَّكَ فَكَبِّرۡ
 sentence_translation: Revere your Lord ˹alone˺.
 word_by_word:
   1:
@@ -7,7 +7,7 @@ word_by_word:
     translation: And your Lord
     transliteration: warabbaka
   2:
-    arabic: فَكَبِّرۡۙ‏
+    arabic: فَكَبِّرۡ
     translation: magnify
     transliteration: fakabbir
 ---

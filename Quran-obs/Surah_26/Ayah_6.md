@@ -1,6 +1,5 @@
 ---
-arabic_ayat: "فَقَدۡ كَذَّبُوۡا فَسَيَاۡتِيۡهِمۡ اَنۡۢـبٰٓــؤُا مَا كَانُوۡا بِهٖ\
-  \ يَسۡتَهۡزِءُوۡنَ‏ \uFEFF\uFEFF"
+arabic_ayat: فَقَدۡ كَذَّبُواْ فَسَيَأۡتِيهِمۡ أَنۢبَٰٓؤُاْ مَا كَانُواْ بِهِۦ يَسۡتَهۡزِءُونَ
 sentence_translation: They have certainly denied ˹the truth˺, so they will soon face
   the consequences of their ridicule.
 word_by_word:
@@ -9,15 +8,15 @@ word_by_word:
     translation: So verily
     transliteration: faqad
   2:
-    arabic: كَذَّبُوۡا
+    arabic: كَذَّبُواْ
     translation: they have denied
     transliteration: kadhabū
   3:
-    arabic: فَسَيَاۡتِيۡهِمۡ
+    arabic: فَسَيَأۡتِيهِمۡ
     translation: then will come to them
     transliteration: fasayatīhim
   4:
-    arabic: اَنۡۢـبٰٓــؤُا
+    arabic: أَنۢبَٰٓؤُاْ
     translation: the news
     transliteration: anbāu
   5:
@@ -25,15 +24,15 @@ word_by_word:
     translation: (of) what
     transliteration: mā
   6:
-    arabic: كَانُوۡا
+    arabic: كَانُواْ
     translation: they used
     transliteration: kānū
   7:
-    arabic: بِهٖ
+    arabic: بِهِۦ
     translation: at it
     transliteration: bihi
   8:
-    arabic: "يَسۡتَهۡزِءُوۡنَ‏ \uFEFF\uFEFF"
+    arabic: يَسۡتَهۡزِءُونَ
     translation: (to) mock
     transliteration: yastahziūna
 ---

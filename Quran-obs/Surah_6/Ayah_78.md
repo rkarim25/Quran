@@ -1,6 +1,6 @@
 ---
-arabic_ayat: فَلَمَّا رَاٰ الشَّمۡسَ بَازِغَةً قَالَ هٰذَا رَبِّىۡ هٰذَاۤ اَكۡبَرُ​ۚ
-  فَلَمَّاۤ اَفَلَتۡ قَالَ يٰقَوۡمِ اِنِّىۡ بَرِىۡٓءٌ مِّمَّا تُشۡرِكُوۡنَ‏
+arabic_ayat: فَلَمَّا رَءَا ٱلشَّمۡسَ بَازِغَةٗ قَالَ هَٰذَا رَبِّي هَٰذَآ أَكۡبَرُۖ
+  فَلَمَّآ أَفَلَتۡ قَالَ يَٰقَوۡمِ إِنِّي بَرِيٓءٞ مِّمَّا تُشۡرِكُونَ
 sentence_translation: Then when he saw the sun shining, he said, “This must be my
   Lord—it is the greatest!” But again when it set, he declared, “O my people! I totally
   reject whatever you associate ˹with Allah in worship˺.
@@ -10,15 +10,15 @@ word_by_word:
     translation: When
     transliteration: falammā
   2:
-    arabic: رَاٰ
+    arabic: رَءَا
     translation: he saw
     transliteration: raā
   3:
-    arabic: الشَّمۡسَ
+    arabic: ٱلشَّمۡسَ
     translation: the sun
     transliteration: l-shamsa
   4:
-    arabic: بَازِغَةً
+    arabic: بَازِغَةٗ
     translation: rising
     transliteration: bāzighatan
   5:
@@ -26,27 +26,27 @@ word_by_word:
     translation: he said
     transliteration: qāla
   6:
-    arabic: هٰذَا
+    arabic: هَٰذَا
     translation: This (is)
     transliteration: hādhā
   7:
-    arabic: رَبِّىۡ
+    arabic: رَبِّي
     translation: my Lord
     transliteration: rabbī
   8:
-    arabic: هٰذَاۤ
+    arabic: هَٰذَآ
     translation: this (is)
     transliteration: hādhā
   9:
-    arabic: اَكۡبَرُ​ۚ
+    arabic: أَكۡبَرُۖ
     translation: greater
     transliteration: akbaru
   10:
-    arabic: فَلَمَّاۤ
+    arabic: فَلَمَّآ
     translation: But when
     transliteration: falammā
   11:
-    arabic: اَفَلَتۡ
+    arabic: أَفَلَتۡ
     translation: it set
     transliteration: afalat
   12:
@@ -54,15 +54,15 @@ word_by_word:
     translation: he said
     transliteration: qāla
   13:
-    arabic: يٰقَوۡمِ
+    arabic: يَٰقَوۡمِ
     translation: O my people
     transliteration: yāqawmi
   14:
-    arabic: اِنِّىۡ
+    arabic: إِنِّي
     translation: Indeed, I am
     transliteration: innī
   15:
-    arabic: بَرِىۡٓءٌ
+    arabic: بَرِيٓءٞ
     translation: free
     transliteration: barīon
   16:
@@ -70,7 +70,7 @@ word_by_word:
     translation: of what
     transliteration: mimmā
   17:
-    arabic: تُشۡرِكُوۡنَ‏
+    arabic: تُشۡرِكُونَ
     translation: you associate (with Allah)
     transliteration: tush'rikūna
 ---

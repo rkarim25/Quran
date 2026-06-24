@@ -1,8 +1,8 @@
 ---
-arabic_ayat: وَقُلِ الۡحَـقُّ مِنۡ رَّبِّكُمۡ​ فَمَنۡ شَآءَ فَلۡيُؤۡمِنۡ وَّمَنۡ
-  شَآءَ فَلۡيَكۡفُرۡ ​ۙاِنَّاۤ اَعۡتَدۡنَا لِلظّٰلِمِيۡنَ نَارًا ۙ اَحَاطَ بِهِمۡ
-  سُرَادِقُهَا​ ؕ وَاِنۡ يَّسۡتَغِيۡثُوۡا يُغَاثُوۡا بِمَآءٍ كَالۡمُهۡلِ يَشۡوِى
-  الۡوُجُوۡهَ​ؕ بِئۡسَ الشَّرَابُ وَسَآءَتۡ مُرۡتَفَقًا‏
+arabic_ayat: وَقُلِ ٱلۡحَقُّ مِن رَّبِّكُمۡۖ فَمَن شَآءَ فَلۡيُؤۡمِن وَمَن شَآءَ
+  فَلۡيَكۡفُرۡۚ إِنَّآ أَعۡتَدۡنَا لِلظَّٰلِمِينَ نَارًا أَحَاطَ بِهِمۡ سُرَادِقُهَاۚ
+  وَإِن يَسۡتَغِيثُواْ يُغَاثُواْ بِمَآءٖ كَٱلۡمُهۡلِ يَشۡوِي ٱلۡوُجُوهَۚ بِئۡسَ
+  ٱلشَّرَابُ وَسَآءَتۡ مُرۡتَفَقًا
 sentence_translation: And say, ˹O Prophet,˺ “˹This is˺ the truth from your Lord. Whoever
   wills let them believe, and whoever wills let them disbelieve.” Surely We have prepared
   for the wrongdoers a Fire whose walls will ˹completely˺ surround them. When they
@@ -14,19 +14,19 @@ word_by_word:
     translation: And say
     transliteration: waquli
   2:
-    arabic: الۡحَـقُّ
+    arabic: ٱلۡحَقُّ
     translation: The truth
     transliteration: l-ḥaqu
   3:
-    arabic: مِنۡ
+    arabic: مِن
     translation: (is) from
     transliteration: min
   4:
-    arabic: رَّبِّكُمۡ​
+    arabic: رَّبِّكُمۡۖ
     translation: your Lord
     transliteration: rabbikum
   5:
-    arabic: فَمَنۡ
+    arabic: فَمَن
     translation: so whoever
     transliteration: faman
   6:
@@ -34,11 +34,11 @@ word_by_word:
     translation: 'wills '
     transliteration: shāa
   7:
-    arabic: فَلۡيُؤۡمِنۡ
+    arabic: فَلۡيُؤۡمِن
     translation: let him believe
     transliteration: falyu'min
   8:
-    arabic: وَّمَنۡ
+    arabic: وَمَن
     translation: and whoever
     transliteration: waman
   9:
@@ -46,27 +46,27 @@ word_by_word:
     translation: 'wills '
     transliteration: shāa
   10:
-    arabic: فَلۡيَكۡفُرۡ ​ۙ
+    arabic: فَلۡيَكۡفُرۡۚ
     translation: let him disbelieve
     transliteration: falyakfur
   11:
-    arabic: اِنَّاۤ
+    arabic: إِنَّآ
     translation: Indeed, We
     transliteration: innā
   12:
-    arabic: اَعۡتَدۡنَا
+    arabic: أَعۡتَدۡنَا
     translation: have prepared
     transliteration: aʿtadnā
   13:
-    arabic: لِلظّٰلِمِيۡنَ
+    arabic: لِلظَّٰلِمِينَ
     translation: for the wrongdoers
     transliteration: lilẓẓālimīna
   14:
-    arabic: نَارًا ۙ
+    arabic: نَارًا
     translation: a Fire
     transliteration: nāran
   15:
-    arabic: اَحَاطَ
+    arabic: أَحَاطَ
     translation: will surround
     transliteration: aḥāṭa
   16:
@@ -74,35 +74,35 @@ word_by_word:
     translation: them
     transliteration: bihim
   17:
-    arabic: سُرَادِقُهَا​ ؕ
+    arabic: سُرَادِقُهَاۚ
     translation: its walls
     transliteration: surādiquhā
   18:
-    arabic: وَاِنۡ
+    arabic: وَإِن
     translation: And if
     transliteration: wa-in
   19:
-    arabic: يَّسۡتَغِيۡثُوۡا
+    arabic: يَسۡتَغِيثُواْ
     translation: they call for relief
     transliteration: yastaghīthū
   20:
-    arabic: يُغَاثُوۡا
+    arabic: يُغَاثُواْ
     translation: they will be relieved
     transliteration: yughāthū
   21:
-    arabic: بِمَآءٍ
+    arabic: بِمَآءٖ
     translation: with water
     transliteration: bimāin
   22:
-    arabic: كَالۡمُهۡلِ
+    arabic: كَٱلۡمُهۡلِ
     translation: like molten brass
     transliteration: kal-muh'li
   23:
-    arabic: يَشۡوِى
+    arabic: يَشۡوِي
     translation: (which) scalds
     transliteration: yashwī
   24:
-    arabic: الۡوُجُوۡهَ​ؕ
+    arabic: ٱلۡوُجُوهَۚ
     translation: the faces
     transliteration: l-wujūha
   25:
@@ -110,7 +110,7 @@ word_by_word:
     translation: Wretched
     transliteration: bi'sa
   26:
-    arabic: الشَّرَابُ
+    arabic: ٱلشَّرَابُ
     translation: (is) the drink
     transliteration: l-sharābu
   27:
@@ -118,7 +118,7 @@ word_by_word:
     translation: and evil
     transliteration: wasāat
   28:
-    arabic: مُرۡتَفَقًا‏
+    arabic: مُرۡتَفَقًا
     translation: (is) the resting place
     transliteration: mur'tafaqan
 ---

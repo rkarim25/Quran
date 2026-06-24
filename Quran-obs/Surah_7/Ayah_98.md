@@ -1,43 +1,42 @@
 ---
-arabic_ayat: "اَوَاَمِنَ اَهۡلُ الۡقُرٰٓى اَنۡ يَّاۡتِيَهُمۡ بَاۡسُنَا ضُحًى وَّهُمۡ\
-  \ يَلۡعَبُوۡنَ‏ \uFEFF\uFEFF"
+arabic_ayat: أَوَأَمِنَ أَهۡلُ ٱلۡقُرَىٰٓ أَن يَأۡتِيَهُم بَأۡسُنَا ضُحٗى وَهُمۡ يَلۡعَبُونَ
 sentence_translation: Or did they feel secure that Our punishment would not come upon
   them by day while they were at play?
 word_by_word:
   1:
-    arabic: اَوَاَمِنَ
+    arabic: أَوَأَمِنَ
     translation: Or felt secure
     transliteration: awa-amina
   2:
-    arabic: اَهۡلُ
+    arabic: أَهۡلُ
     translation: (the) people
     transliteration: ahlu
   3:
-    arabic: الۡقُرٰٓى
+    arabic: ٱلۡقُرَىٰٓ
     translation: (of) the cities
     transliteration: l-qurā
   4:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that
     transliteration: an
   5:
-    arabic: يَّاۡتِيَهُمۡ
+    arabic: يَأۡتِيَهُم
     translation: comes to them
     transliteration: yatiyahum
   6:
-    arabic: بَاۡسُنَا
+    arabic: بَأۡسُنَا
     translation: Our punishment
     transliteration: basunā
   7:
-    arabic: ضُحًى
+    arabic: ضُحٗى
     translation: (in) daylight
     transliteration: ḍuḥan
   8:
-    arabic: وَّهُمۡ
+    arabic: وَهُمۡ
     translation: while they
     transliteration: wahum
   9:
-    arabic: "يَلۡعَبُوۡنَ‏ \uFEFF\uFEFF"
+    arabic: يَلۡعَبُونَ
     translation: (were) playing
     transliteration: yalʿabūna
 ---

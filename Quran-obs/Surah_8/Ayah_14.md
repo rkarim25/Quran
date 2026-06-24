@@ -1,22 +1,22 @@
 ---
-arabic_ayat: ذٰ لِكُمۡ فَذُوۡقُوۡهُ وَاَنَّ لِلۡكٰفِرِيۡنَ عَذَابَ النَّارِ‏
+arabic_ayat: ذَٰلِكُمۡ فَذُوقُوهُ وَأَنَّ لِلۡكَٰفِرِينَ عَذَابَ ٱلنَّارِ
 sentence_translation: That ˹worldly punishment˺ is yours, so taste it! Then the disbelievers
   will suffer the torment of the Fire.
 word_by_word:
   1:
-    arabic: ذٰ لِكُمۡ
+    arabic: ذَٰلِكُمۡ
     translation: 'That '
     transliteration: dhālikum
   2:
-    arabic: فَذُوۡقُوۡهُ
+    arabic: فَذُوقُوهُ
     translation: So taste it
     transliteration: fadhūqūhu
   3:
-    arabic: وَاَنَّ
+    arabic: وَأَنَّ
     translation: And that
     transliteration: wa-anna
   4:
-    arabic: لِلۡكٰفِرِيۡنَ
+    arabic: لِلۡكَٰفِرِينَ
     translation: for the disbelievers
     transliteration: lil'kāfirīna
   5:
@@ -24,7 +24,7 @@ word_by_word:
     translation: (is the) punishment
     transliteration: ʿadhāba
   6:
-    arabic: النَّارِ‏
+    arabic: ٱلنَّارِ
     translation: (of) the Fire
     transliteration: l-nāri
 ---

@@ -1,12 +1,12 @@
 ---
-arabic_ayat: وَنَادٰى فِرۡعَوۡنُ فِىۡ قَوۡمِهٖ قَالَ يٰقَوۡمِ اَلَيۡسَ لِىۡ مُلۡكُ
-  مِصۡرَ وَهٰذِهِ الۡاَنۡهٰرُ تَجۡرِىۡ مِنۡ تَحۡتِىۡ​ۚ اَفَلَا تُبۡصِرُوۡنَؕ‏
+arabic_ayat: وَنَادَىٰ فِرۡعَوۡنُ فِي قَوۡمِهِۦ قَالَ يَٰقَوۡمِ أَلَيۡسَ لِي مُلۡكُ
+  مِصۡرَ وَهَٰذِهِ ٱلۡأَنۡهَٰرُ تَجۡرِي مِن تَحۡتِيٓۚ أَفَلَا تُبۡصِرُونَ
 sentence_translation: And Pharaoh called out to his people, boasting, “O my people!
   Am I not sovereign over Egypt as well as ˹all˺ these streams flowing at my feet?
   Can you not see?
 word_by_word:
   1:
-    arabic: وَنَادٰى
+    arabic: وَنَادَىٰ
     translation: And called out
     transliteration: wanādā
   2:
@@ -14,11 +14,11 @@ word_by_word:
     translation: Firaun
     transliteration: fir'ʿawnu
   3:
-    arabic: فِىۡ
+    arabic: فِي
     translation: among
     transliteration: fī
   4:
-    arabic: قَوۡمِهٖ
+    arabic: قَوۡمِهِۦ
     translation: his people
     transliteration: qawmihi
   5:
@@ -26,15 +26,15 @@ word_by_word:
     translation: he said
     transliteration: qāla
   6:
-    arabic: يٰقَوۡمِ
+    arabic: يَٰقَوۡمِ
     translation: O my people
     transliteration: yāqawmi
   7:
-    arabic: اَلَيۡسَ
+    arabic: أَلَيۡسَ
     translation: Is not
     transliteration: alaysa
   8:
-    arabic: لِىۡ
+    arabic: لِي
     translation: for me
     transliteration: lī
   9:
@@ -46,31 +46,31 @@ word_by_word:
     translation: (of) Egypt
     transliteration: miṣ'ra
   11:
-    arabic: وَهٰذِهِ
+    arabic: وَهَٰذِهِ
     translation: and these
     transliteration: wahādhihi
   12:
-    arabic: الۡاَنۡهٰرُ
+    arabic: ٱلۡأَنۡهَٰرُ
     translation: '[the] rivers'
     transliteration: l-anhāru
   13:
-    arabic: تَجۡرِىۡ
+    arabic: تَجۡرِي
     translation: flowing
     transliteration: tajrī
   14:
-    arabic: مِنۡ
+    arabic: مِن
     translation: underneath me
     transliteration: min
   15:
-    arabic: تَحۡتِىۡ​ۚ
+    arabic: تَحۡتِيٓۚ
     translation: underneath me
     transliteration: taḥtī
   16:
-    arabic: اَفَلَا
+    arabic: أَفَلَا
     translation: Then do not
     transliteration: afalā
   17:
-    arabic: تُبۡصِرُوۡنَؕ‏
+    arabic: تُبۡصِرُونَ
     translation: you see
     transliteration: tub'ṣirūna
 ---

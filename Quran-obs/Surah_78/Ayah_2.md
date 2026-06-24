@@ -1,5 +1,5 @@
 ---
-arabic_ayat: عَنِ النَّبَاِ الۡعَظِيۡمِۙ‏
+arabic_ayat: عَنِ ٱلنَّبَإِ ٱلۡعَظِيمِ
 sentence_translation: About the momentous news,
 word_by_word:
   1:
@@ -7,11 +7,11 @@ word_by_word:
     translation: About
     transliteration: ʿani
   2:
-    arabic: النَّبَاِ
+    arabic: ٱلنَّبَإِ
     translation: the News
     transliteration: l-naba-i
   3:
-    arabic: الۡعَظِيۡمِۙ‏
+    arabic: ٱلۡعَظِيمِ
     translation: the Great
     transliteration: l-ʿaẓīmi
 ---

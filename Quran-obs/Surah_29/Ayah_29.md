@@ -1,45 +1,45 @@
 ---
-arabic_ayat: اَٮِٕنَّكُمۡ لَـتَاۡتُوۡنَ الرِّجَالَ وَتَقۡطَعُوۡنَ السَّبِيۡلَ ۙ وَتَاۡ
-  تُوۡنَ فِىۡ نَادِيۡكُمُ الۡمُنۡكَرَ ​ؕ فَمَا كَانَ جَوَابَ قَوۡمِهٖۤ اِلَّاۤ اَنۡ
-  قَالُوا ائۡتِنَا بِعَذَابِ اللّٰهِ اِنۡ كُنۡتَ مِنَ الصّٰدِقِيۡنَ‏
+arabic_ayat: أَئِنَّكُمۡ لَتَأۡتُونَ ٱلرِّجَالَ وَتَقۡطَعُونَ ٱلسَّبِيلَ وَتَأۡتُونَ
+  فِي نَادِيكُمُ ٱلۡمُنكَرَۖ فَمَا كَانَ جَوَابَ قَوۡمِهِۦٓ إِلَّآ أَن قَالُواْ ٱئۡتِنَا
+  بِعَذَابِ ٱللَّهِ إِن كُنتَ مِنَ ٱلصَّٰدِقِينَ
 sentence_translation: 'Do you really lust after ˹other˺ men, abuse the travellers,
   and practice immorality ˹openly˺ in your gatherings?” His people’s only response
   was to say ˹mockingly˺: “Bring Allah’s punishment upon us, if what you say is true.”'
 word_by_word:
   1:
-    arabic: اَٮِٕنَّكُمۡ
+    arabic: أَئِنَّكُمۡ
     translation: Indeed, you
     transliteration: a-innakum
   2:
-    arabic: لَـتَاۡتُوۡنَ
+    arabic: لَتَأۡتُونَ
     translation: approach
     transliteration: latatūna
   3:
-    arabic: الرِّجَالَ
+    arabic: ٱلرِّجَالَ
     translation: the men
     transliteration: l-rijāla
   4:
-    arabic: وَتَقۡطَعُوۡنَ
+    arabic: وَتَقۡطَعُونَ
     translation: and you cut off
     transliteration: wataqṭaʿūna
   5:
-    arabic: السَّبِيۡلَ ۙ
+    arabic: ٱلسَّبِيلَ
     translation: the road
     transliteration: l-sabīla
   6:
-    arabic: وَتَاۡ تُوۡنَ
+    arabic: وَتَأۡتُونَ
     translation: and commit
     transliteration: watatūna
   7:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   8:
-    arabic: نَادِيۡكُمُ
+    arabic: نَادِيكُمُ
     translation: your meetings
     transliteration: nādīkumu
   9:
-    arabic: الۡمُنۡكَرَ ​ؕ
+    arabic: ٱلۡمُنكَرَۖ
     translation: evil
     transliteration: l-munkara
   10:
@@ -55,23 +55,23 @@ word_by_word:
     translation: (the) answer
     transliteration: jawāba
   13:
-    arabic: قَوۡمِهٖۤ
+    arabic: قَوۡمِهِۦٓ
     translation: (of) his people
     transliteration: qawmihi
   14:
-    arabic: اِلَّاۤ
+    arabic: إِلَّآ
     translation: except
     transliteration: illā
   15:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that
     transliteration: an
   16:
-    arabic: قَالُوا
+    arabic: قَالُواْ
     translation: they said
     transliteration: qālū
   17:
-    arabic: ائۡتِنَا
+    arabic: ٱئۡتِنَا
     translation: Bring upon us
     transliteration: i'tinā
   18:
@@ -79,15 +79,15 @@ word_by_word:
     translation: (the) punishment
     transliteration: biʿadhābi
   19:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (of) Allah
     transliteration: l-lahi
   20:
-    arabic: اِنۡ
+    arabic: إِن
     translation: if
     transliteration: in
   21:
-    arabic: كُنۡتَ
+    arabic: كُنتَ
     translation: you are
     transliteration: kunta
   22:
@@ -95,7 +95,7 @@ word_by_word:
     translation: of
     transliteration: mina
   23:
-    arabic: الصّٰدِقِيۡنَ‏
+    arabic: ٱلصَّٰدِقِينَ
     translation: the truthful
     transliteration: l-ṣādiqīna
 ---

@@ -1,13 +1,13 @@
 ---
-arabic_ayat: وَحِفۡظًا مِّنۡ كُلِّ شَيۡطٰنٍ مَّارِدٍ​ۚ‏
+arabic_ayat: وَحِفۡظٗا مِّن كُلِّ شَيۡطَٰنٖ مَّارِدٖ
 sentence_translation: and ˹for˺ protection from every rebellious devil.
 word_by_word:
   1:
-    arabic: وَحِفۡظًا
+    arabic: وَحِفۡظٗا
     translation: And (to) guard
     transliteration: waḥif'ẓan
   2:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: against
     transliteration: min
   3:
@@ -15,11 +15,11 @@ word_by_word:
     translation: every
     transliteration: kulli
   4:
-    arabic: شَيۡطٰنٍ
+    arabic: شَيۡطَٰنٖ
     translation: devil
     transliteration: shayṭānin
   5:
-    arabic: مَّارِدٍ​ۚ‏
+    arabic: مَّارِدٖ
     translation: rebellious
     transliteration: māridin
 ---

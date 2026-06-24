@@ -1,6 +1,6 @@
 ---
-arabic_ayat: وَمَا نَتَنَزَّلُ اِلَّا بِاَمۡرِ رَبِّكَ​ ۚ لَهٗ مَا بَيۡنَ اَيۡدِيۡنَا
-  وَمَا خَلۡفَنَا وَمَا بَيۡنَ ذٰ لِكَ​ ۚ وَمَا كَانَ رَبُّكَ نَسِيًّا​ ۚ‏
+arabic_ayat: وَمَا نَتَنَزَّلُ إِلَّا بِأَمۡرِ رَبِّكَۖ لَهُۥ مَا بَيۡنَ أَيۡدِينَا
+  وَمَا خَلۡفَنَا وَمَا بَيۡنَ ذَٰلِكَۚ وَمَا كَانَ رَبُّكَ نَسِيّٗا
 sentence_translation: “We only descend by the command of your Lord. To Him belongs
   whatever is before us, and whatever is behind us, and everything in between. And
   your Lord is never forgetful.
@@ -14,19 +14,19 @@ word_by_word:
     translation: we descend
     transliteration: natanazzalu
   3:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   4:
-    arabic: بِاَمۡرِ
+    arabic: بِأَمۡرِ
     translation: by (the) Command
     transliteration: bi-amri
   5:
-    arabic: رَبِّكَ​ ۚ
+    arabic: رَبِّكَۖ
     translation: (of) your Lord
     transliteration: rabbika
   6:
-    arabic: لَهٗ
+    arabic: لَهُۥ
     translation: To Him (belongs)
     transliteration: lahu
   7:
@@ -38,7 +38,7 @@ word_by_word:
     translation: (is) before us
     transliteration: bayna
   9:
-    arabic: اَيۡدِيۡنَا
+    arabic: أَيۡدِينَا
     translation: (is) before us
     transliteration: aydīnā
   10:
@@ -58,7 +58,7 @@ word_by_word:
     translation: (is) between
     transliteration: bayna
   14:
-    arabic: ذٰ لِكَ​ ۚ
+    arabic: ذَٰلِكَۚ
     translation: that
     transliteration: dhālika
   15:
@@ -74,7 +74,7 @@ word_by_word:
     translation: your Lord
     transliteration: rabbuka
   18:
-    arabic: نَسِيًّا​ ۚ‏
+    arabic: نَسِيّٗا
     translation: forgetful
     transliteration: nasiyyan
 ---

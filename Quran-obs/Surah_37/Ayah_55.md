@@ -1,18 +1,18 @@
 ---
-arabic_ayat: فَاطَّلَعَ فَرَاٰهُ فِىۡ سَوَآءِ الۡجَحِيۡمِ‏
+arabic_ayat: فَٱطَّلَعَ فَرَءَاهُ فِي سَوَآءِ ٱلۡجَحِيمِ
 sentence_translation: Then he ˹and the others˺ will look and spot him in the midst
   of the Hellfire.
 word_by_word:
   1:
-    arabic: فَاطَّلَعَ
+    arabic: فَٱطَّلَعَ
     translation: Then he (will) look
     transliteration: fa-iṭṭalaʿa
   2:
-    arabic: فَرَاٰهُ
+    arabic: فَرَءَاهُ
     translation: and see him
     transliteration: faraāhu
   3:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   4:
@@ -20,7 +20,7 @@ word_by_word:
     translation: (the) midst
     transliteration: sawāi
   5:
-    arabic: الۡجَحِيۡمِ‏
+    arabic: ٱلۡجَحِيمِ
     translation: (of) the Hellfire
     transliteration: l-jaḥīmi
 ---

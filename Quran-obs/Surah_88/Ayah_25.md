@@ -1,17 +1,17 @@
 ---
-arabic_ayat: اِنَّ اِلَيۡنَاۤ اِيَابَهُمۡۙ‏
+arabic_ayat: إِنَّ إِلَيۡنَآ إِيَابَهُمۡ
 sentence_translation: Surely to Us is their return,
 word_by_word:
   1:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   2:
-    arabic: اِلَيۡنَاۤ
+    arabic: إِلَيۡنَآ
     translation: to Us
     transliteration: ilaynā
   3:
-    arabic: اِيَابَهُمۡۙ‏
+    arabic: إِيَابَهُمۡ
     translation: (will be) their return
     transliteration: iyābahum
 ---

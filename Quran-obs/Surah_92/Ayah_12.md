@@ -1,9 +1,9 @@
 ---
-arabic_ayat: اِنَّ عَلَيۡنَا لَـلۡهُدٰىۖ‏
+arabic_ayat: إِنَّ عَلَيۡنَا لَلۡهُدَىٰ
 sentence_translation: It is certainly upon Us ˹alone˺ to show ˹the way to˺ guidance.
 word_by_word:
   1:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   2:
@@ -11,7 +11,7 @@ word_by_word:
     translation: upon Us
     transliteration: ʿalaynā
   3:
-    arabic: لَـلۡهُدٰىۖ‏
+    arabic: لَلۡهُدَىٰ
     translation: (is) the guidance
     transliteration: lalhudā
 ---

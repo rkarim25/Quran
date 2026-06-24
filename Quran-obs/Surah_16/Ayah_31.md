@@ -1,27 +1,27 @@
 ---
-arabic_ayat: جَنّٰتُ عَدۡنٍ يَّدۡخُلُوۡنَهَا تَجۡرِىۡ مِنۡ تَحۡتِهَا الۡاَنۡهٰرُ​
-  لَهُمۡ فِيۡهَا مَا يَشَآءُوۡنَ​ؕ كَذٰلِكَ يَجۡزِى اللّٰهُ الۡمُتَّقِيۡنَۙ‏
+arabic_ayat: جَنَّٰتُ عَدۡنٖ يَدۡخُلُونَهَا تَجۡرِي مِن تَحۡتِهَا ٱلۡأَنۡهَٰرُۖ لَهُمۡ
+  فِيهَا مَا يَشَآءُونَۚ كَذَٰلِكَ يَجۡزِي ٱللَّهُ ٱلۡمُتَّقِينَ
 sentence_translation: the Gardens of Eternity which they will enter, under which rivers
   flow. In it they will have whatever they desire. This is how Allah rewards the righteous—
 word_by_word:
   1:
-    arabic: جَنّٰتُ
+    arabic: جَنَّٰتُ
     translation: Gardens
     transliteration: jannātu
   2:
-    arabic: عَدۡنٍ
+    arabic: عَدۡنٖ
     translation: '(of) Eden '
     transliteration: ʿadnin
   3:
-    arabic: يَّدۡخُلُوۡنَهَا
+    arabic: يَدۡخُلُونَهَا
     translation: which they will enter
     transliteration: yadkhulūnahā
   4:
-    arabic: تَجۡرِىۡ
+    arabic: تَجۡرِي
     translation: flows
     transliteration: tajrī
   5:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   6:
@@ -29,7 +29,7 @@ word_by_word:
     translation: underneath them
     transliteration: taḥtihā
   7:
-    arabic: الۡاَنۡهٰرُ​
+    arabic: ٱلۡأَنۡهَٰرُۖ
     translation: the rivers
     transliteration: l-anhāru
   8:
@@ -37,7 +37,7 @@ word_by_word:
     translation: For them
     transliteration: lahum
   9:
-    arabic: فِيۡهَا
+    arabic: فِيهَا
     translation: therein
     transliteration: fīhā
   10:
@@ -45,23 +45,23 @@ word_by_word:
     translation: (will be) whatever
     transliteration: mā
   11:
-    arabic: يَشَآءُوۡنَ​ؕ
+    arabic: يَشَآءُونَۚ
     translation: they wish
     transliteration: yashāūna
   12:
-    arabic: كَذٰلِكَ
+    arabic: كَذَٰلِكَ
     translation: Thus
     transliteration: kadhālika
   13:
-    arabic: يَجۡزِى
+    arabic: يَجۡزِي
     translation: Allah rewards
     transliteration: yajzī
   14:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah rewards
     transliteration: l-lahu
   15:
-    arabic: الۡمُتَّقِيۡنَۙ‏
+    arabic: ٱلۡمُتَّقِينَ
     translation: the righteous
     transliteration: l-mutaqīna
 ---

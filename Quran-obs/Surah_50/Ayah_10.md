@@ -1,13 +1,13 @@
 ---
-arabic_ayat: وَالنَّخۡلَ بٰسِقٰتٍ لَّهَا طَلۡـعٌ نَّضِيۡدٌ ۙ‏
+arabic_ayat: وَٱلنَّخۡلَ بَاسِقَٰتٖ لَّهَا طَلۡعٞ نَّضِيدٞ
 sentence_translation: and towering palm trees ˹loaded˺ with clustered fruit,
 word_by_word:
   1:
-    arabic: وَالنَّخۡلَ
+    arabic: وَٱلنَّخۡلَ
     translation: And the palms trees
     transliteration: wal-nakhla
   2:
-    arabic: بٰسِقٰتٍ
+    arabic: بَاسِقَٰتٖ
     translation: 'tall '
     transliteration: bāsiqātin
   3:
@@ -15,11 +15,11 @@ word_by_word:
     translation: for it
     transliteration: lahā
   4:
-    arabic: طَلۡـعٌ
+    arabic: طَلۡعٞ
     translation: (are) layers
     transliteration: ṭalʿun
   5:
-    arabic: نَّضِيۡدٌ ۙ‏
+    arabic: نَّضِيدٞ
     translation: arranged
     transliteration: naḍīdun
 ---

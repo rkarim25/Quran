@@ -1,7 +1,6 @@
 ---
-arabic_ayat: "فَبَدَّلَ الَّذِيۡنَ ظَلَمُوۡا قَوۡلاً غَيۡرَ الَّذِىۡ قِيۡلَ لَهُمۡ\
-  \ فَاَنۡزَلۡنَا عَلَى الَّذِيۡنَ ظَلَمُوۡا رِجۡزًا مِّنَ السَّمَآءِ بِمَا كَانُوۡا\
-  \ يَفۡسُقُوۡنَ‏ \uFEFF\uFEFF"
+arabic_ayat: فَبَدَّلَ ٱلَّذِينَ ظَلَمُواْ قَوۡلًا غَيۡرَ ٱلَّذِي قِيلَ لَهُمۡ فَأَنزَلۡنَا
+  عَلَى ٱلَّذِينَ ظَلَمُواْ رِجۡزٗا مِّنَ ٱلسَّمَآءِ بِمَا كَانُواْ يَفۡسُقُونَ
 sentence_translation: But the wrongdoers changed the words they were commanded to
   say. So We sent down a punishment from the heavens upon them for their rebelliousness.
 word_by_word:
@@ -10,15 +9,15 @@ word_by_word:
     translation: But changed
     transliteration: fabaddala
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   3:
-    arabic: ظَلَمُوۡا
+    arabic: ظَلَمُواْ
     translation: wronged
     transliteration: ẓalamū
   4:
-    arabic: قَوۡلاً
+    arabic: قَوۡلًا
     translation: (the) word
     transliteration: qawlan
   5:
@@ -26,11 +25,11 @@ word_by_word:
     translation: other (than)
     transliteration: ghayra
   6:
-    arabic: الَّذِىۡ
+    arabic: ٱلَّذِي
     translation: (that) which
     transliteration: alladhī
   7:
-    arabic: قِيۡلَ
+    arabic: قِيلَ
     translation: was said
     transliteration: qīla
   8:
@@ -38,7 +37,7 @@ word_by_word:
     translation: to them
     transliteration: lahum
   9:
-    arabic: فَاَنۡزَلۡنَا
+    arabic: فَأَنزَلۡنَا
     translation: so We sent down
     transliteration: fa-anzalnā
   10:
@@ -46,15 +45,15 @@ word_by_word:
     translation: upon
     transliteration: ʿalā
   11:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   12:
-    arabic: ظَلَمُوۡا
+    arabic: ظَلَمُواْ
     translation: wronged
     transliteration: ẓalamū
   13:
-    arabic: رِجۡزًا
+    arabic: رِجۡزٗا
     translation: a punishment
     transliteration: rij'zan
   14:
@@ -62,7 +61,7 @@ word_by_word:
     translation: from
     transliteration: mina
   15:
-    arabic: السَّمَآءِ
+    arabic: ٱلسَّمَآءِ
     translation: the sky
     transliteration: l-samāi
   16:
@@ -70,11 +69,11 @@ word_by_word:
     translation: because
     transliteration: bimā
   17:
-    arabic: كَانُوۡا
+    arabic: كَانُواْ
     translation: they were
     transliteration: kānū
   18:
-    arabic: "يَفۡسُقُوۡنَ‏ \uFEFF\uFEFF"
+    arabic: يَفۡسُقُونَ
     translation: defiantly disobeying
     transliteration: yafsuqūna
 ---

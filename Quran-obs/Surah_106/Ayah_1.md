@@ -1,13 +1,13 @@
 ---
-arabic_ayat: لِاِيۡلٰفِ قُرَيۡشٍۙ‏
+arabic_ayat: لِإِيلَٰفِ قُرَيۡشٍ
 sentence_translation: ˹At least˺ for ˹the favour of˺ making Quraysh habitually secure—
 word_by_word:
   1:
-    arabic: لِاِيۡلٰفِ
+    arabic: لِإِيلَٰفِ
     translation: For (the) familiarity
     transliteration: liīlāfi
   2:
-    arabic: قُرَيۡشٍۙ‏
+    arabic: قُرَيۡشٍ
     translation: (of the) Quraish
     transliteration: qurayshin
 ---

@@ -1,37 +1,37 @@
 ---
-arabic_ayat: "هٰۤاَنۡـتُمۡ هٰٓؤُلَآءِ حٰجَجۡتُمۡ فِيۡمَا لَـكُمۡ بِهٖ عِلۡمٌ فَلِمَ\
-  \ تُحَآجُّوۡنَ فِيۡمَا لَـيۡسَ لَـكُمۡ بِهٖ عِلۡمٌ​ؕ وَاللّٰهُ يَعۡلَمُ وَاَنۡـتُمۡ\
-  \ لَا تَعۡلَمُوۡنَ‏ \uFEFF\uFEFF"
+arabic_ayat: هَٰٓأَنتُمۡ هَٰٓؤُلَآءِ حَٰجَجۡتُمۡ فِيمَا لَكُم بِهِۦ عِلۡمٞ فَلِمَ
+  تُحَآجُّونَ فِيمَا لَيۡسَ لَكُم بِهِۦ عِلۡمٞۚ وَٱللَّهُ يَعۡلَمُ وَأَنتُمۡ لَا
+  تَعۡلَمُونَ
 sentence_translation: Here you are! You disputed about what you have ˹little˺ knowledge
   of, but why do you now argue about what you have no knowledge of? Allah knows and
   you do not know.
 word_by_word:
   1:
-    arabic: هٰۤاَنۡـتُمۡ
+    arabic: هَٰٓأَنتُمۡ
     translation: 'Here you are '
     transliteration: hāantum
   2:
-    arabic: هٰٓؤُلَآءِ
+    arabic: هَٰٓؤُلَآءِ
     translation: those who
     transliteration: hāulāi
   3:
-    arabic: حٰجَجۡتُمۡ
+    arabic: حَٰجَجۡتُمۡ
     translation: argued
     transliteration: ḥājajtum
   4:
-    arabic: فِيۡمَا
+    arabic: فِيمَا
     translation: about what
     transliteration: fīmā
   5:
-    arabic: لَـكُمۡ
+    arabic: لَكُم
     translation: '[for] you'
     transliteration: lakum
   6:
-    arabic: بِهٖ
+    arabic: بِهِۦ
     translation: of it
     transliteration: bihi
   7:
-    arabic: عِلۡمٌ
+    arabic: عِلۡمٞ
     translation: (have some) knowledge
     transliteration: ʿil'mun
   8:
@@ -39,31 +39,31 @@ word_by_word:
     translation: Then why
     transliteration: falima
   9:
-    arabic: تُحَآجُّوۡنَ
+    arabic: تُحَآجُّونَ
     translation: (do) you argue
     transliteration: tuḥājjūna
   10:
-    arabic: فِيۡمَا
+    arabic: فِيمَا
     translation: about what
     transliteration: fīmā
   11:
-    arabic: لَـيۡسَ
+    arabic: لَيۡسَ
     translation: not
     transliteration: laysa
   12:
-    arabic: لَـكُمۡ
+    arabic: لَكُم
     translation: for you
     transliteration: lakum
   13:
-    arabic: بِهٖ
+    arabic: بِهِۦ
     translation: of it
     transliteration: bihi
   14:
-    arabic: عِلۡمٌ​ؕ
+    arabic: عِلۡمٞۚ
     translation: (any) knowledge
     transliteration: ʿil'mun
   15:
-    arabic: وَاللّٰهُ
+    arabic: وَٱللَّهُ
     translation: And Allah
     transliteration: wal-lahu
   16:
@@ -71,7 +71,7 @@ word_by_word:
     translation: knows
     transliteration: yaʿlamu
   17:
-    arabic: وَاَنۡـتُمۡ
+    arabic: وَأَنتُمۡ
     translation: while you
     transliteration: wa-antum
   18:
@@ -79,7 +79,7 @@ word_by_word:
     translation: (do) not
     transliteration: lā
   19:
-    arabic: "تَعۡلَمُوۡنَ‏ \uFEFF\uFEFF"
+    arabic: تَعۡلَمُونَ
     translation: know
     transliteration: taʿlamūna
 ---

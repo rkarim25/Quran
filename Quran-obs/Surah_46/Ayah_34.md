@@ -1,7 +1,7 @@
 ---
-arabic_ayat: "وَيَوۡمَ يُعۡرَضُ الَّذِيۡنَ كَفَرُوۡا عَلَى النَّارِ ؕ اَلَيۡسَ هٰذَا\
-  \ بِالۡحَقِّ​ ؕ قَالُوۡا بَلٰى وَرَبِّنَا​ ؕ قَالَ فَذُوۡقُوا الۡعَذَابَ بِمَا كُنۡـتُمۡ\
-  \ تَكۡفُرُوۡنَ‏ \uFEFF\uFEFF"
+arabic_ayat: وَيَوۡمَ يُعۡرَضُ ٱلَّذِينَ كَفَرُواْ عَلَى ٱلنَّارِ أَلَيۡسَ هَٰذَا
+  بِٱلۡحَقِّۖ قَالُواْ بَلَىٰ وَرَبِّنَاۚ قَالَ فَذُوقُواْ ٱلۡعَذَابَ بِمَا كُنتُمۡ
+  تَكۡفُرُونَ
 sentence_translation: And on the Day the disbelievers will be exposed to the Fire,
   ˹they will be asked,˺ “Is this ˹Hereafter˺ not the truth?” They will cry, “Absolutely,
   by our Lord!” It will be said, “Then taste the punishment for your disbelief.”
@@ -15,11 +15,11 @@ word_by_word:
     translation: are exposed
     transliteration: yuʿ'raḍu
   3:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   4:
-    arabic: كَفَرُوۡا
+    arabic: كَفَرُواْ
     translation: disbelieved
     transliteration: kafarū
   5:
@@ -27,31 +27,31 @@ word_by_word:
     translation: to
     transliteration: ʿalā
   6:
-    arabic: النَّارِ ؕ
+    arabic: ٱلنَّارِ
     translation: the Fire
     transliteration: l-nāri
   7:
-    arabic: اَلَيۡسَ
+    arabic: أَلَيۡسَ
     translation: Is not
     transliteration: alaysa
   8:
-    arabic: هٰذَا
+    arabic: هَٰذَا
     translation: this
     transliteration: hādhā
   9:
-    arabic: بِالۡحَقِّ​ ؕ
+    arabic: بِٱلۡحَقِّۖ
     translation: the truth
     transliteration: bil-ḥaqi
   10:
-    arabic: قَالُوۡا
+    arabic: قَالُواْ
     translation: They will say
     transliteration: qālū
   11:
-    arabic: بَلٰى
+    arabic: بَلَىٰ
     translation: 'Yes'
     transliteration: balā
   12:
-    arabic: وَرَبِّنَا​ ؕ
+    arabic: وَرَبِّنَاۚ
     translation: by our Lord
     transliteration: warabbinā
   13:
@@ -59,11 +59,11 @@ word_by_word:
     translation: He will say
     transliteration: qāla
   14:
-    arabic: فَذُوۡقُوا
+    arabic: فَذُوقُواْ
     translation: Then taste
     transliteration: fadhūqū
   15:
-    arabic: الۡعَذَابَ
+    arabic: ٱلۡعَذَابَ
     translation: the punishment
     transliteration: l-ʿadhāba
   16:
@@ -71,11 +71,11 @@ word_by_word:
     translation: because
     transliteration: bimā
   17:
-    arabic: كُنۡـتُمۡ
+    arabic: كُنتُمۡ
     translation: you used to
     transliteration: kuntum
   18:
-    arabic: "تَكۡفُرُوۡنَ‏ \uFEFF\uFEFF"
+    arabic: تَكۡفُرُونَ
     translation: disbelieve
     transliteration: takfurūna
 ---

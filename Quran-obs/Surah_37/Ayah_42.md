@@ -1,17 +1,17 @@
 ---
-arabic_ayat: فَوَاكِهُ​ۚ وَهُمۡ مُّكۡرَمُوۡنَۙ‏
+arabic_ayat: فَوَٰكِهُ وَهُم مُّكۡرَمُونَ
 sentence_translation: fruits ˹of every type˺. And they will be honoured
 word_by_word:
   1:
-    arabic: فَوَاكِهُ​ۚ
+    arabic: فَوَٰكِهُ
     translation: Fruits
     transliteration: fawākihu
   2:
-    arabic: وَهُمۡ
+    arabic: وَهُم
     translation: and they
     transliteration: wahum
   3:
-    arabic: مُّكۡرَمُوۡنَۙ‏
+    arabic: مُّكۡرَمُونَ
     translation: (will) be honored
     transliteration: muk'ramūna
 ---

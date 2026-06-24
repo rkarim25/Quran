@@ -1,13 +1,13 @@
 ---
-arabic_ayat: لَاۤ اَعۡبُدُ مَا تَعۡبُدُوۡنَۙ‏
+arabic_ayat: لَآ أَعۡبُدُ مَا تَعۡبُدُونَ
 sentence_translation: I do not worship what you worship,
 word_by_word:
   1:
-    arabic: لَاۤ
+    arabic: لَآ
     translation: Not
     transliteration: lā
   2:
-    arabic: اَعۡبُدُ
+    arabic: أَعۡبُدُ
     translation: I worship
     transliteration: aʿbudu
   3:
@@ -15,7 +15,7 @@ word_by_word:
     translation: what
     transliteration: mā
   4:
-    arabic: تَعۡبُدُوۡنَۙ‏
+    arabic: تَعۡبُدُونَ
     translation: you worship
     transliteration: taʿbudūna
 ---

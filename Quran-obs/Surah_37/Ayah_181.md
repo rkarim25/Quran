@@ -1,9 +1,9 @@
 ---
-arabic_ayat: وَسَلٰمٌ عَلَى الۡمُرۡسَلِيۡنَ​ۚ‏
+arabic_ayat: وَسَلَٰمٌ عَلَى ٱلۡمُرۡسَلِينَ
 sentence_translation: Peace be upon the messengers.
 word_by_word:
   1:
-    arabic: وَسَلٰمٌ
+    arabic: وَسَلَٰمٌ
     translation: And peace be
     transliteration: wasalāmun
   2:
@@ -11,7 +11,7 @@ word_by_word:
     translation: upon
     transliteration: ʿalā
   3:
-    arabic: الۡمُرۡسَلِيۡنَ​ۚ‏
+    arabic: ٱلۡمُرۡسَلِينَ
     translation: the Messengers
     transliteration: l-mur'salīna
 ---

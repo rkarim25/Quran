@@ -1,19 +1,18 @@
 ---
-arabic_ayat: "اَنۡ اَدُّوۡۤا اِلَىَّ عِبَادَ اللّٰهِ​ؕ اِنِّىۡ لَـكُمۡ رَسُوۡلٌ اَمِيۡنٌۙ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: أَنۡ أَدُّوٓاْ إِلَيَّ عِبَادَ ٱللَّهِۖ إِنِّي لَكُمۡ رَسُولٌ أَمِينٞ
 sentence_translation: ˹proclaiming,˺ “Hand over the servants of Allah to me. I am
   truly a trustworthy messenger to you.
 word_by_word:
   1:
-    arabic: اَنۡ
+    arabic: أَنۡ
     translation: That
     transliteration: an
   2:
-    arabic: اَدُّوۡۤا
+    arabic: أَدُّوٓاْ
     translation: Deliver
     transliteration: addū
   3:
-    arabic: اِلَىَّ
+    arabic: إِلَيَّ
     translation: to me
     transliteration: ilayya
   4:
@@ -21,23 +20,23 @@ word_by_word:
     translation: (the) servants
     transliteration: ʿibāda
   5:
-    arabic: اللّٰهِ​ؕ
+    arabic: ٱللَّهِۖ
     translation: (of) Allah
     transliteration: l-lahi
   6:
-    arabic: اِنِّىۡ
+    arabic: إِنِّي
     translation: Indeed, I am
     transliteration: innī
   7:
-    arabic: لَـكُمۡ
+    arabic: لَكُمۡ
     translation: to you
     transliteration: lakum
   8:
-    arabic: رَسُوۡلٌ
+    arabic: رَسُولٌ
     translation: a Messenger
     transliteration: rasūlun
   9:
-    arabic: "اَمِيۡنٌۙ‏ \uFEFF\uFEFF"
+    arabic: أَمِينٞ
     translation: trustworthy
     transliteration: amīnun
 ---

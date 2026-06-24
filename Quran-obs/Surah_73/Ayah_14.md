@@ -1,6 +1,6 @@
 ---
-arabic_ayat: "يَوۡمَ تَرۡجُفُ الۡاَرۡضُ وَالۡجِبَالُ وَكَانَتِ الۡجِبَالُ كَثِيۡبًا\
-  \ مَّهِيۡلًا‏ \uFEFF\uFEFF"
+arabic_ayat: يَوۡمَ تَرۡجُفُ ٱلۡأَرۡضُ وَٱلۡجِبَالُ وَكَانَتِ ٱلۡجِبَالُ كَثِيبٗا
+  مَّهِيلًا
 sentence_translation: on the Day the earth and mountains will shake ˹violently˺, and
   mountains will be ˹reduced to˺ dunes of shifting sand.
 word_by_word:
@@ -13,11 +13,11 @@ word_by_word:
     translation: will quake
     transliteration: tarjufu
   3:
-    arabic: الۡاَرۡضُ
+    arabic: ٱلۡأَرۡضُ
     translation: the earth
     transliteration: l-arḍu
   4:
-    arabic: وَالۡجِبَالُ
+    arabic: وَٱلۡجِبَالُ
     translation: and the mountains
     transliteration: wal-jibālu
   5:
@@ -25,15 +25,15 @@ word_by_word:
     translation: and will become
     transliteration: wakānati
   6:
-    arabic: الۡجِبَالُ
+    arabic: ٱلۡجِبَالُ
     translation: the mountains
     transliteration: l-jibālu
   7:
-    arabic: كَثِيۡبًا
+    arabic: كَثِيبٗا
     translation: a heap of sand
     transliteration: kathīban
   8:
-    arabic: "مَّهِيۡلًا‏ \uFEFF\uFEFF"
+    arabic: مَّهِيلًا
     translation: pouring down
     transliteration: mahīlan
 ---

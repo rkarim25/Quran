@@ -1,12 +1,12 @@
 ---
-arabic_ayat: وَاِلٰى عَادٍ اَخَاهُمۡ هُوۡدًا​ ؕ قَالَ يٰقَوۡمِ اعۡبُدُوا اللّٰهَ مَا
-  لَـكُمۡ مِّنۡ اِلٰهٍ غَيۡرُهٗ​ ؕ اِنۡ اَنۡتُمۡ اِلَّا مُفۡتَرُوۡنَ‏
+arabic_ayat: وَإِلَىٰ عَادٍ أَخَاهُمۡ هُودٗاۚ قَالَ يَٰقَوۡمِ ٱعۡبُدُواْ ٱللَّهَ مَا
+  لَكُم مِّنۡ إِلَٰهٍ غَيۡرُهُۥٓۖ إِنۡ أَنتُمۡ إِلَّا مُفۡتَرُونَ
 sentence_translation: And to the people of ’Âd We sent their brother Hûd. He said,
   “O my people! Worship Allah. You have no god other than Him. You do nothing but
   fabricate lies ˹against Allah˺.
 word_by_word:
   1:
-    arabic: وَاِلٰى
+    arabic: وَإِلَىٰ
     translation: And to
     transliteration: wa-ilā
   2:
@@ -14,11 +14,11 @@ word_by_word:
     translation: Aad
     transliteration: ʿādin
   3:
-    arabic: اَخَاهُمۡ
+    arabic: أَخَاهُمۡ
     translation: (We sent) their brother
     transliteration: akhāhum
   4:
-    arabic: هُوۡدًا​ ؕ
+    arabic: هُودٗاۚ
     translation: Hud
     transliteration: hūdan
   5:
@@ -26,15 +26,15 @@ word_by_word:
     translation: He said
     transliteration: qāla
   6:
-    arabic: يٰقَوۡمِ
+    arabic: يَٰقَوۡمِ
     translation: O my people
     transliteration: yāqawmi
   7:
-    arabic: اعۡبُدُوا
+    arabic: ٱعۡبُدُواْ
     translation: Worship
     transliteration: uʿ'budū
   8:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   9:
@@ -42,7 +42,7 @@ word_by_word:
     translation: not
     transliteration: mā
   10:
-    arabic: لَـكُمۡ
+    arabic: لَكُم
     translation: (is) for you
     transliteration: lakum
   11:
@@ -50,27 +50,27 @@ word_by_word:
     translation: any
     transliteration: min
   12:
-    arabic: اِلٰهٍ
+    arabic: إِلَٰهٍ
     translation: god
     transliteration: ilāhin
   13:
-    arabic: غَيۡرُهٗ​ ؕ
+    arabic: غَيۡرُهُۥٓۖ
     translation: other than Him
     transliteration: ghayruhu
   14:
-    arabic: اِنۡ
+    arabic: إِنۡ
     translation: Not
     transliteration: in
   15:
-    arabic: اَنۡتُمۡ
+    arabic: أَنتُمۡ
     translation: you
     transliteration: antum
   16:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: (are) but
     transliteration: illā
   17:
-    arabic: مُفۡتَرُوۡنَ‏
+    arabic: مُفۡتَرُونَ
     translation: inventors
     transliteration: muf'tarūna
 ---

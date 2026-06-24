@@ -1,11 +1,11 @@
 ---
-arabic_ayat: وَّاُخۡرٰى لَمۡ تَقۡدِرُوۡا عَلَيۡهَا قَدۡ اَحَاطَ اللّٰهُ بِهَا​ؕ وَكَانَ
-  اللّٰهُ عَلٰى كُلِّ شَىۡءٍ قَدِيۡرًا‏
+arabic_ayat: وَأُخۡرَىٰ لَمۡ تَقۡدِرُواْ عَلَيۡهَا قَدۡ أَحَاطَ ٱللَّهُ بِهَاۚ وَكَانَ
+  ٱللَّهُ عَلَىٰ كُلِّ شَيۡءٖ قَدِيرٗا
 sentence_translation: And ˹there are˺ other gains which are beyond your reach that
   Allah is keeping in store ˹for you˺. For Allah is Most Capable of everything.
 word_by_word:
   1:
-    arabic: وَّاُخۡرٰى
+    arabic: وَأُخۡرَىٰ
     translation: And others
     transliteration: wa-ukh'rā
   2:
@@ -13,7 +13,7 @@ word_by_word:
     translation: not
     transliteration: lam
   3:
-    arabic: تَقۡدِرُوۡا
+    arabic: تَقۡدِرُواْ
     translation: you had power
     transliteration: taqdirū
   4:
@@ -25,15 +25,15 @@ word_by_word:
     translation: surely
     transliteration: qad
   6:
-    arabic: اَحَاطَ
+    arabic: أَحَاطَ
     translation: Allah encompassed
     transliteration: aḥāṭa
   7:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah encompassed
     transliteration: l-lahu
   8:
-    arabic: بِهَا​ؕ
+    arabic: بِهَاۚ
     translation: them
     transliteration: bihā
   9:
@@ -41,11 +41,11 @@ word_by_word:
     translation: and is
     transliteration: wakāna
   10:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   11:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: over
     transliteration: ʿalā
   12:
@@ -53,11 +53,11 @@ word_by_word:
     translation: all
     transliteration: kulli
   13:
-    arabic: شَىۡءٍ
+    arabic: شَيۡءٖ
     translation: things
     transliteration: shayin
   14:
-    arabic: قَدِيۡرًا‏
+    arabic: قَدِيرٗا
     translation: All-Powerful
     transliteration: qadīran
 ---

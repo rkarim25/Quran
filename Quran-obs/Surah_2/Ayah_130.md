@@ -1,21 +1,20 @@
 ---
-arabic_ayat: "وَمَنۡ يَّرۡغَبُ عَنۡ مِّلَّةِ اِبۡرٰهٖمَ اِلَّا مَنۡ سَفِهَ نَفۡسَهٗ ​ؕ\
-  \ وَلَقَدِ اصۡطَفَيۡنٰهُ فِى الدُّنۡيَا ​ۚ وَاِنَّهٗ فِى الۡاٰخِرَةِ لَمِنَ الصّٰلِحِيۡنَ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: وَمَن يَرۡغَبُ عَن مِّلَّةِ إِبۡرَٰهِـۧمَ إِلَّا مَن سَفِهَ نَفۡسَهُۥۚ
+  وَلَقَدِ ٱصۡطَفَيۡنَٰهُ فِي ٱلدُّنۡيَاۖ وَإِنَّهُۥ فِي ٱلۡأٓخِرَةِ لَمِنَ ٱلصَّٰلِحِينَ
 sentence_translation: And who would reject the faith of Abraham except a fool! We
   certainly chose him in this life, and in the Hereafter he will surely be among the
   righteous.
 word_by_word:
   1:
-    arabic: وَمَنۡ
+    arabic: وَمَن
     translation: And who
     transliteration: waman
   2:
-    arabic: يَّرۡغَبُ
+    arabic: يَرۡغَبُ
     translation: will turn away
     transliteration: yarghabu
   3:
-    arabic: عَنۡ
+    arabic: عَن
     translation: from
     transliteration: ʿan
   4:
@@ -23,15 +22,15 @@ word_by_word:
     translation: (the) religion
     transliteration: millati
   5:
-    arabic: اِبۡرٰهٖمَ
+    arabic: إِبۡرَٰهِـۧمَ
     translation: (of) Ibrahim
     transliteration: ib'rāhīma
   6:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   7:
-    arabic: مَنۡ
+    arabic: مَن
     translation: who
     transliteration: man
   8:
@@ -39,7 +38,7 @@ word_by_word:
     translation: fooled
     transliteration: safiha
   9:
-    arabic: نَفۡسَهٗ ​ؕ
+    arabic: نَفۡسَهُۥۚ
     translation: himself
     transliteration: nafsahu
   10:
@@ -47,27 +46,27 @@ word_by_word:
     translation: And indeed
     transliteration: walaqadi
   11:
-    arabic: اصۡطَفَيۡنٰهُ
+    arabic: ٱصۡطَفَيۡنَٰهُ
     translation: We chose him
     transliteration: iṣ'ṭafaynāhu
   12:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   13:
-    arabic: الدُّنۡيَا ​ۚ
+    arabic: ٱلدُّنۡيَاۖ
     translation: the world
     transliteration: l-dun'yā
   14:
-    arabic: وَاِنَّهٗ
+    arabic: وَإِنَّهُۥ
     translation: and indeed he
     transliteration: wa-innahu
   15:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   16:
-    arabic: الۡاٰخِرَةِ
+    arabic: ٱلۡأٓخِرَةِ
     translation: the Hereafter
     transliteration: l-ākhirati
   17:
@@ -75,7 +74,7 @@ word_by_word:
     translation: surely (will be) among
     transliteration: lamina
   18:
-    arabic: "الصّٰلِحِيۡنَ‏ \uFEFF\uFEFF"
+    arabic: ٱلصَّٰلِحِينَ
     translation: the righteous
     transliteration: l-ṣāliḥīna
 ---

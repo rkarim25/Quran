@@ -1,6 +1,6 @@
 ---
-arabic_ayat: قَالَ رَبِّ اِنِّىۡۤ اَعُوۡذُ بِكَ اَنۡ اَسۡــَٔلَكَ مَا لَـيۡسَ لِىۡ
-  بِهٖ عِلۡمٌ​ؕ وَاِلَّا تَغۡفِرۡ لِىۡ وَتَرۡحَمۡنِىۡۤ اَكُنۡ مِّنَ الۡخٰسِرِيۡنَ‏
+arabic_ayat: قَالَ رَبِّ إِنِّيٓ أَعُوذُ بِكَ أَنۡ أَسۡـَٔلَكَ مَا لَيۡسَ لِي بِهِۦ
+  عِلۡمٞۖ وَإِلَّا تَغۡفِرۡ لِي وَتَرۡحَمۡنِيٓ أَكُن مِّنَ ٱلۡخَٰسِرِينَ
 sentence_translation: Noah pleaded, “My Lord, I seek refuge in You from asking You
   about what I have no knowledge of, and unless You forgive me and have mercy on me,
   I will be one of the losers.”
@@ -14,11 +14,11 @@ word_by_word:
     translation: O my Lord
     transliteration: rabbi
   3:
-    arabic: اِنِّىۡۤ
+    arabic: إِنِّيٓ
     translation: Indeed, I
     transliteration: innī
   4:
-    arabic: اَعُوۡذُ
+    arabic: أَعُوذُ
     translation: seek refuge
     transliteration: aʿūdhu
   5:
@@ -26,11 +26,11 @@ word_by_word:
     translation: in You
     transliteration: bika
   6:
-    arabic: اَنۡ
+    arabic: أَنۡ
     translation: that
     transliteration: an
   7:
-    arabic: اَسۡــَٔلَكَ
+    arabic: أَسۡـَٔلَكَ
     translation: I (should) ask You
     transliteration: asalaka
   8:
@@ -38,23 +38,23 @@ word_by_word:
     translation: what
     transliteration: mā
   9:
-    arabic: لَـيۡسَ
+    arabic: لَيۡسَ
     translation: not
     transliteration: laysa
   10:
-    arabic: لِىۡ
+    arabic: لِي
     translation: I have
     transliteration: lī
   11:
-    arabic: بِهٖ
+    arabic: بِهِۦ
     translation: of it
     transliteration: bihi
   12:
-    arabic: عِلۡمٌ​ؕ
+    arabic: عِلۡمٞۖ
     translation: knowledge
     transliteration: ʿil'mun
   13:
-    arabic: وَاِلَّا
+    arabic: وَإِلَّا
     translation: And unless
     transliteration: wa-illā
   14:
@@ -62,15 +62,15 @@ word_by_word:
     translation: You forgive
     transliteration: taghfir
   15:
-    arabic: لِىۡ
+    arabic: لِي
     translation: me
     transliteration: lī
   16:
-    arabic: وَتَرۡحَمۡنِىۡۤ
+    arabic: وَتَرۡحَمۡنِيٓ
     translation: and You have mercy on me
     transliteration: watarḥamnī
   17:
-    arabic: اَكُنۡ
+    arabic: أَكُن
     translation: I will be
     transliteration: akun
   18:
@@ -78,7 +78,7 @@ word_by_word:
     translation: among
     transliteration: mina
   19:
-    arabic: الۡخٰسِرِيۡنَ‏
+    arabic: ٱلۡخَٰسِرِينَ
     translation: the losers
     transliteration: l-khāsirīna
 ---

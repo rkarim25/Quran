@@ -1,49 +1,49 @@
 ---
-arabic_ayat: اَمَّنۡ يَّهۡدِيۡكُمۡ فِىۡ ظُلُمٰتِ الۡبَرِّ وَ الۡبَحۡرِ وَمَنۡ يُّرۡسِلُ
-  الرِّيٰحَ بُشۡرًۢا بَيۡنَ يَدَىۡ رَحۡمَتِهٖؕ ءَاِلٰـهٌ مَّعَ اللّٰهِ​ؕ تَعٰلَى اللّٰهُ
-  عَمَّا يُشۡرِكُوۡنَؕ‏
+arabic_ayat: أَمَّن يَهۡدِيكُمۡ فِي ظُلُمَٰتِ ٱلۡبَرِّ وَٱلۡبَحۡرِ وَمَن يُرۡسِلُ
+  ٱلرِّيَٰحَ بُشۡرَۢا بَيۡنَ يَدَيۡ رَحۡمَتِهِۦٓۗ أَءِلَٰهٞ مَّعَ ٱللَّهِۚ تَعَٰلَى
+  ٱللَّهُ عَمَّا يُشۡرِكُونَ
 sentence_translation: Or ˹ask them,˺ “Who guides you in the darkness of the land and
   sea, and sends the winds ushering in His mercy? Is it another god besides Allah?
   Exalted is Allah above what they associate ˹with Him˺!
 word_by_word:
   1:
-    arabic: اَمَّنۡ
+    arabic: أَمَّن
     translation: Or Who
     transliteration: amman
   2:
-    arabic: يَّهۡدِيۡكُمۡ
+    arabic: يَهۡدِيكُمۡ
     translation: guides you
     transliteration: yahdīkum
   3:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   4:
-    arabic: ظُلُمٰتِ
+    arabic: ظُلُمَٰتِ
     translation: (the) darkness[es]
     transliteration: ẓulumāti
   5:
-    arabic: الۡبَرِّ
+    arabic: ٱلۡبَرِّ
     translation: (of) the land
     transliteration: l-bari
   6:
-    arabic: وَ الۡبَحۡرِ
+    arabic: وَٱلۡبَحۡرِ
     translation: and the sea
     transliteration: wal-baḥri
   7:
-    arabic: وَمَنۡ
+    arabic: وَمَن
     translation: and Who
     transliteration: waman
   8:
-    arabic: يُّرۡسِلُ
+    arabic: يُرۡسِلُ
     translation: sends
     transliteration: yur'silu
   9:
-    arabic: الرِّيٰحَ
+    arabic: ٱلرِّيَٰحَ
     translation: the winds
     transliteration: l-riyāḥa
   10:
-    arabic: بُشۡرًۢا
+    arabic: بُشۡرَۢا
     translation: (as) glad tidings
     transliteration: bush'ran
   11:
@@ -51,15 +51,15 @@ word_by_word:
     translation: before
     transliteration: bayna
   12:
-    arabic: يَدَىۡ
+    arabic: يَدَيۡ
     translation: before
     transliteration: yaday
   13:
-    arabic: رَحۡمَتِهٖؕ
+    arabic: رَحۡمَتِهِۦٓۗ أَ
     translation: His Mercy
     transliteration: raḥmatihi
   14:
-    arabic: ءَاِلٰـهٌ
+    arabic: ءِلَٰهٞ
     translation: Is there any god
     transliteration: a-ilāhun
   15:
@@ -67,15 +67,15 @@ word_by_word:
     translation: with
     transliteration: maʿa
   16:
-    arabic: اللّٰهِ​ؕ
+    arabic: ٱللَّهِۚ
     translation: Allah
     transliteration: l-lahi
   17:
-    arabic: تَعٰلَى
+    arabic: تَعَٰلَى
     translation: High is
     transliteration: taʿālā
   18:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   19:
@@ -83,7 +83,7 @@ word_by_word:
     translation: above what
     transliteration: ʿammā
   20:
-    arabic: يُشۡرِكُوۡنَؕ‏
+    arabic: يُشۡرِكُونَ
     translation: they associate (with Him)
     transliteration: yush'rikūna
 ---

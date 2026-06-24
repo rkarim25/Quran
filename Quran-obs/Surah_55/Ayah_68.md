@@ -1,21 +1,21 @@
 ---
-arabic_ayat: فِيۡهِمَا فَاكِهَةٌ وَّنَخۡلٌ وَّرُمَّانٌ​ۚ‏
+arabic_ayat: فِيهِمَا فَٰكِهَةٞ وَنَخۡلٞ وَرُمَّانٞ
 sentence_translation: In both will be fruit, palm trees, and pomegranates.
 word_by_word:
   1:
-    arabic: فِيۡهِمَا
+    arabic: فِيهِمَا
     translation: In both of them
     transliteration: fīhimā
   2:
-    arabic: فَاكِهَةٌ
+    arabic: فَٰكِهَةٞ
     translation: (are) fruits
     transliteration: fākihatun
   3:
-    arabic: وَّنَخۡلٌ
+    arabic: وَنَخۡلٞ
     translation: and date-palms
     transliteration: wanakhlun
   4:
-    arabic: وَّرُمَّانٌ​ۚ‏
+    arabic: وَرُمَّانٞ
     translation: and pomegranates
     transliteration: warummānun
 ---

@@ -1,65 +1,64 @@
 ---
-arabic_ayat: "وَاِذَا لَقُوۡا الَّذِيۡنَ اٰمَنُوۡا قَالُوۡاۤ اٰمَنَّا ۖۚ وَاِذَا خَلَوۡا\
-  \ اِلٰى شَيٰطِيۡنِهِمۡۙ قَالُوۡاۤ اِنَّا مَعَكُمۡۙ اِنَّمَا نَحۡنُ مُسۡتَهۡزِءُوۡنَ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: وَإِذَا لَقُواْ ٱلَّذِينَ ءَامَنُواْ قَالُوٓاْ ءَامَنَّا وَإِذَا خَلَوۡاْ
+  إِلَىٰ شَيَٰطِينِهِمۡ قَالُوٓاْ إِنَّا مَعَكُمۡ إِنَّمَا نَحۡنُ مُسۡتَهۡزِءُونَ
 sentence_translation: When they meet the believers they say, “We believe.” But when
   alone with their evil associates they say, “We are definitely with you; we were
   only mocking.”
 word_by_word:
   1:
-    arabic: وَاِذَا
+    arabic: وَإِذَا
     translation: And when
     transliteration: wa-idhā
   2:
-    arabic: لَقُوۡا
+    arabic: لَقُواْ
     translation: they meet
     transliteration: laqū
   3:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ ءَ
     translation: those who
     transliteration: alladhīna
   4:
-    arabic: اٰمَنُوۡا
+    arabic: امَنُواْ
     translation: believe[d]
     transliteration: āmanū
   5:
-    arabic: قَالُوۡاۤ
+    arabic: قَالُوٓاْ ءَ
     translation: they say
     transliteration: qālū
   6:
-    arabic: اٰمَنَّا ۖۚ
+    arabic: امَنَّا
     translation: We believe[d]
     transliteration: āmannā
   7:
-    arabic: وَاِذَا
+    arabic: وَإِذَا
     translation: But when
     transliteration: wa-idhā
   8:
-    arabic: خَلَوۡا
+    arabic: خَلَوۡاْ
     translation: they are alone
     transliteration: khalaw
   9:
-    arabic: اِلٰى
+    arabic: إِلَىٰ
     translation: with
     transliteration: ilā
   10:
-    arabic: شَيٰطِيۡنِهِمۡۙ
+    arabic: شَيَٰطِينِهِمۡ
     translation: their evil ones
     transliteration: shayāṭīnihim
   11:
-    arabic: قَالُوۡاۤ
+    arabic: قَالُوٓاْ
     translation: they say
     transliteration: qālū
   12:
-    arabic: اِنَّا
+    arabic: إِنَّا
     translation: Indeed, we
     transliteration: innā
   13:
-    arabic: مَعَكُمۡۙ
+    arabic: مَعَكُمۡ
     translation: (are) with you
     transliteration: maʿakum
   14:
-    arabic: اِنَّمَا
+    arabic: إِنَّمَا
     translation: only
     transliteration: innamā
   15:
@@ -67,7 +66,7 @@ word_by_word:
     translation: we
     transliteration: naḥnu
   16:
-    arabic: "مُسۡتَهۡزِءُوۡنَ‏ \uFEFF\uFEFF"
+    arabic: مُسۡتَهۡزِءُونَ
     translation: (are) mockers
     transliteration: mus'tahziūna
 ---

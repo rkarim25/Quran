@@ -1,21 +1,21 @@
 ---
-arabic_ayat: فَبِاَىِّ حَدِيۡثٍۢ بَعۡدَهٗ يُؤۡمِنُوۡنَ‏
+arabic_ayat: فَبِأَيِّ حَدِيثِۭ بَعۡدَهُۥ يُؤۡمِنُونَ
 sentence_translation: So what message after this ˹Quran˺ would they believe in?
 word_by_word:
   1:
-    arabic: فَبِاَىِّ
+    arabic: فَبِأَيِّ
     translation: Then in what
     transliteration: fabi-ayyi
   2:
-    arabic: حَدِيۡثٍۢ
+    arabic: حَدِيثِۭ
     translation: statement
     transliteration: ḥadīthin
   3:
-    arabic: بَعۡدَهٗ
+    arabic: بَعۡدَهُۥ
     translation: after it
     transliteration: baʿdahu
   4:
-    arabic: يُؤۡمِنُوۡنَ‏
+    arabic: يُؤۡمِنُونَ
     translation: will they believe
     transliteration: yu'minūna
 ---

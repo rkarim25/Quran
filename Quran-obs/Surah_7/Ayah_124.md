@@ -1,19 +1,19 @@
 ---
-arabic_ayat: لَاُقَطِّعَنَّ اَيۡدِيَكُمۡ وَاَرۡجُلَكُمۡ مِّنۡ خِلَافٍ ثُمَّ لَاُصَلِّبَنَّكُمۡ
-  اَجۡمَعِيۡنَ‏
+arabic_ayat: لَأُقَطِّعَنَّ أَيۡدِيَكُمۡ وَأَرۡجُلَكُم مِّنۡ خِلَٰفٖ ثُمَّ لَأُصَلِّبَنَّكُمۡ
+  أَجۡمَعِينَ
 sentence_translation: I will certainly cut off your hands and feet on opposite sides,
   then crucify you all.”
 word_by_word:
   1:
-    arabic: لَاُقَطِّعَنَّ
+    arabic: لَأُقَطِّعَنَّ
     translation: I will surely cut off
     transliteration: la-uqaṭṭiʿanna
   2:
-    arabic: اَيۡدِيَكُمۡ
+    arabic: أَيۡدِيَكُمۡ
     translation: your hands
     transliteration: aydiyakum
   3:
-    arabic: وَاَرۡجُلَكُمۡ
+    arabic: وَأَرۡجُلَكُم
     translation: and your feet
     transliteration: wa-arjulakum
   4:
@@ -21,7 +21,7 @@ word_by_word:
     translation: of
     transliteration: min
   5:
-    arabic: خِلَافٍ
+    arabic: خِلَٰفٖ
     translation: opposite (sides)
     transliteration: khilāfin
   6:
@@ -29,11 +29,11 @@ word_by_word:
     translation: Then
     transliteration: thumma
   7:
-    arabic: لَاُصَلِّبَنَّكُمۡ
+    arabic: لَأُصَلِّبَنَّكُمۡ
     translation: I will surely crucify you
     transliteration: la-uṣallibannakum
   8:
-    arabic: اَجۡمَعِيۡنَ‏
+    arabic: أَجۡمَعِينَ
     translation: all
     transliteration: ajmaʿīna
 ---

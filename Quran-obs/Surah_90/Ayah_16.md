@@ -1,13 +1,13 @@
 ---
-arabic_ayat: اَوۡ مِسۡكِيۡنًا ذَا مَتۡرَبَةٍ ؕ‏
+arabic_ayat: أَوۡ مِسۡكِينٗا ذَا مَتۡرَبَةٖ
 sentence_translation: or to a poor person in distress,
 word_by_word:
   1:
-    arabic: اَوۡ
+    arabic: أَوۡ
     translation: Or
     transliteration: aw
   2:
-    arabic: مِسۡكِيۡنًا
+    arabic: مِسۡكِينٗا
     translation: a needy person
     transliteration: mis'kīnan
   3:
@@ -15,7 +15,7 @@ word_by_word:
     translation: in
     transliteration: dhā
   4:
-    arabic: مَتۡرَبَةٍ ؕ‏
+    arabic: مَتۡرَبَةٖ
     translation: misery
     transliteration: matrabatin
 ---

@@ -1,5 +1,5 @@
 ---
-arabic_ayat: قَالَ فَمَا خَطۡبُكَ يٰسَامِرِىُّ‏
+arabic_ayat: قَالَ فَمَا خَطۡبُكَ يَٰسَٰمِرِيُّ
 sentence_translation: Moses then asked, “What did you think you were doing, O  Sâmiri?”
 word_by_word:
   1:
@@ -15,7 +15,7 @@ word_by_word:
     translation: (is) your case
     transliteration: khaṭbuka
   4:
-    arabic: يٰسَامِرِىُّ‏
+    arabic: يَٰسَٰمِرِيُّ
     translation: O Samiri
     transliteration: yāsāmiriyyu
 ---

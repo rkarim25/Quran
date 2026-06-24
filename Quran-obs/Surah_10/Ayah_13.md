@@ -1,7 +1,7 @@
 ---
-arabic_ayat: وَلَقَدۡ اَهۡلَـكۡنَا الۡـقُرُوۡنَ مِنۡ قَبۡلِكُمۡ لَمَّا ظَلَمُوۡا ​
-  ۙ وَجَآءَتۡهُمۡ رُسُلُهُمۡ بِالۡبَيِّنٰتِ وَمَا كَانُوۡا لِيُـؤۡمِنُوۡا ​ ؕ كَذٰلِكَ
-  نَجۡزِى الۡقَوۡمَ الۡمُجۡرِمِيۡنَ‏
+arabic_ayat: وَلَقَدۡ أَهۡلَكۡنَا ٱلۡقُرُونَ مِن قَبۡلِكُمۡ لَمَّا ظَلَمُواْ وَجَآءَتۡهُمۡ
+  رُسُلُهُم بِٱلۡبَيِّنَٰتِ وَمَا كَانُواْ لِيُؤۡمِنُواْۚ كَذَٰلِكَ نَجۡزِي ٱلۡقَوۡمَ
+  ٱلۡمُجۡرِمِينَ
 sentence_translation: We surely destroyed ˹other˺ peoples before you when they did
   wrong, and their messengers came to them with clear proofs but they would not believe!
   This is how We reward the wicked people.
@@ -11,15 +11,15 @@ word_by_word:
     translation: And verily
     transliteration: walaqad
   2:
-    arabic: اَهۡلَـكۡنَا
+    arabic: أَهۡلَكۡنَا
     translation: We destroyed
     transliteration: ahlaknā
   3:
-    arabic: الۡـقُرُوۡنَ
+    arabic: ٱلۡقُرُونَ
     translation: the generations
     transliteration: l-qurūna
   4:
-    arabic: مِنۡ
+    arabic: مِن
     translation: before you
     transliteration: min
   5:
@@ -31,7 +31,7 @@ word_by_word:
     translation: when
     transliteration: lammā
   7:
-    arabic: ظَلَمُوۡا ​ ۙ
+    arabic: ظَلَمُواْ
     translation: they wronged
     transliteration: ẓalamū
   8:
@@ -39,11 +39,11 @@ word_by_word:
     translation: and came to them
     transliteration: wajāathum
   9:
-    arabic: رُسُلُهُمۡ
+    arabic: رُسُلُهُم
     translation: their Messengers
     transliteration: rusuluhum
   10:
-    arabic: بِالۡبَيِّنٰتِ
+    arabic: بِٱلۡبَيِّنَٰتِ
     translation: with clear proofs
     transliteration: bil-bayināti
   11:
@@ -51,27 +51,27 @@ word_by_word:
     translation: but not
     transliteration: wamā
   12:
-    arabic: كَانُوۡا
+    arabic: كَانُواْ
     translation: they were
     transliteration: kānū
   13:
-    arabic: لِيُـؤۡمِنُوۡا ​ ؕ
+    arabic: لِيُؤۡمِنُواْۚ
     translation: to believe
     transliteration: liyu'minū
   14:
-    arabic: كَذٰلِكَ
+    arabic: كَذَٰلِكَ
     translation: Thus
     transliteration: kadhālika
   15:
-    arabic: نَجۡزِى
+    arabic: نَجۡزِي
     translation: We recompense
     transliteration: najzī
   16:
-    arabic: الۡقَوۡمَ
+    arabic: ٱلۡقَوۡمَ
     translation: the people
     transliteration: l-qawma
   17:
-    arabic: الۡمُجۡرِمِيۡنَ‏
+    arabic: ٱلۡمُجۡرِمِينَ
     translation: (who are) criminals
     transliteration: l-muj'rimīna
 ---

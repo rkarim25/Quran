@@ -1,24 +1,24 @@
 ---
-arabic_ayat: وَاَنۡفِقُوۡا فِىۡ سَبِيۡلِ اللّٰهِ وَلَا تُلۡقُوۡا بِاَيۡدِيۡكُمۡ اِلَى
-  التَّهۡلُكَةِ ۖ  ۛۚ وَاَحۡسِنُوۡا  ۛۚ اِنَّ اللّٰهَ يُحِبُّ الۡمُحۡسِنِيۡنَ‏
+arabic_ayat: وَأَنفِقُواْ فِي سَبِيلِ ٱللَّهِ وَلَا تُلۡقُواْ بِأَيۡدِيكُمۡ إِلَى
+  ٱلتَّهۡلُكَةِ وَأَحۡسِنُوٓاْۚ إِنَّ ٱللَّهَ يُحِبُّ ٱلۡمُحۡسِنِينَ
 sentence_translation: Spend in the cause of Allah and do not let your own hands throw
   you into destruction ˹by withholding˺. And do good, for Allah certainly loves the
   good-doers.
 word_by_word:
   1:
-    arabic: وَاَنۡفِقُوۡا
+    arabic: وَأَنفِقُواْ
     translation: And spend
     transliteration: wa-anfiqū
   2:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   3:
-    arabic: سَبِيۡلِ
+    arabic: سَبِيلِ
     translation: (the) way
     transliteration: sabīli
   4:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (of) Allah
     transliteration: l-lahi
   5:
@@ -26,31 +26,31 @@ word_by_word:
     translation: and (do) not
     transliteration: walā
   6:
-    arabic: تُلۡقُوۡا
+    arabic: تُلۡقُواْ
     translation: throw (yourselves)
     transliteration: tul'qū
   7:
-    arabic: بِاَيۡدِيۡكُمۡ
+    arabic: بِأَيۡدِيكُمۡ
     translation: '[with your hands]'
     transliteration: bi-aydīkum
   8:
-    arabic: اِلَى
+    arabic: إِلَى
     translation: into
     transliteration: ilā
   9:
-    arabic: التَّهۡلُكَةِ ۖ  ۛۚ
+    arabic: ٱلتَّهۡلُكَةِ
     translation: '[the] destruction'
     transliteration: l-tahlukati
   10:
-    arabic: وَاَحۡسِنُوۡا  ۛۚ
+    arabic: وَأَحۡسِنُوٓاْۚ
     translation: And do good
     transliteration: wa-aḥsinū
   11:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: indeed
     transliteration: inna
   12:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   13:
@@ -58,7 +58,7 @@ word_by_word:
     translation: loves
     transliteration: yuḥibbu
   14:
-    arabic: الۡمُحۡسِنِيۡنَ‏
+    arabic: ٱلۡمُحۡسِنِينَ
     translation: the good-doers
     transliteration: l-muḥ'sinīna
 ---

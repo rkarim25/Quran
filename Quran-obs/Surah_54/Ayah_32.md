@@ -1,5 +1,5 @@
 ---
-arabic_ayat: وَلَقَدۡ يَسَّرۡنَا الۡقُرۡاٰنَ لِلذِّكۡرِ فَهَلۡ مِنۡ مُّدَّكِرٍ‏
+arabic_ayat: وَلَقَدۡ يَسَّرۡنَا ٱلۡقُرۡءَانَ لِلذِّكۡرِ فَهَلۡ مِن مُّدَّكِرٖ
 sentence_translation: And We have certainly made the Quran easy to remember. So is
   there anyone who will be mindful?
 word_by_word:
@@ -12,7 +12,7 @@ word_by_word:
     translation: We have made easy
     transliteration: yassarnā
   3:
-    arabic: الۡقُرۡاٰنَ
+    arabic: ٱلۡقُرۡءَانَ
     translation: the Quran
     transliteration: l-qur'āna
   4:
@@ -24,11 +24,11 @@ word_by_word:
     translation: so is (there)
     transliteration: fahal
   6:
-    arabic: مِنۡ
+    arabic: مِن
     translation: any
     transliteration: min
   7:
-    arabic: مُّدَّكِرٍ‏
+    arabic: مُّدَّكِرٖ
     translation: who will receive admonition
     transliteration: muddakirin
 ---

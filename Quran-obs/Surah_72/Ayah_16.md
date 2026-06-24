@@ -1,15 +1,14 @@
 ---
-arabic_ayat: وَّاَنْ لَّوِ اسۡتَقَامُوۡا عَلَى الطَّرِيۡقَةِ لَاَسۡقَيۡنٰهُمۡ مَّآءً
-  غَدَقًا ۙ‏
+arabic_ayat: وَأَلَّوِ ٱسۡتَقَٰمُواْ عَلَى ٱلطَّرِيقَةِ لَأَسۡقَيۡنَٰهُم مَّآءً غَدَقٗا
 sentence_translation: Had the deniers followed the Right Way, We would have certainly
   granted them abundant rain to drink—
 word_by_word:
   1:
-    arabic: وَّاَنْ لَّوِ
+    arabic: وَأَلَّوِ
     translation: And that if
     transliteration: wa-allawi
   2:
-    arabic: اسۡتَقَامُوۡا
+    arabic: ٱسۡتَقَٰمُواْ
     translation: they had remained
     transliteration: is'taqāmū
   3:
@@ -17,11 +16,11 @@ word_by_word:
     translation: 'on'
     transliteration: ʿalā
   4:
-    arabic: الطَّرِيۡقَةِ
+    arabic: ٱلطَّرِيقَةِ
     translation: the Way
     transliteration: l-ṭarīqati
   5:
-    arabic: لَاَسۡقَيۡنٰهُمۡ
+    arabic: لَأَسۡقَيۡنَٰهُم
     translation: surely We (would) have given them to drink
     transliteration: la-asqaynāhum
   6:
@@ -29,7 +28,7 @@ word_by_word:
     translation: water
     transliteration: māan
   7:
-    arabic: غَدَقًا ۙ‏
+    arabic: غَدَقٗا
     translation: (in) abundance
     transliteration: ghadaqan
 ---

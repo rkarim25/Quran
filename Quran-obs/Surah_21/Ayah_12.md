@@ -1,26 +1,26 @@
 ---
-arabic_ayat: فَلَمَّاۤ اَحَسُّوۡا بَاۡسَنَاۤ اِذَا هُمۡ مِّنۡهَا يَرۡكُضُوۡنَؕ‏
+arabic_ayat: فَلَمَّآ أَحَسُّواْ بَأۡسَنَآ إِذَا هُم مِّنۡهَا يَرۡكُضُونَ
 sentence_translation: When the wrongdoers sensed ˹the arrival of˺ Our torment, they
   started to run away from their cities.
 word_by_word:
   1:
-    arabic: فَلَمَّاۤ
+    arabic: فَلَمَّآ
     translation: Then when
     transliteration: falammā
   2:
-    arabic: اَحَسُّوۡا
+    arabic: أَحَسُّواْ
     translation: they perceived
     transliteration: aḥassū
   3:
-    arabic: بَاۡسَنَاۤ
+    arabic: بَأۡسَنَآ
     translation: Our torment
     transliteration: basanā
   4:
-    arabic: اِذَا
+    arabic: إِذَا
     translation: behold
     transliteration: idhā
   5:
-    arabic: هُمۡ
+    arabic: هُم
     translation: they
     transliteration: hum
   6:
@@ -28,7 +28,7 @@ word_by_word:
     translation: from it
     transliteration: min'hā
   7:
-    arabic: يَرۡكُضُوۡنَؕ‏
+    arabic: يَرۡكُضُونَ
     translation: were fleeing
     transliteration: yarkuḍūna
 ---

@@ -1,18 +1,18 @@
 ---
-arabic_ayat: اَوۡ خَلۡقًا مِّمَّا يَكۡبُرُ فِىۡ صُدُوۡرِكُمۡ​ۚ فَسَيَـقُوۡلُوۡنَ مَنۡ
-  يُّعِيۡدُنَا​ ؕ قُلِ الَّذِىۡ فَطَرَكُمۡ اَوَّلَ مَرَّةٍ​ ۚ فَسَيُنۡغِضُوۡنَ اِلَيۡكَ
-  رُءُوۡسَهُمۡ وَيَقُوۡلُوۡنَ مَتٰى هُوَ​ ؕ قُلۡ عَسٰٓى اَنۡ يَّكُوۡنَ قَرِيۡبًا‏
+arabic_ayat: أَوۡ خَلۡقٗا مِّمَّا يَكۡبُرُ فِي صُدُورِكُمۡۚ فَسَيَقُولُونَ مَن يُعِيدُنَاۖ
+  قُلِ ٱلَّذِي فَطَرَكُمۡ أَوَّلَ مَرَّةٖۚ فَسَيُنۡغِضُونَ إِلَيۡكَ رُءُوسَهُمۡ وَيَقُولُونَ
+  مَتَىٰ هُوَۖ قُلۡ عَسَىٰٓ أَن يَكُونَ قَرِيبٗا
 sentence_translation: or whatever you think is harder to bring to life!” Then they
   will ask ˹you˺, “Who will bring us back ˹to life˺?” Say, “The One Who created you
   the first time.” They will then shake their heads at you and ask, “When will that
   be?” Say, “Perhaps it is soon!”
 word_by_word:
   1:
-    arabic: اَوۡ
+    arabic: أَوۡ
     translation: Or
     transliteration: aw
   2:
-    arabic: خَلۡقًا
+    arabic: خَلۡقٗا
     translation: a creation
     transliteration: khalqan
   3:
@@ -24,23 +24,23 @@ word_by_word:
     translation: (is) great
     transliteration: yakburu
   5:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   6:
-    arabic: صُدُوۡرِكُمۡ​ۚ
+    arabic: صُدُورِكُمۡۚ
     translation: your breasts
     transliteration: ṣudūrikum
   7:
-    arabic: فَسَيَـقُوۡلُوۡنَ
+    arabic: فَسَيَقُولُونَ
     translation: Then they will say
     transliteration: fasayaqūlūna
   8:
-    arabic: مَنۡ
+    arabic: مَن
     translation: Who
     transliteration: man
   9:
-    arabic: يُّعِيۡدُنَا​ ؕ
+    arabic: يُعِيدُنَاۖ
     translation: will restore us
     transliteration: yuʿīdunā
   10:
@@ -48,7 +48,7 @@ word_by_word:
     translation: Say
     transliteration: quli
   11:
-    arabic: الَّذِىۡ
+    arabic: ٱلَّذِي
     translation: He Who
     transliteration: alladhī
   12:
@@ -56,35 +56,35 @@ word_by_word:
     translation: created you
     transliteration: faṭarakum
   13:
-    arabic: اَوَّلَ
+    arabic: أَوَّلَ
     translation: (the) first
     transliteration: awwala
   14:
-    arabic: مَرَّةٍ​ ۚ
+    arabic: مَرَّةٖۚ
     translation: time
     transliteration: marratin
   15:
-    arabic: فَسَيُنۡغِضُوۡنَ
+    arabic: فَسَيُنۡغِضُونَ
     translation: Then they will shake
     transliteration: fasayun'ghiḍūna
   16:
-    arabic: اِلَيۡكَ
+    arabic: إِلَيۡكَ
     translation: at you
     transliteration: ilayka
   17:
-    arabic: رُءُوۡسَهُمۡ
+    arabic: رُءُوسَهُمۡ
     translation: their heads
     transliteration: ruūsahum
   18:
-    arabic: وَيَقُوۡلُوۡنَ
+    arabic: وَيَقُولُونَ
     translation: and they say
     transliteration: wayaqūlūna
   19:
-    arabic: مَتٰى
+    arabic: مَتَىٰ
     translation: When (will)
     transliteration: matā
   20:
-    arabic: هُوَ​ ؕ
+    arabic: هُوَۖ
     translation: it (be)
     transliteration: huwa
   21:
@@ -92,19 +92,19 @@ word_by_word:
     translation: Say
     transliteration: qul
   22:
-    arabic: عَسٰٓى
+    arabic: عَسَىٰٓ
     translation: Perhaps
     transliteration: ʿasā
   23:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that
     transliteration: an
   24:
-    arabic: يَّكُوۡنَ
+    arabic: يَكُونَ
     translation: (it) will be
     transliteration: yakūna
   25:
-    arabic: قَرِيۡبًا‏
+    arabic: قَرِيبٗا
     translation: soon
     transliteration: qarīban
 ---

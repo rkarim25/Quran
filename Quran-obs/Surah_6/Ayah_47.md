@@ -1,6 +1,6 @@
 ---
-arabic_ayat: قُلۡ اَرَءَيۡتَكُمۡ اِنۡ اَتٰٮكُمۡ عَذَابُ اللّٰهِ بَغۡتَةً اَوۡ جَهۡرَةً
-  هَلۡ يُهۡلَكُ اِلَّا الۡقَوۡمُ الظّٰلِمُوۡنَ‏
+arabic_ayat: قُلۡ أَرَءَيۡتَكُمۡ إِنۡ أَتَىٰكُمۡ عَذَابُ ٱللَّهِ بَغۡتَةً أَوۡ جَهۡرَةً
+  هَلۡ يُهۡلَكُ إِلَّا ٱلۡقَوۡمُ ٱلظَّٰلِمُونَ
 sentence_translation: Ask, “Imagine if Allah’s punishment were to overwhelm you with
   or without warning—who would be destroyed other than the wrongdoers?”
 word_by_word:
@@ -9,15 +9,15 @@ word_by_word:
     translation: Say
     transliteration: qul
   2:
-    arabic: اَرَءَيۡتَكُمۡ
+    arabic: أَرَءَيۡتَكُمۡ
     translation: Have you seen
     transliteration: ara-aytakum
   3:
-    arabic: اِنۡ
+    arabic: إِنۡ
     translation: if
     transliteration: in
   4:
-    arabic: اَتٰٮكُمۡ
+    arabic: أَتَىٰكُمۡ
     translation: comes to you
     transliteration: atākum
   5:
@@ -25,7 +25,7 @@ word_by_word:
     translation: punishment
     transliteration: ʿadhābu
   6:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (of) Allah
     transliteration: l-lahi
   7:
@@ -33,7 +33,7 @@ word_by_word:
     translation: suddenly
     transliteration: baghtatan
   8:
-    arabic: اَوۡ
+    arabic: أَوۡ
     translation: or
     transliteration: aw
   9:
@@ -49,15 +49,15 @@ word_by_word:
     translation: (any) be destroyed
     transliteration: yuh'laku
   12:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   13:
-    arabic: الۡقَوۡمُ
+    arabic: ٱلۡقَوۡمُ
     translation: 'the people '
     transliteration: l-qawmu
   14:
-    arabic: الظّٰلِمُوۡنَ‏
+    arabic: ٱلظَّٰلِمُونَ
     translation: the wrongdoers
     transliteration: l-ẓālimūna
 ---

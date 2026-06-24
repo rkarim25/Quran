@@ -1,21 +1,21 @@
 ---
-arabic_ayat: اَيَحۡسَبُ اَنۡ لَّنۡ يَّقۡدِرَ عَلَيۡهِ اَحَدٌ​ ۘ‏
+arabic_ayat: أَيَحۡسَبُ أَن لَّن يَقۡدِرَ عَلَيۡهِ أَحَدٞ
 sentence_translation: Do they think that no one has power over them,
 word_by_word:
   1:
-    arabic: اَيَحۡسَبُ
+    arabic: أَيَحۡسَبُ
     translation: Does he think
     transliteration: ayaḥsabu
   2:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that
     transliteration: an
   3:
-    arabic: لَّنۡ
+    arabic: لَّن
     translation: not
     transliteration: lan
   4:
-    arabic: يَّقۡدِرَ
+    arabic: يَقۡدِرَ
     translation: has power
     transliteration: yaqdira
   5:
@@ -23,7 +23,7 @@ word_by_word:
     translation: over him
     transliteration: ʿalayhi
   6:
-    arabic: اَحَدٌ​ ۘ‏
+    arabic: أَحَدٞ
     translation: anyone
     transliteration: aḥadun
 ---

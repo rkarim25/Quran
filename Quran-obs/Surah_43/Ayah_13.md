@@ -1,21 +1,21 @@
 ---
-arabic_ayat: "لِتَسۡتَوٗا عَلٰى ظُهُوۡرِهٖ ثُمَّ تَذۡكُرُوۡا نِعۡمَةَ رَبِّكُمۡ اِذَا\
-  \ اسۡتَوَيۡتُمۡ عَلَيۡهِ وَتَقُوۡلُوۡا سُبۡحٰنَ الَّذِىۡ سَخَّرَ لَنَا هٰذَا وَمَا\
-  \ كُنَّا لَهٗ مُقۡرِنِيۡنَۙ‏ \uFEFF\uFEFF"
+arabic_ayat: لِتَسۡتَوُۥاْ عَلَىٰ ظُهُورِهِۦ ثُمَّ تَذۡكُرُواْ نِعۡمَةَ رَبِّكُمۡ
+  إِذَا ٱسۡتَوَيۡتُمۡ عَلَيۡهِ وَتَقُولُواْ سُبۡحَٰنَ ٱلَّذِي سَخَّرَ لَنَا هَٰذَا
+  وَمَا كُنَّا لَهُۥ مُقۡرِنِينَ
 sentence_translation: so that you may sit firmly on their backs, and remember your
   Lord’s blessings once you are settled on them, saying, “Glory be to the One Who
   has subjected these for us, for we could have never done so ˹on our own˺.
 word_by_word:
   1:
-    arabic: لِتَسۡتَوٗا
+    arabic: لِتَسۡتَوُۥاْ
     translation: That you may sit firmly
     transliteration: litastawū
   2:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: 'on'
     transliteration: ʿalā
   3:
-    arabic: ظُهُوۡرِهٖ
+    arabic: ظُهُورِهِۦ
     translation: their backs
     transliteration: ẓuhūrihi
   4:
@@ -23,7 +23,7 @@ word_by_word:
     translation: then
     transliteration: thumma
   5:
-    arabic: تَذۡكُرُوۡا
+    arabic: تَذۡكُرُواْ
     translation: remember
     transliteration: tadhkurū
   6:
@@ -35,11 +35,11 @@ word_by_word:
     translation: (of) your Lord
     transliteration: rabbikum
   8:
-    arabic: اِذَا
+    arabic: إِذَا
     translation: when
     transliteration: idhā
   9:
-    arabic: اسۡتَوَيۡتُمۡ
+    arabic: ٱسۡتَوَيۡتُمۡ
     translation: you sit firmly
     transliteration: is'tawaytum
   10:
@@ -47,15 +47,15 @@ word_by_word:
     translation: on them
     transliteration: ʿalayhi
   11:
-    arabic: وَتَقُوۡلُوۡا
+    arabic: وَتَقُولُواْ
     translation: and say
     transliteration: wataqūlū
   12:
-    arabic: سُبۡحٰنَ
+    arabic: سُبۡحَٰنَ
     translation: Glory be (to)
     transliteration: sub'ḥāna
   13:
-    arabic: الَّذِىۡ
+    arabic: ٱلَّذِي
     translation: the One Who
     transliteration: alladhī
   14:
@@ -67,7 +67,7 @@ word_by_word:
     translation: to us
     transliteration: lanā
   16:
-    arabic: هٰذَا
+    arabic: هَٰذَا
     translation: this
     transliteration: hādhā
   17:
@@ -79,11 +79,11 @@ word_by_word:
     translation: we were
     transliteration: kunnā
   19:
-    arabic: لَهٗ
+    arabic: لَهُۥ
     translation: of it
     transliteration: lahu
   20:
-    arabic: "مُقۡرِنِيۡنَۙ‏ \uFEFF\uFEFF"
+    arabic: مُقۡرِنِينَ
     translation: capable
     transliteration: muq'rinīna
 ---

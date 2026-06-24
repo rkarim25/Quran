@@ -1,23 +1,23 @@
 ---
-arabic_ayat: اَلَمۡ يَعۡلَمُوۡۤا اَنَّ اللّٰهَ يَعۡلَمُ سِرَّهُمۡ وَنَجۡوٰٮهُمۡ وَاَنَّ
-  اللّٰهَ عَلَّامُ الۡغُيُوۡبِ​ ۚ‏
+arabic_ayat: أَلَمۡ يَعۡلَمُوٓاْ أَنَّ ٱللَّهَ يَعۡلَمُ سِرَّهُمۡ وَنَجۡوَىٰهُمۡ وَأَنَّ
+  ٱللَّهَ عَلَّٰمُ ٱلۡغُيُوبِ
 sentence_translation: Do they not know that Allah ˹fully˺ knows their ˹evil˺ thoughts
   and secret talks, and that Allah is the Knower of all unseen?
 word_by_word:
   1:
-    arabic: اَلَمۡ
+    arabic: أَلَمۡ
     translation: Do not
     transliteration: alam
   2:
-    arabic: يَعۡلَمُوۡۤا
+    arabic: يَعۡلَمُوٓاْ
     translation: they know
     transliteration: yaʿlamū
   3:
-    arabic: اَنَّ
+    arabic: أَنَّ
     translation: that
     transliteration: anna
   4:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   5:
@@ -29,23 +29,23 @@ word_by_word:
     translation: their secret
     transliteration: sirrahum
   7:
-    arabic: وَنَجۡوٰٮهُمۡ
+    arabic: وَنَجۡوَىٰهُمۡ
     translation: and their secret conversation
     transliteration: wanajwāhum
   8:
-    arabic: وَاَنَّ
+    arabic: وَأَنَّ
     translation: and that
     transliteration: wa-anna
   9:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   10:
-    arabic: عَلَّامُ
+    arabic: عَلَّٰمُ
     translation: (is) All-Knower
     transliteration: ʿallāmu
   11:
-    arabic: الۡغُيُوۡبِ​ ۚ‏
+    arabic: ٱلۡغُيُوبِ
     translation: (of) the unseen
     transliteration: l-ghuyūbi
 ---

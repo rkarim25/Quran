@@ -1,27 +1,27 @@
 ---
-arabic_ayat: وَاذۡكُرۡ فِى الۡكِتٰبِ مُوۡسٰٓى​ اِنَّهٗ كَانَ مُخۡلَصًا وَّكَانَ رَسُوۡلًا
-  نَّبِيًّا‏
+arabic_ayat: وَٱذۡكُرۡ فِي ٱلۡكِتَٰبِ مُوسَىٰٓۚ إِنَّهُۥ كَانَ مُخۡلَصٗا وَكَانَ رَسُولٗا
+  نَّبِيّٗا
 sentence_translation: And mention in the Book ˹O Prophet, the story of˺ Moses. He
   was truly a chosen man, and was a messenger and a prophet.
 word_by_word:
   1:
-    arabic: وَاذۡكُرۡ
+    arabic: وَٱذۡكُرۡ
     translation: And mention
     transliteration: wa-udh'kur
   2:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   3:
-    arabic: الۡكِتٰبِ
+    arabic: ٱلۡكِتَٰبِ
     translation: the Book
     transliteration: l-kitābi
   4:
-    arabic: مُوۡسٰٓى​
+    arabic: مُوسَىٰٓۚ
     translation: Musa
     transliteration: mūsā
   5:
-    arabic: اِنَّهٗ
+    arabic: إِنَّهُۥ
     translation: Indeed, he
     transliteration: innahu
   6:
@@ -29,19 +29,19 @@ word_by_word:
     translation: was
     transliteration: kāna
   7:
-    arabic: مُخۡلَصًا
+    arabic: مُخۡلَصٗا
     translation: chosen
     transliteration: mukh'laṣan
   8:
-    arabic: وَّكَانَ
+    arabic: وَكَانَ
     translation: and was
     transliteration: wakāna
   9:
-    arabic: رَسُوۡلًا
+    arabic: رَسُولٗا
     translation: a Messenger
     transliteration: rasūlan
   10:
-    arabic: نَّبِيًّا‏
+    arabic: نَّبِيّٗا
     translation: a Prophet
     transliteration: nabiyyan
 ---

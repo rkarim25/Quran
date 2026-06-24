@@ -1,7 +1,7 @@
 ---
-arabic_ayat: وَهُوَ الَّذِىۡ يَتَوَفّٰٮكُمۡ بِالَّيۡلِ وَ يَعۡلَمُ مَا جَرَحۡتُمۡ
-  بِالنَّهَارِ ثُمَّ يَـبۡعَثُكُمۡ فِيۡهِ لِيُقۡضٰٓى اَجَلٌ مُّسَمًّى​ۚ ثُمَّ اِلَيۡهِ
-  مَرۡجِعُكُمۡ ثُمَّ يُنَبِّئُكُمۡ بِمَا كُنۡتُمۡ تَعۡمَلُوۡنَ‏
+arabic_ayat: وَهُوَ ٱلَّذِي يَتَوَفَّىٰكُم بِٱلَّيۡلِ وَيَعۡلَمُ مَا جَرَحۡتُم بِٱلنَّهَارِ
+  ثُمَّ يَبۡعَثُكُمۡ فِيهِ لِيُقۡضَىٰٓ أَجَلٞ مُّسَمّٗىۖ ثُمَّ إِلَيۡهِ مَرۡجِعُكُمۡ
+  ثُمَّ يُنَبِّئُكُم بِمَا كُنتُمۡ تَعۡمَلُونَ
 sentence_translation: He is the One Who calls back your souls by night and knows what
   you do by day, then revives you daily to complete your appointed term. To Him is
   your ˹ultimate˺ return, then He will inform you of what you used to do.
@@ -11,19 +11,19 @@ word_by_word:
     translation: And He
     transliteration: wahuwa
   2:
-    arabic: الَّذِىۡ
+    arabic: ٱلَّذِي
     translation: (is) the One Who
     transliteration: alladhī
   3:
-    arabic: يَتَوَفّٰٮكُمۡ
+    arabic: يَتَوَفَّىٰكُم
     translation: takes your (soul)
     transliteration: yatawaffākum
   4:
-    arabic: بِالَّيۡلِ
+    arabic: بِٱلَّيۡلِ
     translation: by the night
     transliteration: bi-al-layli
   5:
-    arabic: وَ يَعۡلَمُ
+    arabic: وَيَعۡلَمُ
     translation: and He knows
     transliteration: wayaʿlamu
   6:
@@ -31,11 +31,11 @@ word_by_word:
     translation: what
     transliteration: mā
   7:
-    arabic: جَرَحۡتُمۡ
+    arabic: جَرَحۡتُم
     translation: you committed
     transliteration: jaraḥtum
   8:
-    arabic: بِالنَّهَارِ
+    arabic: بِٱلنَّهَارِ
     translation: by the day
     transliteration: bil-nahāri
   9:
@@ -43,23 +43,23 @@ word_by_word:
     translation: Then
     transliteration: thumma
   10:
-    arabic: يَـبۡعَثُكُمۡ
+    arabic: يَبۡعَثُكُمۡ
     translation: He raises you up
     transliteration: yabʿathukum
   11:
-    arabic: فِيۡهِ
+    arabic: فِيهِ
     translation: therein
     transliteration: fīhi
   12:
-    arabic: لِيُقۡضٰٓى
+    arabic: لِيُقۡضَىٰٓ
     translation: so that is fulfilled
     transliteration: liyuq'ḍā
   13:
-    arabic: اَجَلٌ
+    arabic: أَجَلٞ
     translation: (the) term
     transliteration: ajalun
   14:
-    arabic: مُّسَمًّى​ۚ
+    arabic: مُّسَمّٗىۖ
     translation: specified
     transliteration: musamman
   15:
@@ -67,7 +67,7 @@ word_by_word:
     translation: Then
     transliteration: thumma
   16:
-    arabic: اِلَيۡهِ
+    arabic: إِلَيۡهِ
     translation: to Him
     transliteration: ilayhi
   17:
@@ -79,7 +79,7 @@ word_by_word:
     translation: then
     transliteration: thumma
   19:
-    arabic: يُنَبِّئُكُمۡ
+    arabic: يُنَبِّئُكُم
     translation: He will inform you
     transliteration: yunabbi-ukum
   20:
@@ -87,11 +87,11 @@ word_by_word:
     translation: about what
     transliteration: bimā
   21:
-    arabic: كُنۡتُمۡ
+    arabic: كُنتُمۡ
     translation: you used to
     transliteration: kuntum
   22:
-    arabic: تَعۡمَلُوۡنَ‏
+    arabic: تَعۡمَلُونَ
     translation: do
     transliteration: taʿmalūna
 ---

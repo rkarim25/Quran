@@ -1,18 +1,18 @@
 ---
-arabic_ayat: وَاُزۡلِفَتِ الۡجَـنَّةُ لِلۡمُتَّقِيۡنَ غَيۡرَ بَعِيۡدٍ‏
+arabic_ayat: وَأُزۡلِفَتِ ٱلۡجَنَّةُ لِلۡمُتَّقِينَ غَيۡرَ بَعِيدٍ
 sentence_translation: And Paradise will be brought near to the righteous, not far
   off.
 word_by_word:
   1:
-    arabic: وَاُزۡلِفَتِ
+    arabic: وَأُزۡلِفَتِ
     translation: And will be brought near
     transliteration: wa-uz'lifati
   2:
-    arabic: الۡجَـنَّةُ
+    arabic: ٱلۡجَنَّةُ
     translation: the Paradise
     transliteration: l-janatu
   3:
-    arabic: لِلۡمُتَّقِيۡنَ
+    arabic: لِلۡمُتَّقِينَ
     translation: to the righteous
     transliteration: lil'muttaqīna
   4:
@@ -20,7 +20,7 @@ word_by_word:
     translation: not
     transliteration: ghayra
   5:
-    arabic: بَعِيۡدٍ‏
+    arabic: بَعِيدٍ
     translation: far
     transliteration: baʿīdin
 ---

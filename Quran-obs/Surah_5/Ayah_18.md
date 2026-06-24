@@ -1,8 +1,8 @@
 ---
-arabic_ayat: وَقَالَتِ الۡيَهُوۡدُ وَالنَّصٰرٰى نَحۡنُ اَبۡنٰٓؤُا اللّٰهِ وَاَحِبَّآؤُهٗ​
-  ؕ قُلۡ فَلِمَ يُعَذِّبُكُمۡ بِذُنُوۡبِكُمۡ​ؕ بَلۡ اَنۡـتُمۡ بَشَرٌ مِّمَّنۡ خَلَقَ​
-  ؕ يَغۡفِرُ لِمَنۡ يَّشَآءُ وَيُعَذِّبُ مَنۡ يَّشَآءُ​ ؕ وَلِلّٰهِ مُلۡكُ السَّمٰوٰتِ
-  وَالۡاَرۡضِ وَمَا بَيۡنَهُمَا​ وَاِلَيۡهِ الۡمَصِيۡرُ‏
+arabic_ayat: وَقَالَتِ ٱلۡيَهُودُ وَٱلنَّصَٰرَىٰ نَحۡنُ أَبۡنَٰٓؤُاْ ٱللَّهِ وَأَحِبَّٰٓؤُهُۥۚ
+  قُلۡ فَلِمَ يُعَذِّبُكُم بِذُنُوبِكُمۖ بَلۡ أَنتُم بَشَرٞ مِّمَّنۡ خَلَقَۚ يَغۡفِرُ
+  لِمَن يَشَآءُ وَيُعَذِّبُ مَن يَشَآءُۚ وَلِلَّهِ مُلۡكُ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِ
+  وَمَا بَيۡنَهُمَاۖ وَإِلَيۡهِ ٱلۡمَصِيرُ
 sentence_translation: The Jews and the Christians each say, “We are the children of
   Allah and His most beloved!” Say, ˹O Prophet,˺ “Why then does He punish you for
   your sins? No! You are only humans like others of His Own making. He forgives whoever
@@ -14,11 +14,11 @@ word_by_word:
     translation: And said
     transliteration: waqālati
   2:
-    arabic: الۡيَهُوۡدُ
+    arabic: ٱلۡيَهُودُ
     translation: the Jews
     transliteration: l-yahūdu
   3:
-    arabic: وَالنَّصٰرٰى
+    arabic: وَٱلنَّصَٰرَىٰ
     translation: and the Christians
     transliteration: wal-naṣārā
   4:
@@ -26,15 +26,15 @@ word_by_word:
     translation: We (are)
     transliteration: naḥnu
   5:
-    arabic: اَبۡنٰٓؤُا
+    arabic: أَبۡنَٰٓؤُاْ
     translation: (the) children
     transliteration: abnāu
   6:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (of) Allah
     transliteration: l-lahi
   7:
-    arabic: وَاَحِبَّآؤُهٗ​ ؕ
+    arabic: وَأَحِبَّٰٓؤُهُۥۚ
     translation: and His beloved
     transliteration: wa-aḥibbāuhu
   8:
@@ -46,11 +46,11 @@ word_by_word:
     translation: Then why
     transliteration: falima
   10:
-    arabic: يُعَذِّبُكُمۡ
+    arabic: يُعَذِّبُكُم
     translation: (does He) punish you
     transliteration: yuʿadhibukum
   11:
-    arabic: بِذُنُوۡبِكُمۡ​ؕ
+    arabic: بِذُنُوبِكُمۖ
     translation: for your sins
     transliteration: bidhunūbikum
   12:
@@ -58,11 +58,11 @@ word_by_word:
     translation: Nay
     transliteration: bal
   13:
-    arabic: اَنۡـتُمۡ
+    arabic: أَنتُم
     translation: you (are)
     transliteration: antum
   14:
-    arabic: بَشَرٌ
+    arabic: بَشَرٞ
     translation: human beings
     transliteration: basharun
   15:
@@ -70,7 +70,7 @@ word_by_word:
     translation: from among (those)
     transliteration: mimman
   16:
-    arabic: خَلَقَ​ ؕ
+    arabic: خَلَقَۚ
     translation: He created
     transliteration: khalaqa
   17:
@@ -78,11 +78,11 @@ word_by_word:
     translation: He forgives
     transliteration: yaghfiru
   18:
-    arabic: لِمَنۡ
+    arabic: لِمَن
     translation: '[for] whom'
     transliteration: liman
   19:
-    arabic: يَّشَآءُ
+    arabic: يَشَآءُ
     translation: He wills
     transliteration: yashāu
   20:
@@ -90,15 +90,15 @@ word_by_word:
     translation: and punishes
     transliteration: wayuʿadhibu
   21:
-    arabic: مَنۡ
+    arabic: مَن
     translation: whom
     transliteration: man
   22:
-    arabic: يَّشَآءُ​ ؕ
+    arabic: يَشَآءُۚ
     translation: He wills
     transliteration: yashāu
   23:
-    arabic: وَلِلّٰهِ
+    arabic: وَلِلَّهِ
     translation: And for Allah
     transliteration: walillahi
   24:
@@ -106,11 +106,11 @@ word_by_word:
     translation: (is the) dominion
     transliteration: mul'ku
   25:
-    arabic: السَّمٰوٰتِ
+    arabic: ٱلسَّمَٰوَٰتِ
     translation: (of) the heavens
     transliteration: l-samāwāti
   26:
-    arabic: وَالۡاَرۡضِ
+    arabic: وَٱلۡأَرۡضِ
     translation: and the earth
     transliteration: wal-arḍi
   27:
@@ -118,15 +118,15 @@ word_by_word:
     translation: and whatever
     transliteration: wamā
   28:
-    arabic: بَيۡنَهُمَا​
+    arabic: بَيۡنَهُمَاۖ
     translation: (is) between them
     transliteration: baynahumā
   29:
-    arabic: وَاِلَيۡهِ
+    arabic: وَإِلَيۡهِ
     translation: and to Him
     transliteration: wa-ilayhi
   30:
-    arabic: الۡمَصِيۡرُ‏
+    arabic: ٱلۡمَصِيرُ
     translation: (is) the final return
     transliteration: l-maṣīru
 ---

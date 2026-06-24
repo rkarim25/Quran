@@ -1,31 +1,31 @@
 ---
-arabic_ayat: يٰۤـاَيُّهَا الَّذِيۡنَ اٰمَنُوۡۤا اَطِيۡعُوا اللّٰهَ وَرَسُوۡلَهٗ وَلَا
-  تَوَلَّوۡا عَنۡهُ وَاَنۡـتُمۡ تَسۡمَعُوۡنَ​ ۖ​ ۚ‏
+arabic_ayat: يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓاْ أَطِيعُواْ ٱللَّهَ وَرَسُولَهُۥ وَلَا
+  تَوَلَّوۡاْ عَنۡهُ وَأَنتُمۡ تَسۡمَعُونَ
 sentence_translation: O believers! Obey Allah and His Messenger and do not turn away
   from him while you hear ˹his call˺.
 word_by_word:
   1:
-    arabic: يٰۤـاَيُّهَا
+    arabic: يَٰٓأَيُّهَا
     translation: O you
     transliteration: yāayyuhā
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ ءَ
     translation: who
     transliteration: alladhīna
   3:
-    arabic: اٰمَنُوۡۤا
+    arabic: امَنُوٓاْ
     translation: believe
     transliteration: āmanū
   4:
-    arabic: اَطِيۡعُوا
+    arabic: أَطِيعُواْ
     translation: Obey
     transliteration: aṭīʿū
   5:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   6:
-    arabic: وَرَسُوۡلَهٗ
+    arabic: وَرَسُولَهُۥ
     translation: and His Messenger
     transliteration: warasūlahu
   7:
@@ -33,7 +33,7 @@ word_by_word:
     translation: And (do) not
     transliteration: walā
   8:
-    arabic: تَوَلَّوۡا
+    arabic: تَوَلَّوۡاْ
     translation: turn away
     transliteration: tawallaw
   9:
@@ -41,11 +41,11 @@ word_by_word:
     translation: from him
     transliteration: ʿanhu
   10:
-    arabic: وَاَنۡـتُمۡ
+    arabic: وَأَنتُمۡ
     translation: while you
     transliteration: wa-antum
   11:
-    arabic: تَسۡمَعُوۡنَ​ ۖ​ ۚ‏
+    arabic: تَسۡمَعُونَ
     translation: hear
     transliteration: tasmaʿūna
 ---

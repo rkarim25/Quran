@@ -1,11 +1,11 @@
 ---
-arabic_ayat: وَمَا جَعَلۡنَاۤ اَصۡحٰبَ النَّارِ اِلَّا مَلٰٓٮِٕكَةً​ وَّمَا جَعَلۡنَا
-  عِدَّتَهُمۡ اِلَّا فِتۡنَةً لِّلَّذِيۡنَ كَفَرُوۡا ۙ لِيَسۡتَيۡقِنَ الَّذِيۡنَ اُوۡتُوا
-  الۡكِتٰبَ وَيَزۡدَادَ الَّذِيۡنَ اٰمَنُوۡۤا اِيۡمَانًا​ وَّلَا يَرۡتَابَ الَّذِيۡنَ
-  اُوۡتُوا الۡكِتٰبَ وَالۡمُؤۡمِنُوۡنَ​ۙ وَلِيَقُوۡلَ الَّذِيۡنَ فِىۡ قُلُوۡبِهِمۡ
-  مَّرَضٌ وَّالۡكٰفِرُوۡنَ مَاذَاۤ اَرَادَ اللّٰهُ بِهٰذَا مَثَلًا ​ؕ كَذٰلِكَ يُضِلُّ
-  اللّٰهُ مَنۡ يَّشَآءُ وَيَهۡدِىۡ مَنۡ يَّشَآءُ ​ؕ وَمَا يَعۡلَمُ جُنُوۡدَ رَبِّكَ
-  اِلَّا هُوَ ​ؕ وَمَا هِىَ اِلَّا ذِكۡرٰى لِلۡبَشَرِ‏
+arabic_ayat: وَمَا جَعَلۡنَآ أَصۡحَٰبَ ٱلنَّارِ إِلَّا مَلَٰٓئِكَةٗۖ وَمَا جَعَلۡنَا
+  عِدَّتَهُمۡ إِلَّا فِتۡنَةٗ لِّلَّذِينَ كَفَرُواْ لِيَسۡتَيۡقِنَ ٱلَّذِينَ أُوتُواْ
+  ٱلۡكِتَٰبَ وَيَزۡدَادَ ٱلَّذِينَ ءَامَنُوٓاْ إِيمَٰنٗا وَلَا يَرۡتَابَ ٱلَّذِينَ
+  أُوتُواْ ٱلۡكِتَٰبَ وَٱلۡمُؤۡمِنُونَ وَلِيَقُولَ ٱلَّذِينَ فِي قُلُوبِهِم مَّرَضٞ
+  وَٱلۡكَٰفِرُونَ مَاذَآ أَرَادَ ٱللَّهُ بِهَٰذَا مَثَلٗاۚ كَذَٰلِكَ يُضِلُّ ٱللَّهُ
+  مَن يَشَآءُ وَيَهۡدِي مَن يَشَآءُۚ وَمَا يَعۡلَمُ جُنُودَ رَبِّكَ إِلَّا هُوَۚ
+  وَمَا هِيَ إِلَّا ذِكۡرَىٰ لِلۡبَشَرِ
 sentence_translation: We have appointed only ˹stern˺ angels as wardens of the Fire.
   And We have made their number only as a test for the disbelievers, so that the People
   of the Book will be certain, and the believers will increase in faith, and neither
@@ -20,27 +20,27 @@ word_by_word:
     translation: And not
     transliteration: wamā
   2:
-    arabic: جَعَلۡنَاۤ
+    arabic: جَعَلۡنَآ
     translation: We have made
     transliteration: jaʿalnā
   3:
-    arabic: اَصۡحٰبَ
+    arabic: أَصۡحَٰبَ
     translation: keepers
     transliteration: aṣḥāba
   4:
-    arabic: النَّارِ
+    arabic: ٱلنَّارِ
     translation: (of) the Fire
     transliteration: l-nāri
   5:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   6:
-    arabic: مَلٰٓٮِٕكَةً​
+    arabic: مَلَٰٓئِكَةٗۖ
     translation: Angels
     transliteration: malāikatan
   7:
-    arabic: وَّمَا
+    arabic: وَمَا
     translation: And not
     transliteration: wamā
   8:
@@ -52,19 +52,19 @@ word_by_word:
     translation: their number
     transliteration: ʿiddatahum
   10:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   11:
-    arabic: فِتۡنَةً
+    arabic: فِتۡنَةٗ
     translation: (as) a trial
     transliteration: fit'natan
   12:
-    arabic: لِّلَّذِيۡنَ
+    arabic: لِّلَّذِينَ
     translation: for those who
     transliteration: lilladhīna
   13:
-    arabic: كَفَرُوۡا ۙ
+    arabic: كَفَرُواْ
     translation: 'disbelieve '
     transliteration: kafarū
   14:
@@ -72,15 +72,15 @@ word_by_word:
     translation: that may be certain
     transliteration: liyastayqina
   15:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   16:
-    arabic: اُوۡتُوا
+    arabic: أُوتُواْ
     translation: were given
     transliteration: ūtū
   17:
-    arabic: الۡكِتٰبَ
+    arabic: ٱلۡكِتَٰبَ
     translation: the Scripture
     transliteration: l-kitāba
   18:
@@ -88,19 +88,19 @@ word_by_word:
     translation: and may increase
     transliteration: wayazdāda
   19:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ ءَ
     translation: those who
     transliteration: alladhīna
   20:
-    arabic: اٰمَنُوۡۤا
+    arabic: امَنُوٓاْ
     translation: believe
     transliteration: āmanū
   21:
-    arabic: اِيۡمَانًا​
+    arabic: إِيمَٰنٗا
     translation: (in) faith
     transliteration: īmānan
   22:
-    arabic: وَّلَا
+    arabic: وَلَا
     translation: and not
     transliteration: walā
   23:
@@ -108,67 +108,67 @@ word_by_word:
     translation: may doubt
     transliteration: yartāba
   24:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   25:
-    arabic: اُوۡتُوا
+    arabic: أُوتُواْ
     translation: were given
     transliteration: ūtū
   26:
-    arabic: الۡكِتٰبَ
+    arabic: ٱلۡكِتَٰبَ
     translation: the Scripture
     transliteration: l-kitāba
   27:
-    arabic: وَالۡمُؤۡمِنُوۡنَ​ۙ
+    arabic: وَٱلۡمُؤۡمِنُونَ
     translation: and the believers
     transliteration: wal-mu'minūna
   28:
-    arabic: وَلِيَقُوۡلَ
+    arabic: وَلِيَقُولَ
     translation: and that may say
     transliteration: waliyaqūla
   29:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those
     transliteration: alladhīna
   30:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   31:
-    arabic: قُلُوۡبِهِمۡ
+    arabic: قُلُوبِهِم
     translation: their hearts
     transliteration: qulūbihim
   32:
-    arabic: مَّرَضٌ
+    arabic: مَّرَضٞ
     translation: (is) a disease
     transliteration: maraḍun
   33:
-    arabic: وَّالۡكٰفِرُوۡنَ
+    arabic: وَٱلۡكَٰفِرُونَ
     translation: and the disbelievers
     transliteration: wal-kāfirūna
   34:
-    arabic: مَاذَاۤ
+    arabic: مَاذَآ
     translation: What
     transliteration: mādhā
   35:
-    arabic: اَرَادَ
+    arabic: أَرَادَ
     translation: (does) intend
     transliteration: arāda
   36:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   37:
-    arabic: بِهٰذَا
+    arabic: بِهَٰذَا
     translation: by this
     transliteration: bihādhā
   38:
-    arabic: مَثَلًا ​ؕ
+    arabic: مَثَلٗاۚ
     translation: example
     transliteration: mathalan
   39:
-    arabic: كَذٰلِكَ
+    arabic: كَذَٰلِكَ
     translation: Thus
     transliteration: kadhālika
   40:
@@ -176,27 +176,27 @@ word_by_word:
     translation: does let go astray
     transliteration: yuḍillu
   41:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   42:
-    arabic: مَنۡ
+    arabic: مَن
     translation: whom
     transliteration: man
   43:
-    arabic: يَّشَآءُ
+    arabic: يَشَآءُ
     translation: He wills
     transliteration: yashāu
   44:
-    arabic: وَيَهۡدِىۡ
+    arabic: وَيَهۡدِي
     translation: and guides
     transliteration: wayahdī
   45:
-    arabic: مَنۡ
+    arabic: مَن
     translation: whom
     transliteration: man
   46:
-    arabic: يَّشَآءُ ​ؕ
+    arabic: يَشَآءُۚ
     translation: He wills
     transliteration: yashāu
   47:
@@ -208,7 +208,7 @@ word_by_word:
     translation: knows
     transliteration: yaʿlamu
   49:
-    arabic: جُنُوۡدَ
+    arabic: جُنُودَ
     translation: (the) hosts
     transliteration: junūda
   50:
@@ -216,11 +216,11 @@ word_by_word:
     translation: (of) your Lord
     transliteration: rabbika
   51:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   52:
-    arabic: هُوَ ​ؕ
+    arabic: هُوَۚ
     translation: Him
     transliteration: huwa
   53:
@@ -228,19 +228,19 @@ word_by_word:
     translation: And not
     transliteration: wamā
   54:
-    arabic: هِىَ
+    arabic: هِيَ
     translation: it
     transliteration: hiya
   55:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: (is) but
     transliteration: illā
   56:
-    arabic: ذِكۡرٰى
+    arabic: ذِكۡرَىٰ
     translation: a reminder
     transliteration: dhik'rā
   57:
-    arabic: لِلۡبَشَرِ‏
+    arabic: لِلۡبَشَرِ
     translation: to (the) human beings
     transliteration: lil'bashari
 ---

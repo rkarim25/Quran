@@ -1,5 +1,5 @@
 ---
-arabic_ayat: ثُمَّ اِنِّىۡۤ اَعۡلَـنۡتُ لَهُمۡ وَاَسۡرَرۡتُ لَهُمۡ اِسۡرَارًا ۙ‏
+arabic_ayat: ثُمَّ إِنِّيٓ أَعۡلَنتُ لَهُمۡ وَأَسۡرَرۡتُ لَهُمۡ إِسۡرَارٗا
 sentence_translation: then I surely preached to them publicly and privately,
 word_by_word:
   1:
@@ -7,11 +7,11 @@ word_by_word:
     translation: Then
     transliteration: thumma
   2:
-    arabic: اِنِّىۡۤ
+    arabic: إِنِّيٓ
     translation: indeed, I
     transliteration: innī
   3:
-    arabic: اَعۡلَـنۡتُ
+    arabic: أَعۡلَنتُ
     translation: announced
     transliteration: aʿlantu
   4:
@@ -19,7 +19,7 @@ word_by_word:
     translation: to them
     transliteration: lahum
   5:
-    arabic: وَاَسۡرَرۡتُ
+    arabic: وَأَسۡرَرۡتُ
     translation: and I confided
     transliteration: wa-asrartu
   6:
@@ -27,7 +27,7 @@ word_by_word:
     translation: to them
     transliteration: lahum
   7:
-    arabic: اِسۡرَارًا ۙ‏
+    arabic: إِسۡرَارٗا
     translation: secretly
     transliteration: is'rāran
 ---

@@ -1,13 +1,13 @@
 ---
-arabic_ayat: فَاَمَّا مَنۡ ثَقُلَتۡ مَوَازِيۡنُهٗ ۙ‏
+arabic_ayat: فَأَمَّا مَن ثَقُلَتۡ مَوَٰزِينُهُۥ
 sentence_translation: So as for those whose scale is heavy ˹with good deeds˺,
 word_by_word:
   1:
-    arabic: فَاَمَّا
+    arabic: فَأَمَّا
     translation: Then as for
     transliteration: fa-ammā
   2:
-    arabic: مَنۡ
+    arabic: مَن
     translation: (him) whose
     transliteration: man
   3:
@@ -15,7 +15,7 @@ word_by_word:
     translation: (are) heavy
     transliteration: thaqulat
   4:
-    arabic: مَوَازِيۡنُهٗ ۙ‏
+    arabic: مَوَٰزِينُهُۥ
     translation: his scales
     transliteration: mawāzīnuhu
 ---

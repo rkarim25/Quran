@@ -1,12 +1,12 @@
 ---
-arabic_ayat: ذٰ لِكَ​ۚ وَمَنۡ عَاقَبَ بِمِثۡلِ مَا عُوۡقِبَ بِهٖ ثُمَّ بُغِىَ عَلَيۡهِ
-  لَيَنۡصُرَنَّهُ اللّٰهُ ​ؕ اِنَّ اللّٰهَ لَعَفُوٌّ غَفُوۡرٌ‏
+arabic_ayat: ۞ ذَٰلِكَۖ وَمَنۡ عَاقَبَ بِمِثۡلِ مَا عُوقِبَ بِهِۦ ثُمَّ بُغِيَ عَلَيۡهِ
+  لَيَنصُرَنَّهُ ٱللَّهُۚ إِنَّ ٱللَّهَ لَعَفُوٌّ غَفُورٞ
 sentence_translation: That is so. And whoever retaliates in equivalence to the injury
   they have received, and then are wronged ˹again˺, Allah will certainly help them.
   Surely Allah is Ever-Pardoning, All-Forgiving.
 word_by_word:
   1:
-    arabic: ۞ ذٰ لِكَ​ۚ
+    arabic: ۞ ذَٰلِكَۖ
     translation: That
     transliteration: dhālika
   2:
@@ -26,11 +26,11 @@ word_by_word:
     translation: (of) that
     transliteration: mā
   6:
-    arabic: عُوۡقِبَ
+    arabic: عُوقِبَ
     translation: he was made to suffer
     transliteration: ʿūqiba
   7:
-    arabic: بِهٖ
+    arabic: بِهِۦ
     translation: by it
     transliteration: bihi
   8:
@@ -38,7 +38,7 @@ word_by_word:
     translation: then
     transliteration: thumma
   9:
-    arabic: بُغِىَ
+    arabic: بُغِيَ
     translation: he was oppressed
     transliteration: bughiya
   10:
@@ -46,19 +46,19 @@ word_by_word:
     translation: '[on him]'
     transliteration: ʿalayhi
   11:
-    arabic: لَيَنۡصُرَنَّهُ
+    arabic: لَيَنصُرَنَّهُ
     translation: Allah will surely help him
     transliteration: layanṣurannahu
   12:
-    arabic: اللّٰهُ ​ؕ
+    arabic: ٱللَّهُۚ
     translation: Allah will surely help him
     transliteration: l-lahu
   13:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   14:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   15:
@@ -66,7 +66,7 @@ word_by_word:
     translation: (is) surely Oft-Pardoning
     transliteration: laʿafuwwun
   16:
-    arabic: غَفُوۡرٌ‏
+    arabic: غَفُورٞ
     translation: Oft-Forgiving
     transliteration: ghafūrun
 ---

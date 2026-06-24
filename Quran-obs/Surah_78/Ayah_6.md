@@ -1,9 +1,9 @@
 ---
-arabic_ayat: اَلَمۡ نَجۡعَلِ الۡاَرۡضَ مِهٰدًا ۙ‏
+arabic_ayat: أَلَمۡ نَجۡعَلِ ٱلۡأَرۡضَ مِهَٰدٗا
 sentence_translation: Have We not smoothed out the earth ˹like a bed˺,
 word_by_word:
   1:
-    arabic: اَلَمۡ
+    arabic: أَلَمۡ
     translation: Have not
     transliteration: alam
   2:
@@ -11,11 +11,11 @@ word_by_word:
     translation: We made
     transliteration: najʿali
   3:
-    arabic: الۡاَرۡضَ
+    arabic: ٱلۡأَرۡضَ
     translation: the earth
     transliteration: l-arḍa
   4:
-    arabic: مِهٰدًا ۙ‏
+    arabic: مِهَٰدٗا
     translation: a resting place
     transliteration: mihādan
 ---

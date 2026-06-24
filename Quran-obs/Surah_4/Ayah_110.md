@@ -1,23 +1,23 @@
 ---
-arabic_ayat: وَ مَنۡ يَّعۡمَلۡ سُوۡٓءًا اَوۡ يَظۡلِمۡ نَفۡسَهٗ ثُمَّ يَسۡتَغۡفِرِ
-  اللّٰهَ يَجِدِ اللّٰهَ غَفُوۡرًا رَّحِيۡمًا‏
+arabic_ayat: وَمَن يَعۡمَلۡ سُوٓءًا أَوۡ يَظۡلِمۡ نَفۡسَهُۥ ثُمَّ يَسۡتَغۡفِرِ ٱللَّهَ
+  يَجِدِ ٱللَّهَ غَفُورٗا رَّحِيمٗا
 sentence_translation: Whoever commits evil or wrongs themselves then seeks Allah’s
   forgiveness will certainly find Allah All-Forgiving, Most Merciful.
 word_by_word:
   1:
-    arabic: وَ مَنۡ
+    arabic: وَمَن
     translation: And whoever
     transliteration: waman
   2:
-    arabic: يَّعۡمَلۡ
+    arabic: يَعۡمَلۡ
     translation: does
     transliteration: yaʿmal
   3:
-    arabic: سُوۡٓءًا
+    arabic: سُوٓءًا
     translation: evil
     transliteration: sūan
   4:
-    arabic: اَوۡ
+    arabic: أَوۡ
     translation: or
     transliteration: aw
   5:
@@ -25,7 +25,7 @@ word_by_word:
     translation: wrongs
     transliteration: yaẓlim
   6:
-    arabic: نَفۡسَهٗ
+    arabic: نَفۡسَهُۥ
     translation: his soul
     transliteration: nafsahu
   7:
@@ -37,7 +37,7 @@ word_by_word:
     translation: seeks forgiveness
     transliteration: yastaghfiri
   9:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: (of) Allah
     transliteration: l-laha
   10:
@@ -45,15 +45,15 @@ word_by_word:
     translation: he will find
     transliteration: yajidi
   11:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   12:
-    arabic: غَفُوۡرًا
+    arabic: غَفُورٗا
     translation: Oft-Forgiving
     transliteration: ghafūran
   13:
-    arabic: رَّحِيۡمًا‏
+    arabic: رَّحِيمٗا
     translation: Most Merciful
     transliteration: raḥīman
 ---

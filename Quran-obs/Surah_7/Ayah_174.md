@@ -1,10 +1,10 @@
 ---
-arabic_ayat: وَكَذٰلِكَ نُفَصِّلُ الۡاٰيٰتِ وَلَعَلَّهُمۡ يَرۡجِعُوۡنَ‏
+arabic_ayat: وَكَذَٰلِكَ نُفَصِّلُ ٱلۡأٓيَٰتِ وَلَعَلَّهُمۡ يَرۡجِعُونَ
 sentence_translation: This is how We make our signs clear, so perhaps they will return
   ˹to the Right Path˺.
 word_by_word:
   1:
-    arabic: وَكَذٰلِكَ
+    arabic: وَكَذَٰلِكَ
     translation: And thus
     transliteration: wakadhālika
   2:
@@ -12,7 +12,7 @@ word_by_word:
     translation: We explain
     transliteration: nufaṣṣilu
   3:
-    arabic: الۡاٰيٰتِ
+    arabic: ٱلۡأٓيَٰتِ
     translation: the Verses
     transliteration: l-āyāti
   4:
@@ -20,7 +20,7 @@ word_by_word:
     translation: so that they may
     transliteration: walaʿallahum
   5:
-    arabic: يَرۡجِعُوۡنَ‏
+    arabic: يَرۡجِعُونَ
     translation: return
     transliteration: yarjiʿūna
 ---

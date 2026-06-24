@@ -1,6 +1,6 @@
 ---
-arabic_ayat: وَيَرَى الَّذِيۡنَ اُوۡتُوا الۡعِلۡمَ الَّذِىۡۤ اُنۡزِلَ اِلَيۡكَ مِنۡ
-  رَّبِّكَ هُوَ الۡحَـقَّ ۙ وَيَهۡدِىۡۤ اِلٰى صِرَاطِ الۡعَزِيۡزِ الۡحَمِيۡدِ‏
+arabic_ayat: وَيَرَى ٱلَّذِينَ أُوتُواْ ٱلۡعِلۡمَ ٱلَّذِيٓ أُنزِلَ إِلَيۡكَ مِن رَّبِّكَ
+  هُوَ ٱلۡحَقَّ وَيَهۡدِيٓ إِلَىٰ صِرَٰطِ ٱلۡعَزِيزِ ٱلۡحَمِيدِ
 sentence_translation: Those gifted with knowledge ˹clearly˺ see that what has been
   revealed to you from your Lord ˹O Prophet˺ is the truth, and that it guides to the
   Path of the Almighty, the Praiseworthy.
@@ -10,31 +10,31 @@ word_by_word:
     translation: And see
     transliteration: wayarā
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   3:
-    arabic: اُوۡتُوا
+    arabic: أُوتُواْ
     translation: have been given
     transliteration: ūtū
   4:
-    arabic: الۡعِلۡمَ
+    arabic: ٱلۡعِلۡمَ
     translation: the knowledge
     transliteration: l-ʿil'ma
   5:
-    arabic: الَّذِىۡۤ
+    arabic: ٱلَّذِيٓ
     translation: (that) what
     transliteration: alladhī
   6:
-    arabic: اُنۡزِلَ
+    arabic: أُنزِلَ
     translation: is revealed
     transliteration: unzila
   7:
-    arabic: اِلَيۡكَ
+    arabic: إِلَيۡكَ
     translation: to you
     transliteration: ilayka
   8:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   9:
@@ -46,27 +46,27 @@ word_by_word:
     translation: '[it]'
     transliteration: huwa
   11:
-    arabic: الۡحَـقَّ ۙ
+    arabic: ٱلۡحَقَّ
     translation: (is) the Truth
     transliteration: l-ḥaqa
   12:
-    arabic: وَيَهۡدِىۡۤ
+    arabic: وَيَهۡدِيٓ
     translation: and it guides
     transliteration: wayahdī
   13:
-    arabic: اِلٰى
+    arabic: إِلَىٰ
     translation: to
     transliteration: ilā
   14:
-    arabic: صِرَاطِ
+    arabic: صِرَٰطِ
     translation: (the) Path
     transliteration: ṣirāṭi
   15:
-    arabic: الۡعَزِيۡزِ
+    arabic: ٱلۡعَزِيزِ
     translation: (of) the All-Mighty
     transliteration: l-ʿazīzi
   16:
-    arabic: الۡحَمِيۡدِ‏
+    arabic: ٱلۡحَمِيدِ
     translation: the Praiseworthy
     transliteration: l-ḥamīdi
 ---

@@ -1,6 +1,6 @@
 ---
-arabic_ayat: وَمِنَ النَّاسِ مَنۡ يَّقُوۡلُ اٰمَنَّا بِاللّٰهِ وَبِالۡيَوۡمِ الۡاٰخِرِ
-  وَمَا هُمۡ بِمُؤۡمِنِيۡنَ​ۘ‏
+arabic_ayat: وَمِنَ ٱلنَّاسِ مَن يَقُولُ ءَامَنَّا بِٱللَّهِ وَبِٱلۡيَوۡمِ ٱلۡأٓخِرِ
+  وَمَا هُم بِمُؤۡمِنِينَ
 sentence_translation: And there are some who say, “We believe in Allah and the Last
   Day,” yet they are not ˹true˺ believers.
 word_by_word:
@@ -9,31 +9,31 @@ word_by_word:
     translation: And of
     transliteration: wamina
   2:
-    arabic: النَّاسِ
+    arabic: ٱلنَّاسِ
     translation: the people
     transliteration: l-nāsi
   3:
-    arabic: مَنۡ
+    arabic: مَن
     translation: (are some) who
     transliteration: man
   4:
-    arabic: يَّقُوۡلُ
+    arabic: يَقُولُ ءَ
     translation: say
     transliteration: yaqūlu
   5:
-    arabic: اٰمَنَّا
+    arabic: امَنَّا
     translation: We believed
     transliteration: āmannā
   6:
-    arabic: بِاللّٰهِ
+    arabic: بِٱللَّهِ
     translation: in Allah
     transliteration: bil-lahi
   7:
-    arabic: وَبِالۡيَوۡمِ
+    arabic: وَبِٱلۡيَوۡمِ
     translation: and in the Day
     transliteration: wabil-yawmi
   8:
-    arabic: الۡاٰخِرِ
+    arabic: ٱلۡأٓخِرِ
     translation: '[the] Last'
     transliteration: l-ākhiri
   9:
@@ -41,11 +41,11 @@ word_by_word:
     translation: but not
     transliteration: wamā
   10:
-    arabic: هُمۡ
+    arabic: هُم
     translation: they
     transliteration: hum
   11:
-    arabic: بِمُؤۡمِنِيۡنَ​ۘ‏
+    arabic: بِمُؤۡمِنِينَ
     translation: (are) believers (at all)
     transliteration: bimu'minīna
 ---

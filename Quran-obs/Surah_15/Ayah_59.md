@@ -1,29 +1,29 @@
 ---
-arabic_ayat: اِلَّاۤ اٰلَ لُوۡطٍؕ اِنَّا لَمُنَجُّوۡهُمۡ اَجۡمَعِيۡنَۙ‏
+arabic_ayat: إِلَّآ ءَالَ لُوطٍ إِنَّا لَمُنَجُّوهُمۡ أَجۡمَعِينَ
 sentence_translation: As for the family of Lot, we will certainly deliver them all,
 word_by_word:
   1:
-    arabic: اِلَّاۤ
+    arabic: إِلَّآ ءَ
     translation: Except
     transliteration: illā
   2:
-    arabic: اٰلَ
+    arabic: الَ
     translation: the family
     transliteration: āla
   3:
-    arabic: لُوۡطٍؕ
+    arabic: لُوطٍ
     translation: of Lut
     transliteration: lūṭin
   4:
-    arabic: اِنَّا
+    arabic: إِنَّا
     translation: indeed, we
     transliteration: innā
   5:
-    arabic: لَمُنَجُّوۡهُمۡ
+    arabic: لَمُنَجُّوهُمۡ
     translation: surely will save them
     transliteration: lamunajjūhum
   6:
-    arabic: اَجۡمَعِيۡنَۙ‏
+    arabic: أَجۡمَعِينَ
     translation: all
     transliteration: ajmaʿīna
 ---

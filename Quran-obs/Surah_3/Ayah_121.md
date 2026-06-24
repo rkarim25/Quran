@@ -1,12 +1,12 @@
 ---
-arabic_ayat: وَاِذۡ غَدَوۡتَ مِنۡ اَهۡلِكَ تُبَوِّئُ الۡمُؤۡمِنِيۡنَ مَقَاعِدَ لِلۡقِتَالِ​ؕ
-  وَاللّٰهُ سَمِيۡعٌ عَلِيۡمٌۙ‏
+arabic_ayat: وَإِذۡ غَدَوۡتَ مِنۡ أَهۡلِكَ تُبَوِّئُ ٱلۡمُؤۡمِنِينَ مَقَٰعِدَ لِلۡقِتَالِۗ
+  وَٱللَّهُ سَمِيعٌ عَلِيمٌ
 sentence_translation: ˹Remember, O  Prophet,˺ when you left your home in the early
   morning to position the believers in the battlefield. And Allah is All-Hearing,
   All-Knowing.
 word_by_word:
   1:
-    arabic: وَاِذۡ
+    arabic: وَإِذۡ
     translation: And when
     transliteration: wa-idh
   2:
@@ -18,7 +18,7 @@ word_by_word:
     translation: from
     transliteration: min
   4:
-    arabic: اَهۡلِكَ
+    arabic: أَهۡلِكَ
     translation: your household
     transliteration: ahlika
   5:
@@ -26,27 +26,27 @@ word_by_word:
     translation: to post
     transliteration: tubawwi-u
   6:
-    arabic: الۡمُؤۡمِنِيۡنَ
+    arabic: ٱلۡمُؤۡمِنِينَ
     translation: the believers
     transliteration: l-mu'minīna
   7:
-    arabic: مَقَاعِدَ
+    arabic: مَقَٰعِدَ
     translation: (to take) positions
     transliteration: maqāʿida
   8:
-    arabic: لِلۡقِتَالِ​ؕ
+    arabic: لِلۡقِتَالِۗ
     translation: for the battle
     transliteration: lil'qitāli
   9:
-    arabic: وَاللّٰهُ
+    arabic: وَٱللَّهُ
     translation: And Allah
     transliteration: wal-lahu
   10:
-    arabic: سَمِيۡعٌ
+    arabic: سَمِيعٌ
     translation: (is) All-Hearing
     transliteration: samīʿun
   11:
-    arabic: عَلِيۡمٌۙ‏
+    arabic: عَلِيمٌ
     translation: All-Knowing
     transliteration: ʿalīmun
 ---

@@ -1,12 +1,12 @@
 ---
-arabic_ayat: قٰلَ رَبِّ احۡكُمۡ بِالۡحَـقِّ​ؕ وَرَبُّنَا الرَّحۡمٰنُ الۡمُسۡتَعَانُ
-  عَلٰى مَا تَصِفُوۡنَ‏
+arabic_ayat: قَٰلَ رَبِّ ٱحۡكُم بِٱلۡحَقِّۗ وَرَبُّنَا ٱلرَّحۡمَٰنُ ٱلۡمُسۡتَعَانُ
+  عَلَىٰ مَا تَصِفُونَ
 sentence_translation: ˹In the end,˺ the Prophet said, “My Lord! Judge ˹between us˺
   in truth. And our Lord is the Most Compassionate, Whose help is sought against what
   you claim.” 
 word_by_word:
   1:
-    arabic: قٰلَ
+    arabic: قَٰلَ
     translation: He said
     transliteration: qāla
   2:
@@ -14,11 +14,11 @@ word_by_word:
     translation: My Lord
     transliteration: rabbi
   3:
-    arabic: احۡكُمۡ
+    arabic: ٱحۡكُم
     translation: judge
     transliteration: uḥ'kum
   4:
-    arabic: بِالۡحَـقِّ​ؕ
+    arabic: بِٱلۡحَقِّۗ
     translation: in truth
     transliteration: bil-ḥaqi
   5:
@@ -26,15 +26,15 @@ word_by_word:
     translation: And our Lord
     transliteration: warabbunā
   6:
-    arabic: الرَّحۡمٰنُ
+    arabic: ٱلرَّحۡمَٰنُ
     translation: (is) the Most Gracious
     transliteration: l-raḥmānu
   7:
-    arabic: الۡمُسۡتَعَانُ
+    arabic: ٱلۡمُسۡتَعَانُ
     translation: the One Whose help is sought
     transliteration: l-mus'taʿānu
   8:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: against
     transliteration: ʿalā
   9:
@@ -42,7 +42,7 @@ word_by_word:
     translation: what
     transliteration: mā
   10:
-    arabic: تَصِفُوۡنَ‏
+    arabic: تَصِفُونَ
     translation: you attribute
     transliteration: taṣifūna
 ---

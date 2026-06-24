@@ -1,9 +1,9 @@
 ---
-arabic_ayat: وَاعۡبُدۡ رَبَّكَ حَتّٰى يَاۡتِيَكَ الۡيَـقِيۡنُ‏
+arabic_ayat: وَٱعۡبُدۡ رَبَّكَ حَتَّىٰ يَأۡتِيَكَ ٱلۡيَقِينُ
 sentence_translation: and worship your Lord until the inevitable comes your way.
 word_by_word:
   1:
-    arabic: وَاعۡبُدۡ
+    arabic: وَٱعۡبُدۡ
     translation: And worship
     transliteration: wa-uʿ'bud
   2:
@@ -11,15 +11,15 @@ word_by_word:
     translation: your Lord
     transliteration: rabbaka
   3:
-    arabic: حَتّٰى
+    arabic: حَتَّىٰ
     translation: until
     transliteration: ḥattā
   4:
-    arabic: يَاۡتِيَكَ
+    arabic: يَأۡتِيَكَ
     translation: comes to you
     transliteration: yatiyaka
   5:
-    arabic: الۡيَـقِيۡنُ‏
+    arabic: ٱلۡيَقِينُ
     translation: the certainty
     transliteration: l-yaqīnu
 ---

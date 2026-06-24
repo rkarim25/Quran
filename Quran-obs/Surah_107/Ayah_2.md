@@ -1,13 +1,13 @@
 ---
-arabic_ayat: فَذٰلِكَ الَّذِىۡ يَدُعُّ الۡيَتِيۡمَۙ‏
+arabic_ayat: فَذَٰلِكَ ٱلَّذِي يَدُعُّ ٱلۡيَتِيمَ
 sentence_translation: That is the one who repulses the orphan,
 word_by_word:
   1:
-    arabic: فَذٰلِكَ
+    arabic: فَذَٰلِكَ
     translation: Then that
     transliteration: fadhālika
   2:
-    arabic: الَّذِىۡ
+    arabic: ٱلَّذِي
     translation: (is) the one who
     transliteration: alladhī
   3:
@@ -15,7 +15,7 @@ word_by_word:
     translation: repulses
     transliteration: yaduʿʿu
   4:
-    arabic: الۡيَتِيۡمَۙ‏
+    arabic: ٱلۡيَتِيمَ
     translation: the orphan
     transliteration: l-yatīma
 ---

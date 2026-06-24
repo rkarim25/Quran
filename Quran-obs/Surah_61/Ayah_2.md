@@ -1,17 +1,17 @@
 ---
-arabic_ayat: يٰۤاَيُّهَا الَّذِيۡنَ اٰمَنُوۡا لِمَ تَقُوۡلُوۡنَ مَا لَا تَفۡعَلُوۡنَ‏
+arabic_ayat: يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُواْ لِمَ تَقُولُونَ مَا لَا تَفۡعَلُونَ
 sentence_translation: O believers! Why do you say what you do not do?
 word_by_word:
   1:
-    arabic: يٰۤاَيُّهَا
+    arabic: يَٰٓأَيُّهَا
     translation: O
     transliteration: yāayyuhā
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ ءَ
     translation: (you) who
     transliteration: alladhīna
   3:
-    arabic: اٰمَنُوۡا
+    arabic: امَنُواْ
     translation: believe
     transliteration: āmanū
   4:
@@ -19,7 +19,7 @@ word_by_word:
     translation: Why
     transliteration: lima
   5:
-    arabic: تَقُوۡلُوۡنَ
+    arabic: تَقُولُونَ
     translation: (do) you say
     transliteration: taqūlūna
   6:
@@ -31,7 +31,7 @@ word_by_word:
     translation: not
     transliteration: lā
   8:
-    arabic: تَفۡعَلُوۡنَ‏
+    arabic: تَفۡعَلُونَ
     translation: you do
     transliteration: tafʿalūna
 ---

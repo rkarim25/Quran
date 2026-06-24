@@ -1,43 +1,43 @@
 ---
-arabic_ayat: فَاَمَّا الَّذِيۡنَ كَفَرُوۡا فَاُعَذِّبُهُمۡ عَذَابًا شَدِيۡدًا فِى
-  الدُّنۡيَا وَالۡاٰخِرَةِ وَمَا لَهُمۡ مِّنۡ نّٰصِرِيۡنَ‏
+arabic_ayat: فَأَمَّا ٱلَّذِينَ كَفَرُواْ فَأُعَذِّبُهُمۡ عَذَابٗا شَدِيدٗا فِي ٱلدُّنۡيَا
+  وَٱلۡأٓخِرَةِ وَمَا لَهُم مِّن نَّٰصِرِينَ
 sentence_translation: As for those who disbelieve, I will subject them to a severe
   punishment in this life and the Hereafter, and they will have no helpers.
 word_by_word:
   1:
-    arabic: فَاَمَّا
+    arabic: فَأَمَّا
     translation: Then as for
     transliteration: fa-ammā
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   3:
-    arabic: كَفَرُوۡا
+    arabic: كَفَرُواْ
     translation: disbelieve[d]
     transliteration: kafarū
   4:
-    arabic: فَاُعَذِّبُهُمۡ
+    arabic: فَأُعَذِّبُهُمۡ
     translation: then I will punish them
     transliteration: fa-uʿadhibuhum
   5:
-    arabic: عَذَابًا
+    arabic: عَذَابٗا
     translation: (with) a punishment
     transliteration: ʿadhāban
   6:
-    arabic: شَدِيۡدًا
+    arabic: شَدِيدٗا
     translation: severe
     transliteration: shadīdan
   7:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   8:
-    arabic: الدُّنۡيَا
+    arabic: ٱلدُّنۡيَا
     translation: the world
     transliteration: l-dun'yā
   9:
-    arabic: وَالۡاٰخِرَةِ
+    arabic: وَٱلۡأٓخِرَةِ
     translation: and (in) the Hereafter
     transliteration: wal-ākhirati
   10:
@@ -45,15 +45,15 @@ word_by_word:
     translation: And not
     transliteration: wamā
   11:
-    arabic: لَهُمۡ
+    arabic: لَهُم
     translation: for them
     transliteration: lahum
   12:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: any
     transliteration: min
   13:
-    arabic: نّٰصِرِيۡنَ‏
+    arabic: نَّٰصِرِينَ
     translation: helpers
     transliteration: nāṣirīna
 ---

@@ -1,30 +1,30 @@
 ---
-arabic_ayat: اِنَّ فِى السَّمٰوٰتِ وَالۡاَرۡضِ لَاٰيٰتٍ لِّلۡمُؤۡمِنِيۡنَؕ‏
+arabic_ayat: إِنَّ فِي ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِ لَأٓيَٰتٖ لِّلۡمُؤۡمِنِينَ
 sentence_translation: Surely in ˹the creation of˺ the heavens and the earth are signs
   for the believers.
 word_by_word:
   1:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   2:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   3:
-    arabic: السَّمٰوٰتِ
+    arabic: ٱلسَّمَٰوَٰتِ
     translation: the heavens
     transliteration: l-samāwāti
   4:
-    arabic: وَالۡاَرۡضِ
+    arabic: وَٱلۡأَرۡضِ
     translation: and the earth
     transliteration: wal-arḍi
   5:
-    arabic: لَاٰيٰتٍ
+    arabic: لَأٓيَٰتٖ
     translation: surely (are) Signs
     transliteration: laāyātin
   6:
-    arabic: لِّلۡمُؤۡمِنِيۡنَؕ‏
+    arabic: لِّلۡمُؤۡمِنِينَ
     translation: for the believers
     transliteration: lil'mu'minīna
 ---

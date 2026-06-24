@@ -1,15 +1,14 @@
 ---
-arabic_ayat: اَلۡاَخِلَّاۤءُ يَوۡمَٮِٕذٍۢ بَعۡضُهُمۡ لِبَعۡضٍ عَدُوٌّ اِلَّا الۡمُتَّقِيۡنَ
-  ؕ ‏
+arabic_ayat: ٱلۡأَخِلَّآءُ يَوۡمَئِذِۭ بَعۡضُهُمۡ لِبَعۡضٍ عَدُوٌّ إِلَّا ٱلۡمُتَّقِينَ
 sentence_translation: Close friends will be enemies to one another on that Day, except
   the righteous,
 word_by_word:
   1:
-    arabic: اَلۡاَخِلَّاۤءُ
+    arabic: ٱلۡأَخِلَّآءُ
     translation: Friends
     transliteration: al-akhilāu
   2:
-    arabic: يَوۡمَٮِٕذٍۢ
+    arabic: يَوۡمَئِذِۭ
     translation: that Day
     transliteration: yawma-idhin
   3:
@@ -25,11 +24,11 @@ word_by_word:
     translation: (will be) enemies
     transliteration: ʿaduwwun
   6:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   7:
-    arabic: الۡمُتَّقِيۡنَ ؕ ‏
+    arabic: ٱلۡمُتَّقِينَ
     translation: the righteous
     transliteration: l-mutaqīna
 ---

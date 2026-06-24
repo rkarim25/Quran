@@ -1,10 +1,10 @@
 ---
-arabic_ayat: وَلَمَنۡ صَبَرَ وَغَفَرَ اِنَّ ذٰلِكَ لَمِنۡ عَزۡمِ الۡاُمُوۡرِ‏
+arabic_ayat: وَلَمَن صَبَرَ وَغَفَرَ إِنَّ ذَٰلِكَ لَمِنۡ عَزۡمِ ٱلۡأُمُورِ
 sentence_translation: And whoever endures patiently and forgives—surely this is a
   resolve to aspire to.
 word_by_word:
   1:
-    arabic: وَلَمَنۡ
+    arabic: وَلَمَن
     translation: And whoever
     transliteration: walaman
   2:
@@ -16,11 +16,11 @@ word_by_word:
     translation: and forgives
     transliteration: waghafara
   4:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: indeed
     transliteration: inna
   5:
-    arabic: ذٰلِكَ
+    arabic: ذَٰلِكَ
     translation: that
     transliteration: dhālika
   6:
@@ -32,7 +32,7 @@ word_by_word:
     translation: matters of determination
     transliteration: ʿazmi
   8:
-    arabic: الۡاُمُوۡرِ‏
+    arabic: ٱلۡأُمُورِ
     translation: matters of determination
     transliteration: l-umūri
 ---

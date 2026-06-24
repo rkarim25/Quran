@@ -1,9 +1,9 @@
 ---
-arabic_ayat: سَيَـقُوۡلُوۡنَ ثَلٰثَةٌ رَّابِعُهُمۡ كَلۡبُهُمۡ​ۚ وَيَقُوۡلُوۡنَ خَمۡسَةٌ
-  سَادِسُهُمۡ كَلۡبُهُمۡ رَجۡمًۢا بِالۡغَيۡبِ​ۚ وَيَقُوۡلُوۡنَ سَبۡعَةٌ وَّثَامِنُهُمۡ
-  كَلۡبُهُمۡ​ؕ قُلْ رَّبِّىۡۤ اَعۡلَمُ بِعِدَّتِهِمۡ مَّا يَعۡلَمُهُمۡ اِلَّا قَلِيۡلٌ
-   فَلَا تُمَارِ فِيۡهِمۡ اِلَّا مِرَآءً ظَاهِرًا وَّلَا تَسۡتَفۡتِ فِيۡهِمۡ مِّنۡهُمۡ
-  اَحَدًا‏
+arabic_ayat: سَيَقُولُونَ ثَلَٰثَةٞ رَّابِعُهُمۡ كَلۡبُهُمۡ وَيَقُولُونَ خَمۡسَةٞ
+  سَادِسُهُمۡ كَلۡبُهُمۡ رَجۡمَۢا بِٱلۡغَيۡبِۖ وَيَقُولُونَ سَبۡعَةٞ وَثَامِنُهُمۡ
+  كَلۡبُهُمۡۚ قُل رَّبِّيٓ أَعۡلَمُ بِعِدَّتِهِم مَّا يَعۡلَمُهُمۡ إِلَّا قَلِيلٞۗ
+  فَلَا تُمَارِ فِيهِمۡ إِلَّا مِرَآءٗ ظَٰهِرٗا وَلَا تَسۡتَفۡتِ فِيهِم مِّنۡهُمۡ
+  أَحَدٗا
 sentence_translation: Some will say, “They were three, their dog was the fourth,”
   while others will say, “They were five, their dog was the sixth,” ˹only˺ guessing
   blindly. And others will say, “They were seven and their dog was the eighth.” Say,
@@ -12,11 +12,11 @@ sentence_translation: Some will say, “They were three, their dog was the fourt
   those ˹who debate˺ about them.
 word_by_word:
   1:
-    arabic: سَيَـقُوۡلُوۡنَ
+    arabic: سَيَقُولُونَ
     translation: They say
     transliteration: sayaqūlūna
   2:
-    arabic: ثَلٰثَةٌ
+    arabic: ثَلَٰثَةٞ
     translation: (they were) three
     transliteration: thalāthatun
   3:
@@ -24,15 +24,15 @@ word_by_word:
     translation: the forth of them
     transliteration: rābiʿuhum
   4:
-    arabic: كَلۡبُهُمۡ​ۚ
+    arabic: كَلۡبُهُمۡ
     translation: their dog
     transliteration: kalbuhum
   5:
-    arabic: وَيَقُوۡلُوۡنَ
+    arabic: وَيَقُولُونَ
     translation: and they say
     transliteration: wayaqūlūna
   6:
-    arabic: خَمۡسَةٌ
+    arabic: خَمۡسَةٞ
     translation: (they were) five
     transliteration: khamsatun
   7:
@@ -44,43 +44,43 @@ word_by_word:
     translation: 'their dog '
     transliteration: kalbuhum
   9:
-    arabic: رَجۡمًۢا
+    arabic: رَجۡمَۢا
     translation: guessing
     transliteration: rajman
   10:
-    arabic: بِالۡغَيۡبِ​ۚ
+    arabic: بِٱلۡغَيۡبِۖ
     translation: about the unseen
     transliteration: bil-ghaybi
   11:
-    arabic: وَيَقُوۡلُوۡنَ
+    arabic: وَيَقُولُونَ
     translation: and they say
     transliteration: wayaqūlūna
   12:
-    arabic: سَبۡعَةٌ
+    arabic: سَبۡعَةٞ
     translation: (they were) seven
     transliteration: sabʿatun
   13:
-    arabic: وَّثَامِنُهُمۡ
+    arabic: وَثَامِنُهُمۡ
     translation: and the eight of them
     transliteration: wathāminuhum
   14:
-    arabic: كَلۡبُهُمۡ​ؕ
+    arabic: كَلۡبُهُمۡۚ
     translation: their dog
     transliteration: kalbuhum
   15:
-    arabic: قُلْ
+    arabic: قُل
     translation: Say
     transliteration: qul
   16:
-    arabic: رَّبِّىۡۤ
+    arabic: رَّبِّيٓ
     translation: My Lord
     transliteration: rabbī
   17:
-    arabic: اَعۡلَمُ
+    arabic: أَعۡلَمُ
     translation: knows best
     transliteration: aʿlamu
   18:
-    arabic: بِعِدَّتِهِمۡ
+    arabic: بِعِدَّتِهِم
     translation: their number
     transliteration: biʿiddatihim
   19:
@@ -92,11 +92,11 @@ word_by_word:
     translation: knows them
     transliteration: yaʿlamuhum
   21:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   22:
-    arabic: قَلِيۡلٌ  
+    arabic: قَلِيلٞۗ
     translation: a few
     transliteration: qalīlun
   23:
@@ -108,23 +108,23 @@ word_by_word:
     translation: argue
     transliteration: tumāri
   25:
-    arabic: فِيۡهِمۡ
+    arabic: فِيهِمۡ
     translation: about them
     transliteration: fīhim
   26:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   27:
-    arabic: مِرَآءً
+    arabic: مِرَآءٗ
     translation: (with) an argument
     transliteration: mirāan
   28:
-    arabic: ظَاهِرًا
+    arabic: ظَٰهِرٗا
     translation: obvious
     transliteration: ẓāhiran
   29:
-    arabic: وَّلَا
+    arabic: وَلَا
     translation: and (do) not
     transliteration: walā
   30:
@@ -132,7 +132,7 @@ word_by_word:
     translation: inquire
     transliteration: tastafti
   31:
-    arabic: فِيۡهِمۡ
+    arabic: فِيهِم
     translation: about them
     transliteration: fīhim
   32:
@@ -140,7 +140,7 @@ word_by_word:
     translation: among them
     transliteration: min'hum
   33:
-    arabic: اَحَدًا‏
+    arabic: أَحَدٗا
     translation: (from) anyone
     transliteration: aḥadan
 ---

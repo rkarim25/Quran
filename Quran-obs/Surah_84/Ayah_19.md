@@ -1,5 +1,5 @@
 ---
-arabic_ayat: لَتَرۡكَبُنَّ طَبَقًا عَنۡ طَبَقٍؕ‏
+arabic_ayat: لَتَرۡكَبُنَّ طَبَقًا عَن طَبَقٖ
 sentence_translation: You will certainly pass from one state to another.
 word_by_word:
   1:
@@ -11,11 +11,11 @@ word_by_word:
     translation: (to) stage
     transliteration: ṭabaqan
   3:
-    arabic: عَنۡ
+    arabic: عَن
     translation: from
     transliteration: ʿan
   4:
-    arabic: طَبَقٍؕ‏
+    arabic: طَبَقٖ
     translation: stage
     transliteration: ṭabaqin
 ---

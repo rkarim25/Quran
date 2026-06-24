@@ -1,18 +1,18 @@
 ---
-arabic_ayat: اُولٰٓٮِٕكَ مَاۡوٰٮهُمُ النَّارُ بِمَا كَانُوۡا يَكۡسِبُوۡنَ‏
+arabic_ayat: أُوْلَٰٓئِكَ مَأۡوَىٰهُمُ ٱلنَّارُ بِمَا كَانُواْ يَكۡسِبُونَ
 sentence_translation: they will have the Fire as a home because of what they have
   committed.
 word_by_word:
   1:
-    arabic: اُولٰٓٮِٕكَ
+    arabic: أُوْلَٰٓئِكَ
     translation: 'Those '
     transliteration: ulāika
   2:
-    arabic: مَاۡوٰٮهُمُ
+    arabic: مَأۡوَىٰهُمُ
     translation: their abode
     transliteration: mawāhumu
   3:
-    arabic: النَّارُ
+    arabic: ٱلنَّارُ
     translation: (will be) the Fire
     transliteration: l-nāru
   4:
@@ -20,11 +20,11 @@ word_by_word:
     translation: for what
     transliteration: bimā
   5:
-    arabic: كَانُوۡا
+    arabic: كَانُواْ
     translation: they used (to)
     transliteration: kānū
   6:
-    arabic: يَكۡسِبُوۡنَ‏
+    arabic: يَكۡسِبُونَ
     translation: earn
     transliteration: yaksibūna
 ---

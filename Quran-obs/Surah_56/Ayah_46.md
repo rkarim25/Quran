@@ -1,13 +1,13 @@
 ---
-arabic_ayat: وَكَانُوۡا يُصِرُّوۡنَ عَلَى الۡحِنۡثِ الۡعَظِيۡمِ​ۚ‏
+arabic_ayat: وَكَانُواْ يُصِرُّونَ عَلَى ٱلۡحِنثِ ٱلۡعَظِيمِ
 sentence_translation: and persisted in the worst of sin.
 word_by_word:
   1:
-    arabic: وَكَانُوۡا
+    arabic: وَكَانُواْ
     translation: And were
     transliteration: wakānū
   2:
-    arabic: يُصِرُّوۡنَ
+    arabic: يُصِرُّونَ
     translation: persisting
     transliteration: yuṣirrūna
   3:
@@ -15,11 +15,11 @@ word_by_word:
     translation: in
     transliteration: ʿalā
   4:
-    arabic: الۡحِنۡثِ
+    arabic: ٱلۡحِنثِ
     translation: the sin
     transliteration: l-ḥinthi
   5:
-    arabic: الۡعَظِيۡمِ​ۚ‏
+    arabic: ٱلۡعَظِيمِ
     translation: the great
     transliteration: l-ʿaẓīmi
 ---

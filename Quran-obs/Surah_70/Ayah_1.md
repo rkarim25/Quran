@@ -1,21 +1,21 @@
 ---
-arabic_ayat: سَاَلَ سَآٮِٕلٌ ۢ بِعَذَابٍ وَّاقِعٍۙ‏
+arabic_ayat: سَأَلَ سَآئِلُۢ بِعَذَابٖ وَاقِعٖ
 sentence_translation: A challenger has demanded a punishment bound to come
 word_by_word:
   1:
-    arabic: سَاَلَ
+    arabic: سَأَلَ
     translation: Asked
     transliteration: sa-ala
   2:
-    arabic: سَآٮِٕلٌ ۢ
+    arabic: سَآئِلُۢ
     translation: a questioner
     transliteration: sāilun
   3:
-    arabic: بِعَذَابٍ
+    arabic: بِعَذَابٖ
     translation: about a punishment
     transliteration: biʿadhābin
   4:
-    arabic: وَّاقِعٍۙ‏
+    arabic: وَاقِعٖ
     translation: bound to happen
     transliteration: wāqiʿin
 ---

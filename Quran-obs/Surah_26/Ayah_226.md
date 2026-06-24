@@ -1,13 +1,13 @@
 ---
-arabic_ayat: وَاَنَّهُمۡ يَقُوۡلُوۡنَ مَا لَا يَفۡعَلُوۡنَۙ‏
+arabic_ayat: وَأَنَّهُمۡ يَقُولُونَ مَا لَا يَفۡعَلُونَ
 sentence_translation: only saying what they never do?
 word_by_word:
   1:
-    arabic: وَاَنَّهُمۡ
+    arabic: وَأَنَّهُمۡ
     translation: And that they
     transliteration: wa-annahum
   2:
-    arabic: يَقُوۡلُوۡنَ
+    arabic: يَقُولُونَ
     translation: say
     transliteration: yaqūlūna
   3:
@@ -19,7 +19,7 @@ word_by_word:
     translation: not
     transliteration: lā
   5:
-    arabic: يَفۡعَلُوۡنَۙ‏
+    arabic: يَفۡعَلُونَ
     translation: they do
     transliteration: yafʿalūna
 ---

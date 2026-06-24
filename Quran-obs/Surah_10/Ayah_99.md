@@ -1,6 +1,6 @@
 ---
-arabic_ayat: وَلَوۡ شَآءَ رَبُّكَ لَاٰمَنَ مَنۡ فِى الۡاَرۡضِ كُلُّهُمۡ جَمِيۡعًا​
-  ؕ اَفَاَنۡتَ تُكۡرِهُ النَّاسَ حَتّٰى يَكُوۡنُوۡا مُؤۡمِنِيۡنَ‏
+arabic_ayat: وَلَوۡ شَآءَ رَبُّكَ لَأٓمَنَ مَن فِي ٱلۡأَرۡضِ كُلُّهُمۡ جَمِيعًاۚ
+  أَفَأَنتَ تُكۡرِهُ ٱلنَّاسَ حَتَّىٰ يَكُونُواْ مُؤۡمِنِينَ
 sentence_translation: Had your Lord so willed ˹O Prophet˺, all ˹people˺ on earth would
   have certainly believed, every single one of them! Would you then force people to
   become believers?
@@ -18,19 +18,19 @@ word_by_word:
     translation: your Lord
     transliteration: rabbuka
   4:
-    arabic: لَاٰمَنَ
+    arabic: لَأٓمَنَ
     translation: surely, (would) have believed
     transliteration: laāmana
   5:
-    arabic: مَنۡ
+    arabic: مَن
     translation: who
     transliteration: man
   6:
-    arabic: فِى
+    arabic: فِي
     translation: (are) in
     transliteration: fī
   7:
-    arabic: الۡاَرۡضِ
+    arabic: ٱلۡأَرۡضِ
     translation: the earth
     transliteration: l-arḍi
   8:
@@ -38,11 +38,11 @@ word_by_word:
     translation: all of them
     transliteration: kulluhum
   9:
-    arabic: جَمِيۡعًا​ ؕ
+    arabic: جَمِيعًاۚ
     translation: together
     transliteration: jamīʿan
   10:
-    arabic: اَفَاَنۡتَ
+    arabic: أَفَأَنتَ
     translation: Then, will you
     transliteration: afa-anta
   11:
@@ -50,19 +50,19 @@ word_by_word:
     translation: compel
     transliteration: tuk'rihu
   12:
-    arabic: النَّاسَ
+    arabic: ٱلنَّاسَ
     translation: the mankind
     transliteration: l-nāsa
   13:
-    arabic: حَتّٰى
+    arabic: حَتَّىٰ
     translation: until
     transliteration: ḥattā
   14:
-    arabic: يَكُوۡنُوۡا
+    arabic: يَكُونُواْ
     translation: they become
     transliteration: yakūnū
   15:
-    arabic: مُؤۡمِنِيۡنَ‏
+    arabic: مُؤۡمِنِينَ
     translation: believers
     transliteration: mu'minīna
 ---

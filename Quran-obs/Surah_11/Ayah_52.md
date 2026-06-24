@@ -1,17 +1,17 @@
 ---
-arabic_ayat: وَيٰقَوۡمِ اسۡتَغۡفِرُوۡا رَبَّكُمۡ ثُمَّ تُوۡبُوۡۤا اِلَيۡهِ يُرۡسِلِ
-  السَّمَآءَ عَلَيۡكُمۡ مِّدۡرَارًا وَّيَزِدۡكُمۡ قُوَّةً اِلٰى قُوَّتِكُمۡ وَلَا
-  تَتَوَلَّوۡا مُجۡرِمِيۡنَ‏
+arabic_ayat: وَيَٰقَوۡمِ ٱسۡتَغۡفِرُواْ رَبَّكُمۡ ثُمَّ تُوبُوٓاْ إِلَيۡهِ يُرۡسِلِ
+  ٱلسَّمَآءَ عَلَيۡكُم مِّدۡرَارٗا وَيَزِدۡكُمۡ قُوَّةً إِلَىٰ قُوَّتِكُمۡ وَلَا
+  تَتَوَلَّوۡاْ مُجۡرِمِينَ
 sentence_translation: And O  my people! Seek your Lord’s forgiveness and turn to Him
   in repentance. He will shower you with rain in abundance, and add strength to your
   strength. So do not turn away, persisting in wickedness.”
 word_by_word:
   1:
-    arabic: وَيٰقَوۡمِ
+    arabic: وَيَٰقَوۡمِ
     translation: And O my people
     transliteration: wayāqawmi
   2:
-    arabic: اسۡتَغۡفِرُوۡا
+    arabic: ٱسۡتَغۡفِرُواْ
     translation: Ask forgiveness
     transliteration: is'taghfirū
   3:
@@ -23,11 +23,11 @@ word_by_word:
     translation: then
     transliteration: thumma
   5:
-    arabic: تُوۡبُوۡۤا
+    arabic: تُوبُوٓاْ
     translation: turn in repentance
     transliteration: tūbū
   6:
-    arabic: اِلَيۡهِ
+    arabic: إِلَيۡهِ
     translation: to Him
     transliteration: ilayhi
   7:
@@ -35,19 +35,19 @@ word_by_word:
     translation: He will send
     transliteration: yur'sili
   8:
-    arabic: السَّمَآءَ
+    arabic: ٱلسَّمَآءَ
     translation: (from) the sky (rain)
     transliteration: l-samāa
   9:
-    arabic: عَلَيۡكُمۡ
+    arabic: عَلَيۡكُم
     translation: upon you
     transliteration: ʿalaykum
   10:
-    arabic: مِّدۡرَارًا
+    arabic: مِّدۡرَارٗا
     translation: (in) abundance
     transliteration: mid'rāran
   11:
-    arabic: وَّيَزِدۡكُمۡ
+    arabic: وَيَزِدۡكُمۡ
     translation: and increase you
     transliteration: wayazid'kum
   12:
@@ -55,7 +55,7 @@ word_by_word:
     translation: (in) strength
     transliteration: quwwatan
   13:
-    arabic: اِلٰى
+    arabic: إِلَىٰ
     translation: (added) to
     transliteration: ilā
   14:
@@ -67,11 +67,11 @@ word_by_word:
     translation: And (do) not
     transliteration: walā
   16:
-    arabic: تَتَوَلَّوۡا
+    arabic: تَتَوَلَّوۡاْ
     translation: turn away
     transliteration: tatawallaw
   17:
-    arabic: مُجۡرِمِيۡنَ‏
+    arabic: مُجۡرِمِينَ
     translation: (as) criminals
     transliteration: muj'rimīna
 ---

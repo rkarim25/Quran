@@ -1,6 +1,6 @@
 ---
-arabic_ayat: فَجَعَلۡنَا عَالِيـَهَا سَافِلَهَا وَ اَمۡطَرۡنَا عَلَيۡهِمۡ حِجَارَةً
-  مِّنۡ سِجِّيۡلٍؕ‏
+arabic_ayat: فَجَعَلۡنَا عَٰلِيَهَا سَافِلَهَا وَأَمۡطَرۡنَا عَلَيۡهِمۡ حِجَارَةٗ
+  مِّن سِجِّيلٍ
 sentence_translation: And We turned the cities ˹of Sodom and Gomorrah˺ upside down
   and rained upon them stones of baked clay.
 word_by_word:
@@ -9,7 +9,7 @@ word_by_word:
     translation: And We made
     transliteration: fajaʿalnā
   2:
-    arabic: عَالِيـَهَا
+    arabic: عَٰلِيَهَا
     translation: its highest (part)
     transliteration: ʿāliyahā
   3:
@@ -17,7 +17,7 @@ word_by_word:
     translation: its lowest
     transliteration: sāfilahā
   4:
-    arabic: وَ اَمۡطَرۡنَا
+    arabic: وَأَمۡطَرۡنَا
     translation: and We rained
     transliteration: wa-amṭarnā
   5:
@@ -25,15 +25,15 @@ word_by_word:
     translation: upon them
     transliteration: ʿalayhim
   6:
-    arabic: حِجَارَةً
+    arabic: حِجَارَةٗ
     translation: stones
     transliteration: ḥijāratan
   7:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: of
     transliteration: min
   8:
-    arabic: سِجِّيۡلٍؕ‏
+    arabic: سِجِّيلٍ
     translation: baked clay
     transliteration: sijjīlin
 ---

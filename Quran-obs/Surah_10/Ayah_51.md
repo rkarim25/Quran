@@ -1,15 +1,15 @@
 ---
-arabic_ayat: اَثُمَّ اِذَا مَا وَقَعَ اٰمَنۡتُمۡ بِهٖؕ اٰۤلْــٴٰـنَ وَقَدۡ كُنۡتُمۡ
-  بِهٖ تَسۡتَعۡجِلُوۡنَ‏
+arabic_ayat: أَثُمَّ إِذَا مَا وَقَعَ ءَامَنتُم بِهِۦٓۚ ءَآلۡـَٰٔنَ وَقَدۡ كُنتُم
+  بِهِۦ تَسۡتَعۡجِلُونَ
 sentence_translation: Will you believe in it only after it has overtaken you? Now?
   But you always wanted to hasten it!”
 word_by_word:
   1:
-    arabic: اَثُمَّ
+    arabic: أَثُمَّ
     translation: Is (it) then
     transliteration: athumma
   2:
-    arabic: اِذَا
+    arabic: إِذَا
     translation: when
     transliteration: idhā
   3:
@@ -17,19 +17,19 @@ word_by_word:
     translation: when
     transliteration: mā
   4:
-    arabic: وَقَعَ
+    arabic: وَقَعَ ءَ
     translation: (it had) occurred
     transliteration: waqaʿa
   5:
-    arabic: اٰمَنۡتُمۡ
+    arabic: امَنتُم
     translation: you (will) believe
     transliteration: āmantum
   6:
-    arabic: بِهٖؕ
+    arabic: بِهِۦٓۚ ءَ
     translation: in it
     transliteration: bihi
   7:
-    arabic: اٰۤلْــٴٰـنَ
+    arabic: آلۡـَٰٔنَ
     translation: Now
     transliteration: āl'āna
   8:
@@ -37,15 +37,15 @@ word_by_word:
     translation: And certainly
     transliteration: waqad
   9:
-    arabic: كُنۡتُمۡ
+    arabic: كُنتُم
     translation: you were
     transliteration: kuntum
   10:
-    arabic: بِهٖ
+    arabic: بِهِۦ
     translation: seeking to hasten it
     transliteration: bihi
   11:
-    arabic: تَسۡتَعۡجِلُوۡنَ‏
+    arabic: تَسۡتَعۡجِلُونَ
     translation: seeking to hasten it
     transliteration: tastaʿjilūna
 ---

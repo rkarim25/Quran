@@ -1,7 +1,6 @@
 ---
-arabic_ayat: "مَثَلُهُمۡ كَمَثَلِ الَّذِى اسۡتَوۡقَدَ نَارًا ​ۚ فَلَمَّاۤ اَضَآءَتۡ\
-  \ مَا حَوۡلَهٗ ذَهَبَ اللّٰهُ بِنُوۡرِهِمۡ وَتَرَكَهُمۡ فِىۡ ظُلُمٰتٍ لَّا يُبۡصِرُوۡنَ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: مَثَلُهُمۡ كَمَثَلِ ٱلَّذِي ٱسۡتَوۡقَدَ نَارٗا فَلَمَّآ أَضَآءَتۡ مَا
+  حَوۡلَهُۥ ذَهَبَ ٱللَّهُ بِنُورِهِمۡ وَتَرَكَهُمۡ فِي ظُلُمَٰتٖ لَّا يُبۡصِرُونَ
 sentence_translation: Their example is that of someone who kindles a fire, but when
   it lights up all around them, Allah takes away their light, leaving them in complete
   darkness—unable to see.
@@ -15,23 +14,23 @@ word_by_word:
     translation: (is) like (the) example
     transliteration: kamathali
   3:
-    arabic: الَّذِى
+    arabic: ٱلَّذِي
     translation: (of) the one who
     transliteration: alladhī
   4:
-    arabic: اسۡتَوۡقَدَ
+    arabic: ٱسۡتَوۡقَدَ
     translation: kindled
     transliteration: is'tawqada
   5:
-    arabic: نَارًا ​ۚ
+    arabic: نَارٗا
     translation: a fire
     transliteration: nāran
   6:
-    arabic: فَلَمَّاۤ
+    arabic: فَلَمَّآ
     translation: then, when
     transliteration: falammā
   7:
-    arabic: اَضَآءَتۡ
+    arabic: أَضَآءَتۡ
     translation: it illuminated
     transliteration: aḍāat
   8:
@@ -39,7 +38,7 @@ word_by_word:
     translation: what
     transliteration: mā
   9:
-    arabic: حَوۡلَهٗ
+    arabic: حَوۡلَهُۥ
     translation: (was) around him
     transliteration: ḥawlahu
   10:
@@ -47,11 +46,11 @@ word_by_word:
     translation: took away
     transliteration: dhahaba
   11:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   12:
-    arabic: بِنُوۡرِهِمۡ
+    arabic: بِنُورِهِمۡ
     translation: their light
     transliteration: binūrihim
   13:
@@ -59,11 +58,11 @@ word_by_word:
     translation: and left them
     transliteration: watarakahum
   14:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   15:
-    arabic: ظُلُمٰتٍ
+    arabic: ظُلُمَٰتٖ
     translation: darkness[es]
     transliteration: ẓulumātin
   16:
@@ -71,7 +70,7 @@ word_by_word:
     translation: (so) not
     transliteration: lā
   17:
-    arabic: "يُبۡصِرُوۡنَ‏ \uFEFF\uFEFF"
+    arabic: يُبۡصِرُونَ
     translation: (do) they see
     transliteration: yub'ṣirūna
 ---

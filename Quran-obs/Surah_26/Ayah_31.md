@@ -1,5 +1,5 @@
 ---
-arabic_ayat: قَالَ فَاۡتِ بِهٖۤ اِنۡ كُنۡتَ مِنَ الصّٰدِقِيۡنَ‏
+arabic_ayat: قَالَ فَأۡتِ بِهِۦٓ إِن كُنتَ مِنَ ٱلصَّٰدِقِينَ
 sentence_translation: Pharaoh demanded, “Bring it then, if what you say is true.”
 word_by_word:
   1:
@@ -7,19 +7,19 @@ word_by_word:
     translation: He said
     transliteration: qāla
   2:
-    arabic: فَاۡتِ
+    arabic: فَأۡتِ
     translation: Then bring
     transliteration: fati
   3:
-    arabic: بِهٖۤ
+    arabic: بِهِۦٓ
     translation: it
     transliteration: bihi
   4:
-    arabic: اِنۡ
+    arabic: إِن
     translation: if
     transliteration: in
   5:
-    arabic: كُنۡتَ
+    arabic: كُنتَ
     translation: you are
     transliteration: kunta
   6:
@@ -27,7 +27,7 @@ word_by_word:
     translation: of
     transliteration: mina
   7:
-    arabic: الصّٰدِقِيۡنَ‏
+    arabic: ٱلصَّٰدِقِينَ
     translation: the truthful
     transliteration: l-ṣādiqīna
 ---

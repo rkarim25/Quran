@@ -1,123 +1,123 @@
 ---
-arabic_ayat: يٰۤـاَيُّهَا الَّذِيۡنَ اٰمَنُوۡۤا اَطِيۡـعُوا اللّٰهَ وَاَطِيۡـعُوا
-  الرَّسُوۡلَ وَاُولِى الۡاَمۡرِ مِنۡكُمۡ​ۚ فَاِنۡ تَنَازَعۡتُمۡ فِىۡ شَىۡءٍ فَرُدُّوۡهُ
-  اِلَى اللّٰهِ وَالرَّسُوۡلِ اِنۡ كُنۡـتُمۡ تُؤۡمِنُوۡنَ بِاللّٰهِ وَالۡيَـوۡمِ الۡاٰخِرِ​
-  ؕ ذٰ لِكَ خَيۡرٌ وَّاَحۡسَنُ تَاۡوِيۡلًا‏
+arabic_ayat: يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓاْ أَطِيعُواْ ٱللَّهَ وَأَطِيعُواْ ٱلرَّسُولَ
+  وَأُوْلِي ٱلۡأَمۡرِ مِنكُمۡۖ فَإِن تَنَٰزَعۡتُمۡ فِي شَيۡءٖ فَرُدُّوهُ إِلَى ٱللَّهِ
+  وَٱلرَّسُولِ إِن كُنتُمۡ تُؤۡمِنُونَ بِٱللَّهِ وَٱلۡيَوۡمِ ٱلۡأٓخِرِۚ ذَٰلِكَ خَيۡرٞ
+  وَأَحۡسَنُ تَأۡوِيلًا
 sentence_translation: O believers! Obey Allah and obey the Messenger and those in
   authority among you. Should you disagree on anything, then refer it to Allah and
   His Messenger, if you ˹truly˺ believe in Allah and the Last Day. This is the best
   and fairest resolution.
 word_by_word:
   1:
-    arabic: يٰۤـاَيُّهَا
+    arabic: يَٰٓأَيُّهَا
     translation: O you
     transliteration: yāayyuhā
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ ءَ
     translation: who
     transliteration: alladhīna
   3:
-    arabic: اٰمَنُوۡۤا
+    arabic: امَنُوٓاْ
     translation: believe[d]
     transliteration: āmanū
   4:
-    arabic: اَطِيۡـعُوا
+    arabic: أَطِيعُواْ
     translation: Obey
     transliteration: aṭīʿū
   5:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   6:
-    arabic: وَاَطِيۡـعُوا
+    arabic: وَأَطِيعُواْ
     translation: and obey
     transliteration: wa-aṭīʿū
   7:
-    arabic: الرَّسُوۡلَ
+    arabic: ٱلرَّسُولَ
     translation: the Messenger
     transliteration: l-rasūla
   8:
-    arabic: وَاُولِى
+    arabic: وَأُوْلِي
     translation: and those
     transliteration: wa-ulī
   9:
-    arabic: الۡاَمۡرِ
+    arabic: ٱلۡأَمۡرِ
     translation: (having) authority
     transliteration: l-amri
   10:
-    arabic: مِنۡكُمۡ​ۚ
+    arabic: مِنكُمۡۖ
     translation: among you
     transliteration: minkum
   11:
-    arabic: فَاِنۡ
+    arabic: فَإِن
     translation: Then if
     transliteration: fa-in
   12:
-    arabic: تَنَازَعۡتُمۡ
+    arabic: تَنَٰزَعۡتُمۡ
     translation: you disagree
     transliteration: tanāzaʿtum
   13:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   14:
-    arabic: شَىۡءٍ
+    arabic: شَيۡءٖ
     translation: anything
     transliteration: shayin
   15:
-    arabic: فَرُدُّوۡهُ
+    arabic: فَرُدُّوهُ
     translation: refer it
     transliteration: faruddūhu
   16:
-    arabic: اِلَى
+    arabic: إِلَى
     translation: to
     transliteration: ilā
   17:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   18:
-    arabic: وَالرَّسُوۡلِ
+    arabic: وَٱلرَّسُولِ
     translation: and the Messenger
     transliteration: wal-rasūli
   19:
-    arabic: اِنۡ
+    arabic: إِن
     translation: if
     transliteration: in
   20:
-    arabic: كُنۡـتُمۡ
+    arabic: كُنتُمۡ
     translation: you
     transliteration: kuntum
   21:
-    arabic: تُؤۡمِنُوۡنَ
+    arabic: تُؤۡمِنُونَ
     translation: believe
     transliteration: tu'minūna
   22:
-    arabic: بِاللّٰهِ
+    arabic: بِٱللَّهِ
     translation: in Allah
     transliteration: bil-lahi
   23:
-    arabic: وَالۡيَـوۡمِ
+    arabic: وَٱلۡيَوۡمِ
     translation: and the Day
     transliteration: wal-yawmi
   24:
-    arabic: الۡاٰخِرِ​ ؕ
+    arabic: ٱلۡأٓخِرِۚ
     translation: '[the] Last'
     transliteration: l-ākhiri
   25:
-    arabic: ذٰ لِكَ
+    arabic: ذَٰلِكَ
     translation: That
     transliteration: dhālika
   26:
-    arabic: خَيۡرٌ
+    arabic: خَيۡرٞ
     translation: (is) best
     transliteration: khayrun
   27:
-    arabic: وَّاَحۡسَنُ
+    arabic: وَأَحۡسَنُ
     translation: and more suitable
     transliteration: wa-aḥsanu
   28:
-    arabic: تَاۡوِيۡلًا‏
+    arabic: تَأۡوِيلًا
     translation: (for final) determination
     transliteration: tawīlan
 ---

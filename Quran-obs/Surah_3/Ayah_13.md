@@ -1,8 +1,8 @@
 ---
-arabic_ayat: قَدۡ كَانَ لَـكُمۡ اٰيَةٌ فِىۡ فِئَتَيۡنِ الۡتَقَتَا ؕ فِئَةٌ تُقَاتِلُ
-  فِىۡ سَبِيۡلِ اللّٰهِ وَاُخۡرٰى كَافِرَةٌ يَّرَوۡنَهُمۡ مِّثۡلَيۡهِمۡ رَاۡىَ الۡعَيۡنِ​ؕ
-  وَاللّٰهُ يُؤَيِّدُ بِنَصۡرِهٖ مَنۡ يَّشَآءُ  ​ؕ اِنَّ فِىۡ ذٰ لِكَ لَعِبۡرَةً
-  لِّاُولِى الۡاَبۡصَارِ‏
+arabic_ayat: قَدۡ كَانَ لَكُمۡ ءَايَةٞ فِي فِئَتَيۡنِ ٱلۡتَقَتَاۖ فِئَةٞ تُقَٰتِلُ
+  فِي سَبِيلِ ٱللَّهِ وَأُخۡرَىٰ كَافِرَةٞ يَرَوۡنَهُم مِّثۡلَيۡهِمۡ رَأۡيَ ٱلۡعَيۡنِۚ
+  وَٱللَّهُ يُؤَيِّدُ بِنَصۡرِهِۦ مَن يَشَآءُۚ إِنَّ فِي ذَٰلِكَ لَعِبۡرَةٗ لِّأُوْلِي
+  ٱلۡأَبۡصَٰرِ
 sentence_translation: Indeed, there was a sign for you in the two armies that met
   in battle—one fighting for the cause of Allah and the other in denial. The believers
   saw their enemy twice their number. But Allah supports with His victory whoever
@@ -17,15 +17,15 @@ word_by_word:
     translation: it was
     transliteration: kāna
   3:
-    arabic: لَـكُمۡ
+    arabic: لَكُمۡ ءَ
     translation: for you
     transliteration: lakum
   4:
-    arabic: اٰيَةٌ
+    arabic: ايَةٞ
     translation: a sign
     transliteration: āyatun
   5:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   6:
@@ -33,39 +33,39 @@ word_by_word:
     translation: (the) two hosts
     transliteration: fi-atayni
   7:
-    arabic: الۡتَقَتَا ؕ
+    arabic: ٱلۡتَقَتَاۖ
     translation: 'which met '
     transliteration: l-taqatā
   8:
-    arabic: فِئَةٌ
+    arabic: فِئَةٞ
     translation: one group
     transliteration: fi-atun
   9:
-    arabic: تُقَاتِلُ
+    arabic: تُقَٰتِلُ
     translation: fighting
     transliteration: tuqātilu
   10:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   11:
-    arabic: سَبِيۡلِ
+    arabic: سَبِيلِ
     translation: (the) way
     transliteration: sabīli
   12:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (of) Allah
     transliteration: l-lahi
   13:
-    arabic: وَاُخۡرٰى
+    arabic: وَأُخۡرَىٰ
     translation: and another
     transliteration: wa-ukh'rā
   14:
-    arabic: كَافِرَةٌ
+    arabic: كَافِرَةٞ
     translation: disbelievers
     transliteration: kāfiratun
   15:
-    arabic: يَّرَوۡنَهُمۡ
+    arabic: يَرَوۡنَهُم
     translation: They were seeing them
     transliteration: yarawnahum
   16:
@@ -73,15 +73,15 @@ word_by_word:
     translation: twice of them
     transliteration: mith'layhim
   17:
-    arabic: رَاۡىَ
+    arabic: رَأۡيَ
     translation: with the sight
     transliteration: raya
   18:
-    arabic: الۡعَيۡنِ​ؕ
+    arabic: ٱلۡعَيۡنِۚ
     translation: (of) their eyes
     transliteration: l-ʿayni
   19:
-    arabic: وَاللّٰهُ
+    arabic: وَٱللَّهُ
     translation: And Allah
     transliteration: wal-lahu
   20:
@@ -89,39 +89,39 @@ word_by_word:
     translation: supports
     transliteration: yu-ayyidu
   21:
-    arabic: بِنَصۡرِهٖ
+    arabic: بِنَصۡرِهِۦ
     translation: with His help
     transliteration: binaṣrihi
   22:
-    arabic: مَنۡ
+    arabic: مَن
     translation: whom
     transliteration: man
   23:
-    arabic: يَّشَآءُ  ​ؕ
+    arabic: يَشَآءُۚ
     translation: He wills
     transliteration: yashāu
   24:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   25:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   26:
-    arabic: ذٰ لِكَ
+    arabic: ذَٰلِكَ
     translation: that
     transliteration: dhālika
   27:
-    arabic: لَعِبۡرَةً
+    arabic: لَعِبۡرَةٗ
     translation: surely (is) a lesson
     transliteration: laʿib'ratan
   28:
-    arabic: لِّاُولِى
+    arabic: لِّأُوْلِي
     translation: for the owners
     transliteration: li-ulī
   29:
-    arabic: الۡاَبۡصَارِ‏
+    arabic: ٱلۡأَبۡصَٰرِ
     translation: (of) vision
     transliteration: l-abṣāri
 ---

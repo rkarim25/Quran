@@ -1,25 +1,25 @@
 ---
-arabic_ayat: فَاِنَّهُمۡ يَوۡمَٮِٕذٍ فِى الۡعَذَابِ مُشۡتَرِكُوۡنَ‏
+arabic_ayat: فَإِنَّهُمۡ يَوۡمَئِذٖ فِي ٱلۡعَذَابِ مُشۡتَرِكُونَ
 sentence_translation: Surely on that Day they will ˹all˺ share in the punishment.
 word_by_word:
   1:
-    arabic: فَاِنَّهُمۡ
+    arabic: فَإِنَّهُمۡ
     translation: Then indeed, they
     transliteration: fa-innahum
   2:
-    arabic: يَوۡمَٮِٕذٍ
+    arabic: يَوۡمَئِذٖ
     translation: that Day
     transliteration: yawma-idhin
   3:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   4:
-    arabic: الۡعَذَابِ
+    arabic: ٱلۡعَذَابِ
     translation: the punishment
     transliteration: l-ʿadhābi
   5:
-    arabic: مُشۡتَرِكُوۡنَ‏
+    arabic: مُشۡتَرِكُونَ
     translation: (will be) sharers
     transliteration: mush'tarikūna
 ---

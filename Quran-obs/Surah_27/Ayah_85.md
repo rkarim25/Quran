@@ -1,5 +1,5 @@
 ---
-arabic_ayat: وَوَقَعَ الۡقَوۡلُ عَلَيۡهِمۡ بِمَا ظَلَمُوۡا فَهُمۡ لَا يَنۡطِقُوۡنَ‏
+arabic_ayat: وَوَقَعَ ٱلۡقَوۡلُ عَلَيۡهِم بِمَا ظَلَمُواْ فَهُمۡ لَا يَنطِقُونَ
 sentence_translation: And the decree ˹of torment˺ will be justified against them for
   their wrongdoing, leaving them speechless.
 word_by_word:
@@ -8,11 +8,11 @@ word_by_word:
     translation: And (will be) fulfilled
     transliteration: wawaqaʿa
   2:
-    arabic: الۡقَوۡلُ
+    arabic: ٱلۡقَوۡلُ
     translation: the word
     transliteration: l-qawlu
   3:
-    arabic: عَلَيۡهِمۡ
+    arabic: عَلَيۡهِم
     translation: against them
     transliteration: ʿalayhim
   4:
@@ -20,7 +20,7 @@ word_by_word:
     translation: because
     transliteration: bimā
   5:
-    arabic: ظَلَمُوۡا
+    arabic: ظَلَمُواْ
     translation: they wronged
     transliteration: ẓalamū
   6:
@@ -32,7 +32,7 @@ word_by_word:
     translation: (will) not
     transliteration: lā
   8:
-    arabic: يَنۡطِقُوۡنَ‏
+    arabic: يَنطِقُونَ
     translation: speak
     transliteration: yanṭiqūna
 ---

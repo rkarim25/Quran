@@ -1,10 +1,9 @@
 ---
-arabic_ayat: وَهُوَ الَّذِىۡۤ اَنۡزَلَ مِنَ السَّمَآءِ مَآءً​ ۚ فَاَخۡرَجۡنَا بِهٖ
-  نَبَاتَ كُلِّ شَىۡءٍ فَاَخۡرَجۡنَا مِنۡهُ خَضِرًا نُّخۡرِجُ مِنۡهُ حَبًّا مُّتَرَاكِبًا​
-  ۚ وَمِنَ النَّخۡلِ مِنۡ طَلۡعِهَا قِنۡوَانٌ دَانِيَةٌ وَّجَنّٰتٍ مِّنۡ اَعۡنَابٍ
-  وَّالزَّيۡتُوۡنَ وَالرُّمَّانَ مُشۡتَبِهًا وَّغَيۡرَ مُتَشَابِهٍ​ ؕ اُنْظُرُوۡۤا
-  اِلٰى ثَمَرِهٖۤ اِذَاۤ اَثۡمَرَ وَيَنۡعِهٖ ؕ اِنَّ فِىۡ ذٰ لِكُمۡ لَاٰيٰتٍ لِّقَوۡمٍ
-  يُّؤۡمِنُوۡنَ‏
+arabic_ayat: وَهُوَ ٱلَّذِيٓ أَنزَلَ مِنَ ٱلسَّمَآءِ مَآءٗ فَأَخۡرَجۡنَا بِهِۦ نَبَاتَ
+  كُلِّ شَيۡءٖ فَأَخۡرَجۡنَا مِنۡهُ خَضِرٗا نُّخۡرِجُ مِنۡهُ حَبّٗا مُّتَرَاكِبٗا
+  وَمِنَ ٱلنَّخۡلِ مِن طَلۡعِهَا قِنۡوَانٞ دَانِيَةٞ وَجَنَّٰتٖ مِّنۡ أَعۡنَابٖ وَٱلزَّيۡتُونَ
+  وَٱلرُّمَّانَ مُشۡتَبِهٗا وَغَيۡرَ مُتَشَٰبِهٍۗ ٱنظُرُوٓاْ إِلَىٰ ثَمَرِهِۦٓ إِذَآ
+  أَثۡمَرَ وَيَنۡعِهِۦٓۚ إِنَّ فِي ذَٰلِكُمۡ لَأٓيَٰتٖ لِّقَوۡمٖ يُؤۡمِنُونَ
 sentence_translation: And He is the One Who sends down rain from the sky—causing all
   kinds of plants to grow—producing green stalks from which We bring forth clustered
   grain. And from palm trees come clusters of dates hanging within reach. ˹There are˺
@@ -17,11 +16,11 @@ word_by_word:
     translation: And He
     transliteration: wahuwa
   2:
-    arabic: الَّذِىۡۤ
+    arabic: ٱلَّذِيٓ
     translation: (is) the One Who
     transliteration: alladhī
   3:
-    arabic: اَنۡزَلَ
+    arabic: أَنزَلَ
     translation: sends down
     transliteration: anzala
   4:
@@ -29,19 +28,19 @@ word_by_word:
     translation: from
     transliteration: mina
   5:
-    arabic: السَّمَآءِ
+    arabic: ٱلسَّمَآءِ
     translation: the sky
     transliteration: l-samāi
   6:
-    arabic: مَآءً​ ۚ
+    arabic: مَآءٗ
     translation: water
     transliteration: māan
   7:
-    arabic: فَاَخۡرَجۡنَا
+    arabic: فَأَخۡرَجۡنَا
     translation: then We bring forth
     transliteration: fa-akhrajnā
   8:
-    arabic: بِهٖ
+    arabic: بِهِۦ
     translation: with it
     transliteration: bihi
   9:
@@ -53,11 +52,11 @@ word_by_word:
     translation: (of) every
     transliteration: kulli
   11:
-    arabic: شَىۡءٍ
+    arabic: شَيۡءٖ
     translation: thing
     transliteration: shayin
   12:
-    arabic: فَاَخۡرَجۡنَا
+    arabic: فَأَخۡرَجۡنَا
     translation: Then We bring forth
     transliteration: fa-akhrajnā
   13:
@@ -65,7 +64,7 @@ word_by_word:
     translation: from it
     transliteration: min'hu
   14:
-    arabic: خَضِرًا
+    arabic: خَضِرٗا
     translation: green plant
     transliteration: khaḍiran
   15:
@@ -77,11 +76,11 @@ word_by_word:
     translation: from it
     transliteration: min'hu
   17:
-    arabic: حَبًّا
+    arabic: حَبّٗا
     translation: 'grain '
     transliteration: ḥabban
   18:
-    arabic: مُّتَرَاكِبًا​ ۚ
+    arabic: مُّتَرَاكِبٗا
     translation: thick clustered
     transliteration: mutarākiban
   19:
@@ -89,11 +88,11 @@ word_by_word:
     translation: And from
     transliteration: wamina
   20:
-    arabic: النَّخۡلِ
+    arabic: ٱلنَّخۡلِ
     translation: the date-palm
     transliteration: l-nakhli
   21:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   22:
@@ -101,15 +100,15 @@ word_by_word:
     translation: its spathe
     transliteration: ṭalʿihā
   23:
-    arabic: قِنۡوَانٌ
+    arabic: قِنۡوَانٞ
     translation: clusters of dates
     transliteration: qin'wānun
   24:
-    arabic: دَانِيَةٌ
+    arabic: دَانِيَةٞ
     translation: hanging low
     transliteration: dāniyatun
   25:
-    arabic: وَّجَنّٰتٍ
+    arabic: وَجَنَّٰتٖ
     translation: And gardens
     transliteration: wajannātin
   26:
@@ -117,75 +116,75 @@ word_by_word:
     translation: of
     transliteration: min
   27:
-    arabic: اَعۡنَابٍ
+    arabic: أَعۡنَابٖ
     translation: grapes
     transliteration: aʿnābin
   28:
-    arabic: وَّالزَّيۡتُوۡنَ
+    arabic: وَٱلزَّيۡتُونَ
     translation: and the olives
     transliteration: wal-zaytūna
   29:
-    arabic: وَالرُّمَّانَ
+    arabic: وَٱلرُّمَّانَ
     translation: and the pomegranates
     transliteration: wal-rumāna
   30:
-    arabic: مُشۡتَبِهًا
+    arabic: مُشۡتَبِهٗا
     translation: resembling
     transliteration: mush'tabihan
   31:
-    arabic: وَّغَيۡرَ
+    arabic: وَغَيۡرَ
     translation: and not
     transliteration: waghayra
   32:
-    arabic: مُتَشَابِهٍ​ ؕ
+    arabic: مُتَشَٰبِهٍۗ
     translation: resembling
     transliteration: mutashābihin
   33:
-    arabic: اُنْظُرُوۡۤا
+    arabic: ٱنظُرُوٓاْ
     translation: Look
     transliteration: unẓurū
   34:
-    arabic: اِلٰى
+    arabic: إِلَىٰ
     translation: at
     transliteration: ilā
   35:
-    arabic: ثَمَرِهٖۤ
+    arabic: ثَمَرِهِۦٓ
     translation: its fruit
     transliteration: thamarihi
   36:
-    arabic: اِذَاۤ
+    arabic: إِذَآ
     translation: when
     transliteration: idhā
   37:
-    arabic: اَثۡمَرَ
+    arabic: أَثۡمَرَ
     translation: it bears fruit
     transliteration: athmara
   38:
-    arabic: وَيَنۡعِهٖ ؕ
+    arabic: وَيَنۡعِهِۦٓۚ
     translation: and its ripening
     transliteration: wayanʿihi
   39:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   40:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   41:
-    arabic: ذٰ لِكُمۡ
+    arabic: ذَٰلِكُمۡ
     translation: that
     transliteration: dhālikum
   42:
-    arabic: لَاٰيٰتٍ
+    arabic: لَأٓيَٰتٖ
     translation: (are) signs
     transliteration: laāyātin
   43:
-    arabic: لِّقَوۡمٍ
+    arabic: لِّقَوۡمٖ
     translation: for a people
     transliteration: liqawmin
   44:
-    arabic: يُّؤۡمِنُوۡنَ‏
+    arabic: يُؤۡمِنُونَ
     translation: (who) believe
     transliteration: yu'minūna
 ---

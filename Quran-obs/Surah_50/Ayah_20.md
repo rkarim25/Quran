@@ -1,5 +1,5 @@
 ---
-arabic_ayat: وَنُفِخَ فِى الصُّوۡرِ ​ؕ ذٰ لِكَ يَوۡمُ الۡوَعِيۡدِ‏
+arabic_ayat: وَنُفِخَ فِي ٱلصُّورِۚ ذَٰلِكَ يَوۡمُ ٱلۡوَعِيدِ
 sentence_translation: And the Trumpet will be blown. This is the Day ˹you were˺ warned
   of.
 word_by_word:
@@ -8,15 +8,15 @@ word_by_word:
     translation: And will be blown
     transliteration: wanufikha
   2:
-    arabic: فِى
+    arabic: فِي
     translation: '[in]'
     transliteration: fī
   3:
-    arabic: الصُّوۡرِ ​ؕ
+    arabic: ٱلصُّورِۚ
     translation: the trumpet
     transliteration: l-ṣūri
   4:
-    arabic: ذٰ لِكَ
+    arabic: ذَٰلِكَ
     translation: That
     transliteration: dhālika
   5:
@@ -24,7 +24,7 @@ word_by_word:
     translation: (is the) Day
     transliteration: yawmu
   6:
-    arabic: الۡوَعِيۡدِ‏
+    arabic: ٱلۡوَعِيدِ
     translation: (of) the Warning
     transliteration: l-waʿīdi
 ---

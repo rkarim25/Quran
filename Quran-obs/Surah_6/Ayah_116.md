@@ -1,12 +1,12 @@
 ---
-arabic_ayat: وَاِنۡ تُطِعۡ اَكۡثَرَ مَنۡ فِى الۡاَرۡضِ يُضِلُّوۡكَ عَنۡ سَبِيۡلِ اللّٰهِ​ؕ
-  اِنۡ يَّتَّبِعُوۡنَ اِلَّا الظَّنَّ وَاِنۡ هُمۡ اِلَّا يَخۡرُصُوۡنَ‏
+arabic_ayat: وَإِن تُطِعۡ أَكۡثَرَ مَن فِي ٱلۡأَرۡضِ يُضِلُّوكَ عَن سَبِيلِ ٱللَّهِۚ
+  إِن يَتَّبِعُونَ إِلَّا ٱلظَّنَّ وَإِنۡ هُمۡ إِلَّا يَخۡرُصُونَ
 sentence_translation: ˹O Prophet!˺ If you were to obey most of those on earth, they
   would lead you away from Allah’s Way. They follow nothing but assumptions and do
   nothing but lie.
 word_by_word:
   1:
-    arabic: وَاِنۡ
+    arabic: وَإِن
     translation: And if
     transliteration: wa-in
   2:
@@ -14,55 +14,55 @@ word_by_word:
     translation: you obey
     transliteration: tuṭiʿ
   3:
-    arabic: اَكۡثَرَ
+    arabic: أَكۡثَرَ
     translation: most
     transliteration: akthara
   4:
-    arabic: مَنۡ
+    arabic: مَن
     translation: of
     transliteration: man
   5:
-    arabic: فِى
+    arabic: فِي
     translation: (those) in
     transliteration: fī
   6:
-    arabic: الۡاَرۡضِ
+    arabic: ٱلۡأَرۡضِ
     translation: the earth
     transliteration: l-arḍi
   7:
-    arabic: يُضِلُّوۡكَ
+    arabic: يُضِلُّوكَ
     translation: they will mislead you
     transliteration: yuḍillūka
   8:
-    arabic: عَنۡ
+    arabic: عَن
     translation: from
     transliteration: ʿan
   9:
-    arabic: سَبِيۡلِ
+    arabic: سَبِيلِ
     translation: (the) way
     transliteration: sabīli
   10:
-    arabic: اللّٰهِ​ؕ
+    arabic: ٱللَّهِۚ
     translation: (of) Allah
     transliteration: l-lahi
   11:
-    arabic: اِنۡ
+    arabic: إِن
     translation: Not
     transliteration: in
   12:
-    arabic: يَّتَّبِعُوۡنَ
+    arabic: يَتَّبِعُونَ
     translation: they follow
     transliteration: yattabiʿūna
   13:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   14:
-    arabic: الظَّنَّ
+    arabic: ٱلظَّنَّ
     translation: '[the] assumption'
     transliteration: l-ẓana
   15:
-    arabic: وَاِنۡ
+    arabic: وَإِنۡ
     translation: and not
     transliteration: wa-in
   16:
@@ -70,11 +70,11 @@ word_by_word:
     translation: they (do)
     transliteration: hum
   17:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   18:
-    arabic: يَخۡرُصُوۡنَ‏
+    arabic: يَخۡرُصُونَ
     translation: guess
     transliteration: yakhruṣūna
 ---

@@ -1,32 +1,32 @@
 ---
-arabic_ayat: اَمِ اتَّخَذُوۡا مِنۡ دُوۡنِ اللّٰهِ شُفَعَآءَ​ ؕ قُلۡ اَوَلَوۡ كَانُوۡا
-  لَا يَمۡلِكُوۡنَ شَيۡـًٔـا وَّلَا يَعۡقِلُوۡنَ‏
+arabic_ayat: أَمِ ٱتَّخَذُواْ مِن دُونِ ٱللَّهِ شُفَعَآءَۚ قُلۡ أَوَلَوۡ كَانُواْ
+  لَا يَمۡلِكُونَ شَيۡـٔٗا وَلَا يَعۡقِلُونَ
 sentence_translation: Or have they taken others besides Allah as intercessors? Say,
   ˹O Prophet,˺ “˹Would they do so,˺ even though those ˹idols˺ have neither authority
   nor intelligence?”
 word_by_word:
   1:
-    arabic: اَمِ
+    arabic: أَمِ
     translation: Or
     transliteration: ami
   2:
-    arabic: اتَّخَذُوۡا
+    arabic: ٱتَّخَذُواْ
     translation: have they taken
     transliteration: ittakhadhū
   3:
-    arabic: مِنۡ
+    arabic: مِن
     translation: besides
     transliteration: min
   4:
-    arabic: دُوۡنِ
+    arabic: دُونِ
     translation: besides
     transliteration: dūni
   5:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   6:
-    arabic: شُفَعَآءَ​ ؕ
+    arabic: شُفَعَآءَۚ
     translation: intercessors
     transliteration: shufaʿāa
   7:
@@ -34,11 +34,11 @@ word_by_word:
     translation: Say
     transliteration: qul
   8:
-    arabic: اَوَلَوۡ
+    arabic: أَوَلَوۡ
     translation: Even though
     transliteration: awalaw
   9:
-    arabic: كَانُوۡا
+    arabic: كَانُواْ
     translation: they were
     transliteration: kānū
   10:
@@ -46,19 +46,19 @@ word_by_word:
     translation: not
     transliteration: lā
   11:
-    arabic: يَمۡلِكُوۡنَ
+    arabic: يَمۡلِكُونَ
     translation: possessing
     transliteration: yamlikūna
   12:
-    arabic: شَيۡـًٔـا
+    arabic: شَيۡـٔٗا
     translation: anything
     transliteration: shayan
   13:
-    arabic: وَّلَا
+    arabic: وَلَا
     translation: and not
     transliteration: walā
   14:
-    arabic: يَعۡقِلُوۡنَ‏
+    arabic: يَعۡقِلُونَ
     translation: they understand
     transliteration: yaʿqilūna
 ---

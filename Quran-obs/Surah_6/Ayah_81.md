@@ -1,7 +1,7 @@
 ---
-arabic_ayat: وَكَيۡفَ اَخَافُ مَاۤ اَشۡرَكۡتُمۡ وَلَا تَخَافُوۡنَ اَنَّكُمۡ اَشۡرَكۡتُمۡ
-  بِاللّٰهِ مَا لَمۡ يُنَزِّلۡ بِهٖ عَلَيۡكُمۡ سُلۡطٰنًا ​ؕ فَاَىُّ الۡفَرِيۡقَيۡنِ
-  اَحَقُّ بِالۡاَمۡنِ​ۚ اِنۡ كُنۡتُمۡ تَعۡلَمُوۡنَ​ۘ‏
+arabic_ayat: وَكَيۡفَ أَخَافُ مَآ أَشۡرَكۡتُمۡ وَلَا تَخَافُونَ أَنَّكُمۡ أَشۡرَكۡتُم
+  بِٱللَّهِ مَا لَمۡ يُنَزِّلۡ بِهِۦ عَلَيۡكُمۡ سُلۡطَٰنٗاۚ فَأَيُّ ٱلۡفَرِيقَيۡنِ
+  أَحَقُّ بِٱلۡأَمۡنِۖ إِن كُنتُمۡ تَعۡلَمُونَ
 sentence_translation: And how should I fear your associate-gods, while you have no
   fear in associating ˹others˺ with Allah—a practice He has never authorized? Which
   side has more right to security? ˹Tell me˺ if you really know!”
@@ -11,15 +11,15 @@ word_by_word:
     translation: And how
     transliteration: wakayfa
   2:
-    arabic: اَخَافُ
+    arabic: أَخَافُ
     translation: could I fear
     transliteration: akhāfu
   3:
-    arabic: مَاۤ
+    arabic: مَآ
     translation: what
     transliteration: mā
   4:
-    arabic: اَشۡرَكۡتُمۡ
+    arabic: أَشۡرَكۡتُمۡ
     translation: you associate (with Allah)
     transliteration: ashraktum
   5:
@@ -27,19 +27,19 @@ word_by_word:
     translation: while not
     transliteration: walā
   6:
-    arabic: تَخَافُوۡنَ
+    arabic: تَخَافُونَ
     translation: you fear
     transliteration: takhāfūna
   7:
-    arabic: اَنَّكُمۡ
+    arabic: أَنَّكُمۡ
     translation: that you
     transliteration: annakum
   8:
-    arabic: اَشۡرَكۡتُمۡ
+    arabic: أَشۡرَكۡتُم
     translation: have associated
     transliteration: ashraktum
   9:
-    arabic: بِاللّٰهِ
+    arabic: بِٱللَّهِ
     translation: with Allah
     transliteration: bil-lahi
   10:
@@ -55,7 +55,7 @@ word_by_word:
     translation: did He send down
     transliteration: yunazzil
   13:
-    arabic: بِهٖ
+    arabic: بِهِۦ
     translation: for it
     transliteration: bihi
   14:
@@ -63,35 +63,35 @@ word_by_word:
     translation: to you
     transliteration: ʿalaykum
   15:
-    arabic: سُلۡطٰنًا ​ؕ
+    arabic: سُلۡطَٰنٗاۚ
     translation: any authority
     transliteration: sul'ṭānan
   16:
-    arabic: فَاَىُّ
+    arabic: فَأَيُّ
     translation: So which
     transliteration: fa-ayyu
   17:
-    arabic: الۡفَرِيۡقَيۡنِ
+    arabic: ٱلۡفَرِيقَيۡنِ
     translation: (of) the two parties
     transliteration: l-farīqayni
   18:
-    arabic: اَحَقُّ
+    arabic: أَحَقُّ
     translation: has more right
     transliteration: aḥaqqu
   19:
-    arabic: بِالۡاَمۡنِ​ۚ
+    arabic: بِٱلۡأَمۡنِۖ
     translation: to security
     transliteration: bil-amni
   20:
-    arabic: اِنۡ
+    arabic: إِن
     translation: if
     transliteration: in
   21:
-    arabic: كُنۡتُمۡ
+    arabic: كُنتُمۡ
     translation: you
     transliteration: kuntum
   22:
-    arabic: تَعۡلَمُوۡنَ​ۘ‏
+    arabic: تَعۡلَمُونَ
     translation: know
     transliteration: taʿlamūna
 ---

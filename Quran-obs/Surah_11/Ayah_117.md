@@ -1,6 +1,5 @@
 ---
-arabic_ayat: "وَمَا كَانَ رَبُّكَ لِيُهۡلِكَ الۡقُرٰى بِظُلۡمٍ وَّاَهۡلُهَا مُصۡلِحُوۡنَ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: وَمَا كَانَ رَبُّكَ لِيُهۡلِكَ ٱلۡقُرَىٰ بِظُلۡمٖ وَأَهۡلُهَا مُصۡلِحُونَ
 sentence_translation: And your Lord ˹O Prophet˺ would never destroy a society unjustly
   while its people were acting rightly.
 word_by_word:
@@ -21,19 +20,19 @@ word_by_word:
     translation: destroy
     transliteration: liyuh'lika
   5:
-    arabic: الۡقُرٰى
+    arabic: ٱلۡقُرَىٰ
     translation: the cities
     transliteration: l-qurā
   6:
-    arabic: بِظُلۡمٍ
+    arabic: بِظُلۡمٖ
     translation: unjustly
     transliteration: biẓul'min
   7:
-    arabic: وَّاَهۡلُهَا
+    arabic: وَأَهۡلُهَا
     translation: while its people
     transliteration: wa-ahluhā
   8:
-    arabic: "مُصۡلِحُوۡنَ‏ \uFEFF\uFEFF"
+    arabic: مُصۡلِحُونَ
     translation: (were) reformers
     transliteration: muṣ'liḥūna
 ---

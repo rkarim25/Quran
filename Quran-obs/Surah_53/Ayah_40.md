@@ -1,14 +1,14 @@
 ---
-arabic_ayat: وَاَنَّ سَعۡيَهٗ سَوۡفَ يُرٰى‏
+arabic_ayat: وَأَنَّ سَعۡيَهُۥ سَوۡفَ يُرَىٰ
 sentence_translation: and that ˹the outcome of˺ their endeavours will be seen ˹in
   their record˺,
 word_by_word:
   1:
-    arabic: وَاَنَّ
+    arabic: وَأَنَّ
     translation: And that
     transliteration: wa-anna
   2:
-    arabic: سَعۡيَهٗ
+    arabic: سَعۡيَهُۥ
     translation: his striving
     transliteration: saʿyahu
   3:
@@ -16,7 +16,7 @@ word_by_word:
     translation: will soon
     transliteration: sawfa
   4:
-    arabic: يُرٰى‏
+    arabic: يُرَىٰ
     translation: be seen
     transliteration: yurā
 ---

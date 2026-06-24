@@ -1,5 +1,5 @@
 ---
-arabic_ayat: قُلِ اللّٰهَ اَعۡبُدُ مُخۡلِصًا لَّهٗ دِيۡنِىۙ‏
+arabic_ayat: قُلِ ٱللَّهَ أَعۡبُدُ مُخۡلِصٗا لَّهُۥ دِينِي
 sentence_translation: Say, “It is ˹only˺ Allah that I worship, being sincere in my
   devotion to Him.
 word_by_word:
@@ -8,23 +8,23 @@ word_by_word:
     translation: Say
     transliteration: quli
   2:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: I worship Allah
     transliteration: l-laha
   3:
-    arabic: اَعۡبُدُ
+    arabic: أَعۡبُدُ
     translation: I worship Allah
     transliteration: aʿbudu
   4:
-    arabic: مُخۡلِصًا
+    arabic: مُخۡلِصٗا
     translation: (being) sincere
     transliteration: mukh'liṣan
   5:
-    arabic: لَّهٗ
+    arabic: لَّهُۥ
     translation: to Him
     transliteration: lahu
   6:
-    arabic: دِيۡنِىۙ‏
+    arabic: دِينِي
     translation: (in) my religion
     transliteration: dīnī
 ---

@@ -1,11 +1,10 @@
 ---
-arabic_ayat: "وَسَلٰمٌ عَلَيۡهِ يَوۡمَ وُلِدَ وَيَوۡمَ يَمُوۡتُ وَيَوۡمَ يُبۡعَثُ\
-  \ حَيًّا‏ \uFEFF\uFEFF"
+arabic_ayat: وَسَلَٰمٌ عَلَيۡهِ يَوۡمَ وُلِدَ وَيَوۡمَ يَمُوتُ وَيَوۡمَ يُبۡعَثُ حَيّٗا
 sentence_translation: Peace be upon him the day he was born, and the day of his death,
   and the day he will be raised back to life!
 word_by_word:
   1:
-    arabic: وَسَلٰمٌ
+    arabic: وَسَلَٰمٌ
     translation: And peace be
     transliteration: wasalāmun
   2:
@@ -25,7 +24,7 @@ word_by_word:
     translation: and (the) day
     transliteration: wayawma
   6:
-    arabic: يَمُوۡتُ
+    arabic: يَمُوتُ
     translation: he dies
     transliteration: yamūtu
   7:
@@ -37,7 +36,7 @@ word_by_word:
     translation: he will be raised
     transliteration: yub'ʿathu
   9:
-    arabic: "حَيًّا‏ \uFEFF\uFEFF"
+    arabic: حَيّٗا
     translation: alive
     transliteration: ḥayyan
 ---

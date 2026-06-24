@@ -1,6 +1,6 @@
 ---
-arabic_ayat: ثُمَّ كَانَ مِنَ الَّذِيۡنَ اٰمَنُوۡا وَتَوَاصَوۡا بِالصَّبۡرِ وَتَوَاصَوۡا
-  بِالۡمَرۡحَمَةِ ؕ‏
+arabic_ayat: ثُمَّ كَانَ مِنَ ٱلَّذِينَ ءَامَنُواْ وَتَوَاصَوۡاْ بِٱلصَّبۡرِ وَتَوَاصَوۡاْ
+  بِٱلۡمَرۡحَمَةِ
 sentence_translation: and—above all—to be one of those who have faith and urge each
   other to perseverance and urge each other to compassion.
 word_by_word:
@@ -17,27 +17,27 @@ word_by_word:
     translation: of
     transliteration: mina
   4:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ ءَ
     translation: those who
     transliteration: alladhīna
   5:
-    arabic: اٰمَنُوۡا
+    arabic: امَنُواْ
     translation: believe
     transliteration: āmanū
   6:
-    arabic: وَتَوَاصَوۡا
+    arabic: وَتَوَاصَوۡاْ
     translation: and enjoin (each other)
     transliteration: watawāṣaw
   7:
-    arabic: بِالصَّبۡرِ
+    arabic: بِٱلصَّبۡرِ
     translation: to patience
     transliteration: bil-ṣabri
   8:
-    arabic: وَتَوَاصَوۡا
+    arabic: وَتَوَاصَوۡاْ
     translation: and enjoin (each other)
     transliteration: watawāṣaw
   9:
-    arabic: بِالۡمَرۡحَمَةِ ؕ‏
+    arabic: بِٱلۡمَرۡحَمَةِ
     translation: to compassion
     transliteration: bil-marḥamati
 ---

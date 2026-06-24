@@ -1,15 +1,15 @@
 ---
-arabic_ayat: وَاِنۡ تَعُدُّوۡا نِعۡمَةَ اللّٰهِ لَا تُحۡصُوۡهَاؕ اِنَّ اللّٰهَ لَـغَفُوۡرٌ
-  رَّحِيۡمٌ‏
+arabic_ayat: وَإِن تَعُدُّواْ نِعۡمَةَ ٱللَّهِ لَا تُحۡصُوهَآۗ إِنَّ ٱللَّهَ لَغَفُورٞ
+  رَّحِيمٞ
 sentence_translation: If you tried to count Allah’s blessings, you would never be
   able to number them. Surely Allah is All-Forgiving, Most Merciful.
 word_by_word:
   1:
-    arabic: وَاِنۡ
+    arabic: وَإِن
     translation: And if
     transliteration: wa-in
   2:
-    arabic: تَعُدُّوۡا
+    arabic: تَعُدُّواْ
     translation: you should count
     transliteration: taʿuddū
   3:
@@ -17,7 +17,7 @@ word_by_word:
     translation: the Favors of Allah
     transliteration: niʿ'mata
   4:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: the Favors of Allah
     transliteration: l-lahi
   5:
@@ -25,23 +25,23 @@ word_by_word:
     translation: not
     transliteration: lā
   6:
-    arabic: تُحۡصُوۡهَاؕ
+    arabic: تُحۡصُوهَآۗ
     translation: you could enumerate them
     transliteration: tuḥ'ṣūhā
   7:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   8:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   9:
-    arabic: لَـغَفُوۡرٌ
+    arabic: لَغَفُورٞ
     translation: (is) Oft-Forgiving
     transliteration: laghafūrun
   10:
-    arabic: رَّحِيۡمٌ‏
+    arabic: رَّحِيمٞ
     translation: Most Merciful
     transliteration: raḥīmun
 ---

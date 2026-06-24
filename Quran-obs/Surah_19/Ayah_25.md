@@ -1,15 +1,14 @@
 ---
-arabic_ayat: "وَهُزِّىۡۤ اِلَيۡكِ بِجِذۡعِ النَّخۡلَةِ تُسٰقِطۡ عَلَيۡكِ رُطَبًا جَنِيًّا‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: وَهُزِّيٓ إِلَيۡكِ بِجِذۡعِ ٱلنَّخۡلَةِ تُسَٰقِطۡ عَلَيۡكِ رُطَبٗا جَنِيّٗا
 sentence_translation: And shake the trunk of this palm tree towards you, it will drop
   fresh, ripe dates upon you.
 word_by_word:
   1:
-    arabic: وَهُزِّىۡۤ
+    arabic: وَهُزِّيٓ
     translation: And shake
     transliteration: wahuzzī
   2:
-    arabic: اِلَيۡكِ
+    arabic: إِلَيۡكِ
     translation: towards you
     transliteration: ilayki
   3:
@@ -17,11 +16,11 @@ word_by_word:
     translation: (the) trunk
     transliteration: bijidh'ʿi
   4:
-    arabic: النَّخۡلَةِ
+    arabic: ٱلنَّخۡلَةِ
     translation: (of) the date-palm
     transliteration: l-nakhlati
   5:
-    arabic: تُسٰقِطۡ
+    arabic: تُسَٰقِطۡ
     translation: it will drop
     transliteration: tusāqiṭ
   6:
@@ -29,11 +28,11 @@ word_by_word:
     translation: upon you
     transliteration: ʿalayki
   7:
-    arabic: رُطَبًا
+    arabic: رُطَبٗا
     translation: fresh dates
     transliteration: ruṭaban
   8:
-    arabic: "جَنِيًّا‏ \uFEFF\uFEFF"
+    arabic: جَنِيّٗا
     translation: ripe
     transliteration: janiyyan
 ---

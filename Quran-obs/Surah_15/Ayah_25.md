@@ -1,10 +1,10 @@
 ---
-arabic_ayat: وَاِنَّ رَبَّكَ هُوَ يَحۡشُرُهُمۡ​ؕ اِنَّهٗ حَكِيۡمٌ عَلِيۡمٌ‏
+arabic_ayat: وَإِنَّ رَبَّكَ هُوَ يَحۡشُرُهُمۡۚ إِنَّهُۥ حَكِيمٌ عَلِيمٞ
 sentence_translation: Surely your Lord ˹alone˺ will gather them together ˹for judgment˺.
   He is truly All-Wise, All-Knowing.
 word_by_word:
   1:
-    arabic: وَاِنَّ
+    arabic: وَإِنَّ
     translation: And indeed
     transliteration: wa-inna
   2:
@@ -16,19 +16,19 @@ word_by_word:
     translation: He
     transliteration: huwa
   4:
-    arabic: يَحۡشُرُهُمۡ​ؕ
+    arabic: يَحۡشُرُهُمۡۚ
     translation: will gather them
     transliteration: yaḥshuruhum
   5:
-    arabic: اِنَّهٗ
+    arabic: إِنَّهُۥ
     translation: Indeed, He
     transliteration: innahu
   6:
-    arabic: حَكِيۡمٌ
+    arabic: حَكِيمٌ
     translation: (is) All-Wise
     transliteration: ḥakīmun
   7:
-    arabic: عَلِيۡمٌ‏
+    arabic: عَلِيمٞ
     translation: All-Knowing
     transliteration: ʿalīmun
 ---

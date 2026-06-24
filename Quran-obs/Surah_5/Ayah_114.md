@@ -1,7 +1,7 @@
 ---
-arabic_ayat: قَالَ عِيۡسَى ابۡنُ مَرۡيَمَ اللّٰهُمَّ رَبَّنَاۤ اَنۡزِلۡ عَلَيۡنَا
-  مَآٮِٕدَةً مِّنَ السَّمَآءِ تَكُوۡنُ لَـنَا عِيۡدًا لِّاَوَّلِنَا وَاٰخِرِنَا
-  وَاٰيَةً مِّنۡكَ​ۚ وَارۡزُقۡنَا وَاَنۡتَ خَيۡرُ الرّٰزِقِيۡنَ‏
+arabic_ayat: قَالَ عِيسَى ٱبۡنُ مَرۡيَمَ ٱللَّهُمَّ رَبَّنَآ أَنزِلۡ عَلَيۡنَا مَآئِدَةٗ
+  مِّنَ ٱلسَّمَآءِ تَكُونُ لَنَا عِيدٗا لِّأَوَّلِنَا وَءَاخِرِنَا وَءَايَةٗ مِّنكَۖ
+  وَٱرۡزُقۡنَا وَأَنتَ خَيۡرُ ٱلرَّٰزِقِينَ
 sentence_translation: Jesus, son of Mary, prayed, “O Allah, our Lord! Send us from
   heaven a table spread with food as a feast for us—the first and last of us—and as
   a sign from You. Provide for us! You are indeed the Best Provider.”
@@ -11,11 +11,11 @@ word_by_word:
     translation: Said
     transliteration: qāla
   2:
-    arabic: عِيۡسَى
+    arabic: عِيسَى
     translation: Isa
     transliteration: ʿīsā
   3:
-    arabic: ابۡنُ
+    arabic: ٱبۡنُ
     translation: son
     transliteration: ub'nu
   4:
@@ -23,15 +23,15 @@ word_by_word:
     translation: (of) Maryam
     transliteration: maryama
   5:
-    arabic: اللّٰهُمَّ
+    arabic: ٱللَّهُمَّ
     translation: O Allah
     transliteration: l-lahuma
   6:
-    arabic: رَبَّنَاۤ
+    arabic: رَبَّنَآ
     translation: our Lord
     transliteration: rabbanā
   7:
-    arabic: اَنۡزِلۡ
+    arabic: أَنزِلۡ
     translation: send down
     transliteration: anzil
   8:
@@ -39,7 +39,7 @@ word_by_word:
     translation: to us
     transliteration: ʿalaynā
   9:
-    arabic: مَآٮِٕدَةً
+    arabic: مَآئِدَةٗ
     translation: a table spread
     transliteration: māidatan
   10:
@@ -47,43 +47,43 @@ word_by_word:
     translation: from
     transliteration: mina
   11:
-    arabic: السَّمَآءِ
+    arabic: ٱلسَّمَآءِ
     translation: the heaven
     transliteration: l-samāi
   12:
-    arabic: تَكُوۡنُ
+    arabic: تَكُونُ
     translation: to be
     transliteration: takūnu
   13:
-    arabic: لَـنَا
+    arabic: لَنَا
     translation: for us
     transliteration: lanā
   14:
-    arabic: عِيۡدًا
+    arabic: عِيدٗا
     translation: a festival
     transliteration: ʿīdan
   15:
-    arabic: لِّاَوَّلِنَا
+    arabic: لِّأَوَّلِنَا
     translation: for first of us
     transliteration: li-awwalinā
   16:
-    arabic: وَاٰخِرِنَا
+    arabic: وَءَاخِرِنَا
     translation: and last of us
     transliteration: waākhirinā
   17:
-    arabic: وَاٰيَةً
+    arabic: وَءَايَةٗ
     translation: and a sign
     transliteration: waāyatan
   18:
-    arabic: مِّنۡكَ​ۚ
+    arabic: مِّنكَۖ
     translation: from You
     transliteration: minka
   19:
-    arabic: وَارۡزُقۡنَا
+    arabic: وَٱرۡزُقۡنَا
     translation: And provide us
     transliteration: wa-ur'zuq'nā
   20:
-    arabic: وَاَنۡتَ
+    arabic: وَأَنتَ
     translation: and You
     transliteration: wa-anta
   21:
@@ -91,7 +91,7 @@ word_by_word:
     translation: (are) best
     transliteration: khayru
   22:
-    arabic: الرّٰزِقِيۡنَ‏
+    arabic: ٱلرَّٰزِقِينَ
     translation: (of) the providers
     transliteration: l-rāziqīna
 ---

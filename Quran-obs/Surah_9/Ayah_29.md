@@ -1,19 +1,19 @@
 ---
-arabic_ayat: قَاتِلُوا الَّذِيۡنَ لَا يُؤۡمِنُوۡنَ بِاللّٰهِ وَلَا بِالۡيَوۡمِ الۡاٰخِرِ
-  وَلَا يُحَرِّمُوۡنَ مَا حَرَّمَ اللّٰهُ وَ رَسُوۡلُهٗ وَلَا يَدِيۡنُوۡنَ دِيۡنَ
-  الۡحَـقِّ مِنَ الَّذِيۡنَ اُوۡتُوا الۡـكِتٰبَ حَتّٰى يُعۡطُوا الۡجِزۡيَةَ عَنۡ يَّدٍ
-  وَّهُمۡ صٰغِرُوۡنَ‏
+arabic_ayat: قَٰتِلُواْ ٱلَّذِينَ لَا يُؤۡمِنُونَ بِٱللَّهِ وَلَا بِٱلۡيَوۡمِ ٱلۡأٓخِرِ
+  وَلَا يُحَرِّمُونَ مَا حَرَّمَ ٱللَّهُ وَرَسُولُهُۥ وَلَا يَدِينُونَ دِينَ ٱلۡحَقِّ
+  مِنَ ٱلَّذِينَ أُوتُواْ ٱلۡكِتَٰبَ حَتَّىٰ يُعۡطُواْ ٱلۡجِزۡيَةَ عَن يَدٖ وَهُمۡ
+  صَٰغِرُونَ
 sentence_translation: Fight those who do not believe in Allah and the Last Day, nor
   comply with what Allah and His Messenger have forbidden, nor embrace the religion
   of truth from among those who were given the Scripture, until they pay the tax, willingly
   submitting, fully humbled.
 word_by_word:
   1:
-    arabic: قَاتِلُوا
+    arabic: قَٰتِلُواْ
     translation: Fight
     transliteration: qātilū
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   3:
@@ -21,11 +21,11 @@ word_by_word:
     translation: (do) not
     transliteration: lā
   4:
-    arabic: يُؤۡمِنُوۡنَ
+    arabic: يُؤۡمِنُونَ
     translation: believe
     transliteration: yu'minūna
   5:
-    arabic: بِاللّٰهِ
+    arabic: بِٱللَّهِ
     translation: in Allah
     transliteration: bil-lahi
   6:
@@ -33,11 +33,11 @@ word_by_word:
     translation: and not
     transliteration: walā
   7:
-    arabic: بِالۡيَوۡمِ
+    arabic: بِٱلۡيَوۡمِ
     translation: in the Day
     transliteration: bil-yawmi
   8:
-    arabic: الۡاٰخِرِ
+    arabic: ٱلۡأٓخِرِ
     translation: the Last
     transliteration: l-ākhiri
   9:
@@ -45,7 +45,7 @@ word_by_word:
     translation: and not
     transliteration: walā
   10:
-    arabic: يُحَرِّمُوۡنَ
+    arabic: يُحَرِّمُونَ
     translation: they make unlawful
     transliteration: yuḥarrimūna
   11:
@@ -57,11 +57,11 @@ word_by_word:
     translation: Allah has made unlawful
     transliteration: ḥarrama
   13:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah has made unlawful
     transliteration: l-lahu
   14:
-    arabic: وَ رَسُوۡلُهٗ
+    arabic: وَرَسُولُهُۥ
     translation: and His Messenger
     transliteration: warasūluhu
   15:
@@ -69,15 +69,15 @@ word_by_word:
     translation: and not
     transliteration: walā
   16:
-    arabic: يَدِيۡنُوۡنَ
+    arabic: يَدِينُونَ
     translation: they acknowledge
     transliteration: yadīnūna
   17:
-    arabic: دِيۡنَ
+    arabic: دِينَ
     translation: (the) religion
     transliteration: dīna
   18:
-    arabic: الۡحَـقِّ
+    arabic: ٱلۡحَقِّ
     translation: (of) the truth
     transliteration: l-ḥaqi
   19:
@@ -85,43 +85,43 @@ word_by_word:
     translation: from
     transliteration: mina
   20:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   21:
-    arabic: اُوۡتُوا
+    arabic: أُوتُواْ
     translation: were given
     transliteration: ūtū
   22:
-    arabic: الۡـكِتٰبَ
+    arabic: ٱلۡكِتَٰبَ
     translation: the Scripture
     transliteration: l-kitāba
   23:
-    arabic: حَتّٰى
+    arabic: حَتَّىٰ
     translation: until
     transliteration: ḥattā
   24:
-    arabic: يُعۡطُوا
+    arabic: يُعۡطُواْ
     translation: they pay
     transliteration: yuʿ'ṭū
   25:
-    arabic: الۡجِزۡيَةَ
+    arabic: ٱلۡجِزۡيَةَ
     translation: the jizyah
     transliteration: l-jiz'yata
   26:
-    arabic: عَنۡ
+    arabic: عَن
     translation: willingly
     transliteration: ʿan
   27:
-    arabic: يَّدٍ
+    arabic: يَدٖ
     translation: willingly
     transliteration: yadin
   28:
-    arabic: وَّهُمۡ
+    arabic: وَهُمۡ
     translation: while they
     transliteration: wahum
   29:
-    arabic: صٰغِرُوۡنَ‏
+    arabic: صَٰغِرُونَ
     translation: (are) subdued
     transliteration: ṣāghirūna
 ---

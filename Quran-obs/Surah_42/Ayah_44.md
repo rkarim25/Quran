@@ -1,21 +1,20 @@
 ---
-arabic_ayat: "وَمَنۡ يُّضۡلِلِ اللّٰهُ فَمَا لَهٗ مِنۡ وَّلِىٍّ مِّنۡۢ بَعۡدِهٖ​ ؕ\
-  \ وَتَرَى الظّٰلِمِيۡنَ لَمَّا رَاَوُا الۡعَذَابَ يَقُوۡلُوۡنَ هَلۡ اِلٰى مَرَدٍّ\
-  \ مِّنۡ سَبِيۡلٍ​ۚ‏ \uFEFF\uFEFF"
+arabic_ayat: وَمَن يُضۡلِلِ ٱللَّهُ فَمَا لَهُۥ مِن وَلِيّٖ مِّنۢ بَعۡدِهِۦۗ وَتَرَى
+  ٱلظَّٰلِمِينَ لَمَّا رَأَوُاْ ٱلۡعَذَابَ يَقُولُونَ هَلۡ إِلَىٰ مَرَدّٖ مِّن سَبِيلٖ
 sentence_translation: And whoever Allah leaves to stray will have no guide after Him.
   You will see the wrongdoers, when they face the torment, pleading, “Is there any
   way back ˹to the world˺?”
 word_by_word:
   1:
-    arabic: وَمَنۡ
+    arabic: وَمَن
     translation: And whoever
     transliteration: waman
   2:
-    arabic: يُّضۡلِلِ
+    arabic: يُضۡلِلِ
     translation: Allah lets go astray
     transliteration: yuḍ'lili
   3:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah lets go astray
     transliteration: l-lahu
   4:
@@ -23,23 +22,23 @@ word_by_word:
     translation: then not
     transliteration: famā
   5:
-    arabic: لَهٗ
+    arabic: لَهُۥ
     translation: for him
     transliteration: lahu
   6:
-    arabic: مِنۡ
+    arabic: مِن
     translation: any
     transliteration: min
   7:
-    arabic: وَّلِىٍّ
+    arabic: وَلِيّٖ
     translation: protector
     transliteration: waliyyin
   8:
-    arabic: مِّنۡۢ
+    arabic: مِّنۢ
     translation: after Him
     transliteration: min
   9:
-    arabic: بَعۡدِهٖ​ ؕ
+    arabic: بَعۡدِهِۦۗ
     translation: after Him
     transliteration: baʿdihi
   10:
@@ -47,7 +46,7 @@ word_by_word:
     translation: And you will see
     transliteration: watarā
   11:
-    arabic: الظّٰلِمِيۡنَ
+    arabic: ٱلظَّٰلِمِينَ
     translation: the wrongdoers
     transliteration: l-ẓālimīna
   12:
@@ -55,15 +54,15 @@ word_by_word:
     translation: when
     transliteration: lammā
   13:
-    arabic: رَاَوُا
+    arabic: رَأَوُاْ
     translation: they see
     transliteration: ra-awū
   14:
-    arabic: الۡعَذَابَ
+    arabic: ٱلۡعَذَابَ
     translation: the punishment
     transliteration: l-ʿadhāba
   15:
-    arabic: يَقُوۡلُوۡنَ
+    arabic: يَقُولُونَ
     translation: saying
     transliteration: yaqūlūna
   16:
@@ -71,19 +70,19 @@ word_by_word:
     translation: Is
     transliteration: hal
   17:
-    arabic: اِلٰى
+    arabic: إِلَىٰ
     translation: (there) for
     transliteration: ilā
   18:
-    arabic: مَرَدٍّ
+    arabic: مَرَدّٖ
     translation: return
     transliteration: maraddin
   19:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: any
     transliteration: min
   20:
-    arabic: "سَبِيۡلٍ​ۚ‏ \uFEFF\uFEFF"
+    arabic: سَبِيلٖ
     translation: way
     transliteration: sabīlin
 ---

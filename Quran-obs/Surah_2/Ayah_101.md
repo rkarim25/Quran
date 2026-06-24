@@ -1,7 +1,7 @@
 ---
-arabic_ayat: وَلَمَّا جَآءَهُمۡ رَسُوۡلٌ مِّنۡ عِنۡدِ اللّٰهِ مُصَدِّقٌ لِّمَا مَعَهُمۡ
-  نَبَذَ فَرِيۡقٌ مِّنَ الَّذِيۡنَ اُوۡتُوا الۡكِتٰبَۙ کِتٰبَ اللّٰهِ وَرَآءَ ظُهُوۡرِهِمۡ
-  كَاَنَّهُمۡ لَا يَعۡلَمُوۡنَ‏
+arabic_ayat: وَلَمَّا جَآءَهُمۡ رَسُولٞ مِّنۡ عِندِ ٱللَّهِ مُصَدِّقٞ لِّمَا مَعَهُمۡ
+  نَبَذَ فَرِيقٞ مِّنَ ٱلَّذِينَ أُوتُواْ ٱلۡكِتَٰبَ كِتَٰبَ ٱللَّهِ وَرَآءَ ظُهُورِهِمۡ
+  كَأَنَّهُمۡ لَا يَعۡلَمُونَ
 sentence_translation: Now, when a messenger from Allah has come to them—confirming
   their own Scriptures—some of the People of the Book cast the Book of Allah behind
   their backs as if they did not know.
@@ -15,7 +15,7 @@ word_by_word:
     translation: came to them
     transliteration: jāahum
   3:
-    arabic: رَسُوۡلٌ
+    arabic: رَسُولٞ
     translation: a Messenger
     transliteration: rasūlun
   4:
@@ -23,15 +23,15 @@ word_by_word:
     translation: (of)
     transliteration: min
   5:
-    arabic: عِنۡدِ
+    arabic: عِندِ
     translation: from
     transliteration: ʿindi
   6:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   7:
-    arabic: مُصَدِّقٌ
+    arabic: مُصَدِّقٞ
     translation: confirming
     transliteration: muṣaddiqun
   8:
@@ -47,7 +47,7 @@ word_by_word:
     translation: threw away
     transliteration: nabadha
   11:
-    arabic: فَرِيۡقٌ
+    arabic: فَرِيقٞ
     translation: a party
     transliteration: farīqun
   12:
@@ -55,23 +55,23 @@ word_by_word:
     translation: of
     transliteration: mina
   13:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   14:
-    arabic: اُوۡتُوا
+    arabic: أُوتُواْ
     translation: were given
     transliteration: ūtū
   15:
-    arabic: الۡكِتٰبَۙ
+    arabic: ٱلۡكِتَٰبَ
     translation: the Book
     transliteration: l-kitāba
   16:
-    arabic: کِتٰبَ
+    arabic: كِتَٰبَ
     translation: (the) Book
     transliteration: kitāba
   17:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (of) Allah
     transliteration: l-lahi
   18:
@@ -79,11 +79,11 @@ word_by_word:
     translation: behind
     transliteration: warāa
   19:
-    arabic: ظُهُوۡرِهِمۡ
+    arabic: ظُهُورِهِمۡ
     translation: their backs
     transliteration: ẓuhūrihim
   20:
-    arabic: كَاَنَّهُمۡ
+    arabic: كَأَنَّهُمۡ
     translation: as if they
     transliteration: ka-annahum
   21:
@@ -91,7 +91,7 @@ word_by_word:
     translation: (do) not
     transliteration: lā
   22:
-    arabic: يَعۡلَمُوۡنَ‏
+    arabic: يَعۡلَمُونَ
     translation: know
     transliteration: yaʿlamūna
 ---

@@ -1,15 +1,15 @@
 ---
-arabic_ayat: رَبَّنَاۤ اِنَّكَ جَامِعُ النَّاسِ لِيَوۡمٍ لَّا رَيۡبَ فِيۡهِ​ؕ اِنَّ
-  اللّٰهَ لَا يُخۡلِفُ الۡمِيۡعَادَ‏
+arabic_ayat: رَبَّنَآ إِنَّكَ جَامِعُ ٱلنَّاسِ لِيَوۡمٖ لَّا رَيۡبَ فِيهِۚ إِنَّ
+  ٱللَّهَ لَا يُخۡلِفُ ٱلۡمِيعَادَ
 sentence_translation: Our Lord! You will certainly gather all humanity for the ˹promised˺
   Day—about which there is no doubt. Surely Allah does not break His promise.”
 word_by_word:
   1:
-    arabic: رَبَّنَاۤ
+    arabic: رَبَّنَآ
     translation: Our Lord
     transliteration: rabbanā
   2:
-    arabic: اِنَّكَ
+    arabic: إِنَّكَ
     translation: Indeed, You
     transliteration: innaka
   3:
@@ -17,11 +17,11 @@ word_by_word:
     translation: will gather
     transliteration: jāmiʿu
   4:
-    arabic: النَّاسِ
+    arabic: ٱلنَّاسِ
     translation: '[the] mankind'
     transliteration: l-nāsi
   5:
-    arabic: لِيَوۡمٍ
+    arabic: لِيَوۡمٖ
     translation: on a Day
     transliteration: liyawmin
   6:
@@ -33,15 +33,15 @@ word_by_word:
     translation: doubt
     transliteration: rayba
   8:
-    arabic: فِيۡهِ​ؕ
+    arabic: فِيهِۚ
     translation: in it
     transliteration: fīhi
   9:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   10:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   11:
@@ -53,7 +53,7 @@ word_by_word:
     translation: break
     transliteration: yukh'lifu
   13:
-    arabic: الۡمِيۡعَادَ‏
+    arabic: ٱلۡمِيعَادَ
     translation: the Promise
     transliteration: l-mīʿāda
 ---

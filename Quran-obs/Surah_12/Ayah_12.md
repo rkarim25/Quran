@@ -1,11 +1,10 @@
 ---
-arabic_ayat: "اَرۡسِلۡهُ مَعَنَا غَدًا يَّرۡتَعۡ وَيَلۡعَبۡ وَاِنَّا لَهٗ لَحٰـفِظُوۡنَ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: أَرۡسِلۡهُ مَعَنَا غَدٗا يَرۡتَعۡ وَيَلۡعَبۡ وَإِنَّا لَهُۥ لَحَٰفِظُونَ
 sentence_translation: Send him out with us tomorrow so that he may enjoy himself and
   play. And we will really watch over him.”
 word_by_word:
   1:
-    arabic: اَرۡسِلۡهُ
+    arabic: أَرۡسِلۡهُ
     translation: Send him
     transliteration: arsil'hu
   2:
@@ -13,11 +12,11 @@ word_by_word:
     translation: with us
     transliteration: maʿanā
   3:
-    arabic: غَدًا
+    arabic: غَدٗا
     translation: tomorrow
     transliteration: ghadan
   4:
-    arabic: يَّرۡتَعۡ
+    arabic: يَرۡتَعۡ
     translation: (to) enjoy
     transliteration: yartaʿ
   5:
@@ -25,15 +24,15 @@ word_by_word:
     translation: and play
     transliteration: wayalʿab
   6:
-    arabic: وَاِنَّا
+    arabic: وَإِنَّا
     translation: And indeed, we
     transliteration: wa-innā
   7:
-    arabic: لَهٗ
+    arabic: لَهُۥ
     translation: for him
     transliteration: lahu
   8:
-    arabic: "لَحٰـفِظُوۡنَ‏ \uFEFF\uFEFF"
+    arabic: لَحَٰفِظُونَ
     translation: (will) surely (be) guardians
     transliteration: laḥāfiẓūna
 ---

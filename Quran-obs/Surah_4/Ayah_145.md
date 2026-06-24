@@ -1,27 +1,27 @@
 ---
-arabic_ayat: اِنَّ الۡمُنٰفِقِيۡنَ فِى الدَّرۡكِ الۡاَسۡفَلِ مِنَ النَّارِ​ ۚ وَلَنۡ
-  تَجِدَ لَهُمۡ نَصِيۡرًا ۙ‏
+arabic_ayat: إِنَّ ٱلۡمُنَٰفِقِينَ فِي ٱلدَّرۡكِ ٱلۡأَسۡفَلِ مِنَ ٱلنَّارِ وَلَن تَجِدَ
+  لَهُمۡ نَصِيرًا
 sentence_translation: Surely the hypocrites will be in the lowest depths of the Fire—and
   you will never find for them any helper—
 word_by_word:
   1:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   2:
-    arabic: الۡمُنٰفِقِيۡنَ
+    arabic: ٱلۡمُنَٰفِقِينَ
     translation: the hypocrites
     transliteration: l-munāfiqīna
   3:
-    arabic: فِى
+    arabic: فِي
     translation: (will be) in
     transliteration: fī
   4:
-    arabic: الدَّرۡكِ
+    arabic: ٱلدَّرۡكِ
     translation: the depths
     transliteration: l-darki
   5:
-    arabic: الۡاَسۡفَلِ
+    arabic: ٱلۡأَسۡفَلِ
     translation: the lowest
     transliteration: l-asfali
   6:
@@ -29,11 +29,11 @@ word_by_word:
     translation: of
     transliteration: mina
   7:
-    arabic: النَّارِ​ ۚ
+    arabic: ٱلنَّارِ
     translation: the Fire
     transliteration: l-nāri
   8:
-    arabic: وَلَنۡ
+    arabic: وَلَن
     translation: and never
     transliteration: walan
   9:
@@ -45,7 +45,7 @@ word_by_word:
     translation: for them
     transliteration: lahum
   11:
-    arabic: نَصِيۡرًا ۙ‏
+    arabic: نَصِيرًا
     translation: any helper
     transliteration: naṣīran
 ---

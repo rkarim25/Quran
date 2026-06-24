@@ -1,16 +1,16 @@
 ---
-arabic_ayat: اِنَّاۤ اٰمَنَّا بِرَبِّنَا لِيَـغۡفِرَ لَـنَا خَطٰيٰنَا وَمَاۤ اَكۡرَهۡتَـنَا
-  عَلَيۡهِ مِنَ السِّحۡرِؕ​ وَاللّٰهُ خَيۡرٌ وَّاَبۡقٰى‏
+arabic_ayat: إِنَّآ ءَامَنَّا بِرَبِّنَا لِيَغۡفِرَ لَنَا خَطَٰيَٰنَا وَمَآ أَكۡرَهۡتَنَا
+  عَلَيۡهِ مِنَ ٱلسِّحۡرِۗ وَٱللَّهُ خَيۡرٞ وَأَبۡقَىٰٓ
 sentence_translation: Indeed, we have believed in our Lord so He may forgive our sins
   and that magic you have forced us to practice. And Allah is far superior ˹in reward˺
   and more lasting ˹in punishment˺.”
 word_by_word:
   1:
-    arabic: اِنَّاۤ
+    arabic: إِنَّآ ءَ
     translation: Indeed, [we]
     transliteration: innā
   2:
-    arabic: اٰمَنَّا
+    arabic: امَنَّا
     translation: we believe
     transliteration: āmannā
   3:
@@ -18,23 +18,23 @@ word_by_word:
     translation: in our Lord
     transliteration: birabbinā
   4:
-    arabic: لِيَـغۡفِرَ
+    arabic: لِيَغۡفِرَ
     translation: that He may forgive
     transliteration: liyaghfira
   5:
-    arabic: لَـنَا
+    arabic: لَنَا
     translation: for us
     transliteration: lanā
   6:
-    arabic: خَطٰيٰنَا
+    arabic: خَطَٰيَٰنَا
     translation: our sins
     transliteration: khaṭāyānā
   7:
-    arabic: وَمَاۤ
+    arabic: وَمَآ
     translation: and what
     transliteration: wamā
   8:
-    arabic: اَكۡرَهۡتَـنَا
+    arabic: أَكۡرَهۡتَنَا
     translation: you compelled us
     transliteration: akrahtanā
   9:
@@ -46,19 +46,19 @@ word_by_word:
     translation: of
     transliteration: mina
   11:
-    arabic: السِّحۡرِؕ​
+    arabic: ٱلسِّحۡرِۗ
     translation: the magic
     transliteration: l-siḥ'ri
   12:
-    arabic: وَاللّٰهُ
+    arabic: وَٱللَّهُ
     translation: And Allah
     transliteration: wal-lahu
   13:
-    arabic: خَيۡرٌ
+    arabic: خَيۡرٞ
     translation: (is) Best
     transliteration: khayrun
   14:
-    arabic: وَّاَبۡقٰى‏
+    arabic: وَأَبۡقَىٰٓ
     translation: and Ever Lasting
     transliteration: wa-abqā
 ---

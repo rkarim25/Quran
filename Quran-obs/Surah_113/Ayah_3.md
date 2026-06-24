@@ -1,9 +1,9 @@
 ---
-arabic_ayat: وَمِنۡ شَرِّ غَاسِقٍ اِذَا وَقَبَۙ‏
+arabic_ayat: وَمِن شَرِّ غَاسِقٍ إِذَا وَقَبَ
 sentence_translation: and from the evil of the night when it grows dark,
 word_by_word:
   1:
-    arabic: وَمِنۡ
+    arabic: وَمِن
     translation: And from
     transliteration: wamin
   2:
@@ -15,11 +15,11 @@ word_by_word:
     translation: (of) darkness
     transliteration: ghāsiqin
   4:
-    arabic: اِذَا
+    arabic: إِذَا
     translation: when
     transliteration: idhā
   5:
-    arabic: وَقَبَۙ‏
+    arabic: وَقَبَ
     translation: it spreads
     transliteration: waqaba
 ---

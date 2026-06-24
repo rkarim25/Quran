@@ -1,37 +1,36 @@
 ---
-arabic_ayat: "وَمِنۡ اٰيٰتِهٖۤ اَنۡ تَقُوۡمَ السَّمَآءُ وَالۡاَرۡضُ بِاَمۡرِهٖ​ ؕ\
-  \ ثُمَّ اِذَا دَعَاكُمۡ دَعۡوَةً  ​ۖ مِّنَ الۡاَرۡضِ ​ۖ اِذَاۤ اَنۡـتُمۡ تَخۡرُجُوۡنَ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: وَمِنۡ ءَايَٰتِهِۦٓ أَن تَقُومَ ٱلسَّمَآءُ وَٱلۡأَرۡضُ بِأَمۡرِهِۦۚ
+  ثُمَّ إِذَا دَعَاكُمۡ دَعۡوَةٗ مِّنَ ٱلۡأَرۡضِ إِذَآ أَنتُمۡ تَخۡرُجُونَ
 sentence_translation: And one of His signs is that the heavens and the earth persist
   by His command. Then when He calls you out of the earth just once, you will instantly
   come forth.
 word_by_word:
   1:
-    arabic: وَمِنۡ
+    arabic: وَمِنۡ ءَ
     translation: And among
     transliteration: wamin
   2:
-    arabic: اٰيٰتِهٖۤ
+    arabic: ايَٰتِهِۦٓ
     translation: His Signs
     transliteration: āyātihi
   3:
-    arabic: اَنۡ
+    arabic: أَن
     translation: (is) that
     transliteration: an
   4:
-    arabic: تَقُوۡمَ
+    arabic: تَقُومَ
     translation: stands
     transliteration: taqūma
   5:
-    arabic: السَّمَآءُ
+    arabic: ٱلسَّمَآءُ
     translation: the heavens
     transliteration: l-samāu
   6:
-    arabic: وَالۡاَرۡضُ
+    arabic: وَٱلۡأَرۡضُ
     translation: and the earth
     transliteration: wal-arḍu
   7:
-    arabic: بِاَمۡرِهٖ​ ؕ
+    arabic: بِأَمۡرِهِۦۚ
     translation: by His Command
     transliteration: bi-amrihi
   8:
@@ -39,7 +38,7 @@ word_by_word:
     translation: Then
     transliteration: thumma
   9:
-    arabic: اِذَا
+    arabic: إِذَا
     translation: when
     transliteration: idhā
   10:
@@ -47,7 +46,7 @@ word_by_word:
     translation: He calls you
     transliteration: daʿākum
   11:
-    arabic: دَعۡوَةً  ​ۖ
+    arabic: دَعۡوَةٗ
     translation: (with) a call
     transliteration: daʿwatan
   12:
@@ -55,19 +54,19 @@ word_by_word:
     translation: from
     transliteration: mina
   13:
-    arabic: الۡاَرۡضِ ​ۖ
+    arabic: ٱلۡأَرۡضِ
     translation: the earth
     transliteration: l-arḍi
   14:
-    arabic: اِذَاۤ
+    arabic: إِذَآ
     translation: behold
     transliteration: idhā
   15:
-    arabic: اَنۡـتُمۡ
+    arabic: أَنتُمۡ
     translation: You
     transliteration: antum
   16:
-    arabic: "تَخۡرُجُوۡنَ‏ \uFEFF\uFEFF"
+    arabic: تَخۡرُجُونَ
     translation: will come forth
     transliteration: takhrujūna
 ---

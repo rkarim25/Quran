@@ -1,8 +1,7 @@
 ---
-arabic_ayat: "لَقَدۡ مَنَّ اللّٰهُ عَلَى الۡمُؤۡمِنِيۡنَ اِذۡ بَعَثَ فِيۡهِمۡ رَسُوۡلًا\
-  \ مِّنۡ اَنۡفُسِهِمۡ يَتۡلُوۡا عَلَيۡهِمۡ اٰيٰتِهٖ وَيُزَكِّيۡهِمۡ وَيُعَلِّمُهُمُ\
-  \ الۡكِتٰبَ وَالۡحِكۡمَةَ  ۚ وَاِنۡ كَانُوۡا مِنۡ قَبۡلُ لَفِىۡ ضَلٰلٍ مُّبِيۡنٍ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: لَقَدۡ مَنَّ ٱللَّهُ عَلَى ٱلۡمُؤۡمِنِينَ إِذۡ بَعَثَ فِيهِمۡ رَسُولٗا
+  مِّنۡ أَنفُسِهِمۡ يَتۡلُواْ عَلَيۡهِمۡ ءَايَٰتِهِۦ وَيُزَكِّيهِمۡ وَيُعَلِّمُهُمُ
+  ٱلۡكِتَٰبَ وَٱلۡحِكۡمَةَ وَإِن كَانُواْ مِن قَبۡلُ لَفِي ضَلَٰلٖ مُّبِينٍ
 sentence_translation: Indeed, Allah has done the believers a ˹great˺ favour by raising
   a messenger from among them—reciting to them His revelations, purifying them, and
   teaching them the Book and wisdom. For indeed they had previously been clearly astray.
@@ -16,7 +15,7 @@ word_by_word:
     translation: bestowed a Favor
     transliteration: manna
   3:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   4:
@@ -24,11 +23,11 @@ word_by_word:
     translation: upon
     transliteration: ʿalā
   5:
-    arabic: الۡمُؤۡمِنِيۡنَ
+    arabic: ٱلۡمُؤۡمِنِينَ
     translation: the believers
     transliteration: l-mu'minīna
   6:
-    arabic: اِذۡ
+    arabic: إِذۡ
     translation: as
     transliteration: idh
   7:
@@ -36,11 +35,11 @@ word_by_word:
     translation: He raised
     transliteration: baʿatha
   8:
-    arabic: فِيۡهِمۡ
+    arabic: فِيهِمۡ
     translation: among them
     transliteration: fīhim
   9:
-    arabic: رَسُوۡلًا
+    arabic: رَسُولٗا
     translation: a Messenger
     transliteration: rasūlan
   10:
@@ -48,23 +47,23 @@ word_by_word:
     translation: from
     transliteration: min
   11:
-    arabic: اَنۡفُسِهِمۡ
+    arabic: أَنفُسِهِمۡ
     translation: themselves
     transliteration: anfusihim
   12:
-    arabic: يَتۡلُوۡا
+    arabic: يَتۡلُواْ
     translation: reciting
     transliteration: yatlū
   13:
-    arabic: عَلَيۡهِمۡ
+    arabic: عَلَيۡهِمۡ ءَ
     translation: to them
     transliteration: ʿalayhim
   14:
-    arabic: اٰيٰتِهٖ
+    arabic: ايَٰتِهِۦ
     translation: His Verses
     transliteration: āyātihi
   15:
-    arabic: وَيُزَكِّيۡهِمۡ
+    arabic: وَيُزَكِّيهِمۡ
     translation: and purifying them
     transliteration: wayuzakkīhim
   16:
@@ -72,23 +71,23 @@ word_by_word:
     translation: and teaching them
     transliteration: wayuʿallimuhumu
   17:
-    arabic: الۡكِتٰبَ
+    arabic: ٱلۡكِتَٰبَ
     translation: the Book
     transliteration: l-kitāba
   18:
-    arabic: وَالۡحِكۡمَةَ  ۚ
+    arabic: وَٱلۡحِكۡمَةَ
     translation: and the wisdom
     transliteration: wal-ḥik'mata
   19:
-    arabic: وَاِنۡ
+    arabic: وَإِن
     translation: although
     transliteration: wa-in
   20:
-    arabic: كَانُوۡا
+    arabic: كَانُواْ
     translation: they were
     transliteration: kānū
   21:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   22:
@@ -96,15 +95,15 @@ word_by_word:
     translation: before (that)
     transliteration: qablu
   23:
-    arabic: لَفِىۡ
+    arabic: لَفِي
     translation: certainly in
     transliteration: lafī
   24:
-    arabic: ضَلٰلٍ
+    arabic: ضَلَٰلٖ
     translation: (the) error
     transliteration: ḍalālin
   25:
-    arabic: "مُّبِيۡنٍ‏ \uFEFF\uFEFF"
+    arabic: مُّبِينٍ
     translation: clear
     transliteration: mubīnin
 ---

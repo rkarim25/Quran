@@ -1,15 +1,15 @@
 ---
-arabic_ayat: اِذۡ قَالَ اللّٰهُ يٰعِيۡسٰۤى اِنِّىۡ مُتَوَفِّيۡكَ وَرَافِعُكَ اِلَىَّ
-  وَمُطَهِّرُكَ مِنَ الَّذِيۡنَ كَفَرُوۡا وَجَاعِلُ الَّذِيۡنَ اتَّبَعُوۡكَ فَوۡقَ
-  الَّذِيۡنَ كَفَرُوۡۤا اِلٰى يَوۡمِ الۡقِيٰمَةِ ​​ۚ ثُمَّ اِلَىَّ مَرۡجِعُكُمۡ فَاَحۡكُمُ
-  بَيۡنَكُمۡ فِيۡمَا كُنۡتُمۡ فِيۡهِ تَخۡتَلِفُوۡنَ‏
+arabic_ayat: إِذۡ قَالَ ٱللَّهُ يَٰعِيسَىٰٓ إِنِّي مُتَوَفِّيكَ وَرَافِعُكَ إِلَيَّ
+  وَمُطَهِّرُكَ مِنَ ٱلَّذِينَ كَفَرُواْ وَجَاعِلُ ٱلَّذِينَ ٱتَّبَعُوكَ فَوۡقَ ٱلَّذِينَ
+  كَفَرُوٓاْ إِلَىٰ يَوۡمِ ٱلۡقِيَٰمَةِۖ ثُمَّ إِلَيَّ مَرۡجِعُكُمۡ فَأَحۡكُمُ بَيۡنَكُمۡ
+  فِيمَا كُنتُمۡ فِيهِ تَخۡتَلِفُونَ
 sentence_translation: ˹Remember˺ when Allah said, “O Jesus! I will take you and raise
   you up to Myself. I will deliver you from those who disbelieve, and elevate your
   followers above the disbelievers until the Day of Judgment. Then to Me you will
   ˹all˺ return, and I will settle all your disputes.
 word_by_word:
   1:
-    arabic: اِذۡ
+    arabic: إِذۡ
     translation: When
     transliteration: idh
   2:
@@ -17,19 +17,19 @@ word_by_word:
     translation: said
     transliteration: qāla
   3:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   4:
-    arabic: يٰعِيۡسٰۤى
+    arabic: يَٰعِيسَىٰٓ
     translation: O Isa
     transliteration: yāʿīsā
   5:
-    arabic: اِنِّىۡ
+    arabic: إِنِّي
     translation: Indeed, I
     transliteration: innī
   6:
-    arabic: مُتَوَفِّيۡكَ
+    arabic: مُتَوَفِّيكَ
     translation: (will) take you
     transliteration: mutawaffīka
   7:
@@ -37,7 +37,7 @@ word_by_word:
     translation: and raise you
     transliteration: warāfiʿuka
   8:
-    arabic: اِلَىَّ
+    arabic: إِلَيَّ
     translation: to Myself
     transliteration: ilayya
   9:
@@ -49,11 +49,11 @@ word_by_word:
     translation: from
     transliteration: mina
   11:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   12:
-    arabic: كَفَرُوۡا
+    arabic: كَفَرُواْ
     translation: disbelieve[d]
     transliteration: kafarū
   13:
@@ -61,11 +61,11 @@ word_by_word:
     translation: and I will make
     transliteration: wajāʿilu
   14:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   15:
-    arabic: اتَّبَعُوۡكَ
+    arabic: ٱتَّبَعُوكَ
     translation: follow[ed] you
     transliteration: ittabaʿūka
   16:
@@ -73,15 +73,15 @@ word_by_word:
     translation: superior
     transliteration: fawqa
   17:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: (to) those who
     transliteration: alladhīna
   18:
-    arabic: كَفَرُوۡۤا
+    arabic: كَفَرُوٓاْ
     translation: disbelieve[d]
     transliteration: kafarū
   19:
-    arabic: اِلٰى
+    arabic: إِلَىٰ
     translation: 'on'
     transliteration: ilā
   20:
@@ -89,7 +89,7 @@ word_by_word:
     translation: (the) Day
     transliteration: yawmi
   21:
-    arabic: الۡقِيٰمَةِ ​​ۚ
+    arabic: ٱلۡقِيَٰمَةِۖ
     translation: (of) [the] Resurrection
     transliteration: l-qiyāmati
   22:
@@ -97,7 +97,7 @@ word_by_word:
     translation: Then
     transliteration: thumma
   23:
-    arabic: اِلَىَّ
+    arabic: إِلَيَّ
     translation: to Me
     transliteration: ilayya
   24:
@@ -105,7 +105,7 @@ word_by_word:
     translation: (is) your return
     transliteration: marjiʿukum
   25:
-    arabic: فَاَحۡكُمُ
+    arabic: فَأَحۡكُمُ
     translation: and I will judge
     transliteration: fa-aḥkumu
   26:
@@ -113,19 +113,19 @@ word_by_word:
     translation: between you
     transliteration: baynakum
   27:
-    arabic: فِيۡمَا
+    arabic: فِيمَا
     translation: about what
     transliteration: fīmā
   28:
-    arabic: كُنۡتُمۡ
+    arabic: كُنتُمۡ
     translation: you were
     transliteration: kuntum
   29:
-    arabic: فِيۡهِ
+    arabic: فِيهِ
     translation: '[in it]'
     transliteration: fīhi
   30:
-    arabic: تَخۡتَلِفُوۡنَ‏
+    arabic: تَخۡتَلِفُونَ
     translation: differing
     transliteration: takhtalifūna
 ---

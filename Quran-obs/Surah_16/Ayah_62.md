@@ -1,17 +1,16 @@
 ---
-arabic_ayat: "وَيَجۡعَلُوۡنَ لِلّٰهِ مَا يَكۡرَهُوۡنَ وَتَصِفُ اَلۡسِنَـتُهُمُ الۡـكَذِبَ\
-  \ اَنَّ لَهُمُ الۡحُسۡنٰى​ؕ لَا جَرَمَ اَنَّ لَهُمُ النَّارَ وَ اَنَّهُمۡ مُّفۡرَطُوۡنَ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: وَيَجۡعَلُونَ لِلَّهِ مَا يَكۡرَهُونَۚ وَتَصِفُ أَلۡسِنَتُهُمُ ٱلۡكَذِبَ
+  أَنَّ لَهُمُ ٱلۡحُسۡنَىٰۚ لَا جَرَمَ أَنَّ لَهُمُ ٱلنَّارَ وَأَنَّهُم مُّفۡرَطُونَ
 sentence_translation: They attribute to Allah what they hate ˹for themselves˺, and
   their tongues utter the lie that they will have the finest reward. Without a doubt,
   for them is the Fire, where they will be abandoned.
 word_by_word:
   1:
-    arabic: وَيَجۡعَلُوۡنَ
+    arabic: وَيَجۡعَلُونَ
     translation: And they assign
     transliteration: wayajʿalūna
   2:
-    arabic: لِلّٰهِ
+    arabic: لِلَّهِ
     translation: to Allah
     transliteration: lillahi
   3:
@@ -19,7 +18,7 @@ word_by_word:
     translation: what
     transliteration: mā
   4:
-    arabic: يَكۡرَهُوۡنَ
+    arabic: يَكۡرَهُونَۚ
     translation: they dislike
     transliteration: yakrahūna
   5:
@@ -27,15 +26,15 @@ word_by_word:
     translation: and assert
     transliteration: wataṣifu
   6:
-    arabic: اَلۡسِنَـتُهُمُ
+    arabic: أَلۡسِنَتُهُمُ
     translation: their tongues
     transliteration: alsinatuhumu
   7:
-    arabic: الۡـكَذِبَ
+    arabic: ٱلۡكَذِبَ
     translation: the lie
     transliteration: l-kadhiba
   8:
-    arabic: اَنَّ
+    arabic: أَنَّ
     translation: that
     transliteration: anna
   9:
@@ -43,7 +42,7 @@ word_by_word:
     translation: for them
     transliteration: lahumu
   10:
-    arabic: الۡحُسۡنٰى​ؕ
+    arabic: ٱلۡحُسۡنَىٰۚ
     translation: (is) the best
     transliteration: l-ḥus'nā
   11:
@@ -55,7 +54,7 @@ word_by_word:
     translation: doubt
     transliteration: jarama
   13:
-    arabic: اَنَّ
+    arabic: أَنَّ
     translation: that
     transliteration: anna
   14:
@@ -63,15 +62,15 @@ word_by_word:
     translation: for them
     transliteration: lahumu
   15:
-    arabic: النَّارَ
+    arabic: ٱلنَّارَ
     translation: (is) the Fire
     transliteration: l-nāra
   16:
-    arabic: وَ اَنَّهُمۡ
+    arabic: وَأَنَّهُم
     translation: and that they
     transliteration: wa-annahum
   17:
-    arabic: "مُّفۡرَطُوۡنَ‏ \uFEFF\uFEFF"
+    arabic: مُّفۡرَطُونَ
     translation: (will) be abandoned
     transliteration: muf'raṭūna
 ---

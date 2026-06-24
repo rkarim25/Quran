@@ -1,28 +1,28 @@
 ---
-arabic_ayat: اِنَّ الَّذِيۡنَ يُؤۡذُوۡنَ اللّٰهَ وَرَسُوۡلَهٗ لَعَنَهُمُ اللّٰهُ فِى
-  الدُّنۡيَا وَالۡاٰخِرَةِ وَاَعَدَّ لَهُمۡ عَذَابًا مُّهِيۡنًا‏
+arabic_ayat: إِنَّ ٱلَّذِينَ يُؤۡذُونَ ٱللَّهَ وَرَسُولَهُۥ لَعَنَهُمُ ٱللَّهُ فِي
+  ٱلدُّنۡيَا وَٱلۡأٓخِرَةِ وَأَعَدَّ لَهُمۡ عَذَابٗا مُّهِينٗا
 sentence_translation: Surely those who offend Allah and His Messenger are condemned
   by Allah in this world and the Hereafter. And He has prepared for them a humiliating
   punishment.
 word_by_word:
   1:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   3:
-    arabic: يُؤۡذُوۡنَ
+    arabic: يُؤۡذُونَ
     translation: annoy
     transliteration: yu'dhūna
   4:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   5:
-    arabic: وَرَسُوۡلَهٗ
+    arabic: وَرَسُولَهُۥ
     translation: and His Messenger
     transliteration: warasūlahu
   6:
@@ -30,23 +30,23 @@ word_by_word:
     translation: Allah has cursed them
     transliteration: laʿanahumu
   7:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah has cursed them
     transliteration: l-lahu
   8:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   9:
-    arabic: الدُّنۡيَا
+    arabic: ٱلدُّنۡيَا
     translation: the world
     transliteration: l-dun'yā
   10:
-    arabic: وَالۡاٰخِرَةِ
+    arabic: وَٱلۡأٓخِرَةِ
     translation: and the Hereafter
     transliteration: wal-ākhirati
   11:
-    arabic: وَاَعَدَّ
+    arabic: وَأَعَدَّ
     translation: and prepared
     transliteration: wa-aʿadda
   12:
@@ -54,11 +54,11 @@ word_by_word:
     translation: for them
     transliteration: lahum
   13:
-    arabic: عَذَابًا
+    arabic: عَذَابٗا
     translation: a punishment
     transliteration: ʿadhāban
   14:
-    arabic: مُّهِيۡنًا‏
+    arabic: مُّهِينٗا
     translation: humiliating
     transliteration: muhīnan
 ---

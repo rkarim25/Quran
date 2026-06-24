@@ -1,18 +1,18 @@
 ---
-arabic_ayat: اِذۡ تُصۡعِدُوۡنَ وَلَا تَلۡوٗنَ عَلٰٓى اَحَدٍ وَّالرَّسُوۡلُ يَدۡعُوۡكُمۡ
-  فِىۡۤ اُخۡرٰٮكُمۡ فَاَثَابَكُمۡ غَمًّا ۢ بِغَمٍّ لِّـكَيۡلَا تَحۡزَنُوۡا عَلٰى مَا
-  فَاتَكُمۡ وَلَا مَاۤ اَصَابَكُمۡ​ؕ وَاللّٰهُ خَبِيۡرٌۢ بِمَا تَعۡمَلُوۡنَ‏
+arabic_ayat: ۞ إِذۡ تُصۡعِدُونَ وَلَا تَلۡوُۥنَ عَلَىٰٓ أَحَدٖ وَٱلرَّسُولُ يَدۡعُوكُمۡ
+  فِيٓ أُخۡرَىٰكُمۡ فَأَثَٰبَكُمۡ غَمَّۢا بِغَمّٖ لِّكَيۡلَا تَحۡزَنُواْ عَلَىٰ مَا
+  فَاتَكُمۡ وَلَا مَآ أَصَٰبَكُمۡۗ وَٱللَّهُ خَبِيرُۢ بِمَا تَعۡمَلُونَ
 sentence_translation: ˹Remember˺ when you were running far away ˹in panic˺—not looking
   at anyone—while the Messenger was calling to you from behind! So Allah rewarded
   your disobedience with distress upon distress. Now, do not grieve over the victory
   you were denied or the injury you suffered. And Allah is All-Aware of what you do.
 word_by_word:
   1:
-    arabic: ۞ اِذۡ
+    arabic: ۞ إِذۡ
     translation: When
     transliteration: idh
   2:
-    arabic: تُصۡعِدُوۡنَ
+    arabic: تُصۡعِدُونَ
     translation: you were running uphill
     transliteration: tuṣ'ʿidūna
   3:
@@ -20,55 +20,55 @@ word_by_word:
     translation: and not
     transliteration: walā
   4:
-    arabic: تَلۡوٗنَ
+    arabic: تَلۡوُۥنَ
     translation: casting a glance
     transliteration: talwūna
   5:
-    arabic: عَلٰٓى
+    arabic: عَلَىٰٓ
     translation: 'on'
     transliteration: ʿalā
   6:
-    arabic: اَحَدٍ
+    arabic: أَحَدٖ
     translation: anyone
     transliteration: aḥadin
   7:
-    arabic: وَّالرَّسُوۡلُ
+    arabic: وَٱلرَّسُولُ
     translation: while the Messenger
     transliteration: wal-rasūlu
   8:
-    arabic: يَدۡعُوۡكُمۡ
+    arabic: يَدۡعُوكُمۡ
     translation: was calling you
     transliteration: yadʿūkum
   9:
-    arabic: فِىۡۤ
+    arabic: فِيٓ
     translation: '[in]'
     transliteration: fī
   10:
-    arabic: اُخۡرٰٮكُمۡ
+    arabic: أُخۡرَىٰكُمۡ
     translation: (from) behind you
     transliteration: ukh'rākum
   11:
-    arabic: فَاَثَابَكُمۡ
+    arabic: فَأَثَٰبَكُمۡ
     translation: So (He) repaid you
     transliteration: fa-athābakum
   12:
-    arabic: غَمًّا ۢ
+    arabic: غَمَّۢا
     translation: (with) distress
     transliteration: ghamman
   13:
-    arabic: بِغَمٍّ
+    arabic: بِغَمّٖ
     translation: on distress
     transliteration: bighammin
   14:
-    arabic: لِّـكَيۡلَا
+    arabic: لِّكَيۡلَا
     translation: so that not
     transliteration: likaylā
   15:
-    arabic: تَحۡزَنُوۡا
+    arabic: تَحۡزَنُواْ
     translation: you grieve
     transliteration: taḥzanū
   16:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: over
     transliteration: ʿalā
   17:
@@ -84,19 +84,19 @@ word_by_word:
     translation: and not
     transliteration: walā
   20:
-    arabic: مَاۤ
+    arabic: مَآ
     translation: what
     transliteration: mā
   21:
-    arabic: اَصَابَكُمۡ​ؕ
+    arabic: أَصَٰبَكُمۡۗ
     translation: (had) befallen you
     transliteration: aṣābakum
   22:
-    arabic: وَاللّٰهُ
+    arabic: وَٱللَّهُ
     translation: And Allah
     transliteration: wal-lahu
   23:
-    arabic: خَبِيۡرٌۢ
+    arabic: خَبِيرُۢ
     translation: (is) All-Aware
     transliteration: khabīrun
   24:
@@ -104,7 +104,7 @@ word_by_word:
     translation: of what
     transliteration: bimā
   25:
-    arabic: تَعۡمَلُوۡنَ‏
+    arabic: تَعۡمَلُونَ
     translation: you do
     transliteration: taʿmalūna
 ---

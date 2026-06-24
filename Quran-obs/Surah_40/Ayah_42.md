@@ -1,27 +1,27 @@
 ---
-arabic_ayat: تَدۡعُوۡنَنِىۡ لِاَكۡفُرَ بِاللّٰهِ وَاُشۡرِكَ بِهٖ مَا لَيۡسَ لِىۡ بِهٖ
-  عِلۡمٌ وَّاَنَا اَدۡعُوۡكُمۡ اِلَى الۡعَزِيۡزِ الۡغَفَّارِ‏
+arabic_ayat: تَدۡعُونَنِي لِأَكۡفُرَ بِٱللَّهِ وَأُشۡرِكَ بِهِۦ مَا لَيۡسَ لِي بِهِۦ
+  عِلۡمٞ وَأَنَا۠ أَدۡعُوكُمۡ إِلَى ٱلۡعَزِيزِ ٱلۡغَفَّٰرِ
 sentence_translation: You invite me to disbelieve in Allah and associate with Him
   what I have no knowledge of, while I invite you to the Almighty, Most Forgiving.
 word_by_word:
   1:
-    arabic: تَدۡعُوۡنَنِىۡ
+    arabic: تَدۡعُونَنِي
     translation: You call me
     transliteration: tadʿūnanī
   2:
-    arabic: لِاَكۡفُرَ
+    arabic: لِأَكۡفُرَ
     translation: that I disbelieve
     transliteration: li-akfura
   3:
-    arabic: بِاللّٰهِ
+    arabic: بِٱللَّهِ
     translation: in Allah
     transliteration: bil-lahi
   4:
-    arabic: وَاُشۡرِكَ
+    arabic: وَأُشۡرِكَ
     translation: and (to) associate
     transliteration: wa-ush'rika
   5:
-    arabic: بِهٖ
+    arabic: بِهِۦ
     translation: with Him
     transliteration: bihi
   6:
@@ -33,35 +33,35 @@ word_by_word:
     translation: not
     transliteration: laysa
   8:
-    arabic: لِىۡ
+    arabic: لِي
     translation: for me
     transliteration: lī
   9:
-    arabic: بِهٖ
+    arabic: بِهِۦ
     translation: of it
     transliteration: bihi
   10:
-    arabic: عِلۡمٌ
+    arabic: عِلۡمٞ
     translation: any knowledge
     transliteration: ʿil'mun
   11:
-    arabic: وَّاَنَا
+    arabic: وَأَنَا۠
     translation: and I
     transliteration: wa-anā
   12:
-    arabic: اَدۡعُوۡكُمۡ
+    arabic: أَدۡعُوكُمۡ
     translation: call you
     transliteration: adʿūkum
   13:
-    arabic: اِلَى
+    arabic: إِلَى
     translation: to
     transliteration: ilā
   14:
-    arabic: الۡعَزِيۡزِ
+    arabic: ٱلۡعَزِيزِ
     translation: the All-Mighty
     transliteration: l-ʿazīzi
   15:
-    arabic: الۡغَفَّارِ‏
+    arabic: ٱلۡغَفَّٰرِ
     translation: the Oft-Forgiving
     transliteration: l-ghafāri
 ---

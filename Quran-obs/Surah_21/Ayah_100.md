@@ -1,5 +1,5 @@
 ---
-arabic_ayat: لَهُمۡ فِيۡهَا زَفِيۡرٌ وَّهُمۡ فِيۡهَا لَا يَسۡمَعُوۡنَ‏
+arabic_ayat: لَهُمۡ فِيهَا زَفِيرٞ وَهُمۡ فِيهَا لَا يَسۡمَعُونَ
 sentence_translation: In it they will groan, and will not be able to hear.
 word_by_word:
   1:
@@ -7,19 +7,19 @@ word_by_word:
     translation: For them
     transliteration: lahum
   2:
-    arabic: فِيۡهَا
+    arabic: فِيهَا
     translation: therein
     transliteration: fīhā
   3:
-    arabic: زَفِيۡرٌ
+    arabic: زَفِيرٞ
     translation: (is) sighing
     transliteration: zafīrun
   4:
-    arabic: وَّهُمۡ
+    arabic: وَهُمۡ
     translation: and they
     transliteration: wahum
   5:
-    arabic: فِيۡهَا
+    arabic: فِيهَا
     translation: therein
     transliteration: fīhā
   6:
@@ -27,7 +27,7 @@ word_by_word:
     translation: not
     transliteration: lā
   7:
-    arabic: يَسۡمَعُوۡنَ‏
+    arabic: يَسۡمَعُونَ
     translation: will hear
     transliteration: yasmaʿūna
 ---

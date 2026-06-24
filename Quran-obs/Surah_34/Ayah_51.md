@@ -1,6 +1,5 @@
 ---
-arabic_ayat: "وَلَوۡ تَرٰٓى اِذۡ فَزِعُوۡا فَلَا فَوۡتَ وَاُخِذُوۡا مِنۡ مَّكَانٍ\
-  \ قَرِيۡبٍۙ‏ \uFEFF\uFEFF"
+arabic_ayat: وَلَوۡ تَرَىٰٓ إِذۡ فَزِعُواْ فَلَا فَوۡتَ وَأُخِذُواْ مِن مَّكَانٖ قَرِيبٖ
 sentence_translation: If only you could see when they will be horrified with no escape
   ˹on Judgment Day˺! And they will be seized from a nearby place.
 word_by_word:
@@ -9,15 +8,15 @@ word_by_word:
     translation: And if
     transliteration: walaw
   2:
-    arabic: تَرٰٓى
+    arabic: تَرَىٰٓ
     translation: you (could) see
     transliteration: tarā
   3:
-    arabic: اِذۡ
+    arabic: إِذۡ
     translation: when
     transliteration: idh
   4:
-    arabic: فَزِعُوۡا
+    arabic: فَزِعُواْ
     translation: they will be terrified
     transliteration: faziʿū
   5:
@@ -29,19 +28,19 @@ word_by_word:
     translation: escape
     transliteration: fawta
   7:
-    arabic: وَاُخِذُوۡا
+    arabic: وَأُخِذُواْ
     translation: and they will be seized
     transliteration: wa-ukhidhū
   8:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   9:
-    arabic: مَّكَانٍ
+    arabic: مَّكَانٖ
     translation: a place
     transliteration: makānin
   10:
-    arabic: "قَرِيۡبٍۙ‏ \uFEFF\uFEFF"
+    arabic: قَرِيبٖ
     translation: near
     transliteration: qarībin
 ---

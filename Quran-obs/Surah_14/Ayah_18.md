@@ -1,37 +1,37 @@
 ---
-arabic_ayat: مَثَلُ الَّذِيۡنَ كَفَرُوۡا بِرَبِّهِمۡ​ اَعۡمَالُهُمۡ كَرَمَادِ ۨاشۡتَدَّتۡ
-  بِهِ الرِّيۡحُ فِىۡ يَوۡمٍ عَاصِفٍ​ؕ لَا يَقۡدِرُوۡنَ مِمَّا كَسَبُوۡا عَلٰى شَىۡءٍ​ؕ
-  ذٰ لِكَ هُوَ الضَّلٰلُ الۡبَعِيۡدُ‏
+arabic_ayat: مَّثَلُ ٱلَّذِينَ كَفَرُواْ بِرَبِّهِمۡۖ أَعۡمَٰلُهُمۡ كَرَمَادٍ ٱشۡتَدَّتۡ
+  بِهِ ٱلرِّيحُ فِي يَوۡمٍ عَاصِفٖۖ لَّا يَقۡدِرُونَ مِمَّا كَسَبُواْ عَلَىٰ شَيۡءٖۚ
+  ذَٰلِكَ هُوَ ٱلضَّلَٰلُ ٱلۡبَعِيدُ
 sentence_translation: The parable of the deeds of those who disbelieve in their Lord
   is that of ashes fiercely blown away by wind on a stormy day. They will gain nothing
   from what they have earned. That is ˹truly˺ the farthest one can stray.
 word_by_word:
   1:
-    arabic: مَثَلُ
+    arabic: مَّثَلُ
     translation: (The) example
     transliteration: mathalu
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: (of) those who
     transliteration: alladhīna
   3:
-    arabic: كَفَرُوۡا
+    arabic: كَفَرُواْ
     translation: disbelieve
     transliteration: kafarū
   4:
-    arabic: بِرَبِّهِمۡ​
+    arabic: بِرَبِّهِمۡۖ
     translation: in their Lord
     transliteration: birabbihim
   5:
-    arabic: اَعۡمَالُهُمۡ
+    arabic: أَعۡمَٰلُهُمۡ
     translation: their deeds
     transliteration: aʿmāluhum
   6:
-    arabic: كَرَمَادِ
+    arabic: كَرَمَادٍ
     translation: (are) like ashes
     transliteration: karamādin
   7:
-    arabic: ۨاشۡتَدَّتۡ
+    arabic: ٱشۡتَدَّتۡ
     translation: blows furiously
     transliteration: ish'taddat
   8:
@@ -39,11 +39,11 @@ word_by_word:
     translation: on it
     transliteration: bihi
   9:
-    arabic: الرِّيۡحُ
+    arabic: ٱلرِّيحُ
     translation: the wind
     transliteration: l-rīḥu
   10:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   11:
@@ -51,15 +51,15 @@ word_by_word:
     translation: a day
     transliteration: yawmin
   12:
-    arabic: عَاصِفٍ​ؕ
+    arabic: عَاصِفٖۖ
     translation: stormy
     transliteration: ʿāṣifin
   13:
-    arabic: لَا
+    arabic: لَّا
     translation: 'No'
     transliteration: lā
   14:
-    arabic: يَقۡدِرُوۡنَ
+    arabic: يَقۡدِرُونَ
     translation: control (they have)
     transliteration: yaqdirūna
   15:
@@ -67,19 +67,19 @@ word_by_word:
     translation: of what
     transliteration: mimmā
   16:
-    arabic: كَسَبُوۡا
+    arabic: كَسَبُواْ
     translation: they have earned
     transliteration: kasabū
   17:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: 'on'
     transliteration: ʿalā
   18:
-    arabic: شَىۡءٍ​ؕ
+    arabic: شَيۡءٖۚ
     translation: anything
     transliteration: shayin
   19:
-    arabic: ذٰ لِكَ
+    arabic: ذَٰلِكَ
     translation: That
     transliteration: dhālika
   20:
@@ -87,11 +87,11 @@ word_by_word:
     translation: '[it]'
     transliteration: huwa
   21:
-    arabic: الضَّلٰلُ
+    arabic: ٱلضَّلَٰلُ
     translation: (is) the straying
     transliteration: l-ḍalālu
   22:
-    arabic: الۡبَعِيۡدُ‏
+    arabic: ٱلۡبَعِيدُ
     translation: far
     transliteration: l-baʿīdu
 ---

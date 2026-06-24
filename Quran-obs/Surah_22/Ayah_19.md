@@ -1,36 +1,36 @@
 ---
-arabic_ayat: هٰذٰنِ خَصۡمٰنِ اخۡتَصَمُوۡا فِىۡ رَبِّهِمۡ​ فَالَّذِيۡنَ كَفَرُوۡا
-  قُطِّعَتۡ لَهُمۡ ثِيَابٌ مِّنۡ نَّارٍ ؕ يُصَبُّ مِنۡ فَوۡقِ رُءُوۡسِهِمُ الۡحَمِيۡمُ​ۚ‏
+arabic_ayat: ۞ هَٰذَانِ خَصۡمَانِ ٱخۡتَصَمُواْ فِي رَبِّهِمۡۖ فَٱلَّذِينَ كَفَرُواْ
+  قُطِّعَتۡ لَهُمۡ ثِيَابٞ مِّن نَّارٖ يُصَبُّ مِن فَوۡقِ رُءُوسِهِمُ ٱلۡحَمِيمُ
 sentence_translation: 'These are two opposing groups that disagree about their Lord:
   as for the disbelievers, garments of Fire will be cut out for them and boiling water
   will be poured over their heads,'
 word_by_word:
   1:
-    arabic: ۞ هٰذٰنِ
+    arabic: ۞ هَٰذَانِ
     translation: These two
     transliteration: hādhāni
   2:
-    arabic: خَصۡمٰنِ
+    arabic: خَصۡمَانِ
     translation: opponents
     transliteration: khaṣmāni
   3:
-    arabic: اخۡتَصَمُوۡا
+    arabic: ٱخۡتَصَمُواْ
     translation: dispute
     transliteration: ikh'taṣamū
   4:
-    arabic: فِىۡ
+    arabic: فِي
     translation: concerning
     transliteration: fī
   5:
-    arabic: رَبِّهِمۡ​
+    arabic: رَبِّهِمۡۖ
     translation: their Lord
     transliteration: rabbihim
   6:
-    arabic: فَالَّذِيۡنَ
+    arabic: فَٱلَّذِينَ
     translation: But those who
     transliteration: fa-alladhīna
   7:
-    arabic: كَفَرُوۡا
+    arabic: كَفَرُواْ
     translation: disbelieved
     transliteration: kafarū
   8:
@@ -42,15 +42,15 @@ word_by_word:
     translation: for them
     transliteration: lahum
   10:
-    arabic: ثِيَابٌ
+    arabic: ثِيَابٞ
     translation: garments
     transliteration: thiyābun
   11:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: of
     transliteration: min
   12:
-    arabic: نَّارٍ ؕ
+    arabic: نَّارٖ
     translation: fire
     transliteration: nārin
   13:
@@ -58,7 +58,7 @@ word_by_word:
     translation: Will be poured
     transliteration: yuṣabbu
   14:
-    arabic: مِنۡ
+    arabic: مِن
     translation: over
     transliteration: min
   15:
@@ -66,11 +66,11 @@ word_by_word:
     translation: over
     transliteration: fawqi
   16:
-    arabic: رُءُوۡسِهِمُ
+    arabic: رُءُوسِهِمُ
     translation: their heads
     transliteration: ruūsihimu
   17:
-    arabic: الۡحَمِيۡمُ​ۚ‏
+    arabic: ٱلۡحَمِيمُ
     translation: '[the] scalding water'
     transliteration: l-ḥamīmu
 ---

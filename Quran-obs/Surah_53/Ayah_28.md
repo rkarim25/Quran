@@ -1,6 +1,6 @@
 ---
-arabic_ayat: وَمَا لَهُمۡ بِهٖ مِنۡ عِلۡمٍ​ؕ اِنۡ يَّتَّبِعُوۡنَ اِلَّا الظَّنَّ​ۚ
-  وَاِنَّ الظَّنَّ لَا يُغۡنِىۡ مِنَ الۡحَـقِّ شَيۡـًٔـاۚ‏
+arabic_ayat: وَمَا لَهُم بِهِۦ مِنۡ عِلۡمٍۖ إِن يَتَّبِعُونَ إِلَّا ٱلظَّنَّۖ وَإِنَّ
+  ٱلظَّنَّ لَا يُغۡنِي مِنَ ٱلۡحَقِّ شَيۡـٔٗا
 sentence_translation: although they have no knowledge ˹in support˺ of this. They follow
   nothing but ˹inherited˺ assumptions. And surely assumptions can in no way replace
   the truth.
@@ -10,11 +10,11 @@ word_by_word:
     translation: And not
     transliteration: wamā
   2:
-    arabic: لَهُمۡ
+    arabic: لَهُم
     translation: for them
     transliteration: lahum
   3:
-    arabic: بِهٖ
+    arabic: بِهِۦ
     translation: about it
     transliteration: bihi
   4:
@@ -22,31 +22,31 @@ word_by_word:
     translation: any
     transliteration: min
   5:
-    arabic: عِلۡمٍ​ؕ
+    arabic: عِلۡمٍۖ
     translation: knowledge
     transliteration: ʿil'min
   6:
-    arabic: اِنۡ
+    arabic: إِن
     translation: Not
     transliteration: in
   7:
-    arabic: يَّتَّبِعُوۡنَ
+    arabic: يَتَّبِعُونَ
     translation: they follow
     transliteration: yattabiʿūna
   8:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: but
     transliteration: illā
   9:
-    arabic: الظَّنَّ​ۚ
+    arabic: ٱلظَّنَّۖ
     translation: assumption
     transliteration: l-ẓana
   10:
-    arabic: وَاِنَّ
+    arabic: وَإِنَّ
     translation: And indeed
     transliteration: wa-inna
   11:
-    arabic: الظَّنَّ
+    arabic: ٱلظَّنَّ
     translation: the assumption
     transliteration: l-ẓana
   12:
@@ -54,7 +54,7 @@ word_by_word:
     translation: (does) not
     transliteration: lā
   13:
-    arabic: يُغۡنِىۡ
+    arabic: يُغۡنِي
     translation: avail
     transliteration: yugh'nī
   14:
@@ -62,11 +62,11 @@ word_by_word:
     translation: against
     transliteration: mina
   15:
-    arabic: الۡحَـقِّ
+    arabic: ٱلۡحَقِّ
     translation: the truth
     transliteration: l-ḥaqi
   16:
-    arabic: شَيۡـًٔـاۚ‏
+    arabic: شَيۡـٔٗا
     translation: anything
     transliteration: shayan
 ---

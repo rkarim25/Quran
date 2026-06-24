@@ -1,5 +1,5 @@
 ---
-arabic_ayat: كَذَّبَتۡ ثَمُوۡدُ بِالنُّذُرِ‏
+arabic_ayat: كَذَّبَتۡ ثَمُودُ بِٱلنُّذُرِ
 sentence_translation: Thamûd rejected the warnings ˹as well˺,
 word_by_word:
   1:
@@ -7,11 +7,11 @@ word_by_word:
     translation: Denied
     transliteration: kadhabat
   2:
-    arabic: ثَمُوۡدُ
+    arabic: ثَمُودُ
     translation: Thamud
     transliteration: thamūdu
   3:
-    arabic: بِالنُّذُرِ‏
+    arabic: بِٱلنُّذُرِ
     translation: the warnings
     transliteration: bil-nudhuri
 ---

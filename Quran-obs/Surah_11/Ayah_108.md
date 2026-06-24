@@ -1,37 +1,36 @@
 ---
-arabic_ayat: "وَاَمَّا الَّذِيۡنَ سُعِدُوۡا فَفِى الۡجَـنَّةِ خٰلِدِيۡنَ فِيۡهَا مَا\
-  \ دَامَتِ السَّمٰوٰتُ وَالۡاَرۡضُ اِلَّا مَا شَآءَ رَبُّكَ​ ؕ عَطَآءً غَيۡرَ مَجۡذُوۡذٍ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: ۞ وَأَمَّا ٱلَّذِينَ سُعِدُواْ فَفِي ٱلۡجَنَّةِ خَٰلِدِينَ فِيهَا مَا
+  دَامَتِ ٱلسَّمَٰوَٰتُ وَٱلۡأَرۡضُ إِلَّا مَا شَآءَ رَبُّكَۖ عَطَآءً غَيۡرَ مَجۡذُوذٖ
 sentence_translation: And as for those destined to joy, they will be in Paradise,
   staying there forever, as long as the heavens and the earth will endure, except
   what your Lord wills—a ˹generous˺ giving, without end.
 word_by_word:
   1:
-    arabic: ۞ وَاَمَّا
+    arabic: ۞ وَأَمَّا
     translation: And as for
     transliteration: wa-ammā
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   3:
-    arabic: سُعِدُوۡا
+    arabic: سُعِدُواْ
     translation: were glad
     transliteration: suʿidū
   4:
-    arabic: فَفِى
+    arabic: فَفِي
     translation: then (they will be) in
     transliteration: fafī
   5:
-    arabic: الۡجَـنَّةِ
+    arabic: ٱلۡجَنَّةِ
     translation: Paradise
     transliteration: l-janati
   6:
-    arabic: خٰلِدِيۡنَ
+    arabic: خَٰلِدِينَ
     translation: (will be) abiding
     transliteration: khālidīna
   7:
-    arabic: فِيۡهَا
+    arabic: فِيهَا
     translation: therein
     transliteration: fīhā
   8:
@@ -43,15 +42,15 @@ word_by_word:
     translation: as long as remains
     transliteration: dāmati
   10:
-    arabic: السَّمٰوٰتُ
+    arabic: ٱلسَّمَٰوَٰتُ
     translation: the heavens
     transliteration: l-samāwātu
   11:
-    arabic: وَالۡاَرۡضُ
+    arabic: وَٱلۡأَرۡضُ
     translation: and the earth
     transliteration: wal-arḍu
   12:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   13:
@@ -63,7 +62,7 @@ word_by_word:
     translation: 'what your Lord wills '
     transliteration: shāa
   15:
-    arabic: رَبُّكَ​ ؕ
+    arabic: رَبُّكَۖ
     translation: 'what your Lord wills '
     transliteration: rabbuka
   16:
@@ -75,7 +74,7 @@ word_by_word:
     translation: not
     transliteration: ghayra
   18:
-    arabic: "مَجۡذُوۡذٍ‏ \uFEFF\uFEFF"
+    arabic: مَجۡذُوذٖ
     translation: interrupted
     transliteration: majdhūdhin
 ---

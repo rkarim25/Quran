@@ -1,29 +1,29 @@
 ---
-arabic_ayat: وَّيُنۡذِرَ الَّذِيۡنَ قَالُوا اتَّخَذَ اللّٰهُ وَلَدًا‏
+arabic_ayat: وَيُنذِرَ ٱلَّذِينَ قَالُواْ ٱتَّخَذَ ٱللَّهُ وَلَدٗا
 sentence_translation: and to warn those who claim, “Allah has offspring.”
 word_by_word:
   1:
-    arabic: وَّيُنۡذِرَ
+    arabic: وَيُنذِرَ
     translation: And to warn
     transliteration: wayundhira
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   3:
-    arabic: قَالُوا
+    arabic: قَالُواْ
     translation: say
     transliteration: qālū
   4:
-    arabic: اتَّخَذَ
+    arabic: ٱتَّخَذَ
     translation: Allah has taken
     transliteration: ittakhadha
   5:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah has taken
     transliteration: l-lahu
   6:
-    arabic: وَلَدًا‏
+    arabic: وَلَدٗا
     translation: a son
     transliteration: waladan
 ---

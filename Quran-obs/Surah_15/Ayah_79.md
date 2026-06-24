@@ -1,26 +1,26 @@
 ---
-arabic_ayat: فَانتَقَمۡنَا مِنۡهُمۡ​ۘ وَاِنَّهُمَا لَبِاِمَامٍ مُّبِيۡنٍؕ‏
+arabic_ayat: فَٱنتَقَمۡنَا مِنۡهُمۡ وَإِنَّهُمَا لَبِإِمَامٖ مُّبِينٖ
 sentence_translation: so We inflicted punishment upon them. The ruins of both nations
   still lie on a well-known road.
 word_by_word:
   1:
-    arabic: فَانتَقَمۡنَا
+    arabic: فَٱنتَقَمۡنَا
     translation: So We took retribution
     transliteration: fa-intaqamnā
   2:
-    arabic: مِنۡهُمۡ​ۘ
+    arabic: مِنۡهُمۡ
     translation: from them
     transliteration: min'hum
   3:
-    arabic: وَاِنَّهُمَا
+    arabic: وَإِنَّهُمَا
     translation: and indeed, they both
     transliteration: wa-innahumā
   4:
-    arabic: لَبِاِمَامٍ
+    arabic: لَبِإِمَامٖ
     translation: (were) on a highway
     transliteration: labi-imāmin
   5:
-    arabic: مُّبِيۡنٍؕ‏
+    arabic: مُّبِينٖ
     translation: clear
     transliteration: mubīnin
 ---

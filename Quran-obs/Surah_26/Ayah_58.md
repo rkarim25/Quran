@@ -1,17 +1,17 @@
 ---
-arabic_ayat: وَّكُنُوۡزٍ وَّمَقَامٍ كَرِيۡمٍۙ‏
+arabic_ayat: وَكُنُوزٖ وَمَقَامٖ كَرِيمٖ
 sentence_translation: treasures, and splendid residences.
 word_by_word:
   1:
-    arabic: وَّكُنُوۡزٍ
+    arabic: وَكُنُوزٖ
     translation: And treasures
     transliteration: wakunūzin
   2:
-    arabic: وَّمَقَامٍ
+    arabic: وَمَقَامٖ
     translation: and a place
     transliteration: wamaqāmin
   3:
-    arabic: كَرِيۡمٍۙ‏
+    arabic: كَرِيمٖ
     translation: honorable
     transliteration: karīmin
 ---

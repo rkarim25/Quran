@@ -1,39 +1,39 @@
 ---
-arabic_ayat: وَمَاۤ اَنۡزَلۡنَا عَلٰى قَوۡمِهٖ مِنۡۢ بَعۡدِهٖ مِنۡ جُنۡدٍ مِّنَ السَّمَآءِ
-  وَمَا كُـنَّا مُنۡزِلِيۡنَ‏
+arabic_ayat: ۞ وَمَآ أَنزَلۡنَا عَلَىٰ قَوۡمِهِۦ مِنۢ بَعۡدِهِۦ مِن جُندٖ مِّنَ ٱلسَّمَآءِ
+  وَمَا كُنَّا مُنزِلِينَ
 sentence_translation: We did not send any soldiers from the heavens against his people
   after his death, nor did We need to.
 word_by_word:
   1:
-    arabic: ۞ وَمَاۤ
+    arabic: ۞ وَمَآ
     translation: And not
     transliteration: wamā
   2:
-    arabic: اَنۡزَلۡنَا
+    arabic: أَنزَلۡنَا
     translation: We sent down
     transliteration: anzalnā
   3:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: upon
     transliteration: ʿalā
   4:
-    arabic: قَوۡمِهٖ
+    arabic: قَوۡمِهِۦ
     translation: his people
     transliteration: qawmihi
   5:
-    arabic: مِنۡۢ
+    arabic: مِنۢ
     translation: after him
     transliteration: min
   6:
-    arabic: بَعۡدِهٖ
+    arabic: بَعۡدِهِۦ
     translation: after him
     transliteration: baʿdihi
   7:
-    arabic: مِنۡ
+    arabic: مِن
     translation: any
     transliteration: min
   8:
-    arabic: جُنۡدٍ
+    arabic: جُندٖ
     translation: host
     transliteration: jundin
   9:
@@ -41,7 +41,7 @@ word_by_word:
     translation: from
     transliteration: mina
   10:
-    arabic: السَّمَآءِ
+    arabic: ٱلسَّمَآءِ
     translation: the heaven
     transliteration: l-samāi
   11:
@@ -49,11 +49,11 @@ word_by_word:
     translation: and not
     transliteration: wamā
   12:
-    arabic: كُـنَّا
+    arabic: كُنَّا
     translation: were We
     transliteration: kunnā
   13:
-    arabic: مُنۡزِلِيۡنَ‏
+    arabic: مُنزِلِينَ
     translation: (to) send down
     transliteration: munzilīna
 ---

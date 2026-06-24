@@ -1,8 +1,8 @@
 ---
-arabic_ayat: وَاعۡلَمُوۡۤا اَنَّ فِيۡكُمۡ رَسُوۡلَ اللّٰهِ​ؕ لَوۡ يُطِيۡعُكُمۡ فِىۡ
-  كَثِيۡرٍ مِّنَ الۡاَمۡرِ لَعَنِتُّمۡ وَ لٰـكِنَّ اللّٰهَ حَبَّبَ اِلَيۡكُمُ الۡاِيۡمَانَ
-  وَزَيَّنَهٗ فِىۡ قُلُوۡبِكُمۡ وَكَرَّهَ اِلَيۡكُمُ الۡكُفۡرَ وَالۡفُسُوۡقَ وَالۡعِصۡيَانَ​ؕ
-  اُولٰٓٮِٕكَ هُمُ الرّٰشِدُوۡنَۙ‏
+arabic_ayat: وَٱعۡلَمُوٓاْ أَنَّ فِيكُمۡ رَسُولَ ٱللَّهِۚ لَوۡ يُطِيعُكُمۡ فِي كَثِيرٖ
+  مِّنَ ٱلۡأَمۡرِ لَعَنِتُّمۡ وَلَٰكِنَّ ٱللَّهَ حَبَّبَ إِلَيۡكُمُ ٱلۡإِيمَٰنَ وَزَيَّنَهُۥ
+  فِي قُلُوبِكُمۡ وَكَرَّهَ إِلَيۡكُمُ ٱلۡكُفۡرَ وَٱلۡفُسُوقَ وَٱلۡعِصۡيَانَۚ أُوْلَٰٓئِكَ
+  هُمُ ٱلرَّٰشِدُونَ
 sentence_translation: And keep in mind that Allah’s Messenger is ˹still˺ in your midst.
   If he were to yield to you in many matters, you would surely suffer ˹the consequences˺. But
   Allah has endeared faith to you, making it appealing in your hearts. And He has
@@ -10,23 +10,23 @@ sentence_translation: And keep in mind that Allah’s Messenger is ˹still˺ in 
   ones rightly guided.
 word_by_word:
   1:
-    arabic: وَاعۡلَمُوۡۤا
+    arabic: وَٱعۡلَمُوٓاْ
     translation: And know
     transliteration: wa-iʿ'lamū
   2:
-    arabic: اَنَّ
+    arabic: أَنَّ
     translation: that
     transliteration: anna
   3:
-    arabic: فِيۡكُمۡ
+    arabic: فِيكُمۡ
     translation: among you
     transliteration: fīkum
   4:
-    arabic: رَسُوۡلَ
+    arabic: رَسُولَ
     translation: (is the) Messenger of Allah
     transliteration: rasūla
   5:
-    arabic: اللّٰهِ​ؕ
+    arabic: ٱللَّهِۚ
     translation: (is the) Messenger of Allah
     transliteration: l-lahi
   6:
@@ -34,15 +34,15 @@ word_by_word:
     translation: If
     transliteration: law
   7:
-    arabic: يُطِيۡعُكُمۡ
+    arabic: يُطِيعُكُمۡ
     translation: he were to obey you
     transliteration: yuṭīʿukum
   8:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   9:
-    arabic: كَثِيۡرٍ
+    arabic: كَثِيرٖ
     translation: much
     transliteration: kathīrin
   10:
@@ -50,7 +50,7 @@ word_by_word:
     translation: of
     transliteration: mina
   11:
-    arabic: الۡاَمۡرِ
+    arabic: ٱلۡأَمۡرِ
     translation: the matter
     transliteration: l-amri
   12:
@@ -58,11 +58,11 @@ word_by_word:
     translation: surely you would be in difficulty
     transliteration: laʿanittum
   13:
-    arabic: وَ لٰـكِنَّ
+    arabic: وَلَٰكِنَّ
     translation: but
     transliteration: walākinna
   14:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   15:
@@ -70,23 +70,23 @@ word_by_word:
     translation: has endeared
     transliteration: ḥabbaba
   16:
-    arabic: اِلَيۡكُمُ
+    arabic: إِلَيۡكُمُ
     translation: to you
     transliteration: ilaykumu
   17:
-    arabic: الۡاِيۡمَانَ
+    arabic: ٱلۡإِيمَٰنَ
     translation: the Faith
     transliteration: l-īmāna
   18:
-    arabic: وَزَيَّنَهٗ
+    arabic: وَزَيَّنَهُۥ
     translation: and has made it pleasing
     transliteration: wazayyanahu
   19:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   20:
-    arabic: قُلُوۡبِكُمۡ
+    arabic: قُلُوبِكُمۡ
     translation: your hearts
     transliteration: qulūbikum
   21:
@@ -94,23 +94,23 @@ word_by_word:
     translation: and has made hateful
     transliteration: wakarraha
   22:
-    arabic: اِلَيۡكُمُ
+    arabic: إِلَيۡكُمُ
     translation: to you
     transliteration: ilaykumu
   23:
-    arabic: الۡكُفۡرَ
+    arabic: ٱلۡكُفۡرَ
     translation: disbelief
     transliteration: l-kuf'ra
   24:
-    arabic: وَالۡفُسُوۡقَ
+    arabic: وَٱلۡفُسُوقَ
     translation: and defiance
     transliteration: wal-fusūqa
   25:
-    arabic: وَالۡعِصۡيَانَ​ؕ
+    arabic: وَٱلۡعِصۡيَانَۚ
     translation: and disobedience
     transliteration: wal-ʿiṣ'yāna
   26:
-    arabic: اُولٰٓٮِٕكَ
+    arabic: أُوْلَٰٓئِكَ
     translation: Those
     transliteration: ulāika
   27:
@@ -118,7 +118,7 @@ word_by_word:
     translation: '(are) they '
     transliteration: humu
   28:
-    arabic: الرّٰشِدُوۡنَۙ‏
+    arabic: ٱلرَّٰشِدُونَ
     translation: the guided ones
     transliteration: l-rāshidūna
 ---

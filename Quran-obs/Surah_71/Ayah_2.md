@@ -1,5 +1,5 @@
 ---
-arabic_ayat: قَالَ يٰقَوۡمِ اِنِّىۡ لَـكُمۡ نَذِيۡرٌ مُّبِيۡنٌۙ‏
+arabic_ayat: قَالَ يَٰقَوۡمِ إِنِّي لَكُمۡ نَذِيرٞ مُّبِينٌ
 sentence_translation: 'Noah proclaimed, “O my people! I am truly sent to you with
   a clear warning:'
 word_by_word:
@@ -8,23 +8,23 @@ word_by_word:
     translation: He said
     transliteration: qāla
   2:
-    arabic: يٰقَوۡمِ
+    arabic: يَٰقَوۡمِ
     translation: O my people
     transliteration: yāqawmi
   3:
-    arabic: اِنِّىۡ
+    arabic: إِنِّي
     translation: Indeed, I am
     transliteration: innī
   4:
-    arabic: لَـكُمۡ
+    arabic: لَكُمۡ
     translation: to you
     transliteration: lakum
   5:
-    arabic: نَذِيۡرٌ
+    arabic: نَذِيرٞ
     translation: a warner
     transliteration: nadhīrun
   6:
-    arabic: مُّبِيۡنٌۙ‏
+    arabic: مُّبِينٌ
     translation: clear
     transliteration: mubīnun
 ---

@@ -1,26 +1,26 @@
 ---
-arabic_ayat: فَذُوۡقُوۡا فَلَنۡ نَّزِيۡدَكُمۡ اِلَّا عَذَابًا‏
+arabic_ayat: فَذُوقُواْ فَلَن نَّزِيدَكُمۡ إِلَّا عَذَابًا
 sentence_translation: ˹So the deniers will be told,˺ “Taste ˹the punishment˺, for
   all you will get from Us is more torment.”
 word_by_word:
   1:
-    arabic: فَذُوۡقُوۡا
+    arabic: فَذُوقُواْ
     translation: So taste
     transliteration: fadhūqū
   2:
-    arabic: فَلَنۡ
+    arabic: فَلَن
     translation: and never
     transliteration: falan
   3:
-    arabic: نَّزِيۡدَكُمۡ
+    arabic: نَّزِيدَكُمۡ
     translation: We will increase you
     transliteration: nazīdakum
   4:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   5:
-    arabic: عَذَابًا‏
+    arabic: عَذَابًا
     translation: (in) punishment
     transliteration: ʿadhāban
 ---

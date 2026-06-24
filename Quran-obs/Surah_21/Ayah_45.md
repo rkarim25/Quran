@@ -1,6 +1,6 @@
 ---
-arabic_ayat: قُلۡ اِنَّمَاۤ اُنۡذِرُكُمۡ بِالۡوَحۡىِ ​​ۖ  وَلَا يَسۡمَعُ الصُّمُّ
-  الدُّعَآءَ اِذَا مَا يُنۡذَرُوۡنَ‏
+arabic_ayat: قُلۡ إِنَّمَآ أُنذِرُكُم بِٱلۡوَحۡيِۚ وَلَا يَسۡمَعُ ٱلصُّمُّ ٱلدُّعَآءَ
+  إِذَا مَا يُنذَرُونَ
 sentence_translation: Say, ˹O Prophet,˺ “I warn you only by revelation.” But the deaf
   cannot hear the call when they are warned!
 word_by_word:
@@ -9,15 +9,15 @@ word_by_word:
     translation: Say
     transliteration: qul
   2:
-    arabic: اِنَّمَاۤ
+    arabic: إِنَّمَآ
     translation: Only
     transliteration: innamā
   3:
-    arabic: اُنۡذِرُكُمۡ
+    arabic: أُنذِرُكُم
     translation: I warn you
     transliteration: undhirukum
   4:
-    arabic: بِالۡوَحۡىِ ​​ۖ 
+    arabic: بِٱلۡوَحۡيِۚ
     translation: by the revelation
     transliteration: bil-waḥyi
   5:
@@ -29,15 +29,15 @@ word_by_word:
     translation: hear
     transliteration: yasmaʿu
   7:
-    arabic: الصُّمُّ
+    arabic: ٱلصُّمُّ
     translation: the deaf
     transliteration: l-ṣumu
   8:
-    arabic: الدُّعَآءَ
+    arabic: ٱلدُّعَآءَ
     translation: the call
     transliteration: l-duʿāa
   9:
-    arabic: اِذَا
+    arabic: إِذَا
     translation: when
     transliteration: idhā
   10:
@@ -45,7 +45,7 @@ word_by_word:
     translation: when
     transliteration: mā
   11:
-    arabic: يُنۡذَرُوۡنَ‏
+    arabic: يُنذَرُونَ
     translation: they are warned
     transliteration: yundharūna
 ---

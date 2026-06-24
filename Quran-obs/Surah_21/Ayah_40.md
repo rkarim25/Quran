@@ -1,6 +1,6 @@
 ---
-arabic_ayat: بَلۡ تَاۡتِيۡهِمۡ بَغۡتَةً فَتَبۡهَتُهُمۡ فَلَا يَسۡتَطِيۡعُوۡنَ رَدَّهَا
-  وَلَا هُمۡ يُنۡظَرُوۡنَ‏
+arabic_ayat: بَلۡ تَأۡتِيهِم بَغۡتَةٗ فَتَبۡهَتُهُمۡ فَلَا يَسۡتَطِيعُونَ رَدَّهَا
+  وَلَا هُمۡ يُنظَرُونَ
 sentence_translation: In fact, the Hour will take them by surprise, leaving them stunned.
   So they will not be able to avert it, nor will it be delayed from them.
 word_by_word:
@@ -9,11 +9,11 @@ word_by_word:
     translation: Nay
     transliteration: bal
   2:
-    arabic: تَاۡتِيۡهِمۡ
+    arabic: تَأۡتِيهِم
     translation: it will come to them
     transliteration: tatīhim
   3:
-    arabic: بَغۡتَةً
+    arabic: بَغۡتَةٗ
     translation: unexpectedly
     transliteration: baghtatan
   4:
@@ -25,7 +25,7 @@ word_by_word:
     translation: then not
     transliteration: falā
   6:
-    arabic: يَسۡتَطِيۡعُوۡنَ
+    arabic: يَسۡتَطِيعُونَ
     translation: they will be able
     transliteration: yastaṭīʿūna
   7:
@@ -41,7 +41,7 @@ word_by_word:
     translation: they
     transliteration: hum
   10:
-    arabic: يُنۡظَرُوۡنَ‏
+    arabic: يُنظَرُونَ
     translation: will be given respite
     transliteration: yunẓarūna
 ---

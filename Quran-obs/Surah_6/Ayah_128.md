@@ -1,9 +1,8 @@
 ---
-arabic_ayat: وَيَوۡمَ يَحۡشُرُهُمۡ جَمِيۡعًا​ ۚ يٰمَعۡشَرَ الۡجِنِّ قَدِ اسۡتَكۡثَرۡتُمۡ
-  مِّنَ الۡاِنۡسِ​ۚ وَقَالَ اَوۡلِيٰٓـئُهُمۡ مِّنَ الۡاِنۡسِ رَبَّنَا اسۡتَمۡتَعَ
-  بَعۡضُنَا بِبَعۡضٍ وَّبَلَغۡنَاۤ اَجَلَـنَا الَّذِىۡۤ اَجَّلۡتَ لَـنَا​​ ؕ قَالَ
-  النَّارُ مَثۡوٰٮكُمۡ خٰلِدِيۡنَ فِيۡهَاۤ اِلَّا مَا شَآءَ اللّٰهُؕ اِنَّ رَبَّكَ
-  حَكِيۡمٌ عَلِيۡمٌ‏
+arabic_ayat: وَيَوۡمَ يَحۡشُرُهُمۡ جَمِيعٗا يَٰمَعۡشَرَ ٱلۡجِنِّ قَدِ ٱسۡتَكۡثَرۡتُم
+  مِّنَ ٱلۡإِنسِۖ وَقَالَ أَوۡلِيَآؤُهُم مِّنَ ٱلۡإِنسِ رَبَّنَا ٱسۡتَمۡتَعَ بَعۡضُنَا
+  بِبَعۡضٖ وَبَلَغۡنَآ أَجَلَنَا ٱلَّذِيٓ أَجَّلۡتَ لَنَاۚ قَالَ ٱلنَّارُ مَثۡوَىٰكُمۡ
+  خَٰلِدِينَ فِيهَآ إِلَّا مَا شَآءَ ٱللَّهُۚ إِنَّ رَبَّكَ حَكِيمٌ عَلِيمٞ
 sentence_translation: ˹Consider˺ the Day He will gather them ˹all˺ together and say,
   “O assembly of jinn! You misled humans in great numbers.” And their human associates
   will say, “Our Lord! We benefited from each other’s company, but now we have reached
@@ -20,15 +19,15 @@ word_by_word:
     translation: He will gather them
     transliteration: yaḥshuruhum
   3:
-    arabic: جَمِيۡعًا​ ۚ
+    arabic: جَمِيعٗا
     translation: all
     transliteration: jamīʿan
   4:
-    arabic: يٰمَعۡشَرَ
+    arabic: يَٰمَعۡشَرَ
     translation: (and will say), "O assembly
     transliteration: yāmaʿshara
   5:
-    arabic: الۡجِنِّ
+    arabic: ٱلۡجِنِّ
     translation: (of) [the] jinn
     transliteration: l-jini
   6:
@@ -36,7 +35,7 @@ word_by_word:
     translation: Certainly
     transliteration: qadi
   7:
-    arabic: اسۡتَكۡثَرۡتُمۡ
+    arabic: ٱسۡتَكۡثَرۡتُم
     translation: you have (misled) many
     transliteration: is'takthartum
   8:
@@ -44,7 +43,7 @@ word_by_word:
     translation: of
     transliteration: mina
   9:
-    arabic: الۡاِنۡسِ​ۚ
+    arabic: ٱلۡإِنسِۖ
     translation: the mankind
     transliteration: l-insi
   10:
@@ -52,7 +51,7 @@ word_by_word:
     translation: And will say
     transliteration: waqāla
   11:
-    arabic: اَوۡلِيٰٓـئُهُمۡ
+    arabic: أَوۡلِيَآؤُهُم
     translation: their friends
     transliteration: awliyāuhum
   12:
@@ -60,7 +59,7 @@ word_by_word:
     translation: among
     transliteration: mina
   13:
-    arabic: الۡاِنۡسِ
+    arabic: ٱلۡإِنسِ
     translation: the men
     transliteration: l-insi
   14:
@@ -68,7 +67,7 @@ word_by_word:
     translation: Our Lord
     transliteration: rabbanā
   15:
-    arabic: اسۡتَمۡتَعَ
+    arabic: ٱسۡتَمۡتَعَ
     translation: profited
     transliteration: is'tamtaʿa
   16:
@@ -76,27 +75,27 @@ word_by_word:
     translation: some of us
     transliteration: baʿḍunā
   17:
-    arabic: بِبَعۡضٍ
+    arabic: بِبَعۡضٖ
     translation: by others
     transliteration: bibaʿḍin
   18:
-    arabic: وَّبَلَغۡنَاۤ
+    arabic: وَبَلَغۡنَآ
     translation: and we have reached
     transliteration: wabalaghnā
   19:
-    arabic: اَجَلَـنَا
+    arabic: أَجَلَنَا
     translation: our term
     transliteration: ajalanā
   20:
-    arabic: الَّذِىۡۤ
+    arabic: ٱلَّذِيٓ
     translation: which
     transliteration: alladhī
   21:
-    arabic: اَجَّلۡتَ
+    arabic: أَجَّلۡتَ
     translation: You appointed
     transliteration: ajjalta
   22:
-    arabic: لَـنَا​​ ؕ
+    arabic: لَنَاۚ
     translation: for us
     transliteration: lanā
   23:
@@ -104,23 +103,23 @@ word_by_word:
     translation: He will say
     transliteration: qāla
   24:
-    arabic: النَّارُ
+    arabic: ٱلنَّارُ
     translation: The Fire
     transliteration: l-nāru
   25:
-    arabic: مَثۡوٰٮكُمۡ
+    arabic: مَثۡوَىٰكُمۡ
     translation: (is) your abode
     transliteration: mathwākum
   26:
-    arabic: خٰلِدِيۡنَ
+    arabic: خَٰلِدِينَ
     translation: will abide forever
     transliteration: khālidīna
   27:
-    arabic: فِيۡهَاۤ
+    arabic: فِيهَآ
     translation: in it
     transliteration: fīhā
   28:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   29:
@@ -132,11 +131,11 @@ word_by_word:
     translation: wills
     transliteration: shāa
   31:
-    arabic: اللّٰهُؕ
+    arabic: ٱللَّهُۚ
     translation: Allah
     transliteration: l-lahu
   32:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   33:
@@ -144,11 +143,11 @@ word_by_word:
     translation: your Lord
     transliteration: rabbaka
   34:
-    arabic: حَكِيۡمٌ
+    arabic: حَكِيمٌ
     translation: (is) All-Wise
     transliteration: ḥakīmun
   35:
-    arabic: عَلِيۡمٌ‏
+    arabic: عَلِيمٞ
     translation: All-Knowing
     transliteration: ʿalīmun
 ---

@@ -1,5 +1,5 @@
 ---
-arabic_ayat: وَمَا تَنَزَّلَتۡ بِهِ الشَّيٰطِيۡنُ‏
+arabic_ayat: وَمَا تَنَزَّلَتۡ بِهِ ٱلشَّيَٰطِينُ
 sentence_translation: 'It was not the devils who brought this ˹Quran˺ down:'
 word_by_word:
   1:
@@ -15,7 +15,7 @@ word_by_word:
     translation: have brought it down
     transliteration: bihi
   4:
-    arabic: الشَّيٰطِيۡنُ‏
+    arabic: ٱلشَّيَٰطِينُ
     translation: the devils
     transliteration: l-shayāṭīnu
 ---

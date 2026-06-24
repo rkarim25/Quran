@@ -1,5 +1,5 @@
 ---
-arabic_ayat: وَتَرَكۡنَا عَلَيۡهِ فِى الۡاٰخِرِيۡنَ​ۖ‏
+arabic_ayat: وَتَرَكۡنَا عَلَيۡهِ فِي ٱلۡأٓخِرِينَ
 sentence_translation: 'and blessed Abraham ˹with honourable mention˺ among later generations:'
 word_by_word:
   1:
@@ -11,11 +11,11 @@ word_by_word:
     translation: for him
     transliteration: ʿalayhi
   3:
-    arabic: فِى
+    arabic: فِي
     translation: among
     transliteration: fī
   4:
-    arabic: الۡاٰخِرِيۡنَ​ۖ‏
+    arabic: ٱلۡأٓخِرِينَ
     translation: the later generations
     transliteration: l-ākhirīna
 ---

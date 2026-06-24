@@ -1,10 +1,10 @@
 ---
-arabic_ayat: فَغُلِبُوۡا هُنَالِكَ وَانْقَلَبُوۡا صٰغِرِيۡنَ​ۚ‏
+arabic_ayat: فَغُلِبُواْ هُنَالِكَ وَٱنقَلَبُواْ صَٰغِرِينَ
 sentence_translation: So Pharaoh and his people were defeated right there and put
   to shame.
 word_by_word:
   1:
-    arabic: فَغُلِبُوۡا
+    arabic: فَغُلِبُواْ
     translation: So they were defeated
     transliteration: faghulibū
   2:
@@ -12,11 +12,11 @@ word_by_word:
     translation: there
     transliteration: hunālika
   3:
-    arabic: وَانْقَلَبُوۡا
+    arabic: وَٱنقَلَبُواْ
     translation: and returned
     transliteration: wa-inqalabū
   4:
-    arabic: صٰغِرِيۡنَ​ۚ‏
+    arabic: صَٰغِرِينَ
     translation: humiliated
     transliteration: ṣāghirīna
 ---

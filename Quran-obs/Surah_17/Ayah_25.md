@@ -1,6 +1,6 @@
 ---
-arabic_ayat: رَّبُّكُمۡ اَعۡلَمُ بِمَا فِىۡ نُفُوۡسِكُمۡ​ؕ اِنۡ تَكُوۡنُوۡا صٰلِحِيۡنَ
-  فَاِنَّهٗ كَانَ لِلۡاَوَّابِيۡنَ غَفُوۡرًا‏
+arabic_ayat: رَّبُّكُمۡ أَعۡلَمُ بِمَا فِي نُفُوسِكُمۡۚ إِن تَكُونُواْ صَٰلِحِينَ
+  فَإِنَّهُۥ كَانَ لِلۡأَوَّٰبِينَ غَفُورٗا
 sentence_translation: Your Lord knows best what is within yourselves. If you are righteous,
   He is certainly All-Forgiving to those who ˹constantly˺ turn to Him.
 word_by_word:
@@ -9,7 +9,7 @@ word_by_word:
     translation: Your Lord
     transliteration: rabbukum
   2:
-    arabic: اَعۡلَمُ
+    arabic: أَعۡلَمُ
     translation: (is) most knowing
     transliteration: aʿlamu
   3:
@@ -17,27 +17,27 @@ word_by_word:
     translation: of what
     transliteration: bimā
   4:
-    arabic: فِىۡ
+    arabic: فِي
     translation: (is) in
     transliteration: fī
   5:
-    arabic: نُفُوۡسِكُمۡ​ؕ
+    arabic: نُفُوسِكُمۡۚ
     translation: yourselves
     transliteration: nufūsikum
   6:
-    arabic: اِنۡ
+    arabic: إِن
     translation: If
     transliteration: in
   7:
-    arabic: تَكُوۡنُوۡا
+    arabic: تَكُونُواْ
     translation: you are
     transliteration: takūnū
   8:
-    arabic: صٰلِحِيۡنَ
+    arabic: صَٰلِحِينَ
     translation: righteous
     transliteration: ṣāliḥīna
   9:
-    arabic: فَاِنَّهٗ
+    arabic: فَإِنَّهُۥ
     translation: then indeed, He
     transliteration: fa-innahu
   10:
@@ -45,11 +45,11 @@ word_by_word:
     translation: is
     transliteration: kāna
   11:
-    arabic: لِلۡاَوَّابِيۡنَ
+    arabic: لِلۡأَوَّٰبِينَ
     translation: to those who often turn (to Him)
     transliteration: lil'awwābīna
   12:
-    arabic: غَفُوۡرًا‏
+    arabic: غَفُورٗا
     translation: Most Forgiving
     transliteration: ghafūran
 ---

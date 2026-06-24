@@ -1,12 +1,12 @@
 ---
-arabic_ayat: وَحَرَّمۡنَا عَلَيۡهِ الۡمَرَاضِعَ مِنۡ قَبۡلُ فَقَالَتۡ هَلۡ اَدُلُّـكُمۡ
-  عَلٰٓى اَهۡلِ بَيۡتٍ يَّكۡفُلُوۡنَهٗ لَـكُمۡ وَهُمۡ لَهٗ نٰصِحُوۡنَ‏
+arabic_ayat: ۞ وَحَرَّمۡنَا عَلَيۡهِ ٱلۡمَرَاضِعَ مِن قَبۡلُ فَقَالَتۡ هَلۡ أَدُلُّكُمۡ
+  عَلَىٰٓ أَهۡلِ بَيۡتٖ يَكۡفُلُونَهُۥ لَكُمۡ وَهُمۡ لَهُۥ نَٰصِحُونَ
 sentence_translation: And We had caused him to refuse all wet-nurses at first, so
   his sister suggested, “Shall I direct you to a family who will bring him up for
   you and take good care of him?”
 word_by_word:
   1:
-    arabic: ۞ وَحَرَّمۡنَا
+    arabic: ۞ وَحَرَّمۡنَا
     translation: And We had forbidden
     transliteration: waḥarramnā
   2:
@@ -14,11 +14,11 @@ word_by_word:
     translation: for him
     transliteration: ʿalayhi
   3:
-    arabic: الۡمَرَاضِعَ
+    arabic: ٱلۡمَرَاضِعَ
     translation: the wet nurses
     transliteration: l-marāḍiʿa
   4:
-    arabic: مِنۡ
+    arabic: مِن
     translation: before
     transliteration: min
   5:
@@ -34,27 +34,27 @@ word_by_word:
     translation: Shall I
     transliteration: hal
   8:
-    arabic: اَدُلُّـكُمۡ
+    arabic: أَدُلُّكُمۡ
     translation: direct you
     transliteration: adullukum
   9:
-    arabic: عَلٰٓى
+    arabic: عَلَىٰٓ
     translation: to
     transliteration: ʿalā
   10:
-    arabic: اَهۡلِ
+    arabic: أَهۡلِ
     translation: (the) people
     transliteration: ahli
   11:
-    arabic: بَيۡتٍ
+    arabic: بَيۡتٖ
     translation: (of) a house
     transliteration: baytin
   12:
-    arabic: يَّكۡفُلُوۡنَهٗ
+    arabic: يَكۡفُلُونَهُۥ
     translation: who will rear him
     transliteration: yakfulūnahu
   13:
-    arabic: لَـكُمۡ
+    arabic: لَكُمۡ
     translation: for you
     transliteration: lakum
   14:
@@ -62,11 +62,11 @@ word_by_word:
     translation: while they
     transliteration: wahum
   15:
-    arabic: لَهٗ
+    arabic: لَهُۥ
     translation: to him
     transliteration: lahu
   16:
-    arabic: نٰصِحُوۡنَ‏
+    arabic: نَٰصِحُونَ
     translation: (will be) sincere
     transliteration: nāṣiḥūna
 ---

@@ -1,21 +1,21 @@
 ---
-arabic_ayat: اِنَّ الَّذِيۡنَ قَالُوۡا رَبُّنَا اللّٰهُ ثُمَّ اسۡتَقَامُوۡا تَتَنَزَّلُ
-  عَلَيۡهِمُ الۡمَلٰٓٮِٕكَةُ اَلَّا تَخَافُوۡا وَلَا تَحۡزَنُوۡا وَاَبۡشِرُوۡا بِالۡجَـنَّةِ
-  الَّتِىۡ كُنۡتُمۡ تُوۡعَدُوۡنَ‏
+arabic_ayat: إِنَّ ٱلَّذِينَ قَالُواْ رَبُّنَا ٱللَّهُ ثُمَّ ٱسۡتَقَٰمُواْ تَتَنَزَّلُ
+  عَلَيۡهِمُ ٱلۡمَلَٰٓئِكَةُ أَلَّا تَخَافُواْ وَلَا تَحۡزَنُواْ وَأَبۡشِرُواْ بِٱلۡجَنَّةِ
+  ٱلَّتِي كُنتُمۡ تُوعَدُونَ
 sentence_translation: Surely those who say, “Our Lord is Allah,” and then remain steadfast,
   the angels descend upon them, ˹saying,˺ “Do not fear, nor grieve. Rather, rejoice
   in the good news of Paradise, which you have been promised.
 word_by_word:
   1:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   3:
-    arabic: قَالُوۡا
+    arabic: قَالُواْ
     translation: say
     transliteration: qālū
   4:
@@ -23,7 +23,7 @@ word_by_word:
     translation: Our Lord
     transliteration: rabbunā
   5:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: (is) Allah
     transliteration: l-lahu
   6:
@@ -31,7 +31,7 @@ word_by_word:
     translation: then
     transliteration: thumma
   7:
-    arabic: اسۡتَقَامُوۡا
+    arabic: ٱسۡتَقَٰمُواْ
     translation: 'stand firm '
     transliteration: is'taqāmū
   8:
@@ -43,15 +43,15 @@ word_by_word:
     translation: on them
     transliteration: ʿalayhimu
   10:
-    arabic: الۡمَلٰٓٮِٕكَةُ
+    arabic: ٱلۡمَلَٰٓئِكَةُ
     translation: the Angels
     transliteration: l-malāikatu
   11:
-    arabic: اَلَّا
+    arabic: أَلَّا
     translation: (Do) not
     transliteration: allā
   12:
-    arabic: تَخَافُوۡا
+    arabic: تَخَافُواْ
     translation: fear
     transliteration: takhāfū
   13:
@@ -59,27 +59,27 @@ word_by_word:
     translation: and (do) not
     transliteration: walā
   14:
-    arabic: تَحۡزَنُوۡا
+    arabic: تَحۡزَنُواْ
     translation: grieve
     transliteration: taḥzanū
   15:
-    arabic: وَاَبۡشِرُوۡا
+    arabic: وَأَبۡشِرُواْ
     translation: but receive the glad tidings
     transliteration: wa-abshirū
   16:
-    arabic: بِالۡجَـنَّةِ
+    arabic: بِٱلۡجَنَّةِ
     translation: of Paradise
     transliteration: bil-janati
   17:
-    arabic: الَّتِىۡ
+    arabic: ٱلَّتِي
     translation: which
     transliteration: allatī
   18:
-    arabic: كُنۡتُمۡ
+    arabic: كُنتُمۡ
     translation: you were
     transliteration: kuntum
   19:
-    arabic: تُوۡعَدُوۡنَ‏
+    arabic: تُوعَدُونَ
     translation: promised
     transliteration: tūʿadūna
 ---

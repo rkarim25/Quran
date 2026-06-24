@@ -1,6 +1,6 @@
 ---
-arabic_ayat: وَلَوۡ نَشَآءُ لَاَرَيۡنٰكَهُمۡ فَلَعَرَفۡتَهُمۡ بِسِيۡمٰهُمۡ​ؕ وَلَتَعۡرِفَنَّهُمۡ
-  فِىۡ لَحۡنِ الۡقَوۡلِ​ؕ وَاللّٰهُ يَعۡلَمُ اَعۡمَالَكُمۡ‏
+arabic_ayat: وَلَوۡ نَشَآءُ لَأَرَيۡنَٰكَهُمۡ فَلَعَرَفۡتَهُم بِسِيمَٰهُمۡۚ وَلَتَعۡرِفَنَّهُمۡ
+  فِي لَحۡنِ ٱلۡقَوۡلِۚ وَٱللَّهُ يَعۡلَمُ أَعۡمَٰلَكُمۡ
 sentence_translation: Had We willed, We could have truly shown them to you ˹O Prophet˺,
   and you would have certainly recognized them by their appearance. But you will surely
   recognize them by their tone of speech. And Allah ˹fully˺ knows your doings ˹O people˺.
@@ -14,15 +14,15 @@ word_by_word:
     translation: We willed
     transliteration: nashāu
   3:
-    arabic: لَاَرَيۡنٰكَهُمۡ
+    arabic: لَأَرَيۡنَٰكَهُمۡ
     translation: surely, We could show them to you
     transliteration: la-araynākahum
   4:
-    arabic: فَلَعَرَفۡتَهُمۡ
+    arabic: فَلَعَرَفۡتَهُم
     translation: and you would know them
     transliteration: falaʿaraftahum
   5:
-    arabic: بِسِيۡمٰهُمۡ​ؕ
+    arabic: بِسِيمَٰهُمۡۚ
     translation: by their marks
     transliteration: bisīmāhum
   6:
@@ -30,7 +30,7 @@ word_by_word:
     translation: but surely, you will know them
     transliteration: walataʿrifannahum
   7:
-    arabic: فِىۡ
+    arabic: فِي
     translation: by
     transliteration: fī
   8:
@@ -38,11 +38,11 @@ word_by_word:
     translation: (the) tone
     transliteration: laḥni
   9:
-    arabic: الۡقَوۡلِ​ؕ
+    arabic: ٱلۡقَوۡلِۚ
     translation: (of their) speech
     transliteration: l-qawli
   10:
-    arabic: وَاللّٰهُ
+    arabic: وَٱللَّهُ
     translation: And Allah
     transliteration: wal-lahu
   11:
@@ -50,7 +50,7 @@ word_by_word:
     translation: knows
     transliteration: yaʿlamu
   12:
-    arabic: اَعۡمَالَكُمۡ‏
+    arabic: أَعۡمَٰلَكُمۡ
     translation: your deeds
     transliteration: aʿmālakum
 ---

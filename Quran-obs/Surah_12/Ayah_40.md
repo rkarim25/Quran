@@ -1,8 +1,8 @@
 ---
-arabic_ayat: مَا تَعۡبُدُوۡنَ مِنۡ دُوۡنِهٖۤ اِلَّاۤ اَسۡمَآءً سَمَّيۡتُمُوۡهَاۤ
-  اَنۡـتُمۡ وَ اٰبَآؤُكُمۡ مَّاۤ اَنۡزَلَ اللّٰهُ بِهَا مِنۡ سُلۡطٰنٍ​ؕ اِنِ الۡحُكۡمُ
-  اِلَّا لِلّٰهِ​ؕ اَمَرَ اَلَّا تَعۡبُدُوۡۤا اِلَّاۤ اِيَّاهُ​ؕ ذٰلِكَ الدِّيۡنُ
-  الۡقَيِّمُ وَلٰـكِنَّ اَكۡثَرَ النَّاسِ لَا يَعۡلَمُوۡنَ‏
+arabic_ayat: مَا تَعۡبُدُونَ مِن دُونِهِۦٓ إِلَّآ أَسۡمَآءٗ سَمَّيۡتُمُوهَآ أَنتُمۡ
+  وَءَابَآؤُكُم مَّآ أَنزَلَ ٱللَّهُ بِهَا مِن سُلۡطَٰنٍۚ إِنِ ٱلۡحُكۡمُ إِلَّا
+  لِلَّهِ أَمَرَ أَلَّا تَعۡبُدُوٓاْ إِلَّآ إِيَّاهُۚ ذَٰلِكَ ٱلدِّينُ ٱلۡقَيِّمُ
+  وَلَٰكِنَّ أَكۡثَرَ ٱلنَّاسِ لَا يَعۡلَمُونَ
 sentence_translation: Whatever ˹idols˺ you worship instead of Him are mere names which
   you and your forefathers have made up—a practice Allah has never authorized. It
   is only Allah Who decides. He has commanded that you worship none but Him. That
@@ -13,47 +13,47 @@ word_by_word:
     translation: Not
     transliteration: mā
   2:
-    arabic: تَعۡبُدُوۡنَ
+    arabic: تَعۡبُدُونَ
     translation: you worship
     transliteration: taʿbudūna
   3:
-    arabic: مِنۡ
+    arabic: مِن
     translation: besides Him
     transliteration: min
   4:
-    arabic: دُوۡنِهٖۤ
+    arabic: دُونِهِۦٓ
     translation: besides Him
     transliteration: dūnihi
   5:
-    arabic: اِلَّاۤ
+    arabic: إِلَّآ
     translation: but
     transliteration: illā
   6:
-    arabic: اَسۡمَآءً
+    arabic: أَسۡمَآءٗ
     translation: names
     transliteration: asmāan
   7:
-    arabic: سَمَّيۡتُمُوۡهَاۤ
+    arabic: سَمَّيۡتُمُوهَآ
     translation: which you have named them
     transliteration: sammaytumūhā
   8:
-    arabic: اَنۡـتُمۡ
+    arabic: أَنتُمۡ
     translation: you
     transliteration: antum
   9:
-    arabic: وَ اٰبَآؤُكُمۡ
+    arabic: وَءَابَآؤُكُم
     translation: and your forefathers
     transliteration: waābāukum
   10:
-    arabic: مَّاۤ
+    arabic: مَّآ
     translation: not
     transliteration: mā
   11:
-    arabic: اَنۡزَلَ
+    arabic: أَنزَلَ
     translation: (has) sent down
     transliteration: anzala
   12:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   13:
@@ -61,71 +61,71 @@ word_by_word:
     translation: for it
     transliteration: bihā
   14:
-    arabic: مِنۡ
+    arabic: مِن
     translation: any
     transliteration: min
   15:
-    arabic: سُلۡطٰنٍ​ؕ
+    arabic: سُلۡطَٰنٍۚ
     translation: authority
     transliteration: sul'ṭānin
   16:
-    arabic: اِنِ
+    arabic: إِنِ
     translation: Not
     transliteration: ini
   17:
-    arabic: الۡحُكۡمُ
+    arabic: ٱلۡحُكۡمُ
     translation: (is) the command
     transliteration: l-ḥuk'mu
   18:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: but
     transliteration: illā
   19:
-    arabic: لِلّٰهِ​ؕ
+    arabic: لِلَّهِ
     translation: for Allah
     transliteration: lillahi
   20:
-    arabic: اَمَرَ
+    arabic: أَمَرَ
     translation: He has commanded
     transliteration: amara
   21:
-    arabic: اَلَّا
+    arabic: أَلَّا
     translation: that not
     transliteration: allā
   22:
-    arabic: تَعۡبُدُوۡۤا
+    arabic: تَعۡبُدُوٓاْ
     translation: you worship
     transliteration: taʿbudū
   23:
-    arabic: اِلَّاۤ
+    arabic: إِلَّآ
     translation: but
     transliteration: illā
   24:
-    arabic: اِيَّاهُ​ؕ
+    arabic: إِيَّاهُۚ
     translation: Him Alone
     transliteration: iyyāhu
   25:
-    arabic: ذٰلِكَ
+    arabic: ذَٰلِكَ
     translation: That
     transliteration: dhālika
   26:
-    arabic: الدِّيۡنُ
+    arabic: ٱلدِّينُ
     translation: (is) the religion
     transliteration: l-dīnu
   27:
-    arabic: الۡقَيِّمُ
+    arabic: ٱلۡقَيِّمُ
     translation: the right
     transliteration: l-qayimu
   28:
-    arabic: وَلٰـكِنَّ
+    arabic: وَلَٰكِنَّ
     translation: but
     transliteration: walākinna
   29:
-    arabic: اَكۡثَرَ
+    arabic: أَكۡثَرَ
     translation: most
     transliteration: akthara
   30:
-    arabic: النَّاسِ
+    arabic: ٱلنَّاسِ
     translation: '[the] men'
     transliteration: l-nāsi
   31:
@@ -133,7 +133,7 @@ word_by_word:
     translation: (do) not
     transliteration: lā
   32:
-    arabic: يَعۡلَمُوۡنَ‏
+    arabic: يَعۡلَمُونَ
     translation: know
     transliteration: yaʿlamūna
 ---

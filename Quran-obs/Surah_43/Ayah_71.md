@@ -1,6 +1,6 @@
 ---
-arabic_ayat: يُطَافُ عَلَيۡهِمۡ بِصِحَافٍ مِّنۡ ذَهَبٍ وَّاَكۡوَابٍ​ۚ وَفِيۡهَا مَا
-  تَشۡتَهِيۡهِ الۡاَنۡفُسُ وَتَلَذُّ الۡاَعۡيُنُ​ۚ وَاَنۡتُمۡ فِيۡهَا خٰلِدُوۡنَ​ۚ‏
+arabic_ayat: يُطَافُ عَلَيۡهِم بِصِحَافٖ مِّن ذَهَبٖ وَأَكۡوَابٖۖ وَفِيهَا مَا تَشۡتَهِيهِ
+  ٱلۡأَنفُسُ وَتَلَذُّ ٱلۡأَعۡيُنُۖ وَأَنتُمۡ فِيهَا خَٰلِدُونَ
 sentence_translation: Golden trays and cups will be passed around to them. There will
   be whatever the souls desire and the eyes delight in. And you will be there forever.
 word_by_word:
@@ -9,27 +9,27 @@ word_by_word:
     translation: Will be circulated
     transliteration: yuṭāfu
   2:
-    arabic: عَلَيۡهِمۡ
+    arabic: عَلَيۡهِم
     translation: for them
     transliteration: ʿalayhim
   3:
-    arabic: بِصِحَافٍ
+    arabic: بِصِحَافٖ
     translation: plates
     transliteration: biṣiḥāfin
   4:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: of
     transliteration: min
   5:
-    arabic: ذَهَبٍ
+    arabic: ذَهَبٖ
     translation: gold
     transliteration: dhahabin
   6:
-    arabic: وَّاَكۡوَابٍ​ۚ
+    arabic: وَأَكۡوَابٖۖ
     translation: and cups
     transliteration: wa-akwābin
   7:
-    arabic: وَفِيۡهَا
+    arabic: وَفِيهَا
     translation: And therein
     transliteration: wafīhā
   8:
@@ -37,11 +37,11 @@ word_by_word:
     translation: (is) what
     transliteration: mā
   9:
-    arabic: تَشۡتَهِيۡهِ
+    arabic: تَشۡتَهِيهِ
     translation: desires
     transliteration: tashtahīhi
   10:
-    arabic: الۡاَنۡفُسُ
+    arabic: ٱلۡأَنفُسُ
     translation: the souls
     transliteration: l-anfusu
   11:
@@ -49,19 +49,19 @@ word_by_word:
     translation: and delights
     transliteration: wataladhu
   12:
-    arabic: الۡاَعۡيُنُ​ۚ
+    arabic: ٱلۡأَعۡيُنُۖ
     translation: the eyes
     transliteration: l-aʿyunu
   13:
-    arabic: وَاَنۡتُمۡ
+    arabic: وَأَنتُمۡ
     translation: and you
     transliteration: wa-antum
   14:
-    arabic: فِيۡهَا
+    arabic: فِيهَا
     translation: therein
     transliteration: fīhā
   15:
-    arabic: خٰلِدُوۡنَ​ۚ‏
+    arabic: خَٰلِدُونَ
     translation: will abide forever
     transliteration: khālidūna
 ---

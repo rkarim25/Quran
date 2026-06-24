@@ -1,7 +1,6 @@
 ---
-arabic_ayat: وَلَمَّا جَآءَتۡ رُسُلُنَاۤ اِبۡرٰهِيۡمَ بِالۡبُشۡرٰىۙ قَالُـوۡۤا اِنَّا
-  مُهۡلِكُوۡۤا اَهۡلِ هٰذِهِ الۡقَرۡيَةِ ​ۚ اِنَّ اَهۡلَهَا كَانُوۡا ظٰلِمِيۡنَ​ ۖ
-  ​ۚ‏
+arabic_ayat: وَلَمَّا جَآءَتۡ رُسُلُنَآ إِبۡرَٰهِيمَ بِٱلۡبُشۡرَىٰ قَالُوٓاْ إِنَّا
+  مُهۡلِكُوٓاْ أَهۡلِ هَٰذِهِ ٱلۡقَرۡيَةِۖ إِنَّ أَهۡلَهَا كَانُواْ ظَٰلِمِينَ
 sentence_translation: When Our messenger-angels came to Abraham with the good news
   ˹of the birth of Isaac˺, they said, “We are going to destroy the people of this
   city ˹of Sodom˺, for its people have persisted in wrongdoing.”
@@ -15,55 +14,55 @@ word_by_word:
     translation: came
     transliteration: jāat
   3:
-    arabic: رُسُلُنَاۤ
+    arabic: رُسُلُنَآ
     translation: Our messengers
     transliteration: rusulunā
   4:
-    arabic: اِبۡرٰهِيۡمَ
+    arabic: إِبۡرَٰهِيمَ
     translation: (to) Ibrahim
     transliteration: ib'rāhīma
   5:
-    arabic: بِالۡبُشۡرٰىۙ
+    arabic: بِٱلۡبُشۡرَىٰ
     translation: with the glad tidings
     transliteration: bil-bush'rā
   6:
-    arabic: قَالُـوۡۤا
+    arabic: قَالُوٓاْ
     translation: they said
     transliteration: qālū
   7:
-    arabic: اِنَّا
+    arabic: إِنَّا
     translation: Indeed, we
     transliteration: innā
   8:
-    arabic: مُهۡلِكُوۡۤا
+    arabic: مُهۡلِكُوٓاْ
     translation: (are) going to destroy
     transliteration: muh'likū
   9:
-    arabic: اَهۡلِ
+    arabic: أَهۡلِ
     translation: (the) people
     transliteration: ahli
   10:
-    arabic: هٰذِهِ
+    arabic: هَٰذِهِ
     translation: (of) this
     transliteration: hādhihi
   11:
-    arabic: الۡقَرۡيَةِ ​ۚ
+    arabic: ٱلۡقَرۡيَةِۖ
     translation: town
     transliteration: l-qaryati
   12:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   13:
-    arabic: اَهۡلَهَا
+    arabic: أَهۡلَهَا
     translation: its people
     transliteration: ahlahā
   14:
-    arabic: كَانُوۡا
+    arabic: كَانُواْ
     translation: are
     transliteration: kānū
   15:
-    arabic: ظٰلِمِيۡنَ​ ۖ ​ۚ‏
+    arabic: ظَٰلِمِينَ
     translation: wrongdoers
     transliteration: ẓālimīna
 ---

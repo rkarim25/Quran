@@ -1,22 +1,22 @@
 ---
-arabic_ayat: كَذٰلِكَ وَزَوَّجۡنٰهُمۡ بِحُوۡرٍ عِيۡنٍؕ‏
+arabic_ayat: كَذَٰلِكَ وَزَوَّجۡنَٰهُم بِحُورٍ عِينٖ
 sentence_translation: So it will be. And We will pair them to maidens with gorgeous
   eyes.
 word_by_word:
   1:
-    arabic: كَذٰلِكَ
+    arabic: كَذَٰلِكَ
     translation: Thus
     transliteration: kadhālika
   2:
-    arabic: وَزَوَّجۡنٰهُمۡ
+    arabic: وَزَوَّجۡنَٰهُم
     translation: And We will marry them
     transliteration: wazawwajnāhum
   3:
-    arabic: بِحُوۡرٍ
+    arabic: بِحُورٍ
     translation: (to) companions with beautiful eyes
     transliteration: biḥūrin
   4:
-    arabic: عِيۡنٍؕ‏
+    arabic: عِينٖ
     translation: (to) companions with beautiful eyes
     transliteration: ʿīnin
 ---

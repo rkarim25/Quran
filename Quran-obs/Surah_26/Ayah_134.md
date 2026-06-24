@@ -1,13 +1,13 @@
 ---
-arabic_ayat: وَجَنّٰتٍ وَّعُيُوۡنٍ​ۚ‏
+arabic_ayat: وَجَنَّٰتٖ وَعُيُونٍ
 sentence_translation: and gardens, and springs.
 word_by_word:
   1:
-    arabic: وَجَنّٰتٍ
+    arabic: وَجَنَّٰتٖ
     translation: And gardens
     transliteration: wajannātin
   2:
-    arabic: وَّعُيُوۡنٍ​ۚ‏
+    arabic: وَعُيُونٍ
     translation: and springs
     transliteration: waʿuyūnin
 ---

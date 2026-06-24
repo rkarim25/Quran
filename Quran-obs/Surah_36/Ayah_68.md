@@ -1,10 +1,10 @@
 ---
-arabic_ayat: وَمَنۡ نُّعَمِّرۡهُ نُـنَكِّسۡهُ فِى الۡخَـلۡقِ​ؕ اَفَلَا يَعۡقِلُوۡنَ‏
+arabic_ayat: وَمَن نُّعَمِّرۡهُ نُنَكِّسۡهُ فِي ٱلۡخَلۡقِۚ أَفَلَا يَعۡقِلُونَ
 sentence_translation: And whoever We grant a long life, We reverse them in development. Will
   they not then understand?
 word_by_word:
   1:
-    arabic: وَمَنۡ
+    arabic: وَمَن
     translation: And (he) whom
     transliteration: waman
   2:
@@ -12,23 +12,23 @@ word_by_word:
     translation: We grant him long life
     transliteration: nuʿammir'hu
   3:
-    arabic: نُـنَكِّسۡهُ
+    arabic: نُنَكِّسۡهُ
     translation: We reverse him
     transliteration: nunakkis'hu
   4:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   5:
-    arabic: الۡخَـلۡقِ​ؕ
+    arabic: ٱلۡخَلۡقِۚ
     translation: the creation
     transliteration: l-khalqi
   6:
-    arabic: اَفَلَا
+    arabic: أَفَلَا
     translation: Then will not
     transliteration: afalā
   7:
-    arabic: يَعۡقِلُوۡنَ‏
+    arabic: يَعۡقِلُونَ
     translation: they use intellect
     transliteration: yaʿqilūna
 ---

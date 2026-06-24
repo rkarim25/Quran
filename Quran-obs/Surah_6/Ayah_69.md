@@ -1,6 +1,6 @@
 ---
-arabic_ayat: وَمَا عَلَى الَّذِيۡنَ يَتَّقُوۡنَ مِنۡ حِسَابِهِمۡ مِّنۡ شَىۡءٍ وَّلٰـكِنۡ
-  ذِكۡرٰى لَعَلَّهُمۡ يَتَّقُوۡنَ‏
+arabic_ayat: وَمَا عَلَى ٱلَّذِينَ يَتَّقُونَ مِنۡ حِسَابِهِم مِّن شَيۡءٖ وَلَٰكِن
+  ذِكۡرَىٰ لَعَلَّهُمۡ يَتَّقُونَ
 sentence_translation: Those mindful ˹of Allah˺ will not be accountable for those ˹who
   ridicule it˺ whatsoever—their duty is to advise, so perhaps the ridiculers will
   abstain.
@@ -14,11 +14,11 @@ word_by_word:
     translation: (is) on
     transliteration: ʿalā
   3:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   4:
-    arabic: يَتَّقُوۡنَ
+    arabic: يَتَّقُونَ
     translation: fear (Allah)
     transliteration: yattaqūna
   5:
@@ -26,23 +26,23 @@ word_by_word:
     translation: of
     transliteration: min
   6:
-    arabic: حِسَابِهِمۡ
+    arabic: حِسَابِهِم
     translation: their account
     transliteration: ḥisābihim
   7:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: '[of]'
     transliteration: min
   8:
-    arabic: شَىۡءٍ
+    arabic: شَيۡءٖ
     translation: anything
     transliteration: shayin
   9:
-    arabic: وَّلٰـكِنۡ
+    arabic: وَلَٰكِن
     translation: but
     transliteration: walākin
   10:
-    arabic: ذِكۡرٰى
+    arabic: ذِكۡرَىٰ
     translation: (for) reminder
     transliteration: dhik'rā
   11:
@@ -50,7 +50,7 @@ word_by_word:
     translation: so that they may
     transliteration: laʿallahum
   12:
-    arabic: يَتَّقُوۡنَ‏
+    arabic: يَتَّقُونَ
     translation: fear (Allah)
     transliteration: yattaqūna
 ---

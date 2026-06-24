@@ -1,9 +1,9 @@
 ---
-arabic_ayat: الَّذِيۡنَ هُمۡ فِىۡ خَوۡضٍ يَّلۡعَبُوۡنَ​ۘ‏
+arabic_ayat: ٱلَّذِينَ هُمۡ فِي خَوۡضٖ يَلۡعَبُونَ
 sentence_translation: those who amuse themselves with falsehood!
 word_by_word:
   1:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: Who
     transliteration: alladhīna
   2:
@@ -11,15 +11,15 @@ word_by_word:
     translation: '[they]'
     transliteration: hum
   3:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   4:
-    arabic: خَوۡضٍ
+    arabic: خَوۡضٖ
     translation: (vain) discourse
     transliteration: khawḍin
   5:
-    arabic: يَّلۡعَبُوۡنَ​ۘ‏
+    arabic: يَلۡعَبُونَ
     translation: are playing
     transliteration: yalʿabūna
 ---

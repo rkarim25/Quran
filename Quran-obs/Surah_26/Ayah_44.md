@@ -1,11 +1,11 @@
 ---
-arabic_ayat: فَاَلۡقَوۡا حِبَالَهُمۡ وَعِصِيَّهُمۡ وَقَالُوۡا بِعِزَّةِ فِرۡعَوۡنَ
-  اِنَّا لَـنَحۡنُ الۡغٰلِبُوۡنَ‏
+arabic_ayat: فَأَلۡقَوۡاْ حِبَالَهُمۡ وَعِصِيَّهُمۡ وَقَالُواْ بِعِزَّةِ فِرۡعَوۡنَ
+  إِنَّا لَنَحۡنُ ٱلۡغَٰلِبُونَ
 sentence_translation: So they cast down their ropes and staffs, saying, “By Pharaoh’s
   might, it is we who will surely prevail.”
 word_by_word:
   1:
-    arabic: فَاَلۡقَوۡا
+    arabic: فَأَلۡقَوۡاْ
     translation: So they threw
     transliteration: fa-alqaw
   2:
@@ -17,7 +17,7 @@ word_by_word:
     translation: and their staffs
     transliteration: waʿiṣiyyahum
   4:
-    arabic: وَقَالُوۡا
+    arabic: وَقَالُواْ
     translation: and said
     transliteration: waqālū
   5:
@@ -29,15 +29,15 @@ word_by_word:
     translation: (of) Firaun
     transliteration: fir'ʿawna
   7:
-    arabic: اِنَّا
+    arabic: إِنَّا
     translation: indeed, we
     transliteration: innā
   8:
-    arabic: لَـنَحۡنُ
+    arabic: لَنَحۡنُ
     translation: surely, we
     transliteration: lanaḥnu
   9:
-    arabic: الۡغٰلِبُوۡنَ‏
+    arabic: ٱلۡغَٰلِبُونَ
     translation: (are) the victorious
     transliteration: l-ghālibūna
 ---

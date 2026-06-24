@@ -1,5 +1,5 @@
 ---
-arabic_ayat: فَقَالَ لَهُمۡ رَسُوۡلُ اللّٰهِ نَاقَةَ اللّٰهِ وَسُقۡيٰهَا ؕ‏
+arabic_ayat: فَقَالَ لَهُمۡ رَسُولُ ٱللَّهِ نَاقَةَ ٱللَّهِ وَسُقۡيَٰهَا
 sentence_translation: But the messenger of Allah warned them, “˹Do not disturb˺ Allah’s
   camel and her ˹turn to˺ drink!”
 word_by_word:
@@ -12,11 +12,11 @@ word_by_word:
     translation: to them
     transliteration: lahum
   3:
-    arabic: رَسُوۡلُ
+    arabic: رَسُولُ
     translation: (the) Messenger
     transliteration: rasūlu
   4:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (of) Allah
     transliteration: l-lahi
   5:
@@ -24,11 +24,11 @@ word_by_word:
     translation: (It is the) she-camel
     transliteration: nāqata
   6:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (of) Allah
     transliteration: l-lahi
   7:
-    arabic: وَسُقۡيٰهَا ؕ‏
+    arabic: وَسُقۡيَٰهَا
     translation: and her drink
     transliteration: wasuq'yāhā
 ---

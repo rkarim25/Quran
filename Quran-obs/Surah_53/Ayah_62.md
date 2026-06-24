@@ -1,17 +1,17 @@
 ---
-arabic_ayat: فَاسۡجُدُوۡا لِلّٰهِ وَاعۡبُدُوۡا ۩‏
+arabic_ayat: فَٱسۡجُدُواْۤ لِلَّهِۤ وَٱعۡبُدُواْ۩
 sentence_translation: Instead, prostrate to Allah and worship ˹Him alone˺!
 word_by_word:
   1:
-    arabic: فَاسۡجُدُوۡا
+    arabic: فَٱسۡجُدُواْۤ
     translation: So prostrate
     transliteration: fa-us'judū
   2:
-    arabic: لِلّٰهِ
+    arabic: لِلَّهِۤ
     translation: to Allah
     transliteration: lillahi
   3:
-    arabic: وَاعۡبُدُوۡا ۩
+    arabic: وَٱعۡبُدُواْ۩
     translation: and worship (Him)
     transliteration: wa-uʿ'budū
 ---

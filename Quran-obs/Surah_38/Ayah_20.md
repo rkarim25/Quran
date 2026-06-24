@@ -1,5 +1,5 @@
 ---
-arabic_ayat: وَشَدَدۡنَا مُلۡكَهٗ وَاٰتَيۡنٰهُ الۡحِكۡمَةَ وَفَصۡلَ الۡخِطَابِ‏
+arabic_ayat: وَشَدَدۡنَا مُلۡكَهُۥ وَءَاتَيۡنَٰهُ ٱلۡحِكۡمَةَ وَفَصۡلَ ٱلۡخِطَابِ
 sentence_translation: We strengthened his kingship, and gave him wisdom and sound
   judgment.
 word_by_word:
@@ -8,15 +8,15 @@ word_by_word:
     translation: And We strengthened
     transliteration: washadadnā
   2:
-    arabic: مُلۡكَهٗ
+    arabic: مُلۡكَهُۥ
     translation: his kingdom
     transliteration: mul'kahu
   3:
-    arabic: وَاٰتَيۡنٰهُ
+    arabic: وَءَاتَيۡنَٰهُ
     translation: and We gave him
     transliteration: waātaynāhu
   4:
-    arabic: الۡحِكۡمَةَ
+    arabic: ٱلۡحِكۡمَةَ
     translation: '[the] wisdom'
     transliteration: l-ḥik'mata
   5:
@@ -24,7 +24,7 @@ word_by_word:
     translation: and decisive
     transliteration: wafaṣla
   6:
-    arabic: الۡخِطَابِ‏
+    arabic: ٱلۡخِطَابِ
     translation: speech
     transliteration: l-khiṭābi
 ---

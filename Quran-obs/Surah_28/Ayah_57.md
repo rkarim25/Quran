@@ -1,26 +1,26 @@
 ---
-arabic_ayat: وَقَالُوۡۤا اِنۡ نَّـتَّبِعِ الۡهُدٰى مَعَكَ نُـتَخَطَّفۡ مِنۡ اَرۡضِنَا
-  ؕ اَوَلَمۡ نُمَكِّنۡ لَّهُمۡ حَرَمًا اٰمِنًا يُّجۡبٰٓى اِلَيۡهِ ثَمَرٰتُ كُلِّ شَىۡءٍ
-  رِّزۡقًا مِّنۡ لَّدُنَّا وَلٰـكِنَّ اَكۡثَرَهُمۡ لَا يَعۡلَمُوۡنَ‏
+arabic_ayat: وَقَالُوٓاْ إِن نَّتَّبِعِ ٱلۡهُدَىٰ مَعَكَ نُتَخَطَّفۡ مِنۡ أَرۡضِنَآۚ
+  أَوَلَمۡ نُمَكِّن لَّهُمۡ حَرَمًا ءَامِنٗا يُجۡبَىٰٓ إِلَيۡهِ ثَمَرَٰتُ كُلِّ شَيۡءٖ
+  رِّزۡقٗا مِّن لَّدُنَّا وَلَٰكِنَّ أَكۡثَرَهُمۡ لَا يَعۡلَمُونَ
 sentence_translation: They say ˹to the Prophet˺, “If we were to follow ˹true˺ guidance
   with you, we would certainly be snatched away from our land.” Have We not established
   for them a safe haven ˹in Mecca˺ to which fruits of all kinds are brought as a provision
   from Us? But most of them do not know ˹this favour˺.
 word_by_word:
   1:
-    arabic: وَقَالُوۡۤا
+    arabic: وَقَالُوٓاْ
     translation: And they say
     transliteration: waqālū
   2:
-    arabic: اِنۡ
+    arabic: إِن
     translation: If
     transliteration: in
   3:
-    arabic: نَّـتَّبِعِ
+    arabic: نَّتَّبِعِ
     translation: we follow
     transliteration: nattabiʿi
   4:
-    arabic: الۡهُدٰى
+    arabic: ٱلۡهُدَىٰ
     translation: the guidance
     transliteration: l-hudā
   5:
@@ -28,7 +28,7 @@ word_by_word:
     translation: with you
     transliteration: maʿaka
   6:
-    arabic: نُـتَخَطَّفۡ
+    arabic: نُتَخَطَّفۡ
     translation: we would be swept
     transliteration: nutakhaṭṭaf
   7:
@@ -36,15 +36,15 @@ word_by_word:
     translation: from
     transliteration: min
   8:
-    arabic: اَرۡضِنَا ؕ
+    arabic: أَرۡضِنَآۚ
     translation: our land
     transliteration: arḍinā
   9:
-    arabic: اَوَلَمۡ
+    arabic: أَوَلَمۡ
     translation: Have not
     transliteration: awalam
   10:
-    arabic: نُمَكِّنۡ
+    arabic: نُمَكِّن
     translation: We established
     transliteration: numakkin
   11:
@@ -52,23 +52,23 @@ word_by_word:
     translation: for them
     transliteration: lahum
   12:
-    arabic: حَرَمًا
+    arabic: حَرَمًا ءَ
     translation: a sanctuary
     transliteration: ḥaraman
   13:
-    arabic: اٰمِنًا
+    arabic: امِنٗا
     translation: secure
     transliteration: āminan
   14:
-    arabic: يُّجۡبٰٓى
+    arabic: يُجۡبَىٰٓ
     translation: are brought
     transliteration: yuj'bā
   15:
-    arabic: اِلَيۡهِ
+    arabic: إِلَيۡهِ
     translation: to it
     transliteration: ilayhi
   16:
-    arabic: ثَمَرٰتُ
+    arabic: ثَمَرَٰتُ
     translation: fruits
     transliteration: thamarātu
   17:
@@ -76,15 +76,15 @@ word_by_word:
     translation: (of) all
     transliteration: kulli
   18:
-    arabic: شَىۡءٍ
+    arabic: شَيۡءٖ
     translation: things
     transliteration: shayin
   19:
-    arabic: رِّزۡقًا
+    arabic: رِّزۡقٗا
     translation: a provision
     transliteration: riz'qan
   20:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: from
     transliteration: min
   21:
@@ -92,11 +92,11 @@ word_by_word:
     translation: Us
     transliteration: ladunnā
   22:
-    arabic: وَلٰـكِنَّ
+    arabic: وَلَٰكِنَّ
     translation: But
     transliteration: walākinna
   23:
-    arabic: اَكۡثَرَهُمۡ
+    arabic: أَكۡثَرَهُمۡ
     translation: most of them
     transliteration: aktharahum
   24:
@@ -104,7 +104,7 @@ word_by_word:
     translation: (do) not
     transliteration: lā
   25:
-    arabic: يَعۡلَمُوۡنَ‏
+    arabic: يَعۡلَمُونَ
     translation: know
     transliteration: yaʿlamūna
 ---

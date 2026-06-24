@@ -1,6 +1,6 @@
 ---
-arabic_ayat: قُلۡ مَنۡ يَّكۡلَـؤُكُمۡ بِالَّيۡلِ وَالنَّهَارِ مِنَ الرَّحۡمٰنِ​ؕ بَلۡ
-  هُمۡ عَنۡ ذِكۡرِ رَبِّهِمۡ مُّعۡرِضُوۡنَ‏
+arabic_ayat: قُلۡ مَن يَكۡلَؤُكُم بِٱلَّيۡلِ وَٱلنَّهَارِ مِنَ ٱلرَّحۡمَٰنِۚ بَلۡ
+  هُمۡ عَن ذِكۡرِ رَبِّهِم مُّعۡرِضُونَ
 sentence_translation: Ask ˹them, O  Prophet,˺ “Who can defend you by day or by night
   against the Most Compassionate?” Still they turn away from the remembrance of their
   Lord.
@@ -10,19 +10,19 @@ word_by_word:
     translation: Say
     transliteration: qul
   2:
-    arabic: مَنۡ
+    arabic: مَن
     translation: Who
     transliteration: man
   3:
-    arabic: يَّكۡلَـؤُكُمۡ
+    arabic: يَكۡلَؤُكُم
     translation: (can) protect you
     transliteration: yakla-ukum
   4:
-    arabic: بِالَّيۡلِ
+    arabic: بِٱلَّيۡلِ
     translation: in the night
     transliteration: bi-al-layli
   5:
-    arabic: وَالنَّهَارِ
+    arabic: وَٱلنَّهَارِ
     translation: and the day
     transliteration: wal-nahāri
   6:
@@ -30,7 +30,7 @@ word_by_word:
     translation: from
     transliteration: mina
   7:
-    arabic: الرَّحۡمٰنِ​ؕ
+    arabic: ٱلرَّحۡمَٰنِۚ
     translation: the Most Gracious
     transliteration: l-raḥmāni
   8:
@@ -42,7 +42,7 @@ word_by_word:
     translation: they
     transliteration: hum
   10:
-    arabic: عَنۡ
+    arabic: عَن
     translation: from
     transliteration: ʿan
   11:
@@ -50,11 +50,11 @@ word_by_word:
     translation: (the) remembrance
     transliteration: dhik'ri
   12:
-    arabic: رَبِّهِمۡ
+    arabic: رَبِّهِم
     translation: (of) their Lord
     transliteration: rabbihim
   13:
-    arabic: مُّعۡرِضُوۡنَ‏
+    arabic: مُّعۡرِضُونَ
     translation: turn away
     transliteration: muʿ'riḍūna
 ---

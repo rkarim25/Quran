@@ -1,26 +1,26 @@
 ---
-arabic_ayat: فَاعۡتَرَفُوۡا بِذَنۡۢبِهِمۡ​ۚ فَسُحۡقًا لِّاَصۡحٰبِ السَّعِيۡرِ‏
+arabic_ayat: فَٱعۡتَرَفُواْ بِذَنۢبِهِمۡ فَسُحۡقٗا لِّأَصۡحَٰبِ ٱلسَّعِيرِ
 sentence_translation: And so they will confess their sins. So away with the residents
   of the Blaze!
 word_by_word:
   1:
-    arabic: فَاعۡتَرَفُوۡا
+    arabic: فَٱعۡتَرَفُواْ
     translation: Then they (will) confess
     transliteration: fa-iʿ'tarafū
   2:
-    arabic: بِذَنۡۢبِهِمۡ​ۚ
+    arabic: بِذَنۢبِهِمۡ
     translation: their sins
     transliteration: bidhanbihim
   3:
-    arabic: فَسُحۡقًا
+    arabic: فَسُحۡقٗا
     translation: so away with
     transliteration: fasuḥ'qan
   4:
-    arabic: لِّاَصۡحٰبِ
+    arabic: لِّأَصۡحَٰبِ
     translation: (the) companions
     transliteration: li-aṣḥābi
   5:
-    arabic: السَّعِيۡرِ‏
+    arabic: ٱلسَّعِيرِ
     translation: (of) the Blaze
     transliteration: l-saʿīri
 ---

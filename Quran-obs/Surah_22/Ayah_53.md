@@ -1,7 +1,6 @@
 ---
-arabic_ayat: "لِّيَجۡعَلَ مَا يُلۡقِى الشَّيۡطٰنُ فِتۡـنَةً لِّـلَّذِيۡنَ فِىۡ قُلُوۡبِهِمۡ\
-  \ مَّرَضٌ وَّالۡقَاسِيَةِ قُلُوۡبُهُمۡ​ ۚ وَ اِنَّ الظّٰلِمِيۡنَ لَفِىۡ شِقَاقٍۭ\
-  \ بَعِيۡدٍۙ‏ \uFEFF\uFEFF"
+arabic_ayat: لِّيَجۡعَلَ مَا يُلۡقِي ٱلشَّيۡطَٰنُ فِتۡنَةٗ لِّلَّذِينَ فِي قُلُوبِهِم
+  مَّرَضٞ وَٱلۡقَاسِيَةِ قُلُوبُهُمۡۗ وَإِنَّ ٱلظَّٰلِمِينَ لَفِي شِقَاقِۭ بَعِيدٖ
 sentence_translation: All that so He may make Satan’s influence a trial for those
   ˹hypocrites˺ whose hearts are sick and those ˹disbelievers˺ whose hearts are hardened.
   Surely the wrongdoers are totally engrossed in opposition.
@@ -15,59 +14,59 @@ word_by_word:
     translation: what
     transliteration: mā
   3:
-    arabic: يُلۡقِى
+    arabic: يُلۡقِي
     translation: the Shaitaan throws
     transliteration: yul'qī
   4:
-    arabic: الشَّيۡطٰنُ
+    arabic: ٱلشَّيۡطَٰنُ
     translation: the Shaitaan throws
     transliteration: l-shayṭānu
   5:
-    arabic: فِتۡـنَةً
+    arabic: فِتۡنَةٗ
     translation: a trial
     transliteration: fit'natan
   6:
-    arabic: لِّـلَّذِيۡنَ
+    arabic: لِّلَّذِينَ
     translation: for those
     transliteration: lilladhīna
   7:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   8:
-    arabic: قُلُوۡبِهِمۡ
+    arabic: قُلُوبِهِم
     translation: their hearts
     transliteration: qulūbihim
   9:
-    arabic: مَّرَضٌ
+    arabic: مَّرَضٞ
     translation: (is) a disease
     transliteration: maraḍun
   10:
-    arabic: وَّالۡقَاسِيَةِ
+    arabic: وَٱلۡقَاسِيَةِ
     translation: and (are) hardened
     transliteration: wal-qāsiyati
   11:
-    arabic: قُلُوۡبُهُمۡ​ ۚ
+    arabic: قُلُوبُهُمۡۗ
     translation: their hearts
     transliteration: qulūbuhum
   12:
-    arabic: وَ اِنَّ
+    arabic: وَإِنَّ
     translation: And indeed
     transliteration: wa-inna
   13:
-    arabic: الظّٰلِمِيۡنَ
+    arabic: ٱلظَّٰلِمِينَ
     translation: the wrongdoers
     transliteration: l-ẓālimīna
   14:
-    arabic: لَفِىۡ
+    arabic: لَفِي
     translation: (are) surely, in
     transliteration: lafī
   15:
-    arabic: شِقَاقٍۭ
+    arabic: شِقَاقِۭ
     translation: schism
     transliteration: shiqāqin
   16:
-    arabic: "بَعِيۡدٍۙ‏ \uFEFF\uFEFF"
+    arabic: بَعِيدٖ
     translation: far
     transliteration: baʿīdin
 ---

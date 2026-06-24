@@ -1,5 +1,5 @@
 ---
-arabic_ayat: قَالَ لَا تَخَافَآ​ اِنَّنِىۡ مَعَكُمَاۤ اَسۡمَعُ وَاَرٰى‏
+arabic_ayat: قَالَ لَا تَخَافَآۖ إِنَّنِي مَعَكُمَآ أَسۡمَعُ وَأَرَىٰ
 sentence_translation: Allah reassured ˹them˺, “Have no fear! I am with you, hearing
   and seeing.
 word_by_word:
@@ -12,23 +12,23 @@ word_by_word:
     translation: (Do) not
     transliteration: lā
   3:
-    arabic: تَخَافَآ​
+    arabic: تَخَافَآۖ
     translation: fear
     transliteration: takhāfā
   4:
-    arabic: اِنَّنِىۡ
+    arabic: إِنَّنِي
     translation: Indeed, I Am
     transliteration: innanī
   5:
-    arabic: مَعَكُمَاۤ
+    arabic: مَعَكُمَآ
     translation: with you both
     transliteration: maʿakumā
   6:
-    arabic: اَسۡمَعُ
+    arabic: أَسۡمَعُ
     translation: I hear
     transliteration: asmaʿu
   7:
-    arabic: وَاَرٰى‏
+    arabic: وَأَرَىٰ
     translation: and I see
     transliteration: wa-arā
 ---

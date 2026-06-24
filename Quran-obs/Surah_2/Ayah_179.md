@@ -1,39 +1,39 @@
 ---
-arabic_ayat: "وَ لَـكُمۡ فِى الۡقِصَاصِ حَيٰوةٌ يّٰٓـاُولِىۡ الۡاَلۡبَابِ لَعَلَّکُمۡ\
-  \ تَتَّقُوۡنَ‏ \uFEFF\uFEFF"
+arabic_ayat: وَلَكُمۡ فِي ٱلۡقِصَاصِ حَيَوٰةٞ يَٰٓأُوْلِي ٱلۡأَلۡبَٰبِ لَعَلَّكُمۡ
+  تَتَّقُونَ
 sentence_translation: There is ˹security of˺ life for you in ˹the law of˺ retaliation,
   O  people of reason, so that you may become mindful ˹of Allah˺.
 word_by_word:
   1:
-    arabic: وَ لَـكُمۡ
+    arabic: وَلَكُمۡ
     translation: And for you
     transliteration: walakum
   2:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   3:
-    arabic: الۡقِصَاصِ
+    arabic: ٱلۡقِصَاصِ
     translation: the legal retribution
     transliteration: l-qiṣāṣi
   4:
-    arabic: حَيٰوةٌ
+    arabic: حَيَوٰةٞ
     translation: (is) life
     transliteration: ḥayatun
   5:
-    arabic: يّٰٓـاُولِىۡ
+    arabic: يَٰٓأُوْلِي
     translation: O men
     transliteration: yāulī
   6:
-    arabic: الۡاَلۡبَابِ
+    arabic: ٱلۡأَلۡبَٰبِ
     translation: (of) understanding
     transliteration: l-albābi
   7:
-    arabic: لَعَلَّکُمۡ
+    arabic: لَعَلَّكُمۡ
     translation: So that you may
     transliteration: laʿallakum
   8:
-    arabic: "تَتَّقُوۡنَ‏ \uFEFF\uFEFF"
+    arabic: تَتَّقُونَ
     translation: (become) righteous
     transliteration: tattaqūna
 ---

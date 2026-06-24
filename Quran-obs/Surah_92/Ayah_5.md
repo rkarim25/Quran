@@ -1,9 +1,9 @@
 ---
-arabic_ayat: فَاَمَّا مَنۡ اَعۡطٰى وَاتَّقٰىۙ‏
+arabic_ayat: فَأَمَّا مَنۡ أَعۡطَىٰ وَٱتَّقَىٰ
 sentence_translation: As for the one who is charitable, mindful ˹of Allah˺,
 word_by_word:
   1:
-    arabic: فَاَمَّا
+    arabic: فَأَمَّا
     translation: Then as for
     transliteration: fa-ammā
   2:
@@ -11,11 +11,11 @@ word_by_word:
     translation: (him) who
     transliteration: man
   3:
-    arabic: اَعۡطٰى
+    arabic: أَعۡطَىٰ
     translation: gives
     transliteration: aʿṭā
   4:
-    arabic: وَاتَّقٰىۙ‏
+    arabic: وَٱتَّقَىٰ
     translation: and fears
     transliteration: wa-ittaqā
 ---

@@ -1,43 +1,43 @@
 ---
-arabic_ayat: وَلَٮِٕنۡ اَرۡسَلۡنَا رِيۡحًا فَرَاَوۡهُ مُصۡفَرًّا لَّظَلُّوۡا مِنۡۢ
-  بَعۡدِهٖ يَكۡفُرُوۡنَ‏
+arabic_ayat: وَلَئِنۡ أَرۡسَلۡنَا رِيحٗا فَرَأَوۡهُ مُصۡفَرّٗا لَّظَلُّواْ مِنۢ بَعۡدِهِۦ
+  يَكۡفُرُونَ
 sentence_translation: Then if We send a ˹harsh˺ wind which they see withering ˹their˺
   crops, they will definitely deny ˹old favours˺ right after.
 word_by_word:
   1:
-    arabic: وَلَٮِٕنۡ
+    arabic: وَلَئِنۡ
     translation: But if
     transliteration: wala-in
   2:
-    arabic: اَرۡسَلۡنَا
+    arabic: أَرۡسَلۡنَا
     translation: We sent
     transliteration: arsalnā
   3:
-    arabic: رِيۡحًا
+    arabic: رِيحٗا
     translation: a wind
     transliteration: rīḥan
   4:
-    arabic: فَرَاَوۡهُ
+    arabic: فَرَأَوۡهُ
     translation: and they see it
     transliteration: fara-awhu
   5:
-    arabic: مُصۡفَرًّا
+    arabic: مُصۡفَرّٗا
     translation: turn yellow
     transliteration: muṣ'farran
   6:
-    arabic: لَّظَلُّوۡا
+    arabic: لَّظَلُّواْ
     translation: certainly they continue
     transliteration: laẓallū
   7:
-    arabic: مِنۡۢ
+    arabic: مِنۢ
     translation: after it
     transliteration: min
   8:
-    arabic: بَعۡدِهٖ
+    arabic: بَعۡدِهِۦ
     translation: after it
     transliteration: baʿdihi
   9:
-    arabic: يَكۡفُرُوۡنَ‏
+    arabic: يَكۡفُرُونَ
     translation: (in) disbelief
     transliteration: yakfurūna
 ---

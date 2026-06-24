@@ -1,6 +1,6 @@
 ---
-arabic_ayat: ثُمَّ ارۡجِعِ الۡبَصَرَ كَرَّتَيۡنِ يَنۡقَلِبۡ اِلَيۡكَ الۡبَصَرُ خَاسِئًا
-  وَّهُوَ حَسِيۡرٌ‏
+arabic_ayat: ثُمَّ ٱرۡجِعِ ٱلۡبَصَرَ كَرَّتَيۡنِ يَنقَلِبۡ إِلَيۡكَ ٱلۡبَصَرُ خَاسِئٗا
+  وَهُوَ حَسِيرٞ
 sentence_translation: Then look again and again—your sight will return frustrated
   and weary.
 word_by_word:
@@ -9,11 +9,11 @@ word_by_word:
     translation: Then
     transliteration: thumma
   2:
-    arabic: ارۡجِعِ
+    arabic: ٱرۡجِعِ
     translation: return
     transliteration: ir'jiʿi
   3:
-    arabic: الۡبَصَرَ
+    arabic: ٱلۡبَصَرَ
     translation: the vision
     transliteration: l-baṣara
   4:
@@ -21,27 +21,27 @@ word_by_word:
     translation: twice (again)
     transliteration: karratayni
   5:
-    arabic: يَنۡقَلِبۡ
+    arabic: يَنقَلِبۡ
     translation: Will return
     transliteration: yanqalib
   6:
-    arabic: اِلَيۡكَ
+    arabic: إِلَيۡكَ
     translation: to you
     transliteration: ilayka
   7:
-    arabic: الۡبَصَرُ
+    arabic: ٱلۡبَصَرُ
     translation: the vision
     transliteration: l-baṣaru
   8:
-    arabic: خَاسِئًا
+    arabic: خَاسِئٗا
     translation: humbled
     transliteration: khāsi-an
   9:
-    arabic: وَّهُوَ
+    arabic: وَهُوَ
     translation: while it
     transliteration: wahuwa
   10:
-    arabic: حَسِيۡرٌ‏
+    arabic: حَسِيرٞ
     translation: (is) fatigued
     transliteration: ḥasīrun
 ---

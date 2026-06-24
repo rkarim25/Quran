@@ -1,5 +1,5 @@
 ---
-arabic_ayat: وَوَضَعۡنَا عَنۡكَ وِزۡرَكَۙ‏
+arabic_ayat: وَوَضَعۡنَا عَنكَ وِزۡرَكَ
 sentence_translation: relieved you of the burden
 word_by_word:
   1:
@@ -7,11 +7,11 @@ word_by_word:
     translation: And We removed
     transliteration: wawaḍaʿnā
   2:
-    arabic: عَنۡكَ
+    arabic: عَنكَ
     translation: from you
     transliteration: ʿanka
   3:
-    arabic: وِزۡرَكَۙ‏
+    arabic: وِزۡرَكَ
     translation: your burden
     transliteration: wiz'raka
 ---

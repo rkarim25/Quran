@@ -1,26 +1,26 @@
 ---
-arabic_ayat: بِاَكۡوَابٍ وَّاَبَارِيۡقَ ۙ وَكَاۡسٍ مِّنۡ مَّعِيۡنٍۙ‏
+arabic_ayat: بِأَكۡوَابٖ وَأَبَارِيقَ وَكَأۡسٖ مِّن مَّعِينٖ
 sentence_translation: with cups, pitchers, and a drink ˹of pure wine˺ from a flowing
   stream,
 word_by_word:
   1:
-    arabic: بِاَكۡوَابٍ
+    arabic: بِأَكۡوَابٖ
     translation: With vessels
     transliteration: bi-akwābin
   2:
-    arabic: وَّاَبَارِيۡقَ ۙ
+    arabic: وَأَبَارِيقَ
     translation: and jugs
     transliteration: wa-abārīqa
   3:
-    arabic: وَكَاۡسٍ
+    arabic: وَكَأۡسٖ
     translation: and a cup
     transliteration: wakasin
   4:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: from
     transliteration: min
   5:
-    arabic: مَّعِيۡنٍۙ‏
+    arabic: مَّعِينٖ
     translation: a flowing stream
     transliteration: maʿīnin
 ---

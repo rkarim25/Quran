@@ -1,5 +1,5 @@
 ---
-arabic_ayat: ثُمَّ لَا يَمُوۡتُ فِيۡهَا وَلَا يَحۡيٰىؕ‏
+arabic_ayat: ثُمَّ لَا يَمُوتُ فِيهَا وَلَا يَحۡيَىٰ
 sentence_translation: where they will not ˹be able to˺ live or die.
 word_by_word:
   1:
@@ -11,11 +11,11 @@ word_by_word:
     translation: not
     transliteration: lā
   3:
-    arabic: يَمُوۡتُ
+    arabic: يَمُوتُ
     translation: he will die
     transliteration: yamūtu
   4:
-    arabic: فِيۡهَا
+    arabic: فِيهَا
     translation: therein
     transliteration: fīhā
   5:
@@ -23,7 +23,7 @@ word_by_word:
     translation: and not
     transliteration: walā
   6:
-    arabic: يَحۡيٰىؕ‏
+    arabic: يَحۡيَىٰ
     translation: will live
     transliteration: yaḥyā
 ---

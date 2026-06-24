@@ -1,59 +1,59 @@
 ---
-arabic_ayat: وَاِنۡ كَذَّبُوۡكَ فَقُلْ لِّىۡ عَمَلِىۡ وَلَـكُمۡ عَمَلُكُمۡ​ۚ اَنۡـتُمۡ
-  بَرِيۡٓــُٔوۡنَ مِمَّاۤ اَعۡمَلُ وَاَنَا بَرِىۡٓءٌ مِّمَّا تَعۡمَلُوۡنَ‏
+arabic_ayat: وَإِن كَذَّبُوكَ فَقُل لِّي عَمَلِي وَلَكُمۡ عَمَلُكُمۡۖ أَنتُم بَرِيٓـُٔونَ
+  مِمَّآ أَعۡمَلُ وَأَنَا۠ بَرِيٓءٞ مِّمَّا تَعۡمَلُونَ
 sentence_translation: If they deny you, then say, “My deeds are mine and your deeds
   are yours. You are free of what I do and I am free of what you do!”
 word_by_word:
   1:
-    arabic: وَاِنۡ
+    arabic: وَإِن
     translation: And if
     transliteration: wa-in
   2:
-    arabic: كَذَّبُوۡكَ
+    arabic: كَذَّبُوكَ
     translation: they deny you
     transliteration: kadhabūka
   3:
-    arabic: فَقُلْ
+    arabic: فَقُل
     translation: then say
     transliteration: faqul
   4:
-    arabic: لِّىۡ
+    arabic: لِّي
     translation: For me
     transliteration: lī
   5:
-    arabic: عَمَلِىۡ
+    arabic: عَمَلِي
     translation: (are) my deeds
     transliteration: ʿamalī
   6:
-    arabic: وَلَـكُمۡ
+    arabic: وَلَكُمۡ
     translation: and for you
     transliteration: walakum
   7:
-    arabic: عَمَلُكُمۡ​ۚ
+    arabic: عَمَلُكُمۡۖ
     translation: (are) your deeds
     transliteration: ʿamalukum
   8:
-    arabic: اَنۡـتُمۡ
+    arabic: أَنتُم
     translation: You
     transliteration: antum
   9:
-    arabic: بَرِيۡٓــُٔوۡنَ
+    arabic: بَرِيٓـُٔونَ
     translation: (are) disassociated
     transliteration: barīūna
   10:
-    arabic: مِمَّاۤ
+    arabic: مِمَّآ
     translation: from what
     transliteration: mimmā
   11:
-    arabic: اَعۡمَلُ
+    arabic: أَعۡمَلُ
     translation: I do
     transliteration: aʿmalu
   12:
-    arabic: وَاَنَا
+    arabic: وَأَنَا۠
     translation: and I am
     transliteration: wa-anā
   13:
-    arabic: بَرِىۡٓءٌ
+    arabic: بَرِيٓءٞ
     translation: disassociated
     transliteration: barīon
   14:
@@ -61,7 +61,7 @@ word_by_word:
     translation: from what
     transliteration: mimmā
   15:
-    arabic: تَعۡمَلُوۡنَ‏
+    arabic: تَعۡمَلُونَ
     translation: you do
     transliteration: taʿmalūna
 ---

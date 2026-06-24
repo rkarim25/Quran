@@ -1,27 +1,27 @@
 ---
-arabic_ayat: رَبُّكُمۡ اَعۡلَمُ بِكُمۡ​ؕ اِنۡ يَّشَاۡ يَرۡحَمۡكُمۡ اَوۡ اِنۡ يَّشَاۡ
-  يُعَذِّبۡكُمۡ ​ؕ وَمَاۤ اَرۡسَلۡنٰكَ عَلَيۡهِمۡ وَكِيۡلًا‏
+arabic_ayat: رَّبُّكُمۡ أَعۡلَمُ بِكُمۡۖ إِن يَشَأۡ يَرۡحَمۡكُمۡ أَوۡ إِن يَشَأۡ يُعَذِّبۡكُمۡۚ
+  وَمَآ أَرۡسَلۡنَٰكَ عَلَيۡهِمۡ وَكِيلٗا
 sentence_translation: Your Lord knows you best. He may have mercy on you if He wills,
   or punish you if He wills. We have not sent you ˹O Prophet˺ as a keeper over them.
 word_by_word:
   1:
-    arabic: رَبُّكُمۡ
+    arabic: رَّبُّكُمۡ
     translation: Your Lord
     transliteration: rabbukum
   2:
-    arabic: اَعۡلَمُ
+    arabic: أَعۡلَمُ
     translation: (is) most knowing
     transliteration: aʿlamu
   3:
-    arabic: بِكُمۡ​ؕ
+    arabic: بِكُمۡۖ
     translation: of you
     transliteration: bikum
   4:
-    arabic: اِنۡ
+    arabic: إِن
     translation: If
     transliteration: in
   5:
-    arabic: يَّشَاۡ
+    arabic: يَشَأۡ
     translation: He wills
     transliteration: yasha
   6:
@@ -29,27 +29,27 @@ word_by_word:
     translation: He will have mercy on you
     transliteration: yarḥamkum
   7:
-    arabic: اَوۡ
+    arabic: أَوۡ
     translation: or
     transliteration: aw
   8:
-    arabic: اِنۡ
+    arabic: إِن
     translation: if
     transliteration: in
   9:
-    arabic: يَّشَاۡ
+    arabic: يَشَأۡ
     translation: He wills
     transliteration: yasha
   10:
-    arabic: يُعَذِّبۡكُمۡ ​ؕ
+    arabic: يُعَذِّبۡكُمۡۚ
     translation: He will punish you
     transliteration: yuʿadhib'kum
   11:
-    arabic: وَمَاۤ
+    arabic: وَمَآ
     translation: And not
     transliteration: wamā
   12:
-    arabic: اَرۡسَلۡنٰكَ
+    arabic: أَرۡسَلۡنَٰكَ
     translation: We have sent you
     transliteration: arsalnāka
   13:
@@ -57,7 +57,7 @@ word_by_word:
     translation: over them
     transliteration: ʿalayhim
   14:
-    arabic: وَكِيۡلًا‏
+    arabic: وَكِيلٗا
     translation: (as) a guardian
     transliteration: wakīlan
 ---

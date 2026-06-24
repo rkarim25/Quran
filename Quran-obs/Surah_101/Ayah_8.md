@@ -1,9 +1,9 @@
 ---
-arabic_ayat: وَاَمَّا مَنۡ خَفَّتۡ مَوَازِيۡنُهٗ ۙ‏
+arabic_ayat: وَأَمَّا مَنۡ خَفَّتۡ مَوَٰزِينُهُۥ
 sentence_translation: And as for those whose scale is light,
 word_by_word:
   1:
-    arabic: وَاَمَّا
+    arabic: وَأَمَّا
     translation: But as for
     transliteration: wa-ammā
   2:
@@ -15,7 +15,7 @@ word_by_word:
     translation: (are) light
     transliteration: khaffat
   4:
-    arabic: مَوَازِيۡنُهٗ ۙ‏
+    arabic: مَوَٰزِينُهُۥ
     translation: his scales
     transliteration: mawāzīnuhu
 ---

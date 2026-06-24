@@ -1,19 +1,19 @@
 ---
-arabic_ayat: اِنَّ الَّذِيۡنَ كَفَرُوۡا سَوَآءٌ عَلَيۡهِمۡ ءَاَنۡذَرۡتَهُمۡ اَمۡ
-  لَمۡ تُنۡذِرۡهُمۡ لَا يُؤۡمِنُوۡنَ‏
+arabic_ayat: إِنَّ ٱلَّذِينَ كَفَرُواْ سَوَآءٌ عَلَيۡهِمۡ ءَأَنذَرۡتَهُمۡ أَمۡ لَمۡ
+  تُنذِرۡهُمۡ لَا يُؤۡمِنُونَ
 sentence_translation: As for those who persist in disbelief, it is the same whether
   you warn them or not—they will never believe.
 word_by_word:
   1:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   3:
-    arabic: كَفَرُوۡا
+    arabic: كَفَرُواْ
     translation: disbelieve[d]
     transliteration: kafarū
   4:
@@ -25,11 +25,11 @@ word_by_word:
     translation: to them
     transliteration: ʿalayhim
   6:
-    arabic: ءَاَنۡذَرۡتَهُمۡ
+    arabic: ءَأَنذَرۡتَهُمۡ
     translation: whether you warn them
     transliteration: a-andhartahum
   7:
-    arabic: اَمۡ
+    arabic: أَمۡ
     translation: or
     transliteration: am
   8:
@@ -37,7 +37,7 @@ word_by_word:
     translation: not
     transliteration: lam
   9:
-    arabic: تُنۡذِرۡهُمۡ
+    arabic: تُنذِرۡهُمۡ
     translation: you warn them
     transliteration: tundhir'hum
   10:
@@ -45,7 +45,7 @@ word_by_word:
     translation: not
     transliteration: lā
   11:
-    arabic: يُؤۡمِنُوۡنَ‏
+    arabic: يُؤۡمِنُونَ
     translation: they believe
     transliteration: yu'minūna
 ---

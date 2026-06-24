@@ -1,14 +1,14 @@
 ---
-arabic_ayat: فَتَنَازَعُوۡۤا اَمۡرَهُمۡ بَيۡنَهُمۡ وَاَسَرُّوا النَّجۡوٰى‏
+arabic_ayat: فَتَنَٰزَعُوٓاْ أَمۡرَهُم بَيۡنَهُمۡ وَأَسَرُّواْ ٱلنَّجۡوَىٰ
 sentence_translation: So the magicians disputed the matter among themselves, conversing
   privately.
 word_by_word:
   1:
-    arabic: فَتَنَازَعُوۡۤا
+    arabic: فَتَنَٰزَعُوٓاْ
     translation: Then they disputed
     transliteration: fatanāzaʿū
   2:
-    arabic: اَمۡرَهُمۡ
+    arabic: أَمۡرَهُم
     translation: (in) their affair
     transliteration: amrahum
   3:
@@ -16,11 +16,11 @@ word_by_word:
     translation: among them
     transliteration: baynahum
   4:
-    arabic: وَاَسَرُّوا
+    arabic: وَأَسَرُّواْ
     translation: and they kept secret
     transliteration: wa-asarrū
   5:
-    arabic: النَّجۡوٰى‏
+    arabic: ٱلنَّجۡوَىٰ
     translation: the private conversation
     transliteration: l-najwā
 ---

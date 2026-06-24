@@ -1,17 +1,17 @@
 ---
-arabic_ayat: عَلَّمَهٗ شَدِيۡدُ الۡقُوٰىۙ‏
+arabic_ayat: عَلَّمَهُۥ شَدِيدُ ٱلۡقُوَىٰ
 sentence_translation: He has been taught by one ˹angel˺ of mighty power
 word_by_word:
   1:
-    arabic: عَلَّمَهٗ
+    arabic: عَلَّمَهُۥ
     translation: Has taught him
     transliteration: ʿallamahu
   2:
-    arabic: شَدِيۡدُ
+    arabic: شَدِيدُ
     translation: the (one) mighty
     transliteration: shadīdu
   3:
-    arabic: الۡقُوٰىۙ‏
+    arabic: ٱلۡقُوَىٰ
     translation: (in) power
     transliteration: l-quwā
 ---

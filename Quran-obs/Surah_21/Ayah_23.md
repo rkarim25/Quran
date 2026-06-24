@@ -1,5 +1,5 @@
 ---
-arabic_ayat: لَا يُسۡــَٔـلُ عَمَّا يَفۡعَلُ وَهُمۡ يُسۡـَٔــلُوۡنَ‏
+arabic_ayat: لَا يُسۡـَٔلُ عَمَّا يَفۡعَلُ وَهُمۡ يُسۡـَٔلُونَ
 sentence_translation: He cannot be questioned about what He does, but they will ˹all˺
   be questioned.
 word_by_word:
@@ -8,7 +8,7 @@ word_by_word:
     translation: Not
     transliteration: lā
   2:
-    arabic: يُسۡــَٔـلُ
+    arabic: يُسۡـَٔلُ
     translation: He (can) be questioned
     transliteration: yus'alu
   3:
@@ -24,7 +24,7 @@ word_by_word:
     translation: but they
     transliteration: wahum
   6:
-    arabic: يُسۡـَٔــلُوۡنَ‏
+    arabic: يُسۡـَٔلُونَ
     translation: will be questioned
     transliteration: yus'alūna
 ---

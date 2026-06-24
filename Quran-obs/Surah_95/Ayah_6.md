@@ -1,27 +1,27 @@
 ---
-arabic_ayat: اِلَّا الَّذِيۡنَ اٰمَنُوۡا وَعَمِلُوا الصّٰلِحٰتِ فَلَهُمۡ اَجۡرٌ غَيۡرُ
-  مَمۡنُوۡنٍؕ‏
+arabic_ayat: إِلَّا ٱلَّذِينَ ءَامَنُواْ وَعَمِلُواْ ٱلصَّٰلِحَٰتِ فَلَهُمۡ أَجۡرٌ
+  غَيۡرُ مَمۡنُونٖ
 sentence_translation: except those who believe and do good—they will have a never-ending
   reward.
 word_by_word:
   1:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: Except
     transliteration: illā
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ ءَ
     translation: those who
     transliteration: alladhīna
   3:
-    arabic: اٰمَنُوۡا
+    arabic: امَنُواْ
     translation: believe
     transliteration: āmanū
   4:
-    arabic: وَعَمِلُوا
+    arabic: وَعَمِلُواْ
     translation: and do
     transliteration: waʿamilū
   5:
-    arabic: الصّٰلِحٰتِ
+    arabic: ٱلصَّٰلِحَٰتِ
     translation: righteous deeds
     transliteration: l-ṣāliḥāti
   6:
@@ -29,7 +29,7 @@ word_by_word:
     translation: then for them
     transliteration: falahum
   7:
-    arabic: اَجۡرٌ
+    arabic: أَجۡرٌ
     translation: (is a) reward
     transliteration: ajrun
   8:
@@ -37,7 +37,7 @@ word_by_word:
     translation: never
     transliteration: ghayru
   9:
-    arabic: مَمۡنُوۡنٍؕ‏
+    arabic: مَمۡنُونٖ
     translation: ending
     transliteration: mamnūnin
 ---

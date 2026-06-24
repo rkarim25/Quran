@@ -1,5 +1,5 @@
 ---
-arabic_ayat: قَالَ عَمَّا قَلِيۡلٍ لَّيُصۡبِحُنَّ نٰدِمِيۡنَ​ۚ‏
+arabic_ayat: قَالَ عَمَّا قَلِيلٖ لَّيُصۡبِحُنَّ نَٰدِمِينَ
 sentence_translation: Allah responded, “Soon they will be truly regretful.”
 word_by_word:
   1:
@@ -11,7 +11,7 @@ word_by_word:
     translation: After a little while
     transliteration: ʿammā
   3:
-    arabic: قَلِيۡلٍ
+    arabic: قَلِيلٖ
     translation: After a little while
     transliteration: qalīlin
   4:
@@ -19,7 +19,7 @@ word_by_word:
     translation: surely they will become
     transliteration: layuṣ'biḥunna
   5:
-    arabic: نٰدِمِيۡنَ​ۚ‏
+    arabic: نَٰدِمِينَ
     translation: regretful
     transliteration: nādimīna
 ---

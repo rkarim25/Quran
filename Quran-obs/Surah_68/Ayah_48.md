@@ -1,11 +1,11 @@
 ---
-arabic_ayat: فَاصۡبِرۡ لِحُكۡمِ رَبِّكَ وَلَا تَكُنۡ كَصَاحِبِ الۡحُوۡتِ​ۘ اِذۡ نَادٰى
-  وَهُوَ مَكۡظُوۡمٌؕ‏
+arabic_ayat: فَٱصۡبِرۡ لِحُكۡمِ رَبِّكَ وَلَا تَكُن كَصَاحِبِ ٱلۡحُوتِ إِذۡ نَادَىٰ
+  وَهُوَ مَكۡظُومٞ
 sentence_translation: So be patient with your Lord’s decree, and do not be like ˹Jonah,˺
   the Man of the Whale, who cried out ˹to Allah˺, in total distress.
 word_by_word:
   1:
-    arabic: فَاصۡبِرۡ
+    arabic: فَٱصۡبِرۡ
     translation: So be patient
     transliteration: fa-iṣ'bir
   2:
@@ -21,7 +21,7 @@ word_by_word:
     translation: and (do) not
     transliteration: walā
   5:
-    arabic: تَكُنۡ
+    arabic: تَكُن
     translation: be
     transliteration: takun
   6:
@@ -29,15 +29,15 @@ word_by_word:
     translation: like (the) companion
     transliteration: kaṣāḥibi
   7:
-    arabic: الۡحُوۡتِ​ۘ
+    arabic: ٱلۡحُوتِ
     translation: (of) the fish
     transliteration: l-ḥūti
   8:
-    arabic: اِذۡ
+    arabic: إِذۡ
     translation: when
     transliteration: idh
   9:
-    arabic: نَادٰى
+    arabic: نَادَىٰ
     translation: he called out
     transliteration: nādā
   10:
@@ -45,7 +45,7 @@ word_by_word:
     translation: while he
     transliteration: wahuwa
   11:
-    arabic: مَكۡظُوۡمٌؕ‏
+    arabic: مَكۡظُومٞ
     translation: (was) distressed
     transliteration: makẓūmun
 ---

@@ -1,6 +1,6 @@
 ---
-arabic_ayat: وَلَقَدۡ فَتَنَّا سُلَيۡمٰنَ وَاَلۡقَيۡنَا عَلٰى كُرۡسِيِّهٖ جَسَدًا
-  ثُمَّ اَنَابَ‏
+arabic_ayat: وَلَقَدۡ فَتَنَّا سُلَيۡمَٰنَ وَأَلۡقَيۡنَا عَلَىٰ كُرۡسِيِّهِۦ جَسَدٗا
+  ثُمَّ أَنَابَ
 sentence_translation: And indeed, We tested Solomon, placing a ˹deformed˺ body on
   his throne, then he turned ˹to Allah in repentance˺.
 word_by_word:
@@ -13,23 +13,23 @@ word_by_word:
     translation: We tried
     transliteration: fatannā
   3:
-    arabic: سُلَيۡمٰنَ
+    arabic: سُلَيۡمَٰنَ
     translation: Sulaiman
     transliteration: sulaymāna
   4:
-    arabic: وَاَلۡقَيۡنَا
+    arabic: وَأَلۡقَيۡنَا
     translation: and We placed
     transliteration: wa-alqaynā
   5:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: 'on'
     transliteration: ʿalā
   6:
-    arabic: كُرۡسِيِّهٖ
+    arabic: كُرۡسِيِّهِۦ
     translation: his throne
     transliteration: kur'siyyihi
   7:
-    arabic: جَسَدًا
+    arabic: جَسَدٗا
     translation: a body
     transliteration: jasadan
   8:
@@ -37,7 +37,7 @@ word_by_word:
     translation: then
     transliteration: thumma
   9:
-    arabic: اَنَابَ‏
+    arabic: أَنَابَ
     translation: he turned
     transliteration: anāba
 ---

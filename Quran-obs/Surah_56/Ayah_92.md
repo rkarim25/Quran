@@ -1,13 +1,13 @@
 ---
-arabic_ayat: وَاَمَّاۤ اِنۡ كَانَ مِنَ الۡمُكَذِّبِيۡنَ الضَّآلِّيۡنَۙ‏
+arabic_ayat: وَأَمَّآ إِن كَانَ مِنَ ٱلۡمُكَذِّبِينَ ٱلضَّآلِّينَ
 sentence_translation: But if such person is one of the misguided deniers,
 word_by_word:
   1:
-    arabic: وَاَمَّاۤ
+    arabic: وَأَمَّآ
     translation: But
     transliteration: wa-ammā
   2:
-    arabic: اِنۡ
+    arabic: إِن
     translation: if
     transliteration: in
   3:
@@ -19,11 +19,11 @@ word_by_word:
     translation: of
     transliteration: mina
   5:
-    arabic: الۡمُكَذِّبِيۡنَ
+    arabic: ٱلۡمُكَذِّبِينَ
     translation: the deniers
     transliteration: l-mukadhibīna
   6:
-    arabic: الضَّآلِّيۡنَۙ‏
+    arabic: ٱلضَّآلِّينَ
     translation: the astray
     transliteration: l-ḍālīna
 ---

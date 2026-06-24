@@ -1,10 +1,9 @@
 ---
-arabic_ayat: اَلطَّلَاقُ مَرَّتٰنِ​ فَاِمۡسَاكٌ ۢ بِمَعۡرُوۡفٍ اَوۡ تَسۡرِيۡحٌ ۢ
-  بِاِحۡسَانٍ​ ؕوَلَا يَحِلُّ لَـکُمۡ اَنۡ تَاۡخُذُوۡا مِمَّآ اٰتَيۡتُمُوۡهُنَّ شَيۡـــًٔا
-  اِلَّاۤ اَنۡ يَّخَافَآ اَ لَّا يُقِيۡمَا حُدُوۡدَ اللّٰهِ​ؕ فَاِنۡ خِفۡتُمۡ اَ
-  لَّا يُقِيۡمَا حُدُوۡدَ اللّٰهِۙ فَلَا جُنَاحَ عَلَيۡهِمَا فِيۡمَا افۡتَدَتۡ بِهٖؕ​
-  تِلۡكَ حُدُوۡدُ اللّٰهِ فَلَا تَعۡتَدُوۡهَا ​ۚ​ وَمَنۡ يَّتَعَدَّ حُدُوۡدَ اللّٰهِ
-  فَاُولٰٓٮِٕكَ هُمُ الظّٰلِمُوۡنَ‏
+arabic_ayat: ٱلطَّلَٰقُ مَرَّتَانِۖ فَإِمۡسَاكُۢ بِمَعۡرُوفٍ أَوۡ تَسۡرِيحُۢ بِإِحۡسَٰنٖۗ
+  وَلَا يَحِلُّ لَكُمۡ أَن تَأۡخُذُواْ مِمَّآ ءَاتَيۡتُمُوهُنَّ شَيۡـًٔا إِلَّآ
+  أَن يَخَافَآ أَلَّا يُقِيمَا حُدُودَ ٱللَّهِۖ فَإِنۡ خِفۡتُمۡ أَلَّا يُقِيمَا حُدُودَ
+  ٱللَّهِ فَلَا جُنَاحَ عَلَيۡهِمَا فِيمَا ٱفۡتَدَتۡ بِهِۦۗ تِلۡكَ حُدُودُ ٱللَّهِ
+  فَلَا تَعۡتَدُوهَاۚ وَمَن يَتَعَدَّ حُدُودَ ٱللَّهِ فَأُوْلَٰٓئِكَ هُمُ ٱلظَّٰلِمُونَ
 sentence_translation: Divorce may be retracted twice, then the husband must retain
   ˹his wife˺ with honour or separate ˹from her˺ with grace. It is not lawful for husbands
   to take back anything of the dowry given to their wives, unless the couple fears
@@ -14,31 +13,31 @@ sentence_translation: Divorce may be retracted twice, then the husband must reta
   them. And whoever transgresses the limits of Allah, they are the ˹true˺ wrongdoers.
 word_by_word:
   1:
-    arabic: اَلطَّلَاقُ
+    arabic: ٱلطَّلَٰقُ
     translation: The divorce
     transliteration: al-ṭalāqu
   2:
-    arabic: مَرَّتٰنِ​
+    arabic: مَرَّتَانِۖ
     translation: (is) twice
     transliteration: marratāni
   3:
-    arabic: فَاِمۡسَاكٌ ۢ
+    arabic: فَإِمۡسَاكُۢ
     translation: Then to retain
     transliteration: fa-im'sākun
   4:
-    arabic: بِمَعۡرُوۡفٍ
+    arabic: بِمَعۡرُوفٍ
     translation: in a reasonable manner
     transliteration: bimaʿrūfin
   5:
-    arabic: اَوۡ
+    arabic: أَوۡ
     translation: or
     transliteration: aw
   6:
-    arabic: تَسۡرِيۡحٌ ۢ
+    arabic: تَسۡرِيحُۢ
     translation: to release (her)
     transliteration: tasrīḥun
   7:
-    arabic: بِاِحۡسَانٍ​ ؕ
+    arabic: بِإِحۡسَٰنٖۗ
     translation: with kindness
     transliteration: bi-iḥ'sānin
   8:
@@ -50,59 +49,59 @@ word_by_word:
     translation: lawful
     transliteration: yaḥillu
   10:
-    arabic: لَـکُمۡ
+    arabic: لَكُمۡ
     translation: for you
     transliteration: lakum
   11:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that
     transliteration: an
   12:
-    arabic: تَاۡخُذُوۡا
+    arabic: تَأۡخُذُواْ
     translation: you take (back)
     transliteration: takhudhū
   13:
-    arabic: مِمَّآ
+    arabic: مِمَّآ ءَ
     translation: whatever
     transliteration: mimmā
   14:
-    arabic: اٰتَيۡتُمُوۡهُنَّ
+    arabic: اتَيۡتُمُوهُنَّ
     translation: you have given them
     transliteration: ātaytumūhunna
   15:
-    arabic: شَيۡـــًٔا
+    arabic: شَيۡـًٔا
     translation: anything
     transliteration: shayan
   16:
-    arabic: اِلَّاۤ
+    arabic: إِلَّآ
     translation: except
     transliteration: illā
   17:
-    arabic: اَنۡ
+    arabic: أَن
     translation: if
     transliteration: an
   18:
-    arabic: يَّخَافَآ
+    arabic: يَخَافَآ
     translation: both fear
     transliteration: yakhāfā
   19:
-    arabic: اَ لَّا
+    arabic: أَلَّا
     translation: that not
     transliteration: allā
   20:
-    arabic: يُقِيۡمَا
+    arabic: يُقِيمَا
     translation: they both (can) keep
     transliteration: yuqīmā
   21:
-    arabic: حُدُوۡدَ
+    arabic: حُدُودَ
     translation: (the) limits
     transliteration: ḥudūda
   22:
-    arabic: اللّٰهِ​ؕ
+    arabic: ٱللَّهِۖ
     translation: (of) Allah
     transliteration: l-lahi
   23:
-    arabic: فَاِنۡ
+    arabic: فَإِنۡ
     translation: But if
     transliteration: fa-in
   24:
@@ -110,19 +109,19 @@ word_by_word:
     translation: you fear
     transliteration: khif'tum
   25:
-    arabic: اَ لَّا
+    arabic: أَلَّا
     translation: that not
     transliteration: allā
   26:
-    arabic: يُقِيۡمَا
+    arabic: يُقِيمَا
     translation: they both (can) keep
     transliteration: yuqīmā
   27:
-    arabic: حُدُوۡدَ
+    arabic: حُدُودَ
     translation: (the) limits
     transliteration: ḥudūda
   28:
-    arabic: اللّٰهِۙ
+    arabic: ٱللَّهِ
     translation: (of) Allah
     transliteration: l-lahi
   29:
@@ -138,15 +137,15 @@ word_by_word:
     translation: on both of them
     transliteration: ʿalayhimā
   32:
-    arabic: فِيۡمَا
+    arabic: فِيمَا
     translation: in what
     transliteration: fīmā
   33:
-    arabic: افۡتَدَتۡ
+    arabic: ٱفۡتَدَتۡ
     translation: she ransoms
     transliteration: if'tadat
   34:
-    arabic: بِهٖؕ​
+    arabic: بِهِۦۗ
     translation: concerning it
     transliteration: bihi
   35:
@@ -154,11 +153,11 @@ word_by_word:
     translation: These
     transliteration: til'ka
   36:
-    arabic: حُدُوۡدُ
+    arabic: حُدُودُ
     translation: (are the) limits
     transliteration: ḥudūdu
   37:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (of) Allah
     transliteration: l-lahi
   38:
@@ -166,27 +165,27 @@ word_by_word:
     translation: so (do) not
     transliteration: falā
   39:
-    arabic: تَعۡتَدُوۡهَا ​ۚ​
+    arabic: تَعۡتَدُوهَاۚ
     translation: transgress them
     transliteration: taʿtadūhā
   40:
-    arabic: وَمَنۡ
+    arabic: وَمَن
     translation: And whoever
     transliteration: waman
   41:
-    arabic: يَّتَعَدَّ
+    arabic: يَتَعَدَّ
     translation: transgresses
     transliteration: yataʿadda
   42:
-    arabic: حُدُوۡدَ
+    arabic: حُدُودَ
     translation: (the) limits
     transliteration: ḥudūda
   43:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (of) Allah
     transliteration: l-lahi
   44:
-    arabic: فَاُولٰٓٮِٕكَ
+    arabic: فَأُوْلَٰٓئِكَ
     translation: 'then those '
     transliteration: fa-ulāika
   45:
@@ -194,7 +193,7 @@ word_by_word:
     translation: they
     transliteration: humu
   46:
-    arabic: الظّٰلِمُوۡنَ‏
+    arabic: ٱلظَّٰلِمُونَ
     translation: (are) the wrongdoers
     transliteration: l-ẓālimūna
 ---

@@ -1,22 +1,22 @@
 ---
-arabic_ayat: اِنۡ يَّمۡسَسۡكُمۡ قَرۡحٌ فَقَدۡ مَسَّ الۡقَوۡمَ قَرۡحٌ مِّثۡلُهٗ ​ؕ
-  وَتِلۡكَ الۡاَيَّامُ نُدَاوِلُهَا بَيۡنَ النَّاسِۚ وَلِيَـعۡلَمَ اللّٰهُ الَّذِيۡنَ
-  اٰمَنُوۡا وَيَتَّخِذَ مِنۡكُمۡ شُهَدَآءَ​ؕ وَاللّٰهُ لَا يُحِبُّ الظّٰلِمِيۡنَۙ‏
+arabic_ayat: إِن يَمۡسَسۡكُمۡ قَرۡحٞ فَقَدۡ مَسَّ ٱلۡقَوۡمَ قَرۡحٞ مِّثۡلُهُۥۚ وَتِلۡكَ
+  ٱلۡأَيَّامُ نُدَاوِلُهَا بَيۡنَ ٱلنَّاسِ وَلِيَعۡلَمَ ٱللَّهُ ٱلَّذِينَ ءَامَنُواْ
+  وَيَتَّخِذَ مِنكُمۡ شُهَدَآءَۗ وَٱللَّهُ لَا يُحِبُّ ٱلظَّٰلِمِينَ
 sentence_translation: If you have suffered injuries ˹at Uḥud˺, they suffered similarly
   ˹at Badr˺. We alternate these days ˹of victory and defeat˺ among people so that
   Allah may reveal the ˹true˺ believers, choose martyrs from among you—and Allah does
   not like the wrongdoers—
 word_by_word:
   1:
-    arabic: اِنۡ
+    arabic: إِن
     translation: If
     transliteration: in
   2:
-    arabic: يَّمۡسَسۡكُمۡ
+    arabic: يَمۡسَسۡكُمۡ
     translation: touched you
     transliteration: yamsaskum
   3:
-    arabic: قَرۡحٌ
+    arabic: قَرۡحٞ
     translation: a wound
     transliteration: qarḥun
   4:
@@ -28,15 +28,15 @@ word_by_word:
     translation: (has) touched
     transliteration: massa
   6:
-    arabic: الۡقَوۡمَ
+    arabic: ٱلۡقَوۡمَ
     translation: the people
     transliteration: l-qawma
   7:
-    arabic: قَرۡحٌ
+    arabic: قَرۡحٞ
     translation: wound
     transliteration: qarḥun
   8:
-    arabic: مِّثۡلُهٗ ​ؕ
+    arabic: مِّثۡلُهُۥۚ
     translation: like it
     transliteration: mith'luhu
   9:
@@ -44,7 +44,7 @@ word_by_word:
     translation: And this
     transliteration: watil'ka
   10:
-    arabic: الۡاَيَّامُ
+    arabic: ٱلۡأَيَّامُ
     translation: '[the] days'
     transliteration: l-ayāmu
   11:
@@ -56,23 +56,23 @@ word_by_word:
     translation: among
     transliteration: bayna
   13:
-    arabic: النَّاسِۚ
+    arabic: ٱلنَّاسِ
     translation: the people
     transliteration: l-nāsi
   14:
-    arabic: وَلِيَـعۡلَمَ
+    arabic: وَلِيَعۡلَمَ
     translation: '[and] so that makes evident'
     transliteration: waliyaʿlama
   15:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   16:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ ءَ
     translation: those who
     transliteration: alladhīna
   17:
-    arabic: اٰمَنُوۡا
+    arabic: امَنُواْ
     translation: believe[d]
     transliteration: āmanū
   18:
@@ -80,15 +80,15 @@ word_by_word:
     translation: and take
     transliteration: wayattakhidha
   19:
-    arabic: مِنۡكُمۡ
+    arabic: مِنكُمۡ
     translation: from you
     transliteration: minkum
   20:
-    arabic: شُهَدَآءَ​ؕ
+    arabic: شُهَدَآءَۗ
     translation: martyrs
     transliteration: shuhadāa
   21:
-    arabic: وَاللّٰهُ
+    arabic: وَٱللَّهُ
     translation: And Allah
     transliteration: wal-lahu
   22:
@@ -100,7 +100,7 @@ word_by_word:
     translation: love
     transliteration: yuḥibbu
   24:
-    arabic: الظّٰلِمِيۡنَۙ‏
+    arabic: ٱلظَّٰلِمِينَ
     translation: the wrongdoers
     transliteration: l-ẓālimīna
 ---

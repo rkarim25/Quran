@@ -1,14 +1,14 @@
 ---
-arabic_ayat: وَالَّذِيۡنَ يَبِيۡتُوۡنَ لِرَبِّهِمۡ سُجَّدًا وَّقِيَامًا‏
+arabic_ayat: وَٱلَّذِينَ يَبِيتُونَ لِرَبِّهِمۡ سُجَّدٗا وَقِيَٰمٗا
 sentence_translation: ˹They are˺ those who spend ˹a good portion of˺ the night, prostrating
   themselves and standing before their Lord.
 word_by_word:
   1:
-    arabic: وَالَّذِيۡنَ
+    arabic: وَٱلَّذِينَ
     translation: And those who
     transliteration: wa-alladhīna
   2:
-    arabic: يَبِيۡتُوۡنَ
+    arabic: يَبِيتُونَ
     translation: spend (the) night
     transliteration: yabītūna
   3:
@@ -16,11 +16,11 @@ word_by_word:
     translation: before their Lord
     transliteration: lirabbihim
   4:
-    arabic: سُجَّدًا
+    arabic: سُجَّدٗا
     translation: prostrating
     transliteration: sujjadan
   5:
-    arabic: وَّقِيَامًا‏
+    arabic: وَقِيَٰمٗا
     translation: and standing
     transliteration: waqiyāman
 ---

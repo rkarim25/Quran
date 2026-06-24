@@ -1,38 +1,38 @@
 ---
-arabic_ayat: اَللّٰهُ لَاۤ اِلٰهَ اِلَّا هُوَ ​ؕ لَـهُ الۡاَسۡمَآءُ الۡحُسۡنٰى‏
+arabic_ayat: ٱللَّهُ لَآ إِلَٰهَ إِلَّا هُوَۖ لَهُ ٱلۡأَسۡمَآءُ ٱلۡحُسۡنَىٰ
 sentence_translation: Allah—there is no god ˹worthy of worship˺ except Him. He has
   the Most Beautiful Names.
 word_by_word:
   1:
-    arabic: اَللّٰهُ
+    arabic: ٱللَّهُ
     translation: 'Allah '
     transliteration: al-lahu
   2:
-    arabic: لَاۤ
+    arabic: لَآ
     translation: (there is) no
     transliteration: lā
   3:
-    arabic: اِلٰهَ
+    arabic: إِلَٰهَ
     translation: god
     transliteration: ilāha
   4:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   5:
-    arabic: هُوَ ​ؕ
+    arabic: هُوَۖ
     translation: Him
     transliteration: huwa
   6:
-    arabic: لَـهُ
+    arabic: لَهُ
     translation: To Him (belong)
     transliteration: lahu
   7:
-    arabic: الۡاَسۡمَآءُ
+    arabic: ٱلۡأَسۡمَآءُ
     translation: the Names
     transliteration: l-asmāu
   8:
-    arabic: الۡحُسۡنٰى‏
+    arabic: ٱلۡحُسۡنَىٰ
     translation: the Most Beautiful
     transliteration: l-ḥus'nā
 ---

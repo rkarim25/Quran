@@ -1,15 +1,15 @@
 ---
-arabic_ayat: وَاَمَّاۤ اِذَا مَا ابۡتَلٰٮهُ فَقَدَرَ عَلَيۡهِ رِزۡقَهٗ ۙ فَيَقُوۡلُ
-  رَبِّىۡۤ اَهَانَنِ​ۚ‏
+arabic_ayat: وَأَمَّآ إِذَا مَا ٱبۡتَلَىٰهُ فَقَدَرَ عَلَيۡهِ رِزۡقَهُۥ فَيَقُولُ
+  رَبِّيٓ أَهَٰنَنِ
 sentence_translation: But when He tests them by limiting their provision, they protest,
   “My Lord has ˹undeservedly˺ humiliated me!”
 word_by_word:
   1:
-    arabic: وَاَمَّاۤ
+    arabic: وَأَمَّآ
     translation: But
     transliteration: wa-ammā
   2:
-    arabic: اِذَا
+    arabic: إِذَا
     translation: when
     transliteration: idhā
   3:
@@ -17,7 +17,7 @@ word_by_word:
     translation: does
     transliteration: mā
   4:
-    arabic: ابۡتَلٰٮهُ
+    arabic: ٱبۡتَلَىٰهُ
     translation: He try him
     transliteration: ib'talāhu
   5:
@@ -29,19 +29,19 @@ word_by_word:
     translation: for him
     transliteration: ʿalayhi
   7:
-    arabic: رِزۡقَهٗ ۙ
+    arabic: رِزۡقَهُۥ
     translation: his provision
     transliteration: riz'qahu
   8:
-    arabic: فَيَقُوۡلُ
+    arabic: فَيَقُولُ
     translation: then he says
     transliteration: fayaqūlu
   9:
-    arabic: رَبِّىۡۤ
+    arabic: رَبِّيٓ
     translation: My Lord
     transliteration: rabbī
   10:
-    arabic: اَهَانَنِ​ۚ‏
+    arabic: أَهَٰنَنِ
     translation: (has) humiliated me
     transliteration: ahānani
 ---

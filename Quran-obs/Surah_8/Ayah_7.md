@@ -1,13 +1,13 @@
 ---
-arabic_ayat: وَاِذۡ يَعِدُكُمُ اللّٰهُ اِحۡدَى الطَّآٮِٕفَتَيۡنِ اَنَّهَا لَـكُمۡ
-  وَتَوَدُّوۡنَ اَنَّ غَيۡرَ ذَاتِ الشَّوۡكَةِ تَكُوۡنُ لَـكُمۡ وَيُرِيۡدُ اللّٰهُ
-  اَنۡ يُّحِقَّ الۡحَـقَّ بِكَلِمٰتِهٖ وَيَقۡطَعَ دَابِرَ الۡـكٰفِرِيۡنَۙ‏
+arabic_ayat: وَإِذۡ يَعِدُكُمُ ٱللَّهُ إِحۡدَى ٱلطَّآئِفَتَيۡنِ أَنَّهَا لَكُمۡ وَتَوَدُّونَ
+  أَنَّ غَيۡرَ ذَاتِ ٱلشَّوۡكَةِ تَكُونُ لَكُمۡ وَيُرِيدُ ٱللَّهُ أَن يُحِقَّ ٱلۡحَقَّ
+  بِكَلِمَٰتِهِۦ وَيَقۡطَعَ دَابِرَ ٱلۡكَٰفِرِينَ
 sentence_translation: ˹Remember, O  believers,˺ when Allah promised ˹to give˺ you
   the upper hand over either target, you wished to capture the unarmed party. But
   it was Allah’s Will to establish the truth by His Words and uproot the disbelievers;
 word_by_word:
   1:
-    arabic: وَاِذۡ
+    arabic: وَإِذۡ
     translation: And when
     transliteration: wa-idh
   2:
@@ -15,31 +15,31 @@ word_by_word:
     translation: promised you
     transliteration: yaʿidukumu
   3:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   4:
-    arabic: اِحۡدَى
+    arabic: إِحۡدَى
     translation: one
     transliteration: iḥ'dā
   5:
-    arabic: الطَّآٮِٕفَتَيۡنِ
+    arabic: ٱلطَّآئِفَتَيۡنِ
     translation: '(of) the two groups '
     transliteration: l-ṭāifatayni
   6:
-    arabic: اَنَّهَا
+    arabic: أَنَّهَا
     translation: that it (would be)
     transliteration: annahā
   7:
-    arabic: لَـكُمۡ
+    arabic: لَكُمۡ
     translation: 'for you '
     transliteration: lakum
   8:
-    arabic: وَتَوَدُّوۡنَ
+    arabic: وَتَوَدُّونَ
     translation: and you wished
     transliteration: watawaddūna
   9:
-    arabic: اَنَّ
+    arabic: أَنَّ
     translation: that
     transliteration: anna
   10:
@@ -51,39 +51,39 @@ word_by_word:
     translation: that
     transliteration: dhāti
   12:
-    arabic: الشَّوۡكَةِ
+    arabic: ٱلشَّوۡكَةِ
     translation: (of) the armed
     transliteration: l-shawkati
   13:
-    arabic: تَكُوۡنُ
+    arabic: تَكُونُ
     translation: would be
     transliteration: takūnu
   14:
-    arabic: لَـكُمۡ
+    arabic: لَكُمۡ
     translation: for you
     transliteration: lakum
   15:
-    arabic: وَيُرِيۡدُ
+    arabic: وَيُرِيدُ
     translation: But intended
     transliteration: wayurīdu
   16:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   17:
-    arabic: اَنۡ
+    arabic: أَن
     translation: to
     transliteration: an
   18:
-    arabic: يُّحِقَّ
+    arabic: يُحِقَّ
     translation: justify
     transliteration: yuḥiqqa
   19:
-    arabic: الۡحَـقَّ
+    arabic: ٱلۡحَقَّ
     translation: the truth
     transliteration: l-ḥaqa
   20:
-    arabic: بِكَلِمٰتِهٖ
+    arabic: بِكَلِمَٰتِهِۦ
     translation: by His words
     transliteration: bikalimātihi
   21:
@@ -95,7 +95,7 @@ word_by_word:
     translation: (the) roots
     transliteration: dābira
   23:
-    arabic: الۡـكٰفِرِيۡنَۙ‏
+    arabic: ٱلۡكَٰفِرِينَ
     translation: (of) the disbelievers
     transliteration: l-kāfirīna
 ---

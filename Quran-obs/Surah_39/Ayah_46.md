@@ -1,6 +1,6 @@
 ---
-arabic_ayat: قُلِ اللّٰهُمَّ فَاطِرَ السَّمٰوٰتِ وَالۡاَرۡضِ عٰلِمَ الۡغَيۡبِ وَالشَّهَادَةِ
-  اَنۡتَ تَحۡكُمُ بَيۡنَ عِبَادِكَ فِىۡ مَا كَانُوۡا فِيۡهِ يَخۡتَلِفُوۡنَ‏
+arabic_ayat: قُلِ ٱللَّهُمَّ فَاطِرَ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِ عَٰلِمَ ٱلۡغَيۡبِ وَٱلشَّهَٰدَةِ
+  أَنتَ تَحۡكُمُ بَيۡنَ عِبَادِكَ فِي مَا كَانُواْ فِيهِ يَخۡتَلِفُونَ
 sentence_translation: Say, ˹O Prophet,˺ “O Allah—Originator of the heavens and the
   earth, Knower of the seen and unseen! You will judge between Your servants regarding
   their differences.”
@@ -10,7 +10,7 @@ word_by_word:
     translation: Say
     transliteration: quli
   2:
-    arabic: اللّٰهُمَّ
+    arabic: ٱللَّهُمَّ
     translation: O Allah
     transliteration: l-lahuma
   3:
@@ -18,27 +18,27 @@ word_by_word:
     translation: Creator
     transliteration: fāṭira
   4:
-    arabic: السَّمٰوٰتِ
+    arabic: ٱلسَّمَٰوَٰتِ
     translation: (of) the heavens
     transliteration: l-samāwāti
   5:
-    arabic: وَالۡاَرۡضِ
+    arabic: وَٱلۡأَرۡضِ
     translation: and the earth
     transliteration: wal-arḍi
   6:
-    arabic: عٰلِمَ
+    arabic: عَٰلِمَ
     translation: Knower
     transliteration: ʿālima
   7:
-    arabic: الۡغَيۡبِ
+    arabic: ٱلۡغَيۡبِ
     translation: (of) the unseen
     transliteration: l-ghaybi
   8:
-    arabic: وَالشَّهَادَةِ
+    arabic: وَٱلشَّهَٰدَةِ
     translation: and the witnessed
     transliteration: wal-shahādati
   9:
-    arabic: اَنۡتَ
+    arabic: أَنتَ
     translation: You
     transliteration: anta
   10:
@@ -54,7 +54,7 @@ word_by_word:
     translation: Your slaves
     transliteration: ʿibādika
   13:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   14:
@@ -62,15 +62,15 @@ word_by_word:
     translation: what
     transliteration: mā
   15:
-    arabic: كَانُوۡا
+    arabic: كَانُواْ
     translation: they used to
     transliteration: kānū
   16:
-    arabic: فِيۡهِ
+    arabic: فِيهِ
     translation: therein
     transliteration: fīhi
   17:
-    arabic: يَخۡتَلِفُوۡنَ‏
+    arabic: يَخۡتَلِفُونَ
     translation: differ
     transliteration: yakhtalifūna
 ---

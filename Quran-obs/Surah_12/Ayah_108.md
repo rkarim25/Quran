@@ -1,6 +1,6 @@
 ---
-arabic_ayat: قُلۡ هٰذِهٖ سَبِيۡلِىۡۤ اَدۡعُوۡۤا اِلَى اللّٰهِ ​ؔعَلٰى بَصِيۡرَةٍ
-  اَنَا وَمَنِ اتَّبَعَنِىۡ​ؕ وَسُبۡحٰنَ اللّٰهِ وَمَاۤ اَنَا مِنَ الۡمُشۡرِكِيۡنَ‏
+arabic_ayat: قُلۡ هَٰذِهِۦ سَبِيلِيٓ أَدۡعُوٓاْ إِلَى ٱللَّهِۚ عَلَىٰ بَصِيرَةٍ أَنَا۠
+  وَمَنِ ٱتَّبَعَنِيۖ وَسُبۡحَٰنَ ٱللَّهِ وَمَآ أَنَا۠ مِنَ ٱلۡمُشۡرِكِينَ
 sentence_translation: Say, ˹O Prophet,˺ “This is my way. I invite to Allah with insight—I
   and those who follow me. Glory be to Allah, and I am not one of the polytheists.”
 word_by_word:
@@ -9,35 +9,35 @@ word_by_word:
     translation: Say
     transliteration: qul
   2:
-    arabic: هٰذِهٖ
+    arabic: هَٰذِهِۦ
     translation: This
     transliteration: hādhihi
   3:
-    arabic: سَبِيۡلِىۡۤ
+    arabic: سَبِيلِيٓ
     translation: (is) my way
     transliteration: sabīlī
   4:
-    arabic: اَدۡعُوۡۤا
+    arabic: أَدۡعُوٓاْ
     translation: I invite
     transliteration: adʿū
   5:
-    arabic: اِلَى
+    arabic: إِلَى
     translation: to
     transliteration: ilā
   6:
-    arabic: اللّٰهِ ​ؔ
+    arabic: ٱللَّهِۚ
     translation: Allah
     transliteration: l-lahi
   7:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: with
     transliteration: ʿalā
   8:
-    arabic: بَصِيۡرَةٍ
+    arabic: بَصِيرَةٍ
     translation: insight
     transliteration: baṣīratin
   9:
-    arabic: اَنَا
+    arabic: أَنَا۠
     translation: I
     transliteration: anā
   10:
@@ -45,23 +45,23 @@ word_by_word:
     translation: and whoever
     transliteration: wamani
   11:
-    arabic: اتَّبَعَنِىۡ​ؕ
+    arabic: ٱتَّبَعَنِيۖ
     translation: follows me
     transliteration: ittabaʿanī
   12:
-    arabic: وَسُبۡحٰنَ
+    arabic: وَسُبۡحَٰنَ
     translation: And Glory be
     transliteration: wasub'ḥāna
   13:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (to) Allah
     transliteration: l-lahi
   14:
-    arabic: وَمَاۤ
+    arabic: وَمَآ
     translation: and not
     transliteration: wamā
   15:
-    arabic: اَنَا
+    arabic: أَنَا۠
     translation: I am
     transliteration: anā
   16:
@@ -69,7 +69,7 @@ word_by_word:
     translation: of
     transliteration: mina
   17:
-    arabic: الۡمُشۡرِكِيۡنَ‏
+    arabic: ٱلۡمُشۡرِكِينَ
     translation: the polytheists
     transliteration: l-mush'rikīna
 ---

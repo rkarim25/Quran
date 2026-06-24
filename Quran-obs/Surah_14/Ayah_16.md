@@ -1,34 +1,34 @@
 ---
-arabic_ayat: مِّنۡ وَّرَآٮِٕهٖ جَهَـنَّمُ وَيُسۡقٰى مِنۡ مَّآءٍ صَدِيۡدٍۙ‏
+arabic_ayat: مِّن وَرَآئِهِۦ جَهَنَّمُ وَيُسۡقَىٰ مِن مَّآءٖ صَدِيدٖ
 sentence_translation: Awaiting them is Hell, and they will be left to drink oozing
   pus,
 word_by_word:
   1:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: of him
     transliteration: min
   2:
-    arabic: وَّرَآٮِٕهٖ
+    arabic: وَرَآئِهِۦ
     translation: Ahead
     transliteration: warāihi
   3:
-    arabic: جَهَـنَّمُ
+    arabic: جَهَنَّمُ
     translation: (is) Hell
     transliteration: jahannamu
   4:
-    arabic: وَيُسۡقٰى
+    arabic: وَيُسۡقَىٰ
     translation: and he will be made to drink
     transliteration: wayus'qā
   5:
-    arabic: مِنۡ
+    arabic: مِن
     translation: of
     transliteration: min
   6:
-    arabic: مَّآءٍ
+    arabic: مَّآءٖ
     translation: water
     transliteration: māin
   7:
-    arabic: صَدِيۡدٍۙ‏
+    arabic: صَدِيدٖ
     translation: purulent
     transliteration: ṣadīdin
 ---

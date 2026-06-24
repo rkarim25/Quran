@@ -1,7 +1,7 @@
 ---
-arabic_ayat: فَرَجَعَ مُوۡسَىٰۤ اِلٰى قَوۡمِهٖ غَضۡبَانَ اَسِفًا  ۙ قَالَ يٰقَوۡمِ
-  اَلَمۡ يَعِدۡكُمۡ رَبُّكُمۡ وَعۡدًا حَسَنًا  ۙ اَفَطَالَ عَلَيۡكُمُ الۡعَهۡدُ اَمۡ
-  اَرَدْتُّمۡ اَنۡ يَّحِلَّ عَلَيۡكُمۡ غَضَبٌ مِّنۡ رَّبِّكُمۡ فَاَخۡلَفۡتُمۡ مَّوۡعِدِىْ‏
+arabic_ayat: فَرَجَعَ مُوسَىٰٓ إِلَىٰ قَوۡمِهِۦ غَضۡبَٰنَ أَسِفٗاۚ قَالَ يَٰقَوۡمِ
+  أَلَمۡ يَعِدۡكُمۡ رَبُّكُمۡ وَعۡدًا حَسَنًاۚ أَفَطَالَ عَلَيۡكُمُ ٱلۡعَهۡدُ أَمۡ
+  أَرَدتُّمۡ أَن يَحِلَّ عَلَيۡكُمۡ غَضَبٞ مِّن رَّبِّكُمۡ فَأَخۡلَفۡتُم مَّوۡعِدِي
 sentence_translation: So Moses returned to his people, furious and sorrowful. He said,
   “O my people! Had your Lord not made you a good promise? Has my absence been too
   long for you? Or have you wished for wrath from your Lord to befall you, so you
@@ -12,23 +12,23 @@ word_by_word:
     translation: Then Musa returned
     transliteration: farajaʿa
   2:
-    arabic: مُوۡسَىٰۤ
+    arabic: مُوسَىٰٓ
     translation: Then Musa returned
     transliteration: mūsā
   3:
-    arabic: اِلٰى
+    arabic: إِلَىٰ
     translation: to
     transliteration: ilā
   4:
-    arabic: قَوۡمِهٖ
+    arabic: قَوۡمِهِۦ
     translation: his people
     transliteration: qawmihi
   5:
-    arabic: غَضۡبَانَ
+    arabic: غَضۡبَٰنَ
     translation: angry
     transliteration: ghaḍbāna
   6:
-    arabic: اَسِفًا  ۙ
+    arabic: أَسِفٗاۚ
     translation: (and) sorrowful
     transliteration: asifan
   7:
@@ -36,11 +36,11 @@ word_by_word:
     translation: He said
     transliteration: qāla
   8:
-    arabic: يٰقَوۡمِ
+    arabic: يَٰقَوۡمِ
     translation: O my people
     transliteration: yāqawmi
   9:
-    arabic: اَلَمۡ
+    arabic: أَلَمۡ
     translation: Did not
     transliteration: alam
   10:
@@ -56,11 +56,11 @@ word_by_word:
     translation: a promise
     transliteration: waʿdan
   13:
-    arabic: حَسَنًا  ۙ
+    arabic: حَسَنًاۚ
     translation: good
     transliteration: ḥasanan
   14:
-    arabic: اَفَطَالَ
+    arabic: أَفَطَالَ
     translation: Then, did seem long
     transliteration: afaṭāla
   15:
@@ -68,23 +68,23 @@ word_by_word:
     translation: to you
     transliteration: ʿalaykumu
   16:
-    arabic: الۡعَهۡدُ
+    arabic: ٱلۡعَهۡدُ
     translation: the promise
     transliteration: l-ʿahdu
   17:
-    arabic: اَمۡ
+    arabic: أَمۡ
     translation: or
     transliteration: am
   18:
-    arabic: اَرَدْتُّمۡ
+    arabic: أَرَدتُّمۡ
     translation: did you desire
     transliteration: aradttum
   19:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that
     transliteration: an
   20:
-    arabic: يَّحِلَّ
+    arabic: يَحِلَّ
     translation: descend
     transliteration: yaḥilla
   21:
@@ -92,11 +92,11 @@ word_by_word:
     translation: upon you
     transliteration: ʿalaykum
   22:
-    arabic: غَضَبٌ
+    arabic: غَضَبٞ
     translation: (the) Anger
     transliteration: ghaḍabun
   23:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: of
     transliteration: min
   24:
@@ -104,11 +104,11 @@ word_by_word:
     translation: your Lord
     transliteration: rabbikum
   25:
-    arabic: فَاَخۡلَفۡتُمۡ
+    arabic: فَأَخۡلَفۡتُم
     translation: so you broke
     transliteration: fa-akhlaftum
   26:
-    arabic: مَّوۡعِدِىْ‏
+    arabic: مَّوۡعِدِي
     translation: (the) promise to me
     transliteration: mawʿidī
 ---

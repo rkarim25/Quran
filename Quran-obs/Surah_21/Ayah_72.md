@@ -1,6 +1,6 @@
 ---
-arabic_ayat: وَوَهَبۡنَا لَهٗۤ اِسۡحٰقَ ؕ وَيَعۡقُوۡبَ نَافِلَةً​  ؕ وَكُلًّا جَعَلۡنَا
-  صٰلِحِيۡنَ‏
+arabic_ayat: وَوَهَبۡنَا لَهُۥٓ إِسۡحَٰقَ وَيَعۡقُوبَ نَافِلَةٗۖ وَكُلّٗا جَعَلۡنَا
+  صَٰلِحِينَ
 sentence_translation: And We blessed him with Isaac ˹as a son˺ and Jacob ˹as a grandson˺,
   as an additional favour—making all of them righteous.
 word_by_word:
@@ -9,23 +9,23 @@ word_by_word:
     translation: And We bestowed
     transliteration: wawahabnā
   2:
-    arabic: لَهٗۤ
+    arabic: لَهُۥٓ
     translation: on him
     transliteration: lahu
   3:
-    arabic: اِسۡحٰقَ ؕ
+    arabic: إِسۡحَٰقَ
     translation: Isaac
     transliteration: is'ḥāqa
   4:
-    arabic: وَيَعۡقُوۡبَ
+    arabic: وَيَعۡقُوبَ
     translation: and Yaqub
     transliteration: wayaʿqūba
   5:
-    arabic: نَافِلَةً​  ؕ
+    arabic: نَافِلَةٗۖ
     translation: (in) addition
     transliteration: nāfilatan
   6:
-    arabic: وَكُلًّا
+    arabic: وَكُلّٗا
     translation: and all
     transliteration: wakullan
   7:
@@ -33,7 +33,7 @@ word_by_word:
     translation: We made
     transliteration: jaʿalnā
   8:
-    arabic: صٰلِحِيۡنَ‏
+    arabic: صَٰلِحِينَ
     translation: righteous
     transliteration: ṣāliḥīna
 ---

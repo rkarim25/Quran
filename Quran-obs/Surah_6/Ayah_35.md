@@ -1,15 +1,14 @@
 ---
-arabic_ayat: "وَاِنۡ كَانَ كَبُرَ عَلَيۡكَ اِعۡرَاضُهُمۡ فَاِنِ اسۡتَطَعۡتَ اَنۡ تَبۡتَغِىَ\
-  \ نَفَقًا فِى الۡاَرۡضِ اَوۡ سُلَّمًا فِى السَّمَآءِ فَتَاۡتِيَهُمۡ بِاٰيَةٍ​ ؕ\
-  \ وَلَوۡ شَآءَ اللّٰهُ لَجَمَعَهُمۡ عَلَى الۡهُدٰى فَلَا تَكُوۡنَنَّ مِنَ الۡجٰهِلِيۡنَ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: وَإِن كَانَ كَبُرَ عَلَيۡكَ إِعۡرَاضُهُمۡ فَإِنِ ٱسۡتَطَعۡتَ أَن تَبۡتَغِيَ
+  نَفَقٗا فِي ٱلۡأَرۡضِ أَوۡ سُلَّمٗا فِي ٱلسَّمَآءِ فَتَأۡتِيَهُم بِـَٔايَةٖۚ وَلَوۡ
+  شَآءَ ٱللَّهُ لَجَمَعَهُمۡ عَلَى ٱلۡهُدَىٰۚ فَلَا تَكُونَنَّ مِنَ ٱلۡجَٰهِلِينَ
 sentence_translation: If you find their denial unbearable, then build—if you can—a
   tunnel through the earth or stairs to the sky to bring them a ˹more compelling˺
   sign. Had Allah so willed, He could have guided them all. So do not be one of those
   ignorant ˹of this fact˺.
 word_by_word:
   1:
-    arabic: وَاِنۡ
+    arabic: وَإِن
     translation: And if
     transliteration: wa-in
   2:
@@ -25,59 +24,59 @@ word_by_word:
     translation: for you
     transliteration: ʿalayka
   5:
-    arabic: اِعۡرَاضُهُمۡ
+    arabic: إِعۡرَاضُهُمۡ
     translation: their aversion
     transliteration: iʿ'rāḍuhum
   6:
-    arabic: فَاِنِ
+    arabic: فَإِنِ
     translation: then if
     transliteration: fa-ini
   7:
-    arabic: اسۡتَطَعۡتَ
+    arabic: ٱسۡتَطَعۡتَ
     translation: you are able
     transliteration: is'taṭaʿta
   8:
-    arabic: اَنۡ
+    arabic: أَن
     translation: to
     transliteration: an
   9:
-    arabic: تَبۡتَغِىَ
+    arabic: تَبۡتَغِيَ
     translation: seek
     transliteration: tabtaghiya
   10:
-    arabic: نَفَقًا
+    arabic: نَفَقٗا
     translation: a tunnel
     transliteration: nafaqan
   11:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   12:
-    arabic: الۡاَرۡضِ
+    arabic: ٱلۡأَرۡضِ
     translation: the earth
     transliteration: l-arḍi
   13:
-    arabic: اَوۡ
+    arabic: أَوۡ
     translation: or
     transliteration: aw
   14:
-    arabic: سُلَّمًا
+    arabic: سُلَّمٗا
     translation: a ladder
     transliteration: sullaman
   15:
-    arabic: فِى
+    arabic: فِي
     translation: into
     transliteration: fī
   16:
-    arabic: السَّمَآءِ
+    arabic: ٱلسَّمَآءِ
     translation: the sky
     transliteration: l-samāi
   17:
-    arabic: فَتَاۡتِيَهُمۡ
+    arabic: فَتَأۡتِيَهُم
     translation: so that you bring to them
     transliteration: fatatiyahum
   18:
-    arabic: بِاٰيَةٍ​ ؕ
+    arabic: بِـَٔايَةٖۚ
     translation: a Sign
     transliteration: biāyatin
   19:
@@ -89,7 +88,7 @@ word_by_word:
     translation: (had) willed
     transliteration: shāa
   21:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   22:
@@ -101,7 +100,7 @@ word_by_word:
     translation: 'on'
     transliteration: ʿalā
   24:
-    arabic: الۡهُدٰى
+    arabic: ٱلۡهُدَىٰۚ
     translation: the guidance
     transliteration: l-hudā
   25:
@@ -109,7 +108,7 @@ word_by_word:
     translation: So (do) not
     transliteration: falā
   26:
-    arabic: تَكُوۡنَنَّ
+    arabic: تَكُونَنَّ
     translation: be
     transliteration: takūnanna
   27:
@@ -117,7 +116,7 @@ word_by_word:
     translation: of
     transliteration: mina
   28:
-    arabic: "الۡجٰهِلِيۡنَ‏ \uFEFF\uFEFF"
+    arabic: ٱلۡجَٰهِلِينَ
     translation: the ignorant
     transliteration: l-jāhilīna
 ---

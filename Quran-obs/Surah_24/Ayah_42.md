@@ -1,11 +1,10 @@
 ---
-arabic_ayat: "وَلِلّٰهِ مُلۡكُ السَّمٰوٰتِ وَالۡاَرۡضِ​ۚ وَاِلَى اللّٰهِ الۡمَصِيۡرُ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: وَلِلَّهِ مُلۡكُ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِۖ وَإِلَى ٱللَّهِ ٱلۡمَصِيرُ
 sentence_translation: To Allah ˹alone˺ belongs the kingdom of the heavens and the
   earth. And to Allah is the final return.
 word_by_word:
   1:
-    arabic: وَلِلّٰهِ
+    arabic: وَلِلَّهِ
     translation: And to Allah (belongs)
     transliteration: walillahi
   2:
@@ -13,23 +12,23 @@ word_by_word:
     translation: (the) dominion
     transliteration: mul'ku
   3:
-    arabic: السَّمٰوٰتِ
+    arabic: ٱلسَّمَٰوَٰتِ
     translation: (of) the heavens
     transliteration: l-samāwāti
   4:
-    arabic: وَالۡاَرۡضِ​ۚ
+    arabic: وَٱلۡأَرۡضِۖ
     translation: and the earth
     transliteration: wal-arḍi
   5:
-    arabic: وَاِلَى
+    arabic: وَإِلَى
     translation: And to
     transliteration: wa-ilā
   6:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   7:
-    arabic: "الۡمَصِيۡرُ‏ \uFEFF\uFEFF"
+    arabic: ٱلۡمَصِيرُ
     translation: (is) the destination
     transliteration: l-maṣīru
 ---

@@ -1,5 +1,5 @@
 ---
-arabic_ayat: قُلۡ اِنِّىۡۤ اَخَافُ اِنۡ عَصَيۡتُ رَبِّىۡ عَذَابَ يَوۡمٍ عَظِيۡمٍ‏
+arabic_ayat: قُلۡ إِنِّيٓ أَخَافُ إِنۡ عَصَيۡتُ رَبِّي عَذَابَ يَوۡمٍ عَظِيمٖ
 sentence_translation: Say, “I truly fear—if I were to disobey my Lord—the torment
   of a tremendous Day.”
 word_by_word:
@@ -8,15 +8,15 @@ word_by_word:
     translation: Say
     transliteration: qul
   2:
-    arabic: اِنِّىۡۤ
+    arabic: إِنِّيٓ
     translation: Indeed, I
     transliteration: innī
   3:
-    arabic: اَخَافُ
+    arabic: أَخَافُ
     translation: '[I] fear'
     transliteration: akhāfu
   4:
-    arabic: اِنۡ
+    arabic: إِنۡ
     translation: if
     transliteration: in
   5:
@@ -24,7 +24,7 @@ word_by_word:
     translation: I disobey
     transliteration: ʿaṣaytu
   6:
-    arabic: رَبِّىۡ
+    arabic: رَبِّي
     translation: my Lord
     transliteration: rabbī
   7:
@@ -36,7 +36,7 @@ word_by_word:
     translation: (of) a Day
     transliteration: yawmin
   9:
-    arabic: عَظِيۡمٍ‏
+    arabic: عَظِيمٖ
     translation: great
     transliteration: ʿaẓīmin
 ---

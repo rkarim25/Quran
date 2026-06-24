@@ -1,9 +1,9 @@
 ---
-arabic_ayat: اِلٰى رَبِّكَ يَوۡمَٮِٕذِ اۨلۡمُسۡتَقَرُّ ؕ‏
+arabic_ayat: إِلَىٰ رَبِّكَ يَوۡمَئِذٍ ٱلۡمُسۡتَقَرُّ
 sentence_translation: On that Day all will end up before your Lord.
 word_by_word:
   1:
-    arabic: اِلٰى
+    arabic: إِلَىٰ
     translation: To
     transliteration: ilā
   2:
@@ -11,11 +11,11 @@ word_by_word:
     translation: your Lord
     transliteration: rabbika
   3:
-    arabic: يَوۡمَٮِٕذِ
+    arabic: يَوۡمَئِذٍ
     translation: that Day
     transliteration: yawma-idhin
   4:
-    arabic: اۨلۡمُسۡتَقَرُّ ؕ‏
+    arabic: ٱلۡمُسۡتَقَرُّ
     translation: (is) the place of rest
     transliteration: l-mus'taqaru
 ---

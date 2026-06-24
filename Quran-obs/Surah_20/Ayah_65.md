@@ -1,43 +1,43 @@
 ---
-arabic_ayat: قَالُوۡا يٰمُوۡسٰٓى اِمَّاۤ اَنۡ تُلۡقِىَ وَاِمَّاۤ اَنۡ نَّكُوۡنَ اَوَّلَ
-  مَنۡ اَلۡقٰى‏
+arabic_ayat: قَالُواْ يَٰمُوسَىٰٓ إِمَّآ أَن تُلۡقِيَ وَإِمَّآ أَن نَّكُونَ أَوَّلَ
+  مَنۡ أَلۡقَىٰ
 sentence_translation: They said, “O Moses! Either you cast, or let us be the first
   to cast.”
 word_by_word:
   1:
-    arabic: قَالُوۡا
+    arabic: قَالُواْ
     translation: They said
     transliteration: qālū
   2:
-    arabic: يٰمُوۡسٰٓى
+    arabic: يَٰمُوسَىٰٓ
     translation: O Musa
     transliteration: yāmūsā
   3:
-    arabic: اِمَّاۤ
+    arabic: إِمَّآ
     translation: Either
     transliteration: immā
   4:
-    arabic: اَنۡ
+    arabic: أَن
     translation: '[that]'
     transliteration: an
   5:
-    arabic: تُلۡقِىَ
+    arabic: تُلۡقِيَ
     translation: you throw
     transliteration: tul'qiya
   6:
-    arabic: وَاِمَّاۤ
+    arabic: وَإِمَّآ
     translation: or
     transliteration: wa-immā
   7:
-    arabic: اَنۡ
+    arabic: أَن
     translation: '[that]'
     transliteration: an
   8:
-    arabic: نَّكُوۡنَ
+    arabic: نَّكُونَ
     translation: we will be
     transliteration: nakūna
   9:
-    arabic: اَوَّلَ
+    arabic: أَوَّلَ
     translation: the first
     transliteration: awwala
   10:
@@ -45,7 +45,7 @@ word_by_word:
     translation: who
     transliteration: man
   11:
-    arabic: اَلۡقٰى‏
+    arabic: أَلۡقَىٰ
     translation: throws
     transliteration: alqā
 ---

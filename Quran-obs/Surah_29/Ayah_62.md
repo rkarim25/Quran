@@ -1,11 +1,11 @@
 ---
-arabic_ayat: اَللّٰهُ يَبۡسُطُ الرِّزۡقَ لِمَنۡ يَّشَآءُ مِنۡ عِبَادِهٖ وَيَقۡدِرُ
-  لَهٗ ؕ اِنَّ اللّٰهَ بِكُلِّ شَىۡءٍ عَلِيۡمٌ‏
+arabic_ayat: ٱللَّهُ يَبۡسُطُ ٱلرِّزۡقَ لِمَن يَشَآءُ مِنۡ عِبَادِهِۦ وَيَقۡدِرُ
+  لَهُۥٓۚ إِنَّ ٱللَّهَ بِكُلِّ شَيۡءٍ عَلِيمٞ
 sentence_translation: Allah gives abundant or limited provisions to whoever He wills
   of His servants. Surely Allah has ˹full˺ knowledge of everything.
 word_by_word:
   1:
-    arabic: اَللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: al-lahu
   2:
@@ -13,15 +13,15 @@ word_by_word:
     translation: extends
     transliteration: yabsuṭu
   3:
-    arabic: الرِّزۡقَ
+    arabic: ٱلرِّزۡقَ
     translation: the provision
     transliteration: l-riz'qa
   4:
-    arabic: لِمَنۡ
+    arabic: لِمَن
     translation: for whom
     transliteration: liman
   5:
-    arabic: يَّشَآءُ
+    arabic: يَشَآءُ
     translation: He wills
     transliteration: yashāu
   6:
@@ -29,7 +29,7 @@ word_by_word:
     translation: of
     transliteration: min
   7:
-    arabic: عِبَادِهٖ
+    arabic: عِبَادِهِۦ
     translation: His slaves
     transliteration: ʿibādihi
   8:
@@ -37,15 +37,15 @@ word_by_word:
     translation: and restricts
     transliteration: wayaqdiru
   9:
-    arabic: لَهٗ ؕ
+    arabic: لَهُۥٓۚ
     translation: for him
     transliteration: lahu
   10:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   11:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   12:
@@ -53,11 +53,11 @@ word_by_word:
     translation: of every
     transliteration: bikulli
   13:
-    arabic: شَىۡءٍ
+    arabic: شَيۡءٍ
     translation: thing
     transliteration: shayin
   14:
-    arabic: عَلِيۡمٌ‏
+    arabic: عَلِيمٞ
     translation: (is) All-Knower
     transliteration: ʿalīmun
 ---

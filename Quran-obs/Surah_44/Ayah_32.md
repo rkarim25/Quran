@@ -1,5 +1,5 @@
 ---
-arabic_ayat: وَلَقَدِ اخۡتَرۡنٰهُمۡ عَلٰى عِلۡمٍ عَلَى الۡعٰلَمِيۡنَ​ۚ‏
+arabic_ayat: وَلَقَدِ ٱخۡتَرۡنَٰهُمۡ عَلَىٰ عِلۡمٍ عَلَى ٱلۡعَٰلَمِينَ
 sentence_translation: And indeed, We chose the Israelites knowingly above the others.
 word_by_word:
   1:
@@ -7,11 +7,11 @@ word_by_word:
     translation: And certainly
     transliteration: walaqadi
   2:
-    arabic: اخۡتَرۡنٰهُمۡ
+    arabic: ٱخۡتَرۡنَٰهُمۡ
     translation: We chose them
     transliteration: ikh'tarnāhum
   3:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: by
     transliteration: ʿalā
   4:
@@ -23,7 +23,7 @@ word_by_word:
     translation: over
     transliteration: ʿalā
   6:
-    arabic: الۡعٰلَمِيۡنَ​ۚ‏
+    arabic: ٱلۡعَٰلَمِينَ
     translation: the worlds
     transliteration: l-ʿālamīna
 ---

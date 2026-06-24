@@ -1,6 +1,6 @@
 ---
-arabic_ayat: لِيُكَفِّرَ اللّٰهُ عَنۡهُمۡ اَسۡوَاَ الَّذِىۡ عَمِلُوۡا وَيَجۡزِيَهُمۡ
-  اَجۡرَهُمۡ بِاَحۡسَنِ الَّذِىۡ كَانُوۡا يَعۡمَلُوۡنَ‏
+arabic_ayat: لِيُكَفِّرَ ٱللَّهُ عَنۡهُمۡ أَسۡوَأَ ٱلَّذِي عَمِلُواْ وَيَجۡزِيَهُمۡ
+  أَجۡرَهُم بِأَحۡسَنِ ٱلَّذِي كَانُواْ يَعۡمَلُونَ
 sentence_translation: As such, Allah will absolve them of ˹even˺ the worst of what
   they did and reward them according to the best of what they used to do.
 word_by_word:
@@ -9,7 +9,7 @@ word_by_word:
     translation: That Allah will remove
     transliteration: liyukaffira
   2:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: That Allah will remove
     transliteration: l-lahu
   3:
@@ -17,15 +17,15 @@ word_by_word:
     translation: from them
     transliteration: ʿanhum
   4:
-    arabic: اَسۡوَاَ
+    arabic: أَسۡوَأَ
     translation: (the) worst
     transliteration: aswa-a
   5:
-    arabic: الَّذِىۡ
+    arabic: ٱلَّذِي
     translation: (of) what
     transliteration: alladhī
   6:
-    arabic: عَمِلُوۡا
+    arabic: عَمِلُواْ
     translation: they did
     transliteration: ʿamilū
   7:
@@ -33,23 +33,23 @@ word_by_word:
     translation: and reward them
     transliteration: wayajziyahum
   8:
-    arabic: اَجۡرَهُمۡ
+    arabic: أَجۡرَهُم
     translation: their due
     transliteration: ajrahum
   9:
-    arabic: بِاَحۡسَنِ
+    arabic: بِأَحۡسَنِ
     translation: for (the) best
     transliteration: bi-aḥsani
   10:
-    arabic: الَّذِىۡ
+    arabic: ٱلَّذِي
     translation: (of) what
     transliteration: alladhī
   11:
-    arabic: كَانُوۡا
+    arabic: كَانُواْ
     translation: they used to
     transliteration: kānū
   12:
-    arabic: يَعۡمَلُوۡنَ‏
+    arabic: يَعۡمَلُونَ
     translation: do
     transliteration: yaʿmalūna
 ---

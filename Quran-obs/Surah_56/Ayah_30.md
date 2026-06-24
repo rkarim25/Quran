@@ -1,13 +1,13 @@
 ---
-arabic_ayat: وَّظِلٍّ مَّمۡدُوۡدٍۙ‏
+arabic_ayat: وَظِلّٖ مَّمۡدُودٖ
 sentence_translation: extended shade,
 word_by_word:
   1:
-    arabic: وَّظِلٍّ
+    arabic: وَظِلّٖ
     translation: And shade
     transliteration: waẓillin
   2:
-    arabic: مَّمۡدُوۡدٍۙ‏
+    arabic: مَّمۡدُودٖ
     translation: extended
     transliteration: mamdūdin
 ---

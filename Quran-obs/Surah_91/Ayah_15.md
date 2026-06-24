@@ -1,5 +1,5 @@
 ---
-arabic_ayat: وَلَا يَخَافُ عُقۡبٰهَا‏
+arabic_ayat: وَلَا يَخَافُ عُقۡبَٰهَا
 sentence_translation: He has no fear of consequences.
 word_by_word:
   1:
@@ -11,7 +11,7 @@ word_by_word:
     translation: He fears
     transliteration: yakhāfu
   3:
-    arabic: عُقۡبٰهَا‏
+    arabic: عُقۡبَٰهَا
     translation: its consequences
     transliteration: ʿuq'bāhā
 ---

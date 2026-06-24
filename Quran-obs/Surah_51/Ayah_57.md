@@ -1,42 +1,41 @@
 ---
-arabic_ayat: "مَاۤ اُرِيۡدُ مِنۡهُمۡ مِّنۡ رِّزۡقٍ وَّمَاۤ اُرِيۡدُ اَنۡ يُّطۡعِمُوۡنِ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: مَآ أُرِيدُ مِنۡهُم مِّن رِّزۡقٖ وَمَآ أُرِيدُ أَن يُطۡعِمُونِ
 sentence_translation: I seek no provision from them, nor do I need them to feed Me.
 word_by_word:
   1:
-    arabic: مَاۤ
+    arabic: مَآ
     translation: Not
     transliteration: mā
   2:
-    arabic: اُرِيۡدُ
+    arabic: أُرِيدُ
     translation: I want
     transliteration: urīdu
   3:
-    arabic: مِنۡهُمۡ
+    arabic: مِنۡهُم
     translation: from them
     transliteration: min'hum
   4:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: any
     transliteration: min
   5:
-    arabic: رِّزۡقٍ
+    arabic: رِّزۡقٖ
     translation: provision
     transliteration: riz'qin
   6:
-    arabic: وَّمَاۤ
+    arabic: وَمَآ
     translation: and not
     transliteration: wamā
   7:
-    arabic: اُرِيۡدُ
+    arabic: أُرِيدُ
     translation: I want
     transliteration: urīdu
   8:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that
     transliteration: an
   9:
-    arabic: "يُّطۡعِمُوۡنِ‏ \uFEFF\uFEFF"
+    arabic: يُطۡعِمُونِ
     translation: they (should) feed Me
     transliteration: yuṭ'ʿimūni
 ---

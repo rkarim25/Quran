@@ -1,60 +1,60 @@
 ---
-arabic_ayat: مُّذَبۡذَبِيۡنَ بَيۡنَ ​ ۖ ذٰ لِكَ لَاۤ اِلٰى هٰٓؤُلَاۤءِ وَلَاۤ اِلٰى
-  هٰٓؤُلَاۤءِ​ ؕ وَمَنۡ يُّضۡلِلِ اللّٰهُ فَلَنۡ تَجِدَ لَهٗ سَبِيۡلًا‏
+arabic_ayat: مُّذَبۡذَبِينَ بَيۡنَ ذَٰلِكَ لَآ إِلَىٰ هَٰٓؤُلَآءِ وَلَآ إِلَىٰ
+  هَٰٓؤُلَآءِۚ وَمَن يُضۡلِلِ ٱللَّهُ فَلَن تَجِدَ لَهُۥ سَبِيلٗا
 sentence_translation: Torn between belief and disbelief—belonging neither to these
   ˹believers˺ nor those ˹disbelievers˺. And whoever Allah leaves to stray, you will
   never find for them a way.
 word_by_word:
   1:
-    arabic: مُّذَبۡذَبِيۡنَ
+    arabic: مُّذَبۡذَبِينَ
     translation: Wavering
     transliteration: mudhabdhabīna
   2:
-    arabic: بَيۡنَ ​ ۖ
+    arabic: بَيۡنَ
     translation: between
     transliteration: bayna
   3:
-    arabic: ذٰ لِكَ
+    arabic: ذَٰلِكَ
     translation: that
     transliteration: dhālika
   4:
-    arabic: لَاۤ
+    arabic: لَآ
     translation: not
     transliteration: lā
   5:
-    arabic: اِلٰى
+    arabic: إِلَىٰ
     translation: to
     transliteration: ilā
   6:
-    arabic: هٰٓؤُلَاۤءِ
+    arabic: هَٰٓؤُلَآءِ
     translation: these
     transliteration: hāulāi
   7:
-    arabic: وَلَاۤ
+    arabic: وَلَآ
     translation: and not
     transliteration: walā
   8:
-    arabic: اِلٰى
+    arabic: إِلَىٰ
     translation: to
     transliteration: ilā
   9:
-    arabic: هٰٓؤُلَاۤءِ​ ؕ
+    arabic: هَٰٓؤُلَآءِۚ
     translation: those
     transliteration: hāulāi
   10:
-    arabic: وَمَنۡ
+    arabic: وَمَن
     translation: And whoever
     transliteration: waman
   11:
-    arabic: يُّضۡلِلِ
+    arabic: يُضۡلِلِ
     translation: has been lead astray
     transliteration: yuḍ'lili
   12:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: '(by) Allah '
     transliteration: l-lahu
   13:
-    arabic: فَلَنۡ
+    arabic: فَلَن
     translation: then never
     transliteration: falan
   14:
@@ -62,11 +62,11 @@ word_by_word:
     translation: you will find
     transliteration: tajida
   15:
-    arabic: لَهٗ
+    arabic: لَهُۥ
     translation: for him
     transliteration: lahu
   16:
-    arabic: سَبِيۡلًا‏
+    arabic: سَبِيلٗا
     translation: a way
     transliteration: sabīlan
 ---

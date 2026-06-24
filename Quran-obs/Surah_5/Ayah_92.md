@@ -1,31 +1,31 @@
 ---
-arabic_ayat: وَاَطِيۡعُوا اللّٰهَ وَاَطِيۡعُوا الرَّسُوۡلَ وَاحۡذَرُوۡا​ ۚ فَاِنۡ
-  تَوَلَّيۡتُمۡ فَاعۡلَمُوۡۤا اَنَّمَا عَلٰى رَسُوۡلِنَا الۡبَلٰغُ الۡمُبِيۡنُ‏
+arabic_ayat: وَأَطِيعُواْ ٱللَّهَ وَأَطِيعُواْ ٱلرَّسُولَ وَٱحۡذَرُواْۚ فَإِن تَوَلَّيۡتُمۡ
+  فَٱعۡلَمُوٓاْ أَنَّمَا عَلَىٰ رَسُولِنَا ٱلۡبَلَٰغُ ٱلۡمُبِينُ
 sentence_translation: Obey Allah and obey the Messenger and beware! But if you turn
   away, then know that Our Messenger’s duty is only to deliver ˹the message˺ clearly.
 word_by_word:
   1:
-    arabic: وَاَطِيۡعُوا
+    arabic: وَأَطِيعُواْ
     translation: And obey
     transliteration: wa-aṭīʿū
   2:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   3:
-    arabic: وَاَطِيۡعُوا
+    arabic: وَأَطِيعُواْ
     translation: and obey
     transliteration: wa-aṭīʿū
   4:
-    arabic: الرَّسُوۡلَ
+    arabic: ٱلرَّسُولَ
     translation: the Messenger
     transliteration: l-rasūla
   5:
-    arabic: وَاحۡذَرُوۡا​ ۚ
+    arabic: وَٱحۡذَرُواْۚ
     translation: and beware
     transliteration: wa-iḥ'dharū
   6:
-    arabic: فَاِنۡ
+    arabic: فَإِن
     translation: And if
     transliteration: fa-in
   7:
@@ -33,27 +33,27 @@ word_by_word:
     translation: you turn away
     transliteration: tawallaytum
   8:
-    arabic: فَاعۡلَمُوۡۤا
+    arabic: فَٱعۡلَمُوٓاْ
     translation: then know
     transliteration: fa-iʿ'lamū
   9:
-    arabic: اَنَّمَا
+    arabic: أَنَّمَا
     translation: only
     transliteration: annamā
   10:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: upon
     transliteration: ʿalā
   11:
-    arabic: رَسُوۡلِنَا
+    arabic: رَسُولِنَا
     translation: Our Messenger
     transliteration: rasūlinā
   12:
-    arabic: الۡبَلٰغُ
+    arabic: ٱلۡبَلَٰغُ
     translation: (is to) convey (the Message)
     transliteration: l-balāghu
   13:
-    arabic: الۡمُبِيۡنُ‏
+    arabic: ٱلۡمُبِينُ
     translation: clearly
     transliteration: l-mubīnu
 ---

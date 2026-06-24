@@ -1,21 +1,21 @@
 ---
-arabic_ayat: اِنَّ الۡاَبۡرَارَ لَفِىۡ نَعِيۡمٍۚ‏
+arabic_ayat: إِنَّ ٱلۡأَبۡرَارَ لَفِي نَعِيمٖ
 sentence_translation: Indeed, the virtuous will be in bliss,
 word_by_word:
   1:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   2:
-    arabic: الۡاَبۡرَارَ
+    arabic: ٱلۡأَبۡرَارَ
     translation: the righteous
     transliteration: l-abrāra
   3:
-    arabic: لَفِىۡ
+    arabic: لَفِي
     translation: (will be) surely in
     transliteration: lafī
   4:
-    arabic: نَعِيۡمٍۚ‏
+    arabic: نَعِيمٖ
     translation: bliss
     transliteration: naʿīmin
 ---

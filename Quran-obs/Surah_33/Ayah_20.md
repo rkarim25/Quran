@@ -1,18 +1,18 @@
 ---
-arabic_ayat: يَحۡسَبُوۡنَ الۡاَحۡزَابَ لَمۡ يَذۡهَبُوۡا​ ۚ وَاِنۡ يَّاۡتِ الۡاَحۡزَابُ
-  يَوَدُّوۡا لَوۡ اَنَّهُمۡ بَادُوۡنَ فِى الۡاَعۡرَابِ يَسۡـاَ لُوۡنَ عَنۡ اَنۡۢبَآٮِٕكُمۡ​
-  ؕ وَلَوۡ كَانُوۡا فِيۡكُمۡ مَّا قٰتَلُوۡۤا اِلَّا قَلِيۡلًا‏
+arabic_ayat: يَحۡسَبُونَ ٱلۡأَحۡزَابَ لَمۡ يَذۡهَبُواْۖ وَإِن يَأۡتِ ٱلۡأَحۡزَابُ
+  يَوَدُّواْ لَوۡ أَنَّهُم بَادُونَ فِي ٱلۡأَعۡرَابِ يَسۡـَٔلُونَ عَنۡ أَنۢبَآئِكُمۡۖ
+  وَلَوۡ كَانُواْ فِيكُم مَّا قَٰتَلُوٓاْ إِلَّا قَلِيلٗا
 sentence_translation: They ˹still˺ think that the enemy alliance has not ˹yet˺ withdrawn.
   And if the allies were to come ˹again˺, the hypocrites would wish to be away in
   the desert among nomadic Arabs, ˹only˺ asking for news about you ˹believers˺. And
   if the hypocrites were in your midst, they would hardly take part in the fight.
 word_by_word:
   1:
-    arabic: يَحۡسَبُوۡنَ
+    arabic: يَحۡسَبُونَ
     translation: They think
     transliteration: yaḥsabūna
   2:
-    arabic: الۡاَحۡزَابَ
+    arabic: ٱلۡأَحۡزَابَ
     translation: the confederates
     transliteration: l-aḥzāba
   3:
@@ -20,23 +20,23 @@ word_by_word:
     translation: (have) not
     transliteration: lam
   4:
-    arabic: يَذۡهَبُوۡا​ ۚ
+    arabic: يَذۡهَبُواْۖ
     translation: withdrawn
     transliteration: yadhhabū
   5:
-    arabic: وَاِنۡ
+    arabic: وَإِن
     translation: And if
     transliteration: wa-in
   6:
-    arabic: يَّاۡتِ
+    arabic: يَأۡتِ
     translation: (should) come
     transliteration: yati
   7:
-    arabic: الۡاَحۡزَابُ
+    arabic: ٱلۡأَحۡزَابُ
     translation: the confederates
     transliteration: l-aḥzābu
   8:
-    arabic: يَوَدُّوۡا
+    arabic: يَوَدُّواْ
     translation: they would wish
     transliteration: yawaddū
   9:
@@ -44,23 +44,23 @@ word_by_word:
     translation: if
     transliteration: law
   10:
-    arabic: اَنَّهُمۡ
+    arabic: أَنَّهُم
     translation: that they (were)
     transliteration: annahum
   11:
-    arabic: بَادُوۡنَ
+    arabic: بَادُونَ
     translation: living in (the) desert
     transliteration: bādūna
   12:
-    arabic: فِى
+    arabic: فِي
     translation: among
     transliteration: fī
   13:
-    arabic: الۡاَعۡرَابِ
+    arabic: ٱلۡأَعۡرَابِ
     translation: the Bedouins
     transliteration: l-aʿrābi
   14:
-    arabic: يَسۡـاَ لُوۡنَ
+    arabic: يَسۡـَٔلُونَ
     translation: asking
     transliteration: yasalūna
   15:
@@ -68,7 +68,7 @@ word_by_word:
     translation: about
     transliteration: ʿan
   16:
-    arabic: اَنۡۢبَآٮِٕكُمۡ​ ؕ
+    arabic: أَنۢبَآئِكُمۡۖ
     translation: your news
     transliteration: anbāikum
   17:
@@ -76,11 +76,11 @@ word_by_word:
     translation: And if
     transliteration: walaw
   18:
-    arabic: كَانُوۡا
+    arabic: كَانُواْ
     translation: they were
     transliteration: kānū
   19:
-    arabic: فِيۡكُمۡ
+    arabic: فِيكُم
     translation: among you
     transliteration: fīkum
   20:
@@ -88,15 +88,15 @@ word_by_word:
     translation: not
     transliteration: mā
   21:
-    arabic: قٰتَلُوۡۤا
+    arabic: قَٰتَلُوٓاْ
     translation: they would fight
     transliteration: qātalū
   22:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   23:
-    arabic: قَلِيۡلًا‏
+    arabic: قَلِيلٗا
     translation: a little
     transliteration: qalīlan
 ---

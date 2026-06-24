@@ -1,17 +1,17 @@
 ---
-arabic_ayat: كَاَنَّهٗ جِمٰلَتٌ صُفۡرٌ ؕ‏
+arabic_ayat: كَأَنَّهُۥ جِمَٰلَتٞ صُفۡرٞ
 sentence_translation: and ˹as dark˺ as black camels.”
 word_by_word:
   1:
-    arabic: كَاَنَّهٗ
+    arabic: كَأَنَّهُۥ
     translation: As if they (were)
     transliteration: ka-annahu
   2:
-    arabic: جِمٰلَتٌ
+    arabic: جِمَٰلَتٞ
     translation: camels
     transliteration: jimālatun
   3:
-    arabic: صُفۡرٌ ؕ‏
+    arabic: صُفۡرٞ
     translation: yellow
     transliteration: ṣuf'run
 ---

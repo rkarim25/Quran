@@ -1,13 +1,12 @@
 ---
-arabic_ayat: "وَوَصّٰى بِهَآ اِبۡرٰهٖمُ بَنِيۡهِ وَ يَعۡقُوۡبُؕ يٰبَنِىَّ اِنَّ اللّٰهَ\
-  \ اصۡطَفٰى لَـكُمُ الدِّيۡنَ فَلَا تَمُوۡتُنَّ اِلَّا وَاَنۡـتُمۡ مُّسۡلِمُوۡنَؕ‏‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: وَوَصَّىٰ بِهَآ إِبۡرَٰهِـۧمُ بَنِيهِ وَيَعۡقُوبُ يَٰبَنِيَّ إِنَّ ٱللَّهَ
+  ٱصۡطَفَىٰ لَكُمُ ٱلدِّينَ فَلَا تَمُوتُنَّ إِلَّا وَأَنتُم مُّسۡلِمُونَ
 sentence_translation: This was the advice of Abraham—as well as Jacob—to his children,
   ˹saying˺, “Indeed, Allah has chosen for you this faith; so do not die except in
   ˹a state of full˺ submission.”
 word_by_word:
   1:
-    arabic: وَوَصّٰى
+    arabic: وَوَصَّىٰ
     translation: And enjoined
     transliteration: wawaṣṣā
   2:
@@ -15,39 +14,39 @@ word_by_word:
     translation: '[it]'
     transliteration: bihā
   3:
-    arabic: اِبۡرٰهٖمُ
+    arabic: إِبۡرَٰهِـۧمُ
     translation: Ibrahim
     transliteration: ib'rāhīmu
   4:
-    arabic: بَنِيۡهِ
+    arabic: بَنِيهِ
     translation: (upon) his sons
     transliteration: banīhi
   5:
-    arabic: وَ يَعۡقُوۡبُؕ
+    arabic: وَيَعۡقُوبُ
     translation: and Yaqub
     transliteration: wayaʿqūbu
   6:
-    arabic: يٰبَنِىَّ
+    arabic: يَٰبَنِيَّ
     translation: O my sons
     transliteration: yābaniyya
   7:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   8:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   9:
-    arabic: اصۡطَفٰى
+    arabic: ٱصۡطَفَىٰ
     translation: has chosen
     transliteration: iṣ'ṭafā
   10:
-    arabic: لَـكُمُ
+    arabic: لَكُمُ
     translation: for you
     transliteration: lakumu
   11:
-    arabic: الدِّيۡنَ
+    arabic: ٱلدِّينَ
     translation: the religion
     transliteration: l-dīna
   12:
@@ -55,19 +54,19 @@ word_by_word:
     translation: so not
     transliteration: falā
   13:
-    arabic: تَمُوۡتُنَّ
+    arabic: تَمُوتُنَّ
     translation: (should) you die
     transliteration: tamūtunna
   14:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   15:
-    arabic: وَاَنۡـتُمۡ
+    arabic: وَأَنتُم
     translation: while you
     transliteration: wa-antum
   16:
-    arabic: "مُّسۡلِمُوۡنَؕ‏‏ \uFEFF\uFEFF"
+    arabic: مُّسۡلِمُونَ
     translation: (are) submissive
     transliteration: mus'limūna
 ---

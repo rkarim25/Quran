@@ -1,8 +1,8 @@
 ---
-arabic_ayat: وَلَا تُؤۡمِنُوۡۤا اِلَّا لِمَنۡ تَبِعَ دِيۡنَكُمۡؕ قُلۡ اِنَّ الۡهُدٰى
-  هُدَى اللّٰهِۙ اَنۡ يُّؤۡتٰٓى اَحَدٌ مِّثۡلَ مَاۤ اُوۡتِيۡتُمۡ اَوۡ يُحَآجُّوۡكُمۡ
-  عِنۡدَ رَبِّكُمۡ​ؕ قُلۡ اِنَّ الۡفَضۡلَ بِيَدِ اللّٰهِۚ يُؤۡتِيۡهِ مَنۡ يَّشَآءُ ​ؕ
-  وَاللّٰهُ وَاسِعٌ عَلِيۡمٌ ۚۙ‏
+arabic_ayat: وَلَا تُؤۡمِنُوٓاْ إِلَّا لِمَن تَبِعَ دِينَكُمۡ قُلۡ إِنَّ ٱلۡهُدَىٰ
+  هُدَى ٱللَّهِ أَن يُؤۡتَىٰٓ أَحَدٞ مِّثۡلَ مَآ أُوتِيتُمۡ أَوۡ يُحَآجُّوكُمۡ عِندَ
+  رَبِّكُمۡۗ قُلۡ إِنَّ ٱلۡفَضۡلَ بِيَدِ ٱللَّهِ يُؤۡتِيهِ مَن يَشَآءُۗ وَٱللَّهُ
+  وَٰسِعٌ عَلِيمٞ
 sentence_translation: And only believe those who follow your religion.” Say, ˹O Prophet,˺
   “Surely, ˹the only˺ true guidance is Allah’s guidance.” ˹They also said,˺ “Do not
   believe that someone will receive ˹revealed˺ knowledge similar to yours or argue
@@ -14,15 +14,15 @@ word_by_word:
     translation: And (do) not
     transliteration: walā
   2:
-    arabic: تُؤۡمِنُوۡۤا
+    arabic: تُؤۡمِنُوٓاْ
     translation: believe
     transliteration: tu'minū
   3:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   4:
-    arabic: لِمَنۡ
+    arabic: لِمَن
     translation: (the one) who
     transliteration: liman
   5:
@@ -30,7 +30,7 @@ word_by_word:
     translation: follows
     transliteration: tabiʿa
   6:
-    arabic: دِيۡنَكُمۡؕ
+    arabic: دِينَكُمۡ
     translation: your religion
     transliteration: dīnakum
   7:
@@ -38,11 +38,11 @@ word_by_word:
     translation: Say
     transliteration: qul
   8:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   9:
-    arabic: الۡهُدٰى
+    arabic: ٱلۡهُدَىٰ
     translation: the (true) guidance
     transliteration: l-hudā
   10:
@@ -50,19 +50,19 @@ word_by_word:
     translation: (is the) Guidance
     transliteration: hudā
   11:
-    arabic: اللّٰهِۙ
+    arabic: ٱللَّهِ
     translation: '(of) Allah '
     transliteration: l-lahi
   12:
-    arabic: اَنۡ
+    arabic: أَن
     translation: lest
     transliteration: an
   13:
-    arabic: يُّؤۡتٰٓى
+    arabic: يُؤۡتَىٰٓ
     translation: is given
     transliteration: yu'tā
   14:
-    arabic: اَحَدٌ
+    arabic: أَحَدٞ
     translation: '(to) one '
     transliteration: aḥadun
   15:
@@ -70,27 +70,27 @@ word_by_word:
     translation: (the) like
     transliteration: mith'la
   16:
-    arabic: مَاۤ
+    arabic: مَآ
     translation: (of) what
     transliteration: mā
   17:
-    arabic: اُوۡتِيۡتُمۡ
+    arabic: أُوتِيتُمۡ
     translation: was given to you
     transliteration: ūtītum
   18:
-    arabic: اَوۡ
+    arabic: أَوۡ
     translation: or
     transliteration: aw
   19:
-    arabic: يُحَآجُّوۡكُمۡ
+    arabic: يُحَآجُّوكُمۡ
     translation: they may argue with you
     transliteration: yuḥājjūkum
   20:
-    arabic: عِنۡدَ
+    arabic: عِندَ
     translation: near
     transliteration: ʿinda
   21:
-    arabic: رَبِّكُمۡ​ؕ
+    arabic: رَبِّكُمۡۗ
     translation: your Lord
     transliteration: rabbikum
   22:
@@ -98,11 +98,11 @@ word_by_word:
     translation: Say
     transliteration: qul
   23:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   24:
-    arabic: الۡفَضۡلَ
+    arabic: ٱلۡفَضۡلَ
     translation: the Bounty
     transliteration: l-faḍla
   25:
@@ -110,31 +110,31 @@ word_by_word:
     translation: (is) in the Hand
     transliteration: biyadi
   26:
-    arabic: اللّٰهِۚ
+    arabic: ٱللَّهِ
     translation: (of) Allah
     transliteration: l-lahi
   27:
-    arabic: يُؤۡتِيۡهِ
+    arabic: يُؤۡتِيهِ
     translation: He gives it
     transliteration: yu'tīhi
   28:
-    arabic: مَنۡ
+    arabic: مَن
     translation: (to) whom
     transliteration: man
   29:
-    arabic: يَّشَآءُ ​ؕ
+    arabic: يَشَآءُۗ
     translation: He wills
     transliteration: yashāu
   30:
-    arabic: وَاللّٰهُ
+    arabic: وَٱللَّهُ
     translation: and Allah
     transliteration: wal-lahu
   31:
-    arabic: وَاسِعٌ
+    arabic: وَٰسِعٌ
     translation: (is) All-Encompassing
     transliteration: wāsiʿun
   32:
-    arabic: عَلِيۡمٌ ۚۙ‏
+    arabic: عَلِيمٞ
     translation: All-Knowing
     transliteration: ʿalīmun
 ---

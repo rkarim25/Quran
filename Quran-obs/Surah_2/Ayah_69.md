@@ -1,16 +1,15 @@
 ---
-arabic_ayat: "قَالُوا ادۡعُ لَنَا رَبَّكَ يُبَيِّنۡ لَّنَا مَا لَوۡنُهَا ​ؕ قَالَ\
-  \ اِنَّهٗ يَقُوۡلُ اِنَّهَا بَقَرَةٌ صَفۡرَآءُۙ فَاقِعٌ لَّوۡنُهَا تَسُرُّ النّٰظِرِيۡنَ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: قَالُواْ ٱدۡعُ لَنَا رَبَّكَ يُبَيِّن لَّنَا مَا لَوۡنُهَاۚ قَالَ إِنَّهُۥ
+  يَقُولُ إِنَّهَا بَقَرَةٞ صَفۡرَآءُ فَاقِعٞ لَّوۡنُهَا تَسُرُّ ٱلنَّٰظِرِينَ
 sentence_translation: They said, “Call upon your Lord to specify for us its colour.”
   He replied, “Allah says, ‘It should be a bright yellow cow—pleasant to see.’”
 word_by_word:
   1:
-    arabic: قَالُوا
+    arabic: قَالُواْ
     translation: They said
     transliteration: qālū
   2:
-    arabic: ادۡعُ
+    arabic: ٱدۡعُ
     translation: Pray
     transliteration: ud'ʿu
   3:
@@ -22,7 +21,7 @@ word_by_word:
     translation: (to) your Lord
     transliteration: rabbaka
   5:
-    arabic: يُبَيِّنۡ
+    arabic: يُبَيِّن
     translation: to make clear
     transliteration: yubayyin
   6:
@@ -34,7 +33,7 @@ word_by_word:
     translation: what
     transliteration: mā
   8:
-    arabic: لَوۡنُهَا ​ؕ
+    arabic: لَوۡنُهَاۚ
     translation: (is) its color
     transliteration: lawnuhā
   9:
@@ -42,27 +41,27 @@ word_by_word:
     translation: He said
     transliteration: qāla
   10:
-    arabic: اِنَّهٗ
+    arabic: إِنَّهُۥ
     translation: Indeed, He
     transliteration: innahu
   11:
-    arabic: يَقُوۡلُ
+    arabic: يَقُولُ
     translation: says
     transliteration: yaqūlu
   12:
-    arabic: اِنَّهَا
+    arabic: إِنَّهَا
     translation: '''[Indeed] it is'
     transliteration: innahā
   13:
-    arabic: بَقَرَةٌ
+    arabic: بَقَرَةٞ
     translation: a cow
     transliteration: baqaratun
   14:
-    arabic: صَفۡرَآءُۙ
+    arabic: صَفۡرَآءُ
     translation: yellow
     transliteration: ṣafrāu
   15:
-    arabic: فَاقِعٌ
+    arabic: فَاقِعٞ
     translation: bright
     transliteration: fāqiʿun
   16:
@@ -74,7 +73,7 @@ word_by_word:
     translation: pleasing
     transliteration: tasurru
   18:
-    arabic: "النّٰظِرِيۡنَ‏ \uFEFF\uFEFF"
+    arabic: ٱلنَّٰظِرِينَ
     translation: (to) those who see (it).'
     transliteration: l-nāẓirīna
 ---

@@ -1,17 +1,16 @@
 ---
-arabic_ayat: "قَالُوۡا يٰشُعَيۡبُ مَا نَفۡقَهُ كَثِيۡرًا مِّمَّا تَقُوۡلُ وَاِنَّا\
-  \ لَـنَرٰٮكَ فِيۡنَا ضَعِيۡفًا​ ۚ وَلَوۡلَا رَهۡطُكَ لَرَجَمۡنٰكَ​ وَمَاۤ اَنۡتَ\
-  \ عَلَيۡنَا بِعَزِيۡزٍ‏ \uFEFF\uFEFF"
+arabic_ayat: قَالُواْ يَٰشُعَيۡبُ مَا نَفۡقَهُ كَثِيرٗا مِّمَّا تَقُولُ وَإِنَّا لَنَرَىٰكَ
+  فِينَا ضَعِيفٗاۖ وَلَوۡلَا رَهۡطُكَ لَرَجَمۡنَٰكَۖ وَمَآ أَنتَ عَلَيۡنَا بِعَزِيزٖ
 sentence_translation: They threatened, “O Shu’aib! We do not comprehend much of what
   you say, and surely we see you powerless among us. Were it not for your clan, we
   would have certainly stoned you, for you are nothing to us.”
 word_by_word:
   1:
-    arabic: قَالُوۡا
+    arabic: قَالُواْ
     translation: They said
     transliteration: qālū
   2:
-    arabic: يٰشُعَيۡبُ
+    arabic: يَٰشُعَيۡبُ
     translation: O Shuaib
     transliteration: yāshuʿaybu
   3:
@@ -23,7 +22,7 @@ word_by_word:
     translation: we understand
     transliteration: nafqahu
   5:
-    arabic: كَثِيۡرًا
+    arabic: كَثِيرٗا
     translation: much
     transliteration: kathīran
   6:
@@ -31,23 +30,23 @@ word_by_word:
     translation: of what
     transliteration: mimmā
   7:
-    arabic: تَقُوۡلُ
+    arabic: تَقُولُ
     translation: you say
     transliteration: taqūlu
   8:
-    arabic: وَاِنَّا
+    arabic: وَإِنَّا
     translation: and indeed, we
     transliteration: wa-innā
   9:
-    arabic: لَـنَرٰٮكَ
+    arabic: لَنَرَىٰكَ
     translation: surely [we] see you
     transliteration: lanarāka
   10:
-    arabic: فِيۡنَا
+    arabic: فِينَا
     translation: among us
     transliteration: fīnā
   11:
-    arabic: ضَعِيۡفًا​ ۚ
+    arabic: ضَعِيفٗاۖ
     translation: weak
     transliteration: ḍaʿīfan
   12:
@@ -59,15 +58,15 @@ word_by_word:
     translation: for your family
     transliteration: rahṭuka
   14:
-    arabic: لَرَجَمۡنٰكَ​
+    arabic: لَرَجَمۡنَٰكَۖ
     translation: surely we would have stoned you
     transliteration: larajamnāka
   15:
-    arabic: وَمَاۤ
+    arabic: وَمَآ
     translation: and you are not
     transliteration: wamā
   16:
-    arabic: اَنۡتَ
+    arabic: أَنتَ
     translation: and you are not
     transliteration: anta
   17:
@@ -75,7 +74,7 @@ word_by_word:
     translation: against us
     transliteration: ʿalaynā
   18:
-    arabic: "بِعَزِيۡزٍ‏ \uFEFF\uFEFF"
+    arabic: بِعَزِيزٖ
     translation: mighty
     transliteration: biʿazīzin
 ---

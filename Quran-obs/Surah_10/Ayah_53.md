@@ -1,19 +1,19 @@
 ---
-arabic_ayat: وَيَسۡتَنۡۢبِـُٔوۡنَكَ اَحَقٌّ هُوَ​ ؕ قُلۡ اِىۡ وَرَبِّىۡۤ اِنَّهٗ لَحَقٌّ
-  ​ؕ وَمَاۤ اَنۡتُمۡ بِمُعۡجِزِيۡنَ‏
+arabic_ayat: ۞ وَيَسۡتَنۢبِـُٔونَكَ أَحَقٌّ هُوَۖ قُلۡ إِي وَرَبِّيٓ إِنَّهُۥ لَحَقّٞۖ
+  وَمَآ أَنتُم بِمُعۡجِزِينَ
 sentence_translation: They ask you ˹O Prophet˺, “Is this true?” Say, “Yes, by my Lord!
   Most certainly it is true! And you will have no escape.”
 word_by_word:
   1:
-    arabic: ۞ وَيَسۡتَنۡۢبِـُٔوۡنَكَ
+    arabic: ۞ وَيَسۡتَنۢبِـُٔونَكَ
     translation: And they ask you to inform
     transliteration: wayastanbiūnaka
   2:
-    arabic: اَحَقٌّ
+    arabic: أَحَقٌّ
     translation: Is it true
     transliteration: aḥaqqun
   3:
-    arabic: هُوَ​ ؕ
+    arabic: هُوَۖ
     translation: Is it true
     transliteration: huwa
   4:
@@ -21,31 +21,31 @@ word_by_word:
     translation: Say
     transliteration: qul
   5:
-    arabic: اِىۡ
+    arabic: إِي
     translation: 'Yes'
     transliteration: ī
   6:
-    arabic: وَرَبِّىۡۤ
+    arabic: وَرَبِّيٓ
     translation: by my Lord
     transliteration: warabbī
   7:
-    arabic: اِنَّهٗ
+    arabic: إِنَّهُۥ
     translation: Indeed, it
     transliteration: innahu
   8:
-    arabic: لَحَقٌّ ​ؕ
+    arabic: لَحَقّٞۖ
     translation: (is) surely the truth
     transliteration: laḥaqqun
   9:
-    arabic: وَمَاۤ
+    arabic: وَمَآ
     translation: and not
     transliteration: wamā
   10:
-    arabic: اَنۡتُمۡ
+    arabic: أَنتُم
     translation: you
     transliteration: antum
   11:
-    arabic: بِمُعۡجِزِيۡنَ‏
+    arabic: بِمُعۡجِزِينَ
     translation: (can) escape (it)
     transliteration: bimuʿ'jizīna
 ---

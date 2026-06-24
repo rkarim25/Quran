@@ -1,11 +1,11 @@
 ---
-arabic_ayat: لِّيَـغۡفِرَ لَكَ اللّٰهُ مَا تَقَدَّمَ مِنۡ ذَنۡۢبِكَ وَ مَا تَاَخَّرَ
-  وَيُتِمَّ نِعۡمَتَهٗ عَلَيۡكَ وَيَهۡدِيَكَ صِرَاطًا مُّسۡتَقِيۡمًا ۙ‏
+arabic_ayat: لِّيَغۡفِرَ لَكَ ٱللَّهُ مَا تَقَدَّمَ مِن ذَنۢبِكَ وَمَا تَأَخَّرَ وَيُتِمَّ
+  نِعۡمَتَهُۥ عَلَيۡكَ وَيَهۡدِيَكَ صِرَٰطٗا مُّسۡتَقِيمٗا
 sentence_translation: so that Allah may forgive you for your past and future shortcomings, perfect
   His favour upon you, guide you along the Straight Path,
 word_by_word:
   1:
-    arabic: لِّيَـغۡفِرَ
+    arabic: لِّيَغۡفِرَ
     translation: That may forgive
     transliteration: liyaghfira
   2:
@@ -13,7 +13,7 @@ word_by_word:
     translation: for you
     transliteration: laka
   3:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   4:
@@ -25,19 +25,19 @@ word_by_word:
     translation: preceded
     transliteration: taqaddama
   6:
-    arabic: مِنۡ
+    arabic: مِن
     translation: of
     transliteration: min
   7:
-    arabic: ذَنۡۢبِكَ
+    arabic: ذَنۢبِكَ
     translation: your sins
     transliteration: dhanbika
   8:
-    arabic: وَ مَا
+    arabic: وَمَا
     translation: and what
     transliteration: wamā
   9:
-    arabic: تَاَخَّرَ
+    arabic: تَأَخَّرَ
     translation: will follow
     transliteration: ta-akhara
   10:
@@ -45,7 +45,7 @@ word_by_word:
     translation: and complete
     transliteration: wayutimma
   11:
-    arabic: نِعۡمَتَهٗ
+    arabic: نِعۡمَتَهُۥ
     translation: His favor
     transliteration: niʿ'matahu
   12:
@@ -57,11 +57,11 @@ word_by_word:
     translation: and guide you
     transliteration: wayahdiyaka
   14:
-    arabic: صِرَاطًا
+    arabic: صِرَٰطٗا
     translation: (to) a Path
     transliteration: ṣirāṭan
   15:
-    arabic: مُّسۡتَقِيۡمًا ۙ‏
+    arabic: مُّسۡتَقِيمٗا
     translation: Straight
     transliteration: mus'taqīman
 ---

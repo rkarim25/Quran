@@ -1,17 +1,16 @@
 ---
-arabic_ayat: "فَلَمَّاۤ اَنۡ جَآءَ الۡبَشِيۡرُ اَلۡقٰٮهُ عَلٰى وَجۡهِهٖ فَارۡتَدَّ\
-  \ بَصِيۡرًا ​ ؕۚ قَالَ اَلَمۡ اَقُل لَّـكُمۡ​ ۚ​ ۙ اِنِّىۡۤ اَعۡلَمُ مِنَ اللّٰهِ\
-  \ مَا لَا تَعۡلَمُوۡنَ‏ \uFEFF\uFEFF"
+arabic_ayat: فَلَمَّآ أَن جَآءَ ٱلۡبَشِيرُ أَلۡقَىٰهُ عَلَىٰ وَجۡهِهِۦ فَٱرۡتَدَّ
+  بَصِيرٗاۖ قَالَ أَلَمۡ أَقُل لَّكُمۡ إِنِّيٓ أَعۡلَمُ مِنَ ٱللَّهِ مَا لَا تَعۡلَمُونَ
 sentence_translation: But when the bearer of the good news arrived, he cast the shirt
   over Jacob’s face, so he regained his sight. Jacob then said ˹to his children˺,
   “Did I not tell you that I truly know from Allah what you do not know?”
 word_by_word:
   1:
-    arabic: فَلَمَّاۤ
+    arabic: فَلَمَّآ
     translation: Then when
     transliteration: falammā
   2:
-    arabic: اَنۡ
+    arabic: أَن
     translation: '[that]'
     transliteration: an
   3:
@@ -19,27 +18,27 @@ word_by_word:
     translation: arrived
     transliteration: jāa
   4:
-    arabic: الۡبَشِيۡرُ
+    arabic: ٱلۡبَشِيرُ
     translation: the bearer of glad tidings
     transliteration: l-bashīru
   5:
-    arabic: اَلۡقٰٮهُ
+    arabic: أَلۡقَىٰهُ
     translation: he cast it
     transliteration: alqāhu
   6:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: over
     transliteration: ʿalā
   7:
-    arabic: وَجۡهِهٖ
+    arabic: وَجۡهِهِۦ
     translation: his face
     transliteration: wajhihi
   8:
-    arabic: فَارۡتَدَّ
+    arabic: فَٱرۡتَدَّ
     translation: then returned (his) sight
     transliteration: fa-ir'tadda
   9:
-    arabic: بَصِيۡرًا ​ ؕۚ
+    arabic: بَصِيرٗاۖ
     translation: then returned (his) sight
     transliteration: baṣīran
   10:
@@ -47,23 +46,23 @@ word_by_word:
     translation: He said
     transliteration: qāla
   11:
-    arabic: اَلَمۡ
+    arabic: أَلَمۡ
     translation: Did not
     transliteration: alam
   12:
-    arabic: اَقُل
+    arabic: أَقُل
     translation: I say
     transliteration: aqul
   13:
-    arabic: لَّـكُمۡ​ ۚ​ ۙ
+    arabic: لَّكُمۡ
     translation: to you
     transliteration: lakum
   14:
-    arabic: اِنِّىۡۤ
+    arabic: إِنِّيٓ
     translation: indeed, I
     transliteration: innī
   15:
-    arabic: اَعۡلَمُ
+    arabic: أَعۡلَمُ
     translation: '[I] know'
     transliteration: aʿlamu
   16:
@@ -71,7 +70,7 @@ word_by_word:
     translation: from
     transliteration: mina
   17:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   18:
@@ -83,7 +82,7 @@ word_by_word:
     translation: not
     transliteration: lā
   20:
-    arabic: "تَعۡلَمُوۡنَ‏ \uFEFF\uFEFF"
+    arabic: تَعۡلَمُونَ
     translation: you know
     transliteration: taʿlamūna
 ---

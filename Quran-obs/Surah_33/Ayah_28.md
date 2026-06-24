@@ -1,33 +1,32 @@
 ---
-arabic_ayat: يٰۤـاَيُّهَا النَّبِىُّ قُلْ لِّاَزۡوَاجِكَ اِنۡ كُنۡتُنَّ تُرِدۡنَ الۡحَيٰوةَ
-  الدُّنۡيَا وَزِيۡنَتَهَا فَتَعَالَيۡنَ اُمَتِّعۡكُنَّ وَاُسَرِّحۡكُنَّ سَرَاحًا
-  جَمِيۡلًا‏
+arabic_ayat: يَٰٓأَيُّهَا ٱلنَّبِيُّ قُل لِّأَزۡوَٰجِكَ إِن كُنتُنَّ تُرِدۡنَ ٱلۡحَيَوٰةَ
+  ٱلدُّنۡيَا وَزِينَتَهَا فَتَعَالَيۡنَ أُمَتِّعۡكُنَّ وَأُسَرِّحۡكُنَّ سَرَاحٗا جَمِيلٗا
 sentence_translation: O Prophet! Say to your wives, “If you desire the life of this
   world and its luxury, then come, I will give you a ˹suitable˺ compensation ˹for
   divorce˺ and let you go graciously.
 word_by_word:
   1:
-    arabic: يٰۤـاَيُّهَا
+    arabic: يَٰٓأَيُّهَا
     translation: O Prophet
     transliteration: yāayyuhā
   2:
-    arabic: النَّبِىُّ
+    arabic: ٱلنَّبِيُّ
     translation: O Prophet
     transliteration: l-nabiyu
   3:
-    arabic: قُلْ
+    arabic: قُل
     translation: Say
     transliteration: qul
   4:
-    arabic: لِّاَزۡوَاجِكَ
+    arabic: لِّأَزۡوَٰجِكَ
     translation: to your wives
     transliteration: li-azwājika
   5:
-    arabic: اِنۡ
+    arabic: إِن
     translation: If
     transliteration: in
   6:
-    arabic: كُنۡتُنَّ
+    arabic: كُنتُنَّ
     translation: you
     transliteration: kuntunna
   7:
@@ -35,15 +34,15 @@ word_by_word:
     translation: desire
     transliteration: turid'na
   8:
-    arabic: الۡحَيٰوةَ
+    arabic: ٱلۡحَيَوٰةَ
     translation: the life
     transliteration: l-ḥayata
   9:
-    arabic: الدُّنۡيَا
+    arabic: ٱلدُّنۡيَا
     translation: (of) the world
     transliteration: l-dun'yā
   10:
-    arabic: وَزِيۡنَتَهَا
+    arabic: وَزِينَتَهَا
     translation: and its adornment
     transliteration: wazīnatahā
   11:
@@ -51,19 +50,19 @@ word_by_word:
     translation: then come
     transliteration: fataʿālayna
   12:
-    arabic: اُمَتِّعۡكُنَّ
+    arabic: أُمَتِّعۡكُنَّ
     translation: I will provide for you
     transliteration: umattiʿ'kunna
   13:
-    arabic: وَاُسَرِّحۡكُنَّ
+    arabic: وَأُسَرِّحۡكُنَّ
     translation: and release you
     transliteration: wa-usarriḥ'kunna
   14:
-    arabic: سَرَاحًا
+    arabic: سَرَاحٗا
     translation: (with) a release
     transliteration: sarāḥan
   15:
-    arabic: جَمِيۡلًا‏
+    arabic: جَمِيلٗا
     translation: good
     transliteration: jamīlan
 ---

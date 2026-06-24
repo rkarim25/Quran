@@ -1,61 +1,61 @@
 ---
-arabic_ayat: فَكَذَّبُوۡهُ فَنَجَّيۡنٰهُ وَمَنۡ مَّعَهٗ فِى الۡـفُلۡكِ وَجَعَلۡنٰهُمۡ
-  خَلٰٓٮِٕفَ وَاَغۡرَقۡنَا الَّذِيۡنَ كَذَّبُوۡا بِاٰيٰتِنَا​ ۚ فَانْظُرۡ كَيۡفَ كَانَ
-  عَاقِبَةُ الۡمُنۡذَرِيۡنَ‏
+arabic_ayat: فَكَذَّبُوهُ فَنَجَّيۡنَٰهُ وَمَن مَّعَهُۥ فِي ٱلۡفُلۡكِ وَجَعَلۡنَٰهُمۡ
+  خَلَٰٓئِفَ وَأَغۡرَقۡنَا ٱلَّذِينَ كَذَّبُواْ بِـَٔايَٰتِنَاۖ فَٱنظُرۡ كَيۡفَ كَانَ
+  عَٰقِبَةُ ٱلۡمُنذَرِينَ
 sentence_translation: But they still rejected him, so We saved him and those with
   him in the Ark and made them successors, and drowned those who rejected Our signs.
   See then what was the end of those who had been warned!
 word_by_word:
   1:
-    arabic: فَكَذَّبُوۡهُ
+    arabic: فَكَذَّبُوهُ
     translation: But they denied him
     transliteration: fakadhabūhu
   2:
-    arabic: فَنَجَّيۡنٰهُ
+    arabic: فَنَجَّيۡنَٰهُ
     translation: so We saved him
     transliteration: fanajjaynāhu
   3:
-    arabic: وَمَنۡ
+    arabic: وَمَن
     translation: and (those) who
     transliteration: waman
   4:
-    arabic: مَّعَهٗ
+    arabic: مَّعَهُۥ
     translation: (were) with him
     transliteration: maʿahu
   5:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   6:
-    arabic: الۡـفُلۡكِ
+    arabic: ٱلۡفُلۡكِ
     translation: the ship
     transliteration: l-ful'ki
   7:
-    arabic: وَجَعَلۡنٰهُمۡ
+    arabic: وَجَعَلۡنَٰهُمۡ
     translation: and We made them
     transliteration: wajaʿalnāhum
   8:
-    arabic: خَلٰٓٮِٕفَ
+    arabic: خَلَٰٓئِفَ
     translation: successors
     transliteration: khalāifa
   9:
-    arabic: وَاَغۡرَقۡنَا
+    arabic: وَأَغۡرَقۡنَا
     translation: and We drowned
     transliteration: wa-aghraqnā
   10:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   11:
-    arabic: كَذَّبُوۡا
+    arabic: كَذَّبُواْ
     translation: denied
     transliteration: kadhabū
   12:
-    arabic: بِاٰيٰتِنَا​ ۚ
+    arabic: بِـَٔايَٰتِنَاۖ
     translation: Our Signs
     transliteration: biāyātinā
   13:
-    arabic: فَانْظُرۡ
+    arabic: فَٱنظُرۡ
     translation: Then see
     transliteration: fa-unẓur
   14:
@@ -67,11 +67,11 @@ word_by_word:
     translation: was
     transliteration: kāna
   16:
-    arabic: عَاقِبَةُ
+    arabic: عَٰقِبَةُ
     translation: (the) end
     transliteration: ʿāqibatu
   17:
-    arabic: الۡمُنۡذَرِيۡنَ‏
+    arabic: ٱلۡمُنذَرِينَ
     translation: (of) those who were warned
     transliteration: l-mundharīna
 ---

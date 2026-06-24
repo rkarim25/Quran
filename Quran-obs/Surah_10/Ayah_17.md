@@ -1,6 +1,6 @@
 ---
-arabic_ayat: فَمَنۡ اَظۡلَمُ مِمَّنِ افۡتَـرٰى عَلَى اللّٰهِ كَذِبًا اَوۡ كَذَّبَ
-  بِاٰيٰتِهٖ ؕ اِنَّهٗ لَا يُفۡلِحُ الۡمُجۡرِمُوۡنَ‏
+arabic_ayat: فَمَنۡ أَظۡلَمُ مِمَّنِ ٱفۡتَرَىٰ عَلَى ٱللَّهِ كَذِبًا أَوۡ كَذَّبَ
+  بِـَٔايَٰتِهِۦٓۚ إِنَّهُۥ لَا يُفۡلِحُ ٱلۡمُجۡرِمُونَ
 sentence_translation: Who does more wrong than those who fabricate lies against Allah
   or deny His revelations? Indeed, the wicked will never succeed.
 word_by_word:
@@ -9,7 +9,7 @@ word_by_word:
     translation: So who
     transliteration: faman
   2:
-    arabic: اَظۡلَمُ
+    arabic: أَظۡلَمُ
     translation: (is) more wrong
     transliteration: aẓlamu
   3:
@@ -17,7 +17,7 @@ word_by_word:
     translation: than he who
     transliteration: mimmani
   4:
-    arabic: افۡتَـرٰى
+    arabic: ٱفۡتَرَىٰ
     translation: invents
     transliteration: if'tarā
   5:
@@ -25,7 +25,7 @@ word_by_word:
     translation: against
     transliteration: ʿalā
   6:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   7:
@@ -33,7 +33,7 @@ word_by_word:
     translation: a lie
     transliteration: kadhiban
   8:
-    arabic: اَوۡ
+    arabic: أَوۡ
     translation: or
     transliteration: aw
   9:
@@ -41,11 +41,11 @@ word_by_word:
     translation: denies
     transliteration: kadhaba
   10:
-    arabic: بِاٰيٰتِهٖ ؕ
+    arabic: بِـَٔايَٰتِهِۦٓۚ
     translation: His Signs
     transliteration: biāyātihi
   11:
-    arabic: اِنَّهٗ
+    arabic: إِنَّهُۥ
     translation: Indeed
     transliteration: innahu
   12:
@@ -57,7 +57,7 @@ word_by_word:
     translation: will succeed
     transliteration: yuf'liḥu
   14:
-    arabic: الۡمُجۡرِمُوۡنَ‏
+    arabic: ٱلۡمُجۡرِمُونَ
     translation: the criminals
     transliteration: l-muj'rimūna
 ---

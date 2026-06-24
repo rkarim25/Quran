@@ -1,6 +1,5 @@
 ---
-arabic_ayat: وَوَهَبۡنَا لِدَاوٗدَ سُلَيۡمٰنَ​ ؕ نِعۡمَ الۡعَبۡدُ​ ؕ اِنَّـهٗۤ اَوَّابٌ
-  ؕ ‏
+arabic_ayat: وَوَهَبۡنَا لِدَاوُۥدَ سُلَيۡمَٰنَۚ نِعۡمَ ٱلۡعَبۡدُ إِنَّهُۥٓ أَوَّابٌ
 sentence_translation: And We blessed David with Solomon—what an excellent servant
   ˹he was˺! Indeed, he ˹constantly˺ turned ˹to Allah˺.
 word_by_word:
@@ -9,11 +8,11 @@ word_by_word:
     translation: And We gave
     transliteration: wawahabnā
   2:
-    arabic: لِدَاوٗدَ
+    arabic: لِدَاوُۥدَ
     translation: to Dawood
     transliteration: lidāwūda
   3:
-    arabic: سُلَيۡمٰنَ​ ؕ
+    arabic: سُلَيۡمَٰنَۚ
     translation: Sulaiman
     transliteration: sulaymāna
   4:
@@ -21,15 +20,15 @@ word_by_word:
     translation: an excellent
     transliteration: niʿ'ma
   5:
-    arabic: الۡعَبۡدُ​ ؕ
+    arabic: ٱلۡعَبۡدُ
     translation: slave
     transliteration: l-ʿabdu
   6:
-    arabic: اِنَّـهٗۤ
+    arabic: إِنَّهُۥٓ
     translation: Indeed, he
     transliteration: innahu
   7:
-    arabic: اَوَّابٌ ؕ ‏
+    arabic: أَوَّابٌ
     translation: (was) one who repeatedly turned
     transliteration: awwābun
 ---

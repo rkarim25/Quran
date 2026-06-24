@@ -1,39 +1,38 @@
 ---
-arabic_ayat: "اِنَّ الَّذِيۡنَ يُحَآدُّوۡنَ اللّٰهَ وَرَسُوۡلَهٗۤ اُولٰٓٮِٕكَ فِى\
-  \ الۡاَذَلِّيۡنَ‏ \uFEFF\uFEFF"
+arabic_ayat: إِنَّ ٱلَّذِينَ يُحَآدُّونَ ٱللَّهَ وَرَسُولَهُۥٓ أُوْلَٰٓئِكَ فِي ٱلۡأَذَلِّينَ
 sentence_translation: ˹As for˺ those who defy Allah and His Messenger, they will definitely
   be among the most debased.
 word_by_word:
   1:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   3:
-    arabic: يُحَآدُّوۡنَ
+    arabic: يُحَآدُّونَ
     translation: oppose
     transliteration: yuḥāddūna
   4:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   5:
-    arabic: وَرَسُوۡلَهٗۤ
+    arabic: وَرَسُولَهُۥٓ
     translation: and His Messenger
     transliteration: warasūlahu
   6:
-    arabic: اُولٰٓٮِٕكَ
+    arabic: أُوْلَٰٓئِكَ
     translation: those
     transliteration: ulāika
   7:
-    arabic: فِى
+    arabic: فِي
     translation: (will be) among
     transliteration: fī
   8:
-    arabic: "الۡاَذَلِّيۡنَ‏ \uFEFF\uFEFF"
+    arabic: ٱلۡأَذَلِّينَ
     translation: the most humiliated
     transliteration: l-adhalīna
 ---

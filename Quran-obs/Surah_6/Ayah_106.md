@@ -1,51 +1,51 @@
 ---
-arabic_ayat: اِتَّبِعۡ مَاۤ اُوۡحِىَ اِلَيۡكَ مِنۡ رَّبِّكَ​​ۚ لَاۤ اِلٰهَ اِلَّا
-  هُوَ​ۚ وَاَعۡرِضۡ عَنِ الۡمُشۡرِكِيۡنَ‏
+arabic_ayat: ٱتَّبِعۡ مَآ أُوحِيَ إِلَيۡكَ مِن رَّبِّكَۖ لَآ إِلَٰهَ إِلَّا هُوَۖ
+  وَأَعۡرِضۡ عَنِ ٱلۡمُشۡرِكِينَ
 sentence_translation: ˹O Prophet!˺ Follow what is revealed to you from your Lord—there
   is no god ˹worthy of worship˺ except Him—and turn away from the polytheists.
 word_by_word:
   1:
-    arabic: اِتَّبِعۡ
+    arabic: ٱتَّبِعۡ
     translation: Follow
     transliteration: ittabiʿ
   2:
-    arabic: مَاۤ
+    arabic: مَآ
     translation: what
     transliteration: mā
   3:
-    arabic: اُوۡحِىَ
+    arabic: أُوحِيَ
     translation: has been inspired
     transliteration: ūḥiya
   4:
-    arabic: اِلَيۡكَ
+    arabic: إِلَيۡكَ
     translation: to you
     transliteration: ilayka
   5:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   6:
-    arabic: رَّبِّكَ​​ۚ
+    arabic: رَّبِّكَۖ
     translation: your Lord
     transliteration: rabbika
   7:
-    arabic: لَاۤ
+    arabic: لَآ
     translation: (there is) no
     transliteration: lā
   8:
-    arabic: اِلٰهَ
+    arabic: إِلَٰهَ
     translation: god
     transliteration: ilāha
   9:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   10:
-    arabic: هُوَ​ۚ
+    arabic: هُوَۖ
     translation: Him
     transliteration: huwa
   11:
-    arabic: وَاَعۡرِضۡ
+    arabic: وَأَعۡرِضۡ
     translation: and turn away
     transliteration: wa-aʿriḍ
   12:
@@ -53,7 +53,7 @@ word_by_word:
     translation: from
     transliteration: ʿani
   13:
-    arabic: الۡمُشۡرِكِيۡنَ‏
+    arabic: ٱلۡمُشۡرِكِينَ
     translation: the polytheists
     transliteration: l-mush'rikīna
 ---

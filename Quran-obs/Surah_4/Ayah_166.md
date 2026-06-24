@@ -1,16 +1,16 @@
 ---
-arabic_ayat: لٰـكِنِ اللّٰهُ يَشۡهَدُ بِمَاۤ اَنۡزَلَ اِلَيۡكَ​ اَنۡزَلَهٗ بِعِلۡمِهٖ​
-  ۚ وَالۡمَلٰٓٮِٕكَةُ يَشۡهَدُوۡنَ​ ؕ وَكَفٰى بِاللّٰهِ شَهِيۡدًا ؕ‏
+arabic_ayat: لَّٰكِنِ ٱللَّهُ يَشۡهَدُ بِمَآ أَنزَلَ إِلَيۡكَۖ أَنزَلَهُۥ بِعِلۡمِهِۦۖ
+  وَٱلۡمَلَٰٓئِكَةُ يَشۡهَدُونَۚ وَكَفَىٰ بِٱللَّهِ شَهِيدًا
 sentence_translation: Yet ˹if you are denied, O  Prophet,˺ Allah bears witness to
   what He has sent down to you—He has sent it with His knowledge. The angels too bear
   witness. And Allah ˹alone˺ is sufficient as a Witness.
 word_by_word:
   1:
-    arabic: لٰـكِنِ
+    arabic: لَّٰكِنِ
     translation: But
     transliteration: lākini
   2:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   3:
@@ -18,43 +18,43 @@ word_by_word:
     translation: bears witness
     transliteration: yashhadu
   4:
-    arabic: بِمَاۤ
+    arabic: بِمَآ
     translation: to what
     transliteration: bimā
   5:
-    arabic: اَنۡزَلَ
+    arabic: أَنزَلَ
     translation: He (has) revealed
     transliteration: anzala
   6:
-    arabic: اِلَيۡكَ​
+    arabic: إِلَيۡكَۖ
     translation: to you
     transliteration: ilayka
   7:
-    arabic: اَنۡزَلَهٗ
+    arabic: أَنزَلَهُۥ
     translation: He has sent it down
     transliteration: anzalahu
   8:
-    arabic: بِعِلۡمِهٖ​ ۚ
+    arabic: بِعِلۡمِهِۦۖ
     translation: with His Knowledge
     transliteration: biʿil'mihi
   9:
-    arabic: وَالۡمَلٰٓٮِٕكَةُ
+    arabic: وَٱلۡمَلَٰٓئِكَةُ
     translation: and the Angels
     transliteration: wal-malāikatu
   10:
-    arabic: يَشۡهَدُوۡنَ​ ؕ
+    arabic: يَشۡهَدُونَۚ
     translation: bear witness
     transliteration: yashhadūna
   11:
-    arabic: وَكَفٰى
+    arabic: وَكَفَىٰ
     translation: And is sufficient
     transliteration: wakafā
   12:
-    arabic: بِاللّٰهِ
+    arabic: بِٱللَّهِ
     translation: Allah
     transliteration: bil-lahi
   13:
-    arabic: شَهِيۡدًا ؕ‏
+    arabic: شَهِيدًا
     translation: (as) a Witness
     transliteration: shahīdan
 ---

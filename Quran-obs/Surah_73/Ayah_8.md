@@ -1,14 +1,14 @@
 ---
-arabic_ayat: وَاذۡكُرِ اسۡمَ رَبِّكَ وَتَبَتَّلۡ اِلَيۡهِ تَبۡتِيۡلًا ؕ‏
+arabic_ayat: وَٱذۡكُرِ ٱسۡمَ رَبِّكَ وَتَبَتَّلۡ إِلَيۡهِ تَبۡتِيلٗا
 sentence_translation: ˹Always˺ remember the Name of your Lord, and devote yourself
   to Him wholeheartedly.
 word_by_word:
   1:
-    arabic: وَاذۡكُرِ
+    arabic: وَٱذۡكُرِ
     translation: And remember
     transliteration: wa-udh'kuri
   2:
-    arabic: اسۡمَ
+    arabic: ٱسۡمَ
     translation: (the) name
     transliteration: is'ma
   3:
@@ -20,11 +20,11 @@ word_by_word:
     translation: and devote yourself
     transliteration: watabattal
   5:
-    arabic: اِلَيۡهِ
+    arabic: إِلَيۡهِ
     translation: to Him
     transliteration: ilayhi
   6:
-    arabic: تَبۡتِيۡلًا ؕ‏
+    arabic: تَبۡتِيلٗا
     translation: (with) devotion
     transliteration: tabtīlan
 ---

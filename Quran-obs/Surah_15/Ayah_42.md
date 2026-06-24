@@ -1,19 +1,19 @@
 ---
-arabic_ayat: اِنَّ عِبَادِىۡ لَـيۡسَ لَكَ عَلَيۡهِمۡ سُلۡطٰنٌ اِلَّا مَنِ اتَّبَـعَكَ
-  مِنَ الۡغٰوِيۡنَ‏
+arabic_ayat: إِنَّ عِبَادِي لَيۡسَ لَكَ عَلَيۡهِمۡ سُلۡطَٰنٌ إِلَّا مَنِ ٱتَّبَعَكَ
+  مِنَ ٱلۡغَاوِينَ
 sentence_translation: you will certainly have no authority over My servants, except
   the deviant who follow you,
 word_by_word:
   1:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   2:
-    arabic: عِبَادِىۡ
+    arabic: عِبَادِي
     translation: My slaves
     transliteration: ʿibādī
   3:
-    arabic: لَـيۡسَ
+    arabic: لَيۡسَ
     translation: not
     transliteration: laysa
   4:
@@ -25,11 +25,11 @@ word_by_word:
     translation: over them
     transliteration: ʿalayhim
   6:
-    arabic: سُلۡطٰنٌ
+    arabic: سُلۡطَٰنٌ
     translation: any authority
     transliteration: sul'ṭānun
   7:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   8:
@@ -37,7 +37,7 @@ word_by_word:
     translation: those who
     transliteration: mani
   9:
-    arabic: اتَّبَـعَكَ
+    arabic: ٱتَّبَعَكَ
     translation: follow you
     transliteration: ittabaʿaka
   10:
@@ -45,7 +45,7 @@ word_by_word:
     translation: of
     transliteration: mina
   11:
-    arabic: الۡغٰوِيۡنَ‏
+    arabic: ٱلۡغَاوِينَ
     translation: the ones who go astray
     transliteration: l-ghāwīna
 ---

@@ -1,6 +1,6 @@
 ---
-arabic_ayat: وَلَا تَقۡتُلُوۡۤا اَوۡلَادَكُمۡ خَشۡيَةَ اِمۡلَاقٍ​ؕ نَحۡنُ نَرۡزُقُهُمۡ
-  وَاِيَّاكُمۡ​ؕ اِنَّ قَتۡلَهُمۡ كَانَ خِطۡاً كَبِيۡرًا‏
+arabic_ayat: وَلَا تَقۡتُلُوٓاْ أَوۡلَٰدَكُمۡ خَشۡيَةَ إِمۡلَٰقٖۖ نَّحۡنُ نَرۡزُقُهُمۡ
+  وَإِيَّاكُمۡۚ إِنَّ قَتۡلَهُمۡ كَانَ خِطۡـٔٗا كَبِيرٗا
 sentence_translation: Do not kill your children for fear of poverty. We provide for
   them and for you. Surely killing them is a heinous sin.
 word_by_word:
@@ -9,11 +9,11 @@ word_by_word:
     translation: And (do) not
     transliteration: walā
   2:
-    arabic: تَقۡتُلُوۡۤا
+    arabic: تَقۡتُلُوٓاْ
     translation: kill
     transliteration: taqtulū
   3:
-    arabic: اَوۡلَادَكُمۡ
+    arabic: أَوۡلَٰدَكُمۡ
     translation: your children
     transliteration: awlādakum
   4:
@@ -21,11 +21,11 @@ word_by_word:
     translation: (for) fear
     transliteration: khashyata
   5:
-    arabic: اِمۡلَاقٍ​ؕ
+    arabic: إِمۡلَٰقٖۖ
     translation: (of) poverty
     transliteration: im'lāqin
   6:
-    arabic: نَحۡنُ
+    arabic: نَّحۡنُ
     translation: We
     transliteration: naḥnu
   7:
@@ -33,11 +33,11 @@ word_by_word:
     translation: (We) provide for them
     transliteration: narzuquhum
   8:
-    arabic: وَاِيَّاكُمۡ​ؕ
+    arabic: وَإِيَّاكُمۡۚ
     translation: and for you
     transliteration: wa-iyyākum
   9:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   10:
@@ -49,11 +49,11 @@ word_by_word:
     translation: is
     transliteration: kāna
   12:
-    arabic: خِطۡاً
+    arabic: خِطۡـٔٗا
     translation: a sin
     transliteration: khiṭ'an
   13:
-    arabic: كَبِيۡرًا‏
+    arabic: كَبِيرٗا
     translation: great
     transliteration: kabīran
 ---

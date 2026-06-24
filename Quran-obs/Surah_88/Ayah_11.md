@@ -1,5 +1,5 @@
 ---
-arabic_ayat: لَّا تَسۡمَعُ فِيۡهَا لَاغِيَةً ؕ‏
+arabic_ayat: لَّا تَسۡمَعُ فِيهَا لَٰغِيَةٗ
 sentence_translation: where no idle talk will be heard.
 word_by_word:
   1:
@@ -11,11 +11,11 @@ word_by_word:
     translation: they will hear
     transliteration: tasmaʿu
   3:
-    arabic: فِيۡهَا
+    arabic: فِيهَا
     translation: therein
     transliteration: fīhā
   4:
-    arabic: لَاغِيَةً ؕ‏
+    arabic: لَٰغِيَةٗ
     translation: vain talk
     transliteration: lāghiyatan
 ---

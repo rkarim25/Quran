@@ -1,6 +1,6 @@
 ---
-arabic_ayat: بَلۡ هُوَ اٰيٰتٌۢ بَيِّنٰتٌ فِىۡ صُدُوۡرِ الَّذِيۡنَ اُوۡتُوا الۡعِلۡمَ​ؕ
-  وَمَا يَجۡحَدُ بِاٰيٰتِنَاۤ اِلَّا الظّٰلِمُوۡنَ‏
+arabic_ayat: بَلۡ هُوَ ءَايَٰتُۢ بَيِّنَٰتٞ فِي صُدُورِ ٱلَّذِينَ أُوتُواْ ٱلۡعِلۡمَۚ
+  وَمَا يَجۡحَدُ بِـَٔايَٰتِنَآ إِلَّا ٱلظَّٰلِمُونَ
 sentence_translation: But this ˹Quran˺ is ˹a set of˺ clear revelations ˹preserved˺
   in the hearts of those gifted with knowledge. And none denies Our revelations except
   the ˹stubborn˺ wrongdoers.
@@ -10,35 +10,35 @@ word_by_word:
     translation: Nay
     transliteration: bal
   2:
-    arabic: هُوَ
+    arabic: هُوَ ءَ
     translation: it
     transliteration: huwa
   3:
-    arabic: اٰيٰتٌۢ
+    arabic: ايَٰتُۢ
     translation: (is) Verses
     transliteration: āyātun
   4:
-    arabic: بَيِّنٰتٌ
+    arabic: بَيِّنَٰتٞ
     translation: clear
     transliteration: bayyinātun
   5:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   6:
-    arabic: صُدُوۡرِ
+    arabic: صُدُورِ
     translation: (the) breasts
     transliteration: ṣudūri
   7:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: (of) those who
     transliteration: alladhīna
   8:
-    arabic: اُوۡتُوا
+    arabic: أُوتُواْ
     translation: are given
     transliteration: ūtū
   9:
-    arabic: الۡعِلۡمَ​ؕ
+    arabic: ٱلۡعِلۡمَۚ
     translation: the knowledge
     transliteration: l-ʿil'ma
   10:
@@ -50,15 +50,15 @@ word_by_word:
     translation: reject
     transliteration: yajḥadu
   12:
-    arabic: بِاٰيٰتِنَاۤ
+    arabic: بِـَٔايَٰتِنَآ
     translation: Our Verses
     transliteration: biāyātinā
   13:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   14:
-    arabic: الظّٰلِمُوۡنَ‏
+    arabic: ٱلظَّٰلِمُونَ
     translation: the wrongdoers
     transliteration: l-ẓālimūna
 ---

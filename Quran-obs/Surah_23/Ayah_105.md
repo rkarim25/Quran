@@ -1,23 +1,22 @@
 ---
-arabic_ayat: "اَلَمۡ تَكُنۡ اٰيٰتِىۡ تُتۡلٰى عَلَيۡكُمۡ فَكُنۡتُمۡ بِهَا تُكَذِّبُوۡنَ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: أَلَمۡ تَكُنۡ ءَايَٰتِي تُتۡلَىٰ عَلَيۡكُمۡ فَكُنتُم بِهَا تُكَذِّبُونَ
 sentence_translation: ˹It will be said,˺ “Were My revelations not recited to you,
   but you used to deny them?”
 word_by_word:
   1:
-    arabic: اَلَمۡ
+    arabic: أَلَمۡ
     translation: Were not
     transliteration: alam
   2:
-    arabic: تَكُنۡ
+    arabic: تَكُنۡ ءَ
     translation: Were not
     transliteration: takun
   3:
-    arabic: اٰيٰتِىۡ
+    arabic: ايَٰتِي
     translation: My Verses
     transliteration: āyātī
   4:
-    arabic: تُتۡلٰى
+    arabic: تُتۡلَىٰ
     translation: recited
     transliteration: tut'lā
   5:
@@ -25,7 +24,7 @@ word_by_word:
     translation: to you
     transliteration: ʿalaykum
   6:
-    arabic: فَكُنۡتُمۡ
+    arabic: فَكُنتُم
     translation: and you used (to)
     transliteration: fakuntum
   7:
@@ -33,7 +32,7 @@ word_by_word:
     translation: deny them
     transliteration: bihā
   8:
-    arabic: "تُكَذِّبُوۡنَ‏ \uFEFF\uFEFF"
+    arabic: تُكَذِّبُونَ
     translation: deny them
     transliteration: tukadhibūna
 ---

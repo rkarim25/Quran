@@ -1,55 +1,54 @@
 ---
-arabic_ayat: "اِنَّ الَّذِيۡنَ كَفَرُوۡا وَيَصُدُّوۡنَ عَنۡ سَبِيۡلِ اللّٰهِ وَالۡمَسۡجِدِ\
-  \ الۡحَـرَامِ الَّذِىۡ جَعَلۡنٰهُ لِلنَّاسِ سَوَآءَ اۨلۡعَاكِفُ فِيۡهِ وَالۡبَادِ​\
-  \ ؕ وَمَنۡ يُّرِدۡ فِيۡهِ بِاِلۡحَـادٍۢ بِظُلۡمٍ نُّذِقۡهُ مِنۡ عَذَابٍ اَ لِيۡمٍ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: إِنَّ ٱلَّذِينَ كَفَرُواْ وَيَصُدُّونَ عَن سَبِيلِ ٱللَّهِ وَٱلۡمَسۡجِدِ
+  ٱلۡحَرَامِ ٱلَّذِي جَعَلۡنَٰهُ لِلنَّاسِ سَوَآءً ٱلۡعَٰكِفُ فِيهِ وَٱلۡبَادِۚ وَمَن
+  يُرِدۡ فِيهِ بِإِلۡحَادِۭ بِظُلۡمٖ نُّذِقۡهُ مِنۡ عَذَابٍ أَلِيمٖ
 sentence_translation: Indeed, those who persist in disbelief and hinder ˹others˺ from
   the Way of Allah and from the Sacred Mosque—which We have appointed for all people,
   residents and visitors alike—along with whoever intends to deviate by doing wrong
   in it, We will cause them to taste a painful punishment.
 word_by_word:
   1:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   3:
-    arabic: كَفَرُوۡا
+    arabic: كَفَرُواْ
     translation: disbelieved
     transliteration: kafarū
   4:
-    arabic: وَيَصُدُّوۡنَ
+    arabic: وَيَصُدُّونَ
     translation: and hinder
     transliteration: wayaṣuddūna
   5:
-    arabic: عَنۡ
+    arabic: عَن
     translation: from
     transliteration: ʿan
   6:
-    arabic: سَبِيۡلِ
+    arabic: سَبِيلِ
     translation: (the) way
     transliteration: sabīli
   7:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (of) Allah
     transliteration: l-lahi
   8:
-    arabic: وَالۡمَسۡجِدِ
+    arabic: وَٱلۡمَسۡجِدِ
     translation: and Al-Masjid Al-Haraam
     transliteration: wal-masjidi
   9:
-    arabic: الۡحَـرَامِ
+    arabic: ٱلۡحَرَامِ
     translation: and Al-Masjid Al-Haraam
     transliteration: l-ḥarāmi
   10:
-    arabic: الَّذِىۡ
+    arabic: ٱلَّذِي
     translation: which
     transliteration: alladhī
   11:
-    arabic: جَعَلۡنٰهُ
+    arabic: جَعَلۡنَٰهُ
     translation: We made it
     transliteration: jaʿalnāhu
   12:
@@ -57,39 +56,39 @@ word_by_word:
     translation: for the mankind
     transliteration: lilnnāsi
   13:
-    arabic: سَوَآءَ
+    arabic: سَوَآءً
     translation: equal
     transliteration: sawāan
   14:
-    arabic: اۨلۡعَاكِفُ
+    arabic: ٱلۡعَٰكِفُ
     translation: (are) the resident
     transliteration: l-ʿākifu
   15:
-    arabic: فِيۡهِ
+    arabic: فِيهِ
     translation: therein
     transliteration: fīhi
   16:
-    arabic: وَالۡبَادِ​ ؕ
+    arabic: وَٱلۡبَادِۚ
     translation: and the visitor
     transliteration: wal-bādi
   17:
-    arabic: وَمَنۡ
+    arabic: وَمَن
     translation: and whoever
     transliteration: waman
   18:
-    arabic: يُّرِدۡ
+    arabic: يُرِدۡ
     translation: intends
     transliteration: yurid
   19:
-    arabic: فِيۡهِ
+    arabic: فِيهِ
     translation: therein
     transliteration: fīhi
   20:
-    arabic: بِاِلۡحَـادٍۢ
+    arabic: بِإِلۡحَادِۭ
     translation: of deviation
     transliteration: bi-il'ḥādin
   21:
-    arabic: بِظُلۡمٍ
+    arabic: بِظُلۡمٖ
     translation: (or) wrongdoing
     transliteration: biẓul'min
   22:
@@ -105,7 +104,7 @@ word_by_word:
     translation: a punishment
     transliteration: ʿadhābin
   25:
-    arabic: "اَ لِيۡمٍ‏ \uFEFF\uFEFF"
+    arabic: أَلِيمٖ
     translation: painful
     transliteration: alīmin
 ---

@@ -1,18 +1,18 @@
 ---
-arabic_ayat: وَيَسۡتَعۡجِلُوۡنَكَ بِالسَّيِّئَةِ قَبۡلَ الۡحَسَنَةِ وَقَدۡ خَلَتۡ
-  مِنۡ قَبۡلِهِمُ الۡمَثُلٰتُ​ؕ وَاِنَّ رَبَّكَ لَذُوۡ مَغۡفِرَةٍ لِّـلنَّاسِ عَلٰى
-  ظُلۡمِهِمۡ​ۚ وَاِنَّ رَبَّكَ لَشَدِيۡدُ الۡعِقَابِ‏
+arabic_ayat: وَيَسۡتَعۡجِلُونَكَ بِٱلسَّيِّئَةِ قَبۡلَ ٱلۡحَسَنَةِ وَقَدۡ خَلَتۡ مِن
+  قَبۡلِهِمُ ٱلۡمَثُلَٰتُۗ وَإِنَّ رَبَّكَ لَذُو مَغۡفِرَةٖ لِّلنَّاسِ عَلَىٰ ظُلۡمِهِمۡۖ
+  وَإِنَّ رَبَّكَ لَشَدِيدُ ٱلۡعِقَابِ
 sentence_translation: They ask you ˹O Prophet˺ to hasten the torment rather than grace,
   though there have ˹already˺ been ˹many˺ torments before them. Surely your Lord is
   full of forgiveness for people, despite their wrongdoing, and your Lord is truly
   severe in punishment.
 word_by_word:
   1:
-    arabic: وَيَسۡتَعۡجِلُوۡنَكَ
+    arabic: وَيَسۡتَعۡجِلُونَكَ
     translation: And they ask you to hasten
     transliteration: wayastaʿjilūnaka
   2:
-    arabic: بِالسَّيِّئَةِ
+    arabic: بِٱلسَّيِّئَةِ
     translation: the evil
     transliteration: bil-sayi-ati
   3:
@@ -20,7 +20,7 @@ word_by_word:
     translation: before
     transliteration: qabla
   4:
-    arabic: الۡحَسَنَةِ
+    arabic: ٱلۡحَسَنَةِ
     translation: the good
     transliteration: l-ḥasanati
   5:
@@ -32,7 +32,7 @@ word_by_word:
     translation: has occurred
     transliteration: khalat
   7:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   8:
@@ -40,11 +40,11 @@ word_by_word:
     translation: before them
     transliteration: qablihimu
   9:
-    arabic: الۡمَثُلٰتُ​ؕ
+    arabic: ٱلۡمَثُلَٰتُۗ
     translation: '[the] similar punishments'
     transliteration: l-mathulātu
   10:
-    arabic: وَاِنَّ
+    arabic: وَإِنَّ
     translation: And indeed
     transliteration: wa-inna
   11:
@@ -52,27 +52,27 @@ word_by_word:
     translation: your Lord
     transliteration: rabbaka
   12:
-    arabic: لَذُوۡ
+    arabic: لَذُو
     translation: (is) full
     transliteration: ladhū
   13:
-    arabic: مَغۡفِرَةٍ
+    arabic: مَغۡفِرَةٖ
     translation: (of) forgiveness
     transliteration: maghfiratin
   14:
-    arabic: لِّـلنَّاسِ
+    arabic: لِّلنَّاسِ
     translation: for mankind
     transliteration: lilnnāsi
   15:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: for
     transliteration: ʿalā
   16:
-    arabic: ظُلۡمِهِمۡ​ۚ
+    arabic: ظُلۡمِهِمۡۖ
     translation: their wrongdoing
     transliteration: ẓul'mihim
   17:
-    arabic: وَاِنَّ
+    arabic: وَإِنَّ
     translation: and indeed
     transliteration: wa-inna
   18:
@@ -80,11 +80,11 @@ word_by_word:
     translation: your Lord
     transliteration: rabbaka
   19:
-    arabic: لَشَدِيۡدُ
+    arabic: لَشَدِيدُ
     translation: (is) severe
     transliteration: lashadīdu
   20:
-    arabic: الۡعِقَابِ‏
+    arabic: ٱلۡعِقَابِ
     translation: (in) the penalty
     transliteration: l-ʿiqābi
 ---

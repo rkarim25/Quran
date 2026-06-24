@@ -1,13 +1,13 @@
 ---
-arabic_ayat: اَللّٰهُ الصَّمَدُ​ ۚ‏
+arabic_ayat: ٱللَّهُ ٱلصَّمَدُ
 sentence_translation: Allah—the Sustainer ˹needed by all˺.
 word_by_word:
   1:
-    arabic: اَللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: al-lahu
   2:
-    arabic: الصَّمَدُ​ ۚ‏
+    arabic: ٱلصَّمَدُ
     translation: the Eternal, the Absolute
     transliteration: l-ṣamadu
 ---

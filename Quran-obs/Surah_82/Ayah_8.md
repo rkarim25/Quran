@@ -1,17 +1,17 @@
 ---
-arabic_ayat: فِىۡۤ اَىِّ صُوۡرَةٍ مَّا شَآءَ رَكَّبَكَؕ‏
+arabic_ayat: فِيٓ أَيِّ صُورَةٖ مَّا شَآءَ رَكَّبَكَ
 sentence_translation: moulding you in whatever form He willed?
 word_by_word:
   1:
-    arabic: فِىۡۤ
+    arabic: فِيٓ
     translation: In
     transliteration: fī
   2:
-    arabic: اَىِّ
+    arabic: أَيِّ
     translation: whatever
     transliteration: ayyi
   3:
-    arabic: صُوۡرَةٍ
+    arabic: صُورَةٖ
     translation: form
     transliteration: ṣūratin
   4:
@@ -23,7 +23,7 @@ word_by_word:
     translation: He willed
     transliteration: shāa
   6:
-    arabic: رَكَّبَكَؕ‏
+    arabic: رَكَّبَكَ
     translation: He assembled you
     transliteration: rakkabaka
 ---

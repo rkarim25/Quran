@@ -1,5 +1,5 @@
 ---
-arabic_ayat: ثُمَّ اَخَذۡتُ الَّذِيۡنَ كَفَرُوۡا فَكَيۡفَ كَانَ نَـكِيۡرِ‏
+arabic_ayat: ثُمَّ أَخَذۡتُ ٱلَّذِينَ كَفَرُواْۖ فَكَيۡفَ كَانَ نَكِيرِ
 sentence_translation: Then I seized those who persisted in disbelief. How severe was
   My response!
 word_by_word:
@@ -8,15 +8,15 @@ word_by_word:
     translation: Then
     transliteration: thumma
   2:
-    arabic: اَخَذۡتُ
+    arabic: أَخَذۡتُ
     translation: I seized
     transliteration: akhadhtu
   3:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   4:
-    arabic: كَفَرُوۡا
+    arabic: كَفَرُواْۖ
     translation: disbelieved
     transliteration: kafarū
   5:
@@ -28,7 +28,7 @@ word_by_word:
     translation: was
     transliteration: kāna
   7:
-    arabic: نَـكِيۡرِ‏
+    arabic: نَكِيرِ
     translation: My rejection
     transliteration: nakīri
 ---

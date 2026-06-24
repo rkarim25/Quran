@@ -1,27 +1,27 @@
 ---
-arabic_ayat: وَاَطِيۡعُوا اللّٰهَ وَاَطِيۡعُوا الرَّسُوۡلَ​ۚ فَاِنۡ تَوَلَّيۡتُمۡ
-  فَاِنَّمَا عَلٰى رَسُوۡلِنَا الۡبَلٰغُ الۡمُبِيۡنُ‏
+arabic_ayat: وَأَطِيعُواْ ٱللَّهَ وَأَطِيعُواْ ٱلرَّسُولَۚ فَإِن تَوَلَّيۡتُمۡ فَإِنَّمَا
+  عَلَىٰ رَسُولِنَا ٱلۡبَلَٰغُ ٱلۡمُبِينُ
 sentence_translation: Obey Allah and obey the Messenger! But if you turn away, then
   Our Messenger’s duty is only to deliver ˹the message˺ clearly.
 word_by_word:
   1:
-    arabic: وَاَطِيۡعُوا
+    arabic: وَأَطِيعُواْ
     translation: So obey
     transliteration: wa-aṭīʿū
   2:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   3:
-    arabic: وَاَطِيۡعُوا
+    arabic: وَأَطِيعُواْ
     translation: and obey
     transliteration: wa-aṭīʿū
   4:
-    arabic: الرَّسُوۡلَ​ۚ
+    arabic: ٱلرَّسُولَۚ
     translation: the Messenger
     transliteration: l-rasūla
   5:
-    arabic: فَاِنۡ
+    arabic: فَإِن
     translation: but if
     transliteration: fa-in
   6:
@@ -29,23 +29,23 @@ word_by_word:
     translation: you turn away
     transliteration: tawallaytum
   7:
-    arabic: فَاِنَّمَا
+    arabic: فَإِنَّمَا
     translation: then only
     transliteration: fa-innamā
   8:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: upon
     transliteration: ʿalā
   9:
-    arabic: رَسُوۡلِنَا
+    arabic: رَسُولِنَا
     translation: Our Messenger
     transliteration: rasūlinā
   10:
-    arabic: الۡبَلٰغُ
+    arabic: ٱلۡبَلَٰغُ
     translation: (is) the conveyance
     transliteration: l-balāghu
   11:
-    arabic: الۡمُبِيۡنُ‏
+    arabic: ٱلۡمُبِينُ
     translation: clear
     transliteration: l-mubīnu
 ---

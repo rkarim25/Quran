@@ -1,9 +1,9 @@
 ---
-arabic_ayat: يَطُوۡفُوۡنَ بَيۡنَهَا وَبَيۡنَ حَمِيۡمٍ اٰنٍ​ۚ‏
+arabic_ayat: يَطُوفُونَ بَيۡنَهَا وَبَيۡنَ حَمِيمٍ ءَانٖ
 sentence_translation: They will alternate between its flames and scalding water.
 word_by_word:
   1:
-    arabic: يَطُوۡفُوۡنَ
+    arabic: يَطُوفُونَ
     translation: They will go around
     transliteration: yaṭūfūna
   2:
@@ -15,11 +15,11 @@ word_by_word:
     translation: and between
     transliteration: wabayna
   4:
-    arabic: حَمِيۡمٍ
+    arabic: حَمِيمٍ ءَ
     translation: scalding water
     transliteration: ḥamīmin
   5:
-    arabic: اٰنٍ​ۚ‏
+    arabic: انٖ
     translation: heated
     transliteration: ānin
 ---

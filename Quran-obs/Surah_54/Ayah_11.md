@@ -1,25 +1,25 @@
 ---
-arabic_ayat: فَفَتَحۡنَاۤ اَبۡوَابَ السَّمَآءِ بِمَآءٍ مُّنۡهَمِرٍ ۖ‏
+arabic_ayat: فَفَتَحۡنَآ أَبۡوَٰبَ ٱلسَّمَآءِ بِمَآءٖ مُّنۡهَمِرٖ
 sentence_translation: So We opened the gates of the sky with pouring rain,
 word_by_word:
   1:
-    arabic: فَفَتَحۡنَاۤ
+    arabic: فَفَتَحۡنَآ
     translation: So We opened
     transliteration: fafataḥnā
   2:
-    arabic: اَبۡوَابَ
+    arabic: أَبۡوَٰبَ
     translation: (the) gates
     transliteration: abwāba
   3:
-    arabic: السَّمَآءِ
+    arabic: ٱلسَّمَآءِ
     translation: (of) heaven
     transliteration: l-samāi
   4:
-    arabic: بِمَآءٍ
+    arabic: بِمَآءٖ
     translation: with water
     transliteration: bimāin
   5:
-    arabic: مُّنۡهَمِرٍ ۖ‏
+    arabic: مُّنۡهَمِرٖ
     translation: pouring down
     transliteration: mun'hamirin
 ---

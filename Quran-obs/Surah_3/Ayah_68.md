@@ -1,59 +1,59 @@
 ---
-arabic_ayat: اِنَّ اَوۡلَى النَّاسِ بِاِبۡرٰهِيۡمَ لَـلَّذِيۡنَ اتَّبَعُوۡهُ وَهٰذَا
-  النَّبِىُّ وَالَّذِيۡنَ اٰمَنُوۡا ​ؕ وَاللّٰهُ وَلِىُّ الۡمُؤۡمِنِيۡنَ‏
+arabic_ayat: إِنَّ أَوۡلَى ٱلنَّاسِ بِإِبۡرَٰهِيمَ لَلَّذِينَ ٱتَّبَعُوهُ وَهَٰذَا
+  ٱلنَّبِيُّ وَٱلَّذِينَ ءَامَنُواْۗ وَٱللَّهُ وَلِيُّ ٱلۡمُؤۡمِنِينَ
 sentence_translation: Indeed, those who have the best claim to Abraham are his followers,
   this Prophet, and the believers. And Allah is the Guardian of those who believe.
 word_by_word:
   1:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   2:
-    arabic: اَوۡلَى
+    arabic: أَوۡلَى
     translation: the best to claim relationship
     transliteration: awlā
   3:
-    arabic: النَّاسِ
+    arabic: ٱلنَّاسِ
     translation: (of) people
     transliteration: l-nāsi
   4:
-    arabic: بِاِبۡرٰهِيۡمَ
+    arabic: بِإِبۡرَٰهِيمَ
     translation: with Ibrahim
     transliteration: bi-ib'rāhīma
   5:
-    arabic: لَـلَّذِيۡنَ
+    arabic: لَلَّذِينَ
     translation: (are) those who
     transliteration: lalladhīna
   6:
-    arabic: اتَّبَعُوۡهُ
+    arabic: ٱتَّبَعُوهُ
     translation: follow him
     transliteration: ittabaʿūhu
   7:
-    arabic: وَهٰذَا
+    arabic: وَهَٰذَا
     translation: and this
     transliteration: wahādhā
   8:
-    arabic: النَّبِىُّ
+    arabic: ٱلنَّبِيُّ
     translation: '[the] Prophet'
     transliteration: l-nabiyu
   9:
-    arabic: وَالَّذِيۡنَ
+    arabic: وَٱلَّذِينَ ءَ
     translation: and those who
     transliteration: wa-alladhīna
   10:
-    arabic: اٰمَنُوۡا ​ؕ
+    arabic: امَنُواْۗ
     translation: believe[d]
     transliteration: āmanū
   11:
-    arabic: وَاللّٰهُ
+    arabic: وَٱللَّهُ
     translation: And Allah
     transliteration: wal-lahu
   12:
-    arabic: وَلِىُّ
+    arabic: وَلِيُّ
     translation: (is) a Guardian
     transliteration: waliyyu
   13:
-    arabic: الۡمُؤۡمِنِيۡنَ‏
+    arabic: ٱلۡمُؤۡمِنِينَ
     translation: (of) the believers
     transliteration: l-mu'minīna
 ---

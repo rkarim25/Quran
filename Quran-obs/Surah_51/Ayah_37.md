@@ -1,6 +1,5 @@
 ---
-arabic_ayat: "وَتَرَكۡنَا فِيۡهَاۤ اٰيَةً لِّـلَّذِيۡنَ يَخَافُوۡنَ الۡعَذَابَ الۡاَلِيۡمَؕ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: وَتَرَكۡنَا فِيهَآ ءَايَةٗ لِّلَّذِينَ يَخَافُونَ ٱلۡعَذَابَ ٱلۡأَلِيمَ
 sentence_translation: And We have left a sign there ˹as a lesson˺ for those who fear
   the painful punishment.
 word_by_word:
@@ -9,27 +8,27 @@ word_by_word:
     translation: And We left
     transliteration: wataraknā
   2:
-    arabic: فِيۡهَاۤ
+    arabic: فِيهَآ ءَ
     translation: therein
     transliteration: fīhā
   3:
-    arabic: اٰيَةً
+    arabic: ايَةٗ
     translation: a Sign
     transliteration: āyatan
   4:
-    arabic: لِّـلَّذِيۡنَ
+    arabic: لِّلَّذِينَ
     translation: for those who
     transliteration: lilladhīna
   5:
-    arabic: يَخَافُوۡنَ
+    arabic: يَخَافُونَ
     translation: fear
     transliteration: yakhāfūna
   6:
-    arabic: الۡعَذَابَ
+    arabic: ٱلۡعَذَابَ
     translation: the punishment
     transliteration: l-ʿadhāba
   7:
-    arabic: "الۡاَلِيۡمَؕ‏ \uFEFF\uFEFF"
+    arabic: ٱلۡأَلِيمَ
     translation: the painful
     transliteration: l-alīma
 ---

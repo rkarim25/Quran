@@ -1,5 +1,5 @@
 ---
-arabic_ayat: وَلَوۡلَا نِعۡمَةُ رَبِّىۡ لَـكُنۡتُ مِنَ الۡمُحۡضَرِيۡنَ‏
+arabic_ayat: وَلَوۡلَا نِعۡمَةُ رَبِّي لَكُنتُ مِنَ ٱلۡمُحۡضَرِينَ
 sentence_translation: Had it not been for the grace of my Lord, I ˹too˺ would have
   certainly been among those brought ˹to Hell˺.”
 word_by_word:
@@ -12,11 +12,11 @@ word_by_word:
     translation: (for the) Grace
     transliteration: niʿ'matu
   3:
-    arabic: رَبِّىۡ
+    arabic: رَبِّي
     translation: (of) my Lord
     transliteration: rabbī
   4:
-    arabic: لَـكُنۡتُ
+    arabic: لَكُنتُ
     translation: certainly, I (would) have been
     transliteration: lakuntu
   5:
@@ -24,7 +24,7 @@ word_by_word:
     translation: among
     transliteration: mina
   6:
-    arabic: الۡمُحۡضَرِيۡنَ‏
+    arabic: ٱلۡمُحۡضَرِينَ
     translation: those brought
     transliteration: l-muḥ'ḍarīna
 ---

@@ -1,5 +1,5 @@
 ---
-arabic_ayat: سَيُهۡزَمُ الۡجَمۡعُ وَيُوَلُّوۡنَ الدُّبُرَ‏
+arabic_ayat: سَيُهۡزَمُ ٱلۡجَمۡعُ وَيُوَلُّونَ ٱلدُّبُرَ
 sentence_translation: ˹Soon˺ their united front will be defeated and ˹forced to˺ flee.
 word_by_word:
   1:
@@ -7,15 +7,15 @@ word_by_word:
     translation: Soon will be defeated
     transliteration: sayuh'zamu
   2:
-    arabic: الۡجَمۡعُ
+    arabic: ٱلۡجَمۡعُ
     translation: (their) assembly
     transliteration: l-jamʿu
   3:
-    arabic: وَيُوَلُّوۡنَ
+    arabic: وَيُوَلُّونَ
     translation: and they will turn
     transliteration: wayuwallūna
   4:
-    arabic: الدُّبُرَ‏
+    arabic: ٱلدُّبُرَ
     translation: (their) backs
     transliteration: l-dubura
 ---

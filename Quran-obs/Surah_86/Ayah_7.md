@@ -1,13 +1,13 @@
 ---
-arabic_ayat: يَّخۡرُجُ مِنۡۢ بَيۡنِ الصُّلۡبِ وَالتَّرَآٮِٕبِؕ‏
+arabic_ayat: يَخۡرُجُ مِنۢ بَيۡنِ ٱلصُّلۡبِ وَٱلتَّرَآئِبِ
 sentence_translation: stemming from between the backbone and the ribcage.
 word_by_word:
   1:
-    arabic: يَّخۡرُجُ
+    arabic: يَخۡرُجُ
     translation: Coming forth
     transliteration: yakhruju
   2:
-    arabic: مِنۡۢ
+    arabic: مِنۢ
     translation: from
     transliteration: min
   3:
@@ -15,11 +15,11 @@ word_by_word:
     translation: between
     transliteration: bayni
   4:
-    arabic: الصُّلۡبِ
+    arabic: ٱلصُّلۡبِ
     translation: the backbone
     transliteration: l-ṣul'bi
   5:
-    arabic: وَالتَّرَآٮِٕبِؕ‏
+    arabic: وَٱلتَّرَآئِبِ
     translation: and the ribs
     transliteration: wal-tarāibi
 ---

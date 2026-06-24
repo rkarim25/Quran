@@ -1,20 +1,20 @@
 ---
-arabic_ayat: وَاِذۡ اَخَذۡنَا مِيۡثَاقَكُمۡ وَرَفَعۡنَا فَوۡقَكُمُ الطُّوۡرَؕ خُذُوۡا
-  مَآ اٰتَيۡنٰكُمۡ بِقُوَّةٍ وَّ اذۡكُرُوۡا مَا فِيۡهِ لَعَلَّكُمۡ تَتَّقُوۡنَ‏
+arabic_ayat: وَإِذۡ أَخَذۡنَا مِيثَٰقَكُمۡ وَرَفَعۡنَا فَوۡقَكُمُ ٱلطُّورَ خُذُواْ
+  مَآ ءَاتَيۡنَٰكُم بِقُوَّةٖ وَٱذۡكُرُواْ مَا فِيهِ لَعَلَّكُمۡ تَتَّقُونَ
 sentence_translation: And ˹remember˺ when We took a covenant from you and raised the
   mountain above you ˹saying˺, “Hold firmly to that ˹Scripture˺ which We have given
   you and observe its teachings so perhaps you will become mindful ˹of Allah˺.”
 word_by_word:
   1:
-    arabic: وَاِذۡ
+    arabic: وَإِذۡ
     translation: And when
     transliteration: wa-idh
   2:
-    arabic: اَخَذۡنَا
+    arabic: أَخَذۡنَا
     translation: We took
     transliteration: akhadhnā
   3:
-    arabic: مِيۡثَاقَكُمۡ
+    arabic: مِيثَٰقَكُمۡ
     translation: your covenant
     transliteration: mīthāqakum
   4:
@@ -26,27 +26,27 @@ word_by_word:
     translation: over you
     transliteration: fawqakumu
   6:
-    arabic: الطُّوۡرَؕ
+    arabic: ٱلطُّورَ
     translation: the mount
     transliteration: l-ṭūra
   7:
-    arabic: خُذُوۡا
+    arabic: خُذُواْ
     translation: Hold
     transliteration: khudhū
   8:
-    arabic: مَآ
+    arabic: مَآ ءَ
     translation: what
     transliteration: mā
   9:
-    arabic: اٰتَيۡنٰكُمۡ
+    arabic: اتَيۡنَٰكُم
     translation: We have given you
     transliteration: ātaynākum
   10:
-    arabic: بِقُوَّةٍ
+    arabic: بِقُوَّةٖ
     translation: with strength
     transliteration: biquwwatin
   11:
-    arabic: وَّ اذۡكُرُوۡا
+    arabic: وَٱذۡكُرُواْ
     translation: and remember
     transliteration: wa-udh'kurū
   12:
@@ -54,7 +54,7 @@ word_by_word:
     translation: what
     transliteration: mā
   13:
-    arabic: فِيۡهِ
+    arabic: فِيهِ
     translation: (is) in it
     transliteration: fīhi
   14:
@@ -62,7 +62,7 @@ word_by_word:
     translation: perhaps you
     transliteration: laʿallakum
   15:
-    arabic: تَتَّقُوۡنَ‏
+    arabic: تَتَّقُونَ
     translation: (would become) righteous
     transliteration: tattaqūna
 ---

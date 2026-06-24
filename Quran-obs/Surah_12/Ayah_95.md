@@ -1,30 +1,30 @@
 ---
-arabic_ayat: قَالُوۡا تَاللّٰهِ اِنَّكَ لَفِىۡ ضَلٰلِكَ الۡقَدِيۡمِ‏
+arabic_ayat: قَالُواْ تَٱللَّهِ إِنَّكَ لَفِي ضَلَٰلِكَ ٱلۡقَدِيمِ
 sentence_translation: They replied, “By Allah! You are definitely still in your old
   delusion.”
 word_by_word:
   1:
-    arabic: قَالُوۡا
+    arabic: قَالُواْ
     translation: They said
     transliteration: qālū
   2:
-    arabic: تَاللّٰهِ
+    arabic: تَٱللَّهِ
     translation: By Allah
     transliteration: tal-lahi
   3:
-    arabic: اِنَّكَ
+    arabic: إِنَّكَ
     translation: indeed, you
     transliteration: innaka
   4:
-    arabic: لَفِىۡ
+    arabic: لَفِي
     translation: surely (are) in
     transliteration: lafī
   5:
-    arabic: ضَلٰلِكَ
+    arabic: ضَلَٰلِكَ
     translation: your error
     transliteration: ḍalālika
   6:
-    arabic: الۡقَدِيۡمِ‏
+    arabic: ٱلۡقَدِيمِ
     translation: old
     transliteration: l-qadīmi
 ---

@@ -1,8 +1,8 @@
 ---
-arabic_ayat: فِى الدُّنۡيَا وَالۡاٰخِرَةِؕ وَيَسۡـــَٔلُوۡنَكَ عَنِ الۡيَتٰمٰىؕ قُلۡ
-  اِصۡلَاحٌ لَّهُمۡ خَيۡرٌ ؕ وَاِنۡ تُخَالِطُوۡهُمۡ فَاِخۡوَانُكُمۡ​ؕ وَاللّٰهُ يَعۡلَمُ
-  الۡمُفۡسِدَ مِنَ الۡمُصۡلِحِ​ؕ وَلَوۡ شَآءَ اللّٰهُ لَاَعۡنَتَكُمۡؕ اِنَّ اللّٰهَ
-  عَزِيۡزٌ حَكِيۡمٌ‏
+arabic_ayat: فِي ٱلدُّنۡيَا وَٱلۡأٓخِرَةِۗ وَيَسۡـَٔلُونَكَ عَنِ ٱلۡيَتَٰمَىٰۖ قُلۡ
+  إِصۡلَاحٞ لَّهُمۡ خَيۡرٞۖ وَإِن تُخَالِطُوهُمۡ فَإِخۡوَٰنُكُمۡۚ وَٱللَّهُ يَعۡلَمُ
+  ٱلۡمُفۡسِدَ مِنَ ٱلۡمُصۡلِحِۚ وَلَوۡ شَآءَ ٱللَّهُ لَأَعۡنَتَكُمۡۚ إِنَّ ٱللَّهَ
+  عَزِيزٌ حَكِيمٞ
 sentence_translation: upon this world and the Hereafter. And they ask you ˹O Prophet˺
   concerning orphans. Say, “Improving their condition is best. And if you partner
   with them, they are bonded with you ˹in faith˺. And Allah knows who intends harm
@@ -10,19 +10,19 @@ sentence_translation: upon this world and the Hereafter. And they ask you ˹O Pr
   Allah is Almighty, All-Wise.”
 word_by_word:
   1:
-    arabic: فِى
+    arabic: فِي
     translation: Concerning
     transliteration: fī
   2:
-    arabic: الدُّنۡيَا
+    arabic: ٱلدُّنۡيَا
     translation: the world
     transliteration: l-dun'yā
   3:
-    arabic: وَالۡاٰخِرَةِؕ
+    arabic: وَٱلۡأٓخِرَةِۗ
     translation: and the Hereafter
     transliteration: wal-ākhirati
   4:
-    arabic: وَيَسۡـــَٔلُوۡنَكَ
+    arabic: وَيَسۡـَٔلُونَكَ
     translation: They ask you
     transliteration: wayasalūnaka
   5:
@@ -30,7 +30,7 @@ word_by_word:
     translation: about
     transliteration: ʿani
   6:
-    arabic: الۡيَتٰمٰىؕ
+    arabic: ٱلۡيَتَٰمَىٰۖ
     translation: the orphans
     transliteration: l-yatāmā
   7:
@@ -38,7 +38,7 @@ word_by_word:
     translation: Say
     transliteration: qul
   8:
-    arabic: اِصۡلَاحٌ
+    arabic: إِصۡلَاحٞ
     translation: Setting right (their affairs)
     transliteration: iṣ'lāḥun
   9:
@@ -46,23 +46,23 @@ word_by_word:
     translation: for them
     transliteration: lahum
   10:
-    arabic: خَيۡرٌ ؕ
+    arabic: خَيۡرٞۖ
     translation: (is) best
     transliteration: khayrun
   11:
-    arabic: وَاِنۡ
+    arabic: وَإِن
     translation: And if
     transliteration: wa-in
   12:
-    arabic: تُخَالِطُوۡهُمۡ
+    arabic: تُخَالِطُوهُمۡ
     translation: you associate with them
     transliteration: tukhāliṭūhum
   13:
-    arabic: فَاِخۡوَانُكُمۡ​ؕ
+    arabic: فَإِخۡوَٰنُكُمۡۚ
     translation: then they (are) your brothers
     transliteration: fa-ikh'wānukum
   14:
-    arabic: وَاللّٰهُ
+    arabic: وَٱللَّهُ
     translation: And Allah
     transliteration: wal-lahu
   15:
@@ -70,7 +70,7 @@ word_by_word:
     translation: knows
     transliteration: yaʿlamu
   16:
-    arabic: الۡمُفۡسِدَ
+    arabic: ٱلۡمُفۡسِدَ
     translation: the corrupter
     transliteration: l-muf'sida
   17:
@@ -78,7 +78,7 @@ word_by_word:
     translation: from
     transliteration: mina
   18:
-    arabic: الۡمُصۡلِحِ​ؕ
+    arabic: ٱلۡمُصۡلِحِۚ
     translation: the amender
     transliteration: l-muṣ'liḥi
   19:
@@ -90,27 +90,27 @@ word_by_word:
     translation: (had) willed
     transliteration: shāa
   21:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   22:
-    arabic: لَاَعۡنَتَكُمۡؕ
+    arabic: لَأَعۡنَتَكُمۡۚ
     translation: surely He (could have) put you in difficulties
     transliteration: la-aʿnatakum
   23:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   24:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   25:
-    arabic: عَزِيۡزٌ
+    arabic: عَزِيزٌ
     translation: (is) All-Mighty
     transliteration: ʿazīzun
   26:
-    arabic: حَكِيۡمٌ‏
+    arabic: حَكِيمٞ
     translation: All-Wise
     transliteration: ḥakīmun
 ---

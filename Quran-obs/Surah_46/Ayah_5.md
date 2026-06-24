@@ -1,6 +1,6 @@
 ---
-arabic_ayat: وَمَنۡ اَضَلُّ مِمَّنۡ يَّدۡعُوۡا مِنۡ دُوۡنِ اللّٰهِ مَنۡ لَّا يَسۡتَجِيۡبُ
-  لَهٗۤ اِلٰى يَوۡمِ الۡقِيٰمَةِ وَهُمۡ عَنۡ دُعَآٮِٕهِمۡ غٰفِلُوۡنَ‏
+arabic_ayat: وَمَنۡ أَضَلُّ مِمَّن يَدۡعُواْ مِن دُونِ ٱللَّهِ مَن لَّا يَسۡتَجِيبُ
+  لَهُۥٓ إِلَىٰ يَوۡمِ ٱلۡقِيَٰمَةِ وَهُمۡ عَن دُعَآئِهِمۡ غَٰفِلُونَ
 sentence_translation: And who could be more astray than those who call upon others
   besides Allah—˹others˺ that cannot respond to them until the Day of Judgment, and
   are ˹even˺ unaware of their calls?
@@ -10,31 +10,31 @@ word_by_word:
     translation: And who
     transliteration: waman
   2:
-    arabic: اَضَلُّ
+    arabic: أَضَلُّ
     translation: (is) more astray
     transliteration: aḍallu
   3:
-    arabic: مِمَّنۡ
+    arabic: مِمَّن
     translation: than (he) who
     transliteration: mimman
   4:
-    arabic: يَّدۡعُوۡا
+    arabic: يَدۡعُواْ
     translation: calls
     transliteration: yadʿū
   5:
-    arabic: مِنۡ
+    arabic: مِن
     translation: besides
     transliteration: min
   6:
-    arabic: دُوۡنِ
+    arabic: دُونِ
     translation: besides
     transliteration: dūni
   7:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   8:
-    arabic: مَنۡ
+    arabic: مَن
     translation: who
     transliteration: man
   9:
@@ -42,15 +42,15 @@ word_by_word:
     translation: will not respond
     transliteration: lā
   10:
-    arabic: يَسۡتَجِيۡبُ
+    arabic: يَسۡتَجِيبُ
     translation: will not respond
     transliteration: yastajību
   11:
-    arabic: لَهٗۤ
+    arabic: لَهُۥٓ
     translation: to him
     transliteration: lahu
   12:
-    arabic: اِلٰى
+    arabic: إِلَىٰ
     translation: until
     transliteration: ilā
   13:
@@ -58,7 +58,7 @@ word_by_word:
     translation: (the) Day
     transliteration: yawmi
   14:
-    arabic: الۡقِيٰمَةِ
+    arabic: ٱلۡقِيَٰمَةِ
     translation: (of) Resurrection
     transliteration: l-qiyāmati
   15:
@@ -66,15 +66,15 @@ word_by_word:
     translation: and they
     transliteration: wahum
   16:
-    arabic: عَنۡ
+    arabic: عَن
     translation: of
     transliteration: ʿan
   17:
-    arabic: دُعَآٮِٕهِمۡ
+    arabic: دُعَآئِهِمۡ
     translation: their calls
     transliteration: duʿāihim
   18:
-    arabic: غٰفِلُوۡنَ‏
+    arabic: غَٰفِلُونَ
     translation: (are) unaware
     transliteration: ghāfilūna
 ---

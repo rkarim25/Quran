@@ -1,5 +1,5 @@
 ---
-arabic_ayat: عَلَّمَهُ الۡبَيَانَ‏
+arabic_ayat: عَلَّمَهُ ٱلۡبَيَانَ
 sentence_translation: ˹and˺ taught them speech.
 word_by_word:
   1:
@@ -7,7 +7,7 @@ word_by_word:
     translation: He taught him
     transliteration: ʿallamahu
   2:
-    arabic: الۡبَيَانَ‏
+    arabic: ٱلۡبَيَانَ
     translation: '[the] speech'
     transliteration: l-bayāna
 ---

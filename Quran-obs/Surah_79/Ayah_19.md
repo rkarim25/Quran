@@ -1,14 +1,14 @@
 ---
-arabic_ayat: وَاَهۡدِيَكَ اِلٰى رَبِّكَ فَتَخۡشٰى​ۚ‏
+arabic_ayat: وَأَهۡدِيَكَ إِلَىٰ رَبِّكَ فَتَخۡشَىٰ
 sentence_translation: and let me guide you to your Lord so that you will be in awe
   ˹of Him˺?’”
 word_by_word:
   1:
-    arabic: وَاَهۡدِيَكَ
+    arabic: وَأَهۡدِيَكَ
     translation: And I will guide you
     transliteration: wa-ahdiyaka
   2:
-    arabic: اِلٰى
+    arabic: إِلَىٰ
     translation: to
     transliteration: ilā
   3:
@@ -16,7 +16,7 @@ word_by_word:
     translation: your Lord
     transliteration: rabbika
   4:
-    arabic: فَتَخۡشٰى​ۚ‏
+    arabic: فَتَخۡشَىٰ
     translation: so you would fear
     transliteration: fatakhshā
 ---

@@ -1,9 +1,9 @@
 ---
-arabic_ayat: وَمِنۡ شَرِّ حَاسِدٍ اِذَا حَسَدَ‏
+arabic_ayat: وَمِن شَرِّ حَاسِدٍ إِذَا حَسَدَ
 sentence_translation: and from the evil of an envier when they envy.”
 word_by_word:
   1:
-    arabic: وَمِنۡ
+    arabic: وَمِن
     translation: And from
     transliteration: wamin
   2:
@@ -15,11 +15,11 @@ word_by_word:
     translation: (of) an envier
     transliteration: ḥāsidin
   4:
-    arabic: اِذَا
+    arabic: إِذَا
     translation: when
     transliteration: idhā
   5:
-    arabic: حَسَدَ‏
+    arabic: حَسَدَ
     translation: he envies
     transliteration: ḥasada
 ---

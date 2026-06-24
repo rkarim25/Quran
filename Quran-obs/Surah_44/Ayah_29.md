@@ -1,6 +1,5 @@
 ---
-arabic_ayat: "فَمَا بَكَتۡ عَلَيۡهِمُ السَّمَآءُ وَالۡاَرۡضُ وَمَا كَانُوۡا مُنۡظَرِيۡنَ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: فَمَا بَكَتۡ عَلَيۡهِمُ ٱلسَّمَآءُ وَٱلۡأَرۡضُ وَمَا كَانُواْ مُنظَرِينَ
 sentence_translation: Neither heaven nor earth wept over them, nor was their fate
   delayed.
 word_by_word:
@@ -17,11 +16,11 @@ word_by_word:
     translation: for them
     transliteration: ʿalayhimu
   4:
-    arabic: السَّمَآءُ
+    arabic: ٱلسَّمَآءُ
     translation: the heaven
     transliteration: l-samāu
   5:
-    arabic: وَالۡاَرۡضُ
+    arabic: وَٱلۡأَرۡضُ
     translation: and the earth
     transliteration: wal-arḍu
   6:
@@ -29,11 +28,11 @@ word_by_word:
     translation: and not
     transliteration: wamā
   7:
-    arabic: كَانُوۡا
+    arabic: كَانُواْ
     translation: they were
     transliteration: kānū
   8:
-    arabic: "مُنۡظَرِيۡنَ‏ \uFEFF\uFEFF"
+    arabic: مُنظَرِينَ
     translation: given respite
     transliteration: munẓarīna
 ---

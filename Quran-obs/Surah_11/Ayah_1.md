@@ -1,23 +1,23 @@
 ---
-arabic_ayat: الٓرٰ​ كِتٰبٌ اُحۡكِمَتۡ اٰيٰـتُهٗ ثُمَّ فُصِّلَتۡ مِنۡ لَّدُنۡ حَكِيۡمٍ
-  خَبِيۡرٍۙ‏
+arabic_ayat: الٓرۚ كِتَٰبٌ أُحۡكِمَتۡ ءَايَٰتُهُۥ ثُمَّ فُصِّلَتۡ مِن لَّدُنۡ حَكِيمٍ
+  خَبِيرٍ
 sentence_translation: Alif-Lãm-Ra. ˹This is˺ a Book whose verses are well perfected
   and then fully explained. ˹It is˺ from the One ˹Who is˺ All-Wise, All-Aware.
 word_by_word:
   1:
-    arabic: الٓرٰ​
+    arabic: الٓرۚ
     translation: Alif Lam Ra
     transliteration: alif-lam-ra
   2:
-    arabic: كِتٰبٌ
+    arabic: كِتَٰبٌ
     translation: (This is) a Book
     transliteration: kitābun
   3:
-    arabic: اُحۡكِمَتۡ
+    arabic: أُحۡكِمَتۡ ءَ
     translation: are perfected
     transliteration: uḥ'kimat
   4:
-    arabic: اٰيٰـتُهٗ
+    arabic: ايَٰتُهُۥ
     translation: its Verses
     transliteration: āyātuhu
   5:
@@ -29,7 +29,7 @@ word_by_word:
     translation: explained in detail
     transliteration: fuṣṣilat
   7:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from (he One Who)
     transliteration: min
   8:
@@ -37,11 +37,11 @@ word_by_word:
     translation: from (he One Who)
     transliteration: ladun
   9:
-    arabic: حَكِيۡمٍ
+    arabic: حَكِيمٍ
     translation: (is) All-Wise
     transliteration: ḥakīmin
   10:
-    arabic: خَبِيۡرٍۙ‏
+    arabic: خَبِيرٍ
     translation: All-Aware
     transliteration: khabīrin
 ---

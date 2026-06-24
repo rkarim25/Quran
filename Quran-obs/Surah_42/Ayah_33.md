@@ -1,15 +1,15 @@
 ---
-arabic_ayat: اِنۡ يَّشَاۡ يُسۡكِنِ الرِّيۡحَ فَيَظۡلَلۡنَ رَوَاكِدَ عَلٰى ظَهۡرِهٖؕ
-  اِنَّ فِىۡ ذٰلِكَ لَاٰيٰتٍ لِّـكُلِّ صَبَّارٍ شَكُوۡرٍۙ‏
+arabic_ayat: إِن يَشَأۡ يُسۡكِنِ ٱلرِّيحَ فَيَظۡلَلۡنَ رَوَاكِدَ عَلَىٰ ظَهۡرِهِۦٓۚ
+  إِنَّ فِي ذَٰلِكَ لَأٓيَٰتٖ لِّكُلِّ صَبَّارٖ شَكُورٍ
 sentence_translation: If He wills, He can calm the wind, leaving the ships motionless
   on the water. Surely in this are signs for whoever is steadfast, grateful.
 word_by_word:
   1:
-    arabic: اِنۡ
+    arabic: إِن
     translation: If
     transliteration: in
   2:
-    arabic: يَّشَاۡ
+    arabic: يَشَأۡ
     translation: He wills
     transliteration: yasha
   3:
@@ -17,7 +17,7 @@ word_by_word:
     translation: He can cause the wind to become still
     transliteration: yus'kini
   4:
-    arabic: الرِّيۡحَ
+    arabic: ٱلرِّيحَ
     translation: He can cause the wind to become still
     transliteration: l-rīḥa
   5:
@@ -29,39 +29,39 @@ word_by_word:
     translation: motionless
     transliteration: rawākida
   7:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: 'on'
     transliteration: ʿalā
   8:
-    arabic: ظَهۡرِهٖؕ
+    arabic: ظَهۡرِهِۦٓۚ
     translation: its back
     transliteration: ẓahrihi
   9:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   10:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   11:
-    arabic: ذٰلِكَ
+    arabic: ذَٰلِكَ
     translation: that
     transliteration: dhālika
   12:
-    arabic: لَاٰيٰتٍ
+    arabic: لَأٓيَٰتٖ
     translation: surely (are) Signs
     transliteration: laāyātin
   13:
-    arabic: لِّـكُلِّ
+    arabic: لِّكُلِّ
     translation: for everyone
     transliteration: likulli
   14:
-    arabic: صَبَّارٍ
+    arabic: صَبَّارٖ
     translation: patient
     transliteration: ṣabbārin
   15:
-    arabic: شَكُوۡرٍۙ‏
+    arabic: شَكُورٍ
     translation: (and) grateful
     transliteration: shakūrin
 ---

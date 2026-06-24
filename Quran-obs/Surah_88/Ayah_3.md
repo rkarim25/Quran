@@ -1,13 +1,13 @@
 ---
-arabic_ayat: عَامِلَةٌ نَّاصِبَةٌ ۙ‏
+arabic_ayat: عَامِلَةٞ نَّاصِبَةٞ
 sentence_translation: ˹totally˺ overburdened, exhausted,
 word_by_word:
   1:
-    arabic: عَامِلَةٌ
+    arabic: عَامِلَةٞ
     translation: Laboring
     transliteration: ʿāmilatun
   2:
-    arabic: نَّاصِبَةٌ ۙ‏
+    arabic: نَّاصِبَةٞ
     translation: exhausted
     transliteration: nāṣibatun
 ---

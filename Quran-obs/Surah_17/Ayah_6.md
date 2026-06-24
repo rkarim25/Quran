@@ -1,6 +1,6 @@
 ---
-arabic_ayat: ثُمَّ رَدَدۡنَا لَـكُمُ الۡكَرَّةَ عَلَيۡهِمۡ وَاَمۡدَدۡنٰـكُمۡ بِاَمۡوَالٍ
-  وَّبَنِيۡنَ وَجَعَلۡنٰكُمۡ اَكۡثَرَ نَفِيۡرًا‏
+arabic_ayat: ثُمَّ رَدَدۡنَا لَكُمُ ٱلۡكَرَّةَ عَلَيۡهِمۡ وَأَمۡدَدۡنَٰكُم بِأَمۡوَٰلٖ
+  وَبَنِينَ وَجَعَلۡنَٰكُمۡ أَكۡثَرَ نَفِيرًا
 sentence_translation: Then ˹after your repentance˺ We would give you the upper hand
   over them and aid you with wealth and offspring, causing you to outnumber them.
 word_by_word:
@@ -13,11 +13,11 @@ word_by_word:
     translation: We gave back
     transliteration: radadnā
   3:
-    arabic: لَـكُمُ
+    arabic: لَكُمُ
     translation: to you
     transliteration: lakumu
   4:
-    arabic: الۡكَرَّةَ
+    arabic: ٱلۡكَرَّةَ
     translation: the return victory
     transliteration: l-karata
   5:
@@ -25,27 +25,27 @@ word_by_word:
     translation: over them
     transliteration: ʿalayhim
   6:
-    arabic: وَاَمۡدَدۡنٰـكُمۡ
+    arabic: وَأَمۡدَدۡنَٰكُم
     translation: And We reinforced you
     transliteration: wa-amdadnākum
   7:
-    arabic: بِاَمۡوَالٍ
+    arabic: بِأَمۡوَٰلٖ
     translation: with the wealth
     transliteration: bi-amwālin
   8:
-    arabic: وَّبَنِيۡنَ
+    arabic: وَبَنِينَ
     translation: and sons
     transliteration: wabanīna
   9:
-    arabic: وَجَعَلۡنٰكُمۡ
+    arabic: وَجَعَلۡنَٰكُمۡ
     translation: and made you
     transliteration: wajaʿalnākum
   10:
-    arabic: اَكۡثَرَ
+    arabic: أَكۡثَرَ
     translation: more
     transliteration: akthara
   11:
-    arabic: نَفِيۡرًا‏
+    arabic: نَفِيرًا
     translation: numerous
     transliteration: nafīran
 ---

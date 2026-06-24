@@ -1,10 +1,10 @@
 ---
-arabic_ayat: ذُرِّيَّةًۢ بَعۡضُهَا مِنۡۢ بَعۡضٍ​ؕ وَاللّٰهُ سَمِيۡعٌ عَلِيۡمٌ​ۚ‏
+arabic_ayat: ذُرِّيَّةَۢ بَعۡضُهَا مِنۢ بَعۡضٖۗ وَٱللَّهُ سَمِيعٌ عَلِيمٌ
 sentence_translation: They are descendants of one another. And Allah is All-Hearing,
   All-Knowing.
 word_by_word:
   1:
-    arabic: ذُرِّيَّةًۢ
+    arabic: ذُرِّيَّةَۢ
     translation: Descendents
     transliteration: dhurriyyatan
   2:
@@ -12,23 +12,23 @@ word_by_word:
     translation: some of them
     transliteration: baʿḍuhā
   3:
-    arabic: مِنۡۢ
+    arabic: مِنۢ
     translation: from
     transliteration: min
   4:
-    arabic: بَعۡضٍ​ؕ
+    arabic: بَعۡضٖۗ
     translation: others
     transliteration: baʿḍin
   5:
-    arabic: وَاللّٰهُ
+    arabic: وَٱللَّهُ
     translation: And Allah
     transliteration: wal-lahu
   6:
-    arabic: سَمِيۡعٌ
+    arabic: سَمِيعٌ
     translation: (is) All-Hearing
     transliteration: samīʿun
   7:
-    arabic: عَلِيۡمٌ​ۚ‏
+    arabic: عَلِيمٌ
     translation: All-Knowing
     transliteration: ʿalīmun
 ---

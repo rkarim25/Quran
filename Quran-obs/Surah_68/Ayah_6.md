@@ -1,13 +1,13 @@
 ---
-arabic_ayat: بِاَيِّٮكُمُ الۡمَفۡتُوۡنُ‏
+arabic_ayat: بِأَييِّكُمُ ٱلۡمَفۡتُونُ
 sentence_translation: which of you is mad.
 word_by_word:
   1:
-    arabic: بِاَيِّٮكُمُ
+    arabic: بِأَييِّكُمُ
     translation: Which of you
     transliteration: bi-ayyikumu
   2:
-    arabic: الۡمَفۡتُوۡنُ‏
+    arabic: ٱلۡمَفۡتُونُ
     translation: (is) the afflicted one
     transliteration: l-maftūnu
 ---

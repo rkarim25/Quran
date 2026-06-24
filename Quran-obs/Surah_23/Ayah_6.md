@@ -1,23 +1,23 @@
 ---
-arabic_ayat: اِلَّا عَلٰٓى اَزۡوَاجِهِمۡ اَوۡ مَا مَلَـكَتۡ اَيۡمَانُهُمۡ فَاِنَّهُمۡ
-  غَيۡرُ مَلُوۡمِيۡنَ​ۚ‏
+arabic_ayat: إِلَّا عَلَىٰٓ أَزۡوَٰجِهِمۡ أَوۡ مَا مَلَكَتۡ أَيۡمَٰنُهُمۡ فَإِنَّهُمۡ
+  غَيۡرُ مَلُومِينَ
 sentence_translation: except with their wives or those ˹bondwomen˺ in their possession, for
   then they are free from blame,
 word_by_word:
   1:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: Except
     transliteration: illā
   2:
-    arabic: عَلٰٓى
+    arabic: عَلَىٰٓ
     translation: from
     transliteration: ʿalā
   3:
-    arabic: اَزۡوَاجِهِمۡ
+    arabic: أَزۡوَٰجِهِمۡ
     translation: their spouses
     transliteration: azwājihim
   4:
-    arabic: اَوۡ
+    arabic: أَوۡ
     translation: or
     transliteration: aw
   5:
@@ -25,15 +25,15 @@ word_by_word:
     translation: what
     transliteration: mā
   6:
-    arabic: مَلَـكَتۡ
+    arabic: مَلَكَتۡ
     translation: possess
     transliteration: malakat
   7:
-    arabic: اَيۡمَانُهُمۡ
+    arabic: أَيۡمَٰنُهُمۡ
     translation: their right hands
     transliteration: aymānuhum
   8:
-    arabic: فَاِنَّهُمۡ
+    arabic: فَإِنَّهُمۡ
     translation: then indeed, they
     transliteration: fa-innahum
   9:
@@ -41,7 +41,7 @@ word_by_word:
     translation: (are) not
     transliteration: ghayru
   10:
-    arabic: مَلُوۡمِيۡنَ​ۚ‏
+    arabic: مَلُومِينَ
     translation: blameworthy
     transliteration: malūmīna
 ---

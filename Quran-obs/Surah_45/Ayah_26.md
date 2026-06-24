@@ -1,6 +1,6 @@
 ---
-arabic_ayat: قُلِ اللّٰهُ يُحۡيِيۡكُمۡ ثُمَّ يُمِيۡتُكُمۡ ثُمَّ يَجۡمَعُكُمۡ اِلٰى
-  يَوۡمِ الۡقِيٰمَةِ لَا رَيۡبَ فِيۡهِ وَلٰكِنَّ اَكۡثَرَ النَّاسِ لَا يَعۡلَمُوۡنَ‏
+arabic_ayat: قُلِ ٱللَّهُ يُحۡيِيكُمۡ ثُمَّ يُمِيتُكُمۡ ثُمَّ يَجۡمَعُكُمۡ إِلَىٰ
+  يَوۡمِ ٱلۡقِيَٰمَةِ لَا رَيۡبَ فِيهِ وَلَٰكِنَّ أَكۡثَرَ ٱلنَّاسِ لَا يَعۡلَمُونَ
 sentence_translation: Say, ˹O Prophet,˺ “˹It is˺ Allah ˹Who˺ gives you life, then
   causes you to die, then will gather you ˹all˺ on the Day of Judgment, about which
   there is no doubt. But most people do not know.”
@@ -10,11 +10,11 @@ word_by_word:
     translation: Say
     transliteration: quli
   2:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   3:
-    arabic: يُحۡيِيۡكُمۡ
+    arabic: يُحۡيِيكُمۡ
     translation: gives you life
     transliteration: yuḥ'yīkum
   4:
@@ -22,7 +22,7 @@ word_by_word:
     translation: then
     transliteration: thumma
   5:
-    arabic: يُمِيۡتُكُمۡ
+    arabic: يُمِيتُكُمۡ
     translation: causes you to die
     transliteration: yumītukum
   6:
@@ -34,7 +34,7 @@ word_by_word:
     translation: He will gather you
     transliteration: yajmaʿukum
   8:
-    arabic: اِلٰى
+    arabic: إِلَىٰ
     translation: to
     transliteration: ilā
   9:
@@ -42,7 +42,7 @@ word_by_word:
     translation: (the) Day
     transliteration: yawmi
   10:
-    arabic: الۡقِيٰمَةِ
+    arabic: ٱلۡقِيَٰمَةِ
     translation: (of) the Resurrection
     transliteration: l-qiyāmati
   11:
@@ -54,19 +54,19 @@ word_by_word:
     translation: doubt
     transliteration: rayba
   13:
-    arabic: فِيۡهِ
+    arabic: فِيهِ
     translation: about it
     transliteration: fīhi
   14:
-    arabic: وَلٰكِنَّ
+    arabic: وَلَٰكِنَّ
     translation: But
     transliteration: walākinna
   15:
-    arabic: اَكۡثَرَ
+    arabic: أَكۡثَرَ
     translation: most
     transliteration: akthara
   16:
-    arabic: النَّاسِ
+    arabic: ٱلنَّاسِ
     translation: (of) the people
     transliteration: l-nāsi
   17:
@@ -74,7 +74,7 @@ word_by_word:
     translation: (do) not
     transliteration: lā
   18:
-    arabic: يَعۡلَمُوۡنَ‏
+    arabic: يَعۡلَمُونَ
     translation: know
     transliteration: yaʿlamūna
 ---

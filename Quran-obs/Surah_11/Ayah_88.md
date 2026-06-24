@@ -1,8 +1,8 @@
 ---
-arabic_ayat: قَالَ يٰقَوۡمِ اَرَءَيۡتُمۡ اِنۡ كُنۡتُ عَلٰى بَيِّنَةٍ مِّنۡ رَّبِّىۡ
-  وَرَزَقَنِىۡ مِنۡهُ رِزۡقًا حَسَنًا​ ؕ وَمَاۤ اُرِيۡدُ اَنۡ اُخَالِفَكُمۡ اِلٰى
-  مَاۤ اَنۡهٰٮكُمۡ عَنۡهُ​ ؕ اِنۡ اُرِيۡدُ اِلَّا الۡاِصۡلَاحَ مَا اسۡتَطَعۡتُ​ ؕ
-  وَمَا تَوۡفِيۡقِىۡۤ اِلَّا بِاللّٰهِ​ ؕ عَلَيۡهِ تَوَكَّلۡتُ وَاِلَيۡهِ اُنِيۡبُ‏
+arabic_ayat: قَالَ يَٰقَوۡمِ أَرَءَيۡتُمۡ إِن كُنتُ عَلَىٰ بَيِّنَةٖ مِّن رَّبِّي
+  وَرَزَقَنِي مِنۡهُ رِزۡقًا حَسَنٗاۚ وَمَآ أُرِيدُ أَنۡ أُخَالِفَكُمۡ إِلَىٰ مَآ
+  أَنۡهَىٰكُمۡ عَنۡهُۚ إِنۡ أُرِيدُ إِلَّا ٱلۡإِصۡلَٰحَ مَا ٱسۡتَطَعۡتُۚ وَمَا تَوۡفِيقِيٓ
+  إِلَّا بِٱللَّهِۚ عَلَيۡهِ تَوَكَّلۡتُ وَإِلَيۡهِ أُنِيبُ
 sentence_translation: He said, “O my people! Consider if I stand on a clear proof
   from my Lord and He has blessed me with a good provision from Him. I do not want
   to do what I am forbidding you from. I only intend reform to the best of my ability.
@@ -13,39 +13,39 @@ word_by_word:
     translation: He said
     transliteration: qāla
   2:
-    arabic: يٰقَوۡمِ
+    arabic: يَٰقَوۡمِ
     translation: O my people
     transliteration: yāqawmi
   3:
-    arabic: اَرَءَيۡتُمۡ
+    arabic: أَرَءَيۡتُمۡ
     translation: Do you see
     transliteration: ara-aytum
   4:
-    arabic: اِنۡ
+    arabic: إِن
     translation: if
     transliteration: in
   5:
-    arabic: كُنۡتُ
+    arabic: كُنتُ
     translation: I am
     transliteration: kuntu
   6:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: 'on'
     transliteration: ʿalā
   7:
-    arabic: بَيِّنَةٍ
+    arabic: بَيِّنَةٖ
     translation: a clear evidence
     transliteration: bayyinatin
   8:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: from
     transliteration: min
   9:
-    arabic: رَّبِّىۡ
+    arabic: رَّبِّي
     translation: my Lord
     transliteration: rabbī
   10:
-    arabic: وَرَزَقَنِىۡ
+    arabic: وَرَزَقَنِي
     translation: and He has provided me
     transliteration: warazaqanī
   11:
@@ -57,55 +57,55 @@ word_by_word:
     translation: a good provision
     transliteration: riz'qan
   13:
-    arabic: حَسَنًا​ ؕ
+    arabic: حَسَنٗاۚ
     translation: a good provision
     transliteration: ḥasanan
   14:
-    arabic: وَمَاۤ
+    arabic: وَمَآ
     translation: And not
     transliteration: wamā
   15:
-    arabic: اُرِيۡدُ
+    arabic: أُرِيدُ
     translation: I intend
     transliteration: urīdu
   16:
-    arabic: اَنۡ
+    arabic: أَنۡ
     translation: that
     transliteration: an
   17:
-    arabic: اُخَالِفَكُمۡ
+    arabic: أُخَالِفَكُمۡ
     translation: I differ from you
     transliteration: ukhālifakum
   18:
-    arabic: اِلٰى
+    arabic: إِلَىٰ
     translation: in
     transliteration: ilā
   19:
-    arabic: مَاۤ
+    arabic: مَآ
     translation: what
     transliteration: mā
   20:
-    arabic: اَنۡهٰٮكُمۡ
+    arabic: أَنۡهَىٰكُمۡ
     translation: I forbid you
     transliteration: anhākum
   21:
-    arabic: عَنۡهُ​ ؕ
+    arabic: عَنۡهُۚ
     translation: from it
     transliteration: ʿanhu
   22:
-    arabic: اِنۡ
+    arabic: إِنۡ
     translation: Not
     transliteration: in
   23:
-    arabic: اُرِيۡدُ
+    arabic: أُرِيدُ
     translation: I intend
     transliteration: urīdu
   24:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   25:
-    arabic: الۡاِصۡلَاحَ
+    arabic: ٱلۡإِصۡلَٰحَ
     translation: the reform
     transliteration: l-iṣ'lāḥa
   26:
@@ -113,7 +113,7 @@ word_by_word:
     translation: as much as I am able
     transliteration: mā
   27:
-    arabic: اسۡتَطَعۡتُ​ ؕ
+    arabic: ٱسۡتَطَعۡتُۚ
     translation: as much as I am able
     transliteration: is'taṭaʿtu
   28:
@@ -121,15 +121,15 @@ word_by_word:
     translation: And not
     transliteration: wamā
   29:
-    arabic: تَوۡفِيۡقِىۡۤ
+    arabic: تَوۡفِيقِيٓ
     translation: (is) my success
     transliteration: tawfīqī
   30:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   31:
-    arabic: بِاللّٰهِ​ ؕ
+    arabic: بِٱللَّهِۚ
     translation: with Allah
     transliteration: bil-lahi
   32:
@@ -141,11 +141,11 @@ word_by_word:
     translation: I trust
     transliteration: tawakkaltu
   34:
-    arabic: وَاِلَيۡهِ
+    arabic: وَإِلَيۡهِ
     translation: and to Him
     transliteration: wa-ilayhi
   35:
-    arabic: اُنِيۡبُ‏
+    arabic: أُنِيبُ
     translation: I turn
     transliteration: unību
 ---

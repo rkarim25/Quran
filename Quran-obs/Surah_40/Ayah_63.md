@@ -1,11 +1,10 @@
 ---
-arabic_ayat: "كَذٰلِكَ يُؤۡفَكُ الَّذِيۡنَ كَانُوۡا بِاٰيٰتِ اللّٰهِ يَجۡحَدُوۡنَ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: كَذَٰلِكَ يُؤۡفَكُ ٱلَّذِينَ كَانُواْ بِـَٔايَٰتِ ٱللَّهِ يَجۡحَدُونَ
 sentence_translation: This is how those who used to reject Allah’s signs were ˹also˺
   deluded.
 word_by_word:
   1:
-    arabic: كَذٰلِكَ
+    arabic: كَذَٰلِكَ
     translation: Thus
     transliteration: kadhālika
   2:
@@ -13,23 +12,23 @@ word_by_word:
     translation: were deluded
     transliteration: yu'faku
   3:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   4:
-    arabic: كَانُوۡا
+    arabic: كَانُواْ
     translation: 'were '
     transliteration: kānū
   5:
-    arabic: بِاٰيٰتِ
+    arabic: بِـَٔايَٰتِ
     translation: (the) Signs
     transliteration: biāyāti
   6:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (of) Allah
     transliteration: l-lahi
   7:
-    arabic: "يَجۡحَدُوۡنَ‏ \uFEFF\uFEFF"
+    arabic: يَجۡحَدُونَ
     translation: rejecting
     transliteration: yajḥadūna
 ---

@@ -1,12 +1,12 @@
 ---
-arabic_ayat: وَقَارُوۡنَ وَفِرۡعَوۡنَ وَهَامٰنَ​ وَلَقَدۡ جَآءَهُمۡ مُّوۡسٰى بِالۡبَيِّنٰتِ
-  فَاسۡتَكۡبَرُوۡا فِى الۡاَرۡضِ وَمَا كَانُوۡا سٰبِقِيۡنَ ​ ۖ ​ ۚ‏
+arabic_ayat: وَقَٰرُونَ وَفِرۡعَوۡنَ وَهَٰمَٰنَۖ وَلَقَدۡ جَآءَهُم مُّوسَىٰ بِٱلۡبَيِّنَٰتِ
+  فَٱسۡتَكۡبَرُواْ فِي ٱلۡأَرۡضِ وَمَا كَانُواْ سَٰبِقِينَ
 sentence_translation: ˹We˺ also ˹destroyed˺ Korah, Pharaoh, and Hamân. Indeed, Moses
   had come to them with clear proofs, but they behaved arrogantly in the land. Yet
   they could not escape ˹Us˺.
 word_by_word:
   1:
-    arabic: وَقَارُوۡنَ
+    arabic: وَقَٰرُونَ
     translation: And Qarun
     transliteration: waqārūna
   2:
@@ -14,7 +14,7 @@ word_by_word:
     translation: and Firaun
     transliteration: wafir'ʿawna
   3:
-    arabic: وَهَامٰنَ​
+    arabic: وَهَٰمَٰنَۖ
     translation: and Haman
     transliteration: wahāmāna
   4:
@@ -22,27 +22,27 @@ word_by_word:
     translation: And certainly
     transliteration: walaqad
   5:
-    arabic: جَآءَهُمۡ
+    arabic: جَآءَهُم
     translation: came to them
     transliteration: jāahum
   6:
-    arabic: مُّوۡسٰى
+    arabic: مُّوسَىٰ
     translation: Musa
     transliteration: mūsā
   7:
-    arabic: بِالۡبَيِّنٰتِ
+    arabic: بِٱلۡبَيِّنَٰتِ
     translation: with clear evidences
     transliteration: bil-bayināti
   8:
-    arabic: فَاسۡتَكۡبَرُوۡا
+    arabic: فَٱسۡتَكۡبَرُواْ
     translation: but they were arrogant
     transliteration: fa-is'takbarū
   9:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   10:
-    arabic: الۡاَرۡضِ
+    arabic: ٱلۡأَرۡضِ
     translation: the earth
     transliteration: l-arḍi
   11:
@@ -50,11 +50,11 @@ word_by_word:
     translation: and not
     transliteration: wamā
   12:
-    arabic: كَانُوۡا
+    arabic: كَانُواْ
     translation: they could
     transliteration: kānū
   13:
-    arabic: سٰبِقِيۡنَ ​ ۖ ​ ۚ‏
+    arabic: سَٰبِقِينَ
     translation: outstrip Us
     transliteration: sābiqīna
 ---

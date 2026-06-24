@@ -1,11 +1,11 @@
 ---
-arabic_ayat: اُنْظُرۡ كَيۡفَ فَضَّلۡنَا بَعۡضَهُمۡ عَلٰى بَعۡضٍ​ ؕ وَلَـلۡاٰخِرَةُ
-  اَكۡبَرُ دَرَجٰتٍ وَّاَكۡبَرُ تَفۡضِيۡلًا‏
+arabic_ayat: ٱنظُرۡ كَيۡفَ فَضَّلۡنَا بَعۡضَهُمۡ عَلَىٰ بَعۡضٖۚ وَلَلۡأٓخِرَةُ أَكۡبَرُ
+  دَرَجَٰتٖ وَأَكۡبَرُ تَفۡضِيلٗا
 sentence_translation: See how We have favoured some over others ˹in this life˺, but
   the Hereafter is certainly far greater in rank and in favour.
 word_by_word:
   1:
-    arabic: اُنْظُرۡ
+    arabic: ٱنظُرۡ
     translation: See
     transliteration: unẓur
   2:
@@ -21,31 +21,31 @@ word_by_word:
     translation: some of them
     transliteration: baʿḍahum
   5:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: over
     transliteration: ʿalā
   6:
-    arabic: بَعۡضٍ​ ؕ
+    arabic: بَعۡضٖۚ
     translation: others
     transliteration: baʿḍin
   7:
-    arabic: وَلَـلۡاٰخِرَةُ
+    arabic: وَلَلۡأٓخِرَةُ
     translation: And surely the Hereafter
     transliteration: walalākhiratu
   8:
-    arabic: اَكۡبَرُ
+    arabic: أَكۡبَرُ
     translation: (is) greater
     transliteration: akbaru
   9:
-    arabic: دَرَجٰتٍ
+    arabic: دَرَجَٰتٖ
     translation: (in) degrees
     transliteration: darajātin
   10:
-    arabic: وَّاَكۡبَرُ
+    arabic: وَأَكۡبَرُ
     translation: and greater
     transliteration: wa-akbaru
   11:
-    arabic: تَفۡضِيۡلًا‏
+    arabic: تَفۡضِيلٗا
     translation: (in) excellence
     transliteration: tafḍīlan
 ---

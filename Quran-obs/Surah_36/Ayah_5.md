@@ -1,17 +1,17 @@
 ---
-arabic_ayat: تَنۡزِيۡلَ الۡعَزِيۡزِ الرَّحِيۡمِ ۙ‏
+arabic_ayat: تَنزِيلَ ٱلۡعَزِيزِ ٱلرَّحِيمِ
 sentence_translation: ˹This is˺ a revelation from the Almighty, Most Merciful,
 word_by_word:
   1:
-    arabic: تَنۡزِيۡلَ
+    arabic: تَنزِيلَ
     translation: A revelation
     transliteration: tanzīla
   2:
-    arabic: الۡعَزِيۡزِ
+    arabic: ٱلۡعَزِيزِ
     translation: (of) the All-Mighty
     transliteration: l-ʿazīzi
   3:
-    arabic: الرَّحِيۡمِ ۙ‏
+    arabic: ٱلرَّحِيمِ
     translation: the Most Merciful
     transliteration: l-raḥīmi
 ---

@@ -1,6 +1,6 @@
 ---
-arabic_ayat: وَنَزَّلۡنَا مِنَ السَّمَآءِ مَآءً مُّبٰـرَكًا فَاَنۡۢبَـتۡـنَا بِهٖ
-  جَنّٰتٍ وَّحَبَّ الۡحَصِيۡدِ ۙ‏
+arabic_ayat: وَنَزَّلۡنَا مِنَ ٱلسَّمَآءِ مَآءٗ مُّبَٰرَكٗا فَأَنۢبَتۡنَا بِهِۦ
+  جَنَّٰتٖ وَحَبَّ ٱلۡحَصِيدِ
 sentence_translation: And We send down blessed rain from the sky, bringing forth gardens
   and grains for harvest,
 word_by_word:
@@ -13,35 +13,35 @@ word_by_word:
     translation: from
     transliteration: mina
   3:
-    arabic: السَّمَآءِ
+    arabic: ٱلسَّمَآءِ
     translation: the sky
     transliteration: l-samāi
   4:
-    arabic: مَآءً
+    arabic: مَآءٗ
     translation: water
     transliteration: māan
   5:
-    arabic: مُّبٰـرَكًا
+    arabic: مُّبَٰرَكٗا
     translation: blessed
     transliteration: mubārakan
   6:
-    arabic: فَاَنۡۢبَـتۡـنَا
+    arabic: فَأَنۢبَتۡنَا
     translation: then We made to grow
     transliteration: fa-anbatnā
   7:
-    arabic: بِهٖ
+    arabic: بِهِۦ
     translation: thereby
     transliteration: bihi
   8:
-    arabic: جَنّٰتٍ
+    arabic: جَنَّٰتٖ
     translation: gardens
     transliteration: jannātin
   9:
-    arabic: وَّحَبَّ
+    arabic: وَحَبَّ
     translation: and grain
     transliteration: waḥabba
   10:
-    arabic: الۡحَصِيۡدِ ۙ‏
+    arabic: ٱلۡحَصِيدِ
     translation: (for) the harvest
     transliteration: l-ḥaṣīdi
 ---

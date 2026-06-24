@@ -1,7 +1,7 @@
 ---
-arabic_ayat: وَمَا نُرۡسِلُ الۡمُرۡسَلِيۡنَ اِلَّا مُبَشِّرِيۡنَ وَمُنۡذِرِيۡنَ​ ۚ
-  وَيُجَادِلُ الَّذِيۡنَ كَفَرُوۡا بِالۡبَاطِلِ لِـيُدۡحِضُوۡا بِهِ الۡحَـقَّ​ وَاتَّخَذُوۡۤا
-  اٰيٰتِىۡ وَمَاۤ اُنۡذِرُوۡا هُزُوًا‏
+arabic_ayat: وَمَا نُرۡسِلُ ٱلۡمُرۡسَلِينَ إِلَّا مُبَشِّرِينَ وَمُنذِرِينَۚ وَيُجَٰدِلُ
+  ٱلَّذِينَ كَفَرُواْ بِٱلۡبَٰطِلِ لِيُدۡحِضُواْ بِهِ ٱلۡحَقَّۖ وَٱتَّخَذُوٓاْ ءَايَٰتِي
+  وَمَآ أُنذِرُواْ هُزُوٗا
 sentence_translation: We do not send the messengers except as deliverers of good news
   and warners. But the disbelievers argue in falsehood, ˹hoping˺ to discredit the
   truth with it, and make a mockery of My revelations and warnings.
@@ -15,39 +15,39 @@ word_by_word:
     translation: We send
     transliteration: nur'silu
   3:
-    arabic: الۡمُرۡسَلِيۡنَ
+    arabic: ٱلۡمُرۡسَلِينَ
     translation: the Messengers
     transliteration: l-mur'salīna
   4:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   5:
-    arabic: مُبَشِّرِيۡنَ
+    arabic: مُبَشِّرِينَ
     translation: (as) bearers of glad tidings
     transliteration: mubashirīna
   6:
-    arabic: وَمُنۡذِرِيۡنَ​ ۚ
+    arabic: وَمُنذِرِينَۚ
     translation: and (as) warners
     transliteration: wamundhirīna
   7:
-    arabic: وَيُجَادِلُ
+    arabic: وَيُجَٰدِلُ
     translation: And dispute
     transliteration: wayujādilu
   8:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   9:
-    arabic: كَفَرُوۡا
+    arabic: كَفَرُواْ
     translation: disbelieve
     transliteration: kafarū
   10:
-    arabic: بِالۡبَاطِلِ
+    arabic: بِٱلۡبَٰطِلِ
     translation: with falsehood
     transliteration: bil-bāṭili
   11:
-    arabic: لِـيُدۡحِضُوۡا
+    arabic: لِيُدۡحِضُواْ
     translation: to refute
     transliteration: liyud'ḥiḍū
   12:
@@ -55,27 +55,27 @@ word_by_word:
     translation: thereby
     transliteration: bihi
   13:
-    arabic: الۡحَـقَّ​
+    arabic: ٱلۡحَقَّۖ
     translation: the truth
     transliteration: l-ḥaqa
   14:
-    arabic: وَاتَّخَذُوۡۤا
+    arabic: وَٱتَّخَذُوٓاْ ءَ
     translation: And they take
     transliteration: wa-ittakhadhū
   15:
-    arabic: اٰيٰتِىۡ
+    arabic: ايَٰتِي
     translation: My Verses
     transliteration: āyātī
   16:
-    arabic: وَمَاۤ
+    arabic: وَمَآ
     translation: and what
     transliteration: wamā
   17:
-    arabic: اُنۡذِرُوۡا
+    arabic: أُنذِرُواْ
     translation: they are warned
     transliteration: undhirū
   18:
-    arabic: هُزُوًا‏
+    arabic: هُزُوٗا
     translation: (in) ridicule
     transliteration: huzuwan
 ---

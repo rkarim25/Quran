@@ -1,5 +1,5 @@
 ---
-arabic_ayat: وَفِرۡعَوۡنَ ذِى الۡاَوۡتَادِۙ‏
+arabic_ayat: وَفِرۡعَوۡنَ ذِي ٱلۡأَوۡتَادِ
 sentence_translation: and the Pharaoh of mighty structures?
 word_by_word:
   1:
@@ -7,11 +7,11 @@ word_by_word:
     translation: And Firaun
     transliteration: wafir'ʿawna
   2:
-    arabic: ذِى
+    arabic: ذِي
     translation: owner of
     transliteration: dhī
   3:
-    arabic: الۡاَوۡتَادِۙ‏
+    arabic: ٱلۡأَوۡتَادِ
     translation: stakes
     transliteration: l-awtādi
 ---

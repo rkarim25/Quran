@@ -1,9 +1,9 @@
 ---
-arabic_ayat: وَالَّذِيۡنَ هُمۡ لِلزَّكٰوةِ فَاعِلُوۡنَۙ‏
+arabic_ayat: وَٱلَّذِينَ هُمۡ لِلزَّكَوٰةِ فَٰعِلُونَ
 sentence_translation: those who pay alms-tax;
 word_by_word:
   1:
-    arabic: وَالَّذِيۡنَ
+    arabic: وَٱلَّذِينَ
     translation: Those who
     transliteration: wa-alladhīna
   2:
@@ -11,11 +11,11 @@ word_by_word:
     translation: '[they]'
     transliteration: hum
   3:
-    arabic: لِلزَّكٰوةِ
+    arabic: لِلزَّكَوٰةِ
     translation: of purification works
     transliteration: lilzzakati
   4:
-    arabic: فَاعِلُوۡنَۙ‏
+    arabic: فَٰعِلُونَ
     translation: (are) doers
     transliteration: fāʿilūna
 ---

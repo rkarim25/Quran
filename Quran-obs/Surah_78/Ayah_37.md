@@ -1,6 +1,6 @@
 ---
-arabic_ayat: رَّبِّ السَّمٰوٰتِ وَالۡاَرۡضِ وَمَا بَيۡنَهُمَا الرَّحۡمٰنِ​ لَا يَمۡلِكُوۡنَ
-  مِنۡهُ خِطَابًا​ ۚ‏
+arabic_ayat: رَّبِّ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِ وَمَا بَيۡنَهُمَا ٱلرَّحۡمَٰنِۖ لَا
+  يَمۡلِكُونَ مِنۡهُ خِطَابٗا
 sentence_translation: the Lord of the heavens and the earth and everything in between,
   the Most Compassionate. No one will dare speak to Him
 word_by_word:
@@ -9,11 +9,11 @@ word_by_word:
     translation: Lord
     transliteration: rabbi
   2:
-    arabic: السَّمٰوٰتِ
+    arabic: ٱلسَّمَٰوَٰتِ
     translation: (of) the heavens
     transliteration: l-samāwāti
   3:
-    arabic: وَالۡاَرۡضِ
+    arabic: وَٱلۡأَرۡضِ
     translation: and the earth
     transliteration: wal-arḍi
   4:
@@ -25,7 +25,7 @@ word_by_word:
     translation: (is) between both of them
     transliteration: baynahumā
   6:
-    arabic: الرَّحۡمٰنِ​
+    arabic: ٱلرَّحۡمَٰنِۖ
     translation: the Most Gracious
     transliteration: l-raḥmāni
   7:
@@ -33,7 +33,7 @@ word_by_word:
     translation: not
     transliteration: lā
   8:
-    arabic: يَمۡلِكُوۡنَ
+    arabic: يَمۡلِكُونَ
     translation: they have power
     transliteration: yamlikūna
   9:
@@ -41,7 +41,7 @@ word_by_word:
     translation: from Him
     transliteration: min'hu
   10:
-    arabic: خِطَابًا​ ۚ‏
+    arabic: خِطَابٗا
     translation: (to) address
     transliteration: khiṭāban
 ---

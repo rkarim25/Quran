@@ -1,7 +1,7 @@
 ---
-arabic_ayat: قَدۡ خَسِرَ الَّذِيۡنَ قَتَلُوۡۤا اَوۡلَادَهُمۡ سَفَهًۢا بِغَيۡرِ عِلۡمٍ
-  وَّحَرَّمُوۡا مَا رَزَقَهُمُ اللّٰهُ افۡتِرَآءً عَلَى اللّٰهِ​ؕ قَدۡ ضَلُّوۡا وَمَا
-  كَانُوۡا مُهۡتَدِيۡنَ‏
+arabic_ayat: قَدۡ خَسِرَ ٱلَّذِينَ قَتَلُوٓاْ أَوۡلَٰدَهُمۡ سَفَهَۢا بِغَيۡرِ عِلۡمٖ
+  وَحَرَّمُواْ مَا رَزَقَهُمُ ٱللَّهُ ٱفۡتِرَآءً عَلَى ٱللَّهِۚ قَدۡ ضَلُّواْ وَمَا
+  كَانُواْ مُهۡتَدِينَ
 sentence_translation: Lost indeed are those who have murdered their own children foolishly
   out of ignorance and have forbidden what Allah has provided for them—falsely attributing
   lies to Allah. They have certainly strayed and are not ˹rightly˺ guided.
@@ -15,19 +15,19 @@ word_by_word:
     translation: (are) lost
     transliteration: khasira
   3:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   4:
-    arabic: قَتَلُوۡۤا
+    arabic: قَتَلُوٓاْ
     translation: killed
     transliteration: qatalū
   5:
-    arabic: اَوۡلَادَهُمۡ
+    arabic: أَوۡلَٰدَهُمۡ
     translation: their children
     transliteration: awlādahum
   6:
-    arabic: سَفَهًۢا
+    arabic: سَفَهَۢا
     translation: (in) foolishness
     transliteration: safahan
   7:
@@ -35,11 +35,11 @@ word_by_word:
     translation: without
     transliteration: bighayri
   8:
-    arabic: عِلۡمٍ
+    arabic: عِلۡمٖ
     translation: knowledge
     transliteration: ʿil'min
   9:
-    arabic: وَّحَرَّمُوۡا
+    arabic: وَحَرَّمُواْ
     translation: and forbid
     transliteration: waḥarramū
   10:
@@ -51,11 +51,11 @@ word_by_word:
     translation: (bas been) provided (to) them
     transliteration: razaqahumu
   12:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: '(by) Allah '
     transliteration: l-lahu
   13:
-    arabic: افۡتِرَآءً
+    arabic: ٱفۡتِرَآءً
     translation: inventing (lies)
     transliteration: if'tirāan
   14:
@@ -63,7 +63,7 @@ word_by_word:
     translation: against
     transliteration: ʿalā
   15:
-    arabic: اللّٰهِ​ؕ
+    arabic: ٱللَّهِۚ
     translation: Allah
     transliteration: l-lahi
   16:
@@ -71,7 +71,7 @@ word_by_word:
     translation: Certainly
     transliteration: qad
   17:
-    arabic: ضَلُّوۡا
+    arabic: ضَلُّواْ
     translation: they have gone astray
     transliteration: ḍallū
   18:
@@ -79,11 +79,11 @@ word_by_word:
     translation: and not
     transliteration: wamā
   19:
-    arabic: كَانُوۡا
+    arabic: كَانُواْ
     translation: they are
     transliteration: kānū
   20:
-    arabic: مُهۡتَدِيۡنَ‏
+    arabic: مُهۡتَدِينَ
     translation: guided-ones
     transliteration: muh'tadīna
 ---

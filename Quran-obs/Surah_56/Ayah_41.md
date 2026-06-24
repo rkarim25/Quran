@@ -1,25 +1,25 @@
 ---
-arabic_ayat: وَاَصۡحٰبُ الشِّمَالِ ۙ مَاۤ اَصۡحٰبُ الشِّمَالِؕ‏
+arabic_ayat: وَأَصۡحَٰبُ ٱلشِّمَالِ مَآ أَصۡحَٰبُ ٱلشِّمَالِ
 sentence_translation: And the people of the left—how ˹miserable˺ will they be!
 word_by_word:
   1:
-    arabic: وَاَصۡحٰبُ
+    arabic: وَأَصۡحَٰبُ
     translation: And (the) companions
     transliteration: wa-aṣḥābu
   2:
-    arabic: الشِّمَالِ ۙ
+    arabic: ٱلشِّمَالِ
     translation: (of) the left
     transliteration: l-shimāli
   3:
-    arabic: مَاۤ
+    arabic: مَآ
     translation: what
     transliteration: mā
   4:
-    arabic: اَصۡحٰبُ
+    arabic: أَصۡحَٰبُ
     translation: (are the) companions
     transliteration: aṣḥābu
   5:
-    arabic: الشِّمَالِؕ‏
+    arabic: ٱلشِّمَالِ
     translation: (of) the left
     transliteration: l-shimāli
 ---

@@ -1,73 +1,73 @@
 ---
-arabic_ayat: مَنۡ يَّشۡفَعۡ شَفَاعَةً حَسَنَةً يَّكُنۡ لَّهٗ نَصِيۡبٌ مِّنۡهَا​ ۚ
-  وَمَنۡ يَّشۡفَعۡ شَفَاعَةً سَيِّئَةً يَّكُنۡ لَّهٗ كِفۡلٌ مِّنۡهَا​ ؕ وَكَانَ اللّٰهُ
-  عَلٰى كُلِّ شَىۡءٍ مُّقِيۡتًا‏
+arabic_ayat: مَّن يَشۡفَعۡ شَفَٰعَةً حَسَنَةٗ يَكُن لَّهُۥ نَصِيبٞ مِّنۡهَاۖ وَمَن
+  يَشۡفَعۡ شَفَٰعَةٗ سَيِّئَةٗ يَكُن لَّهُۥ كِفۡلٞ مِّنۡهَاۗ وَكَانَ ٱللَّهُ عَلَىٰ
+  كُلِّ شَيۡءٖ مُّقِيتٗا
 sentence_translation: Whoever intercedes for a good cause will have a share in the
   reward, and whoever intercedes for an evil cause will have a share in the burden.
   And Allah is Watchful over all things.
 word_by_word:
   1:
-    arabic: مَنۡ
+    arabic: مَّن
     translation: Whoever
     transliteration: man
   2:
-    arabic: يَّشۡفَعۡ
+    arabic: يَشۡفَعۡ
     translation: 'intercedes '
     transliteration: yashfaʿ
   3:
-    arabic: شَفَاعَةً
+    arabic: شَفَٰعَةً
     translation: an intercession
     transliteration: shafāʿatan
   4:
-    arabic: حَسَنَةً
+    arabic: حَسَنَةٗ
     translation: good
     transliteration: ḥasanatan
   5:
-    arabic: يَّكُنۡ
+    arabic: يَكُن
     translation: will have
     transliteration: yakun
   6:
-    arabic: لَّهٗ
+    arabic: لَّهُۥ
     translation: for him
     transliteration: lahu
   7:
-    arabic: نَصِيۡبٌ
+    arabic: نَصِيبٞ
     translation: a share
     transliteration: naṣībun
   8:
-    arabic: مِّنۡهَا​ ۚ
+    arabic: مِّنۡهَاۖ
     translation: of it
     transliteration: min'hā
   9:
-    arabic: وَمَنۡ
+    arabic: وَمَن
     translation: and whoever
     transliteration: waman
   10:
-    arabic: يَّشۡفَعۡ
+    arabic: يَشۡفَعۡ
     translation: 'intercedes '
     transliteration: yashfaʿ
   11:
-    arabic: شَفَاعَةً
+    arabic: شَفَٰعَةٗ
     translation: an intercession
     transliteration: shafāʿatan
   12:
-    arabic: سَيِّئَةً
+    arabic: سَيِّئَةٗ
     translation: evil
     transliteration: sayyi-atan
   13:
-    arabic: يَّكُنۡ
+    arabic: يَكُن
     translation: will have
     transliteration: yakun
   14:
-    arabic: لَّهٗ
+    arabic: لَّهُۥ
     translation: for him
     transliteration: lahu
   15:
-    arabic: كِفۡلٌ
+    arabic: كِفۡلٞ
     translation: a portion
     transliteration: kif'lun
   16:
-    arabic: مِّنۡهَا​ ؕ
+    arabic: مِّنۡهَاۗ
     translation: of it
     transliteration: min'hā
   17:
@@ -75,11 +75,11 @@ word_by_word:
     translation: And is
     transliteration: wakāna
   18:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   19:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: 'on'
     transliteration: ʿalā
   20:
@@ -87,11 +87,11 @@ word_by_word:
     translation: every
     transliteration: kulli
   21:
-    arabic: شَىۡءٍ
+    arabic: شَيۡءٖ
     translation: thing
     transliteration: shayin
   22:
-    arabic: مُّقِيۡتًا‏
+    arabic: مُّقِيتٗا
     translation: a Keeper
     transliteration: muqītan
 ---

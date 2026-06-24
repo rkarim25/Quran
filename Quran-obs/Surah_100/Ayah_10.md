@@ -1,5 +1,5 @@
 ---
-arabic_ayat: وَحُصِّلَ مَا فِى الصُّدُوۡرِۙ‏
+arabic_ayat: وَحُصِّلَ مَا فِي ٱلصُّدُورِ
 sentence_translation: and the secrets of the hearts will be laid bare—
 word_by_word:
   1:
@@ -11,11 +11,11 @@ word_by_word:
     translation: what
     transliteration: mā
   3:
-    arabic: فِى
+    arabic: فِي
     translation: (is) in
     transliteration: fī
   4:
-    arabic: الصُّدُوۡرِۙ‏
+    arabic: ٱلصُّدُورِ
     translation: the breasts
     transliteration: l-ṣudūri
 ---

@@ -1,10 +1,10 @@
 ---
-arabic_ayat: وَّيَبۡقٰى وَجۡهُ رَبِّكَ ذُو الۡجَلٰلِ وَالۡاِكۡرَامِ​ۚ‏
+arabic_ayat: وَيَبۡقَىٰ وَجۡهُ رَبِّكَ ذُو ٱلۡجَلَٰلِ وَٱلۡإِكۡرَامِ
 sentence_translation: Only your Lord Himself, full of Majesty and Honour, will remain
   ˹forever˺.
 word_by_word:
   1:
-    arabic: وَّيَبۡقٰى
+    arabic: وَيَبۡقَىٰ
     translation: But will remain
     transliteration: wayabqā
   2:
@@ -20,11 +20,11 @@ word_by_word:
     translation: (the) Owner
     transliteration: dhū
   5:
-    arabic: الۡجَلٰلِ
+    arabic: ٱلۡجَلَٰلِ
     translation: (of) Majesty
     transliteration: l-jalāli
   6:
-    arabic: وَالۡاِكۡرَامِ​ۚ‏
+    arabic: وَٱلۡإِكۡرَامِ
     translation: and Honor
     transliteration: wal-ik'rāmi
 ---

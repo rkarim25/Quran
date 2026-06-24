@@ -1,30 +1,30 @@
 ---
-arabic_ayat: اِذِ الۡاَغۡلٰلُ فِىۡۤ اَعۡنَاقِهِمۡ وَالسَّلٰسِلُؕ يُسۡحَبُوۡنَۙ‏
+arabic_ayat: إِذِ ٱلۡأَغۡلَٰلُ فِيٓ أَعۡنَٰقِهِمۡ وَٱلسَّلَٰسِلُ يُسۡحَبُونَ
 sentence_translation: when shackles will be around their necks and chains ˹on their
   legs˺. They will be dragged
 word_by_word:
   1:
-    arabic: اِذِ
+    arabic: إِذِ
     translation: When
     transliteration: idhi
   2:
-    arabic: الۡاَغۡلٰلُ
+    arabic: ٱلۡأَغۡلَٰلُ
     translation: the iron collars
     transliteration: l-aghlālu
   3:
-    arabic: فِىۡۤ
+    arabic: فِيٓ
     translation: (will be) around
     transliteration: fī
   4:
-    arabic: اَعۡنَاقِهِمۡ
+    arabic: أَعۡنَٰقِهِمۡ
     translation: their necks
     transliteration: aʿnāqihim
   5:
-    arabic: وَالسَّلٰسِلُؕ
+    arabic: وَٱلسَّلَٰسِلُ
     translation: and the chains
     transliteration: wal-salāsilu
   6:
-    arabic: يُسۡحَبُوۡنَۙ‏
+    arabic: يُسۡحَبُونَ
     translation: they will be dragged
     transliteration: yus'ḥabūna
 ---

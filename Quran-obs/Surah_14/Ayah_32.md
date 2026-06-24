@@ -1,18 +1,18 @@
 ---
-arabic_ayat: اَللّٰهُ الَّذِىۡ خَلَقَ السَّمٰوٰتِ وَالۡاَرۡضَ وَاَنۡزَلَ مِنَ السَّمَآءِ
-  مَآءً فَاَخۡرَجَ بِهٖ مِنَ الثَّمَرٰتِ رِزۡقًا لَّـكُمۡ​ ۚ وَسَخَّرَ لَـكُمُ الۡـفُلۡكَ
-  لِتَجۡرِىَ فِى الۡبَحۡرِ بِاَمۡرِهٖ​ۚ وَسَخَّرَ لَـكُمُ الۡاَنۡهٰرَ​ۚ‏
+arabic_ayat: ٱللَّهُ ٱلَّذِي خَلَقَ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضَ وَأَنزَلَ مِنَ ٱلسَّمَآءِ
+  مَآءٗ فَأَخۡرَجَ بِهِۦ مِنَ ٱلثَّمَرَٰتِ رِزۡقٗا لَّكُمۡۖ وَسَخَّرَ لَكُمُ ٱلۡفُلۡكَ
+  لِتَجۡرِيَ فِي ٱلۡبَحۡرِ بِأَمۡرِهِۦۖ وَسَخَّرَ لَكُمُ ٱلۡأَنۡهَٰرَ
 sentence_translation: It is Allah Who created the heavens and the earth and sends
   down rain from the sky, causing fruits to grow as a provision for you. He has subjected
   the ships for your service, sailing through the sea by His command, and has subjected
   the rivers for you.
 word_by_word:
   1:
-    arabic: اَللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: al-lahu
   2:
-    arabic: الَّذِىۡ
+    arabic: ٱلَّذِي
     translation: (is) the One Who
     transliteration: alladhī
   3:
@@ -20,15 +20,15 @@ word_by_word:
     translation: created
     transliteration: khalaqa
   4:
-    arabic: السَّمٰوٰتِ
+    arabic: ٱلسَّمَٰوَٰتِ
     translation: the heavens
     transliteration: l-samāwāti
   5:
-    arabic: وَالۡاَرۡضَ
+    arabic: وَٱلۡأَرۡضَ
     translation: and the earth
     transliteration: wal-arḍa
   6:
-    arabic: وَاَنۡزَلَ
+    arabic: وَأَنزَلَ
     translation: and sent down
     transliteration: wa-anzala
   7:
@@ -36,19 +36,19 @@ word_by_word:
     translation: from
     transliteration: mina
   8:
-    arabic: السَّمَآءِ
+    arabic: ٱلسَّمَآءِ
     translation: the sky
     transliteration: l-samāi
   9:
-    arabic: مَآءً
+    arabic: مَآءٗ
     translation: water
     transliteration: māan
   10:
-    arabic: فَاَخۡرَجَ
+    arabic: فَأَخۡرَجَ
     translation: then brought forth
     transliteration: fa-akhraja
   11:
-    arabic: بِهٖ
+    arabic: بِهِۦ
     translation: from it
     transliteration: bihi
   12:
@@ -56,15 +56,15 @@ word_by_word:
     translation: of
     transliteration: mina
   13:
-    arabic: الثَّمَرٰتِ
+    arabic: ٱلثَّمَرَٰتِ
     translation: the fruits
     transliteration: l-thamarāti
   14:
-    arabic: رِزۡقًا
+    arabic: رِزۡقٗا
     translation: (as) a provision
     transliteration: riz'qan
   15:
-    arabic: لَّـكُمۡ​ ۚ
+    arabic: لَّكُمۡۖ
     translation: for you
     transliteration: lakum
   16:
@@ -72,27 +72,27 @@ word_by_word:
     translation: and subjected
     transliteration: wasakhara
   17:
-    arabic: لَـكُمُ
+    arabic: لَكُمُ
     translation: for you
     transliteration: lakumu
   18:
-    arabic: الۡـفُلۡكَ
+    arabic: ٱلۡفُلۡكَ
     translation: the ships
     transliteration: l-ful'ka
   19:
-    arabic: لِتَجۡرِىَ
+    arabic: لِتَجۡرِيَ
     translation: so that they may sail
     transliteration: litajriya
   20:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   21:
-    arabic: الۡبَحۡرِ
+    arabic: ٱلۡبَحۡرِ
     translation: the sea
     transliteration: l-baḥri
   22:
-    arabic: بِاَمۡرِهٖ​ۚ
+    arabic: بِأَمۡرِهِۦۖ
     translation: by His command
     transliteration: bi-amrihi
   23:
@@ -100,11 +100,11 @@ word_by_word:
     translation: and subjected
     transliteration: wasakhara
   24:
-    arabic: لَـكُمُ
+    arabic: لَكُمُ
     translation: for you
     transliteration: lakumu
   25:
-    arabic: الۡاَنۡهٰرَ​ۚ‏
+    arabic: ٱلۡأَنۡهَٰرَ
     translation: the rivers
     transliteration: l-anhāra
 ---

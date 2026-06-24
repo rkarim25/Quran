@@ -1,26 +1,26 @@
 ---
-arabic_ayat: وَمَكَرُوۡا مَكۡرًا وَّمَكَرۡنَا مَكۡرًا وَّهُمۡ لَا يَشۡعُرُوۡنَ‏
+arabic_ayat: وَمَكَرُواْ مَكۡرٗا وَمَكَرۡنَا مَكۡرٗا وَهُمۡ لَا يَشۡعُرُونَ
 sentence_translation: And ˹so˺ they made a plan, but We too made a plan, while they
   were unaware.
 word_by_word:
   1:
-    arabic: وَمَكَرُوۡا
+    arabic: وَمَكَرُواْ
     translation: So they plotted
     transliteration: wamakarū
   2:
-    arabic: مَكۡرًا
+    arabic: مَكۡرٗا
     translation: a plot
     transliteration: makran
   3:
-    arabic: وَّمَكَرۡنَا
+    arabic: وَمَكَرۡنَا
     translation: and We planned
     transliteration: wamakarnā
   4:
-    arabic: مَكۡرًا
+    arabic: مَكۡرٗا
     translation: a plan
     transliteration: makran
   5:
-    arabic: وَّهُمۡ
+    arabic: وَهُمۡ
     translation: while they
     transliteration: wahum
   6:
@@ -28,7 +28,7 @@ word_by_word:
     translation: (did) not
     transliteration: lā
   7:
-    arabic: يَشۡعُرُوۡنَ‏
+    arabic: يَشۡعُرُونَ
     translation: perceive
     transliteration: yashʿurūna
 ---

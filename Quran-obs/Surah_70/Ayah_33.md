@@ -1,21 +1,21 @@
 ---
-arabic_ayat: وَالَّذِيۡنَ هُمۡ بِشَهٰدٰتِهِمۡ قَآٮِٕمُوۡنَ ۙ‏
+arabic_ayat: وَٱلَّذِينَ هُم بِشَهَٰدَٰتِهِمۡ قَآئِمُونَ
 sentence_translation: and who are honest in their testimony;
 word_by_word:
   1:
-    arabic: وَالَّذِيۡنَ
+    arabic: وَٱلَّذِينَ
     translation: And those who
     transliteration: wa-alladhīna
   2:
-    arabic: هُمۡ
+    arabic: هُم
     translation: '[they]'
     transliteration: hum
   3:
-    arabic: بِشَهٰدٰتِهِمۡ
+    arabic: بِشَهَٰدَٰتِهِمۡ
     translation: in their testimonies
     transliteration: bishahādātihim
   4:
-    arabic: قَآٮِٕمُوۡنَ ۙ‏
+    arabic: قَآئِمُونَ
     translation: stand firm
     transliteration: qāimūna
 ---

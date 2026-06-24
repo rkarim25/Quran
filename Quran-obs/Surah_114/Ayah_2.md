@@ -1,5 +1,5 @@
 ---
-arabic_ayat: مَلِكِ النَّاسِۙ‏
+arabic_ayat: مَلِكِ ٱلنَّاسِ
 sentence_translation: the Master of humankind,
 word_by_word:
   1:
@@ -7,7 +7,7 @@ word_by_word:
     translation: (The) King
     transliteration: maliki
   2:
-    arabic: النَّاسِۙ‏
+    arabic: ٱلنَّاسِ
     translation: (of) mankind
     transliteration: l-nāsi
 ---

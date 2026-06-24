@@ -1,14 +1,14 @@
 ---
-arabic_ayat: اَمَّنۡ هُوَ قَانِتٌ اٰنَآءَ الَّيۡلِ سَاجِدًا وَّقَآٮِٕمًا يَّحۡذَرُ
-  الۡاٰخِرَةَ وَيَرۡجُوۡا رَحۡمَةَ رَبِّهٖ​ؕ قُلۡ هَلۡ يَسۡتَوِى الَّذِيۡنَ يَعۡلَمُوۡنَ
-  وَالَّذِيۡنَ لَا يَعۡلَمُوۡنَ​ؕ اِنَّمَا يَتَذَكَّرُ اُولُوا الۡاَلۡبَابِ‏
+arabic_ayat: أَمَّنۡ هُوَ قَٰنِتٌ ءَانَآءَ ٱلَّيۡلِ سَاجِدٗا وَقَآئِمٗا يَحۡذَرُ
+  ٱلۡأٓخِرَةَ وَيَرۡجُواْ رَحۡمَةَ رَبِّهِۦۗ قُلۡ هَلۡ يَسۡتَوِي ٱلَّذِينَ يَعۡلَمُونَ
+  وَٱلَّذِينَ لَا يَعۡلَمُونَۗ إِنَّمَا يَتَذَكَّرُ أُوْلُواْ ٱلۡأَلۡبَٰبِ
 sentence_translation: ˹Are they better˺ or those who worship ˹their Lord˺ devoutly
   in the hours of the night, prostrating and standing, fearing the Hereafter and hoping
   for the mercy of their Lord? Say, ˹O Prophet,˺ “Are those who know equal to those
   who do not know?” None will be mindful ˹of this˺ except people of reason.
 word_by_word:
   1:
-    arabic: اَمَّنۡ
+    arabic: أَمَّنۡ
     translation: Is (one) who
     transliteration: amman
   2:
@@ -16,35 +16,35 @@ word_by_word:
     translation: '[he]'
     transliteration: huwa
   3:
-    arabic: قَانِتٌ
+    arabic: قَٰنِتٌ ءَ
     translation: '(is) devoutly obedient '
     transliteration: qānitun
   4:
-    arabic: اٰنَآءَ
+    arabic: انَآءَ
     translation: (during) hours
     transliteration: ānāa
   5:
-    arabic: الَّيۡلِ
+    arabic: ٱلَّيۡلِ
     translation: (of) the night
     transliteration: al-layli
   6:
-    arabic: سَاجِدًا
+    arabic: سَاجِدٗا
     translation: prostrating
     transliteration: sājidan
   7:
-    arabic: وَّقَآٮِٕمًا
+    arabic: وَقَآئِمٗا
     translation: and standing
     transliteration: waqāiman
   8:
-    arabic: يَّحۡذَرُ
+    arabic: يَحۡذَرُ
     translation: fearing
     transliteration: yaḥdharu
   9:
-    arabic: الۡاٰخِرَةَ
+    arabic: ٱلۡأٓخِرَةَ
     translation: the Hereafter
     transliteration: l-ākhirata
   10:
-    arabic: وَيَرۡجُوۡا
+    arabic: وَيَرۡجُواْ
     translation: and hoping
     transliteration: wayarjū
   11:
@@ -52,7 +52,7 @@ word_by_word:
     translation: (for the) Mercy
     transliteration: raḥmata
   12:
-    arabic: رَبِّهٖ​ؕ
+    arabic: رَبِّهِۦۗ
     translation: (of) his Lord
     transliteration: rabbihi
   13:
@@ -64,19 +64,19 @@ word_by_word:
     translation: Are
     transliteration: hal
   15:
-    arabic: يَسۡتَوِى
+    arabic: يَسۡتَوِي
     translation: equal
     transliteration: yastawī
   16:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   17:
-    arabic: يَعۡلَمُوۡنَ
+    arabic: يَعۡلَمُونَ
     translation: know
     transliteration: yaʿlamūna
   18:
-    arabic: وَالَّذِيۡنَ
+    arabic: وَٱلَّذِينَ
     translation: and those who
     transliteration: wa-alladhīna
   19:
@@ -84,11 +84,11 @@ word_by_word:
     translation: (do) not
     transliteration: lā
   20:
-    arabic: يَعۡلَمُوۡنَ​ؕ
+    arabic: يَعۡلَمُونَۗ
     translation: know
     transliteration: yaʿlamūna
   21:
-    arabic: اِنَّمَا
+    arabic: إِنَّمَا
     translation: Only
     transliteration: innamā
   22:
@@ -96,11 +96,11 @@ word_by_word:
     translation: will take heed
     transliteration: yatadhakkaru
   23:
-    arabic: اُولُوا
+    arabic: أُوْلُواْ
     translation: those of understanding
     transliteration: ulū
   24:
-    arabic: الۡاَلۡبَابِ‏
+    arabic: ٱلۡأَلۡبَٰبِ
     translation: those of understanding
     transliteration: l-albābi
 ---

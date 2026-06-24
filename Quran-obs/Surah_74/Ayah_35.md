@@ -1,17 +1,17 @@
 ---
-arabic_ayat: اِنَّهَا لَاِحۡدَى الۡكُبَرِۙ‏
+arabic_ayat: إِنَّهَا لَإِحۡدَى ٱلۡكُبَرِ
 sentence_translation: Surely Hell is one of the mightiest catastrophes—
 word_by_word:
   1:
-    arabic: اِنَّهَا
+    arabic: إِنَّهَا
     translation: Indeed, it
     transliteration: innahā
   2:
-    arabic: لَاِحۡدَى
+    arabic: لَإِحۡدَى
     translation: (is) surely one
     transliteration: la-iḥ'dā
   3:
-    arabic: الۡكُبَرِۙ‏
+    arabic: ٱلۡكُبَرِ
     translation: (of) the greatest
     transliteration: l-kubari
 ---

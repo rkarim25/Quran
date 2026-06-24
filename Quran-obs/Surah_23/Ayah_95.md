@@ -1,18 +1,18 @@
 ---
-arabic_ayat: وَاِنَّا عَلٰٓى اَنۡ نُّرِيَكَ مَا نَعِدُهُمۡ لَقٰدِرُوۡنَ‏
+arabic_ayat: وَإِنَّا عَلَىٰٓ أَن نُّرِيَكَ مَا نَعِدُهُمۡ لَقَٰدِرُونَ
 sentence_translation: We are indeed able to show you what We have threatened them
   with.
 word_by_word:
   1:
-    arabic: وَاِنَّا
+    arabic: وَإِنَّا
     translation: And indeed We
     transliteration: wa-innā
   2:
-    arabic: عَلٰٓى
+    arabic: عَلَىٰٓ
     translation: 'on'
     transliteration: ʿalā
   3:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that
     transliteration: an
   4:
@@ -28,7 +28,7 @@ word_by_word:
     translation: We have promised them
     transliteration: naʿiduhum
   7:
-    arabic: لَقٰدِرُوۡنَ‏
+    arabic: لَقَٰدِرُونَ
     translation: surely able
     transliteration: laqādirūna
 ---

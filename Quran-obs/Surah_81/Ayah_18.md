@@ -1,17 +1,17 @@
 ---
-arabic_ayat: وَالصُّبۡحِ اِذَا تَنَفَّسَۙ‏
+arabic_ayat: وَٱلصُّبۡحِ إِذَا تَنَفَّسَ
 sentence_translation: and the day as it breaks!
 word_by_word:
   1:
-    arabic: وَالصُّبۡحِ
+    arabic: وَٱلصُّبۡحِ
     translation: And the dawn
     transliteration: wal-ṣub'ḥi
   2:
-    arabic: اِذَا
+    arabic: إِذَا
     translation: when
     transliteration: idhā
   3:
-    arabic: تَنَفَّسَۙ‏
+    arabic: تَنَفَّسَ
     translation: it breathes
     transliteration: tanaffasa
 ---

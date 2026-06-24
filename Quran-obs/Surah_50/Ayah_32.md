@@ -1,10 +1,10 @@
 ---
-arabic_ayat: هٰذَا مَا تُوۡعَدُوۡنَ لِكُلِّ اَوَّابٍ حَفِيۡظٍ​ۚ‏
+arabic_ayat: هَٰذَا مَا تُوعَدُونَ لِكُلِّ أَوَّابٍ حَفِيظٖ
 sentence_translation: ˹And it will be said to them,˺ “This is what you were promised,
   for whoever ˹constantly˺ turned ˹to Allah˺ and kept up ˹His commandments˺—
 word_by_word:
   1:
-    arabic: هٰذَا
+    arabic: هَٰذَا
     translation: This
     transliteration: hādhā
   2:
@@ -12,7 +12,7 @@ word_by_word:
     translation: (is) what
     transliteration: mā
   3:
-    arabic: تُوۡعَدُوۡنَ
+    arabic: تُوعَدُونَ
     translation: you were promised
     transliteration: tūʿadūna
   4:
@@ -20,11 +20,11 @@ word_by_word:
     translation: for everyone
     transliteration: likulli
   5:
-    arabic: اَوَّابٍ
+    arabic: أَوَّابٍ
     translation: who turns
     transliteration: awwābin
   6:
-    arabic: حَفِيۡظٍ​ۚ‏
+    arabic: حَفِيظٖ
     translation: (and) who keeps
     transliteration: ḥafīẓin
 ---

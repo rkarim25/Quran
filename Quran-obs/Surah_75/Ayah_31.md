@@ -1,5 +1,5 @@
 ---
-arabic_ayat: فَلَا صَدَّقَ وَلَا صَلّٰىۙ‏
+arabic_ayat: فَلَا صَدَّقَ وَلَا صَلَّىٰ
 sentence_translation: This denier neither believed nor prayed,
 word_by_word:
   1:
@@ -15,7 +15,7 @@ word_by_word:
     translation: and not
     transliteration: walā
   4:
-    arabic: صَلّٰىۙ‏
+    arabic: صَلَّىٰ
     translation: he prayed
     transliteration: ṣallā
 ---

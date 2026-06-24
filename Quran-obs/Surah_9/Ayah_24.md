@@ -1,9 +1,9 @@
 ---
-arabic_ayat: قُلۡ اِنۡ كَانَ اٰبَآؤُكُمۡ وَاَبۡنَآؤُكُمۡ وَاِخۡوَانُكُمۡ وَاَزۡوَاجُكُمۡ
-  وَعَشِيۡرَتُكُمۡ وَ اَمۡوَالُ ۨاقۡتَرَفۡتُمُوۡهَا وَتِجَارَةٌ تَخۡشَوۡنَ كَسَادَهَا
-  وَ مَسٰكِنُ تَرۡضَوۡنَهَاۤ اَحَبَّ اِلَيۡكُمۡ مِّنَ اللّٰهِ وَرَسُوۡلِهٖ وَ جِهَادٍ
-  فِىۡ سَبِيۡلِهٖ فَتَرَ بَّصُوۡا حَتّٰى يَاۡتِىَ اللّٰهُ بِاَمۡرِهٖ​ ؕ وَاللّٰهُ
-  لَا يَهۡدِى الۡقَوۡمَ الۡفٰسِقِيۡنَ‏
+arabic_ayat: قُلۡ إِن كَانَ ءَابَآؤُكُمۡ وَأَبۡنَآؤُكُمۡ وَإِخۡوَٰنُكُمۡ وَأَزۡوَٰجُكُمۡ
+  وَعَشِيرَتُكُمۡ وَأَمۡوَٰلٌ ٱقۡتَرَفۡتُمُوهَا وَتِجَٰرَةٞ تَخۡشَوۡنَ كَسَادَهَا
+  وَمَسَٰكِنُ تَرۡضَوۡنَهَآ أَحَبَّ إِلَيۡكُم مِّنَ ٱللَّهِ وَرَسُولِهِۦ وَجِهَادٖ
+  فِي سَبِيلِهِۦ فَتَرَبَّصُواْ حَتَّىٰ يَأۡتِيَ ٱللَّهُ بِأَمۡرِهِۦۗ وَٱللَّهُ لَا
+  يَهۡدِي ٱلۡقَوۡمَ ٱلۡفَٰسِقِينَ
 sentence_translation: Say, ˹O Prophet,˺ “If your parents and children and siblings
   and spouses and extended family and the wealth you have acquired and the trade you
   fear will decline and the homes you cherish—˹if all these˺ are more beloved to you
@@ -15,43 +15,43 @@ word_by_word:
     translation: Say
     transliteration: qul
   2:
-    arabic: اِنۡ
+    arabic: إِن
     translation: If
     transliteration: in
   3:
-    arabic: كَانَ
+    arabic: كَانَ ءَ
     translation: are
     transliteration: kāna
   4:
-    arabic: اٰبَآؤُكُمۡ
+    arabic: ابَآؤُكُمۡ
     translation: your fathers
     transliteration: ābāukum
   5:
-    arabic: وَاَبۡنَآؤُكُمۡ
+    arabic: وَأَبۡنَآؤُكُمۡ
     translation: and your sons
     transliteration: wa-abnāukum
   6:
-    arabic: وَاِخۡوَانُكُمۡ
+    arabic: وَإِخۡوَٰنُكُمۡ
     translation: and your brothers
     transliteration: wa-ikh'wānukum
   7:
-    arabic: وَاَزۡوَاجُكُمۡ
+    arabic: وَأَزۡوَٰجُكُمۡ
     translation: and your spouses
     transliteration: wa-azwājukum
   8:
-    arabic: وَعَشِيۡرَتُكُمۡ
+    arabic: وَعَشِيرَتُكُمۡ
     translation: and your relatives
     transliteration: waʿashīratukum
   9:
-    arabic: وَ اَمۡوَالُ ۨ
+    arabic: وَأَمۡوَٰلٌ
     translation: and wealth
     transliteration: wa-amwālun
   10:
-    arabic: اقۡتَرَفۡتُمُوۡهَا
+    arabic: ٱقۡتَرَفۡتُمُوهَا
     translation: that you have acquired
     transliteration: iq'taraftumūhā
   11:
-    arabic: وَتِجَارَةٌ
+    arabic: وَتِجَٰرَةٞ
     translation: and the commerce
     transliteration: watijāratun
   12:
@@ -63,19 +63,19 @@ word_by_word:
     translation: a decline (in) it
     transliteration: kasādahā
   14:
-    arabic: وَ مَسٰكِنُ
+    arabic: وَمَسَٰكِنُ
     translation: and the dwellings
     transliteration: wamasākinu
   15:
-    arabic: تَرۡضَوۡنَهَاۤ
+    arabic: تَرۡضَوۡنَهَآ
     translation: you delight (in) it
     transliteration: tarḍawnahā
   16:
-    arabic: اَحَبَّ
+    arabic: أَحَبَّ
     translation: (are) more beloved
     transliteration: aḥabba
   17:
-    arabic: اِلَيۡكُمۡ
+    arabic: إِلَيۡكُم
     translation: to you
     transliteration: ilaykum
   18:
@@ -83,47 +83,47 @@ word_by_word:
     translation: than
     transliteration: mina
   19:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   20:
-    arabic: وَرَسُوۡلِهٖ
+    arabic: وَرَسُولِهِۦ
     translation: and His Messenger
     transliteration: warasūlihi
   21:
-    arabic: وَ جِهَادٍ
+    arabic: وَجِهَادٖ
     translation: and striving
     transliteration: wajihādin
   22:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   23:
-    arabic: سَبِيۡلِهٖ
+    arabic: سَبِيلِهِۦ
     translation: His way
     transliteration: sabīlihi
   24:
-    arabic: فَتَرَ بَّصُوۡا
+    arabic: فَتَرَبَّصُواْ
     translation: then wait
     transliteration: fatarabbaṣū
   25:
-    arabic: حَتّٰى
+    arabic: حَتَّىٰ
     translation: until
     transliteration: ḥattā
   26:
-    arabic: يَاۡتِىَ
+    arabic: يَأۡتِيَ
     translation: Allah brings
     transliteration: yatiya
   27:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah brings
     transliteration: l-lahu
   28:
-    arabic: بِاَمۡرِهٖ​ ؕ
+    arabic: بِأَمۡرِهِۦۗ
     translation: His Command
     transliteration: bi-amrihi
   29:
-    arabic: وَاللّٰهُ
+    arabic: وَٱللَّهُ
     translation: And Allah
     transliteration: wal-lahu
   30:
@@ -131,15 +131,15 @@ word_by_word:
     translation: (does) not
     transliteration: lā
   31:
-    arabic: يَهۡدِى
+    arabic: يَهۡدِي
     translation: guide
     transliteration: yahdī
   32:
-    arabic: الۡقَوۡمَ
+    arabic: ٱلۡقَوۡمَ
     translation: 'the people '
     transliteration: l-qawma
   33:
-    arabic: الۡفٰسِقِيۡنَ‏
+    arabic: ٱلۡفَٰسِقِينَ
     translation: the defiantly disobedient
     transliteration: l-fāsiqīna
 ---

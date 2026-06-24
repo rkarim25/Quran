@@ -1,5 +1,5 @@
 ---
-arabic_ayat: لَا يُؤۡمِنُوۡنَ بِهٖ​ۚ وَقَدۡ خَلَتۡ سُنَّةُ الۡاَوَّلِيۡنَ‏
+arabic_ayat: لَا يُؤۡمِنُونَ بِهِۦ وَقَدۡ خَلَتۡ سُنَّةُ ٱلۡأَوَّلِينَ
 sentence_translation: They would not believe in this ˹Quran˺ despite the ˹many˺ examples
   of those ˹destroyed˺ before.
 word_by_word:
@@ -8,11 +8,11 @@ word_by_word:
     translation: Not
     transliteration: lā
   2:
-    arabic: يُؤۡمِنُوۡنَ
+    arabic: يُؤۡمِنُونَ
     translation: they believe
     transliteration: yu'minūna
   3:
-    arabic: بِهٖ​ۚ
+    arabic: بِهِۦ
     translation: in it
     transliteration: bihi
   4:
@@ -28,7 +28,7 @@ word_by_word:
     translation: the way(s)
     transliteration: sunnatu
   7:
-    arabic: الۡاَوَّلِيۡنَ‏
+    arabic: ٱلۡأَوَّلِينَ
     translation: (of) the former (people)
     transliteration: l-awalīna
 ---

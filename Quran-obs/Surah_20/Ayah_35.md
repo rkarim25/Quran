@@ -1,13 +1,13 @@
 ---
-arabic_ayat: اِنَّكَ كُنۡتَ بِنَا بَصِيۡرًا‏
+arabic_ayat: إِنَّكَ كُنتَ بِنَا بَصِيرٗا
 sentence_translation: for truly You have ˹always˺ been overseeing us.”
 word_by_word:
   1:
-    arabic: اِنَّكَ
+    arabic: إِنَّكَ
     translation: Indeed, [You]
     transliteration: innaka
   2:
-    arabic: كُنۡتَ
+    arabic: كُنتَ
     translation: You are
     transliteration: kunta
   3:
@@ -15,7 +15,7 @@ word_by_word:
     translation: of us
     transliteration: binā
   4:
-    arabic: بَصِيۡرًا‏
+    arabic: بَصِيرٗا
     translation: All-Seer
     transliteration: baṣīran
 ---

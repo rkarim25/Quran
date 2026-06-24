@@ -1,9 +1,9 @@
 ---
-arabic_ayat: هُوَ الَّذِىۡ يُسَيِّرُكُمۡ فِى الۡبَرِّ وَالۡبَحۡرِ​ؕ حَتّٰۤى اِذَا
-  كُنۡتُمۡ فِى الۡفُلۡكِ ۚ وَ جَرَيۡنَ بِهِمۡ بِرِيۡحٍ طَيِّبَةٍ وَّفَرِحُوۡا بِهَا
-  جَآءَتۡهَا رِيۡحٌ عَاصِفٌ وَّجَآءَهُمُ الۡمَوۡجُ مِنۡ كُلِّ مَكَانٍ وَّظَنُّوۡۤا
-  اَنَّهُمۡ اُحِيۡطَ بِهِمۡ​ ۙ دَعَوُا اللّٰهَ مُخۡلِصِيۡنَ لَـهُ الدِّيۡنَۙ  لَٮِٕنۡ
-  اَنۡجَيۡتَـنَا مِنۡ هٰذِهٖ لَنَكُوۡنَنَّ مِنَ الشّٰكِرِيۡنَ‏
+arabic_ayat: هُوَ ٱلَّذِي يُسَيِّرُكُمۡ فِي ٱلۡبَرِّ وَٱلۡبَحۡرِۖ حَتَّىٰٓ إِذَا كُنتُمۡ
+  فِي ٱلۡفُلۡكِ وَجَرَيۡنَ بِهِم بِرِيحٖ طَيِّبَةٖ وَفَرِحُواْ بِهَا جَآءَتۡهَا رِيحٌ
+  عَاصِفٞ وَجَآءَهُمُ ٱلۡمَوۡجُ مِن كُلِّ مَكَانٖ وَظَنُّوٓاْ أَنَّهُمۡ أُحِيطَ بِهِمۡ
+  دَعَوُاْ ٱللَّهَ مُخۡلِصِينَ لَهُ ٱلدِّينَ لَئِنۡ أَنجَيۡتَنَا مِنۡ هَٰذِهِۦ لَنَكُونَنَّ
+  مِنَ ٱلشَّٰكِرِينَ
 sentence_translation: He is the One Who enables you to travel through land and sea.
   And it so happens that you are on ships, sailing with a favourable wind, to the
   passengers’ delight. Suddenly, the ships are overcome by a gale wind and those on
@@ -16,7 +16,7 @@ word_by_word:
     translation: He
     transliteration: huwa
   2:
-    arabic: الَّذِىۡ
+    arabic: ٱلَّذِي
     translation: (is) the One Who
     transliteration: alladhī
   3:
@@ -24,55 +24,55 @@ word_by_word:
     translation: enables you to travel
     transliteration: yusayyirukum
   4:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   5:
-    arabic: الۡبَرِّ
+    arabic: ٱلۡبَرِّ
     translation: the land
     transliteration: l-bari
   6:
-    arabic: وَالۡبَحۡرِ​ؕ
+    arabic: وَٱلۡبَحۡرِۖ
     translation: and the sea
     transliteration: wal-baḥri
   7:
-    arabic: حَتّٰۤى
+    arabic: حَتَّىٰٓ
     translation: until
     transliteration: ḥattā
   8:
-    arabic: اِذَا
+    arabic: إِذَا
     translation: when
     transliteration: idhā
   9:
-    arabic: كُنۡتُمۡ
+    arabic: كُنتُمۡ
     translation: you are
     transliteration: kuntum
   10:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   11:
-    arabic: الۡفُلۡكِ ۚ
+    arabic: ٱلۡفُلۡكِ
     translation: the ships
     transliteration: l-ful'ki
   12:
-    arabic: وَ جَرَيۡنَ
+    arabic: وَجَرَيۡنَ
     translation: and they sail
     transliteration: wajarayna
   13:
-    arabic: بِهِمۡ
+    arabic: بِهِم
     translation: with them
     transliteration: bihim
   14:
-    arabic: بِرِيۡحٍ
+    arabic: بِرِيحٖ
     translation: with a wind
     transliteration: birīḥin
   15:
-    arabic: طَيِّبَةٍ
+    arabic: طَيِّبَةٖ
     translation: good
     transliteration: ṭayyibatin
   16:
-    arabic: وَّفَرِحُوۡا
+    arabic: وَفَرِحُواْ
     translation: and they rejoice
     transliteration: wafariḥū
   17:
@@ -84,23 +84,23 @@ word_by_word:
     translation: comes to it
     transliteration: jāathā
   19:
-    arabic: رِيۡحٌ
+    arabic: رِيحٌ
     translation: a wind
     transliteration: rīḥun
   20:
-    arabic: عَاصِفٌ
+    arabic: عَاصِفٞ
     translation: stormy
     transliteration: ʿāṣifun
   21:
-    arabic: وَّجَآءَهُمُ
+    arabic: وَجَآءَهُمُ
     translation: and comes to them
     transliteration: wajāahumu
   22:
-    arabic: الۡمَوۡجُ
+    arabic: ٱلۡمَوۡجُ
     translation: the waves
     transliteration: l-mawju
   23:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   24:
@@ -108,51 +108,51 @@ word_by_word:
     translation: every
     transliteration: kulli
   25:
-    arabic: مَكَانٍ
+    arabic: مَكَانٖ
     translation: place
     transliteration: makānin
   26:
-    arabic: وَّظَنُّوۡۤا
+    arabic: وَظَنُّوٓاْ
     translation: and they assume
     transliteration: waẓannū
   27:
-    arabic: اَنَّهُمۡ
+    arabic: أَنَّهُمۡ
     translation: that they
     transliteration: annahum
   28:
-    arabic: اُحِيۡطَ
+    arabic: أُحِيطَ
     translation: are surrounded
     transliteration: uḥīṭa
   29:
-    arabic: بِهِمۡ​ ۙ
+    arabic: بِهِمۡ
     translation: with them
     transliteration: bihim
   30:
-    arabic: دَعَوُا
+    arabic: دَعَوُاْ
     translation: They call
     transliteration: daʿawū
   31:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   32:
-    arabic: مُخۡلِصِيۡنَ
+    arabic: مُخۡلِصِينَ
     translation: sincerely
     transliteration: mukh'liṣīna
   33:
-    arabic: لَـهُ
+    arabic: لَهُ
     translation: to Him
     transliteration: lahu
   34:
-    arabic: الدِّيۡنَۙ 
+    arabic: ٱلدِّينَ
     translation: (in) the religion
     transliteration: l-dīna
   35:
-    arabic: لَٮِٕنۡ
+    arabic: لَئِنۡ
     translation: (saying), "If
     transliteration: la-in
   36:
-    arabic: اَنۡجَيۡتَـنَا
+    arabic: أَنجَيۡتَنَا
     translation: You save us
     transliteration: anjaytanā
   37:
@@ -160,11 +160,11 @@ word_by_word:
     translation: from
     transliteration: min
   38:
-    arabic: هٰذِهٖ
+    arabic: هَٰذِهِۦ
     translation: this
     transliteration: hādhihi
   39:
-    arabic: لَنَكُوۡنَنَّ
+    arabic: لَنَكُونَنَّ
     translation: surely we will be
     transliteration: lanakūnanna
   40:
@@ -172,7 +172,7 @@ word_by_word:
     translation: among
     transliteration: mina
   41:
-    arabic: الشّٰكِرِيۡنَ‏
+    arabic: ٱلشَّٰكِرِينَ
     translation: the thankful
     transliteration: l-shākirīna
 ---

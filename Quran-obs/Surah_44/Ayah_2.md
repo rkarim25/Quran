@@ -1,13 +1,13 @@
 ---
-arabic_ayat: وَالۡكِتٰبِ الۡمُبِيۡنِ ​ ۛ​ۙ‏
+arabic_ayat: وَٱلۡكِتَٰبِ ٱلۡمُبِينِ
 sentence_translation: By the clear Book!
 word_by_word:
   1:
-    arabic: وَالۡكِتٰبِ
+    arabic: وَٱلۡكِتَٰبِ
     translation: By the Book
     transliteration: wal-kitābi
   2:
-    arabic: الۡمُبِيۡنِ ​ ۛ​ۙ‏
+    arabic: ٱلۡمُبِينِ
     translation: the clear
     transliteration: l-mubīni
 ---

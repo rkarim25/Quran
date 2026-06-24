@@ -1,5 +1,5 @@
 ---
-arabic_ayat: ثُمَّ اِنَّ عَلَيۡنَا حِسَابَهُمْ‏
+arabic_ayat: ثُمَّ إِنَّ عَلَيۡنَا حِسَابَهُم
 sentence_translation: then surely with Us is their reckoning.
 word_by_word:
   1:
@@ -7,7 +7,7 @@ word_by_word:
     translation: Then
     transliteration: thumma
   2:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: indeed
     transliteration: inna
   3:
@@ -15,7 +15,7 @@ word_by_word:
     translation: upon Us
     transliteration: ʿalaynā
   4:
-    arabic: حِسَابَهُمْ‏
+    arabic: حِسَابَهُم
     translation: (is) their account
     transliteration: ḥisābahum
 ---

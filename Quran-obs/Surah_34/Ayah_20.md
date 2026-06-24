@@ -1,6 +1,6 @@
 ---
-arabic_ayat: وَلَقَدۡ صَدَّقَ عَلَيۡهِمۡ اِبۡلِيۡسُ ظَنَّهٗ فَاتَّبَعُوۡهُ اِلَّا
-  فَرِيۡقًا مِّنَ الۡمُؤۡمِنِيۡنَ‏
+arabic_ayat: وَلَقَدۡ صَدَّقَ عَلَيۡهِمۡ إِبۡلِيسُ ظَنَّهُۥ فَٱتَّبَعُوهُ إِلَّا فَرِيقٗا
+  مِّنَ ٱلۡمُؤۡمِنِينَ
 sentence_translation: Indeed, Iblîs’ assumption about them has come true, so they
   ˹all˺ follow him, except a group of ˹true˺ believers.
 word_by_word:
@@ -17,23 +17,23 @@ word_by_word:
     translation: about them
     transliteration: ʿalayhim
   4:
-    arabic: اِبۡلِيۡسُ
+    arabic: إِبۡلِيسُ
     translation: Iblis
     transliteration: ib'līsu
   5:
-    arabic: ظَنَّهٗ
+    arabic: ظَنَّهُۥ
     translation: his assumption
     transliteration: ẓannahu
   6:
-    arabic: فَاتَّبَعُوۡهُ
+    arabic: فَٱتَّبَعُوهُ
     translation: so they followed him
     transliteration: fa-ittabaʿūhu
   7:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   8:
-    arabic: فَرِيۡقًا
+    arabic: فَرِيقٗا
     translation: a group
     transliteration: farīqan
   9:
@@ -41,7 +41,7 @@ word_by_word:
     translation: of
     transliteration: mina
   10:
-    arabic: الۡمُؤۡمِنِيۡنَ‏
+    arabic: ٱلۡمُؤۡمِنِينَ
     translation: the believers
     transliteration: l-mu'minīna
 ---

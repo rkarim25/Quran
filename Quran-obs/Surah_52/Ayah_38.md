@@ -1,11 +1,11 @@
 ---
-arabic_ayat: اَمۡ لَهُمۡ سُلَّمٌ يَّسۡتَمِعُوۡنَ فِيۡهِ​ ۚ فَلۡيَاۡتِ مُسۡتَمِعُهُمۡ
-  بِسُلۡطٰنٍ مُّبِيۡنٍؕ‏
+arabic_ayat: أَمۡ لَهُمۡ سُلَّمٞ يَسۡتَمِعُونَ فِيهِۖ فَلۡيَأۡتِ مُسۡتَمِعُهُم بِسُلۡطَٰنٖ
+  مُّبِينٍ
 sentence_translation: Or do they have a stairway, by which they eavesdrop ˹on the
   heavens˺? Then let those who do so bring a compelling proof.
 word_by_word:
   1:
-    arabic: اَمۡ
+    arabic: أَمۡ
     translation: Or
     transliteration: am
   2:
@@ -13,31 +13,31 @@ word_by_word:
     translation: for them
     transliteration: lahum
   3:
-    arabic: سُلَّمٌ
+    arabic: سُلَّمٞ
     translation: (is) a stairway
     transliteration: sullamun
   4:
-    arabic: يَّسۡتَمِعُوۡنَ
+    arabic: يَسۡتَمِعُونَ
     translation: they listen
     transliteration: yastamiʿūna
   5:
-    arabic: فِيۡهِ​ ۚ
+    arabic: فِيهِۖ
     translation: therewith
     transliteration: fīhi
   6:
-    arabic: فَلۡيَاۡتِ
+    arabic: فَلۡيَأۡتِ
     translation: Then let bring
     transliteration: falyati
   7:
-    arabic: مُسۡتَمِعُهُمۡ
+    arabic: مُسۡتَمِعُهُم
     translation: their listener
     transliteration: mus'tamiʿuhum
   8:
-    arabic: بِسُلۡطٰنٍ
+    arabic: بِسُلۡطَٰنٖ
     translation: an authority
     transliteration: bisul'ṭānin
   9:
-    arabic: مُّبِيۡنٍؕ‏
+    arabic: مُّبِينٍ
     translation: clear
     transliteration: mubīnin
 ---

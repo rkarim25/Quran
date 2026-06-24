@@ -1,6 +1,6 @@
 ---
-arabic_ayat: وَكَمۡ اَهۡلَكۡنَا قَبۡلَهُمۡ مِّنۡ قَرۡنٍؕ هَلۡ تُحِسُّ مِنۡهُمۡ مِّنۡ
-  اَحَدٍ اَوۡ تَسۡمَعُ لَهُمۡ رِكۡزًا‏
+arabic_ayat: وَكَمۡ أَهۡلَكۡنَا قَبۡلَهُم مِّن قَرۡنٍ هَلۡ تُحِسُّ مِنۡهُم مِّنۡ أَحَدٍ
+  أَوۡ تَسۡمَعُ لَهُمۡ رِكۡزَۢا
 sentence_translation: ˹Imagine˺ how many peoples We have destroyed before them! Do
   you ˹still˺ see any of them, or ˹even˺ hear from them the slightest sound?
 word_by_word:
@@ -9,19 +9,19 @@ word_by_word:
     translation: And how many
     transliteration: wakam
   2:
-    arabic: اَهۡلَكۡنَا
+    arabic: أَهۡلَكۡنَا
     translation: We (have) destroyed
     transliteration: ahlaknā
   3:
-    arabic: قَبۡلَهُمۡ
+    arabic: قَبۡلَهُم
     translation: before them
     transliteration: qablahum
   4:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: of
     transliteration: min
   5:
-    arabic: قَرۡنٍؕ
+    arabic: قَرۡنٍ
     translation: a generation
     transliteration: qarnin
   6:
@@ -33,7 +33,7 @@ word_by_word:
     translation: you perceive
     transliteration: tuḥissu
   8:
-    arabic: مِنۡهُمۡ
+    arabic: مِنۡهُم
     translation: of them
     transliteration: min'hum
   9:
@@ -41,11 +41,11 @@ word_by_word:
     translation: any
     transliteration: min
   10:
-    arabic: اَحَدٍ
+    arabic: أَحَدٍ
     translation: one
     transliteration: aḥadin
   11:
-    arabic: اَوۡ
+    arabic: أَوۡ
     translation: or
     transliteration: aw
   12:
@@ -57,7 +57,7 @@ word_by_word:
     translation: from them
     transliteration: lahum
   14:
-    arabic: رِكۡزًا‏
+    arabic: رِكۡزَۢا
     translation: a sound
     transliteration: rik'zan
 ---

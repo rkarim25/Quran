@@ -1,9 +1,9 @@
 ---
-arabic_ayat: اِلٰى رَبِّكَ يَوۡمَٮِٕذِ اۨلۡمَسَاقُؕ‏
+arabic_ayat: إِلَىٰ رَبِّكَ يَوۡمَئِذٍ ٱلۡمَسَاقُ
 sentence_translation: On that day they will be driven to your Lord ˹alone˺.
 word_by_word:
   1:
-    arabic: اِلٰى
+    arabic: إِلَىٰ
     translation: To
     transliteration: ilā
   2:
@@ -11,11 +11,11 @@ word_by_word:
     translation: your Lord
     transliteration: rabbika
   3:
-    arabic: يَوۡمَٮِٕذِ
+    arabic: يَوۡمَئِذٍ
     translation: that Day
     transliteration: yawma-idhin
   4:
-    arabic: اۨلۡمَسَاقُؕ‏
+    arabic: ٱلۡمَسَاقُ
     translation: (will be) the driving
     transliteration: l-masāqu
 ---

@@ -1,29 +1,28 @@
 ---
-arabic_ayat: "اَمۡ تُرِيۡدُوۡنَ اَنۡ تَسۡـَٔـلُوۡا رَسُوۡلَـكُمۡ كَمَا سُٮِٕلَ مُوۡسٰى\
-  \ مِنۡ قَبۡلُ​ؕ وَمَنۡ يَّتَبَدَّلِ الۡکُفۡرَ بِالۡاِيۡمَانِ فَقَدۡ ضَلَّ سَوَآءَ\
-  \ السَّبِيۡلِ‏ \uFEFF\uFEFF"
+arabic_ayat: أَمۡ تُرِيدُونَ أَن تَسۡـَٔلُواْ رَسُولَكُمۡ كَمَا سُئِلَ مُوسَىٰ مِن
+  قَبۡلُۗ وَمَن يَتَبَدَّلِ ٱلۡكُفۡرَ بِٱلۡإِيمَٰنِ فَقَدۡ ضَلَّ سَوَآءَ ٱلسَّبِيلِ
 sentence_translation: Or do you ˹believers˺ intend to ask of your Messenger as Moses
   was asked before? But whoever trades belief for disbelief has truly strayed from
   the Right Way.
 word_by_word:
   1:
-    arabic: اَمۡ
+    arabic: أَمۡ
     translation: Or
     transliteration: am
   2:
-    arabic: تُرِيۡدُوۡنَ
+    arabic: تُرِيدُونَ
     translation: (do) you wish
     transliteration: turīdūna
   3:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that
     transliteration: an
   4:
-    arabic: تَسۡـَٔـلُوۡا
+    arabic: تَسۡـَٔلُواْ
     translation: you ask
     transliteration: tasalū
   5:
-    arabic: رَسُوۡلَـكُمۡ
+    arabic: رَسُولَكُمۡ
     translation: your Messenger
     transliteration: rasūlakum
   6:
@@ -31,35 +30,35 @@ word_by_word:
     translation: as
     transliteration: kamā
   7:
-    arabic: سُٮِٕلَ
+    arabic: سُئِلَ
     translation: was asked
     transliteration: su-ila
   8:
-    arabic: مُوۡسٰى
+    arabic: مُوسَىٰ
     translation: Musa
     transliteration: mūsā
   9:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   10:
-    arabic: قَبۡلُ​ؕ
+    arabic: قَبۡلُۗ
     translation: before
     transliteration: qablu
   11:
-    arabic: وَمَنۡ
+    arabic: وَمَن
     translation: And whoever
     transliteration: waman
   12:
-    arabic: يَّتَبَدَّلِ
+    arabic: يَتَبَدَّلِ
     translation: exchanges
     transliteration: yatabaddali
   13:
-    arabic: الۡکُفۡرَ
+    arabic: ٱلۡكُفۡرَ
     translation: '[the] disbelief'
     transliteration: l-kuf'ra
   14:
-    arabic: بِالۡاِيۡمَانِ
+    arabic: بِٱلۡإِيمَٰنِ
     translation: with [the] faith
     transliteration: bil-īmāni
   15:
@@ -75,7 +74,7 @@ word_by_word:
     translation: (the) evenness
     transliteration: sawāa
   18:
-    arabic: "السَّبِيۡلِ‏ \uFEFF\uFEFF"
+    arabic: ٱلسَّبِيلِ
     translation: (of) the way
     transliteration: l-sabīli
 ---

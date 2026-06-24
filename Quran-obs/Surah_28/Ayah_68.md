@@ -1,6 +1,6 @@
 ---
-arabic_ayat: وَرَبُّكَ يَخۡلُقُ مَا يَشَآءُ وَيَخۡتَارُ​ؕ مَا كَانَ لَهُمُ الۡخِيَرَةُ​
-  ؕ سُبۡحٰنَ اللّٰهِ وَتَعٰلٰى عَمَّا يُشۡرِكُوۡنَ‏
+arabic_ayat: وَرَبُّكَ يَخۡلُقُ مَا يَشَآءُ وَيَخۡتَارُۗ مَا كَانَ لَهُمُ ٱلۡخِيَرَةُۚ
+  سُبۡحَٰنَ ٱللَّهِ وَتَعَٰلَىٰ عَمَّا يُشۡرِكُونَ
 sentence_translation: Your Lord creates and chooses whatever He wills—the choice is
   not theirs. Glorified and Exalted is Allah above what they associate ˹with Him˺!
 word_by_word:
@@ -21,7 +21,7 @@ word_by_word:
     translation: He wills
     transliteration: yashāu
   5:
-    arabic: وَيَخۡتَارُ​ؕ
+    arabic: وَيَخۡتَارُۗ
     translation: and chooses
     transliteration: wayakhtāru
   6:
@@ -37,19 +37,19 @@ word_by_word:
     translation: for them
     transliteration: lahumu
   9:
-    arabic: الۡخِيَرَةُ​ ؕ
+    arabic: ٱلۡخِيَرَةُۚ
     translation: the choice
     transliteration: l-khiyaratu
   10:
-    arabic: سُبۡحٰنَ
+    arabic: سُبۡحَٰنَ
     translation: Glory be
     transliteration: sub'ḥāna
   11:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (to) Allah
     transliteration: l-lahi
   12:
-    arabic: وَتَعٰلٰى
+    arabic: وَتَعَٰلَىٰ
     translation: and High is He
     transliteration: wataʿālā
   13:
@@ -57,7 +57,7 @@ word_by_word:
     translation: above what
     transliteration: ʿammā
   14:
-    arabic: يُشۡرِكُوۡنَ‏
+    arabic: يُشۡرِكُونَ
     translation: they associate (with Him)
     transliteration: yush'rikūna
 ---

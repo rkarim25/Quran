@@ -1,14 +1,14 @@
 ---
-arabic_ayat: اَفَتُمٰرُوۡنَهٗ عَلٰى مَا يَرٰى‏
+arabic_ayat: أَفَتُمَٰرُونَهُۥ عَلَىٰ مَا يَرَىٰ
 sentence_translation: How can you ˹O pagans˺ then dispute with him regarding what
   he saw?
 word_by_word:
   1:
-    arabic: اَفَتُمٰرُوۡنَهٗ
+    arabic: أَفَتُمَٰرُونَهُۥ
     translation: Then will you dispute with him
     transliteration: afatumārūnahu
   2:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: about
     transliteration: ʿalā
   3:
@@ -16,7 +16,7 @@ word_by_word:
     translation: what
     transliteration: mā
   4:
-    arabic: يَرٰى‏
+    arabic: يَرَىٰ
     translation: he saw
     transliteration: yarā
 ---

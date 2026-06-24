@@ -1,12 +1,12 @@
 ---
-arabic_ayat: وَ اَعۡتَزِلُـكُمۡ وَمَا تَدۡعُوۡنَ مِنۡ دُوۡنِ اللّٰهِ وَاَدۡعُوۡا رَبِّىۡ​
-  ​ۖ  عَسٰٓى اَلَّاۤ اَكُوۡنَ بِدُعَآءِ رَبِّىۡ شَقِيًّا‏
+arabic_ayat: وَأَعۡتَزِلُكُمۡ وَمَا تَدۡعُونَ مِن دُونِ ٱللَّهِ وَأَدۡعُواْ رَبِّي
+  عَسَىٰٓ أَلَّآ أَكُونَ بِدُعَآءِ رَبِّي شَقِيّٗا
 sentence_translation: As I distance myself from ˹all of˺ you and from whatever you
   invoke besides Allah, I will ˹continue to˺ call upon my Lord ˹alone˺, trusting that
   I will never be disappointed in invoking my Lord.”
 word_by_word:
   1:
-    arabic: وَ اَعۡتَزِلُـكُمۡ
+    arabic: وَأَعۡتَزِلُكُمۡ
     translation: And I will leave you
     transliteration: wa-aʿtazilukum
   2:
@@ -14,39 +14,39 @@ word_by_word:
     translation: and what
     transliteration: wamā
   3:
-    arabic: تَدۡعُوۡنَ
+    arabic: تَدۡعُونَ
     translation: you invoke
     transliteration: tadʿūna
   4:
-    arabic: مِنۡ
+    arabic: مِن
     translation: besides
     transliteration: min
   5:
-    arabic: دُوۡنِ
+    arabic: دُونِ
     translation: besides
     transliteration: dūni
   6:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   7:
-    arabic: وَاَدۡعُوۡا
+    arabic: وَأَدۡعُواْ
     translation: and I will invoke
     transliteration: wa-adʿū
   8:
-    arabic: رَبِّىۡ​ ​ۖ 
+    arabic: رَبِّي
     translation: my Lord
     transliteration: rabbī
   9:
-    arabic: عَسٰٓى
+    arabic: عَسَىٰٓ
     translation: May be
     transliteration: ʿasā
   10:
-    arabic: اَلَّاۤ
+    arabic: أَلَّآ
     translation: that not
     transliteration: allā
   11:
-    arabic: اَكُوۡنَ
+    arabic: أَكُونَ
     translation: I will be
     transliteration: akūna
   12:
@@ -54,11 +54,11 @@ word_by_word:
     translation: in invocation
     transliteration: biduʿāi
   13:
-    arabic: رَبِّىۡ
+    arabic: رَبِّي
     translation: (to) my Lord
     transliteration: rabbī
   14:
-    arabic: شَقِيًّا‏
+    arabic: شَقِيّٗا
     translation: unblessed
     transliteration: shaqiyyan
 ---

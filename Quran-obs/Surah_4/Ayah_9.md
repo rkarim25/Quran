@@ -1,6 +1,6 @@
 ---
-arabic_ayat: وَلۡيَخۡشَ الَّذِيۡنَ لَوۡ تَرَكُوۡا مِنۡ خَلۡفِهِمۡ ذُرِّيَّةً ضِعٰفًا
-  خَافُوۡا عَلَيۡهِمۡ فَلۡيَتَّقُوا اللّٰهَ وَلۡيَقُوۡلُوا قَوۡلًا سَدِيۡدًا‏
+arabic_ayat: وَلۡيَخۡشَ ٱلَّذِينَ لَوۡ تَرَكُواْ مِنۡ خَلۡفِهِمۡ ذُرِّيَّةٗ ضِعَٰفًا
+  خَافُواْ عَلَيۡهِمۡ فَلۡيَتَّقُواْ ٱللَّهَ وَلۡيَقُولُواْ قَوۡلٗا سَدِيدًا
 sentence_translation: Let the guardians be as concerned ˹for the orphans˺ as they
   would if they were to ˹die and˺ leave ˹their own˺ helpless children behind. So let
   them be mindful of Allah and speak equitably.
@@ -10,7 +10,7 @@ word_by_word:
     translation: 'And let fear '
     transliteration: walyakhsha
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   3:
@@ -18,7 +18,7 @@ word_by_word:
     translation: if
     transliteration: law
   4:
-    arabic: تَرَكُوۡا
+    arabic: تَرَكُواْ
     translation: they left
     transliteration: tarakū
   5:
@@ -30,15 +30,15 @@ word_by_word:
     translation: behind
     transliteration: khalfihim
   7:
-    arabic: ذُرِّيَّةً
+    arabic: ذُرِّيَّةٗ
     translation: offspring
     transliteration: dhurriyyatan
   8:
-    arabic: ضِعٰفًا
+    arabic: ضِعَٰفًا
     translation: weak
     transliteration: ḍiʿāfan
   9:
-    arabic: خَافُوۡا
+    arabic: خَافُواْ
     translation: (and) they would have feared
     transliteration: khāfū
   10:
@@ -46,23 +46,23 @@ word_by_word:
     translation: about them
     transliteration: ʿalayhim
   11:
-    arabic: فَلۡيَتَّقُوا
+    arabic: فَلۡيَتَّقُواْ
     translation: So let them fear
     transliteration: falyattaqū
   12:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   13:
-    arabic: وَلۡيَقُوۡلُوا
+    arabic: وَلۡيَقُولُواْ
     translation: and let them speak
     transliteration: walyaqūlū
   14:
-    arabic: قَوۡلًا
+    arabic: قَوۡلٗا
     translation: words
     transliteration: qawlan
   15:
-    arabic: سَدِيۡدًا‏
+    arabic: سَدِيدًا
     translation: appropriate
     transliteration: sadīdan
 ---

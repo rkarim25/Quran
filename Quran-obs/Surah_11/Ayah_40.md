@@ -1,18 +1,18 @@
 ---
-arabic_ayat: حَتّٰۤى اِذَا جَآءَ اَمۡرُنَا وَفَارَ التَّنُّوۡرُۙ قُلۡنَا احۡمِلۡ
-  فِيۡهَا مِنۡ كُلٍّ زَوۡجَيۡنِ اثۡنَيۡنِ وَاَهۡلَكَ اِلَّا مَنۡ سَبَقَ عَلَيۡهِ الۡقَوۡلُ
-  وَمَنۡ اٰمَنَ​ؕ وَمَاۤ اٰمَنَ مَعَهٗۤ اِلَّا قَلِيۡلٌ‏
+arabic_ayat: حَتَّىٰٓ إِذَا جَآءَ أَمۡرُنَا وَفَارَ ٱلتَّنُّورُ قُلۡنَا ٱحۡمِلۡ فِيهَا
+  مِن كُلّٖ زَوۡجَيۡنِ ٱثۡنَيۡنِ وَأَهۡلَكَ إِلَّا مَن سَبَقَ عَلَيۡهِ ٱلۡقَوۡلُ وَمَنۡ
+  ءَامَنَۚ وَمَآ ءَامَنَ مَعَهُۥٓ إِلَّا قَلِيلٞ
 sentence_translation: And when Our command came and the oven burst ˹with water˺, We
   said ˹to Noah˺, “Take into the Ark a pair from every species along with your family—except
   those against whom the decree ˹to drown˺ has already been passed—and those who believe.”
   But none believed with him except for a few.
 word_by_word:
   1:
-    arabic: حَتّٰۤى
+    arabic: حَتَّىٰٓ
     translation: Till
     transliteration: ḥattā
   2:
-    arabic: اِذَا
+    arabic: إِذَا
     translation: when
     transliteration: idhā
   3:
@@ -20,7 +20,7 @@ word_by_word:
     translation: came
     transliteration: jāa
   4:
-    arabic: اَمۡرُنَا
+    arabic: أَمۡرُنَا
     translation: Our command
     transliteration: amrunā
   5:
@@ -28,7 +28,7 @@ word_by_word:
     translation: and overflowed
     transliteration: wafāra
   6:
-    arabic: التَّنُّوۡرُۙ
+    arabic: ٱلتَّنُّورُ
     translation: the oven
     transliteration: l-tanūru
   7:
@@ -36,19 +36,19 @@ word_by_word:
     translation: We said
     transliteration: qul'nā
   8:
-    arabic: احۡمِلۡ
+    arabic: ٱحۡمِلۡ
     translation: Load
     transliteration: iḥ'mil
   9:
-    arabic: فِيۡهَا
+    arabic: فِيهَا
     translation: in it
     transliteration: fīhā
   10:
-    arabic: مِنۡ
+    arabic: مِن
     translation: of
     transliteration: min
   11:
-    arabic: كُلٍّ
+    arabic: كُلّٖ
     translation: every kind
     transliteration: kullin
   12:
@@ -56,19 +56,19 @@ word_by_word:
     translation: a pair
     transliteration: zawjayni
   13:
-    arabic: اثۡنَيۡنِ
+    arabic: ٱثۡنَيۡنِ
     translation: two
     transliteration: ith'nayni
   14:
-    arabic: وَاَهۡلَكَ
+    arabic: وَأَهۡلَكَ
     translation: and your family
     transliteration: wa-ahlaka
   15:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   16:
-    arabic: مَنۡ
+    arabic: مَن
     translation: who
     transliteration: man
   17:
@@ -80,35 +80,35 @@ word_by_word:
     translation: against him
     transliteration: ʿalayhi
   19:
-    arabic: الۡقَوۡلُ
+    arabic: ٱلۡقَوۡلُ
     translation: the word
     transliteration: l-qawlu
   20:
-    arabic: وَمَنۡ
+    arabic: وَمَنۡ ءَ
     translation: and whoever
     transliteration: waman
   21:
-    arabic: اٰمَنَ​ؕ
+    arabic: امَنَۚ
     translation: believed
     transliteration: āmana
   22:
-    arabic: وَمَاۤ
+    arabic: وَمَآ ءَ
     translation: And not
     transliteration: wamā
   23:
-    arabic: اٰمَنَ
+    arabic: امَنَ
     translation: believed
     transliteration: āmana
   24:
-    arabic: مَعَهٗۤ
+    arabic: مَعَهُۥٓ
     translation: with him
     transliteration: maʿahu
   25:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   26:
-    arabic: قَلِيۡلٌ‏
+    arabic: قَلِيلٞ
     translation: a few
     transliteration: qalīlun
 ---

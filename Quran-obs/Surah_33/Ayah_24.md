@@ -1,21 +1,20 @@
 ---
-arabic_ayat: لِّيَجۡزِىَ اللّٰهُ الصّٰدِقِيۡنَ بِصِدۡقِهِمۡ وَيُعَذِّبَ الۡمُنٰفِقِيۡنَ
-  اِنۡ شَآءَ اَوۡ يَتُوۡبَ عَلَيۡهِمۡ​ ؕ اِنَّ اللّٰهَ كَانَ غَفُوۡرًا رَّحِيۡمًا
-  ۚ‏
+arabic_ayat: لِّيَجۡزِيَ ٱللَّهُ ٱلصَّٰدِقِينَ بِصِدۡقِهِمۡ وَيُعَذِّبَ ٱلۡمُنَٰفِقِينَ
+  إِن شَآءَ أَوۡ يَتُوبَ عَلَيۡهِمۡۚ إِنَّ ٱللَّهَ كَانَ غَفُورٗا رَّحِيمٗا
 sentence_translation: ˹It all happened˺ so Allah may reward the faithful for their
   faithfulness, and punish the hypocrites if He wills or turn to them ˹in mercy˺.
   Surely Allah is All-Forgiving, Most Merciful.
 word_by_word:
   1:
-    arabic: لِّيَجۡزِىَ
+    arabic: لِّيَجۡزِيَ
     translation: That Allah may reward
     transliteration: liyajziya
   2:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: That Allah may reward
     transliteration: l-lahu
   3:
-    arabic: الصّٰدِقِيۡنَ
+    arabic: ٱلصَّٰدِقِينَ
     translation: the truthful
     transliteration: l-ṣādiqīna
   4:
@@ -27,11 +26,11 @@ word_by_word:
     translation: and punish
     transliteration: wayuʿadhiba
   6:
-    arabic: الۡمُنٰفِقِيۡنَ
+    arabic: ٱلۡمُنَٰفِقِينَ
     translation: the hypocrites
     transliteration: l-munāfiqīna
   7:
-    arabic: اِنۡ
+    arabic: إِن
     translation: if
     transliteration: in
   8:
@@ -39,23 +38,23 @@ word_by_word:
     translation: He wills
     transliteration: shāa
   9:
-    arabic: اَوۡ
+    arabic: أَوۡ
     translation: or
     transliteration: aw
   10:
-    arabic: يَتُوۡبَ
+    arabic: يَتُوبَ
     translation: turn in mercy
     transliteration: yatūba
   11:
-    arabic: عَلَيۡهِمۡ​ ؕ
+    arabic: عَلَيۡهِمۡۚ
     translation: to them
     transliteration: ʿalayhim
   12:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   13:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   14:
@@ -63,11 +62,11 @@ word_by_word:
     translation: is
     transliteration: kāna
   15:
-    arabic: غَفُوۡرًا
+    arabic: غَفُورٗا
     translation: Oft-Forgiving
     transliteration: ghafūran
   16:
-    arabic: رَّحِيۡمًا ۚ‏
+    arabic: رَّحِيمٗا
     translation: Most Merciful
     transliteration: raḥīman
 ---

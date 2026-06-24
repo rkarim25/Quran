@@ -1,10 +1,10 @@
 ---
-arabic_ayat: قَالُوۡا بَلۡ جِئۡنٰكَ بِمَا كَانُوۡا فِيۡهِ يَمۡتَرُوۡنَ‏
+arabic_ayat: قَالُواْ بَلۡ جِئۡنَٰكَ بِمَا كَانُواْ فِيهِ يَمۡتَرُونَ
 sentence_translation: They responded, “We have come to you with that ˹torment˺ which
   they have doubted.
 word_by_word:
   1:
-    arabic: قَالُوۡا
+    arabic: قَالُواْ
     translation: They said
     transliteration: qālū
   2:
@@ -12,7 +12,7 @@ word_by_word:
     translation: Nay
     transliteration: bal
   3:
-    arabic: جِئۡنٰكَ
+    arabic: جِئۡنَٰكَ
     translation: we have come to you
     transliteration: ji'nāka
   4:
@@ -20,15 +20,15 @@ word_by_word:
     translation: with what
     transliteration: bimā
   5:
-    arabic: كَانُوۡا
+    arabic: كَانُواْ
     translation: they were
     transliteration: kānū
   6:
-    arabic: فِيۡهِ
+    arabic: فِيهِ
     translation: in it
     transliteration: fīhi
   7:
-    arabic: يَمۡتَرُوۡنَ‏
+    arabic: يَمۡتَرُونَ
     translation: disputing
     transliteration: yamtarūna
 ---

@@ -1,13 +1,13 @@
 ---
-arabic_ayat: وَّتَصۡلِيَةُ جَحِيۡمٍ‏
+arabic_ayat: وَتَصۡلِيَةُ جَحِيمٍ
 sentence_translation: and burning in Hellfire.
 word_by_word:
   1:
-    arabic: وَّتَصۡلِيَةُ
+    arabic: وَتَصۡلِيَةُ
     translation: And burning
     transliteration: wataṣliyatu
   2:
-    arabic: جَحِيۡمٍ‏
+    arabic: جَحِيمٍ
     translation: (in) Hellfire
     transliteration: jaḥīmin
 ---

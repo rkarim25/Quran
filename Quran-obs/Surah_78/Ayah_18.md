@@ -1,30 +1,30 @@
 ---
-arabic_ayat: يَّوۡمَ يُنۡفَخُ فِى الصُّوۡرِ فَتَاۡتُوۡنَ اَفۡوَاجًا ۙ‏
+arabic_ayat: يَوۡمَ يُنفَخُ فِي ٱلصُّورِ فَتَأۡتُونَ أَفۡوَاجٗا
 sentence_translation: ˹it is˺ the Day the Trumpet will be blown, and you will ˹all˺
   come forth in crowds.
 word_by_word:
   1:
-    arabic: يَّوۡمَ
+    arabic: يَوۡمَ
     translation: (The) Day
     transliteration: yawma
   2:
-    arabic: يُنۡفَخُ
+    arabic: يُنفَخُ
     translation: (in which) shall be blown
     transliteration: yunfakhu
   3:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   4:
-    arabic: الصُّوۡرِ
+    arabic: ٱلصُّورِ
     translation: the trumpet
     transliteration: l-ṣūri
   5:
-    arabic: فَتَاۡتُوۡنَ
+    arabic: فَتَأۡتُونَ
     translation: and you will come forth
     transliteration: fatatūna
   6:
-    arabic: اَفۡوَاجًا ۙ‏
+    arabic: أَفۡوَاجٗا
     translation: (in) crowds
     transliteration: afwājan
 ---

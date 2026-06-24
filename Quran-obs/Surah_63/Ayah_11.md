@@ -1,19 +1,19 @@
 ---
-arabic_ayat: وَلَنۡ يُّؤَخِّرَ اللّٰهُ نَفۡسًا اِذَا جَآءَ اَجَلُهَا​ؕ وَاللّٰهُ
-  خَبِيۡرٌۢ بِمَا تَعۡمَلُوۡنَ‏
+arabic_ayat: وَلَن يُؤَخِّرَ ٱللَّهُ نَفۡسًا إِذَا جَآءَ أَجَلُهَاۚ وَٱللَّهُ خَبِيرُۢ
+  بِمَا تَعۡمَلُونَ
 sentence_translation: But Allah never delays a soul when its appointed time comes.
   And Allah is All-Aware of what you do.
 word_by_word:
   1:
-    arabic: وَلَنۡ
+    arabic: وَلَن
     translation: But never
     transliteration: walan
   2:
-    arabic: يُّؤَخِّرَ
+    arabic: يُؤَخِّرَ
     translation: will (be) delayed
     transliteration: yu-akhira
   3:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: (by) Allah
     transliteration: l-lahu
   4:
@@ -21,7 +21,7 @@ word_by_word:
     translation: a soul
     transliteration: nafsan
   5:
-    arabic: اِذَا
+    arabic: إِذَا
     translation: when
     transliteration: idhā
   6:
@@ -29,15 +29,15 @@ word_by_word:
     translation: has come
     transliteration: jāa
   7:
-    arabic: اَجَلُهَا​ؕ
+    arabic: أَجَلُهَاۚ
     translation: its term
     transliteration: ajaluhā
   8:
-    arabic: وَاللّٰهُ
+    arabic: وَٱللَّهُ
     translation: And Allah
     transliteration: wal-lahu
   9:
-    arabic: خَبِيۡرٌۢ
+    arabic: خَبِيرُۢ
     translation: (is) All-Aware
     transliteration: khabīrun
   10:
@@ -45,7 +45,7 @@ word_by_word:
     translation: of what
     transliteration: bimā
   11:
-    arabic: تَعۡمَلُوۡنَ‏
+    arabic: تَعۡمَلُونَ
     translation: you do
     transliteration: taʿmalūna
 ---

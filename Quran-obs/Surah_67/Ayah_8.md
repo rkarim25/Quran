@@ -1,6 +1,6 @@
 ---
-arabic_ayat: تَكَادُ تَمَيَّزُ مِنَ الۡغَيۡظِ​ؕ كُلَّمَاۤ اُلۡقِىَ فِيۡهَا فَوۡجٌ
-  سَاَلَهُمۡ خَزَنَـتُهَاۤ اَلَمۡ يَاۡتِكُمۡ نَذِيۡرٌ‏
+arabic_ayat: تَكَادُ تَمَيَّزُ مِنَ ٱلۡغَيۡظِۖ كُلَّمَآ أُلۡقِيَ فِيهَا فَوۡجٞ سَأَلَهُمۡ
+  خَزَنَتُهَآ أَلَمۡ يَأۡتِكُمۡ نَذِيرٞ
 sentence_translation: almost bursting in fury. Every time a group is cast into it,
   its keepers will ask them, “Did a warner not come to you?”
 word_by_word:
@@ -17,43 +17,43 @@ word_by_word:
     translation: from
     transliteration: mina
   4:
-    arabic: الۡغَيۡظِ​ؕ
+    arabic: ٱلۡغَيۡظِۖ
     translation: rage
     transliteration: l-ghayẓi
   5:
-    arabic: كُلَّمَاۤ
+    arabic: كُلَّمَآ
     translation: Every time
     transliteration: kullamā
   6:
-    arabic: اُلۡقِىَ
+    arabic: أُلۡقِيَ
     translation: is thrown
     transliteration: ul'qiya
   7:
-    arabic: فِيۡهَا
+    arabic: فِيهَا
     translation: therein
     transliteration: fīhā
   8:
-    arabic: فَوۡجٌ
+    arabic: فَوۡجٞ
     translation: a group
     transliteration: fawjun
   9:
-    arabic: سَاَلَهُمۡ
+    arabic: سَأَلَهُمۡ
     translation: (will) ask them
     transliteration: sa-alahum
   10:
-    arabic: خَزَنَـتُهَاۤ
+    arabic: خَزَنَتُهَآ
     translation: its keepers
     transliteration: khazanatuhā
   11:
-    arabic: اَلَمۡ
+    arabic: أَلَمۡ
     translation: Did not
     transliteration: alam
   12:
-    arabic: يَاۡتِكُمۡ
+    arabic: يَأۡتِكُمۡ
     translation: come to you
     transliteration: yatikum
   13:
-    arabic: نَذِيۡرٌ‏
+    arabic: نَذِيرٞ
     translation: a warner
     transliteration: nadhīrun
 ---

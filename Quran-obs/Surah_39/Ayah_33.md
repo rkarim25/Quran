@@ -1,11 +1,10 @@
 ---
-arabic_ayat: "وَالَّذِىۡ جَآءَ بِالصِّدۡقِ وَصَدَّقَ بِهٖۤ​ اُولٰٓٮِٕكَ هُمُ الۡمُتَّقُوۡنَ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: وَٱلَّذِي جَآءَ بِٱلصِّدۡقِ وَصَدَّقَ بِهِۦٓ أُوْلَٰٓئِكَ هُمُ ٱلۡمُتَّقُونَ
 sentence_translation: And the one who has brought the truth and those who embrace
   it—it is they who are the righteous.
 word_by_word:
   1:
-    arabic: وَالَّذِىۡ
+    arabic: وَٱلَّذِي
     translation: And the one who
     transliteration: wa-alladhī
   2:
@@ -13,7 +12,7 @@ word_by_word:
     translation: brought
     transliteration: jāa
   3:
-    arabic: بِالصِّدۡقِ
+    arabic: بِٱلصِّدۡقِ
     translation: the truth
     transliteration: bil-ṣid'qi
   4:
@@ -21,11 +20,11 @@ word_by_word:
     translation: and believed
     transliteration: waṣaddaqa
   5:
-    arabic: بِهٖۤ​
+    arabic: بِهِۦٓ
     translation: in it
     transliteration: bihi
   6:
-    arabic: اُولٰٓٮِٕكَ
+    arabic: أُوْلَٰٓئِكَ
     translation: those
     transliteration: ulāika
   7:
@@ -33,7 +32,7 @@ word_by_word:
     translation: '[they]'
     transliteration: humu
   8:
-    arabic: "الۡمُتَّقُوۡنَ‏ \uFEFF\uFEFF"
+    arabic: ٱلۡمُتَّقُونَ
     translation: (are) the righteous
     transliteration: l-mutaqūna
 ---

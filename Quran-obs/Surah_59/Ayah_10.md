@@ -1,22 +1,22 @@
 ---
-arabic_ayat: وَالَّذِيۡنَ جَآءُوۡ مِنۡۢ بَعۡدِهِمۡ يَقُوۡلُوۡنَ رَبَّنَا اغۡفِرۡ
-  لَـنَا وَلِاِخۡوَانِنَا الَّذِيۡنَ سَبَقُوۡنَا بِالۡاِيۡمَانِ وَلَا تَجۡعَلۡ فِىۡ
-  قُلُوۡبِنَا غِلًّا لِّلَّذِيۡنَ اٰمَنُوۡا رَبَّنَاۤ اِنَّكَ رَءُوۡفٌ رَّحِيۡمٌ‏
+arabic_ayat: وَٱلَّذِينَ جَآءُو مِنۢ بَعۡدِهِمۡ يَقُولُونَ رَبَّنَا ٱغۡفِرۡ لَنَا
+  وَلِإِخۡوَٰنِنَا ٱلَّذِينَ سَبَقُونَا بِٱلۡإِيمَٰنِ وَلَا تَجۡعَلۡ فِي قُلُوبِنَا
+  غِلّٗا لِّلَّذِينَ ءَامَنُواْ رَبَّنَآ إِنَّكَ رَءُوفٞ رَّحِيمٌ
 sentence_translation: And those who come after them will pray, “Our Lord! Forgive
   us and our fellow believers who preceded us in faith, and do not allow bitterness
   into our hearts towards those who believe. Our Lord! Indeed, You are Ever Gracious,
   Most Merciful.”
 word_by_word:
   1:
-    arabic: وَالَّذِيۡنَ
+    arabic: وَٱلَّذِينَ
     translation: And those who
     transliteration: wa-alladhīna
   2:
-    arabic: جَآءُوۡ
+    arabic: جَآءُو
     translation: came
     transliteration: jāū
   3:
-    arabic: مِنۡۢ
+    arabic: مِنۢ
     translation: from
     transliteration: min
   4:
@@ -24,7 +24,7 @@ word_by_word:
     translation: after them
     transliteration: baʿdihim
   5:
-    arabic: يَقُوۡلُوۡنَ
+    arabic: يَقُولُونَ
     translation: they say
     transliteration: yaqūlūna
   6:
@@ -32,27 +32,27 @@ word_by_word:
     translation: Our Lord
     transliteration: rabbanā
   7:
-    arabic: اغۡفِرۡ
+    arabic: ٱغۡفِرۡ
     translation: forgive
     transliteration: igh'fir
   8:
-    arabic: لَـنَا
+    arabic: لَنَا
     translation: us
     transliteration: lanā
   9:
-    arabic: وَلِاِخۡوَانِنَا
+    arabic: وَلِإِخۡوَٰنِنَا
     translation: and our brothers
     transliteration: wali-ikh'wāninā
   10:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: who
     transliteration: alladhīna
   11:
-    arabic: سَبَقُوۡنَا
+    arabic: سَبَقُونَا
     translation: preceded us
     transliteration: sabaqūnā
   12:
-    arabic: بِالۡاِيۡمَانِ
+    arabic: بِٱلۡإِيمَٰنِ
     translation: in faith
     transliteration: bil-īmāni
   13:
@@ -64,39 +64,39 @@ word_by_word:
     translation: put
     transliteration: tajʿal
   15:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   16:
-    arabic: قُلُوۡبِنَا
+    arabic: قُلُوبِنَا
     translation: our hearts
     transliteration: qulūbinā
   17:
-    arabic: غِلًّا
+    arabic: غِلّٗا
     translation: any rancor
     transliteration: ghillan
   18:
-    arabic: لِّلَّذِيۡنَ
+    arabic: لِّلَّذِينَ ءَ
     translation: towards those who
     transliteration: lilladhīna
   19:
-    arabic: اٰمَنُوۡا
+    arabic: امَنُواْ
     translation: believed
     transliteration: āmanū
   20:
-    arabic: رَبَّنَاۤ
+    arabic: رَبَّنَآ
     translation: Our Lord
     transliteration: rabbanā
   21:
-    arabic: اِنَّكَ
+    arabic: إِنَّكَ
     translation: indeed You
     transliteration: innaka
   22:
-    arabic: رَءُوۡفٌ
+    arabic: رَءُوفٞ
     translation: (are) Full of Kindness
     transliteration: raūfun
   23:
-    arabic: رَّحِيۡمٌ‏
+    arabic: رَّحِيمٌ
     translation: Most Merciful
     transliteration: raḥīmun
 ---

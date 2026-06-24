@@ -1,6 +1,6 @@
 ---
-arabic_ayat: وَجَعَلۡنَا مِنۡۢ بَيۡنِ اَيۡدِيۡهِمۡ سَدًّا وَّمِنۡ خَلۡفِهِمۡ سَدًّا
-  فَاَغۡشَيۡنٰهُمۡ فَهُمۡ لَا يُبۡصِرُوۡنَ‏
+arabic_ayat: وَجَعَلۡنَا مِنۢ بَيۡنِ أَيۡدِيهِمۡ سَدّٗا وَمِنۡ خَلۡفِهِمۡ سَدّٗا فَأَغۡشَيۡنَٰهُمۡ
+  فَهُمۡ لَا يُبۡصِرُونَ
 sentence_translation: and have placed a barrier before them and a barrier behind them
   and covered them ˹all˺ up, so they fail to see ˹the truth˺.
 word_by_word:
@@ -9,7 +9,7 @@ word_by_word:
     translation: And We have made
     transliteration: wajaʿalnā
   2:
-    arabic: مِنۡۢ
+    arabic: مِنۢ
     translation: from
     transliteration: min
   3:
@@ -17,15 +17,15 @@ word_by_word:
     translation: before/between
     transliteration: bayni
   4:
-    arabic: اَيۡدِيۡهِمۡ
+    arabic: أَيۡدِيهِمۡ
     translation: their hands/their front
     transliteration: aydīhim
   5:
-    arabic: سَدًّا
+    arabic: سَدّٗا
     translation: a barrier
     transliteration: saddan
   6:
-    arabic: وَّمِنۡ
+    arabic: وَمِنۡ
     translation: and from
     transliteration: wamin
   7:
@@ -33,11 +33,11 @@ word_by_word:
     translation: behind them
     transliteration: khalfihim
   8:
-    arabic: سَدًّا
+    arabic: سَدّٗا
     translation: a barrier
     transliteration: saddan
   9:
-    arabic: فَاَغۡشَيۡنٰهُمۡ
+    arabic: فَأَغۡشَيۡنَٰهُمۡ
     translation: and We covered them
     transliteration: fa-aghshaynāhum
   10:
@@ -49,7 +49,7 @@ word_by_word:
     translation: (do) not
     transliteration: lā
   12:
-    arabic: يُبۡصِرُوۡنَ‏
+    arabic: يُبۡصِرُونَ
     translation: see
     transliteration: yub'ṣirūna
 ---

@@ -1,31 +1,30 @@
 ---
-arabic_ayat: "مَّلۡـعُوۡنِيۡنَ ​ۛۚ اَيۡنَمَا ثُقِفُوۡۤا اُخِذُوۡا وَقُتِّلُوۡا تَقۡتِيۡلًا‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: مَّلۡعُونِينَۖ أَيۡنَمَا ثُقِفُوٓاْ أُخِذُواْ وَقُتِّلُواْ تَقۡتِيلٗا
 sentence_translation: ˹They deserve to be˺ condemned. ˹If they were to persist,˺ they
   would get themselves seized and killed relentlessly wherever they are found!
 word_by_word:
   1:
-    arabic: مَّلۡـعُوۡنِيۡنَ ​ۛۚ
+    arabic: مَّلۡعُونِينَۖ
     translation: Accursed
     transliteration: malʿūnīna
   2:
-    arabic: اَيۡنَمَا
+    arabic: أَيۡنَمَا
     translation: wherever
     transliteration: aynamā
   3:
-    arabic: ثُقِفُوۡۤا
+    arabic: ثُقِفُوٓاْ
     translation: they are found
     transliteration: thuqifū
   4:
-    arabic: اُخِذُوۡا
+    arabic: أُخِذُواْ
     translation: they are seized
     transliteration: ukhidhū
   5:
-    arabic: وَقُتِّلُوۡا
+    arabic: وَقُتِّلُواْ
     translation: and massacred completely
     transliteration: waquttilū
   6:
-    arabic: "تَقۡتِيۡلًا‏ \uFEFF\uFEFF"
+    arabic: تَقۡتِيلٗا
     translation: and massacred completely
     transliteration: taqtīlan
 ---

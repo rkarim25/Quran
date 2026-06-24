@@ -1,6 +1,6 @@
 ---
-arabic_ayat: وَلَقَدۡ اَرۡسَلۡنَا نُوۡحًا اِلٰى قَوۡمِهٖ فَقَالَ يٰقَوۡمِ اعۡبُدُوا
-  اللّٰهَ مَا لَـكُمۡ مِّنۡ اِلٰهٍ غَيۡرُهٗ ؕ اَفَلَا تَتَّقُوۡنَ‏
+arabic_ayat: وَلَقَدۡ أَرۡسَلۡنَا نُوحًا إِلَىٰ قَوۡمِهِۦ فَقَالَ يَٰقَوۡمِ ٱعۡبُدُواْ
+  ٱللَّهَ مَا لَكُم مِّنۡ إِلَٰهٍ غَيۡرُهُۥٓۚ أَفَلَا تَتَّقُونَ
 sentence_translation: Indeed, We sent Noah to his people. He declared, “O my people!
   Worship Allah ˹alone˺. You have no god other than Him. Will you not then fear ˹Him˺?”
 word_by_word:
@@ -9,19 +9,19 @@ word_by_word:
     translation: And verily
     transliteration: walaqad
   2:
-    arabic: اَرۡسَلۡنَا
+    arabic: أَرۡسَلۡنَا
     translation: We sent
     transliteration: arsalnā
   3:
-    arabic: نُوۡحًا
+    arabic: نُوحًا
     translation: Nuh
     transliteration: nūḥan
   4:
-    arabic: اِلٰى
+    arabic: إِلَىٰ
     translation: to
     transliteration: ilā
   5:
-    arabic: قَوۡمِهٖ
+    arabic: قَوۡمِهِۦ
     translation: his people
     transliteration: qawmihi
   6:
@@ -29,15 +29,15 @@ word_by_word:
     translation: and he said
     transliteration: faqāla
   7:
-    arabic: يٰقَوۡمِ
+    arabic: يَٰقَوۡمِ
     translation: O my people
     transliteration: yāqawmi
   8:
-    arabic: اعۡبُدُوا
+    arabic: ٱعۡبُدُواْ
     translation: Worship
     transliteration: uʿ'budū
   9:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   10:
@@ -45,7 +45,7 @@ word_by_word:
     translation: not
     transliteration: mā
   11:
-    arabic: لَـكُمۡ
+    arabic: لَكُم
     translation: for you
     transliteration: lakum
   12:
@@ -53,19 +53,19 @@ word_by_word:
     translation: (is) any
     transliteration: min
   13:
-    arabic: اِلٰهٍ
+    arabic: إِلَٰهٍ
     translation: god
     transliteration: ilāhin
   14:
-    arabic: غَيۡرُهٗ ؕ
+    arabic: غَيۡرُهُۥٓۚ
     translation: other than Him
     transliteration: ghayruhu
   15:
-    arabic: اَفَلَا
+    arabic: أَفَلَا
     translation: Then will not
     transliteration: afalā
   16:
-    arabic: تَتَّقُوۡنَ‏
+    arabic: تَتَّقُونَ
     translation: you fear
     transliteration: tattaqūna
 ---

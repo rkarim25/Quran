@@ -1,15 +1,15 @@
 ---
-arabic_ayat: فَاصۡبِرۡ اِنَّ وَعۡدَ اللّٰهِ حَقٌّ​ وَّلَا يَسۡتَخِفَّنَّكَ الَّذِيۡنَ
-  لَا يُوۡقِنُوۡنَ‏
+arabic_ayat: فَٱصۡبِرۡ إِنَّ وَعۡدَ ٱللَّهِ حَقّٞۖ وَلَا يَسۡتَخِفَّنَّكَ ٱلَّذِينَ
+  لَا يُوقِنُونَ
 sentence_translation: So be patient, for the promise of Allah certainly is true. And
   do not be disturbed by those who have no sure faith.
 word_by_word:
   1:
-    arabic: فَاصۡبِرۡ
+    arabic: فَٱصۡبِرۡ
     translation: So be patient
     transliteration: fa-iṣ'bir
   2:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   3:
@@ -17,15 +17,15 @@ word_by_word:
     translation: (the) Promise
     transliteration: waʿda
   4:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (of) Allah
     transliteration: l-lahi
   5:
-    arabic: حَقٌّ​
+    arabic: حَقّٞۖ
     translation: (is) true
     transliteration: ḥaqqun
   6:
-    arabic: وَّلَا
+    arabic: وَلَا
     translation: And (let) not
     transliteration: walā
   7:
@@ -33,7 +33,7 @@ word_by_word:
     translation: take you in light estimation
     transliteration: yastakhiffannaka
   8:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   9:
@@ -41,7 +41,7 @@ word_by_word:
     translation: (are) not
     transliteration: lā
   10:
-    arabic: يُوۡقِنُوۡنَ‏
+    arabic: يُوقِنُونَ
     translation: certain in faith
     transliteration: yūqinūna
 ---

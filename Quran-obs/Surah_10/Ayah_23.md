@@ -1,23 +1,22 @@
 ---
-arabic_ayat: "فَلَمَّاۤ اَنۡجٰٮهُمۡ اِذَا هُمۡ يَبۡغُوۡنَ فِى الۡاَرۡضِ بِغَيۡرِ الۡحَـقِّ​\
-  \ ؕ يٰۤـاَ يُّهَا النَّاسُ اِنَّمَا بَغۡيُكُمۡ عَلٰٓى اَنۡفُسِكُمۡ​ۙ مَّتَاعَ الۡحَيٰوةِ\
-  \ الدُّنۡيَا​ ثُمَّ اِلَـيۡنَا مَرۡجِعُكُمۡ فَنُنَبِّئُكُمۡ بِمَا كُنۡتُمۡ تَعۡمَلُوۡنَ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: فَلَمَّآ أَنجَىٰهُمۡ إِذَا هُمۡ يَبۡغُونَ فِي ٱلۡأَرۡضِ بِغَيۡرِ ٱلۡحَقِّۗ
+  يَٰٓأَيُّهَا ٱلنَّاسُ إِنَّمَا بَغۡيُكُمۡ عَلَىٰٓ أَنفُسِكُمۖ مَّتَٰعَ ٱلۡحَيَوٰةِ
+  ٱلدُّنۡيَاۖ ثُمَّ إِلَيۡنَا مَرۡجِعُكُمۡ فَنُنَبِّئُكُم بِمَا كُنتُمۡ تَعۡمَلُونَ
 sentence_translation: But as soon as He rescues them, they transgress in the land
   unjustly. O  humanity! Your transgression is only against your own souls. ˹There
   is only˺ brief enjoyment in this worldly life, then to Us is your return, and then
   We will inform you of what you used to do.
 word_by_word:
   1:
-    arabic: فَلَمَّاۤ
+    arabic: فَلَمَّآ
     translation: But when
     transliteration: falammā
   2:
-    arabic: اَنۡجٰٮهُمۡ
+    arabic: أَنجَىٰهُمۡ
     translation: He saved them
     transliteration: anjāhum
   3:
-    arabic: اِذَا
+    arabic: إِذَا
     translation: behold
     transliteration: idhā
   4:
@@ -25,15 +24,15 @@ word_by_word:
     translation: They
     transliteration: hum
   5:
-    arabic: يَبۡغُوۡنَ
+    arabic: يَبۡغُونَ
     translation: rebel
     transliteration: yabghūna
   6:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   7:
-    arabic: الۡاَرۡضِ
+    arabic: ٱلۡأَرۡضِ
     translation: the earth
     transliteration: l-arḍi
   8:
@@ -41,19 +40,19 @@ word_by_word:
     translation: without
     transliteration: bighayri
   9:
-    arabic: الۡحَـقِّ​ ؕ
+    arabic: ٱلۡحَقِّۗ
     translation: '[the] right'
     transliteration: l-ḥaqi
   10:
-    arabic: يٰۤـاَ يُّهَا
+    arabic: يَٰٓأَيُّهَا
     translation: O mankind
     transliteration: yāayyuhā
   11:
-    arabic: النَّاسُ
+    arabic: ٱلنَّاسُ
     translation: O mankind
     transliteration: l-nāsu
   12:
-    arabic: اِنَّمَا
+    arabic: إِنَّمَا
     translation: Only
     transliteration: innamā
   13:
@@ -61,23 +60,23 @@ word_by_word:
     translation: your rebellion
     transliteration: baghyukum
   14:
-    arabic: عَلٰٓى
+    arabic: عَلَىٰٓ
     translation: (is) against
     transliteration: ʿalā
   15:
-    arabic: اَنۡفُسِكُمۡ​ۙ
+    arabic: أَنفُسِكُمۖ
     translation: yourselves
     transliteration: anfusikum
   16:
-    arabic: مَّتَاعَ
+    arabic: مَّتَٰعَ
     translation: (the) enjoyment
     transliteration: matāʿa
   17:
-    arabic: الۡحَيٰوةِ
+    arabic: ٱلۡحَيَوٰةِ
     translation: (of) the life
     transliteration: l-ḥayati
   18:
-    arabic: الدُّنۡيَا​
+    arabic: ٱلدُّنۡيَاۖ
     translation: (of) the world
     transliteration: l-dun'yā
   19:
@@ -85,7 +84,7 @@ word_by_word:
     translation: Then
     transliteration: thumma
   20:
-    arabic: اِلَـيۡنَا
+    arabic: إِلَيۡنَا
     translation: to Us
     transliteration: ilaynā
   21:
@@ -93,7 +92,7 @@ word_by_word:
     translation: (is) your return
     transliteration: marjiʿukum
   22:
-    arabic: فَنُنَبِّئُكُمۡ
+    arabic: فَنُنَبِّئُكُم
     translation: and We will inform you
     transliteration: fanunabbi-ukum
   23:
@@ -101,11 +100,11 @@ word_by_word:
     translation: of what
     transliteration: bimā
   24:
-    arabic: كُنۡتُمۡ
+    arabic: كُنتُمۡ
     translation: you used (to)
     transliteration: kuntum
   25:
-    arabic: "تَعۡمَلُوۡنَ‏ \uFEFF\uFEFF"
+    arabic: تَعۡمَلُونَ
     translation: do
     transliteration: taʿmalūna
 ---

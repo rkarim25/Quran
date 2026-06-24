@@ -1,15 +1,14 @@
 ---
-arabic_ayat: "لَا يَتَّخِذِ الۡمُؤۡمِنُوۡنَ الۡكٰفِرِيۡنَ اَوۡلِيَآءَ مِنۡ دُوۡنِ\
-  \ الۡمُؤۡمِنِيۡنَ​ۚ وَمَنۡ يَّفۡعَلۡ ذٰ لِكَ فَلَيۡسَ مِنَ اللّٰهِ فِىۡ شَىۡءٍ اِلَّاۤ\
-  \ اَنۡ تَتَّقُوۡا مِنۡهُمۡ تُقٰٮةً  ؕ وَيُحَذِّرُكُمُ اللّٰهُ نَفۡسَهٗ​ ؕوَاِلَى\
-  \ اللّٰهِ الۡمَصِيۡرُ‏ \uFEFF\uFEFF"
+arabic_ayat: لَّا يَتَّخِذِ ٱلۡمُؤۡمِنُونَ ٱلۡكَٰفِرِينَ أَوۡلِيَآءَ مِن دُونِ ٱلۡمُؤۡمِنِينَۖ
+  وَمَن يَفۡعَلۡ ذَٰلِكَ فَلَيۡسَ مِنَ ٱللَّهِ فِي شَيۡءٍ إِلَّآ أَن تَتَّقُواْ مِنۡهُمۡ
+  تُقَىٰةٗۗ وَيُحَذِّرُكُمُ ٱللَّهُ نَفۡسَهُۥۗ وَإِلَى ٱللَّهِ ٱلۡمَصِيرُ
 sentence_translation: Believers should not take disbelievers as guardians instead
   of the believers—and whoever does so will have nothing to hope for from Allah—unless
   it is a precaution against their tyranny. And Allah warns you about Himself. And
   to Allah is the final return.
 word_by_word:
   1:
-    arabic: لَا
+    arabic: لَّا
     translation: (Let) not
     transliteration: lā
   2:
@@ -17,39 +16,39 @@ word_by_word:
     translation: take
     transliteration: yattakhidhi
   3:
-    arabic: الۡمُؤۡمِنُوۡنَ
+    arabic: ٱلۡمُؤۡمِنُونَ
     translation: the believers
     transliteration: l-mu'minūna
   4:
-    arabic: الۡكٰفِرِيۡنَ
+    arabic: ٱلۡكَٰفِرِينَ
     translation: the disbelievers
     transliteration: l-kāfirīna
   5:
-    arabic: اَوۡلِيَآءَ
+    arabic: أَوۡلِيَآءَ
     translation: (as) allies
     transliteration: awliyāa
   6:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   7:
-    arabic: دُوۡنِ
+    arabic: دُونِ
     translation: instead of
     transliteration: dūni
   8:
-    arabic: الۡمُؤۡمِنِيۡنَ​ۚ
+    arabic: ٱلۡمُؤۡمِنِينَۖ
     translation: the believers
     transliteration: l-mu'minīna
   9:
-    arabic: وَمَنۡ
+    arabic: وَمَن
     translation: And whoever
     transliteration: waman
   10:
-    arabic: يَّفۡعَلۡ
+    arabic: يَفۡعَلۡ
     translation: does
     transliteration: yafʿal
   11:
-    arabic: ذٰ لِكَ
+    arabic: ذَٰلِكَ
     translation: that
     transliteration: dhālika
   12:
@@ -61,27 +60,27 @@ word_by_word:
     translation: from
     transliteration: mina
   14:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   15:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   16:
-    arabic: شَىۡءٍ
+    arabic: شَيۡءٍ
     translation: anything
     transliteration: shayin
   17:
-    arabic: اِلَّاۤ
+    arabic: إِلَّآ
     translation: except
     transliteration: illā
   18:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that
     transliteration: an
   19:
-    arabic: تَتَّقُوۡا
+    arabic: تَتَّقُواْ
     translation: you fear
     transliteration: tattaqū
   20:
@@ -89,7 +88,7 @@ word_by_word:
     translation: from them
     transliteration: min'hum
   21:
-    arabic: تُقٰٮةً  ؕ
+    arabic: تُقَىٰةٗۗ
     translation: (as) a precaution
     transliteration: tuqātan
   22:
@@ -97,23 +96,23 @@ word_by_word:
     translation: And warns you
     transliteration: wayuḥadhirukumu
   23:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   24:
-    arabic: نَفۡسَهٗ​ ؕ
+    arabic: نَفۡسَهُۥۗ
     translation: (of) Himself
     transliteration: nafsahu
   25:
-    arabic: وَاِلَى
+    arabic: وَإِلَى
     translation: and to
     transliteration: wa-ilā
   26:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   27:
-    arabic: "الۡمَصِيۡرُ‏ \uFEFF\uFEFF"
+    arabic: ٱلۡمَصِيرُ
     translation: (is) the final return
     transliteration: l-maṣīru
 ---

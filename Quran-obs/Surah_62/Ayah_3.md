@@ -1,11 +1,10 @@
 ---
-arabic_ayat: "وَّاٰخَرِيۡنَ مِنۡهُمۡ لَمَّا يَلۡحَقُوۡا بِهِمۡ​ؕ وَهُوَ الۡعَزِيۡزُ\
-  \ الۡحَكِيۡمُ‏ \uFEFF\uFEFF"
+arabic_ayat: وَءَاخَرِينَ مِنۡهُمۡ لَمَّا يَلۡحَقُواْ بِهِمۡۚ وَهُوَ ٱلۡعَزِيزُ ٱلۡحَكِيمُ
 sentence_translation: along with others of them who have not yet joined them ˹in faith˺.
   For He is the Almighty, All-Wise.
 word_by_word:
   1:
-    arabic: وَّاٰخَرِيۡنَ
+    arabic: وَءَاخَرِينَ
     translation: And others
     transliteration: waākharīna
   2:
@@ -17,11 +16,11 @@ word_by_word:
     translation: who have not yet
     transliteration: lammā
   4:
-    arabic: يَلۡحَقُوۡا
+    arabic: يَلۡحَقُواْ
     translation: joined
     transliteration: yalḥaqū
   5:
-    arabic: بِهِمۡ​ؕ
+    arabic: بِهِمۡۚ
     translation: them
     transliteration: bihim
   6:
@@ -29,11 +28,11 @@ word_by_word:
     translation: and He
     transliteration: wahuwa
   7:
-    arabic: الۡعَزِيۡزُ
+    arabic: ٱلۡعَزِيزُ
     translation: (is) the All-Mighty
     transliteration: l-ʿazīzu
   8:
-    arabic: "الۡحَكِيۡمُ‏ \uFEFF\uFEFF"
+    arabic: ٱلۡحَكِيمُ
     translation: the All-Wise
     transliteration: l-ḥakīmu
 ---

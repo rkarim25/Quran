@@ -1,16 +1,16 @@
 ---
-arabic_ayat: لَوۡلَا كِتٰبٌ مِّنَ اللّٰهِ سَبَقَ لَمَسَّكُمۡ فِيۡمَاۤ اَخَذۡتُمۡ عَذَابٌ
-  عَظِيۡمٌ‏
+arabic_ayat: لَّوۡلَا كِتَٰبٞ مِّنَ ٱللَّهِ سَبَقَ لَمَسَّكُمۡ فِيمَآ أَخَذۡتُمۡ
+  عَذَابٌ عَظِيمٞ
 sentence_translation: Had it not been for a prior decree from Allah, you would have
   certainly been disciplined with a tremendous punishment for whatever ˹ransom˺ you
   have taken.
 word_by_word:
   1:
-    arabic: لَوۡلَا
+    arabic: لَّوۡلَا
     translation: Had not
     transliteration: lawlā
   2:
-    arabic: كِتٰبٌ
+    arabic: كِتَٰبٞ
     translation: an ordainment
     transliteration: kitābun
   3:
@@ -18,7 +18,7 @@ word_by_word:
     translation: from
     transliteration: mina
   4:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   5:
@@ -30,11 +30,11 @@ word_by_word:
     translation: surely (would) have touched you
     transliteration: lamassakum
   7:
-    arabic: فِيۡمَاۤ
+    arabic: فِيمَآ
     translation: for what
     transliteration: fīmā
   8:
-    arabic: اَخَذۡتُمۡ
+    arabic: أَخَذۡتُمۡ
     translation: 'you took '
     transliteration: akhadhtum
   9:
@@ -42,7 +42,7 @@ word_by_word:
     translation: a punishment
     transliteration: ʿadhābun
   10:
-    arabic: عَظِيۡمٌ‏
+    arabic: عَظِيمٞ
     translation: great
     transliteration: ʿaẓīmun
 ---

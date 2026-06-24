@@ -1,5 +1,5 @@
 ---
-arabic_ayat: فَجُمِعَ السَّحَرَةُ لِمِيۡقَاتِ يَوۡمٍ مَّعۡلُوۡمٍۙ‏
+arabic_ayat: فَجُمِعَ ٱلسَّحَرَةُ لِمِيقَٰتِ يَوۡمٖ مَّعۡلُومٖ
 sentence_translation: So the magicians were assembled at the set time on the appointed
   day.
 word_by_word:
@@ -8,19 +8,19 @@ word_by_word:
     translation: So were assembled
     transliteration: fajumiʿa
   2:
-    arabic: السَّحَرَةُ
+    arabic: ٱلسَّحَرَةُ
     translation: the magicians
     transliteration: l-saḥaratu
   3:
-    arabic: لِمِيۡقَاتِ
+    arabic: لِمِيقَٰتِ
     translation: for (the) appointment
     transliteration: limīqāti
   4:
-    arabic: يَوۡمٍ
+    arabic: يَوۡمٖ
     translation: (on) a day
     transliteration: yawmin
   5:
-    arabic: مَّعۡلُوۡمٍۙ‏
+    arabic: مَّعۡلُومٖ
     translation: well-known
     transliteration: maʿlūmin
 ---

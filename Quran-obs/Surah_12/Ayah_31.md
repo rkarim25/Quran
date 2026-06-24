@@ -1,8 +1,8 @@
 ---
-arabic_ayat: فَلَمَّا سَمِعَتۡ بِمَكۡرِهِنَّ اَرۡسَلَتۡ اِلَيۡهِنَّ وَاَعۡتَدَتۡ لَهُنَّ
-  مُتَّكَـاً وَّاٰتَتۡ كُلَّ وَاحِدَةٍ مِّنۡهُنَّ سِكِّيۡنًا وَّقَالَتِ اخۡرُجۡ عَلَيۡهِنَّ
-  ​ۚ فَلَمَّا رَاَيۡنَهٗۤ اَكۡبَرۡنَهٗ وَقَطَّعۡنَ اَيۡدِيَهُنَّ وَقُلۡنَ حَاشَ لِلّٰهِ
-  مَا هٰذَا بَشَرًا ؕ اِنۡ هٰذَاۤ اِلَّا مَلَكٌ كَرِيۡمٌ‏
+arabic_ayat: فَلَمَّا سَمِعَتۡ بِمَكۡرِهِنَّ أَرۡسَلَتۡ إِلَيۡهِنَّ وَأَعۡتَدَتۡ لَهُنَّ
+  مُتَّكَـٔٗا وَءَاتَتۡ كُلَّ وَٰحِدَةٖ مِّنۡهُنَّ سِكِّينٗا وَقَالَتِ ٱخۡرُجۡ عَلَيۡهِنَّۖ
+  فَلَمَّا رَأَيۡنَهُۥٓ أَكۡبَرۡنَهُۥ وَقَطَّعۡنَ أَيۡدِيَهُنَّ وَقُلۡنَ حَٰشَ لِلَّهِ
+  مَا هَٰذَا بَشَرًا إِنۡ هَٰذَآ إِلَّا مَلَكٞ كَرِيمٞ
 sentence_translation: When she heard about their gossip, she invited them and set
   a banquet for them. She gave each one a knife, then said ˹to Joseph˺, “Come out
   before them.” When they saw him, they were so stunned ˹by his beauty˺ that they
@@ -22,15 +22,15 @@ word_by_word:
     translation: of their scheming
     transliteration: bimakrihinna
   4:
-    arabic: اَرۡسَلَتۡ
+    arabic: أَرۡسَلَتۡ
     translation: she sent
     transliteration: arsalat
   5:
-    arabic: اِلَيۡهِنَّ
+    arabic: إِلَيۡهِنَّ
     translation: for them
     transliteration: ilayhinna
   6:
-    arabic: وَاَعۡتَدَتۡ
+    arabic: وَأَعۡتَدَتۡ
     translation: and she prepared
     transliteration: wa-aʿtadat
   7:
@@ -38,11 +38,11 @@ word_by_word:
     translation: for them
     transliteration: lahunna
   8:
-    arabic: مُتَّكَـاً
+    arabic: مُتَّكَـٔٗا
     translation: a banquet
     transliteration: muttaka-an
   9:
-    arabic: وَّاٰتَتۡ
+    arabic: وَءَاتَتۡ
     translation: and she gave
     transliteration: waātat
   10:
@@ -50,7 +50,7 @@ word_by_word:
     translation: each
     transliteration: kulla
   11:
-    arabic: وَاحِدَةٍ
+    arabic: وَٰحِدَةٖ
     translation: one
     transliteration: wāḥidatin
   12:
@@ -58,19 +58,19 @@ word_by_word:
     translation: of them
     transliteration: min'hunna
   13:
-    arabic: سِكِّيۡنًا
+    arabic: سِكِّينٗا
     translation: a knife
     transliteration: sikkīnan
   14:
-    arabic: وَّقَالَتِ
+    arabic: وَقَالَتِ
     translation: and she said
     transliteration: waqālati
   15:
-    arabic: اخۡرُجۡ
+    arabic: ٱخۡرُجۡ
     translation: Come out
     transliteration: ukh'ruj
   16:
-    arabic: عَلَيۡهِنَّ ​ۚ
+    arabic: عَلَيۡهِنَّۖ
     translation: before them
     transliteration: ʿalayhinna
   17:
@@ -78,11 +78,11 @@ word_by_word:
     translation: Then when
     transliteration: falammā
   18:
-    arabic: رَاَيۡنَهٗۤ
+    arabic: رَأَيۡنَهُۥٓ
     translation: they saw him
     transliteration: ra-aynahu
   19:
-    arabic: اَكۡبَرۡنَهٗ
+    arabic: أَكۡبَرۡنَهُۥ
     translation: they greatly admired him
     transliteration: akbarnahu
   20:
@@ -90,7 +90,7 @@ word_by_word:
     translation: and cut
     transliteration: waqaṭṭaʿna
   21:
-    arabic: اَيۡدِيَهُنَّ
+    arabic: أَيۡدِيَهُنَّ
     translation: their hands
     transliteration: aydiyahunna
   22:
@@ -98,11 +98,11 @@ word_by_word:
     translation: they said
     transliteration: waqul'na
   23:
-    arabic: حَاشَ
+    arabic: حَٰشَ
     translation: Forbid
     transliteration: ḥāsha
   24:
-    arabic: لِلّٰهِ
+    arabic: لِلَّهِ
     translation: Allah
     transliteration: lillahi
   25:
@@ -110,31 +110,31 @@ word_by_word:
     translation: not
     transliteration: mā
   26:
-    arabic: هٰذَا
+    arabic: هَٰذَا
     translation: (is) this
     transliteration: hādhā
   27:
-    arabic: بَشَرًا ؕ
+    arabic: بَشَرًا
     translation: a man
     transliteration: basharan
   28:
-    arabic: اِنۡ
+    arabic: إِنۡ
     translation: not
     transliteration: in
   29:
-    arabic: هٰذَاۤ
+    arabic: هَٰذَآ
     translation: (is) this
     transliteration: hādhā
   30:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: but
     transliteration: illā
   31:
-    arabic: مَلَكٌ
+    arabic: مَلَكٞ
     translation: an angel
     transliteration: malakun
   32:
-    arabic: كَرِيۡمٌ‏
+    arabic: كَرِيمٞ
     translation: noble
     transliteration: karīmun
 ---

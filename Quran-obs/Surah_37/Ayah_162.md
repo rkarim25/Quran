@@ -1,13 +1,13 @@
 ---
-arabic_ayat: مَاۤ اَنۡـتُمۡ عَلَيۡهِ بِفٰتِنِيۡنَۙ‏
+arabic_ayat: مَآ أَنتُمۡ عَلَيۡهِ بِفَٰتِنِينَ
 sentence_translation: can never lure ˹anyone˺ away from Him
 word_by_word:
   1:
-    arabic: مَاۤ
+    arabic: مَآ
     translation: Not
     transliteration: mā
   2:
-    arabic: اَنۡـتُمۡ
+    arabic: أَنتُمۡ
     translation: you
     transliteration: antum
   3:
@@ -15,7 +15,7 @@ word_by_word:
     translation: from Him
     transliteration: ʿalayhi
   4:
-    arabic: بِفٰتِنِيۡنَۙ‏
+    arabic: بِفَٰتِنِينَ
     translation: can tempt away (anyone)
     transliteration: bifātinīna
 ---

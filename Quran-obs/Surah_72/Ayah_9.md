@@ -1,11 +1,11 @@
 ---
-arabic_ayat: وَّاَنَّا كُنَّا نَقۡعُدُ مِنۡهَا مَقَاعِدَ لِلسَّمۡعِ​ ؕ فَمَنۡ يَّسۡتَمِعِ
-  الۡاٰنَ يَجِدۡ لَهٗ شِهَابًا رَّصَدًا ۙ‏
+arabic_ayat: وَأَنَّا كُنَّا نَقۡعُدُ مِنۡهَا مَقَٰعِدَ لِلسَّمۡعِۖ فَمَن يَسۡتَمِعِ
+  ٱلۡأٓنَ يَجِدۡ لَهُۥ شِهَابٗا رَّصَدٗا
 sentence_translation: We used to take up positions there for eavesdropping, but whoever
   dares eavesdrop now will find a flare lying in wait for them.
 word_by_word:
   1:
-    arabic: وَّاَنَّا
+    arabic: وَأَنَّا
     translation: And that we
     transliteration: wa-annā
   2:
@@ -21,23 +21,23 @@ word_by_word:
     translation: there in
     transliteration: min'hā
   5:
-    arabic: مَقَاعِدَ
+    arabic: مَقَٰعِدَ
     translation: positions
     transliteration: maqāʿida
   6:
-    arabic: لِلسَّمۡعِ​ ؕ
+    arabic: لِلسَّمۡعِۖ
     translation: for hearing
     transliteration: lilssamʿi
   7:
-    arabic: فَمَنۡ
+    arabic: فَمَن
     translation: but (he) who
     transliteration: faman
   8:
-    arabic: يَّسۡتَمِعِ
+    arabic: يَسۡتَمِعِ
     translation: listens
     transliteration: yastamiʿi
   9:
-    arabic: الۡاٰنَ
+    arabic: ٱلۡأٓنَ
     translation: now
     transliteration: l-āna
   10:
@@ -45,15 +45,15 @@ word_by_word:
     translation: will find
     transliteration: yajid
   11:
-    arabic: لَهٗ
+    arabic: لَهُۥ
     translation: for him
     transliteration: lahu
   12:
-    arabic: شِهَابًا
+    arabic: شِهَابٗا
     translation: a flaming fire
     transliteration: shihāban
   13:
-    arabic: رَّصَدًا ۙ‏
+    arabic: رَّصَدٗا
     translation: waiting
     transliteration: raṣadan
 ---

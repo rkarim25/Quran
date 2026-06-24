@@ -1,30 +1,30 @@
 ---
-arabic_ayat: فَاَمَّا عَادٌ فَاسۡتَكۡبَرُوۡا فِى الۡاَرۡضِ بِغَيۡرِ الۡحَقِّ وَقَالُوۡا
-  مَنۡ اَشَدُّ مِنَّا قُوَّةً  ​ؕ اَوَلَمۡ يَرَوۡا اَنَّ اللّٰهَ الَّذِىۡ خَلَقَهُمۡ
-  هُوَ اَشَدُّ مِنۡهُمۡ قُوَّةً  ؕ وَكَانُوۡا بِاٰيٰتِنَا يَجۡحَدُوۡنَ‏
+arabic_ayat: فَأَمَّا عَادٞ فَٱسۡتَكۡبَرُواْ فِي ٱلۡأَرۡضِ بِغَيۡرِ ٱلۡحَقِّ وَقَالُواْ
+  مَنۡ أَشَدُّ مِنَّا قُوَّةًۖ أَوَلَمۡ يَرَوۡاْ أَنَّ ٱللَّهَ ٱلَّذِي خَلَقَهُمۡ
+  هُوَ أَشَدُّ مِنۡهُمۡ قُوَّةٗۖ وَكَانُواْ بِـَٔايَٰتِنَا يَجۡحَدُونَ
 sentence_translation: As for ’Ȃd, they acted arrogantly throughout the land with no
   right, boasting, “Who is superior to us in might?” Did they not see that Allah ˹Himself˺,
   Who created them, was far superior to them in might? Still they persisted in denying
   Our signs.
 word_by_word:
   1:
-    arabic: فَاَمَّا
+    arabic: فَأَمَّا
     translation: Then as for
     transliteration: fa-ammā
   2:
-    arabic: عَادٌ
+    arabic: عَادٞ
     translation: Aad
     transliteration: ʿādun
   3:
-    arabic: فَاسۡتَكۡبَرُوۡا
+    arabic: فَٱسۡتَكۡبَرُواْ
     translation: they were arrogant
     transliteration: fa-is'takbarū
   4:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   5:
-    arabic: الۡاَرۡضِ
+    arabic: ٱلۡأَرۡضِ
     translation: the land
     transliteration: l-arḍi
   6:
@@ -32,11 +32,11 @@ word_by_word:
     translation: without
     transliteration: bighayri
   7:
-    arabic: الۡحَقِّ
+    arabic: ٱلۡحَقِّ
     translation: '[the] right'
     transliteration: l-ḥaqi
   8:
-    arabic: وَقَالُوۡا
+    arabic: وَقَالُواْ
     translation: and they said
     transliteration: waqālū
   9:
@@ -44,7 +44,7 @@ word_by_word:
     translation: Who
     transliteration: man
   10:
-    arabic: اَشَدُّ
+    arabic: أَشَدُّ
     translation: (is) mightier
     transliteration: ashaddu
   11:
@@ -52,27 +52,27 @@ word_by_word:
     translation: than us
     transliteration: minnā
   12:
-    arabic: قُوَّةً  ​ؕ
+    arabic: قُوَّةًۖ
     translation: (in) strength
     transliteration: quwwatan
   13:
-    arabic: اَوَلَمۡ
+    arabic: أَوَلَمۡ
     translation: Do not
     transliteration: awalam
   14:
-    arabic: يَرَوۡا
+    arabic: يَرَوۡاْ
     translation: they see
     transliteration: yaraw
   15:
-    arabic: اَنَّ
+    arabic: أَنَّ
     translation: that
     transliteration: anna
   16:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   17:
-    arabic: الَّذِىۡ
+    arabic: ٱلَّذِي
     translation: the One Who
     transliteration: alladhī
   18:
@@ -84,7 +84,7 @@ word_by_word:
     translation: He
     transliteration: huwa
   20:
-    arabic: اَشَدُّ
+    arabic: أَشَدُّ
     translation: (is) Mightier
     transliteration: ashaddu
   21:
@@ -92,19 +92,19 @@ word_by_word:
     translation: than them
     transliteration: min'hum
   22:
-    arabic: قُوَّةً  ؕ
+    arabic: قُوَّةٗۖ
     translation: (in) strength
     transliteration: quwwatan
   23:
-    arabic: وَكَانُوۡا
+    arabic: وَكَانُواْ
     translation: But they used to
     transliteration: wakānū
   24:
-    arabic: بِاٰيٰتِنَا
+    arabic: بِـَٔايَٰتِنَا
     translation: in Our Signs
     transliteration: biāyātinā
   25:
-    arabic: يَجۡحَدُوۡنَ‏
+    arabic: يَجۡحَدُونَ
     translation: deny
     transliteration: yajḥadūna
 ---

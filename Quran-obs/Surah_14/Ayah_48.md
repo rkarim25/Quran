@@ -1,6 +1,6 @@
 ---
-arabic_ayat: يَوۡمَ تُبَدَّلُ الۡاَرۡضُ غَيۡرَ الۡاَرۡضِ وَالسَّمٰوٰتُ​ وَبَرَزُوۡا
-  لِلّٰهِ الۡوَاحِدِ الۡقَهَّارِ‏
+arabic_ayat: يَوۡمَ تُبَدَّلُ ٱلۡأَرۡضُ غَيۡرَ ٱلۡأَرۡضِ وَٱلسَّمَٰوَٰتُۖ وَبَرَزُواْ
+  لِلَّهِ ٱلۡوَٰحِدِ ٱلۡقَهَّارِ
 sentence_translation: ˹Watch for˺ the Day ˹when˺ the earth will be changed into a
   different earth and the heavens as well, and all will appear before Allah—the One,
   the Supreme.
@@ -14,7 +14,7 @@ word_by_word:
     translation: will be changed
     transliteration: tubaddalu
   3:
-    arabic: الۡاَرۡضُ
+    arabic: ٱلۡأَرۡضُ
     translation: the earth
     transliteration: l-arḍu
   4:
@@ -22,27 +22,27 @@ word_by_word:
     translation: (to) other (than)
     transliteration: ghayra
   5:
-    arabic: الۡاَرۡضِ
+    arabic: ٱلۡأَرۡضِ
     translation: the earth
     transliteration: l-arḍi
   6:
-    arabic: وَالسَّمٰوٰتُ​
+    arabic: وَٱلسَّمَٰوَٰتُۖ
     translation: and the heavens
     transliteration: wal-samāwātu
   7:
-    arabic: وَبَرَزُوۡا
+    arabic: وَبَرَزُواْ
     translation: and they will come forth
     transliteration: wabarazū
   8:
-    arabic: لِلّٰهِ
+    arabic: لِلَّهِ
     translation: before Allah
     transliteration: lillahi
   9:
-    arabic: الۡوَاحِدِ
+    arabic: ٱلۡوَٰحِدِ
     translation: the One
     transliteration: l-wāḥidi
   10:
-    arabic: الۡقَهَّارِ‏
+    arabic: ٱلۡقَهَّارِ
     translation: the Irresistible
     transliteration: l-qahāri
 ---

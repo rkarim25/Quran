@@ -1,7 +1,7 @@
 ---
-arabic_ayat: وَهُوَ الَّذِىۡ خَلَقَ السَّمٰوٰتِ وَالۡاَرۡضَ بِالۡحَـقِّ​ؕ وَيَوۡمَ
-  يَقُوۡلُ كُنۡ فَيَكُوۡنُؕ  قَوۡلُهُ الۡحَـقُّ​ ؕ وَلَهُ الۡمُلۡكُ يَوۡمَ يُنۡفَخُ
-  فِى الصُّوۡرِ​ ؕ عٰلِمُ الۡغَيۡبِ وَ الشَّهَادَةِ​ ؕ وَهُوَ الۡحَكِيۡمُ الۡخَبِيۡرُ‏
+arabic_ayat: وَهُوَ ٱلَّذِي خَلَقَ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضَ بِٱلۡحَقِّۖ وَيَوۡمَ
+  يَقُولُ كُن فَيَكُونُۚ قَوۡلُهُ ٱلۡحَقُّۚ وَلَهُ ٱلۡمُلۡكُ يَوۡمَ يُنفَخُ فِي ٱلصُّورِۚ
+  عَٰلِمُ ٱلۡغَيۡبِ وَٱلشَّهَٰدَةِۚ وَهُوَ ٱلۡحَكِيمُ ٱلۡخَبِيرُ
 sentence_translation: He is the One Who created the heavens and the earth in truth.
   On the Day ˹of Judgment˺ He will say, ‘Be!’ And there will be! His command is truth.
   All authority is His ˹alone˺ on the Day the Trumpet will be blown. He is the Knower
@@ -12,7 +12,7 @@ word_by_word:
     translation: And (it is) He
     transliteration: wahuwa
   2:
-    arabic: الَّذِىۡ
+    arabic: ٱلَّذِي
     translation: Who
     transliteration: alladhī
   3:
@@ -20,15 +20,15 @@ word_by_word:
     translation: created
     transliteration: khalaqa
   4:
-    arabic: السَّمٰوٰتِ
+    arabic: ٱلسَّمَٰوَٰتِ
     translation: the heavens
     transliteration: l-samāwāti
   5:
-    arabic: وَالۡاَرۡضَ
+    arabic: وَٱلۡأَرۡضَ
     translation: and the earth
     transliteration: wal-arḍa
   6:
-    arabic: بِالۡحَـقِّ​ؕ
+    arabic: بِٱلۡحَقِّۖ
     translation: in truth
     transliteration: bil-ḥaqi
   7:
@@ -36,15 +36,15 @@ word_by_word:
     translation: And (the) Day
     transliteration: wayawma
   8:
-    arabic: يَقُوۡلُ
+    arabic: يَقُولُ
     translation: He says
     transliteration: yaqūlu
   9:
-    arabic: كُنۡ
+    arabic: كُن
     translation: Be
     transliteration: kun
   10:
-    arabic: فَيَكُوۡنُؕ  
+    arabic: فَيَكُونُۚ
     translation: and it is
     transliteration: fayakūnu
   11:
@@ -52,7 +52,7 @@ word_by_word:
     translation: His word
     transliteration: qawluhu
   12:
-    arabic: الۡحَـقُّ​ ؕ
+    arabic: ٱلۡحَقُّۚ
     translation: (is) the truth
     transliteration: l-ḥaqu
   13:
@@ -60,7 +60,7 @@ word_by_word:
     translation: And for Him
     transliteration: walahu
   14:
-    arabic: الۡمُلۡكُ
+    arabic: ٱلۡمُلۡكُ
     translation: (is) the Dominion
     transliteration: l-mul'ku
   15:
@@ -68,27 +68,27 @@ word_by_word:
     translation: (on the) Day
     transliteration: yawma
   16:
-    arabic: يُنۡفَخُ
+    arabic: يُنفَخُ
     translation: will be blown
     transliteration: yunfakhu
   17:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   18:
-    arabic: الصُّوۡرِ​ ؕ
+    arabic: ٱلصُّورِۚ
     translation: the trumpet
     transliteration: l-ṣūri
   19:
-    arabic: عٰلِمُ
+    arabic: عَٰلِمُ
     translation: (He is) All-Knower
     transliteration: ʿālimu
   20:
-    arabic: الۡغَيۡبِ
+    arabic: ٱلۡغَيۡبِ
     translation: (of) the unseen
     transliteration: l-ghaybi
   21:
-    arabic: وَ الشَّهَادَةِ​ ؕ
+    arabic: وَٱلشَّهَٰدَةِۚ
     translation: and the seen
     transliteration: wal-shahādati
   22:
@@ -96,11 +96,11 @@ word_by_word:
     translation: And He
     transliteration: wahuwa
   23:
-    arabic: الۡحَكِيۡمُ
+    arabic: ٱلۡحَكِيمُ
     translation: (is) the All-Wise
     transliteration: l-ḥakīmu
   24:
-    arabic: الۡخَبِيۡرُ‏
+    arabic: ٱلۡخَبِيرُ
     translation: the All-Aware
     transliteration: l-khabīru
 ---

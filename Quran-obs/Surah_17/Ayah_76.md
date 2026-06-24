@@ -1,20 +1,20 @@
 ---
-arabic_ayat: وَاِنۡ كَادُوۡا لَيَسۡتَفِزُّوۡنَكَ مِنَ الۡاَرۡضِ لِيُخۡرِجُوۡكَ مِنۡهَا​
-  وَاِذًا لَّا يَلۡبَـثُوۡنَ خِلٰفَكَ اِلَّا قَلِيۡلًا‏
+arabic_ayat: وَإِن كَادُواْ لَيَسۡتَفِزُّونَكَ مِنَ ٱلۡأَرۡضِ لِيُخۡرِجُوكَ مِنۡهَاۖ
+  وَإِذٗا لَّا يَلۡبَثُونَ خِلَٰفَكَ إِلَّا قَلِيلٗا
 sentence_translation: They were about to intimidate you to drive you out of the land
   ˹of Mecca˺, but then they would not have survived after you ˹had left˺ except for
   a little while.
 word_by_word:
   1:
-    arabic: وَاِنۡ
+    arabic: وَإِن
     translation: And indeed
     transliteration: wa-in
   2:
-    arabic: كَادُوۡا
+    arabic: كَادُواْ
     translation: they were about
     transliteration: kādū
   3:
-    arabic: لَيَسۡتَفِزُّوۡنَكَ
+    arabic: لَيَسۡتَفِزُّونَكَ
     translation: (to) scare you
     transliteration: layastafizzūnaka
   4:
@@ -22,19 +22,19 @@ word_by_word:
     translation: from
     transliteration: mina
   5:
-    arabic: الۡاَرۡضِ
+    arabic: ٱلۡأَرۡضِ
     translation: the land
     transliteration: l-arḍi
   6:
-    arabic: لِيُخۡرِجُوۡكَ
+    arabic: لِيُخۡرِجُوكَ
     translation: that they evict you
     transliteration: liyukh'rijūka
   7:
-    arabic: مِنۡهَا​
+    arabic: مِنۡهَاۖ
     translation: from it
     transliteration: min'hā
   8:
-    arabic: وَاِذًا
+    arabic: وَإِذٗا
     translation: But then
     transliteration: wa-idhan
   9:
@@ -42,19 +42,19 @@ word_by_word:
     translation: not
     transliteration: lā
   10:
-    arabic: يَلۡبَـثُوۡنَ
+    arabic: يَلۡبَثُونَ
     translation: they (would) have stayed
     transliteration: yalbathūna
   11:
-    arabic: خِلٰفَكَ
+    arabic: خِلَٰفَكَ
     translation: after you
     transliteration: khilāfaka
   12:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   13:
-    arabic: قَلِيۡلًا‏
+    arabic: قَلِيلٗا
     translation: a little
     transliteration: qalīlan
 ---

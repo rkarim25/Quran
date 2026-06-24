@@ -1,6 +1,6 @@
 ---
-arabic_ayat: وَجَعَلۡنَا ابۡنَ مَرۡيَمَ وَاُمَّهٗۤ اٰيَةً وَّاٰوَيۡنٰهُمَاۤ اِلٰى
-  رَبۡوَةٍ ذَاتِ قَرَارٍ وَّمَعِيۡنٍ‏
+arabic_ayat: وَجَعَلۡنَا ٱبۡنَ مَرۡيَمَ وَأُمَّهُۥٓ ءَايَةٗ وَءَاوَيۡنَٰهُمَآ إِلَىٰ
+  رَبۡوَةٖ ذَاتِ قَرَارٖ وَمَعِينٖ
 sentence_translation: And We made the son of Mary and his mother a sign, and gave
   them refuge on high ground—a ˹suitable˺ place for rest with flowing water.
 word_by_word:
@@ -9,7 +9,7 @@ word_by_word:
     translation: And We made
     transliteration: wajaʿalnā
   2:
-    arabic: ابۡنَ
+    arabic: ٱبۡنَ
     translation: (the) son
     transliteration: ib'na
   3:
@@ -17,23 +17,23 @@ word_by_word:
     translation: (of) Maryam
     transliteration: maryama
   4:
-    arabic: وَاُمَّهٗۤ
+    arabic: وَأُمَّهُۥٓ ءَ
     translation: and his mother
     transliteration: wa-ummahu
   5:
-    arabic: اٰيَةً
+    arabic: ايَةٗ
     translation: a Sign
     transliteration: āyatan
   6:
-    arabic: وَّاٰوَيۡنٰهُمَاۤ
+    arabic: وَءَاوَيۡنَٰهُمَآ
     translation: and We sheltered them
     transliteration: waāwaynāhumā
   7:
-    arabic: اِلٰى
+    arabic: إِلَىٰ
     translation: to
     transliteration: ilā
   8:
-    arabic: رَبۡوَةٍ
+    arabic: رَبۡوَةٖ
     translation: a high ground
     transliteration: rabwatin
   9:
@@ -41,11 +41,11 @@ word_by_word:
     translation: of tranquility
     transliteration: dhāti
   10:
-    arabic: قَرَارٍ
+    arabic: قَرَارٖ
     translation: of tranquility
     transliteration: qarārin
   11:
-    arabic: وَّمَعِيۡنٍ‏
+    arabic: وَمَعِينٖ
     translation: and water springs
     transliteration: wamaʿīnin
 ---

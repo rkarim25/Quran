@@ -1,6 +1,6 @@
 ---
-arabic_ayat: فَلَا تَضۡرِبُوۡا لِلّٰهِ الۡاَمۡثَالَ​ؕ اِنَّ اللّٰهَ يَعۡلَمُ وَاَنۡـتُمۡ
-  لَا تَعۡلَمُوۡنَ‏
+arabic_ayat: فَلَا تَضۡرِبُواْ لِلَّهِ ٱلۡأَمۡثَالَۚ إِنَّ ٱللَّهَ يَعۡلَمُ وَأَنتُمۡ
+  لَا تَعۡلَمُونَ
 sentence_translation: So do not set up equals to Allah, for Allah certainly knows
   and you do not know.
 word_by_word:
@@ -9,23 +9,23 @@ word_by_word:
     translation: So (do) not
     transliteration: falā
   2:
-    arabic: تَضۡرِبُوۡا
+    arabic: تَضۡرِبُواْ
     translation: put forth
     transliteration: taḍribū
   3:
-    arabic: لِلّٰهِ
+    arabic: لِلَّهِ
     translation: for Allah
     transliteration: lillahi
   4:
-    arabic: الۡاَمۡثَالَ​ؕ
+    arabic: ٱلۡأَمۡثَالَۚ
     translation: the similitude
     transliteration: l-amthāla
   5:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   6:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   7:
@@ -33,7 +33,7 @@ word_by_word:
     translation: knows
     transliteration: yaʿlamu
   8:
-    arabic: وَاَنۡـتُمۡ
+    arabic: وَأَنتُمۡ
     translation: and you
     transliteration: wa-antum
   9:
@@ -41,7 +41,7 @@ word_by_word:
     translation: (do) not
     transliteration: lā
   10:
-    arabic: تَعۡلَمُوۡنَ‏
+    arabic: تَعۡلَمُونَ
     translation: know
     transliteration: taʿlamūna
 ---

@@ -1,11 +1,11 @@
 ---
-arabic_ayat: اِنَّا مَكَّنَّا لَهٗ فِى الۡاَرۡضِ وَاٰتَيۡنٰهُ مِنۡ كُلِّ شَىۡءٍ سَبَبًا
-  ۙ‏
+arabic_ayat: إِنَّا مَكَّنَّا لَهُۥ فِي ٱلۡأَرۡضِ وَءَاتَيۡنَٰهُ مِن كُلِّ شَيۡءٖ
+  سَبَبٗا
 sentence_translation: Surely We established him in the land, and gave him the means
   to all things.
 word_by_word:
   1:
-    arabic: اِنَّا
+    arabic: إِنَّا
     translation: Indeed, We
     transliteration: innā
   2:
@@ -13,23 +13,23 @@ word_by_word:
     translation: '[We] established'
     transliteration: makkannā
   3:
-    arabic: لَهٗ
+    arabic: لَهُۥ
     translation: '[for] him'
     transliteration: lahu
   4:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   5:
-    arabic: الۡاَرۡضِ
+    arabic: ٱلۡأَرۡضِ
     translation: the earth
     transliteration: l-arḍi
   6:
-    arabic: وَاٰتَيۡنٰهُ
+    arabic: وَءَاتَيۡنَٰهُ
     translation: and We gave him
     transliteration: waātaynāhu
   7:
-    arabic: مِنۡ
+    arabic: مِن
     translation: of
     transliteration: min
   8:
@@ -37,11 +37,11 @@ word_by_word:
     translation: every
     transliteration: kulli
   9:
-    arabic: شَىۡءٍ
+    arabic: شَيۡءٖ
     translation: thing
     transliteration: shayin
   10:
-    arabic: سَبَبًا ۙ‏
+    arabic: سَبَبٗا
     translation: a means
     transliteration: sababan
 ---

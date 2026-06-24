@@ -1,16 +1,16 @@
 ---
-arabic_ayat: فَالۡتَقَطَهٗۤ اٰلُ فِرۡعَوۡنَ لِيَكُوۡنَ لَهُمۡ عَدُوًّا وَّحَزَنًا
-  ​ ؕ اِنَّ فِرۡعَوۡنَ وَهَامٰنَ وَجُنُوۡدَهُمَا كَانُوۡا خٰطِـــِٕيۡنَ‏
+arabic_ayat: فَٱلۡتَقَطَهُۥٓ ءَالُ فِرۡعَوۡنَ لِيَكُونَ لَهُمۡ عَدُوّٗا وَحَزَنًاۗ
+  إِنَّ فِرۡعَوۡنَ وَهَٰمَٰنَ وَجُنُودَهُمَا كَانُواْ خَٰطِـِٔينَ
 sentence_translation: And ˹it so happened that˺ Pharaoh’s people picked him up, only
   to become their enemy and source of grief. Surely Pharaoh, Hamân, and their soldiers
   were sinful.
 word_by_word:
   1:
-    arabic: فَالۡتَقَطَهٗۤ
+    arabic: فَٱلۡتَقَطَهُۥٓ ءَ
     translation: Then picked him up
     transliteration: fal-taqaṭahu
   2:
-    arabic: اٰلُ
+    arabic: الُ
     translation: (the) family
     transliteration: ālu
   3:
@@ -18,7 +18,7 @@ word_by_word:
     translation: (of) Firaun
     transliteration: fir'ʿawna
   4:
-    arabic: لِيَكُوۡنَ
+    arabic: لِيَكُونَ
     translation: so that he might become
     transliteration: liyakūna
   5:
@@ -26,15 +26,15 @@ word_by_word:
     translation: to them
     transliteration: lahum
   6:
-    arabic: عَدُوًّا
+    arabic: عَدُوّٗا
     translation: an enemy
     transliteration: ʿaduwwan
   7:
-    arabic: وَّحَزَنًا ​ ؕ
+    arabic: وَحَزَنًاۗ
     translation: and a grief
     transliteration: waḥazanan
   8:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   9:
@@ -42,19 +42,19 @@ word_by_word:
     translation: Firaun
     transliteration: fir'ʿawna
   10:
-    arabic: وَهَامٰنَ
+    arabic: وَهَٰمَٰنَ
     translation: and Haman
     transliteration: wahāmāna
   11:
-    arabic: وَجُنُوۡدَهُمَا
+    arabic: وَجُنُودَهُمَا
     translation: and their hosts
     transliteration: wajunūdahumā
   12:
-    arabic: كَانُوۡا
+    arabic: كَانُواْ
     translation: were
     transliteration: kānū
   13:
-    arabic: خٰطِـــِٕيۡنَ‏
+    arabic: خَٰطِـِٔينَ
     translation: sinners
     transliteration: khāṭiīna
 ---

@@ -1,22 +1,22 @@
 ---
-arabic_ayat: اَفَلَا يَنۡظُرُوۡنَ اِلَى الۡاِ بِلِ كَيۡفَ خُلِقَتۡ‏
+arabic_ayat: أَفَلَا يَنظُرُونَ إِلَى ٱلۡإِبِلِ كَيۡفَ خُلِقَتۡ
 sentence_translation: Do they not ever reflect on camels—how they were ˹masterfully˺
   created;
 word_by_word:
   1:
-    arabic: اَفَلَا
+    arabic: أَفَلَا
     translation: Then do not
     transliteration: afalā
   2:
-    arabic: يَنۡظُرُوۡنَ
+    arabic: يَنظُرُونَ
     translation: they look
     transliteration: yanẓurūna
   3:
-    arabic: اِلَى
+    arabic: إِلَى
     translation: towards
     transliteration: ilā
   4:
-    arabic: الۡاِ بِلِ
+    arabic: ٱلۡإِبِلِ
     translation: the camels
     transliteration: l-ibili
   5:
@@ -24,7 +24,7 @@ word_by_word:
     translation: how
     transliteration: kayfa
   6:
-    arabic: خُلِقَتۡ‏
+    arabic: خُلِقَتۡ
     translation: they are created
     transliteration: khuliqat
 ---

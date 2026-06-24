@@ -1,6 +1,6 @@
 ---
-arabic_ayat: قَالَ يٰقَوۡمِ اَرَهۡطِىۡۤ اَعَزُّ عَلَيۡكُمۡ مِّنَ اللّٰهِ ؕ وَ اتَّخَذۡتُمُوۡهُ
-  وَرَآءَكُمۡ ظِهۡرِيًّا​ ؕ اِنَّ رَبِّىۡ بِمَا تَعۡمَلُوۡنَ مُحِيۡطٌ‏
+arabic_ayat: قَالَ يَٰقَوۡمِ أَرَهۡطِيٓ أَعَزُّ عَلَيۡكُم مِّنَ ٱللَّهِ وَٱتَّخَذۡتُمُوهُ
+  وَرَآءَكُمۡ ظِهۡرِيًّاۖ إِنَّ رَبِّي بِمَا تَعۡمَلُونَ مُحِيطٞ
 sentence_translation: He said, “O my people! Do you have more regard for my clan than
   for Allah, turning your back on Him entirely? Surely my Lord is Fully Aware of what
   you do.
@@ -10,19 +10,19 @@ word_by_word:
     translation: He said
     transliteration: qāla
   2:
-    arabic: يٰقَوۡمِ
+    arabic: يَٰقَوۡمِ
     translation: O my people
     transliteration: yāqawmi
   3:
-    arabic: اَرَهۡطِىۡۤ
+    arabic: أَرَهۡطِيٓ
     translation: Is my family
     transliteration: arahṭī
   4:
-    arabic: اَعَزُّ
+    arabic: أَعَزُّ
     translation: mightier
     transliteration: aʿazzu
   5:
-    arabic: عَلَيۡكُمۡ
+    arabic: عَلَيۡكُم
     translation: on you
     transliteration: ʿalaykum
   6:
@@ -30,11 +30,11 @@ word_by_word:
     translation: than
     transliteration: mina
   7:
-    arabic: اللّٰهِ ؕ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   8:
-    arabic: وَ اتَّخَذۡتُمُوۡهُ
+    arabic: وَٱتَّخَذۡتُمُوهُ
     translation: And you have taken Him
     transliteration: wa-ittakhadhtumūhu
   9:
@@ -42,15 +42,15 @@ word_by_word:
     translation: behind your
     transliteration: warāakum
   10:
-    arabic: ظِهۡرِيًّا​ ؕ
+    arabic: ظِهۡرِيًّاۖ
     translation: backs
     transliteration: ẓih'riyyan
   11:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   12:
-    arabic: رَبِّىۡ
+    arabic: رَبِّي
     translation: my Lord
     transliteration: rabbī
   13:
@@ -58,11 +58,11 @@ word_by_word:
     translation: of what
     transliteration: bimā
   14:
-    arabic: تَعۡمَلُوۡنَ
+    arabic: تَعۡمَلُونَ
     translation: you do
     transliteration: taʿmalūna
   15:
-    arabic: مُحِيۡطٌ‏
+    arabic: مُحِيطٞ
     translation: (is) All-Encompassing
     transliteration: muḥīṭun
 ---

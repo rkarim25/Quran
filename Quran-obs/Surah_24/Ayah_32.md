@@ -1,25 +1,24 @@
 ---
-arabic_ayat: وَاَنۡكِحُوا الۡاَيَامٰى مِنۡكُمۡ وَالصّٰلِحِيۡنَ مِنۡ عِبَادِكُمۡ وَاِمَآٮِٕكُمۡ​
-  ؕ اِنۡ يَّكُوۡنُوۡا فُقَرَآءَ يُغۡنِهِمُ اللّٰهُ مِنۡ فَضۡلِهٖ​ ؕ وَاللّٰهُ وَاسِعٌ
-  عَلِيۡمٌ‏
+arabic_ayat: وَأَنكِحُواْ ٱلۡأَيَٰمَىٰ مِنكُمۡ وَٱلصَّٰلِحِينَ مِنۡ عِبَادِكُمۡ وَإِمَآئِكُمۡۚ
+  إِن يَكُونُواْ فُقَرَآءَ يُغۡنِهِمُ ٱللَّهُ مِن فَضۡلِهِۦۗ وَٱللَّهُ وَٰسِعٌ عَلِيمٞ
 sentence_translation: Marry off the ˹free˺ singles among you, as well as the righteous
   of your bondmen and bondwomen. If they are poor, Allah will enrich them out of His
   bounty. For Allah is All-Bountiful, All-Knowing.
 word_by_word:
   1:
-    arabic: وَاَنۡكِحُوا
+    arabic: وَأَنكِحُواْ
     translation: And marry
     transliteration: wa-ankiḥū
   2:
-    arabic: الۡاَيَامٰى
+    arabic: ٱلۡأَيَٰمَىٰ
     translation: the single
     transliteration: l-ayāmā
   3:
-    arabic: مِنۡكُمۡ
+    arabic: مِنكُمۡ
     translation: among you
     transliteration: minkum
   4:
-    arabic: وَالصّٰلِحِيۡنَ
+    arabic: وَٱلصَّٰلِحِينَ
     translation: and the righteous
     transliteration: wal-ṣāliḥīna
   5:
@@ -31,15 +30,15 @@ word_by_word:
     translation: your male slaves
     transliteration: ʿibādikum
   7:
-    arabic: وَاِمَآٮِٕكُمۡ​ ؕ
+    arabic: وَإِمَآئِكُمۡۚ
     translation: and your female slaves
     transliteration: wa-imāikum
   8:
-    arabic: اِنۡ
+    arabic: إِن
     translation: If
     transliteration: in
   9:
-    arabic: يَّكُوۡنُوۡا
+    arabic: يَكُونُواْ
     translation: they are
     transliteration: yakūnū
   10:
@@ -51,27 +50,27 @@ word_by_word:
     translation: Allah will enrich them
     transliteration: yugh'nihimu
   12:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah will enrich them
     transliteration: l-lahu
   13:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   14:
-    arabic: فَضۡلِهٖ​ ؕ
+    arabic: فَضۡلِهِۦۗ
     translation: His Bounty
     transliteration: faḍlihi
   15:
-    arabic: وَاللّٰهُ
+    arabic: وَٱللَّهُ
     translation: And Allah
     transliteration: wal-lahu
   16:
-    arabic: وَاسِعٌ
+    arabic: وَٰسِعٌ
     translation: (is) All-Encompassing
     transliteration: wāsiʿun
   17:
-    arabic: عَلِيۡمٌ‏
+    arabic: عَلِيمٞ
     translation: All-Knowing
     transliteration: ʿalīmun
 ---

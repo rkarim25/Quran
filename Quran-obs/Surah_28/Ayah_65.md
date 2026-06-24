@@ -1,5 +1,5 @@
 ---
-arabic_ayat: وَيَوۡمَ يُنَادِيۡهِمۡ فَيَـقُوۡلُ مَاذَاۤ اَجَبۡتُمُ الۡمُرۡسَلِيۡنَ‏
+arabic_ayat: وَيَوۡمَ يُنَادِيهِمۡ فَيَقُولُ مَاذَآ أَجَبۡتُمُ ٱلۡمُرۡسَلِينَ
 sentence_translation: And ˹watch for˺ the Day He will call to them, asking, “What
   response did you give to the messengers?”
 word_by_word:
@@ -8,23 +8,23 @@ word_by_word:
     translation: And (the) Day
     transliteration: wayawma
   2:
-    arabic: يُنَادِيۡهِمۡ
+    arabic: يُنَادِيهِمۡ
     translation: He will call them
     transliteration: yunādīhim
   3:
-    arabic: فَيَـقُوۡلُ
+    arabic: فَيَقُولُ
     translation: and say
     transliteration: fayaqūlu
   4:
-    arabic: مَاذَاۤ
+    arabic: مَاذَآ
     translation: What
     transliteration: mādhā
   5:
-    arabic: اَجَبۡتُمُ
+    arabic: أَجَبۡتُمُ
     translation: did you answer
     transliteration: ajabtumu
   6:
-    arabic: الۡمُرۡسَلِيۡنَ‏
+    arabic: ٱلۡمُرۡسَلِينَ
     translation: the Messengers
     transliteration: l-mur'salīna
 ---

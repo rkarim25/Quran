@@ -1,38 +1,38 @@
 ---
-arabic_ayat: وَاِذَا غَشِيَهُمۡ مَّوۡجٌ كَالظُّلَلِ دَعَوُا اللّٰهَ مُخۡلِصِيۡنَ لَهُ
-  الدِّيۡنَ ۙ فَلَمَّا نَجّٰٮهُمۡ اِلَى الۡبَـرِّ فَمِنۡهُمۡ مُّقۡتَصِدٌ ​ؕ وَمَا
-  يَجۡحَدُ بِاٰيٰتِنَاۤ اِلَّا كُلُّ خَتَّارٍ كَفُوۡرٍ‏
+arabic_ayat: وَإِذَا غَشِيَهُم مَّوۡجٞ كَٱلظُّلَلِ دَعَوُاْ ٱللَّهَ مُخۡلِصِينَ لَهُ
+  ٱلدِّينَ فَلَمَّا نَجَّىٰهُمۡ إِلَى ٱلۡبَرِّ فَمِنۡهُم مُّقۡتَصِدٞۚ وَمَا يَجۡحَدُ
+  بِـَٔايَٰتِنَآ إِلَّا كُلُّ خَتَّارٖ كَفُورٖ
 sentence_translation: And as soon as they are overwhelmed by waves like mountains,
   they cry out to Allah ˹alone˺ in sincere devotion. But when He delivers them ˹safely˺
   to shore, only some become relatively grateful. And none rejects Our signs except
   whoever is deceitful, ungrateful.
 word_by_word:
   1:
-    arabic: وَاِذَا
+    arabic: وَإِذَا
     translation: And when
     transliteration: wa-idhā
   2:
-    arabic: غَشِيَهُمۡ
+    arabic: غَشِيَهُم
     translation: covers them
     transliteration: ghashiyahum
   3:
-    arabic: مَّوۡجٌ
+    arabic: مَّوۡجٞ
     translation: a wave
     transliteration: mawjun
   4:
-    arabic: كَالظُّلَلِ
+    arabic: كَٱلظُّلَلِ
     translation: like canopies
     transliteration: kal-ẓulali
   5:
-    arabic: دَعَوُا
+    arabic: دَعَوُاْ
     translation: they call
     transliteration: daʿawū
   6:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   7:
-    arabic: مُخۡلِصِيۡنَ
+    arabic: مُخۡلِصِينَ
     translation: (being) sincere
     transliteration: mukh'liṣīna
   8:
@@ -40,7 +40,7 @@ word_by_word:
     translation: to Him
     transliteration: lahu
   9:
-    arabic: الدِّيۡنَ ۙ
+    arabic: ٱلدِّينَ
     translation: (in) religion
     transliteration: l-dīna
   10:
@@ -48,23 +48,23 @@ word_by_word:
     translation: But when
     transliteration: falammā
   11:
-    arabic: نَجّٰٮهُمۡ
+    arabic: نَجَّىٰهُمۡ
     translation: He delivers them
     transliteration: najjāhum
   12:
-    arabic: اِلَى
+    arabic: إِلَى
     translation: to
     transliteration: ilā
   13:
-    arabic: الۡبَـرِّ
+    arabic: ٱلۡبَرِّ
     translation: the land
     transliteration: l-bari
   14:
-    arabic: فَمِنۡهُمۡ
+    arabic: فَمِنۡهُم
     translation: then among them
     transliteration: famin'hum
   15:
-    arabic: مُّقۡتَصِدٌ ​ؕ
+    arabic: مُّقۡتَصِدٞۚ
     translation: (some are) moderate
     transliteration: muq'taṣidun
   16:
@@ -76,11 +76,11 @@ word_by_word:
     translation: deny
     transliteration: yajḥadu
   18:
-    arabic: بِاٰيٰتِنَاۤ
+    arabic: بِـَٔايَٰتِنَآ
     translation: Our Signs
     transliteration: biāyātinā
   19:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   20:
@@ -88,11 +88,11 @@ word_by_word:
     translation: every
     transliteration: kullu
   21:
-    arabic: خَتَّارٍ
+    arabic: خَتَّارٖ
     translation: traitor
     transliteration: khattārin
   22:
-    arabic: كَفُوۡرٍ‏
+    arabic: كَفُورٖ
     translation: ungrateful
     transliteration: kafūrin
 ---

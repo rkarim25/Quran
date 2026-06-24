@@ -1,7 +1,7 @@
 ---
-arabic_ayat: هُوَ اللّٰهُ الَّذِىۡ لَاۤ اِلٰهَ اِلَّا هُوَ​ۚ اَلۡمَلِكُ الۡقُدُّوۡسُ
-  السَّلٰمُ الۡمُؤۡمِنُ الۡمُهَيۡمِنُ الۡعَزِيۡزُ الۡجَـبَّارُ الۡمُتَكَبِّرُ​ؕ سُبۡحٰنَ
-  اللّٰهِ عَمَّا يُشۡرِكُوۡنَ‏
+arabic_ayat: هُوَ ٱللَّهُ ٱلَّذِي لَآ إِلَٰهَ إِلَّا هُوَ ٱلۡمَلِكُ ٱلۡقُدُّوسُ ٱلسَّلَٰمُ
+  ٱلۡمُؤۡمِنُ ٱلۡمُهَيۡمِنُ ٱلۡعَزِيزُ ٱلۡجَبَّارُ ٱلۡمُتَكَبِّرُۚ سُبۡحَٰنَ ٱللَّهِ
+  عَمَّا يُشۡرِكُونَ
 sentence_translation: 'He is Allah—there is no god except Him: the King, the Most
   Holy, the All-Perfect, the Source of Serenity, the Watcher ˹of all˺, the Almighty,
   the Supreme in Might, the Majestic. Glorified is Allah far above what they associate
@@ -12,67 +12,67 @@ word_by_word:
     translation: He
     transliteration: huwa
   2:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: (is) Allah
     transliteration: l-lahu
   3:
-    arabic: الَّذِىۡ
+    arabic: ٱلَّذِي
     translation: the One Who
     transliteration: alladhī
   4:
-    arabic: لَاۤ
+    arabic: لَآ
     translation: (there is) no
     transliteration: lā
   5:
-    arabic: اِلٰهَ
+    arabic: إِلَٰهَ
     translation: god
     transliteration: ilāha
   6:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: but
     transliteration: illā
   7:
-    arabic: هُوَ​ۚ
+    arabic: هُوَ
     translation: He
     transliteration: huwa
   8:
-    arabic: اَلۡمَلِكُ
+    arabic: ٱلۡمَلِكُ
     translation: the Sovereign
     transliteration: l-maliku
   9:
-    arabic: الۡقُدُّوۡسُ
+    arabic: ٱلۡقُدُّوسُ
     translation: the Holy One
     transliteration: l-qudūsu
   10:
-    arabic: السَّلٰمُ
+    arabic: ٱلسَّلَٰمُ
     translation: the Giver of Peace
     transliteration: l-salāmu
   11:
-    arabic: الۡمُؤۡمِنُ
+    arabic: ٱلۡمُؤۡمِنُ
     translation: the Giver of Security
     transliteration: l-mu'minu
   12:
-    arabic: الۡمُهَيۡمِنُ
+    arabic: ٱلۡمُهَيۡمِنُ
     translation: the Guardian
     transliteration: l-muhayminu
   13:
-    arabic: الۡعَزِيۡزُ
+    arabic: ٱلۡعَزِيزُ
     translation: the All-Mighty
     transliteration: l-ʿazīzu
   14:
-    arabic: الۡجَـبَّارُ
+    arabic: ٱلۡجَبَّارُ
     translation: the Irresistible
     transliteration: l-jabāru
   15:
-    arabic: الۡمُتَكَبِّرُ​ؕ
+    arabic: ٱلۡمُتَكَبِّرُۚ
     translation: the Supreme
     transliteration: l-mutakabiru
   16:
-    arabic: سُبۡحٰنَ
+    arabic: سُبۡحَٰنَ
     translation: Glory (be to)
     transliteration: sub'ḥāna
   17:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   18:
@@ -80,7 +80,7 @@ word_by_word:
     translation: from what
     transliteration: ʿammā
   19:
-    arabic: يُشۡرِكُوۡنَ‏
+    arabic: يُشۡرِكُونَ
     translation: they associate (with Him)
     transliteration: yush'rikūna
 ---

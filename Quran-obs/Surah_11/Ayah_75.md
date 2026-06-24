@@ -1,26 +1,26 @@
 ---
-arabic_ayat: اِنَّ اِبۡرٰهِيۡمَ لَحَـلِيۡمٌ اَوَّاهٌ مُّنِيۡبٌ‏
+arabic_ayat: إِنَّ إِبۡرَٰهِيمَ لَحَلِيمٌ أَوَّٰهٞ مُّنِيبٞ
 sentence_translation: Truly, Abraham was forbearing, tender-hearted, and ever turning
   ˹to his Lord˺.
 word_by_word:
   1:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   2:
-    arabic: اِبۡرٰهِيۡمَ
+    arabic: إِبۡرَٰهِيمَ
     translation: Ibrahim
     transliteration: ib'rāhīma
   3:
-    arabic: لَحَـلِيۡمٌ
+    arabic: لَحَلِيمٌ
     translation: (was) certainly forbearing
     transliteration: laḥalīmun
   4:
-    arabic: اَوَّاهٌ
+    arabic: أَوَّٰهٞ
     translation: imploring
     transliteration: awwāhun
   5:
-    arabic: مُّنِيۡبٌ‏
+    arabic: مُّنِيبٞ
     translation: and oft-returning
     transliteration: munībun
 ---

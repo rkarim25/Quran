@@ -1,25 +1,25 @@
 ---
-arabic_ayat: فَاَلۡقٰٮهَا فَاِذَا هِىَ حَيَّةٌ تَسۡعٰى‏
+arabic_ayat: فَأَلۡقَىٰهَا فَإِذَا هِيَ حَيَّةٞ تَسۡعَىٰ
 sentence_translation: So he did, then—behold!—it became a serpent, slithering.
 word_by_word:
   1:
-    arabic: فَاَلۡقٰٮهَا
+    arabic: فَأَلۡقَىٰهَا
     translation: So he threw it down
     transliteration: fa-alqāhā
   2:
-    arabic: فَاِذَا
+    arabic: فَإِذَا
     translation: and behold
     transliteration: fa-idhā
   3:
-    arabic: هِىَ
+    arabic: هِيَ
     translation: It
     transliteration: hiya
   4:
-    arabic: حَيَّةٌ
+    arabic: حَيَّةٞ
     translation: (was) a snake
     transliteration: ḥayyatun
   5:
-    arabic: تَسۡعٰى‏
+    arabic: تَسۡعَىٰ
     translation: moving swiftly
     transliteration: tasʿā
 ---

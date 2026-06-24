@@ -1,23 +1,23 @@
 ---
-arabic_ayat: قُلْ لَّـكُمۡ مِّيۡعَادُ يَوۡمٍ لَّا تَسۡتَاْخِرُوۡنَ عَنۡهُ سَاعَةً
-  وَّلَا تَسۡتَقۡدِمُوۡنَ‏
+arabic_ayat: قُل لَّكُم مِّيعَادُ يَوۡمٖ لَّا تَسۡتَـٔۡخِرُونَ عَنۡهُ سَاعَةٗ وَلَا
+  تَسۡتَقۡدِمُونَ
 sentence_translation: Say, ˹O Prophet,˺ “A Day has ˹already˺ been appointed for you,
   which you can neither delay nor advance by a ˹single˺ moment.”
 word_by_word:
   1:
-    arabic: قُلْ
+    arabic: قُل
     translation: Say
     transliteration: qul
   2:
-    arabic: لَّـكُمۡ
+    arabic: لَّكُم
     translation: For you
     transliteration: lakum
   3:
-    arabic: مِّيۡعَادُ
+    arabic: مِّيعَادُ
     translation: (is the) appointment
     transliteration: mīʿādu
   4:
-    arabic: يَوۡمٍ
+    arabic: يَوۡمٖ
     translation: (of) a Day
     transliteration: yawmin
   5:
@@ -25,7 +25,7 @@ word_by_word:
     translation: not
     transliteration: lā
   6:
-    arabic: تَسۡتَاْخِرُوۡنَ
+    arabic: تَسۡتَـٔۡخِرُونَ
     translation: you can postpone
     transliteration: tastakhirūna
   7:
@@ -33,15 +33,15 @@ word_by_word:
     translation: '[of] it'
     transliteration: ʿanhu
   8:
-    arabic: سَاعَةً
+    arabic: سَاعَةٗ
     translation: (for) an hour
     transliteration: sāʿatan
   9:
-    arabic: وَّلَا
+    arabic: وَلَا
     translation: and not
     transliteration: walā
   10:
-    arabic: تَسۡتَقۡدِمُوۡنَ‏
+    arabic: تَسۡتَقۡدِمُونَ
     translation: (can) you precede (it)
     transliteration: tastaqdimūna
 ---

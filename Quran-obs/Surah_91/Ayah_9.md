@@ -1,5 +1,5 @@
 ---
-arabic_ayat: قَدۡ اَفۡلَحَ مَنۡ زَكّٰٮهَا ۙ‏
+arabic_ayat: قَدۡ أَفۡلَحَ مَن زَكَّىٰهَا
 sentence_translation: Successful indeed is the one who purifies their soul,
 word_by_word:
   1:
@@ -7,15 +7,15 @@ word_by_word:
     translation: Indeed
     transliteration: qad
   2:
-    arabic: اَفۡلَحَ
+    arabic: أَفۡلَحَ
     translation: he succeeds
     transliteration: aflaḥa
   3:
-    arabic: مَنۡ
+    arabic: مَن
     translation: who
     transliteration: man
   4:
-    arabic: زَكّٰٮهَا ۙ‏
+    arabic: زَكَّىٰهَا
     translation: purifies it
     transliteration: zakkāhā
 ---

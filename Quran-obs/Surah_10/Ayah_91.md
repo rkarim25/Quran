@@ -1,10 +1,10 @@
 ---
-arabic_ayat: آٰلۡــٰٔنَ وَقَدۡ عَصَيۡتَ قَبۡلُ وَكُنۡتَ مِنَ الۡمُفۡسِدِيۡنَ‏
+arabic_ayat: ءَآلۡـَٰٔنَ وَقَدۡ عَصَيۡتَ قَبۡلُ وَكُنتَ مِنَ ٱلۡمُفۡسِدِينَ
 sentence_translation: ˹He was told,˺ “Now ˹you believe˺? But you always disobeyed
   and were one of the corruptors.
 word_by_word:
   1:
-    arabic: آٰلۡــٰٔنَ
+    arabic: ءَآلۡـَٰٔنَ
     translation: Now
     transliteration: āl'āna
   2:
@@ -20,7 +20,7 @@ word_by_word:
     translation: before
     transliteration: qablu
   5:
-    arabic: وَكُنۡتَ
+    arabic: وَكُنتَ
     translation: and you were
     transliteration: wakunta
   6:
@@ -28,7 +28,7 @@ word_by_word:
     translation: of
     transliteration: mina
   7:
-    arabic: الۡمُفۡسِدِيۡنَ‏
+    arabic: ٱلۡمُفۡسِدِينَ
     translation: the corrupters
     transliteration: l-muf'sidīna
 ---

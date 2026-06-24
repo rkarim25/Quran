@@ -1,5 +1,5 @@
 ---
-arabic_ayat: ثُمَّ السَّبِيۡلَ يَسَّرَهٗۙ‏
+arabic_ayat: ثُمَّ ٱلسَّبِيلَ يَسَّرَهُۥ
 sentence_translation: Then He makes the way easy for them,
 word_by_word:
   1:
@@ -7,11 +7,11 @@ word_by_word:
     translation: Then
     transliteration: thumma
   2:
-    arabic: السَّبِيۡلَ
+    arabic: ٱلسَّبِيلَ
     translation: the way
     transliteration: l-sabīla
   3:
-    arabic: يَسَّرَهٗۙ‏
+    arabic: يَسَّرَهُۥ
     translation: He made easy for him
     transliteration: yassarahu
 ---

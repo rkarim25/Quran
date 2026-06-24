@@ -1,13 +1,13 @@
 ---
-arabic_ayat: وَيَمۡنَعُوۡنَ الۡمَاعُوۡنَ‏
+arabic_ayat: وَيَمۡنَعُونَ ٱلۡمَاعُونَ
 sentence_translation: and refuse to give ˹even the simplest˺ aid. 
 word_by_word:
   1:
-    arabic: وَيَمۡنَعُوۡنَ
+    arabic: وَيَمۡنَعُونَ
     translation: And they deny
     transliteration: wayamnaʿūna
   2:
-    arabic: الۡمَاعُوۡنَ‏
+    arabic: ٱلۡمَاعُونَ
     translation: '[the] small kindnesses'
     transliteration: l-māʿūna
 ---

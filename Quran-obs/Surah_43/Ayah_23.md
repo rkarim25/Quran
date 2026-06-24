@@ -1,25 +1,25 @@
 ---
-arabic_ayat: وَكَذٰلِكَ مَاۤ اَرۡسَلۡنَا مِنۡ قَبۡلِكَ فِىۡ قَرۡيَةٍ مِّنۡ نَّذِيۡرٍ
-  اِلَّا قَالَ مُتۡرَفُوۡهَاۤ اِنَّا وَجَدۡنَاۤ اٰبَآءَنَا عَلٰٓى اُمَّةٍ وَّاِنَّا
-  عَلٰٓى اٰثٰرِهِمۡ مُّقۡتَدُوۡنَ‏
+arabic_ayat: وَكَذَٰلِكَ مَآ أَرۡسَلۡنَا مِن قَبۡلِكَ فِي قَرۡيَةٖ مِّن نَّذِيرٍ
+  إِلَّا قَالَ مُتۡرَفُوهَآ إِنَّا وَجَدۡنَآ ءَابَآءَنَا عَلَىٰٓ أُمَّةٖ وَإِنَّا
+  عَلَىٰٓ ءَاثَٰرِهِم مُّقۡتَدُونَ
 sentence_translation: Similarly, whenever We sent a warner to a society before you
   ˹O Prophet˺, its ˹spoiled˺ elite would say, “We found our forefathers following
   a ˹particular˺ way, and we are walking in their footsteps.”
 word_by_word:
   1:
-    arabic: وَكَذٰلِكَ
+    arabic: وَكَذَٰلِكَ
     translation: And thus
     transliteration: wakadhālika
   2:
-    arabic: مَاۤ
+    arabic: مَآ
     translation: not
     transliteration: mā
   3:
-    arabic: اَرۡسَلۡنَا
+    arabic: أَرۡسَلۡنَا
     translation: We sent
     transliteration: arsalnā
   4:
-    arabic: مِنۡ
+    arabic: مِن
     translation: before you
     transliteration: min
   5:
@@ -27,23 +27,23 @@ word_by_word:
     translation: before you
     transliteration: qablika
   6:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   7:
-    arabic: قَرۡيَةٍ
+    arabic: قَرۡيَةٖ
     translation: a town
     transliteration: qaryatin
   8:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: any
     transliteration: min
   9:
-    arabic: نَّذِيۡرٍ
+    arabic: نَّذِيرٍ
     translation: warner
     transliteration: nadhīrin
   10:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   11:
@@ -51,43 +51,43 @@ word_by_word:
     translation: said
     transliteration: qāla
   12:
-    arabic: مُتۡرَفُوۡهَاۤ
+    arabic: مُتۡرَفُوهَآ
     translation: (the) wealthy ones of it
     transliteration: mut'rafūhā
   13:
-    arabic: اِنَّا
+    arabic: إِنَّا
     translation: Indeed, we
     transliteration: innā
   14:
-    arabic: وَجَدۡنَاۤ
+    arabic: وَجَدۡنَآ ءَ
     translation: '[we] found'
     transliteration: wajadnā
   15:
-    arabic: اٰبَآءَنَا
+    arabic: ابَآءَنَا
     translation: our forefathers
     transliteration: ābāanā
   16:
-    arabic: عَلٰٓى
+    arabic: عَلَىٰٓ
     translation: 'on'
     transliteration: ʿalā
   17:
-    arabic: اُمَّةٍ
+    arabic: أُمَّةٖ
     translation: a religion
     transliteration: ummatin
   18:
-    arabic: وَّاِنَّا
+    arabic: وَإِنَّا
     translation: and indeed, we
     transliteration: wa-innā
   19:
-    arabic: عَلٰٓى
+    arabic: عَلَىٰٓ ءَ
     translation: '[on]'
     transliteration: ʿalā
   20:
-    arabic: اٰثٰرِهِمۡ
+    arabic: اثَٰرِهِم
     translation: their footsteps
     transliteration: āthārihim
   21:
-    arabic: مُّقۡتَدُوۡنَ‏
+    arabic: مُّقۡتَدُونَ
     translation: (are) following
     transliteration: muq'tadūna
 ---

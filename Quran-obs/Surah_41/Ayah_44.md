@@ -1,8 +1,8 @@
 ---
-arabic_ayat: وَلَوۡ جَعَلۡنٰهُ قُرۡاٰنًا اَعۡجَمِيًّا لَّقَالُوۡا لَوۡلَا فُصِّلَتۡ
-  اٰيٰتُهٗ ؕ ءَؔاَعۡجَمِىٌّ وَّعَرَبِىٌّ​  ؕ قُلۡ هُوَ لِلَّذِيۡنَ اٰمَنُوۡا هُدًى
-  وَشِفَآءٌ​  ؕ وَ الَّذِيۡنَ لَا يُؤۡمِنُوۡنَ فِىۡۤ اٰذَانِهِمۡ وَقۡرٌ وَّهُوَ عَلَيۡهِمۡ
-  عَمًى​ ؕ اُولٰٓٮِٕكَ يُنَادَوۡنَ مِنۡ مَّكَانٍۢ بَعِيۡدٍ‏
+arabic_ayat: وَلَوۡ جَعَلۡنَٰهُ قُرۡءَانًا أَعۡجَمِيّٗا لَّقَالُواْ لَوۡلَا فُصِّلَتۡ
+  ءَايَٰتُهُۥٓۖ ءَا۬عۡجَمِيّٞ وَعَرَبِيّٞۗ قُلۡ هُوَ لِلَّذِينَ ءَامَنُواْ هُدٗى وَشِفَآءٞۚ
+  وَٱلَّذِينَ لَا يُؤۡمِنُونَ فِيٓ ءَاذَانِهِمۡ وَقۡرٞ وَهُوَ عَلَيۡهِمۡ عَمًىۚ أُوْلَٰٓئِكَ
+  يُنَادَوۡنَ مِن مَّكَانِۭ بَعِيدٖ
 sentence_translation: Had We revealed it as a non-Arabic Quran, they would have certainly
   argued, “If only its verses were made clear ˹in our language˺. What! A non-Arabic
   revelation for an Arab audience!” Say, ˹O Prophet,˺ “It is a guide and a healing
@@ -15,19 +15,19 @@ word_by_word:
     translation: And if
     transliteration: walaw
   2:
-    arabic: جَعَلۡنٰهُ
+    arabic: جَعَلۡنَٰهُ
     translation: We (had) made it
     transliteration: jaʿalnāhu
   3:
-    arabic: قُرۡاٰنًا
+    arabic: قُرۡءَانًا
     translation: a Quran
     transliteration: qur'ānan
   4:
-    arabic: اَعۡجَمِيًّا
+    arabic: أَعۡجَمِيّٗا
     translation: (in) a foreign (language)
     transliteration: aʿjamiyyan
   5:
-    arabic: لَّقَالُوۡا
+    arabic: لَّقَالُواْ
     translation: they (would have) said
     transliteration: laqālū
   6:
@@ -35,19 +35,19 @@ word_by_word:
     translation: Why not
     transliteration: lawlā
   7:
-    arabic: فُصِّلَتۡ
+    arabic: فُصِّلَتۡ ءَ
     translation: are explained in detail
     transliteration: fuṣṣilat
   8:
-    arabic: اٰيٰتُهٗ ؕ
+    arabic: ايَٰتُهُۥٓۖ
     translation: its verses
     transliteration: āyātuhu
   9:
-    arabic: ءَؔاَعۡجَمِىٌّ
+    arabic: ءَا۬عۡجَمِيّٞ
     translation: (Is it) a foreign (language)
     transliteration: āʿ'jamiyyun
   10:
-    arabic: وَّعَرَبِىٌّ​  ؕ
+    arabic: وَعَرَبِيّٞۗ
     translation: and an Arab
     transliteration: waʿarabiyyun
   11:
@@ -59,23 +59,23 @@ word_by_word:
     translation: It (is)
     transliteration: huwa
   13:
-    arabic: لِلَّذِيۡنَ
+    arabic: لِلَّذِينَ ءَ
     translation: for those who
     transliteration: lilladhīna
   14:
-    arabic: اٰمَنُوۡا
+    arabic: امَنُواْ
     translation: believe
     transliteration: āmanū
   15:
-    arabic: هُدًى
+    arabic: هُدٗى
     translation: a guidance
     transliteration: hudan
   16:
-    arabic: وَشِفَآءٌ​  ؕ
+    arabic: وَشِفَآءٞۚ
     translation: and a healing
     transliteration: washifāon
   17:
-    arabic: وَ الَّذِيۡنَ
+    arabic: وَٱلَّذِينَ
     translation: And those who
     transliteration: wa-alladhīna
   18:
@@ -83,23 +83,23 @@ word_by_word:
     translation: (do) not
     transliteration: lā
   19:
-    arabic: يُؤۡمِنُوۡنَ
+    arabic: يُؤۡمِنُونَ
     translation: believe
     transliteration: yu'minūna
   20:
-    arabic: فِىۡۤ
+    arabic: فِيٓ ءَ
     translation: in
     transliteration: fī
   21:
-    arabic: اٰذَانِهِمۡ
+    arabic: اذَانِهِمۡ
     translation: their ears
     transliteration: ādhānihim
   22:
-    arabic: وَقۡرٌ
+    arabic: وَقۡرٞ
     translation: (is) deafness
     transliteration: waqrun
   23:
-    arabic: وَّهُوَ
+    arabic: وَهُوَ
     translation: and it
     transliteration: wahuwa
   24:
@@ -107,11 +107,11 @@ word_by_word:
     translation: (is) for them
     transliteration: ʿalayhim
   25:
-    arabic: عَمًى​ ؕ
+    arabic: عَمًىۚ
     translation: blindness
     transliteration: ʿaman
   26:
-    arabic: اُولٰٓٮِٕكَ
+    arabic: أُوْلَٰٓئِكَ
     translation: Those
     transliteration: ulāika
   27:
@@ -119,15 +119,15 @@ word_by_word:
     translation: are being called
     transliteration: yunādawna
   28:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   29:
-    arabic: مَّكَانٍۢ
+    arabic: مَّكَانِۭ
     translation: a place
     transliteration: makānin
   30:
-    arabic: بَعِيۡدٍ‏
+    arabic: بَعِيدٖ
     translation: far
     transliteration: baʿīdin
 ---

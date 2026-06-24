@@ -1,25 +1,25 @@
 ---
-arabic_ayat: وَّنَسُوۡقُ الۡمُجۡرِمِيۡنَ اِلٰى جَهَـنَّمَ وِرۡدًا​ ۘ‏
+arabic_ayat: وَنَسُوقُ ٱلۡمُجۡرِمِينَ إِلَىٰ جَهَنَّمَ وِرۡدٗا
 sentence_translation: and drive the wicked to Hell like a thirsty herd.
 word_by_word:
   1:
-    arabic: وَّنَسُوۡقُ
+    arabic: وَنَسُوقُ
     translation: And We will drive
     transliteration: wanasūqu
   2:
-    arabic: الۡمُجۡرِمِيۡنَ
+    arabic: ٱلۡمُجۡرِمِينَ
     translation: the criminals
     transliteration: l-muj'rimīna
   3:
-    arabic: اِلٰى
+    arabic: إِلَىٰ
     translation: to
     transliteration: ilā
   4:
-    arabic: جَهَـنَّمَ
+    arabic: جَهَنَّمَ
     translation: Hell
     transliteration: jahannama
   5:
-    arabic: وِرۡدًا​ ۘ‏
+    arabic: وِرۡدٗا
     translation: thirsty
     transliteration: wir'dan
 ---

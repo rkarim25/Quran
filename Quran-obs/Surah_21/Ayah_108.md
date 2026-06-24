@@ -1,6 +1,6 @@
 ---
-arabic_ayat: قُلۡ اِنَّمَا يُوۡحٰۤى اِلَىَّ اَنَّمَاۤ اِلٰهُكُمۡ اِلٰـهٌ وَّاحِدٌ​ 
-  ۚ فَهَلۡ اَنۡـتُمۡ مُّسۡلِمُوۡنَ‏
+arabic_ayat: قُلۡ إِنَّمَا يُوحَىٰٓ إِلَيَّ أَنَّمَآ إِلَٰهُكُمۡ إِلَٰهٞ وَٰحِدٞۖ
+  فَهَلۡ أَنتُم مُّسۡلِمُونَ
 sentence_translation: 'Say, “What has been revealed to me is this: ‘Your God is only
   One God.’ Will you then submit?”'
 word_by_word:
@@ -9,31 +9,31 @@ word_by_word:
     translation: Say
     transliteration: qul
   2:
-    arabic: اِنَّمَا
+    arabic: إِنَّمَا
     translation: Only
     transliteration: innamā
   3:
-    arabic: يُوۡحٰۤى
+    arabic: يُوحَىٰٓ
     translation: it is revealed
     transliteration: yūḥā
   4:
-    arabic: اِلَىَّ
+    arabic: إِلَيَّ
     translation: to me
     transliteration: ilayya
   5:
-    arabic: اَنَّمَاۤ
+    arabic: أَنَّمَآ
     translation: that
     transliteration: annamā
   6:
-    arabic: اِلٰهُكُمۡ
+    arabic: إِلَٰهُكُمۡ
     translation: your god
     transliteration: ilāhukum
   7:
-    arabic: اِلٰـهٌ
+    arabic: إِلَٰهٞ
     translation: (is) God
     transliteration: ilāhun
   8:
-    arabic: وَّاحِدٌ​  ۚ
+    arabic: وَٰحِدٞۖ
     translation: One
     transliteration: wāḥidun
   9:
@@ -41,11 +41,11 @@ word_by_word:
     translation: so will
     transliteration: fahal
   10:
-    arabic: اَنۡـتُمۡ
+    arabic: أَنتُم
     translation: you
     transliteration: antum
   11:
-    arabic: مُّسۡلِمُوۡنَ‏
+    arabic: مُّسۡلِمُونَ
     translation: submit (to Him)
     transliteration: mus'limūna
 ---

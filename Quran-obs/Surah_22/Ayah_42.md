@@ -1,15 +1,14 @@
 ---
-arabic_ayat: وَاِنۡ يُّكَذِّبُوۡكَ فَقَدۡ كَذَّبَتۡ قَبۡلَهُمۡ قَوۡمُ نُوۡحٍ وَّعَادٌ
-  وَّثَمُوۡدُ ۙ‏
+arabic_ayat: وَإِن يُكَذِّبُوكَ فَقَدۡ كَذَّبَتۡ قَبۡلَهُمۡ قَوۡمُ نُوحٖ وَعَادٞ وَثَمُودُ
 sentence_translation: If they deny you ˹O Prophet˺, so did the people of Noah before
   them, as well as ˹the tribes of˺ ’Ȃd and Thamûd,
 word_by_word:
   1:
-    arabic: وَاِنۡ
+    arabic: وَإِن
     translation: And if
     transliteration: wa-in
   2:
-    arabic: يُّكَذِّبُوۡكَ
+    arabic: يُكَذِّبُوكَ
     translation: they deny you
     transliteration: yukadhibūka
   3:
@@ -29,15 +28,15 @@ word_by_word:
     translation: (the) people
     transliteration: qawmu
   7:
-    arabic: نُوۡحٍ
+    arabic: نُوحٖ
     translation: (of) Nuh
     transliteration: nūḥin
   8:
-    arabic: وَّعَادٌ
+    arabic: وَعَادٞ
     translation: and Aad
     transliteration: waʿādun
   9:
-    arabic: وَّثَمُوۡدُ ۙ‏
+    arabic: وَثَمُودُ
     translation: and Thamud
     transliteration: wathamūdu
 ---

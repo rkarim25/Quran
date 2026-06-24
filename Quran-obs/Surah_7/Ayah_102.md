@@ -1,6 +1,6 @@
 ---
-arabic_ayat: وَمَا وَجَدۡنَا لِاَكۡثَرِهِمۡ مِّنۡ عَهۡدٍ​ۚ وَاِنۡ وَّجَدۡنَاۤ اَكۡثَرَهُمۡ
-  لَفٰسِقِيۡنَ‏
+arabic_ayat: وَمَا وَجَدۡنَا لِأَكۡثَرِهِم مِّنۡ عَهۡدٖۖ وَإِن وَجَدۡنَآ أَكۡثَرَهُمۡ
+  لَفَٰسِقِينَ
 sentence_translation: We did not find most of them true to their covenant. Rather,
   We found most of them truly rebellious.
 word_by_word:
@@ -13,7 +13,7 @@ word_by_word:
     translation: We found
     transliteration: wajadnā
   3:
-    arabic: لِاَكۡثَرِهِمۡ
+    arabic: لِأَكۡثَرِهِم
     translation: for most of them
     transliteration: li-aktharihim
   4:
@@ -21,23 +21,23 @@ word_by_word:
     translation: any
     transliteration: min
   5:
-    arabic: عَهۡدٍ​ۚ
+    arabic: عَهۡدٖۖ
     translation: covenant
     transliteration: ʿahdin
   6:
-    arabic: وَاِنۡ
+    arabic: وَإِن
     translation: But
     transliteration: wa-in
   7:
-    arabic: وَّجَدۡنَاۤ
+    arabic: وَجَدۡنَآ
     translation: We found
     transliteration: wajadnā
   8:
-    arabic: اَكۡثَرَهُمۡ
+    arabic: أَكۡثَرَهُمۡ
     translation: most of them
     transliteration: aktharahum
   9:
-    arabic: لَفٰسِقِيۡنَ‏
+    arabic: لَفَٰسِقِينَ
     translation: certainly, defiantly disobedient
     transliteration: lafāsiqīna
 ---

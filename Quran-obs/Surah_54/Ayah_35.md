@@ -1,9 +1,9 @@
 ---
-arabic_ayat: نِّعۡمَةً مِّنۡ عِنۡدِنَا​ؕ كَذٰلِكَ نَجۡزِىۡ مَنۡ شَكَرَ‏
+arabic_ayat: نِّعۡمَةٗ مِّنۡ عِندِنَاۚ كَذَٰلِكَ نَجۡزِي مَن شَكَرَ
 sentence_translation: as a blessing from Us. This is how We reward whoever gives thanks.
 word_by_word:
   1:
-    arabic: نِّعۡمَةً
+    arabic: نِّعۡمَةٗ
     translation: (As) a favor
     transliteration: niʿ'matan
   2:
@@ -11,23 +11,23 @@ word_by_word:
     translation: from
     transliteration: min
   3:
-    arabic: عِنۡدِنَا​ؕ
+    arabic: عِندِنَاۚ
     translation: Us
     transliteration: ʿindinā
   4:
-    arabic: كَذٰلِكَ
+    arabic: كَذَٰلِكَ
     translation: Thus
     transliteration: kadhālika
   5:
-    arabic: نَجۡزِىۡ
+    arabic: نَجۡزِي
     translation: We reward
     transliteration: najzī
   6:
-    arabic: مَنۡ
+    arabic: مَن
     translation: (one) who
     transliteration: man
   7:
-    arabic: شَكَرَ‏
+    arabic: شَكَرَ
     translation: (is) grateful
     transliteration: shakara
 ---

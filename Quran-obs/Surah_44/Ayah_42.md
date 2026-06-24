@@ -1,14 +1,14 @@
 ---
-arabic_ayat: اِلَّا مَنۡ رَّحِمَ اللّٰهُ​ؕ اِنَّهٗ هُوَ الۡعَزِيۡزُ الرَّحِيۡمُ‏
+arabic_ayat: إِلَّا مَن رَّحِمَ ٱللَّهُۚ إِنَّهُۥ هُوَ ٱلۡعَزِيزُ ٱلرَّحِيمُ
 sentence_translation: except those shown mercy by Allah. He is truly the Almighty,
   Most Merciful.
 word_by_word:
   1:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: Except
     transliteration: illā
   2:
-    arabic: مَنۡ
+    arabic: مَن
     translation: (on) whom
     transliteration: man
   3:
@@ -16,11 +16,11 @@ word_by_word:
     translation: Allah has mercy
     transliteration: raḥima
   4:
-    arabic: اللّٰهُ​ؕ
+    arabic: ٱللَّهُۚ
     translation: Allah has mercy
     transliteration: l-lahu
   5:
-    arabic: اِنَّهٗ
+    arabic: إِنَّهُۥ
     translation: Indeed, He
     transliteration: innahu
   6:
@@ -28,11 +28,11 @@ word_by_word:
     translation: '[He]'
     transliteration: huwa
   7:
-    arabic: الۡعَزِيۡزُ
+    arabic: ٱلۡعَزِيزُ
     translation: (is) the All-Mighty
     transliteration: l-ʿazīzu
   8:
-    arabic: الرَّحِيۡمُ‏
+    arabic: ٱلرَّحِيمُ
     translation: the Most Merciful
     transliteration: l-raḥīmu
 ---

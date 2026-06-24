@@ -1,8 +1,7 @@
 ---
-arabic_ayat: "فَقَالَ الۡمَلَاُ الَّذِيۡنَ كَفَرُوۡا مِنۡ قَوۡمِهٖ مَا نَرٰٮكَ اِلَّا\
-  \ بَشَرًا مِّثۡلَنَا وَمَا نَرٰٮكَ اتَّبَعَكَ اِلَّا الَّذِيۡنَ هُمۡ اَرَاذِلُــنَا\
-  \ بَادِىَ الرَّاۡىِ​ۚ وَمَا نَرٰى لَـكُمۡ عَلَيۡنَا مِنۡ فَضۡلٍۢ بَلۡ نَظُنُّكُمۡ\
-  \ كٰذِبِيۡنَ‏ \uFEFF\uFEFF"
+arabic_ayat: فَقَالَ ٱلۡمَلَأُ ٱلَّذِينَ كَفَرُواْ مِن قَوۡمِهِۦ مَا نَرَىٰكَ إِلَّا
+  بَشَرٗا مِّثۡلَنَا وَمَا نَرَىٰكَ ٱتَّبَعَكَ إِلَّا ٱلَّذِينَ هُمۡ أَرَاذِلُنَا
+  بَادِيَ ٱلرَّأۡيِ وَمَا نَرَىٰ لَكُمۡ عَلَيۡنَا مِن فَضۡلِۭ بَلۡ نَظُنُّكُمۡ كَٰذِبِينَ
 sentence_translation: The disbelieving chiefs of his people said, “We see you only
   as a human being like ourselves, and we see that no one follows you except the lowliest
   among us, who do so ˹hastily˺ without thinking. We do not see anything that makes
@@ -13,23 +12,23 @@ word_by_word:
     translation: So said
     transliteration: faqāla
   2:
-    arabic: الۡمَلَاُ
+    arabic: ٱلۡمَلَأُ
     translation: the chiefs
     transliteration: l-mala-u
   3:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: (of) those who
     transliteration: alladhīna
   4:
-    arabic: كَفَرُوۡا
+    arabic: كَفَرُواْ
     translation: disbelieved
     transliteration: kafarū
   5:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   6:
-    arabic: قَوۡمِهٖ
+    arabic: قَوۡمِهِۦ
     translation: his people
     transliteration: qawmihi
   7:
@@ -37,15 +36,15 @@ word_by_word:
     translation: Not
     transliteration: mā
   8:
-    arabic: نَرٰٮكَ
+    arabic: نَرَىٰكَ
     translation: we see you
     transliteration: narāka
   9:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: but
     transliteration: illā
   10:
-    arabic: بَشَرًا
+    arabic: بَشَرٗا
     translation: a man
     transliteration: basharan
   11:
@@ -57,19 +56,19 @@ word_by_word:
     translation: and not
     transliteration: wamā
   13:
-    arabic: نَرٰٮكَ
+    arabic: نَرَىٰكَ
     translation: we see you
     transliteration: narāka
   14:
-    arabic: اتَّبَعَكَ
+    arabic: ٱتَّبَعَكَ
     translation: followed [you]
     transliteration: ittabaʿaka
   15:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   16:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   17:
@@ -77,15 +76,15 @@ word_by_word:
     translation: '[they]'
     transliteration: hum
   18:
-    arabic: اَرَاذِلُــنَا
+    arabic: أَرَاذِلُنَا
     translation: (are) the lowest of us
     transliteration: arādhilunā
   19:
-    arabic: بَادِىَ
+    arabic: بَادِيَ
     translation: immature in opinion
     transliteration: bādiya
   20:
-    arabic: الرَّاۡىِ​ۚ
+    arabic: ٱلرَّأۡيِ
     translation: immature in opinion
     transliteration: l-rayi
   21:
@@ -93,11 +92,11 @@ word_by_word:
     translation: And not
     transliteration: wamā
   22:
-    arabic: نَرٰى
+    arabic: نَرَىٰ
     translation: we see
     transliteration: narā
   23:
-    arabic: لَـكُمۡ
+    arabic: لَكُمۡ
     translation: in you
     transliteration: lakum
   24:
@@ -105,11 +104,11 @@ word_by_word:
     translation: over us
     transliteration: ʿalaynā
   25:
-    arabic: مِنۡ
+    arabic: مِن
     translation: any
     transliteration: min
   26:
-    arabic: فَضۡلٍۢ
+    arabic: فَضۡلِۭ
     translation: merit
     transliteration: faḍlin
   27:
@@ -121,7 +120,7 @@ word_by_word:
     translation: we think you
     transliteration: naẓunnukum
   29:
-    arabic: "كٰذِبِيۡنَ‏ \uFEFF\uFEFF"
+    arabic: كَٰذِبِينَ
     translation: (are) liars
     transliteration: kādhibīna
 ---

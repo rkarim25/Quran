@@ -1,31 +1,31 @@
 ---
-arabic_ayat: قَالُـوۡۤا اَجِئۡتَـنَا لِتَاۡفِكَنَا عَنۡ اٰلِهَـتِنَا​ ۚ فَاۡتِنَا
-  بِمَا تَعِدُنَاۤ اِنۡ كُنۡتَ مِنَ الصّٰدِقِيۡنَ‏
+arabic_ayat: قَالُوٓاْ أَجِئۡتَنَا لِتَأۡفِكَنَا عَنۡ ءَالِهَتِنَا فَأۡتِنَا بِمَا
+  تَعِدُنَآ إِن كُنتَ مِنَ ٱلصَّٰدِقِينَ
 sentence_translation: They argued, “Have you come to turn us away from our gods? Bring
   us then whatever you threaten us with, if what you say is true.”
 word_by_word:
   1:
-    arabic: قَالُـوۡۤا
+    arabic: قَالُوٓاْ
     translation: They said
     transliteration: qālū
   2:
-    arabic: اَجِئۡتَـنَا
+    arabic: أَجِئۡتَنَا
     translation: Have you come to us
     transliteration: aji'tanā
   3:
-    arabic: لِتَاۡفِكَنَا
+    arabic: لِتَأۡفِكَنَا
     translation: to turn us away
     transliteration: litafikanā
   4:
-    arabic: عَنۡ
+    arabic: عَنۡ ءَ
     translation: from
     transliteration: ʿan
   5:
-    arabic: اٰلِهَـتِنَا​ ۚ
+    arabic: الِهَتِنَا
     translation: our gods
     transliteration: ālihatinā
   6:
-    arabic: فَاۡتِنَا
+    arabic: فَأۡتِنَا
     translation: Then bring us
     transliteration: fatinā
   7:
@@ -33,15 +33,15 @@ word_by_word:
     translation: what
     transliteration: bimā
   8:
-    arabic: تَعِدُنَاۤ
+    arabic: تَعِدُنَآ
     translation: you threaten us
     transliteration: taʿidunā
   9:
-    arabic: اِنۡ
+    arabic: إِن
     translation: if
     transliteration: in
   10:
-    arabic: كُنۡتَ
+    arabic: كُنتَ
     translation: you are
     transliteration: kunta
   11:
@@ -49,7 +49,7 @@ word_by_word:
     translation: of
     transliteration: mina
   12:
-    arabic: الصّٰدِقِيۡنَ‏
+    arabic: ٱلصَّٰدِقِينَ
     translation: the truthful
     transliteration: l-ṣādiqīna
 ---

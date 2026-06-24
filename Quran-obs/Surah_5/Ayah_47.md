@@ -1,6 +1,6 @@
 ---
-arabic_ayat: وَلۡيَحۡكُمۡ اَهۡلُ الۡاِنۡجِيۡلِ بِمَاۤ اَنۡزَلَ اللّٰهُ فِيۡهِ​ؕ وَمَنۡ
-  لَّمۡ يَحۡكُمۡ بِمَاۤ اَنۡزَلَ اللّٰهُ فَاُولٰٓٮِٕكَ هُمُ الۡفٰسِقُوۡنَ‏
+arabic_ayat: وَلۡيَحۡكُمۡ أَهۡلُ ٱلۡإِنجِيلِ بِمَآ أَنزَلَ ٱللَّهُ فِيهِۚ وَمَن لَّمۡ
+  يَحۡكُم بِمَآ أَنزَلَ ٱللَّهُ فَأُوْلَٰٓئِكَ هُمُ ٱلۡفَٰسِقُونَ
 sentence_translation: So let the people of the Gospel judge by what Allah has revealed
   in it. And those who do not judge by what Allah has revealed are ˹truly˺ the rebellious.
 word_by_word:
@@ -9,31 +9,31 @@ word_by_word:
     translation: And let judge
     transliteration: walyaḥkum
   2:
-    arabic: اَهۡلُ
+    arabic: أَهۡلُ
     translation: (the) People
     transliteration: ahlu
   3:
-    arabic: الۡاِنۡجِيۡلِ
+    arabic: ٱلۡإِنجِيلِ
     translation: (of) the Injeel
     transliteration: l-injīli
   4:
-    arabic: بِمَاۤ
+    arabic: بِمَآ
     translation: by what
     transliteration: bimā
   5:
-    arabic: اَنۡزَلَ
+    arabic: أَنزَلَ
     translation: has revealed
     transliteration: anzala
   6:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   7:
-    arabic: فِيۡهِ​ؕ
+    arabic: فِيهِۚ
     translation: in it
     transliteration: fīhi
   8:
-    arabic: وَمَنۡ
+    arabic: وَمَن
     translation: And whoever
     transliteration: waman
   9:
@@ -41,23 +41,23 @@ word_by_word:
     translation: (does) not
     transliteration: lam
   10:
-    arabic: يَحۡكُمۡ
+    arabic: يَحۡكُم
     translation: judge
     transliteration: yaḥkum
   11:
-    arabic: بِمَاۤ
+    arabic: بِمَآ
     translation: by what
     transliteration: bimā
   12:
-    arabic: اَنۡزَلَ
+    arabic: أَنزَلَ
     translation: has revealed
     transliteration: anzala
   13:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   14:
-    arabic: فَاُولٰٓٮِٕكَ
+    arabic: فَأُوْلَٰٓئِكَ
     translation: then those
     transliteration: fa-ulāika
   15:
@@ -65,7 +65,7 @@ word_by_word:
     translation: '[they] (are)'
     transliteration: humu
   16:
-    arabic: الۡفٰسِقُوۡنَ‏
+    arabic: ٱلۡفَٰسِقُونَ
     translation: the defiantly disobedient
     transliteration: l-fāsiqūna
 ---

@@ -1,23 +1,22 @@
 ---
-arabic_ayat: يَّوۡمَ يُنۡفَخُ فِى الصُّوۡرِ​ وَنَحۡشُرُ الۡمُجۡرِمِيۡنَ يَوۡمَٮِٕذٍ
-  زُرۡقًا​ ۖ ​ۚ‏
+arabic_ayat: يَوۡمَ يُنفَخُ فِي ٱلصُّورِۚ وَنَحۡشُرُ ٱلۡمُجۡرِمِينَ يَوۡمَئِذٖ زُرۡقٗا
 sentence_translation: ˹Beware of˺ the Day the Trumpet will be blown, and We will gather
   the wicked on that Day blue-faced ˹from horror and thirst˺.
 word_by_word:
   1:
-    arabic: يَّوۡمَ
+    arabic: يَوۡمَ
     translation: (The) Day
     transliteration: yawma
   2:
-    arabic: يُنۡفَخُ
+    arabic: يُنفَخُ
     translation: will be blown
     transliteration: yunfakhu
   3:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   4:
-    arabic: الصُّوۡرِ​
+    arabic: ٱلصُّورِۚ
     translation: the Trumpet
     transliteration: l-ṣūri
   5:
@@ -25,15 +24,15 @@ word_by_word:
     translation: and We will gather
     transliteration: wanaḥshuru
   6:
-    arabic: الۡمُجۡرِمِيۡنَ
+    arabic: ٱلۡمُجۡرِمِينَ
     translation: the criminals
     transliteration: l-muj'rimīna
   7:
-    arabic: يَوۡمَٮِٕذٍ
+    arabic: يَوۡمَئِذٖ
     translation: that Day
     transliteration: yawma-idhin
   8:
-    arabic: زُرۡقًا​ ۖ ​ۚ‏
+    arabic: زُرۡقٗا
     translation: blue-eyed
     transliteration: zur'qan
 ---

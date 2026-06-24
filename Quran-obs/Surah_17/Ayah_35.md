@@ -1,19 +1,19 @@
 ---
-arabic_ayat: وَاَوۡفُوا الۡـكَيۡلَ اِذَا كِلۡتُمۡ وَزِنُوۡا بِالۡقِسۡطَاسِ الۡمُسۡتَقِيۡمِ​ؕ
-  ذٰ لِكَ خَيۡرٌ وَّاَحۡسَنُ تَاۡوِيۡلًا‏
+arabic_ayat: وَأَوۡفُواْ ٱلۡكَيۡلَ إِذَا كِلۡتُمۡ وَزِنُواْ بِٱلۡقِسۡطَاسِ ٱلۡمُسۡتَقِيمِۚ
+  ذَٰلِكَ خَيۡرٞ وَأَحۡسَنُ تَأۡوِيلٗا
 sentence_translation: Give in full when you measure, and weigh with an even balance.
   That is fairest and best in the end.
 word_by_word:
   1:
-    arabic: وَاَوۡفُوا
+    arabic: وَأَوۡفُواْ
     translation: And give full
     transliteration: wa-awfū
   2:
-    arabic: الۡـكَيۡلَ
+    arabic: ٱلۡكَيۡلَ
     translation: '[the] measure'
     transliteration: l-kayla
   3:
-    arabic: اِذَا
+    arabic: إِذَا
     translation: when
     transliteration: idhā
   4:
@@ -21,31 +21,31 @@ word_by_word:
     translation: you measure
     transliteration: kil'tum
   5:
-    arabic: وَزِنُوۡا
+    arabic: وَزِنُواْ
     translation: and weigh
     transliteration: wazinū
   6:
-    arabic: بِالۡقِسۡطَاسِ
+    arabic: بِٱلۡقِسۡطَاسِ
     translation: with the balance
     transliteration: bil-qis'ṭāsi
   7:
-    arabic: الۡمُسۡتَقِيۡمِ​ؕ
+    arabic: ٱلۡمُسۡتَقِيمِۚ
     translation: the straight
     transliteration: l-mus'taqīmi
   8:
-    arabic: ذٰ لِكَ
+    arabic: ذَٰلِكَ
     translation: That
     transliteration: dhālika
   9:
-    arabic: خَيۡرٌ
+    arabic: خَيۡرٞ
     translation: (is) good
     transliteration: khayrun
   10:
-    arabic: وَّاَحۡسَنُ
+    arabic: وَأَحۡسَنُ
     translation: and best
     transliteration: wa-aḥsanu
   11:
-    arabic: تَاۡوِيۡلًا‏
+    arabic: تَأۡوِيلٗا
     translation: (in) result
     transliteration: tawīlan
 ---

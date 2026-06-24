@@ -1,5 +1,5 @@
 ---
-arabic_ayat: قَالَ رَبِّ اِنَّ قَوۡمِىۡ كَذَّبُوۡنِ​ ۖ​ۚ‏
+arabic_ayat: قَالَ رَبِّ إِنَّ قَوۡمِي كَذَّبُونِ
 sentence_translation: Noah prayed, “My Lord! My people have truly rejected me.
 word_by_word:
   1:
@@ -11,15 +11,15 @@ word_by_word:
     translation: My Lord
     transliteration: rabbi
   3:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   4:
-    arabic: قَوۡمِىۡ
+    arabic: قَوۡمِي
     translation: my people
     transliteration: qawmī
   5:
-    arabic: كَذَّبُوۡنِ​ ۖ​ۚ‏
+    arabic: كَذَّبُونِ
     translation: have denied me
     transliteration: kadhabūni
 ---

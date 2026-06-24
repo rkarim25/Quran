@@ -1,26 +1,26 @@
 ---
-arabic_ayat: وَيَخِرُّوۡنَ لِلۡاَذۡقَانِ يَبۡكُوۡنَ وَيَزِيۡدُهُمۡ خُشُوۡعًا ۩‏
+arabic_ayat: وَيَخِرُّونَ لِلۡأَذۡقَانِ يَبۡكُونَ وَيَزِيدُهُمۡ خُشُوعٗا۩
 sentence_translation: And they fall down upon their faces weeping, and it increases
   them in humility.”
 word_by_word:
   1:
-    arabic: وَيَخِرُّوۡنَ
+    arabic: وَيَخِرُّونَ
     translation: And they fall
     transliteration: wayakhirrūna
   2:
-    arabic: لِلۡاَذۡقَانِ
+    arabic: لِلۡأَذۡقَانِ
     translation: on their faces
     transliteration: lil'adhqāni
   3:
-    arabic: يَبۡكُوۡنَ
+    arabic: يَبۡكُونَ
     translation: weeping
     transliteration: yabkūna
   4:
-    arabic: وَيَزِيۡدُهُمۡ
+    arabic: وَيَزِيدُهُمۡ
     translation: and it increases them
     transliteration: wayazīduhum
   5:
-    arabic: خُشُوۡعًا ۩
+    arabic: خُشُوعٗا۩
     translation: (in) humility
     transliteration: khushūʿan
 ---

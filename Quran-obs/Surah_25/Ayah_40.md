@@ -1,6 +1,6 @@
 ---
-arabic_ayat: وَلَقَدۡ اَتَوۡا عَلَى الۡقَرۡيَةِ الَّتِىۡۤ اُمۡطِرَتۡ مَطَرَ السَّوۡءِ​
-  ؕ اَفَلَمۡ يَكُوۡنُوۡا يَرَوۡنَهَا ​ۚ بَلۡ كَانُوۡا لَا يَرۡجُوۡنَ نُشُوۡرًا‏
+arabic_ayat: وَلَقَدۡ أَتَوۡاْ عَلَى ٱلۡقَرۡيَةِ ٱلَّتِيٓ أُمۡطِرَتۡ مَطَرَ ٱلسَّوۡءِۚ
+  أَفَلَمۡ يَكُونُواْ يَرَوۡنَهَاۚ بَلۡ كَانُواْ لَا يَرۡجُونَ نُشُورٗا
 sentence_translation: They have certainly passed by the city ˹of Sodom˺, which had
   been showered with a dreadful rain ˹of stones˺. Have they not seen its ruins? But
   they do not expect to be resurrected.
@@ -10,7 +10,7 @@ word_by_word:
     translation: And verily
     transliteration: walaqad
   2:
-    arabic: اَتَوۡا
+    arabic: أَتَوۡاْ
     translation: they have come
     transliteration: ataw
   3:
@@ -18,15 +18,15 @@ word_by_word:
     translation: upon
     transliteration: ʿalā
   4:
-    arabic: الۡقَرۡيَةِ
+    arabic: ٱلۡقَرۡيَةِ
     translation: the town
     transliteration: l-qaryati
   5:
-    arabic: الَّتِىۡۤ
+    arabic: ٱلَّتِيٓ
     translation: which
     transliteration: allatī
   6:
-    arabic: اُمۡطِرَتۡ
+    arabic: أُمۡطِرَتۡ
     translation: was showered
     transliteration: um'ṭirat
   7:
@@ -34,19 +34,19 @@ word_by_word:
     translation: (with) a rain
     transliteration: maṭara
   8:
-    arabic: السَّوۡءِ​ ؕ
+    arabic: ٱلسَّوۡءِۚ
     translation: (of) evil
     transliteration: l-sawi
   9:
-    arabic: اَفَلَمۡ
+    arabic: أَفَلَمۡ
     translation: Then do not
     transliteration: afalam
   10:
-    arabic: يَكُوۡنُوۡا
+    arabic: يَكُونُواْ
     translation: they [were]
     transliteration: yakūnū
   11:
-    arabic: يَرَوۡنَهَا ​ۚ
+    arabic: يَرَوۡنَهَاۚ
     translation: see it
     transliteration: yarawnahā
   12:
@@ -54,7 +54,7 @@ word_by_word:
     translation: Nay
     transliteration: bal
   13:
-    arabic: كَانُوۡا
+    arabic: كَانُواْ
     translation: they are
     transliteration: kānū
   14:
@@ -62,11 +62,11 @@ word_by_word:
     translation: not
     transliteration: lā
   15:
-    arabic: يَرۡجُوۡنَ
+    arabic: يَرۡجُونَ
     translation: expecting
     transliteration: yarjūna
   16:
-    arabic: نُشُوۡرًا‏
+    arabic: نُشُورٗا
     translation: Resurrection
     transliteration: nushūran
 ---

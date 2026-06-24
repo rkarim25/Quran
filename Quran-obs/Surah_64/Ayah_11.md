@@ -1,48 +1,48 @@
 ---
-arabic_ayat: مَاۤ اَصَابَ مِنۡ مُّصِيۡبَةٍ اِلَّا بِاِذۡنِ اللّٰهِ​ؕ وَمَنۡ يُّؤۡمِنۡۢ
-  بِاللّٰهِ يَهۡدِ قَلۡبَهٗ​ؕ وَاللّٰهُ بِكُلِّ شَىۡءٍ عَلِيۡمٌ‏
+arabic_ayat: مَآ أَصَابَ مِن مُّصِيبَةٍ إِلَّا بِإِذۡنِ ٱللَّهِۗ وَمَن يُؤۡمِنۢ بِٱللَّهِ
+  يَهۡدِ قَلۡبَهُۥۚ وَٱللَّهُ بِكُلِّ شَيۡءٍ عَلِيمٞ
 sentence_translation: No calamity befalls ˹anyone˺ except by Allah’s Will. And whoever
   has faith in Allah, He will ˹rightly˺ guide their hearts ˹through adversity˺. And
   Allah has ˹perfect˺ knowledge of all things.
 word_by_word:
   1:
-    arabic: مَاۤ
+    arabic: مَآ
     translation: Not
     transliteration: mā
   2:
-    arabic: اَصَابَ
+    arabic: أَصَابَ
     translation: strikes
     transliteration: aṣāba
   3:
-    arabic: مِنۡ
+    arabic: مِن
     translation: any
     transliteration: min
   4:
-    arabic: مُّصِيۡبَةٍ
+    arabic: مُّصِيبَةٍ
     translation: disaster
     transliteration: muṣībatin
   5:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   6:
-    arabic: بِاِذۡنِ
+    arabic: بِإِذۡنِ
     translation: by (the) permission
     transliteration: bi-idh'ni
   7:
-    arabic: اللّٰهِ​ؕ
+    arabic: ٱللَّهِۗ
     translation: (of) Allah
     transliteration: l-lahi
   8:
-    arabic: وَمَنۡ
+    arabic: وَمَن
     translation: And whoever
     transliteration: waman
   9:
-    arabic: يُّؤۡمِنۡۢ
+    arabic: يُؤۡمِنۢ
     translation: believes
     transliteration: yu'min
   10:
-    arabic: بِاللّٰهِ
+    arabic: بِٱللَّهِ
     translation: in Allah
     transliteration: bil-lahi
   11:
@@ -50,11 +50,11 @@ word_by_word:
     translation: He guides
     transliteration: yahdi
   12:
-    arabic: قَلۡبَهٗ​ؕ
+    arabic: قَلۡبَهُۥۚ
     translation: his heart
     transliteration: qalbahu
   13:
-    arabic: وَاللّٰهُ
+    arabic: وَٱللَّهُ
     translation: And Allah
     transliteration: wal-lahu
   14:
@@ -62,11 +62,11 @@ word_by_word:
     translation: of every
     transliteration: bikulli
   15:
-    arabic: شَىۡءٍ
+    arabic: شَيۡءٍ
     translation: thing
     transliteration: shayin
   16:
-    arabic: عَلِيۡمٌ‏
+    arabic: عَلِيمٞ
     translation: (is) All-Knowing
     transliteration: ʿalīmun
 ---

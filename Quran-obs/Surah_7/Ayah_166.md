@@ -1,6 +1,6 @@
 ---
-arabic_ayat: فَلَمَّا عَتَوۡا عَنۡ مَّا نُهُوۡا عَنۡهُ قُلۡنَا لَهُمۡ كُوۡنُوۡا قِرَدَةً
-  خٰسِـٮِٕیْنَ‏
+arabic_ayat: فَلَمَّا عَتَوۡاْ عَن مَّا نُهُواْ عَنۡهُ قُلۡنَا لَهُمۡ كُونُواْ قِرَدَةً
+  خَٰسِـِٔينَ
 sentence_translation: But when they stubbornly persisted in violation, We said to
   them, “Be disgraced apes!” 
 word_by_word:
@@ -9,11 +9,11 @@ word_by_word:
     translation: So when
     transliteration: falammā
   2:
-    arabic: عَتَوۡا
+    arabic: عَتَوۡاْ
     translation: they exceeded all bounds
     transliteration: ʿataw
   3:
-    arabic: عَنۡ
+    arabic: عَن
     translation: about
     transliteration: ʿan
   4:
@@ -21,7 +21,7 @@ word_by_word:
     translation: what
     transliteration: mā
   5:
-    arabic: نُهُوۡا
+    arabic: نُهُواْ
     translation: they were forbidden
     transliteration: nuhū
   6:
@@ -37,7 +37,7 @@ word_by_word:
     translation: to them
     transliteration: lahum
   9:
-    arabic: كُوۡنُوۡا
+    arabic: كُونُواْ
     translation: Be
     transliteration: kūnū
   10:
@@ -45,7 +45,7 @@ word_by_word:
     translation: apes
     transliteration: qiradatan
   11:
-    arabic: خٰسِـٮِٕیْنَ‏
+    arabic: خَٰسِـِٔينَ
     translation: despised
     transliteration: khāsiīna
 ---

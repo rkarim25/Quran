@@ -1,5 +1,5 @@
 ---
-arabic_ayat: بَلِ اللّٰهُ مَوۡلٰٮكُمۡ​ۚ وَهُوَ خَيۡرُ النّٰصِرِيۡنَ‏
+arabic_ayat: بَلِ ٱللَّهُ مَوۡلَىٰكُمۡۖ وَهُوَ خَيۡرُ ٱلنَّٰصِرِينَ
 sentence_translation: But no! Allah is your Guardian, and He is the best Helper.
 word_by_word:
   1:
@@ -7,11 +7,11 @@ word_by_word:
     translation: Nay
     transliteration: bali
   2:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   3:
-    arabic: مَوۡلٰٮكُمۡ​ۚ
+    arabic: مَوۡلَىٰكُمۡۖ
     translation: (is) your Protector
     transliteration: mawlākum
   4:
@@ -23,7 +23,7 @@ word_by_word:
     translation: (is the) best
     transliteration: khayru
   6:
-    arabic: النّٰصِرِيۡنَ‏
+    arabic: ٱلنَّٰصِرِينَ
     translation: (of) the Helpers
     transliteration: l-nāṣirīna
 ---

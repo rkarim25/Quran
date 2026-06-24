@@ -1,6 +1,6 @@
 ---
-arabic_ayat: وَكُلَّ اِنۡسَانٍ اَلۡزَمۡنٰهُ طٰۤٮِٕرَهٗ فِىۡ عُنُقِهٖ​ؕ وَنُخۡرِجُ
-  لَهٗ يَوۡمَ الۡقِيٰمَةِ كِتٰبًا يَّلۡقٰٮهُ مَنۡشُوۡرًا‏
+arabic_ayat: وَكُلَّ إِنسَٰنٍ أَلۡزَمۡنَٰهُ طَٰٓئِرَهُۥ فِي عُنُقِهِۦۖ وَنُخۡرِجُ
+  لَهُۥ يَوۡمَ ٱلۡقِيَٰمَةِ كِتَٰبٗا يَلۡقَىٰهُ مَنشُورًا
 sentence_translation: We have bound every human’s destiny to their neck. And on the
   Day of Judgment We will bring forth to each ˹person˺ a record which they will find
   laid open.
@@ -10,23 +10,23 @@ word_by_word:
     translation: And (for) every
     transliteration: wakulla
   2:
-    arabic: اِنۡسَانٍ
+    arabic: إِنسَٰنٍ
     translation: man
     transliteration: insānin
   3:
-    arabic: اَلۡزَمۡنٰهُ
+    arabic: أَلۡزَمۡنَٰهُ
     translation: We have fastened to him
     transliteration: alzamnāhu
   4:
-    arabic: طٰۤٮِٕرَهٗ
+    arabic: طَٰٓئِرَهُۥ
     translation: his fate
     transliteration: ṭāirahu
   5:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   6:
-    arabic: عُنُقِهٖ​ؕ
+    arabic: عُنُقِهِۦۖ
     translation: his neck
     transliteration: ʿunuqihi
   7:
@@ -34,7 +34,7 @@ word_by_word:
     translation: and We will bring forth
     transliteration: wanukh'riju
   8:
-    arabic: لَهٗ
+    arabic: لَهُۥ
     translation: for him
     transliteration: lahu
   9:
@@ -42,19 +42,19 @@ word_by_word:
     translation: (on the) Day
     transliteration: yawma
   10:
-    arabic: الۡقِيٰمَةِ
+    arabic: ٱلۡقِيَٰمَةِ
     translation: (of) the Resurrection
     transliteration: l-qiyāmati
   11:
-    arabic: كِتٰبًا
+    arabic: كِتَٰبٗا
     translation: a record
     transliteration: kitāban
   12:
-    arabic: يَّلۡقٰٮهُ
+    arabic: يَلۡقَىٰهُ
     translation: which he will find
     transliteration: yalqāhu
   13:
-    arabic: مَنۡشُوۡرًا‏
+    arabic: مَنشُورًا
     translation: wide open
     transliteration: manshūran
 ---

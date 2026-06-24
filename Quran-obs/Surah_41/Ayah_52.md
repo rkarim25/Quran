@@ -1,6 +1,6 @@
 ---
-arabic_ayat: قُلۡ اَرَءَيۡتُمۡ اِنۡ كَانَ مِنۡ عِنۡدِ اللّٰهِ ثُمَّ كَفَرۡتُمۡ بِهٖ
-  مَنۡ اَضَلُّ مِمَّنۡ هُوَ فِىۡ شِقَاقٍۢ بَعِيۡدٍ‏
+arabic_ayat: قُلۡ أَرَءَيۡتُمۡ إِن كَانَ مِنۡ عِندِ ٱللَّهِ ثُمَّ كَفَرۡتُم بِهِۦ
+  مَنۡ أَضَلُّ مِمَّنۡ هُوَ فِي شِقَاقِۭ بَعِيدٖ
 sentence_translation: 'Ask ˹them, O  Prophet˺, “Imagine if this ˹Quran˺ is ˹truly˺
   from Allah and you deny it: who can be more astray than those who have gone too
   far in opposition ˹to the truth˺?”'
@@ -10,11 +10,11 @@ word_by_word:
     translation: Say
     transliteration: qul
   2:
-    arabic: اَرَءَيۡتُمۡ
+    arabic: أَرَءَيۡتُمۡ
     translation: 'You see '
     transliteration: ara-aytum
   3:
-    arabic: اِنۡ
+    arabic: إِن
     translation: if
     transliteration: in
   4:
@@ -26,11 +26,11 @@ word_by_word:
     translation: from
     transliteration: min
   6:
-    arabic: عِنۡدِ
+    arabic: عِندِ
     translation: from
     transliteration: ʿindi
   7:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   8:
@@ -38,11 +38,11 @@ word_by_word:
     translation: then
     transliteration: thumma
   9:
-    arabic: كَفَرۡتُمۡ
+    arabic: كَفَرۡتُم
     translation: you disbelieve
     transliteration: kafartum
   10:
-    arabic: بِهٖ
+    arabic: بِهِۦ
     translation: in it
     transliteration: bihi
   11:
@@ -50,7 +50,7 @@ word_by_word:
     translation: who
     transliteration: man
   12:
-    arabic: اَضَلُّ
+    arabic: أَضَلُّ
     translation: (is) more astray
     transliteration: aḍallu
   13:
@@ -62,15 +62,15 @@ word_by_word:
     translation: he
     transliteration: huwa
   15:
-    arabic: فِىۡ
+    arabic: فِي
     translation: (is) in
     transliteration: fī
   16:
-    arabic: شِقَاقٍۢ
+    arabic: شِقَاقِۭ
     translation: opposition
     transliteration: shiqāqin
   17:
-    arabic: بَعِيۡدٍ‏
+    arabic: بَعِيدٖ
     translation: far
     transliteration: baʿīdin
 ---

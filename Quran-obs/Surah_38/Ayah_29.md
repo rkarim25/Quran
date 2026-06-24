@@ -1,31 +1,31 @@
 ---
-arabic_ayat: كِتٰبٌ اَنۡزَلۡنٰهُ اِلَيۡكَ مُبٰرَكٌ لِّيَدَّبَّرُوۡۤا اٰيٰتِهٖ وَلِيَتَذَكَّرَ
-  اُولُوا الۡاَلۡبَابِ‏
+arabic_ayat: كِتَٰبٌ أَنزَلۡنَٰهُ إِلَيۡكَ مُبَٰرَكٞ لِّيَدَّبَّرُوٓاْ ءَايَٰتِهِۦ
+  وَلِيَتَذَكَّرَ أُوْلُواْ ٱلۡأَلۡبَٰبِ
 sentence_translation: ˹This is˺ a blessed Book which We have revealed to you ˹O Prophet˺
   so that they may contemplate its verses, and people of reason may be mindful.
 word_by_word:
   1:
-    arabic: كِتٰبٌ
+    arabic: كِتَٰبٌ
     translation: (This is) a Book
     transliteration: kitābun
   2:
-    arabic: اَنۡزَلۡنٰهُ
+    arabic: أَنزَلۡنَٰهُ
     translation: We have revealed it
     transliteration: anzalnāhu
   3:
-    arabic: اِلَيۡكَ
+    arabic: إِلَيۡكَ
     translation: to you
     transliteration: ilayka
   4:
-    arabic: مُبٰرَكٌ
+    arabic: مُبَٰرَكٞ
     translation: blessed
     transliteration: mubārakun
   5:
-    arabic: لِّيَدَّبَّرُوۡۤا
+    arabic: لِّيَدَّبَّرُوٓاْ ءَ
     translation: that they may ponder
     transliteration: liyaddabbarū
   6:
-    arabic: اٰيٰتِهٖ
+    arabic: ايَٰتِهِۦ
     translation: (over) its Verses
     transliteration: āyātihi
   7:
@@ -33,11 +33,11 @@ word_by_word:
     translation: and may be reminded
     transliteration: waliyatadhakkara
   8:
-    arabic: اُولُوا
+    arabic: أُوْلُواْ
     translation: those of understanding
     transliteration: ulū
   9:
-    arabic: الۡاَلۡبَابِ‏
+    arabic: ٱلۡأَلۡبَٰبِ
     translation: those of understanding
     transliteration: l-albābi
 ---

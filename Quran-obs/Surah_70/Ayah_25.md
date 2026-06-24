@@ -1,13 +1,13 @@
 ---
-arabic_ayat: لِّلسَّآٮِٕلِ وَالۡمَحۡرُوۡمِۙ‏
+arabic_ayat: لِّلسَّآئِلِ وَٱلۡمَحۡرُومِ
 sentence_translation: to the beggar and the poor;
 word_by_word:
   1:
-    arabic: لِّلسَّآٮِٕلِ
+    arabic: لِّلسَّآئِلِ
     translation: For the one who asks
     transliteration: lilssāili
   2:
-    arabic: وَالۡمَحۡرُوۡمِۙ‏
+    arabic: وَٱلۡمَحۡرُومِ
     translation: and the deprived
     transliteration: wal-maḥrūmi
 ---

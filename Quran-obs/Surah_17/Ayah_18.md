@@ -1,13 +1,12 @@
 ---
-arabic_ayat: "مَنۡ كَانَ يُرِيۡدُ الۡعَاجِلَةَ عَجَّلۡنَا لَهٗ فِيۡهَا مَا نَشَآءُ\
-  \ لِمَنۡ نُّرِيۡدُ ثُمَّ جَعَلۡنَا لَهٗ جَهَنَّمَ​ۚ يَصۡلٰٮهَا مَذۡمُوۡمًا مَّدۡحُوۡرًا‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: مَّن كَانَ يُرِيدُ ٱلۡعَاجِلَةَ عَجَّلۡنَا لَهُۥ فِيهَا مَا نَشَآءُ
+  لِمَن نُّرِيدُ ثُمَّ جَعَلۡنَا لَهُۥ جَهَنَّمَ يَصۡلَىٰهَا مَذۡمُومٗا مَّدۡحُورٗا
 sentence_translation: Whoever desires this fleeting world ˹alone˺, We hasten in it
   whatever We please to whoever We will; then We destine them for Hell, where they
   will burn, condemned and rejected.
 word_by_word:
   1:
-    arabic: مَنۡ
+    arabic: مَّن
     translation: Whoever
     transliteration: man
   2:
@@ -15,11 +14,11 @@ word_by_word:
     translation: should
     transliteration: kāna
   3:
-    arabic: يُرِيۡدُ
+    arabic: يُرِيدُ
     translation: desire
     transliteration: yurīdu
   4:
-    arabic: الۡعَاجِلَةَ
+    arabic: ٱلۡعَاجِلَةَ
     translation: the immediate
     transliteration: l-ʿājilata
   5:
@@ -27,11 +26,11 @@ word_by_word:
     translation: We hasten
     transliteration: ʿajjalnā
   6:
-    arabic: لَهٗ
+    arabic: لَهُۥ
     translation: for him
     transliteration: lahu
   7:
-    arabic: فِيۡهَا
+    arabic: فِيهَا
     translation: in it
     transliteration: fīhā
   8:
@@ -43,11 +42,11 @@ word_by_word:
     translation: We will
     transliteration: nashāu
   10:
-    arabic: لِمَنۡ
+    arabic: لِمَن
     translation: to whom
     transliteration: liman
   11:
-    arabic: نُّرِيۡدُ
+    arabic: نُّرِيدُ
     translation: We intend
     transliteration: nurīdu
   12:
@@ -59,23 +58,23 @@ word_by_word:
     translation: We have made
     transliteration: jaʿalnā
   14:
-    arabic: لَهٗ
+    arabic: لَهُۥ
     translation: for him
     transliteration: lahu
   15:
-    arabic: جَهَنَّمَ​ۚ
+    arabic: جَهَنَّمَ
     translation: Hell
     transliteration: jahannama
   16:
-    arabic: يَصۡلٰٮهَا
+    arabic: يَصۡلَىٰهَا
     translation: he will burn
     transliteration: yaṣlāhā
   17:
-    arabic: مَذۡمُوۡمًا
+    arabic: مَذۡمُومٗا
     translation: disgraced
     transliteration: madhmūman
   18:
-    arabic: "مَّدۡحُوۡرًا‏ \uFEFF\uFEFF"
+    arabic: مَّدۡحُورٗا
     translation: rejected
     transliteration: madḥūran
 ---

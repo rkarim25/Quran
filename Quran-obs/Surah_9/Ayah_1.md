@@ -1,11 +1,11 @@
 ---
-arabic_ayat: بَرَآءَةٌ مِّنَ اللّٰهِ وَرَسُوۡلِهٖۤ اِلَى الَّذِيۡنَ عَاهَدتُّمۡ مِّنَ
-  الۡمُشۡرِكِيۡنَ ؕ‏
+arabic_ayat: بَرَآءَةٞ مِّنَ ٱللَّهِ وَرَسُولِهِۦٓ إِلَى ٱلَّذِينَ عَٰهَدتُّم مِّنَ
+  ٱلۡمُشۡرِكِينَ
 sentence_translation: '˹This is˺ a discharge from all obligations, by Allah and His
   Messenger, to the polytheists you ˹believers˺ have entered into treaties with:'
 word_by_word:
   1:
-    arabic: بَرَآءَةٌ
+    arabic: بَرَآءَةٞ
     translation: Freedom from obligations
     transliteration: barāatun
   2:
@@ -13,23 +13,23 @@ word_by_word:
     translation: from
     transliteration: mina
   3:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   4:
-    arabic: وَرَسُوۡلِهٖۤ
+    arabic: وَرَسُولِهِۦٓ
     translation: and His Messenger
     transliteration: warasūlihi
   5:
-    arabic: اِلَى
+    arabic: إِلَى
     translation: to
     transliteration: ilā
   6:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those (with) whom
     transliteration: alladhīna
   7:
-    arabic: عَاهَدتُّمۡ
+    arabic: عَٰهَدتُّم
     translation: you made a covenant
     transliteration: ʿāhadttum
   8:
@@ -37,7 +37,7 @@ word_by_word:
     translation: from
     transliteration: mina
   9:
-    arabic: الۡمُشۡرِكِيۡنَ ؕ‏
+    arabic: ٱلۡمُشۡرِكِينَ
     translation: the polytheists
     transliteration: l-mush'rikīna
 ---

@@ -1,25 +1,25 @@
 ---
-arabic_ayat: الٓرٰ​ تِلۡكَ اٰيٰتُ الۡكِتٰبِ الۡمُبِيۡن‏
+arabic_ayat: الٓرۚ تِلۡكَ ءَايَٰتُ ٱلۡكِتَٰبِ ٱلۡمُبِينِ
 sentence_translation: Alif-Lãm-Ra. These are the verses of the clear Book.
 word_by_word:
   1:
-    arabic: الٓرٰ​
+    arabic: الٓرۚ
     translation: Alif Laam Ra
     transliteration: alif-lam-ra
   2:
-    arabic: تِلۡكَ
+    arabic: تِلۡكَ ءَ
     translation: These
     transliteration: til'ka
   3:
-    arabic: اٰيٰتُ
+    arabic: ايَٰتُ
     translation: (are the) Verses
     transliteration: āyātu
   4:
-    arabic: الۡكِتٰبِ
+    arabic: ٱلۡكِتَٰبِ
     translation: (of) the Book
     transliteration: l-kitābi
   5:
-    arabic: الۡمُبِيۡن‏
+    arabic: ٱلۡمُبِينِ
     translation: '[the] clear'
     transliteration: l-mubīni
 ---

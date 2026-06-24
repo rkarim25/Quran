@@ -1,9 +1,9 @@
 ---
-arabic_ayat: وَقَالَ لَهُمۡ نَبِيُّهُمۡ اِنَّ اللّٰهَ قَدۡ بَعَثَ لَـکُمۡ طَالُوۡتَ
-  مَلِكًا ​ؕ قَالُوۡٓا اَنّٰى يَكُوۡنُ لَهُ الۡمُلۡكُ عَلَيۡنَا وَنَحۡنُ اَحَقُّ بِالۡمُلۡكِ
-  مِنۡهُ وَلَمۡ يُؤۡتَ سَعَةً مِّنَ الۡمَالِ​ؕ قَالَ اِنَّ اللّٰهَ اصۡطَفٰٮهُ عَلَيۡکُمۡ
-  وَزَادَهٗ بَسۡطَةً فِى الۡعِلۡمِ وَ الۡجِسۡمِ​ؕ وَاللّٰهُ يُؤۡتِىۡ مُلۡکَهٗ مَنۡ
-  يَّشَآءُ ​ؕ وَاللّٰهُ وَاسِعٌ عَلِيۡمٌ‏
+arabic_ayat: وَقَالَ لَهُمۡ نَبِيُّهُمۡ إِنَّ ٱللَّهَ قَدۡ بَعَثَ لَكُمۡ طَالُوتَ
+  مَلِكٗاۚ قَالُوٓاْ أَنَّىٰ يَكُونُ لَهُ ٱلۡمُلۡكُ عَلَيۡنَا وَنَحۡنُ أَحَقُّ بِٱلۡمُلۡكِ
+  مِنۡهُ وَلَمۡ يُؤۡتَ سَعَةٗ مِّنَ ٱلۡمَالِۚ قَالَ إِنَّ ٱللَّهَ ٱصۡطَفَىٰهُ عَلَيۡكُمۡ
+  وَزَادَهُۥ بَسۡطَةٗ فِي ٱلۡعِلۡمِ وَٱلۡجِسۡمِۖ وَٱللَّهُ يُؤۡتِي مُلۡكَهُۥ مَن يَشَآءُۚ
+  وَٱللَّهُ وَٰسِعٌ عَلِيمٞ
 sentence_translation: Their prophet told them, “Allah has appointed Saul to be your
   king.” They protested, “How can he be our king when some of us are more deserving
   of kingship than he, and he has not been blessed with vast riches?” He replied,
@@ -23,11 +23,11 @@ word_by_word:
     translation: their Prophet
     transliteration: nabiyyuhum
   4:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   5:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   6:
@@ -39,27 +39,27 @@ word_by_word:
     translation: raised
     transliteration: baʿatha
   8:
-    arabic: لَـکُمۡ
+    arabic: لَكُمۡ
     translation: for you
     transliteration: lakum
   9:
-    arabic: طَالُوۡتَ
+    arabic: طَالُوتَ
     translation: Talut
     transliteration: ṭālūta
   10:
-    arabic: مَلِكًا ​ؕ
+    arabic: مَلِكٗاۚ
     translation: (as) a king
     transliteration: malikan
   11:
-    arabic: قَالُوۡٓا
+    arabic: قَالُوٓاْ
     translation: They said
     transliteration: qālū
   12:
-    arabic: اَنّٰى
+    arabic: أَنَّىٰ
     translation: How
     transliteration: annā
   13:
-    arabic: يَكُوۡنُ
+    arabic: يَكُونُ
     translation: can be
     transliteration: yakūnu
   14:
@@ -67,7 +67,7 @@ word_by_word:
     translation: for him
     transliteration: lahu
   15:
-    arabic: الۡمُلۡكُ
+    arabic: ٱلۡمُلۡكُ
     translation: the kingship
     transliteration: l-mul'ku
   16:
@@ -79,11 +79,11 @@ word_by_word:
     translation: while we
     transliteration: wanaḥnu
   18:
-    arabic: اَحَقُّ
+    arabic: أَحَقُّ
     translation: (are) more entitled
     transliteration: aḥaqqu
   19:
-    arabic: بِالۡمُلۡكِ
+    arabic: بِٱلۡمُلۡكِ
     translation: to kingship
     transliteration: bil-mul'ki
   20:
@@ -99,7 +99,7 @@ word_by_word:
     translation: he has been given
     transliteration: yu'ta
   23:
-    arabic: سَعَةً
+    arabic: سَعَةٗ
     translation: abundance
     transliteration: saʿatan
   24:
@@ -107,7 +107,7 @@ word_by_word:
     translation: of
     transliteration: mina
   25:
-    arabic: الۡمَالِ​ؕ
+    arabic: ٱلۡمَالِۚ
     translation: '[the] wealth'
     transliteration: l-māli
   26:
@@ -115,71 +115,71 @@ word_by_word:
     translation: He said
     transliteration: qāla
   27:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   28:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   29:
-    arabic: اصۡطَفٰٮهُ
+    arabic: ٱصۡطَفَىٰهُ
     translation: has chosen him
     transliteration: iṣ'ṭafāhu
   30:
-    arabic: عَلَيۡکُمۡ
+    arabic: عَلَيۡكُمۡ
     translation: over you
     transliteration: ʿalaykum
   31:
-    arabic: وَزَادَهٗ
+    arabic: وَزَادَهُۥ
     translation: and increased him
     transliteration: wazādahu
   32:
-    arabic: بَسۡطَةً
+    arabic: بَسۡطَةٗ
     translation: abundantly
     transliteration: basṭatan
   33:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   34:
-    arabic: الۡعِلۡمِ
+    arabic: ٱلۡعِلۡمِ
     translation: '[the] knowledge'
     transliteration: l-ʿil'mi
   35:
-    arabic: وَ الۡجِسۡمِ​ؕ
+    arabic: وَٱلۡجِسۡمِۖ
     translation: and [the] physique
     transliteration: wal-jis'mi
   36:
-    arabic: وَاللّٰهُ
+    arabic: وَٱللَّهُ
     translation: And Allah
     transliteration: wal-lahu
   37:
-    arabic: يُؤۡتِىۡ
+    arabic: يُؤۡتِي
     translation: gives
     transliteration: yu'tī
   38:
-    arabic: مُلۡکَهٗ
+    arabic: مُلۡكَهُۥ
     translation: His kingdom
     transliteration: mul'kahu
   39:
-    arabic: مَنۡ
+    arabic: مَن
     translation: (to) whom
     transliteration: man
   40:
-    arabic: يَّشَآءُ ​ؕ
+    arabic: يَشَآءُۚ
     translation: He wills
     transliteration: yashāu
   41:
-    arabic: وَاللّٰهُ
+    arabic: وَٱللَّهُ
     translation: And Allah
     transliteration: wal-lahu
   42:
-    arabic: وَاسِعٌ
+    arabic: وَٰسِعٌ
     translation: (is) All-Encompassing
     transliteration: wāsiʿun
   43:
-    arabic: عَلِيۡمٌ‏
+    arabic: عَلِيمٞ
     translation: All-Knowing
     transliteration: ʿalīmun
 ---

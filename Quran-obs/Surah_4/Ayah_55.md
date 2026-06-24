@@ -1,31 +1,31 @@
 ---
-arabic_ayat: فَمِنۡهُمۡ مَّنۡ اٰمَنَ بِهٖ وَمِنۡهُمۡ مَّنۡ صَدَّ عَنۡهُ​ ؕ وَكَفٰى
-  بِجَهَـنَّمَ سَعِيۡرًا‏
+arabic_ayat: فَمِنۡهُم مَّنۡ ءَامَنَ بِهِۦ وَمِنۡهُم مَّن صَدَّ عَنۡهُۚ وَكَفَىٰ بِجَهَنَّمَ
+  سَعِيرًا
 sentence_translation: Yet some believed in him while others turned away from him. Hell
   is sufficient as a torment!
 word_by_word:
   1:
-    arabic: فَمِنۡهُمۡ
+    arabic: فَمِنۡهُم
     translation: Then of them
     transliteration: famin'hum
   2:
-    arabic: مَّنۡ
+    arabic: مَّنۡ ءَ
     translation: (are some) who
     transliteration: man
   3:
-    arabic: اٰمَنَ
+    arabic: امَنَ
     translation: believed
     transliteration: āmana
   4:
-    arabic: بِهٖ
+    arabic: بِهِۦ
     translation: in him
     transliteration: bihi
   5:
-    arabic: وَمِنۡهُمۡ
+    arabic: وَمِنۡهُم
     translation: and of them
     transliteration: wamin'hum
   6:
-    arabic: مَّنۡ
+    arabic: مَّن
     translation: (are some) who
     transliteration: man
   7:
@@ -33,19 +33,19 @@ word_by_word:
     translation: turned away
     transliteration: ṣadda
   8:
-    arabic: عَنۡهُ​ ؕ
+    arabic: عَنۡهُۚ
     translation: from him
     transliteration: ʿanhu
   9:
-    arabic: وَكَفٰى
+    arabic: وَكَفَىٰ
     translation: and sufficient
     transliteration: wakafā
   10:
-    arabic: بِجَهَـنَّمَ
+    arabic: بِجَهَنَّمَ
     translation: (is) Hell
     transliteration: bijahannama
   11:
-    arabic: سَعِيۡرًا‏
+    arabic: سَعِيرًا
     translation: (as a) Blazing Fire
     transliteration: saʿīran
 ---

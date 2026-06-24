@@ -1,6 +1,6 @@
 ---
-arabic_ayat: لَا يَذُوۡقُوۡنَ فِيۡهَا الۡمَوۡتَ اِلَّا الۡمَوۡتَةَ الۡاُوۡلٰى​ ۚ وَوَقٰٮهُمۡ
-  عَذَابَ الۡجَحِيۡمِۙ‏
+arabic_ayat: لَا يَذُوقُونَ فِيهَا ٱلۡمَوۡتَ إِلَّا ٱلۡمَوۡتَةَ ٱلۡأُولَىٰۖ وَوَقَىٰهُمۡ
+  عَذَابَ ٱلۡجَحِيمِ
 sentence_translation: There they will never taste death, beyond the first death. And
   He will protect them from the punishment of the Hellfire—
 word_by_word:
@@ -9,31 +9,31 @@ word_by_word:
     translation: Not
     transliteration: lā
   2:
-    arabic: يَذُوۡقُوۡنَ
+    arabic: يَذُوقُونَ
     translation: they will taste
     transliteration: yadhūqūna
   3:
-    arabic: فِيۡهَا
+    arabic: فِيهَا
     translation: therein
     transliteration: fīhā
   4:
-    arabic: الۡمَوۡتَ
+    arabic: ٱلۡمَوۡتَ
     translation: the death
     transliteration: l-mawta
   5:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   6:
-    arabic: الۡمَوۡتَةَ
+    arabic: ٱلۡمَوۡتَةَ
     translation: the death
     transliteration: l-mawtata
   7:
-    arabic: الۡاُوۡلٰى​ ۚ
+    arabic: ٱلۡأُولَىٰۖ
     translation: the first
     transliteration: l-ūlā
   8:
-    arabic: وَوَقٰٮهُمۡ
+    arabic: وَوَقَىٰهُمۡ
     translation: And He will protect them
     transliteration: wawaqāhum
   9:
@@ -41,7 +41,7 @@ word_by_word:
     translation: (from the) punishment
     transliteration: ʿadhāba
   10:
-    arabic: الۡجَحِيۡمِۙ‏
+    arabic: ٱلۡجَحِيمِ
     translation: (of) the Hellfire
     transliteration: l-jaḥīmi
 ---

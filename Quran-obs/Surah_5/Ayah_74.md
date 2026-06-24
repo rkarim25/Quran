@@ -1,39 +1,39 @@
 ---
-arabic_ayat: اَفَلَا يَتُوۡبُوۡنَ اِلَى اللّٰهِ وَيَسۡتَغۡفِرُوۡنَهٗ​ؕ وَاللّٰهُ غَفُوۡرٌ
-  رَّحِيۡمٌ‏
+arabic_ayat: أَفَلَا يَتُوبُونَ إِلَى ٱللَّهِ وَيَسۡتَغۡفِرُونَهُۥۚ وَٱللَّهُ غَفُورٞ
+  رَّحِيمٞ
 sentence_translation: Will they not turn to Allah in repentance and seek His forgiveness?
   And Allah is All-Forgiving, Most Merciful.
 word_by_word:
   1:
-    arabic: اَفَلَا
+    arabic: أَفَلَا
     translation: So will not
     transliteration: afalā
   2:
-    arabic: يَتُوۡبُوۡنَ
+    arabic: يَتُوبُونَ
     translation: they turn in repentance
     transliteration: yatūbūna
   3:
-    arabic: اِلَى
+    arabic: إِلَى
     translation: to
     transliteration: ilā
   4:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   5:
-    arabic: وَيَسۡتَغۡفِرُوۡنَهٗ​ؕ
+    arabic: وَيَسۡتَغۡفِرُونَهُۥۚ
     translation: and seek His forgiveness
     transliteration: wayastaghfirūnahu
   6:
-    arabic: وَاللّٰهُ
+    arabic: وَٱللَّهُ
     translation: And Allah
     transliteration: wal-lahu
   7:
-    arabic: غَفُوۡرٌ
+    arabic: غَفُورٞ
     translation: (is) Oft-Forgiving
     transliteration: ghafūrun
   8:
-    arabic: رَّحِيۡمٌ‏
+    arabic: رَّحِيمٞ
     translation: Most Merciful
     transliteration: raḥīmun
 ---

@@ -1,5 +1,5 @@
 ---
-arabic_ayat: لِيَوۡمِ الۡفَصۡلِ​ۚ‏
+arabic_ayat: لِيَوۡمِ ٱلۡفَصۡلِ
 sentence_translation: For the Day of ˹Final˺ Decision!
 word_by_word:
   1:
@@ -7,7 +7,7 @@ word_by_word:
     translation: For (the) Day
     transliteration: liyawmi
   2:
-    arabic: الۡفَصۡلِ​ۚ‏
+    arabic: ٱلۡفَصۡلِ
     translation: (of) Judgment
     transliteration: l-faṣli
 ---

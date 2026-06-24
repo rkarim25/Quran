@@ -1,9 +1,9 @@
 ---
-arabic_ayat: لِّلۡكٰفِرِيۡنَ لَيۡسَ لَهٗ دَافِعٌ ۙ‏
+arabic_ayat: لِّلۡكَٰفِرِينَ لَيۡسَ لَهُۥ دَافِعٞ
 sentence_translation: for the disbelievers—to be averted by none—
 word_by_word:
   1:
-    arabic: لِّلۡكٰفِرِيۡنَ
+    arabic: لِّلۡكَٰفِرِينَ
     translation: To the disbelievers
     transliteration: lil'kāfirīna
   2:
@@ -11,11 +11,11 @@ word_by_word:
     translation: not
     transliteration: laysa
   3:
-    arabic: لَهٗ
+    arabic: لَهُۥ
     translation: of it
     transliteration: lahu
   4:
-    arabic: دَافِعٌ ۙ‏
+    arabic: دَافِعٞ
     translation: any preventer
     transliteration: dāfiʿun
 ---

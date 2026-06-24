@@ -1,14 +1,14 @@
 ---
-arabic_ayat: وَاِنَّهٗ لَفِىۡ زُبُرِ الۡاَوَّلِيۡنَ‏
+arabic_ayat: وَإِنَّهُۥ لَفِي زُبُرِ ٱلۡأَوَّلِينَ
 sentence_translation: And it has indeed been ˹foretold˺ in the Scriptures of those
   before.
 word_by_word:
   1:
-    arabic: وَاِنَّهٗ
+    arabic: وَإِنَّهُۥ
     translation: And indeed, it
     transliteration: wa-innahu
   2:
-    arabic: لَفِىۡ
+    arabic: لَفِي
     translation: surely, (is) in
     transliteration: lafī
   3:
@@ -16,7 +16,7 @@ word_by_word:
     translation: (the) Scriptures
     transliteration: zuburi
   4:
-    arabic: الۡاَوَّلِيۡنَ‏
+    arabic: ٱلۡأَوَّلِينَ
     translation: (of) the former (people)
     transliteration: l-awalīna
 ---

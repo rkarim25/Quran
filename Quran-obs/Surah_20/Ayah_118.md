@@ -1,25 +1,25 @@
 ---
-arabic_ayat: اِنَّ لَـكَ اَلَّا تَجُوۡعَ فِيۡهَا وَلَا تَعۡرٰىۙ‏
+arabic_ayat: إِنَّ لَكَ أَلَّا تَجُوعَ فِيهَا وَلَا تَعۡرَىٰ
 sentence_translation: Here it is guaranteed that you will never go hungry or unclothed,
 word_by_word:
   1:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   2:
-    arabic: لَـكَ
+    arabic: لَكَ
     translation: for you
     transliteration: laka
   3:
-    arabic: اَلَّا
+    arabic: أَلَّا
     translation: that not
     transliteration: allā
   4:
-    arabic: تَجُوۡعَ
+    arabic: تَجُوعَ
     translation: you will be hungry
     transliteration: tajūʿa
   5:
-    arabic: فِيۡهَا
+    arabic: فِيهَا
     translation: therein
     transliteration: fīhā
   6:
@@ -27,7 +27,7 @@ word_by_word:
     translation: and not
     transliteration: walā
   7:
-    arabic: تَعۡرٰىۙ‏
+    arabic: تَعۡرَىٰ
     translation: you will be unclothed
     transliteration: taʿrā
 ---

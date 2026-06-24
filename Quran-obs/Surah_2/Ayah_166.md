@@ -1,24 +1,24 @@
 ---
-arabic_ayat: اِذۡ تَبَرَّاَ الَّذِيۡنَ اتُّبِعُوۡا مِنَ الَّذِيۡنَ اتَّبَعُوۡا وَرَاَوُا
-  الۡعَذَابَ وَ تَقَطَّعَتۡ بِهِمُ الۡاَسۡبَابُ‏
+arabic_ayat: إِذۡ تَبَرَّأَ ٱلَّذِينَ ٱتُّبِعُواْ مِنَ ٱلَّذِينَ ٱتَّبَعُواْ وَرَأَوُاْ
+  ٱلۡعَذَابَ وَتَقَطَّعَتۡ بِهِمُ ٱلۡأَسۡبَابُ
 sentence_translation: ˹Consider the Day˺ when those who misled others will disown
   their followers—when they face the torment—and the bonds that united them will be
   cut off.
 word_by_word:
   1:
-    arabic: اِذۡ
+    arabic: إِذۡ
     translation: When
     transliteration: idh
   2:
-    arabic: تَبَرَّاَ
+    arabic: تَبَرَّأَ
     translation: will disown
     transliteration: tabarra-a
   3:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   4:
-    arabic: اتُّبِعُوۡا
+    arabic: ٱتُّبِعُواْ
     translation: were followed
     transliteration: ittubiʿū
   5:
@@ -26,23 +26,23 @@ word_by_word:
     translation: '[from]'
     transliteration: mina
   6:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   7:
-    arabic: اتَّبَعُوۡا
+    arabic: ٱتَّبَعُواْ
     translation: followed
     transliteration: ittabaʿū
   8:
-    arabic: وَرَاَوُا
+    arabic: وَرَأَوُاْ
     translation: and they will see
     transliteration: wara-awū
   9:
-    arabic: الۡعَذَابَ
+    arabic: ٱلۡعَذَابَ
     translation: the punishment
     transliteration: l-ʿadhāba
   10:
-    arabic: وَ تَقَطَّعَتۡ
+    arabic: وَتَقَطَّعَتۡ
     translation: '[and] will be cut off'
     transliteration: wataqaṭṭaʿat
   11:
@@ -50,7 +50,7 @@ word_by_word:
     translation: for them
     transliteration: bihimu
   12:
-    arabic: الۡاَسۡبَابُ‏
+    arabic: ٱلۡأَسۡبَابُ
     translation: the relations
     transliteration: l-asbābu
 ---

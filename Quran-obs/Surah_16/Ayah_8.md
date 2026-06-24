@@ -1,27 +1,27 @@
 ---
-arabic_ayat: وَّالۡخَـيۡلَ وَالۡبِغَالَ وَالۡحَمِيۡرَ لِتَرۡكَبُوۡهَا وَزِيۡنَةً​
-  ؕ وَيَخۡلُقُ مَا لَا تَعۡلَمُوۡنَ‏
+arabic_ayat: وَٱلۡخَيۡلَ وَٱلۡبِغَالَ وَٱلۡحَمِيرَ لِتَرۡكَبُوهَا وَزِينَةٗۚ وَيَخۡلُقُ
+  مَا لَا تَعۡلَمُونَ
 sentence_translation: ˹He also created˺ horses, mules, and donkeys for your transportation
   and adornment. And He creates what you do not know.
 word_by_word:
   1:
-    arabic: وَّالۡخَـيۡلَ
+    arabic: وَٱلۡخَيۡلَ
     translation: And horses
     transliteration: wal-khayla
   2:
-    arabic: وَالۡبِغَالَ
+    arabic: وَٱلۡبِغَالَ
     translation: and mules
     transliteration: wal-bighāla
   3:
-    arabic: وَالۡحَمِيۡرَ
+    arabic: وَٱلۡحَمِيرَ
     translation: and donkeys
     transliteration: wal-ḥamīra
   4:
-    arabic: لِتَرۡكَبُوۡهَا
+    arabic: لِتَرۡكَبُوهَا
     translation: for you to ride them
     transliteration: litarkabūhā
   5:
-    arabic: وَزِيۡنَةً​ ؕ
+    arabic: وَزِينَةٗۚ
     translation: and (as) adornment
     transliteration: wazīnatan
   6:
@@ -37,7 +37,7 @@ word_by_word:
     translation: not
     transliteration: lā
   9:
-    arabic: تَعۡلَمُوۡنَ‏
+    arabic: تَعۡلَمُونَ
     translation: you know
     transliteration: taʿlamūna
 ---

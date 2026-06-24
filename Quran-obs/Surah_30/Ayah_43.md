@@ -1,12 +1,12 @@
 ---
-arabic_ayat: فَاَقِمۡ وَجۡهَكَ لِلدِّيۡنِ الۡقَيِّمِ مِنۡ قَبۡلِ اَنۡ يَّاۡتِىَ يَوۡمٌ
-  لَّا مَرَدَّ لَهٗ مِنَ اللّٰهِ​ يَوۡمَٮِٕذٍ يَّصَّدَّعُوۡنَ‏
+arabic_ayat: فَأَقِمۡ وَجۡهَكَ لِلدِّينِ ٱلۡقَيِّمِ مِن قَبۡلِ أَن يَأۡتِيَ يَوۡمٞ
+  لَّا مَرَدَّ لَهُۥ مِنَ ٱللَّهِۖ يَوۡمَئِذٖ يَصَّدَّعُونَ
 sentence_translation: 'So be steadfast in the Upright Faith ˹O Prophet˺, before the
   coming of a Day from Allah that cannot be averted. On that Day the people will be
   divided:'
 word_by_word:
   1:
-    arabic: فَاَقِمۡ
+    arabic: فَأَقِمۡ
     translation: So set
     transliteration: fa-aqim
   2:
@@ -14,15 +14,15 @@ word_by_word:
     translation: your face
     transliteration: wajhaka
   3:
-    arabic: لِلدِّيۡنِ
+    arabic: لِلدِّينِ
     translation: to the religion
     transliteration: lilddīni
   4:
-    arabic: الۡقَيِّمِ
+    arabic: ٱلۡقَيِّمِ
     translation: right
     transliteration: l-qayimi
   5:
-    arabic: مِنۡ
+    arabic: مِن
     translation: before
     transliteration: min
   6:
@@ -30,15 +30,15 @@ word_by_word:
     translation: before
     transliteration: qabli
   7:
-    arabic: اَنۡ
+    arabic: أَن
     translation: '[that]'
     transliteration: an
   8:
-    arabic: يَّاۡتِىَ
+    arabic: يَأۡتِيَ
     translation: comes
     transliteration: yatiya
   9:
-    arabic: يَوۡمٌ
+    arabic: يَوۡمٞ
     translation: a Day
     transliteration: yawmun
   10:
@@ -50,7 +50,7 @@ word_by_word:
     translation: (can be) averted
     transliteration: maradda
   12:
-    arabic: لَهٗ
+    arabic: لَهُۥ
     translation: '[it]'
     transliteration: lahu
   13:
@@ -58,15 +58,15 @@ word_by_word:
     translation: from
     transliteration: mina
   14:
-    arabic: اللّٰهِ​
+    arabic: ٱللَّهِۖ
     translation: Allah
     transliteration: l-lahi
   15:
-    arabic: يَوۡمَٮِٕذٍ
+    arabic: يَوۡمَئِذٖ
     translation: That Day
     transliteration: yawma-idhin
   16:
-    arabic: يَّصَّدَّعُوۡنَ‏
+    arabic: يَصَّدَّعُونَ
     translation: they will be divided
     transliteration: yaṣṣaddaʿūna
 ---

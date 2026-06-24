@@ -1,21 +1,21 @@
 ---
-arabic_ayat: حُوۡرٌ مَّقۡصُوۡرٰتٌ فِى الۡخِيَامِ​ۚ‏
+arabic_ayat: حُورٞ مَّقۡصُورَٰتٞ فِي ٱلۡخِيَامِ
 sentence_translation: ˹They will be˺ maidens with gorgeous eyes, reserved in pavilions.
 word_by_word:
   1:
-    arabic: حُوۡرٌ
+    arabic: حُورٞ
     translation: Fair ones
     transliteration: ḥūrun
   2:
-    arabic: مَّقۡصُوۡرٰتٌ
+    arabic: مَّقۡصُورَٰتٞ
     translation: restrained
     transliteration: maqṣūrātun
   3:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   4:
-    arabic: الۡخِيَامِ​ۚ‏
+    arabic: ٱلۡخِيَامِ
     translation: the pavilions
     transliteration: l-khiyāmi
 ---

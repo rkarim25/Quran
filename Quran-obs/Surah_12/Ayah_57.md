@@ -1,35 +1,34 @@
 ---
-arabic_ayat: "وَلَاَجۡرُ الۡاٰخِرَةِ خَيۡرٌ لِّـلَّذِيۡنَ اٰمَنُوۡا وَكَانُوۡا يَتَّقُوۡنَ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: وَلَأَجۡرُ ٱلۡأٓخِرَةِ خَيۡرٞ لِّلَّذِينَ ءَامَنُواْ وَكَانُواْ يَتَّقُونَ
 sentence_translation: And the reward of the Hereafter is far better for those who
   are faithful and are mindful ˹of Allah˺.
 word_by_word:
   1:
-    arabic: وَلَاَجۡرُ
+    arabic: وَلَأَجۡرُ
     translation: And surely (the) reward
     transliteration: wala-ajru
   2:
-    arabic: الۡاٰخِرَةِ
+    arabic: ٱلۡأٓخِرَةِ
     translation: (of) the Hereafter
     transliteration: l-ākhirati
   3:
-    arabic: خَيۡرٌ
+    arabic: خَيۡرٞ
     translation: (is) better
     transliteration: khayrun
   4:
-    arabic: لِّـلَّذِيۡنَ
+    arabic: لِّلَّذِينَ ءَ
     translation: for those who
     transliteration: lilladhīna
   5:
-    arabic: اٰمَنُوۡا
+    arabic: امَنُواْ
     translation: believe
     transliteration: āmanū
   6:
-    arabic: وَكَانُوۡا
+    arabic: وَكَانُواْ
     translation: and are
     transliteration: wakānū
   7:
-    arabic: "يَتَّقُوۡنَ‏ \uFEFF\uFEFF"
+    arabic: يَتَّقُونَ
     translation: God conscious
     transliteration: yattaqūna
 ---

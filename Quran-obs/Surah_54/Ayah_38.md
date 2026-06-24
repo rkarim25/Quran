@@ -1,5 +1,5 @@
 ---
-arabic_ayat: وَلَقَدۡ صَبَّحَهُمۡ بُكۡرَةً عَذَابٌ مُّسۡتَقِرٌّ​ ۚ‏
+arabic_ayat: وَلَقَدۡ صَبَّحَهُم بُكۡرَةً عَذَابٞ مُّسۡتَقِرّٞ
 sentence_translation: And indeed, by the early morning they were overwhelmed by an
   unrelenting torment.
 word_by_word:
@@ -8,7 +8,7 @@ word_by_word:
     translation: And certainly
     transliteration: walaqad
   2:
-    arabic: صَبَّحَهُمۡ
+    arabic: صَبَّحَهُم
     translation: seized them in the morning
     transliteration: ṣabbaḥahum
   3:
@@ -16,11 +16,11 @@ word_by_word:
     translation: early
     transliteration: buk'ratan
   4:
-    arabic: عَذَابٌ
+    arabic: عَذَابٞ
     translation: a punishment
     transliteration: ʿadhābun
   5:
-    arabic: مُّسۡتَقِرٌّ​ ۚ‏
+    arabic: مُّسۡتَقِرّٞ
     translation: abiding
     transliteration: mus'taqirrun
 ---

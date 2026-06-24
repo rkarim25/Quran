@@ -1,6 +1,6 @@
 ---
-arabic_ayat: قَالَ قَدۡ اُجِيۡبَتۡ دَّعۡوَتُكُمَا فَاسۡتَقِيۡمَا وَلَا تَتَّبِعٰٓنِّ
-  سَبِيۡلَ الَّذِيۡنَ لَا يَعۡلَمُوۡنَ‏
+arabic_ayat: قَالَ قَدۡ أُجِيبَت دَّعۡوَتُكُمَا فَٱسۡتَقِيمَا وَلَا تَتَّبِعَآنِّ
+  سَبِيلَ ٱلَّذِينَ لَا يَعۡلَمُونَ
 sentence_translation: Allah responded ˹to Moses and Aaron˺, “Your prayer is answered!
   So be steadfast and do not follow the way of those who do not know.”
 word_by_word:
@@ -13,7 +13,7 @@ word_by_word:
     translation: Verily
     transliteration: qad
   3:
-    arabic: اُجِيۡبَتۡ
+    arabic: أُجِيبَت
     translation: has been answered
     transliteration: ujībat
   4:
@@ -21,7 +21,7 @@ word_by_word:
     translation: (the) invocation of both of you
     transliteration: daʿwatukumā
   5:
-    arabic: فَاسۡتَقِيۡمَا
+    arabic: فَٱسۡتَقِيمَا
     translation: So you two (keep to the) straight way
     transliteration: fa-is'taqīmā
   6:
@@ -29,15 +29,15 @@ word_by_word:
     translation: And (do) not
     transliteration: walā
   7:
-    arabic: تَتَّبِعٰٓنِّ
+    arabic: تَتَّبِعَآنِّ
     translation: follow
     transliteration: tattabiʿānni
   8:
-    arabic: سَبِيۡلَ
+    arabic: سَبِيلَ
     translation: (the) way
     transliteration: sabīla
   9:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: (of) those who
     transliteration: alladhīna
   10:
@@ -45,7 +45,7 @@ word_by_word:
     translation: (do) not
     transliteration: lā
   11:
-    arabic: يَعۡلَمُوۡنَ‏
+    arabic: يَعۡلَمُونَ
     translation: know
     transliteration: yaʿlamūna
 ---

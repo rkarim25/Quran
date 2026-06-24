@@ -1,5 +1,5 @@
 ---
-arabic_ayat: قَالَ اِنَّكَ مِنَ الۡمُنۡظَرِيۡنَ‏
+arabic_ayat: قَالَ إِنَّكَ مِنَ ٱلۡمُنظَرِينَ
 sentence_translation: Allah said, “You are delayed ˹until the appointed Day˺.”
 word_by_word:
   1:
@@ -7,7 +7,7 @@ word_by_word:
     translation: (Allah) said
     transliteration: qāla
   2:
-    arabic: اِنَّكَ
+    arabic: إِنَّكَ
     translation: Indeed, you
     transliteration: innaka
   3:
@@ -15,7 +15,7 @@ word_by_word:
     translation: (are) of
     transliteration: mina
   4:
-    arabic: الۡمُنۡظَرِيۡنَ‏
+    arabic: ٱلۡمُنظَرِينَ
     translation: the ones given respite
     transliteration: l-munẓarīna
 ---

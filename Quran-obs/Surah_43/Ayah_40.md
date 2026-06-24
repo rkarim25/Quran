@@ -1,11 +1,11 @@
 ---
-arabic_ayat: اَفَاَنۡتَ تُسۡمِعُ الصُّمَّ اَوۡ تَهۡدِى الۡعُمۡىَ وَمَنۡ كَانَ فِىۡ
-  ضَلٰلٍ مُّبِيۡنٍ‏
+arabic_ayat: أَفَأَنتَ تُسۡمِعُ ٱلصُّمَّ أَوۡ تَهۡدِي ٱلۡعُمۡيَ وَمَن كَانَ فِي ضَلَٰلٖ
+  مُّبِينٖ
 sentence_translation: Can you make the deaf hear, or guide the blind or those clearly
   astray?
 word_by_word:
   1:
-    arabic: اَفَاَنۡتَ
+    arabic: أَفَأَنتَ
     translation: Then can you
     transliteration: afa-anta
   2:
@@ -13,23 +13,23 @@ word_by_word:
     translation: cause to hear
     transliteration: tus'miʿu
   3:
-    arabic: الصُّمَّ
+    arabic: ٱلصُّمَّ
     translation: the deaf
     transliteration: l-ṣuma
   4:
-    arabic: اَوۡ
+    arabic: أَوۡ
     translation: or
     transliteration: aw
   5:
-    arabic: تَهۡدِى
+    arabic: تَهۡدِي
     translation: guide
     transliteration: tahdī
   6:
-    arabic: الۡعُمۡىَ
+    arabic: ٱلۡعُمۡيَ
     translation: the blind
     transliteration: l-ʿum'ya
   7:
-    arabic: وَمَنۡ
+    arabic: وَمَن
     translation: and (one) who
     transliteration: waman
   8:
@@ -37,15 +37,15 @@ word_by_word:
     translation: is
     transliteration: kāna
   9:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   10:
-    arabic: ضَلٰلٍ
+    arabic: ضَلَٰلٖ
     translation: an error
     transliteration: ḍalālin
   11:
-    arabic: مُّبِيۡنٍ‏
+    arabic: مُّبِينٖ
     translation: clear
     transliteration: mubīnin
 ---

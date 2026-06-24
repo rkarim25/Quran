@@ -1,10 +1,10 @@
 ---
-arabic_ayat: "هُوَ الَّذِىۡۤ اَنۡزَلَ عَلَيۡكَ الۡكِتٰبَ مِنۡهُ اٰيٰتٌ مُّحۡكَمٰتٌ\
-  \ هُنَّ اُمُّ الۡكِتٰبِ وَاُخَرُ مُتَشٰبِهٰتٌ​ؕ فَاَمَّا الَّذِيۡنَ فِىۡ قُلُوۡبِهِمۡ\
-  \ زَيۡغٌ فَيَتَّبِعُوۡنَ مَا تَشَابَهَ مِنۡهُ ابۡتِغَآءَ الۡفِتۡنَةِ وَابۡتِغَآءَ\
-  \ تَاۡوِيۡلِهٖۚ وَمَا يَعۡلَمُ تَاۡوِيۡلَهٗۤ اِلَّا اللّٰهُ ​ۘ وَ الرّٰسِخُوۡنَ\
-  \ فِى الۡعِلۡمِ يَقُوۡلُوۡنَ اٰمَنَّا بِهٖۙ كُلٌّ مِّنۡ عِنۡدِ رَبِّنَا ​ۚ وَمَا\
-  \ يَذَّكَّرُ اِلَّاۤ اُولُوا الۡاَلۡبَابِ‏ \uFEFF\uFEFF"
+arabic_ayat: هُوَ ٱلَّذِيٓ أَنزَلَ عَلَيۡكَ ٱلۡكِتَٰبَ مِنۡهُ ءَايَٰتٞ مُّحۡكَمَٰتٌ
+  هُنَّ أُمُّ ٱلۡكِتَٰبِ وَأُخَرُ مُتَشَٰبِهَٰتٞۖ فَأَمَّا ٱلَّذِينَ فِي قُلُوبِهِمۡ
+  زَيۡغٞ فَيَتَّبِعُونَ مَا تَشَٰبَهَ مِنۡهُ ٱبۡتِغَآءَ ٱلۡفِتۡنَةِ وَٱبۡتِغَآءَ
+  تَأۡوِيلِهِۦۖ وَمَا يَعۡلَمُ تَأۡوِيلَهُۥٓ إِلَّا ٱللَّهُۗ وَٱلرَّٰسِخُونَ فِي ٱلۡعِلۡمِ
+  يَقُولُونَ ءَامَنَّا بِهِۦ كُلّٞ مِّنۡ عِندِ رَبِّنَاۗ وَمَا يَذَّكَّرُ إِلَّآ
+  أُوْلُواْ ٱلۡأَلۡبَٰبِ
 sentence_translation: He is the One Who has revealed to you ˹O Prophet˺ the Book,
   of which some verses are precise—they are the foundation of the Book—while others
   are elusive. Those with deviant hearts follow the elusive verses seeking ˹to spread˺
@@ -18,11 +18,11 @@ word_by_word:
     translation: He
     transliteration: huwa
   2:
-    arabic: الَّذِىۡۤ
+    arabic: ٱلَّذِيٓ
     translation: (is) the One Who
     transliteration: alladhī
   3:
-    arabic: اَنۡزَلَ
+    arabic: أَنزَلَ
     translation: revealed
     transliteration: anzala
   4:
@@ -30,19 +30,19 @@ word_by_word:
     translation: to you
     transliteration: ʿalayka
   5:
-    arabic: الۡكِتٰبَ
+    arabic: ٱلۡكِتَٰبَ
     translation: the Book
     transliteration: l-kitāba
   6:
-    arabic: مِنۡهُ
+    arabic: مِنۡهُ ءَ
     translation: of it
     transliteration: min'hu
   7:
-    arabic: اٰيٰتٌ
+    arabic: ايَٰتٞ
     translation: (are) Verses
     transliteration: āyātun
   8:
-    arabic: مُّحۡكَمٰتٌ
+    arabic: مُّحۡكَمَٰتٌ
     translation: 'absolutely clear '
     transliteration: muḥ'kamātun
   9:
@@ -50,43 +50,43 @@ word_by_word:
     translation: they (are)
     transliteration: hunna
   10:
-    arabic: اُمُّ
+    arabic: أُمُّ
     translation: the foundation
     transliteration: ummu
   11:
-    arabic: الۡكِتٰبِ
+    arabic: ٱلۡكِتَٰبِ
     translation: (of) the Book
     transliteration: l-kitābi
   12:
-    arabic: وَاُخَرُ
+    arabic: وَأُخَرُ
     translation: and others
     transliteration: wa-ukharu
   13:
-    arabic: مُتَشٰبِهٰتٌ​ؕ
+    arabic: مُتَشَٰبِهَٰتٞۖ
     translation: (are) allegorical
     transliteration: mutashābihātun
   14:
-    arabic: فَاَمَّا
+    arabic: فَأَمَّا
     translation: Then as for
     transliteration: fa-ammā
   15:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those
     transliteration: alladhīna
   16:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   17:
-    arabic: قُلُوۡبِهِمۡ
+    arabic: قُلُوبِهِمۡ
     translation: their hearts
     transliteration: qulūbihim
   18:
-    arabic: زَيۡغٌ
+    arabic: زَيۡغٞ
     translation: '(is) perversity '
     transliteration: zayghun
   19:
-    arabic: فَيَتَّبِعُوۡنَ
+    arabic: فَيَتَّبِعُونَ
     translation: '[so] they follow'
     transliteration: fayattabiʿūna
   20:
@@ -94,7 +94,7 @@ word_by_word:
     translation: what
     transliteration: mā
   21:
-    arabic: تَشَابَهَ
+    arabic: تَشَٰبَهَ
     translation: (is) allegorical
     transliteration: tashābaha
   22:
@@ -102,19 +102,19 @@ word_by_word:
     translation: of it
     transliteration: min'hu
   23:
-    arabic: ابۡتِغَآءَ
+    arabic: ٱبۡتِغَآءَ
     translation: seeking
     transliteration: ib'tighāa
   24:
-    arabic: الۡفِتۡنَةِ
+    arabic: ٱلۡفِتۡنَةِ
     translation: '[the] discord'
     transliteration: l-fit'nati
   25:
-    arabic: وَابۡتِغَآءَ
+    arabic: وَٱبۡتِغَآءَ
     translation: and seeking
     transliteration: wa-ib'tighāa
   26:
-    arabic: تَاۡوِيۡلِهٖۚ
+    arabic: تَأۡوِيلِهِۦۖ
     translation: its interpretation
     transliteration: tawīlihi
   27:
@@ -126,43 +126,43 @@ word_by_word:
     translation: knows
     transliteration: yaʿlamu
   29:
-    arabic: تَاۡوِيۡلَهٗۤ
+    arabic: تَأۡوِيلَهُۥٓ
     translation: its interpretation
     transliteration: tawīlahu
   30:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   31:
-    arabic: اللّٰهُ ​ۘ
+    arabic: ٱللَّهُۗ
     translation: Allah
     transliteration: l-lahu
   32:
-    arabic: وَ الرّٰسِخُوۡنَ
+    arabic: وَٱلرَّٰسِخُونَ
     translation: And those firm
     transliteration: wal-rāsikhūna
   33:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   34:
-    arabic: الۡعِلۡمِ
+    arabic: ٱلۡعِلۡمِ
     translation: '[the] knowledge'
     transliteration: l-ʿil'mi
   35:
-    arabic: يَقُوۡلُوۡنَ
+    arabic: يَقُولُونَ ءَ
     translation: they say
     transliteration: yaqūlūna
   36:
-    arabic: اٰمَنَّا
+    arabic: امَنَّا
     translation: We believe
     transliteration: āmannā
   37:
-    arabic: بِهٖۙ
+    arabic: بِهِۦ
     translation: in it
     transliteration: bihi
   38:
-    arabic: كُلٌّ
+    arabic: كُلّٞ
     translation: All
     transliteration: kullun
   39:
@@ -170,11 +170,11 @@ word_by_word:
     translation: (is)
     transliteration: min
   40:
-    arabic: عِنۡدِ
+    arabic: عِندِ
     translation: from
     transliteration: ʿindi
   41:
-    arabic: رَبِّنَا ​ۚ
+    arabic: رَبِّنَاۗ
     translation: our Lord
     transliteration: rabbinā
   42:
@@ -186,15 +186,15 @@ word_by_word:
     translation: will take heed
     transliteration: yadhakkaru
   44:
-    arabic: اِلَّاۤ
+    arabic: إِلَّآ
     translation: except
     transliteration: illā
   45:
-    arabic: اُولُوا
+    arabic: أُوْلُواْ
     translation: men
     transliteration: ulū
   46:
-    arabic: "الۡاَلۡبَابِ‏ \uFEFF\uFEFF"
+    arabic: ٱلۡأَلۡبَٰبِ
     translation: (of) understanding
     transliteration: l-albābi
 ---

@@ -1,9 +1,9 @@
 ---
-arabic_ayat: اِنَّ عَذَابَ رَبِّهِمۡ غَيۡرُ مَاۡمُوۡنٍ‏
+arabic_ayat: إِنَّ عَذَابَ رَبِّهِمۡ غَيۡرُ مَأۡمُونٖ
 sentence_translation: ˹knowing that˺ none should feel secure from their Lord’s punishment—
 word_by_word:
   1:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   2:
@@ -19,7 +19,7 @@ word_by_word:
     translation: (is) not
     transliteration: ghayru
   5:
-    arabic: مَاۡمُوۡنٍ‏
+    arabic: مَأۡمُونٖ
     translation: 'to be felt secure (of) '
     transliteration: mamūnin
 ---

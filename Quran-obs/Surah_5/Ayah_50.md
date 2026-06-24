@@ -1,19 +1,19 @@
 ---
-arabic_ayat: اَفَحُكۡمَ الۡجَـاهِلِيَّةِ يَـبۡغُوۡنَ​ؕ وَمَنۡ اَحۡسَنُ مِنَ اللّٰهِ
-  حُكۡمًا لِّـقَوۡمٍ يُّوۡقِنُوۡنَ‏
+arabic_ayat: أَفَحُكۡمَ ٱلۡجَٰهِلِيَّةِ يَبۡغُونَۚ وَمَنۡ أَحۡسَنُ مِنَ ٱللَّهِ حُكۡمٗا
+  لِّقَوۡمٖ يُوقِنُونَ
 sentence_translation: Is it the judgment of ˹pre-Islamic˺ ignorance they seek? Who
   could be a better judge than Allah for people of sure faith?
 word_by_word:
   1:
-    arabic: اَفَحُكۡمَ
+    arabic: أَفَحُكۡمَ
     translation: Is it then the judgment
     transliteration: afaḥuk'ma
   2:
-    arabic: الۡجَـاهِلِيَّةِ
+    arabic: ٱلۡجَٰهِلِيَّةِ
     translation: (of the time of) ignorance
     transliteration: l-jāhiliyati
   3:
-    arabic: يَـبۡغُوۡنَ​ؕ
+    arabic: يَبۡغُونَۚ
     translation: they seek
     transliteration: yabghūna
   4:
@@ -21,7 +21,7 @@ word_by_word:
     translation: And who (is)
     transliteration: waman
   5:
-    arabic: اَحۡسَنُ
+    arabic: أَحۡسَنُ
     translation: better
     transliteration: aḥsanu
   6:
@@ -29,19 +29,19 @@ word_by_word:
     translation: than
     transliteration: mina
   7:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   8:
-    arabic: حُكۡمًا
+    arabic: حُكۡمٗا
     translation: (in) judgment
     transliteration: ḥuk'man
   9:
-    arabic: لِّـقَوۡمٍ
+    arabic: لِّقَوۡمٖ
     translation: for a people
     transliteration: liqawmin
   10:
-    arabic: يُّوۡقِنُوۡنَ‏
+    arabic: يُوقِنُونَ
     translation: (who) firmly believe
     transliteration: yūqinūna
 ---

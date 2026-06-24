@@ -1,20 +1,20 @@
 ---
-arabic_ayat: قَالُوۡا يٰوَيۡلَنَا مَنۡۢ بَعَثَنَا مِنۡ مَّرۡقَدِنَاۘهٰذَا مَا وَعَدَ
-  الرَّحۡمٰنُ وَصَدَقَ الۡمُرۡسَلُوۡنَ‏
+arabic_ayat: قَالُواْ يَٰوَيۡلَنَا مَنۢ بَعَثَنَا مِن مَّرۡقَدِنَاۜۗ هَٰذَا مَا وَعَدَ
+  ٱلرَّحۡمَٰنُ وَصَدَقَ ٱلۡمُرۡسَلُونَ
 sentence_translation: They will cry, “Woe to us! Who has raised us up from our place
   of rest? This must be what the Most Compassionate warned us of; the messengers told
   the truth!”
 word_by_word:
   1:
-    arabic: قَالُوۡا
+    arabic: قَالُواْ
     translation: They [will] say
     transliteration: qālū
   2:
-    arabic: يٰوَيۡلَنَا
+    arabic: يَٰوَيۡلَنَا
     translation: O woe to us
     transliteration: yāwaylanā
   3:
-    arabic: مَنۡۢ
+    arabic: مَنۢ
     translation: Who
     transliteration: man
   4:
@@ -22,15 +22,15 @@ word_by_word:
     translation: has raised us
     transliteration: baʿathanā
   5:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   6:
-    arabic: مَّرۡقَدِنَاۘ
+    arabic: مَّرۡقَدِنَاۜۗ
     translation: our sleeping place
     transliteration: marqadinā
   7:
-    arabic: هٰذَا
+    arabic: هَٰذَا
     translation: This (is)
     transliteration: hādhā
   8:
@@ -42,7 +42,7 @@ word_by_word:
     translation: (had) promised
     transliteration: waʿada
   10:
-    arabic: الرَّحۡمٰنُ
+    arabic: ٱلرَّحۡمَٰنُ
     translation: the Most Gracious
     transliteration: l-raḥmānu
   11:
@@ -50,7 +50,7 @@ word_by_word:
     translation: and told (the) truth
     transliteration: waṣadaqa
   12:
-    arabic: الۡمُرۡسَلُوۡنَ‏
+    arabic: ٱلۡمُرۡسَلُونَ
     translation: the Messengers
     transliteration: l-mur'salūna
 ---

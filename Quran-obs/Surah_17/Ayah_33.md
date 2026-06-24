@@ -1,7 +1,7 @@
 ---
-arabic_ayat: وَلَا تَقۡتُلُوا النَّفۡسَ الَّتِىۡ حَرَّمَ اللّٰهُ اِلَّا بِالۡحَـقِّ​
-  ؕ وَمَنۡ قُتِلَ مَظۡلُوۡمًا فَقَدۡ جَعَلۡنَا لِـوَلِيِّهٖ سُلۡطٰنًا فَلَا يُسۡرِفْ
-  فِّى الۡقَتۡلِ​ ؕ اِنَّهٗ كَانَ مَنۡصُوۡرًا‏
+arabic_ayat: وَلَا تَقۡتُلُواْ ٱلنَّفۡسَ ٱلَّتِي حَرَّمَ ٱللَّهُ إِلَّا بِٱلۡحَقِّۗ
+  وَمَن قُتِلَ مَظۡلُومٗا فَقَدۡ جَعَلۡنَا لِوَلِيِّهِۦ سُلۡطَٰنٗا فَلَا يُسۡرِف فِّي
+  ٱلۡقَتۡلِۖ إِنَّهُۥ كَانَ مَنصُورٗا
 sentence_translation: Do not take a ˹human˺ life—made sacred by Allah—except with
   ˹legal˺ right. If anyone is killed unjustly, We have given their heirs the authority,
   but do not let them exceed limits in retaliation, for they are already supported
@@ -12,15 +12,15 @@ word_by_word:
     translation: And (do) not
     transliteration: walā
   2:
-    arabic: تَقۡتُلُوا
+    arabic: تَقۡتُلُواْ
     translation: kill
     transliteration: taqtulū
   3:
-    arabic: النَّفۡسَ
+    arabic: ٱلنَّفۡسَ
     translation: the soul
     transliteration: l-nafsa
   4:
-    arabic: الَّتِىۡ
+    arabic: ٱلَّتِي
     translation: which
     transliteration: allatī
   5:
@@ -28,19 +28,19 @@ word_by_word:
     translation: Allah has forbidden
     transliteration: ḥarrama
   6:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah has forbidden
     transliteration: l-lahu
   7:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   8:
-    arabic: بِالۡحَـقِّ​ ؕ
+    arabic: بِٱلۡحَقِّۗ
     translation: by right
     transliteration: bil-ḥaqi
   9:
-    arabic: وَمَنۡ
+    arabic: وَمَن
     translation: And whoever
     transliteration: waman
   10:
@@ -48,7 +48,7 @@ word_by_word:
     translation: (is) killed
     transliteration: qutila
   11:
-    arabic: مَظۡلُوۡمًا
+    arabic: مَظۡلُومٗا
     translation: wrongfully
     transliteration: maẓlūman
   12:
@@ -60,11 +60,11 @@ word_by_word:
     translation: We have made
     transliteration: jaʿalnā
   14:
-    arabic: لِـوَلِيِّهٖ
+    arabic: لِوَلِيِّهِۦ
     translation: for his heir
     transliteration: liwaliyyihi
   15:
-    arabic: سُلۡطٰنًا
+    arabic: سُلۡطَٰنٗا
     translation: an authority
     transliteration: sul'ṭānan
   16:
@@ -72,19 +72,19 @@ word_by_word:
     translation: but not
     transliteration: falā
   17:
-    arabic: يُسۡرِفْ
+    arabic: يُسۡرِف
     translation: he should exceed
     transliteration: yus'rif
   18:
-    arabic: فِّى
+    arabic: فِّي
     translation: in
     transliteration: fī
   19:
-    arabic: الۡقَتۡلِ​ ؕ
+    arabic: ٱلۡقَتۡلِۖ
     translation: the killing
     transliteration: l-qatli
   20:
-    arabic: اِنَّهٗ
+    arabic: إِنَّهُۥ
     translation: Indeed, he
     transliteration: innahu
   21:
@@ -92,7 +92,7 @@ word_by_word:
     translation: is
     transliteration: kāna
   22:
-    arabic: مَنۡصُوۡرًا‏
+    arabic: مَنصُورٗا
     translation: helped
     transliteration: manṣūran
 ---

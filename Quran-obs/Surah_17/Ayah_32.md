@@ -1,6 +1,5 @@
 ---
-arabic_ayat: "وَلَا تَقۡرَبُوا الزِّنٰٓى اِنَّهٗ كَانَ فَاحِشَةً  ؕ وَسَآءَ سَبِيۡلًا‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: وَلَا تَقۡرَبُواْ ٱلزِّنَىٰٓۖ إِنَّهُۥ كَانَ فَٰحِشَةٗ وَسَآءَ سَبِيلٗا
 sentence_translation: Do not go near adultery. It is truly a shameful deed and an
   evil way.
 word_by_word:
@@ -9,15 +8,15 @@ word_by_word:
     translation: And (do) not
     transliteration: walā
   2:
-    arabic: تَقۡرَبُوا
+    arabic: تَقۡرَبُواْ
     translation: go near
     transliteration: taqrabū
   3:
-    arabic: الزِّنٰٓى
+    arabic: ٱلزِّنَىٰٓۖ
     translation: adultery
     transliteration: l-zinā
   4:
-    arabic: اِنَّهٗ
+    arabic: إِنَّهُۥ
     translation: Indeed, it
     transliteration: innahu
   5:
@@ -25,7 +24,7 @@ word_by_word:
     translation: is
     transliteration: kāna
   6:
-    arabic: فَاحِشَةً  ؕ
+    arabic: فَٰحِشَةٗ
     translation: an immorality
     transliteration: fāḥishatan
   7:
@@ -33,7 +32,7 @@ word_by_word:
     translation: and (an) evil
     transliteration: wasāa
   8:
-    arabic: "سَبِيۡلًا‏ \uFEFF\uFEFF"
+    arabic: سَبِيلٗا
     translation: way
     transliteration: sabīlan
 ---

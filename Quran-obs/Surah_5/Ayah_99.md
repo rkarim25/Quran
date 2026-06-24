@@ -1,11 +1,11 @@
 ---
-arabic_ayat: مَا عَلَى الرَّسُوۡلِ اِلَّا الۡبَلٰغُ​ ؕ وَاللّٰهُ يَعۡلَمُ مَا تُبۡدُوۡنَ
-  وَمَا تَكۡتُمُوۡنَ‏
+arabic_ayat: مَّا عَلَى ٱلرَّسُولِ إِلَّا ٱلۡبَلَٰغُۗ وَٱللَّهُ يَعۡلَمُ مَا تُبۡدُونَ
+  وَمَا تَكۡتُمُونَ
 sentence_translation: The Messenger’s duty is only to deliver ˹the message˺. And Allah
   ˹fully˺ knows what you reveal and what you conceal.
 word_by_word:
   1:
-    arabic: مَا
+    arabic: مَّا
     translation: Not
     transliteration: mā
   2:
@@ -13,19 +13,19 @@ word_by_word:
     translation: 'on'
     transliteration: ʿalā
   3:
-    arabic: الرَّسُوۡلِ
+    arabic: ٱلرَّسُولِ
     translation: the Messenger
     transliteration: l-rasūli
   4:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   5:
-    arabic: الۡبَلٰغُ​ ؕ
+    arabic: ٱلۡبَلَٰغُۗ
     translation: the conveyance
     transliteration: l-balāghu
   6:
-    arabic: وَاللّٰهُ
+    arabic: وَٱللَّهُ
     translation: And Allah
     transliteration: wal-lahu
   7:
@@ -37,7 +37,7 @@ word_by_word:
     translation: what
     transliteration: mā
   9:
-    arabic: تُبۡدُوۡنَ
+    arabic: تُبۡدُونَ
     translation: you reveal
     transliteration: tub'dūna
   10:
@@ -45,7 +45,7 @@ word_by_word:
     translation: and what
     transliteration: wamā
   11:
-    arabic: تَكۡتُمُوۡنَ‏
+    arabic: تَكۡتُمُونَ
     translation: you conceal
     transliteration: taktumūna
 ---

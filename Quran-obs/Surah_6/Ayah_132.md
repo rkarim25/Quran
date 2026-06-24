@@ -1,15 +1,15 @@
 ---
-arabic_ayat: "وَلِكُلٍّ دَرَجٰتٌ مِّمَّا عَمِلُوۡا​ ؕ وَمَا رَبُّكَ بِغَافِلٍ عَمَّا\
-  \ يَعۡمَلُوۡنَ‏ \uFEFF\uFEFF"
+arabic_ayat: وَلِكُلّٖ دَرَجَٰتٞ مِّمَّا عَمِلُواْۚ وَمَا رَبُّكَ بِغَٰفِلٍ عَمَّا
+  يَعۡمَلُونَ
 sentence_translation: They will each be assigned ranks according to their deeds. And
   your Lord is not unaware of what they do.
 word_by_word:
   1:
-    arabic: وَلِكُلٍّ
+    arabic: وَلِكُلّٖ
     translation: And for all
     transliteration: walikullin
   2:
-    arabic: دَرَجٰتٌ
+    arabic: دَرَجَٰتٞ
     translation: (will be) degrees
     transliteration: darajātun
   3:
@@ -17,7 +17,7 @@ word_by_word:
     translation: for what
     transliteration: mimmā
   4:
-    arabic: عَمِلُوۡا​ ؕ
+    arabic: عَمِلُواْۚ
     translation: they did
     transliteration: ʿamilū
   5:
@@ -29,7 +29,7 @@ word_by_word:
     translation: (is) your Lord
     transliteration: rabbuka
   7:
-    arabic: بِغَافِلٍ
+    arabic: بِغَٰفِلٍ
     translation: unaware
     transliteration: bighāfilin
   8:
@@ -37,7 +37,7 @@ word_by_word:
     translation: about what
     transliteration: ʿammā
   9:
-    arabic: "يَعۡمَلُوۡنَ‏ \uFEFF\uFEFF"
+    arabic: يَعۡمَلُونَ
     translation: they do
     transliteration: yaʿmalūna
 ---

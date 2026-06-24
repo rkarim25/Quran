@@ -1,15 +1,15 @@
 ---
-arabic_ayat: اِصۡبِرۡ عَلٰى مَا يَقُوۡلُوۡنَ وَاذۡكُرۡ عَبۡدَنَا دَاوٗدَ ذَا الۡاَيۡدِ​ۚ
-  اِنَّـهٗۤ اَوَّابٌ‏
+arabic_ayat: ٱصۡبِرۡ عَلَىٰ مَا يَقُولُونَ وَٱذۡكُرۡ عَبۡدَنَا دَاوُۥدَ ذَا ٱلۡأَيۡدِۖ
+  إِنَّهُۥٓ أَوَّابٌ
 sentence_translation: Be patient ˹O Prophet˺ with what they say. And remember Our
   servant, David, the man of strength. Indeed, he ˹constantly˺ turned ˹to Allah˺.
 word_by_word:
   1:
-    arabic: اِصۡبِرۡ
+    arabic: ٱصۡبِرۡ
     translation: Be patient
     transliteration: iṣ'bir
   2:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: over
     transliteration: ʿalā
   3:
@@ -17,11 +17,11 @@ word_by_word:
     translation: what
     transliteration: mā
   4:
-    arabic: يَقُوۡلُوۡنَ
+    arabic: يَقُولُونَ
     translation: they say
     transliteration: yaqūlūna
   5:
-    arabic: وَاذۡكُرۡ
+    arabic: وَٱذۡكُرۡ
     translation: and remember
     transliteration: wa-udh'kur
   6:
@@ -29,7 +29,7 @@ word_by_word:
     translation: Our slave
     transliteration: ʿabdanā
   7:
-    arabic: دَاوٗدَ
+    arabic: دَاوُۥدَ
     translation: Dawood
     transliteration: dāwūda
   8:
@@ -37,15 +37,15 @@ word_by_word:
     translation: the possessor of strength
     transliteration: dhā
   9:
-    arabic: الۡاَيۡدِ​ۚ
+    arabic: ٱلۡأَيۡدِۖ
     translation: the possessor of strength
     transliteration: l-aydi
   10:
-    arabic: اِنَّـهٗۤ
+    arabic: إِنَّهُۥٓ
     translation: Indeed, he (was)
     transliteration: innahu
   11:
-    arabic: اَوَّابٌ‏
+    arabic: أَوَّابٌ
     translation: repeatedly turning
     transliteration: awwābun
 ---

@@ -1,19 +1,19 @@
 ---
-arabic_ayat: قِيۡلَ ادۡخُلُوۡۤا اَبۡوَابَ جَهَنَّمَ خٰلِدِيۡنَ فِيۡهَا​ۚ فَبِئۡسَ
-  مَثۡوَى الۡمُتَكَبِّرِيۡنَ‏
+arabic_ayat: قِيلَ ٱدۡخُلُوٓاْ أَبۡوَٰبَ جَهَنَّمَ خَٰلِدِينَ فِيهَاۖ فَبِئۡسَ مَثۡوَى
+  ٱلۡمُتَكَبِّرِينَ
 sentence_translation: It will be said to them, “Enter the gates of Hell, to stay there
   forever.” What an evil home for the arrogant!
 word_by_word:
   1:
-    arabic: قِيۡلَ
+    arabic: قِيلَ
     translation: It will be said
     transliteration: qīla
   2:
-    arabic: ادۡخُلُوۡۤا
+    arabic: ٱدۡخُلُوٓاْ
     translation: Enter
     transliteration: ud'khulū
   3:
-    arabic: اَبۡوَابَ
+    arabic: أَبۡوَٰبَ
     translation: (the) gates
     transliteration: abwāba
   4:
@@ -21,11 +21,11 @@ word_by_word:
     translation: (of) Hell
     transliteration: jahannama
   5:
-    arabic: خٰلِدِيۡنَ
+    arabic: خَٰلِدِينَ
     translation: (to) abide eternally
     transliteration: khālidīna
   6:
-    arabic: فِيۡهَا​ۚ
+    arabic: فِيهَاۖ
     translation: therein
     transliteration: fīhā
   7:
@@ -37,7 +37,7 @@ word_by_word:
     translation: (the) abode
     transliteration: mathwā
   9:
-    arabic: الۡمُتَكَبِّرِيۡنَ‏
+    arabic: ٱلۡمُتَكَبِّرِينَ
     translation: (of) the arrogant
     transliteration: l-mutakabirīna
 ---

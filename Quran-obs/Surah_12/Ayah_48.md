@@ -1,6 +1,6 @@
 ---
-arabic_ayat: ثُمَّ يَاۡتِىۡ مِنۡۢ بَعۡدِ ذٰلِكَ سَبۡعٌ شِدَادٌ يَّاۡكُلۡنَ مَا قَدَّمۡتُمۡ
-  لَهُنَّ اِلَّا قَلِيۡلًا مِّمَّا تُحۡصِنُوۡنَ‏
+arabic_ayat: ثُمَّ يَأۡتِي مِنۢ بَعۡدِ ذَٰلِكَ سَبۡعٞ شِدَادٞ يَأۡكُلۡنَ مَا قَدَّمۡتُمۡ
+  لَهُنَّ إِلَّا قَلِيلٗا مِّمَّا تُحۡصِنُونَ
 sentence_translation: Then after that will come seven years of great hardship which
   will consume whatever you have saved, except the little you will store ˹for seed˺.
 word_by_word:
@@ -9,11 +9,11 @@ word_by_word:
     translation: Then
     transliteration: thumma
   2:
-    arabic: يَاۡتِىۡ
+    arabic: يَأۡتِي
     translation: will come
     transliteration: yatī
   3:
-    arabic: مِنۡۢ
+    arabic: مِنۢ
     translation: after
     transliteration: min
   4:
@@ -21,19 +21,19 @@ word_by_word:
     translation: after
     transliteration: baʿdi
   5:
-    arabic: ذٰلِكَ
+    arabic: ذَٰلِكَ
     translation: that
     transliteration: dhālika
   6:
-    arabic: سَبۡعٌ
+    arabic: سَبۡعٞ
     translation: seven
     transliteration: sabʿun
   7:
-    arabic: شِدَادٌ
+    arabic: شِدَادٞ
     translation: hard (years)
     transliteration: shidādun
   8:
-    arabic: يَّاۡكُلۡنَ
+    arabic: يَأۡكُلۡنَ
     translation: (which will) consume
     transliteration: yakul'na
   9:
@@ -49,11 +49,11 @@ word_by_word:
     translation: for them
     transliteration: lahunna
   12:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   13:
-    arabic: قَلِيۡلًا
+    arabic: قَلِيلٗا
     translation: a little
     transliteration: qalīlan
   14:
@@ -61,7 +61,7 @@ word_by_word:
     translation: of what
     transliteration: mimmā
   15:
-    arabic: تُحۡصِنُوۡنَ‏
+    arabic: تُحۡصِنُونَ
     translation: you (will) store
     transliteration: tuḥ'ṣinūna
 ---

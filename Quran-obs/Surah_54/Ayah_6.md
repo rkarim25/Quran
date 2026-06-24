@@ -1,5 +1,5 @@
 ---
-arabic_ayat: فَتَوَلَّ عَنۡهُمۡ​ۘ يَوۡمَ يَدۡعُ الدَّاعِ اِلٰى شَىۡءٍ نُّكُرٍۙ‏
+arabic_ayat: فَتَوَلَّ عَنۡهُمۡۘ يَوۡمَ يَدۡعُ ٱلدَّاعِ إِلَىٰ شَيۡءٖ نُّكُرٍ
 sentence_translation: So turn away from them ˹O Prophet˺. ˹And wait for˺ the Day ˹when˺
   the caller will summon ˹them˺ for something horrifying.
 word_by_word:
@@ -8,7 +8,7 @@ word_by_word:
     translation: So turn away
     transliteration: fatawalla
   2:
-    arabic: عَنۡهُمۡ​ۘ
+    arabic: عَنۡهُمۡۘ
     translation: from them
     transliteration: ʿanhum
   3:
@@ -20,19 +20,19 @@ word_by_word:
     translation: will call
     transliteration: yadʿu
   5:
-    arabic: الدَّاعِ
+    arabic: ٱلدَّاعِ
     translation: the caller
     transliteration: l-dāʿi
   6:
-    arabic: اِلٰى
+    arabic: إِلَىٰ
     translation: to
     transliteration: ilā
   7:
-    arabic: شَىۡءٍ
+    arabic: شَيۡءٖ
     translation: a thing
     transliteration: shayin
   8:
-    arabic: نُّكُرٍۙ‏
+    arabic: نُّكُرٍ
     translation: terrible
     transliteration: nukurin
 ---

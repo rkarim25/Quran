@@ -1,11 +1,11 @@
 ---
-arabic_ayat: وَمَنۡ جَآءَ بِالسَّيِّئَةِ فَكُبَّتۡ وُجُوۡهُهُمۡ فِى النَّارِؕ هَلۡ
-  تُجۡزَوۡنَ اِلَّا مَا كُنۡتُمۡ تَعۡمَلُوۡنَ‏
+arabic_ayat: وَمَن جَآءَ بِٱلسَّيِّئَةِ فَكُبَّتۡ وُجُوهُهُمۡ فِي ٱلنَّارِ هَلۡ تُجۡزَوۡنَ
+  إِلَّا مَا كُنتُمۡ تَعۡمَلُونَ
 sentence_translation: And whoever comes with an evil deed will be hurled face-first
   into the Fire. Are you rewarded except for what you used to do?
 word_by_word:
   1:
-    arabic: وَمَنۡ
+    arabic: وَمَن
     translation: And whoever
     transliteration: waman
   2:
@@ -13,7 +13,7 @@ word_by_word:
     translation: comes
     transliteration: jāa
   3:
-    arabic: بِالسَّيِّئَةِ
+    arabic: بِٱلسَّيِّئَةِ
     translation: with the evil
     transliteration: bil-sayi-ati
   4:
@@ -21,15 +21,15 @@ word_by_word:
     translation: will be cast down
     transliteration: fakubbat
   5:
-    arabic: وُجُوۡهُهُمۡ
+    arabic: وُجُوهُهُمۡ
     translation: their faces
     transliteration: wujūhuhum
   6:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   7:
-    arabic: النَّارِؕ
+    arabic: ٱلنَّارِ
     translation: the Fire
     transliteration: l-nāri
   8:
@@ -41,7 +41,7 @@ word_by_word:
     translation: you recompensed
     transliteration: tuj'zawna
   10:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   11:
@@ -49,11 +49,11 @@ word_by_word:
     translation: (for) what
     transliteration: mā
   12:
-    arabic: كُنۡتُمۡ
+    arabic: كُنتُمۡ
     translation: you used (to)
     transliteration: kuntum
   13:
-    arabic: تَعۡمَلُوۡنَ‏
+    arabic: تَعۡمَلُونَ
     translation: do
     transliteration: taʿmalūna
 ---

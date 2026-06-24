@@ -1,19 +1,19 @@
 ---
-arabic_ayat: فَاَجَآءَهَا الۡمَخَاضُ اِلٰى جِذۡعِ النَّخۡلَةِ​ۚ قَالَتۡ يٰلَيۡتَنِىۡ
-  مِتُّ قَبۡلَ هٰذَا وَكُنۡتُ نَسۡيًا مَّنۡسِيًّا‏
+arabic_ayat: فَأَجَآءَهَا ٱلۡمَخَاضُ إِلَىٰ جِذۡعِ ٱلنَّخۡلَةِ قَالَتۡ يَٰلَيۡتَنِي
+  مِتُّ قَبۡلَ هَٰذَا وَكُنتُ نَسۡيٗا مَّنسِيّٗا
 sentence_translation: Then the pains of labour drove her to the trunk of a palm tree.
   She cried, “Alas! I wish I had died before this, and was a thing long forgotten!”
 word_by_word:
   1:
-    arabic: فَاَجَآءَهَا
+    arabic: فَأَجَآءَهَا
     translation: Then drove her
     transliteration: fa-ajāahā
   2:
-    arabic: الۡمَخَاضُ
+    arabic: ٱلۡمَخَاضُ
     translation: the pains of childbirth
     transliteration: l-makhāḍu
   3:
-    arabic: اِلٰى
+    arabic: إِلَىٰ
     translation: to
     transliteration: ilā
   4:
@@ -21,7 +21,7 @@ word_by_word:
     translation: (the) trunk
     transliteration: jidh'ʿi
   5:
-    arabic: النَّخۡلَةِ​ۚ
+    arabic: ٱلنَّخۡلَةِ
     translation: (of) the date-palm
     transliteration: l-nakhlati
   6:
@@ -29,7 +29,7 @@ word_by_word:
     translation: She said
     transliteration: qālat
   7:
-    arabic: يٰلَيۡتَنِىۡ
+    arabic: يَٰلَيۡتَنِي
     translation: O! I wish
     transliteration: yālaytanī
   8:
@@ -41,19 +41,19 @@ word_by_word:
     translation: before
     transliteration: qabla
   10:
-    arabic: هٰذَا
+    arabic: هَٰذَا
     translation: this
     transliteration: hādhā
   11:
-    arabic: وَكُنۡتُ
+    arabic: وَكُنتُ
     translation: and I was
     transliteration: wakuntu
   12:
-    arabic: نَسۡيًا
+    arabic: نَسۡيٗا
     translation: (in) oblivion
     transliteration: nasyan
   13:
-    arabic: مَّنۡسِيًّا‏
+    arabic: مَّنسِيّٗا
     translation: forgotten
     transliteration: mansiyyan
 ---

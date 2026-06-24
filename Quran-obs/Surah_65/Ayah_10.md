@@ -1,16 +1,15 @@
 ---
-arabic_ayat: اَعَدَّ اللّٰهُ لَهُمۡ عَذَابًا شَدِيۡدًا​ ۙ فَاتَّقُوا اللّٰهَ يٰۤاُولِى
-  الۡاَ لۡبَابِ ۖۚ ۛ الَّذِيۡنَ اٰمَنُوۡا ۛؕ قَدۡ اَنۡزَلَ اللّٰهُ اِلَيۡكُمۡ ذِكۡرًا
-  ۙ‏
+arabic_ayat: أَعَدَّ ٱللَّهُ لَهُمۡ عَذَابٗا شَدِيدٗاۖ فَٱتَّقُواْ ٱللَّهَ يَٰٓأُوْلِي
+  ٱلۡأَلۡبَٰبِ ٱلَّذِينَ ءَامَنُواْۚ قَدۡ أَنزَلَ ٱللَّهُ إِلَيۡكُمۡ ذِكۡرٗا
 sentence_translation: Allah has ˹also˺ prepared for them a severe punishment. So fear
   Allah, O  people of reason and faith. Allah has indeed revealed to you a Reminder,
 word_by_word:
   1:
-    arabic: اَعَدَّ
+    arabic: أَعَدَّ
     translation: Has prepared
     transliteration: aʿadda
   2:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   3:
@@ -18,39 +17,39 @@ word_by_word:
     translation: for them
     transliteration: lahum
   4:
-    arabic: عَذَابًا
+    arabic: عَذَابٗا
     translation: a punishment
     transliteration: ʿadhāban
   5:
-    arabic: شَدِيۡدًا​ ۙ
+    arabic: شَدِيدٗاۖ
     translation: severe
     transliteration: shadīdan
   6:
-    arabic: فَاتَّقُوا
+    arabic: فَٱتَّقُواْ
     translation: So fear
     transliteration: fa-ittaqū
   7:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   8:
-    arabic: يٰۤاُولِى
+    arabic: يَٰٓأُوْلِي
     translation: O men
     transliteration: yāulī
   9:
-    arabic: الۡاَ
+    arabic: ٱلۡأَ
     translation: (of) understanding
     transliteration: l-albābi
   10:
-    arabic: لۡبَابِ ۖۚ ۛ
+    arabic: لۡبَٰبِ
     translation: those who
     transliteration: alladhīna
   11:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ ءَ
     translation: have believed
     transliteration: āmanū
   12:
-    arabic: اٰمَنُوۡا ۛؕ
+    arabic: امَنُواْۚ
     translation: Indeed
     transliteration: qad
   13:
@@ -58,15 +57,15 @@ word_by_word:
     translation: Has sent down
     transliteration: anzala
   14:
-    arabic: اَنۡزَلَ
+    arabic: أَنزَلَ
     translation: Allah
     transliteration: l-lahu
   15:
-    arabic: اللّٰهُ اِلَيۡكُمۡ
+    arabic: ٱللَّهُ إِلَيۡكُمۡ
     translation: to you
     transliteration: ilaykum
   16:
-    arabic: ذِكۡرًا ۙ‏
+    arabic: ذِكۡرٗا
     translation: a Message
     transliteration: dhik'ran
 ---

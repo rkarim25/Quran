@@ -1,25 +1,25 @@
 ---
-arabic_ayat: اَمۡ لَـكُمۡ كِتٰبٌ فِيۡهِ تَدۡرُسُوۡنَۙ‏
+arabic_ayat: أَمۡ لَكُمۡ كِتَٰبٞ فِيهِ تَدۡرُسُونَ
 sentence_translation: Or do you have a scripture, in which you read
 word_by_word:
   1:
-    arabic: اَمۡ
+    arabic: أَمۡ
     translation: Or
     transliteration: am
   2:
-    arabic: لَـكُمۡ
+    arabic: لَكُمۡ
     translation: (is) for you
     transliteration: lakum
   3:
-    arabic: كِتٰبٌ
+    arabic: كِتَٰبٞ
     translation: a book
     transliteration: kitābun
   4:
-    arabic: فِيۡهِ
+    arabic: فِيهِ
     translation: wherein
     transliteration: fīhi
   5:
-    arabic: تَدۡرُسُوۡنَۙ‏
+    arabic: تَدۡرُسُونَ
     translation: you learn
     transliteration: tadrusūna
 ---

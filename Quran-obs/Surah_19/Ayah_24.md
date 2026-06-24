@@ -1,27 +1,27 @@
 ---
-arabic_ayat: فَنَادٰٮهَا مِنۡ تَحۡتِهَاۤ اَلَّا تَحۡزَنِىۡ قَدۡ جَعَلَ رَبُّكِ تَحۡتَكِ
-  سَرِيًّا‏
+arabic_ayat: فَنَادَىٰهَا مِن تَحۡتِهَآ أَلَّا تَحۡزَنِي قَدۡ جَعَلَ رَبُّكِ تَحۡتَكِ
+  سَرِيّٗا
 sentence_translation: So a voice reassured her from below her, “Do not grieve! Your
   Lord has provided a stream at your feet.
 word_by_word:
   1:
-    arabic: فَنَادٰٮهَا
+    arabic: فَنَادَىٰهَا
     translation: So cried to her
     transliteration: fanādāhā
   2:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   3:
-    arabic: تَحۡتِهَاۤ
+    arabic: تَحۡتِهَآ
     translation: beneath her
     transliteration: taḥtihā
   4:
-    arabic: اَلَّا
+    arabic: أَلَّا
     translation: That (do) not
     transliteration: allā
   5:
-    arabic: تَحۡزَنِىۡ
+    arabic: تَحۡزَنِي
     translation: grieve
     transliteration: taḥzanī
   6:
@@ -41,7 +41,7 @@ word_by_word:
     translation: beneath you
     transliteration: taḥtaki
   10:
-    arabic: سَرِيًّا‏
+    arabic: سَرِيّٗا
     translation: a stream
     transliteration: sariyyan
 ---

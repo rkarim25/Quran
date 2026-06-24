@@ -1,11 +1,11 @@
 ---
-arabic_ayat: اَفَلَا يَرَوۡنَ اَلَّا يَرۡجِعُ اِلَيۡهِمۡ قَوۡلًا ۙ وَّلَا يَمۡلِكُ
-  لَهُمۡ ضَرًّا وَّلَا نَفۡعًا‏
+arabic_ayat: أَفَلَا يَرَوۡنَ أَلَّا يَرۡجِعُ إِلَيۡهِمۡ قَوۡلٗا وَلَا يَمۡلِكُ لَهُمۡ
+  ضَرّٗا وَلَا نَفۡعٗا
 sentence_translation: Did they not see that it did not respond to them, nor could
   it protect or benefit them?
 word_by_word:
   1:
-    arabic: اَفَلَا
+    arabic: أَفَلَا
     translation: Then, did not
     transliteration: afalā
   2:
@@ -13,7 +13,7 @@ word_by_word:
     translation: they see
     transliteration: yarawna
   3:
-    arabic: اَلَّا
+    arabic: أَلَّا
     translation: that not
     transliteration: allā
   4:
@@ -21,15 +21,15 @@ word_by_word:
     translation: it (could) return
     transliteration: yarjiʿu
   5:
-    arabic: اِلَيۡهِمۡ
+    arabic: إِلَيۡهِمۡ
     translation: to them
     transliteration: ilayhim
   6:
-    arabic: قَوۡلًا ۙ
+    arabic: قَوۡلٗا
     translation: a word
     transliteration: qawlan
   7:
-    arabic: وَّلَا
+    arabic: وَلَا
     translation: and not
     transliteration: walā
   8:
@@ -41,15 +41,15 @@ word_by_word:
     translation: for them
     transliteration: lahum
   10:
-    arabic: ضَرًّا
+    arabic: ضَرّٗا
     translation: any harm
     transliteration: ḍarran
   11:
-    arabic: وَّلَا
+    arabic: وَلَا
     translation: and not
     transliteration: walā
   12:
-    arabic: نَفۡعًا‏
+    arabic: نَفۡعٗا
     translation: any benefit
     transliteration: nafʿan
 ---

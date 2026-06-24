@@ -1,6 +1,5 @@
 ---
-arabic_ayat: "قَالَ الۡمَلَاُ مِنۡ قَوۡمِهٖۤ اِنَّا لَـنَرٰٮكَ فِىۡ ضَلٰلٍ مُّبِيۡنٍ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: قَالَ ٱلۡمَلَأُ مِن قَوۡمِهِۦٓ إِنَّا لَنَرَىٰكَ فِي ضَلَٰلٖ مُّبِينٖ
 sentence_translation: But the chiefs of his people said, “We surely see that you are
   clearly misguided.”
 word_by_word:
@@ -9,35 +8,35 @@ word_by_word:
     translation: Said
     transliteration: qāla
   2:
-    arabic: الۡمَلَاُ
+    arabic: ٱلۡمَلَأُ
     translation: the chiefs
     transliteration: l-mala-u
   3:
-    arabic: مِنۡ
+    arabic: مِن
     translation: of
     transliteration: min
   4:
-    arabic: قَوۡمِهٖۤ
+    arabic: قَوۡمِهِۦٓ
     translation: his people
     transliteration: qawmihi
   5:
-    arabic: اِنَّا
+    arabic: إِنَّا
     translation: Indeed, we
     transliteration: innā
   6:
-    arabic: لَـنَرٰٮكَ
+    arabic: لَنَرَىٰكَ
     translation: surely see you
     transliteration: lanarāka
   7:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   8:
-    arabic: ضَلٰلٍ
+    arabic: ضَلَٰلٖ
     translation: error
     transliteration: ḍalālin
   9:
-    arabic: "مُّبِيۡنٍ‏ \uFEFF\uFEFF"
+    arabic: مُّبِينٖ
     translation: clear
     transliteration: mubīnin
 ---

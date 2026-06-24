@@ -1,25 +1,25 @@
 ---
-arabic_ayat: اِنَّ فِىۡ ذٰلِكَ لَاٰيَةً لِّـلۡمُؤۡمِنِيۡنَؕ‏
+arabic_ayat: إِنَّ فِي ذَٰلِكَ لَأٓيَةٗ لِّلۡمُؤۡمِنِينَ
 sentence_translation: Surely in this is a sign for those who believe.
 word_by_word:
   1:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   2:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   3:
-    arabic: ذٰلِكَ
+    arabic: ذَٰلِكَ
     translation: that
     transliteration: dhālika
   4:
-    arabic: لَاٰيَةً
+    arabic: لَأٓيَةٗ
     translation: surely (is) a Sign
     transliteration: laāyatan
   5:
-    arabic: لِّـلۡمُؤۡمِنِيۡنَؕ‏
+    arabic: لِّلۡمُؤۡمِنِينَ
     translation: for the believers
     transliteration: lil'mu'minīna
 ---

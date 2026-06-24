@@ -1,14 +1,14 @@
 ---
-arabic_ayat: اَلَمۡ تَرَوۡا كَيۡفَ خَلَقَ اللّٰهُ سَبۡعَ سَمٰوٰتٍ طِبَاقًا ۙ‏
+arabic_ayat: أَلَمۡ تَرَوۡاْ كَيۡفَ خَلَقَ ٱللَّهُ سَبۡعَ سَمَٰوَٰتٖ طِبَاقٗا
 sentence_translation: Do you not see how Allah created seven heavens, one above the
   other,
 word_by_word:
   1:
-    arabic: اَلَمۡ
+    arabic: أَلَمۡ
     translation: Do not
     transliteration: alam
   2:
-    arabic: تَرَوۡا
+    arabic: تَرَوۡاْ
     translation: you see
     transliteration: taraw
   3:
@@ -20,7 +20,7 @@ word_by_word:
     translation: did create
     transliteration: khalaqa
   5:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   6:
@@ -28,11 +28,11 @@ word_by_word:
     translation: (the) seven
     transliteration: sabʿa
   7:
-    arabic: سَمٰوٰتٍ
+    arabic: سَمَٰوَٰتٖ
     translation: heavens
     transliteration: samāwātin
   8:
-    arabic: طِبَاقًا ۙ‏
+    arabic: طِبَاقٗا
     translation: (in) layers
     transliteration: ṭibāqan
 ---

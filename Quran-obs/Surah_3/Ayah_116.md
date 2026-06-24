@@ -1,29 +1,29 @@
 ---
-arabic_ayat: "اِنَّ الَّذِيۡنَ كَفَرُوۡا لَنۡ تُغۡنِىَ عَنۡهُمۡ اَمۡوَالُهُمۡ وَلَاۤ\
-  \ اَوۡلَادُهُمۡ مِّنَ اللّٰهِ شَيۡـــًٔا  ؕ وَاُولٰٓٮِٕكَ اَصۡحٰبُ النَّارِ​ۚ هُمۡ\
-  \ فِيۡهَا خٰلِدُوۡنَ‏ \uFEFF\uFEFF"
+arabic_ayat: إِنَّ ٱلَّذِينَ كَفَرُواْ لَن تُغۡنِيَ عَنۡهُمۡ أَمۡوَٰلُهُمۡ وَلَآ
+  أَوۡلَٰدُهُم مِّنَ ٱللَّهِ شَيۡـٔٗاۖ وَأُوْلَٰٓئِكَ أَصۡحَٰبُ ٱلنَّارِۖ هُمۡ فِيهَا
+  خَٰلِدُونَ
 sentence_translation: Indeed, neither the wealth nor children of the disbelievers
   will be of any benefit to them against Allah. It is they who will be the residents
   of the Fire. They will be there forever.
 word_by_word:
   1:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   3:
-    arabic: كَفَرُوۡا
+    arabic: كَفَرُواْ
     translation: disbelieved
     transliteration: kafarū
   4:
-    arabic: لَنۡ
+    arabic: لَن
     translation: never
     transliteration: lan
   5:
-    arabic: تُغۡنِىَ
+    arabic: تُغۡنِيَ
     translation: will avail
     transliteration: tugh'niya
   6:
@@ -31,15 +31,15 @@ word_by_word:
     translation: '[for] them'
     transliteration: ʿanhum
   7:
-    arabic: اَمۡوَالُهُمۡ
+    arabic: أَمۡوَٰلُهُمۡ
     translation: their wealth
     transliteration: amwāluhum
   8:
-    arabic: وَلَاۤ
+    arabic: وَلَآ
     translation: and not
     transliteration: walā
   9:
-    arabic: اَوۡلَادُهُمۡ
+    arabic: أَوۡلَٰدُهُم
     translation: their children
     transliteration: awlāduhum
   10:
@@ -47,23 +47,23 @@ word_by_word:
     translation: against
     transliteration: mina
   11:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   12:
-    arabic: شَيۡـــًٔا  ؕ
+    arabic: شَيۡـٔٗاۖ
     translation: anything
     transliteration: shayan
   13:
-    arabic: وَاُولٰٓٮِٕكَ
+    arabic: وَأُوْلَٰٓئِكَ
     translation: and those
     transliteration: wa-ulāika
   14:
-    arabic: اَصۡحٰبُ
+    arabic: أَصۡحَٰبُ
     translation: (are the) companions
     transliteration: aṣḥābu
   15:
-    arabic: النَّارِ​ۚ
+    arabic: ٱلنَّارِۖ
     translation: (of) the Fire
     transliteration: l-nāri
   16:
@@ -71,11 +71,11 @@ word_by_word:
     translation: they
     transliteration: hum
   17:
-    arabic: فِيۡهَا
+    arabic: فِيهَا
     translation: in it
     transliteration: fīhā
   18:
-    arabic: "خٰلِدُوۡنَ‏ \uFEFF\uFEFF"
+    arabic: خَٰلِدُونَ
     translation: (will) abide forever
     transliteration: khālidūna
 ---

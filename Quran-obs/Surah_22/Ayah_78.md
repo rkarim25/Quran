@@ -1,10 +1,9 @@
 ---
-arabic_ayat: "وَجَاهِدُوۡا فِى اللّٰهِ حَقَّ جِهَادِهٖ​ؕ هُوَ اجۡتَبٰٮكُمۡ وَمَا جَعَلَ\
-  \ عَلَيۡكُمۡ فِى الدِّيۡنِ مِنۡ حَرَجٍ​ؕ مِلَّةَ اَبِيۡكُمۡ اِبۡرٰهِيۡمَ​ؕ هُوَ\
-  \ سَمّٰٮكُمُ الۡمُسۡلِمِيۡنَ ۙ مِنۡ قَبۡلُ وَفِىۡ هٰذَا لِيَكُوۡنَ الرَّسُوۡلُ\
-  \ شَهِيۡدًا عَلَيۡكُمۡ وَتَكُوۡنُوۡا شُهَدَآءَ عَلَى النَّاسِ​ ​ۖۚ فَاَقِيۡمُوا\
-  \ الصَّلٰوةَ وَاٰتُوا الزَّكٰوةَ وَاعۡتَصِمُوۡا بِاللّٰهِؕ هُوَ مَوۡلٰٮكُمۡ​ۚ فَنِعۡمَ\
-  \ الۡمَوۡلٰى وَنِعۡمَ النَّصِيۡرُ‏ \uFEFF\uFEFF"
+arabic_ayat: وَجَٰهِدُواْ فِي ٱللَّهِ حَقَّ جِهَادِهِۦۚ هُوَ ٱجۡتَبَىٰكُمۡ وَمَا جَعَلَ
+  عَلَيۡكُمۡ فِي ٱلدِّينِ مِنۡ حَرَجٖۚ مِّلَّةَ أَبِيكُمۡ إِبۡرَٰهِيمَۚ هُوَ سَمَّىٰكُمُ
+  ٱلۡمُسۡلِمِينَ مِن قَبۡلُ وَفِي هَٰذَا لِيَكُونَ ٱلرَّسُولُ شَهِيدًا عَلَيۡكُمۡ
+  وَتَكُونُواْ شُهَدَآءَ عَلَى ٱلنَّاسِۚ فَأَقِيمُواْ ٱلصَّلَوٰةَ وَءَاتُواْ ٱلزَّكَوٰةَ
+  وَٱعۡتَصِمُواْ بِٱللَّهِ هُوَ مَوۡلَىٰكُمۡۖ فَنِعۡمَ ٱلۡمَوۡلَىٰ وَنِعۡمَ ٱلنَّصِيرُ
 sentence_translation: Strive for ˹the cause of˺ Allah in the way He deserves, for
   ˹it is˺ He ˹Who˺ has chosen you, and laid upon you no hardship in the religion—the
   way of your forefather Abraham. ˹It is Allah˺ Who named you ‘the ones who submit’ ˹in
@@ -14,15 +13,15 @@ sentence_translation: Strive for ˹the cause of˺ Allah in the way He deserves, 
   Guardian, and what an excellent Helper!
 word_by_word:
   1:
-    arabic: وَجَاهِدُوۡا
+    arabic: وَجَٰهِدُواْ
     translation: And strive
     transliteration: wajāhidū
   2:
-    arabic: فِى
+    arabic: فِي
     translation: for
     transliteration: fī
   3:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   4:
@@ -30,7 +29,7 @@ word_by_word:
     translation: (with the) striving due (to) Him
     transliteration: ḥaqqa
   5:
-    arabic: جِهَادِهٖ​ؕ
+    arabic: جِهَادِهِۦۚ
     translation: (with the) striving due (to) Him
     transliteration: jihādihi
   6:
@@ -38,7 +37,7 @@ word_by_word:
     translation: He
     transliteration: huwa
   7:
-    arabic: اجۡتَبٰٮكُمۡ
+    arabic: ٱجۡتَبَىٰكُمۡ
     translation: (has) chosen you
     transliteration: ij'tabākum
   8:
@@ -54,11 +53,11 @@ word_by_word:
     translation: upon you
     transliteration: ʿalaykum
   11:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   12:
-    arabic: الدِّيۡنِ
+    arabic: ٱلدِّينِ
     translation: the religion
     transliteration: l-dīni
   13:
@@ -66,19 +65,19 @@ word_by_word:
     translation: any
     transliteration: min
   14:
-    arabic: حَرَجٍ​ؕ
+    arabic: حَرَجٖۚ
     translation: difficulty
     transliteration: ḥarajin
   15:
-    arabic: مِلَّةَ
+    arabic: مِّلَّةَ
     translation: (The) religion
     transliteration: millata
   16:
-    arabic: اَبِيۡكُمۡ
+    arabic: أَبِيكُمۡ
     translation: (of) your father
     transliteration: abīkum
   17:
-    arabic: اِبۡرٰهِيۡمَ​ؕ
+    arabic: إِبۡرَٰهِيمَۚ
     translation: Ibrahim
     transliteration: ib'rāhīma
   18:
@@ -86,15 +85,15 @@ word_by_word:
     translation: He
     transliteration: huwa
   19:
-    arabic: سَمّٰٮكُمُ
+    arabic: سَمَّىٰكُمُ
     translation: named you
     transliteration: sammākumu
   20:
-    arabic: الۡمُسۡلِمِيۡنَ ۙ
+    arabic: ٱلۡمُسۡلِمِينَ
     translation: Muslims
     transliteration: l-mus'limīna
   21:
-    arabic: مِنۡ
+    arabic: مِن
     translation: before
     transliteration: min
   22:
@@ -102,23 +101,23 @@ word_by_word:
     translation: before
     transliteration: qablu
   23:
-    arabic: وَفِىۡ
+    arabic: وَفِي
     translation: and in
     transliteration: wafī
   24:
-    arabic: هٰذَا
+    arabic: هَٰذَا
     translation: this
     transliteration: hādhā
   25:
-    arabic: لِيَكُوۡنَ
+    arabic: لِيَكُونَ
     translation: that may be
     transliteration: liyakūna
   26:
-    arabic: الرَّسُوۡلُ
+    arabic: ٱلرَّسُولُ
     translation: the Messenger
     transliteration: l-rasūlu
   27:
-    arabic: شَهِيۡدًا
+    arabic: شَهِيدًا
     translation: a witness
     transliteration: shahīdan
   28:
@@ -126,7 +125,7 @@ word_by_word:
     translation: over you
     transliteration: ʿalaykum
   29:
-    arabic: وَتَكُوۡنُوۡا
+    arabic: وَتَكُونُواْ
     translation: and you may be
     transliteration: watakūnū
   30:
@@ -138,31 +137,31 @@ word_by_word:
     translation: 'on'
     transliteration: ʿalā
   32:
-    arabic: النَّاسِ​ ​ۖۚ
+    arabic: ٱلنَّاسِۚ
     translation: the mankind
     transliteration: l-nāsi
   33:
-    arabic: فَاَقِيۡمُوا
+    arabic: فَأَقِيمُواْ
     translation: So establish
     transliteration: fa-aqīmū
   34:
-    arabic: الصَّلٰوةَ
+    arabic: ٱلصَّلَوٰةَ
     translation: the prayer
     transliteration: l-ṣalata
   35:
-    arabic: وَاٰتُوا
+    arabic: وَءَاتُواْ
     translation: and give
     transliteration: waātū
   36:
-    arabic: الزَّكٰوةَ
+    arabic: ٱلزَّكَوٰةَ
     translation: zakah
     transliteration: l-zakata
   37:
-    arabic: وَاعۡتَصِمُوۡا
+    arabic: وَٱعۡتَصِمُواْ
     translation: and hold fast
     transliteration: wa-iʿ'taṣimū
   38:
-    arabic: بِاللّٰهِؕ
+    arabic: بِٱللَّهِ
     translation: to Allah
     transliteration: bil-lahi
   39:
@@ -170,7 +169,7 @@ word_by_word:
     translation: He
     transliteration: huwa
   40:
-    arabic: مَوۡلٰٮكُمۡ​ۚ
+    arabic: مَوۡلَىٰكُمۡۖ
     translation: '(is) your Protector '
     transliteration: mawlākum
   41:
@@ -178,7 +177,7 @@ word_by_word:
     translation: so an Excellent
     transliteration: faniʿ'ma
   42:
-    arabic: الۡمَوۡلٰى
+    arabic: ٱلۡمَوۡلَىٰ
     translation: '[the] Protector'
     transliteration: l-mawlā
   43:
@@ -186,7 +185,7 @@ word_by_word:
     translation: and an Excellent
     transliteration: waniʿ'ma
   44:
-    arabic: "النَّصِيۡرُ‏ \uFEFF\uFEFF"
+    arabic: ٱلنَّصِيرُ
     translation: '[the] Helper'
     transliteration: l-naṣīru
 ---

@@ -1,7 +1,7 @@
 ---
-arabic_ayat: لِلۡفُقَرَآءِ الۡمُهٰجِرِيۡنَ الَّذِيۡنَ اُخۡرِجُوۡا مِنۡ دِيَارِهِمۡ
-  وَاَمۡوَالِهِمۡ يَبۡتَغُوۡنَ فَضۡلًا مِّنَ اللّٰهِ وَرِضۡوَانًا وَّيَنۡصُرُوۡنَ
-  اللّٰهَ وَرَسُوۡلَهٗ​ؕ اُولٰٓٮِٕكَ هُمُ الصّٰدِقُوۡنَ​ۚ‏
+arabic_ayat: لِلۡفُقَرَآءِ ٱلۡمُهَٰجِرِينَ ٱلَّذِينَ أُخۡرِجُواْ مِن دِيَٰرِهِمۡ
+  وَأَمۡوَٰلِهِمۡ يَبۡتَغُونَ فَضۡلٗا مِّنَ ٱللَّهِ وَرِضۡوَٰنٗا وَيَنصُرُونَ ٱللَّهَ
+  وَرَسُولَهُۥٓۚ أُوْلَٰٓئِكَ هُمُ ٱلصَّٰدِقُونَ
 sentence_translation: ˹Some of the gains will be˺ for poor emigrants who were driven
   out of their homes and wealth, seeking Allah’s bounty and pleasure, and standing
   up for Allah and His Messenger. They are the ones true in faith.
@@ -11,35 +11,35 @@ word_by_word:
     translation: For the poor
     transliteration: lil'fuqarāi
   2:
-    arabic: الۡمُهٰجِرِيۡنَ
+    arabic: ٱلۡمُهَٰجِرِينَ
     translation: emigrants
     transliteration: l-muhājirīna
   3:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   4:
-    arabic: اُخۡرِجُوۡا
+    arabic: أُخۡرِجُواْ
     translation: were expelled
     transliteration: ukh'rijū
   5:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   6:
-    arabic: دِيَارِهِمۡ
+    arabic: دِيَٰرِهِمۡ
     translation: their homes
     transliteration: diyārihim
   7:
-    arabic: وَاَمۡوَالِهِمۡ
+    arabic: وَأَمۡوَٰلِهِمۡ
     translation: and their properties
     transliteration: wa-amwālihim
   8:
-    arabic: يَبۡتَغُوۡنَ
+    arabic: يَبۡتَغُونَ
     translation: seeking
     transliteration: yabtaghūna
   9:
-    arabic: فَضۡلًا
+    arabic: فَضۡلٗا
     translation: bounty
     transliteration: faḍlan
   10:
@@ -47,27 +47,27 @@ word_by_word:
     translation: from
     transliteration: mina
   11:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   12:
-    arabic: وَرِضۡوَانًا
+    arabic: وَرِضۡوَٰنٗا
     translation: and pleasure
     transliteration: wariḍ'wānan
   13:
-    arabic: وَّيَنۡصُرُوۡنَ
+    arabic: وَيَنصُرُونَ
     translation: and helping
     transliteration: wayanṣurūna
   14:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   15:
-    arabic: وَرَسُوۡلَهٗ​ؕ
+    arabic: وَرَسُولَهُۥٓۚ
     translation: and His Messenger
     transliteration: warasūlahu
   16:
-    arabic: اُولٰٓٮِٕكَ
+    arabic: أُوْلَٰٓئِكَ
     translation: Those
     transliteration: ulāika
   17:
@@ -75,7 +75,7 @@ word_by_word:
     translation: they
     transliteration: humu
   18:
-    arabic: الصّٰدِقُوۡنَ​ۚ‏
+    arabic: ٱلصَّٰدِقُونَ
     translation: (are) the truthful
     transliteration: l-ṣādiqūna
 ---

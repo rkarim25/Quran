@@ -1,27 +1,27 @@
 ---
-arabic_ayat: لَنۡ تَنَالُوا الۡبِرَّ حَتّٰى تُنۡفِقُوۡا مِمَّا تُحِبُّوۡنَ ؕ  وَمَا
-  تُنۡفِقُوۡا مِنۡ شَىۡءٍ فَاِنَّ اللّٰهَ بِهٖ عَلِيۡمٌ‏
+arabic_ayat: لَن تَنَالُواْ ٱلۡبِرَّ حَتَّىٰ تُنفِقُواْ مِمَّا تُحِبُّونَۚ وَمَا تُنفِقُواْ
+  مِن شَيۡءٖ فَإِنَّ ٱللَّهَ بِهِۦ عَلِيمٞ
 sentence_translation: You will never achieve righteousness until you donate some of
   what you cherish. And whatever you give is certainly well known to Allah.
 word_by_word:
   1:
-    arabic: لَنۡ
+    arabic: لَن
     translation: Never
     transliteration: lan
   2:
-    arabic: تَنَالُوا
+    arabic: تَنَالُواْ
     translation: will you attain
     transliteration: tanālū
   3:
-    arabic: الۡبِرَّ
+    arabic: ٱلۡبِرَّ
     translation: '[the] righteousness'
     transliteration: l-bira
   4:
-    arabic: حَتّٰى
+    arabic: حَتَّىٰ
     translation: until
     transliteration: ḥattā
   5:
-    arabic: تُنۡفِقُوۡا
+    arabic: تُنفِقُواْ
     translation: you spend
     transliteration: tunfiqū
   6:
@@ -29,7 +29,7 @@ word_by_word:
     translation: from what
     transliteration: mimmā
   7:
-    arabic: تُحِبُّوۡنَ ؕ 
+    arabic: تُحِبُّونَۚ
     translation: you love
     transliteration: tuḥibbūna
   8:
@@ -37,31 +37,31 @@ word_by_word:
     translation: And whatever
     transliteration: wamā
   9:
-    arabic: تُنۡفِقُوۡا
+    arabic: تُنفِقُواْ
     translation: you spend
     transliteration: tunfiqū
   10:
-    arabic: مِنۡ
+    arabic: مِن
     translation: of
     transliteration: min
   11:
-    arabic: شَىۡءٍ
+    arabic: شَيۡءٖ
     translation: a thing
     transliteration: shayin
   12:
-    arabic: فَاِنَّ
+    arabic: فَإِنَّ
     translation: then indeed
     transliteration: fa-inna
   13:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   14:
-    arabic: بِهٖ
+    arabic: بِهِۦ
     translation: of it
     transliteration: bihi
   15:
-    arabic: عَلِيۡمٌ‏
+    arabic: عَلِيمٞ
     translation: (is) All-Knowing
     transliteration: ʿalīmun
 ---

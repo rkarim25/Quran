@@ -1,9 +1,9 @@
 ---
-arabic_ayat: اِنَّ جَهَنَّمَ كَانَتۡ مِرۡصَادًا ۙ‏
+arabic_ayat: إِنَّ جَهَنَّمَ كَانَتۡ مِرۡصَادٗا
 sentence_translation: Indeed, Hell is lying in ambush
 word_by_word:
   1:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   2:
@@ -15,7 +15,7 @@ word_by_word:
     translation: is
     transliteration: kānat
   4:
-    arabic: مِرۡصَادًا ۙ‏
+    arabic: مِرۡصَادٗا
     translation: lying in wait
     transliteration: mir'ṣādan
 ---

@@ -1,51 +1,51 @@
 ---
-arabic_ayat: بَدِيۡعُ السَّمٰوٰتِ وَالۡاَرۡضِ​ؕ وَ اِذَا قَضٰٓى اَمۡرًا فَاِنَّمَا
-  يَقُوۡلُ لَهٗ كُنۡ فَيَكُوۡنُ‏
+arabic_ayat: بَدِيعُ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِۖ وَإِذَا قَضَىٰٓ أَمۡرٗا فَإِنَّمَا
+  يَقُولُ لَهُۥ كُن فَيَكُونُ
 sentence_translation: ˹He is˺ the Originator of the heavens and the earth! When He
   decrees a matter, He simply tells it, “Be!” And it is!
 word_by_word:
   1:
-    arabic: بَدِيۡعُ
+    arabic: بَدِيعُ
     translation: (The) Originator
     transliteration: badīʿu
   2:
-    arabic: السَّمٰوٰتِ
+    arabic: ٱلسَّمَٰوَٰتِ
     translation: (of) the heavens
     transliteration: l-samāwāti
   3:
-    arabic: وَالۡاَرۡضِ​ؕ
+    arabic: وَٱلۡأَرۡضِۖ
     translation: and the earth
     transliteration: wal-arḍi
   4:
-    arabic: وَ اِذَا
+    arabic: وَإِذَا
     translation: And when
     transliteration: wa-idhā
   5:
-    arabic: قَضٰٓى
+    arabic: قَضَىٰٓ
     translation: He decrees
     transliteration: qaḍā
   6:
-    arabic: اَمۡرًا
+    arabic: أَمۡرٗا
     translation: a matter
     transliteration: amran
   7:
-    arabic: فَاِنَّمَا
+    arabic: فَإِنَّمَا
     translation: '[so] only'
     transliteration: fa-innamā
   8:
-    arabic: يَقُوۡلُ
+    arabic: يَقُولُ
     translation: He says
     transliteration: yaqūlu
   9:
-    arabic: لَهٗ
+    arabic: لَهُۥ
     translation: to it
     transliteration: lahu
   10:
-    arabic: كُنۡ
+    arabic: كُن
     translation: Be
     transliteration: kun
   11:
-    arabic: فَيَكُوۡنُ‏
+    arabic: فَيَكُونُ
     translation: and it becomes
     transliteration: fayakūnu
 ---

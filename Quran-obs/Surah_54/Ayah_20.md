@@ -1,30 +1,30 @@
 ---
-arabic_ayat: تَنۡزِعُ النَّاسَۙ كَاَنَّهُمۡ اَعۡجَازُ نَخۡلٍ مُّنۡقَعِرٍ‏
+arabic_ayat: تَنزِعُ ٱلنَّاسَ كَأَنَّهُمۡ أَعۡجَازُ نَخۡلٖ مُّنقَعِرٖ
 sentence_translation: that snatched people up, leaving them like trunks of uprooted
   palm trees.
 word_by_word:
   1:
-    arabic: تَنۡزِعُ
+    arabic: تَنزِعُ
     translation: Plucking out
     transliteration: tanziʿu
   2:
-    arabic: النَّاسَۙ
+    arabic: ٱلنَّاسَ
     translation: men
     transliteration: l-nāsa
   3:
-    arabic: كَاَنَّهُمۡ
+    arabic: كَأَنَّهُمۡ
     translation: as if they (were)
     transliteration: ka-annahum
   4:
-    arabic: اَعۡجَازُ
+    arabic: أَعۡجَازُ
     translation: trunks
     transliteration: aʿjāzu
   5:
-    arabic: نَخۡلٍ
+    arabic: نَخۡلٖ
     translation: (of) date-palms
     transliteration: nakhlin
   6:
-    arabic: مُّنۡقَعِرٍ‏
+    arabic: مُّنقَعِرٖ
     translation: uprooted
     transliteration: munqaʿirin
 ---

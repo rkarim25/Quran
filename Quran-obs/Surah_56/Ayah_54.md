@@ -1,9 +1,9 @@
 ---
-arabic_ayat: فَشٰرِبُوۡنَ عَلَيۡهِ مِنَ الۡحَمِيۡمِ​ۚ‏
+arabic_ayat: فَشَٰرِبُونَ عَلَيۡهِ مِنَ ٱلۡحَمِيمِ
 sentence_translation: Then on top of that you will drink boiling water—
 word_by_word:
   1:
-    arabic: فَشٰرِبُوۡنَ
+    arabic: فَشَٰرِبُونَ
     translation: And drink
     transliteration: fashāribūna
   2:
@@ -15,7 +15,7 @@ word_by_word:
     translation: '[from]'
     transliteration: mina
   4:
-    arabic: الۡحَمِيۡمِ​ۚ‏
+    arabic: ٱلۡحَمِيمِ
     translation: the scalding water
     transliteration: l-ḥamīmi
 ---

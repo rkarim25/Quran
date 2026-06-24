@@ -1,15 +1,14 @@
 ---
-arabic_ayat: "وَاِذَا جَآءَكَ الَّذِيۡنَ يُؤۡمِنُوۡنَ بِاٰيٰتِنَا فَقُلۡ سَلٰمٌ عَلَيۡكُمۡ​\
-  \ كَتَبَ رَبُّكُمۡ عَلٰى نَفۡسِهِ الرَّحۡمَةَ​ ۙ اَنَّهٗ مَنۡ عَمِلَ مِنۡكُمۡ سُوۡٓءًۢا\
-  \ بِجَهَالَةٍ ثُمَّ تَابَ مِنۡۢ بَعۡدِهٖ وَاَصۡلَحَۙ فَاَنَّهٗ غَفُوۡرٌ رَّحِيۡمٌ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: وَإِذَا جَآءَكَ ٱلَّذِينَ يُؤۡمِنُونَ بِـَٔايَٰتِنَا فَقُلۡ سَلَٰمٌ
+  عَلَيۡكُمۡۖ كَتَبَ رَبُّكُمۡ عَلَىٰ نَفۡسِهِ ٱلرَّحۡمَةَ أَنَّهُۥ مَنۡ عَمِلَ مِنكُمۡ
+  سُوٓءَۢا بِجَهَٰلَةٖ ثُمَّ تَابَ مِنۢ بَعۡدِهِۦ وَأَصۡلَحَ فَأَنَّهُۥ غَفُورٞ رَّحِيمٞ
 sentence_translation: When the believers in Our revelations come to you, say, “Peace
   be upon you! Your Lord has taken upon Himself to be Merciful. Whoever among you
   commits evil ignorantly ˹or recklessly˺ then repents afterwards and mends their
   ways, then Allah is truly All-Forgiving, Most Merciful.”
 word_by_word:
   1:
-    arabic: وَاِذَا
+    arabic: وَإِذَا
     translation: And when
     transliteration: wa-idhā
   2:
@@ -17,15 +16,15 @@ word_by_word:
     translation: come to you
     transliteration: jāaka
   3:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   4:
-    arabic: يُؤۡمِنُوۡنَ
+    arabic: يُؤۡمِنُونَ
     translation: believe
     transliteration: yu'minūna
   5:
-    arabic: بِاٰيٰتِنَا
+    arabic: بِـَٔايَٰتِنَا
     translation: in Our Verses
     transliteration: biāyātinā
   6:
@@ -33,11 +32,11 @@ word_by_word:
     translation: then say
     transliteration: faqul
   7:
-    arabic: سَلٰمٌ
+    arabic: سَلَٰمٌ
     translation: Peace
     transliteration: salāmun
   8:
-    arabic: عَلَيۡكُمۡ
+    arabic: عَلَيۡكُمۡۖ
     translation: (be) upon you
     transliteration: ʿalaykum
   9:
@@ -49,7 +48,7 @@ word_by_word:
     translation: your Lord
     transliteration: rabbukum
   11:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: upon
     transliteration: ʿalā
   12:
@@ -57,11 +56,11 @@ word_by_word:
     translation: Himself
     transliteration: nafsihi
   13:
-    arabic: الرَّحۡمَةَ​ ۙ
+    arabic: ٱلرَّحۡمَةَ
     translation: the Mercy
     transliteration: l-raḥmata
   14:
-    arabic: اَنَّهٗ
+    arabic: أَنَّهُۥ
     translation: that he
     transliteration: annahu
   15:
@@ -73,15 +72,15 @@ word_by_word:
     translation: does
     transliteration: ʿamila
   17:
-    arabic: مِنۡكُمۡ
+    arabic: مِنكُمۡ
     translation: among you
     transliteration: minkum
   18:
-    arabic: سُوۡٓءًۢا
+    arabic: سُوٓءَۢا
     translation: evil
     transliteration: sūan
   19:
-    arabic: بِجَهَالَةٍ
+    arabic: بِجَهَٰلَةٖ
     translation: in ignorance
     transliteration: bijahālatin
   20:
@@ -93,27 +92,27 @@ word_by_word:
     translation: repents
     transliteration: tāba
   22:
-    arabic: مِنۡۢ
+    arabic: مِنۢ
     translation: from
     transliteration: min
   23:
-    arabic: بَعۡدِهٖ
+    arabic: بَعۡدِهِۦ
     translation: after it
     transliteration: baʿdihi
   24:
-    arabic: وَاَصۡلَحَۙ
+    arabic: وَأَصۡلَحَ
     translation: and reforms
     transliteration: wa-aṣlaḥa
   25:
-    arabic: فَاَنَّهٗ
+    arabic: فَأَنَّهُۥ
     translation: then, indeed He
     transliteration: fa-annahu
   26:
-    arabic: غَفُوۡرٌ
+    arabic: غَفُورٞ
     translation: (is) Oft-Forgiving
     transliteration: ghafūrun
   27:
-    arabic: "رَّحِيۡمٌ‏ \uFEFF\uFEFF"
+    arabic: رَّحِيمٞ
     translation: Most Merciful
     transliteration: raḥīmun
 ---

@@ -1,6 +1,6 @@
 ---
-arabic_ayat: قَالَ لَمۡ اَكُنۡ لِّاَسۡجُدَ لِبَشَرٍ خَلَقۡتَهٗ مِنۡ صَلۡصَالٍ مِّنۡ
-  حَمَاٍ مَّسۡنُوۡنٍ‏
+arabic_ayat: قَالَ لَمۡ أَكُن لِّأَسۡجُدَ لِبَشَرٍ خَلَقۡتَهُۥ مِن صَلۡصَٰلٖ مِّنۡ
+  حَمَإٖ مَّسۡنُونٖ
 sentence_translation: He replied, “It is not for me to prostrate to a human You created
   from sounding clay moulded from black mud.”
 word_by_word:
@@ -13,11 +13,11 @@ word_by_word:
     translation: I am not
     transliteration: lam
   3:
-    arabic: اَكُنۡ
+    arabic: أَكُن
     translation: I am not
     transliteration: akun
   4:
-    arabic: لِّاَسۡجُدَ
+    arabic: لِّأَسۡجُدَ
     translation: (one) to prostrate
     transliteration: li-asjuda
   5:
@@ -25,15 +25,15 @@ word_by_word:
     translation: to a human
     transliteration: libasharin
   6:
-    arabic: خَلَقۡتَهٗ
+    arabic: خَلَقۡتَهُۥ
     translation: whom You created
     transliteration: khalaqtahu
   7:
-    arabic: مِنۡ
+    arabic: مِن
     translation: (out) of
     transliteration: min
   8:
-    arabic: صَلۡصَالٍ
+    arabic: صَلۡصَٰلٖ
     translation: clay
     transliteration: ṣalṣālin
   9:
@@ -41,11 +41,11 @@ word_by_word:
     translation: from
     transliteration: min
   10:
-    arabic: حَمَاٍ
+    arabic: حَمَإٖ
     translation: black mud
     transliteration: ḥama-in
   11:
-    arabic: مَّسۡنُوۡنٍ‏
+    arabic: مَّسۡنُونٖ
     translation: altered
     transliteration: masnūnin
 ---

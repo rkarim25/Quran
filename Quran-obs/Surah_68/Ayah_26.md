@@ -1,5 +1,5 @@
 ---
-arabic_ayat: فَلَمَّا رَاَوۡهَا قَالُوۡۤا اِنَّا لَـضَآلُّوۡنَۙ‏
+arabic_ayat: فَلَمَّا رَأَوۡهَا قَالُوٓاْ إِنَّا لَضَآلُّونَ
 sentence_translation: But when they saw it ˹devastated˺, they cried, “We must have
   lost ˹our˺ way!
 word_by_word:
@@ -8,19 +8,19 @@ word_by_word:
     translation: But when
     transliteration: falammā
   2:
-    arabic: رَاَوۡهَا
+    arabic: رَأَوۡهَا
     translation: they saw it
     transliteration: ra-awhā
   3:
-    arabic: قَالُوۡۤا
+    arabic: قَالُوٓاْ
     translation: they said
     transliteration: qālū
   4:
-    arabic: اِنَّا
+    arabic: إِنَّا
     translation: Indeed, we
     transliteration: innā
   5:
-    arabic: لَـضَآلُّوۡنَۙ‏
+    arabic: لَضَآلُّونَ
     translation: (are) surely lost
     transliteration: laḍāllūna
 ---

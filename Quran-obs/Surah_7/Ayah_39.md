@@ -1,6 +1,6 @@
 ---
-arabic_ayat: وَقَالَتۡ اُوۡلٰٮهُمۡ لِاُخۡرٰٮهُمۡ فَمَا كَانَ لَـكُمۡ عَلَيۡنَا مِنۡ
-  فَضۡلٍ فَذُوۡقُوا الۡعَذَابَ بِمَا كُنۡتُمۡ تَكۡسِبُوۡنَ‏
+arabic_ayat: وَقَالَتۡ أُولَىٰهُمۡ لِأُخۡرَىٰهُمۡ فَمَا كَانَ لَكُمۡ عَلَيۡنَا مِن
+  فَضۡلٖ فَذُوقُواْ ٱلۡعَذَابَ بِمَا كُنتُمۡ تَكۡسِبُونَ
 sentence_translation: Then the leaders will say to their followers, “You were no better
   than us! So taste the torment for what you used to commit.”
 word_by_word:
@@ -9,11 +9,11 @@ word_by_word:
     translation: And (will) say
     transliteration: waqālat
   2:
-    arabic: اُوۡلٰٮهُمۡ
+    arabic: أُولَىٰهُمۡ
     translation: (the) first of them
     transliteration: ūlāhum
   3:
-    arabic: لِاُخۡرٰٮهُمۡ
+    arabic: لِأُخۡرَىٰهُمۡ
     translation: to (the) last of them
     transliteration: li-ukh'rāhum
   4:
@@ -25,7 +25,7 @@ word_by_word:
     translation: is
     transliteration: kāna
   6:
-    arabic: لَـكُمۡ
+    arabic: لَكُمۡ
     translation: for you
     transliteration: lakum
   7:
@@ -33,19 +33,19 @@ word_by_word:
     translation: upon us
     transliteration: ʿalaynā
   8:
-    arabic: مِنۡ
+    arabic: مِن
     translation: any
     transliteration: min
   9:
-    arabic: فَضۡلٍ
+    arabic: فَضۡلٖ
     translation: superiority
     transliteration: faḍlin
   10:
-    arabic: فَذُوۡقُوا
+    arabic: فَذُوقُواْ
     translation: so taste
     transliteration: fadhūqū
   11:
-    arabic: الۡعَذَابَ
+    arabic: ٱلۡعَذَابَ
     translation: the punishment
     transliteration: l-ʿadhāba
   12:
@@ -53,11 +53,11 @@ word_by_word:
     translation: for what
     transliteration: bimā
   13:
-    arabic: كُنۡتُمۡ
+    arabic: كُنتُمۡ
     translation: you used to
     transliteration: kuntum
   14:
-    arabic: تَكۡسِبُوۡنَ‏
+    arabic: تَكۡسِبُونَ
     translation: earn
     transliteration: taksibūna
 ---

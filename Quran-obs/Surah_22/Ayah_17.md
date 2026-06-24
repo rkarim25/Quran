@@ -1,57 +1,57 @@
 ---
-arabic_ayat: اِنَّ الَّذِيۡنَ اٰمَنُوۡا وَالَّذِيۡنَ هَادُوۡا وَالصّٰبِـــِٕيۡنَ وَالنَّصٰرٰى
-  وَالۡمَجُوۡسَ وَالَّذِيۡنَ اَشۡرَكُوۡۤا ​ۖ  اِنَّ اللّٰهَ يَفۡصِلُ بَيۡنَهُمۡ يَوۡمَ
-  الۡقِيٰمَةِ​ ؕ اِنَّ اللّٰهَ عَلٰى كُلِّ شَىۡءٍ شَهِيۡدٌ‏
+arabic_ayat: إِنَّ ٱلَّذِينَ ءَامَنُواْ وَٱلَّذِينَ هَادُواْ وَٱلصَّٰبِـِٔينَ وَٱلنَّصَٰرَىٰ
+  وَٱلۡمَجُوسَ وَٱلَّذِينَ أَشۡرَكُوٓاْ إِنَّ ٱللَّهَ يَفۡصِلُ بَيۡنَهُمۡ يَوۡمَ ٱلۡقِيَٰمَةِۚ
+  إِنَّ ٱللَّهَ عَلَىٰ كُلِّ شَيۡءٖ شَهِيدٌ
 sentence_translation: Indeed, the believers, Jews, Sabians, Christians, Magi, and
   the polytheists—Allah will judge between them ˹all˺ on Judgment Day. Surely Allah
   is a Witness over all things.
 word_by_word:
   1:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ ءَ
     translation: those who
     transliteration: alladhīna
   3:
-    arabic: اٰمَنُوۡا
+    arabic: امَنُواْ
     translation: have believed
     transliteration: āmanū
   4:
-    arabic: وَالَّذِيۡنَ
+    arabic: وَٱلَّذِينَ
     translation: and those who
     transliteration: wa-alladhīna
   5:
-    arabic: هَادُوۡا
+    arabic: هَادُواْ
     translation: were Jews
     transliteration: hādū
   6:
-    arabic: وَالصّٰبِـــِٕيۡنَ
+    arabic: وَٱلصَّٰبِـِٔينَ
     translation: and the Sabians
     transliteration: wal-ṣābiīna
   7:
-    arabic: وَالنَّصٰرٰى
+    arabic: وَٱلنَّصَٰرَىٰ
     translation: and the Christians
     transliteration: wal-naṣārā
   8:
-    arabic: وَالۡمَجُوۡسَ
+    arabic: وَٱلۡمَجُوسَ
     translation: and the Magians
     transliteration: wal-majūsa
   9:
-    arabic: وَالَّذِيۡنَ
+    arabic: وَٱلَّذِينَ
     translation: and those who
     transliteration: wa-alladhīna
   10:
-    arabic: اَشۡرَكُوۡۤا ​ۖ 
+    arabic: أَشۡرَكُوٓاْ
     translation: (are) polytheists
     transliteration: ashrakū
   11:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: indeed
     transliteration: inna
   12:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   13:
@@ -67,19 +67,19 @@ word_by_word:
     translation: (on) the Day
     transliteration: yawma
   16:
-    arabic: الۡقِيٰمَةِ​ ؕ
+    arabic: ٱلۡقِيَٰمَةِۚ
     translation: (of) the Resurrection
     transliteration: l-qiyāmati
   17:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   18:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   19:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: over
     transliteration: ʿalā
   20:
@@ -87,11 +87,11 @@ word_by_word:
     translation: every
     transliteration: kulli
   21:
-    arabic: شَىۡءٍ
+    arabic: شَيۡءٖ
     translation: thing
     transliteration: shayin
   22:
-    arabic: شَهِيۡدٌ‏
+    arabic: شَهِيدٌ
     translation: (is) a Witness
     transliteration: shahīdun
 ---

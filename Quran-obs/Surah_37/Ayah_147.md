@@ -1,30 +1,30 @@
 ---
-arabic_ayat: وَاَرۡسَلۡنٰهُ اِلٰى مِائَةِ اَلۡفٍ اَوۡ يَزِيۡدُوۡنَ​ۚ‏
+arabic_ayat: وَأَرۡسَلۡنَٰهُ إِلَىٰ مِاْئَةِ أَلۡفٍ أَوۡ يَزِيدُونَ
 sentence_translation: We ˹later˺ sent him ˹back˺ to ˹his city of˺ at least one hundred
   thousand people,
 word_by_word:
   1:
-    arabic: وَاَرۡسَلۡنٰهُ
+    arabic: وَأَرۡسَلۡنَٰهُ
     translation: And We sent him
     transliteration: wa-arsalnāhu
   2:
-    arabic: اِلٰى
+    arabic: إِلَىٰ
     translation: to
     transliteration: ilā
   3:
-    arabic: مِائَةِ
+    arabic: مِاْئَةِ
     translation: a hundred
     transliteration: mi-ati
   4:
-    arabic: اَلۡفٍ
+    arabic: أَلۡفٍ
     translation: thousand
     transliteration: alfin
   5:
-    arabic: اَوۡ
+    arabic: أَوۡ
     translation: or
     transliteration: aw
   6:
-    arabic: يَزِيۡدُوۡنَ​ۚ‏
+    arabic: يَزِيدُونَ
     translation: more
     transliteration: yazīdūna
 ---

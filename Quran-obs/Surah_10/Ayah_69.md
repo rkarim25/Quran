@@ -1,6 +1,5 @@
 ---
-arabic_ayat: "قُلۡ اِنَّ الَّذِيۡنَ يَفۡتَرُوۡنَ عَلَى اللّٰهِ الۡـكَذِبَ لَا يُفۡلِحُوۡنَؕ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: قُلۡ إِنَّ ٱلَّذِينَ يَفۡتَرُونَ عَلَى ٱللَّهِ ٱلۡكَذِبَ لَا يُفۡلِحُونَ
 sentence_translation: Say, ˹O Prophet,˺ “Indeed, those who fabricate lies against
   Allah will never succeed.”
 word_by_word:
@@ -9,15 +8,15 @@ word_by_word:
     translation: Say
     transliteration: qul
   2:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   3:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   4:
-    arabic: يَفۡتَرُوۡنَ
+    arabic: يَفۡتَرُونَ
     translation: invent
     transliteration: yaftarūna
   5:
@@ -25,11 +24,11 @@ word_by_word:
     translation: against
     transliteration: ʿalā
   6:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   7:
-    arabic: الۡـكَذِبَ
+    arabic: ٱلۡكَذِبَ
     translation: the lie
     transliteration: l-kadhiba
   8:
@@ -37,7 +36,7 @@ word_by_word:
     translation: they will not succeed
     transliteration: lā
   9:
-    arabic: "يُفۡلِحُوۡنَؕ‏ \uFEFF\uFEFF"
+    arabic: يُفۡلِحُونَ
     translation: they will not succeed
     transliteration: yuf'liḥūna
 ---

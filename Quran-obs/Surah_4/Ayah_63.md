@@ -1,15 +1,15 @@
 ---
-arabic_ayat: اُولٰٓٮِٕكَ الَّذِيۡنَ يَعۡلَمُ اللّٰهُ مَا فِىۡ قُلُوۡبِهِمۡ فَاَعۡرِضۡ
-  عَنۡهُمۡ وَعِظۡهُمۡ وَقُلْ لَّهُمۡ فِىۡۤ اَنۡفُسِهِمۡ قَوۡلًاۢ بَلِيۡغًا‏
+arabic_ayat: أُوْلَٰٓئِكَ ٱلَّذِينَ يَعۡلَمُ ٱللَّهُ مَا فِي قُلُوبِهِمۡ فَأَعۡرِضۡ
+  عَنۡهُمۡ وَعِظۡهُمۡ وَقُل لَّهُمۡ فِيٓ أَنفُسِهِمۡ قَوۡلَۢا بَلِيغٗا
 sentence_translation: ˹Only˺ Allah knows what is in their hearts. So turn away from
   them, caution them, and give them advice that will shake their very souls.
 word_by_word:
   1:
-    arabic: اُولٰٓٮِٕكَ
+    arabic: أُوْلَٰٓئِكَ
     translation: Those
     transliteration: ulāika
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: '(are) the ones who '
     transliteration: alladhīna
   3:
@@ -17,7 +17,7 @@ word_by_word:
     translation: knows
     transliteration: yaʿlamu
   4:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   5:
@@ -25,15 +25,15 @@ word_by_word:
     translation: what
     transliteration: mā
   6:
-    arabic: فِىۡ
+    arabic: فِي
     translation: (is) in
     transliteration: fī
   7:
-    arabic: قُلُوۡبِهِمۡ
+    arabic: قُلُوبِهِمۡ
     translation: their hearts
     transliteration: qulūbihim
   8:
-    arabic: فَاَعۡرِضۡ
+    arabic: فَأَعۡرِضۡ
     translation: so turn away
     transliteration: fa-aʿriḍ
   9:
@@ -45,7 +45,7 @@ word_by_word:
     translation: and admonish them
     transliteration: waʿiẓ'hum
   11:
-    arabic: وَقُلْ
+    arabic: وَقُل
     translation: and say
     transliteration: waqul
   12:
@@ -53,19 +53,19 @@ word_by_word:
     translation: to them
     transliteration: lahum
   13:
-    arabic: فِىۡۤ
+    arabic: فِيٓ
     translation: concerning
     transliteration: fī
   14:
-    arabic: اَنۡفُسِهِمۡ
+    arabic: أَنفُسِهِمۡ
     translation: their souls
     transliteration: anfusihim
   15:
-    arabic: قَوۡلًاۢ
+    arabic: قَوۡلَۢا
     translation: a word
     transliteration: qawlan
   16:
-    arabic: بَلِيۡغًا‏
+    arabic: بَلِيغٗا
     translation: penetrating
     transliteration: balīghan
 ---

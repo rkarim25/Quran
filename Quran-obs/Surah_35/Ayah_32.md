@@ -1,7 +1,7 @@
 ---
-arabic_ayat: ثُمَّ اَوۡرَثۡنَا الۡكِتٰبَ الَّذِيۡنَ اصۡطَفَيۡنَا مِنۡ عِبَادِنَاۚ
-  فَمِنۡهُمۡ ظَالِمٌ لِّنَفۡسِهٖ​ۚ وَمِنۡهُمۡ مُّقۡتَصِدٌ ​ۚ وَمِنۡهُمۡ سَابِقٌۢ بِالۡخَيۡرٰتِ
-  بِاِذۡنِ اللّٰهِؕ ذٰلِكَ هُوَ الۡفَضۡلُ الۡكَبِيۡرُؕ‏
+arabic_ayat: ثُمَّ أَوۡرَثۡنَا ٱلۡكِتَٰبَ ٱلَّذِينَ ٱصۡطَفَيۡنَا مِنۡ عِبَادِنَاۖ
+  فَمِنۡهُمۡ ظَالِمٞ لِّنَفۡسِهِۦ وَمِنۡهُم مُّقۡتَصِدٞ وَمِنۡهُمۡ سَابِقُۢ بِٱلۡخَيۡرَٰتِ
+  بِإِذۡنِ ٱللَّهِۚ ذَٰلِكَ هُوَ ٱلۡفَضۡلُ ٱلۡكَبِيرُ
 sentence_translation: Then We granted the Book to those We have chosen from Our servants.
   Some of them wrong themselves, some follow a middle course, and some are foremost
   in good deeds by Allah’s Will. That is ˹truly˺ the greatest bounty.
@@ -11,19 +11,19 @@ word_by_word:
     translation: Then
     transliteration: thumma
   2:
-    arabic: اَوۡرَثۡنَا
+    arabic: أَوۡرَثۡنَا
     translation: We caused to inherit
     transliteration: awrathnā
   3:
-    arabic: الۡكِتٰبَ
+    arabic: ٱلۡكِتَٰبَ
     translation: the Book
     transliteration: l-kitāba
   4:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those whom
     transliteration: alladhīna
   5:
-    arabic: اصۡطَفَيۡنَا
+    arabic: ٱصۡطَفَيۡنَا
     translation: We have chosen
     transliteration: iṣ'ṭafaynā
   6:
@@ -31,7 +31,7 @@ word_by_word:
     translation: of
     transliteration: min
   7:
-    arabic: عِبَادِنَاۚ
+    arabic: عِبَادِنَاۖ
     translation: Our slaves
     transliteration: ʿibādinā
   8:
@@ -39,19 +39,19 @@ word_by_word:
     translation: and among them
     transliteration: famin'hum
   9:
-    arabic: ظَالِمٌ
+    arabic: ظَالِمٞ
     translation: (is he) who wrongs
     transliteration: ẓālimun
   10:
-    arabic: لِّنَفۡسِهٖ​ۚ
+    arabic: لِّنَفۡسِهِۦ
     translation: himself
     transliteration: linafsihi
   11:
-    arabic: وَمِنۡهُمۡ
+    arabic: وَمِنۡهُم
     translation: and among them
     transliteration: wamin'hum
   12:
-    arabic: مُّقۡتَصِدٌ ​ۚ
+    arabic: مُّقۡتَصِدٞ
     translation: (is he who is) moderate
     transliteration: muq'taṣidun
   13:
@@ -59,23 +59,23 @@ word_by_word:
     translation: and among them
     transliteration: wamin'hum
   14:
-    arabic: سَابِقٌۢ
+    arabic: سَابِقُۢ
     translation: (is he who is) foremost
     transliteration: sābiqun
   15:
-    arabic: بِالۡخَيۡرٰتِ
+    arabic: بِٱلۡخَيۡرَٰتِ
     translation: in good deeds
     transliteration: bil-khayrāti
   16:
-    arabic: بِاِذۡنِ
+    arabic: بِإِذۡنِ
     translation: by permission
     transliteration: bi-idh'ni
   17:
-    arabic: اللّٰهِؕ
+    arabic: ٱللَّهِۚ
     translation: (of) Allah
     transliteration: l-lahi
   18:
-    arabic: ذٰلِكَ
+    arabic: ذَٰلِكَ
     translation: That
     transliteration: dhālika
   19:
@@ -83,11 +83,11 @@ word_by_word:
     translation: is
     transliteration: huwa
   20:
-    arabic: الۡفَضۡلُ
+    arabic: ٱلۡفَضۡلُ
     translation: the Bounty
     transliteration: l-faḍlu
   21:
-    arabic: الۡكَبِيۡرُؕ‏
+    arabic: ٱلۡكَبِيرُ
     translation: the great
     transliteration: l-kabīru
 ---

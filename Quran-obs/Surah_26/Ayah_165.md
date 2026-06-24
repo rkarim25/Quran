@@ -1,13 +1,13 @@
 ---
-arabic_ayat: اَتَاۡتُوۡنَ الذُّكۡرَانَ مِنَ الۡعٰلَمِيۡنَۙ‏
+arabic_ayat: أَتَأۡتُونَ ٱلذُّكۡرَانَ مِنَ ٱلۡعَٰلَمِينَ
 sentence_translation: Why do you ˹men˺ lust after fellow men,
 word_by_word:
   1:
-    arabic: اَتَاۡتُوۡنَ
+    arabic: أَتَأۡتُونَ
     translation: Do you approach
     transliteration: atatūna
   2:
-    arabic: الذُّكۡرَانَ
+    arabic: ٱلذُّكۡرَانَ
     translation: the males
     transliteration: l-dhuk'rāna
   3:
@@ -15,7 +15,7 @@ word_by_word:
     translation: among
     transliteration: mina
   4:
-    arabic: الۡعٰلَمِيۡنَۙ‏
+    arabic: ٱلۡعَٰلَمِينَ
     translation: the worlds
     transliteration: l-ʿālamīna
 ---

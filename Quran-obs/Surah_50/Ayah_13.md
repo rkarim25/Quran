@@ -1,21 +1,21 @@
 ---
-arabic_ayat: وَعَادٌ وَّفِرۡعَوۡنُ وَاِخۡوَانُ لُوۡطٍۙ‏
+arabic_ayat: وَعَادٞ وَفِرۡعَوۡنُ وَإِخۡوَٰنُ لُوطٖ
 sentence_translation: ’Ȃd, Pharaoh, the kinfolk of Lot,
 word_by_word:
   1:
-    arabic: وَعَادٌ
+    arabic: وَعَادٞ
     translation: And Aad
     transliteration: waʿādun
   2:
-    arabic: وَّفِرۡعَوۡنُ
+    arabic: وَفِرۡعَوۡنُ
     translation: and Firaun
     transliteration: wafir'ʿawnu
   3:
-    arabic: وَاِخۡوَانُ
+    arabic: وَإِخۡوَٰنُ
     translation: and (the) brothers
     transliteration: wa-ikh'wānu
   4:
-    arabic: لُوۡطٍۙ‏
+    arabic: لُوطٖ
     translation: (of) Lut
     transliteration: lūṭin
 ---

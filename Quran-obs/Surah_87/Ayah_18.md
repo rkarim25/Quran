@@ -1,25 +1,25 @@
 ---
-arabic_ayat: اِنَّ هٰذَا لَفِى الصُّحُفِ الۡاُوۡلٰىۙ‏
+arabic_ayat: إِنَّ هَٰذَا لَفِي ٱلصُّحُفِ ٱلۡأُولَىٰ
 sentence_translation: This is certainly ˹mentioned˺ in the earlier Scriptures—
 word_by_word:
   1:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   2:
-    arabic: هٰذَا
+    arabic: هَٰذَا
     translation: this
     transliteration: hādhā
   3:
-    arabic: لَفِى
+    arabic: لَفِي
     translation: surely (is) in
     transliteration: lafī
   4:
-    arabic: الصُّحُفِ
+    arabic: ٱلصُّحُفِ
     translation: the Scriptures
     transliteration: l-ṣuḥufi
   5:
-    arabic: الۡاُوۡلٰىۙ‏
+    arabic: ٱلۡأُولَىٰ
     translation: '[the] former'
     transliteration: l-ūlā
 ---

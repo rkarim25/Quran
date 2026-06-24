@@ -1,15 +1,15 @@
 ---
-arabic_ayat: خَاشِعَةً اَبۡصَارُهُمۡ تَرۡهَقُهُمۡ ذِلَّةٌ ؕ ذٰلِكَ الۡيَوۡمُ الَّذِىۡ
-  كَانُوۡا يُوۡعَدُوۡنَ‏
+arabic_ayat: خَٰشِعَةً أَبۡصَٰرُهُمۡ تَرۡهَقُهُمۡ ذِلَّةٞۚ ذَٰلِكَ ٱلۡيَوۡمُ ٱلَّذِي
+  كَانُواْ يُوعَدُونَ
 sentence_translation: with eyes downcast, utterly covered with disgrace. That is the
   Day they have ˹always˺ been warned of.
 word_by_word:
   1:
-    arabic: خَاشِعَةً
+    arabic: خَٰشِعَةً
     translation: Humbled
     transliteration: khāshiʿatan
   2:
-    arabic: اَبۡصَارُهُمۡ
+    arabic: أَبۡصَٰرُهُمۡ
     translation: their eyesights
     transliteration: abṣāruhum
   3:
@@ -17,27 +17,27 @@ word_by_word:
     translation: will cover them
     transliteration: tarhaquhum
   4:
-    arabic: ذِلَّةٌ ؕ
+    arabic: ذِلَّةٞۚ
     translation: humiliation
     transliteration: dhillatun
   5:
-    arabic: ذٰلِكَ
+    arabic: ذَٰلِكَ
     translation: That
     transliteration: dhālika
   6:
-    arabic: الۡيَوۡمُ
+    arabic: ٱلۡيَوۡمُ
     translation: (is) the Day
     transliteration: l-yawmu
   7:
-    arabic: الَّذِىۡ
+    arabic: ٱلَّذِي
     translation: which
     transliteration: alladhī
   8:
-    arabic: كَانُوۡا
+    arabic: كَانُواْ
     translation: they were
     transliteration: kānū
   9:
-    arabic: يُوۡعَدُوۡنَ‏
+    arabic: يُوعَدُونَ
     translation: promised
     transliteration: yūʿadūna
 ---

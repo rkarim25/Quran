@@ -1,10 +1,9 @@
 ---
-arabic_ayat: وَقَالَ الشَّيۡطٰنُ لَـمَّا قُضِىَ الۡاَمۡرُ اِنَّ اللّٰهَ وَعَدَكُمۡ
-  وَعۡدَ الۡحَـقِّ وَوَعَدْتُّكُمۡ فَاَخۡلَفۡتُكُمۡ​ؕ وَمَا كَانَ لِىَ عَلَيۡكُمۡ
-  مِّنۡ سُلۡطٰنٍ اِلَّاۤ اَنۡ دَعَوۡتُكُمۡ فَاسۡتَجَبۡتُمۡ لِىۡ​ ۚ فَلَا تَلُوۡمُوۡنِىۡ
-  وَلُوۡمُوۡۤا اَنۡفُسَكُمۡ​ ؕ مَاۤ اَنَا بِمُصۡرِخِكُمۡ وَمَاۤ اَنۡتُمۡ بِمُصۡرِخِىَّ​
-  ؕ اِنِّىۡ كَفَرۡتُ بِمَاۤ اَشۡرَكۡتُمُوۡنِ مِنۡ قَبۡلُ​ ؕ اِنَّ الظّٰلِمِيۡنَ لَهُمۡ
-  عَذَابٌ اَ لِيۡمٌ‏
+arabic_ayat: وَقَالَ ٱلشَّيۡطَٰنُ لَمَّا قُضِيَ ٱلۡأَمۡرُ إِنَّ ٱللَّهَ وَعَدَكُمۡ
+  وَعۡدَ ٱلۡحَقِّ وَوَعَدتُّكُمۡ فَأَخۡلَفۡتُكُمۡۖ وَمَا كَانَ لِيَ عَلَيۡكُم مِّن
+  سُلۡطَٰنٍ إِلَّآ أَن دَعَوۡتُكُمۡ فَٱسۡتَجَبۡتُمۡ لِيۖ فَلَا تَلُومُونِي وَلُومُوٓاْ
+  أَنفُسَكُمۖ مَّآ أَنَا۠ بِمُصۡرِخِكُمۡ وَمَآ أَنتُم بِمُصۡرِخِيَّ إِنِّي كَفَرۡتُ
+  بِمَآ أَشۡرَكۡتُمُونِ مِن قَبۡلُۗ إِنَّ ٱلظَّٰلِمِينَ لَهُمۡ عَذَابٌ أَلِيمٞ
 sentence_translation: And Satan will say ˹to his followers˺ after the judgment has
   been passed, “Indeed, Allah has made you a true promise. I too made you a promise,
   but I failed you. I did not have any authority over you. I only called you, and
@@ -17,27 +16,27 @@ word_by_word:
     translation: And will say
     transliteration: waqāla
   2:
-    arabic: الشَّيۡطٰنُ
+    arabic: ٱلشَّيۡطَٰنُ
     translation: the Shaitaan
     transliteration: l-shayṭānu
   3:
-    arabic: لَـمَّا
+    arabic: لَمَّا
     translation: when
     transliteration: lammā
   4:
-    arabic: قُضِىَ
+    arabic: قُضِيَ
     translation: has been decided
     transliteration: quḍiya
   5:
-    arabic: الۡاَمۡرُ
+    arabic: ٱلۡأَمۡرُ
     translation: the matter
     transliteration: l-amru
   6:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   7:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   8:
@@ -49,15 +48,15 @@ word_by_word:
     translation: a promise
     transliteration: waʿda
   10:
-    arabic: الۡحَـقِّ
+    arabic: ٱلۡحَقِّ
     translation: (of) truth
     transliteration: l-ḥaqi
   11:
-    arabic: وَوَعَدْتُّكُمۡ
+    arabic: وَوَعَدتُّكُمۡ
     translation: And I promised you
     transliteration: wawaʿadttukum
   12:
-    arabic: فَاَخۡلَفۡتُكُمۡ​ؕ
+    arabic: فَأَخۡلَفۡتُكُمۡۖ
     translation: but I betrayed you
     transliteration: fa-akhlaftukum
   13:
@@ -69,27 +68,27 @@ word_by_word:
     translation: I had
     transliteration: kāna
   15:
-    arabic: لِىَ
+    arabic: لِيَ
     translation: I had
     transliteration: liya
   16:
-    arabic: عَلَيۡكُمۡ
+    arabic: عَلَيۡكُم
     translation: over you
     transliteration: ʿalaykum
   17:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: any
     transliteration: min
   18:
-    arabic: سُلۡطٰنٍ
+    arabic: سُلۡطَٰنٍ
     translation: authority
     transliteration: sul'ṭānin
   19:
-    arabic: اِلَّاۤ
+    arabic: إِلَّآ
     translation: except
     transliteration: illā
   20:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that
     transliteration: an
   21:
@@ -97,11 +96,11 @@ word_by_word:
     translation: I invited you
     transliteration: daʿawtukum
   22:
-    arabic: فَاسۡتَجَبۡتُمۡ
+    arabic: فَٱسۡتَجَبۡتُمۡ
     translation: and you responded
     transliteration: fa-is'tajabtum
   23:
-    arabic: لِىۡ​ ۚ
+    arabic: لِيۖ
     translation: to me
     transliteration: lī
   24:
@@ -109,23 +108,23 @@ word_by_word:
     translation: So (do) not
     transliteration: falā
   25:
-    arabic: تَلُوۡمُوۡنِىۡ
+    arabic: تَلُومُونِي
     translation: blame me
     transliteration: talūmūnī
   26:
-    arabic: وَلُوۡمُوۡۤا
+    arabic: وَلُومُوٓاْ
     translation: but blame
     transliteration: walūmū
   27:
-    arabic: اَنۡفُسَكُمۡ​ ؕ
+    arabic: أَنفُسَكُمۖ
     translation: yourselves
     transliteration: anfusakum
   28:
-    arabic: مَاۤ
+    arabic: مَّآ
     translation: Not
     transliteration: mā
   29:
-    arabic: اَنَا
+    arabic: أَنَا۠
     translation: (can) I
     transliteration: anā
   30:
@@ -133,19 +132,19 @@ word_by_word:
     translation: (be) your helper
     transliteration: bimuṣ'rikhikum
   31:
-    arabic: وَمَاۤ
+    arabic: وَمَآ
     translation: and not
     transliteration: wamā
   32:
-    arabic: اَنۡتُمۡ
+    arabic: أَنتُم
     translation: you (can)
     transliteration: antum
   33:
-    arabic: بِمُصۡرِخِىَّ​ ؕ
+    arabic: بِمُصۡرِخِيَّ
     translation: (be) my helper
     transliteration: bimuṣ'rikhiyya
   34:
-    arabic: اِنِّىۡ
+    arabic: إِنِّي
     translation: Indeed, I
     transliteration: innī
   35:
@@ -153,27 +152,27 @@ word_by_word:
     translation: deny
     transliteration: kafartu
   36:
-    arabic: بِمَاۤ
+    arabic: بِمَآ
     translation: '[of what]'
     transliteration: bimā
   37:
-    arabic: اَشۡرَكۡتُمُوۡنِ
+    arabic: أَشۡرَكۡتُمُونِ
     translation: your association of me (with Allah)
     transliteration: ashraktumūni
   38:
-    arabic: مِنۡ
+    arabic: مِن
     translation: before
     transliteration: min
   39:
-    arabic: قَبۡلُ​ ؕ
+    arabic: قَبۡلُۗ
     translation: before
     transliteration: qablu
   40:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   41:
-    arabic: الظّٰلِمِيۡنَ
+    arabic: ٱلظَّٰلِمِينَ
     translation: the wrongdoers
     transliteration: l-ẓālimīna
   42:
@@ -185,7 +184,7 @@ word_by_word:
     translation: (is) a punishment
     transliteration: ʿadhābun
   44:
-    arabic: اَ لِيۡمٌ‏
+    arabic: أَلِيمٞ
     translation: painful
     transliteration: alīmun
 ---

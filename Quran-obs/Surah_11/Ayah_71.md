@@ -1,15 +1,15 @@
 ---
-arabic_ayat: وَامۡرَاَ تُهٗ قَآٮِٕمَةٌ فَضَحِكَتۡ فَبَشَّرۡنٰهَا بِاِسۡحٰقَ ۙ وَمِنۡ
-  وَّرَآءِ اِسۡحٰقَ يَعۡقُوۡبَ‏
+arabic_ayat: وَٱمۡرَأَتُهُۥ قَآئِمَةٞ فَضَحِكَتۡ فَبَشَّرۡنَٰهَا بِإِسۡحَٰقَ وَمِن
+  وَرَآءِ إِسۡحَٰقَ يَعۡقُوبَ
 sentence_translation: And his wife was standing by, so she laughed, then We gave her
   good news of ˹the birth of˺ Isaac, and, after him, Jacob.
 word_by_word:
   1:
-    arabic: وَامۡرَاَ تُهٗ
+    arabic: وَٱمۡرَأَتُهُۥ
     translation: And his wife
     transliteration: wa-im'ra-atuhu
   2:
-    arabic: قَآٮِٕمَةٌ
+    arabic: قَآئِمَةٞ
     translation: (was) standing
     transliteration: qāimatun
   3:
@@ -17,27 +17,27 @@ word_by_word:
     translation: and she laughed
     transliteration: faḍaḥikat
   4:
-    arabic: فَبَشَّرۡنٰهَا
+    arabic: فَبَشَّرۡنَٰهَا
     translation: Then We gave her glad tidings
     transliteration: fabasharnāhā
   5:
-    arabic: بِاِسۡحٰقَ ۙ
+    arabic: بِإِسۡحَٰقَ
     translation: of Isaac
     transliteration: bi-is'ḥāqa
   6:
-    arabic: وَمِنۡ
+    arabic: وَمِن
     translation: and after
     transliteration: wamin
   7:
-    arabic: وَّرَآءِ
+    arabic: وَرَآءِ
     translation: and after
     transliteration: warāi
   8:
-    arabic: اِسۡحٰقَ
+    arabic: إِسۡحَٰقَ
     translation: Isaac
     transliteration: is'ḥāqa
   9:
-    arabic: يَعۡقُوۡبَ‏
+    arabic: يَعۡقُوبَ
     translation: (of) Yaqub
     transliteration: yaʿqūba
 ---

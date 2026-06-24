@@ -1,9 +1,9 @@
 ---
-arabic_ayat: فَتَوَلَّوۡا عَنۡهُ مُدۡبِرِيۡنَ‏
+arabic_ayat: فَتَوَلَّوۡاْ عَنۡهُ مُدۡبِرِينَ
 sentence_translation: So they turned their backs on him and went away.
 word_by_word:
   1:
-    arabic: فَتَوَلَّوۡا
+    arabic: فَتَوَلَّوۡاْ
     translation: So they turned away
     transliteration: fatawallaw
   2:
@@ -11,7 +11,7 @@ word_by_word:
     translation: from him
     transliteration: ʿanhu
   3:
-    arabic: مُدۡبِرِيۡنَ‏
+    arabic: مُدۡبِرِينَ
     translation: departing
     transliteration: mud'birīna
 ---

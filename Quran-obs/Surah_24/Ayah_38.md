@@ -1,6 +1,6 @@
 ---
-arabic_ayat: لِيَجۡزِيَهُمُ اللّٰهُ اَحۡسَنَ مَا عَمِلُوۡا وَيَزِيۡدَهُمۡ مِّنۡ فَضۡلِهٖ​ؕ
-  وَاللّٰهُ يَرۡزُقُ مَنۡ يَّشَآءُ بِغَيۡرِ حِسَابٍ‏
+arabic_ayat: لِيَجۡزِيَهُمُ ٱللَّهُ أَحۡسَنَ مَا عَمِلُواْ وَيَزِيدَهُم مِّن فَضۡلِهِۦۗ
+  وَٱللَّهُ يَرۡزُقُ مَن يَشَآءُ بِغَيۡرِ حِسَابٖ
 sentence_translation: ˹hoping˺ that Allah may reward them according to the best of
   their deeds, and increase them out of His grace. And Allah provides for whoever
   He wills without limit.
@@ -10,11 +10,11 @@ word_by_word:
     translation: That Allah may reward them
     transliteration: liyajziyahumu
   2:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: That Allah may reward them
     transliteration: l-lahu
   3:
-    arabic: اَحۡسَنَ
+    arabic: أَحۡسَنَ
     translation: (with the) best
     transliteration: aḥsana
   4:
@@ -22,23 +22,23 @@ word_by_word:
     translation: (of) what
     transliteration: mā
   5:
-    arabic: عَمِلُوۡا
+    arabic: عَمِلُواْ
     translation: they did
     transliteration: ʿamilū
   6:
-    arabic: وَيَزِيۡدَهُمۡ
+    arabic: وَيَزِيدَهُم
     translation: and increase them
     transliteration: wayazīdahum
   7:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: from
     transliteration: min
   8:
-    arabic: فَضۡلِهٖ​ؕ
+    arabic: فَضۡلِهِۦۗ
     translation: His Bounty
     transliteration: faḍlihi
   9:
-    arabic: وَاللّٰهُ
+    arabic: وَٱللَّهُ
     translation: And Allah
     transliteration: wal-lahu
   10:
@@ -46,11 +46,11 @@ word_by_word:
     translation: provides
     transliteration: yarzuqu
   11:
-    arabic: مَنۡ
+    arabic: مَن
     translation: whom
     transliteration: man
   12:
-    arabic: يَّشَآءُ
+    arabic: يَشَآءُ
     translation: He wills
     transliteration: yashāu
   13:
@@ -58,7 +58,7 @@ word_by_word:
     translation: without
     transliteration: bighayri
   14:
-    arabic: حِسَابٍ‏
+    arabic: حِسَابٖ
     translation: measure
     transliteration: ḥisābin
 ---

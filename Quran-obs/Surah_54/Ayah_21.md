@@ -1,5 +1,5 @@
 ---
-arabic_ayat: فَكَيۡفَ كَانَ عَذَابِىۡ وَنُذُرِ‏
+arabic_ayat: فَكَيۡفَ كَانَ عَذَابِي وَنُذُرِ
 sentence_translation: Then how ˹dreadful˺ were My punishment and warnings!
 word_by_word:
   1:
@@ -11,11 +11,11 @@ word_by_word:
     translation: was
     transliteration: kāna
   3:
-    arabic: عَذَابِىۡ
+    arabic: عَذَابِي
     translation: My punishment
     transliteration: ʿadhābī
   4:
-    arabic: وَنُذُرِ‏
+    arabic: وَنُذُرِ
     translation: and My warnings
     transliteration: wanudhuri
 ---

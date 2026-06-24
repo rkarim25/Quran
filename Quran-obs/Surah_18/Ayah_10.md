@@ -1,59 +1,59 @@
 ---
-arabic_ayat: اِذۡ اَوَى الۡفِتۡيَةُ اِلَى الۡـكَهۡفِ فَقَالُوۡا رَبَّنَاۤ اٰتِنَا
-  مِنۡ لَّدُنۡكَ رَحۡمَةً وَّهَيِّئۡ لَـنَا مِنۡ اَمۡرِنَا رَشَدًا‏
+arabic_ayat: إِذۡ أَوَى ٱلۡفِتۡيَةُ إِلَى ٱلۡكَهۡفِ فَقَالُواْ رَبَّنَآ ءَاتِنَا
+  مِن لَّدُنكَ رَحۡمَةٗ وَهَيِّئۡ لَنَا مِنۡ أَمۡرِنَا رَشَدٗا
 sentence_translation: ˹Remember˺ when those youths took refuge in the cave, and said,
   “Our Lord! Grant us mercy from Yourself and guide us rightly through our ordeal.”
 word_by_word:
   1:
-    arabic: اِذۡ
+    arabic: إِذۡ
     translation: When
     transliteration: idh
   2:
-    arabic: اَوَى
+    arabic: أَوَى
     translation: retreated
     transliteration: awā
   3:
-    arabic: الۡفِتۡيَةُ
+    arabic: ٱلۡفِتۡيَةُ
     translation: the youths
     transliteration: l-fit'yatu
   4:
-    arabic: اِلَى
+    arabic: إِلَى
     translation: to
     transliteration: ilā
   5:
-    arabic: الۡـكَهۡفِ
+    arabic: ٱلۡكَهۡفِ
     translation: the cave
     transliteration: l-kahfi
   6:
-    arabic: فَقَالُوۡا
+    arabic: فَقَالُواْ
     translation: and they said
     transliteration: faqālū
   7:
-    arabic: رَبَّنَاۤ
+    arabic: رَبَّنَآ ءَ
     translation: Our Lord
     transliteration: rabbanā
   8:
-    arabic: اٰتِنَا
+    arabic: اتِنَا
     translation: Grant us
     transliteration: ātinā
   9:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   10:
-    arabic: لَّدُنۡكَ
+    arabic: لَّدُنكَ
     translation: Yourself
     transliteration: ladunka
   11:
-    arabic: رَحۡمَةً
+    arabic: رَحۡمَةٗ
     translation: Mercy
     transliteration: raḥmatan
   12:
-    arabic: وَّهَيِّئۡ
+    arabic: وَهَيِّئۡ
     translation: and facilitate
     transliteration: wahayyi
   13:
-    arabic: لَـنَا
+    arabic: لَنَا
     translation: for us
     transliteration: lanā
   14:
@@ -61,11 +61,11 @@ word_by_word:
     translation: '[from]'
     transliteration: min
   15:
-    arabic: اَمۡرِنَا
+    arabic: أَمۡرِنَا
     translation: our affair
     transliteration: amrinā
   16:
-    arabic: رَشَدًا‏
+    arabic: رَشَدٗا
     translation: (in the) right way
     transliteration: rashadan
 ---

@@ -1,6 +1,6 @@
 ---
-arabic_ayat: قَالَ رَبِّ اغۡفِرۡ لِىۡ وَلِاَخِىۡ وَ اَدۡخِلۡنَا فِىۡ رَحۡمَتِكَ ​ۖ
-   وَاَنۡتَ اَرۡحَمُ الرّٰحِمِيۡنَ‏
+arabic_ayat: قَالَ رَبِّ ٱغۡفِرۡ لِي وَلِأَخِي وَأَدۡخِلۡنَا فِي رَحۡمَتِكَۖ وَأَنتَ
+  أَرۡحَمُ ٱلرَّٰحِمِينَ
 sentence_translation: Moses prayed, “My Lord! Forgive me and my brother! And admit
   us into Your mercy. You are the Most Merciful of the merciful.”
 word_by_word:
@@ -13,39 +13,39 @@ word_by_word:
     translation: O my Lord
     transliteration: rabbi
   3:
-    arabic: اغۡفِرۡ
+    arabic: ٱغۡفِرۡ
     translation: Forgive
     transliteration: igh'fir
   4:
-    arabic: لِىۡ
+    arabic: لِي
     translation: me
     transliteration: lī
   5:
-    arabic: وَلِاَخِىۡ
+    arabic: وَلِأَخِي
     translation: and my brother
     transliteration: wali-akhī
   6:
-    arabic: وَ اَدۡخِلۡنَا
+    arabic: وَأَدۡخِلۡنَا
     translation: and admit us
     transliteration: wa-adkhil'nā
   7:
-    arabic: فِىۡ
+    arabic: فِي
     translation: into
     transliteration: fī
   8:
-    arabic: رَحۡمَتِكَ ​ۖ 
+    arabic: رَحۡمَتِكَۖ
     translation: Your Mercy
     transliteration: raḥmatika
   9:
-    arabic: وَاَنۡتَ
+    arabic: وَأَنتَ
     translation: for You
     transliteration: wa-anta
   10:
-    arabic: اَرۡحَمُ
+    arabic: أَرۡحَمُ
     translation: (are) the Most Merciful
     transliteration: arḥamu
   11:
-    arabic: الرّٰحِمِيۡنَ‏
+    arabic: ٱلرَّٰحِمِينَ
     translation: (of) the merciful
     transliteration: l-rāḥimīna
 ---

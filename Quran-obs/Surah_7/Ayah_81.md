@@ -1,34 +1,34 @@
 ---
-arabic_ayat: اِنَّكُمۡ لَـتَاۡتُوۡنَ الرِّجَالَ شَهۡوَةً مِّنۡ دُوۡنِ النِّسَآءِ​
-  ؕ بَلۡ اَنۡـتُمۡ قَوۡمٌ مُّسۡرِفُوۡنَ‏
+arabic_ayat: إِنَّكُمۡ لَتَأۡتُونَ ٱلرِّجَالَ شَهۡوَةٗ مِّن دُونِ ٱلنِّسَآءِۚ بَلۡ
+  أَنتُمۡ قَوۡمٞ مُّسۡرِفُونَ
 sentence_translation: You lust after men instead of women! You are certainly transgressors.”
 word_by_word:
   1:
-    arabic: اِنَّكُمۡ
+    arabic: إِنَّكُمۡ
     translation: Indeed, you
     transliteration: innakum
   2:
-    arabic: لَـتَاۡتُوۡنَ
+    arabic: لَتَأۡتُونَ
     translation: you approach
     transliteration: latatūna
   3:
-    arabic: الرِّجَالَ
+    arabic: ٱلرِّجَالَ
     translation: the men
     transliteration: l-rijāla
   4:
-    arabic: شَهۡوَةً
+    arabic: شَهۡوَةٗ
     translation: lustfully
     transliteration: shahwatan
   5:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: from
     transliteration: min
   6:
-    arabic: دُوۡنِ
+    arabic: دُونِ
     translation: instead of
     transliteration: dūni
   7:
-    arabic: النِّسَآءِ​ ؕ
+    arabic: ٱلنِّسَآءِۚ
     translation: the women
     transliteration: l-nisāi
   8:
@@ -36,15 +36,15 @@ word_by_word:
     translation: Nay
     transliteration: bal
   9:
-    arabic: اَنۡـتُمۡ
+    arabic: أَنتُمۡ
     translation: you
     transliteration: antum
   10:
-    arabic: قَوۡمٌ
+    arabic: قَوۡمٞ
     translation: (are) a people
     transliteration: qawmun
   11:
-    arabic: مُّسۡرِفُوۡنَ‏
+    arabic: مُّسۡرِفُونَ
     translation: (who) commit excesses
     transliteration: mus'rifūna
 ---

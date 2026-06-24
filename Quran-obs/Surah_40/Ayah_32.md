@@ -1,18 +1,18 @@
 ---
-arabic_ayat: وَيٰقَوۡمِ اِنِّىۡۤ اَخَافُ عَلَيۡكُمۡ يَوۡمَ التَّنَادِۙ‏
+arabic_ayat: وَيَٰقَوۡمِ إِنِّيٓ أَخَافُ عَلَيۡكُمۡ يَوۡمَ ٱلتَّنَادِ
 sentence_translation: O  my people! I truly fear for you the Day all will be crying
   out ˹to each other˺—
 word_by_word:
   1:
-    arabic: وَيٰقَوۡمِ
+    arabic: وَيَٰقَوۡمِ
     translation: And O my people
     transliteration: wayāqawmi
   2:
-    arabic: اِنِّىۡۤ
+    arabic: إِنِّيٓ
     translation: Indeed, I
     transliteration: innī
   3:
-    arabic: اَخَافُ
+    arabic: أَخَافُ
     translation: '[I] fear'
     transliteration: akhāfu
   4:
@@ -24,7 +24,7 @@ word_by_word:
     translation: (the) Day
     transliteration: yawma
   6:
-    arabic: التَّنَادِۙ‏
+    arabic: ٱلتَّنَادِ
     translation: (of) Calling
     transliteration: l-tanādi
 ---

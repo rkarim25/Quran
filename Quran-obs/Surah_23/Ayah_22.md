@@ -1,5 +1,5 @@
 ---
-arabic_ayat: وَعَلَيۡهَا وَعَلَى الۡـفُلۡكِ تُحۡمَلُوۡنَ‏
+arabic_ayat: وَعَلَيۡهَا وَعَلَى ٱلۡفُلۡكِ تُحۡمَلُونَ
 sentence_translation: And you are carried upon ˹some of˺ them and upon ships.
 word_by_word:
   1:
@@ -11,11 +11,11 @@ word_by_word:
     translation: and on
     transliteration: waʿalā
   3:
-    arabic: الۡـفُلۡكِ
+    arabic: ٱلۡفُلۡكِ
     translation: '[the] ships'
     transliteration: l-ful'ki
   4:
-    arabic: تُحۡمَلُوۡنَ‏
+    arabic: تُحۡمَلُونَ
     translation: you are carried
     transliteration: tuḥ'malūna
 ---

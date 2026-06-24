@@ -1,31 +1,30 @@
 ---
-arabic_ayat: اَلَّا تَعۡبُدُوۡۤا اِلَّا اللّٰهَ​ ؕ اِنَّنِىۡ لَـكُمۡ مِّنۡهُ نَذِيۡرٌ
-  وَّبَشِيۡرٌ ۙ‏
+arabic_ayat: أَلَّا تَعۡبُدُوٓاْ إِلَّا ٱللَّهَۚ إِنَّنِي لَكُم مِّنۡهُ نَذِيرٞ وَبَشِيرٞ
 sentence_translation: ˹Tell them, O  Prophet,˺ “Worship none but Allah. Surely I am
   a warner and deliverer of good news to you from Him.
 word_by_word:
   1:
-    arabic: اَلَّا
+    arabic: أَلَّا
     translation: That "Not
     transliteration: allā
   2:
-    arabic: تَعۡبُدُوۡۤا
+    arabic: تَعۡبُدُوٓاْ
     translation: you worship
     transliteration: taʿbudū
   3:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: but
     transliteration: illā
   4:
-    arabic: اللّٰهَ​ ؕ
+    arabic: ٱللَّهَۚ
     translation: Allah
     transliteration: l-laha
   5:
-    arabic: اِنَّنِىۡ
+    arabic: إِنَّنِي
     translation: Indeed, I am
     transliteration: innanī
   6:
-    arabic: لَـكُمۡ
+    arabic: لَكُم
     translation: to you
     transliteration: lakum
   7:
@@ -33,11 +32,11 @@ word_by_word:
     translation: from Him
     transliteration: min'hu
   8:
-    arabic: نَذِيۡرٌ
+    arabic: نَذِيرٞ
     translation: a warner
     transliteration: nadhīrun
   9:
-    arabic: وَّبَشِيۡرٌ ۙ‏
+    arabic: وَبَشِيرٞ
     translation: and a bearer of glad tidings
     transliteration: wabashīrun
 ---

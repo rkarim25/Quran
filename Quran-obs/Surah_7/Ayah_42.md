@@ -1,24 +1,24 @@
 ---
-arabic_ayat: وَالَّذِيۡنَ اٰمَنُوۡا وَعَمِلُوا الصّٰلِحٰتِ لَا نُـكَلِّفُ نَفۡسًا
-  اِلَّا وُسۡعَهَاۤ  اُولٰۤٮِٕكَ اَصۡحٰبُ الۡجَـنَّةِ​ۚ هُمۡ فِيۡهَا خٰلِدُوۡنَ‏
+arabic_ayat: وَٱلَّذِينَ ءَامَنُواْ وَعَمِلُواْ ٱلصَّٰلِحَٰتِ لَا نُكَلِّفُ نَفۡسًا
+  إِلَّا وُسۡعَهَآ أُوْلَٰٓئِكَ أَصۡحَٰبُ ٱلۡجَنَّةِۖ هُمۡ فِيهَا خَٰلِدُونَ
 sentence_translation: As for those who believe and do good—We never require of any
   soul more than what it can afford—it is they who will be the residents of Paradise.
   They will be there forever.
 word_by_word:
   1:
-    arabic: وَالَّذِيۡنَ
+    arabic: وَٱلَّذِينَ ءَ
     translation: But those who
     transliteration: wa-alladhīna
   2:
-    arabic: اٰمَنُوۡا
+    arabic: امَنُواْ
     translation: believe
     transliteration: āmanū
   3:
-    arabic: وَعَمِلُوا
+    arabic: وَعَمِلُواْ
     translation: and do
     transliteration: waʿamilū
   4:
-    arabic: الصّٰلِحٰتِ
+    arabic: ٱلصَّٰلِحَٰتِ
     translation: '[the] righteous deeds'
     transliteration: l-ṣāliḥāti
   5:
@@ -26,7 +26,7 @@ word_by_word:
     translation: not
     transliteration: lā
   6:
-    arabic: نُـكَلِّفُ
+    arabic: نُكَلِّفُ
     translation: We burden
     transliteration: nukallifu
   7:
@@ -34,23 +34,23 @@ word_by_word:
     translation: any soul
     transliteration: nafsan
   8:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   9:
-    arabic: وُسۡعَهَاۤ 
+    arabic: وُسۡعَهَآ
     translation: (to) its capacity
     transliteration: wus'ʿahā
   10:
-    arabic: اُولٰۤٮِٕكَ
+    arabic: أُوْلَٰٓئِكَ
     translation: Those
     transliteration: ulāika
   11:
-    arabic: اَصۡحٰبُ
+    arabic: أَصۡحَٰبُ
     translation: (are the) companions
     transliteration: aṣḥābu
   12:
-    arabic: الۡجَـنَّةِ​ۚ
+    arabic: ٱلۡجَنَّةِۖ
     translation: (of) Paradise
     transliteration: l-janati
   13:
@@ -58,11 +58,11 @@ word_by_word:
     translation: they
     transliteration: hum
   14:
-    arabic: فِيۡهَا
+    arabic: فِيهَا
     translation: in it
     transliteration: fīhā
   15:
-    arabic: خٰلِدُوۡنَ‏
+    arabic: خَٰلِدُونَ
     translation: (will) abide forever
     transliteration: khālidūna
 ---

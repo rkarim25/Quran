@@ -1,7 +1,6 @@
 ---
-arabic_ayat: "فَلَمَّا رَاَالۡقَمَرَ بَازِغًا قَالَ هٰذَا رَبِّىۡ ​ۚ فَلَمَّاۤ اَفَلَ\
-  \ قَالَ لَٮِٕنۡ لَّمۡ يَهۡدِنِىۡ رَبِّىۡ لَاَ كُوۡنَنَّ مِنَ الۡقَوۡمِ الضَّآ لِّيۡنَ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: فَلَمَّا رَءَا ٱلۡقَمَرَ بَازِغٗا قَالَ هَٰذَا رَبِّيۖ فَلَمَّآ أَفَلَ
+  قَالَ لَئِن لَّمۡ يَهۡدِنِي رَبِّي لَأَكُونَنَّ مِنَ ٱلۡقَوۡمِ ٱلضَّآلِّينَ
 sentence_translation: Then when he saw the moon rising, he said, “This one is my Lord!”
   But when it disappeared, he said, “If my Lord does not guide me, I will certainly
   be one of the misguided people.”
@@ -11,15 +10,15 @@ word_by_word:
     translation: When
     transliteration: falammā
   2:
-    arabic: رَاَ
+    arabic: رَءَا
     translation: he saw
     transliteration: raā
   3:
-    arabic: الۡقَمَرَ
+    arabic: ٱلۡقَمَرَ
     translation: the moon
     transliteration: l-qamara
   4:
-    arabic: بَازِغًا
+    arabic: بَازِغٗا
     translation: rising
     transliteration: bāzighan
   5:
@@ -27,19 +26,19 @@ word_by_word:
     translation: he said
     transliteration: qāla
   6:
-    arabic: هٰذَا
+    arabic: هَٰذَا
     translation: This
     transliteration: hādhā
   7:
-    arabic: رَبِّىۡ ​ۚ
+    arabic: رَبِّيۖ
     translation: (is) my Lord
     transliteration: rabbī
   8:
-    arabic: فَلَمَّاۤ
+    arabic: فَلَمَّآ
     translation: But when
     transliteration: falammā
   9:
-    arabic: اَفَلَ
+    arabic: أَفَلَ
     translation: it set
     transliteration: afala
   10:
@@ -47,7 +46,7 @@ word_by_word:
     translation: he said
     transliteration: qāla
   11:
-    arabic: لَٮِٕنۡ
+    arabic: لَئِن
     translation: If
     transliteration: la-in
   12:
@@ -55,15 +54,15 @@ word_by_word:
     translation: (does) not
     transliteration: lam
   13:
-    arabic: يَهۡدِنِىۡ
+    arabic: يَهۡدِنِي
     translation: guide me
     transliteration: yahdinī
   14:
-    arabic: رَبِّىۡ
+    arabic: رَبِّي
     translation: my Lord
     transliteration: rabbī
   15:
-    arabic: لَاَ كُوۡنَنَّ
+    arabic: لَأَكُونَنَّ
     translation: I will surely be
     transliteration: la-akūnanna
   16:
@@ -71,11 +70,11 @@ word_by_word:
     translation: among
     transliteration: mina
   17:
-    arabic: الۡقَوۡمِ
+    arabic: ٱلۡقَوۡمِ
     translation: the people
     transliteration: l-qawmi
   18:
-    arabic: "الضَّآ لِّيۡنَ‏ \uFEFF\uFEFF"
+    arabic: ٱلضَّآلِّينَ
     translation: who went astray
     transliteration: l-ḍālīna
 ---

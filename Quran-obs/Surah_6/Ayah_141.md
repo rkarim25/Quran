@@ -1,47 +1,47 @@
 ---
-arabic_ayat: وَهُوَ الَّذِىۡۤ اَنۡشَاَ جَنّٰتٍ مَّعۡرُوۡشٰتٍ وَّغَيۡرَ مَعۡرُوۡشٰتٍ
-  وَّالنَّخۡلَ وَالزَّرۡعَ مُخۡتَلِفًا اُكُلُهٗ وَالزَّيۡتُوۡنَ وَالرُّمَّانَ مُتَشَابِهًا
-  وَّغَيۡرَ مُتَشَابِهٍ ​ؕ كُلُوۡا مِنۡ ثَمَرِهٖۤ اِذَاۤ اَثۡمَرَ وَاٰتُوۡا حَقَّهٗ
-  يَوۡمَ حَصَادِهٖ​ ​ۖ وَلَا تُسۡرِفُوۡا​ ؕ اِنَّهٗ لَا يُحِبُّ الۡمُسۡرِفِيۡنَ‏
+arabic_ayat: ۞ وَهُوَ ٱلَّذِيٓ أَنشَأَ جَنَّٰتٖ مَّعۡرُوشَٰتٖ وَغَيۡرَ مَعۡرُوشَٰتٖ
+  وَٱلنَّخۡلَ وَٱلزَّرۡعَ مُخۡتَلِفًا أُكُلُهُۥ وَٱلزَّيۡتُونَ وَٱلرُّمَّانَ مُتَشَٰبِهٗا
+  وَغَيۡرَ مُتَشَٰبِهٖۚ كُلُواْ مِن ثَمَرِهِۦٓ إِذَآ أَثۡمَرَ وَءَاتُواْ حَقَّهُۥ
+  يَوۡمَ حَصَادِهِۦۖ وَلَا تُسۡرِفُوٓاْۚ إِنَّهُۥ لَا يُحِبُّ ٱلۡمُسۡرِفِينَ
 sentence_translation: He is the One Who produces gardens—both cultivated and wild—and
   palm trees, crops of different flavours, olives, and pomegranates—similar ˹in shape˺,
   but dissimilar ˹in taste˺. Eat of the fruit they bear and pay the dues at harvest,
   but do not waste. Surely He does not like the wasteful.
 word_by_word:
   1:
-    arabic: ۞ وَهُوَ
+    arabic: ۞ وَهُوَ
     translation: And He
     transliteration: wahuwa
   2:
-    arabic: الَّذِىۡۤ
+    arabic: ٱلَّذِيٓ
     translation: (is) the One Who
     transliteration: alladhī
   3:
-    arabic: اَنۡشَاَ
+    arabic: أَنشَأَ
     translation: produced
     transliteration: ansha-a
   4:
-    arabic: جَنّٰتٍ
+    arabic: جَنَّٰتٖ
     translation: gardens
     transliteration: jannātin
   5:
-    arabic: مَّعۡرُوۡشٰتٍ
+    arabic: مَّعۡرُوشَٰتٖ
     translation: trellised
     transliteration: maʿrūshātin
   6:
-    arabic: وَّغَيۡرَ
+    arabic: وَغَيۡرَ
     translation: and other than
     transliteration: waghayra
   7:
-    arabic: مَعۡرُوۡشٰتٍ
+    arabic: مَعۡرُوشَٰتٖ
     translation: trellised
     transliteration: maʿrūshātin
   8:
-    arabic: وَّالنَّخۡلَ
+    arabic: وَٱلنَّخۡلَ
     translation: and the date-palm
     transliteration: wal-nakhla
   9:
-    arabic: وَالزَّرۡعَ
+    arabic: وَٱلزَّرۡعَ
     translation: and the crops
     transliteration: wal-zarʿa
   10:
@@ -49,55 +49,55 @@ word_by_word:
     translation: diverse
     transliteration: mukh'talifan
   11:
-    arabic: اُكُلُهٗ
+    arabic: أُكُلُهُۥ
     translation: (are) its taste
     transliteration: ukuluhu
   12:
-    arabic: وَالزَّيۡتُوۡنَ
+    arabic: وَٱلزَّيۡتُونَ
     translation: and the olives
     transliteration: wal-zaytūna
   13:
-    arabic: وَالرُّمَّانَ
+    arabic: وَٱلرُّمَّانَ
     translation: and the pomegranates
     transliteration: wal-rumāna
   14:
-    arabic: مُتَشَابِهًا
+    arabic: مُتَشَٰبِهٗا
     translation: similar
     transliteration: mutashābihan
   15:
-    arabic: وَّغَيۡرَ
+    arabic: وَغَيۡرَ
     translation: and other than
     transliteration: waghayra
   16:
-    arabic: مُتَشَابِهٍ ​ؕ
+    arabic: مُتَشَٰبِهٖۚ
     translation: similar
     transliteration: mutashābihin
   17:
-    arabic: كُلُوۡا
+    arabic: كُلُواْ
     translation: Eat
     transliteration: kulū
   18:
-    arabic: مِنۡ
+    arabic: مِن
     translation: of
     transliteration: min
   19:
-    arabic: ثَمَرِهٖۤ
+    arabic: ثَمَرِهِۦٓ
     translation: its fruit
     transliteration: thamarihi
   20:
-    arabic: اِذَاۤ
+    arabic: إِذَآ
     translation: when
     transliteration: idhā
   21:
-    arabic: اَثۡمَرَ
+    arabic: أَثۡمَرَ
     translation: it bears fruit
     transliteration: athmara
   22:
-    arabic: وَاٰتُوۡا
+    arabic: وَءَاتُواْ
     translation: and give
     transliteration: waātū
   23:
-    arabic: حَقَّهٗ
+    arabic: حَقَّهُۥ
     translation: its due
     transliteration: ḥaqqahu
   24:
@@ -105,7 +105,7 @@ word_by_word:
     translation: (on the) day
     transliteration: yawma
   25:
-    arabic: حَصَادِهٖ​ ​ۖ
+    arabic: حَصَادِهِۦۖ
     translation: (of) its harvest
     transliteration: ḥaṣādihi
   26:
@@ -113,11 +113,11 @@ word_by_word:
     translation: And (do) not
     transliteration: walā
   27:
-    arabic: تُسۡرِفُوۡا​ ؕ
+    arabic: تُسۡرِفُوٓاْۚ
     translation: (be) extravagant
     transliteration: tus'rifū
   28:
-    arabic: اِنَّهٗ
+    arabic: إِنَّهُۥ
     translation: Indeed, He
     transliteration: innahu
   29:
@@ -129,7 +129,7 @@ word_by_word:
     translation: love
     transliteration: yuḥibbu
   31:
-    arabic: الۡمُسۡرِفِيۡنَ‏
+    arabic: ٱلۡمُسۡرِفِينَ
     translation: the ones who are extravagant
     transliteration: l-mus'rifīna
 ---

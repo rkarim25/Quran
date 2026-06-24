@@ -1,31 +1,31 @@
 ---
-arabic_ayat: وَاَلۡقٰى فِى الۡاَرۡضِ رَوَاسِىَ اَنۡ تَمِيۡدَ بِكُمۡ وَاَنۡهٰرًا وَّسُبُلًا
-  لَّعَلَّكُمۡ تَهۡتَدُوۡنَۙ‏
+arabic_ayat: وَأَلۡقَىٰ فِي ٱلۡأَرۡضِ رَوَٰسِيَ أَن تَمِيدَ بِكُمۡ وَأَنۡهَٰرٗا وَسُبُلٗا
+  لَّعَلَّكُمۡ تَهۡتَدُونَ
 sentence_translation: He has placed into the earth firm mountains, so it does not
   shake with you, as well as rivers, and pathways so you may find your way.
 word_by_word:
   1:
-    arabic: وَاَلۡقٰى
+    arabic: وَأَلۡقَىٰ
     translation: And He has cast
     transliteration: wa-alqā
   2:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   3:
-    arabic: الۡاَرۡضِ
+    arabic: ٱلۡأَرۡضِ
     translation: the earth
     transliteration: l-arḍi
   4:
-    arabic: رَوَاسِىَ
+    arabic: رَوَٰسِيَ
     translation: firm mountains
     transliteration: rawāsiya
   5:
-    arabic: اَنۡ
+    arabic: أَن
     translation: lest
     transliteration: an
   6:
-    arabic: تَمِيۡدَ
+    arabic: تَمِيدَ
     translation: it should shake
     transliteration: tamīda
   7:
@@ -33,11 +33,11 @@ word_by_word:
     translation: with you
     transliteration: bikum
   8:
-    arabic: وَاَنۡهٰرًا
+    arabic: وَأَنۡهَٰرٗا
     translation: and rivers
     transliteration: wa-anhāran
   9:
-    arabic: وَّسُبُلًا
+    arabic: وَسُبُلٗا
     translation: and roads
     transliteration: wasubulan
   10:
@@ -45,7 +45,7 @@ word_by_word:
     translation: so that you may
     transliteration: laʿallakum
   11:
-    arabic: تَهۡتَدُوۡنَۙ‏
+    arabic: تَهۡتَدُونَ
     translation: be guided
     transliteration: tahtadūna
 ---

@@ -1,23 +1,23 @@
 ---
-arabic_ayat: وَلِتَصۡغٰٓى اِلَيۡهِ اَفۡـِٕدَةُ الَّذِيۡنَ لَا يُؤۡمِنُوۡنَ بِالۡاٰخِرَةِ
-  وَلِيَرۡضَوۡهُ وَلِيَقۡتَرِفُوۡا مَا هُمۡ مُّقۡتَرِفُوۡنَ‏
+arabic_ayat: وَلِتَصۡغَىٰٓ إِلَيۡهِ أَفۡـِٔدَةُ ٱلَّذِينَ لَا يُؤۡمِنُونَ بِٱلۡأٓخِرَةِ
+  وَلِيَرۡضَوۡهُ وَلِيَقۡتَرِفُواْ مَا هُم مُّقۡتَرِفُونَ
 sentence_translation: so that the hearts of those who disbelieve in the Hereafter
   may be receptive to it, be pleased with it, and be persistent in their evil pursuits.
 word_by_word:
   1:
-    arabic: وَلِتَصۡغٰٓى
+    arabic: وَلِتَصۡغَىٰٓ
     translation: And so that incline
     transliteration: walitaṣghā
   2:
-    arabic: اِلَيۡهِ
+    arabic: إِلَيۡهِ
     translation: to it
     transliteration: ilayhi
   3:
-    arabic: اَفۡـِٕدَةُ
+    arabic: أَفۡـِٔدَةُ
     translation: hearts
     transliteration: afidatu
   4:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: (of) those who
     transliteration: alladhīna
   5:
@@ -25,11 +25,11 @@ word_by_word:
     translation: (do) not
     transliteration: lā
   6:
-    arabic: يُؤۡمِنُوۡنَ
+    arabic: يُؤۡمِنُونَ
     translation: believe
     transliteration: yu'minūna
   7:
-    arabic: بِالۡاٰخِرَةِ
+    arabic: بِٱلۡأٓخِرَةِ
     translation: in the Hereafter
     transliteration: bil-ākhirati
   8:
@@ -37,7 +37,7 @@ word_by_word:
     translation: and so that they may be pleased with it
     transliteration: waliyarḍawhu
   9:
-    arabic: وَلِيَقۡتَرِفُوۡا
+    arabic: وَلِيَقۡتَرِفُواْ
     translation: and so that they may commit
     transliteration: waliyaqtarifū
   10:
@@ -45,11 +45,11 @@ word_by_word:
     translation: what
     transliteration: mā
   11:
-    arabic: هُمۡ
+    arabic: هُم
     translation: they
     transliteration: hum
   12:
-    arabic: مُّقۡتَرِفُوۡنَ‏
+    arabic: مُّقۡتَرِفُونَ
     translation: (are) committing
     transliteration: muq'tarifūna
 ---

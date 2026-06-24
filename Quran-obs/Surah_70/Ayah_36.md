@@ -1,5 +1,5 @@
 ---
-arabic_ayat: فَمَالِ الَّذِيۡنَ كَفَرُوۡا قِبَلَكَ مُهۡطِعِيۡنَۙ‏
+arabic_ayat: فَمَالِ ٱلَّذِينَ كَفَرُواْ قِبَلَكَ مُهۡطِعِينَ
 sentence_translation: So what is the matter with the disbelievers that they rush ˹head-long˺
   towards you ˹O Prophet˺,
 word_by_word:
@@ -8,11 +8,11 @@ word_by_word:
     translation: So what is with
     transliteration: famāli
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   3:
-    arabic: كَفَرُوۡا
+    arabic: كَفَرُواْ
     translation: disbelieve
     transliteration: kafarū
   4:
@@ -20,7 +20,7 @@ word_by_word:
     translation: before you
     transliteration: qibalaka
   5:
-    arabic: مُهۡطِعِيۡنَۙ‏
+    arabic: مُهۡطِعِينَ
     translation: (they) hasten
     transliteration: muh'ṭiʿīna
 ---

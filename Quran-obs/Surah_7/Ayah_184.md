@@ -1,15 +1,15 @@
 ---
-arabic_ayat: اَوَلَمۡ يَتَفَكَّرُوۡا​ مَا بِصَاحِبِهِمۡ مِّنۡ جِنَّةٍ​ؕ اِنۡ هُوَ
-  اِلَّا نَذِيۡرٌ مُّبِيۡنٌ‏
+arabic_ayat: أَوَلَمۡ يَتَفَكَّرُواْۗ مَا بِصَاحِبِهِم مِّن جِنَّةٍۚ إِنۡ هُوَ إِلَّا
+  نَذِيرٞ مُّبِينٌ
 sentence_translation: Have they not ever given it a thought? Their fellow man is not
   insane. He is only sent with a clear warning.
 word_by_word:
   1:
-    arabic: اَوَلَمۡ
+    arabic: أَوَلَمۡ
     translation: Do not
     transliteration: awalam
   2:
-    arabic: يَتَفَكَّرُوۡا​
+    arabic: يَتَفَكَّرُواْۗ
     translation: they reflect
     transliteration: yatafakkarū
   3:
@@ -17,19 +17,19 @@ word_by_word:
     translation: Not
     transliteration: mā
   4:
-    arabic: بِصَاحِبِهِمۡ
+    arabic: بِصَاحِبِهِم
     translation: in their companion
     transliteration: biṣāḥibihim
   5:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: '[of]'
     transliteration: min
   6:
-    arabic: جِنَّةٍ​ؕ
+    arabic: جِنَّةٍۚ
     translation: (is) any madness
     transliteration: jinnatin
   7:
-    arabic: اِنۡ
+    arabic: إِنۡ
     translation: Not
     transliteration: in
   8:
@@ -37,15 +37,15 @@ word_by_word:
     translation: he
     transliteration: huwa
   9:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: (is) but
     transliteration: illā
   10:
-    arabic: نَذِيۡرٌ
+    arabic: نَذِيرٞ
     translation: a warner
     transliteration: nadhīrun
   11:
-    arabic: مُّبِيۡنٌ‏
+    arabic: مُّبِينٌ
     translation: clear
     transliteration: mubīnun
 ---

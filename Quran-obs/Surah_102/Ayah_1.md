@@ -1,13 +1,13 @@
 ---
-arabic_ayat: اَلۡهٰٮكُمُ التَّكَاثُرُۙ‏
+arabic_ayat: أَلۡهَىٰكُمُ ٱلتَّكَاثُرُ
 sentence_translation: Competition for more ˹gains˺ diverts you ˹from Allah˺,
 word_by_word:
   1:
-    arabic: اَلۡهٰٮكُمُ
+    arabic: أَلۡهَىٰكُمُ
     translation: Diverts you
     transliteration: alhākumu
   2:
-    arabic: التَّكَاثُرُۙ‏
+    arabic: ٱلتَّكَاثُرُ
     translation: the competition to increase
     transliteration: l-takāthuru
 ---

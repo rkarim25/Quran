@@ -1,29 +1,29 @@
 ---
-arabic_ayat: اِنَّ الدِّيۡنَ عِنۡدَ اللّٰهِ الۡاِسۡلَامُ وَمَا اخۡتَلَفَ الَّذِيۡنَ
-  اُوۡتُوا الۡكِتٰبَ اِلَّا مِنۡۢ بَعۡدِ مَا جَآءَهُمُ الۡعِلۡمُ بَغۡيًا ۢ بَيۡنَهُمۡ​ؕ
-  وَمَنۡ يَّكۡفُرۡ بِاٰيٰتِ اللّٰهِ فَاِنَّ اللّٰهَ سَرِيۡعُ الۡحِسَابِ‏
+arabic_ayat: إِنَّ ٱلدِّينَ عِندَ ٱللَّهِ ٱلۡإِسۡلَٰمُۗ وَمَا ٱخۡتَلَفَ ٱلَّذِينَ
+  أُوتُواْ ٱلۡكِتَٰبَ إِلَّا مِنۢ بَعۡدِ مَا جَآءَهُمُ ٱلۡعِلۡمُ بَغۡيَۢا بَيۡنَهُمۡۗ
+  وَمَن يَكۡفُرۡ بِـَٔايَٰتِ ٱللَّهِ فَإِنَّ ٱللَّهَ سَرِيعُ ٱلۡحِسَابِ
 sentence_translation: Certainly, Allah’s only Way is Islam. Those who were given the
   Scripture did not dispute ˹among themselves˺ out of mutual envy until knowledge
   came to them. Whoever denies Allah’s signs, then surely Allah is swift in reckoning.
 word_by_word:
   1:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   2:
-    arabic: الدِّيۡنَ
+    arabic: ٱلدِّينَ
     translation: the religion
     transliteration: l-dīna
   3:
-    arabic: عِنۡدَ
+    arabic: عِندَ
     translation: near
     transliteration: ʿinda
   4:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   5:
-    arabic: الۡاِسۡلَامُ
+    arabic: ٱلۡإِسۡلَٰمُۗ
     translation: (is) Islam
     transliteration: l-is'lāmu
   6:
@@ -31,27 +31,27 @@ word_by_word:
     translation: And not
     transliteration: wamā
   7:
-    arabic: اخۡتَلَفَ
+    arabic: ٱخۡتَلَفَ
     translation: differed
     transliteration: ikh'talafa
   8:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   9:
-    arabic: اُوۡتُوا
+    arabic: أُوتُواْ
     translation: were given
     transliteration: ūtū
   10:
-    arabic: الۡكِتٰبَ
+    arabic: ٱلۡكِتَٰبَ
     translation: the Book
     transliteration: l-kitāba
   11:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   12:
-    arabic: مِنۡۢ
+    arabic: مِنۢ
     translation: from
     transliteration: min
   13:
@@ -67,47 +67,47 @@ word_by_word:
     translation: came to them
     transliteration: jāahumu
   16:
-    arabic: الۡعِلۡمُ
+    arabic: ٱلۡعِلۡمُ
     translation: '[the] knowledge'
     transliteration: l-ʿil'mu
   17:
-    arabic: بَغۡيًا ۢ
+    arabic: بَغۡيَۢا
     translation: out of envy
     transliteration: baghyan
   18:
-    arabic: بَيۡنَهُمۡ​ؕ
+    arabic: بَيۡنَهُمۡۗ
     translation: among them
     transliteration: baynahum
   19:
-    arabic: وَمَنۡ
+    arabic: وَمَن
     translation: And whoever
     transliteration: waman
   20:
-    arabic: يَّكۡفُرۡ
+    arabic: يَكۡفُرۡ
     translation: disbelieves
     transliteration: yakfur
   21:
-    arabic: بِاٰيٰتِ
+    arabic: بِـَٔايَٰتِ
     translation: in (the) Verses
     transliteration: biāyāti
   22:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (of) Allah
     transliteration: l-lahi
   23:
-    arabic: فَاِنَّ
+    arabic: فَإِنَّ
     translation: then indeed
     transliteration: fa-inna
   24:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   25:
-    arabic: سَرِيۡعُ
+    arabic: سَرِيعُ
     translation: (is) swift
     transliteration: sarīʿu
   26:
-    arabic: الۡحِسَابِ‏
+    arabic: ٱلۡحِسَابِ
     translation: (in taking) account
     transliteration: l-ḥisābi
 ---

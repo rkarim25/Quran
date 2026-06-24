@@ -1,7 +1,7 @@
 ---
-arabic_ayat: لَوۡ اَنۡزَلۡنَا هٰذَا الۡقُرۡاٰنَ عَلٰى جَبَلٍ لَّرَاَيۡتَهٗ خَاشِعًا
-  مُّتَصَدِّعًا مِّنۡ خَشۡيَةِ اللّٰهِ​ؕ وَتِلۡكَ الۡاَمۡثَالُ نَضۡرِبُهَا لِلنَّاسِ
-  لَعَلَّهُمۡ يَتَفَكَّرُوۡنَ‏
+arabic_ayat: لَوۡ أَنزَلۡنَا هَٰذَا ٱلۡقُرۡءَانَ عَلَىٰ جَبَلٖ لَّرَأَيۡتَهُۥ خَٰشِعٗا
+  مُّتَصَدِّعٗا مِّنۡ خَشۡيَةِ ٱللَّهِۚ وَتِلۡكَ ٱلۡأَمۡثَٰلُ نَضۡرِبُهَا لِلنَّاسِ
+  لَعَلَّهُمۡ يَتَفَكَّرُونَ
 sentence_translation: Had We sent down this Quran upon a mountain, you would have
   certainly seen it humbled and torn apart in awe of Allah. We set forth such comparisons
   for people, ˹so˺ perhaps they may reflect.
@@ -11,35 +11,35 @@ word_by_word:
     translation: If
     transliteration: law
   2:
-    arabic: اَنۡزَلۡنَا
+    arabic: أَنزَلۡنَا
     translation: We (had) sent down
     transliteration: anzalnā
   3:
-    arabic: هٰذَا
+    arabic: هَٰذَا
     translation: this
     transliteration: hādhā
   4:
-    arabic: الۡقُرۡاٰنَ
+    arabic: ٱلۡقُرۡءَانَ
     translation: Quran
     transliteration: l-qur'āna
   5:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: 'on'
     transliteration: ʿalā
   6:
-    arabic: جَبَلٍ
+    arabic: جَبَلٖ
     translation: a mountain
     transliteration: jabalin
   7:
-    arabic: لَّرَاَيۡتَهٗ
+    arabic: لَّرَأَيۡتَهُۥ
     translation: surely you (would) have seen it
     transliteration: lara-aytahu
   8:
-    arabic: خَاشِعًا
+    arabic: خَٰشِعٗا
     translation: humbled
     transliteration: khāshiʿan
   9:
-    arabic: مُّتَصَدِّعًا
+    arabic: مُّتَصَدِّعٗا
     translation: breaking asunder
     transliteration: mutaṣaddiʿan
   10:
@@ -51,7 +51,7 @@ word_by_word:
     translation: (the) fear
     transliteration: khashyati
   12:
-    arabic: اللّٰهِ​ؕ
+    arabic: ٱللَّهِۚ
     translation: (of) Allah
     transliteration: l-lahi
   13:
@@ -59,7 +59,7 @@ word_by_word:
     translation: And these
     transliteration: watil'ka
   14:
-    arabic: الۡاَمۡثَالُ
+    arabic: ٱلۡأَمۡثَٰلُ
     translation: examples
     transliteration: l-amthālu
   15:
@@ -75,7 +75,7 @@ word_by_word:
     translation: so that they may
     transliteration: laʿallahum
   18:
-    arabic: يَتَفَكَّرُوۡنَ‏
+    arabic: يَتَفَكَّرُونَ
     translation: give thought
     transliteration: yatafakkarūna
 ---

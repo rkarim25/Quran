@@ -1,6 +1,6 @@
 ---
-arabic_ayat: وَهُمۡ يَنۡهَوۡنَ عَنۡهُ وَيَنۡــَٔوۡنَ عَنۡهُ​ۚ وَاِنۡ يُّهۡلِكُوۡنَ
-  اِلَّاۤ اَنۡفُسَهُمۡ وَمَا يَشۡعُرُوۡنَ‏
+arabic_ayat: وَهُمۡ يَنۡهَوۡنَ عَنۡهُ وَيَنۡـَٔوۡنَ عَنۡهُۖ وَإِن يُهۡلِكُونَ إِلَّآ
+  أَنفُسَهُمۡ وَمَا يَشۡعُرُونَ
 sentence_translation: They turn others away from the Prophet and distance themselves
   as well. They ruin none but themselves, yet they fail to perceive it.
 word_by_word:
@@ -17,27 +17,27 @@ word_by_word:
     translation: from it
     transliteration: ʿanhu
   4:
-    arabic: وَيَنۡــَٔوۡنَ
+    arabic: وَيَنۡـَٔوۡنَ
     translation: and they keep away
     transliteration: wayanawna
   5:
-    arabic: عَنۡهُ​ۚ
+    arabic: عَنۡهُۖ
     translation: from it
     transliteration: ʿanhu
   6:
-    arabic: وَاِنۡ
+    arabic: وَإِن
     translation: And not
     transliteration: wa-in
   7:
-    arabic: يُّهۡلِكُوۡنَ
+    arabic: يُهۡلِكُونَ
     translation: they destroy
     transliteration: yuh'likūna
   8:
-    arabic: اِلَّاۤ
+    arabic: إِلَّآ
     translation: except
     transliteration: illā
   9:
-    arabic: اَنۡفُسَهُمۡ
+    arabic: أَنفُسَهُمۡ
     translation: themselves
     transliteration: anfusahum
   10:
@@ -45,7 +45,7 @@ word_by_word:
     translation: and not
     transliteration: wamā
   11:
-    arabic: يَشۡعُرُوۡنَ‏
+    arabic: يَشۡعُرُونَ
     translation: they perceive
     transliteration: yashʿurūna
 ---

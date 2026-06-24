@@ -1,6 +1,5 @@
 ---
-arabic_ayat: "وَلَا يَسۡتَطِيۡعُوۡنَ لَهُمۡ نَـصۡرًا وَّلَاۤ اَنۡفُسَهُمۡ يَنۡصُرُوۡنَ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: وَلَا يَسۡتَطِيعُونَ لَهُمۡ نَصۡرٗا وَلَآ أَنفُسَهُمۡ يَنصُرُونَ
 sentence_translation: which cannot help them, or even help themselves?
 word_by_word:
   1:
@@ -8,7 +7,7 @@ word_by_word:
     translation: And not
     transliteration: walā
   2:
-    arabic: يَسۡتَطِيۡعُوۡنَ
+    arabic: يَسۡتَطِيعُونَ
     translation: they are able
     transliteration: yastaṭīʿūna
   3:
@@ -16,19 +15,19 @@ word_by_word:
     translation: to (give) them
     transliteration: lahum
   4:
-    arabic: نَـصۡرًا
+    arabic: نَصۡرٗا
     translation: any help
     transliteration: naṣran
   5:
-    arabic: وَّلَاۤ
+    arabic: وَلَآ
     translation: and not
     transliteration: walā
   6:
-    arabic: اَنۡفُسَهُمۡ
+    arabic: أَنفُسَهُمۡ
     translation: themselves
     transliteration: anfusahum
   7:
-    arabic: "يَنۡصُرُوۡنَ‏ \uFEFF\uFEFF"
+    arabic: يَنصُرُونَ
     translation: can they help
     transliteration: yanṣurūna
 ---

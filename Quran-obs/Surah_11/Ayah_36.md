@@ -1,35 +1,35 @@
 ---
-arabic_ayat: وَاُوۡحِىَ اِلٰى نُوۡحٍ اَنَّهٗ لَنۡ يُّؤۡمِنَ مِنۡ قَوۡمِكَ اِلَّا مَنۡ
-  قَدۡ اٰمَنَ فَلَا تَبۡتَٮِٕسۡ بِمَا كَانُوۡا يَفۡعَلُوۡنَ​ ۖ ​ ۚ‏
+arabic_ayat: وَأُوحِيَ إِلَىٰ نُوحٍ أَنَّهُۥ لَن يُؤۡمِنَ مِن قَوۡمِكَ إِلَّا مَن
+  قَدۡ ءَامَنَ فَلَا تَبۡتَئِسۡ بِمَا كَانُواْ يَفۡعَلُونَ
 sentence_translation: And it was revealed to Noah, “None of your people will believe
   except those who already have. So do not be distressed by what they have been doing.
 word_by_word:
   1:
-    arabic: وَاُوۡحِىَ
+    arabic: وَأُوحِيَ
     translation: And it was revealed
     transliteration: waūḥiya
   2:
-    arabic: اِلٰى
+    arabic: إِلَىٰ
     translation: to
     transliteration: ilā
   3:
-    arabic: نُوۡحٍ
+    arabic: نُوحٍ
     translation: Nuh
     transliteration: nūḥin
   4:
-    arabic: اَنَّهٗ
+    arabic: أَنَّهُۥ
     translation: That
     transliteration: annahu
   5:
-    arabic: لَنۡ
+    arabic: لَن
     translation: will never
     transliteration: lan
   6:
-    arabic: يُّؤۡمِنَ
+    arabic: يُؤۡمِنَ
     translation: believe
     transliteration: yu'mina
   7:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   8:
@@ -37,19 +37,19 @@ word_by_word:
     translation: your people
     transliteration: qawmika
   9:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   10:
-    arabic: مَنۡ
+    arabic: مَن
     translation: (those) who
     transliteration: man
   11:
-    arabic: قَدۡ
+    arabic: قَدۡ ءَ
     translation: have already
     transliteration: qad
   12:
-    arabic: اٰمَنَ
+    arabic: امَنَ
     translation: believed
     transliteration: āmana
   13:
@@ -57,7 +57,7 @@ word_by_word:
     translation: So (do) not
     transliteration: falā
   14:
-    arabic: تَبۡتَٮِٕسۡ
+    arabic: تَبۡتَئِسۡ
     translation: (be) distressed
     transliteration: tabta-is
   15:
@@ -65,11 +65,11 @@ word_by_word:
     translation: by what
     transliteration: bimā
   16:
-    arabic: كَانُوۡا
+    arabic: كَانُواْ
     translation: they have been
     transliteration: kānū
   17:
-    arabic: يَفۡعَلُوۡنَ​ ۖ ​ ۚ‏
+    arabic: يَفۡعَلُونَ
     translation: doing
     transliteration: yafʿalūna
 ---

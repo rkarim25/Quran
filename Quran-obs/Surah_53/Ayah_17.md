@@ -1,5 +1,5 @@
 ---
-arabic_ayat: مَا زَاغَ الۡبَصَرُ وَمَا طَغٰى‏
+arabic_ayat: مَا زَاغَ ٱلۡبَصَرُ وَمَا طَغَىٰ
 sentence_translation: The ˹Prophet’s˺ sight never wandered, nor did it overreach.
 word_by_word:
   1:
@@ -11,7 +11,7 @@ word_by_word:
     translation: swerved
     transliteration: zāgha
   3:
-    arabic: الۡبَصَرُ
+    arabic: ٱلۡبَصَرُ
     translation: the sight
     transliteration: l-baṣaru
   4:
@@ -19,7 +19,7 @@ word_by_word:
     translation: and not
     transliteration: wamā
   5:
-    arabic: طَغٰى‏
+    arabic: طَغَىٰ
     translation: it transgressed
     transliteration: ṭaghā
 ---

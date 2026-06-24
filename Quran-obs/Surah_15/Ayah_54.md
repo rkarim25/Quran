@@ -1,6 +1,5 @@
 ---
-arabic_ayat: "قَالَ اَبَشَّرۡتُمُوۡنِىۡ عَلٰٓى اَنۡ مَّسَّنِىَ الۡكِبَرُ فَبِمَ تُبَشِّرُوۡنَ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: قَالَ أَبَشَّرۡتُمُونِي عَلَىٰٓ أَن مَّسَّنِيَ ٱلۡكِبَرُ فَبِمَ تُبَشِّرُونَ
 sentence_translation: He wondered, “Do you give me good news despite my old age? What
   unlikely news!”
 word_by_word:
@@ -9,23 +8,23 @@ word_by_word:
     translation: He said
     transliteration: qāla
   2:
-    arabic: اَبَشَّرۡتُمُوۡنِىۡ
+    arabic: أَبَشَّرۡتُمُونِي
     translation: Do you give me glad tidings
     transliteration: abashartumūnī
   3:
-    arabic: عَلٰٓى
+    arabic: عَلَىٰٓ
     translation: Do you give me glad tidings
     transliteration: ʿalā
   4:
-    arabic: اَنۡ
+    arabic: أَن
     translation: although
     transliteration: an
   5:
-    arabic: مَّسَّنِىَ
+    arabic: مَّسَّنِيَ
     translation: has overtaken me
     transliteration: massaniya
   6:
-    arabic: الۡكِبَرُ
+    arabic: ٱلۡكِبَرُ
     translation: old age
     transliteration: l-kibaru
   7:
@@ -33,7 +32,7 @@ word_by_word:
     translation: Then about what
     transliteration: fabima
   8:
-    arabic: "تُبَشِّرُوۡنَ‏ \uFEFF\uFEFF"
+    arabic: تُبَشِّرُونَ
     translation: you give glad tidings
     transliteration: tubashirūna
 ---

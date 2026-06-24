@@ -1,6 +1,5 @@
 ---
-arabic_ayat: "فَمَا زَالَتۡ تِّلۡكَ دَعۡوٰٮهُمۡ حَتّٰى جَعَلۡنٰهُمۡ حَصِيۡدًا خٰمِدِيۡنَ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: فَمَا زَالَت تِّلۡكَ دَعۡوَىٰهُمۡ حَتَّىٰ جَعَلۡنَٰهُمۡ حَصِيدًا خَٰمِدِينَ
 sentence_translation: They kept repeating their cry until We mowed them down, ˹leaving
   them˺ lifeless. 
 word_by_word:
@@ -9,7 +8,7 @@ word_by_word:
     translation: Then not
     transliteration: famā
   2:
-    arabic: زَالَتۡ
+    arabic: زَالَت
     translation: ceased
     transliteration: zālat
   3:
@@ -17,23 +16,23 @@ word_by_word:
     translation: '[this]'
     transliteration: til'ka
   4:
-    arabic: دَعۡوٰٮهُمۡ
+    arabic: دَعۡوَىٰهُمۡ
     translation: their cry
     transliteration: daʿwāhum
   5:
-    arabic: حَتّٰى
+    arabic: حَتَّىٰ
     translation: until
     transliteration: ḥattā
   6:
-    arabic: جَعَلۡنٰهُمۡ
+    arabic: جَعَلۡنَٰهُمۡ
     translation: We made them
     transliteration: jaʿalnāhum
   7:
-    arabic: حَصِيۡدًا
+    arabic: حَصِيدًا
     translation: reaped
     transliteration: ḥaṣīdan
   8:
-    arabic: "خٰمِدِيۡنَ‏ \uFEFF\uFEFF"
+    arabic: خَٰمِدِينَ
     translation: extinct
     transliteration: khāmidīna
 ---

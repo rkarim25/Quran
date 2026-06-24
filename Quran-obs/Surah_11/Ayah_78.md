@@ -1,30 +1,30 @@
 ---
-arabic_ayat: وَجَآءَهٗ قَوۡمُهٗ يُهۡرَعُوۡنَ اِلَيۡهِ ؕ وَمِنۡ قَبۡلُ كَانُوۡا يَعۡمَلُوۡنَ
-  السَّيِّاٰتِ ​ؕ قَالَ يٰقَوۡمِ هٰٓؤُلَاۤءِ بَنٰتِىۡ هُنَّ اَطۡهَرُ لَـكُمۡ​ ۚ فَاتَّقُوۡا
-  اللّٰهَ وَلَا تُخۡزُوۡنِ فِىۡ ضَيۡفِىۡ ؕ اَلَيۡسَ مِنۡكُمۡ رَجُلٌ رَّشِيۡدٌ‏
+arabic_ayat: وَجَآءَهُۥ قَوۡمُهُۥ يُهۡرَعُونَ إِلَيۡهِ وَمِن قَبۡلُ كَانُواْ يَعۡمَلُونَ
+  ٱلسَّيِّـَٔاتِۚ قَالَ يَٰقَوۡمِ هَٰٓؤُلَآءِ بَنَاتِي هُنَّ أَطۡهَرُ لَكُمۡۖ فَٱتَّقُواْ
+  ٱللَّهَ وَلَا تُخۡزُونِ فِي ضَيۡفِيٓۖ أَلَيۡسَ مِنكُمۡ رَجُلٞ رَّشِيدٞ
 sentence_translation: And ˹the men of˺ his people—who were used to shameful deeds—came
   to him rushing. He pleaded, “O my people! Here are my daughters ˹for marriage˺—they
   are pure for you. So fear Allah, and do not humiliate me by disrespecting my guests.
   Is there not ˹even˺ a single right-minded man among you?”
 word_by_word:
   1:
-    arabic: وَجَآءَهٗ
+    arabic: وَجَآءَهُۥ
     translation: And came (to) him
     transliteration: wajāahu
   2:
-    arabic: قَوۡمُهٗ
+    arabic: قَوۡمُهُۥ
     translation: his people
     transliteration: qawmuhu
   3:
-    arabic: يُهۡرَعُوۡنَ
+    arabic: يُهۡرَعُونَ
     translation: rushing
     transliteration: yuh'raʿūna
   4:
-    arabic: اِلَيۡهِ ؕ
+    arabic: إِلَيۡهِ
     translation: to him
     transliteration: ilayhi
   5:
-    arabic: وَمِنۡ
+    arabic: وَمِن
     translation: and before
     transliteration: wamin
   6:
@@ -32,15 +32,15 @@ word_by_word:
     translation: and before
     transliteration: qablu
   7:
-    arabic: كَانُوۡا
+    arabic: كَانُواْ
     translation: they (had) been
     transliteration: kānū
   8:
-    arabic: يَعۡمَلُوۡنَ
+    arabic: يَعۡمَلُونَ
     translation: doing
     transliteration: yaʿmalūna
   9:
-    arabic: السَّيِّاٰتِ ​ؕ
+    arabic: ٱلسَّيِّـَٔاتِۚ
     translation: the evil deeds
     transliteration: l-sayiāti
   10:
@@ -48,15 +48,15 @@ word_by_word:
     translation: He said
     transliteration: qāla
   11:
-    arabic: يٰقَوۡمِ
+    arabic: يَٰقَوۡمِ
     translation: O my people
     transliteration: yāqawmi
   12:
-    arabic: هٰٓؤُلَاۤءِ
+    arabic: هَٰٓؤُلَآءِ
     translation: These
     transliteration: hāulāi
   13:
-    arabic: بَنٰتِىۡ
+    arabic: بَنَاتِي
     translation: (are) my daughters
     transliteration: banātī
   14:
@@ -64,19 +64,19 @@ word_by_word:
     translation: they
     transliteration: hunna
   15:
-    arabic: اَطۡهَرُ
+    arabic: أَطۡهَرُ
     translation: (are) purer
     transliteration: aṭharu
   16:
-    arabic: لَـكُمۡ​ ۚ
+    arabic: لَكُمۡۖ
     translation: for you
     transliteration: lakum
   17:
-    arabic: فَاتَّقُوۡا
+    arabic: فَٱتَّقُواْ
     translation: So fear
     transliteration: fa-ittaqū
   18:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   19:
@@ -84,31 +84,31 @@ word_by_word:
     translation: and (do) not
     transliteration: walā
   20:
-    arabic: تُخۡزُوۡنِ
+    arabic: تُخۡزُونِ
     translation: disgrace me
     transliteration: tukh'zūni
   21:
-    arabic: فِىۡ
+    arabic: فِي
     translation: concerning
     transliteration: fī
   22:
-    arabic: ضَيۡفِىۡ ؕ
+    arabic: ضَيۡفِيٓۖ
     translation: my guests
     transliteration: ḍayfī
   23:
-    arabic: اَلَيۡسَ
+    arabic: أَلَيۡسَ
     translation: Is (there) not
     transliteration: alaysa
   24:
-    arabic: مِنۡكُمۡ
+    arabic: مِنكُمۡ
     translation: among you
     transliteration: minkum
   25:
-    arabic: رَجُلٌ
+    arabic: رَجُلٞ
     translation: a man
     transliteration: rajulun
   26:
-    arabic: رَّشِيۡدٌ‏
+    arabic: رَّشِيدٞ
     translation: right-minded
     transliteration: rashīdun
 ---

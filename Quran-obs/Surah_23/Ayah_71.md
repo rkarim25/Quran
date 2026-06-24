@@ -1,7 +1,6 @@
 ---
-arabic_ayat: "وَلَوِ اتَّبَعَ الۡحَـقُّ اَهۡوَآءَهُمۡ لَفَسَدَتِ السَّمٰوٰتُ وَالۡاَرۡضُ\
-  \ وَمَنۡ فِيۡهِنَّ​ؕ بَلۡ اَتَيۡنٰهُمۡ بِذِكۡرِهِمۡ فَهُمۡ عَنۡ ذِكۡرِهِمۡ مُّعۡرِضُوۡنَؕ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: وَلَوِ ٱتَّبَعَ ٱلۡحَقُّ أَهۡوَآءَهُمۡ لَفَسَدَتِ ٱلسَّمَٰوَٰتُ وَٱلۡأَرۡضُ
+  وَمَن فِيهِنَّۚ بَلۡ أَتَيۡنَٰهُم بِذِكۡرِهِمۡ فَهُمۡ عَن ذِكۡرِهِم مُّعۡرِضُونَ
 sentence_translation: Had the truth followed their desires, the heavens, the earth,
   and all those in them would have certainly been corrupted. In fact, We have brought
   them ˹the means to˺ their glory, but they turn away from it.
@@ -11,15 +10,15 @@ word_by_word:
     translation: But if
     transliteration: walawi
   2:
-    arabic: اتَّبَعَ
+    arabic: ٱتَّبَعَ
     translation: (had) followed
     transliteration: ittabaʿa
   3:
-    arabic: الۡحَـقُّ
+    arabic: ٱلۡحَقُّ
     translation: the truth
     transliteration: l-ḥaqu
   4:
-    arabic: اَهۡوَآءَهُمۡ
+    arabic: أَهۡوَآءَهُمۡ
     translation: their desires
     transliteration: ahwāahum
   5:
@@ -27,19 +26,19 @@ word_by_word:
     translation: surely (would) have been corrupted
     transliteration: lafasadati
   6:
-    arabic: السَّمٰوٰتُ
+    arabic: ٱلسَّمَٰوَٰتُ
     translation: the heavens
     transliteration: l-samāwātu
   7:
-    arabic: وَالۡاَرۡضُ
+    arabic: وَٱلۡأَرۡضُ
     translation: and the earth
     transliteration: wal-arḍu
   8:
-    arabic: وَمَنۡ
+    arabic: وَمَن
     translation: and whoever
     transliteration: waman
   9:
-    arabic: فِيۡهِنَّ​ؕ
+    arabic: فِيهِنَّۚ
     translation: (is) therein
     transliteration: fīhinna
   10:
@@ -47,7 +46,7 @@ word_by_word:
     translation: Nay
     transliteration: bal
   11:
-    arabic: اَتَيۡنٰهُمۡ
+    arabic: أَتَيۡنَٰهُم
     translation: We have brought them
     transliteration: ataynāhum
   12:
@@ -59,15 +58,15 @@ word_by_word:
     translation: but they
     transliteration: fahum
   14:
-    arabic: عَنۡ
+    arabic: عَن
     translation: from
     transliteration: ʿan
   15:
-    arabic: ذِكۡرِهِمۡ
+    arabic: ذِكۡرِهِم
     translation: their reminder
     transliteration: dhik'rihim
   16:
-    arabic: "مُّعۡرِضُوۡنَؕ‏ \uFEFF\uFEFF"
+    arabic: مُّعۡرِضُونَ
     translation: (are) turning away
     transliteration: muʿ'riḍūna
 ---

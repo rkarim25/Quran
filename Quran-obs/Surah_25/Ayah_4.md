@@ -1,6 +1,6 @@
 ---
-arabic_ayat: وَقَالَ الَّذِيۡنَ كَفَرُوۡۤا اِنۡ هٰذَاۤ اِلَّاۤ اِفۡكٌ اۨفۡتَـرٰٮهُ
-  وَاَعَانَهٗ عَلَيۡهِ قَوۡمٌ اٰخَرُوۡنَ​​ ۛۚ فَقَدۡ جَآءُوۡ ظُلۡمًا وَّزُوۡرًا ۛۚ‏
+arabic_ayat: وَقَالَ ٱلَّذِينَ كَفَرُوٓاْ إِنۡ هَٰذَآ إِلَّآ إِفۡكٌ ٱفۡتَرَىٰهُ
+  وَأَعَانَهُۥ عَلَيۡهِ قَوۡمٌ ءَاخَرُونَۖ فَقَدۡ جَآءُو ظُلۡمٗا وَزُورٗا
 sentence_translation: The disbelievers say, “This ˹Quran˺ is nothing but a fabrication
   which he made up with the help of others.” Their claim is totally unjustified and
   untrue!
@@ -10,35 +10,35 @@ word_by_word:
     translation: And say
     transliteration: waqāla
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   3:
-    arabic: كَفَرُوۡۤا
+    arabic: كَفَرُوٓاْ
     translation: disbelieve
     transliteration: kafarū
   4:
-    arabic: اِنۡ
+    arabic: إِنۡ
     translation: Not
     transliteration: in
   5:
-    arabic: هٰذَاۤ
+    arabic: هَٰذَآ
     translation: this
     transliteration: hādhā
   6:
-    arabic: اِلَّاۤ
+    arabic: إِلَّآ
     translation: (is) but
     transliteration: illā
   7:
-    arabic: اِفۡكٌ
+    arabic: إِفۡكٌ
     translation: a lie
     transliteration: if'kun
   8:
-    arabic: اۨفۡتَـرٰٮهُ
+    arabic: ٱفۡتَرَىٰهُ
     translation: he invented it
     transliteration: if'tarāhu
   9:
-    arabic: وَاَعَانَهٗ
+    arabic: وَأَعَانَهُۥ
     translation: and helped him
     transliteration: wa-aʿānahu
   10:
@@ -46,11 +46,11 @@ word_by_word:
     translation: at it
     transliteration: ʿalayhi
   11:
-    arabic: قَوۡمٌ
+    arabic: قَوۡمٌ ءَ
     translation: people
     transliteration: qawmun
   12:
-    arabic: اٰخَرُوۡنَ​​ ۛۚ
+    arabic: اخَرُونَۖ
     translation: other
     transliteration: ākharūna
   13:
@@ -58,15 +58,15 @@ word_by_word:
     translation: But verily
     transliteration: faqad
   14:
-    arabic: جَآءُوۡ
+    arabic: جَآءُو
     translation: they (have) produced
     transliteration: jāū
   15:
-    arabic: ظُلۡمًا
+    arabic: ظُلۡمٗا
     translation: an injustice
     transliteration: ẓul'man
   16:
-    arabic: وَّزُوۡرًا ۛۚ‏
+    arabic: وَزُورٗا
     translation: and a lie
     transliteration: wazūran
 ---

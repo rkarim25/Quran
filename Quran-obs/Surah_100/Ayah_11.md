@@ -1,13 +1,13 @@
 ---
-arabic_ayat: اِنَّ رَبَّهُمۡ بِهِمۡ يَوۡمَٮِٕذٍ لَّخَبِيۡرٌ‏
+arabic_ayat: إِنَّ رَبَّهُم بِهِمۡ يَوۡمَئِذٖ لَّخَبِيرُۢ
 sentence_translation: surely their Lord is All-Aware of them on that Day.
 word_by_word:
   1:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   2:
-    arabic: رَبَّهُمۡ
+    arabic: رَبَّهُم
     translation: their Lord
     transliteration: rabbahum
   3:
@@ -15,11 +15,11 @@ word_by_word:
     translation: about them
     transliteration: bihim
   4:
-    arabic: يَوۡمَٮِٕذٍ
+    arabic: يَوۡمَئِذٖ
     translation: that Day
     transliteration: yawma-idhin
   5:
-    arabic: لَّخَبِيۡرٌ‏
+    arabic: لَّخَبِيرُۢ
     translation: (is) surely All-Aware
     transliteration: lakhabīrun
 ---

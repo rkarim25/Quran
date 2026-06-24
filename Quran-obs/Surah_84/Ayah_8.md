@@ -1,5 +1,5 @@
 ---
-arabic_ayat: فَسَوۡفَ يُحَاسَبُ حِسَابًا يَّسِيۡرًا ۙ‏
+arabic_ayat: فَسَوۡفَ يُحَاسَبُ حِسَابٗا يَسِيرٗا
 sentence_translation: they will have an easy reckoning,
 word_by_word:
   1:
@@ -11,11 +11,11 @@ word_by_word:
     translation: his account will be taken
     transliteration: yuḥāsabu
   3:
-    arabic: حِسَابًا
+    arabic: حِسَابٗا
     translation: an account
     transliteration: ḥisāban
   4:
-    arabic: يَّسِيۡرًا ۙ‏
+    arabic: يَسِيرٗا
     translation: easy
     transliteration: yasīran
 ---

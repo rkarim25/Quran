@@ -1,14 +1,14 @@
 ---
-arabic_ayat: وَاِذَا لَمۡ تَاۡتِهِمۡ بِاٰيَةٍ قَالُوۡا لَوۡلَا اجۡتَبَيۡتَهَا​ ؕ قُلۡ
-  اِنَّمَاۤ اَتَّبِعُ مَا يُوۡحٰٓى اِلَىَّ مِنۡ رَّبِّىۡ ​ۚ هٰذَا بَصَآٮِٕرُ مِنۡ
-  رَّبِّكُمۡ وَهُدًى وَّ رَحۡمَةٌ لِّقَوۡمٍ يُّؤۡمِنُوۡنَ‏
+arabic_ayat: وَإِذَا لَمۡ تَأۡتِهِم بِـَٔايَةٖ قَالُواْ لَوۡلَا ٱجۡتَبَيۡتَهَاۚ قُلۡ
+  إِنَّمَآ أَتَّبِعُ مَا يُوحَىٰٓ إِلَيَّ مِن رَّبِّيۚ هَٰذَا بَصَآئِرُ مِن رَّبِّكُمۡ
+  وَهُدٗى وَرَحۡمَةٞ لِّقَوۡمٖ يُؤۡمِنُونَ
 sentence_translation: If you ˹O Prophet˺ do not bring them a sign ˹which they demanded˺,
   they ask, “Why do you not make it yourself?” Say, “I only follow what is revealed
   to me from my Lord. This ˹Quran˺ is an insight from your Lord—a guide and a mercy
   for those who believe.”
 word_by_word:
   1:
-    arabic: وَاِذَا
+    arabic: وَإِذَا
     translation: And when
     transliteration: wa-idhā
   2:
@@ -16,15 +16,15 @@ word_by_word:
     translation: not
     transliteration: lam
   3:
-    arabic: تَاۡتِهِمۡ
+    arabic: تَأۡتِهِم
     translation: you bring them
     transliteration: tatihim
   4:
-    arabic: بِاٰيَةٍ
+    arabic: بِـَٔايَةٖ
     translation: a Sign
     transliteration: biāyatin
   5:
-    arabic: قَالُوۡا
+    arabic: قَالُواْ
     translation: they say
     transliteration: qālū
   6:
@@ -32,7 +32,7 @@ word_by_word:
     translation: Why (have) not
     transliteration: lawlā
   7:
-    arabic: اجۡتَبَيۡتَهَا​ ؕ
+    arabic: ٱجۡتَبَيۡتَهَاۚ
     translation: you devised it
     transliteration: ij'tabaytahā
   8:
@@ -40,11 +40,11 @@ word_by_word:
     translation: Say
     transliteration: qul
   9:
-    arabic: اِنَّمَاۤ
+    arabic: إِنَّمَآ
     translation: Only
     transliteration: innamā
   10:
-    arabic: اَتَّبِعُ
+    arabic: أَتَّبِعُ
     translation: I follow
     transliteration: attabiʿu
   11:
@@ -52,31 +52,31 @@ word_by_word:
     translation: what
     transliteration: mā
   12:
-    arabic: يُوۡحٰٓى
+    arabic: يُوحَىٰٓ
     translation: is revealed
     transliteration: yūḥā
   13:
-    arabic: اِلَىَّ
+    arabic: إِلَيَّ
     translation: to me
     transliteration: ilayya
   14:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   15:
-    arabic: رَّبِّىۡ ​ۚ
+    arabic: رَّبِّيۚ
     translation: my Lord
     transliteration: rabbī
   16:
-    arabic: هٰذَا
+    arabic: هَٰذَا
     translation: This (is)
     transliteration: hādhā
   17:
-    arabic: بَصَآٮِٕرُ
+    arabic: بَصَآئِرُ
     translation: enlightenment
     transliteration: baṣāiru
   18:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   19:
@@ -84,19 +84,19 @@ word_by_word:
     translation: your Lord
     transliteration: rabbikum
   20:
-    arabic: وَهُدًى
+    arabic: وَهُدٗى
     translation: and guidance
     transliteration: wahudan
   21:
-    arabic: وَّ رَحۡمَةٌ
+    arabic: وَرَحۡمَةٞ
     translation: and mercy
     transliteration: waraḥmatun
   22:
-    arabic: لِّقَوۡمٍ
+    arabic: لِّقَوۡمٖ
     translation: for a people
     transliteration: liqawmin
   23:
-    arabic: يُّؤۡمِنُوۡنَ‏
+    arabic: يُؤۡمِنُونَ
     translation: who believe
     transliteration: yu'minūna
 ---

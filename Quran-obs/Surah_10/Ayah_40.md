@@ -1,31 +1,31 @@
 ---
-arabic_ayat: وَ مِنۡهُمۡ مَّنۡ يُّؤۡمِنُ بِهٖ وَمِنۡهُمۡ مَّنۡ لَّا يُؤۡمِنُ بِهٖ​ؕ
-  وَرَبُّكَ اَعۡلَمُ بِالۡمُفۡسِدِيۡنَ‏
+arabic_ayat: وَمِنۡهُم مَّن يُؤۡمِنُ بِهِۦ وَمِنۡهُم مَّن لَّا يُؤۡمِنُ بِهِۦۚ وَرَبُّكَ
+  أَعۡلَمُ بِٱلۡمُفۡسِدِينَ
 sentence_translation: Some of them will ˹eventually˺ believe in it; others will not.
   And your Lord knows best the corruptors.
 word_by_word:
   1:
-    arabic: وَ مِنۡهُمۡ
+    arabic: وَمِنۡهُم
     translation: And of them
     transliteration: wamin'hum
   2:
-    arabic: مَّنۡ
+    arabic: مَّن
     translation: (is one) who
     transliteration: man
   3:
-    arabic: يُّؤۡمِنُ
+    arabic: يُؤۡمِنُ
     translation: believes
     transliteration: yu'minu
   4:
-    arabic: بِهٖ
+    arabic: بِهِۦ
     translation: in it
     transliteration: bihi
   5:
-    arabic: وَمِنۡهُمۡ
+    arabic: وَمِنۡهُم
     translation: and of them
     transliteration: wamin'hum
   6:
-    arabic: مَّنۡ
+    arabic: مَّن
     translation: (is one) who
     transliteration: man
   7:
@@ -37,7 +37,7 @@ word_by_word:
     translation: believe
     transliteration: yu'minu
   9:
-    arabic: بِهٖ​ؕ
+    arabic: بِهِۦۚ
     translation: in it
     transliteration: bihi
   10:
@@ -45,11 +45,11 @@ word_by_word:
     translation: And your Lord
     transliteration: warabbuka
   11:
-    arabic: اَعۡلَمُ
+    arabic: أَعۡلَمُ
     translation: (is) All-Knower
     transliteration: aʿlamu
   12:
-    arabic: بِالۡمُفۡسِدِيۡنَ‏
+    arabic: بِٱلۡمُفۡسِدِينَ
     translation: of the corrupters
     transliteration: bil-muf'sidīna
 ---

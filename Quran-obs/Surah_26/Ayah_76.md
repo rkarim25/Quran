@@ -1,17 +1,17 @@
 ---
-arabic_ayat: اَنۡـتُمۡ وَاٰبَآؤُكُمُ الۡاَقۡدَمُوۡنَ ​ۖ ‏
+arabic_ayat: أَنتُمۡ وَءَابَآؤُكُمُ ٱلۡأَقۡدَمُونَ
 sentence_translation: you and your ancestors?
 word_by_word:
   1:
-    arabic: اَنۡـتُمۡ
+    arabic: أَنتُمۡ
     translation: You
     transliteration: antum
   2:
-    arabic: وَاٰبَآؤُكُمُ
+    arabic: وَءَابَآؤُكُمُ
     translation: and your forefathers
     transliteration: waābāukumu
   3:
-    arabic: الۡاَقۡدَمُوۡنَ ​ۖ ‏
+    arabic: ٱلۡأَقۡدَمُونَ
     translation: and your forefathers
     transliteration: l-aqdamūna
 ---

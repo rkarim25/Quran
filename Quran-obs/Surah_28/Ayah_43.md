@@ -1,29 +1,28 @@
 ---
-arabic_ayat: "وَلَقَدۡ اٰتَيۡنَا مُوۡسَى الۡكِتٰبَ مِنۡۢ بَعۡدِ مَاۤ اَهۡلَكۡنَا الۡقُرُوۡنَ\
-  \ الۡاُوۡلٰى بَصَآٮِٕرَ لِلنَّاسِ وَهُدًى وَّرَحۡمَةً لَّعَلَّهُمۡ يَتَذَكَّرُوۡنَ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: وَلَقَدۡ ءَاتَيۡنَا مُوسَى ٱلۡكِتَٰبَ مِنۢ بَعۡدِ مَآ أَهۡلَكۡنَا ٱلۡقُرُونَ
+  ٱلۡأُولَىٰ بَصَآئِرَ لِلنَّاسِ وَهُدٗى وَرَحۡمَةٗ لَّعَلَّهُمۡ يَتَذَكَّرُونَ
 sentence_translation: Indeed, We gave Moses the Scripture—after destroying earlier
   nations—as an insight for the people, a guide, and mercy so perhaps they would be
   mindful.
 word_by_word:
   1:
-    arabic: وَلَقَدۡ
+    arabic: وَلَقَدۡ ءَ
     translation: And verily
     transliteration: walaqad
   2:
-    arabic: اٰتَيۡنَا
+    arabic: اتَيۡنَا
     translation: We gave
     transliteration: ātaynā
   3:
-    arabic: مُوۡسَى
+    arabic: مُوسَى
     translation: Musa
     transliteration: mūsā
   4:
-    arabic: الۡكِتٰبَ
+    arabic: ٱلۡكِتَٰبَ
     translation: the Scripture
     transliteration: l-kitāba
   5:
-    arabic: مِنۡۢ
+    arabic: مِنۢ
     translation: after [what]
     transliteration: min
   6:
@@ -31,23 +30,23 @@ word_by_word:
     translation: after [what]
     transliteration: baʿdi
   7:
-    arabic: مَاۤ
+    arabic: مَآ
     translation: after [what]
     transliteration: mā
   8:
-    arabic: اَهۡلَكۡنَا
+    arabic: أَهۡلَكۡنَا
     translation: We had destroyed
     transliteration: ahlaknā
   9:
-    arabic: الۡقُرُوۡنَ
+    arabic: ٱلۡقُرُونَ
     translation: the generations
     transliteration: l-qurūna
   10:
-    arabic: الۡاُوۡلٰى
+    arabic: ٱلۡأُولَىٰ
     translation: former
     transliteration: l-ūlā
   11:
-    arabic: بَصَآٮِٕرَ
+    arabic: بَصَآئِرَ
     translation: (as) an enlightenment
     transliteration: baṣāira
   12:
@@ -55,11 +54,11 @@ word_by_word:
     translation: for the mankind
     transliteration: lilnnāsi
   13:
-    arabic: وَهُدًى
+    arabic: وَهُدٗى
     translation: and a guidance
     transliteration: wahudan
   14:
-    arabic: وَّرَحۡمَةً
+    arabic: وَرَحۡمَةٗ
     translation: and mercy
     transliteration: waraḥmatan
   15:
@@ -67,7 +66,7 @@ word_by_word:
     translation: that they may
     transliteration: laʿallahum
   16:
-    arabic: "يَتَذَكَّرُوۡنَ‏ \uFEFF\uFEFF"
+    arabic: يَتَذَكَّرُونَ
     translation: remember
     transliteration: yatadhakkarūna
 ---

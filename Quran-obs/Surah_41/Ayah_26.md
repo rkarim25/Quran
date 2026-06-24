@@ -1,6 +1,6 @@
 ---
-arabic_ayat: وَقَالَ الَّذِيۡنَ كَفَرُوۡا لَا تَسۡمَعُوۡا لِهٰذَا الۡقُرۡاٰنِ وَالۡغَوۡا
-  فِيۡهِ لَعَلَّكُمۡ تَغۡلِبُوۡنَ‏
+arabic_ayat: وَقَالَ ٱلَّذِينَ كَفَرُواْ لَا تَسۡمَعُواْ لِهَٰذَا ٱلۡقُرۡءَانِ وَٱلۡغَوۡاْ
+  فِيهِ لَعَلَّكُمۡ تَغۡلِبُونَ
 sentence_translation: The disbelievers advised ˹one another˺, “Do not listen to this
   Quran but drown it out so that you may prevail.”
 word_by_word:
@@ -9,11 +9,11 @@ word_by_word:
     translation: And said
     transliteration: waqāla
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   3:
-    arabic: كَفَرُوۡا
+    arabic: كَفَرُواْ
     translation: disbelieve
     transliteration: kafarū
   4:
@@ -21,23 +21,23 @@ word_by_word:
     translation: (Do) not
     transliteration: lā
   5:
-    arabic: تَسۡمَعُوۡا
+    arabic: تَسۡمَعُواْ
     translation: listen
     transliteration: tasmaʿū
   6:
-    arabic: لِهٰذَا
+    arabic: لِهَٰذَا
     translation: to this
     transliteration: lihādhā
   7:
-    arabic: الۡقُرۡاٰنِ
+    arabic: ٱلۡقُرۡءَانِ
     translation: Quran
     transliteration: l-qur'āni
   8:
-    arabic: وَالۡغَوۡا
+    arabic: وَٱلۡغَوۡاْ
     translation: and make noise
     transliteration: wal-ghaw
   9:
-    arabic: فِيۡهِ
+    arabic: فِيهِ
     translation: therein
     transliteration: fīhi
   10:
@@ -45,7 +45,7 @@ word_by_word:
     translation: so that you may
     transliteration: laʿallakum
   11:
-    arabic: تَغۡلِبُوۡنَ‏
+    arabic: تَغۡلِبُونَ
     translation: overcome
     transliteration: taghlibūna
 ---

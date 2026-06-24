@@ -1,6 +1,6 @@
 ---
-arabic_ayat: ثُمَّ صَدَقۡنٰهُمُ الۡوَعۡدَ فَاَنۡجَيۡنٰهُمۡ وَمَنۡ نَّشَآءُ وَاَهۡلَكۡنَا
-  الۡمُسۡرِفِيۡنَ‏
+arabic_ayat: ثُمَّ صَدَقۡنَٰهُمُ ٱلۡوَعۡدَ فَأَنجَيۡنَٰهُمۡ وَمَن نَّشَآءُ وَأَهۡلَكۡنَا
+  ٱلۡمُسۡرِفِينَ
 sentence_translation: Then We fulfilled Our promise to them, saving them along with
   whoever We willed and destroying the transgressors.
 word_by_word:
@@ -9,19 +9,19 @@ word_by_word:
     translation: Then
     transliteration: thumma
   2:
-    arabic: صَدَقۡنٰهُمُ
+    arabic: صَدَقۡنَٰهُمُ
     translation: We fulfilled (for) them
     transliteration: ṣadaqnāhumu
   3:
-    arabic: الۡوَعۡدَ
+    arabic: ٱلۡوَعۡدَ
     translation: the promise
     transliteration: l-waʿda
   4:
-    arabic: فَاَنۡجَيۡنٰهُمۡ
+    arabic: فَأَنجَيۡنَٰهُمۡ
     translation: and We saved them
     transliteration: fa-anjaynāhum
   5:
-    arabic: وَمَنۡ
+    arabic: وَمَن
     translation: and whom
     transliteration: waman
   6:
@@ -29,11 +29,11 @@ word_by_word:
     translation: We willed
     transliteration: nashāu
   7:
-    arabic: وَاَهۡلَكۡنَا
+    arabic: وَأَهۡلَكۡنَا
     translation: and We destroyed
     transliteration: wa-ahlaknā
   8:
-    arabic: الۡمُسۡرِفِيۡنَ‏
+    arabic: ٱلۡمُسۡرِفِينَ
     translation: the transgressors
     transliteration: l-mus'rifīna
 ---

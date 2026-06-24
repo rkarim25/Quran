@@ -1,27 +1,27 @@
 ---
-arabic_ayat: وَمَاۤ اَنۡـتُمۡ بِمُعۡجِزِيۡنَ فِى الۡاَرۡضِ وَلَا فِى السَّمَآءِ​
-  وَمَا لَـكُمۡ مِّنۡ دُوۡنِ اللّٰهِ مِنۡ وَّلِىٍّ وَّلَا نَصِيۡرٍ‏
+arabic_ayat: وَمَآ أَنتُم بِمُعۡجِزِينَ فِي ٱلۡأَرۡضِ وَلَا فِي ٱلسَّمَآءِۖ وَمَا
+  لَكُم مِّن دُونِ ٱللَّهِ مِن وَلِيّٖ وَلَا نَصِيرٖ
 sentence_translation: And you cannot escape Him on earth or in heaven. Nor have you
   any protector or helper besides Allah.”
 word_by_word:
   1:
-    arabic: وَمَاۤ
+    arabic: وَمَآ
     translation: And not
     transliteration: wamā
   2:
-    arabic: اَنۡـتُمۡ
+    arabic: أَنتُم
     translation: you
     transliteration: antum
   3:
-    arabic: بِمُعۡجِزِيۡنَ
+    arabic: بِمُعۡجِزِينَ
     translation: can escape
     transliteration: bimuʿ'jizīna
   4:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   5:
-    arabic: الۡاَرۡضِ
+    arabic: ٱلۡأَرۡضِ
     translation: the earth
     transliteration: l-arḍi
   6:
@@ -29,11 +29,11 @@ word_by_word:
     translation: and not
     transliteration: walā
   7:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   8:
-    arabic: السَّمَآءِ​
+    arabic: ٱلسَّمَآءِۖ
     translation: the heaven
     transliteration: l-samāi
   9:
@@ -41,35 +41,35 @@ word_by_word:
     translation: And not
     transliteration: wamā
   10:
-    arabic: لَـكُمۡ
+    arabic: لَكُم
     translation: for you
     transliteration: lakum
   11:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: besides
     transliteration: min
   12:
-    arabic: دُوۡنِ
+    arabic: دُونِ
     translation: besides
     transliteration: dūni
   13:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   14:
-    arabic: مِنۡ
+    arabic: مِن
     translation: any
     transliteration: min
   15:
-    arabic: وَّلِىٍّ
+    arabic: وَلِيّٖ
     translation: protector
     transliteration: waliyyin
   16:
-    arabic: وَّلَا
+    arabic: وَلَا
     translation: and not
     transliteration: walā
   17:
-    arabic: نَصِيۡرٍ‏
+    arabic: نَصِيرٖ
     translation: a helper
     transliteration: naṣīrin
 ---

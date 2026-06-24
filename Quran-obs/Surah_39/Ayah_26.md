@@ -1,31 +1,31 @@
 ---
-arabic_ayat: فَاَذَاقَهُمُ اللّٰهُ الۡخِزۡىَ فِى الۡحَيٰوةِ الدُّنۡيَا​ ۚ وَلَعَذَابُ
-  الۡاٰخِرَةِ اَكۡبَرُ​ ۘ لَوۡ كَانُوۡا يَعۡلَمُوۡنَ‏
+arabic_ayat: فَأَذَاقَهُمُ ٱللَّهُ ٱلۡخِزۡيَ فِي ٱلۡحَيَوٰةِ ٱلدُّنۡيَاۖ وَلَعَذَابُ
+  ٱلۡأٓخِرَةِ أَكۡبَرُۚ لَوۡ كَانُواْ يَعۡلَمُونَ
 sentence_translation: So Allah made them taste humiliation in this worldly life, but
   far worse is the punishment of the Hereafter, if only they knew.
 word_by_word:
   1:
-    arabic: فَاَذَاقَهُمُ
+    arabic: فَأَذَاقَهُمُ
     translation: So Allah made them
     transliteration: fa-adhāqahumu
   2:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: So Allah made them
     transliteration: l-lahu
   3:
-    arabic: الۡخِزۡىَ
+    arabic: ٱلۡخِزۡيَ
     translation: the disgrace
     transliteration: l-khiz'ya
   4:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   5:
-    arabic: الۡحَيٰوةِ
+    arabic: ٱلۡحَيَوٰةِ
     translation: the life
     transliteration: l-ḥayati
   6:
-    arabic: الدُّنۡيَا​ ۚ
+    arabic: ٱلدُّنۡيَاۖ
     translation: (of) the world
     transliteration: l-dun'yā
   7:
@@ -33,11 +33,11 @@ word_by_word:
     translation: and certainly (the) punishment
     transliteration: walaʿadhābu
   8:
-    arabic: الۡاٰخِرَةِ
+    arabic: ٱلۡأٓخِرَةِ
     translation: (of) the Hereafter
     transliteration: l-ākhirati
   9:
-    arabic: اَكۡبَرُ​ ۘ
+    arabic: أَكۡبَرُۚ
     translation: (is) greater
     transliteration: akbaru
   10:
@@ -45,11 +45,11 @@ word_by_word:
     translation: if
     transliteration: law
   11:
-    arabic: كَانُوۡا
+    arabic: كَانُواْ
     translation: they
     transliteration: kānū
   12:
-    arabic: يَعۡلَمُوۡنَ‏
+    arabic: يَعۡلَمُونَ
     translation: knew
     transliteration: yaʿlamūna
 ---

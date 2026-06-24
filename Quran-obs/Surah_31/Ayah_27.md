@@ -1,7 +1,7 @@
 ---
-arabic_ayat: وَلَوۡ اَنَّ مَا فِى الۡاَرۡضِ مِنۡ شَجَرَةٍ اَقۡلَامٌ وَّالۡبَحۡرُ يَمُدُّهٗ
-  مِنۡۢ بَعۡدِهٖ سَبۡعَةُ اَبۡحُرٍ مَّا نَفِدَتۡ كَلِمٰتُ اللّٰهِ​ؕ اِنَّ اللّٰهَ
-  عَزِيۡزٌ حَكِيۡمٌ‏
+arabic_ayat: وَلَوۡ أَنَّمَا فِي ٱلۡأَرۡضِ مِن شَجَرَةٍ أَقۡلَٰمٞ وَٱلۡبَحۡرُ يَمُدُّهُۥ
+  مِنۢ بَعۡدِهِۦ سَبۡعَةُ أَبۡحُرٖ مَّا نَفِدَتۡ كَلِمَٰتُ ٱللَّهِۚ إِنَّ ٱللَّهَ
+  عَزِيزٌ حَكِيمٞ
 sentence_translation: If all the trees on earth were pens and the ocean ˹were ink˺,
   refilled by seven other oceans, the Words of Allah would not be exhausted. Surely
   Allah is Almighty, All-Wise.
@@ -11,19 +11,19 @@ word_by_word:
     translation: And if
     transliteration: walaw
   2:
-    arabic: اَنَّ مَا
+    arabic: أَنَّمَا
     translation: whatever
     transliteration: annamā
   3:
-    arabic: فِى
+    arabic: فِي
     translation: (is) in
     transliteration: fī
   4:
-    arabic: الۡاَرۡضِ
+    arabic: ٱلۡأَرۡضِ
     translation: the earth
     transliteration: l-arḍi
   5:
-    arabic: مِنۡ
+    arabic: مِن
     translation: of
     transliteration: min
   6:
@@ -31,23 +31,23 @@ word_by_word:
     translation: (the) trees
     transliteration: shajaratin
   7:
-    arabic: اَقۡلَامٌ
+    arabic: أَقۡلَٰمٞ
     translation: (were) pens
     transliteration: aqlāmun
   8:
-    arabic: وَّالۡبَحۡرُ
+    arabic: وَٱلۡبَحۡرُ
     translation: and the sea
     transliteration: wal-baḥru
   9:
-    arabic: يَمُدُّهٗ
+    arabic: يَمُدُّهُۥ
     translation: (to) add to it
     transliteration: yamudduhu
   10:
-    arabic: مِنۡۢ
+    arabic: مِنۢ
     translation: after it
     transliteration: min
   11:
-    arabic: بَعۡدِهٖ
+    arabic: بَعۡدِهِۦ
     translation: after it
     transliteration: baʿdihi
   12:
@@ -55,7 +55,7 @@ word_by_word:
     translation: seven
     transliteration: sabʿatu
   13:
-    arabic: اَبۡحُرٍ
+    arabic: أَبۡحُرٖ
     translation: seas
     transliteration: abḥurin
   14:
@@ -67,27 +67,27 @@ word_by_word:
     translation: would be exhausted
     transliteration: nafidat
   16:
-    arabic: كَلِمٰتُ
+    arabic: كَلِمَٰتُ
     translation: (the) Words
     transliteration: kalimātu
   17:
-    arabic: اللّٰهِ​ؕ
+    arabic: ٱللَّهِۚ
     translation: (of) Allah
     transliteration: l-lahi
   18:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   19:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   20:
-    arabic: عَزِيۡزٌ
+    arabic: عَزِيزٌ
     translation: (is) All-Mighty
     transliteration: ʿazīzun
   21:
-    arabic: حَكِيۡمٌ‏
+    arabic: حَكِيمٞ
     translation: All-Wise
     transliteration: ḥakīmun
 ---

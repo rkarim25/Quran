@@ -1,17 +1,17 @@
 ---
-arabic_ayat: وَ اُلۡقِىَ السَّحَرَةُ سٰجِدِيۡنَ ۙ‏
+arabic_ayat: وَأُلۡقِيَ ٱلسَّحَرَةُ سَٰجِدِينَ
 sentence_translation: And the magicians fell down, prostrating.
 word_by_word:
   1:
-    arabic: وَ اُلۡقِىَ
+    arabic: وَأُلۡقِيَ
     translation: And fell down
     transliteration: wa-ul'qiya
   2:
-    arabic: السَّحَرَةُ
+    arabic: ٱلسَّحَرَةُ
     translation: the magicians
     transliteration: l-saḥaratu
   3:
-    arabic: سٰجِدِيۡنَ ۙ‏
+    arabic: سَٰجِدِينَ
     translation: prostrate
     transliteration: sājidīna
 ---

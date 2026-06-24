@@ -1,15 +1,15 @@
 ---
-arabic_ayat: لَهُمۡ مِّنۡ فَوۡقِهِمۡ ظُلَلٌ مِّنَ النَّارِ وَمِنۡ تَحۡتِهِمۡ ظُلَلٌ
-  ​ؕ ذٰ لِكَ يُخَوِّفُ اللّٰهُ بِهٖ عِبَادَهٗ​ ؕ يٰعِبَادِ فَاتَّقُوۡنِ‏
+arabic_ayat: لَهُم مِّن فَوۡقِهِمۡ ظُلَلٞ مِّنَ ٱلنَّارِ وَمِن تَحۡتِهِمۡ ظُلَلٞۚ
+  ذَٰلِكَ يُخَوِّفُ ٱللَّهُ بِهِۦ عِبَادَهُۥۚ يَٰعِبَادِ فَٱتَّقُونِ
 sentence_translation: They will have layers of fire above and below them. That is
   what Allah warns His servants with. So fear Me, O  My servants!
 word_by_word:
   1:
-    arabic: لَهُمۡ
+    arabic: لَهُم
     translation: For them
     transliteration: lahum
   2:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: from
     transliteration: min
   3:
@@ -17,7 +17,7 @@ word_by_word:
     translation: above them
     transliteration: fawqihim
   4:
-    arabic: ظُلَلٌ
+    arabic: ظُلَلٞ
     translation: coverings
     transliteration: ẓulalun
   5:
@@ -25,11 +25,11 @@ word_by_word:
     translation: of
     transliteration: mina
   6:
-    arabic: النَّارِ
+    arabic: ٱلنَّارِ
     translation: the Fire
     transliteration: l-nāri
   7:
-    arabic: وَمِنۡ
+    arabic: وَمِن
     translation: and from
     transliteration: wamin
   8:
@@ -37,11 +37,11 @@ word_by_word:
     translation: below them
     transliteration: taḥtihim
   9:
-    arabic: ظُلَلٌ ​ؕ
+    arabic: ظُلَلٞۚ
     translation: coverings
     transliteration: ẓulalun
   10:
-    arabic: ذٰ لِكَ
+    arabic: ذَٰلِكَ
     translation: (With) that
     transliteration: dhālika
   11:
@@ -49,23 +49,23 @@ word_by_word:
     translation: threatens
     transliteration: yukhawwifu
   12:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   13:
-    arabic: بِهٖ
+    arabic: بِهِۦ
     translation: '[with it]'
     transliteration: bihi
   14:
-    arabic: عِبَادَهٗ​ ؕ
+    arabic: عِبَادَهُۥۚ
     translation: His slaves
     transliteration: ʿibādahu
   15:
-    arabic: يٰعِبَادِ
+    arabic: يَٰعِبَادِ
     translation: O My slaves
     transliteration: yāʿibādi
   16:
-    arabic: فَاتَّقُوۡنِ‏
+    arabic: فَٱتَّقُونِ
     translation: So fear Me
     transliteration: fa-ittaqūni
 ---

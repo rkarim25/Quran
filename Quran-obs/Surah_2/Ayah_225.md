@@ -1,11 +1,11 @@
 ---
-arabic_ayat: لَا يُؤَاخِذُكُمُ اللّٰهُ بِاللَّغۡوِ فِىۡٓ اَيۡمَانِكُمۡ وَلٰـكِنۡ يُّؤَاخِذُكُمۡ
-  بِمَا كَسَبَتۡ قُلُوۡبُكُمۡ​ؕ وَاللّٰهُ غَفُوۡرٌ حَلِيۡمٌ‏
+arabic_ayat: لَّا يُؤَاخِذُكُمُ ٱللَّهُ بِٱللَّغۡوِ فِيٓ أَيۡمَٰنِكُمۡ وَلَٰكِن يُؤَاخِذُكُم
+  بِمَا كَسَبَتۡ قُلُوبُكُمۡۗ وَٱللَّهُ غَفُورٌ حَلِيمٞ
 sentence_translation: Allah will not hold you accountable for unintentional oaths,
   but for what you intended in your hearts. And Allah is All-Forgiving, Most Forbearing.
 word_by_word:
   1:
-    arabic: لَا
+    arabic: لَّا
     translation: Not
     transliteration: lā
   2:
@@ -13,27 +13,27 @@ word_by_word:
     translation: will take you to task
     transliteration: yuākhidhukumu
   3:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   4:
-    arabic: بِاللَّغۡوِ
+    arabic: بِٱللَّغۡوِ
     translation: for (what is) unintentional
     transliteration: bil-laghwi
   5:
-    arabic: فِىۡٓ
+    arabic: فِيٓ
     translation: in
     transliteration: fī
   6:
-    arabic: اَيۡمَانِكُمۡ
+    arabic: أَيۡمَٰنِكُمۡ
     translation: your oaths
     transliteration: aymānikum
   7:
-    arabic: وَلٰـكِنۡ
+    arabic: وَلَٰكِن
     translation: '[and] but'
     transliteration: walākin
   8:
-    arabic: يُّؤَاخِذُكُمۡ
+    arabic: يُؤَاخِذُكُم
     translation: He takes you to task
     transliteration: yuākhidhukum
   9:
@@ -45,19 +45,19 @@ word_by_word:
     translation: (have) earned
     transliteration: kasabat
   11:
-    arabic: قُلُوۡبُكُمۡ​ؕ
+    arabic: قُلُوبُكُمۡۗ
     translation: your hearts
     transliteration: qulūbukum
   12:
-    arabic: وَاللّٰهُ
+    arabic: وَٱللَّهُ
     translation: And Allah
     transliteration: wal-lahu
   13:
-    arabic: غَفُوۡرٌ
+    arabic: غَفُورٌ
     translation: (is) Oft-Forgiving
     transliteration: ghafūrun
   14:
-    arabic: حَلِيۡمٌ‏
+    arabic: حَلِيمٞ
     translation: Most Forbearing
     transliteration: ḥalīmun
 ---

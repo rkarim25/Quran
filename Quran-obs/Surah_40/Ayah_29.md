@@ -1,66 +1,66 @@
 ---
-arabic_ayat: يٰقَوۡمِ لَـكُمُ الۡمُلۡكُ الۡيَوۡمَ ظٰهِرِيۡنَ فِى الۡاَرۡضِ فَمَنۡ
-  يَّنۡصُرُنَا مِنۡۢ بَاۡسِ اللّٰهِ اِنۡ جَآءَنَا ؕ قَالَ فِرۡعَوۡنُ مَاۤ اُرِيۡكُمۡ
-  اِلَّا مَاۤ اَرٰى وَمَاۤ اَهۡدِيۡكُمۡ اِلَّا سَبِيۡلَ الرَّشَادِ‏
+arabic_ayat: يَٰقَوۡمِ لَكُمُ ٱلۡمُلۡكُ ٱلۡيَوۡمَ ظَٰهِرِينَ فِي ٱلۡأَرۡضِ فَمَن يَنصُرُنَا
+  مِنۢ بَأۡسِ ٱللَّهِ إِن جَآءَنَاۚ قَالَ فِرۡعَوۡنُ مَآ أُرِيكُمۡ إِلَّا مَآ أَرَىٰ
+  وَمَآ أَهۡدِيكُمۡ إِلَّا سَبِيلَ ٱلرَّشَادِ
 sentence_translation: O  my people! Authority belongs to you today, reigning supreme
   in the land. But who would help us against the torment of Allah, if it were to befall
   us?” Pharaoh assured ˹his people˺, “I am telling you only what I believe, and I
   am leading you only to the way of guidance.”
 word_by_word:
   1:
-    arabic: يٰقَوۡمِ
+    arabic: يَٰقَوۡمِ
     translation: O my people
     transliteration: yāqawmi
   2:
-    arabic: لَـكُمُ
+    arabic: لَكُمُ
     translation: For you
     transliteration: lakumu
   3:
-    arabic: الۡمُلۡكُ
+    arabic: ٱلۡمُلۡكُ
     translation: (is) the kingdom
     transliteration: l-mul'ku
   4:
-    arabic: الۡيَوۡمَ
+    arabic: ٱلۡيَوۡمَ
     translation: today
     transliteration: l-yawma
   5:
-    arabic: ظٰهِرِيۡنَ
+    arabic: ظَٰهِرِينَ
     translation: dominant
     transliteration: ẓāhirīna
   6:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   7:
-    arabic: الۡاَرۡضِ
+    arabic: ٱلۡأَرۡضِ
     translation: the land
     transliteration: l-arḍi
   8:
-    arabic: فَمَنۡ
+    arabic: فَمَن
     translation: but who
     transliteration: faman
   9:
-    arabic: يَّنۡصُرُنَا
+    arabic: يَنصُرُنَا
     translation: will help us
     transliteration: yanṣurunā
   10:
-    arabic: مِنۡۢ
+    arabic: مِنۢ
     translation: from
     transliteration: min
   11:
-    arabic: بَاۡسِ
+    arabic: بَأۡسِ
     translation: (the) punishment
     transliteration: basi
   12:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (of) Allah
     transliteration: l-lahi
   13:
-    arabic: اِنۡ
+    arabic: إِن
     translation: if
     transliteration: in
   14:
-    arabic: جَآءَنَا ؕ
+    arabic: جَآءَنَاۚ
     translation: it came to us
     transliteration: jāanā
   15:
@@ -72,43 +72,43 @@ word_by_word:
     translation: Firaun
     transliteration: fir'ʿawnu
   17:
-    arabic: مَاۤ
+    arabic: مَآ
     translation: Not
     transliteration: mā
   18:
-    arabic: اُرِيۡكُمۡ
+    arabic: أُرِيكُمۡ
     translation: I show you
     transliteration: urīkum
   19:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   20:
-    arabic: مَاۤ
+    arabic: مَآ
     translation: what
     transliteration: mā
   21:
-    arabic: اَرٰى
+    arabic: أَرَىٰ
     translation: I see
     transliteration: arā
   22:
-    arabic: وَمَاۤ
+    arabic: وَمَآ
     translation: and not
     transliteration: wamā
   23:
-    arabic: اَهۡدِيۡكُمۡ
+    arabic: أَهۡدِيكُمۡ
     translation: I guide you
     transliteration: ahdīkum
   24:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   25:
-    arabic: سَبِيۡلَ
+    arabic: سَبِيلَ
     translation: (to the) path
     transliteration: sabīla
   26:
-    arabic: الرَّشَادِ‏
+    arabic: ٱلرَّشَادِ
     translation: the right
     transliteration: l-rashādi
 ---

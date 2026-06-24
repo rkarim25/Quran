@@ -1,6 +1,6 @@
 ---
-arabic_ayat: "فَكَيۡفَ اِذَا تَوَفَّتۡهُمُ الۡمَلٰٓٮِٕكَةُ يَضۡرِبُوۡنَ وُجُوۡهَهُمۡ\
-  \ وَاَدۡبَارَهُمۡ‏ \uFEFF\uFEFF"
+arabic_ayat: فَكَيۡفَ إِذَا تَوَفَّتۡهُمُ ٱلۡمَلَٰٓئِكَةُ يَضۡرِبُونَ وُجُوهَهُمۡ
+  وَأَدۡبَٰرَهُمۡ
 sentence_translation: Then how ˹horrible˺ will it be when the angels take their souls,
   beating their faces and backs!
 word_by_word:
@@ -9,7 +9,7 @@ word_by_word:
     translation: Then how
     transliteration: fakayfa
   2:
-    arabic: اِذَا
+    arabic: إِذَا
     translation: when
     transliteration: idhā
   3:
@@ -17,19 +17,19 @@ word_by_word:
     translation: take them in death
     transliteration: tawaffathumu
   4:
-    arabic: الۡمَلٰٓٮِٕكَةُ
+    arabic: ٱلۡمَلَٰٓئِكَةُ
     translation: the Angels
     transliteration: l-malāikatu
   5:
-    arabic: يَضۡرِبُوۡنَ
+    arabic: يَضۡرِبُونَ
     translation: striking
     transliteration: yaḍribūna
   6:
-    arabic: وُجُوۡهَهُمۡ
+    arabic: وُجُوهَهُمۡ
     translation: their faces
     transliteration: wujūhahum
   7:
-    arabic: "وَاَدۡبَارَهُمۡ‏ \uFEFF\uFEFF"
+    arabic: وَأَدۡبَٰرَهُمۡ
     translation: and their backs
     transliteration: wa-adbārahum
 ---

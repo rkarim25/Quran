@@ -1,23 +1,23 @@
 ---
-arabic_ayat: الَّذِيۡنَ يَظُنُّوۡنَ اَنَّهُمۡ مُّلٰقُوۡا رَبِّهِمۡ وَاَنَّهُمۡ اِلَيۡهِ
-  رٰجِعُوۡنَ‏
+arabic_ayat: ٱلَّذِينَ يَظُنُّونَ أَنَّهُم مُّلَٰقُواْ رَبِّهِمۡ وَأَنَّهُمۡ إِلَيۡهِ
+  رَٰجِعُونَ
 sentence_translation: those who are certain that they will meet their Lord and to
   Him they will return.
 word_by_word:
   1:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: Those who
     transliteration: alladhīna
   2:
-    arabic: يَظُنُّوۡنَ
+    arabic: يَظُنُّونَ
     translation: believe
     transliteration: yaẓunnūna
   3:
-    arabic: اَنَّهُمۡ
+    arabic: أَنَّهُم
     translation: that they
     transliteration: annahum
   4:
-    arabic: مُّلٰقُوۡا
+    arabic: مُّلَٰقُواْ
     translation: will meet
     transliteration: mulāqū
   5:
@@ -25,15 +25,15 @@ word_by_word:
     translation: their Lord
     transliteration: rabbihim
   6:
-    arabic: وَاَنَّهُمۡ
+    arabic: وَأَنَّهُمۡ
     translation: and that they
     transliteration: wa-annahum
   7:
-    arabic: اِلَيۡهِ
+    arabic: إِلَيۡهِ
     translation: to Him
     transliteration: ilayhi
   8:
-    arabic: رٰجِعُوۡنَ‏
+    arabic: رَٰجِعُونَ
     translation: will return
     transliteration: rājiʿūna
 ---

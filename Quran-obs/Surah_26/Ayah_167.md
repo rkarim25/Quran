@@ -1,15 +1,14 @@
 ---
-arabic_ayat: "قَالُوۡا لَٮِٕنۡ لَّمۡ تَنۡتَهِ يٰلُوۡطُ لَـتَكُوۡنَنَّ مِنَ الۡمُخۡرَجِيۡنَ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: قَالُواْ لَئِن لَّمۡ تَنتَهِ يَٰلُوطُ لَتَكُونَنَّ مِنَ ٱلۡمُخۡرَجِينَ
 sentence_translation: They threatened, “If you do not desist, O  Lot, you will surely
   be expelled.”
 word_by_word:
   1:
-    arabic: قَالُوۡا
+    arabic: قَالُواْ
     translation: They said
     transliteration: qālū
   2:
-    arabic: لَٮِٕنۡ
+    arabic: لَئِن
     translation: If
     transliteration: la-in
   3:
@@ -17,15 +16,15 @@ word_by_word:
     translation: not
     transliteration: lam
   4:
-    arabic: تَنۡتَهِ
+    arabic: تَنتَهِ
     translation: you desist
     transliteration: tantahi
   5:
-    arabic: يٰلُوۡطُ
+    arabic: يَٰلُوطُ
     translation: O Lut
     transliteration: yālūṭu
   6:
-    arabic: لَـتَكُوۡنَنَّ
+    arabic: لَتَكُونَنَّ
     translation: Surely, you will be
     transliteration: latakūnanna
   7:
@@ -33,7 +32,7 @@ word_by_word:
     translation: of
     transliteration: mina
   8:
-    arabic: "الۡمُخۡرَجِيۡنَ‏ \uFEFF\uFEFF"
+    arabic: ٱلۡمُخۡرَجِينَ
     translation: the ones driven out
     transliteration: l-mukh'rajīna
 ---

@@ -1,9 +1,9 @@
 ---
-arabic_ayat: اَلَمۡ تَرَ كَيۡفَ فَعَلَ رَبُّكَ بِعَادٍۙ‏
+arabic_ayat: أَلَمۡ تَرَ كَيۡفَ فَعَلَ رَبُّكَ بِعَادٍ
 sentence_translation: Did you not see how your Lord dealt with ’Ȃd—
 word_by_word:
   1:
-    arabic: اَلَمۡ
+    arabic: أَلَمۡ
     translation: Did not
     transliteration: alam
   2:
@@ -23,7 +23,7 @@ word_by_word:
     translation: your Lord
     transliteration: rabbuka
   6:
-    arabic: بِعَادٍۙ‏
+    arabic: بِعَادٍ
     translation: with Aad
     transliteration: biʿādin
 ---

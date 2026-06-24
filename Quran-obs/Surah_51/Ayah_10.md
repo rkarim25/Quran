@@ -1,5 +1,5 @@
 ---
-arabic_ayat: قُتِلَ الۡخَـرّٰصُوۡنَۙ‏
+arabic_ayat: قُتِلَ ٱلۡخَرَّٰصُونَ
 sentence_translation: Condemned are the liars—
 word_by_word:
   1:
@@ -7,7 +7,7 @@ word_by_word:
     translation: Cursed be
     transliteration: qutila
   2:
-    arabic: الۡخَـرّٰصُوۡنَۙ‏
+    arabic: ٱلۡخَرَّٰصُونَ
     translation: the liars
     transliteration: l-kharāṣūna
 ---

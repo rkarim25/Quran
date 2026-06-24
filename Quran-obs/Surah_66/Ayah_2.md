@@ -1,6 +1,6 @@
 ---
-arabic_ayat: قَدۡ فَرَضَ اللّٰهُ لَـكُمۡ تَحِلَّةَ اَيۡمَانِكُمۡ​ؕ وَاللّٰهُ مَوۡلٰٮكُمۡ​ۚ
-  وَهُوَ الۡعَلِيۡمُ الۡحَكِيۡمُ‏
+arabic_ayat: قَدۡ فَرَضَ ٱللَّهُ لَكُمۡ تَحِلَّةَ أَيۡمَٰنِكُمۡۚ وَٱللَّهُ مَوۡلَىٰكُمۡۖ
+  وَهُوَ ٱلۡعَلِيمُ ٱلۡحَكِيمُ
 sentence_translation: Allah has already ordained for you ˹believers˺ the way to absolve
   yourselves from your oaths. For Allah is your Guardian. And He is the All-Knowing,
   All-Wise.
@@ -14,11 +14,11 @@ word_by_word:
     translation: has ordained
     transliteration: faraḍa
   3:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   4:
-    arabic: لَـكُمۡ
+    arabic: لَكُمۡ
     translation: for you
     transliteration: lakum
   5:
@@ -26,15 +26,15 @@ word_by_word:
     translation: (the) dissolution
     transliteration: taḥillata
   6:
-    arabic: اَيۡمَانِكُمۡ​ؕ
+    arabic: أَيۡمَٰنِكُمۡۚ
     translation: (of) your oaths
     transliteration: aymānikum
   7:
-    arabic: وَاللّٰهُ
+    arabic: وَٱللَّهُ
     translation: And Allah
     transliteration: wal-lahu
   8:
-    arabic: مَوۡلٰٮكُمۡ​ۚ
+    arabic: مَوۡلَىٰكُمۡۖ
     translation: (is) your Protector
     transliteration: mawlākum
   9:
@@ -42,11 +42,11 @@ word_by_word:
     translation: and He
     transliteration: wahuwa
   10:
-    arabic: الۡعَلِيۡمُ
+    arabic: ٱلۡعَلِيمُ
     translation: (is) the All-Knower
     transliteration: l-ʿalīmu
   11:
-    arabic: الۡحَكِيۡمُ‏
+    arabic: ٱلۡحَكِيمُ
     translation: the All-Wise
     transliteration: l-ḥakīmu
 ---

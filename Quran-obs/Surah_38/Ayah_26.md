@@ -1,39 +1,39 @@
 ---
-arabic_ayat: يٰدَاوٗدُ اِنَّا جَعَلۡنٰكَ خَلِيۡفَةً فِى الۡاَرۡضِ فَاحۡكُمۡ بَيۡنَ
-  النَّاسِ بِالۡحَقِّ وَلَا تَتَّبِعِ الۡهَوٰى فَيُضِلَّكَ عَنۡ سَبِيۡلِ اللّٰهِ​
-  ؕ اِنَّ الَّذِيۡنَ يَضِلُّوۡنَ عَنۡ سَبِيۡلِ اللّٰهِ لَهُمۡ عَذَابٌ شَدِيۡدٌۢ بِمَا
-  نَسُوۡا يَوۡمَ الۡحِسَابِ‏
+arabic_ayat: يَٰدَاوُۥدُ إِنَّا جَعَلۡنَٰكَ خَلِيفَةٗ فِي ٱلۡأَرۡضِ فَٱحۡكُم بَيۡنَ
+  ٱلنَّاسِ بِٱلۡحَقِّ وَلَا تَتَّبِعِ ٱلۡهَوَىٰ فَيُضِلَّكَ عَن سَبِيلِ ٱللَّهِۚ إِنَّ
+  ٱلَّذِينَ يَضِلُّونَ عَن سَبِيلِ ٱللَّهِ لَهُمۡ عَذَابٞ شَدِيدُۢ بِمَا نَسُواْ يَوۡمَ
+  ٱلۡحِسَابِ
 sentence_translation: ˹We instructed him:˺ “O David! We have surely made you an authority
   in the land, so judge between people with truth. And do not follow ˹your˺ desires
   or they will lead you astray from Allah’s Way. Surely those who go astray from Allah’s
   Way will suffer a severe punishment for neglecting the Day of Reckoning.”
 word_by_word:
   1:
-    arabic: يٰدَاوٗدُ
+    arabic: يَٰدَاوُۥدُ
     translation: O Dawood
     transliteration: yādāwūdu
   2:
-    arabic: اِنَّا
+    arabic: إِنَّا
     translation: Indeed, We
     transliteration: innā
   3:
-    arabic: جَعَلۡنٰكَ
+    arabic: جَعَلۡنَٰكَ
     translation: '[We] have made you'
     transliteration: jaʿalnāka
   4:
-    arabic: خَلِيۡفَةً
+    arabic: خَلِيفَةٗ
     translation: a vicegerent
     transliteration: khalīfatan
   5:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   6:
-    arabic: الۡاَرۡضِ
+    arabic: ٱلۡأَرۡضِ
     translation: the earth
     transliteration: l-arḍi
   7:
-    arabic: فَاحۡكُمۡ
+    arabic: فَٱحۡكُم
     translation: so judge
     transliteration: fa-uḥ'kum
   8:
@@ -41,11 +41,11 @@ word_by_word:
     translation: between
     transliteration: bayna
   9:
-    arabic: النَّاسِ
+    arabic: ٱلنَّاسِ
     translation: '[the] men'
     transliteration: l-nāsi
   10:
-    arabic: بِالۡحَقِّ
+    arabic: بِٱلۡحَقِّ
     translation: in truth
     transliteration: bil-ḥaqi
   11:
@@ -57,7 +57,7 @@ word_by_word:
     translation: follow
     transliteration: tattabiʿi
   13:
-    arabic: الۡهَوٰى
+    arabic: ٱلۡهَوَىٰ
     translation: the desire
     transliteration: l-hawā
   14:
@@ -65,39 +65,39 @@ word_by_word:
     translation: for it will lead you astray
     transliteration: fayuḍillaka
   15:
-    arabic: عَنۡ
+    arabic: عَن
     translation: from
     transliteration: ʿan
   16:
-    arabic: سَبِيۡلِ
+    arabic: سَبِيلِ
     translation: (the) way
     transliteration: sabīli
   17:
-    arabic: اللّٰهِ​ ؕ
+    arabic: ٱللَّهِۚ
     translation: (of) Allah
     transliteration: l-lahi
   18:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   19:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   20:
-    arabic: يَضِلُّوۡنَ
+    arabic: يَضِلُّونَ
     translation: go astray
     transliteration: yaḍillūna
   21:
-    arabic: عَنۡ
+    arabic: عَن
     translation: from
     transliteration: ʿan
   22:
-    arabic: سَبِيۡلِ
+    arabic: سَبِيلِ
     translation: (the) way
     transliteration: sabīli
   23:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (of) Allah
     transliteration: l-lahi
   24:
@@ -105,11 +105,11 @@ word_by_word:
     translation: for them
     transliteration: lahum
   25:
-    arabic: عَذَابٌ
+    arabic: عَذَابٞ
     translation: (is) a punishment
     transliteration: ʿadhābun
   26:
-    arabic: شَدِيۡدٌۢ
+    arabic: شَدِيدُۢ
     translation: severe
     transliteration: shadīdun
   27:
@@ -117,7 +117,7 @@ word_by_word:
     translation: because
     transliteration: bimā
   28:
-    arabic: نَسُوۡا
+    arabic: نَسُواْ
     translation: they forgot
     transliteration: nasū
   29:
@@ -125,7 +125,7 @@ word_by_word:
     translation: (the) Day
     transliteration: yawma
   30:
-    arabic: الۡحِسَابِ‏
+    arabic: ٱلۡحِسَابِ
     translation: (of) Account
     transliteration: l-ḥisābi
 ---

@@ -1,5 +1,5 @@
 ---
-arabic_ayat: ثُمَّ قُتِلَ كَيۡفَ قَدَّرَۙ‏
+arabic_ayat: ثُمَّ قُتِلَ كَيۡفَ قَدَّرَ
 sentence_translation: May he be condemned even more! How evil was what he determined!
 word_by_word:
   1:
@@ -15,7 +15,7 @@ word_by_word:
     translation: how
     transliteration: kayfa
   4:
-    arabic: قَدَّرَۙ‏
+    arabic: قَدَّرَ
     translation: he plotted
     transliteration: qaddara
 ---

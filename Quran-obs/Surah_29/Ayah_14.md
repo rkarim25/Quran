@@ -1,6 +1,6 @@
 ---
-arabic_ayat: وَلَقَدۡ اَرۡسَلۡنَا نُوۡحًا اِلٰى قَوۡمِهٖ فَلَبِثَ فِيۡهِمۡ اَ لۡفَ
-  سَنَةٍ اِلَّا خَمۡسِيۡنَ عَامًا ؕ فَاَخَذَهُمُ الطُّوۡفَانُ وَهُمۡ ظٰلِمُوۡنَ‏
+arabic_ayat: وَلَقَدۡ أَرۡسَلۡنَا نُوحًا إِلَىٰ قَوۡمِهِۦ فَلَبِثَ فِيهِمۡ أَلۡفَ
+  سَنَةٍ إِلَّا خَمۡسِينَ عَامٗا فَأَخَذَهُمُ ٱلطُّوفَانُ وَهُمۡ ظَٰلِمُونَ
 sentence_translation: Indeed, We sent Noah to his people, and he remained among them
   for a thousand years, less fifty. Then the Flood overtook them, while they persisted
   in wrongdoing.
@@ -10,19 +10,19 @@ word_by_word:
     translation: And verily
     transliteration: walaqad
   2:
-    arabic: اَرۡسَلۡنَا
+    arabic: أَرۡسَلۡنَا
     translation: We sent
     transliteration: arsalnā
   3:
-    arabic: نُوۡحًا
+    arabic: نُوحًا
     translation: Nuh
     transliteration: nūḥan
   4:
-    arabic: اِلٰى
+    arabic: إِلَىٰ
     translation: to
     transliteration: ilā
   5:
-    arabic: قَوۡمِهٖ
+    arabic: قَوۡمِهِۦ
     translation: his people
     transliteration: qawmihi
   6:
@@ -30,11 +30,11 @@ word_by_word:
     translation: and he remained
     transliteration: falabitha
   7:
-    arabic: فِيۡهِمۡ
+    arabic: فِيهِمۡ
     translation: among them
     transliteration: fīhim
   8:
-    arabic: اَ لۡفَ
+    arabic: أَلۡفَ
     translation: a thousand
     transliteration: alfa
   9:
@@ -42,23 +42,23 @@ word_by_word:
     translation: year(s)
     transliteration: sanatin
   10:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: save
     transliteration: illā
   11:
-    arabic: خَمۡسِيۡنَ
+    arabic: خَمۡسِينَ
     translation: fifty
     transliteration: khamsīna
   12:
-    arabic: عَامًا ؕ
+    arabic: عَامٗا
     translation: year(s)
     transliteration: ʿāman
   13:
-    arabic: فَاَخَذَهُمُ
+    arabic: فَأَخَذَهُمُ
     translation: then seized them
     transliteration: fa-akhadhahumu
   14:
-    arabic: الطُّوۡفَانُ
+    arabic: ٱلطُّوفَانُ
     translation: the flood
     transliteration: l-ṭūfānu
   15:
@@ -66,7 +66,7 @@ word_by_word:
     translation: while they
     transliteration: wahum
   16:
-    arabic: ظٰلِمُوۡنَ‏
+    arabic: ظَٰلِمُونَ
     translation: (were) wrongdoers
     transliteration: ẓālimūna
 ---

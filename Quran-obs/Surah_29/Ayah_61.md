@@ -1,16 +1,16 @@
 ---
-arabic_ayat: وَلَٮِٕنۡ سَاَلۡتَهُمۡ مَّنۡ خَلَقَ السَّمٰوٰتِ وَالۡاَرۡضَ وَسَخَّرَ
-  الشَّمۡسَ وَالۡقَمَرَ لَيَقُوۡلُنَّ اللّٰهُ​ۚ فَاَنّٰى يُؤۡفَكُوۡنَ‏
+arabic_ayat: وَلَئِن سَأَلۡتَهُم مَّنۡ خَلَقَ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضَ وَسَخَّرَ
+  ٱلشَّمۡسَ وَٱلۡقَمَرَ لَيَقُولُنَّ ٱللَّهُۖ فَأَنَّىٰ يُؤۡفَكُونَ
 sentence_translation: If you ask them ˹O Prophet˺ who created the heavens and the
   earth and subjected the sun and the moon ˹for your benefit˺, they will certainly
   say, “Allah!” How can they then be deluded ˹from the truth˺?
 word_by_word:
   1:
-    arabic: وَلَٮِٕنۡ
+    arabic: وَلَئِن
     translation: And if
     transliteration: wala-in
   2:
-    arabic: سَاَلۡتَهُمۡ
+    arabic: سَأَلۡتَهُم
     translation: you ask them
     transliteration: sa-altahum
   3:
@@ -22,11 +22,11 @@ word_by_word:
     translation: created
     transliteration: khalaqa
   5:
-    arabic: السَّمٰوٰتِ
+    arabic: ٱلسَّمَٰوَٰتِ
     translation: the heavens
     transliteration: l-samāwāti
   6:
-    arabic: وَالۡاَرۡضَ
+    arabic: وَٱلۡأَرۡضَ
     translation: and the earth
     transliteration: wal-arḍa
   7:
@@ -34,27 +34,27 @@ word_by_word:
     translation: and subjected
     transliteration: wasakhara
   8:
-    arabic: الشَّمۡسَ
+    arabic: ٱلشَّمۡسَ
     translation: the sun
     transliteration: l-shamsa
   9:
-    arabic: وَالۡقَمَرَ
+    arabic: وَٱلۡقَمَرَ
     translation: and the moon
     transliteration: wal-qamara
   10:
-    arabic: لَيَقُوۡلُنَّ
+    arabic: لَيَقُولُنَّ
     translation: Surely they would say
     transliteration: layaqūlunna
   11:
-    arabic: اللّٰهُ​ۚ
+    arabic: ٱللَّهُۖ
     translation: Allah
     transliteration: l-lahu
   12:
-    arabic: فَاَنّٰى
+    arabic: فَأَنَّىٰ
     translation: Then how
     transliteration: fa-annā
   13:
-    arabic: يُؤۡفَكُوۡنَ‏
+    arabic: يُؤۡفَكُونَ
     translation: are they deluded
     transliteration: yu'fakūna
 ---

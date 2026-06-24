@@ -1,18 +1,18 @@
 ---
-arabic_ayat: وَيَقُوۡلُ الۡاِنۡسَانُ ءَاِذَا مَا مِتُّ لَسَوۡفَ اُخۡرَجُ حَيًّا‏
+arabic_ayat: وَيَقُولُ ٱلۡإِنسَٰنُ أَءِذَا مَا مِتُّ لَسَوۡفَ أُخۡرَجُ حَيًّا
 sentence_translation: Yet ˹some˺ people ask ˹mockingly˺, “After I die, will I really
   be raised to life again?”
 word_by_word:
   1:
-    arabic: وَيَقُوۡلُ
+    arabic: وَيَقُولُ
     translation: And says
     transliteration: wayaqūlu
   2:
-    arabic: الۡاِنۡسَانُ
+    arabic: ٱلۡإِنسَٰنُ أَ
     translation: '[the] man'
     transliteration: l-insānu
   3:
-    arabic: ءَاِذَا
+    arabic: ءِذَا
     translation: What! When
     transliteration: a-idhā
   4:
@@ -28,11 +28,11 @@ word_by_word:
     translation: surely will
     transliteration: lasawfa
   7:
-    arabic: اُخۡرَجُ
+    arabic: أُخۡرَجُ
     translation: I be brought forth
     transliteration: ukh'raju
   8:
-    arabic: حَيًّا‏
+    arabic: حَيًّا
     translation: alive
     transliteration: ḥayyan
 ---

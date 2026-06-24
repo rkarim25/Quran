@@ -1,13 +1,13 @@
 ---
-arabic_ayat: اَلَمۡ تَرَ اِلَى الَّذِيۡنَ اُوۡتُوۡا نَصِيۡبًا مِّنَ الۡكِتٰبِ يُدۡعَوۡنَ
-  اِلٰى كِتٰبِ اللّٰهِ لِيَحۡكُمَ بَيۡنَهُمۡ ثُمَّ يَتَوَلّٰى فَرِيۡقٌ مِّنۡهُمۡ وَهُمۡ
-  مُّعۡرِضُوۡنَ‏
+arabic_ayat: أَلَمۡ تَرَ إِلَى ٱلَّذِينَ أُوتُواْ نَصِيبٗا مِّنَ ٱلۡكِتَٰبِ يُدۡعَوۡنَ
+  إِلَىٰ كِتَٰبِ ٱللَّهِ لِيَحۡكُمَ بَيۡنَهُمۡ ثُمَّ يَتَوَلَّىٰ فَرِيقٞ مِّنۡهُمۡ
+  وَهُم مُّعۡرِضُونَ
 sentence_translation: Have you not seen those who were given a portion of the Scriptures? Yet
   when they are invited to the Book of Allah to settle their disputes, some of them
   turn away heedlessly.
 word_by_word:
   1:
-    arabic: اَلَمۡ
+    arabic: أَلَمۡ
     translation: Have not
     transliteration: alam
   2:
@@ -15,19 +15,19 @@ word_by_word:
     translation: you seen
     transliteration: tara
   3:
-    arabic: اِلَى
+    arabic: إِلَى
     translation: '[to]'
     transliteration: ilā
   4:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   5:
-    arabic: اُوۡتُوۡا
+    arabic: أُوتُواْ
     translation: were given
     transliteration: ūtū
   6:
-    arabic: نَصِيۡبًا
+    arabic: نَصِيبٗا
     translation: a portion
     transliteration: naṣīban
   7:
@@ -35,7 +35,7 @@ word_by_word:
     translation: of
     transliteration: mina
   8:
-    arabic: الۡكِتٰبِ
+    arabic: ٱلۡكِتَٰبِ
     translation: the Scripture
     transliteration: l-kitābi
   9:
@@ -43,15 +43,15 @@ word_by_word:
     translation: They are invited
     transliteration: yud'ʿawna
   10:
-    arabic: اِلٰى
+    arabic: إِلَىٰ
     translation: to
     transliteration: ilā
   11:
-    arabic: كِتٰبِ
+    arabic: كِتَٰبِ
     translation: (the) Book
     transliteration: kitābi
   12:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (of) Allah
     transliteration: l-lahi
   13:
@@ -67,11 +67,11 @@ word_by_word:
     translation: then
     transliteration: thumma
   16:
-    arabic: يَتَوَلّٰى
+    arabic: يَتَوَلَّىٰ
     translation: turns away
     transliteration: yatawallā
   17:
-    arabic: فَرِيۡقٌ
+    arabic: فَرِيقٞ
     translation: a party
     transliteration: farīqun
   18:
@@ -79,11 +79,11 @@ word_by_word:
     translation: of them
     transliteration: min'hum
   19:
-    arabic: وَهُمۡ
+    arabic: وَهُم
     translation: and they (are)
     transliteration: wahum
   20:
-    arabic: مُّعۡرِضُوۡنَ‏
+    arabic: مُّعۡرِضُونَ
     translation: those who are averse
     transliteration: muʿ'riḍūna
 ---

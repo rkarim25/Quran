@@ -1,17 +1,17 @@
 ---
-arabic_ayat: مَاۤ اَنۡتَ بِـنِعۡمَةِ رَبِّكَ بِمَجۡنُوۡنٍ​ۚ‏
+arabic_ayat: مَآ أَنتَ بِنِعۡمَةِ رَبِّكَ بِمَجۡنُونٖ
 sentence_translation: By the grace of your Lord, you ˹O Prophet˺ are not insane.
 word_by_word:
   1:
-    arabic: مَاۤ
+    arabic: مَآ
     translation: Not
     transliteration: mā
   2:
-    arabic: اَنۡتَ
+    arabic: أَنتَ
     translation: you (are)
     transliteration: anta
   3:
-    arabic: بِـنِعۡمَةِ
+    arabic: بِنِعۡمَةِ
     translation: by (the) Grace
     transliteration: biniʿ'mati
   4:
@@ -19,7 +19,7 @@ word_by_word:
     translation: (of) your Lord
     transliteration: rabbika
   5:
-    arabic: بِمَجۡنُوۡنٍ​ۚ‏
+    arabic: بِمَجۡنُونٖ
     translation: a madman
     transliteration: bimajnūnin
 ---

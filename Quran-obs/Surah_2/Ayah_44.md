@@ -1,47 +1,47 @@
 ---
-arabic_ayat: اَتَاۡمُرُوۡنَ النَّاسَ بِالۡبِرِّ وَتَنۡسَوۡنَ اَنۡفُسَكُمۡ وَاَنۡتُمۡ
-  تَتۡلُوۡنَ الۡكِتٰبَ​ؕ اَفَلَا تَعۡقِلُوۡنَ‏
+arabic_ayat: ۞ أَتَأۡمُرُونَ ٱلنَّاسَ بِٱلۡبِرِّ وَتَنسَوۡنَ أَنفُسَكُمۡ وَأَنتُمۡ
+  تَتۡلُونَ ٱلۡكِتَٰبَۚ أَفَلَا تَعۡقِلُونَ
 sentence_translation: Do you preach righteousness and fail to practice it yourselves,
   although you read the Scripture? Do you not understand?
 word_by_word:
   1:
-    arabic: ۞ اَتَاۡمُرُوۡنَ
+    arabic: ۞ أَتَأۡمُرُونَ
     translation: Do you order
     transliteration: atamurūna
   2:
-    arabic: النَّاسَ
+    arabic: ٱلنَّاسَ
     translation: '[the] people'
     transliteration: l-nāsa
   3:
-    arabic: بِالۡبِرِّ
+    arabic: بِٱلۡبِرِّ
     translation: '[the] righteousness'
     transliteration: bil-biri
   4:
-    arabic: وَتَنۡسَوۡنَ
+    arabic: وَتَنسَوۡنَ
     translation: and you forget
     transliteration: watansawna
   5:
-    arabic: اَنۡفُسَكُمۡ
+    arabic: أَنفُسَكُمۡ
     translation: yourselves
     transliteration: anfusakum
   6:
-    arabic: وَاَنۡتُمۡ
+    arabic: وَأَنتُمۡ
     translation: while you
     transliteration: wa-antum
   7:
-    arabic: تَتۡلُوۡنَ
+    arabic: تَتۡلُونَ
     translation: '[you] recite'
     transliteration: tatlūna
   8:
-    arabic: الۡكِتٰبَ​ؕ
+    arabic: ٱلۡكِتَٰبَۚ
     translation: the Book
     transliteration: l-kitāba
   9:
-    arabic: اَفَلَا
+    arabic: أَفَلَا
     translation: Then, will not
     transliteration: afalā
   10:
-    arabic: تَعۡقِلُوۡنَ‏
+    arabic: تَعۡقِلُونَ
     translation: you use reason
     transliteration: taʿqilūna
 ---

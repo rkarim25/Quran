@@ -1,21 +1,21 @@
 ---
-arabic_ayat: "يٰۤاَيُّهَا الَّذِيۡنَ اٰمَنُوۡا لَا تَتَوَلَّوۡا قَوۡمًا غَضِبَ اللّٰهُ\
-  \ عَلَيۡهِمۡ قَدۡ يَــٮِٕـسُوۡا مِنَ الۡاٰخِرَةِ كَمَا يَــٮِٕـسَ الۡكُفَّارُ مِنۡ\
-  \ اَصۡحٰبِ الۡقُبُوۡرِ‏ \uFEFF\uFEFF"
+arabic_ayat: يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُواْ لَا تَتَوَلَّوۡاْ قَوۡمًا غَضِبَ ٱللَّهُ
+  عَلَيۡهِمۡ قَدۡ يَئِسُواْ مِنَ ٱلۡأٓخِرَةِ كَمَا يَئِسَ ٱلۡكُفَّارُ مِنۡ أَصۡحَٰبِ
+  ٱلۡقُبُورِ
 sentence_translation: O believers! Do not ally yourselves with a people Allah is displeased
   with. They already have no hope for the Hereafter, just like the disbelievers lying
   in ˹their˺ graves.
 word_by_word:
   1:
-    arabic: يٰۤاَيُّهَا
+    arabic: يَٰٓأَيُّهَا
     translation: O you
     transliteration: yāayyuhā
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ ءَ
     translation: who
     transliteration: alladhīna
   3:
-    arabic: اٰمَنُوۡا
+    arabic: امَنُواْ
     translation: believe
     transliteration: āmanū
   4:
@@ -23,7 +23,7 @@ word_by_word:
     translation: (Do) not
     transliteration: lā
   5:
-    arabic: تَتَوَلَّوۡا
+    arabic: تَتَوَلَّوۡاْ
     translation: make allies
     transliteration: tatawallaw
   6:
@@ -35,7 +35,7 @@ word_by_word:
     translation: (The) wrath
     transliteration: ghaḍiba
   8:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: (of) Allah
     transliteration: l-lahu
   9:
@@ -47,7 +47,7 @@ word_by_word:
     translation: Indeed
     transliteration: qad
   11:
-    arabic: يَــٮِٕـسُوۡا
+    arabic: يَئِسُواْ
     translation: they despair
     transliteration: ya-isū
   12:
@@ -55,7 +55,7 @@ word_by_word:
     translation: of
     transliteration: mina
   13:
-    arabic: الۡاٰخِرَةِ
+    arabic: ٱلۡأٓخِرَةِ
     translation: the Hereafter
     transliteration: l-ākhirati
   14:
@@ -63,11 +63,11 @@ word_by_word:
     translation: as
     transliteration: kamā
   15:
-    arabic: يَــٮِٕـسَ
+    arabic: يَئِسَ
     translation: despair
     transliteration: ya-isa
   16:
-    arabic: الۡكُفَّارُ
+    arabic: ٱلۡكُفَّارُ
     translation: the disbelievers
     transliteration: l-kufāru
   17:
@@ -75,11 +75,11 @@ word_by_word:
     translation: of
     transliteration: min
   18:
-    arabic: اَصۡحٰبِ
+    arabic: أَصۡحَٰبِ
     translation: (the) companions
     transliteration: aṣḥābi
   19:
-    arabic: "الۡقُبُوۡرِ‏ \uFEFF\uFEFF"
+    arabic: ٱلۡقُبُورِ
     translation: (of) the graves
     transliteration: l-qubūri
 ---

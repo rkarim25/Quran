@@ -1,13 +1,13 @@
 ---
-arabic_ayat: سَيَقُوۡلُوۡنَ لِلّٰهِ​ؕ قُلۡ اَفَلَا تَذَكَّرُوۡنَ‏
+arabic_ayat: سَيَقُولُونَ لِلَّهِۚ قُلۡ أَفَلَا تَذَكَّرُونَ
 sentence_translation: They will reply, “To Allah!” Say, “Why are you not then mindful?”
 word_by_word:
   1:
-    arabic: سَيَقُوۡلُوۡنَ
+    arabic: سَيَقُولُونَ
     translation: They will say
     transliteration: sayaqūlūna
   2:
-    arabic: لِلّٰهِ​ؕ
+    arabic: لِلَّهِۚ
     translation: To Allah
     transliteration: lillahi
   3:
@@ -15,11 +15,11 @@ word_by_word:
     translation: Say
     transliteration: qul
   4:
-    arabic: اَفَلَا
+    arabic: أَفَلَا
     translation: Then will not
     transliteration: afalā
   5:
-    arabic: تَذَكَّرُوۡنَ‏
+    arabic: تَذَكَّرُونَ
     translation: you remember
     transliteration: tadhakkarūna
 ---

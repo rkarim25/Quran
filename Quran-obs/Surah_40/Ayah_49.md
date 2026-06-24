@@ -1,6 +1,6 @@
 ---
-arabic_ayat: وَقَالَ الَّذِيۡنَ فِى النَّارِ لِخَزَنَةِ جَهَنَّمَ ادۡعُوۡا رَبَّكُمۡ
-  يُخَفِّفۡ عَنَّا يَوۡمًا مِّنَ الۡعَذَابِ‏
+arabic_ayat: وَقَالَ ٱلَّذِينَ فِي ٱلنَّارِ لِخَزَنَةِ جَهَنَّمَ ٱدۡعُواْ رَبَّكُمۡ
+  يُخَفِّفۡ عَنَّا يَوۡمٗا مِّنَ ٱلۡعَذَابِ
 sentence_translation: And those in the Fire will cry out to the keepers of Hell, “Pray
   to your Lord to lighten the torment for us ˹even˺ for one day!”
 word_by_word:
@@ -9,15 +9,15 @@ word_by_word:
     translation: And will say
     transliteration: waqāla
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those
     transliteration: alladhīna
   3:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   4:
-    arabic: النَّارِ
+    arabic: ٱلنَّارِ
     translation: the Fire
     transliteration: l-nāri
   5:
@@ -29,7 +29,7 @@ word_by_word:
     translation: (of) Hell
     transliteration: jahannama
   7:
-    arabic: ادۡعُوۡا
+    arabic: ٱدۡعُواْ
     translation: Call
     transliteration: id'ʿū
   8:
@@ -45,7 +45,7 @@ word_by_word:
     translation: for us
     transliteration: ʿannā
   11:
-    arabic: يَوۡمًا
+    arabic: يَوۡمٗا
     translation: a day
     transliteration: yawman
   12:
@@ -53,7 +53,7 @@ word_by_word:
     translation: of
     transliteration: mina
   13:
-    arabic: الۡعَذَابِ‏
+    arabic: ٱلۡعَذَابِ
     translation: the punishment
     transliteration: l-ʿadhābi
 ---

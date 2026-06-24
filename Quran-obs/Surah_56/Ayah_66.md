@@ -1,13 +1,13 @@
 ---
-arabic_ayat: اِنَّا لَمُغۡرَمُوۡنَۙ‏
+arabic_ayat: إِنَّا لَمُغۡرَمُونَ
 sentence_translation: “We have truly suffered a ˹great˺ loss.
 word_by_word:
   1:
-    arabic: اِنَّا
+    arabic: إِنَّا
     translation: Indeed, we
     transliteration: innā
   2:
-    arabic: لَمُغۡرَمُوۡنَۙ‏
+    arabic: لَمُغۡرَمُونَ
     translation: surely are laden with debt
     transliteration: lamugh'ramūna
 ---

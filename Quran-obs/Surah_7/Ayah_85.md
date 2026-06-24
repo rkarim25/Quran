@@ -1,9 +1,8 @@
 ---
-arabic_ayat: وَاِلٰى مَدۡيَنَ اَخَاهُمۡ شُعَيۡبًا​ ؕ قَالَ يٰقَوۡمِ اعۡبُدُوا اللّٰهَ
-  مَا لَـكُمۡ مِّنۡ اِلٰهٍ غَيۡرُهٗ​ ؕ قَدۡ جَآءَتۡكُمۡ بَيِّنَةٌ مِّنۡ رَّبِّكُمۡ​
-  فَاَوۡفُوا الۡكَيۡلَ وَالۡمِيۡزَانَ وَلَا تَبۡخَسُوا النَّاسَ اَشۡيَآءَهُمۡ وَلَا
-  تُفۡسِدُوۡا فِى الۡاَرۡضِ بَعۡدَ اِصۡلَاحِهَا​ ؕ ذٰ لِكُمۡ خَيۡرٌ لَّـكُمۡ اِنۡ
-  كُنۡتُمۡ مُّؤۡمِنِيۡنَ​ ۚ‏
+arabic_ayat: وَإِلَىٰ مَدۡيَنَ أَخَاهُمۡ شُعَيۡبٗاۚ قَالَ يَٰقَوۡمِ ٱعۡبُدُواْ ٱللَّهَ
+  مَا لَكُم مِّنۡ إِلَٰهٍ غَيۡرُهُۥۖ قَدۡ جَآءَتۡكُم بَيِّنَةٞ مِّن رَّبِّكُمۡۖ فَأَوۡفُواْ
+  ٱلۡكَيۡلَ وَٱلۡمِيزَانَ وَلَا تَبۡخَسُواْ ٱلنَّاسَ أَشۡيَآءَهُمۡ وَلَا تُفۡسِدُواْ
+  فِي ٱلۡأَرۡضِ بَعۡدَ إِصۡلَٰحِهَاۚ ذَٰلِكُمۡ خَيۡرٞ لَّكُمۡ إِن كُنتُم مُّؤۡمِنِينَ
 sentence_translation: And to the people of Midian We sent their brother Shu’aib. He
   said, “O my people! Worship Allah—you have no other god except Him. A clear proof
   has already come to you from your Lord. So give just measure and weight, do not
@@ -11,7 +10,7 @@ sentence_translation: And to the people of Midian We sent their brother Shu’ai
   been set in order. This is for your own good, if you are ˹truly˺ believers.
 word_by_word:
   1:
-    arabic: وَاِلٰى
+    arabic: وَإِلَىٰ
     translation: And to
     transliteration: wa-ilā
   2:
@@ -19,11 +18,11 @@ word_by_word:
     translation: Madyan
     transliteration: madyana
   3:
-    arabic: اَخَاهُمۡ
+    arabic: أَخَاهُمۡ
     translation: his brother
     transliteration: akhāhum
   4:
-    arabic: شُعَيۡبًا​ ؕ
+    arabic: شُعَيۡبٗاۚ
     translation: Shuaib
     transliteration: shuʿayban
   5:
@@ -31,15 +30,15 @@ word_by_word:
     translation: He said
     transliteration: qāla
   6:
-    arabic: يٰقَوۡمِ
+    arabic: يَٰقَوۡمِ
     translation: O my people
     transliteration: yāqawmi
   7:
-    arabic: اعۡبُدُوا
+    arabic: ٱعۡبُدُواْ
     translation: Worship
     transliteration: uʿ'budū
   8:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   9:
@@ -47,7 +46,7 @@ word_by_word:
     translation: not
     transliteration: mā
   10:
-    arabic: لَـكُمۡ
+    arabic: لَكُم
     translation: for you
     transliteration: lakum
   11:
@@ -55,11 +54,11 @@ word_by_word:
     translation: any
     transliteration: min
   12:
-    arabic: اِلٰهٍ
+    arabic: إِلَٰهٍ
     translation: god
     transliteration: ilāhin
   13:
-    arabic: غَيۡرُهٗ​ ؕ
+    arabic: غَيۡرُهُۥۖ
     translation: other than Him
     transliteration: ghayruhu
   14:
@@ -67,31 +66,31 @@ word_by_word:
     translation: Verily
     transliteration: qad
   15:
-    arabic: جَآءَتۡكُمۡ
+    arabic: جَآءَتۡكُم
     translation: has came to you
     transliteration: jāatkum
   16:
-    arabic: بَيِّنَةٌ
+    arabic: بَيِّنَةٞ
     translation: a clear proof
     transliteration: bayyinatun
   17:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: from
     transliteration: min
   18:
-    arabic: رَّبِّكُمۡ​
+    arabic: رَّبِّكُمۡۖ
     translation: your Lord
     transliteration: rabbikum
   19:
-    arabic: فَاَوۡفُوا
+    arabic: فَأَوۡفُواْ
     translation: So give full
     transliteration: fa-awfū
   20:
-    arabic: الۡكَيۡلَ
+    arabic: ٱلۡكَيۡلَ
     translation: '[the] measure'
     transliteration: l-kayla
   21:
-    arabic: وَالۡمِيۡزَانَ
+    arabic: وَٱلۡمِيزَانَ
     translation: and the weight
     transliteration: wal-mīzāna
   22:
@@ -99,15 +98,15 @@ word_by_word:
     translation: and (do) not
     transliteration: walā
   23:
-    arabic: تَبۡخَسُوا
+    arabic: تَبۡخَسُواْ
     translation: deprive
     transliteration: tabkhasū
   24:
-    arabic: النَّاسَ
+    arabic: ٱلنَّاسَ
     translation: '[the] people'
     transliteration: l-nāsa
   25:
-    arabic: اَشۡيَآءَهُمۡ
+    arabic: أَشۡيَآءَهُمۡ
     translation: in their things
     transliteration: ashyāahum
   26:
@@ -115,15 +114,15 @@ word_by_word:
     translation: and (do) not
     transliteration: walā
   27:
-    arabic: تُفۡسِدُوۡا
+    arabic: تُفۡسِدُواْ
     translation: cause corruption
     transliteration: tuf'sidū
   28:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   29:
-    arabic: الۡاَرۡضِ
+    arabic: ٱلۡأَرۡضِ
     translation: the earth
     transliteration: l-arḍi
   30:
@@ -131,31 +130,31 @@ word_by_word:
     translation: after
     transliteration: baʿda
   31:
-    arabic: اِصۡلَاحِهَا​ ؕ
+    arabic: إِصۡلَٰحِهَاۚ
     translation: its reformation
     transliteration: iṣ'lāḥihā
   32:
-    arabic: ذٰ لِكُمۡ
+    arabic: ذَٰلِكُمۡ
     translation: That
     transliteration: dhālikum
   33:
-    arabic: خَيۡرٌ
+    arabic: خَيۡرٞ
     translation: (is) better
     transliteration: khayrun
   34:
-    arabic: لَّـكُمۡ
+    arabic: لَّكُمۡ
     translation: for you
     transliteration: lakum
   35:
-    arabic: اِنۡ
+    arabic: إِن
     translation: if
     transliteration: in
   36:
-    arabic: كُنۡتُمۡ
+    arabic: كُنتُم
     translation: you are
     transliteration: kuntum
   37:
-    arabic: مُّؤۡمِنِيۡنَ​ ۚ‏
+    arabic: مُّؤۡمِنِينَ
     translation: believers
     transliteration: mu'minīna
 ---

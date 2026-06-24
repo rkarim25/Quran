@@ -1,57 +1,56 @@
 ---
-arabic_ayat: "لَـيۡسَ بِاَمَانِيِّكُمۡ وَلَاۤ اَمَانِىِّ اَهۡلِ الۡـكِتٰبِ​ؕ مَنۡ\
-  \ يَّعۡمَلۡ سُوۡٓءًا يُّجۡزَ بِهٖۙ وَ لَا يَجِدۡ لَهٗ مِنۡ دُوۡنِ اللّٰهِ وَلِيًّا\
-  \ وَّلَا نَصِيۡرًا‏ \uFEFF\uFEFF"
+arabic_ayat: لَّيۡسَ بِأَمَانِيِّكُمۡ وَلَآ أَمَانِيِّ أَهۡلِ ٱلۡكِتَٰبِۗ مَن يَعۡمَلۡ
+  سُوٓءٗا يُجۡزَ بِهِۦ وَلَا يَجِدۡ لَهُۥ مِن دُونِ ٱللَّهِ وَلِيّٗا وَلَا نَصِيرٗا
 sentence_translation: ˹Divine grace is˺ neither by your wishes nor those of the People
   of the Book! Whoever commits evil will be rewarded accordingly, and they will find
   no protector or helper besides Allah.
 word_by_word:
   1:
-    arabic: لَـيۡسَ
+    arabic: لَّيۡسَ
     translation: Not
     transliteration: laysa
   2:
-    arabic: بِاَمَانِيِّكُمۡ
+    arabic: بِأَمَانِيِّكُمۡ
     translation: by your desire
     transliteration: bi-amāniyyikum
   3:
-    arabic: وَلَاۤ
+    arabic: وَلَآ
     translation: and not
     transliteration: walā
   4:
-    arabic: اَمَانِىِّ
+    arabic: أَمَانِيِّ
     translation: (by the) desire
     transliteration: amāniyyi
   5:
-    arabic: اَهۡلِ
+    arabic: أَهۡلِ
     translation: (of the) People
     transliteration: ahli
   6:
-    arabic: الۡـكِتٰبِ​ؕ
+    arabic: ٱلۡكِتَٰبِۗ
     translation: (of) the Book
     transliteration: l-kitābi
   7:
-    arabic: مَنۡ
+    arabic: مَن
     translation: Whoever
     transliteration: man
   8:
-    arabic: يَّعۡمَلۡ
+    arabic: يَعۡمَلۡ
     translation: does
     transliteration: yaʿmal
   9:
-    arabic: سُوۡٓءًا
+    arabic: سُوٓءٗا
     translation: evil
     transliteration: sūan
   10:
-    arabic: يُّجۡزَ
+    arabic: يُجۡزَ
     translation: will be recompensed
     transliteration: yuj'za
   11:
-    arabic: بِهٖۙ
+    arabic: بِهِۦ
     translation: for it
     transliteration: bihi
   12:
-    arabic: وَ لَا
+    arabic: وَلَا
     translation: and not
     transliteration: walā
   13:
@@ -59,31 +58,31 @@ word_by_word:
     translation: he will find
     transliteration: yajid
   14:
-    arabic: لَهٗ
+    arabic: لَهُۥ
     translation: for him
     transliteration: lahu
   15:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   16:
-    arabic: دُوۡنِ
+    arabic: دُونِ
     translation: besides
     transliteration: dūni
   17:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   18:
-    arabic: وَلِيًّا
+    arabic: وَلِيّٗا
     translation: any protector
     transliteration: waliyyan
   19:
-    arabic: وَّلَا
+    arabic: وَلَا
     translation: and not
     transliteration: walā
   20:
-    arabic: "نَصِيۡرًا‏ \uFEFF\uFEFF"
+    arabic: نَصِيرٗا
     translation: any helper
     transliteration: naṣīran
 ---

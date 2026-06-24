@@ -1,25 +1,24 @@
 ---
-arabic_ayat: "وَاَقِيۡمُوا الصَّلٰوةَ وَاٰتُوا الزَّکٰوةَ  ​ؕ وَمَا تُقَدِّمُوۡا لِاَنۡفُسِكُمۡ\
-  \ مِّنۡ خَيۡرٍ تَجِدُوۡهُ عِنۡدَ اللّٰهِ ​ؕ اِنَّ اللّٰهَ بِمَا تَعۡمَلُوۡنَ بَصِيۡرٌ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: وَأَقِيمُواْ ٱلصَّلَوٰةَ وَءَاتُواْ ٱلزَّكَوٰةَۚ وَمَا تُقَدِّمُواْ لِأَنفُسِكُم
+  مِّنۡ خَيۡرٖ تَجِدُوهُ عِندَ ٱللَّهِۗ إِنَّ ٱللَّهَ بِمَا تَعۡمَلُونَ بَصِيرٞ
 sentence_translation: Establish prayer, and pay alms-tax. Whatever good you send forth
   for yourselves, you will ˹certainly˺ find ˹its reward˺ with Allah. Surely Allah
   is All-Seeing of what you do.
 word_by_word:
   1:
-    arabic: وَاَقِيۡمُوا
+    arabic: وَأَقِيمُواْ
     translation: And establish
     transliteration: wa-aqīmū
   2:
-    arabic: الصَّلٰوةَ
+    arabic: ٱلصَّلَوٰةَ
     translation: the prayer
     transliteration: l-ṣalata
   3:
-    arabic: وَاٰتُوا
+    arabic: وَءَاتُواْ
     translation: and give
     transliteration: waātū
   4:
-    arabic: الزَّکٰوةَ  ​ؕ
+    arabic: ٱلزَّكَوٰةَۚ
     translation: '[the] zakah'
     transliteration: l-zakata
   5:
@@ -27,11 +26,11 @@ word_by_word:
     translation: And whatever
     transliteration: wamā
   6:
-    arabic: تُقَدِّمُوۡا
+    arabic: تُقَدِّمُواْ
     translation: you send forth
     transliteration: tuqaddimū
   7:
-    arabic: لِاَنۡفُسِكُمۡ
+    arabic: لِأَنفُسِكُم
     translation: for yourselves
     transliteration: li-anfusikum
   8:
@@ -39,27 +38,27 @@ word_by_word:
     translation: of
     transliteration: min
   9:
-    arabic: خَيۡرٍ
+    arabic: خَيۡرٖ
     translation: good (deeds)
     transliteration: khayrin
   10:
-    arabic: تَجِدُوۡهُ
+    arabic: تَجِدُوهُ
     translation: you will find it
     transliteration: tajidūhu
   11:
-    arabic: عِنۡدَ
+    arabic: عِندَ
     translation: with
     transliteration: ʿinda
   12:
-    arabic: اللّٰهِ ​ؕ
+    arabic: ٱللَّهِۗ
     translation: Allah
     transliteration: l-lahi
   13:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   14:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   15:
@@ -67,11 +66,11 @@ word_by_word:
     translation: of what
     transliteration: bimā
   16:
-    arabic: تَعۡمَلُوۡنَ
+    arabic: تَعۡمَلُونَ
     translation: you do
     transliteration: taʿmalūna
   17:
-    arabic: "بَصِيۡرٌ‏ \uFEFF\uFEFF"
+    arabic: بَصِيرٞ
     translation: (is) All-Seer
     transliteration: baṣīrun
 ---

@@ -1,15 +1,15 @@
 ---
-arabic_ayat: وَنُرِيۡدُ اَنۡ نَّمُنَّ عَلَى الَّذِيۡنَ اسۡتُضۡعِفُوۡا فِى الۡاَرۡضِ
-  وَنَجۡعَلَهُمۡ اَٮِٕمَّةً وَّنَجۡعَلَهُمُ الۡوٰرِثِيۡنَۙ‏
+arabic_ayat: وَنُرِيدُ أَن نَّمُنَّ عَلَى ٱلَّذِينَ ٱسۡتُضۡعِفُواْ فِي ٱلۡأَرۡضِ وَنَجۡعَلَهُمۡ
+  أَئِمَّةٗ وَنَجۡعَلَهُمُ ٱلۡوَٰرِثِينَ
 sentence_translation: But it was Our Will to favour those who were oppressed in the
   land, making them models ˹of faith˺ as well as successors;
 word_by_word:
   1:
-    arabic: وَنُرِيۡدُ
+    arabic: وَنُرِيدُ
     translation: And We wanted
     transliteration: wanurīdu
   2:
-    arabic: اَنۡ
+    arabic: أَن
     translation: to
     transliteration: an
   3:
@@ -21,19 +21,19 @@ word_by_word:
     translation: upon
     transliteration: ʿalā
   5:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   6:
-    arabic: اسۡتُضۡعِفُوۡا
+    arabic: ٱسۡتُضۡعِفُواْ
     translation: were oppressed
     transliteration: us'tuḍ'ʿifū
   7:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   8:
-    arabic: الۡاَرۡضِ
+    arabic: ٱلۡأَرۡضِ
     translation: the land
     transliteration: l-arḍi
   9:
@@ -41,15 +41,15 @@ word_by_word:
     translation: and make them
     transliteration: wanajʿalahum
   10:
-    arabic: اَٮِٕمَّةً
+    arabic: أَئِمَّةٗ
     translation: leaders
     transliteration: a-immatan
   11:
-    arabic: وَّنَجۡعَلَهُمُ
+    arabic: وَنَجۡعَلَهُمُ
     translation: and make them
     transliteration: wanajʿalahumu
   12:
-    arabic: الۡوٰرِثِيۡنَۙ‏
+    arabic: ٱلۡوَٰرِثِينَ
     translation: the inheritors
     transliteration: l-wārithīna
 ---

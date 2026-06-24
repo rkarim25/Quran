@@ -1,24 +1,24 @@
 ---
-arabic_ayat: اَلَمۡ يَعۡلَمُوۡۤا اَنَّ اللّٰهَ هُوَ يَقۡبَلُ التَّوۡبَةَ عَنۡ عِبَادِهٖ
-  وَيَاۡخُذُ الصَّدَقٰتِ وَ اَنَّ اللّٰهَ هُوَ التَّوَّابُ الرَّحِيۡمُ‏
+arabic_ayat: أَلَمۡ يَعۡلَمُوٓاْ أَنَّ ٱللَّهَ هُوَ يَقۡبَلُ ٱلتَّوۡبَةَ عَنۡ عِبَادِهِۦ
+  وَيَأۡخُذُ ٱلصَّدَقَٰتِ وَأَنَّ ٱللَّهَ هُوَ ٱلتَّوَّابُ ٱلرَّحِيمُ
 sentence_translation: Do they not know that Allah alone accepts the repentance of
   His servants and receives ˹their˺ charity, and that Allah alone is the Accepter
   of Repentance, Most Merciful?
 word_by_word:
   1:
-    arabic: اَلَمۡ
+    arabic: أَلَمۡ
     translation: Do not
     transliteration: alam
   2:
-    arabic: يَعۡلَمُوۡۤا
+    arabic: يَعۡلَمُوٓاْ
     translation: they know
     transliteration: yaʿlamū
   3:
-    arabic: اَنَّ
+    arabic: أَنَّ
     translation: that
     transliteration: anna
   4:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   5:
@@ -30,7 +30,7 @@ word_by_word:
     translation: (Who) accepts
     transliteration: yaqbalu
   7:
-    arabic: التَّوۡبَةَ
+    arabic: ٱلتَّوۡبَةَ
     translation: the repentance
     transliteration: l-tawbata
   8:
@@ -38,23 +38,23 @@ word_by_word:
     translation: from
     transliteration: ʿan
   9:
-    arabic: عِبَادِهٖ
+    arabic: عِبَادِهِۦ
     translation: His slaves
     transliteration: ʿibādihi
   10:
-    arabic: وَيَاۡخُذُ
+    arabic: وَيَأۡخُذُ
     translation: and takes
     transliteration: wayakhudhu
   11:
-    arabic: الصَّدَقٰتِ
+    arabic: ٱلصَّدَقَٰتِ
     translation: the charities
     transliteration: l-ṣadaqāti
   12:
-    arabic: وَ اَنَّ
+    arabic: وَأَنَّ
     translation: and that
     transliteration: wa-anna
   13:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   14:
@@ -62,11 +62,11 @@ word_by_word:
     translation: He
     transliteration: huwa
   15:
-    arabic: التَّوَّابُ
+    arabic: ٱلتَّوَّابُ
     translation: (is) the Acceptor of repentance
     transliteration: l-tawābu
   16:
-    arabic: الرَّحِيۡمُ‏
+    arabic: ٱلرَّحِيمُ
     translation: the Most Merciful
     transliteration: l-raḥīmu
 ---

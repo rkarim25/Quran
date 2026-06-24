@@ -1,11 +1,11 @@
 ---
-arabic_ayat: فَكُلُوۡا مِمَّا غَنِمۡتُمۡ حَلٰلاً طَيِّبًا ۖ  وَّاتَّقُوا اللّٰهَ​
-  ؕ اِنَّ اللّٰهَ غَفُوۡرٌ رَّحِيۡمٌ‏
+arabic_ayat: فَكُلُواْ مِمَّا غَنِمۡتُمۡ حَلَٰلٗا طَيِّبٗاۚ وَٱتَّقُواْ ٱللَّهَۚ إِنَّ
+  ٱللَّهَ غَفُورٞ رَّحِيمٞ
 sentence_translation: Now enjoy what you have taken, for it is lawful and good. And
   be mindful of Allah. Surely Allah is All-Forgiving, Most Merciful.
 word_by_word:
   1:
-    arabic: فَكُلُوۡا
+    arabic: فَكُلُواْ
     translation: So eat
     transliteration: fakulū
   2:
@@ -17,35 +17,35 @@ word_by_word:
     translation: 'you got as war booty '
     transliteration: ghanim'tum
   4:
-    arabic: حَلٰلاً
+    arabic: حَلَٰلٗا
     translation: lawful
     transliteration: ḥalālan
   5:
-    arabic: طَيِّبًا ۖ 
+    arabic: طَيِّبٗاۚ
     translation: (and) good
     transliteration: ṭayyiban
   6:
-    arabic: وَّاتَّقُوا
+    arabic: وَٱتَّقُواْ
     translation: and fear
     transliteration: wa-ittaqū
   7:
-    arabic: اللّٰهَ​ ؕ
+    arabic: ٱللَّهَۚ
     translation: Allah
     transliteration: l-laha
   8:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   9:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   10:
-    arabic: غَفُوۡرٌ
+    arabic: غَفُورٞ
     translation: (is) Oft-Forgiving
     transliteration: ghafūrun
   11:
-    arabic: رَّحِيۡمٌ‏
+    arabic: رَّحِيمٞ
     translation: Most Merciful
     transliteration: raḥīmun
 ---

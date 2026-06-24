@@ -1,6 +1,6 @@
 ---
-arabic_ayat: هُوَ الَّذِىۡۤ اَرۡسَلَ رَسُوۡلَهٗ بِالۡهُدٰى وَدِيۡنِ الۡحَـقِّ لِيُظۡهِرَهٗ
-  عَلَى الدِّيۡنِ كُلِّهٖ وَلَوۡ كَرِهَ الۡمُشۡرِكُوۡنَ‏
+arabic_ayat: هُوَ ٱلَّذِيٓ أَرۡسَلَ رَسُولَهُۥ بِٱلۡهُدَىٰ وَدِينِ ٱلۡحَقِّ لِيُظۡهِرَهُۥ
+  عَلَى ٱلدِّينِ كُلِّهِۦ وَلَوۡ كَرِهَ ٱلۡمُشۡرِكُونَ
 sentence_translation: He is the One Who has sent His Messenger with ˹true˺ guidance
   and the religion of truth, making it prevail over all others, even to the dismay
   of the polytheists.
@@ -10,31 +10,31 @@ word_by_word:
     translation: He
     transliteration: huwa
   2:
-    arabic: الَّذِىۡۤ
+    arabic: ٱلَّذِيٓ
     translation: (is) the One Who
     transliteration: alladhī
   3:
-    arabic: اَرۡسَلَ
+    arabic: أَرۡسَلَ
     translation: sent
     transliteration: arsala
   4:
-    arabic: رَسُوۡلَهٗ
+    arabic: رَسُولَهُۥ
     translation: His Messenger
     transliteration: rasūlahu
   5:
-    arabic: بِالۡهُدٰى
+    arabic: بِٱلۡهُدَىٰ
     translation: with guidance
     transliteration: bil-hudā
   6:
-    arabic: وَدِيۡنِ
+    arabic: وَدِينِ
     translation: and (the) religion
     transliteration: wadīni
   7:
-    arabic: الۡحَـقِّ
+    arabic: ٱلۡحَقِّ
     translation: (of) the truth
     transliteration: l-ḥaqi
   8:
-    arabic: لِيُظۡهِرَهٗ
+    arabic: لِيُظۡهِرَهُۥ
     translation: to make it prevail
     transliteration: liyuẓ'hirahu
   9:
@@ -42,11 +42,11 @@ word_by_word:
     translation: over
     transliteration: ʿalā
   10:
-    arabic: الدِّيۡنِ
+    arabic: ٱلدِّينِ
     translation: the religion
     transliteration: l-dīni
   11:
-    arabic: كُلِّهٖ
+    arabic: كُلِّهِۦ
     translation: all of them
     transliteration: kullihi
   12:
@@ -58,7 +58,7 @@ word_by_word:
     translation: dislike (it)
     transliteration: kariha
   14:
-    arabic: الۡمُشۡرِكُوۡنَ‏
+    arabic: ٱلۡمُشۡرِكُونَ
     translation: the polytheists
     transliteration: l-mush'rikūna
 ---

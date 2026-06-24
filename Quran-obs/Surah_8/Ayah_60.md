@@ -1,19 +1,19 @@
 ---
-arabic_ayat: وَاَعِدُّوۡا لَهُمۡ مَّا اسۡتَطَعۡتُمۡ مِّنۡ قُوَّةٍ وَّمِنۡ رِّبَاطِ
-  الۡخَـيۡلِ تُرۡهِبُوۡنَ بِهٖ عَدُوَّ اللّٰهِ وَعَدُوَّكُمۡ وَاٰخَرِيۡنَ مِنۡ دُوۡنِهِمۡ​
-  ۚ لَا تَعۡلَمُوۡنَهُمُ​ ۚ اَللّٰهُ يَعۡلَمُهُمۡ​ؕ وَمَا تُـنۡفِقُوۡا مِنۡ شَىۡءٍ
-  فِىۡ سَبِيۡلِ اللّٰهِ يُوَفَّ اِلَيۡكُمۡ وَاَنۡـتُمۡ لَا تُظۡلَمُوۡنَ‏
+arabic_ayat: وَأَعِدُّواْ لَهُم مَّا ٱسۡتَطَعۡتُم مِّن قُوَّةٖ وَمِن رِّبَاطِ ٱلۡخَيۡلِ
+  تُرۡهِبُونَ بِهِۦ عَدُوَّ ٱللَّهِ وَعَدُوَّكُمۡ وَءَاخَرِينَ مِن دُونِهِمۡ لَا تَعۡلَمُونَهُمُ
+  ٱللَّهُ يَعۡلَمُهُمۡۚ وَمَا تُنفِقُواْ مِن شَيۡءٖ فِي سَبِيلِ ٱللَّهِ يُوَفَّ إِلَيۡكُمۡ
+  وَأَنتُمۡ لَا تُظۡلَمُونَ
 sentence_translation: Prepare against them what you ˹believers˺ can of ˹military˺
   power and cavalry to deter Allah’s enemies and your enemies as well as other enemies
   unknown to you but known to Allah. Whatever you spend in the cause of Allah will
   be paid to you in full and you will not be wronged.
 word_by_word:
   1:
-    arabic: وَاَعِدُّوۡا
+    arabic: وَأَعِدُّواْ
     translation: And prepare
     transliteration: wa-aʿiddū
   2:
-    arabic: لَهُمۡ
+    arabic: لَهُم
     translation: for them
     transliteration: lahum
   3:
@@ -21,19 +21,19 @@ word_by_word:
     translation: whatever
     transliteration: mā
   4:
-    arabic: اسۡتَطَعۡتُمۡ
+    arabic: ٱسۡتَطَعۡتُم
     translation: you able (to)
     transliteration: is'taṭaʿtum
   5:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: of
     transliteration: min
   6:
-    arabic: قُوَّةٍ
+    arabic: قُوَّةٖ
     translation: force
     transliteration: quwwatin
   7:
-    arabic: وَّمِنۡ
+    arabic: وَمِن
     translation: and of
     transliteration: wamin
   8:
@@ -41,15 +41,15 @@ word_by_word:
     translation: tethered
     transliteration: ribāṭi
   9:
-    arabic: الۡخَـيۡلِ
+    arabic: ٱلۡخَيۡلِ
     translation: horses
     transliteration: l-khayli
   10:
-    arabic: تُرۡهِبُوۡنَ
+    arabic: تُرۡهِبُونَ
     translation: (to) terrify
     transliteration: tur'hibūna
   11:
-    arabic: بِهٖ
+    arabic: بِهِۦ
     translation: therewith
     transliteration: bihi
   12:
@@ -57,7 +57,7 @@ word_by_word:
     translation: (the) enemy
     transliteration: ʿaduwwa
   13:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (of) Allah
     transliteration: l-lahi
   14:
@@ -65,15 +65,15 @@ word_by_word:
     translation: and your enemy
     transliteration: waʿaduwwakum
   15:
-    arabic: وَاٰخَرِيۡنَ
+    arabic: وَءَاخَرِينَ
     translation: and others
     transliteration: waākharīna
   16:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   17:
-    arabic: دُوۡنِهِمۡ​ ۚ
+    arabic: دُونِهِمۡ
     translation: besides them
     transliteration: dūnihim
   18:
@@ -81,15 +81,15 @@ word_by_word:
     translation: not
     transliteration: lā
   19:
-    arabic: تَعۡلَمُوۡنَهُمُ​ ۚ
+    arabic: تَعۡلَمُونَهُمُ
     translation: (do) you know them
     transliteration: taʿlamūnahumu
   20:
-    arabic: اَللّٰهُ
+    arabic: ٱللَّهُ
     translation: (but) Allah
     transliteration: l-lahu
   21:
-    arabic: يَعۡلَمُهُمۡ​ؕ
+    arabic: يَعۡلَمُهُمۡۚ
     translation: knows them
     transliteration: yaʿlamuhum
   22:
@@ -97,27 +97,27 @@ word_by_word:
     translation: And whatever
     transliteration: wamā
   23:
-    arabic: تُـنۡفِقُوۡا
+    arabic: تُنفِقُواْ
     translation: you spend
     transliteration: tunfiqū
   24:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   25:
-    arabic: شَىۡءٍ
+    arabic: شَيۡءٖ
     translation: (any) thing
     transliteration: shayin
   26:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   27:
-    arabic: سَبِيۡلِ
+    arabic: سَبِيلِ
     translation: (the) way
     transliteration: sabīli
   28:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (of) Allah
     transliteration: l-lahi
   29:
@@ -125,11 +125,11 @@ word_by_word:
     translation: it will be fully repaid
     transliteration: yuwaffa
   30:
-    arabic: اِلَيۡكُمۡ
+    arabic: إِلَيۡكُمۡ
     translation: to you
     transliteration: ilaykum
   31:
-    arabic: وَاَنۡـتُمۡ
+    arabic: وَأَنتُمۡ
     translation: and you
     transliteration: wa-antum
   32:
@@ -137,7 +137,7 @@ word_by_word:
     translation: (will) not
     transliteration: lā
   33:
-    arabic: تُظۡلَمُوۡنَ‏
+    arabic: تُظۡلَمُونَ
     translation: be wronged
     transliteration: tuẓ'lamūna
 ---

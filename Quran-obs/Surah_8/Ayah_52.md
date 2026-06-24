@@ -1,77 +1,76 @@
 ---
-arabic_ayat: "كَدَاۡبِ اٰلِ فِرۡعَوۡنَ​ۙ وَالَّذِيۡنَ مِنۡ قَبۡلِهِمۡ​ؕ كَفَرُوۡا\
-  \ بِاٰيٰتِ اللّٰهِ فَاَخَذَهُمُ اللّٰهُ بِذُنُوۡبِهِمۡ​ؕ اِنَّ اللّٰهَ قَوِىٌّ شَدِيۡدُ\
-  \ الۡعِقَابِ‏ \uFEFF\uFEFF"
+arabic_ayat: كَدَأۡبِ ءَالِ فِرۡعَوۡنَ وَٱلَّذِينَ مِن قَبۡلِهِمۡۚ كَفَرُواْ بِـَٔايَٰتِ
+  ٱللَّهِ فَأَخَذَهُمُ ٱللَّهُ بِذُنُوبِهِمۡۚ إِنَّ ٱللَّهَ قَوِيّٞ شَدِيدُ ٱلۡعِقَابِ
 sentence_translation: Their fate is that of the people of Pharaoh and those before
   them—they all disbelieved in Allah’s signs, so Allah seized them for their sins.
   Indeed, Allah is All-Powerful, severe in punishment.
 word_by_word:
   1:
-    arabic: كَدَاۡبِ
+    arabic: كَدَأۡبِ ءَ
     translation: Like (the) way
     transliteration: kadabi
   2:
-    arabic: اٰلِ
+    arabic: الِ
     translation: (of) people
     transliteration: āli
   3:
-    arabic: فِرۡعَوۡنَ​ۙ
+    arabic: فِرۡعَوۡنَ
     translation: (of) Firaun
     transliteration: fir'ʿawna
   4:
-    arabic: وَالَّذِيۡنَ
+    arabic: وَٱلَّذِينَ
     translation: and those who
     transliteration: wa-alladhīna
   5:
-    arabic: مِنۡ
+    arabic: مِن
     translation: (were) from
     transliteration: min
   6:
-    arabic: قَبۡلِهِمۡ​ؕ
+    arabic: قَبۡلِهِمۡۚ
     translation: before them
     transliteration: qablihim
   7:
-    arabic: كَفَرُوۡا
+    arabic: كَفَرُواْ
     translation: They disbelieved
     transliteration: kafarū
   8:
-    arabic: بِاٰيٰتِ
+    arabic: بِـَٔايَٰتِ
     translation: in (the) Signs
     transliteration: biāyāti
   9:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (of) Allah
     transliteration: l-lahi
   10:
-    arabic: فَاَخَذَهُمُ
+    arabic: فَأَخَذَهُمُ
     translation: so seized them
     transliteration: fa-akhadhahumu
   11:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   12:
-    arabic: بِذُنُوۡبِهِمۡ​ؕ
+    arabic: بِذُنُوبِهِمۡۚ
     translation: for their sins
     transliteration: bidhunūbihim
   13:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   14:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   15:
-    arabic: قَوِىٌّ
+    arabic: قَوِيّٞ
     translation: (is) All-Strong
     transliteration: qawiyyun
   16:
-    arabic: شَدِيۡدُ
+    arabic: شَدِيدُ
     translation: (and) severe
     transliteration: shadīdu
   17:
-    arabic: "الۡعِقَابِ‏ \uFEFF\uFEFF"
+    arabic: ٱلۡعِقَابِ
     translation: (in) the penalty
     transliteration: l-ʿiqābi
 ---

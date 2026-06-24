@@ -1,67 +1,67 @@
 ---
-arabic_ayat: فَاَمَّا الَّذِيۡنَ اٰمَنُوۡا وَعَمِلُوا الصّٰلِحٰتِ فَيُوَفِّيۡهِمۡ
-  اُجُوۡرَهُمۡ وَ يَزِيۡدُهُمۡ مِّنۡ فَضۡلِهٖ​ۚ وَاَمَّا الَّذِيۡنَ اسۡتَـنۡكَفُوۡا
-  وَاسۡتَكۡبَرُوۡا فَيُعَذِّبُهُمۡ عَذَابًا اَ لِيۡمًا  ۙ وَّلَا يَجِدُوۡنَ لَهُمۡ
-  مِّنۡ دُوۡنِ اللّٰهِ وَلِيًّا وَّلَا نَصِيۡرًا‏
+arabic_ayat: فَأَمَّا ٱلَّذِينَ ءَامَنُواْ وَعَمِلُواْ ٱلصَّٰلِحَٰتِ فَيُوَفِّيهِمۡ
+  أُجُورَهُمۡ وَيَزِيدُهُم مِّن فَضۡلِهِۦۖ وَأَمَّا ٱلَّذِينَ ٱسۡتَنكَفُواْ وَٱسۡتَكۡبَرُواْ
+  فَيُعَذِّبُهُمۡ عَذَابًا أَلِيمٗا وَلَا يَجِدُونَ لَهُم مِّن دُونِ ٱللَّهِ وَلِيّٗا
+  وَلَا نَصِيرٗا
 sentence_translation: As for those who believe and do good, He will reward them in
   full and increase them out of His grace. But those who are too proud and arrogant,
   He will subject them to a painful punishment. And besides Allah they will find no
   protector or helper.
 word_by_word:
   1:
-    arabic: فَاَمَّا
+    arabic: فَأَمَّا
     translation: Then as for
     transliteration: fa-ammā
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ ءَ
     translation: those who
     transliteration: alladhīna
   3:
-    arabic: اٰمَنُوۡا
+    arabic: امَنُواْ
     translation: believed
     transliteration: āmanū
   4:
-    arabic: وَعَمِلُوا
+    arabic: وَعَمِلُواْ
     translation: and did
     transliteration: waʿamilū
   5:
-    arabic: الصّٰلِحٰتِ
+    arabic: ٱلصَّٰلِحَٰتِ
     translation: the righteous deeds
     transliteration: l-ṣāliḥāti
   6:
-    arabic: فَيُوَفِّيۡهِمۡ
+    arabic: فَيُوَفِّيهِمۡ
     translation: then He will give them in full
     transliteration: fayuwaffīhim
   7:
-    arabic: اُجُوۡرَهُمۡ
+    arabic: أُجُورَهُمۡ
     translation: their reward
     transliteration: ujūrahum
   8:
-    arabic: وَ يَزِيۡدُهُمۡ
+    arabic: وَيَزِيدُهُم
     translation: and give them more
     transliteration: wayazīduhum
   9:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: from
     transliteration: min
   10:
-    arabic: فَضۡلِهٖ​ۚ
+    arabic: فَضۡلِهِۦۖ
     translation: His Bounty
     transliteration: faḍlihi
   11:
-    arabic: وَاَمَّا
+    arabic: وَأَمَّا
     translation: And as for
     transliteration: wa-ammā
   12:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   13:
-    arabic: اسۡتَـنۡكَفُوۡا
+    arabic: ٱسۡتَنكَفُواْ
     translation: disdained
     transliteration: is'tankafū
   14:
-    arabic: وَاسۡتَكۡبَرُوۡا
+    arabic: وَٱسۡتَكۡبَرُواْ
     translation: and were arrogant
     transliteration: wa-is'takbarū
   15:
@@ -73,43 +73,43 @@ word_by_word:
     translation: (with) a punishment
     transliteration: ʿadhāban
   17:
-    arabic: اَ لِيۡمًا  ۙ
+    arabic: أَلِيمٗا
     translation: painful
     transliteration: alīman
   18:
-    arabic: وَّلَا
+    arabic: وَلَا
     translation: and not
     transliteration: walā
   19:
-    arabic: يَجِدُوۡنَ
+    arabic: يَجِدُونَ
     translation: will they find
     transliteration: yajidūna
   20:
-    arabic: لَهُمۡ
+    arabic: لَهُم
     translation: for themselves
     transliteration: lahum
   21:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: from
     transliteration: min
   22:
-    arabic: دُوۡنِ
+    arabic: دُونِ
     translation: besides
     transliteration: dūni
   23:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   24:
-    arabic: وَلِيًّا
+    arabic: وَلِيّٗا
     translation: any protector
     transliteration: waliyyan
   25:
-    arabic: وَّلَا
+    arabic: وَلَا
     translation: and not
     transliteration: walā
   26:
-    arabic: نَصِيۡرًا‏
+    arabic: نَصِيرٗا
     translation: any helper
     transliteration: naṣīran
 ---

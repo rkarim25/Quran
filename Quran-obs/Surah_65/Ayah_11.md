@@ -1,8 +1,8 @@
 ---
-arabic_ayat: رَّسُوۡلًا يَّتۡلُوۡا عَلَيۡكُمۡ اٰيٰتِ اللّٰهِ مُبَيِّنٰتٍ لِّيُخۡرِجَ
-  الَّذِيۡنَ اٰمَنُوۡا وَعَمِلُوا الصّٰلِحٰتِ مِنَ الظُّلُمٰتِ اِلَى النُّوۡرِ​ؕ وَمَنۡ
-  يُّؤۡمِنۡۢ بِاللّٰهِ وَيَعۡمَلۡ صَالِحًـا يُّدۡخِلۡهُ جَنّٰتٍ تَجۡرِىۡ مِنۡ تَحۡتِهَا
-  الۡاَنۡهٰرُ خٰلِدِيۡنَ فِيۡهَاۤ اَبَدًا​ؕ قَدۡ اَحۡسَنَ اللّٰهُ لَهٗ رِزۡقًا‏
+arabic_ayat: رَّسُولٗا يَتۡلُواْ عَلَيۡكُمۡ ءَايَٰتِ ٱللَّهِ مُبَيِّنَٰتٖ لِّيُخۡرِجَ
+  ٱلَّذِينَ ءَامَنُواْ وَعَمِلُواْ ٱلصَّٰلِحَٰتِ مِنَ ٱلظُّلُمَٰتِ إِلَى ٱلنُّورِۚ
+  وَمَن يُؤۡمِنۢ بِٱللَّهِ وَيَعۡمَلۡ صَٰلِحٗا يُدۡخِلۡهُ جَنَّٰتٖ تَجۡرِي مِن تَحۡتِهَا
+  ٱلۡأَنۡهَٰرُ خَٰلِدِينَ فِيهَآ أَبَدٗاۖ قَدۡ أَحۡسَنَ ٱللَّهُ لَهُۥ رِزۡقًا
 sentence_translation: ˹and sent˺ a messenger reciting to you Allah’s revelations,
   making things clear so that He may bring those who believe and do good out of darkness
   and into light. And whoever believes in Allah and does good will be admitted by
@@ -10,27 +10,27 @@ sentence_translation: ˹and sent˺ a messenger reciting to you Allah’s revelat
   will have indeed granted them an excellent provision.
 word_by_word:
   1:
-    arabic: رَّسُوۡلًا
+    arabic: رَّسُولٗا
     translation: A Messenger
     transliteration: rasūlan
   2:
-    arabic: يَّتۡلُوۡا
+    arabic: يَتۡلُواْ
     translation: reciting
     transliteration: yatlū
   3:
-    arabic: عَلَيۡكُمۡ
+    arabic: عَلَيۡكُمۡ ءَ
     translation: to you
     transliteration: ʿalaykum
   4:
-    arabic: اٰيٰتِ
+    arabic: ايَٰتِ
     translation: (the) Verses
     transliteration: āyāti
   5:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (of) Allah
     transliteration: l-lahi
   6:
-    arabic: مُبَيِّنٰتٍ
+    arabic: مُبَيِّنَٰتٖ
     translation: clear
     transliteration: mubayyinātin
   7:
@@ -38,19 +38,19 @@ word_by_word:
     translation: that he may bring out
     transliteration: liyukh'rija
   8:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ ءَ
     translation: those who
     transliteration: alladhīna
   9:
-    arabic: اٰمَنُوۡا
+    arabic: امَنُواْ
     translation: believe
     transliteration: āmanū
   10:
-    arabic: وَعَمِلُوا
+    arabic: وَعَمِلُواْ
     translation: and do
     transliteration: waʿamilū
   11:
-    arabic: الصّٰلِحٰتِ
+    arabic: ٱلصَّٰلِحَٰتِ
     translation: righteous deeds
     transliteration: l-ṣāliḥāti
   12:
@@ -58,27 +58,27 @@ word_by_word:
     translation: from
     transliteration: mina
   13:
-    arabic: الظُّلُمٰتِ
+    arabic: ٱلظُّلُمَٰتِ
     translation: the darkness[es]
     transliteration: l-ẓulumāti
   14:
-    arabic: اِلَى
+    arabic: إِلَى
     translation: towards
     transliteration: ilā
   15:
-    arabic: النُّوۡرِ​ؕ
+    arabic: ٱلنُّورِۚ
     translation: the light
     transliteration: l-nūri
   16:
-    arabic: وَمَنۡ
+    arabic: وَمَن
     translation: And whoever
     transliteration: waman
   17:
-    arabic: يُّؤۡمِنۡۢ
+    arabic: يُؤۡمِنۢ
     translation: believes
     transliteration: yu'min
   18:
-    arabic: بِاللّٰهِ
+    arabic: بِٱللَّهِ
     translation: in Allah
     transliteration: bil-lahi
   19:
@@ -86,23 +86,23 @@ word_by_word:
     translation: and does
     transliteration: wayaʿmal
   20:
-    arabic: صَالِحًـا
+    arabic: صَٰلِحٗا
     translation: righteous deeds
     transliteration: ṣāliḥan
   21:
-    arabic: يُّدۡخِلۡهُ
+    arabic: يُدۡخِلۡهُ
     translation: He will admit him
     transliteration: yud'khil'hu
   22:
-    arabic: جَنّٰتٍ
+    arabic: جَنَّٰتٖ
     translation: (into) Gardens
     transliteration: jannātin
   23:
-    arabic: تَجۡرِىۡ
+    arabic: تَجۡرِي
     translation: flow
     transliteration: tajrī
   24:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   25:
@@ -110,19 +110,19 @@ word_by_word:
     translation: underneath it
     transliteration: taḥtihā
   26:
-    arabic: الۡاَنۡهٰرُ
+    arabic: ٱلۡأَنۡهَٰرُ
     translation: the rivers
     transliteration: l-anhāru
   27:
-    arabic: خٰلِدِيۡنَ
+    arabic: خَٰلِدِينَ
     translation: abiding
     transliteration: khālidīna
   28:
-    arabic: فِيۡهَاۤ
+    arabic: فِيهَآ
     translation: therein
     transliteration: fīhā
   29:
-    arabic: اَبَدًا​ؕ
+    arabic: أَبَدٗاۖ
     translation: forever
     transliteration: abadan
   30:
@@ -130,19 +130,19 @@ word_by_word:
     translation: Indeed
     transliteration: qad
   31:
-    arabic: اَحۡسَنَ
+    arabic: أَحۡسَنَ
     translation: Has been (granted) good
     transliteration: aḥsana
   32:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: (by) Allah
     transliteration: l-lahu
   33:
-    arabic: لَهٗ
+    arabic: لَهُۥ
     translation: for him
     transliteration: lahu
   34:
-    arabic: رِزۡقًا‏
+    arabic: رِزۡقًا
     translation: provision
     transliteration: riz'qan
 ---

@@ -1,19 +1,19 @@
 ---
-arabic_ayat: "اَللّٰهُ الَّذِىۡ يُرۡسِلُ الرِّيٰحَ فَتُثِيۡرُ سَحَابًا فَيَبۡسُطُهٗ\
-  \ فِى السَّمَآءِ كَيۡفَ يَشَآءُ وَيَجۡعَلُهٗ كِسَفًا فَتَرَى الۡوَدۡقَ يَخۡرُجُ\
-  \ مِنۡ خِلٰلِهٖ​ۚ فَاِذَاۤ اَصَابَ بِهٖ مَنۡ يَّشَآءُ مِنۡ عِبَادِهٖۤ اِذَا هُمۡ\
-  \ يَسۡتَبۡشِرُوۡنَۚ‏ \uFEFF\uFEFF"
+arabic_ayat: ٱللَّهُ ٱلَّذِي يُرۡسِلُ ٱلرِّيَٰحَ فَتُثِيرُ سَحَابٗا فَيَبۡسُطُهُۥ
+  فِي ٱلسَّمَآءِ كَيۡفَ يَشَآءُ وَيَجۡعَلُهُۥ كِسَفٗا فَتَرَى ٱلۡوَدۡقَ يَخۡرُجُ
+  مِنۡ خِلَٰلِهِۦۖ فَإِذَآ أَصَابَ بِهِۦ مَن يَشَآءُ مِنۡ عِبَادِهِۦٓ إِذَا هُمۡ
+  يَسۡتَبۡشِرُونَ
 sentence_translation: It is Allah Who sends the winds, which then stir up ˹vapour,
   forming˺ clouds, which He then spreads out in the sky or piles up into masses as
   He wills, from which you see rain come forth. Then as soon as He causes it to fall
   on whoever He wills of His servants, they rejoice,
 word_by_word:
   1:
-    arabic: اَللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: al-lahu
   2:
-    arabic: الَّذِىۡ
+    arabic: ٱلَّذِي
     translation: (is) the One Who
     transliteration: alladhī
   3:
@@ -21,27 +21,27 @@ word_by_word:
     translation: sends
     transliteration: yur'silu
   4:
-    arabic: الرِّيٰحَ
+    arabic: ٱلرِّيَٰحَ
     translation: the winds
     transliteration: l-riyāḥa
   5:
-    arabic: فَتُثِيۡرُ
+    arabic: فَتُثِيرُ
     translation: so they raise
     transliteration: fatuthīru
   6:
-    arabic: سَحَابًا
+    arabic: سَحَابٗا
     translation: (the) clouds
     transliteration: saḥāban
   7:
-    arabic: فَيَبۡسُطُهٗ
+    arabic: فَيَبۡسُطُهُۥ
     translation: then He spreads them
     transliteration: fayabsuṭuhu
   8:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   9:
-    arabic: السَّمَآءِ
+    arabic: ٱلسَّمَآءِ
     translation: the sky
     transliteration: l-samāi
   10:
@@ -53,11 +53,11 @@ word_by_word:
     translation: He wills
     transliteration: yashāu
   12:
-    arabic: وَيَجۡعَلُهٗ
+    arabic: وَيَجۡعَلُهُۥ
     translation: and He makes them
     transliteration: wayajʿaluhu
   13:
-    arabic: كِسَفًا
+    arabic: كِسَفٗا
     translation: fragments
     transliteration: kisafan
   14:
@@ -65,7 +65,7 @@ word_by_word:
     translation: so you see
     transliteration: fatarā
   15:
-    arabic: الۡوَدۡقَ
+    arabic: ٱلۡوَدۡقَ
     translation: the rain
     transliteration: l-wadqa
   16:
@@ -77,27 +77,27 @@ word_by_word:
     translation: from
     transliteration: min
   18:
-    arabic: خِلٰلِهٖ​ۚ
+    arabic: خِلَٰلِهِۦۖ
     translation: their midst
     transliteration: khilālihi
   19:
-    arabic: فَاِذَاۤ
+    arabic: فَإِذَآ
     translation: Then when
     transliteration: fa-idhā
   20:
-    arabic: اَصَابَ
+    arabic: أَصَابَ
     translation: He causes it to fall on
     transliteration: aṣāba
   21:
-    arabic: بِهٖ
+    arabic: بِهِۦ
     translation: He causes it to fall on
     transliteration: bihi
   22:
-    arabic: مَنۡ
+    arabic: مَن
     translation: whom
     transliteration: man
   23:
-    arabic: يَّشَآءُ
+    arabic: يَشَآءُ
     translation: He wills
     transliteration: yashāu
   24:
@@ -105,11 +105,11 @@ word_by_word:
     translation: of
     transliteration: min
   25:
-    arabic: عِبَادِهٖۤ
+    arabic: عِبَادِهِۦٓ
     translation: His slaves
     transliteration: ʿibādihi
   26:
-    arabic: اِذَا
+    arabic: إِذَا
     translation: behold
     transliteration: idhā
   27:
@@ -117,7 +117,7 @@ word_by_word:
     translation: They
     transliteration: hum
   28:
-    arabic: "يَسۡتَبۡشِرُوۡنَۚ‏ \uFEFF\uFEFF"
+    arabic: يَسۡتَبۡشِرُونَ
     translation: rejoice
     transliteration: yastabshirūna
 ---

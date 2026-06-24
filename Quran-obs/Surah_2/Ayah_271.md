@@ -1,21 +1,21 @@
 ---
-arabic_ayat: اِنۡ تُبۡدُوا الصَّدَقٰتِ فَنِعِمَّا هِىَ​ۚ وَاِنۡ تُخۡفُوۡهَا وَ تُؤۡتُوۡهَا
-  الۡفُقَرَآءَ فَهُوَ خَيۡرٌ لَّكُمۡ​ؕ وَيُكَفِّرُ عَنۡكُمۡ مِّنۡ سَيِّاٰتِكُمۡ​ؕ
-  وَاللّٰهُ بِمَا تَعۡمَلُوۡنَ خَبِيۡرٌ‏
+arabic_ayat: إِن تُبۡدُواْ ٱلصَّدَقَٰتِ فَنِعِمَّا هِيَۖ وَإِن تُخۡفُوهَا وَتُؤۡتُوهَا
+  ٱلۡفُقَرَآءَ فَهُوَ خَيۡرٞ لَّكُمۡۚ وَيُكَفِّرُ عَنكُم مِّن سَيِّـَٔاتِكُمۡۗ وَٱللَّهُ
+  بِمَا تَعۡمَلُونَ خَبِيرٞ
 sentence_translation: To give charity publicly is good, but to give to the poor privately
   is better for you, and will absolve you of your sins. And Allah is All-Aware of
   what you do.
 word_by_word:
   1:
-    arabic: اِنۡ
+    arabic: إِن
     translation: If
     transliteration: in
   2:
-    arabic: تُبۡدُوا
+    arabic: تُبۡدُواْ
     translation: you disclose
     transliteration: tub'dū
   3:
-    arabic: الصَّدَقٰتِ
+    arabic: ٱلصَّدَقَٰتِ
     translation: the charities
     transliteration: l-ṣadaqāti
   4:
@@ -23,23 +23,23 @@ word_by_word:
     translation: then good
     transliteration: faniʿimmā
   5:
-    arabic: هِىَ​ۚ
+    arabic: هِيَۖ
     translation: it (is)
     transliteration: hiya
   6:
-    arabic: وَاِنۡ
+    arabic: وَإِن
     translation: But if
     transliteration: wa-in
   7:
-    arabic: تُخۡفُوۡهَا
+    arabic: تُخۡفُوهَا
     translation: you keep it secret
     transliteration: tukh'fūhā
   8:
-    arabic: وَ تُؤۡتُوۡهَا
+    arabic: وَتُؤۡتُوهَا
     translation: and give it
     transliteration: watu'tūhā
   9:
-    arabic: الۡفُقَرَآءَ
+    arabic: ٱلۡفُقَرَآءَ
     translation: (to) the poor
     transliteration: l-fuqarāa
   10:
@@ -47,11 +47,11 @@ word_by_word:
     translation: then it
     transliteration: fahuwa
   11:
-    arabic: خَيۡرٌ
+    arabic: خَيۡرٞ
     translation: (is) better
     transliteration: khayrun
   12:
-    arabic: لَّكُمۡ​ؕ
+    arabic: لَّكُمۡۚ
     translation: for you
     transliteration: lakum
   13:
@@ -59,19 +59,19 @@ word_by_word:
     translation: And He will remove
     transliteration: wayukaffiru
   14:
-    arabic: عَنۡكُمۡ
+    arabic: عَنكُم
     translation: from you
     transliteration: ʿankum
   15:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: '[of]'
     transliteration: min
   16:
-    arabic: سَيِّاٰتِكُمۡ​ؕ
+    arabic: سَيِّـَٔاتِكُمۡۗ
     translation: your evil deeds
     transliteration: sayyiātikum
   17:
-    arabic: وَاللّٰهُ
+    arabic: وَٱللَّهُ
     translation: And Allah
     transliteration: wal-lahu
   18:
@@ -79,11 +79,11 @@ word_by_word:
     translation: with what
     transliteration: bimā
   19:
-    arabic: تَعۡمَلُوۡنَ
+    arabic: تَعۡمَلُونَ
     translation: you do
     transliteration: taʿmalūna
   20:
-    arabic: خَبِيۡرٌ‏
+    arabic: خَبِيرٞ
     translation: (is) All-Aware
     transliteration: khabīrun
 ---

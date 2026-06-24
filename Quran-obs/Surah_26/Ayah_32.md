@@ -1,9 +1,9 @@
 ---
-arabic_ayat: ​فَاَ لۡقٰى عَصَاهُ فَاِذَا هِىَ ثُعۡبَانٌ مُّبِيۡنٌ​ ۖ ​​ۚ‏
+arabic_ayat: فَأَلۡقَىٰ عَصَاهُ فَإِذَا هِيَ ثُعۡبَانٞ مُّبِينٞ
 sentence_translation: So he threw down his staff and—behold!—it became a real snake.
 word_by_word:
   1:
-    arabic: ​فَاَ لۡقٰى
+    arabic: فَأَلۡقَىٰ
     translation: So he threw
     transliteration: fa-alqā
   2:
@@ -11,19 +11,19 @@ word_by_word:
     translation: his staff
     transliteration: ʿaṣāhu
   3:
-    arabic: فَاِذَا
+    arabic: فَإِذَا
     translation: and behold
     transliteration: fa-idhā
   4:
-    arabic: هِىَ
+    arabic: هِيَ
     translation: It
     transliteration: hiya
   5:
-    arabic: ثُعۡبَانٌ
+    arabic: ثُعۡبَانٞ
     translation: (was) a serpent
     transliteration: thuʿ'bānun
   6:
-    arabic: مُّبِيۡنٌ​ ۖ ​​ۚ‏
+    arabic: مُّبِينٞ
     translation: manifest
     transliteration: mubīnun
 ---

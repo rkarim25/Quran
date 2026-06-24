@@ -1,11 +1,11 @@
 ---
-arabic_ayat: وَاَمَّا مَنۡ اُوۡتِىَ كِتٰبَهٗ بِشِمَالِهٖ  ۙ فَيَقُوۡلُ يٰلَيۡتَنِىۡ
-  لَمۡ اُوۡتَ كِتٰبِيَهۡ​ۚ‏
+arabic_ayat: وَأَمَّا مَنۡ أُوتِيَ كِتَٰبَهُۥ بِشِمَالِهِۦ فَيَقُولُ يَٰلَيۡتَنِي
+  لَمۡ أُوتَ كِتَٰبِيَهۡ
 sentence_translation: And as for those given their record in their left hand, they
   will cry ˹bitterly˺, “I wish I had not been given my record,
 word_by_word:
   1:
-    arabic: وَاَمَّا
+    arabic: وَأَمَّا
     translation: But as for
     transliteration: wa-ammā
   2:
@@ -13,23 +13,23 @@ word_by_word:
     translation: (him) who
     transliteration: man
   3:
-    arabic: اُوۡتِىَ
+    arabic: أُوتِيَ
     translation: is given
     transliteration: ūtiya
   4:
-    arabic: كِتٰبَهٗ
+    arabic: كِتَٰبَهُۥ
     translation: his record
     transliteration: kitābahu
   5:
-    arabic: بِشِمَالِهٖ  ۙ
+    arabic: بِشِمَالِهِۦ
     translation: in his left hand
     transliteration: bishimālihi
   6:
-    arabic: فَيَقُوۡلُ
+    arabic: فَيَقُولُ
     translation: will say
     transliteration: fayaqūlu
   7:
-    arabic: يٰلَيۡتَنِىۡ
+    arabic: يَٰلَيۡتَنِي
     translation: O! I wish
     transliteration: yālaytanī
   8:
@@ -37,11 +37,11 @@ word_by_word:
     translation: not
     transliteration: lam
   9:
-    arabic: اُوۡتَ
+    arabic: أُوتَ
     translation: I had been given
     transliteration: ūta
   10:
-    arabic: كِتٰبِيَهۡ​ۚ‏
+    arabic: كِتَٰبِيَهۡ
     translation: my record
     transliteration: kitābiyah
 ---

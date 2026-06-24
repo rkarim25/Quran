@@ -1,23 +1,23 @@
 ---
-arabic_ayat: وَقَالُوۡا رَبَّنَاۤ اِنَّاۤ اَطَعۡنَا سَادَتَنَا وَكُبَرَآءَنَا فَاَضَلُّوۡنَا
-  السَّبِيۡلَا‏
+arabic_ayat: وَقَالُواْ رَبَّنَآ إِنَّآ أَطَعۡنَا سَادَتَنَا وَكُبَرَآءَنَا فَأَضَلُّونَا
+  ٱلسَّبِيلَا۠
 sentence_translation: And they will say, “Our Lord! We obeyed our leaders and elite,
   but they led us astray from the ˹Right˺ Way.
 word_by_word:
   1:
-    arabic: وَقَالُوۡا
+    arabic: وَقَالُواْ
     translation: And they will say
     transliteration: waqālū
   2:
-    arabic: رَبَّنَاۤ
+    arabic: رَبَّنَآ
     translation: Our Lord
     transliteration: rabbanā
   3:
-    arabic: اِنَّاۤ
+    arabic: إِنَّآ
     translation: Indeed, we
     transliteration: innā
   4:
-    arabic: اَطَعۡنَا
+    arabic: أَطَعۡنَا
     translation: '[we] obeyed'
     transliteration: aṭaʿnā
   5:
@@ -29,11 +29,11 @@ word_by_word:
     translation: and our great men
     transliteration: wakubarāanā
   7:
-    arabic: فَاَضَلُّوۡنَا
+    arabic: فَأَضَلُّونَا
     translation: and they misled us
     transliteration: fa-aḍallūnā
   8:
-    arabic: السَّبِيۡلَا‏
+    arabic: ٱلسَّبِيلَا۠
     translation: (from) the Way
     transliteration: l-sabīlā
 ---

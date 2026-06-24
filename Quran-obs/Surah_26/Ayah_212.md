@@ -1,9 +1,9 @@
 ---
-arabic_ayat: اِنَّهُمۡ عَنِ السَّمۡعِ لَمَعۡزُوۡلُوۡنَؕ‏
+arabic_ayat: إِنَّهُمۡ عَنِ ٱلسَّمۡعِ لَمَعۡزُولُونَ
 sentence_translation: for they are strictly barred from ˹even˺ overhearing ˹it˺.
 word_by_word:
   1:
-    arabic: اِنَّهُمۡ
+    arabic: إِنَّهُمۡ
     translation: Indeed, they
     transliteration: innahum
   2:
@@ -11,11 +11,11 @@ word_by_word:
     translation: from
     transliteration: ʿani
   3:
-    arabic: السَّمۡعِ
+    arabic: ٱلسَّمۡعِ
     translation: the hearing
     transliteration: l-samʿi
   4:
-    arabic: لَمَعۡزُوۡلُوۡنَؕ‏
+    arabic: لَمَعۡزُولُونَ
     translation: (are) surely banished
     transliteration: lamaʿzūlūna
 ---

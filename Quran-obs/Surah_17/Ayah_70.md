@@ -1,13 +1,13 @@
 ---
-arabic_ayat: وَلَـقَدۡ كَرَّمۡنَا بَنِىۡۤ اٰدَمَ وَحَمَلۡنٰهُمۡ فِى الۡبَرِّ وَالۡبَحۡرِ
-  وَرَزَقۡنٰهُمۡ مِّنَ الطَّيِّبٰتِ وَفَضَّلۡنٰهُمۡ عَلٰى كَثِيۡرٍ مِّمَّنۡ خَلَقۡنَا
-  تَفۡضِيۡلًا‏
+arabic_ayat: ۞ وَلَقَدۡ كَرَّمۡنَا بَنِيٓ ءَادَمَ وَحَمَلۡنَٰهُمۡ فِي ٱلۡبَرِّ وَٱلۡبَحۡرِ
+  وَرَزَقۡنَٰهُم مِّنَ ٱلطَّيِّبَٰتِ وَفَضَّلۡنَٰهُمۡ عَلَىٰ كَثِيرٖ مِّمَّنۡ خَلَقۡنَا
+  تَفۡضِيلٗا
 sentence_translation: Indeed, We have dignified the children of Adam, carried them
   on land and sea, granted them good and lawful provisions, and privileged them far
   above many of Our creatures.
 word_by_word:
   1:
-    arabic: ۞ وَلَـقَدۡ
+    arabic: ۞ وَلَقَدۡ
     translation: And certainly
     transliteration: walaqad
   2:
@@ -15,31 +15,31 @@ word_by_word:
     translation: We have honored
     transliteration: karramnā
   3:
-    arabic: بَنِىۡۤ
+    arabic: بَنِيٓ ءَ
     translation: (the) children of Adam
     transliteration: banī
   4:
-    arabic: اٰدَمَ
+    arabic: ادَمَ
     translation: (the) children of Adam
     transliteration: ādama
   5:
-    arabic: وَحَمَلۡنٰهُمۡ
+    arabic: وَحَمَلۡنَٰهُمۡ
     translation: and We carried them
     transliteration: waḥamalnāhum
   6:
-    arabic: فِى
+    arabic: فِي
     translation: 'on'
     transliteration: fī
   7:
-    arabic: الۡبَرِّ
+    arabic: ٱلۡبَرِّ
     translation: the land
     transliteration: l-bari
   8:
-    arabic: وَالۡبَحۡرِ
+    arabic: وَٱلۡبَحۡرِ
     translation: and the sea
     transliteration: wal-baḥri
   9:
-    arabic: وَرَزَقۡنٰهُمۡ
+    arabic: وَرَزَقۡنَٰهُم
     translation: and We have provided them
     transliteration: warazaqnāhum
   10:
@@ -47,19 +47,19 @@ word_by_word:
     translation: of
     transliteration: mina
   11:
-    arabic: الطَّيِّبٰتِ
+    arabic: ٱلطَّيِّبَٰتِ
     translation: the good things
     transliteration: l-ṭayibāti
   12:
-    arabic: وَفَضَّلۡنٰهُمۡ
+    arabic: وَفَضَّلۡنَٰهُمۡ
     translation: and We preferred them
     transliteration: wafaḍḍalnāhum
   13:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: over
     transliteration: ʿalā
   14:
-    arabic: كَثِيۡرٍ
+    arabic: كَثِيرٖ
     translation: many
     transliteration: kathīrin
   15:
@@ -71,7 +71,7 @@ word_by_word:
     translation: We have created
     transliteration: khalaqnā
   17:
-    arabic: تَفۡضِيۡلًا‏
+    arabic: تَفۡضِيلٗا
     translation: (with) preference
     transliteration: tafḍīlan
 ---

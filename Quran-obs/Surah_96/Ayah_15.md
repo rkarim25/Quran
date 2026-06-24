@@ -1,14 +1,14 @@
 ---
-arabic_ayat: كَلَّا لَٮِٕنۡ لَّمۡ يَنۡتَهِ  ۙ لَنَسۡفَعًۢا بِالنَّاصِيَةِۙ‏
+arabic_ayat: كـَلَّا لَئِن لَّمۡ يَنتَهِ لَنَسۡفَعَۢا بِٱلنَّاصِيَةِ
 sentence_translation: But no! If he does not desist, We will certainly drag him by
   the forelock—
 word_by_word:
   1:
-    arabic: كَلَّا
+    arabic: كـَلَّا
     translation: Nay
     transliteration: kallā
   2:
-    arabic: لَٮِٕنۡ
+    arabic: لَئِن
     translation: If
     transliteration: la-in
   3:
@@ -16,15 +16,15 @@ word_by_word:
     translation: not
     transliteration: lam
   4:
-    arabic: يَنۡتَهِ  ۙ
+    arabic: يَنتَهِ
     translation: he desists
     transliteration: yantahi
   5:
-    arabic: لَنَسۡفَعًۢا
+    arabic: لَنَسۡفَعَۢا
     translation: surely We will drag him
     transliteration: lanasfaʿan
   6:
-    arabic: بِالنَّاصِيَةِۙ‏
+    arabic: بِٱلنَّاصِيَةِ
     translation: by the forelock
     transliteration: bil-nāṣiyati
 ---

@@ -1,64 +1,64 @@
 ---
-arabic_ayat: وَمِنۡ اٰيٰتِهٖ مَنَامُكُمۡ بِالَّيۡلِ وَالنَّهَارِ وَابۡتِغَآؤُكُمۡ
-  مِّنۡ فَضۡلِهٖ​ؕ اِنَّ فِىۡ ذٰلِكَ لَاٰيٰتٍ لِّقَوۡمٍ يَّسۡمَعُوۡنَ‏
+arabic_ayat: وَمِنۡ ءَايَٰتِهِۦ مَنَامُكُم بِٱلَّيۡلِ وَٱلنَّهَارِ وَٱبۡتِغَآؤُكُم
+  مِّن فَضۡلِهِۦٓۚ إِنَّ فِي ذَٰلِكَ لَأٓيَٰتٖ لِّقَوۡمٖ يَسۡمَعُونَ
 sentence_translation: And one of His signs is your sleep by night and by day ˹for
   rest˺ as well as your seeking His bounty ˹in both˺. Surely in this are signs for
   people who listen.
 word_by_word:
   1:
-    arabic: وَمِنۡ
+    arabic: وَمِنۡ ءَ
     translation: And among
     transliteration: wamin
   2:
-    arabic: اٰيٰتِهٖ
+    arabic: ايَٰتِهِۦ
     translation: His Signs
     transliteration: āyātihi
   3:
-    arabic: مَنَامُكُمۡ
+    arabic: مَنَامُكُم
     translation: (is) your sleep
     transliteration: manāmukum
   4:
-    arabic: بِالَّيۡلِ
+    arabic: بِٱلَّيۡلِ
     translation: by night
     transliteration: bi-al-layli
   5:
-    arabic: وَالنَّهَارِ
+    arabic: وَٱلنَّهَارِ
     translation: and the day
     transliteration: wal-nahāri
   6:
-    arabic: وَابۡتِغَآؤُكُمۡ
+    arabic: وَٱبۡتِغَآؤُكُم
     translation: '[and] your seeking'
     transliteration: wa-ib'tighāukum
   7:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: of
     transliteration: min
   8:
-    arabic: فَضۡلِهٖ​ؕ
+    arabic: فَضۡلِهِۦٓۚ
     translation: His Bounty
     transliteration: faḍlihi
   9:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   10:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   11:
-    arabic: ذٰلِكَ
+    arabic: ذَٰلِكَ
     translation: that
     transliteration: dhālika
   12:
-    arabic: لَاٰيٰتٍ
+    arabic: لَأٓيَٰتٖ
     translation: surely (are) Signs
     transliteration: laāyātin
   13:
-    arabic: لِّقَوۡمٍ
+    arabic: لِّقَوۡمٖ
     translation: for a people
     transliteration: liqawmin
   14:
-    arabic: يَّسۡمَعُوۡنَ‏
+    arabic: يَسۡمَعُونَ
     translation: who listen
     transliteration: yasmaʿūna
 ---

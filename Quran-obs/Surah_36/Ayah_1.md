@@ -1,9 +1,9 @@
 ---
-arabic_ayat: يٰسٓ ۚ‏
+arabic_ayat: يسٓ
 sentence_translation: Yâ-Sĩn.
 word_by_word:
   1:
-    arabic: يٰسٓ ۚ‏
+    arabic: يسٓ
     translation: Ya Seen
     transliteration: ya-seen
 ---

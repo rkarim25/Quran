@@ -1,18 +1,18 @@
 ---
-arabic_ayat: اِنَّ لِلۡمُتَّقِيۡنَ عِنۡدَ رَبِّهِمۡ جَنّٰتِ النَّعِيۡمِ‏
+arabic_ayat: إِنَّ لِلۡمُتَّقِينَ عِندَ رَبِّهِمۡ جَنَّٰتِ ٱلنَّعِيمِ
 sentence_translation: Indeed, the righteous will have the Gardens of Bliss with their
   Lord.
 word_by_word:
   1:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   2:
-    arabic: لِلۡمُتَّقِيۡنَ
+    arabic: لِلۡمُتَّقِينَ
     translation: for the righteous
     transliteration: lil'muttaqīna
   3:
-    arabic: عِنۡدَ
+    arabic: عِندَ
     translation: with
     transliteration: ʿinda
   4:
@@ -20,11 +20,11 @@ word_by_word:
     translation: their Lord
     transliteration: rabbihim
   5:
-    arabic: جَنّٰتِ
+    arabic: جَنَّٰتِ
     translation: (are) Gardens
     transliteration: jannāti
   6:
-    arabic: النَّعِيۡمِ‏
+    arabic: ٱلنَّعِيمِ
     translation: (of) Delight
     transliteration: l-naʿīmi
 ---

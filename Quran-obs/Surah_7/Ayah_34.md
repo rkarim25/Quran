@@ -1,6 +1,6 @@
 ---
-arabic_ayat: وَلِكُلِّ اُمَّةٍ اَجَلٌ​ۚ فَاِذَا جَآءَ اَجَلُهُمۡ لَا يَسۡتَاۡخِرُوۡنَ
-  سَاعَةً​ وَّلَا يَسۡتَقۡدِمُوۡنَ‏
+arabic_ayat: وَلِكُلِّ أُمَّةٍ أَجَلٞۖ فَإِذَا جَآءَ أَجَلُهُمۡ لَا يَسۡتَأۡخِرُونَ
+  سَاعَةٗ وَلَا يَسۡتَقۡدِمُونَ
 sentence_translation: For each community there is an appointed term. When their time
   arrives, they can neither delay it for a moment, nor could they advance it.
 word_by_word:
@@ -9,15 +9,15 @@ word_by_word:
     translation: And for every
     transliteration: walikulli
   2:
-    arabic: اُمَّةٍ
+    arabic: أُمَّةٍ
     translation: nation
     transliteration: ummatin
   3:
-    arabic: اَجَلٌ​ۚ
+    arabic: أَجَلٞۖ
     translation: (is a fixed) term
     transliteration: ajalun
   4:
-    arabic: فَاِذَا
+    arabic: فَإِذَا
     translation: So when
     transliteration: fa-idhā
   5:
@@ -25,7 +25,7 @@ word_by_word:
     translation: comes
     transliteration: jāa
   6:
-    arabic: اَجَلُهُمۡ
+    arabic: أَجَلُهُمۡ
     translation: their term
     transliteration: ajaluhum
   7:
@@ -33,19 +33,19 @@ word_by_word:
     translation: (they can) not
     transliteration: lā
   8:
-    arabic: يَسۡتَاۡخِرُوۡنَ
+    arabic: يَسۡتَأۡخِرُونَ
     translation: seek to delay
     transliteration: yastakhirūna
   9:
-    arabic: سَاعَةً​
+    arabic: سَاعَةٗ
     translation: an hour
     transliteration: sāʿatan
   10:
-    arabic: وَّلَا
+    arabic: وَلَا
     translation: and not
     transliteration: walā
   11:
-    arabic: يَسۡتَقۡدِمُوۡنَ‏
+    arabic: يَسۡتَقۡدِمُونَ
     translation: seek to advance (it)
     transliteration: yastaqdimūna
 ---

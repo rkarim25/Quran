@@ -1,7 +1,7 @@
 ---
-arabic_ayat: وَمِنَ النَّاسِ وَالدَّوَآبِّ وَالۡاَنۡعَامِ مُخۡتَلِفٌ اَ لۡوَانُهٗ
-  كَذٰلِكَ ؕ اِنَّمَا يَخۡشَى اللّٰهَ مِنۡ عِبَادِهِ الۡعُلَمٰٓؤُا ؕ اِنَّ اللّٰهَ
-  عَزِيۡزٌ غَفُوۡرٌ‏
+arabic_ayat: وَمِنَ ٱلنَّاسِ وَٱلدَّوَآبِّ وَٱلۡأَنۡعَٰمِ مُخۡتَلِفٌ أَلۡوَٰنُهُۥ
+  كَذَٰلِكَۗ إِنَّمَا يَخۡشَى ٱللَّهَ مِنۡ عِبَادِهِ ٱلۡعُلَمَٰٓؤُاْۗ إِنَّ ٱللَّهَ
+  عَزِيزٌ غَفُورٌ
 sentence_translation: just as people, living beings, and cattle are of various colours
   as well. Of all of Allah’s servants, only the knowledgeable ˹of His might˺ are ˹truly˺
   in awe of Him. Allah is indeed Almighty, All-Forgiving.
@@ -11,15 +11,15 @@ word_by_word:
     translation: And among
     transliteration: wamina
   2:
-    arabic: النَّاسِ
+    arabic: ٱلنَّاسِ
     translation: men
     transliteration: l-nāsi
   3:
-    arabic: وَالدَّوَآبِّ
+    arabic: وَٱلدَّوَآبِّ
     translation: and moving creatures
     transliteration: wal-dawābi
   4:
-    arabic: وَالۡاَنۡعَامِ
+    arabic: وَٱلۡأَنۡعَٰمِ
     translation: and the cattle
     transliteration: wal-anʿāmi
   5:
@@ -27,15 +27,15 @@ word_by_word:
     translation: (are) various
     transliteration: mukh'talifun
   6:
-    arabic: اَ لۡوَانُهٗ
+    arabic: أَلۡوَٰنُهُۥ
     translation: '[their] colors'
     transliteration: alwānuhu
   7:
-    arabic: كَذٰلِكَ ؕ
+    arabic: كَذَٰلِكَۗ
     translation: likewise
     transliteration: kadhālika
   8:
-    arabic: اِنَّمَا
+    arabic: إِنَّمَا
     translation: Only
     transliteration: innamā
   9:
@@ -43,7 +43,7 @@ word_by_word:
     translation: fear
     transliteration: yakhshā
   10:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   11:
@@ -55,23 +55,23 @@ word_by_word:
     translation: His slaves
     transliteration: ʿibādihi
   13:
-    arabic: الۡعُلَمٰٓؤُا ؕ
+    arabic: ٱلۡعُلَمَٰٓؤُاْۗ
     translation: those who have knowledge
     transliteration: l-ʿulamāu
   14:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   15:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   16:
-    arabic: عَزِيۡزٌ
+    arabic: عَزِيزٌ
     translation: (is) All-Mighty
     transliteration: ʿazīzun
   17:
-    arabic: غَفُوۡرٌ‏
+    arabic: غَفُورٌ
     translation: Oft-Forgiving
     transliteration: ghafūrun
 ---

@@ -1,23 +1,23 @@
 ---
-arabic_ayat: وَلَقَدۡ اٰتَيۡنَا مُوۡسَى الۡكِتٰبَ وَجَعَلۡنَا مَعَهٗۤ اَخَاهُ هٰرُوۡنَ
-  وَزِيۡرًا​ ۖ​ ۚ‏
+arabic_ayat: وَلَقَدۡ ءَاتَيۡنَا مُوسَى ٱلۡكِتَٰبَ وَجَعَلۡنَا مَعَهُۥٓ أَخَاهُ هَٰرُونَ
+  وَزِيرٗا
 sentence_translation: We certainly gave Moses the Book and appointed his brother Aaron
   as his helper.
 word_by_word:
   1:
-    arabic: وَلَقَدۡ
+    arabic: وَلَقَدۡ ءَ
     translation: And verily
     transliteration: walaqad
   2:
-    arabic: اٰتَيۡنَا
+    arabic: اتَيۡنَا
     translation: We gave
     transliteration: ātaynā
   3:
-    arabic: مُوۡسَى
+    arabic: مُوسَى
     translation: Musa
     transliteration: mūsā
   4:
-    arabic: الۡكِتٰبَ
+    arabic: ٱلۡكِتَٰبَ
     translation: the Scripture
     transliteration: l-kitāba
   5:
@@ -25,19 +25,19 @@ word_by_word:
     translation: and We appointed
     transliteration: wajaʿalnā
   6:
-    arabic: مَعَهٗۤ
+    arabic: مَعَهُۥٓ
     translation: with him
     transliteration: maʿahu
   7:
-    arabic: اَخَاهُ
+    arabic: أَخَاهُ
     translation: his brother
     transliteration: akhāhu
   8:
-    arabic: هٰرُوۡنَ
+    arabic: هَٰرُونَ
     translation: Harun
     transliteration: hārūna
   9:
-    arabic: وَزِيۡرًا​ ۖ​ ۚ‏
+    arabic: وَزِيرٗا
     translation: (as) an assistant
     transliteration: wazīran
 ---

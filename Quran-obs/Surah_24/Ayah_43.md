@@ -1,9 +1,8 @@
 ---
-arabic_ayat: "اَلَمۡ تَرَ اَنَّ اللّٰهَ يُزۡجِىۡ سَحَابًا ثُمَّ يُؤَلِّفُ بَيۡنَهٗ\
-  \ ثُمَّ يَجۡعَلُهٗ رُكَامًا فَتَرَى الۡوَدۡقَ يَخۡرُجُ مِنۡ خِلٰلِهٖ​ۚ وَيُنَزِّلُ\
-  \ مِنَ السَّمَآءِ مِنۡ جِبَالٍ فِيۡهَا مِنۡۢ بَرَدٍ فَيُـصِيۡبُ بِهٖ مَنۡ يَّشَآءُ\
-  \ وَ يَصۡرِفُهٗ عَنۡ مَّنۡ يَّشَآءُ​ ؕ يَكَادُ سَنَا بَرۡقِهٖ يَذۡهَبُ بِالۡاَبۡصَارِؕ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: أَلَمۡ تَرَ أَنَّ ٱللَّهَ يُزۡجِي سَحَابٗا ثُمَّ يُؤَلِّفُ بَيۡنَهُۥ
+  ثُمَّ يَجۡعَلُهُۥ رُكَامٗا فَتَرَى ٱلۡوَدۡقَ يَخۡرُجُ مِنۡ خِلَٰلِهِۦ وَيُنَزِّلُ
+  مِنَ ٱلسَّمَآءِ مِن جِبَالٖ فِيهَا مِنۢ بَرَدٖ فَيُصِيبُ بِهِۦ مَن يَشَآءُ وَيَصۡرِفُهُۥ
+  عَن مَّن يَشَآءُۖ يَكَادُ سَنَا بَرۡقِهِۦ يَذۡهَبُ بِٱلۡأَبۡصَٰرِ
 sentence_translation: Do you not see that Allah gently drives the clouds, then joins
   them together, piling them up into masses, from which you see raindrops come forth?
   And He sends down from the sky mountains ˹of clouds˺ loaded with hail, pouring it
@@ -11,7 +10,7 @@ sentence_translation: Do you not see that Allah gently drives the clouds, then j
   lightning nearly takes away eyesight.
 word_by_word:
   1:
-    arabic: اَلَمۡ
+    arabic: أَلَمۡ
     translation: Do not
     transliteration: alam
   2:
@@ -19,19 +18,19 @@ word_by_word:
     translation: you see
     transliteration: tara
   3:
-    arabic: اَنَّ
+    arabic: أَنَّ
     translation: that
     transliteration: anna
   4:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   5:
-    arabic: يُزۡجِىۡ
+    arabic: يُزۡجِي
     translation: drives
     transliteration: yuz'jī
   6:
-    arabic: سَحَابًا
+    arabic: سَحَابٗا
     translation: clouds
     transliteration: saḥāban
   7:
@@ -43,7 +42,7 @@ word_by_word:
     translation: joins
     transliteration: yu-allifu
   9:
-    arabic: بَيۡنَهٗ
+    arabic: بَيۡنَهُۥ
     translation: between them
     transliteration: baynahu
   10:
@@ -51,11 +50,11 @@ word_by_word:
     translation: then
     transliteration: thumma
   11:
-    arabic: يَجۡعَلُهٗ
+    arabic: يَجۡعَلُهُۥ
     translation: makes them
     transliteration: yajʿaluhu
   12:
-    arabic: رُكَامًا
+    arabic: رُكَامٗا
     translation: (into) a mass
     transliteration: rukāman
   13:
@@ -63,7 +62,7 @@ word_by_word:
     translation: then you see
     transliteration: fatarā
   14:
-    arabic: الۡوَدۡقَ
+    arabic: ٱلۡوَدۡقَ
     translation: the rain
     transliteration: l-wadqa
   15:
@@ -75,7 +74,7 @@ word_by_word:
     translation: from
     transliteration: min
   17:
-    arabic: خِلٰلِهٖ​ۚ
+    arabic: خِلَٰلِهِۦ
     translation: their midst
     transliteration: khilālihi
   18:
@@ -87,59 +86,59 @@ word_by_word:
     translation: from
     transliteration: mina
   20:
-    arabic: السَّمَآءِ
+    arabic: ٱلسَّمَآءِ
     translation: (the) sky
     transliteration: l-samāi
   21:
-    arabic: مِنۡ
+    arabic: مِن
     translation: '[from]'
     transliteration: min
   22:
-    arabic: جِبَالٍ
+    arabic: جِبَالٖ
     translation: mountains
     transliteration: jibālin
   23:
-    arabic: فِيۡهَا
+    arabic: فِيهَا
     translation: within it
     transliteration: fīhā
   24:
-    arabic: مِنۡۢ
+    arabic: مِنۢ
     translation: '[of]'
     transliteration: min
   25:
-    arabic: بَرَدٍ
+    arabic: بَرَدٖ
     translation: (is) hail
     transliteration: baradin
   26:
-    arabic: فَيُـصِيۡبُ
+    arabic: فَيُصِيبُ
     translation: and He strikes
     transliteration: fayuṣību
   27:
-    arabic: بِهٖ
+    arabic: بِهِۦ
     translation: with it
     transliteration: bihi
   28:
-    arabic: مَنۡ
+    arabic: مَن
     translation: whom
     transliteration: man
   29:
-    arabic: يَّشَآءُ
+    arabic: يَشَآءُ
     translation: He wills
     transliteration: yashāu
   30:
-    arabic: وَ يَصۡرِفُهٗ
+    arabic: وَيَصۡرِفُهُۥ
     translation: and averts it
     transliteration: wayaṣrifuhu
   31:
-    arabic: عَنۡ
+    arabic: عَن
     translation: from
     transliteration: ʿan
   32:
-    arabic: مَّنۡ
+    arabic: مَّن
     translation: whom
     transliteration: man
   33:
-    arabic: يَّشَآءُ​ ؕ
+    arabic: يَشَآءُۖ
     translation: He wills
     transliteration: yashāu
   34:
@@ -151,7 +150,7 @@ word_by_word:
     translation: (the) flash
     transliteration: sanā
   36:
-    arabic: بَرۡقِهٖ
+    arabic: بَرۡقِهِۦ
     translation: (of) its lighting
     transliteration: barqihi
   37:
@@ -159,7 +158,7 @@ word_by_word:
     translation: takes away
     transliteration: yadhhabu
   38:
-    arabic: "بِالۡاَبۡصَارِؕ‏ \uFEFF\uFEFF"
+    arabic: بِٱلۡأَبۡصَٰرِ
     translation: the sight
     transliteration: bil-abṣāri
 ---

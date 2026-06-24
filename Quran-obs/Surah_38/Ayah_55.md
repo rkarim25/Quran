@@ -1,18 +1,18 @@
 ---
-arabic_ayat: هٰذَا​ ؕ وَاِنَّ لِلطّٰغِيۡنَ لَشَرَّ مَاٰبٍ ۙ‏
+arabic_ayat: هَٰذَاۚ وَإِنَّ لِلطَّٰغِينَ لَشَرَّ مَـَٔابٖ
 sentence_translation: 'That is that. And the transgressors will certainly have the
   worst destination:'
 word_by_word:
   1:
-    arabic: هٰذَا​ ؕ
+    arabic: هَٰذَاۚ
     translation: This (is so)
     transliteration: hādhā
   2:
-    arabic: وَاِنَّ
+    arabic: وَإِنَّ
     translation: And indeed
     transliteration: wa-inna
   3:
-    arabic: لِلطّٰغِيۡنَ
+    arabic: لِلطَّٰغِينَ
     translation: for the transgressors
     transliteration: lilṭṭāghīna
   4:
@@ -20,7 +20,7 @@ word_by_word:
     translation: surely (is) an evil
     transliteration: lasharra
   5:
-    arabic: مَاٰبٍ ۙ‏
+    arabic: مَـَٔابٖ
     translation: place of return
     transliteration: maābin
 ---

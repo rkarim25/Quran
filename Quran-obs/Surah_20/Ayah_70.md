@@ -1,27 +1,27 @@
 ---
-arabic_ayat: "فَاُلۡقِىَ السَّحَرَةُ سُجَّدًا قَالُوۡۤا اٰمَنَّا بِرَبِّ هٰرُوۡنَ\
-  \ وَمُوۡسٰى‏ \uFEFF\uFEFF"
+arabic_ayat: فَأُلۡقِيَ ٱلسَّحَرَةُ سُجَّدٗا قَالُوٓاْ ءَامَنَّا بِرَبِّ هَٰرُونَ
+  وَمُوسَىٰ
 sentence_translation: So the magicians fell down in prostration, declaring, “We believe
   in the Lord of Aaron and Moses.”
 word_by_word:
   1:
-    arabic: فَاُلۡقِىَ
+    arabic: فَأُلۡقِيَ
     translation: So were thrown down
     transliteration: fa-ul'qiya
   2:
-    arabic: السَّحَرَةُ
+    arabic: ٱلسَّحَرَةُ
     translation: the magicians
     transliteration: l-saḥaratu
   3:
-    arabic: سُجَّدًا
+    arabic: سُجَّدٗا
     translation: prostrating
     transliteration: sujjadan
   4:
-    arabic: قَالُوۡۤا
+    arabic: قَالُوٓاْ ءَ
     translation: They said
     transliteration: qālū
   5:
-    arabic: اٰمَنَّا
+    arabic: امَنَّا
     translation: We believe
     transliteration: āmannā
   6:
@@ -29,11 +29,11 @@ word_by_word:
     translation: in (the) Lord
     transliteration: birabbi
   7:
-    arabic: هٰرُوۡنَ
+    arabic: هَٰرُونَ
     translation: (of) Harun
     transliteration: hārūna
   8:
-    arabic: "وَمُوۡسٰى‏ \uFEFF\uFEFF"
+    arabic: وَمُوسَىٰ
     translation: and Musa
     transliteration: wamūsā
 ---

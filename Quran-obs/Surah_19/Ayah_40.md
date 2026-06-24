@@ -1,11 +1,10 @@
 ---
-arabic_ayat: "اِنَّا نَحۡنُ نَرِثُ الۡاَرۡضَ وَمَنۡ عَلَيۡهَا وَاِلَـيۡنَا يُرۡجَعُوۡنَ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: إِنَّا نَحۡنُ نَرِثُ ٱلۡأَرۡضَ وَمَنۡ عَلَيۡهَا وَإِلَيۡنَا يُرۡجَعُونَ
 sentence_translation: Indeed, it is We Who will succeed the earth and whoever is on
   it. And to Us they will ˹all˺ be returned.
 word_by_word:
   1:
-    arabic: اِنَّا
+    arabic: إِنَّا
     translation: Indeed, We
     transliteration: innā
   2:
@@ -17,7 +16,7 @@ word_by_word:
     translation: '[We] will inherit'
     transliteration: narithu
   4:
-    arabic: الۡاَرۡضَ
+    arabic: ٱلۡأَرۡضَ
     translation: the earth
     transliteration: l-arḍa
   5:
@@ -29,11 +28,11 @@ word_by_word:
     translation: (is) on it
     transliteration: ʿalayhā
   7:
-    arabic: وَاِلَـيۡنَا
+    arabic: وَإِلَيۡنَا
     translation: and to Us
     transliteration: wa-ilaynā
   8:
-    arabic: "يُرۡجَعُوۡنَ‏ \uFEFF\uFEFF"
+    arabic: يُرۡجَعُونَ
     translation: they will be returned
     transliteration: yur'jaʿūna
 ---

@@ -1,15 +1,14 @@
 ---
-arabic_ayat: "اَوۡ تَقُوۡلَ لَوۡ اَنَّ اللّٰهَ هَدٰٮنِىۡ لَكُنۡتُ مِنَ الۡمُتَّقِيۡنَۙ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: أَوۡ تَقُولَ لَوۡ أَنَّ ٱللَّهَ هَدَىٰنِي لَكُنتُ مِنَ ٱلۡمُتَّقِينَ
 sentence_translation: Or ˹a soul will˺ say, ‘If only Allah had guided me, I would
   have certainly been one of the righteous.’
 word_by_word:
   1:
-    arabic: اَوۡ
+    arabic: أَوۡ
     translation: Or
     transliteration: aw
   2:
-    arabic: تَقُوۡلَ
+    arabic: تَقُولَ
     translation: it should say
     transliteration: taqūla
   3:
@@ -17,19 +16,19 @@ word_by_word:
     translation: If that
     transliteration: law
   4:
-    arabic: اَنَّ
+    arabic: أَنَّ
     translation: If that
     transliteration: anna
   5:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   6:
-    arabic: هَدٰٮنِىۡ
+    arabic: هَدَىٰنِي
     translation: (had) guided me
     transliteration: hadānī
   7:
-    arabic: لَكُنۡتُ
+    arabic: لَكُنتُ
     translation: surely, I (would) have been
     transliteration: lakuntu
   8:
@@ -37,7 +36,7 @@ word_by_word:
     translation: among
     transliteration: mina
   9:
-    arabic: "الۡمُتَّقِيۡنَۙ‏ \uFEFF\uFEFF"
+    arabic: ٱلۡمُتَّقِينَ
     translation: the righteous
     transliteration: l-mutaqīna
 ---

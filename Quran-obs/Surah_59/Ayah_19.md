@@ -1,6 +1,6 @@
 ---
-arabic_ayat: وَلَا تَكُوۡنُوۡا كَالَّذِيۡنَ نَسُوا اللّٰهَ فَاَنۡسٰٮهُمۡ اَنۡفُسَهُمۡ​ؕ
-  اُولٰٓٮِٕكَ هُمُ الۡفٰسِقُوۡنَ‏
+arabic_ayat: وَلَا تَكُونُواْ كَٱلَّذِينَ نَسُواْ ٱللَّهَ فَأَنسَىٰهُمۡ أَنفُسَهُمۡۚ
+  أُوْلَٰٓئِكَ هُمُ ٱلۡفَٰسِقُونَ
 sentence_translation: And do not be like those who forgot Allah, so He made them forget
   themselves. It is they who are ˹truly˺ rebellious.
 word_by_word:
@@ -9,31 +9,31 @@ word_by_word:
     translation: And (do) not
     transliteration: walā
   2:
-    arabic: تَكُوۡنُوۡا
+    arabic: تَكُونُواْ
     translation: be
     transliteration: takūnū
   3:
-    arabic: كَالَّذِيۡنَ
+    arabic: كَٱلَّذِينَ
     translation: like those who
     transliteration: ka-alladhīna
   4:
-    arabic: نَسُوا
+    arabic: نَسُواْ
     translation: forgot
     transliteration: nasū
   5:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   6:
-    arabic: فَاَنۡسٰٮهُمۡ
+    arabic: فَأَنسَىٰهُمۡ
     translation: so He made them forget
     transliteration: fa-ansāhum
   7:
-    arabic: اَنۡفُسَهُمۡ​ؕ
+    arabic: أَنفُسَهُمۡۚ
     translation: themselves
     transliteration: anfusahum
   8:
-    arabic: اُولٰٓٮِٕكَ
+    arabic: أُوْلَٰٓئِكَ
     translation: Those
     transliteration: ulāika
   9:
@@ -41,7 +41,7 @@ word_by_word:
     translation: '[they]'
     transliteration: humu
   10:
-    arabic: الۡفٰسِقُوۡنَ‏
+    arabic: ٱلۡفَٰسِقُونَ
     translation: (are) the defiantly disobedient
     transliteration: l-fāsiqūna
 ---

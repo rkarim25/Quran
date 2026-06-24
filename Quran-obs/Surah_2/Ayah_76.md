@@ -1,38 +1,38 @@
 ---
-arabic_ayat: وَاِذَا لَـقُوۡا الَّذِيۡنَ اٰمَنُوۡا قَالُوۡآ اٰمَنَّا  ۖۚ وَاِذَا
-  خَلَا بَعۡضُهُمۡ اِلٰى بَعۡضٍ قَالُوۡآ اَ تُحَدِّثُوۡنَهُمۡ بِمَا فَتَحَ اللّٰهُ
-  عَلَيۡكُمۡ لِيُحَآجُّوۡكُمۡ بِهٖ عِنۡدَ رَبِّكُمۡ​ؕ اَفَلَا تَعۡقِلُوۡنَ‏
+arabic_ayat: وَإِذَا لَقُواْ ٱلَّذِينَ ءَامَنُواْ قَالُوٓاْ ءَامَنَّا وَإِذَا خَلَا
+  بَعۡضُهُمۡ إِلَىٰ بَعۡضٖ قَالُوٓاْ أَتُحَدِّثُونَهُم بِمَا فَتَحَ ٱللَّهُ عَلَيۡكُمۡ
+  لِيُحَآجُّوكُم بِهِۦ عِندَ رَبِّكُمۡۚ أَفَلَا تَعۡقِلُونَ
 sentence_translation: When they meet the believers they say, “We believe.” But in
   private they say ˹to each other˺, “Will you disclose to the believers the knowledge
   Allah has revealed to you, so that they may use it against you before your Lord?
   Do you not understand?”
 word_by_word:
   1:
-    arabic: وَاِذَا
+    arabic: وَإِذَا
     translation: And when
     transliteration: wa-idhā
   2:
-    arabic: لَـقُوۡا
+    arabic: لَقُواْ
     translation: they meet
     transliteration: laqū
   3:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ ءَ
     translation: those who
     transliteration: alladhīna
   4:
-    arabic: اٰمَنُوۡا
+    arabic: امَنُواْ
     translation: believe[d]
     transliteration: āmanū
   5:
-    arabic: قَالُوۡآ
+    arabic: قَالُوٓاْ ءَ
     translation: they say
     transliteration: qālū
   6:
-    arabic: اٰمَنَّا  ۖۚ
+    arabic: امَنَّا
     translation: We have believed
     transliteration: āmannā
   7:
-    arabic: وَاِذَا
+    arabic: وَإِذَا
     translation: But when
     transliteration: wa-idhā
   8:
@@ -44,19 +44,19 @@ word_by_word:
     translation: some of them
     transliteration: baʿḍuhum
   10:
-    arabic: اِلٰى
+    arabic: إِلَىٰ
     translation: with
     transliteration: ilā
   11:
-    arabic: بَعۡضٍ
+    arabic: بَعۡضٖ
     translation: some (others)
     transliteration: baʿḍin
   12:
-    arabic: قَالُوۡآ
+    arabic: قَالُوٓاْ
     translation: they say
     transliteration: qālū
   13:
-    arabic: اَ تُحَدِّثُوۡنَهُمۡ
+    arabic: أَتُحَدِّثُونَهُم
     translation: Do you tell them
     transliteration: atuḥaddithūnahum
   14:
@@ -68,7 +68,7 @@ word_by_word:
     translation: has
     transliteration: fataḥa
   16:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   17:
@@ -76,27 +76,27 @@ word_by_word:
     translation: to you
     transliteration: ʿalaykum
   18:
-    arabic: لِيُحَآجُّوۡكُمۡ
+    arabic: لِيُحَآجُّوكُم
     translation: so that they argue with you
     transliteration: liyuḥājjūkum
   19:
-    arabic: بِهٖ
+    arabic: بِهِۦ
     translation: therewith
     transliteration: bihi
   20:
-    arabic: عِنۡدَ
+    arabic: عِندَ
     translation: before
     transliteration: ʿinda
   21:
-    arabic: رَبِّكُمۡ​ؕ
+    arabic: رَبِّكُمۡۚ
     translation: your Lord
     transliteration: rabbikum
   22:
-    arabic: اَفَلَا
+    arabic: أَفَلَا
     translation: Then do (you) not
     transliteration: afalā
   23:
-    arabic: تَعۡقِلُوۡنَ‏
+    arabic: تَعۡقِلُونَ
     translation: understand
     transliteration: taʿqilūna
 ---

@@ -1,24 +1,24 @@
 ---
-arabic_ayat: اَ لَّذِيۡنَ اٰتَيۡنٰهُمُ الۡـكِتٰبَ يَعۡرِفُوۡنَهٗ كَمَا يَعۡرِفُوۡنَ
-  اَبۡنَآءَهُمُ​ۘ اَ لَّذِيۡنَ خَسِرُوۡۤا اَنۡفُسَهُمۡ فَهُمۡ لَا يُؤۡمِنُوۡنَ‏
+arabic_ayat: ٱلَّذِينَ ءَاتَيۡنَٰهُمُ ٱلۡكِتَٰبَ يَعۡرِفُونَهُۥ كَمَا يَعۡرِفُونَ
+  أَبۡنَآءَهُمُۘ ٱلَّذِينَ خَسِرُوٓاْ أَنفُسَهُمۡ فَهُمۡ لَا يُؤۡمِنُونَ
 sentence_translation: Those to whom We gave the Scripture recognize him ˹to be a true
   prophet˺ as they recognize their own children. Those who have ruined themselves
   will never believe.
 word_by_word:
   1:
-    arabic: اَ لَّذِيۡنَ
+    arabic: ٱلَّذِينَ ءَ
     translation: Those (to) whom
     transliteration: alladhīna
   2:
-    arabic: اٰتَيۡنٰهُمُ
+    arabic: اتَيۡنَٰهُمُ
     translation: We have given them
     transliteration: ātaynāhumu
   3:
-    arabic: الۡـكِتٰبَ
+    arabic: ٱلۡكِتَٰبَ
     translation: the Book
     transliteration: l-kitāba
   4:
-    arabic: يَعۡرِفُوۡنَهٗ
+    arabic: يَعۡرِفُونَهُۥ
     translation: they recognize him
     transliteration: yaʿrifūnahu
   5:
@@ -26,23 +26,23 @@ word_by_word:
     translation: as
     transliteration: kamā
   6:
-    arabic: يَعۡرِفُوۡنَ
+    arabic: يَعۡرِفُونَ
     translation: they recognize
     transliteration: yaʿrifūna
   7:
-    arabic: اَبۡنَآءَهُمُ​ۘ
+    arabic: أَبۡنَآءَهُمُۘ
     translation: their sons
     transliteration: abnāahumu
   8:
-    arabic: اَ لَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: Those who
     transliteration: alladhīna
   9:
-    arabic: خَسِرُوۡۤا
+    arabic: خَسِرُوٓاْ
     translation: lost
     transliteration: khasirū
   10:
-    arabic: اَنۡفُسَهُمۡ
+    arabic: أَنفُسَهُمۡ
     translation: themselves
     transliteration: anfusahum
   11:
@@ -54,7 +54,7 @@ word_by_word:
     translation: (do) not
     transliteration: lā
   13:
-    arabic: يُؤۡمِنُوۡنَ‏
+    arabic: يُؤۡمِنُونَ
     translation: believe
     transliteration: yu'minūna
 ---

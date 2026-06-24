@@ -1,6 +1,6 @@
 ---
-arabic_ayat: فَوَرَبِّكَ لَـنَحۡشُرَنَّهُمۡ وَالشَّيٰطِيۡنَ ثُمَّ لَــنُحۡضِرَنَّهُمۡ
-  حَوۡلَ جَهَـنَّمَ جِثِيًّا​ ۚ‏
+arabic_ayat: فَوَرَبِّكَ لَنَحۡشُرَنَّهُمۡ وَٱلشَّيَٰطِينَ ثُمَّ لَنُحۡضِرَنَّهُمۡ
+  حَوۡلَ جَهَنَّمَ جِثِيّٗا
 sentence_translation: By your Lord ˹O Prophet˺! We will surely gather them along with
   the devils, and then set them around Hell on their knees.
 word_by_word:
@@ -9,11 +9,11 @@ word_by_word:
     translation: So by your Lord
     transliteration: fawarabbika
   2:
-    arabic: لَـنَحۡشُرَنَّهُمۡ
+    arabic: لَنَحۡشُرَنَّهُمۡ
     translation: surely, We will gather them
     transliteration: lanaḥshurannahum
   3:
-    arabic: وَالشَّيٰطِيۡنَ
+    arabic: وَٱلشَّيَٰطِينَ
     translation: and the devils
     transliteration: wal-shayāṭīna
   4:
@@ -21,7 +21,7 @@ word_by_word:
     translation: then
     transliteration: thumma
   5:
-    arabic: لَــنُحۡضِرَنَّهُمۡ
+    arabic: لَنُحۡضِرَنَّهُمۡ
     translation: surely, We will bring them
     transliteration: lanuḥ'ḍirannahum
   6:
@@ -29,11 +29,11 @@ word_by_word:
     translation: around
     transliteration: ḥawla
   7:
-    arabic: جَهَـنَّمَ
+    arabic: جَهَنَّمَ
     translation: Hell
     transliteration: jahannama
   8:
-    arabic: جِثِيًّا​ ۚ‏
+    arabic: جِثِيّٗا
     translation: bent (on) knees
     transliteration: jithiyyan
 ---

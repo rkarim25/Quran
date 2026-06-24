@@ -1,6 +1,6 @@
 ---
-arabic_ayat: فَقُلۡنَا اضۡرِبُوۡهُ بِبَعۡضِهَا ​ؕ كَذٰلِكَ يُحۡىِ اللّٰهُ الۡمَوۡتٰى
-  ۙ وَيُرِيۡکُمۡ اٰيٰتِهٖ لَعَلَّكُمۡ تَعۡقِلُوۡنَ‏
+arabic_ayat: فَقُلۡنَا ٱضۡرِبُوهُ بِبَعۡضِهَاۚ كَذَٰلِكَ يُحۡيِ ٱللَّهُ ٱلۡمَوۡتَىٰ
+  وَيُرِيكُمۡ ءَايَٰتِهِۦ لَعَلَّكُمۡ تَعۡقِلُونَ
 sentence_translation: So We instructed, “Strike the dead body with a piece of the
   cow.” This is how ˹easily˺ Allah brings the dead to life, showing you His signs
   so that you may understand.
@@ -10,35 +10,35 @@ word_by_word:
     translation: So We said
     transliteration: faqul'nā
   2:
-    arabic: اضۡرِبُوۡهُ
+    arabic: ٱضۡرِبُوهُ
     translation: Strike him
     transliteration: iḍ'ribūhu
   3:
-    arabic: بِبَعۡضِهَا ​ؕ
+    arabic: بِبَعۡضِهَاۚ
     translation: with a part of it
     transliteration: bibaʿḍihā
   4:
-    arabic: كَذٰلِكَ
+    arabic: كَذَٰلِكَ
     translation: Like this
     transliteration: kadhālika
   5:
-    arabic: يُحۡىِ
+    arabic: يُحۡيِ
     translation: revives
     transliteration: yuḥ'yī
   6:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   7:
-    arabic: الۡمَوۡتٰى ۙ
+    arabic: ٱلۡمَوۡتَىٰ
     translation: the dead
     transliteration: l-mawtā
   8:
-    arabic: وَيُرِيۡکُمۡ
+    arabic: وَيُرِيكُمۡ ءَ
     translation: and shows you
     transliteration: wayurīkum
   9:
-    arabic: اٰيٰتِهٖ
+    arabic: ايَٰتِهِۦ
     translation: His Signs
     transliteration: āyātihi
   10:
@@ -46,7 +46,7 @@ word_by_word:
     translation: perhaps you may
     transliteration: laʿallakum
   11:
-    arabic: تَعۡقِلُوۡنَ‏
+    arabic: تَعۡقِلُونَ
     translation: use your intellect
     transliteration: taʿqilūna
 ---

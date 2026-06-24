@@ -1,6 +1,6 @@
 ---
-arabic_ayat: يَعۡلَمُ مَا فِى السَّمٰوٰتِ وَالۡاَرۡضِ وَيَعۡلَمُ مَا تُسِرُّوۡنَ وَمَا
-  تُعۡلِنُوۡنَ​ؕ وَاللّٰهُ عَلِيۡمٌۢ بِذَاتِ الصُّدُوۡرِ‏
+arabic_ayat: يَعۡلَمُ مَا فِي ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِ وَيَعۡلَمُ مَا تُسِرُّونَ
+  وَمَا تُعۡلِنُونَۚ وَٱللَّهُ عَلِيمُۢ بِذَاتِ ٱلصُّدُورِ
 sentence_translation: He knows whatever is in the heavens and the earth. And He knows
   whatever you conceal and whatever you reveal. For Allah knows best what is ˹hidden˺
   in the heart.
@@ -14,15 +14,15 @@ word_by_word:
     translation: what
     transliteration: mā
   3:
-    arabic: فِى
+    arabic: فِي
     translation: (is) in
     transliteration: fī
   4:
-    arabic: السَّمٰوٰتِ
+    arabic: ٱلسَّمَٰوَٰتِ
     translation: the heavens
     transliteration: l-samāwāti
   5:
-    arabic: وَالۡاَرۡضِ
+    arabic: وَٱلۡأَرۡضِ
     translation: and the earth
     transliteration: wal-arḍi
   6:
@@ -34,7 +34,7 @@ word_by_word:
     translation: what
     transliteration: mā
   8:
-    arabic: تُسِرُّوۡنَ
+    arabic: تُسِرُّونَ
     translation: you conceal
     transliteration: tusirrūna
   9:
@@ -42,15 +42,15 @@ word_by_word:
     translation: and what
     transliteration: wamā
   10:
-    arabic: تُعۡلِنُوۡنَ​ؕ
+    arabic: تُعۡلِنُونَۚ
     translation: you declare
     transliteration: tuʿ'linūna
   11:
-    arabic: وَاللّٰهُ
+    arabic: وَٱللَّهُ
     translation: And Allah
     transliteration: wal-lahu
   12:
-    arabic: عَلِيۡمٌۢ
+    arabic: عَلِيمُۢ
     translation: (is) All-Knowing
     transliteration: ʿalīmun
   13:
@@ -58,7 +58,7 @@ word_by_word:
     translation: of what
     transliteration: bidhāti
   14:
-    arabic: الصُّدُوۡرِ‏
+    arabic: ٱلصُّدُورِ
     translation: (is in) the breasts
     transliteration: l-ṣudūri
 ---

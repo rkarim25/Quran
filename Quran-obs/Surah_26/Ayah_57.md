@@ -1,21 +1,21 @@
 ---
-arabic_ayat: فَاَخۡرَجۡنٰهُمۡ مِّنۡ جَنّٰتٍ وَّعُيُوۡنٍۙ‏
+arabic_ayat: فَأَخۡرَجۡنَٰهُم مِّن جَنَّٰتٖ وَعُيُونٖ
 sentence_translation: So We lured the tyrants out of ˹their˺ gardens, springs,
 word_by_word:
   1:
-    arabic: فَاَخۡرَجۡنٰهُمۡ
+    arabic: فَأَخۡرَجۡنَٰهُم
     translation: So We expelled them
     transliteration: fa-akhrajnāhum
   2:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: from
     transliteration: min
   3:
-    arabic: جَنّٰتٍ
+    arabic: جَنَّٰتٖ
     translation: gardens
     transliteration: jannātin
   4:
-    arabic: وَّعُيُوۡنٍۙ‏
+    arabic: وَعُيُونٖ
     translation: and springs
     transliteration: waʿuyūnin
 ---

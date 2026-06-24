@@ -1,23 +1,23 @@
 ---
-arabic_ayat: ذٰ لِكَ بِاَنَّهُمۡ قَالُوۡا لَنۡ تَمَسَّنَا النَّارُ اِلَّاۤ اَيَّامًا
-  مَّعۡدُوۡدٰتٍ​ وَغَرَّهُمۡ فِىۡ دِيۡنِهِمۡ مَّا كَانُوۡا يَفۡتَرُوۡنَ‏
+arabic_ayat: ذَٰلِكَ بِأَنَّهُمۡ قَالُواْ لَن تَمَسَّنَا ٱلنَّارُ إِلَّآ أَيَّامٗا
+  مَّعۡدُودَٰتٖۖ وَغَرَّهُمۡ فِي دِينِهِم مَّا كَانُواْ يَفۡتَرُونَ
 sentence_translation: This is because they say, “The Fire will not touch us except
   for a few days.” They have been deceived in their faith by their wishful lying.
 word_by_word:
   1:
-    arabic: ذٰ لِكَ
+    arabic: ذَٰلِكَ
     translation: That
     transliteration: dhālika
   2:
-    arabic: بِاَنَّهُمۡ
+    arabic: بِأَنَّهُمۡ
     translation: (is) because they
     transliteration: bi-annahum
   3:
-    arabic: قَالُوۡا
+    arabic: قَالُواْ
     translation: say
     transliteration: qālū
   4:
-    arabic: لَنۡ
+    arabic: لَن
     translation: Never
     transliteration: lan
   5:
@@ -25,19 +25,19 @@ word_by_word:
     translation: will touch us
     transliteration: tamassanā
   6:
-    arabic: النَّارُ
+    arabic: ٱلنَّارُ
     translation: the Fire
     transliteration: l-nāru
   7:
-    arabic: اِلَّاۤ
+    arabic: إِلَّآ
     translation: except
     transliteration: illā
   8:
-    arabic: اَيَّامًا
+    arabic: أَيَّامٗا
     translation: (for) days
     transliteration: ayyāman
   9:
-    arabic: مَّعۡدُوۡدٰتٍ​
+    arabic: مَّعۡدُودَٰتٖۖ
     translation: numbered
     transliteration: maʿdūdātin
   10:
@@ -45,11 +45,11 @@ word_by_word:
     translation: And deceived them
     transliteration: wagharrahum
   11:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   12:
-    arabic: دِيۡنِهِمۡ
+    arabic: دِينِهِم
     translation: their religion
     transliteration: dīnihim
   13:
@@ -57,11 +57,11 @@ word_by_word:
     translation: what
     transliteration: mā
   14:
-    arabic: كَانُوۡا
+    arabic: كَانُواْ
     translation: they were
     transliteration: kānū
   15:
-    arabic: يَفۡتَرُوۡنَ‏
+    arabic: يَفۡتَرُونَ
     translation: inventing
     transliteration: yaftarūna
 ---

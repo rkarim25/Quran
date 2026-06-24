@@ -1,21 +1,21 @@
 ---
-arabic_ayat: وَعِنۡدَهُمۡ قٰصِرٰتُ الطَّرۡفِ اَتۡرَابٌ‏
+arabic_ayat: ۞ وَعِندَهُمۡ قَٰصِرَٰتُ ٱلطَّرۡفِ أَتۡرَابٌ
 sentence_translation: And with them will be maidens of modest gaze and equal age.
 word_by_word:
   1:
-    arabic: ۞ وَعِنۡدَهُمۡ
+    arabic: ۞ وَعِندَهُمۡ
     translation: And with them
     transliteration: waʿindahum
   2:
-    arabic: قٰصِرٰتُ
+    arabic: قَٰصِرَٰتُ
     translation: (will be) companions of modest gaze
     transliteration: qāṣirātu
   3:
-    arabic: الطَّرۡفِ
+    arabic: ٱلطَّرۡفِ
     translation: (will be) companions of modest gaze
     transliteration: l-ṭarfi
   4:
-    arabic: اَتۡرَابٌ‏
+    arabic: أَتۡرَابٌ
     translation: well-matched
     transliteration: atrābun
 ---

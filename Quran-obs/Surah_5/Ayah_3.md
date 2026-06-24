@@ -1,12 +1,12 @@
 ---
-arabic_ayat: حُرِّمَتۡ عَلَيۡكُمُ الۡمَيۡتَةُ وَالدَّمُ وَلَحۡمُ الۡخِنۡزِيۡرِ وَمَاۤ
-  اُهِلَّ لِغَيۡرِ اللّٰهِ بِهٖ وَالۡمُنۡخَنِقَةُ وَالۡمَوۡقُوۡذَةُ وَالۡمُتَرَدِّيَةُ
-  وَالنَّطِيۡحَةُ وَمَاۤ اَكَلَ السَّبُعُ اِلَّا مَا ذَكَّيۡتُمۡ وَمَا ذُ بِحَ عَلَى
-  النُّصُبِ وَاَنۡ تَسۡتَقۡسِمُوۡا بِالۡاَزۡلَامِ​ ؕ ذٰ لِكُمۡ فِسۡقٌ​ ؕ اَلۡيَوۡمَ
-  يَٮِٕسَ الَّذِيۡنَ كَفَرُوۡا مِنۡ دِيۡـنِكُمۡ فَلَا تَخۡشَوۡهُمۡ وَاخۡشَوۡنِ​ ؕ
-  اَ لۡيَوۡمَ اَكۡمَلۡتُ لَـكُمۡ دِيۡنَكُمۡ وَاَ تۡمَمۡتُ عَلَيۡكُمۡ نِعۡمَتِىۡ وَرَضِيۡتُ
-  لَـكُمُ الۡاِسۡلَامَ دِيۡنًا​ ؕ فَمَنِ اضۡطُرَّ فِىۡ مَخۡمَصَةٍ غَيۡرَ مُتَجَانِفٍ
-  لِّاِثۡمٍ​ۙ فَاِنَّ اللّٰهَ غَفُوۡرٌ رَّحِيۡمٌ‏‏
+arabic_ayat: حُرِّمَتۡ عَلَيۡكُمُ ٱلۡمَيۡتَةُ وَٱلدَّمُ وَلَحۡمُ ٱلۡخِنزِيرِ وَمَآ
+  أُهِلَّ لِغَيۡرِ ٱللَّهِ بِهِۦ وَٱلۡمُنۡخَنِقَةُ وَٱلۡمَوۡقُوذَةُ وَٱلۡمُتَرَدِّيَةُ
+  وَٱلنَّطِيحَةُ وَمَآ أَكَلَ ٱلسَّبُعُ إِلَّا مَا ذَكَّيۡتُمۡ وَمَا ذُبِحَ عَلَى
+  ٱلنُّصُبِ وَأَن تَسۡتَقۡسِمُواْ بِٱلۡأَزۡلَٰمِۚ ذَٰلِكُمۡ فِسۡقٌۗ ٱلۡيَوۡمَ يَئِسَ
+  ٱلَّذِينَ كَفَرُواْ مِن دِينِكُمۡ فَلَا تَخۡشَوۡهُمۡ وَٱخۡشَوۡنِۚ ٱلۡيَوۡمَ أَكۡمَلۡتُ
+  لَكُمۡ دِينَكُمۡ وَأَتۡمَمۡتُ عَلَيۡكُمۡ نِعۡمَتِي وَرَضِيتُ لَكُمُ ٱلۡإِسۡلَٰمَ
+  دِينٗاۚ فَمَنِ ٱضۡطُرَّ فِي مَخۡمَصَةٍ غَيۡرَ مُتَجَانِفٖ لِّإِثۡمٖ فَإِنَّ ٱللَّهَ
+  غَفُورٞ رَّحِيمٞ
 sentence_translation: Forbidden to you are carrion, blood, and swine; what is slaughtered
   in the name of any other than Allah; what is killed by strangling, beating, a fall,
   or by being gored to death; what is partly eaten by a predator unless you slaughter
@@ -26,11 +26,11 @@ word_by_word:
     translation: on you
     transliteration: ʿalaykumu
   3:
-    arabic: الۡمَيۡتَةُ
+    arabic: ٱلۡمَيۡتَةُ
     translation: the dead animals
     transliteration: l-maytatu
   4:
-    arabic: وَالدَّمُ
+    arabic: وَٱلدَّمُ
     translation: and the blood
     transliteration: wal-damu
   5:
@@ -38,15 +38,15 @@ word_by_word:
     translation: and flesh
     transliteration: walaḥmu
   6:
-    arabic: الۡخِنۡزِيۡرِ
+    arabic: ٱلۡخِنزِيرِ
     translation: (of) the swine
     transliteration: l-khinzīri
   7:
-    arabic: وَمَاۤ
+    arabic: وَمَآ
     translation: and what
     transliteration: wamā
   8:
-    arabic: اُهِلَّ
+    arabic: أُهِلَّ
     translation: has been dedicated
     transliteration: uhilla
   9:
@@ -54,43 +54,43 @@ word_by_word:
     translation: to other than
     transliteration: lighayri
   10:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   11:
-    arabic: بِهٖ
+    arabic: بِهِۦ
     translation: '[on it]'
     transliteration: bihi
   12:
-    arabic: وَالۡمُنۡخَنِقَةُ
+    arabic: وَٱلۡمُنۡخَنِقَةُ
     translation: and that which is strangled (to death)
     transliteration: wal-mun'khaniqatu
   13:
-    arabic: وَالۡمَوۡقُوۡذَةُ
+    arabic: وَٱلۡمَوۡقُوذَةُ
     translation: and that which is hit fatally
     transliteration: wal-mawqūdhatu
   14:
-    arabic: وَالۡمُتَرَدِّيَةُ
+    arabic: وَٱلۡمُتَرَدِّيَةُ
     translation: and that which has a fatal fall
     transliteration: wal-mutaradiyatu
   15:
-    arabic: وَالنَّطِيۡحَةُ
+    arabic: وَٱلنَّطِيحَةُ
     translation: and that which is gored by horns
     transliteration: wal-naṭīḥatu
   16:
-    arabic: وَمَاۤ
+    arabic: وَمَآ
     translation: and that which
     transliteration: wamā
   17:
-    arabic: اَكَلَ
+    arabic: أَكَلَ
     translation: ate (it)
     transliteration: akala
   18:
-    arabic: السَّبُعُ
+    arabic: ٱلسَّبُعُ
     translation: the wild animal
     transliteration: l-sabuʿu
   19:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   20:
@@ -98,7 +98,7 @@ word_by_word:
     translation: what
     transliteration: mā
   21:
-    arabic: ذَكَّيۡتُمۡ
+    arabic: ذَكَّيۡتُمۡ
     translation: you slaughtered
     transliteration: dhakkaytum
   22:
@@ -106,7 +106,7 @@ word_by_word:
     translation: and what
     transliteration: wamā
   23:
-    arabic: ذُ بِحَ
+    arabic: ذُبِحَ
     translation: is sacrificed
     transliteration: dhubiḥa
   24:
@@ -114,51 +114,51 @@ word_by_word:
     translation: 'on'
     transliteration: ʿalā
   25:
-    arabic: النُّصُبِ
+    arabic: ٱلنُّصُبِ
     translation: the stone altars
     transliteration: l-nuṣubi
   26:
-    arabic: وَاَنۡ
+    arabic: وَأَن
     translation: and that
     transliteration: wa-an
   27:
-    arabic: تَسۡتَقۡسِمُوۡا
+    arabic: تَسۡتَقۡسِمُواْ
     translation: you seek division
     transliteration: tastaqsimū
   28:
-    arabic: بِالۡاَزۡلَامِ​ ؕ
+    arabic: بِٱلۡأَزۡلَٰمِۚ
     translation: 'by divining arrows '
     transliteration: bil-azlāmi
   29:
-    arabic: ذٰ لِكُمۡ
+    arabic: ذَٰلِكُمۡ
     translation: that
     transliteration: dhālikum
   30:
-    arabic: فِسۡقٌ​ ؕ
+    arabic: فِسۡقٌۗ
     translation: (is) grave disobedience
     transliteration: fis'qun
   31:
-    arabic: اَلۡيَوۡمَ
+    arabic: ٱلۡيَوۡمَ
     translation: This day
     transliteration: l-yawma
   32:
-    arabic: يَٮِٕسَ
+    arabic: يَئِسَ
     translation: (have) despaired
     transliteration: ya-isa
   33:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   34:
-    arabic: كَفَرُوۡا
+    arabic: كَفَرُواْ
     translation: disbelieved
     transliteration: kafarū
   35:
-    arabic: مِنۡ
+    arabic: مِن
     translation: of
     transliteration: min
   36:
-    arabic: دِيۡـنِكُمۡ
+    arabic: دِينِكُمۡ
     translation: your religion
     transliteration: dīnikum
   37:
@@ -170,27 +170,27 @@ word_by_word:
     translation: fear them
     transliteration: takhshawhum
   39:
-    arabic: وَاخۡشَوۡنِ​ ؕ
+    arabic: وَٱخۡشَوۡنِۚ
     translation: but fear Me
     transliteration: wa-ikh'shawni
   40:
-    arabic: اَ لۡيَوۡمَ
+    arabic: ٱلۡيَوۡمَ
     translation: This day
     transliteration: l-yawma
   41:
-    arabic: اَكۡمَلۡتُ
+    arabic: أَكۡمَلۡتُ
     translation: I have perfected
     transliteration: akmaltu
   42:
-    arabic: لَـكُمۡ
+    arabic: لَكُمۡ
     translation: for you
     transliteration: lakum
   43:
-    arabic: دِيۡنَكُمۡ
+    arabic: دِينَكُمۡ
     translation: your religion
     transliteration: dīnakum
   44:
-    arabic: وَاَ تۡمَمۡتُ
+    arabic: وَأَتۡمَمۡتُ
     translation: and I have completed
     transliteration: wa-atmamtu
   45:
@@ -198,23 +198,23 @@ word_by_word:
     translation: upon you
     transliteration: ʿalaykum
   46:
-    arabic: نِعۡمَتِىۡ
+    arabic: نِعۡمَتِي
     translation: My Favor
     transliteration: niʿ'matī
   47:
-    arabic: وَرَضِيۡتُ
+    arabic: وَرَضِيتُ
     translation: and I have approved
     transliteration: waraḍītu
   48:
-    arabic: لَـكُمُ
+    arabic: لَكُمُ
     translation: for you
     transliteration: lakumu
   49:
-    arabic: الۡاِسۡلَامَ
+    arabic: ٱلۡإِسۡلَٰمَ
     translation: '[the] Islam'
     transliteration: l-is'lāma
   50:
-    arabic: دِيۡنًا​ ؕ
+    arabic: دِينٗاۚ
     translation: (as) a religion
     transliteration: dīnan
   51:
@@ -222,11 +222,11 @@ word_by_word:
     translation: But whoever
     transliteration: famani
   52:
-    arabic: اضۡطُرَّ
+    arabic: ٱضۡطُرَّ
     translation: (is) forced
     transliteration: uḍ'ṭurra
   53:
-    arabic: فِىۡ
+    arabic: فِي
     translation: by
     transliteration: fī
   54:
@@ -238,27 +238,27 @@ word_by_word:
     translation: (and) not
     transliteration: ghayra
   56:
-    arabic: مُتَجَانِفٍ
+    arabic: مُتَجَانِفٖ
     translation: inclining
     transliteration: mutajānifin
   57:
-    arabic: لِّاِثۡمٍ​ۙ
+    arabic: لِّإِثۡمٖ
     translation: to sin
     transliteration: li-ith'min
   58:
-    arabic: فَاِنَّ
+    arabic: فَإِنَّ
     translation: then indeed
     transliteration: fa-inna
   59:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   60:
-    arabic: غَفُوۡرٌ
+    arabic: غَفُورٞ
     translation: (is) Oft-Forgiving
     transliteration: ghafūrun
   61:
-    arabic: رَّحِيۡمٌ‏‏
+    arabic: رَّحِيمٞ
     translation: Most Merciful
     transliteration: raḥīmun
 ---

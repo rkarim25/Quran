@@ -1,6 +1,6 @@
 ---
-arabic_ayat: "وَقَالَتۡ لِاُخۡتِهٖ قُصِّيۡهِ​ فَبَصُرَتۡ بِهٖ عَنۡ جُنُبٍ وَّهُمۡ\
-  \ لَا يَشۡعُرُوۡنَۙ‏ \uFEFF\uFEFF"
+arabic_ayat: وَقَالَتۡ لِأُخۡتِهِۦ قُصِّيهِۖ فَبَصُرَتۡ بِهِۦ عَن جُنُبٖ وَهُمۡ لَا
+  يَشۡعُرُونَ
 sentence_translation: And she said to his sister, “Keep track of him!” So she watched
   him from a distance, while they were unaware.
 word_by_word:
@@ -9,11 +9,11 @@ word_by_word:
     translation: And she said
     transliteration: waqālat
   2:
-    arabic: لِاُخۡتِهٖ
+    arabic: لِأُخۡتِهِۦ
     translation: to his sister
     transliteration: li-ukh'tihi
   3:
-    arabic: قُصِّيۡهِ​
+    arabic: قُصِّيهِۖ
     translation: Follow him
     transliteration: quṣṣīhi
   4:
@@ -21,19 +21,19 @@ word_by_word:
     translation: So she watched
     transliteration: fabaṣurat
   5:
-    arabic: بِهٖ
+    arabic: بِهِۦ
     translation: him
     transliteration: bihi
   6:
-    arabic: عَنۡ
+    arabic: عَن
     translation: from
     transliteration: ʿan
   7:
-    arabic: جُنُبٍ
+    arabic: جُنُبٖ
     translation: a distance
     transliteration: junubin
   8:
-    arabic: وَّهُمۡ
+    arabic: وَهُمۡ
     translation: while they
     transliteration: wahum
   9:
@@ -41,7 +41,7 @@ word_by_word:
     translation: (did) not
     transliteration: lā
   10:
-    arabic: "يَشۡعُرُوۡنَۙ‏ \uFEFF\uFEFF"
+    arabic: يَشۡعُرُونَ
     translation: perceive
     transliteration: yashʿurūna
 ---

@@ -1,5 +1,5 @@
 ---
-arabic_ayat: وَيَوۡمَ تَقُوۡمُ السَّاعَةُ يُبۡلِسُ الۡمُجۡرِمُوۡنَ‏
+arabic_ayat: وَيَوۡمَ تَقُومُ ٱلسَّاعَةُ يُبۡلِسُ ٱلۡمُجۡرِمُونَ
 sentence_translation: On the Day the Hour will arrive, the wicked will be dumbstruck.
 word_by_word:
   1:
@@ -7,11 +7,11 @@ word_by_word:
     translation: And (the) Day
     transliteration: wayawma
   2:
-    arabic: تَقُوۡمُ
+    arabic: تَقُومُ
     translation: will (be) established
     transliteration: taqūmu
   3:
-    arabic: السَّاعَةُ
+    arabic: ٱلسَّاعَةُ
     translation: the Hour
     transliteration: l-sāʿatu
   4:
@@ -19,7 +19,7 @@ word_by_word:
     translation: will (be in) despair
     transliteration: yub'lisu
   5:
-    arabic: الۡمُجۡرِمُوۡنَ‏
+    arabic: ٱلۡمُجۡرِمُونَ
     translation: the criminals
     transliteration: l-muj'rimūna
 ---

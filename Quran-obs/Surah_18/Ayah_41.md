@@ -1,10 +1,10 @@
 ---
-arabic_ayat: اَوۡ يُصۡبِحَ مَآؤُهَا غَوۡرًا فَلَنۡ تَسۡتَطِيۡعَ لَهٗ طَلَبًا‏
+arabic_ayat: أَوۡ يُصۡبِحَ مَآؤُهَا غَوۡرٗا فَلَن تَسۡتَطِيعَ لَهُۥ طَلَبٗا
 sentence_translation: Or its water may sink ˹into the earth˺, and then you will never
   be able to seek it out.”
 word_by_word:
   1:
-    arabic: اَوۡ
+    arabic: أَوۡ
     translation: Or
     transliteration: aw
   2:
@@ -16,23 +16,23 @@ word_by_word:
     translation: its water
     transliteration: māuhā
   4:
-    arabic: غَوۡرًا
+    arabic: غَوۡرٗا
     translation: sunken
     transliteration: ghawran
   5:
-    arabic: فَلَنۡ
+    arabic: فَلَن
     translation: so never
     transliteration: falan
   6:
-    arabic: تَسۡتَطِيۡعَ
+    arabic: تَسۡتَطِيعَ
     translation: you will be able
     transliteration: tastaṭīʿa
   7:
-    arabic: لَهٗ
+    arabic: لَهُۥ
     translation: to find it
     transliteration: lahu
   8:
-    arabic: طَلَبًا‏
+    arabic: طَلَبٗا
     translation: to find it
     transliteration: ṭalaban
 ---

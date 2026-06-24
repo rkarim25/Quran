@@ -1,11 +1,11 @@
 ---
-arabic_ayat: مَا يَفۡعَلُ اللّٰهُ بِعَذَابِكُمۡ اِنۡ شَكَرۡتُمۡ وَاٰمَنۡتُمۡ​ ؕ وَكَانَ
-  اللّٰهُ شَاكِرًا عَلِيۡمًا‏
+arabic_ayat: مَّا يَفۡعَلُ ٱللَّهُ بِعَذَابِكُمۡ إِن شَكَرۡتُمۡ وَءَامَنتُمۡۚ وَكَانَ
+  ٱللَّهُ شَاكِرًا عَلِيمٗا
 sentence_translation: Why should Allah punish you if you are grateful and faithful?
   Allah is ever Appreciative, All-Knowing.
 word_by_word:
   1:
-    arabic: مَا
+    arabic: مَّا
     translation: What
     transliteration: mā
   2:
@@ -13,7 +13,7 @@ word_by_word:
     translation: would do
     transliteration: yafʿalu
   3:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   4:
@@ -21,7 +21,7 @@ word_by_word:
     translation: by punishing you
     transliteration: biʿadhābikum
   5:
-    arabic: اِنۡ
+    arabic: إِن
     translation: if
     transliteration: in
   6:
@@ -29,7 +29,7 @@ word_by_word:
     translation: you are grateful
     transliteration: shakartum
   7:
-    arabic: وَاٰمَنۡتُمۡ​ ؕ
+    arabic: وَءَامَنتُمۡۚ
     translation: and you believe
     transliteration: waāmantum
   8:
@@ -37,7 +37,7 @@ word_by_word:
     translation: And is
     transliteration: wakāna
   9:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   10:
@@ -45,7 +45,7 @@ word_by_word:
     translation: All-Appreciative
     transliteration: shākiran
   11:
-    arabic: عَلِيۡمًا‏
+    arabic: عَلِيمٗا
     translation: All-Knowing
     transliteration: ʿalīman
 ---

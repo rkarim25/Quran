@@ -1,29 +1,29 @@
 ---
-arabic_ayat: فَاَنۡجَيۡنٰهُ وَمَنۡ مَّعَهٗ فِى الۡـفُلۡكِ الۡمَشۡحُوۡنِ​ۚ‏
+arabic_ayat: فَأَنجَيۡنَٰهُ وَمَن مَّعَهُۥ فِي ٱلۡفُلۡكِ ٱلۡمَشۡحُونِ
 sentence_translation: So We saved him and those with him in the fully loaded Ark.
 word_by_word:
   1:
-    arabic: فَاَنۡجَيۡنٰهُ
+    arabic: فَأَنجَيۡنَٰهُ
     translation: So We saved him
     transliteration: fa-anjaynāhu
   2:
-    arabic: وَمَنۡ
+    arabic: وَمَن
     translation: and who
     transliteration: waman
   3:
-    arabic: مَّعَهٗ
+    arabic: مَّعَهُۥ
     translation: (were) with him
     transliteration: maʿahu
   4:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   5:
-    arabic: الۡـفُلۡكِ
+    arabic: ٱلۡفُلۡكِ
     translation: the ship
     transliteration: l-ful'ki
   6:
-    arabic: الۡمَشۡحُوۡنِ​ۚ‏
+    arabic: ٱلۡمَشۡحُونِ
     translation: laden
     transliteration: l-mashḥūni
 ---

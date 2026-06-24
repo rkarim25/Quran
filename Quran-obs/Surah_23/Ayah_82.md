@@ -1,15 +1,14 @@
 ---
-arabic_ayat: "قَالُوۡۤا ءَاِذَا مِتۡنَا وَكُنَّا تُرَابًا وَّ عِظَامًا ءَاِنَّا لَمَبۡعُوۡثُوۡنَ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: قَالُوٓاْ أَءِذَا مِتۡنَا وَكُنَّا تُرَابٗا وَعِظَٰمًا أَءِنَّا لَمَبۡعُوثُونَ
 sentence_translation: They said, “Once we are dead and reduced to dust and bones,
   will we really be resurrected?
 word_by_word:
   1:
-    arabic: قَالُوۡۤا
+    arabic: قَالُوٓاْ أَ
     translation: They said
     transliteration: qālū
   2:
-    arabic: ءَاِذَا
+    arabic: ءِذَا
     translation: What! When
     transliteration: a-idhā
   3:
@@ -21,19 +20,19 @@ word_by_word:
     translation: and become
     transliteration: wakunnā
   5:
-    arabic: تُرَابًا
+    arabic: تُرَابٗا
     translation: dust
     transliteration: turāban
   6:
-    arabic: وَّ عِظَامًا
+    arabic: وَعِظَٰمًا أَ
     translation: and bones
     transliteration: waʿiẓāman
   7:
-    arabic: ءَاِنَّا
+    arabic: ءِنَّا
     translation: would we
     transliteration: a-innā
   8:
-    arabic: "لَمَبۡعُوۡثُوۡنَ‏ \uFEFF\uFEFF"
+    arabic: لَمَبۡعُوثُونَ
     translation: surely be resurrected
     transliteration: lamabʿūthūna
 ---

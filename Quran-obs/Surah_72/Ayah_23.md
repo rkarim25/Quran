@@ -1,16 +1,16 @@
 ---
-arabic_ayat: اِلَّا بَلٰغًا مِّنَ اللّٰهِ وَرِسٰلٰتِهٖ​ ؕ وَمَنۡ يَّعۡصِ اللّٰهَ وَرَسُوۡلَهٗ
-  فَاِنَّ لَهٗ نَارَ جَهَنَّمَ خٰلِدِيۡنَ فِيۡهَاۤ اَبَدًا ؕ‏
+arabic_ayat: إِلَّا بَلَٰغٗا مِّنَ ٱللَّهِ وَرِسَٰلَٰتِهِۦۚ وَمَن يَعۡصِ ٱللَّهَ وَرَسُولَهُۥ
+  فَإِنَّ لَهُۥ نَارَ جَهَنَّمَ خَٰلِدِينَ فِيهَآ أَبَدًا
 sentence_translation: ˹My duty is˺ only to convey ˹the truth˺ from Allah and ˹deliver˺
   His messages.” And whoever disobeys Allah and His Messenger will certainly be in
   the Fire of Hell, to stay there for ever and ever.
 word_by_word:
   1:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: But
     transliteration: illā
   2:
-    arabic: بَلٰغًا
+    arabic: بَلَٰغٗا
     translation: (the) notification
     transliteration: balāghan
   3:
@@ -18,35 +18,35 @@ word_by_word:
     translation: from
     transliteration: mina
   4:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   5:
-    arabic: وَرِسٰلٰتِهٖ​ ؕ
+    arabic: وَرِسَٰلَٰتِهِۦۚ
     translation: and His Messages
     transliteration: warisālātihi
   6:
-    arabic: وَمَنۡ
+    arabic: وَمَن
     translation: And whoever
     transliteration: waman
   7:
-    arabic: يَّعۡصِ
+    arabic: يَعۡصِ
     translation: disobeys
     transliteration: yaʿṣi
   8:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   9:
-    arabic: وَرَسُوۡلَهٗ
+    arabic: وَرَسُولَهُۥ
     translation: and His Messenger
     transliteration: warasūlahu
   10:
-    arabic: فَاِنَّ
+    arabic: فَإِنَّ
     translation: then indeed
     transliteration: fa-inna
   11:
-    arabic: لَهٗ
+    arabic: لَهُۥ
     translation: for him
     transliteration: lahu
   12:
@@ -58,15 +58,15 @@ word_by_word:
     translation: (of) Hell
     transliteration: jahannama
   14:
-    arabic: خٰلِدِيۡنَ
+    arabic: خَٰلِدِينَ
     translation: (they will) abide
     transliteration: khālidīna
   15:
-    arabic: فِيۡهَاۤ
+    arabic: فِيهَآ
     translation: therein
     transliteration: fīhā
   16:
-    arabic: اَبَدًا ؕ‏
+    arabic: أَبَدًا
     translation: forever
     transliteration: abadan
 ---

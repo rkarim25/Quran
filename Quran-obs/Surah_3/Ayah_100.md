@@ -1,31 +1,31 @@
 ---
-arabic_ayat: يٰۤـاَيُّهَا الَّذِيۡنَ اٰمَنُوۡۤا اِنۡ تُطِيۡعُوۡا فَرِيۡقًا مِّنَ الَّذِيۡنَ
-  اُوۡتُوا الۡكِتٰبَ يَرُدُّوۡكُمۡ بَعۡدَ اِيۡمَانِكُمۡ كٰفِرِيۡنَ‏
+arabic_ayat: يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓاْ إِن تُطِيعُواْ فَرِيقٗا مِّنَ ٱلَّذِينَ
+  أُوتُواْ ٱلۡكِتَٰبَ يَرُدُّوكُم بَعۡدَ إِيمَٰنِكُمۡ كَٰفِرِينَ
 sentence_translation: O believers! If you were to yield to a group of those who were
   given the Scripture, they would turn you back from belief to disbelief.
 word_by_word:
   1:
-    arabic: يٰۤـاَيُّهَا
+    arabic: يَٰٓأَيُّهَا
     translation: O you
     transliteration: yāayyuhā
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ ءَ
     translation: who
     transliteration: alladhīna
   3:
-    arabic: اٰمَنُوۡۤا
+    arabic: امَنُوٓاْ
     translation: believe[d]
     transliteration: āmanū
   4:
-    arabic: اِنۡ
+    arabic: إِن
     translation: If
     transliteration: in
   5:
-    arabic: تُطِيۡعُوۡا
+    arabic: تُطِيعُواْ
     translation: you obey
     transliteration: tuṭīʿū
   6:
-    arabic: فَرِيۡقًا
+    arabic: فَرِيقٗا
     translation: a group
     transliteration: farīqan
   7:
@@ -33,19 +33,19 @@ word_by_word:
     translation: from
     transliteration: mina
   8:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   9:
-    arabic: اُوۡتُوا
+    arabic: أُوتُواْ
     translation: were given
     transliteration: ūtū
   10:
-    arabic: الۡكِتٰبَ
+    arabic: ٱلۡكِتَٰبَ
     translation: the Book
     transliteration: l-kitāba
   11:
-    arabic: يَرُدُّوۡكُمۡ
+    arabic: يَرُدُّوكُم
     translation: they will turn you back
     transliteration: yaruddūkum
   12:
@@ -53,11 +53,11 @@ word_by_word:
     translation: after
     transliteration: baʿda
   13:
-    arabic: اِيۡمَانِكُمۡ
+    arabic: إِيمَٰنِكُمۡ
     translation: your belief
     transliteration: īmānikum
   14:
-    arabic: كٰفِرِيۡنَ‏
+    arabic: كَٰفِرِينَ
     translation: (as) disbelievers
     transliteration: kāfirīna
 ---

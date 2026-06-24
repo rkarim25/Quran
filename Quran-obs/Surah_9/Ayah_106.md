@@ -1,11 +1,11 @@
 ---
-arabic_ayat: وَاٰخَرُوۡنَ مُرۡجَوۡنَ لِاَمۡرِ اللّٰهِ اِمَّا يُعَذِّبُهُمۡ وَاِمَّا
-  يَتُوۡبُ عَلَيۡهِمۡ​ؕ وَاللّٰهُ عَلِيۡمٌ حَكِيۡمٌ‏
+arabic_ayat: وَءَاخَرُونَ مُرۡجَوۡنَ لِأَمۡرِ ٱللَّهِ إِمَّا يُعَذِّبُهُمۡ وَإِمَّا
+  يَتُوبُ عَلَيۡهِمۡۗ وَٱللَّهُ عَلِيمٌ حَكِيمٞ
 sentence_translation: And some others are left for Allah’s decision, either to punish
   them or turn to them in mercy. And Allah is All-Knowing, All-Wise.
 word_by_word:
   1:
-    arabic: وَاٰخَرُوۡنَ
+    arabic: وَءَاخَرُونَ
     translation: And others
     transliteration: waākharūna
   2:
@@ -13,15 +13,15 @@ word_by_word:
     translation: deferred
     transliteration: mur'jawna
   3:
-    arabic: لِاَمۡرِ
+    arabic: لِأَمۡرِ
     translation: 'for the Command of Allah '
     transliteration: li-amri
   4:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: 'for the Command of Allah '
     transliteration: l-lahi
   5:
-    arabic: اِمَّا
+    arabic: إِمَّا
     translation: whether
     transliteration: immā
   6:
@@ -29,27 +29,27 @@ word_by_word:
     translation: He will punish them
     transliteration: yuʿadhibuhum
   7:
-    arabic: وَاِمَّا
+    arabic: وَإِمَّا
     translation: or
     transliteration: wa-immā
   8:
-    arabic: يَتُوۡبُ
+    arabic: يَتُوبُ
     translation: He will turn (in mercy)
     transliteration: yatūbu
   9:
-    arabic: عَلَيۡهِمۡ​ؕ
+    arabic: عَلَيۡهِمۡۗ
     translation: to them
     transliteration: ʿalayhim
   10:
-    arabic: وَاللّٰهُ
+    arabic: وَٱللَّهُ
     translation: And Allah
     transliteration: wal-lahu
   11:
-    arabic: عَلِيۡمٌ
+    arabic: عَلِيمٌ
     translation: (is) All-Knower
     transliteration: ʿalīmun
   12:
-    arabic: حَكِيۡمٌ‏
+    arabic: حَكِيمٞ
     translation: All-Wise
     transliteration: ḥakīmun
 ---

@@ -1,21 +1,21 @@
 ---
-arabic_ayat: "عَسٰى رَبُّهٗۤ اِنۡ طَلَّقَكُنَّ اَنۡ يُّبۡدِلَهٗۤ اَزۡوَاجًا خَيۡرًا\
-  \ مِّنۡكُنَّ مُسۡلِمٰتٍ مُّؤۡمِنٰتٍ قٰنِتٰتٍ تٰٓٮِٕبٰتٍ عٰبِدٰتٍ سٰٓٮِٕحٰتٍ ثَيِّبٰتٍ\
-  \ وَّاَبۡكَارًا‏ \uFEFF\uFEFF"
+arabic_ayat: عَسَىٰ رَبُّهُۥٓ إِن طَلَّقَكُنَّ أَن يُبۡدِلَهُۥٓ أَزۡوَٰجًا خَيۡرٗا
+  مِّنكُنَّ مُسۡلِمَٰتٖ مُّؤۡمِنَٰتٖ قَٰنِتَٰتٖ تَٰٓئِبَٰتٍ عَٰبِدَٰتٖ سَٰٓئِحَٰتٖ
+  ثَيِّبَٰتٖ وَأَبۡكَارٗا
 sentence_translation: Perhaps, if he were to divorce you ˹all˺, his Lord would replace
   you with better wives who are submissive ˹to Allah˺, faithful ˹to Him˺, devout,
   repentant, dedicated to worship and fasting—previously married or virgins.
 word_by_word:
   1:
-    arabic: عَسٰى
+    arabic: عَسَىٰ
     translation: Perhaps
     transliteration: ʿasā
   2:
-    arabic: رَبُّهٗۤ
+    arabic: رَبُّهُۥٓ
     translation: his Lord
     transliteration: rabbuhu
   3:
-    arabic: اِنۡ
+    arabic: إِن
     translation: if
     transliteration: in
   4:
@@ -23,55 +23,55 @@ word_by_word:
     translation: he divorced you
     transliteration: ṭallaqakunna
   5:
-    arabic: اَنۡ
+    arabic: أَن
     translation: '[that]'
     transliteration: an
   6:
-    arabic: يُّبۡدِلَهٗۤ
+    arabic: يُبۡدِلَهُۥٓ
     translation: He will substitute for him
     transliteration: yub'dilahu
   7:
-    arabic: اَزۡوَاجًا
+    arabic: أَزۡوَٰجًا
     translation: wives
     transliteration: azwājan
   8:
-    arabic: خَيۡرًا
+    arabic: خَيۡرٗا
     translation: better
     transliteration: khayran
   9:
-    arabic: مِّنۡكُنَّ
+    arabic: مِّنكُنَّ
     translation: than you
     transliteration: minkunna
   10:
-    arabic: مُسۡلِمٰتٍ
+    arabic: مُسۡلِمَٰتٖ
     translation: submissive
     transliteration: mus'limātin
   11:
-    arabic: مُّؤۡمِنٰتٍ
+    arabic: مُّؤۡمِنَٰتٖ
     translation: faithful
     transliteration: mu'minātin
   12:
-    arabic: قٰنِتٰتٍ
+    arabic: قَٰنِتَٰتٖ
     translation: obedient
     transliteration: qānitātin
   13:
-    arabic: تٰٓٮِٕبٰتٍ
+    arabic: تَٰٓئِبَٰتٍ
     translation: repentant
     transliteration: tāibātin
   14:
-    arabic: عٰبِدٰتٍ
+    arabic: عَٰبِدَٰتٖ
     translation: who worship
     transliteration: ʿābidātin
   15:
-    arabic: سٰٓٮِٕحٰتٍ
+    arabic: سَٰٓئِحَٰتٖ
     translation: who fast
     transliteration: sāiḥātin
   16:
-    arabic: ثَيِّبٰتٍ
+    arabic: ثَيِّبَٰتٖ
     translation: previously married
     transliteration: thayyibātin
   17:
-    arabic: "وَّاَبۡكَارًا‏ \uFEFF\uFEFF"
+    arabic: وَأَبۡكَارٗا
     translation: and virgins
     transliteration: wa-abkāran
 ---

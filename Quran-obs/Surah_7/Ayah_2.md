@@ -1,20 +1,20 @@
 ---
-arabic_ayat: كِتٰبٌ اُنۡزِلَ اِلَيۡكَ فَلَا يَكُنۡ فِىۡ صَدۡرِكَ حَرَجٌ مِّنۡهُ لِتُنۡذِرَ
-  بِهٖ وَذِكۡرٰى لِلۡمُؤۡمِنِيۡنَ‏
+arabic_ayat: كِتَٰبٌ أُنزِلَ إِلَيۡكَ فَلَا يَكُن فِي صَدۡرِكَ حَرَجٞ مِّنۡهُ لِتُنذِرَ
+  بِهِۦ وَذِكۡرَىٰ لِلۡمُؤۡمِنِينَ
 sentence_translation: ˹This is˺ a Book sent down to you ˹O Prophet˺—do not let anxiety
   into your heart regarding it—so with it you may warn ˹the disbelievers˺, and as
   a reminder to the believers.
 word_by_word:
   1:
-    arabic: كِتٰبٌ
+    arabic: كِتَٰبٌ
     translation: (This is) a Book
     transliteration: kitābun
   2:
-    arabic: اُنۡزِلَ
+    arabic: أُنزِلَ
     translation: revealed
     transliteration: unzila
   3:
-    arabic: اِلَيۡكَ
+    arabic: إِلَيۡكَ
     translation: to you
     transliteration: ilayka
   4:
@@ -22,11 +22,11 @@ word_by_word:
     translation: so (let) not
     transliteration: falā
   5:
-    arabic: يَكُنۡ
+    arabic: يَكُن
     translation: be
     transliteration: yakun
   6:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   7:
@@ -34,7 +34,7 @@ word_by_word:
     translation: your breast
     transliteration: ṣadrika
   8:
-    arabic: حَرَجٌ
+    arabic: حَرَجٞ
     translation: any uneasiness
     transliteration: ḥarajun
   9:
@@ -42,19 +42,19 @@ word_by_word:
     translation: from it
     transliteration: min'hu
   10:
-    arabic: لِتُنۡذِرَ
+    arabic: لِتُنذِرَ
     translation: that you warn
     transliteration: litundhira
   11:
-    arabic: بِهٖ
+    arabic: بِهِۦ
     translation: with it
     transliteration: bihi
   12:
-    arabic: وَذِكۡرٰى
+    arabic: وَذِكۡرَىٰ
     translation: and a reminder
     transliteration: wadhik'rā
   13:
-    arabic: لِلۡمُؤۡمِنِيۡنَ‏
+    arabic: لِلۡمُؤۡمِنِينَ
     translation: for the believers
     transliteration: lil'mu'minīna
 ---

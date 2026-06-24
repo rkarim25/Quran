@@ -1,14 +1,14 @@
 ---
-arabic_ayat: اَتَوَاصَوۡا بِهٖ​ۚ بَلۡ هُمۡ قَوۡمٌ طَاغُوۡنَ​ۚ‏
+arabic_ayat: أَتَوَاصَوۡاْ بِهِۦۚ بَلۡ هُمۡ قَوۡمٞ طَاغُونَ
 sentence_translation: Have they passed this ˹cliché˺ down to one another? In fact,
   they have ˹all˺ been a transgressing people.
 word_by_word:
   1:
-    arabic: اَتَوَاصَوۡا
+    arabic: أَتَوَاصَوۡاْ
     translation: Have they transmitted it to them
     transliteration: atawāṣaw
   2:
-    arabic: بِهٖ​ۚ
+    arabic: بِهِۦۚ
     translation: Have they transmitted it to them
     transliteration: bihi
   3:
@@ -20,11 +20,11 @@ word_by_word:
     translation: they
     transliteration: hum
   5:
-    arabic: قَوۡمٌ
+    arabic: قَوۡمٞ
     translation: (are) a people
     transliteration: qawmun
   6:
-    arabic: طَاغُوۡنَ​ۚ‏
+    arabic: طَاغُونَ
     translation: transgressing
     transliteration: ṭāghūna
 ---

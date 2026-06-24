@@ -1,19 +1,19 @@
 ---
-arabic_ayat: وَيٰۤاٰدَمُ اسۡكُنۡ اَنۡتَ وَزَوۡجُكَ الۡجَـنَّةَ فَـكُلَا مِنۡ حَيۡثُ
-  شِئۡتُمَا وَلَا تَقۡرَبَا هٰذِهِ الشَّجَرَةَ فَتَكُوۡنَا مِنَ الظّٰلِمِيۡنَ‏
+arabic_ayat: وَيَٰٓـَٔادَمُ ٱسۡكُنۡ أَنتَ وَزَوۡجُكَ ٱلۡجَنَّةَ فَكُلَا مِنۡ حَيۡثُ
+  شِئۡتُمَا وَلَا تَقۡرَبَا هَٰذِهِ ٱلشَّجَرَةَ فَتَكُونَا مِنَ ٱلظَّٰلِمِينَ
 sentence_translation: ˹Allah said,˺ “O Adam! Live with your wife in Paradise and eat
   from wherever you please, but do not approach this tree, or else you will be wrongdoers.”
 word_by_word:
   1:
-    arabic: وَيٰۤاٰدَمُ
+    arabic: وَيَٰٓـَٔادَمُ
     translation: And O Adam
     transliteration: wayāādamu
   2:
-    arabic: اسۡكُنۡ
+    arabic: ٱسۡكُنۡ
     translation: Dwell
     transliteration: us'kun
   3:
-    arabic: اَنۡتَ
+    arabic: أَنتَ
     translation: you
     transliteration: anta
   4:
@@ -21,11 +21,11 @@ word_by_word:
     translation: and your wife
     transliteration: wazawjuka
   5:
-    arabic: الۡجَـنَّةَ
+    arabic: ٱلۡجَنَّةَ
     translation: (in) the Garden
     transliteration: l-janata
   6:
-    arabic: فَـكُلَا
+    arabic: فَكُلَا
     translation: and you both eat
     transliteration: fakulā
   7:
@@ -49,15 +49,15 @@ word_by_word:
     translation: approach [both of you]
     transliteration: taqrabā
   12:
-    arabic: هٰذِهِ
+    arabic: هَٰذِهِ
     translation: this
     transliteration: hādhihi
   13:
-    arabic: الشَّجَرَةَ
+    arabic: ٱلشَّجَرَةَ
     translation: '[the] tree'
     transliteration: l-shajarata
   14:
-    arabic: فَتَكُوۡنَا
+    arabic: فَتَكُونَا
     translation: lest you both be
     transliteration: fatakūnā
   15:
@@ -65,7 +65,7 @@ word_by_word:
     translation: among
     transliteration: mina
   16:
-    arabic: الظّٰلِمِيۡنَ‏
+    arabic: ٱلظَّٰلِمِينَ
     translation: the wrongdoers
     transliteration: l-ẓālimīna
 ---

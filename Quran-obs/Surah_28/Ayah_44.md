@@ -1,6 +1,6 @@
 ---
-arabic_ayat: وَمَا كُنۡتَ بِجَانِبِ الۡغَرۡبِىِّ اِذۡ قَضَيۡنَاۤ اِلٰى مُوۡسَى الۡاَمۡرَ
-  وَمَا كُنۡتَ مِنَ الشّٰهِدِيۡنَۙ‏
+arabic_ayat: وَمَا كُنتَ بِجَانِبِ ٱلۡغَرۡبِيِّ إِذۡ قَضَيۡنَآ إِلَىٰ مُوسَى ٱلۡأَمۡرَ
+  وَمَا كُنتَ مِنَ ٱلشَّٰهِدِينَ
 sentence_translation: You were not there ˹O Prophet˺ on the western side of the mountain
   when We entrusted the Commandments to Moses, nor were you present ˹in his time˺.
 word_by_word:
@@ -9,7 +9,7 @@ word_by_word:
     translation: And not
     transliteration: wamā
   2:
-    arabic: كُنۡتَ
+    arabic: كُنتَ
     translation: you were
     transliteration: kunta
   3:
@@ -17,27 +17,27 @@ word_by_word:
     translation: on (the) side
     transliteration: bijānibi
   4:
-    arabic: الۡغَرۡبِىِّ
+    arabic: ٱلۡغَرۡبِيِّ
     translation: western
     transliteration: l-gharbiyi
   5:
-    arabic: اِذۡ
+    arabic: إِذۡ
     translation: when
     transliteration: idh
   6:
-    arabic: قَضَيۡنَاۤ
+    arabic: قَضَيۡنَآ
     translation: We decreed
     transliteration: qaḍaynā
   7:
-    arabic: اِلٰى
+    arabic: إِلَىٰ
     translation: to
     transliteration: ilā
   8:
-    arabic: مُوۡسَى
+    arabic: مُوسَى
     translation: Musa
     transliteration: mūsā
   9:
-    arabic: الۡاَمۡرَ
+    arabic: ٱلۡأَمۡرَ
     translation: the Commandment
     transliteration: l-amra
   10:
@@ -45,7 +45,7 @@ word_by_word:
     translation: and not
     transliteration: wamā
   11:
-    arabic: كُنۡتَ
+    arabic: كُنتَ
     translation: you were
     transliteration: kunta
   12:
@@ -53,7 +53,7 @@ word_by_word:
     translation: among
     transliteration: mina
   13:
-    arabic: الشّٰهِدِيۡنَۙ‏
+    arabic: ٱلشَّٰهِدِينَ
     translation: the witnesses
     transliteration: l-shāhidīna
 ---

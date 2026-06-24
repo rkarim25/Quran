@@ -1,6 +1,5 @@
 ---
-arabic_ayat: "قَالَ اِنَّمَا يَاۡتِيۡكُمۡ بِهِ اللّٰهُ اِنۡ شَآءَ وَمَاۤ اَنۡتُمۡ\
-  \ بِمُعۡجِزِيۡنَ‏ \uFEFF\uFEFF"
+arabic_ayat: قَالَ إِنَّمَا يَأۡتِيكُم بِهِ ٱللَّهُ إِن شَآءَ وَمَآ أَنتُم بِمُعۡجِزِينَ
 sentence_translation: He responded, “It is Allah Who can bring it upon you if He wills,
   and then you will have no escape!
 word_by_word:
@@ -9,11 +8,11 @@ word_by_word:
     translation: He said
     transliteration: qāla
   2:
-    arabic: اِنَّمَا
+    arabic: إِنَّمَا
     translation: Only
     transliteration: innamā
   3:
-    arabic: يَاۡتِيۡكُمۡ
+    arabic: يَأۡتِيكُم
     translation: will bring it (on) you
     transliteration: yatīkum
   4:
@@ -21,11 +20,11 @@ word_by_word:
     translation: will bring it (on) you
     transliteration: bihi
   5:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   6:
-    arabic: اِنۡ
+    arabic: إِن
     translation: if
     transliteration: in
   7:
@@ -33,15 +32,15 @@ word_by_word:
     translation: He wills
     transliteration: shāa
   8:
-    arabic: وَمَاۤ
+    arabic: وَمَآ
     translation: and not
     transliteration: wamā
   9:
-    arabic: اَنۡتُمۡ
+    arabic: أَنتُم
     translation: you (are)
     transliteration: antum
   10:
-    arabic: "بِمُعۡجِزِيۡنَ‏ \uFEFF\uFEFF"
+    arabic: بِمُعۡجِزِينَ
     translation: one who (can) escape (it)
     transliteration: bimuʿ'jizīna
 ---

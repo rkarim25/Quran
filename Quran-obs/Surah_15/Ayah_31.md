@@ -1,25 +1,25 @@
 ---
-arabic_ayat: اِلَّاۤ اِبۡلِيۡسَؕ اَبٰٓى اَنۡ يَّكُوۡنَ مَعَ السّٰجِدِيۡنَ‏
+arabic_ayat: إِلَّآ إِبۡلِيسَ أَبَىٰٓ أَن يَكُونَ مَعَ ٱلسَّٰجِدِينَ
 sentence_translation: but not Iblîs, who refused to prostrate with the others.
 word_by_word:
   1:
-    arabic: اِلَّاۤ
+    arabic: إِلَّآ
     translation: Except
     transliteration: illā
   2:
-    arabic: اِبۡلِيۡسَؕ
+    arabic: إِبۡلِيسَ
     translation: Iblis
     transliteration: ib'līsa
   3:
-    arabic: اَبٰٓى
+    arabic: أَبَىٰٓ
     translation: He refused
     transliteration: abā
   4:
-    arabic: اَنۡ
+    arabic: أَن
     translation: to
     transliteration: an
   5:
-    arabic: يَّكُوۡنَ
+    arabic: يَكُونَ
     translation: be
     transliteration: yakūna
   6:
@@ -27,7 +27,7 @@ word_by_word:
     translation: with
     transliteration: maʿa
   7:
-    arabic: السّٰجِدِيۡنَ‏
+    arabic: ٱلسَّٰجِدِينَ
     translation: those who prostrated
     transliteration: l-sājidīna
 ---

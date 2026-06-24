@@ -1,8 +1,8 @@
 ---
-arabic_ayat: اَلَمۡ تَرَ اَنَّ اللّٰهَ يَسۡجُدُ لَهٗ مَنۡ فِى السَّمٰوٰتِ وَمَنۡ فِى
-  الۡاَرۡضِ وَالشَّمۡسُ وَالۡقَمَرُ وَالنُّجُوۡمُ وَ الۡجِبَالُ وَالشَّجَرُ وَالدَّوَآبُّ
-  وَكَثِيۡرٌ مِّنَ النَّاسِ​ ؕ وَكَثِيۡرٌ حَقَّ عَلَيۡهِ الۡعَذَابُ​ؕ وَمَنۡ يُّهِنِ
-  اللّٰهُ فَمَا لَهٗ مِنۡ مُّكۡرِمٍ​ؕ اِنَّ اللّٰهَ يَفۡعَلُ مَا يَشَآءُ ۩  ؕ‏
+arabic_ayat: أَلَمۡ تَرَ أَنَّ ٱللَّهَ يَسۡجُدُۤ لَهُۥۤ مَن فِي ٱلسَّمَٰوَٰتِ وَمَن
+  فِي ٱلۡأَرۡضِ وَٱلشَّمۡسُ وَٱلۡقَمَرُ وَٱلنُّجُومُ وَٱلۡجِبَالُ وَٱلشَّجَرُ وَٱلدَّوَآبُّ
+  وَكَثِيرٞ مِّنَ ٱلنَّاسِۖ وَكَثِيرٌ حَقَّ عَلَيۡهِ ٱلۡعَذَابُۗ وَمَن يُهِنِ ٱللَّهُ
+  فَمَا لَهُۥ مِن مُّكۡرِمٍۚ إِنَّ ٱللَّهَ يَفۡعَلُ مَا يَشَآءُ۩
 sentence_translation: Do you not see that to Allah bow down ˹in submission˺ all those
   in the heavens and all those on the earth, as well as the sun, the moon, the stars,
   the mountains, the trees, and ˹all˺ living beings, as well as many humans, while
@@ -10,7 +10,7 @@ sentence_translation: Do you not see that to Allah bow down ˹in submission˺ a
   Surely Allah does what He wills.
 word_by_word:
   1:
-    arabic: اَلَمۡ
+    arabic: أَلَمۡ
     translation: Do not
     transliteration: alam
   2:
@@ -18,71 +18,71 @@ word_by_word:
     translation: you see
     transliteration: tara
   3:
-    arabic: اَنَّ
+    arabic: أَنَّ
     translation: that
     transliteration: anna
   4:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: (to) Allah
     transliteration: l-laha
   5:
-    arabic: يَسۡجُدُ
+    arabic: يَسۡجُدُۤ
     translation: prostrates
     transliteration: yasjudu
   6:
-    arabic: لَهٗ
+    arabic: لَهُۥۤ
     translation: to Him
     transliteration: lahu
   7:
-    arabic: مَنۡ
+    arabic: مَن
     translation: whoever
     transliteration: man
   8:
-    arabic: فِى
+    arabic: فِي
     translation: (is) in
     transliteration: fī
   9:
-    arabic: السَّمٰوٰتِ
+    arabic: ٱلسَّمَٰوَٰتِ
     translation: the heavens
     transliteration: l-samāwāti
   10:
-    arabic: وَمَنۡ
+    arabic: وَمَن
     translation: and whoever
     transliteration: waman
   11:
-    arabic: فِى
+    arabic: فِي
     translation: (is) in
     transliteration: fī
   12:
-    arabic: الۡاَرۡضِ
+    arabic: ٱلۡأَرۡضِ
     translation: the earth
     transliteration: l-arḍi
   13:
-    arabic: وَالشَّمۡسُ
+    arabic: وَٱلشَّمۡسُ
     translation: and the sun
     transliteration: wal-shamsu
   14:
-    arabic: وَالۡقَمَرُ
+    arabic: وَٱلۡقَمَرُ
     translation: and the moon
     transliteration: wal-qamaru
   15:
-    arabic: وَالنُّجُوۡمُ
+    arabic: وَٱلنُّجُومُ
     translation: and the stars
     transliteration: wal-nujūmu
   16:
-    arabic: وَ الۡجِبَالُ
+    arabic: وَٱلۡجِبَالُ
     translation: and the mountains
     transliteration: wal-jibālu
   17:
-    arabic: وَالشَّجَرُ
+    arabic: وَٱلشَّجَرُ
     translation: and the trees
     transliteration: wal-shajaru
   18:
-    arabic: وَالدَّوَآبُّ
+    arabic: وَٱلدَّوَآبُّ
     translation: and the moving creatures
     transliteration: wal-dawābu
   19:
-    arabic: وَكَثِيۡرٌ
+    arabic: وَكَثِيرٞ
     translation: and many
     transliteration: wakathīrun
   20:
@@ -90,11 +90,11 @@ word_by_word:
     translation: of
     transliteration: mina
   21:
-    arabic: النَّاسِ​ ؕ
+    arabic: ٱلنَّاسِۖ
     translation: the people
     transliteration: l-nāsi
   22:
-    arabic: وَكَثِيۡرٌ
+    arabic: وَكَثِيرٌ
     translation: 'But many '
     transliteration: wakathīrun
   23:
@@ -106,19 +106,19 @@ word_by_word:
     translation: on him
     transliteration: ʿalayhi
   25:
-    arabic: الۡعَذَابُ​ؕ
+    arabic: ٱلۡعَذَابُۗ
     translation: the punishment
     transliteration: l-ʿadhābu
   26:
-    arabic: وَمَنۡ
+    arabic: وَمَن
     translation: And whoever
     transliteration: waman
   27:
-    arabic: يُّهِنِ
+    arabic: يُهِنِ
     translation: Allah humiliates
     transliteration: yuhini
   28:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah humiliates
     transliteration: l-lahu
   29:
@@ -126,23 +126,23 @@ word_by_word:
     translation: then not
     transliteration: famā
   30:
-    arabic: لَهٗ
+    arabic: لَهُۥ
     translation: for him
     transliteration: lahu
   31:
-    arabic: مِنۡ
+    arabic: مِن
     translation: any
     transliteration: min
   32:
-    arabic: مُّكۡرِمٍ​ؕ
+    arabic: مُّكۡرِمٍۚ
     translation: bestower of honor
     transliteration: muk'rimin
   33:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   34:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   35:
@@ -154,7 +154,7 @@ word_by_word:
     translation: what
     transliteration: mā
   37:
-    arabic: يَشَآءُ ۩
+    arabic: يَشَآءُ۩
     translation: He wills
     transliteration: yashāu
 ---

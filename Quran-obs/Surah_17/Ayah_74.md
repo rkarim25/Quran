@@ -1,19 +1,19 @@
 ---
-arabic_ayat: وَلَوۡلَاۤ اَنۡ ثَبَّتۡنٰكَ لَقَدۡ كِدْتَّ تَرۡكَنُ اِلَيۡهِمۡ شَيۡــًٔـا
-  قَلِيۡلًا  ۙ‏
+arabic_ayat: وَلَوۡلَآ أَن ثَبَّتۡنَٰكَ لَقَدۡ كِدتَّ تَرۡكَنُ إِلَيۡهِمۡ شَيۡـٔٗا
+  قَلِيلًا
 sentence_translation: Had We not made you steadfast, you probably would have inclined
   to them a little,
 word_by_word:
   1:
-    arabic: وَلَوۡلَاۤ
+    arabic: وَلَوۡلَآ
     translation: And if not
     transliteration: walawlā
   2:
-    arabic: اَنۡ
+    arabic: أَن
     translation: '[that]'
     transliteration: an
   3:
-    arabic: ثَبَّتۡنٰكَ
+    arabic: ثَبَّتۡنَٰكَ
     translation: We (had) strengthened you
     transliteration: thabbatnāka
   4:
@@ -21,7 +21,7 @@ word_by_word:
     translation: certainly
     transliteration: laqad
   5:
-    arabic: كِدْتَّ
+    arabic: كِدتَّ
     translation: you almost
     transliteration: kidtta
   6:
@@ -29,15 +29,15 @@ word_by_word:
     translation: (would) have inclined
     transliteration: tarkanu
   7:
-    arabic: اِلَيۡهِمۡ
+    arabic: إِلَيۡهِمۡ
     translation: to them
     transliteration: ilayhim
   8:
-    arabic: شَيۡــًٔـا
+    arabic: شَيۡـٔٗا
     translation: (in) something
     transliteration: shayan
   9:
-    arabic: قَلِيۡلًا  ۙ‏
+    arabic: قَلِيلًا
     translation: a little
     transliteration: qalīlan
 ---

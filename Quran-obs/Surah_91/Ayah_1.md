@@ -1,13 +1,13 @@
 ---
-arabic_ayat: وَالشَّمۡسِ وَضُحٰٮهَا  ۙ‏
+arabic_ayat: وَٱلشَّمۡسِ وَضُحَىٰهَا
 sentence_translation: By the sun and its brightness,
 word_by_word:
   1:
-    arabic: وَالشَّمۡسِ
+    arabic: وَٱلشَّمۡسِ
     translation: By the sun
     transliteration: wal-shamsi
   2:
-    arabic: وَضُحٰٮهَا  ۙ‏
+    arabic: وَضُحَىٰهَا
     translation: and its brightness
     transliteration: waḍuḥāhā
 ---

@@ -1,29 +1,28 @@
 ---
-arabic_ayat: "وَلُوۡطًا اٰتَيۡنٰهُ حُكۡمًا وَّعِلۡمًا وَّنَجَّيۡنٰهُ مِنَ الۡقَرۡيَةِ\
-  \ الَّتِىۡ كَانَتۡ تَّعۡمَلُ الۡخَبٰٓٮِٕثَ​ؕ اِنَّهُمۡ كَانُوۡا قَوۡمَ سَوۡءٍ فٰسِقِيۡنَۙ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: وَلُوطًا ءَاتَيۡنَٰهُ حُكۡمٗا وَعِلۡمٗا وَنَجَّيۡنَٰهُ مِنَ ٱلۡقَرۡيَةِ
+  ٱلَّتِي كَانَت تَّعۡمَلُ ٱلۡخَبَٰٓئِثَۚ إِنَّهُمۡ كَانُواْ قَوۡمَ سَوۡءٖ فَٰسِقِينَ
 sentence_translation: And to Lot We gave wisdom and knowledge, and delivered him from
   the society engrossed in shameful practices. They were certainly an evil, rebellious
   people.
 word_by_word:
   1:
-    arabic: وَلُوۡطًا
+    arabic: وَلُوطًا ءَ
     translation: And (to) Lut
     transliteration: walūṭan
   2:
-    arabic: اٰتَيۡنٰهُ
+    arabic: اتَيۡنَٰهُ
     translation: We gave him
     transliteration: ātaynāhu
   3:
-    arabic: حُكۡمًا
+    arabic: حُكۡمٗا
     translation: judgment
     transliteration: ḥuk'man
   4:
-    arabic: وَّعِلۡمًا
+    arabic: وَعِلۡمٗا
     translation: and knowledge
     transliteration: waʿil'man
   5:
-    arabic: وَّنَجَّيۡنٰهُ
+    arabic: وَنَجَّيۡنَٰهُ
     translation: and We saved him
     transliteration: wanajjaynāhu
   6:
@@ -31,15 +30,15 @@ word_by_word:
     translation: from
     transliteration: mina
   7:
-    arabic: الۡقَرۡيَةِ
+    arabic: ٱلۡقَرۡيَةِ
     translation: the town
     transliteration: l-qaryati
   8:
-    arabic: الَّتِىۡ
+    arabic: ٱلَّتِي
     translation: which
     transliteration: allatī
   9:
-    arabic: كَانَتۡ
+    arabic: كَانَت
     translation: was
     transliteration: kānat
   10:
@@ -47,15 +46,15 @@ word_by_word:
     translation: doing
     transliteration: taʿmalu
   11:
-    arabic: الۡخَبٰٓٮِٕثَ​ؕ
+    arabic: ٱلۡخَبَٰٓئِثَۚ
     translation: wicked deeds
     transliteration: l-khabāitha
   12:
-    arabic: اِنَّهُمۡ
+    arabic: إِنَّهُمۡ
     translation: Indeed, they
     transliteration: innahum
   13:
-    arabic: كَانُوۡا
+    arabic: كَانُواْ
     translation: were
     transliteration: kānū
   14:
@@ -63,11 +62,11 @@ word_by_word:
     translation: a people
     transliteration: qawma
   15:
-    arabic: سَوۡءٍ
+    arabic: سَوۡءٖ
     translation: evil
     transliteration: sawin
   16:
-    arabic: "فٰسِقِيۡنَۙ‏ \uFEFF\uFEFF"
+    arabic: فَٰسِقِينَ
     translation: defiantly disobedient
     transliteration: fāsiqīna
 ---

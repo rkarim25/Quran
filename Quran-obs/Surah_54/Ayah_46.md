@@ -1,5 +1,5 @@
 ---
-arabic_ayat: بَلِ السَّاعَةُ مَوۡعِدُهُمۡ وَالسَّاعَةُ اَدۡهٰى وَاَمَرُّ‏
+arabic_ayat: بَلِ ٱلسَّاعَةُ مَوۡعِدُهُمۡ وَٱلسَّاعَةُ أَدۡهَىٰ وَأَمَرُّ
 sentence_translation: Better yet, the Hour is their appointed time—and the Hour will
   be most catastrophic and most bitter.
 word_by_word:
@@ -8,7 +8,7 @@ word_by_word:
     translation: Nay
     transliteration: bali
   2:
-    arabic: السَّاعَةُ
+    arabic: ٱلسَّاعَةُ
     translation: the Hour
     transliteration: l-sāʿatu
   3:
@@ -16,15 +16,15 @@ word_by_word:
     translation: (is) their promised time
     transliteration: mawʿiduhum
   4:
-    arabic: وَالسَّاعَةُ
+    arabic: وَٱلسَّاعَةُ
     translation: and the Hour
     transliteration: wal-sāʿatu
   5:
-    arabic: اَدۡهٰى
+    arabic: أَدۡهَىٰ
     translation: (will be) more grievous
     transliteration: adhā
   6:
-    arabic: وَاَمَرُّ‏
+    arabic: وَأَمَرُّ
     translation: and more bitter
     transliteration: wa-amarru
 ---

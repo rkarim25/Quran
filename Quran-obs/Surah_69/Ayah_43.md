@@ -1,13 +1,13 @@
 ---
-arabic_ayat: تَنۡزِيۡلٌ مِّنۡ رَّبِّ الۡعٰلَمِيۡنَ‏
+arabic_ayat: تَنزِيلٞ مِّن رَّبِّ ٱلۡعَٰلَمِينَ
 sentence_translation: ˹It is˺ a revelation from the Lord of all worlds.
 word_by_word:
   1:
-    arabic: تَنۡزِيۡلٌ
+    arabic: تَنزِيلٞ
     translation: (It is) a revelation
     transliteration: tanzīlun
   2:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: from
     transliteration: min
   3:
@@ -15,7 +15,7 @@ word_by_word:
     translation: (the) Lord
     transliteration: rabbi
   4:
-    arabic: الۡعٰلَمِيۡنَ‏
+    arabic: ٱلۡعَٰلَمِينَ
     translation: (of) the worlds
     transliteration: l-ʿālamīna
 ---

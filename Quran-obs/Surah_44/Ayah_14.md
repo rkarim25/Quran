@@ -1,5 +1,5 @@
 ---
-arabic_ayat: ثُمَّ تَوَلَّوۡا عَنۡهُ وَقَالُوۡا مُعَلَّمٌ مَّجۡنُوۡنٌ​ۘ‏
+arabic_ayat: ثُمَّ تَوَلَّوۡاْ عَنۡهُ وَقَالُواْ مُعَلَّمٞ مَّجۡنُونٌ
 sentence_translation: then they turned away from him, saying, “A madman, taught by
   others!”?
 word_by_word:
@@ -8,7 +8,7 @@ word_by_word:
     translation: Then
     transliteration: thumma
   2:
-    arabic: تَوَلَّوۡا
+    arabic: تَوَلَّوۡاْ
     translation: they turned away
     transliteration: tawallaw
   3:
@@ -16,15 +16,15 @@ word_by_word:
     translation: from him
     transliteration: ʿanhu
   4:
-    arabic: وَقَالُوۡا
+    arabic: وَقَالُواْ
     translation: and said
     transliteration: waqālū
   5:
-    arabic: مُعَلَّمٌ
+    arabic: مُعَلَّمٞ
     translation: One taught
     transliteration: muʿallamun
   6:
-    arabic: مَّجۡنُوۡنٌ​ۘ‏
+    arabic: مَّجۡنُونٌ
     translation: a mad man
     transliteration: majnūnun
 ---

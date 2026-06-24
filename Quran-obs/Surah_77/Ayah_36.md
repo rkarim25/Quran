@@ -1,5 +1,5 @@
 ---
-arabic_ayat: وَلَا يُؤۡذَنُ لَهُمۡ فَيَـعۡتَذِرُوۡنَ‏
+arabic_ayat: وَلَا يُؤۡذَنُ لَهُمۡ فَيَعۡتَذِرُونَ
 sentence_translation: nor will they be permitted to offer excuses.
 word_by_word:
   1:
@@ -15,7 +15,7 @@ word_by_word:
     translation: for them
     transliteration: lahum
   4:
-    arabic: فَيَـعۡتَذِرُوۡنَ‏
+    arabic: فَيَعۡتَذِرُونَ
     translation: to make excuses
     transliteration: fayaʿtadhirūna
 ---

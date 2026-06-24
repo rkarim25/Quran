@@ -1,13 +1,13 @@
 ---
-arabic_ayat: اِنَّهُمۡ كَانُوۡا لَا يَرۡجُوۡنَ حِسَابًا ۙ‏
+arabic_ayat: إِنَّهُمۡ كَانُواْ لَا يَرۡجُونَ حِسَابٗا
 sentence_translation: For they never expected any reckoning,
 word_by_word:
   1:
-    arabic: اِنَّهُمۡ
+    arabic: إِنَّهُمۡ
     translation: Indeed, they
     transliteration: innahum
   2:
-    arabic: كَانُوۡا
+    arabic: كَانُواْ
     translation: were
     transliteration: kānū
   3:
@@ -15,11 +15,11 @@ word_by_word:
     translation: not
     transliteration: lā
   4:
-    arabic: يَرۡجُوۡنَ
+    arabic: يَرۡجُونَ
     translation: expecting
     transliteration: yarjūna
   5:
-    arabic: حِسَابًا ۙ‏
+    arabic: حِسَابٗا
     translation: an account
     transliteration: ḥisāban
 ---

@@ -1,17 +1,17 @@
 ---
-arabic_ayat: وَّظَنَّ اَنَّهُ الۡفِرَاقُۙ‏
+arabic_ayat: وَظَنَّ أَنَّهُ ٱلۡفِرَاقُ
 sentence_translation: And the dying person realizes it is ˹their˺ time to depart,
 word_by_word:
   1:
-    arabic: وَّظَنَّ
+    arabic: وَظَنَّ
     translation: And he is certain
     transliteration: waẓanna
   2:
-    arabic: اَنَّهُ
+    arabic: أَنَّهُ
     translation: that it
     transliteration: annahu
   3:
-    arabic: الۡفِرَاقُۙ‏
+    arabic: ٱلۡفِرَاقُ
     translation: (is) the parting
     transliteration: l-firāqu
 ---

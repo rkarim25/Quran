@@ -1,9 +1,9 @@
 ---
-arabic_ayat: فَيَـقُوۡلُوۡا هَلۡ نَحۡنُ مُنۡظَرُوۡنَؕ‏
+arabic_ayat: فَيَقُولُواْ هَلۡ نَحۡنُ مُنظَرُونَ
 sentence_translation: Then they will cry, “Can we be allowed more time?”
 word_by_word:
   1:
-    arabic: فَيَـقُوۡلُوۡا
+    arabic: فَيَقُولُواْ
     translation: Then they will say
     transliteration: fayaqūlū
   2:
@@ -15,7 +15,7 @@ word_by_word:
     translation: we
     transliteration: naḥnu
   4:
-    arabic: مُنۡظَرُوۡنَؕ‏
+    arabic: مُنظَرُونَ
     translation: (to be) reprieved
     transliteration: munẓarūna
 ---

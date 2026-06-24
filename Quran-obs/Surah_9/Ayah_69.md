@@ -1,9 +1,9 @@
 ---
-arabic_ayat: كَالَّذِيۡنَ مِنۡ قَبۡلِكُمۡ كَانُوۡۤا اَشَدَّ مِنۡكُمۡ قُوَّةً وَّاَكۡثَرَ
-  اَمۡوَالًا وَّاَوۡلَادًا ؕ فَاسۡتَمۡتَعُوۡا بِخَلَاقِهِمۡ فَاسۡتَمۡتَعۡتُمۡ بِخَلَاقِكُمۡ
-  كَمَا اسۡتَمۡتَعَ الَّذِيۡنَ مِنۡ قَبۡلِكُمۡ بِخَلَاقِهِمۡ وَخُضۡتُمۡ كَالَّذِىۡ
-  خَاضُوۡا​ ؕ اُولٰۤٮِٕكَ حَبِطَتۡ اَعۡمَالُهُمۡ فِى الدُّنۡيَا وَالۡاٰخِرَةِ​ ۚ وَاُولٰۤٮِٕكَ
-  هُمُ الۡخٰسِرُوۡنَ‏
+arabic_ayat: كَٱلَّذِينَ مِن قَبۡلِكُمۡ كَانُوٓاْ أَشَدَّ مِنكُمۡ قُوَّةٗ وَأَكۡثَرَ
+  أَمۡوَٰلٗا وَأَوۡلَٰدٗا فَٱسۡتَمۡتَعُواْ بِخَلَٰقِهِمۡ فَٱسۡتَمۡتَعۡتُم بِخَلَٰقِكُمۡ
+  كَمَا ٱسۡتَمۡتَعَ ٱلَّذِينَ مِن قَبۡلِكُم بِخَلَٰقِهِمۡ وَخُضۡتُمۡ كَٱلَّذِي خَاضُوٓاْۚ
+  أُوْلَٰٓئِكَ حَبِطَتۡ أَعۡمَٰلُهُمۡ فِي ٱلدُّنۡيَا وَٱلۡأٓخِرَةِۖ وَأُوْلَٰٓئِكَ
+  هُمُ ٱلۡخَٰسِرُونَ
 sentence_translation: ˹You hypocrites are˺ like those ˹disbelievers˺ before you. They
   were far superior to you in might and more abundant in wealth and children. They
   enjoyed their share in this life. You have enjoyed your share, just as they did.
@@ -11,11 +11,11 @@ sentence_translation: ˹You hypocrites are˺ like those ˹disbelievers˺ before 
   in this world and the Hereafter. And it is they who are the ˹true˺ losers.
 word_by_word:
   1:
-    arabic: كَالَّذِيۡنَ
+    arabic: كَٱلَّذِينَ
     translation: Like those
     transliteration: ka-alladhīna
   2:
-    arabic: مِنۡ
+    arabic: مِن
     translation: before you
     transliteration: min
   3:
@@ -23,47 +23,47 @@ word_by_word:
     translation: before you
     transliteration: qablikum
   4:
-    arabic: كَانُوۡۤا
+    arabic: كَانُوٓاْ
     translation: they were
     transliteration: kānū
   5:
-    arabic: اَشَدَّ
+    arabic: أَشَدَّ
     translation: mightier
     transliteration: ashadda
   6:
-    arabic: مِنۡكُمۡ
+    arabic: مِنكُمۡ
     translation: than you
     transliteration: minkum
   7:
-    arabic: قُوَّةً
+    arabic: قُوَّةٗ
     translation: (in) strength
     transliteration: quwwatan
   8:
-    arabic: وَّاَكۡثَرَ
+    arabic: وَأَكۡثَرَ
     translation: and more abundant
     transliteration: wa-akthara
   9:
-    arabic: اَمۡوَالًا
+    arabic: أَمۡوَٰلٗا
     translation: (in) wealth
     transliteration: amwālan
   10:
-    arabic: وَّاَوۡلَادًا ؕ
+    arabic: وَأَوۡلَٰدٗا
     translation: and children
     transliteration: wa-awlādan
   11:
-    arabic: فَاسۡتَمۡتَعُوۡا
+    arabic: فَٱسۡتَمۡتَعُواْ
     translation: So they enjoyed
     transliteration: fa-is'tamtaʿū
   12:
-    arabic: بِخَلَاقِهِمۡ
+    arabic: بِخَلَٰقِهِمۡ
     translation: their portion
     transliteration: bikhalāqihim
   13:
-    arabic: فَاسۡتَمۡتَعۡتُمۡ
+    arabic: فَٱسۡتَمۡتَعۡتُم
     translation: and you have enjoyed
     transliteration: fa-is'tamtaʿtum
   14:
-    arabic: بِخَلَاقِكُمۡ
+    arabic: بِخَلَٰقِكُمۡ
     translation: your portion
     transliteration: bikhalāqikum
   15:
@@ -71,23 +71,23 @@ word_by_word:
     translation: like
     transliteration: kamā
   16:
-    arabic: اسۡتَمۡتَعَ
+    arabic: ٱسۡتَمۡتَعَ
     translation: enjoyed
     transliteration: is'tamtaʿa
   17:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those
     transliteration: alladhīna
   18:
-    arabic: مِنۡ
+    arabic: مِن
     translation: before you
     transliteration: min
   19:
-    arabic: قَبۡلِكُمۡ
+    arabic: قَبۡلِكُم
     translation: before you
     transliteration: qablikum
   20:
-    arabic: بِخَلَاقِهِمۡ
+    arabic: بِخَلَٰقِهِمۡ
     translation: their portion
     transliteration: bikhalāqihim
   21:
@@ -95,15 +95,15 @@ word_by_word:
     translation: and you indulge
     transliteration: wakhuḍ'tum
   22:
-    arabic: كَالَّذِىۡ
+    arabic: كَٱلَّذِي
     translation: like the one who
     transliteration: ka-alladhī
   23:
-    arabic: خَاضُوۡا​ ؕ
+    arabic: خَاضُوٓاْۚ
     translation: indulges (in idle talk)
     transliteration: khāḍū
   24:
-    arabic: اُولٰۤٮِٕكَ
+    arabic: أُوْلَٰٓئِكَ
     translation: Those
     transliteration: ulāika
   25:
@@ -111,23 +111,23 @@ word_by_word:
     translation: worthless
     transliteration: ḥabiṭat
   26:
-    arabic: اَعۡمَالُهُمۡ
+    arabic: أَعۡمَٰلُهُمۡ
     translation: (are) their deeds
     transliteration: aʿmāluhum
   27:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   28:
-    arabic: الدُّنۡيَا
+    arabic: ٱلدُّنۡيَا
     translation: the world
     transliteration: l-dun'yā
   29:
-    arabic: وَالۡاٰخِرَةِ​ ۚ
+    arabic: وَٱلۡأٓخِرَةِۖ
     translation: and (in) the Hereafter
     transliteration: wal-ākhirati
   30:
-    arabic: وَاُولٰۤٮِٕكَ
+    arabic: وَأُوْلَٰٓئِكَ
     translation: And those
     transliteration: wa-ulāika
   31:
@@ -135,7 +135,7 @@ word_by_word:
     translation: they
     transliteration: humu
   32:
-    arabic: الۡخٰسِرُوۡنَ‏
+    arabic: ٱلۡخَٰسِرُونَ
     translation: (are) the losers
     transliteration: l-khāsirūna
 ---

@@ -1,13 +1,13 @@
 ---
-arabic_ayat: فَقَرَّبَهٗۤ اِلَيۡهِمۡ قَالَ اَلَا تَاۡكُلُوۡنَ‏
+arabic_ayat: فَقَرَّبَهُۥٓ إِلَيۡهِمۡ قَالَ أَلَا تَأۡكُلُونَ
 sentence_translation: and placed it before them, asking, “Will you not eat?”
 word_by_word:
   1:
-    arabic: فَقَرَّبَهٗۤ
+    arabic: فَقَرَّبَهُۥٓ
     translation: And he placed it near
     transliteration: faqarrabahu
   2:
-    arabic: اِلَيۡهِمۡ
+    arabic: إِلَيۡهِمۡ
     translation: '[to] them'
     transliteration: ilayhim
   3:
@@ -15,11 +15,11 @@ word_by_word:
     translation: he said
     transliteration: qāla
   4:
-    arabic: اَلَا
+    arabic: أَلَا
     translation: Will not
     transliteration: alā
   5:
-    arabic: تَاۡكُلُوۡنَ‏
+    arabic: تَأۡكُلُونَ
     translation: you eat
     transliteration: takulūna
 ---

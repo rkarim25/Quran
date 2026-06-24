@@ -1,17 +1,17 @@
 ---
-arabic_ayat: وُجُوۡهٌ يَّوۡمَٮِٕذٍ نَّاعِمَةٌ ۙ‏
+arabic_ayat: وُجُوهٞ يَوۡمَئِذٖ نَّاعِمَةٞ
 sentence_translation: On that Day ˹other˺ faces will be glowing with bliss,
 word_by_word:
   1:
-    arabic: وُجُوۡهٌ
+    arabic: وُجُوهٞ
     translation: Faces
     transliteration: wujūhun
   2:
-    arabic: يَّوۡمَٮِٕذٍ
+    arabic: يَوۡمَئِذٖ
     translation: that Day
     transliteration: yawma-idhin
   3:
-    arabic: نَّاعِمَةٌ ۙ‏
+    arabic: نَّاعِمَةٞ
     translation: (will be) joyful
     transliteration: nāʿimatun
 ---

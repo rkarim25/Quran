@@ -1,6 +1,6 @@
 ---
-arabic_ayat: وَدَخَلَ جَنَّتَهٗ وَهُوَ ظَالِمٌ لِّنَفۡسِهٖ​ ۚ قَالَ مَاۤ اَظُنُّ اَنۡ
-  تَبِيۡدَ هٰذِهٖۤ اَبَدًا ۙ‏
+arabic_ayat: وَدَخَلَ جَنَّتَهُۥ وَهُوَ ظَالِمٞ لِّنَفۡسِهِۦ قَالَ مَآ أَظُنُّ أَن
+  تَبِيدَ هَٰذِهِۦٓ أَبَدٗا
 sentence_translation: And he entered his property, while wronging his soul, saying,
   “I do not think this will ever perish,
 word_by_word:
@@ -9,7 +9,7 @@ word_by_word:
     translation: And he entered
     transliteration: wadakhala
   2:
-    arabic: جَنَّتَهٗ
+    arabic: جَنَّتَهُۥ
     translation: his garden
     transliteration: jannatahu
   3:
@@ -17,11 +17,11 @@ word_by_word:
     translation: while he
     transliteration: wahuwa
   4:
-    arabic: ظَالِمٌ
+    arabic: ظَالِمٞ
     translation: (was) unjust
     transliteration: ẓālimun
   5:
-    arabic: لِّنَفۡسِهٖ​ ۚ
+    arabic: لِّنَفۡسِهِۦ
     translation: to himself
     transliteration: linafsihi
   6:
@@ -29,27 +29,27 @@ word_by_word:
     translation: He said
     transliteration: qāla
   7:
-    arabic: مَاۤ
+    arabic: مَآ
     translation: Not
     transliteration: mā
   8:
-    arabic: اَظُنُّ
+    arabic: أَظُنُّ
     translation: I think
     transliteration: aẓunnu
   9:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that
     transliteration: an
   10:
-    arabic: تَبِيۡدَ
+    arabic: تَبِيدَ
     translation: will perish
     transliteration: tabīda
   11:
-    arabic: هٰذِهٖۤ
+    arabic: هَٰذِهِۦٓ
     translation: this
     transliteration: hādhihi
   12:
-    arabic: اَبَدًا ۙ‏
+    arabic: أَبَدٗا
     translation: ever
     transliteration: abadan
 ---

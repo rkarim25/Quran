@@ -1,12 +1,12 @@
 ---
-arabic_ayat: وَاتۡلُ عَلَيۡهِمۡ نَبَاَ الَّذِىۡۤ اٰتَيۡنٰهُ اٰيٰتِنَا فَانْسَلَخَ
-  مِنۡهَا فَاَتۡبَعَهُ الشَّيۡطٰنُ فَكَانَ مِنَ الۡغٰوِيۡنَ‏
+arabic_ayat: وَٱتۡلُ عَلَيۡهِمۡ نَبَأَ ٱلَّذِيٓ ءَاتَيۡنَٰهُ ءَايَٰتِنَا فَٱنسَلَخَ
+  مِنۡهَا فَأَتۡبَعَهُ ٱلشَّيۡطَٰنُ فَكَانَ مِنَ ٱلۡغَاوِينَ
 sentence_translation: And relate to them ˹O Prophet˺ the story of the one to whom
   We gave Our signs, but he abandoned them, so Satan took hold of him, and he became
   a deviant.
 word_by_word:
   1:
-    arabic: وَاتۡلُ
+    arabic: وَٱتۡلُ
     translation: And recite
     transliteration: wa-ut'lu
   2:
@@ -14,23 +14,23 @@ word_by_word:
     translation: to them
     transliteration: ʿalayhim
   3:
-    arabic: نَبَاَ
+    arabic: نَبَأَ
     translation: (the) story
     transliteration: naba-a
   4:
-    arabic: الَّذِىۡۤ
+    arabic: ٱلَّذِيٓ ءَ
     translation: (of the) one whom
     transliteration: alladhī
   5:
-    arabic: اٰتَيۡنٰهُ
+    arabic: اتَيۡنَٰهُ ءَ
     translation: We gave [him]
     transliteration: ātaynāhu
   6:
-    arabic: اٰيٰتِنَا
+    arabic: ايَٰتِنَا
     translation: Our Verses
     transliteration: āyātinā
   7:
-    arabic: فَانْسَلَخَ
+    arabic: فَٱنسَلَخَ
     translation: but he detached
     transliteration: fa-insalakha
   8:
@@ -38,11 +38,11 @@ word_by_word:
     translation: '[from] them'
     transliteration: min'hā
   9:
-    arabic: فَاَتۡبَعَهُ
+    arabic: فَأَتۡبَعَهُ
     translation: so followed him
     transliteration: fa-atbaʿahu
   10:
-    arabic: الشَّيۡطٰنُ
+    arabic: ٱلشَّيۡطَٰنُ
     translation: the Shaitaan
     transliteration: l-shayṭānu
   11:
@@ -54,7 +54,7 @@ word_by_word:
     translation: of
     transliteration: mina
   13:
-    arabic: الۡغٰوِيۡنَ‏
+    arabic: ٱلۡغَاوِينَ
     translation: those gone astray
     transliteration: l-ghāwīna
 ---

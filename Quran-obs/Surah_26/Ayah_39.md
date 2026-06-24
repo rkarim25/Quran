@@ -1,9 +1,9 @@
 ---
-arabic_ayat: وَّقِيۡلَ لِلنَّاسِ هَلۡ اَنۡـتُمۡ مُّجۡتَمِعُوۡنَۙ‏
+arabic_ayat: وَقِيلَ لِلنَّاسِ هَلۡ أَنتُم مُّجۡتَمِعُونَ
 sentence_translation: And the people were asked, “Will you join the gathering,
 word_by_word:
   1:
-    arabic: وَّقِيۡلَ
+    arabic: وَقِيلَ
     translation: And it was said
     transliteration: waqīla
   2:
@@ -15,11 +15,11 @@ word_by_word:
     translation: Will
     transliteration: hal
   4:
-    arabic: اَنۡـتُمۡ
+    arabic: أَنتُم
     translation: you
     transliteration: antum
   5:
-    arabic: مُّجۡتَمِعُوۡنَۙ‏
+    arabic: مُّجۡتَمِعُونَ
     translation: assemble
     transliteration: muj'tamiʿūna
 ---

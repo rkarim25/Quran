@@ -1,13 +1,13 @@
 ---
-arabic_ayat: وَّنَرٰٮهُ قَرِيۡبًا ؕ‏
+arabic_ayat: وَنَرَىٰهُ قَرِيبٗا
 sentence_translation: but We see it as inevitable.
 word_by_word:
   1:
-    arabic: وَّنَرٰٮهُ
+    arabic: وَنَرَىٰهُ
     translation: But We see it
     transliteration: wanarāhu
   2:
-    arabic: قَرِيۡبًا ؕ‏
+    arabic: قَرِيبٗا
     translation: near
     transliteration: qarīban
 ---

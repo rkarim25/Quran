@@ -1,16 +1,16 @@
 ---
-arabic_ayat: ثَانِىَ عِطۡفِهٖ لِيُضِلَّ عَنۡ سَبِيۡلِ اللّٰهِ ​ؕ لَهٗ فِى الدُّنۡيَا
-  خِزۡىٌ​ وَّنُذِيۡقُهٗ يَوۡمَ الۡقِيٰمَةِ عَذَابَ الۡحَرِيۡقِ‏
+arabic_ayat: ثَانِيَ عِطۡفِهِۦ لِيُضِلَّ عَن سَبِيلِ ٱللَّهِۖ لَهُۥ فِي ٱلدُّنۡيَا
+  خِزۡيٞۖ وَنُذِيقُهُۥ يَوۡمَ ٱلۡقِيَٰمَةِ عَذَابَ ٱلۡحَرِيقِ
 sentence_translation: turning away ˹in pride˺ to lead ˹others˺ astray from Allah’s
   Way. They will suffer disgrace in this world, and on the Day of Judgment We will
   make them taste the torment of burning.
 word_by_word:
   1:
-    arabic: ثَانِىَ
+    arabic: ثَانِيَ
     translation: Twisting
     transliteration: thāniya
   2:
-    arabic: عِطۡفِهٖ
+    arabic: عِطۡفِهِۦ
     translation: his neck
     transliteration: ʿiṭ'fihi
   3:
@@ -18,35 +18,35 @@ word_by_word:
     translation: to mislead
     transliteration: liyuḍilla
   4:
-    arabic: عَنۡ
+    arabic: عَن
     translation: from
     transliteration: ʿan
   5:
-    arabic: سَبِيۡلِ
+    arabic: سَبِيلِ
     translation: (the) way
     transliteration: sabīli
   6:
-    arabic: اللّٰهِ ​ؕ
+    arabic: ٱللَّهِۖ
     translation: (of) Allah
     transliteration: l-lahi
   7:
-    arabic: لَهٗ
+    arabic: لَهُۥ
     translation: For him
     transliteration: lahu
   8:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   9:
-    arabic: الدُّنۡيَا
+    arabic: ٱلدُّنۡيَا
     translation: the world
     transliteration: l-dun'yā
   10:
-    arabic: خِزۡىٌ​
+    arabic: خِزۡيٞۖ
     translation: (is) disgrace
     transliteration: khiz'yun
   11:
-    arabic: وَّنُذِيۡقُهٗ
+    arabic: وَنُذِيقُهُۥ
     translation: and We will make him taste
     transliteration: wanudhīquhu
   12:
@@ -54,7 +54,7 @@ word_by_word:
     translation: (on the) Day
     transliteration: yawma
   13:
-    arabic: الۡقِيٰمَةِ
+    arabic: ٱلۡقِيَٰمَةِ
     translation: (of) Resurrection
     transliteration: l-qiyāmati
   14:
@@ -62,7 +62,7 @@ word_by_word:
     translation: (the) punishment
     transliteration: ʿadhāba
   15:
-    arabic: الۡحَرِيۡقِ‏
+    arabic: ٱلۡحَرِيقِ
     translation: (of) the Burning Fire
     transliteration: l-ḥarīqi
 ---

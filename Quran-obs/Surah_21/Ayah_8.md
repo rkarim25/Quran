@@ -1,6 +1,6 @@
 ---
-arabic_ayat: "وَمَا جَعَلۡنٰهُمۡ جَسَدًا لَّا يَاۡكُلُوۡنَ الطَّعَامَ وَمَا كَانُوۡا\
-  \ خٰلِدِيۡنَ‏ \uFEFF\uFEFF"
+arabic_ayat: وَمَا جَعَلۡنَٰهُمۡ جَسَدٗا لَّا يَأۡكُلُونَ ٱلطَّعَامَ وَمَا كَانُواْ
+  خَٰلِدِينَ
 sentence_translation: We did not give those messengers ˹supernatural˺ bodies that
   did not need food, nor were they immortal.
 word_by_word:
@@ -9,11 +9,11 @@ word_by_word:
     translation: And not
     transliteration: wamā
   2:
-    arabic: جَعَلۡنٰهُمۡ
+    arabic: جَعَلۡنَٰهُمۡ
     translation: We made them
     transliteration: jaʿalnāhum
   3:
-    arabic: جَسَدًا
+    arabic: جَسَدٗا
     translation: bodies
     transliteration: jasadan
   4:
@@ -21,11 +21,11 @@ word_by_word:
     translation: not
     transliteration: lā
   5:
-    arabic: يَاۡكُلُوۡنَ
+    arabic: يَأۡكُلُونَ
     translation: eating
     transliteration: yakulūna
   6:
-    arabic: الطَّعَامَ
+    arabic: ٱلطَّعَامَ
     translation: the food
     transliteration: l-ṭaʿāma
   7:
@@ -33,11 +33,11 @@ word_by_word:
     translation: and not
     transliteration: wamā
   8:
-    arabic: كَانُوۡا
+    arabic: كَانُواْ
     translation: they were
     transliteration: kānū
   9:
-    arabic: "خٰلِدِيۡنَ‏ \uFEFF\uFEFF"
+    arabic: خَٰلِدِينَ
     translation: immortals
     transliteration: khālidīna
 ---

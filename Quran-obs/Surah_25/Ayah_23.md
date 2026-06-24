@@ -1,15 +1,15 @@
 ---
-arabic_ayat: "وَقَدِمۡنَاۤ اِلٰى مَا عَمِلُوۡا مِنۡ عَمَلٍ فَجَعَلۡنٰهُ هَبَآءً مَّنۡثُوۡرًا‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: وَقَدِمۡنَآ إِلَىٰ مَا عَمِلُواْ مِنۡ عَمَلٖ فَجَعَلۡنَٰهُ هَبَآءٗ
+  مَّنثُورًا
 sentence_translation: Then We will turn to whatever ˹good˺ deeds they did, reducing
   them to scattered dust.
 word_by_word:
   1:
-    arabic: وَقَدِمۡنَاۤ
+    arabic: وَقَدِمۡنَآ
     translation: And We will proceed
     transliteration: waqadim'nā
   2:
-    arabic: اِلٰى
+    arabic: إِلَىٰ
     translation: to
     transliteration: ilā
   3:
@@ -17,7 +17,7 @@ word_by_word:
     translation: whatever
     transliteration: mā
   4:
-    arabic: عَمِلُوۡا
+    arabic: عَمِلُواْ
     translation: they did
     transliteration: ʿamilū
   5:
@@ -25,19 +25,19 @@ word_by_word:
     translation: of
     transliteration: min
   6:
-    arabic: عَمَلٍ
+    arabic: عَمَلٖ
     translation: (the) deed(s)
     transliteration: ʿamalin
   7:
-    arabic: فَجَعَلۡنٰهُ
+    arabic: فَجَعَلۡنَٰهُ
     translation: and We will make them
     transliteration: fajaʿalnāhu
   8:
-    arabic: هَبَآءً
+    arabic: هَبَآءٗ
     translation: (as) dust
     transliteration: habāan
   9:
-    arabic: "مَّنۡثُوۡرًا‏ \uFEFF\uFEFF"
+    arabic: مَّنثُورًا
     translation: dispersed
     transliteration: manthūran
 ---

@@ -1,5 +1,5 @@
 ---
-arabic_ayat: قَالَ اَفَرَءَيۡتُمۡ مَّا كُنۡتُمۡ تَعۡبُدُوۡنَۙ‏
+arabic_ayat: قَالَ أَفَرَءَيۡتُم مَّا كُنتُمۡ تَعۡبُدُونَ
 sentence_translation: Abraham responded, “Have you ˹really˺ considered what you have
   been worshipping—
 word_by_word:
@@ -8,7 +8,7 @@ word_by_word:
     translation: He said
     transliteration: qāla
   2:
-    arabic: اَفَرَءَيۡتُمۡ
+    arabic: أَفَرَءَيۡتُم
     translation: Do you see
     transliteration: afara-aytum
   3:
@@ -16,11 +16,11 @@ word_by_word:
     translation: what
     transliteration: mā
   4:
-    arabic: كُنۡتُمۡ
+    arabic: كُنتُمۡ
     translation: you have been
     transliteration: kuntum
   5:
-    arabic: تَعۡبُدُوۡنَۙ‏
+    arabic: تَعۡبُدُونَ
     translation: worshipping
     transliteration: taʿbudūna
 ---

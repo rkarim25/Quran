@@ -1,13 +1,13 @@
 ---
-arabic_ayat: اَمۡ خُلِقُوۡا مِنۡ غَيۡرِ شَىۡءٍ اَمۡ هُمُ الۡخٰلِقُوۡنَؕ‏
+arabic_ayat: أَمۡ خُلِقُواْ مِنۡ غَيۡرِ شَيۡءٍ أَمۡ هُمُ ٱلۡخَٰلِقُونَ
 sentence_translation: Or were they created by nothing, or are they ˹their own˺ creators?
 word_by_word:
   1:
-    arabic: اَمۡ
+    arabic: أَمۡ
     translation: Or
     transliteration: am
   2:
-    arabic: خُلِقُوۡا
+    arabic: خُلِقُواْ
     translation: they were created
     transliteration: khuliqū
   3:
@@ -19,11 +19,11 @@ word_by_word:
     translation: nothing
     transliteration: ghayri
   5:
-    arabic: شَىۡءٍ
+    arabic: شَيۡءٍ
     translation: nothing
     transliteration: shayin
   6:
-    arabic: اَمۡ
+    arabic: أَمۡ
     translation: or
     transliteration: am
   7:
@@ -31,7 +31,7 @@ word_by_word:
     translation: (are) they
     transliteration: humu
   8:
-    arabic: الۡخٰلِقُوۡنَؕ‏
+    arabic: ٱلۡخَٰلِقُونَ
     translation: the creators
     transliteration: l-khāliqūna
 ---

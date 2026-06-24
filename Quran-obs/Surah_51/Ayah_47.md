@@ -1,26 +1,26 @@
 ---
-arabic_ayat: وَ السَّمَآءَ بَنَيۡنٰهَا بِاَيۡٮدٍ وَّاِنَّا لَمُوۡسِعُوۡنَ‏
+arabic_ayat: وَٱلسَّمَآءَ بَنَيۡنَٰهَا بِأَيۡيْدٖ وَإِنَّا لَمُوسِعُونَ
 sentence_translation: We built the universe with ˹great˺ might, and We are certainly
   expanding ˹it˺.
 word_by_word:
   1:
-    arabic: وَ السَّمَآءَ
+    arabic: وَٱلسَّمَآءَ
     translation: And the heaven
     transliteration: wal-samāa
   2:
-    arabic: بَنَيۡنٰهَا
+    arabic: بَنَيۡنَٰهَا
     translation: We constructed it
     transliteration: banaynāhā
   3:
-    arabic: بِاَيۡٮدٍ
+    arabic: بِأَيۡيْدٖ
     translation: with strength
     transliteration: bi-aydin
   4:
-    arabic: وَّاِنَّا
+    arabic: وَإِنَّا
     translation: and indeed, We
     transliteration: wa-innā
   5:
-    arabic: لَمُوۡسِعُوۡنَ‏
+    arabic: لَمُوسِعُونَ
     translation: (are) surely (its) Expanders
     transliteration: lamūsiʿūna
 ---

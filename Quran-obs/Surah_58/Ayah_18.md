@@ -1,7 +1,6 @@
 ---
-arabic_ayat: "يَوۡمَ يَبۡعَثُهُمُ اللّٰهُ جَمِيۡعًا فَيَحۡلِفُوۡنَ لَهٗ كَمَا يَحۡلِفُوۡنَ\
-  \ لَـكُمۡ​ وَيَحۡسَبُوۡنَ اَنَّهُمۡ عَلٰى شَىۡءٍ​ ؕ اَلَاۤ اِنَّهُمۡ هُمُ الۡكٰذِبُوۡنَ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: يَوۡمَ يَبۡعَثُهُمُ ٱللَّهُ جَمِيعٗا فَيَحۡلِفُونَ لَهُۥ كَمَا يَحۡلِفُونَ
+  لَكُمۡ وَيَحۡسَبُونَ أَنَّهُمۡ عَلَىٰ شَيۡءٍۚ أَلَآ إِنَّهُمۡ هُمُ ٱلۡكَٰذِبُونَ
 sentence_translation: On the Day Allah resurrects them all, they will ˹falsely˺ swear
   to Him as they swear to you, thinking they have something to stand on. Indeed, it
   is they who are the ˹total˺ liars.
@@ -15,19 +14,19 @@ word_by_word:
     translation: Allah will raise them
     transliteration: yabʿathuhumu
   3:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah will raise them
     transliteration: l-lahu
   4:
-    arabic: جَمِيۡعًا
+    arabic: جَمِيعٗا
     translation: all
     transliteration: jamīʿan
   5:
-    arabic: فَيَحۡلِفُوۡنَ
+    arabic: فَيَحۡلِفُونَ
     translation: then they will swear
     transliteration: fayaḥlifūna
   6:
-    arabic: لَهٗ
+    arabic: لَهُۥ
     translation: to Him
     transliteration: lahu
   7:
@@ -35,35 +34,35 @@ word_by_word:
     translation: as
     transliteration: kamā
   8:
-    arabic: يَحۡلِفُوۡنَ
+    arabic: يَحۡلِفُونَ
     translation: they swear
     transliteration: yaḥlifūna
   9:
-    arabic: لَـكُمۡ​
+    arabic: لَكُمۡ
     translation: to you
     transliteration: lakum
   10:
-    arabic: وَيَحۡسَبُوۡنَ
+    arabic: وَيَحۡسَبُونَ
     translation: And they think
     transliteration: wayaḥsabūna
   11:
-    arabic: اَنَّهُمۡ
+    arabic: أَنَّهُمۡ
     translation: that they
     transliteration: annahum
   12:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: (are) on
     transliteration: ʿalā
   13:
-    arabic: شَىۡءٍ​ ؕ
+    arabic: شَيۡءٍۚ
     translation: something
     transliteration: shayin
   14:
-    arabic: اَلَاۤ
+    arabic: أَلَآ
     translation: No doubt
     transliteration: alā
   15:
-    arabic: اِنَّهُمۡ
+    arabic: إِنَّهُمۡ
     translation: Indeed, they
     transliteration: innahum
   16:
@@ -71,7 +70,7 @@ word_by_word:
     translation: '[they]'
     transliteration: humu
   17:
-    arabic: "الۡكٰذِبُوۡنَ‏ \uFEFF\uFEFF"
+    arabic: ٱلۡكَٰذِبُونَ
     translation: (are) the liars
     transliteration: l-kādhibūna
 ---

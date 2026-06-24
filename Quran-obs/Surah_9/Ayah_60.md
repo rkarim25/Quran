@@ -1,19 +1,18 @@
 ---
-arabic_ayat: "اِنَّمَا الصَّدَقٰتُ لِلۡفُقَرَآءِ وَالۡمَسٰكِيۡنِ وَالۡعٰمِلِيۡنَ\
-  \ عَلَيۡهَا وَالۡمُؤَلَّـفَةِ قُلُوۡبُهُمۡ وَفِى الرِّقَابِ وَالۡغٰرِمِيۡنَ وَفِىۡ\
-  \ سَبِيۡلِ اللّٰهِ وَابۡنِ السَّبِيۡلِ​ؕ فَرِيۡضَةً مِّنَ اللّٰهِ​ؕ وَاللّٰهُ عَلِيۡمٌ\
-  \ حَكِيۡمٌ‏ \uFEFF\uFEFF"
+arabic_ayat: ۞ إِنَّمَا ٱلصَّدَقَٰتُ لِلۡفُقَرَآءِ وَٱلۡمَسَٰكِينِ وَٱلۡعَٰمِلِينَ
+  عَلَيۡهَا وَٱلۡمُؤَلَّفَةِ قُلُوبُهُمۡ وَفِي ٱلرِّقَابِ وَٱلۡغَٰرِمِينَ وَفِي سَبِيلِ
+  ٱللَّهِ وَٱبۡنِ ٱلسَّبِيلِۖ فَرِيضَةٗ مِّنَ ٱللَّهِۗ وَٱللَّهُ عَلِيمٌ حَكِيمٞ
 sentence_translation: Alms-tax is only for the poor and the needy, for those employed
   to administer it, for those whose hearts are attracted ˹to the faith˺, for ˹freeing˺
   slaves, for those in debt, for Allah’s cause, and for ˹needy˺ travellers. ˹This
   is˺ an obligation from Allah. And Allah is All-Knowing, All-Wise.
 word_by_word:
   1:
-    arabic: ۞ اِنَّمَا
+    arabic: ۞ إِنَّمَا
     translation: Only
     transliteration: innamā
   2:
-    arabic: الصَّدَقٰتُ
+    arabic: ٱلصَّدَقَٰتُ
     translation: the charities
     transliteration: l-ṣadaqātu
   3:
@@ -21,11 +20,11 @@ word_by_word:
     translation: (are) for the poor
     transliteration: lil'fuqarāi
   4:
-    arabic: وَالۡمَسٰكِيۡنِ
+    arabic: وَٱلۡمَسَٰكِينِ
     translation: and the needy
     transliteration: wal-masākīni
   5:
-    arabic: وَالۡعٰمِلِيۡنَ
+    arabic: وَٱلۡعَٰمِلِينَ
     translation: and those who collect
     transliteration: wal-ʿāmilīna
   6:
@@ -33,47 +32,47 @@ word_by_word:
     translation: them
     transliteration: ʿalayhā
   7:
-    arabic: وَالۡمُؤَلَّـفَةِ
+    arabic: وَٱلۡمُؤَلَّفَةِ
     translation: and the ones inclined
     transliteration: wal-mu-alafati
   8:
-    arabic: قُلُوۡبُهُمۡ
+    arabic: قُلُوبُهُمۡ
     translation: their hearts
     transliteration: qulūbuhum
   9:
-    arabic: وَفِى
+    arabic: وَفِي
     translation: and in
     transliteration: wafī
   10:
-    arabic: الرِّقَابِ
+    arabic: ٱلرِّقَابِ
     translation: the (freeing of) the necks
     transliteration: l-riqābi
   11:
-    arabic: وَالۡغٰرِمِيۡنَ
+    arabic: وَٱلۡغَٰرِمِينَ
     translation: and for those in debt
     transliteration: wal-ghārimīna
   12:
-    arabic: وَفِىۡ
+    arabic: وَفِي
     translation: and in
     transliteration: wafī
   13:
-    arabic: سَبِيۡلِ
+    arabic: سَبِيلِ
     translation: (the) way
     transliteration: sabīli
   14:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (of) Allah
     transliteration: l-lahi
   15:
-    arabic: وَابۡنِ
+    arabic: وَٱبۡنِ
     translation: 'and the wayfarer '
     transliteration: wa-ib'ni
   16:
-    arabic: السَّبِيۡلِ​ؕ
+    arabic: ٱلسَّبِيلِۖ
     translation: 'and the wayfarer '
     transliteration: l-sabīli
   17:
-    arabic: فَرِيۡضَةً
+    arabic: فَرِيضَةٗ
     translation: an obligation
     transliteration: farīḍatan
   18:
@@ -81,19 +80,19 @@ word_by_word:
     translation: from
     transliteration: mina
   19:
-    arabic: اللّٰهِ​ؕ
+    arabic: ٱللَّهِۗ
     translation: Allah
     transliteration: l-lahi
   20:
-    arabic: وَاللّٰهُ
+    arabic: وَٱللَّهُ
     translation: And Allah
     transliteration: wal-lahu
   21:
-    arabic: عَلِيۡمٌ
+    arabic: عَلِيمٌ
     translation: (is) All-Knowing
     transliteration: ʿalīmun
   22:
-    arabic: "حَكِيۡمٌ‏ \uFEFF\uFEFF"
+    arabic: حَكِيمٞ
     translation: All-Wise
     transliteration: ḥakīmun
 ---

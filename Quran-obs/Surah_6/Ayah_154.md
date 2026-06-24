@@ -1,25 +1,24 @@
 ---
-arabic_ayat: "ثُمَّ اٰتَيۡنَا مُوۡسَى الۡـكِتٰبَ تَمَامًا عَلَى الَّذِىۡۤ اَحۡسَنَ\
-  \ وَتَفۡصِيۡلاً لِّـكُلِّ شَىۡءٍ وَّهُدًى وَرَحۡمَةً لَّعَلَّهُمۡ بِلِقَآءِ رَبِّهِمۡ\
-  \ يُؤۡمِنُوۡنَ‏ \uFEFF\uFEFF"
+arabic_ayat: ثُمَّ ءَاتَيۡنَا مُوسَى ٱلۡكِتَٰبَ تَمَامًا عَلَى ٱلَّذِيٓ أَحۡسَنَ وَتَفۡصِيلٗا
+  لِّكُلِّ شَيۡءٖ وَهُدٗى وَرَحۡمَةٗ لَّعَلَّهُم بِلِقَآءِ رَبِّهِمۡ يُؤۡمِنُونَ
 sentence_translation: Additionally, We gave Moses the Scripture, completing the favour
   upon those who do good, detailing everything, and as a guide and a mercy, so perhaps
   they would be certain of the meeting with their Lord.
 word_by_word:
   1:
-    arabic: ثُمَّ
+    arabic: ثُمَّ ءَ
     translation: Moreover
     transliteration: thumma
   2:
-    arabic: اٰتَيۡنَا
+    arabic: اتَيۡنَا
     translation: We gave
     transliteration: ātaynā
   3:
-    arabic: مُوۡسَى
+    arabic: مُوسَى
     translation: Musa
     transliteration: mūsā
   4:
-    arabic: الۡـكِتٰبَ
+    arabic: ٱلۡكِتَٰبَ
     translation: the Book
     transliteration: l-kitāba
   5:
@@ -31,35 +30,35 @@ word_by_word:
     translation: 'on'
     transliteration: ʿalā
   7:
-    arabic: الَّذِىۡۤ
+    arabic: ٱلَّذِيٓ
     translation: the one who
     transliteration: alladhī
   8:
-    arabic: اَحۡسَنَ
+    arabic: أَحۡسَنَ
     translation: did good
     transliteration: aḥsana
   9:
-    arabic: وَتَفۡصِيۡلاً
+    arabic: وَتَفۡصِيلٗا
     translation: and an explanation
     transliteration: watafṣīlan
   10:
-    arabic: لِّـكُلِّ
+    arabic: لِّكُلِّ
     translation: of every
     transliteration: likulli
   11:
-    arabic: شَىۡءٍ
+    arabic: شَيۡءٖ
     translation: thing
     transliteration: shayin
   12:
-    arabic: وَّهُدًى
+    arabic: وَهُدٗى
     translation: and a guidance
     transliteration: wahudan
   13:
-    arabic: وَرَحۡمَةً
+    arabic: وَرَحۡمَةٗ
     translation: and mercy
     transliteration: waraḥmatan
   14:
-    arabic: لَّعَلَّهُمۡ
+    arabic: لَّعَلَّهُم
     translation: so that they may
     transliteration: laʿallahum
   15:
@@ -71,7 +70,7 @@ word_by_word:
     translation: (with) their Lord
     transliteration: rabbihim
   17:
-    arabic: "يُؤۡمِنُوۡنَ‏ \uFEFF\uFEFF"
+    arabic: يُؤۡمِنُونَ
     translation: believe
     transliteration: yu'minūna
 ---

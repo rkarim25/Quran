@@ -1,5 +1,5 @@
 ---
-arabic_ayat: لَا شَرِيۡكَ لَهٗ​ۚ وَبِذٰلِكَ اُمِرۡتُ وَاَنَا اَوَّلُ الۡمُسۡلِمِيۡنَ‏
+arabic_ayat: لَا شَرِيكَ لَهُۥۖ وَبِذَٰلِكَ أُمِرۡتُ وَأَنَا۠ أَوَّلُ ٱلۡمُسۡلِمِينَ
 sentence_translation: He has no partner. So I am commanded, and so I am the first
   to submit.”
 word_by_word:
@@ -8,31 +8,31 @@ word_by_word:
     translation: 'No'
     transliteration: lā
   2:
-    arabic: شَرِيۡكَ
+    arabic: شَرِيكَ
     translation: partners
     transliteration: sharīka
   3:
-    arabic: لَهٗ​ۚ
+    arabic: لَهُۥۖ
     translation: for Him
     transliteration: lahu
   4:
-    arabic: وَبِذٰلِكَ
+    arabic: وَبِذَٰلِكَ
     translation: and with that
     transliteration: wabidhālika
   5:
-    arabic: اُمِرۡتُ
+    arabic: أُمِرۡتُ
     translation: I have been commanded
     transliteration: umir'tu
   6:
-    arabic: وَاَنَا
+    arabic: وَأَنَا۠
     translation: And I am
     transliteration: wa-anā
   7:
-    arabic: اَوَّلُ
+    arabic: أَوَّلُ
     translation: (the) first
     transliteration: awwalu
   8:
-    arabic: الۡمُسۡلِمِيۡنَ‏
+    arabic: ٱلۡمُسۡلِمِينَ
     translation: (of) the ones who surrender (to Him)
     transliteration: l-mus'limīna
 ---

@@ -1,15 +1,15 @@
 ---
-arabic_ayat: وَانْطَلَقَ الۡمَلَاُ مِنۡهُمۡ اَنِ امۡشُوۡا وَاصۡبِرُوۡا عَلٰٓى اٰلِهَتِكُمۡ​
-  ​ۖۚ​ اِنَّ هٰذَا لَشَىۡءٌ يُّرَادُ ۖ​ۚ‏
+arabic_ayat: وَٱنطَلَقَ ٱلۡمَلَأُ مِنۡهُمۡ أَنِ ٱمۡشُواْ وَٱصۡبِرُواْ عَلَىٰٓ ءَالِهَتِكُمۡۖ
+  إِنَّ هَٰذَا لَشَيۡءٞ يُرَادُ
 sentence_translation: The chiefs among them went forth saying, “Carry on, and stand
   firm in devotion to your gods. Certainly this is just a scheme ˹for power˺.
 word_by_word:
   1:
-    arabic: وَانْطَلَقَ
+    arabic: وَٱنطَلَقَ
     translation: And went forth
     transliteration: wa-inṭalaqa
   2:
-    arabic: الۡمَلَاُ
+    arabic: ٱلۡمَلَأُ
     translation: the chiefs
     transliteration: l-mala-u
   3:
@@ -17,39 +17,39 @@ word_by_word:
     translation: among them
     transliteration: min'hum
   4:
-    arabic: اَنِ
+    arabic: أَنِ
     translation: that
     transliteration: ani
   5:
-    arabic: امۡشُوۡا
+    arabic: ٱمۡشُواْ
     translation: Continue
     transliteration: im'shū
   6:
-    arabic: وَاصۡبِرُوۡا
+    arabic: وَٱصۡبِرُواْ
     translation: and be patient
     transliteration: wa-iṣ'birū
   7:
-    arabic: عَلٰٓى
+    arabic: عَلَىٰٓ ءَ
     translation: over
     transliteration: ʿalā
   8:
-    arabic: اٰلِهَتِكُمۡ​ ​ۖۚ​
+    arabic: الِهَتِكُمۡۖ
     translation: your gods
     transliteration: ālihatikum
   9:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   10:
-    arabic: هٰذَا
+    arabic: هَٰذَا
     translation: this
     transliteration: hādhā
   11:
-    arabic: لَشَىۡءٌ
+    arabic: لَشَيۡءٞ
     translation: (is) certainly a thing
     transliteration: lashayon
   12:
-    arabic: يُّرَادُ ۖ​ۚ‏
+    arabic: يُرَادُ
     translation: intended
     transliteration: yurādu
 ---

@@ -1,5 +1,5 @@
 ---
-arabic_ayat: وَمَا تِلۡكَ بِيَمِيۡنِكَ يٰمُوۡسٰى‏
+arabic_ayat: وَمَا تِلۡكَ بِيَمِينِكَ يَٰمُوسَىٰ
 sentence_translation: ˹Allah added,˺ “And what is that in your right hand, O  Moses?”
 word_by_word:
   1:
@@ -11,11 +11,11 @@ word_by_word:
     translation: (is) that
     transliteration: til'ka
   3:
-    arabic: بِيَمِيۡنِكَ
+    arabic: بِيَمِينِكَ
     translation: in your right hand
     transliteration: biyamīnika
   4:
-    arabic: يٰمُوۡسٰى‏
+    arabic: يَٰمُوسَىٰ
     translation: O Musa
     transliteration: yāmūsā
 ---

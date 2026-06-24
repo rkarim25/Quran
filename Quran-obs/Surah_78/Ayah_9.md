@@ -1,9 +1,9 @@
 ---
-arabic_ayat: وَّجَعَلۡنَا نَوۡمَكُمۡ سُبَاتًا ۙ‏
+arabic_ayat: وَجَعَلۡنَا نَوۡمَكُمۡ سُبَاتٗا
 sentence_translation: and made your sleep for rest,
 word_by_word:
   1:
-    arabic: وَّجَعَلۡنَا
+    arabic: وَجَعَلۡنَا
     translation: And We made
     transliteration: wajaʿalnā
   2:
@@ -11,7 +11,7 @@ word_by_word:
     translation: your sleep
     transliteration: nawmakum
   3:
-    arabic: سُبَاتًا ۙ‏
+    arabic: سُبَاتٗا
     translation: (for) rest
     transliteration: subātan
 ---

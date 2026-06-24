@@ -1,29 +1,29 @@
 ---
-arabic_ayat: يَقُوۡلُوۡنَ لَٮِٕنۡ رَّجَعۡنَاۤ اِلَى الۡمَدِيۡنَةِ لَيُخۡرِجَنَّ الۡاَعَزُّ
-  مِنۡهَا الۡاَذَلَّ ​ؕ وَلِلّٰهِ الۡعِزَّةُ وَلِرَسُوۡلِهٖ وَلِلۡمُؤۡمِنِيۡنَ وَلٰـكِنَّ
-  الۡمُنٰفِقِيۡنَ لَا يَعۡلَمُوۡنَ‏
+arabic_ayat: يَقُولُونَ لَئِن رَّجَعۡنَآ إِلَى ٱلۡمَدِينَةِ لَيُخۡرِجَنَّ ٱلۡأَعَزُّ
+  مِنۡهَا ٱلۡأَذَلَّۚ وَلِلَّهِ ٱلۡعِزَّةُ وَلِرَسُولِهِۦ وَلِلۡمُؤۡمِنِينَ وَلَٰكِنَّ
+  ٱلۡمُنَٰفِقِينَ لَا يَعۡلَمُونَ
 sentence_translation: They say, “If we return to Medina, the honourable will definitely
   expel the inferior.” But all honour and power belongs to Allah, His Messenger, and
   the believers, yet the hypocrites do not know.
 word_by_word:
   1:
-    arabic: يَقُوۡلُوۡنَ
+    arabic: يَقُولُونَ
     translation: They say
     transliteration: yaqūlūna
   2:
-    arabic: لَٮِٕنۡ
+    arabic: لَئِن
     translation: If
     transliteration: la-in
   3:
-    arabic: رَّجَعۡنَاۤ
+    arabic: رَّجَعۡنَآ
     translation: we return
     transliteration: rajaʿnā
   4:
-    arabic: اِلَى
+    arabic: إِلَى
     translation: to
     transliteration: ilā
   5:
-    arabic: الۡمَدِيۡنَةِ
+    arabic: ٱلۡمَدِينَةِ
     translation: Al-Madinah
     transliteration: l-madīnati
   6:
@@ -31,7 +31,7 @@ word_by_word:
     translation: surely, will expel
     transliteration: layukh'rijanna
   7:
-    arabic: الۡاَعَزُّ
+    arabic: ٱلۡأَعَزُّ
     translation: the more honorable
     transliteration: l-aʿazu
   8:
@@ -39,31 +39,31 @@ word_by_word:
     translation: from it
     transliteration: min'hā
   9:
-    arabic: الۡاَذَلَّ ​ؕ
+    arabic: ٱلۡأَذَلَّۚ
     translation: the more humble
     transliteration: l-adhala
   10:
-    arabic: وَلِلّٰهِ
+    arabic: وَلِلَّهِ
     translation: But for Allah
     transliteration: walillahi
   11:
-    arabic: الۡعِزَّةُ
+    arabic: ٱلۡعِزَّةُ
     translation: (is) the honor
     transliteration: l-ʿizatu
   12:
-    arabic: وَلِرَسُوۡلِهٖ
+    arabic: وَلِرَسُولِهِۦ
     translation: and for His Messenger
     transliteration: walirasūlihi
   13:
-    arabic: وَلِلۡمُؤۡمِنِيۡنَ
+    arabic: وَلِلۡمُؤۡمِنِينَ
     translation: and for the believers
     transliteration: walil'mu'minīna
   14:
-    arabic: وَلٰـكِنَّ
+    arabic: وَلَٰكِنَّ
     translation: but
     transliteration: walākinna
   15:
-    arabic: الۡمُنٰفِقِيۡنَ
+    arabic: ٱلۡمُنَٰفِقِينَ
     translation: the hypocrites
     transliteration: l-munāfiqīna
   16:
@@ -71,7 +71,7 @@ word_by_word:
     translation: (do) not
     transliteration: lā
   17:
-    arabic: يَعۡلَمُوۡنَ‏
+    arabic: يَعۡلَمُونَ
     translation: know
     transliteration: yaʿlamūna
 ---

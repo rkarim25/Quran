@@ -1,13 +1,13 @@
 ---
-arabic_ayat: كَانُوۡا قَلِيۡلًا مِّنَ الَّيۡلِ مَا يَهۡجَعُوۡنَ‏
+arabic_ayat: كَانُواْ قَلِيلٗا مِّنَ ٱلَّيۡلِ مَا يَهۡجَعُونَ
 sentence_translation: they used to sleep only little in the night,
 word_by_word:
   1:
-    arabic: كَانُوۡا
+    arabic: كَانُواْ
     translation: They used to
     transliteration: kānū
   2:
-    arabic: قَلِيۡلًا
+    arabic: قَلِيلٗا
     translation: little
     transliteration: qalīlan
   3:
@@ -15,7 +15,7 @@ word_by_word:
     translation: of
     transliteration: mina
   4:
-    arabic: الَّيۡلِ
+    arabic: ٱلَّيۡلِ
     translation: the night
     transliteration: al-layli
   5:
@@ -23,7 +23,7 @@ word_by_word:
     translation: '[what]'
     transliteration: mā
   6:
-    arabic: يَهۡجَعُوۡنَ‏
+    arabic: يَهۡجَعُونَ
     translation: sleep
     transliteration: yahjaʿūna
 ---

@@ -1,17 +1,17 @@
 ---
-arabic_ayat: وَ اِذَا السَّمَآءُ فُرِجَتۡۙ‏
+arabic_ayat: وَإِذَا ٱلسَّمَآءُ فُرِجَتۡ
 sentence_translation: and the sky is torn apart,
 word_by_word:
   1:
-    arabic: وَ اِذَا
+    arabic: وَإِذَا
     translation: And when
     transliteration: wa-idhā
   2:
-    arabic: السَّمَآءُ
+    arabic: ٱلسَّمَآءُ
     translation: the heaven
     transliteration: l-samāu
   3:
-    arabic: فُرِجَتۡۙ‏
+    arabic: فُرِجَتۡ
     translation: is cleft asunder
     transliteration: furijat
 ---

@@ -1,9 +1,9 @@
 ---
-arabic_ayat: اَلَا يَظُنُّ اُولٰٓٮِٕكَ اَنَّهُمۡ مَّبۡعُوۡثُوۡنَۙ‏
+arabic_ayat: أَلَا يَظُنُّ أُوْلَٰٓئِكَ أَنَّهُم مَّبۡعُوثُونَ
 sentence_translation: Do such people not think that they will be resurrected
 word_by_word:
   1:
-    arabic: اَلَا
+    arabic: أَلَا
     translation: Do not
     transliteration: alā
   2:
@@ -11,15 +11,15 @@ word_by_word:
     translation: think
     transliteration: yaẓunnu
   3:
-    arabic: اُولٰٓٮِٕكَ
+    arabic: أُوْلَٰٓئِكَ
     translation: those
     transliteration: ulāika
   4:
-    arabic: اَنَّهُمۡ
+    arabic: أَنَّهُم
     translation: that they
     transliteration: annahum
   5:
-    arabic: مَّبۡعُوۡثُوۡنَۙ‏
+    arabic: مَّبۡعُوثُونَ
     translation: (will be) resurrected
     transliteration: mabʿūthūna
 ---

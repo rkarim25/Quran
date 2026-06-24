@@ -1,10 +1,10 @@
 ---
-arabic_ayat: وَّنَرِثُهٗ مَا يَقُوۡلُ وَيَاۡتِيۡنَا فَرۡدًا‏
+arabic_ayat: وَنَرِثُهُۥ مَا يَقُولُ وَيَأۡتِينَا فَرۡدٗا
 sentence_translation: And We will inherit what he boasts of, and he will come before
   Us all by himself.
 word_by_word:
   1:
-    arabic: وَّنَرِثُهٗ
+    arabic: وَنَرِثُهُۥ
     translation: And We will inherit (from) him
     transliteration: wanarithuhu
   2:
@@ -12,15 +12,15 @@ word_by_word:
     translation: what
     transliteration: mā
   3:
-    arabic: يَقُوۡلُ
+    arabic: يَقُولُ
     translation: he says
     transliteration: yaqūlu
   4:
-    arabic: وَيَاۡتِيۡنَا
+    arabic: وَيَأۡتِينَا
     translation: and he will come to Us
     transliteration: wayatīnā
   5:
-    arabic: فَرۡدًا‏
+    arabic: فَرۡدٗا
     translation: alone
     transliteration: fardan
 ---

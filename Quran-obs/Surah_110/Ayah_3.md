@@ -1,5 +1,5 @@
 ---
-arabic_ayat: فَسَبِّحۡ بِحَمۡدِ رَبِّكَ وَاسۡتَغۡفِرۡهُ​ ؕ اِنَّهٗ كَانَ تَوَّابًا‏
+arabic_ayat: فَسَبِّحۡ بِحَمۡدِ رَبِّكَ وَٱسۡتَغۡفِرۡهُۚ إِنَّهُۥ كَانَ تَوَّابَۢا
 sentence_translation: then glorify the praises of your Lord and seek His forgiveness,
   for certainly He is ever Accepting of Repentance.
 word_by_word:
@@ -16,11 +16,11 @@ word_by_word:
     translation: (of) your Lord
     transliteration: rabbika
   4:
-    arabic: وَاسۡتَغۡفِرۡهُ​ ؕ
+    arabic: وَٱسۡتَغۡفِرۡهُۚ
     translation: and ask His forgiveness
     transliteration: wa-is'taghfir'hu
   5:
-    arabic: اِنَّهٗ
+    arabic: إِنَّهُۥ
     translation: Indeed, He
     transliteration: innahu
   6:
@@ -28,7 +28,7 @@ word_by_word:
     translation: is
     transliteration: kāna
   7:
-    arabic: تَوَّابًا‏
+    arabic: تَوَّابَۢا
     translation: Oft-Returning
     transliteration: tawwāban
 ---

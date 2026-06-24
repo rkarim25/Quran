@@ -1,43 +1,43 @@
 ---
-arabic_ayat: "وَقَاتِلُوۡا فِىۡ سَبِيۡلِ اللّٰهِ وَاعۡلَمُوۡٓا اَنَّ اللّٰهَ سَمِيۡعٌ\
-  \ عَلِيۡمٌ‏ \uFEFF\uFEFF"
+arabic_ayat: وَقَٰتِلُواْ فِي سَبِيلِ ٱللَّهِ وَٱعۡلَمُوٓاْ أَنَّ ٱللَّهَ سَمِيعٌ
+  عَلِيمٞ
 sentence_translation: Fight in the cause of Allah, and know that Allah is All-Hearing,
   All-Knowing.
 word_by_word:
   1:
-    arabic: وَقَاتِلُوۡا
+    arabic: وَقَٰتِلُواْ
     translation: And fight
     transliteration: waqātilū
   2:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   3:
-    arabic: سَبِيۡلِ
+    arabic: سَبِيلِ
     translation: (the) way
     transliteration: sabīli
   4:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (of) Allah
     transliteration: l-lahi
   5:
-    arabic: وَاعۡلَمُوۡٓا
+    arabic: وَٱعۡلَمُوٓاْ
     translation: and know
     transliteration: wa-iʿ'lamū
   6:
-    arabic: اَنَّ
+    arabic: أَنَّ
     translation: that
     transliteration: anna
   7:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   8:
-    arabic: سَمِيۡعٌ
+    arabic: سَمِيعٌ
     translation: (is) All-Hearing
     transliteration: samīʿun
   9:
-    arabic: "عَلِيۡمٌ‏ \uFEFF\uFEFF"
+    arabic: عَلِيمٞ
     translation: All-Knowing
     transliteration: ʿalīmun
 ---

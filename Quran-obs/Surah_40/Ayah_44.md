@@ -1,55 +1,55 @@
 ---
-arabic_ayat: فَسَتَذۡكُرُوۡنَ مَاۤ اَقُوۡلُ لَـكُمۡؕ وَاُفَوِّضُ اَمۡرِىۡۤ اِلَى اللّٰهِؕ
-  اِنَّ اللّٰهَ بَصِيۡرٌۢ بِالۡعِبَادِ‏
+arabic_ayat: فَسَتَذۡكُرُونَ مَآ أَقُولُ لَكُمۡۚ وَأُفَوِّضُ أَمۡرِيٓ إِلَى ٱللَّهِۚ
+  إِنَّ ٱللَّهَ بَصِيرُۢ بِٱلۡعِبَادِ
 sentence_translation: You will remember what I say to you, and I entrust my affairs
   to Allah. Surely Allah is All-Seeing of all ˹His˺ servants.”
 word_by_word:
   1:
-    arabic: فَسَتَذۡكُرُوۡنَ
+    arabic: فَسَتَذۡكُرُونَ
     translation: And you will remember
     transliteration: fasatadhkurūna
   2:
-    arabic: مَاۤ
+    arabic: مَآ
     translation: what
     transliteration: mā
   3:
-    arabic: اَقُوۡلُ
+    arabic: أَقُولُ
     translation: I say
     transliteration: aqūlu
   4:
-    arabic: لَـكُمۡؕ
+    arabic: لَكُمۡۚ
     translation: to you
     transliteration: lakum
   5:
-    arabic: وَاُفَوِّضُ
+    arabic: وَأُفَوِّضُ
     translation: and I entrust
     transliteration: wa-ufawwiḍu
   6:
-    arabic: اَمۡرِىۡۤ
+    arabic: أَمۡرِيٓ
     translation: my affair
     transliteration: amrī
   7:
-    arabic: اِلَى
+    arabic: إِلَى
     translation: to
     transliteration: ilā
   8:
-    arabic: اللّٰهِؕ
+    arabic: ٱللَّهِۚ
     translation: Allah
     transliteration: l-lahi
   9:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   10:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   11:
-    arabic: بَصِيۡرٌۢ
+    arabic: بَصِيرُۢ
     translation: (is) All-Seer
     transliteration: baṣīrun
   12:
-    arabic: بِالۡعِبَادِ‏
+    arabic: بِٱلۡعِبَادِ
     translation: of (His) slaves
     transliteration: bil-ʿibādi
 ---

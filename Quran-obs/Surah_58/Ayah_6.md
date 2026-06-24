@@ -1,6 +1,6 @@
 ---
-arabic_ayat: يَوۡمَ يَبۡعَثُهُمُ اللّٰهُ جَمِيۡعًا فَيُنَبِّئُهُمۡ بِمَا عَمِلُوۡا​
-  ؕ اَحۡصٰٮهُ اللّٰهُ وَنَسُوۡهُ​ ؕ وَاللّٰهُ عَلٰى كُلِّ شَىۡءٍ شَهِيۡدٌ​‏
+arabic_ayat: يَوۡمَ يَبۡعَثُهُمُ ٱللَّهُ جَمِيعٗا فَيُنَبِّئُهُم بِمَا عَمِلُوٓاْۚ
+  أَحۡصَىٰهُ ٱللَّهُ وَنَسُوهُۚ وَٱللَّهُ عَلَىٰ كُلِّ شَيۡءٖ شَهِيدٌ
 sentence_translation: On the Day Allah resurrects them all together, He will then
   inform them of what they have done. Allah has kept account of it all, while they
   have forgotten it. For Allah is a Witness over all things.
@@ -14,15 +14,15 @@ word_by_word:
     translation: (when) Allah will raise them
     transliteration: yabʿathuhumu
   3:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: (when) Allah will raise them
     transliteration: l-lahu
   4:
-    arabic: جَمِيۡعًا
+    arabic: جَمِيعٗا
     translation: all
     transliteration: jamīʿan
   5:
-    arabic: فَيُنَبِّئُهُمۡ
+    arabic: فَيُنَبِّئُهُم
     translation: and inform them
     transliteration: fayunabbi-uhum
   6:
@@ -30,27 +30,27 @@ word_by_word:
     translation: of what
     transliteration: bimā
   7:
-    arabic: عَمِلُوۡا​ ؕ
+    arabic: عَمِلُوٓاْۚ
     translation: they did
     transliteration: ʿamilū
   8:
-    arabic: اَحۡصٰٮهُ
+    arabic: أَحۡصَىٰهُ
     translation: Allah has recorded it
     transliteration: aḥṣāhu
   9:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah has recorded it
     transliteration: l-lahu
   10:
-    arabic: وَنَسُوۡهُ​ ؕ
+    arabic: وَنَسُوهُۚ
     translation: while they forgot it
     transliteration: wanasūhu
   11:
-    arabic: وَاللّٰهُ
+    arabic: وَٱللَّهُ
     translation: And Allah
     transliteration: wal-lahu
   12:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: (is) over
     transliteration: ʿalā
   13:
@@ -58,11 +58,11 @@ word_by_word:
     translation: all
     transliteration: kulli
   14:
-    arabic: شَىۡءٍ
+    arabic: شَيۡءٖ
     translation: things
     transliteration: shayin
   15:
-    arabic: شَهِيۡدٌ​‏
+    arabic: شَهِيدٌ
     translation: a Witness
     transliteration: shahīdun
 ---

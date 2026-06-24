@@ -1,9 +1,9 @@
 ---
-arabic_ayat: وَّبِكُفۡرِهِمۡ وَقَوۡلِهِمۡ عَلٰى مَرۡيَمَ بُهۡتَانًـا عَظِيۡمًا ۙ‏
+arabic_ayat: وَبِكُفۡرِهِمۡ وَقَوۡلِهِمۡ عَلَىٰ مَرۡيَمَ بُهۡتَٰنًا عَظِيمٗا
 sentence_translation: and for their denial and outrageous accusation against Mary,
 word_by_word:
   1:
-    arabic: وَّبِكُفۡرِهِمۡ
+    arabic: وَبِكُفۡرِهِمۡ
     translation: And for their disbelief
     transliteration: wabikuf'rihim
   2:
@@ -11,7 +11,7 @@ word_by_word:
     translation: and their saying
     transliteration: waqawlihim
   3:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: against
     transliteration: ʿalā
   4:
@@ -19,11 +19,11 @@ word_by_word:
     translation: Maryam
     transliteration: maryama
   5:
-    arabic: بُهۡتَانًـا
+    arabic: بُهۡتَٰنًا
     translation: a slander
     transliteration: buh'tānan
   6:
-    arabic: عَظِيۡمًا ۙ‏
+    arabic: عَظِيمٗا
     translation: great
     transliteration: ʿaẓīman
 ---

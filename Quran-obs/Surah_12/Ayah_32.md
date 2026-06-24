@@ -1,7 +1,7 @@
 ---
-arabic_ayat: قَالَتۡ فَذٰلِكُنَّ الَّذِىۡ لُمۡتُنَّنِىۡ فِيۡهِ​ؕ وَ لَـقَدۡ رَاوَدْتُّهٗ
-  عَنۡ نَّـفۡسِهٖ فَاسۡتَعۡصَمَ​ؕ وَلَٮِٕنۡ لَّمۡ يَفۡعَلۡ مَاۤ اٰمُرُهٗ لَـيُسۡجَنَنَّ
-  وَلَيَكُوۡنًا مِّنَ الصّٰغِرِيۡنَ‏
+arabic_ayat: قَالَتۡ فَذَٰلِكُنَّ ٱلَّذِي لُمۡتُنَّنِي فِيهِۖ وَلَقَدۡ رَٰوَدتُّهُۥ
+  عَن نَّفۡسِهِۦ فَٱسۡتَعۡصَمَۖ وَلَئِن لَّمۡ يَفۡعَلۡ مَآ ءَامُرُهُۥ لَيُسۡجَنَنَّ
+  وَلَيَكُونٗا مِّنَ ٱلصَّٰغِرِينَ
 sentence_translation: She said, “This is the one for whose love you criticized me!
   I did try to seduce him but he ˹firmly˺ refused. And if he does not do what I order
   him to, he will certainly be imprisoned and ˹fully˺ disgraced.” 
@@ -11,43 +11,43 @@ word_by_word:
     translation: She said
     transliteration: qālat
   2:
-    arabic: فَذٰلِكُنَّ
+    arabic: فَذَٰلِكُنَّ
     translation: That
     transliteration: fadhālikunna
   3:
-    arabic: الَّذِىۡ
+    arabic: ٱلَّذِي
     translation: (is) the one
     transliteration: alladhī
   4:
-    arabic: لُمۡتُنَّنِىۡ
+    arabic: لُمۡتُنَّنِي
     translation: you blamed me
     transliteration: lum'tunnanī
   5:
-    arabic: فِيۡهِ​ؕ
+    arabic: فِيهِۖ
     translation: about him
     transliteration: fīhi
   6:
-    arabic: وَ لَـقَدۡ
+    arabic: وَلَقَدۡ
     translation: And certainly
     transliteration: walaqad
   7:
-    arabic: رَاوَدْتُّهٗ
+    arabic: رَٰوَدتُّهُۥ
     translation: I sought to seduce him
     transliteration: rāwadttuhu
   8:
-    arabic: عَنۡ
+    arabic: عَن
     translation: '[from]'
     transliteration: ʿan
   9:
-    arabic: نَّـفۡسِهٖ
+    arabic: نَّفۡسِهِۦ
     translation: '[himself]'
     transliteration: nafsihi
   10:
-    arabic: فَاسۡتَعۡصَمَ​ؕ
+    arabic: فَٱسۡتَعۡصَمَۖ
     translation: but he saved himself
     transliteration: fa-is'taʿṣama
   11:
-    arabic: وَلَٮِٕنۡ
+    arabic: وَلَئِن
     translation: and if
     transliteration: wala-in
   12:
@@ -59,19 +59,19 @@ word_by_word:
     translation: he does
     transliteration: yafʿal
   14:
-    arabic: مَاۤ
+    arabic: مَآ ءَ
     translation: what
     transliteration: mā
   15:
-    arabic: اٰمُرُهٗ
+    arabic: امُرُهُۥ
     translation: I order him
     transliteration: āmuruhu
   16:
-    arabic: لَـيُسۡجَنَنَّ
+    arabic: لَيُسۡجَنَنَّ
     translation: surely, he will be imprisoned
     transliteration: layus'jananna
   17:
-    arabic: وَلَيَكُوۡنًا
+    arabic: وَلَيَكُونٗا
     translation: and certainly will be
     transliteration: walayakūnan
   18:
@@ -79,7 +79,7 @@ word_by_word:
     translation: of
     transliteration: mina
   19:
-    arabic: الصّٰغِرِيۡنَ‏
+    arabic: ٱلصَّٰغِرِينَ
     translation: those who are disgraced
     transliteration: l-ṣāghirīna
 ---

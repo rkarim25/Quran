@@ -1,13 +1,13 @@
 ---
-arabic_ayat: جَهَـنَّمَ​ۚ يَصۡلَوۡنَهَا​ؕ وَبِئۡسَ الۡقَرَارُ‏
+arabic_ayat: جَهَنَّمَ يَصۡلَوۡنَهَاۖ وَبِئۡسَ ٱلۡقَرَارُ
 sentence_translation: In Hell they will burn. What an evil place for settlement.
 word_by_word:
   1:
-    arabic: جَهَـنَّمَ​ۚ
+    arabic: جَهَنَّمَ
     translation: Hell
     transliteration: jahannama
   2:
-    arabic: يَصۡلَوۡنَهَا​ؕ
+    arabic: يَصۡلَوۡنَهَاۖ
     translation: (in) it they will burn
     transliteration: yaṣlawnahā
   3:
@@ -15,7 +15,7 @@ word_by_word:
     translation: and a wretched
     transliteration: wabi'sa
   4:
-    arabic: الۡقَرَارُ‏
+    arabic: ٱلۡقَرَارُ
     translation: place to settle
     transliteration: l-qarāru
 ---

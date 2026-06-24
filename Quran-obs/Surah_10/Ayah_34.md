@@ -1,6 +1,6 @@
 ---
-arabic_ayat: قُلۡ هَلۡ مِنۡ شُرَكَآٮِٕكُمۡ مَّنۡ يَّبۡدَؤُا الۡخَـلۡقَ ثُمَّ يُعِيۡدُهٗ​
-  ؕ قُلِ اللّٰهُ يَـبۡدَؤُا الۡخَـلۡقَ ثُمَّ يُعِيۡدُهٗ​ؕ فَاَنّٰى تُؤۡفَكُوۡنَ‏
+arabic_ayat: قُلۡ هَلۡ مِن شُرَكَآئِكُم مَّن يَبۡدَؤُاْ ٱلۡخَلۡقَ ثُمَّ يُعِيدُهُۥۚ
+  قُلِ ٱللَّهُ يَبۡدَؤُاْ ٱلۡخَلۡقَ ثُمَّ يُعِيدُهُۥۖ فَأَنَّىٰ تُؤۡفَكُونَ
 sentence_translation: Ask ˹them, O  Prophet˺, “Can any of your associate-gods originate
   creation and then resurrect it?” Say, “˹Only˺ Allah originates creation and then
   resurrects it. How can you then be deluded ˹from the truth˺?”
@@ -14,23 +14,23 @@ word_by_word:
     translation: Is (there)
     transliteration: hal
   3:
-    arabic: مِنۡ
+    arabic: مِن
     translation: of
     transliteration: min
   4:
-    arabic: شُرَكَآٮِٕكُمۡ
+    arabic: شُرَكَآئِكُم
     translation: your partners
     transliteration: shurakāikum
   5:
-    arabic: مَّنۡ
+    arabic: مَّن
     translation: (any) who
     transliteration: man
   6:
-    arabic: يَّبۡدَؤُا
+    arabic: يَبۡدَؤُاْ
     translation: originates
     transliteration: yabda-u
   7:
-    arabic: الۡخَـلۡقَ
+    arabic: ٱلۡخَلۡقَ
     translation: the creation
     transliteration: l-khalqa
   8:
@@ -38,7 +38,7 @@ word_by_word:
     translation: then
     transliteration: thumma
   9:
-    arabic: يُعِيۡدُهٗ​ ؕ
+    arabic: يُعِيدُهُۥۚ
     translation: repeats it
     transliteration: yuʿīduhu
   10:
@@ -46,15 +46,15 @@ word_by_word:
     translation: Say
     transliteration: quli
   11:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   12:
-    arabic: يَـبۡدَؤُا
+    arabic: يَبۡدَؤُاْ
     translation: originates
     transliteration: yabda-u
   13:
-    arabic: الۡخَـلۡقَ
+    arabic: ٱلۡخَلۡقَ
     translation: the creation
     transliteration: l-khalqa
   14:
@@ -62,15 +62,15 @@ word_by_word:
     translation: then
     transliteration: thumma
   15:
-    arabic: يُعِيۡدُهٗ​ؕ
+    arabic: يُعِيدُهُۥۖ
     translation: repeats it
     transliteration: yuʿīduhu
   16:
-    arabic: فَاَنّٰى
+    arabic: فَأَنَّىٰ
     translation: So how
     transliteration: fa-annā
   17:
-    arabic: تُؤۡفَكُوۡنَ‏
+    arabic: تُؤۡفَكُونَ
     translation: you are deluded
     transliteration: tu'fakūna
 ---

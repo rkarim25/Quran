@@ -1,49 +1,48 @@
 ---
-arabic_ayat: "وَقَالَ نِسۡوَةٌ فِى الۡمَدِيۡنَةِ امۡرَاَتُ الۡعَزِيۡزِ تُرَاوِدُ فَتٰٮهَا\
-  \ عَنۡ نَّـفۡسِهٖ​ۚ قَدۡ شَغَفَهَا حُبًّا​ ؕ اِنَّا لَـنَرٰٮهَا فِىۡ ضَلٰلٍ مُّبِيۡنٍ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: ۞ وَقَالَ نِسۡوَةٞ فِي ٱلۡمَدِينَةِ ٱمۡرَأَتُ ٱلۡعَزِيزِ تُرَٰوِدُ فَتَىٰهَا
+  عَن نَّفۡسِهِۦۖ قَدۡ شَغَفَهَا حُبًّاۖ إِنَّا لَنَرَىٰهَا فِي ضَلَٰلٖ مُّبِينٖ
 sentence_translation: Some women of the city gossiped, “The Chief Minister’s wife
   is trying to seduce her slave-boy. Love for him has plagued her heart. Indeed, we
   see that she is clearly mistaken.”
 word_by_word:
   1:
-    arabic: ۞ وَقَالَ
+    arabic: ۞ وَقَالَ
     translation: And said
     transliteration: waqāla
   2:
-    arabic: نِسۡوَةٌ
+    arabic: نِسۡوَةٞ
     translation: women
     transliteration: nis'watun
   3:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   4:
-    arabic: الۡمَدِيۡنَةِ
+    arabic: ٱلۡمَدِينَةِ
     translation: the city
     transliteration: l-madīnati
   5:
-    arabic: امۡرَاَتُ
+    arabic: ٱمۡرَأَتُ
     translation: The wife of
     transliteration: im'ra-atu
   6:
-    arabic: الۡعَزِيۡزِ
+    arabic: ٱلۡعَزِيزِ
     translation: Aziz
     transliteration: l-ʿazīzi
   7:
-    arabic: تُرَاوِدُ
+    arabic: تُرَٰوِدُ
     translation: (is) seeking to seduce
     transliteration: turāwidu
   8:
-    arabic: فَتٰٮهَا
+    arabic: فَتَىٰهَا
     translation: her slave boy
     transliteration: fatāhā
   9:
-    arabic: عَنۡ
+    arabic: عَن
     translation: about
     transliteration: ʿan
   10:
-    arabic: نَّـفۡسِهٖ​ۚ
+    arabic: نَّفۡسِهِۦۖ
     translation: himself
     transliteration: nafsihi
   11:
@@ -55,27 +54,27 @@ word_by_word:
     translation: he has impassioned her
     transliteration: shaghafahā
   13:
-    arabic: حُبًّا​ ؕ
+    arabic: حُبًّاۖ
     translation: (with) love
     transliteration: ḥubban
   14:
-    arabic: اِنَّا
+    arabic: إِنَّا
     translation: Indeed, we
     transliteration: innā
   15:
-    arabic: لَـنَرٰٮهَا
+    arabic: لَنَرَىٰهَا
     translation: '[we] surely see her'
     transliteration: lanarāhā
   16:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   17:
-    arabic: ضَلٰلٍ
+    arabic: ضَلَٰلٖ
     translation: an error
     transliteration: ḍalālin
   18:
-    arabic: "مُّبِيۡنٍ‏ \uFEFF\uFEFF"
+    arabic: مُّبِينٖ
     translation: clear
     transliteration: mubīnin
 ---

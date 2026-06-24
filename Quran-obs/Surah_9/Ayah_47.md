@@ -1,7 +1,7 @@
 ---
-arabic_ayat: لَوۡ خَرَجُوۡا فِيۡكُمۡ مَّا زَادُوۡكُمۡ اِلَّا خَبَالًا وَّلَاْاَوۡضَعُوۡا
-  خِلٰلَـكُمۡ يَـبۡغُوۡنَـكُمُ الۡفِتۡنَةَ ۚ وَفِيۡكُمۡ سَمّٰعُوۡنَ لَهُمۡ​ ؕ وَاللّٰهُ
-  عَلِيۡمٌۢ بِالظّٰلِمِيۡنَ‏
+arabic_ayat: لَوۡ خَرَجُواْ فِيكُم مَّا زَادُوكُمۡ إِلَّا خَبَالٗا وَلَأَوۡضَعُواْ
+  خِلَٰلَكُمۡ يَبۡغُونَكُمُ ٱلۡفِتۡنَةَ وَفِيكُمۡ سَمَّٰعُونَ لَهُمۡۗ وَٱللَّهُ عَلِيمُۢ
+  بِٱلظَّٰلِمِينَ
 sentence_translation: Had they gone forth with you ˹believers˺, they would have been
   nothing but trouble for you, and would have scrambled around, seeking to spread
   discord in your midst. And some of you would have eagerly listened to them. And
@@ -12,11 +12,11 @@ word_by_word:
     translation: If
     transliteration: law
   2:
-    arabic: خَرَجُوۡا
+    arabic: خَرَجُواْ
     translation: they (had) gone forth
     transliteration: kharajū
   3:
-    arabic: فِيۡكُمۡ
+    arabic: فِيكُم
     translation: with you
     transliteration: fīkum
   4:
@@ -24,55 +24,55 @@ word_by_word:
     translation: not
     transliteration: mā
   5:
-    arabic: زَادُوۡكُمۡ
+    arabic: زَادُوكُمۡ
     translation: they (would) have increased you
     transliteration: zādūkum
   6:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   7:
-    arabic: خَبَالًا
+    arabic: خَبَالٗا
     translation: (in) confusion
     transliteration: khabālan
   8:
-    arabic: وَّلَاْاَوۡضَعُوۡا
+    arabic: وَلَأَوۡضَعُواْ
     translation: and would have been active
     transliteration: wala-awḍaʿū
   9:
-    arabic: خِلٰلَـكُمۡ
+    arabic: خِلَٰلَكُمۡ
     translation: in your midst
     transliteration: khilālakum
   10:
-    arabic: يَـبۡغُوۡنَـكُمُ
+    arabic: يَبۡغُونَكُمُ
     translation: seeking (for) you
     transliteration: yabghūnakumu
   11:
-    arabic: الۡفِتۡنَةَ ۚ
+    arabic: ٱلۡفِتۡنَةَ
     translation: dissension
     transliteration: l-fit'nata
   12:
-    arabic: وَفِيۡكُمۡ
+    arabic: وَفِيكُمۡ
     translation: And among you (are some)
     transliteration: wafīkum
   13:
-    arabic: سَمّٰعُوۡنَ
+    arabic: سَمَّٰعُونَ
     translation: who would have listened
     transliteration: sammāʿūna
   14:
-    arabic: لَهُمۡ​ ؕ
+    arabic: لَهُمۡۗ
     translation: to them
     transliteration: lahum
   15:
-    arabic: وَاللّٰهُ
+    arabic: وَٱللَّهُ
     translation: And Allah
     transliteration: wal-lahu
   16:
-    arabic: عَلِيۡمٌۢ
+    arabic: عَلِيمُۢ
     translation: (is) All-Knower
     transliteration: ʿalīmun
   17:
-    arabic: بِالظّٰلِمِيۡنَ‏
+    arabic: بِٱلظَّٰلِمِينَ
     translation: of the wrongdoers
     transliteration: bil-ẓālimīna
 ---

@@ -1,28 +1,28 @@
 ---
-arabic_ayat: قُلْ لِّـلَّذِيۡنَ كَفَرُوۡۤا اِنۡ يَّنۡتَهُوۡا يُغۡفَرۡ لَهُمۡ مَّا
-  قَدۡ سَلَفَۚ وَاِنۡ يَّعُوۡدُوۡا فَقَدۡ مَضَتۡ سُنَّتُ الۡاَوَّلِيۡنَ‏
+arabic_ayat: قُل لِّلَّذِينَ كَفَرُوٓاْ إِن يَنتَهُواْ يُغۡفَرۡ لَهُم مَّا قَدۡ سَلَفَ
+  وَإِن يَعُودُواْ فَقَدۡ مَضَتۡ سُنَّتُ ٱلۡأَوَّلِينَ
 sentence_translation: Tell the disbelievers that if they desist, their past will be
   forgiven. But if they persist, then they have an example in those destroyed before
   them.
 word_by_word:
   1:
-    arabic: قُلْ
+    arabic: قُل
     translation: Say
     transliteration: qul
   2:
-    arabic: لِّـلَّذِيۡنَ
+    arabic: لِّلَّذِينَ
     translation: to those who
     transliteration: lilladhīna
   3:
-    arabic: كَفَرُوۡۤا
+    arabic: كَفَرُوٓاْ
     translation: disbelieve
     transliteration: kafarū
   4:
-    arabic: اِنۡ
+    arabic: إِن
     translation: if
     transliteration: in
   5:
-    arabic: يَّنۡتَهُوۡا
+    arabic: يَنتَهُواْ
     translation: they cease
     transliteration: yantahū
   6:
@@ -30,7 +30,7 @@ word_by_word:
     translation: will be forgiven
     transliteration: yugh'far
   7:
-    arabic: لَهُمۡ
+    arabic: لَهُم
     translation: for them
     transliteration: lahum
   8:
@@ -42,15 +42,15 @@ word_by_word:
     translation: '[verily]'
     transliteration: qad
   10:
-    arabic: سَلَفَۚ
+    arabic: سَلَفَ
     translation: (is) past
     transliteration: salafa
   11:
-    arabic: وَاِنۡ
+    arabic: وَإِن
     translation: But if
     transliteration: wa-in
   12:
-    arabic: يَّعُوۡدُوۡا
+    arabic: يَعُودُواْ
     translation: they return
     transliteration: yaʿūdū
   13:
@@ -66,7 +66,7 @@ word_by_word:
     translation: (the) practice
     transliteration: sunnatu
   16:
-    arabic: الۡاَوَّلِيۡنَ‏
+    arabic: ٱلۡأَوَّلِينَ
     translation: (of) the former (people)
     transliteration: l-awalīna
 ---

@@ -1,6 +1,6 @@
 ---
-arabic_ayat: وَمَا خَلَقۡنَا السَّمَآءَ وَالۡاَرۡضَ وَمَا بَيۡنَهُمَا بَاطِلًا ​ؕ
-  ذٰ لِكَ ظَنُّ الَّذِيۡنَ كَفَرُوۡا​ۚ فَوَيۡلٌ لِّلَّذِيۡنَ كَفَرُوۡا مِنَ النَّارِؕ‏
+arabic_ayat: وَمَا خَلَقۡنَا ٱلسَّمَآءَ وَٱلۡأَرۡضَ وَمَا بَيۡنَهُمَا بَٰطِلٗاۚ ذَٰلِكَ
+  ظَنُّ ٱلَّذِينَ كَفَرُواْۚ فَوَيۡلٞ لِّلَّذِينَ كَفَرُواْ مِنَ ٱلنَّارِ
 sentence_translation: We have not created the heavens and earth and everything in
   between without purpose—as the disbelievers think. So woe to the disbelievers because
   of the Fire!
@@ -14,11 +14,11 @@ word_by_word:
     translation: We created
     transliteration: khalaqnā
   3:
-    arabic: السَّمَآءَ
+    arabic: ٱلسَّمَآءَ
     translation: the heaven
     transliteration: l-samāa
   4:
-    arabic: وَالۡاَرۡضَ
+    arabic: وَٱلۡأَرۡضَ
     translation: and the earth
     transliteration: wal-arḍa
   5:
@@ -30,11 +30,11 @@ word_by_word:
     translation: (is) between them
     transliteration: baynahumā
   7:
-    arabic: بَاطِلًا ​ؕ
+    arabic: بَٰطِلٗاۚ
     translation: without purpose
     transliteration: bāṭilan
   8:
-    arabic: ذٰ لِكَ
+    arabic: ذَٰلِكَ
     translation: That
     transliteration: dhālika
   9:
@@ -42,23 +42,23 @@ word_by_word:
     translation: (is the) assumption
     transliteration: ẓannu
   10:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: (of) those who
     transliteration: alladhīna
   11:
-    arabic: كَفَرُوۡا​ۚ
+    arabic: كَفَرُواْۚ
     translation: disbelieve
     transliteration: kafarū
   12:
-    arabic: فَوَيۡلٌ
+    arabic: فَوَيۡلٞ
     translation: So woe
     transliteration: fawaylun
   13:
-    arabic: لِّلَّذِيۡنَ
+    arabic: لِّلَّذِينَ
     translation: to those
     transliteration: lilladhīna
   14:
-    arabic: كَفَرُوۡا
+    arabic: كَفَرُواْ
     translation: who disbelieve
     transliteration: kafarū
   15:
@@ -66,7 +66,7 @@ word_by_word:
     translation: from
     transliteration: mina
   16:
-    arabic: النَّارِؕ‏
+    arabic: ٱلنَّارِ
     translation: the Fire
     transliteration: l-nāri
 ---

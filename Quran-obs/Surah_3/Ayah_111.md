@@ -1,39 +1,39 @@
 ---
-arabic_ayat: لَنۡ يَّضُرُّوۡكُمۡ اِلَّاۤ اَذًى​ؕ وَاِنۡ يُّقَاتِلُوۡكُمۡ يُوَلُّوۡكُمُ
-  الۡاَدۡبَارَ ثُمَّ لَا يُنۡصَرُوۡنَ‏
+arabic_ayat: لَن يَضُرُّوكُمۡ إِلَّآ أَذٗىۖ وَإِن يُقَٰتِلُوكُمۡ يُوَلُّوكُمُ ٱلۡأَدۡبَارَ
+  ثُمَّ لَا يُنصَرُونَ
 sentence_translation: They can never inflict harm on you, except a little annoyance. But
   if they meet you in battle, they will flee and they will have no helpers.
 word_by_word:
   1:
-    arabic: لَنۡ
+    arabic: لَن
     translation: Never
     transliteration: lan
   2:
-    arabic: يَّضُرُّوۡكُمۡ
+    arabic: يَضُرُّوكُمۡ
     translation: will they harm you
     transliteration: yaḍurrūkum
   3:
-    arabic: اِلَّاۤ
+    arabic: إِلَّآ
     translation: except
     transliteration: illā
   4:
-    arabic: اَذًى​ؕ
+    arabic: أَذٗىۖ
     translation: a hurt
     transliteration: adhan
   5:
-    arabic: وَاِنۡ
+    arabic: وَإِن
     translation: And if
     transliteration: wa-in
   6:
-    arabic: يُّقَاتِلُوۡكُمۡ
+    arabic: يُقَٰتِلُوكُمۡ
     translation: they fight you
     transliteration: yuqātilūkum
   7:
-    arabic: يُوَلُّوۡكُمُ
+    arabic: يُوَلُّوكُمُ
     translation: they will turn (towards) you
     transliteration: yuwallūkumu
   8:
-    arabic: الۡاَدۡبَارَ
+    arabic: ٱلۡأَدۡبَارَ
     translation: the backs
     transliteration: l-adbāra
   9:
@@ -45,7 +45,7 @@ word_by_word:
     translation: not
     transliteration: lā
   11:
-    arabic: يُنۡصَرُوۡنَ‏
+    arabic: يُنصَرُونَ
     translation: they will be helped
     transliteration: yunṣarūna
 ---

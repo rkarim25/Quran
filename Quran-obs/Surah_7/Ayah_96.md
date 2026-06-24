@@ -1,7 +1,7 @@
 ---
-arabic_ayat: وَلَوۡ اَنَّ اَهۡلَ الۡقُرٰٓى اٰمَنُوۡا وَاتَّقَوۡا لَـفَتَحۡنَا عَلَيۡهِمۡ
-  بَرَكٰتٍ مِّنَ السَّمَآءِ وَالۡاَرۡضِ وَلٰـكِنۡ كَذَّبُوۡا فَاَخَذۡنٰهُمۡ بِمَا
-  كَانُوۡا يَكۡسِبُوۡنَ‏
+arabic_ayat: وَلَوۡ أَنَّ أَهۡلَ ٱلۡقُرَىٰٓ ءَامَنُواْ وَٱتَّقَوۡاْ لَفَتَحۡنَا عَلَيۡهِم
+  بَرَكَٰتٖ مِّنَ ٱلسَّمَآءِ وَٱلۡأَرۡضِ وَلَٰكِن كَذَّبُواْ فَأَخَذۡنَٰهُم بِمَا
+  كَانُواْ يَكۡسِبُونَ
 sentence_translation: Had the people of those societies been faithful and mindful
   ˹of Allah˺, We would have overwhelmed them with blessings from heaven and earth.
   But they disbelieved, so We seized them for what they used to commit.
@@ -11,35 +11,35 @@ word_by_word:
     translation: And if
     transliteration: walaw
   2:
-    arabic: اَنَّ
+    arabic: أَنَّ
     translation: '[that]'
     transliteration: anna
   3:
-    arabic: اَهۡلَ
+    arabic: أَهۡلَ
     translation: people
     transliteration: ahla
   4:
-    arabic: الۡقُرٰٓى
+    arabic: ٱلۡقُرَىٰٓ ءَ
     translation: (of) the cities
     transliteration: l-qurā
   5:
-    arabic: اٰمَنُوۡا
+    arabic: امَنُواْ
     translation: (had) believed
     transliteration: āmanū
   6:
-    arabic: وَاتَّقَوۡا
+    arabic: وَٱتَّقَوۡاْ
     translation: and feared Allah
     transliteration: wa-ittaqaw
   7:
-    arabic: لَـفَتَحۡنَا
+    arabic: لَفَتَحۡنَا
     translation: surely We (would have) opened
     transliteration: lafataḥnā
   8:
-    arabic: عَلَيۡهِمۡ
+    arabic: عَلَيۡهِم
     translation: upon them
     transliteration: ʿalayhim
   9:
-    arabic: بَرَكٰتٍ
+    arabic: بَرَكَٰتٖ
     translation: blessings
     transliteration: barakātin
   10:
@@ -47,23 +47,23 @@ word_by_word:
     translation: from
     transliteration: mina
   11:
-    arabic: السَّمَآءِ
+    arabic: ٱلسَّمَآءِ
     translation: the heaven
     transliteration: l-samāi
   12:
-    arabic: وَالۡاَرۡضِ
+    arabic: وَٱلۡأَرۡضِ
     translation: and the earth
     transliteration: wal-arḍi
   13:
-    arabic: وَلٰـكِنۡ
+    arabic: وَلَٰكِن
     translation: but
     transliteration: walākin
   14:
-    arabic: كَذَّبُوۡا
+    arabic: كَذَّبُواْ
     translation: they denied
     transliteration: kadhabū
   15:
-    arabic: فَاَخَذۡنٰهُمۡ
+    arabic: فَأَخَذۡنَٰهُم
     translation: So We seized them
     transliteration: fa-akhadhnāhum
   16:
@@ -71,11 +71,11 @@ word_by_word:
     translation: for what
     transliteration: bimā
   17:
-    arabic: كَانُوۡا
+    arabic: كَانُواْ
     translation: they used to
     transliteration: kānū
   18:
-    arabic: يَكۡسِبُوۡنَ‏
+    arabic: يَكۡسِبُونَ
     translation: earn
     transliteration: yaksibūna
 ---

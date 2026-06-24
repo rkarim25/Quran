@@ -1,5 +1,5 @@
 ---
-arabic_ayat: مَا الۡحَـآقَّةُ​ ۚ‏
+arabic_ayat: مَا ٱلۡحَآقَّةُ
 sentence_translation: What is the Inevitable Hour?
 word_by_word:
   1:
@@ -7,7 +7,7 @@ word_by_word:
     translation: What
     transliteration: mā
   2:
-    arabic: الۡحَـآقَّةُ​ ۚ‏
+    arabic: ٱلۡحَآقَّةُ
     translation: (is) the Inevitable Reality
     transliteration: l-ḥāqatu
 ---

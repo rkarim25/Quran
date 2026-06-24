@@ -1,14 +1,14 @@
 ---
-arabic_ayat: وَالۡمُؤۡتَفِكَةَ اَهۡوٰىۙ‏
+arabic_ayat: وَٱلۡمُؤۡتَفِكَةَ أَهۡوَىٰ
 sentence_translation: And ˹it was˺ He ˹Who˺ turned the cities ˹of Sodom and Gomorrah˺
   upside down.
 word_by_word:
   1:
-    arabic: وَالۡمُؤۡتَفِكَةَ
+    arabic: وَٱلۡمُؤۡتَفِكَةَ
     translation: And the overturned cities
     transliteration: wal-mu'tafikata
   2:
-    arabic: اَهۡوٰىۙ‏
+    arabic: أَهۡوَىٰ
     translation: He overthrew
     transliteration: ahwā
 ---

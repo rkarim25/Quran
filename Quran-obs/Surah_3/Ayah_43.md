@@ -1,15 +1,14 @@
 ---
-arabic_ayat: "يٰمَرۡيَمُ اقۡنُتِىۡ لِرَبِّكِ وَاسۡجُدِىۡ وَارۡكَعِىۡ مَعَ الرّٰكِعِيۡنَ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: يَٰمَرۡيَمُ ٱقۡنُتِي لِرَبِّكِ وَٱسۡجُدِي وَٱرۡكَعِي مَعَ ٱلرَّٰكِعِينَ
 sentence_translation: O  Mary! Be devout to your Lord, prostrate yourself ˹in prayer˺
   and bow along with those who bow down.”
 word_by_word:
   1:
-    arabic: يٰمَرۡيَمُ
+    arabic: يَٰمَرۡيَمُ
     translation: O Maryam
     transliteration: yāmaryamu
   2:
-    arabic: اقۡنُتِىۡ
+    arabic: ٱقۡنُتِي
     translation: Be obedient
     transliteration: uq'nutī
   3:
@@ -17,11 +16,11 @@ word_by_word:
     translation: to your Lord
     transliteration: lirabbiki
   4:
-    arabic: وَاسۡجُدِىۡ
+    arabic: وَٱسۡجُدِي
     translation: and prostrate
     transliteration: wa-us'judī
   5:
-    arabic: وَارۡكَعِىۡ
+    arabic: وَٱرۡكَعِي
     translation: and bow down
     transliteration: wa-ir'kaʿī
   6:
@@ -29,7 +28,7 @@ word_by_word:
     translation: with
     transliteration: maʿa
   7:
-    arabic: "الرّٰكِعِيۡنَ‏ \uFEFF\uFEFF"
+    arabic: ٱلرَّٰكِعِينَ
     translation: those who bow down
     transliteration: l-rākiʿīna
 ---

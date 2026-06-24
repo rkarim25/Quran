@@ -1,47 +1,47 @@
 ---
-arabic_ayat: اَنۡ تَقُوۡلُـوۡۤا اِنَّمَاۤ اُنۡزِلَ الۡـكِتٰبُ عَلٰى طَآٮِٕفَتَيۡنِ
-  مِنۡ قَبۡلِنَا وَاِنۡ كُنَّا عَنۡ دِرَاسَتِهِمۡ لَغٰفِلِيۡنَۙ‏
+arabic_ayat: أَن تَقُولُوٓاْ إِنَّمَآ أُنزِلَ ٱلۡكِتَٰبُ عَلَىٰ طَآئِفَتَيۡنِ مِن
+  قَبۡلِنَا وَإِن كُنَّا عَن دِرَاسَتِهِمۡ لَغَٰفِلِينَ
 sentence_translation: You ˹pagans˺ can no longer say, “Scriptures were only revealed
   to two groups before us and we were unaware of their teachings.”
 word_by_word:
   1:
-    arabic: اَنۡ
+    arabic: أَن
     translation: Lest
     transliteration: an
   2:
-    arabic: تَقُوۡلُـوۡۤا
+    arabic: تَقُولُوٓاْ
     translation: you say
     transliteration: taqūlū
   3:
-    arabic: اِنَّمَاۤ
+    arabic: إِنَّمَآ
     translation: Only
     transliteration: innamā
   4:
-    arabic: اُنۡزِلَ
+    arabic: أُنزِلَ
     translation: was revealed
     transliteration: unzila
   5:
-    arabic: الۡـكِتٰبُ
+    arabic: ٱلۡكِتَٰبُ
     translation: the Book
     transliteration: l-kitābu
   6:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: 'on'
     transliteration: ʿalā
   7:
-    arabic: طَآٮِٕفَتَيۡنِ
+    arabic: طَآئِفَتَيۡنِ
     translation: the two groups
     transliteration: ṭāifatayni
   8:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   9:
-    arabic: قَبۡلِنَا
+    arabic: قَبۡلِنَا
     translation: before us
     transliteration: qablinā
   10:
-    arabic: وَاِنۡ
+    arabic: وَإِن
     translation: and indeed
     transliteration: wa-in
   11:
@@ -49,7 +49,7 @@ word_by_word:
     translation: we were
     transliteration: kunnā
   12:
-    arabic: عَنۡ
+    arabic: عَن
     translation: about
     transliteration: ʿan
   13:
@@ -57,7 +57,7 @@ word_by_word:
     translation: their study
     transliteration: dirāsatihim
   14:
-    arabic: لَغٰفِلِيۡنَۙ‏
+    arabic: لَغَٰفِلِينَ
     translation: certainly unaware
     transliteration: laghāfilīna
 ---

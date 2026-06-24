@@ -1,6 +1,6 @@
 ---
-arabic_ayat: "قَالَ سَلٰمٌ عَلَيۡكَ​ۚ سَاَسۡتَغۡفِرُ لَـكَ رَبِّىۡؕ اِنَّهٗ كَانَ\
-  \ بِىۡ حَفِيًّا‏ \uFEFF\uFEFF"
+arabic_ayat: قَالَ سَلَٰمٌ عَلَيۡكَۖ سَأَسۡتَغۡفِرُ لَكَ رَبِّيٓۖ إِنَّهُۥ كَانَ بِي
+  حَفِيّٗا
 sentence_translation: Abraham responded, “Peace be upon you! I will pray to my Lord
   for your forgiveness. He has truly been Most Gracious to me.
 word_by_word:
@@ -9,27 +9,27 @@ word_by_word:
     translation: He said
     transliteration: qāla
   2:
-    arabic: سَلٰمٌ
+    arabic: سَلَٰمٌ
     translation: Peace (be)
     transliteration: salāmun
   3:
-    arabic: عَلَيۡكَ​ۚ
+    arabic: عَلَيۡكَۖ
     translation: on you
     transliteration: ʿalayka
   4:
-    arabic: سَاَسۡتَغۡفِرُ
+    arabic: سَأَسۡتَغۡفِرُ
     translation: I will ask forgiveness
     transliteration: sa-astaghfiru
   5:
-    arabic: لَـكَ
+    arabic: لَكَ
     translation: for you
     transliteration: laka
   6:
-    arabic: رَبِّىۡؕ
+    arabic: رَبِّيٓۖ
     translation: (from) my Lord
     transliteration: rabbī
   7:
-    arabic: اِنَّهٗ
+    arabic: إِنَّهُۥ
     translation: Indeed, He
     transliteration: innahu
   8:
@@ -37,11 +37,11 @@ word_by_word:
     translation: is
     transliteration: kāna
   9:
-    arabic: بِىۡ
+    arabic: بِي
     translation: to me
     transliteration: bī
   10:
-    arabic: "حَفِيًّا‏ \uFEFF\uFEFF"
+    arabic: حَفِيّٗا
     translation: Ever Gracious
     transliteration: ḥafiyyan
 ---

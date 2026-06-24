@@ -1,5 +1,5 @@
 ---
-arabic_ayat: قَالَ اَنۡظِرۡنِىۡۤ اِلٰى يَوۡمِ يُبۡعَثُوۡنَ‏
+arabic_ayat: قَالَ أَنظِرۡنِيٓ إِلَىٰ يَوۡمِ يُبۡعَثُونَ
 sentence_translation: He appealed, “Then delay my end until the Day of their resurrection.”
 word_by_word:
   1:
@@ -7,11 +7,11 @@ word_by_word:
     translation: (Shaitaan) said
     transliteration: qāla
   2:
-    arabic: اَنۡظِرۡنِىۡۤ
+    arabic: أَنظِرۡنِيٓ
     translation: Give me respite
     transliteration: anẓir'nī
   3:
-    arabic: اِلٰى
+    arabic: إِلَىٰ
     translation: till
     transliteration: ilā
   4:
@@ -19,7 +19,7 @@ word_by_word:
     translation: (the) Day
     transliteration: yawmi
   5:
-    arabic: يُبۡعَثُوۡنَ‏
+    arabic: يُبۡعَثُونَ
     translation: they are raised up
     transliteration: yub'ʿathūna
 ---

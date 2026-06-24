@@ -1,6 +1,6 @@
 ---
-arabic_ayat: لِيَقۡطَعَ طَرَفًا مِّنَ الَّذِيۡنَ كَفَرُوۡۤا اَوۡ يَكۡبِتَهُمۡ فَيَنۡقَلِبُوۡا
-  خَآٮِٕبِيۡنَ‏
+arabic_ayat: لِيَقۡطَعَ طَرَفٗا مِّنَ ٱلَّذِينَ كَفَرُوٓاْ أَوۡ يَكۡبِتَهُمۡ فَيَنقَلِبُواْ
+  خَآئِبِينَ
 sentence_translation: to destroy a group of the disbelievers and humble the rest,
   causing them to withdraw in disappointment.
 word_by_word:
@@ -9,7 +9,7 @@ word_by_word:
     translation: That He may cut off
     transliteration: liyaqṭaʿa
   2:
-    arabic: طَرَفًا
+    arabic: طَرَفٗا
     translation: a part
     transliteration: ṭarafan
   3:
@@ -17,15 +17,15 @@ word_by_word:
     translation: of
     transliteration: mina
   4:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   5:
-    arabic: كَفَرُوۡۤا
+    arabic: كَفَرُوٓاْ
     translation: disbelieved
     transliteration: kafarū
   6:
-    arabic: اَوۡ
+    arabic: أَوۡ
     translation: or
     transliteration: aw
   7:
@@ -33,11 +33,11 @@ word_by_word:
     translation: suppress them
     transliteration: yakbitahum
   8:
-    arabic: فَيَنۡقَلِبُوۡا
+    arabic: فَيَنقَلِبُواْ
     translation: so (that) they turn back
     transliteration: fayanqalibū
   9:
-    arabic: خَآٮِٕبِيۡنَ‏
+    arabic: خَآئِبِينَ
     translation: disappointed
     transliteration: khāibīna
 ---

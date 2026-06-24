@@ -1,10 +1,10 @@
 ---
-arabic_ayat: وَلَـقَدۡ ضَلَّ قَبۡلَهُمۡ اَكۡثَرُ الۡاَوَّلِيۡنَۙ‏
+arabic_ayat: وَلَقَدۡ ضَلَّ قَبۡلَهُمۡ أَكۡثَرُ ٱلۡأَوَّلِينَ
 sentence_translation: And surely most of the earlier generations had strayed before
   them,
 word_by_word:
   1:
-    arabic: وَلَـقَدۡ
+    arabic: وَلَقَدۡ
     translation: And verily
     transliteration: walaqad
   2:
@@ -16,11 +16,11 @@ word_by_word:
     translation: before them
     transliteration: qablahum
   4:
-    arabic: اَكۡثَرُ
+    arabic: أَكۡثَرُ
     translation: most
     transliteration: aktharu
   5:
-    arabic: الۡاَوَّلِيۡنَۙ‏
+    arabic: ٱلۡأَوَّلِينَ
     translation: (of) the former (people)
     transliteration: l-awalīna
 ---

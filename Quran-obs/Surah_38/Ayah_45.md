@@ -1,39 +1,39 @@
 ---
-arabic_ayat: وَاذۡكُرۡ عِبٰدَنَاۤ اِبۡرٰهِيۡمَ وَاِسۡحٰقَ وَيَعۡقُوۡبَ اُولِى الۡاَيۡدِىۡ
-  وَالۡاَبۡصَارِ‏
+arabic_ayat: وَٱذۡكُرۡ عِبَٰدَنَآ إِبۡرَٰهِيمَ وَإِسۡحَٰقَ وَيَعۡقُوبَ أُوْلِي ٱلۡأَيۡدِي
+  وَٱلۡأَبۡصَٰرِ
 sentence_translation: 'And remember Our servants: Abraham, Isaac, and Jacob—the men
   of strength and insight.'
 word_by_word:
   1:
-    arabic: وَاذۡكُرۡ
+    arabic: وَٱذۡكُرۡ
     translation: And remember
     transliteration: wa-udh'kur
   2:
-    arabic: عِبٰدَنَاۤ
+    arabic: عِبَٰدَنَآ
     translation: Our slaves
     transliteration: ʿibādanā
   3:
-    arabic: اِبۡرٰهِيۡمَ
+    arabic: إِبۡرَٰهِيمَ
     translation: Ibrahim
     transliteration: ib'rāhīma
   4:
-    arabic: وَاِسۡحٰقَ
+    arabic: وَإِسۡحَٰقَ
     translation: and Isaac
     transliteration: wa-is'ḥāqa
   5:
-    arabic: وَيَعۡقُوۡبَ
+    arabic: وَيَعۡقُوبَ
     translation: and Ayyub
     transliteration: wayaʿqūba
   6:
-    arabic: اُولِى
+    arabic: أُوْلِي
     translation: possessors
     transliteration: ulī
   7:
-    arabic: الۡاَيۡدِىۡ
+    arabic: ٱلۡأَيۡدِي
     translation: (of) strength
     transliteration: l-aydī
   8:
-    arabic: وَالۡاَبۡصَارِ‏
+    arabic: وَٱلۡأَبۡصَٰرِ
     translation: and vision
     transliteration: wal-abṣāri
 ---

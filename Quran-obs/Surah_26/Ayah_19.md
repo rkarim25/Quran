@@ -1,5 +1,5 @@
 ---
-arabic_ayat: وَفَعَلۡتَ فَعۡلَتَكَ الَّتِىۡ فَعَلۡتَ وَاَنۡتَ مِنَ الۡكٰفِرِيۡنَ‏
+arabic_ayat: وَفَعَلۡتَ فَعۡلَتَكَ ٱلَّتِي فَعَلۡتَ وَأَنتَ مِنَ ٱلۡكَٰفِرِينَ
 sentence_translation: Then you did what you did, being ˹utterly˺ ungrateful!”
 word_by_word:
   1:
@@ -11,7 +11,7 @@ word_by_word:
     translation: your deed
     transliteration: faʿlataka
   3:
-    arabic: الَّتِىۡ
+    arabic: ٱلَّتِي
     translation: which
     transliteration: allatī
   4:
@@ -19,7 +19,7 @@ word_by_word:
     translation: you did
     transliteration: faʿalta
   5:
-    arabic: وَاَنۡتَ
+    arabic: وَأَنتَ
     translation: and you
     transliteration: wa-anta
   6:
@@ -27,7 +27,7 @@ word_by_word:
     translation: (were) of
     transliteration: mina
   7:
-    arabic: الۡكٰفِرِيۡنَ‏
+    arabic: ٱلۡكَٰفِرِينَ
     translation: the ungrateful
     transliteration: l-kāfirīna
 ---

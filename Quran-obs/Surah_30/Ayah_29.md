@@ -1,6 +1,6 @@
 ---
-arabic_ayat: بَلِ اتَّبَعَ الَّذِيۡنَ ظَلَمُوۡۤا اَهۡوَآءَهُمۡ بِغَيۡرِ عِلۡمٍ​ۚ
-  فَمَنۡ يَّهۡدِىۡ مَنۡ اَضَلَّ اللّٰهُ ​ؕ وَمَا لَهُمۡ مِّنۡ نّٰصِرِيۡنَ‏
+arabic_ayat: بَلِ ٱتَّبَعَ ٱلَّذِينَ ظَلَمُوٓاْ أَهۡوَآءَهُم بِغَيۡرِ عِلۡمٖۖ فَمَن
+  يَهۡدِي مَنۡ أَضَلَّ ٱللَّهُۖ وَمَا لَهُم مِّن نَّٰصِرِينَ
 sentence_translation: In fact, the wrongdoers merely follow their desires with no
   knowledge. Who then can guide those Allah has left to stray? They will have no helpers.
 word_by_word:
@@ -9,19 +9,19 @@ word_by_word:
     translation: Nay
     transliteration: bali
   2:
-    arabic: اتَّبَعَ
+    arabic: ٱتَّبَعَ
     translation: follow
     transliteration: ittabaʿa
   3:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   4:
-    arabic: ظَلَمُوۡۤا
+    arabic: ظَلَمُوٓاْ
     translation: do wrong
     transliteration: ẓalamū
   5:
-    arabic: اَهۡوَآءَهُمۡ
+    arabic: أَهۡوَآءَهُم
     translation: their desires
     transliteration: ahwāahum
   6:
@@ -29,15 +29,15 @@ word_by_word:
     translation: without
     transliteration: bighayri
   7:
-    arabic: عِلۡمٍ​ۚ
+    arabic: عِلۡمٖۖ
     translation: knowledge
     transliteration: ʿil'min
   8:
-    arabic: فَمَنۡ
+    arabic: فَمَن
     translation: Then who
     transliteration: faman
   9:
-    arabic: يَّهۡدِىۡ
+    arabic: يَهۡدِي
     translation: (can) guide
     transliteration: yahdī
   10:
@@ -45,11 +45,11 @@ word_by_word:
     translation: (one) whom
     transliteration: man
   11:
-    arabic: اَضَلَّ
+    arabic: أَضَلَّ
     translation: Allah has let go astray
     transliteration: aḍalla
   12:
-    arabic: اللّٰهُ ​ؕ
+    arabic: ٱللَّهُۖ
     translation: Allah has let go astray
     transliteration: l-lahu
   13:
@@ -57,15 +57,15 @@ word_by_word:
     translation: And not
     transliteration: wamā
   14:
-    arabic: لَهُمۡ
+    arabic: لَهُم
     translation: for them
     transliteration: lahum
   15:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: any
     transliteration: min
   16:
-    arabic: نّٰصِرِيۡنَ‏
+    arabic: نَّٰصِرِينَ
     translation: helpers
     transliteration: nāṣirīna
 ---

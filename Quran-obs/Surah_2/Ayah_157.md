@@ -1,11 +1,11 @@
 ---
-arabic_ayat: اُولٰٓٮِٕكَ عَلَيۡهِمۡ صَلَوٰتٌ مِّنۡ رَّبِّهِمۡ وَرَحۡمَةٌ​ وَاُولٰٓٮِٕكَ
-  هُمُ الۡمُهۡتَدُوۡنَ‏
+arabic_ayat: أُوْلَٰٓئِكَ عَلَيۡهِمۡ صَلَوَٰتٞ مِّن رَّبِّهِمۡ وَرَحۡمَةٞۖ وَأُوْلَٰٓئِكَ
+  هُمُ ٱلۡمُهۡتَدُونَ
 sentence_translation: They are the ones who will receive Allah’s blessings and mercy.
   And it is they who are ˹rightly˺ guided.
 word_by_word:
   1:
-    arabic: اُولٰٓٮِٕكَ
+    arabic: أُوْلَٰٓئِكَ
     translation: Those
     transliteration: ulāika
   2:
@@ -13,11 +13,11 @@ word_by_word:
     translation: on them
     transliteration: ʿalayhim
   3:
-    arabic: صَلَوٰتٌ
+    arabic: صَلَوَٰتٞ
     translation: (are) blessings
     transliteration: ṣalawātun
   4:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: from
     transliteration: min
   5:
@@ -25,11 +25,11 @@ word_by_word:
     translation: their Lord
     transliteration: rabbihim
   6:
-    arabic: وَرَحۡمَةٌ​
+    arabic: وَرَحۡمَةٞۖ
     translation: and Mercy
     transliteration: waraḥmatun
   7:
-    arabic: وَاُولٰٓٮِٕكَ
+    arabic: وَأُوْلَٰٓئِكَ
     translation: And those
     transliteration: wa-ulāika
   8:
@@ -37,7 +37,7 @@ word_by_word:
     translation: '[they]'
     transliteration: humu
   9:
-    arabic: الۡمُهۡتَدُوۡنَ‏
+    arabic: ٱلۡمُهۡتَدُونَ
     translation: (are) the guided ones
     transliteration: l-muh'tadūna
 ---

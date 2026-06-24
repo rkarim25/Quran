@@ -1,10 +1,10 @@
 ---
-arabic_ayat: يَّتَخَافَـتُوۡنَ بَيۡنَهُمۡ اِنۡ لَّبِثۡتُمۡ اِلَّا عَشۡرًا‏
+arabic_ayat: يَتَخَٰفَتُونَ بَيۡنَهُمۡ إِن لَّبِثۡتُمۡ إِلَّا عَشۡرٗا
 sentence_translation: They will whisper among themselves, “You stayed no more than
   ten days ˹on the earth˺.”
 word_by_word:
   1:
-    arabic: يَّتَخَافَـتُوۡنَ
+    arabic: يَتَخَٰفَتُونَ
     translation: They are murmuring
     transliteration: yatakhāfatūna
   2:
@@ -12,7 +12,7 @@ word_by_word:
     translation: among themselves
     transliteration: baynahum
   3:
-    arabic: اِنۡ
+    arabic: إِن
     translation: Not
     transliteration: in
   4:
@@ -20,11 +20,11 @@ word_by_word:
     translation: you remained
     transliteration: labith'tum
   5:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except (for)
     transliteration: illā
   6:
-    arabic: عَشۡرًا‏
+    arabic: عَشۡرٗا
     translation: ten
     transliteration: ʿashran
 ---

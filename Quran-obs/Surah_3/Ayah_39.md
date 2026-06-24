@@ -1,7 +1,7 @@
 ---
-arabic_ayat: فَنَادَتۡهُ الۡمَلٰٓٮِٕكَةُ وَهُوَ قَآٮِٕمٌ يُّصَلِّىۡ فِى الۡمِحۡرَابِۙ
-  اَنَّ اللّٰهَ يُبَشِّرُكَ بِيَحۡيٰى مُصَدِّقًۢا بِكَلِمَةٍ مِّنَ اللّٰهِ وَسَيِّدًا
-  وَّحَصُوۡرًا وَّنَبِيًّا مِّنَ الصّٰلِحِيۡنَ‏
+arabic_ayat: فَنَادَتۡهُ ٱلۡمَلَٰٓئِكَةُ وَهُوَ قَآئِمٞ يُصَلِّي فِي ٱلۡمِحۡرَابِ
+  أَنَّ ٱللَّهَ يُبَشِّرُكَ بِيَحۡيَىٰ مُصَدِّقَۢا بِكَلِمَةٖ مِّنَ ٱللَّهِ وَسَيِّدٗا
+  وَحَصُورٗا وَنَبِيّٗا مِّنَ ٱلصَّٰلِحِينَ
 sentence_translation: So the angels called out to him while he stood praying in the
   sanctuary, “Allah gives you good news of ˹the birth of˺ John who will confirm the
   Word of Allah and will be a great leader, chaste, and a prophet among the righteous.”
@@ -11,7 +11,7 @@ word_by_word:
     translation: Then called him
     transliteration: fanādathu
   2:
-    arabic: الۡمَلٰٓٮِٕكَةُ
+    arabic: ٱلۡمَلَٰٓئِكَةُ
     translation: the Angels
     transliteration: l-malāikatu
   3:
@@ -19,27 +19,27 @@ word_by_word:
     translation: when he
     transliteration: wahuwa
   4:
-    arabic: قَآٮِٕمٌ
+    arabic: قَآئِمٞ
     translation: '(was) standing '
     transliteration: qāimun
   5:
-    arabic: يُّصَلِّىۡ
+    arabic: يُصَلِّي
     translation: praying
     transliteration: yuṣallī
   6:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   7:
-    arabic: الۡمِحۡرَابِۙ
+    arabic: ٱلۡمِحۡرَابِ
     translation: the prayer chamber
     transliteration: l-miḥ'rābi
   8:
-    arabic: اَنَّ
+    arabic: أَنَّ
     translation: Indeed
     transliteration: anna
   9:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   10:
@@ -47,15 +47,15 @@ word_by_word:
     translation: gives you glad tidings
     transliteration: yubashiruka
   11:
-    arabic: بِيَحۡيٰى
+    arabic: بِيَحۡيَىٰ
     translation: of Yahya
     transliteration: biyaḥyā
   12:
-    arabic: مُصَدِّقًۢا
+    arabic: مُصَدِّقَۢا
     translation: confirming
     transliteration: muṣaddiqan
   13:
-    arabic: بِكَلِمَةٍ
+    arabic: بِكَلِمَةٖ
     translation: '[of] a Word'
     transliteration: bikalimatin
   14:
@@ -63,19 +63,19 @@ word_by_word:
     translation: from
     transliteration: mina
   15:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   16:
-    arabic: وَسَيِّدًا
+    arabic: وَسَيِّدٗا
     translation: and a noble
     transliteration: wasayyidan
   17:
-    arabic: وَّحَصُوۡرًا
+    arabic: وَحَصُورٗا
     translation: and chaste
     transliteration: waḥaṣūran
   18:
-    arabic: وَّنَبِيًّا
+    arabic: وَنَبِيّٗا
     translation: and a Prophet
     transliteration: wanabiyyan
   19:
@@ -83,7 +83,7 @@ word_by_word:
     translation: among
     transliteration: mina
   20:
-    arabic: الصّٰلِحِيۡنَ‏
+    arabic: ٱلصَّٰلِحِينَ
     translation: the righteous
     transliteration: l-ṣāliḥīna
 ---

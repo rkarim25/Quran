@@ -1,31 +1,31 @@
 ---
-arabic_ayat: وَقَالُوۡۤا اَسَاطِيۡرُ الۡاَوَّلِيۡنَ اكۡتَتَبَهَا فَهِىَ تُمۡلٰى عَلَيۡهِ
-  بُكۡرَةً وَّاَصِيۡلًا‏
+arabic_ayat: وَقَالُوٓاْ أَسَٰطِيرُ ٱلۡأَوَّلِينَ ٱكۡتَتَبَهَا فَهِيَ تُمۡلَىٰ عَلَيۡهِ
+  بُكۡرَةٗ وَأَصِيلٗا
 sentence_translation: And they say, “˹These revelations are only˺ ancient fables which
   he has had written down, and they are rehearsed to him morning and evening.”
 word_by_word:
   1:
-    arabic: وَقَالُوۡۤا
+    arabic: وَقَالُوٓاْ
     translation: And they say
     transliteration: waqālū
   2:
-    arabic: اَسَاطِيۡرُ
+    arabic: أَسَٰطِيرُ
     translation: Tales
     transliteration: asāṭīru
   3:
-    arabic: الۡاَوَّلِيۡنَ
+    arabic: ٱلۡأَوَّلِينَ
     translation: (of) the former people
     transliteration: l-awalīna
   4:
-    arabic: اكۡتَتَبَهَا
+    arabic: ٱكۡتَتَبَهَا
     translation: which he has had written
     transliteration: ik'tatabahā
   5:
-    arabic: فَهِىَ
+    arabic: فَهِيَ
     translation: and they
     transliteration: fahiya
   6:
-    arabic: تُمۡلٰى
+    arabic: تُمۡلَىٰ
     translation: are dictated
     transliteration: tum'lā
   7:
@@ -33,11 +33,11 @@ word_by_word:
     translation: to him
     transliteration: ʿalayhi
   8:
-    arabic: بُكۡرَةً
+    arabic: بُكۡرَةٗ
     translation: morning
     transliteration: buk'ratan
   9:
-    arabic: وَّاَصِيۡلًا‏
+    arabic: وَأَصِيلٗا
     translation: and evening
     transliteration: wa-aṣīlan
 ---

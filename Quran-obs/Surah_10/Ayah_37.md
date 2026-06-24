@@ -1,7 +1,7 @@
 ---
-arabic_ayat: وَمَا كَانَ هٰذَا الۡقُرۡاٰنُ اَنۡ يُّفۡتَـرٰى مِنۡ دُوۡنِ اللّٰهِ وَلٰـكِنۡ
-  تَصۡدِيۡقَ الَّذِىۡ بَيۡنَ يَدَيۡهِ وَتَفۡصِيۡلَ الۡكِتٰبِ لَا رَيۡبَ فِيۡهِ مِنۡ
-  رَّبِّ الۡعٰلَمِيۡنَ‏
+arabic_ayat: وَمَا كَانَ هَٰذَا ٱلۡقُرۡءَانُ أَن يُفۡتَرَىٰ مِن دُونِ ٱللَّهِ وَلَٰكِن
+  تَصۡدِيقَ ٱلَّذِي بَيۡنَ يَدَيۡهِ وَتَفۡصِيلَ ٱلۡكِتَٰبِ لَا رَيۡبَ فِيهِ مِن رَّبِّ
+  ٱلۡعَٰلَمِينَ
 sentence_translation: It is not ˹possible˺ for this Quran to have been produced by
   anyone other than Allah. In fact, it is a confirmation of what came before, and
   an explanation of the Scripture. It is, without a doubt, from the Lord of all worlds.
@@ -15,43 +15,43 @@ word_by_word:
     translation: is
     transliteration: kāna
   3:
-    arabic: هٰذَا
+    arabic: هَٰذَا
     translation: this
     transliteration: hādhā
   4:
-    arabic: الۡقُرۡاٰنُ
+    arabic: ٱلۡقُرۡءَانُ
     translation: the Quran
     transliteration: l-qur'ānu
   5:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that
     transliteration: an
   6:
-    arabic: يُّفۡتَـرٰى
+    arabic: يُفۡتَرَىٰ
     translation: (it could be) produced
     transliteration: yuf'tarā
   7:
-    arabic: مِنۡ
+    arabic: مِن
     translation: by
     transliteration: min
   8:
-    arabic: دُوۡنِ
+    arabic: دُونِ
     translation: other than Allah
     transliteration: dūni
   9:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: other than Allah
     transliteration: l-lahi
   10:
-    arabic: وَلٰـكِنۡ
+    arabic: وَلَٰكِن
     translation: but
     transliteration: walākin
   11:
-    arabic: تَصۡدِيۡقَ
+    arabic: تَصۡدِيقَ
     translation: (it is) a confirmation
     transliteration: taṣdīqa
   12:
-    arabic: الَّذِىۡ
+    arabic: ٱلَّذِي
     translation: (of that) which
     transliteration: alladhī
   13:
@@ -63,11 +63,11 @@ word_by_word:
     translation: (was) before it
     transliteration: yadayhi
   15:
-    arabic: وَتَفۡصِيۡلَ
+    arabic: وَتَفۡصِيلَ
     translation: and a detailed explanation
     transliteration: watafṣīla
   16:
-    arabic: الۡكِتٰبِ
+    arabic: ٱلۡكِتَٰبِ
     translation: (of) the Book
     transliteration: l-kitābi
   17:
@@ -79,11 +79,11 @@ word_by_word:
     translation: doubt
     transliteration: rayba
   19:
-    arabic: فِيۡهِ
+    arabic: فِيهِ
     translation: in it
     transliteration: fīhi
   20:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   21:
@@ -91,7 +91,7 @@ word_by_word:
     translation: (the) Lord
     transliteration: rabbi
   22:
-    arabic: الۡعٰلَمِيۡنَ‏
+    arabic: ٱلۡعَٰلَمِينَ
     translation: (of) the worlds
     transliteration: l-ʿālamīna
 ---

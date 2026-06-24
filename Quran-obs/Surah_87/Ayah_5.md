@@ -1,9 +1,9 @@
 ---
-arabic_ayat: فَجَعَلَهٗ غُثَآءً اَحۡوٰىؕ‏
+arabic_ayat: فَجَعَلَهُۥ غُثَآءً أَحۡوَىٰ
 sentence_translation: then reduces it to withered chaff.
 word_by_word:
   1:
-    arabic: فَجَعَلَهٗ
+    arabic: فَجَعَلَهُۥ
     translation: And then makes it
     transliteration: fajaʿalahu
   2:
@@ -11,7 +11,7 @@ word_by_word:
     translation: stubble
     transliteration: ghuthāan
   3:
-    arabic: اَحۡوٰىؕ‏
+    arabic: أَحۡوَىٰ
     translation: dark
     transliteration: aḥwā
 ---

@@ -1,10 +1,10 @@
 ---
-arabic_ayat: وَاَضَلَّ فِرۡعَوۡنُ قَوۡمَهٗ وَمَا هَدٰى‏
+arabic_ayat: وَأَضَلَّ فِرۡعَوۡنُ قَوۡمَهُۥ وَمَا هَدَىٰ
 sentence_translation: And ˹so˺ Pharaoh led his people astray, and did not guide ˹them
   rightly˺.
 word_by_word:
   1:
-    arabic: وَاَضَلَّ
+    arabic: وَأَضَلَّ
     translation: And led astray
     transliteration: wa-aḍalla
   2:
@@ -12,7 +12,7 @@ word_by_word:
     translation: Firaun
     transliteration: fir'ʿawnu
   3:
-    arabic: قَوۡمَهٗ
+    arabic: قَوۡمَهُۥ
     translation: his people
     transliteration: qawmahu
   4:
@@ -20,7 +20,7 @@ word_by_word:
     translation: and (did) not
     transliteration: wamā
   5:
-    arabic: هَدٰى‏
+    arabic: هَدَىٰ
     translation: guide them
     transliteration: hadā
 ---

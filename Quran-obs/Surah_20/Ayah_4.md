@@ -1,10 +1,10 @@
 ---
-arabic_ayat: تَنۡزِيۡلًا مِّمَّنۡ خَلَقَ الۡاَرۡضَ وَالسَّمٰوٰتِ الۡعُلَى ؕ‏
+arabic_ayat: تَنزِيلٗا مِّمَّنۡ خَلَقَ ٱلۡأَرۡضَ وَٱلسَّمَٰوَٰتِ ٱلۡعُلَى
 sentence_translation: ˹It is˺ a revelation from the One Who created the earth and
   the high heavens—
 word_by_word:
   1:
-    arabic: تَنۡزِيۡلًا
+    arabic: تَنزِيلٗا
     translation: A revelation
     transliteration: tanzīlan
   2:
@@ -16,15 +16,15 @@ word_by_word:
     translation: created
     transliteration: khalaqa
   4:
-    arabic: الۡاَرۡضَ
+    arabic: ٱلۡأَرۡضَ
     translation: the earth
     transliteration: l-arḍa
   5:
-    arabic: وَالسَّمٰوٰتِ
+    arabic: وَٱلسَّمَٰوَٰتِ
     translation: and the heavens
     transliteration: wal-samāwāti
   6:
-    arabic: الۡعُلَى ؕ‏
+    arabic: ٱلۡعُلَى
     translation: '[the] high'
     transliteration: l-ʿulā
 ---

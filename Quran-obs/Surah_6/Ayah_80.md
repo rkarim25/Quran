@@ -1,18 +1,18 @@
 ---
-arabic_ayat: وَحَآجَّهٗ قَوۡمُهٗ ​ؕ قَالَ اَتُحَآجُّٓونِّىۡ فِى اللّٰهِ وَقَدۡ هَدٰٮنِ​ؕ
-  وَلَاۤ اَخَافُ مَا تُشۡرِكُوۡنَ بِهٖۤ اِلَّاۤ اَنۡ يَّشَآءَ رَبِّىۡ شَيۡـًٔـا ​ؕ
-  وَسِعَ رَبِّىۡ كُلَّ شَىۡءٍ عِلۡمًا​ؕ اَفَلَا تَتَذَكَّرُوۡنَ‏
+arabic_ayat: وَحَآجَّهُۥ قَوۡمُهُۥۚ قَالَ أَتُحَٰٓجُّوٓنِّي فِي ٱللَّهِ وَقَدۡ هَدَىٰنِۚ
+  وَلَآ أَخَافُ مَا تُشۡرِكُونَ بِهِۦٓ إِلَّآ أَن يَشَآءَ رَبِّي شَيۡـٔٗاۚ وَسِعَ
+  رَبِّي كُلَّ شَيۡءٍ عِلۡمًاۚ أَفَلَا تَتَذَكَّرُونَ
 sentence_translation: And his people argued with him. He responded, “Are you arguing
   with me about Allah, while He has guided me? I am not afraid of whatever ˹idols˺
   you associate with Him—˹none can harm me,˺ unless my Lord so wills. My Lord encompasses
   everything in ˹His˺ knowledge. Will you not be mindful?
 word_by_word:
   1:
-    arabic: وَحَآجَّهٗ
+    arabic: وَحَآجَّهُۥ
     translation: And argued with him
     transliteration: waḥājjahu
   2:
-    arabic: قَوۡمُهٗ ​ؕ
+    arabic: قَوۡمُهُۥۚ
     translation: his people
     transliteration: qawmuhu
   3:
@@ -20,15 +20,15 @@ word_by_word:
     translation: He said
     transliteration: qāla
   4:
-    arabic: اَتُحَآجُّٓونِّىۡ
+    arabic: أَتُحَٰٓجُّوٓنِّي
     translation: Do you argue with me
     transliteration: atuḥājjūnnī
   5:
-    arabic: فِى
+    arabic: فِي
     translation: concerning
     transliteration: fī
   6:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   7:
@@ -36,15 +36,15 @@ word_by_word:
     translation: while certainly
     transliteration: waqad
   8:
-    arabic: هَدٰٮنِ​ؕ
+    arabic: هَدَىٰنِۚ
     translation: He has guided me
     transliteration: hadāni
   9:
-    arabic: وَلَاۤ
+    arabic: وَلَآ
     translation: And not
     transliteration: walā
   10:
-    arabic: اَخَافُ
+    arabic: أَخَافُ
     translation: (do) I fear
     transliteration: akhāfu
   11:
@@ -52,31 +52,31 @@ word_by_word:
     translation: what
     transliteration: mā
   12:
-    arabic: تُشۡرِكُوۡنَ
+    arabic: تُشۡرِكُونَ
     translation: you associate
     transliteration: tush'rikūna
   13:
-    arabic: بِهٖۤ
+    arabic: بِهِۦٓ
     translation: with Him
     transliteration: bihi
   14:
-    arabic: اِلَّاۤ
+    arabic: إِلَّآ
     translation: unless
     transliteration: illā
   15:
-    arabic: اَنۡ
+    arabic: أَن
     translation: '[that]'
     transliteration: an
   16:
-    arabic: يَّشَآءَ
+    arabic: يَشَآءَ
     translation: wills
     transliteration: yashāa
   17:
-    arabic: رَبِّىۡ
+    arabic: رَبِّي
     translation: my Lord
     transliteration: rabbī
   18:
-    arabic: شَيۡـًٔـا ​ؕ
+    arabic: شَيۡـٔٗاۚ
     translation: anything
     transliteration: shayan
   19:
@@ -84,7 +84,7 @@ word_by_word:
     translation: Encompasses
     transliteration: wasiʿa
   20:
-    arabic: رَبِّىۡ
+    arabic: رَبِّي
     translation: my Lord
     transliteration: rabbī
   21:
@@ -92,19 +92,19 @@ word_by_word:
     translation: every
     transliteration: kulla
   22:
-    arabic: شَىۡءٍ
+    arabic: شَيۡءٍ
     translation: thing
     transliteration: shayin
   23:
-    arabic: عِلۡمًا​ؕ
+    arabic: عِلۡمًاۚ
     translation: (in) knowledge
     transliteration: ʿil'man
   24:
-    arabic: اَفَلَا
+    arabic: أَفَلَا
     translation: Then will not
     transliteration: afalā
   25:
-    arabic: تَتَذَكَّرُوۡنَ‏
+    arabic: تَتَذَكَّرُونَ
     translation: you take heed
     transliteration: tatadhakkarūna
 ---

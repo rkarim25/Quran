@@ -1,10 +1,10 @@
 ---
-arabic_ayat: اَمۡ لَمۡ يَعۡرِفُوۡا رَسُوۡلَهُمۡ فَهُمۡ لَهٗ مُنۡكِرُوۡنَ‏
+arabic_ayat: أَمۡ لَمۡ يَعۡرِفُواْ رَسُولَهُمۡ فَهُمۡ لَهُۥ مُنكِرُونَ
 sentence_translation: Or ˹because˺ they failed to recognize their Messenger, and so
   they denied him?
 word_by_word:
   1:
-    arabic: اَمۡ
+    arabic: أَمۡ
     translation: Or
     transliteration: am
   2:
@@ -12,11 +12,11 @@ word_by_word:
     translation: (do) not
     transliteration: lam
   3:
-    arabic: يَعۡرِفُوۡا
+    arabic: يَعۡرِفُواْ
     translation: they recognize
     transliteration: yaʿrifū
   4:
-    arabic: رَسُوۡلَهُمۡ
+    arabic: رَسُولَهُمۡ
     translation: their Messenger
     transliteration: rasūlahum
   5:
@@ -24,11 +24,11 @@ word_by_word:
     translation: so they
     transliteration: fahum
   6:
-    arabic: لَهٗ
+    arabic: لَهُۥ
     translation: (are) rejecting him
     transliteration: lahu
   7:
-    arabic: مُنۡكِرُوۡنَ‏
+    arabic: مُنكِرُونَ
     translation: (are) rejecting him
     transliteration: munkirūna
 ---

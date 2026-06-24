@@ -1,13 +1,13 @@
 ---
-arabic_ayat: فَلۡيَنۡظُرِ الۡاِنۡسَانُ مِمَّ خُلِقَؕ‏
+arabic_ayat: فَلۡيَنظُرِ ٱلۡإِنسَٰنُ مِمَّ خُلِقَ
 sentence_translation: Let people then consider what they were created from!
 word_by_word:
   1:
-    arabic: فَلۡيَنۡظُرِ
+    arabic: فَلۡيَنظُرِ
     translation: So let see
     transliteration: falyanẓuri
   2:
-    arabic: الۡاِنۡسَانُ
+    arabic: ٱلۡإِنسَٰنُ
     translation: man
     transliteration: l-insānu
   3:
@@ -15,7 +15,7 @@ word_by_word:
     translation: from what
     transliteration: mimma
   4:
-    arabic: خُلِقَؕ‏
+    arabic: خُلِقَ
     translation: he is created
     transliteration: khuliqa
 ---

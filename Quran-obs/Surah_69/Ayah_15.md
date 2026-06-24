@@ -1,17 +1,17 @@
 ---
-arabic_ayat: فَيَوۡمَٮِٕذٍ وَّقَعَتِ الۡوَاقِعَةُ ۙ‏
+arabic_ayat: فَيَوۡمَئِذٖ وَقَعَتِ ٱلۡوَاقِعَةُ
 sentence_translation: on that Day the Inevitable Event will have come to pass.
 word_by_word:
   1:
-    arabic: فَيَوۡمَٮِٕذٍ
+    arabic: فَيَوۡمَئِذٖ
     translation: Then (on) that Day
     transliteration: fayawma-idhin
   2:
-    arabic: وَّقَعَتِ
+    arabic: وَقَعَتِ
     translation: will occur
     transliteration: waqaʿati
   3:
-    arabic: الۡوَاقِعَةُ ۙ‏
+    arabic: ٱلۡوَاقِعَةُ
     translation: the Occurrence
     transliteration: l-wāqiʿatu
 ---

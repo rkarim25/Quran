@@ -1,15 +1,14 @@
 ---
-arabic_ayat: "لَـقَالُوۡۤا اِنَّمَا سُكِّرَتۡ اَبۡصَارُنَا بَلۡ نَحۡنُ قَوۡمٌ مَّسۡحُوۡرُوۡنَ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: لَقَالُوٓاْ إِنَّمَا سُكِّرَتۡ أَبۡصَٰرُنَا بَلۡ نَحۡنُ قَوۡمٞ مَّسۡحُورُونَ
 sentence_translation: still they would say, “Our eyes have truly been dazzled! In
   fact, we must have been bewitched.”
 word_by_word:
   1:
-    arabic: لَـقَالُوۡۤا
+    arabic: لَقَالُوٓاْ
     translation: They would surely say
     transliteration: laqālū
   2:
-    arabic: اِنَّمَا
+    arabic: إِنَّمَا
     translation: Only
     transliteration: innamā
   3:
@@ -17,7 +16,7 @@ word_by_word:
     translation: have been dazzled
     transliteration: sukkirat
   4:
-    arabic: اَبۡصَارُنَا
+    arabic: أَبۡصَٰرُنَا
     translation: our eyes
     transliteration: abṣārunā
   5:
@@ -29,11 +28,11 @@ word_by_word:
     translation: we
     transliteration: naḥnu
   7:
-    arabic: قَوۡمٌ
+    arabic: قَوۡمٞ
     translation: (are) a people
     transliteration: qawmun
   8:
-    arabic: "مَّسۡحُوۡرُوۡنَ‏ \uFEFF\uFEFF"
+    arabic: مَّسۡحُورُونَ
     translation: bewitched
     transliteration: masḥūrūna
 ---

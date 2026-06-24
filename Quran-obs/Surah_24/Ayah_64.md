@@ -1,21 +1,21 @@
 ---
-arabic_ayat: اَلَاۤ اِنَّ لِلّٰهِ مَا فِى السَّمٰوٰتِ وَالۡاَرۡضِ ​ؕ قَدۡ يَعۡلَمُ
-  مَاۤ اَنۡـتُمۡ عَلَيۡهِؕ وَيَوۡمَ يُرۡجَعُوۡنَ اِلَيۡهِ فَيُنَـبِّـئُـهُمۡ بِمَا
-  عَمِلُوۡا ​ؕ وَاللّٰهُ بِكُلِّ شَىۡءٍ عَلِيۡمٌ‏
+arabic_ayat: أَلَآ إِنَّ لِلَّهِ مَا فِي ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِۖ قَدۡ يَعۡلَمُ
+  مَآ أَنتُمۡ عَلَيۡهِ وَيَوۡمَ يُرۡجَعُونَ إِلَيۡهِ فَيُنَبِّئُهُم بِمَا عَمِلُواْۗ
+  وَٱللَّهُ بِكُلِّ شَيۡءٍ عَلِيمُۢ
 sentence_translation: Surely to Allah belongs whatever is in the heavens and the earth.
   He knows well what you stand for. And ˹on˺ the Day all will be returned to Him,
   He will inform them of what they did. For Allah has ˹perfect˺ knowledge of all things.
 word_by_word:
   1:
-    arabic: اَلَاۤ
+    arabic: أَلَآ
     translation: No doubt
     transliteration: alā
   2:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   3:
-    arabic: لِلّٰهِ
+    arabic: لِلَّهِ
     translation: to Allah (belongs)
     transliteration: lillahi
   4:
@@ -23,15 +23,15 @@ word_by_word:
     translation: whatever
     transliteration: mā
   5:
-    arabic: فِى
+    arabic: فِي
     translation: (is) in
     transliteration: fī
   6:
-    arabic: السَّمٰوٰتِ
+    arabic: ٱلسَّمَٰوَٰتِ
     translation: the heavens
     transliteration: l-samāwāti
   7:
-    arabic: وَالۡاَرۡضِ ​ؕ
+    arabic: وَٱلۡأَرۡضِۖ
     translation: and the earth
     transliteration: wal-arḍi
   8:
@@ -43,15 +43,15 @@ word_by_word:
     translation: He knows
     transliteration: yaʿlamu
   10:
-    arabic: مَاۤ
+    arabic: مَآ
     translation: what
     transliteration: mā
   11:
-    arabic: اَنۡـتُمۡ
+    arabic: أَنتُمۡ
     translation: you
     transliteration: antum
   12:
-    arabic: عَلَيۡهِؕ
+    arabic: عَلَيۡهِ
     translation: (are) on [it]
     transliteration: ʿalayhi
   13:
@@ -59,15 +59,15 @@ word_by_word:
     translation: And (the) Day
     transliteration: wayawma
   14:
-    arabic: يُرۡجَعُوۡنَ
+    arabic: يُرۡجَعُونَ
     translation: they will be returned
     transliteration: yur'jaʿūna
   15:
-    arabic: اِلَيۡهِ
+    arabic: إِلَيۡهِ
     translation: to Him
     transliteration: ilayhi
   16:
-    arabic: فَيُنَـبِّـئُـهُمۡ
+    arabic: فَيُنَبِّئُهُم
     translation: then He will inform them
     transliteration: fayunabbi-uhum
   17:
@@ -75,11 +75,11 @@ word_by_word:
     translation: of what
     transliteration: bimā
   18:
-    arabic: عَمِلُوۡا ​ؕ
+    arabic: عَمِلُواْۗ
     translation: they did
     transliteration: ʿamilū
   19:
-    arabic: وَاللّٰهُ
+    arabic: وَٱللَّهُ
     translation: And Allah
     transliteration: wal-lahu
   20:
@@ -87,11 +87,11 @@ word_by_word:
     translation: of every
     transliteration: bikulli
   21:
-    arabic: شَىۡءٍ
+    arabic: شَيۡءٍ
     translation: thing
     transliteration: shayin
   22:
-    arabic: عَلِيۡمٌ‏
+    arabic: عَلِيمُۢ
     translation: (is) All-Knower
     transliteration: ʿalīmun
 ---

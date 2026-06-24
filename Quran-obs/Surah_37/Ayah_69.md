@@ -1,21 +1,21 @@
 ---
-arabic_ayat: اِنَّهُمۡ اَلۡفَوۡا اٰبَآءَهُمۡ ضَآلِّيۡنَۙ‏
+arabic_ayat: إِنَّهُمۡ أَلۡفَوۡاْ ءَابَآءَهُمۡ ضَآلِّينَ
 sentence_translation: Indeed, they found their forefathers astray,
 word_by_word:
   1:
-    arabic: اِنَّهُمۡ
+    arabic: إِنَّهُمۡ
     translation: Indeed, they
     transliteration: innahum
   2:
-    arabic: اَلۡفَوۡا
+    arabic: أَلۡفَوۡاْ ءَ
     translation: found
     transliteration: alfaw
   3:
-    arabic: اٰبَآءَهُمۡ
+    arabic: ابَآءَهُمۡ
     translation: their fathers
     transliteration: ābāahum
   4:
-    arabic: ضَآلِّيۡنَۙ‏
+    arabic: ضَآلِّينَ
     translation: astray
     transliteration: ḍāllīna
 ---

@@ -1,6 +1,6 @@
 ---
-arabic_ayat: وَلَا تَهِنُوۡا وَ لَا تَحۡزَنُوۡا وَاَنۡتُمُ الۡاَعۡلَوۡنَ اِنۡ كُنۡتُمۡ
-  مُّؤۡمِنِيۡنَ‏
+arabic_ayat: وَلَا تَهِنُواْ وَلَا تَحۡزَنُواْ وَأَنتُمُ ٱلۡأَعۡلَوۡنَ إِن كُنتُم
+  مُّؤۡمِنِينَ
 sentence_translation: Do not falter or grieve, for you will have the upper hand, if
   you are ˹true˺ believers.
 word_by_word:
@@ -9,35 +9,35 @@ word_by_word:
     translation: And (do) not
     transliteration: walā
   2:
-    arabic: تَهِنُوۡا
+    arabic: تَهِنُواْ
     translation: weaken
     transliteration: tahinū
   3:
-    arabic: وَ لَا
+    arabic: وَلَا
     translation: and (do) not
     transliteration: walā
   4:
-    arabic: تَحۡزَنُوۡا
+    arabic: تَحۡزَنُواْ
     translation: grieve
     transliteration: taḥzanū
   5:
-    arabic: وَاَنۡتُمُ
+    arabic: وَأَنتُمُ
     translation: and you (will be)
     transliteration: wa-antumu
   6:
-    arabic: الۡاَعۡلَوۡنَ
+    arabic: ٱلۡأَعۡلَوۡنَ
     translation: '[the] superior'
     transliteration: l-aʿlawna
   7:
-    arabic: اِنۡ
+    arabic: إِن
     translation: if
     transliteration: in
   8:
-    arabic: كُنۡتُمۡ
+    arabic: كُنتُم
     translation: you are
     transliteration: kuntum
   9:
-    arabic: مُّؤۡمِنِيۡنَ‏
+    arabic: مُّؤۡمِنِينَ
     translation: believers
     transliteration: mu'minīna
 ---

@@ -1,5 +1,5 @@
 ---
-arabic_ayat: قَالَ رَبِّىۡۤ اَعۡلَمُ بِمَا تَعۡمَلُوۡنَ‏
+arabic_ayat: قَالَ رَبِّيٓ أَعۡلَمُ بِمَا تَعۡمَلُونَ
 sentence_translation: Shu’aib responded, “My Lord knows best whatever you do.”
 word_by_word:
   1:
@@ -7,11 +7,11 @@ word_by_word:
     translation: He said
     transliteration: qāla
   2:
-    arabic: رَبِّىۡۤ
+    arabic: رَبِّيٓ
     translation: My Lord
     transliteration: rabbī
   3:
-    arabic: اَعۡلَمُ
+    arabic: أَعۡلَمُ
     translation: knows best
     transliteration: aʿlamu
   4:
@@ -19,7 +19,7 @@ word_by_word:
     translation: of what
     transliteration: bimā
   5:
-    arabic: تَعۡمَلُوۡنَ‏
+    arabic: تَعۡمَلُونَ
     translation: you do
     transliteration: taʿmalūna
 ---

@@ -1,13 +1,13 @@
 ---
-arabic_ayat: مَا يَوَدُّ الَّذِيۡنَ كَفَرُوۡا مِنۡ اَهۡلِ الۡكِتٰبِ وَلَا الۡمُشۡرِكِيۡنَ
-  اَنۡ يُّنَزَّلَ عَلَيۡڪُمۡ مِّنۡ خَيۡرٍ مِّنۡ رَّبِّکُمۡ​ؕ وَاللّٰهُ يَخۡتَصُّ بِرَحۡمَتِهٖ
-  مَنۡ يَّشَآءُ ​ؕ وَاللّٰهُ ذُو الۡفَضۡلِ الۡعَظِيۡمِ‏
+arabic_ayat: مَّا يَوَدُّ ٱلَّذِينَ كَفَرُواْ مِنۡ أَهۡلِ ٱلۡكِتَٰبِ وَلَا ٱلۡمُشۡرِكِينَ
+  أَن يُنَزَّلَ عَلَيۡكُم مِّنۡ خَيۡرٖ مِّن رَّبِّكُمۡۚ وَٱللَّهُ يَخۡتَصُّ بِرَحۡمَتِهِۦ
+  مَن يَشَآءُۚ وَٱللَّهُ ذُو ٱلۡفَضۡلِ ٱلۡعَظِيمِ
 sentence_translation: The disbelievers from the People of the Book and the polytheists
   would not want you to receive any blessing from your Lord, but Allah selects whoever
   He wills for His mercy. And Allah is the Lord of infinite bounty.
 word_by_word:
   1:
-    arabic: مَا
+    arabic: مَّا
     translation: (Do) not
     transliteration: mā
   2:
@@ -15,11 +15,11 @@ word_by_word:
     translation: like
     transliteration: yawaddu
   3:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   4:
-    arabic: كَفَرُوۡا
+    arabic: كَفَرُواْ
     translation: disbelieve
     transliteration: kafarū
   5:
@@ -27,11 +27,11 @@ word_by_word:
     translation: from
     transliteration: min
   6:
-    arabic: اَهۡلِ
+    arabic: أَهۡلِ
     translation: (the) People
     transliteration: ahli
   7:
-    arabic: الۡكِتٰبِ
+    arabic: ٱلۡكِتَٰبِ
     translation: (of) the Book
     transliteration: l-kitābi
   8:
@@ -39,19 +39,19 @@ word_by_word:
     translation: and not
     transliteration: walā
   9:
-    arabic: الۡمُشۡرِكِيۡنَ
+    arabic: ٱلۡمُشۡرِكِينَ
     translation: those who associate partners (with Allah)
     transliteration: l-mush'rikīna
   10:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that
     transliteration: an
   11:
-    arabic: يُّنَزَّلَ
+    arabic: يُنَزَّلَ
     translation: (there should) be sent down
     transliteration: yunazzala
   12:
-    arabic: عَلَيۡڪُمۡ
+    arabic: عَلَيۡكُم
     translation: to you
     transliteration: ʿalaykum
   13:
@@ -59,19 +59,19 @@ word_by_word:
     translation: any
     transliteration: min
   14:
-    arabic: خَيۡرٍ
+    arabic: خَيۡرٖ
     translation: good
     transliteration: khayrin
   15:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: from
     transliteration: min
   16:
-    arabic: رَّبِّکُمۡ​ؕ
+    arabic: رَّبِّكُمۡۚ
     translation: your Lord
     transliteration: rabbikum
   17:
-    arabic: وَاللّٰهُ
+    arabic: وَٱللَّهُ
     translation: And Allah
     transliteration: wal-lahu
   18:
@@ -79,19 +79,19 @@ word_by_word:
     translation: chooses
     transliteration: yakhtaṣṣu
   19:
-    arabic: بِرَحۡمَتِهٖ
+    arabic: بِرَحۡمَتِهِۦ
     translation: for His Mercy
     transliteration: biraḥmatihi
   20:
-    arabic: مَنۡ
+    arabic: مَن
     translation: whom
     transliteration: man
   21:
-    arabic: يَّشَآءُ ​ؕ
+    arabic: يَشَآءُۚ
     translation: He wills
     transliteration: yashāu
   22:
-    arabic: وَاللّٰهُ
+    arabic: وَٱللَّهُ
     translation: And Allah
     transliteration: wal-lahu
   23:
@@ -99,11 +99,11 @@ word_by_word:
     translation: (is the) Possessor
     transliteration: dhū
   24:
-    arabic: الۡفَضۡلِ
+    arabic: ٱلۡفَضۡلِ
     translation: (of) [the] Bounty
     transliteration: l-faḍli
   25:
-    arabic: الۡعَظِيۡمِ‏
+    arabic: ٱلۡعَظِيمِ
     translation: '[the] Great'
     transliteration: l-ʿaẓīmi
 ---

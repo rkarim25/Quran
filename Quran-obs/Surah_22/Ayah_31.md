@@ -1,7 +1,7 @@
 ---
-arabic_ayat: حُنَفَآءَ لِلّٰهِ غَيۡرَ مُشۡرِكِيۡنَ بِهٖ​ؕ وَمَنۡ يُّشۡرِكۡ بِاللّٰهِ
-  فَكَاَنَّمَا خَرَّ مِنَ السَّمَآءِ فَتَخۡطَفُهُ الطَّيۡرُ اَوۡ تَهۡوِىۡ بِهِ الرِّيۡحُ
-  فِىۡ مَكَانٍ سَحِيۡقٍ‏
+arabic_ayat: حُنَفَآءَ لِلَّهِ غَيۡرَ مُشۡرِكِينَ بِهِۦۚ وَمَن يُشۡرِكۡ بِٱللَّهِ
+  فَكَأَنَّمَا خَرَّ مِنَ ٱلسَّمَآءِ فَتَخۡطَفُهُ ٱلطَّيۡرُ أَوۡ تَهۡوِي بِهِ ٱلرِّيحُ
+  فِي مَكَانٖ سَحِيقٖ
 sentence_translation: Be upright ˹in devotion˺ to Allah, associating none with Him
   ˹in worship˺. For whoever associates ˹others˺ with Allah is like someone who has
   fallen from the sky and is either snatched away by birds or swept by the wind to
@@ -12,7 +12,7 @@ word_by_word:
     translation: Being upright
     transliteration: ḥunafāa
   2:
-    arabic: لِلّٰهِ
+    arabic: لِلَّهِ
     translation: to Allah
     transliteration: lillahi
   3:
@@ -20,27 +20,27 @@ word_by_word:
     translation: not
     transliteration: ghayra
   4:
-    arabic: مُشۡرِكِيۡنَ
+    arabic: مُشۡرِكِينَ
     translation: associating partners
     transliteration: mush'rikīna
   5:
-    arabic: بِهٖ​ؕ
+    arabic: بِهِۦۚ
     translation: with Him
     transliteration: bihi
   6:
-    arabic: وَمَنۡ
+    arabic: وَمَن
     translation: And whoever
     transliteration: waman
   7:
-    arabic: يُّشۡرِكۡ
+    arabic: يُشۡرِكۡ
     translation: associates partners
     transliteration: yush'rik
   8:
-    arabic: بِاللّٰهِ
+    arabic: بِٱللَّهِ
     translation: with Allah
     transliteration: bil-lahi
   9:
-    arabic: فَكَاَنَّمَا
+    arabic: فَكَأَنَّمَا
     translation: then (it is) as though
     transliteration: faka-annamā
   10:
@@ -52,7 +52,7 @@ word_by_word:
     translation: from
     transliteration: mina
   12:
-    arabic: السَّمَآءِ
+    arabic: ٱلسَّمَآءِ
     translation: the sky
     transliteration: l-samāi
   13:
@@ -60,15 +60,15 @@ word_by_word:
     translation: and (had) snatched him
     transliteration: fatakhṭafuhu
   14:
-    arabic: الطَّيۡرُ
+    arabic: ٱلطَّيۡرُ
     translation: the birds
     transliteration: l-ṭayru
   15:
-    arabic: اَوۡ
+    arabic: أَوۡ
     translation: or
     transliteration: aw
   16:
-    arabic: تَهۡوِىۡ
+    arabic: تَهۡوِي
     translation: had blown
     transliteration: tahwī
   17:
@@ -76,19 +76,19 @@ word_by_word:
     translation: him
     transliteration: bihi
   18:
-    arabic: الرِّيۡحُ
+    arabic: ٱلرِّيحُ
     translation: the wind
     transliteration: l-rīḥu
   19:
-    arabic: فِىۡ
+    arabic: فِي
     translation: to
     transliteration: fī
   20:
-    arabic: مَكَانٍ
+    arabic: مَكَانٖ
     translation: a place
     transliteration: makānin
   21:
-    arabic: سَحِيۡقٍ‏
+    arabic: سَحِيقٖ
     translation: far off
     transliteration: saḥīqin
 ---

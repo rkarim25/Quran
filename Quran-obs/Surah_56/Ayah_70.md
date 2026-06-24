@@ -1,5 +1,5 @@
 ---
-arabic_ayat: لَوۡ نَشَآءُ جَعَلۡنٰهُ اُجَاجًا فَلَوۡلَا تَشۡكُرُوۡنَ‏
+arabic_ayat: لَوۡ نَشَآءُ جَعَلۡنَٰهُ أُجَاجٗا فَلَوۡلَا تَشۡكُرُونَ
 sentence_translation: If We willed, We could make it salty. Will you not then give
   thanks?
 word_by_word:
@@ -12,11 +12,11 @@ word_by_word:
     translation: We willed
     transliteration: nashāu
   3:
-    arabic: جَعَلۡنٰهُ
+    arabic: جَعَلۡنَٰهُ
     translation: We (could) make it
     transliteration: jaʿalnāhu
   4:
-    arabic: اُجَاجًا
+    arabic: أُجَاجٗا
     translation: salty
     transliteration: ujājan
   5:
@@ -24,7 +24,7 @@ word_by_word:
     translation: then why are you not grateful
     transliteration: falawlā
   6:
-    arabic: تَشۡكُرُوۡنَ‏
+    arabic: تَشۡكُرُونَ
     translation: then why are you not grateful
     transliteration: tashkurūna
 ---

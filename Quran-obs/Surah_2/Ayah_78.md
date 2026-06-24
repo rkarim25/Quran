@@ -1,15 +1,15 @@
 ---
-arabic_ayat: وَ مِنۡهُمۡ اُمِّيُّوۡنَ لَا يَعۡلَمُوۡنَ الۡكِتٰبَ اِلَّاۤ اَمَانِىَّ
-  وَاِنۡ هُمۡ اِلَّا يَظُنُّوۡنَ‏
+arabic_ayat: وَمِنۡهُمۡ أُمِّيُّونَ لَا يَعۡلَمُونَ ٱلۡكِتَٰبَ إِلَّآ أَمَانِيَّ
+  وَإِنۡ هُمۡ إِلَّا يَظُنُّونَ
 sentence_translation: And among them are the illiterate who know nothing about the
   Scripture except lies, and ˹so˺ they ˹wishfully˺ speculate.
 word_by_word:
   1:
-    arabic: وَ مِنۡهُمۡ
+    arabic: وَمِنۡهُمۡ
     translation: And among them
     transliteration: wamin'hum
   2:
-    arabic: اُمِّيُّوۡنَ
+    arabic: أُمِّيُّونَ
     translation: (are) unlettered ones
     transliteration: ummiyyūna
   3:
@@ -17,23 +17,23 @@ word_by_word:
     translation: (who) do not
     transliteration: lā
   4:
-    arabic: يَعۡلَمُوۡنَ
+    arabic: يَعۡلَمُونَ
     translation: know
     transliteration: yaʿlamūna
   5:
-    arabic: الۡكِتٰبَ
+    arabic: ٱلۡكِتَٰبَ
     translation: the book
     transliteration: l-kitāba
   6:
-    arabic: اِلَّاۤ
+    arabic: إِلَّآ
     translation: except
     transliteration: illā
   7:
-    arabic: اَمَانِىَّ
+    arabic: أَمَانِيَّ
     translation: wishful thinking
     transliteration: amāniyya
   8:
-    arabic: وَاِنۡ
+    arabic: وَإِنۡ
     translation: and not
     transliteration: wa-in
   9:
@@ -41,11 +41,11 @@ word_by_word:
     translation: they
     transliteration: hum
   10:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: (do anything) except
     transliteration: illā
   11:
-    arabic: يَظُنُّوۡنَ‏
+    arabic: يَظُنُّونَ
     translation: guess
     transliteration: yaẓunnūna
 ---

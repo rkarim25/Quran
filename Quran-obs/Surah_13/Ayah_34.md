@@ -1,27 +1,27 @@
 ---
-arabic_ayat: لَهُمۡ عَذَابٌ فِى الۡحَيٰوةِ الدُّنۡيَا​ وَلَعَذَابُ الۡاٰخِرَةِ اَشَقُّ​
-  ۚ وَمَا لَهُمۡ مِّنَ اللّٰهِ مِنۡ وَّاقٍ‏
+arabic_ayat: لَّهُمۡ عَذَابٞ فِي ٱلۡحَيَوٰةِ ٱلدُّنۡيَاۖ وَلَعَذَابُ ٱلۡأٓخِرَةِ أَشَقُّۖ
+  وَمَا لَهُم مِّنَ ٱللَّهِ مِن وَاقٖ
 sentence_translation: For them is punishment in this worldly life, but the punishment
   of the Hereafter is truly far worse. And none can shield them from Allah.
 word_by_word:
   1:
-    arabic: لَهُمۡ
+    arabic: لَّهُمۡ
     translation: For them
     transliteration: lahum
   2:
-    arabic: عَذَابٌ
+    arabic: عَذَابٞ
     translation: (is) a punishment
     transliteration: ʿadhābun
   3:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   4:
-    arabic: الۡحَيٰوةِ
+    arabic: ٱلۡحَيَوٰةِ
     translation: the life
     transliteration: l-ḥayati
   5:
-    arabic: الدُّنۡيَا​
+    arabic: ٱلدُّنۡيَاۖ
     translation: (of) the world
     transliteration: l-dun'yā
   6:
@@ -29,11 +29,11 @@ word_by_word:
     translation: and surely the punishment
     transliteration: walaʿadhābu
   7:
-    arabic: الۡاٰخِرَةِ
+    arabic: ٱلۡأٓخِرَةِ
     translation: (of) the Hereafter
     transliteration: l-ākhirati
   8:
-    arabic: اَشَقُّ​ ۚ
+    arabic: أَشَقُّۖ
     translation: (is) harder
     transliteration: ashaqqu
   9:
@@ -41,7 +41,7 @@ word_by_word:
     translation: And not
     transliteration: wamā
   10:
-    arabic: لَهُمۡ
+    arabic: لَهُم
     translation: for them
     transliteration: lahum
   11:
@@ -49,15 +49,15 @@ word_by_word:
     translation: against
     transliteration: mina
   12:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   13:
-    arabic: مِنۡ
+    arabic: مِن
     translation: any
     transliteration: min
   14:
-    arabic: وَّاقٍ‏
+    arabic: وَاقٖ
     translation: defender
     transliteration: wāqin
 ---

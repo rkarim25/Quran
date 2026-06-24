@@ -1,27 +1,27 @@
 ---
-arabic_ayat: وَمِنۡهُمۡ مَّنۡ يَّسۡتَمِعُوۡنَ اِلَيۡكَ​ؕ اَفَاَنۡتَ تُسۡمِعُ الصُّمَّ
-  وَلَوۡ كَانُوۡا لَا يَعۡقِلُوۡنَ‏
+arabic_ayat: وَمِنۡهُم مَّن يَسۡتَمِعُونَ إِلَيۡكَۚ أَفَأَنتَ تُسۡمِعُ ٱلصُّمَّ وَلَوۡ
+  كَانُواْ لَا يَعۡقِلُونَ
 sentence_translation: Some of them listen to what you say, but can you make the deaf
   hear even though they do not understand?
 word_by_word:
   1:
-    arabic: وَمِنۡهُمۡ
+    arabic: وَمِنۡهُم
     translation: And among them
     transliteration: wamin'hum
   2:
-    arabic: مَّنۡ
+    arabic: مَّن
     translation: (are some) who
     transliteration: man
   3:
-    arabic: يَّسۡتَمِعُوۡنَ
+    arabic: يَسۡتَمِعُونَ
     translation: listen
     transliteration: yastamiʿūna
   4:
-    arabic: اِلَيۡكَ​ؕ
+    arabic: إِلَيۡكَۚ
     translation: to you
     transliteration: ilayka
   5:
-    arabic: اَفَاَنۡتَ
+    arabic: أَفَأَنتَ
     translation: But (can) you
     transliteration: afa-anta
   6:
@@ -29,7 +29,7 @@ word_by_word:
     translation: cause the deaf to hear
     transliteration: tus'miʿu
   7:
-    arabic: الصُّمَّ
+    arabic: ٱلصُّمَّ
     translation: cause the deaf to hear
     transliteration: l-ṣuma
   8:
@@ -37,7 +37,7 @@ word_by_word:
     translation: even though
     transliteration: walaw
   9:
-    arabic: كَانُوۡا
+    arabic: كَانُواْ
     translation: they [were]
     transliteration: kānū
   10:
@@ -45,7 +45,7 @@ word_by_word:
     translation: (do) not
     transliteration: lā
   11:
-    arabic: يَعۡقِلُوۡنَ‏
+    arabic: يَعۡقِلُونَ
     translation: use reason
     transliteration: yaʿqilūna
 ---

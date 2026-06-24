@@ -1,13 +1,13 @@
 ---
-arabic_ayat: كَلَّا ؕ اِنَّهٗ كَانَ لِاٰيٰتِنَا عَنِيۡدًا ؕ‏
+arabic_ayat: كـَلَّآۖ إِنَّهُۥ كَانَ لِأٓيَٰتِنَا عَنِيدٗا
 sentence_translation: But no! ˹For˺ he has been truly stubborn with Our revelations.
 word_by_word:
   1:
-    arabic: كَلَّا ؕ
+    arabic: كـَلَّآۖ
     translation: By no means
     transliteration: kallā
   2:
-    arabic: اِنَّهٗ
+    arabic: إِنَّهُۥ
     translation: Indeed, he
     transliteration: innahu
   3:
@@ -15,11 +15,11 @@ word_by_word:
     translation: has been
     transliteration: kāna
   4:
-    arabic: لِاٰيٰتِنَا
+    arabic: لِأٓيَٰتِنَا
     translation: to Our Verses
     transliteration: liāyātinā
   5:
-    arabic: عَنِيۡدًا ؕ‏
+    arabic: عَنِيدٗا
     translation: stubborn
     transliteration: ʿanīdan
 ---

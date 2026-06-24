@@ -1,25 +1,25 @@
 ---
-arabic_ayat: فَحَمَلَـتۡهُ فَانْتَبَذَتۡ بِهٖ مَكَانًا قَصِيًّا‏
+arabic_ayat: ۞ فَحَمَلَتۡهُ فَٱنتَبَذَتۡ بِهِۦ مَكَانٗا قَصِيّٗا
 sentence_translation: So she conceived him and withdrew with him to a remote place.
 word_by_word:
   1:
-    arabic: ۞ فَحَمَلَـتۡهُ
+    arabic: ۞ فَحَمَلَتۡهُ
     translation: So she conceived him
     transliteration: faḥamalathu
   2:
-    arabic: فَانْتَبَذَتۡ
+    arabic: فَٱنتَبَذَتۡ
     translation: and she withdrew
     transliteration: fa-intabadhat
   3:
-    arabic: بِهٖ
+    arabic: بِهِۦ
     translation: with him
     transliteration: bihi
   4:
-    arabic: مَكَانًا
+    arabic: مَكَانٗا
     translation: (to) a place
     transliteration: makānan
   5:
-    arabic: قَصِيًّا‏
+    arabic: قَصِيّٗا
     translation: remote
     transliteration: qaṣiyyan
 ---

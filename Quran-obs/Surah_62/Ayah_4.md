@@ -1,11 +1,11 @@
 ---
-arabic_ayat: ذٰ لِكَ فَضۡلُ اللّٰهِ يُؤۡتِيۡهِ مَنۡ يَّشَآءُ​ ؕ وَاللّٰهُ ذُو الۡفَضۡلِ
-  الۡعَظِيۡمِ‏
+arabic_ayat: ذَٰلِكَ فَضۡلُ ٱللَّهِ يُؤۡتِيهِ مَن يَشَآءُۚ وَٱللَّهُ ذُو ٱلۡفَضۡلِ
+  ٱلۡعَظِيمِ
 sentence_translation: This is the favour of Allah. He grants it to whoever He wills.
   And Allah is the Lord of infinite bounty.
 word_by_word:
   1:
-    arabic: ذٰ لِكَ
+    arabic: ذَٰلِكَ
     translation: That
     transliteration: dhālika
   2:
@@ -13,23 +13,23 @@ word_by_word:
     translation: (is the) Bounty
     transliteration: faḍlu
   3:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (of) Allah
     transliteration: l-lahi
   4:
-    arabic: يُؤۡتِيۡهِ
+    arabic: يُؤۡتِيهِ
     translation: He gives it
     transliteration: yu'tīhi
   5:
-    arabic: مَنۡ
+    arabic: مَن
     translation: (to) whom
     transliteration: man
   6:
-    arabic: يَّشَآءُ​ ؕ
+    arabic: يَشَآءُۚ
     translation: He wills
     transliteration: yashāu
   7:
-    arabic: وَاللّٰهُ
+    arabic: وَٱللَّهُ
     translation: And Allah
     transliteration: wal-lahu
   8:
@@ -37,11 +37,11 @@ word_by_word:
     translation: (is the) Possessor
     transliteration: dhū
   9:
-    arabic: الۡفَضۡلِ
+    arabic: ٱلۡفَضۡلِ
     translation: (of) Bounty
     transliteration: l-faḍli
   10:
-    arabic: الۡعَظِيۡمِ‏
+    arabic: ٱلۡعَظِيمِ
     translation: the Great
     transliteration: l-ʿaẓīmi
 ---

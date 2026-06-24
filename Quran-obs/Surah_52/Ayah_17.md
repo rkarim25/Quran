@@ -1,25 +1,25 @@
 ---
-arabic_ayat: اِنَّ الۡمُتَّقِيۡنَ فِىۡ جَنّٰتٍ وَّنَعِيۡمٍۙ‏
+arabic_ayat: إِنَّ ٱلۡمُتَّقِينَ فِي جَنَّٰتٖ وَنَعِيمٖ
 sentence_translation: Indeed, the righteous will be in Gardens and bliss,
 word_by_word:
   1:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   2:
-    arabic: الۡمُتَّقِيۡنَ
+    arabic: ٱلۡمُتَّقِينَ
     translation: the righteous
     transliteration: l-mutaqīna
   3:
-    arabic: فِىۡ
+    arabic: فِي
     translation: (will be) in
     transliteration: fī
   4:
-    arabic: جَنّٰتٍ
+    arabic: جَنَّٰتٖ
     translation: Gardens
     transliteration: jannātin
   5:
-    arabic: وَّنَعِيۡمٍۙ‏
+    arabic: وَنَعِيمٖ
     translation: and pleasure
     transliteration: wanaʿīmin
 ---

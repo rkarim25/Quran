@@ -1,22 +1,22 @@
 ---
-arabic_ayat: وَمِنۡ اٰيٰتِهٖۤ اَنَّكَ تَرَى الۡاَرۡضَ خَاشِعَةً فَاِذَاۤ اَنۡزَلۡنَا
-  عَلَيۡهَا الۡمَآءَ اهۡتَزَّتۡ وَرَبَتۡ​ؕ اِنَّ الَّذِىۡۤ اَحۡيَاهَا لَمُحۡىِ الۡمَوۡتٰى
-  ؕ اِنَّهٗ عَلٰى كُلِّ شَىۡءٍ قَدِيۡرٌ‏
+arabic_ayat: وَمِنۡ ءَايَٰتِهِۦٓ أَنَّكَ تَرَى ٱلۡأَرۡضَ خَٰشِعَةٗ فَإِذَآ أَنزَلۡنَا
+  عَلَيۡهَا ٱلۡمَآءَ ٱهۡتَزَّتۡ وَرَبَتۡۚ إِنَّ ٱلَّذِيٓ أَحۡيَاهَا لَمُحۡيِ ٱلۡمَوۡتَىٰٓۚ
+  إِنَّهُۥ عَلَىٰ كُلِّ شَيۡءٖ قَدِيرٌ
 sentence_translation: And among His signs is that you see the earth devoid of life,
   but as soon as We send down rain upon it, it begins to stir ˹to life˺ and swell.
   Indeed, the One Who revives it can easily revive the dead. He is certainly Most
   Capable of everything.
 word_by_word:
   1:
-    arabic: وَمِنۡ
+    arabic: وَمِنۡ ءَ
     translation: And among
     transliteration: wamin
   2:
-    arabic: اٰيٰتِهٖۤ
+    arabic: ايَٰتِهِۦٓ
     translation: His Signs
     transliteration: āyātihi
   3:
-    arabic: اَنَّكَ
+    arabic: أَنَّكَ
     translation: (is) that you
     transliteration: annaka
   4:
@@ -24,19 +24,19 @@ word_by_word:
     translation: see
     transliteration: tarā
   5:
-    arabic: الۡاَرۡضَ
+    arabic: ٱلۡأَرۡضَ
     translation: the earth
     transliteration: l-arḍa
   6:
-    arabic: خَاشِعَةً
+    arabic: خَٰشِعَةٗ
     translation: barren
     transliteration: khāshiʿatan
   7:
-    arabic: فَاِذَاۤ
+    arabic: فَإِذَآ
     translation: but when
     transliteration: fa-idhā
   8:
-    arabic: اَنۡزَلۡنَا
+    arabic: أَنزَلۡنَا
     translation: We send down
     transliteration: anzalnā
   9:
@@ -44,43 +44,43 @@ word_by_word:
     translation: upon it
     transliteration: ʿalayhā
   10:
-    arabic: الۡمَآءَ
+    arabic: ٱلۡمَآءَ
     translation: water
     transliteration: l-māa
   11:
-    arabic: اهۡتَزَّتۡ
+    arabic: ٱهۡتَزَّتۡ
     translation: it is stirred (to life)
     transliteration: ih'tazzat
   12:
-    arabic: وَرَبَتۡ​ؕ
+    arabic: وَرَبَتۡۚ
     translation: and grows
     transliteration: warabat
   13:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   14:
-    arabic: الَّذِىۡۤ
+    arabic: ٱلَّذِيٓ
     translation: the One Who
     transliteration: alladhī
   15:
-    arabic: اَحۡيَاهَا
+    arabic: أَحۡيَاهَا
     translation: gives it life
     transliteration: aḥyāhā
   16:
-    arabic: لَمُحۡىِ
+    arabic: لَمُحۡيِ
     translation: (is) surely the Giver of life
     transliteration: lamuḥ'yī
   17:
-    arabic: الۡمَوۡتٰى ؕ
+    arabic: ٱلۡمَوۡتَىٰٓۚ
     translation: (to) the dead
     transliteration: l-mawtā
   18:
-    arabic: اِنَّهٗ
+    arabic: إِنَّهُۥ
     translation: Indeed, He
     transliteration: innahu
   19:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: (is) on
     transliteration: ʿalā
   20:
@@ -88,11 +88,11 @@ word_by_word:
     translation: every
     transliteration: kulli
   21:
-    arabic: شَىۡءٍ
+    arabic: شَيۡءٖ
     translation: thing
     transliteration: shayin
   22:
-    arabic: قَدِيۡرٌ‏
+    arabic: قَدِيرٌ
     translation: All-Powerful
     transliteration: qadīrun
 ---

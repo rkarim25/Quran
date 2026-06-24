@@ -1,6 +1,6 @@
 ---
-arabic_ayat: وَلَمۡ تَكُنۡ لَّهٗ فِئَةٌ يَّـنۡصُرُوۡنَهٗ مِنۡ دُوۡنِ اللّٰهِ وَمَا
-  كَانَ مُنۡتَصِرًا ؕ‏
+arabic_ayat: وَلَمۡ تَكُن لَّهُۥ فِئَةٞ يَنصُرُونَهُۥ مِن دُونِ ٱللَّهِ وَمَا كَانَ
+  مُنتَصِرًا
 sentence_translation: And he had no manpower to help him against Allah, nor could
   he ˹even˺ help himself.
 word_by_word:
@@ -9,31 +9,31 @@ word_by_word:
     translation: And not
     transliteration: walam
   2:
-    arabic: تَكُنۡ
+    arabic: تَكُن
     translation: was
     transliteration: takun
   3:
-    arabic: لَّهٗ
+    arabic: لَّهُۥ
     translation: for him
     transliteration: lahu
   4:
-    arabic: فِئَةٌ
+    arabic: فِئَةٞ
     translation: a group
     transliteration: fi-atun
   5:
-    arabic: يَّـنۡصُرُوۡنَهٗ
+    arabic: يَنصُرُونَهُۥ
     translation: (to) help him
     transliteration: yanṣurūnahu
   6:
-    arabic: مِنۡ
+    arabic: مِن
     translation: other than
     transliteration: min
   7:
-    arabic: دُوۡنِ
+    arabic: دُونِ
     translation: other than
     transliteration: dūni
   8:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   9:
@@ -45,7 +45,7 @@ word_by_word:
     translation: was
     transliteration: kāna
   11:
-    arabic: مُنۡتَصِرًا ؕ‏
+    arabic: مُنتَصِرًا
     translation: (he) supported
     transliteration: muntaṣiran
 ---

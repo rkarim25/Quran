@@ -1,6 +1,6 @@
 ---
-arabic_ayat: وَلَوۡلَا فَضۡلُ اللّٰهِ عَلَيۡكُمۡ وَرَحۡمَتُهٗ فِى الدُّنۡيَا وَالۡاٰخِرَةِ
-  لَمَسَّكُمۡ فِىۡ مَاۤ اَفَضۡتُمۡ فِيۡهِ عَذَابٌ عَظِيۡمٌ​ ۖ​ ۚ‏
+arabic_ayat: وَلَوۡلَا فَضۡلُ ٱللَّهِ عَلَيۡكُمۡ وَرَحۡمَتُهُۥ فِي ٱلدُّنۡيَا وَٱلۡأٓخِرَةِ
+  لَمَسَّكُمۡ فِي مَآ أَفَضۡتُمۡ فِيهِ عَذَابٌ عَظِيمٌ
 sentence_translation: Had it not been for Allah’s grace and mercy upon you in this
   world and the Hereafter, you would have certainly been touched with a tremendous
   punishment for what you plunged into—
@@ -14,7 +14,7 @@ word_by_word:
     translation: (for the) Grace
     transliteration: faḍlu
   3:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (of) Allah
     transliteration: l-lahi
   4:
@@ -22,19 +22,19 @@ word_by_word:
     translation: upon you
     transliteration: ʿalaykum
   5:
-    arabic: وَرَحۡمَتُهٗ
+    arabic: وَرَحۡمَتُهُۥ
     translation: and His Mercy
     transliteration: waraḥmatuhu
   6:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   7:
-    arabic: الدُّنۡيَا
+    arabic: ٱلدُّنۡيَا
     translation: the world
     transliteration: l-dun'yā
   8:
-    arabic: وَالۡاٰخِرَةِ
+    arabic: وَٱلۡأٓخِرَةِ
     translation: and the Hereafter
     transliteration: wal-ākhirati
   9:
@@ -42,19 +42,19 @@ word_by_word:
     translation: surely would have touched you
     transliteration: lamassakum
   10:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   11:
-    arabic: مَاۤ
+    arabic: مَآ
     translation: what
     transliteration: mā
   12:
-    arabic: اَفَضۡتُمۡ
+    arabic: أَفَضۡتُمۡ
     translation: you had rushed glibly
     transliteration: afaḍtum
   13:
-    arabic: فِيۡهِ
+    arabic: فِيهِ
     translation: concerning it
     transliteration: fīhi
   14:
@@ -62,7 +62,7 @@ word_by_word:
     translation: a punishment
     transliteration: ʿadhābun
   15:
-    arabic: عَظِيۡمٌ​ ۖ​ ۚ‏
+    arabic: عَظِيمٌ
     translation: great
     transliteration: ʿaẓīmun
 ---

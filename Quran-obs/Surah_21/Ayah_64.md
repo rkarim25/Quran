@@ -1,35 +1,34 @@
 ---
-arabic_ayat: "فَرَجَعُوۡۤا اِلٰٓى اَنۡـفُسِهِمۡ فَقَالُوۡۤا اِنَّكُمۡ اَنۡـتُمُ الظّٰلِمُوۡنَۙ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: فَرَجَعُوٓاْ إِلَىٰٓ أَنفُسِهِمۡ فَقَالُوٓاْ إِنَّكُمۡ أَنتُمُ ٱلظَّٰلِمُونَ
 sentence_translation: So they came back to their senses, saying ˹to one another˺,
   “You yourselves are truly the wrongdoers!”
 word_by_word:
   1:
-    arabic: فَرَجَعُوۡۤا
+    arabic: فَرَجَعُوٓاْ
     translation: So they returned
     transliteration: farajaʿū
   2:
-    arabic: اِلٰٓى
+    arabic: إِلَىٰٓ
     translation: to
     transliteration: ilā
   3:
-    arabic: اَنۡـفُسِهِمۡ
+    arabic: أَنفُسِهِمۡ
     translation: themselves
     transliteration: anfusihim
   4:
-    arabic: فَقَالُوۡۤا
+    arabic: فَقَالُوٓاْ
     translation: and said
     transliteration: faqālū
   5:
-    arabic: اِنَّكُمۡ
+    arabic: إِنَّكُمۡ
     translation: Indeed, you
     transliteration: innakum
   6:
-    arabic: اَنۡـتُمُ
+    arabic: أَنتُمُ
     translation: '[you]'
     transliteration: antumu
   7:
-    arabic: "الظّٰلِمُوۡنَۙ‏ \uFEFF\uFEFF"
+    arabic: ٱلظَّٰلِمُونَ
     translation: (are) the wrongdoers
     transliteration: l-ẓālimūna
 ---

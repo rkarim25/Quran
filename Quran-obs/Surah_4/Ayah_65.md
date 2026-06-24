@@ -1,7 +1,6 @@
 ---
-arabic_ayat: "فَلَا وَرَبِّكَ لَا يُؤۡمِنُوۡنَ حَتّٰى يُحَكِّمُوۡكَ فِيۡمَا شَجَرَ\
-  \ بَيۡنَهُمۡ ثُمَّ لَا يَجِدُوۡا فِىۡۤ اَنۡفُسِهِمۡ حَرَجًا مِّمَّا قَضَيۡتَ وَيُسَلِّمُوۡا\
-  \ تَسۡلِيۡمًا‏ \uFEFF\uFEFF"
+arabic_ayat: فَلَا وَرَبِّكَ لَا يُؤۡمِنُونَ حَتَّىٰ يُحَكِّمُوكَ فِيمَا شَجَرَ بَيۡنَهُمۡ
+  ثُمَّ لَا يَجِدُواْ فِيٓ أَنفُسِهِمۡ حَرَجٗا مِّمَّا قَضَيۡتَ وَيُسَلِّمُواْ تَسۡلِيمٗا
 sentence_translation: But no! By your Lord, they will never be ˹true˺ believers until
   they accept you ˹O Prophet˺ as the judge in their disputes, and find no resistance
   within themselves against your decision and submit wholeheartedly.
@@ -19,19 +18,19 @@ word_by_word:
     translation: not
     transliteration: lā
   4:
-    arabic: يُؤۡمِنُوۡنَ
+    arabic: يُؤۡمِنُونَ
     translation: will they believe
     transliteration: yu'minūna
   5:
-    arabic: حَتّٰى
+    arabic: حَتَّىٰ
     translation: until
     transliteration: ḥattā
   6:
-    arabic: يُحَكِّمُوۡكَ
+    arabic: يُحَكِّمُوكَ
     translation: they make you judge
     transliteration: yuḥakkimūka
   7:
-    arabic: فِيۡمَا
+    arabic: فِيمَا
     translation: about what
     transliteration: fīmā
   8:
@@ -51,19 +50,19 @@ word_by_word:
     translation: not
     transliteration: lā
   12:
-    arabic: يَجِدُوۡا
+    arabic: يَجِدُواْ
     translation: they find
     transliteration: yajidū
   13:
-    arabic: فِىۡۤ
+    arabic: فِيٓ
     translation: in
     transliteration: fī
   14:
-    arabic: اَنۡفُسِهِمۡ
+    arabic: أَنفُسِهِمۡ
     translation: themselves
     transliteration: anfusihim
   15:
-    arabic: حَرَجًا
+    arabic: حَرَجٗا
     translation: any discomfort
     transliteration: ḥarajan
   16:
@@ -75,11 +74,11 @@ word_by_word:
     translation: you (have) decided
     transliteration: qaḍayta
   18:
-    arabic: وَيُسَلِّمُوۡا
+    arabic: وَيُسَلِّمُواْ
     translation: and submit
     transliteration: wayusallimū
   19:
-    arabic: "تَسۡلِيۡمًا‏ \uFEFF\uFEFF"
+    arabic: تَسۡلِيمٗا
     translation: (in full) submission
     transliteration: taslīman
 ---

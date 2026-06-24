@@ -1,6 +1,6 @@
 ---
-arabic_ayat: قَالَ قَآٮِٕلٌ مِّنۡهُمۡ لَا تَقۡتُلُوۡا يُوۡسُفَ وَاَلۡقُوۡهُ فِىۡ
-  غَيٰبَتِ الۡجُـبِّ يَلۡتَقِطۡهُ بَعۡضُ السَّيَّارَةِ اِنۡ كُنۡتُمۡ فٰعِلِيۡنَ‏
+arabic_ayat: قَالَ قَآئِلٞ مِّنۡهُمۡ لَا تَقۡتُلُواْ يُوسُفَ وَأَلۡقُوهُ فِي غَيَٰبَتِ
+  ٱلۡجُبِّ يَلۡتَقِطۡهُ بَعۡضُ ٱلسَّيَّارَةِ إِن كُنتُمۡ فَٰعِلِينَ
 sentence_translation: One of them said, “Do not kill Joseph. But if you must do something,
   throw him into the bottom of a well so perhaps he may be picked up by some travellers.”
 word_by_word:
@@ -9,7 +9,7 @@ word_by_word:
     translation: Said
     transliteration: qāla
   2:
-    arabic: قَآٮِٕلٌ
+    arabic: قَآئِلٞ
     translation: a speaker
     transliteration: qāilun
   3:
@@ -21,27 +21,27 @@ word_by_word:
     translation: (Do) not
     transliteration: lā
   5:
-    arabic: تَقۡتُلُوۡا
+    arabic: تَقۡتُلُواْ
     translation: kill
     transliteration: taqtulū
   6:
-    arabic: يُوۡسُفَ
+    arabic: يُوسُفَ
     translation: Yusuf
     transliteration: yūsufa
   7:
-    arabic: وَاَلۡقُوۡهُ
+    arabic: وَأَلۡقُوهُ
     translation: but throw him
     transliteration: wa-alqūhu
   8:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   9:
-    arabic: غَيٰبَتِ
+    arabic: غَيَٰبَتِ
     translation: the bottom
     transliteration: ghayābati
   10:
-    arabic: الۡجُـبِّ
+    arabic: ٱلۡجُبِّ
     translation: (of) the well
     transliteration: l-jubi
   11:
@@ -53,19 +53,19 @@ word_by_word:
     translation: some
     transliteration: baʿḍu
   13:
-    arabic: السَّيَّارَةِ
+    arabic: ٱلسَّيَّارَةِ
     translation: '[the] caravan'
     transliteration: l-sayārati
   14:
-    arabic: اِنۡ
+    arabic: إِن
     translation: if
     transliteration: in
   15:
-    arabic: كُنۡتُمۡ
+    arabic: كُنتُمۡ
     translation: you are
     transliteration: kuntum
   16:
-    arabic: فٰعِلِيۡنَ‏
+    arabic: فَٰعِلِينَ
     translation: doing
     transliteration: fāʿilīna
 ---

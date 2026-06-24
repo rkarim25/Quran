@@ -1,23 +1,23 @@
 ---
-arabic_ayat: وَسَارِعُوۡۤا اِلٰى مَغۡفِرَةٍ مِّنۡ رَّبِّكُمۡ وَجَنَّةٍ عَرۡضُهَا السَّمٰوٰتُ
-  وَالۡاَرۡضُۙ اُعِدَّتۡ لِلۡمُتَّقِيۡنَۙ‏
+arabic_ayat: ۞ وَسَارِعُوٓاْ إِلَىٰ مَغۡفِرَةٖ مِّن رَّبِّكُمۡ وَجَنَّةٍ عَرۡضُهَا
+  ٱلسَّمَٰوَٰتُ وَٱلۡأَرۡضُ أُعِدَّتۡ لِلۡمُتَّقِينَ
 sentence_translation: And hasten towards forgiveness from your Lord and a Paradise
   as vast as the heavens and the earth, prepared for those mindful ˹of Allah˺.
 word_by_word:
   1:
-    arabic: ۞ وَسَارِعُوۡۤا
+    arabic: ۞ وَسَارِعُوٓاْ
     translation: And hasten
     transliteration: wasāriʿū
   2:
-    arabic: اِلٰى
+    arabic: إِلَىٰ
     translation: to
     transliteration: ilā
   3:
-    arabic: مَغۡفِرَةٍ
+    arabic: مَغۡفِرَةٖ
     translation: forgiveness
     transliteration: maghfiratin
   4:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: from
     transliteration: min
   5:
@@ -33,19 +33,19 @@ word_by_word:
     translation: its width
     transliteration: ʿarḍuhā
   8:
-    arabic: السَّمٰوٰتُ
+    arabic: ٱلسَّمَٰوَٰتُ
     translation: (is like that of) the heavens
     transliteration: l-samāwātu
   9:
-    arabic: وَالۡاَرۡضُۙ
+    arabic: وَٱلۡأَرۡضُ
     translation: and the earth
     transliteration: wal-arḍu
   10:
-    arabic: اُعِدَّتۡ
+    arabic: أُعِدَّتۡ
     translation: prepared
     transliteration: uʿiddat
   11:
-    arabic: لِلۡمُتَّقِيۡنَۙ‏
+    arabic: لِلۡمُتَّقِينَ
     translation: for the pious
     transliteration: lil'muttaqīna
 ---

@@ -1,5 +1,5 @@
 ---
-arabic_ayat: وَبُرِّزَتِ الۡجَحِيۡمُ لِمَنۡ يَّرٰى‏
+arabic_ayat: وَبُرِّزَتِ ٱلۡجَحِيمُ لِمَن يَرَىٰ
 sentence_translation: and the Hellfire will be displayed for all to see—
 word_by_word:
   1:
@@ -7,15 +7,15 @@ word_by_word:
     translation: And will be made manifest
     transliteration: waburrizati
   2:
-    arabic: الۡجَحِيۡمُ
+    arabic: ٱلۡجَحِيمُ
     translation: the Hellfire
     transliteration: l-jaḥīmu
   3:
-    arabic: لِمَنۡ
+    arabic: لِمَن
     translation: to (him) who
     transliteration: liman
   4:
-    arabic: يَّرٰى‏
+    arabic: يَرَىٰ
     translation: sees
     transliteration: yarā
 ---

@@ -1,15 +1,15 @@
 ---
-arabic_ayat: وَاللّٰهُ اَنۡزَلَ مِنَ السَّمَآءِ مَآءً فَاَحۡيَا بِهِ الۡاَرۡضَ بَعۡدَ
-  مَوۡتِهَا​ؕ اِنَّ فِىۡ ذٰ لِكَ لَاٰيَةً لِّقَوۡمٍ يَّسۡمَعُوۡنَ‏
+arabic_ayat: وَٱللَّهُ أَنزَلَ مِنَ ٱلسَّمَآءِ مَآءٗ فَأَحۡيَا بِهِ ٱلۡأَرۡضَ بَعۡدَ
+  مَوۡتِهَآۚ إِنَّ فِي ذَٰلِكَ لَأٓيَةٗ لِّقَوۡمٖ يَسۡمَعُونَ
 sentence_translation: And Allah sends down rain from the sky, giving life to the earth
   after its death. Surely in this is a sign for those who listen.
 word_by_word:
   1:
-    arabic: وَاللّٰهُ
+    arabic: وَٱللَّهُ
     translation: And Allah
     transliteration: wal-lahu
   2:
-    arabic: اَنۡزَلَ
+    arabic: أَنزَلَ
     translation: has sent down
     transliteration: anzala
   3:
@@ -17,15 +17,15 @@ word_by_word:
     translation: from
     transliteration: mina
   4:
-    arabic: السَّمَآءِ
+    arabic: ٱلسَّمَآءِ
     translation: the sky
     transliteration: l-samāi
   5:
-    arabic: مَآءً
+    arabic: مَآءٗ
     translation: water
     transliteration: māan
   6:
-    arabic: فَاَحۡيَا
+    arabic: فَأَحۡيَا
     translation: then gives life
     transliteration: fa-aḥyā
   7:
@@ -33,7 +33,7 @@ word_by_word:
     translation: by it
     transliteration: bihi
   8:
-    arabic: الۡاَرۡضَ
+    arabic: ٱلۡأَرۡضَ
     translation: (to) the earth
     transliteration: l-arḍa
   9:
@@ -41,31 +41,31 @@ word_by_word:
     translation: after
     transliteration: baʿda
   10:
-    arabic: مَوۡتِهَا​ؕ
+    arabic: مَوۡتِهَآۚ
     translation: its death
     transliteration: mawtihā
   11:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   12:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   13:
-    arabic: ذٰ لِكَ
+    arabic: ذَٰلِكَ
     translation: that
     transliteration: dhālika
   14:
-    arabic: لَاٰيَةً
+    arabic: لَأٓيَةٗ
     translation: (is) surely a Sign
     transliteration: laāyatan
   15:
-    arabic: لِّقَوۡمٍ
+    arabic: لِّقَوۡمٖ
     translation: for a people
     transliteration: liqawmin
   16:
-    arabic: يَّسۡمَعُوۡنَ‏
+    arabic: يَسۡمَعُونَ
     translation: who listen
     transliteration: yasmaʿūna
 ---

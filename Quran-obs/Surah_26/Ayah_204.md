@@ -1,13 +1,13 @@
 ---
-arabic_ayat: اَفَبِعَذَابِنَا يَسۡتَعۡجِلُوۡنَ‏
+arabic_ayat: أَفَبِعَذَابِنَا يَسۡتَعۡجِلُونَ
 sentence_translation: Do they ˹really˺ seek to hasten Our torment?
 word_by_word:
   1:
-    arabic: اَفَبِعَذَابِنَا
+    arabic: أَفَبِعَذَابِنَا
     translation: So is it for Our punishment
     transliteration: afabiʿadhābinā
   2:
-    arabic: يَسۡتَعۡجِلُوۡنَ‏
+    arabic: يَسۡتَعۡجِلُونَ
     translation: they wish to hasten
     transliteration: yastaʿjilūna
 ---

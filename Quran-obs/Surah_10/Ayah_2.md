@@ -1,14 +1,14 @@
 ---
-arabic_ayat: اَكَانَ لِلنَّاسِ عَجَبًا اَنۡ اَوۡحَيۡنَاۤ اِلٰى رَجُلٍ مِّنۡهُمۡ اَنۡ
-  اَنۡذِرِ النَّاسَ وَبَشِّرِ الَّذِيۡنَ اٰمَنُوۡۤا اَنَّ لَهُمۡ قَدَمَ صِدۡقٍ عِنۡدَ
-  رَبِّهِمۡ​ؕ قَالَ الۡكٰفِرُوۡنَ اِنَّ هٰذَا لَسٰحِرٌ مُّبِيۡنٌ‏
+arabic_ayat: أَكَانَ لِلنَّاسِ عَجَبًا أَنۡ أَوۡحَيۡنَآ إِلَىٰ رَجُلٖ مِّنۡهُمۡ أَنۡ
+  أَنذِرِ ٱلنَّاسَ وَبَشِّرِ ٱلَّذِينَ ءَامَنُوٓاْ أَنَّ لَهُمۡ قَدَمَ صِدۡقٍ عِندَ
+  رَبِّهِمۡۗ قَالَ ٱلۡكَٰفِرُونَ إِنَّ هَٰذَا لَسَٰحِرٞ مُّبِينٌ
 sentence_translation: Is it astonishing to people that We have sent revelation to
   a man from among themselves, ˹instructing him,˺ “Warn humanity and give good news
   to the believers that they will have an honourable status with their Lord.”? Yet
   the disbelievers said, “Indeed, this ˹man˺ is clearly a magician!”
 word_by_word:
   1:
-    arabic: اَكَانَ
+    arabic: أَكَانَ
     translation: Is it
     transliteration: akāna
   2:
@@ -20,19 +20,19 @@ word_by_word:
     translation: a wonder
     transliteration: ʿajaban
   4:
-    arabic: اَنۡ
+    arabic: أَنۡ
     translation: that
     transliteration: an
   5:
-    arabic: اَوۡحَيۡنَاۤ
+    arabic: أَوۡحَيۡنَآ
     translation: We revealed
     transliteration: awḥaynā
   6:
-    arabic: اِلٰى
+    arabic: إِلَىٰ
     translation: to
     transliteration: ilā
   7:
-    arabic: رَجُلٍ
+    arabic: رَجُلٖ
     translation: a man
     transliteration: rajulin
   8:
@@ -40,15 +40,15 @@ word_by_word:
     translation: from (among) them
     transliteration: min'hum
   9:
-    arabic: اَنۡ
+    arabic: أَنۡ
     translation: that
     transliteration: an
   10:
-    arabic: اَنۡذِرِ
+    arabic: أَنذِرِ
     translation: Warn
     transliteration: andhiri
   11:
-    arabic: النَّاسَ
+    arabic: ٱلنَّاسَ
     translation: the mankind
     transliteration: l-nāsa
   12:
@@ -56,15 +56,15 @@ word_by_word:
     translation: and give glad tidings
     transliteration: wabashiri
   13:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ ءَ
     translation: (to) those who
     transliteration: alladhīna
   14:
-    arabic: اٰمَنُوۡۤا
+    arabic: امَنُوٓاْ
     translation: believe
     transliteration: āmanū
   15:
-    arabic: اَنَّ
+    arabic: أَنَّ
     translation: that
     transliteration: anna
   16:
@@ -80,11 +80,11 @@ word_by_word:
     translation: (will be) a respectable position
     transliteration: ṣid'qin
   19:
-    arabic: عِنۡدَ
+    arabic: عِندَ
     translation: near
     transliteration: ʿinda
   20:
-    arabic: رَبِّهِمۡ​ؕ
+    arabic: رَبِّهِمۡۗ
     translation: their Lord
     transliteration: rabbihim
   21:
@@ -92,23 +92,23 @@ word_by_word:
     translation: Said
     transliteration: qāla
   22:
-    arabic: الۡكٰفِرُوۡنَ
+    arabic: ٱلۡكَٰفِرُونَ
     translation: the disbelievers
     transliteration: l-kāfirūna
   23:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   24:
-    arabic: هٰذَا
+    arabic: هَٰذَا
     translation: this
     transliteration: hādhā
   25:
-    arabic: لَسٰحِرٌ
+    arabic: لَسَٰحِرٞ
     translation: (is) surely a magician
     transliteration: lasāḥirun
   26:
-    arabic: مُّبِيۡنٌ‏
+    arabic: مُّبِينٌ
     translation: obvious
     transliteration: mubīnun
 ---

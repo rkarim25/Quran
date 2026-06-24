@@ -1,27 +1,27 @@
 ---
-arabic_ayat: وَاِذَا تُتۡلٰى عَلَيۡهِمۡ اٰيٰتُنَا بَيِّنٰتٍ مَّا كَانَ حُجَّتَهُمۡ
-  اِلَّاۤ اَنۡ قَالُوا ائۡتُوۡا بِاٰبَآٮِٕنَاۤ اِنۡ كُنۡتُمۡ صٰدِقِيۡنَ‏
+arabic_ayat: وَإِذَا تُتۡلَىٰ عَلَيۡهِمۡ ءَايَٰتُنَا بَيِّنَٰتٖ مَّا كَانَ حُجَّتَهُمۡ
+  إِلَّآ أَن قَالُواْ ٱئۡتُواْ بِـَٔابَآئِنَآ إِن كُنتُمۡ صَٰدِقِينَ
 sentence_translation: 'And whenever Our clear revelations are recited to them, their
   only argument is to say: “Bring our forefathers back, if what you say is true!”'
 word_by_word:
   1:
-    arabic: وَاِذَا
+    arabic: وَإِذَا
     translation: And when
     transliteration: wa-idhā
   2:
-    arabic: تُتۡلٰى
+    arabic: تُتۡلَىٰ
     translation: are recited
     transliteration: tut'lā
   3:
-    arabic: عَلَيۡهِمۡ
+    arabic: عَلَيۡهِمۡ ءَ
     translation: to them
     transliteration: ʿalayhim
   4:
-    arabic: اٰيٰتُنَا
+    arabic: ايَٰتُنَا
     translation: Our Verses
     transliteration: āyātunā
   5:
-    arabic: بَيِّنٰتٍ
+    arabic: بَيِّنَٰتٖ
     translation: clear
     transliteration: bayyinātin
   6:
@@ -37,35 +37,35 @@ word_by_word:
     translation: their argument
     transliteration: ḥujjatahum
   9:
-    arabic: اِلَّاۤ
+    arabic: إِلَّآ
     translation: except
     transliteration: illā
   10:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that
     transliteration: an
   11:
-    arabic: قَالُوا
+    arabic: قَالُواْ
     translation: they say
     transliteration: qālū
   12:
-    arabic: ائۡتُوۡا
+    arabic: ٱئۡتُواْ
     translation: Bring
     transliteration: i'tū
   13:
-    arabic: بِاٰبَآٮِٕنَاۤ
+    arabic: بِـَٔابَآئِنَآ
     translation: our forefathers
     transliteration: biābāinā
   14:
-    arabic: اِنۡ
+    arabic: إِن
     translation: if
     transliteration: in
   15:
-    arabic: كُنۡتُمۡ
+    arabic: كُنتُمۡ
     translation: you are
     transliteration: kuntum
   16:
-    arabic: صٰدِقِيۡنَ‏
+    arabic: صَٰدِقِينَ
     translation: truthful
     transliteration: ṣādiqīna
 ---

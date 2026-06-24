@@ -1,13 +1,13 @@
 ---
-arabic_ayat: وَمَاۤ اَدۡرٰٮكَ مَا عِلِّيُّوۡنَؕ‏
+arabic_ayat: وَمَآ أَدۡرَىٰكَ مَا عِلِّيُّونَ
 sentence_translation: and what will make you realize what ’Illiyûn is?—
 word_by_word:
   1:
-    arabic: وَمَاۤ
+    arabic: وَمَآ
     translation: And what
     transliteration: wamā
   2:
-    arabic: اَدۡرٰٮكَ
+    arabic: أَدۡرَىٰكَ
     translation: can make you know
     transliteration: adrāka
   3:
@@ -15,7 +15,7 @@ word_by_word:
     translation: what
     transliteration: mā
   4:
-    arabic: عِلِّيُّوۡنَؕ‏
+    arabic: عِلِّيُّونَ
     translation: (is) Illiyun
     transliteration: ʿilliyyūna
 ---

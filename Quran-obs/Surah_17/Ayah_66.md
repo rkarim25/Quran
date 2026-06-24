@@ -1,51 +1,51 @@
 ---
-arabic_ayat: رَبُّكُمُ الَّذِىۡ يُزۡجِىۡ لَـكُمُ الۡفُلۡكَ فِى الۡبَحۡرِ لِتَبۡتَغُوۡا
-  مِنۡ فَضۡلِهٖؕ اِنَّهٗ كَانَ بِكُمۡ رَحِيۡمًا‏
+arabic_ayat: رَّبُّكُمُ ٱلَّذِي يُزۡجِي لَكُمُ ٱلۡفُلۡكَ فِي ٱلۡبَحۡرِ لِتَبۡتَغُواْ
+  مِن فَضۡلِهِۦٓۚ إِنَّهُۥ كَانَ بِكُمۡ رَحِيمٗا
 sentence_translation: It is your Lord Who steers the ships for you through the sea,
   so that you may seek His bounty. Surely He is ever Merciful to you.
 word_by_word:
   1:
-    arabic: رَبُّكُمُ
+    arabic: رَّبُّكُمُ
     translation: Your Lord
     transliteration: rabbukumu
   2:
-    arabic: الَّذِىۡ
+    arabic: ٱلَّذِي
     translation: (is) the One Who
     transliteration: alladhī
   3:
-    arabic: يُزۡجِىۡ
+    arabic: يُزۡجِي
     translation: drives
     transliteration: yuz'jī
   4:
-    arabic: لَـكُمُ
+    arabic: لَكُمُ
     translation: for you
     transliteration: lakumu
   5:
-    arabic: الۡفُلۡكَ
+    arabic: ٱلۡفُلۡكَ
     translation: the ship
     transliteration: l-ful'ka
   6:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   7:
-    arabic: الۡبَحۡرِ
+    arabic: ٱلۡبَحۡرِ
     translation: the sea
     transliteration: l-baḥri
   8:
-    arabic: لِتَبۡتَغُوۡا
+    arabic: لِتَبۡتَغُواْ
     translation: that you may seek
     transliteration: litabtaghū
   9:
-    arabic: مِنۡ
+    arabic: مِن
     translation: of
     transliteration: min
   10:
-    arabic: فَضۡلِهٖؕ
+    arabic: فَضۡلِهِۦٓۚ
     translation: His Bounty
     transliteration: faḍlihi
   11:
-    arabic: اِنَّهٗ
+    arabic: إِنَّهُۥ
     translation: Indeed, He
     transliteration: innahu
   12:
@@ -57,7 +57,7 @@ word_by_word:
     translation: to you
     transliteration: bikum
   14:
-    arabic: رَحِيۡمًا‏
+    arabic: رَحِيمٗا
     translation: Ever Merciful
     transliteration: raḥīman
 ---

@@ -1,31 +1,31 @@
 ---
-arabic_ayat: هٰذَا كِتٰبُنَا يَنۡطِقُ عَلَيۡكُمۡ بِالۡحَقِّ​ؕ اِنَّا كُنَّا نَسۡتَنۡسِخُ
-  مَا كُنۡتُمۡ تَعۡمَلُوۡنَ‏
+arabic_ayat: هَٰذَا كِتَٰبُنَا يَنطِقُ عَلَيۡكُم بِٱلۡحَقِّۚ إِنَّا كُنَّا نَسۡتَنسِخُ
+  مَا كُنتُمۡ تَعۡمَلُونَ
 sentence_translation: This record of Ours speaks the truth about you. Indeed, We always
   had your deeds recorded ˹by the angels˺.”
 word_by_word:
   1:
-    arabic: هٰذَا
+    arabic: هَٰذَا
     translation: This
     transliteration: hādhā
   2:
-    arabic: كِتٰبُنَا
+    arabic: كِتَٰبُنَا
     translation: Our Record
     transliteration: kitābunā
   3:
-    arabic: يَنۡطِقُ
+    arabic: يَنطِقُ
     translation: speaks
     transliteration: yanṭiqu
   4:
-    arabic: عَلَيۡكُمۡ
+    arabic: عَلَيۡكُم
     translation: about you
     transliteration: ʿalaykum
   5:
-    arabic: بِالۡحَقِّ​ؕ
+    arabic: بِٱلۡحَقِّۚ
     translation: in truth
     transliteration: bil-ḥaqi
   6:
-    arabic: اِنَّا
+    arabic: إِنَّا
     translation: Indeed, We
     transliteration: innā
   7:
@@ -33,7 +33,7 @@ word_by_word:
     translation: '[We] used to'
     transliteration: kunnā
   8:
-    arabic: نَسۡتَنۡسِخُ
+    arabic: نَسۡتَنسِخُ
     translation: transcribe
     transliteration: nastansikhu
   9:
@@ -41,11 +41,11 @@ word_by_word:
     translation: what
     transliteration: mā
   10:
-    arabic: كُنۡتُمۡ
+    arabic: كُنتُمۡ
     translation: you used to
     transliteration: kuntum
   11:
-    arabic: تَعۡمَلُوۡنَ‏
+    arabic: تَعۡمَلُونَ
     translation: do
     transliteration: taʿmalūna
 ---

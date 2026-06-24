@@ -1,9 +1,9 @@
 ---
-arabic_ayat: عِنۡدَهَا جَنَّةُ الۡمَاۡوٰىؕ‏
+arabic_ayat: عِندَهَا جَنَّةُ ٱلۡمَأۡوَىٰٓ
 sentence_translation: near which is the Garden of ˹Eternal˺ Residence—
 word_by_word:
   1:
-    arabic: عِنۡدَهَا
+    arabic: عِندَهَا
     translation: Near it
     transliteration: ʿindahā
   2:
@@ -11,7 +11,7 @@ word_by_word:
     translation: (is the) Garden
     transliteration: jannatu
   3:
-    arabic: الۡمَاۡوٰىؕ‏
+    arabic: ٱلۡمَأۡوَىٰٓ
     translation: (of) Abode
     transliteration: l-mawā
 ---

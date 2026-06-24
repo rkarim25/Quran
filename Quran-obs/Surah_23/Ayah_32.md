@@ -1,19 +1,19 @@
 ---
-arabic_ayat: فَاَرۡسَلۡنَا فِيۡهِمۡ رَسُوۡلًا مِّنۡهُمۡ اَنِ اعۡبُدُوا اللّٰهَ مَا
-  لَـكُمۡ مِّنۡ اِلٰهٍ غَيۡرُهٗ​ ؕ اَفَلَا تَتَّقُوۡنَ‏
+arabic_ayat: فَأَرۡسَلۡنَا فِيهِمۡ رَسُولٗا مِّنۡهُمۡ أَنِ ٱعۡبُدُواْ ٱللَّهَ مَا
+  لَكُم مِّنۡ إِلَٰهٍ غَيۡرُهُۥٓۚ أَفَلَا تَتَّقُونَ
 sentence_translation: and sent to them a messenger from among themselves, ˹declaring,˺
   “Worship Allah ˹alone˺. You have no god other than Him. Will you not then fear ˹Him˺?”
 word_by_word:
   1:
-    arabic: فَاَرۡسَلۡنَا
+    arabic: فَأَرۡسَلۡنَا
     translation: And We sent
     transliteration: fa-arsalnā
   2:
-    arabic: فِيۡهِمۡ
+    arabic: فِيهِمۡ
     translation: among them
     transliteration: fīhim
   3:
-    arabic: رَسُوۡلًا
+    arabic: رَسُولٗا
     translation: a Messenger
     transliteration: rasūlan
   4:
@@ -21,15 +21,15 @@ word_by_word:
     translation: from themselves
     transliteration: min'hum
   5:
-    arabic: اَنِ
+    arabic: أَنِ
     translation: '[that]'
     transliteration: ani
   6:
-    arabic: اعۡبُدُوا
+    arabic: ٱعۡبُدُواْ
     translation: Worship
     transliteration: uʿ'budū
   7:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   8:
@@ -37,7 +37,7 @@ word_by_word:
     translation: not
     transliteration: mā
   9:
-    arabic: لَـكُمۡ
+    arabic: لَكُم
     translation: for you
     transliteration: lakum
   10:
@@ -45,19 +45,19 @@ word_by_word:
     translation: (is) any
     transliteration: min
   11:
-    arabic: اِلٰهٍ
+    arabic: إِلَٰهٍ
     translation: god
     transliteration: ilāhin
   12:
-    arabic: غَيۡرُهٗ​ ؕ
+    arabic: غَيۡرُهُۥٓۚ
     translation: other than Him
     transliteration: ghayruhu
   13:
-    arabic: اَفَلَا
+    arabic: أَفَلَا
     translation: Then will not
     transliteration: afalā
   14:
-    arabic: تَتَّقُوۡنَ‏
+    arabic: تَتَّقُونَ
     translation: you fear
     transliteration: tattaqūna
 ---

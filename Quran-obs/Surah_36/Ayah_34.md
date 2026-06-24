@@ -1,6 +1,6 @@
 ---
-arabic_ayat: وَجَعَلۡنَا فِيۡهَا جَنّٰتٍ مِّنۡ نَّخِيۡلٍ وَّاَعۡنَابٍ وَّفَجَّرۡنَا
-  فِيۡهَا مِنَ الۡعُيُوۡنِۙ‏
+arabic_ayat: وَجَعَلۡنَا فِيهَا جَنَّٰتٖ مِّن نَّخِيلٖ وَأَعۡنَٰبٖ وَفَجَّرۡنَا فِيهَا
+  مِنَ ٱلۡعُيُونِ
 sentence_translation: And We have placed in it gardens of palm trees and grapevines,
   and caused springs to gush forth in it,
 word_by_word:
@@ -9,31 +9,31 @@ word_by_word:
     translation: And We placed
     transliteration: wajaʿalnā
   2:
-    arabic: فِيۡهَا
+    arabic: فِيهَا
     translation: therein
     transliteration: fīhā
   3:
-    arabic: جَنّٰتٍ
+    arabic: جَنَّٰتٖ
     translation: gardens
     transliteration: jannātin
   4:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: of
     transliteration: min
   5:
-    arabic: نَّخِيۡلٍ
+    arabic: نَّخِيلٖ
     translation: date-palms
     transliteration: nakhīlin
   6:
-    arabic: وَّاَعۡنَابٍ
+    arabic: وَأَعۡنَٰبٖ
     translation: and grapevines
     transliteration: wa-aʿnābin
   7:
-    arabic: وَّفَجَّرۡنَا
+    arabic: وَفَجَّرۡنَا
     translation: and We caused to gush forth
     transliteration: wafajjarnā
   8:
-    arabic: فِيۡهَا
+    arabic: فِيهَا
     translation: in it
     transliteration: fīhā
   9:
@@ -41,7 +41,7 @@ word_by_word:
     translation: of
     transliteration: mina
   10:
-    arabic: الۡعُيُوۡنِۙ‏
+    arabic: ٱلۡعُيُونِ
     translation: the springs
     transliteration: l-ʿuyūni
 ---

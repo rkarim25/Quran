@@ -1,18 +1,18 @@
 ---
-arabic_ayat: وَّاَنَّ الۡمَسٰجِدَ لِلّٰهِ فَلَا تَدۡعُوۡا مَعَ اللّٰهِ اَحَدًا ۙ‏
+arabic_ayat: وَأَنَّ ٱلۡمَسَٰجِدَ لِلَّهِ فَلَا تَدۡعُواْ مَعَ ٱللَّهِ أَحَدٗا
 sentence_translation: The places of worship are ˹only˺ for Allah, so do not invoke
   anyone besides Him.
 word_by_word:
   1:
-    arabic: وَّاَنَّ
+    arabic: وَأَنَّ
     translation: And that
     transliteration: wa-anna
   2:
-    arabic: الۡمَسٰجِدَ
+    arabic: ٱلۡمَسَٰجِدَ
     translation: the masjids
     transliteration: l-masājida
   3:
-    arabic: لِلّٰهِ
+    arabic: لِلَّهِ
     translation: (are) for Allah
     transliteration: lillahi
   4:
@@ -20,7 +20,7 @@ word_by_word:
     translation: so (do) not
     transliteration: falā
   5:
-    arabic: تَدۡعُوۡا
+    arabic: تَدۡعُواْ
     translation: call
     transliteration: tadʿū
   6:
@@ -28,11 +28,11 @@ word_by_word:
     translation: with
     transliteration: maʿa
   7:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   8:
-    arabic: اَحَدًا ۙ‏
+    arabic: أَحَدٗا
     translation: anyone
     transliteration: aḥadan
 ---

@@ -1,15 +1,15 @@
 ---
-arabic_ayat: اَ لۡيَوۡمَ تُجۡزٰى كُلُّ نَـفۡسٍۢ بِمَا كَسَبَتۡ ؕ لَا ظُلۡمَ الۡيَوۡمَ
-  ؕ اِنَّ اللّٰهَ سَرِيۡعُ الۡحِسَابِ‏
+arabic_ayat: ٱلۡيَوۡمَ تُجۡزَىٰ كُلُّ نَفۡسِۭ بِمَا كَسَبَتۡۚ لَا ظُلۡمَ ٱلۡيَوۡمَۚ
+  إِنَّ ٱللَّهَ سَرِيعُ ٱلۡحِسَابِ
 sentence_translation: Today every soul will be rewarded for what it has done. No injustice
   Today! Surely Allah is swift in reckoning.”
 word_by_word:
   1:
-    arabic: اَ لۡيَوۡمَ
+    arabic: ٱلۡيَوۡمَ
     translation: This Day
     transliteration: al-yawma
   2:
-    arabic: تُجۡزٰى
+    arabic: تُجۡزَىٰ
     translation: will be recompensed
     transliteration: tuj'zā
   3:
@@ -17,7 +17,7 @@ word_by_word:
     translation: every
     transliteration: kullu
   4:
-    arabic: نَـفۡسٍۢ
+    arabic: نَفۡسِۭ
     translation: soul
     transliteration: nafsin
   5:
@@ -25,7 +25,7 @@ word_by_word:
     translation: for what
     transliteration: bimā
   6:
-    arabic: كَسَبَتۡ ؕ
+    arabic: كَسَبَتۡۚ
     translation: it earned
     transliteration: kasabat
   7:
@@ -37,23 +37,23 @@ word_by_word:
     translation: injustice
     transliteration: ẓul'ma
   9:
-    arabic: الۡيَوۡمَ ؕ
+    arabic: ٱلۡيَوۡمَۚ
     translation: today
     transliteration: l-yawma
   10:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   11:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   12:
-    arabic: سَرِيۡعُ
+    arabic: سَرِيعُ
     translation: (is) Swift
     transliteration: sarīʿu
   13:
-    arabic: الۡحِسَابِ‏
+    arabic: ٱلۡحِسَابِ
     translation: (in) Account
     transliteration: l-ḥisābi
 ---

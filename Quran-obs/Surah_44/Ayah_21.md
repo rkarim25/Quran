@@ -1,9 +1,9 @@
 ---
-arabic_ayat: وَاِنۡ لَّمۡ تُؤۡمِنُوۡا لِىۡ فَاعۡتَزِلُوۡنِ‏
+arabic_ayat: وَإِن لَّمۡ تُؤۡمِنُواْ لِي فَٱعۡتَزِلُونِ
 sentence_translation: ˹But˺ if you do not believe me, then let me be.”
 word_by_word:
   1:
-    arabic: وَاِنۡ
+    arabic: وَإِن
     translation: And if
     transliteration: wa-in
   2:
@@ -11,15 +11,15 @@ word_by_word:
     translation: not
     transliteration: lam
   3:
-    arabic: تُؤۡمِنُوۡا
+    arabic: تُؤۡمِنُواْ
     translation: you believe
     transliteration: tu'minū
   4:
-    arabic: لِىۡ
+    arabic: لِي
     translation: me
     transliteration: lī
   5:
-    arabic: فَاعۡتَزِلُوۡنِ‏
+    arabic: فَٱعۡتَزِلُونِ
     translation: then leave me alone
     transliteration: fa-iʿ'tazilūni
 ---

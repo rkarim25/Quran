@@ -1,5 +1,5 @@
 ---
-arabic_ayat: عَبَسَ وَتَوَلّٰٓىۙ‏
+arabic_ayat: عَبَسَ وَتَوَلَّىٰٓ
 sentence_translation: He frowned and turned ˹his attention˺ away,
 word_by_word:
   1:
@@ -7,7 +7,7 @@ word_by_word:
     translation: He frowned
     transliteration: ʿabasa
   2:
-    arabic: وَتَوَلّٰٓىۙ‏
+    arabic: وَتَوَلَّىٰٓ
     translation: and turned away
     transliteration: watawallā
 ---

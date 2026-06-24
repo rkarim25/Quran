@@ -1,19 +1,19 @@
 ---
-arabic_ayat: فَاِنۡ زَلَـلۡتُمۡ مِّنۡۢ بَعۡدِ مَا جَآءَتۡکُمُ الۡبَيِّنٰتُ فَاعۡلَمُوۡٓا
-  اَنَّ اللّٰهَ عَزِيۡزٌ حَکِيۡمٌ‏
+arabic_ayat: فَإِن زَلَلۡتُم مِّنۢ بَعۡدِ مَا جَآءَتۡكُمُ ٱلۡبَيِّنَٰتُ فَٱعۡلَمُوٓاْ
+  أَنَّ ٱللَّهَ عَزِيزٌ حَكِيمٌ
 sentence_translation: If you falter after receiving the clear proofs, then know that
   Allah is indeed Almighty, All-Wise.
 word_by_word:
   1:
-    arabic: فَاِنۡ
+    arabic: فَإِن
     translation: Then if
     transliteration: fa-in
   2:
-    arabic: زَلَـلۡتُمۡ
+    arabic: زَلَلۡتُم
     translation: you slip
     transliteration: zalaltum
   3:
-    arabic: مِّنۡۢ
+    arabic: مِّنۢ
     translation: from
     transliteration: min
   4:
@@ -25,31 +25,31 @@ word_by_word:
     translation: '[what]'
     transliteration: mā
   6:
-    arabic: جَآءَتۡکُمُ
+    arabic: جَآءَتۡكُمُ
     translation: came to you
     transliteration: jāatkumu
   7:
-    arabic: الۡبَيِّنٰتُ
+    arabic: ٱلۡبَيِّنَٰتُ
     translation: (from) the clear proofs
     transliteration: l-bayinātu
   8:
-    arabic: فَاعۡلَمُوۡٓا
+    arabic: فَٱعۡلَمُوٓاْ
     translation: then know
     transliteration: fa-iʿ'lamū
   9:
-    arabic: اَنَّ
+    arabic: أَنَّ
     translation: that
     transliteration: anna
   10:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   11:
-    arabic: عَزِيۡزٌ
+    arabic: عَزِيزٌ
     translation: (is) All-Mighty
     transliteration: ʿazīzun
   12:
-    arabic: حَکِيۡمٌ‏
+    arabic: حَكِيمٌ
     translation: All-Wise
     transliteration: ḥakīmun
 ---

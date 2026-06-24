@@ -1,23 +1,23 @@
 ---
-arabic_ayat: تِلۡكَ اٰيٰتُ اللّٰهِ نَـتۡلُوۡهَا عَلَيۡكَ بِالۡحَـقِّ​ؕ وَاِنَّكَ لَمِنَ
-  الۡمُرۡسَلِيۡنَ‏
+arabic_ayat: تِلۡكَ ءَايَٰتُ ٱللَّهِ نَتۡلُوهَا عَلَيۡكَ بِٱلۡحَقِّۚ وَإِنَّكَ لَمِنَ
+  ٱلۡمُرۡسَلِينَ
 sentence_translation: These are Allah’s revelations which We recite to you ˹O Prophet˺
   in truth. And you are truly one of the messengers.
 word_by_word:
   1:
-    arabic: تِلۡكَ
+    arabic: تِلۡكَ ءَ
     translation: These
     transliteration: til'ka
   2:
-    arabic: اٰيٰتُ
+    arabic: ايَٰتُ
     translation: (are the) Verses
     transliteration: āyātu
   3:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (of) Allah
     transliteration: l-lahi
   4:
-    arabic: نَـتۡلُوۡهَا
+    arabic: نَتۡلُوهَا
     translation: We recite them
     transliteration: natlūhā
   5:
@@ -25,11 +25,11 @@ word_by_word:
     translation: to you
     transliteration: ʿalayka
   6:
-    arabic: بِالۡحَـقِّ​ؕ
+    arabic: بِٱلۡحَقِّۚ
     translation: in [the] truth
     transliteration: bil-ḥaqi
   7:
-    arabic: وَاِنَّكَ
+    arabic: وَإِنَّكَ
     translation: And indeed, you
     transliteration: wa-innaka
   8:
@@ -37,7 +37,7 @@ word_by_word:
     translation: (are) surely of
     transliteration: lamina
   9:
-    arabic: الۡمُرۡسَلِيۡنَ‏
+    arabic: ٱلۡمُرۡسَلِينَ
     translation: the Messengers
     transliteration: l-mur'salīna
 ---

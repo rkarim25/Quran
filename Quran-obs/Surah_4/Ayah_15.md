@@ -1,33 +1,33 @@
 ---
-arabic_ayat: وَالّٰتِىۡ يَاۡتِيۡنَ الۡفَاحِشَةَ مِنۡ نِّسَآٮِٕكُمۡ فَاسۡتَشۡهِدُوۡا
-  عَلَيۡهِنَّ اَرۡبَعَةً مِّنۡكُمۡ​ ۚ فَاِنۡ شَهِدُوۡا فَاَمۡسِكُوۡهُنَّ فِى الۡبُيُوۡتِ
-  حَتّٰى يَتَوَفّٰٮهُنَّ الۡمَوۡتُ اَوۡ يَجۡعَلَ اللّٰهُ لَهُنَّ سَبِيۡلًا‏
+arabic_ayat: وَٱلَّٰتِي يَأۡتِينَ ٱلۡفَٰحِشَةَ مِن نِّسَآئِكُمۡ فَٱسۡتَشۡهِدُواْ
+  عَلَيۡهِنَّ أَرۡبَعَةٗ مِّنكُمۡۖ فَإِن شَهِدُواْ فَأَمۡسِكُوهُنَّ فِي ٱلۡبُيُوتِ
+  حَتَّىٰ يَتَوَفَّىٰهُنَّ ٱلۡمَوۡتُ أَوۡ يَجۡعَلَ ٱللَّهُ لَهُنَّ سَبِيلٗا
 sentence_translation: ˹As for˺ those of your women who commit illegal intercourse—call
   four witnesses from among yourselves. If they testify, confine the offenders to
   their homes until they die or Allah ordains a ˹different˺ way for them.
 word_by_word:
   1:
-    arabic: وَالّٰتِىۡ
+    arabic: وَٱلَّٰتِي
     translation: And those who
     transliteration: wa-allātī
   2:
-    arabic: يَاۡتِيۡنَ
+    arabic: يَأۡتِينَ
     translation: commit
     transliteration: yatīna
   3:
-    arabic: الۡفَاحِشَةَ
+    arabic: ٱلۡفَٰحِشَةَ
     translation: '[the] immorality'
     transliteration: l-fāḥishata
   4:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   5:
-    arabic: نِّسَآٮِٕكُمۡ
+    arabic: نِّسَآئِكُمۡ
     translation: your women
     transliteration: nisāikum
   6:
-    arabic: فَاسۡتَشۡهِدُوۡا
+    arabic: فَٱسۡتَشۡهِدُواْ
     translation: then call to witness
     transliteration: fa-is'tashhidū
   7:
@@ -35,47 +35,47 @@ word_by_word:
     translation: against them
     transliteration: ʿalayhinna
   8:
-    arabic: اَرۡبَعَةً
+    arabic: أَرۡبَعَةٗ
     translation: four
     transliteration: arbaʿatan
   9:
-    arabic: مِّنۡكُمۡ​ ۚ
+    arabic: مِّنكُمۡۖ
     translation: among you
     transliteration: minkum
   10:
-    arabic: فَاِنۡ
+    arabic: فَإِن
     translation: And if
     transliteration: fa-in
   11:
-    arabic: شَهِدُوۡا
+    arabic: شَهِدُواْ
     translation: they testify
     transliteration: shahidū
   12:
-    arabic: فَاَمۡسِكُوۡهُنَّ
+    arabic: فَأَمۡسِكُوهُنَّ
     translation: then confine them
     transliteration: fa-amsikūhunna
   13:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   14:
-    arabic: الۡبُيُوۡتِ
+    arabic: ٱلۡبُيُوتِ
     translation: their houses
     transliteration: l-buyūti
   15:
-    arabic: حَتّٰى
+    arabic: حَتَّىٰ
     translation: until
     transliteration: ḥattā
   16:
-    arabic: يَتَوَفّٰٮهُنَّ
+    arabic: يَتَوَفَّىٰهُنَّ
     translation: comes to them
     transliteration: yatawaffāhunna
   17:
-    arabic: الۡمَوۡتُ
+    arabic: ٱلۡمَوۡتُ
     translation: '[the] death'
     transliteration: l-mawtu
   18:
-    arabic: اَوۡ
+    arabic: أَوۡ
     translation: or
     transliteration: aw
   19:
@@ -83,7 +83,7 @@ word_by_word:
     translation: makes
     transliteration: yajʿala
   20:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   21:
@@ -91,7 +91,7 @@ word_by_word:
     translation: for them
     transliteration: lahunna
   22:
-    arabic: سَبِيۡلًا‏
+    arabic: سَبِيلٗا
     translation: a way
     transliteration: sabīlan
 ---

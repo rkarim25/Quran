@@ -1,6 +1,6 @@
 ---
-arabic_ayat: وَمَا خَلَقۡنَا السَّمٰوٰتِ وَالۡاَرۡضَ وَمَا بَيۡنَهُمَاۤ اِلَّا بِالۡحَـقِّ​
-  ؕ وَاِنَّ السَّاعَةَ لَاٰتِيَةٌ​ فَاصۡفَحِ الصَّفۡحَ الۡجَمِيۡلَ‏
+arabic_ayat: وَمَا خَلَقۡنَا ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضَ وَمَا بَيۡنَهُمَآ إِلَّا بِٱلۡحَقِّۗ
+  وَإِنَّ ٱلسَّاعَةَ لَأٓتِيَةٞۖ فَٱصۡفَحِ ٱلصَّفۡحَ ٱلۡجَمِيلَ
 sentence_translation: We have not created the heavens and the earth and everything
   in between except for a purpose. And the Hour is certain to come, so forgive graciously.
 word_by_word:
@@ -13,11 +13,11 @@ word_by_word:
     translation: We created
     transliteration: khalaqnā
   3:
-    arabic: السَّمٰوٰتِ
+    arabic: ٱلسَّمَٰوَٰتِ
     translation: the heavens
     transliteration: l-samāwāti
   4:
-    arabic: وَالۡاَرۡضَ
+    arabic: وَٱلۡأَرۡضَ
     translation: and the earth
     transliteration: wal-arḍa
   5:
@@ -25,39 +25,39 @@ word_by_word:
     translation: and whatever
     transliteration: wamā
   6:
-    arabic: بَيۡنَهُمَاۤ
+    arabic: بَيۡنَهُمَآ
     translation: (is) between them
     transliteration: baynahumā
   7:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   8:
-    arabic: بِالۡحَـقِّ​ ؕ
+    arabic: بِٱلۡحَقِّۗ
     translation: in truth
     transliteration: bil-ḥaqi
   9:
-    arabic: وَاِنَّ
+    arabic: وَإِنَّ
     translation: And indeed
     transliteration: wa-inna
   10:
-    arabic: السَّاعَةَ
+    arabic: ٱلسَّاعَةَ
     translation: the Hour
     transliteration: l-sāʿata
   11:
-    arabic: لَاٰتِيَةٌ​
+    arabic: لَأٓتِيَةٞۖ
     translation: (is) surely coming
     transliteration: laātiyatun
   12:
-    arabic: فَاصۡفَحِ
+    arabic: فَٱصۡفَحِ
     translation: So overlook
     transliteration: fa-iṣ'faḥi
   13:
-    arabic: الصَّفۡحَ
+    arabic: ٱلصَّفۡحَ
     translation: (with) forgiveness
     transliteration: l-ṣafḥa
   14:
-    arabic: الۡجَمِيۡلَ‏
+    arabic: ٱلۡجَمِيلَ
     translation: gracious
     transliteration: l-jamīla
 ---

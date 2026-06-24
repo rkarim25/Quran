@@ -1,34 +1,34 @@
 ---
-arabic_ayat: اَلَّذِيۡنَ يُنۡفِقُوۡنَ اَمۡوَالَهُمۡ فِىۡ سَبِيۡلِ اللّٰهِ ثُمَّ لَا
-  يُتۡبِعُوۡنَ مَاۤ اَنۡفَقُوۡا مَنًّا وَّلَاۤ اَذًى​ۙ لَّهُمۡ اَجۡرُهُمۡ عِنۡدَ رَبِّهِمۡ​ۚ
-  وَلَا خَوۡفٌ عَلَيۡهِمۡ وَلَا هُمۡ يَحۡزَنُوۡنَ‏
+arabic_ayat: ٱلَّذِينَ يُنفِقُونَ أَمۡوَٰلَهُمۡ فِي سَبِيلِ ٱللَّهِ ثُمَّ لَا يُتۡبِعُونَ
+  مَآ أَنفَقُواْ مَنّٗا وَلَآ أَذٗى لَّهُمۡ أَجۡرُهُمۡ عِندَ رَبِّهِمۡ وَلَا خَوۡفٌ
+  عَلَيۡهِمۡ وَلَا هُمۡ يَحۡزَنُونَ
 sentence_translation: Those who spend their wealth in the cause of Allah and do not
   follow their charity with reminders of their generosity or hurtful words—they will
   get their reward from their Lord, and there will be no fear for them, nor will they
   grieve.
 word_by_word:
   1:
-    arabic: اَلَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: Those who
     transliteration: alladhīna
   2:
-    arabic: يُنۡفِقُوۡنَ
+    arabic: يُنفِقُونَ
     translation: spend
     transliteration: yunfiqūna
   3:
-    arabic: اَمۡوَالَهُمۡ
+    arabic: أَمۡوَٰلَهُمۡ
     translation: their wealth
     transliteration: amwālahum
   4:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   5:
-    arabic: سَبِيۡلِ
+    arabic: سَبِيلِ
     translation: (the) way
     transliteration: sabīli
   6:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (of) Allah
     transliteration: l-lahi
   7:
@@ -40,27 +40,27 @@ word_by_word:
     translation: not
     transliteration: lā
   9:
-    arabic: يُتۡبِعُوۡنَ
+    arabic: يُتۡبِعُونَ
     translation: they follow
     transliteration: yut'biʿūna
   10:
-    arabic: مَاۤ
+    arabic: مَآ
     translation: what
     transliteration: mā
   11:
-    arabic: اَنۡفَقُوۡا
+    arabic: أَنفَقُواْ
     translation: they spend
     transliteration: anfaqū
   12:
-    arabic: مَنًّا
+    arabic: مَنّٗا
     translation: (with) reminders of generosity
     transliteration: mannan
   13:
-    arabic: وَّلَاۤ
+    arabic: وَلَآ
     translation: and not
     transliteration: walā
   14:
-    arabic: اَذًى​ۙ
+    arabic: أَذٗى
     translation: 'hurt '
     transliteration: adhan
   15:
@@ -68,15 +68,15 @@ word_by_word:
     translation: for them
     transliteration: lahum
   16:
-    arabic: اَجۡرُهُمۡ
+    arabic: أَجۡرُهُمۡ
     translation: their reward
     transliteration: ajruhum
   17:
-    arabic: عِنۡدَ
+    arabic: عِندَ
     translation: (is) with
     transliteration: ʿinda
   18:
-    arabic: رَبِّهِمۡ​ۚ
+    arabic: رَبِّهِمۡ
     translation: their Lord
     transliteration: rabbihim
   19:
@@ -100,7 +100,7 @@ word_by_word:
     translation: they
     transliteration: hum
   24:
-    arabic: يَحۡزَنُوۡنَ‏
+    arabic: يَحۡزَنُونَ
     translation: will grieve
     transliteration: yaḥzanūna
 ---

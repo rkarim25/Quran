@@ -1,49 +1,49 @@
 ---
-arabic_ayat: قَالَ الۡمَلَاُ الَّذِيۡنَ اسۡتَكۡبَرُوۡا مِنۡ قَوۡمِهٖ لَـنُخۡرِجَنَّكَ
-  يٰشُعَيۡبُ وَالَّذِيۡنَ اٰمَنُوۡا مَعَكَ مِنۡ قَرۡيَتِنَاۤ اَوۡ لَـتَعُوۡدُنَّ فِىۡ
-  مِلَّتِنَا​ ؕ قَالَ اَوَلَوۡ كُنَّا كَارِهِيۡنَ ۚ‏
+arabic_ayat: ۞ قَالَ ٱلۡمَلَأُ ٱلَّذِينَ ٱسۡتَكۡبَرُواْ مِن قَوۡمِهِۦ لَنُخۡرِجَنَّكَ
+  يَٰشُعَيۡبُ وَٱلَّذِينَ ءَامَنُواْ مَعَكَ مِن قَرۡيَتِنَآ أَوۡ لَتَعُودُنَّ فِي
+  مِلَّتِنَاۚ قَالَ أَوَلَوۡ كُنَّا كَٰرِهِينَ
 sentence_translation: The arrogant chiefs of his people threatened, “O Shu’aib! We
   will certainly expel you and your fellow believers from our land, unless you return
   to our faith.” He replied, “Even if we hate it?
 word_by_word:
   1:
-    arabic: ۞ قَالَ
+    arabic: ۞ قَالَ
     translation: Said
     transliteration: qāla
   2:
-    arabic: الۡمَلَاُ
+    arabic: ٱلۡمَلَأُ
     translation: the chiefs
     transliteration: l-mala-u
   3:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: (of) those who
     transliteration: alladhīna
   4:
-    arabic: اسۡتَكۡبَرُوۡا
+    arabic: ٱسۡتَكۡبَرُواْ
     translation: were arrogant
     transliteration: is'takbarū
   5:
-    arabic: مِنۡ
+    arabic: مِن
     translation: among
     transliteration: min
   6:
-    arabic: قَوۡمِهٖ
+    arabic: قَوۡمِهِۦ
     translation: his people
     transliteration: qawmihi
   7:
-    arabic: لَـنُخۡرِجَنَّكَ
+    arabic: لَنُخۡرِجَنَّكَ
     translation: We will surely drive you out
     transliteration: lanukh'rijannaka
   8:
-    arabic: يٰشُعَيۡبُ
+    arabic: يَٰشُعَيۡبُ
     translation: O Shuaib
     transliteration: yāshuʿaybu
   9:
-    arabic: وَالَّذِيۡنَ
+    arabic: وَٱلَّذِينَ ءَ
     translation: And those who
     transliteration: wa-alladhīna
   10:
-    arabic: اٰمَنُوۡا
+    arabic: امَنُواْ
     translation: (have) believed
     transliteration: āmanū
   11:
@@ -51,27 +51,27 @@ word_by_word:
     translation: with you
     transliteration: maʿaka
   12:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   13:
-    arabic: قَرۡيَتِنَاۤ
+    arabic: قَرۡيَتِنَآ
     translation: our city
     transliteration: qaryatinā
   14:
-    arabic: اَوۡ
+    arabic: أَوۡ
     translation: or
     transliteration: aw
   15:
-    arabic: لَـتَعُوۡدُنَّ
+    arabic: لَتَعُودُنَّ
     translation: you must return
     transliteration: lataʿūdunna
   16:
-    arabic: فِىۡ
+    arabic: فِي
     translation: to
     transliteration: fī
   17:
-    arabic: مِلَّتِنَا​ ؕ
+    arabic: مِلَّتِنَاۚ
     translation: our religion
     transliteration: millatinā
   18:
@@ -79,7 +79,7 @@ word_by_word:
     translation: He said
     transliteration: qāla
   19:
-    arabic: اَوَلَوۡ
+    arabic: أَوَلَوۡ
     translation: Even if
     transliteration: awalaw
   20:
@@ -87,7 +87,7 @@ word_by_word:
     translation: we are
     transliteration: kunnā
   21:
-    arabic: كَارِهِيۡنَ ۚ‏
+    arabic: كَٰرِهِينَ
     translation: (the) ones who hate (it)
     transliteration: kārihīna
 ---

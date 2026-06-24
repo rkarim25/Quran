@@ -1,15 +1,15 @@
 ---
-arabic_ayat: وَاِنۡ تُكَذِّبُوۡا فَقَدۡ كَذَّبَ اُمَمٌ مِّنۡ قَبۡلِكُمۡ​ؕ وَمَا عَلَى
-  الرَّسُوۡلِ اِلَّا الۡبَلٰغُ الۡمُبِيۡنُ‏
+arabic_ayat: وَإِن تُكَذِّبُواْ فَقَدۡ كَذَّبَ أُمَمٞ مِّن قَبۡلِكُمۡۖ وَمَا عَلَى
+  ٱلرَّسُولِ إِلَّا ٱلۡبَلَٰغُ ٱلۡمُبِينُ
 sentence_translation: If you ˹Meccans˺ persist in denial, so did ˹many˺ communities
   before you. The Messenger’s duty is only to deliver ˹the message˺ clearly.”
 word_by_word:
   1:
-    arabic: وَاِنۡ
+    arabic: وَإِن
     translation: And if
     transliteration: wa-in
   2:
-    arabic: تُكَذِّبُوۡا
+    arabic: تُكَذِّبُواْ
     translation: you deny
     transliteration: tukadhibū
   3:
@@ -21,15 +21,15 @@ word_by_word:
     translation: denied
     transliteration: kadhaba
   5:
-    arabic: اُمَمٌ
+    arabic: أُمَمٞ
     translation: (the) nations
     transliteration: umamun
   6:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: before you
     transliteration: min
   7:
-    arabic: قَبۡلِكُمۡ​ؕ
+    arabic: قَبۡلِكُمۡۖ
     translation: before you
     transliteration: qablikum
   8:
@@ -41,19 +41,19 @@ word_by_word:
     translation: (is) on
     transliteration: ʿalā
   10:
-    arabic: الرَّسُوۡلِ
+    arabic: ٱلرَّسُولِ
     translation: the Messenger
     transliteration: l-rasūli
   11:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   12:
-    arabic: الۡبَلٰغُ
+    arabic: ٱلۡبَلَٰغُ
     translation: the conveyance
     transliteration: l-balāghu
   13:
-    arabic: الۡمُبِيۡنُ‏
+    arabic: ٱلۡمُبِينُ
     translation: clear
     transliteration: l-mubīnu
 ---

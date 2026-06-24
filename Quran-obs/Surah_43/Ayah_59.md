@@ -1,11 +1,11 @@
 ---
-arabic_ayat: اِنۡ هُوَ اِلَّا عَبۡدٌ اَنۡعَمۡنَا عَلَيۡهِ وَجَعَلۡنٰهُ مَثَلًا لِّبَنِىۡۤ
-  اِسۡرَآءِيۡلَؕ‏
+arabic_ayat: إِنۡ هُوَ إِلَّا عَبۡدٌ أَنۡعَمۡنَا عَلَيۡهِ وَجَعَلۡنَٰهُ مَثَلٗا لِّبَنِيٓ
+  إِسۡرَٰٓءِيلَ
 sentence_translation: He was only a servant We showed favour to, and made as an example
   for the Children of Israel.
 word_by_word:
   1:
-    arabic: اِنۡ
+    arabic: إِنۡ
     translation: Not
     transliteration: in
   2:
@@ -13,7 +13,7 @@ word_by_word:
     translation: he
     transliteration: huwa
   3:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: (was) except
     transliteration: illā
   4:
@@ -21,7 +21,7 @@ word_by_word:
     translation: a slave
     transliteration: ʿabdun
   5:
-    arabic: اَنۡعَمۡنَا
+    arabic: أَنۡعَمۡنَا
     translation: We bestowed Our favor
     transliteration: anʿamnā
   6:
@@ -29,19 +29,19 @@ word_by_word:
     translation: on him
     transliteration: ʿalayhi
   7:
-    arabic: وَجَعَلۡنٰهُ
+    arabic: وَجَعَلۡنَٰهُ
     translation: and We made him
     transliteration: wajaʿalnāhu
   8:
-    arabic: مَثَلًا
+    arabic: مَثَلٗا
     translation: an example
     transliteration: mathalan
   9:
-    arabic: لِّبَنِىۡۤ
+    arabic: لِّبَنِيٓ
     translation: for (the) Children of Israel
     transliteration: libanī
   10:
-    arabic: اِسۡرَآءِيۡلَؕ‏
+    arabic: إِسۡرَٰٓءِيلَ
     translation: for (the) Children of Israel
     transliteration: is'rāīla
 ---

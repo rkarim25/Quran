@@ -1,24 +1,24 @@
 ---
-arabic_ayat: اُولٰۤٮِٕكَ الَّذِيۡنَ كَفَرُوۡا بِاٰيٰتِ رَبِّهِمۡ وَلِقَآٮِٕهٖ فَحَبِطَتۡ
-  اَعۡمَالُهُمۡ فَلَا نُقِيۡمُ لَهُمۡ يَوۡمَ الۡقِيٰمَةِ وَزۡنًـا‏
+arabic_ayat: أُوْلَٰٓئِكَ ٱلَّذِينَ كَفَرُواْ بِـَٔايَٰتِ رَبِّهِمۡ وَلِقَآئِهِۦ
+  فَحَبِطَتۡ أَعۡمَٰلُهُمۡ فَلَا نُقِيمُ لَهُمۡ يَوۡمَ ٱلۡقِيَٰمَةِ وَزۡنٗا
 sentence_translation: It is they who reject the signs of their Lord and their meeting
   with Him, rendering their deeds void, so We will not give their deeds any weight
   on Judgment Day.
 word_by_word:
   1:
-    arabic: اُولٰۤٮِٕكَ
+    arabic: أُوْلَٰٓئِكَ
     translation: Those
     transliteration: ulāika
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: (are) the ones who
     transliteration: alladhīna
   3:
-    arabic: كَفَرُوۡا
+    arabic: كَفَرُواْ
     translation: disbelieve
     transliteration: kafarū
   4:
-    arabic: بِاٰيٰتِ
+    arabic: بِـَٔايَٰتِ
     translation: in the Verses
     transliteration: biāyāti
   5:
@@ -26,7 +26,7 @@ word_by_word:
     translation: (of) their Lord
     transliteration: rabbihim
   6:
-    arabic: وَلِقَآٮِٕهٖ
+    arabic: وَلِقَآئِهِۦ
     translation: and the meeting (with) Him
     transliteration: waliqāihi
   7:
@@ -34,7 +34,7 @@ word_by_word:
     translation: So (are) vain
     transliteration: faḥabiṭat
   8:
-    arabic: اَعۡمَالُهُمۡ
+    arabic: أَعۡمَٰلُهُمۡ
     translation: their deeds
     transliteration: aʿmāluhum
   9:
@@ -42,7 +42,7 @@ word_by_word:
     translation: so not
     transliteration: falā
   10:
-    arabic: نُقِيۡمُ
+    arabic: نُقِيمُ
     translation: We will assign
     transliteration: nuqīmu
   11:
@@ -54,11 +54,11 @@ word_by_word:
     translation: (on) the Day
     transliteration: yawma
   13:
-    arabic: الۡقِيٰمَةِ
+    arabic: ٱلۡقِيَٰمَةِ
     translation: (of) the Resurrection
     transliteration: l-qiyāmati
   14:
-    arabic: وَزۡنًـا‏
+    arabic: وَزۡنٗا
     translation: any weight
     transliteration: waznan
 ---

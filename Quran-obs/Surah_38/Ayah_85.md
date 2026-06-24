@@ -1,11 +1,10 @@
 ---
-arabic_ayat: "لَاَمۡلَئَنَّ جَهَنَّمَ مِنۡكَ وَمِمَّنۡ تَبِعَكَ مِنۡهُمۡ اَجۡمَعِيۡنَ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: لَأَمۡلَأَنَّ جَهَنَّمَ مِنكَ وَمِمَّن تَبِعَكَ مِنۡهُمۡ أَجۡمَعِينَ
 sentence_translation: I will surely fill up Hell with you and whoever follows you
   from among them, all together.”
 word_by_word:
   1:
-    arabic: لَاَمۡلَئَنَّ
+    arabic: لَأَمۡلَأَنَّ
     translation: Surely I will fill
     transliteration: la-amla-anna
   2:
@@ -13,11 +12,11 @@ word_by_word:
     translation: Hell
     transliteration: jahannama
   3:
-    arabic: مِنۡكَ
+    arabic: مِنكَ
     translation: with you
     transliteration: minka
   4:
-    arabic: وَمِمَّنۡ
+    arabic: وَمِمَّن
     translation: and those who
     transliteration: wamimman
   5:
@@ -29,7 +28,7 @@ word_by_word:
     translation: among them
     transliteration: min'hum
   7:
-    arabic: "اَجۡمَعِيۡنَ‏ \uFEFF\uFEFF"
+    arabic: أَجۡمَعِينَ
     translation: all
     transliteration: ajmaʿīna
 ---

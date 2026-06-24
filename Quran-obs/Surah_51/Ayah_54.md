@@ -1,5 +1,5 @@
 ---
-arabic_ayat: فَتَوَلَّ عَنۡهُمۡ فَمَاۤ اَنۡتَ بِمَلُوۡمٍ‏
+arabic_ayat: فَتَوَلَّ عَنۡهُمۡ فَمَآ أَنتَ بِمَلُومٖ
 sentence_translation: So ˹now˺ turn away from them ˹O Prophet˺, for you will not be
   blamed.
 word_by_word:
@@ -12,15 +12,15 @@ word_by_word:
     translation: from them
     transliteration: ʿanhum
   3:
-    arabic: فَمَاۤ
+    arabic: فَمَآ
     translation: for not
     transliteration: famā
   4:
-    arabic: اَنۡتَ
+    arabic: أَنتَ
     translation: you
     transliteration: anta
   5:
-    arabic: بِمَلُوۡمٍ‏
+    arabic: بِمَلُومٖ
     translation: (are) to be blamed
     transliteration: bimalūmin
 ---

@@ -1,22 +1,22 @@
 ---
-arabic_ayat: اِذَا تُتۡلٰى عَلَيۡهِ اٰيٰتُنَا قَالَ اَسَاطِيۡرُ الۡاَوَّلِيۡنَ‏
+arabic_ayat: إِذَا تُتۡلَىٰ عَلَيۡهِ ءَايَٰتُنَا قَالَ أَسَٰطِيرُ ٱلۡأَوَّلِينَ
 sentence_translation: whenever Our revelations are recited to him, he says, “Ancient
   fables!”
 word_by_word:
   1:
-    arabic: اِذَا
+    arabic: إِذَا
     translation: When
     transliteration: idhā
   2:
-    arabic: تُتۡلٰى
+    arabic: تُتۡلَىٰ
     translation: are recited
     transliteration: tut'lā
   3:
-    arabic: عَلَيۡهِ
+    arabic: عَلَيۡهِ ءَ
     translation: to him
     transliteration: ʿalayhi
   4:
-    arabic: اٰيٰتُنَا
+    arabic: ايَٰتُنَا
     translation: Our Verses
     transliteration: āyātunā
   5:
@@ -24,11 +24,11 @@ word_by_word:
     translation: he says
     transliteration: qāla
   6:
-    arabic: اَسَاطِيۡرُ
+    arabic: أَسَٰطِيرُ
     translation: Stories
     transliteration: asāṭīru
   7:
-    arabic: الۡاَوَّلِيۡنَ‏
+    arabic: ٱلۡأَوَّلِينَ
     translation: (of) the former (people)
     transliteration: l-awalīna
 ---

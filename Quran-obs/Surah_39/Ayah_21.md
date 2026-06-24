@@ -1,15 +1,15 @@
 ---
-arabic_ayat: اَلَمۡ تَرَ اَنَّ اللّٰهَ اَنۡزَلَ مِنَ السَّمَآءِ مَآءً فَسَلَـكَهٗ
-  يَنَابِيۡعَ فِى الۡاَرۡضِ ثُمَّ يُخۡرِجُ بِهٖ زَرۡعًا مُّخۡتَلِفًا اَ لۡوَانُهٗ
-  ثُمَّ يَهِيۡجُ فَتَـرٰٮهُ مُصۡفَرًّا ثُمَّ يَجۡعَلُهٗ حُطَامًا​ ؕ اِنَّ فِىۡ ذٰ
-  لِكَ لَذِكۡرٰى لِاُولِى الۡاَلۡبَابِ‏
+arabic_ayat: أَلَمۡ تَرَ أَنَّ ٱللَّهَ أَنزَلَ مِنَ ٱلسَّمَآءِ مَآءٗ فَسَلَكَهُۥ
+  يَنَٰبِيعَ فِي ٱلۡأَرۡضِ ثُمَّ يُخۡرِجُ بِهِۦ زَرۡعٗا مُّخۡتَلِفًا أَلۡوَٰنُهُۥ
+  ثُمَّ يَهِيجُ فَتَرَىٰهُ مُصۡفَرّٗا ثُمَّ يَجۡعَلُهُۥ حُطَٰمًاۚ إِنَّ فِي ذَٰلِكَ
+  لَذِكۡرَىٰ لِأُوْلِي ٱلۡأَلۡبَٰبِ
 sentence_translation: Do you not see that Allah sends down rain from the sky—channelling
   it through streams in the earth—then produces with it crops of various colours,
   then they dry up and you see them wither, and then He reduces them to chaff? Surely
   in this is a reminder for people of reason.
 word_by_word:
   1:
-    arabic: اَلَمۡ
+    arabic: أَلَمۡ
     translation: Do not
     transliteration: alam
   2:
@@ -17,15 +17,15 @@ word_by_word:
     translation: you see
     transliteration: tara
   3:
-    arabic: اَنَّ
+    arabic: أَنَّ
     translation: that
     transliteration: anna
   4:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   5:
-    arabic: اَنۡزَلَ
+    arabic: أَنزَلَ
     translation: sends down
     transliteration: anzala
   6:
@@ -33,27 +33,27 @@ word_by_word:
     translation: from
     transliteration: mina
   7:
-    arabic: السَّمَآءِ
+    arabic: ٱلسَّمَآءِ
     translation: the sky
     transliteration: l-samāi
   8:
-    arabic: مَآءً
+    arabic: مَآءٗ
     translation: water
     transliteration: māan
   9:
-    arabic: فَسَلَـكَهٗ
+    arabic: فَسَلَكَهُۥ
     translation: and He makes it flow
     transliteration: fasalakahu
   10:
-    arabic: يَنَابِيۡعَ
+    arabic: يَنَٰبِيعَ
     translation: (as) springs
     transliteration: yanābīʿa
   11:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   12:
-    arabic: الۡاَرۡضِ
+    arabic: ٱلۡأَرۡضِ
     translation: the earth
     transliteration: l-arḍi
   13:
@@ -65,11 +65,11 @@ word_by_word:
     translation: He produces
     transliteration: yukh'riju
   15:
-    arabic: بِهٖ
+    arabic: بِهِۦ
     translation: with it
     transliteration: bihi
   16:
-    arabic: زَرۡعًا
+    arabic: زَرۡعٗا
     translation: crops
     transliteration: zarʿan
   17:
@@ -77,7 +77,7 @@ word_by_word:
     translation: (of) different
     transliteration: mukh'talifan
   18:
-    arabic: اَ لۡوَانُهٗ
+    arabic: أَلۡوَٰنُهُۥ
     translation: colors
     transliteration: alwānuhu
   19:
@@ -85,15 +85,15 @@ word_by_word:
     translation: then
     transliteration: thumma
   20:
-    arabic: يَهِيۡجُ
+    arabic: يَهِيجُ
     translation: they wither
     transliteration: yahīju
   21:
-    arabic: فَتَـرٰٮهُ
+    arabic: فَتَرَىٰهُ
     translation: and you see it
     transliteration: fatarāhu
   22:
-    arabic: مُصۡفَرًّا
+    arabic: مُصۡفَرّٗا
     translation: turn yellow
     transliteration: muṣ'farran
   23:
@@ -101,35 +101,35 @@ word_by_word:
     translation: then
     transliteration: thumma
   24:
-    arabic: يَجۡعَلُهٗ
+    arabic: يَجۡعَلُهُۥ
     translation: He makes them
     transliteration: yajʿaluhu
   25:
-    arabic: حُطَامًا​ ؕ
+    arabic: حُطَٰمًاۚ
     translation: debris
     transliteration: ḥuṭāman
   26:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   27:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   28:
-    arabic: ذٰ لِكَ
+    arabic: ذَٰلِكَ
     translation: that
     transliteration: dhālika
   29:
-    arabic: لَذِكۡرٰى
+    arabic: لَذِكۡرَىٰ
     translation: surely, (is) a reminder
     transliteration: ladhik'rā
   30:
-    arabic: لِاُولِى
+    arabic: لِأُوْلِي
     translation: for those of understanding
     transliteration: li-ulī
   31:
-    arabic: الۡاَلۡبَابِ‏
+    arabic: ٱلۡأَلۡبَٰبِ
     translation: for those of understanding
     transliteration: l-albābi
 ---

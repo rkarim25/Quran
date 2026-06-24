@@ -1,5 +1,5 @@
 ---
-arabic_ayat: فَكَانَتۡ هَبَآءً مُّنۡۢبَـثًّا ۙ‏
+arabic_ayat: فَكَانَتۡ هَبَآءٗ مُّنۢبَثّٗا
 sentence_translation: becoming scattered ˹particles of˺ dust,
 word_by_word:
   1:
@@ -7,11 +7,11 @@ word_by_word:
     translation: So they become
     transliteration: fakānat
   2:
-    arabic: هَبَآءً
+    arabic: هَبَآءٗ
     translation: dust particles
     transliteration: habāan
   3:
-    arabic: مُّنۡۢبَـثًّا ۙ‏
+    arabic: مُّنۢبَثّٗا
     translation: dispersing
     transliteration: munbathan
 ---

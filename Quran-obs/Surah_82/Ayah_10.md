@@ -1,9 +1,9 @@
 ---
-arabic_ayat: وَاِنَّ عَلَيۡكُمۡ لَحٰـفِظِيۡنَۙ‏
+arabic_ayat: وَإِنَّ عَلَيۡكُمۡ لَحَٰفِظِينَ
 sentence_translation: while you are certainly observed by vigilant,
 word_by_word:
   1:
-    arabic: وَاِنَّ
+    arabic: وَإِنَّ
     translation: And indeed
     transliteration: wa-inna
   2:
@@ -11,7 +11,7 @@ word_by_word:
     translation: over you
     transliteration: ʿalaykum
   3:
-    arabic: لَحٰـفِظِيۡنَۙ‏
+    arabic: لَحَٰفِظِينَ
     translation: (are) surely guardians
     transliteration: laḥāfiẓīna
 ---

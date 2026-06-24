@@ -1,11 +1,10 @@
 ---
-arabic_ayat: "وَاِنۡ كَانَ قَمِيۡصُهٗ قُدَّ مِنۡ دُبُرٍ فَكَذَبَتۡ وَهُوَ مِنَ الصّٰدِقِيۡنَ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: وَإِن كَانَ قَمِيصُهُۥ قُدَّ مِن دُبُرٖ فَكَذَبَتۡ وَهُوَ مِنَ ٱلصَّٰدِقِينَ
 sentence_translation: But if it is torn from the back, then she has lied and he is
   truthful.”
 word_by_word:
   1:
-    arabic: وَاِنۡ
+    arabic: وَإِن
     translation: But if
     transliteration: wa-in
   2:
@@ -13,7 +12,7 @@ word_by_word:
     translation: '[is]'
     transliteration: kāna
   3:
-    arabic: قَمِيۡصُهٗ
+    arabic: قَمِيصُهُۥ
     translation: his shirt
     transliteration: qamīṣuhu
   4:
@@ -21,11 +20,11 @@ word_by_word:
     translation: (is) torn
     transliteration: qudda
   5:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   6:
-    arabic: دُبُرٍ
+    arabic: دُبُرٖ
     translation: (the) back
     transliteration: duburin
   7:
@@ -41,7 +40,7 @@ word_by_word:
     translation: (is) of
     transliteration: mina
   10:
-    arabic: "الصّٰدِقِيۡنَ‏ \uFEFF\uFEFF"
+    arabic: ٱلصَّٰدِقِينَ
     translation: the truthful
     transliteration: l-ṣādiqīna
 ---

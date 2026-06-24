@@ -1,15 +1,15 @@
 ---
-arabic_ayat: فَتَقَطَّعُوۡۤا اَمۡرَهُمۡ بَيۡنَهُمۡ زُبُرًا​ ؕ كُلُّ حِزۡبٍۢ بِمَا
-  لَدَيۡهِمۡ فَرِحُوۡنَ‏
+arabic_ayat: فَتَقَطَّعُوٓاْ أَمۡرَهُم بَيۡنَهُمۡ زُبُرٗاۖ كُلُّ حِزۡبِۭ بِمَا لَدَيۡهِمۡ
+  فَرِحُونَ
 sentence_translation: Yet the people have divided it into different sects, each rejoicing
   in what they have.
 word_by_word:
   1:
-    arabic: فَتَقَطَّعُوۡۤا
+    arabic: فَتَقَطَّعُوٓاْ
     translation: But they cut off
     transliteration: fataqaṭṭaʿū
   2:
-    arabic: اَمۡرَهُمۡ
+    arabic: أَمۡرَهُم
     translation: their affair (of unity)
     transliteration: amrahum
   3:
@@ -17,7 +17,7 @@ word_by_word:
     translation: between them
     transliteration: baynahum
   4:
-    arabic: زُبُرًا​ ؕ
+    arabic: زُبُرٗاۖ
     translation: (into) sects
     transliteration: zuburan
   5:
@@ -25,7 +25,7 @@ word_by_word:
     translation: each
     transliteration: kullu
   6:
-    arabic: حِزۡبٍۢ
+    arabic: حِزۡبِۭ
     translation: faction
     transliteration: ḥiz'bin
   7:
@@ -37,7 +37,7 @@ word_by_word:
     translation: they have
     transliteration: ladayhim
   9:
-    arabic: فَرِحُوۡنَ‏
+    arabic: فَرِحُونَ
     translation: rejoicing
     transliteration: fariḥūna
 ---

@@ -1,7 +1,7 @@
 ---
-arabic_ayat: قُلۡ كَفٰى بِاللّٰهِ بَيۡنِىۡ وَبَيۡنَكُمۡ شَهِيۡدًا ​ۚ يَعۡلَمُ مَا
-  فِى السَّمٰوٰتِ وَالۡاَرۡضِ​ ؕ وَالَّذِيۡنَ اٰمَنُوْا بِالۡبَاطِلِ وَكَفَرُوۡا بِاللّٰهِ
-  ۙ اُولٰٓٮِٕكَ هُمُ الۡخٰسِرُوۡنَ‏
+arabic_ayat: قُلۡ كَفَىٰ بِٱللَّهِ بَيۡنِي وَبَيۡنَكُمۡ شَهِيدٗاۖ يَعۡلَمُ مَا فِي
+  ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِۗ وَٱلَّذِينَ ءَامَنُواْ بِٱلۡبَٰطِلِ وَكَفَرُواْ بِٱللَّهِ
+  أُوْلَٰٓئِكَ هُمُ ٱلۡخَٰسِرُونَ
 sentence_translation: Say, ˹O Prophet,˺ “Sufficient is Allah as a Witness between
   me and you. He ˹fully˺ knows whatever is in the heavens and the earth. And those
   who believe in falsehood and disbelieve in Allah, it is they who are the ˹true˺
@@ -12,15 +12,15 @@ word_by_word:
     translation: Say
     transliteration: qul
   2:
-    arabic: كَفٰى
+    arabic: كَفَىٰ
     translation: Sufficient is
     transliteration: kafā
   3:
-    arabic: بِاللّٰهِ
+    arabic: بِٱللَّهِ
     translation: Allah
     transliteration: bil-lahi
   4:
-    arabic: بَيۡنِىۡ
+    arabic: بَيۡنِي
     translation: between me
     transliteration: baynī
   5:
@@ -28,7 +28,7 @@ word_by_word:
     translation: and between you
     transliteration: wabaynakum
   6:
-    arabic: شَهِيۡدًا ​ۚ
+    arabic: شَهِيدٗاۖ
     translation: (as) a Witness
     transliteration: shahīdan
   7:
@@ -40,39 +40,39 @@ word_by_word:
     translation: what
     transliteration: mā
   9:
-    arabic: فِى
+    arabic: فِي
     translation: (is) in
     transliteration: fī
   10:
-    arabic: السَّمٰوٰتِ
+    arabic: ٱلسَّمَٰوَٰتِ
     translation: the heavens
     transliteration: l-samāwāti
   11:
-    arabic: وَالۡاَرۡضِ​ ؕ
+    arabic: وَٱلۡأَرۡضِۗ
     translation: and the earth
     transliteration: wal-arḍi
   12:
-    arabic: وَالَّذِيۡنَ
+    arabic: وَٱلَّذِينَ ءَ
     translation: And those who
     transliteration: wa-alladhīna
   13:
-    arabic: اٰمَنُوْا
+    arabic: امَنُواْ
     translation: believe
     transliteration: āmanū
   14:
-    arabic: بِالۡبَاطِلِ
+    arabic: بِٱلۡبَٰطِلِ
     translation: in [the] falsehood
     transliteration: bil-bāṭili
   15:
-    arabic: وَكَفَرُوۡا
+    arabic: وَكَفَرُواْ
     translation: and disbelieve
     transliteration: wakafarū
   16:
-    arabic: بِاللّٰهِ ۙ
+    arabic: بِٱللَّهِ
     translation: in Allah
     transliteration: bil-lahi
   17:
-    arabic: اُولٰٓٮِٕكَ
+    arabic: أُوْلَٰٓئِكَ
     translation: those
     transliteration: ulāika
   18:
@@ -80,7 +80,7 @@ word_by_word:
     translation: they
     transliteration: humu
   19:
-    arabic: الۡخٰسِرُوۡنَ‏
+    arabic: ٱلۡخَٰسِرُونَ
     translation: (are) the losers
     transliteration: l-khāsirūna
 ---

@@ -1,6 +1,6 @@
 ---
-arabic_ayat: وَيَوۡمَ يُنَادِيۡهِمۡ فَيَـقُوۡلُ اَيۡنَ شُرَكَآءِىَ الَّذِيۡنَ كُنۡتُمۡ
-  تَزۡعُمُوۡنَ‏
+arabic_ayat: وَيَوۡمَ يُنَادِيهِمۡ فَيَقُولُ أَيۡنَ شُرَكَآءِيَ ٱلَّذِينَ كُنتُمۡ
+  تَزۡعُمُونَ
 sentence_translation: ˹Watch for˺ the Day He will call to them, “Where are those you
   claimed were My associate-gods?”
 word_by_word:
@@ -9,31 +9,31 @@ word_by_word:
     translation: And (the) Day
     transliteration: wayawma
   2:
-    arabic: يُنَادِيۡهِمۡ
+    arabic: يُنَادِيهِمۡ
     translation: He will call them
     transliteration: yunādīhim
   3:
-    arabic: فَيَـقُوۡلُ
+    arabic: فَيَقُولُ
     translation: and say
     transliteration: fayaqūlu
   4:
-    arabic: اَيۡنَ
+    arabic: أَيۡنَ
     translation: Where
     transliteration: ayna
   5:
-    arabic: شُرَكَآءِىَ
+    arabic: شُرَكَآءِيَ
     translation: (are) My partners
     transliteration: shurakāiya
   6:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: whom
     transliteration: alladhīna
   7:
-    arabic: كُنۡتُمۡ
+    arabic: كُنتُمۡ
     translation: you used (to)
     transliteration: kuntum
   8:
-    arabic: تَزۡعُمُوۡنَ‏
+    arabic: تَزۡعُمُونَ
     translation: claim
     transliteration: tazʿumūna
 ---

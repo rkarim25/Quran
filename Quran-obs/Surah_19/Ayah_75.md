@@ -1,7 +1,7 @@
 ---
-arabic_ayat: قُلۡ مَنۡ كَانَ فِى الضَّلٰلَةِ فَلۡيَمۡدُدۡ لَهُ الرَّحۡمٰنُ مَدًّا ۚ​
-  حَتّٰٓى اِذَا رَاَوۡا مَا يُوۡعَدُوۡنَ اِمَّا الۡعَذَابَ وَاِمَّا السَّاعَةَ ؕ فَسَيَـعۡلَمُوۡنَ
-  مَنۡ هُوَ شَرٌّ مَّكَانًا وَّاَضۡعَفُ جُنۡدًا‏
+arabic_ayat: قُلۡ مَن كَانَ فِي ٱلضَّلَٰلَةِ فَلۡيَمۡدُدۡ لَهُ ٱلرَّحۡمَٰنُ مَدًّاۚ
+  حَتَّىٰٓ إِذَا رَأَوۡاْ مَا يُوعَدُونَ إِمَّا ٱلۡعَذَابَ وَإِمَّا ٱلسَّاعَةَ فَسَيَعۡلَمُونَ
+  مَنۡ هُوَ شَرّٞ مَّكَانٗا وَأَضۡعَفُ جُندٗا
 sentence_translation: 'Say, ˹O Prophet,˺ “Whoever is ˹entrenched˺ in misguidance,
   the Most Compassionate will allow them plenty of time, until—behold!—they face what
   they are threatened with: either the torment or the Hour. Only then will they realize
@@ -12,7 +12,7 @@ word_by_word:
     translation: Say
     transliteration: qul
   2:
-    arabic: مَنۡ
+    arabic: مَن
     translation: Whoever
     transliteration: man
   3:
@@ -20,11 +20,11 @@ word_by_word:
     translation: is
     transliteration: kāna
   4:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   5:
-    arabic: الضَّلٰلَةِ
+    arabic: ٱلضَّلَٰلَةِ
     translation: '[the] error'
     transliteration: l-ḍalālati
   6:
@@ -36,23 +36,23 @@ word_by_word:
     translation: for him
     transliteration: lahu
   8:
-    arabic: الرَّحۡمٰنُ
+    arabic: ٱلرَّحۡمَٰنُ
     translation: the Most Gracious
     transliteration: l-raḥmānu
   9:
-    arabic: مَدًّا ۚ​
+    arabic: مَدًّاۚ
     translation: an extension
     transliteration: maddan
   10:
-    arabic: حَتّٰٓى
+    arabic: حَتَّىٰٓ
     translation: until
     transliteration: ḥattā
   11:
-    arabic: اِذَا
+    arabic: إِذَا
     translation: when
     transliteration: idhā
   12:
-    arabic: رَاَوۡا
+    arabic: رَأَوۡاْ
     translation: they see
     transliteration: ra-aw
   13:
@@ -60,27 +60,27 @@ word_by_word:
     translation: what
     transliteration: mā
   14:
-    arabic: يُوۡعَدُوۡنَ
+    arabic: يُوعَدُونَ
     translation: they were promised
     transliteration: yūʿadūna
   15:
-    arabic: اِمَّا
+    arabic: إِمَّا
     translation: either
     transliteration: immā
   16:
-    arabic: الۡعَذَابَ
+    arabic: ٱلۡعَذَابَ
     translation: the punishment
     transliteration: l-ʿadhāba
   17:
-    arabic: وَاِمَّا
+    arabic: وَإِمَّا
     translation: or
     transliteration: wa-immā
   18:
-    arabic: السَّاعَةَ ؕ
+    arabic: ٱلسَّاعَةَ
     translation: the Hour
     transliteration: l-sāʿata
   19:
-    arabic: فَسَيَـعۡلَمُوۡنَ
+    arabic: فَسَيَعۡلَمُونَ
     translation: then they will know
     transliteration: fasayaʿlamūna
   20:
@@ -92,19 +92,19 @@ word_by_word:
     translation: '[he]'
     transliteration: huwa
   22:
-    arabic: شَرٌّ
+    arabic: شَرّٞ
     translation: (is) worst
     transliteration: sharrun
   23:
-    arabic: مَّكَانًا
+    arabic: مَّكَانٗا
     translation: (in) position
     transliteration: makānan
   24:
-    arabic: وَّاَضۡعَفُ
+    arabic: وَأَضۡعَفُ
     translation: and weaker
     transliteration: wa-aḍʿafu
   25:
-    arabic: جُنۡدًا‏
+    arabic: جُندٗا
     translation: (in) forces
     transliteration: jundan
 ---

@@ -1,37 +1,37 @@
 ---
-arabic_ayat: وَاذۡكُرۡ اَخَا عَادٍؕ اِذۡ اَنۡذَرَ قَوۡمَهٗ بِالۡاَحۡقَافِ وَقَدۡ خَلَتِ
-  النُّذُرُ مِنۡۢ بَيۡنِ يَدَيۡهِ وَمِنۡ خَلۡفِهٖۤ اَلَّا تَعۡبُدُوۡۤا اِلَّا اللّٰهَ
-  ؕ اِنِّىۡۤ اَخَافُ عَلَيۡكُمۡ عَذَابَ يَوۡمٍ عَظِيۡمٍ‏
+arabic_ayat: ۞ وَٱذۡكُرۡ أَخَا عَادٍ إِذۡ أَنذَرَ قَوۡمَهُۥ بِٱلۡأَحۡقَافِ وَقَدۡ
+  خَلَتِ ٱلنُّذُرُ مِنۢ بَيۡنِ يَدَيۡهِ وَمِنۡ خَلۡفِهِۦٓ أَلَّا تَعۡبُدُوٓاْ إِلَّا
+  ٱللَّهَ إِنِّيٓ أَخَافُ عَلَيۡكُمۡ عَذَابَ يَوۡمٍ عَظِيمٖ
 sentence_translation: And remember the brother of ’Ȃd, when he warned his people,
   who inhabited the sand-hills—there were certainly warners before and after him—˹saying,˺
   “Worship none but Allah. I truly fear for you the torment of a tremendous day.”
 word_by_word:
   1:
-    arabic: ۞ وَاذۡكُرۡ
+    arabic: ۞ وَٱذۡكُرۡ
     translation: And mention
     transliteration: wa-udh'kur
   2:
-    arabic: اَخَا
+    arabic: أَخَا
     translation: (the) brother
     transliteration: akhā
   3:
-    arabic: عَادٍؕ
+    arabic: عَادٍ
     translation: (of) Aad
     transliteration: ʿādin
   4:
-    arabic: اِذۡ
+    arabic: إِذۡ
     translation: when
     transliteration: idh
   5:
-    arabic: اَنۡذَرَ
+    arabic: أَنذَرَ
     translation: he warned
     transliteration: andhara
   6:
-    arabic: قَوۡمَهٗ
+    arabic: قَوۡمَهُۥ
     translation: his people
     transliteration: qawmahu
   7:
-    arabic: بِالۡاَحۡقَافِ
+    arabic: بِٱلۡأَحۡقَافِ
     translation: 'in the Al-Ahqaf '
     transliteration: bil-aḥqāfi
   8:
@@ -43,11 +43,11 @@ word_by_word:
     translation: and had already passed away
     transliteration: khalati
   10:
-    arabic: النُّذُرُ
+    arabic: ٱلنُّذُرُ
     translation: '[the] warners'
     transliteration: l-nudhuru
   11:
-    arabic: مِنۡۢ
+    arabic: مِنۢ
     translation: before him
     transliteration: min
   12:
@@ -63,31 +63,31 @@ word_by_word:
     translation: and after him
     transliteration: wamin
   15:
-    arabic: خَلۡفِهٖۤ
+    arabic: خَلۡفِهِۦٓ
     translation: and after him
     transliteration: khalfihi
   16:
-    arabic: اَلَّا
+    arabic: أَلَّا
     translation: That not
     transliteration: allā
   17:
-    arabic: تَعۡبُدُوۡۤا
+    arabic: تَعۡبُدُوٓاْ
     translation: you worship
     transliteration: taʿbudū
   18:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   19:
-    arabic: اللّٰهَ ؕ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   20:
-    arabic: اِنِّىۡۤ
+    arabic: إِنِّيٓ
     translation: Indeed, I
     transliteration: innī
   21:
-    arabic: اَخَافُ
+    arabic: أَخَافُ
     translation: '[I] fear'
     transliteration: akhāfu
   22:
@@ -103,7 +103,7 @@ word_by_word:
     translation: (of) a Day
     transliteration: yawmin
   25:
-    arabic: عَظِيۡمٍ‏
+    arabic: عَظِيمٖ
     translation: Great
     transliteration: ʿaẓīmin
 ---

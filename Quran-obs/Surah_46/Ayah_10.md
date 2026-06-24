@@ -1,7 +1,7 @@
 ---
-arabic_ayat: قُلۡ اَرَءَيۡتُمۡ اِنۡ كَانَ مِنۡ عِنۡدِ اللّٰهِ وَكَفَرۡتُمۡ بِهٖ وَشَهِدَ
-  شَاهِدٌ مِّنۡۢ بَنِىۡۤ اِسۡرَآءِيۡلَ عَلٰى مِثۡلِهٖ فَاٰمَنَ وَاسۡتَكۡبَرۡتُمۡ​
-  ؕ اِنَّ اللّٰهَ لَا يَهۡدِى الۡقَوۡمَ الظّٰلِمِيۡنَ‏
+arabic_ayat: قُلۡ أَرَءَيۡتُمۡ إِن كَانَ مِنۡ عِندِ ٱللَّهِ وَكَفَرۡتُم بِهِۦ وَشَهِدَ
+  شَاهِدٞ مِّنۢ بَنِيٓ إِسۡرَٰٓءِيلَ عَلَىٰ مِثۡلِهِۦ فَـَٔامَنَ وَٱسۡتَكۡبَرۡتُمۡۚ
+  إِنَّ ٱللَّهَ لَا يَهۡدِي ٱلۡقَوۡمَ ٱلظَّٰلِمِينَ
 sentence_translation: Ask ˹them, O  Prophet˺, “Consider if this ˹Quran˺ is ˹truly˺
   from Allah and you deny it, and a witness from the Children of Israel attests to
   it and then believes, whereas you act arrogantly. Surely Allah does not guide the
@@ -12,11 +12,11 @@ word_by_word:
     translation: Say
     transliteration: qul
   2:
-    arabic: اَرَءَيۡتُمۡ
+    arabic: أَرَءَيۡتُمۡ
     translation: Do you see
     transliteration: ara-aytum
   3:
-    arabic: اِنۡ
+    arabic: إِن
     translation: if
     transliteration: in
   4:
@@ -28,19 +28,19 @@ word_by_word:
     translation: from Allah
     transliteration: min
   6:
-    arabic: عِنۡدِ
+    arabic: عِندِ
     translation: from Allah
     transliteration: ʿindi
   7:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: from Allah
     transliteration: l-lahi
   8:
-    arabic: وَكَفَرۡتُمۡ
+    arabic: وَكَفَرۡتُم
     translation: and you disbelieve
     transliteration: wakafartum
   9:
-    arabic: بِهٖ
+    arabic: بِهِۦ
     translation: in it
     transliteration: bihi
   10:
@@ -48,43 +48,43 @@ word_by_word:
     translation: and testifies
     transliteration: washahida
   11:
-    arabic: شَاهِدٌ
+    arabic: شَاهِدٞ
     translation: a witness
     transliteration: shāhidun
   12:
-    arabic: مِّنۡۢ
+    arabic: مِّنۢ
     translation: from
     transliteration: min
   13:
-    arabic: بَنِىۡۤ
+    arabic: بَنِيٓ
     translation: (the) Children of Israel
     transliteration: banī
   14:
-    arabic: اِسۡرَآءِيۡلَ
+    arabic: إِسۡرَٰٓءِيلَ
     translation: (the) Children of Israel
     transliteration: is'rāīla
   15:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: to
     transliteration: ʿalā
   16:
-    arabic: مِثۡلِهٖ
+    arabic: مِثۡلِهِۦ
     translation: (the) like thereof
     transliteration: mith'lihi
   17:
-    arabic: فَاٰمَنَ
+    arabic: فَـَٔامَنَ
     translation: then he believed
     transliteration: faāmana
   18:
-    arabic: وَاسۡتَكۡبَرۡتُمۡ​ ؕ
+    arabic: وَٱسۡتَكۡبَرۡتُمۡۚ
     translation: while you are arrogant
     transliteration: wa-is'takbartum
   19:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   20:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   21:
@@ -92,15 +92,15 @@ word_by_word:
     translation: (does) not
     transliteration: lā
   22:
-    arabic: يَهۡدِى
+    arabic: يَهۡدِي
     translation: guide
     transliteration: yahdī
   23:
-    arabic: الۡقَوۡمَ
+    arabic: ٱلۡقَوۡمَ
     translation: the people
     transliteration: l-qawma
   24:
-    arabic: الظّٰلِمِيۡنَ‏
+    arabic: ٱلظَّٰلِمِينَ
     translation: the wrongdoers
     transliteration: l-ẓālimīna
 ---

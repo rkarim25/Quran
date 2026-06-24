@@ -1,31 +1,31 @@
 ---
-arabic_ayat: اَللّٰهُ الَّذِىۡۤ اَنۡزَلَ الۡكِتٰبَ بِالۡحَقِّ وَالۡمِيۡزَانَ​ؕ وَمَا
-  يُدۡرِيۡكَ لَعَلَّ السَّاعَةَ قَرِيۡبٌ‏
+arabic_ayat: ٱللَّهُ ٱلَّذِيٓ أَنزَلَ ٱلۡكِتَٰبَ بِٱلۡحَقِّ وَٱلۡمِيزَانَۗ وَمَا يُدۡرِيكَ
+  لَعَلَّ ٱلسَّاعَةَ قَرِيبٞ
 sentence_translation: It is Allah Who has revealed the Book with the truth and the
   balance ˹of justice˺. You never know, perhaps the Hour is near.
 word_by_word:
   1:
-    arabic: اَللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: al-lahu
   2:
-    arabic: الَّذِىۡۤ
+    arabic: ٱلَّذِيٓ
     translation: (is) the One Who
     transliteration: alladhī
   3:
-    arabic: اَنۡزَلَ
+    arabic: أَنزَلَ
     translation: (has) sent down
     transliteration: anzala
   4:
-    arabic: الۡكِتٰبَ
+    arabic: ٱلۡكِتَٰبَ
     translation: the Book
     transliteration: l-kitāba
   5:
-    arabic: بِالۡحَقِّ
+    arabic: بِٱلۡحَقِّ
     translation: in truth
     transliteration: bil-ḥaqi
   6:
-    arabic: وَالۡمِيۡزَانَ​ؕ
+    arabic: وَٱلۡمِيزَانَۗ
     translation: and the Balance
     transliteration: wal-mīzāna
   7:
@@ -33,7 +33,7 @@ word_by_word:
     translation: And what
     transliteration: wamā
   8:
-    arabic: يُدۡرِيۡكَ
+    arabic: يُدۡرِيكَ
     translation: will make you know
     transliteration: yud'rīka
   9:
@@ -41,11 +41,11 @@ word_by_word:
     translation: Perhaps
     transliteration: laʿalla
   10:
-    arabic: السَّاعَةَ
+    arabic: ٱلسَّاعَةَ
     translation: the Hour
     transliteration: l-sāʿata
   11:
-    arabic: قَرِيۡبٌ‏
+    arabic: قَرِيبٞ
     translation: (is) near
     transliteration: qarībun
 ---

@@ -1,31 +1,31 @@
 ---
-arabic_ayat: وَاتَّقُوۡا يَوۡمًا تُرۡجَعُوۡنَ فِيۡهِ اِلَى اللّٰهِ ثُمَّ تُوَفّٰى
-  كُلُّ نَفۡسٍ مَّا كَسَبَتۡ وَهُمۡ لَا يُظۡلَمُوۡنَ‏
+arabic_ayat: وَٱتَّقُواْ يَوۡمٗا تُرۡجَعُونَ فِيهِ إِلَى ٱللَّهِۖ ثُمَّ تُوَفَّىٰ
+  كُلُّ نَفۡسٖ مَّا كَسَبَتۡ وَهُمۡ لَا يُظۡلَمُونَ
 sentence_translation: Be mindful of the Day when you will ˹all˺ be returned to Allah,
   then every soul will be paid in full for what it has done, and none will be wronged.
 word_by_word:
   1:
-    arabic: وَاتَّقُوۡا
+    arabic: وَٱتَّقُواْ
     translation: And fear
     transliteration: wa-ittaqū
   2:
-    arabic: يَوۡمًا
+    arabic: يَوۡمٗا
     translation: a Day
     transliteration: yawman
   3:
-    arabic: تُرۡجَعُوۡنَ
+    arabic: تُرۡجَعُونَ
     translation: you will be brought back
     transliteration: tur'jaʿūna
   4:
-    arabic: فِيۡهِ
+    arabic: فِيهِ
     translation: '[in it]'
     transliteration: fīhi
   5:
-    arabic: اِلَى
+    arabic: إِلَى
     translation: to
     transliteration: ilā
   6:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِۖ
     translation: Allah
     transliteration: l-lahi
   7:
@@ -33,7 +33,7 @@ word_by_word:
     translation: Then
     transliteration: thumma
   8:
-    arabic: تُوَفّٰى
+    arabic: تُوَفَّىٰ
     translation: (will be) repaid in full
     transliteration: tuwaffā
   9:
@@ -41,7 +41,7 @@ word_by_word:
     translation: every
     transliteration: kullu
   10:
-    arabic: نَفۡسٍ
+    arabic: نَفۡسٖ
     translation: soul
     transliteration: nafsin
   11:
@@ -61,7 +61,7 @@ word_by_word:
     translation: not
     transliteration: lā
   15:
-    arabic: يُظۡلَمُوۡنَ‏
+    arabic: يُظۡلَمُونَ
     translation: will be wronged
     transliteration: yuẓ'lamūna
 ---

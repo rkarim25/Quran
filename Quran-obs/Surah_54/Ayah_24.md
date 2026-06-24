@@ -1,15 +1,15 @@
 ---
-arabic_ayat: فَقَالُـوۡۤا اَبَشَرًا مِّنَّا وَاحِدًا نَّتَّبِعُهٗۤ ۙ اِنَّاۤ اِذًا
-  لَّفِىۡ ضَلٰلٍ وَّسُعُرٍ‏
+arabic_ayat: فَقَالُوٓاْ أَبَشَرٗا مِّنَّا وَٰحِدٗا نَّتَّبِعُهُۥٓ إِنَّآ إِذٗا لَّفِي
+  ضَلَٰلٖ وَسُعُرٍ
 sentence_translation: arguing, “How can we follow one ˹average˺ human being from among
   us? We would then truly be misguided and insane.
 word_by_word:
   1:
-    arabic: فَقَالُـوۡۤا
+    arabic: فَقَالُوٓاْ
     translation: And said
     transliteration: faqālū
   2:
-    arabic: اَبَشَرًا
+    arabic: أَبَشَرٗا
     translation: Is (it) a human being
     transliteration: abasharan
   3:
@@ -17,31 +17,31 @@ word_by_word:
     translation: among us
     transliteration: minnā
   4:
-    arabic: وَاحِدًا
+    arabic: وَٰحِدٗا
     translation: one
     transliteration: wāḥidan
   5:
-    arabic: نَّتَّبِعُهٗۤ ۙ
+    arabic: نَّتَّبِعُهُۥٓ
     translation: (that) we should follow him
     transliteration: nattabiʿuhu
   6:
-    arabic: اِنَّاۤ
+    arabic: إِنَّآ
     translation: Indeed, we
     transliteration: innā
   7:
-    arabic: اِذًا
+    arabic: إِذٗا
     translation: then
     transliteration: idhan
   8:
-    arabic: لَّفِىۡ
+    arabic: لَّفِي
     translation: (will be) surely in
     transliteration: lafī
   9:
-    arabic: ضَلٰلٍ
+    arabic: ضَلَٰلٖ
     translation: error
     transliteration: ḍalālin
   10:
-    arabic: وَّسُعُرٍ‏
+    arabic: وَسُعُرٍ
     translation: and madness
     transliteration: wasuʿurin
 ---

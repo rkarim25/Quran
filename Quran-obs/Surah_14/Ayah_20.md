@@ -1,13 +1,13 @@
 ---
-arabic_ayat: وَّمَا ذٰلِكَ عَلَى اللّٰهِ بِعَزِيۡزٍ‏
+arabic_ayat: وَمَا ذَٰلِكَ عَلَى ٱللَّهِ بِعَزِيزٖ
 sentence_translation: And that is not difficult for Allah ˹at all˺.
 word_by_word:
   1:
-    arabic: وَّمَا
+    arabic: وَمَا
     translation: And not
     transliteration: wamā
   2:
-    arabic: ذٰلِكَ
+    arabic: ذَٰلِكَ
     translation: (is) that
     transliteration: dhālika
   3:
@@ -15,11 +15,11 @@ word_by_word:
     translation: 'on'
     transliteration: ʿalā
   4:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   5:
-    arabic: بِعَزِيۡزٍ‏
+    arabic: بِعَزِيزٖ
     translation: great
     transliteration: biʿazīzin
 ---

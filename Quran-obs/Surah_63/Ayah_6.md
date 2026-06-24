@@ -1,6 +1,6 @@
 ---
-arabic_ayat: سَوَآءٌ عَلَيۡهِمۡ اَسۡتَغۡفَرۡتَ لَهُمۡ اَمۡ لَمۡ تَسۡتَغۡفِرۡ لَهُمۡؕ
-  لَنۡ يَّغۡفِرَ اللّٰهُ لَهُمۡ​ؕ اِنَّ اللّٰهَ لَا يَهۡدِى الۡقَوۡمَ الۡفٰسِقِيۡنَ‏
+arabic_ayat: سَوَآءٌ عَلَيۡهِمۡ أَسۡتَغۡفَرۡتَ لَهُمۡ أَمۡ لَمۡ تَسۡتَغۡفِرۡ لَهُمۡ
+  لَن يَغۡفِرَ ٱللَّهُ لَهُمۡۚ إِنَّ ٱللَّهَ لَا يَهۡدِي ٱلۡقَوۡمَ ٱلۡفَٰسِقِينَ
 sentence_translation: It is the same whether you pray for their forgiveness or not,
   Allah will not forgive them. Surely Allah does not guide the rebellious people.
 word_by_word:
@@ -13,7 +13,7 @@ word_by_word:
     translation: for them
     transliteration: ʿalayhim
   3:
-    arabic: اَسۡتَغۡفَرۡتَ
+    arabic: أَسۡتَغۡفَرۡتَ
     translation: whether you ask forgiveness
     transliteration: astaghfarta
   4:
@@ -21,7 +21,7 @@ word_by_word:
     translation: for them
     transliteration: lahum
   5:
-    arabic: اَمۡ
+    arabic: أَمۡ
     translation: or
     transliteration: am
   6:
@@ -33,31 +33,31 @@ word_by_word:
     translation: ask forgiveness
     transliteration: tastaghfir
   8:
-    arabic: لَهُمۡؕ
+    arabic: لَهُمۡ
     translation: for them
     transliteration: lahum
   9:
-    arabic: لَنۡ
+    arabic: لَن
     translation: Never
     transliteration: lan
   10:
-    arabic: يَّغۡفِرَ
+    arabic: يَغۡفِرَ
     translation: will forgive
     transliteration: yaghfira
   11:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   12:
-    arabic: لَهُمۡ​ؕ
+    arabic: لَهُمۡۚ
     translation: '[to] them'
     transliteration: lahum
   13:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   14:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   15:
@@ -65,15 +65,15 @@ word_by_word:
     translation: (does) not
     transliteration: lā
   16:
-    arabic: يَهۡدِى
+    arabic: يَهۡدِي
     translation: guide
     transliteration: yahdī
   17:
-    arabic: الۡقَوۡمَ
+    arabic: ٱلۡقَوۡمَ
     translation: the people
     transliteration: l-qawma
   18:
-    arabic: الۡفٰسِقِيۡنَ‏
+    arabic: ٱلۡفَٰسِقِينَ
     translation: the defiantly disobedient
     transliteration: l-fāsiqīna
 ---

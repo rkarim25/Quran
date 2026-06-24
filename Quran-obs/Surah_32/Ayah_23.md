@@ -1,24 +1,24 @@
 ---
-arabic_ayat: وَلَقَدۡ اٰتَيۡنَا مُوۡسَى الۡكِتٰبَ فَلَا تَكُنۡ فِىۡ مِرۡيَةٍ مِّنۡ
-  لِّقَآٮِٕهٖ​ وَجَعَلۡنٰهُ هُدًى لِّبَنِىۡۤ اِسۡرَآءِيۡلَۚ‏
+arabic_ayat: وَلَقَدۡ ءَاتَيۡنَا مُوسَى ٱلۡكِتَٰبَ فَلَا تَكُن فِي مِرۡيَةٖ مِّن لِّقَآئِهِۦۖ
+  وَجَعَلۡنَٰهُ هُدٗى لِّبَنِيٓ إِسۡرَٰٓءِيلَ
 sentence_translation: Indeed, We gave the Scripture to Moses—so let there be no doubt
   ˹O Prophet˺ that you ˹too˺ are receiving revelations—and We made it a guide for
   the Children of Israel.
 word_by_word:
   1:
-    arabic: وَلَقَدۡ
+    arabic: وَلَقَدۡ ءَ
     translation: And certainly
     transliteration: walaqad
   2:
-    arabic: اٰتَيۡنَا
+    arabic: اتَيۡنَا
     translation: We gave
     transliteration: ātaynā
   3:
-    arabic: مُوۡسَى
+    arabic: مُوسَى
     translation: Musa
     transliteration: mūsā
   4:
-    arabic: الۡكِتٰبَ
+    arabic: ٱلۡكِتَٰبَ
     translation: the Scripture
     transliteration: l-kitāba
   5:
@@ -26,39 +26,39 @@ word_by_word:
     translation: so (do) not
     transliteration: falā
   6:
-    arabic: تَكُنۡ
+    arabic: تَكُن
     translation: be
     transliteration: takun
   7:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   8:
-    arabic: مِرۡيَةٍ
+    arabic: مِرۡيَةٖ
     translation: doubt
     transliteration: mir'yatin
   9:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: about
     transliteration: min
   10:
-    arabic: لِّقَآٮِٕهٖ​
+    arabic: لِّقَآئِهِۦۖ
     translation: receiving it
     transliteration: liqāihi
   11:
-    arabic: وَجَعَلۡنٰهُ
+    arabic: وَجَعَلۡنَٰهُ
     translation: And We made it
     transliteration: wajaʿalnāhu
   12:
-    arabic: هُدًى
+    arabic: هُدٗى
     translation: a guide
     transliteration: hudan
   13:
-    arabic: لِّبَنِىۡۤ
+    arabic: لِّبَنِيٓ
     translation: for the Children of Israel
     transliteration: libanī
   14:
-    arabic: اِسۡرَآءِيۡلَۚ‏
+    arabic: إِسۡرَٰٓءِيلَ
     translation: for the Children of Israel
     transliteration: is'rāīla
 ---

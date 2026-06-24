@@ -1,6 +1,6 @@
 ---
-arabic_ayat: هَلۡ اَتٰى عَلَى الۡاِنۡسَانِ حِيۡنٌ مِّنَ الدَّهۡرِ لَمۡ يَكُنۡ شَيۡـًٔـا
-  مَّذۡكُوۡرًا‏
+arabic_ayat: هَلۡ أَتَىٰ عَلَى ٱلۡإِنسَٰنِ حِينٞ مِّنَ ٱلدَّهۡرِ لَمۡ يَكُن شَيۡـٔٗا
+  مَّذۡكُورًا
 sentence_translation: Is there not a period of time when each human is nothing yet
   worth mentioning?
 word_by_word:
@@ -9,7 +9,7 @@ word_by_word:
     translation: Has
     transliteration: hal
   2:
-    arabic: اَتٰى
+    arabic: أَتَىٰ
     translation: (there) come
     transliteration: atā
   3:
@@ -17,11 +17,11 @@ word_by_word:
     translation: upon
     transliteration: ʿalā
   4:
-    arabic: الۡاِنۡسَانِ
+    arabic: ٱلۡإِنسَٰنِ
     translation: man
     transliteration: l-insāni
   5:
-    arabic: حِيۡنٌ
+    arabic: حِينٞ
     translation: a period
     transliteration: ḥīnun
   6:
@@ -29,7 +29,7 @@ word_by_word:
     translation: of
     transliteration: mina
   7:
-    arabic: الدَّهۡرِ
+    arabic: ٱلدَّهۡرِ
     translation: time
     transliteration: l-dahri
   8:
@@ -37,15 +37,15 @@ word_by_word:
     translation: not
     transliteration: lam
   9:
-    arabic: يَكُنۡ
+    arabic: يَكُن
     translation: he was
     transliteration: yakun
   10:
-    arabic: شَيۡـًٔـا
+    arabic: شَيۡـٔٗا
     translation: a thing
     transliteration: shayan
   11:
-    arabic: مَّذۡكُوۡرًا‏
+    arabic: مَّذۡكُورًا
     translation: mentioned
     transliteration: madhkūran
 ---

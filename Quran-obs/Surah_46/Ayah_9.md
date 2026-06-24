@@ -1,7 +1,7 @@
 ---
-arabic_ayat: قُلۡ مَا كُنۡتُ بِدۡعًا مِّنَ الرُّسُلِ وَمَاۤ اَدۡرِىۡ مَا يُفۡعَلُ
-  بِىۡ وَلَا بِكُمۡؕ اِنۡ اَتَّبِعُ اِلَّا مَا يُوۡحٰٓى اِلَىَّ وَمَاۤ اَنَا اِلَّا
-  نَذِيۡرٌ مُّبِيۡنٌ‏
+arabic_ayat: قُلۡ مَا كُنتُ بِدۡعٗا مِّنَ ٱلرُّسُلِ وَمَآ أَدۡرِي مَا يُفۡعَلُ بِي
+  وَلَا بِكُمۡۖ إِنۡ أَتَّبِعُ إِلَّا مَا يُوحَىٰٓ إِلَيَّ وَمَآ أَنَا۠ إِلَّا نَذِيرٞ
+  مُّبِينٞ
 sentence_translation: Say, “I am not the first messenger ever sent, nor do I know
   what will happen to me or you. I only follow what is revealed to me. And I am only
   sent with a clear warning.”
@@ -15,11 +15,11 @@ word_by_word:
     translation: Not
     transliteration: mā
   3:
-    arabic: كُنۡتُ
+    arabic: كُنتُ
     translation: I am
     transliteration: kuntu
   4:
-    arabic: بِدۡعًا
+    arabic: بِدۡعٗا
     translation: a new (one)
     transliteration: bid'ʿan
   5:
@@ -27,15 +27,15 @@ word_by_word:
     translation: among
     transliteration: mina
   6:
-    arabic: الرُّسُلِ
+    arabic: ٱلرُّسُلِ
     translation: the Messengers
     transliteration: l-rusuli
   7:
-    arabic: وَمَاۤ
+    arabic: وَمَآ
     translation: and not
     transliteration: wamā
   8:
-    arabic: اَدۡرِىۡ
+    arabic: أَدۡرِي
     translation: I know
     transliteration: adrī
   9:
@@ -47,7 +47,7 @@ word_by_word:
     translation: will be done
     transliteration: yuf'ʿalu
   11:
-    arabic: بِىۡ
+    arabic: بِي
     translation: with me
     transliteration: bī
   12:
@@ -55,19 +55,19 @@ word_by_word:
     translation: and not
     transliteration: walā
   13:
-    arabic: بِكُمۡؕ
+    arabic: بِكُمۡۖ
     translation: with you
     transliteration: bikum
   14:
-    arabic: اِنۡ
+    arabic: إِنۡ
     translation: Not
     transliteration: in
   15:
-    arabic: اَتَّبِعُ
+    arabic: أَتَّبِعُ
     translation: I follow
     transliteration: attabiʿu
   16:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: but
     transliteration: illā
   17:
@@ -75,31 +75,31 @@ word_by_word:
     translation: what
     transliteration: mā
   18:
-    arabic: يُوۡحٰٓى
+    arabic: يُوحَىٰٓ
     translation: is revealed
     transliteration: yūḥā
   19:
-    arabic: اِلَىَّ
+    arabic: إِلَيَّ
     translation: to me
     transliteration: ilayya
   20:
-    arabic: وَمَاۤ
+    arabic: وَمَآ
     translation: and not
     transliteration: wamā
   21:
-    arabic: اَنَا
+    arabic: أَنَا۠
     translation: I am
     transliteration: anā
   22:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: but
     transliteration: illā
   23:
-    arabic: نَذِيۡرٌ
+    arabic: نَذِيرٞ
     translation: a warner
     transliteration: nadhīrun
   24:
-    arabic: مُّبِيۡنٌ‏
+    arabic: مُّبِينٞ
     translation: clear
     transliteration: mubīnun
 ---

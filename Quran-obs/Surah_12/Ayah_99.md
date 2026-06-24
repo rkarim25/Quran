@@ -1,6 +1,6 @@
 ---
-arabic_ayat: فَلَمَّا دَخَلُوۡا عَلٰى يُوۡسُفَ اٰوٰٓى اِلَيۡهِ اَبَوَيۡهِ وَقَالَ
-  ادۡخُلُوۡا مِصۡرَ اِنۡ شَآءَ اللّٰهُ اٰمِنِيۡنَؕ‏
+arabic_ayat: فَلَمَّا دَخَلُواْ عَلَىٰ يُوسُفَ ءَاوَىٰٓ إِلَيۡهِ أَبَوَيۡهِ وَقَالَ
+  ٱدۡخُلُواْ مِصۡرَ إِن شَآءَ ٱللَّهُ ءَامِنِينَ
 sentence_translation: When they entered Joseph’s presence, he received his parents
   ˹graciously˺ and said, “Enter Egypt, Allah willing, in security.”
 word_by_word:
@@ -9,27 +9,27 @@ word_by_word:
     translation: Then when
     transliteration: falammā
   2:
-    arabic: دَخَلُوۡا
+    arabic: دَخَلُواْ
     translation: they entered
     transliteration: dakhalū
   3:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: upon
     transliteration: ʿalā
   4:
-    arabic: يُوۡسُفَ
+    arabic: يُوسُفَ ءَ
     translation: Yusuf
     transliteration: yūsufa
   5:
-    arabic: اٰوٰٓى
+    arabic: اوَىٰٓ
     translation: he took
     transliteration: āwā
   6:
-    arabic: اِلَيۡهِ
+    arabic: إِلَيۡهِ
     translation: to himself
     transliteration: ilayhi
   7:
-    arabic: اَبَوَيۡهِ
+    arabic: أَبَوَيۡهِ
     translation: his parents
     transliteration: abawayhi
   8:
@@ -37,7 +37,7 @@ word_by_word:
     translation: and said
     transliteration: waqāla
   9:
-    arabic: ادۡخُلُوۡا
+    arabic: ٱدۡخُلُواْ
     translation: Enter
     transliteration: ud'khulū
   10:
@@ -45,7 +45,7 @@ word_by_word:
     translation: Egypt
     transliteration: miṣ'ra
   11:
-    arabic: اِنۡ
+    arabic: إِن
     translation: if
     transliteration: in
   12:
@@ -53,11 +53,11 @@ word_by_word:
     translation: Allah wills
     transliteration: shāa
   13:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ ءَ
     translation: Allah wills
     transliteration: l-lahu
   14:
-    arabic: اٰمِنِيۡنَؕ‏
+    arabic: امِنِينَ
     translation: safe
     transliteration: āminīna
 ---

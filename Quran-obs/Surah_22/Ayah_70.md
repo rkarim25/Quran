@@ -1,12 +1,12 @@
 ---
-arabic_ayat: اَلَمۡ تَعۡلَمۡ اَنَّ اللّٰهَ يَعۡلَمُ مَا فِى السَّمَآءِ وَالۡاَرۡضِ​ؕ
-  اِنَّ ذٰ لِكَ فِىۡ كِتٰبٍ​ ؕ اِنَّ ذٰ لِكَ عَلَى اللّٰهِ يَسِيۡرٌ‏
+arabic_ayat: أَلَمۡ تَعۡلَمۡ أَنَّ ٱللَّهَ يَعۡلَمُ مَا فِي ٱلسَّمَآءِ وَٱلۡأَرۡضِۚ
+  إِنَّ ذَٰلِكَ فِي كِتَٰبٍۚ إِنَّ ذَٰلِكَ عَلَى ٱللَّهِ يَسِيرٞ
 sentence_translation: Do you not know that Allah ˹fully˺ knows whatever is in the
   heavens and the earth? Surely it is all ˹written˺ in a Record. That is certainly
   easy for Allah.
 word_by_word:
   1:
-    arabic: اَلَمۡ
+    arabic: أَلَمۡ
     translation: Do not
     transliteration: alam
   2:
@@ -14,11 +14,11 @@ word_by_word:
     translation: you know
     transliteration: taʿlam
   3:
-    arabic: اَنَّ
+    arabic: أَنَّ
     translation: that
     transliteration: anna
   4:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   5:
@@ -30,39 +30,39 @@ word_by_word:
     translation: what
     transliteration: mā
   7:
-    arabic: فِى
+    arabic: فِي
     translation: (is) in
     transliteration: fī
   8:
-    arabic: السَّمَآءِ
+    arabic: ٱلسَّمَآءِ
     translation: the heaven
     transliteration: l-samāi
   9:
-    arabic: وَالۡاَرۡضِ​ؕ
+    arabic: وَٱلۡأَرۡضِۚ
     translation: and the earth
     transliteration: wal-arḍi
   10:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   11:
-    arabic: ذٰ لِكَ
+    arabic: ذَٰلِكَ
     translation: that
     transliteration: dhālika
   12:
-    arabic: فِىۡ
+    arabic: فِي
     translation: (is) in
     transliteration: fī
   13:
-    arabic: كِتٰبٍ​ ؕ
+    arabic: كِتَٰبٍۚ
     translation: a Record
     transliteration: kitābin
   14:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: indeed
     transliteration: inna
   15:
-    arabic: ذٰ لِكَ
+    arabic: ذَٰلِكَ
     translation: that
     transliteration: dhālika
   16:
@@ -70,11 +70,11 @@ word_by_word:
     translation: (is) for
     transliteration: ʿalā
   17:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   18:
-    arabic: يَسِيۡرٌ‏
+    arabic: يَسِيرٞ
     translation: easy
     transliteration: yasīrun
 ---

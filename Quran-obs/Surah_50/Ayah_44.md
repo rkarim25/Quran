@@ -1,6 +1,6 @@
 ---
-arabic_ayat: "يَوۡمَ تَشَقَّقُ الۡاَرۡضُ عَنۡهُمۡ سِرَاعًا​ ؕ ذٰ لِكَ حَشۡرٌ عَلَيۡنَا\
-  \ يَسِيۡرٌ‏ \uFEFF\uFEFF"
+arabic_ayat: يَوۡمَ تَشَقَّقُ ٱلۡأَرۡضُ عَنۡهُمۡ سِرَاعٗاۚ ذَٰلِكَ حَشۡرٌ عَلَيۡنَا
+  يَسِيرٞ
 sentence_translation: ˹Beware of˺ the Day the earth will split open, letting them
   rush forth. That will be an easy gathering for Us.
 word_by_word:
@@ -13,7 +13,7 @@ word_by_word:
     translation: will split
     transliteration: tashaqqaqu
   3:
-    arabic: الۡاَرۡضُ
+    arabic: ٱلۡأَرۡضُ
     translation: the earth
     transliteration: l-arḍu
   4:
@@ -21,11 +21,11 @@ word_by_word:
     translation: from them
     transliteration: ʿanhum
   5:
-    arabic: سِرَاعًا​ ؕ
+    arabic: سِرَاعٗاۚ
     translation: hurrying
     transliteration: sirāʿan
   6:
-    arabic: ذٰ لِكَ
+    arabic: ذَٰلِكَ
     translation: That
     transliteration: dhālika
   7:
@@ -37,7 +37,7 @@ word_by_word:
     translation: for Us
     transliteration: ʿalaynā
   9:
-    arabic: "يَسِيۡرٌ‏ \uFEFF\uFEFF"
+    arabic: يَسِيرٞ
     translation: easy
     transliteration: yasīrun
 ---

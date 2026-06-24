@@ -1,17 +1,17 @@
 ---
-arabic_ayat: وَفَصِيۡلَتِهِ الَّتِىۡ تُــْٔوِيۡهِۙ‏
+arabic_ayat: وَفَصِيلَتِهِ ٱلَّتِي تُـٔۡوِيهِ
 sentence_translation: their clan that sheltered them,
 word_by_word:
   1:
-    arabic: وَفَصِيۡلَتِهِ
+    arabic: وَفَصِيلَتِهِ
     translation: And his nearest kindred
     transliteration: wafaṣīlatihi
   2:
-    arabic: الَّتِىۡ
+    arabic: ٱلَّتِي
     translation: who
     transliteration: allatī
   3:
-    arabic: تُــْٔوِيۡهِۙ‏
+    arabic: تُـٔۡوِيهِ
     translation: sheltered him
     transliteration: tu'wīhi
 ---

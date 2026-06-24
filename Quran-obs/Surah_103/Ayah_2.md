@@ -1,21 +1,21 @@
 ---
-arabic_ayat: اِنَّ الۡاِنۡسَانَ لَفِىۡ خُسۡرٍۙ‏
+arabic_ayat: إِنَّ ٱلۡإِنسَٰنَ لَفِي خُسۡرٍ
 sentence_translation: Surely humanity is in ˹grave˺ loss,
 word_by_word:
   1:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   2:
-    arabic: الۡاِنۡسَانَ
+    arabic: ٱلۡإِنسَٰنَ
     translation: mankind
     transliteration: l-insāna
   3:
-    arabic: لَفِىۡ
+    arabic: لَفِي
     translation: (is) surely, in
     transliteration: lafī
   4:
-    arabic: خُسۡرٍۙ‏
+    arabic: خُسۡرٍ
     translation: loss
     transliteration: khus'rin
 ---

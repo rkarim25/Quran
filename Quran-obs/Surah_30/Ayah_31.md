@@ -1,27 +1,27 @@
 ---
-arabic_ayat: مُنِيۡبِيۡنَ اِلَيۡهِ وَاتَّقُوۡهُ وَاَقِيۡمُوا الصَّلٰوةَ وَلَا تَكُوۡنُوۡا
-  مِنَ الۡمُشۡرِكِيۡنَۙ‏
+arabic_ayat: ۞ مُنِيبِينَ إِلَيۡهِ وَٱتَّقُوهُ وَأَقِيمُواْ ٱلصَّلَوٰةَ وَلَا تَكُونُواْ
+  مِنَ ٱلۡمُشۡرِكِينَ
 sentence_translation: ˹O believers!˺ Always turn to Him ˹in repentance˺, be mindful
   of Him, and establish prayers. And do not be polytheists—
 word_by_word:
   1:
-    arabic: ۞ مُنِيۡبِيۡنَ
+    arabic: ۞ مُنِيبِينَ
     translation: Turning
     transliteration: munībīna
   2:
-    arabic: اِلَيۡهِ
+    arabic: إِلَيۡهِ
     translation: to Him
     transliteration: ilayhi
   3:
-    arabic: وَاتَّقُوۡهُ
+    arabic: وَٱتَّقُوهُ
     translation: and fear Him
     transliteration: wa-ittaqūhu
   4:
-    arabic: وَاَقِيۡمُوا
+    arabic: وَأَقِيمُواْ
     translation: and establish
     transliteration: wa-aqīmū
   5:
-    arabic: الصَّلٰوةَ
+    arabic: ٱلصَّلَوٰةَ
     translation: the prayer
     transliteration: l-ṣalata
   6:
@@ -29,7 +29,7 @@ word_by_word:
     translation: and (do) not
     transliteration: walā
   7:
-    arabic: تَكُوۡنُوۡا
+    arabic: تَكُونُواْ
     translation: be
     transliteration: takūnū
   8:
@@ -37,7 +37,7 @@ word_by_word:
     translation: of
     transliteration: mina
   9:
-    arabic: الۡمُشۡرِكِيۡنَۙ‏
+    arabic: ٱلۡمُشۡرِكِينَ
     translation: the polytheists
     transliteration: l-mush'rikīna
 ---

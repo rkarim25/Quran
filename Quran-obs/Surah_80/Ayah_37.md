@@ -1,5 +1,5 @@
 ---
-arabic_ayat: لِكُلِّ امۡرِیءٍ مِّنۡهُمۡ يَوۡمَٮِٕذٍ شَاۡنٌ يُّغۡنِيۡهِؕ‏
+arabic_ayat: لِكُلِّ ٱمۡرِيٕٖ مِّنۡهُمۡ يَوۡمَئِذٖ شَأۡنٞ يُغۡنِيهِ
 sentence_translation: For then everyone will have enough concern of their own.
 word_by_word:
   1:
@@ -7,7 +7,7 @@ word_by_word:
     translation: For every
     transliteration: likulli
   2:
-    arabic: امۡرِیءٍ
+    arabic: ٱمۡرِيٕٖ
     translation: man
     transliteration: im'ri-in
   3:
@@ -15,15 +15,15 @@ word_by_word:
     translation: among them
     transliteration: min'hum
   4:
-    arabic: يَوۡمَٮِٕذٍ
+    arabic: يَوۡمَئِذٖ
     translation: that Day
     transliteration: yawma-idhin
   5:
-    arabic: شَاۡنٌ
+    arabic: شَأۡنٞ
     translation: (will be) a matter
     transliteration: shanun
   6:
-    arabic: يُّغۡنِيۡهِؕ‏
+    arabic: يُغۡنِيهِ
     translation: occupying him
     transliteration: yugh'nīhi
 ---

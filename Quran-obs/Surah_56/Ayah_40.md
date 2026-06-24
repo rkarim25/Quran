@@ -1,9 +1,9 @@
 ---
-arabic_ayat: وَثُلَّةٌ مِّنَ الۡاٰخِرِيۡنَؕ‏
+arabic_ayat: وَثُلَّةٞ مِّنَ ٱلۡأٓخِرِينَ
 sentence_translation: and a multitude from later generations.
 word_by_word:
   1:
-    arabic: وَثُلَّةٌ
+    arabic: وَثُلَّةٞ
     translation: And a company
     transliteration: wathullatun
   2:
@@ -11,7 +11,7 @@ word_by_word:
     translation: of
     transliteration: mina
   3:
-    arabic: الۡاٰخِرِيۡنَؕ‏
+    arabic: ٱلۡأٓخِرِينَ
     translation: the later people
     transliteration: l-ākhirīna
 ---

@@ -1,5 +1,5 @@
 ---
-arabic_ayat: وَقَوۡمَ نُوۡحٍ مِّنۡ قَبۡلُ​ؕ اِنَّهُمۡ كَانُوۡا قَوۡمًا فٰسِقِيۡنَ‏
+arabic_ayat: وَقَوۡمَ نُوحٖ مِّن قَبۡلُۖ إِنَّهُمۡ كَانُواْ قَوۡمٗا فَٰسِقِينَ
 sentence_translation: And the people of Noah ˹had also been destroyed˺ earlier. They
   were truly a rebellious people.
 word_by_word:
@@ -8,31 +8,31 @@ word_by_word:
     translation: And (the) people
     transliteration: waqawma
   2:
-    arabic: نُوۡحٍ
+    arabic: نُوحٖ
     translation: (of) Nuh
     transliteration: nūḥin
   3:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: before
     transliteration: min
   4:
-    arabic: قَبۡلُ​ؕ
+    arabic: قَبۡلُۖ
     translation: before
     transliteration: qablu
   5:
-    arabic: اِنَّهُمۡ
+    arabic: إِنَّهُمۡ
     translation: indeed, they
     transliteration: innahum
   6:
-    arabic: كَانُوۡا
+    arabic: كَانُواْ
     translation: were
     transliteration: kānū
   7:
-    arabic: قَوۡمًا
+    arabic: قَوۡمٗا
     translation: a people
     transliteration: qawman
   8:
-    arabic: فٰسِقِيۡنَ‏
+    arabic: فَٰسِقِينَ
     translation: defiantly disobedient
     transliteration: fāsiqīna
 ---

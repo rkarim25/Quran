@@ -1,6 +1,6 @@
 ---
-arabic_ayat: فَلَمَّا جَآءَتۡهُمۡ رُسُلُهُمۡ بِالۡبَيِّنٰتِ فَرِحُوۡا بِمَا عِنۡدَهُمۡ
-  مِّنَ الۡعِلۡمِ وَحَاقَ بِهِمۡ مَّا كَانُوۡا بِهٖ يَسۡتَهۡزِءُوۡنَ‏
+arabic_ayat: فَلَمَّا جَآءَتۡهُمۡ رُسُلُهُم بِٱلۡبَيِّنَٰتِ فَرِحُواْ بِمَا عِندَهُم
+  مِّنَ ٱلۡعِلۡمِ وَحَاقَ بِهِم مَّا كَانُواْ بِهِۦ يَسۡتَهۡزِءُونَ
 sentence_translation: When their messengers came to them with clear proofs, they were
   prideful in whatever ˹worldly˺ knowledge they had, and were ˹ultimately˺ overwhelmed
   by what they used to ridicule.
@@ -14,15 +14,15 @@ word_by_word:
     translation: came to them
     transliteration: jāathum
   3:
-    arabic: رُسُلُهُمۡ
+    arabic: رُسُلُهُم
     translation: their Messengers
     transliteration: rusuluhum
   4:
-    arabic: بِالۡبَيِّنٰتِ
+    arabic: بِٱلۡبَيِّنَٰتِ
     translation: with clear proofs
     transliteration: bil-bayināti
   5:
-    arabic: فَرِحُوۡا
+    arabic: فَرِحُواْ
     translation: they rejoiced
     transliteration: fariḥū
   6:
@@ -30,7 +30,7 @@ word_by_word:
     translation: in what
     transliteration: bimā
   7:
-    arabic: عِنۡدَهُمۡ
+    arabic: عِندَهُم
     translation: they had
     transliteration: ʿindahum
   8:
@@ -38,7 +38,7 @@ word_by_word:
     translation: of
     transliteration: mina
   9:
-    arabic: الۡعِلۡمِ
+    arabic: ٱلۡعِلۡمِ
     translation: the knowledge
     transliteration: l-ʿil'mi
   10:
@@ -46,7 +46,7 @@ word_by_word:
     translation: and enveloped
     transliteration: waḥāqa
   11:
-    arabic: بِهِمۡ
+    arabic: بِهِم
     translation: them
     transliteration: bihim
   12:
@@ -54,15 +54,15 @@ word_by_word:
     translation: what
     transliteration: mā
   13:
-    arabic: كَانُوۡا
+    arabic: كَانُواْ
     translation: they used to
     transliteration: kānū
   14:
-    arabic: بِهٖ
+    arabic: بِهِۦ
     translation: '[at it]'
     transliteration: bihi
   15:
-    arabic: يَسۡتَهۡزِءُوۡنَ‏
+    arabic: يَسۡتَهۡزِءُونَ
     translation: mock
     transliteration: yastahziūna
 ---

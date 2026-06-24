@@ -1,38 +1,38 @@
 ---
-arabic_ayat: اَجَعَلَ الۡاٰلِهَةَ اِلٰهًا وَّاحِدًا ۖۚ اِنَّ هٰذَا لَشَىۡءٌ عُجَابٌ‏
+arabic_ayat: أَجَعَلَ ٱلۡأٓلِهَةَ إِلَٰهٗا وَٰحِدًاۖ إِنَّ هَٰذَا لَشَيۡءٌ عُجَابٞ
 sentence_translation: Has he reduced ˹all˺ the gods to One God? Indeed, this is something
   totally astonishing.”
 word_by_word:
   1:
-    arabic: اَجَعَلَ
+    arabic: أَجَعَلَ
     translation: Has he made
     transliteration: ajaʿala
   2:
-    arabic: الۡاٰلِهَةَ
+    arabic: ٱلۡأٓلِهَةَ
     translation: the gods
     transliteration: l-ālihata
   3:
-    arabic: اِلٰهًا
+    arabic: إِلَٰهٗا
     translation: (into) one god
     transliteration: ilāhan
   4:
-    arabic: وَّاحِدًا ۖۚ
+    arabic: وَٰحِدًاۖ
     translation: (into) one god
     transliteration: wāḥidan
   5:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   6:
-    arabic: هٰذَا
+    arabic: هَٰذَا
     translation: this
     transliteration: hādhā
   7:
-    arabic: لَشَىۡءٌ
+    arabic: لَشَيۡءٌ
     translation: (is) certainly a thing
     transliteration: lashayon
   8:
-    arabic: عُجَابٌ‏
+    arabic: عُجَابٞ
     translation: curious
     transliteration: ʿujābun
 ---

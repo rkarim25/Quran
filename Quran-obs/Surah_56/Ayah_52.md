@@ -1,25 +1,25 @@
 ---
-arabic_ayat: لَاٰكِلُوۡنَ مِنۡ شَجَرٍ مِّنۡ زَقُّوۡمٍۙ‏
+arabic_ayat: لَأٓكِلُونَ مِن شَجَرٖ مِّن زَقُّومٖ
 sentence_translation: will certainly eat from ˹the fruit of˺ the trees of Zaqqûm,
 word_by_word:
   1:
-    arabic: لَاٰكِلُوۡنَ
+    arabic: لَأٓكِلُونَ
     translation: Will surely eat
     transliteration: laākilūna
   2:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   3:
-    arabic: شَجَرٍ
+    arabic: شَجَرٖ
     translation: (the) tree
     transliteration: shajarin
   4:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: of
     transliteration: min
   5:
-    arabic: زَقُّوۡمٍۙ‏
+    arabic: زَقُّومٖ
     translation: Zaqqum
     transliteration: zaqqūmin
 ---

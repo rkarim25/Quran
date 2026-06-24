@@ -1,5 +1,5 @@
 ---
-arabic_ayat: كَذَّبَتۡ قَوۡمُ لُوۡطٍ ۢ بِالنُّذُرِ‏
+arabic_ayat: كَذَّبَتۡ قَوۡمُ لُوطِۭ بِٱلنُّذُرِ
 sentence_translation: The people of Lot ˹also˺ rejected the warnings.
 word_by_word:
   1:
@@ -11,11 +11,11 @@ word_by_word:
     translation: (the) people
     transliteration: qawmu
   3:
-    arabic: لُوۡطٍ ۢ
+    arabic: لُوطِۭ
     translation: (of) Lut
     transliteration: lūṭin
   4:
-    arabic: بِالنُّذُرِ‏
+    arabic: بِٱلنُّذُرِ
     translation: the warnings
     transliteration: bil-nudhuri
 ---

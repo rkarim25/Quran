@@ -1,39 +1,39 @@
 ---
-arabic_ayat: وَاِذَا رَاَوۡكَ اِنۡ يَّتَّخِذُوۡنَكَ اِلَّا هُزُوًا ؕ اَهٰذَا الَّذِىۡ
-  بَعَثَ اللّٰهُ رَسُوۡلًا‏
+arabic_ayat: وَإِذَا رَأَوۡكَ إِن يَتَّخِذُونَكَ إِلَّا هُزُوًا أَهَٰذَا ٱلَّذِي بَعَثَ
+  ٱللَّهُ رَسُولًا
 sentence_translation: When they see you ˹O Prophet˺, they only make fun of you, ˹saying,˺
   “Is this the one that Allah has sent as a messenger?
 word_by_word:
   1:
-    arabic: وَاِذَا
+    arabic: وَإِذَا
     translation: And when
     transliteration: wa-idhā
   2:
-    arabic: رَاَوۡكَ
+    arabic: رَأَوۡكَ
     translation: they see you
     transliteration: ra-awka
   3:
-    arabic: اِنۡ
+    arabic: إِن
     translation: not
     transliteration: in
   4:
-    arabic: يَّتَّخِذُوۡنَكَ
+    arabic: يَتَّخِذُونَكَ
     translation: they take you
     transliteration: yattakhidhūnaka
   5:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   6:
-    arabic: هُزُوًا ؕ
+    arabic: هُزُوًا
     translation: (in) mockery
     transliteration: huzuwan
   7:
-    arabic: اَهٰذَا
+    arabic: أَهَٰذَا
     translation: Is this
     transliteration: ahādhā
   8:
-    arabic: الَّذِىۡ
+    arabic: ٱلَّذِي
     translation: the one whom
     transliteration: alladhī
   9:
@@ -41,11 +41,11 @@ word_by_word:
     translation: Allah has sent
     transliteration: baʿatha
   10:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah has sent
     transliteration: l-lahu
   11:
-    arabic: رَسُوۡلًا‏
+    arabic: رَسُولًا
     translation: (as) a Messenger
     transliteration: rasūlan
 ---

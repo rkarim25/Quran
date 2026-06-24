@@ -1,27 +1,27 @@
 ---
-arabic_ayat: وَيَعۡبُدُوۡنَ مِنۡ دُوۡنِ اللّٰهِ مَا لَا يَضُرُّهُمۡ وَلَا يَنۡفَعُهُمۡ
-  وَيَقُوۡلُوۡنَ هٰٓؤُلَاۤءِ شُفَعَآؤُنَا عِنۡدَ اللّٰهِ​ؕ قُلۡ اَتُـنَـبِّـــُٔوۡنَ
-  اللّٰهَ بِمَا لَا يَعۡلَمُ فِى السَّمٰوٰتِ وَلَا فِى الۡاَرۡضِ​ؕ سُبۡحٰنَهٗ وَتَعٰلٰى
-  عَمَّا يُشۡرِكُوۡنَ‏
+arabic_ayat: وَيَعۡبُدُونَ مِن دُونِ ٱللَّهِ مَا لَا يَضُرُّهُمۡ وَلَا يَنفَعُهُمۡ
+  وَيَقُولُونَ هَٰٓؤُلَآءِ شُفَعَٰٓؤُنَا عِندَ ٱللَّهِۚ قُلۡ أَتُنَبِّـُٔونَ ٱللَّهَ
+  بِمَا لَا يَعۡلَمُ فِي ٱلسَّمَٰوَٰتِ وَلَا فِي ٱلۡأَرۡضِۚ سُبۡحَٰنَهُۥ وَتَعَٰلَىٰ
+  عَمَّا يُشۡرِكُونَ
 sentence_translation: They worship besides Allah others who can neither harm nor benefit
   them, and say, “These are our intercessors with Allah.” Ask ˹them, O  Prophet˺,
   “Are you informing Allah of something He does not know in the heavens or the earth?
   Glorified and Exalted is He above what they associate ˹with Him˺!”
 word_by_word:
   1:
-    arabic: وَيَعۡبُدُوۡنَ
+    arabic: وَيَعۡبُدُونَ
     translation: And they worship
     transliteration: wayaʿbudūna
   2:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   3:
-    arabic: دُوۡنِ
+    arabic: دُونِ
     translation: other than
     transliteration: dūni
   4:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   5:
@@ -41,27 +41,27 @@ word_by_word:
     translation: and not
     transliteration: walā
   9:
-    arabic: يَنۡفَعُهُمۡ
+    arabic: يَنفَعُهُمۡ
     translation: benefit them
     transliteration: yanfaʿuhum
   10:
-    arabic: وَيَقُوۡلُوۡنَ
+    arabic: وَيَقُولُونَ
     translation: and they say
     transliteration: wayaqūlūna
   11:
-    arabic: هٰٓؤُلَاۤءِ
+    arabic: هَٰٓؤُلَآءِ
     translation: These
     transliteration: hāulāi
   12:
-    arabic: شُفَعَآؤُنَا
+    arabic: شُفَعَٰٓؤُنَا
     translation: (are) our intercessors
     transliteration: shufaʿāunā
   13:
-    arabic: عِنۡدَ
+    arabic: عِندَ
     translation: with
     transliteration: ʿinda
   14:
-    arabic: اللّٰهِ​ؕ
+    arabic: ٱللَّهِۚ
     translation: Allah
     transliteration: l-lahi
   15:
@@ -69,11 +69,11 @@ word_by_word:
     translation: Say
     transliteration: qul
   16:
-    arabic: اَتُـنَـبِّـــُٔوۡنَ
+    arabic: أَتُنَبِّـُٔونَ
     translation: Do you inform
     transliteration: atunabbiūna
   17:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   18:
@@ -89,11 +89,11 @@ word_by_word:
     translation: he knows
     transliteration: yaʿlamu
   21:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   22:
-    arabic: السَّمٰوٰتِ
+    arabic: ٱلسَّمَٰوَٰتِ
     translation: the heavens
     transliteration: l-samāwāti
   23:
@@ -101,19 +101,19 @@ word_by_word:
     translation: and not
     transliteration: walā
   24:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   25:
-    arabic: الۡاَرۡضِ​ؕ
+    arabic: ٱلۡأَرۡضِۚ
     translation: the earth
     transliteration: l-arḍi
   26:
-    arabic: سُبۡحٰنَهٗ
+    arabic: سُبۡحَٰنَهُۥ
     translation: Glorified is He
     transliteration: sub'ḥānahu
   27:
-    arabic: وَتَعٰلٰى
+    arabic: وَتَعَٰلَىٰ
     translation: and Exalted
     transliteration: wataʿālā
   28:
@@ -121,7 +121,7 @@ word_by_word:
     translation: above what
     transliteration: ʿammā
   29:
-    arabic: يُشۡرِكُوۡنَ‏
+    arabic: يُشۡرِكُونَ
     translation: they associate (with Him)
     transliteration: yush'rikūna
 ---

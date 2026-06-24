@@ -1,9 +1,9 @@
 ---
-arabic_ayat: اِقۡرَاۡ وَرَبُّكَ الۡاَكۡرَمُۙ‏
+arabic_ayat: ٱقۡرَأۡ وَرَبُّكَ ٱلۡأَكۡرَمُ
 sentence_translation: Read! And your Lord is the Most Generous,
 word_by_word:
   1:
-    arabic: اِقۡرَاۡ
+    arabic: ٱقۡرَأۡ
     translation: Read
     transliteration: iq'ra
   2:
@@ -11,7 +11,7 @@ word_by_word:
     translation: and your Lord
     transliteration: warabbuka
   3:
-    arabic: الۡاَكۡرَمُۙ‏
+    arabic: ٱلۡأَكۡرَمُ
     translation: (is) the Most Generous
     transliteration: l-akramu
 ---

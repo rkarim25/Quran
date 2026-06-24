@@ -1,64 +1,64 @@
 ---
-arabic_ayat: كَدَاۡبِ اٰلِ فِرۡعَوۡنَۙ وَالَّذِيۡنَ مِنۡ قَبۡلِهِمۡ​ؕ كَذَّبُوۡا بِاٰيٰتِنَا ​ۚ
-  فَاَخَذَهُمُ اللّٰهُ بِذُنُوۡبِهِمۡ​ؕ وَاللّٰهُ شَدِيۡدُ الۡعِقَابِ‏
+arabic_ayat: كَدَأۡبِ ءَالِ فِرۡعَوۡنَ وَٱلَّذِينَ مِن قَبۡلِهِمۡۚ كَذَّبُواْ بِـَٔايَٰتِنَا
+  فَأَخَذَهُمُ ٱللَّهُ بِذُنُوبِهِمۡۗ وَٱللَّهُ شَدِيدُ ٱلۡعِقَابِ
 sentence_translation: Their fate will be like that of the people of Pharaoh and those
   before them—they all rejected Our signs, so Allah seized them for their sins. And
   Allah is severe in punishment.
 word_by_word:
   1:
-    arabic: كَدَاۡبِ
+    arabic: كَدَأۡبِ ءَ
     translation: Like behavior
     transliteration: kadabi
   2:
-    arabic: اٰلِ
+    arabic: الِ
     translation: (of the) people
     transliteration: āli
   3:
-    arabic: فِرۡعَوۡنَۙ
+    arabic: فِرۡعَوۡنَ
     translation: (of) Firaun
     transliteration: fir'ʿawna
   4:
-    arabic: وَالَّذِيۡنَ
+    arabic: وَٱلَّذِينَ
     translation: and those who
     transliteration: wa-alladhīna
   5:
-    arabic: مِنۡ
+    arabic: مِن
     translation: (were) from
     transliteration: min
   6:
-    arabic: قَبۡلِهِمۡ​ؕ
+    arabic: قَبۡلِهِمۡۚ
     translation: before them
     transliteration: qablihim
   7:
-    arabic: كَذَّبُوۡا
+    arabic: كَذَّبُواْ
     translation: They denied
     transliteration: kadhabū
   8:
-    arabic: بِاٰيٰتِنَا ​ۚ
+    arabic: بِـَٔايَٰتِنَا
     translation: Our Signs
     transliteration: biāyātinā
   9:
-    arabic: فَاَخَذَهُمُ
+    arabic: فَأَخَذَهُمُ
     translation: so seized them
     transliteration: fa-akhadhahumu
   10:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   11:
-    arabic: بِذُنُوۡبِهِمۡ​ؕ
+    arabic: بِذُنُوبِهِمۡۗ
     translation: for their sins
     transliteration: bidhunūbihim
   12:
-    arabic: وَاللّٰهُ
+    arabic: وَٱللَّهُ
     translation: And Allah
     transliteration: wal-lahu
   13:
-    arabic: شَدِيۡدُ
+    arabic: شَدِيدُ
     translation: (is) severe
     transliteration: shadīdu
   14:
-    arabic: الۡعِقَابِ‏
+    arabic: ٱلۡعِقَابِ
     translation: (in) [the] punishment
     transliteration: l-ʿiqābi
 ---

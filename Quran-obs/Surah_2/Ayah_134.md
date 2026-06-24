@@ -1,6 +1,6 @@
 ---
-arabic_ayat: تِلۡكَ اُمَّةٌ قَدۡ خَلَتۡ​ۚ لَهَا مَا كَسَبَتۡ وَلَـكُمۡ مَّا كَسَبۡتُمۡ​ۚ
-  وَلَا تُسۡـَٔـلُوۡنَ عَمَّا كَانُوۡا يَعۡمَلُوۡنَ‏
+arabic_ayat: تِلۡكَ أُمَّةٞ قَدۡ خَلَتۡۖ لَهَا مَا كَسَبَتۡ وَلَكُم مَّا كَسَبۡتُمۡۖ
+  وَلَا تُسۡـَٔلُونَ عَمَّا كَانُواْ يَعۡمَلُونَ
 sentence_translation: That was a community that had already gone before. For them
   is what they earned and for you is what you have earned. And you will not be accountable
   for what they have done.
@@ -10,7 +10,7 @@ word_by_word:
     translation: This
     transliteration: til'ka
   2:
-    arabic: اُمَّةٌ
+    arabic: أُمَّةٞ
     translation: (was) a community
     transliteration: ummatun
   3:
@@ -18,7 +18,7 @@ word_by_word:
     translation: (which)
     transliteration: qad
   4:
-    arabic: خَلَتۡ​ۚ
+    arabic: خَلَتۡۖ
     translation: has passed away
     transliteration: khalat
   5:
@@ -34,7 +34,7 @@ word_by_word:
     translation: it earned
     transliteration: kasabat
   8:
-    arabic: وَلَـكُمۡ
+    arabic: وَلَكُم
     translation: and for you
     transliteration: walakum
   9:
@@ -42,7 +42,7 @@ word_by_word:
     translation: what
     transliteration: mā
   10:
-    arabic: كَسَبۡتُمۡ​ۚ
+    arabic: كَسَبۡتُمۡۖ
     translation: you have earned
     transliteration: kasabtum
   11:
@@ -50,7 +50,7 @@ word_by_word:
     translation: And not
     transliteration: walā
   12:
-    arabic: تُسۡـَٔـلُوۡنَ
+    arabic: تُسۡـَٔلُونَ
     translation: you will be asked
     transliteration: tus'alūna
   13:
@@ -58,11 +58,11 @@ word_by_word:
     translation: about what
     transliteration: ʿammā
   14:
-    arabic: كَانُوۡا
+    arabic: كَانُواْ
     translation: they used to
     transliteration: kānū
   15:
-    arabic: يَعۡمَلُوۡنَ‏
+    arabic: يَعۡمَلُونَ
     translation: do
     transliteration: yaʿmalūna
 ---

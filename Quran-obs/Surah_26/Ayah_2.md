@@ -1,21 +1,21 @@
 ---
-arabic_ayat: تِلۡكَ اٰيٰتُ الۡكِتٰبِ الۡمُبِيۡنِ‏
+arabic_ayat: تِلۡكَ ءَايَٰتُ ٱلۡكِتَٰبِ ٱلۡمُبِينِ
 sentence_translation: These are the verses of the clear Book.
 word_by_word:
   1:
-    arabic: تِلۡكَ
+    arabic: تِلۡكَ ءَ
     translation: These
     transliteration: til'ka
   2:
-    arabic: اٰيٰتُ
+    arabic: ايَٰتُ
     translation: (are the) Verses
     transliteration: āyātu
   3:
-    arabic: الۡكِتٰبِ
+    arabic: ٱلۡكِتَٰبِ
     translation: (of) the Book
     transliteration: l-kitābi
   4:
-    arabic: الۡمُبِيۡنِ‏
+    arabic: ٱلۡمُبِينِ
     translation: clear
     transliteration: l-mubīni
 ---

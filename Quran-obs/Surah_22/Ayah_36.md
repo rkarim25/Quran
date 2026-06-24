@@ -1,8 +1,8 @@
 ---
-arabic_ayat: وَالۡبُدۡنَ جَعَلۡنٰهَا لَـكُمۡ مِّنۡ شَعَآٮِٕرِ اللّٰهِ لَـكُمۡ فِيۡهَا
-  خَيۡرٌ​ ​ۖ  فَاذۡكُرُوا اسۡمَ اللّٰهِ عَلَيۡهَا صَوَآفَّ​ ۚ فَاِذَا وَجَبَتۡ جُنُوۡبُهَا
-  فَكُلُوۡا مِنۡهَا وَاَطۡعِمُوا الۡقَانِعَ وَالۡمُعۡتَـرَّ ​ؕ كَذٰلِكَ سَخَّرۡنٰهَا
-  لَـكُمۡ لَعَلَّكُمۡ تَشۡكُرُوۡنَ‏
+arabic_ayat: وَٱلۡبُدۡنَ جَعَلۡنَٰهَا لَكُم مِّن شَعَٰٓئِرِ ٱللَّهِ لَكُمۡ فِيهَا
+  خَيۡرٞۖ فَٱذۡكُرُواْ ٱسۡمَ ٱللَّهِ عَلَيۡهَا صَوَآفَّۖ فَإِذَا وَجَبَتۡ جُنُوبُهَا
+  فَكُلُواْ مِنۡهَا وَأَطۡعِمُواْ ٱلۡقَانِعَ وَٱلۡمُعۡتَرَّۚ كَذَٰلِكَ سَخَّرۡنَٰهَا
+  لَكُمۡ لَعَلَّكُمۡ تَشۡكُرُونَ
 sentence_translation: We have made sacrificial camels ˹and cattle˺ among the symbols
   of Allah, in which there is ˹much˺ good for you. So pronounce the Name of Allah
   over them when they are lined up ˹for sacrifice˺. Once they have fallen ˹lifeless˺
@@ -11,51 +11,51 @@ sentence_translation: We have made sacrificial camels ˹and cattle˺ among the s
   you may be grateful.
 word_by_word:
   1:
-    arabic: وَالۡبُدۡنَ
+    arabic: وَٱلۡبُدۡنَ
     translation: 'And the camels and cattle '
     transliteration: wal-bud'na
   2:
-    arabic: جَعَلۡنٰهَا
+    arabic: جَعَلۡنَٰهَا
     translation: We have made them
     transliteration: jaʿalnāhā
   3:
-    arabic: لَـكُمۡ
+    arabic: لَكُم
     translation: for you
     transliteration: lakum
   4:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: among
     transliteration: min
   5:
-    arabic: شَعَآٮِٕرِ
+    arabic: شَعَٰٓئِرِ
     translation: (the) Symbols
     transliteration: shaʿāiri
   6:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (of) Allah
     transliteration: l-lahi
   7:
-    arabic: لَـكُمۡ
+    arabic: لَكُمۡ
     translation: for you
     transliteration: lakum
   8:
-    arabic: فِيۡهَا
+    arabic: فِيهَا
     translation: therein
     transliteration: fīhā
   9:
-    arabic: خَيۡرٌ​ ​ۖ 
+    arabic: خَيۡرٞۖ
     translation: (is) good
     transliteration: khayrun
   10:
-    arabic: فَاذۡكُرُوا
+    arabic: فَٱذۡكُرُواْ
     translation: So mention
     transliteration: fa-udh'kurū
   11:
-    arabic: اسۡمَ
+    arabic: ٱسۡمَ
     translation: (the) name
     transliteration: is'ma
   12:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (of) Allah
     transliteration: l-lahi
   13:
@@ -63,11 +63,11 @@ word_by_word:
     translation: over them
     transliteration: ʿalayhā
   14:
-    arabic: صَوَآفَّ​ ۚ
+    arabic: صَوَآفَّۖ
     translation: (when) lined up
     transliteration: ṣawāffa
   15:
-    arabic: فَاِذَا
+    arabic: فَإِذَا
     translation: and when
     transliteration: fa-idhā
   16:
@@ -75,11 +75,11 @@ word_by_word:
     translation: are down
     transliteration: wajabat
   17:
-    arabic: جُنُوۡبُهَا
+    arabic: جُنُوبُهَا
     translation: their sides
     transliteration: junūbuhā
   18:
-    arabic: فَكُلُوۡا
+    arabic: فَكُلُواْ
     translation: then eat
     transliteration: fakulū
   19:
@@ -87,27 +87,27 @@ word_by_word:
     translation: from them
     transliteration: min'hā
   20:
-    arabic: وَاَطۡعِمُوا
+    arabic: وَأَطۡعِمُواْ
     translation: and feed
     transliteration: wa-aṭʿimū
   21:
-    arabic: الۡقَانِعَ
+    arabic: ٱلۡقَانِعَ
     translation: the needy who do not ask
     transliteration: l-qāniʿa
   22:
-    arabic: وَالۡمُعۡتَـرَّ ​ؕ
+    arabic: وَٱلۡمُعۡتَرَّۚ
     translation: and the needy who ask
     transliteration: wal-muʿ'tara
   23:
-    arabic: كَذٰلِكَ
+    arabic: كَذَٰلِكَ
     translation: Thus
     transliteration: kadhālika
   24:
-    arabic: سَخَّرۡنٰهَا
+    arabic: سَخَّرۡنَٰهَا
     translation: We have subjected them
     transliteration: sakharnāhā
   25:
-    arabic: لَـكُمۡ
+    arabic: لَكُمۡ
     translation: to you
     transliteration: lakum
   26:
@@ -115,7 +115,7 @@ word_by_word:
     translation: so that you may
     transliteration: laʿallakum
   27:
-    arabic: تَشۡكُرُوۡنَ‏
+    arabic: تَشۡكُرُونَ
     translation: be grateful
     transliteration: tashkurūna
 ---

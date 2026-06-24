@@ -1,45 +1,44 @@
 ---
-arabic_ayat: "وَيَقُوۡلُ الَّذِيۡنَ كَفَرُوۡا لَوۡلَاۤ اُنۡزِلَ عَلَيۡهِ اٰيَةٌ مِّنۡ\
-  \ رَّبِّهٖؕ قُلۡ اِنَّ اللّٰهَ يُضِلُّ مَنۡ يَّشَآءُ وَيَهۡدِىۡۤ اِلَيۡهِ مَنۡ\
-  \ اَنَابَ ​ۖ ​ۚ‏ \uFEFF\uFEFF"
+arabic_ayat: وَيَقُولُ ٱلَّذِينَ كَفَرُواْ لَوۡلَآ أُنزِلَ عَلَيۡهِ ءَايَةٞ مِّن
+  رَّبِّهِۦۚ قُلۡ إِنَّ ٱللَّهَ يُضِلُّ مَن يَشَآءُ وَيَهۡدِيٓ إِلَيۡهِ مَنۡ أَنَابَ
 sentence_translation: The disbelievers say, “If only a sign could be sent down to
   him from his Lord.” Say, ˹O Prophet,˺ “Indeed, Allah leaves to stray whoever He
   wills, and guides to Himself whoever turns to Him—
 word_by_word:
   1:
-    arabic: وَيَقُوۡلُ
+    arabic: وَيَقُولُ
     translation: And say
     transliteration: wayaqūlu
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   3:
-    arabic: كَفَرُوۡا
+    arabic: كَفَرُواْ
     translation: disbelieved
     transliteration: kafarū
   4:
-    arabic: لَوۡلَاۤ
+    arabic: لَوۡلَآ
     translation: Why has not
     transliteration: lawlā
   5:
-    arabic: اُنۡزِلَ
+    arabic: أُنزِلَ
     translation: been sent down
     transliteration: unzila
   6:
-    arabic: عَلَيۡهِ
+    arabic: عَلَيۡهِ ءَ
     translation: upon him
     transliteration: ʿalayhi
   7:
-    arabic: اٰيَةٌ
+    arabic: ايَةٞ
     translation: a Sign
     transliteration: āyatun
   8:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: from
     transliteration: min
   9:
-    arabic: رَّبِّهٖؕ
+    arabic: رَّبِّهِۦۚ
     translation: his Lord
     transliteration: rabbihi
   10:
@@ -47,11 +46,11 @@ word_by_word:
     translation: Say
     transliteration: qul
   11:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   12:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   13:
@@ -59,19 +58,19 @@ word_by_word:
     translation: lets go astray
     transliteration: yuḍillu
   14:
-    arabic: مَنۡ
+    arabic: مَن
     translation: whom
     transliteration: man
   15:
-    arabic: يَّشَآءُ
+    arabic: يَشَآءُ
     translation: He wills
     transliteration: yashāu
   16:
-    arabic: وَيَهۡدِىۡۤ
+    arabic: وَيَهۡدِيٓ
     translation: and guides
     transliteration: wayahdī
   17:
-    arabic: اِلَيۡهِ
+    arabic: إِلَيۡهِ
     translation: to Himself
     transliteration: ilayhi
   18:
@@ -79,7 +78,7 @@ word_by_word:
     translation: whoever
     transliteration: man
   19:
-    arabic: "اَنَابَ ​ۖ ​ۚ‏ \uFEFF\uFEFF"
+    arabic: أَنَابَ
     translation: turns back
     transliteration: anāba
 ---

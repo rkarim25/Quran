@@ -1,14 +1,14 @@
 ---
-arabic_ayat: نُمَتّـِعُهُمۡ قَلِيۡلًا ثُمَّ نَضۡطَرُّهُمۡ اِلٰى عَذَابٍ غَلِيۡظٍ‏
+arabic_ayat: نُمَتِّعُهُمۡ قَلِيلٗا ثُمَّ نَضۡطَرُّهُمۡ إِلَىٰ عَذَابٍ غَلِيظٖ
 sentence_translation: We allow them enjoyment for a little while, then ˹in time˺ We
   will force them into a harsh torment.
 word_by_word:
   1:
-    arabic: نُمَتّـِعُهُمۡ
+    arabic: نُمَتِّعُهُمۡ
     translation: We grant them enjoyment
     transliteration: numattiʿuhum
   2:
-    arabic: قَلِيۡلًا
+    arabic: قَلِيلٗا
     translation: (for) a little
     transliteration: qalīlan
   3:
@@ -20,7 +20,7 @@ word_by_word:
     translation: We will force them
     transliteration: naḍṭarruhum
   5:
-    arabic: اِلٰى
+    arabic: إِلَىٰ
     translation: to
     transliteration: ilā
   6:
@@ -28,7 +28,7 @@ word_by_word:
     translation: a punishment
     transliteration: ʿadhābin
   7:
-    arabic: غَلِيۡظٍ‏
+    arabic: غَلِيظٖ
     translation: severe
     transliteration: ghalīẓin
 ---

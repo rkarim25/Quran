@@ -1,15 +1,15 @@
 ---
-arabic_ayat: سَوَآءٌ مِّنۡكُمۡ مَّنۡ اَسَرَّ الۡقَوۡلَ وَ مَنۡ جَهَرَ بِهٖ وَمَنۡ
-  هُوَ مُسۡتَخۡفٍۢ بِالَّيۡلِ وَسَارِبٌۢ بِالنَّهَارِ‏
+arabic_ayat: سَوَآءٞ مِّنكُم مَّنۡ أَسَرَّ ٱلۡقَوۡلَ وَمَن جَهَرَ بِهِۦ وَمَنۡ هُوَ
+  مُسۡتَخۡفِۭ بِٱلَّيۡلِ وَسَارِبُۢ بِٱلنَّهَارِ
 sentence_translation: It is the same ˹to Him˺ whether any of you speaks secretly or
   openly, whether one hides in the darkness of night or goes about in broad daylight.
 word_by_word:
   1:
-    arabic: سَوَآءٌ
+    arabic: سَوَآءٞ
     translation: (It is) same (to Him)
     transliteration: sawāon
   2:
-    arabic: مِّنۡكُمۡ
+    arabic: مِّنكُم
     translation: '[of you]'
     transliteration: minkum
   3:
@@ -17,15 +17,15 @@ word_by_word:
     translation: (one) who
     transliteration: man
   4:
-    arabic: اَسَرَّ
+    arabic: أَسَرَّ
     translation: conceals
     transliteration: asarra
   5:
-    arabic: الۡقَوۡلَ
+    arabic: ٱلۡقَوۡلَ
     translation: the speech
     transliteration: l-qawla
   6:
-    arabic: وَ مَنۡ
+    arabic: وَمَن
     translation: or (one) who
     transliteration: waman
   7:
@@ -33,7 +33,7 @@ word_by_word:
     translation: publicizes
     transliteration: jahara
   8:
-    arabic: بِهٖ
+    arabic: بِهِۦ
     translation: it
     transliteration: bihi
   9:
@@ -45,19 +45,19 @@ word_by_word:
     translation: '[he]'
     transliteration: huwa
   11:
-    arabic: مُسۡتَخۡفٍۢ
+    arabic: مُسۡتَخۡفِۭ
     translation: (is) hidden
     transliteration: mus'takhfin
   12:
-    arabic: بِالَّيۡلِ
+    arabic: بِٱلَّيۡلِ
     translation: by night
     transliteration: bi-al-layli
   13:
-    arabic: وَسَارِبٌۢ
+    arabic: وَسَارِبُۢ
     translation: or goes freely
     transliteration: wasāribun
   14:
-    arabic: بِالنَّهَارِ‏
+    arabic: بِٱلنَّهَارِ
     translation: by day
     transliteration: bil-nahāri
 ---

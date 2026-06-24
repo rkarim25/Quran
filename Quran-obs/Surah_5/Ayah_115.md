@@ -1,7 +1,6 @@
 ---
-arabic_ayat: "قَالَ اللّٰهُ اِنِّىۡ مُنَزِّلُهَا عَلَيۡكُمۡ​ۚ فَمَنۡ يَّكۡفُرۡ بَعۡدُ\
-  \ مِنۡكُمۡ فَاِنِّىۡۤ اُعَذِّبُهٗ عَذَابًا لَّاۤ اُعَذِّبُهٗۤ اَحَدًا مِّنَ الۡعٰلَمِيۡنَ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: قَالَ ٱللَّهُ إِنِّي مُنَزِّلُهَا عَلَيۡكُمۡۖ فَمَن يَكۡفُرۡ بَعۡدُ مِنكُمۡ
+  فَإِنِّيٓ أُعَذِّبُهُۥ عَذَابٗا لَّآ أُعَذِّبُهُۥٓ أَحَدٗا مِّنَ ٱلۡعَٰلَمِينَ
 sentence_translation: Allah answered, “I am sending it down to you. But whoever among
   you denies afterwards will be subjected to a torment I have never inflicted on anyone
   of My creation.”
@@ -11,11 +10,11 @@ word_by_word:
     translation: Said
     transliteration: qāla
   2:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   3:
-    arabic: اِنِّىۡ
+    arabic: إِنِّي
     translation: Indeed I
     transliteration: innī
   4:
@@ -23,15 +22,15 @@ word_by_word:
     translation: (will) send it down
     transliteration: munazziluhā
   5:
-    arabic: عَلَيۡكُمۡ​ۚ
+    arabic: عَلَيۡكُمۡۖ
     translation: to you
     transliteration: ʿalaykum
   6:
-    arabic: فَمَنۡ
+    arabic: فَمَن
     translation: then whoever
     transliteration: faman
   7:
-    arabic: يَّكۡفُرۡ
+    arabic: يَكۡفُرۡ
     translation: disbelieves
     transliteration: yakfur
   8:
@@ -39,31 +38,31 @@ word_by_word:
     translation: after (that)
     transliteration: baʿdu
   9:
-    arabic: مِنۡكُمۡ
+    arabic: مِنكُمۡ
     translation: among you
     transliteration: minkum
   10:
-    arabic: فَاِنِّىۡۤ
+    arabic: فَإِنِّيٓ
     translation: then indeed I
     transliteration: fa-innī
   11:
-    arabic: اُعَذِّبُهٗ
+    arabic: أُعَذِّبُهُۥ
     translation: '[I] will punish him'
     transliteration: uʿadhibuhu
   12:
-    arabic: عَذَابًا
+    arabic: عَذَابٗا
     translation: (with) a punishment
     transliteration: ʿadhāban
   13:
-    arabic: لَّاۤ
+    arabic: لَّآ
     translation: not
     transliteration: lā
   14:
-    arabic: اُعَذِّبُهٗۤ
+    arabic: أُعَذِّبُهُۥٓ
     translation: I have punished
     transliteration: uʿadhibuhu
   15:
-    arabic: اَحَدًا
+    arabic: أَحَدٗا
     translation: anyone
     transliteration: aḥadan
   16:
@@ -71,7 +70,7 @@ word_by_word:
     translation: among
     transliteration: mina
   17:
-    arabic: "الۡعٰلَمِيۡنَ‏ \uFEFF\uFEFF"
+    arabic: ٱلۡعَٰلَمِينَ
     translation: the worlds
     transliteration: l-ʿālamīna
 ---

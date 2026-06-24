@@ -1,36 +1,36 @@
 ---
-arabic_ayat: فَفَهَّمۡنٰهَا سُلَيۡمٰنَ​​ۚ وَكُلًّا اٰتَيۡنَا حُكۡمًا وَّعِلۡمًا​
-  وَّسَخَّرۡنَا مَعَ دَاوٗدَ الۡجِبَالَ يُسَبِّحۡنَ وَالطَّيۡرَ​ ؕ وَكُنَّا فٰعِلِيۡنَ‏
+arabic_ayat: فَفَهَّمۡنَٰهَا سُلَيۡمَٰنَۚ وَكُلًّا ءَاتَيۡنَا حُكۡمٗا وَعِلۡمٗاۚ وَسَخَّرۡنَا
+  مَعَ دَاوُۥدَ ٱلۡجِبَالَ يُسَبِّحۡنَ وَٱلطَّيۡرَۚ وَكُنَّا فَٰعِلِينَ
 sentence_translation: We guided ˹young˺ Solomon to a fairer settlement, and granted
   each of them wisdom and knowledge. We subjected the mountains as well as the birds
   to hymn ˹Our praises˺ along with David. It is We Who did ˹it all˺.
 word_by_word:
   1:
-    arabic: فَفَهَّمۡنٰهَا
+    arabic: فَفَهَّمۡنَٰهَا
     translation: And We gave understanding of it
     transliteration: fafahhamnāhā
   2:
-    arabic: سُلَيۡمٰنَ​​ۚ
+    arabic: سُلَيۡمَٰنَۚ
     translation: (to) Sulaiman
     transliteration: sulaymāna
   3:
-    arabic: وَكُلًّا
+    arabic: وَكُلًّا ءَ
     translation: and (to) each
     transliteration: wakullan
   4:
-    arabic: اٰتَيۡنَا
+    arabic: اتَيۡنَا
     translation: We gave
     transliteration: ātaynā
   5:
-    arabic: حُكۡمًا
+    arabic: حُكۡمٗا
     translation: judgment
     transliteration: ḥuk'man
   6:
-    arabic: وَّعِلۡمًا​
+    arabic: وَعِلۡمٗاۚ
     translation: and knowledge
     transliteration: waʿil'man
   7:
-    arabic: وَّسَخَّرۡنَا
+    arabic: وَسَخَّرۡنَا
     translation: And We subjected
     transliteration: wasakharnā
   8:
@@ -38,11 +38,11 @@ word_by_word:
     translation: with
     transliteration: maʿa
   9:
-    arabic: دَاوٗدَ
+    arabic: دَاوُۥدَ
     translation: Dawud
     transliteration: dāwūda
   10:
-    arabic: الۡجِبَالَ
+    arabic: ٱلۡجِبَالَ
     translation: the mountains
     transliteration: l-jibāla
   11:
@@ -50,7 +50,7 @@ word_by_word:
     translation: (to) glorify Our praises
     transliteration: yusabbiḥ'na
   12:
-    arabic: وَالطَّيۡرَ​ ؕ
+    arabic: وَٱلطَّيۡرَۚ
     translation: and the birds
     transliteration: wal-ṭayra
   13:
@@ -58,7 +58,7 @@ word_by_word:
     translation: And We were
     transliteration: wakunnā
   14:
-    arabic: فٰعِلِيۡنَ‏
+    arabic: فَٰعِلِينَ
     translation: the Doers
     transliteration: fāʿilīna
 ---

@@ -1,15 +1,15 @@
 ---
-arabic_ayat: تَتَجَافٰى جُنُوۡبُهُمۡ عَنِ الۡمَضَاجِعِ يَدۡعُوۡنَ رَبَّهُمۡ خَوۡفًا
-  وَّطَمَعًا وَّمِمَّا رَزَقۡنٰهُمۡ يُنۡفِقُوۡنَ‏
+arabic_ayat: تَتَجَافَىٰ جُنُوبُهُمۡ عَنِ ٱلۡمَضَاجِعِ يَدۡعُونَ رَبَّهُمۡ خَوۡفٗا
+  وَطَمَعٗا وَمِمَّا رَزَقۡنَٰهُمۡ يُنفِقُونَ
 sentence_translation: They abandon their beds, invoking their Lord with hope and fear,
   and donate from what We have provided for them.
 word_by_word:
   1:
-    arabic: تَتَجَافٰى
+    arabic: تَتَجَافَىٰ
     translation: Forsake
     transliteration: tatajāfā
   2:
-    arabic: جُنُوۡبُهُمۡ
+    arabic: جُنُوبُهُمۡ
     translation: their sides
     transliteration: junūbuhum
   3:
@@ -17,11 +17,11 @@ word_by_word:
     translation: from
     transliteration: ʿani
   4:
-    arabic: الۡمَضَاجِعِ
+    arabic: ٱلۡمَضَاجِعِ
     translation: (their) beds
     transliteration: l-maḍājiʿi
   5:
-    arabic: يَدۡعُوۡنَ
+    arabic: يَدۡعُونَ
     translation: they call
     transliteration: yadʿūna
   6:
@@ -29,23 +29,23 @@ word_by_word:
     translation: their Lord
     transliteration: rabbahum
   7:
-    arabic: خَوۡفًا
+    arabic: خَوۡفٗا
     translation: (in) fear
     transliteration: khawfan
   8:
-    arabic: وَّطَمَعًا
+    arabic: وَطَمَعٗا
     translation: and hope
     transliteration: waṭamaʿan
   9:
-    arabic: وَّمِمَّا
+    arabic: وَمِمَّا
     translation: and out of what
     transliteration: wamimmā
   10:
-    arabic: رَزَقۡنٰهُمۡ
+    arabic: رَزَقۡنَٰهُمۡ
     translation: We have provided them
     transliteration: razaqnāhum
   11:
-    arabic: يُنۡفِقُوۡنَ‏
+    arabic: يُنفِقُونَ
     translation: they spend
     transliteration: yunfiqūna
 ---

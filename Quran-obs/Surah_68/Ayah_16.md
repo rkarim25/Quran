@@ -1,9 +1,9 @@
 ---
-arabic_ayat: سَنَسِمُهٗ عَلَى الۡخُـرۡطُوۡمِ‏
+arabic_ayat: سَنَسِمُهُۥ عَلَى ٱلۡخُرۡطُومِ
 sentence_translation: We will soon mark his snout. 
 word_by_word:
   1:
-    arabic: سَنَسِمُهٗ
+    arabic: سَنَسِمُهُۥ
     translation: We will brand him
     transliteration: sanasimuhu
   2:
@@ -11,7 +11,7 @@ word_by_word:
     translation: 'on'
     transliteration: ʿalā
   3:
-    arabic: الۡخُـرۡطُوۡمِ‏
+    arabic: ٱلۡخُرۡطُومِ
     translation: the snout
     transliteration: l-khur'ṭūmi
 ---

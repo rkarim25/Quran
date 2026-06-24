@@ -1,7 +1,6 @@
 ---
-arabic_ayat: "وَلَقَدۡ خَلَقۡنٰكُمۡ ثُمَّ صَوَّرۡنٰكُمۡ ثُمَّ قُلۡنَا لِلۡمَلٰۤٮِٕكَةِ\
-  \ اسۡجُدُوۡا لِاٰدَمَ​ ۖ  فَسَجَدُوۡۤا اِلَّاۤ اِبۡلِيۡسَؕ لَمۡ يَكُنۡ مِّنَ السّٰجِدِيۡنَ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: وَلَقَدۡ خَلَقۡنَٰكُمۡ ثُمَّ صَوَّرۡنَٰكُمۡ ثُمَّ قُلۡنَا لِلۡمَلَٰٓئِكَةِ
+  ٱسۡجُدُواْ لِأٓدَمَ فَسَجَدُوٓاْ إِلَّآ إِبۡلِيسَ لَمۡ يَكُن مِّنَ ٱلسَّٰجِدِينَ
 sentence_translation: Surely We created you, then shaped you, then said to the angels,
   “Prostrate before Adam,” so they all did—but not Iblîs, who refused to prostrate
   with the others.
@@ -11,7 +10,7 @@ word_by_word:
     translation: And certainly
     transliteration: walaqad
   2:
-    arabic: خَلَقۡنٰكُمۡ
+    arabic: خَلَقۡنَٰكُمۡ
     translation: We created you
     transliteration: khalaqnākum
   3:
@@ -19,7 +18,7 @@ word_by_word:
     translation: then
     transliteration: thumma
   4:
-    arabic: صَوَّرۡنٰكُمۡ
+    arabic: صَوَّرۡنَٰكُمۡ
     translation: We fashioned you
     transliteration: ṣawwarnākum
   5:
@@ -31,27 +30,27 @@ word_by_word:
     translation: We said
     transliteration: qul'nā
   7:
-    arabic: لِلۡمَلٰۤٮِٕكَةِ
+    arabic: لِلۡمَلَٰٓئِكَةِ
     translation: to the Angels
     transliteration: lil'malāikati
   8:
-    arabic: اسۡجُدُوۡا
+    arabic: ٱسۡجُدُواْ
     translation: Prostrate
     transliteration: us'judū
   9:
-    arabic: لِاٰدَمَ​ ۖ 
+    arabic: لِأٓدَمَ
     translation: to Adam
     transliteration: liādama
   10:
-    arabic: فَسَجَدُوۡۤا
+    arabic: فَسَجَدُوٓاْ
     translation: So they prostrated
     transliteration: fasajadū
   11:
-    arabic: اِلَّاۤ
+    arabic: إِلَّآ
     translation: except
     transliteration: illā
   12:
-    arabic: اِبۡلِيۡسَؕ
+    arabic: إِبۡلِيسَ
     translation: Iblis
     transliteration: ib'līsa
   13:
@@ -59,7 +58,7 @@ word_by_word:
     translation: Not
     transliteration: lam
   14:
-    arabic: يَكُنۡ
+    arabic: يَكُن
     translation: he was
     transliteration: yakun
   15:
@@ -67,7 +66,7 @@ word_by_word:
     translation: of
     transliteration: mina
   16:
-    arabic: "السّٰجِدِيۡنَ‏ \uFEFF\uFEFF"
+    arabic: ٱلسَّٰجِدِينَ
     translation: those who prostrated
     transliteration: l-sājidīna
 ---

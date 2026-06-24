@@ -1,10 +1,10 @@
 ---
-arabic_ayat: اٖلٰفِهِمۡ رِحۡلَةَ الشِّتَآءِ وَالصَّيۡفِ​ۚ‏
+arabic_ayat: إِۦلَٰفِهِمۡ رِحۡلَةَ ٱلشِّتَآءِ وَٱلصَّيۡفِ
 sentence_translation: secure in their trading caravan ˹to Yemen˺ in the winter and
   ˹Syria˺ in the summer—
 word_by_word:
   1:
-    arabic: اٖلٰفِهِمۡ
+    arabic: إِۦلَٰفِهِمۡ
     translation: Their familiarity
     transliteration: īlāfihim
   2:
@@ -12,11 +12,11 @@ word_by_word:
     translation: (with the) journey
     transliteration: riḥ'lata
   3:
-    arabic: الشِّتَآءِ
+    arabic: ٱلشِّتَآءِ
     translation: (of) winter
     transliteration: l-shitāi
   4:
-    arabic: وَالصَّيۡفِ​ۚ‏
+    arabic: وَٱلصَّيۡفِ
     translation: and summer
     transliteration: wal-ṣayfi
 ---

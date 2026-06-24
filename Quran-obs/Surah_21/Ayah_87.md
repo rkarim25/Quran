@@ -1,22 +1,22 @@
 ---
-arabic_ayat: وَ ذَا النُّوۡنِ اِذْ ذَّهَبَ مُغَاضِبًا فَظَنَّ اَنۡ لَّنۡ نَّـقۡدِرَ
-  عَلَيۡهِ فَنَادٰى فِى الظُّلُمٰتِ اَنۡ لَّاۤ اِلٰهَ اِلَّاۤ اَنۡتَ سُبۡحٰنَكَ ​ۖ
-   اِنِّىۡ كُنۡتُ مِنَ الظّٰلِمِيۡنَ​ ۖ ​ۚ‏
+arabic_ayat: وَذَا ٱلنُّونِ إِذ ذَّهَبَ مُغَٰضِبٗا فَظَنَّ أَن لَّن نَّقۡدِرَ عَلَيۡهِ
+  فَنَادَىٰ فِي ٱلظُّلُمَٰتِ أَن لَّآ إِلَٰهَ إِلَّآ أَنتَ سُبۡحَٰنَكَ إِنِّي كُنتُ
+  مِنَ ٱلظَّٰلِمِينَ
 sentence_translation: And ˹remember˺ when the Man of the Whale stormed off ˹from his
   city˺ in a rage, thinking We would not restrain him. Then in the ˹veils of˺ darkness he
   cried out, “There is no god ˹worthy of worship˺ except You. Glory be to You! I have
   certainly done wrong.”
 word_by_word:
   1:
-    arabic: وَ ذَا
+    arabic: وَذَا
     translation: And Dhun-Nun
     transliteration: wadhā
   2:
-    arabic: النُّوۡنِ
+    arabic: ٱلنُّونِ
     translation: And Dhun-Nun
     transliteration: l-nūni
   3:
-    arabic: اِذْ
+    arabic: إِذ
     translation: when
     transliteration: idh
   4:
@@ -24,7 +24,7 @@ word_by_word:
     translation: he went
     transliteration: dhahaba
   5:
-    arabic: مُغَاضِبًا
+    arabic: مُغَٰضِبٗا
     translation: (while) angry
     transliteration: mughāḍiban
   6:
@@ -32,15 +32,15 @@ word_by_word:
     translation: and thought
     transliteration: faẓanna
   7:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that
     transliteration: an
   8:
-    arabic: لَّنۡ
+    arabic: لَّن
     translation: never
     transliteration: lan
   9:
-    arabic: نَّـقۡدِرَ
+    arabic: نَّقۡدِرَ
     translation: We would decree
     transliteration: naqdira
   10:
@@ -48,47 +48,47 @@ word_by_word:
     translation: upon him
     transliteration: ʿalayhi
   11:
-    arabic: فَنَادٰى
+    arabic: فَنَادَىٰ
     translation: Then he called
     transliteration: fanādā
   12:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   13:
-    arabic: الظُّلُمٰتِ
+    arabic: ٱلظُّلُمَٰتِ
     translation: the darkness(es)
     transliteration: l-ẓulumāti
   14:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that
     transliteration: an
   15:
-    arabic: لَّاۤ
+    arabic: لَّآ
     translation: (There is) no
     transliteration: lā
   16:
-    arabic: اِلٰهَ
+    arabic: إِلَٰهَ
     translation: god
     transliteration: ilāha
   17:
-    arabic: اِلَّاۤ
+    arabic: إِلَّآ
     translation: except
     transliteration: illā
   18:
-    arabic: اَنۡتَ
+    arabic: أَنتَ
     translation: You
     transliteration: anta
   19:
-    arabic: سُبۡحٰنَكَ ​ۖ 
+    arabic: سُبۡحَٰنَكَ
     translation: Glory be to You
     transliteration: sub'ḥānaka
   20:
-    arabic: اِنِّىۡ
+    arabic: إِنِّي
     translation: Indeed, [I]
     transliteration: innī
   21:
-    arabic: كُنۡتُ
+    arabic: كُنتُ
     translation: I am
     transliteration: kuntu
   22:
@@ -96,7 +96,7 @@ word_by_word:
     translation: of
     transliteration: mina
   23:
-    arabic: الظّٰلِمِيۡنَ​ ۖ ​ۚ‏
+    arabic: ٱلظَّٰلِمِينَ
     translation: the wrongdoers
     transliteration: l-ẓālimīna
 ---

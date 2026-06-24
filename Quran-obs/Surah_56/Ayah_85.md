@@ -1,5 +1,5 @@
 ---
-arabic_ayat: وَنَحۡنُ اَقۡرَبُ اِلَيۡهِ مِنۡكُمۡ وَلٰـكِنۡ لَّا تُبۡصِرُوۡنَ‏
+arabic_ayat: وَنَحۡنُ أَقۡرَبُ إِلَيۡهِ مِنكُمۡ وَلَٰكِن لَّا تُبۡصِرُونَ
 sentence_translation: And We are nearer to such a person than you, but you cannot
   see.
 word_by_word:
@@ -8,19 +8,19 @@ word_by_word:
     translation: And We
     transliteration: wanaḥnu
   2:
-    arabic: اَقۡرَبُ
+    arabic: أَقۡرَبُ
     translation: (are) nearer
     transliteration: aqrabu
   3:
-    arabic: اِلَيۡهِ
+    arabic: إِلَيۡهِ
     translation: to him
     transliteration: ilayhi
   4:
-    arabic: مِنۡكُمۡ
+    arabic: مِنكُمۡ
     translation: than you
     transliteration: minkum
   5:
-    arabic: وَلٰـكِنۡ
+    arabic: وَلَٰكِن
     translation: but
     transliteration: walākin
   6:
@@ -28,7 +28,7 @@ word_by_word:
     translation: you (do) not see
     transliteration: lā
   7:
-    arabic: تُبۡصِرُوۡنَ‏
+    arabic: تُبۡصِرُونَ
     translation: you (do) not see
     transliteration: tub'ṣirūna
 ---

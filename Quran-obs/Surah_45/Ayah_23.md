@@ -1,14 +1,14 @@
 ---
-arabic_ayat: اَفَرَءَيۡتَ مَنِ اتَّخَذَ اِلٰهَهٗ هَوٰٮهُ وَاَضَلَّهُ اللّٰهُ عَلٰى
-  عِلۡمٍ وَّخَتَمَ عَلٰى سَمۡعِهٖ وَقَلۡبِهٖ وَجَعَلَ عَلٰى بَصَرِهٖ غِشٰوَةً  ؕ فَمَنۡ
-  يَّهۡدِيۡهِ مِنۡۢ بَعۡدِ اللّٰهِ​ ؕ اَفَلَا تَذَكَّرُوۡنَ‏
+arabic_ayat: أَفَرَءَيۡتَ مَنِ ٱتَّخَذَ إِلَٰهَهُۥ هَوَىٰهُ وَأَضَلَّهُ ٱللَّهُ عَلَىٰ
+  عِلۡمٖ وَخَتَمَ عَلَىٰ سَمۡعِهِۦ وَقَلۡبِهِۦ وَجَعَلَ عَلَىٰ بَصَرِهِۦ غِشَٰوَةٗ
+  فَمَن يَهۡدِيهِ مِنۢ بَعۡدِ ٱللَّهِۚ أَفَلَا تَذَكَّرُونَ
 sentence_translation: Have you seen ˹O Prophet˺ those who have taken their own desires
   as their god? ˹And so˺ Allah left them to stray knowingly, sealed their hearing
   and hearts, and placed a cover on their sight. Who then can guide them after Allah?
   Will you ˹all˺ not then be mindful?
 word_by_word:
   1:
-    arabic: اَفَرَءَيۡتَ
+    arabic: أَفَرَءَيۡتَ
     translation: Have you seen
     transliteration: afara-ayta
   2:
@@ -16,47 +16,47 @@ word_by_word:
     translation: (he) who
     transliteration: mani
   3:
-    arabic: اتَّخَذَ
+    arabic: ٱتَّخَذَ
     translation: takes
     transliteration: ittakhadha
   4:
-    arabic: اِلٰهَهٗ
+    arabic: إِلَٰهَهُۥ
     translation: (as) his god
     transliteration: ilāhahu
   5:
-    arabic: هَوٰٮهُ
+    arabic: هَوَىٰهُ
     translation: his desire
     transliteration: hawāhu
   6:
-    arabic: وَاَضَلَّهُ
+    arabic: وَأَضَلَّهُ
     translation: and Allah lets him go astray
     transliteration: wa-aḍallahu
   7:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: and Allah lets him go astray
     transliteration: l-lahu
   8:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: knowingly
     transliteration: ʿalā
   9:
-    arabic: عِلۡمٍ
+    arabic: عِلۡمٖ
     translation: knowingly
     transliteration: ʿil'min
   10:
-    arabic: وَّخَتَمَ
+    arabic: وَخَتَمَ
     translation: and He sets a seal
     transliteration: wakhatama
   11:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: upon
     transliteration: ʿalā
   12:
-    arabic: سَمۡعِهٖ
+    arabic: سَمۡعِهِۦ
     translation: his hearing
     transliteration: samʿihi
   13:
-    arabic: وَقَلۡبِهٖ
+    arabic: وَقَلۡبِهِۦ
     translation: and his heart
     transliteration: waqalbihi
   14:
@@ -64,27 +64,27 @@ word_by_word:
     translation: and puts
     transliteration: wajaʿala
   15:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: over
     transliteration: ʿalā
   16:
-    arabic: بَصَرِهٖ
+    arabic: بَصَرِهِۦ
     translation: his vision
     transliteration: baṣarihi
   17:
-    arabic: غِشٰوَةً  ؕ
+    arabic: غِشَٰوَةٗ
     translation: a veil
     transliteration: ghishāwatan
   18:
-    arabic: فَمَنۡ
+    arabic: فَمَن
     translation: Then who
     transliteration: faman
   19:
-    arabic: يَّهۡدِيۡهِ
+    arabic: يَهۡدِيهِ
     translation: will guide him
     transliteration: yahdīhi
   20:
-    arabic: مِنۡۢ
+    arabic: مِنۢ
     translation: after
     transliteration: min
   21:
@@ -92,15 +92,15 @@ word_by_word:
     translation: after
     transliteration: baʿdi
   22:
-    arabic: اللّٰهِ​ ؕ
+    arabic: ٱللَّهِۚ
     translation: Allah
     transliteration: l-lahi
   23:
-    arabic: اَفَلَا
+    arabic: أَفَلَا
     translation: Then will not
     transliteration: afalā
   24:
-    arabic: تَذَكَّرُوۡنَ‏
+    arabic: تَذَكَّرُونَ
     translation: you receive admonition
     transliteration: tadhakkarūna
 ---

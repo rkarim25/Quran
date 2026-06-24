@@ -1,21 +1,21 @@
 ---
-arabic_ayat: يٰۤـاَيُّهَا الَّذِيۡنَ اٰمَنُوۡا لَا تَاۡكُلُوۡۤا اَمۡوَالَـكُمۡ بَيۡنَكُمۡ
-  بِالۡبَاطِلِ اِلَّاۤ اَنۡ تَكُوۡنَ تِجَارَةً عَنۡ تَرَاضٍ مِّنۡكُمۡ​ وَلَا تَقۡتُلُوۡۤا
-  اَنۡـفُسَكُمۡ​ؕ اِنَّ اللّٰهَ كَانَ بِكُمۡ رَحِيۡمًا‏
+arabic_ayat: يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُواْ لَا تَأۡكُلُوٓاْ أَمۡوَٰلَكُم بَيۡنَكُم
+  بِٱلۡبَٰطِلِ إِلَّآ أَن تَكُونَ تِجَٰرَةً عَن تَرَاضٖ مِّنكُمۡۚ وَلَا تَقۡتُلُوٓاْ
+  أَنفُسَكُمۡۚ إِنَّ ٱللَّهَ كَانَ بِكُمۡ رَحِيمٗا
 sentence_translation: O believers! Do not devour one another’s wealth illegally, but
   rather trade by mutual consent. And do not kill ˹each other or˺ yourselves. Surely
   Allah is ever Merciful to you.
 word_by_word:
   1:
-    arabic: يٰۤـاَيُّهَا
+    arabic: يَٰٓأَيُّهَا
     translation: O you
     transliteration: yāayyuhā
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ ءَ
     translation: who
     transliteration: alladhīna
   3:
-    arabic: اٰمَنُوۡا
+    arabic: امَنُواْ
     translation: believe[d]
     transliteration: āmanū
   4:
@@ -23,47 +23,47 @@ word_by_word:
     translation: (Do) not
     transliteration: lā
   5:
-    arabic: تَاۡكُلُوۡۤا
+    arabic: تَأۡكُلُوٓاْ
     translation: eat
     transliteration: takulū
   6:
-    arabic: اَمۡوَالَـكُمۡ
+    arabic: أَمۡوَٰلَكُم
     translation: your wealth
     transliteration: amwālakum
   7:
-    arabic: بَيۡنَكُمۡ
+    arabic: بَيۡنَكُم
     translation: between yourselves
     transliteration: baynakum
   8:
-    arabic: بِالۡبَاطِلِ
+    arabic: بِٱلۡبَٰطِلِ
     translation: unjustly
     transliteration: bil-bāṭili
   9:
-    arabic: اِلَّاۤ
+    arabic: إِلَّآ
     translation: But
     transliteration: illā
   10:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that
     transliteration: an
   11:
-    arabic: تَكُوۡنَ
+    arabic: تَكُونَ
     translation: (there) be
     transliteration: takūna
   12:
-    arabic: تِجَارَةً
+    arabic: تِجَٰرَةً
     translation: business
     transliteration: tijāratan
   13:
-    arabic: عَنۡ
+    arabic: عَن
     translation: 'on'
     transliteration: ʿan
   14:
-    arabic: تَرَاضٍ
+    arabic: تَرَاضٖ
     translation: mutual consent
     transliteration: tarāḍin
   15:
-    arabic: مِّنۡكُمۡ​
+    arabic: مِّنكُمۡۚ
     translation: among you
     transliteration: minkum
   16:
@@ -71,19 +71,19 @@ word_by_word:
     translation: And (do) not
     transliteration: walā
   17:
-    arabic: تَقۡتُلُوۡۤا
+    arabic: تَقۡتُلُوٓاْ
     translation: kill
     transliteration: taqtulū
   18:
-    arabic: اَنۡـفُسَكُمۡ​ؕ
+    arabic: أَنفُسَكُمۡۚ
     translation: yourselves
     transliteration: anfusakum
   19:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   20:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   21:
@@ -95,7 +95,7 @@ word_by_word:
     translation: to you
     transliteration: bikum
   23:
-    arabic: رَحِيۡمًا‏
+    arabic: رَحِيمٗا
     translation: Most Merciful
     transliteration: raḥīman
 ---

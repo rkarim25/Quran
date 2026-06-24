@@ -1,11 +1,11 @@
 ---
-arabic_ayat: مَنۡ كَانَ يُرِيۡدُ الۡحَيٰوةَ الدُّنۡيَا وَ زِيۡنَتَهَا نُوَفِّ اِلَيۡهِمۡ
-  اَعۡمَالَهُمۡ فِيۡهَا وَهُمۡ فِيۡهَا لَا يُبۡخَسُوۡنَ‏
+arabic_ayat: مَن كَانَ يُرِيدُ ٱلۡحَيَوٰةَ ٱلدُّنۡيَا وَزِينَتَهَا نُوَفِّ إِلَيۡهِمۡ
+  أَعۡمَٰلَهُمۡ فِيهَا وَهُمۡ فِيهَا لَا يُبۡخَسُونَ
 sentence_translation: Whoever desires ˹only˺ this worldly life and its luxuries, We
   will pay them in full for their deeds in this life—nothing will be left out.
 word_by_word:
   1:
-    arabic: مَنۡ
+    arabic: مَن
     translation: Whoever [is]
     transliteration: man
   2:
@@ -13,19 +13,19 @@ word_by_word:
     translation: Whoever [is]
     transliteration: kāna
   3:
-    arabic: يُرِيۡدُ
+    arabic: يُرِيدُ
     translation: desires
     transliteration: yurīdu
   4:
-    arabic: الۡحَيٰوةَ
+    arabic: ٱلۡحَيَوٰةَ
     translation: the life
     transliteration: l-ḥayata
   5:
-    arabic: الدُّنۡيَا
+    arabic: ٱلدُّنۡيَا
     translation: (of) the world
     transliteration: l-dun'yā
   6:
-    arabic: وَ زِيۡنَتَهَا
+    arabic: وَزِينَتَهَا
     translation: and its adornments
     transliteration: wazīnatahā
   7:
@@ -33,15 +33,15 @@ word_by_word:
     translation: We will repay in full
     transliteration: nuwaffi
   8:
-    arabic: اِلَيۡهِمۡ
+    arabic: إِلَيۡهِمۡ
     translation: to them
     transliteration: ilayhim
   9:
-    arabic: اَعۡمَالَهُمۡ
+    arabic: أَعۡمَٰلَهُمۡ
     translation: (for) their deeds
     transliteration: aʿmālahum
   10:
-    arabic: فِيۡهَا
+    arabic: فِيهَا
     translation: therein
     transliteration: fīhā
   11:
@@ -49,7 +49,7 @@ word_by_word:
     translation: and they
     transliteration: wahum
   12:
-    arabic: فِيۡهَا
+    arabic: فِيهَا
     translation: in it
     transliteration: fīhā
   13:
@@ -57,7 +57,7 @@ word_by_word:
     translation: will not be lessened
     transliteration: lā
   14:
-    arabic: يُبۡخَسُوۡنَ‏
+    arabic: يُبۡخَسُونَ
     translation: will not be lessened
     transliteration: yub'khasūna
 ---

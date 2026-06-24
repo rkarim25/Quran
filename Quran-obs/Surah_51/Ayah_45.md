@@ -1,5 +1,5 @@
 ---
-arabic_ayat: فَمَا اسۡتَطَاعُوۡا مِنۡ قِيَامٍ وَّمَا كَانُوۡا مُنۡتَصِرِيۡنَۙ‏
+arabic_ayat: فَمَا ٱسۡتَطَٰعُواْ مِن قِيَامٖ وَمَا كَانُواْ مُنتَصِرِينَ
 sentence_translation: Then they were not able to rise up, nor were they helped.
 word_by_word:
   1:
@@ -7,27 +7,27 @@ word_by_word:
     translation: Then not
     transliteration: famā
   2:
-    arabic: اسۡتَطَاعُوۡا
+    arabic: ٱسۡتَطَٰعُواْ
     translation: they were able to
     transliteration: is'taṭāʿū
   3:
-    arabic: مِنۡ
+    arabic: مِن
     translation: '[of]'
     transliteration: min
   4:
-    arabic: قِيَامٍ
+    arabic: قِيَامٖ
     translation: stand
     transliteration: qiyāmin
   5:
-    arabic: وَّمَا
+    arabic: وَمَا
     translation: and not
     transliteration: wamā
   6:
-    arabic: كَانُوۡا
+    arabic: كَانُواْ
     translation: they could
     transliteration: kānū
   7:
-    arabic: مُنۡتَصِرِيۡنَۙ‏
+    arabic: مُنتَصِرِينَ
     translation: help themselves
     transliteration: muntaṣirīna
 ---

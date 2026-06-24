@@ -1,6 +1,6 @@
 ---
-arabic_ayat: وَلَقَدۡ جِئۡنٰهُمۡ بِكِتٰبٍ فَصَّلۡنٰهُ عَلٰى عِلۡمٍ هُدًى وَّرَحۡمَةً
-  لِّـقَوۡمٍ يُّؤۡمِنُوۡنَ‏
+arabic_ayat: وَلَقَدۡ جِئۡنَٰهُم بِكِتَٰبٖ فَصَّلۡنَٰهُ عَلَىٰ عِلۡمٍ هُدٗى وَرَحۡمَةٗ
+  لِّقَوۡمٖ يُؤۡمِنُونَ
 sentence_translation: We have certainly brought them a Book which We explained with
   knowledge—a guide and mercy for those who believe.
 word_by_word:
@@ -9,19 +9,19 @@ word_by_word:
     translation: And certainly
     transliteration: walaqad
   2:
-    arabic: جِئۡنٰهُمۡ
+    arabic: جِئۡنَٰهُم
     translation: We had brought them
     transliteration: ji'nāhum
   3:
-    arabic: بِكِتٰبٍ
+    arabic: بِكِتَٰبٖ
     translation: a Book
     transliteration: bikitābin
   4:
-    arabic: فَصَّلۡنٰهُ
+    arabic: فَصَّلۡنَٰهُ
     translation: which We have explained
     transliteration: faṣṣalnāhu
   5:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: with
     transliteration: ʿalā
   6:
@@ -29,19 +29,19 @@ word_by_word:
     translation: 'knowledge '
     transliteration: ʿil'min
   7:
-    arabic: هُدًى
+    arabic: هُدٗى
     translation: as guidance
     transliteration: hudan
   8:
-    arabic: وَّرَحۡمَةً
+    arabic: وَرَحۡمَةٗ
     translation: and mercy
     transliteration: waraḥmatan
   9:
-    arabic: لِّـقَوۡمٍ
+    arabic: لِّقَوۡمٖ
     translation: for a people
     transliteration: liqawmin
   10:
-    arabic: يُّؤۡمِنُوۡنَ‏
+    arabic: يُؤۡمِنُونَ
     translation: who believe
     transliteration: yu'minūna
 ---

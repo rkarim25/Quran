@@ -1,21 +1,21 @@
 ---
-arabic_ayat: تَرۡجِعُوۡنَهَاۤ اِنۡ كُنۡتُمۡ صٰدِقِيۡنَ‏
+arabic_ayat: تَرۡجِعُونَهَآ إِن كُنتُمۡ صَٰدِقِينَ
 sentence_translation: bring that soul back, if what you say is true.
 word_by_word:
   1:
-    arabic: تَرۡجِعُوۡنَهَاۤ
+    arabic: تَرۡجِعُونَهَآ
     translation: Bring it back
     transliteration: tarjiʿūnahā
   2:
-    arabic: اِنۡ
+    arabic: إِن
     translation: if
     transliteration: in
   3:
-    arabic: كُنۡتُمۡ
+    arabic: كُنتُمۡ
     translation: you are
     transliteration: kuntum
   4:
-    arabic: صٰدِقِيۡنَ‏
+    arabic: صَٰدِقِينَ
     translation: truthful
     transliteration: ṣādiqīna
 ---

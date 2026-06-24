@@ -1,13 +1,13 @@
 ---
-arabic_ayat: فَاَمَّاۤ اِنۡ كَانَ مِنَ الۡمُقَرَّبِيۡنَۙ‏
+arabic_ayat: فَأَمَّآ إِن كَانَ مِنَ ٱلۡمُقَرَّبِينَ
 sentence_translation: So, if the deceased is one of those brought near ˹to Us˺,
 word_by_word:
   1:
-    arabic: فَاَمَّاۤ
+    arabic: فَأَمَّآ
     translation: Then
     transliteration: fa-ammā
   2:
-    arabic: اِنۡ
+    arabic: إِن
     translation: if
     transliteration: in
   3:
@@ -19,7 +19,7 @@ word_by_word:
     translation: of
     transliteration: mina
   5:
-    arabic: الۡمُقَرَّبِيۡنَۙ‏
+    arabic: ٱلۡمُقَرَّبِينَ
     translation: those brought near
     transliteration: l-muqarabīna
 ---

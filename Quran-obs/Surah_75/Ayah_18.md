@@ -1,22 +1,22 @@
 ---
-arabic_ayat: فَاِذَا قَرَاۡنٰهُ فَاتَّبِعۡ قُرۡاٰنَهٗ​ۚ‏
+arabic_ayat: فَإِذَا قَرَأۡنَٰهُ فَٱتَّبِعۡ قُرۡءَانَهُۥ
 sentence_translation: So once We have recited a revelation ˹through Gabriel˺, follow
   its recitation ˹closely˺.
 word_by_word:
   1:
-    arabic: فَاِذَا
+    arabic: فَإِذَا
     translation: And when
     transliteration: fa-idhā
   2:
-    arabic: قَرَاۡنٰهُ
+    arabic: قَرَأۡنَٰهُ
     translation: We have recited it
     transliteration: qaranāhu
   3:
-    arabic: فَاتَّبِعۡ
+    arabic: فَٱتَّبِعۡ
     translation: then follow
     transliteration: fa-ittabiʿ
   4:
-    arabic: قُرۡاٰنَهٗ​ۚ‏
+    arabic: قُرۡءَانَهُۥ
     translation: its recitation
     transliteration: qur'ānahu
 ---

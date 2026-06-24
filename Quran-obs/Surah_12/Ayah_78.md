@@ -1,39 +1,39 @@
 ---
-arabic_ayat: قَالُوۡا يٰۤاَيُّهَا الۡعَزِيۡزُ اِنَّ لَهٗۤ اَبًا شَيۡخًا كَبِيۡرًا
-  فَخُذۡ اَحَدَنَا مَكَانَهٗۚ اِنَّا نَرٰٮكَ مِنَ الۡمُحۡسِنِيۡنَ‏
+arabic_ayat: قَالُواْ يَٰٓأَيُّهَا ٱلۡعَزِيزُ إِنَّ لَهُۥٓ أَبٗا شَيۡخٗا كَبِيرٗا
+  فَخُذۡ أَحَدَنَا مَكَانَهُۥٓۖ إِنَّا نَرَىٰكَ مِنَ ٱلۡمُحۡسِنِينَ
 sentence_translation: They appealed, “O Chief Minister! He has a very old father,
   so take one of us instead. We surely see you as one of the good-doers.”
 word_by_word:
   1:
-    arabic: قَالُوۡا
+    arabic: قَالُواْ
     translation: They said
     transliteration: qālū
   2:
-    arabic: يٰۤاَيُّهَا
+    arabic: يَٰٓأَيُّهَا
     translation: O
     transliteration: yāayyuhā
   3:
-    arabic: الۡعَزِيۡزُ
+    arabic: ٱلۡعَزِيزُ
     translation: Aziz
     transliteration: l-ʿazīzu
   4:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   5:
-    arabic: لَهٗۤ
+    arabic: لَهُۥٓ
     translation: he has
     transliteration: lahu
   6:
-    arabic: اَبًا
+    arabic: أَبٗا
     translation: a father
     transliteration: aban
   7:
-    arabic: شَيۡخًا
+    arabic: شَيۡخٗا
     translation: old
     transliteration: shaykhan
   8:
-    arabic: كَبِيۡرًا
+    arabic: كَبِيرٗا
     translation: '[great]'
     transliteration: kabīran
   9:
@@ -41,19 +41,19 @@ word_by_word:
     translation: so take
     transliteration: fakhudh
   10:
-    arabic: اَحَدَنَا
+    arabic: أَحَدَنَا
     translation: one of us
     transliteration: aḥadanā
   11:
-    arabic: مَكَانَهٗۚ
+    arabic: مَكَانَهُۥٓۖ
     translation: (in) his place
     transliteration: makānahu
   12:
-    arabic: اِنَّا
+    arabic: إِنَّا
     translation: Indeed, we
     transliteration: innā
   13:
-    arabic: نَرٰٮكَ
+    arabic: نَرَىٰكَ
     translation: '[we] see you'
     transliteration: narāka
   14:
@@ -61,7 +61,7 @@ word_by_word:
     translation: of
     transliteration: mina
   15:
-    arabic: الۡمُحۡسِنِيۡنَ‏
+    arabic: ٱلۡمُحۡسِنِينَ
     translation: the good-doers
     transliteration: l-muḥ'sinīna
 ---

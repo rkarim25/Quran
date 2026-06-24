@@ -1,31 +1,31 @@
 ---
-arabic_ayat: اَوَلَمۡ يَرَوۡا اَنَّا نَاۡتِى الۡاَرۡضَ نَـنۡقُصُهَا مِنۡ اَطۡرَافِهَا
-  ؕ​ وَاللّٰهُ يَحۡكُمُ لَا مُعَقِّبَ لِحُكۡمِهٖ​ؕ وَهُوَ سَرِيۡعُ الۡحِسَابِ‏
+arabic_ayat: أَوَلَمۡ يَرَوۡاْ أَنَّا نَأۡتِي ٱلۡأَرۡضَ نَنقُصُهَا مِنۡ أَطۡرَافِهَاۚ
+  وَٱللَّهُ يَحۡكُمُ لَا مُعَقِّبَ لِحُكۡمِهِۦۚ وَهُوَ سَرِيعُ ٱلۡحِسَابِ
 sentence_translation: Do they not see that We gradually reduce their land from its
   borders? Allah decides—none can reverse His decision. And He is swift in reckoning.
 word_by_word:
   1:
-    arabic: اَوَلَمۡ
+    arabic: أَوَلَمۡ
     translation: Did not
     transliteration: awalam
   2:
-    arabic: يَرَوۡا
+    arabic: يَرَوۡاْ
     translation: they see
     transliteration: yaraw
   3:
-    arabic: اَنَّا
+    arabic: أَنَّا
     translation: that We
     transliteration: annā
   4:
-    arabic: نَاۡتِى
+    arabic: نَأۡتِي
     translation: come
     transliteration: natī
   5:
-    arabic: الۡاَرۡضَ
+    arabic: ٱلۡأَرۡضَ
     translation: (to) the land
     transliteration: l-arḍa
   6:
-    arabic: نَـنۡقُصُهَا
+    arabic: نَنقُصُهَا
     translation: reducing it
     transliteration: nanquṣuhā
   7:
@@ -33,11 +33,11 @@ word_by_word:
     translation: from
     transliteration: min
   8:
-    arabic: اَطۡرَافِهَا ؕ​
+    arabic: أَطۡرَافِهَاۚ
     translation: its borders
     transliteration: aṭrāfihā
   9:
-    arabic: وَاللّٰهُ
+    arabic: وَٱللَّهُ
     translation: And Allah
     transliteration: wal-lahu
   10:
@@ -53,7 +53,7 @@ word_by_word:
     translation: adjuster
     transliteration: muʿaqqiba
   13:
-    arabic: لِحُكۡمِهٖ​ؕ
+    arabic: لِحُكۡمِهِۦۚ
     translation: (of) His Judgment
     transliteration: liḥuk'mihi
   14:
@@ -61,11 +61,11 @@ word_by_word:
     translation: And He
     transliteration: wahuwa
   15:
-    arabic: سَرِيۡعُ
+    arabic: سَرِيعُ
     translation: (is) Swift
     transliteration: sarīʿu
   16:
-    arabic: الۡحِسَابِ‏
+    arabic: ٱلۡحِسَابِ
     translation: (in) the reckoning
     transliteration: l-ḥisābi
 ---

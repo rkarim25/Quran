@@ -1,23 +1,23 @@
 ---
-arabic_ayat: وَيَسۡـــَٔلُوۡنَكَ عَنۡ ذِى الۡقَرۡنَيۡنِ​ ؕ قُلۡ سَاَ تۡلُوۡا عَلَيۡكُمۡ
-  مِّنۡهُ ذِكۡرًا ؕ‏
+arabic_ayat: وَيَسۡـَٔلُونَكَ عَن ذِي ٱلۡقَرۡنَيۡنِۖ قُلۡ سَأَتۡلُواْ عَلَيۡكُم مِّنۡهُ
+  ذِكۡرًا
 sentence_translation: They ask you ˹O Prophet˺ about Ⱬul-Qarnain. Say, “I will relate
   to you something of his narrative.”
 word_by_word:
   1:
-    arabic: وَيَسۡـــَٔلُوۡنَكَ
+    arabic: وَيَسۡـَٔلُونَكَ
     translation: And they ask you
     transliteration: wayasalūnaka
   2:
-    arabic: عَنۡ
+    arabic: عَن
     translation: about
     transliteration: ʿan
   3:
-    arabic: ذِى
+    arabic: ذِي
     translation: Dhul-qarnain
     transliteration: dhī
   4:
-    arabic: الۡقَرۡنَيۡنِ​ ؕ
+    arabic: ٱلۡقَرۡنَيۡنِۖ
     translation: Dhul-qarnain
     transliteration: l-qarnayni
   5:
@@ -25,11 +25,11 @@ word_by_word:
     translation: Say
     transliteration: qul
   6:
-    arabic: سَاَ تۡلُوۡا
+    arabic: سَأَتۡلُواْ
     translation: I will recite
     transliteration: sa-atlū
   7:
-    arabic: عَلَيۡكُمۡ
+    arabic: عَلَيۡكُم
     translation: to you
     transliteration: ʿalaykum
   8:
@@ -37,7 +37,7 @@ word_by_word:
     translation: about him
     transliteration: min'hu
   9:
-    arabic: ذِكۡرًا ؕ‏
+    arabic: ذِكۡرًا
     translation: a remembrance
     transliteration: dhik'ran
 ---

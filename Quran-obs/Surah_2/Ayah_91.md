@@ -1,27 +1,27 @@
 ---
-arabic_ayat: وَاِذَا قِيۡلَ لَهُمۡ اٰمِنُوۡا بِمَآ اَنۡزَلَ اللّٰهُ قَالُوۡا نُؤۡمِنُ
-  بِمَآ اُنۡزِلَ عَلَيۡنَا وَيَكۡفُرُوۡنَ بِمَا وَرَآءَهٗ وَهُوَ الۡحَـقُّ مُصَدِّقًا
-  لِّمَا مَعَهُمۡ​ؕ قُلۡ فَلِمَ تَقۡتُلُوۡنَ اَنۡـــۢبِيَآءَ اللّٰهِ مِنۡ قَبۡلُ
-  اِنۡ كُنۡتُمۡ مُّؤۡمِنِيۡنَ‏
+arabic_ayat: وَإِذَا قِيلَ لَهُمۡ ءَامِنُواْ بِمَآ أَنزَلَ ٱللَّهُ قَالُواْ نُؤۡمِنُ
+  بِمَآ أُنزِلَ عَلَيۡنَا وَيَكۡفُرُونَ بِمَا وَرَآءَهُۥ وَهُوَ ٱلۡحَقُّ مُصَدِّقٗا
+  لِّمَا مَعَهُمۡۗ قُلۡ فَلِمَ تَقۡتُلُونَ أَنۢبِيَآءَ ٱللَّهِ مِن قَبۡلُ إِن كُنتُم
+  مُّؤۡمِنِينَ
 sentence_translation: 'When it is said to them: “Believe in what Allah has revealed,”
   they reply, “We only believe in what was sent down to us,” and they deny what came
   afterwards, though it is the truth confirming their own Scriptures! Ask ˹them, O
    Prophet˺, “Why then did you kill Allah’s prophets before, if you are ˹truly˺ believers?”'
 word_by_word:
   1:
-    arabic: وَاِذَا
+    arabic: وَإِذَا
     translation: And when
     transliteration: wa-idhā
   2:
-    arabic: قِيۡلَ
+    arabic: قِيلَ
     translation: it is said
     transliteration: qīla
   3:
-    arabic: لَهُمۡ
+    arabic: لَهُمۡ ءَ
     translation: to them
     transliteration: lahum
   4:
-    arabic: اٰمِنُوۡا
+    arabic: امِنُواْ
     translation: Believe
     transliteration: āminū
   5:
@@ -29,15 +29,15 @@ word_by_word:
     translation: in what
     transliteration: bimā
   6:
-    arabic: اَنۡزَلَ
+    arabic: أَنزَلَ
     translation: has revealed
     transliteration: anzala
   7:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   8:
-    arabic: قَالُوۡا
+    arabic: قَالُواْ
     translation: they say
     transliteration: qālū
   9:
@@ -49,7 +49,7 @@ word_by_word:
     translation: in what
     transliteration: bimā
   11:
-    arabic: اُنۡزِلَ
+    arabic: أُنزِلَ
     translation: was revealed
     transliteration: unzila
   12:
@@ -57,7 +57,7 @@ word_by_word:
     translation: to us
     transliteration: ʿalaynā
   13:
-    arabic: وَيَكۡفُرُوۡنَ
+    arabic: وَيَكۡفُرُونَ
     translation: And they disbelieve
     transliteration: wayakfurūna
   14:
@@ -65,7 +65,7 @@ word_by_word:
     translation: in what
     transliteration: bimā
   15:
-    arabic: وَرَآءَهٗ
+    arabic: وَرَآءَهُۥ
     translation: (is) besides it
     transliteration: warāahu
   16:
@@ -73,11 +73,11 @@ word_by_word:
     translation: while it
     transliteration: wahuwa
   17:
-    arabic: الۡحَـقُّ
+    arabic: ٱلۡحَقُّ
     translation: (is) the truth
     transliteration: l-ḥaqu
   18:
-    arabic: مُصَدِّقًا
+    arabic: مُصَدِّقٗا
     translation: confirming
     transliteration: muṣaddiqan
   19:
@@ -85,7 +85,7 @@ word_by_word:
     translation: what
     transliteration: limā
   20:
-    arabic: مَعَهُمۡ​ؕ
+    arabic: مَعَهُمۡۗ
     translation: (is) with them
     transliteration: maʿahum
   21:
@@ -97,19 +97,19 @@ word_by_word:
     translation: Then why
     transliteration: falima
   23:
-    arabic: تَقۡتُلُوۡنَ
+    arabic: تَقۡتُلُونَ
     translation: (did) you kill
     transliteration: taqtulūna
   24:
-    arabic: اَنۡـــۢبِيَآءَ
+    arabic: أَنۢبِيَآءَ
     translation: (the) Prophets
     transliteration: anbiyāa
   25:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (of) Allah
     transliteration: l-lahi
   26:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   27:
@@ -117,15 +117,15 @@ word_by_word:
     translation: before
     transliteration: qablu
   28:
-    arabic: اِنۡ
+    arabic: إِن
     translation: if
     transliteration: in
   29:
-    arabic: كُنۡتُمۡ
+    arabic: كُنتُم
     translation: you were
     transliteration: kuntum
   30:
-    arabic: مُّؤۡمِنِيۡنَ‏
+    arabic: مُّؤۡمِنِينَ
     translation: believers
     transliteration: mu'minīna
 ---

@@ -1,10 +1,10 @@
 ---
-arabic_ayat: قَالُوۡا لَا تَوۡجَلۡ اِنَّا نُبَشِّرُكَ بِغُلٰمٍ عَلِيۡمٍ‏
+arabic_ayat: قَالُواْ لَا تَوۡجَلۡ إِنَّا نُبَشِّرُكَ بِغُلَٰمٍ عَلِيمٖ
 sentence_translation: They reassured ˹him˺, “Do not be afraid! Surely we give you
   good news of a knowledgeable son.”
 word_by_word:
   1:
-    arabic: قَالُوۡا
+    arabic: قَالُواْ
     translation: They said
     transliteration: qālū
   2:
@@ -16,7 +16,7 @@ word_by_word:
     translation: be afraid
     transliteration: tawjal
   4:
-    arabic: اِنَّا
+    arabic: إِنَّا
     translation: indeed, we
     transliteration: innā
   5:
@@ -24,11 +24,11 @@ word_by_word:
     translation: '[we] bring glad tidings to you'
     transliteration: nubashiruka
   6:
-    arabic: بِغُلٰمٍ
+    arabic: بِغُلَٰمٍ
     translation: of a boy
     transliteration: bighulāmin
   7:
-    arabic: عَلِيۡمٍ‏
+    arabic: عَلِيمٖ
     translation: learned
     transliteration: ʿalīmin
 ---

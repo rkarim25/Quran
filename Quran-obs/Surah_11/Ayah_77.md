@@ -1,6 +1,6 @@
 ---
-arabic_ayat: وَلَمَّا جَآءَتۡ رُسُلُـنَا لُوۡطًا سِىۡٓءَ بِهِمۡ وَضَاقَ بِهِمۡ ذَرۡعًا
-  وَّقَالَ هٰذَا يَوۡمٌ عَصِيۡبٌ‏
+arabic_ayat: وَلَمَّا جَآءَتۡ رُسُلُنَا لُوطٗا سِيٓءَ بِهِمۡ وَضَاقَ بِهِمۡ ذَرۡعٗا
+  وَقَالَ هَٰذَا يَوۡمٌ عَصِيبٞ
 sentence_translation: When Our messenger-angels came to Lot, he was distressed and
   worried by their arrival. He said, “This is a terrible day.”
 word_by_word:
@@ -13,15 +13,15 @@ word_by_word:
     translation: came
     transliteration: jāat
   3:
-    arabic: رُسُلُـنَا
+    arabic: رُسُلُنَا
     translation: Our messengers
     transliteration: rusulunā
   4:
-    arabic: لُوۡطًا
+    arabic: لُوطٗا
     translation: (to) Lut
     transliteration: lūṭan
   5:
-    arabic: سِىۡٓءَ
+    arabic: سِيٓءَ
     translation: he was distressed
     transliteration: sīa
   6:
@@ -37,15 +37,15 @@ word_by_word:
     translation: for them
     transliteration: bihim
   9:
-    arabic: ذَرۡعًا
+    arabic: ذَرۡعٗا
     translation: (and) uneasy
     transliteration: dharʿan
   10:
-    arabic: وَّقَالَ
+    arabic: وَقَالَ
     translation: and said
     transliteration: waqāla
   11:
-    arabic: هٰذَا
+    arabic: هَٰذَا
     translation: This
     transliteration: hādhā
   12:
@@ -53,7 +53,7 @@ word_by_word:
     translation: (is) a day
     transliteration: yawmun
   13:
-    arabic: عَصِيۡبٌ‏
+    arabic: عَصِيبٞ
     translation: distressful
     transliteration: ʿaṣībun
 ---

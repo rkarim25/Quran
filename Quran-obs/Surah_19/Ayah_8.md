@@ -1,6 +1,6 @@
 ---
-arabic_ayat: قَالَ رَبِّ اَنّٰى يَكُوۡنُ لِىۡ غُلٰمٌ وَّكَانَتِ امۡرَاَتِىۡ عَاقِرًا
-  وَّقَدۡ بَلَـغۡتُ مِنَ الۡـكِبَرِ عِتِيًّا‏
+arabic_ayat: قَالَ رَبِّ أَنَّىٰ يَكُونُ لِي غُلَٰمٞ وَكَانَتِ ٱمۡرَأَتِي عَاقِرٗا
+  وَقَدۡ بَلَغۡتُ مِنَ ٱلۡكِبَرِ عِتِيّٗا
 sentence_translation: He wondered, “My Lord! How can I have a son when my wife is
   barren, and I have become extremely old?”
 word_by_word:
@@ -13,39 +13,39 @@ word_by_word:
     translation: My Lord
     transliteration: rabbi
   3:
-    arabic: اَنّٰى
+    arabic: أَنَّىٰ
     translation: How
     transliteration: annā
   4:
-    arabic: يَكُوۡنُ
+    arabic: يَكُونُ
     translation: can
     transliteration: yakūnu
   5:
-    arabic: لِىۡ
+    arabic: لِي
     translation: I have
     transliteration: lī
   6:
-    arabic: غُلٰمٌ
+    arabic: غُلَٰمٞ
     translation: a boy
     transliteration: ghulāmun
   7:
-    arabic: وَّكَانَتِ
+    arabic: وَكَانَتِ
     translation: while is
     transliteration: wakānati
   8:
-    arabic: امۡرَاَتِىۡ
+    arabic: ٱمۡرَأَتِي
     translation: my wife
     transliteration: im'ra-atī
   9:
-    arabic: عَاقِرًا
+    arabic: عَاقِرٗا
     translation: barren
     transliteration: ʿāqiran
   10:
-    arabic: وَّقَدۡ
+    arabic: وَقَدۡ
     translation: and indeed
     transliteration: waqad
   11:
-    arabic: بَلَـغۡتُ
+    arabic: بَلَغۡتُ
     translation: I have reached
     transliteration: balaghtu
   12:
@@ -53,11 +53,11 @@ word_by_word:
     translation: of
     transliteration: mina
   13:
-    arabic: الۡـكِبَرِ
+    arabic: ٱلۡكِبَرِ
     translation: the old age
     transliteration: l-kibari
   14:
-    arabic: عِتِيًّا‏
+    arabic: عِتِيّٗا
     translation: extreme
     transliteration: ʿitiyyan
 ---

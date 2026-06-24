@@ -1,15 +1,15 @@
 ---
-arabic_ayat: وَاِذۡ قَالَ مُوۡسٰى لِـقَوۡمِهِ اذۡكُرُوۡا نِعۡمَةَ اللّٰهِ عَلَيۡكُمۡ
-  اِذۡ اَنۡجٰٮكُمۡ مِّنۡ اٰلِ فِرۡعَوۡنَ يَسُوۡمُوۡنَـكُمۡ سُوۡۤءَ الۡعَذَابِ وَ يُذَبِّحُوۡنَ
-  اَبۡنَآءَكُمۡ وَيَسۡتَحۡيُوۡنَ نِسَآءَكُمۡ​ ؕ وَفِىۡ ذٰ لِكُمۡ بَلَاۤ ءٌ مِّنۡ
-  رَّبِّكُمۡ عَظِيۡمٌ‏
+arabic_ayat: وَإِذۡ قَالَ مُوسَىٰ لِقَوۡمِهِ ٱذۡكُرُواْ نِعۡمَةَ ٱللَّهِ عَلَيۡكُمۡ
+  إِذۡ أَنجَىٰكُم مِّنۡ ءَالِ فِرۡعَوۡنَ يَسُومُونَكُمۡ سُوٓءَ ٱلۡعَذَابِ وَيُذَبِّحُونَ
+  أَبۡنَآءَكُمۡ وَيَسۡتَحۡيُونَ نِسَآءَكُمۡۚ وَفِي ذَٰلِكُم بَلَآءٞ مِّن رَّبِّكُمۡ
+  عَظِيمٞ
 sentence_translation: ˹Consider˺ when Moses said to his people, “Remember Allah’s
   favour upon you when He rescued you from the people of Pharaoh, who afflicted you
   with dreadful torment—slaughtering your sons and keeping your women. That was a
   severe test from your Lord.
 word_by_word:
   1:
-    arabic: وَاِذۡ
+    arabic: وَإِذۡ
     translation: And when
     transliteration: wa-idh
   2:
@@ -17,15 +17,15 @@ word_by_word:
     translation: said
     transliteration: qāla
   3:
-    arabic: مُوۡسٰى
+    arabic: مُوسَىٰ
     translation: Musa
     transliteration: mūsā
   4:
-    arabic: لِـقَوۡمِهِ
+    arabic: لِقَوۡمِهِ
     translation: to his people
     transliteration: liqawmihi
   5:
-    arabic: اذۡكُرُوۡا
+    arabic: ٱذۡكُرُواْ
     translation: Remember
     transliteration: udh'kurū
   6:
@@ -33,7 +33,7 @@ word_by_word:
     translation: (the) Favor of Allah
     transliteration: niʿ'mata
   7:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (the) Favor of Allah
     transliteration: l-lahi
   8:
@@ -41,19 +41,19 @@ word_by_word:
     translation: upon you
     transliteration: ʿalaykum
   9:
-    arabic: اِذۡ
+    arabic: إِذۡ
     translation: when
     transliteration: idh
   10:
-    arabic: اَنۡجٰٮكُمۡ
+    arabic: أَنجَىٰكُم
     translation: He saved you
     transliteration: anjākum
   11:
-    arabic: مِّنۡ
+    arabic: مِّنۡ ءَ
     translation: from
     transliteration: min
   12:
-    arabic: اٰلِ
+    arabic: الِ
     translation: (the) people
     transliteration: āli
   13:
@@ -61,47 +61,47 @@ word_by_word:
     translation: (of) Firaun
     transliteration: fir'ʿawna
   14:
-    arabic: يَسُوۡمُوۡنَـكُمۡ
+    arabic: يَسُومُونَكُمۡ
     translation: they were afflicting you
     transliteration: yasūmūnakum
   15:
-    arabic: سُوۡۤءَ
+    arabic: سُوٓءَ
     translation: (with) evil
     transliteration: sūa
   16:
-    arabic: الۡعَذَابِ
+    arabic: ٱلۡعَذَابِ
     translation: torment
     transliteration: l-ʿadhābi
   17:
-    arabic: وَ يُذَبِّحُوۡنَ
+    arabic: وَيُذَبِّحُونَ
     translation: and were slaughtering
     transliteration: wayudhabbiḥūna
   18:
-    arabic: اَبۡنَآءَكُمۡ
+    arabic: أَبۡنَآءَكُمۡ
     translation: your sons
     transliteration: abnāakum
   19:
-    arabic: وَيَسۡتَحۡيُوۡنَ
+    arabic: وَيَسۡتَحۡيُونَ
     translation: and letting live
     transliteration: wayastaḥyūna
   20:
-    arabic: نِسَآءَكُمۡ​ ؕ
+    arabic: نِسَآءَكُمۡۚ
     translation: your women
     transliteration: nisāakum
   21:
-    arabic: وَفِىۡ
+    arabic: وَفِي
     translation: And in
     transliteration: wafī
   22:
-    arabic: ذٰ لِكُمۡ
+    arabic: ذَٰلِكُم
     translation: that
     transliteration: dhālikum
   23:
-    arabic: بَلَاۤ ءٌ
+    arabic: بَلَآءٞ
     translation: (was) a trial
     transliteration: balāon
   24:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: from
     transliteration: min
   25:
@@ -109,7 +109,7 @@ word_by_word:
     translation: your Lord
     transliteration: rabbikum
   26:
-    arabic: عَظِيۡمٌ‏
+    arabic: عَظِيمٞ
     translation: great
     transliteration: ʿaẓīmun
 ---

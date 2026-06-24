@@ -1,20 +1,20 @@
 ---
-arabic_ayat: يٰۤـاَيُّهَا الَّذِيۡنَ اٰمَنُوۡا لَا تَتَّخِذُوا الۡكٰفِرِيۡنَ اَوۡلِيَآءَ
-  مِنۡ دُوۡنِ الۡمُؤۡمِنِيۡنَ​ ؕ اَ تُرِيۡدُوۡنَ اَنۡ تَجۡعَلُوۡا لِلّٰهِ عَلَيۡكُمۡ
-  سُلۡطٰنًا مُّبِيۡنًا‏
+arabic_ayat: يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُواْ لَا تَتَّخِذُواْ ٱلۡكَٰفِرِينَ أَوۡلِيَآءَ
+  مِن دُونِ ٱلۡمُؤۡمِنِينَۚ أَتُرِيدُونَ أَن تَجۡعَلُواْ لِلَّهِ عَلَيۡكُمۡ سُلۡطَٰنٗا
+  مُّبِينًا
 sentence_translation: O believers! Do not take disbelievers as allies instead of the
   believers. Would you like to give Allah solid proof against yourselves?
 word_by_word:
   1:
-    arabic: يٰۤـاَيُّهَا
+    arabic: يَٰٓأَيُّهَا
     translation: O you
     transliteration: yāayyuhā
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ ءَ
     translation: who
     transliteration: alladhīna
   3:
-    arabic: اٰمَنُوۡا
+    arabic: امَنُواْ
     translation: believe[d]
     transliteration: āmanū
   4:
@@ -22,43 +22,43 @@ word_by_word:
     translation: (Do) not
     transliteration: lā
   5:
-    arabic: تَتَّخِذُوا
+    arabic: تَتَّخِذُواْ
     translation: take
     transliteration: tattakhidhū
   6:
-    arabic: الۡكٰفِرِيۡنَ
+    arabic: ٱلۡكَٰفِرِينَ
     translation: the disbelievers
     transliteration: l-kāfirīna
   7:
-    arabic: اَوۡلِيَآءَ
+    arabic: أَوۡلِيَآءَ
     translation: (as) allies
     transliteration: awliyāa
   8:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   9:
-    arabic: دُوۡنِ
+    arabic: دُونِ
     translation: instead of
     transliteration: dūni
   10:
-    arabic: الۡمُؤۡمِنِيۡنَ​ ؕ
+    arabic: ٱلۡمُؤۡمِنِينَۚ
     translation: the believers
     transliteration: l-mu'minīna
   11:
-    arabic: اَ تُرِيۡدُوۡنَ
+    arabic: أَتُرِيدُونَ
     translation: Do you wish
     transliteration: aturīdūna
   12:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that
     transliteration: an
   13:
-    arabic: تَجۡعَلُوۡا
+    arabic: تَجۡعَلُواْ
     translation: you make
     transliteration: tajʿalū
   14:
-    arabic: لِلّٰهِ
+    arabic: لِلَّهِ
     translation: for Allah
     transliteration: lillahi
   15:
@@ -66,11 +66,11 @@ word_by_word:
     translation: against you
     transliteration: ʿalaykum
   16:
-    arabic: سُلۡطٰنًا
+    arabic: سُلۡطَٰنٗا
     translation: an evidence
     transliteration: sul'ṭānan
   17:
-    arabic: مُّبِيۡنًا‏
+    arabic: مُّبِينًا
     translation: clear
     transliteration: mubīnan
 ---

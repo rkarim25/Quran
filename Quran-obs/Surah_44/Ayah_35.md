@@ -1,18 +1,18 @@
 ---
-arabic_ayat: اِنۡ هِىَ اِلَّا مَوۡتَتُنَا الۡاُوۡلٰى وَمَا نَحۡنُ بِمُنۡشَرِيۡنَ‏
+arabic_ayat: إِنۡ هِيَ إِلَّا مَوۡتَتُنَا ٱلۡأُولَىٰ وَمَا نَحۡنُ بِمُنشَرِينَ
 sentence_translation: “There is nothing beyond our first death, and we will never
   be resurrected.
 word_by_word:
   1:
-    arabic: اِنۡ
+    arabic: إِنۡ
     translation: Not
     transliteration: in
   2:
-    arabic: هِىَ
+    arabic: هِيَ
     translation: it
     transliteration: hiya
   3:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: (is) but
     transliteration: illā
   4:
@@ -20,7 +20,7 @@ word_by_word:
     translation: our death
     transliteration: mawtatunā
   5:
-    arabic: الۡاُوۡلٰى
+    arabic: ٱلۡأُولَىٰ
     translation: the first
     transliteration: l-ūlā
   6:
@@ -32,7 +32,7 @@ word_by_word:
     translation: we
     transliteration: naḥnu
   8:
-    arabic: بِمُنۡشَرِيۡنَ‏
+    arabic: بِمُنشَرِينَ
     translation: (will be) raised again
     transliteration: bimunsharīna
 ---

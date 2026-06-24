@@ -1,6 +1,6 @@
 ---
-arabic_ayat: وَيَوۡمَ يَعَضُّ الظَّالِمُ عَلٰى يَدَيۡهِ يَقُوۡلُ يٰلَيۡتَنِى اتَّخَذۡتُ
-  مَعَ الرَّسُوۡلِ سَبِيۡلًا‏
+arabic_ayat: وَيَوۡمَ يَعَضُّ ٱلظَّالِمُ عَلَىٰ يَدَيۡهِ يَقُولُ يَٰلَيۡتَنِي ٱتَّخَذۡتُ
+  مَعَ ٱلرَّسُولِ سَبِيلٗا
 sentence_translation: And ˹beware of˺ the Day the wrongdoer will bite his nails ˹in
   regret˺ and say, “Oh! I wish I had followed the Way along with the Messenger!
 word_by_word:
@@ -13,11 +13,11 @@ word_by_word:
     translation: will bite
     transliteration: yaʿaḍḍu
   3:
-    arabic: الظَّالِمُ
+    arabic: ٱلظَّالِمُ
     translation: the wrongdoer
     transliteration: l-ẓālimu
   4:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: '[on]'
     transliteration: ʿalā
   5:
@@ -25,15 +25,15 @@ word_by_word:
     translation: his hands
     transliteration: yadayhi
   6:
-    arabic: يَقُوۡلُ
+    arabic: يَقُولُ
     translation: he will say
     transliteration: yaqūlu
   7:
-    arabic: يٰلَيۡتَنِى
+    arabic: يَٰلَيۡتَنِي
     translation: O I wish
     transliteration: yālaytanī
   8:
-    arabic: اتَّخَذۡتُ
+    arabic: ٱتَّخَذۡتُ
     translation: I had taken
     transliteration: ittakhadhtu
   9:
@@ -41,11 +41,11 @@ word_by_word:
     translation: with
     transliteration: maʿa
   10:
-    arabic: الرَّسُوۡلِ
+    arabic: ٱلرَّسُولِ
     translation: the Messenger
     transliteration: l-rasūli
   11:
-    arabic: سَبِيۡلًا‏
+    arabic: سَبِيلٗا
     translation: a way
     transliteration: sabīlan
 ---

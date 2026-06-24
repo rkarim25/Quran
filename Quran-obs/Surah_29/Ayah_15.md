@@ -1,31 +1,30 @@
 ---
-arabic_ayat: "فَاَنۡجَيۡنٰهُ وَاَصۡحٰبَ السَّفِيۡنَةِ وَجَعَلۡنٰهَاۤ اٰيَةً لِّـلۡعٰلَمِيۡنَ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: فَأَنجَيۡنَٰهُ وَأَصۡحَٰبَ ٱلسَّفِينَةِ وَجَعَلۡنَٰهَآ ءَايَةٗ لِّلۡعَٰلَمِينَ
 sentence_translation: But We delivered him and those in the Ark, making it a sign
   for all people.
 word_by_word:
   1:
-    arabic: فَاَنۡجَيۡنٰهُ
+    arabic: فَأَنجَيۡنَٰهُ
     translation: But We saved him
     transliteration: fa-anjaynāhu
   2:
-    arabic: وَاَصۡحٰبَ
+    arabic: وَأَصۡحَٰبَ
     translation: and (the) people
     transliteration: wa-aṣḥāba
   3:
-    arabic: السَّفِيۡنَةِ
+    arabic: ٱلسَّفِينَةِ
     translation: (of) the ship
     transliteration: l-safīnati
   4:
-    arabic: وَجَعَلۡنٰهَاۤ
+    arabic: وَجَعَلۡنَٰهَآ ءَ
     translation: and We made it
     transliteration: wajaʿalnāhā
   5:
-    arabic: اٰيَةً
+    arabic: ايَةٗ
     translation: a Sign
     transliteration: āyatan
   6:
-    arabic: "لِّـلۡعٰلَمِيۡنَ‏ \uFEFF\uFEFF"
+    arabic: لِّلۡعَٰلَمِينَ
     translation: for the worlds
     transliteration: lil'ʿālamīna
 ---

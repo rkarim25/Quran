@@ -1,39 +1,38 @@
 ---
-arabic_ayat: "اَلَّذِيۡنَ اٰتَيۡنٰهُمُ الۡـكِتٰبَ مِنۡ قَبۡلِهٖ هُمۡ بِهٖ يُؤۡمِنُوۡنَ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: ٱلَّذِينَ ءَاتَيۡنَٰهُمُ ٱلۡكِتَٰبَ مِن قَبۡلِهِۦ هُم بِهِۦ يُؤۡمِنُونَ
 sentence_translation: ˹As for˺ those ˹faithful˺ to whom We had given the Scripture
   before this ˹Quran˺, they do believe in it.
 word_by_word:
   1:
-    arabic: اَلَّذِيۡنَ
+    arabic: ٱلَّذِينَ ءَ
     translation: Those who
     transliteration: alladhīna
   2:
-    arabic: اٰتَيۡنٰهُمُ
+    arabic: اتَيۡنَٰهُمُ
     translation: We gave them
     transliteration: ātaynāhumu
   3:
-    arabic: الۡـكِتٰبَ
+    arabic: ٱلۡكِتَٰبَ
     translation: the Scripture
     transliteration: l-kitāba
   4:
-    arabic: مِنۡ
+    arabic: مِن
     translation: before it
     transliteration: min
   5:
-    arabic: قَبۡلِهٖ
+    arabic: قَبۡلِهِۦ
     translation: before it
     transliteration: qablihi
   6:
-    arabic: هُمۡ
+    arabic: هُم
     translation: they
     transliteration: hum
   7:
-    arabic: بِهٖ
+    arabic: بِهِۦ
     translation: in it
     transliteration: bihi
   8:
-    arabic: "يُؤۡمِنُوۡنَ‏ \uFEFF\uFEFF"
+    arabic: يُؤۡمِنُونَ
     translation: believe
     transliteration: yu'minūna
 ---

@@ -1,31 +1,31 @@
 ---
-arabic_ayat: وَاَقِيۡمُوا الصَّلٰوةَ وَ اٰ تُوا الزَّكٰوةَ وَاَطِيۡـعُوا الرَّسُوۡلَ
-  لَعَلَّكُمۡ تُرۡحَمُوۡنَ‏
+arabic_ayat: وَأَقِيمُواْ ٱلصَّلَوٰةَ وَءَاتُواْ ٱلزَّكَوٰةَ وَأَطِيعُواْ ٱلرَّسُولَ
+  لَعَلَّكُمۡ تُرۡحَمُونَ
 sentence_translation: Moreover, establish prayer, pay alms-tax, and obey the Messenger,
   so you may be shown mercy.
 word_by_word:
   1:
-    arabic: وَاَقِيۡمُوا
+    arabic: وَأَقِيمُواْ
     translation: And establish
     transliteration: wa-aqīmū
   2:
-    arabic: الصَّلٰوةَ
+    arabic: ٱلصَّلَوٰةَ
     translation: the prayer
     transliteration: l-ṣalata
   3:
-    arabic: وَ اٰ تُوا
+    arabic: وَءَاتُواْ
     translation: and give
     transliteration: waātū
   4:
-    arabic: الزَّكٰوةَ
+    arabic: ٱلزَّكَوٰةَ
     translation: zakah
     transliteration: l-zakata
   5:
-    arabic: وَاَطِيۡـعُوا
+    arabic: وَأَطِيعُواْ
     translation: and obey
     transliteration: wa-aṭīʿū
   6:
-    arabic: الرَّسُوۡلَ
+    arabic: ٱلرَّسُولَ
     translation: the Messenger
     transliteration: l-rasūla
   7:
@@ -33,7 +33,7 @@ word_by_word:
     translation: so that you may
     transliteration: laʿallakum
   8:
-    arabic: تُرۡحَمُوۡنَ‏
+    arabic: تُرۡحَمُونَ
     translation: receive mercy
     transliteration: tur'ḥamūna
 ---

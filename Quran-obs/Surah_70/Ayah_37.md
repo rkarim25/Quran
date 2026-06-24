@@ -1,5 +1,5 @@
 ---
-arabic_ayat: عَنِ الۡيَمِيۡنِ وَعَنِ الشِّمَالِ عِزِيۡنَ‏
+arabic_ayat: عَنِ ٱلۡيَمِينِ وَعَنِ ٱلشِّمَالِ عِزِينَ
 sentence_translation: from the right and the left, in groups ˹to mock you˺?
 word_by_word:
   1:
@@ -7,7 +7,7 @@ word_by_word:
     translation: 'On'
     transliteration: ʿani
   2:
-    arabic: الۡيَمِيۡنِ
+    arabic: ٱلۡيَمِينِ
     translation: the right
     transliteration: l-yamīni
   3:
@@ -15,11 +15,11 @@ word_by_word:
     translation: and on
     transliteration: waʿani
   4:
-    arabic: الشِّمَالِ
+    arabic: ٱلشِّمَالِ
     translation: the left
     transliteration: l-shimāli
   5:
-    arabic: عِزِيۡنَ‏
+    arabic: عِزِينَ
     translation: (in) separate groups
     transliteration: ʿizīna
 ---

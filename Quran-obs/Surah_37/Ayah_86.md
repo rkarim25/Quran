@@ -1,25 +1,25 @@
 ---
-arabic_ayat: اَٮِٕفۡكًا اٰلِهَةً دُوۡنَ اللّٰهِ تُرِيۡدُوۡنَؕ‏
+arabic_ayat: أَئِفۡكًا ءَالِهَةٗ دُونَ ٱللَّهِ تُرِيدُونَ
 sentence_translation: Is it false gods that you desire instead of Allah?
 word_by_word:
   1:
-    arabic: اَٮِٕفۡكًا
+    arabic: أَئِفۡكًا ءَ
     translation: 'Is it falsehood '
     transliteration: a-if'kan
   2:
-    arabic: اٰلِهَةً
+    arabic: الِهَةٗ
     translation: gods
     transliteration: ālihatan
   3:
-    arabic: دُوۡنَ
+    arabic: دُونَ
     translation: other than
     transliteration: dūna
   4:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: 'Allah '
     transliteration: l-lahi
   5:
-    arabic: تُرِيۡدُوۡنَؕ‏
+    arabic: تُرِيدُونَ
     translation: (that) you desire
     transliteration: turīdūna
 ---

@@ -1,21 +1,21 @@
 ---
-arabic_ayat: اَمۡ لَـكُمۡ سُلۡطٰنٌ مُّبِيۡنٌۙ‏
+arabic_ayat: أَمۡ لَكُمۡ سُلۡطَٰنٞ مُّبِينٞ
 sentence_translation: Or do you have ˹any˺ compelling proof?
 word_by_word:
   1:
-    arabic: اَمۡ
+    arabic: أَمۡ
     translation: Or
     transliteration: am
   2:
-    arabic: لَـكُمۡ
+    arabic: لَكُمۡ
     translation: (is) for you
     transliteration: lakum
   3:
-    arabic: سُلۡطٰنٌ
+    arabic: سُلۡطَٰنٞ
     translation: an authority
     transliteration: sul'ṭānun
   4:
-    arabic: مُّبِيۡنٌۙ‏
+    arabic: مُّبِينٞ
     translation: clear
     transliteration: mubīnun
 ---

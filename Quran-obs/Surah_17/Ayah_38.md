@@ -1,5 +1,5 @@
 ---
-arabic_ayat: كُلُّ ذٰ لِكَ كَانَ سَيِّئُهٗ عِنۡدَ رَبِّكَ مَكۡرُوۡهًا‏
+arabic_ayat: كُلُّ ذَٰلِكَ كَانَ سَيِّئُهُۥ عِندَ رَبِّكَ مَكۡرُوهٗا
 sentence_translation: The violation of any of these ˹commandments˺ is detestable to
   your Lord.
 word_by_word:
@@ -8,7 +8,7 @@ word_by_word:
     translation: All
     transliteration: kullu
   2:
-    arabic: ذٰ لِكَ
+    arabic: ذَٰلِكَ
     translation: that
     transliteration: dhālika
   3:
@@ -16,11 +16,11 @@ word_by_word:
     translation: is
     transliteration: kāna
   4:
-    arabic: سَيِّئُهٗ
+    arabic: سَيِّئُهُۥ
     translation: '[its] evil'
     transliteration: sayyi-uhu
   5:
-    arabic: عِنۡدَ
+    arabic: عِندَ
     translation: near
     transliteration: ʿinda
   6:
@@ -28,7 +28,7 @@ word_by_word:
     translation: your Lord
     transliteration: rabbika
   7:
-    arabic: مَكۡرُوۡهًا‏
+    arabic: مَكۡرُوهٗا
     translation: hateful
     transliteration: makrūhan
 ---

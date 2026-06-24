@@ -1,9 +1,9 @@
 ---
-arabic_ayat: اَوۡلٰى لَكَ فَاَوۡلٰىۙ‏
+arabic_ayat: أَوۡلَىٰ لَكَ فَأَوۡلَىٰ
 sentence_translation: Woe to you, and more woe!
 word_by_word:
   1:
-    arabic: اَوۡلٰى
+    arabic: أَوۡلَىٰ
     translation: Woe
     transliteration: awlā
   2:
@@ -11,7 +11,7 @@ word_by_word:
     translation: to you
     transliteration: laka
   3:
-    arabic: فَاَوۡلٰىۙ‏
+    arabic: فَأَوۡلَىٰ
     translation: and woe
     transliteration: fa-awlā
 ---

@@ -1,19 +1,19 @@
 ---
-arabic_ayat: فَاٰمَنَ لَهٗ لُوۡطٌ​ۘ وَقَالَ اِنِّىۡ مُهَاجِرٌ اِلٰى رَبِّىۡ ؕ اِنَّهٗ
-  هُوَ الۡعَزِيۡزُ الۡحَكِيۡمُ‏
+arabic_ayat: ۞ فَـَٔامَنَ لَهُۥ لُوطٞۘ وَقَالَ إِنِّي مُهَاجِرٌ إِلَىٰ رَبِّيٓۖ إِنَّهُۥ
+  هُوَ ٱلۡعَزِيزُ ٱلۡحَكِيمُ
 sentence_translation: So Lot believed in him. And Abraham said, “I am emigrating ˹in
   obedience˺ to my Lord. He ˹alone˺ is indeed the Almighty, All-Wise.”
 word_by_word:
   1:
-    arabic: ۞ فَاٰمَنَ
+    arabic: ۞ فَـَٔامَنَ
     translation: And believed
     transliteration: faāmana
   2:
-    arabic: لَهٗ
+    arabic: لَهُۥ
     translation: '[in] him'
     transliteration: lahu
   3:
-    arabic: لُوۡطٌ​ۘ
+    arabic: لُوطٞۘ
     translation: Lut
     transliteration: lūṭun
   4:
@@ -21,7 +21,7 @@ word_by_word:
     translation: and he said
     transliteration: waqāla
   5:
-    arabic: اِنِّىۡ
+    arabic: إِنِّي
     translation: Indeed I (am)
     transliteration: innī
   6:
@@ -29,15 +29,15 @@ word_by_word:
     translation: emigrating
     transliteration: muhājirun
   7:
-    arabic: اِلٰى
+    arabic: إِلَىٰ
     translation: to
     transliteration: ilā
   8:
-    arabic: رَبِّىۡ ؕ
+    arabic: رَبِّيٓۖ
     translation: my Lord
     transliteration: rabbī
   9:
-    arabic: اِنَّهٗ
+    arabic: إِنَّهُۥ
     translation: Indeed, He
     transliteration: innahu
   10:
@@ -45,11 +45,11 @@ word_by_word:
     translation: '[He] (is)'
     transliteration: huwa
   11:
-    arabic: الۡعَزِيۡزُ
+    arabic: ٱلۡعَزِيزُ
     translation: the All-Mighty
     transliteration: l-ʿazīzu
   12:
-    arabic: الۡحَكِيۡمُ‏
+    arabic: ٱلۡحَكِيمُ
     translation: the All-Wise
     transliteration: l-ḥakīmu
 ---

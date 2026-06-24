@@ -1,26 +1,26 @@
 ---
-arabic_ayat: وَفِىۡ مُوۡسٰۤی اِذۡ اَرۡسَلۡنٰهُ اِلٰى فِرۡعَوۡنَ بِسُلۡطٰنٍ مُّبِيۡنٍ‏
+arabic_ayat: وَفِي مُوسَىٰٓ إِذۡ أَرۡسَلۡنَٰهُ إِلَىٰ فِرۡعَوۡنَ بِسُلۡطَٰنٖ مُّبِينٖ
 sentence_translation: And in ˹the story of˺ Moses ˹was another lesson,˺ when We sent
   him to Pharaoh with compelling proof,
 word_by_word:
   1:
-    arabic: وَفِىۡ
+    arabic: وَفِي
     translation: And in
     transliteration: wafī
   2:
-    arabic: مُوۡسٰۤی
+    arabic: مُوسَىٰٓ
     translation: Musa
     transliteration: mūsā
   3:
-    arabic: اِذۡ
+    arabic: إِذۡ
     translation: when
     transliteration: idh
   4:
-    arabic: اَرۡسَلۡنٰهُ
+    arabic: أَرۡسَلۡنَٰهُ
     translation: We sent him
     transliteration: arsalnāhu
   5:
-    arabic: اِلٰى
+    arabic: إِلَىٰ
     translation: to
     transliteration: ilā
   6:
@@ -28,11 +28,11 @@ word_by_word:
     translation: Firaun
     transliteration: fir'ʿawna
   7:
-    arabic: بِسُلۡطٰنٍ
+    arabic: بِسُلۡطَٰنٖ
     translation: with an authority
     transliteration: bisul'ṭānin
   8:
-    arabic: مُّبِيۡنٍ‏
+    arabic: مُّبِينٖ
     translation: clear
     transliteration: mubīnin
 ---

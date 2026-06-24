@@ -1,9 +1,9 @@
 ---
-arabic_ayat: اَنَّا صَبَبۡنَا الۡمَآءَ صَبًّا ۙ‏
+arabic_ayat: أَنَّا صَبَبۡنَا ٱلۡمَآءَ صَبّٗا
 sentence_translation: how We pour down rain in abundance
 word_by_word:
   1:
-    arabic: اَنَّا
+    arabic: أَنَّا
     translation: That [We]
     transliteration: annā
   2:
@@ -11,11 +11,11 @@ word_by_word:
     translation: '[We] poured'
     transliteration: ṣababnā
   3:
-    arabic: الۡمَآءَ
+    arabic: ٱلۡمَآءَ
     translation: the water
     transliteration: l-māa
   4:
-    arabic: صَبًّا ۙ‏
+    arabic: صَبّٗا
     translation: (in) abundance
     transliteration: ṣabban
 ---

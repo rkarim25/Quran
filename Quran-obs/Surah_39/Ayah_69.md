@@ -1,20 +1,20 @@
 ---
-arabic_ayat: وَاَشۡرَقَتِ الۡاَرۡضُ بِنُوۡرِ رَبِّهَا وَوُضِعَ الۡكِتٰبُ وَجِآىْ
-  َٔ بِالنَّبِيّٖنَ وَالشُّهَدَآءِ وَقُضِىَ بَيۡنَهُمۡ بِالۡحَقِّ وَهُمۡ لَا يُظۡلَمُوۡنَ‏
+arabic_ayat: وَأَشۡرَقَتِ ٱلۡأَرۡضُ بِنُورِ رَبِّهَا وَوُضِعَ ٱلۡكِتَٰبُ وَجِاْيٓءَ
+  بِٱلنَّبِيِّـۧنَ وَٱلشُّهَدَآءِ وَقُضِيَ بَيۡنَهُم بِٱلۡحَقِّ وَهُمۡ لَا يُظۡلَمُونَ
 sentence_translation: The earth will shine with the light of its Lord, the record
   ˹of deeds˺ will be laid ˹open˺, the prophets and the witnesses will be brought forward—and
   judgment will be passed on all with fairness. None will be wronged.
 word_by_word:
   1:
-    arabic: وَاَشۡرَقَتِ
+    arabic: وَأَشۡرَقَتِ
     translation: And (will) shine
     transliteration: wa-ashraqati
   2:
-    arabic: الۡاَرۡضُ
+    arabic: ٱلۡأَرۡضُ
     translation: the earth
     transliteration: l-arḍu
   3:
-    arabic: بِنُوۡرِ
+    arabic: بِنُورِ
     translation: with (the) light
     transliteration: binūri
   4:
@@ -26,31 +26,31 @@ word_by_word:
     translation: and (will) be placed
     transliteration: wawuḍiʿa
   6:
-    arabic: الۡكِتٰبُ
+    arabic: ٱلۡكِتَٰبُ
     translation: the Record
     transliteration: l-kitābu
   7:
-    arabic: وَجِآىْ َٔ
+    arabic: وَجِاْيٓءَ
     translation: and (will) be brought
     transliteration: wajīa
   8:
-    arabic: بِالنَّبِيّٖنَ
+    arabic: بِٱلنَّبِيِّـۧنَ
     translation: the Prophets
     transliteration: bil-nabiyīna
   9:
-    arabic: وَالشُّهَدَآءِ
+    arabic: وَٱلشُّهَدَآءِ
     translation: and the witnesses
     transliteration: wal-shuhadāi
   10:
-    arabic: وَقُضِىَ
+    arabic: وَقُضِيَ
     translation: and it (will) be judged
     transliteration: waquḍiya
   11:
-    arabic: بَيۡنَهُمۡ
+    arabic: بَيۡنَهُم
     translation: between them
     transliteration: baynahum
   12:
-    arabic: بِالۡحَقِّ
+    arabic: بِٱلۡحَقِّ
     translation: in truth
     transliteration: bil-ḥaqi
   13:
@@ -62,7 +62,7 @@ word_by_word:
     translation: will not be wronged
     transliteration: lā
   15:
-    arabic: يُظۡلَمُوۡنَ‏
+    arabic: يُظۡلَمُونَ
     translation: will not be wronged
     transliteration: yuẓ'lamūna
 ---

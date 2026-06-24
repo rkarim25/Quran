@@ -1,6 +1,6 @@
 ---
-arabic_ayat: قَالَ هٰذَا رَحۡمَةٌ مِّنۡ رَّبِّىۡ​ ۚ فَاِذَا جَآءَ وَعۡدُ رَبِّىۡ
-  جَعَلَهٗ دَكَّآءَ​ ۚ وَكَانَ وَعۡدُ رَبِّىۡ حَقًّا ؕ‏
+arabic_ayat: قَالَ هَٰذَا رَحۡمَةٞ مِّن رَّبِّيۖ فَإِذَا جَآءَ وَعۡدُ رَبِّي جَعَلَهُۥ
+  دَكَّآءَۖ وَكَانَ وَعۡدُ رَبِّي حَقّٗا
 sentence_translation: He declared, “This is a mercy from my Lord. But when the promise
   of my Lord comes to pass, He will level it to the ground. And my Lord’s promise
   is ever true.”
@@ -10,23 +10,23 @@ word_by_word:
     translation: He said
     transliteration: qāla
   2:
-    arabic: هٰذَا
+    arabic: هَٰذَا
     translation: This
     transliteration: hādhā
   3:
-    arabic: رَحۡمَةٌ
+    arabic: رَحۡمَةٞ
     translation: (is) a mercy
     transliteration: raḥmatun
   4:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: from
     transliteration: min
   5:
-    arabic: رَّبِّىۡ​ ۚ
+    arabic: رَّبِّيۖ
     translation: my Lord
     transliteration: rabbī
   6:
-    arabic: فَاِذَا
+    arabic: فَإِذَا
     translation: But when
     transliteration: fa-idhā
   7:
@@ -38,15 +38,15 @@ word_by_word:
     translation: (the) Promise
     transliteration: waʿdu
   9:
-    arabic: رَبِّىۡ
+    arabic: رَبِّي
     translation: (of) my Lord
     transliteration: rabbī
   10:
-    arabic: جَعَلَهٗ
+    arabic: جَعَلَهُۥ
     translation: He will make it
     transliteration: jaʿalahu
   11:
-    arabic: دَكَّآءَ​ ۚ
+    arabic: دَكَّآءَۖ
     translation: level
     transliteration: dakkāa
   12:
@@ -58,11 +58,11 @@ word_by_word:
     translation: (the) Promise
     transliteration: waʿdu
   14:
-    arabic: رَبِّىۡ
+    arabic: رَبِّي
     translation: (of) my Lord
     transliteration: rabbī
   15:
-    arabic: حَقًّا ؕ‏
+    arabic: حَقّٗا
     translation: 'true'
     transliteration: ḥaqqan
 ---

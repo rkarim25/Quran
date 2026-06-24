@@ -1,30 +1,30 @@
 ---
-arabic_ayat: اِنَّ الَّذِيۡنَ يُلۡحِدُوۡنَ فِىۡۤ اٰيٰتِنَا لَا يَخۡفَوۡنَ عَلَيۡنَا
-  ؕ اَفَمَنۡ يُّلۡقٰى فِى النَّارِ خَيۡرٌ اَمۡ مَّنۡ يَّاۡتِىۡۤ اٰمِنًا يَّوۡمَ الۡقِيٰمَةِ​
-  ؕ اِعۡمَلُوۡا مَا شِئۡتُمۡ​ ۙ اِنَّهٗ بِمَا تَعۡمَلُوۡنَ بَصِيۡرٌ‏
+arabic_ayat: إِنَّ ٱلَّذِينَ يُلۡحِدُونَ فِيٓ ءَايَٰتِنَا لَا يَخۡفَوۡنَ عَلَيۡنَآۗ
+  أَفَمَن يُلۡقَىٰ فِي ٱلنَّارِ خَيۡرٌ أَم مَّن يَأۡتِيٓ ءَامِنٗا يَوۡمَ ٱلۡقِيَٰمَةِۚ
+  ٱعۡمَلُواْ مَا شِئۡتُمۡ إِنَّهُۥ بِمَا تَعۡمَلُونَ بَصِيرٌ
 sentence_translation: 'Indeed, those who abuse Our revelations are not hidden from
   Us. Who is better: the one who will be cast into the Fire or the one who will be
   secure on Judgment Day? Do whatever you want. He is certainly All-Seeing of what
   you do.'
 word_by_word:
   1:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   3:
-    arabic: يُلۡحِدُوۡنَ
+    arabic: يُلۡحِدُونَ
     translation: distort
     transliteration: yul'ḥidūna
   4:
-    arabic: فِىۡۤ
+    arabic: فِيٓ ءَ
     translation: '[in]'
     transliteration: fī
   5:
-    arabic: اٰيٰتِنَا
+    arabic: ايَٰتِنَا
     translation: Our Verses
     transliteration: āyātinā
   6:
@@ -36,23 +36,23 @@ word_by_word:
     translation: hidden
     transliteration: yakhfawna
   8:
-    arabic: عَلَيۡنَا ؕ
+    arabic: عَلَيۡنَآۗ
     translation: from Us
     transliteration: ʿalaynā
   9:
-    arabic: اَفَمَنۡ
+    arabic: أَفَمَن
     translation: So, is (he) who
     transliteration: afaman
   10:
-    arabic: يُّلۡقٰى
+    arabic: يُلۡقَىٰ
     translation: is cast
     transliteration: yul'qā
   11:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   12:
-    arabic: النَّارِ
+    arabic: ٱلنَّارِ
     translation: the Fire
     transliteration: l-nāri
   13:
@@ -60,31 +60,31 @@ word_by_word:
     translation: better
     transliteration: khayrun
   14:
-    arabic: اَمۡ
+    arabic: أَم
     translation: or
     transliteration: am
   15:
-    arabic: مَّنۡ
+    arabic: مَّن
     translation: (he) who
     transliteration: man
   16:
-    arabic: يَّاۡتِىۡۤ
+    arabic: يَأۡتِيٓ ءَ
     translation: comes
     transliteration: yatī
   17:
-    arabic: اٰمِنًا
+    arabic: امِنٗا
     translation: secure
     transliteration: āminan
   18:
-    arabic: يَّوۡمَ
+    arabic: يَوۡمَ
     translation: (on the) Day
     transliteration: yawma
   19:
-    arabic: الۡقِيٰمَةِ​ ؕ
+    arabic: ٱلۡقِيَٰمَةِۚ
     translation: (of) Resurrection
     transliteration: l-qiyāmati
   20:
-    arabic: اِعۡمَلُوۡا
+    arabic: ٱعۡمَلُواْ
     translation: Do
     transliteration: iʿ'malū
   21:
@@ -92,11 +92,11 @@ word_by_word:
     translation: what
     transliteration: mā
   22:
-    arabic: شِئۡتُمۡ​ ۙ
+    arabic: شِئۡتُمۡ
     translation: you will
     transliteration: shi'tum
   23:
-    arabic: اِنَّهٗ
+    arabic: إِنَّهُۥ
     translation: Indeed, He
     transliteration: innahu
   24:
@@ -104,11 +104,11 @@ word_by_word:
     translation: of what
     transliteration: bimā
   25:
-    arabic: تَعۡمَلُوۡنَ
+    arabic: تَعۡمَلُونَ
     translation: you do
     transliteration: taʿmalūna
   26:
-    arabic: بَصِيۡرٌ‏
+    arabic: بَصِيرٌ
     translation: (is) All-Seer
     transliteration: baṣīrun
 ---

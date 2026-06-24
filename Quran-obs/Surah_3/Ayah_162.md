@@ -1,27 +1,27 @@
 ---
-arabic_ayat: اَفَمَنِ اتَّبَعَ رِضۡوَانَ اللّٰهِ كَمَنۡۢ بَآءَ بِسَخَطٍ مِّنَ اللّٰهِ
-  وَمَاۡوٰٮهُ جَهَنَّمُ​ؕ وَ بِئۡسَ الۡمَصِيۡرُ‏
+arabic_ayat: أَفَمَنِ ٱتَّبَعَ رِضۡوَٰنَ ٱللَّهِ كَمَنۢ بَآءَ بِسَخَطٖ مِّنَ ٱللَّهِ
+  وَمَأۡوَىٰهُ جَهَنَّمُۖ وَبِئۡسَ ٱلۡمَصِيرُ
 sentence_translation: Are those who seek Allah’s pleasure like those who deserve Allah’s
   wrath? Hell is their home. What an evil destination!
 word_by_word:
   1:
-    arabic: اَفَمَنِ
+    arabic: أَفَمَنِ
     translation: So is (the one) who
     transliteration: afamani
   2:
-    arabic: اتَّبَعَ
+    arabic: ٱتَّبَعَ
     translation: pursues
     transliteration: ittabaʿa
   3:
-    arabic: رِضۡوَانَ
+    arabic: رِضۡوَٰنَ
     translation: (the) pleasure
     transliteration: riḍ'wāna
   4:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (of) Allah
     transliteration: l-lahi
   5:
-    arabic: كَمَنۡۢ
+    arabic: كَمَنۢ
     translation: like (the one) who
     transliteration: kaman
   6:
@@ -29,7 +29,7 @@ word_by_word:
     translation: draws
     transliteration: bāa
   7:
-    arabic: بِسَخَطٍ
+    arabic: بِسَخَطٖ
     translation: on (himself) wrath
     transliteration: bisakhaṭin
   8:
@@ -37,23 +37,23 @@ word_by_word:
     translation: of
     transliteration: mina
   9:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   10:
-    arabic: وَمَاۡوٰٮهُ
+    arabic: وَمَأۡوَىٰهُ
     translation: and his abode
     transliteration: wamawāhu
   11:
-    arabic: جَهَنَّمُ​ؕ
+    arabic: جَهَنَّمُۖ
     translation: (is) hell
     transliteration: jahannamu
   12:
-    arabic: وَ بِئۡسَ
+    arabic: وَبِئۡسَ
     translation: and wretched
     transliteration: wabi'sa
   13:
-    arabic: الۡمَصِيۡرُ‏
+    arabic: ٱلۡمَصِيرُ
     translation: (is) the destination
     transliteration: l-maṣīru
 ---

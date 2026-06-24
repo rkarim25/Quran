@@ -1,16 +1,16 @@
 ---
-arabic_ayat: يٰبَنِىۡۤ اِسۡرَآءِيۡلَ قَدۡ اَنۡجَيۡنٰكُمۡ مِّنۡ عَدُوِّكُمۡ وَوٰعَدۡنٰكُمۡ
-  جَانِبَ الطُّوۡرِ الۡاَيۡمَنَ وَنَزَّلۡنَا عَلَيۡكُمُ الۡمَنَّ وَالسَّلۡوٰى‏
+arabic_ayat: يَٰبَنِيٓ إِسۡرَٰٓءِيلَ قَدۡ أَنجَيۡنَٰكُم مِّنۡ عَدُوِّكُمۡ وَوَٰعَدۡنَٰكُمۡ
+  جَانِبَ ٱلطُّورِ ٱلۡأَيۡمَنَ وَنَزَّلۡنَا عَلَيۡكُمُ ٱلۡمَنَّ وَٱلسَّلۡوَىٰ
 sentence_translation: O Children of Israel! We saved you from your enemy, and made
   an appointment with you on the right side of Mount Ṭûr, and sent down to you manna
   and quails,
 word_by_word:
   1:
-    arabic: يٰبَنِىۡۤ
+    arabic: يَٰبَنِيٓ
     translation: O Children of Israel
     transliteration: yābanī
   2:
-    arabic: اِسۡرَآءِيۡلَ
+    arabic: إِسۡرَٰٓءِيلَ
     translation: O Children of Israel
     transliteration: is'rāīla
   3:
@@ -18,7 +18,7 @@ word_by_word:
     translation: Verily
     transliteration: qad
   4:
-    arabic: اَنۡجَيۡنٰكُمۡ
+    arabic: أَنجَيۡنَٰكُم
     translation: We delivered you
     transliteration: anjaynākum
   5:
@@ -30,7 +30,7 @@ word_by_word:
     translation: your enemy
     transliteration: ʿaduwwikum
   7:
-    arabic: وَوٰعَدۡنٰكُمۡ
+    arabic: وَوَٰعَدۡنَٰكُمۡ
     translation: and We made a covenant with you
     transliteration: wawāʿadnākum
   8:
@@ -38,11 +38,11 @@ word_by_word:
     translation: on (the) side
     transliteration: jāniba
   9:
-    arabic: الطُّوۡرِ
+    arabic: ٱلطُّورِ
     translation: (of) the Mount
     transliteration: l-ṭūri
   10:
-    arabic: الۡاَيۡمَنَ
+    arabic: ٱلۡأَيۡمَنَ
     translation: the right
     transliteration: l-aymana
   11:
@@ -54,11 +54,11 @@ word_by_word:
     translation: to you
     transliteration: ʿalaykumu
   13:
-    arabic: الۡمَنَّ
+    arabic: ٱلۡمَنَّ
     translation: the Manna
     transliteration: l-mana
   14:
-    arabic: وَالسَّلۡوٰى‏
+    arabic: وَٱلسَّلۡوَىٰ
     translation: and the quails
     transliteration: wal-salwā
 ---

@@ -1,7 +1,7 @@
 ---
-arabic_ayat: وَمَا كَانَ لِمُؤۡمِنٍ وَّلَا مُؤۡمِنَةٍ اِذَا قَضَى اللّٰهُ وَرَسُوۡلُهٗۤ
-  اَمۡرًا اَنۡ يَّكُوۡنَ لَهُمُ الۡخِيَرَةُ مِنۡ اَمۡرِهِمۡ ؕ وَمَنۡ يَّعۡصِ اللّٰهَ
-  وَرَسُوۡلَهٗ فَقَدۡ ضَلَّ ضَلٰلًا مُّبِيۡنًا‏
+arabic_ayat: وَمَا كَانَ لِمُؤۡمِنٖ وَلَا مُؤۡمِنَةٍ إِذَا قَضَى ٱللَّهُ وَرَسُولُهُۥٓ
+  أَمۡرًا أَن يَكُونَ لَهُمُ ٱلۡخِيَرَةُ مِنۡ أَمۡرِهِمۡۗ وَمَن يَعۡصِ ٱللَّهَ وَرَسُولَهُۥ
+  فَقَدۡ ضَلَّ ضَلَٰلٗا مُّبِينٗا
 sentence_translation: It is not for a believing man or woman—when Allah and His Messenger
   decree a matter—to have any other choice in that matter. Indeed, whoever disobeys
   Allah and His Messenger has clearly gone ˹far˺ astray.
@@ -15,11 +15,11 @@ word_by_word:
     translation: (it) is
     transliteration: kāna
   3:
-    arabic: لِمُؤۡمِنٍ
+    arabic: لِمُؤۡمِنٖ
     translation: for a believing man
     transliteration: limu'minin
   4:
-    arabic: وَّلَا
+    arabic: وَلَا
     translation: and not
     transliteration: walā
   5:
@@ -27,7 +27,7 @@ word_by_word:
     translation: (for) a believing woman
     transliteration: mu'minatin
   6:
-    arabic: اِذَا
+    arabic: إِذَا
     translation: when
     transliteration: idhā
   7:
@@ -35,23 +35,23 @@ word_by_word:
     translation: Allah has decided
     transliteration: qaḍā
   8:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah has decided
     transliteration: l-lahu
   9:
-    arabic: وَرَسُوۡلُهٗۤ
+    arabic: وَرَسُولُهُۥٓ
     translation: and His Messenger
     transliteration: warasūluhu
   10:
-    arabic: اَمۡرًا
+    arabic: أَمۡرًا
     translation: a matter
     transliteration: amran
   11:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that
     transliteration: an
   12:
-    arabic: يَّكُوۡنَ
+    arabic: يَكُونَ
     translation: (there) should be
     transliteration: yakūna
   13:
@@ -59,7 +59,7 @@ word_by_word:
     translation: for them
     transliteration: lahumu
   14:
-    arabic: الۡخِيَرَةُ
+    arabic: ٱلۡخِيَرَةُ
     translation: (any) choice
     transliteration: l-khiyaratu
   15:
@@ -67,23 +67,23 @@ word_by_word:
     translation: about
     transliteration: min
   16:
-    arabic: اَمۡرِهِمۡ ؕ
+    arabic: أَمۡرِهِمۡۗ
     translation: their affair
     transliteration: amrihim
   17:
-    arabic: وَمَنۡ
+    arabic: وَمَن
     translation: And whoever
     transliteration: waman
   18:
-    arabic: يَّعۡصِ
+    arabic: يَعۡصِ
     translation: disobeys
     transliteration: yaʿṣi
   19:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   20:
-    arabic: وَرَسُوۡلَهٗ
+    arabic: وَرَسُولَهُۥ
     translation: and His Messenger
     transliteration: warasūlahu
   21:
@@ -95,11 +95,11 @@ word_by_word:
     translation: he (has) strayed
     transliteration: ḍalla
   23:
-    arabic: ضَلٰلًا
+    arabic: ضَلَٰلٗا
     translation: (into) error
     transliteration: ḍalālan
   24:
-    arabic: مُّبِيۡنًا‏
+    arabic: مُّبِينٗا
     translation: clear
     transliteration: mubīnan
 ---

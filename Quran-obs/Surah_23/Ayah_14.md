@@ -1,7 +1,7 @@
 ---
-arabic_ayat: ثُمَّ خَلَقۡنَا النُّطۡفَةَ عَلَقَةً فَخَلَقۡنَا الۡعَلَقَةَ مُضۡغَةً
-  فَخَلَقۡنَا الۡمُضۡغَةَ عِظٰمًا فَكَسَوۡنَا الۡعِظٰمَ لَحۡمًا ثُمَّ اَنۡشَاۡنٰهُ
-  خَلۡقًا اٰخَرَ​ ؕ فَتَبٰـرَكَ اللّٰهُ اَحۡسَنُ الۡخٰلِقِيۡنَ ؕ‏
+arabic_ayat: ثُمَّ خَلَقۡنَا ٱلنُّطۡفَةَ عَلَقَةٗ فَخَلَقۡنَا ٱلۡعَلَقَةَ مُضۡغَةٗ
+  فَخَلَقۡنَا ٱلۡمُضۡغَةَ عِظَٰمٗا فَكَسَوۡنَا ٱلۡعِظَٰمَ لَحۡمٗا ثُمَّ أَنشَأۡنَٰهُ
+  خَلۡقًا ءَاخَرَۚ فَتَبَارَكَ ٱللَّهُ أَحۡسَنُ ٱلۡخَٰلِقِينَ
 sentence_translation: then We developed the drop into a clinging clot ˹of blood˺,
   then developed the clot into a lump ˹of flesh˺, then developed the lump into bones,
   then clothed the bones with flesh, then We brought it into being as a new creation. So
@@ -16,11 +16,11 @@ word_by_word:
     translation: We created
     transliteration: khalaqnā
   3:
-    arabic: النُّطۡفَةَ
+    arabic: ٱلنُّطۡفَةَ
     translation: the semen-drop
     transliteration: l-nuṭ'fata
   4:
-    arabic: عَلَقَةً
+    arabic: عَلَقَةٗ
     translation: (into) a clinging substance
     transliteration: ʿalaqatan
   5:
@@ -28,11 +28,11 @@ word_by_word:
     translation: then We created
     transliteration: fakhalaqnā
   6:
-    arabic: الۡعَلَقَةَ
+    arabic: ٱلۡعَلَقَةَ
     translation: the clinging substance
     transliteration: l-ʿalaqata
   7:
-    arabic: مُضۡغَةً
+    arabic: مُضۡغَةٗ
     translation: (into) an embryonic lump
     transliteration: muḍ'ghatan
   8:
@@ -40,11 +40,11 @@ word_by_word:
     translation: then We created
     transliteration: fakhalaqnā
   9:
-    arabic: الۡمُضۡغَةَ
+    arabic: ٱلۡمُضۡغَةَ
     translation: the embryonic lump
     transliteration: l-muḍ'ghata
   10:
-    arabic: عِظٰمًا
+    arabic: عِظَٰمٗا
     translation: (into) bones
     transliteration: ʿiẓāman
   11:
@@ -52,11 +52,11 @@ word_by_word:
     translation: then We clothed
     transliteration: fakasawnā
   12:
-    arabic: الۡعِظٰمَ
+    arabic: ٱلۡعِظَٰمَ
     translation: the bones
     transliteration: l-ʿiẓāma
   13:
-    arabic: لَحۡمًا
+    arabic: لَحۡمٗا
     translation: (with) flesh
     transliteration: laḥman
   14:
@@ -64,31 +64,31 @@ word_by_word:
     translation: then
     transliteration: thumma
   15:
-    arabic: اَنۡشَاۡنٰهُ
+    arabic: أَنشَأۡنَٰهُ
     translation: We produce it
     transliteration: anshanāhu
   16:
-    arabic: خَلۡقًا
+    arabic: خَلۡقًا ءَ
     translation: (as) a creation
     transliteration: khalqan
   17:
-    arabic: اٰخَرَ​ ؕ
+    arabic: اخَرَۚ
     translation: another
     transliteration: ākhara
   18:
-    arabic: فَتَبٰـرَكَ
+    arabic: فَتَبَارَكَ
     translation: So blessed is
     transliteration: fatabāraka
   19:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   20:
-    arabic: اَحۡسَنُ
+    arabic: أَحۡسَنُ
     translation: (the) Best
     transliteration: aḥsanu
   21:
-    arabic: الۡخٰلِقِيۡنَ ؕ‏
+    arabic: ٱلۡخَٰلِقِينَ
     translation: (of) the Creators
     transliteration: l-khāliqīna
 ---

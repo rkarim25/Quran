@@ -1,6 +1,6 @@
 ---
-arabic_ayat: فَخَرَجَ مِنۡهَا خَآٮِٕفًا يَّتَرَقَّبُ​ قَالَ رَبِّ نَجِّنِىۡ مِنَ
-  الۡقَوۡمِ الظّٰلِمِيۡنَ‏
+arabic_ayat: فَخَرَجَ مِنۡهَا خَآئِفٗا يَتَرَقَّبُۖ قَالَ رَبِّ نَجِّنِي مِنَ ٱلۡقَوۡمِ
+  ٱلظَّٰلِمِينَ
 sentence_translation: So Moses left the city in a state of fear and caution, praying,
   “My Lord! Deliver me from the wrongdoing people.”
 word_by_word:
@@ -13,11 +13,11 @@ word_by_word:
     translation: from it
     transliteration: min'hā
   3:
-    arabic: خَآٮِٕفًا
+    arabic: خَآئِفٗا
     translation: fearing
     transliteration: khāifan
   4:
-    arabic: يَّتَرَقَّبُ​
+    arabic: يَتَرَقَّبُۖ
     translation: (and) vigilant
     transliteration: yataraqqabu
   5:
@@ -29,7 +29,7 @@ word_by_word:
     translation: My Lord
     transliteration: rabbi
   7:
-    arabic: نَجِّنِىۡ
+    arabic: نَجِّنِي
     translation: Save me
     transliteration: najjinī
   8:
@@ -37,11 +37,11 @@ word_by_word:
     translation: from
     transliteration: mina
   9:
-    arabic: الۡقَوۡمِ
+    arabic: ٱلۡقَوۡمِ
     translation: 'the people '
     transliteration: l-qawmi
   10:
-    arabic: الظّٰلِمِيۡنَ‏
+    arabic: ٱلظَّٰلِمِينَ
     translation: the wrongdoers
     transliteration: l-ẓālimīna
 ---

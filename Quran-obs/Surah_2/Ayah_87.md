@@ -1,8 +1,8 @@
 ---
-arabic_ayat: وَ لَقَدۡ اٰتَيۡنَا مُوۡسَى الۡكِتٰبَ وَقَفَّيۡنَا مِنۡۢ بَعۡدِهٖ بِالرُّسُلِ​
-  وَاٰتَيۡنَا عِيۡسَى ابۡنَ مَرۡيَمَ الۡبَيِّنٰتِ وَاَيَّدۡنٰهُ بِرُوۡحِ الۡقُدُسِ​ؕ
-  اَفَكُلَّمَا جَآءَكُمۡ رَسُوۡلٌۢ بِمَا لَا تَهۡوٰٓى اَنۡفُسُكُمُ اسۡتَكۡبَرۡتُمۡ​ۚ
-  فَفَرِيۡقًا كَذَّبۡتُمۡ وَفَرِيۡقًا تَقۡتُلُوۡنَ‏
+arabic_ayat: وَلَقَدۡ ءَاتَيۡنَا مُوسَى ٱلۡكِتَٰبَ وَقَفَّيۡنَا مِنۢ بَعۡدِهِۦ بِٱلرُّسُلِۖ
+  وَءَاتَيۡنَا عِيسَى ٱبۡنَ مَرۡيَمَ ٱلۡبَيِّنَٰتِ وَأَيَّدۡنَٰهُ بِرُوحِ ٱلۡقُدُسِۗ
+  أَفَكُلَّمَا جَآءَكُمۡ رَسُولُۢ بِمَا لَا تَهۡوَىٰٓ أَنفُسُكُمُ ٱسۡتَكۡبَرۡتُمۡ
+  فَفَرِيقٗا كَذَّبۡتُمۡ وَفَرِيقٗا تَقۡتُلُونَ
 sentence_translation: Indeed, We gave Moses the Book and sent after him successive
   messengers. And We gave Jesus, son of Mary, clear proofs and supported him with
   the holy spirit. Why is it that every time a messenger comes to you ˹Israelites˺
@@ -10,19 +10,19 @@ sentence_translation: Indeed, We gave Moses the Book and sent after him successi
   others?
 word_by_word:
   1:
-    arabic: وَ لَقَدۡ
+    arabic: وَلَقَدۡ ءَ
     translation: And indeed
     transliteration: walaqad
   2:
-    arabic: اٰتَيۡنَا
+    arabic: اتَيۡنَا
     translation: We gave
     transliteration: ātaynā
   3:
-    arabic: مُوۡسَى
+    arabic: مُوسَى
     translation: Musa
     transliteration: mūsā
   4:
-    arabic: الۡكِتٰبَ
+    arabic: ٱلۡكِتَٰبَ
     translation: the Book
     transliteration: l-kitāba
   5:
@@ -30,27 +30,27 @@ word_by_word:
     translation: and We followed up
     transliteration: waqaffaynā
   6:
-    arabic: مِنۡۢ
+    arabic: مِنۢ
     translation: from
     transliteration: min
   7:
-    arabic: بَعۡدِهٖ
+    arabic: بَعۡدِهِۦ
     translation: after him
     transliteration: baʿdihi
   8:
-    arabic: بِالرُّسُلِ​
+    arabic: بِٱلرُّسُلِۖ
     translation: with [the] Messengers
     transliteration: bil-rusuli
   9:
-    arabic: وَاٰتَيۡنَا
+    arabic: وَءَاتَيۡنَا
     translation: And We gave
     transliteration: waātaynā
   10:
-    arabic: عِيۡسَى
+    arabic: عِيسَى
     translation: Isa
     transliteration: ʿīsā
   11:
-    arabic: ابۡنَ
+    arabic: ٱبۡنَ
     translation: (the) son
     transliteration: ib'na
   12:
@@ -58,23 +58,23 @@ word_by_word:
     translation: (of) Maryam
     transliteration: maryama
   13:
-    arabic: الۡبَيِّنٰتِ
+    arabic: ٱلۡبَيِّنَٰتِ
     translation: '[the] clear signs'
     transliteration: l-bayināti
   14:
-    arabic: وَاَيَّدۡنٰهُ
+    arabic: وَأَيَّدۡنَٰهُ
     translation: and We supported him
     transliteration: wa-ayyadnāhu
   15:
-    arabic: بِرُوۡحِ
+    arabic: بِرُوحِ
     translation: (with)
     transliteration: birūḥi
   16:
-    arabic: الۡقُدُسِ​ؕ
+    arabic: ٱلۡقُدُسِۗ
     translation: the Holy Spirit
     transliteration: l-qudusi
   17:
-    arabic: اَفَكُلَّمَا
+    arabic: أَفَكُلَّمَا
     translation: Is it (not) so (that) whenever
     transliteration: afakullamā
   18:
@@ -82,7 +82,7 @@ word_by_word:
     translation: came to you
     transliteration: jāakum
   19:
-    arabic: رَسُوۡلٌۢ
+    arabic: رَسُولُۢ
     translation: a Messenger
     transliteration: rasūlun
   20:
@@ -94,31 +94,31 @@ word_by_word:
     translation: (does) not
     transliteration: lā
   22:
-    arabic: تَهۡوٰٓى
+    arabic: تَهۡوَىٰٓ
     translation: desire
     transliteration: tahwā
   23:
-    arabic: اَنۡفُسُكُمُ
+    arabic: أَنفُسُكُمُ
     translation: yourselves
     transliteration: anfusukumu
   24:
-    arabic: اسۡتَكۡبَرۡتُمۡ​ۚ
+    arabic: ٱسۡتَكۡبَرۡتُمۡ
     translation: you acted arrogantly
     transliteration: is'takbartum
   25:
-    arabic: فَفَرِيۡقًا
+    arabic: فَفَرِيقٗا
     translation: So a party
     transliteration: fafarīqan
   26:
-    arabic: كَذَّبۡتُمۡ
+    arabic: كَذَّبۡتُمۡ
     translation: you denied
     transliteration: kadhabtum
   27:
-    arabic: وَفَرِيۡقًا
+    arabic: وَفَرِيقٗا
     translation: and a party
     transliteration: wafarīqan
   28:
-    arabic: تَقۡتُلُوۡنَ‏
+    arabic: تَقۡتُلُونَ
     translation: you kill(ed)
     transliteration: taqtulūna
 ---

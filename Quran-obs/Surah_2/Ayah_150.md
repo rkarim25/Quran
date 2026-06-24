@@ -1,8 +1,8 @@
 ---
-arabic_ayat: وَمِنۡ حَيۡثُ خَرَجۡتَ فَوَلِّ وَجۡهَكَ شَطۡرَ الۡمَسۡجِدِ الۡحَـرَامِؕ
-  وَحَيۡثُ مَا كُنۡتُمۡ فَوَلُّوۡا وُجُوۡهَڪُمۡ شَطۡرَهٗ ۙ لِئَلَّا يَكُوۡنَ لِلنَّاسِ
-  عَلَيۡكُمۡ حُجَّةٌ اِلَّا الَّذِيۡنَ ظَلَمُوۡا مِنۡهُمۡ فَلَا تَخۡشَوۡهُمۡ وَاخۡشَوۡنِىۡ
-  وَلِاُتِمَّ نِعۡمَتِىۡ عَلَيۡكُمۡ وَلَعَلَّكُمۡ تَهۡتَدُوۡنَ ۙ​ۛ‏
+arabic_ayat: وَمِنۡ حَيۡثُ خَرَجۡتَ فَوَلِّ وَجۡهَكَ شَطۡرَ ٱلۡمَسۡجِدِ ٱلۡحَرَامِۚ
+  وَحَيۡثُ مَا كُنتُمۡ فَوَلُّواْ وُجُوهَكُمۡ شَطۡرَهُۥ لِئَلَّا يَكُونَ لِلنَّاسِ
+  عَلَيۡكُمۡ حُجَّةٌ إِلَّا ٱلَّذِينَ ظَلَمُواْ مِنۡهُمۡ فَلَا تَخۡشَوۡهُمۡ وَٱخۡشَوۡنِي
+  وَلِأُتِمَّ نِعۡمَتِي عَلَيۡكُمۡ وَلَعَلَّكُمۡ تَهۡتَدُونَ
 sentence_translation: Wherever you are ˹O Prophet˺, turn your face towards the Sacred
   Mosque. And wherever you ˹believers˺ are, face towards it, so that people will have
   no argument against you, except the wrongdoers among them. Do not fear them; fear
@@ -34,11 +34,11 @@ word_by_word:
     translation: (in the) direction
     transliteration: shaṭra
   7:
-    arabic: الۡمَسۡجِدِ
+    arabic: ٱلۡمَسۡجِدِ
     translation: (of) Al-Masjid
     transliteration: l-masjidi
   8:
-    arabic: الۡحَـرَامِؕ
+    arabic: ٱلۡحَرَامِۚ
     translation: Al-Haraam
     transliteration: l-ḥarāmi
   9:
@@ -50,19 +50,19 @@ word_by_word:
     translation: that
     transliteration: mā
   11:
-    arabic: كُنۡتُمۡ
+    arabic: كُنتُمۡ
     translation: you (all) are
     transliteration: kuntum
   12:
-    arabic: فَوَلُّوۡا
+    arabic: فَوَلُّواْ
     translation: '[so] turn'
     transliteration: fawallū
   13:
-    arabic: وُجُوۡهَڪُمۡ
+    arabic: وُجُوهَكُمۡ
     translation: your faces
     transliteration: wujūhakum
   14:
-    arabic: شَطۡرَهٗ ۙ
+    arabic: شَطۡرَهُۥ
     translation: (in) its direction
     transliteration: shaṭrahu
   15:
@@ -70,7 +70,7 @@ word_by_word:
     translation: so that not
     transliteration: li-allā
   16:
-    arabic: يَكُوۡنَ
+    arabic: يَكُونَ
     translation: will be
     transliteration: yakūna
   17:
@@ -82,23 +82,23 @@ word_by_word:
     translation: against you
     transliteration: ʿalaykum
   19:
-    arabic: حُجَّةٌ
+    arabic: حُجَّةٌ
     translation: any argument
     transliteration: ḥujjatun
   20:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   21:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   22:
-    arabic: ظَلَمُوۡا
+    arabic: ظَلَمُواْ
     translation: wronged
     transliteration: ẓalamū
   23:
-    arabic: مِنۡهُمۡ
+    arabic: مِنۡهُمۡ
     translation: among them
     transliteration: min'hum
   24:
@@ -110,15 +110,15 @@ word_by_word:
     translation: fear them
     transliteration: takhshawhum
   26:
-    arabic: وَاخۡشَوۡنِىۡ
+    arabic: وَٱخۡشَوۡنِي
     translation: but fear Me
     transliteration: wa-ikh'shawnī
   27:
-    arabic: وَلِاُتِمَّ
+    arabic: وَلِأُتِمَّ
     translation: And that I complete
     transliteration: wali-utimma
   28:
-    arabic: نِعۡمَتِىۡ
+    arabic: نِعۡمَتِي
     translation: My favor
     transliteration: niʿ'matī
   29:
@@ -130,7 +130,7 @@ word_by_word:
     translation: '[and] so that you may'
     transliteration: walaʿallakum
   31:
-    arabic: تَهۡتَدُوۡنَ ۙ​ۛ‏
+    arabic: تَهۡتَدُونَ
     translation: (be) guided
     transliteration: tahtadūna
 ---

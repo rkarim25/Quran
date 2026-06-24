@@ -1,5 +1,5 @@
 ---
-arabic_ayat: لِنَجۡعَلَهَا لَـكُمۡ تَذۡكِرَةً وَّتَعِيَهَاۤ اُذُنٌ وَّاعِيَةٌ‏
+arabic_ayat: لِنَجۡعَلَهَا لَكُمۡ تَذۡكِرَةٗ وَتَعِيَهَآ أُذُنٞ وَٰعِيَةٞ
 sentence_translation: so that We may make this a reminder to you, and that attentive
   ears may grasp it.
 word_by_word:
@@ -8,23 +8,23 @@ word_by_word:
     translation: That We might make it
     transliteration: linajʿalahā
   2:
-    arabic: لَـكُمۡ
+    arabic: لَكُمۡ
     translation: for you
     transliteration: lakum
   3:
-    arabic: تَذۡكِرَةً
+    arabic: تَذۡكِرَةٗ
     translation: a reminder
     transliteration: tadhkiratan
   4:
-    arabic: وَّتَعِيَهَاۤ
+    arabic: وَتَعِيَهَآ
     translation: and would be conscious of it
     transliteration: wataʿiyahā
   5:
-    arabic: اُذُنٌ
+    arabic: أُذُنٞ
     translation: an ear
     transliteration: udhunun
   6:
-    arabic: وَّاعِيَةٌ‏
+    arabic: وَٰعِيَةٞ
     translation: conscious
     transliteration: wāʿiyatun
 ---

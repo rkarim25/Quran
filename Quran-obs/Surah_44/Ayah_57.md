@@ -1,22 +1,22 @@
 ---
-arabic_ayat: فَضۡلًا مِّنۡ رَّبِّكَ ​ؕ ذٰ لِكَ هُوَ الۡفَوۡزُ الۡعَظِيۡمُ‏
+arabic_ayat: فَضۡلٗا مِّن رَّبِّكَۚ ذَٰلِكَ هُوَ ٱلۡفَوۡزُ ٱلۡعَظِيمُ
 sentence_translation: as ˹an act of˺ grace from your Lord. That is ˹truly˺ the ultimate
   triumph.
 word_by_word:
   1:
-    arabic: فَضۡلًا
+    arabic: فَضۡلٗا
     translation: A Bounty
     transliteration: faḍlan
   2:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: from
     transliteration: min
   3:
-    arabic: رَّبِّكَ ​ؕ
+    arabic: رَّبِّكَۚ
     translation: your Lord
     transliteration: rabbika
   4:
-    arabic: ذٰ لِكَ
+    arabic: ذَٰلِكَ
     translation: 'That '
     transliteration: dhālika
   5:
@@ -24,11 +24,11 @@ word_by_word:
     translation: it
     transliteration: huwa
   6:
-    arabic: الۡفَوۡزُ
+    arabic: ٱلۡفَوۡزُ
     translation: (will be) the success
     transliteration: l-fawzu
   7:
-    arabic: الۡعَظِيۡمُ‏
+    arabic: ٱلۡعَظِيمُ
     translation: the great
     transliteration: l-ʿaẓīmu
 ---

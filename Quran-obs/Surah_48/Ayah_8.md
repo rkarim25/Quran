@@ -1,26 +1,26 @@
 ---
-arabic_ayat: اِنَّاۤ اَرۡسَلۡنٰكَ شَاهِدًا وَّمُبَشِّرًا وَّنَذِيۡرًا ۙ‏
+arabic_ayat: إِنَّآ أَرۡسَلۡنَٰكَ شَٰهِدٗا وَمُبَشِّرٗا وَنَذِيرٗا
 sentence_translation: Indeed, ˹O Prophet,˺ We have sent you as a witness, a deliverer
   of good news, and a warner,
 word_by_word:
   1:
-    arabic: اِنَّاۤ
+    arabic: إِنَّآ
     translation: Indeed, We
     transliteration: innā
   2:
-    arabic: اَرۡسَلۡنٰكَ
+    arabic: أَرۡسَلۡنَٰكَ
     translation: '[We] have sent you'
     transliteration: arsalnāka
   3:
-    arabic: شَاهِدًا
+    arabic: شَٰهِدٗا
     translation: (as) a witness
     transliteration: shāhidan
   4:
-    arabic: وَّمُبَشِّرًا
+    arabic: وَمُبَشِّرٗا
     translation: and (as) a bearer of glad tidings
     transliteration: wamubashiran
   5:
-    arabic: وَّنَذِيۡرًا ۙ‏
+    arabic: وَنَذِيرٗا
     translation: and (as) a warner
     transliteration: wanadhīran
 ---

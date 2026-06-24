@@ -1,6 +1,6 @@
 ---
-arabic_ayat: هُوَ اللّٰهُ الَّذِىۡ لَاۤ اِلٰهَ اِلَّا هُوَ​ ۚ عٰلِمُ الۡغَيۡبِ وَالشَّهَادَةِ​
-  ۚ هُوَ الرَّحۡمٰنُ الرَّحِيۡمُ‏
+arabic_ayat: هُوَ ٱللَّهُ ٱلَّذِي لَآ إِلَٰهَ إِلَّا هُوَۖ عَٰلِمُ ٱلۡغَيۡبِ وَٱلشَّهَٰدَةِۖ
+  هُوَ ٱلرَّحۡمَٰنُ ٱلرَّحِيمُ
 sentence_translation: 'He is Allah—there is no god ˹worthy of worship˺ except Him:
   Knower of the seen and unseen. He is the Most Compassionate, Most Merciful.'
 word_by_word:
@@ -9,39 +9,39 @@ word_by_word:
     translation: He
     transliteration: huwa
   2:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: (is) Allah
     transliteration: l-lahu
   3:
-    arabic: الَّذِىۡ
+    arabic: ٱلَّذِي
     translation: the One Who
     transliteration: alladhī
   4:
-    arabic: لَاۤ
+    arabic: لَآ
     translation: (there is) no
     transliteration: lā
   5:
-    arabic: اِلٰهَ
+    arabic: إِلَٰهَ
     translation: god
     transliteration: ilāha
   6:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: but
     transliteration: illā
   7:
-    arabic: هُوَ​ ۚ
+    arabic: هُوَۖ
     translation: He
     transliteration: huwa
   8:
-    arabic: عٰلِمُ
+    arabic: عَٰلِمُ
     translation: (the) All-Knower
     transliteration: ʿālimu
   9:
-    arabic: الۡغَيۡبِ
+    arabic: ٱلۡغَيۡبِ
     translation: (of) the unseen
     transliteration: l-ghaybi
   10:
-    arabic: وَالشَّهَادَةِ​ ۚ
+    arabic: وَٱلشَّهَٰدَةِۖ
     translation: and the witnessed
     transliteration: wal-shahādati
   11:
@@ -49,11 +49,11 @@ word_by_word:
     translation: He
     transliteration: huwa
   12:
-    arabic: الرَّحۡمٰنُ
+    arabic: ٱلرَّحۡمَٰنُ
     translation: (is) the Most Gracious
     transliteration: l-raḥmānu
   13:
-    arabic: الرَّحِيۡمُ‏
+    arabic: ٱلرَّحِيمُ
     translation: the Most Merciful
     transliteration: l-raḥīmu
 ---

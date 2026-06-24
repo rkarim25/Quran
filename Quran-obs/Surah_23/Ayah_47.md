@@ -1,15 +1,14 @@
 ---
-arabic_ayat: "فَقَالُـوۡۤا اَنُؤۡمِنُ لِبَشَرَيۡنِ مِثۡلِنَا وَقَوۡمُهُمَا لَـنَا\
-  \ عٰبِدُوۡنَ​ۚ‏ \uFEFF\uFEFF"
+arabic_ayat: فَقَالُوٓاْ أَنُؤۡمِنُ لِبَشَرَيۡنِ مِثۡلِنَا وَقَوۡمُهُمَا لَنَا عَٰبِدُونَ
 sentence_translation: They argued, “Will we believe in two humans, like ourselves,
   whose people are slaves to us?”
 word_by_word:
   1:
-    arabic: فَقَالُـوۡۤا
+    arabic: فَقَالُوٓاْ
     translation: Then they said
     transliteration: faqālū
   2:
-    arabic: اَنُؤۡمِنُ
+    arabic: أَنُؤۡمِنُ
     translation: Shall we believe
     transliteration: anu'minu
   3:
@@ -25,11 +24,11 @@ word_by_word:
     translation: while their people
     transliteration: waqawmuhumā
   6:
-    arabic: لَـنَا
+    arabic: لَنَا
     translation: for us
     transliteration: lanā
   7:
-    arabic: "عٰبِدُوۡنَ​ۚ‏ \uFEFF\uFEFF"
+    arabic: عَٰبِدُونَ
     translation: (are) slaves
     transliteration: ʿābidūna
 ---

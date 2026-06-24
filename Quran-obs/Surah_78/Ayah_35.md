@@ -1,29 +1,29 @@
 ---
-arabic_ayat: لَا يَسۡمَعُوۡنَ فِيۡهَا لَـغۡوًا وَّلَا كِذّٰبًا​ ۚ‏
+arabic_ayat: لَّا يَسۡمَعُونَ فِيهَا لَغۡوٗا وَلَا كِذَّٰبٗا
 sentence_translation: never to hear any idle talk or lying therein—
 word_by_word:
   1:
-    arabic: لَا
+    arabic: لَّا
     translation: Not
     transliteration: lā
   2:
-    arabic: يَسۡمَعُوۡنَ
+    arabic: يَسۡمَعُونَ
     translation: they will hear
     transliteration: yasmaʿūna
   3:
-    arabic: فِيۡهَا
+    arabic: فِيهَا
     translation: therein
     transliteration: fīhā
   4:
-    arabic: لَـغۡوًا
+    arabic: لَغۡوٗا
     translation: any vain talk
     transliteration: laghwan
   5:
-    arabic: وَّلَا
+    arabic: وَلَا
     translation: and not
     transliteration: walā
   6:
-    arabic: كِذّٰبًا​ ۚ‏
+    arabic: كِذَّٰبٗا
     translation: any falsehood
     transliteration: kidhāban
 ---

@@ -1,14 +1,14 @@
 ---
-arabic_ayat: وَاِذَا مَسَّ الۡاِنۡسَانَ الضُّرُّ دَعَانَا لِجَنۡۢبِهٖۤ اَوۡ قَاعِدًا
-  اَوۡ قَآٮِٕمًا ۚ فَلَمَّا كَشَفۡنَا عَنۡهُ ضُرَّهٗ مَرَّ كَاَنۡ لَّمۡ يَدۡعُنَاۤ
-  اِلٰى ضُرٍّ مَّسَّهٗ​ؕ كَذٰلِكَ زُيِّنَ لِلۡمُسۡرِفِيۡنَ مَا كَانُوۡا يَعۡمَلُوۡنَ‏
+arabic_ayat: وَإِذَا مَسَّ ٱلۡإِنسَٰنَ ٱلضُّرُّ دَعَانَا لِجَنۢبِهِۦٓ أَوۡ قَاعِدًا
+  أَوۡ قَآئِمٗا فَلَمَّا كَشَفۡنَا عَنۡهُ ضُرَّهُۥ مَرَّ كَأَن لَّمۡ يَدۡعُنَآ إِلَىٰ
+  ضُرّٖ مَّسَّهُۥۚ كَذَٰلِكَ زُيِّنَ لِلۡمُسۡرِفِينَ مَا كَانُواْ يَعۡمَلُونَ
 sentence_translation: Whenever someone is touched by hardship, they cry out to Us,
   whether lying on their side, sitting, or standing. But when We relieve their hardship,
   they return to their old ways as if they had never cried to Us to remove any hardship!
   This is how the misdeeds of the transgressors have been made appealing to them.
 word_by_word:
   1:
-    arabic: وَاِذَا
+    arabic: وَإِذَا
     translation: And when
     transliteration: wa-idhā
   2:
@@ -16,11 +16,11 @@ word_by_word:
     translation: touches
     transliteration: massa
   3:
-    arabic: الۡاِنۡسَانَ
+    arabic: ٱلۡإِنسَٰنَ
     translation: the man
     transliteration: l-insāna
   4:
-    arabic: الضُّرُّ
+    arabic: ٱلضُّرُّ
     translation: the affliction
     transliteration: l-ḍuru
   5:
@@ -28,11 +28,11 @@ word_by_word:
     translation: he calls Us
     transliteration: daʿānā
   6:
-    arabic: لِجَنۡۢبِهٖۤ
+    arabic: لِجَنۢبِهِۦٓ
     translation: (lying) on his side
     transliteration: lijanbihi
   7:
-    arabic: اَوۡ
+    arabic: أَوۡ
     translation: or
     transliteration: aw
   8:
@@ -40,11 +40,11 @@ word_by_word:
     translation: sitting
     transliteration: qāʿidan
   9:
-    arabic: اَوۡ
+    arabic: أَوۡ
     translation: or
     transliteration: aw
   10:
-    arabic: قَآٮِٕمًا ۚ
+    arabic: قَآئِمٗا
     translation: standing
     transliteration: qāiman
   11:
@@ -60,7 +60,7 @@ word_by_word:
     translation: from him
     transliteration: ʿanhu
   14:
-    arabic: ضُرَّهٗ
+    arabic: ضُرَّهُۥ
     translation: his affliction
     transliteration: ḍurrahu
   15:
@@ -68,7 +68,7 @@ word_by_word:
     translation: he passes on
     transliteration: marra
   16:
-    arabic: كَاَنۡ
+    arabic: كَأَن
     translation: as if he
     transliteration: ka-an
   17:
@@ -76,23 +76,23 @@ word_by_word:
     translation: (had) not
     transliteration: lam
   18:
-    arabic: يَدۡعُنَاۤ
+    arabic: يَدۡعُنَآ
     translation: called Us
     transliteration: yadʿunā
   19:
-    arabic: اِلٰى
+    arabic: إِلَىٰ
     translation: for
     transliteration: ilā
   20:
-    arabic: ضُرٍّ
+    arabic: ضُرّٖ
     translation: (the) affliction
     transliteration: ḍurrin
   21:
-    arabic: مَّسَّهٗ​ؕ
+    arabic: مَّسَّهُۥۚ
     translation: (that) touched him
     transliteration: massahu
   22:
-    arabic: كَذٰلِكَ
+    arabic: كَذَٰلِكَ
     translation: Thus
     transliteration: kadhālika
   23:
@@ -100,7 +100,7 @@ word_by_word:
     translation: (it) is made fair seeming
     transliteration: zuyyina
   24:
-    arabic: لِلۡمُسۡرِفِيۡنَ
+    arabic: لِلۡمُسۡرِفِينَ
     translation: to the extravagant
     transliteration: lil'mus'rifīna
   25:
@@ -108,11 +108,11 @@ word_by_word:
     translation: what
     transliteration: mā
   26:
-    arabic: كَانُوۡا
+    arabic: كَانُواْ
     translation: they used (to)
     transliteration: kānū
   27:
-    arabic: يَعۡمَلُوۡنَ‏
+    arabic: يَعۡمَلُونَ
     translation: do
     transliteration: yaʿmalūna
 ---

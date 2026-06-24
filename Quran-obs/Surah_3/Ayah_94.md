@@ -1,6 +1,6 @@
 ---
-arabic_ayat: فَمَنِ افۡتَرٰى عَلَى اللّٰهِ الۡكَذِبَ مِنۡۢ بَعۡدِ ذٰ لِكَ فَاُولٰٓٮِٕكَ
-  هُمُ الظّٰلِمُوۡنَ‏
+arabic_ayat: فَمَنِ ٱفۡتَرَىٰ عَلَى ٱللَّهِ ٱلۡكَذِبَ مِنۢ بَعۡدِ ذَٰلِكَ فَأُوْلَٰٓئِكَ
+  هُمُ ٱلظَّٰلِمُونَ
 sentence_translation: Then whoever still fabricates lies about Allah, they will be
   the ˹true˺ wrongdoers.
 word_by_word:
@@ -9,7 +9,7 @@ word_by_word:
     translation: Then whoever
     transliteration: famani
   2:
-    arabic: افۡتَرٰى
+    arabic: ٱفۡتَرَىٰ
     translation: fabricates
     transliteration: if'tarā
   3:
@@ -17,15 +17,15 @@ word_by_word:
     translation: about
     transliteration: ʿalā
   4:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   5:
-    arabic: الۡكَذِبَ
+    arabic: ٱلۡكَذِبَ
     translation: '[the] lie'
     transliteration: l-kadhiba
   6:
-    arabic: مِنۡۢ
+    arabic: مِنۢ
     translation: from
     transliteration: min
   7:
@@ -33,11 +33,11 @@ word_by_word:
     translation: after
     transliteration: baʿdi
   8:
-    arabic: ذٰ لِكَ
+    arabic: ذَٰلِكَ
     translation: that
     transliteration: dhālika
   9:
-    arabic: فَاُولٰٓٮِٕكَ
+    arabic: فَأُوْلَٰٓئِكَ
     translation: 'then those '
     transliteration: fa-ulāika
   10:
@@ -45,7 +45,7 @@ word_by_word:
     translation: they
     transliteration: humu
   11:
-    arabic: الظّٰلِمُوۡنَ‏
+    arabic: ٱلظَّٰلِمُونَ
     translation: (are) the wrongdoers
     transliteration: l-ẓālimūna
 ---

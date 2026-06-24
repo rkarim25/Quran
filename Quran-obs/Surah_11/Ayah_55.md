@@ -1,22 +1,22 @@
 ---
-arabic_ayat: مِنۡ دُوۡنِهٖ​ فَكِيۡدُوۡنِىۡ جَمِيۡعًا ثُمَّ لَا تُنۡظِرُوۡنِ‏
+arabic_ayat: مِن دُونِهِۦۖ فَكِيدُونِي جَمِيعٗا ثُمَّ لَا تُنظِرُونِ
 sentence_translation: with Him ˹in worship˺. So let all of you plot against me without
   delay!
 word_by_word:
   1:
-    arabic: مِنۡ
+    arabic: مِن
     translation: Other than Him
     transliteration: min
   2:
-    arabic: دُوۡنِهٖ​
+    arabic: دُونِهِۦۖ
     translation: Other than Him
     transliteration: dūnihi
   3:
-    arabic: فَكِيۡدُوۡنِىۡ
+    arabic: فَكِيدُونِي
     translation: So plot against me
     transliteration: fakīdūnī
   4:
-    arabic: جَمِيۡعًا
+    arabic: جَمِيعٗا
     translation: all together
     transliteration: jamīʿan
   5:
@@ -28,7 +28,7 @@ word_by_word:
     translation: (do) not
     transliteration: lā
   7:
-    arabic: تُنۡظِرُوۡنِ‏
+    arabic: تُنظِرُونِ
     translation: give me respite
     transliteration: tunẓirūni
 ---

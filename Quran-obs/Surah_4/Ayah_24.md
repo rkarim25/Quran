@@ -1,10 +1,9 @@
 ---
-arabic_ayat: وَّالۡمُحۡصَنٰتُ مِنَ النِّسَآءِ اِلَّا مَا مَلَـكَتۡ اَيۡمَانُكُمۡ​ۚ
-  كِتٰبَ اللّٰهِ عَلَيۡكُمۡ​ۚ وَاُحِلَّ لَـكُمۡ مَّا وَرَآءَ ذٰ لِكُمۡ اَنۡ تَبۡتَـغُوۡا
-  بِاَمۡوَالِكُمۡ مُّحۡصِنِيۡنَ غَيۡرَ مُسَافِحِيۡنَ​ ؕ فَمَا اسۡتَمۡتَعۡتُمۡ بِهٖ
-  مِنۡهُنَّ فَاٰ تُوۡهُنَّ اُجُوۡرَهُنَّ فَرِيۡضَةً​ ؕ وَلَا جُنَاحَ عَلَيۡكُمۡ فِيۡمَا
-  تَرٰضَيۡـتُمۡ بِهٖ مِنۡۢ بَعۡدِ الۡـفَرِيۡضَةِ​ ؕ اِنَّ اللّٰهَ كَانَ عَلِيۡمًا
-  حَكِيۡمًا‏
+arabic_ayat: ۞ وَٱلۡمُحۡصَنَٰتُ مِنَ ٱلنِّسَآءِ إِلَّا مَا مَلَكَتۡ أَيۡمَٰنُكُمۡۖ
+  كِتَٰبَ ٱللَّهِ عَلَيۡكُمۡۚ وَأُحِلَّ لَكُم مَّا وَرَآءَ ذَٰلِكُمۡ أَن تَبۡتَغُواْ
+  بِأَمۡوَٰلِكُم مُّحۡصِنِينَ غَيۡرَ مُسَٰفِحِينَۚ فَمَا ٱسۡتَمۡتَعۡتُم بِهِۦ مِنۡهُنَّ
+  فَـَٔاتُوهُنَّ أُجُورَهُنَّ فَرِيضَةٗۚ وَلَا جُنَاحَ عَلَيۡكُمۡ فِيمَا تَرَٰضَيۡتُم
+  بِهِۦ مِنۢ بَعۡدِ ٱلۡفَرِيضَةِۚ إِنَّ ٱللَّهَ كَانَ عَلِيمًا حَكِيمٗا
 sentence_translation: Also ˹forbidden are˺ married women—except ˹female˺ captives
   in your possession. This is Allah’s commandment to you. Lawful to you are all beyond
   these—as long as you seek them with your wealth in a legal marriage, not in fornication.
@@ -12,7 +11,7 @@ sentence_translation: Also ˹forbidden are˺ married women—except ˹female˺ c
   to be mutually gracious regarding the set dowry. Surely Allah is All-Knowing, All-Wise.
 word_by_word:
   1:
-    arabic: ۞ وَّالۡمُحۡصَنٰتُ
+    arabic: ۞ وَٱلۡمُحۡصَنَٰتُ
     translation: And (prohibited are) the ones who are married
     transliteration: wal-muḥ'ṣanātu
   2:
@@ -20,11 +19,11 @@ word_by_word:
     translation: of
     transliteration: mina
   3:
-    arabic: النِّسَآءِ
+    arabic: ٱلنِّسَآءِ
     translation: the women
     transliteration: l-nisāi
   4:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   5:
@@ -32,31 +31,31 @@ word_by_word:
     translation: whom
     transliteration: mā
   6:
-    arabic: مَلَـكَتۡ
+    arabic: مَلَكَتۡ
     translation: you possess
     transliteration: malakat
   7:
-    arabic: اَيۡمَانُكُمۡ​ۚ
+    arabic: أَيۡمَٰنُكُمۡۖ
     translation: rightfully
     transliteration: aymānukum
   8:
-    arabic: كِتٰبَ
+    arabic: كِتَٰبَ
     translation: Decree
     transliteration: kitāba
   9:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (of) Allah
     transliteration: l-lahi
   10:
-    arabic: عَلَيۡكُمۡ​ۚ
+    arabic: عَلَيۡكُمۡۚ
     translation: upon you
     transliteration: ʿalaykum
   11:
-    arabic: وَاُحِلَّ
+    arabic: وَأُحِلَّ
     translation: And are lawful
     transliteration: wa-uḥilla
   12:
-    arabic: لَـكُمۡ
+    arabic: لَكُم
     translation: to you
     transliteration: lakum
   13:
@@ -68,23 +67,23 @@ word_by_word:
     translation: (is) beyond
     transliteration: warāa
   15:
-    arabic: ذٰ لِكُمۡ
+    arabic: ذَٰلِكُمۡ
     translation: that
     transliteration: dhālikum
   16:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that
     transliteration: an
   17:
-    arabic: تَبۡتَـغُوۡا
+    arabic: تَبۡتَغُواْ
     translation: you seek
     transliteration: tabtaghū
   18:
-    arabic: بِاَمۡوَالِكُمۡ
+    arabic: بِأَمۡوَٰلِكُم
     translation: with your wealth
     transliteration: bi-amwālikum
   19:
-    arabic: مُّحۡصِنِيۡنَ
+    arabic: مُّحۡصِنِينَ
     translation: desiring to be chaste
     transliteration: muḥ'ṣinīna
   20:
@@ -92,7 +91,7 @@ word_by_word:
     translation: not
     transliteration: ghayra
   21:
-    arabic: مُسَافِحِيۡنَ​ ؕ
+    arabic: مُسَٰفِحِينَۚ
     translation: (to be) lustful
     transliteration: musāfiḥīna
   22:
@@ -100,11 +99,11 @@ word_by_word:
     translation: So what
     transliteration: famā
   23:
-    arabic: اسۡتَمۡتَعۡتُمۡ
+    arabic: ٱسۡتَمۡتَعۡتُم
     translation: you benefit[ed]
     transliteration: is'tamtaʿtum
   24:
-    arabic: بِهٖ
+    arabic: بِهِۦ
     translation: of it
     transliteration: bihi
   25:
@@ -112,15 +111,15 @@ word_by_word:
     translation: from them
     transliteration: min'hunna
   26:
-    arabic: فَاٰ تُوۡهُنَّ
+    arabic: فَـَٔاتُوهُنَّ
     translation: so you give them
     transliteration: faātūhunna
   27:
-    arabic: اُجُوۡرَهُنَّ
+    arabic: أُجُورَهُنَّ
     translation: their bridal due
     transliteration: ujūrahunna
   28:
-    arabic: فَرِيۡضَةً​ ؕ
+    arabic: فَرِيضَةٗۚ
     translation: (as) an obligation
     transliteration: farīḍatan
   29:
@@ -136,19 +135,19 @@ word_by_word:
     translation: on you
     transliteration: ʿalaykum
   32:
-    arabic: فِيۡمَا
+    arabic: فِيمَا
     translation: concerning what
     transliteration: fīmā
   33:
-    arabic: تَرٰضَيۡـتُمۡ
+    arabic: تَرَٰضَيۡتُم
     translation: you mutually agree
     transliteration: tarāḍaytum
   34:
-    arabic: بِهٖ
+    arabic: بِهِۦ
     translation: of it
     transliteration: bihi
   35:
-    arabic: مِنۡۢ
+    arabic: مِنۢ
     translation: from
     transliteration: min
   36:
@@ -156,15 +155,15 @@ word_by_word:
     translation: beyond
     transliteration: baʿdi
   37:
-    arabic: الۡـفَرِيۡضَةِ​ ؕ
+    arabic: ٱلۡفَرِيضَةِۚ
     translation: the obligation
     transliteration: l-farīḍati
   38:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   39:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   40:
@@ -172,11 +171,11 @@ word_by_word:
     translation: is
     transliteration: kāna
   41:
-    arabic: عَلِيۡمًا
+    arabic: عَلِيمًا
     translation: All-Knowing
     transliteration: ʿalīman
   42:
-    arabic: حَكِيۡمًا‏
+    arabic: حَكِيمٗا
     translation: All-Wise
     transliteration: ḥakīman
 ---

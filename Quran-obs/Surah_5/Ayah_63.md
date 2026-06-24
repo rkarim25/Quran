@@ -1,6 +1,6 @@
 ---
-arabic_ayat: لَوۡلَا يَنۡهٰٮهُمُ الرَّبَّانِيُّوۡنَ وَالۡاَحۡبَارُ عَنۡ قَوۡلِهِمُ
-  الۡاِثۡمَ وَاَكۡلِهِمُ السُّحۡتَ​ؕ لَبِئۡسَ مَا كَانُوۡا يَصۡنَعُوۡنَ‏
+arabic_ayat: لَوۡلَا يَنۡهَىٰهُمُ ٱلرَّبَّٰنِيُّونَ وَٱلۡأَحۡبَارُ عَن قَوۡلِهِمُ
+  ٱلۡإِثۡمَ وَأَكۡلِهِمُ ٱلسُّحۡتَۚ لَبِئۡسَ مَا كَانُواْ يَصۡنَعُونَ
 sentence_translation: Why do their rabbis and scholars not forbid them from saying
   what is sinful and consuming what is unlawful? Evil indeed is their inaction!
 word_by_word:
@@ -9,19 +9,19 @@ word_by_word:
     translation: Why (do) not
     transliteration: lawlā
   2:
-    arabic: يَنۡهٰٮهُمُ
+    arabic: يَنۡهَىٰهُمُ
     translation: forbid them
     transliteration: yanhāhumu
   3:
-    arabic: الرَّبَّانِيُّوۡنَ
+    arabic: ٱلرَّبَّٰنِيُّونَ
     translation: the Rabbis
     transliteration: l-rabāniyūna
   4:
-    arabic: وَالۡاَحۡبَارُ
+    arabic: وَٱلۡأَحۡبَارُ
     translation: and the religious scholars
     transliteration: wal-aḥbāru
   5:
-    arabic: عَنۡ
+    arabic: عَن
     translation: from
     transliteration: ʿan
   6:
@@ -29,15 +29,15 @@ word_by_word:
     translation: their saying
     transliteration: qawlihimu
   7:
-    arabic: الۡاِثۡمَ
+    arabic: ٱلۡإِثۡمَ
     translation: the sinful
     transliteration: l-ith'ma
   8:
-    arabic: وَاَكۡلِهِمُ
+    arabic: وَأَكۡلِهِمُ
     translation: and their eating
     transliteration: wa-aklihimu
   9:
-    arabic: السُّحۡتَ​ؕ
+    arabic: ٱلسُّحۡتَۚ
     translation: (of) the forbidden
     transliteration: l-suḥ'ta
   10:
@@ -49,11 +49,11 @@ word_by_word:
     translation: (is) what
     transliteration: mā
   12:
-    arabic: كَانُوۡا
+    arabic: كَانُواْ
     translation: they used to
     transliteration: kānū
   13:
-    arabic: يَصۡنَعُوۡنَ‏
+    arabic: يَصۡنَعُونَ
     translation: do
     transliteration: yaṣnaʿūna
 ---

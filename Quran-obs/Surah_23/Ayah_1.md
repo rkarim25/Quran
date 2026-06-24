@@ -1,5 +1,5 @@
 ---
-arabic_ayat: قَدۡ اَفۡلَحَ الۡمُؤۡمِنُوۡنَۙ‏
+arabic_ayat: قَدۡ أَفۡلَحَ ٱلۡمُؤۡمِنُونَ
 sentence_translation: 'Successful indeed are the believers:'
 word_by_word:
   1:
@@ -7,11 +7,11 @@ word_by_word:
     translation: Indeed
     transliteration: qad
   2:
-    arabic: اَفۡلَحَ
+    arabic: أَفۡلَحَ
     translation: successful
     transliteration: aflaḥa
   3:
-    arabic: الۡمُؤۡمِنُوۡنَۙ‏
+    arabic: ٱلۡمُؤۡمِنُونَ
     translation: (are) the believers
     transliteration: l-mu'minūna
 ---

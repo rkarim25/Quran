@@ -1,9 +1,9 @@
 ---
-arabic_ayat: فَتَوَلّٰى فِرۡعَوۡنُ فَجَمَعَ كَيۡدَهٗ ثُمَّ اَتٰى‏
+arabic_ayat: فَتَوَلَّىٰ فِرۡعَوۡنُ فَجَمَعَ كَيۡدَهُۥ ثُمَّ أَتَىٰ
 sentence_translation: Pharaoh then withdrew, orchestrated his scheme, then returned.
 word_by_word:
   1:
-    arabic: فَتَوَلّٰى
+    arabic: فَتَوَلَّىٰ
     translation: Then went away
     transliteration: fatawallā
   2:
@@ -15,7 +15,7 @@ word_by_word:
     translation: and put together
     transliteration: fajamaʿa
   4:
-    arabic: كَيۡدَهٗ
+    arabic: كَيۡدَهُۥ
     translation: his plan
     transliteration: kaydahu
   5:
@@ -23,7 +23,7 @@ word_by_word:
     translation: then
     transliteration: thumma
   6:
-    arabic: اَتٰى‏
+    arabic: أَتَىٰ
     translation: came
     transliteration: atā
 ---

@@ -1,20 +1,20 @@
 ---
-arabic_ayat: فَلَمَّاۤ اٰتٰٮهُمَا صَالِحًـا جَعَلَا لَهٗ شُرَكَآءَ فِيۡمَاۤ اٰتٰٮهُمَا​
-  ۚ فَتَعٰلَى اللّٰهُ عَمَّا يُشۡرِكُوۡنَ‏
+arabic_ayat: فَلَمَّآ ءَاتَىٰهُمَا صَٰلِحٗا جَعَلَا لَهُۥ شُرَكَآءَ فِيمَآ ءَاتَىٰهُمَاۚ
+  فَتَعَٰلَى ٱللَّهُ عَمَّا يُشۡرِكُونَ
 sentence_translation: But when He granted their descendants good offspring, they associated
   false gods in what He has given them. Exalted is Allah above what they associate
   ˹with Him˺!
 word_by_word:
   1:
-    arabic: فَلَمَّاۤ
+    arabic: فَلَمَّآ ءَ
     translation: But when
     transliteration: falammā
   2:
-    arabic: اٰتٰٮهُمَا
+    arabic: اتَىٰهُمَا
     translation: He gives them
     transliteration: ātāhumā
   3:
-    arabic: صَالِحًـا
+    arabic: صَٰلِحٗا
     translation: a good, (child)
     transliteration: ṣāliḥan
   4:
@@ -22,7 +22,7 @@ word_by_word:
     translation: they make
     transliteration: jaʿalā
   5:
-    arabic: لَهٗ
+    arabic: لَهُۥ
     translation: for Him
     transliteration: lahu
   6:
@@ -30,19 +30,19 @@ word_by_word:
     translation: partners
     transliteration: shurakāa
   7:
-    arabic: فِيۡمَاۤ
+    arabic: فِيمَآ ءَ
     translation: in what
     transliteration: fīmā
   8:
-    arabic: اٰتٰٮهُمَا​ ۚ
+    arabic: اتَىٰهُمَاۚ
     translation: He has given them
     transliteration: ātāhumā
   9:
-    arabic: فَتَعٰلَى
+    arabic: فَتَعَٰلَى
     translation: But exalted
     transliteration: fataʿālā
   10:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: (is) Allah
     transliteration: l-lahu
   11:
@@ -50,7 +50,7 @@ word_by_word:
     translation: above what
     transliteration: ʿammā
   12:
-    arabic: يُشۡرِكُوۡنَ‏
+    arabic: يُشۡرِكُونَ
     translation: they associate (with Him)
     transliteration: yush'rikūna
 ---

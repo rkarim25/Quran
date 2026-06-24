@@ -1,9 +1,9 @@
 ---
-arabic_ayat: وَ اِنَّ رَبَّكَ لَهُوَ الۡعَزِيۡزُ الرَّحِيۡمُ‏
+arabic_ayat: وَإِنَّ رَبَّكَ لَهُوَ ٱلۡعَزِيزُ ٱلرَّحِيمُ
 sentence_translation: And your Lord is certainly the Almighty, Most Merciful.
 word_by_word:
   1:
-    arabic: وَ اِنَّ
+    arabic: وَإِنَّ
     translation: And indeed
     transliteration: wa-inna
   2:
@@ -15,11 +15,11 @@ word_by_word:
     translation: surely, He
     transliteration: lahuwa
   4:
-    arabic: الۡعَزِيۡزُ
+    arabic: ٱلۡعَزِيزُ
     translation: (is) the All-Mighty
     transliteration: l-ʿazīzu
   5:
-    arabic: الرَّحِيۡمُ‏
+    arabic: ٱلرَّحِيمُ
     translation: the Most Merciful
     transliteration: l-raḥīmu
 ---

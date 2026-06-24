@@ -1,17 +1,17 @@
 ---
-arabic_ayat: اُولٰٓٮِٕكَ اَصۡحٰبُ الۡمَيۡمَنَةِ ؕ‏
+arabic_ayat: أُوْلَٰٓئِكَ أَصۡحَٰبُ ٱلۡمَيۡمَنَةِ
 sentence_translation: These are the people of the right.
 word_by_word:
   1:
-    arabic: اُولٰٓٮِٕكَ
+    arabic: أُوْلَٰٓئِكَ
     translation: Those
     transliteration: ulāika
   2:
-    arabic: اَصۡحٰبُ
+    arabic: أَصۡحَٰبُ
     translation: (are the) companions
     transliteration: aṣḥābu
   3:
-    arabic: الۡمَيۡمَنَةِ ؕ‏
+    arabic: ٱلۡمَيۡمَنَةِ
     translation: (of) the right (hand)
     transliteration: l-maymanati
 ---

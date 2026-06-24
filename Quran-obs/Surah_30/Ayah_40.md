@@ -1,18 +1,18 @@
 ---
-arabic_ayat: اَللّٰهُ الَّذِىۡ خَلَقَكُمۡ ثُمَّ رَزَقَكُمۡ ثُمَّ يُمِيۡتُكُمۡ ثُمَّ
-  يُحۡيِيۡكُمۡ​ ؕ هَلۡ مِنۡ شُرَكَآٮِٕكُمۡ مَّنۡ يَّفۡعَلُ مِنۡ ذٰ لِكُمۡ مِّنۡ شَىۡءٍ​ؕ
-  سُبۡحٰنَهٗ وَتَعٰلٰى عَمَّا يُشۡرِكُوۡنَ‏
+arabic_ayat: ٱللَّهُ ٱلَّذِي خَلَقَكُمۡ ثُمَّ رَزَقَكُمۡ ثُمَّ يُمِيتُكُمۡ ثُمَّ يُحۡيِيكُمۡۖ
+  هَلۡ مِن شُرَكَآئِكُم مَّن يَفۡعَلُ مِن ذَٰلِكُم مِّن شَيۡءٖۚ سُبۡحَٰنَهُۥ وَتَعَٰلَىٰ
+  عَمَّا يُشۡرِكُونَ
 sentence_translation: It is Allah Who created you, then gives you provisions, then
   will cause you to die, and then will bring you back to life. Can any of your associate-gods
   do any of this? Glorified and Exalted is He above what they associate with Him ˹in
   worship˺!
 word_by_word:
   1:
-    arabic: اَللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: al-lahu
   2:
-    arabic: الَّذِىۡ
+    arabic: ٱلَّذِي
     translation: (is) the One Who
     transliteration: alladhī
   3:
@@ -32,7 +32,7 @@ word_by_word:
     translation: then
     transliteration: thumma
   7:
-    arabic: يُمِيۡتُكُمۡ
+    arabic: يُمِيتُكُمۡ
     translation: He will cause you to die
     transliteration: yumītukum
   8:
@@ -40,7 +40,7 @@ word_by_word:
     translation: then
     transliteration: thumma
   9:
-    arabic: يُحۡيِيۡكُمۡ​ ؕ
+    arabic: يُحۡيِيكُمۡۖ
     translation: He will give you life
     transliteration: yuḥ'yīkum
   10:
@@ -48,43 +48,43 @@ word_by_word:
     translation: Is (there)
     transliteration: hal
   11:
-    arabic: مِنۡ
+    arabic: مِن
     translation: any
     transliteration: min
   12:
-    arabic: شُرَكَآٮِٕكُمۡ
+    arabic: شُرَكَآئِكُم
     translation: (of) your partners
     transliteration: shurakāikum
   13:
-    arabic: مَّنۡ
+    arabic: مَّن
     translation: who
     transliteration: man
   14:
-    arabic: يَّفۡعَلُ
+    arabic: يَفۡعَلُ
     translation: does
     transliteration: yafʿalu
   15:
-    arabic: مِنۡ
+    arabic: مِن
     translation: of
     transliteration: min
   16:
-    arabic: ذٰ لِكُمۡ
+    arabic: ذَٰلِكُم
     translation: that
     transliteration: dhālikum
   17:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: any
     transliteration: min
   18:
-    arabic: شَىۡءٍ​ؕ
+    arabic: شَيۡءٖۚ
     translation: thing
     transliteration: shayin
   19:
-    arabic: سُبۡحٰنَهٗ
+    arabic: سُبۡحَٰنَهُۥ
     translation: Glory be to Him
     transliteration: sub'ḥānahu
   20:
-    arabic: وَتَعٰلٰى
+    arabic: وَتَعَٰلَىٰ
     translation: and exalted is He
     transliteration: wataʿālā
   21:
@@ -92,7 +92,7 @@ word_by_word:
     translation: above what
     transliteration: ʿammā
   22:
-    arabic: يُشۡرِكُوۡنَ‏
+    arabic: يُشۡرِكُونَ
     translation: they associate
     transliteration: yush'rikūna
 ---

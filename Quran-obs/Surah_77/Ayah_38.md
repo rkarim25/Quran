@@ -1,10 +1,10 @@
 ---
-arabic_ayat: هٰذَا يَوۡمُ الۡفَصۡلِ​ۚ جَمَعۡنٰكُمۡ وَالۡاَوَّلِيۡنَ‏
+arabic_ayat: هَٰذَا يَوۡمُ ٱلۡفَصۡلِۖ جَمَعۡنَٰكُمۡ وَٱلۡأَوَّلِينَ
 sentence_translation: '˹They will be told by Allah,˺ “This is the Day of ˹Final˺ Decision:
   We have gathered you along with earlier disbelievers ˹for punishment˺.'
 word_by_word:
   1:
-    arabic: هٰذَا
+    arabic: هَٰذَا
     translation: This
     transliteration: hādhā
   2:
@@ -12,15 +12,15 @@ word_by_word:
     translation: (is the) Day
     transliteration: yawmu
   3:
-    arabic: الۡفَصۡلِ​ۚ
+    arabic: ٱلۡفَصۡلِۖ
     translation: (of) Judgment
     transliteration: l-faṣli
   4:
-    arabic: جَمَعۡنٰكُمۡ
+    arabic: جَمَعۡنَٰكُمۡ
     translation: We have gathered you
     transliteration: jamaʿnākum
   5:
-    arabic: وَالۡاَوَّلِيۡنَ‏
+    arabic: وَٱلۡأَوَّلِينَ
     translation: and the former (people)
     transliteration: wal-awalīna
 ---

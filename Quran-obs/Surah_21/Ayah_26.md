@@ -1,27 +1,27 @@
 ---
-arabic_ayat: وَقَالُوا اتَّخَذَ الرَّحۡمٰنُ وَلَدًا​ سُبۡحٰنَهٗ​ ؕ بَلۡ عِبَادٌ مُّكۡرَمُوۡنَ
-  ۙ‏
+arabic_ayat: وَقَالُواْ ٱتَّخَذَ ٱلرَّحۡمَٰنُ وَلَدٗاۗ سُبۡحَٰنَهُۥۚ بَلۡ عِبَادٞ
+  مُّكۡرَمُونَ
 sentence_translation: And they say, “The Most Compassionate has offspring!” Glory
   be to Him! In fact, those ˹angels˺ are only ˹His˺ honoured servants,
 word_by_word:
   1:
-    arabic: وَقَالُوا
+    arabic: وَقَالُواْ
     translation: And they say
     transliteration: waqālū
   2:
-    arabic: اتَّخَذَ
+    arabic: ٱتَّخَذَ
     translation: Has taken
     transliteration: ittakhadha
   3:
-    arabic: الرَّحۡمٰنُ
+    arabic: ٱلرَّحۡمَٰنُ
     translation: the Most Gracious
     transliteration: l-raḥmānu
   4:
-    arabic: وَلَدًا​
+    arabic: وَلَدٗاۗ
     translation: a son
     transliteration: waladan
   5:
-    arabic: سُبۡحٰنَهٗ​ ؕ
+    arabic: سُبۡحَٰنَهُۥۚ
     translation: Glorified is He
     transliteration: sub'ḥānahu
   6:
@@ -29,11 +29,11 @@ word_by_word:
     translation: Nay
     transliteration: bal
   7:
-    arabic: عِبَادٌ
+    arabic: عِبَادٞ
     translation: (they are) slaves
     transliteration: ʿibādun
   8:
-    arabic: مُّكۡرَمُوۡنَ ۙ‏
+    arabic: مُّكۡرَمُونَ
     translation: honored
     transliteration: muk'ramūna
 ---

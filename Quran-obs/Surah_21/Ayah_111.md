@@ -1,38 +1,38 @@
 ---
-arabic_ayat: وَاِنۡ اَدۡرِىۡ لَعَلَّهٗ فِتۡنَةٌ لَّـكُمۡ وَمَتَاعٌ اِلٰى حِيۡنٍ‏
+arabic_ayat: وَإِنۡ أَدۡرِي لَعَلَّهُۥ فِتۡنَةٞ لَّكُمۡ وَمَتَٰعٌ إِلَىٰ حِينٖ
 sentence_translation: I do not know if this ˹delay˺ is possibly a test for you and
   an enjoyment for a while.”
 word_by_word:
   1:
-    arabic: وَاِنۡ
+    arabic: وَإِنۡ
     translation: And not
     transliteration: wa-in
   2:
-    arabic: اَدۡرِىۡ
+    arabic: أَدۡرِي
     translation: I know
     transliteration: adrī
   3:
-    arabic: لَعَلَّهٗ
+    arabic: لَعَلَّهُۥ
     translation: perhaps it may be
     transliteration: laʿallahu
   4:
-    arabic: فِتۡنَةٌ
+    arabic: فِتۡنَةٞ
     translation: a trial
     transliteration: fit'natun
   5:
-    arabic: لَّـكُمۡ
+    arabic: لَّكُمۡ
     translation: for you
     transliteration: lakum
   6:
-    arabic: وَمَتَاعٌ
+    arabic: وَمَتَٰعٌ
     translation: and an enjoyment
     transliteration: wamatāʿun
   7:
-    arabic: اِلٰى
+    arabic: إِلَىٰ
     translation: for
     transliteration: ilā
   8:
-    arabic: حِيۡنٍ‏
+    arabic: حِينٖ
     translation: a time
     transliteration: ḥīnin
 ---

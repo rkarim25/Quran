@@ -1,27 +1,27 @@
 ---
-arabic_ayat: وَالسَّارِقُ وَالسَّارِقَةُ فَاقۡطَعُوۡۤا اَيۡدِيَهُمَا جَزَآءًۢ بِمَا
-  كَسَبَا نَـكَالًا مِّنَ اللّٰهِ ؕ وَاللّٰهُ عَزِيۡزٌ حَكِيۡمٌ‏
+arabic_ayat: وَٱلسَّارِقُ وَٱلسَّارِقَةُ فَٱقۡطَعُوٓاْ أَيۡدِيَهُمَا جَزَآءَۢ بِمَا
+  كَسَبَا نَكَٰلٗا مِّنَ ٱللَّهِۗ وَٱللَّهُ عَزِيزٌ حَكِيمٞ
 sentence_translation: As for male and female thieves, cut off their hands for what
   they have done—a deterrent from Allah. And Allah is Almighty, All-Wise.
 word_by_word:
   1:
-    arabic: وَالسَّارِقُ
+    arabic: وَٱلسَّارِقُ
     translation: And (for) the male thief
     transliteration: wal-sāriqu
   2:
-    arabic: وَالسَّارِقَةُ
+    arabic: وَٱلسَّارِقَةُ
     translation: 'and the female thief '
     transliteration: wal-sāriqatu
   3:
-    arabic: فَاقۡطَعُوۡۤا
+    arabic: فَٱقۡطَعُوٓاْ
     translation: '[then] cut off'
     transliteration: fa-iq'ṭaʿū
   4:
-    arabic: اَيۡدِيَهُمَا
+    arabic: أَيۡدِيَهُمَا
     translation: their hands
     transliteration: aydiyahumā
   5:
-    arabic: جَزَآءًۢ
+    arabic: جَزَآءَۢ
     translation: (as) a recompense
     transliteration: jazāan
   6:
@@ -33,7 +33,7 @@ word_by_word:
     translation: they earned
     transliteration: kasabā
   8:
-    arabic: نَـكَالًا
+    arabic: نَكَٰلٗا
     translation: (as) an exemplary (punishment)
     transliteration: nakālan
   9:
@@ -41,19 +41,19 @@ word_by_word:
     translation: from
     transliteration: mina
   10:
-    arabic: اللّٰهِ ؕ
+    arabic: ٱللَّهِۗ
     translation: Allah
     transliteration: l-lahi
   11:
-    arabic: وَاللّٰهُ
+    arabic: وَٱللَّهُ
     translation: And Allah
     transliteration: wal-lahu
   12:
-    arabic: عَزِيۡزٌ
+    arabic: عَزِيزٌ
     translation: (is) All-Mighty
     transliteration: ʿazīzun
   13:
-    arabic: حَكِيۡمٌ‏
+    arabic: حَكِيمٞ
     translation: All-Wise
     transliteration: ḥakīmun
 ---

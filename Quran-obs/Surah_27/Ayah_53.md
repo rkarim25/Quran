@@ -1,26 +1,26 @@
 ---
-arabic_ayat: وَاَنۡجَيۡنَا الَّذِيۡنَ اٰمَنُوۡا وَكَانُوۡا يَتَّقُوۡنَ‏
+arabic_ayat: وَأَنجَيۡنَا ٱلَّذِينَ ءَامَنُواْ وَكَانُواْ يَتَّقُونَ
 sentence_translation: And We delivered those who were faithful and were mindful ˹of
   Allah˺.
 word_by_word:
   1:
-    arabic: وَاَنۡجَيۡنَا
+    arabic: وَأَنجَيۡنَا
     translation: And We saved
     transliteration: wa-anjaynā
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ ءَ
     translation: those who
     transliteration: alladhīna
   3:
-    arabic: اٰمَنُوۡا
+    arabic: امَنُواْ
     translation: believed
     transliteration: āmanū
   4:
-    arabic: وَكَانُوۡا
+    arabic: وَكَانُواْ
     translation: and used (to)
     transliteration: wakānū
   5:
-    arabic: يَتَّقُوۡنَ‏
+    arabic: يَتَّقُونَ
     translation: fear (Allah)
     transliteration: yattaqūna
 ---

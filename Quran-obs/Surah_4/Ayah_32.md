@@ -1,8 +1,7 @@
 ---
-arabic_ayat: "وَلَا تَتَمَنَّوۡا مَا فَضَّلَ اللّٰهُ بِهٖ بَعۡضَكُمۡ عَلٰى بَعۡضٍ​\
-  \ ؕ لِلرِّجَالِ نَصِيۡبٌ مِّمَّا اكۡتَسَبُوۡا ؕ​ وَلِلنِّسَآءِ نَصِيۡبٌ مِّمَّا\
-  \ اكۡتَسَبۡنَ​ ؕ وَسۡئَـلُوا اللّٰهَ مِنۡ فَضۡلِهٖ ؕ اِنَّ اللّٰهَ كَانَ بِكُلِّ\
-  \ شَىۡءٍ عَلِيۡمًا‏ \uFEFF\uFEFF"
+arabic_ayat: وَلَا تَتَمَنَّوۡاْ مَا فَضَّلَ ٱللَّهُ بِهِۦ بَعۡضَكُمۡ عَلَىٰ بَعۡضٖۚ
+  لِّلرِّجَالِ نَصِيبٞ مِّمَّا ٱكۡتَسَبُواْۖ وَلِلنِّسَآءِ نَصِيبٞ مِّمَّا ٱكۡتَسَبۡنَۚ
+  وَسۡـَٔلُواْ ٱللَّهَ مِن فَضۡلِهِۦٓۚ إِنَّ ٱللَّهَ كَانَ بِكُلِّ شَيۡءٍ عَلِيمٗا
 sentence_translation: And do not crave what Allah has given some of you over others.
   Men will be rewarded according to their deeds and women ˹equally˺ according to theirs.
   Rather, ask Allah for His bounties. Surely Allah has ˹perfect˺ knowledge of all
@@ -13,7 +12,7 @@ word_by_word:
     translation: And (do) not
     transliteration: walā
   2:
-    arabic: تَتَمَنَّوۡا
+    arabic: تَتَمَنَّوۡاْ
     translation: covet
     transliteration: tatamannaw
   3:
@@ -25,11 +24,11 @@ word_by_word:
     translation: (has) bestowed
     transliteration: faḍḍala
   5:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   6:
-    arabic: بِهٖ
+    arabic: بِهِۦ
     translation: '[with it]'
     transliteration: bihi
   7:
@@ -37,19 +36,19 @@ word_by_word:
     translation: some of you
     transliteration: baʿḍakum
   8:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: over
     transliteration: ʿalā
   9:
-    arabic: بَعۡضٍ​ ؕ
+    arabic: بَعۡضٖۚ
     translation: others
     transliteration: baʿḍin
   10:
-    arabic: لِلرِّجَالِ
+    arabic: لِّلرِّجَالِ
     translation: For men
     transliteration: lilrrijāli
   11:
-    arabic: نَصِيۡبٌ
+    arabic: نَصِيبٞ
     translation: (is) a share
     transliteration: naṣībun
   12:
@@ -57,7 +56,7 @@ word_by_word:
     translation: of what
     transliteration: mimmā
   13:
-    arabic: اكۡتَسَبُوۡا ؕ​
+    arabic: ٱكۡتَسَبُواْۖ
     translation: they earned
     transliteration: ik'tasabū
   14:
@@ -65,7 +64,7 @@ word_by_word:
     translation: and for women
     transliteration: walilnnisāi
   15:
-    arabic: نَصِيۡبٌ
+    arabic: نَصِيبٞ
     translation: (is) a share
     transliteration: naṣībun
   16:
@@ -73,31 +72,31 @@ word_by_word:
     translation: of what
     transliteration: mimmā
   17:
-    arabic: اكۡتَسَبۡنَ​ ؕ
+    arabic: ٱكۡتَسَبۡنَۚ
     translation: they earned
     transliteration: ik'tasabna
   18:
-    arabic: وَسۡئَـلُوا
+    arabic: وَسۡـَٔلُواْ
     translation: And ask
     transliteration: wasalū
   19:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   20:
-    arabic: مِنۡ
+    arabic: مِن
     translation: of
     transliteration: min
   21:
-    arabic: فَضۡلِهٖ ؕ
+    arabic: فَضۡلِهِۦٓۚ
     translation: His bounty
     transliteration: faḍlihi
   22:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   23:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   24:
@@ -109,11 +108,11 @@ word_by_word:
     translation: of every
     transliteration: bikulli
   26:
-    arabic: شَىۡءٍ
+    arabic: شَيۡءٍ
     translation: thing
     transliteration: shayin
   27:
-    arabic: "عَلِيۡمًا‏ \uFEFF\uFEFF"
+    arabic: عَلِيمٗا
     translation: All-Knower
     transliteration: ʿalīman
 ---

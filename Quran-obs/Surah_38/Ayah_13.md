@@ -1,11 +1,10 @@
 ---
-arabic_ayat: "وَثَمُوۡدُ وَقَوۡمُ لُوۡطٍ وَّاَصۡحٰبُ لْئَیْكَةِ​ ؕ اُولٰٓٮِٕكَ الۡاَحۡزَابُ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: وَثَمُودُ وَقَوۡمُ لُوطٖ وَأَصۡحَٰبُ لۡـَٔيۡكَةِۚ أُوْلَٰٓئِكَ ٱلۡأَحۡزَابُ
 sentence_translation: Thamûd, the people of Lot, and the residents of the Forest. These
   were ˹all˺ enemy forces.
 word_by_word:
   1:
-    arabic: وَثَمُوۡدُ
+    arabic: وَثَمُودُ
     translation: And Thamud
     transliteration: wathamūdu
   2:
@@ -13,23 +12,23 @@ word_by_word:
     translation: and (the) people
     transliteration: waqawmu
   3:
-    arabic: لُوۡطٍ
+    arabic: لُوطٖ
     translation: (of) Lut
     transliteration: lūṭin
   4:
-    arabic: وَّاَصۡحٰبُ
+    arabic: وَأَصۡحَٰبُ
     translation: and (the) companions
     transliteration: wa-aṣḥābu
   5:
-    arabic: لْئَیْكَةِ​ ؕ
+    arabic: لۡـَٔيۡكَةِۚ
     translation: (of) the wood
     transliteration: al'aykati
   6:
-    arabic: اُولٰٓٮِٕكَ
+    arabic: أُوْلَٰٓئِكَ
     translation: Those
     transliteration: ulāika
   7:
-    arabic: "الۡاَحۡزَابُ‏ \uFEFF\uFEFF"
+    arabic: ٱلۡأَحۡزَابُ
     translation: (were) the companies
     transliteration: l-aḥzābu
 ---

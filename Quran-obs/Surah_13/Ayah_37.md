@@ -1,17 +1,16 @@
 ---
-arabic_ayat: "وَكَذٰلِكَ اَنۡزَلۡنٰهُ حُكۡمًا عَرَبِيًّا​ ؕ وَلَٮِٕنِ اتَّبَعۡتَ اَهۡوَآءَهُمۡ\
-  \ بَعۡدَمَا جَآءَكَ مِنَ الۡعِلۡمِۙ مَا لَـكَ مِنَ اللّٰهِ مِنۡ وَّلِىٍّ وَّلَا\
-  \ وَاقٍ‏ \uFEFF\uFEFF"
+arabic_ayat: وَكَذَٰلِكَ أَنزَلۡنَٰهُ حُكۡمًا عَرَبِيّٗاۚ وَلَئِنِ ٱتَّبَعۡتَ أَهۡوَآءَهُم
+  بَعۡدَ مَا جَآءَكَ مِنَ ٱلۡعِلۡمِ مَا لَكَ مِنَ ٱللَّهِ مِن وَلِيّٖ وَلَا وَاقٖ
 sentence_translation: And so We have revealed it as an authority in Arabic. And if
   you were to follow their desires after ˹all˺ the knowledge that has come to you,
   there would be none to protect or shield you from Allah.
 word_by_word:
   1:
-    arabic: وَكَذٰلِكَ
+    arabic: وَكَذَٰلِكَ
     translation: And thus
     transliteration: wakadhālika
   2:
-    arabic: اَنۡزَلۡنٰهُ
+    arabic: أَنزَلۡنَٰهُ
     translation: We have revealed it
     transliteration: anzalnāhu
   3:
@@ -19,19 +18,19 @@ word_by_word:
     translation: (to be) a judgment of authority
     transliteration: ḥuk'man
   4:
-    arabic: عَرَبِيًّا​ ؕ
+    arabic: عَرَبِيّٗاۚ
     translation: (in) Arabic
     transliteration: ʿarabiyyan
   5:
-    arabic: وَلَٮِٕنِ
+    arabic: وَلَئِنِ
     translation: And if
     transliteration: wala-ini
   6:
-    arabic: اتَّبَعۡتَ
+    arabic: ٱتَّبَعۡتَ
     translation: you follow
     transliteration: ittabaʿta
   7:
-    arabic: اَهۡوَآءَهُمۡ
+    arabic: أَهۡوَآءَهُم
     translation: their desires
     transliteration: ahwāahum
   8:
@@ -47,7 +46,7 @@ word_by_word:
     translation: of
     transliteration: mina
   11:
-    arabic: الۡعِلۡمِۙ
+    arabic: ٱلۡعِلۡمِ
     translation: the knowledge
     transliteration: l-ʿil'mi
   12:
@@ -55,7 +54,7 @@ word_by_word:
     translation: not
     transliteration: mā
   13:
-    arabic: لَـكَ
+    arabic: لَكَ
     translation: for you
     transliteration: laka
   14:
@@ -63,23 +62,23 @@ word_by_word:
     translation: against
     transliteration: mina
   15:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   16:
-    arabic: مِنۡ
+    arabic: مِن
     translation: any
     transliteration: min
   17:
-    arabic: وَّلِىٍّ
+    arabic: وَلِيّٖ
     translation: protector
     transliteration: waliyyin
   18:
-    arabic: وَّلَا
+    arabic: وَلَا
     translation: and not
     transliteration: walā
   19:
-    arabic: "وَاقٍ‏ \uFEFF\uFEFF"
+    arabic: وَاقٖ
     translation: defender
     transliteration: wāqin
 ---

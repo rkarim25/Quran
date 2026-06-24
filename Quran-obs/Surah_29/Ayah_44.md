@@ -1,6 +1,6 @@
 ---
-arabic_ayat: خَلَقَ اللّٰهُ السَّمٰوٰتِ وَ الۡاَرۡضَ بِالۡحَـقِّ​ ؕ اِنَّ فِىۡ ذٰ
-  لِكَ لَاٰيَةً لِّـلۡمُؤۡمِنِيۡنَ‏
+arabic_ayat: خَلَقَ ٱللَّهُ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضَ بِٱلۡحَقِّۚ إِنَّ فِي ذَٰلِكَ
+  لَأٓيَةٗ لِّلۡمُؤۡمِنِينَ
 sentence_translation: Allah created the heavens and the earth for a purpose. Surely
   in this is a sign for the people of faith.
 word_by_word:
@@ -9,39 +9,39 @@ word_by_word:
     translation: Allah created
     transliteration: khalaqa
   2:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah created
     transliteration: l-lahu
   3:
-    arabic: السَّمٰوٰتِ
+    arabic: ٱلسَّمَٰوَٰتِ
     translation: the heavens
     transliteration: l-samāwāti
   4:
-    arabic: وَ الۡاَرۡضَ
+    arabic: وَٱلۡأَرۡضَ
     translation: and the earth
     transliteration: wal-arḍa
   5:
-    arabic: بِالۡحَـقِّ​ ؕ
+    arabic: بِٱلۡحَقِّۚ
     translation: in truth
     transliteration: bil-ḥaqi
   6:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   7:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   8:
-    arabic: ذٰ لِكَ
+    arabic: ذَٰلِكَ
     translation: that
     transliteration: dhālika
   9:
-    arabic: لَاٰيَةً
+    arabic: لَأٓيَةٗ
     translation: (is) surely a Sign
     transliteration: laāyatan
   10:
-    arabic: لِّـلۡمُؤۡمِنِيۡنَ‏
+    arabic: لِّلۡمُؤۡمِنِينَ
     translation: for the believers
     transliteration: lil'mu'minīna
 ---

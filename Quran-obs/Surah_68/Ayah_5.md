@@ -1,5 +1,5 @@
 ---
-arabic_ayat: فَسَتُبۡصِرُ وَيُبۡصِرُوۡنَۙ‏
+arabic_ayat: فَسَتُبۡصِرُ وَيُبۡصِرُونَ
 sentence_translation: Soon you and the pagans will see,
 word_by_word:
   1:
@@ -7,7 +7,7 @@ word_by_word:
     translation: So you will see
     transliteration: fasatub'ṣiru
   2:
-    arabic: وَيُبۡصِرُوۡنَۙ‏
+    arabic: وَيُبۡصِرُونَ
     translation: and they will see
     transliteration: wayub'ṣirūna
 ---

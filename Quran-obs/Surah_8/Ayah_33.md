@@ -1,6 +1,6 @@
 ---
-arabic_ayat: وَمَا كَانَ اللّٰهُ لِيُعَذِّبَهُمۡ وَاَنۡتَ فِيۡهِمۡ​ؕ وَمَا كَانَ اللّٰهُ
-  مُعَذِّبَهُمۡ وَهُمۡ يَسۡتَغۡفِرُوۡنَ‏
+arabic_ayat: وَمَا كَانَ ٱللَّهُ لِيُعَذِّبَهُمۡ وَأَنتَ فِيهِمۡۚ وَمَا كَانَ ٱللَّهُ
+  مُعَذِّبَهُمۡ وَهُمۡ يَسۡتَغۡفِرُونَ
 sentence_translation: But Allah would never punish them while you ˹O Prophet˺ were
   in their midst. Nor would He ever punish them if they prayed for forgiveness.
 word_by_word:
@@ -13,7 +13,7 @@ word_by_word:
     translation: is
     transliteration: kāna
   3:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: (for) Allah
     transliteration: l-lahu
   4:
@@ -21,11 +21,11 @@ word_by_word:
     translation: that He punishes them
     transliteration: liyuʿadhibahum
   5:
-    arabic: وَاَنۡتَ
+    arabic: وَأَنتَ
     translation: while you
     transliteration: wa-anta
   6:
-    arabic: فِيۡهِمۡ​ؕ
+    arabic: فِيهِمۡۚ
     translation: (are) among them
     transliteration: fīhim
   7:
@@ -37,7 +37,7 @@ word_by_word:
     translation: is
     transliteration: kāna
   9:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   10:
@@ -49,7 +49,7 @@ word_by_word:
     translation: while they
     transliteration: wahum
   12:
-    arabic: يَسۡتَغۡفِرُوۡنَ‏
+    arabic: يَسۡتَغۡفِرُونَ
     translation: seek forgiveness
     transliteration: yastaghfirūna
 ---

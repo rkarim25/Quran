@@ -1,27 +1,27 @@
 ---
-arabic_ayat: وَاذۡكُرۡ فِى الۡـكِتٰبِ اِسۡمٰعِيۡلَ​ اِنَّهٗ كَانَ صَادِقَ الۡوَعۡدِ
-  وَكَانَ رَسُوۡلًا نَّبِيًّا​ ۚ‏
+arabic_ayat: وَٱذۡكُرۡ فِي ٱلۡكِتَٰبِ إِسۡمَٰعِيلَۚ إِنَّهُۥ كَانَ صَادِقَ ٱلۡوَعۡدِ
+  وَكَانَ رَسُولٗا نَّبِيّٗا
 sentence_translation: And mention in the Book ˹O Prophet, the story of˺ Ishmael. He
   was truly a man of his word, and was a messenger and a prophet.
 word_by_word:
   1:
-    arabic: وَاذۡكُرۡ
+    arabic: وَٱذۡكُرۡ
     translation: And mention
     transliteration: wa-udh'kur
   2:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   3:
-    arabic: الۡـكِتٰبِ
+    arabic: ٱلۡكِتَٰبِ
     translation: the Book
     transliteration: l-kitābi
   4:
-    arabic: اِسۡمٰعِيۡلَ​
+    arabic: إِسۡمَٰعِيلَۚ
     translation: Ishmael
     transliteration: is'māʿīla
   5:
-    arabic: اِنَّهٗ
+    arabic: إِنَّهُۥ
     translation: Indeed, he
     transliteration: innahu
   6:
@@ -33,7 +33,7 @@ word_by_word:
     translation: 'true'
     transliteration: ṣādiqa
   8:
-    arabic: الۡوَعۡدِ
+    arabic: ٱلۡوَعۡدِ
     translation: (to his) promise
     transliteration: l-waʿdi
   9:
@@ -41,11 +41,11 @@ word_by_word:
     translation: and was
     transliteration: wakāna
   10:
-    arabic: رَسُوۡلًا
+    arabic: رَسُولٗا
     translation: 'a Messenger '
     transliteration: rasūlan
   11:
-    arabic: نَّبِيًّا​ ۚ‏
+    arabic: نَّبِيّٗا
     translation: a Prophet
     transliteration: nabiyyan
 ---

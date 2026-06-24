@@ -1,10 +1,10 @@
 ---
-arabic_ayat: وَلَـقَدۡ عَلِمۡتُمُ النَّشۡاَةَ الۡاُوۡلٰى فَلَوۡلَا تَذَكَّرُوۡنَ‏
+arabic_ayat: وَلَقَدۡ عَلِمۡتُمُ ٱلنَّشۡأَةَ ٱلۡأُولَىٰ فَلَوۡلَا تَذَكَّرُونَ
 sentence_translation: You already know how you were first created. Will you not then
   be mindful?
 word_by_word:
   1:
-    arabic: وَلَـقَدۡ
+    arabic: وَلَقَدۡ
     translation: And certainly
     transliteration: walaqad
   2:
@@ -12,11 +12,11 @@ word_by_word:
     translation: you know
     transliteration: ʿalim'tumu
   3:
-    arabic: النَّشۡاَةَ
+    arabic: ٱلنَّشۡأَةَ
     translation: the creation
     transliteration: l-nashata
   4:
-    arabic: الۡاُوۡلٰى
+    arabic: ٱلۡأُولَىٰ
     translation: the first
     transliteration: l-ūlā
   5:
@@ -24,7 +24,7 @@ word_by_word:
     translation: so why not
     transliteration: falawlā
   6:
-    arabic: تَذَكَّرُوۡنَ‏
+    arabic: تَذَكَّرُونَ
     translation: you take heed
     transliteration: tadhakkarūna
 ---

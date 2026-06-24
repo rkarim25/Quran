@@ -1,7 +1,6 @@
 ---
-arabic_ayat: "لَا تَعۡتَذِرُوۡا قَدۡ كَفَرۡتُمۡ بَعۡدَ اِيۡمَانِكُمۡ​ ؕ اِنۡ نَّـعۡفُ\
-  \ عَنۡ طَآٮِٕفَةٍ مِّنۡكُمۡ نُـعَذِّبۡ طَآٮِٕفَةً ۢ بِاَنَّهُمۡ كَانُوۡا مُجۡرِمِيۡنَ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: لَا تَعۡتَذِرُواْ قَدۡ كَفَرۡتُم بَعۡدَ إِيمَٰنِكُمۡۚ إِن نَّعۡفُ عَن
+  طَآئِفَةٖ مِّنكُمۡ نُعَذِّبۡ طَآئِفَةَۢ بِأَنَّهُمۡ كَانُواْ مُجۡرِمِينَ
 sentence_translation: Make no excuses! You have lost faith after your belief. If We
   pardon a group of you, We will punish others for their wickedness.
 word_by_word:
@@ -10,7 +9,7 @@ word_by_word:
     translation: (Do) not
     transliteration: lā
   2:
-    arabic: تَعۡتَذِرُوۡا
+    arabic: تَعۡتَذِرُواْ
     translation: make excuse
     transliteration: taʿtadhirū
   3:
@@ -18,7 +17,7 @@ word_by_word:
     translation: verily
     transliteration: qad
   4:
-    arabic: كَفَرۡتُمۡ
+    arabic: كَفَرۡتُم
     translation: you have disbelieved
     transliteration: kafartum
   5:
@@ -26,47 +25,47 @@ word_by_word:
     translation: after
     transliteration: baʿda
   6:
-    arabic: اِيۡمَانِكُمۡ​ ؕ
+    arabic: إِيمَٰنِكُمۡۚ
     translation: your belief
     transliteration: īmānikum
   7:
-    arabic: اِنۡ
+    arabic: إِن
     translation: If
     transliteration: in
   8:
-    arabic: نَّـعۡفُ
+    arabic: نَّعۡفُ
     translation: We pardon
     transliteration: naʿfu
   9:
-    arabic: عَنۡ
+    arabic: عَن
     translation: '[on]'
     transliteration: ʿan
   10:
-    arabic: طَآٮِٕفَةٍ
+    arabic: طَآئِفَةٖ
     translation: a party
     transliteration: ṭāifatin
   11:
-    arabic: مِّنۡكُمۡ
+    arabic: مِّنكُمۡ
     translation: of you
     transliteration: minkum
   12:
-    arabic: نُـعَذِّبۡ
+    arabic: نُعَذِّبۡ
     translation: We will punish
     transliteration: nuʿadhib
   13:
-    arabic: طَآٮِٕفَةً ۢ
+    arabic: طَآئِفَةَۢ
     translation: a party
     transliteration: ṭāifatan
   14:
-    arabic: بِاَنَّهُمۡ
+    arabic: بِأَنَّهُمۡ
     translation: because they
     transliteration: bi-annahum
   15:
-    arabic: كَانُوۡا
+    arabic: كَانُواْ
     translation: were
     transliteration: kānū
   16:
-    arabic: "مُجۡرِمِيۡنَ‏ \uFEFF\uFEFF"
+    arabic: مُجۡرِمِينَ
     translation: criminals
     transliteration: muj'rimīna
 ---

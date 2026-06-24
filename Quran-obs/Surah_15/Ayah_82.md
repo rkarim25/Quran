@@ -1,13 +1,13 @@
 ---
-arabic_ayat: وَكَانُوۡا يَنۡحِتُوۡنَ مِنَ الۡجِبَالِ بُيُوۡتًا اٰمِنِيۡنَ‏
+arabic_ayat: وَكَانُواْ يَنۡحِتُونَ مِنَ ٱلۡجِبَالِ بُيُوتًا ءَامِنِينَ
 sentence_translation: They carved their homes in the mountains, feeling secure.
 word_by_word:
   1:
-    arabic: وَكَانُوۡا
+    arabic: وَكَانُواْ
     translation: And they used (to)
     transliteration: wakānū
   2:
-    arabic: يَنۡحِتُوۡنَ
+    arabic: يَنۡحِتُونَ
     translation: carve
     transliteration: yanḥitūna
   3:
@@ -15,15 +15,15 @@ word_by_word:
     translation: from
     transliteration: mina
   4:
-    arabic: الۡجِبَالِ
+    arabic: ٱلۡجِبَالِ
     translation: the mountains
     transliteration: l-jibāli
   5:
-    arabic: بُيُوۡتًا
+    arabic: بُيُوتًا ءَ
     translation: houses
     transliteration: buyūtan
   6:
-    arabic: اٰمِنِيۡنَ‏
+    arabic: امِنِينَ
     translation: secure
     transliteration: āminīna
 ---

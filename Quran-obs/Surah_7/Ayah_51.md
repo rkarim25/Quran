@@ -1,50 +1,50 @@
 ---
-arabic_ayat: الَّذِيۡنَ اتَّخَذُوۡا دِيۡنَهُمۡ لَهۡوًا وَّلَعِبًا وَّغَرَّتۡهُمُ الۡحَيٰوةُ
-  الدُّنۡيَا​​ ۚ فَالۡيَوۡمَ نَنۡسٰٮهُمۡ كَمَا نَسُوۡا لِقَآءَ يَوۡمِهِمۡ هٰذَا ۙ
-  وَمَا كَانُوۡا بِاٰيٰتِنَا يَجۡحَدُوۡنَ‏
+arabic_ayat: ٱلَّذِينَ ٱتَّخَذُواْ دِينَهُمۡ لَهۡوٗا وَلَعِبٗا وَغَرَّتۡهُمُ ٱلۡحَيَوٰةُ
+  ٱلدُّنۡيَاۚ فَٱلۡيَوۡمَ نَنسَىٰهُمۡ كَمَا نَسُواْ لِقَآءَ يَوۡمِهِمۡ هَٰذَا وَمَا
+  كَانُواْ بِـَٔايَٰتِنَا يَجۡحَدُونَ
 sentence_translation: those who took this faith ˹of Islam˺ as mere amusement and play
   and were deluded by ˹their˺ worldly life.” ˹Allah will say,˺ “Today We will ignore
   them just as they ignored the coming of this Day of theirs and for rejecting Our
   revelations.”
 word_by_word:
   1:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: Those who
     transliteration: alladhīna
   2:
-    arabic: اتَّخَذُوۡا
+    arabic: ٱتَّخَذُواْ
     translation: took
     transliteration: ittakhadhū
   3:
-    arabic: دِيۡنَهُمۡ
+    arabic: دِينَهُمۡ
     translation: their religion
     transliteration: dīnahum
   4:
-    arabic: لَهۡوًا
+    arabic: لَهۡوٗا
     translation: (as) an amusement
     transliteration: lahwan
   5:
-    arabic: وَّلَعِبًا
+    arabic: وَلَعِبٗا
     translation: and play
     transliteration: walaʿiban
   6:
-    arabic: وَّغَرَّتۡهُمُ
+    arabic: وَغَرَّتۡهُمُ
     translation: and deluded them
     transliteration: wagharrathumu
   7:
-    arabic: الۡحَيٰوةُ
+    arabic: ٱلۡحَيَوٰةُ
     translation: the life
     transliteration: l-ḥayatu
   8:
-    arabic: الدُّنۡيَا​​ ۚ
+    arabic: ٱلدُّنۡيَاۚ
     translation: (of) the world
     transliteration: l-dun'yā
   9:
-    arabic: فَالۡيَوۡمَ
+    arabic: فَٱلۡيَوۡمَ
     translation: So today
     transliteration: fal-yawma
   10:
-    arabic: نَنۡسٰٮهُمۡ
+    arabic: نَنسَىٰهُمۡ
     translation: We forget them
     transliteration: nansāhum
   11:
@@ -52,7 +52,7 @@ word_by_word:
     translation: as
     transliteration: kamā
   12:
-    arabic: نَسُوۡا
+    arabic: نَسُواْ
     translation: they forgot
     transliteration: nasū
   13:
@@ -64,7 +64,7 @@ word_by_word:
     translation: (of) their day
     transliteration: yawmihim
   15:
-    arabic: هٰذَا ۙ
+    arabic: هَٰذَا
     translation: this
     transliteration: hādhā
   16:
@@ -72,15 +72,15 @@ word_by_word:
     translation: and [what]
     transliteration: wamā
   17:
-    arabic: كَانُوۡا
+    arabic: كَانُواْ
     translation: (as) they used to
     transliteration: kānū
   18:
-    arabic: بِاٰيٰتِنَا
+    arabic: بِـَٔايَٰتِنَا
     translation: with Our Verses
     transliteration: biāyātinā
   19:
-    arabic: يَجۡحَدُوۡنَ‏
+    arabic: يَجۡحَدُونَ
     translation: they reject
     transliteration: yajḥadūna
 ---

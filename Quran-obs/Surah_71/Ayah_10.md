@@ -1,5 +1,5 @@
 ---
-arabic_ayat: فَقُلۡتُ اسۡتَغۡفِرُوۡا رَبَّكُمۡؕ اِنَّهٗ كَانَ غَفَّارًا ۙ‏
+arabic_ayat: فَقُلۡتُ ٱسۡتَغۡفِرُواْ رَبَّكُمۡ إِنَّهُۥ كَانَ غَفَّارٗا
 sentence_translation: saying, ‘Seek your Lord’s forgiveness, ˹for˺ He is truly Most
   Forgiving.
 word_by_word:
@@ -8,15 +8,15 @@ word_by_word:
     translation: Then I said
     transliteration: faqul'tu
   2:
-    arabic: اسۡتَغۡفِرُوۡا
+    arabic: ٱسۡتَغۡفِرُواْ
     translation: Ask forgiveness
     transliteration: is'taghfirū
   3:
-    arabic: رَبَّكُمۡؕ
+    arabic: رَبَّكُمۡ
     translation: (from) your Lord
     transliteration: rabbakum
   4:
-    arabic: اِنَّهٗ
+    arabic: إِنَّهُۥ
     translation: Indeed, He
     transliteration: innahu
   5:
@@ -24,7 +24,7 @@ word_by_word:
     translation: is
     transliteration: kāna
   6:
-    arabic: غَفَّارًا ۙ‏
+    arabic: غَفَّارٗا
     translation: Oft-Forgiving
     transliteration: ghaffāran
 ---

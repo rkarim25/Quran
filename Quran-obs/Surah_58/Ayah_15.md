@@ -1,15 +1,15 @@
 ---
-arabic_ayat: اَعَدَّ اللّٰهُ لَهُمۡ عَذَابًا شَدِيۡدًا​ ؕ اِنَّهُمۡ سَآءَ مَا كَانُوۡا
-  يَعۡمَلُوۡنَ‏
+arabic_ayat: أَعَدَّ ٱللَّهُ لَهُمۡ عَذَابٗا شَدِيدًاۖ إِنَّهُمۡ سَآءَ مَا كَانُواْ
+  يَعۡمَلُونَ
 sentence_translation: Allah has prepared for them a severe punishment. Evil indeed
   is what they do.
 word_by_word:
   1:
-    arabic: اَعَدَّ
+    arabic: أَعَدَّ
     translation: Allah has prepared
     transliteration: aʿadda
   2:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah has prepared
     transliteration: l-lahu
   3:
@@ -17,15 +17,15 @@ word_by_word:
     translation: for them
     transliteration: lahum
   4:
-    arabic: عَذَابًا
+    arabic: عَذَابٗا
     translation: a punishment
     transliteration: ʿadhāban
   5:
-    arabic: شَدِيۡدًا​ ؕ
+    arabic: شَدِيدًاۖ
     translation: severe
     transliteration: shadīdan
   6:
-    arabic: اِنَّهُمۡ
+    arabic: إِنَّهُمۡ
     translation: Indeed, [they]
     transliteration: innahum
   7:
@@ -37,11 +37,11 @@ word_by_word:
     translation: what
     transliteration: mā
   9:
-    arabic: كَانُوۡا
+    arabic: كَانُواْ
     translation: they used to
     transliteration: kānū
   10:
-    arabic: يَعۡمَلُوۡنَ‏
+    arabic: يَعۡمَلُونَ
     translation: do
     transliteration: yaʿmalūna
 ---

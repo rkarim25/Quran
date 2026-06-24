@@ -1,20 +1,20 @@
 ---
-arabic_ayat: وَاِنۡ يُّرِيۡدُوۡا خِيَانَـتَكَ فَقَدۡ خَانُوا اللّٰهَ مِنۡ قَبۡلُ فَاَمۡكَنَ
-  مِنۡهُمۡ ؕ وَاللّٰهُ عَلِيۡمٌ حَكِيۡمٌ‏
+arabic_ayat: وَإِن يُرِيدُواْ خِيَانَتَكَ فَقَدۡ خَانُواْ ٱللَّهَ مِن قَبۡلُ فَأَمۡكَنَ
+  مِنۡهُمۡۗ وَٱللَّهُ عَلِيمٌ حَكِيمٌ
 sentence_translation: But if their intention is only to betray you ˹O Prophet˺, they
   sought to betray Allah before. But He gave you power over them. And Allah is All-Knowing,
   All-Wise.
 word_by_word:
   1:
-    arabic: وَاِنۡ
+    arabic: وَإِن
     translation: But if
     transliteration: wa-in
   2:
-    arabic: يُّرِيۡدُوۡا
+    arabic: يُرِيدُواْ
     translation: they intend
     transliteration: yurīdū
   3:
-    arabic: خِيَانَـتَكَ
+    arabic: خِيَانَتَكَ
     translation: (to) betray you
     transliteration: khiyānataka
   4:
@@ -22,15 +22,15 @@ word_by_word:
     translation: certainly
     transliteration: faqad
   5:
-    arabic: خَانُوا
+    arabic: خَانُواْ
     translation: they have betrayed
     transliteration: khānū
   6:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   7:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   8:
@@ -38,23 +38,23 @@ word_by_word:
     translation: before
     transliteration: qablu
   9:
-    arabic: فَاَمۡكَنَ
+    arabic: فَأَمۡكَنَ
     translation: So He gave (you) power
     transliteration: fa-amkana
   10:
-    arabic: مِنۡهُمۡ ؕ
+    arabic: مِنۡهُمۡۗ
     translation: over them
     transliteration: min'hum
   11:
-    arabic: وَاللّٰهُ
+    arabic: وَٱللَّهُ
     translation: And Allah
     transliteration: wal-lahu
   12:
-    arabic: عَلِيۡمٌ
+    arabic: عَلِيمٌ
     translation: (is) All-Knower
     transliteration: ʿalīmun
   13:
-    arabic: حَكِيۡمٌ‏
+    arabic: حَكِيمٌ
     translation: All-Wise
     transliteration: ḥakīmun
 ---

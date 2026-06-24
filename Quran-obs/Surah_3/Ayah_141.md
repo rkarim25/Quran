@@ -1,5 +1,5 @@
 ---
-arabic_ayat: وَلِيُمَحِّصَ اللّٰهُ الَّذِيۡنَ اٰمَنُوۡا وَيَمۡحَقَ الۡكٰفِرِيۡنَ‏
+arabic_ayat: وَلِيُمَحِّصَ ٱللَّهُ ٱلَّذِينَ ءَامَنُواْ وَيَمۡحَقَ ٱلۡكَٰفِرِينَ
 sentence_translation: and distinguish the ˹true˺ believers and destroy the disbelievers.
 word_by_word:
   1:
@@ -7,15 +7,15 @@ word_by_word:
     translation: And so that may purify
     transliteration: waliyumaḥḥiṣa
   2:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   3:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ ءَ
     translation: those who
     transliteration: alladhīna
   4:
-    arabic: اٰمَنُوۡا
+    arabic: امَنُواْ
     translation: believe
     transliteration: āmanū
   5:
@@ -23,7 +23,7 @@ word_by_word:
     translation: and destroy
     transliteration: wayamḥaqa
   6:
-    arabic: الۡكٰفِرِيۡنَ‏
+    arabic: ٱلۡكَٰفِرِينَ
     translation: the disbelievers
     transliteration: l-kāfirīna
 ---

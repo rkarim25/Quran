@@ -1,25 +1,25 @@
 ---
-arabic_ayat: اِنَّ الَّذِيۡنَ تَوَلَّوۡا مِنۡكُمۡ يَوۡمَ الۡتَقَى الۡجَمۡعٰنِۙ اِنَّمَا
-  اسۡتَزَلَّهُمُ الشَّيۡطٰنُ بِبَعۡضِ مَا كَسَبُوۡا ​ۚ وَلَقَدۡ عَفَا اللّٰهُ عَنۡهُمۡ​ؕ
-  اِنَّ اللّٰهَ غَفُوۡرٌ حَلِيۡمٌ‏
+arabic_ayat: إِنَّ ٱلَّذِينَ تَوَلَّوۡاْ مِنكُمۡ يَوۡمَ ٱلۡتَقَى ٱلۡجَمۡعَانِ إِنَّمَا
+  ٱسۡتَزَلَّهُمُ ٱلشَّيۡطَٰنُ بِبَعۡضِ مَا كَسَبُواْۖ وَلَقَدۡ عَفَا ٱللَّهُ عَنۡهُمۡۗ
+  إِنَّ ٱللَّهَ غَفُورٌ حَلِيمٞ
 sentence_translation: Indeed, those ˹believers˺ who fled on the day when the two armies
   met were made to slip by Satan because of their misdeeds. But Allah has pardoned
   them. Surely Allah is All-Forgiving, Most Forbearing.
 word_by_word:
   1:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   3:
-    arabic: تَوَلَّوۡا
+    arabic: تَوَلَّوۡاْ
     translation: turned back
     transliteration: tawallaw
   4:
-    arabic: مِنۡكُمۡ
+    arabic: مِنكُمۡ
     translation: among you
     transliteration: minkum
   5:
@@ -27,23 +27,23 @@ word_by_word:
     translation: (on the) day
     transliteration: yawma
   6:
-    arabic: الۡتَقَى
+    arabic: ٱلۡتَقَى
     translation: met
     transliteration: l-taqā
   7:
-    arabic: الۡجَمۡعٰنِۙ
+    arabic: ٱلۡجَمۡعَانِ
     translation: 'the two hosts '
     transliteration: l-jamʿāni
   8:
-    arabic: اِنَّمَا
+    arabic: إِنَّمَا
     translation: only
     transliteration: innamā
   9:
-    arabic: اسۡتَزَلَّهُمُ
+    arabic: ٱسۡتَزَلَّهُمُ
     translation: made them slip
     transliteration: is'tazallahumu
   10:
-    arabic: الشَّيۡطٰنُ
+    arabic: ٱلشَّيۡطَٰنُ
     translation: the Shaitaan
     transliteration: l-shayṭānu
   11:
@@ -55,7 +55,7 @@ word_by_word:
     translation: (of) what
     transliteration: mā
   13:
-    arabic: كَسَبُوۡا ​ۚ
+    arabic: كَسَبُواْۖ
     translation: they (had) earned
     transliteration: kasabū
   14:
@@ -67,27 +67,27 @@ word_by_word:
     translation: forgave
     transliteration: ʿafā
   16:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   17:
-    arabic: عَنۡهُمۡ​ؕ
+    arabic: عَنۡهُمۡۗ
     translation: '[on] them'
     transliteration: ʿanhum
   18:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: indeed
     transliteration: inna
   19:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   20:
-    arabic: غَفُوۡرٌ
+    arabic: غَفُورٌ
     translation: (is) Oft-Forgiving
     transliteration: ghafūrun
   21:
-    arabic: حَلِيۡمٌ‏
+    arabic: حَلِيمٞ
     translation: All-Forbearing
     transliteration: ḥalīmun
 ---

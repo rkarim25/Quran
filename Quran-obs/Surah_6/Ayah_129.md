@@ -1,15 +1,14 @@
 ---
-arabic_ayat: "وَكَذٰلِكَ نُوَلِّىۡ بَعۡضَ الظّٰلِمِيۡنَ بَعۡضًاۢ بِمَا كَانُوۡا يَكۡسِبُوۡنَ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: وَكَذَٰلِكَ نُوَلِّي بَعۡضَ ٱلظَّٰلِمِينَ بَعۡضَۢا بِمَا كَانُواْ يَكۡسِبُونَ
 sentence_translation: This is how We make the wrongdoers ˹destructive˺ allies of one
   another because of their misdeeds.
 word_by_word:
   1:
-    arabic: وَكَذٰلِكَ
+    arabic: وَكَذَٰلِكَ
     translation: And thus
     transliteration: wakadhālika
   2:
-    arabic: نُوَلِّىۡ
+    arabic: نُوَلِّي
     translation: We make friends
     transliteration: nuwallī
   3:
@@ -17,11 +16,11 @@ word_by_word:
     translation: some (of)
     transliteration: baʿḍa
   4:
-    arabic: الظّٰلِمِيۡنَ
+    arabic: ٱلظَّٰلِمِينَ
     translation: the wrongdoers
     transliteration: l-ẓālimīna
   5:
-    arabic: بَعۡضًاۢ
+    arabic: بَعۡضَۢا
     translation: (to) others
     transliteration: baʿḍan
   6:
@@ -29,11 +28,11 @@ word_by_word:
     translation: for what
     transliteration: bimā
   7:
-    arabic: كَانُوۡا
+    arabic: كَانُواْ
     translation: they used to
     transliteration: kānū
   8:
-    arabic: "يَكۡسِبُوۡنَ‏ \uFEFF\uFEFF"
+    arabic: يَكۡسِبُونَ
     translation: earn
     transliteration: yaksibūna
 ---

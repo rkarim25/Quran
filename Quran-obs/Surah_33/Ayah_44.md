@@ -1,6 +1,6 @@
 ---
-arabic_ayat: "تَحِيَّتُهُمۡ يَوۡمَ يَلۡقَوۡنَهٗ سَلٰمٌ ۖۚ وَاَعَدَّ لَهُمۡ اَجۡرًا\
-  \ كَرِيۡمًا‏ \uFEFF\uFEFF"
+arabic_ayat: تَحِيَّتُهُمۡ يَوۡمَ يَلۡقَوۡنَهُۥ سَلَٰمٞۚ وَأَعَدَّ لَهُمۡ أَجۡرٗا
+  كَرِيمٗا
 sentence_translation: Their greeting on the Day they meet Him will be, “Peace!” And
   He has prepared for them an honourable reward.
 word_by_word:
@@ -13,15 +13,15 @@ word_by_word:
     translation: (on the) Day
     transliteration: yawma
   3:
-    arabic: يَلۡقَوۡنَهٗ
+    arabic: يَلۡقَوۡنَهُۥ
     translation: they will meet Him
     transliteration: yalqawnahu
   4:
-    arabic: سَلٰمٌ ۖۚ
+    arabic: سَلَٰمٞۚ
     translation: (will be), "Peace
     transliteration: salāmun
   5:
-    arabic: وَاَعَدَّ
+    arabic: وَأَعَدَّ
     translation: and He has prepared
     transliteration: wa-aʿadda
   6:
@@ -29,11 +29,11 @@ word_by_word:
     translation: for them
     transliteration: lahum
   7:
-    arabic: اَجۡرًا
+    arabic: أَجۡرٗا
     translation: a reward
     transliteration: ajran
   8:
-    arabic: "كَرِيۡمًا‏ \uFEFF\uFEFF"
+    arabic: كَرِيمٗا
     translation: noble
     transliteration: karīman
 ---

@@ -1,6 +1,6 @@
 ---
-arabic_ayat: خَتَمَ اللّٰهُ عَلَىٰ قُلُوۡبِهِمۡ وَعَلٰى سَمۡعِهِمۡ​ؕ وَعَلٰىٓ اَبۡصَارِهِمۡ
-  غِشَاوَةٌ  وَّلَهُمۡ عَذَابٌ عَظِيۡمٌ‏
+arabic_ayat: خَتَمَ ٱللَّهُ عَلَىٰ قُلُوبِهِمۡ وَعَلَىٰ سَمۡعِهِمۡۖ وَعَلَىٰٓ أَبۡصَٰرِهِمۡ
+  غِشَٰوَةٞۖ وَلَهُمۡ عَذَابٌ عَظِيمٞ
 sentence_translation: Allah has sealed their hearts and their hearing, and their sight
   is covered. They will suffer a tremendous punishment.
 word_by_word:
@@ -9,7 +9,7 @@ word_by_word:
     translation: Has set a seal
     transliteration: khatama
   2:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   3:
@@ -17,31 +17,31 @@ word_by_word:
     translation: 'on'
     transliteration: ʿalā
   4:
-    arabic: قُلُوۡبِهِمۡ
+    arabic: قُلُوبِهِمۡ
     translation: their hearts
     transliteration: qulūbihim
   5:
-    arabic: وَعَلٰى
+    arabic: وَعَلَىٰ
     translation: and on
     transliteration: waʿalā
   6:
-    arabic: سَمۡعِهِمۡ​ؕ
+    arabic: سَمۡعِهِمۡۖ
     translation: their hearing
     transliteration: samʿihim
   7:
-    arabic: وَعَلٰىٓ
+    arabic: وَعَلَىٰٓ
     translation: and on
     transliteration: waʿalā
   8:
-    arabic: اَبۡصَارِهِمۡ
+    arabic: أَبۡصَٰرِهِمۡ
     translation: their vision
     transliteration: abṣārihim
   9:
-    arabic: غِشَاوَةٌ 
+    arabic: غِشَٰوَةٞۖ
     translation: (is) a veil
     transliteration: ghishāwatun
   10:
-    arabic: وَّلَهُمۡ
+    arabic: وَلَهُمۡ
     translation: And for them
     transliteration: walahum
   11:
@@ -49,7 +49,7 @@ word_by_word:
     translation: (is) a punishment
     transliteration: ʿadhābun
   12:
-    arabic: عَظِيۡمٌ‏
+    arabic: عَظِيمٞ
     translation: great
     transliteration: ʿaẓīmun
 ---

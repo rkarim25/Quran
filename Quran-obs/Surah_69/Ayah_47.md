@@ -1,5 +1,5 @@
 ---
-arabic_ayat: فَمَا مِنۡكُمۡ مِّنۡ اَحَدٍ عَنۡهُ حَاجِزِيۡنَ‏
+arabic_ayat: فَمَا مِنكُم مِّنۡ أَحَدٍ عَنۡهُ حَٰجِزِينَ
 sentence_translation: and none of you could have shielded him ˹from Us˺!
 word_by_word:
   1:
@@ -7,7 +7,7 @@ word_by_word:
     translation: And not
     transliteration: famā
   2:
-    arabic: مِنۡكُمۡ
+    arabic: مِنكُم
     translation: from you
     transliteration: minkum
   3:
@@ -15,7 +15,7 @@ word_by_word:
     translation: any
     transliteration: min
   4:
-    arabic: اَحَدٍ
+    arabic: أَحَدٍ
     translation: one
     transliteration: aḥadin
   5:
@@ -23,7 +23,7 @@ word_by_word:
     translation: '[from him]'
     transliteration: ʿanhu
   6:
-    arabic: حَاجِزِيۡنَ‏
+    arabic: حَٰجِزِينَ
     translation: (who could) prevent (it)
     transliteration: ḥājizīna
 ---

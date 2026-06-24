@@ -1,18 +1,18 @@
 ---
-arabic_ayat: وَاِذَا قِيۡلَ لَهُمۡ تَعَالَوۡا اِلٰى مَاۤ اَنۡزَلَ اللّٰهُ وَاِلَى
-  الرَّسُوۡلِ قَالُوۡا حَسۡبُنَا مَا وَجَدۡنَا عَلَيۡهِ اٰبَآءَنَا​ ؕ اَوَلَوۡ كَانَ
-  اٰبَآؤُهُمۡ لَا يَعۡلَمُوۡنَ شَيۡــًٔـا وَّلَا يَهۡتَدُوۡنَ‏
+arabic_ayat: وَإِذَا قِيلَ لَهُمۡ تَعَالَوۡاْ إِلَىٰ مَآ أَنزَلَ ٱللَّهُ وَإِلَى
+  ٱلرَّسُولِ قَالُواْ حَسۡبُنَا مَا وَجَدۡنَا عَلَيۡهِ ءَابَآءَنَآۚ أَوَلَوۡ كَانَ
+  ءَابَآؤُهُمۡ لَا يَعۡلَمُونَ شَيۡـٔٗا وَلَا يَهۡتَدُونَ
 sentence_translation: When it is said to them, “Come to Allah’s revelations and to
   the Messenger,” they reply, “What we found our forefathers practicing is good enough
   for us.” ˹Would they still do so,˺ even if their forefathers had absolutely no knowledge
   or guidance?
 word_by_word:
   1:
-    arabic: وَاِذَا
+    arabic: وَإِذَا
     translation: And when
     transliteration: wa-idhā
   2:
-    arabic: قِيۡلَ
+    arabic: قِيلَ
     translation: it is said
     transliteration: qīla
   3:
@@ -20,35 +20,35 @@ word_by_word:
     translation: to them
     transliteration: lahum
   4:
-    arabic: تَعَالَوۡا
+    arabic: تَعَالَوۡاْ
     translation: Come
     transliteration: taʿālaw
   5:
-    arabic: اِلٰى
+    arabic: إِلَىٰ
     translation: to
     transliteration: ilā
   6:
-    arabic: مَاۤ
+    arabic: مَآ
     translation: what
     transliteration: mā
   7:
-    arabic: اَنۡزَلَ
+    arabic: أَنزَلَ
     translation: has (been) revealed
     transliteration: anzala
   8:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: (by) Allah
     transliteration: l-lahu
   9:
-    arabic: وَاِلَى
+    arabic: وَإِلَى
     translation: and to
     transliteration: wa-ilā
   10:
-    arabic: الرَّسُوۡلِ
+    arabic: ٱلرَّسُولِ
     translation: the Messenger
     transliteration: l-rasūli
   11:
-    arabic: قَالُوۡا
+    arabic: قَالُواْ
     translation: they said
     transliteration: qālū
   12:
@@ -64,23 +64,23 @@ word_by_word:
     translation: we found
     transliteration: wajadnā
   15:
-    arabic: عَلَيۡهِ
+    arabic: عَلَيۡهِ ءَ
     translation: upon it
     transliteration: ʿalayhi
   16:
-    arabic: اٰبَآءَنَا​ ؕ
+    arabic: ابَآءَنَآۚ
     translation: our forefathers
     transliteration: ābāanā
   17:
-    arabic: اَوَلَوۡ
+    arabic: أَوَلَوۡ
     translation: Even though
     transliteration: awalaw
   18:
-    arabic: كَانَ
+    arabic: كَانَ ءَ
     translation: (that)
     transliteration: kāna
   19:
-    arabic: اٰبَآؤُهُمۡ
+    arabic: ابَآؤُهُمۡ
     translation: their forefathers
     transliteration: ābāuhum
   20:
@@ -88,19 +88,19 @@ word_by_word:
     translation: (were) not
     transliteration: lā
   21:
-    arabic: يَعۡلَمُوۡنَ
+    arabic: يَعۡلَمُونَ
     translation: knowing
     transliteration: yaʿlamūna
   22:
-    arabic: شَيۡــًٔـا
+    arabic: شَيۡـٔٗا
     translation: anything
     transliteration: shayan
   23:
-    arabic: وَّلَا
+    arabic: وَلَا
     translation: and not
     transliteration: walā
   24:
-    arabic: يَهۡتَدُوۡنَ‏
+    arabic: يَهۡتَدُونَ
     translation: they (were) guided
     transliteration: yahtadūna
 ---

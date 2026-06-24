@@ -1,9 +1,9 @@
 ---
-arabic_ayat: هٰذِهٖ جَهَنَّمُ الَّتِىۡ كُنۡتُمۡ تُوۡعَدُوۡنَ‏
+arabic_ayat: هَٰذِهِۦ جَهَنَّمُ ٱلَّتِي كُنتُمۡ تُوعَدُونَ
 sentence_translation: This is the Hell you were warned of.
 word_by_word:
   1:
-    arabic: هٰذِهٖ
+    arabic: هَٰذِهِۦ
     translation: This (is)
     transliteration: hādhihi
   2:
@@ -11,15 +11,15 @@ word_by_word:
     translation: (the) Hell
     transliteration: jahannamu
   3:
-    arabic: الَّتِىۡ
+    arabic: ٱلَّتِي
     translation: which
     transliteration: allatī
   4:
-    arabic: كُنۡتُمۡ
+    arabic: كُنتُمۡ
     translation: you were
     transliteration: kuntum
   5:
-    arabic: تُوۡعَدُوۡنَ‏
+    arabic: تُوعَدُونَ
     translation: promised
     transliteration: tūʿadūna
 ---

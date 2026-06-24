@@ -1,27 +1,26 @@
 ---
-arabic_ayat: "فَكَذَّبُوۡهُ فَاَخَذَتۡهُمُ الرَّجۡفَةُ فَاَصۡبَحُوۡا فِىۡ دَارِهِمۡ\
-  \ جٰثِمِيۡنَ‏ \uFEFF\uFEFF"
+arabic_ayat: فَكَذَّبُوهُ فَأَخَذَتۡهُمُ ٱلرَّجۡفَةُ فَأَصۡبَحُواْ فِي دَارِهِمۡ جَٰثِمِينَ
 sentence_translation: But they rejected him, so an ˹overwhelming˺ earthquake struck
   them and they fell lifeless in their homes.
 word_by_word:
   1:
-    arabic: فَكَذَّبُوۡهُ
+    arabic: فَكَذَّبُوهُ
     translation: But they denied him
     transliteration: fakadhabūhu
   2:
-    arabic: فَاَخَذَتۡهُمُ
+    arabic: فَأَخَذَتۡهُمُ
     translation: so seized them
     transliteration: fa-akhadhathumu
   3:
-    arabic: الرَّجۡفَةُ
+    arabic: ٱلرَّجۡفَةُ
     translation: the earthquake
     transliteration: l-rajfatu
   4:
-    arabic: فَاَصۡبَحُوۡا
+    arabic: فَأَصۡبَحُواْ
     translation: and they became
     transliteration: fa-aṣbaḥū
   5:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   6:
@@ -29,7 +28,7 @@ word_by_word:
     translation: their home
     transliteration: dārihim
   7:
-    arabic: "جٰثِمِيۡنَ‏ \uFEFF\uFEFF"
+    arabic: جَٰثِمِينَ
     translation: fallen prone
     transliteration: jāthimīna
 ---

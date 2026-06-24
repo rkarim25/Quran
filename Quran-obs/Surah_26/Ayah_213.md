@@ -1,6 +1,5 @@
 ---
-arabic_ayat: "فَلَا تَدۡعُ مَعَ اللّٰهِ اِلٰهًا اٰخَرَ فَتَكُوۡنَ مِنَ الۡمُعَذَّبِيۡنَ​ۚ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: فَلَا تَدۡعُ مَعَ ٱللَّهِ إِلَٰهًا ءَاخَرَ فَتَكُونَ مِنَ ٱلۡمُعَذَّبِينَ
 sentence_translation: So do not ever call upon any other god besides Allah, or you
   will be one of the punished.
 word_by_word:
@@ -17,19 +16,19 @@ word_by_word:
     translation: with
     transliteration: maʿa
   4:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   5:
-    arabic: اِلٰهًا
+    arabic: إِلَٰهًا ءَ
     translation: god
     transliteration: ilāhan
   6:
-    arabic: اٰخَرَ
+    arabic: اخَرَ
     translation: another
     transliteration: ākhara
   7:
-    arabic: فَتَكُوۡنَ
+    arabic: فَتَكُونَ
     translation: lest you be
     transliteration: fatakūna
   8:
@@ -37,7 +36,7 @@ word_by_word:
     translation: of
     transliteration: mina
   9:
-    arabic: "الۡمُعَذَّبِيۡنَ​ۚ‏ \uFEFF\uFEFF"
+    arabic: ٱلۡمُعَذَّبِينَ
     translation: those punished
     transliteration: l-muʿadhabīna
 ---

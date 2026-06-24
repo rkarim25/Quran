@@ -1,18 +1,18 @@
 ---
-arabic_ayat: وَاَمۡطَرۡنَا عَلَيۡهِمۡ مَّطَرًا​ۚ فَسَآءَ مَطَرُ الۡمُنۡذَرِيۡنَ‏
+arabic_ayat: وَأَمۡطَرۡنَا عَلَيۡهِم مَّطَرٗاۖ فَسَآءَ مَطَرُ ٱلۡمُنذَرِينَ
 sentence_translation: pouring upon them a rain ˹of brimstone˺. How evil was the rain
   of those who had been warned!
 word_by_word:
   1:
-    arabic: وَاَمۡطَرۡنَا
+    arabic: وَأَمۡطَرۡنَا
     translation: And We rained
     transliteration: wa-amṭarnā
   2:
-    arabic: عَلَيۡهِمۡ
+    arabic: عَلَيۡهِم
     translation: upon them
     transliteration: ʿalayhim
   3:
-    arabic: مَّطَرًا​ۚ
+    arabic: مَّطَرٗاۖ
     translation: a rain
     transliteration: maṭaran
   4:
@@ -24,7 +24,7 @@ word_by_word:
     translation: (was) the rain
     transliteration: maṭaru
   6:
-    arabic: الۡمُنۡذَرِيۡنَ‏
+    arabic: ٱلۡمُنذَرِينَ
     translation: (on) those who were warned
     transliteration: l-mundharīna
 ---

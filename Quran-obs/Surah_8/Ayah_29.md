@@ -1,57 +1,57 @@
 ---
-arabic_ayat: يٰۤـاَيُّهَا الَّذِيۡنَ اٰمَنُوۡۤا اِنۡ تَتَّقُوا اللّٰهَ يَجۡعَلْ لَّـكُمۡ
-  فُرۡقَانًا وَّيُكَفِّرۡ عَنۡكُمۡ سَيِّاٰتِكُمۡ وَيَغۡفِرۡ لَـكُمۡ​ؕ وَ اللّٰهُ ذُو
-  الۡفَضۡلِ الۡعَظِيۡمِ‏
+arabic_ayat: يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓاْ إِن تَتَّقُواْ ٱللَّهَ يَجۡعَل لَّكُمۡ
+  فُرۡقَانٗا وَيُكَفِّرۡ عَنكُمۡ سَيِّـَٔاتِكُمۡ وَيَغۡفِرۡ لَكُمۡۗ وَٱللَّهُ ذُو
+  ٱلۡفَضۡلِ ٱلۡعَظِيمِ
 sentence_translation: O believers! If you are mindful of Allah, He will grant you
   a standard ˹to distinguish between right and wrong˺, absolve you of your sins, and
   forgive you. And Allah is the Lord of infinite bounty.
 word_by_word:
   1:
-    arabic: يٰۤـاَيُّهَا
+    arabic: يَٰٓأَيُّهَا
     translation: O you
     transliteration: yāayyuhā
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ ءَ
     translation: who
     transliteration: alladhīna
   3:
-    arabic: اٰمَنُوۡۤا
+    arabic: امَنُوٓاْ
     translation: believe
     transliteration: āmanū
   4:
-    arabic: اِنۡ
+    arabic: إِن
     translation: If
     transliteration: in
   5:
-    arabic: تَتَّقُوا
+    arabic: تَتَّقُواْ
     translation: you fear
     transliteration: tattaqū
   6:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   7:
-    arabic: يَجۡعَلْ
+    arabic: يَجۡعَل
     translation: He will grant
     transliteration: yajʿal
   8:
-    arabic: لَّـكُمۡ
+    arabic: لَّكُمۡ
     translation: you
     transliteration: lakum
   9:
-    arabic: فُرۡقَانًا
+    arabic: فُرۡقَانٗا
     translation: a criterion
     transliteration: fur'qānan
   10:
-    arabic: وَّيُكَفِّرۡ
+    arabic: وَيُكَفِّرۡ
     translation: and will remove
     transliteration: wayukaffir
   11:
-    arabic: عَنۡكُمۡ
+    arabic: عَنكُمۡ
     translation: from you
     transliteration: ʿankum
   12:
-    arabic: سَيِّاٰتِكُمۡ
+    arabic: سَيِّـَٔاتِكُمۡ
     translation: your evil deeds
     transliteration: sayyiātikum
   13:
@@ -59,11 +59,11 @@ word_by_word:
     translation: and forgive
     transliteration: wayaghfir
   14:
-    arabic: لَـكُمۡ​ؕ
+    arabic: لَكُمۡۗ
     translation: you
     transliteration: lakum
   15:
-    arabic: وَ اللّٰهُ
+    arabic: وَٱللَّهُ
     translation: And Allah
     transliteration: wal-lahu
   16:
@@ -71,11 +71,11 @@ word_by_word:
     translation: (is) the Possessor
     transliteration: dhū
   17:
-    arabic: الۡفَضۡلِ
+    arabic: ٱلۡفَضۡلِ
     translation: (of) Bounty
     transliteration: l-faḍli
   18:
-    arabic: الۡعَظِيۡمِ‏
+    arabic: ٱلۡعَظِيمِ
     translation: the Great
     transliteration: l-ʿaẓīmi
 ---

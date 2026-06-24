@@ -1,15 +1,14 @@
 ---
-arabic_ayat: "وَاِذۡ قَالَ رَبُّكَ لِلۡمَلٰٓٮِٕكَةِ اِنِّىۡ جَاعِلٌ فِى الۡاَرۡضِ\
-  \ خَلِيۡفَةً ؕ قَالُوۡٓا اَتَجۡعَلُ فِيۡهَا مَنۡ يُّفۡسِدُ فِيۡهَا وَيَسۡفِكُ الدِّمَآءَۚ\
-  \ وَنَحۡنُ نُسَبِّحُ بِحَمۡدِكَ وَنُقَدِّسُ لَـكَ​ؕ قَالَ اِنِّىۡٓ اَعۡلَمُ مَا\
-  \ لَا تَعۡلَمُوۡنَ‏ \uFEFF\uFEFF"
+arabic_ayat: وَإِذۡ قَالَ رَبُّكَ لِلۡمَلَٰٓئِكَةِ إِنِّي جَاعِلٞ فِي ٱلۡأَرۡضِ خَلِيفَةٗۖ
+  قَالُوٓاْ أَتَجۡعَلُ فِيهَا مَن يُفۡسِدُ فِيهَا وَيَسۡفِكُ ٱلدِّمَآءَ وَنَحۡنُ
+  نُسَبِّحُ بِحَمۡدِكَ وَنُقَدِّسُ لَكَۖ قَالَ إِنِّيٓ أَعۡلَمُ مَا لَا تَعۡلَمُونَ
 sentence_translation: ˹Remember˺ when your Lord said to the angels, “I am going to
   place a successive ˹human˺ authority on earth.” They asked ˹Allah˺, “Will You place
   in it someone who will spread corruption there and shed blood while we glorify Your
   praises and proclaim Your holiness?” Allah responded, “I know what you do not know.”
 word_by_word:
   1:
-    arabic: وَاِذۡ
+    arabic: وَإِذۡ
     translation: And when
     transliteration: wa-idh
   2:
@@ -21,51 +20,51 @@ word_by_word:
     translation: your Lord
     transliteration: rabbuka
   4:
-    arabic: لِلۡمَلٰٓٮِٕكَةِ
+    arabic: لِلۡمَلَٰٓئِكَةِ
     translation: to the angels
     transliteration: lil'malāikati
   5:
-    arabic: اِنِّىۡ
+    arabic: إِنِّي
     translation: Indeed, I (am)
     transliteration: innī
   6:
-    arabic: جَاعِلٌ
+    arabic: جَاعِلٞ
     translation: going to place
     transliteration: jāʿilun
   7:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   8:
-    arabic: الۡاَرۡضِ
+    arabic: ٱلۡأَرۡضِ
     translation: the earth
     transliteration: l-arḍi
   9:
-    arabic: خَلِيۡفَةً ؕ
+    arabic: خَلِيفَةٗۖ
     translation: a vicegerent
     transliteration: khalīfatan
   10:
-    arabic: قَالُوۡٓا
+    arabic: قَالُوٓاْ
     translation: they said
     transliteration: qālū
   11:
-    arabic: اَتَجۡعَلُ
+    arabic: أَتَجۡعَلُ
     translation: Will You place
     transliteration: atajʿalu
   12:
-    arabic: فِيۡهَا
+    arabic: فِيهَا
     translation: in it
     transliteration: fīhā
   13:
-    arabic: مَنۡ
+    arabic: مَن
     translation: (one) who
     transliteration: man
   14:
-    arabic: يُّفۡسِدُ
+    arabic: يُفۡسِدُ
     translation: will spread corruption
     transliteration: yuf'sidu
   15:
-    arabic: فِيۡهَا
+    arabic: فِيهَا
     translation: in it
     transliteration: fīhā
   16:
@@ -73,7 +72,7 @@ word_by_word:
     translation: and will shed
     transliteration: wayasfiku
   17:
-    arabic: الدِّمَآءَۚ
+    arabic: ٱلدِّمَآءَ
     translation: '[the] blood[s]'
     transliteration: l-dimāa
   18:
@@ -93,7 +92,7 @@ word_by_word:
     translation: and we sanctify
     transliteration: wanuqaddisu
   22:
-    arabic: لَـكَ​ؕ
+    arabic: لَكَۖ
     translation: '[to] You'
     transliteration: laka
   23:
@@ -101,11 +100,11 @@ word_by_word:
     translation: He said
     transliteration: qāla
   24:
-    arabic: اِنِّىۡٓ
+    arabic: إِنِّيٓ
     translation: Indeed, I
     transliteration: innī
   25:
-    arabic: اَعۡلَمُ
+    arabic: أَعۡلَمُ
     translation: '[I] know'
     transliteration: aʿlamu
   26:
@@ -117,7 +116,7 @@ word_by_word:
     translation: not
     transliteration: lā
   28:
-    arabic: "تَعۡلَمُوۡنَ‏ \uFEFF\uFEFF"
+    arabic: تَعۡلَمُونَ
     translation: you know
     transliteration: taʿlamūna
 ---

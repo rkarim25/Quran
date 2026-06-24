@@ -1,13 +1,13 @@
 ---
-arabic_ayat: يٰوَيۡلَتٰى لَيۡتَنِىۡ لَمۡ اَتَّخِذۡ فُلَانًا خَلِيۡلًا‏
+arabic_ayat: يَٰوَيۡلَتَىٰ لَيۡتَنِي لَمۡ أَتَّخِذۡ فُلَانًا خَلِيلٗا
 sentence_translation: Woe to me! I wish I had never taken so-and-so as a close friend.
 word_by_word:
   1:
-    arabic: يٰوَيۡلَتٰى
+    arabic: يَٰوَيۡلَتَىٰ
     translation: O woe to me
     transliteration: yāwaylatā
   2:
-    arabic: لَيۡتَنِىۡ
+    arabic: لَيۡتَنِي
     translation: I wish
     transliteration: laytanī
   3:
@@ -15,7 +15,7 @@ word_by_word:
     translation: not
     transliteration: lam
   4:
-    arabic: اَتَّخِذۡ
+    arabic: أَتَّخِذۡ
     translation: I had taken
     transliteration: attakhidh
   5:
@@ -23,7 +23,7 @@ word_by_word:
     translation: that one
     transliteration: fulānan
   6:
-    arabic: خَلِيۡلًا‏
+    arabic: خَلِيلٗا
     translation: (as) a friend
     transliteration: khalīlan
 ---

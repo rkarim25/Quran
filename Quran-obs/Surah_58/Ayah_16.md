@@ -1,35 +1,35 @@
 ---
-arabic_ayat: اِتَّخَذُوۡۤا اَيۡمَانَهُمۡ جُنَّةً فَصَدُّوۡا عَنۡ سَبِيۡلِ اللّٰهِ
-  فَلَهُمۡ عَذَابٌ مُّهِيۡنٌ‏
+arabic_ayat: ٱتَّخَذُوٓاْ أَيۡمَٰنَهُمۡ جُنَّةٗ فَصَدُّواْ عَن سَبِيلِ ٱللَّهِ فَلَهُمۡ
+  عَذَابٞ مُّهِينٞ
 sentence_translation: They have made their ˹false˺ oaths as a shield, hindering ˹others˺
   from the cause of Allah. So they will suffer a humiliating punishment.
 word_by_word:
   1:
-    arabic: اِتَّخَذُوۡۤا
+    arabic: ٱتَّخَذُوٓاْ
     translation: They have taken
     transliteration: ittakhadhū
   2:
-    arabic: اَيۡمَانَهُمۡ
+    arabic: أَيۡمَٰنَهُمۡ
     translation: their oaths
     transliteration: aymānahum
   3:
-    arabic: جُنَّةً
+    arabic: جُنَّةٗ
     translation: (as) a cover
     transliteration: junnatan
   4:
-    arabic: فَصَدُّوۡا
+    arabic: فَصَدُّواْ
     translation: so they hinder
     transliteration: faṣaddū
   5:
-    arabic: عَنۡ
+    arabic: عَن
     translation: from
     transliteration: ʿan
   6:
-    arabic: سَبِيۡلِ
+    arabic: سَبِيلِ
     translation: (the) way of Allah
     transliteration: sabīli
   7:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (the) way of Allah
     transliteration: l-lahi
   8:
@@ -37,11 +37,11 @@ word_by_word:
     translation: so for them
     transliteration: falahum
   9:
-    arabic: عَذَابٌ
+    arabic: عَذَابٞ
     translation: (is) a punishment
     transliteration: ʿadhābun
   10:
-    arabic: مُّهِيۡنٌ‏
+    arabic: مُّهِينٞ
     translation: humiliating
     transliteration: muhīnun
 ---

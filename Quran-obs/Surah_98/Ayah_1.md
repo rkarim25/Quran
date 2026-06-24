@@ -1,6 +1,6 @@
 ---
-arabic_ayat: لَمۡ يَكُنِ الَّذِيۡنَ كَفَرُوۡا مِنۡ اَهۡلِ الۡكِتٰبِ وَالۡمُشۡرِكِيۡنَ
-  مُنۡفَكِّيۡنَ حَتّٰى تَاۡتِيَهُمُ الۡبَيِّنَةُ ۙ‏
+arabic_ayat: لَمۡ يَكُنِ ٱلَّذِينَ كَفَرُواْ مِنۡ أَهۡلِ ٱلۡكِتَٰبِ وَٱلۡمُشۡرِكِينَ
+  مُنفَكِّينَ حَتَّىٰ تَأۡتِيَهُمُ ٱلۡبَيِّنَةُ
 sentence_translation: 'The disbelievers from the People of the Book and the polytheists
   were not going to desist ˹from disbelief˺ until the clear proof came to them:'
 word_by_word:
@@ -13,11 +13,11 @@ word_by_word:
     translation: were
     transliteration: yakuni
   3:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   4:
-    arabic: كَفَرُوۡا
+    arabic: كَفَرُواْ
     translation: disbelieved
     transliteration: kafarū
   5:
@@ -25,31 +25,31 @@ word_by_word:
     translation: from
     transliteration: min
   6:
-    arabic: اَهۡلِ
+    arabic: أَهۡلِ
     translation: (the) People
     transliteration: ahli
   7:
-    arabic: الۡكِتٰبِ
+    arabic: ٱلۡكِتَٰبِ
     translation: of the Book
     transliteration: l-kitābi
   8:
-    arabic: وَالۡمُشۡرِكِيۡنَ
+    arabic: وَٱلۡمُشۡرِكِينَ
     translation: and the polytheists
     transliteration: wal-mush'rikīna
   9:
-    arabic: مُنۡفَكِّيۡنَ
+    arabic: مُنفَكِّينَ
     translation: to be abandoned
     transliteration: munfakkīna
   10:
-    arabic: حَتّٰى
+    arabic: حَتَّىٰ
     translation: until
     transliteration: ḥattā
   11:
-    arabic: تَاۡتِيَهُمُ
+    arabic: تَأۡتِيَهُمُ
     translation: (there) comes to them
     transliteration: tatiyahumu
   12:
-    arabic: الۡبَيِّنَةُ ۙ‏
+    arabic: ٱلۡبَيِّنَةُ
     translation: the clear evidence
     transliteration: l-bayinatu
 ---

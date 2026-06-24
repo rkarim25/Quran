@@ -1,34 +1,34 @@
 ---
-arabic_ayat: وَّجَعَلَ الۡقَمَرَ فِيۡهِنَّ نُوۡرًا ۙ وَّجَعَلَ الشَّمۡسَ سِرَاجًا‏
+arabic_ayat: وَجَعَلَ ٱلۡقَمَرَ فِيهِنَّ نُورٗا وَجَعَلَ ٱلشَّمۡسَ سِرَاجٗا
 sentence_translation: placing the moon within them as a ˹reflected˺ light, and the
   sun as a ˹radiant˺ lamp?
 word_by_word:
   1:
-    arabic: وَّجَعَلَ
+    arabic: وَجَعَلَ
     translation: And made
     transliteration: wajaʿala
   2:
-    arabic: الۡقَمَرَ
+    arabic: ٱلۡقَمَرَ
     translation: the moon
     transliteration: l-qamara
   3:
-    arabic: فِيۡهِنَّ
+    arabic: فِيهِنَّ
     translation: therein
     transliteration: fīhinna
   4:
-    arabic: نُوۡرًا ۙ
+    arabic: نُورٗا
     translation: a light
     transliteration: nūran
   5:
-    arabic: وَّجَعَلَ
+    arabic: وَجَعَلَ
     translation: and made
     transliteration: wajaʿala
   6:
-    arabic: الشَّمۡسَ
+    arabic: ٱلشَّمۡسَ
     translation: the sun
     transliteration: l-shamsa
   7:
-    arabic: سِرَاجًا‏
+    arabic: سِرَاجٗا
     translation: a lamp
     transliteration: sirājan
 ---

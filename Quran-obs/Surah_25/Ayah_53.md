@@ -1,16 +1,16 @@
 ---
-arabic_ayat: وَهُوَ الَّذِىۡ مَرَجَ الۡبَحۡرَيۡنِ هٰذَا عَذۡبٌ فُرَاتٌ وَّهٰذَا مِلۡحٌ​
-  اُجَاجٌ ۚ وَجَعَلَ بَيۡنَهُمَا بَرۡزَخًا وَّحِجۡرًا مَّحۡجُوۡرًا‏
+arabic_ayat: ۞ وَهُوَ ٱلَّذِي مَرَجَ ٱلۡبَحۡرَيۡنِ هَٰذَا عَذۡبٞ فُرَاتٞ وَهَٰذَا
+  مِلۡحٌ أُجَاجٞ وَجَعَلَ بَيۡنَهُمَا بَرۡزَخٗا وَحِجۡرٗا مَّحۡجُورٗا
 sentence_translation: 'And He is the One Who merges the two bodies of water: one fresh
   and palatable and the other salty and bitter, placing between them a barrier they
   cannot cross. '
 word_by_word:
   1:
-    arabic: ۞ وَهُوَ
+    arabic: ۞ وَهُوَ
     translation: And He
     transliteration: wahuwa
   2:
-    arabic: الَّذِىۡ
+    arabic: ٱلَّذِي
     translation: (is) the One Who
     transliteration: alladhī
   3:
@@ -18,31 +18,31 @@ word_by_word:
     translation: (has) released
     transliteration: maraja
   4:
-    arabic: الۡبَحۡرَيۡنِ
+    arabic: ٱلۡبَحۡرَيۡنِ
     translation: the two seas
     transliteration: l-baḥrayni
   5:
-    arabic: هٰذَا
+    arabic: هَٰذَا
     translation: '[this] (one)'
     transliteration: hādhā
   6:
-    arabic: عَذۡبٌ
+    arabic: عَذۡبٞ
     translation: palatable
     transliteration: ʿadhbun
   7:
-    arabic: فُرَاتٌ
+    arabic: فُرَاتٞ
     translation: and sweet
     transliteration: furātun
   8:
-    arabic: وَّهٰذَا
+    arabic: وَهَٰذَا
     translation: and [this] (one)
     transliteration: wahādhā
   9:
-    arabic: مِلۡحٌ​
+    arabic: مِلۡحٌ
     translation: salty
     transliteration: mil'ḥun
   10:
-    arabic: اُجَاجٌ ۚ
+    arabic: أُجَاجٞ
     translation: (and) bitter
     transliteration: ujājun
   11:
@@ -54,15 +54,15 @@ word_by_word:
     translation: between them
     transliteration: baynahumā
   13:
-    arabic: بَرۡزَخًا
+    arabic: بَرۡزَخٗا
     translation: a barrier
     transliteration: barzakhan
   14:
-    arabic: وَّحِجۡرًا
+    arabic: وَحِجۡرٗا
     translation: and a partition
     transliteration: waḥij'ran
   15:
-    arabic: مَّحۡجُوۡرًا‏
+    arabic: مَّحۡجُورٗا
     translation: forbidden
     transliteration: maḥjūran
 ---

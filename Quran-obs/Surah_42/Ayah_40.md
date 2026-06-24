@@ -1,24 +1,24 @@
 ---
-arabic_ayat: وَجَزٰٓؤُا سَيِّئَةٍ سَيِّئَةٌ مِّثۡلُهَا​ۚ فَمَنۡ عَفَا وَاَصۡلَحَ فَاَجۡرُهٗ
-  عَلَى اللّٰهِ​ؕ اِنَّهٗ لَا يُحِبُّ الظّٰلِمِيۡنَ‏
+arabic_ayat: وَجَزَٰٓؤُاْ سَيِّئَةٖ سَيِّئَةٞ مِّثۡلُهَاۖ فَمَنۡ عَفَا وَأَصۡلَحَ
+  فَأَجۡرُهُۥ عَلَى ٱللَّهِۚ إِنَّهُۥ لَا يُحِبُّ ٱلظَّٰلِمِينَ
 sentence_translation: The reward of an evil deed is its equivalent. But whoever pardons
   and seeks reconciliation, then their reward is with Allah. He certainly does not
   like the wrongdoers.
 word_by_word:
   1:
-    arabic: وَجَزٰٓؤُا
+    arabic: وَجَزَٰٓؤُاْ
     translation: (The) recompense
     transliteration: wajazāu
   2:
-    arabic: سَيِّئَةٍ
+    arabic: سَيِّئَةٖ
     translation: (of) an evil
     transliteration: sayyi-atin
   3:
-    arabic: سَيِّئَةٌ
+    arabic: سَيِّئَةٞ
     translation: (is) an evil
     transliteration: sayyi-atun
   4:
-    arabic: مِّثۡلُهَا​ۚ
+    arabic: مِّثۡلُهَاۖ
     translation: like it
     transliteration: mith'luhā
   5:
@@ -30,11 +30,11 @@ word_by_word:
     translation: pardons
     transliteration: ʿafā
   7:
-    arabic: وَاَصۡلَحَ
+    arabic: وَأَصۡلَحَ
     translation: and makes reconciliation
     transliteration: wa-aṣlaḥa
   8:
-    arabic: فَاَجۡرُهٗ
+    arabic: فَأَجۡرُهُۥ
     translation: then his reward
     transliteration: fa-ajruhu
   9:
@@ -42,11 +42,11 @@ word_by_word:
     translation: (is) on
     transliteration: ʿalā
   10:
-    arabic: اللّٰهِ​ؕ
+    arabic: ٱللَّهِۚ
     translation: Allah
     transliteration: l-lahi
   11:
-    arabic: اِنَّهٗ
+    arabic: إِنَّهُۥ
     translation: Indeed, He
     transliteration: innahu
   12:
@@ -58,7 +58,7 @@ word_by_word:
     translation: like
     transliteration: yuḥibbu
   14:
-    arabic: الظّٰلِمِيۡنَ‏
+    arabic: ٱلظَّٰلِمِينَ
     translation: the wrongdoers
     transliteration: l-ẓālimīna
 ---

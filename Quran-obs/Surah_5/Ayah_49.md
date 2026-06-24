@@ -1,8 +1,8 @@
 ---
-arabic_ayat: وَاَنِ احۡكُمۡ بَيۡنَهُمۡ بِمَاۤ اَنۡزَلَ اللّٰهُ وَلَا تَتَّبِعۡ اَهۡوَآءَهُمۡ
-  وَاحۡذَرۡهُمۡ اَنۡ يَّفۡتِنُوۡكَ عَنۡۢ بَعۡضِ مَاۤ اَنۡزَلَ اللّٰهُ اِلَيۡكَ​ؕ فَاِنۡ
-  تَوَلَّوۡا فَاعۡلَمۡ اَنَّمَا يُرِيۡدُ اللّٰهُ اَنۡ يُّصِيۡبَهُمۡ بِبَـعۡضِ ذُنُوۡبِهِمۡ​ؕ
-  وَاِنَّ كَثِيۡرًا مِّنَ النَّاسِ لَفٰسِقُوۡنَ‏
+arabic_ayat: وَأَنِ ٱحۡكُم بَيۡنَهُم بِمَآ أَنزَلَ ٱللَّهُ وَلَا تَتَّبِعۡ أَهۡوَآءَهُمۡ
+  وَٱحۡذَرۡهُمۡ أَن يَفۡتِنُوكَ عَنۢ بَعۡضِ مَآ أَنزَلَ ٱللَّهُ إِلَيۡكَۖ فَإِن تَوَلَّوۡاْ
+  فَٱعۡلَمۡ أَنَّمَا يُرِيدُ ٱللَّهُ أَن يُصِيبَهُم بِبَعۡضِ ذُنُوبِهِمۡۗ وَإِنَّ
+  كَثِيرٗا مِّنَ ٱلنَّاسِ لَفَٰسِقُونَ
 sentence_translation: And judge between them ˹O Prophet˺ by what Allah has revealed,
   and do not follow their desires. And beware, so they do not lure you away from some
   of what Allah has revealed to you. If they turn away ˹from Allah’s judgment˺, then
@@ -10,27 +10,27 @@ sentence_translation: And judge between them ˹O Prophet˺ by what Allah has rev
   people are indeed rebellious.
 word_by_word:
   1:
-    arabic: وَاَنِ
+    arabic: وَأَنِ
     translation: And that
     transliteration: wa-ani
   2:
-    arabic: احۡكُمۡ
+    arabic: ٱحۡكُم
     translation: you judge
     transliteration: uḥ'kum
   3:
-    arabic: بَيۡنَهُمۡ
+    arabic: بَيۡنَهُم
     translation: between them
     transliteration: baynahum
   4:
-    arabic: بِمَاۤ
+    arabic: بِمَآ
     translation: by what
     transliteration: bimā
   5:
-    arabic: اَنۡزَلَ
+    arabic: أَنزَلَ
     translation: (has) revealed
     transliteration: anzala
   6:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   7:
@@ -42,23 +42,23 @@ word_by_word:
     translation: follow
     transliteration: tattabiʿ
   9:
-    arabic: اَهۡوَآءَهُمۡ
+    arabic: أَهۡوَآءَهُمۡ
     translation: their vain desires
     transliteration: ahwāahum
   10:
-    arabic: وَاحۡذَرۡهُمۡ
+    arabic: وَٱحۡذَرۡهُمۡ
     translation: and beware of them
     transliteration: wa-iḥ'dharhum
   11:
-    arabic: اَنۡ
+    arabic: أَن
     translation: lest
     transliteration: an
   12:
-    arabic: يَّفۡتِنُوۡكَ
+    arabic: يَفۡتِنُوكَ
     translation: they tempt you away
     transliteration: yaftinūka
   13:
-    arabic: عَنۡۢ
+    arabic: عَنۢ
     translation: from
     transliteration: ʿan
   14:
@@ -66,67 +66,67 @@ word_by_word:
     translation: some
     transliteration: baʿḍi
   15:
-    arabic: مَاۤ
+    arabic: مَآ
     translation: (of) what
     transliteration: mā
   16:
-    arabic: اَنۡزَلَ
+    arabic: أَنزَلَ
     translation: has revealed
     transliteration: anzala
   17:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   18:
-    arabic: اِلَيۡكَ​ؕ
+    arabic: إِلَيۡكَۖ
     translation: to you
     transliteration: ilayka
   19:
-    arabic: فَاِنۡ
+    arabic: فَإِن
     translation: And if
     transliteration: fa-in
   20:
-    arabic: تَوَلَّوۡا
+    arabic: تَوَلَّوۡاْ
     translation: they turn away
     transliteration: tawallaw
   21:
-    arabic: فَاعۡلَمۡ
+    arabic: فَٱعۡلَمۡ
     translation: then know that
     transliteration: fa-iʿ'lam
   22:
-    arabic: اَنَّمَا
+    arabic: أَنَّمَا
     translation: only
     transliteration: annamā
   23:
-    arabic: يُرِيۡدُ
+    arabic: يُرِيدُ
     translation: intends
     transliteration: yurīdu
   24:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   25:
-    arabic: اَنۡ
+    arabic: أَن
     translation: to
     transliteration: an
   26:
-    arabic: يُّصِيۡبَهُمۡ
+    arabic: يُصِيبَهُم
     translation: afflict them
     transliteration: yuṣībahum
   27:
-    arabic: بِبَـعۡضِ
+    arabic: بِبَعۡضِ
     translation: for some
     transliteration: bibaʿḍi
   28:
-    arabic: ذُنُوۡبِهِمۡ​ؕ
+    arabic: ذُنُوبِهِمۡۗ
     translation: (of) their sins
     transliteration: dhunūbihim
   29:
-    arabic: وَاِنَّ
+    arabic: وَإِنَّ
     translation: And indeed
     transliteration: wa-inna
   30:
-    arabic: كَثِيۡرًا
+    arabic: كَثِيرٗا
     translation: many
     transliteration: kathīran
   31:
@@ -134,11 +134,11 @@ word_by_word:
     translation: of
     transliteration: mina
   32:
-    arabic: النَّاسِ
+    arabic: ٱلنَّاسِ
     translation: the people
     transliteration: l-nāsi
   33:
-    arabic: لَفٰسِقُوۡنَ‏
+    arabic: لَفَٰسِقُونَ
     translation: (are) defiantly disobedient
     transliteration: lafāsiqūna
 ---

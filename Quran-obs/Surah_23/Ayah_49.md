@@ -1,22 +1,22 @@
 ---
-arabic_ayat: وَلَـقَدۡ اٰتَيۡنَا مُوۡسَى الۡـكِتٰبَ لَعَلَّهُمۡ يَهۡتَدُوۡنَ‏
+arabic_ayat: وَلَقَدۡ ءَاتَيۡنَا مُوسَى ٱلۡكِتَٰبَ لَعَلَّهُمۡ يَهۡتَدُونَ
 sentence_translation: And We certainly gave Moses the Scripture, so perhaps his people
   would be ˹rightly˺ guided.
 word_by_word:
   1:
-    arabic: وَلَـقَدۡ
+    arabic: وَلَقَدۡ ءَ
     translation: And verily
     transliteration: walaqad
   2:
-    arabic: اٰتَيۡنَا
+    arabic: اتَيۡنَا
     translation: We gave
     transliteration: ātaynā
   3:
-    arabic: مُوۡسَى
+    arabic: مُوسَى
     translation: Musa
     transliteration: mūsā
   4:
-    arabic: الۡـكِتٰبَ
+    arabic: ٱلۡكِتَٰبَ
     translation: the Scripture
     transliteration: l-kitāba
   5:
@@ -24,7 +24,7 @@ word_by_word:
     translation: so that they may
     transliteration: laʿallahum
   6:
-    arabic: يَهۡتَدُوۡنَ‏
+    arabic: يَهۡتَدُونَ
     translation: be guided
     transliteration: yahtadūna
 ---

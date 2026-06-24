@@ -1,9 +1,9 @@
 ---
-arabic_ayat: اِنَّهُمَا مِنۡ عِبَادِنَا الۡمُؤۡمِنِيۡنَ‏
+arabic_ayat: إِنَّهُمَا مِنۡ عِبَادِنَا ٱلۡمُؤۡمِنِينَ
 sentence_translation: They were truly ˹two˺ of Our faithful servants.
 word_by_word:
   1:
-    arabic: اِنَّهُمَا
+    arabic: إِنَّهُمَا
     translation: Indeed, both of them
     transliteration: innahumā
   2:
@@ -15,7 +15,7 @@ word_by_word:
     translation: Our slaves
     transliteration: ʿibādinā
   4:
-    arabic: الۡمُؤۡمِنِيۡنَ‏
+    arabic: ٱلۡمُؤۡمِنِينَ
     translation: believing
     transliteration: l-mu'minīna
 ---

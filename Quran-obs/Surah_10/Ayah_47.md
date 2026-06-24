@@ -1,6 +1,6 @@
 ---
-arabic_ayat: وَلِكُلِّ اُمَّةٍ رَّسُوۡلٌ​ ۚ فَاِذَا جَآءَ رَسُوۡلُهُمۡ قُضِىَ بَيۡنَهُمۡ
-  بِالۡقِسۡطِ وَهُمۡ لَا يُظۡلَمُوۡنَ‏
+arabic_ayat: وَلِكُلِّ أُمَّةٖ رَّسُولٞۖ فَإِذَا جَآءَ رَسُولُهُمۡ قُضِيَ بَيۡنَهُم
+  بِٱلۡقِسۡطِ وَهُمۡ لَا يُظۡلَمُونَ
 sentence_translation: And for every community there is a messenger. After their messenger
   has come, judgment is passed on them in all fairness, and they are not wronged.
 word_by_word:
@@ -9,15 +9,15 @@ word_by_word:
     translation: And for every
     transliteration: walikulli
   2:
-    arabic: اُمَّةٍ
+    arabic: أُمَّةٖ
     translation: nation
     transliteration: ummatin
   3:
-    arabic: رَّسُوۡلٌ​ ۚ
+    arabic: رَّسُولٞۖ
     translation: (is) a Messenger
     transliteration: rasūlun
   4:
-    arabic: فَاِذَا
+    arabic: فَإِذَا
     translation: So when
     transliteration: fa-idhā
   5:
@@ -25,19 +25,19 @@ word_by_word:
     translation: comes
     transliteration: jāa
   6:
-    arabic: رَسُوۡلُهُمۡ
+    arabic: رَسُولُهُمۡ
     translation: their Messenger
     transliteration: rasūluhum
   7:
-    arabic: قُضِىَ
+    arabic: قُضِيَ
     translation: it will be judged
     transliteration: quḍiya
   8:
-    arabic: بَيۡنَهُمۡ
+    arabic: بَيۡنَهُم
     translation: between them
     transliteration: baynahum
   9:
-    arabic: بِالۡقِسۡطِ
+    arabic: بِٱلۡقِسۡطِ
     translation: in justice
     transliteration: bil-qis'ṭi
   10:
@@ -49,7 +49,7 @@ word_by_word:
     translation: (will) not
     transliteration: lā
   12:
-    arabic: يُظۡلَمُوۡنَ‏
+    arabic: يُظۡلَمُونَ
     translation: be wronged
     transliteration: yuẓ'lamūna
 ---

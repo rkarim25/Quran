@@ -1,14 +1,14 @@
 ---
-arabic_ayat: مَنۡ اَعۡرَضَ عَنۡهُ فَاِنَّهٗ يَحۡمِلُ يَوۡمَ الۡقِيٰمَةِ وِزۡرًا ۙ‏
+arabic_ayat: مَّنۡ أَعۡرَضَ عَنۡهُ فَإِنَّهُۥ يَحۡمِلُ يَوۡمَ ٱلۡقِيَٰمَةِ وِزۡرًا
 sentence_translation: Whoever turns away from it will surely bear the burden ˹of sin˺
   on the Day of Judgment,
 word_by_word:
   1:
-    arabic: مَنۡ
+    arabic: مَّنۡ
     translation: Whoever
     transliteration: man
   2:
-    arabic: اَعۡرَضَ
+    arabic: أَعۡرَضَ
     translation: turns away
     transliteration: aʿraḍa
   3:
@@ -16,7 +16,7 @@ word_by_word:
     translation: from it
     transliteration: ʿanhu
   4:
-    arabic: فَاِنَّهٗ
+    arabic: فَإِنَّهُۥ
     translation: then indeed, he
     transliteration: fa-innahu
   5:
@@ -28,11 +28,11 @@ word_by_word:
     translation: (on the) Day
     transliteration: yawma
   7:
-    arabic: الۡقِيٰمَةِ
+    arabic: ٱلۡقِيَٰمَةِ
     translation: (of) Resurrection
     transliteration: l-qiyāmati
   8:
-    arabic: وِزۡرًا ۙ‏
+    arabic: وِزۡرًا
     translation: a burden
     transliteration: wiz'ran
 ---

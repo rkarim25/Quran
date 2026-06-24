@@ -1,10 +1,10 @@
 ---
-arabic_ayat: اَللّٰهُ نُوۡرُ السَّمٰوٰتِ وَالۡاَرۡضِ ​ؕ مَثَلُ نُوۡرِهٖ كَمِشۡكٰوةٍ
-  فِيۡهَا مِصۡبَاحٌ​ ؕ الۡمِصۡبَاحُ فِىۡ زُجَاجَةٍ​ ؕ اَلزُّجَاجَةُ كَاَنَّهَا كَوۡكَبٌ
-  دُرِّىٌّ يُّوۡقَدُ مِنۡ شَجَرَةٍ مُّبٰـرَكَةٍ زَيۡتُوۡنَةٍ لَّا شَرۡقِيَّةٍ وَّلَا
-  غَرۡبِيَّةٍ ۙ يَّـكَادُ زَيۡتُهَا يُضِىۡٓءُ وَلَوۡ لَمۡ تَمۡسَسۡهُ نَارٌ​ ؕ نُوۡرٌ
-  عَلٰى نُوۡرٍ​ ؕ يَهۡدِى اللّٰهُ لِنُوۡرِهٖ مَنۡ يَّشَآءُ​ ؕ وَ يَضۡرِبُ اللّٰهُ
-  الۡاَمۡثَالَ لِلنَّاسِ​ؕ وَاللّٰهُ بِكُلِّ شَىۡءٍ عَلِيۡمٌ ۙ‏
+arabic_ayat: ۞ ٱللَّهُ نُورُ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِۚ مَثَلُ نُورِهِۦ كَمِشۡكَوٰةٖ
+  فِيهَا مِصۡبَاحٌۖ ٱلۡمِصۡبَاحُ فِي زُجَاجَةٍۖ ٱلزُّجَاجَةُ كَأَنَّهَا كَوۡكَبٞ دُرِّيّٞ
+  يُوقَدُ مِن شَجَرَةٖ مُّبَٰرَكَةٖ زَيۡتُونَةٖ لَّا شَرۡقِيَّةٖ وَلَا غَرۡبِيَّةٖ
+  يَكَادُ زَيۡتُهَا يُضِيٓءُ وَلَوۡ لَمۡ تَمۡسَسۡهُ نَارٞۚ نُّورٌ عَلَىٰ نُورٖۚ يَهۡدِي
+  ٱللَّهُ لِنُورِهِۦ مَن يَشَآءُۚ وَيَضۡرِبُ ٱللَّهُ ٱلۡأَمۡثَٰلَ لِلنَّاسِۗ وَٱللَّهُ
+  بِكُلِّ شَيۡءٍ عَلِيمٞ
 sentence_translation: Allah is the Light of the heavens and the earth. His light is
   like a niche in which there is a lamp, the lamp is in a crystal, the crystal is
   like a shining star, lit from ˹the oil of˺ a blessed olive tree, ˹located˺ neither
@@ -13,19 +13,19 @@ sentence_translation: Allah is the Light of the heavens and the earth. His light
   sets forth parables for humanity. For Allah has ˹perfect˺ knowledge of all things.
 word_by_word:
   1:
-    arabic: ۞ اَللّٰهُ
+    arabic: ۞ ٱللَّهُ
     translation: Allah
     transliteration: al-lahu
   2:
-    arabic: نُوۡرُ
+    arabic: نُورُ
     translation: (is the) Light
     transliteration: nūru
   3:
-    arabic: السَّمٰوٰتِ
+    arabic: ٱلسَّمَٰوَٰتِ
     translation: (of) the heavens
     transliteration: l-samāwāti
   4:
-    arabic: وَالۡاَرۡضِ ​ؕ
+    arabic: وَٱلۡأَرۡضِۚ
     translation: and the earth
     transliteration: wal-arḍi
   5:
@@ -33,67 +33,67 @@ word_by_word:
     translation: (The) example
     transliteration: mathalu
   6:
-    arabic: نُوۡرِهٖ
+    arabic: نُورِهِۦ
     translation: (of) His Light
     transliteration: nūrihi
   7:
-    arabic: كَمِشۡكٰوةٍ
+    arabic: كَمِشۡكَوٰةٖ
     translation: (is) like a niche
     transliteration: kamish'katin
   8:
-    arabic: فِيۡهَا
+    arabic: فِيهَا
     translation: in it
     transliteration: fīhā
   9:
-    arabic: مِصۡبَاحٌ​ ؕ
+    arabic: مِصۡبَاحٌۖ
     translation: (is) a lamp
     transliteration: miṣ'bāḥun
   10:
-    arabic: الۡمِصۡبَاحُ
+    arabic: ٱلۡمِصۡبَاحُ
     translation: the lamp
     transliteration: l-miṣ'bāḥu
   11:
-    arabic: فِىۡ
+    arabic: فِي
     translation: (is) in
     transliteration: fī
   12:
-    arabic: زُجَاجَةٍ​ ؕ
+    arabic: زُجَاجَةٍۖ
     translation: a glass
     transliteration: zujājatin
   13:
-    arabic: اَلزُّجَاجَةُ
+    arabic: ٱلزُّجَاجَةُ
     translation: the glass
     transliteration: l-zujājatu
   14:
-    arabic: كَاَنَّهَا
+    arabic: كَأَنَّهَا
     translation: as if it were
     transliteration: ka-annahā
   15:
-    arabic: كَوۡكَبٌ
+    arabic: كَوۡكَبٞ
     translation: a star
     transliteration: kawkabun
   16:
-    arabic: دُرِّىٌّ
+    arabic: دُرِّيّٞ
     translation: brilliant
     transliteration: durriyyun
   17:
-    arabic: يُّوۡقَدُ
+    arabic: يُوقَدُ
     translation: (which) is lit
     transliteration: yūqadu
   18:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   19:
-    arabic: شَجَرَةٍ
+    arabic: شَجَرَةٖ
     translation: a tree
     transliteration: shajaratin
   20:
-    arabic: مُّبٰـرَكَةٍ
+    arabic: مُّبَٰرَكَةٖ
     translation: 'blessed '
     transliteration: mubārakatin
   21:
-    arabic: زَيۡتُوۡنَةٍ
+    arabic: زَيۡتُونَةٖ
     translation: an olive
     transliteration: zaytūnatin
   22:
@@ -101,19 +101,19 @@ word_by_word:
     translation: not
     transliteration: lā
   23:
-    arabic: شَرۡقِيَّةٍ
+    arabic: شَرۡقِيَّةٖ
     translation: (of the) east
     transliteration: sharqiyyatin
   24:
-    arabic: وَّلَا
+    arabic: وَلَا
     translation: and not
     transliteration: walā
   25:
-    arabic: غَرۡبِيَّةٍ ۙ
+    arabic: غَرۡبِيَّةٖ
     translation: (of the) west
     transliteration: gharbiyyatin
   26:
-    arabic: يَّـكَادُ
+    arabic: يَكَادُ
     translation: would almost
     transliteration: yakādu
   27:
@@ -121,7 +121,7 @@ word_by_word:
     translation: its oil
     transliteration: zaytuhā
   28:
-    arabic: يُضِىۡٓءُ
+    arabic: يُضِيٓءُ
     translation: glow
     transliteration: yuḍīu
   29:
@@ -137,59 +137,59 @@ word_by_word:
     translation: touched it
     transliteration: tamsashu
   32:
-    arabic: نَارٌ​ ؕ
+    arabic: نَارٞۚ
     translation: fire
     transliteration: nārun
   33:
-    arabic: نُوۡرٌ
+    arabic: نُّورٌ
     translation: Light
     transliteration: nūrun
   34:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: upon
     transliteration: ʿalā
   35:
-    arabic: نُوۡرٍ​ ؕ
+    arabic: نُورٖۚ
     translation: Light
     transliteration: nūrin
   36:
-    arabic: يَهۡدِى
+    arabic: يَهۡدِي
     translation: Allah guides
     transliteration: yahdī
   37:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah guides
     transliteration: l-lahu
   38:
-    arabic: لِنُوۡرِهٖ
+    arabic: لِنُورِهِۦ
     translation: to His Light
     transliteration: linūrihi
   39:
-    arabic: مَنۡ
+    arabic: مَن
     translation: whom
     transliteration: man
   40:
-    arabic: يَّشَآءُ​ ؕ
+    arabic: يَشَآءُۚ
     translation: He wills
     transliteration: yashāu
   41:
-    arabic: وَ يَضۡرِبُ
+    arabic: وَيَضۡرِبُ
     translation: And Allah sets forth
     transliteration: wayaḍribu
   42:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: And Allah sets forth
     transliteration: l-lahu
   43:
-    arabic: الۡاَمۡثَالَ
+    arabic: ٱلۡأَمۡثَٰلَ
     translation: the examples
     transliteration: l-amthāla
   44:
-    arabic: لِلنَّاسِ​ؕ
+    arabic: لِلنَّاسِۗ
     translation: for the mankind
     transliteration: lilnnāsi
   45:
-    arabic: وَاللّٰهُ
+    arabic: وَٱللَّهُ
     translation: And Allah
     transliteration: wal-lahu
   46:
@@ -197,11 +197,11 @@ word_by_word:
     translation: of every
     transliteration: bikulli
   47:
-    arabic: شَىۡءٍ
+    arabic: شَيۡءٍ
     translation: thing
     transliteration: shayin
   48:
-    arabic: عَلِيۡمٌ ۙ‏
+    arabic: عَلِيمٞ
     translation: (is) All-Knower
     transliteration: ʿalīmun
 ---

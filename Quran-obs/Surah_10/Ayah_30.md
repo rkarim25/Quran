@@ -1,6 +1,6 @@
 ---
-arabic_ayat: هُنَالِكَ تَبۡلُوۡا كُلُّ نَفۡسٍ مَّاۤ اَسۡلَفَتۡ​ وَرُدُّوۡۤا اِلَى
-  اللّٰهِ مَوۡلٰٮهُمُ الۡحَـقِّ​ وَضَلَّ عَنۡهُمۡ مَّا كَانُوۡا يَفۡتَرُوۡنَ‏
+arabic_ayat: هُنَالِكَ تَبۡلُواْ كُلُّ نَفۡسٖ مَّآ أَسۡلَفَتۡۚ وَرُدُّوٓاْ إِلَى
+  ٱللَّهِ مَوۡلَىٰهُمُ ٱلۡحَقِّۖ وَضَلَّ عَنۡهُم مَّا كَانُواْ يَفۡتَرُونَ
 sentence_translation: Then and there every soul will face ˹the consequences of˺ what
   it had done. They all will be returned to Allah—their True Master. And whatever
   ˹gods˺ they fabricated will fail them.
@@ -10,7 +10,7 @@ word_by_word:
     translation: There
     transliteration: hunālika
   2:
-    arabic: تَبۡلُوۡا
+    arabic: تَبۡلُواْ
     translation: will be put to trial
     transliteration: tablū
   3:
@@ -18,35 +18,35 @@ word_by_word:
     translation: every
     transliteration: kullu
   4:
-    arabic: نَفۡسٍ
+    arabic: نَفۡسٖ
     translation: soul
     transliteration: nafsin
   5:
-    arabic: مَّاۤ
+    arabic: مَّآ
     translation: (for) what
     transliteration: mā
   6:
-    arabic: اَسۡلَفَتۡ​
+    arabic: أَسۡلَفَتۡۚ
     translation: it did previously
     transliteration: aslafat
   7:
-    arabic: وَرُدُّوۡۤا
+    arabic: وَرُدُّوٓاْ
     translation: and they will be returned
     transliteration: waruddū
   8:
-    arabic: اِلَى
+    arabic: إِلَى
     translation: to
     transliteration: ilā
   9:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   10:
-    arabic: مَوۡلٰٮهُمُ
+    arabic: مَوۡلَىٰهُمُ
     translation: their Lord
     transliteration: mawlāhumu
   11:
-    arabic: الۡحَـقِّ​
+    arabic: ٱلۡحَقِّۖ
     translation: the true
     transliteration: l-ḥaqi
   12:
@@ -54,7 +54,7 @@ word_by_word:
     translation: and will be lost
     transliteration: waḍalla
   13:
-    arabic: عَنۡهُمۡ
+    arabic: عَنۡهُم
     translation: from them
     transliteration: ʿanhum
   14:
@@ -62,11 +62,11 @@ word_by_word:
     translation: what
     transliteration: mā
   15:
-    arabic: كَانُوۡا
+    arabic: كَانُواْ
     translation: they used (to)
     transliteration: kānū
   16:
-    arabic: يَفۡتَرُوۡنَ‏
+    arabic: يَفۡتَرُونَ
     translation: invent
     transliteration: yaftarūna
 ---

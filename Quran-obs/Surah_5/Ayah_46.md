@@ -1,8 +1,7 @@
 ---
-arabic_ayat: وَقَفَّيۡنَا عَلٰٓى اٰثَارِهِمۡ بِعِيۡسَى ابۡنِ مَرۡيَمَ مُصَدِّقًا لِّمَا
-  بَيۡنَ يَدَيۡهِ مِنَ التَّوۡرٰٮةِ​ وَاٰتَيۡنٰهُ الۡاِنۡجِيۡلَ فِيۡهِ هُدًى وَّنُوۡرٌ
-  ۙ وَّ مُصَدِّقًا لِّمَا بَيۡنَ يَدَيۡهِ مِنَ التَّوۡرٰٮةِ وَهُدًى وَّمَوۡعِظَةً
-  لِّـلۡمُتَّقِيۡنَ ؕ‏
+arabic_ayat: وَقَفَّيۡنَا عَلَىٰٓ ءَاثَٰرِهِم بِعِيسَى ٱبۡنِ مَرۡيَمَ مُصَدِّقٗا لِّمَا
+  بَيۡنَ يَدَيۡهِ مِنَ ٱلتَّوۡرَىٰةِۖ وَءَاتَيۡنَٰهُ ٱلۡإِنجِيلَ فِيهِ هُدٗى وَنُورٞ
+  وَمُصَدِّقٗا لِّمَا بَيۡنَ يَدَيۡهِ مِنَ ٱلتَّوۡرَىٰةِ وَهُدٗى وَمَوۡعِظَةٗ لِّلۡمُتَّقِينَ
 sentence_translation: Then in the footsteps of the prophets, We sent Jesus, son of
   Mary, confirming the Torah revealed before him. And We gave him the Gospel containing
   guidance and light and confirming what was revealed in the Torah—a guide and a lesson
@@ -13,19 +12,19 @@ word_by_word:
     translation: And We sent
     transliteration: waqaffaynā
   2:
-    arabic: عَلٰٓى
+    arabic: عَلَىٰٓ ءَ
     translation: 'on'
     transliteration: ʿalā
   3:
-    arabic: اٰثَارِهِمۡ
+    arabic: اثَٰرِهِم
     translation: their footsteps
     transliteration: āthārihim
   4:
-    arabic: بِعِيۡسَى
+    arabic: بِعِيسَى
     translation: Isa
     transliteration: biʿīsā
   5:
-    arabic: ابۡنِ
+    arabic: ٱبۡنِ
     translation: son
     transliteration: ib'ni
   6:
@@ -33,7 +32,7 @@ word_by_word:
     translation: (of) Maryam
     transliteration: maryama
   7:
-    arabic: مُصَدِّقًا
+    arabic: مُصَدِّقٗا
     translation: confirming
     transliteration: muṣaddiqan
   8:
@@ -53,31 +52,31 @@ word_by_word:
     translation: of
     transliteration: mina
   12:
-    arabic: التَّوۡرٰٮةِ​
+    arabic: ٱلتَّوۡرَىٰةِۖ
     translation: the Taurat
     transliteration: l-tawrāti
   13:
-    arabic: وَاٰتَيۡنٰهُ
+    arabic: وَءَاتَيۡنَٰهُ
     translation: and We gave him
     transliteration: waātaynāhu
   14:
-    arabic: الۡاِنۡجِيۡلَ
+    arabic: ٱلۡإِنجِيلَ
     translation: the Injeel
     transliteration: l-injīla
   15:
-    arabic: فِيۡهِ
+    arabic: فِيهِ
     translation: in it
     transliteration: fīhi
   16:
-    arabic: هُدًى
+    arabic: هُدٗى
     translation: (was) Guidance
     transliteration: hudan
   17:
-    arabic: وَّنُوۡرٌ ۙ
+    arabic: وَنُورٞ
     translation: and light
     transliteration: wanūrun
   18:
-    arabic: وَّ مُصَدِّقًا
+    arabic: وَمُصَدِّقٗا
     translation: and confirming
     transliteration: wamuṣaddiqan
   19:
@@ -97,19 +96,19 @@ word_by_word:
     translation: of
     transliteration: mina
   23:
-    arabic: التَّوۡرٰٮةِ
+    arabic: ٱلتَّوۡرَىٰةِ
     translation: the Taurat
     transliteration: l-tawrāti
   24:
-    arabic: وَهُدًى
+    arabic: وَهُدٗى
     translation: and a Guidance
     transliteration: wahudan
   25:
-    arabic: وَّمَوۡعِظَةً
+    arabic: وَمَوۡعِظَةٗ
     translation: and an admonition
     transliteration: wamawʿiẓatan
   26:
-    arabic: لِّـلۡمُتَّقِيۡنَ ؕ‏
+    arabic: لِّلۡمُتَّقِينَ
     translation: for the God conscious
     transliteration: lil'muttaqīna
 ---

@@ -1,21 +1,21 @@
 ---
-arabic_ayat: وَّلَا يُوۡثِقُ وَثَاقَهٗۤ اَحَدٌ ؕ‏
+arabic_ayat: وَلَا يُوثِقُ وَثَاقَهُۥٓ أَحَدٞ
 sentence_translation: and bind ˹them˺ tightly, like no other. 
 word_by_word:
   1:
-    arabic: وَّلَا
+    arabic: وَلَا
     translation: And not
     transliteration: walā
   2:
-    arabic: يُوۡثِقُ
+    arabic: يُوثِقُ
     translation: will bind
     transliteration: yūthiqu
   3:
-    arabic: وَثَاقَهٗۤ
+    arabic: وَثَاقَهُۥٓ
     translation: (as) His binding
     transliteration: wathāqahu
   4:
-    arabic: اَحَدٌ ؕ‏
+    arabic: أَحَدٞ
     translation: anyone
     transliteration: aḥadun
 ---

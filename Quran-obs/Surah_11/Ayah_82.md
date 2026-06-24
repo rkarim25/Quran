@@ -1,6 +1,6 @@
 ---
-arabic_ayat: فَلَمَّا جَآءَ اَمۡرُنَا جَعَلۡنَا عَالِيَهَا سَافِلَهَا وَاَمۡطَرۡنَا
-  عَلَيۡهَا حِجَارَةً مِّنۡ سِجِّيۡلٍۙ  مَّنۡضُوۡدٍۙ‏
+arabic_ayat: فَلَمَّا جَآءَ أَمۡرُنَا جَعَلۡنَا عَٰلِيَهَا سَافِلَهَا وَأَمۡطَرۡنَا
+  عَلَيۡهَا حِجَارَةٗ مِّن سِجِّيلٖ مَّنضُودٖ
 sentence_translation: When Our command came, We turned the cities upside down and
   rained down on them clustered stones of baked clay,
 word_by_word:
@@ -13,7 +13,7 @@ word_by_word:
     translation: came
     transliteration: jāa
   3:
-    arabic: اَمۡرُنَا
+    arabic: أَمۡرُنَا
     translation: Our Command
     transliteration: amrunā
   4:
@@ -21,7 +21,7 @@ word_by_word:
     translation: We made
     transliteration: jaʿalnā
   5:
-    arabic: عَالِيَهَا
+    arabic: عَٰلِيَهَا
     translation: its upside
     transliteration: ʿāliyahā
   6:
@@ -29,7 +29,7 @@ word_by_word:
     translation: its downside
     transliteration: sāfilahā
   7:
-    arabic: وَاَمۡطَرۡنَا
+    arabic: وَأَمۡطَرۡنَا
     translation: and We rained
     transliteration: wa-amṭarnā
   8:
@@ -37,19 +37,19 @@ word_by_word:
     translation: upon them
     transliteration: ʿalayhā
   9:
-    arabic: حِجَارَةً
+    arabic: حِجَارَةٗ
     translation: stones
     transliteration: ḥijāratan
   10:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: of
     transliteration: min
   11:
-    arabic: سِجِّيۡلٍۙ 
+    arabic: سِجِّيلٖ
     translation: baked clay
     transliteration: sijjīlin
   12:
-    arabic: مَّنۡضُوۡدٍۙ‏
+    arabic: مَّنضُودٖ
     translation: (in) layers
     transliteration: manḍūdin
 ---

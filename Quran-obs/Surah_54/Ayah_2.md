@@ -1,34 +1,34 @@
 ---
-arabic_ayat: وَاِنۡ يَّرَوۡا اٰيَةً يُّعۡرِضُوۡا وَيَقُوۡلُوۡا سِحۡرٌ مُّسۡتَمِرٌّ‏
+arabic_ayat: وَإِن يَرَوۡاْ ءَايَةٗ يُعۡرِضُواْ وَيَقُولُواْ سِحۡرٞ مُّسۡتَمِرّٞ
 sentence_translation: Yet, whenever they see a sign, they turn away, saying, “Same
   old magic!”
 word_by_word:
   1:
-    arabic: وَاِنۡ
+    arabic: وَإِن
     translation: And if
     transliteration: wa-in
   2:
-    arabic: يَّرَوۡا
+    arabic: يَرَوۡاْ ءَ
     translation: they see
     transliteration: yaraw
   3:
-    arabic: اٰيَةً
+    arabic: ايَةٗ
     translation: a Sign
     transliteration: āyatan
   4:
-    arabic: يُّعۡرِضُوۡا
+    arabic: يُعۡرِضُواْ
     translation: they turn away
     transliteration: yuʿ'riḍū
   5:
-    arabic: وَيَقُوۡلُوۡا
+    arabic: وَيَقُولُواْ
     translation: and say
     transliteration: wayaqūlū
   6:
-    arabic: سِحۡرٌ
+    arabic: سِحۡرٞ
     translation: Magic
     transliteration: siḥ'run
   7:
-    arabic: مُّسۡتَمِرٌّ‏
+    arabic: مُّسۡتَمِرّٞ
     translation: continuing
     transliteration: mus'tamirrun
 ---

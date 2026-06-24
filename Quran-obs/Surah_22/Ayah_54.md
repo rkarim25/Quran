@@ -1,38 +1,38 @@
 ---
-arabic_ayat: وَّلِيَـعۡلَمَ الَّذِيۡنَ اُوۡتُوا الۡعِلۡمَ اَنَّهُ الۡحَـقُّ مِنۡ رَّبِّكَ
-  فَيُؤۡمِنُوۡا بِهٖ فَـتُخۡبِتَ لَهٗ قُلُوۡبُهُمۡ​ ؕ وَاِنَّ اللّٰهَ لَهَادِ الَّذِيۡنَ
-  اٰمَنُوۡۤا اِلٰى صِرَاطٍ مُّسۡتَقِيۡمٍ‏
+arabic_ayat: وَلِيَعۡلَمَ ٱلَّذِينَ أُوتُواْ ٱلۡعِلۡمَ أَنَّهُ ٱلۡحَقُّ مِن رَّبِّكَ
+  فَيُؤۡمِنُواْ بِهِۦ فَتُخۡبِتَ لَهُۥ قُلُوبُهُمۡۗ وَإِنَّ ٱللَّهَ لَهَادِ ٱلَّذِينَ
+  ءَامَنُوٓاْ إِلَىٰ صِرَٰطٖ مُّسۡتَقِيمٖ
 sentence_translation: ˹This is˺ also so that those gifted with knowledge would know
   that this ˹revelation˺ is the truth from your Lord, so they have faith in it, and
   so their hearts would submit humbly to it. And Allah surely guides the believers
   to the Straight Path.
 word_by_word:
   1:
-    arabic: وَّلِيَـعۡلَمَ
+    arabic: وَلِيَعۡلَمَ
     translation: And that may know
     transliteration: waliyaʿlama
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   3:
-    arabic: اُوۡتُوا
+    arabic: أُوتُواْ
     translation: have been given
     transliteration: ūtū
   4:
-    arabic: الۡعِلۡمَ
+    arabic: ٱلۡعِلۡمَ
     translation: the knowledge
     transliteration: l-ʿil'ma
   5:
-    arabic: اَنَّهُ
+    arabic: أَنَّهُ
     translation: that it
     transliteration: annahu
   6:
-    arabic: الۡحَـقُّ
+    arabic: ٱلۡحَقُّ
     translation: (is) the truth
     transliteration: l-ḥaqu
   7:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   8:
@@ -40,31 +40,31 @@ word_by_word:
     translation: your Lord
     transliteration: rabbika
   9:
-    arabic: فَيُؤۡمِنُوۡا
+    arabic: فَيُؤۡمِنُواْ
     translation: and they believe
     transliteration: fayu'minū
   10:
-    arabic: بِهٖ
+    arabic: بِهِۦ
     translation: in it
     transliteration: bihi
   11:
-    arabic: فَـتُخۡبِتَ
+    arabic: فَتُخۡبِتَ
     translation: and may humbly submit
     transliteration: fatukh'bita
   12:
-    arabic: لَهٗ
+    arabic: لَهُۥ
     translation: to it
     transliteration: lahu
   13:
-    arabic: قُلُوۡبُهُمۡ​ ؕ
+    arabic: قُلُوبُهُمۡۗ
     translation: their hearts
     transliteration: qulūbuhum
   14:
-    arabic: وَاِنَّ
+    arabic: وَإِنَّ
     translation: And indeed
     transliteration: wa-inna
   15:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   16:
@@ -72,23 +72,23 @@ word_by_word:
     translation: (is) surely (the) Guide
     transliteration: lahādi
   17:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ ءَ
     translation: (of) those who
     transliteration: alladhīna
   18:
-    arabic: اٰمَنُوۡۤا
+    arabic: امَنُوٓاْ
     translation: believe
     transliteration: āmanū
   19:
-    arabic: اِلٰى
+    arabic: إِلَىٰ
     translation: to
     transliteration: ilā
   20:
-    arabic: صِرَاطٍ
+    arabic: صِرَٰطٖ
     translation: a Path
     transliteration: ṣirāṭin
   21:
-    arabic: مُّسۡتَقِيۡمٍ‏
+    arabic: مُّسۡتَقِيمٖ
     translation: Straight
     transliteration: mus'taqīmin
 ---

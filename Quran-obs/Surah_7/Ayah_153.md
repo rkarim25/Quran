@@ -1,19 +1,19 @@
 ---
-arabic_ayat: وَالَّذِيۡنَ عَمِلُوا السَّيِّاٰتِ ثُمَّ تَابُوۡا مِنۡۢ بَعۡدِهَا وَاٰمَنُوۡۤا
-  اِنَّ رَبَّكَ مِنۡۢ بَعۡدِهَا لَغَفُوۡرٌ رَّحِيۡمٌ‏
+arabic_ayat: وَٱلَّذِينَ عَمِلُواْ ٱلسَّيِّـَٔاتِ ثُمَّ تَابُواْ مِنۢ بَعۡدِهَا وَءَامَنُوٓاْ
+  إِنَّ رَبَّكَ مِنۢ بَعۡدِهَا لَغَفُورٞ رَّحِيمٞ
 sentence_translation: But those who commit evil, then repent and become ˹true˺ believers,
   your Lord will certainly be All-Forgiving, Most-Merciful.
 word_by_word:
   1:
-    arabic: وَالَّذِيۡنَ
+    arabic: وَٱلَّذِينَ
     translation: And those who
     transliteration: wa-alladhīna
   2:
-    arabic: عَمِلُوا
+    arabic: عَمِلُواْ
     translation: do
     transliteration: ʿamilū
   3:
-    arabic: السَّيِّاٰتِ
+    arabic: ٱلسَّيِّـَٔاتِ
     translation: the evil deeds
     transliteration: l-sayiāti
   4:
@@ -21,11 +21,11 @@ word_by_word:
     translation: then
     transliteration: thumma
   5:
-    arabic: تَابُوۡا
+    arabic: تَابُواْ
     translation: repented
     transliteration: tābū
   6:
-    arabic: مِنۡۢ
+    arabic: مِنۢ
     translation: from
     transliteration: min
   7:
@@ -33,11 +33,11 @@ word_by_word:
     translation: after that
     transliteration: baʿdihā
   8:
-    arabic: وَاٰمَنُوۡۤا
+    arabic: وَءَامَنُوٓاْ
     translation: and believed
     transliteration: waāmanū
   9:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: indeed
     transliteration: inna
   10:
@@ -45,7 +45,7 @@ word_by_word:
     translation: your Lord
     transliteration: rabbaka
   11:
-    arabic: مِنۡۢ
+    arabic: مِنۢ
     translation: from
     transliteration: min
   12:
@@ -53,11 +53,11 @@ word_by_word:
     translation: after that
     transliteration: baʿdihā
   13:
-    arabic: لَغَفُوۡرٌ
+    arabic: لَغَفُورٞ
     translation: (is) surely Oft-Forgiving
     transliteration: laghafūrun
   14:
-    arabic: رَّحِيۡمٌ‏
+    arabic: رَّحِيمٞ
     translation: Most Merciful
     transliteration: raḥīmun
 ---

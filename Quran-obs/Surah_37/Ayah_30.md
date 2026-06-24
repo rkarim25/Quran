@@ -1,6 +1,5 @@
 ---
-arabic_ayat: "وَمَا كَانَ لَنَا عَلَيۡكُمۡ مِّنۡ سُلۡطٰنِ​ۚ بَلۡ كُنۡتُمۡ قَوۡمًا\
-  \ طٰغِيۡنَ‏ \uFEFF\uFEFF"
+arabic_ayat: وَمَا كَانَ لَنَا عَلَيۡكُم مِّن سُلۡطَٰنِۭۖ بَلۡ كُنتُمۡ قَوۡمٗا طَٰغِينَ
 sentence_translation: We had no authority over you. In fact, you yourselves were a
   transgressing people.
 word_by_word:
@@ -17,15 +16,15 @@ word_by_word:
     translation: for us
     transliteration: lanā
   4:
-    arabic: عَلَيۡكُمۡ
+    arabic: عَلَيۡكُم
     translation: over you
     transliteration: ʿalaykum
   5:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: any
     transliteration: min
   6:
-    arabic: سُلۡطٰنِ​ۚ
+    arabic: سُلۡطَٰنِۭۖ
     translation: authority
     transliteration: sul'ṭānin
   7:
@@ -33,15 +32,15 @@ word_by_word:
     translation: Nay
     transliteration: bal
   8:
-    arabic: كُنۡتُمۡ
+    arabic: كُنتُمۡ
     translation: you were
     transliteration: kuntum
   9:
-    arabic: قَوۡمًا
+    arabic: قَوۡمٗا
     translation: a people
     transliteration: qawman
   10:
-    arabic: "طٰغِيۡنَ‏ \uFEFF\uFEFF"
+    arabic: طَٰغِينَ
     translation: transgressing
     transliteration: ṭāghīna
 ---

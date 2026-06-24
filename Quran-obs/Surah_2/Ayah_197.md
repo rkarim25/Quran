@@ -1,8 +1,8 @@
 ---
-arabic_ayat: اَلۡحَجُّ اَشۡهُرٌ مَّعۡلُوۡمٰتٌ ​ۚ فَمَنۡ فَرَضَ فِيۡهِنَّ الۡحَجَّ
-  فَلَا رَفَثَ وَلَا فُسُوۡقَۙ وَلَا جِدَالَ فِى الۡحَجِّ ؕ وَمَا تَفۡعَلُوۡا مِنۡ
-  خَيۡرٍ يَّعۡلَمۡهُ اللّٰهُ ​ؕ وَتَزَوَّدُوۡا فَاِنَّ خَيۡرَ الزَّادِ التَّقۡوٰى
-  وَاتَّقُوۡنِ يٰٓاُولِى الۡاَلۡبَابِ‏
+arabic_ayat: ٱلۡحَجُّ أَشۡهُرٞ مَّعۡلُومَٰتٞۚ فَمَن فَرَضَ فِيهِنَّ ٱلۡحَجَّ فَلَا
+  رَفَثَ وَلَا فُسُوقَ وَلَا جِدَالَ فِي ٱلۡحَجِّۗ وَمَا تَفۡعَلُواْ مِنۡ خَيۡرٖ يَعۡلَمۡهُ
+  ٱللَّهُۗ وَتَزَوَّدُواْ فَإِنَّ خَيۡرَ ٱلزَّادِ ٱلتَّقۡوَىٰۖ وَٱتَّقُونِ يَٰٓأُوْلِي
+  ٱلۡأَلۡبَٰبِ
 sentence_translation: ˹Commitment to˺ pilgrimage is made in appointed months. Whoever
   commits to ˹performing˺ pilgrimage, let them stay away from intimate relations,
   foul language, and arguments during pilgrimage. Whatever good you do, Allah ˹fully˺
@@ -10,19 +10,19 @@ sentence_translation: ˹Commitment to˺ pilgrimage is made in appointed months.�
   is righteousness. And be mindful of Me, O  people of reason!
 word_by_word:
   1:
-    arabic: اَلۡحَجُّ
+    arabic: ٱلۡحَجُّ
     translation: (For) the Hajj
     transliteration: al-ḥaju
   2:
-    arabic: اَشۡهُرٌ
+    arabic: أَشۡهُرٞ
     translation: (are) months
     transliteration: ashhurun
   3:
-    arabic: مَّعۡلُوۡمٰتٌ ​ۚ
+    arabic: مَّعۡلُومَٰتٞۚ
     translation: well known
     transliteration: maʿlūmātun
   4:
-    arabic: فَمَنۡ
+    arabic: فَمَن
     translation: then whoever
     transliteration: faman
   5:
@@ -30,11 +30,11 @@ word_by_word:
     translation: undertakes
     transliteration: faraḍa
   6:
-    arabic: فِيۡهِنَّ
+    arabic: فِيهِنَّ
     translation: therein
     transliteration: fīhinna
   7:
-    arabic: الۡحَجَّ
+    arabic: ٱلۡحَجَّ
     translation: the Hajj
     transliteration: l-ḥaja
   8:
@@ -50,7 +50,7 @@ word_by_word:
     translation: and no
     transliteration: walā
   11:
-    arabic: فُسُوۡقَۙ
+    arabic: فُسُوقَ
     translation: wickedness
     transliteration: fusūqa
   12:
@@ -62,11 +62,11 @@ word_by_word:
     translation: quarrelling
     transliteration: jidāla
   14:
-    arabic: فِى
+    arabic: فِي
     translation: during
     transliteration: fī
   15:
-    arabic: الۡحَجِّ ؕ
+    arabic: ٱلۡحَجِّۗ
     translation: the Hajj
     transliteration: l-ḥaji
   16:
@@ -74,7 +74,7 @@ word_by_word:
     translation: And whatever
     transliteration: wamā
   17:
-    arabic: تَفۡعَلُوۡا
+    arabic: تَفۡعَلُواْ
     translation: you do
     transliteration: tafʿalū
   18:
@@ -82,23 +82,23 @@ word_by_word:
     translation: of
     transliteration: min
   19:
-    arabic: خَيۡرٍ
+    arabic: خَيۡرٖ
     translation: good
     transliteration: khayrin
   20:
-    arabic: يَّعۡلَمۡهُ
+    arabic: يَعۡلَمۡهُ
     translation: knows it
     transliteration: yaʿlamhu
   21:
-    arabic: اللّٰهُ ​ؕ
+    arabic: ٱللَّهُۗ
     translation: Allah
     transliteration: l-lahu
   22:
-    arabic: وَتَزَوَّدُوۡا
+    arabic: وَتَزَوَّدُواْ
     translation: And take provision
     transliteration: watazawwadū
   23:
-    arabic: فَاِنَّ
+    arabic: فَإِنَّ
     translation: (but) indeed
     transliteration: fa-inna
   24:
@@ -106,23 +106,23 @@ word_by_word:
     translation: (the) best
     transliteration: khayra
   25:
-    arabic: الزَّادِ
+    arabic: ٱلزَّادِ
     translation: provision
     transliteration: l-zādi
   26:
-    arabic: التَّقۡوٰى
+    arabic: ٱلتَّقۡوَىٰۖ
     translation: (is) righteousness
     transliteration: l-taqwā
   27:
-    arabic: وَاتَّقُوۡنِ
+    arabic: وَٱتَّقُونِ
     translation: And fear Me
     transliteration: wa-ittaqūni
   28:
-    arabic: يٰٓاُولِى
+    arabic: يَٰٓأُوْلِي
     translation: O men
     transliteration: yāulī
   29:
-    arabic: الۡاَلۡبَابِ‏
+    arabic: ٱلۡأَلۡبَٰبِ
     translation: (of) understanding
     transliteration: l-albābi
 ---

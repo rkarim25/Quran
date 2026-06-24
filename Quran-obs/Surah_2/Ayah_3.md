@@ -1,27 +1,27 @@
 ---
-arabic_ayat: الَّذِيۡنَ يُؤۡمِنُوۡنَ بِالۡغَيۡبِ وَ يُقِيۡمُوۡنَ الصَّلٰوةَ وَمِمَّا
-  رَزَقۡنٰهُمۡ يُنۡفِقُوۡنَۙ‏
+arabic_ayat: ٱلَّذِينَ يُؤۡمِنُونَ بِٱلۡغَيۡبِ وَيُقِيمُونَ ٱلصَّلَوٰةَ وَمِمَّا رَزَقۡنَٰهُمۡ
+  يُنفِقُونَ
 sentence_translation: who believe in the unseen, establish prayer, and donate from
   what We have provided for them,
 word_by_word:
   1:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: Those who
     transliteration: alladhīna
   2:
-    arabic: يُؤۡمِنُوۡنَ
+    arabic: يُؤۡمِنُونَ
     translation: believe
     transliteration: yu'minūna
   3:
-    arabic: بِالۡغَيۡبِ
+    arabic: بِٱلۡغَيۡبِ
     translation: in the unseen
     transliteration: bil-ghaybi
   4:
-    arabic: وَ يُقِيۡمُوۡنَ
+    arabic: وَيُقِيمُونَ
     translation: and establish
     transliteration: wayuqīmūna
   5:
-    arabic: الصَّلٰوةَ
+    arabic: ٱلصَّلَوٰةَ
     translation: the prayer
     transliteration: l-ṣalata
   6:
@@ -29,11 +29,11 @@ word_by_word:
     translation: and out of what
     transliteration: wamimmā
   7:
-    arabic: رَزَقۡنٰهُمۡ
+    arabic: رَزَقۡنَٰهُمۡ
     translation: We have provided them
     transliteration: razaqnāhum
   8:
-    arabic: يُنۡفِقُوۡنَۙ‏
+    arabic: يُنفِقُونَ
     translation: they spend
     transliteration: yunfiqūna
 ---

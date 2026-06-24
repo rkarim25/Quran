@@ -1,13 +1,13 @@
 ---
-arabic_ayat: وَّكَاۡسًا دِهَاقًا ؕ‏
+arabic_ayat: وَكَأۡسٗا دِهَاقٗا
 sentence_translation: and full cups ˹of pure wine˺,
 word_by_word:
   1:
-    arabic: وَّكَاۡسًا
+    arabic: وَكَأۡسٗا
     translation: And a cup
     transliteration: wakasan
   2:
-    arabic: دِهَاقًا ؕ‏
+    arabic: دِهَاقٗا
     translation: full
     transliteration: dihāqan
 ---

@@ -1,37 +1,37 @@
 ---
-arabic_ayat: قُلْ لِّـعِبَادِىَ الَّذِيۡنَ اٰمَنُوۡا يُقِيۡمُوا الصَّلٰوةَ وَيُنۡفِقُوۡا
-  مِمَّا رَزَقۡنٰهُمۡ سِرًّا وَّعَلَانِيَةً مِّنۡ قَبۡلِ اَنۡ يَّاۡتِىَ يَوۡمٌ لَّا
-  بَيۡعٌ فِيۡهِ وَلَا خِلٰلٌ‏
+arabic_ayat: قُل لِّعِبَادِيَ ٱلَّذِينَ ءَامَنُواْ يُقِيمُواْ ٱلصَّلَوٰةَ وَيُنفِقُواْ
+  مِمَّا رَزَقۡنَٰهُمۡ سِرّٗا وَعَلَانِيَةٗ مِّن قَبۡلِ أَن يَأۡتِيَ يَوۡمٞ لَّا بَيۡعٞ
+  فِيهِ وَلَا خِلَٰلٌ
 sentence_translation: Tell My believing servants to establish prayer and donate from
   what We have provided for them—openly and secretly—before the arrival of a Day in
   which there will be no ransom or friendly connections.
 word_by_word:
   1:
-    arabic: قُلْ
+    arabic: قُل
     translation: Say
     transliteration: qul
   2:
-    arabic: لِّـعِبَادِىَ
+    arabic: لِّعِبَادِيَ
     translation: to My slaves
     transliteration: liʿibādiya
   3:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ ءَ
     translation: those who
     transliteration: alladhīna
   4:
-    arabic: اٰمَنُوۡا
+    arabic: امَنُواْ
     translation: believe
     transliteration: āmanū
   5:
-    arabic: يُقِيۡمُوا
+    arabic: يُقِيمُواْ
     translation: (to) establish
     transliteration: yuqīmū
   6:
-    arabic: الصَّلٰوةَ
+    arabic: ٱلصَّلَوٰةَ
     translation: the prayers
     transliteration: l-ṣalata
   7:
-    arabic: وَيُنۡفِقُوۡا
+    arabic: وَيُنفِقُواْ
     translation: and (to) spend
     transliteration: wayunfiqū
   8:
@@ -39,19 +39,19 @@ word_by_word:
     translation: from what
     transliteration: mimmā
   9:
-    arabic: رَزَقۡنٰهُمۡ
+    arabic: رَزَقۡنَٰهُمۡ
     translation: We have provided them
     transliteration: razaqnāhum
   10:
-    arabic: سِرًّا
+    arabic: سِرّٗا
     translation: secretly
     transliteration: sirran
   11:
-    arabic: وَّعَلَانِيَةً
+    arabic: وَعَلَانِيَةٗ
     translation: and publicly
     transliteration: waʿalāniyatan
   12:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: before
     transliteration: min
   13:
@@ -59,15 +59,15 @@ word_by_word:
     translation: before
     transliteration: qabli
   14:
-    arabic: اَنۡ
+    arabic: أَن
     translation: '[that]'
     transliteration: an
   15:
-    arabic: يَّاۡتِىَ
+    arabic: يَأۡتِيَ
     translation: comes
     transliteration: yatiya
   16:
-    arabic: يَوۡمٌ
+    arabic: يَوۡمٞ
     translation: a Day
     transliteration: yawmun
   17:
@@ -75,11 +75,11 @@ word_by_word:
     translation: not
     transliteration: lā
   18:
-    arabic: بَيۡعٌ
+    arabic: بَيۡعٞ
     translation: any trade
     transliteration: bayʿun
   19:
-    arabic: فِيۡهِ
+    arabic: فِيهِ
     translation: in it
     transliteration: fīhi
   20:
@@ -87,7 +87,7 @@ word_by_word:
     translation: and not
     transliteration: walā
   21:
-    arabic: خِلٰلٌ‏
+    arabic: خِلَٰلٌ
     translation: any friendship
     transliteration: khilālun
 ---

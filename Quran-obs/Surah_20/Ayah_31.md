@@ -1,17 +1,17 @@
 ---
-arabic_ayat: اشۡدُدۡ بِهٖۤ اَزۡرِىْ ۙ‏
+arabic_ayat: ٱشۡدُدۡ بِهِۦٓ أَزۡرِي
 sentence_translation: Strengthen me through him,
 word_by_word:
   1:
-    arabic: اشۡدُدۡ
+    arabic: ٱشۡدُدۡ
     translation: Reinforce
     transliteration: ush'dud
   2:
-    arabic: بِهٖۤ
+    arabic: بِهِۦٓ
     translation: through him
     transliteration: bihi
   3:
-    arabic: اَزۡرِىْ ۙ‏
+    arabic: أَزۡرِي
     translation: my strength
     transliteration: azrī
 ---

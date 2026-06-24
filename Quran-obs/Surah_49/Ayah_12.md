@@ -1,31 +1,31 @@
 ---
-arabic_ayat: يٰۤـاَيُّهَا الَّذِيۡنَ اٰمَنُوا اجۡتَنِبُوۡا كَثِيۡرًا مِّنَ الظَّنِّ
-  اِنَّ بَعۡضَ الظَّنِّ اِثۡمٌ​ وَّلَا تَجَسَّسُوۡا وَلَا يَغۡتَبْ بَّعۡضُكُمۡ بَعۡضًا​
-  ؕ اَ يُحِبُّ اَحَدُكُمۡ اَنۡ يَّاۡكُلَ لَحۡمَ اَخِيۡهِ مَيۡتًا فَكَرِهۡتُمُوۡهُ​
-  ؕ وَاتَّقُوا اللّٰهَ​ ؕ اِنَّ اللّٰهَ تَوَّابٌ رَّحِيۡمٌ‏
+arabic_ayat: يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُواْ ٱجۡتَنِبُواْ كَثِيرٗا مِّنَ ٱلظَّنِّ
+  إِنَّ بَعۡضَ ٱلظَّنِّ إِثۡمٞۖ وَلَا تَجَسَّسُواْ وَلَا يَغۡتَب بَّعۡضُكُم بَعۡضًاۚ
+  أَيُحِبُّ أَحَدُكُمۡ أَن يَأۡكُلَ لَحۡمَ أَخِيهِ مَيۡتٗا فَكَرِهۡتُمُوهُۚ وَٱتَّقُواْ
+  ٱللَّهَۚ إِنَّ ٱللَّهَ تَوَّابٞ رَّحِيمٞ
 sentence_translation: O  believers! Avoid many suspicions, ˹for˺ indeed, some suspicions
   are sinful. And do not spy, nor backbite one another. Would any of you like to eat
   the flesh of their dead brother? You would despise that! And fear Allah. Surely
   Allah is ˹the˺ Accepter of Repentance, Most Merciful.
 word_by_word:
   1:
-    arabic: يٰۤـاَيُّهَا
+    arabic: يَٰٓأَيُّهَا
     translation: O you who believe
     transliteration: yāayyuhā
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ ءَ
     translation: O you who believe
     transliteration: alladhīna
   3:
-    arabic: اٰمَنُوا
+    arabic: امَنُواْ
     translation: O you who believe
     transliteration: āmanū
   4:
-    arabic: اجۡتَنِبُوۡا
+    arabic: ٱجۡتَنِبُواْ
     translation: Avoid
     transliteration: ij'tanibū
   5:
-    arabic: كَثِيۡرًا
+    arabic: كَثِيرٗا
     translation: much
     transliteration: kathīran
   6:
@@ -33,11 +33,11 @@ word_by_word:
     translation: of
     transliteration: mina
   7:
-    arabic: الظَّنِّ
+    arabic: ٱلظَّنِّ
     translation: the assumption
     transliteration: l-ẓani
   8:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   9:
@@ -45,19 +45,19 @@ word_by_word:
     translation: some
     transliteration: baʿḍa
   10:
-    arabic: الظَّنِّ
+    arabic: ٱلظَّنِّ
     translation: assumption
     transliteration: l-ẓani
   11:
-    arabic: اِثۡمٌ​
+    arabic: إِثۡمٞۖ
     translation: (is) sin
     transliteration: ith'mun
   12:
-    arabic: وَّلَا
+    arabic: وَلَا
     translation: And (do) not
     transliteration: walā
   13:
-    arabic: تَجَسَّسُوۡا
+    arabic: تَجَسَّسُواْ
     translation: spy
     transliteration: tajassasū
   14:
@@ -65,31 +65,31 @@ word_by_word:
     translation: and (do) not
     transliteration: walā
   15:
-    arabic: يَغۡتَبْ
+    arabic: يَغۡتَب
     translation: backbite
     transliteration: yaghtab
   16:
-    arabic: بَّعۡضُكُمۡ
+    arabic: بَّعۡضُكُم
     translation: some of you
     transliteration: baʿḍukum
   17:
-    arabic: بَعۡضًا​ ؕ
+    arabic: بَعۡضًاۚ
     translation: (to) others
     transliteration: baʿḍan
   18:
-    arabic: اَ يُحِبُّ
+    arabic: أَيُحِبُّ
     translation: Would like
     transliteration: ayuḥibbu
   19:
-    arabic: اَحَدُكُمۡ
+    arabic: أَحَدُكُمۡ
     translation: one of you
     transliteration: aḥadukum
   20:
-    arabic: اَنۡ
+    arabic: أَن
     translation: to
     transliteration: an
   21:
-    arabic: يَّاۡكُلَ
+    arabic: يَأۡكُلَ
     translation: eat
     transliteration: yakula
   22:
@@ -97,39 +97,39 @@ word_by_word:
     translation: (the) flesh
     transliteration: laḥma
   23:
-    arabic: اَخِيۡهِ
+    arabic: أَخِيهِ
     translation: (of) his brother
     transliteration: akhīhi
   24:
-    arabic: مَيۡتًا
+    arabic: مَيۡتٗا
     translation: dead
     transliteration: maytan
   25:
-    arabic: فَكَرِهۡتُمُوۡهُ​ ؕ
+    arabic: فَكَرِهۡتُمُوهُۚ
     translation: Nay, you would hate it
     transliteration: fakarih'tumūhu
   26:
-    arabic: وَاتَّقُوا
+    arabic: وَٱتَّقُواْ
     translation: And fear Allah
     transliteration: wa-ittaqū
   27:
-    arabic: اللّٰهَ​ ؕ
+    arabic: ٱللَّهَۚ
     translation: And fear Allah
     transliteration: l-laha
   28:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: indeed
     transliteration: inna
   29:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   30:
-    arabic: تَوَّابٌ
+    arabic: تَوَّابٞ
     translation: (is) Oft-Returning
     transliteration: tawwābun
   31:
-    arabic: رَّحِيۡمٌ‏
+    arabic: رَّحِيمٞ
     translation: Most Merciful
     transliteration: raḥīmun
 ---

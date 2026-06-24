@@ -1,30 +1,30 @@
 ---
-arabic_ayat: سُبۡحٰنَ الَّذِىۡۤ اَسۡرٰى بِعَبۡدِهٖ لَيۡلًا مِّنَ الۡمَسۡجِدِ الۡحَـرَامِ
-  اِلَى الۡمَسۡجِدِ الۡاَقۡصَا الَّذِىۡ بٰرَكۡنَا حَوۡلَهٗ لِنُرِيَهٗ مِنۡ اٰيٰتِنَا​
-  ؕ اِنَّهٗ هُوَ السَّمِيۡعُ الۡبَصِيۡرُ‏
+arabic_ayat: سُبۡحَٰنَ ٱلَّذِيٓ أَسۡرَىٰ بِعَبۡدِهِۦ لَيۡلٗا مِّنَ ٱلۡمَسۡجِدِ ٱلۡحَرَامِ
+  إِلَى ٱلۡمَسۡجِدِ ٱلۡأَقۡصَا ٱلَّذِي بَٰرَكۡنَا حَوۡلَهُۥ لِنُرِيَهُۥ مِنۡ ءَايَٰتِنَآۚ
+  إِنَّهُۥ هُوَ ٱلسَّمِيعُ ٱلۡبَصِيرُ
 sentence_translation: Glory be to the One Who took His servant ˹Muḥammad˺ by night
   from the Sacred Mosque to the Farthest Mosque whose surroundings We have blessed,
   so that We may show him some of Our signs. Indeed, He alone is the All-Hearing,
   All-Seeing.
 word_by_word:
   1:
-    arabic: سُبۡحٰنَ
+    arabic: سُبۡحَٰنَ
     translation: Exalted
     transliteration: sub'ḥāna
   2:
-    arabic: الَّذِىۡۤ
+    arabic: ٱلَّذِيٓ
     translation: (is) the One Who
     transliteration: alladhī
   3:
-    arabic: اَسۡرٰى
+    arabic: أَسۡرَىٰ
     translation: took
     transliteration: asrā
   4:
-    arabic: بِعَبۡدِهٖ
+    arabic: بِعَبۡدِهِۦ
     translation: His servant
     transliteration: biʿabdihi
   5:
-    arabic: لَيۡلًا
+    arabic: لَيۡلٗا
     translation: (by) night
     transliteration: laylan
   6:
@@ -32,51 +32,51 @@ word_by_word:
     translation: from
     transliteration: mina
   7:
-    arabic: الۡمَسۡجِدِ
+    arabic: ٱلۡمَسۡجِدِ
     translation: Al-Masjid Al-Haraam
     transliteration: l-masjidi
   8:
-    arabic: الۡحَـرَامِ
+    arabic: ٱلۡحَرَامِ
     translation: Al-Masjid Al-Haraam
     transliteration: l-ḥarāmi
   9:
-    arabic: اِلَى
+    arabic: إِلَى
     translation: to
     transliteration: ilā
   10:
-    arabic: الۡمَسۡجِدِ
+    arabic: ٱلۡمَسۡجِدِ
     translation: Al-Masjid Al-Aqsa
     transliteration: l-masjidi
   11:
-    arabic: الۡاَقۡصَا
+    arabic: ٱلۡأَقۡصَا
     translation: Al-Masjid Al-Aqsa
     transliteration: l-aqṣā
   12:
-    arabic: الَّذِىۡ
+    arabic: ٱلَّذِي
     translation: which
     transliteration: alladhī
   13:
-    arabic: بٰرَكۡنَا
+    arabic: بَٰرَكۡنَا
     translation: We blessed
     transliteration: bāraknā
   14:
-    arabic: حَوۡلَهٗ
+    arabic: حَوۡلَهُۥ
     translation: its surroundings
     transliteration: ḥawlahu
   15:
-    arabic: لِنُرِيَهٗ
+    arabic: لِنُرِيَهُۥ
     translation: that We may show him
     transliteration: linuriyahu
   16:
-    arabic: مِنۡ
+    arabic: مِنۡ ءَ
     translation: of
     transliteration: min
   17:
-    arabic: اٰيٰتِنَا​ ؕ
+    arabic: ايَٰتِنَآۚ
     translation: Our Signs
     transliteration: āyātinā
   18:
-    arabic: اِنَّهٗ
+    arabic: إِنَّهُۥ
     translation: Indeed He
     transliteration: innahu
   19:
@@ -84,11 +84,11 @@ word_by_word:
     translation: He
     transliteration: huwa
   20:
-    arabic: السَّمِيۡعُ
+    arabic: ٱلسَّمِيعُ
     translation: (is) the All-Hearer
     transliteration: l-samīʿu
   21:
-    arabic: الۡبَصِيۡرُ‏
+    arabic: ٱلۡبَصِيرُ
     translation: the All-Seer
     transliteration: l-baṣīru
 ---

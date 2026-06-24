@@ -1,13 +1,13 @@
 ---
-arabic_ayat: اِنِّىۡۤ اَخَافُ عَلَيۡكُمۡ عَذَابَ يَوۡمٍ عَظِيۡمٍؕ‏
+arabic_ayat: إِنِّيٓ أَخَافُ عَلَيۡكُمۡ عَذَابَ يَوۡمٍ عَظِيمٖ
 sentence_translation: I truly fear for you the torment of a tremendous day.”
 word_by_word:
   1:
-    arabic: اِنِّىۡۤ
+    arabic: إِنِّيٓ
     translation: Indeed, I
     transliteration: innī
   2:
-    arabic: اَخَافُ
+    arabic: أَخَافُ
     translation: '[I] fear'
     transliteration: akhāfu
   3:
@@ -23,7 +23,7 @@ word_by_word:
     translation: (of) a Day
     transliteration: yawmin
   6:
-    arabic: عَظِيۡمٍؕ‏
+    arabic: عَظِيمٖ
     translation: Great
     transliteration: ʿaẓīmin
 ---

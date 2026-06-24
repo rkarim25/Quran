@@ -1,9 +1,9 @@
 ---
-arabic_ayat: الَّذِىۡ يَصۡلَى النَّارَ الۡكُبۡرٰى​ۚ‏
+arabic_ayat: ٱلَّذِي يَصۡلَى ٱلنَّارَ ٱلۡكُبۡرَىٰ
 sentence_translation: who will burn in the greatest Fire,
 word_by_word:
   1:
-    arabic: الَّذِىۡ
+    arabic: ٱلَّذِي
     translation: The one who
     transliteration: alladhī
   2:
@@ -11,11 +11,11 @@ word_by_word:
     translation: will burn
     transliteration: yaṣlā
   3:
-    arabic: النَّارَ
+    arabic: ٱلنَّارَ
     translation: (in) the Fire
     transliteration: l-nāra
   4:
-    arabic: الۡكُبۡرٰى​ۚ‏
+    arabic: ٱلۡكُبۡرَىٰ
     translation: '[the] great'
     transliteration: l-kub'rā
 ---

@@ -1,31 +1,31 @@
 ---
-arabic_ayat: اَلَمۡ اَعۡهَدۡ اِلَيۡكُمۡ يٰبَنِىۡۤ اٰدَمَ اَنۡ لَّا تَعۡبُدُوا الشَّيۡطٰنَ​​ۚ
-  اِنَّهٗ لَـكُمۡ عَدُوٌّ مُّبِيۡنٌ ۙ‏
+arabic_ayat: ۞ أَلَمۡ أَعۡهَدۡ إِلَيۡكُمۡ يَٰبَنِيٓ ءَادَمَ أَن لَّا تَعۡبُدُواْ ٱلشَّيۡطَٰنَۖ
+  إِنَّهُۥ لَكُمۡ عَدُوّٞ مُّبِينٞ
 sentence_translation: Did I not command you, O  Children of Adam, not to follow Satan,
   for he is truly your sworn enemy,
 word_by_word:
   1:
-    arabic: ۞ اَلَمۡ
+    arabic: ۞ أَلَمۡ
     translation: Did not
     transliteration: alam
   2:
-    arabic: اَعۡهَدۡ
+    arabic: أَعۡهَدۡ
     translation: I enjoin
     transliteration: aʿhad
   3:
-    arabic: اِلَيۡكُمۡ
+    arabic: إِلَيۡكُمۡ
     translation: upon you
     transliteration: ilaykum
   4:
-    arabic: يٰبَنِىۡۤ
+    arabic: يَٰبَنِيٓ ءَ
     translation: O Children of Adam
     transliteration: yābanī
   5:
-    arabic: اٰدَمَ
+    arabic: ادَمَ
     translation: O Children of Adam
     transliteration: ādama
   6:
-    arabic: اَنۡ
+    arabic: أَن
     translation: That
     transliteration: an
   7:
@@ -33,27 +33,27 @@ word_by_word:
     translation: (do) not
     transliteration: lā
   8:
-    arabic: تَعۡبُدُوا
+    arabic: تَعۡبُدُواْ
     translation: worship
     transliteration: taʿbudū
   9:
-    arabic: الشَّيۡطٰنَ​​ۚ
+    arabic: ٱلشَّيۡطَٰنَۖ
     translation: the Shaitaan
     transliteration: l-shayṭāna
   10:
-    arabic: اِنَّهٗ
+    arabic: إِنَّهُۥ
     translation: indeed, he
     transliteration: innahu
   11:
-    arabic: لَـكُمۡ
+    arabic: لَكُمۡ
     translation: (is) for you
     transliteration: lakum
   12:
-    arabic: عَدُوٌّ
+    arabic: عَدُوّٞ
     translation: an enemy
     transliteration: ʿaduwwun
   13:
-    arabic: مُّبِيۡنٌ ۙ‏
+    arabic: مُّبِينٞ
     translation: clear
     transliteration: mubīnun
 ---

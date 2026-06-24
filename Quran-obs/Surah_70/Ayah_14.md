@@ -1,21 +1,21 @@
 ---
-arabic_ayat: وَمَنۡ فِى الۡاَرۡضِ جَمِيۡعًا ۙ ثُمَّ يُنۡجِيۡهِۙ‏
+arabic_ayat: وَمَن فِي ٱلۡأَرۡضِ جَمِيعٗا ثُمَّ يُنجِيهِ
 sentence_translation: and everyone on earth altogether, just to save themselves.
 word_by_word:
   1:
-    arabic: وَمَنۡ
+    arabic: وَمَن
     translation: And whoever
     transliteration: waman
   2:
-    arabic: فِى
+    arabic: فِي
     translation: (is) on
     transliteration: fī
   3:
-    arabic: الۡاَرۡضِ
+    arabic: ٱلۡأَرۡضِ
     translation: the earth
     transliteration: l-arḍi
   4:
-    arabic: جَمِيۡعًا ۙ
+    arabic: جَمِيعٗا
     translation: all
     transliteration: jamīʿan
   5:
@@ -23,7 +23,7 @@ word_by_word:
     translation: then
     transliteration: thumma
   6:
-    arabic: يُنۡجِيۡهِۙ‏
+    arabic: يُنجِيهِ
     translation: it (could) save him
     transliteration: yunjīhi
 ---

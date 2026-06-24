@@ -1,17 +1,17 @@
 ---
-arabic_ayat: اِنَّمَا تُوۡعَدُوۡنَ لَصَادِقٌ ۙ‏
+arabic_ayat: إِنَّمَا تُوعَدُونَ لَصَادِقٞ
 sentence_translation: Indeed, what you are promised is true.
 word_by_word:
   1:
-    arabic: اِنَّمَا
+    arabic: إِنَّمَا
     translation: Indeed, what
     transliteration: innamā
   2:
-    arabic: تُوۡعَدُوۡنَ
+    arabic: تُوعَدُونَ
     translation: you are promised
     transliteration: tūʿadūna
   3:
-    arabic: لَصَادِقٌ ۙ‏
+    arabic: لَصَادِقٞ
     translation: (is) surely true
     transliteration: laṣādiqun
 ---

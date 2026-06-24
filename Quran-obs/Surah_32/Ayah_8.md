@@ -1,5 +1,5 @@
 ---
-arabic_ayat: ثُمَّ جَعَلَ نَسۡلَهٗ مِنۡ سُلٰلَةٍ مِّنۡ مَّآءٍ مَّهِيۡنٍ​ۚ‏
+arabic_ayat: ثُمَّ جَعَلَ نَسۡلَهُۥ مِن سُلَٰلَةٖ مِّن مَّآءٖ مَّهِينٖ
 sentence_translation: Then He made his descendants from an extract of a humble fluid,
 word_by_word:
   1:
@@ -11,27 +11,27 @@ word_by_word:
     translation: He made
     transliteration: jaʿala
   3:
-    arabic: نَسۡلَهٗ
+    arabic: نَسۡلَهُۥ
     translation: his progeny
     transliteration: naslahu
   4:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   5:
-    arabic: سُلٰلَةٍ
+    arabic: سُلَٰلَةٖ
     translation: an extract
     transliteration: sulālatin
   6:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: of
     transliteration: min
   7:
-    arabic: مَّآءٍ
+    arabic: مَّآءٖ
     translation: water
     transliteration: māin
   8:
-    arabic: مَّهِيۡنٍ​ۚ‏
+    arabic: مَّهِينٖ
     translation: despised
     transliteration: mahīnin
 ---

@@ -1,35 +1,35 @@
 ---
-arabic_ayat: الَّذِيۡنَ يُقِيۡمُوۡنَ الصَّلٰوةَ وَيُؤۡتُوۡنَ الزَّكٰوةَ وَ هُمۡ بِالۡاٰخِرَةِ
-  هُمۡ يُوۡقِنُوۡنَ‏
+arabic_ayat: ٱلَّذِينَ يُقِيمُونَ ٱلصَّلَوٰةَ وَيُؤۡتُونَ ٱلزَّكَوٰةَ وَهُم بِٱلۡأٓخِرَةِ
+  هُمۡ يُوقِنُونَ
 sentence_translation: ˹those˺ who establish prayer, pay alms-tax, and have sure faith
   in the Hereafter.
 word_by_word:
   1:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: Those who
     transliteration: alladhīna
   2:
-    arabic: يُقِيۡمُوۡنَ
+    arabic: يُقِيمُونَ
     translation: establish
     transliteration: yuqīmūna
   3:
-    arabic: الصَّلٰوةَ
+    arabic: ٱلصَّلَوٰةَ
     translation: the prayer
     transliteration: l-ṣalata
   4:
-    arabic: وَيُؤۡتُوۡنَ
+    arabic: وَيُؤۡتُونَ
     translation: and give
     transliteration: wayu'tūna
   5:
-    arabic: الزَّكٰوةَ
+    arabic: ٱلزَّكَوٰةَ
     translation: zakah
     transliteration: l-zakata
   6:
-    arabic: وَ هُمۡ
+    arabic: وَهُم
     translation: and they
     transliteration: wahum
   7:
-    arabic: بِالۡاٰخِرَةِ
+    arabic: بِٱلۡأٓخِرَةِ
     translation: in the Hereafter
     transliteration: bil-ākhirati
   8:
@@ -37,7 +37,7 @@ word_by_word:
     translation: '[they]'
     transliteration: hum
   9:
-    arabic: يُوۡقِنُوۡنَ‏
+    arabic: يُوقِنُونَ
     translation: believe with certainty
     transliteration: yūqinūna
 ---

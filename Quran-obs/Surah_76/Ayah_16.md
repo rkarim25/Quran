@@ -1,25 +1,25 @@
 ---
-arabic_ayat: قَوَارِيۡرَا۟ مِنۡ فِضَّةٍ قَدَّرُوۡهَا تَقۡدِيۡرًا‏
+arabic_ayat: قَوَارِيرَاْ مِن فِضَّةٖ قَدَّرُوهَا تَقۡدِيرٗا
 sentence_translation: crystalline silver, filled precisely as desired.
 word_by_word:
   1:
-    arabic: قَوَارِيۡرَا۟
+    arabic: قَوَارِيرَاْ
     translation: Crystal-clear
     transliteration: qawārīrā
   2:
-    arabic: مِنۡ
+    arabic: مِن
     translation: of
     transliteration: min
   3:
-    arabic: فِضَّةٍ
+    arabic: فِضَّةٖ
     translation: silver
     transliteration: fiḍḍatin
   4:
-    arabic: قَدَّرُوۡهَا
+    arabic: قَدَّرُوهَا
     translation: They will determine its
     transliteration: qaddarūhā
   5:
-    arabic: تَقۡدِيۡرًا‏
+    arabic: تَقۡدِيرٗا
     translation: measure
     transliteration: taqdīran
 ---

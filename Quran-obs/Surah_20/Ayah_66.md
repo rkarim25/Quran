@@ -1,6 +1,6 @@
 ---
-arabic_ayat: قَالَ بَلۡ اَلۡقُوۡا​ۚ فَاِذَا حِبَالُهُمۡ وَعِصِيُّهُمۡ يُخَيَّلُ اِلَيۡهِ
-  مِنۡ سِحۡرِهِمۡ اَنَّهَا تَسۡعٰى‏
+arabic_ayat: قَالَ بَلۡ أَلۡقُواْۖ فَإِذَا حِبَالُهُمۡ وَعِصِيُّهُمۡ يُخَيَّلُ إِلَيۡهِ
+  مِن سِحۡرِهِمۡ أَنَّهَا تَسۡعَىٰ
 sentence_translation: Moses responded, “No, you go first.” And suddenly their ropes
   and staffs appeared to him—by their magic—to be slithering.
 word_by_word:
@@ -13,11 +13,11 @@ word_by_word:
     translation: Nay
     transliteration: bal
   3:
-    arabic: اَلۡقُوۡا​ۚ
+    arabic: أَلۡقُواْۖ
     translation: you throw
     transliteration: alqū
   4:
-    arabic: فَاِذَا
+    arabic: فَإِذَا
     translation: Then behold
     transliteration: fa-idhā
   5:
@@ -33,11 +33,11 @@ word_by_word:
     translation: seemed
     transliteration: yukhayyalu
   8:
-    arabic: اِلَيۡهِ
+    arabic: إِلَيۡهِ
     translation: to him
     transliteration: ilayhi
   9:
-    arabic: مِنۡ
+    arabic: مِن
     translation: by
     transliteration: min
   10:
@@ -45,11 +45,11 @@ word_by_word:
     translation: their magic
     transliteration: siḥ'rihim
   11:
-    arabic: اَنَّهَا
+    arabic: أَنَّهَا
     translation: that they
     transliteration: annahā
   12:
-    arabic: تَسۡعٰى‏
+    arabic: تَسۡعَىٰ
     translation: (were) moving
     transliteration: tasʿā
 ---

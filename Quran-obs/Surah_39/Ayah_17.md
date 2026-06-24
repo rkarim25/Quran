@@ -1,39 +1,39 @@
 ---
-arabic_ayat: وَالَّذِيۡنَ اجۡتَنَـبُـوا الطَّاغُوۡتَ اَنۡ يَّعۡبُدُوۡهَا وَاَنَابُوۡۤا
-  اِلَى اللّٰهِ لَهُمُ الۡبُشۡرٰى​ ۚ فَبَشِّرۡ عِبَادِ ۙ‏
+arabic_ayat: وَٱلَّذِينَ ٱجۡتَنَبُواْ ٱلطَّٰغُوتَ أَن يَعۡبُدُوهَا وَأَنَابُوٓاْ إِلَى
+  ٱللَّهِ لَهُمُ ٱلۡبُشۡرَىٰۚ فَبَشِّرۡ عِبَادِ
 sentence_translation: And those who shun the worship of false gods, turning to Allah
   ˹alone˺, will have good news. So give good news to My servants ˹O Prophet˺—
 word_by_word:
   1:
-    arabic: وَالَّذِيۡنَ
+    arabic: وَٱلَّذِينَ
     translation: And those who
     transliteration: wa-alladhīna
   2:
-    arabic: اجۡتَنَـبُـوا
+    arabic: ٱجۡتَنَبُواْ
     translation: avoid
     transliteration: ij'tanabū
   3:
-    arabic: الطَّاغُوۡتَ
+    arabic: ٱلطَّٰغُوتَ
     translation: the false gods
     transliteration: l-ṭāghūta
   4:
-    arabic: اَنۡ
+    arabic: أَن
     translation: lest
     transliteration: an
   5:
-    arabic: يَّعۡبُدُوۡهَا
+    arabic: يَعۡبُدُوهَا
     translation: they worship them
     transliteration: yaʿbudūhā
   6:
-    arabic: وَاَنَابُوۡۤا
+    arabic: وَأَنَابُوٓاْ
     translation: and turn
     transliteration: wa-anābū
   7:
-    arabic: اِلَى
+    arabic: إِلَى
     translation: to
     transliteration: ilā
   8:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   9:
@@ -41,7 +41,7 @@ word_by_word:
     translation: for them
     transliteration: lahumu
   10:
-    arabic: الۡبُشۡرٰى​ ۚ
+    arabic: ٱلۡبُشۡرَىٰۚ
     translation: (are) glad tidings
     transliteration: l-bush'rā
   11:
@@ -49,7 +49,7 @@ word_by_word:
     translation: So give glad tidings
     transliteration: fabashir
   12:
-    arabic: عِبَادِ ۙ‏
+    arabic: عِبَادِ
     translation: (to) My slaves
     transliteration: ʿibādi
 ---

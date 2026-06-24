@@ -1,23 +1,23 @@
 ---
-arabic_ayat: قُلْ لَّنۡ يُّصِيۡبَـنَاۤ اِلَّا مَا كَتَبَ اللّٰهُ لَـنَا ۚ هُوَ مَوۡلٰٮنَا
-  ​ ۚ وَعَلَى اللّٰهِ فَلۡيَتَوَكَّلِ الۡمُؤۡمِنُوۡنَ‏
+arabic_ayat: قُل لَّن يُصِيبَنَآ إِلَّا مَا كَتَبَ ٱللَّهُ لَنَا هُوَ مَوۡلَىٰنَاۚ
+  وَعَلَى ٱللَّهِ فَلۡيَتَوَكَّلِ ٱلۡمُؤۡمِنُونَ
 sentence_translation: Say, “Nothing will ever befall us except what Allah has destined
   for us. He is our Protector.” So in Allah let the believers put their trust.
 word_by_word:
   1:
-    arabic: قُلْ
+    arabic: قُل
     translation: Say
     transliteration: qul
   2:
-    arabic: لَّنۡ
+    arabic: لَّن
     translation: Never
     transliteration: lan
   3:
-    arabic: يُّصِيۡبَـنَاۤ
+    arabic: يُصِيبَنَآ
     translation: will befall us
     transliteration: yuṣībanā
   4:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   5:
@@ -29,11 +29,11 @@ word_by_word:
     translation: Allah has decreed
     transliteration: kataba
   7:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah has decreed
     transliteration: l-lahu
   8:
-    arabic: لَـنَا ۚ
+    arabic: لَنَا
     translation: for us
     transliteration: lanā
   9:
@@ -41,7 +41,7 @@ word_by_word:
     translation: He
     transliteration: huwa
   10:
-    arabic: مَوۡلٰٮنَا ​ ۚ
+    arabic: مَوۡلَىٰنَاۚ
     translation: (is) our Protector
     transliteration: mawlānā
   11:
@@ -49,7 +49,7 @@ word_by_word:
     translation: And on
     transliteration: waʿalā
   12:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   13:
@@ -57,7 +57,7 @@ word_by_word:
     translation: '[so] let the believers put (their) trust'
     transliteration: falyatawakkali
   14:
-    arabic: الۡمُؤۡمِنُوۡنَ‏
+    arabic: ٱلۡمُؤۡمِنُونَ
     translation: '[so] let the believers put (their) trust'
     transliteration: l-mu'minūna
 ---

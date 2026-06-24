@@ -1,8 +1,8 @@
 ---
-arabic_ayat: لَقَدۡ كَفَرَ الَّذِيۡنَ قَالُوۡۤا اِنَّ اللّٰهَ هُوَ الۡمَسِيۡحُ ابۡنُ
-  مَرۡيَمَ​ ؕ وَقَالَ الۡمَسِيۡحُ يٰبَنِىۡۤ اِسۡرَآءِيۡلَ اعۡبُدُوا اللّٰهَ رَبِّىۡ
-  وَرَبَّكُمۡ​ ؕ اِنَّهٗ مَنۡ يُّشۡرِكۡ بِاللّٰهِ فَقَدۡ حَرَّمَ اللّٰهُ عَلَيۡهِ
-  الۡجَـنَّةَ وَمَاۡوٰٮهُ النَّارُ​ ؕ وَمَا لِلظّٰلِمِيۡنَ مِنۡ اَنۡصَارٍ‏
+arabic_ayat: لَقَدۡ كَفَرَ ٱلَّذِينَ قَالُوٓاْ إِنَّ ٱللَّهَ هُوَ ٱلۡمَسِيحُ ٱبۡنُ
+  مَرۡيَمَۖ وَقَالَ ٱلۡمَسِيحُ يَٰبَنِيٓ إِسۡرَٰٓءِيلَ ٱعۡبُدُواْ ٱللَّهَ رَبِّي وَرَبَّكُمۡۖ
+  إِنَّهُۥ مَن يُشۡرِكۡ بِٱللَّهِ فَقَدۡ حَرَّمَ ٱللَّهُ عَلَيۡهِ ٱلۡجَنَّةَ وَمَأۡوَىٰهُ
+  ٱلنَّارُۖ وَمَا لِلظَّٰلِمِينَ مِنۡ أَنصَارٖ
 sentence_translation: Those who say, “Allah is the Messiah, son of Mary,” have certainly
   fallen into disbelief. The Messiah ˹himself˺ said, “O Children of Israel! Worship
   Allah—my Lord and your Lord.” Whoever associates others with Allah ˹in worship˺
@@ -18,19 +18,19 @@ word_by_word:
     translation: disbelieved
     transliteration: kafara
   3:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   4:
-    arabic: قَالُوۡۤا
+    arabic: قَالُوٓاْ
     translation: say
     transliteration: qālū
   5:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   6:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: 'Allah '
     transliteration: l-laha
   7:
@@ -38,15 +38,15 @@ word_by_word:
     translation: He
     transliteration: huwa
   8:
-    arabic: الۡمَسِيۡحُ
+    arabic: ٱلۡمَسِيحُ
     translation: (is) the Messiah
     transliteration: l-masīḥu
   9:
-    arabic: ابۡنُ
+    arabic: ٱبۡنُ
     translation: son
     transliteration: ub'nu
   10:
-    arabic: مَرۡيَمَ​ ؕ
+    arabic: مَرۡيَمَۖ
     translation: (of) Maryam
     transliteration: maryama
   11:
@@ -54,47 +54,47 @@ word_by_word:
     translation: While said
     transliteration: waqāla
   12:
-    arabic: الۡمَسِيۡحُ
+    arabic: ٱلۡمَسِيحُ
     translation: the Messiah
     transliteration: l-masīḥu
   13:
-    arabic: يٰبَنِىۡۤ
+    arabic: يَٰبَنِيٓ
     translation: O Children
     transliteration: yābanī
   14:
-    arabic: اِسۡرَآءِيۡلَ
+    arabic: إِسۡرَٰٓءِيلَ
     translation: (of) Israel
     transliteration: is'rāīla
   15:
-    arabic: اعۡبُدُوا
+    arabic: ٱعۡبُدُواْ
     translation: Worship
     transliteration: uʿ'budū
   16:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   17:
-    arabic: رَبِّىۡ
+    arabic: رَبِّي
     translation: my Lord
     transliteration: rabbī
   18:
-    arabic: وَرَبَّكُمۡ​ ؕ
+    arabic: وَرَبَّكُمۡۖ
     translation: and your Lord
     transliteration: warabbakum
   19:
-    arabic: اِنَّهٗ
+    arabic: إِنَّهُۥ
     translation: Indeed, he
     transliteration: innahu
   20:
-    arabic: مَنۡ
+    arabic: مَن
     translation: who
     transliteration: man
   21:
-    arabic: يُّشۡرِكۡ
+    arabic: يُشۡرِكۡ
     translation: associates partners
     transliteration: yush'rik
   22:
-    arabic: بِاللّٰهِ
+    arabic: بِٱللَّهِ
     translation: with Allah
     transliteration: bil-lahi
   23:
@@ -106,7 +106,7 @@ word_by_word:
     translation: (has) forbidden
     transliteration: ḥarrama
   25:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   26:
@@ -114,15 +114,15 @@ word_by_word:
     translation: for him
     transliteration: ʿalayhi
   27:
-    arabic: الۡجَـنَّةَ
+    arabic: ٱلۡجَنَّةَ
     translation: Paradise
     transliteration: l-janata
   28:
-    arabic: وَمَاۡوٰٮهُ
+    arabic: وَمَأۡوَىٰهُ
     translation: and his abode
     transliteration: wamawāhu
   29:
-    arabic: النَّارُ​ ؕ
+    arabic: ٱلنَّارُۖ
     translation: (will be) the Fire
     transliteration: l-nāru
   30:
@@ -130,7 +130,7 @@ word_by_word:
     translation: And not
     transliteration: wamā
   31:
-    arabic: لِلظّٰلِمِيۡنَ
+    arabic: لِلظَّٰلِمِينَ
     translation: for the wrongdoers
     transliteration: lilẓẓālimīna
   32:
@@ -138,7 +138,7 @@ word_by_word:
     translation: any
     transliteration: min
   33:
-    arabic: اَنۡصَارٍ‏
+    arabic: أَنصَارٖ
     translation: helpers
     transliteration: anṣārin
 ---

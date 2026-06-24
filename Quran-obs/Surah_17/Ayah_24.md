@@ -1,11 +1,11 @@
 ---
-arabic_ayat: وَاخۡفِضۡ لَهُمَا جَنَاحَ الذُّلِّ مِنَ الرَّحۡمَةِ وَقُلْ رَّبِّ ارۡحَمۡهُمَا
-  كَمَا رَبَّيٰنِىۡ صَغِيۡرًا ؕ‏
+arabic_ayat: وَٱخۡفِضۡ لَهُمَا جَنَاحَ ٱلذُّلِّ مِنَ ٱلرَّحۡمَةِ وَقُل رَّبِّ ٱرۡحَمۡهُمَا
+  كَمَا رَبَّيَانِي صَغِيرٗا
 sentence_translation: And be humble with them out of mercy, and pray, “My Lord! Be
   merciful to them as they raised me when I was young.”
 word_by_word:
   1:
-    arabic: وَاخۡفِضۡ
+    arabic: وَٱخۡفِضۡ
     translation: And lower
     transliteration: wa-ikh'fiḍ
   2:
@@ -17,7 +17,7 @@ word_by_word:
     translation: (the) wing
     transliteration: janāḥa
   4:
-    arabic: الذُّلِّ
+    arabic: ٱلذُّلِّ
     translation: (of) humility
     transliteration: l-dhuli
   5:
@@ -25,11 +25,11 @@ word_by_word:
     translation: (out) of
     transliteration: mina
   6:
-    arabic: الرَّحۡمَةِ
+    arabic: ٱلرَّحۡمَةِ
     translation: '[the] mercy'
     transliteration: l-raḥmati
   7:
-    arabic: وَقُلْ
+    arabic: وَقُل
     translation: and say
     transliteration: waqul
   8:
@@ -37,7 +37,7 @@ word_by_word:
     translation: My Lord
     transliteration: rabbi
   9:
-    arabic: ارۡحَمۡهُمَا
+    arabic: ٱرۡحَمۡهُمَا
     translation: Have mercy on both of them
     transliteration: ir'ḥamhumā
   10:
@@ -45,11 +45,11 @@ word_by_word:
     translation: as
     transliteration: kamā
   11:
-    arabic: رَبَّيٰنِىۡ
+    arabic: رَبَّيَانِي
     translation: they brought me up
     transliteration: rabbayānī
   12:
-    arabic: صَغِيۡرًا ؕ‏
+    arabic: صَغِيرٗا
     translation: (when I was) small
     transliteration: ṣaghīran
 ---

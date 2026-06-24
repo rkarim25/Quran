@@ -1,8 +1,8 @@
 ---
-arabic_ayat: وَكَذٰلِكَ اَعۡثَرۡنَا عَلَيۡهِمۡ لِيَـعۡلَمُوۡۤا اَنَّ وَعۡدَ اللّٰهِ
-  حَقٌّ وَّاَنَّ السَّاعَةَ لَا رَيۡبَ فِيۡهَا ​ۚ اِذۡ يَتَـنَازَعُوۡنَ بَيۡنَهُمۡ
-  اَمۡرَهُمۡ​ فَقَالُوۡا ابۡنُوۡا عَلَيۡهِمۡ بُنۡيَانًـا ​ ؕ رَبُّهُمۡ اَعۡلَمُ بِهِمۡ​ؕ
-  قَالَ الَّذِيۡنَ غَلَبُوۡا عَلٰٓى اَمۡرِهِمۡ لَـنَـتَّخِذَنَّ عَلَيۡهِمۡ مَّسۡجِدًا‏
+arabic_ayat: وَكَذَٰلِكَ أَعۡثَرۡنَا عَلَيۡهِمۡ لِيَعۡلَمُوٓاْ أَنَّ وَعۡدَ ٱللَّهِ
+  حَقّٞ وَأَنَّ ٱلسَّاعَةَ لَا رَيۡبَ فِيهَآ إِذۡ يَتَنَٰزَعُونَ بَيۡنَهُمۡ أَمۡرَهُمۡۖ
+  فَقَالُواْ ٱبۡنُواْ عَلَيۡهِم بُنۡيَٰنٗاۖ رَّبُّهُمۡ أَعۡلَمُ بِهِمۡۚ قَالَ ٱلَّذِينَ
+  غَلَبُواْ عَلَىٰٓ أَمۡرِهِمۡ لَنَتَّخِذَنَّ عَلَيۡهِم مَّسۡجِدٗا
 sentence_translation: That is how We caused them to be discovered so that their people
   might know that Allah’s promise ˹of resurrection˺ is true and that there is no doubt
   about the Hour. When the people disputed with each other about the case of the youth
@@ -11,11 +11,11 @@ sentence_translation: That is how We caused them to be discovered so that their 
   a place of worship over them.”
 word_by_word:
   1:
-    arabic: وَكَذٰلِكَ
+    arabic: وَكَذَٰلِكَ
     translation: And similarly
     transliteration: wakadhālika
   2:
-    arabic: اَعۡثَرۡنَا
+    arabic: أَعۡثَرۡنَا
     translation: We made known
     transliteration: aʿtharnā
   3:
@@ -23,11 +23,11 @@ word_by_word:
     translation: about them
     transliteration: ʿalayhim
   4:
-    arabic: لِيَـعۡلَمُوۡۤا
+    arabic: لِيَعۡلَمُوٓاْ
     translation: that they might know
     transliteration: liyaʿlamū
   5:
-    arabic: اَنَّ
+    arabic: أَنَّ
     translation: that
     transliteration: anna
   6:
@@ -35,19 +35,19 @@ word_by_word:
     translation: (the) Promise
     transliteration: waʿda
   7:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (of) Allah
     transliteration: l-lahi
   8:
-    arabic: حَقٌّ
+    arabic: حَقّٞ
     translation: (is) true
     transliteration: ḥaqqun
   9:
-    arabic: وَّاَنَّ
+    arabic: وَأَنَّ
     translation: and that
     transliteration: wa-anna
   10:
-    arabic: السَّاعَةَ
+    arabic: ٱلسَّاعَةَ
     translation: (about) the Hour
     transliteration: l-sāʿata
   11:
@@ -59,15 +59,15 @@ word_by_word:
     translation: doubt
     transliteration: rayba
   13:
-    arabic: فِيۡهَا ​ۚ
+    arabic: فِيهَآ
     translation: in it
     transliteration: fīhā
   14:
-    arabic: اِذۡ
+    arabic: إِذۡ
     translation: When
     transliteration: idh
   15:
-    arabic: يَتَـنَازَعُوۡنَ
+    arabic: يَتَنَٰزَعُونَ
     translation: they disputed
     transliteration: yatanāzaʿūna
   16:
@@ -75,35 +75,35 @@ word_by_word:
     translation: among themselves
     transliteration: baynahum
   17:
-    arabic: اَمۡرَهُمۡ​
+    arabic: أَمۡرَهُمۡۖ
     translation: about their affair
     transliteration: amrahum
   18:
-    arabic: فَقَالُوۡا
+    arabic: فَقَالُواْ
     translation: and they said
     transliteration: faqālū
   19:
-    arabic: ابۡنُوۡا
+    arabic: ٱبۡنُواْ
     translation: Construct
     transliteration: ib'nū
   20:
-    arabic: عَلَيۡهِمۡ
+    arabic: عَلَيۡهِم
     translation: over them
     transliteration: ʿalayhim
   21:
-    arabic: بُنۡيَانًـا ​ ؕ
+    arabic: بُنۡيَٰنٗاۖ
     translation: a structure
     transliteration: bun'yānan
   22:
-    arabic: رَبُّهُمۡ
+    arabic: رَّبُّهُمۡ
     translation: Their Lord
     transliteration: rabbuhum
   23:
-    arabic: اَعۡلَمُ
+    arabic: أَعۡلَمُ
     translation: knows best
     transliteration: aʿlamu
   24:
-    arabic: بِهِمۡ​ؕ
+    arabic: بِهِمۡۚ
     translation: about them
     transliteration: bihim
   25:
@@ -111,31 +111,31 @@ word_by_word:
     translation: Said
     transliteration: qāla
   26:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   27:
-    arabic: غَلَبُوۡا
+    arabic: غَلَبُواْ
     translation: prevailed
     transliteration: ghalabū
   28:
-    arabic: عَلٰٓى
+    arabic: عَلَىٰٓ
     translation: in
     transliteration: ʿalā
   29:
-    arabic: اَمۡرِهِمۡ
+    arabic: أَمۡرِهِمۡ
     translation: their matter
     transliteration: amrihim
   30:
-    arabic: لَـنَـتَّخِذَنَّ
+    arabic: لَنَتَّخِذَنَّ
     translation: Surely we will take
     transliteration: lanattakhidhanna
   31:
-    arabic: عَلَيۡهِمۡ
+    arabic: عَلَيۡهِم
     translation: over them
     transliteration: ʿalayhim
   32:
-    arabic: مَّسۡجِدًا‏
+    arabic: مَّسۡجِدٗا
     translation: a place of worship
     transliteration: masjidan
 ---

@@ -1,13 +1,13 @@
 ---
-arabic_ayat: يَقُوۡلُ اَءِ نَّكَ لَمِنَ الۡمُصَدِّقِيۡنَ‏
+arabic_ayat: يَقُولُ أَءِنَّكَ لَمِنَ ٱلۡمُصَدِّقِينَ
 sentence_translation: who used to ask ˹me˺, ‘Do you actually believe ˹in resurrection˺?
 word_by_word:
   1:
-    arabic: يَقُوۡلُ
+    arabic: يَقُولُ
     translation: Who (would) say
     transliteration: yaqūlu
   2:
-    arabic: اَءِ نَّكَ
+    arabic: أَءِنَّكَ
     translation: Are you indeed
     transliteration: a-innaka
   3:
@@ -15,7 +15,7 @@ word_by_word:
     translation: surely of
     transliteration: lamina
   4:
-    arabic: الۡمُصَدِّقِيۡنَ‏
+    arabic: ٱلۡمُصَدِّقِينَ
     translation: those who believe
     transliteration: l-muṣadiqīna
 ---

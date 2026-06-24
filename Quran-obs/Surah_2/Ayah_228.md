@@ -1,10 +1,9 @@
 ---
-arabic_ayat: "وَالۡمُطَلَّقٰتُ يَتَرَ بَّصۡنَ بِاَنۡفُسِهِنَّ ثَلٰثَةَ قُرُوۡٓءٍ ​ؕ\
-  \ وَلَا يَحِلُّ لَهُنَّ اَنۡ يَّكۡتُمۡنَ مَا خَلَقَ اللّٰهُ فِىۡٓ اَرۡحَامِهِنَّ\
-  \ اِنۡ كُنَّ يُؤۡمِنَّ بِاللّٰهِ وَالۡيَوۡمِ الۡاٰخِرِ​ؕ وَبُعُوۡلَتُهُنَّ اَحَقُّ\
-  \ بِرَدِّهِنَّ فِىۡ ذٰ لِكَ اِنۡ اَرَادُوۡٓا اِصۡلَاحًا ​ؕ وَلَهُنَّ مِثۡلُ الَّذِىۡ\
-  \ عَلَيۡهِنَّ بِالۡمَعۡرُوۡفِ​ وَلِلرِّجَالِ عَلَيۡهِنَّ دَرَجَةٌ ​ ؕ وَاللّٰهُ\
-  \ عَزِيۡزٌ حَكِيۡمٌ‏ \uFEFF\uFEFF"
+arabic_ayat: وَٱلۡمُطَلَّقَٰتُ يَتَرَبَّصۡنَ بِأَنفُسِهِنَّ ثَلَٰثَةَ قُرُوٓءٖۚ وَلَا
+  يَحِلُّ لَهُنَّ أَن يَكۡتُمۡنَ مَا خَلَقَ ٱللَّهُ فِيٓ أَرۡحَامِهِنَّ إِن كُنَّ
+  يُؤۡمِنَّ بِٱللَّهِ وَٱلۡيَوۡمِ ٱلۡأٓخِرِۚ وَبُعُولَتُهُنَّ أَحَقُّ بِرَدِّهِنَّ
+  فِي ذَٰلِكَ إِنۡ أَرَادُوٓاْ إِصۡلَٰحٗاۚ وَلَهُنَّ مِثۡلُ ٱلَّذِي عَلَيۡهِنَّ بِٱلۡمَعۡرُوفِۚ
+  وَلِلرِّجَالِ عَلَيۡهِنَّ دَرَجَةٞۗ وَٱللَّهُ عَزِيزٌ حَكِيمٌ
 sentence_translation: Divorced women must wait three monthly cycles ˹before they can
   re-marry˺. It is not lawful for them to conceal what Allah has created in their
   wombs, if they ˹truly˺ believe in Allah and the Last Day. And their husbands reserve
@@ -13,23 +12,23 @@ sentence_translation: Divorced women must wait three monthly cycles ˹before the
   above them. And Allah is Almighty, All-Wise.
 word_by_word:
   1:
-    arabic: وَالۡمُطَلَّقٰتُ
+    arabic: وَٱلۡمُطَلَّقَٰتُ
     translation: And the women who are divorced
     transliteration: wal-muṭalaqātu
   2:
-    arabic: يَتَرَ بَّصۡنَ
+    arabic: يَتَرَبَّصۡنَ
     translation: shall wait
     transliteration: yatarabbaṣna
   3:
-    arabic: بِاَنۡفُسِهِنَّ
+    arabic: بِأَنفُسِهِنَّ
     translation: concerning themselves
     transliteration: bi-anfusihinna
   4:
-    arabic: ثَلٰثَةَ
+    arabic: ثَلَٰثَةَ
     translation: (for) three
     transliteration: thalāthata
   5:
-    arabic: قُرُوۡٓءٍ ​ؕ
+    arabic: قُرُوٓءٖۚ
     translation: monthly periods
     transliteration: qurūin
   6:
@@ -45,11 +44,11 @@ word_by_word:
     translation: for them
     transliteration: lahunna
   9:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that
     transliteration: an
   10:
-    arabic: يَّكۡتُمۡنَ
+    arabic: يَكۡتُمۡنَ
     translation: they conceal
     transliteration: yaktum'na
   11:
@@ -61,19 +60,19 @@ word_by_word:
     translation: (has been) created
     transliteration: khalaqa
   13:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: (by) Allah
     transliteration: l-lahu
   14:
-    arabic: فِىۡٓ
+    arabic: فِيٓ
     translation: in
     transliteration: fī
   15:
-    arabic: اَرۡحَامِهِنَّ
+    arabic: أَرۡحَامِهِنَّ
     translation: their wombs
     transliteration: arḥāmihinna
   16:
-    arabic: اِنۡ
+    arabic: إِن
     translation: if
     transliteration: in
   17:
@@ -85,23 +84,23 @@ word_by_word:
     translation: believe
     transliteration: yu'minna
   19:
-    arabic: بِاللّٰهِ
+    arabic: بِٱللَّهِ
     translation: in Allah
     transliteration: bil-lahi
   20:
-    arabic: وَالۡيَوۡمِ
+    arabic: وَٱلۡيَوۡمِ
     translation: and the Day
     transliteration: wal-yawmi
   21:
-    arabic: الۡاٰخِرِ​ؕ
+    arabic: ٱلۡأٓخِرِۚ
     translation: '[the] Last'
     transliteration: l-ākhiri
   22:
-    arabic: وَبُعُوۡلَتُهُنَّ
+    arabic: وَبُعُولَتُهُنَّ
     translation: And their husbands
     transliteration: wabuʿūlatuhunna
   23:
-    arabic: اَحَقُّ
+    arabic: أَحَقُّ
     translation: (have) better right
     transliteration: aḥaqqu
   24:
@@ -109,23 +108,23 @@ word_by_word:
     translation: to take them back
     transliteration: biraddihinna
   25:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   26:
-    arabic: ذٰ لِكَ
+    arabic: ذَٰلِكَ
     translation: that (period)
     transliteration: dhālika
   27:
-    arabic: اِنۡ
+    arabic: إِنۡ
     translation: if
     transliteration: in
   28:
-    arabic: اَرَادُوۡٓا
+    arabic: أَرَادُوٓاْ
     translation: they wish
     transliteration: arādū
   29:
-    arabic: اِصۡلَاحًا ​ؕ
+    arabic: إِصۡلَٰحٗاۚ
     translation: (for) reconciliation
     transliteration: iṣ'lāḥan
   30:
@@ -137,7 +136,7 @@ word_by_word:
     translation: (is the) like
     transliteration: mith'lu
   32:
-    arabic: الَّذِىۡ
+    arabic: ٱلَّذِي
     translation: (of) that which
     transliteration: alladhī
   33:
@@ -145,7 +144,7 @@ word_by_word:
     translation: (is) on them
     transliteration: ʿalayhinna
   34:
-    arabic: بِالۡمَعۡرُوۡفِ​
+    arabic: بِٱلۡمَعۡرُوفِۚ
     translation: in a reasonable manner
     transliteration: bil-maʿrūfi
   35:
@@ -157,19 +156,19 @@ word_by_word:
     translation: over them
     transliteration: ʿalayhinna
   37:
-    arabic: دَرَجَةٌ ​ ؕ
+    arabic: دَرَجَةٞۗ
     translation: (is) a degree
     transliteration: darajatun
   38:
-    arabic: وَاللّٰهُ
+    arabic: وَٱللَّهُ
     translation: And Allah
     transliteration: wal-lahu
   39:
-    arabic: عَزِيۡزٌ
+    arabic: عَزِيزٌ
     translation: (is) All-Mighty
     transliteration: ʿazīzun
   40:
-    arabic: "حَكِيۡمٌ‏ \uFEFF\uFEFF"
+    arabic: حَكِيمٌ
     translation: All-Wise
     transliteration: ḥakīmun
 ---

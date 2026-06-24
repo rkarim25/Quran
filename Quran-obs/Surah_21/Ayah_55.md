@@ -1,26 +1,26 @@
 ---
-arabic_ayat: قَالُوۡۤا اَجِئۡتَـنَا بِالۡحَـقِّ اَمۡ اَنۡتَ مِنَ اللّٰعِبِيۡنَ‏
+arabic_ayat: قَالُوٓاْ أَجِئۡتَنَا بِٱلۡحَقِّ أَمۡ أَنتَ مِنَ ٱللَّٰعِبِينَ
 sentence_translation: They asked, “Have you come to us with the truth, or is this
   a joke?”
 word_by_word:
   1:
-    arabic: قَالُوۡۤا
+    arabic: قَالُوٓاْ
     translation: They said
     transliteration: qālū
   2:
-    arabic: اَجِئۡتَـنَا
+    arabic: أَجِئۡتَنَا
     translation: Have you come to us
     transliteration: aji'tanā
   3:
-    arabic: بِالۡحَـقِّ
+    arabic: بِٱلۡحَقِّ
     translation: with the truth
     transliteration: bil-ḥaqi
   4:
-    arabic: اَمۡ
+    arabic: أَمۡ
     translation: or
     transliteration: am
   5:
-    arabic: اَنۡتَ
+    arabic: أَنتَ
     translation: you
     transliteration: anta
   6:
@@ -28,7 +28,7 @@ word_by_word:
     translation: (are) of
     transliteration: mina
   7:
-    arabic: اللّٰعِبِيۡنَ‏
+    arabic: ٱللَّٰعِبِينَ
     translation: those who play
     transliteration: l-lāʿibīna
 ---

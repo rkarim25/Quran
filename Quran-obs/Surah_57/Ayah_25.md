@@ -1,8 +1,8 @@
 ---
-arabic_ayat: لَـقَدۡ اَرۡسَلۡنَا رُسُلَنَا بِالۡبَيِّنٰتِ وَاَنۡزَلۡنَا مَعَهُمُ الۡكِتٰبَ
-  وَالۡمِيۡزَانَ لِيَقُوۡمَ النَّاسُ بِالۡقِسۡطِ​ۚ وَاَنۡزَلۡنَا الۡحَـدِيۡدَ فِيۡهِ
-  بَاۡسٌ شَدِيۡدٌ وَّمَنَافِعُ لِلنَّاسِ وَلِيَـعۡلَمَ اللّٰهُ مَنۡ يَّنۡصُرُهٗ وَ
-  رُسُلَهٗ بِالۡغَيۡبِ​ ؕ اِنَّ اللّٰهَ قَوِىٌّ عَزِيۡزٌ‏
+arabic_ayat: لَقَدۡ أَرۡسَلۡنَا رُسُلَنَا بِٱلۡبَيِّنَٰتِ وَأَنزَلۡنَا مَعَهُمُ ٱلۡكِتَٰبَ
+  وَٱلۡمِيزَانَ لِيَقُومَ ٱلنَّاسُ بِٱلۡقِسۡطِۖ وَأَنزَلۡنَا ٱلۡحَدِيدَ فِيهِ بَأۡسٞ
+  شَدِيدٞ وَمَنَٰفِعُ لِلنَّاسِ وَلِيَعۡلَمَ ٱللَّهُ مَن يَنصُرُهُۥ وَرُسُلَهُۥ بِٱلۡغَيۡبِۚ
+  إِنَّ ٱللَّهَ قَوِيٌّ عَزِيزٞ
 sentence_translation: Indeed, We sent Our messengers with clear proofs, and with them
   We sent down the Scripture and the balance ˹of justice˺ so that people may administer
   justice. And We sent down iron with its great might, benefits for humanity, and
@@ -10,11 +10,11 @@ sentence_translation: Indeed, We sent Our messengers with clear proofs, and with
   without seeing Him. Surely Allah is All-Powerful, Almighty.
 word_by_word:
   1:
-    arabic: لَـقَدۡ
+    arabic: لَقَدۡ
     translation: Certainly
     transliteration: laqad
   2:
-    arabic: اَرۡسَلۡنَا
+    arabic: أَرۡسَلۡنَا
     translation: We sent
     transliteration: arsalnā
   3:
@@ -22,11 +22,11 @@ word_by_word:
     translation: Our Messengers
     transliteration: rusulanā
   4:
-    arabic: بِالۡبَيِّنٰتِ
+    arabic: بِٱلۡبَيِّنَٰتِ
     translation: with clear proofs
     transliteration: bil-bayināti
   5:
-    arabic: وَاَنۡزَلۡنَا
+    arabic: وَأَنزَلۡنَا
     translation: and We sent down
     transliteration: wa-anzalnā
   6:
@@ -34,47 +34,47 @@ word_by_word:
     translation: with them
     transliteration: maʿahumu
   7:
-    arabic: الۡكِتٰبَ
+    arabic: ٱلۡكِتَٰبَ
     translation: the Scripture
     transliteration: l-kitāba
   8:
-    arabic: وَالۡمِيۡزَانَ
+    arabic: وَٱلۡمِيزَانَ
     translation: and the Balance
     transliteration: wal-mīzāna
   9:
-    arabic: لِيَقُوۡمَ
+    arabic: لِيَقُومَ
     translation: that may establish
     transliteration: liyaqūma
   10:
-    arabic: النَّاسُ
+    arabic: ٱلنَّاسُ
     translation: the people
     transliteration: l-nāsu
   11:
-    arabic: بِالۡقِسۡطِ​ۚ
+    arabic: بِٱلۡقِسۡطِۖ
     translation: justice
     transliteration: bil-qis'ṭi
   12:
-    arabic: وَاَنۡزَلۡنَا
+    arabic: وَأَنزَلۡنَا
     translation: And We sent down
     transliteration: wa-anzalnā
   13:
-    arabic: الۡحَـدِيۡدَ
+    arabic: ٱلۡحَدِيدَ
     translation: '[the] iron'
     transliteration: l-ḥadīda
   14:
-    arabic: فِيۡهِ
+    arabic: فِيهِ
     translation: wherein
     transliteration: fīhi
   15:
-    arabic: بَاۡسٌ
+    arabic: بَأۡسٞ
     translation: (is) power
     transliteration: basun
   16:
-    arabic: شَدِيۡدٌ
+    arabic: شَدِيدٞ
     translation: mighty
     transliteration: shadīdun
   17:
-    arabic: وَّمَنَافِعُ
+    arabic: وَمَنَٰفِعُ
     translation: and benefits
     transliteration: wamanāfiʿu
   18:
@@ -82,43 +82,43 @@ word_by_word:
     translation: for the people
     transliteration: lilnnāsi
   19:
-    arabic: وَلِيَـعۡلَمَ
+    arabic: وَلِيَعۡلَمَ
     translation: and so that Allah may make evident
     transliteration: waliyaʿlama
   20:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: and so that Allah may make evident
     transliteration: l-lahu
   21:
-    arabic: مَنۡ
+    arabic: مَن
     translation: (he) who
     transliteration: man
   22:
-    arabic: يَّنۡصُرُهٗ
+    arabic: يَنصُرُهُۥ
     translation: helps Him
     transliteration: yanṣuruhu
   23:
-    arabic: وَ رُسُلَهٗ
+    arabic: وَرُسُلَهُۥ
     translation: and His Messengers
     transliteration: warusulahu
   24:
-    arabic: بِالۡغَيۡبِ​ ؕ
+    arabic: بِٱلۡغَيۡبِۚ
     translation: unseen
     transliteration: bil-ghaybi
   25:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   26:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   27:
-    arabic: قَوِىٌّ
+    arabic: قَوِيٌّ
     translation: (is) All-Strong
     transliteration: qawiyyun
   28:
-    arabic: عَزِيۡزٌ‏
+    arabic: عَزِيزٞ
     translation: All-Mighty
     transliteration: ʿazīzun
 ---

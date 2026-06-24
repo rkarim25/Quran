@@ -1,27 +1,26 @@
 ---
-arabic_ayat: "اَوۡ يَاۡخُذَهُمۡ عَلٰى تَخَوُّفٍؕ فَاِنَّ رَبَّكُمۡ لَرَءُوۡفٌ رَّحِيۡمٌ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: أَوۡ يَأۡخُذَهُمۡ عَلَىٰ تَخَوُّفٖ فَإِنَّ رَبَّكُمۡ لَرَءُوفٞ رَّحِيمٌ
 sentence_translation: Or that He will not destroy them gradually? But your Lord is
   truly Ever Gracious, Most Merciful.
 word_by_word:
   1:
-    arabic: اَوۡ
+    arabic: أَوۡ
     translation: Or
     transliteration: aw
   2:
-    arabic: يَاۡخُذَهُمۡ
+    arabic: يَأۡخُذَهُمۡ
     translation: that He may seize them
     transliteration: yakhudhahum
   3:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: with
     transliteration: ʿalā
   4:
-    arabic: تَخَوُّفٍؕ
+    arabic: تَخَوُّفٖ
     translation: a gradual wasting
     transliteration: takhawwufin
   5:
-    arabic: فَاِنَّ
+    arabic: فَإِنَّ
     translation: But indeed
     transliteration: fa-inna
   6:
@@ -29,11 +28,11 @@ word_by_word:
     translation: your Lord
     transliteration: rabbakum
   7:
-    arabic: لَرَءُوۡفٌ
+    arabic: لَرَءُوفٞ
     translation: (is) surely Full of Kindness
     transliteration: laraūfun
   8:
-    arabic: "رَّحِيۡمٌ‏ \uFEFF\uFEFF"
+    arabic: رَّحِيمٌ
     translation: Most Merciful
     transliteration: raḥīmun
 ---

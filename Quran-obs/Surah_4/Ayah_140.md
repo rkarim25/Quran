@@ -1,8 +1,8 @@
 ---
-arabic_ayat: وَقَدۡ نَزَّلَ عَلَيۡكُمۡ فِى الۡـكِتٰبِ اَنۡ اِذَا سَمِعۡتُمۡ اٰيٰتِ
-  اللّٰهِ يُكۡفَرُ بِهَا وَيُسۡتَهۡزَاُبِهَا فَلَا تَقۡعُدُوۡا مَعَهُمۡ حَتّٰى يَخُوۡضُوۡا
-  فِىۡ حَدِيۡثٍ غَيۡرِهٖۤ​ ​ ۖ اِنَّكُمۡ اِذًا مِّثۡلُهُمۡ​ؕ اِنَّ اللّٰهَ جَامِعُ​​​الۡمُنٰفِقِيۡنَ
-  وَالۡكٰفِرِيۡنَ فِىۡ جَهَـنَّمَ جَمِيۡعَاۨ ۙ‏
+arabic_ayat: وَقَدۡ نَزَّلَ عَلَيۡكُمۡ فِي ٱلۡكِتَٰبِ أَنۡ إِذَا سَمِعۡتُمۡ ءَايَٰتِ
+  ٱللَّهِ يُكۡفَرُ بِهَا وَيُسۡتَهۡزَأُ بِهَا فَلَا تَقۡعُدُواْ مَعَهُمۡ حَتَّىٰ يَخُوضُواْ
+  فِي حَدِيثٍ غَيۡرِهِۦٓ إِنَّكُمۡ إِذٗا مِّثۡلُهُمۡۗ إِنَّ ٱللَّهَ جَامِعُ ٱلۡمُنَٰفِقِينَ
+  وَٱلۡكَٰفِرِينَ فِي جَهَنَّمَ جَمِيعًا
 sentence_translation: He has already revealed to you in the Book that when you hear
   Allah’s revelations being denied or ridiculed, then do not sit in that company unless
   they engage in a different topic, or else you will be like them. Surely Allah will
@@ -21,31 +21,31 @@ word_by_word:
     translation: to you
     transliteration: ʿalaykum
   4:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   5:
-    arabic: الۡـكِتٰبِ
+    arabic: ٱلۡكِتَٰبِ
     translation: the Book
     transliteration: l-kitābi
   6:
-    arabic: اَنۡ
+    arabic: أَنۡ
     translation: that
     transliteration: an
   7:
-    arabic: اِذَا
+    arabic: إِذَا
     translation: when
     transliteration: idhā
   8:
-    arabic: سَمِعۡتُمۡ
+    arabic: سَمِعۡتُمۡ ءَ
     translation: you hear
     transliteration: samiʿ'tum
   9:
-    arabic: اٰيٰتِ
+    arabic: ايَٰتِ
     translation: (the) Verses
     transliteration: āyāti
   10:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (of) Allah
     transliteration: l-lahi
   11:
@@ -57,7 +57,7 @@ word_by_word:
     translation: '[it]'
     transliteration: bihā
   13:
-    arabic: وَيُسۡتَهۡزَاُ
+    arabic: وَيُسۡتَهۡزَأُ
     translation: and ridiculed
     transliteration: wayus'tahza-u
   14:
@@ -69,7 +69,7 @@ word_by_word:
     translation: then do not
     transliteration: falā
   16:
-    arabic: تَقۡعُدُوۡا
+    arabic: تَقۡعُدُواْ
     translation: sit
     transliteration: taqʿudū
   17:
@@ -77,67 +77,67 @@ word_by_word:
     translation: with them
     transliteration: maʿahum
   18:
-    arabic: حَتّٰى
+    arabic: حَتَّىٰ
     translation: until
     transliteration: ḥattā
   19:
-    arabic: يَخُوۡضُوۡا
+    arabic: يَخُوضُواْ
     translation: they engage
     transliteration: yakhūḍū
   20:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   21:
-    arabic: حَدِيۡثٍ
+    arabic: حَدِيثٍ
     translation: a conversation
     transliteration: ḥadīthin
   22:
-    arabic: غَيۡرِهٖۤ​ ​ ۖ
+    arabic: غَيۡرِهِۦٓ
     translation: other than that
     transliteration: ghayrihi
   23:
-    arabic: اِنَّكُمۡ
+    arabic: إِنَّكُمۡ
     translation: Indeed, you
     transliteration: innakum
   24:
-    arabic: اِذًا
+    arabic: إِذٗا
     translation: then
     transliteration: idhan
   25:
-    arabic: مِّثۡلُهُمۡ​ؕ
+    arabic: مِّثۡلُهُمۡۗ
     translation: (would be) like them
     transliteration: mith'luhum
   26:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   27:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   28:
-    arabic: جَامِعُ​​​
+    arabic: جَامِعُ
     translation: will gather
     transliteration: jāmiʿu
   29:
-    arabic: الۡمُنٰفِقِيۡنَ
+    arabic: ٱلۡمُنَٰفِقِينَ
     translation: the hypocrites
     transliteration: l-munāfiqīna
   30:
-    arabic: وَالۡكٰفِرِيۡنَ
+    arabic: وَٱلۡكَٰفِرِينَ
     translation: and the disbelievers
     transliteration: wal-kāfirīna
   31:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   32:
-    arabic: جَهَـنَّمَ
+    arabic: جَهَنَّمَ
     translation: Hell
     transliteration: jahannama
   33:
-    arabic: جَمِيۡعَاۨ ۙ‏
+    arabic: جَمِيعًا
     translation: all together
     transliteration: jamīʿan
 ---

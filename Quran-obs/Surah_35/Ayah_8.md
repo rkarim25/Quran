@@ -1,7 +1,7 @@
 ---
-arabic_ayat: اَفَمَنۡ زُيِّنَ لَهٗ سُوۡٓءُ عَمَلِهٖ فَرَاٰهُ حَسَنًا ؕ فَاِنَّ اللّٰهَ
-  يُضِلُّ مَنۡ يَّشَآءُ وَيَهۡدِىۡ مَنۡ يَّشَآءُ ​ۖ  فَلَا تَذۡهَبۡ نَـفۡسُكَ عَلَيۡهِمۡ
-  حَسَرٰتٍ ؕ اِنَّ اللّٰهَ عَلِيۡمٌۢ بِمَا يَصۡنَـعُوۡنَ‏
+arabic_ayat: أَفَمَن زُيِّنَ لَهُۥ سُوٓءُ عَمَلِهِۦ فَرَءَاهُ حَسَنٗاۖ فَإِنَّ ٱللَّهَ
+  يُضِلُّ مَن يَشَآءُ وَيَهۡدِي مَن يَشَآءُۖ فَلَا تَذۡهَبۡ نَفۡسُكَ عَلَيۡهِمۡ
+  حَسَرَٰتٍۚ إِنَّ ٱللَّهَ عَلِيمُۢ بِمَا يَصۡنَعُونَ
 sentence_translation: Are those whose evil-doing is made so appealing to them that
   they deem it good ˹like those who are rightly guided˺? ˹It is˺ certainly Allah ˹Who˺
   leaves to stray whoever He wills, and guides whoever He wills. So do not grieve
@@ -9,7 +9,7 @@ sentence_translation: Are those whose evil-doing is made so appealing to them th
   do.
 word_by_word:
   1:
-    arabic: اَفَمَنۡ
+    arabic: أَفَمَن
     translation: 'Then is (he) who '
     transliteration: afaman
   2:
@@ -17,31 +17,31 @@ word_by_word:
     translation: is made fair-seeming
     transliteration: zuyyina
   3:
-    arabic: لَهٗ
+    arabic: لَهُۥ
     translation: to him
     transliteration: lahu
   4:
-    arabic: سُوۡٓءُ
+    arabic: سُوٓءُ
     translation: (the) evil
     transliteration: sūu
   5:
-    arabic: عَمَلِهٖ
+    arabic: عَمَلِهِۦ
     translation: '(of) his deed '
     transliteration: ʿamalihi
   6:
-    arabic: فَرَاٰهُ
+    arabic: فَرَءَاهُ
     translation: so that he sees it
     transliteration: faraāhu
   7:
-    arabic: حَسَنًا ؕ
+    arabic: حَسَنٗاۖ
     translation: (as) good
     transliteration: ḥasanan
   8:
-    arabic: فَاِنَّ
+    arabic: فَإِنَّ
     translation: For indeed
     transliteration: fa-inna
   9:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   10:
@@ -49,23 +49,23 @@ word_by_word:
     translation: lets go astray
     transliteration: yuḍillu
   11:
-    arabic: مَنۡ
+    arabic: مَن
     translation: whom
     transliteration: man
   12:
-    arabic: يَّشَآءُ
+    arabic: يَشَآءُ
     translation: He wills
     transliteration: yashāu
   13:
-    arabic: وَيَهۡدِىۡ
+    arabic: وَيَهۡدِي
     translation: and guides
     transliteration: wayahdī
   14:
-    arabic: مَنۡ
+    arabic: مَن
     translation: whom
     transliteration: man
   15:
-    arabic: يَّشَآءُ ​ۖ 
+    arabic: يَشَآءُۖ
     translation: He wills
     transliteration: yashāu
   16:
@@ -77,7 +77,7 @@ word_by_word:
     translation: go out
     transliteration: tadhhab
   18:
-    arabic: نَـفۡسُكَ
+    arabic: نَفۡسُكَ
     translation: your soul
     transliteration: nafsuka
   19:
@@ -85,19 +85,19 @@ word_by_word:
     translation: for them
     transliteration: ʿalayhim
   20:
-    arabic: حَسَرٰتٍ ؕ
+    arabic: حَسَرَٰتٍۚ
     translation: (in) regrets
     transliteration: ḥasarātin
   21:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   22:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   23:
-    arabic: عَلِيۡمٌۢ
+    arabic: عَلِيمُۢ
     translation: (is) All-Knower
     transliteration: ʿalīmun
   24:
@@ -105,7 +105,7 @@ word_by_word:
     translation: of what
     transliteration: bimā
   25:
-    arabic: يَصۡنَـعُوۡنَ‏
+    arabic: يَصۡنَعُونَ
     translation: they do
     transliteration: yaṣnaʿūna
 ---

@@ -1,17 +1,17 @@
 ---
-arabic_ayat: وَالنَّهَارِ اِذَا جَلّٰٮهَا ۙ‏
+arabic_ayat: وَٱلنَّهَارِ إِذَا جَلَّىٰهَا
 sentence_translation: and the day as it unveils it,
 word_by_word:
   1:
-    arabic: وَالنَّهَارِ
+    arabic: وَٱلنَّهَارِ
     translation: And the day
     transliteration: wal-nahāri
   2:
-    arabic: اِذَا
+    arabic: إِذَا
     translation: when
     transliteration: idhā
   3:
-    arabic: جَلّٰٮهَا ۙ‏
+    arabic: جَلَّىٰهَا
     translation: it displays it
     transliteration: jallāhā
 ---

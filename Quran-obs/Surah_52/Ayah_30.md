@@ -1,26 +1,26 @@
 ---
-arabic_ayat: اَمۡ يَقُوۡلُوۡنَ شَاعِرٌ نَّتَـرَبَّصُ بِهٖ رَيۡبَ الۡمَنُوۡنِ‏
+arabic_ayat: أَمۡ يَقُولُونَ شَاعِرٞ نَّتَرَبَّصُ بِهِۦ رَيۡبَ ٱلۡمَنُونِ
 sentence_translation: Or do they say, “˹He is˺ a poet, for whom we ˹eagerly˺ await
   an ill-fate!”?
 word_by_word:
   1:
-    arabic: اَمۡ
+    arabic: أَمۡ
     translation: Or
     transliteration: am
   2:
-    arabic: يَقُوۡلُوۡنَ
+    arabic: يَقُولُونَ
     translation: (do) they say
     transliteration: yaqūlūna
   3:
-    arabic: شَاعِرٌ
+    arabic: شَاعِرٞ
     translation: A poet
     transliteration: shāʿirun
   4:
-    arabic: نَّتَـرَبَّصُ
+    arabic: نَّتَرَبَّصُ
     translation: we wait
     transliteration: natarabbaṣu
   5:
-    arabic: بِهٖ
+    arabic: بِهِۦ
     translation: for him
     transliteration: bihi
   6:
@@ -28,7 +28,7 @@ word_by_word:
     translation: a misfortune of time
     transliteration: rayba
   7:
-    arabic: الۡمَنُوۡنِ‏
+    arabic: ٱلۡمَنُونِ
     translation: a misfortune of time
     transliteration: l-manūni
 ---

@@ -1,13 +1,13 @@
 ---
-arabic_ayat: وَالَّذِيۡنَ يُصَدِّقُوۡنَ بِيَوۡمِ الدِّيۡنِۙ‏
+arabic_ayat: وَٱلَّذِينَ يُصَدِّقُونَ بِيَوۡمِ ٱلدِّينِ
 sentence_translation: and who ˹firmly˺ believe in the Day of Judgment;
 word_by_word:
   1:
-    arabic: وَالَّذِيۡنَ
+    arabic: وَٱلَّذِينَ
     translation: And those who
     transliteration: wa-alladhīna
   2:
-    arabic: يُصَدِّقُوۡنَ
+    arabic: يُصَدِّقُونَ
     translation: accept (the) truth
     transliteration: yuṣaddiqūna
   3:
@@ -15,7 +15,7 @@ word_by_word:
     translation: (of the) Day
     transliteration: biyawmi
   4:
-    arabic: الدِّيۡنِۙ‏
+    arabic: ٱلدِّينِ
     translation: (of) the Judgment
     transliteration: l-dīni
 ---

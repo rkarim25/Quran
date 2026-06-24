@@ -1,7 +1,7 @@
 ---
-arabic_ayat: ثُمَّ اَنۡزَلَ اللّٰهُ سَكِيۡنَـتَهٗ عَلٰى رَسُوۡلِهٖ وَعَلَى الۡمُؤۡمِنِيۡنَ
-  وَاَنۡزَلَ جُنُوۡدًا لَّمۡ تَرَوۡهَا​ ۚ وَعَذَّبَ الَّذِيۡنَ كَفَرُوۡا​ ؕ وَذٰ لِكَ
-  جَزَآءُ الۡـكٰفِرِيۡنَ‏
+arabic_ayat: ثُمَّ أَنزَلَ ٱللَّهُ سَكِينَتَهُۥ عَلَىٰ رَسُولِهِۦ وَعَلَى ٱلۡمُؤۡمِنِينَ
+  وَأَنزَلَ جُنُودٗا لَّمۡ تَرَوۡهَا وَعَذَّبَ ٱلَّذِينَ كَفَرُواْۚ وَذَٰلِكَ جَزَآءُ
+  ٱلۡكَٰفِرِينَ
 sentence_translation: Then Allah sent down His reassurance upon His Messenger and
   the believers, and sent down forces you could not see, and punished those who disbelieved.
   Such was the reward of the disbelievers.
@@ -11,23 +11,23 @@ word_by_word:
     translation: Then
     transliteration: thumma
   2:
-    arabic: اَنۡزَلَ
+    arabic: أَنزَلَ
     translation: Allah sent down
     transliteration: anzala
   3:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah sent down
     transliteration: l-lahu
   4:
-    arabic: سَكِيۡنَـتَهٗ
+    arabic: سَكِينَتَهُۥ
     translation: His tranquility
     transliteration: sakīnatahu
   5:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: 'on'
     transliteration: ʿalā
   6:
-    arabic: رَسُوۡلِهٖ
+    arabic: رَسُولِهِۦ
     translation: His Messenger
     transliteration: rasūlihi
   7:
@@ -35,15 +35,15 @@ word_by_word:
     translation: and on
     transliteration: waʿalā
   8:
-    arabic: الۡمُؤۡمِنِيۡنَ
+    arabic: ٱلۡمُؤۡمِنِينَ
     translation: the believers
     transliteration: l-mu'minīna
   9:
-    arabic: وَاَنۡزَلَ
+    arabic: وَأَنزَلَ
     translation: and sent down
     transliteration: wa-anzala
   10:
-    arabic: جُنُوۡدًا
+    arabic: جُنُودٗا
     translation: forces
     transliteration: junūdan
   11:
@@ -51,7 +51,7 @@ word_by_word:
     translation: which you did not see
     transliteration: lam
   12:
-    arabic: تَرَوۡهَا​ ۚ
+    arabic: تَرَوۡهَا
     translation: which you did not see
     transliteration: tarawhā
   13:
@@ -59,15 +59,15 @@ word_by_word:
     translation: and He punished
     transliteration: waʿadhaba
   14:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   15:
-    arabic: كَفَرُوۡا​ ؕ
+    arabic: كَفَرُواْۚ
     translation: disbelieved
     transliteration: kafarū
   16:
-    arabic: وَذٰ لِكَ
+    arabic: وَذَٰلِكَ
     translation: And that
     transliteration: wadhālika
   17:
@@ -75,7 +75,7 @@ word_by_word:
     translation: (is) the recompense
     transliteration: jazāu
   18:
-    arabic: الۡـكٰفِرِيۡنَ‏
+    arabic: ٱلۡكَٰفِرِينَ
     translation: (of) the disbelievers
     transliteration: l-kāfirīna
 ---

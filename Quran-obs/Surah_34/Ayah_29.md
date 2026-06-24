@@ -1,34 +1,34 @@
 ---
-arabic_ayat: وَيَقُوۡلُوۡنَ مَتٰى هٰذَا الۡوَعۡدُ اِنۡ كُنۡتُمۡ صٰدِقِيۡنَ‏
+arabic_ayat: وَيَقُولُونَ مَتَىٰ هَٰذَا ٱلۡوَعۡدُ إِن كُنتُمۡ صَٰدِقِينَ
 sentence_translation: And they ask ˹the believers˺, “When will this threat come to
   pass, if what you say is true?”
 word_by_word:
   1:
-    arabic: وَيَقُوۡلُوۡنَ
+    arabic: وَيَقُولُونَ
     translation: And they say
     transliteration: wayaqūlūna
   2:
-    arabic: مَتٰى
+    arabic: مَتَىٰ
     translation: When
     transliteration: matā
   3:
-    arabic: هٰذَا
+    arabic: هَٰذَا
     translation: (is) this
     transliteration: hādhā
   4:
-    arabic: الۡوَعۡدُ
+    arabic: ٱلۡوَعۡدُ
     translation: promise
     transliteration: l-waʿdu
   5:
-    arabic: اِنۡ
+    arabic: إِن
     translation: if
     transliteration: in
   6:
-    arabic: كُنۡتُمۡ
+    arabic: كُنتُمۡ
     translation: you are
     transliteration: kuntum
   7:
-    arabic: صٰدِقِيۡنَ‏
+    arabic: صَٰدِقِينَ
     translation: truthful
     transliteration: ṣādiqīna
 ---

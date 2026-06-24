@@ -1,7 +1,7 @@
 ---
-arabic_ayat: لَا جَرَمَ اَنَّمَا تَدۡعُوۡنَنِىۡۤ اِلَيۡهِ لَيۡسَ لَهٗ دَعۡوَةٌ فِى
-  الدُّنۡيَا وَلَا فِى الۡاٰخِرَةِ وَاَنَّ مَرَدَّنَاۤ اِلَى اللّٰهِ وَاَنَّ الۡمُسۡرِفِيۡنَ
-  هُمۡ اَصۡحٰبُ النَّارِ‏
+arabic_ayat: لَا جَرَمَ أَنَّمَا تَدۡعُونَنِيٓ إِلَيۡهِ لَيۡسَ لَهُۥ دَعۡوَةٞ فِي
+  ٱلدُّنۡيَا وَلَا فِي ٱلۡأٓخِرَةِ وَأَنَّ مَرَدَّنَآ إِلَى ٱللَّهِ وَأَنَّ ٱلۡمُسۡرِفِينَ
+  هُمۡ أَصۡحَٰبُ ٱلنَّارِ
 sentence_translation: There is no doubt that whatever ˹idols˺ you invite me to ˹worship˺
   are not worthy to be invoked either in this world or the Hereafter. ˹Undoubtedly,˺
   our return is to Allah, and the transgressors will be the inmates of the Fire.
@@ -15,15 +15,15 @@ word_by_word:
     translation: doubt
     transliteration: jarama
   3:
-    arabic: اَنَّمَا
+    arabic: أَنَّمَا
     translation: that what
     transliteration: annamā
   4:
-    arabic: تَدۡعُوۡنَنِىۡۤ
+    arabic: تَدۡعُونَنِيٓ
     translation: you call me
     transliteration: tadʿūnanī
   5:
-    arabic: اِلَيۡهِ
+    arabic: إِلَيۡهِ
     translation: to it
     transliteration: ilayhi
   6:
@@ -31,19 +31,19 @@ word_by_word:
     translation: not
     transliteration: laysa
   7:
-    arabic: لَهٗ
+    arabic: لَهُۥ
     translation: for it
     transliteration: lahu
   8:
-    arabic: دَعۡوَةٌ
+    arabic: دَعۡوَةٞ
     translation: a claim
     transliteration: daʿwatun
   9:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   10:
-    arabic: الدُّنۡيَا
+    arabic: ٱلدُّنۡيَا
     translation: the world
     transliteration: l-dun'yā
   11:
@@ -51,35 +51,35 @@ word_by_word:
     translation: and not
     transliteration: walā
   12:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   13:
-    arabic: الۡاٰخِرَةِ
+    arabic: ٱلۡأٓخِرَةِ
     translation: the Hereafter
     transliteration: l-ākhirati
   14:
-    arabic: وَاَنَّ
+    arabic: وَأَنَّ
     translation: and that
     transliteration: wa-anna
   15:
-    arabic: مَرَدَّنَاۤ
+    arabic: مَرَدَّنَآ
     translation: our return
     transliteration: maraddanā
   16:
-    arabic: اِلَى
+    arabic: إِلَى
     translation: (is) to
     transliteration: ilā
   17:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   18:
-    arabic: وَاَنَّ
+    arabic: وَأَنَّ
     translation: and that
     transliteration: wa-anna
   19:
-    arabic: الۡمُسۡرِفِيۡنَ
+    arabic: ٱلۡمُسۡرِفِينَ
     translation: 'the transgressors '
     transliteration: l-mus'rifīna
   20:
@@ -87,11 +87,11 @@ word_by_word:
     translation: they
     transliteration: hum
   21:
-    arabic: اَصۡحٰبُ
+    arabic: أَصۡحَٰبُ
     translation: (will be the) companions
     transliteration: aṣḥābu
   22:
-    arabic: النَّارِ‏
+    arabic: ٱلنَّارِ
     translation: (of) the Fire
     transliteration: l-nāri
 ---

@@ -1,10 +1,10 @@
 ---
-arabic_ayat: وَاَعُوۡذُ بِكَ رَبِّ اَنۡ يَّحۡضُرُوۡنِ‏
+arabic_ayat: وَأَعُوذُ بِكَ رَبِّ أَن يَحۡضُرُونِ
 sentence_translation: And I seek refuge in You, my Lord, that they ˹even˺ come near
   me.”
 word_by_word:
   1:
-    arabic: وَاَعُوۡذُ
+    arabic: وَأَعُوذُ
     translation: And I seek refuge
     transliteration: wa-aʿūdhu
   2:
@@ -16,11 +16,11 @@ word_by_word:
     translation: My Lord
     transliteration: rabbi
   4:
-    arabic: اَنۡ
+    arabic: أَن
     translation: Lest
     transliteration: an
   5:
-    arabic: يَّحۡضُرُوۡنِ‏
+    arabic: يَحۡضُرُونِ
     translation: they be present with me
     transliteration: yaḥḍurūni
 ---

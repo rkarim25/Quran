@@ -1,9 +1,9 @@
 ---
-arabic_ayat: لِّـتَسۡلُكُوۡا مِنۡهَا سُبُلًا فِجَاجًا‏
+arabic_ayat: لِّتَسۡلُكُواْ مِنۡهَا سُبُلٗا فِجَاجٗا
 sentence_translation: to walk along its spacious pathways.’”
 word_by_word:
   1:
-    arabic: لِّـتَسۡلُكُوۡا
+    arabic: لِّتَسۡلُكُواْ
     translation: That you may go along
     transliteration: litaslukū
   2:
@@ -11,11 +11,11 @@ word_by_word:
     translation: therein
     transliteration: min'hā
   3:
-    arabic: سُبُلًا
+    arabic: سُبُلٗا
     translation: (in) paths
     transliteration: subulan
   4:
-    arabic: فِجَاجًا‏
+    arabic: فِجَاجٗا
     translation: wide
     transliteration: fijājan
 ---

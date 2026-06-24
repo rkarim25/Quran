@@ -1,19 +1,19 @@
 ---
-arabic_ayat: اِنۡ تَجۡتَنِبُوۡا كَبٰٓٮِٕرَ مَا تُنۡهَوۡنَ عَنۡهُ نُكَفِّرۡ عَنۡكُمۡ
-  سَيِّاٰتِكُمۡ وَنُدۡخِلۡـكُمۡ مُّدۡخَلًا كَرِيۡمًا‏
+arabic_ayat: إِن تَجۡتَنِبُواْ كَبَآئِرَ مَا تُنۡهَوۡنَ عَنۡهُ نُكَفِّرۡ عَنكُمۡ
+  سَيِّـَٔاتِكُمۡ وَنُدۡخِلۡكُم مُّدۡخَلٗا كَرِيمٗا
 sentence_translation: If you avoid the major sins forbidden to you, We will absolve
   you of your ˹lesser˺ misdeeds and admit you into a place of honour. 
 word_by_word:
   1:
-    arabic: اِنۡ
+    arabic: إِن
     translation: If
     transliteration: in
   2:
-    arabic: تَجۡتَنِبُوۡا
+    arabic: تَجۡتَنِبُواْ
     translation: you avoid
     transliteration: tajtanibū
   3:
-    arabic: كَبٰٓٮِٕرَ
+    arabic: كَبَآئِرَ
     translation: great (sins)
     transliteration: kabāira
   4:
@@ -33,23 +33,23 @@ word_by_word:
     translation: We will remove
     transliteration: nukaffir
   8:
-    arabic: عَنۡكُمۡ
+    arabic: عَنكُمۡ
     translation: from you
     transliteration: ʿankum
   9:
-    arabic: سَيِّاٰتِكُمۡ
+    arabic: سَيِّـَٔاتِكُمۡ
     translation: your evil deeds
     transliteration: sayyiātikum
   10:
-    arabic: وَنُدۡخِلۡـكُمۡ
+    arabic: وَنُدۡخِلۡكُم
     translation: and We will admit you
     transliteration: wanud'khil'kum
   11:
-    arabic: مُّدۡخَلًا
+    arabic: مُّدۡخَلٗا
     translation: (to) an entrance
     transliteration: mud'khalan
   12:
-    arabic: كَرِيۡمًا‏
+    arabic: كَرِيمٗا
     translation: noble
     transliteration: karīman
 ---

@@ -1,25 +1,25 @@
 ---
-arabic_ayat: اِذۡ يُغَشِّيۡكُمُ النُّعَاسَ اَمَنَةً مِّنۡهُ وَيُنَزِّلُ عَلَيۡكُمۡ
-  مِّنَ السَّمَآءِ مَآءً لِّيُطَهِّرَكُمۡ بِهٖ وَيُذۡهِبَ عَنۡكُمۡ رِجۡزَ الشَّيۡطٰنِ
-  وَلِيَرۡبِطَ عَلٰى قُلُوۡبِكُمۡ وَيُثَبِّتَ بِهِ الۡاَقۡدَامَؕ‏
+arabic_ayat: إِذۡ يُغَشِّيكُمُ ٱلنُّعَاسَ أَمَنَةٗ مِّنۡهُ وَيُنَزِّلُ عَلَيۡكُم مِّنَ
+  ٱلسَّمَآءِ مَآءٗ لِّيُطَهِّرَكُم بِهِۦ وَيُذۡهِبَ عَنكُمۡ رِجۡزَ ٱلشَّيۡطَٰنِ
+  وَلِيَرۡبِطَ عَلَىٰ قُلُوبِكُمۡ وَيُثَبِّتَ بِهِ ٱلۡأَقۡدَامَ
 sentence_translation: ˹Remember˺ when He caused drowsiness to overcome you, giving
   you serenity. And He sent down rain from the sky to purify you, free you from Satan’s
   whispers, strengthen your hearts, and make ˹your˺ steps firm.
 word_by_word:
   1:
-    arabic: اِذۡ
+    arabic: إِذۡ
     translation: When
     transliteration: idh
   2:
-    arabic: يُغَشِّيۡكُمُ
+    arabic: يُغَشِّيكُمُ
     translation: He covered you
     transliteration: yughashīkumu
   3:
-    arabic: النُّعَاسَ
+    arabic: ٱلنُّعَاسَ
     translation: with [the] slumber
     transliteration: l-nuʿāsa
   4:
-    arabic: اَمَنَةً
+    arabic: أَمَنَةٗ
     translation: a security
     transliteration: amanatan
   5:
@@ -31,7 +31,7 @@ word_by_word:
     translation: and sent down
     transliteration: wayunazzilu
   7:
-    arabic: عَلَيۡكُمۡ
+    arabic: عَلَيۡكُم
     translation: upon you
     transliteration: ʿalaykum
   8:
@@ -39,19 +39,19 @@ word_by_word:
     translation: from
     transliteration: mina
   9:
-    arabic: السَّمَآءِ
+    arabic: ٱلسَّمَآءِ
     translation: the sky
     transliteration: l-samāi
   10:
-    arabic: مَآءً
+    arabic: مَآءٗ
     translation: water
     transliteration: māan
   11:
-    arabic: لِّيُطَهِّرَكُمۡ
+    arabic: لِّيُطَهِّرَكُم
     translation: so that He may purify you
     transliteration: liyuṭahhirakum
   12:
-    arabic: بِهٖ
+    arabic: بِهِۦ
     translation: with it
     transliteration: bihi
   13:
@@ -59,7 +59,7 @@ word_by_word:
     translation: and take away
     transliteration: wayudh'hiba
   14:
-    arabic: عَنۡكُمۡ
+    arabic: عَنكُمۡ
     translation: from you
     transliteration: ʿankum
   15:
@@ -67,7 +67,7 @@ word_by_word:
     translation: evil (suggestions)
     transliteration: rij'za
   16:
-    arabic: الشَّيۡطٰنِ
+    arabic: ٱلشَّيۡطَٰنِ
     translation: (of) the Shaitaan
     transliteration: l-shayṭāni
   17:
@@ -75,11 +75,11 @@ word_by_word:
     translation: And to strengthen
     transliteration: waliyarbiṭa
   18:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: '[on]'
     transliteration: ʿalā
   19:
-    arabic: قُلُوۡبِكُمۡ
+    arabic: قُلُوبِكُمۡ
     translation: your hearts
     transliteration: qulūbikum
   20:
@@ -91,7 +91,7 @@ word_by_word:
     translation: with it
     transliteration: bihi
   22:
-    arabic: الۡاَقۡدَامَؕ‏
+    arabic: ٱلۡأَقۡدَامَ
     translation: your feet
     transliteration: l-aqdāma
 ---

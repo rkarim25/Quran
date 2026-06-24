@@ -1,15 +1,15 @@
 ---
-arabic_ayat: بَلٰى مَنۡ كَسَبَ سَيِّئَةً وَّاَحَاطَتۡ بِهٖ خَطِيْۤـــَٔتُهٗ فَاُولٰٓٮِٕكَ
-  اَصۡحٰبُ النَّارِ​​ۚ هُمۡ فِيۡهَا خٰلِدُوۡنَ‏
+arabic_ayat: بَلَىٰۚ مَن كَسَبَ سَيِّئَةٗ وَأَحَٰطَتۡ بِهِۦ خَطِيٓـَٔتُهُۥ فَأُوْلَٰٓئِكَ
+  أَصۡحَٰبُ ٱلنَّارِۖ هُمۡ فِيهَا خَٰلِدُونَ
 sentence_translation: But no! Those who commit evil and are engrossed in sin will
   be the residents of the Fire. They will be there forever.
 word_by_word:
   1:
-    arabic: بَلٰى
+    arabic: بَلَىٰۚ
     translation: 'Yes'
     transliteration: balā
   2:
-    arabic: مَنۡ
+    arabic: مَن
     translation: whoever
     transliteration: man
   3:
@@ -17,31 +17,31 @@ word_by_word:
     translation: earned
     transliteration: kasaba
   4:
-    arabic: سَيِّئَةً
+    arabic: سَيِّئَةٗ
     translation: evil
     transliteration: sayyi-atan
   5:
-    arabic: وَّاَحَاطَتۡ
+    arabic: وَأَحَٰطَتۡ
     translation: and surrounded him
     transliteration: wa-aḥāṭat
   6:
-    arabic: بِهٖ
+    arabic: بِهِۦ
     translation: with
     transliteration: bihi
   7:
-    arabic: خَطِيْۤـــَٔتُهٗ
+    arabic: خَطِيٓـَٔتُهُۥ
     translation: 'his sins '
     transliteration: khaṭīatuhu
   8:
-    arabic: فَاُولٰٓٮِٕكَ
+    arabic: فَأُوْلَٰٓئِكَ
     translation: '[so] those'
     transliteration: fa-ulāika
   9:
-    arabic: اَصۡحٰبُ
+    arabic: أَصۡحَٰبُ
     translation: (are the) companions
     transliteration: aṣḥābu
   10:
-    arabic: النَّارِ​​ۚ
+    arabic: ٱلنَّارِۖ
     translation: (of) the Fire
     transliteration: l-nāri
   11:
@@ -49,11 +49,11 @@ word_by_word:
     translation: they
     transliteration: hum
   12:
-    arabic: فِيۡهَا
+    arabic: فِيهَا
     translation: in it
     transliteration: fīhā
   13:
-    arabic: خٰلِدُوۡنَ‏
+    arabic: خَٰلِدُونَ
     translation: (will) abide forever
     transliteration: khālidūna
 ---

@@ -1,28 +1,28 @@
 ---
-arabic_ayat: اِنَّاۤ اَنۡزَلۡنَاۤ اِلَيۡكَ الۡكِتٰبَ بِالۡحَـقِّ لِتَحۡكُمَ بَيۡنَ
-  النَّاسِ بِمَاۤ اَرٰٮكَ اللّٰهُ​ ؕ وَلَا تَكُنۡ لِّـلۡخَآٮِٕنِيۡنَ خَصِيۡمًا ۙ‏
+arabic_ayat: إِنَّآ أَنزَلۡنَآ إِلَيۡكَ ٱلۡكِتَٰبَ بِٱلۡحَقِّ لِتَحۡكُمَ بَيۡنَ
+  ٱلنَّاسِ بِمَآ أَرَىٰكَ ٱللَّهُۚ وَلَا تَكُن لِّلۡخَآئِنِينَ خَصِيمٗا
 sentence_translation: Indeed, We have sent down the Book to you ˹O Prophet˺ in truth
   to judge between people by means of what Allah has shown you. So do not be an advocate
   for the deceitful.
 word_by_word:
   1:
-    arabic: اِنَّاۤ
+    arabic: إِنَّآ
     translation: Indeed
     transliteration: innā
   2:
-    arabic: اَنۡزَلۡنَاۤ
+    arabic: أَنزَلۡنَآ
     translation: We (have) sent down
     transliteration: anzalnā
   3:
-    arabic: اِلَيۡكَ
+    arabic: إِلَيۡكَ
     translation: to you
     transliteration: ilayka
   4:
-    arabic: الۡكِتٰبَ
+    arabic: ٱلۡكِتَٰبَ
     translation: the Book
     transliteration: l-kitāba
   5:
-    arabic: بِالۡحَـقِّ
+    arabic: بِٱلۡحَقِّ
     translation: with the truth
     transliteration: bil-ḥaqi
   6:
@@ -34,19 +34,19 @@ word_by_word:
     translation: between
     transliteration: bayna
   8:
-    arabic: النَّاسِ
+    arabic: ٱلنَّاسِ
     translation: the people
     transliteration: l-nāsi
   9:
-    arabic: بِمَاۤ
+    arabic: بِمَآ
     translation: with what
     transliteration: bimā
   10:
-    arabic: اَرٰٮكَ
+    arabic: أَرَىٰكَ
     translation: has shown you
     transliteration: arāka
   11:
-    arabic: اللّٰهُ​ ؕ
+    arabic: ٱللَّهُۚ
     translation: Allah
     transliteration: l-lahu
   12:
@@ -54,15 +54,15 @@ word_by_word:
     translation: And (do) not
     transliteration: walā
   13:
-    arabic: تَكُنۡ
+    arabic: تَكُن
     translation: be
     transliteration: takun
   14:
-    arabic: لِّـلۡخَآٮِٕنِيۡنَ
+    arabic: لِّلۡخَآئِنِينَ
     translation: for the deceitful
     transliteration: lil'khāinīna
   15:
-    arabic: خَصِيۡمًا ۙ‏
+    arabic: خَصِيمٗا
     translation: a pleader
     transliteration: khaṣīman
 ---

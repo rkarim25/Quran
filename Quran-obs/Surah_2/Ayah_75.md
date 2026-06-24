@@ -1,25 +1,25 @@
 ---
-arabic_ayat: اَفَتَطۡمَعُوۡنَ اَنۡ يُّؤۡمِنُوۡا لَـكُمۡ وَقَدۡ كَانَ فَرِيۡقٌ مِّنۡهُمۡ
-  يَسۡمَعُوۡنَ کَلَامَ اللّٰهِ ثُمَّ يُحَرِّفُوۡنَهٗ مِنۡۢ بَعۡدِ مَا عَقَلُوۡهُ وَهُمۡ
-  يَعۡلَمُوۡنَ‏
+arabic_ayat: ۞ أَفَتَطۡمَعُونَ أَن يُؤۡمِنُواْ لَكُمۡ وَقَدۡ كَانَ فَرِيقٞ مِّنۡهُمۡ
+  يَسۡمَعُونَ كَلَٰمَ ٱللَّهِ ثُمَّ يُحَرِّفُونَهُۥ مِنۢ بَعۡدِ مَا عَقَلُوهُ وَهُمۡ
+  يَعۡلَمُونَ
 sentence_translation: Do you ˹believers still˺ expect them to be true to you, though
   a group of them would hear the word of Allah then knowingly corrupt it after understanding
   it?
 word_by_word:
   1:
-    arabic: ۞ اَفَتَطۡمَعُوۡنَ
+    arabic: ۞ أَفَتَطۡمَعُونَ
     translation: Do you hope
     transliteration: afataṭmaʿūna
   2:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that
     transliteration: an
   3:
-    arabic: يُّؤۡمِنُوۡا
+    arabic: يُؤۡمِنُواْ
     translation: they will believe
     transliteration: yu'minū
   4:
-    arabic: لَـكُمۡ
+    arabic: لَكُمۡ
     translation: '[for] you'
     transliteration: lakum
   5:
@@ -31,7 +31,7 @@ word_by_word:
     translation: (there) has been
     transliteration: kāna
   7:
-    arabic: فَرِيۡقٌ
+    arabic: فَرِيقٞ
     translation: a party
     transliteration: farīqun
   8:
@@ -39,15 +39,15 @@ word_by_word:
     translation: of them
     transliteration: min'hum
   9:
-    arabic: يَسۡمَعُوۡنَ
+    arabic: يَسۡمَعُونَ
     translation: (who used to) hear
     transliteration: yasmaʿūna
   10:
-    arabic: کَلَامَ
+    arabic: كَلَٰمَ
     translation: (the) words
     transliteration: kalāma
   11:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (of) Allah
     transliteration: l-lahi
   12:
@@ -55,11 +55,11 @@ word_by_word:
     translation: then
     transliteration: thumma
   13:
-    arabic: يُحَرِّفُوۡنَهٗ
+    arabic: يُحَرِّفُونَهُۥ
     translation: they distort it
     transliteration: yuḥarrifūnahu
   14:
-    arabic: مِنۡۢ
+    arabic: مِنۢ
     translation: from
     transliteration: min
   15:
@@ -71,7 +71,7 @@ word_by_word:
     translation: '[what]'
     transliteration: mā
   17:
-    arabic: عَقَلُوۡهُ
+    arabic: عَقَلُوهُ
     translation: they understood it
     transliteration: ʿaqalūhu
   18:
@@ -79,7 +79,7 @@ word_by_word:
     translation: while they
     transliteration: wahum
   19:
-    arabic: يَعۡلَمُوۡنَ‏
+    arabic: يَعۡلَمُونَ
     translation: know
     transliteration: yaʿlamūna
 ---

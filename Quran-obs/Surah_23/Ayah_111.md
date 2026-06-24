@@ -1,11 +1,10 @@
 ---
-arabic_ayat: "اِنِّىۡ جَزَيۡتُهُمُ الۡيَوۡمَ بِمَا صَبَرُوۡۤا ۙ اَنَّهُمۡ هُمُ الۡفَآٮِٕزُوۡنَ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: إِنِّي جَزَيۡتُهُمُ ٱلۡيَوۡمَ بِمَا صَبَرُوٓاْ أَنَّهُمۡ هُمُ ٱلۡفَآئِزُونَ
 sentence_translation: 'Today I have indeed rewarded them for their perseverance: they
   are certainly the triumphant.”'
 word_by_word:
   1:
-    arabic: اِنِّىۡ
+    arabic: إِنِّي
     translation: Indeed, I
     transliteration: innī
   2:
@@ -13,7 +12,7 @@ word_by_word:
     translation: have rewarded them
     transliteration: jazaytuhumu
   3:
-    arabic: الۡيَوۡمَ
+    arabic: ٱلۡيَوۡمَ
     translation: this Day
     transliteration: l-yawma
   4:
@@ -21,11 +20,11 @@ word_by_word:
     translation: because
     transliteration: bimā
   5:
-    arabic: صَبَرُوۡۤا ۙ
+    arabic: صَبَرُوٓاْ
     translation: they were patient
     transliteration: ṣabarū
   6:
-    arabic: اَنَّهُمۡ
+    arabic: أَنَّهُمۡ
     translation: indeed, they
     transliteration: annahum
   7:
@@ -33,7 +32,7 @@ word_by_word:
     translation: '[they]'
     transliteration: humu
   8:
-    arabic: "الۡفَآٮِٕزُوۡنَ‏ \uFEFF\uFEFF"
+    arabic: ٱلۡفَآئِزُونَ
     translation: (are) the successful ones
     transliteration: l-fāizūna
 ---

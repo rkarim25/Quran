@@ -1,5 +1,5 @@
 ---
-arabic_ayat: وَمَا عَلَيۡكَ اَلَّا يَزَّكّٰٓىؕ‏
+arabic_ayat: وَمَا عَلَيۡكَ أَلَّا يَزَّكَّىٰ
 sentence_translation: even though you are not to blame if he would not be purified.
 word_by_word:
   1:
@@ -11,11 +11,11 @@ word_by_word:
     translation: upon you
     transliteration: ʿalayka
   3:
-    arabic: اَلَّا
+    arabic: أَلَّا
     translation: that not
     transliteration: allā
   4:
-    arabic: يَزَّكّٰٓىؕ‏
+    arabic: يَزَّكَّىٰ
     translation: he purifies himself
     transliteration: yazzakkā
 ---

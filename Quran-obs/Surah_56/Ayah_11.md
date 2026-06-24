@@ -1,13 +1,13 @@
 ---
-arabic_ayat: اُولٰٓٮِٕكَ الۡمُقَرَّبُوۡنَ​ۚ‏
+arabic_ayat: أُوْلَٰٓئِكَ ٱلۡمُقَرَّبُونَ
 sentence_translation: They are the ones nearest ˹to Allah˺,
 word_by_word:
   1:
-    arabic: اُولٰٓٮِٕكَ
+    arabic: أُوْلَٰٓئِكَ
     translation: Those
     transliteration: ulāika
   2:
-    arabic: الۡمُقَرَّبُوۡنَ​ۚ‏
+    arabic: ٱلۡمُقَرَّبُونَ
     translation: (are) the nearest ones
     transliteration: l-muqarabūna
 ---

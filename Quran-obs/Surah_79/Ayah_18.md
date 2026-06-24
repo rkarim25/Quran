@@ -1,5 +1,5 @@
 ---
-arabic_ayat: فَقُلۡ هَلۡ لَّكَ اِلٰٓى اَنۡ تَزَكّٰى ۙ‏
+arabic_ayat: فَقُلۡ هَل لَّكَ إِلَىٰٓ أَن تَزَكَّىٰ
 sentence_translation: And say, ‘Would you ˹be willing to˺ purify yourself,
 word_by_word:
   1:
@@ -7,7 +7,7 @@ word_by_word:
     translation: And say
     transliteration: faqul
   2:
-    arabic: هَلۡ
+    arabic: هَل
     translation: Would
     transliteration: hal
   3:
@@ -15,15 +15,15 @@ word_by_word:
     translation: '[for] you'
     transliteration: laka
   4:
-    arabic: اِلٰٓى
+    arabic: إِلَىٰٓ
     translation: '[to]'
     transliteration: ilā
   5:
-    arabic: اَنۡ
+    arabic: أَن
     translation: '[that]'
     transliteration: an
   6:
-    arabic: تَزَكّٰى ۙ‏
+    arabic: تَزَكَّىٰ
     translation: purify yourself
     transliteration: tazakkā
 ---

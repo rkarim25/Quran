@@ -1,7 +1,6 @@
 ---
-arabic_ayat: "وَنَزَعۡنَا مِنۡ كُلِّ اُمَّةٍ شَهِيۡدًا فَقُلۡنَا هَاتُوۡا بُرۡهَانَكُمۡ\
-  \ فَعَلِمُوۡۤا اَنَّ الۡحَـقَّ لِلّٰهِ وَضَلَّ عَنۡهُمۡ مَّا كَانُوۡا يَفۡتَرُوۡنَ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: وَنَزَعۡنَا مِن كُلِّ أُمَّةٖ شَهِيدٗا فَقُلۡنَا هَاتُواْ بُرۡهَٰنَكُمۡ
+  فَعَلِمُوٓاْ أَنَّ ٱلۡحَقَّ لِلَّهِ وَضَلَّ عَنۡهُم مَّا كَانُواْ يَفۡتَرُونَ
 sentence_translation: And We will bring forth a witness from every faith-community
   and ask ˹the polytheists˺, “Show ˹Us˺ your proof.” Then they will ˹come to˺ know
   that the truth is with Allah ˹alone˺. And whatever ˹gods˺ they fabricated will fail
@@ -12,7 +11,7 @@ word_by_word:
     translation: And We will draw forth
     transliteration: wanazaʿnā
   2:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   3:
@@ -20,11 +19,11 @@ word_by_word:
     translation: every
     transliteration: kulli
   4:
-    arabic: اُمَّةٍ
+    arabic: أُمَّةٖ
     translation: nation
     transliteration: ummatin
   5:
-    arabic: شَهِيۡدًا
+    arabic: شَهِيدٗا
     translation: a witness
     transliteration: shahīdan
   6:
@@ -32,27 +31,27 @@ word_by_word:
     translation: and We will say
     transliteration: faqul'nā
   7:
-    arabic: هَاتُوۡا
+    arabic: هَاتُواْ
     translation: Bring
     transliteration: hātū
   8:
-    arabic: بُرۡهَانَكُمۡ
+    arabic: بُرۡهَٰنَكُمۡ
     translation: your proof
     transliteration: bur'hānakum
   9:
-    arabic: فَعَلِمُوۡۤا
+    arabic: فَعَلِمُوٓاْ
     translation: Then they will know
     transliteration: faʿalimū
   10:
-    arabic: اَنَّ
+    arabic: أَنَّ
     translation: that
     transliteration: anna
   11:
-    arabic: الۡحَـقَّ
+    arabic: ٱلۡحَقَّ
     translation: the truth
     transliteration: l-ḥaqa
   12:
-    arabic: لِلّٰهِ
+    arabic: لِلَّهِ
     translation: (is) for Allah
     transliteration: lillahi
   13:
@@ -60,7 +59,7 @@ word_by_word:
     translation: and (will be) lost
     transliteration: waḍalla
   14:
-    arabic: عَنۡهُمۡ
+    arabic: عَنۡهُم
     translation: from them
     transliteration: ʿanhum
   15:
@@ -68,11 +67,11 @@ word_by_word:
     translation: what
     transliteration: mā
   16:
-    arabic: كَانُوۡا
+    arabic: كَانُواْ
     translation: they used (to)
     transliteration: kānū
   17:
-    arabic: "يَفۡتَرُوۡنَ‏ \uFEFF\uFEFF"
+    arabic: يَفۡتَرُونَ
     translation: invent
     transliteration: yaftarūna
 ---

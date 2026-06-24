@@ -1,25 +1,25 @@
 ---
-arabic_ayat: يٰۤـاَيُّهَا الَّذِيۡنَ اٰمَنُوا اذۡكُرُوۡا نِعۡمَتَ اللّٰهِ عَلَيۡكُمۡ
-  اِذۡ هَمَّ قَوۡمٌ اَنۡ يَّبۡسُطُوۡۤا اِلَيۡكُمۡ اَيۡدِيَهُمۡ فَكَفَّ اَيۡدِيَهُمۡ
-  عَنۡكُمۡ​ۚ وَاتَّقُوا اللّٰهَ​ ؕ وَعَلَى اللّٰهِ فَلۡيَتَوَكَّلِ الۡمُؤۡمِنُوۡنَ‏
+arabic_ayat: يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُواْ ٱذۡكُرُواْ نِعۡمَتَ ٱللَّهِ عَلَيۡكُمۡ
+  إِذۡ هَمَّ قَوۡمٌ أَن يَبۡسُطُوٓاْ إِلَيۡكُمۡ أَيۡدِيَهُمۡ فَكَفَّ أَيۡدِيَهُمۡ
+  عَنكُمۡۖ وَٱتَّقُواْ ٱللَّهَۚ وَعَلَى ٱللَّهِ فَلۡيَتَوَكَّلِ ٱلۡمُؤۡمِنُونَ
 sentence_translation: 'O believers! Remember Allah’s favour upon you: when a people
   sought to harm you, but He held their hands back from you. Be mindful of Allah.
   And in Allah let the believers put their trust.'
 word_by_word:
   1:
-    arabic: يٰۤـاَيُّهَا
+    arabic: يَٰٓأَيُّهَا
     translation: O you
     transliteration: yāayyuhā
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ ءَ
     translation: who
     transliteration: alladhīna
   3:
-    arabic: اٰمَنُوا
+    arabic: امَنُواْ
     translation: believe
     transliteration: āmanū
   4:
-    arabic: اذۡكُرُوۡا
+    arabic: ٱذۡكُرُواْ
     translation: Remember
     transliteration: udh'kurū
   5:
@@ -27,7 +27,7 @@ word_by_word:
     translation: (the) Favor
     transliteration: niʿ'mata
   6:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (of) Allah
     transliteration: l-lahi
   7:
@@ -35,7 +35,7 @@ word_by_word:
     translation: upon you
     transliteration: ʿalaykum
   8:
-    arabic: اِذۡ
+    arabic: إِذۡ
     translation: when
     transliteration: idh
   9:
@@ -47,19 +47,19 @@ word_by_word:
     translation: a people
     transliteration: qawmun
   11:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that
     transliteration: an
   12:
-    arabic: يَّبۡسُطُوۡۤا
+    arabic: يَبۡسُطُوٓاْ
     translation: they stretch
     transliteration: yabsuṭū
   13:
-    arabic: اِلَيۡكُمۡ
+    arabic: إِلَيۡكُمۡ
     translation: towards you
     transliteration: ilaykum
   14:
-    arabic: اَيۡدِيَهُمۡ
+    arabic: أَيۡدِيَهُمۡ
     translation: their hands
     transliteration: aydiyahum
   15:
@@ -67,19 +67,19 @@ word_by_word:
     translation: but He restrained
     transliteration: fakaffa
   16:
-    arabic: اَيۡدِيَهُمۡ
+    arabic: أَيۡدِيَهُمۡ
     translation: their hands
     transliteration: aydiyahum
   17:
-    arabic: عَنۡكُمۡ​ۚ
+    arabic: عَنكُمۡۖ
     translation: from you
     transliteration: ʿankum
   18:
-    arabic: وَاتَّقُوا
+    arabic: وَٱتَّقُواْ
     translation: And fear
     transliteration: wa-ittaqū
   19:
-    arabic: اللّٰهَ​ ؕ
+    arabic: ٱللَّهَۚ
     translation: Allah
     transliteration: l-laha
   20:
@@ -87,7 +87,7 @@ word_by_word:
     translation: And upon
     transliteration: waʿalā
   21:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   22:
@@ -95,7 +95,7 @@ word_by_word:
     translation: so let put the trust
     transliteration: falyatawakkali
   23:
-    arabic: الۡمُؤۡمِنُوۡنَ‏
+    arabic: ٱلۡمُؤۡمِنُونَ
     translation: the believers
     transliteration: l-mu'minūna
 ---

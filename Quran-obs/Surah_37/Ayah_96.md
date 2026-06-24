@@ -1,9 +1,9 @@
 ---
-arabic_ayat: وَاللّٰهُ خَلَقَكُمۡ وَمَا تَعۡمَلُوۡنَ‏
+arabic_ayat: وَٱللَّهُ خَلَقَكُمۡ وَمَا تَعۡمَلُونَ
 sentence_translation: when it is Allah Who created you and whatever you do?”
 word_by_word:
   1:
-    arabic: وَاللّٰهُ
+    arabic: وَٱللَّهُ
     translation: While Allah
     transliteration: wal-lahu
   2:
@@ -15,7 +15,7 @@ word_by_word:
     translation: and what
     transliteration: wamā
   4:
-    arabic: تَعۡمَلُوۡنَ‏
+    arabic: تَعۡمَلُونَ
     translation: you make
     transliteration: taʿmalūna
 ---

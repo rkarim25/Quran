@@ -1,7 +1,6 @@
 ---
-arabic_ayat: "وَمَا كَانَ لَهٗ عَلَيۡهِمۡ مِّنۡ سُلۡطٰنٍ اِلَّا لِنَعۡلَمَ مَنۡ يُّـؤۡمِنُ\
-  \ بِالۡاٰخِرَةِ مِمَّنۡ هُوَ مِنۡهَا فِىۡ شَكٍّ ؕ وَ رَبُّكَ عَلٰى كُلِّ شَىۡءٍ\
-  \ حَفِيۡظٌ‏ \uFEFF\uFEFF"
+arabic_ayat: وَمَا كَانَ لَهُۥ عَلَيۡهِم مِّن سُلۡطَٰنٍ إِلَّا لِنَعۡلَمَ مَن يُؤۡمِنُ
+  بِٱلۡأٓخِرَةِ مِمَّنۡ هُوَ مِنۡهَا فِي شَكّٖۗ وَرَبُّكَ عَلَىٰ كُلِّ شَيۡءٍ حَفِيظٞ
 sentence_translation: He does not have any authority over them, but ˹Our Will is˺
   only to distinguish those who believe in the Hereafter from those who are in doubt
   about it. And your Lord is a ˹vigilant˺ Keeper over all things.”
@@ -15,23 +14,23 @@ word_by_word:
     translation: was
     transliteration: kāna
   3:
-    arabic: لَهٗ
+    arabic: لَهُۥ
     translation: for him
     transliteration: lahu
   4:
-    arabic: عَلَيۡهِمۡ
+    arabic: عَلَيۡهِم
     translation: over them
     transliteration: ʿalayhim
   5:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: any
     transliteration: min
   6:
-    arabic: سُلۡطٰنٍ
+    arabic: سُلۡطَٰنٍ
     translation: authority
     transliteration: sul'ṭānin
   7:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   8:
@@ -39,15 +38,15 @@ word_by_word:
     translation: that We (might) make evident
     transliteration: linaʿlama
   9:
-    arabic: مَنۡ
+    arabic: مَن
     translation: who
     transliteration: man
   10:
-    arabic: يُّـؤۡمِنُ
+    arabic: يُؤۡمِنُ
     translation: believes
     transliteration: yu'minu
   11:
-    arabic: بِالۡاٰخِرَةِ
+    arabic: بِٱلۡأٓخِرَةِ
     translation: in the Hereafter
     transliteration: bil-ākhirati
   12:
@@ -63,19 +62,19 @@ word_by_word:
     translation: about it
     transliteration: min'hā
   15:
-    arabic: فِىۡ
+    arabic: فِي
     translation: (is) in
     transliteration: fī
   16:
-    arabic: شَكٍّ ؕ
+    arabic: شَكّٖۗ
     translation: doubt
     transliteration: shakkin
   17:
-    arabic: وَ رَبُّكَ
+    arabic: وَرَبُّكَ
     translation: And your Lord
     transliteration: warabbuka
   18:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: over
     transliteration: ʿalā
   19:
@@ -83,11 +82,11 @@ word_by_word:
     translation: all
     transliteration: kulli
   20:
-    arabic: شَىۡءٍ
+    arabic: شَيۡءٍ
     translation: things
     transliteration: shayin
   21:
-    arabic: "حَفِيۡظٌ‏ \uFEFF\uFEFF"
+    arabic: حَفِيظٞ
     translation: (is) a Guardian
     transliteration: ḥafīẓun
 ---

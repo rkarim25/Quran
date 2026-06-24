@@ -1,59 +1,59 @@
 ---
-arabic_ayat: وَ اِذۡ اَوۡحَيۡتُ اِلَى الۡحَـوَارِيّٖنَ اَنۡ اٰمِنُوۡا بِىۡ وَبِرَسُوۡلِىۡ​ۚ
-  قَالُوۡۤا اٰمَنَّا وَاشۡهَدۡ بِاَنَّـنَا مُسۡلِمُوۡنَ‏
+arabic_ayat: وَإِذۡ أَوۡحَيۡتُ إِلَى ٱلۡحَوَارِيِّـۧنَ أَنۡ ءَامِنُواْ بِي وَبِرَسُولِي
+  قَالُوٓاْ ءَامَنَّا وَٱشۡهَدۡ بِأَنَّنَا مُسۡلِمُونَ
 sentence_translation: And how I inspired the disciples, “Believe in Me and My messenger!”
   They declared, “We believe and bear witness that we fully submit ˹to Allah˺.” 
 word_by_word:
   1:
-    arabic: وَ اِذۡ
+    arabic: وَإِذۡ
     translation: And when
     transliteration: wa-idh
   2:
-    arabic: اَوۡحَيۡتُ
+    arabic: أَوۡحَيۡتُ
     translation: I inspired
     transliteration: awḥaytu
   3:
-    arabic: اِلَى
+    arabic: إِلَى
     translation: to
     transliteration: ilā
   4:
-    arabic: الۡحَـوَارِيّٖنَ
+    arabic: ٱلۡحَوَارِيِّـۧنَ
     translation: the disciples
     transliteration: l-ḥawāriyīna
   5:
-    arabic: اَنۡ
+    arabic: أَنۡ ءَ
     translation: to
     transliteration: an
   6:
-    arabic: اٰمِنُوۡا
+    arabic: امِنُواْ
     translation: believe
     transliteration: āminū
   7:
-    arabic: بِىۡ
+    arabic: بِي
     translation: in Me
     transliteration: bī
   8:
-    arabic: وَبِرَسُوۡلِىۡ​ۚ
+    arabic: وَبِرَسُولِي
     translation: and in My Messenger
     transliteration: wabirasūlī
   9:
-    arabic: قَالُوۡۤا
+    arabic: قَالُوٓاْ ءَ
     translation: they said
     transliteration: qālū
   10:
-    arabic: اٰمَنَّا
+    arabic: امَنَّا
     translation: We believe
     transliteration: āmannā
   11:
-    arabic: وَاشۡهَدۡ
+    arabic: وَٱشۡهَدۡ
     translation: and bear witness
     transliteration: wa-ish'had
   12:
-    arabic: بِاَنَّـنَا
+    arabic: بِأَنَّنَا
     translation: that indeed we
     transliteration: bi-annanā
   13:
-    arabic: مُسۡلِمُوۡنَ‏
+    arabic: مُسۡلِمُونَ
     translation: (are) Muslims
     transliteration: mus'limūna
 ---

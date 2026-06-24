@@ -1,10 +1,10 @@
 ---
-arabic_ayat: اَنۡ كَانَ ذَا مَالٍ وَّبَنِيۡنَؕ‏
+arabic_ayat: أَن كَانَ ذَا مَالٖ وَبَنِينَ
 sentence_translation: Now, ˹simply˺ because he has been blessed with ˹abundant˺ wealth
   and children,
 word_by_word:
   1:
-    arabic: اَنۡ
+    arabic: أَن
     translation: Because
     transliteration: an
   2:
@@ -16,11 +16,11 @@ word_by_word:
     translation: a possessor
     transliteration: dhā
   4:
-    arabic: مَالٍ
+    arabic: مَالٖ
     translation: (of) wealth
     transliteration: mālin
   5:
-    arabic: وَّبَنِيۡنَؕ‏
+    arabic: وَبَنِينَ
     translation: and children
     transliteration: wabanīna
 ---

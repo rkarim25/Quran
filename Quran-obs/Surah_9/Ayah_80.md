@@ -1,14 +1,14 @@
 ---
-arabic_ayat: اِسۡتَغۡفِرۡ لَهُمۡ اَوۡ لَا تَسۡتَغۡفِرۡ لَهُمۡؕ اِنۡ تَسۡتَغۡفِرۡ لَهُمۡ
-  سَبۡعِيۡنَ مَرَّةً فَلَنۡ يَّغۡفِرَ اللّٰهُ لَهُمۡ​ؕ ذٰلِكَ بِاَنَّهُمۡ كَفَرُوۡا
-  بِاللّٰهِ وَرَسُوۡلِهٖ​ؕ وَاللّٰهُ لَا يَهۡدِى الۡقَوۡمَ الۡفٰسِقِيۡنَ‏
+arabic_ayat: ٱسۡتَغۡفِرۡ لَهُمۡ أَوۡ لَا تَسۡتَغۡفِرۡ لَهُمۡ إِن تَسۡتَغۡفِرۡ لَهُمۡ
+  سَبۡعِينَ مَرَّةٗ فَلَن يَغۡفِرَ ٱللَّهُ لَهُمۡۚ ذَٰلِكَ بِأَنَّهُمۡ كَفَرُواْ بِٱللَّهِ
+  وَرَسُولِهِۦۗ وَٱللَّهُ لَا يَهۡدِي ٱلۡقَوۡمَ ٱلۡفَٰسِقِينَ
 sentence_translation: ˹It does not matter˺ whether you ˹O Prophet˺ pray for them to
   be forgiven or not. Even if you pray for their forgiveness seventy times, Allah
   will never forgive them. That is because they have lost faith in Allah and His Messenger.
   And Allah does not guide the rebellious people.
 word_by_word:
   1:
-    arabic: اِسۡتَغۡفِرۡ
+    arabic: ٱسۡتَغۡفِرۡ
     translation: Ask forgiveness
     transliteration: is'taghfir
   2:
@@ -16,7 +16,7 @@ word_by_word:
     translation: for them
     transliteration: lahum
   3:
-    arabic: اَوۡ
+    arabic: أَوۡ
     translation: or
     transliteration: aw
   4:
@@ -28,11 +28,11 @@ word_by_word:
     translation: ask forgiveness
     transliteration: tastaghfir
   6:
-    arabic: لَهُمۡؕ
+    arabic: لَهُمۡ
     translation: for them
     transliteration: lahum
   7:
-    arabic: اِنۡ
+    arabic: إِن
     translation: If
     transliteration: in
   8:
@@ -44,51 +44,51 @@ word_by_word:
     translation: for them
     transliteration: lahum
   10:
-    arabic: سَبۡعِيۡنَ
+    arabic: سَبۡعِينَ
     translation: seventy
     transliteration: sabʿīna
   11:
-    arabic: مَرَّةً
+    arabic: مَرَّةٗ
     translation: times
     transliteration: marratan
   12:
-    arabic: فَلَنۡ
+    arabic: فَلَن
     translation: never
     transliteration: falan
   13:
-    arabic: يَّغۡفِرَ
+    arabic: يَغۡفِرَ
     translation: will Allah forgive
     transliteration: yaghfira
   14:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: will Allah forgive
     transliteration: l-lahu
   15:
-    arabic: لَهُمۡ​ؕ
+    arabic: لَهُمۡۚ
     translation: '[for] them'
     transliteration: lahum
   16:
-    arabic: ذٰلِكَ
+    arabic: ذَٰلِكَ
     translation: That
     transliteration: dhālika
   17:
-    arabic: بِاَنَّهُمۡ
+    arabic: بِأَنَّهُمۡ
     translation: (is) because they
     transliteration: bi-annahum
   18:
-    arabic: كَفَرُوۡا
+    arabic: كَفَرُواْ
     translation: disbelieved
     transliteration: kafarū
   19:
-    arabic: بِاللّٰهِ
+    arabic: بِٱللَّهِ
     translation: in Allah
     transliteration: bil-lahi
   20:
-    arabic: وَرَسُوۡلِهٖ​ؕ
+    arabic: وَرَسُولِهِۦۗ
     translation: and His Messenger
     transliteration: warasūlihi
   21:
-    arabic: وَاللّٰهُ
+    arabic: وَٱللَّهُ
     translation: and Allah
     transliteration: wal-lahu
   22:
@@ -96,15 +96,15 @@ word_by_word:
     translation: (does) not
     transliteration: lā
   23:
-    arabic: يَهۡدِى
+    arabic: يَهۡدِي
     translation: guide
     transliteration: yahdī
   24:
-    arabic: الۡقَوۡمَ
+    arabic: ٱلۡقَوۡمَ
     translation: the people
     transliteration: l-qawma
   25:
-    arabic: الۡفٰسِقِيۡنَ‏
+    arabic: ٱلۡفَٰسِقِينَ
     translation: the defiantly disobedient
     transliteration: l-fāsiqīna
 ---

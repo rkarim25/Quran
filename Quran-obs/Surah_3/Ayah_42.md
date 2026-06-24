@@ -1,11 +1,11 @@
 ---
-arabic_ayat: وَاِذۡ قَالَتِ الۡمَلٰٓٮِٕكَةُ يٰمَرۡيَمُ اِنَّ اللّٰهَ اصۡطَفٰٮكِ وَطَهَّرَكِ
-  وَاصۡطَفٰٮكِ عَلٰى نِسَآءِ الۡعٰلَمِيۡنَ‏
+arabic_ayat: وَإِذۡ قَالَتِ ٱلۡمَلَٰٓئِكَةُ يَٰمَرۡيَمُ إِنَّ ٱللَّهَ ٱصۡطَفَىٰكِ
+  وَطَهَّرَكِ وَٱصۡطَفَىٰكِ عَلَىٰ نِسَآءِ ٱلۡعَٰلَمِينَ
 sentence_translation: And ˹remember˺ when the angels said, “O Mary! Surely Allah has
   selected you, purified you, and chosen you over all women of the world.
 word_by_word:
   1:
-    arabic: وَاِذۡ
+    arabic: وَإِذۡ
     translation: And when
     transliteration: wa-idh
   2:
@@ -13,23 +13,23 @@ word_by_word:
     translation: said
     transliteration: qālati
   3:
-    arabic: الۡمَلٰٓٮِٕكَةُ
+    arabic: ٱلۡمَلَٰٓئِكَةُ
     translation: the Angels
     transliteration: l-malāikatu
   4:
-    arabic: يٰمَرۡيَمُ
+    arabic: يَٰمَرۡيَمُ
     translation: O Maryam
     transliteration: yāmaryamu
   5:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   6:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   7:
-    arabic: اصۡطَفٰٮكِ
+    arabic: ٱصۡطَفَىٰكِ
     translation: (has) chosen you
     transliteration: iṣ'ṭafāki
   8:
@@ -37,11 +37,11 @@ word_by_word:
     translation: and purified you
     transliteration: waṭahharaki
   9:
-    arabic: وَاصۡطَفٰٮكِ
+    arabic: وَٱصۡطَفَىٰكِ
     translation: and chosen you
     transliteration: wa-iṣ'ṭafāki
   10:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: over
     transliteration: ʿalā
   11:
@@ -49,7 +49,7 @@ word_by_word:
     translation: (the) women
     transliteration: nisāi
   12:
-    arabic: الۡعٰلَمِيۡنَ‏
+    arabic: ٱلۡعَٰلَمِينَ
     translation: (of) the worlds
     transliteration: l-ʿālamīna
 ---

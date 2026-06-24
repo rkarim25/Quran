@@ -1,9 +1,9 @@
 ---
-arabic_ayat: رَسُوۡلٌ مِّنَ اللّٰهِ يَتۡلُوۡا صُحُفًا مُّطَهَّرَةً ۙ‏
+arabic_ayat: رَسُولٞ مِّنَ ٱللَّهِ يَتۡلُواْ صُحُفٗا مُّطَهَّرَةٗ
 sentence_translation: a messenger from Allah, reciting scrolls of ˹utmost˺ purity,
 word_by_word:
   1:
-    arabic: رَسُوۡلٌ
+    arabic: رَسُولٞ
     translation: A Messenger
     transliteration: rasūlun
   2:
@@ -11,19 +11,19 @@ word_by_word:
     translation: from
     transliteration: mina
   3:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   4:
-    arabic: يَتۡلُوۡا
+    arabic: يَتۡلُواْ
     translation: reciting
     transliteration: yatlū
   5:
-    arabic: صُحُفًا
+    arabic: صُحُفٗا
     translation: pages
     transliteration: ṣuḥufan
   6:
-    arabic: مُّطَهَّرَةً ۙ‏
+    arabic: مُّطَهَّرَةٗ
     translation: purified
     transliteration: muṭahharatan
 ---

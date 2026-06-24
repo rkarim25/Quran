@@ -1,10 +1,10 @@
 ---
-arabic_ayat: اَفَمَا نَحۡنُ بِمَيِّتِيۡنَۙ‏
+arabic_ayat: أَفَمَا نَحۡنُ بِمَيِّتِينَ
 sentence_translation: ˹Then he will ask his fellow believers,˺ “Can you imagine that
   we will never die,
 word_by_word:
   1:
-    arabic: اَفَمَا
+    arabic: أَفَمَا
     translation: Then are not
     transliteration: afamā
   2:
@@ -12,7 +12,7 @@ word_by_word:
     translation: we
     transliteration: naḥnu
   3:
-    arabic: بِمَيِّتِيۡنَۙ‏
+    arabic: بِمَيِّتِينَ
     translation: (to) die
     transliteration: bimayyitīna
 ---

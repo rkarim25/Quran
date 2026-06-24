@@ -1,5 +1,5 @@
 ---
-arabic_ayat: مَا لَـكُمۡ لَا تَنَاصَرُوۡنَ‏
+arabic_ayat: مَا لَكُمۡ لَا تَنَاصَرُونَ
 sentence_translation: ˹Then they will be asked,˺ “What is the matter with you that
   you can no longer help each other?”
 word_by_word:
@@ -8,7 +8,7 @@ word_by_word:
     translation: What
     transliteration: mā
   2:
-    arabic: لَـكُمۡ
+    arabic: لَكُمۡ
     translation: (is) for you
     transliteration: lakum
   3:
@@ -16,7 +16,7 @@ word_by_word:
     translation: (Why) not
     transliteration: lā
   4:
-    arabic: تَنَاصَرُوۡنَ‏
+    arabic: تَنَاصَرُونَ
     translation: you help one another
     transliteration: tanāṣarūna
 ---

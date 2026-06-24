@@ -1,5 +1,5 @@
 ---
-arabic_ayat: ثُمَّ عَفَوۡنَا عَنۡكُمۡ مِّنۡۢ بَعۡدِ ذٰلِكَ لَعَلَّكُمۡ تَشۡكُرُوۡنَ‏
+arabic_ayat: ثُمَّ عَفَوۡنَا عَنكُم مِّنۢ بَعۡدِ ذَٰلِكَ لَعَلَّكُمۡ تَشۡكُرُونَ
 sentence_translation: Even then We ˹still˺ forgave you so perhaps you would be grateful.
 word_by_word:
   1:
@@ -11,11 +11,11 @@ word_by_word:
     translation: We forgave
     transliteration: ʿafawnā
   3:
-    arabic: عَنۡكُمۡ
+    arabic: عَنكُم
     translation: you
     transliteration: ʿankum
   4:
-    arabic: مِّنۡۢ
+    arabic: مِّنۢ
     translation: from
     transliteration: min
   5:
@@ -23,7 +23,7 @@ word_by_word:
     translation: after
     transliteration: baʿdi
   6:
-    arabic: ذٰلِكَ
+    arabic: ذَٰلِكَ
     translation: that
     transliteration: dhālika
   7:
@@ -31,7 +31,7 @@ word_by_word:
     translation: so that you may
     transliteration: laʿallakum
   8:
-    arabic: تَشۡكُرُوۡنَ‏
+    arabic: تَشۡكُرُونَ
     translation: (be) grateful
     transliteration: tashkurūna
 ---

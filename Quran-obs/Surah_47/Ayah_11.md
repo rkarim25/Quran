@@ -1,19 +1,19 @@
 ---
-arabic_ayat: ذٰ لِكَ بِاَنَّ اللّٰهَ مَوۡلَى الَّذِيۡنَ اٰمَنُوۡا وَاَنَّ الۡكٰفِرِيۡنَ
-  لَا مَوۡلٰى لَهُمۡ‏
+arabic_ayat: ذَٰلِكَ بِأَنَّ ٱللَّهَ مَوۡلَى ٱلَّذِينَ ءَامَنُواْ وَأَنَّ ٱلۡكَٰفِرِينَ
+  لَا مَوۡلَىٰ لَهُمۡ
 sentence_translation: This is because Allah is the Patron of the believers while the
   disbelievers have no patron.
 word_by_word:
   1:
-    arabic: ذٰ لِكَ
+    arabic: ذَٰلِكَ
     translation: That
     transliteration: dhālika
   2:
-    arabic: بِاَنَّ
+    arabic: بِأَنَّ
     translation: (is) because
     transliteration: bi-anna
   3:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   4:
@@ -21,19 +21,19 @@ word_by_word:
     translation: (is the) Protector
     transliteration: mawlā
   5:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ ءَ
     translation: (of) those who
     transliteration: alladhīna
   6:
-    arabic: اٰمَنُوۡا
+    arabic: امَنُواْ
     translation: believe
     transliteration: āmanū
   7:
-    arabic: وَاَنَّ
+    arabic: وَأَنَّ
     translation: and that
     transliteration: wa-anna
   8:
-    arabic: الۡكٰفِرِيۡنَ
+    arabic: ٱلۡكَٰفِرِينَ
     translation: 'the disbelievers '
     transliteration: l-kāfirīna
   9:
@@ -41,11 +41,11 @@ word_by_word:
     translation: (there is) no
     transliteration: lā
   10:
-    arabic: مَوۡلٰى
+    arabic: مَوۡلَىٰ
     translation: protector
     transliteration: mawlā
   11:
-    arabic: لَهُمۡ‏
+    arabic: لَهُمۡ
     translation: for them
     transliteration: lahum
 ---

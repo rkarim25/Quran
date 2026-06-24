@@ -1,17 +1,17 @@
 ---
-arabic_ayat: اِلَى اللّٰهِ مَرۡجِعُكُمۡ​ۚ وَهُوَ عَلٰى كُلِّ شَىۡءٍ قَدِيۡرٌ‏
+arabic_ayat: إِلَى ٱللَّهِ مَرۡجِعُكُمۡۖ وَهُوَ عَلَىٰ كُلِّ شَيۡءٖ قَدِيرٌ
 sentence_translation: To Allah is your return. And He is Most Capable of everything.”
 word_by_word:
   1:
-    arabic: اِلَى
+    arabic: إِلَى
     translation: To
     transliteration: ilā
   2:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   3:
-    arabic: مَرۡجِعُكُمۡ​ۚ
+    arabic: مَرۡجِعُكُمۡۖ
     translation: (is) your return
     transliteration: marjiʿukum
   4:
@@ -19,7 +19,7 @@ word_by_word:
     translation: and He
     transliteration: wahuwa
   5:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: (is) on
     transliteration: ʿalā
   6:
@@ -27,11 +27,11 @@ word_by_word:
     translation: every
     transliteration: kulli
   7:
-    arabic: شَىۡءٍ
+    arabic: شَيۡءٖ
     translation: thing
     transliteration: shayin
   8:
-    arabic: قَدِيۡرٌ‏
+    arabic: قَدِيرٌ
     translation: All-Powerful
     transliteration: qadīrun
 ---

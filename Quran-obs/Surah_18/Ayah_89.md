@@ -1,5 +1,5 @@
 ---
-arabic_ayat: ثُمَّ اَتۡبَعَ سَبَبًا‏
+arabic_ayat: ثُمَّ أَتۡبَعَ سَبَبًا
 sentence_translation: Then he travelled a ˹different˺ course
 word_by_word:
   1:
@@ -7,11 +7,11 @@ word_by_word:
     translation: Then
     transliteration: thumma
   2:
-    arabic: اَتۡبَعَ
+    arabic: أَتۡبَعَ
     translation: he followed
     transliteration: atbaʿa
   3:
-    arabic: سَبَبًا‏
+    arabic: سَبَبًا
     translation: (a) course
     transliteration: sababan
 ---

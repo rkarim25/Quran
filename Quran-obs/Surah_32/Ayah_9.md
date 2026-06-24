@@ -1,6 +1,6 @@
 ---
-arabic_ayat: ثُمَّ سَوّٰٮهُ وَنَفَخَ فِيۡهِ مِنۡ رُّوۡحِهٖ​ وَجَعَلَ لَكُمُ السَّمۡعَ
-  وَالۡاَبۡصَارَ وَالۡاَفۡـــِٕدَةَ ​ ؕ قَلِيۡلًا مَّا تَشۡكُرُوۡنَ‏
+arabic_ayat: ثُمَّ سَوَّىٰهُ وَنَفَخَ فِيهِ مِن رُّوحِهِۦۖ وَجَعَلَ لَكُمُ ٱلسَّمۡعَ
+  وَٱلۡأَبۡصَٰرَ وَٱلۡأَفۡـِٔدَةَۚ قَلِيلٗا مَّا تَشۡكُرُونَ
 sentence_translation: then He fashioned them and had a spirit of His Own ˹creation˺
   breathed into them. And He gave you hearing, sight, and intellect. ˹Yet˺ you hardly
   give any thanks.
@@ -10,7 +10,7 @@ word_by_word:
     translation: Then
     transliteration: thumma
   2:
-    arabic: سَوّٰٮهُ
+    arabic: سَوَّىٰهُ
     translation: He fashioned him
     transliteration: sawwāhu
   3:
@@ -18,15 +18,15 @@ word_by_word:
     translation: and breathed
     transliteration: wanafakha
   4:
-    arabic: فِيۡهِ
+    arabic: فِيهِ
     translation: into him
     transliteration: fīhi
   5:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   6:
-    arabic: رُّوۡحِهٖ​
+    arabic: رُّوحِهِۦۖ
     translation: His spirit
     transliteration: rūḥihi
   7:
@@ -38,19 +38,19 @@ word_by_word:
     translation: for you
     transliteration: lakumu
   9:
-    arabic: السَّمۡعَ
+    arabic: ٱلسَّمۡعَ
     translation: the hearing
     transliteration: l-samʿa
   10:
-    arabic: وَالۡاَبۡصَارَ
+    arabic: وَٱلۡأَبۡصَٰرَ
     translation: and the sight
     transliteration: wal-abṣāra
   11:
-    arabic: وَالۡاَفۡـــِٕدَةَ ​ ؕ
+    arabic: وَٱلۡأَفۡـِٔدَةَۚ
     translation: and feelings
     transliteration: wal-afidata
   12:
-    arabic: قَلِيۡلًا
+    arabic: قَلِيلٗا
     translation: little
     transliteration: qalīlan
   13:
@@ -58,7 +58,7 @@ word_by_word:
     translation: '[what]'
     transliteration: mā
   14:
-    arabic: تَشۡكُرُوۡنَ‏
+    arabic: تَشۡكُرُونَ
     translation: thanks you give
     transliteration: tashkurūna
 ---

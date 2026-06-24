@@ -1,13 +1,12 @@
 ---
-arabic_ayat: "اِنَّمَا جُعِلَ السَّبۡتُ عَلَى الَّذِيۡنَ اخۡتَلَفُوۡا فِيۡهِ​ؕ وَاِنَّ\
-  \ رَبَّكَ لَيَحۡكُمُ بَيۡنَهُمۡ يَوۡمَ الۡقِيٰمَةِ فِيۡمَا كَانُوۡا فِيۡهِ يَخۡتَلِفُوۡنَ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: إِنَّمَا جُعِلَ ٱلسَّبۡتُ عَلَى ٱلَّذِينَ ٱخۡتَلَفُواْ فِيهِۚ وَإِنَّ
+  رَبَّكَ لَيَحۡكُمُ بَيۡنَهُمۡ يَوۡمَ ٱلۡقِيَٰمَةِ فِيمَا كَانُواْ فِيهِ يَخۡتَلِفُونَ
 sentence_translation: ˹Honouring˺ the Sabbath was ordained only for those who disputed
   about Abraham. And surely your Lord will judge between them on the Day of Judgment
   regarding their disputes.
 word_by_word:
   1:
-    arabic: اِنَّمَا
+    arabic: إِنَّمَا
     translation: Only
     transliteration: innamā
   2:
@@ -15,7 +14,7 @@ word_by_word:
     translation: was appointed
     transliteration: juʿila
   3:
-    arabic: السَّبۡتُ
+    arabic: ٱلسَّبۡتُ
     translation: the Sabbath
     transliteration: l-sabtu
   4:
@@ -23,19 +22,19 @@ word_by_word:
     translation: for
     transliteration: ʿalā
   5:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   6:
-    arabic: اخۡتَلَفُوۡا
+    arabic: ٱخۡتَلَفُواْ
     translation: differed
     transliteration: ikh'talafū
   7:
-    arabic: فِيۡهِ​ؕ
+    arabic: فِيهِۚ
     translation: in it
     transliteration: fīhi
   8:
-    arabic: وَاِنَّ
+    arabic: وَإِنَّ
     translation: And indeed
     transliteration: wa-inna
   9:
@@ -55,23 +54,23 @@ word_by_word:
     translation: (on) the Day
     transliteration: yawma
   13:
-    arabic: الۡقِيٰمَةِ
+    arabic: ٱلۡقِيَٰمَةِ
     translation: (of) the Resurrection
     transliteration: l-qiyāmati
   14:
-    arabic: فِيۡمَا
+    arabic: فِيمَا
     translation: in what
     transliteration: fīmā
   15:
-    arabic: كَانُوۡا
+    arabic: كَانُواْ
     translation: they used (to)
     transliteration: kānū
   16:
-    arabic: فِيۡهِ
+    arabic: فِيهِ
     translation: '[in it]'
     transliteration: fīhi
   17:
-    arabic: "يَخۡتَلِفُوۡنَ‏ \uFEFF\uFEFF"
+    arabic: يَخۡتَلِفُونَ
     translation: differ
     transliteration: yakhtalifūna
 ---

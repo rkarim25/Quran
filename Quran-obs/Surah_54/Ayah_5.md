@@ -1,14 +1,14 @@
 ---
-arabic_ayat: حِكۡمَةٌ ۢ بَالِغَةٌ​ فَمَا تُغۡنِ النُّذُرُۙ‏
+arabic_ayat: حِكۡمَةُۢ بَٰلِغَةٞۖ فَمَا تُغۡنِ ٱلنُّذُرُ
 sentence_translation: ˹This Quran is˺ profound ˹in˺ wisdom, but warnings are of no
   benefit ˹to them˺.
 word_by_word:
   1:
-    arabic: حِكۡمَةٌ ۢ
+    arabic: حِكۡمَةُۢ
     translation: Wisdom
     transliteration: ḥik'matun
   2:
-    arabic: بَالِغَةٌ​
+    arabic: بَٰلِغَةٞۖ
     translation: perfect
     transliteration: bālighatun
   3:
@@ -20,7 +20,7 @@ word_by_word:
     translation: will avail
     transliteration: tugh'ni
   5:
-    arabic: النُّذُرُۙ‏
+    arabic: ٱلنُّذُرُ
     translation: the warnings
     transliteration: l-nudhuru
 ---

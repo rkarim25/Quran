@@ -1,21 +1,20 @@
 ---
-arabic_ayat: "اَمۡ يَقُوۡلُوۡنَ افۡتَرٰٮهُ​ۚ بَلۡ هُوَ الۡحَقُّ مِنۡ رَّبِّكَ لِتُنۡذِرَ\
-  \ قَوۡمًا مَّاۤ اَتٰٮهُمۡ مِّنۡ نَّذِيۡرٍ مِّنۡ قَبۡلِكَ لَعَلَّهُمۡ يَهۡتَدُوۡنَ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: أَمۡ يَقُولُونَ ٱفۡتَرَىٰهُۚ بَلۡ هُوَ ٱلۡحَقُّ مِن رَّبِّكَ لِتُنذِرَ
+  قَوۡمٗا مَّآ أَتَىٰهُم مِّن نَّذِيرٖ مِّن قَبۡلِكَ لَعَلَّهُمۡ يَهۡتَدُونَ
 sentence_translation: Or do they say, “He has fabricated it!”? No! It is the truth
   from your Lord in order for you to warn a people to whom no warner has come before
   you, so they may be ˹rightly˺ guided.
 word_by_word:
   1:
-    arabic: اَمۡ
+    arabic: أَمۡ
     translation: Or
     transliteration: am
   2:
-    arabic: يَقُوۡلُوۡنَ
+    arabic: يَقُولُونَ
     translation: (do) they say
     transliteration: yaqūlūna
   3:
-    arabic: افۡتَرٰٮهُ​ۚ
+    arabic: ٱفۡتَرَىٰهُۚ
     translation: He invented it
     transliteration: if'tarāhu
   4:
@@ -27,11 +26,11 @@ word_by_word:
     translation: it
     transliteration: huwa
   6:
-    arabic: الۡحَقُّ
+    arabic: ٱلۡحَقُّ
     translation: (is) the truth
     transliteration: l-ḥaqu
   7:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   8:
@@ -39,31 +38,31 @@ word_by_word:
     translation: your Lord
     transliteration: rabbika
   9:
-    arabic: لِتُنۡذِرَ
+    arabic: لِتُنذِرَ
     translation: that you may warn
     transliteration: litundhira
   10:
-    arabic: قَوۡمًا
+    arabic: قَوۡمٗا
     translation: a people
     transliteration: qawman
   11:
-    arabic: مَّاۤ
+    arabic: مَّآ
     translation: not
     transliteration: mā
   12:
-    arabic: اَتٰٮهُمۡ
+    arabic: أَتَىٰهُم
     translation: has come to them
     transliteration: atāhum
   13:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: any
     transliteration: min
   14:
-    arabic: نَّذِيۡرٍ
+    arabic: نَّذِيرٖ
     translation: warner
     transliteration: nadhīrin
   15:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: before you
     transliteration: min
   16:
@@ -75,7 +74,7 @@ word_by_word:
     translation: so that they may
     transliteration: laʿallahum
   18:
-    arabic: "يَهۡتَدُوۡنَ‏ \uFEFF\uFEFF"
+    arabic: يَهۡتَدُونَ
     translation: be guided
     transliteration: yahtadūna
 ---

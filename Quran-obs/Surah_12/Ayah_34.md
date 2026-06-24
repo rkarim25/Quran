@@ -1,19 +1,19 @@
 ---
-arabic_ayat: فَاسۡتَجَابَ لَهٗ رَبُّهٗ فَصَرَفَ عَنۡهُ كَيۡدَهُنَّ​ؕ اِنَّهٗ هُوَ
-  السَّمِيۡعُ الۡعَلِيۡمُ‏
+arabic_ayat: فَٱسۡتَجَابَ لَهُۥ رَبُّهُۥ فَصَرَفَ عَنۡهُ كَيۡدَهُنَّۚ إِنَّهُۥ هُوَ
+  ٱلسَّمِيعُ ٱلۡعَلِيمُ
 sentence_translation: So his Lord responded to him, turning their cunning away from
   him. Surely He is the All-Hearing, All-Knowing.
 word_by_word:
   1:
-    arabic: فَاسۡتَجَابَ
+    arabic: فَٱسۡتَجَابَ
     translation: So responded
     transliteration: fa-is'tajāba
   2:
-    arabic: لَهٗ
+    arabic: لَهُۥ
     translation: to him
     transliteration: lahu
   3:
-    arabic: رَبُّهٗ
+    arabic: رَبُّهُۥ
     translation: his Lord
     transliteration: rabbuhu
   4:
@@ -25,11 +25,11 @@ word_by_word:
     translation: from him
     transliteration: ʿanhu
   6:
-    arabic: كَيۡدَهُنَّ​ؕ
+    arabic: كَيۡدَهُنَّۚ
     translation: their plot
     transliteration: kaydahunna
   7:
-    arabic: اِنَّهٗ
+    arabic: إِنَّهُۥ
     translation: Indeed, [He]
     transliteration: innahu
   8:
@@ -37,11 +37,11 @@ word_by_word:
     translation: He
     transliteration: huwa
   9:
-    arabic: السَّمِيۡعُ
+    arabic: ٱلسَّمِيعُ
     translation: (is) All-Hearer
     transliteration: l-samīʿu
   10:
-    arabic: الۡعَلِيۡمُ‏
+    arabic: ٱلۡعَلِيمُ
     translation: All-Knower
     transliteration: l-ʿalīmu
 ---

@@ -1,6 +1,6 @@
 ---
-arabic_ayat: فَلَعَلَّكَ بَاخِعٌ نَّـفۡسَكَ عَلٰٓى اٰثَارِهِمۡ اِنۡ لَّمۡ يُؤۡمِنُوۡا
-  بِهٰذَا الۡحَـدِيۡثِ اَسَفًا‏
+arabic_ayat: فَلَعَلَّكَ بَٰخِعٞ نَّفۡسَكَ عَلَىٰٓ ءَاثَٰرِهِمۡ إِن لَّمۡ يُؤۡمِنُواْ
+  بِهَٰذَا ٱلۡحَدِيثِ أَسَفًا
 sentence_translation: Now, perhaps you ˹O Prophet˺ will grieve yourself to death over
   their denial, if they ˹continue to˺ disbelieve in this message.
 word_by_word:
@@ -9,23 +9,23 @@ word_by_word:
     translation: Then perhaps you would (be)
     transliteration: falaʿallaka
   2:
-    arabic: بَاخِعٌ
+    arabic: بَٰخِعٞ
     translation: the one who kills
     transliteration: bākhiʿun
   3:
-    arabic: نَّـفۡسَكَ
+    arabic: نَّفۡسَكَ
     translation: yourself
     transliteration: nafsaka
   4:
-    arabic: عَلٰٓى
+    arabic: عَلَىٰٓ ءَ
     translation: over
     transliteration: ʿalā
   5:
-    arabic: اٰثَارِهِمۡ
+    arabic: اثَٰرِهِمۡ
     translation: their footsteps
     transliteration: āthārihim
   6:
-    arabic: اِنۡ
+    arabic: إِن
     translation: if
     transliteration: in
   7:
@@ -33,19 +33,19 @@ word_by_word:
     translation: not
     transliteration: lam
   8:
-    arabic: يُؤۡمِنُوۡا
+    arabic: يُؤۡمِنُواْ
     translation: they believe
     transliteration: yu'minū
   9:
-    arabic: بِهٰذَا
+    arabic: بِهَٰذَا
     translation: in this
     transliteration: bihādhā
   10:
-    arabic: الۡحَـدِيۡثِ
+    arabic: ٱلۡحَدِيثِ
     translation: '[the] narration'
     transliteration: l-ḥadīthi
   11:
-    arabic: اَسَفًا‏
+    arabic: أَسَفًا
     translation: (in) grief
     transliteration: asafan
 ---

@@ -1,24 +1,24 @@
 ---
-arabic_ayat: لِّـلَّذِيۡنَ يُؤۡلُوۡنَ مِنۡ نِّسَآٮِٕهِمۡ تَرَبُّصُ اَرۡبَعَةِ اَشۡهُرٍ​​ۚ
-  فَاِنۡ فَآءُوۡ فَاِنَّ اللّٰهَ غَفُوۡرٌ رَّحِيۡمٌ‏
+arabic_ayat: لِّلَّذِينَ يُؤۡلُونَ مِن نِّسَآئِهِمۡ تَرَبُّصُ أَرۡبَعَةِ أَشۡهُرٖۖ
+  فَإِن فَآءُو فَإِنَّ ٱللَّهَ غَفُورٞ رَّحِيمٞ
 sentence_translation: Those who swear not to have intercourse with their wives must
   wait for four months. If they change their mind, then Allah is certainly All-Forgiving,
   Most Merciful.
 word_by_word:
   1:
-    arabic: لِّـلَّذِيۡنَ
+    arabic: لِّلَّذِينَ
     translation: For those who
     transliteration: lilladhīna
   2:
-    arabic: يُؤۡلُوۡنَ
+    arabic: يُؤۡلُونَ
     translation: swear (off)
     transliteration: yu'lūna
   3:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   4:
-    arabic: نِّسَآٮِٕهِمۡ
+    arabic: نِّسَآئِهِمۡ
     translation: their wives
     transliteration: nisāihim
   5:
@@ -26,35 +26,35 @@ word_by_word:
     translation: (is a) waiting (of)
     transliteration: tarabbuṣu
   6:
-    arabic: اَرۡبَعَةِ
+    arabic: أَرۡبَعَةِ
     translation: four
     transliteration: arbaʿati
   7:
-    arabic: اَشۡهُرٍ​​ۚ
+    arabic: أَشۡهُرٖۖ
     translation: months
     transliteration: ashhurin
   8:
-    arabic: فَاِنۡ
+    arabic: فَإِن
     translation: then if
     transliteration: fa-in
   9:
-    arabic: فَآءُوۡ
+    arabic: فَآءُو
     translation: 'they return '
     transliteration: fāū
   10:
-    arabic: فَاِنَّ
+    arabic: فَإِنَّ
     translation: then indeed
     transliteration: fa-inna
   11:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   12:
-    arabic: غَفُوۡرٌ
+    arabic: غَفُورٞ
     translation: (is) Oft-Forgiving
     transliteration: ghafūrun
   13:
-    arabic: رَّحِيۡمٌ‏
+    arabic: رَّحِيمٞ
     translation: Most Merciful
     transliteration: raḥīmun
 ---

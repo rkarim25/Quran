@@ -1,17 +1,17 @@
 ---
-arabic_ayat: وَاَمَّا الۡقٰسِطُوۡنَ فَكَانُوۡا لِجَهَنَّمَ حَطَبًا ۙ‏
+arabic_ayat: وَأَمَّا ٱلۡقَٰسِطُونَ فَكَانُواْ لِجَهَنَّمَ حَطَبٗا
 sentence_translation: And as for the deviant, they will be fuel for Hell.’”
 word_by_word:
   1:
-    arabic: وَاَمَّا
+    arabic: وَأَمَّا
     translation: And as for
     transliteration: wa-ammā
   2:
-    arabic: الۡقٰسِطُوۡنَ
+    arabic: ٱلۡقَٰسِطُونَ
     translation: the unjust
     transliteration: l-qāsiṭūna
   3:
-    arabic: فَكَانُوۡا
+    arabic: فَكَانُواْ
     translation: they will be
     transliteration: fakānū
   4:
@@ -19,7 +19,7 @@ word_by_word:
     translation: for Hell
     transliteration: lijahannama
   5:
-    arabic: حَطَبًا ۙ‏
+    arabic: حَطَبٗا
     translation: firewood
     transliteration: ḥaṭaban
 ---

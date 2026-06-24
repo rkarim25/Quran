@@ -1,16 +1,16 @@
 ---
-arabic_ayat: فَانْقَلَبُوۡا بِنِعۡمَةٍ مِّنَ اللّٰهِ وَفَضۡلٍ لَّمۡ يَمۡسَسۡهُمۡ سُوۡٓءٌ ۙ
-  وَّاتَّبَعُوۡا رِضۡوَانَ اللّٰهِ ​ؕ وَاللّٰهُ ذُوۡ فَضۡلٍ عَظِيۡمٍ‏
+arabic_ayat: فَٱنقَلَبُواْ بِنِعۡمَةٖ مِّنَ ٱللَّهِ وَفَضۡلٖ لَّمۡ يَمۡسَسۡهُمۡ سُوٓءٞ
+  وَٱتَّبَعُواْ رِضۡوَٰنَ ٱللَّهِۗ وَٱللَّهُ ذُو فَضۡلٍ عَظِيمٍ
 sentence_translation: So they returned with Allah’s favours and grace, suffering no
   harm. For they sought to please Allah. And surely Allah is ˹the˺ Lord of infinite
   bounty.
 word_by_word:
   1:
-    arabic: فَانْقَلَبُوۡا
+    arabic: فَٱنقَلَبُواْ
     translation: So they returned
     transliteration: fa-inqalabū
   2:
-    arabic: بِنِعۡمَةٍ
+    arabic: بِنِعۡمَةٖ
     translation: with (the) Favor
     transliteration: biniʿ'matin
   3:
@@ -18,11 +18,11 @@ word_by_word:
     translation: of
     transliteration: mina
   4:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   5:
-    arabic: وَفَضۡلٍ
+    arabic: وَفَضۡلٖ
     translation: and Bounty
     transliteration: wafaḍlin
   6:
@@ -34,27 +34,27 @@ word_by_word:
     translation: touched them
     transliteration: yamsashum
   8:
-    arabic: سُوۡٓءٌ ۙ
+    arabic: سُوٓءٞ
     translation: any harm
     transliteration: sūon
   9:
-    arabic: وَّاتَّبَعُوۡا
+    arabic: وَٱتَّبَعُواْ
     translation: And they followed
     transliteration: wa-ittabaʿū
   10:
-    arabic: رِضۡوَانَ
+    arabic: رِضۡوَٰنَ
     translation: (the) pleasure
     transliteration: riḍ'wāna
   11:
-    arabic: اللّٰهِ ​ؕ
+    arabic: ٱللَّهِۗ
     translation: (of) Allah
     transliteration: l-lahi
   12:
-    arabic: وَاللّٰهُ
+    arabic: وَٱللَّهُ
     translation: and Allah
     transliteration: wal-lahu
   13:
-    arabic: ذُوۡ
+    arabic: ذُو
     translation: (is) Possessor
     transliteration: dhū
   14:
@@ -62,7 +62,7 @@ word_by_word:
     translation: (of) Bounty
     transliteration: faḍlin
   15:
-    arabic: عَظِيۡمٍ‏
+    arabic: عَظِيمٍ
     translation: great
     transliteration: ʿaẓīmin
 ---

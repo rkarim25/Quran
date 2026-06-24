@@ -1,31 +1,30 @@
 ---
-arabic_ayat: "اِذَا رَاَتۡهُمۡ مِّنۡ مَّكَانٍۢ بَعِيۡدٍ سَمِعُوۡا لَهَا تَغَيُّظًا\
-  \ وَّزَفِيۡرًا‏ \uFEFF\uFEFF"
+arabic_ayat: إِذَا رَأَتۡهُم مِّن مَّكَانِۭ بَعِيدٖ سَمِعُواْ لَهَا تَغَيُّظٗا وَزَفِيرٗا
 sentence_translation: Once it sees them from a distance, they will hear it fuming
   and growling.
 word_by_word:
   1:
-    arabic: اِذَا
+    arabic: إِذَا
     translation: When
     transliteration: idhā
   2:
-    arabic: رَاَتۡهُمۡ
+    arabic: رَأَتۡهُم
     translation: it sees them
     transliteration: ra-athum
   3:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: from
     transliteration: min
   4:
-    arabic: مَّكَانٍۢ
+    arabic: مَّكَانِۭ
     translation: a place
     transliteration: makānin
   5:
-    arabic: بَعِيۡدٍ
+    arabic: بَعِيدٖ
     translation: far
     transliteration: baʿīdin
   6:
-    arabic: سَمِعُوۡا
+    arabic: سَمِعُواْ
     translation: they will hear
     transliteration: samiʿū
   7:
@@ -33,11 +32,11 @@ word_by_word:
     translation: its
     transliteration: lahā
   8:
-    arabic: تَغَيُّظًا
+    arabic: تَغَيُّظٗا
     translation: raging
     transliteration: taghayyuẓan
   9:
-    arabic: "وَّزَفِيۡرًا‏ \uFEFF\uFEFF"
+    arabic: وَزَفِيرٗا
     translation: and roaring
     transliteration: wazafīran
 ---

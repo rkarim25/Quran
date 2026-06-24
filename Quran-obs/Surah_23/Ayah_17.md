@@ -1,6 +1,6 @@
 ---
-arabic_ayat: وَلَقَدۡ خَلَقۡنَا فَوۡقَكُمۡ سَبۡعَ طَرَآٮِٕقَ ۖ  وَمَا كُنَّا عَنِ
-  الۡخَـلۡقِ غٰفِلِيۡنَ‏
+arabic_ayat: وَلَقَدۡ خَلَقۡنَا فَوۡقَكُمۡ سَبۡعَ طَرَآئِقَ وَمَا كُنَّا عَنِ ٱلۡخَلۡقِ
+  غَٰفِلِينَ
 sentence_translation: And indeed, We created above you seven levels ˹of heaven˺. We
   are never unmindful of ˹Our˺ creation.
 word_by_word:
@@ -21,7 +21,7 @@ word_by_word:
     translation: seven
     transliteration: sabʿa
   5:
-    arabic: طَرَآٮِٕقَ ۖ 
+    arabic: طَرَآئِقَ
     translation: paths
     transliteration: ṭarāiqa
   6:
@@ -37,11 +37,11 @@ word_by_word:
     translation: of
     transliteration: ʿani
   9:
-    arabic: الۡخَـلۡقِ
+    arabic: ٱلۡخَلۡقِ
     translation: the creation
     transliteration: l-khalqi
   10:
-    arabic: غٰفِلِيۡنَ‏
+    arabic: غَٰفِلِينَ
     translation: unaware
     transliteration: ghāfilīna
 ---

@@ -1,17 +1,17 @@
 ---
-arabic_ayat: وَاٰتَيۡنٰهُمۡ بَيِّنٰتٍ مِّنَ الۡاَمۡرِ​ ۚ فَمَا اخۡتَلَفُوۡۤا اِلَّا
-  مِنۡۢ بَعۡدِ مَا جَآءَهُمُ الۡعِلۡمُ ۙ بَغۡيًاۢ بَيۡنَهُمۡ​ؕ اِنَّ رَبَّكَ يَقۡضِىۡ
-  بَيۡنَهُمۡ يَوۡمَ الۡقِيٰمَةِ فِيۡمَا كَانُوۡا فِيۡهِ يَخۡتَلِفُوۡنَ‏
+arabic_ayat: وَءَاتَيۡنَٰهُم بَيِّنَٰتٖ مِّنَ ٱلۡأَمۡرِۖ فَمَا ٱخۡتَلَفُوٓاْ إِلَّا
+  مِنۢ بَعۡدِ مَا جَآءَهُمُ ٱلۡعِلۡمُ بَغۡيَۢا بَيۡنَهُمۡۚ إِنَّ رَبَّكَ يَقۡضِي
+  بَيۡنَهُمۡ يَوۡمَ ٱلۡقِيَٰمَةِ فِيمَا كَانُواْ فِيهِ يَخۡتَلِفُونَ
 sentence_translation: We ˹also˺ gave them clear commandments regarding ˹their˺ faith.
   But it was not until knowledge came to them that they differed out of mutual envy. Surely
   your Lord will judge between them on the Day of Judgment regarding their differences.
 word_by_word:
   1:
-    arabic: وَاٰتَيۡنٰهُمۡ
+    arabic: وَءَاتَيۡنَٰهُم
     translation: And We gave them
     transliteration: waātaynāhum
   2:
-    arabic: بَيِّنٰتٍ
+    arabic: بَيِّنَٰتٖ
     translation: clear proofs
     transliteration: bayyinātin
   3:
@@ -19,7 +19,7 @@ word_by_word:
     translation: of
     transliteration: mina
   4:
-    arabic: الۡاَمۡرِ​ ۚ
+    arabic: ٱلۡأَمۡرِۖ
     translation: the matter
     transliteration: l-amri
   5:
@@ -27,15 +27,15 @@ word_by_word:
     translation: And not
     transliteration: famā
   6:
-    arabic: اخۡتَلَفُوۡۤا
+    arabic: ٱخۡتَلَفُوٓاْ
     translation: they differed
     transliteration: ikh'talafū
   7:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   8:
-    arabic: مِنۡۢ
+    arabic: مِنۢ
     translation: after
     transliteration: min
   9:
@@ -51,19 +51,19 @@ word_by_word:
     translation: came to them
     transliteration: jāahumu
   12:
-    arabic: الۡعِلۡمُ ۙ
+    arabic: ٱلۡعِلۡمُ
     translation: the knowledge
     transliteration: l-ʿil'mu
   13:
-    arabic: بَغۡيًاۢ
+    arabic: بَغۡيَۢا
     translation: (out of) envy
     transliteration: baghyan
   14:
-    arabic: بَيۡنَهُمۡ​ؕ
+    arabic: بَيۡنَهُمۡۚ
     translation: between themselves
     transliteration: baynahum
   15:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   16:
@@ -71,7 +71,7 @@ word_by_word:
     translation: your Lord
     transliteration: rabbaka
   17:
-    arabic: يَقۡضِىۡ
+    arabic: يَقۡضِي
     translation: will judge
     transliteration: yaqḍī
   18:
@@ -83,23 +83,23 @@ word_by_word:
     translation: (on the) Day
     transliteration: yawma
   20:
-    arabic: الۡقِيٰمَةِ
+    arabic: ٱلۡقِيَٰمَةِ
     translation: (of) the Resurrection
     transliteration: l-qiyāmati
   21:
-    arabic: فِيۡمَا
+    arabic: فِيمَا
     translation: about what
     transliteration: fīmā
   22:
-    arabic: كَانُوۡا
+    arabic: كَانُواْ
     translation: they used to
     transliteration: kānū
   23:
-    arabic: فِيۡهِ
+    arabic: فِيهِ
     translation: therein
     transliteration: fīhi
   24:
-    arabic: يَخۡتَلِفُوۡنَ‏
+    arabic: يَخۡتَلِفُونَ
     translation: differ
     transliteration: yakhtalifūna
 ---

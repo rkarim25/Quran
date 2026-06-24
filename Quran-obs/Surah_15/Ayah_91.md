@@ -1,21 +1,21 @@
 ---
-arabic_ayat: الَّذِيۡنَ جَعَلُوا الۡـقُرۡاٰنَ عِضِيۡنَ‏
+arabic_ayat: ٱلَّذِينَ جَعَلُواْ ٱلۡقُرۡءَانَ عِضِينَ
 sentence_translation: who ˹now˺ accept parts of the Quran, rejecting others.
 word_by_word:
   1:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: Those who
     transliteration: alladhīna
   2:
-    arabic: جَعَلُوا
+    arabic: جَعَلُواْ
     translation: have made
     transliteration: jaʿalū
   3:
-    arabic: الۡـقُرۡاٰنَ
+    arabic: ٱلۡقُرۡءَانَ
     translation: the Quran
     transliteration: l-qur'āna
   4:
-    arabic: عِضِيۡنَ‏
+    arabic: عِضِينَ
     translation: (in) parts
     transliteration: ʿiḍīna
 ---

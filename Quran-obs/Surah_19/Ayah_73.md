@@ -1,29 +1,28 @@
 ---
-arabic_ayat: "وَاِذَا تُتۡلٰى عَلَيۡهِمۡ اٰيٰتُنَا بَيِّنٰتٍ قَالَ الَّذِيۡنَ كَفَرُوۡا\
-  \ لِلَّذِيۡنَ اٰمَنُوۡۤا ۙ اَىُّ الۡفَرِيۡقَيۡنِ خَيۡرٌ مَّقَامًا وَّاَحۡسَنُ نَدِيًّا‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: وَإِذَا تُتۡلَىٰ عَلَيۡهِمۡ ءَايَٰتُنَا بَيِّنَٰتٖ قَالَ ٱلَّذِينَ كَفَرُواْ
+  لِلَّذِينَ ءَامَنُوٓاْ أَيُّ ٱلۡفَرِيقَيۡنِ خَيۡرٞ مَّقَامٗا وَأَحۡسَنُ نَدِيّٗا
 sentence_translation: When Our clear revelations are recited to them, the disbelievers
   ask the believers ˹mockingly˺, “Which of the two of us is better in status and superior
   in assembly?”
 word_by_word:
   1:
-    arabic: وَاِذَا
+    arabic: وَإِذَا
     translation: And when
     transliteration: wa-idhā
   2:
-    arabic: تُتۡلٰى
+    arabic: تُتۡلَىٰ
     translation: are recited
     transliteration: tut'lā
   3:
-    arabic: عَلَيۡهِمۡ
+    arabic: عَلَيۡهِمۡ ءَ
     translation: to them
     transliteration: ʿalayhim
   4:
-    arabic: اٰيٰتُنَا
+    arabic: ايَٰتُنَا
     translation: Our Verses
     transliteration: āyātunā
   5:
-    arabic: بَيِّنٰتٍ
+    arabic: بَيِّنَٰتٖ
     translation: clear
     transliteration: bayyinātin
   6:
@@ -31,43 +30,43 @@ word_by_word:
     translation: say
     transliteration: qāla
   7:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   8:
-    arabic: كَفَرُوۡا
+    arabic: كَفَرُواْ
     translation: disbelieved
     transliteration: kafarū
   9:
-    arabic: لِلَّذِيۡنَ
+    arabic: لِلَّذِينَ ءَ
     translation: to those who
     transliteration: lilladhīna
   10:
-    arabic: اٰمَنُوۡۤا ۙ
+    arabic: امَنُوٓاْ
     translation: believed
     transliteration: āmanū
   11:
-    arabic: اَىُّ
+    arabic: أَيُّ
     translation: Which
     transliteration: ayyu
   12:
-    arabic: الۡفَرِيۡقَيۡنِ
+    arabic: ٱلۡفَرِيقَيۡنِ
     translation: (of) the two groups
     transliteration: l-farīqayni
   13:
-    arabic: خَيۡرٌ
+    arabic: خَيۡرٞ
     translation: (is) better
     transliteration: khayrun
   14:
-    arabic: مَّقَامًا
+    arabic: مَّقَامٗا
     translation: (in) position
     transliteration: maqāman
   15:
-    arabic: وَّاَحۡسَنُ
+    arabic: وَأَحۡسَنُ
     translation: and best
     transliteration: wa-aḥsanu
   16:
-    arabic: "نَدِيًّا‏ \uFEFF\uFEFF"
+    arabic: نَدِيّٗا
     translation: (in) assembly
     transliteration: nadiyyan
 ---

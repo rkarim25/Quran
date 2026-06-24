@@ -1,35 +1,35 @@
 ---
-arabic_ayat: وَاَذِّنۡ فِى النَّاسِ بِالۡحَجِّ يَاۡتُوۡكَ رِجَالًا وَّعَلٰى كُلِّ
-  ضَامِرٍ يَّاۡتِيۡنَ مِنۡ كُلِّ فَجٍّ عَمِيۡقٍ ۙ‏
+arabic_ayat: وَأَذِّن فِي ٱلنَّاسِ بِٱلۡحَجِّ يَأۡتُوكَ رِجَالٗا وَعَلَىٰ كُلِّ ضَامِرٖ
+  يَأۡتِينَ مِن كُلِّ فَجٍّ عَمِيقٖ
 sentence_translation: Call ˹all˺ people to the pilgrimage. They will come to you on
   foot and on every lean camel from every distant path,
 word_by_word:
   1:
-    arabic: وَاَذِّنۡ
+    arabic: وَأَذِّن
     translation: And proclaim
     transliteration: wa-adhin
   2:
-    arabic: فِى
+    arabic: فِي
     translation: to
     transliteration: fī
   3:
-    arabic: النَّاسِ
+    arabic: ٱلنَّاسِ
     translation: '[the] mankind'
     transliteration: l-nāsi
   4:
-    arabic: بِالۡحَجِّ
+    arabic: بِٱلۡحَجِّ
     translation: '[of] the Pilgrimage'
     transliteration: bil-ḥaji
   5:
-    arabic: يَاۡتُوۡكَ
+    arabic: يَأۡتُوكَ
     translation: they will come to you
     transliteration: yatūka
   6:
-    arabic: رِجَالًا
+    arabic: رِجَالٗا
     translation: (on) foot
     transliteration: rijālan
   7:
-    arabic: وَّعَلٰى
+    arabic: وَعَلَىٰ
     translation: and on
     transliteration: waʿalā
   8:
@@ -37,15 +37,15 @@ word_by_word:
     translation: every
     transliteration: kulli
   9:
-    arabic: ضَامِرٍ
+    arabic: ضَامِرٖ
     translation: lean camel
     transliteration: ḍāmirin
   10:
-    arabic: يَّاۡتِيۡنَ
+    arabic: يَأۡتِينَ
     translation: they will come
     transliteration: yatīna
   11:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   12:
@@ -57,7 +57,7 @@ word_by_word:
     translation: mountain highway
     transliteration: fajjin
   14:
-    arabic: عَمِيۡقٍ ۙ‏
+    arabic: عَمِيقٖ
     translation: distant
     transliteration: ʿamīqin
 ---

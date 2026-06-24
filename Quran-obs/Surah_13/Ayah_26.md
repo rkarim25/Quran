@@ -1,12 +1,12 @@
 ---
-arabic_ayat: اَللّٰهُ يَبۡسُطُ الرِّزۡقَ لِمَنۡ يَّشَآءُ وَيَقۡدِرُ​ؕ وَفَرِحُوۡا
-  بِالۡحَيٰوةِ الدُّنۡيَا ؕ وَمَا الۡحَيٰوةُ الدُّنۡيَا فِى الۡاٰخِرَةِ اِلَّا مَتَاعٌ‏
+arabic_ayat: ٱللَّهُ يَبۡسُطُ ٱلرِّزۡقَ لِمَن يَشَآءُ وَيَقۡدِرُۚ وَفَرِحُواْ بِٱلۡحَيَوٰةِ
+  ٱلدُّنۡيَا وَمَا ٱلۡحَيَوٰةُ ٱلدُّنۡيَا فِي ٱلۡأٓخِرَةِ إِلَّا مَتَٰعٞ
 sentence_translation: Allah gives abundant or limited provisions to whoever He wills.
   And the disbelievers become prideful of ˹the pleasures of˺ this worldly life. But
   the life of this world, compared to the Hereafter, is nothing but a fleeting enjoyment.
 word_by_word:
   1:
-    arabic: اَللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: al-lahu
   2:
@@ -14,31 +14,31 @@ word_by_word:
     translation: extends
     transliteration: yabsuṭu
   3:
-    arabic: الرِّزۡقَ
+    arabic: ٱلرِّزۡقَ
     translation: the provision
     transliteration: l-riz'qa
   4:
-    arabic: لِمَنۡ
+    arabic: لِمَن
     translation: for whom
     transliteration: liman
   5:
-    arabic: يَّشَآءُ
+    arabic: يَشَآءُ
     translation: He wills
     transliteration: yashāu
   6:
-    arabic: وَيَقۡدِرُ​ؕ
+    arabic: وَيَقۡدِرُۚ
     translation: and restricts
     transliteration: wayaqdiru
   7:
-    arabic: وَفَرِحُوۡا
+    arabic: وَفَرِحُواْ
     translation: And they rejoice
     transliteration: wafariḥū
   8:
-    arabic: بِالۡحَيٰوةِ
+    arabic: بِٱلۡحَيَوٰةِ
     translation: in the life
     transliteration: bil-ḥayati
   9:
-    arabic: الدُّنۡيَا ؕ
+    arabic: ٱلدُّنۡيَا
     translation: (of) the world
     transliteration: l-dun'yā
   10:
@@ -46,27 +46,27 @@ word_by_word:
     translation: and nothing
     transliteration: wamā
   11:
-    arabic: الۡحَيٰوةُ
+    arabic: ٱلۡحَيَوٰةُ
     translation: (is) the life
     transliteration: l-ḥayatu
   12:
-    arabic: الدُّنۡيَا
+    arabic: ٱلدُّنۡيَا
     translation: of the world
     transliteration: l-dun'yā
   13:
-    arabic: فِى
+    arabic: فِي
     translation: in (comparison to)
     transliteration: fī
   14:
-    arabic: الۡاٰخِرَةِ
+    arabic: ٱلۡأٓخِرَةِ
     translation: the Hereafter
     transliteration: l-ākhirati
   15:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   16:
-    arabic: مَتَاعٌ‏
+    arabic: مَتَٰعٞ
     translation: an enjoyment
     transliteration: matāʿun
 ---

@@ -1,23 +1,23 @@
 ---
-arabic_ayat: اَوَلَمۡ يَرَوۡا اِلَى الۡاَرۡضِ كَمۡ اَنۡۢبَتۡنَا فِيۡهَا مِنۡ كُلِّ
-  زَوۡجٍ كَرِيۡمٍ‏
+arabic_ayat: أَوَلَمۡ يَرَوۡاْ إِلَى ٱلۡأَرۡضِ كَمۡ أَنۢبَتۡنَا فِيهَا مِن كُلِّ زَوۡجٖ
+  كَرِيمٍ
 sentence_translation: Have they failed to look at the earth, ˹to see˺ how many types
   of fine plants We have caused to grow in it?
 word_by_word:
   1:
-    arabic: اَوَلَمۡ
+    arabic: أَوَلَمۡ
     translation: Do not
     transliteration: awalam
   2:
-    arabic: يَرَوۡا
+    arabic: يَرَوۡاْ
     translation: they see
     transliteration: yaraw
   3:
-    arabic: اِلَى
+    arabic: إِلَى
     translation: at
     transliteration: ilā
   4:
-    arabic: الۡاَرۡضِ
+    arabic: ٱلۡأَرۡضِ
     translation: 'the earth '
     transliteration: l-arḍi
   5:
@@ -25,15 +25,15 @@ word_by_word:
     translation: how many
     transliteration: kam
   6:
-    arabic: اَنۡۢبَتۡنَا
+    arabic: أَنۢبَتۡنَا
     translation: We produced
     transliteration: anbatnā
   7:
-    arabic: فِيۡهَا
+    arabic: فِيهَا
     translation: in it
     transliteration: fīhā
   8:
-    arabic: مِنۡ
+    arabic: مِن
     translation: of
     transliteration: min
   9:
@@ -41,11 +41,11 @@ word_by_word:
     translation: every
     transliteration: kulli
   10:
-    arabic: زَوۡجٍ
+    arabic: زَوۡجٖ
     translation: kind
     transliteration: zawjin
   11:
-    arabic: كَرِيۡمٍ‏
+    arabic: كَرِيمٍ
     translation: noble
     transliteration: karīmin
 ---

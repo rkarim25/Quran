@@ -1,6 +1,6 @@
 ---
-arabic_ayat: "قَالَ يٰقَوۡمِ لَـيۡسَ بِىۡ ضَلٰلَةٌ وَّلٰـكِنِّىۡ رَسُوۡلٌ مِّنۡ رَّبِّ\
-  \ الۡعٰلَمِيۡنَ‏ \uFEFF\uFEFF"
+arabic_ayat: قَالَ يَٰقَوۡمِ لَيۡسَ بِي ضَلَٰلَةٞ وَلَٰكِنِّي رَسُولٞ مِّن رَّبِّ
+  ٱلۡعَٰلَمِينَ
 sentence_translation: He replied, “O my people! I am not misguided! But I am a messenger
   from the Lord of all worlds,
 word_by_word:
@@ -9,31 +9,31 @@ word_by_word:
     translation: He said
     transliteration: qāla
   2:
-    arabic: يٰقَوۡمِ
+    arabic: يَٰقَوۡمِ
     translation: O my people
     transliteration: yāqawmi
   3:
-    arabic: لَـيۡسَ
+    arabic: لَيۡسَ
     translation: There is not
     transliteration: laysa
   4:
-    arabic: بِىۡ
+    arabic: بِي
     translation: in me
     transliteration: bī
   5:
-    arabic: ضَلٰلَةٌ
+    arabic: ضَلَٰلَةٞ
     translation: error
     transliteration: ḍalālatun
   6:
-    arabic: وَّلٰـكِنِّىۡ
+    arabic: وَلَٰكِنِّي
     translation: but I am
     transliteration: walākinnī
   7:
-    arabic: رَسُوۡلٌ
+    arabic: رَسُولٞ
     translation: a Messenger
     transliteration: rasūlun
   8:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: from
     transliteration: min
   9:
@@ -41,7 +41,7 @@ word_by_word:
     translation: (the) Lord
     transliteration: rabbi
   10:
-    arabic: "الۡعٰلَمِيۡنَ‏ \uFEFF\uFEFF"
+    arabic: ٱلۡعَٰلَمِينَ
     translation: (of) the worlds
     transliteration: l-ʿālamīna
 ---

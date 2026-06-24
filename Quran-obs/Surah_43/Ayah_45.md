@@ -1,11 +1,11 @@
 ---
-arabic_ayat: وَسۡـــَٔلۡ مَنۡ اَرۡسَلۡنَا مِنۡ قَبۡلِكَ مِنۡ رُّسُلِنَاۤ اَجَعَلۡنَا
-  مِنۡ دُوۡنِ الرَّحۡمٰنِ اٰلِهَةً يُّعۡبَدُوۡنَ‏
+arabic_ayat: وَسۡـَٔلۡ مَنۡ أَرۡسَلۡنَا مِن قَبۡلِكَ مِن رُّسُلِنَآ أَجَعَلۡنَا مِن
+  دُونِ ٱلرَّحۡمَٰنِ ءَالِهَةٗ يُعۡبَدُونَ
 sentence_translation: Ask ˹the followers of˺ the messengers that We already sent before
   you if We ˹ever˺ appointed ˹other˺ gods to be worshipped besides the Most Compassionate.
 word_by_word:
   1:
-    arabic: وَسۡـــَٔلۡ
+    arabic: وَسۡـَٔلۡ
     translation: And ask
     transliteration: wasal
   2:
@@ -13,11 +13,11 @@ word_by_word:
     translation: (those) whom
     transliteration: man
   3:
-    arabic: اَرۡسَلۡنَا
+    arabic: أَرۡسَلۡنَا
     translation: We sent
     transliteration: arsalnā
   4:
-    arabic: مِنۡ
+    arabic: مِن
     translation: before you
     transliteration: min
   5:
@@ -25,35 +25,35 @@ word_by_word:
     translation: before you
     transliteration: qablika
   6:
-    arabic: مِنۡ
+    arabic: مِن
     translation: of
     transliteration: min
   7:
-    arabic: رُّسُلِنَاۤ
+    arabic: رُّسُلِنَآ
     translation: Our Messengers
     transliteration: rusulinā
   8:
-    arabic: اَجَعَلۡنَا
+    arabic: أَجَعَلۡنَا
     translation: did We make
     transliteration: ajaʿalnā
   9:
-    arabic: مِنۡ
+    arabic: مِن
     translation: besides
     transliteration: min
   10:
-    arabic: دُوۡنِ
+    arabic: دُونِ
     translation: besides
     transliteration: dūni
   11:
-    arabic: الرَّحۡمٰنِ
+    arabic: ٱلرَّحۡمَٰنِ ءَ
     translation: the Most Gracious
     transliteration: l-raḥmāni
   12:
-    arabic: اٰلِهَةً
+    arabic: الِهَةٗ
     translation: gods
     transliteration: ālihatan
   13:
-    arabic: يُّعۡبَدُوۡنَ‏
+    arabic: يُعۡبَدُونَ
     translation: to be worshipped
     transliteration: yuʿ'badūna
 ---

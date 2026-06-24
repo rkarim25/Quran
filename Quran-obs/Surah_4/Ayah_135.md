@@ -1,9 +1,9 @@
 ---
-arabic_ayat: يٰۤـاَيُّهَا الَّذِيۡنَ اٰمَنُوۡا كُوۡنُوۡا قَوَّامِيۡنَ بِالۡقِسۡطِ
-  شُهَدَآءَ لِلّٰهِ وَلَوۡ عَلٰٓى اَنۡفُسِكُمۡ اَوِ الۡوَالِدَيۡنِ وَالۡاَقۡرَبِيۡنَ​
-  ؕ اِنۡ يَّكُنۡ غَنِيًّا اَوۡ فَقِيۡرًا فَاللّٰهُ اَوۡلٰى بِهِمَا​ فَلَا تَتَّبِعُوا
-  الۡهَوٰٓى اَنۡ تَعۡدِلُوۡا ​ۚ وَاِنۡ تَلۡوٗۤا اَوۡ تُعۡرِضُوۡا فَاِنَّ اللّٰهَ كَانَ
-  بِمَا تَعۡمَلُوۡنَ خَبِيۡرًا‏
+arabic_ayat: ۞ يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُواْ كُونُواْ قَوَّٰمِينَ بِٱلۡقِسۡطِ
+  شُهَدَآءَ لِلَّهِ وَلَوۡ عَلَىٰٓ أَنفُسِكُمۡ أَوِ ٱلۡوَٰلِدَيۡنِ وَٱلۡأَقۡرَبِينَۚ
+  إِن يَكُنۡ غَنِيًّا أَوۡ فَقِيرٗا فَٱللَّهُ أَوۡلَىٰ بِهِمَاۖ فَلَا تَتَّبِعُواْ
+  ٱلۡهَوَىٰٓ أَن تَعۡدِلُواْۚ وَإِن تَلۡوُۥٓاْ أَوۡ تُعۡرِضُواْ فَإِنَّ ٱللَّهَ كَانَ
+  بِمَا تَعۡمَلُونَ خَبِيرٗا
 sentence_translation: O believers! Stand firm for justice as witnesses for Allah even
   if it is against yourselves, your parents, or close relatives. Be they rich or poor,
   Allah is best to ensure their interests. So do not let your desires cause you to
@@ -11,27 +11,27 @@ sentence_translation: O believers! Stand firm for justice as witnesses for Allah
   ˹know that˺ Allah is certainly All-Aware of what you do.
 word_by_word:
   1:
-    arabic: ۞ يٰۤـاَيُّهَا
+    arabic: ۞ يَٰٓأَيُّهَا
     translation: O you
     transliteration: yāayyuhā
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ ءَ
     translation: who
     transliteration: alladhīna
   3:
-    arabic: اٰمَنُوۡا
+    arabic: امَنُواْ
     translation: believe[d]
     transliteration: āmanū
   4:
-    arabic: كُوۡنُوۡا
+    arabic: كُونُواْ
     translation: Be
     transliteration: kūnū
   5:
-    arabic: قَوَّامِيۡنَ
+    arabic: قَوَّٰمِينَ
     translation: custodians
     transliteration: qawwāmīna
   6:
-    arabic: بِالۡقِسۡطِ
+    arabic: بِٱلۡقِسۡطِ
     translation: of justice
     transliteration: bil-qis'ṭi
   7:
@@ -39,7 +39,7 @@ word_by_word:
     translation: (as) witnesses
     transliteration: shuhadāa
   8:
-    arabic: لِلّٰهِ
+    arabic: لِلَّهِ
     translation: to Allah
     transliteration: lillahi
   9:
@@ -47,31 +47,31 @@ word_by_word:
     translation: even if
     transliteration: walaw
   10:
-    arabic: عَلٰٓى
+    arabic: عَلَىٰٓ
     translation: (it is) against
     transliteration: ʿalā
   11:
-    arabic: اَنۡفُسِكُمۡ
+    arabic: أَنفُسِكُمۡ
     translation: yourselves
     transliteration: anfusikum
   12:
-    arabic: اَوِ
+    arabic: أَوِ
     translation: or
     transliteration: awi
   13:
-    arabic: الۡوَالِدَيۡنِ
+    arabic: ٱلۡوَٰلِدَيۡنِ
     translation: the parents
     transliteration: l-wālidayni
   14:
-    arabic: وَالۡاَقۡرَبِيۡنَ​ ؕ
+    arabic: وَٱلۡأَقۡرَبِينَۚ
     translation: and the relatives
     transliteration: wal-aqrabīna
   15:
-    arabic: اِنۡ
+    arabic: إِن
     translation: if
     transliteration: in
   16:
-    arabic: يَّكُنۡ
+    arabic: يَكُنۡ
     translation: he be
     transliteration: yakun
   17:
@@ -79,23 +79,23 @@ word_by_word:
     translation: rich
     transliteration: ghaniyyan
   18:
-    arabic: اَوۡ
+    arabic: أَوۡ
     translation: or
     transliteration: aw
   19:
-    arabic: فَقِيۡرًا
+    arabic: فَقِيرٗا
     translation: poor
     transliteration: faqīran
   20:
-    arabic: فَاللّٰهُ
+    arabic: فَٱللَّهُ
     translation: for Allah
     transliteration: fal-lahu
   21:
-    arabic: اَوۡلٰى
+    arabic: أَوۡلَىٰ
     translation: (is) nearer
     transliteration: awlā
   22:
-    arabic: بِهِمَا​
+    arabic: بِهِمَاۖ
     translation: to both of them
     transliteration: bihimā
   23:
@@ -103,43 +103,43 @@ word_by_word:
     translation: So (do) not
     transliteration: falā
   24:
-    arabic: تَتَّبِعُوا
+    arabic: تَتَّبِعُواْ
     translation: follow
     transliteration: tattabiʿū
   25:
-    arabic: الۡهَوٰٓى
+    arabic: ٱلۡهَوَىٰٓ
     translation: the desire
     transliteration: l-hawā
   26:
-    arabic: اَنۡ
+    arabic: أَن
     translation: lest
     transliteration: an
   27:
-    arabic: تَعۡدِلُوۡا ​ۚ
+    arabic: تَعۡدِلُواْۚ
     translation: you deviate
     transliteration: taʿdilū
   28:
-    arabic: وَاِنۡ
+    arabic: وَإِن
     translation: And if
     transliteration: wa-in
   29:
-    arabic: تَلۡوٗۤا
+    arabic: تَلۡوُۥٓاْ
     translation: you distort
     transliteration: talwū
   30:
-    arabic: اَوۡ
+    arabic: أَوۡ
     translation: or
     transliteration: aw
   31:
-    arabic: تُعۡرِضُوۡا
+    arabic: تُعۡرِضُواْ
     translation: refrain
     transliteration: tuʿ'riḍū
   32:
-    arabic: فَاِنَّ
+    arabic: فَإِنَّ
     translation: then indeed
     transliteration: fa-inna
   33:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   34:
@@ -151,11 +151,11 @@ word_by_word:
     translation: of what
     transliteration: bimā
   36:
-    arabic: تَعۡمَلُوۡنَ
+    arabic: تَعۡمَلُونَ
     translation: you do
     transliteration: taʿmalūna
   37:
-    arabic: خَبِيۡرًا‏
+    arabic: خَبِيرٗا
     translation: All-Aware
     transliteration: khabīran
 ---

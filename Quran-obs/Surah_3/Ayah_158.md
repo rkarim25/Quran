@@ -1,10 +1,10 @@
 ---
-arabic_ayat: وَلَٮِٕنۡ مُّتُّمۡ اَوۡ قُتِلۡتُمۡ لَا اِلَى اللّٰهِ تُحۡشَرُوۡنَ‏
+arabic_ayat: وَلَئِن مُّتُّمۡ أَوۡ قُتِلۡتُمۡ لَإِلَى ٱللَّهِ تُحۡشَرُونَ
 sentence_translation: Whether you die or are martyred—all of you will be gathered
   before Allah.
 word_by_word:
   1:
-    arabic: وَلَٮِٕنۡ
+    arabic: وَلَئِن
     translation: And if
     transliteration: wala-in
   2:
@@ -12,7 +12,7 @@ word_by_word:
     translation: you die
     transliteration: muttum
   3:
-    arabic: اَوۡ
+    arabic: أَوۡ
     translation: or
     transliteration: aw
   4:
@@ -20,15 +20,15 @@ word_by_word:
     translation: are killed
     transliteration: qutil'tum
   5:
-    arabic: لَا اِلَى
+    arabic: لَإِلَى
     translation: surely to
     transliteration: la-ilā
   6:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   7:
-    arabic: تُحۡشَرُوۡنَ‏
+    arabic: تُحۡشَرُونَ
     translation: you will be gathered
     transliteration: tuḥ'sharūna
 ---

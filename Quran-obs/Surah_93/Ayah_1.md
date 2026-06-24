@@ -1,9 +1,9 @@
 ---
-arabic_ayat: وَالضُّحٰىۙ‏
+arabic_ayat: وَٱلضُّحَىٰ
 sentence_translation: By the morning sunlight,
 word_by_word:
   1:
-    arabic: وَالضُّحٰىۙ‏
+    arabic: وَٱلضُّحَىٰ
     translation: By the morning brightness
     transliteration: wal-ḍuḥā
 ---

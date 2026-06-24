@@ -1,7 +1,7 @@
 ---
-arabic_ayat: وَوَهَبۡنَا لَهٗۤ اِسۡحٰقَ وَيَعۡقُوۡبَ وَجَعَلۡنَا فِىۡ ذُرِّيَّتِهِ
-  النُّبُوَّةَ وَالۡكِتٰبَ وَاٰتَيۡنٰهُ اَجۡرَهٗ فِى الدُّنۡيَا ​ۚ وَاِنَّهٗ فِى الۡاٰخِرَةِ
-  لَمِنَ الصّٰلِحِيۡنَ‏
+arabic_ayat: وَوَهَبۡنَا لَهُۥٓ إِسۡحَٰقَ وَيَعۡقُوبَ وَجَعَلۡنَا فِي ذُرِّيَّتِهِ
+  ٱلنُّبُوَّةَ وَٱلۡكِتَٰبَ وَءَاتَيۡنَٰهُ أَجۡرَهُۥ فِي ٱلدُّنۡيَاۖ وَإِنَّهُۥ فِي
+  ٱلۡأٓخِرَةِ لَمِنَ ٱلصَّٰلِحِينَ
 sentence_translation: We blessed him with Isaac and ˹later˺ Jacob, and reserved prophethood
   and revelation for his descendants. We gave him his reward in this life, and in
   the Hereafter he will certainly be among the righteous.
@@ -11,15 +11,15 @@ word_by_word:
     translation: And We granted
     transliteration: wawahabnā
   2:
-    arabic: لَهٗۤ
+    arabic: لَهُۥٓ
     translation: to him
     transliteration: lahu
   3:
-    arabic: اِسۡحٰقَ
+    arabic: إِسۡحَٰقَ
     translation: Isaac
     transliteration: is'ḥāqa
   4:
-    arabic: وَيَعۡقُوۡبَ
+    arabic: وَيَعۡقُوبَ
     translation: and Yaqub
     transliteration: wayaʿqūba
   5:
@@ -27,7 +27,7 @@ word_by_word:
     translation: and We placed
     transliteration: wajaʿalnā
   6:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   7:
@@ -35,39 +35,39 @@ word_by_word:
     translation: his offsprings
     transliteration: dhurriyyatihi
   8:
-    arabic: النُّبُوَّةَ
+    arabic: ٱلنُّبُوَّةَ
     translation: the Prophethood
     transliteration: l-nubuwata
   9:
-    arabic: وَالۡكِتٰبَ
+    arabic: وَٱلۡكِتَٰبَ
     translation: and the Book
     transliteration: wal-kitāba
   10:
-    arabic: وَاٰتَيۡنٰهُ
+    arabic: وَءَاتَيۡنَٰهُ
     translation: And We gave him
     transliteration: waātaynāhu
   11:
-    arabic: اَجۡرَهٗ
+    arabic: أَجۡرَهُۥ
     translation: his reward
     transliteration: ajrahu
   12:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   13:
-    arabic: الدُّنۡيَا ​ۚ
+    arabic: ٱلدُّنۡيَاۖ
     translation: the world
     transliteration: l-dun'yā
   14:
-    arabic: وَاِنَّهٗ
+    arabic: وَإِنَّهُۥ
     translation: And indeed, he
     transliteration: wa-innahu
   15:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   16:
-    arabic: الۡاٰخِرَةِ
+    arabic: ٱلۡأٓخِرَةِ
     translation: the Hereafter
     transliteration: l-ākhirati
   17:
@@ -75,7 +75,7 @@ word_by_word:
     translation: (is) surely, among
     transliteration: lamina
   18:
-    arabic: الصّٰلِحِيۡنَ‏
+    arabic: ٱلصَّٰلِحِينَ
     translation: the righteous
     transliteration: l-ṣāliḥīna
 ---

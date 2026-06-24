@@ -1,13 +1,13 @@
 ---
-arabic_ayat: لَـوَّاحَةٌ لِّلۡبَشَرِ​ۖ​ۚ‏
+arabic_ayat: لَوَّاحَةٞ لِّلۡبَشَرِ
 sentence_translation: scorching the skin.
 word_by_word:
   1:
-    arabic: لَـوَّاحَةٌ
+    arabic: لَوَّاحَةٞ
     translation: Scorching
     transliteration: lawwāḥatun
   2:
-    arabic: لِّلۡبَشَرِ​ۖ​ۚ‏
+    arabic: لِّلۡبَشَرِ
     translation: the human (skin)
     transliteration: lil'bashari
 ---

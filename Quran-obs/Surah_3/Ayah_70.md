@@ -1,15 +1,15 @@
 ---
-arabic_ayat: "يٰۤـاَهۡلَ الۡكِتٰبِ لِمَ تَكۡفُرُوۡنَ بِاٰيٰتِ اللّٰهِ وَاَنۡـتُمۡ\
-  \ تَشۡهَدُوۡنَ‏ \uFEFF\uFEFF"
+arabic_ayat: يَٰٓأَهۡلَ ٱلۡكِتَٰبِ لِمَ تَكۡفُرُونَ بِـَٔايَٰتِ ٱللَّهِ وَأَنتُمۡ
+  تَشۡهَدُونَ
 sentence_translation: O  People of the Book! Why do you reject the signs of Allah
   while you bear witness ˹to their truth˺?
 word_by_word:
   1:
-    arabic: يٰۤـاَهۡلَ
+    arabic: يَٰٓأَهۡلَ
     translation: O People
     transliteration: yāahla
   2:
-    arabic: الۡكِتٰبِ
+    arabic: ٱلۡكِتَٰبِ
     translation: (of) the Book
     transliteration: l-kitābi
   3:
@@ -17,23 +17,23 @@ word_by_word:
     translation: Why do
     transliteration: lima
   4:
-    arabic: تَكۡفُرُوۡنَ
+    arabic: تَكۡفُرُونَ
     translation: you deny
     transliteration: takfurūna
   5:
-    arabic: بِاٰيٰتِ
+    arabic: بِـَٔايَٰتِ
     translation: '[in] the Signs'
     transliteration: biāyāti
   6:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (of) Allah
     transliteration: l-lahi
   7:
-    arabic: وَاَنۡـتُمۡ
+    arabic: وَأَنتُمۡ
     translation: while you
     transliteration: wa-antum
   8:
-    arabic: "تَشۡهَدُوۡنَ‏ \uFEFF\uFEFF"
+    arabic: تَشۡهَدُونَ
     translation: bear witness
     transliteration: tashhadūna
 ---

@@ -1,5 +1,5 @@
 ---
-arabic_ayat: قَالَ هٰذَا صِرَاطٌ عَلَىَّ مُسۡتَقِيۡمٌ‏
+arabic_ayat: قَالَ هَٰذَا صِرَٰطٌ عَلَيَّ مُسۡتَقِيمٌ
 sentence_translation: 'Allah said, “This is the Way, binding on Me:'
 word_by_word:
   1:
@@ -7,19 +7,19 @@ word_by_word:
     translation: He said
     transliteration: qāla
   2:
-    arabic: هٰذَا
+    arabic: هَٰذَا
     translation: This
     transliteration: hādhā
   3:
-    arabic: صِرَاطٌ
+    arabic: صِرَٰطٌ
     translation: (is) the way
     transliteration: ṣirāṭun
   4:
-    arabic: عَلَىَّ
+    arabic: عَلَيَّ
     translation: to Me
     transliteration: ʿalayya
   5:
-    arabic: مُسۡتَقِيۡمٌ‏
+    arabic: مُسۡتَقِيمٌ
     translation: straight
     transliteration: mus'taqīmun
 ---

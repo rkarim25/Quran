@@ -1,13 +1,13 @@
 ---
-arabic_ayat: هٰذَا نَذِيۡرٌ مِّنَ النُّذُرِ الۡاُوۡلٰٓى‏
+arabic_ayat: هَٰذَا نَذِيرٞ مِّنَ ٱلنُّذُرِ ٱلۡأُولَىٰٓ
 sentence_translation: This ˹Prophet˺ is a warner like earlier ones.
 word_by_word:
   1:
-    arabic: هٰذَا
+    arabic: هَٰذَا
     translation: This
     transliteration: hādhā
   2:
-    arabic: نَذِيۡرٌ
+    arabic: نَذِيرٞ
     translation: (is) a warner
     transliteration: nadhīrun
   3:
@@ -15,11 +15,11 @@ word_by_word:
     translation: from
     transliteration: mina
   4:
-    arabic: النُّذُرِ
+    arabic: ٱلنُّذُرِ
     translation: the warners
     transliteration: l-nudhuri
   5:
-    arabic: الۡاُوۡلٰٓى‏
+    arabic: ٱلۡأُولَىٰٓ
     translation: the former
     transliteration: l-ūlā
 ---

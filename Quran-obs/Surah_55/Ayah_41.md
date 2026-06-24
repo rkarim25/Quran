@@ -1,6 +1,5 @@
 ---
-arabic_ayat: "يُعۡرَفُ الۡمُجۡرِمُوۡنَ بِسِيۡمٰهُمۡ فَيُؤۡخَذُ بِالنَّوَاصِىۡ وَ الۡاَقۡدَامِ​ۚ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: يُعۡرَفُ ٱلۡمُجۡرِمُونَ بِسِيمَٰهُمۡ فَيُؤۡخَذُ بِٱلنَّوَٰصِي وَٱلۡأَقۡدَامِ
 sentence_translation: The wicked will be recognized by their appearance, then will
   be seized by ˹their˺ forelocks and feet.
 word_by_word:
@@ -9,11 +8,11 @@ word_by_word:
     translation: Will be known
     transliteration: yuʿ'rafu
   2:
-    arabic: الۡمُجۡرِمُوۡنَ
+    arabic: ٱلۡمُجۡرِمُونَ
     translation: the criminals
     transliteration: l-muj'rimūna
   3:
-    arabic: بِسِيۡمٰهُمۡ
+    arabic: بِسِيمَٰهُمۡ
     translation: by their marks
     transliteration: bisīmāhum
   4:
@@ -21,11 +20,11 @@ word_by_word:
     translation: and will be seized
     transliteration: fayu'khadhu
   5:
-    arabic: بِالنَّوَاصِىۡ
+    arabic: بِٱلنَّوَٰصِي
     translation: by the forelocks
     transliteration: bil-nawāṣī
   6:
-    arabic: "وَ الۡاَقۡدَامِ​ۚ‏ \uFEFF\uFEFF"
+    arabic: وَٱلۡأَقۡدَامِ
     translation: and the feet
     transliteration: wal-aqdāmi
 ---

@@ -1,5 +1,5 @@
 ---
-arabic_ayat: عَمَّا كَانُوۡا يَعۡمَلُوۡنَ‏
+arabic_ayat: عَمَّا كَانُواْ يَعۡمَلُونَ
 sentence_translation: about what they used to do.
 word_by_word:
   1:
@@ -7,11 +7,11 @@ word_by_word:
     translation: About what
     transliteration: ʿammā
   2:
-    arabic: كَانُوۡا
+    arabic: كَانُواْ
     translation: they used (to)
     transliteration: kānū
   3:
-    arabic: يَعۡمَلُوۡنَ‏
+    arabic: يَعۡمَلُونَ
     translation: do
     transliteration: yaʿmalūna
 ---

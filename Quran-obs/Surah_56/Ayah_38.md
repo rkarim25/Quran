@@ -1,13 +1,13 @@
 ---
-arabic_ayat: لِّاَصۡحٰبِ الۡيَمِيۡنِؕ‏
+arabic_ayat: لِّأَصۡحَٰبِ ٱلۡيَمِينِ
 sentence_translation: for the people of the right,
 word_by_word:
   1:
-    arabic: لِّاَصۡحٰبِ
+    arabic: لِّأَصۡحَٰبِ
     translation: For (the) companions
     transliteration: li-aṣḥābi
   2:
-    arabic: الۡيَمِيۡنِؕ‏
+    arabic: ٱلۡيَمِينِ
     translation: (of) the right
     transliteration: l-yamīni
 ---

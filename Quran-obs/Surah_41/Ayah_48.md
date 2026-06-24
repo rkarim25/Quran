@@ -1,6 +1,6 @@
 ---
-arabic_ayat: وَضَلَّ عَنۡهُمۡ مَّا كَانُوۡا يَدۡعُوۡنَ مِنۡ قَبۡلُ​ وَظَنُّوۡا مَا
-  لَهُمۡ مِّنۡ مَّحِيۡصٍ‏
+arabic_ayat: وَضَلَّ عَنۡهُم مَّا كَانُواْ يَدۡعُونَ مِن قَبۡلُۖ وَظَنُّواْ مَا لَهُم
+  مِّن مَّحِيصٖ
 sentence_translation: Whatever ˹idols˺ they used to invoke besides Allah will fail
   them. And they will realize that they will have no escape.
 word_by_word:
@@ -9,7 +9,7 @@ word_by_word:
     translation: And lost
     transliteration: waḍalla
   2:
-    arabic: عَنۡهُمۡ
+    arabic: عَنۡهُم
     translation: from them
     transliteration: ʿanhum
   3:
@@ -17,23 +17,23 @@ word_by_word:
     translation: what
     transliteration: mā
   4:
-    arabic: كَانُوۡا
+    arabic: كَانُواْ
     translation: they were
     transliteration: kānū
   5:
-    arabic: يَدۡعُوۡنَ
+    arabic: يَدۡعُونَ
     translation: invoking
     transliteration: yadʿūna
   6:
-    arabic: مِنۡ
+    arabic: مِن
     translation: before
     transliteration: min
   7:
-    arabic: قَبۡلُ​
+    arabic: قَبۡلُۖ
     translation: before
     transliteration: qablu
   8:
-    arabic: وَظَنُّوۡا
+    arabic: وَظَنُّواْ
     translation: and they (will) be certain
     transliteration: waẓannū
   9:
@@ -41,15 +41,15 @@ word_by_word:
     translation: (that) not
     transliteration: mā
   10:
-    arabic: لَهُمۡ
+    arabic: لَهُم
     translation: for them
     transliteration: lahum
   11:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: any
     transliteration: min
   12:
-    arabic: مَّحِيۡصٍ‏
+    arabic: مَّحِيصٖ
     translation: place of escape
     transliteration: maḥīṣin
 ---

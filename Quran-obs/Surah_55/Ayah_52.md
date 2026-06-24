@@ -1,13 +1,13 @@
 ---
-arabic_ayat: فِيۡهِمَا مِنۡ كُلِّ فَاكِهَةٍ زَوۡجٰنِ​ۚ‏
+arabic_ayat: فِيهِمَا مِن كُلِّ فَٰكِهَةٖ زَوۡجَانِ
 sentence_translation: In each will be two types of every fruit.
 word_by_word:
   1:
-    arabic: فِيۡهِمَا
+    arabic: فِيهِمَا
     translation: In both of them
     transliteration: fīhimā
   2:
-    arabic: مِنۡ
+    arabic: مِن
     translation: '[of]'
     transliteration: min
   3:
@@ -15,11 +15,11 @@ word_by_word:
     translation: (are) every
     transliteration: kulli
   4:
-    arabic: فَاكِهَةٍ
+    arabic: فَٰكِهَةٖ
     translation: fruits
     transliteration: fākihatin
   5:
-    arabic: زَوۡجٰنِ​ۚ‏
+    arabic: زَوۡجَانِ
     translation: (in) pairs
     transliteration: zawjāni
 ---

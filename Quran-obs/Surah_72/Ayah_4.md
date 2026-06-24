@@ -1,10 +1,10 @@
 ---
-arabic_ayat: وَّ اَنَّهٗ كَانَ يَقُوۡلُ سَفِيۡهُنَا عَلَى اللّٰهِ شَطَطًا ۙ‏
+arabic_ayat: وَأَنَّهُۥ كَانَ يَقُولُ سَفِيهُنَا عَلَى ٱللَّهِ شَطَطٗا
 sentence_translation: and that the foolish of us used to utter ˹outrageous˺ falsehoods
   about Allah.
 word_by_word:
   1:
-    arabic: وَّ اَنَّهٗ
+    arabic: وَأَنَّهُۥ
     translation: And that he
     transliteration: wa-annahu
   2:
@@ -12,11 +12,11 @@ word_by_word:
     translation: used to
     transliteration: kāna
   3:
-    arabic: يَقُوۡلُ
+    arabic: يَقُولُ
     translation: 'speak '
     transliteration: yaqūlu
   4:
-    arabic: سَفِيۡهُنَا
+    arabic: سَفِيهُنَا
     translation: the foolish among us
     transliteration: safīhunā
   5:
@@ -24,11 +24,11 @@ word_by_word:
     translation: against
     transliteration: ʿalā
   6:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   7:
-    arabic: شَطَطًا ۙ‏
+    arabic: شَطَطٗا
     translation: an excessive transgression
     transliteration: shaṭaṭan
 ---

@@ -1,6 +1,6 @@
 ---
-arabic_ayat: وَمَا كُنۡتَ تَـتۡلُوۡا مِنۡ قَبۡلِهٖ مِنۡ كِتٰبٍ وَّلَا تَخُطُّهٗ بِيَمِيۡنِكَ​
-  اِذًا لَّارۡتَابَ الۡمُبۡطِلُوۡنَ‏
+arabic_ayat: وَمَا كُنتَ تَتۡلُواْ مِن قَبۡلِهِۦ مِن كِتَٰبٖ وَلَا تَخُطُّهُۥ بِيَمِينِكَۖ
+  إِذٗا لَّٱرۡتَابَ ٱلۡمُبۡطِلُونَ
 sentence_translation: You ˹O Prophet˺ could not read any writing ˹even˺ before this
   ˹revelation˺, nor could you write at all. Otherwise, the people of falsehood would
   have been suspicious.
@@ -10,51 +10,51 @@ word_by_word:
     translation: And not
     transliteration: wamā
   2:
-    arabic: كُنۡتَ
+    arabic: كُنتَ
     translation: (did) you
     transliteration: kunta
   3:
-    arabic: تَـتۡلُوۡا
+    arabic: تَتۡلُواْ
     translation: recite
     transliteration: tatlū
   4:
-    arabic: مِنۡ
+    arabic: مِن
     translation: before it
     transliteration: min
   5:
-    arabic: قَبۡلِهٖ
+    arabic: قَبۡلِهِۦ
     translation: before it
     transliteration: qablihi
   6:
-    arabic: مِنۡ
+    arabic: مِن
     translation: any
     transliteration: min
   7:
-    arabic: كِتٰبٍ
+    arabic: كِتَٰبٖ
     translation: Book
     transliteration: kitābin
   8:
-    arabic: وَّلَا
+    arabic: وَلَا
     translation: and not
     transliteration: walā
   9:
-    arabic: تَخُطُّهٗ
+    arabic: تَخُطُّهُۥ
     translation: (did) you write it
     transliteration: takhuṭṭuhu
   10:
-    arabic: بِيَمِيۡنِكَ​
+    arabic: بِيَمِينِكَۖ
     translation: with your right hand
     transliteration: biyamīnika
   11:
-    arabic: اِذًا
+    arabic: إِذٗا
     translation: in that case
     transliteration: idhan
   12:
-    arabic: لَّارۡتَابَ
+    arabic: لَّٱرۡتَابَ
     translation: surely (would) have doubted
     transliteration: la-ir'tāba
   13:
-    arabic: الۡمُبۡطِلُوۡنَ‏
+    arabic: ٱلۡمُبۡطِلُونَ
     translation: the falsifiers
     transliteration: l-mub'ṭilūna
 ---

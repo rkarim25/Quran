@@ -1,6 +1,6 @@
 ---
-arabic_ayat: قَدۡ خَلَتۡ مِنۡ قَبۡلِكُمۡ سُنَنٌ ۙ فَسِيۡرُوۡا فِى الۡاَرۡضِ فَانۡظُرُوۡا
-  كَيۡفَ كَانَ عَاقِبَةُ الۡمُكَذِّبِيۡنَ‏
+arabic_ayat: قَدۡ خَلَتۡ مِن قَبۡلِكُمۡ سُنَنٞ فَسِيرُواْ فِي ٱلۡأَرۡضِ فَٱنظُرُواْ
+  كَيۡفَ كَانَ عَٰقِبَةُ ٱلۡمُكَذِّبِينَ
 sentence_translation: Similar situations came to pass before you, so travel throughout
   the land and see the fate of the deniers.
 word_by_word:
@@ -13,7 +13,7 @@ word_by_word:
     translation: passed
     transliteration: khalat
   3:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   4:
@@ -21,23 +21,23 @@ word_by_word:
     translation: before you
     transliteration: qablikum
   5:
-    arabic: سُنَنٌ ۙ
+    arabic: سُنَنٞ
     translation: situations
     transliteration: sunanun
   6:
-    arabic: فَسِيۡرُوۡا
+    arabic: فَسِيرُواْ
     translation: then travel
     transliteration: fasīrū
   7:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   8:
-    arabic: الۡاَرۡضِ
+    arabic: ٱلۡأَرۡضِ
     translation: the earth
     transliteration: l-arḍi
   9:
-    arabic: فَانۡظُرُوۡا
+    arabic: فَٱنظُرُواْ
     translation: and see
     transliteration: fa-unẓurū
   10:
@@ -49,11 +49,11 @@ word_by_word:
     translation: was
     transliteration: kāna
   12:
-    arabic: عَاقِبَةُ
+    arabic: عَٰقِبَةُ
     translation: (the) end
     transliteration: ʿāqibatu
   13:
-    arabic: الۡمُكَذِّبِيۡنَ‏
+    arabic: ٱلۡمُكَذِّبِينَ
     translation: (of) the deniers
     transliteration: l-mukadhibīna
 ---

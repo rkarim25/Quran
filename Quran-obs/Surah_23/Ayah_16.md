@@ -1,5 +1,5 @@
 ---
-arabic_ayat: ثُمَّ اِنَّكُمۡ يَوۡمَ الۡقِيٰمَةِ تُبۡعَثُوۡنَ‏
+arabic_ayat: ثُمَّ إِنَّكُمۡ يَوۡمَ ٱلۡقِيَٰمَةِ تُبۡعَثُونَ
 sentence_translation: then on the Day of Judgment you will be resurrected.
 word_by_word:
   1:
@@ -7,7 +7,7 @@ word_by_word:
     translation: Then
     transliteration: thumma
   2:
-    arabic: اِنَّكُمۡ
+    arabic: إِنَّكُمۡ
     translation: indeed, you
     transliteration: innakum
   3:
@@ -15,11 +15,11 @@ word_by_word:
     translation: (on the) Day
     transliteration: yawma
   4:
-    arabic: الۡقِيٰمَةِ
+    arabic: ٱلۡقِيَٰمَةِ
     translation: (of) the Resurrection
     transliteration: l-qiyāmati
   5:
-    arabic: تُبۡعَثُوۡنَ‏
+    arabic: تُبۡعَثُونَ
     translation: will be resurrected
     transliteration: tub'ʿathūna
 ---

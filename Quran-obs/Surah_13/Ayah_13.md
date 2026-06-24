@@ -1,7 +1,7 @@
 ---
-arabic_ayat: ​وَيُسَبِّحُ الرَّعۡدُ بِحَمۡدِهٖ وَالۡمَلٰۤـٮِٕكَةُ مِنۡ خِيۡفَتِهٖ
-  ​ۚ وَيُرۡسِلُ الصَّوَاعِقَ فَيُصِيۡبُ بِهَا مَنۡ يَّشَآءُ وَهُمۡ يُجَادِلُوۡنَ
-  فِى اللّٰه​ۚ ِ وَهُوَ شَدِيۡدُ الۡمِحَالِؕ‏
+arabic_ayat: وَيُسَبِّحُ ٱلرَّعۡدُ بِحَمۡدِهِۦ وَٱلۡمَلَٰٓئِكَةُ مِنۡ خِيفَتِهِۦ وَيُرۡسِلُ
+  ٱلصَّوَٰعِقَ فَيُصِيبُ بِهَا مَن يَشَآءُ وَهُمۡ يُجَٰدِلُونَ فِي ٱللَّهِ وَهُوَ
+  شَدِيدُ ٱلۡمِحَالِ
 sentence_translation: The thunder glorifies His praises, as do the angels in awe of
   Him. He sends thunderbolts, striking with them whoever He wills. Yet they dispute
   about Allah. And He is tremendous in might.
@@ -11,15 +11,15 @@ word_by_word:
     translation: And glorifies
     transliteration: wayusabbiḥu
   2:
-    arabic: الرَّعۡدُ
+    arabic: ٱلرَّعۡدُ
     translation: the thunder
     transliteration: l-raʿdu
   3:
-    arabic: بِحَمۡدِهٖ
+    arabic: بِحَمۡدِهِۦ
     translation: 'with his praise '
     transliteration: biḥamdihi
   4:
-    arabic: وَالۡمَلٰۤـٮِٕكَةُ
+    arabic: وَٱلۡمَلَٰٓئِكَةُ
     translation: and the Angels
     transliteration: wal-malāikatu
   5:
@@ -27,7 +27,7 @@ word_by_word:
     translation: for
     transliteration: min
   6:
-    arabic: خِيۡفَتِهٖ ​ۚ
+    arabic: خِيفَتِهِۦ
     translation: fear of Him
     transliteration: khīfatihi
   7:
@@ -35,11 +35,11 @@ word_by_word:
     translation: And He sends
     transliteration: wayur'silu
   8:
-    arabic: الصَّوَاعِقَ
+    arabic: ٱلصَّوَٰعِقَ
     translation: the thunderbolts
     transliteration: l-ṣawāʿiqa
   9:
-    arabic: فَيُصِيۡبُ
+    arabic: فَيُصِيبُ
     translation: and strikes
     transliteration: fayuṣību
   10:
@@ -47,11 +47,11 @@ word_by_word:
     translation: with it
     transliteration: bihā
   11:
-    arabic: مَنۡ
+    arabic: مَن
     translation: whom
     transliteration: man
   12:
-    arabic: يَّشَآءُ
+    arabic: يَشَآءُ
     translation: He wills
     transliteration: yashāu
   13:
@@ -59,15 +59,15 @@ word_by_word:
     translation: yet they
     transliteration: wahum
   14:
-    arabic: يُجَادِلُوۡنَ
+    arabic: يُجَٰدِلُونَ
     translation: dispute
     transliteration: yujādilūna
   15:
-    arabic: فِى
+    arabic: فِي
     translation: about
     transliteration: fī
   16:
-    arabic: اللّٰه​ۚ ِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   17:
@@ -75,11 +75,11 @@ word_by_word:
     translation: And He
     transliteration: wahuwa
   18:
-    arabic: شَدِيۡدُ
+    arabic: شَدِيدُ
     translation: (is) Mighty
     transliteration: shadīdu
   19:
-    arabic: الۡمِحَالِؕ‏
+    arabic: ٱلۡمِحَالِ
     translation: (in) Strength
     transliteration: l-miḥāli
 ---

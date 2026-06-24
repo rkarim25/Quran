@@ -1,9 +1,9 @@
 ---
-arabic_ayat: وَالۡاَرۡضِ ذَاتِ الصَّدۡعِۙ‏
+arabic_ayat: وَٱلۡأَرۡضِ ذَاتِ ٱلصَّدۡعِ
 sentence_translation: and the earth with its sprouting plants!
 word_by_word:
   1:
-    arabic: وَالۡاَرۡضِ
+    arabic: وَٱلۡأَرۡضِ
     translation: And the earth
     transliteration: wal-arḍi
   2:
@@ -11,7 +11,7 @@ word_by_word:
     translation: which
     transliteration: dhāti
   3:
-    arabic: الصَّدۡعِۙ‏
+    arabic: ٱلصَّدۡعِ
     translation: cracks open
     transliteration: l-ṣadʿi
 ---

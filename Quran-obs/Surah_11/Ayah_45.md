@@ -1,20 +1,20 @@
 ---
-arabic_ayat: وَنَادٰى نُوۡحٌ رَّبَّهٗ فَقَالَ رَبِّ اِنَّ ابۡنِىۡ مِنۡ اَهۡلِىۡ وَاِنَّ
-  وَعۡدَكَ الۡحَـقُّ وَاَنۡتَ اَحۡكَمُ الۡحٰكِمِيۡنَ‏
+arabic_ayat: وَنَادَىٰ نُوحٞ رَّبَّهُۥ فَقَالَ رَبِّ إِنَّ ٱبۡنِي مِنۡ أَهۡلِي وَإِنَّ
+  وَعۡدَكَ ٱلۡحَقُّ وَأَنتَ أَحۡكَمُ ٱلۡحَٰكِمِينَ
 sentence_translation: Noah called out to his Lord, saying, “My Lord! Certainly my
   son is ˹also˺ of my family, Your promise is surely true, and You are the most just
   of all judges!”
 word_by_word:
   1:
-    arabic: وَنَادٰى
+    arabic: وَنَادَىٰ
     translation: And Nuh called
     transliteration: wanādā
   2:
-    arabic: نُوۡحٌ
+    arabic: نُوحٞ
     translation: And Nuh called
     transliteration: nūḥun
   3:
-    arabic: رَّبَّهٗ
+    arabic: رَّبَّهُۥ
     translation: (to) his Lord
     transliteration: rabbahu
   4:
@@ -26,11 +26,11 @@ word_by_word:
     translation: O my Lord
     transliteration: rabbi
   6:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   7:
-    arabic: ابۡنِىۡ
+    arabic: ٱبۡنِي
     translation: my son
     transliteration: ib'nī
   8:
@@ -38,11 +38,11 @@ word_by_word:
     translation: (is) of
     transliteration: min
   9:
-    arabic: اَهۡلِىۡ
+    arabic: أَهۡلِي
     translation: my family
     transliteration: ahlī
   10:
-    arabic: وَاِنَّ
+    arabic: وَإِنَّ
     translation: and indeed
     transliteration: wa-inna
   11:
@@ -50,19 +50,19 @@ word_by_word:
     translation: Your promise
     transliteration: waʿdaka
   12:
-    arabic: الۡحَـقُّ
+    arabic: ٱلۡحَقُّ
     translation: (is) true
     transliteration: l-ḥaqu
   13:
-    arabic: وَاَنۡتَ
+    arabic: وَأَنتَ
     translation: and You
     transliteration: wa-anta
   14:
-    arabic: اَحۡكَمُ
+    arabic: أَحۡكَمُ
     translation: (are) the Most Just
     transliteration: aḥkamu
   15:
-    arabic: الۡحٰكِمِيۡنَ‏
+    arabic: ٱلۡحَٰكِمِينَ
     translation: (of) the judges
     transliteration: l-ḥākimīna
 ---

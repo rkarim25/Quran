@@ -1,11 +1,10 @@
 ---
-arabic_ayat: "فَاِنۡ لَّمۡ تَاۡتُوۡنِىۡ بِهٖ فَلَا كَيۡلَ لَـكُمۡ عِنۡدِىۡ وَلَا تَقۡرَبُوۡنِ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: فَإِن لَّمۡ تَأۡتُونِي بِهِۦ فَلَا كَيۡلَ لَكُمۡ عِندِي وَلَا تَقۡرَبُونِ
 sentence_translation: But if you do not bring him to me ˹next time˺, I will have no
   grain for you, nor will you ever come close to me again.”
 word_by_word:
   1:
-    arabic: فَاِنۡ
+    arabic: فَإِن
     translation: But if
     transliteration: fa-in
   2:
@@ -13,11 +12,11 @@ word_by_word:
     translation: not
     transliteration: lam
   3:
-    arabic: تَاۡتُوۡنِىۡ
+    arabic: تَأۡتُونِي
     translation: you bring him to me
     transliteration: tatūnī
   4:
-    arabic: بِهٖ
+    arabic: بِهِۦ
     translation: you bring him to me
     transliteration: bihi
   5:
@@ -29,11 +28,11 @@ word_by_word:
     translation: measure
     transliteration: kayla
   7:
-    arabic: لَـكُمۡ
+    arabic: لَكُمۡ
     translation: for you
     transliteration: lakum
   8:
-    arabic: عِنۡدِىۡ
+    arabic: عِندِي
     translation: from me
     transliteration: ʿindī
   9:
@@ -41,7 +40,7 @@ word_by_word:
     translation: and not
     transliteration: walā
   10:
-    arabic: "تَقۡرَبُوۡنِ‏ \uFEFF\uFEFF"
+    arabic: تَقۡرَبُونِ
     translation: you will come near me
     transliteration: taqrabūni
 ---

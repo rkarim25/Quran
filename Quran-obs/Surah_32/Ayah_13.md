@@ -1,12 +1,12 @@
 ---
-arabic_ayat: وَ لَوۡ شِئۡنَا لَاٰتَيۡنَا كُلَّ نَفۡسٍ هُدٰٮهَا وَلٰـكِنۡ حَقَّ الۡقَوۡلُ
-  مِنِّىۡ لَاَمۡلَئَنَّ جَهَنَّمَ مِنَ الۡجِنَّةِ وَالنَّاسِ اَجۡمَعِيۡنَ‏
+arabic_ayat: وَلَوۡ شِئۡنَا لَأٓتَيۡنَا كُلَّ نَفۡسٍ هُدَىٰهَا وَلَٰكِنۡ حَقَّ ٱلۡقَوۡلُ
+  مِنِّي لَأَمۡلَأَنَّ جَهَنَّمَ مِنَ ٱلۡجِنَّةِ وَٱلنَّاسِ أَجۡمَعِينَ
 sentence_translation: 'Had We willed, We could have easily imposed guidance on every
   soul. But My Word will come to pass: I will surely fill up Hell with jinn and humans
   all together.'
 word_by_word:
   1:
-    arabic: وَ لَوۡ
+    arabic: وَلَوۡ
     translation: And if
     transliteration: walaw
   2:
@@ -14,7 +14,7 @@ word_by_word:
     translation: We (had) willed
     transliteration: shi'nā
   3:
-    arabic: لَاٰتَيۡنَا
+    arabic: لَأٓتَيۡنَا
     translation: surely We (would) have given
     transliteration: laātaynā
   4:
@@ -26,11 +26,11 @@ word_by_word:
     translation: soul
     transliteration: nafsin
   6:
-    arabic: هُدٰٮهَا
+    arabic: هُدَىٰهَا
     translation: its guidance
     transliteration: hudāhā
   7:
-    arabic: وَلٰـكِنۡ
+    arabic: وَلَٰكِنۡ
     translation: but
     transliteration: walākin
   8:
@@ -38,15 +38,15 @@ word_by_word:
     translation: (is) true
     transliteration: ḥaqqa
   9:
-    arabic: الۡقَوۡلُ
+    arabic: ٱلۡقَوۡلُ
     translation: the Word
     transliteration: l-qawlu
   10:
-    arabic: مِنِّىۡ
+    arabic: مِنِّي
     translation: from Me
     transliteration: minnī
   11:
-    arabic: لَاَمۡلَئَنَّ
+    arabic: لَأَمۡلَأَنَّ
     translation: that I will surely fill
     transliteration: la-amla-anna
   12:
@@ -58,15 +58,15 @@ word_by_word:
     translation: with
     transliteration: mina
   14:
-    arabic: الۡجِنَّةِ
+    arabic: ٱلۡجِنَّةِ
     translation: the jinn
     transliteration: l-jinati
   15:
-    arabic: وَالنَّاسِ
+    arabic: وَٱلنَّاسِ
     translation: and the men
     transliteration: wal-nāsi
   16:
-    arabic: اَجۡمَعِيۡنَ‏
+    arabic: أَجۡمَعِينَ
     translation: together
     transliteration: ajmaʿīna
 ---

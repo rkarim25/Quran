@@ -1,13 +1,13 @@
 ---
-arabic_ayat: جَزَآءً وِّفَاقًا ؕ‏
+arabic_ayat: جَزَآءٗ وِفَاقًا
 sentence_translation: a fitting reward.
 word_by_word:
   1:
-    arabic: جَزَآءً
+    arabic: جَزَآءٗ
     translation: A recompense
     transliteration: jazāan
   2:
-    arabic: وِّفَاقًا ؕ‏
+    arabic: وِفَاقًا
     translation: appropriate
     transliteration: wifāqan
 ---

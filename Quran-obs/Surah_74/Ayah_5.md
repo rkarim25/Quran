@@ -1,13 +1,13 @@
 ---
-arabic_ayat: وَالرُّجۡزَ فَاهۡجُرۡۙ‏
+arabic_ayat: وَٱلرُّجۡزَ فَٱهۡجُرۡ
 sentence_translation: ˹Continue to˺ shun idols.
 word_by_word:
   1:
-    arabic: وَالرُّجۡزَ
+    arabic: وَٱلرُّجۡزَ
     translation: And uncleanliness
     transliteration: wal-ruj'za
   2:
-    arabic: فَاهۡجُرۡۙ‏
+    arabic: فَٱهۡجُرۡ
     translation: avoid
     transliteration: fa-uh'jur
 ---

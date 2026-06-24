@@ -1,6 +1,6 @@
 ---
-arabic_ayat: قَالَ نَكِّرُوۡا لَهَا عَرۡشَهَا نَـنۡظُرۡ اَتَهۡتَدِىۡۤ اَمۡ تَكُوۡنُ
-  مِنَ الَّذِيۡنَ لَا يَهۡتَدُوۡنَ‏
+arabic_ayat: قَالَ نَكِّرُواْ لَهَا عَرۡشَهَا نَنظُرۡ أَتَهۡتَدِيٓ أَمۡ تَكُونُ مِنَ
+  ٱلَّذِينَ لَا يَهۡتَدُونَ
 sentence_translation: ˹Then˺ Solomon said, “Disguise her throne for her so we may
   see whether she will recognize ˹it˺ or she will not be able to.”
 word_by_word:
@@ -9,7 +9,7 @@ word_by_word:
     translation: He said
     transliteration: qāla
   2:
-    arabic: نَكِّرُوۡا
+    arabic: نَكِّرُواْ
     translation: Disguise
     transliteration: nakkirū
   3:
@@ -21,19 +21,19 @@ word_by_word:
     translation: her throne
     transliteration: ʿarshahā
   5:
-    arabic: نَـنۡظُرۡ
+    arabic: نَنظُرۡ
     translation: we will see
     transliteration: nanẓur
   6:
-    arabic: اَتَهۡتَدِىۡۤ
+    arabic: أَتَهۡتَدِيٓ
     translation: whether she will be guided
     transliteration: atahtadī
   7:
-    arabic: اَمۡ
+    arabic: أَمۡ
     translation: or
     transliteration: am
   8:
-    arabic: تَكُوۡنُ
+    arabic: تَكُونُ
     translation: will be
     transliteration: takūnu
   9:
@@ -41,7 +41,7 @@ word_by_word:
     translation: of
     transliteration: mina
   10:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   11:
@@ -49,7 +49,7 @@ word_by_word:
     translation: are not guided
     transliteration: lā
   12:
-    arabic: يَهۡتَدُوۡنَ‏
+    arabic: يَهۡتَدُونَ
     translation: are not guided
     transliteration: yahtadūna
 ---

@@ -1,25 +1,25 @@
 ---
-arabic_ayat: وَ اِذَا رَاَ الَّذِيۡنَ اَشۡرَكُوۡا شُرَكَآءَهُمۡ قَالُوۡا رَبَّنَا
-  هٰٓؤُلَاۤءِ شُرَكَآؤُنَا الَّذِيۡنَ كُنَّا نَدۡعُوۡا مِنۡ دُوۡنِكَ​ۚ فَاَلۡقَوۡا
-  اِلَيۡهِمُ الۡقَوۡلَ اِنَّكُمۡ لَـكٰذِبُوۡنَ​ۚ‏
+arabic_ayat: وَإِذَا رَءَا ٱلَّذِينَ أَشۡرَكُواْ شُرَكَآءَهُمۡ قَالُواْ رَبَّنَا
+  هَٰٓؤُلَآءِ شُرَكَآؤُنَا ٱلَّذِينَ كُنَّا نَدۡعُواْ مِن دُونِكَۖ فَأَلۡقَوۡاْ
+  إِلَيۡهِمُ ٱلۡقَوۡلَ إِنَّكُمۡ لَكَٰذِبُونَ
 sentence_translation: And when the polytheists see their associate-gods, they will
   say, “Our Lord! These are our associate-gods that we used to invoke besides You.”
   Their gods will throw a rebuttal at them, ˹saying,˺ “You are definitely liars.”
 word_by_word:
   1:
-    arabic: وَ اِذَا
+    arabic: وَإِذَا
     translation: And when
     transliteration: wa-idhā
   2:
-    arabic: رَاَ
+    arabic: رَءَا
     translation: (will) see
     transliteration: raā
   3:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   4:
-    arabic: اَشۡرَكُوۡا
+    arabic: أَشۡرَكُواْ
     translation: associated partners with Allah
     transliteration: ashrakū
   5:
@@ -27,7 +27,7 @@ word_by_word:
     translation: their partners
     transliteration: shurakāahum
   6:
-    arabic: قَالُوۡا
+    arabic: قَالُواْ
     translation: They will say
     transliteration: qālū
   7:
@@ -35,7 +35,7 @@ word_by_word:
     translation: Our Lord
     transliteration: rabbanā
   8:
-    arabic: هٰٓؤُلَاۤءِ
+    arabic: هَٰٓؤُلَآءِ
     translation: these
     transliteration: hāulāi
   9:
@@ -43,7 +43,7 @@ word_by_word:
     translation: (are) our partners
     transliteration: shurakāunā
   10:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those whom
     transliteration: alladhīna
   11:
@@ -51,35 +51,35 @@ word_by_word:
     translation: we used to
     transliteration: kunnā
   12:
-    arabic: نَدۡعُوۡا
+    arabic: نَدۡعُواْ
     translation: invoke
     transliteration: nadʿū
   13:
-    arabic: مِنۡ
+    arabic: مِن
     translation: besides You
     transliteration: min
   14:
-    arabic: دُوۡنِكَ​ۚ
+    arabic: دُونِكَۖ
     translation: besides You
     transliteration: dūnika
   15:
-    arabic: فَاَلۡقَوۡا
+    arabic: فَأَلۡقَوۡاْ
     translation: But they (will) throw back
     transliteration: fa-alqaw
   16:
-    arabic: اِلَيۡهِمُ
+    arabic: إِلَيۡهِمُ
     translation: at them
     transliteration: ilayhimu
   17:
-    arabic: الۡقَوۡلَ
+    arabic: ٱلۡقَوۡلَ
     translation: (their) word
     transliteration: l-qawla
   18:
-    arabic: اِنَّكُمۡ
+    arabic: إِنَّكُمۡ
     translation: Indeed, you
     transliteration: innakum
   19:
-    arabic: لَـكٰذِبُوۡنَ​ۚ‏
+    arabic: لَكَٰذِبُونَ
     translation: (are) surely liars
     transliteration: lakādhibūna
 ---

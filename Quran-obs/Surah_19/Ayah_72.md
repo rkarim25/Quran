@@ -1,6 +1,5 @@
 ---
-arabic_ayat: "ثُمَّ نُـنَجِّى الَّذِيۡنَ اتَّقَوْا وَّنَذَرُ الظّٰلِمِيۡنَ فِيۡهَا\
-  \ جِثِيًّا‏ \uFEFF\uFEFF"
+arabic_ayat: ثُمَّ نُنَجِّي ٱلَّذِينَ ٱتَّقَواْ وَّنَذَرُ ٱلظَّٰلِمِينَ فِيهَا جِثِيّٗا
 sentence_translation: Then We will deliver those who were devout, leaving the wrongdoers
   there on their knees.
 word_by_word:
@@ -9,15 +8,15 @@ word_by_word:
     translation: Then
     transliteration: thumma
   2:
-    arabic: نُـنَجِّى
+    arabic: نُنَجِّي
     translation: We will deliver
     transliteration: nunajjī
   3:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   4:
-    arabic: اتَّقَوْا
+    arabic: ٱتَّقَواْ
     translation: feared (Allah)
     transliteration: ittaqaw
   5:
@@ -25,15 +24,15 @@ word_by_word:
     translation: and We will leave
     transliteration: wanadharu
   6:
-    arabic: الظّٰلِمِيۡنَ
+    arabic: ٱلظَّٰلِمِينَ
     translation: the wrongdoers
     transliteration: l-ẓālimīna
   7:
-    arabic: فِيۡهَا
+    arabic: فِيهَا
     translation: therein
     transliteration: fīhā
   8:
-    arabic: "جِثِيًّا‏ \uFEFF\uFEFF"
+    arabic: جِثِيّٗا
     translation: bent (on) knees
     transliteration: jithiyyan
 ---

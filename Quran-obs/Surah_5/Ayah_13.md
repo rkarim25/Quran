@@ -1,8 +1,8 @@
 ---
-arabic_ayat: فَبِمَا نَقۡضِهِمۡ مِّيۡثَاقَهُمۡ لَعَنّٰهُمۡ وَجَعَلۡنَا قُلُوۡبَهُمۡ
-  قٰسِيَةً​ ۚ يُحَرِّفُوۡنَ الۡـكَلِمَ عَنۡ مَّوَاضِعِهٖ​ۙ وَنَسُوۡا حَظًّا مِّمَّا
-  ذُكِّرُوۡا بِهٖۚ وَلَا تَزَالُ تَطَّلِعُ عَلٰى خَآٮِٕنَةٍ مِّنۡهُمۡ اِلَّا قَلِيۡلًا
-  مِّنۡهُمۡ​ فَاعۡفُ عَنۡهُمۡ وَاصۡفَحۡ​ ؕ اِنَّ اللّٰهَ يُحِبُّ الۡمُحۡسِنِيۡنَ‏
+arabic_ayat: فَبِمَا نَقۡضِهِم مِّيثَٰقَهُمۡ لَعَنَّٰهُمۡ وَجَعَلۡنَا قُلُوبَهُمۡ
+  قَٰسِيَةٗۖ يُحَرِّفُونَ ٱلۡكَلِمَ عَن مَّوَاضِعِهِۦ وَنَسُواْ حَظّٗا مِّمَّا ذُكِّرُواْ
+  بِهِۦۚ وَلَا تَزَالُ تَطَّلِعُ عَلَىٰ خَآئِنَةٖ مِّنۡهُمۡ إِلَّا قَلِيلٗا مِّنۡهُمۡۖ
+  فَٱعۡفُ عَنۡهُمۡ وَٱصۡفَحۡۚ إِنَّ ٱللَّهَ يُحِبُّ ٱلۡمُحۡسِنِينَ
 sentence_translation: But for breaking their covenant We condemned them and hardened
   their hearts. They distorted the words of the Scripture and neglected a portion
   of what they had been commanded to uphold. You ˹O Prophet˺ will always find deceit
@@ -14,15 +14,15 @@ word_by_word:
     translation: So for
     transliteration: fabimā
   2:
-    arabic: نَقۡضِهِمۡ
+    arabic: نَقۡضِهِم
     translation: their breaking
     transliteration: naqḍihim
   3:
-    arabic: مِّيۡثَاقَهُمۡ
+    arabic: مِّيثَٰقَهُمۡ
     translation: (of) their covenant
     transliteration: mīthāqahum
   4:
-    arabic: لَعَنّٰهُمۡ
+    arabic: لَعَنَّٰهُمۡ
     translation: We cursed them
     transliteration: laʿannāhum
   5:
@@ -30,35 +30,35 @@ word_by_word:
     translation: and We made
     transliteration: wajaʿalnā
   6:
-    arabic: قُلُوۡبَهُمۡ
+    arabic: قُلُوبَهُمۡ
     translation: their hearts
     transliteration: qulūbahum
   7:
-    arabic: قٰسِيَةً​ ۚ
+    arabic: قَٰسِيَةٗۖ
     translation: hard
     transliteration: qāsiyatan
   8:
-    arabic: يُحَرِّفُوۡنَ
+    arabic: يُحَرِّفُونَ
     translation: They distort
     transliteration: yuḥarrifūna
   9:
-    arabic: الۡـكَلِمَ
+    arabic: ٱلۡكَلِمَ
     translation: the words
     transliteration: l-kalima
   10:
-    arabic: عَنۡ
+    arabic: عَن
     translation: from
     transliteration: ʿan
   11:
-    arabic: مَّوَاضِعِهٖ​ۙ
+    arabic: مَّوَاضِعِهِۦ
     translation: their places
     transliteration: mawāḍiʿihi
   12:
-    arabic: وَنَسُوۡا
+    arabic: وَنَسُواْ
     translation: and forgot
     transliteration: wanasū
   13:
-    arabic: حَظًّا
+    arabic: حَظّٗا
     translation: a part
     transliteration: ḥaẓẓan
   14:
@@ -66,11 +66,11 @@ word_by_word:
     translation: of what
     transliteration: mimmā
   15:
-    arabic: ذُكِّرُوۡا
+    arabic: ذُكِّرُواْ
     translation: they were reminded
     transliteration: dhukkirū
   16:
-    arabic: بِهٖۚ
+    arabic: بِهِۦۚ
     translation: of [it]
     transliteration: bihi
   17:
@@ -86,11 +86,11 @@ word_by_word:
     translation: to discover
     transliteration: taṭṭaliʿu
   20:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: of
     transliteration: ʿalā
   21:
-    arabic: خَآٮِٕنَةٍ
+    arabic: خَآئِنَةٖ
     translation: treachery
     transliteration: khāinatin
   22:
@@ -98,19 +98,19 @@ word_by_word:
     translation: from them
     transliteration: min'hum
   23:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   24:
-    arabic: قَلِيۡلًا
+    arabic: قَلِيلٗا
     translation: a few
     transliteration: qalīlan
   25:
-    arabic: مِّنۡهُمۡ​
+    arabic: مِّنۡهُمۡۖ
     translation: of them
     transliteration: min'hum
   26:
-    arabic: فَاعۡفُ
+    arabic: فَٱعۡفُ
     translation: But forgive
     transliteration: fa-uʿ'fu
   27:
@@ -118,15 +118,15 @@ word_by_word:
     translation: them
     transliteration: ʿanhum
   28:
-    arabic: وَاصۡفَحۡ​ ؕ
+    arabic: وَٱصۡفَحۡۚ
     translation: and overlook
     transliteration: wa-iṣ'faḥ
   29:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   30:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   31:
@@ -134,7 +134,7 @@ word_by_word:
     translation: loves
     transliteration: yuḥibbu
   32:
-    arabic: الۡمُحۡسِنِيۡنَ‏
+    arabic: ٱلۡمُحۡسِنِينَ
     translation: the good-doers
     transliteration: l-muḥ'sinīna
 ---

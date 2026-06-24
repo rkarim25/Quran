@@ -1,6 +1,6 @@
 ---
-arabic_ayat: وَقَالَ الَّذِىۡ نَجَا مِنۡهُمَا وَادَّكَرَ بَعۡدَ اُمَّةٍ اَنَا اُنَـبِّئُكُمۡ
-  بِتَاۡوِيۡلِهٖ فَاَرۡسِلُوۡنِ‏
+arabic_ayat: وَقَالَ ٱلَّذِي نَجَا مِنۡهُمَا وَٱدَّكَرَ بَعۡدَ أُمَّةٍ أَنَا۠ أُنَبِّئُكُم
+  بِتَأۡوِيلِهِۦ فَأَرۡسِلُونِ
 sentence_translation: ˹Finally,˺ the surviving ex-prisoner remembered ˹Joseph˺ after
   a long time and said, “I will tell you its interpretation, so send me forth ˹to
   Joseph˺.”
@@ -10,7 +10,7 @@ word_by_word:
     translation: But said
     transliteration: waqāla
   2:
-    arabic: الَّذِىۡ
+    arabic: ٱلَّذِي
     translation: the one who
     transliteration: alladhī
   3:
@@ -22,7 +22,7 @@ word_by_word:
     translation: of the two
     transliteration: min'humā
   5:
-    arabic: وَادَّكَرَ
+    arabic: وَٱدَّكَرَ
     translation: and remembered
     transliteration: wa-iddakara
   6:
@@ -30,23 +30,23 @@ word_by_word:
     translation: after
     transliteration: baʿda
   7:
-    arabic: اُمَّةٍ
+    arabic: أُمَّةٍ
     translation: a period
     transliteration: ummatin
   8:
-    arabic: اَنَا
+    arabic: أَنَا۠
     translation: I
     transliteration: anā
   9:
-    arabic: اُنَـبِّئُكُمۡ
+    arabic: أُنَبِّئُكُم
     translation: '[I] will inform you'
     transliteration: unabbi-ukum
   10:
-    arabic: بِتَاۡوِيۡلِهٖ
+    arabic: بِتَأۡوِيلِهِۦ
     translation: of its interpretation
     transliteration: bitawīlihi
   11:
-    arabic: فَاَرۡسِلُوۡنِ‏
+    arabic: فَأَرۡسِلُونِ
     translation: so send me forth
     transliteration: fa-arsilūni
 ---

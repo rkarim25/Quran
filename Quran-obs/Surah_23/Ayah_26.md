@@ -1,5 +1,5 @@
 ---
-arabic_ayat: قَالَ رَبِّ انْصُرۡنِىۡ بِمَا كَذَّبُوۡنِ‏
+arabic_ayat: قَالَ رَبِّ ٱنصُرۡنِي بِمَا كَذَّبُونِ
 sentence_translation: Noah prayed, “My Lord! Help me, because they have denied ˹me˺.”
 word_by_word:
   1:
@@ -11,7 +11,7 @@ word_by_word:
     translation: My Lord
     transliteration: rabbi
   3:
-    arabic: انْصُرۡنِىۡ
+    arabic: ٱنصُرۡنِي
     translation: Help me
     transliteration: unṣur'nī
   4:
@@ -19,7 +19,7 @@ word_by_word:
     translation: because
     transliteration: bimā
   5:
-    arabic: كَذَّبُوۡنِ‏
+    arabic: كَذَّبُونِ
     translation: they deny me
     transliteration: kadhabūni
 ---

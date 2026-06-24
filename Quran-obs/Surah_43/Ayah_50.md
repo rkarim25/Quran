@@ -1,5 +1,5 @@
 ---
-arabic_ayat: فَلَمَّا كَشَفۡنَا عَنۡهُمُ الۡعَذَابَ اِذَا هُمۡ يَنۡكُثُوۡنَ‏
+arabic_ayat: فَلَمَّا كَشَفۡنَا عَنۡهُمُ ٱلۡعَذَابَ إِذَا هُمۡ يَنكُثُونَ
 sentence_translation: But as soon as We removed the torments from them, they broke
   their promise.
 word_by_word:
@@ -16,11 +16,11 @@ word_by_word:
     translation: from them
     transliteration: ʿanhumu
   4:
-    arabic: الۡعَذَابَ
+    arabic: ٱلۡعَذَابَ
     translation: the punishment
     transliteration: l-ʿadhāba
   5:
-    arabic: اِذَا
+    arabic: إِذَا
     translation: behold
     transliteration: idhā
   6:
@@ -28,7 +28,7 @@ word_by_word:
     translation: They
     transliteration: hum
   7:
-    arabic: يَنۡكُثُوۡنَ‏
+    arabic: يَنكُثُونَ
     translation: broke (their word)
     transliteration: yankuthūna
 ---

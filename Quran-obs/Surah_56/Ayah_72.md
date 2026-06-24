@@ -1,21 +1,21 @@
 ---
-arabic_ayat: ءَاَنۡتُمۡ اَنۡشَاۡتُمۡ شَجَرَتَهَاۤ اَمۡ نَحۡنُ الۡمُنۡشِـُٔـوۡنَ‏
+arabic_ayat: ءَأَنتُمۡ أَنشَأۡتُمۡ شَجَرَتَهَآ أَمۡ نَحۡنُ ٱلۡمُنشِـُٔونَ
 sentence_translation: Is it you who produce its trees, or is it We Who do so?
 word_by_word:
   1:
-    arabic: ءَاَنۡتُمۡ
+    arabic: ءَأَنتُمۡ
     translation: Is it you
     transliteration: a-antum
   2:
-    arabic: اَنۡشَاۡتُمۡ
+    arabic: أَنشَأۡتُمۡ
     translation: who produced
     transliteration: anshatum
   3:
-    arabic: شَجَرَتَهَاۤ
+    arabic: شَجَرَتَهَآ
     translation: its tree
     transliteration: shajaratahā
   4:
-    arabic: اَمۡ
+    arabic: أَمۡ
     translation: or
     transliteration: am
   5:
@@ -23,7 +23,7 @@ word_by_word:
     translation: We
     transliteration: naḥnu
   6:
-    arabic: الۡمُنۡشِـُٔـوۡنَ‏
+    arabic: ٱلۡمُنشِـُٔونَ
     translation: (are) the Producers
     transliteration: l-munshiūna
 ---

@@ -1,26 +1,26 @@
 ---
-arabic_ayat: وَ جَعَلَهَا كَلِمَةًۢ بَاقِيَةً فِىۡ عَقِبِهٖ لَعَلَّهُمۡ يَرۡجِعُوۡنَ‏
+arabic_ayat: وَجَعَلَهَا كَلِمَةَۢ بَاقِيَةٗ فِي عَقِبِهِۦ لَعَلَّهُمۡ يَرۡجِعُونَ
 sentence_translation: And he left this enduring declaration among his descendants,
   so they may ˹always˺ turn back ˹to Allah˺. 
 word_by_word:
   1:
-    arabic: وَ جَعَلَهَا
+    arabic: وَجَعَلَهَا
     translation: And he made it
     transliteration: wajaʿalahā
   2:
-    arabic: كَلِمَةًۢ
+    arabic: كَلِمَةَۢ
     translation: a word
     transliteration: kalimatan
   3:
-    arabic: بَاقِيَةً
+    arabic: بَاقِيَةٗ
     translation: lasting
     transliteration: bāqiyatan
   4:
-    arabic: فِىۡ
+    arabic: فِي
     translation: among
     transliteration: fī
   5:
-    arabic: عَقِبِهٖ
+    arabic: عَقِبِهِۦ
     translation: his descendents
     transliteration: ʿaqibihi
   6:
@@ -28,7 +28,7 @@ word_by_word:
     translation: so that they may
     transliteration: laʿallahum
   7:
-    arabic: يَرۡجِعُوۡنَ‏
+    arabic: يَرۡجِعُونَ
     translation: return
     transliteration: yarjiʿūna
 ---

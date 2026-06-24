@@ -1,8 +1,7 @@
 ---
-arabic_ayat: "قُلۡ هَلۡ اُنَـبِّئُكُمۡ بِشَرٍّ مِّنۡ ذٰ لِكَ مَثُوۡبَةً عِنۡدَ اللّٰهِ​\
-  \ ؕ مَنۡ لَّعَنَهُ اللّٰهُ وَغَضِبَ عَلَيۡهِ وَجَعَلَ مِنۡهُمُ الۡقِرَدَةَ وَالۡخَـنَازِيۡرَ\
-  \ وَعَبَدَ الطَّاغُوۡتَ​ ؕ اُولٰٓٮِٕكَ شَرٌّ مَّكَانًا وَّاَضَلُّ عَنۡ سَوَآءِ\
-  \ السَّبِيۡلِ‏ \uFEFF\uFEFF"
+arabic_ayat: قُلۡ هَلۡ أُنَبِّئُكُم بِشَرّٖ مِّن ذَٰلِكَ مَثُوبَةً عِندَ ٱللَّهِۚ
+  مَن لَّعَنَهُ ٱللَّهُ وَغَضِبَ عَلَيۡهِ وَجَعَلَ مِنۡهُمُ ٱلۡقِرَدَةَ وَٱلۡخَنَازِيرَ
+  وَعَبَدَ ٱلطَّٰغُوتَۚ أُوْلَٰٓئِكَ شَرّٞ مَّكَانٗا وَأَضَلُّ عَن سَوَآءِ ٱلسَّبِيلِ
 sentence_translation: Say, ˹O Prophet,˺ “Shall I inform you of those who deserve a
   worse punishment from Allah ˹than the rebellious˺? It is those who earned Allah’s
   condemnation and displeasure—some being reduced to apes and pigs and worshippers
@@ -17,35 +16,35 @@ word_by_word:
     translation: Shall
     transliteration: hal
   3:
-    arabic: اُنَـبِّئُكُمۡ
+    arabic: أُنَبِّئُكُم
     translation: I inform you
     transliteration: unabbi-ukum
   4:
-    arabic: بِشَرٍّ
+    arabic: بِشَرّٖ
     translation: (of) worse
     transliteration: bisharrin
   5:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: than
     transliteration: min
   6:
-    arabic: ذٰ لِكَ
+    arabic: ذَٰلِكَ
     translation: that
     transliteration: dhālika
   7:
-    arabic: مَثُوۡبَةً
+    arabic: مَثُوبَةً
     translation: (as) recompense
     transliteration: mathūbatan
   8:
-    arabic: عِنۡدَ
+    arabic: عِندَ
     translation: from
     transliteration: ʿinda
   9:
-    arabic: اللّٰهِ​ ؕ
+    arabic: ٱللَّهِۚ
     translation: Allah
     transliteration: l-lahi
   10:
-    arabic: مَنۡ
+    arabic: مَن
     translation: Whom
     transliteration: man
   11:
@@ -53,7 +52,7 @@ word_by_word:
     translation: has (been) cursed
     transliteration: laʿanahu
   12:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: (by) Allah
     transliteration: l-lahu
   13:
@@ -73,11 +72,11 @@ word_by_word:
     translation: of them
     transliteration: min'humu
   17:
-    arabic: الۡقِرَدَةَ
+    arabic: ٱلۡقِرَدَةَ
     translation: '[the] apes'
     transliteration: l-qiradata
   18:
-    arabic: وَالۡخَـنَازِيۡرَ
+    arabic: وَٱلۡخَنَازِيرَ
     translation: and [the] swines
     transliteration: wal-khanāzīra
   19:
@@ -85,27 +84,27 @@ word_by_word:
     translation: and (who) worshipped
     transliteration: waʿabada
   20:
-    arabic: الطَّاغُوۡتَ​ ؕ
+    arabic: ٱلطَّٰغُوتَۚ
     translation: the false deities
     transliteration: l-ṭāghūta
   21:
-    arabic: اُولٰٓٮِٕكَ
+    arabic: أُوْلَٰٓئِكَ
     translation: Those
     transliteration: ulāika
   22:
-    arabic: شَرٌّ
+    arabic: شَرّٞ
     translation: (are) worse
     transliteration: sharrun
   23:
-    arabic: مَّكَانًا
+    arabic: مَّكَانٗا
     translation: (in) position
     transliteration: makānan
   24:
-    arabic: وَّاَضَلُّ
+    arabic: وَأَضَلُّ
     translation: and farthest astray
     transliteration: wa-aḍallu
   25:
-    arabic: عَنۡ
+    arabic: عَن
     translation: from
     transliteration: ʿan
   26:
@@ -113,7 +112,7 @@ word_by_word:
     translation: (the) even
     transliteration: sawāi
   27:
-    arabic: "السَّبِيۡلِ‏ \uFEFF\uFEFF"
+    arabic: ٱلسَّبِيلِ
     translation: way
     transliteration: l-sabīli
 ---

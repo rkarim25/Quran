@@ -1,15 +1,15 @@
 ---
-arabic_ayat: اِنَّ فِىۡ خَلۡقِ السَّمٰوٰتِ وَالۡاَرۡضِ وَاخۡتِلَافِ الَّيۡلِ وَالنَّهَارِ
-  لَاٰيٰتٍ لِّاُولِى الۡاَلۡبَابِ ۚۖ‏
+arabic_ayat: إِنَّ فِي خَلۡقِ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِ وَٱخۡتِلَٰفِ ٱلَّيۡلِ وَٱلنَّهَارِ
+  لَأٓيَٰتٖ لِّأُوْلِي ٱلۡأَلۡبَٰبِ
 sentence_translation: Indeed, in the creation of the heavens and the earth and the
   alternation of the day and night there are signs for people of reason.
 word_by_word:
   1:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   2:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   3:
@@ -17,35 +17,35 @@ word_by_word:
     translation: (the) creation
     transliteration: khalqi
   4:
-    arabic: السَّمٰوٰتِ
+    arabic: ٱلسَّمَٰوَٰتِ
     translation: (of) the heavens
     transliteration: l-samāwāti
   5:
-    arabic: وَالۡاَرۡضِ
+    arabic: وَٱلۡأَرۡضِ
     translation: and the earth
     transliteration: wal-arḍi
   6:
-    arabic: وَاخۡتِلَافِ
+    arabic: وَٱخۡتِلَٰفِ
     translation: and (in the) alternation
     transliteration: wa-ikh'tilāfi
   7:
-    arabic: الَّيۡلِ
+    arabic: ٱلَّيۡلِ
     translation: (of) the night
     transliteration: al-layli
   8:
-    arabic: وَالنَّهَارِ
+    arabic: وَٱلنَّهَارِ
     translation: and the day
     transliteration: wal-nahāri
   9:
-    arabic: لَاٰيٰتٍ
+    arabic: لَأٓيَٰتٖ
     translation: (are) surely Signs
     transliteration: laāyātin
   10:
-    arabic: لِّاُولِى
+    arabic: لِّأُوْلِي
     translation: for men
     transliteration: li-ulī
   11:
-    arabic: الۡاَلۡبَابِ ۚۖ‏
+    arabic: ٱلۡأَلۡبَٰبِ
     translation: (of) understanding
     transliteration: l-albābi
 ---

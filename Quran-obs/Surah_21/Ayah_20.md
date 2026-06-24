@@ -1,17 +1,17 @@
 ---
-arabic_ayat: يُسَبِّحُوۡنَ الَّيۡلَ وَالنَّهَارَ لَا يَفۡتُرُوۡنَ‏
+arabic_ayat: يُسَبِّحُونَ ٱلَّيۡلَ وَٱلنَّهَارَ لَا يَفۡتُرُونَ
 sentence_translation: They glorify ˹Him˺ day and night, never wavering.
 word_by_word:
   1:
-    arabic: يُسَبِّحُوۡنَ
+    arabic: يُسَبِّحُونَ
     translation: They glorify (Him)
     transliteration: yusabbiḥūna
   2:
-    arabic: الَّيۡلَ
+    arabic: ٱلَّيۡلَ
     translation: '[the] night'
     transliteration: al-layla
   3:
-    arabic: وَالنَّهَارَ
+    arabic: وَٱلنَّهَارَ
     translation: and [the] day
     transliteration: wal-nahāra
   4:
@@ -19,7 +19,7 @@ word_by_word:
     translation: not
     transliteration: lā
   5:
-    arabic: يَفۡتُرُوۡنَ‏
+    arabic: يَفۡتُرُونَ
     translation: they slacken
     transliteration: yafturūna
 ---

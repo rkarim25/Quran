@@ -1,17 +1,17 @@
 ---
-arabic_ayat: فِيۡهَا فَاكِهَةٌ  ۙ وَّالنَّخۡلُ ذَاتُ الۡاَكۡمَامِ​ ۖ‏
+arabic_ayat: فِيهَا فَٰكِهَةٞ وَٱلنَّخۡلُ ذَاتُ ٱلۡأَكۡمَامِ
 sentence_translation: In it are fruit, palm trees with date stalks,
 word_by_word:
   1:
-    arabic: فِيۡهَا
+    arabic: فِيهَا
     translation: Therein
     transliteration: fīhā
   2:
-    arabic: فَاكِهَةٌ  ۙ
+    arabic: فَٰكِهَةٞ
     translation: (is) fruit
     transliteration: fākihatun
   3:
-    arabic: وَّالنَّخۡلُ
+    arabic: وَٱلنَّخۡلُ
     translation: and date-palms
     transliteration: wal-nakhlu
   4:
@@ -19,7 +19,7 @@ word_by_word:
     translation: having
     transliteration: dhātu
   5:
-    arabic: الۡاَكۡمَامِ​ ۖ‏
+    arabic: ٱلۡأَكۡمَامِ
     translation: sheaths
     transliteration: l-akmāmi
 ---

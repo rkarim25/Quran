@@ -1,6 +1,6 @@
 ---
-arabic_ayat: وَمَا يَسۡتَوِى الۡاَحۡيَآءُ وَلَا الۡاَمۡوَاتُ ؕ اِنَّ اللّٰهَ يُسۡمِعُ
-  مَنۡ يَّشَآءُ ۚ وَمَاۤ اَنۡتَ بِمُسۡمِعٍ مَّنۡ فِى الۡقُبُوۡرِ‏
+arabic_ayat: وَمَا يَسۡتَوِي ٱلۡأَحۡيَآءُ وَلَا ٱلۡأَمۡوَٰتُۚ إِنَّ ٱللَّهَ يُسۡمِعُ
+  مَن يَشَآءُۖ وَمَآ أَنتَ بِمُسۡمِعٖ مَّن فِي ٱلۡقُبُورِ
 sentence_translation: Nor are the dead and the living equal. Indeed, Allah ˹alone˺
   makes whoever He wills hear, but you ˹O Prophet˺ can never make those in the graves
   hear ˹your call˺.
@@ -10,11 +10,11 @@ word_by_word:
     translation: And not
     transliteration: wamā
   2:
-    arabic: يَسۡتَوِى
+    arabic: يَسۡتَوِي
     translation: equal
     transliteration: yastawī
   3:
-    arabic: الۡاَحۡيَآءُ
+    arabic: ٱلۡأَحۡيَآءُ
     translation: (are) the living
     transliteration: l-aḥyāu
   4:
@@ -22,15 +22,15 @@ word_by_word:
     translation: and not
     transliteration: walā
   5:
-    arabic: الۡاَمۡوَاتُ ؕ
+    arabic: ٱلۡأَمۡوَٰتُۚ
     translation: the dead
     transliteration: l-amwātu
   6:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   7:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   8:
@@ -38,35 +38,35 @@ word_by_word:
     translation: causes to hear
     transliteration: yus'miʿu
   9:
-    arabic: مَنۡ
+    arabic: مَن
     translation: whom
     transliteration: man
   10:
-    arabic: يَّشَآءُ ۚ
+    arabic: يَشَآءُۖ
     translation: He wills
     transliteration: yashāu
   11:
-    arabic: وَمَاۤ
+    arabic: وَمَآ
     translation: and not
     transliteration: wamā
   12:
-    arabic: اَنۡتَ
+    arabic: أَنتَ
     translation: you
     transliteration: anta
   13:
-    arabic: بِمُسۡمِعٍ
+    arabic: بِمُسۡمِعٖ
     translation: can make hear
     transliteration: bimus'miʿin
   14:
-    arabic: مَّنۡ
+    arabic: مَّن
     translation: (those) who
     transliteration: man
   15:
-    arabic: فِى
+    arabic: فِي
     translation: (are) in
     transliteration: fī
   16:
-    arabic: الۡقُبُوۡرِ‏
+    arabic: ٱلۡقُبُورِ
     translation: the graves
     transliteration: l-qubūri
 ---

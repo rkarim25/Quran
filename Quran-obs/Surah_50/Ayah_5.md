@@ -1,6 +1,5 @@
 ---
-arabic_ayat: "بَلۡ كَذَّبُوۡا بِالۡحَقِّ لَمَّا جَآءَهُمۡ فَهُمۡ فِىۡۤ اَمۡرٍ مَّرِيۡجٍ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: بَلۡ كَذَّبُواْ بِٱلۡحَقِّ لَمَّا جَآءَهُمۡ فَهُمۡ فِيٓ أَمۡرٖ مَّرِيجٍ
 sentence_translation: In fact, they reject the truth when it has come to them, so
   they are in a confused state. 
 word_by_word:
@@ -9,11 +8,11 @@ word_by_word:
     translation: Nay
     transliteration: bal
   2:
-    arabic: كَذَّبُوۡا
+    arabic: كَذَّبُواْ
     translation: they denied
     transliteration: kadhabū
   3:
-    arabic: بِالۡحَقِّ
+    arabic: بِٱلۡحَقِّ
     translation: the truth
     transliteration: bil-ḥaqi
   4:
@@ -29,15 +28,15 @@ word_by_word:
     translation: so they
     transliteration: fahum
   7:
-    arabic: فِىۡۤ
+    arabic: فِيٓ
     translation: (are) in
     transliteration: fī
   8:
-    arabic: اَمۡرٍ
+    arabic: أَمۡرٖ
     translation: a state
     transliteration: amrin
   9:
-    arabic: "مَّرِيۡجٍ‏ \uFEFF\uFEFF"
+    arabic: مَّرِيجٍ
     translation: confused
     transliteration: marījin
 ---

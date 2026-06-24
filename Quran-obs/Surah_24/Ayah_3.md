@@ -1,13 +1,12 @@
 ---
-arabic_ayat: "اَلزَّانِىۡ لَا يَنۡكِحُ اِلَّا زَانِيَةً اَوۡ مُشۡرِكَةً  وَّ الزَّانِيَةُ\
-  \ لَا يَنۡكِحُهَاۤ اِلَّا زَانٍ اَوۡ مُشۡرِكٌ​ ۚ وَحُرِّمَ ذٰ لِكَ عَلَى الۡمُؤۡمِنِيۡنَ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: ٱلزَّانِي لَا يَنكِحُ إِلَّا زَانِيَةً أَوۡ مُشۡرِكَةٗ وَٱلزَّانِيَةُ
+  لَا يَنكِحُهَآ إِلَّا زَانٍ أَوۡ مُشۡرِكٞۚ وَحُرِّمَ ذَٰلِكَ عَلَى ٱلۡمُؤۡمِنِينَ
 sentence_translation: A male fornicator would only marry a female fornicator or idolatress.
   And a female fornicator would only be married to a fornicator or idolater. This
   is ˹all˺ forbidden to the believers.
 word_by_word:
   1:
-    arabic: اَلزَّانِىۡ
+    arabic: ٱلزَّانِي
     translation: The fornicator
     transliteration: al-zānī
   2:
@@ -15,11 +14,11 @@ word_by_word:
     translation: (will) not
     transliteration: lā
   3:
-    arabic: يَنۡكِحُ
+    arabic: يَنكِحُ
     translation: marry
     transliteration: yankiḥu
   4:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   5:
@@ -27,15 +26,15 @@ word_by_word:
     translation: a fornicatress
     transliteration: zāniyatan
   6:
-    arabic: اَوۡ
+    arabic: أَوۡ
     translation: or
     transliteration: aw
   7:
-    arabic: مُشۡرِكَةً 
+    arabic: مُشۡرِكَةٗ
     translation: a polytheist woman
     transliteration: mush'rikatan
   8:
-    arabic: وَّ الزَّانِيَةُ
+    arabic: وَٱلزَّانِيَةُ
     translation: 'and the fornicatress '
     transliteration: wal-zāniyatu
   9:
@@ -43,11 +42,11 @@ word_by_word:
     translation: (will) not
     transliteration: lā
   10:
-    arabic: يَنۡكِحُهَاۤ
+    arabic: يَنكِحُهَآ
     translation: marry her
     transliteration: yankiḥuhā
   11:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   12:
@@ -55,11 +54,11 @@ word_by_word:
     translation: a fornicator
     transliteration: zānin
   13:
-    arabic: اَوۡ
+    arabic: أَوۡ
     translation: or
     transliteration: aw
   14:
-    arabic: مُشۡرِكٌ​ ۚ
+    arabic: مُشۡرِكٞۚ
     translation: a polytheist man
     transliteration: mush'rikun
   15:
@@ -67,7 +66,7 @@ word_by_word:
     translation: And is forbidden
     transliteration: waḥurrima
   16:
-    arabic: ذٰ لِكَ
+    arabic: ذَٰلِكَ
     translation: that
     transliteration: dhālika
   17:
@@ -75,7 +74,7 @@ word_by_word:
     translation: to
     transliteration: ʿalā
   18:
-    arabic: "الۡمُؤۡمِنِيۡنَ‏ \uFEFF\uFEFF"
+    arabic: ٱلۡمُؤۡمِنِينَ
     translation: the believers
     transliteration: l-mu'minīna
 ---

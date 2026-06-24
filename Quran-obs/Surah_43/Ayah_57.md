@@ -1,11 +1,10 @@
 ---
-arabic_ayat: "وَلَمَّا ضُرِبَ ابۡنُ مَرۡيَمَ مَثَلًا اِذَا قَوۡمُكَ مِنۡهُ يَصِدُّوۡنَ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: ۞ وَلَمَّا ضُرِبَ ٱبۡنُ مَرۡيَمَ مَثَلًا إِذَا قَوۡمُكَ مِنۡهُ يَصِدُّونَ
 sentence_translation: When the son of Mary was cited as an example ˹in argument˺,
   your people ˹O Prophet˺ broke into ˹joyful˺ applause.
 word_by_word:
   1:
-    arabic: ۞ وَلَمَّا
+    arabic: ۞ وَلَمَّا
     translation: And when
     transliteration: walammā
   2:
@@ -13,7 +12,7 @@ word_by_word:
     translation: is presented
     transliteration: ḍuriba
   3:
-    arabic: ابۡنُ
+    arabic: ٱبۡنُ
     translation: (the) son
     transliteration: ub'nu
   4:
@@ -25,7 +24,7 @@ word_by_word:
     translation: (as) an example
     transliteration: mathalan
   6:
-    arabic: اِذَا
+    arabic: إِذَا
     translation: behold
     transliteration: idhā
   7:
@@ -37,7 +36,7 @@ word_by_word:
     translation: about it
     transliteration: min'hu
   9:
-    arabic: "يَصِدُّوۡنَ‏ \uFEFF\uFEFF"
+    arabic: يَصِدُّونَ
     translation: laughed aloud
     transliteration: yaṣiddūna
 ---

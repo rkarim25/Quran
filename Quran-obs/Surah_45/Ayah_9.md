@@ -1,11 +1,11 @@
 ---
-arabic_ayat: وَاِذَا عَلِمَ مِنۡ اٰيٰتِنَا شَيۡــًٔـا اۨتَّخَذَهَا هُزُوًا​ ؕ اُولٰٓٮِٕكَ
-  لَهُمۡ عَذَابٌ مُّهِيۡنٌ ؕ‏
+arabic_ayat: وَإِذَا عَلِمَ مِنۡ ءَايَٰتِنَا شَيۡـًٔا ٱتَّخَذَهَا هُزُوًاۚ أُوْلَٰٓئِكَ
+  لَهُمۡ عَذَابٞ مُّهِينٞ
 sentence_translation: And whenever they learn anything of Our revelations, they make
   a mockery of it. It is they who will suffer a humiliating punishment.
 word_by_word:
   1:
-    arabic: وَاِذَا
+    arabic: وَإِذَا
     translation: And when
     transliteration: wa-idhā
   2:
@@ -13,27 +13,27 @@ word_by_word:
     translation: he knows
     transliteration: ʿalima
   3:
-    arabic: مِنۡ
+    arabic: مِنۡ ءَ
     translation: of
     transliteration: min
   4:
-    arabic: اٰيٰتِنَا
+    arabic: ايَٰتِنَا
     translation: Our Verses
     transliteration: āyātinā
   5:
-    arabic: شَيۡــًٔـا
+    arabic: شَيۡـًٔا
     translation: anything
     transliteration: shayan
   6:
-    arabic: اۨتَّخَذَهَا
+    arabic: ٱتَّخَذَهَا
     translation: he takes them
     transliteration: ittakhadhahā
   7:
-    arabic: هُزُوًا​ ؕ
+    arabic: هُزُوًاۚ
     translation: (in) ridicule
     transliteration: huzuwan
   8:
-    arabic: اُولٰٓٮِٕكَ
+    arabic: أُوْلَٰٓئِكَ
     translation: 'Those '
     transliteration: ulāika
   9:
@@ -41,11 +41,11 @@ word_by_word:
     translation: for them
     transliteration: lahum
   10:
-    arabic: عَذَابٌ
+    arabic: عَذَابٞ
     translation: (is) a punishment
     transliteration: ʿadhābun
   11:
-    arabic: مُّهِيۡنٌ ؕ‏
+    arabic: مُّهِينٞ
     translation: humiliating
     transliteration: muhīnun
 ---

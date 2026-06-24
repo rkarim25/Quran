@@ -1,10 +1,9 @@
 ---
-arabic_ayat: "لَا يُكَلِّفُ اللّٰهُ نَفۡسًا اِلَّا وُسۡعَهَا ​ؕ لَهَا مَا كَسَبَتۡ\
-  \ وَعَلَيۡهَا مَا اكۡتَسَبَتۡ​ؕ رَبَّنَا لَا تُؤَاخِذۡنَاۤ اِنۡ نَّسِيۡنَاۤ اَوۡ\
-  \ اَخۡطَاۡنَا ​ۚ رَبَّنَا وَلَا تَحۡمِلۡ عَلَيۡنَاۤ اِصۡرًا كَمَا حَمَلۡتَهٗ عَلَى\
-  \ الَّذِيۡنَ مِنۡ قَبۡلِنَا ​​ۚرَبَّنَا وَلَا تُحَمِّلۡنَا مَا لَا طَاقَةَ لَنَا\
-  \ بِهٖ​ ۚ وَاعۡفُ عَنَّا وَاغۡفِرۡ لَنَا وَارۡحَمۡنَا اَنۡتَ مَوۡلٰٮنَا فَانۡصُرۡنَا\
-  \ عَلَى الۡقَوۡمِ الۡكٰفِرِيۡنَ‏ \uFEFF\uFEFF"
+arabic_ayat: لَا يُكَلِّفُ ٱللَّهُ نَفۡسًا إِلَّا وُسۡعَهَاۚ لَهَا مَا كَسَبَتۡ وَعَلَيۡهَا
+  مَا ٱكۡتَسَبَتۡۗ رَبَّنَا لَا تُؤَاخِذۡنَآ إِن نَّسِينَآ أَوۡ أَخۡطَأۡنَاۚ رَبَّنَا
+  وَلَا تَحۡمِلۡ عَلَيۡنَآ إِصۡرٗا كَمَا حَمَلۡتَهُۥ عَلَى ٱلَّذِينَ مِن قَبۡلِنَاۚ
+  رَبَّنَا وَلَا تُحَمِّلۡنَا مَا لَا طَاقَةَ لَنَا بِهِۦۖ وَٱعۡفُ عَنَّا وَٱغۡفِرۡ
+  لَنَا وَٱرۡحَمۡنَآۚ أَنتَ مَوۡلَىٰنَا فَٱنصُرۡنَا عَلَى ٱلۡقَوۡمِ ٱلۡكَٰفِرِينَ
 sentence_translation: Allah does not require of any soul more than what it can afford.
   All good will be for its own benefit, and all evil will be to its own loss. ˹The
   believers pray,˺ “Our Lord! Do not punish us if we forget or make a mistake. Our
@@ -22,7 +21,7 @@ word_by_word:
     translation: burden
     transliteration: yukallifu
   3:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   4:
@@ -30,11 +29,11 @@ word_by_word:
     translation: any soul
     transliteration: nafsan
   5:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   6:
-    arabic: وُسۡعَهَا ​ؕ
+    arabic: وُسۡعَهَاۚ
     translation: its capacity
     transliteration: wus'ʿahā
   7:
@@ -58,7 +57,7 @@ word_by_word:
     translation: what
     transliteration: mā
   12:
-    arabic: اكۡتَسَبَتۡ​ؕ
+    arabic: ٱكۡتَسَبَتۡۗ
     translation: it earned
     transliteration: ik'tasabat
   13:
@@ -70,23 +69,23 @@ word_by_word:
     translation: (Do) not
     transliteration: lā
   15:
-    arabic: تُؤَاخِذۡنَاۤ
+    arabic: تُؤَاخِذۡنَآ
     translation: take us to task
     transliteration: tuākhidh'nā
   16:
-    arabic: اِنۡ
+    arabic: إِن
     translation: if
     transliteration: in
   17:
-    arabic: نَّسِيۡنَاۤ
+    arabic: نَّسِينَآ
     translation: we forget
     transliteration: nasīnā
   18:
-    arabic: اَوۡ
+    arabic: أَوۡ
     translation: or
     transliteration: aw
   19:
-    arabic: اَخۡطَاۡنَا ​ۚ
+    arabic: أَخۡطَأۡنَاۚ
     translation: we err
     transliteration: akhṭanā
   20:
@@ -102,11 +101,11 @@ word_by_word:
     translation: lay
     transliteration: taḥmil
   23:
-    arabic: عَلَيۡنَاۤ
+    arabic: عَلَيۡنَآ
     translation: upon us
     transliteration: ʿalaynā
   24:
-    arabic: اِصۡرًا
+    arabic: إِصۡرٗا
     translation: a burden
     transliteration: iṣ'ran
   25:
@@ -114,7 +113,7 @@ word_by_word:
     translation: like that
     transliteration: kamā
   26:
-    arabic: حَمَلۡتَهٗ
+    arabic: حَمَلۡتَهُۥ
     translation: (which) You laid [it]
     transliteration: ḥamaltahu
   27:
@@ -122,15 +121,15 @@ word_by_word:
     translation: 'on'
     transliteration: ʿalā
   28:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   29:
-    arabic: مِنۡ
+    arabic: مِن
     translation: (were) from
     transliteration: min
   30:
-    arabic: قَبۡلِنَا ۚ
+    arabic: قَبۡلِنَاۚ
     translation: before us
     transliteration: qablinā
   31:
@@ -162,39 +161,39 @@ word_by_word:
     translation: we have
     transliteration: lanā
   38:
-    arabic: بِهٖ​ ۚ
+    arabic: بِهِۦۖ
     translation: '[of it] (to bear)'
     transliteration: bihi
   39:
-    arabic: وَاعۡفُ
+    arabic: وَٱعۡفُ
     translation: And pardon
     transliteration: wa-uʿ'fu
   40:
-    arabic: عَنَّا
+    arabic: عَنَّا
     translation: '[from] us'
     transliteration: ʿannā
   41:
-    arabic: وَاغۡفِرۡ
+    arabic: وَٱغۡفِرۡ
     translation: and forgive
     transliteration: wa-igh'fir
   42:
-    arabic: لَنَا
+    arabic: لَنَا
     translation: '[for] us'
     transliteration: lanā
   43:
-    arabic: وَارۡحَمۡنَا
+    arabic: وَٱرۡحَمۡنَآۚ
     translation: and have mercy on us
     transliteration: wa-ir'ḥamnā
   44:
-    arabic: اَنۡتَ
+    arabic: أَنتَ
     translation: You (are)
     transliteration: anta
   45:
-    arabic: مَوۡلٰٮنَا
+    arabic: مَوۡلَىٰنَا
     translation: our Protector
     transliteration: mawlānā
   46:
-    arabic: فَانۡصُرۡنَا
+    arabic: فَٱنصُرۡنَا
     translation: so help us
     transliteration: fa-unṣur'nā
   47:
@@ -202,11 +201,11 @@ word_by_word:
     translation: against
     transliteration: ʿalā
   48:
-    arabic: الۡقَوۡمِ
+    arabic: ٱلۡقَوۡمِ
     translation: 'the people '
     transliteration: l-qawmi
   49:
-    arabic: "الۡكٰفِرِيۡنَ‏ \uFEFF\uFEFF"
+    arabic: ٱلۡكَٰفِرِينَ
     translation: '[the] disbelievers'
     transliteration: l-kāfirīna
 ---

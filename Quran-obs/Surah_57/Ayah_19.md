@@ -1,30 +1,30 @@
 ---
-arabic_ayat: وَالَّذِيۡنَ اٰمَنُوۡا بِاللّٰهِ وَرُسُلِهٖۤ اُولٰٓٮِٕكَ هُمُ الصِّدِّيۡقُوۡنَۖ
-  وَالشُّهَدَآءُ عِنۡدَ رَبِّهِمۡؕ لَهُمۡ اَجۡرُهُمۡ وَنُوۡرُهُمۡ​ؕ وَ الَّذِيۡنَ
-  كَفَرُوۡا وَكَذَّبُوۡا بِاٰيٰتِنَاۤ اُولٰٓٮِٕكَ اَصۡحٰبُ الۡجَحِيۡمِ‏
+arabic_ayat: وَٱلَّذِينَ ءَامَنُواْ بِٱللَّهِ وَرُسُلِهِۦٓ أُوْلَٰٓئِكَ هُمُ ٱلصِّدِّيقُونَۖ
+  وَٱلشُّهَدَآءُ عِندَ رَبِّهِمۡ لَهُمۡ أَجۡرُهُمۡ وَنُورُهُمۡۖ وَٱلَّذِينَ كَفَرُواْ
+  وَكَذَّبُواْ بِـَٔايَٰتِنَآ أُوْلَٰٓئِكَ أَصۡحَٰبُ ٱلۡجَحِيمِ
 sentence_translation: ˹As for˺ those who believe in Allah and His messengers, it is
   they who are ˹truly˺ the people of truth. And the martyrs, with their Lord, will
   have their reward and their light. But ˹as for˺ those who disbelieve and reject
   Our signs, it is they who will be the residents of the Hellfire.
 word_by_word:
   1:
-    arabic: وَالَّذِيۡنَ
+    arabic: وَٱلَّذِينَ ءَ
     translation: And those who
     transliteration: wa-alladhīna
   2:
-    arabic: اٰمَنُوۡا
+    arabic: امَنُواْ
     translation: believe
     transliteration: āmanū
   3:
-    arabic: بِاللّٰهِ
+    arabic: بِٱللَّهِ
     translation: in Allah
     transliteration: bil-lahi
   4:
-    arabic: وَرُسُلِهٖۤ
+    arabic: وَرُسُلِهِۦٓ
     translation: and His Messengers
     transliteration: warusulihi
   5:
-    arabic: اُولٰٓٮِٕكَ
+    arabic: أُوْلَٰٓئِكَ
     translation: '[those]'
     transliteration: ulāika
   6:
@@ -32,19 +32,19 @@ word_by_word:
     translation: they
     transliteration: humu
   7:
-    arabic: الصِّدِّيۡقُوۡنَۖ
+    arabic: ٱلصِّدِّيقُونَۖ
     translation: (are) the truthful
     transliteration: l-ṣidīqūna
   8:
-    arabic: وَالشُّهَدَآءُ
+    arabic: وَٱلشُّهَدَآءُ
     translation: and the martyrs
     transliteration: wal-shuhadāu
   9:
-    arabic: عِنۡدَ
+    arabic: عِندَ
     translation: (are) with
     transliteration: ʿinda
   10:
-    arabic: رَبِّهِمۡؕ
+    arabic: رَبِّهِمۡ
     translation: their Lord
     transliteration: rabbihim
   11:
@@ -52,39 +52,39 @@ word_by_word:
     translation: For them
     transliteration: lahum
   12:
-    arabic: اَجۡرُهُمۡ
+    arabic: أَجۡرُهُمۡ
     translation: (is) their reward
     transliteration: ajruhum
   13:
-    arabic: وَنُوۡرُهُمۡ​ؕ
+    arabic: وَنُورُهُمۡۖ
     translation: and their light
     transliteration: wanūruhum
   14:
-    arabic: وَ الَّذِيۡنَ
+    arabic: وَٱلَّذِينَ
     translation: But those who
     transliteration: wa-alladhīna
   15:
-    arabic: كَفَرُوۡا
+    arabic: كَفَرُواْ
     translation: disbelieve
     transliteration: kafarū
   16:
-    arabic: وَكَذَّبُوۡا
+    arabic: وَكَذَّبُواْ
     translation: and deny
     transliteration: wakadhabū
   17:
-    arabic: بِاٰيٰتِنَاۤ
+    arabic: بِـَٔايَٰتِنَآ
     translation: Our Verses
     transliteration: biāyātinā
   18:
-    arabic: اُولٰٓٮِٕكَ
+    arabic: أُوْلَٰٓئِكَ
     translation: those
     transliteration: ulāika
   19:
-    arabic: اَصۡحٰبُ
+    arabic: أَصۡحَٰبُ
     translation: (are the) companions
     transliteration: aṣḥābu
   20:
-    arabic: الۡجَحِيۡمِ‏
+    arabic: ٱلۡجَحِيمِ
     translation: (of) the Hellfire
     transliteration: l-jaḥīmi
 ---

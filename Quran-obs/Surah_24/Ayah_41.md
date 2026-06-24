@@ -1,13 +1,13 @@
 ---
-arabic_ayat: اَلَمۡ تَرَ اَنَّ اللّٰهَ يُسَبِّحُ لَهٗ مَنۡ فِى السَّمٰوٰتِ وَالۡاَرۡضِ
-  وَالطَّيۡرُ صٰٓفّٰتٍ​ؕ كُلٌّ قَدۡ عَلِمَ صَلَاتَهٗ وَتَسۡبِيۡحَهٗ​ؕ وَاللّٰهُ عَلِيۡمٌۢ
-  بِمَا يَفۡعَلُوۡنَ‏
+arabic_ayat: أَلَمۡ تَرَ أَنَّ ٱللَّهَ يُسَبِّحُ لَهُۥ مَن فِي ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِ
+  وَٱلطَّيۡرُ صَٰٓفَّٰتٖۖ كُلّٞ قَدۡ عَلِمَ صَلَاتَهُۥ وَتَسۡبِيحَهُۥۗ وَٱللَّهُ عَلِيمُۢ
+  بِمَا يَفۡعَلُونَ
 sentence_translation: Do you not see that Allah is glorified by all those in the heavens
   and the earth, even the birds as they soar? Each ˹instinctively˺ knows their manner
   of prayer and glorification. And Allah has ˹perfect˺ knowledge of all they do.
 word_by_word:
   1:
-    arabic: اَلَمۡ
+    arabic: أَلَمۡ
     translation: Do not
     transliteration: alam
   2:
@@ -15,11 +15,11 @@ word_by_word:
     translation: you see
     transliteration: tara
   3:
-    arabic: اَنَّ
+    arabic: أَنَّ
     translation: that
     transliteration: anna
   4:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: 'Allah '
     transliteration: l-laha
   5:
@@ -27,35 +27,35 @@ word_by_word:
     translation: glorify
     transliteration: yusabbiḥu
   6:
-    arabic: لَهٗ
+    arabic: لَهُۥ
     translation: Him
     transliteration: lahu
   7:
-    arabic: مَنۡ
+    arabic: مَن
     translation: whoever
     transliteration: man
   8:
-    arabic: فِى
+    arabic: فِي
     translation: (is) in
     transliteration: fī
   9:
-    arabic: السَّمٰوٰتِ
+    arabic: ٱلسَّمَٰوَٰتِ
     translation: the heavens
     transliteration: l-samāwāti
   10:
-    arabic: وَالۡاَرۡضِ
+    arabic: وَٱلۡأَرۡضِ
     translation: and the earth
     transliteration: wal-arḍi
   11:
-    arabic: وَالطَّيۡرُ
+    arabic: وَٱلطَّيۡرُ
     translation: and the birds
     transliteration: wal-ṭayru
   12:
-    arabic: صٰٓفّٰتٍ​ؕ
+    arabic: صَٰٓفَّٰتٖۖ
     translation: (with) wings outspread
     transliteration: ṣāffātin
   13:
-    arabic: كُلٌّ
+    arabic: كُلّٞ
     translation: Each one
     transliteration: kullun
   14:
@@ -67,19 +67,19 @@ word_by_word:
     translation: knows
     transliteration: ʿalima
   16:
-    arabic: صَلَاتَهٗ
+    arabic: صَلَاتَهُۥ
     translation: its prayer
     transliteration: ṣalātahu
   17:
-    arabic: وَتَسۡبِيۡحَهٗ​ؕ
+    arabic: وَتَسۡبِيحَهُۥۗ
     translation: and its glorification
     transliteration: watasbīḥahu
   18:
-    arabic: وَاللّٰهُ
+    arabic: وَٱللَّهُ
     translation: And Allah
     transliteration: wal-lahu
   19:
-    arabic: عَلِيۡمٌۢ
+    arabic: عَلِيمُۢ
     translation: (is) All-Knower
     transliteration: ʿalīmun
   20:
@@ -87,7 +87,7 @@ word_by_word:
     translation: of what
     transliteration: bimā
   21:
-    arabic: يَفۡعَلُوۡنَ‏
+    arabic: يَفۡعَلُونَ
     translation: they do
     transliteration: yafʿalūna
 ---

@@ -1,19 +1,19 @@
 ---
-arabic_ayat: اَتٰۤى اَمۡرُ اللّٰهِ فَلَا تَسۡتَعۡجِلُوۡهُ​ ؕ سُبۡحٰنَهٗ وَتَعٰلٰى
-  عَمَّا يُشۡرِكُوۡنَ‏
+arabic_ayat: أَتَىٰٓ أَمۡرُ ٱللَّهِ فَلَا تَسۡتَعۡجِلُوهُۚ سُبۡحَٰنَهُۥ وَتَعَٰلَىٰ
+  عَمَّا يُشۡرِكُونَ
 sentence_translation: The command of Allah is at hand, so do not hasten it. Glorified
   and Exalted is He above what they associate ˹with Him in worship˺!
 word_by_word:
   1:
-    arabic: اَتٰۤى
+    arabic: أَتَىٰٓ
     translation: Will come
     transliteration: atā
   2:
-    arabic: اَمۡرُ
+    arabic: أَمۡرُ
     translation: (the) command of Allah
     transliteration: amru
   3:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (the) command of Allah
     transliteration: l-lahi
   4:
@@ -21,15 +21,15 @@ word_by_word:
     translation: so (do) not
     transliteration: falā
   5:
-    arabic: تَسۡتَعۡجِلُوۡهُ​ ؕ
+    arabic: تَسۡتَعۡجِلُوهُۚ
     translation: (be) impatient for it
     transliteration: tastaʿjilūhu
   6:
-    arabic: سُبۡحٰنَهٗ
+    arabic: سُبۡحَٰنَهُۥ
     translation: Glorified is He
     transliteration: sub'ḥānahu
   7:
-    arabic: وَتَعٰلٰى
+    arabic: وَتَعَٰلَىٰ
     translation: and Exalted (is) He
     transliteration: wataʿālā
   8:
@@ -37,7 +37,7 @@ word_by_word:
     translation: above what
     transliteration: ʿammā
   9:
-    arabic: يُشۡرِكُوۡنَ‏
+    arabic: يُشۡرِكُونَ
     translation: they associate
     transliteration: yush'rikūna
 ---

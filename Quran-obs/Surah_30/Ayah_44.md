@@ -1,11 +1,11 @@
 ---
-arabic_ayat: مَنۡ كَفَرَ فَعَلَيۡهِ كُفۡرُهٗ ​ۚ وَمَنۡ عَمِلَ صَالِحاً فَلِاَنۡفُسِهِمۡ
-  يَمۡهَدُوۡنَۙ ‏
+arabic_ayat: مَن كَفَرَ فَعَلَيۡهِ كُفۡرُهُۥۖ وَمَنۡ عَمِلَ صَٰلِحٗا فَلِأَنفُسِهِمۡ
+  يَمۡهَدُونَ
 sentence_translation: those who disbelieved will bear ˹the burden of˺ their own disbelief;
   and those who did good will have prepared for themselves ˹eternal homes˺,
 word_by_word:
   1:
-    arabic: مَنۡ
+    arabic: مَن
     translation: Whoever
     transliteration: man
   2:
@@ -17,7 +17,7 @@ word_by_word:
     translation: then against him
     transliteration: faʿalayhi
   4:
-    arabic: كُفۡرُهٗ ​ۚ
+    arabic: كُفۡرُهُۥۖ
     translation: (is) his disbelief
     transliteration: kuf'ruhu
   5:
@@ -29,15 +29,15 @@ word_by_word:
     translation: does
     transliteration: ʿamila
   7:
-    arabic: صَالِحاً
+    arabic: صَٰلِحٗا
     translation: righteousness
     transliteration: ṣāliḥan
   8:
-    arabic: فَلِاَنۡفُسِهِمۡ
+    arabic: فَلِأَنفُسِهِمۡ
     translation: then for themselves
     transliteration: fali-anfusihim
   9:
-    arabic: يَمۡهَدُوۡنَۙ ‏
+    arabic: يَمۡهَدُونَ
     translation: they are preparing
     transliteration: yamhadūna
 ---

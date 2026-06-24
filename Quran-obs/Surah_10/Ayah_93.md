@@ -1,7 +1,7 @@
 ---
-arabic_ayat: وَلَقَدۡ بَوَّاۡنَا بَنِىۡۤ اِسۡرَآءِيۡلَ مُبَوَّاَ صِدۡقٍ وَّرَزَقۡنٰهُمۡ
-  مِّنَ الطَّيِّبٰتِ​ۚ فَمَا اخۡتَلَفُوۡا حَتّٰى جَآءَهُمُ الۡعِلۡمُ​ؕ اِنَّ رَبَّكَ
-  يَقۡضِىۡ بَيۡنَهُمۡ يَوۡمَ الۡقِيٰمَةِ فِيۡمَا كَانُوۡا فِيۡهِ يَخۡتَلِفُوۡنَ‏
+arabic_ayat: وَلَقَدۡ بَوَّأۡنَا بَنِيٓ إِسۡرَٰٓءِيلَ مُبَوَّأَ صِدۡقٖ وَرَزَقۡنَٰهُم
+  مِّنَ ٱلطَّيِّبَٰتِ فَمَا ٱخۡتَلَفُواْ حَتَّىٰ جَآءَهُمُ ٱلۡعِلۡمُۚ إِنَّ رَبَّكَ
+  يَقۡضِي بَيۡنَهُمۡ يَوۡمَ ٱلۡقِيَٰمَةِ فِيمَا كَانُواْ فِيهِ يَخۡتَلِفُونَ
 sentence_translation: Indeed, We settled the Children of Israel in a blessed land, and
   granted them good, lawful provisions. They did not differ until knowledge came to
   them. Surely your Lord will judge between them on the Day of Judgment regarding
@@ -12,27 +12,27 @@ word_by_word:
     translation: And verily
     transliteration: walaqad
   2:
-    arabic: بَوَّاۡنَا
+    arabic: بَوَّأۡنَا
     translation: We settled
     transliteration: bawwanā
   3:
-    arabic: بَنِىۡۤ
+    arabic: بَنِيٓ
     translation: (the) Children
     transliteration: banī
   4:
-    arabic: اِسۡرَآءِيۡلَ
+    arabic: إِسۡرَٰٓءِيلَ
     translation: (of) Israel
     transliteration: is'rāīla
   5:
-    arabic: مُبَوَّاَ
+    arabic: مُبَوَّأَ
     translation: (in) a settlement
     transliteration: mubawwa-a
   6:
-    arabic: صِدۡقٍ
+    arabic: صِدۡقٖ
     translation: honorable
     transliteration: ṣid'qin
   7:
-    arabic: وَّرَزَقۡنٰهُمۡ
+    arabic: وَرَزَقۡنَٰهُم
     translation: and We provided them
     transliteration: warazaqnāhum
   8:
@@ -40,7 +40,7 @@ word_by_word:
     translation: with
     transliteration: mina
   9:
-    arabic: الطَّيِّبٰتِ​ۚ
+    arabic: ٱلطَّيِّبَٰتِ
     translation: the good things
     transliteration: l-ṭayibāti
   10:
@@ -48,11 +48,11 @@ word_by_word:
     translation: and not
     transliteration: famā
   11:
-    arabic: اخۡتَلَفُوۡا
+    arabic: ٱخۡتَلَفُواْ
     translation: they differ
     transliteration: ikh'talafū
   12:
-    arabic: حَتّٰى
+    arabic: حَتَّىٰ
     translation: until
     transliteration: ḥattā
   13:
@@ -60,11 +60,11 @@ word_by_word:
     translation: came to them
     transliteration: jāahumu
   14:
-    arabic: الۡعِلۡمُ​ؕ
+    arabic: ٱلۡعِلۡمُۚ
     translation: the knowledge
     transliteration: l-ʿil'mu
   15:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   16:
@@ -72,7 +72,7 @@ word_by_word:
     translation: your Lord
     transliteration: rabbaka
   17:
-    arabic: يَقۡضِىۡ
+    arabic: يَقۡضِي
     translation: will judge
     transliteration: yaqḍī
   18:
@@ -84,23 +84,23 @@ word_by_word:
     translation: (on) the Day
     transliteration: yawma
   20:
-    arabic: الۡقِيٰمَةِ
+    arabic: ٱلۡقِيَٰمَةِ
     translation: (of) the Resurrection
     transliteration: l-qiyāmati
   21:
-    arabic: فِيۡمَا
+    arabic: فِيمَا
     translation: concerning what
     transliteration: fīmā
   22:
-    arabic: كَانُوۡا
+    arabic: كَانُواْ
     translation: they used (to)
     transliteration: kānū
   23:
-    arabic: فِيۡهِ
+    arabic: فِيهِ
     translation: '[in it]'
     transliteration: fīhi
   24:
-    arabic: يَخۡتَلِفُوۡنَ‏
+    arabic: يَخۡتَلِفُونَ
     translation: differ
     transliteration: yakhtalifūna
 ---

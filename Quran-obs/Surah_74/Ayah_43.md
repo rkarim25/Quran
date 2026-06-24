@@ -1,9 +1,9 @@
 ---
-arabic_ayat: قَالُوۡا لَمۡ نَكُ مِنَ الۡمُصَلِّيۡنَۙ‏
+arabic_ayat: قَالُواْ لَمۡ نَكُ مِنَ ٱلۡمُصَلِّينَ
 sentence_translation: They will reply, “We were not of those who prayed,
 word_by_word:
   1:
-    arabic: قَالُوۡا
+    arabic: قَالُواْ
     translation: They will say
     transliteration: qālū
   2:
@@ -19,7 +19,7 @@ word_by_word:
     translation: of
     transliteration: mina
   5:
-    arabic: الۡمُصَلِّيۡنَۙ‏
+    arabic: ٱلۡمُصَلِّينَ
     translation: those who prayed
     transliteration: l-muṣalīna
 ---

@@ -1,11 +1,11 @@
 ---
-arabic_ayat: اَرَءَيۡتَ مَنِ اتَّخَذَ اِلٰهَهٗ هَوٰٮهُ ؕ اَفَاَنۡتَ تَكُوۡنُ عَلَيۡهِ
-  وَكِيۡلًا ۙ‏
+arabic_ayat: أَرَءَيۡتَ مَنِ ٱتَّخَذَ إِلَٰهَهُۥ هَوَىٰهُ أَفَأَنتَ تَكُونُ عَلَيۡهِ
+  وَكِيلًا
 sentence_translation: Have you seen ˹O Prophet˺ the one who has taken their own desires
   as their god? Will you then be a keeper over them?
 word_by_word:
   1:
-    arabic: اَرَءَيۡتَ
+    arabic: أَرَءَيۡتَ
     translation: Have you seen
     transliteration: ara-ayta
   2:
@@ -13,23 +13,23 @@ word_by_word:
     translation: (one) who
     transliteration: mani
   3:
-    arabic: اتَّخَذَ
+    arabic: ٱتَّخَذَ
     translation: takes
     transliteration: ittakhadha
   4:
-    arabic: اِلٰهَهٗ
+    arabic: إِلَٰهَهُۥ
     translation: (as) his god
     transliteration: ilāhahu
   5:
-    arabic: هَوٰٮهُ ؕ
+    arabic: هَوَىٰهُ
     translation: his own desire
     transliteration: hawāhu
   6:
-    arabic: اَفَاَنۡتَ
+    arabic: أَفَأَنتَ
     translation: Then would you
     transliteration: afa-anta
   7:
-    arabic: تَكُوۡنُ
+    arabic: تَكُونُ
     translation: be
     transliteration: takūnu
   8:
@@ -37,7 +37,7 @@ word_by_word:
     translation: over him
     transliteration: ʿalayhi
   9:
-    arabic: وَكِيۡلًا ۙ‏
+    arabic: وَكِيلًا
     translation: a guardian
     transliteration: wakīlan
 ---

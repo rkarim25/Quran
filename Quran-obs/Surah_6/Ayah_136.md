@@ -1,19 +1,19 @@
 ---
-arabic_ayat: وَجَعَلُوۡا لِلّٰهِ مِمَّا ذَرَاَ مِنَ الۡحَـرۡثِ وَالۡاَنۡعَامِ نَصِيۡبًا
-  فَقَالُوۡا هٰذَا لِلّٰهِ بِزَعۡمِهِمۡ وَهٰذَا لِشُرَكَآٮِٕنَا​ ۚ فَمَا كَانَ لِشُرَكَآٮِٕهِمۡ
-  فَلَا يَصِلُ اِلَى اللّٰهِ​ ۚ وَمَا كَانَ لِلّٰهِ فَهُوَ يَصِلُ اِلٰى شُرَكَآٮِٕهِمۡ​
-  ؕ سَآءَ مَا يَحۡكُمُوۡنَ‏
+arabic_ayat: وَجَعَلُواْ لِلَّهِ مِمَّا ذَرَأَ مِنَ ٱلۡحَرۡثِ وَٱلۡأَنۡعَٰمِ نَصِيبٗا
+  فَقَالُواْ هَٰذَا لِلَّهِ بِزَعۡمِهِمۡ وَهَٰذَا لِشُرَكَآئِنَاۖ فَمَا كَانَ لِشُرَكَآئِهِمۡ
+  فَلَا يَصِلُ إِلَى ٱللَّهِۖ وَمَا كَانَ لِلَّهِ فَهُوَ يَصِلُ إِلَىٰ شُرَكَآئِهِمۡۗ
+  سَآءَ مَا يَحۡكُمُونَ
 sentence_translation: The pagans set aside for Allah a share of the crops and cattle
   He created, saying, “This ˹portion˺ is for Allah,” so they claim, “and this ˹one˺
   for our associate-gods.” Yet the portion of their associate-gods is not shared with
   Allah while Allah’s portion is shared with their associate-gods. What unfair judgment!
 word_by_word:
   1:
-    arabic: وَجَعَلُوۡا
+    arabic: وَجَعَلُواْ
     translation: And they assign
     transliteration: wajaʿalū
   2:
-    arabic: لِلّٰهِ
+    arabic: لِلَّهِ
     translation: to Allah
     transliteration: lillahi
   3:
@@ -21,7 +21,7 @@ word_by_word:
     translation: out of what
     transliteration: mimmā
   4:
-    arabic: ذَرَاَ
+    arabic: ذَرَأَ
     translation: He produced
     transliteration: dhara-a
   5:
@@ -29,27 +29,27 @@ word_by_word:
     translation: of
     transliteration: mina
   6:
-    arabic: الۡحَـرۡثِ
+    arabic: ٱلۡحَرۡثِ
     translation: the crops
     transliteration: l-ḥarthi
   7:
-    arabic: وَالۡاَنۡعَامِ
+    arabic: وَٱلۡأَنۡعَٰمِ
     translation: and the cattle
     transliteration: wal-anʿāmi
   8:
-    arabic: نَصِيۡبًا
+    arabic: نَصِيبٗا
     translation: a share
     transliteration: naṣīban
   9:
-    arabic: فَقَالُوۡا
+    arabic: فَقَالُواْ
     translation: and they say
     transliteration: faqālū
   10:
-    arabic: هٰذَا
+    arabic: هَٰذَا
     translation: This
     transliteration: hādhā
   11:
-    arabic: لِلّٰهِ
+    arabic: لِلَّهِ
     translation: (is) for Allah
     transliteration: lillahi
   12:
@@ -57,11 +57,11 @@ word_by_word:
     translation: by their claim
     transliteration: bizaʿmihim
   13:
-    arabic: وَهٰذَا
+    arabic: وَهَٰذَا
     translation: And this
     transliteration: wahādhā
   14:
-    arabic: لِشُرَكَآٮِٕنَا​ ۚ
+    arabic: لِشُرَكَآئِنَاۖ
     translation: (is) for our partners
     transliteration: lishurakāinā
   15:
@@ -73,7 +73,7 @@ word_by_word:
     translation: is
     transliteration: kāna
   17:
-    arabic: لِشُرَكَآٮِٕهِمۡ
+    arabic: لِشُرَكَآئِهِمۡ
     translation: for their partners
     transliteration: lishurakāihim
   18:
@@ -85,11 +85,11 @@ word_by_word:
     translation: reach
     transliteration: yaṣilu
   20:
-    arabic: اِلَى
+    arabic: إِلَى
     translation: '[to]'
     transliteration: ilā
   21:
-    arabic: اللّٰهِ​ ۚ
+    arabic: ٱللَّهِۖ
     translation: Allah
     transliteration: l-lahi
   22:
@@ -101,7 +101,7 @@ word_by_word:
     translation: is
     transliteration: kāna
   24:
-    arabic: لِلّٰهِ
+    arabic: لِلَّهِ
     translation: for Allah
     transliteration: lillahi
   25:
@@ -113,11 +113,11 @@ word_by_word:
     translation: reaches
     transliteration: yaṣilu
   27:
-    arabic: اِلٰى
+    arabic: إِلَىٰ
     translation: '[to]'
     transliteration: ilā
   28:
-    arabic: شُرَكَآٮِٕهِمۡ​ ؕ
+    arabic: شُرَكَآئِهِمۡۗ
     translation: their partners
     transliteration: shurakāihim
   29:
@@ -129,7 +129,7 @@ word_by_word:
     translation: (is) what
     transliteration: mā
   31:
-    arabic: يَحۡكُمُوۡنَ‏
+    arabic: يَحۡكُمُونَ
     translation: they judge
     transliteration: yaḥkumūna
 ---

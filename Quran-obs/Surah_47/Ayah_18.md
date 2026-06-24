@@ -1,6 +1,6 @@
 ---
-arabic_ayat: فَهَلۡ يَنۡظُرُوۡنَ اِلَّا السَّاعَةَ اَنۡ تَاۡتِيَهُمۡ بَغۡتَةً ​ ۚ
-  فَقَدۡ جَآءَ اَشۡرَاطُهَا​​ ۚ فَاَنّٰى لَهُمۡ اِذَا جَآءَتۡهُمۡ ذِكۡرٰٮهُمۡ‏
+arabic_ayat: فَهَلۡ يَنظُرُونَ إِلَّا ٱلسَّاعَةَ أَن تَأۡتِيَهُم بَغۡتَةٗۖ فَقَدۡ
+  جَآءَ أَشۡرَاطُهَاۚ فَأَنَّىٰ لَهُمۡ إِذَا جَآءَتۡهُمۡ ذِكۡرَىٰهُمۡ
 sentence_translation: Are they only waiting for the Hour to take them by surprise?
   Yet ˹some of˺ its signs have already come. Once it actually befalls them, will it
   not be too late to be mindful?
@@ -10,27 +10,27 @@ word_by_word:
     translation: Then do
     transliteration: fahal
   2:
-    arabic: يَنۡظُرُوۡنَ
+    arabic: يَنظُرُونَ
     translation: they wait
     transliteration: yanẓurūna
   3:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: but
     transliteration: illā
   4:
-    arabic: السَّاعَةَ
+    arabic: ٱلسَّاعَةَ
     translation: (for) the Hour
     transliteration: l-sāʿata
   5:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that
     transliteration: an
   6:
-    arabic: تَاۡتِيَهُمۡ
+    arabic: تَأۡتِيَهُم
     translation: it should come to them
     transliteration: tatiyahum
   7:
-    arabic: بَغۡتَةً ​ ۚ
+    arabic: بَغۡتَةٗۖ
     translation: suddenly
     transliteration: baghtatan
   8:
@@ -42,11 +42,11 @@ word_by_word:
     translation: have come
     transliteration: jāa
   10:
-    arabic: اَشۡرَاطُهَا​​ ۚ
+    arabic: أَشۡرَاطُهَاۚ
     translation: its indications
     transliteration: ashrāṭuhā
   11:
-    arabic: فَاَنّٰى
+    arabic: فَأَنَّىٰ
     translation: Then how
     transliteration: fa-annā
   12:
@@ -54,7 +54,7 @@ word_by_word:
     translation: to them
     transliteration: lahum
   13:
-    arabic: اِذَا
+    arabic: إِذَا
     translation: when
     transliteration: idhā
   14:
@@ -62,7 +62,7 @@ word_by_word:
     translation: has come to them
     transliteration: jāathum
   15:
-    arabic: ذِكۡرٰٮهُمۡ‏
+    arabic: ذِكۡرَىٰهُمۡ
     translation: their reminder
     transliteration: dhik'rāhum
 ---

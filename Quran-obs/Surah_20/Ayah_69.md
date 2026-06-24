@@ -1,12 +1,12 @@
 ---
-arabic_ayat: وَاَ لۡقِ مَا فِىۡ يَمِيۡنِكَ تَلۡقَفۡ مَا صَنَعُوۡا​ ؕاِنَّمَا صَنَعُوۡا
-  كَيۡدُ سٰحِرٍ​ ؕ وَلَا يُفۡلِحُ السّٰحِرُ حَيۡثُ اَتٰى‏
+arabic_ayat: وَأَلۡقِ مَا فِي يَمِينِكَ تَلۡقَفۡ مَا صَنَعُوٓاْۖ إِنَّمَا صَنَعُواْ
+  كَيۡدُ سَٰحِرٖۖ وَلَا يُفۡلِحُ ٱلسَّاحِرُ حَيۡثُ أَتَىٰ
 sentence_translation: Cast what is in your right hand, and it will swallow up what
   they have made, for what they have made is no more than a magic trick. And magicians
   can never succeed wherever they go.”
 word_by_word:
   1:
-    arabic: وَاَ لۡقِ
+    arabic: وَأَلۡقِ
     translation: And throw
     transliteration: wa-alqi
   2:
@@ -14,11 +14,11 @@ word_by_word:
     translation: what
     transliteration: mā
   3:
-    arabic: فِىۡ
+    arabic: فِي
     translation: (is) in
     transliteration: fī
   4:
-    arabic: يَمِيۡنِكَ
+    arabic: يَمِينِكَ
     translation: your right hand
     transliteration: yamīnika
   5:
@@ -30,15 +30,15 @@ word_by_word:
     translation: what
     transliteration: mā
   7:
-    arabic: صَنَعُوۡا​ ؕ
+    arabic: صَنَعُوٓاْۖ
     translation: they have made
     transliteration: ṣanaʿū
   8:
-    arabic: اِنَّمَا
+    arabic: إِنَّمَا
     translation: Only
     transliteration: innamā
   9:
-    arabic: صَنَعُوۡا
+    arabic: صَنَعُواْ
     translation: they (have) made
     transliteration: ṣanaʿū
   10:
@@ -46,7 +46,7 @@ word_by_word:
     translation: a trick
     transliteration: kaydu
   11:
-    arabic: سٰحِرٍ​ ؕ
+    arabic: سَٰحِرٖۖ
     translation: (of) a magician
     transliteration: sāḥirin
   12:
@@ -58,7 +58,7 @@ word_by_word:
     translation: will be successful
     transliteration: yuf'liḥu
   14:
-    arabic: السّٰحِرُ
+    arabic: ٱلسَّاحِرُ
     translation: the magician
     transliteration: l-sāḥiru
   15:
@@ -66,7 +66,7 @@ word_by_word:
     translation: wherever
     transliteration: ḥaythu
   16:
-    arabic: اَتٰى‏
+    arabic: أَتَىٰ
     translation: he comes
     transliteration: atā
 ---

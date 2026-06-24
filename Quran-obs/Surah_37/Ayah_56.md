@@ -1,5 +1,5 @@
 ---
-arabic_ayat: قَالَ تَاللّٰهِ اِنۡ كِدْتَّ لَـتُرۡدِيۡنِۙ‏
+arabic_ayat: قَالَ تَٱللَّهِ إِن كِدتَّ لَتُرۡدِينِ
 sentence_translation: He will ˹then˺ say, “By Allah! You nearly ruined me.
 word_by_word:
   1:
@@ -7,19 +7,19 @@ word_by_word:
     translation: He (will) say
     transliteration: qāla
   2:
-    arabic: تَاللّٰهِ
+    arabic: تَٱللَّهِ
     translation: By Allah
     transliteration: tal-lahi
   3:
-    arabic: اِنۡ
+    arabic: إِن
     translation: verily
     transliteration: in
   4:
-    arabic: كِدْتَّ
+    arabic: كِدتَّ
     translation: you almost
     transliteration: kidtta
   5:
-    arabic: لَـتُرۡدِيۡنِۙ‏
+    arabic: لَتُرۡدِينِ
     translation: ruined me
     transliteration: latur'dīni
 ---

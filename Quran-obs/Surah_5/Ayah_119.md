@@ -1,7 +1,7 @@
 ---
-arabic_ayat: قَالَ اللّٰهُ هٰذَا يَوۡمُ يَـنۡفَعُ الصّٰدِقِيۡنَ صِدۡقُهُمۡ​ؕ لَهُمۡ
-  جَنّٰتٌ تَجۡرِىۡ مِنۡ تَحۡتِهَا الۡاَنۡهٰرُ خٰلِدِيۡنَ فِيۡهَاۤ اَبَدًا​ ؕ رَضِىَ
-  اللّٰهُ عَنۡهُمۡ وَرَضُوۡا عَنۡهُ​ ؕ ذٰ لِكَ الۡـفَوۡزُ الۡعَظِيۡمُ‏
+arabic_ayat: قَالَ ٱللَّهُ هَٰذَا يَوۡمُ يَنفَعُ ٱلصَّٰدِقِينَ صِدۡقُهُمۡۚ لَهُمۡ
+  جَنَّٰتٞ تَجۡرِي مِن تَحۡتِهَا ٱلۡأَنۡهَٰرُ خَٰلِدِينَ فِيهَآ أَبَدٗاۖ رَّضِيَ
+  ٱللَّهُ عَنۡهُمۡ وَرَضُواْ عَنۡهُۚ ذَٰلِكَ ٱلۡفَوۡزُ ٱلۡعَظِيمُ
 sentence_translation: Allah will declare, “This is the Day when ˹only˺ the faithful
   will benefit from their faithfulness. Theirs are Gardens under which rivers flow,
   to stay there for ever and ever. Allah is pleased with them and they are pleased
@@ -12,11 +12,11 @@ word_by_word:
     translation: Will say
     transliteration: qāla
   2:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   3:
-    arabic: هٰذَا
+    arabic: هَٰذَا
     translation: This
     transliteration: hādhā
   4:
@@ -24,15 +24,15 @@ word_by_word:
     translation: Day
     transliteration: yawmu
   5:
-    arabic: يَـنۡفَعُ
+    arabic: يَنفَعُ
     translation: will profit
     transliteration: yanfaʿu
   6:
-    arabic: الصّٰدِقِيۡنَ
+    arabic: ٱلصَّٰدِقِينَ
     translation: the truthful
     transliteration: l-ṣādiqīna
   7:
-    arabic: صِدۡقُهُمۡ​ؕ
+    arabic: صِدۡقُهُمۡۚ
     translation: their truthfulness
     transliteration: ṣid'quhum
   8:
@@ -40,15 +40,15 @@ word_by_word:
     translation: For them
     transliteration: lahum
   9:
-    arabic: جَنّٰتٌ
+    arabic: جَنَّٰتٞ
     translation: (are) Gardens
     transliteration: jannātun
   10:
-    arabic: تَجۡرِىۡ
+    arabic: تَجۡرِي
     translation: flows
     transliteration: tajrī
   11:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   12:
@@ -56,27 +56,27 @@ word_by_word:
     translation: underneath it
     transliteration: taḥtihā
   13:
-    arabic: الۡاَنۡهٰرُ
+    arabic: ٱلۡأَنۡهَٰرُ
     translation: the rivers
     transliteration: l-anhāru
   14:
-    arabic: خٰلِدِيۡنَ
+    arabic: خَٰلِدِينَ
     translation: will abide
     transliteration: khālidīna
   15:
-    arabic: فِيۡهَاۤ
+    arabic: فِيهَآ
     translation: in it
     transliteration: fīhā
   16:
-    arabic: اَبَدًا​ ؕ
+    arabic: أَبَدٗاۖ
     translation: forever
     transliteration: abadan
   17:
-    arabic: رَضِىَ
+    arabic: رَّضِيَ
     translation: is pleased
     transliteration: raḍiya
   18:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   19:
@@ -84,23 +84,23 @@ word_by_word:
     translation: with them
     transliteration: ʿanhum
   20:
-    arabic: وَرَضُوۡا
+    arabic: وَرَضُواْ
     translation: and they are pleased
     transliteration: waraḍū
   21:
-    arabic: عَنۡهُ​ ؕ
+    arabic: عَنۡهُۚ
     translation: with Him
     transliteration: ʿanhu
   22:
-    arabic: ذٰ لِكَ
+    arabic: ذَٰلِكَ
     translation: That
     transliteration: dhālika
   23:
-    arabic: الۡـفَوۡزُ
+    arabic: ٱلۡفَوۡزُ
     translation: (is) the success
     transliteration: l-fawzu
   24:
-    arabic: الۡعَظِيۡمُ‏
+    arabic: ٱلۡعَظِيمُ
     translation: (the) great
     transliteration: l-ʿaẓīmu
 ---

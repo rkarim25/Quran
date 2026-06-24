@@ -1,17 +1,17 @@
 ---
-arabic_ayat: هُدًى وَّبُشۡرٰى لِلۡمُؤۡمِنِيۡنَۙ‏
+arabic_ayat: هُدٗى وَبُشۡرَىٰ لِلۡمُؤۡمِنِينَ
 sentence_translation: '˹It is˺ a guide and good news for the believers:'
 word_by_word:
   1:
-    arabic: هُدًى
+    arabic: هُدٗى
     translation: A guidance
     transliteration: hudan
   2:
-    arabic: وَّبُشۡرٰى
+    arabic: وَبُشۡرَىٰ
     translation: and glad tidings
     transliteration: wabush'rā
   3:
-    arabic: لِلۡمُؤۡمِنِيۡنَۙ‏
+    arabic: لِلۡمُؤۡمِنِينَ
     translation: for the believers
     transliteration: lil'mu'minīna
 ---

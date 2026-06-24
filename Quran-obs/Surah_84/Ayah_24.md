@@ -1,9 +1,9 @@
 ---
-arabic_ayat: فَبَشِّرۡهُمۡ بِعَذَابٍ اَلِيۡمٍۙ‏
+arabic_ayat: فَبَشِّرۡهُم بِعَذَابٍ أَلِيمٍ
 sentence_translation: So give them good news of a painful punishment.
 word_by_word:
   1:
-    arabic: فَبَشِّرۡهُمۡ
+    arabic: فَبَشِّرۡهُم
     translation: so give them tidings
     transliteration: fabashir'hum
   2:
@@ -11,7 +11,7 @@ word_by_word:
     translation: of a punishment
     transliteration: biʿadhābin
   3:
-    arabic: اَلِيۡمٍۙ‏
+    arabic: أَلِيمٍ
     translation: painful
     transliteration: alīmin
 ---

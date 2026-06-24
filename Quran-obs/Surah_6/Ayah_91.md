@@ -1,9 +1,9 @@
 ---
-arabic_ayat: وَمَا قَدَرُوا اللّٰهَ حَقَّ قَدۡرِهٖۤ اِذۡ قَالُوۡا مَاۤ اَنۡزَلَ اللّٰهُ
-  عَلٰى بَشَرٍ مِّنۡ شَىۡءٍ ؕ قُلۡ مَنۡ اَنۡزَلَ الۡـكِتٰبَ الَّذِىۡ جَآءَ بِهٖ مُوۡسٰى
-  نُوۡرًا وَّ هُدًى لِّلنَّاسِ​ تَجۡعَلُوۡنَهٗ قَرَاطِيۡسَ تُبۡدُوۡنَهَا وَتُخۡفُوۡنَ
-  كَثِيۡرًا​ ۚ وَعُلِّمۡتُمۡ مَّا لَمۡ تَعۡلَمُوۡۤا اَنۡتُمۡ وَلَاۤ اٰبَآؤُكُمۡ​ؕ
-  قُلِ اللّٰهُ​ۙ ثُمَّ ذَرۡهُمۡ فِىۡ خَوۡضِهِمۡ يَلۡعَبُوۡنَ‏
+arabic_ayat: وَمَا قَدَرُواْ ٱللَّهَ حَقَّ قَدۡرِهِۦٓ إِذۡ قَالُواْ مَآ أَنزَلَ ٱللَّهُ
+  عَلَىٰ بَشَرٖ مِّن شَيۡءٖۗ قُلۡ مَنۡ أَنزَلَ ٱلۡكِتَٰبَ ٱلَّذِي جَآءَ بِهِۦ مُوسَىٰ
+  نُورٗا وَهُدٗى لِّلنَّاسِۖ تَجۡعَلُونَهُۥ قَرَاطِيسَ تُبۡدُونَهَا وَتُخۡفُونَ كَثِيرٗاۖ
+  وَعُلِّمۡتُم مَّا لَمۡ تَعۡلَمُوٓاْ أَنتُمۡ وَلَآ ءَابَآؤُكُمۡۖ قُلِ ٱللَّهُۖ
+  ثُمَّ ذَرۡهُمۡ فِي خَوۡضِهِمۡ يَلۡعَبُونَ
 sentence_translation: And they have not shown Allah His proper reverence when they
   said, “Allah has revealed nothing to any human being.” Say, ˹O Prophet,˺ “Who then
   revealed the Book brought forth by Moses as a light and guidance for people, which
@@ -16,11 +16,11 @@ word_by_word:
     translation: And not
     transliteration: wamā
   2:
-    arabic: قَدَرُوا
+    arabic: قَدَرُواْ
     translation: they appraised
     transliteration: qadarū
   3:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   4:
@@ -28,43 +28,43 @@ word_by_word:
     translation: (with) true
     transliteration: ḥaqqa
   5:
-    arabic: قَدۡرِهٖۤ
+    arabic: قَدۡرِهِۦٓ
     translation: '[of his] appraisal'
     transliteration: qadrihi
   6:
-    arabic: اِذۡ
+    arabic: إِذۡ
     translation: when
     transliteration: idh
   7:
-    arabic: قَالُوۡا
+    arabic: قَالُواْ
     translation: they said
     transliteration: qālū
   8:
-    arabic: مَاۤ
+    arabic: مَآ
     translation: Not
     transliteration: mā
   9:
-    arabic: اَنۡزَلَ
+    arabic: أَنزَلَ
     translation: revealed
     transliteration: anzala
   10:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: (by) Allah
     transliteration: l-lahu
   11:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: 'on'
     transliteration: ʿalā
   12:
-    arabic: بَشَرٍ
+    arabic: بَشَرٖ
     translation: a human being
     transliteration: basharin
   13:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: '[of]'
     transliteration: min
   14:
-    arabic: شَىۡءٍ ؕ
+    arabic: شَيۡءٖۗ
     translation: anything
     transliteration: shayin
   15:
@@ -76,15 +76,15 @@ word_by_word:
     translation: Who
     transliteration: man
   17:
-    arabic: اَنۡزَلَ
+    arabic: أَنزَلَ
     translation: revealed
     transliteration: anzala
   18:
-    arabic: الۡـكِتٰبَ
+    arabic: ٱلۡكِتَٰبَ
     translation: the Book
     transliteration: l-kitāba
   19:
-    arabic: الَّذِىۡ
+    arabic: ٱلَّذِي
     translation: which
     transliteration: alladhī
   20:
@@ -92,47 +92,47 @@ word_by_word:
     translation: brought
     transliteration: jāa
   21:
-    arabic: بِهٖ
+    arabic: بِهِۦ
     translation: '[it]'
     transliteration: bihi
   22:
-    arabic: مُوۡسٰى
+    arabic: مُوسَىٰ
     translation: Musa
     transliteration: mūsā
   23:
-    arabic: نُوۡرًا
+    arabic: نُورٗا
     translation: (as) a light
     transliteration: nūran
   24:
-    arabic: وَّ هُدًى
+    arabic: وَهُدٗى
     translation: and guidance
     transliteration: wahudan
   25:
-    arabic: لِّلنَّاسِ​
+    arabic: لِّلنَّاسِۖ
     translation: for the people
     transliteration: lilnnāsi
   26:
-    arabic: تَجۡعَلُوۡنَهٗ
+    arabic: تَجۡعَلُونَهُۥ
     translation: You make it
     transliteration: tajʿalūnahu
   27:
-    arabic: قَرَاطِيۡسَ
+    arabic: قَرَاطِيسَ
     translation: (into) parchments
     transliteration: qarāṭīsa
   28:
-    arabic: تُبۡدُوۡنَهَا
+    arabic: تُبۡدُونَهَا
     translation: you disclose (some of) it
     transliteration: tub'dūnahā
   29:
-    arabic: وَتُخۡفُوۡنَ
+    arabic: وَتُخۡفُونَ
     translation: and you conceal
     transliteration: watukh'fūna
   30:
-    arabic: كَثِيۡرًا​ ۚ
+    arabic: كَثِيرٗاۖ
     translation: much (of it)
     transliteration: kathīran
   31:
-    arabic: وَعُلِّمۡتُمۡ
+    arabic: وَعُلِّمۡتُم
     translation: And you were taught
     transliteration: waʿullim'tum
   32:
@@ -144,19 +144,19 @@ word_by_word:
     translation: not
     transliteration: lam
   34:
-    arabic: تَعۡلَمُوۡۤا
+    arabic: تَعۡلَمُوٓاْ
     translation: knew
     transliteration: taʿlamū
   35:
-    arabic: اَنۡتُمۡ
+    arabic: أَنتُمۡ
     translation: you
     transliteration: antum
   36:
-    arabic: وَلَاۤ
+    arabic: وَلَآ ءَ
     translation: and not
     transliteration: walā
   37:
-    arabic: اٰبَآؤُكُمۡ​ؕ
+    arabic: ابَآؤُكُمۡۖ
     translation: your forefathers
     transliteration: ābāukum
   38:
@@ -164,7 +164,7 @@ word_by_word:
     translation: Say
     transliteration: quli
   39:
-    arabic: اللّٰهُ​ۙ
+    arabic: ٱللَّهُۖ
     translation: Allah (revealed it)
     transliteration: l-lahu
   40:
@@ -176,7 +176,7 @@ word_by_word:
     translation: leave them
     transliteration: dharhum
   42:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   43:
@@ -184,7 +184,7 @@ word_by_word:
     translation: 'their discourse '
     transliteration: khawḍihim
   44:
-    arabic: يَلۡعَبُوۡنَ‏
+    arabic: يَلۡعَبُونَ
     translation: playing
     transliteration: yalʿabūna
 ---

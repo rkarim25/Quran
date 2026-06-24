@@ -1,13 +1,13 @@
 ---
-arabic_ayat: اَلَمۡ تَرَ اَنَّ اللّٰهَ يُوۡلِجُ الَّيۡلَ فِى النَّهَارِ وَيُوۡلِجُ
-  النَّهَارَ فِى الَّيۡلِ وَسَخَّرَ الشَّمۡسَ وَالۡقَمَرَ كُلٌّ يَّجۡرِىۡۤ اِلٰٓى
-  اَجَلٍ مُّسَمًّى وَّاَنَّ اللّٰهَ بِمَا تَعۡمَلُوۡنَ خَبِيۡرٌ‏
+arabic_ayat: أَلَمۡ تَرَ أَنَّ ٱللَّهَ يُولِجُ ٱلَّيۡلَ فِي ٱلنَّهَارِ وَيُولِجُ ٱلنَّهَارَ
+  فِي ٱلَّيۡلِ وَسَخَّرَ ٱلشَّمۡسَ وَٱلۡقَمَرَۖ كُلّٞ يَجۡرِيٓ إِلَىٰٓ أَجَلٖ مُّسَمّٗى
+  وَأَنَّ ٱللَّهَ بِمَا تَعۡمَلُونَ خَبِيرٞ
 sentence_translation: Do you not see that Allah causes the night to merge into the
   day and the day into the night, and has subjected the sun and the moon, each orbiting
   for an appointed term, and that Allah is All-Aware of what you do?
 word_by_word:
   1:
-    arabic: اَلَمۡ
+    arabic: أَلَمۡ
     translation: Do not
     transliteration: alam
   2:
@@ -15,43 +15,43 @@ word_by_word:
     translation: you see
     transliteration: tara
   3:
-    arabic: اَنَّ
+    arabic: أَنَّ
     translation: that
     transliteration: anna
   4:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   5:
-    arabic: يُوۡلِجُ
+    arabic: يُولِجُ
     translation: causes to enter
     transliteration: yūliju
   6:
-    arabic: الَّيۡلَ
+    arabic: ٱلَّيۡلَ
     translation: the night
     transliteration: al-layla
   7:
-    arabic: فِى
+    arabic: فِي
     translation: into
     transliteration: fī
   8:
-    arabic: النَّهَارِ
+    arabic: ٱلنَّهَارِ
     translation: the day
     transliteration: l-nahāri
   9:
-    arabic: وَيُوۡلِجُ
+    arabic: وَيُولِجُ
     translation: and causes to enter
     transliteration: wayūliju
   10:
-    arabic: النَّهَارَ
+    arabic: ٱلنَّهَارَ
     translation: the day
     transliteration: l-nahāra
   11:
-    arabic: فِى
+    arabic: فِي
     translation: into
     transliteration: fī
   12:
-    arabic: الَّيۡلِ
+    arabic: ٱلَّيۡلِ
     translation: the night
     transliteration: al-layli
   13:
@@ -59,39 +59,39 @@ word_by_word:
     translation: and has subjected
     transliteration: wasakhara
   14:
-    arabic: الشَّمۡسَ
+    arabic: ٱلشَّمۡسَ
     translation: the sun
     transliteration: l-shamsa
   15:
-    arabic: وَالۡقَمَرَ
+    arabic: وَٱلۡقَمَرَۖ
     translation: and the moon
     transliteration: wal-qamara
   16:
-    arabic: كُلٌّ
+    arabic: كُلّٞ
     translation: each
     transliteration: kullun
   17:
-    arabic: يَّجۡرِىۡۤ
+    arabic: يَجۡرِيٓ
     translation: moving
     transliteration: yajrī
   18:
-    arabic: اِلٰٓى
+    arabic: إِلَىٰٓ
     translation: for
     transliteration: ilā
   19:
-    arabic: اَجَلٍ
+    arabic: أَجَلٖ
     translation: a term
     transliteration: ajalin
   20:
-    arabic: مُّسَمًّى
+    arabic: مُّسَمّٗى
     translation: appointed
     transliteration: musamman
   21:
-    arabic: وَّاَنَّ
+    arabic: وَأَنَّ
     translation: and that
     transliteration: wa-anna
   22:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   23:
@@ -99,11 +99,11 @@ word_by_word:
     translation: of what
     transliteration: bimā
   24:
-    arabic: تَعۡمَلُوۡنَ
+    arabic: تَعۡمَلُونَ
     translation: you do
     transliteration: taʿmalūna
   25:
-    arabic: خَبِيۡرٌ‏
+    arabic: خَبِيرٞ
     translation: (is) All-Aware
     transliteration: khabīrun
 ---

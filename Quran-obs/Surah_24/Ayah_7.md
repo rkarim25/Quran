@@ -1,22 +1,21 @@
 ---
-arabic_ayat: "وَالۡخَـامِسَةُ اَنَّ لَـعۡنَتَ اللّٰهِ عَلَيۡهِ اِنۡ كَانَ مِنَ الۡكٰذِبِيۡنَ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: وَٱلۡخَٰمِسَةُ أَنَّ لَعۡنَتَ ٱللَّهِ عَلَيۡهِ إِن كَانَ مِنَ ٱلۡكَٰذِبِينَ
 sentence_translation: and a fifth oath that Allah may condemn him if he is lying.
 word_by_word:
   1:
-    arabic: وَالۡخَـامِسَةُ
+    arabic: وَٱلۡخَٰمِسَةُ
     translation: And the fifth
     transliteration: wal-khāmisatu
   2:
-    arabic: اَنَّ
+    arabic: أَنَّ
     translation: that
     transliteration: anna
   3:
-    arabic: لَـعۡنَتَ
+    arabic: لَعۡنَتَ
     translation: (the) curse of Allah
     transliteration: laʿnata
   4:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (the) curse of Allah
     transliteration: l-lahi
   5:
@@ -24,7 +23,7 @@ word_by_word:
     translation: (be) upon him
     transliteration: ʿalayhi
   6:
-    arabic: اِنۡ
+    arabic: إِن
     translation: if
     transliteration: in
   7:
@@ -36,7 +35,7 @@ word_by_word:
     translation: of
     transliteration: mina
   9:
-    arabic: "الۡكٰذِبِيۡنَ‏ \uFEFF\uFEFF"
+    arabic: ٱلۡكَٰذِبِينَ
     translation: the liars
     transliteration: l-kādhibīna
 ---

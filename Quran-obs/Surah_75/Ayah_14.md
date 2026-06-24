@@ -1,5 +1,5 @@
 ---
-arabic_ayat: بَلِ الۡاِنۡسَانُ عَلٰى نَفۡسِهٖ بَصِيۡرَةٌ ۙ‏
+arabic_ayat: بَلِ ٱلۡإِنسَٰنُ عَلَىٰ نَفۡسِهِۦ بَصِيرَةٞ
 sentence_translation: In fact, people will testify against their own souls,
 word_by_word:
   1:
@@ -7,19 +7,19 @@ word_by_word:
     translation: Nay
     transliteration: bali
   2:
-    arabic: الۡاِنۡسَانُ
+    arabic: ٱلۡإِنسَٰنُ
     translation: '[The] man'
     transliteration: l-insānu
   3:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: against
     transliteration: ʿalā
   4:
-    arabic: نَفۡسِهٖ
+    arabic: نَفۡسِهِۦ
     translation: himself
     transliteration: nafsihi
   5:
-    arabic: بَصِيۡرَةٌ ۙ‏
+    arabic: بَصِيرَةٞ
     translation: (will be) a witness
     transliteration: baṣīratun
 ---

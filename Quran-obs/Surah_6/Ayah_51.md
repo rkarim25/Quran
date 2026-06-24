@@ -1,13 +1,12 @@
 ---
-arabic_ayat: "وَاَنۡذِرۡ بِهِ الَّذِيۡنَ يَخَافُوۡنَ اَنۡ يُّحۡشَرُوۡۤا اِلٰى رَبِّهِمۡ​\
-  \ لَـيۡسَ لَهُمۡ مِّنۡ دُوۡنِهٖ وَلِىٌّ وَّلَا شَفِيۡعٌ لَّعَلَّهُمۡ يَتَّقُوۡنَ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: وَأَنذِرۡ بِهِ ٱلَّذِينَ يَخَافُونَ أَن يُحۡشَرُوٓاْ إِلَىٰ رَبِّهِمۡ
+  لَيۡسَ لَهُم مِّن دُونِهِۦ وَلِيّٞ وَلَا شَفِيعٞ لَّعَلَّهُمۡ يَتَّقُونَ
 sentence_translation: Warn with this ˹Quran˺ those who are awed by the prospect of
   being gathered before their Lord—when they will have no protector or intercessor
   besides Him—so perhaps they will be mindful ˹of Him˺.
 word_by_word:
   1:
-    arabic: وَاَنۡذِرۡ
+    arabic: وَأَنذِرۡ
     translation: And warn
     transliteration: wa-andhir
   2:
@@ -15,55 +14,55 @@ word_by_word:
     translation: with it
     transliteration: bihi
   3:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   4:
-    arabic: يَخَافُوۡنَ
+    arabic: يَخَافُونَ
     translation: fear
     transliteration: yakhāfūna
   5:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that
     transliteration: an
   6:
-    arabic: يُّحۡشَرُوۡۤا
+    arabic: يُحۡشَرُوٓاْ
     translation: they will be gathered
     transliteration: yuḥ'sharū
   7:
-    arabic: اِلٰى
+    arabic: إِلَىٰ
     translation: to
     transliteration: ilā
   8:
-    arabic: رَبِّهِمۡ​
+    arabic: رَبِّهِمۡ
     translation: their Lord
     transliteration: rabbihim
   9:
-    arabic: لَـيۡسَ
+    arabic: لَيۡسَ
     translation: not
     transliteration: laysa
   10:
-    arabic: لَهُمۡ
+    arabic: لَهُم
     translation: for them
     transliteration: lahum
   11:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: of
     transliteration: min
   12:
-    arabic: دُوۡنِهٖ
+    arabic: دُونِهِۦ
     translation: other than Him
     transliteration: dūnihi
   13:
-    arabic: وَلِىٌّ
+    arabic: وَلِيّٞ
     translation: any protector
     transliteration: waliyyun
   14:
-    arabic: وَّلَا
+    arabic: وَلَا
     translation: and not
     transliteration: walā
   15:
-    arabic: شَفِيۡعٌ
+    arabic: شَفِيعٞ
     translation: any intercessor
     transliteration: shafīʿun
   16:
@@ -71,7 +70,7 @@ word_by_word:
     translation: so that they may
     transliteration: laʿallahum
   17:
-    arabic: "يَتَّقُوۡنَ‏ \uFEFF\uFEFF"
+    arabic: يَتَّقُونَ
     translation: (become) righteous
     transliteration: yattaqūna
 ---

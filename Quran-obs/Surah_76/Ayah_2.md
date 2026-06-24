@@ -1,11 +1,11 @@
 ---
-arabic_ayat: اِنَّا خَلَقۡنَا الۡاِنۡسَانَ مِنۡ نُّطۡفَةٍ اَمۡشَاجٍۖ نَّبۡتَلِيۡهِ
-  فَجَعَلۡنٰهُ سَمِيۡعًۢا بَصِيۡرًا‏
+arabic_ayat: إِنَّا خَلَقۡنَا ٱلۡإِنسَٰنَ مِن نُّطۡفَةٍ أَمۡشَاجٖ نَّبۡتَلِيهِ فَجَعَلۡنَٰهُ
+  سَمِيعَۢا بَصِيرًا
 sentence_translation: ˹For˺ indeed, We ˹alone˺ created humans from a drop of mixed
   fluids, ˹in order˺ to test them, so We made them hear and see.
 word_by_word:
   1:
-    arabic: اِنَّا
+    arabic: إِنَّا
     translation: Indeed, We
     transliteration: innā
   2:
@@ -13,11 +13,11 @@ word_by_word:
     translation: '[We] created'
     transliteration: khalaqnā
   3:
-    arabic: الۡاِنۡسَانَ
+    arabic: ٱلۡإِنسَٰنَ
     translation: man
     transliteration: l-insāna
   4:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   5:
@@ -25,23 +25,23 @@ word_by_word:
     translation: a semen-drop
     transliteration: nuṭ'fatin
   6:
-    arabic: اَمۡشَاجٍۖ
+    arabic: أَمۡشَاجٖ
     translation: a mixture
     transliteration: amshājin
   7:
-    arabic: نَّبۡتَلِيۡهِ
+    arabic: نَّبۡتَلِيهِ
     translation: (that) We test him
     transliteration: nabtalīhi
   8:
-    arabic: فَجَعَلۡنٰهُ
+    arabic: فَجَعَلۡنَٰهُ
     translation: so We made (for) him
     transliteration: fajaʿalnāhu
   9:
-    arabic: سَمِيۡعًۢا
+    arabic: سَمِيعَۢا
     translation: hearing
     transliteration: samīʿan
   10:
-    arabic: بَصِيۡرًا‏
+    arabic: بَصِيرًا
     translation: and sight
     transliteration: baṣīran
 ---

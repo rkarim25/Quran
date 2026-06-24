@@ -1,15 +1,15 @@
 ---
-arabic_ayat: وَاِنۡ يُّكَذِّبُوۡكَ فَقَدۡ كَذَّبَ الَّذِيۡنَ مِنۡ قَبۡلِهِمۡ​ۚ جَآءَتۡهُمۡ
-  رُسُلُهُمۡ بِالۡبَيِّنٰتِ وَبِالزُّبُرِ وَبِالۡكِتٰبِ الۡمُنِيۡرِ‏
+arabic_ayat: وَإِن يُكَذِّبُوكَ فَقَدۡ كَذَّبَ ٱلَّذِينَ مِن قَبۡلِهِمۡ جَآءَتۡهُمۡ
+  رُسُلُهُم بِٱلۡبَيِّنَٰتِ وَبِٱلزُّبُرِ وَبِٱلۡكِتَٰبِ ٱلۡمُنِيرِ
 sentence_translation: If they deny you, so did those before them. Their messengers
   came to them with clear proofs, divine Books, and enlightening Scriptures.
 word_by_word:
   1:
-    arabic: وَاِنۡ
+    arabic: وَإِن
     translation: And if
     transliteration: wa-in
   2:
-    arabic: يُّكَذِّبُوۡكَ
+    arabic: يُكَذِّبُوكَ
     translation: they deny you
     transliteration: yukadhibūka
   3:
@@ -21,15 +21,15 @@ word_by_word:
     translation: denied
     transliteration: kadhaba
   5:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   6:
-    arabic: مِنۡ
+    arabic: مِن
     translation: (were) before them
     transliteration: min
   7:
-    arabic: قَبۡلِهِمۡ​ۚ
+    arabic: قَبۡلِهِمۡ
     translation: (were) before them
     transliteration: qablihim
   8:
@@ -37,23 +37,23 @@ word_by_word:
     translation: Came to them
     transliteration: jāathum
   9:
-    arabic: رُسُلُهُمۡ
+    arabic: رُسُلُهُم
     translation: their Messengers
     transliteration: rusuluhum
   10:
-    arabic: بِالۡبَيِّنٰتِ
+    arabic: بِٱلۡبَيِّنَٰتِ
     translation: with clear signs
     transliteration: bil-bayināti
   11:
-    arabic: وَبِالزُّبُرِ
+    arabic: وَبِٱلزُّبُرِ
     translation: and with Scriptures
     transliteration: wabil-zuburi
   12:
-    arabic: وَبِالۡكِتٰبِ
+    arabic: وَبِٱلۡكِتَٰبِ
     translation: and with the Book
     transliteration: wabil-kitābi
   13:
-    arabic: الۡمُنِيۡرِ‏
+    arabic: ٱلۡمُنِيرِ
     translation: '[the] enlightening'
     transliteration: l-munīri
 ---

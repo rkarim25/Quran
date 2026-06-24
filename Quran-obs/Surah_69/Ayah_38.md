@@ -1,13 +1,13 @@
 ---
-arabic_ayat: فَلَاۤ اُقۡسِمُ بِمَا تُبۡصِرُوۡنَۙ‏
+arabic_ayat: فَلَآ أُقۡسِمُ بِمَا تُبۡصِرُونَ
 sentence_translation: Now, I do swear by whatever you see,
 word_by_word:
   1:
-    arabic: فَلَاۤ
+    arabic: فَلَآ
     translation: But nay
     transliteration: falā
   2:
-    arabic: اُقۡسِمُ
+    arabic: أُقۡسِمُ
     translation: I swear
     transliteration: uq'simu
   3:
@@ -15,7 +15,7 @@ word_by_word:
     translation: by what
     transliteration: bimā
   4:
-    arabic: تُبۡصِرُوۡنَۙ‏
+    arabic: تُبۡصِرُونَ
     translation: you see
     transliteration: tub'ṣirūna
 ---

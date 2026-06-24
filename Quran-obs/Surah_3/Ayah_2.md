@@ -1,34 +1,34 @@
 ---
-arabic_ayat: اللّٰهُ لَاۤ اِلٰهَ اِلَّا هُوَۙ الۡحَىُّ الۡقَيُّوۡمُؕ‏
+arabic_ayat: ٱللَّهُ لَآ إِلَٰهَ إِلَّا هُوَ ٱلۡحَيُّ ٱلۡقَيُّومُ
 sentence_translation: Allah! There is no god ˹worthy of worship˺ except Him—the Ever-Living,
   All-Sustaining.
 word_by_word:
   1:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: 'Allah '
     transliteration: al-lahu
   2:
-    arabic: لَاۤ
+    arabic: لَآ
     translation: (there is) no
     transliteration: lā
   3:
-    arabic: اِلٰهَ
+    arabic: إِلَٰهَ
     translation: God
     transliteration: ilāha
   4:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   5:
-    arabic: هُوَۙ
+    arabic: هُوَ
     translation: Him
     transliteration: huwa
   6:
-    arabic: الۡحَىُّ
+    arabic: ٱلۡحَيُّ
     translation: the Ever-Living
     transliteration: l-ḥayu
   7:
-    arabic: الۡقَيُّوۡمُؕ‏
+    arabic: ٱلۡقَيُّومُ
     translation: the Sustainer of all that exists
     transliteration: l-qayūmu
 ---

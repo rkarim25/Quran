@@ -1,44 +1,44 @@
 ---
-arabic_ayat: لَّهٗ مَقَالِيۡدُ السَّمٰوٰتِ وَالۡاَرۡضِ​ؕ وَ الَّذِيۡنَ كَفَرُوۡا بِاٰيٰتِ
-  اللّٰهِ اُولٰٓٮِٕكَ هُمُ الۡخٰسِرُوۡنَ‏
+arabic_ayat: لَّهُۥ مَقَالِيدُ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِۗ وَٱلَّذِينَ كَفَرُواْ بِـَٔايَٰتِ
+  ٱللَّهِ أُوْلَٰٓئِكَ هُمُ ٱلۡخَٰسِرُونَ
 sentence_translation: To Him belong the keys ˹of the treasuries˺ of the heavens and
   the earth. As for those who rejected the signs of Allah, it is they who will be
   the ˹true˺ losers.
 word_by_word:
   1:
-    arabic: لَّهٗ
+    arabic: لَّهُۥ
     translation: For Him
     transliteration: lahu
   2:
-    arabic: مَقَالِيۡدُ
+    arabic: مَقَالِيدُ
     translation: (are the) keys
     transliteration: maqālīdu
   3:
-    arabic: السَّمٰوٰتِ
+    arabic: ٱلسَّمَٰوَٰتِ
     translation: (of) the heavens
     transliteration: l-samāwāti
   4:
-    arabic: وَالۡاَرۡضِ​ؕ
+    arabic: وَٱلۡأَرۡضِۗ
     translation: and the earth
     transliteration: wal-arḍi
   5:
-    arabic: وَ الَّذِيۡنَ
+    arabic: وَٱلَّذِينَ
     translation: And those who
     transliteration: wa-alladhīna
   6:
-    arabic: كَفَرُوۡا
+    arabic: كَفَرُواْ
     translation: disbelieve
     transliteration: kafarū
   7:
-    arabic: بِاٰيٰتِ
+    arabic: بِـَٔايَٰتِ
     translation: in (the) Verses
     transliteration: biāyāti
   8:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (of) Allah
     transliteration: l-lahi
   9:
-    arabic: اُولٰٓٮِٕكَ
+    arabic: أُوْلَٰٓئِكَ
     translation: 'those '
     transliteration: ulāika
   10:
@@ -46,7 +46,7 @@ word_by_word:
     translation: they
     transliteration: humu
   11:
-    arabic: الۡخٰسِرُوۡنَ‏
+    arabic: ٱلۡخَٰسِرُونَ
     translation: (are) the losers
     transliteration: l-khāsirūna
 ---

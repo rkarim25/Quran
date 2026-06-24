@@ -1,19 +1,19 @@
 ---
-arabic_ayat: وَالّٰٓـىٴِۡ يَٮِٕسۡنَ مِنَ الۡمَحِيۡضِ مِنۡ نِّسَآٮِٕكُمۡ اِنِ ارۡتَبۡتُمۡ
-  فَعِدَّتُهُنَّ ثَلٰثَةُ اَشۡهُرٍ وَّالّٰٓـىٴِۡ لَمۡ يَحِضۡنَ​ ؕ وَاُولَاتُ الۡاَحۡمَالِ
-  اَجَلُهُنَّ اَنۡ يَّضَعۡنَ حَمۡلَهُنَّ ​ؕ وَمَنۡ يَّـتَّـقِ اللّٰهَ يَجۡعَلْ لَّهٗ
-  مِنۡ اَمۡرِهٖ یُسْرًا‏
+arabic_ayat: وَٱلَّٰٓـِٔي يَئِسۡنَ مِنَ ٱلۡمَحِيضِ مِن نِّسَآئِكُمۡ إِنِ ٱرۡتَبۡتُمۡ
+  فَعِدَّتُهُنَّ ثَلَٰثَةُ أَشۡهُرٖ وَٱلَّٰٓـِٔي لَمۡ يَحِضۡنَۚ وَأُوْلَٰتُ ٱلۡأَحۡمَالِ
+  أَجَلُهُنَّ أَن يَضَعۡنَ حَمۡلَهُنَّۚ وَمَن يَتَّقِ ٱللَّهَ يَجۡعَل لَّهُۥ مِنۡ
+  أَمۡرِهِۦ يُسۡرٗا
 sentence_translation: As for your women past the age of menstruation, in case you
   do not know, their waiting period is three months, and those who have not menstruated
   as well. As for those who are pregnant, their waiting period ends with delivery. And
   whoever is mindful of Allah, He will make their matters easy for them.
 word_by_word:
   1:
-    arabic: وَالّٰٓـىٴِۡ
+    arabic: وَٱلَّٰٓـِٔي
     translation: And those who
     transliteration: wa-allāī
   2:
-    arabic: يَٮِٕسۡنَ
+    arabic: يَئِسۡنَ
     translation: have despaired
     transliteration: ya-is'na
   3:
@@ -21,23 +21,23 @@ word_by_word:
     translation: of
     transliteration: mina
   4:
-    arabic: الۡمَحِيۡضِ
+    arabic: ٱلۡمَحِيضِ
     translation: the menstruation
     transliteration: l-maḥīḍi
   5:
-    arabic: مِنۡ
+    arabic: مِن
     translation: among
     transliteration: min
   6:
-    arabic: نِّسَآٮِٕكُمۡ
+    arabic: نِّسَآئِكُمۡ
     translation: your women
     transliteration: nisāikum
   7:
-    arabic: اِنِ
+    arabic: إِنِ
     translation: if
     transliteration: ini
   8:
-    arabic: ارۡتَبۡتُمۡ
+    arabic: ٱرۡتَبۡتُمۡ
     translation: you doubt
     transliteration: ir'tabtum
   9:
@@ -45,15 +45,15 @@ word_by_word:
     translation: then their waiting period
     transliteration: faʿiddatuhunna
   10:
-    arabic: ثَلٰثَةُ
+    arabic: ثَلَٰثَةُ
     translation: (is) three
     transliteration: thalāthatu
   11:
-    arabic: اَشۡهُرٍ
+    arabic: أَشۡهُرٖ
     translation: months
     transliteration: ashhurin
   12:
-    arabic: وَّالّٰٓـىٴِۡ
+    arabic: وَٱلَّٰٓـِٔي
     translation: and the ones who
     transliteration: wa-allāī
   13:
@@ -61,51 +61,51 @@ word_by_word:
     translation: not
     transliteration: lam
   14:
-    arabic: يَحِضۡنَ​ ؕ
+    arabic: يَحِضۡنَۚ
     translation: '[they] menstruated'
     transliteration: yaḥiḍ'na
   15:
-    arabic: وَاُولَاتُ
+    arabic: وَأُوْلَٰتُ
     translation: And those who (are)
     transliteration: wa-ulātu
   16:
-    arabic: الۡاَحۡمَالِ
+    arabic: ٱلۡأَحۡمَالِ
     translation: pregnant
     transliteration: l-aḥmāli
   17:
-    arabic: اَجَلُهُنَّ
+    arabic: أَجَلُهُنَّ
     translation: their term
     transliteration: ajaluhunna
   18:
-    arabic: اَنۡ
+    arabic: أَن
     translation: until
     transliteration: an
   19:
-    arabic: يَّضَعۡنَ
+    arabic: يَضَعۡنَ
     translation: they deliver
     transliteration: yaḍaʿna
   20:
-    arabic: حَمۡلَهُنَّ ​ؕ
+    arabic: حَمۡلَهُنَّۚ
     translation: their burdens
     transliteration: ḥamlahunna
   21:
-    arabic: وَمَنۡ
+    arabic: وَمَن
     translation: And whoever
     transliteration: waman
   22:
-    arabic: يَّـتَّـقِ
+    arabic: يَتَّقِ
     translation: fears
     transliteration: yattaqi
   23:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   24:
-    arabic: يَجۡعَلْ
+    arabic: يَجۡعَل
     translation: He will make
     transliteration: yajʿal
   25:
-    arabic: لَّهٗ
+    arabic: لَّهُۥ
     translation: for him
     transliteration: lahu
   26:
@@ -113,11 +113,11 @@ word_by_word:
     translation: of
     transliteration: min
   27:
-    arabic: اَمۡرِهٖ
+    arabic: أَمۡرِهِۦ
     translation: his affair
     transliteration: amrihi
   28:
-    arabic: یُسْرًا‏
+    arabic: يُسۡرٗا
     translation: ease
     transliteration: yus'ran
 ---

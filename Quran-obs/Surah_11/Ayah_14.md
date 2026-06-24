@@ -1,32 +1,32 @@
 ---
-arabic_ayat: فَاِلَّمۡ يَسۡتَجِيۡبُوۡا لَـكُمۡ فَاعۡلَمُوۡۤا اَنَّمَاۤ اُنۡزِلَ بِعِلۡمِ
-  اللّٰهِ وَاَنۡ لَّاۤ اِلٰهَ اِلَّا هُوَ​ۚ فَهَلۡ اَنۡتُمۡ مُّسۡلِمُوۡنَ‏
+arabic_ayat: فَإِلَّمۡ يَسۡتَجِيبُواْ لَكُمۡ فَٱعۡلَمُوٓاْ أَنَّمَآ أُنزِلَ بِعِلۡمِ
+  ٱللَّهِ وَأَن لَّآ إِلَٰهَ إِلَّا هُوَۖ فَهَلۡ أَنتُم مُّسۡلِمُونَ
 sentence_translation: But if your helpers fail you, then know that it has been revealed
   with the knowledge of Allah, and that there is no god ˹worthy of worship˺ except
   Him! Will you ˹not˺ then submit ˹to Allah˺?
 word_by_word:
   1:
-    arabic: فَاِلَّمۡ
+    arabic: فَإِلَّمۡ
     translation: Then if not
     transliteration: fa-illam
   2:
-    arabic: يَسۡتَجِيۡبُوۡا
+    arabic: يَسۡتَجِيبُواْ
     translation: they respond
     transliteration: yastajībū
   3:
-    arabic: لَـكُمۡ
+    arabic: لَكُمۡ
     translation: to you
     transliteration: lakum
   4:
-    arabic: فَاعۡلَمُوۡۤا
+    arabic: فَٱعۡلَمُوٓاْ
     translation: then know
     transliteration: fa-iʿ'lamū
   5:
-    arabic: اَنَّمَاۤ
+    arabic: أَنَّمَآ
     translation: that
     transliteration: annamā
   6:
-    arabic: اُنۡزِلَ
+    arabic: أُنزِلَ
     translation: it was sent down
     transliteration: unzila
   7:
@@ -34,27 +34,27 @@ word_by_word:
     translation: with the knowledge of Allah
     transliteration: biʿil'mi
   8:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: with the knowledge of Allah
     transliteration: l-lahi
   9:
-    arabic: وَاَنۡ
+    arabic: وَأَن
     translation: and that
     transliteration: wa-an
   10:
-    arabic: لَّاۤ
+    arabic: لَّآ
     translation: (there is) no
     transliteration: lā
   11:
-    arabic: اِلٰهَ
+    arabic: إِلَٰهَ
     translation: god
     transliteration: ilāha
   12:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   13:
-    arabic: هُوَ​ۚ
+    arabic: هُوَۖ
     translation: Him
     transliteration: huwa
   14:
@@ -62,11 +62,11 @@ word_by_word:
     translation: Then, would
     transliteration: fahal
   15:
-    arabic: اَنۡتُمۡ
+    arabic: أَنتُم
     translation: you
     transliteration: antum
   16:
-    arabic: مُّسۡلِمُوۡنَ‏
+    arabic: مُّسۡلِمُونَ
     translation: (be) Muslims
     transliteration: mus'limūna
 ---

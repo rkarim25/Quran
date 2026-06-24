@@ -1,24 +1,24 @@
 ---
-arabic_ayat: ذٰ لِكَ مِمَّاۤ اَوۡحٰۤى اِلَيۡكَ رَبُّكَ مِنَ الۡحِكۡمَةِ​ ؕ وَلَا تَجۡعَلۡ
-  مَعَ اللّٰهِ اِلٰهًا اٰخَرَ فَتُلۡقٰى فِىۡ جَهَنَّمَ مَلُوۡمًا مَّدۡحُوۡرًا‏
+arabic_ayat: ذَٰلِكَ مِمَّآ أَوۡحَىٰٓ إِلَيۡكَ رَبُّكَ مِنَ ٱلۡحِكۡمَةِۗ وَلَا تَجۡعَلۡ
+  مَعَ ٱللَّهِ إِلَٰهًا ءَاخَرَ فَتُلۡقَىٰ فِي جَهَنَّمَ مَلُومٗا مَّدۡحُورًا
 sentence_translation: This is part of the wisdom which your Lord has revealed to you
   ˹O Prophet˺. And do not set up any other god with Allah ˹O humanity˺, or you will
   be cast into Hell, blameworthy, rejected.
 word_by_word:
   1:
-    arabic: ذٰ لِكَ
+    arabic: ذَٰلِكَ
     translation: That
     transliteration: dhālika
   2:
-    arabic: مِمَّاۤ
+    arabic: مِمَّآ
     translation: (is) from what
     transliteration: mimmā
   3:
-    arabic: اَوۡحٰۤى
+    arabic: أَوۡحَىٰٓ
     translation: (was) revealed
     transliteration: awḥā
   4:
-    arabic: اِلَيۡكَ
+    arabic: إِلَيۡكَ
     translation: to you
     transliteration: ilayka
   5:
@@ -30,7 +30,7 @@ word_by_word:
     translation: of
     transliteration: mina
   7:
-    arabic: الۡحِكۡمَةِ​ ؕ
+    arabic: ٱلۡحِكۡمَةِۗ
     translation: the wisdom
     transliteration: l-ḥik'mati
   8:
@@ -46,23 +46,23 @@ word_by_word:
     translation: with
     transliteration: maʿa
   11:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   12:
-    arabic: اِلٰهًا
+    arabic: إِلَٰهًا ءَ
     translation: god
     transliteration: ilāhan
   13:
-    arabic: اٰخَرَ
+    arabic: اخَرَ
     translation: other
     transliteration: ākhara
   14:
-    arabic: فَتُلۡقٰى
+    arabic: فَتُلۡقَىٰ
     translation: lest you should be thrown
     transliteration: fatul'qā
   15:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   16:
@@ -70,11 +70,11 @@ word_by_word:
     translation: Hell
     transliteration: jahannama
   17:
-    arabic: مَلُوۡمًا
+    arabic: مَلُومٗا
     translation: blameworthy
     transliteration: malūman
   18:
-    arabic: مَّدۡحُوۡرًا‏
+    arabic: مَّدۡحُورًا
     translation: abandoned
     transliteration: madḥūran
 ---

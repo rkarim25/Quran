@@ -1,11 +1,10 @@
 ---
-arabic_ayat: "قَالُوۡا سَوَآءٌ عَلَيۡنَاۤ اَوَعَظۡتَ اَمۡ لَمۡ تَكُنۡ مِّنَ الۡوٰعِظِيۡنَۙ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: قَالُواْ سَوَآءٌ عَلَيۡنَآ أَوَعَظۡتَ أَمۡ لَمۡ تَكُن مِّنَ ٱلۡوَٰعِظِينَ
 sentence_translation: They responded, “It is all the same to us whether you warn ˹us˺
   or not.
 word_by_word:
   1:
-    arabic: قَالُوۡا
+    arabic: قَالُواْ
     translation: They said
     transliteration: qālū
   2:
@@ -13,15 +12,15 @@ word_by_word:
     translation: (It is) same
     transliteration: sawāon
   3:
-    arabic: عَلَيۡنَاۤ
+    arabic: عَلَيۡنَآ
     translation: to us
     transliteration: ʿalaynā
   4:
-    arabic: اَوَعَظۡتَ
+    arabic: أَوَعَظۡتَ
     translation: whether you advise
     transliteration: awaʿaẓta
   5:
-    arabic: اَمۡ
+    arabic: أَمۡ
     translation: or
     transliteration: am
   6:
@@ -29,7 +28,7 @@ word_by_word:
     translation: not
     transliteration: lam
   7:
-    arabic: تَكُنۡ
+    arabic: تَكُن
     translation: you are
     transliteration: takun
   8:
@@ -37,7 +36,7 @@ word_by_word:
     translation: of
     transliteration: mina
   9:
-    arabic: "الۡوٰعِظِيۡنَۙ‏ \uFEFF\uFEFF"
+    arabic: ٱلۡوَٰعِظِينَ
     translation: the advisors
     transliteration: l-wāʿiẓīna
 ---

@@ -1,33 +1,33 @@
 ---
-arabic_ayat: قُلۡ يٰعِبَادِىَ الَّذِيۡنَ اَسۡرَفُوۡا عَلٰٓى اَنۡفُسِهِمۡ لَا تَقۡنَطُوۡا
-  مِنۡ رَّحۡمَةِ اللّٰهِ​ ؕ اِنَّ اللّٰهَ يَغۡفِرُ الذُّنُوۡبَ جَمِيۡعًا​ ؕ اِنَّهٗ
-  هُوَ الۡغَفُوۡرُ الرَّحِيۡمُ‏
+arabic_ayat: ۞ قُلۡ يَٰعِبَادِيَ ٱلَّذِينَ أَسۡرَفُواْ عَلَىٰٓ أَنفُسِهِمۡ لَا تَقۡنَطُواْ
+  مِن رَّحۡمَةِ ٱللَّهِۚ إِنَّ ٱللَّهَ يَغۡفِرُ ٱلذُّنُوبَ جَمِيعًاۚ إِنَّهُۥ هُوَ
+  ٱلۡغَفُورُ ٱلرَّحِيمُ
 sentence_translation: Say, ˹O Prophet, that Allah says,˺ “O My servants who have exceeded
   the limits against their souls! Do not lose hope in Allah’s mercy, for Allah certainly
   forgives all sins. He is indeed the All-Forgiving, Most Merciful.
 word_by_word:
   1:
-    arabic: ۞ قُلۡ
+    arabic: ۞ قُلۡ
     translation: Say
     transliteration: qul
   2:
-    arabic: يٰعِبَادِىَ
+    arabic: يَٰعِبَادِيَ
     translation: O My slaves
     transliteration: yāʿibādiya
   3:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: Those who
     transliteration: alladhīna
   4:
-    arabic: اَسۡرَفُوۡا
+    arabic: أَسۡرَفُواْ
     translation: have transgressed
     transliteration: asrafū
   5:
-    arabic: عَلٰٓى
+    arabic: عَلَىٰٓ
     translation: against
     transliteration: ʿalā
   6:
-    arabic: اَنۡفُسِهِمۡ
+    arabic: أَنفُسِهِمۡ
     translation: themselves
     transliteration: anfusihim
   7:
@@ -35,11 +35,11 @@ word_by_word:
     translation: (do) not
     transliteration: lā
   8:
-    arabic: تَقۡنَطُوۡا
+    arabic: تَقۡنَطُواْ
     translation: despair
     transliteration: taqnaṭū
   9:
-    arabic: مِنۡ
+    arabic: مِن
     translation: of
     transliteration: min
   10:
@@ -47,15 +47,15 @@ word_by_word:
     translation: (the) Mercy
     transliteration: raḥmati
   11:
-    arabic: اللّٰهِ​ ؕ
+    arabic: ٱللَّهِۚ
     translation: (of) Allah
     transliteration: l-lahi
   12:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   13:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   14:
@@ -63,15 +63,15 @@ word_by_word:
     translation: forgives
     transliteration: yaghfiru
   15:
-    arabic: الذُّنُوۡبَ
+    arabic: ٱلذُّنُوبَ
     translation: the sins
     transliteration: l-dhunūba
   16:
-    arabic: جَمِيۡعًا​ ؕ
+    arabic: جَمِيعًاۚ
     translation: all
     transliteration: jamīʿan
   17:
-    arabic: اِنَّهٗ
+    arabic: إِنَّهُۥ
     translation: Indeed He
     transliteration: innahu
   18:
@@ -79,11 +79,11 @@ word_by_word:
     translation: He
     transliteration: huwa
   19:
-    arabic: الۡغَفُوۡرُ
+    arabic: ٱلۡغَفُورُ
     translation: (is) the Oft-Forgiving
     transliteration: l-ghafūru
   20:
-    arabic: الرَّحِيۡمُ‏
+    arabic: ٱلرَّحِيمُ
     translation: the Most Merciful
     transliteration: l-raḥīmu
 ---

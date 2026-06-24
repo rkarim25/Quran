@@ -1,21 +1,21 @@
 ---
-arabic_ayat: فَاِنَّهُمۡ عَدُوٌّ لِّىۡۤ اِلَّا رَبَّ الۡعٰلَمِيۡنَۙ‏
+arabic_ayat: فَإِنَّهُمۡ عَدُوّٞ لِّيٓ إِلَّا رَبَّ ٱلۡعَٰلَمِينَ
 sentence_translation: They are ˹all˺ enemies to me, except the Lord of all worlds.
 word_by_word:
   1:
-    arabic: فَاِنَّهُمۡ
+    arabic: فَإِنَّهُمۡ
     translation: Indeed, they
     transliteration: fa-innahum
   2:
-    arabic: عَدُوٌّ
+    arabic: عَدُوّٞ
     translation: (are) enemies
     transliteration: ʿaduwwun
   3:
-    arabic: لِّىۡۤ
+    arabic: لِّيٓ
     translation: to me
     transliteration: lī
   4:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   5:
@@ -23,7 +23,7 @@ word_by_word:
     translation: (the) Lord
     transliteration: rabba
   6:
-    arabic: الۡعٰلَمِيۡنَۙ‏
+    arabic: ٱلۡعَٰلَمِينَ
     translation: (of) the worlds
     transliteration: l-ʿālamīna
 ---

@@ -1,13 +1,13 @@
 ---
-arabic_ayat: وَاَمَّا السَّآٮِٕلَ فَلَا تَنۡهَرۡؕ‏
+arabic_ayat: وَأَمَّا ٱلسَّآئِلَ فَلَا تَنۡهَرۡ
 sentence_translation: nor repulse the beggar.
 word_by_word:
   1:
-    arabic: وَاَمَّا
+    arabic: وَأَمَّا
     translation: And as for
     transliteration: wa-ammā
   2:
-    arabic: السَّآٮِٕلَ
+    arabic: ٱلسَّآئِلَ
     translation: one who asks
     transliteration: l-sāila
   3:
@@ -15,7 +15,7 @@ word_by_word:
     translation: then (do) not
     transliteration: falā
   4:
-    arabic: تَنۡهَرۡؕ‏
+    arabic: تَنۡهَرۡ
     translation: repel
     transliteration: tanhar
 ---

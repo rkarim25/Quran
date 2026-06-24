@@ -1,26 +1,26 @@
 ---
-arabic_ayat: اَمۡ خَلَـقُوا السَّمٰوٰتِ وَالۡاَرۡضَ​ۚ بَلْ لَّا يُوۡقِنُوۡنَؕ‏
+arabic_ayat: أَمۡ خَلَقُواْ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضَۚ بَل لَّا يُوقِنُونَ
 sentence_translation: Or did they create the heavens and the earth? In fact, they
   have no firm belief ˹in Allah˺.
 word_by_word:
   1:
-    arabic: اَمۡ
+    arabic: أَمۡ
     translation: Or
     transliteration: am
   2:
-    arabic: خَلَـقُوا
+    arabic: خَلَقُواْ
     translation: (did) they create
     transliteration: khalaqū
   3:
-    arabic: السَّمٰوٰتِ
+    arabic: ٱلسَّمَٰوَٰتِ
     translation: the heavens
     transliteration: l-samāwāti
   4:
-    arabic: وَالۡاَرۡضَ​ۚ
+    arabic: وَٱلۡأَرۡضَۚ
     translation: and the earth
     transliteration: wal-arḍa
   5:
-    arabic: بَلْ
+    arabic: بَل
     translation: Nay
     transliteration: bal
   6:
@@ -28,7 +28,7 @@ word_by_word:
     translation: not
     transliteration: lā
   7:
-    arabic: يُوۡقِنُوۡنَؕ‏
+    arabic: يُوقِنُونَ
     translation: they are certain
     transliteration: yūqinūna
 ---

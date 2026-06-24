@@ -1,22 +1,22 @@
 ---
-arabic_ayat: فَاٰمَنُوۡا فَمَتَّعۡنٰهُمۡ اِلٰى حِيۡنٍؕ‏
+arabic_ayat: فَـَٔامَنُواْ فَمَتَّعۡنَٰهُمۡ إِلَىٰ حِينٖ
 sentence_translation: who then believed ˹in him˺, so We allowed them enjoyment for
   a while.
 word_by_word:
   1:
-    arabic: فَاٰمَنُوۡا
+    arabic: فَـَٔامَنُواْ
     translation: And they believed
     transliteration: faāmanū
   2:
-    arabic: فَمَتَّعۡنٰهُمۡ
+    arabic: فَمَتَّعۡنَٰهُمۡ
     translation: so We gave them enjoyment
     transliteration: famattaʿnāhum
   3:
-    arabic: اِلٰى
+    arabic: إِلَىٰ
     translation: for
     transliteration: ilā
   4:
-    arabic: حِيۡنٍؕ‏
+    arabic: حِينٖ
     translation: a while
     transliteration: ḥīnin
 ---

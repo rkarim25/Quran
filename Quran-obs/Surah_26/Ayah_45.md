@@ -1,15 +1,14 @@
 ---
-arabic_ayat: فَاَ لۡقٰى مُوۡسٰى عَصَاهُ فَاِذَا هِىَ تَلۡقَفُ مَا يَاۡفِكُوۡنَ​ ۖ
-  ​ۚ‏
+arabic_ayat: فَأَلۡقَىٰ مُوسَىٰ عَصَاهُ فَإِذَا هِيَ تَلۡقَفُ مَا يَأۡفِكُونَ
 sentence_translation: Then Moses threw down his staff, and—behold!—it devoured the
   objects of their illusion!
 word_by_word:
   1:
-    arabic: فَاَ لۡقٰى
+    arabic: فَأَلۡقَىٰ
     translation: Then threw
     transliteration: fa-alqā
   2:
-    arabic: مُوۡسٰى
+    arabic: مُوسَىٰ
     translation: Musa
     transliteration: mūsā
   3:
@@ -17,11 +16,11 @@ word_by_word:
     translation: his staff
     transliteration: ʿaṣāhu
   4:
-    arabic: فَاِذَا
+    arabic: فَإِذَا
     translation: and behold
     transliteration: fa-idhā
   5:
-    arabic: هِىَ
+    arabic: هِيَ
     translation: It
     transliteration: hiya
   6:
@@ -33,7 +32,7 @@ word_by_word:
     translation: what
     transliteration: mā
   8:
-    arabic: يَاۡفِكُوۡنَ​ ۖ ​ۚ‏
+    arabic: يَأۡفِكُونَ
     translation: they falsified
     transliteration: yafikūna
 ---

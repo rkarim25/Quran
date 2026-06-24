@@ -1,25 +1,25 @@
 ---
-arabic_ayat: وَاِنۡ يَّمۡسَسۡكَ اللّٰهُ بِضُرٍّ فَلَا كَاشِفَ لَهٗۤ اِلَّا هُوَ ​ۚ
-  وَاِنۡ يُّرِدۡكَ بِخَيۡرٍ فَلَا رَآدَّ لِفَضۡلِهٖ​ ؕ يُصِيۡبُ بِهٖ مَنۡ يَّشَآءُ
-  مِنۡ عِبَادِهٖ​ ؕ وَهُوَ الۡغَفُوۡرُ الرَّحِيۡمُ‏
+arabic_ayat: وَإِن يَمۡسَسۡكَ ٱللَّهُ بِضُرّٖ فَلَا كَاشِفَ لَهُۥٓ إِلَّا هُوَۖ وَإِن
+  يُرِدۡكَ بِخَيۡرٖ فَلَا رَآدَّ لِفَضۡلِهِۦۚ يُصِيبُ بِهِۦ مَن يَشَآءُ مِنۡ عِبَادِهِۦۚ
+  وَهُوَ ٱلۡغَفُورُ ٱلرَّحِيمُ
 sentence_translation: and ‘If Allah touches you with harm, none can undo it except
   Him. And if He intends good for you, none can withhold His bounty. He grants it
   to whoever He wills of His servants. And He is the All-Forgiving, Most Merciful.’”
 word_by_word:
   1:
-    arabic: وَاِنۡ
+    arabic: وَإِن
     translation: And if
     transliteration: wa-in
   2:
-    arabic: يَّمۡسَسۡكَ
+    arabic: يَمۡسَسۡكَ
     translation: Allah touches you
     transliteration: yamsaska
   3:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah touches you
     transliteration: l-lahu
   4:
-    arabic: بِضُرٍّ
+    arabic: بِضُرّٖ
     translation: with adversity
     transliteration: biḍurrin
   5:
@@ -31,27 +31,27 @@ word_by_word:
     translation: remover
     transliteration: kāshifa
   7:
-    arabic: لَهٗۤ
+    arabic: لَهُۥٓ
     translation: of it
     transliteration: lahu
   8:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   9:
-    arabic: هُوَ ​ۚ
+    arabic: هُوَۖ
     translation: Him
     transliteration: huwa
   10:
-    arabic: وَاِنۡ
+    arabic: وَإِن
     translation: and if
     transliteration: wa-in
   11:
-    arabic: يُّرِدۡكَ
+    arabic: يُرِدۡكَ
     translation: He intends for you
     transliteration: yurid'ka
   12:
-    arabic: بِخَيۡرٍ
+    arabic: بِخَيۡرٖ
     translation: any good
     transliteration: bikhayrin
   13:
@@ -63,23 +63,23 @@ word_by_word:
     translation: repeller
     transliteration: rādda
   15:
-    arabic: لِفَضۡلِهٖ​ ؕ
+    arabic: لِفَضۡلِهِۦۚ
     translation: (of) His Bounty
     transliteration: lifaḍlihi
   16:
-    arabic: يُصِيۡبُ
+    arabic: يُصِيبُ
     translation: He causes it to reach
     transliteration: yuṣību
   17:
-    arabic: بِهٖ
+    arabic: بِهِۦ
     translation: He causes it to reach
     transliteration: bihi
   18:
-    arabic: مَنۡ
+    arabic: مَن
     translation: whom
     transliteration: man
   19:
-    arabic: يَّشَآءُ
+    arabic: يَشَآءُ
     translation: He wills
     transliteration: yashāu
   20:
@@ -87,7 +87,7 @@ word_by_word:
     translation: of
     transliteration: min
   21:
-    arabic: عِبَادِهٖ​ ؕ
+    arabic: عِبَادِهِۦۚ
     translation: His slaves
     transliteration: ʿibādihi
   22:
@@ -95,11 +95,11 @@ word_by_word:
     translation: And He
     transliteration: wahuwa
   23:
-    arabic: الۡغَفُوۡرُ
+    arabic: ٱلۡغَفُورُ
     translation: (is) the Oft-Forgiving
     transliteration: l-ghafūru
   24:
-    arabic: الرَّحِيۡمُ‏
+    arabic: ٱلرَّحِيمُ
     translation: the Most Merciful
     transliteration: l-raḥīmu
 ---

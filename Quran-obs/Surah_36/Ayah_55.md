@@ -1,34 +1,34 @@
 ---
-arabic_ayat: اِنَّ اَصۡحٰبَ الۡجَـنَّةِ الۡيَوۡمَ فِىۡ شُغُلٍ فٰكِهُوۡنَ​ۚ‏
+arabic_ayat: إِنَّ أَصۡحَٰبَ ٱلۡجَنَّةِ ٱلۡيَوۡمَ فِي شُغُلٖ فَٰكِهُونَ
 sentence_translation: Indeed, on that Day the residents of Paradise will be busy enjoying
   themselves.
 word_by_word:
   1:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   2:
-    arabic: اَصۡحٰبَ
+    arabic: أَصۡحَٰبَ
     translation: (the) companions
     transliteration: aṣḥāba
   3:
-    arabic: الۡجَـنَّةِ
+    arabic: ٱلۡجَنَّةِ
     translation: (of) Paradise
     transliteration: l-janati
   4:
-    arabic: الۡيَوۡمَ
+    arabic: ٱلۡيَوۡمَ
     translation: this Day
     transliteration: l-yawma
   5:
-    arabic: فِىۡ
+    arabic: فِي
     translation: '[in]'
     transliteration: fī
   6:
-    arabic: شُغُلٍ
+    arabic: شُغُلٖ
     translation: will be occupied
     transliteration: shughulin
   7:
-    arabic: فٰكِهُوۡنَ​ۚ‏
+    arabic: فَٰكِهُونَ
     translation: (in) amusement
     transliteration: fākihūna
 ---

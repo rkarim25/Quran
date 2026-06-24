@@ -1,15 +1,15 @@
 ---
-arabic_ayat: اِنَّا لَنَـنۡصُرُ رُسُلَنَا وَالَّذِيۡنَ اٰمَنُوۡا فِى الۡحَيٰوةِ الدُّنۡيَا
-  وَيَوۡمَ يَقُوۡمُ الۡاَشۡهَادُ ۙ‏
+arabic_ayat: إِنَّا لَنَنصُرُ رُسُلَنَا وَٱلَّذِينَ ءَامَنُواْ فِي ٱلۡحَيَوٰةِ ٱلدُّنۡيَا
+  وَيَوۡمَ يَقُومُ ٱلۡأَشۡهَٰدُ
 sentence_translation: We certainly help Our messengers and the believers, ˹both˺ in
   this worldly life and on the Day the witnesses will stand forth ˹for testimony˺—
 word_by_word:
   1:
-    arabic: اِنَّا
+    arabic: إِنَّا
     translation: Indeed We
     transliteration: innā
   2:
-    arabic: لَنَـنۡصُرُ
+    arabic: لَنَنصُرُ
     translation: We will surely help
     transliteration: lananṣuru
   3:
@@ -17,23 +17,23 @@ word_by_word:
     translation: Our Messengers
     transliteration: rusulanā
   4:
-    arabic: وَالَّذِيۡنَ
+    arabic: وَٱلَّذِينَ ءَ
     translation: and those who
     transliteration: wa-alladhīna
   5:
-    arabic: اٰمَنُوۡا
+    arabic: امَنُواْ
     translation: believe
     transliteration: āmanū
   6:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   7:
-    arabic: الۡحَيٰوةِ
+    arabic: ٱلۡحَيَوٰةِ
     translation: the life
     transliteration: l-ḥayati
   8:
-    arabic: الدُّنۡيَا
+    arabic: ٱلدُّنۡيَا
     translation: (of) the world
     transliteration: l-dun'yā
   9:
@@ -41,11 +41,11 @@ word_by_word:
     translation: and (on the) Day
     transliteration: wayawma
   10:
-    arabic: يَقُوۡمُ
+    arabic: يَقُومُ
     translation: (when) will stand
     transliteration: yaqūmu
   11:
-    arabic: الۡاَشۡهَادُ ۙ‏
+    arabic: ٱلۡأَشۡهَٰدُ
     translation: the witnesses
     transliteration: l-ashhādu
 ---

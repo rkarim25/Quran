@@ -1,15 +1,15 @@
 ---
-arabic_ayat: وَمَنۡ يَّبۡتَغِ غَيۡرَ الۡاِسۡلَامِ دِيۡنًا فَلَنۡ يُّقۡبَلَ مِنۡهُ​ ۚ
-  وَهُوَ فِى الۡاٰخِرَةِ مِنَ الۡخٰسِرِيۡنَ‏
+arabic_ayat: وَمَن يَبۡتَغِ غَيۡرَ ٱلۡإِسۡلَٰمِ دِينٗا فَلَن يُقۡبَلَ مِنۡهُ وَهُوَ
+  فِي ٱلۡأٓخِرَةِ مِنَ ٱلۡخَٰسِرِينَ
 sentence_translation: Whoever seeks a way other than Islam, it will never be accepted
   from them, and in the Hereafter they will be among the losers.
 word_by_word:
   1:
-    arabic: وَمَنۡ
+    arabic: وَمَن
     translation: And whoever
     transliteration: waman
   2:
-    arabic: يَّبۡتَغِ
+    arabic: يَبۡتَغِ
     translation: seeks
     transliteration: yabtaghi
   3:
@@ -17,23 +17,23 @@ word_by_word:
     translation: other than
     transliteration: ghayra
   4:
-    arabic: الۡاِسۡلَامِ
+    arabic: ٱلۡإِسۡلَٰمِ
     translation: '[the] Islam'
     transliteration: l-is'lāmi
   5:
-    arabic: دِيۡنًا
+    arabic: دِينٗا
     translation: (as) religion
     transliteration: dīnan
   6:
-    arabic: فَلَنۡ
+    arabic: فَلَن
     translation: then never
     transliteration: falan
   7:
-    arabic: يُّقۡبَلَ
+    arabic: يُقۡبَلَ
     translation: will be accepted
     transliteration: yuq'bala
   8:
-    arabic: مِنۡهُ​ ۚ
+    arabic: مِنۡهُ
     translation: from him
     transliteration: min'hu
   9:
@@ -41,11 +41,11 @@ word_by_word:
     translation: and he
     transliteration: wahuwa
   10:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   11:
-    arabic: الۡاٰخِرَةِ
+    arabic: ٱلۡأٓخِرَةِ
     translation: the Hereafter
     transliteration: l-ākhirati
   12:
@@ -53,7 +53,7 @@ word_by_word:
     translation: (will be) from
     transliteration: mina
   13:
-    arabic: الۡخٰسِرِيۡنَ‏
+    arabic: ٱلۡخَٰسِرِينَ
     translation: the losers
     transliteration: l-khāsirīna
 ---

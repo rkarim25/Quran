@@ -1,9 +1,9 @@
 ---
-arabic_ayat: وَاِنَّهٗ لَحَسۡرَةٌ عَلَى الۡكٰفِرِيۡنَ‏
+arabic_ayat: وَإِنَّهُۥ لَحَسۡرَةٌ عَلَى ٱلۡكَٰفِرِينَ
 sentence_translation: and it will surely be a source of regret for the disbelievers.
 word_by_word:
   1:
-    arabic: وَاِنَّهٗ
+    arabic: وَإِنَّهُۥ
     translation: And indeed, it
     transliteration: wa-innahu
   2:
@@ -15,7 +15,7 @@ word_by_word:
     translation: upon
     transliteration: ʿalā
   4:
-    arabic: الۡكٰفِرِيۡنَ‏
+    arabic: ٱلۡكَٰفِرِينَ
     translation: the disbelievers
     transliteration: l-kāfirīna
 ---

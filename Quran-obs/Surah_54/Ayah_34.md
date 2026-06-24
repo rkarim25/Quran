@@ -1,15 +1,15 @@
 ---
-arabic_ayat: اِنَّاۤ اَرۡسَلۡنَا عَلَيۡهِمۡ حَاصِبًا اِلَّاۤ اٰلَ لُوۡطٍ​ؕ نَّجَّيۡنٰهُمۡ
-  بِسَحَرٍۙ‏
+arabic_ayat: إِنَّآ أَرۡسَلۡنَا عَلَيۡهِمۡ حَاصِبًا إِلَّآ ءَالَ لُوطٖۖ نَّجَّيۡنَٰهُم
+  بِسَحَرٖ
 sentence_translation: We unleashed upon them a storm of stones. As for ˹the believers
   of˺ Lot’s family, We delivered them before dawn
 word_by_word:
   1:
-    arabic: اِنَّاۤ
+    arabic: إِنَّآ
     translation: Indeed, We
     transliteration: innā
   2:
-    arabic: اَرۡسَلۡنَا
+    arabic: أَرۡسَلۡنَا
     translation: '[We] sent'
     transliteration: arsalnā
   3:
@@ -21,23 +21,23 @@ word_by_word:
     translation: a storm of stones
     transliteration: ḥāṣiban
   5:
-    arabic: اِلَّاۤ
+    arabic: إِلَّآ ءَ
     translation: except
     transliteration: illā
   6:
-    arabic: اٰلَ
+    arabic: الَ
     translation: (the) family
     transliteration: āla
   7:
-    arabic: لُوۡطٍ​ؕ
+    arabic: لُوطٖۖ
     translation: (of) Lut
     transliteration: lūṭin
   8:
-    arabic: نَّجَّيۡنٰهُمۡ
+    arabic: نَّجَّيۡنَٰهُم
     translation: We saved them
     transliteration: najjaynāhum
   9:
-    arabic: بِسَحَرٍۙ‏
+    arabic: بِسَحَرٖ
     translation: by dawn
     transliteration: bisaḥarin
 ---

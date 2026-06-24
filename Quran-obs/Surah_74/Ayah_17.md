@@ -1,13 +1,13 @@
 ---
-arabic_ayat: سَاُرۡهِقُهٗ صَعُوۡدًا ؕ‏
+arabic_ayat: سَأُرۡهِقُهُۥ صَعُودًا
 sentence_translation: I will make his fate unbearable,
 word_by_word:
   1:
-    arabic: سَاُرۡهِقُهٗ
+    arabic: سَأُرۡهِقُهُۥ
     translation: Soon I will cover Him
     transliteration: sa-ur'hiquhu
   2:
-    arabic: صَعُوۡدًا ؕ‏
+    arabic: صَعُودًا
     translation: (with) a laborious punishment
     transliteration: ṣaʿūdan
 ---

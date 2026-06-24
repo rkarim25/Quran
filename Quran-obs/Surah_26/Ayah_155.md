@@ -1,6 +1,5 @@
 ---
-arabic_ayat: "قَالَ هٰذِهٖ نَاقَةٌ لَّهَا شِرۡبٌ وَّلَـكُمۡ شِرۡبُ يَوۡمٍ مَّعۡلُوۡمٍ​ۚ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: قَالَ هَٰذِهِۦ نَاقَةٞ لَّهَا شِرۡبٞ وَلَكُمۡ شِرۡبُ يَوۡمٖ مَّعۡلُومٖ
 sentence_translation: Ṣâliḥ said, “Here is a camel. She will have her turn to drink
   as you have yours, each on an appointed day.
 word_by_word:
@@ -9,11 +8,11 @@ word_by_word:
     translation: He said
     transliteration: qāla
   2:
-    arabic: هٰذِهٖ
+    arabic: هَٰذِهِۦ
     translation: This
     transliteration: hādhihi
   3:
-    arabic: نَاقَةٌ
+    arabic: نَاقَةٞ
     translation: (is) a she-camel
     transliteration: nāqatun
   4:
@@ -21,11 +20,11 @@ word_by_word:
     translation: For her
     transliteration: lahā
   5:
-    arabic: شِرۡبٌ
+    arabic: شِرۡبٞ
     translation: (is a share of) drink
     transliteration: shir'bun
   6:
-    arabic: وَّلَـكُمۡ
+    arabic: وَلَكُمۡ
     translation: and for you
     transliteration: walakum
   7:
@@ -33,11 +32,11 @@ word_by_word:
     translation: (is a share of) drink
     transliteration: shir'bu
   8:
-    arabic: يَوۡمٍ
+    arabic: يَوۡمٖ
     translation: (on) a day
     transliteration: yawmin
   9:
-    arabic: "مَّعۡلُوۡمٍ​ۚ‏ \uFEFF\uFEFF"
+    arabic: مَّعۡلُومٖ
     translation: known
     transliteration: maʿlūmin
 ---

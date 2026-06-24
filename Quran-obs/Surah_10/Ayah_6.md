@@ -1,28 +1,28 @@
 ---
-arabic_ayat: اِنَّ فِى اخۡتِلَافِ الَّيۡلِ وَالنَّهَارِ وَمَا خَلَقَ اللّٰهُ فِى السَّمٰوٰتِ
-  وَالۡاَرۡضِ لَاٰيٰتٍ لِّـقَوۡمٍ يَّتَّقُوۡنَ‏
+arabic_ayat: إِنَّ فِي ٱخۡتِلَٰفِ ٱلَّيۡلِ وَٱلنَّهَارِ وَمَا خَلَقَ ٱللَّهُ فِي ٱلسَّمَٰوَٰتِ
+  وَٱلۡأَرۡضِ لَأٓيَٰتٖ لِّقَوۡمٖ يَتَّقُونَ
 sentence_translation: Surely in the alternation of the day and the night, and in all
   that Allah has created in the heavens and the earth, there are truly signs for those
   mindful ˹of Him˺.
 word_by_word:
   1:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   2:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   3:
-    arabic: اخۡتِلَافِ
+    arabic: ٱخۡتِلَٰفِ
     translation: (the) alternation
     transliteration: ikh'tilāfi
   4:
-    arabic: الَّيۡلِ
+    arabic: ٱلَّيۡلِ
     translation: (of) the night
     transliteration: al-layli
   5:
-    arabic: وَالنَّهَارِ
+    arabic: وَٱلنَّهَارِ
     translation: and the day
     transliteration: wal-nahāri
   6:
@@ -34,31 +34,31 @@ word_by_word:
     translation: (has been) created
     transliteration: khalaqa
   8:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: (by) Allah
     transliteration: l-lahu
   9:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   10:
-    arabic: السَّمٰوٰتِ
+    arabic: ٱلسَّمَٰوَٰتِ
     translation: the heavens
     transliteration: l-samāwāti
   11:
-    arabic: وَالۡاَرۡضِ
+    arabic: وَٱلۡأَرۡضِ
     translation: and the earth
     transliteration: wal-arḍi
   12:
-    arabic: لَاٰيٰتٍ
+    arabic: لَأٓيَٰتٖ
     translation: (are) Signs
     transliteration: laāyātin
   13:
-    arabic: لِّـقَوۡمٍ
+    arabic: لِّقَوۡمٖ
     translation: for a people
     transliteration: liqawmin
   14:
-    arabic: يَّتَّقُوۡنَ‏
+    arabic: يَتَّقُونَ
     translation: who are God conscious
     transliteration: yattaqūna
 ---

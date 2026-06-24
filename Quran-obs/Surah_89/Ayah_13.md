@@ -1,5 +1,5 @@
 ---
-arabic_ayat: فَصَبَّ عَلَيۡهِمۡ رَبُّكَ سَوۡطَ عَذَابٍ ۙۚ‏
+arabic_ayat: فَصَبَّ عَلَيۡهِمۡ رَبُّكَ سَوۡطَ عَذَابٍ
 sentence_translation: So your Lord unleashed on them a scourge of punishment.
 word_by_word:
   1:
@@ -19,7 +19,7 @@ word_by_word:
     translation: scourge
     transliteration: sawṭa
   5:
-    arabic: عَذَابٍ ۙۚ‏
+    arabic: عَذَابٍ
     translation: (of) punishment
     transliteration: ʿadhābin
 ---

@@ -1,7 +1,6 @@
 ---
-arabic_ayat: "لَا يَسۡتَـاۡذِنُكَ الَّذِيۡنَ يُؤۡمِنُوۡنَ بِاللّٰهِ وَالۡيَوۡمِ الۡاٰخِرِ\
-  \ اَنۡ يُّجَاهِدُوۡا بِاَمۡوَالِهِمۡ وَاَنۡفُسِهِمۡ​ؕ وَاللّٰهُ عَلِيۡمٌۢ بِالۡمُتَّقِيۡنَ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: لَا يَسۡتَـٔۡذِنُكَ ٱلَّذِينَ يُؤۡمِنُونَ بِٱللَّهِ وَٱلۡيَوۡمِ ٱلۡأٓخِرِ
+  أَن يُجَٰهِدُواْ بِأَمۡوَٰلِهِمۡ وَأَنفُسِهِمۡۗ وَٱللَّهُ عَلِيمُۢ بِٱلۡمُتَّقِينَ
 sentence_translation: Those who believe in Allah and the Last Day do not ask for exemption
   from striving with their wealth and their lives. And Allah has perfect knowledge
   of those who are mindful ˹of Him˺.
@@ -11,55 +10,55 @@ word_by_word:
     translation: (Would) not ask your permission
     transliteration: lā
   2:
-    arabic: يَسۡتَـاۡذِنُكَ
+    arabic: يَسۡتَـٔۡذِنُكَ
     translation: (Would) not ask your permission
     transliteration: yastadhinuka
   3:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   4:
-    arabic: يُؤۡمِنُوۡنَ
+    arabic: يُؤۡمِنُونَ
     translation: believe
     transliteration: yu'minūna
   5:
-    arabic: بِاللّٰهِ
+    arabic: بِٱللَّهِ
     translation: in Allah
     transliteration: bil-lahi
   6:
-    arabic: وَالۡيَوۡمِ
+    arabic: وَٱلۡيَوۡمِ
     translation: and the Day
     transliteration: wal-yawmi
   7:
-    arabic: الۡاٰخِرِ
+    arabic: ٱلۡأٓخِرِ
     translation: the Last
     transliteration: l-ākhiri
   8:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that
     transliteration: an
   9:
-    arabic: يُّجَاهِدُوۡا
+    arabic: يُجَٰهِدُواْ
     translation: they strive
     transliteration: yujāhidū
   10:
-    arabic: بِاَمۡوَالِهِمۡ
+    arabic: بِأَمۡوَٰلِهِمۡ
     translation: with their wealth
     transliteration: bi-amwālihim
   11:
-    arabic: وَاَنۡفُسِهِمۡ​ؕ
+    arabic: وَأَنفُسِهِمۡۗ
     translation: and their lives
     transliteration: wa-anfusihim
   12:
-    arabic: وَاللّٰهُ
+    arabic: وَٱللَّهُ
     translation: And Allah
     transliteration: wal-lahu
   13:
-    arabic: عَلِيۡمٌۢ
+    arabic: عَلِيمُۢ
     translation: (is) All-Knower
     transliteration: ʿalīmun
   14:
-    arabic: "بِالۡمُتَّقِيۡنَ‏ \uFEFF\uFEFF"
+    arabic: بِٱلۡمُتَّقِينَ
     translation: of the righteous
     transliteration: bil-mutaqīna
 ---

@@ -1,22 +1,22 @@
 ---
-arabic_ayat: فَلَمَّاۤ اَسۡلَمَا وَتَلَّهٗ لِلۡجَبِيۡنِ​ۚ‏
+arabic_ayat: فَلَمَّآ أَسۡلَمَا وَتَلَّهُۥ لِلۡجَبِينِ
 sentence_translation: Then when they submitted ˹to Allah’s Will˺, and Abraham laid
   him on the side of his forehead ˹for sacrifice˺,
 word_by_word:
   1:
-    arabic: فَلَمَّاۤ
+    arabic: فَلَمَّآ
     translation: Then when
     transliteration: falammā
   2:
-    arabic: اَسۡلَمَا
+    arabic: أَسۡلَمَا
     translation: both of them had submitted
     transliteration: aslamā
   3:
-    arabic: وَتَلَّهٗ
+    arabic: وَتَلَّهُۥ
     translation: and he put him down
     transliteration: watallahu
   4:
-    arabic: لِلۡجَبِيۡنِ​ۚ‏
+    arabic: لِلۡجَبِينِ
     translation: upon his forehead
     transliteration: lil'jabīni
 ---

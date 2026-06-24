@@ -1,10 +1,10 @@
 ---
-arabic_ayat: اِنَّا نَحۡنُ نَزَّلۡنَا الذِّكۡرَ وَاِنَّا لَهٗ لَحٰـفِظُوۡنَ‏
+arabic_ayat: إِنَّا نَحۡنُ نَزَّلۡنَا ٱلذِّكۡرَ وَإِنَّا لَهُۥ لَحَٰفِظُونَ
 sentence_translation: It is certainly We Who have revealed the Reminder, and it is
   certainly We Who will preserve it.
 word_by_word:
   1:
-    arabic: اِنَّا
+    arabic: إِنَّا
     translation: Indeed, We
     transliteration: innā
   2:
@@ -16,19 +16,19 @@ word_by_word:
     translation: have sent down
     transliteration: nazzalnā
   4:
-    arabic: الذِّكۡرَ
+    arabic: ٱلذِّكۡرَ
     translation: the Reminder
     transliteration: l-dhik'ra
   5:
-    arabic: وَاِنَّا
+    arabic: وَإِنَّا
     translation: and indeed, We
     transliteration: wa-innā
   6:
-    arabic: لَهٗ
+    arabic: لَهُۥ
     translation: of it
     transliteration: lahu
   7:
-    arabic: لَحٰـفِظُوۡنَ‏
+    arabic: لَحَٰفِظُونَ
     translation: (are) surely Guardians
     transliteration: laḥāfiẓūna
 ---

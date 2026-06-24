@@ -1,17 +1,17 @@
 ---
-arabic_ayat: فَاَلۡهَمَهَا فُجُوۡرَهَا وَتَقۡوٰٮهَا ۙ‏
+arabic_ayat: فَأَلۡهَمَهَا فُجُورَهَا وَتَقۡوَىٰهَا
 sentence_translation: then with ˹the knowledge of˺ right and wrong inspired it!
 word_by_word:
   1:
-    arabic: فَاَلۡهَمَهَا
+    arabic: فَأَلۡهَمَهَا
     translation: And He inspired it
     transliteration: fa-alhamahā
   2:
-    arabic: فُجُوۡرَهَا
+    arabic: فُجُورَهَا
     translation: (to distinguish) its wickedness
     transliteration: fujūrahā
   3:
-    arabic: وَتَقۡوٰٮهَا ۙ‏
+    arabic: وَتَقۡوَىٰهَا
     translation: and its righteousness
     transliteration: wataqwāhā
 ---

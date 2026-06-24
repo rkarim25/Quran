@@ -1,16 +1,16 @@
 ---
-arabic_ayat: قَالُوا ادۡعُ لَنَا رَبَّكَ يُبَيِّنۡ لَّنَا مَا هِىَۙ اِنَّ الۡبَقَرَ
-  تَشٰبَهَ عَلَيۡنَا ؕ وَاِنَّـآ اِنۡ شَآءَ اللّٰهُ لَمُهۡتَدُوۡنَ‏
+arabic_ayat: قَالُواْ ٱدۡعُ لَنَا رَبَّكَ يُبَيِّن لَّنَا مَا هِيَ إِنَّ ٱلۡبَقَرَ
+  تَشَٰبَهَ عَلَيۡنَا وَإِنَّآ إِن شَآءَ ٱللَّهُ لَمُهۡتَدُونَ
 sentence_translation: Again they said, “Call upon your Lord so that He may make clear
   to us which cow, for all cows look the same to us. Then, Allah willing, we will
   be guided ˹to the right one˺.”
 word_by_word:
   1:
-    arabic: قَالُوا
+    arabic: قَالُواْ
     translation: They said
     transliteration: qālū
   2:
-    arabic: ادۡعُ
+    arabic: ٱدۡعُ
     translation: Pray
     transliteration: ud'ʿu
   3:
@@ -22,7 +22,7 @@ word_by_word:
     translation: (to) your Lord
     transliteration: rabbaka
   5:
-    arabic: يُبَيِّنۡ
+    arabic: يُبَيِّن
     translation: to make clear
     transliteration: yubayyin
   6:
@@ -34,31 +34,31 @@ word_by_word:
     translation: what
     transliteration: mā
   8:
-    arabic: هِىَۙ
+    arabic: هِيَ
     translation: it (is)
     transliteration: hiya
   9:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   10:
-    arabic: الۡبَقَرَ
+    arabic: ٱلۡبَقَرَ
     translation: '[the] cows'
     transliteration: l-baqara
   11:
-    arabic: تَشٰبَهَ
+    arabic: تَشَٰبَهَ
     translation: look alike
     transliteration: tashābaha
   12:
-    arabic: عَلَيۡنَا ؕ
+    arabic: عَلَيۡنَا
     translation: to us
     transliteration: ʿalaynā
   13:
-    arabic: وَاِنَّـآ
+    arabic: وَإِنَّآ
     translation: And indeed we
     transliteration: wa-innā
   14:
-    arabic: اِنۡ
+    arabic: إِن
     translation: if
     transliteration: in
   15:
@@ -66,11 +66,11 @@ word_by_word:
     translation: wills
     transliteration: shāa
   16:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   17:
-    arabic: لَمُهۡتَدُوۡنَ‏
+    arabic: لَمُهۡتَدُونَ
     translation: (will) surely be those who are guided
     transliteration: lamuh'tadūna
 ---

@@ -1,17 +1,17 @@
 ---
-arabic_ayat: اِذَا السَّمَآءُ انْشَقَّتۡۙ‏
+arabic_ayat: إِذَا ٱلسَّمَآءُ ٱنشَقَّتۡ
 sentence_translation: When the sky bursts open,
 word_by_word:
   1:
-    arabic: اِذَا
+    arabic: إِذَا
     translation: When
     transliteration: idhā
   2:
-    arabic: السَّمَآءُ
+    arabic: ٱلسَّمَآءُ
     translation: the sky
     transliteration: l-samāu
   3:
-    arabic: انْشَقَّتۡۙ‏
+    arabic: ٱنشَقَّتۡ
     translation: is split asunder
     transliteration: inshaqqat
 ---

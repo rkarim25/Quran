@@ -1,9 +1,9 @@
 ---
-arabic_ayat: اِنَّهٗ هُوَ السَّمِيۡعُ الۡعَلِيۡمُ‏
+arabic_ayat: إِنَّهُۥ هُوَ ٱلسَّمِيعُ ٱلۡعَلِيمُ
 sentence_translation: He ˹alone˺ is indeed the All-Hearing, All-Knowing.
 word_by_word:
   1:
-    arabic: اِنَّهٗ
+    arabic: إِنَّهُۥ
     translation: Indeed, He
     transliteration: innahu
   2:
@@ -11,11 +11,11 @@ word_by_word:
     translation: '[He]'
     transliteration: huwa
   3:
-    arabic: السَّمِيۡعُ
+    arabic: ٱلسَّمِيعُ
     translation: (is) the All-Hearer
     transliteration: l-samīʿu
   4:
-    arabic: الۡعَلِيۡمُ‏
+    arabic: ٱلۡعَلِيمُ
     translation: the All-Knower
     transliteration: l-ʿalīmu
 ---

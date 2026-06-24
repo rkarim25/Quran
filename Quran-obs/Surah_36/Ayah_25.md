@@ -1,13 +1,13 @@
 ---
-arabic_ayat: اِنِّىۡۤ اٰمَنۡتُ بِرَبِّكُمۡ فَاسۡمَعُوۡنِؕ‏
+arabic_ayat: إِنِّيٓ ءَامَنتُ بِرَبِّكُمۡ فَٱسۡمَعُونِ
 sentence_translation: I do believe in your Lord, so listen to me.”
 word_by_word:
   1:
-    arabic: اِنِّىۡۤ
+    arabic: إِنِّيٓ ءَ
     translation: Indeed, I
     transliteration: innī
   2:
-    arabic: اٰمَنۡتُ
+    arabic: امَنتُ
     translation: '[I] have believed'
     transliteration: āmantu
   3:
@@ -15,7 +15,7 @@ word_by_word:
     translation: in your Lord
     transliteration: birabbikum
   4:
-    arabic: فَاسۡمَعُوۡنِؕ‏
+    arabic: فَٱسۡمَعُونِ
     translation: so listen to me
     transliteration: fa-is'maʿūni
 ---

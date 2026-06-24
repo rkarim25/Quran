@@ -1,17 +1,17 @@
 ---
-arabic_ayat: وَاَنَا اخۡتَرۡتُكَ فَاسۡتَمِعۡ لِمَا يُوۡحٰى‏
+arabic_ayat: وَأَنَا ٱخۡتَرۡتُكَ فَٱسۡتَمِعۡ لِمَا يُوحَىٰٓ
 sentence_translation: 'I have chosen you, so listen to what is revealed:'
 word_by_word:
   1:
-    arabic: وَاَنَا
+    arabic: وَأَنَا
     translation: And I
     transliteration: wa-anā
   2:
-    arabic: اخۡتَرۡتُكَ
+    arabic: ٱخۡتَرۡتُكَ
     translation: (have) chosen you
     transliteration: ikh'tartuka
   3:
-    arabic: فَاسۡتَمِعۡ
+    arabic: فَٱسۡتَمِعۡ
     translation: so listen
     transliteration: fa-is'tamiʿ
   4:
@@ -19,7 +19,7 @@ word_by_word:
     translation: to what
     transliteration: limā
   5:
-    arabic: يُوۡحٰى‏
+    arabic: يُوحَىٰٓ
     translation: is revealed
     transliteration: yūḥā
 ---

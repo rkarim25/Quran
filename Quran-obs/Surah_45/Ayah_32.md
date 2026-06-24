@@ -1,22 +1,21 @@
 ---
-arabic_ayat: وَاِذَا قِيۡلَ اِنَّ وَعۡدَ اللّٰهِ حَقٌّ وَّالسَّاعَةُ لَا رَيۡبَ فِيۡهَا
-  قُلۡتُمۡ مَّا نَدۡرِىۡ مَا السَّاعَةُ ۙ اِنۡ نَّـظُنُّ اِلَّا ظَنًّا وَّمَا نَحۡنُ
-  بِمُسۡتَيۡقِنِيۡنَ‏
+arabic_ayat: وَإِذَا قِيلَ إِنَّ وَعۡدَ ٱللَّهِ حَقّٞ وَٱلسَّاعَةُ لَا رَيۡبَ فِيهَا
+  قُلۡتُم مَّا نَدۡرِي مَا ٱلسَّاعَةُ إِن نَّظُنُّ إِلَّا ظَنّٗا وَمَا نَحۡنُ بِمُسۡتَيۡقِنِينَ
 sentence_translation: And whenever it was said ˹to you˺, ‘Surely Allah’s promise ˹of
   judgment˺ is true and there is no doubt about the Hour,’ you said ˹mockingly˺, ‘We
   do not know what the Hour is! We think it is no more than speculation, and we are
   not convinced ˹that it will ever come˺.’”
 word_by_word:
   1:
-    arabic: وَاِذَا
+    arabic: وَإِذَا
     translation: And when
     transliteration: wa-idhā
   2:
-    arabic: قِيۡلَ
+    arabic: قِيلَ
     translation: it was said
     transliteration: qīla
   3:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   4:
@@ -24,15 +23,15 @@ word_by_word:
     translation: (the) Promise
     transliteration: waʿda
   5:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (of) Allah
     transliteration: l-lahi
   6:
-    arabic: حَقٌّ
+    arabic: حَقّٞ
     translation: (is) true
     transliteration: ḥaqqun
   7:
-    arabic: وَّالسَّاعَةُ
+    arabic: وَٱلسَّاعَةُ
     translation: 'and the Hour '
     transliteration: wal-sāʿatu
   8:
@@ -44,11 +43,11 @@ word_by_word:
     translation: doubt
     transliteration: rayba
   10:
-    arabic: فِيۡهَا
+    arabic: فِيهَا
     translation: about it
     transliteration: fīhā
   11:
-    arabic: قُلۡتُمۡ
+    arabic: قُلۡتُم
     translation: you said
     transliteration: qul'tum
   12:
@@ -56,7 +55,7 @@ word_by_word:
     translation: Not
     transliteration: mā
   13:
-    arabic: نَدۡرِىۡ
+    arabic: نَدۡرِي
     translation: we know
     transliteration: nadrī
   14:
@@ -64,27 +63,27 @@ word_by_word:
     translation: what
     transliteration: mā
   15:
-    arabic: السَّاعَةُ ۙ
+    arabic: ٱلسَّاعَةُ
     translation: the Hour (is)
     transliteration: l-sāʿatu
   16:
-    arabic: اِنۡ
+    arabic: إِن
     translation: Not
     transliteration: in
   17:
-    arabic: نَّـظُنُّ
+    arabic: نَّظُنُّ
     translation: we think
     transliteration: naẓunnu
   18:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   19:
-    arabic: ظَنًّا
+    arabic: ظَنّٗا
     translation: an assumption
     transliteration: ẓannan
   20:
-    arabic: وَّمَا
+    arabic: وَمَا
     translation: and not
     transliteration: wamā
   21:
@@ -92,7 +91,7 @@ word_by_word:
     translation: we
     transliteration: naḥnu
   22:
-    arabic: بِمُسۡتَيۡقِنِيۡنَ‏
+    arabic: بِمُسۡتَيۡقِنِينَ
     translation: (are) convinced
     transliteration: bimus'tayqinīna
 ---

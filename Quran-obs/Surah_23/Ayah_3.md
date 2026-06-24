@@ -1,9 +1,9 @@
 ---
-arabic_ayat: وَالَّذِيۡنَ هُمۡ عَنِ اللَّغۡوِ مُعۡرِضُوۡنَۙ‏
+arabic_ayat: وَٱلَّذِينَ هُمۡ عَنِ ٱللَّغۡوِ مُعۡرِضُونَ
 sentence_translation: those who avoid idle talk;
 word_by_word:
   1:
-    arabic: وَالَّذِيۡنَ
+    arabic: وَٱلَّذِينَ
     translation: Those who
     transliteration: wa-alladhīna
   2:
@@ -15,11 +15,11 @@ word_by_word:
     translation: from
     transliteration: ʿani
   4:
-    arabic: اللَّغۡوِ
+    arabic: ٱللَّغۡوِ
     translation: the vain talk
     transliteration: l-laghwi
   5:
-    arabic: مُعۡرِضُوۡنَۙ‏
+    arabic: مُعۡرِضُونَ
     translation: turn away
     transliteration: muʿ'riḍūna
 ---

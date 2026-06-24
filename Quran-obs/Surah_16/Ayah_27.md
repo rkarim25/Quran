@@ -1,7 +1,7 @@
 ---
-arabic_ayat: ثُمَّ يَوۡمَ الۡقِيٰمَةِ يُخۡزِيۡهِمۡ وَيَقُوۡلُ اَيۡنَ شُرَكَآءِىَ
-  الَّذِيۡنَ كُنۡتُمۡ تُشَآقُّوۡنَ فِيۡهِمۡ​ؕ قَالَ الَّذِيۡنَ اُوۡتُوا الۡعِلۡمَ
-  اِنَّ الۡخِزۡىَ الۡيَوۡمَ وَالسُّوۡۤءَ عَلَى الۡكٰفِرِيۡنَۙ‏
+arabic_ayat: ثُمَّ يَوۡمَ ٱلۡقِيَٰمَةِ يُخۡزِيهِمۡ وَيَقُولُ أَيۡنَ شُرَكَآءِيَ ٱلَّذِينَ
+  كُنتُمۡ تُشَٰٓقُّونَ فِيهِمۡۚ قَالَ ٱلَّذِينَ أُوتُواْ ٱلۡعِلۡمَ إِنَّ ٱلۡخِزۡيَ
+  ٱلۡيَوۡمَ وَٱلسُّوٓءَ عَلَى ٱلۡكَٰفِرِينَ
 sentence_translation: Then on the Day of Judgment He will humiliate them and say,
   “Where are My ˹so-called˺ associate-gods for whose sake you used to oppose ˹the
   believers˺?” Those gifted with knowledge will say, “Surely disgrace and misery today
@@ -16,39 +16,39 @@ word_by_word:
     translation: (on) the Day
     transliteration: yawma
   3:
-    arabic: الۡقِيٰمَةِ
+    arabic: ٱلۡقِيَٰمَةِ
     translation: (of) the Resurrection
     transliteration: l-qiyāmati
   4:
-    arabic: يُخۡزِيۡهِمۡ
+    arabic: يُخۡزِيهِمۡ
     translation: He will disgrace them
     transliteration: yukh'zīhim
   5:
-    arabic: وَيَقُوۡلُ
+    arabic: وَيَقُولُ
     translation: and say
     transliteration: wayaqūlu
   6:
-    arabic: اَيۡنَ
+    arabic: أَيۡنَ
     translation: Where
     transliteration: ayna
   7:
-    arabic: شُرَكَآءِىَ
+    arabic: شُرَكَآءِيَ
     translation: (are) My partners
     transliteration: shurakāiya
   8:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those (for) whom
     transliteration: alladhīna
   9:
-    arabic: كُنۡتُمۡ
+    arabic: كُنتُمۡ
     translation: you used (to)
     transliteration: kuntum
   10:
-    arabic: تُشَآقُّوۡنَ
+    arabic: تُشَٰٓقُّونَ
     translation: oppose
     transliteration: tushāqqūna
   11:
-    arabic: فِيۡهِمۡ​ؕ
+    arabic: فِيهِمۡۚ
     translation: '[in them]'
     transliteration: fīhim
   12:
@@ -56,31 +56,31 @@ word_by_word:
     translation: Will say
     transliteration: qāla
   13:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   14:
-    arabic: اُوۡتُوا
+    arabic: أُوتُواْ
     translation: were given
     transliteration: ūtū
   15:
-    arabic: الۡعِلۡمَ
+    arabic: ٱلۡعِلۡمَ
     translation: the knowledge
     transliteration: l-ʿil'ma
   16:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   17:
-    arabic: الۡخِزۡىَ
+    arabic: ٱلۡخِزۡيَ
     translation: the disgrace
     transliteration: l-khiz'ya
   18:
-    arabic: الۡيَوۡمَ
+    arabic: ٱلۡيَوۡمَ
     translation: this Day
     transliteration: l-yawma
   19:
-    arabic: وَالسُّوۡۤءَ
+    arabic: وَٱلسُّوٓءَ
     translation: and evil
     transliteration: wal-sūa
   20:
@@ -88,7 +88,7 @@ word_by_word:
     translation: (are) upon
     transliteration: ʿalā
   21:
-    arabic: الۡكٰفِرِيۡنَۙ‏
+    arabic: ٱلۡكَٰفِرِينَ
     translation: the disbelievers
     transliteration: l-kāfirīna
 ---

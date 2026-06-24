@@ -1,13 +1,13 @@
 ---
-arabic_ayat: وَعَلٰمٰتٍ​ؕ وَبِالنَّجۡمِ هُمۡ يَهۡتَدُوۡنَ‏
+arabic_ayat: وَعَلَٰمَٰتٖۚ وَبِٱلنَّجۡمِ هُمۡ يَهۡتَدُونَ
 sentence_translation: Also by landmarks and stars do people find their way.
 word_by_word:
   1:
-    arabic: وَعَلٰمٰتٍ​ؕ
+    arabic: وَعَلَٰمَٰتٖۚ
     translation: And landmarks
     transliteration: waʿalāmātin
   2:
-    arabic: وَبِالنَّجۡمِ
+    arabic: وَبِٱلنَّجۡمِ
     translation: And by the stars
     transliteration: wabil-najmi
   3:
@@ -15,7 +15,7 @@ word_by_word:
     translation: they
     transliteration: hum
   4:
-    arabic: يَهۡتَدُوۡنَ‏
+    arabic: يَهۡتَدُونَ
     translation: guide themselves
     transliteration: yahtadūna
 ---

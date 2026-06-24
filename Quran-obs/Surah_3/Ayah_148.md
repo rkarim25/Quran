@@ -1,15 +1,15 @@
 ---
-arabic_ayat: فَاٰتٰٮهُمُ اللّٰهُ ثَوَابَ الدُّنۡيَا وَحُسۡنَ ثَوَابِ الۡاٰخِرَةِ​ ؕ
-  وَاللّٰهُ يُحِبُّ الۡمُحۡسِنِيۡنَ‏
+arabic_ayat: فَـَٔاتَىٰهُمُ ٱللَّهُ ثَوَابَ ٱلدُّنۡيَا وَحُسۡنَ ثَوَابِ ٱلۡأٓخِرَةِۗ
+  وَٱللَّهُ يُحِبُّ ٱلۡمُحۡسِنِينَ
 sentence_translation: So Allah gave them the reward of this world and the excellent
   reward of the Hereafter. For Allah loves the good-doers.
 word_by_word:
   1:
-    arabic: فَاٰتٰٮهُمُ
+    arabic: فَـَٔاتَىٰهُمُ
     translation: So gave them
     transliteration: faātāhumu
   2:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   3:
@@ -17,7 +17,7 @@ word_by_word:
     translation: reward
     transliteration: thawāba
   4:
-    arabic: الدُّنۡيَا
+    arabic: ٱلدُّنۡيَا
     translation: (in) the world
     transliteration: l-dun'yā
   5:
@@ -29,11 +29,11 @@ word_by_word:
     translation: reward
     transliteration: thawābi
   7:
-    arabic: الۡاٰخِرَةِ​ ؕ
+    arabic: ٱلۡأٓخِرَةِۗ
     translation: (in) the Hereafter
     transliteration: l-ākhirati
   8:
-    arabic: وَاللّٰهُ
+    arabic: وَٱللَّهُ
     translation: And Allah
     transliteration: wal-lahu
   9:
@@ -41,7 +41,7 @@ word_by_word:
     translation: loves
     transliteration: yuḥibbu
   10:
-    arabic: الۡمُحۡسِنِيۡنَ‏
+    arabic: ٱلۡمُحۡسِنِينَ
     translation: the good-doers
     transliteration: l-muḥ'sinīna
 ---

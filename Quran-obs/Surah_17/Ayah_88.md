@@ -1,41 +1,40 @@
 ---
-arabic_ayat: "قُلْ لَّٮِٕنِ اجۡتَمَعَتِ الۡاِنۡسُ وَالۡجِنُّ عَلٰٓى اَنۡ يَّاۡتُوۡا\
-  \ بِمِثۡلِ هٰذَا الۡقُرۡاٰنِ لَا يَاۡتُوۡنَ بِمِثۡلِهٖ وَلَوۡ كَانَ بَعۡضُهُمۡ لِبَعۡضٍ\
-  \ ظَهِيۡرًا‏ \uFEFF\uFEFF"
+arabic_ayat: قُل لَّئِنِ ٱجۡتَمَعَتِ ٱلۡإِنسُ وَٱلۡجِنُّ عَلَىٰٓ أَن يَأۡتُواْ بِمِثۡلِ
+  هَٰذَا ٱلۡقُرۡءَانِ لَا يَأۡتُونَ بِمِثۡلِهِۦ وَلَوۡ كَانَ بَعۡضُهُمۡ لِبَعۡضٖ ظَهِيرٗا
 sentence_translation: Say, ˹O Prophet,˺ “If ˹all˺ humans and jinn were to come together
   to produce the equivalent of this Quran, they could not produce its equal, no matter
   how they supported each other.”
 word_by_word:
   1:
-    arabic: قُلْ
+    arabic: قُل
     translation: Say
     transliteration: qul
   2:
-    arabic: لَّٮِٕنِ
+    arabic: لَّئِنِ
     translation: If
     transliteration: la-ini
   3:
-    arabic: اجۡتَمَعَتِ
+    arabic: ٱجۡتَمَعَتِ
     translation: gathered
     transliteration: ij'tamaʿati
   4:
-    arabic: الۡاِنۡسُ
+    arabic: ٱلۡإِنسُ
     translation: the mankind
     transliteration: l-insu
   5:
-    arabic: وَالۡجِنُّ
+    arabic: وَٱلۡجِنُّ
     translation: and the jinn
     transliteration: wal-jinu
   6:
-    arabic: عَلٰٓى
+    arabic: عَلَىٰٓ
     translation: to
     transliteration: ʿalā
   7:
-    arabic: اَنۡ
+    arabic: أَن
     translation: '[that]'
     transliteration: an
   8:
-    arabic: يَّاۡتُوۡا
+    arabic: يَأۡتُواْ
     translation: bring
     transliteration: yatū
   9:
@@ -43,11 +42,11 @@ word_by_word:
     translation: the like
     transliteration: bimith'li
   10:
-    arabic: هٰذَا
+    arabic: هَٰذَا
     translation: (of) this
     transliteration: hādhā
   11:
-    arabic: الۡقُرۡاٰنِ
+    arabic: ٱلۡقُرۡءَانِ
     translation: Quran
     transliteration: l-qur'āni
   12:
@@ -55,11 +54,11 @@ word_by_word:
     translation: not
     transliteration: lā
   13:
-    arabic: يَاۡتُوۡنَ
+    arabic: يَأۡتُونَ
     translation: they (could) bring
     transliteration: yatūna
   14:
-    arabic: بِمِثۡلِهٖ
+    arabic: بِمِثۡلِهِۦ
     translation: the like of it
     transliteration: bimith'lihi
   15:
@@ -75,11 +74,11 @@ word_by_word:
     translation: some of them
     transliteration: baʿḍuhum
   18:
-    arabic: لِبَعۡضٍ
+    arabic: لِبَعۡضٖ
     translation: to some others
     transliteration: libaʿḍin
   19:
-    arabic: "ظَهِيۡرًا‏ \uFEFF\uFEFF"
+    arabic: ظَهِيرٗا
     translation: assistants
     transliteration: ẓahīran
 ---

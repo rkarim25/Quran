@@ -1,17 +1,17 @@
 ---
-arabic_ayat: تَـكَادُ السَّمٰوٰتُ يَتَفَطَّرۡنَ مِنۡ فَوۡقِهِنَّ​ وَالۡمَلٰٓٮِٕكَةُ
-  يُسَبِّحُوۡنَ بِحَمۡدِ رَبِّهِمۡ وَيَسۡتَغۡفِرُوۡنَ لِمَنۡ فِى الۡاَرۡضِ​ؕ اَلَاۤ
-  اِنَّ اللّٰهَ هُوَ الۡغَفُوۡرُ الرَّحِيۡمُ‏
+arabic_ayat: تَكَادُ ٱلسَّمَٰوَٰتُ يَتَفَطَّرۡنَ مِن فَوۡقِهِنَّۚ وَٱلۡمَلَٰٓئِكَةُ
+  يُسَبِّحُونَ بِحَمۡدِ رَبِّهِمۡ وَيَسۡتَغۡفِرُونَ لِمَن فِي ٱلۡأَرۡضِۗ أَلَآ إِنَّ
+  ٱللَّهَ هُوَ ٱلۡغَفُورُ ٱلرَّحِيمُ
 sentence_translation: The heavens nearly burst, one above the other, ˹in awe of Him˺.
   And the angels glorify the praises of their Lord, and seek forgiveness for those
   on earth. Surely Allah alone is the All-Forgiving, Most Merciful.
 word_by_word:
   1:
-    arabic: تَـكَادُ
+    arabic: تَكَادُ
     translation: Almost
     transliteration: takādu
   2:
-    arabic: السَّمٰوٰتُ
+    arabic: ٱلسَّمَٰوَٰتُ
     translation: the heavens
     transliteration: l-samāwātu
   3:
@@ -19,19 +19,19 @@ word_by_word:
     translation: break up
     transliteration: yatafaṭṭarna
   4:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   5:
-    arabic: فَوۡقِهِنَّ​
+    arabic: فَوۡقِهِنَّۚ
     translation: above them
     transliteration: fawqihinna
   6:
-    arabic: وَالۡمَلٰٓٮِٕكَةُ
+    arabic: وَٱلۡمَلَٰٓئِكَةُ
     translation: and the Angels
     transliteration: wal-malāikatu
   7:
-    arabic: يُسَبِّحُوۡنَ
+    arabic: يُسَبِّحُونَ
     translation: glorify
     transliteration: yusabbiḥūna
   8:
@@ -43,31 +43,31 @@ word_by_word:
     translation: (of) their Lord
     transliteration: rabbihim
   10:
-    arabic: وَيَسۡتَغۡفِرُوۡنَ
+    arabic: وَيَسۡتَغۡفِرُونَ
     translation: and ask for forgiveness
     transliteration: wayastaghfirūna
   11:
-    arabic: لِمَنۡ
+    arabic: لِمَن
     translation: for those
     transliteration: liman
   12:
-    arabic: فِى
+    arabic: فِي
     translation: 'on'
     transliteration: fī
   13:
-    arabic: الۡاَرۡضِ​ؕ
+    arabic: ٱلۡأَرۡضِۗ
     translation: the earth
     transliteration: l-arḍi
   14:
-    arabic: اَلَاۤ
+    arabic: أَلَآ
     translation: Unquestionably
     transliteration: alā
   15:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: indeed
     transliteration: inna
   16:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   17:
@@ -75,11 +75,11 @@ word_by_word:
     translation: He
     transliteration: huwa
   18:
-    arabic: الۡغَفُوۡرُ
+    arabic: ٱلۡغَفُورُ
     translation: (is) the Oft-Forgiving
     transliteration: l-ghafūru
   19:
-    arabic: الرَّحِيۡمُ‏
+    arabic: ٱلرَّحِيمُ
     translation: the Most Merciful
     transliteration: l-raḥīmu
 ---

@@ -1,9 +1,9 @@
 ---
-arabic_ayat: وَتَضۡحَكُوۡنَ وَلَا تَبۡكُوۡنَۙ‏
+arabic_ayat: وَتَضۡحَكُونَ وَلَا تَبۡكُونَ
 sentence_translation: laughing ˹at it˺ and not weeping ˹in awe˺,
 word_by_word:
   1:
-    arabic: وَتَضۡحَكُوۡنَ
+    arabic: وَتَضۡحَكُونَ
     translation: And you laugh
     transliteration: wataḍḥakūna
   2:
@@ -11,7 +11,7 @@ word_by_word:
     translation: and (do) not
     transliteration: walā
   3:
-    arabic: تَبۡكُوۡنَۙ‏
+    arabic: تَبۡكُونَ
     translation: weep
     transliteration: tabkūna
 ---

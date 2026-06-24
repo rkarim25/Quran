@@ -1,7 +1,6 @@
 ---
-arabic_ayat: "وَيَصۡنَعُ الۡفُلۡكَ وَكُلَّمَا مَرَّ عَلَيۡهِ مَلَاٌ مِّنۡ قَوۡمِهٖ\
-  \ سَخِرُوۡا مِنۡهُ​ؕ قَالَ اِنۡ تَسۡخَرُوۡا مِنَّا فَاِنَّا نَسۡخَرُ مِنۡكُمۡ كَمَا\
-  \ تَسۡخَرُوۡنَؕ‏ \uFEFF\uFEFF"
+arabic_ayat: وَيَصۡنَعُ ٱلۡفُلۡكَ وَكُلَّمَا مَرَّ عَلَيۡهِ مَلَأٞ مِّن قَوۡمِهِۦ
+  سَخِرُواْ مِنۡهُۚ قَالَ إِن تَسۡخَرُواْ مِنَّا فَإِنَّا نَسۡخَرُ مِنكُمۡ كَمَا تَسۡخَرُونَ
 sentence_translation: So he began to build the Ark, and whenever some of the chiefs
   of his people passed by, they mocked him. He said, “If you laugh at us, we will
   ˹soon˺ laugh at you similarly.
@@ -11,7 +10,7 @@ word_by_word:
     translation: And he was constructing
     transliteration: wayaṣnaʿu
   2:
-    arabic: الۡفُلۡكَ
+    arabic: ٱلۡفُلۡكَ
     translation: the ship
     transliteration: l-ful'ka
   3:
@@ -27,23 +26,23 @@ word_by_word:
     translation: by him
     transliteration: ʿalayhi
   6:
-    arabic: مَلَاٌ
+    arabic: مَلَأٞ
     translation: (the) chiefs
     transliteration: mala-on
   7:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: of
     transliteration: min
   8:
-    arabic: قَوۡمِهٖ
+    arabic: قَوۡمِهِۦ
     translation: his people
     transliteration: qawmihi
   9:
-    arabic: سَخِرُوۡا
+    arabic: سَخِرُواْ
     translation: they ridiculed
     transliteration: sakhirū
   10:
-    arabic: مِنۡهُ​ؕ
+    arabic: مِنۡهُۚ
     translation: '[of] him'
     transliteration: min'hu
   11:
@@ -51,11 +50,11 @@ word_by_word:
     translation: He said
     transliteration: qāla
   12:
-    arabic: اِنۡ
+    arabic: إِن
     translation: If
     transliteration: in
   13:
-    arabic: تَسۡخَرُوۡا
+    arabic: تَسۡخَرُواْ
     translation: you ridicule
     transliteration: taskharū
   14:
@@ -63,7 +62,7 @@ word_by_word:
     translation: us
     transliteration: minnā
   15:
-    arabic: فَاِنَّا
+    arabic: فَإِنَّا
     translation: then we
     transliteration: fa-innā
   16:
@@ -71,7 +70,7 @@ word_by_word:
     translation: can ridicule
     transliteration: naskharu
   17:
-    arabic: مِنۡكُمۡ
+    arabic: مِنكُمۡ
     translation: you
     transliteration: minkum
   18:
@@ -79,7 +78,7 @@ word_by_word:
     translation: as
     transliteration: kamā
   19:
-    arabic: "تَسۡخَرُوۡنَؕ‏ \uFEFF\uFEFF"
+    arabic: تَسۡخَرُونَ
     translation: you ridicule
     transliteration: taskharūna
 ---

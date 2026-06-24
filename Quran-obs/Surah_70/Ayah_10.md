@@ -1,5 +1,5 @@
 ---
-arabic_ayat: وَلَا يَسۡـَٔـلُ حَمِيۡمٌ حَمِيۡمًا ۖۚ‏
+arabic_ayat: وَلَا يَسۡـَٔلُ حَمِيمٌ حَمِيمٗا
 sentence_translation: And no close friend will ask ˹about˺ their friends,
 word_by_word:
   1:
@@ -7,15 +7,15 @@ word_by_word:
     translation: And not
     transliteration: walā
   2:
-    arabic: يَسۡـَٔـلُ
+    arabic: يَسۡـَٔلُ
     translation: will ask
     transliteration: yasalu
   3:
-    arabic: حَمِيۡمٌ
+    arabic: حَمِيمٌ
     translation: a friend
     transliteration: ḥamīmun
   4:
-    arabic: حَمِيۡمًا ۖۚ‏
+    arabic: حَمِيمٗا
     translation: (about) a friend
     transliteration: ḥamīman
 ---

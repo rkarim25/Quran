@@ -1,6 +1,6 @@
 ---
-arabic_ayat: وَلَيَحۡمِلُنَّ اَ ثۡقَالَهُمۡ وَاَ ثۡقَالًا مَّعَ اَثۡقَالِهِمۡ​ وَلَـيُسۡــَٔـلُنَّ
-  يَوۡمَ الۡقِيٰمَةِ عَمَّا كَانُوۡا يَفۡتَرُوۡنَ‏
+arabic_ayat: وَلَيَحۡمِلُنَّ أَثۡقَالَهُمۡ وَأَثۡقَالٗا مَّعَ أَثۡقَالِهِمۡۖ وَلَيُسۡـَٔلُنَّ
+  يَوۡمَ ٱلۡقِيَٰمَةِ عَمَّا كَانُواْ يَفۡتَرُونَ
 sentence_translation: Yet they will certainly ˹be made to˺ carry their own burdens,
   as well as other burdens along with their own. And they will surely be questioned
   on Judgment Day about what they used to fabricate.
@@ -10,11 +10,11 @@ word_by_word:
     translation: But surely they will carry
     transliteration: walayaḥmilunna
   2:
-    arabic: اَ ثۡقَالَهُمۡ
+    arabic: أَثۡقَالَهُمۡ
     translation: their burdens
     transliteration: athqālahum
   3:
-    arabic: وَاَ ثۡقَالًا
+    arabic: وَأَثۡقَالٗا
     translation: and burdens
     transliteration: wa-athqālan
   4:
@@ -22,11 +22,11 @@ word_by_word:
     translation: with
     transliteration: maʿa
   5:
-    arabic: اَثۡقَالِهِمۡ​
+    arabic: أَثۡقَالِهِمۡۖ
     translation: their burdens
     transliteration: athqālihim
   6:
-    arabic: وَلَـيُسۡــَٔـلُنَّ
+    arabic: وَلَيُسۡـَٔلُنَّ
     translation: and surely they will be questioned
     transliteration: walayus'alunna
   7:
@@ -34,7 +34,7 @@ word_by_word:
     translation: (on the) Day
     transliteration: yawma
   8:
-    arabic: الۡقِيٰمَةِ
+    arabic: ٱلۡقِيَٰمَةِ
     translation: (of) the Resurrection
     transliteration: l-qiyāmati
   9:
@@ -42,11 +42,11 @@ word_by_word:
     translation: about what
     transliteration: ʿammā
   10:
-    arabic: كَانُوۡا
+    arabic: كَانُواْ
     translation: they used
     transliteration: kānū
   11:
-    arabic: يَفۡتَرُوۡنَ‏
+    arabic: يَفۡتَرُونَ
     translation: (to) invent
     transliteration: yaftarūna
 ---

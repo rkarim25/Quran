@@ -1,23 +1,23 @@
 ---
-arabic_ayat: اِلٰهُكُمۡ اِلٰهٌ وَّاحِدٌ​​ ۚ فَالَّذِيۡنَ لَا يُؤۡمِنُوۡنَ بِالۡاٰخِرَةِ
-  قُلُوۡبُهُمۡ مُّنۡكِرَةٌ وَّهُمۡ مُّسۡتَكۡبِرُوۡنَ‏
+arabic_ayat: إِلَٰهُكُمۡ إِلَٰهٞ وَٰحِدٞۚ فَٱلَّذِينَ لَا يُؤۡمِنُونَ بِٱلۡأٓخِرَةِ
+  قُلُوبُهُم مُّنكِرَةٞ وَهُم مُّسۡتَكۡبِرُونَ
 sentence_translation: Your God is ˹only˺ One God. As for those who do not believe
   in the Hereafter, their hearts are in denial, and they are too proud.
 word_by_word:
   1:
-    arabic: اِلٰهُكُمۡ
+    arabic: إِلَٰهُكُمۡ
     translation: Your god
     transliteration: ilāhukum
   2:
-    arabic: اِلٰهٌ
+    arabic: إِلَٰهٞ
     translation: (is) God
     transliteration: ilāhun
   3:
-    arabic: وَّاحِدٌ​​ ۚ
+    arabic: وَٰحِدٞۚ
     translation: One
     transliteration: wāḥidun
   4:
-    arabic: فَالَّذِيۡنَ
+    arabic: فَٱلَّذِينَ
     translation: But those who
     transliteration: fa-alladhīna
   5:
@@ -25,27 +25,27 @@ word_by_word:
     translation: (do) not
     transliteration: lā
   6:
-    arabic: يُؤۡمِنُوۡنَ
+    arabic: يُؤۡمِنُونَ
     translation: believe
     transliteration: yu'minūna
   7:
-    arabic: بِالۡاٰخِرَةِ
+    arabic: بِٱلۡأٓخِرَةِ
     translation: in the Hereafter
     transliteration: bil-ākhirati
   8:
-    arabic: قُلُوۡبُهُمۡ
+    arabic: قُلُوبُهُم
     translation: their hearts
     transliteration: qulūbuhum
   9:
-    arabic: مُّنۡكِرَةٌ
+    arabic: مُّنكِرَةٞ
     translation: refuse
     transliteration: munkiratun
   10:
-    arabic: وَّهُمۡ
+    arabic: وَهُم
     translation: and they
     transliteration: wahum
   11:
-    arabic: مُّسۡتَكۡبِرُوۡنَ‏
+    arabic: مُّسۡتَكۡبِرُونَ
     translation: (are) arrogant
     transliteration: mus'takbirūna
 ---

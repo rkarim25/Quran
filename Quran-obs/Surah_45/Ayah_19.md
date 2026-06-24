@@ -1,24 +1,24 @@
 ---
-arabic_ayat: اِنَّهُمۡ لَنۡ يُّغۡنُوۡا عَنۡكَ مِنَ اللّٰهِ شَيۡــًٔـا​ ؕ وَ اِنَّ
-  الظّٰلِمِيۡنَ بَعۡضُهُمۡ اَوۡلِيَآءُ بَعۡضٍ​ ۚ وَاللّٰهُ وَلِىُّ الۡمُتَّقِيۡنَ‏
+arabic_ayat: إِنَّهُمۡ لَن يُغۡنُواْ عَنكَ مِنَ ٱللَّهِ شَيۡـٔٗاۚ وَإِنَّ ٱلظَّٰلِمِينَ
+  بَعۡضُهُمۡ أَوۡلِيَآءُ بَعۡضٖۖ وَٱللَّهُ وَلِيُّ ٱلۡمُتَّقِينَ
 sentence_translation: They certainly can be of no benefit to you against Allah whatsoever.
   Surely the wrongdoers are patrons of each other, whereas Allah is the Patron of
   the righteous.
 word_by_word:
   1:
-    arabic: اِنَّهُمۡ
+    arabic: إِنَّهُمۡ
     translation: Indeed, they
     transliteration: innahum
   2:
-    arabic: لَنۡ
+    arabic: لَن
     translation: never
     transliteration: lan
   3:
-    arabic: يُّغۡنُوۡا
+    arabic: يُغۡنُواْ
     translation: will avail
     transliteration: yugh'nū
   4:
-    arabic: عَنۡكَ
+    arabic: عَنكَ
     translation: you
     transliteration: ʿanka
   5:
@@ -26,19 +26,19 @@ word_by_word:
     translation: against
     transliteration: mina
   6:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   7:
-    arabic: شَيۡــًٔـا​ ؕ
+    arabic: شَيۡـٔٗاۚ
     translation: (in) anything
     transliteration: shayan
   8:
-    arabic: وَ اِنَّ
+    arabic: وَإِنَّ
     translation: And indeed
     transliteration: wa-inna
   9:
-    arabic: الظّٰلِمِيۡنَ
+    arabic: ٱلظَّٰلِمِينَ
     translation: the wrongdoers
     transliteration: l-ẓālimīna
   10:
@@ -46,23 +46,23 @@ word_by_word:
     translation: some of them
     transliteration: baʿḍuhum
   11:
-    arabic: اَوۡلِيَآءُ
+    arabic: أَوۡلِيَآءُ
     translation: (are) allies
     transliteration: awliyāu
   12:
-    arabic: بَعۡضٍ​ ۚ
+    arabic: بَعۡضٖۖ
     translation: (of) others
     transliteration: baʿḍin
   13:
-    arabic: وَاللّٰهُ
+    arabic: وَٱللَّهُ
     translation: and Allah
     transliteration: wal-lahu
   14:
-    arabic: وَلِىُّ
+    arabic: وَلِيُّ
     translation: (is the) Protector
     transliteration: waliyyu
   15:
-    arabic: الۡمُتَّقِيۡنَ‏
+    arabic: ٱلۡمُتَّقِينَ
     translation: (of) the righteous
     transliteration: l-mutaqīna
 ---

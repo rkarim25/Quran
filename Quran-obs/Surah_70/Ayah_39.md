@@ -1,17 +1,17 @@
 ---
-arabic_ayat: كَلَّا ؕ اِنَّا خَلَقۡنٰهُمۡ مِّمَّا يَعۡلَمُوۡنَ‏
+arabic_ayat: كـَلَّآۖ إِنَّا خَلَقۡنَٰهُم مِّمَّا يَعۡلَمُونَ
 sentence_translation: But no! Indeed, they ˹already˺ know what We created them from.
 word_by_word:
   1:
-    arabic: كَلَّا ؕ
+    arabic: كـَلَّآۖ
     translation: By no means
     transliteration: kallā
   2:
-    arabic: اِنَّا
+    arabic: إِنَّا
     translation: Indeed, We
     transliteration: innā
   3:
-    arabic: خَلَقۡنٰهُمۡ
+    arabic: خَلَقۡنَٰهُم
     translation: '[We] have created them'
     transliteration: khalaqnāhum
   4:
@@ -19,7 +19,7 @@ word_by_word:
     translation: from what
     transliteration: mimmā
   5:
-    arabic: يَعۡلَمُوۡنَ‏
+    arabic: يَعۡلَمُونَ
     translation: they know
     transliteration: yaʿlamūna
 ---

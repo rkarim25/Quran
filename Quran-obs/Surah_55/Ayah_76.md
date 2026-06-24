@@ -1,14 +1,14 @@
 ---
-arabic_ayat: مُتَّكِــِٕيۡنَ عَلٰى رَفۡرَفٍ خُضۡرٍ وَّعَبۡقَرِىٍّ حِسَانٍ​ۚ‏
+arabic_ayat: مُتَّكِـِٔينَ عَلَىٰ رَفۡرَفٍ خُضۡرٖ وَعَبۡقَرِيٍّ حِسَانٖ
 sentence_translation: All ˹believers˺ will be reclining on green cushions and splendid
   carpets.
 word_by_word:
   1:
-    arabic: مُتَّكِــِٕيۡنَ
+    arabic: مُتَّكِـِٔينَ
     translation: Reclining
     transliteration: muttakiīna
   2:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: 'on'
     transliteration: ʿalā
   3:
@@ -16,15 +16,15 @@ word_by_word:
     translation: cushions
     transliteration: rafrafin
   4:
-    arabic: خُضۡرٍ
+    arabic: خُضۡرٖ
     translation: green
     transliteration: khuḍ'rin
   5:
-    arabic: وَّعَبۡقَرِىٍّ
+    arabic: وَعَبۡقَرِيٍّ
     translation: and carpets
     transliteration: waʿabqariyyin
   6:
-    arabic: حِسَانٍ​ۚ‏
+    arabic: حِسَانٖ
     translation: beautiful
     transliteration: ḥisānin
 ---

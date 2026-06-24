@@ -1,47 +1,47 @@
 ---
-arabic_ayat: الَّذِيۡنَ اِذَآ اَصَابَتۡهُمۡ مُّصِيۡبَةٌ  ۙ قَالُوۡٓا اِنَّا لِلّٰهِ
-  وَاِنَّـآ اِلَيۡهِ رٰجِعُوۡنَؕ‏
+arabic_ayat: ٱلَّذِينَ إِذَآ أَصَٰبَتۡهُم مُّصِيبَةٞ قَالُوٓاْ إِنَّا لِلَّهِ وَإِنَّآ
+  إِلَيۡهِ رَٰجِعُونَ
 sentence_translation: who, when faced with a disaster, say, “Surely to Allah we belong
   and to Him we will ˹all˺ return.”
 word_by_word:
   1:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: Those who
     transliteration: alladhīna
   2:
-    arabic: اِذَآ
+    arabic: إِذَآ
     translation: when
     transliteration: idhā
   3:
-    arabic: اَصَابَتۡهُمۡ
+    arabic: أَصَٰبَتۡهُم
     translation: strikes them
     transliteration: aṣābathum
   4:
-    arabic: مُّصِيۡبَةٌ  ۙ
+    arabic: مُّصِيبَةٞ
     translation: a misfortune
     transliteration: muṣībatun
   5:
-    arabic: قَالُوۡٓا
+    arabic: قَالُوٓاْ
     translation: they say
     transliteration: qālū
   6:
-    arabic: اِنَّا
+    arabic: إِنَّا
     translation: Indeed, we
     transliteration: innā
   7:
-    arabic: لِلّٰهِ
+    arabic: لِلَّهِ
     translation: belong to Allah
     transliteration: lillahi
   8:
-    arabic: وَاِنَّـآ
+    arabic: وَإِنَّآ
     translation: and indeed we
     transliteration: wa-innā
   9:
-    arabic: اِلَيۡهِ
+    arabic: إِلَيۡهِ
     translation: towards Him
     transliteration: ilayhi
   10:
-    arabic: رٰجِعُوۡنَؕ‏
+    arabic: رَٰجِعُونَ
     translation: will return
     transliteration: rājiʿūna
 ---

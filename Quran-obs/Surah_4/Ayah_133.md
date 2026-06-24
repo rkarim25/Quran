@@ -1,15 +1,15 @@
 ---
-arabic_ayat: اِنۡ يَّشَاۡ يُذۡهِبۡكُمۡ اَيُّهَا النَّاسُ وَيَاۡتِ بِاٰخَرِيۡنَ​ؕ وَكَانَ
-  اللّٰهُ عَلٰى ذٰلِكَ قَدِيۡرًا‏
+arabic_ayat: إِن يَشَأۡ يُذۡهِبۡكُمۡ أَيُّهَا ٱلنَّاسُ وَيَأۡتِ بِـَٔاخَرِينَۚ وَكَانَ
+  ٱللَّهُ عَلَىٰ ذَٰلِكَ قَدِيرٗا
 sentence_translation: If it is His Will, He can remove you altogether, O  humanity,
   and replace you with others. And Allah is Most Capable to do so.
 word_by_word:
   1:
-    arabic: اِنۡ
+    arabic: إِن
     translation: If
     transliteration: in
   2:
-    arabic: يَّشَاۡ
+    arabic: يَشَأۡ
     translation: He wills
     transliteration: yasha
   3:
@@ -17,19 +17,19 @@ word_by_word:
     translation: He can take you away
     transliteration: yudh'hib'kum
   4:
-    arabic: اَيُّهَا
+    arabic: أَيُّهَا
     translation: O
     transliteration: ayyuhā
   5:
-    arabic: النَّاسُ
+    arabic: ٱلنَّاسُ
     translation: people
     transliteration: l-nāsu
   6:
-    arabic: وَيَاۡتِ
+    arabic: وَيَأۡتِ
     translation: and bring
     transliteration: wayati
   7:
-    arabic: بِاٰخَرِيۡنَ​ؕ
+    arabic: بِـَٔاخَرِينَۚ
     translation: others
     transliteration: biākharīna
   8:
@@ -37,19 +37,19 @@ word_by_word:
     translation: And is
     transliteration: wakāna
   9:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   10:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: over
     transliteration: ʿalā
   11:
-    arabic: ذٰلِكَ
+    arabic: ذَٰلِكَ
     translation: that
     transliteration: dhālika
   12:
-    arabic: قَدِيۡرًا‏
+    arabic: قَدِيرٗا
     translation: All-Powerful
     transliteration: qadīran
 ---

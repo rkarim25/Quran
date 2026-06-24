@@ -1,5 +1,5 @@
 ---
-arabic_ayat: مِّنَ اللّٰهِ ذِى الۡمَعَارِجِؕ‏
+arabic_ayat: مِّنَ ٱللَّهِ ذِي ٱلۡمَعَارِجِ
 sentence_translation: from Allah, Lord of pathways of ˹heavenly˺ ascent,
 word_by_word:
   1:
@@ -7,15 +7,15 @@ word_by_word:
     translation: From
     transliteration: mina
   2:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   3:
-    arabic: ذِى
+    arabic: ذِي
     translation: Owner
     transliteration: dhī
   4:
-    arabic: الۡمَعَارِجِؕ‏
+    arabic: ٱلۡمَعَارِجِ
     translation: (of) the ways of ascent
     transliteration: l-maʿāriji
 ---

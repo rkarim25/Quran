@@ -1,43 +1,43 @@
 ---
-arabic_ayat: يٰۤاَيُّهَا الَّذِيۡنَ اٰمَنُوۡۤا اٰمِنُوۡا بِاللّٰهِ وَرَسُوۡلِهٖ وَالۡكِتٰبِ
-  الَّذِىۡ نَزَّلَ عَلٰى رَسُوۡلِهٖ وَالۡكِتٰبِ الَّذِىۡۤ اَنۡزَلَ مِنۡ قَبۡلُ​ؕ وَمَنۡ
-  يَّكۡفُرۡ بِاللّٰهِ وَمَلٰٓٮِٕكَتِهٖ وَكُتُبِهٖ وَرُسُلِهٖ وَالۡيَوۡمِ الۡاٰخِرِ
-  فَقَدۡ ضَلَّ ضَلٰلًاۢ بَعِيۡدًا‏
+arabic_ayat: يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓاْ ءَامِنُواْ بِٱللَّهِ وَرَسُولِهِۦ
+  وَٱلۡكِتَٰبِ ٱلَّذِي نَزَّلَ عَلَىٰ رَسُولِهِۦ وَٱلۡكِتَٰبِ ٱلَّذِيٓ أَنزَلَ مِن
+  قَبۡلُۚ وَمَن يَكۡفُرۡ بِٱللَّهِ وَمَلَٰٓئِكَتِهِۦ وَكُتُبِهِۦ وَرُسُلِهِۦ وَٱلۡيَوۡمِ
+  ٱلۡأٓخِرِ فَقَدۡ ضَلَّ ضَلَٰلَۢا بَعِيدًا
 sentence_translation: O believers! Have faith in Allah, His Messenger, the Book He
   has revealed to His Messenger, and the Scriptures He revealed before. Indeed, whoever
   denies Allah, His angels, His Books, His messengers, and the Last Day has clearly
   gone far astray.
 word_by_word:
   1:
-    arabic: يٰۤاَيُّهَا
+    arabic: يَٰٓأَيُّهَا
     translation: O you
     transliteration: yāayyuhā
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ ءَ
     translation: who
     transliteration: alladhīna
   3:
-    arabic: اٰمَنُوۡۤا
+    arabic: امَنُوٓاْ ءَ
     translation: believe[d]
     transliteration: āmanū
   4:
-    arabic: اٰمِنُوۡا
+    arabic: امِنُواْ
     translation: Believe
     transliteration: āminū
   5:
-    arabic: بِاللّٰهِ
+    arabic: بِٱللَّهِ
     translation: in Allah
     transliteration: bil-lahi
   6:
-    arabic: وَرَسُوۡلِهٖ
+    arabic: وَرَسُولِهِۦ
     translation: and His Messenger
     transliteration: warasūlihi
   7:
-    arabic: وَالۡكِتٰبِ
+    arabic: وَٱلۡكِتَٰبِ
     translation: and the Book
     transliteration: wal-kitābi
   8:
-    arabic: الَّذِىۡ
+    arabic: ٱلَّذِي
     translation: which
     transliteration: alladhī
   9:
@@ -45,63 +45,63 @@ word_by_word:
     translation: He revealed
     transliteration: nazzala
   10:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: upon
     transliteration: ʿalā
   11:
-    arabic: رَسُوۡلِهٖ
+    arabic: رَسُولِهِۦ
     translation: His Messenger
     transliteration: rasūlihi
   12:
-    arabic: وَالۡكِتٰبِ
+    arabic: وَٱلۡكِتَٰبِ
     translation: and the Book
     transliteration: wal-kitābi
   13:
-    arabic: الَّذِىۡۤ
+    arabic: ٱلَّذِيٓ
     translation: which
     transliteration: alladhī
   14:
-    arabic: اَنۡزَلَ
+    arabic: أَنزَلَ
     translation: He revealed
     transliteration: anzala
   15:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   16:
-    arabic: قَبۡلُ​ؕ
+    arabic: قَبۡلُۚ
     translation: before
     transliteration: qablu
   17:
-    arabic: وَمَنۡ
+    arabic: وَمَن
     translation: And whoever
     transliteration: waman
   18:
-    arabic: يَّكۡفُرۡ
+    arabic: يَكۡفُرۡ
     translation: disbelieves
     transliteration: yakfur
   19:
-    arabic: بِاللّٰهِ
+    arabic: بِٱللَّهِ
     translation: in Allah
     transliteration: bil-lahi
   20:
-    arabic: وَمَلٰٓٮِٕكَتِهٖ
+    arabic: وَمَلَٰٓئِكَتِهِۦ
     translation: and His Angels
     transliteration: wamalāikatihi
   21:
-    arabic: وَكُتُبِهٖ
+    arabic: وَكُتُبِهِۦ
     translation: and His Books
     transliteration: wakutubihi
   22:
-    arabic: وَرُسُلِهٖ
+    arabic: وَرُسُلِهِۦ
     translation: and His Messengers
     transliteration: warusulihi
   23:
-    arabic: وَالۡيَوۡمِ
+    arabic: وَٱلۡيَوۡمِ
     translation: and the Day
     transliteration: wal-yawmi
   24:
-    arabic: الۡاٰخِرِ
+    arabic: ٱلۡأٓخِرِ
     translation: the Last
     transliteration: l-ākhiri
   25:
@@ -113,11 +113,11 @@ word_by_word:
     translation: he (has) lost (the) way
     transliteration: ḍalla
   27:
-    arabic: ضَلٰلًاۢ
+    arabic: ضَلَٰلَۢا
     translation: straying
     transliteration: ḍalālan
   28:
-    arabic: بَعِيۡدًا‏
+    arabic: بَعِيدًا
     translation: far away
     transliteration: baʿīdan
 ---

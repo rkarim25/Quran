@@ -1,6 +1,6 @@
 ---
-arabic_ayat: يَعۡلَمُ مَا بَيۡنَ اَيۡدِيۡهِمۡ وَمَا خَلۡفَهُمۡ​ؕ وَاِلَى اللّٰهِ تُرۡجَعُ
-  الۡاُمُوۡرُ‏
+arabic_ayat: يَعۡلَمُ مَا بَيۡنَ أَيۡدِيهِمۡ وَمَا خَلۡفَهُمۡۚ وَإِلَى ٱللَّهِ تُرۡجَعُ
+  ٱلۡأُمُورُ
 sentence_translation: He knows what is ahead of them and what is behind them. And
   to Allah ˹all˺ matters will be returned ˹for judgment˺.
 word_by_word:
@@ -17,7 +17,7 @@ word_by_word:
     translation: (is) before them
     transliteration: bayna
   4:
-    arabic: اَيۡدِيۡهِمۡ
+    arabic: أَيۡدِيهِمۡ
     translation: (is) before them
     transliteration: aydīhim
   5:
@@ -25,15 +25,15 @@ word_by_word:
     translation: and what
     transliteration: wamā
   6:
-    arabic: خَلۡفَهُمۡ​ؕ
+    arabic: خَلۡفَهُمۡۚ
     translation: (is) after them
     transliteration: khalfahum
   7:
-    arabic: وَاِلَى
+    arabic: وَإِلَى
     translation: And to
     transliteration: wa-ilā
   8:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   9:
@@ -41,7 +41,7 @@ word_by_word:
     translation: return
     transliteration: tur'jaʿu
   10:
-    arabic: الۡاُمُوۡرُ‏
+    arabic: ٱلۡأُمُورُ
     translation: all the matters
     transliteration: l-umūru
 ---

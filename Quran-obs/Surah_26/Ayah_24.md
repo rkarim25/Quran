@@ -1,6 +1,6 @@
 ---
-arabic_ayat: "قَالَ رَبُّ السَّمٰوٰتِ وَالۡاَرۡضِ وَمَا بَيۡنَهُمَاؕ اِنۡ كُنۡتُمۡ\
-  \ مُّوۡقِنِيۡنَ‏ \uFEFF\uFEFF"
+arabic_ayat: قَالَ رَبُّ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِ وَمَا بَيۡنَهُمَآۖ إِن كُنتُم
+  مُّوقِنِينَ
 sentence_translation: Moses replied, “˹He is˺ the Lord of the heavens and the earth
   and everything in between, if only you had sure faith.”
 word_by_word:
@@ -13,11 +13,11 @@ word_by_word:
     translation: Lord
     transliteration: rabbu
   3:
-    arabic: السَّمٰوٰتِ
+    arabic: ٱلسَّمَٰوَٰتِ
     translation: (of) the heavens
     transliteration: l-samāwāti
   4:
-    arabic: وَالۡاَرۡضِ
+    arabic: وَٱلۡأَرۡضِ
     translation: and the earth
     transliteration: wal-arḍi
   5:
@@ -25,19 +25,19 @@ word_by_word:
     translation: and whatever
     transliteration: wamā
   6:
-    arabic: بَيۡنَهُمَاؕ
+    arabic: بَيۡنَهُمَآۖ
     translation: (is) between them
     transliteration: baynahumā
   7:
-    arabic: اِنۡ
+    arabic: إِن
     translation: if
     transliteration: in
   8:
-    arabic: كُنۡتُمۡ
+    arabic: كُنتُم
     translation: you (should) be
     transliteration: kuntum
   9:
-    arabic: "مُّوۡقِنِيۡنَ‏ \uFEFF\uFEFF"
+    arabic: مُّوقِنِينَ
     translation: convinced
     transliteration: mūqinīna
 ---

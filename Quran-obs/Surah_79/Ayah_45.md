@@ -1,25 +1,25 @@
 ---
-arabic_ayat: اِنَّمَاۤ اَنۡتَ مُنۡذِرُ مَنۡ يَّخۡشٰٮهَاؕ‏
+arabic_ayat: إِنَّمَآ أَنتَ مُنذِرُ مَن يَخۡشَىٰهَا
 sentence_translation: Your duty is only to warn whoever is in awe of it.
 word_by_word:
   1:
-    arabic: اِنَّمَاۤ
+    arabic: إِنَّمَآ
     translation: Only
     transliteration: innamā
   2:
-    arabic: اَنۡتَ
+    arabic: أَنتَ
     translation: you
     transliteration: anta
   3:
-    arabic: مُنۡذِرُ
+    arabic: مُنذِرُ
     translation: (are) a warner
     transliteration: mundhiru
   4:
-    arabic: مَنۡ
+    arabic: مَن
     translation: (for him) who
     transliteration: man
   5:
-    arabic: يَّخۡشٰٮهَاؕ‏
+    arabic: يَخۡشَىٰهَا
     translation: fears it
     transliteration: yakhshāhā
 ---

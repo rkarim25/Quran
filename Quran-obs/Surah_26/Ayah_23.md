@@ -1,5 +1,5 @@
 ---
-arabic_ayat: قَالَ فِرۡعَوۡنُ وَمَا رَبُّ الۡعٰلَمِيۡنَؕ‏
+arabic_ayat: قَالَ فِرۡعَوۡنُ وَمَا رَبُّ ٱلۡعَٰلَمِينَ
 sentence_translation: Pharaoh asked, “And what is ‘the Lord of all worlds’?”
 word_by_word:
   1:
@@ -19,7 +19,7 @@ word_by_word:
     translation: (is the) Lord
     transliteration: rabbu
   5:
-    arabic: الۡعٰلَمِيۡنَؕ‏
+    arabic: ٱلۡعَٰلَمِينَ
     translation: (of) the worlds
     transliteration: l-ʿālamīna
 ---

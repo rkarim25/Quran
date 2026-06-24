@@ -1,35 +1,34 @@
 ---
-arabic_ayat: يٰۤـاَيُّهَا النَّبِىُّ اِنَّاۤ اَرۡسَلۡنٰكَ شَاهِدًا وَّمُبَشِّرًا وَّنَذِيۡرًا
-  ۙ‏
+arabic_ayat: يَٰٓأَيُّهَا ٱلنَّبِيُّ إِنَّآ أَرۡسَلۡنَٰكَ شَٰهِدٗا وَمُبَشِّرٗا وَنَذِيرٗا
 sentence_translation: O Prophet! We have sent you as a witness, and a deliverer of
   good news, and a warner,
 word_by_word:
   1:
-    arabic: يٰۤـاَيُّهَا
+    arabic: يَٰٓأَيُّهَا
     translation: O Prophet
     transliteration: yāayyuhā
   2:
-    arabic: النَّبِىُّ
+    arabic: ٱلنَّبِيُّ
     translation: O Prophet
     transliteration: l-nabiyu
   3:
-    arabic: اِنَّاۤ
+    arabic: إِنَّآ
     translation: Indeed, We
     transliteration: innā
   4:
-    arabic: اَرۡسَلۡنٰكَ
+    arabic: أَرۡسَلۡنَٰكَ
     translation: have sent you
     transliteration: arsalnāka
   5:
-    arabic: شَاهِدًا
+    arabic: شَٰهِدٗا
     translation: (as) a witness
     transliteration: shāhidan
   6:
-    arabic: وَّمُبَشِّرًا
+    arabic: وَمُبَشِّرٗا
     translation: and a bearer of glad tidings
     transliteration: wamubashiran
   7:
-    arabic: وَّنَذِيۡرًا ۙ‏
+    arabic: وَنَذِيرٗا
     translation: and (as) a warner
     transliteration: wanadhīran
 ---

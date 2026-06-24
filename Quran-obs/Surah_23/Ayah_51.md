@@ -1,19 +1,19 @@
 ---
-arabic_ayat: يٰۤـاَيُّهَا الرُّسُلُ كُلُوۡا مِنَ الطَّيِّبٰتِ وَاعۡمَلُوْا صَالِحًـا​
-  ؕ اِنِّىۡ بِمَا تَعۡمَلُوۡنَ عَلِيۡمٌ ؕ‏
+arabic_ayat: يَٰٓأَيُّهَا ٱلرُّسُلُ كُلُواْ مِنَ ٱلطَّيِّبَٰتِ وَٱعۡمَلُواْ صَٰلِحًاۖ
+  إِنِّي بِمَا تَعۡمَلُونَ عَلِيمٞ
 sentence_translation: O messengers! Eat from what is good and lawful, and act righteously.
   Indeed, I fully know what you do.
 word_by_word:
   1:
-    arabic: يٰۤـاَيُّهَا
+    arabic: يَٰٓأَيُّهَا
     translation: O Messengers
     transliteration: yāayyuhā
   2:
-    arabic: الرُّسُلُ
+    arabic: ٱلرُّسُلُ
     translation: O Messengers
     transliteration: l-rusulu
   3:
-    arabic: كُلُوۡا
+    arabic: كُلُواْ
     translation: Eat
     transliteration: kulū
   4:
@@ -21,19 +21,19 @@ word_by_word:
     translation: of
     transliteration: mina
   5:
-    arabic: الطَّيِّبٰتِ
+    arabic: ٱلطَّيِّبَٰتِ
     translation: the good things
     transliteration: l-ṭayibāti
   6:
-    arabic: وَاعۡمَلُوْا
+    arabic: وَٱعۡمَلُواْ
     translation: and do
     transliteration: wa-iʿ'malū
   7:
-    arabic: صَالِحًـا​ ؕ
+    arabic: صَٰلِحًاۖ
     translation: righteous (deeds)
     transliteration: ṣāliḥan
   8:
-    arabic: اِنِّىۡ
+    arabic: إِنِّي
     translation: Indeed, I Am
     transliteration: innī
   9:
@@ -41,11 +41,11 @@ word_by_word:
     translation: of what
     transliteration: bimā
   10:
-    arabic: تَعۡمَلُوۡنَ
+    arabic: تَعۡمَلُونَ
     translation: you do
     transliteration: taʿmalūna
   11:
-    arabic: عَلِيۡمٌ ؕ‏
+    arabic: عَلِيمٞ
     translation: All-Knower
     transliteration: ʿalīmun
 ---

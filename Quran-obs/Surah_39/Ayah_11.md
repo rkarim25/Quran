@@ -1,5 +1,5 @@
 ---
-arabic_ayat: قُلۡ اِنِّىۡۤ اُمِرۡتُ اَنۡ اَعۡبُدَ اللّٰهَ مُخۡلِصًا لَّهُ الدِّيۡنَۙ‏
+arabic_ayat: قُلۡ إِنِّيٓ أُمِرۡتُ أَنۡ أَعۡبُدَ ٱللَّهَ مُخۡلِصٗا لَّهُ ٱلدِّينَ
 sentence_translation: Say, “I am commanded to worship Allah, being sincerely devoted
   to Him ˹alone˺.
 word_by_word:
@@ -8,27 +8,27 @@ word_by_word:
     translation: Say
     transliteration: qul
   2:
-    arabic: اِنِّىۡۤ
+    arabic: إِنِّيٓ
     translation: Indeed, I
     transliteration: innī
   3:
-    arabic: اُمِرۡتُ
+    arabic: أُمِرۡتُ
     translation: '[I] am commanded'
     transliteration: umir'tu
   4:
-    arabic: اَنۡ
+    arabic: أَنۡ
     translation: that
     transliteration: an
   5:
-    arabic: اَعۡبُدَ
+    arabic: أَعۡبُدَ
     translation: I worship
     transliteration: aʿbuda
   6:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   7:
-    arabic: مُخۡلِصًا
+    arabic: مُخۡلِصٗا
     translation: (being) sincere
     transliteration: mukh'liṣan
   8:
@@ -36,7 +36,7 @@ word_by_word:
     translation: to Him
     transliteration: lahu
   9:
-    arabic: الدِّيۡنَۙ‏
+    arabic: ٱلدِّينَ
     translation: (in) the religion
     transliteration: l-dīna
 ---

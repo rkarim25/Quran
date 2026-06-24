@@ -1,5 +1,5 @@
 ---
-arabic_ayat: يُسۡقَوۡنَ مِنۡ رَّحِيۡقٍ مَّخۡتُوۡمٍۙ‏
+arabic_ayat: يُسۡقَوۡنَ مِن رَّحِيقٖ مَّخۡتُومٍ
 sentence_translation: They will be given a drink of sealed, pure wine,
 word_by_word:
   1:
@@ -7,15 +7,15 @@ word_by_word:
     translation: They will be given to drink
     transliteration: yus'qawna
   2:
-    arabic: مِنۡ
+    arabic: مِن
     translation: of
     transliteration: min
   3:
-    arabic: رَّحِيۡقٍ
+    arabic: رَّحِيقٖ
     translation: a pure wine
     transliteration: raḥīqin
   4:
-    arabic: مَّخۡتُوۡمٍۙ‏
+    arabic: مَّخۡتُومٍ
     translation: sealed
     transliteration: makhtūmin
 ---

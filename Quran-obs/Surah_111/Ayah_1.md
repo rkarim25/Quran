@@ -1,5 +1,5 @@
 ---
-arabic_ayat: تَبَّتۡ يَدَاۤ اَبِىۡ لَهَبٍ وَّتَبَّؕ‏
+arabic_ayat: تَبَّتۡ يَدَآ أَبِي لَهَبٖ وَتَبَّ
 sentence_translation: May the hands of Abu Lahab perish, and he ˹himself˺ perish!
 word_by_word:
   1:
@@ -7,19 +7,19 @@ word_by_word:
     translation: Perish
     transliteration: tabbat
   2:
-    arabic: يَدَاۤ
+    arabic: يَدَآ
     translation: (the) hands
     transliteration: yadā
   3:
-    arabic: اَبِىۡ
+    arabic: أَبِي
     translation: (of) Abu
     transliteration: abī
   4:
-    arabic: لَهَبٍ
+    arabic: لَهَبٖ
     translation: Lahab
     transliteration: lahabin
   5:
-    arabic: وَّتَبَّؕ‏
+    arabic: وَتَبَّ
     translation: and perish he
     transliteration: watabba
 ---

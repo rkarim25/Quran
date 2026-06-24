@@ -1,21 +1,21 @@
 ---
-arabic_ayat: فَاِنَّمَا هِىَ زَجۡرَةٌ وَّاحِدَةٌ ۙ‏
+arabic_ayat: فَإِنَّمَا هِيَ زَجۡرَةٞ وَٰحِدَةٞ
 sentence_translation: But indeed, it will take only one ˹mighty˺ Blast,
 word_by_word:
   1:
-    arabic: فَاِنَّمَا
+    arabic: فَإِنَّمَا
     translation: Then only
     transliteration: fa-innamā
   2:
-    arabic: هِىَ
+    arabic: هِيَ
     translation: it
     transliteration: hiya
   3:
-    arabic: زَجۡرَةٌ
+    arabic: زَجۡرَةٞ
     translation: (will be) a shout
     transliteration: zajratun
   4:
-    arabic: وَّاحِدَةٌ ۙ‏
+    arabic: وَٰحِدَةٞ
     translation: single
     transliteration: wāḥidatun
 ---

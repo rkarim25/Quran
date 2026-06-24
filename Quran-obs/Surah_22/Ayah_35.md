@@ -1,17 +1,16 @@
 ---
-arabic_ayat: "الَّذِيۡنَ اِذَا ذُكِرَ اللّٰهُ وَجِلَتۡ قُلُوۡبُهُمۡ وَالصّٰبِرِيۡنَ\
-  \ عَلٰى مَاۤ اَصَابَهُمۡ وَالۡمُقِيۡمِى الصَّلٰوةِ ۙ وَمِمَّا رَزَقۡنٰهُمۡ يُنۡفِقُوۡنَ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: ٱلَّذِينَ إِذَا ذُكِرَ ٱللَّهُ وَجِلَتۡ قُلُوبُهُمۡ وَٱلصَّٰبِرِينَ عَلَىٰ
+  مَآ أَصَابَهُمۡ وَٱلۡمُقِيمِي ٱلصَّلَوٰةِ وَمِمَّا رَزَقۡنَٰهُمۡ يُنفِقُونَ
 sentence_translation: those whose hearts tremble at the remembrance of Allah, who
   patiently endure whatever may befall them, and who establish prayer and donate from
   what We have provided for them.
 word_by_word:
   1:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: Those
     transliteration: alladhīna
   2:
-    arabic: اِذَا
+    arabic: إِذَا
     translation: when
     transliteration: idhā
   3:
@@ -19,7 +18,7 @@ word_by_word:
     translation: is mentioned
     transliteration: dhukira
   4:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: 'Allah '
     transliteration: l-lahu
   5:
@@ -27,31 +26,31 @@ word_by_word:
     translation: fear
     transliteration: wajilat
   6:
-    arabic: قُلُوۡبُهُمۡ
+    arabic: قُلُوبُهُمۡ
     translation: their hearts
     transliteration: qulūbuhum
   7:
-    arabic: وَالصّٰبِرِيۡنَ
+    arabic: وَٱلصَّٰبِرِينَ
     translation: and those who are patient
     transliteration: wal-ṣābirīna
   8:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: over
     transliteration: ʿalā
   9:
-    arabic: مَاۤ
+    arabic: مَآ
     translation: whatever
     transliteration: mā
   10:
-    arabic: اَصَابَهُمۡ
+    arabic: أَصَابَهُمۡ
     translation: has afflicted them
     transliteration: aṣābahum
   11:
-    arabic: وَالۡمُقِيۡمِى
+    arabic: وَٱلۡمُقِيمِي
     translation: and those who establish
     transliteration: wal-muqīmī
   12:
-    arabic: الصَّلٰوةِ ۙ
+    arabic: ٱلصَّلَوٰةِ
     translation: the prayer
     transliteration: l-ṣalati
   13:
@@ -59,11 +58,11 @@ word_by_word:
     translation: and out of what
     transliteration: wamimmā
   14:
-    arabic: رَزَقۡنٰهُمۡ
+    arabic: رَزَقۡنَٰهُمۡ
     translation: We have provided them
     transliteration: razaqnāhum
   15:
-    arabic: "يُنۡفِقُوۡنَ‏ \uFEFF\uFEFF"
+    arabic: يُنفِقُونَ
     translation: they spend
     transliteration: yunfiqūna
 ---

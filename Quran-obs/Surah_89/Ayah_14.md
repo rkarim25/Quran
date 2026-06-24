@@ -1,9 +1,9 @@
 ---
-arabic_ayat: اِنَّ رَبَّكَ لَبِالۡمِرۡصَادِؕ‏
+arabic_ayat: إِنَّ رَبَّكَ لَبِٱلۡمِرۡصَادِ
 sentence_translation: ˹For˺ your Lord is truly vigilant.
 word_by_word:
   1:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   2:
@@ -11,7 +11,7 @@ word_by_word:
     translation: your Lord
     transliteration: rabbaka
   3:
-    arabic: لَبِالۡمِرۡصَادِؕ‏
+    arabic: لَبِٱلۡمِرۡصَادِ
     translation: (is) surely Ever Watchful
     transliteration: labil-mir'ṣādi
 ---

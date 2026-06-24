@@ -1,16 +1,16 @@
 ---
-arabic_ayat: ذٰ لِكَ اَنۡ لَّمۡ يَكُنۡ رَّبُّكَ مُهۡلِكَ الۡقُرٰى بِظُلۡمٍ وَّاَهۡلُهَا
-  غٰفِلُوۡنَ‏
+arabic_ayat: ذَٰلِكَ أَن لَّمۡ يَكُن رَّبُّكَ مُهۡلِكَ ٱلۡقُرَىٰ بِظُلۡمٖ وَأَهۡلُهَا
+  غَٰفِلُونَ
 sentence_translation: This ˹sending of the messengers˺ is because your Lord would
   never destroy a society for their wrongdoing while its people are unaware ˹of the
   truth˺.
 word_by_word:
   1:
-    arabic: ذٰ لِكَ
+    arabic: ذَٰلِكَ
     translation: That (is because)
     transliteration: dhālika
   2:
-    arabic: اَنۡ
+    arabic: أَن
     translation: '[that]'
     transliteration: an
   3:
@@ -18,7 +18,7 @@ word_by_word:
     translation: not
     transliteration: lam
   4:
-    arabic: يَكُنۡ
+    arabic: يَكُن
     translation: is
     transliteration: yakun
   5:
@@ -30,19 +30,19 @@ word_by_word:
     translation: one who destroys
     transliteration: muh'lika
   7:
-    arabic: الۡقُرٰى
+    arabic: ٱلۡقُرَىٰ
     translation: the cities
     transliteration: l-qurā
   8:
-    arabic: بِظُلۡمٍ
+    arabic: بِظُلۡمٖ
     translation: for (their) wrongdoing
     transliteration: biẓul'min
   9:
-    arabic: وَّاَهۡلُهَا
+    arabic: وَأَهۡلُهَا
     translation: while their people
     transliteration: wa-ahluhā
   10:
-    arabic: غٰفِلُوۡنَ‏
+    arabic: غَٰفِلُونَ
     translation: (are) unaware
     transliteration: ghāfilūna
 ---

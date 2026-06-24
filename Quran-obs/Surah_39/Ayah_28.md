@@ -1,10 +1,10 @@
 ---
-arabic_ayat: قُرۡاٰنًا عَرَبِيًّا غَيۡرَ ذِىۡ عِوَجٍ لَّعَلَّهُمۡ يَتَّقُوۡنَ‏
+arabic_ayat: قُرۡءَانًا عَرَبِيًّا غَيۡرَ ذِي عِوَجٖ لَّعَلَّهُمۡ يَتَّقُونَ
 sentence_translation: ˹It is˺ a Quran ˹revealed˺ in Arabic without any crookedness,
   so perhaps they will be conscious ˹of Allah˺.
 word_by_word:
   1:
-    arabic: قُرۡاٰنًا
+    arabic: قُرۡءَانًا
     translation: A Quran
     transliteration: qur'ānan
   2:
@@ -16,11 +16,11 @@ word_by_word:
     translation: without
     transliteration: ghayra
   4:
-    arabic: ذِىۡ
+    arabic: ذِي
     translation: any
     transliteration: dhī
   5:
-    arabic: عِوَجٍ
+    arabic: عِوَجٖ
     translation: crookedness
     transliteration: ʿiwajin
   6:
@@ -28,7 +28,7 @@ word_by_word:
     translation: so that they may
     transliteration: laʿallahum
   7:
-    arabic: يَتَّقُوۡنَ‏
+    arabic: يَتَّقُونَ
     translation: (become) righteous
     transliteration: yattaqūna
 ---

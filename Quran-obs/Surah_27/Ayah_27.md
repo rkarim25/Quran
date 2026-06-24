@@ -1,26 +1,26 @@
 ---
-arabic_ayat: قَالَ سَنَـنۡظُرُ اَصَدَقۡتَ اَمۡ كُنۡتَ مِنَ الۡكٰذِبِيۡنَ‏
+arabic_ayat: ۞ قَالَ سَنَنظُرُ أَصَدَقۡتَ أَمۡ كُنتَ مِنَ ٱلۡكَٰذِبِينَ
 sentence_translation: Solomon said, “We will see whether you are telling the truth
   or lying.
 word_by_word:
   1:
-    arabic: ۞ قَالَ
+    arabic: ۞ قَالَ
     translation: He said
     transliteration: qāla
   2:
-    arabic: سَنَـنۡظُرُ
+    arabic: سَنَنظُرُ
     translation: We will see
     transliteration: sananẓuru
   3:
-    arabic: اَصَدَقۡتَ
+    arabic: أَصَدَقۡتَ
     translation: whether you speak (the) truth
     transliteration: aṣadaqta
   4:
-    arabic: اَمۡ
+    arabic: أَمۡ
     translation: or
     transliteration: am
   5:
-    arabic: كُنۡتَ
+    arabic: كُنتَ
     translation: you are
     transliteration: kunta
   6:
@@ -28,7 +28,7 @@ word_by_word:
     translation: of
     transliteration: mina
   7:
-    arabic: الۡكٰذِبِيۡنَ‏
+    arabic: ٱلۡكَٰذِبِينَ
     translation: the liars
     transliteration: l-kādhibīna
 ---

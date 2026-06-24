@@ -1,17 +1,17 @@
 ---
-arabic_ayat: اِنَّا كَفَيۡنٰكَ الۡمُسۡتَهۡزِءِيۡنَۙ‏
+arabic_ayat: إِنَّا كَفَيۡنَٰكَ ٱلۡمُسۡتَهۡزِءِينَ
 sentence_translation: Surely We will be sufficient for you against the mockers,
 word_by_word:
   1:
-    arabic: اِنَّا
+    arabic: إِنَّا
     translation: Indeed, We
     transliteration: innā
   2:
-    arabic: كَفَيۡنٰكَ
+    arabic: كَفَيۡنَٰكَ
     translation: '[We] are sufficient for you'
     transliteration: kafaynāka
   3:
-    arabic: الۡمُسۡتَهۡزِءِيۡنَۙ‏
+    arabic: ٱلۡمُسۡتَهۡزِءِينَ
     translation: (against) the mockers
     transliteration: l-mus'tahziīna
 ---

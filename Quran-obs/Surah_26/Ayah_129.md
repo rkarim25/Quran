@@ -1,9 +1,9 @@
 ---
-arabic_ayat: وَ تَتَّخِذُوۡنَ مَصَانِعَ لَعَلَّكُمۡ تَخۡلُدُوۡنَ​ۚ‏
+arabic_ayat: وَتَتَّخِذُونَ مَصَانِعَ لَعَلَّكُمۡ تَخۡلُدُونَ
 sentence_translation: and construct castles, as if you are going to live forever,
 word_by_word:
   1:
-    arabic: وَ تَتَّخِذُوۡنَ
+    arabic: وَتَتَّخِذُونَ
     translation: And take for yourselves
     transliteration: watattakhidhūna
   2:
@@ -15,7 +15,7 @@ word_by_word:
     translation: that you may
     transliteration: laʿallakum
   4:
-    arabic: تَخۡلُدُوۡنَ​ۚ‏
+    arabic: تَخۡلُدُونَ
     translation: live forever
     transliteration: takhludūna
 ---

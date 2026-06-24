@@ -1,13 +1,13 @@
 ---
-arabic_ayat: فَاَصۡبَحَتۡ كَالصَّرِيۡمِۙ‏
+arabic_ayat: فَأَصۡبَحَتۡ كَٱلصَّرِيمِ
 sentence_translation: so it was reduced to ashes.
 word_by_word:
   1:
-    arabic: فَاَصۡبَحَتۡ
+    arabic: فَأَصۡبَحَتۡ
     translation: So it became
     transliteration: fa-aṣbaḥat
   2:
-    arabic: كَالصَّرِيۡمِۙ‏
+    arabic: كَٱلصَّرِيمِ
     translation: as if reaped
     transliteration: kal-ṣarīmi
 ---

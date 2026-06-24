@@ -1,8 +1,8 @@
 ---
-arabic_ayat: يَسۡـــَٔلُوۡنَكَ عَنِ الۡاَهِلَّةِ ​ؕ قُلۡ هِىَ مَوَاقِيۡتُ لِلنَّاسِ
-  وَالۡحَجِّ ؕ وَلَيۡسَ الۡبِرُّ بِاَنۡ تَاۡتُوا الۡبُيُوۡتَ مِنۡ ظُهُوۡرِهَا وَلٰـكِنَّ
-  الۡبِرَّ مَنِ اتَّقٰى​ۚ وَاۡتُوا الۡبُيُوۡتَ مِنۡ اَبۡوَابِهَا وَاتَّقُوا اللّٰهَ
-  لَعَلَّکُمۡ تُفۡلِحُوۡنَ‏‏‏
+arabic_ayat: ۞ يَسۡـَٔلُونَكَ عَنِ ٱلۡأَهِلَّةِۖ قُلۡ هِيَ مَوَٰقِيتُ لِلنَّاسِ وَٱلۡحَجِّۗ
+  وَلَيۡسَ ٱلۡبِرُّ بِأَن تَأۡتُواْ ٱلۡبُيُوتَ مِن ظُهُورِهَا وَلَٰكِنَّ ٱلۡبِرَّ
+  مَنِ ٱتَّقَىٰۗ وَأۡتُواْ ٱلۡبُيُوتَ مِنۡ أَبۡوَٰبِهَاۚ وَٱتَّقُواْ ٱللَّهَ لَعَلَّكُمۡ
+  تُفۡلِحُونَ
 sentence_translation: They ask you ˹O Prophet˺ about the phases of the moon. Say,
   “They are a means for people to determine time and pilgrimage.” Righteousness is
   not in entering your houses from the back doors. Rather, righteousness is to be
@@ -10,7 +10,7 @@ sentence_translation: They ask you ˹O Prophet˺ about the phases of the moon. S
   of Allah so you may be successful.
 word_by_word:
   1:
-    arabic: ۞ يَسۡـــَٔلُوۡنَكَ
+    arabic: ۞ يَسۡـَٔلُونَكَ
     translation: They ask you
     transliteration: yasalūnaka
   2:
@@ -18,7 +18,7 @@ word_by_word:
     translation: about
     transliteration: ʿani
   3:
-    arabic: الۡاَهِلَّةِ ​ؕ
+    arabic: ٱلۡأَهِلَّةِۖ
     translation: the new moons
     transliteration: l-ahilati
   4:
@@ -26,11 +26,11 @@ word_by_word:
     translation: Say
     transliteration: qul
   5:
-    arabic: هِىَ
+    arabic: هِيَ
     translation: They
     transliteration: hiya
   6:
-    arabic: مَوَاقِيۡتُ
+    arabic: مَوَٰقِيتُ
     translation: (are) indicators of periods
     transliteration: mawāqītu
   7:
@@ -38,7 +38,7 @@ word_by_word:
     translation: for the people
     transliteration: lilnnāsi
   8:
-    arabic: وَالۡحَجِّ ؕ
+    arabic: وَٱلۡحَجِّۗ
     translation: and (for) the Hajj
     transliteration: wal-ḥaji
   9:
@@ -46,35 +46,35 @@ word_by_word:
     translation: And it is not
     transliteration: walaysa
   10:
-    arabic: الۡبِرُّ
+    arabic: ٱلۡبِرُّ
     translation: '[the] righteousness'
     transliteration: l-biru
   11:
-    arabic: بِاَنۡ
+    arabic: بِأَن
     translation: that
     transliteration: bi-an
   12:
-    arabic: تَاۡتُوا
+    arabic: تَأۡتُواْ
     translation: you come
     transliteration: tatū
   13:
-    arabic: الۡبُيُوۡتَ
+    arabic: ٱلۡبُيُوتَ
     translation: (to) the houses
     transliteration: l-buyūta
   14:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   15:
-    arabic: ظُهُوۡرِهَا
+    arabic: ظُهُورِهَا
     translation: their backs
     transliteration: ẓuhūrihā
   16:
-    arabic: وَلٰـكِنَّ
+    arabic: وَلَٰكِنَّ
     translation: '[and] but'
     transliteration: walākinna
   17:
-    arabic: الۡبِرَّ
+    arabic: ٱلۡبِرَّ
     translation: '[the] righteous'
     transliteration: l-bira
   18:
@@ -82,15 +82,15 @@ word_by_word:
     translation: (is one) who
     transliteration: mani
   19:
-    arabic: اتَّقٰى​ۚ
+    arabic: ٱتَّقَىٰۗ
     translation: fears (Allah)
     transliteration: ittaqā
   20:
-    arabic: وَاۡتُوا
+    arabic: وَأۡتُواْ
     translation: And come
     transliteration: watū
   21:
-    arabic: الۡبُيُوۡتَ
+    arabic: ٱلۡبُيُوتَ
     translation: (to) the houses
     transliteration: l-buyūta
   22:
@@ -98,23 +98,23 @@ word_by_word:
     translation: from
     transliteration: min
   23:
-    arabic: اَبۡوَابِهَا
+    arabic: أَبۡوَٰبِهَاۚ
     translation: their doors
     transliteration: abwābihā
   24:
-    arabic: وَاتَّقُوا
+    arabic: وَٱتَّقُواْ
     translation: And fear
     transliteration: wa-ittaqū
   25:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   26:
-    arabic: لَعَلَّکُمۡ
+    arabic: لَعَلَّكُمۡ
     translation: so that you may
     transliteration: laʿallakum
   27:
-    arabic: تُفۡلِحُوۡنَ‏‏‏
+    arabic: تُفۡلِحُونَ
     translation: (be) successful
     transliteration: tuf'liḥūna
 ---

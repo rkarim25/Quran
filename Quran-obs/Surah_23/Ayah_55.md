@@ -1,33 +1,33 @@
 ---
-arabic_ayat: اَيَحۡسَبُوۡنَ اَنَّمَا نُمِدُّهُمۡ بِهٖ مِنۡ مَّالٍ وَّبَنِيۡنَۙ‏
+arabic_ayat: أَيَحۡسَبُونَ أَنَّمَا نُمِدُّهُم بِهِۦ مِن مَّالٖ وَبَنِينَ
 sentence_translation: Do they think, since We provide them with wealth and children,
 word_by_word:
   1:
-    arabic: اَيَحۡسَبُوۡنَ
+    arabic: أَيَحۡسَبُونَ
     translation: Do they think
     transliteration: ayaḥsabūna
   2:
-    arabic: اَنَّمَا
+    arabic: أَنَّمَا
     translation: that what
     transliteration: annamā
   3:
-    arabic: نُمِدُّهُمۡ
+    arabic: نُمِدُّهُم
     translation: We extend to them
     transliteration: numidduhum
   4:
-    arabic: بِهٖ
+    arabic: بِهِۦ
     translation: '[with it]'
     transliteration: bihi
   5:
-    arabic: مِنۡ
+    arabic: مِن
     translation: of
     transliteration: min
   6:
-    arabic: مَّالٍ
+    arabic: مَّالٖ
     translation: wealth
     transliteration: mālin
   7:
-    arabic: وَّبَنِيۡنَۙ‏
+    arabic: وَبَنِينَ
     translation: and children
     transliteration: wabanīna
 ---

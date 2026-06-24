@@ -1,9 +1,9 @@
 ---
-arabic_ayat: فَاِذَا لَقِيۡتُمُ الَّذِيۡنَ كَفَرُوۡا فَضَرۡبَ الرِّقَابِ ؕ حَتّٰٓى
-  اِذَاۤ اَثۡخَنۡتُمُوۡهُمۡ فَشُدُّوۡا الۡوَثَاقَ ۙ فَاِمَّا مَنًّۢا بَعۡدُ وَاِمَّا
-  فِدَآءً حَتّٰى تَضَعَ الۡحَـرۡبُ اَوۡزَارَهَا ۛۚ  ذٰ لِكَ ​ۛؕ وَلَوۡ يَشَآءُ
-  اللّٰهُ لَانْـتَصَرَ مِنۡهُمۡ  وَلٰـكِنۡ لِّيَبۡلُوَا۟ بَعۡضَكُمۡ بِبَعۡضٍ​ؕ وَالَّذِيۡنَ
-  قُتِلُوۡا فِىۡ سَبِيۡلِ اللّٰهِ فَلَنۡ يُّضِلَّ اَعۡمَالَهُمۡ‏
+arabic_ayat: فَإِذَا لَقِيتُمُ ٱلَّذِينَ كَفَرُواْ فَضَرۡبَ ٱلرِّقَابِ حَتَّىٰٓ إِذَآ
+  أَثۡخَنتُمُوهُمۡ فَشُدُّواْ ٱلۡوَثَاقَ فَإِمَّا مَنَّۢا بَعۡدُ وَإِمَّا فِدَآءً
+  حَتَّىٰ تَضَعَ ٱلۡحَرۡبُ أَوۡزَارَهَاۚ ذَٰلِكَۖ وَلَوۡ يَشَآءُ ٱللَّهُ لَٱنتَصَرَ
+  مِنۡهُمۡ وَلَٰكِن لِّيَبۡلُوَاْ بَعۡضَكُم بِبَعۡضٖۗ وَٱلَّذِينَ قُتِلُواْ فِي سَبِيلِ
+  ٱللَّهِ فَلَن يُضِلَّ أَعۡمَٰلَهُمۡ
 sentence_translation: So when you meet the disbelievers ˹in battle˺, strike ˹their˺
   necks until you have thoroughly subdued them, then bind them firmly. Later ˹free
   them either as˺ an act of grace or by ransom until the war comes to an end. So will
@@ -12,19 +12,19 @@ sentence_translation: So when you meet the disbelievers ˹in battle˺, strike ˹
   in the cause of Allah, He will never render their deeds void.
 word_by_word:
   1:
-    arabic: فَاِذَا
+    arabic: فَإِذَا
     translation: So when
     transliteration: fa-idhā
   2:
-    arabic: لَقِيۡتُمُ
+    arabic: لَقِيتُمُ
     translation: you meet
     transliteration: laqītumu
   3:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   4:
-    arabic: كَفَرُوۡا
+    arabic: كَفَرُواْ
     translation: disbelieve
     transliteration: kafarū
   5:
@@ -32,35 +32,35 @@ word_by_word:
     translation: then strike
     transliteration: faḍarba
   6:
-    arabic: الرِّقَابِ ؕ
+    arabic: ٱلرِّقَابِ
     translation: the necks
     transliteration: l-riqābi
   7:
-    arabic: حَتّٰٓى
+    arabic: حَتَّىٰٓ
     translation: until
     transliteration: ḥattā
   8:
-    arabic: اِذَاۤ
+    arabic: إِذَآ
     translation: when
     transliteration: idhā
   9:
-    arabic: اَثۡخَنۡتُمُوۡهُمۡ
+    arabic: أَثۡخَنتُمُوهُمۡ
     translation: you have subdued them
     transliteration: athkhantumūhum
   10:
-    arabic: فَشُدُّوۡا
+    arabic: فَشُدُّواْ
     translation: then bind firmly
     transliteration: fashuddū
   11:
-    arabic: الۡوَثَاقَ ۙ
+    arabic: ٱلۡوَثَاقَ
     translation: the bond
     transliteration: l-wathāqa
   12:
-    arabic: فَاِمَّا
+    arabic: فَإِمَّا
     translation: then either
     transliteration: fa-immā
   13:
-    arabic: مَنًّۢا
+    arabic: مَنَّۢا
     translation: a favor
     transliteration: mannan
   14:
@@ -68,7 +68,7 @@ word_by_word:
     translation: afterwards
     transliteration: baʿdu
   15:
-    arabic: وَاِمَّا
+    arabic: وَإِمَّا
     translation: or
     transliteration: wa-immā
   16:
@@ -76,7 +76,7 @@ word_by_word:
     translation: ransom
     transliteration: fidāan
   17:
-    arabic: حَتّٰى
+    arabic: حَتَّىٰ
     translation: until
     transliteration: ḥattā
   18:
@@ -84,15 +84,15 @@ word_by_word:
     translation: lays down
     transliteration: taḍaʿa
   19:
-    arabic: الۡحَـرۡبُ
+    arabic: ٱلۡحَرۡبُ
     translation: the war
     transliteration: l-ḥarbu
   20:
-    arabic: اَوۡزَارَهَا ۛۚ  
+    arabic: أَوۡزَارَهَاۚ
     translation: its burdens
     transliteration: awzārahā
   21:
-    arabic: ذٰ لِكَ ​ۛؕ
+    arabic: ذَٰلِكَۖ
     translation: That
     transliteration: dhālika
   22:
@@ -104,63 +104,63 @@ word_by_word:
     translation: Allah had willed
     transliteration: yashāu
   24:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah had willed
     transliteration: l-lahu
   25:
-    arabic: لَانْـتَصَرَ
+    arabic: لَٱنتَصَرَ
     translation: surely, He could have taken retribution
     transliteration: la-intaṣara
   26:
-    arabic: مِنۡهُمۡ 
+    arabic: مِنۡهُمۡ
     translation: from them
     transliteration: min'hum
   27:
-    arabic: وَلٰـكِنۡ
+    arabic: وَلَٰكِن
     translation: but
     transliteration: walākin
   28:
-    arabic: لِّيَبۡلُوَا۟
+    arabic: لِّيَبۡلُوَاْ
     translation: to test
     transliteration: liyabluwā
   29:
-    arabic: بَعۡضَكُمۡ
+    arabic: بَعۡضَكُم
     translation: some of you
     transliteration: baʿḍakum
   30:
-    arabic: بِبَعۡضٍ​ؕ
+    arabic: بِبَعۡضٖۗ
     translation: with others
     transliteration: bibaʿḍin
   31:
-    arabic: وَالَّذِيۡنَ
+    arabic: وَٱلَّذِينَ
     translation: And those who
     transliteration: wa-alladhīna
   32:
-    arabic: قُتِلُوۡا
+    arabic: قُتِلُواْ
     translation: are killed
     transliteration: qutilū
   33:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   34:
-    arabic: سَبِيۡلِ
+    arabic: سَبِيلِ
     translation: (the) way of Allah
     transliteration: sabīli
   35:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (the) way of Allah
     transliteration: l-lahi
   36:
-    arabic: فَلَنۡ
+    arabic: فَلَن
     translation: then never
     transliteration: falan
   37:
-    arabic: يُّضِلَّ
+    arabic: يُضِلَّ
     translation: He will cause to be lost
     transliteration: yuḍilla
   38:
-    arabic: اَعۡمَالَهُمۡ‏
+    arabic: أَعۡمَٰلَهُمۡ
     translation: their deeds
     transliteration: aʿmālahum
 ---

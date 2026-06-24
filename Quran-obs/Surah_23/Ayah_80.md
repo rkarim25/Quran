@@ -1,6 +1,6 @@
 ---
-arabic_ayat: وَهُوَ الَّذِىۡ يُحۡىٖ وَيُمِيۡتُ وَلَـهُ اخۡتِلَافُ الَّيۡلِ وَالنَّهَارِ​ؕ
-  اَفَلَا تَعۡقِلُوۡنَ‏
+arabic_ayat: وَهُوَ ٱلَّذِي يُحۡيِۦ وَيُمِيتُ وَلَهُ ٱخۡتِلَٰفُ ٱلَّيۡلِ وَٱلنَّهَارِۚ
+  أَفَلَا تَعۡقِلُونَ
 sentence_translation: And He is the One Who gives life and causes death, and to Him
   belongs the alternation of the day and night. Will you not then understand?
 word_by_word:
@@ -9,39 +9,39 @@ word_by_word:
     translation: And He
     transliteration: wahuwa
   2:
-    arabic: الَّذِىۡ
+    arabic: ٱلَّذِي
     translation: (is) the One Who
     transliteration: alladhī
   3:
-    arabic: يُحۡىٖ
+    arabic: يُحۡيِۦ
     translation: gives life
     transliteration: yuḥ'yī
   4:
-    arabic: وَيُمِيۡتُ
+    arabic: وَيُمِيتُ
     translation: and causes death
     transliteration: wayumītu
   5:
-    arabic: وَلَـهُ
+    arabic: وَلَهُ
     translation: and for Him
     transliteration: walahu
   6:
-    arabic: اخۡتِلَافُ
+    arabic: ٱخۡتِلَٰفُ
     translation: (is the) alternation
     transliteration: ikh'tilāfu
   7:
-    arabic: الَّيۡلِ
+    arabic: ٱلَّيۡلِ
     translation: (of) the night
     transliteration: al-layli
   8:
-    arabic: وَالنَّهَارِ​ؕ
+    arabic: وَٱلنَّهَارِۚ
     translation: and the day
     transliteration: wal-nahāri
   9:
-    arabic: اَفَلَا
+    arabic: أَفَلَا
     translation: Then will not
     transliteration: afalā
   10:
-    arabic: تَعۡقِلُوۡنَ‏
+    arabic: تَعۡقِلُونَ
     translation: you reason
     transliteration: taʿqilūna
 ---

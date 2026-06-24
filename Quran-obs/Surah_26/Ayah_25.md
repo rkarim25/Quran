@@ -1,5 +1,5 @@
 ---
-arabic_ayat: قَالَ لِمَنۡ حَوۡلَهٗۤ اَلَا تَسۡتَمِعُوۡنَ‏
+arabic_ayat: قَالَ لِمَنۡ حَوۡلَهُۥٓ أَلَا تَسۡتَمِعُونَ
 sentence_translation: Pharaoh said to those around him, “Did you hear ˹what he said˺?”
 word_by_word:
   1:
@@ -11,15 +11,15 @@ word_by_word:
     translation: to those
     transliteration: liman
   3:
-    arabic: حَوۡلَهٗۤ
+    arabic: حَوۡلَهُۥٓ
     translation: around him
     transliteration: ḥawlahu
   4:
-    arabic: اَلَا
+    arabic: أَلَا
     translation: Do not
     transliteration: alā
   5:
-    arabic: تَسۡتَمِعُوۡنَ‏
+    arabic: تَسۡتَمِعُونَ
     translation: you hear
     transliteration: tastamiʿūna
 ---

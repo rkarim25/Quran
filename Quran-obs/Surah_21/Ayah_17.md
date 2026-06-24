@@ -1,6 +1,6 @@
 ---
-arabic_ayat: لَوۡ اَرَدۡنَاۤ اَنۡ نَّـتَّخِذَ لَهۡوًا لَّا تَّخَذۡنٰهُ مِنۡ لَّدُنَّاۤ 
-  ۖ  اِنۡ كُنَّا فٰعِلِيۡنَ‏
+arabic_ayat: لَوۡ أَرَدۡنَآ أَن نَّتَّخِذَ لَهۡوٗا لَّٱتَّخَذۡنَٰهُ مِن لَّدُنَّآ
+  إِن كُنَّا فَٰعِلِينَ
 sentence_translation: Had We intended to take ˹some˺ amusement, We could have found
   it in Our presence, if that had been Our Will.
 word_by_word:
@@ -9,35 +9,35 @@ word_by_word:
     translation: If
     transliteration: law
   2:
-    arabic: اَرَدۡنَاۤ
+    arabic: أَرَدۡنَآ
     translation: We intended
     transliteration: aradnā
   3:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that
     transliteration: an
   4:
-    arabic: نَّـتَّخِذَ
+    arabic: نَّتَّخِذَ
     translation: We take
     transliteration: nattakhidha
   5:
-    arabic: لَهۡوًا
+    arabic: لَهۡوٗا
     translation: a pastime
     transliteration: lahwan
   6:
-    arabic: لَّا تَّخَذۡنٰهُ
+    arabic: لَّٱتَّخَذۡنَٰهُ
     translation: surely We (could have) taken it
     transliteration: la-ittakhadhnāhu
   7:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   8:
-    arabic: لَّدُنَّاۤ  ۖ 
+    arabic: لَّدُنَّآ
     translation: Us
     transliteration: ladunnā
   9:
-    arabic: اِنۡ
+    arabic: إِن
     translation: if
     transliteration: in
   10:
@@ -45,7 +45,7 @@ word_by_word:
     translation: We were
     transliteration: kunnā
   11:
-    arabic: فٰعِلِيۡنَ‏
+    arabic: فَٰعِلِينَ
     translation: doers
     transliteration: fāʿilīna
 ---

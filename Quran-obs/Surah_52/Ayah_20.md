@@ -1,35 +1,34 @@
 ---
-arabic_ayat: "مُتَّكِـــِٕيۡنَ عَلٰى سُرُرٍ مَّصۡفُوۡفَةٍ​ ۚ وَزَوَّجۡنٰهُمۡ بِحُوۡرٍ\
-  \ عِيۡنٍ‏ \uFEFF\uFEFF"
+arabic_ayat: مُتَّكِـِٔينَ عَلَىٰ سُرُرٖ مَّصۡفُوفَةٖۖ وَزَوَّجۡنَٰهُم بِحُورٍ عِينٖ
 sentence_translation: They will be reclining on thrones, ˹neatly˺ lined up ˹facing
   each other˺. And We will pair them to maidens with gorgeous eyes.
 word_by_word:
   1:
-    arabic: مُتَّكِـــِٕيۡنَ
+    arabic: مُتَّكِـِٔينَ
     translation: Reclining
     transliteration: muttakiīna
   2:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: 'on'
     transliteration: ʿalā
   3:
-    arabic: سُرُرٍ
+    arabic: سُرُرٖ
     translation: thrones
     transliteration: sururin
   4:
-    arabic: مَّصۡفُوۡفَةٍ​ ۚ
+    arabic: مَّصۡفُوفَةٖۖ
     translation: lined up
     transliteration: maṣfūfatin
   5:
-    arabic: وَزَوَّجۡنٰهُمۡ
+    arabic: وَزَوَّجۡنَٰهُم
     translation: and We will marry them
     transliteration: wazawwajnāhum
   6:
-    arabic: بِحُوۡرٍ
+    arabic: بِحُورٍ
     translation: to fair ones
     transliteration: biḥūrin
   7:
-    arabic: "عِيۡنٍ‏ \uFEFF\uFEFF"
+    arabic: عِينٖ
     translation: (with) large eyes
     transliteration: ʿīnin
 ---

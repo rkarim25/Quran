@@ -1,22 +1,22 @@
 ---
-arabic_ayat: اِلَّا امۡرَاَتَهٗ قَدَّرۡنَاۤ ۙ اِنَّهَا لَمِنَ الۡغٰبِرِيۡنَ‏
+arabic_ayat: إِلَّا ٱمۡرَأَتَهُۥ قَدَّرۡنَآ إِنَّهَا لَمِنَ ٱلۡغَٰبِرِينَ
 sentence_translation: except his wife. We have determined that she will be one of
   the doomed.”
 word_by_word:
   1:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: Except
     transliteration: illā
   2:
-    arabic: امۡرَاَتَهٗ
+    arabic: ٱمۡرَأَتَهُۥ
     translation: his wife
     transliteration: im'ra-atahu
   3:
-    arabic: قَدَّرۡنَاۤ ۙ
+    arabic: قَدَّرۡنَآ
     translation: We have decreed
     transliteration: qaddarnā
   4:
-    arabic: اِنَّهَا
+    arabic: إِنَّهَا
     translation: that she
     transliteration: innahā
   5:
@@ -24,7 +24,7 @@ word_by_word:
     translation: (is) surely of
     transliteration: lamina
   6:
-    arabic: الۡغٰبِرِيۡنَ‏
+    arabic: ٱلۡغَٰبِرِينَ
     translation: those who remain behind
     transliteration: l-ghābirīna
 ---

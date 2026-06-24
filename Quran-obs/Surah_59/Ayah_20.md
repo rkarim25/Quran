@@ -1,6 +1,6 @@
 ---
-arabic_ayat: لَا يَسۡتَوِىۡۤ اَصۡحٰبُ النَّارِ وَاَصۡحٰبُ الۡجَـنَّةِ​ؕ اَصۡحٰبُ الۡجَـنَّةِ
-  هُمُ الۡفَآٮِٕزُوۡنَ‏
+arabic_ayat: لَا يَسۡتَوِيٓ أَصۡحَٰبُ ٱلنَّارِ وَأَصۡحَٰبُ ٱلۡجَنَّةِۚ أَصۡحَٰبُ ٱلۡجَنَّةِ
+  هُمُ ٱلۡفَآئِزُونَ
 sentence_translation: The residents of the Fire cannot be equal to the residents of
   Paradise. ˹Only˺ the residents of Paradise will be successful.
 word_by_word:
@@ -9,31 +9,31 @@ word_by_word:
     translation: Not
     transliteration: lā
   2:
-    arabic: يَسۡتَوِىۡۤ
+    arabic: يَسۡتَوِيٓ
     translation: equal
     transliteration: yastawī
   3:
-    arabic: اَصۡحٰبُ
+    arabic: أَصۡحَٰبُ
     translation: (are the) companions
     transliteration: aṣḥābu
   4:
-    arabic: النَّارِ
+    arabic: ٱلنَّارِ
     translation: (of) the Fire
     transliteration: l-nāri
   5:
-    arabic: وَاَصۡحٰبُ
+    arabic: وَأَصۡحَٰبُ
     translation: and (the) companions
     transliteration: wa-aṣḥābu
   6:
-    arabic: الۡجَـنَّةِ​ؕ
+    arabic: ٱلۡجَنَّةِۚ
     translation: (of) Paradise
     transliteration: l-janati
   7:
-    arabic: اَصۡحٰبُ
+    arabic: أَصۡحَٰبُ
     translation: (The) companions
     transliteration: aṣḥābu
   8:
-    arabic: الۡجَـنَّةِ
+    arabic: ٱلۡجَنَّةِ
     translation: (of) Paradise
     transliteration: l-janati
   9:
@@ -41,7 +41,7 @@ word_by_word:
     translation: they
     transliteration: humu
   10:
-    arabic: الۡفَآٮِٕزُوۡنَ‏
+    arabic: ٱلۡفَآئِزُونَ
     translation: (are) the achievers
     transliteration: l-fāizūna
 ---

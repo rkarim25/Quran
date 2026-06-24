@@ -1,7 +1,6 @@
 ---
-arabic_ayat: "وَنُفِخَ فِى الصُّوۡرِ فَصَعِقَ مَنۡ فِى السَّمٰوٰتِ وَمَنۡ فِى الۡاَرۡضِ\
-  \ اِلَّا مَنۡ شَآءَ اللّٰهُ​ ؕ ثُمَّ نُفِخَ فِيۡهِ اُخۡرٰى فَاِذَا هُمۡ قِيَامٌ\
-  \ يَّنۡظُرُوۡنَ‏ \uFEFF\uFEFF"
+arabic_ayat: وَنُفِخَ فِي ٱلصُّورِ فَصَعِقَ مَن فِي ٱلسَّمَٰوَٰتِ وَمَن فِي ٱلۡأَرۡضِ
+  إِلَّا مَن شَآءَ ٱللَّهُۖ ثُمَّ نُفِخَ فِيهِ أُخۡرَىٰ فَإِذَا هُمۡ قِيَامٞ يَنظُرُونَ
 sentence_translation: The Trumpet will be blown and all those in the heavens and all
   those on the earth will fall dead, except those Allah wills ˹to spare˺. Then it
   will be blown again and they will rise up at once, looking on ˹in anticipation˺.
@@ -11,11 +10,11 @@ word_by_word:
     translation: And (will) be blown
     transliteration: wanufikha
   2:
-    arabic: فِى
+    arabic: فِي
     translation: '[in]'
     transliteration: fī
   3:
-    arabic: الصُّوۡرِ
+    arabic: ٱلصُّورِ
     translation: the trumpet
     transliteration: l-ṣūri
   4:
@@ -23,35 +22,35 @@ word_by_word:
     translation: then (will) fall dead
     transliteration: faṣaʿiqa
   5:
-    arabic: مَنۡ
+    arabic: مَن
     translation: whoever
     transliteration: man
   6:
-    arabic: فِى
+    arabic: فِي
     translation: (is) in
     transliteration: fī
   7:
-    arabic: السَّمٰوٰتِ
+    arabic: ٱلسَّمَٰوَٰتِ
     translation: the heavens
     transliteration: l-samāwāti
   8:
-    arabic: وَمَنۡ
+    arabic: وَمَن
     translation: and whoever
     transliteration: waman
   9:
-    arabic: فِى
+    arabic: فِي
     translation: (is) on
     transliteration: fī
   10:
-    arabic: الۡاَرۡضِ
+    arabic: ٱلۡأَرۡضِ
     translation: the earth
     transliteration: l-arḍi
   11:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   12:
-    arabic: مَنۡ
+    arabic: مَن
     translation: whom
     transliteration: man
   13:
@@ -59,7 +58,7 @@ word_by_word:
     translation: Allah wills
     transliteration: shāa
   14:
-    arabic: اللّٰهُ​ ؕ
+    arabic: ٱللَّهُۖ
     translation: Allah wills
     transliteration: l-lahu
   15:
@@ -71,15 +70,15 @@ word_by_word:
     translation: (it will) be blown
     transliteration: nufikha
   17:
-    arabic: فِيۡهِ
+    arabic: فِيهِ
     translation: '[in it]'
     transliteration: fīhi
   18:
-    arabic: اُخۡرٰى
+    arabic: أُخۡرَىٰ
     translation: a second time
     transliteration: ukh'rā
   19:
-    arabic: فَاِذَا
+    arabic: فَإِذَا
     translation: and behold
     transliteration: fa-idhā
   20:
@@ -87,11 +86,11 @@ word_by_word:
     translation: They
     transliteration: hum
   21:
-    arabic: قِيَامٌ
+    arabic: قِيَامٞ
     translation: (will be) standing
     transliteration: qiyāmun
   22:
-    arabic: "يَّنۡظُرُوۡنَ‏ \uFEFF\uFEFF"
+    arabic: يَنظُرُونَ
     translation: waiting
     transliteration: yanẓurūna
 ---

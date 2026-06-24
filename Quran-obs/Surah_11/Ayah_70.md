@@ -1,7 +1,6 @@
 ---
-arabic_ayat: فَلَمَّا رَاٰۤ اَيۡدِيَهُمۡ لَا تَصِلُ اِلَيۡهِ نَـكِرَهُمۡ وَاَوۡجَسَ
-  مِنۡهُمۡ خِيۡفَةً​  ؕ قَالُوۡا لَا تَخَفۡ اِنَّاۤ اُرۡسِلۡنَاۤ اِلٰى قَوۡمِ لُوۡطٍ
-  ؕ‏
+arabic_ayat: فَلَمَّا رَءَآ أَيۡدِيَهُمۡ لَا تَصِلُ إِلَيۡهِ نَكِرَهُمۡ وَأَوۡجَسَ
+  مِنۡهُمۡ خِيفَةٗۚ قَالُواْ لَا تَخَفۡ إِنَّآ أُرۡسِلۡنَآ إِلَىٰ قَوۡمِ لُوطٖ
 sentence_translation: And when he saw that their hands did not reach for the food,
   he became suspicious and fearful of them. They reassured ˹him˺, “Do not be afraid!
   We are ˹angels˺ sent ˹only˺ against the people of Lot.”
@@ -11,11 +10,11 @@ word_by_word:
     translation: But when
     transliteration: falammā
   2:
-    arabic: رَاٰۤ
+    arabic: رَءَآ
     translation: he saw
     transliteration: raā
   3:
-    arabic: اَيۡدِيَهُمۡ
+    arabic: أَيۡدِيَهُمۡ
     translation: their hands
     transliteration: aydiyahum
   4:
@@ -27,15 +26,15 @@ word_by_word:
     translation: reaching
     transliteration: taṣilu
   6:
-    arabic: اِلَيۡهِ
+    arabic: إِلَيۡهِ
     translation: to it
     transliteration: ilayhi
   7:
-    arabic: نَـكِرَهُمۡ
+    arabic: نَكِرَهُمۡ
     translation: he felt unfamiliar of them
     transliteration: nakirahum
   8:
-    arabic: وَاَوۡجَسَ
+    arabic: وَأَوۡجَسَ
     translation: and felt apprehension
     transliteration: wa-awjasa
   9:
@@ -43,11 +42,11 @@ word_by_word:
     translation: from them
     transliteration: min'hum
   10:
-    arabic: خِيۡفَةً​  ؕ
+    arabic: خِيفَةٗۚ
     translation: '[a fear]'
     transliteration: khīfatan
   11:
-    arabic: قَالُوۡا
+    arabic: قَالُواْ
     translation: They said
     transliteration: qālū
   12:
@@ -59,15 +58,15 @@ word_by_word:
     translation: fear
     transliteration: takhaf
   14:
-    arabic: اِنَّاۤ
+    arabic: إِنَّآ
     translation: Indeed, we
     transliteration: innā
   15:
-    arabic: اُرۡسِلۡنَاۤ
+    arabic: أُرۡسِلۡنَآ
     translation: '[we] have been sent'
     transliteration: ur'sil'nā
   16:
-    arabic: اِلٰى
+    arabic: إِلَىٰ
     translation: to
     transliteration: ilā
   17:
@@ -75,7 +74,7 @@ word_by_word:
     translation: (the) people
     transliteration: qawmi
   18:
-    arabic: لُوۡطٍ ؕ‏
+    arabic: لُوطٖ
     translation: (of) Lut
     transliteration: lūṭin
 ---

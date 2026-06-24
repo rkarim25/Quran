@@ -1,25 +1,25 @@
 ---
-arabic_ayat: وَالَّذِيۡنَ اٰمَنُوۡا بِاللّٰهِ وَرُسُلِهٖ وَلَمۡ يُفَرِّقُوۡا بَيۡنَ
-  اَحَدٍ مِّنۡهُمۡ اُولٰٓٮِٕكَ سَوۡفَ يُؤۡتِيۡهِمۡ اُجُوۡرَهُمۡ ​ؕ وَكَانَ اللّٰهُ
-  غَفُوۡرًا رَّحِيۡمًا‏
+arabic_ayat: وَٱلَّذِينَ ءَامَنُواْ بِٱللَّهِ وَرُسُلِهِۦ وَلَمۡ يُفَرِّقُواْ بَيۡنَ
+  أَحَدٖ مِّنۡهُمۡ أُوْلَٰٓئِكَ سَوۡفَ يُؤۡتِيهِمۡ أُجُورَهُمۡۚ وَكَانَ ٱللَّهُ غَفُورٗا
+  رَّحِيمٗا
 sentence_translation: As for those who believe in Allah and His messengers—accepting
   all; rejecting none—He will surely give them their rewards. And Allah is All-Forgiving,
   Most Merciful.
 word_by_word:
   1:
-    arabic: وَالَّذِيۡنَ
+    arabic: وَٱلَّذِينَ ءَ
     translation: And those who
     transliteration: wa-alladhīna
   2:
-    arabic: اٰمَنُوۡا
+    arabic: امَنُواْ
     translation: believe
     transliteration: āmanū
   3:
-    arabic: بِاللّٰهِ
+    arabic: بِٱللَّهِ
     translation: in Allah
     transliteration: bil-lahi
   4:
-    arabic: وَرُسُلِهٖ
+    arabic: وَرُسُلِهِۦ
     translation: and His Messengers
     transliteration: warusulihi
   5:
@@ -27,7 +27,7 @@ word_by_word:
     translation: and not
     transliteration: walam
   6:
-    arabic: يُفَرِّقُوۡا
+    arabic: يُفَرِّقُواْ
     translation: they differentiate
     transliteration: yufarriqū
   7:
@@ -35,7 +35,7 @@ word_by_word:
     translation: between
     transliteration: bayna
   8:
-    arabic: اَحَدٍ
+    arabic: أَحَدٖ
     translation: (any) one
     transliteration: aḥadin
   9:
@@ -43,7 +43,7 @@ word_by_word:
     translation: of them
     transliteration: min'hum
   10:
-    arabic: اُولٰٓٮِٕكَ
+    arabic: أُوْلَٰٓئِكَ
     translation: 'those '
     transliteration: ulāika
   11:
@@ -51,11 +51,11 @@ word_by_word:
     translation: soon
     transliteration: sawfa
   12:
-    arabic: يُؤۡتِيۡهِمۡ
+    arabic: يُؤۡتِيهِمۡ
     translation: He will give them
     transliteration: yu'tīhim
   13:
-    arabic: اُجُوۡرَهُمۡ ​ؕ
+    arabic: أُجُورَهُمۡۚ
     translation: their reward
     transliteration: ujūrahum
   14:
@@ -63,15 +63,15 @@ word_by_word:
     translation: And is
     transliteration: wakāna
   15:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   16:
-    arabic: غَفُوۡرًا
+    arabic: غَفُورٗا
     translation: Oft-Forgiving
     transliteration: ghafūran
   17:
-    arabic: رَّحِيۡمًا‏
+    arabic: رَّحِيمٗا
     translation: Most Merciful
     transliteration: raḥīman
 ---

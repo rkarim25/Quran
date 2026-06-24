@@ -1,10 +1,10 @@
 ---
-arabic_ayat: وَمَكَرُوۡا وَمَكَرَاللّٰهُ ​ؕ وَاللّٰهُ خَيۡرُ الۡمَاكِرِيۡنَ‏
+arabic_ayat: وَمَكَرُواْ وَمَكَرَ ٱللَّهُۖ وَٱللَّهُ خَيۡرُ ٱلۡمَٰكِرِينَ
 sentence_translation: And the disbelievers made a plan ˹against Jesus˺, but Allah
   also planned—and Allah is the best of planners.
 word_by_word:
   1:
-    arabic: وَمَكَرُوۡا
+    arabic: وَمَكَرُواْ
     translation: And they schemed
     transliteration: wamakarū
   2:
@@ -12,11 +12,11 @@ word_by_word:
     translation: and planned
     transliteration: wamakara
   3:
-    arabic: اللّٰهُ ​ؕ
+    arabic: ٱللَّهُۖ
     translation: Allah
     transliteration: l-lahu
   4:
-    arabic: وَاللّٰهُ
+    arabic: وَٱللَّهُ
     translation: And Allah
     transliteration: wal-lahu
   5:
@@ -24,7 +24,7 @@ word_by_word:
     translation: (is the) best
     transliteration: khayru
   6:
-    arabic: الۡمَاكِرِيۡنَ‏
+    arabic: ٱلۡمَٰكِرِينَ
     translation: (of) the planners
     transliteration: l-mākirīna
 ---

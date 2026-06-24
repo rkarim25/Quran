@@ -1,10 +1,10 @@
 ---
-arabic_ayat: وَلَقَدۡ اَخَذَ اللّٰهُ مِيۡثَاقَ بَنِىۡۤ اِسۡرآءِيۡلَ​ۚ وَبَعَثۡنَا
-  مِنۡهُمُ اثۡنَىۡ عَشَرَ نَقِيۡبًا​ ؕ وَقَالَ اللّٰهُ اِنِّىۡ مَعَكُمۡ​ؕ لَٮِٕنۡ
-  اَقَمۡتُمُ الصَّلٰوةَ وَاٰتَيۡتُمُ الزَّكٰوةَ وَاٰمَنۡتُمۡ بِرُسُلِىۡ وَعَزَّرۡتُمُوۡهُمۡ
-  وَاَقۡرَضۡتُمُ اللّٰهَ قَرۡضًا حَسَنًا لَّاُكَفِّرَنَّ عَنۡكُمۡ سَيِّاٰتِكُمۡ وَلَاُدۡخِلَـنَّكُمۡ
-  جَنّٰتٍ تَجۡرِىۡ مِنۡ تَحۡتِهَا الۡاَنۡهٰرُ​ۚ فَمَنۡ كَفَرَ بَعۡدَ ذٰ لِكَ مِنۡكُمۡ
-  فَقَدۡ ضَلَّ سَوَآءَ السَّبِيۡلِ‏
+arabic_ayat: ۞ وَلَقَدۡ أَخَذَ ٱللَّهُ مِيثَٰقَ بَنِيٓ إِسۡرَٰٓءِيلَ وَبَعَثۡنَا مِنۡهُمُ
+  ٱثۡنَيۡ عَشَرَ نَقِيبٗاۖ وَقَالَ ٱللَّهُ إِنِّي مَعَكُمۡۖ لَئِنۡ أَقَمۡتُمُ ٱلصَّلَوٰةَ
+  وَءَاتَيۡتُمُ ٱلزَّكَوٰةَ وَءَامَنتُم بِرُسُلِي وَعَزَّرۡتُمُوهُمۡ وَأَقۡرَضۡتُمُ
+  ٱللَّهَ قَرۡضًا حَسَنٗا لَّأُكَفِّرَنَّ عَنكُمۡ سَيِّـَٔاتِكُمۡ وَلَأُدۡخِلَنَّكُمۡ
+  جَنَّٰتٖ تَجۡرِي مِن تَحۡتِهَا ٱلۡأَنۡهَٰرُۚ فَمَن كَفَرَ بَعۡدَ ذَٰلِكَ مِنكُمۡ
+  فَقَدۡ ضَلَّ سَوَآءَ ٱلسَّبِيلِ
 sentence_translation: Allah made a covenant with the Children of Israel and appointed
   twelve leaders from among them and ˹then˺ said, “I am truly with you. If you establish
   prayer, pay alms-tax, believe in My messengers, support them, and lend to Allah
@@ -13,27 +13,27 @@ sentence_translation: Allah made a covenant with the Children of Israel and appo
   from the Right Way.”
 word_by_word:
   1:
-    arabic: ۞ وَلَقَدۡ
+    arabic: ۞ وَلَقَدۡ
     translation: And certainly
     transliteration: walaqad
   2:
-    arabic: اَخَذَ
+    arabic: أَخَذَ
     translation: took
     transliteration: akhadha
   3:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   4:
-    arabic: مِيۡثَاقَ
+    arabic: مِيثَٰقَ
     translation: a Covenant
     transliteration: mīthāqa
   5:
-    arabic: بَنِىۡۤ
+    arabic: بَنِيٓ
     translation: (from the) Children
     transliteration: banī
   6:
-    arabic: اِسۡرآءِيۡلَ​ۚ
+    arabic: إِسۡرَٰٓءِيلَ
     translation: (of) Israel
     transliteration: is'rāīla
   7:
@@ -45,7 +45,7 @@ word_by_word:
     translation: among them
     transliteration: min'humu
   9:
-    arabic: اثۡنَىۡ
+    arabic: ٱثۡنَيۡ
     translation: two
     transliteration: ith'nay
   10:
@@ -53,7 +53,7 @@ word_by_word:
     translation: (and) ten
     transliteration: ʿashara
   11:
-    arabic: نَقِيۡبًا​ ؕ
+    arabic: نَقِيبٗاۖ
     translation: leaders
     transliteration: naqīban
   12:
@@ -61,55 +61,55 @@ word_by_word:
     translation: And said
     transliteration: waqāla
   13:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   14:
-    arabic: اِنِّىۡ
+    arabic: إِنِّي
     translation: Indeed, I (am)
     transliteration: innī
   15:
-    arabic: مَعَكُمۡ​ؕ
+    arabic: مَعَكُمۡۖ
     translation: with you
     transliteration: maʿakum
   16:
-    arabic: لَٮِٕنۡ
+    arabic: لَئِنۡ
     translation: if
     transliteration: la-in
   17:
-    arabic: اَقَمۡتُمُ
+    arabic: أَقَمۡتُمُ
     translation: you establish
     transliteration: aqamtumu
   18:
-    arabic: الصَّلٰوةَ
+    arabic: ٱلصَّلَوٰةَ
     translation: the prayer
     transliteration: l-ṣalata
   19:
-    arabic: وَاٰتَيۡتُمُ
+    arabic: وَءَاتَيۡتُمُ
     translation: and give
     transliteration: waātaytumu
   20:
-    arabic: الزَّكٰوةَ
+    arabic: ٱلزَّكَوٰةَ
     translation: the zakah
     transliteration: l-zakata
   21:
-    arabic: وَاٰمَنۡتُمۡ
+    arabic: وَءَامَنتُم
     translation: and you believe
     transliteration: waāmantum
   22:
-    arabic: بِرُسُلِىۡ
+    arabic: بِرُسُلِي
     translation: in My Messengers
     transliteration: birusulī
   23:
-    arabic: وَعَزَّرۡتُمُوۡهُمۡ
+    arabic: وَعَزَّرۡتُمُوهُمۡ
     translation: and you assist them
     transliteration: waʿazzartumūhum
   24:
-    arabic: وَاَقۡرَضۡتُمُ
+    arabic: وَأَقۡرَضۡتُمُ
     translation: and you loan
     transliteration: wa-aqraḍtumu
   25:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: (to) Allah
     transliteration: l-laha
   26:
@@ -117,35 +117,35 @@ word_by_word:
     translation: a loan
     transliteration: qarḍan
   27:
-    arabic: حَسَنًا
+    arabic: حَسَنٗا
     translation: goodly
     transliteration: ḥasanan
   28:
-    arabic: لَّاُكَفِّرَنَّ
+    arabic: لَّأُكَفِّرَنَّ
     translation: surely I will remove
     transliteration: la-ukaffiranna
   29:
-    arabic: عَنۡكُمۡ
+    arabic: عَنكُمۡ
     translation: from you
     transliteration: ʿankum
   30:
-    arabic: سَيِّاٰتِكُمۡ
+    arabic: سَيِّـَٔاتِكُمۡ
     translation: your evil deeds
     transliteration: sayyiātikum
   31:
-    arabic: وَلَاُدۡخِلَـنَّكُمۡ
+    arabic: وَلَأُدۡخِلَنَّكُمۡ
     translation: and I will surely admit you
     transliteration: wala-ud'khilannakum
   32:
-    arabic: جَنّٰتٍ
+    arabic: جَنَّٰتٖ
     translation: (to) gardens
     transliteration: jannātin
   33:
-    arabic: تَجۡرِىۡ
+    arabic: تَجۡرِي
     translation: flow
     transliteration: tajrī
   34:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   35:
@@ -153,11 +153,11 @@ word_by_word:
     translation: underneath them
     transliteration: taḥtihā
   36:
-    arabic: الۡاَنۡهٰرُ​ۚ
+    arabic: ٱلۡأَنۡهَٰرُۚ
     translation: the rivers
     transliteration: l-anhāru
   37:
-    arabic: فَمَنۡ
+    arabic: فَمَن
     translation: But whoever
     transliteration: faman
   38:
@@ -169,11 +169,11 @@ word_by_word:
     translation: after
     transliteration: baʿda
   40:
-    arabic: ذٰ لِكَ
+    arabic: ذَٰلِكَ
     translation: that
     transliteration: dhālika
   41:
-    arabic: مِنۡكُمۡ
+    arabic: مِنكُمۡ
     translation: among you
     transliteration: minkum
   42:
@@ -189,7 +189,7 @@ word_by_word:
     translation: (from) the way
     transliteration: sawāa
   45:
-    arabic: السَّبِيۡلِ‏
+    arabic: ٱلسَّبِيلِ
     translation: the right
     transliteration: l-sabīli
 ---

@@ -1,10 +1,10 @@
 ---
-arabic_ayat: فَاِمَّا نَذۡهَبَنَّ بِكَ فَاِنَّا مِنۡهُمۡ مُّنۡتَقِمُوۡنَۙ‏
+arabic_ayat: فَإِمَّا نَذۡهَبَنَّ بِكَ فَإِنَّا مِنۡهُم مُّنتَقِمُونَ
 sentence_translation: Even if We take you away ˹from this world˺, We will surely inflict
   punishment upon them.
 word_by_word:
   1:
-    arabic: فَاِمَّا
+    arabic: فَإِمَّا
     translation: And whether
     transliteration: fa-immā
   2:
@@ -16,15 +16,15 @@ word_by_word:
     translation: We take you away
     transliteration: bika
   4:
-    arabic: فَاِنَّا
+    arabic: فَإِنَّا
     translation: then indeed, We
     transliteration: fa-innā
   5:
-    arabic: مِنۡهُمۡ
+    arabic: مِنۡهُم
     translation: from them
     transliteration: min'hum
   6:
-    arabic: مُّنۡتَقِمُوۡنَۙ‏
+    arabic: مُّنتَقِمُونَ
     translation: (will) take retribution
     transliteration: muntaqimūna
 ---

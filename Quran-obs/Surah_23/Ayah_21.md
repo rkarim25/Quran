@@ -1,33 +1,32 @@
 ---
-arabic_ayat: وَ اِنَّ لَـكُمۡ فِى الۡاَنۡعَامِ لَعِبۡرَةً​   ؕ نُسۡقِيۡكُمۡ مِّمَّا
-  فِىۡ بُطُوۡنِهَا وَلَـكُمۡ فِيۡهَا مَنَافِعُ كَثِيۡرَةٌ وَّمِنۡهَا تَاۡكُلُوۡنَ
-  ۙ‏
+arabic_ayat: وَإِنَّ لَكُمۡ فِي ٱلۡأَنۡعَٰمِ لَعِبۡرَةٗۖ نُّسۡقِيكُم مِّمَّا فِي بُطُونِهَا
+  وَلَكُمۡ فِيهَا مَنَٰفِعُ كَثِيرَةٞ وَمِنۡهَا تَأۡكُلُونَ
 sentence_translation: And there is certainly a lesson for you in cattle, from whose
   bellies We give you ˹milk˺ to drink, and in them are many other benefits for you,
   and from them you may eat.
 word_by_word:
   1:
-    arabic: وَ اِنَّ
+    arabic: وَإِنَّ
     translation: And indeed
     transliteration: wa-inna
   2:
-    arabic: لَـكُمۡ
+    arabic: لَكُمۡ
     translation: for you
     transliteration: lakum
   3:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   4:
-    arabic: الۡاَنۡعَامِ
+    arabic: ٱلۡأَنۡعَٰمِ
     translation: the cattle
     transliteration: l-anʿāmi
   5:
-    arabic: لَعِبۡرَةً​   ؕ
+    arabic: لَعِبۡرَةٗۖ
     translation: surely, (is) a lesson
     transliteration: laʿib'ratan
   6:
-    arabic: نُسۡقِيۡكُمۡ
+    arabic: نُّسۡقِيكُم
     translation: We give you drink
     transliteration: nus'qīkum
   7:
@@ -35,35 +34,35 @@ word_by_word:
     translation: from what
     transliteration: mimmā
   8:
-    arabic: فِىۡ
+    arabic: فِي
     translation: (is) in
     transliteration: fī
   9:
-    arabic: بُطُوۡنِهَا
+    arabic: بُطُونِهَا
     translation: their bellies
     transliteration: buṭūnihā
   10:
-    arabic: وَلَـكُمۡ
+    arabic: وَلَكُمۡ
     translation: and for you
     transliteration: walakum
   11:
-    arabic: فِيۡهَا
+    arabic: فِيهَا
     translation: in them
     transliteration: fīhā
   12:
-    arabic: مَنَافِعُ
+    arabic: مَنَٰفِعُ
     translation: (are) benefits
     transliteration: manāfiʿu
   13:
-    arabic: كَثِيۡرَةٌ
+    arabic: كَثِيرَةٞ
     translation: many
     transliteration: kathīratun
   14:
-    arabic: وَّمِنۡهَا
+    arabic: وَمِنۡهَا
     translation: and of them
     transliteration: wamin'hā
   15:
-    arabic: تَاۡكُلُوۡنَ ۙ‏
+    arabic: تَأۡكُلُونَ
     translation: you eat
     transliteration: takulūna
 ---

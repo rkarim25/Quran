@@ -1,6 +1,6 @@
 ---
-arabic_ayat: "وَمَا مِنۡ غَآٮِٕبَةٍ فِى السَّمَآءِ وَالۡاَرۡضِ اِلَّا فِىۡ كِتٰبٍ\
-  \ مُّبِيۡنٍ‏ \uFEFF\uFEFF"
+arabic_ayat: وَمَا مِنۡ غَآئِبَةٖ فِي ٱلسَّمَآءِ وَٱلۡأَرۡضِ إِلَّا فِي كِتَٰبٖ
+  مُّبِينٍ
 sentence_translation: For there is nothing hidden in the heavens or the earth without
   being ˹written˺ in a perfect Record. 
 word_by_word:
@@ -13,35 +13,35 @@ word_by_word:
     translation: any (thing)
     transliteration: min
   3:
-    arabic: غَآٮِٕبَةٍ
+    arabic: غَآئِبَةٖ
     translation: hidden
     transliteration: ghāibatin
   4:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   5:
-    arabic: السَّمَآءِ
+    arabic: ٱلسَّمَآءِ
     translation: the heavens
     transliteration: l-samāi
   6:
-    arabic: وَالۡاَرۡضِ
+    arabic: وَٱلۡأَرۡضِ
     translation: and the earth
     transliteration: wal-arḍi
   7:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: but
     transliteration: illā
   8:
-    arabic: فِىۡ
+    arabic: فِي
     translation: (is) in
     transliteration: fī
   9:
-    arabic: كِتٰبٍ
+    arabic: كِتَٰبٖ
     translation: a Record
     transliteration: kitābin
   10:
-    arabic: "مُّبِيۡنٍ‏ \uFEFF\uFEFF"
+    arabic: مُّبِينٍ
     translation: clear
     transliteration: mubīnin
 ---

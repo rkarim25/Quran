@@ -1,6 +1,6 @@
 ---
-arabic_ayat: وَلَقَدۡ اَهۡلَكۡنَا مَا حَوۡلَـكُمۡ مِّنَ الۡقُرٰى وَصَرَّفۡنَا الۡاٰيٰتِ
-  لَعَلَّهُمۡ يَرۡجِعُوۡنَ‏
+arabic_ayat: وَلَقَدۡ أَهۡلَكۡنَا مَا حَوۡلَكُم مِّنَ ٱلۡقُرَىٰ وَصَرَّفۡنَا ٱلۡأٓيَٰتِ
+  لَعَلَّهُمۡ يَرۡجِعُونَ
 sentence_translation: We certainly destroyed the societies around you after having
   varied the signs so perhaps they would return ˹to the Right Path˺.
 word_by_word:
@@ -9,7 +9,7 @@ word_by_word:
     translation: And certainly
     transliteration: walaqad
   2:
-    arabic: اَهۡلَكۡنَا
+    arabic: أَهۡلَكۡنَا
     translation: We destroyed
     transliteration: ahlaknā
   3:
@@ -17,7 +17,7 @@ word_by_word:
     translation: what
     transliteration: mā
   4:
-    arabic: حَوۡلَـكُمۡ
+    arabic: حَوۡلَكُم
     translation: surrounds you
     transliteration: ḥawlakum
   5:
@@ -25,7 +25,7 @@ word_by_word:
     translation: of
     transliteration: mina
   6:
-    arabic: الۡقُرٰى
+    arabic: ٱلۡقُرَىٰ
     translation: the towns
     transliteration: l-qurā
   7:
@@ -33,7 +33,7 @@ word_by_word:
     translation: and We have diversified
     transliteration: waṣarrafnā
   8:
-    arabic: الۡاٰيٰتِ
+    arabic: ٱلۡأٓيَٰتِ
     translation: the Signs
     transliteration: l-āyāti
   9:
@@ -41,7 +41,7 @@ word_by_word:
     translation: that they may
     transliteration: laʿallahum
   10:
-    arabic: يَرۡجِعُوۡنَ‏
+    arabic: يَرۡجِعُونَ
     translation: return
     transliteration: yarjiʿūna
 ---

@@ -1,19 +1,19 @@
 ---
-arabic_ayat: وَ لَوۡ تَرٰٓى اِذۡ يَتَوَفَّى الَّذِيۡنَ كَفَرُوا​ ۙ الۡمَلٰٓٮِٕكَةُ
-  يَضۡرِبُوۡنَ وُجُوۡهَهُمۡ وَاَدۡبَارَهُمۡۚ وَذُوۡقُوۡا عَذَابَ الۡحَرِيۡقِ‏
+arabic_ayat: وَلَوۡ تَرَىٰٓ إِذۡ يَتَوَفَّى ٱلَّذِينَ كَفَرُواْ ٱلۡمَلَٰٓئِكَةُ يَضۡرِبُونَ
+  وُجُوهَهُمۡ وَأَدۡبَٰرَهُمۡ وَذُوقُواْ عَذَابَ ٱلۡحَرِيقِ
 sentence_translation: If only you could see when the angels take the souls of the
   disbelievers, beating their faces and backs, ˹saying,˺ “Taste the torment of burning!
 word_by_word:
   1:
-    arabic: وَ لَوۡ
+    arabic: وَلَوۡ
     translation: And if
     transliteration: walaw
   2:
-    arabic: تَرٰٓى
+    arabic: تَرَىٰٓ
     translation: you (could) see
     transliteration: tarā
   3:
-    arabic: اِذۡ
+    arabic: إِذۡ
     translation: when
     transliteration: idh
   4:
@@ -21,31 +21,31 @@ word_by_word:
     translation: take away souls
     transliteration: yatawaffā
   5:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: (of) those who
     transliteration: alladhīna
   6:
-    arabic: كَفَرُوا​ ۙ
+    arabic: كَفَرُواْ
     translation: disbelieve
     transliteration: kafarū
   7:
-    arabic: الۡمَلٰٓٮِٕكَةُ
+    arabic: ٱلۡمَلَٰٓئِكَةُ
     translation: the Angels
     transliteration: l-malāikatu
   8:
-    arabic: يَضۡرِبُوۡنَ
+    arabic: يَضۡرِبُونَ
     translation: striking
     transliteration: yaḍribūna
   9:
-    arabic: وُجُوۡهَهُمۡ
+    arabic: وُجُوهَهُمۡ
     translation: their faces
     transliteration: wujūhahum
   10:
-    arabic: وَاَدۡبَارَهُمۡۚ
+    arabic: وَأَدۡبَٰرَهُمۡ
     translation: and their backs
     transliteration: wa-adbārahum
   11:
-    arabic: وَذُوۡقُوۡا
+    arabic: وَذُوقُواْ
     translation: Taste
     transliteration: wadhūqū
   12:
@@ -53,7 +53,7 @@ word_by_word:
     translation: (the) punishment
     transliteration: ʿadhāba
   13:
-    arabic: الۡحَرِيۡقِ‏
+    arabic: ٱلۡحَرِيقِ
     translation: (of) the Blazing Fire
     transliteration: l-ḥarīqi
 ---

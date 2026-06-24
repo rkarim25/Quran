@@ -1,8 +1,7 @@
 ---
-arabic_ayat: وَمِنۡهُمُ الَّذِيۡنَ يُؤۡذُوۡنَ النَّبِىَّ وَيَقُوۡلُوۡنَ هُوَ اُذُنٌ​
-  ؕ قُلۡ اُذُنُ خَيۡرٍ لَّـكُمۡ يُؤۡمِنُ بِاللّٰهِ وَيُؤۡمِنُ لِلۡمُؤۡمِنِيۡنَ وَرَحۡمَةٌ
-  لِّـلَّذِيۡنَ اٰمَنُوۡا مِنۡكُمۡ​ ؕ وَالَّذِيۡنَ يُؤۡذُوۡنَ رَسُوۡلَ اللّٰهِ لَهُمۡ
-  عَذَابٌ اَ لِيۡمٌ‏
+arabic_ayat: وَمِنۡهُمُ ٱلَّذِينَ يُؤۡذُونَ ٱلنَّبِيَّ وَيَقُولُونَ هُوَ أُذُنٞۚ قُلۡ
+  أُذُنُ خَيۡرٖ لَّكُمۡ يُؤۡمِنُ بِٱللَّهِ وَيُؤۡمِنُ لِلۡمُؤۡمِنِينَ وَرَحۡمَةٞ لِّلَّذِينَ
+  ءَامَنُواْ مِنكُمۡۚ وَٱلَّذِينَ يُؤۡذُونَ رَسُولَ ٱللَّهِ لَهُمۡ عَذَابٌ أَلِيمٞ
 sentence_translation: And there are others who hurt the Prophet by saying, “He listens
   to anyone.” Say, ˹O Prophet,˺ “He listens to what is best for you. He believes in
   Allah, has faith in the believers, and is a mercy for those who believe among you.”
@@ -13,19 +12,19 @@ word_by_word:
     translation: And among them
     transliteration: wamin'humu
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: (are) those who
     transliteration: alladhīna
   3:
-    arabic: يُؤۡذُوۡنَ
+    arabic: يُؤۡذُونَ
     translation: hurt
     transliteration: yu'dhūna
   4:
-    arabic: النَّبِىَّ
+    arabic: ٱلنَّبِيَّ
     translation: the Prophet
     transliteration: l-nabiya
   5:
-    arabic: وَيَقُوۡلُوۡنَ
+    arabic: وَيَقُولُونَ
     translation: and they say
     transliteration: wayaqūlūna
   6:
@@ -33,7 +32,7 @@ word_by_word:
     translation: He is
     transliteration: huwa
   7:
-    arabic: اُذُنٌ​ ؕ
+    arabic: أُذُنٞۚ
     translation: (all) ear
     transliteration: udhunun
   8:
@@ -41,15 +40,15 @@ word_by_word:
     translation: Say
     transliteration: qul
   9:
-    arabic: اُذُنُ
+    arabic: أُذُنُ
     translation: An ear
     transliteration: udhunu
   10:
-    arabic: خَيۡرٍ
+    arabic: خَيۡرٖ
     translation: (of) goodness
     transliteration: khayrin
   11:
-    arabic: لَّـكُمۡ
+    arabic: لَّكُمۡ
     translation: for you
     transliteration: lakum
   12:
@@ -57,7 +56,7 @@ word_by_word:
     translation: he believes
     transliteration: yu'minu
   13:
-    arabic: بِاللّٰهِ
+    arabic: بِٱللَّهِ
     translation: in Allah
     transliteration: bil-lahi
   14:
@@ -65,39 +64,39 @@ word_by_word:
     translation: and believes
     transliteration: wayu'minu
   15:
-    arabic: لِلۡمُؤۡمِنِيۡنَ
+    arabic: لِلۡمُؤۡمِنِينَ
     translation: the believers
     transliteration: lil'mu'minīna
   16:
-    arabic: وَرَحۡمَةٌ
+    arabic: وَرَحۡمَةٞ
     translation: and (is) a mercy
     transliteration: waraḥmatun
   17:
-    arabic: لِّـلَّذِيۡنَ
+    arabic: لِّلَّذِينَ ءَ
     translation: to those who
     transliteration: lilladhīna
   18:
-    arabic: اٰمَنُوۡا
+    arabic: امَنُواْ
     translation: believe
     transliteration: āmanū
   19:
-    arabic: مِنۡكُمۡ​ ؕ
+    arabic: مِنكُمۡۚ
     translation: among you
     transliteration: minkum
   20:
-    arabic: وَالَّذِيۡنَ
+    arabic: وَٱلَّذِينَ
     translation: And those who
     transliteration: wa-alladhīna
   21:
-    arabic: يُؤۡذُوۡنَ
+    arabic: يُؤۡذُونَ
     translation: hurt
     transliteration: yu'dhūna
   22:
-    arabic: رَسُوۡلَ
+    arabic: رَسُولَ
     translation: (the) Messenger
     transliteration: rasūla
   23:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (of) Allah
     transliteration: l-lahi
   24:
@@ -109,7 +108,7 @@ word_by_word:
     translation: (is) a punishment
     transliteration: ʿadhābun
   26:
-    arabic: اَ لِيۡمٌ‏
+    arabic: أَلِيمٞ
     translation: painful
     transliteration: alīmun
 ---

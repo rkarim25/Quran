@@ -1,17 +1,17 @@
 ---
-arabic_ayat: الَّذِيۡنَ صَبَرُوۡا وَعَلٰى رَبِّهِمۡ يَتَوَكَّلُوۡنَ‏
+arabic_ayat: ٱلَّذِينَ صَبَرُواْ وَعَلَىٰ رَبِّهِمۡ يَتَوَكَّلُونَ
 sentence_translation: those who patiently endure, and put their trust in their Lord!
 word_by_word:
   1:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: Those who
     transliteration: alladhīna
   2:
-    arabic: صَبَرُوۡا
+    arabic: صَبَرُواْ
     translation: (are) patient
     transliteration: ṣabarū
   3:
-    arabic: وَعَلٰى
+    arabic: وَعَلَىٰ
     translation: and upon
     transliteration: waʿalā
   4:
@@ -19,7 +19,7 @@ word_by_word:
     translation: their Lord
     transliteration: rabbihim
   5:
-    arabic: يَتَوَكَّلُوۡنَ‏
+    arabic: يَتَوَكَّلُونَ
     translation: put their trust
     transliteration: yatawakkalūna
 ---

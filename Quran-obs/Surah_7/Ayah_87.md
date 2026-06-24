@@ -1,13 +1,13 @@
 ---
-arabic_ayat: وَاِنۡ كَانَ طَآٮِٕفَةٌ مِّنۡكُمۡ اٰمَنُوۡا بِالَّذِىۡۤ اُرۡسِلۡتُ بِهٖ
-  وَطَآٮِٕفَةٌ لَّمۡ يُؤۡمِنُوۡا فَاصۡبِرُوۡا حَتّٰى يَحۡكُمَ اللّٰهُ بَيۡنَنَا​
-  ۚ وَهُوَ خَيۡرُ الۡحٰكِمِيۡنَ‏
+arabic_ayat: وَإِن كَانَ طَآئِفَةٞ مِّنكُمۡ ءَامَنُواْ بِٱلَّذِيٓ أُرۡسِلۡتُ بِهِۦ
+  وَطَآئِفَةٞ لَّمۡ يُؤۡمِنُواْ فَٱصۡبِرُواْ حَتَّىٰ يَحۡكُمَ ٱللَّهُ بَيۡنَنَاۚ
+  وَهُوَ خَيۡرُ ٱلۡحَٰكِمِينَ
 sentence_translation: If some of you do believe in what I have been sent with while
   others do not, then be patient until Allah judges between us. He is the Best of
   Judges.”
 word_by_word:
   1:
-    arabic: وَاِنۡ
+    arabic: وَإِن
     translation: And if
     transliteration: wa-in
   2:
@@ -15,31 +15,31 @@ word_by_word:
     translation: (there) is
     transliteration: kāna
   3:
-    arabic: طَآٮِٕفَةٌ
+    arabic: طَآئِفَةٞ
     translation: a group
     transliteration: ṭāifatun
   4:
-    arabic: مِّنۡكُمۡ
+    arabic: مِّنكُمۡ ءَ
     translation: among you
     transliteration: minkum
   5:
-    arabic: اٰمَنُوۡا
+    arabic: امَنُواْ
     translation: (who has) believed
     transliteration: āmanū
   6:
-    arabic: بِالَّذِىۡۤ
+    arabic: بِٱلَّذِيٓ
     translation: in that which
     transliteration: bi-alladhī
   7:
-    arabic: اُرۡسِلۡتُ
+    arabic: أُرۡسِلۡتُ
     translation: I have been sent
     transliteration: ur'sil'tu
   8:
-    arabic: بِهٖ
+    arabic: بِهِۦ
     translation: with [it]
     transliteration: bihi
   9:
-    arabic: وَطَآٮِٕفَةٌ
+    arabic: وَطَآئِفَةٞ
     translation: and a group
     transliteration: waṭāifatun
   10:
@@ -47,15 +47,15 @@ word_by_word:
     translation: not
     transliteration: lam
   11:
-    arabic: يُؤۡمِنُوۡا
+    arabic: يُؤۡمِنُواْ
     translation: they believe
     transliteration: yu'minū
   12:
-    arabic: فَاصۡبِرُوۡا
+    arabic: فَٱصۡبِرُواْ
     translation: then be patient
     transliteration: fa-iṣ'birū
   13:
-    arabic: حَتّٰى
+    arabic: حَتَّىٰ
     translation: until
     transliteration: ḥattā
   14:
@@ -63,11 +63,11 @@ word_by_word:
     translation: judges
     transliteration: yaḥkuma
   15:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   16:
-    arabic: بَيۡنَنَا​ ۚ
+    arabic: بَيۡنَنَاۚ
     translation: between us
     transliteration: baynanā
   17:
@@ -79,7 +79,7 @@ word_by_word:
     translation: (is the) Best
     transliteration: khayru
   19:
-    arabic: الۡحٰكِمِيۡنَ‏
+    arabic: ٱلۡحَٰكِمِينَ
     translation: (of) [the] Judges
     transliteration: l-ḥākimīna
 ---

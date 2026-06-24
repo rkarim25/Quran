@@ -1,5 +1,5 @@
 ---
-arabic_ayat: ثُمَّ اَوۡلٰى لَكَ فَاَوۡلٰىؕ‏
+arabic_ayat: ثُمَّ أَوۡلَىٰ لَكَ فَأَوۡلَىٰٓ
 sentence_translation: Again, woe to you, and even more woe!
 word_by_word:
   1:
@@ -7,7 +7,7 @@ word_by_word:
     translation: Then
     transliteration: thumma
   2:
-    arabic: اَوۡلٰى
+    arabic: أَوۡلَىٰ
     translation: woe
     transliteration: awlā
   3:
@@ -15,7 +15,7 @@ word_by_word:
     translation: to you
     transliteration: laka
   4:
-    arabic: فَاَوۡلٰىؕ‏
+    arabic: فَأَوۡلَىٰٓ
     translation: and woe
     transliteration: fa-awlā
 ---

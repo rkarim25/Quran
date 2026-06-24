@@ -1,39 +1,39 @@
 ---
-arabic_ayat: "وَالَّذِيۡنَ سَعَوۡا فِىۡۤ اٰيٰتِنَا مُعٰجِزِيۡنَ اُولٰٓٮِٕكَ اَصۡحٰبُ\
-  \ الۡجَحِيۡمِ‏ \uFEFF\uFEFF"
+arabic_ayat: وَٱلَّذِينَ سَعَوۡاْ فِيٓ ءَايَٰتِنَا مُعَٰجِزِينَ أُوْلَٰٓئِكَ أَصۡحَٰبُ
+  ٱلۡجَحِيمِ
 sentence_translation: But those who strive to discredit Our revelations, they will
   be the residents of the Hellfire.”
 word_by_word:
   1:
-    arabic: وَالَّذِيۡنَ
+    arabic: وَٱلَّذِينَ
     translation: And those who
     transliteration: wa-alladhīna
   2:
-    arabic: سَعَوۡا
+    arabic: سَعَوۡاْ
     translation: strove
     transliteration: saʿaw
   3:
-    arabic: فِىۡۤ
+    arabic: فِيٓ ءَ
     translation: against
     transliteration: fī
   4:
-    arabic: اٰيٰتِنَا
+    arabic: ايَٰتِنَا
     translation: Our Verses
     transliteration: āyātinā
   5:
-    arabic: مُعٰجِزِيۡنَ
+    arabic: مُعَٰجِزِينَ
     translation: (to) cause failure
     transliteration: muʿājizīna
   6:
-    arabic: اُولٰٓٮِٕكَ
+    arabic: أُوْلَٰٓئِكَ
     translation: those
     transliteration: ulāika
   7:
-    arabic: اَصۡحٰبُ
+    arabic: أَصۡحَٰبُ
     translation: (are the) companions
     transliteration: aṣḥābu
   8:
-    arabic: "الۡجَحِيۡمِ‏ \uFEFF\uFEFF"
+    arabic: ٱلۡجَحِيمِ
     translation: (of) the Hellfire
     transliteration: l-jaḥīmi
 ---

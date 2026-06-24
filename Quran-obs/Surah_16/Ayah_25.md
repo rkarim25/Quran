@@ -1,28 +1,28 @@
 ---
-arabic_ayat: لِيَحۡمِلُوۡۤا اَوۡزَارَهُمۡ كَامِلَةً يَّوۡمَ الۡقِيٰمَةِ​ۙ وَمِنۡ اَوۡزَارِ
-  الَّذِيۡنَ يُضِلُّوۡنَهُمۡ بِغَيۡرِ عِلۡمٍ​ؕ اَلَا سَآءَ مَا يَزِرُوۡنَ‏
+arabic_ayat: لِيَحۡمِلُوٓاْ أَوۡزَارَهُمۡ كَامِلَةٗ يَوۡمَ ٱلۡقِيَٰمَةِ وَمِنۡ أَوۡزَارِ
+  ٱلَّذِينَ يُضِلُّونَهُم بِغَيۡرِ عِلۡمٍۗ أَلَا سَآءَ مَا يَزِرُونَ
 sentence_translation: Let them bear their burdens in full on the Day of Judgment as
   well as some of the burdens of those they mislead without knowledge. Evil indeed
   is what they will bear!
 word_by_word:
   1:
-    arabic: لِيَحۡمِلُوۡۤا
+    arabic: لِيَحۡمِلُوٓاْ
     translation: That they may bear
     transliteration: liyaḥmilū
   2:
-    arabic: اَوۡزَارَهُمۡ
+    arabic: أَوۡزَارَهُمۡ
     translation: their own burdens
     transliteration: awzārahum
   3:
-    arabic: كَامِلَةً
+    arabic: كَامِلَةٗ
     translation: (in) full
     transliteration: kāmilatan
   4:
-    arabic: يَّوۡمَ
+    arabic: يَوۡمَ
     translation: on (the) Day
     transliteration: yawma
   5:
-    arabic: الۡقِيٰمَةِ​ۙ
+    arabic: ٱلۡقِيَٰمَةِ
     translation: (of) the Resurrection
     transliteration: l-qiyāmati
   6:
@@ -30,15 +30,15 @@ word_by_word:
     translation: and of
     transliteration: wamin
   7:
-    arabic: اَوۡزَارِ
+    arabic: أَوۡزَارِ
     translation: the burdens
     transliteration: awzāri
   8:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: (of) those whom
     transliteration: alladhīna
   9:
-    arabic: يُضِلُّوۡنَهُمۡ
+    arabic: يُضِلُّونَهُم
     translation: they misled [them]
     transliteration: yuḍillūnahum
   10:
@@ -46,11 +46,11 @@ word_by_word:
     translation: without
     transliteration: bighayri
   11:
-    arabic: عِلۡمٍ​ؕ
+    arabic: عِلۡمٍۗ
     translation: knowledge
     transliteration: ʿil'min
   12:
-    arabic: اَلَا
+    arabic: أَلَا
     translation: Unquestionably
     transliteration: alā
   13:
@@ -62,7 +62,7 @@ word_by_word:
     translation: (is) what
     transliteration: mā
   15:
-    arabic: يَزِرُوۡنَ‏
+    arabic: يَزِرُونَ
     translation: they will bear
     transliteration: yazirūna
 ---

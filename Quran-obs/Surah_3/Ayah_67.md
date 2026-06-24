@@ -1,6 +1,6 @@
 ---
-arabic_ayat: مَا كَانَ اِبۡرٰهِيۡمُ يَهُوۡدِيًّا وَّلَا نَصۡرَانِيًّا وَّ لٰكِنۡ كَانَ
-  حَنِيۡفًا مُّسۡلِمًا ؕ وَمَا كَانَ مِنَ الۡمُشۡرِكِيۡنَ‏
+arabic_ayat: مَا كَانَ إِبۡرَٰهِيمُ يَهُودِيّٗا وَلَا نَصۡرَانِيّٗا وَلَٰكِن كَانَ
+  حَنِيفٗا مُّسۡلِمٗا وَمَا كَانَ مِنَ ٱلۡمُشۡرِكِينَ
 sentence_translation: Abraham was neither a Jew nor a Christian; he submitted in all
   uprightness and was not a polytheist.
 word_by_word:
@@ -13,23 +13,23 @@ word_by_word:
     translation: was
     transliteration: kāna
   3:
-    arabic: اِبۡرٰهِيۡمُ
+    arabic: إِبۡرَٰهِيمُ
     translation: Ibrahim
     transliteration: ib'rāhīmu
   4:
-    arabic: يَهُوۡدِيًّا
+    arabic: يَهُودِيّٗا
     translation: a Jew
     transliteration: yahūdiyyan
   5:
-    arabic: وَّلَا
+    arabic: وَلَا
     translation: and not
     transliteration: walā
   6:
-    arabic: نَصۡرَانِيًّا
+    arabic: نَصۡرَانِيّٗا
     translation: a Christian
     transliteration: naṣrāniyyan
   7:
-    arabic: وَّ لٰكِنۡ
+    arabic: وَلَٰكِن
     translation: '[and] but'
     transliteration: walākin
   8:
@@ -37,11 +37,11 @@ word_by_word:
     translation: he was
     transliteration: kāna
   9:
-    arabic: حَنِيۡفًا
+    arabic: حَنِيفٗا
     translation: a true
     transliteration: ḥanīfan
   10:
-    arabic: مُّسۡلِمًا ؕ
+    arabic: مُّسۡلِمٗا
     translation: Muslim
     transliteration: mus'liman
   11:
@@ -57,7 +57,7 @@ word_by_word:
     translation: from
     transliteration: mina
   14:
-    arabic: الۡمُشۡرِكِيۡنَ‏
+    arabic: ٱلۡمُشۡرِكِينَ
     translation: the polytheists
     transliteration: l-mush'rikīna
 ---

@@ -1,6 +1,5 @@
 ---
-arabic_ayat: وَلَا يَاۡتُوۡنَكَ بِمَثَلٍ اِلَّا جِئۡنٰكَ بِالۡحَـقِّ وَاَحۡسَنَ تَفۡسِيۡرًا
-  ؕ‏
+arabic_ayat: وَلَا يَأۡتُونَكَ بِمَثَلٍ إِلَّا جِئۡنَٰكَ بِٱلۡحَقِّ وَأَحۡسَنَ تَفۡسِيرًا
 sentence_translation: Whenever they bring you an argument, We come to you with the
   right refutation and the best explanation.
 word_by_word:
@@ -9,7 +8,7 @@ word_by_word:
     translation: And not
     transliteration: walā
   2:
-    arabic: يَاۡتُوۡنَكَ
+    arabic: يَأۡتُونَكَ
     translation: they come to you
     transliteration: yatūnaka
   3:
@@ -17,23 +16,23 @@ word_by_word:
     translation: with an example
     transliteration: bimathalin
   4:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: but
     transliteration: illā
   5:
-    arabic: جِئۡنٰكَ
+    arabic: جِئۡنَٰكَ
     translation: We bring you
     transliteration: ji'nāka
   6:
-    arabic: بِالۡحَـقِّ
+    arabic: بِٱلۡحَقِّ
     translation: the truth
     transliteration: bil-ḥaqi
   7:
-    arabic: وَاَحۡسَنَ
+    arabic: وَأَحۡسَنَ
     translation: and (the) best
     transliteration: wa-aḥsana
   8:
-    arabic: تَفۡسِيۡرًا ؕ‏
+    arabic: تَفۡسِيرًا
     translation: explanation
     transliteration: tafsīran
 ---

@@ -1,9 +1,9 @@
 ---
-arabic_ayat: الَّذِيۡنَ هُمۡ فِىۡ صَلَاتِهِمۡ خَاشِعُوۡنَ ۙ‏
+arabic_ayat: ٱلَّذِينَ هُمۡ فِي صَلَاتِهِمۡ خَٰشِعُونَ
 sentence_translation: those who humble themselves in prayer;
 word_by_word:
   1:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: Those who
     transliteration: alladhīna
   2:
@@ -11,7 +11,7 @@ word_by_word:
     translation: '[they]'
     transliteration: hum
   3:
-    arabic: فِىۡ
+    arabic: فِي
     translation: during
     transliteration: fī
   4:
@@ -19,7 +19,7 @@ word_by_word:
     translation: their prayers
     transliteration: ṣalātihim
   5:
-    arabic: خَاشِعُوۡنَ ۙ‏
+    arabic: خَٰشِعُونَ
     translation: (are) humbly submissive
     transliteration: khāshiʿūna
 ---

@@ -1,13 +1,13 @@
 ---
-arabic_ayat: اِلَّا ابۡتِغَآءَ وَجۡهِ رَبِّهِ الۡاَعۡلٰى​ۚ‏
+arabic_ayat: إِلَّا ٱبۡتِغَآءَ وَجۡهِ رَبِّهِ ٱلۡأَعۡلَىٰ
 sentence_translation: but seeking the pleasure of their Lord, the Most High.
 word_by_word:
   1:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: Except
     transliteration: illā
   2:
-    arabic: ابۡتِغَآءَ
+    arabic: ٱبۡتِغَآءَ
     translation: seeking
     transliteration: ib'tighāa
   3:
@@ -19,7 +19,7 @@ word_by_word:
     translation: (of) his Lord
     transliteration: rabbihi
   5:
-    arabic: الۡاَعۡلٰى​ۚ‏
+    arabic: ٱلۡأَعۡلَىٰ
     translation: the Most High
     transliteration: l-aʿlā
 ---

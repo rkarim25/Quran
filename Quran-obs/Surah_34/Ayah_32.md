@@ -1,6 +1,6 @@
 ---
-arabic_ayat: قَالَ الَّذِيۡنَ اسۡتَكۡبَرُوۡا لِلَّذِيۡنَ اسۡتُضۡعِفُوۡۤا اَنَحۡنُ
-  صَدَدۡنٰكُمۡ عَنِ الۡهُدٰى بَعۡدَ اِذۡ جَآءَكُمۡ بَلۡ كُنۡتُمۡ مُّجۡرِمِيۡنَ‏
+arabic_ayat: قَالَ ٱلَّذِينَ ٱسۡتَكۡبَرُواْ لِلَّذِينَ ٱسۡتُضۡعِفُوٓاْ أَنَحۡنُ صَدَدۡنَٰكُمۡ
+  عَنِ ٱلۡهُدَىٰ بَعۡدَ إِذۡ جَآءَكُمۖ بَلۡ كُنتُم مُّجۡرِمِينَ
 sentence_translation: The arrogant will respond to the lowly, “Did we ever hinder
   you from guidance after it came to you? In fact, you were wicked ˹on your own˺.”
 word_by_word:
@@ -9,27 +9,27 @@ word_by_word:
     translation: Will say
     transliteration: qāla
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   3:
-    arabic: اسۡتَكۡبَرُوۡا
+    arabic: ٱسۡتَكۡبَرُواْ
     translation: were arrogant
     transliteration: is'takbarū
   4:
-    arabic: لِلَّذِيۡنَ
+    arabic: لِلَّذِينَ
     translation: to those
     transliteration: lilladhīna
   5:
-    arabic: اسۡتُضۡعِفُوۡۤا
+    arabic: ٱسۡتُضۡعِفُوٓاْ
     translation: who were oppressed
     transliteration: us'tuḍ'ʿifū
   6:
-    arabic: اَنَحۡنُ
+    arabic: أَنَحۡنُ
     translation: Did we
     transliteration: anaḥnu
   7:
-    arabic: صَدَدۡنٰكُمۡ
+    arabic: صَدَدۡنَٰكُمۡ
     translation: avert you
     transliteration: ṣadadnākum
   8:
@@ -37,7 +37,7 @@ word_by_word:
     translation: from
     transliteration: ʿani
   9:
-    arabic: الۡهُدٰى
+    arabic: ٱلۡهُدَىٰ
     translation: the guidance
     transliteration: l-hudā
   10:
@@ -45,11 +45,11 @@ word_by_word:
     translation: after
     transliteration: baʿda
   11:
-    arabic: اِذۡ
+    arabic: إِذۡ
     translation: when
     transliteration: idh
   12:
-    arabic: جَآءَكُمۡ
+    arabic: جَآءَكُمۖ
     translation: it had come to you
     transliteration: jāakum
   13:
@@ -57,11 +57,11 @@ word_by_word:
     translation: Nay
     transliteration: bal
   14:
-    arabic: كُنۡتُمۡ
+    arabic: كُنتُم
     translation: you were
     transliteration: kuntum
   15:
-    arabic: مُّجۡرِمِيۡنَ‏
+    arabic: مُّجۡرِمِينَ
     translation: criminals
     transliteration: muj'rimīna
 ---

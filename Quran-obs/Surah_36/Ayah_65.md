@@ -1,11 +1,11 @@
 ---
-arabic_ayat: اَلۡيَوۡمَ نَخۡتِمُ عَلٰٓى اَفۡوَاهِهِمۡ وَتُكَلِّمُنَاۤ اَيۡدِيۡهِمۡ
-  وَتَشۡهَدُ اَرۡجُلُهُمۡ بِمَا كَانُوۡا يَكۡسِبُوۡنَ‏
+arabic_ayat: ٱلۡيَوۡمَ نَخۡتِمُ عَلَىٰٓ أَفۡوَٰهِهِمۡ وَتُكَلِّمُنَآ أَيۡدِيهِمۡ
+  وَتَشۡهَدُ أَرۡجُلُهُم بِمَا كَانُواْ يَكۡسِبُونَ
 sentence_translation: On this Day We will seal their mouths, their hands will speak
   to Us, and their feet will testify to what they used to commit.
 word_by_word:
   1:
-    arabic: اَلۡيَوۡمَ
+    arabic: ٱلۡيَوۡمَ
     translation: This Day
     transliteration: al-yawma
   2:
@@ -13,19 +13,19 @@ word_by_word:
     translation: We will seal
     transliteration: nakhtimu
   3:
-    arabic: عَلٰٓى
+    arabic: عَلَىٰٓ
     translation: '[on]'
     transliteration: ʿalā
   4:
-    arabic: اَفۡوَاهِهِمۡ
+    arabic: أَفۡوَٰهِهِمۡ
     translation: their mouths
     transliteration: afwāhihim
   5:
-    arabic: وَتُكَلِّمُنَاۤ
+    arabic: وَتُكَلِّمُنَآ
     translation: and will speak to Us
     transliteration: watukallimunā
   6:
-    arabic: اَيۡدِيۡهِمۡ
+    arabic: أَيۡدِيهِمۡ
     translation: their hands
     transliteration: aydīhim
   7:
@@ -33,7 +33,7 @@ word_by_word:
     translation: and will bear witness
     transliteration: watashhadu
   8:
-    arabic: اَرۡجُلُهُمۡ
+    arabic: أَرۡجُلُهُم
     translation: their feet
     transliteration: arjuluhum
   9:
@@ -41,11 +41,11 @@ word_by_word:
     translation: about what
     transliteration: bimā
   10:
-    arabic: كَانُوۡا
+    arabic: كَانُواْ
     translation: they used to
     transliteration: kānū
   11:
-    arabic: يَكۡسِبُوۡنَ‏
+    arabic: يَكۡسِبُونَ
     translation: earn
     transliteration: yaksibūna
 ---

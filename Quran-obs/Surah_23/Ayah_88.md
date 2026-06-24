@@ -1,6 +1,6 @@
 ---
-arabic_ayat: قُلۡ مَنۡۢ بِيَدِهٖ مَلَكُوۡتُ كُلِّ شَىۡءٍ وَّهُوَ يُجِيۡرُ وَلَا يُجَارُ
-  عَلَيۡهِ اِنۡ كُنۡتُمۡ تَعۡلَمُوۡنَ‏
+arabic_ayat: قُلۡ مَنۢ بِيَدِهِۦ مَلَكُوتُ كُلِّ شَيۡءٖ وَهُوَ يُجِيرُ وَلَا يُجَارُ
+  عَلَيۡهِ إِن كُنتُمۡ تَعۡلَمُونَ
 sentence_translation: Ask ˹them also,˺ “In Whose Hands is the authority over all things,
   protecting ˹all˺ while none can protect against Him, if you ˹really˺ know?”
 word_by_word:
@@ -9,15 +9,15 @@ word_by_word:
     translation: Say
     transliteration: qul
   2:
-    arabic: مَنۡۢ
+    arabic: مَنۢ
     translation: Who is (it)
     transliteration: man
   3:
-    arabic: بِيَدِهٖ
+    arabic: بِيَدِهِۦ
     translation: in Whose Hand(s)
     transliteration: biyadihi
   4:
-    arabic: مَلَكُوۡتُ
+    arabic: مَلَكُوتُ
     translation: (is the) dominion
     transliteration: malakūtu
   5:
@@ -25,15 +25,15 @@ word_by_word:
     translation: (of) all
     transliteration: kulli
   6:
-    arabic: شَىۡءٍ
+    arabic: شَيۡءٖ
     translation: things
     transliteration: shayin
   7:
-    arabic: وَّهُوَ
+    arabic: وَهُوَ
     translation: and He
     transliteration: wahuwa
   8:
-    arabic: يُجِيۡرُ
+    arabic: يُجِيرُ
     translation: protects
     transliteration: yujīru
   9:
@@ -49,15 +49,15 @@ word_by_word:
     translation: against Him
     transliteration: ʿalayhi
   12:
-    arabic: اِنۡ
+    arabic: إِن
     translation: If
     transliteration: in
   13:
-    arabic: كُنۡتُمۡ
+    arabic: كُنتُمۡ
     translation: you
     transliteration: kuntum
   14:
-    arabic: تَعۡلَمُوۡنَ‏
+    arabic: تَعۡلَمُونَ
     translation: know
     transliteration: taʿlamūna
 ---

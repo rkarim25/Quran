@@ -1,11 +1,11 @@
 ---
-arabic_ayat: كَذٰلِكَ نَقُصُّ عَلَيۡكَ مِنۡ اَنْۢبَآءِ مَا قَدۡ سَبَقَ​ ۚ وَقَدۡ
-  اٰتَيۡنٰكَ مِنۡ لَّدُنَّا ذِكۡرًا ​ ۖ​ ۚ‏
+arabic_ayat: كَذَٰلِكَ نَقُصُّ عَلَيۡكَ مِنۡ أَنۢبَآءِ مَا قَدۡ سَبَقَۚ وَقَدۡ ءَاتَيۡنَٰكَ
+  مِن لَّدُنَّا ذِكۡرٗا
 sentence_translation: This is how We relate to you ˹O Prophet˺ some of the stories
   of the past. And We have certainly granted you a Reminder from Us.
 word_by_word:
   1:
-    arabic: كَذٰلِكَ
+    arabic: كَذَٰلِكَ
     translation: Thus
     transliteration: kadhālika
   2:
@@ -21,7 +21,7 @@ word_by_word:
     translation: from
     transliteration: min
   5:
-    arabic: اَنْۢبَآءِ
+    arabic: أَنۢبَآءِ
     translation: (the) news
     transliteration: anbāi
   6:
@@ -33,19 +33,19 @@ word_by_word:
     translation: has preceded
     transliteration: qad
   8:
-    arabic: سَبَقَ​ ۚ
+    arabic: سَبَقَۚ
     translation: has preceded
     transliteration: sabaqa
   9:
-    arabic: وَقَدۡ
+    arabic: وَقَدۡ ءَ
     translation: And certainly
     transliteration: waqad
   10:
-    arabic: اٰتَيۡنٰكَ
+    arabic: اتَيۡنَٰكَ
     translation: We have given you
     transliteration: ātaynāka
   11:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   12:
@@ -53,7 +53,7 @@ word_by_word:
     translation: Us
     transliteration: ladunnā
   13:
-    arabic: ذِكۡرًا ​ ۖ​ ۚ‏
+    arabic: ذِكۡرٗا
     translation: a Reminder
     transliteration: dhik'ran
 ---

@@ -1,27 +1,27 @@
 ---
-arabic_ayat: لَهُمۡ مِّنۡ جَهَـنَّمَ مِهَادٌ وَّمِنۡ فَوۡقِهِمۡ غَوَاشٍ​ ؕ وَكَذٰلِكَ
-  نَجۡزِى الظّٰلِمِيۡنَ‏
+arabic_ayat: لَهُم مِّن جَهَنَّمَ مِهَادٞ وَمِن فَوۡقِهِمۡ غَوَاشٖۚ وَكَذَٰلِكَ نَجۡزِي
+  ٱلظَّٰلِمِينَ
 sentence_translation: Hell will be their bed; flames will be their cover. This is
   how We reward the wrongdoers.
 word_by_word:
   1:
-    arabic: لَهُمۡ
+    arabic: لَهُم
     translation: For them
     transliteration: lahum
   2:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: of
     transliteration: min
   3:
-    arabic: جَهَـنَّمَ
+    arabic: جَهَنَّمَ
     translation: (the) Hell
     transliteration: jahannama
   4:
-    arabic: مِهَادٌ
+    arabic: مِهَادٞ
     translation: (is) a bed
     transliteration: mihādun
   5:
-    arabic: وَّمِنۡ
+    arabic: وَمِن
     translation: and from
     transliteration: wamin
   6:
@@ -29,19 +29,19 @@ word_by_word:
     translation: over them
     transliteration: fawqihim
   7:
-    arabic: غَوَاشٍ​ ؕ
+    arabic: غَوَاشٖۚ
     translation: coverings
     transliteration: ghawāshin
   8:
-    arabic: وَكَذٰلِكَ
+    arabic: وَكَذَٰلِكَ
     translation: And thus
     transliteration: wakadhālika
   9:
-    arabic: نَجۡزِى
+    arabic: نَجۡزِي
     translation: We recompense
     transliteration: najzī
   10:
-    arabic: الظّٰلِمِيۡنَ‏
+    arabic: ٱلظَّٰلِمِينَ
     translation: the wrongdoers
     transliteration: l-ẓālimīna
 ---

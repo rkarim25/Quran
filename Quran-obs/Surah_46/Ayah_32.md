@@ -1,12 +1,12 @@
 ---
-arabic_ayat: وَمَنۡ لَّا يُجِبۡ دَاعِىَ اللّٰهِ فَلَيۡسَ بِمُعۡجِزٍ فِى الۡاَرۡضِ
-  وَلَيۡسَ لَهٗ مِنۡ دُوۡنِهٖۤ اَوۡلِيَآءُ ​ؕ اُولٰٓٮِٕكَ فِىۡ ضَلٰلٍ مُّبِيۡنٍ‏
+arabic_ayat: وَمَن لَّا يُجِبۡ دَاعِيَ ٱللَّهِ فَلَيۡسَ بِمُعۡجِزٖ فِي ٱلۡأَرۡضِ وَلَيۡسَ
+  لَهُۥ مِن دُونِهِۦٓ أَوۡلِيَآءُۚ أُوْلَٰٓئِكَ فِي ضَلَٰلٖ مُّبِينٍ
 sentence_translation: And whoever does not respond to the caller of Allah will have
   no escape on earth, nor will they have any protectors against Him. It is they who
   are clearly astray.”
 word_by_word:
   1:
-    arabic: وَمَنۡ
+    arabic: وَمَن
     translation: And whoever
     transliteration: waman
   2:
@@ -18,11 +18,11 @@ word_by_word:
     translation: respond
     transliteration: yujib
   4:
-    arabic: دَاعِىَ
+    arabic: دَاعِيَ
     translation: (to the) caller
     transliteration: dāʿiya
   5:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (of) Allah
     transliteration: l-lahi
   6:
@@ -30,15 +30,15 @@ word_by_word:
     translation: then not
     transliteration: falaysa
   7:
-    arabic: بِمُعۡجِزٍ
+    arabic: بِمُعۡجِزٖ
     translation: he can escape
     transliteration: bimuʿ'jizin
   8:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   9:
-    arabic: الۡاَرۡضِ
+    arabic: ٱلۡأَرۡضِ
     translation: the earth
     transliteration: l-arḍi
   10:
@@ -46,35 +46,35 @@ word_by_word:
     translation: and not
     transliteration: walaysa
   11:
-    arabic: لَهٗ
+    arabic: لَهُۥ
     translation: for him
     transliteration: lahu
   12:
-    arabic: مِنۡ
+    arabic: مِن
     translation: besides Him
     transliteration: min
   13:
-    arabic: دُوۡنِهٖۤ
+    arabic: دُونِهِۦٓ
     translation: besides Him
     transliteration: dūnihi
   14:
-    arabic: اَوۡلِيَآءُ ​ؕ
+    arabic: أَوۡلِيَآءُۚ
     translation: protectors
     transliteration: awliyāu
   15:
-    arabic: اُولٰٓٮِٕكَ
+    arabic: أُوْلَٰٓئِكَ
     translation: Those
     transliteration: ulāika
   16:
-    arabic: فِىۡ
+    arabic: فِي
     translation: (are) in
     transliteration: fī
   17:
-    arabic: ضَلٰلٍ
+    arabic: ضَلَٰلٖ
     translation: error
     transliteration: ḍalālin
   18:
-    arabic: مُّبِيۡنٍ‏
+    arabic: مُّبِينٍ
     translation: clear
     transliteration: mubīnin
 ---

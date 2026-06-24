@@ -1,51 +1,51 @@
 ---
-arabic_ayat: وَاذۡكُرۡ عَبۡدَنَاۤ اَيُّوۡبَۘ اِذۡ نَادٰى رَبَّهٗۤ اَنِّىۡ مَسَّنِىَ
-  الشَّيۡطٰنُ بِنُصۡبٍ وَّعَذَابٍؕ‏
+arabic_ayat: وَٱذۡكُرۡ عَبۡدَنَآ أَيُّوبَ إِذۡ نَادَىٰ رَبَّهُۥٓ أَنِّي مَسَّنِيَ
+  ٱلشَّيۡطَٰنُ بِنُصۡبٖ وَعَذَابٍ
 sentence_translation: And remember Our servant Job, when he cried out to his Lord,
   “Satan has afflicted me with distress and suffering.”
 word_by_word:
   1:
-    arabic: وَاذۡكُرۡ
+    arabic: وَٱذۡكُرۡ
     translation: And remember
     transliteration: wa-udh'kur
   2:
-    arabic: عَبۡدَنَاۤ
+    arabic: عَبۡدَنَآ
     translation: Our slave
     transliteration: ʿabdanā
   3:
-    arabic: اَيُّوۡبَۘ
+    arabic: أَيُّوبَ
     translation: Ayyub
     transliteration: ayyūba
   4:
-    arabic: اِذۡ
+    arabic: إِذۡ
     translation: when
     transliteration: idh
   5:
-    arabic: نَادٰى
+    arabic: نَادَىٰ
     translation: he called
     transliteration: nādā
   6:
-    arabic: رَبَّهٗۤ
+    arabic: رَبَّهُۥٓ
     translation: his Lord
     transliteration: rabbahu
   7:
-    arabic: اَنِّىۡ
+    arabic: أَنِّي
     translation: That [I]
     transliteration: annī
   8:
-    arabic: مَسَّنِىَ
+    arabic: مَسَّنِيَ
     translation: (has) touched me
     transliteration: massaniya
   9:
-    arabic: الشَّيۡطٰنُ
+    arabic: ٱلشَّيۡطَٰنُ
     translation: Shaitaan
     transliteration: l-shayṭānu
   10:
-    arabic: بِنُصۡبٍ
+    arabic: بِنُصۡبٖ
     translation: with distress
     transliteration: binuṣ'bin
   11:
-    arabic: وَّعَذَابٍؕ‏
+    arabic: وَعَذَابٍ
     translation: and suffering
     transliteration: waʿadhābin
 ---

@@ -1,6 +1,6 @@
 ---
-arabic_ayat: مِثۡلَ دَاۡبِ قَوۡمِ نُوۡحٍ وَّعَادٍ وَّثَمُوۡدَ وَالَّذِيۡنَ مِنۡۢ بَعۡدِهِمۡؕ
-  وَمَا اللّٰهُ يُرِيۡدُ ظُلۡمًا لِّلۡعِبَادِ‏
+arabic_ayat: مِثۡلَ دَأۡبِ قَوۡمِ نُوحٖ وَعَادٖ وَثَمُودَ وَٱلَّذِينَ مِنۢ بَعۡدِهِمۡۚ
+  وَمَا ٱللَّهُ يُرِيدُ ظُلۡمٗا لِّلۡعِبَادِ
 sentence_translation: like the fate of the people of Noah, ’Ȃd, Thamûd, and those
   after them. For Allah would never will to wrong ˹His˺ servants.
 word_by_word:
@@ -9,7 +9,7 @@ word_by_word:
     translation: Like
     transliteration: mith'la
   2:
-    arabic: دَاۡبِ
+    arabic: دَأۡبِ
     translation: (the) plight
     transliteration: dabi
   3:
@@ -17,27 +17,27 @@ word_by_word:
     translation: (of the) people
     transliteration: qawmi
   4:
-    arabic: نُوۡحٍ
+    arabic: نُوحٖ
     translation: (of) Nuh
     transliteration: nūḥin
   5:
-    arabic: وَّعَادٍ
+    arabic: وَعَادٖ
     translation: and Aad
     transliteration: waʿādin
   6:
-    arabic: وَّثَمُوۡدَ
+    arabic: وَثَمُودَ
     translation: and Thamud
     transliteration: wathamūda
   7:
-    arabic: وَالَّذِيۡنَ
+    arabic: وَٱلَّذِينَ
     translation: and those
     transliteration: wa-alladhīna
   8:
-    arabic: مِنۡۢ
+    arabic: مِنۢ
     translation: after them
     transliteration: min
   9:
-    arabic: بَعۡدِهِمۡؕ
+    arabic: بَعۡدِهِمۡۚ
     translation: after them
     transliteration: baʿdihim
   10:
@@ -45,19 +45,19 @@ word_by_word:
     translation: And Allah (does) not
     transliteration: wamā
   11:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: And Allah (does) not
     transliteration: l-lahu
   12:
-    arabic: يُرِيۡدُ
+    arabic: يُرِيدُ
     translation: want
     transliteration: yurīdu
   13:
-    arabic: ظُلۡمًا
+    arabic: ظُلۡمٗا
     translation: injustice
     transliteration: ẓul'man
   14:
-    arabic: لِّلۡعِبَادِ‏
+    arabic: لِّلۡعِبَادِ
     translation: for (His) slaves
     transliteration: lil'ʿibādi
 ---

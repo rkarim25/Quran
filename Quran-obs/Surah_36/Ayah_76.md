@@ -1,6 +1,5 @@
 ---
-arabic_ayat: "فَلَا يَحۡزُنۡكَ قَوۡلُهُمۡ​ۘ اِنَّا نَـعۡلَمُ مَا يُسِرُّوۡنَ وَمَا\
-  \ يُعۡلِنُوۡنَ‏ \uFEFF\uFEFF"
+arabic_ayat: فَلَا يَحۡزُنكَ قَوۡلُهُمۡۘ إِنَّا نَعۡلَمُ مَا يُسِرُّونَ وَمَا يُعۡلِنُونَ
 sentence_translation: So do not let their words grieve you ˹O Prophet˺. Indeed, We
   ˹fully˺ know what they conceal and what they reveal.
 word_by_word:
@@ -9,19 +8,19 @@ word_by_word:
     translation: So (let) not
     transliteration: falā
   2:
-    arabic: يَحۡزُنۡكَ
+    arabic: يَحۡزُنكَ
     translation: grieve you
     transliteration: yaḥzunka
   3:
-    arabic: قَوۡلُهُمۡ​ۘ
+    arabic: قَوۡلُهُمۡۘ
     translation: their speech
     transliteration: qawluhum
   4:
-    arabic: اِنَّا
+    arabic: إِنَّا
     translation: Indeed, We
     transliteration: innā
   5:
-    arabic: نَـعۡلَمُ
+    arabic: نَعۡلَمُ
     translation: '[We] know'
     transliteration: naʿlamu
   6:
@@ -29,7 +28,7 @@ word_by_word:
     translation: what
     transliteration: mā
   7:
-    arabic: يُسِرُّوۡنَ
+    arabic: يُسِرُّونَ
     translation: they conceal
     transliteration: yusirrūna
   8:
@@ -37,7 +36,7 @@ word_by_word:
     translation: and what
     transliteration: wamā
   9:
-    arabic: "يُعۡلِنُوۡنَ‏ \uFEFF\uFEFF"
+    arabic: يُعۡلِنُونَ
     translation: they declare
     transliteration: yuʿ'linūna
 ---

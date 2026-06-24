@@ -1,19 +1,19 @@
 ---
-arabic_ayat: وَّجَعَلَنِىۡ مُبٰـرَكًا اَيۡنَ مَا كُنۡتُ وَاَوۡصٰنِىۡ بِالصَّلٰوةِ
-  وَالزَّكٰوةِ مَا دُمۡتُ حَيًّا ​ۖ ‏
+arabic_ayat: وَجَعَلَنِي مُبَارَكًا أَيۡنَ مَا كُنتُ وَأَوۡصَٰنِي بِٱلصَّلَوٰةِ وَٱلزَّكَوٰةِ
+  مَا دُمۡتُ حَيّٗا
 sentence_translation: He has made me a blessing wherever I go, and bid me to establish
   prayer and give alms-tax as long as I live,
 word_by_word:
   1:
-    arabic: وَّجَعَلَنِىۡ
+    arabic: وَجَعَلَنِي
     translation: And He (has) made me
     transliteration: wajaʿalanī
   2:
-    arabic: مُبٰـرَكًا
+    arabic: مُبَارَكًا
     translation: blessed
     transliteration: mubārakan
   3:
-    arabic: اَيۡنَ
+    arabic: أَيۡنَ
     translation: wherever
     transliteration: ayna
   4:
@@ -21,19 +21,19 @@ word_by_word:
     translation: wherever
     transliteration: mā
   5:
-    arabic: كُنۡتُ
+    arabic: كُنتُ
     translation: I am
     transliteration: kuntu
   6:
-    arabic: وَاَوۡصٰنِىۡ
+    arabic: وَأَوۡصَٰنِي
     translation: and has enjoined (on) me
     transliteration: wa-awṣānī
   7:
-    arabic: بِالصَّلٰوةِ
+    arabic: بِٱلصَّلَوٰةِ
     translation: '[of] the prayer'
     transliteration: bil-ṣalati
   8:
-    arabic: وَالزَّكٰوةِ
+    arabic: وَٱلزَّكَوٰةِ
     translation: and zakah
     transliteration: wal-zakati
   9:
@@ -45,7 +45,7 @@ word_by_word:
     translation: as long as I am
     transliteration: dum'tu
   11:
-    arabic: حَيًّا ​ۖ ‏
+    arabic: حَيّٗا
     translation: alive
     transliteration: ḥayyan
 ---

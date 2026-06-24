@@ -1,29 +1,29 @@
 ---
-arabic_ayat: اَلَهُمۡ اَرۡجُلٌ يَّمۡشُوۡنَ بِهَآ اَمۡ لَهُمۡ اَيۡدٍ يَّبۡطِشُوۡنَ
-  بِهَآ اَمۡ لَهُمۡ اَعۡيُنٌ يُّبۡصِرُوۡنَ بِهَآ اَمۡ لَهُمۡ اٰذَانٌ يَّسۡمَعُوۡنَ
-  بِهَا​ ؕ قُلِ ادۡعُوۡا شُرَكَآءَكُمۡ ثُمَّ كِيۡدُوۡنِ فَلَا تُنۡظِرُوۡنِ‏
+arabic_ayat: أَلَهُمۡ أَرۡجُلٞ يَمۡشُونَ بِهَآۖ أَمۡ لَهُمۡ أَيۡدٖ يَبۡطِشُونَ بِهَآۖ
+  أَمۡ لَهُمۡ أَعۡيُنٞ يُبۡصِرُونَ بِهَآۖ أَمۡ لَهُمۡ ءَاذَانٞ يَسۡمَعُونَ بِهَاۗ
+  قُلِ ٱدۡعُواْ شُرَكَآءَكُمۡ ثُمَّ كِيدُونِ فَلَا تُنظِرُونِ
 sentence_translation: Do they have feet to walk with? Or hands to hold with? Or eyes
   to see with? Or ears to hear with? Say, ˹O Prophet,˺ “Call upon your associate-gods
   and conspire against me without delay!
 word_by_word:
   1:
-    arabic: اَلَهُمۡ
+    arabic: أَلَهُمۡ
     translation: Are for them
     transliteration: alahum
   2:
-    arabic: اَرۡجُلٌ
+    arabic: أَرۡجُلٞ
     translation: feet
     transliteration: arjulun
   3:
-    arabic: يَّمۡشُوۡنَ
+    arabic: يَمۡشُونَ
     translation: (to) walk
     transliteration: yamshūna
   4:
-    arabic: بِهَآ
+    arabic: بِهَآۖ
     translation: with [it]
     transliteration: bihā
   5:
-    arabic: اَمۡ
+    arabic: أَمۡ
     translation: or
     transliteration: am
   6:
@@ -31,19 +31,19 @@ word_by_word:
     translation: for them
     transliteration: lahum
   7:
-    arabic: اَيۡدٍ
+    arabic: أَيۡدٖ
     translation: hands
     transliteration: aydin
   8:
-    arabic: يَّبۡطِشُوۡنَ
+    arabic: يَبۡطِشُونَ
     translation: (to) hold
     transliteration: yabṭishūna
   9:
-    arabic: بِهَآ
+    arabic: بِهَآۖ
     translation: with [it]
     transliteration: bihā
   10:
-    arabic: اَمۡ
+    arabic: أَمۡ
     translation: or
     transliteration: am
   11:
@@ -51,35 +51,35 @@ word_by_word:
     translation: for them
     transliteration: lahum
   12:
-    arabic: اَعۡيُنٌ
+    arabic: أَعۡيُنٞ
     translation: eyes
     transliteration: aʿyunun
   13:
-    arabic: يُّبۡصِرُوۡنَ
+    arabic: يُبۡصِرُونَ
     translation: (to) see
     transliteration: yub'ṣirūna
   14:
-    arabic: بِهَآ
+    arabic: بِهَآۖ
     translation: with [it]
     transliteration: bihā
   15:
-    arabic: اَمۡ
+    arabic: أَمۡ
     translation: or
     transliteration: am
   16:
-    arabic: لَهُمۡ
+    arabic: لَهُمۡ ءَ
     translation: for them
     transliteration: lahum
   17:
-    arabic: اٰذَانٌ
+    arabic: اذَانٞ
     translation: ears
     transliteration: ādhānun
   18:
-    arabic: يَّسۡمَعُوۡنَ
+    arabic: يَسۡمَعُونَ
     translation: (to) hear
     transliteration: yasmaʿūna
   19:
-    arabic: بِهَا​ ؕ
+    arabic: بِهَاۗ
     translation: with [it]
     transliteration: bihā
   20:
@@ -87,7 +87,7 @@ word_by_word:
     translation: Say
     transliteration: quli
   21:
-    arabic: ادۡعُوۡا
+    arabic: ٱدۡعُواْ
     translation: Call
     transliteration: id'ʿū
   22:
@@ -99,7 +99,7 @@ word_by_word:
     translation: then
     transliteration: thumma
   24:
-    arabic: كِيۡدُوۡنِ
+    arabic: كِيدُونِ
     translation: scheme against me
     transliteration: kīdūni
   25:
@@ -107,7 +107,7 @@ word_by_word:
     translation: and (do) not
     transliteration: falā
   26:
-    arabic: تُنۡظِرُوۡنِ‏
+    arabic: تُنظِرُونِ
     translation: give me respite
     transliteration: tunẓirūni
 ---

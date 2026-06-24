@@ -1,14 +1,14 @@
 ---
-arabic_ayat: وَالۡـقَوَاعِدُ مِنَ النِّسَآءِ الّٰتِىۡ لَا يَرۡجُوۡنَ نِكَاحًا فَلَيۡسَ
-  عَلَيۡهِنَّ جُنَاحٌ اَنۡ يَّضَعۡنَ ثِيَابَهُنَّ غَيۡرَ مُتَبَـرِّجٰتٍ ۭ بِزِيۡنَةٍ​
-  ؕ وَاَنۡ يَّسۡتَعۡفِفۡنَ خَيۡرٌ لَّهُنَّ​ ؕ وَاللّٰهُ سَمِيۡعٌ عَلِيۡمٌ‏
+arabic_ayat: وَٱلۡقَوَٰعِدُ مِنَ ٱلنِّسَآءِ ٱلَّٰتِي لَا يَرۡجُونَ نِكَاحٗا فَلَيۡسَ
+  عَلَيۡهِنَّ جُنَاحٌ أَن يَضَعۡنَ ثِيَابَهُنَّ غَيۡرَ مُتَبَرِّجَٰتِۭ بِزِينَةٖۖ
+  وَأَن يَسۡتَعۡفِفۡنَ خَيۡرٞ لَّهُنَّۗ وَٱللَّهُ سَمِيعٌ عَلِيمٞ
 sentence_translation: As for elderly women past the age of marriage, there is no blame
   on them if they take off their ˹outer˺ garments, without revealing their adornments.
   But it is better for them if they avoid this ˹altogether˺. And Allah is All-Hearing,
   All-Knowing.
 word_by_word:
   1:
-    arabic: وَالۡـقَوَاعِدُ
+    arabic: وَٱلۡقَوَٰعِدُ
     translation: And postmenopausal
     transliteration: wal-qawāʿidu
   2:
@@ -16,11 +16,11 @@ word_by_word:
     translation: among
     transliteration: mina
   3:
-    arabic: النِّسَآءِ
+    arabic: ٱلنِّسَآءِ
     translation: the women
     transliteration: l-nisāi
   4:
-    arabic: الّٰتِىۡ
+    arabic: ٱلَّٰتِي
     translation: who
     transliteration: allātī
   5:
@@ -28,11 +28,11 @@ word_by_word:
     translation: (do) not
     transliteration: lā
   6:
-    arabic: يَرۡجُوۡنَ
+    arabic: يَرۡجُونَ
     translation: have desire
     transliteration: yarjūna
   7:
-    arabic: نِكَاحًا
+    arabic: نِكَاحٗا
     translation: (for) marriage
     transliteration: nikāḥan
   8:
@@ -48,11 +48,11 @@ word_by_word:
     translation: any blame
     transliteration: junāḥun
   11:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that
     transliteration: an
   12:
-    arabic: يَّضَعۡنَ
+    arabic: يَضَعۡنَ
     translation: they put aside
     transliteration: yaḍaʿna
   13:
@@ -64,39 +64,39 @@ word_by_word:
     translation: not
     transliteration: ghayra
   15:
-    arabic: مُتَبَـرِّجٰتٍ ۭ
+    arabic: مُتَبَرِّجَٰتِۭ
     translation: displaying
     transliteration: mutabarrijātin
   16:
-    arabic: بِزِيۡنَةٍ​ ؕ
+    arabic: بِزِينَةٖۖ
     translation: their adornment
     transliteration: bizīnatin
   17:
-    arabic: وَاَنۡ
+    arabic: وَأَن
     translation: And that
     transliteration: wa-an
   18:
-    arabic: يَّسۡتَعۡفِفۡنَ
+    arabic: يَسۡتَعۡفِفۡنَ
     translation: they modestly refrain
     transliteration: yastaʿfif'na
   19:
-    arabic: خَيۡرٌ
+    arabic: خَيۡرٞ
     translation: (is) better
     transliteration: khayrun
   20:
-    arabic: لَّهُنَّ​ ؕ
+    arabic: لَّهُنَّۗ
     translation: for them
     transliteration: lahunna
   21:
-    arabic: وَاللّٰهُ
+    arabic: وَٱللَّهُ
     translation: And Allah
     transliteration: wal-lahu
   22:
-    arabic: سَمِيۡعٌ
+    arabic: سَمِيعٌ
     translation: (is) All-Hearer
     transliteration: samīʿun
   23:
-    arabic: عَلِيۡمٌ‏
+    arabic: عَلِيمٞ
     translation: All-Knower
     transliteration: ʿalīmun
 ---

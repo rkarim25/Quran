@@ -1,13 +1,13 @@
 ---
-arabic_ayat: اَمۡ يَقُوۡلُوۡنَ نَحۡنُ جَمِيۡعٌ مُّنۡتَصِرٌ‏
+arabic_ayat: أَمۡ يَقُولُونَ نَحۡنُ جَمِيعٞ مُّنتَصِرٞ
 sentence_translation: Or do they say, “We are all ˹a˺ united ˹front˺, bound to prevail.”?
 word_by_word:
   1:
-    arabic: اَمۡ
+    arabic: أَمۡ
     translation: Or
     transliteration: am
   2:
-    arabic: يَقُوۡلُوۡنَ
+    arabic: يَقُولُونَ
     translation: (do) they say
     transliteration: yaqūlūna
   3:
@@ -15,11 +15,11 @@ word_by_word:
     translation: We
     transliteration: naḥnu
   4:
-    arabic: جَمِيۡعٌ
+    arabic: جَمِيعٞ
     translation: (are) an assembly
     transliteration: jamīʿun
   5:
-    arabic: مُّنۡتَصِرٌ‏
+    arabic: مُّنتَصِرٞ
     translation: helping (each other)
     transliteration: muntaṣirun
 ---

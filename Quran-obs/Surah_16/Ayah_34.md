@@ -1,15 +1,15 @@
 ---
-arabic_ayat: "فَاَصَابَهُمۡ سَيِّاٰتُ مَا عَمِلُوۡا وَحَاقَ بِهِمۡ مَّا كَانُوۡا بِهٖ\
-  \ يَسۡتَهۡزِءُوۡنَ‏ \uFEFF\uFEFF"
+arabic_ayat: فَأَصَابَهُمۡ سَيِّـَٔاتُ مَا عَمِلُواْ وَحَاقَ بِهِم مَّا كَانُواْ بِهِۦ
+  يَسۡتَهۡزِءُونَ
 sentence_translation: Then the evil ˹consequences˺ of their deeds overtook them, and
   they were overwhelmed by what they used to ridicule.
 word_by_word:
   1:
-    arabic: فَاَصَابَهُمۡ
+    arabic: فَأَصَابَهُمۡ
     translation: Then struck them
     transliteration: fa-aṣābahum
   2:
-    arabic: سَيِّاٰتُ
+    arabic: سَيِّـَٔاتُ
     translation: (the) evil (results)
     transliteration: sayyiātu
   3:
@@ -17,7 +17,7 @@ word_by_word:
     translation: (of) what
     transliteration: mā
   4:
-    arabic: عَمِلُوۡا
+    arabic: عَمِلُواْ
     translation: they did
     transliteration: ʿamilū
   5:
@@ -25,7 +25,7 @@ word_by_word:
     translation: and surrounded
     transliteration: waḥāqa
   6:
-    arabic: بِهِمۡ
+    arabic: بِهِم
     translation: them
     transliteration: bihim
   7:
@@ -33,15 +33,15 @@ word_by_word:
     translation: what
     transliteration: mā
   8:
-    arabic: كَانُوۡا
+    arabic: كَانُواْ
     translation: they used (to)
     transliteration: kānū
   9:
-    arabic: بِهٖ
+    arabic: بِهِۦ
     translation: '[of it]'
     transliteration: bihi
   10:
-    arabic: "يَسۡتَهۡزِءُوۡنَ‏ \uFEFF\uFEFF"
+    arabic: يَسۡتَهۡزِءُونَ
     translation: mock
     transliteration: yastahziūna
 ---

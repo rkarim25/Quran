@@ -1,5 +1,5 @@
 ---
-arabic_ayat: فَقَالَ اِنۡ هٰذَاۤ اِلَّا سِحۡرٌ يُّؤۡثَرُۙ‏
+arabic_ayat: فَقَالَ إِنۡ هَٰذَآ إِلَّا سِحۡرٞ يُؤۡثَرُ
 sentence_translation: saying, “This ˹Quran˺ is nothing but magic from the ancients.
 word_by_word:
   1:
@@ -7,23 +7,23 @@ word_by_word:
     translation: Then he said
     transliteration: faqāla
   2:
-    arabic: اِنۡ
+    arabic: إِنۡ
     translation: Not
     transliteration: in
   3:
-    arabic: هٰذَاۤ
+    arabic: هَٰذَآ
     translation: (is) this
     transliteration: hādhā
   4:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: but
     transliteration: illā
   5:
-    arabic: سِحۡرٌ
+    arabic: سِحۡرٞ
     translation: magic
     transliteration: siḥ'run
   6:
-    arabic: يُّؤۡثَرُۙ‏
+    arabic: يُؤۡثَرُ
     translation: imitated
     transliteration: yu'tharu
 ---

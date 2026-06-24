@@ -1,45 +1,45 @@
 ---
-arabic_ayat: قُلۡ اِنَّمَاۤ اَعِظُكُمۡ بِوَاحِدَةٍ ۚ اَنۡ تَقُوۡمُوۡا لِلّٰهِ مَثۡنٰى
-  وَفُرَادٰى ثُمَّ تَتَفَكَّرُوۡا مَا بِصَاحِبِكُمۡ مِّنۡ جِنَّةٍ ؕ اِنۡ هُوَ اِلَّا
-  نَذِيۡرٌ لَّـكُمۡ بَيۡنَ يَدَىۡ عَذَابٍ شَدِيۡدٍ‏
+arabic_ayat: ۞ قُلۡ إِنَّمَآ أَعِظُكُم بِوَٰحِدَةٍۖ أَن تَقُومُواْ لِلَّهِ مَثۡنَىٰ
+  وَفُرَٰدَىٰ ثُمَّ تَتَفَكَّرُواْۚ مَا بِصَاحِبِكُم مِّن جِنَّةٍۚ إِنۡ هُوَ إِلَّا
+  نَذِيرٞ لَّكُم بَيۡنَ يَدَيۡ عَذَابٖ شَدِيدٖ
 sentence_translation: 'Say, ˹O Prophet,˺ “I advise you to do ˹only˺ one thing: stand
   up for ˹the sake of˺ Allah—individually or in pairs—then reflect. Your fellow man is
   not insane. He is only a warner to you before ˹the coming of˺ a severe punishment.”'
 word_by_word:
   1:
-    arabic: ۞ قُلۡ
+    arabic: ۞ قُلۡ
     translation: Say
     transliteration: qul
   2:
-    arabic: اِنَّمَاۤ
+    arabic: إِنَّمَآ
     translation: Only
     transliteration: innamā
   3:
-    arabic: اَعِظُكُمۡ
+    arabic: أَعِظُكُم
     translation: I advise you
     transliteration: aʿiẓukum
   4:
-    arabic: بِوَاحِدَةٍ ۚ
+    arabic: بِوَٰحِدَةٍۖ
     translation: for one (thing)
     transliteration: biwāḥidatin
   5:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that
     transliteration: an
   6:
-    arabic: تَقُوۡمُوۡا
+    arabic: تَقُومُواْ
     translation: you stand
     transliteration: taqūmū
   7:
-    arabic: لِلّٰهِ
+    arabic: لِلَّهِ
     translation: for Allah
     transliteration: lillahi
   8:
-    arabic: مَثۡنٰى
+    arabic: مَثۡنَىٰ
     translation: (in) pairs
     transliteration: mathnā
   9:
-    arabic: وَفُرَادٰى
+    arabic: وَفُرَٰدَىٰ
     translation: and (as) individuals
     transliteration: wafurādā
   10:
@@ -47,7 +47,7 @@ word_by_word:
     translation: then
     transliteration: thumma
   11:
-    arabic: تَتَفَكَّرُوۡا
+    arabic: تَتَفَكَّرُواْۚ
     translation: reflect
     transliteration: tatafakkarū
   12:
@@ -55,19 +55,19 @@ word_by_word:
     translation: Not
     transliteration: mā
   13:
-    arabic: بِصَاحِبِكُمۡ
+    arabic: بِصَاحِبِكُم
     translation: (is in) your companion
     transliteration: biṣāḥibikum
   14:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: any
     transliteration: min
   15:
-    arabic: جِنَّةٍ ؕ
+    arabic: جِنَّةٍۚ
     translation: madness
     transliteration: jinnatin
   16:
-    arabic: اِنۡ
+    arabic: إِنۡ
     translation: Not
     transliteration: in
   17:
@@ -75,15 +75,15 @@ word_by_word:
     translation: he
     transliteration: huwa
   18:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: (is) except
     transliteration: illā
   19:
-    arabic: نَذِيۡرٌ
+    arabic: نَذِيرٞ
     translation: a warner
     transliteration: nadhīrun
   20:
-    arabic: لَّـكُمۡ
+    arabic: لَّكُم
     translation: for you
     transliteration: lakum
   21:
@@ -91,15 +91,15 @@ word_by_word:
     translation: before
     transliteration: bayna
   22:
-    arabic: يَدَىۡ
+    arabic: يَدَيۡ
     translation: before
     transliteration: yaday
   23:
-    arabic: عَذَابٍ
+    arabic: عَذَابٖ
     translation: a punishment
     transliteration: ʿadhābin
   24:
-    arabic: شَدِيۡدٍ‏
+    arabic: شَدِيدٖ
     translation: severe
     transliteration: shadīdin
 ---

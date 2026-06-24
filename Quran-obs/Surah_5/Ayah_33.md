@@ -1,8 +1,8 @@
 ---
-arabic_ayat: اِنَّمَا جَزٰٓؤُا الَّذِيۡنَ يُحَارِبُوۡنَ اللّٰهَ وَرَسُوۡلَهٗ وَيَسۡعَوۡنَ
-  فِى الۡاَرۡضِ فَسَادًا اَنۡ يُّقَتَّلُوۡۤا اَوۡ يُصَلَّبُوۡۤا اَوۡ تُقَطَّعَ اَيۡدِيۡهِمۡ
-  وَاَرۡجُلُهُمۡ مِّنۡ خِلَافٍ اَوۡ يُنۡفَوۡا مِنَ الۡاَرۡضِ​ؕ ذٰ لِكَ لَهُمۡ خِزۡىٌ
-  فِى الدُّنۡيَا​ وَ لَهُمۡ فِى الۡاٰخِرَةِ عَذَابٌ عَظِيۡمٌ ۙ‏
+arabic_ayat: إِنَّمَا جَزَٰٓؤُاْ ٱلَّذِينَ يُحَارِبُونَ ٱللَّهَ وَرَسُولَهُۥ وَيَسۡعَوۡنَ
+  فِي ٱلۡأَرۡضِ فَسَادًا أَن يُقَتَّلُوٓاْ أَوۡ يُصَلَّبُوٓاْ أَوۡ تُقَطَّعَ أَيۡدِيهِمۡ
+  وَأَرۡجُلُهُم مِّنۡ خِلَٰفٍ أَوۡ يُنفَوۡاْ مِنَ ٱلۡأَرۡضِۚ ذَٰلِكَ لَهُمۡ خِزۡيٞ
+  فِي ٱلدُّنۡيَاۖ وَلَهُمۡ فِي ٱلۡأٓخِرَةِ عَذَابٌ عَظِيمٌ
 sentence_translation: Indeed, the penalty for those who wage war against Allah and
   His Messenger and spread mischief in the land is death, crucifixion, cutting off
   their hands and feet on opposite sides, or exile from the land. This ˹penalty˺ is
@@ -10,27 +10,27 @@ sentence_translation: Indeed, the penalty for those who wage war against Allah a
   in the Hereafter.
 word_by_word:
   1:
-    arabic: اِنَّمَا
+    arabic: إِنَّمَا
     translation: Only
     transliteration: innamā
   2:
-    arabic: جَزٰٓؤُا
+    arabic: جَزَٰٓؤُاْ
     translation: (the) recompense
     transliteration: jazāu
   3:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: (for) those who
     transliteration: alladhīna
   4:
-    arabic: يُحَارِبُوۡنَ
+    arabic: يُحَارِبُونَ
     translation: wage war
     transliteration: yuḥāribūna
   5:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: (against) Allah
     transliteration: l-laha
   6:
-    arabic: وَرَسُوۡلَهٗ
+    arabic: وَرَسُولَهُۥ
     translation: and His Messenger
     transliteration: warasūlahu
   7:
@@ -38,11 +38,11 @@ word_by_word:
     translation: and strive
     transliteration: wayasʿawna
   8:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   9:
-    arabic: الۡاَرۡضِ
+    arabic: ٱلۡأَرۡضِ
     translation: the earth
     transliteration: l-arḍi
   10:
@@ -50,23 +50,23 @@ word_by_word:
     translation: spreading corruption
     transliteration: fasādan
   11:
-    arabic: اَنۡ
+    arabic: أَن
     translation: (is) that
     transliteration: an
   12:
-    arabic: يُّقَتَّلُوۡۤا
+    arabic: يُقَتَّلُوٓاْ
     translation: they be killed
     transliteration: yuqattalū
   13:
-    arabic: اَوۡ
+    arabic: أَوۡ
     translation: or
     transliteration: aw
   14:
-    arabic: يُصَلَّبُوۡۤا
+    arabic: يُصَلَّبُوٓاْ
     translation: they be crucified
     transliteration: yuṣallabū
   15:
-    arabic: اَوۡ
+    arabic: أَوۡ
     translation: or
     transliteration: aw
   16:
@@ -74,11 +74,11 @@ word_by_word:
     translation: be cut off
     transliteration: tuqaṭṭaʿa
   17:
-    arabic: اَيۡدِيۡهِمۡ
+    arabic: أَيۡدِيهِمۡ
     translation: their hands
     transliteration: aydīhim
   18:
-    arabic: وَاَرۡجُلُهُمۡ
+    arabic: وَأَرۡجُلُهُم
     translation: and their feet
     transliteration: wa-arjuluhum
   19:
@@ -86,15 +86,15 @@ word_by_word:
     translation: of
     transliteration: min
   20:
-    arabic: خِلَافٍ
+    arabic: خِلَٰفٍ
     translation: opposite sides
     transliteration: khilāfin
   21:
-    arabic: اَوۡ
+    arabic: أَوۡ
     translation: or
     transliteration: aw
   22:
-    arabic: يُنۡفَوۡا
+    arabic: يُنفَوۡاْ
     translation: they be exiled
     transliteration: yunfaw
   23:
@@ -102,11 +102,11 @@ word_by_word:
     translation: from
     transliteration: mina
   24:
-    arabic: الۡاَرۡضِ​ؕ
+    arabic: ٱلۡأَرۡضِۚ
     translation: the land
     transliteration: l-arḍi
   25:
-    arabic: ذٰ لِكَ
+    arabic: ذَٰلِكَ
     translation: That
     transliteration: dhālika
   26:
@@ -114,27 +114,27 @@ word_by_word:
     translation: (is) for them
     transliteration: lahum
   27:
-    arabic: خِزۡىٌ
+    arabic: خِزۡيٞ
     translation: disgrace
     transliteration: khiz'yun
   28:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   29:
-    arabic: الدُّنۡيَا​
+    arabic: ٱلدُّنۡيَاۖ
     translation: the world
     transliteration: l-dun'yā
   30:
-    arabic: وَ لَهُمۡ
+    arabic: وَلَهُمۡ
     translation: and for them
     transliteration: walahum
   31:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   32:
-    arabic: الۡاٰخِرَةِ
+    arabic: ٱلۡأٓخِرَةِ
     translation: the Hereafter
     transliteration: l-ākhirati
   33:
@@ -142,7 +142,7 @@ word_by_word:
     translation: (is) a punishment
     transliteration: ʿadhābun
   34:
-    arabic: عَظِيۡمٌ ۙ‏
+    arabic: عَظِيمٌ
     translation: great
     transliteration: ʿaẓīmun
 ---

@@ -1,5 +1,5 @@
 ---
-arabic_ayat: وَلَمۡ اَدۡرِ مَا حِسَابِيَهۡ​ۚ‏
+arabic_ayat: وَلَمۡ أَدۡرِ مَا حِسَابِيَهۡ
 sentence_translation: nor known anything of my reckoning!
 word_by_word:
   1:
@@ -7,7 +7,7 @@ word_by_word:
     translation: And not
     transliteration: walam
   2:
-    arabic: اَدۡرِ
+    arabic: أَدۡرِ
     translation: I had known
     transliteration: adri
   3:
@@ -15,7 +15,7 @@ word_by_word:
     translation: what
     transliteration: mā
   4:
-    arabic: حِسَابِيَهۡ​ۚ‏
+    arabic: حِسَابِيَهۡ
     translation: (is) my account
     transliteration: ḥisābiyah
 ---

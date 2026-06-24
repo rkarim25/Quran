@@ -1,36 +1,36 @@
 ---
-arabic_ayat: اِنِّىۡۤ اُرِيۡدُ اَنۡ تَبُوۡٓاَ بِاِثۡمِىۡ وَ اِثۡمِكَ فَتَكُوۡنَ مِنۡ
-  اَصۡحٰبِ النَّارِ​ۚ وَذٰ لِكَ جَزٰٓؤُا الظّٰلِمِيۡنَ​ۚ‏
+arabic_ayat: إِنِّيٓ أُرِيدُ أَن تَبُوٓأَ بِإِثۡمِي وَإِثۡمِكَ فَتَكُونَ مِنۡ أَصۡحَٰبِ
+  ٱلنَّارِۚ وَذَٰلِكَ جَزَٰٓؤُاْ ٱلظَّٰلِمِينَ
 sentence_translation: I want to let you bear your sin against me along with your other
   sins, then you will be one of those destined to the Fire. And that is the reward
   of the wrongdoers.”
 word_by_word:
   1:
-    arabic: اِنِّىۡۤ
+    arabic: إِنِّيٓ
     translation: Indeed, I
     transliteration: innī
   2:
-    arabic: اُرِيۡدُ
+    arabic: أُرِيدُ
     translation: wish
     transliteration: urīdu
   3:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that
     transliteration: an
   4:
-    arabic: تَبُوۡٓاَ
+    arabic: تَبُوٓأَ
     translation: you be laden
     transliteration: tabūa
   5:
-    arabic: بِاِثۡمِىۡ
+    arabic: بِإِثۡمِي
     translation: with my sin
     transliteration: bi-ith'mī
   6:
-    arabic: وَ اِثۡمِكَ
+    arabic: وَإِثۡمِكَ
     translation: and your sin
     transliteration: wa-ith'mika
   7:
-    arabic: فَتَكُوۡنَ
+    arabic: فَتَكُونَ
     translation: so you will be
     transliteration: fatakūna
   8:
@@ -38,23 +38,23 @@ word_by_word:
     translation: among
     transliteration: min
   9:
-    arabic: اَصۡحٰبِ
+    arabic: أَصۡحَٰبِ
     translation: (the) companions
     transliteration: aṣḥābi
   10:
-    arabic: النَّارِ​ۚ
+    arabic: ٱلنَّارِۚ
     translation: (of) the Fire
     transliteration: l-nāri
   11:
-    arabic: وَذٰ لِكَ
+    arabic: وَذَٰلِكَ
     translation: and that
     transliteration: wadhālika
   12:
-    arabic: جَزٰٓؤُا
+    arabic: جَزَٰٓؤُاْ
     translation: (is the) recompense
     transliteration: jazāu
   13:
-    arabic: الظّٰلِمِيۡنَ​ۚ‏
+    arabic: ٱلظَّٰلِمِينَ
     translation: (of) the wrong-doers
     transliteration: l-ẓālimīna
 ---

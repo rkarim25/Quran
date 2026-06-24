@@ -1,19 +1,19 @@
 ---
-arabic_ayat: وَالسّٰبِقُوۡنَ الۡاَوَّلُوۡنَ مِنَ الۡمُهٰجِرِيۡنَ وَالۡاَنۡصَارِ وَالَّذِيۡنَ
-  اتَّبَعُوۡهُمۡ بِاِحۡسَانٍ ۙ رَّضِىَ اللّٰهُ عَنۡهُمۡ وَرَضُوۡا عَنۡهُ وَاَعَدَّ
-  لَهُمۡ جَنّٰتٍ تَجۡرِىۡ تَحۡتَهَا الۡاَنۡهٰرُ خٰلِدِيۡنَ فِيۡهَاۤ اَبَدًا​ ؕ ذٰ
-  لِكَ الۡـفَوۡزُ الۡعَظِيۡمُ‏
+arabic_ayat: وَٱلسَّٰبِقُونَ ٱلۡأَوَّلُونَ مِنَ ٱلۡمُهَٰجِرِينَ وَٱلۡأَنصَارِ وَٱلَّذِينَ
+  ٱتَّبَعُوهُم بِإِحۡسَٰنٖ رَّضِيَ ٱللَّهُ عَنۡهُمۡ وَرَضُواْ عَنۡهُ وَأَعَدَّ لَهُمۡ
+  جَنَّٰتٖ تَجۡرِي تَحۡتَهَا ٱلۡأَنۡهَٰرُ خَٰلِدِينَ فِيهَآ أَبَدٗاۚ ذَٰلِكَ ٱلۡفَوۡزُ
+  ٱلۡعَظِيمُ
 sentence_translation: As for the foremost—the first of the Emigrants and the Helpers—and
   those who follow them in goodness, Allah is pleased with them and they are pleased
   with Him. And He has prepared for them Gardens under which rivers flow, to stay
   there for ever and ever. That is the ultimate triumph.
 word_by_word:
   1:
-    arabic: وَالسّٰبِقُوۡنَ
+    arabic: وَٱلسَّٰبِقُونَ
     translation: And the forerunners
     transliteration: wal-sābiqūna
   2:
-    arabic: الۡاَوَّلُوۡنَ
+    arabic: ٱلۡأَوَّلُونَ
     translation: the first
     transliteration: l-awalūna
   3:
@@ -21,31 +21,31 @@ word_by_word:
     translation: among
     transliteration: mina
   4:
-    arabic: الۡمُهٰجِرِيۡنَ
+    arabic: ٱلۡمُهَٰجِرِينَ
     translation: the emigrants
     transliteration: l-muhājirīna
   5:
-    arabic: وَالۡاَنۡصَارِ
+    arabic: وَٱلۡأَنصَارِ
     translation: and the helpers
     transliteration: wal-anṣāri
   6:
-    arabic: وَالَّذِيۡنَ
+    arabic: وَٱلَّذِينَ
     translation: and those who
     transliteration: wa-alladhīna
   7:
-    arabic: اتَّبَعُوۡهُمۡ
+    arabic: ٱتَّبَعُوهُم
     translation: followed them
     transliteration: ittabaʿūhum
   8:
-    arabic: بِاِحۡسَانٍ ۙ
+    arabic: بِإِحۡسَٰنٖ
     translation: in righteousness
     transliteration: bi-iḥ'sānin
   9:
-    arabic: رَّضِىَ
+    arabic: رَّضِيَ
     translation: Allah is pleased
     transliteration: raḍiya
   10:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah is pleased
     transliteration: l-lahu
   11:
@@ -53,7 +53,7 @@ word_by_word:
     translation: with them
     transliteration: ʿanhum
   12:
-    arabic: وَرَضُوۡا
+    arabic: وَرَضُواْ
     translation: and they are pleased
     transliteration: waraḍū
   13:
@@ -61,7 +61,7 @@ word_by_word:
     translation: with Him
     transliteration: ʿanhu
   14:
-    arabic: وَاَعَدَّ
+    arabic: وَأَعَدَّ
     translation: And He has prepared
     transliteration: wa-aʿadda
   15:
@@ -69,11 +69,11 @@ word_by_word:
     translation: for them
     transliteration: lahum
   16:
-    arabic: جَنّٰتٍ
+    arabic: جَنَّٰتٖ
     translation: Gardens
     transliteration: jannātin
   17:
-    arabic: تَجۡرِىۡ
+    arabic: تَجۡرِي
     translation: flows
     transliteration: tajrī
   18:
@@ -81,31 +81,31 @@ word_by_word:
     translation: underneath it
     transliteration: taḥtahā
   19:
-    arabic: الۡاَنۡهٰرُ
+    arabic: ٱلۡأَنۡهَٰرُ
     translation: the rivers
     transliteration: l-anhāru
   20:
-    arabic: خٰلِدِيۡنَ
+    arabic: خَٰلِدِينَ
     translation: will abide
     transliteration: khālidīna
   21:
-    arabic: فِيۡهَاۤ
+    arabic: فِيهَآ
     translation: in it
     transliteration: fīhā
   22:
-    arabic: اَبَدًا​ ؕ
+    arabic: أَبَدٗاۚ
     translation: forever
     transliteration: abadan
   23:
-    arabic: ذٰ لِكَ
+    arabic: ذَٰلِكَ
     translation: That
     transliteration: dhālika
   24:
-    arabic: الۡـفَوۡزُ
+    arabic: ٱلۡفَوۡزُ
     translation: (is) the success
     transliteration: l-fawzu
   25:
-    arabic: الۡعَظِيۡمُ‏
+    arabic: ٱلۡعَظِيمُ
     translation: the great
     transliteration: l-ʿaẓīmu
 ---

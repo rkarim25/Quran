@@ -1,10 +1,10 @@
 ---
-arabic_ayat: اَ تَّخَذۡنٰهُمۡ سِخۡرِيًّا اَمۡ زَاغَتۡ عَنۡهُمُ الۡاَبۡصَارُ‏
+arabic_ayat: أَتَّخَذۡنَٰهُمۡ سِخۡرِيًّا أَمۡ زَاغَتۡ عَنۡهُمُ ٱلۡأَبۡصَٰرُ
 sentence_translation: Were we wrong in mocking them ˹in the world˺? Or do our eyes
   ˹just˺ fail to see them ˹in the Fire˺?”
 word_by_word:
   1:
-    arabic: اَ تَّخَذۡنٰهُمۡ
+    arabic: أَتَّخَذۡنَٰهُمۡ
     translation: Did we take them
     transliteration: attakhadhnāhum
   2:
@@ -12,7 +12,7 @@ word_by_word:
     translation: (in) ridicule
     transliteration: sikh'riyyan
   3:
-    arabic: اَمۡ
+    arabic: أَمۡ
     translation: or
     transliteration: am
   4:
@@ -24,7 +24,7 @@ word_by_word:
     translation: from them
     transliteration: ʿanhumu
   6:
-    arabic: الۡاَبۡصَارُ‏
+    arabic: ٱلۡأَبۡصَٰرُ
     translation: the vision
     transliteration: l-abṣāru
 ---

@@ -1,39 +1,39 @@
 ---
-arabic_ayat: وَرَاَ الۡمُجۡرِمُوۡنَ النَّارَ فَظَنُّوۡۤا اَنَّهُمۡ مُّوَاقِعُوۡهَا
-  وَ لَمۡ يَجِدُوۡا عَنۡهَا مَصۡرِفًا‏
+arabic_ayat: وَرَءَا ٱلۡمُجۡرِمُونَ ٱلنَّارَ فَظَنُّوٓاْ أَنَّهُم مُّوَاقِعُوهَا وَلَمۡ
+  يَجِدُواْ عَنۡهَا مَصۡرِفٗا
 sentence_translation: The wicked will see the Fire and realize that they are bound
   to fall into it, and will find no way to avoid it.
 word_by_word:
   1:
-    arabic: وَرَاَ
+    arabic: وَرَءَا
     translation: And will see
     transliteration: waraā
   2:
-    arabic: الۡمُجۡرِمُوۡنَ
+    arabic: ٱلۡمُجۡرِمُونَ
     translation: the criminals
     transliteration: l-muj'rimūna
   3:
-    arabic: النَّارَ
+    arabic: ٱلنَّارَ
     translation: the Fire
     transliteration: l-nāra
   4:
-    arabic: فَظَنُّوۡۤا
+    arabic: فَظَنُّوٓاْ
     translation: and they (will be) certain
     transliteration: faẓannū
   5:
-    arabic: اَنَّهُمۡ
+    arabic: أَنَّهُم
     translation: that they
     transliteration: annahum
   6:
-    arabic: مُّوَاقِعُوۡهَا
+    arabic: مُّوَاقِعُوهَا
     translation: are to fall in it
     transliteration: muwāqiʿūhā
   7:
-    arabic: وَ لَمۡ
+    arabic: وَلَمۡ
     translation: And not
     transliteration: walam
   8:
-    arabic: يَجِدُوۡا
+    arabic: يَجِدُواْ
     translation: they will find
     transliteration: yajidū
   9:
@@ -41,7 +41,7 @@ word_by_word:
     translation: from it
     transliteration: ʿanhā
   10:
-    arabic: مَصۡرِفًا‏
+    arabic: مَصۡرِفٗا
     translation: a way of escape
     transliteration: maṣrifan
 ---

@@ -1,6 +1,6 @@
 ---
-arabic_ayat: قَالَ هِىَ عَصَاىَ​ۚ اَتَوَكَّؤُا عَلَيۡهَا وَاَهُشُّ بِهَا عَلٰى غَـنَمِىۡ
-  وَلِىَ فِيۡهَا مَاٰرِبُ اُخۡرٰى‏
+arabic_ayat: قَالَ هِيَ عَصَايَ أَتَوَكَّؤُاْ عَلَيۡهَا وَأَهُشُّ بِهَا عَلَىٰ غَنَمِي
+  وَلِيَ فِيهَا مَـَٔارِبُ أُخۡرَىٰ
 sentence_translation: He replied, “It is my staff! I lean on it, and with it I beat
   down ˹branches˺ for my sheep, and have other uses for it.”
 word_by_word:
@@ -9,15 +9,15 @@ word_by_word:
     translation: He said
     transliteration: qāla
   2:
-    arabic: هِىَ
+    arabic: هِيَ
     translation: It
     transliteration: hiya
   3:
-    arabic: عَصَاىَ​ۚ
+    arabic: عَصَايَ
     translation: (is) my staff
     transliteration: ʿaṣāya
   4:
-    arabic: اَتَوَكَّؤُا
+    arabic: أَتَوَكَّؤُاْ
     translation: I lean
     transliteration: atawakka-u
   5:
@@ -25,7 +25,7 @@ word_by_word:
     translation: upon it
     transliteration: ʿalayhā
   6:
-    arabic: وَاَهُشُّ
+    arabic: وَأَهُشُّ
     translation: and I bring down leaves
     transliteration: wa-ahushu
   7:
@@ -33,27 +33,27 @@ word_by_word:
     translation: with it
     transliteration: bihā
   8:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: for
     transliteration: ʿalā
   9:
-    arabic: غَـنَمِىۡ
+    arabic: غَنَمِي
     translation: my sheep
     transliteration: ghanamī
   10:
-    arabic: وَلِىَ
+    arabic: وَلِيَ
     translation: and for me
     transliteration: waliya
   11:
-    arabic: فِيۡهَا
+    arabic: فِيهَا
     translation: in it
     transliteration: fīhā
   12:
-    arabic: مَاٰرِبُ
+    arabic: مَـَٔارِبُ
     translation: (are) uses
     transliteration: maāribu
   13:
-    arabic: اُخۡرٰى‏
+    arabic: أُخۡرَىٰ
     translation: other
     transliteration: ukh'rā
 ---

@@ -1,9 +1,9 @@
 ---
-arabic_ayat: اۨلَّذِىۡ جَمَعَ مَالًا وَّعَدَّدَهٗ ۙ‏
+arabic_ayat: ٱلَّذِي جَمَعَ مَالٗا وَعَدَّدَهُۥ
 sentence_translation: who amasses wealth ˹greedily˺ and counts it ˹repeatedly˺,
 word_by_word:
   1:
-    arabic: اۨلَّذِىۡ
+    arabic: ٱلَّذِي
     translation: The one who
     transliteration: alladhī
   2:
@@ -11,11 +11,11 @@ word_by_word:
     translation: collects
     transliteration: jamaʿa
   3:
-    arabic: مَالًا
+    arabic: مَالٗا
     translation: wealth
     transliteration: mālan
   4:
-    arabic: وَّعَدَّدَهٗ ۙ‏
+    arabic: وَعَدَّدَهُۥ
     translation: and counts it
     transliteration: waʿaddadahu
 ---

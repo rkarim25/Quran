@@ -1,9 +1,9 @@
 ---
-arabic_ayat: اَلَمۡ يَكُ نُطۡفَةً مِّنۡ مَّنِىٍّ يُّمۡنٰىۙ‏
+arabic_ayat: أَلَمۡ يَكُ نُطۡفَةٗ مِّن مَّنِيّٖ يُمۡنَىٰ
 sentence_translation: Were they not ˹once˺ a sperm-drop emitted?
 word_by_word:
   1:
-    arabic: اَلَمۡ
+    arabic: أَلَمۡ
     translation: Was not
     transliteration: alam
   2:
@@ -11,19 +11,19 @@ word_by_word:
     translation: he
     transliteration: yaku
   3:
-    arabic: نُطۡفَةً
+    arabic: نُطۡفَةٗ
     translation: a semen-drop
     transliteration: nuṭ'fatan
   4:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: of
     transliteration: min
   5:
-    arabic: مَّنِىٍّ
+    arabic: مَّنِيّٖ
     translation: semen
     transliteration: maniyyin
   6:
-    arabic: يُّمۡنٰىۙ‏
+    arabic: يُمۡنَىٰ
     translation: emitted
     transliteration: yum'nā
 ---

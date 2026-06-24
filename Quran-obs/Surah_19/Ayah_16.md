@@ -1,31 +1,31 @@
 ---
-arabic_ayat: وَاذۡكُرۡ فِى الۡـكِتٰبِ مَرۡيَمَ​ۘ اِذِ انْتَبَذَتۡ مِنۡ اَهۡلِهَا مَكَانًا
-  شَرۡقِيًّا ۙ‏
+arabic_ayat: وَٱذۡكُرۡ فِي ٱلۡكِتَٰبِ مَرۡيَمَ إِذِ ٱنتَبَذَتۡ مِنۡ أَهۡلِهَا مَكَانٗا
+  شَرۡقِيّٗا
 sentence_translation: And mention in the Book ˹O Prophet, the story of˺ Mary when
   she withdrew from her family to a place in the east,
 word_by_word:
   1:
-    arabic: وَاذۡكُرۡ
+    arabic: وَٱذۡكُرۡ
     translation: And mention
     transliteration: wa-udh'kur
   2:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   3:
-    arabic: الۡـكِتٰبِ
+    arabic: ٱلۡكِتَٰبِ
     translation: the Book
     transliteration: l-kitābi
   4:
-    arabic: مَرۡيَمَ​ۘ
+    arabic: مَرۡيَمَ
     translation: Maryam
     transliteration: maryama
   5:
-    arabic: اِذِ
+    arabic: إِذِ
     translation: when
     transliteration: idhi
   6:
-    arabic: انْتَبَذَتۡ
+    arabic: ٱنتَبَذَتۡ
     translation: she withdrew
     transliteration: intabadhat
   7:
@@ -33,15 +33,15 @@ word_by_word:
     translation: from
     transliteration: min
   8:
-    arabic: اَهۡلِهَا
+    arabic: أَهۡلِهَا
     translation: her family
     transliteration: ahlihā
   9:
-    arabic: مَكَانًا
+    arabic: مَكَانٗا
     translation: (to) a place
     transliteration: makānan
   10:
-    arabic: شَرۡقِيًّا ۙ‏
+    arabic: شَرۡقِيّٗا
     translation: eastern
     transliteration: sharqiyyan
 ---

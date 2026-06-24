@@ -1,29 +1,29 @@
 ---
-arabic_ayat: اِنَّ لَـكَ فِى النَّهَارِ سَبۡحًا طَوِيۡلًا ؕ‏
+arabic_ayat: إِنَّ لَكَ فِي ٱلنَّهَارِ سَبۡحٗا طَوِيلٗا
 sentence_translation: For during the day you are over-occupied ˹with worldly duties˺.
 word_by_word:
   1:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   2:
-    arabic: لَـكَ
+    arabic: لَكَ
     translation: for you
     transliteration: laka
   3:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   4:
-    arabic: النَّهَارِ
+    arabic: ٱلنَّهَارِ
     translation: the day
     transliteration: l-nahāri
   5:
-    arabic: سَبۡحًا
+    arabic: سَبۡحٗا
     translation: (is) occupation
     transliteration: sabḥan
   6:
-    arabic: طَوِيۡلًا ؕ‏
+    arabic: طَوِيلٗا
     translation: prolonged
     transliteration: ṭawīlan
 ---

@@ -1,47 +1,47 @@
 ---
-arabic_ayat: اَلَا لِلّٰهِ الدِّيۡنُ الۡخَالِصُ​ ؕ وَالَّذِيۡنَ اتَّخَذُوۡا مِنۡ دُوۡنِهٖۤ
-  اَوۡلِيَآءَ​ ۘ مَا نَعۡبُدُهُمۡ اِلَّا لِيُقَرِّبُوۡنَاۤ اِلَى اللّٰهِ زُلۡفٰى
-  ؕ اِنَّ اللّٰهَ يَحۡكُمُ بَيۡنَهُمۡ فِىۡ مَا هُمۡ فِيۡهِ يَخۡتَلِفُوۡنَ ؕ اِنَّ
-  اللّٰهَ لَا يَهۡدِىۡ مَنۡ هُوَ كٰذِبٌ كَفَّارٌ‏
+arabic_ayat: أَلَا لِلَّهِ ٱلدِّينُ ٱلۡخَالِصُۚ وَٱلَّذِينَ ٱتَّخَذُواْ مِن دُونِهِۦٓ
+  أَوۡلِيَآءَ مَا نَعۡبُدُهُمۡ إِلَّا لِيُقَرِّبُونَآ إِلَى ٱللَّهِ زُلۡفَىٰٓ إِنَّ
+  ٱللَّهَ يَحۡكُمُ بَيۡنَهُمۡ فِي مَا هُمۡ فِيهِ يَخۡتَلِفُونَۗ إِنَّ ٱللَّهَ لَا
+  يَهۡدِي مَنۡ هُوَ كَٰذِبٞ كَفَّارٞ
 sentence_translation: Indeed, sincere devotion is due ˹only˺ to Allah. As for those
   who take other lords besides Him, ˹saying,˺ “We worship them only so they may bring
   us closer to Allah,” surely Allah will judge between all regarding what they differed
   about. Allah certainly does not guide whoever persists in lying and disbelief.
 word_by_word:
   1:
-    arabic: اَلَا
+    arabic: أَلَا
     translation: Unquestionably
     transliteration: alā
   2:
-    arabic: لِلّٰهِ
+    arabic: لِلَّهِ
     translation: for Allah
     transliteration: lillahi
   3:
-    arabic: الدِّيۡنُ
+    arabic: ٱلدِّينُ
     translation: (is) the religion
     transliteration: l-dīnu
   4:
-    arabic: الۡخَالِصُ​ ؕ
+    arabic: ٱلۡخَالِصُۚ
     translation: the pure
     transliteration: l-khāliṣu
   5:
-    arabic: وَالَّذِيۡنَ
+    arabic: وَٱلَّذِينَ
     translation: And those who
     transliteration: wa-alladhīna
   6:
-    arabic: اتَّخَذُوۡا
+    arabic: ٱتَّخَذُواْ
     translation: take
     transliteration: ittakhadhū
   7:
-    arabic: مِنۡ
+    arabic: مِن
     translation: besides Him
     transliteration: min
   8:
-    arabic: دُوۡنِهٖۤ
+    arabic: دُونِهِۦٓ
     translation: besides Him
     transliteration: dūnihi
   9:
-    arabic: اَوۡلِيَآءَ​ ۘ
+    arabic: أَوۡلِيَآءَ
     translation: protectors
     transliteration: awliyāa
   10:
@@ -53,31 +53,31 @@ word_by_word:
     translation: we worship them
     transliteration: naʿbuduhum
   12:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   13:
-    arabic: لِيُقَرِّبُوۡنَاۤ
+    arabic: لِيُقَرِّبُونَآ
     translation: that they may bring us near
     transliteration: liyuqarribūnā
   14:
-    arabic: اِلَى
+    arabic: إِلَى
     translation: to
     transliteration: ilā
   15:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   16:
-    arabic: زُلۡفٰى ؕ
+    arabic: زُلۡفَىٰٓ
     translation: (in) nearness
     transliteration: zul'fā
   17:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   18:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   19:
@@ -89,7 +89,7 @@ word_by_word:
     translation: between them
     transliteration: baynahum
   21:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   22:
@@ -101,19 +101,19 @@ word_by_word:
     translation: they
     transliteration: hum
   24:
-    arabic: فِيۡهِ
+    arabic: فِيهِ
     translation: '[in it]'
     transliteration: fīhi
   25:
-    arabic: يَخۡتَلِفُوۡنَ ؕ
+    arabic: يَخۡتَلِفُونَۗ
     translation: differ
     transliteration: yakhtalifūna
   26:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   27:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   28:
@@ -121,7 +121,7 @@ word_by_word:
     translation: (does) not
     transliteration: lā
   29:
-    arabic: يَهۡدِىۡ
+    arabic: يَهۡدِي
     translation: guide
     transliteration: yahdī
   30:
@@ -133,11 +133,11 @@ word_by_word:
     translation: '[he]'
     transliteration: huwa
   32:
-    arabic: كٰذِبٌ
+    arabic: كَٰذِبٞ
     translation: (is) a liar
     transliteration: kādhibun
   33:
-    arabic: كَفَّارٌ‏
+    arabic: كَفَّارٞ
     translation: and a disbeliever
     transliteration: kaffārun
 ---

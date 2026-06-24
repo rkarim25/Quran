@@ -1,5 +1,5 @@
 ---
-arabic_ayat: فَقَالَ اَنَا رَبُّكُمُ الۡاَعۡلٰى ۖ‏
+arabic_ayat: فَقَالَ أَنَا۠ رَبُّكُمُ ٱلۡأَعۡلَىٰ
 sentence_translation: saying, “I am your lord, the most high!”
 word_by_word:
   1:
@@ -7,7 +7,7 @@ word_by_word:
     translation: Then he said
     transliteration: faqāla
   2:
-    arabic: اَنَا
+    arabic: أَنَا۠
     translation: I am
     transliteration: anā
   3:
@@ -15,7 +15,7 @@ word_by_word:
     translation: your Lord
     transliteration: rabbukumu
   4:
-    arabic: الۡاَعۡلٰى ۖ‏
+    arabic: ٱلۡأَعۡلَىٰ
     translation: the Most High
     transliteration: l-aʿlā
 ---

@@ -1,7 +1,6 @@
 ---
-arabic_ayat: "وَلَا تَكُوۡنُوۡا كَالَّذِيۡنَ خَرَجُوۡا مِنۡ دِيَارِهِمۡ بَطَرًا وَّرِئَآءَ\
-  \ النَّاسِ وَ يَصُدُّوۡنَ عَنۡ سَبِيۡلِ اللّٰهِ​ؕ وَاللّٰهُ بِمَا يَعۡمَلُوۡنَ مُحِيۡطٌ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: وَلَا تَكُونُواْ كَٱلَّذِينَ خَرَجُواْ مِن دِيَٰرِهِم بَطَرٗا وَرِئَآءَ
+  ٱلنَّاسِ وَيَصُدُّونَ عَن سَبِيلِ ٱللَّهِۚ وَٱللَّهُ بِمَا يَعۡمَلُونَ مُحِيطٞ
 sentence_translation: Do not be like those ˹pagans˺ who left their homes arrogantly,
   only to be seen by people and to hinder others from Allah’s Path. And Allah is Fully
   Aware of what they do.
@@ -11,55 +10,55 @@ word_by_word:
     translation: And (do) not
     transliteration: walā
   2:
-    arabic: تَكُوۡنُوۡا
+    arabic: تَكُونُواْ
     translation: be
     transliteration: takūnū
   3:
-    arabic: كَالَّذِيۡنَ
+    arabic: كَٱلَّذِينَ
     translation: like those who
     transliteration: ka-alladhīna
   4:
-    arabic: خَرَجُوۡا
+    arabic: خَرَجُواْ
     translation: came forth
     transliteration: kharajū
   5:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   6:
-    arabic: دِيَارِهِمۡ
+    arabic: دِيَٰرِهِم
     translation: their homes
     transliteration: diyārihim
   7:
-    arabic: بَطَرًا
+    arabic: بَطَرٗا
     translation: boastfully
     transliteration: baṭaran
   8:
-    arabic: وَّرِئَآءَ
+    arabic: وَرِئَآءَ
     translation: and showing off
     transliteration: wariāa
   9:
-    arabic: النَّاسِ
+    arabic: ٱلنَّاسِ
     translation: (to) the people
     transliteration: l-nāsi
   10:
-    arabic: وَ يَصُدُّوۡنَ
+    arabic: وَيَصُدُّونَ
     translation: and hinder (them)
     transliteration: wayaṣuddūna
   11:
-    arabic: عَنۡ
+    arabic: عَن
     translation: from
     transliteration: ʿan
   12:
-    arabic: سَبِيۡلِ
+    arabic: سَبِيلِ
     translation: (the) way
     transliteration: sabīli
   13:
-    arabic: اللّٰهِ​ؕ
+    arabic: ٱللَّهِۚ
     translation: (of) Allah
     transliteration: l-lahi
   14:
-    arabic: وَاللّٰهُ
+    arabic: وَٱللَّهُ
     translation: And Allah
     transliteration: wal-lahu
   15:
@@ -67,11 +66,11 @@ word_by_word:
     translation: of what
     transliteration: bimā
   16:
-    arabic: يَعۡمَلُوۡنَ
+    arabic: يَعۡمَلُونَ
     translation: they do
     transliteration: yaʿmalūna
   17:
-    arabic: "مُحِيۡطٌ‏ \uFEFF\uFEFF"
+    arabic: مُحِيطٞ
     translation: (is) All-Encompassing
     transliteration: muḥīṭun
 ---

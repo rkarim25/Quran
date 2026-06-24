@@ -1,19 +1,19 @@
 ---
-arabic_ayat: وَلَٮِٕنۡ اَذَقۡنَا الۡاِنۡسَانَ مِنَّا رَحۡمَةً ثُمَّ نَزَعۡنٰهَا مِنۡهُ​ۚ
-  اِنَّهٗ لَيَـــُٔوۡسٌ كَفُوۡرٌ‏
+arabic_ayat: وَلَئِنۡ أَذَقۡنَا ٱلۡإِنسَٰنَ مِنَّا رَحۡمَةٗ ثُمَّ نَزَعۡنَٰهَا مِنۡهُ
+  إِنَّهُۥ لَيَـُٔوسٞ كَفُورٞ
 sentence_translation: If We give people a taste of Our mercy then take it away from
   them, they become utterly desperate, ungrateful.
 word_by_word:
   1:
-    arabic: وَلَٮِٕنۡ
+    arabic: وَلَئِنۡ
     translation: And if
     transliteration: wala-in
   2:
-    arabic: اَذَقۡنَا
+    arabic: أَذَقۡنَا
     translation: We give man a taste
     transliteration: adhaqnā
   3:
-    arabic: الۡاِنۡسَانَ
+    arabic: ٱلۡإِنسَٰنَ
     translation: We give man a taste
     transliteration: l-insāna
   4:
@@ -21,7 +21,7 @@ word_by_word:
     translation: (of) Mercy from Us
     transliteration: minnā
   5:
-    arabic: رَحۡمَةً
+    arabic: رَحۡمَةٗ
     translation: (of) Mercy from Us
     transliteration: raḥmatan
   6:
@@ -29,23 +29,23 @@ word_by_word:
     translation: then
     transliteration: thumma
   7:
-    arabic: نَزَعۡنٰهَا
+    arabic: نَزَعۡنَٰهَا
     translation: We withdraw it
     transliteration: nazaʿnāhā
   8:
-    arabic: مِنۡهُ​ۚ
+    arabic: مِنۡهُ
     translation: from him
     transliteration: min'hu
   9:
-    arabic: اِنَّهٗ
+    arabic: إِنَّهُۥ
     translation: indeed, he
     transliteration: innahu
   10:
-    arabic: لَيَـــُٔوۡسٌ
+    arabic: لَيَـُٔوسٞ
     translation: (is) despairing
     transliteration: layaūsun
   11:
-    arabic: كَفُوۡرٌ‏
+    arabic: كَفُورٞ
     translation: (and) ungrateful
     transliteration: kafūrun
 ---

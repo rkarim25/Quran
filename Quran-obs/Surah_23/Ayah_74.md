@@ -1,15 +1,14 @@
 ---
-arabic_ayat: "وَاِنَّ الَّذِيۡنَ لَا يُؤۡمِنُوۡنَ بِالۡاٰخِرَةِ عَنِ الصِّرَاطِ لَـنٰكِبُوۡنَ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: وَإِنَّ ٱلَّذِينَ لَا يُؤۡمِنُونَ بِٱلۡأٓخِرَةِ عَنِ ٱلصِّرَٰطِ لَنَٰكِبُونَ
 sentence_translation: but those who disbelieve in the Hereafter are certainly deviating
   from that Path.
 word_by_word:
   1:
-    arabic: وَاِنَّ
+    arabic: وَإِنَّ
     translation: And indeed
     transliteration: wa-inna
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   3:
@@ -17,11 +16,11 @@ word_by_word:
     translation: (do) not
     transliteration: lā
   4:
-    arabic: يُؤۡمِنُوۡنَ
+    arabic: يُؤۡمِنُونَ
     translation: believe
     transliteration: yu'minūna
   5:
-    arabic: بِالۡاٰخِرَةِ
+    arabic: بِٱلۡأٓخِرَةِ
     translation: in the Hereafter
     transliteration: bil-ākhirati
   6:
@@ -29,11 +28,11 @@ word_by_word:
     translation: from
     transliteration: ʿani
   7:
-    arabic: الصِّرَاطِ
+    arabic: ٱلصِّرَٰطِ
     translation: the path
     transliteration: l-ṣirāṭi
   8:
-    arabic: "لَـنٰكِبُوۡنَ‏ \uFEFF\uFEFF"
+    arabic: لَنَٰكِبُونَ
     translation: surely (are) deviating
     transliteration: lanākibūna
 ---

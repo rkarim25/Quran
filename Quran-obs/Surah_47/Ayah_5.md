@@ -1,9 +1,9 @@
 ---
-arabic_ayat: سَيَهۡدِيۡهِمۡ وَيُصۡلِحُ بَالَهُمۡۚ‏
+arabic_ayat: سَيَهۡدِيهِمۡ وَيُصۡلِحُ بَالَهُمۡ
 sentence_translation: He will guide them ˹to their reward˺, improve their condition,
 word_by_word:
   1:
-    arabic: سَيَهۡدِيۡهِمۡ
+    arabic: سَيَهۡدِيهِمۡ
     translation: He will guide them
     transliteration: sayahdīhim
   2:
@@ -11,7 +11,7 @@ word_by_word:
     translation: and improve
     transliteration: wayuṣ'liḥu
   3:
-    arabic: بَالَهُمۡۚ‏
+    arabic: بَالَهُمۡ
     translation: their condition
     transliteration: bālahum
 ---

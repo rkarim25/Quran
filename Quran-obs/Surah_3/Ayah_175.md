@@ -1,19 +1,19 @@
 ---
-arabic_ayat: اِنَّمَا ذٰلِكُمُ الشَّيۡطٰنُ يُخَوِّفُ اَوۡلِيَآءَهٗ فَلَا تَخَافُوۡهُمۡ
-  وَخَافُوۡنِ اِنۡ كُنۡتُمۡ مُّؤۡمِنِيۡنَ‏
+arabic_ayat: إِنَّمَا ذَٰلِكُمُ ٱلشَّيۡطَٰنُ يُخَوِّفُ أَوۡلِيَآءَهُۥ فَلَا تَخَافُوهُمۡ
+  وَخَافُونِ إِن كُنتُم مُّؤۡمِنِينَ
 sentence_translation: That ˹warning˺ was only ˹from˺ Satan, trying to prompt you to
   fear his followers. So do not fear them; fear Me if you are ˹true˺ believers.
 word_by_word:
   1:
-    arabic: اِنَّمَا
+    arabic: إِنَّمَا
     translation: (It is) only
     transliteration: innamā
   2:
-    arabic: ذٰلِكُمُ
+    arabic: ذَٰلِكُمُ
     translation: that
     transliteration: dhālikumu
   3:
-    arabic: الشَّيۡطٰنُ
+    arabic: ٱلشَّيۡطَٰنُ
     translation: the Shaitaan
     transliteration: l-shayṭānu
   4:
@@ -21,7 +21,7 @@ word_by_word:
     translation: frightens (you)
     transliteration: yukhawwifu
   5:
-    arabic: اَوۡلِيَآءَهٗ
+    arabic: أَوۡلِيَآءَهُۥ
     translation: (of) his allies
     transliteration: awliyāahu
   6:
@@ -29,23 +29,23 @@ word_by_word:
     translation: So (do) not
     transliteration: falā
   7:
-    arabic: تَخَافُوۡهُمۡ
+    arabic: تَخَافُوهُمۡ
     translation: fear them
     transliteration: takhāfūhum
   8:
-    arabic: وَخَافُوۡنِ
+    arabic: وَخَافُونِ
     translation: but fear Me
     transliteration: wakhāfūni
   9:
-    arabic: اِنۡ
+    arabic: إِن
     translation: if
     transliteration: in
   10:
-    arabic: كُنۡتُمۡ
+    arabic: كُنتُم
     translation: you are
     transliteration: kuntum
   11:
-    arabic: مُّؤۡمِنِيۡنَ‏
+    arabic: مُّؤۡمِنِينَ
     translation: believers
     transliteration: mu'minīna
 ---

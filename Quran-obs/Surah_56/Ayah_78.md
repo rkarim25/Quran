@@ -1,17 +1,17 @@
 ---
-arabic_ayat: فِىۡ كِتٰبٍ مَّكۡنُوۡنٍۙ‏
+arabic_ayat: فِي كِتَٰبٖ مَّكۡنُونٖ
 sentence_translation: in a well-preserved Record,
 word_by_word:
   1:
-    arabic: فِىۡ
+    arabic: فِي
     translation: In
     transliteration: fī
   2:
-    arabic: كِتٰبٍ
+    arabic: كِتَٰبٖ
     translation: a Book
     transliteration: kitābin
   3:
-    arabic: مَّكۡنُوۡنٍۙ‏
+    arabic: مَّكۡنُونٖ
     translation: well-guarded
     transliteration: maknūnin
 ---

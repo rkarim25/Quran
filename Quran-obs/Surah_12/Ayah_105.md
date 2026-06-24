@@ -1,35 +1,35 @@
 ---
-arabic_ayat: وَكَاَيِّنۡ مِّنۡ اٰيَةٍ فِى السَّمٰوٰتِ وَالۡاَرۡضِ يَمُرُّوۡنَ عَلَيۡهَا
-  وَهُمۡ عَنۡهَا مُعۡرِضُوۡنَ‏
+arabic_ayat: وَكَأَيِّن مِّنۡ ءَايَةٖ فِي ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِ يَمُرُّونَ عَلَيۡهَا
+  وَهُمۡ عَنۡهَا مُعۡرِضُونَ
 sentence_translation: How many signs in the heavens and the earth do they pass by
   with indifference!
 word_by_word:
   1:
-    arabic: وَكَاَيِّنۡ
+    arabic: وَكَأَيِّن
     translation: And how many
     transliteration: waka-ayyin
   2:
-    arabic: مِّنۡ
+    arabic: مِّنۡ ءَ
     translation: of
     transliteration: min
   3:
-    arabic: اٰيَةٍ
+    arabic: ايَةٖ
     translation: a Sign
     transliteration: āyatin
   4:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   5:
-    arabic: السَّمٰوٰتِ
+    arabic: ٱلسَّمَٰوَٰتِ
     translation: the heavens
     transliteration: l-samāwāti
   6:
-    arabic: وَالۡاَرۡضِ
+    arabic: وَٱلۡأَرۡضِ
     translation: and the earth
     transliteration: wal-arḍi
   7:
-    arabic: يَمُرُّوۡنَ
+    arabic: يَمُرُّونَ
     translation: they pass
     transliteration: yamurrūna
   8:
@@ -45,7 +45,7 @@ word_by_word:
     translation: (are) from them
     transliteration: ʿanhā
   11:
-    arabic: مُعۡرِضُوۡنَ‏
+    arabic: مُعۡرِضُونَ
     translation: the ones who turn away
     transliteration: muʿ'riḍūna
 ---

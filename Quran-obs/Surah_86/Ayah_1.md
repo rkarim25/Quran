@@ -1,13 +1,13 @@
 ---
-arabic_ayat: وَالسَّمَآءِ وَالطَّارِقِۙ‏
+arabic_ayat: وَٱلسَّمَآءِ وَٱلطَّارِقِ
 sentence_translation: By the heaven and the nightly star!
 word_by_word:
   1:
-    arabic: وَالسَّمَآءِ
+    arabic: وَٱلسَّمَآءِ
     translation: By the sky
     transliteration: wal-samāi
   2:
-    arabic: وَالطَّارِقِۙ‏
+    arabic: وَٱلطَّارِقِ
     translation: and the night comer
     transliteration: wal-ṭāriqi
 ---

@@ -1,11 +1,11 @@
 ---
-arabic_ayat: حُرِّمَتۡ عَلَيۡكُمۡ اُمَّهٰتُكُمۡ وَبَنٰتُكُمۡ وَاَخَوٰتُكُمۡ وَعَمّٰتُكُمۡ
-  وَخٰلٰتُكُمۡ وَبَنٰتُ الۡاٰخِ وَبَنٰتُ الۡاُخۡتِ وَاُمَّهٰتُكُمُ الّٰتِىۡۤ اَرۡضَعۡنَكُمۡ
-  وَاَخَوٰتُكُمۡ مِّنَ الرَّضَاعَةِ وَ اُمَّهٰتُ نِسَآٮِٕكُمۡ وَرَبَآٮِٕبُكُمُ الّٰتِىۡ
-  فِىۡ حُجُوۡرِكُمۡ مِّنۡ نِّسَآٮِٕكُمُ الّٰتِىۡ دَخَلۡتُمۡ بِهِنَّ فَاِنۡ لَّمۡ
-  تَكُوۡنُوۡا دَخَلۡتُمۡ بِهِنَّ فَلَا جُنَاحَ عَلَيۡكُمۡ وَحَلَاۤٮِٕلُ اَبۡنَآٮِٕكُمُ
-  الَّذِيۡنَ مِنۡ اَصۡلَابِكُمۡۙ وَاَنۡ تَجۡمَعُوۡا بَيۡنَ الۡاُخۡتَيۡنِ اِلَّا مَا
-  قَدۡ سَلَفَ​ؕ اِنَّ اللّٰهَ كَانَ غَفُوۡرًا رَّحِيۡمًا ۙ‏
+arabic_ayat: حُرِّمَتۡ عَلَيۡكُمۡ أُمَّهَٰتُكُمۡ وَبَنَاتُكُمۡ وَأَخَوَٰتُكُمۡ وَعَمَّٰتُكُمۡ
+  وَخَٰلَٰتُكُمۡ وَبَنَاتُ ٱلۡأَخِ وَبَنَاتُ ٱلۡأُخۡتِ وَأُمَّهَٰتُكُمُ ٱلَّٰتِيٓ
+  أَرۡضَعۡنَكُمۡ وَأَخَوَٰتُكُم مِّنَ ٱلرَّضَٰعَةِ وَأُمَّهَٰتُ نِسَآئِكُمۡ وَرَبَٰٓئِبُكُمُ
+  ٱلَّٰتِي فِي حُجُورِكُم مِّن نِّسَآئِكُمُ ٱلَّٰتِي دَخَلۡتُم بِهِنَّ فَإِن لَّمۡ
+  تَكُونُواْ دَخَلۡتُم بِهِنَّ فَلَا جُنَاحَ عَلَيۡكُمۡ وَحَلَٰٓئِلُ أَبۡنَآئِكُمُ
+  ٱلَّذِينَ مِنۡ أَصۡلَٰبِكُمۡ وَأَن تَجۡمَعُواْ بَيۡنَ ٱلۡأُخۡتَيۡنِ إِلَّا مَا قَدۡ
+  سَلَفَۗ إِنَّ ٱللَّهَ كَانَ غَفُورٗا رَّحِيمٗا
 sentence_translation: ˹Also˺ forbidden to you for marriage are your mothers, your
   daughters, your sisters, your paternal and maternal aunts, your brother’s daughters,
   your sister’s daughters, your foster-mothers, your foster-sisters, your mothers-in-law,
@@ -23,55 +23,55 @@ word_by_word:
     translation: to you
     transliteration: ʿalaykum
   3:
-    arabic: اُمَّهٰتُكُمۡ
+    arabic: أُمَّهَٰتُكُمۡ
     translation: (are) your mothers
     transliteration: ummahātukum
   4:
-    arabic: وَبَنٰتُكُمۡ
+    arabic: وَبَنَاتُكُمۡ
     translation: and your daughters
     transliteration: wabanātukum
   5:
-    arabic: وَاَخَوٰتُكُمۡ
+    arabic: وَأَخَوَٰتُكُمۡ
     translation: and your sisters
     transliteration: wa-akhawātukum
   6:
-    arabic: وَعَمّٰتُكُمۡ
+    arabic: وَعَمَّٰتُكُمۡ
     translation: and your father's sisters
     transliteration: waʿammātukum
   7:
-    arabic: وَخٰلٰتُكُمۡ
+    arabic: وَخَٰلَٰتُكُمۡ
     translation: and your mother's sisters
     transliteration: wakhālātukum
   8:
-    arabic: وَبَنٰتُ
+    arabic: وَبَنَاتُ
     translation: and daughters
     transliteration: wabanātu
   9:
-    arabic: الۡاٰخِ
+    arabic: ٱلۡأَخِ
     translation: (of) brothers
     transliteration: l-akhi
   10:
-    arabic: وَبَنٰتُ
+    arabic: وَبَنَاتُ
     translation: and daughters
     transliteration: wabanātu
   11:
-    arabic: الۡاُخۡتِ
+    arabic: ٱلۡأُخۡتِ
     translation: (of) sisters
     transliteration: l-ukh'ti
   12:
-    arabic: وَاُمَّهٰتُكُمُ
+    arabic: وَأُمَّهَٰتُكُمُ
     translation: and (the) mothers
     transliteration: wa-ummahātukumu
   13:
-    arabic: الّٰتِىۡۤ
+    arabic: ٱلَّٰتِيٓ
     translation: who
     transliteration: allātī
   14:
-    arabic: اَرۡضَعۡنَكُمۡ
+    arabic: أَرۡضَعۡنَكُمۡ
     translation: nursed you
     transliteration: arḍaʿnakum
   15:
-    arabic: وَاَخَوٰتُكُمۡ
+    arabic: وَأَخَوَٰتُكُم
     translation: and your sisters
     transliteration: wa-akhawātukum
   16:
@@ -79,55 +79,55 @@ word_by_word:
     translation: from
     transliteration: mina
   17:
-    arabic: الرَّضَاعَةِ
+    arabic: ٱلرَّضَٰعَةِ
     translation: the nursing
     transliteration: l-raḍāʿati
   18:
-    arabic: وَ اُمَّهٰتُ
+    arabic: وَأُمَّهَٰتُ
     translation: and mothers
     transliteration: wa-ummahātu
   19:
-    arabic: نِسَآٮِٕكُمۡ
+    arabic: نِسَآئِكُمۡ
     translation: (of) your wives
     transliteration: nisāikum
   20:
-    arabic: وَرَبَآٮِٕبُكُمُ
+    arabic: وَرَبَٰٓئِبُكُمُ
     translation: and your step daughters
     transliteration: warabāibukumu
   21:
-    arabic: الّٰتِىۡ
+    arabic: ٱلَّٰتِي
     translation: who
     transliteration: allātī
   22:
-    arabic: فِىۡ
+    arabic: فِي
     translation: (are) in
     transliteration: fī
   23:
-    arabic: حُجُوۡرِكُمۡ
+    arabic: حُجُورِكُم
     translation: your guardianship
     transliteration: ḥujūrikum
   24:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: of
     transliteration: min
   25:
-    arabic: نِّسَآٮِٕكُمُ
+    arabic: نِّسَآئِكُمُ
     translation: your women
     transliteration: nisāikumu
   26:
-    arabic: الّٰتِىۡ
+    arabic: ٱلَّٰتِي
     translation: whom
     transliteration: allātī
   27:
-    arabic: دَخَلۡتُمۡ
+    arabic: دَخَلۡتُم
     translation: you had relations
     transliteration: dakhaltum
   28:
-    arabic: بِهِنَّ
+    arabic: بِهِنَّ
     translation: with them
     transliteration: bihinna
   29:
-    arabic: فَاِنۡ
+    arabic: فَإِن
     translation: but if
     transliteration: fa-in
   30:
@@ -135,11 +135,11 @@ word_by_word:
     translation: not
     transliteration: lam
   31:
-    arabic: تَكُوۡنُوۡا
+    arabic: تَكُونُواْ
     translation: you had
     transliteration: takūnū
   32:
-    arabic: دَخَلۡتُمۡ
+    arabic: دَخَلۡتُم
     translation: relations
     transliteration: dakhaltum
   33:
@@ -155,19 +155,19 @@ word_by_word:
     translation: sin
     transliteration: junāḥa
   36:
-    arabic: عَلَيۡكُمۡ
+    arabic: عَلَيۡكُمۡ
     translation: on you
     transliteration: ʿalaykum
   37:
-    arabic: وَحَلَاۤٮِٕلُ
+    arabic: وَحَلَٰٓئِلُ
     translation: And wives
     transliteration: waḥalāilu
   38:
-    arabic: اَبۡنَآٮِٕكُمُ
+    arabic: أَبۡنَآئِكُمُ
     translation: (of) your sons
     transliteration: abnāikumu
   39:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   40:
@@ -175,15 +175,15 @@ word_by_word:
     translation: (are) from
     transliteration: min
   41:
-    arabic: اَصۡلَابِكُمۡۙ
+    arabic: أَصۡلَٰبِكُمۡ
     translation: your loins
     transliteration: aṣlābikum
   42:
-    arabic: وَاَنۡ
+    arabic: وَأَن
     translation: and that
     transliteration: wa-an
   43:
-    arabic: تَجۡمَعُوۡا
+    arabic: تَجۡمَعُواْ
     translation: you gather together
     transliteration: tajmaʿū
   44:
@@ -191,11 +191,11 @@ word_by_word:
     translation: '[between]'
     transliteration: bayna
   45:
-    arabic: الۡاُخۡتَيۡنِ
+    arabic: ٱلۡأُخۡتَيۡنِ
     translation: two sisters
     transliteration: l-ukh'tayni
   46:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   47:
@@ -207,15 +207,15 @@ word_by_word:
     translation: has
     transliteration: qad
   49:
-    arabic: سَلَفَ​ؕ
+    arabic: سَلَفَۗ
     translation: passed before
     transliteration: salafa
   50:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   51:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   52:
@@ -223,11 +223,11 @@ word_by_word:
     translation: is
     transliteration: kāna
   53:
-    arabic: غَفُوۡرًا
+    arabic: غَفُورٗا
     translation: Oft-Forgiving
     transliteration: ghafūran
   54:
-    arabic: رَّحِيۡمًا ۙ‏
+    arabic: رَّحِيمٗا
     translation: Most-Merciful
     transliteration: raḥīman
 ---

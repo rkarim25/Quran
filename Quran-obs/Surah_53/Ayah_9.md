@@ -1,5 +1,5 @@
 ---
-arabic_ayat: فَكَانَ قَابَ قَوۡسَيۡنِ اَوۡ اَدۡنٰى​ۚ‏
+arabic_ayat: فَكَانَ قَابَ قَوۡسَيۡنِ أَوۡ أَدۡنَىٰ
 sentence_translation: that he was only two arms-lengths away or even less.
 word_by_word:
   1:
@@ -15,11 +15,11 @@ word_by_word:
     translation: (of) two bow-(lengths)
     transliteration: qawsayni
   4:
-    arabic: اَوۡ
+    arabic: أَوۡ
     translation: or
     transliteration: aw
   5:
-    arabic: اَدۡنٰى​ۚ‏
+    arabic: أَدۡنَىٰ
     translation: nearer
     transliteration: adnā
 ---

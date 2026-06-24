@@ -1,7 +1,6 @@
 ---
-arabic_ayat: "قُلۡ مَنۡ يُّنَجِّيۡكُمۡ مِّنۡ ظُلُمٰتِ الۡبَرِّ وَالۡبَحۡرِ تَدۡعُوۡنَهٗ\
-  \ تَضَرُّعًا وَّخُفۡيَةً ۚ لَٮِٕنۡ اَنۡجٰٮنَا مِنۡ هٰذِهٖ لَـنَكُوۡنَنَّ مِنَ الشّٰكِرِيۡنَ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: قُلۡ مَن يُنَجِّيكُم مِّن ظُلُمَٰتِ ٱلۡبَرِّ وَٱلۡبَحۡرِ تَدۡعُونَهُۥ
+  تَضَرُّعٗا وَخُفۡيَةٗ لَّئِنۡ أَنجَىٰنَا مِنۡ هَٰذِهِۦ لَنَكُونَنَّ مِنَ ٱلشَّٰكِرِينَ
 sentence_translation: 'Say, ˹O Prophet,˺ “Who rescues you from the darkest times on
   land and at sea? He ˹alone˺ you call upon with humility, openly and secretly: “If
   You rescue us from this, we will be ever grateful.”'
@@ -11,47 +10,47 @@ word_by_word:
     translation: Say
     transliteration: qul
   2:
-    arabic: مَنۡ
+    arabic: مَن
     translation: Who
     transliteration: man
   3:
-    arabic: يُّنَجِّيۡكُمۡ
+    arabic: يُنَجِّيكُم
     translation: saves you
     transliteration: yunajjīkum
   4:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: from
     transliteration: min
   5:
-    arabic: ظُلُمٰتِ
+    arabic: ظُلُمَٰتِ
     translation: darkness[es]
     transliteration: ẓulumāti
   6:
-    arabic: الۡبَرِّ
+    arabic: ٱلۡبَرِّ
     translation: (of) the land
     transliteration: l-bari
   7:
-    arabic: وَالۡبَحۡرِ
+    arabic: وَٱلۡبَحۡرِ
     translation: and the sea
     transliteration: wal-baḥri
   8:
-    arabic: تَدۡعُوۡنَهٗ
+    arabic: تَدۡعُونَهُۥ
     translation: you call Him
     transliteration: tadʿūnahu
   9:
-    arabic: تَضَرُّعًا
+    arabic: تَضَرُّعٗا
     translation: humbly
     transliteration: taḍarruʿan
   10:
-    arabic: وَّخُفۡيَةً ۚ
+    arabic: وَخُفۡيَةٗ
     translation: and secretly
     transliteration: wakhuf'yatan
   11:
-    arabic: لَٮِٕنۡ
+    arabic: لَّئِنۡ
     translation: If
     transliteration: la-in
   12:
-    arabic: اَنۡجٰٮنَا
+    arabic: أَنجَىٰنَا
     translation: He saves us
     transliteration: anjānā
   13:
@@ -59,11 +58,11 @@ word_by_word:
     translation: from
     transliteration: min
   14:
-    arabic: هٰذِهٖ
+    arabic: هَٰذِهِۦ
     translation: this
     transliteration: hādhihi
   15:
-    arabic: لَـنَكُوۡنَنَّ
+    arabic: لَنَكُونَنَّ
     translation: surely we will be
     transliteration: lanakūnanna
   16:
@@ -71,7 +70,7 @@ word_by_word:
     translation: from
     transliteration: mina
   17:
-    arabic: "الشّٰكِرِيۡنَ‏ \uFEFF\uFEFF"
+    arabic: ٱلشَّٰكِرِينَ
     translation: the grateful ones
     transliteration: l-shākirīna
 ---

@@ -1,11 +1,11 @@
 ---
-arabic_ayat: وَكُلُوۡا مِمَّا رَزَقَكُمُ اللّٰهُ حَلٰلًا طَيِّبًا​ وَّ اتَّقُوا اللّٰهَ
-  الَّذِىۡۤ اَنۡـتُمۡ بِهٖ مُؤۡمِنُوۡنَ‏
+arabic_ayat: وَكُلُواْ مِمَّا رَزَقَكُمُ ٱللَّهُ حَلَٰلٗا طَيِّبٗاۚ وَٱتَّقُواْ ٱللَّهَ
+  ٱلَّذِيٓ أَنتُم بِهِۦ مُؤۡمِنُونَ
 sentence_translation: Eat of the good, lawful things provided to you by Allah. And
   be mindful of Allah in Whom you believe.
 word_by_word:
   1:
-    arabic: وَكُلُوۡا
+    arabic: وَكُلُواْ
     translation: And eat
     transliteration: wakulū
   2:
@@ -17,39 +17,39 @@ word_by_word:
     translation: has provided you
     transliteration: razaqakumu
   4:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: 'Allah '
     transliteration: l-lahu
   5:
-    arabic: حَلٰلًا
+    arabic: حَلَٰلٗا
     translation: lawful
     transliteration: ḥalālan
   6:
-    arabic: طَيِّبًا​
+    arabic: طَيِّبٗاۚ
     translation: good
     transliteration: ṭayyiban
   7:
-    arabic: وَّ اتَّقُوا
+    arabic: وَٱتَّقُواْ
     translation: And fear
     transliteration: wa-ittaqū
   8:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   9:
-    arabic: الَّذِىۡۤ
+    arabic: ٱلَّذِيٓ
     translation: the One
     transliteration: alladhī
   10:
-    arabic: اَنۡـتُمۡ
+    arabic: أَنتُم
     translation: you (are)
     transliteration: antum
   11:
-    arabic: بِهٖ
+    arabic: بِهِۦ
     translation: in Him
     transliteration: bihi
   12:
-    arabic: مُؤۡمِنُوۡنَ‏
+    arabic: مُؤۡمِنُونَ
     translation: believers
     transliteration: mu'minūna
 ---

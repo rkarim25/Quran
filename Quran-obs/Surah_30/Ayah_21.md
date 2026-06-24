@@ -1,21 +1,21 @@
 ---
-arabic_ayat: وَمِنۡ اٰيٰتِهٖۤ اَنۡ خَلَقَ لَكُمۡ مِّنۡ اَنۡفُسِكُمۡ اَزۡوَاجًا لِّتَسۡكُنُوۡۤا
-  اِلَيۡهَا وَجَعَلَ بَيۡنَكُمۡ مَّوَدَّةً وَّرَحۡمَةً  ؕ اِنَّ فِىۡ ذٰ لِكَ لَاٰيٰتٍ
-  لِّقَوۡمٍ يَّتَفَكَّرُوۡنَ‏
+arabic_ayat: وَمِنۡ ءَايَٰتِهِۦٓ أَنۡ خَلَقَ لَكُم مِّنۡ أَنفُسِكُمۡ أَزۡوَٰجٗا لِّتَسۡكُنُوٓاْ
+  إِلَيۡهَا وَجَعَلَ بَيۡنَكُم مَّوَدَّةٗ وَرَحۡمَةًۚ إِنَّ فِي ذَٰلِكَ لَأٓيَٰتٖ
+  لِّقَوۡمٖ يَتَفَكَّرُونَ
 sentence_translation: And one of His signs is that He created for you spouses from
   among yourselves so that you may find comfort in them. And He has placed between
   you compassion and mercy. Surely in this are signs for people who reflect.
 word_by_word:
   1:
-    arabic: وَمِنۡ
+    arabic: وَمِنۡ ءَ
     translation: And among
     transliteration: wamin
   2:
-    arabic: اٰيٰتِهٖۤ
+    arabic: ايَٰتِهِۦٓ
     translation: His Signs
     transliteration: āyātihi
   3:
-    arabic: اَنۡ
+    arabic: أَنۡ
     translation: (is) that
     transliteration: an
   4:
@@ -23,7 +23,7 @@ word_by_word:
     translation: He created
     transliteration: khalaqa
   5:
-    arabic: لَكُمۡ
+    arabic: لَكُم
     translation: for you
     transliteration: lakum
   6:
@@ -31,19 +31,19 @@ word_by_word:
     translation: from
     transliteration: min
   7:
-    arabic: اَنۡفُسِكُمۡ
+    arabic: أَنفُسِكُمۡ
     translation: yourselves
     transliteration: anfusikum
   8:
-    arabic: اَزۡوَاجًا
+    arabic: أَزۡوَٰجٗا
     translation: mates
     transliteration: azwājan
   9:
-    arabic: لِّتَسۡكُنُوۡۤا
+    arabic: لِّتَسۡكُنُوٓاْ
     translation: that you may find tranquility
     transliteration: litaskunū
   10:
-    arabic: اِلَيۡهَا
+    arabic: إِلَيۡهَا
     translation: in them
     transliteration: ilayhā
   11:
@@ -51,39 +51,39 @@ word_by_word:
     translation: and He placed
     transliteration: wajaʿala
   12:
-    arabic: بَيۡنَكُمۡ
+    arabic: بَيۡنَكُم
     translation: between you
     transliteration: baynakum
   13:
-    arabic: مَّوَدَّةً
+    arabic: مَّوَدَّةٗ
     translation: love
     transliteration: mawaddatan
   14:
-    arabic: وَّرَحۡمَةً  ؕ
+    arabic: وَرَحۡمَةًۚ
     translation: and mercy
     transliteration: waraḥmatan
   15:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   16:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   17:
-    arabic: ذٰ لِكَ
+    arabic: ذَٰلِكَ
     translation: that
     transliteration: dhālika
   18:
-    arabic: لَاٰيٰتٍ
+    arabic: لَأٓيَٰتٖ
     translation: surely (are) Signs
     transliteration: laāyātin
   19:
-    arabic: لِّقَوۡمٍ
+    arabic: لِّقَوۡمٖ
     translation: for a people
     transliteration: liqawmin
   20:
-    arabic: يَّتَفَكَّرُوۡنَ‏
+    arabic: يَتَفَكَّرُونَ
     translation: who reflect
     transliteration: yatafakkarūna
 ---

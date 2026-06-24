@@ -1,30 +1,30 @@
 ---
-arabic_ayat: الَّذِيۡنَ يُفۡسِدُوۡنَ فِى الۡاَرۡضِ وَ لَا يُصۡلِحُوۡنَ‏
+arabic_ayat: ٱلَّذِينَ يُفۡسِدُونَ فِي ٱلۡأَرۡضِ وَلَا يُصۡلِحُونَ
 sentence_translation: who spread corruption throughout the land, never setting things
   right.”
 word_by_word:
   1:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: Those who
     transliteration: alladhīna
   2:
-    arabic: يُفۡسِدُوۡنَ
+    arabic: يُفۡسِدُونَ
     translation: spread corruption
     transliteration: yuf'sidūna
   3:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   4:
-    arabic: الۡاَرۡضِ
+    arabic: ٱلۡأَرۡضِ
     translation: the earth
     transliteration: l-arḍi
   5:
-    arabic: وَ لَا
+    arabic: وَلَا
     translation: and (do) not
     transliteration: walā
   6:
-    arabic: يُصۡلِحُوۡنَ‏
+    arabic: يُصۡلِحُونَ
     translation: reform
     transliteration: yuṣ'liḥūna
 ---

@@ -1,8 +1,8 @@
 ---
-arabic_ayat: قَالَ لَقَدۡ ظَلَمَكَ بِسُؤَالِ نَعۡجَتِكَ اِلٰى نِعَاجِهٖ​ ؕ وَاِنَّ
-  كَثِيۡرًا مِّنَ الۡخُلَـطَآءِ لَيَبۡغِىۡ بَعۡضُهُمۡ عَلٰى بَعۡضٍ اِلَّا الَّذِيۡنَ
-  اٰمَنُوۡا وَعَمِلُوا الصّٰلِحٰتِ وَقَلِيۡلٌ مَّا هُمۡ​ ؕ وَظَنَّ دَاوٗدُ اَنَّمَا
-  فَتَنّٰهُ فَاسۡتَغۡفَرَ رَبَّهٗ وَخَرَّ رَاكِعًا وَّاَنَابَ‏
+arabic_ayat: قَالَ لَقَدۡ ظَلَمَكَ بِسُؤَالِ نَعۡجَتِكَ إِلَىٰ نِعَاجِهِۦۖ وَإِنَّ
+  كَثِيرٗا مِّنَ ٱلۡخُلَطَآءِ لَيَبۡغِي بَعۡضُهُمۡ عَلَىٰ بَعۡضٍ إِلَّا ٱلَّذِينَ
+  ءَامَنُواْ وَعَمِلُواْ ٱلصَّٰلِحَٰتِ وَقَلِيلٞ مَّا هُمۡۗ وَظَنَّ دَاوُۥدُ أَنَّمَا
+  فَتَنَّٰهُ فَٱسۡتَغۡفَرَ رَبَّهُۥ وَخَرَّۤ رَاكِعٗاۤ وَأَنَابَ۩
 sentence_translation: David ˹eventually˺ ruled, “He has definitely wronged you in
   demanding ˹to add˺ your sheep to his. And certainly many partners wrong each other,
   except those who believe and do good—but how few are they!” Then David realized
@@ -30,19 +30,19 @@ word_by_word:
     translation: your ewe
     transliteration: naʿjatika
   6:
-    arabic: اِلٰى
+    arabic: إِلَىٰ
     translation: to
     transliteration: ilā
   7:
-    arabic: نِعَاجِهٖ​ ؕ
+    arabic: نِعَاجِهِۦۖ
     translation: his ewes
     transliteration: niʿājihi
   8:
-    arabic: وَاِنَّ
+    arabic: وَإِنَّ
     translation: And indeed
     transliteration: wa-inna
   9:
-    arabic: كَثِيۡرًا
+    arabic: كَثِيرٗا
     translation: many
     transliteration: kathīran
   10:
@@ -50,11 +50,11 @@ word_by_word:
     translation: of
     transliteration: mina
   11:
-    arabic: الۡخُلَـطَآءِ
+    arabic: ٱلۡخُلَطَآءِ
     translation: the partners
     transliteration: l-khulaṭāi
   12:
-    arabic: لَيَبۡغِىۡ
+    arabic: لَيَبۡغِي
     translation: certainly oppress
     transliteration: layabghī
   13:
@@ -62,7 +62,7 @@ word_by_word:
     translation: some of them
     transliteration: baʿḍuhum
   14:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: '[on]'
     transliteration: ʿalā
   15:
@@ -70,27 +70,27 @@ word_by_word:
     translation: another
     transliteration: baʿḍin
   16:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   17:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ ءَ
     translation: those who
     transliteration: alladhīna
   18:
-    arabic: اٰمَنُوۡا
+    arabic: امَنُواْ
     translation: believe
     transliteration: āmanū
   19:
-    arabic: وَعَمِلُوا
+    arabic: وَعَمِلُواْ
     translation: and do
     transliteration: waʿamilū
   20:
-    arabic: الصّٰلِحٰتِ
+    arabic: ٱلصَّٰلِحَٰتِ
     translation: righteous deeds
     transliteration: l-ṣāliḥāti
   21:
-    arabic: وَقَلِيۡلٌ
+    arabic: وَقَلِيلٞ
     translation: and few
     transliteration: waqalīlun
   22:
@@ -98,7 +98,7 @@ word_by_word:
     translation: (are) they
     transliteration: mā
   23:
-    arabic: هُمۡ​ ؕ
+    arabic: هُمۡۗ
     translation: (are) they
     transliteration: hum
   24:
@@ -106,35 +106,35 @@ word_by_word:
     translation: And became certain
     transliteration: waẓanna
   25:
-    arabic: دَاوٗدُ
+    arabic: دَاوُۥدُ
     translation: Dawood
     transliteration: dāwūdu
   26:
-    arabic: اَنَّمَا
+    arabic: أَنَّمَا
     translation: that
     transliteration: annamā
   27:
-    arabic: فَتَنّٰهُ
+    arabic: فَتَنَّٰهُ
     translation: We (had) tried him
     transliteration: fatannāhu
   28:
-    arabic: فَاسۡتَغۡفَرَ
+    arabic: فَٱسۡتَغۡفَرَ
     translation: and he asked forgiveness
     transliteration: fa-is'taghfara
   29:
-    arabic: رَبَّهٗ
+    arabic: رَبَّهُۥ
     translation: (of) his Lord
     transliteration: rabbahu
   30:
-    arabic: وَخَرَّ
+    arabic: وَخَرَّۤ
     translation: and fell down
     transliteration: wakharra
   31:
-    arabic: رَاكِعًا
+    arabic: رَاكِعٗاۤ
     translation: bowing
     transliteration: rākiʿan
   32:
-    arabic: وَّاَنَابَ‏ ۩
+    arabic: وَأَنَابَ۩
     translation: and turned in repentance
     transliteration: wa-anāba
 ---

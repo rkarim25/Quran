@@ -1,10 +1,10 @@
 ---
-arabic_ayat: وَمِنۡ شَرِّ النَّفّٰثٰتِ فِى الۡعُقَدِۙ‏
+arabic_ayat: وَمِن شَرِّ ٱلنَّفَّٰثَٰتِ فِي ٱلۡعُقَدِ
 sentence_translation: and from the evil of those ˹witches casting spells by˺ blowing
   onto knots,
 word_by_word:
   1:
-    arabic: وَمِنۡ
+    arabic: وَمِن
     translation: And from
     transliteration: wamin
   2:
@@ -12,15 +12,15 @@ word_by_word:
     translation: (the) evil
     transliteration: sharri
   3:
-    arabic: النَّفّٰثٰتِ
+    arabic: ٱلنَّفَّٰثَٰتِ
     translation: (of) the blowers
     transliteration: l-nafāthāti
   4:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   5:
-    arabic: الۡعُقَدِۙ‏
+    arabic: ٱلۡعُقَدِ
     translation: the knots
     transliteration: l-ʿuqadi
 ---

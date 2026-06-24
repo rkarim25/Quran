@@ -1,6 +1,6 @@
 ---
-arabic_ayat: وَمَا جَعَلۡنَا لِبَشَرٍ مِّنۡ قَبۡلِكَ الۡخُـلۡدَ​ ؕ اَفَا۟ٮِٕن مِّتَّ
-  فَهُمُ الۡخٰـلِدُوۡنَ‏
+arabic_ayat: وَمَا جَعَلۡنَا لِبَشَرٖ مِّن قَبۡلِكَ ٱلۡخُلۡدَۖ أَفَإِيْن مِّتَّ فَهُمُ
+  ٱلۡخَٰلِدُونَ
 sentence_translation: 'We have not granted immortality to any human before you ˹O
   Prophet˺: so if you die, will they live forever?'
 word_by_word:
@@ -13,11 +13,11 @@ word_by_word:
     translation: We made
     transliteration: jaʿalnā
   3:
-    arabic: لِبَشَرٍ
+    arabic: لِبَشَرٖ
     translation: for any man
     transliteration: libasharin
   4:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: before you
     transliteration: min
   5:
@@ -25,11 +25,11 @@ word_by_word:
     translation: before you
     transliteration: qablika
   6:
-    arabic: الۡخُـلۡدَ​ ؕ
+    arabic: ٱلۡخُلۡدَۖ
     translation: '[the] immortality'
     transliteration: l-khul'da
   7:
-    arabic: اَفَا۟ٮِٕن
+    arabic: أَفَإِيْن
     translation: so if
     transliteration: afa-in
   8:
@@ -41,7 +41,7 @@ word_by_word:
     translation: then (would) they
     transliteration: fahumu
   10:
-    arabic: الۡخٰـلِدُوۡنَ‏
+    arabic: ٱلۡخَٰلِدُونَ
     translation: live forever
     transliteration: l-khālidūna
 ---

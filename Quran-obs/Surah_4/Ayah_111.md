@@ -1,35 +1,35 @@
 ---
-arabic_ayat: وَمَنۡ يَّكۡسِبۡ اِثۡمًا فَاِنَّمَا يَكۡسِبُهٗ عَلٰى نَفۡسِهٖ​ؕ وَكَانَ
-  اللّٰهُ عَلِيۡمًا حَكِيۡمًا‏
+arabic_ayat: وَمَن يَكۡسِبۡ إِثۡمٗا فَإِنَّمَا يَكۡسِبُهُۥ عَلَىٰ نَفۡسِهِۦۚ وَكَانَ
+  ٱللَّهُ عَلِيمًا حَكِيمٗا
 sentence_translation: And whoever commits a sin—it is only to their own loss. Allah
   is All-Knowing, All-Wise.
 word_by_word:
   1:
-    arabic: وَمَنۡ
+    arabic: وَمَن
     translation: And whoever
     transliteration: waman
   2:
-    arabic: يَّكۡسِبۡ
+    arabic: يَكۡسِبۡ
     translation: earns
     transliteration: yaksib
   3:
-    arabic: اِثۡمًا
+    arabic: إِثۡمٗا
     translation: sin
     transliteration: ith'man
   4:
-    arabic: فَاِنَّمَا
+    arabic: فَإِنَّمَا
     translation: then only
     transliteration: fa-innamā
   5:
-    arabic: يَكۡسِبُهٗ
+    arabic: يَكۡسِبُهُۥ
     translation: he earns it
     transliteration: yaksibuhu
   6:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: against
     transliteration: ʿalā
   7:
-    arabic: نَفۡسِهٖ​ؕ
+    arabic: نَفۡسِهِۦۚ
     translation: his soul
     transliteration: nafsihi
   8:
@@ -37,15 +37,15 @@ word_by_word:
     translation: And is
     transliteration: wakāna
   9:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   10:
-    arabic: عَلِيۡمًا
+    arabic: عَلِيمًا
     translation: All-Knowing
     transliteration: ʿalīman
   11:
-    arabic: حَكِيۡمًا‏
+    arabic: حَكِيمٗا
     translation: All-Wise
     transliteration: ḥakīman
 ---

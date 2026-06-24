@@ -1,22 +1,22 @@
 ---
-arabic_ayat: اِلَّا الَّذِيۡنَ عَاهَدتُّمۡ مِّنَ الۡمُشۡرِكِيۡنَ ثُمَّ لَمۡ يَنۡقُصُوۡكُمۡ
-  شَيۡـًٔـا وَّلَمۡ يُظَاهِرُوۡا عَلَيۡكُمۡ اَحَدًا فَاَتِمُّوۡۤا اِلَيۡهِمۡ عَهۡدَهُمۡ
-  اِلٰى مُدَّتِهِمۡ​ؕ اِنَّ اللّٰهَ يُحِبُّ الۡمُتَّقِيۡنَ‏
+arabic_ayat: إِلَّا ٱلَّذِينَ عَٰهَدتُّم مِّنَ ٱلۡمُشۡرِكِينَ ثُمَّ لَمۡ يَنقُصُوكُمۡ
+  شَيۡـٔٗا وَلَمۡ يُظَٰهِرُواْ عَلَيۡكُمۡ أَحَدٗا فَأَتِمُّوٓاْ إِلَيۡهِمۡ عَهۡدَهُمۡ
+  إِلَىٰ مُدَّتِهِمۡۚ إِنَّ ٱللَّهَ يُحِبُّ ٱلۡمُتَّقِينَ
 sentence_translation: As for the polytheists who have honoured every term of their
   treaty with you and have not supported an enemy against you, honour your treaty
   with them until the end of its term. Surely Allah loves those who are mindful ˹of
   Him˺.
 word_by_word:
   1:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: Except
     transliteration: illā
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those (with) whom
     transliteration: alladhīna
   3:
-    arabic: عَاهَدتُّمۡ
+    arabic: عَٰهَدتُّم
     translation: you have a covenant
     transliteration: ʿāhadttum
   4:
@@ -24,7 +24,7 @@ word_by_word:
     translation: among
     transliteration: mina
   5:
-    arabic: الۡمُشۡرِكِيۡنَ
+    arabic: ٱلۡمُشۡرِكِينَ
     translation: the polytheists
     transliteration: l-mush'rikīna
   6:
@@ -36,19 +36,19 @@ word_by_word:
     translation: not
     transliteration: lam
   8:
-    arabic: يَنۡقُصُوۡكُمۡ
+    arabic: يَنقُصُوكُمۡ
     translation: they have failed you
     transliteration: yanquṣūkum
   9:
-    arabic: شَيۡـًٔـا
+    arabic: شَيۡـٔٗا
     translation: (in any) thing
     transliteration: shayan
   10:
-    arabic: وَّلَمۡ
+    arabic: وَلَمۡ
     translation: and not
     transliteration: walam
   11:
-    arabic: يُظَاهِرُوۡا
+    arabic: يُظَٰهِرُواْ
     translation: they have supported
     transliteration: yuẓāhirū
   12:
@@ -56,15 +56,15 @@ word_by_word:
     translation: against you
     transliteration: ʿalaykum
   13:
-    arabic: اَحَدًا
+    arabic: أَحَدٗا
     translation: anyone
     transliteration: aḥadan
   14:
-    arabic: فَاَتِمُّوۡۤا
+    arabic: فَأَتِمُّوٓاْ
     translation: so fulfil
     transliteration: fa-atimmū
   15:
-    arabic: اِلَيۡهِمۡ
+    arabic: إِلَيۡهِمۡ
     translation: to them
     transliteration: ilayhim
   16:
@@ -72,19 +72,19 @@ word_by_word:
     translation: their treaty
     transliteration: ʿahdahum
   17:
-    arabic: اِلٰى
+    arabic: إِلَىٰ
     translation: till
     transliteration: ilā
   18:
-    arabic: مُدَّتِهِمۡ​ؕ
+    arabic: مُدَّتِهِمۡۚ
     translation: their term
     transliteration: muddatihim
   19:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   20:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   21:
@@ -92,7 +92,7 @@ word_by_word:
     translation: loves
     transliteration: yuḥibbu
   22:
-    arabic: الۡمُتَّقِيۡنَ‏
+    arabic: ٱلۡمُتَّقِينَ
     translation: the righteous
     transliteration: l-mutaqīna
 ---

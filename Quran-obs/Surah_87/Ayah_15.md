@@ -1,5 +1,5 @@
 ---
-arabic_ayat: وَذَكَرَ اسۡمَ رَبِّهٖ فَصَلّٰى​ ؕ‏
+arabic_ayat: وَذَكَرَ ٱسۡمَ رَبِّهِۦ فَصَلَّىٰ
 sentence_translation: remember the Name of their Lord, and pray.
 word_by_word:
   1:
@@ -7,15 +7,15 @@ word_by_word:
     translation: And remembers
     transliteration: wadhakara
   2:
-    arabic: اسۡمَ
+    arabic: ٱسۡمَ
     translation: (the) name
     transliteration: is'ma
   3:
-    arabic: رَبِّهٖ
+    arabic: رَبِّهِۦ
     translation: (of) his Lord
     transliteration: rabbihi
   4:
-    arabic: فَصَلّٰى​ ؕ‏
+    arabic: فَصَلَّىٰ
     translation: and prays
     transliteration: faṣallā
 ---

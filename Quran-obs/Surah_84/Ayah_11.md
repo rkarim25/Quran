@@ -1,5 +1,5 @@
 ---
-arabic_ayat: فَسَوۡفَ يَدۡعُوۡا ثُبُوۡرًا ۙ‏
+arabic_ayat: فَسَوۡفَ يَدۡعُواْ ثُبُورٗا
 sentence_translation: they will cry for ˹instant˺ destruction,
 word_by_word:
   1:
@@ -7,11 +7,11 @@ word_by_word:
     translation: Then soon
     transliteration: fasawfa
   2:
-    arabic: يَدۡعُوۡا
+    arabic: يَدۡعُواْ
     translation: he will call
     transliteration: yadʿū
   3:
-    arabic: ثُبُوۡرًا ۙ‏
+    arabic: ثُبُورٗا
     translation: (for) destruction
     transliteration: thubūran
 ---

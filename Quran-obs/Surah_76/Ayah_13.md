@@ -1,15 +1,15 @@
 ---
-arabic_ayat: مُّتَّكِـِٕـيۡنَ فِيۡهَا عَلَى الۡاَرَآٮِٕكِ​ۚ لَا يَرَوۡنَ فِيۡهَا
-  شَمۡسًا وَّلَا زَمۡهَرِيۡرًا​ۚ‏
+arabic_ayat: مُّتَّكِـِٔينَ فِيهَا عَلَى ٱلۡأَرَآئِكِۖ لَا يَرَوۡنَ فِيهَا شَمۡسٗا
+  وَلَا زَمۡهَرِيرٗا
 sentence_translation: There they will be reclining on ˹canopied˺ couches, never seeing
   scorching heat or bitter cold.
 word_by_word:
   1:
-    arabic: مُّتَّكِـِٕـيۡنَ
+    arabic: مُّتَّكِـِٔينَ
     translation: Reclining
     transliteration: muttakiīna
   2:
-    arabic: فِيۡهَا
+    arabic: فِيهَا
     translation: therein
     transliteration: fīhā
   3:
@@ -17,7 +17,7 @@ word_by_word:
     translation: 'on'
     transliteration: ʿalā
   4:
-    arabic: الۡاَرَآٮِٕكِ​ۚ
+    arabic: ٱلۡأَرَآئِكِۖ
     translation: couches
     transliteration: l-arāiki
   5:
@@ -29,19 +29,19 @@ word_by_word:
     translation: they will see
     transliteration: yarawna
   7:
-    arabic: فِيۡهَا
+    arabic: فِيهَا
     translation: therein
     transliteration: fīhā
   8:
-    arabic: شَمۡسًا
+    arabic: شَمۡسٗا
     translation: sun
     transliteration: shamsan
   9:
-    arabic: وَّلَا
+    arabic: وَلَا
     translation: and not
     transliteration: walā
   10:
-    arabic: زَمۡهَرِيۡرًا​ۚ‏
+    arabic: زَمۡهَرِيرٗا
     translation: freezing cold
     transliteration: zamharīran
 ---

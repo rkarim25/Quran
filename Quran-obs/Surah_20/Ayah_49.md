@@ -1,5 +1,5 @@
 ---
-arabic_ayat: قَالَ فَمَنۡ رَّبُّكُمَا يٰمُوۡسٰى‏
+arabic_ayat: قَالَ فَمَن رَّبُّكُمَا يَٰمُوسَىٰ
 sentence_translation: Pharaoh asked, “Who then is the Lord of you two, O  Moses?”
 word_by_word:
   1:
@@ -7,7 +7,7 @@ word_by_word:
     translation: He said
     transliteration: qāla
   2:
-    arabic: فَمَنۡ
+    arabic: فَمَن
     translation: Then who
     transliteration: faman
   3:
@@ -15,7 +15,7 @@ word_by_word:
     translation: (is) your Lord
     transliteration: rabbukumā
   4:
-    arabic: يٰمُوۡسٰى‏
+    arabic: يَٰمُوسَىٰ
     translation: O Musa
     transliteration: yāmūsā
 ---

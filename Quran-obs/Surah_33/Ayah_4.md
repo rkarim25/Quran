@@ -1,8 +1,8 @@
 ---
-arabic_ayat: مَا جَعَلَ اللّٰهُ لِرَجُلٍ مِّنۡ قَلۡبَيۡنِ فِىۡ جَوۡفِهٖ ۚ وَمَا جَعَلَ
-  اَزۡوَاجَكُمُ الّٰٓـئِْ تُظٰهِرُوۡنَ مِنۡهُنَّ اُمَّهٰتِكُمۡ ​ۚ وَمَا جَعَلَ اَدۡعِيَآءَكُمۡ
-  اَبۡنَآءَكُمۡ​ ؕ ذٰ لِكُمۡ قَوۡلُـكُمۡ بِاَ فۡوَاهِكُمۡ​ ؕ وَاللّٰهُ يَقُوۡلُ الۡحَقَّ
-  وَهُوَ يَهۡدِى السَّبِيۡلَ‏
+arabic_ayat: مَّا جَعَلَ ٱللَّهُ لِرَجُلٖ مِّن قَلۡبَيۡنِ فِي جَوۡفِهِۦۚ وَمَا جَعَلَ
+  أَزۡوَٰجَكُمُ ٱلَّٰٓـِٔي تُظَٰهِرُونَ مِنۡهُنَّ أُمَّهَٰتِكُمۡۚ وَمَا جَعَلَ أَدۡعِيَآءَكُمۡ
+  أَبۡنَآءَكُمۡۚ ذَٰلِكُمۡ قَوۡلُكُم بِأَفۡوَٰهِكُمۡۖ وَٱللَّهُ يَقُولُ ٱلۡحَقَّ
+  وَهُوَ يَهۡدِي ٱلسَّبِيلَ
 sentence_translation: Allah does not place two hearts in any person’s chest. Nor does
   He regard your wives as ˹unlawful for you like˺ your real mothers, ˹even˺ if you
   say they are. Nor does He regard your adopted children as your real children. These
@@ -10,7 +10,7 @@ sentence_translation: Allah does not place two hearts in any person’s chest. N
   guides to the ˹Right˺ Way.
 word_by_word:
   1:
-    arabic: مَا
+    arabic: مَّا
     translation: Not
     transliteration: mā
   2:
@@ -18,15 +18,15 @@ word_by_word:
     translation: Allah (has) made
     transliteration: jaʿala
   3:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah (has) made
     transliteration: l-lahu
   4:
-    arabic: لِرَجُلٍ
+    arabic: لِرَجُلٖ
     translation: for any man
     transliteration: lirajulin
   5:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: '[of]'
     transliteration: min
   6:
@@ -34,11 +34,11 @@ word_by_word:
     translation: two hearts
     transliteration: qalbayni
   7:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   8:
-    arabic: جَوۡفِهٖ ۚ
+    arabic: جَوۡفِهِۦۚ
     translation: his interior
     transliteration: jawfihi
   9:
@@ -50,15 +50,15 @@ word_by_word:
     translation: He (has) made
     transliteration: jaʿala
   11:
-    arabic: اَزۡوَاجَكُمُ
+    arabic: أَزۡوَٰجَكُمُ
     translation: your wives
     transliteration: azwājakumu
   12:
-    arabic: الّٰٓـئِْ
+    arabic: ٱلَّٰٓـِٔي
     translation: whom
     transliteration: allāī
   13:
-    arabic: تُظٰهِرُوۡنَ
+    arabic: تُظَٰهِرُونَ
     translation: you declare unlawful
     transliteration: tuẓāhirūna
   14:
@@ -66,7 +66,7 @@ word_by_word:
     translation: '[of them]'
     transliteration: min'hunna
   15:
-    arabic: اُمَّهٰتِكُمۡ ​ۚ
+    arabic: أُمَّهَٰتِكُمۡۚ
     translation: (as) your mothers
     transliteration: ummahātikum
   16:
@@ -78,35 +78,35 @@ word_by_word:
     translation: He has made
     transliteration: jaʿala
   18:
-    arabic: اَدۡعِيَآءَكُمۡ
+    arabic: أَدۡعِيَآءَكُمۡ
     translation: your adopted sons
     transliteration: adʿiyāakum
   19:
-    arabic: اَبۡنَآءَكُمۡ​ ؕ
+    arabic: أَبۡنَآءَكُمۡۚ
     translation: your sons
     transliteration: abnāakum
   20:
-    arabic: ذٰ لِكُمۡ
+    arabic: ذَٰلِكُمۡ
     translation: That
     transliteration: dhālikum
   21:
-    arabic: قَوۡلُـكُمۡ
+    arabic: قَوۡلُكُم
     translation: (is) your saying
     transliteration: qawlukum
   22:
-    arabic: بِاَ فۡوَاهِكُمۡ​ ؕ
+    arabic: بِأَفۡوَٰهِكُمۡۖ
     translation: by your mouths
     transliteration: bi-afwāhikum
   23:
-    arabic: وَاللّٰهُ
+    arabic: وَٱللَّهُ
     translation: but Allah
     transliteration: wal-lahu
   24:
-    arabic: يَقُوۡلُ
+    arabic: يَقُولُ
     translation: says
     transliteration: yaqūlu
   25:
-    arabic: الۡحَقَّ
+    arabic: ٱلۡحَقَّ
     translation: the truth
     transliteration: l-ḥaqa
   26:
@@ -114,11 +114,11 @@ word_by_word:
     translation: and He
     transliteration: wahuwa
   27:
-    arabic: يَهۡدِى
+    arabic: يَهۡدِي
     translation: guides
     transliteration: yahdī
   28:
-    arabic: السَّبِيۡلَ‏
+    arabic: ٱلسَّبِيلَ
     translation: (to) the Way
     transliteration: l-sabīla
 ---

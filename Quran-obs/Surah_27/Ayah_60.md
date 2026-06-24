@@ -1,15 +1,14 @@
 ---
-arabic_ayat: اَمَّنۡ خَلَقَ السَّمٰوٰتِ وَالۡاَرۡضَ وَاَنۡزَلَ لَـكُمۡ مِّنَ السَّمَآءِ
-  مَآءً​ ۚ فَاَنۡۢبَتۡنَا بِهٖ حَدَآٮِٕقَ ذَاتَ بَهۡجَةٍ​ ۚ مَا كَانَ لَـكُمۡ اَنۡ
-  تُـنۡۢبِتُوۡا شَجَرَهَا ؕ ءَاِلٰـهٌ مَّعَ اللّٰهِ​ ؕ بَلۡ هُمۡ قَوۡمٌ يَّعۡدِلُوۡنَ
-  ؕ‏
+arabic_ayat: أَمَّنۡ خَلَقَ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضَ وَأَنزَلَ لَكُم مِّنَ ٱلسَّمَآءِ
+  مَآءٗ فَأَنۢبَتۡنَا بِهِۦ حَدَآئِقَ ذَاتَ بَهۡجَةٖ مَّا كَانَ لَكُمۡ أَن تُنۢبِتُواْ
+  شَجَرَهَآۗ أَءِلَٰهٞ مَّعَ ٱللَّهِۚ بَلۡ هُمۡ قَوۡمٞ يَعۡدِلُونَ
 sentence_translation: Or ˹ask them,˺ “Who created the heavens and the earth, and sends
   down rain for you from the sky, by which We cause delightful gardens to grow? You
   could never cause their trees to grow. Was it another god besides Allah?” Absolutely
   not! But they are a people who set up equals ˹to Allah˺!
 word_by_word:
   1:
-    arabic: اَمَّنۡ
+    arabic: أَمَّنۡ
     translation: Or Who
     transliteration: amman
   2:
@@ -17,19 +16,19 @@ word_by_word:
     translation: has created
     transliteration: khalaqa
   3:
-    arabic: السَّمٰوٰتِ
+    arabic: ٱلسَّمَٰوَٰتِ
     translation: the heavens
     transliteration: l-samāwāti
   4:
-    arabic: وَالۡاَرۡضَ
+    arabic: وَٱلۡأَرۡضَ
     translation: and the earth
     transliteration: wal-arḍa
   5:
-    arabic: وَاَنۡزَلَ
+    arabic: وَأَنزَلَ
     translation: and sent down
     transliteration: wa-anzala
   6:
-    arabic: لَـكُمۡ
+    arabic: لَكُم
     translation: for you
     transliteration: lakum
   7:
@@ -37,23 +36,23 @@ word_by_word:
     translation: from
     transliteration: mina
   8:
-    arabic: السَّمَآءِ
+    arabic: ٱلسَّمَآءِ
     translation: the sky
     transliteration: l-samāi
   9:
-    arabic: مَآءً​ ۚ
+    arabic: مَآءٗ
     translation: water
     transliteration: māan
   10:
-    arabic: فَاَنۡۢبَتۡنَا
+    arabic: فَأَنۢبَتۡنَا
     translation: And We caused to grow
     transliteration: fa-anbatnā
   11:
-    arabic: بِهٖ
+    arabic: بِهِۦ
     translation: thereby
     transliteration: bihi
   12:
-    arabic: حَدَآٮِٕقَ
+    arabic: حَدَآئِقَ
     translation: gardens
     transliteration: ḥadāiqa
   13:
@@ -61,11 +60,11 @@ word_by_word:
     translation: of beauty (and delight)
     transliteration: dhāta
   14:
-    arabic: بَهۡجَةٍ​ ۚ
+    arabic: بَهۡجَةٖ
     translation: of beauty (and delight)
     transliteration: bahjatin
   15:
-    arabic: مَا
+    arabic: مَّا
     translation: not
     transliteration: mā
   16:
@@ -73,23 +72,23 @@ word_by_word:
     translation: it is
     transliteration: kāna
   17:
-    arabic: لَـكُمۡ
+    arabic: لَكُمۡ
     translation: for you
     transliteration: lakum
   18:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that
     transliteration: an
   19:
-    arabic: تُـنۡۢبِتُوۡا
+    arabic: تُنۢبِتُواْ
     translation: you cause to grow
     transliteration: tunbitū
   20:
-    arabic: شَجَرَهَا ؕ
+    arabic: شَجَرَهَآۗ أَ
     translation: their trees
     transliteration: shajarahā
   21:
-    arabic: ءَاِلٰـهٌ
+    arabic: ءِلَٰهٞ
     translation: Is there any god
     transliteration: a-ilāhun
   22:
@@ -97,7 +96,7 @@ word_by_word:
     translation: with
     transliteration: maʿa
   23:
-    arabic: اللّٰهِ​ ؕ
+    arabic: ٱللَّهِۚ
     translation: Allah
     transliteration: l-lahi
   24:
@@ -109,11 +108,11 @@ word_by_word:
     translation: they
     transliteration: hum
   26:
-    arabic: قَوۡمٌ
+    arabic: قَوۡمٞ
     translation: (are) a people
     transliteration: qawmun
   27:
-    arabic: يَّعۡدِلُوۡنَ ؕ‏
+    arabic: يَعۡدِلُونَ
     translation: who ascribe equals
     transliteration: yaʿdilūna
 ---

@@ -1,15 +1,14 @@
 ---
-arabic_ayat: "اِنَّاۤ اَرۡسَلۡنَا عَلَيۡهِمۡ رِيۡحًا صَرۡصَرًا فِىۡ يَوۡمِ نَحۡسٍ\
-  \ مُّسۡتَمِرٍّۙ‏ \uFEFF\uFEFF"
+arabic_ayat: إِنَّآ أَرۡسَلۡنَا عَلَيۡهِمۡ رِيحٗا صَرۡصَرٗا فِي يَوۡمِ نَحۡسٖ مُّسۡتَمِرّٖ
 sentence_translation: Indeed, We sent against them a furious wind, on a day of unrelenting
   misery,
 word_by_word:
   1:
-    arabic: اِنَّاۤ
+    arabic: إِنَّآ
     translation: Indeed, We
     transliteration: innā
   2:
-    arabic: اَرۡسَلۡنَا
+    arabic: أَرۡسَلۡنَا
     translation: '[We] sent'
     transliteration: arsalnā
   3:
@@ -17,15 +16,15 @@ word_by_word:
     translation: upon them
     transliteration: ʿalayhim
   4:
-    arabic: رِيۡحًا
+    arabic: رِيحٗا
     translation: a wind
     transliteration: rīḥan
   5:
-    arabic: صَرۡصَرًا
+    arabic: صَرۡصَرٗا
     translation: furious
     transliteration: ṣarṣaran
   6:
-    arabic: فِىۡ
+    arabic: فِي
     translation: 'on'
     transliteration: fī
   7:
@@ -33,11 +32,11 @@ word_by_word:
     translation: a day
     transliteration: yawmi
   8:
-    arabic: نَحۡسٍ
+    arabic: نَحۡسٖ
     translation: (of) misfortune
     transliteration: naḥsin
   9:
-    arabic: "مُّسۡتَمِرٍّۙ‏ \uFEFF\uFEFF"
+    arabic: مُّسۡتَمِرّٖ
     translation: continuous
     transliteration: mus'tamirrin
 ---

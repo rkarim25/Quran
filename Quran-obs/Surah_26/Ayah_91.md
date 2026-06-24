@@ -1,5 +1,5 @@
 ---
-arabic_ayat: وَبُرِّزَتِ الۡجَحِيۡمُ لِلۡغٰوِيۡنَۙ‏
+arabic_ayat: وَبُرِّزَتِ ٱلۡجَحِيمُ لِلۡغَاوِينَ
 sentence_translation: and the Hellfire will be displayed to the deviant.
 word_by_word:
   1:
@@ -7,11 +7,11 @@ word_by_word:
     translation: And (will be) made manifest
     transliteration: waburrizati
   2:
-    arabic: الۡجَحِيۡمُ
+    arabic: ٱلۡجَحِيمُ
     translation: the Hellfire
     transliteration: l-jaḥīmu
   3:
-    arabic: لِلۡغٰوِيۡنَۙ‏
+    arabic: لِلۡغَاوِينَ
     translation: to the deviators
     transliteration: lil'ghāwīna
 ---

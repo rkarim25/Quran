@@ -1,11 +1,11 @@
 ---
-arabic_ayat: اَلَمۡ تَعۡلَمۡ اَنَّ اللّٰهَ لَهٗ مُلۡكُ السَّمٰوٰتِ وَالۡاَرۡضِ​ؕ وَمَا
-  لَـکُمۡ مِّنۡ دُوۡنِ اللّٰهِ مِنۡ وَّلِىٍّ وَّلَا نَصِيۡرٍ‏
+arabic_ayat: أَلَمۡ تَعۡلَمۡ أَنَّ ٱللَّهَ لَهُۥ مُلۡكُ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِۗ
+  وَمَا لَكُم مِّن دُونِ ٱللَّهِ مِن وَلِيّٖ وَلَا نَصِيرٍ
 sentence_translation: Do you not know that the kingdom of the heavens and the earth
   belongs ˹only˺ to Allah, and you have no guardian or helper besides Allah?
 word_by_word:
   1:
-    arabic: اَلَمۡ
+    arabic: أَلَمۡ
     translation: Do not
     transliteration: alam
   2:
@@ -13,15 +13,15 @@ word_by_word:
     translation: you know
     transliteration: taʿlam
   3:
-    arabic: اَنَّ
+    arabic: أَنَّ
     translation: that
     transliteration: anna
   4:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   5:
-    arabic: لَهٗ
+    arabic: لَهُۥ
     translation: for Him
     transliteration: lahu
   6:
@@ -29,11 +29,11 @@ word_by_word:
     translation: (is the) Kingdom
     transliteration: mul'ku
   7:
-    arabic: السَّمٰوٰتِ
+    arabic: ٱلسَّمَٰوَٰتِ
     translation: (of) the heavens
     transliteration: l-samāwāti
   8:
-    arabic: وَالۡاَرۡضِ​ؕ
+    arabic: وَٱلۡأَرۡضِۗ
     translation: and the earth
     transliteration: wal-arḍi
   9:
@@ -41,35 +41,35 @@ word_by_word:
     translation: And not
     transliteration: wamā
   10:
-    arabic: لَـکُمۡ
+    arabic: لَكُم
     translation: (is) for you
     transliteration: lakum
   11:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: from
     transliteration: min
   12:
-    arabic: دُوۡنِ
+    arabic: دُونِ
     translation: besides
     transliteration: dūni
   13:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   14:
-    arabic: مِنۡ
+    arabic: مِن
     translation: any
     transliteration: min
   15:
-    arabic: وَّلِىٍّ
+    arabic: وَلِيّٖ
     translation: protector
     transliteration: waliyyin
   16:
-    arabic: وَّلَا
+    arabic: وَلَا
     translation: and not
     transliteration: walā
   17:
-    arabic: نَصِيۡرٍ‏
+    arabic: نَصِيرٍ
     translation: any helper
     transliteration: naṣīrin
 ---

@@ -1,27 +1,27 @@
 ---
-arabic_ayat: "اِنَّ الَّذِيۡنَ اٰمَنُوا وَعَمِلُوۡا الصّٰلِحٰتِ لَهُمۡ جَنّٰتُ النَّعِيۡمِۙ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: إِنَّ ٱلَّذِينَ ءَامَنُواْ وَعَمِلُواْ ٱلصَّٰلِحَٰتِ لَهُمۡ جَنَّٰتُ
+  ٱلنَّعِيمِ
 sentence_translation: Surely those who believe and do good will have the Gardens of
   Bliss,
 word_by_word:
   1:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ ءَ
     translation: those who
     transliteration: alladhīna
   3:
-    arabic: اٰمَنُوا
+    arabic: امَنُواْ
     translation: believe
     transliteration: āmanū
   4:
-    arabic: وَعَمِلُوۡا
+    arabic: وَعَمِلُواْ
     translation: and do
     transliteration: waʿamilū
   5:
-    arabic: الصّٰلِحٰتِ
+    arabic: ٱلصَّٰلِحَٰتِ
     translation: righteous deeds
     transliteration: l-ṣāliḥāti
   6:
@@ -29,11 +29,11 @@ word_by_word:
     translation: for them
     transliteration: lahum
   7:
-    arabic: جَنّٰتُ
+    arabic: جَنَّٰتُ
     translation: (are) Gardens
     transliteration: jannātu
   8:
-    arabic: "النَّعِيۡمِۙ‏ \uFEFF\uFEFF"
+    arabic: ٱلنَّعِيمِ
     translation: (of) Delight
     transliteration: l-naʿīmi
 ---

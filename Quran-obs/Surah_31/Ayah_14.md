@@ -1,7 +1,6 @@
 ---
-arabic_ayat: "وَوَصَّيۡنَا الۡاِنۡسٰنَ بِوَالِدَيۡهِ​ۚ حَمَلَتۡهُ اُمُّهٗ وَهۡنًا\
-  \ عَلٰى وَهۡنٍ وَّفِصٰلُهٗ فِىۡ عَامَيۡنِ اَنِ اشۡكُرۡ لِىۡ وَلِـوَالِدَيۡكَؕ اِلَىَّ\
-  \ الۡمَصِيۡرُ‏ \uFEFF\uFEFF"
+arabic_ayat: وَوَصَّيۡنَا ٱلۡإِنسَٰنَ بِوَٰلِدَيۡهِ حَمَلَتۡهُ أُمُّهُۥ وَهۡنًا عَلَىٰ
+  وَهۡنٖ وَفِصَٰلُهُۥ فِي عَامَيۡنِ أَنِ ٱشۡكُرۡ لِي وَلِوَٰلِدَيۡكَ إِلَيَّ ٱلۡمَصِيرُ
 sentence_translation: And We have commanded people to ˹honour˺ their parents. Their
   mothers bore them through hardship upon hardship, and their weaning takes two years.
   So be grateful to Me and your parents. To Me is the final return.
@@ -11,11 +10,11 @@ word_by_word:
     translation: And We have enjoined
     transliteration: wawaṣṣaynā
   2:
-    arabic: الۡاِنۡسٰنَ
+    arabic: ٱلۡإِنسَٰنَ
     translation: (upon) man
     transliteration: l-insāna
   3:
-    arabic: بِوَالِدَيۡهِ​ۚ
+    arabic: بِوَٰلِدَيۡهِ
     translation: 'for his parents '
     transliteration: biwālidayhi
   4:
@@ -23,7 +22,7 @@ word_by_word:
     translation: carried him
     transliteration: ḥamalathu
   5:
-    arabic: اُمُّهٗ
+    arabic: أُمُّهُۥ
     translation: his mother
     transliteration: ummuhu
   6:
@@ -31,19 +30,19 @@ word_by_word:
     translation: (in) weakness
     transliteration: wahnan
   7:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: upon
     transliteration: ʿalā
   8:
-    arabic: وَهۡنٍ
+    arabic: وَهۡنٖ
     translation: weakness
     transliteration: wahnin
   9:
-    arabic: وَّفِصٰلُهٗ
+    arabic: وَفِصَٰلُهُۥ
     translation: and his weaning
     transliteration: wafiṣāluhu
   10:
-    arabic: فِىۡ
+    arabic: فِي
     translation: (is) in
     transliteration: fī
   11:
@@ -51,27 +50,27 @@ word_by_word:
     translation: two years
     transliteration: ʿāmayni
   12:
-    arabic: اَنِ
+    arabic: أَنِ
     translation: that
     transliteration: ani
   13:
-    arabic: اشۡكُرۡ
+    arabic: ٱشۡكُرۡ
     translation: Be grateful
     transliteration: ush'kur
   14:
-    arabic: لِىۡ
+    arabic: لِي
     translation: to Me
     transliteration: lī
   15:
-    arabic: وَلِـوَالِدَيۡكَؕ
+    arabic: وَلِوَٰلِدَيۡكَ
     translation: and to your parents
     transliteration: waliwālidayka
   16:
-    arabic: اِلَىَّ
+    arabic: إِلَيَّ
     translation: towards Me
     transliteration: ilayya
   17:
-    arabic: "الۡمَصِيۡرُ‏ \uFEFF\uFEFF"
+    arabic: ٱلۡمَصِيرُ
     translation: (is) the destination
     transliteration: l-maṣīru
 ---

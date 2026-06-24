@@ -1,13 +1,13 @@
 ---
-arabic_ayat: اَلَاۤ اِنَّهُمۡ مِّنۡ اِفۡكِهِمۡ لَيَقُوۡلُوۡنَۙ‏
+arabic_ayat: أَلَآ إِنَّهُم مِّنۡ إِفۡكِهِمۡ لَيَقُولُونَ
 sentence_translation: Indeed, it is one of their ˹outrageous˺ fabrications to say,
 word_by_word:
   1:
-    arabic: اَلَاۤ
+    arabic: أَلَآ
     translation: No doubt
     transliteration: alā
   2:
-    arabic: اِنَّهُمۡ
+    arabic: إِنَّهُم
     translation: indeed, they
     transliteration: innahum
   3:
@@ -15,11 +15,11 @@ word_by_word:
     translation: of
     transliteration: min
   4:
-    arabic: اِفۡكِهِمۡ
+    arabic: إِفۡكِهِمۡ
     translation: their falsehood
     transliteration: if'kihim
   5:
-    arabic: لَيَقُوۡلُوۡنَۙ‏
+    arabic: لَيَقُولُونَ
     translation: '[they] say'
     transliteration: layaqūlūna
 ---

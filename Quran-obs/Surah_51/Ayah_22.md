@@ -1,13 +1,13 @@
 ---
-arabic_ayat: وَفِى السَّمَآءِ رِزۡقُكُمۡ وَمَا تُوۡعَدُوۡنَ‏
+arabic_ayat: وَفِي ٱلسَّمَآءِ رِزۡقُكُمۡ وَمَا تُوعَدُونَ
 sentence_translation: In heaven is your sustenance and whatever you are promised.
 word_by_word:
   1:
-    arabic: وَفِى
+    arabic: وَفِي
     translation: And in
     transliteration: wafī
   2:
-    arabic: السَّمَآءِ
+    arabic: ٱلسَّمَآءِ
     translation: the heaven
     transliteration: l-samāi
   3:
@@ -19,7 +19,7 @@ word_by_word:
     translation: and what
     transliteration: wamā
   5:
-    arabic: تُوۡعَدُوۡنَ‏
+    arabic: تُوعَدُونَ
     translation: you are promised
     transliteration: tūʿadūna
 ---

@@ -1,12 +1,12 @@
 ---
-arabic_ayat: اَمۡ نَجۡعَلُ الَّذِيۡنَ اٰمَنُوۡا وَعَمِلُوا الصّٰلِحٰتِ كَالۡمُفۡسِدِيۡنَ
-  فِى الۡاَرۡضِ اَمۡ نَجۡعَلُ الۡمُتَّقِيۡنَ كَالۡفُجَّارِ‏
+arabic_ayat: أَمۡ نَجۡعَلُ ٱلَّذِينَ ءَامَنُواْ وَعَمِلُواْ ٱلصَّٰلِحَٰتِ كَٱلۡمُفۡسِدِينَ
+  فِي ٱلۡأَرۡضِ أَمۡ نَجۡعَلُ ٱلۡمُتَّقِينَ كَٱلۡفُجَّارِ
 sentence_translation: Or should We treat those who believe and do good like those
   who make mischief throughout the land? Or should We treat the righteous like the
   wicked?
 word_by_word:
   1:
-    arabic: اَمۡ
+    arabic: أَمۡ
     translation: Or
     transliteration: am
   2:
@@ -14,35 +14,35 @@ word_by_word:
     translation: should We treat
     transliteration: najʿalu
   3:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ ءَ
     translation: those who
     transliteration: alladhīna
   4:
-    arabic: اٰمَنُوۡا
+    arabic: امَنُواْ
     translation: believe
     transliteration: āmanū
   5:
-    arabic: وَعَمِلُوا
+    arabic: وَعَمِلُواْ
     translation: and do
     transliteration: waʿamilū
   6:
-    arabic: الصّٰلِحٰتِ
+    arabic: ٱلصَّٰلِحَٰتِ
     translation: righteous deeds
     transliteration: l-ṣāliḥāti
   7:
-    arabic: كَالۡمُفۡسِدِيۡنَ
+    arabic: كَٱلۡمُفۡسِدِينَ
     translation: like those who spread corruption
     transliteration: kal-muf'sidīna
   8:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   9:
-    arabic: الۡاَرۡضِ
+    arabic: ٱلۡأَرۡضِ
     translation: the earth
     transliteration: l-arḍi
   10:
-    arabic: اَمۡ
+    arabic: أَمۡ
     translation: Or
     transliteration: am
   11:
@@ -50,11 +50,11 @@ word_by_word:
     translation: should We treat
     transliteration: najʿalu
   12:
-    arabic: الۡمُتَّقِيۡنَ
+    arabic: ٱلۡمُتَّقِينَ
     translation: the pious
     transliteration: l-mutaqīna
   13:
-    arabic: كَالۡفُجَّارِ‏
+    arabic: كَٱلۡفُجَّارِ
     translation: like the wicked
     transliteration: kal-fujāri
 ---

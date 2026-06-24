@@ -1,5 +1,5 @@
 ---
-arabic_ayat: مِنَ الۡجِنَّةِ وَالنَّاسِ‏
+arabic_ayat: مِنَ ٱلۡجِنَّةِ وَٱلنَّاسِ
 sentence_translation: from among jinn and humankind.”
 word_by_word:
   1:
@@ -7,11 +7,11 @@ word_by_word:
     translation: From
     transliteration: mina
   2:
-    arabic: الۡجِنَّةِ
+    arabic: ٱلۡجِنَّةِ
     translation: the jinn
     transliteration: l-jinati
   3:
-    arabic: وَالنَّاسِ‏
+    arabic: وَٱلنَّاسِ
     translation: and men
     transliteration: wal-nāsi
 ---

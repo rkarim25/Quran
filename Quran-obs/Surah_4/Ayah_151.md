@@ -1,11 +1,11 @@
 ---
-arabic_ayat: اُولٰٓٮِٕكَ هُمُ الۡـكٰفِرُوۡنَ حَقًّا​ ۚ وَ اَعۡتَدۡنَا لِلۡكٰفِرِيۡنَ
-  عَذَابًا مُّهِيۡنًا‏
+arabic_ayat: أُوْلَٰٓئِكَ هُمُ ٱلۡكَٰفِرُونَ حَقّٗاۚ وَأَعۡتَدۡنَا لِلۡكَٰفِرِينَ
+  عَذَابٗا مُّهِينٗا
 sentence_translation: they are indeed the true disbelievers. And We have prepared
   for the disbelievers a humiliating punishment.
 word_by_word:
   1:
-    arabic: اُولٰٓٮِٕكَ
+    arabic: أُوْلَٰٓئِكَ
     translation: 'Those '
     transliteration: ulāika
   2:
@@ -13,27 +13,27 @@ word_by_word:
     translation: they
     transliteration: humu
   3:
-    arabic: الۡـكٰفِرُوۡنَ
+    arabic: ٱلۡكَٰفِرُونَ
     translation: (are) the disbelievers
     transliteration: l-kāfirūna
   4:
-    arabic: حَقًّا​ ۚ
+    arabic: حَقّٗاۚ
     translation: truly
     transliteration: ḥaqqan
   5:
-    arabic: وَ اَعۡتَدۡنَا
+    arabic: وَأَعۡتَدۡنَا
     translation: And We have prepared
     transliteration: wa-aʿtadnā
   6:
-    arabic: لِلۡكٰفِرِيۡنَ
+    arabic: لِلۡكَٰفِرِينَ
     translation: for the disbelievers
     transliteration: lil'kāfirīna
   7:
-    arabic: عَذَابًا
+    arabic: عَذَابٗا
     translation: a punishment
     transliteration: ʿadhāban
   8:
-    arabic: مُّهِيۡنًا‏
+    arabic: مُّهِينٗا
     translation: humiliating
     transliteration: muhīnan
 ---

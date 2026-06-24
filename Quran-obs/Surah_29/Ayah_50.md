@@ -1,36 +1,36 @@
 ---
-arabic_ayat: وَقَالُوۡا لَوۡلَاۤ اُنۡزِلَ عَلَيۡهِ اٰيٰتٌ مِّنۡ رَّبِّهٖ​ؕ قُلۡ اِنَّمَا
-  الۡاٰيٰتُ عِنۡدَ اللّٰهِ ؕ وَاِنَّمَاۤ اَنَا۟ نَذِيۡرٌ مُّبِيۡنٌ‏
+arabic_ayat: وَقَالُواْ لَوۡلَآ أُنزِلَ عَلَيۡهِ ءَايَٰتٞ مِّن رَّبِّهِۦۚ قُلۡ إِنَّمَا
+  ٱلۡأٓيَٰتُ عِندَ ٱللَّهِ وَإِنَّمَآ أَنَا۠ نَذِيرٞ مُّبِينٌ
 sentence_translation: They say, “If only ˹some˺ signs had been sent down to him from
   his Lord!” Say, ˹O Prophet,˺ “Signs are only with Allah. And I am only sent with
   a clear warning.”
 word_by_word:
   1:
-    arabic: وَقَالُوۡا
+    arabic: وَقَالُواْ
     translation: And they say
     transliteration: waqālū
   2:
-    arabic: لَوۡلَاۤ
+    arabic: لَوۡلَآ
     translation: Why not
     transliteration: lawlā
   3:
-    arabic: اُنۡزِلَ
+    arabic: أُنزِلَ
     translation: are sent down
     transliteration: unzila
   4:
-    arabic: عَلَيۡهِ
+    arabic: عَلَيۡهِ ءَ
     translation: to him
     transliteration: ʿalayhi
   5:
-    arabic: اٰيٰتٌ
+    arabic: ايَٰتٞ
     translation: (the) Signs
     transliteration: āyātun
   6:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: from
     transliteration: min
   7:
-    arabic: رَّبِّهٖ​ؕ
+    arabic: رَّبِّهِۦۚ
     translation: his Lord
     transliteration: rabbihi
   8:
@@ -38,35 +38,35 @@ word_by_word:
     translation: Say
     transliteration: qul
   9:
-    arabic: اِنَّمَا
+    arabic: إِنَّمَا
     translation: Only
     transliteration: innamā
   10:
-    arabic: الۡاٰيٰتُ
+    arabic: ٱلۡأٓيَٰتُ
     translation: the Signs
     transliteration: l-āyātu
   11:
-    arabic: عِنۡدَ
+    arabic: عِندَ
     translation: (are) with
     transliteration: ʿinda
   12:
-    arabic: اللّٰهِ ؕ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   13:
-    arabic: وَاِنَّمَاۤ
+    arabic: وَإِنَّمَآ
     translation: and only
     transliteration: wa-innamā
   14:
-    arabic: اَنَا۟
+    arabic: أَنَا۠
     translation: I (am)
     transliteration: anā
   15:
-    arabic: نَذِيۡرٌ
+    arabic: نَذِيرٞ
     translation: a warner
     transliteration: nadhīrun
   16:
-    arabic: مُّبِيۡنٌ‏
+    arabic: مُّبِينٌ
     translation: clear
     transliteration: mubīnun
 ---

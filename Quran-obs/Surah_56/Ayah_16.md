@@ -1,9 +1,9 @@
 ---
-arabic_ayat: مُّتَّكِـــِٕيۡنَ عَلَيۡهَا مُتَقٰبِلِيۡنَ‏
+arabic_ayat: مُّتَّكِـِٔينَ عَلَيۡهَا مُتَقَٰبِلِينَ
 sentence_translation: reclining face to face.
 word_by_word:
   1:
-    arabic: مُّتَّكِـــِٕيۡنَ
+    arabic: مُّتَّكِـِٔينَ
     translation: Reclining
     transliteration: muttakiīna
   2:
@@ -11,7 +11,7 @@ word_by_word:
     translation: on them
     transliteration: ʿalayhā
   3:
-    arabic: مُتَقٰبِلِيۡنَ‏
+    arabic: مُتَقَٰبِلِينَ
     translation: facing each other
     transliteration: mutaqābilīna
 ---

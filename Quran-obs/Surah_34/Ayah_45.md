@@ -1,6 +1,6 @@
 ---
-arabic_ayat: وَكَذَّبَ الَّذِيۡنَ مِنۡ قَبۡلِهِمۡۙ وَمَا بَلَـغُوۡا مِعۡشَارَ مَاۤ
-  اٰتَيۡنٰهُمۡ فَكَذَّبُوۡا رُسُلِىۡ فَكَيۡفَ كَانَ نَكِيۡرِ‏
+arabic_ayat: وَكَذَّبَ ٱلَّذِينَ مِن قَبۡلِهِمۡ وَمَا بَلَغُواْ مِعۡشَارَ مَآ ءَاتَيۡنَٰهُمۡ
+  فَكَذَّبُواْ رُسُلِيۖ فَكَيۡفَ كَانَ نَكِيرِ
 sentence_translation: Those ˹destroyed˺ before them denied as well—and these ˹Meccans˺
   have not attained even one-tenth of what We had given their predecessors. Yet ˹when˺
   they denied My messengers, how severe was My response!
@@ -10,15 +10,15 @@ word_by_word:
     translation: And denied
     transliteration: wakadhaba
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   3:
-    arabic: مِنۡ
+    arabic: مِن
     translation: (were) before them
     transliteration: min
   4:
-    arabic: قَبۡلِهِمۡۙ
+    arabic: قَبۡلِهِمۡ
     translation: (were) before them
     transliteration: qablihim
   5:
@@ -26,7 +26,7 @@ word_by_word:
     translation: and not
     transliteration: wamā
   6:
-    arabic: بَلَـغُوۡا
+    arabic: بَلَغُواْ
     translation: they have attained
     transliteration: balaghū
   7:
@@ -34,19 +34,19 @@ word_by_word:
     translation: a tenth
     transliteration: miʿ'shāra
   8:
-    arabic: مَاۤ
+    arabic: مَآ ءَ
     translation: (of) what
     transliteration: mā
   9:
-    arabic: اٰتَيۡنٰهُمۡ
+    arabic: اتَيۡنَٰهُمۡ
     translation: We (had) given them
     transliteration: ātaynāhum
   10:
-    arabic: فَكَذَّبُوۡا
+    arabic: فَكَذَّبُواْ
     translation: But they denied
     transliteration: fakadhabū
   11:
-    arabic: رُسُلِىۡ
+    arabic: رُسُلِيۖ
     translation: My Messengers
     transliteration: rusulī
   12:
@@ -58,7 +58,7 @@ word_by_word:
     translation: was
     transliteration: kāna
   14:
-    arabic: نَكِيۡرِ‏
+    arabic: نَكِيرِ
     translation: My rejection
     transliteration: nakīri
 ---

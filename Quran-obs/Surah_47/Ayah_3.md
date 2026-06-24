@@ -1,65 +1,65 @@
 ---
-arabic_ayat: ذٰ لِكَ بِاَنَّ الَّذِيۡنَ كَفَرُوۡا اتَّبَعُوا الۡبَاطِلَ وَاَنَّ الَّذِيۡنَ
-  اٰمَنُوا اتَّبَعُوا الۡحَقَّ مِنۡ رَّبِّهِمۡ​ؕ كَذٰلِكَ يَضۡرِبُ اللّٰهُ لِلنَّاسِ
-  اَمۡثَالَهُمۡ‏
+arabic_ayat: ذَٰلِكَ بِأَنَّ ٱلَّذِينَ كَفَرُواْ ٱتَّبَعُواْ ٱلۡبَٰطِلَ وَأَنَّ ٱلَّذِينَ
+  ءَامَنُواْ ٱتَّبَعُواْ ٱلۡحَقَّ مِن رَّبِّهِمۡۚ كَذَٰلِكَ يَضۡرِبُ ٱللَّهُ لِلنَّاسِ
+  أَمۡثَٰلَهُمۡ
 sentence_translation: This is because the disbelievers follow falsehood, while the
   believers follow the truth from their Lord. This is how Allah shows people their
   true state ˹of faith˺.
 word_by_word:
   1:
-    arabic: ذٰ لِكَ
+    arabic: ذَٰلِكَ
     translation: That
     transliteration: dhālika
   2:
-    arabic: بِاَنَّ
+    arabic: بِأَنَّ
     translation: (is) because
     transliteration: bi-anna
   3:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   4:
-    arabic: كَفَرُوۡا
+    arabic: كَفَرُواْ
     translation: disbelieve
     transliteration: kafarū
   5:
-    arabic: اتَّبَعُوا
+    arabic: ٱتَّبَعُواْ
     translation: follow
     transliteration: ittabaʿū
   6:
-    arabic: الۡبَاطِلَ
+    arabic: ٱلۡبَٰطِلَ
     translation: falsehood
     transliteration: l-bāṭila
   7:
-    arabic: وَاَنَّ
+    arabic: وَأَنَّ
     translation: and that
     transliteration: wa-anna
   8:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ ءَ
     translation: those who
     transliteration: alladhīna
   9:
-    arabic: اٰمَنُوا
+    arabic: امَنُواْ
     translation: believe
     transliteration: āmanū
   10:
-    arabic: اتَّبَعُوا
+    arabic: ٱتَّبَعُواْ
     translation: follow
     transliteration: ittabaʿū
   11:
-    arabic: الۡحَقَّ
+    arabic: ٱلۡحَقَّ
     translation: (the) truth
     transliteration: l-ḥaqa
   12:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   13:
-    arabic: رَّبِّهِمۡ​ؕ
+    arabic: رَّبِّهِمۡۚ
     translation: their Lord
     transliteration: rabbihim
   14:
-    arabic: كَذٰلِكَ
+    arabic: كَذَٰلِكَ
     translation: Thus
     transliteration: kadhālika
   15:
@@ -67,7 +67,7 @@ word_by_word:
     translation: Allah presents
     transliteration: yaḍribu
   16:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah presents
     transliteration: l-lahu
   17:
@@ -75,7 +75,7 @@ word_by_word:
     translation: to the people
     transliteration: lilnnāsi
   18:
-    arabic: اَمۡثَالَهُمۡ‏
+    arabic: أَمۡثَٰلَهُمۡ
     translation: their similitudes
     transliteration: amthālahum
 ---

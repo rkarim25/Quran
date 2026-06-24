@@ -1,19 +1,19 @@
 ---
-arabic_ayat: اَلۡحَمۡدُ لِلّٰهِ الَّذِىۡ وَهَبَ لِىۡ عَلَى الۡـكِبَرِ اِسۡمٰعِيۡلَ
-  وَاِسۡحٰقَ​ؕ اِنَّ رَبِّىۡ لَسَمِيۡعُ الدُّعَآءِ‏
+arabic_ayat: ٱلۡحَمۡدُ لِلَّهِ ٱلَّذِي وَهَبَ لِي عَلَى ٱلۡكِبَرِ إِسۡمَٰعِيلَ وَإِسۡحَٰقَۚ
+  إِنَّ رَبِّي لَسَمِيعُ ٱلدُّعَآءِ
 sentence_translation: All praise is for Allah who has blessed me with Ishmael and
   Isaac in my old age. My Lord is indeed the Hearer of ˹all˺ prayers.
 word_by_word:
   1:
-    arabic: اَلۡحَمۡدُ
+    arabic: ٱلۡحَمۡدُ
     translation: All the Praise
     transliteration: al-ḥamdu
   2:
-    arabic: لِلّٰهِ
+    arabic: لِلَّهِ
     translation: (is) for Allah
     transliteration: lillahi
   3:
-    arabic: الَّذِىۡ
+    arabic: ٱلَّذِي
     translation: the One Who
     transliteration: alladhī
   4:
@@ -21,7 +21,7 @@ word_by_word:
     translation: has granted
     transliteration: wahaba
   5:
-    arabic: لِىۡ
+    arabic: لِي
     translation: me
     transliteration: lī
   6:
@@ -29,31 +29,31 @@ word_by_word:
     translation: in
     transliteration: ʿalā
   7:
-    arabic: الۡـكِبَرِ
+    arabic: ٱلۡكِبَرِ
     translation: the old age
     transliteration: l-kibari
   8:
-    arabic: اِسۡمٰعِيۡلَ
+    arabic: إِسۡمَٰعِيلَ
     translation: Ishmael
     transliteration: is'māʿīla
   9:
-    arabic: وَاِسۡحٰقَ​ؕ
+    arabic: وَإِسۡحَٰقَۚ
     translation: and Isaac
     transliteration: wa-is'ḥāqa
   10:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   11:
-    arabic: رَبِّىۡ
+    arabic: رَبِّي
     translation: my Lord
     transliteration: rabbī
   12:
-    arabic: لَسَمِيۡعُ
+    arabic: لَسَمِيعُ
     translation: (is) All-Hearer
     transliteration: lasamīʿu
   13:
-    arabic: الدُّعَآءِ‏
+    arabic: ٱلدُّعَآءِ
     translation: (of) the prayer
     transliteration: l-duʿāi
 ---

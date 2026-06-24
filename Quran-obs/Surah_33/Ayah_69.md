@@ -1,20 +1,19 @@
 ---
-arabic_ayat: يٰۤـاَيُّهَا الَّذِيۡنَ اٰمَنُوۡا لَا تَكُوۡنُوۡا كَالَّذِيۡنَ اٰذَوۡا
-  مُوۡسٰى فَبَـرَّاَهُ اللّٰهُ مِمَّا قَالُوۡا ؕ وَكَانَ عِنۡدَ اللّٰهِ وَجِيۡهًا
-  ؕ‏
+arabic_ayat: يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُواْ لَا تَكُونُواْ كَٱلَّذِينَ ءَاذَوۡاْ
+  مُوسَىٰ فَبَرَّأَهُ ٱللَّهُ مِمَّا قَالُواْۚ وَكَانَ عِندَ ٱللَّهِ وَجِيهٗا
 sentence_translation: O believers! Do not be like those who slandered Moses, but Allah
   cleared him of what they said. And he was honourable in the sight of Allah.
 word_by_word:
   1:
-    arabic: يٰۤـاَيُّهَا
+    arabic: يَٰٓأَيُّهَا
     translation: O you who believe
     transliteration: yāayyuhā
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ ءَ
     translation: O you who believe
     transliteration: alladhīna
   3:
-    arabic: اٰمَنُوۡا
+    arabic: امَنُواْ
     translation: O you who believe
     transliteration: āmanū
   4:
@@ -22,27 +21,27 @@ word_by_word:
     translation: (Do) not
     transliteration: lā
   5:
-    arabic: تَكُوۡنُوۡا
+    arabic: تَكُونُواْ
     translation: be
     transliteration: takūnū
   6:
-    arabic: كَالَّذِيۡنَ
+    arabic: كَٱلَّذِينَ ءَ
     translation: like those who
     transliteration: ka-alladhīna
   7:
-    arabic: اٰذَوۡا
+    arabic: اذَوۡاْ
     translation: abused
     transliteration: ādhaw
   8:
-    arabic: مُوۡسٰى
+    arabic: مُوسَىٰ
     translation: Musa
     transliteration: mūsā
   9:
-    arabic: فَبَـرَّاَهُ
+    arabic: فَبَرَّأَهُ
     translation: then Allah cleared him
     transliteration: fabarra-ahu
   10:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: then Allah cleared him
     transliteration: l-lahu
   11:
@@ -50,7 +49,7 @@ word_by_word:
     translation: of what
     transliteration: mimmā
   12:
-    arabic: قَالُوۡا ؕ
+    arabic: قَالُواْۚ
     translation: they said
     transliteration: qālū
   13:
@@ -58,15 +57,15 @@ word_by_word:
     translation: And he was
     transliteration: wakāna
   14:
-    arabic: عِنۡدَ
+    arabic: عِندَ
     translation: near
     transliteration: ʿinda
   15:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   16:
-    arabic: وَجِيۡهًا ؕ‏
+    arabic: وَجِيهٗا
     translation: honorable
     transliteration: wajīhan
 ---

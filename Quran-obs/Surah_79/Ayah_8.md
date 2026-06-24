@@ -1,17 +1,17 @@
 ---
-arabic_ayat: قُلُوۡبٌ يَّوۡمَٮِٕذٍ وَّاجِفَةٌ ۙ‏
+arabic_ayat: قُلُوبٞ يَوۡمَئِذٖ وَاجِفَةٌ
 sentence_translation: ˹The deniers’˺ hearts on that Day will be trembling ˹in horror˺,
 word_by_word:
   1:
-    arabic: قُلُوۡبٌ
+    arabic: قُلُوبٞ
     translation: Hearts
     transliteration: qulūbun
   2:
-    arabic: يَّوۡمَٮِٕذٍ
+    arabic: يَوۡمَئِذٖ
     translation: that Day
     transliteration: yawma-idhin
   3:
-    arabic: وَّاجِفَةٌ ۙ‏
+    arabic: وَاجِفَةٌ
     translation: will palpitate
     transliteration: wājifatun
 ---

@@ -1,15 +1,15 @@
 ---
-arabic_ayat: اَلَّذِيۡنَ اٰمَنُوۡا وَلَمۡ يَلۡبِسُوۡۤا اِيۡمَانَهُمۡ بِظُلۡمٍ اُولٰۤٮِٕكَ
-  لَهُمُ الۡاَمۡنُ وَهُمۡ مُّهۡتَدُوۡنَ‏
+arabic_ayat: ٱلَّذِينَ ءَامَنُواْ وَلَمۡ يَلۡبِسُوٓاْ إِيمَٰنَهُم بِظُلۡمٍ أُوْلَٰٓئِكَ
+  لَهُمُ ٱلۡأَمۡنُ وَهُم مُّهۡتَدُونَ
 sentence_translation: It is ˹only˺ those who are faithful and do not tarnish their
   faith with falsehood who are guaranteed security and are ˹rightly˺ guided.
 word_by_word:
   1:
-    arabic: اَلَّذِيۡنَ
+    arabic: ٱلَّذِينَ ءَ
     translation: Those who
     transliteration: alladhīna
   2:
-    arabic: اٰمَنُوۡا
+    arabic: امَنُواْ
     translation: believed
     transliteration: āmanū
   3:
@@ -17,11 +17,11 @@ word_by_word:
     translation: and (did) not
     transliteration: walam
   4:
-    arabic: يَلۡبِسُوۡۤا
+    arabic: يَلۡبِسُوٓاْ
     translation: mix
     transliteration: yalbisū
   5:
-    arabic: اِيۡمَانَهُمۡ
+    arabic: إِيمَٰنَهُم
     translation: their belief
     transliteration: īmānahum
   6:
@@ -29,7 +29,7 @@ word_by_word:
     translation: with wrong
     transliteration: biẓul'min
   7:
-    arabic: اُولٰۤٮِٕكَ
+    arabic: أُوْلَٰٓئِكَ
     translation: those
     transliteration: ulāika
   8:
@@ -37,15 +37,15 @@ word_by_word:
     translation: for them
     transliteration: lahumu
   9:
-    arabic: الۡاَمۡنُ
+    arabic: ٱلۡأَمۡنُ
     translation: (is) the security
     transliteration: l-amnu
   10:
-    arabic: وَهُمۡ
+    arabic: وَهُم
     translation: and they
     transliteration: wahum
   11:
-    arabic: مُّهۡتَدُوۡنَ‏
+    arabic: مُّهۡتَدُونَ
     translation: (are) rightly guided
     transliteration: muh'tadūna
 ---

@@ -1,9 +1,9 @@
 ---
-arabic_ayat: اِنَّمَا الۡمُؤۡمِنُوۡنَ الَّذِيۡنَ اٰمَنُوۡا بِاللّٰهِ وَرَسُوۡلِهٖ
-  وَاِذَا كَانُوۡا مَعَهٗ عَلٰٓى اَمۡرٍ جَامِعٍ لَّمۡ يَذۡهَبُوۡا حَتّٰى يَسۡتَاۡذِنُوۡهُ​
-  ؕ اِنَّ الَّذِيۡنَ يَسۡتَـاْذِنُوۡنَكَ اُولٰٓٮِٕكَ الَّذِيۡنَ يُؤۡمِنُوۡنَ بِاللّٰهِ
-  وَرَسُوۡلِهٖ​ ۚ فَاِذَا اسۡتَاْذَنُوۡكَ لِبَعۡضِ شَاۡنِهِمۡ فَاۡذَنۡ لِّمَنۡ شِئۡتَ
-  مِنۡهُمۡ وَاسۡتَغۡفِرۡ لَهُمُ اللّٰهَ​ؕ اِنَّ اللّٰهَ غَفُوۡرٌ رَّحِيۡمٌ‏
+arabic_ayat: إِنَّمَا ٱلۡمُؤۡمِنُونَ ٱلَّذِينَ ءَامَنُواْ بِٱللَّهِ وَرَسُولِهِۦ وَإِذَا
+  كَانُواْ مَعَهُۥ عَلَىٰٓ أَمۡرٖ جَامِعٖ لَّمۡ يَذۡهَبُواْ حَتَّىٰ يَسۡتَـٔۡذِنُوهُۚ
+  إِنَّ ٱلَّذِينَ يَسۡتَـٔۡذِنُونَكَ أُوْلَٰٓئِكَ ٱلَّذِينَ يُؤۡمِنُونَ بِٱللَّهِ
+  وَرَسُولِهِۦۚ فَإِذَا ٱسۡتَـٔۡذَنُوكَ لِبَعۡضِ شَأۡنِهِمۡ فَأۡذَن لِّمَن شِئۡتَ
+  مِنۡهُمۡ وَٱسۡتَغۡفِرۡ لَهُمُ ٱللَّهَۚ إِنَّ ٱللَّهَ غَفُورٞ رَّحِيمٞ
 sentence_translation: The ˹true˺ believers are only those who believe in Allah and
   His Messenger, and when they are with him on a public matter, they do not leave
   without his permission. Indeed, those who ask your permission ˹O Prophet˺ are the
@@ -12,51 +12,51 @@ sentence_translation: The ˹true˺ believers are only those who believe in Allah
   for them. Surely Allah is All-Forgiving, Most Merciful.
 word_by_word:
   1:
-    arabic: اِنَّمَا
+    arabic: إِنَّمَا
     translation: Only
     transliteration: innamā
   2:
-    arabic: الۡمُؤۡمِنُوۡنَ
+    arabic: ٱلۡمُؤۡمِنُونَ
     translation: the believers
     transliteration: l-mu'minūna
   3:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ ءَ
     translation: (are) those who
     transliteration: alladhīna
   4:
-    arabic: اٰمَنُوۡا
+    arabic: امَنُواْ
     translation: believe
     transliteration: āmanū
   5:
-    arabic: بِاللّٰهِ
+    arabic: بِٱللَّهِ
     translation: in Allah
     transliteration: bil-lahi
   6:
-    arabic: وَرَسُوۡلِهٖ
+    arabic: وَرَسُولِهِۦ
     translation: and His Messenger
     transliteration: warasūlihi
   7:
-    arabic: وَاِذَا
+    arabic: وَإِذَا
     translation: and when
     transliteration: wa-idhā
   8:
-    arabic: كَانُوۡا
+    arabic: كَانُواْ
     translation: they are
     transliteration: kānū
   9:
-    arabic: مَعَهٗ
+    arabic: مَعَهُۥ
     translation: with him
     transliteration: maʿahu
   10:
-    arabic: عَلٰٓى
+    arabic: عَلَىٰٓ
     translation: for
     transliteration: ʿalā
   11:
-    arabic: اَمۡرٍ
+    arabic: أَمۡرٖ
     translation: a matter
     transliteration: amrin
   12:
-    arabic: جَامِعٍ
+    arabic: جَامِعٖ
     translation: (of) collective action
     transliteration: jāmiʿin
   13:
@@ -64,55 +64,55 @@ word_by_word:
     translation: not
     transliteration: lam
   14:
-    arabic: يَذۡهَبُوۡا
+    arabic: يَذۡهَبُواْ
     translation: they go
     transliteration: yadhhabū
   15:
-    arabic: حَتّٰى
+    arabic: حَتَّىٰ
     translation: until
     transliteration: ḥattā
   16:
-    arabic: يَسۡتَاۡذِنُوۡهُ​ ؕ
+    arabic: يَسۡتَـٔۡذِنُوهُۚ
     translation: they (have) asked his permission
     transliteration: yastadhinūhu
   17:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   18:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   19:
-    arabic: يَسۡتَـاْذِنُوۡنَكَ
+    arabic: يَسۡتَـٔۡذِنُونَكَ
     translation: ask your permission
     transliteration: yastadhinūnaka
   20:
-    arabic: اُولٰٓٮِٕكَ
+    arabic: أُوْلَٰٓئِكَ
     translation: those
     transliteration: ulāika
   21:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: '[those who]'
     transliteration: alladhīna
   22:
-    arabic: يُؤۡمِنُوۡنَ
+    arabic: يُؤۡمِنُونَ
     translation: believe
     transliteration: yu'minūna
   23:
-    arabic: بِاللّٰهِ
+    arabic: بِٱللَّهِ
     translation: in Allah
     transliteration: bil-lahi
   24:
-    arabic: وَرَسُوۡلِهٖ​ ۚ
+    arabic: وَرَسُولِهِۦۚ
     translation: and His Messenger
     transliteration: warasūlihi
   25:
-    arabic: فَاِذَا
+    arabic: فَإِذَا
     translation: So when
     transliteration: fa-idhā
   26:
-    arabic: اسۡتَاْذَنُوۡكَ
+    arabic: ٱسۡتَـٔۡذَنُوكَ
     translation: they ask your permission
     transliteration: is'tadhanūka
   27:
@@ -120,15 +120,15 @@ word_by_word:
     translation: for some
     transliteration: libaʿḍi
   28:
-    arabic: شَاۡنِهِمۡ
+    arabic: شَأۡنِهِمۡ
     translation: affair of theirs
     transliteration: shanihim
   29:
-    arabic: فَاۡذَنۡ
+    arabic: فَأۡذَن
     translation: then give permission
     transliteration: fadhan
   30:
-    arabic: لِّمَنۡ
+    arabic: لِّمَن
     translation: to whom
     transliteration: liman
   31:
@@ -140,7 +140,7 @@ word_by_word:
     translation: among them
     transliteration: min'hum
   33:
-    arabic: وَاسۡتَغۡفِرۡ
+    arabic: وَٱسۡتَغۡفِرۡ
     translation: and ask forgiveness
     transliteration: wa-is'taghfir
   34:
@@ -148,23 +148,23 @@ word_by_word:
     translation: for them
     transliteration: lahumu
   35:
-    arabic: اللّٰهَ​ؕ
+    arabic: ٱللَّهَۚ
     translation: (of) Allah
     transliteration: l-laha
   36:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   37:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   38:
-    arabic: غَفُوۡرٌ
+    arabic: غَفُورٞ
     translation: (is) Oft-Forgiving
     transliteration: ghafūrun
   39:
-    arabic: رَّحِيۡمٌ‏
+    arabic: رَّحِيمٞ
     translation: Most Merciful
     transliteration: raḥīmun
 ---

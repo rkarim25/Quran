@@ -1,17 +1,17 @@
 ---
-arabic_ayat: وَهٰذَا الۡبَلَدِ الۡاَمِيۡنِۙ‏
+arabic_ayat: وَهَٰذَا ٱلۡبَلَدِ ٱلۡأَمِينِ
 sentence_translation: and this secure city ˹of Mecca˺!
 word_by_word:
   1:
-    arabic: وَهٰذَا
+    arabic: وَهَٰذَا
     translation: And this
     transliteration: wahādhā
   2:
-    arabic: الۡبَلَدِ
+    arabic: ٱلۡبَلَدِ
     translation: '[the] city'
     transliteration: l-baladi
   3:
-    arabic: الۡاَمِيۡنِۙ‏
+    arabic: ٱلۡأَمِينِ
     translation: '[the] secure'
     transliteration: l-amīni
 ---

@@ -1,28 +1,28 @@
 ---
-arabic_ayat: اَقِمِ الصَّلٰوةَ لِدُلُوۡكِ الشَّمۡسِ اِلٰى غَسَقِ الَّيۡلِ وَقُرۡاٰنَ
-  الۡـفَجۡرِ​ؕ اِنَّ قُرۡاٰنَ الۡـفَجۡرِ كَانَ مَشۡهُوۡدًا‏
+arabic_ayat: أَقِمِ ٱلصَّلَوٰةَ لِدُلُوكِ ٱلشَّمۡسِ إِلَىٰ غَسَقِ ٱلَّيۡلِ وَقُرۡءَانَ
+  ٱلۡفَجۡرِۖ إِنَّ قُرۡءَانَ ٱلۡفَجۡرِ كَانَ مَشۡهُودٗا
 sentence_translation: Observe the prayer from the decline of the sun until the darkness
   of the night and the dawn prayer, for certainly the dawn prayer is witnessed ˹by
   angels˺.
 word_by_word:
   1:
-    arabic: اَقِمِ
+    arabic: أَقِمِ
     translation: Establish
     transliteration: aqimi
   2:
-    arabic: الصَّلٰوةَ
+    arabic: ٱلصَّلَوٰةَ
     translation: the prayer
     transliteration: l-ṣalata
   3:
-    arabic: لِدُلُوۡكِ
+    arabic: لِدُلُوكِ
     translation: at the decline
     transliteration: lidulūki
   4:
-    arabic: الشَّمۡسِ
+    arabic: ٱلشَّمۡسِ
     translation: (of) the sun
     transliteration: l-shamsi
   5:
-    arabic: اِلٰى
+    arabic: إِلَىٰ
     translation: till
     transliteration: ilā
   6:
@@ -30,27 +30,27 @@ word_by_word:
     translation: (the) darkness
     transliteration: ghasaqi
   7:
-    arabic: الَّيۡلِ
+    arabic: ٱلَّيۡلِ
     translation: (of) the night
     transliteration: al-layli
   8:
-    arabic: وَقُرۡاٰنَ
+    arabic: وَقُرۡءَانَ
     translation: and Quran
     transliteration: waqur'āna
   9:
-    arabic: الۡـفَجۡرِ​ؕ
+    arabic: ٱلۡفَجۡرِۖ
     translation: at dawn
     transliteration: l-fajri
   10:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: indeed
     transliteration: inna
   11:
-    arabic: قُرۡاٰنَ
+    arabic: قُرۡءَانَ
     translation: the Quran
     transliteration: qur'āna
   12:
-    arabic: الۡـفَجۡرِ
+    arabic: ٱلۡفَجۡرِ
     translation: (at) the dawn
     transliteration: l-fajri
   13:
@@ -58,7 +58,7 @@ word_by_word:
     translation: is
     transliteration: kāna
   14:
-    arabic: مَشۡهُوۡدًا‏
+    arabic: مَشۡهُودٗا
     translation: ever witnessed
     transliteration: mashhūdan
 ---

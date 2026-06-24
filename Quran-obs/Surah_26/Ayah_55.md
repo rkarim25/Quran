@@ -1,17 +1,17 @@
 ---
-arabic_ayat: وَاِنَّهُمۡ لَـنَا لَـغَآٮِٕظُوۡنَۙ‏
+arabic_ayat: وَإِنَّهُمۡ لَنَا لَغَآئِظُونَ
 sentence_translation: who have really enraged us,
 word_by_word:
   1:
-    arabic: وَاِنَّهُمۡ
+    arabic: وَإِنَّهُمۡ
     translation: And indeed, they
     transliteration: wa-innahum
   2:
-    arabic: لَـنَا
+    arabic: لَنَا
     translation: '[to] us'
     transliteration: lanā
   3:
-    arabic: لَـغَآٮِٕظُوۡنَۙ‏
+    arabic: لَغَآئِظُونَ
     translation: (are) surely enraging
     transliteration: laghāiẓūna
 ---

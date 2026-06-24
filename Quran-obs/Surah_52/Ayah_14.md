@@ -1,21 +1,21 @@
 ---
-arabic_ayat: هٰذِهِ النَّارُ الَّتِىۡ كُنۡتُمۡ بِهَا تُكَذِّبُوۡنَ‏
+arabic_ayat: هَٰذِهِ ٱلنَّارُ ٱلَّتِي كُنتُم بِهَا تُكَذِّبُونَ
 sentence_translation: ˹They will be told,˺ “This is the Fire which you used to deny.
 word_by_word:
   1:
-    arabic: هٰذِهِ
+    arabic: هَٰذِهِ
     translation: This
     transliteration: hādhihi
   2:
-    arabic: النَّارُ
+    arabic: ٱلنَّارُ
     translation: (is) the Fire
     transliteration: l-nāru
   3:
-    arabic: الَّتِىۡ
+    arabic: ٱلَّتِي
     translation: which
     transliteration: allatī
   4:
-    arabic: كُنۡتُمۡ
+    arabic: كُنتُم
     translation: you used to
     transliteration: kuntum
   5:
@@ -23,7 +23,7 @@ word_by_word:
     translation: '[of it]'
     transliteration: bihā
   6:
-    arabic: تُكَذِّبُوۡنَ‏
+    arabic: تُكَذِّبُونَ
     translation: deny
     transliteration: tukadhibūna
 ---

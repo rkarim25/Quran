@@ -1,34 +1,34 @@
 ---
-arabic_ayat: وَحَسِبُوۡۤا اَلَّا تَكُوۡنَ فِتۡنَةٌ فَعَمُوۡا وَصَمُّوۡا ثُمَّ تَابَ
-  اللّٰهُ عَلَيۡهِمۡ ثُمَّ عَمُوۡا وَصَمُّوۡا كَثِيۡرٌ مِّنۡهُمۡ​ؕ وَاللّٰهُ بَصِيۡرٌۢ
-  بِمَا يَعۡمَلُوۡنَ‏
+arabic_ayat: وَحَسِبُوٓاْ أَلَّا تَكُونَ فِتۡنَةٞ فَعَمُواْ وَصَمُّواْ ثُمَّ تَابَ
+  ٱللَّهُ عَلَيۡهِمۡ ثُمَّ عَمُواْ وَصَمُّواْ كَثِيرٞ مِّنۡهُمۡۚ وَٱللَّهُ بَصِيرُۢ
+  بِمَا يَعۡمَلُونَ
 sentence_translation: They thought there would be no consequences, so they turned
   a blind eye and a deaf ear. Yet Allah turned to them in forgiveness ˹after their
   repentance˺, but again many became blind and deaf. And Allah is All-Seeing of what
   they do.
 word_by_word:
   1:
-    arabic: وَحَسِبُوۡۤا
+    arabic: وَحَسِبُوٓاْ
     translation: And they thought
     transliteration: waḥasibū
   2:
-    arabic: اَلَّا
+    arabic: أَلَّا
     translation: that not
     transliteration: allā
   3:
-    arabic: تَكُوۡنَ
+    arabic: تَكُونَ
     translation: will be (for them)
     transliteration: takūna
   4:
-    arabic: فِتۡنَةٌ
+    arabic: فِتۡنَةٞ
     translation: a trial
     transliteration: fit'natun
   5:
-    arabic: فَعَمُوۡا
+    arabic: فَعَمُواْ
     translation: so they became blind
     transliteration: faʿamū
   6:
-    arabic: وَصَمُّوۡا
+    arabic: وَصَمُّواْ
     translation: and they became deaf
     transliteration: waṣammū
   7:
@@ -40,7 +40,7 @@ word_by_word:
     translation: turned
     transliteration: tāba
   9:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   10:
@@ -52,27 +52,27 @@ word_by_word:
     translation: then (again)
     transliteration: thumma
   12:
-    arabic: عَمُوۡا
+    arabic: عَمُواْ
     translation: they became blind
     transliteration: ʿamū
   13:
-    arabic: وَصَمُّوۡا
+    arabic: وَصَمُّواْ
     translation: and they became deaf
     transliteration: waṣammū
   14:
-    arabic: كَثِيۡرٌ
+    arabic: كَثِيرٞ
     translation: many
     transliteration: kathīrun
   15:
-    arabic: مِّنۡهُمۡ​ؕ
+    arabic: مِّنۡهُمۡۚ
     translation: of them
     transliteration: min'hum
   16:
-    arabic: وَاللّٰهُ
+    arabic: وَٱللَّهُ
     translation: And Allah
     transliteration: wal-lahu
   17:
-    arabic: بَصِيۡرٌۢ
+    arabic: بَصِيرُۢ
     translation: (is) All-Seer
     transliteration: baṣīrun
   18:
@@ -80,7 +80,7 @@ word_by_word:
     translation: of what
     transliteration: bimā
   19:
-    arabic: يَعۡمَلُوۡنَ‏
+    arabic: يَعۡمَلُونَ
     translation: they do
     transliteration: yaʿmalūna
 ---

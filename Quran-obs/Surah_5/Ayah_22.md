@@ -1,41 +1,40 @@
 ---
-arabic_ayat: قَالُوۡا يٰمُوۡسٰٓى اِنَّ فِيۡهَا قَوۡمًا جَبَّارِيۡنَ ​ۖ  وَاِنَّا
-  لَنۡ نَّدۡخُلَهَا حَتّٰى يَخۡرُجُوۡا مِنۡهَا​ ۚ فَاِنۡ يَّخۡرُجُوۡا مِنۡهَا فَاِنَّا
-  دَاخِلُوۡنَ‏
+arabic_ayat: قَالُواْ يَٰمُوسَىٰٓ إِنَّ فِيهَا قَوۡمٗا جَبَّارِينَ وَإِنَّا لَن نَّدۡخُلَهَا
+  حَتَّىٰ يَخۡرُجُواْ مِنۡهَا فَإِن يَخۡرُجُواْ مِنۡهَا فَإِنَّا دَٰخِلُونَ
 sentence_translation: They replied, “O Moses! There is an enormously powerful people
   there, so we will never ˹be able to˺ enter it until they leave. If they do, then
   we will enter!”
 word_by_word:
   1:
-    arabic: قَالُوۡا
+    arabic: قَالُواْ
     translation: They said
     transliteration: qālū
   2:
-    arabic: يٰمُوۡسٰٓى
+    arabic: يَٰمُوسَىٰٓ
     translation: O Musa
     transliteration: yāmūsā
   3:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   4:
-    arabic: فِيۡهَا
+    arabic: فِيهَا
     translation: in it
     transliteration: fīhā
   5:
-    arabic: قَوۡمًا
+    arabic: قَوۡمٗا
     translation: (are) people
     transliteration: qawman
   6:
-    arabic: جَبَّارِيۡنَ ​ۖ 
+    arabic: جَبَّارِينَ
     translation: (of) tyrannical strength
     transliteration: jabbārīna
   7:
-    arabic: وَاِنَّا
+    arabic: وَإِنَّا
     translation: and indeed, we
     transliteration: wa-innā
   8:
-    arabic: لَنۡ
+    arabic: لَن
     translation: never
     transliteration: lan
   9:
@@ -43,23 +42,23 @@ word_by_word:
     translation: will enter it
     transliteration: nadkhulahā
   10:
-    arabic: حَتّٰى
+    arabic: حَتَّىٰ
     translation: until
     transliteration: ḥattā
   11:
-    arabic: يَخۡرُجُوۡا
+    arabic: يَخۡرُجُواْ
     translation: they leave
     transliteration: yakhrujū
   12:
-    arabic: مِنۡهَا​ ۚ
+    arabic: مِنۡهَا
     translation: from it
     transliteration: min'hā
   13:
-    arabic: فَاِنۡ
+    arabic: فَإِن
     translation: and if
     transliteration: fa-in
   14:
-    arabic: يَّخۡرُجُوۡا
+    arabic: يَخۡرُجُواْ
     translation: they leave
     transliteration: yakhrujū
   15:
@@ -67,11 +66,11 @@ word_by_word:
     translation: '[from] it'
     transliteration: min'hā
   16:
-    arabic: فَاِنَّا
+    arabic: فَإِنَّا
     translation: then certainly we (will)
     transliteration: fa-innā
   17:
-    arabic: دَاخِلُوۡنَ‏
+    arabic: دَٰخِلُونَ
     translation: enter (it)
     transliteration: dākhilūna
 ---

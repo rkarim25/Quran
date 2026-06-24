@@ -1,11 +1,11 @@
 ---
-arabic_ayat: وَ اِذَا نَادَيۡتُمۡ اِلَى الصَّلٰوةِ اتَّخَذُوۡهَا هُزُوًا وَّلَعِبًا​
-  ؕ ذٰ لِكَ بِاَنَّهُمۡ قَوۡمٌ لَّا يَعۡقِلُوۡنَ‏
+arabic_ayat: وَإِذَا نَادَيۡتُمۡ إِلَى ٱلصَّلَوٰةِ ٱتَّخَذُوهَا هُزُوٗا وَلَعِبٗاۚ
+  ذَٰلِكَ بِأَنَّهُمۡ قَوۡمٞ لَّا يَعۡقِلُونَ
 sentence_translation: When you call to prayer, they mock it in amusement. This is
   because they are a people without understanding.
 word_by_word:
   1:
-    arabic: وَ اِذَا
+    arabic: وَإِذَا
     translation: And when
     transliteration: wa-idhā
   2:
@@ -13,35 +13,35 @@ word_by_word:
     translation: you make a call
     transliteration: nādaytum
   3:
-    arabic: اِلَى
+    arabic: إِلَى
     translation: for
     transliteration: ilā
   4:
-    arabic: الصَّلٰوةِ
+    arabic: ٱلصَّلَوٰةِ
     translation: the prayer
     transliteration: l-ṣalati
   5:
-    arabic: اتَّخَذُوۡهَا
+    arabic: ٱتَّخَذُوهَا
     translation: they take it
     transliteration: ittakhadhūhā
   6:
-    arabic: هُزُوًا
+    arabic: هُزُوٗا
     translation: (in) ridicule
     transliteration: huzuwan
   7:
-    arabic: وَّلَعِبًا​ ؕ
+    arabic: وَلَعِبٗاۚ
     translation: and fun
     transliteration: walaʿiban
   8:
-    arabic: ذٰ لِكَ
+    arabic: ذَٰلِكَ
     translation: That
     transliteration: dhālika
   9:
-    arabic: بِاَنَّهُمۡ
+    arabic: بِأَنَّهُمۡ
     translation: (is) because they
     transliteration: bi-annahum
   10:
-    arabic: قَوۡمٌ
+    arabic: قَوۡمٞ
     translation: (are) a people
     transliteration: qawmun
   11:
@@ -49,7 +49,7 @@ word_by_word:
     translation: (who do) not
     transliteration: lā
   12:
-    arabic: يَعۡقِلُوۡنَ‏
+    arabic: يَعۡقِلُونَ
     translation: understand
     transliteration: yaʿqilūna
 ---

@@ -1,23 +1,23 @@
 ---
-arabic_ayat: اِلَّا الَّذِيۡنَ تَابُوۡا مِنۡ قَبۡلِ اَنۡ تَقۡدِرُوۡا عَلَيۡهِمۡ​ۚ
-  فَاعۡلَمُوۡۤا اَنَّ اللّٰهَ غَفُوۡرٌ رَّحِيۡمٌ‏
+arabic_ayat: إِلَّا ٱلَّذِينَ تَابُواْ مِن قَبۡلِ أَن تَقۡدِرُواْ عَلَيۡهِمۡۖ فَٱعۡلَمُوٓاْ
+  أَنَّ ٱللَّهَ غَفُورٞ رَّحِيمٞ
 sentence_translation: As for those who repent before you seize them, then know that
   Allah is All-Forgiving, Most Merciful.
 word_by_word:
   1:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: Except
     transliteration: illā
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   3:
-    arabic: تَابُوۡا
+    arabic: تَابُواْ
     translation: repent
     transliteration: tābū
   4:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   5:
@@ -25,35 +25,35 @@ word_by_word:
     translation: before
     transliteration: qabli
   6:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that
     transliteration: an
   7:
-    arabic: تَقۡدِرُوۡا
+    arabic: تَقۡدِرُواْ
     translation: you overpower
     transliteration: taqdirū
   8:
-    arabic: عَلَيۡهِمۡ​ۚ
+    arabic: عَلَيۡهِمۡۖ
     translation: '[over] them'
     transliteration: ʿalayhim
   9:
-    arabic: فَاعۡلَمُوۡۤا
+    arabic: فَٱعۡلَمُوٓاْ
     translation: then know
     transliteration: fa-iʿ'lamū
   10:
-    arabic: اَنَّ
+    arabic: أَنَّ
     translation: that
     transliteration: anna
   11:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   12:
-    arabic: غَفُوۡرٌ
+    arabic: غَفُورٞ
     translation: (is) Oft-Forgiving
     transliteration: ghafūrun
   13:
-    arabic: رَّحِيۡمٌ‏
+    arabic: رَّحِيمٞ
     translation: Most Merciful
     transliteration: raḥīmun
 ---

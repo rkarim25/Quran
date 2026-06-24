@@ -1,15 +1,15 @@
 ---
-arabic_ayat: "حَتّٰٓى اِذَا فُتِحَتۡ يَاۡجُوۡجُ وَمَاۡجُوۡجُ وَهُمۡ مِّنۡ كُلِّ حَدَبٍ\
-  \ يَّنۡسِلُوۡنَ‏ \uFEFF\uFEFF"
+arabic_ayat: حَتَّىٰٓ إِذَا فُتِحَتۡ يَأۡجُوجُ وَمَأۡجُوجُ وَهُم مِّن كُلِّ حَدَبٖ
+  يَنسِلُونَ
 sentence_translation: until ˹after˺ Gog and Magog have broken loose ˹from the barrier˺, swarming
   down from every hill,
 word_by_word:
   1:
-    arabic: حَتّٰٓى
+    arabic: حَتَّىٰٓ
     translation: Until
     transliteration: ḥattā
   2:
-    arabic: اِذَا
+    arabic: إِذَا
     translation: when
     transliteration: idhā
   3:
@@ -17,19 +17,19 @@ word_by_word:
     translation: has been opened
     transliteration: futiḥat
   4:
-    arabic: يَاۡجُوۡجُ
+    arabic: يَأۡجُوجُ
     translation: (for) the Yajuj
     transliteration: yajūju
   5:
-    arabic: وَمَاۡجُوۡجُ
+    arabic: وَمَأۡجُوجُ
     translation: and Majuj
     transliteration: wamajūju
   6:
-    arabic: وَهُمۡ
+    arabic: وَهُم
     translation: and they
     transliteration: wahum
   7:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: from
     transliteration: min
   8:
@@ -37,11 +37,11 @@ word_by_word:
     translation: every
     transliteration: kulli
   9:
-    arabic: حَدَبٍ
+    arabic: حَدَبٖ
     translation: elevation
     transliteration: ḥadabin
   10:
-    arabic: "يَّنۡسِلُوۡنَ‏ \uFEFF\uFEFF"
+    arabic: يَنسِلُونَ
     translation: descend
     transliteration: yansilūna
 ---

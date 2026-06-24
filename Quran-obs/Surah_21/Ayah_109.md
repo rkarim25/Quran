@@ -1,51 +1,51 @@
 ---
-arabic_ayat: فَاِنۡ تَوَلَّوۡا فَقُلۡ اٰذَنۡـتُكُمۡ عَلٰى سَوَآءٍ ​ؕ وَاِنۡ اَدۡرِىۡۤ
-  اَقَرِيۡبٌ اَمۡ بَعِيۡدٌ مَّا تُوۡعَدُوۡنَ‏
+arabic_ayat: فَإِن تَوَلَّوۡاْ فَقُلۡ ءَاذَنتُكُمۡ عَلَىٰ سَوَآءٖۖ وَإِنۡ أَدۡرِيٓ
+  أَقَرِيبٌ أَم بَعِيدٞ مَّا تُوعَدُونَ
 sentence_translation: If they turn away, then say, “I have warned you all equally.
   I do not know if what you are threatened with is near or far.
 word_by_word:
   1:
-    arabic: فَاِنۡ
+    arabic: فَإِن
     translation: But if
     transliteration: fa-in
   2:
-    arabic: تَوَلَّوۡا
+    arabic: تَوَلَّوۡاْ
     translation: they turn away
     transliteration: tawallaw
   3:
-    arabic: فَقُلۡ
+    arabic: فَقُلۡ ءَ
     translation: then say
     transliteration: faqul
   4:
-    arabic: اٰذَنۡـتُكُمۡ
+    arabic: اذَنتُكُمۡ
     translation: I (have) announced to you
     transliteration: ādhantukum
   5:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: equally
     transliteration: ʿalā
   6:
-    arabic: سَوَآءٍ ​ؕ
+    arabic: سَوَآءٖۖ
     translation: equally
     transliteration: sawāin
   7:
-    arabic: وَاِنۡ
+    arabic: وَإِنۡ
     translation: And not
     transliteration: wa-in
   8:
-    arabic: اَدۡرِىۡۤ
+    arabic: أَدۡرِيٓ
     translation: I know
     transliteration: adrī
   9:
-    arabic: اَقَرِيۡبٌ
+    arabic: أَقَرِيبٌ
     translation: whether is near
     transliteration: aqarībun
   10:
-    arabic: اَمۡ
+    arabic: أَم
     translation: or
     transliteration: am
   11:
-    arabic: بَعِيۡدٌ
+    arabic: بَعِيدٞ
     translation: far
     transliteration: baʿīdun
   12:
@@ -53,7 +53,7 @@ word_by_word:
     translation: what
     transliteration: mā
   13:
-    arabic: تُوۡعَدُوۡنَ‏
+    arabic: تُوعَدُونَ
     translation: you are promised
     transliteration: tūʿadūna
 ---

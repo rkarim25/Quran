@@ -1,23 +1,23 @@
 ---
-arabic_ayat: لَا يَمۡلِكُوۡنَ الشَّفَاعَةَ اِلَّا مَنِ اتَّخَذَ عِنۡدَ الرَّحۡمٰنِ
-  عَهۡدًا​ ۘ‏
+arabic_ayat: لَّا يَمۡلِكُونَ ٱلشَّفَٰعَةَ إِلَّا مَنِ ٱتَّخَذَ عِندَ ٱلرَّحۡمَٰنِ
+  عَهۡدٗا
 sentence_translation: None will have the right to intercede, except those who have
   taken a covenant from the Most Compassionate. 
 word_by_word:
   1:
-    arabic: لَا
+    arabic: لَّا
     translation: Not
     transliteration: lā
   2:
-    arabic: يَمۡلِكُوۡنَ
+    arabic: يَمۡلِكُونَ
     translation: they will have the power
     transliteration: yamlikūna
   3:
-    arabic: الشَّفَاعَةَ
+    arabic: ٱلشَّفَٰعَةَ
     translation: (of) the intercession
     transliteration: l-shafāʿata
   4:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   5:
@@ -25,19 +25,19 @@ word_by_word:
     translation: (he) who
     transliteration: mani
   6:
-    arabic: اتَّخَذَ
+    arabic: ٱتَّخَذَ
     translation: has taken
     transliteration: ittakhadha
   7:
-    arabic: عِنۡدَ
+    arabic: عِندَ
     translation: from
     transliteration: ʿinda
   8:
-    arabic: الرَّحۡمٰنِ
+    arabic: ٱلرَّحۡمَٰنِ
     translation: the Most Gracious
     transliteration: l-raḥmāni
   9:
-    arabic: عَهۡدًا​ ۘ‏
+    arabic: عَهۡدٗا
     translation: a covenant
     transliteration: ʿahdan
 ---

@@ -1,19 +1,18 @@
 ---
-arabic_ayat: "وَاِنَّ اللّٰهَ رَبِّىۡ وَرَبُّكُمۡ فَاعۡبُدُوۡهُ ​ؕ هٰذَا صِرَاطٌ مُّسۡتَقِيۡمٌ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: وَإِنَّ ٱللَّهَ رَبِّي وَرَبُّكُمۡ فَٱعۡبُدُوهُۚ هَٰذَا صِرَٰطٞ مُّسۡتَقِيمٞ
 sentence_translation: ˹Jesus also declared,˺ “Surely Allah is my Lord and your Lord,
   so worship Him ˹alone˺. This is the Straight Path.”
 word_by_word:
   1:
-    arabic: وَاِنَّ
+    arabic: وَإِنَّ
     translation: And indeed
     transliteration: wa-inna
   2:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   3:
-    arabic: رَبِّىۡ
+    arabic: رَبِّي
     translation: (is) my Lord
     transliteration: rabbī
   4:
@@ -21,19 +20,19 @@ word_by_word:
     translation: and your Lord
     transliteration: warabbukum
   5:
-    arabic: فَاعۡبُدُوۡهُ ​ؕ
+    arabic: فَٱعۡبُدُوهُۚ
     translation: so worship Him
     transliteration: fa-uʿ'budūhu
   6:
-    arabic: هٰذَا
+    arabic: هَٰذَا
     translation: This
     transliteration: hādhā
   7:
-    arabic: صِرَاطٌ
+    arabic: صِرَٰطٞ
     translation: (is) a path
     transliteration: ṣirāṭun
   8:
-    arabic: "مُّسۡتَقِيۡمٌ‏ \uFEFF\uFEFF"
+    arabic: مُّسۡتَقِيمٞ
     translation: straight
     transliteration: mus'taqīmun
 ---

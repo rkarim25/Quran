@@ -1,5 +1,5 @@
 ---
-arabic_ayat: قَالَ رَبِّ اِنِّىۡ دَعَوۡتُ قَوۡمِىۡ لَيۡلًا وَّنَهَارًا ۙ‏
+arabic_ayat: قَالَ رَبِّ إِنِّي دَعَوۡتُ قَوۡمِي لَيۡلٗا وَنَهَارٗا
 sentence_translation: He cried, “My Lord! I have surely called my people day and night,
 word_by_word:
   1:
@@ -11,7 +11,7 @@ word_by_word:
     translation: My Lord
     transliteration: rabbi
   3:
-    arabic: اِنِّىۡ
+    arabic: إِنِّي
     translation: Indeed, I
     transliteration: innī
   4:
@@ -19,15 +19,15 @@ word_by_word:
     translation: invited
     transliteration: daʿawtu
   5:
-    arabic: قَوۡمِىۡ
+    arabic: قَوۡمِي
     translation: my people
     transliteration: qawmī
   6:
-    arabic: لَيۡلًا
+    arabic: لَيۡلٗا
     translation: night
     transliteration: laylan
   7:
-    arabic: وَّنَهَارًا ۙ‏
+    arabic: وَنَهَارٗا
     translation: and day
     transliteration: wanahāran
 ---

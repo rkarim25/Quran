@@ -1,11 +1,11 @@
 ---
-arabic_ayat: اِنۡ كُلُّ مَنۡ فِى السَّمٰوٰتِ وَالۡاَرۡضِ اِلَّاۤ اٰتِى الرَّحۡمٰنِ
-  عَبۡدًا ؕ‏
+arabic_ayat: إِن كُلُّ مَن فِي ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِ إِلَّآ ءَاتِي ٱلرَّحۡمَٰنِ
+  عَبۡدٗا
 sentence_translation: There is none in the heavens or the earth who will not return
   to the Most Compassionate in full submission.
 word_by_word:
   1:
-    arabic: اِنۡ
+    arabic: إِن
     translation: Not
     transliteration: in
   2:
@@ -13,35 +13,35 @@ word_by_word:
     translation: all
     transliteration: kullu
   3:
-    arabic: مَنۡ
+    arabic: مَن
     translation: who
     transliteration: man
   4:
-    arabic: فِى
+    arabic: فِي
     translation: (are) in
     transliteration: fī
   5:
-    arabic: السَّمٰوٰتِ
+    arabic: ٱلسَّمَٰوَٰتِ
     translation: the heavens
     transliteration: l-samāwāti
   6:
-    arabic: وَالۡاَرۡضِ
+    arabic: وَٱلۡأَرۡضِ
     translation: and the earth
     transliteration: wal-arḍi
   7:
-    arabic: اِلَّاۤ
+    arabic: إِلَّآ ءَ
     translation: but
     transliteration: illā
   8:
-    arabic: اٰتِى
+    arabic: اتِي
     translation: (will) come
     transliteration: ātī
   9:
-    arabic: الرَّحۡمٰنِ
+    arabic: ٱلرَّحۡمَٰنِ
     translation: (to) the Most Gracious
     transliteration: l-raḥmāni
   10:
-    arabic: عَبۡدًا ؕ‏
+    arabic: عَبۡدٗا
     translation: (as) a slave
     transliteration: ʿabdan
 ---

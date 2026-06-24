@@ -1,11 +1,10 @@
 ---
-arabic_ayat: اَمۡ لَهُمۡ نَصِيۡبٌ مِّنَ الۡمُلۡكِ فَاِذًا لَّا يُؤۡتُوۡنَ النَّاسَ
-  نَقِيۡرًا ۙ‏
+arabic_ayat: أَمۡ لَهُمۡ نَصِيبٞ مِّنَ ٱلۡمُلۡكِ فَإِذٗا لَّا يُؤۡتُونَ ٱلنَّاسَ نَقِيرًا
 sentence_translation: Do they have control over shares of the kingdom? If so, they
   would not have given anyone so much as the speck on a date stone.
 word_by_word:
   1:
-    arabic: اَمۡ
+    arabic: أَمۡ
     translation: Or
     transliteration: am
   2:
@@ -13,7 +12,7 @@ word_by_word:
     translation: for them
     transliteration: lahum
   3:
-    arabic: نَصِيۡبٌ
+    arabic: نَصِيبٞ
     translation: (is) a share
     transliteration: naṣībun
   4:
@@ -21,11 +20,11 @@ word_by_word:
     translation: of
     transliteration: mina
   5:
-    arabic: الۡمُلۡكِ
+    arabic: ٱلۡمُلۡكِ
     translation: the Kingdom
     transliteration: l-mul'ki
   6:
-    arabic: فَاِذًا
+    arabic: فَإِذٗا
     translation: Then
     transliteration: fa-idhan
   7:
@@ -33,15 +32,15 @@ word_by_word:
     translation: not would
     transliteration: lā
   8:
-    arabic: يُؤۡتُوۡنَ
+    arabic: يُؤۡتُونَ
     translation: they give
     transliteration: yu'tūna
   9:
-    arabic: النَّاسَ
+    arabic: ٱلنَّاسَ
     translation: the people
     transliteration: l-nāsa
   10:
-    arabic: نَقِيۡرًا ۙ‏
+    arabic: نَقِيرًا
     translation: (even as much as the) speck on a date seed
     transliteration: naqīran
 ---

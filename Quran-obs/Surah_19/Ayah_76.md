@@ -1,35 +1,35 @@
 ---
-arabic_ayat: وَيَزِيۡدُ اللّٰهُ الَّذِيۡنَ اهۡتَدَوۡا هُدًى​ؕ وَالۡبٰقِيٰتُ الصّٰلِحٰتُ
-  خَيۡرٌ عِنۡدَ رَبِّكَ ثَوَابًا وَّخَيۡرٌ مَّرَدًّا‏
+arabic_ayat: وَيَزِيدُ ٱللَّهُ ٱلَّذِينَ ٱهۡتَدَوۡاْ هُدٗىۗ وَٱلۡبَٰقِيَٰتُ ٱلصَّٰلِحَٰتُ
+  خَيۡرٌ عِندَ رَبِّكَ ثَوَابٗا وَخَيۡرٞ مَّرَدًّا
 sentence_translation: And Allah increases in guidance those who are ˹rightly˺ guided.
   And the everlasting good deeds are far better with your Lord in reward and in outcome. 
 word_by_word:
   1:
-    arabic: وَيَزِيۡدُ
+    arabic: وَيَزِيدُ
     translation: And Allah increases
     transliteration: wayazīdu
   2:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: And Allah increases
     transliteration: l-lahu
   3:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   4:
-    arabic: اهۡتَدَوۡا
+    arabic: ٱهۡتَدَوۡاْ
     translation: accept guidance
     transliteration: ih'tadaw
   5:
-    arabic: هُدًى​ؕ
+    arabic: هُدٗىۗ
     translation: (in) guidance
     transliteration: hudan
   6:
-    arabic: وَالۡبٰقِيٰتُ
+    arabic: وَٱلۡبَٰقِيَٰتُ
     translation: And the everlasting
     transliteration: wal-bāqiyātu
   7:
-    arabic: الصّٰلِحٰتُ
+    arabic: ٱلصَّٰلِحَٰتُ
     translation: good deeds
     transliteration: l-ṣāliḥātu
   8:
@@ -37,7 +37,7 @@ word_by_word:
     translation: (are) better
     transliteration: khayrun
   9:
-    arabic: عِنۡدَ
+    arabic: عِندَ
     translation: near
     transliteration: ʿinda
   10:
@@ -45,15 +45,15 @@ word_by_word:
     translation: your Lord
     transliteration: rabbika
   11:
-    arabic: ثَوَابًا
+    arabic: ثَوَابٗا
     translation: (for) reward
     transliteration: thawāban
   12:
-    arabic: وَّخَيۡرٌ
+    arabic: وَخَيۡرٞ
     translation: and better
     transliteration: wakhayrun
   13:
-    arabic: مَّرَدًّا‏
+    arabic: مَّرَدًّا
     translation: (for) return
     transliteration: maraddan
 ---

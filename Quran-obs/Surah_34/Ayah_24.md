@@ -1,20 +1,20 @@
 ---
-arabic_ayat: قُلۡ مَنۡ يَّرۡزُقُكُمۡ مِّنَ السَّمٰوٰتِ وَالۡاَرۡضِؕ قُلِ اللّٰهُ ۙ
-  وَ اِنَّاۤ اَوۡ اِيَّاكُمۡ لَعَلٰى هُدًى اَوۡ فِىۡ ضَلٰلٍ مُّبِيۡنٍ‏
+arabic_ayat: ۞ قُلۡ مَن يَرۡزُقُكُم مِّنَ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِۖ قُلِ ٱللَّهُۖ
+  وَإِنَّآ أَوۡ إِيَّاكُمۡ لَعَلَىٰ هُدًى أَوۡ فِي ضَلَٰلٖ مُّبِينٖ
 sentence_translation: Ask ˹them, O  Prophet˺, “Who provides for you from the heavens
   and the earth?” Say, “Allah! Now, certainly one of our two groups is ˹rightly˺ guided;
   the other is clearly astray.”
 word_by_word:
   1:
-    arabic: ۞ قُلۡ
+    arabic: ۞ قُلۡ
     translation: Say
     transliteration: qul
   2:
-    arabic: مَنۡ
+    arabic: مَن
     translation: Who
     transliteration: man
   3:
-    arabic: يَّرۡزُقُكُمۡ
+    arabic: يَرۡزُقُكُم
     translation: provides (for) you
     transliteration: yarzuqukum
   4:
@@ -22,11 +22,11 @@ word_by_word:
     translation: from
     transliteration: mina
   5:
-    arabic: السَّمٰوٰتِ
+    arabic: ٱلسَّمَٰوَٰتِ
     translation: the heavens
     transliteration: l-samāwāti
   6:
-    arabic: وَالۡاَرۡضِؕ
+    arabic: وَٱلۡأَرۡضِۖ
     translation: and the earth
     transliteration: wal-arḍi
   7:
@@ -34,23 +34,23 @@ word_by_word:
     translation: Say
     transliteration: quli
   8:
-    arabic: اللّٰهُ ۙ
+    arabic: ٱللَّهُۖ
     translation: Allah
     transliteration: l-lahu
   9:
-    arabic: وَ اِنَّاۤ
+    arabic: وَإِنَّآ
     translation: And indeed, we
     transliteration: wa-innā
   10:
-    arabic: اَوۡ
+    arabic: أَوۡ
     translation: or
     transliteration: aw
   11:
-    arabic: اِيَّاكُمۡ
+    arabic: إِيَّاكُمۡ
     translation: you
     transliteration: iyyākum
   12:
-    arabic: لَعَلٰى
+    arabic: لَعَلَىٰ
     translation: (are) surely upon
     transliteration: laʿalā
   13:
@@ -58,19 +58,19 @@ word_by_word:
     translation: guidance
     transliteration: hudan
   14:
-    arabic: اَوۡ
+    arabic: أَوۡ
     translation: or
     transliteration: aw
   15:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   16:
-    arabic: ضَلٰلٍ
+    arabic: ضَلَٰلٖ
     translation: error
     transliteration: ḍalālin
   17:
-    arabic: مُّبِيۡنٍ‏
+    arabic: مُّبِينٖ
     translation: clear
     transliteration: mubīnin
 ---

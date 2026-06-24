@@ -1,11 +1,11 @@
 ---
-arabic_ayat: وَ يَوۡمَ نَحۡشُرُ مِنۡ كُلِّ اُمَّةٍ فَوۡجًا مِّمَّنۡ يُّكَذِّبُ بِاٰيٰتِنَا
-  فَهُمۡ يُوۡزَعُوۡنَ‏
+arabic_ayat: وَيَوۡمَ نَحۡشُرُ مِن كُلِّ أُمَّةٖ فَوۡجٗا مِّمَّن يُكَذِّبُ بِـَٔايَٰتِنَا
+  فَهُمۡ يُوزَعُونَ
 sentence_translation: ˹Watch for˺ the Day We will gather from every faith-community
   a group of those who denied Our revelations, and they will be driven in ranks.
 word_by_word:
   1:
-    arabic: وَ يَوۡمَ
+    arabic: وَيَوۡمَ
     translation: And (the) Day
     transliteration: wayawma
   2:
@@ -13,7 +13,7 @@ word_by_word:
     translation: We will gather
     transliteration: naḥshuru
   3:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   4:
@@ -21,23 +21,23 @@ word_by_word:
     translation: every
     transliteration: kulli
   5:
-    arabic: اُمَّةٍ
+    arabic: أُمَّةٖ
     translation: nation
     transliteration: ummatin
   6:
-    arabic: فَوۡجًا
+    arabic: فَوۡجٗا
     translation: a troop
     transliteration: fawjan
   7:
-    arabic: مِّمَّنۡ
+    arabic: مِّمَّن
     translation: of (those) who
     transliteration: mimman
   8:
-    arabic: يُّكَذِّبُ
+    arabic: يُكَذِّبُ
     translation: deny
     transliteration: yukadhibu
   9:
-    arabic: بِاٰيٰتِنَا
+    arabic: بِـَٔايَٰتِنَا
     translation: Our Signs
     transliteration: biāyātinā
   10:
@@ -45,7 +45,7 @@ word_by_word:
     translation: and they
     transliteration: fahum
   11:
-    arabic: يُوۡزَعُوۡنَ‏
+    arabic: يُوزَعُونَ
     translation: will be set in rows
     transliteration: yūzaʿūna
 ---

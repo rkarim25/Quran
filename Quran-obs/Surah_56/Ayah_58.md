@@ -1,9 +1,9 @@
 ---
-arabic_ayat: اَفَرَءَيۡتُمۡ مَّا تُمۡنُوۡنَؕ‏
+arabic_ayat: أَفَرَءَيۡتُم مَّا تُمۡنُونَ
 sentence_translation: Have you considered what you ejaculate?
 word_by_word:
   1:
-    arabic: اَفَرَءَيۡتُمۡ
+    arabic: أَفَرَءَيۡتُم
     translation: Do you see
     transliteration: afara-aytum
   2:
@@ -11,7 +11,7 @@ word_by_word:
     translation: what
     transliteration: mā
   3:
-    arabic: تُمۡنُوۡنَؕ‏
+    arabic: تُمۡنُونَ
     translation: you emit
     transliteration: tum'nūna
 ---

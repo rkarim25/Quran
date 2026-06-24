@@ -1,14 +1,14 @@
 ---
-arabic_ayat: ذٰ لِكَ نَـتۡلُوۡهُ عَلَيۡكَ مِنَ الۡاٰيٰتِ وَ الذِّكۡرِ الۡحَكِيۡمِ‏
+arabic_ayat: ذَٰلِكَ نَتۡلُوهُ عَلَيۡكَ مِنَ ٱلۡأٓيَٰتِ وَٱلذِّكۡرِ ٱلۡحَكِيمِ
 sentence_translation: We recite ˹all˺ this to you ˹O Prophet˺ as one of the signs and
   ˹as˺ a wise reminder.
 word_by_word:
   1:
-    arabic: ذٰ لِكَ
+    arabic: ذَٰلِكَ
     translation: That
     transliteration: dhālika
   2:
-    arabic: نَـتۡلُوۡهُ
+    arabic: نَتۡلُوهُ
     translation: (is what) We recite [it]
     transliteration: natlūhu
   3:
@@ -20,15 +20,15 @@ word_by_word:
     translation: of
     transliteration: mina
   5:
-    arabic: الۡاٰيٰتِ
+    arabic: ٱلۡأٓيَٰتِ
     translation: the Verses
     transliteration: l-āyāti
   6:
-    arabic: وَ الذِّكۡرِ
+    arabic: وَٱلذِّكۡرِ
     translation: 'and the Reminder '
     transliteration: wal-dhik'ri
   7:
-    arabic: الۡحَكِيۡمِ‏
+    arabic: ٱلۡحَكِيمِ
     translation: '[the] Wise'
     transliteration: l-ḥakīmi
 ---

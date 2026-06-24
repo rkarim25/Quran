@@ -1,13 +1,13 @@
 ---
-arabic_ayat: وَّهُمۡ عَلٰى مَا يَفۡعَلُوۡنَ بِالۡمُؤۡمِنِيۡنَ شُهُوۡدٌ ؕ‏
+arabic_ayat: وَهُمۡ عَلَىٰ مَا يَفۡعَلُونَ بِٱلۡمُؤۡمِنِينَ شُهُودٞ
 sentence_translation: watching what they had ˹ordered to be˺ done to the believers,
 word_by_word:
   1:
-    arabic: وَّهُمۡ
+    arabic: وَهُمۡ
     translation: And they
     transliteration: wahum
   2:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: over
     transliteration: ʿalā
   3:
@@ -15,15 +15,15 @@ word_by_word:
     translation: what
     transliteration: mā
   4:
-    arabic: يَفۡعَلُوۡنَ
+    arabic: يَفۡعَلُونَ
     translation: they were doing
     transliteration: yafʿalūna
   5:
-    arabic: بِالۡمُؤۡمِنِيۡنَ
+    arabic: بِٱلۡمُؤۡمِنِينَ
     translation: to the believers
     transliteration: bil-mu'minīna
   6:
-    arabic: شُهُوۡدٌ ؕ‏
+    arabic: شُهُودٞ
     translation: witnesses
     transliteration: shuhūdun
 ---

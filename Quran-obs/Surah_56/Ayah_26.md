@@ -1,21 +1,21 @@
 ---
-arabic_ayat: اِلَّا قِيۡلًا سَلٰمًا سَلٰمًا‏
+arabic_ayat: إِلَّا قِيلٗا سَلَٰمٗا سَلَٰمٗا
 sentence_translation: only good and virtuous speech. 
 word_by_word:
   1:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: Except
     transliteration: illā
   2:
-    arabic: قِيۡلًا
+    arabic: قِيلٗا
     translation: a saying
     transliteration: qīlan
   3:
-    arabic: سَلٰمًا
+    arabic: سَلَٰمٗا
     translation: Peace
     transliteration: salāman
   4:
-    arabic: سَلٰمًا‏
+    arabic: سَلَٰمٗا
     translation: Peace
     transliteration: salāman
 ---

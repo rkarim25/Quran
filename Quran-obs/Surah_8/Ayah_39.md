@@ -1,16 +1,16 @@
 ---
-arabic_ayat: وَقَاتِلُوۡهُمۡ حَتّٰى لَا تَكُوۡنَ فِتۡنَةٌ وَّيَكُوۡنَ الدِّيۡنُ كُلُّهٗ
-  لِلّٰهِ​ۚ فَاِنِ انْـتَهَوۡا فَاِنَّ اللّٰهَ بِمَا يَعۡمَلُوۡنَ بَصِيۡرٌ‏
+arabic_ayat: وَقَٰتِلُوهُمۡ حَتَّىٰ لَا تَكُونَ فِتۡنَةٞ وَيَكُونَ ٱلدِّينُ كُلُّهُۥ
+  لِلَّهِۚ فَإِنِ ٱنتَهَوۡاْ فَإِنَّ ٱللَّهَ بِمَا يَعۡمَلُونَ بَصِيرٞ
 sentence_translation: Fight against them until there is no more persecution—and ˹your˺
   devotion will be entirely to Allah. But if they desist, then surely Allah is All-Seeing
   of what they do.
 word_by_word:
   1:
-    arabic: وَقَاتِلُوۡهُمۡ
+    arabic: وَقَٰتِلُوهُمۡ
     translation: And fight them
     transliteration: waqātilūhum
   2:
-    arabic: حَتّٰى
+    arabic: حَتَّىٰ
     translation: until
     transliteration: ḥattā
   3:
@@ -18,43 +18,43 @@ word_by_word:
     translation: not
     transliteration: lā
   4:
-    arabic: تَكُوۡنَ
+    arabic: تَكُونَ
     translation: there is
     transliteration: takūna
   5:
-    arabic: فِتۡنَةٌ
+    arabic: فِتۡنَةٞ
     translation: oppression
     transliteration: fit'natun
   6:
-    arabic: وَّيَكُوۡنَ
+    arabic: وَيَكُونَ
     translation: and is
     transliteration: wayakūna
   7:
-    arabic: الدِّيۡنُ
+    arabic: ٱلدِّينُ
     translation: the religion
     transliteration: l-dīnu
   8:
-    arabic: كُلُّهٗ
+    arabic: كُلُّهُۥ
     translation: all of it
     transliteration: kulluhu
   9:
-    arabic: لِلّٰهِ​ۚ
+    arabic: لِلَّهِۚ
     translation: for Allah
     transliteration: lillahi
   10:
-    arabic: فَاِنِ
+    arabic: فَإِنِ
     translation: But if
     transliteration: fa-ini
   11:
-    arabic: انْـتَهَوۡا
+    arabic: ٱنتَهَوۡاْ
     translation: they cease
     transliteration: intahaw
   12:
-    arabic: فَاِنَّ
+    arabic: فَإِنَّ
     translation: then indeed
     transliteration: fa-inna
   13:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   14:
@@ -62,11 +62,11 @@ word_by_word:
     translation: of what
     transliteration: bimā
   15:
-    arabic: يَعۡمَلُوۡنَ
+    arabic: يَعۡمَلُونَ
     translation: they do
     transliteration: yaʿmalūna
   16:
-    arabic: بَصِيۡرٌ‏
+    arabic: بَصِيرٞ
     translation: (is) All-Seer
     transliteration: baṣīrun
 ---

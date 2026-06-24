@@ -1,17 +1,17 @@
 ---
-arabic_ayat: قَالُوا ادۡعُ لَنَا رَبَّكَ يُبَيِّنۡ لَّنَا مَا هِىَ​ؕ قَالَ اِنَّهٗ
-  يَقُوۡلُ اِنَّهَا بَقَرَةٌ لَّا فَارِضٌ وَّلَا بِكۡرٌؕ عَوَانٌۢ بَيۡنَ ذٰلِكَ​ؕ
-  فَافۡعَلُوۡا مَا تُؤۡمَرُوۡنَ‏
+arabic_ayat: قَالُواْ ٱدۡعُ لَنَا رَبَّكَ يُبَيِّن لَّنَا مَا هِيَۚ قَالَ إِنَّهُۥ
+  يَقُولُ إِنَّهَا بَقَرَةٞ لَّا فَارِضٞ وَلَا بِكۡرٌ عَوَانُۢ بَيۡنَ ذَٰلِكَۖ فَٱفۡعَلُواْ
+  مَا تُؤۡمَرُونَ
 sentence_translation: They said, “Call upon your Lord to clarify for us what type
   ˹of cow˺ it should be!” He replied, “Allah says, ‘The cow should neither be old
   nor young but in between. So do as you are commanded!’”
 word_by_word:
   1:
-    arabic: قَالُوا
+    arabic: قَالُواْ
     translation: They said
     transliteration: qālū
   2:
-    arabic: ادۡعُ
+    arabic: ٱدۡعُ
     translation: Pray
     transliteration: ud'ʿu
   3:
@@ -23,7 +23,7 @@ word_by_word:
     translation: (to) your Lord
     transliteration: rabbaka
   5:
-    arabic: يُبَيِّنۡ
+    arabic: يُبَيِّن
     translation: to make clear
     transliteration: yubayyin
   6:
@@ -35,7 +35,7 @@ word_by_word:
     translation: what
     transliteration: mā
   8:
-    arabic: هِىَ​ؕ
+    arabic: هِيَۚ
     translation: it (is)
     transliteration: hiya
   9:
@@ -43,19 +43,19 @@ word_by_word:
     translation: He said
     transliteration: qāla
   10:
-    arabic: اِنَّهٗ
+    arabic: إِنَّهُۥ
     translation: Indeed, He
     transliteration: innahu
   11:
-    arabic: يَقُوۡلُ
+    arabic: يَقُولُ
     translation: says
     transliteration: yaqūlu
   12:
-    arabic: اِنَّهَا
+    arabic: إِنَّهَا
     translation: '[Indeed] it'
     transliteration: innahā
   13:
-    arabic: بَقَرَةٌ
+    arabic: بَقَرَةٞ
     translation: (is) a cow
     transliteration: baqaratun
   14:
@@ -63,19 +63,19 @@ word_by_word:
     translation: not
     transliteration: lā
   15:
-    arabic: فَارِضٌ
+    arabic: فَارِضٞ
     translation: old
     transliteration: fāriḍun
   16:
-    arabic: وَّلَا
+    arabic: وَلَا
     translation: and not
     transliteration: walā
   17:
-    arabic: بِكۡرٌؕ
+    arabic: بِكۡرٌ
     translation: young
     transliteration: bik'run
   18:
-    arabic: عَوَانٌۢ
+    arabic: عَوَانُۢ
     translation: middle aged
     transliteration: ʿawānun
   19:
@@ -83,11 +83,11 @@ word_by_word:
     translation: between
     transliteration: bayna
   20:
-    arabic: ذٰلِكَ​ؕ
+    arabic: ذَٰلِكَۖ
     translation: that
     transliteration: dhālika
   21:
-    arabic: فَافۡعَلُوۡا
+    arabic: فَٱفۡعَلُواْ
     translation: so do
     transliteration: fa-if'ʿalū
   22:
@@ -95,7 +95,7 @@ word_by_word:
     translation: what
     transliteration: mā
   23:
-    arabic: تُؤۡمَرُوۡنَ‏
+    arabic: تُؤۡمَرُونَ
     translation: you are commanded
     transliteration: tu'marūna
 ---

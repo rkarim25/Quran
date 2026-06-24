@@ -1,43 +1,43 @@
 ---
-arabic_ayat: مَاۤ اَنۡتَ اِلَّا بَشَرٌ مِّثۡلُـنَا ​ ۖۚ فَاۡتِ بِاٰيَةٍ اِنۡ كُنۡتَ
-  مِنَ الصّٰدِقِيۡنَ‏
+arabic_ayat: مَآ أَنتَ إِلَّا بَشَرٞ مِّثۡلُنَا فَأۡتِ بِـَٔايَةٍ إِن كُنتَ مِنَ
+  ٱلصَّٰدِقِينَ
 sentence_translation: You are only a human being like us, so bring forth a sign if
   what you say is true.”
 word_by_word:
   1:
-    arabic: مَاۤ
+    arabic: مَآ
     translation: Not
     transliteration: mā
   2:
-    arabic: اَنۡتَ
+    arabic: أَنتَ
     translation: you
     transliteration: anta
   3:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: (are) except
     transliteration: illā
   4:
-    arabic: بَشَرٌ
+    arabic: بَشَرٞ
     translation: a man
     transliteration: basharun
   5:
-    arabic: مِّثۡلُـنَا ​ ۖۚ
+    arabic: مِّثۡلُنَا
     translation: like us
     transliteration: mith'lunā
   6:
-    arabic: فَاۡتِ
+    arabic: فَأۡتِ
     translation: so bring
     transliteration: fati
   7:
-    arabic: بِاٰيَةٍ
+    arabic: بِـَٔايَةٍ
     translation: a sign
     transliteration: biāyatin
   8:
-    arabic: اِنۡ
+    arabic: إِن
     translation: if
     transliteration: in
   9:
-    arabic: كُنۡتَ
+    arabic: كُنتَ
     translation: you
     transliteration: kunta
   10:
@@ -45,7 +45,7 @@ word_by_word:
     translation: (are) of
     transliteration: mina
   11:
-    arabic: الصّٰدِقِيۡنَ‏
+    arabic: ٱلصَّٰدِقِينَ
     translation: the truthful
     transliteration: l-ṣādiqīna
 ---

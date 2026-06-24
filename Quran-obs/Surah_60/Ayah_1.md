@@ -1,11 +1,10 @@
 ---
-arabic_ayat: "يٰۤاَيُّهَا الَّذِيۡنَ اٰمَنُوۡا لَا تَتَّخِذُوۡا عَدُوِّىۡ وَعَدُوَّكُمۡ\
-  \ اَوۡلِيَآءَ تُلۡقُوۡنَ اِلَيۡهِمۡ بِالۡمَوَدَّةِ وَقَدۡ كَفَرُوۡا بِمَا جَآءَكُمۡ\
-  \ مِّنَ الۡحَـقِّ​ ۚ يُخۡرِجُوۡنَ الرَّسُوۡلَ وَاِيَّاكُمۡ​ اَنۡ تُؤۡمِنُوۡا بِاللّٰهِ\
-  \ رَبِّكُمۡ ؕ اِنۡ كُنۡـتُمۡ خَرَجۡتُمۡ جِهَادًا فِىۡ سَبِيۡلِىۡ وَ ابۡتِغَآءَ\
-  \ مَرۡضَاتِىۡ ​ۖ  تُسِرُّوۡنَ اِلَيۡهِمۡ بِالۡمَوَدَّةِ ​ۖ  وَاَنَا اَعۡلَمُ بِمَاۤ\
-  \ اَخۡفَيۡتُمۡ وَمَاۤ اَعۡلَنۡتُمۡ​ؕ وَمَنۡ يَّفۡعَلۡهُ مِنۡكُمۡ فَقَدۡ ضَلَّ سَوَآءَ\
-  \ السَّبِيۡلِ‏ \uFEFF\uFEFF"
+arabic_ayat: يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُواْ لَا تَتَّخِذُواْ عَدُوِّي وَعَدُوَّكُمۡ
+  أَوۡلِيَآءَ تُلۡقُونَ إِلَيۡهِم بِٱلۡمَوَدَّةِ وَقَدۡ كَفَرُواْ بِمَا جَآءَكُم
+  مِّنَ ٱلۡحَقِّ يُخۡرِجُونَ ٱلرَّسُولَ وَإِيَّاكُمۡ أَن تُؤۡمِنُواْ بِٱللَّهِ رَبِّكُمۡ
+  إِن كُنتُمۡ خَرَجۡتُمۡ جِهَٰدٗا فِي سَبِيلِي وَٱبۡتِغَآءَ مَرۡضَاتِيۚ تُسِرُّونَ
+  إِلَيۡهِم بِٱلۡمَوَدَّةِ وَأَنَا۠ أَعۡلَمُ بِمَآ أَخۡفَيۡتُمۡ وَمَآ أَعۡلَنتُمۡۚ
+  وَمَن يَفۡعَلۡهُ مِنكُمۡ فَقَدۡ ضَلَّ سَوَآءَ ٱلسَّبِيلِ
 sentence_translation: O believers! Do not take My enemies and yours as trusted allies,
   showing them affection even though they deny what has come to you of the truth.
   They drove the Messenger and yourselves out ˹of Mecca˺, simply for your belief in
@@ -15,15 +14,15 @@ sentence_translation: O believers! Do not take My enemies and yours as trusted a
   you reveal. And whoever of you does this has truly strayed from the Right Way.
 word_by_word:
   1:
-    arabic: يٰۤاَيُّهَا
+    arabic: يَٰٓأَيُّهَا
     translation: O you
     transliteration: yāayyuhā
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ ءَ
     translation: who
     transliteration: alladhīna
   3:
-    arabic: اٰمَنُوۡا
+    arabic: امَنُواْ
     translation: believe
     transliteration: āmanū
   4:
@@ -31,11 +30,11 @@ word_by_word:
     translation: (Do) not
     transliteration: lā
   5:
-    arabic: تَتَّخِذُوۡا
+    arabic: تَتَّخِذُواْ
     translation: take
     transliteration: tattakhidhū
   6:
-    arabic: عَدُوِّىۡ
+    arabic: عَدُوِّي
     translation: My enemies
     transliteration: ʿaduwwī
   7:
@@ -43,19 +42,19 @@ word_by_word:
     translation: and your enemies
     transliteration: waʿaduwwakum
   8:
-    arabic: اَوۡلِيَآءَ
+    arabic: أَوۡلِيَآءَ
     translation: (as) allies
     transliteration: awliyāa
   9:
-    arabic: تُلۡقُوۡنَ
+    arabic: تُلۡقُونَ
     translation: offering
     transliteration: tul'qūna
   10:
-    arabic: اِلَيۡهِمۡ
+    arabic: إِلَيۡهِم
     translation: them
     transliteration: ilayhim
   11:
-    arabic: بِالۡمَوَدَّةِ
+    arabic: بِٱلۡمَوَدَّةِ
     translation: love
     transliteration: bil-mawadati
   12:
@@ -63,7 +62,7 @@ word_by_word:
     translation: while
     transliteration: waqad
   13:
-    arabic: كَفَرُوۡا
+    arabic: كَفَرُواْ
     translation: they have disbelieved
     transliteration: kafarū
   14:
@@ -71,7 +70,7 @@ word_by_word:
     translation: in what
     transliteration: bimā
   15:
-    arabic: جَآءَكُمۡ
+    arabic: جَآءَكُم
     translation: came to you
     transliteration: jāakum
   16:
@@ -79,43 +78,43 @@ word_by_word:
     translation: of
     transliteration: mina
   17:
-    arabic: الۡحَـقِّ​ ۚ
+    arabic: ٱلۡحَقِّ
     translation: the truth
     transliteration: l-ḥaqi
   18:
-    arabic: يُخۡرِجُوۡنَ
+    arabic: يُخۡرِجُونَ
     translation: driving out
     transliteration: yukh'rijūna
   19:
-    arabic: الرَّسُوۡلَ
+    arabic: ٱلرَّسُولَ
     translation: the Messenger
     transliteration: l-rasūla
   20:
-    arabic: وَاِيَّاكُمۡ​
+    arabic: وَإِيَّاكُمۡ
     translation: and yourselves
     transliteration: wa-iyyākum
   21:
-    arabic: اَنۡ
+    arabic: أَن
     translation: because
     transliteration: an
   22:
-    arabic: تُؤۡمِنُوۡا
+    arabic: تُؤۡمِنُواْ
     translation: you believe
     transliteration: tu'minū
   23:
-    arabic: بِاللّٰهِ
+    arabic: بِٱللَّهِ
     translation: in Allah
     transliteration: bil-lahi
   24:
-    arabic: رَبِّكُمۡ ؕ
+    arabic: رَبِّكُمۡ
     translation: your Lord
     transliteration: rabbikum
   25:
-    arabic: اِنۡ
+    arabic: إِن
     translation: If
     transliteration: in
   26:
-    arabic: كُنۡـتُمۡ
+    arabic: كُنتُمۡ
     translation: you
     transliteration: kuntum
   27:
@@ -123,71 +122,71 @@ word_by_word:
     translation: come forth
     transliteration: kharajtum
   28:
-    arabic: جِهَادًا
+    arabic: جِهَٰدٗا
     translation: (to) strive
     transliteration: jihādan
   29:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   30:
-    arabic: سَبِيۡلِىۡ
+    arabic: سَبِيلِي
     translation: My way
     transliteration: sabīlī
   31:
-    arabic: وَ ابۡتِغَآءَ
+    arabic: وَٱبۡتِغَآءَ
     translation: and (to) seek
     transliteration: wa-ib'tighāa
   32:
-    arabic: مَرۡضَاتِىۡ ​ۖ 
+    arabic: مَرۡضَاتِيۚ
     translation: My Pleasure
     transliteration: marḍātī
   33:
-    arabic: تُسِرُّوۡنَ
+    arabic: تُسِرُّونَ
     translation: You confide
     transliteration: tusirrūna
   34:
-    arabic: اِلَيۡهِمۡ
+    arabic: إِلَيۡهِم
     translation: to them
     transliteration: ilayhim
   35:
-    arabic: بِالۡمَوَدَّةِ ​ۖ 
+    arabic: بِٱلۡمَوَدَّةِ
     translation: love
     transliteration: bil-mawadati
   36:
-    arabic: وَاَنَا
+    arabic: وَأَنَا۠
     translation: but I Am
     transliteration: wa-anā
   37:
-    arabic: اَعۡلَمُ
+    arabic: أَعۡلَمُ
     translation: most knowing
     transliteration: aʿlamu
   38:
-    arabic: بِمَاۤ
+    arabic: بِمَآ
     translation: of what
     transliteration: bimā
   39:
-    arabic: اَخۡفَيۡتُمۡ
+    arabic: أَخۡفَيۡتُمۡ
     translation: you conceal
     transliteration: akhfaytum
   40:
-    arabic: وَمَاۤ
+    arabic: وَمَآ
     translation: and what
     transliteration: wamā
   41:
-    arabic: اَعۡلَنۡتُمۡ​ؕ
+    arabic: أَعۡلَنتُمۡۚ
     translation: you declare
     transliteration: aʿlantum
   42:
-    arabic: وَمَنۡ
+    arabic: وَمَن
     translation: And whoever
     transliteration: waman
   43:
-    arabic: يَّفۡعَلۡهُ
+    arabic: يَفۡعَلۡهُ
     translation: does it
     transliteration: yafʿalhu
   44:
-    arabic: مِنۡكُمۡ
+    arabic: مِنكُمۡ
     translation: among you
     transliteration: minkum
   45:
@@ -203,7 +202,7 @@ word_by_word:
     translation: (from the) straight
     transliteration: sawāa
   48:
-    arabic: "السَّبِيۡلِ‏ \uFEFF\uFEFF"
+    arabic: ٱلسَّبِيلِ
     translation: path
     transliteration: l-sabīli
 ---

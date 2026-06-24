@@ -1,6 +1,6 @@
 ---
-arabic_ayat: رَبَّنَا وَاٰتِنَا مَا وَعَدتَّنَا عَلٰى رُسُلِكَ وَلَا تُخۡزِنَا يَوۡمَ
-  الۡقِيٰمَةِ ​ؕ اِنَّكَ لَا تُخۡلِفُ الۡمِيۡعَادَ‏
+arabic_ayat: رَبَّنَا وَءَاتِنَا مَا وَعَدتَّنَا عَلَىٰ رُسُلِكَ وَلَا تُخۡزِنَا يَوۡمَ
+  ٱلۡقِيَٰمَةِۖ إِنَّكَ لَا تُخۡلِفُ ٱلۡمِيعَادَ
 sentence_translation: Our Lord! Grant us what You have promised us through Your messengers
   and do not put us to shame on Judgment Day—for certainly You never fail in Your
   promise.”
@@ -10,7 +10,7 @@ word_by_word:
     translation: Our Lord
     transliteration: rabbanā
   2:
-    arabic: وَاٰتِنَا
+    arabic: وَءَاتِنَا
     translation: grant us
     transliteration: waātinā
   3:
@@ -22,7 +22,7 @@ word_by_word:
     translation: You promised us
     transliteration: waʿadttanā
   5:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: through
     transliteration: ʿalā
   6:
@@ -42,11 +42,11 @@ word_by_word:
     translation: (on the) Day
     transliteration: yawma
   10:
-    arabic: الۡقِيٰمَةِ ​ؕ
+    arabic: ٱلۡقِيَٰمَةِۖ
     translation: (of) [the] Resurrection
     transliteration: l-qiyāmati
   11:
-    arabic: اِنَّكَ
+    arabic: إِنَّكَ
     translation: Indeed, You
     transliteration: innaka
   12:
@@ -58,7 +58,7 @@ word_by_word:
     translation: break
     transliteration: tukh'lifu
   14:
-    arabic: الۡمِيۡعَادَ‏
+    arabic: ٱلۡمِيعَادَ
     translation: the promise
     transliteration: l-mīʿāda
 ---

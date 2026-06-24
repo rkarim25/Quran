@@ -1,21 +1,21 @@
 ---
-arabic_ayat: يَقُوۡلُ اَهۡلَكۡتُ مَالًا لُّبَدًا ؕ‏
+arabic_ayat: يَقُولُ أَهۡلَكۡتُ مَالٗا لُّبَدًا
 sentence_translation: boasting, “I have wasted enormous wealth!”?
 word_by_word:
   1:
-    arabic: يَقُوۡلُ
+    arabic: يَقُولُ
     translation: He will say
     transliteration: yaqūlu
   2:
-    arabic: اَهۡلَكۡتُ
+    arabic: أَهۡلَكۡتُ
     translation: I have squandered
     transliteration: ahlaktu
   3:
-    arabic: مَالًا
+    arabic: مَالٗا
     translation: wealth
     transliteration: mālan
   4:
-    arabic: لُّبَدًا ؕ‏
+    arabic: لُّبَدًا
     translation: abundant
     transliteration: lubadan
 ---

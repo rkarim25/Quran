@@ -1,19 +1,19 @@
 ---
-arabic_ayat: اِنۡ هِىَ اِلَّا حَيَاتُنَا الدُّنۡيَا نَمُوۡتُ وَنَحۡيَا وَمَا نَحۡنُ
-  بِمَبۡعُوۡثِيۡنَ ۙ‏
+arabic_ayat: إِنۡ هِيَ إِلَّا حَيَاتُنَا ٱلدُّنۡيَا نَمُوتُ وَنَحۡيَا وَمَا نَحۡنُ
+  بِمَبۡعُوثِينَ
 sentence_translation: There is nothing beyond our worldly life. We die, others are
   born, and none will be resurrected.
 word_by_word:
   1:
-    arabic: اِنۡ
+    arabic: إِنۡ
     translation: Not
     transliteration: in
   2:
-    arabic: هِىَ
+    arabic: هِيَ
     translation: it
     transliteration: hiya
   3:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: (is) but
     transliteration: illā
   4:
@@ -21,11 +21,11 @@ word_by_word:
     translation: our life
     transliteration: ḥayātunā
   5:
-    arabic: الدُّنۡيَا
+    arabic: ٱلدُّنۡيَا
     translation: (of) the world
     transliteration: l-dun'yā
   6:
-    arabic: نَمُوۡتُ
+    arabic: نَمُوتُ
     translation: we die
     transliteration: namūtu
   7:
@@ -41,7 +41,7 @@ word_by_word:
     translation: we
     transliteration: naḥnu
   10:
-    arabic: بِمَبۡعُوۡثِيۡنَ ۙ‏
+    arabic: بِمَبۡعُوثِينَ
     translation: (will be) resurrected
     transliteration: bimabʿūthīna
 ---

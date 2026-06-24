@@ -1,31 +1,31 @@
 ---
-arabic_ayat: وَقَاتِلُوۡا فِىۡ سَبِيۡلِ اللّٰهِ الَّذِيۡنَ يُقَاتِلُوۡنَكُمۡ وَلَا
-  تَعۡتَدُوۡا ؕ اِنَّ اللّٰهَ لَا يُحِبُّ الۡمُعۡتَدِيۡنَ‏
+arabic_ayat: وَقَٰتِلُواْ فِي سَبِيلِ ٱللَّهِ ٱلَّذِينَ يُقَٰتِلُونَكُمۡ وَلَا تَعۡتَدُوٓاْۚ
+  إِنَّ ٱللَّهَ لَا يُحِبُّ ٱلۡمُعۡتَدِينَ
 sentence_translation: Fight in the cause of Allah ˹only˺ against those who wage war
   against you, but do not exceed the limits. Allah does not like transgressors.
 word_by_word:
   1:
-    arabic: وَقَاتِلُوۡا
+    arabic: وَقَٰتِلُواْ
     translation: And fight
     transliteration: waqātilū
   2:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   3:
-    arabic: سَبِيۡلِ
+    arabic: سَبِيلِ
     translation: (the) way
     transliteration: sabīli
   4:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (of) Allah
     transliteration: l-lahi
   5:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   6:
-    arabic: يُقَاتِلُوۡنَكُمۡ
+    arabic: يُقَٰتِلُونَكُمۡ
     translation: fight you
     transliteration: yuqātilūnakum
   7:
@@ -33,15 +33,15 @@ word_by_word:
     translation: and (do) not
     transliteration: walā
   8:
-    arabic: تَعۡتَدُوۡا ؕ
+    arabic: تَعۡتَدُوٓاْۚ
     translation: transgress
     transliteration: taʿtadū
   9:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   10:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   11:
@@ -53,7 +53,7 @@ word_by_word:
     translation: like
     transliteration: yuḥibbu
   13:
-    arabic: الۡمُعۡتَدِيۡنَ‏
+    arabic: ٱلۡمُعۡتَدِينَ
     translation: the transgressors
     transliteration: l-muʿ'tadīna
 ---

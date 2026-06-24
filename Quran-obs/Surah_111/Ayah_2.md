@@ -1,13 +1,13 @@
 ---
-arabic_ayat: مَاۤ اَغۡنٰى عَنۡهُ مَالُهٗ وَمَا كَسَبَؕ‏
+arabic_ayat: مَآ أَغۡنَىٰ عَنۡهُ مَالُهُۥ وَمَا كَسَبَ
 sentence_translation: Neither his wealth nor ˹worldly˺ gains will benefit him.
 word_by_word:
   1:
-    arabic: مَاۤ
+    arabic: مَآ
     translation: Not
     transliteration: mā
   2:
-    arabic: اَغۡنٰى
+    arabic: أَغۡنَىٰ
     translation: (will) avail
     transliteration: aghnā
   3:
@@ -15,7 +15,7 @@ word_by_word:
     translation: him
     transliteration: ʿanhu
   4:
-    arabic: مَالُهٗ
+    arabic: مَالُهُۥ
     translation: his wealth
     transliteration: māluhu
   5:
@@ -23,7 +23,7 @@ word_by_word:
     translation: and what
     transliteration: wamā
   6:
-    arabic: كَسَبَؕ‏
+    arabic: كَسَبَ
     translation: he earned
     transliteration: kasaba
 ---

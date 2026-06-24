@@ -1,10 +1,10 @@
 ---
-arabic_ayat: اِلَّا مَنِ اسۡتَرَقَ السَّمۡعَ فَاَ تۡبَعَهٗ شِهَابٌ مُّبِيۡنٌ‏
+arabic_ayat: إِلَّا مَنِ ٱسۡتَرَقَ ٱلسَّمۡعَ فَأَتۡبَعَهُۥ شِهَابٞ مُّبِينٞ
 sentence_translation: except the one eavesdropping, who is then pursued by a visible
   flare.
 word_by_word:
   1:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: Except
     transliteration: illā
   2:
@@ -12,23 +12,23 @@ word_by_word:
     translation: (one) who
     transliteration: mani
   3:
-    arabic: اسۡتَرَقَ
+    arabic: ٱسۡتَرَقَ
     translation: steals
     transliteration: is'taraqa
   4:
-    arabic: السَّمۡعَ
+    arabic: ٱلسَّمۡعَ
     translation: the hearing
     transliteration: l-samʿa
   5:
-    arabic: فَاَ تۡبَعَهٗ
+    arabic: فَأَتۡبَعَهُۥ
     translation: then follows him
     transliteration: fa-atbaʿahu
   6:
-    arabic: شِهَابٌ
+    arabic: شِهَابٞ
     translation: a burning flame
     transliteration: shihābun
   7:
-    arabic: مُّبِيۡنٌ‏
+    arabic: مُّبِينٞ
     translation: clear
     transliteration: mubīnun
 ---

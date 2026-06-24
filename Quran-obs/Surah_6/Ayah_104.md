@@ -1,6 +1,6 @@
 ---
-arabic_ayat: قَدۡ جَآءَكُمۡ بَصَآٮِٕرُ مِنۡ رَّبِّكُمۡ​ۚ فَمَنۡ اَبۡصَرَ فَلِنَفۡسِهٖ​
-  ۚ وَمَنۡ عَمِىَ فَعَلَيۡهَا​ ؕ وَمَاۤ اَنَا عَلَيۡكُمۡ بِحَفِيۡظٍ‏
+arabic_ayat: قَدۡ جَآءَكُم بَصَآئِرُ مِن رَّبِّكُمۡۖ فَمَنۡ أَبۡصَرَ فَلِنَفۡسِهِۦۖ
+  وَمَنۡ عَمِيَ فَعَلَيۡهَاۚ وَمَآ أَنَا۠ عَلَيۡكُم بِحَفِيظٖ
 sentence_translation: Indeed, there have come to you insights from your Lord. So whoever
   chooses to see, it is for their own good. But whoever chooses to be blind, it is
   to their own loss. And I am not a keeper over you.
@@ -10,19 +10,19 @@ word_by_word:
     translation: Verily
     transliteration: qad
   2:
-    arabic: جَآءَكُمۡ
+    arabic: جَآءَكُم
     translation: has come to you
     transliteration: jāakum
   3:
-    arabic: بَصَآٮِٕرُ
+    arabic: بَصَآئِرُ
     translation: enlightenment
     transliteration: baṣāiru
   4:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   5:
-    arabic: رَّبِّكُمۡ​ۚ
+    arabic: رَّبِّكُمۡۖ
     translation: your Lord
     transliteration: rabbikum
   6:
@@ -30,11 +30,11 @@ word_by_word:
     translation: Then whoever
     transliteration: faman
   7:
-    arabic: اَبۡصَرَ
+    arabic: أَبۡصَرَ
     translation: sees
     transliteration: abṣara
   8:
-    arabic: فَلِنَفۡسِهٖ​ ۚ
+    arabic: فَلِنَفۡسِهِۦۖ
     translation: then (it is) for his soul
     transliteration: falinafsihi
   9:
@@ -42,27 +42,27 @@ word_by_word:
     translation: and whoever
     transliteration: waman
   10:
-    arabic: عَمِىَ
+    arabic: عَمِيَ
     translation: (is) blind
     transliteration: ʿamiya
   11:
-    arabic: فَعَلَيۡهَا​ ؕ
+    arabic: فَعَلَيۡهَاۚ
     translation: then (it is) against himself
     transliteration: faʿalayhā
   12:
-    arabic: وَمَاۤ
+    arabic: وَمَآ
     translation: And not
     transliteration: wamā
   13:
-    arabic: اَنَا
+    arabic: أَنَا۠
     translation: (am) I
     transliteration: anā
   14:
-    arabic: عَلَيۡكُمۡ
+    arabic: عَلَيۡكُم
     translation: over you
     transliteration: ʿalaykum
   15:
-    arabic: بِحَفِيۡظٍ‏
+    arabic: بِحَفِيظٖ
     translation: a guardian
     transliteration: biḥafīẓin
 ---

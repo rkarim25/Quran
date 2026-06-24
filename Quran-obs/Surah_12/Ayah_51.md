@@ -1,8 +1,7 @@
 ---
-arabic_ayat: قَالَ مَا خَطۡبُكُنَّ اِذۡ رَاوَدْتُّنَّ يُوۡسُفَ عَنۡ نَّـفۡسِهٖ​ؕ قُلۡنَ
-  حَاشَ لِلّٰهِ مَا عَلِمۡنَا عَلَيۡهِ مِنۡ سُوۡۤءٍ​ ؕ قَالَتِ امۡرَاَتُ الۡعَزِيۡزِ
-  الۡــٰٔنَ حَصۡحَصَ الۡحَقُّ اَنَا رَاوَدْتُّهٗ عَنۡ نَّـفۡسِهٖ وَاِنَّهٗ لَمِنَ
-  الصّٰدِقِيۡنَ‏
+arabic_ayat: قَالَ مَا خَطۡبُكُنَّ إِذۡ رَٰوَدتُّنَّ يُوسُفَ عَن نَّفۡسِهِۦۚ قُلۡنَ
+  حَٰشَ لِلَّهِ مَا عَلِمۡنَا عَلَيۡهِ مِن سُوٓءٖۚ قَالَتِ ٱمۡرَأَتُ ٱلۡعَزِيزِ ٱلۡـَٰٔنَ
+  حَصۡحَصَ ٱلۡحَقُّ أَنَا۠ رَٰوَدتُّهُۥ عَن نَّفۡسِهِۦ وَإِنَّهُۥ لَمِنَ ٱلصَّٰدِقِينَ
 sentence_translation: The King asked ˹the women˺, “What did you get when you tried
   to seduce Joseph?” They replied, “Allah forbid! We know nothing indecent about him.”
   Then the Chief Minister’s wife admitted, “Now the truth has come to light. It was
@@ -21,23 +20,23 @@ word_by_word:
     translation: (was) your affair
     transliteration: khaṭbukunna
   4:
-    arabic: اِذۡ
+    arabic: إِذۡ
     translation: when
     transliteration: idh
   5:
-    arabic: رَاوَدْتُّنَّ
+    arabic: رَٰوَدتُّنَّ
     translation: you sought to seduce
     transliteration: rāwadttunna
   6:
-    arabic: يُوۡسُفَ
+    arabic: يُوسُفَ
     translation: Yusuf
     transliteration: yūsufa
   7:
-    arabic: عَنۡ
+    arabic: عَن
     translation: from
     transliteration: ʿan
   8:
-    arabic: نَّـفۡسِهٖ​ؕ
+    arabic: نَّفۡسِهِۦۚ
     translation: himself
     transliteration: nafsihi
   9:
@@ -45,11 +44,11 @@ word_by_word:
     translation: They said
     transliteration: qul'na
   10:
-    arabic: حَاشَ
+    arabic: حَٰشَ
     translation: Allah forbid
     transliteration: ḥāsha
   11:
-    arabic: لِلّٰهِ
+    arabic: لِلَّهِ
     translation: Allah forbid
     transliteration: lillahi
   12:
@@ -65,11 +64,11 @@ word_by_word:
     translation: about him
     transliteration: ʿalayhi
   15:
-    arabic: مِنۡ
+    arabic: مِن
     translation: any
     transliteration: min
   16:
-    arabic: سُوۡۤءٍ​ ؕ
+    arabic: سُوٓءٖۚ
     translation: evil
     transliteration: sūin
   17:
@@ -77,15 +76,15 @@ word_by_word:
     translation: Said
     transliteration: qālati
   18:
-    arabic: امۡرَاَتُ
+    arabic: ٱمۡرَأَتُ
     translation: (the) wife
     transliteration: im'ra-atu
   19:
-    arabic: الۡعَزِيۡزِ
+    arabic: ٱلۡعَزِيزِ
     translation: (of) Aziz
     transliteration: l-ʿazīzi
   20:
-    arabic: الۡــٰٔنَ
+    arabic: ٱلۡـَٰٔنَ
     translation: Now
     transliteration: l-āna
   21:
@@ -93,27 +92,27 @@ word_by_word:
     translation: (is) manifest
     transliteration: ḥaṣḥaṣa
   22:
-    arabic: الۡحَقُّ
+    arabic: ٱلۡحَقُّ
     translation: the truth
     transliteration: l-ḥaqu
   23:
-    arabic: اَنَا
+    arabic: أَنَا۠
     translation: I
     transliteration: anā
   24:
-    arabic: رَاوَدْتُّهٗ
+    arabic: رَٰوَدتُّهُۥ
     translation: sought to seduce him
     transliteration: rāwadttuhu
   25:
-    arabic: عَنۡ
+    arabic: عَن
     translation: from
     transliteration: ʿan
   26:
-    arabic: نَّـفۡسِهٖ
+    arabic: نَّفۡسِهِۦ
     translation: himself
     transliteration: nafsihi
   27:
-    arabic: وَاِنَّهٗ
+    arabic: وَإِنَّهُۥ
     translation: and indeed, he
     transliteration: wa-innahu
   28:
@@ -121,7 +120,7 @@ word_by_word:
     translation: (is) surely of
     transliteration: lamina
   29:
-    arabic: الصّٰدِقِيۡنَ‏
+    arabic: ٱلصَّٰدِقِينَ
     translation: the truthful
     transliteration: l-ṣādiqīna
 ---

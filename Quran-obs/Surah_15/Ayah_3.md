@@ -1,6 +1,6 @@
 ---
-arabic_ayat: "ذَرۡهُمۡ يَاۡكُلُوۡا وَيَتَمَتَّعُوۡا وَيُلۡهِهِمُ الۡاَمَلُ​ فَسَوۡفَ\
-  \ يَعۡلَمُوۡنَ‏ \uFEFF\uFEFF"
+arabic_ayat: ذَرۡهُمۡ يَأۡكُلُواْ وَيَتَمَتَّعُواْ وَيُلۡهِهِمُ ٱلۡأَمَلُۖ فَسَوۡفَ
+  يَعۡلَمُونَ
 sentence_translation: ˹So˺ let them eat and enjoy themselves and be diverted by ˹false˺
   hope, for they will soon know.
 word_by_word:
@@ -9,11 +9,11 @@ word_by_word:
     translation: Leave them
     transliteration: dharhum
   2:
-    arabic: يَاۡكُلُوۡا
+    arabic: يَأۡكُلُواْ
     translation: (to) eat
     transliteration: yakulū
   3:
-    arabic: وَيَتَمَتَّعُوۡا
+    arabic: وَيَتَمَتَّعُواْ
     translation: and enjoy
     transliteration: wayatamattaʿū
   4:
@@ -21,7 +21,7 @@ word_by_word:
     translation: and diverted them
     transliteration: wayul'hihimu
   5:
-    arabic: الۡاَمَلُ​
+    arabic: ٱلۡأَمَلُۖ
     translation: the hope
     transliteration: l-amalu
   6:
@@ -29,7 +29,7 @@ word_by_word:
     translation: then soon
     transliteration: fasawfa
   7:
-    arabic: "يَعۡلَمُوۡنَ‏ \uFEFF\uFEFF"
+    arabic: يَعۡلَمُونَ
     translation: they will come to know
     transliteration: yaʿlamūna
 ---

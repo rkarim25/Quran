@@ -1,6 +1,6 @@
 ---
-arabic_ayat: قُلۡ اَرَءَيۡتُمۡ اِنۡ اَصۡبَحَ مَآؤُكُمۡ غَوۡرًا فَمَنۡ يَّاۡتِيۡكُمۡ
-  بِمَآءٍ مَّعِيۡنٍ‏
+arabic_ayat: قُلۡ أَرَءَيۡتُمۡ إِنۡ أَصۡبَحَ مَآؤُكُمۡ غَوۡرٗا فَمَن يَأۡتِيكُم بِمَآءٖ
+  مَّعِينِۭ
 sentence_translation: 'Say, “Consider this: if your water were to sink ˹into the earth˺,
   then who ˹else˺ could bring you flowing water?”'
 word_by_word:
@@ -9,15 +9,15 @@ word_by_word:
     translation: Say
     transliteration: qul
   2:
-    arabic: اَرَءَيۡتُمۡ
+    arabic: أَرَءَيۡتُمۡ
     translation: Have you seen
     transliteration: ara-aytum
   3:
-    arabic: اِنۡ
+    arabic: إِنۡ
     translation: if
     transliteration: in
   4:
-    arabic: اَصۡبَحَ
+    arabic: أَصۡبَحَ
     translation: becomes
     transliteration: aṣbaḥa
   5:
@@ -25,23 +25,23 @@ word_by_word:
     translation: your water
     transliteration: māukum
   6:
-    arabic: غَوۡرًا
+    arabic: غَوۡرٗا
     translation: sunken
     transliteration: ghawran
   7:
-    arabic: فَمَنۡ
+    arabic: فَمَن
     translation: then who
     transliteration: faman
   8:
-    arabic: يَّاۡتِيۡكُمۡ
+    arabic: يَأۡتِيكُم
     translation: could bring you
     transliteration: yatīkum
   9:
-    arabic: بِمَآءٍ
+    arabic: بِمَآءٖ
     translation: water
     transliteration: bimāin
   10:
-    arabic: مَّعِيۡنٍ‏
+    arabic: مَّعِينِۭ
     translation: flowing
     transliteration: maʿīnin
 ---

@@ -1,6 +1,6 @@
 ---
-arabic_ayat: وَهُوَ الَّذِىۡ يُنَزِّلُ الۡغَيۡثَ مِنۡۢ بَعۡدِ مَا قَنَطُوۡا وَيَنۡشُرُ
-  رَحۡمَتَهٗ​ ؕ وَهُوَ الۡوَلِىُّ الۡحَمِيۡدُ‏
+arabic_ayat: وَهُوَ ٱلَّذِي يُنَزِّلُ ٱلۡغَيۡثَ مِنۢ بَعۡدِ مَا قَنَطُواْ وَيَنشُرُ
+  رَحۡمَتَهُۥۚ وَهُوَ ٱلۡوَلِيُّ ٱلۡحَمِيدُ
 sentence_translation: He is the One Who sends down rain after people have given up
   hope, spreading out His mercy. He is the Guardian, the Praiseworthy.
 word_by_word:
@@ -9,7 +9,7 @@ word_by_word:
     translation: And He
     transliteration: wahuwa
   2:
-    arabic: الَّذِىۡ
+    arabic: ٱلَّذِي
     translation: (is) the One Who
     transliteration: alladhī
   3:
@@ -17,11 +17,11 @@ word_by_word:
     translation: sends down
     transliteration: yunazzilu
   4:
-    arabic: الۡغَيۡثَ
+    arabic: ٱلۡغَيۡثَ
     translation: the rain
     transliteration: l-ghaytha
   5:
-    arabic: مِنۡۢ
+    arabic: مِنۢ
     translation: after
     transliteration: min
   6:
@@ -33,15 +33,15 @@ word_by_word:
     translation: '[what]'
     transliteration: mā
   8:
-    arabic: قَنَطُوۡا
+    arabic: قَنَطُواْ
     translation: they have despaired
     transliteration: qanaṭū
   9:
-    arabic: وَيَنۡشُرُ
+    arabic: وَيَنشُرُ
     translation: and spreads
     transliteration: wayanshuru
   10:
-    arabic: رَحۡمَتَهٗ​ ؕ
+    arabic: رَحۡمَتَهُۥۚ
     translation: His mercy
     transliteration: raḥmatahu
   11:
@@ -49,11 +49,11 @@ word_by_word:
     translation: And He
     transliteration: wahuwa
   12:
-    arabic: الۡوَلِىُّ
+    arabic: ٱلۡوَلِيُّ
     translation: (is) the Protector
     transliteration: l-waliyu
   13:
-    arabic: الۡحَمِيۡدُ‏
+    arabic: ٱلۡحَمِيدُ
     translation: the Praiseworthy
     transliteration: l-ḥamīdu
 ---

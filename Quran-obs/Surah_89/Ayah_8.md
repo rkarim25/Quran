@@ -1,9 +1,9 @@
 ---
-arabic_ayat: الَّتِىۡ لَمۡ يُخۡلَقۡ مِثۡلُهَا فِى الۡبِلَادِۙ‏
+arabic_ayat: ٱلَّتِي لَمۡ يُخۡلَقۡ مِثۡلُهَا فِي ٱلۡبِلَٰدِ
 sentence_translation: unmatched in any other land;
 word_by_word:
   1:
-    arabic: الَّتِىۡ
+    arabic: ٱلَّتِي
     translation: Which
     transliteration: allatī
   2:
@@ -19,11 +19,11 @@ word_by_word:
     translation: like them
     transliteration: mith'luhā
   5:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   6:
-    arabic: الۡبِلَادِۙ‏
+    arabic: ٱلۡبِلَٰدِ
     translation: the cities
     transliteration: l-bilādi
 ---

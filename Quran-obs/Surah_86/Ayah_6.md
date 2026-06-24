@@ -1,5 +1,5 @@
 ---
-arabic_ayat: خُلِقَ مِنۡ مَّآءٍ دَافِقٍۙ‏
+arabic_ayat: خُلِقَ مِن مَّآءٖ دَافِقٖ
 sentence_translation: ˹They were˺ created from a spurting fluid,
 word_by_word:
   1:
@@ -7,15 +7,15 @@ word_by_word:
     translation: He is created
     transliteration: khuliqa
   2:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   3:
-    arabic: مَّآءٍ
+    arabic: مَّآءٖ
     translation: a water
     transliteration: māin
   4:
-    arabic: دَافِقٍۙ‏
+    arabic: دَافِقٖ
     translation: ejected
     transliteration: dāfiqin
 ---

@@ -1,5 +1,5 @@
 ---
-arabic_ayat: قُلۡ يٰۤاَيُّهَا الۡكٰفِرُوۡنَۙ‏
+arabic_ayat: قُلۡ يَٰٓأَيُّهَا ٱلۡكَٰفِرُونَ
 sentence_translation: Say, ˹O Prophet,˺ “O you disbelievers!
 word_by_word:
   1:
@@ -7,11 +7,11 @@ word_by_word:
     translation: Say
     transliteration: qul
   2:
-    arabic: يٰۤاَيُّهَا
+    arabic: يَٰٓأَيُّهَا
     translation: O
     transliteration: yāayyuhā
   3:
-    arabic: الۡكٰفِرُوۡنَۙ‏
+    arabic: ٱلۡكَٰفِرُونَ
     translation: disbelievers
     transliteration: l-kāfirūna
 ---

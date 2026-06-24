@@ -1,15 +1,15 @@
 ---
-arabic_ayat: وَالَّذِيۡنَ يَقُوۡلُوۡنَ رَبَّنَا اصۡرِفۡ عَنَّا عَذَابَ جَهَـنَّمَ
-  ​ۖ  اِنَّ عَذَابَهَا كَانَ غَرَامًا ​ۖ ‏
+arabic_ayat: وَٱلَّذِينَ يَقُولُونَ رَبَّنَا ٱصۡرِفۡ عَنَّا عَذَابَ جَهَنَّمَۖ إِنَّ
+  عَذَابَهَا كَانَ غَرَامًا
 sentence_translation: ˹They are˺ those who pray, “Our Lord! Keep the punishment of
   Hell away from us, for its punishment is indeed unrelenting.
 word_by_word:
   1:
-    arabic: وَالَّذِيۡنَ
+    arabic: وَٱلَّذِينَ
     translation: And those who
     transliteration: wa-alladhīna
   2:
-    arabic: يَقُوۡلُوۡنَ
+    arabic: يَقُولُونَ
     translation: say
     transliteration: yaqūlūna
   3:
@@ -17,7 +17,7 @@ word_by_word:
     translation: Our Lord
     transliteration: rabbanā
   4:
-    arabic: اصۡرِفۡ
+    arabic: ٱصۡرِفۡ
     translation: Avert
     transliteration: iṣ'rif
   5:
@@ -29,11 +29,11 @@ word_by_word:
     translation: the punishment
     transliteration: ʿadhāba
   7:
-    arabic: جَهَـنَّمَ ​ۖ 
+    arabic: جَهَنَّمَۖ
     translation: (of) Hell
     transliteration: jahannama
   8:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   9:
@@ -45,7 +45,7 @@ word_by_word:
     translation: is
     transliteration: kāna
   11:
-    arabic: غَرَامًا ​ۖ ‏
+    arabic: غَرَامًا
     translation: inseparable
     transliteration: gharāman
 ---

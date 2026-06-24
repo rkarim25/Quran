@@ -1,15 +1,14 @@
 ---
-arabic_ayat: "كَذَّبُوۡا بِاٰيٰتِنَا كُلِّهَا فَاَخَذۡنٰهُمۡ اَخۡذَ عَزِيۡزٍ مُّقۡتَدِرٍ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: كَذَّبُواْ بِـَٔايَٰتِنَا كُلِّهَا فَأَخَذۡنَٰهُمۡ أَخۡذَ عَزِيزٖ مُّقۡتَدِرٍ
 sentence_translation: ˹But˺ they rejected all of Our signs, so We seized them with
   the ˹crushing˺ grip of the Almighty, Most Powerful.
 word_by_word:
   1:
-    arabic: كَذَّبُوۡا
+    arabic: كَذَّبُواْ
     translation: They denied
     transliteration: kadhabū
   2:
-    arabic: بِاٰيٰتِنَا
+    arabic: بِـَٔايَٰتِنَا
     translation: Our Signs
     transliteration: biāyātinā
   3:
@@ -17,19 +16,19 @@ word_by_word:
     translation: all of them
     transliteration: kullihā
   4:
-    arabic: فَاَخَذۡنٰهُمۡ
+    arabic: فَأَخَذۡنَٰهُمۡ
     translation: so We seized them
     transliteration: fa-akhadhnāhum
   5:
-    arabic: اَخۡذَ
+    arabic: أَخۡذَ
     translation: (with) a seizure
     transliteration: akhdha
   6:
-    arabic: عَزِيۡزٍ
+    arabic: عَزِيزٖ
     translation: (of) All-Mighty
     transliteration: ʿazīzin
   7:
-    arabic: "مُّقۡتَدِرٍ‏ \uFEFF\uFEFF"
+    arabic: مُّقۡتَدِرٍ
     translation: (the) Powerful One
     transliteration: muq'tadirin
 ---

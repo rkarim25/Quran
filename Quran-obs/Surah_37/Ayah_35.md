@@ -1,23 +1,22 @@
 ---
-arabic_ayat: "اِنَّهُمۡ كَانُوۡۤا اِذَا قِيۡلَ لَهُمۡ لَاۤ اِلٰهَ اِلَّا اللّٰهُۙ\
-  \ يَسۡتَكۡبِرُوۡنَۙ‏ \uFEFF\uFEFF"
+arabic_ayat: إِنَّهُمۡ كَانُوٓاْ إِذَا قِيلَ لَهُمۡ لَآ إِلَٰهَ إِلَّا ٱللَّهُ يَسۡتَكۡبِرُونَ
 sentence_translation: For whenever it was said to them ˹in the world˺, “There is no
   god ˹worthy of worship˺ except Allah,” they acted arrogantly
 word_by_word:
   1:
-    arabic: اِنَّهُمۡ
+    arabic: إِنَّهُمۡ
     translation: Indeed, they
     transliteration: innahum
   2:
-    arabic: كَانُوۡۤا
+    arabic: كَانُوٓاْ
     translation: were
     transliteration: kānū
   3:
-    arabic: اِذَا
+    arabic: إِذَا
     translation: when
     transliteration: idhā
   4:
-    arabic: قِيۡلَ
+    arabic: قِيلَ
     translation: it was said
     transliteration: qīla
   5:
@@ -25,23 +24,23 @@ word_by_word:
     translation: to them
     transliteration: lahum
   6:
-    arabic: لَاۤ
+    arabic: لَآ
     translation: (There is) no
     transliteration: lā
   7:
-    arabic: اِلٰهَ
+    arabic: إِلَٰهَ
     translation: god
     transliteration: ilāha
   8:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   9:
-    arabic: اللّٰهُۙ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   10:
-    arabic: "يَسۡتَكۡبِرُوۡنَۙ‏ \uFEFF\uFEFF"
+    arabic: يَسۡتَكۡبِرُونَ
     translation: were arrogant
     transliteration: yastakbirūna
 ---

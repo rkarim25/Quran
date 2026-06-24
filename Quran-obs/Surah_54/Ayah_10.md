@@ -1,5 +1,5 @@
 ---
-arabic_ayat: فَدَعَا رَبَّهٗۤ اَنِّىۡ مَغۡلُوۡبٌ فَانْـتَصِرۡ‏
+arabic_ayat: فَدَعَا رَبَّهُۥٓ أَنِّي مَغۡلُوبٞ فَٱنتَصِرۡ
 sentence_translation: So he cried out to his Lord, “I am helpless, so help ˹me˺!”
 word_by_word:
   1:
@@ -7,19 +7,19 @@ word_by_word:
     translation: So he called
     transliteration: fadaʿā
   2:
-    arabic: رَبَّهٗۤ
+    arabic: رَبَّهُۥٓ
     translation: his Lord
     transliteration: rabbahu
   3:
-    arabic: اَنِّىۡ
+    arabic: أَنِّي
     translation: I am
     transliteration: annī
   4:
-    arabic: مَغۡلُوۡبٌ
+    arabic: مَغۡلُوبٞ
     translation: one overpowered
     transliteration: maghlūbun
   5:
-    arabic: فَانْـتَصِرۡ‏
+    arabic: فَٱنتَصِرۡ
     translation: so help
     transliteration: fa-intaṣir
 ---

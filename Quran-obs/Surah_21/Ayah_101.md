@@ -1,15 +1,15 @@
 ---
-arabic_ayat: اِنَّ الَّذِيۡنَ سَبَقَتۡ لَهُمۡ مِّنَّا الۡحُسۡنٰٓىۙ اُولٰٓٮِٕكَ عَنۡهَا
-  مُبۡعَدُوۡنَۙ‏
+arabic_ayat: إِنَّ ٱلَّذِينَ سَبَقَتۡ لَهُم مِّنَّا ٱلۡحُسۡنَىٰٓ أُوْلَٰٓئِكَ عَنۡهَا
+  مُبۡعَدُونَ
 sentence_translation: Surely those for whom We have destined the finest reward will
   be kept far away from Hell,
 word_by_word:
   1:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those
     transliteration: alladhīna
   3:
@@ -17,7 +17,7 @@ word_by_word:
     translation: has gone forth
     transliteration: sabaqat
   4:
-    arabic: لَهُمۡ
+    arabic: لَهُم
     translation: for them
     transliteration: lahum
   5:
@@ -25,11 +25,11 @@ word_by_word:
     translation: from Us
     transliteration: minnā
   6:
-    arabic: الۡحُسۡنٰٓىۙ
+    arabic: ٱلۡحُسۡنَىٰٓ
     translation: the good
     transliteration: l-ḥus'nā
   7:
-    arabic: اُولٰٓٮِٕكَ
+    arabic: أُوْلَٰٓئِكَ
     translation: those
     transliteration: ulāika
   8:
@@ -37,7 +37,7 @@ word_by_word:
     translation: from it
     transliteration: ʿanhā
   9:
-    arabic: مُبۡعَدُوۡنَۙ‏
+    arabic: مُبۡعَدُونَ
     translation: (will be) removed far
     transliteration: mub'ʿadūna
 ---

@@ -1,9 +1,8 @@
 ---
-arabic_ayat: وَ مَا لَـكُمۡ اَلَّا تُنۡفِقُوۡا فِىۡ سَبِيۡلِ اللّٰهِ وَلِلّٰهِ مِيۡـرَاثُ
-  السَّمٰوٰتِ وَ الۡاَرۡضِ​ؕ لَا يَسۡتَوِىۡ مِنۡكُمۡ مَّنۡ اَنۡفَقَ مِنۡ قَبۡلِ الۡفَتۡحِ
-  وَقَاتَلَ​ ؕ اُولٰٓٮِٕكَ اَعۡظَمُ دَرَجَةً مِّنَ الَّذِيۡنَ اَنۡفَقُوۡا مِنۡۢ بَعۡدُ
-  وَقَاتَلُوۡا​ ؕ وَكُلًّا وَّعَدَ اللّٰهُ الۡحُسۡنٰى​ؕ وَاللّٰهُ بِمَا تَعۡمَلُوۡنَ
-  خَبِيۡرٌ‏
+arabic_ayat: وَمَا لَكُمۡ أَلَّا تُنفِقُواْ فِي سَبِيلِ ٱللَّهِ وَلِلَّهِ مِيرَٰثُ
+  ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِۚ لَا يَسۡتَوِي مِنكُم مَّنۡ أَنفَقَ مِن قَبۡلِ ٱلۡفَتۡحِ
+  وَقَٰتَلَۚ أُوْلَٰٓئِكَ أَعۡظَمُ دَرَجَةٗ مِّنَ ٱلَّذِينَ أَنفَقُواْ مِنۢ بَعۡدُ
+  وَقَٰتَلُواْۚ وَكُلّٗا وَعَدَ ٱللَّهُ ٱلۡحُسۡنَىٰۚ وَٱللَّهُ بِمَا تَعۡمَلُونَ خَبِيرٞ
 sentence_translation: And why should you not spend in the cause of Allah, while Allah
   is the ˹sole˺ inheritor of the heavens and the earth? Those of you who donated and
   fought before the victory ˹over Mecca˺ are unparalleled. They are far greater in
@@ -11,47 +10,47 @@ sentence_translation: And why should you not spend in the cause of Allah, while 
   fine reward. And Allah is All-Aware of what you do.
 word_by_word:
   1:
-    arabic: وَ مَا
+    arabic: وَمَا
     translation: And what
     transliteration: wamā
   2:
-    arabic: لَـكُمۡ
+    arabic: لَكُمۡ
     translation: (is) for you
     transliteration: lakum
   3:
-    arabic: اَلَّا
+    arabic: أَلَّا
     translation: that not
     transliteration: allā
   4:
-    arabic: تُنۡفِقُوۡا
+    arabic: تُنفِقُواْ
     translation: you spend
     transliteration: tunfiqū
   5:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   6:
-    arabic: سَبِيۡلِ
+    arabic: سَبِيلِ
     translation: (the) way
     transliteration: sabīli
   7:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (of) Allah
     transliteration: l-lahi
   8:
-    arabic: وَلِلّٰهِ
+    arabic: وَلِلَّهِ
     translation: while for Allah
     transliteration: walillahi
   9:
-    arabic: مِيۡـرَاثُ
+    arabic: مِيرَٰثُ
     translation: (is the) heritage
     transliteration: mīrāthu
   10:
-    arabic: السَّمٰوٰتِ
+    arabic: ٱلسَّمَٰوَٰتِ
     translation: (of) the heavens
     transliteration: l-samāwāti
   11:
-    arabic: وَ الۡاَرۡضِ​ؕ
+    arabic: وَٱلۡأَرۡضِۚ
     translation: and the earth
     transliteration: wal-arḍi
   12:
@@ -59,11 +58,11 @@ word_by_word:
     translation: Not
     transliteration: lā
   13:
-    arabic: يَسۡتَوِىۡ
+    arabic: يَسۡتَوِي
     translation: are equal
     transliteration: yastawī
   14:
-    arabic: مِنۡكُمۡ
+    arabic: مِنكُم
     translation: among you
     transliteration: minkum
   15:
@@ -71,11 +70,11 @@ word_by_word:
     translation: (those) who
     transliteration: man
   16:
-    arabic: اَنۡفَقَ
+    arabic: أَنفَقَ
     translation: spent
     transliteration: anfaqa
   17:
-    arabic: مِنۡ
+    arabic: مِن
     translation: before
     transliteration: min
   18:
@@ -83,23 +82,23 @@ word_by_word:
     translation: before
     transliteration: qabli
   19:
-    arabic: الۡفَتۡحِ
+    arabic: ٱلۡفَتۡحِ
     translation: the victory
     transliteration: l-fatḥi
   20:
-    arabic: وَقَاتَلَ​ ؕ
+    arabic: وَقَٰتَلَۚ
     translation: and fought
     transliteration: waqātala
   21:
-    arabic: اُولٰٓٮِٕكَ
+    arabic: أُوْلَٰٓئِكَ
     translation: Those
     transliteration: ulāika
   22:
-    arabic: اَعۡظَمُ
+    arabic: أَعۡظَمُ
     translation: (are) greater
     transliteration: aʿẓamu
   23:
-    arabic: دَرَجَةً
+    arabic: دَرَجَةٗ
     translation: (in) degree
     transliteration: darajatan
   24:
@@ -107,15 +106,15 @@ word_by_word:
     translation: than
     transliteration: mina
   25:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   26:
-    arabic: اَنۡفَقُوۡا
+    arabic: أَنفَقُواْ
     translation: spent
     transliteration: anfaqū
   27:
-    arabic: مِنۡۢ
+    arabic: مِنۢ
     translation: afterwards
     transliteration: min
   28:
@@ -123,27 +122,27 @@ word_by_word:
     translation: afterwards
     transliteration: baʿdu
   29:
-    arabic: وَقَاتَلُوۡا​ ؕ
+    arabic: وَقَٰتَلُواْۚ
     translation: and fought
     transliteration: waqātalū
   30:
-    arabic: وَكُلًّا
+    arabic: وَكُلّٗا
     translation: But to all
     transliteration: wakullan
   31:
-    arabic: وَّعَدَ
+    arabic: وَعَدَ
     translation: Allah has promised
     transliteration: waʿada
   32:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah has promised
     transliteration: l-lahu
   33:
-    arabic: الۡحُسۡنٰى​ؕ
+    arabic: ٱلۡحُسۡنَىٰۚ
     translation: the best
     transliteration: l-ḥus'nā
   34:
-    arabic: وَاللّٰهُ
+    arabic: وَٱللَّهُ
     translation: And Allah
     transliteration: wal-lahu
   35:
@@ -151,11 +150,11 @@ word_by_word:
     translation: of what
     transliteration: bimā
   36:
-    arabic: تَعۡمَلُوۡنَ
+    arabic: تَعۡمَلُونَ
     translation: you do
     transliteration: taʿmalūna
   37:
-    arabic: خَبِيۡرٌ‏
+    arabic: خَبِيرٞ
     translation: (is) All-Aware
     transliteration: khabīrun
 ---

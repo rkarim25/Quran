@@ -1,14 +1,14 @@
 ---
-arabic_ayat: اَوَمَنۡ كَانَ مَيۡتًا فَاَحۡيَيۡنٰهُ وَجَعَلۡنَا لَهٗ نُوۡرًا يَّمۡشِىۡ
-  بِهٖ فِى النَّاسِ كَمَنۡ مَّثَلُهٗ فِى الظُّلُمٰتِ لَـيۡسَ بِخَارِجٍ مِّنۡهَا​ ؕ
-  كَذٰلِكَ زُيِّنَ لِلۡكٰفِرِيۡنَ مَا كَانُوۡا يَعۡمَلُوۡنَ‏
+arabic_ayat: أَوَمَن كَانَ مَيۡتٗا فَأَحۡيَيۡنَٰهُ وَجَعَلۡنَا لَهُۥ نُورٗا يَمۡشِي
+  بِهِۦ فِي ٱلنَّاسِ كَمَن مَّثَلُهُۥ فِي ٱلظُّلُمَٰتِ لَيۡسَ بِخَارِجٖ مِّنۡهَاۚ
+  كَذَٰلِكَ زُيِّنَ لِلۡكَٰفِرِينَ مَا كَانُواْ يَعۡمَلُونَ
 sentence_translation: Can those who had been dead, to whom We gave life and a light
   with which they can walk among people, be compared to those in complete darkness
   from which they can never emerge? That is how the misdeeds of the disbelievers have
   been made appealing to them.
 word_by_word:
   1:
-    arabic: اَوَمَنۡ
+    arabic: أَوَمَن
     translation: Is (one) who
     transliteration: awaman
   2:
@@ -16,11 +16,11 @@ word_by_word:
     translation: was
     transliteration: kāna
   3:
-    arabic: مَيۡتًا
+    arabic: مَيۡتٗا
     translation: dead
     transliteration: maytan
   4:
-    arabic: فَاَحۡيَيۡنٰهُ
+    arabic: فَأَحۡيَيۡنَٰهُ
     translation: and We gave him life
     transliteration: fa-aḥyaynāhu
   5:
@@ -28,59 +28,59 @@ word_by_word:
     translation: and We made
     transliteration: wajaʿalnā
   6:
-    arabic: لَهٗ
+    arabic: لَهُۥ
     translation: for him
     transliteration: lahu
   7:
-    arabic: نُوۡرًا
+    arabic: نُورٗا
     translation: light
     transliteration: nūran
   8:
-    arabic: يَّمۡشِىۡ
+    arabic: يَمۡشِي
     translation: he walks
     transliteration: yamshī
   9:
-    arabic: بِهٖ
+    arabic: بِهِۦ
     translation: whereby
     transliteration: bihi
   10:
-    arabic: فِى
+    arabic: فِي
     translation: among
     transliteration: fī
   11:
-    arabic: النَّاسِ
+    arabic: ٱلنَّاسِ
     translation: the people
     transliteration: l-nāsi
   12:
-    arabic: كَمَنۡ
+    arabic: كَمَن
     translation: like (one) who
     transliteration: kaman
   13:
-    arabic: مَّثَلُهٗ
+    arabic: مَّثَلُهُۥ
     translation: '[similar to him]'
     transliteration: mathaluhu
   14:
-    arabic: فِى
+    arabic: فِي
     translation: (is) in
     transliteration: fī
   15:
-    arabic: الظُّلُمٰتِ
+    arabic: ٱلظُّلُمَٰتِ
     translation: the darknesses
     transliteration: l-ẓulumāti
   16:
-    arabic: لَـيۡسَ
+    arabic: لَيۡسَ
     translation: not
     transliteration: laysa
   17:
-    arabic: بِخَارِجٍ
+    arabic: بِخَارِجٖ
     translation: he comes out
     transliteration: bikhārijin
   18:
-    arabic: مِّنۡهَا​ ؕ
+    arabic: مِّنۡهَاۚ
     translation: of it
     transliteration: min'hā
   19:
-    arabic: كَذٰلِكَ
+    arabic: كَذَٰلِكَ
     translation: Thus
     transliteration: kadhālika
   20:
@@ -88,7 +88,7 @@ word_by_word:
     translation: is made fair-seeming
     transliteration: zuyyina
   21:
-    arabic: لِلۡكٰفِرِيۡنَ
+    arabic: لِلۡكَٰفِرِينَ
     translation: to the disbelievers
     transliteration: lil'kāfirīna
   22:
@@ -96,11 +96,11 @@ word_by_word:
     translation: what
     transliteration: mā
   23:
-    arabic: كَانُوۡا
+    arabic: كَانُواْ
     translation: they were
     transliteration: kānū
   24:
-    arabic: يَعۡمَلُوۡنَ‏
+    arabic: يَعۡمَلُونَ
     translation: doing
     transliteration: yaʿmalūna
 ---

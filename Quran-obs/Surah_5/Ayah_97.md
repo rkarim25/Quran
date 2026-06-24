@@ -1,8 +1,8 @@
 ---
-arabic_ayat: جَعَلَ اللّٰهُ الۡـكَعۡبَةَ الۡبَيۡتَ الۡحَـرَامَ قِيٰمًا لِّـلنَّاسِ
-  وَالشَّهۡرَ الۡحَـرَامَ وَالۡهَدۡىَ وَالۡقَلَاۤٮِٕدَ​ ؕ ذٰ لِكَ لِتَعۡلَمُوۡۤا اَنَّ
-  اللّٰهَ يَعۡلَمُ مَا فِى السَّمٰوٰتِ وَمَا فِى الۡاَرۡضِ وَاَنَّ اللّٰهَ بِكُلِّ
-  شَىۡءٍ عَلِيۡمٌ‏
+arabic_ayat: ۞ جَعَلَ ٱللَّهُ ٱلۡكَعۡبَةَ ٱلۡبَيۡتَ ٱلۡحَرَامَ قِيَٰمٗا لِّلنَّاسِ
+  وَٱلشَّهۡرَ ٱلۡحَرَامَ وَٱلۡهَدۡيَ وَٱلۡقَلَٰٓئِدَۚ ذَٰلِكَ لِتَعۡلَمُوٓاْ أَنَّ
+  ٱللَّهَ يَعۡلَمُ مَا فِي ٱلسَّمَٰوَٰتِ وَمَا فِي ٱلۡأَرۡضِ وَأَنَّ ٱللَّهَ بِكُلِّ
+  شَيۡءٍ عَلِيمٌ
 sentence_translation: Allah has made the Ka’bah—the Sacred House—a sanctuary of well-being
   for all people, along with the sacred months, the sacrificial animals, and the ˹offerings
   decorated with˺ garlands. All this so you may know that Allah knows whatever is
@@ -10,63 +10,63 @@ sentence_translation: Allah has made the Ka’bah—the Sacred House—a sanctua
   of everything.
 word_by_word:
   1:
-    arabic: ۞ جَعَلَ
+    arabic: ۞ جَعَلَ
     translation: Has (been) made
     transliteration: jaʿala
   2:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: (by) Allah
     transliteration: l-lahu
   3:
-    arabic: الۡـكَعۡبَةَ
+    arabic: ٱلۡكَعۡبَةَ
     translation: the Kabah
     transliteration: l-kaʿbata
   4:
-    arabic: الۡبَيۡتَ
+    arabic: ٱلۡبَيۡتَ
     translation: the House
     transliteration: l-bayta
   5:
-    arabic: الۡحَـرَامَ
+    arabic: ٱلۡحَرَامَ
     translation: the Sacred
     transliteration: l-ḥarāma
   6:
-    arabic: قِيٰمًا
+    arabic: قِيَٰمٗا
     translation: an establishment
     transliteration: qiyāman
   7:
-    arabic: لِّـلنَّاسِ
+    arabic: لِّلنَّاسِ
     translation: for mankind
     transliteration: lilnnāsi
   8:
-    arabic: وَالشَّهۡرَ
+    arabic: وَٱلشَّهۡرَ
     translation: and the month(s)
     transliteration: wal-shahra
   9:
-    arabic: الۡحَـرَامَ
+    arabic: ٱلۡحَرَامَ
     translation: '[the] sacred'
     transliteration: l-ḥarāma
   10:
-    arabic: وَالۡهَدۡىَ
+    arabic: وَٱلۡهَدۡيَ
     translation: and the (animals) for offering
     transliteration: wal-hadya
   11:
-    arabic: وَالۡقَلَاۤٮِٕدَ​ ؕ
+    arabic: وَٱلۡقَلَٰٓئِدَۚ
     translation: and the garlands
     transliteration: wal-qalāida
   12:
-    arabic: ذٰ لِكَ
+    arabic: ذَٰلِكَ
     translation: That (is)
     transliteration: dhālika
   13:
-    arabic: لِتَعۡلَمُوۡۤا
+    arabic: لِتَعۡلَمُوٓاْ
     translation: so that you may know
     transliteration: litaʿlamū
   14:
-    arabic: اَنَّ
+    arabic: أَنَّ
     translation: that
     transliteration: anna
   15:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   16:
@@ -78,11 +78,11 @@ word_by_word:
     translation: what
     transliteration: mā
   18:
-    arabic: فِى
+    arabic: فِي
     translation: (is) in
     transliteration: fī
   19:
-    arabic: السَّمٰوٰتِ
+    arabic: ٱلسَّمَٰوَٰتِ
     translation: the heavens
     transliteration: l-samāwāti
   20:
@@ -90,19 +90,19 @@ word_by_word:
     translation: and what
     transliteration: wamā
   21:
-    arabic: فِى
+    arabic: فِي
     translation: (is) in
     transliteration: fī
   22:
-    arabic: الۡاَرۡضِ
+    arabic: ٱلۡأَرۡضِ
     translation: the earth
     transliteration: l-arḍi
   23:
-    arabic: وَاَنَّ
+    arabic: وَأَنَّ
     translation: and that
     transliteration: wa-anna
   24:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   25:
@@ -110,11 +110,11 @@ word_by_word:
     translation: of every
     transliteration: bikulli
   26:
-    arabic: شَىۡءٍ
+    arabic: شَيۡءٍ
     translation: thing
     transliteration: shayin
   27:
-    arabic: عَلِيۡمٌ‏
+    arabic: عَلِيمٌ
     translation: (is) All-Knowing
     transliteration: ʿalīmun
 ---

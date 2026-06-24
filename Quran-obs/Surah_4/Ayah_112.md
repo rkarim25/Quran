@@ -1,27 +1,27 @@
 ---
-arabic_ayat: وَمَنۡ يَّكۡسِبۡ خَطِيۡٓـــَٔةً اَوۡ اِثۡمًا ثُمَّ يَرۡمِ بِهٖ بَرِيۡٓــًٔـا
-  فَقَدِ احۡتَمَلَ بُهۡتَانًا وَّاِثۡمًا مُّبِيۡنًا‏
+arabic_ayat: وَمَن يَكۡسِبۡ خَطِيٓـَٔةً أَوۡ إِثۡمٗا ثُمَّ يَرۡمِ بِهِۦ بَرِيٓـٔٗا
+  فَقَدِ ٱحۡتَمَلَ بُهۡتَٰنٗا وَإِثۡمٗا مُّبِينٗا
 sentence_translation: And whoever commits an evil or sinful deed then blames it on
   an innocent person, they will definitely bear the guilt of slander and blatant sin.
 word_by_word:
   1:
-    arabic: وَمَنۡ
+    arabic: وَمَن
     translation: And whoever
     transliteration: waman
   2:
-    arabic: يَّكۡسِبۡ
+    arabic: يَكۡسِبۡ
     translation: earns
     transliteration: yaksib
   3:
-    arabic: خَطِيۡٓـــَٔةً
+    arabic: خَطِيٓـَٔةً
     translation: a fault
     transliteration: khaṭīatan
   4:
-    arabic: اَوۡ
+    arabic: أَوۡ
     translation: or
     transliteration: aw
   5:
-    arabic: اِثۡمًا
+    arabic: إِثۡمٗا
     translation: a sin
     transliteration: ith'man
   6:
@@ -33,11 +33,11 @@ word_by_word:
     translation: throws
     transliteration: yarmi
   8:
-    arabic: بِهٖ
+    arabic: بِهِۦ
     translation: it
     transliteration: bihi
   9:
-    arabic: بَرِيۡٓــًٔـا
+    arabic: بَرِيٓـٔٗا
     translation: (on) an innocent
     transliteration: barīan
   10:
@@ -45,19 +45,19 @@ word_by_word:
     translation: then surely
     transliteration: faqadi
   11:
-    arabic: احۡتَمَلَ
+    arabic: ٱحۡتَمَلَ
     translation: he (has) burdened (himself)
     transliteration: iḥ'tamala
   12:
-    arabic: بُهۡتَانًا
+    arabic: بُهۡتَٰنٗا
     translation: (with) a slander
     transliteration: buh'tānan
   13:
-    arabic: وَّاِثۡمًا
+    arabic: وَإِثۡمٗا
     translation: and a sin
     transliteration: wa-ith'man
   14:
-    arabic: مُّبِيۡنًا‏
+    arabic: مُّبِينٗا
     translation: manifest
     transliteration: mubīnan
 ---

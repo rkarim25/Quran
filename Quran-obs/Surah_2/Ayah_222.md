@@ -1,8 +1,7 @@
 ---
-arabic_ayat: وَ يَسۡـــَٔلُوۡنَكَ عَنِ الۡمَحِيۡضِ​ۙ قُلۡ هُوَ اَذًى فَاعۡتَزِلُوۡا
-  النِّسَآءَ فِى الۡمَحِيۡضِ​ۙ وَلَا تَقۡرَبُوۡهُنَّ حَتّٰى يَطۡهُرۡنَ​​ۚ فَاِذَا
-  تَطَهَّرۡنَ فَاۡتُوۡهُنَّ مِنۡ حَيۡثُ اَمَرَكُمُ اللّٰهُ​ؕ اِنَّ اللّٰهَ يُحِبُّ
-  التَّوَّابِيۡنَ وَيُحِبُّ الۡمُتَطَهِّرِيۡنَ‏
+arabic_ayat: وَيَسۡـَٔلُونَكَ عَنِ ٱلۡمَحِيضِۖ قُلۡ هُوَ أَذٗى فَٱعۡتَزِلُواْ ٱلنِّسَآءَ
+  فِي ٱلۡمَحِيضِ وَلَا تَقۡرَبُوهُنَّ حَتَّىٰ يَطۡهُرۡنَۖ فَإِذَا تَطَهَّرۡنَ فَأۡتُوهُنَّ
+  مِنۡ حَيۡثُ أَمَرَكُمُ ٱللَّهُۚ إِنَّ ٱللَّهَ يُحِبُّ ٱلتَّوَّٰبِينَ وَيُحِبُّ ٱلۡمُتَطَهِّرِينَ
 sentence_translation: They ask you ˹O Prophet˺ about menstruation. Say, “Beware of
   its harm! So keep away, and do not have intercourse with your wives during their
   monthly cycles until they are purified. When they purify themselves, then you may
@@ -10,7 +9,7 @@ sentence_translation: They ask you ˹O Prophet˺ about menstruation. Say, “Bew
   turn to Him in repentance and those who purify themselves.”
 word_by_word:
   1:
-    arabic: وَ يَسۡـــَٔلُوۡنَكَ
+    arabic: وَيَسۡـَٔلُونَكَ
     translation: And they ask you
     transliteration: wayasalūnaka
   2:
@@ -18,7 +17,7 @@ word_by_word:
     translation: about
     transliteration: ʿani
   3:
-    arabic: الۡمَحِيۡضِ​ۙ
+    arabic: ٱلۡمَحِيضِۖ
     translation: '[the] menstruation'
     transliteration: l-maḥīḍi
   4:
@@ -30,23 +29,23 @@ word_by_word:
     translation: It
     transliteration: huwa
   6:
-    arabic: اَذًى
+    arabic: أَذٗى
     translation: (is) a hurt
     transliteration: adhan
   7:
-    arabic: فَاعۡتَزِلُوۡا
+    arabic: فَٱعۡتَزِلُواْ
     translation: so keep away (from)
     transliteration: fa-iʿ'tazilū
   8:
-    arabic: النِّسَآءَ
+    arabic: ٱلنِّسَآءَ
     translation: '[the] women'
     transliteration: l-nisāa
   9:
-    arabic: فِى
+    arabic: فِي
     translation: during
     transliteration: fī
   10:
-    arabic: الۡمَحِيۡضِ​ۙ
+    arabic: ٱلۡمَحِيضِ
     translation: (their) [the] menstruation
     transliteration: l-maḥīḍi
   11:
@@ -54,19 +53,19 @@ word_by_word:
     translation: And (do) not
     transliteration: walā
   12:
-    arabic: تَقۡرَبُوۡهُنَّ
+    arabic: تَقۡرَبُوهُنَّ
     translation: approach them
     transliteration: taqrabūhunna
   13:
-    arabic: حَتّٰى
+    arabic: حَتَّىٰ
     translation: until
     transliteration: ḥattā
   14:
-    arabic: يَطۡهُرۡنَ​​ۚ
+    arabic: يَطۡهُرۡنَۖ
     translation: they are cleansed
     transliteration: yaṭhur'na
   15:
-    arabic: فَاِذَا
+    arabic: فَإِذَا
     translation: Then when
     transliteration: fa-idhā
   16:
@@ -74,7 +73,7 @@ word_by_word:
     translation: they are purified
     transliteration: taṭahharna
   17:
-    arabic: فَاۡتُوۡهُنَّ
+    arabic: فَأۡتُوهُنَّ
     translation: then come to them
     transliteration: fatūhunna
   18:
@@ -86,19 +85,19 @@ word_by_word:
     translation: where
     transliteration: ḥaythu
   20:
-    arabic: اَمَرَكُمُ
+    arabic: أَمَرَكُمُ
     translation: has ordered you
     transliteration: amarakumu
   21:
-    arabic: اللّٰهُ​ؕ
+    arabic: ٱللَّهُۚ
     translation: Allah
     transliteration: l-lahu
   22:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   23:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   24:
@@ -106,7 +105,7 @@ word_by_word:
     translation: loves
     transliteration: yuḥibbu
   25:
-    arabic: التَّوَّابِيۡنَ
+    arabic: ٱلتَّوَّٰبِينَ
     translation: those who turn in repentance
     transliteration: l-tawābīna
   26:
@@ -114,7 +113,7 @@ word_by_word:
     translation: and loves
     transliteration: wayuḥibbu
   27:
-    arabic: الۡمُتَطَهِّرِيۡنَ‏
+    arabic: ٱلۡمُتَطَهِّرِينَ
     translation: those who purify themselves
     transliteration: l-mutaṭahirīna
 ---

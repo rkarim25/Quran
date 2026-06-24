@@ -1,5 +1,5 @@
 ---
-arabic_ayat: وَمَا يُدۡرِيۡكَ لَعَلَّهٗ يَزَّكّٰٓىۙ‏
+arabic_ayat: وَمَا يُدۡرِيكَ لَعَلَّهُۥ يَزَّكَّىٰٓ
 sentence_translation: You never know ˹O Prophet˺, perhaps he may be purified,
 word_by_word:
   1:
@@ -7,15 +7,15 @@ word_by_word:
     translation: But what
     transliteration: wamā
   2:
-    arabic: يُدۡرِيۡكَ
+    arabic: يُدۡرِيكَ
     translation: would make you know
     transliteration: yud'rīka
   3:
-    arabic: لَعَلَّهٗ
+    arabic: لَعَلَّهُۥ
     translation: that he might
     transliteration: laʿallahu
   4:
-    arabic: يَزَّكّٰٓىۙ‏
+    arabic: يَزَّكَّىٰٓ
     translation: purify himself
     transliteration: yazzakkā
 ---

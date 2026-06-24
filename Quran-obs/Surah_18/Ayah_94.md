@@ -1,45 +1,45 @@
 ---
-arabic_ayat: قَالُوۡا يٰذَا الۡقَرۡنَيۡنِ اِنَّ يَاۡجُوۡجَ وَمَاۡجُوۡجَ مُفۡسِدُوۡنَ
-  فِى الۡاَرۡضِ فَهَلۡ نَجۡعَلُ لَكَ خَرۡجًا عَلٰٓى اَنۡ تَجۡعَلَ بَيۡنَـنَا وَبَيۡنَهُمۡ
-  سَدًّا‏
+arabic_ayat: قَالُواْ يَٰذَا ٱلۡقَرۡنَيۡنِ إِنَّ يَأۡجُوجَ وَمَأۡجُوجَ مُفۡسِدُونَ
+  فِي ٱلۡأَرۡضِ فَهَلۡ نَجۡعَلُ لَكَ خَرۡجًا عَلَىٰٓ أَن تَجۡعَلَ بَيۡنَنَا وَبَيۡنَهُمۡ
+  سَدّٗا
 sentence_translation: They pleaded, “O Ⱬul-Qarnain! Surely Gog and Magog are spreading
   corruption throughout the land. Should we pay you tribute, provided that you build
   a wall between us and them?”
 word_by_word:
   1:
-    arabic: قَالُوۡا
+    arabic: قَالُواْ
     translation: They said
     transliteration: qālū
   2:
-    arabic: يٰذَا
+    arabic: يَٰذَا
     translation: O Dhul-qarnain
     transliteration: yādhā
   3:
-    arabic: الۡقَرۡنَيۡنِ
+    arabic: ٱلۡقَرۡنَيۡنِ
     translation: O Dhul-qarnain
     transliteration: l-qarnayni
   4:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   5:
-    arabic: يَاۡجُوۡجَ
+    arabic: يَأۡجُوجَ
     translation: Yajuj
     transliteration: yajūja
   6:
-    arabic: وَمَاۡجُوۡجَ
+    arabic: وَمَأۡجُوجَ
     translation: and Majuj
     transliteration: wamajūja
   7:
-    arabic: مُفۡسِدُوۡنَ
+    arabic: مُفۡسِدُونَ
     translation: (are) corrupters
     transliteration: muf'sidūna
   8:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   9:
-    arabic: الۡاَرۡضِ
+    arabic: ٱلۡأَرۡضِ
     translation: the land
     transliteration: l-arḍi
   10:
@@ -59,11 +59,11 @@ word_by_word:
     translation: an expenditure
     transliteration: kharjan
   14:
-    arabic: عَلٰٓى
+    arabic: عَلَىٰٓ
     translation: '[on]'
     transliteration: ʿalā
   15:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that
     transliteration: an
   16:
@@ -71,7 +71,7 @@ word_by_word:
     translation: you make
     transliteration: tajʿala
   17:
-    arabic: بَيۡنَـنَا
+    arabic: بَيۡنَنَا
     translation: between us
     transliteration: baynanā
   18:
@@ -79,7 +79,7 @@ word_by_word:
     translation: and between them
     transliteration: wabaynahum
   19:
-    arabic: سَدًّا‏
+    arabic: سَدّٗا
     translation: a barrier
     transliteration: saddan
 ---

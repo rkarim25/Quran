@@ -1,15 +1,15 @@
 ---
-arabic_ayat: فَخَلَفَ مِنۡۢ بَعۡدِهِمۡ خَلۡفٌ اَضَاعُوا الصَّلٰوةَ وَاتَّبَعُوا الشَّهَوٰتِ​
-  فَسَوۡفَ يَلۡقَوۡنَ غَيًّا ۙ‏
+arabic_ayat: ۞ فَخَلَفَ مِنۢ بَعۡدِهِمۡ خَلۡفٌ أَضَاعُواْ ٱلصَّلَوٰةَ وَٱتَّبَعُواْ
+  ٱلشَّهَوَٰتِۖ فَسَوۡفَ يَلۡقَوۡنَ غَيًّا
 sentence_translation: But they were succeeded by generations who neglected prayer
   and followed their lusts and so will soon face the evil consequences.
 word_by_word:
   1:
-    arabic: ۞ فَخَلَفَ
+    arabic: ۞ فَخَلَفَ
     translation: Then succeeded
     transliteration: fakhalafa
   2:
-    arabic: مِنۡۢ
+    arabic: مِنۢ
     translation: after them
     transliteration: min
   3:
@@ -21,19 +21,19 @@ word_by_word:
     translation: successors
     transliteration: khalfun
   5:
-    arabic: اَضَاعُوا
+    arabic: أَضَاعُواْ
     translation: who neglected
     transliteration: aḍāʿū
   6:
-    arabic: الصَّلٰوةَ
+    arabic: ٱلصَّلَوٰةَ
     translation: the prayer
     transliteration: l-ṣalata
   7:
-    arabic: وَاتَّبَعُوا
+    arabic: وَٱتَّبَعُواْ
     translation: and they followed
     transliteration: wa-ittabaʿū
   8:
-    arabic: الشَّهَوٰتِ​
+    arabic: ٱلشَّهَوَٰتِۖ
     translation: the lusts
     transliteration: l-shahawāti
   9:
@@ -45,7 +45,7 @@ word_by_word:
     translation: they will meet
     transliteration: yalqawna
   11:
-    arabic: غَيًّا ۙ‏
+    arabic: غَيًّا
     translation: evil
     transliteration: ghayyan
 ---

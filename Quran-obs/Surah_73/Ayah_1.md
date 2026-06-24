@@ -1,13 +1,13 @@
 ---
-arabic_ayat: يٰۤاَيُّهَا الۡمُزَّمِّلُۙ‏
+arabic_ayat: يَٰٓأَيُّهَا ٱلۡمُزَّمِّلُ
 sentence_translation: O you wrapped ˹in your clothes˺!
 word_by_word:
   1:
-    arabic: يٰۤاَيُّهَا
+    arabic: يَٰٓأَيُّهَا
     translation: O you
     transliteration: yāayyuhā
   2:
-    arabic: الۡمُزَّمِّلُۙ‏
+    arabic: ٱلۡمُزَّمِّلُ
     translation: who wraps himself
     transliteration: l-muzamilu
 ---

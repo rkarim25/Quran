@@ -1,18 +1,18 @@
 ---
-arabic_ayat: وَاِذۡ قِيۡلَ لَهُمُ اسۡكُنُوۡا هٰذِهِ الۡقَرۡيَةَ وَكُلُوۡا مِنۡهَا
-  حَيۡثُ شِئۡتُمۡ وَقُوۡلُوۡا حِطَّةٌ وَّادۡخُلُوا الۡبَابَ سُجَّدًا نَّـغۡفِرۡ لَـكُمۡ
-  خَطِيْٓــٰٔــتِكُمۡ​ ؕ سَنَزِيۡدُ الۡمُحۡسِنِيۡنَ‏
+arabic_ayat: وَإِذۡ قِيلَ لَهُمُ ٱسۡكُنُواْ هَٰذِهِ ٱلۡقَرۡيَةَ وَكُلُواْ مِنۡهَا
+  حَيۡثُ شِئۡتُمۡ وَقُولُواْ حِطَّةٞ وَٱدۡخُلُواْ ٱلۡبَابَ سُجَّدٗا نَّغۡفِرۡ لَكُمۡ
+  خَطِيٓـَٰٔتِكُمۡۚ سَنَزِيدُ ٱلۡمُحۡسِنِينَ
 sentence_translation: And ˹remember˺ when it was said to them, “Enter this city ˹of
   Jerusalem˺ and eat from wherever you please. Say, ‘Absolve us,’ and enter the gate
   with humility. We will forgive your sins, ˹and˺ We will multiply the reward for
   the good-doers.”
 word_by_word:
   1:
-    arabic: وَاِذۡ
+    arabic: وَإِذۡ
     translation: And when
     transliteration: wa-idh
   2:
-    arabic: قِيۡلَ
+    arabic: قِيلَ
     translation: it was said
     transliteration: qīla
   3:
@@ -20,19 +20,19 @@ word_by_word:
     translation: to them
     transliteration: lahumu
   4:
-    arabic: اسۡكُنُوۡا
+    arabic: ٱسۡكُنُواْ
     translation: Live
     transliteration: us'kunū
   5:
-    arabic: هٰذِهِ
+    arabic: هَٰذِهِ
     translation: (in) this
     transliteration: hādhihi
   6:
-    arabic: الۡقَرۡيَةَ
+    arabic: ٱلۡقَرۡيَةَ
     translation: city
     transliteration: l-qaryata
   7:
-    arabic: وَكُلُوۡا
+    arabic: وَكُلُواْ
     translation: and eat
     transliteration: wakulū
   8:
@@ -48,43 +48,43 @@ word_by_word:
     translation: you wish
     transliteration: shi'tum
   11:
-    arabic: وَقُوۡلُوۡا
+    arabic: وَقُولُواْ
     translation: and say
     transliteration: waqūlū
   12:
-    arabic: حِطَّةٌ
+    arabic: حِطَّةٞ
     translation: Repentance
     transliteration: ḥiṭṭatun
   13:
-    arabic: وَّادۡخُلُوا
+    arabic: وَٱدۡخُلُواْ
     translation: and enter
     transliteration: wa-ud'khulū
   14:
-    arabic: الۡبَابَ
+    arabic: ٱلۡبَابَ
     translation: the gate
     transliteration: l-bāba
   15:
-    arabic: سُجَّدًا
+    arabic: سُجَّدٗا
     translation: prostrating
     transliteration: sujjadan
   16:
-    arabic: نَّـغۡفِرۡ
+    arabic: نَّغۡفِرۡ
     translation: We will forgive
     transliteration: naghfir
   17:
-    arabic: لَـكُمۡ
+    arabic: لَكُمۡ
     translation: for you
     transliteration: lakum
   18:
-    arabic: خَطِيْٓــٰٔــتِكُمۡ​ ؕ
+    arabic: خَطِيٓـَٰٔتِكُمۡۚ
     translation: your sins
     transliteration: khaṭīātikum
   19:
-    arabic: سَنَزِيۡدُ
+    arabic: سَنَزِيدُ
     translation: We will increase (reward)
     transliteration: sanazīdu
   20:
-    arabic: الۡمُحۡسِنِيۡنَ‏
+    arabic: ٱلۡمُحۡسِنِينَ
     translation: (of) the good-doers
     transliteration: l-muḥ'sinīna
 ---

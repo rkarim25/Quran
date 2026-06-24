@@ -1,9 +1,9 @@
 ---
-arabic_ayat: اَمۡ لَمۡ يُنَبَّاۡ بِمَا فِىۡ صُحُفِ مُوۡسٰىۙ‏
+arabic_ayat: أَمۡ لَمۡ يُنَبَّأۡ بِمَا فِي صُحُفِ مُوسَىٰ
 sentence_translation: Or has he not been informed of what is in the Scripture of Moses,
 word_by_word:
   1:
-    arabic: اَمۡ
+    arabic: أَمۡ
     translation: Or
     transliteration: am
   2:
@@ -11,7 +11,7 @@ word_by_word:
     translation: not
     transliteration: lam
   3:
-    arabic: يُنَبَّاۡ
+    arabic: يُنَبَّأۡ
     translation: he was informed
     transliteration: yunabba
   4:
@@ -19,7 +19,7 @@ word_by_word:
     translation: with what
     transliteration: bimā
   5:
-    arabic: فِىۡ
+    arabic: فِي
     translation: (was) in
     transliteration: fī
   6:
@@ -27,7 +27,7 @@ word_by_word:
     translation: (the) Scriptures
     transliteration: ṣuḥufi
   7:
-    arabic: مُوۡسٰىۙ‏
+    arabic: مُوسَىٰ
     translation: (of) Musa
     transliteration: mūsā
 ---

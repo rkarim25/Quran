@@ -1,18 +1,18 @@
 ---
-arabic_ayat: كَلَّاۤ اِنَّهُمۡ عَنۡ رَّبِّهِمۡ يَوۡمَٮِٕذٍ لَّمَحۡجُوۡبُوۡنَ​ؕ‏
+arabic_ayat: كـَلَّآ إِنَّهُمۡ عَن رَّبِّهِمۡ يَوۡمَئِذٖ لَّمَحۡجُوبُونَ
 sentence_translation: Undoubtedly, they will be sealed off from their Lord on that
   Day.
 word_by_word:
   1:
-    arabic: كَلَّاۤ
+    arabic: كـَلَّآ
     translation: Nay
     transliteration: kallā
   2:
-    arabic: اِنَّهُمۡ
+    arabic: إِنَّهُمۡ
     translation: Indeed, they
     transliteration: innahum
   3:
-    arabic: عَنۡ
+    arabic: عَن
     translation: from
     transliteration: ʿan
   4:
@@ -20,11 +20,11 @@ word_by_word:
     translation: their Lord
     transliteration: rabbihim
   5:
-    arabic: يَوۡمَٮِٕذٍ
+    arabic: يَوۡمَئِذٖ
     translation: that Day
     transliteration: yawma-idhin
   6:
-    arabic: لَّمَحۡجُوۡبُوۡنَ​ؕ‏
+    arabic: لَّمَحۡجُوبُونَ
     translation: surely will be partitioned
     transliteration: lamaḥjūbūna
 ---

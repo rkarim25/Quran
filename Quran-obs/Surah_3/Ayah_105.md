@@ -1,6 +1,6 @@
 ---
-arabic_ayat: وَلَا تَكُوۡنُوۡا كَالَّذِيۡنَ تَفَرَّقُوۡا وَاخۡتَلَفُوۡا مِنۡۢ بَعۡدِ
-  مَا جَآءَهُمُ الۡبَيِّنٰتُ​ؕ وَاُولٰٓٮِٕكَ لَهُمۡ عَذَابٌ عَظِيۡمٌۙ‏
+arabic_ayat: وَلَا تَكُونُواْ كَٱلَّذِينَ تَفَرَّقُواْ وَٱخۡتَلَفُواْ مِنۢ بَعۡدِ
+  مَا جَآءَهُمُ ٱلۡبَيِّنَٰتُۚ وَأُوْلَٰٓئِكَ لَهُمۡ عَذَابٌ عَظِيمٞ
 sentence_translation: And do not be like those who split ˹into sects˺ and differed
   after clear proofs had come to them. It is they who will suffer a tremendous punishment.
 word_by_word:
@@ -9,23 +9,23 @@ word_by_word:
     translation: And (do) not
     transliteration: walā
   2:
-    arabic: تَكُوۡنُوۡا
+    arabic: تَكُونُواْ
     translation: be
     transliteration: takūnū
   3:
-    arabic: كَالَّذِيۡنَ
+    arabic: كَٱلَّذِينَ
     translation: like those who
     transliteration: ka-alladhīna
   4:
-    arabic: تَفَرَّقُوۡا
+    arabic: تَفَرَّقُواْ
     translation: became divided
     transliteration: tafarraqū
   5:
-    arabic: وَاخۡتَلَفُوۡا
+    arabic: وَٱخۡتَلَفُواْ
     translation: and differed
     transliteration: wa-ikh'talafū
   6:
-    arabic: مِنۡۢ
+    arabic: مِنۢ
     translation: from
     transliteration: min
   7:
@@ -41,11 +41,11 @@ word_by_word:
     translation: 'came to them '
     transliteration: jāahumu
   10:
-    arabic: الۡبَيِّنٰتُ​ؕ
+    arabic: ٱلۡبَيِّنَٰتُۚ
     translation: the clear proofs
     transliteration: l-bayinātu
   11:
-    arabic: وَاُولٰٓٮِٕكَ
+    arabic: وَأُوْلَٰٓئِكَ
     translation: And those
     transliteration: wa-ulāika
   12:
@@ -57,7 +57,7 @@ word_by_word:
     translation: (is) a punishment
     transliteration: ʿadhābun
   14:
-    arabic: عَظِيۡمٌۙ‏
+    arabic: عَظِيمٞ
     translation: great
     transliteration: ʿaẓīmun
 ---

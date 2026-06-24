@@ -1,15 +1,15 @@
 ---
-arabic_ayat: حَتّٰٓى اِذَا مَا جَآءُوۡهَا شَهِدَ عَلَيۡهِمۡ سَمۡعُهُمۡ وَاَبۡصَارُهُمۡ
-  وَجُلُوۡدُهُمۡ بِمَا كَانُوۡا يَعۡمَلُوۡنَ‏
+arabic_ayat: حَتَّىٰٓ إِذَا مَا جَآءُوهَا شَهِدَ عَلَيۡهِمۡ سَمۡعُهُمۡ وَأَبۡصَٰرُهُمۡ
+  وَجُلُودُهُم بِمَا كَانُواْ يَعۡمَلُونَ
 sentence_translation: When they reach it, their ears, eyes, and skin will testify
   against what they used to do.
 word_by_word:
   1:
-    arabic: حَتّٰٓى
+    arabic: حَتَّىٰٓ
     translation: Until
     transliteration: ḥattā
   2:
-    arabic: اِذَا
+    arabic: إِذَا
     translation: when
     transliteration: idhā
   3:
@@ -17,7 +17,7 @@ word_by_word:
     translation: when
     transliteration: mā
   4:
-    arabic: جَآءُوۡهَا
+    arabic: جَآءُوهَا
     translation: they come to it
     transliteration: jāūhā
   5:
@@ -33,11 +33,11 @@ word_by_word:
     translation: their hearing
     transliteration: samʿuhum
   8:
-    arabic: وَاَبۡصَارُهُمۡ
+    arabic: وَأَبۡصَٰرُهُمۡ
     translation: and their sight
     transliteration: wa-abṣāruhum
   9:
-    arabic: وَجُلُوۡدُهُمۡ
+    arabic: وَجُلُودُهُم
     translation: and their skins
     transliteration: wajulūduhum
   10:
@@ -45,11 +45,11 @@ word_by_word:
     translation: (as) to what
     transliteration: bimā
   11:
-    arabic: كَانُوۡا
+    arabic: كَانُواْ
     translation: they used to
     transliteration: kānū
   12:
-    arabic: يَعۡمَلُوۡنَ‏
+    arabic: يَعۡمَلُونَ
     translation: do
     transliteration: yaʿmalūna
 ---

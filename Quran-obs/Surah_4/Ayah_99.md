@@ -1,11 +1,11 @@
 ---
-arabic_ayat: فَاُولٰٓٮِٕكَ عَسَى اللّٰهُ اَنۡ يَّعۡفُوَ عَنۡهُمۡ​ؕ وَكَانَ اللّٰهُ
-  عَفُوًّا غَفُوۡرًا‏
+arabic_ayat: فَأُوْلَٰٓئِكَ عَسَى ٱللَّهُ أَن يَعۡفُوَ عَنۡهُمۡۚ وَكَانَ ٱللَّهُ عَفُوًّا
+  غَفُورٗا
 sentence_translation: it is right to hope that Allah will pardon them. For Allah is
   Ever-Pardoning, All-Forgiving.
 word_by_word:
   1:
-    arabic: فَاُولٰٓٮِٕكَ
+    arabic: فَأُوْلَٰٓئِكَ
     translation: Then those
     transliteration: fa-ulāika
   2:
@@ -13,19 +13,19 @@ word_by_word:
     translation: may be
     transliteration: ʿasā
   3:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   4:
-    arabic: اَنۡ
+    arabic: أَن
     translation: will
     transliteration: an
   5:
-    arabic: يَّعۡفُوَ
+    arabic: يَعۡفُوَ
     translation: pardon
     transliteration: yaʿfuwa
   6:
-    arabic: عَنۡهُمۡ​ؕ
+    arabic: عَنۡهُمۡۚ
     translation: '[on] them'
     transliteration: ʿanhum
   7:
@@ -33,7 +33,7 @@ word_by_word:
     translation: and is
     transliteration: wakāna
   8:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   9:
@@ -41,7 +41,7 @@ word_by_word:
     translation: Oft-Pardoning
     transliteration: ʿafuwwan
   10:
-    arabic: غَفُوۡرًا‏
+    arabic: غَفُورٗا
     translation: Oft-Forgiving
     transliteration: ghafūran
 ---

@@ -1,5 +1,5 @@
 ---
-arabic_ayat: ثُمَّ الۡجَحِيۡمَ صَلُّوۡهُ ۙ‏
+arabic_ayat: ثُمَّ ٱلۡجَحِيمَ صَلُّوهُ
 sentence_translation: then burn them in Hell,
 word_by_word:
   1:
@@ -7,11 +7,11 @@ word_by_word:
     translation: Then
     transliteration: thumma
   2:
-    arabic: الۡجَحِيۡمَ
+    arabic: ٱلۡجَحِيمَ
     translation: (into) the Hellfire
     transliteration: l-jaḥīma
   3:
-    arabic: صَلُّوۡهُ ۙ‏
+    arabic: صَلُّوهُ
     translation: burn him
     transliteration: ṣallūhu
 ---

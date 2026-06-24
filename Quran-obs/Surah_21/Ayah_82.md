@@ -1,6 +1,6 @@
 ---
-arabic_ayat: وَمِنَ الشَّيٰطِيۡنِ مَنۡ يَّغُوۡصُوۡنَ لَهٗ وَيَعۡمَلُوۡنَ عَمَلًا دُوۡنَ
-  ذٰ لِكَ​ ۚ وَكُنَّا لَهُمۡ حٰفِظِيۡنَۙ‏
+arabic_ayat: وَمِنَ ٱلشَّيَٰطِينِ مَن يَغُوصُونَ لَهُۥ وَيَعۡمَلُونَ عَمَلٗا دُونَ
+  ذَٰلِكَۖ وَكُنَّا لَهُمۡ حَٰفِظِينَ
 sentence_translation: And ˹We subjected˺ some jinn that dived for him, and performed
   other duties. It is We Who kept them in check.
 word_by_word:
@@ -9,35 +9,35 @@ word_by_word:
     translation: And of
     transliteration: wamina
   2:
-    arabic: الشَّيٰطِيۡنِ
+    arabic: ٱلشَّيَٰطِينِ
     translation: the devils
     transliteration: l-shayāṭīni
   3:
-    arabic: مَنۡ
+    arabic: مَن
     translation: (were some) who
     transliteration: man
   4:
-    arabic: يَّغُوۡصُوۡنَ
+    arabic: يَغُوصُونَ
     translation: would dive
     transliteration: yaghūṣūna
   5:
-    arabic: لَهٗ
+    arabic: لَهُۥ
     translation: for him
     transliteration: lahu
   6:
-    arabic: وَيَعۡمَلُوۡنَ
+    arabic: وَيَعۡمَلُونَ
     translation: and would do
     transliteration: wayaʿmalūna
   7:
-    arabic: عَمَلًا
+    arabic: عَمَلٗا
     translation: work
     transliteration: ʿamalan
   8:
-    arabic: دُوۡنَ
+    arabic: دُونَ
     translation: other than
     transliteration: dūna
   9:
-    arabic: ذٰ لِكَ​ ۚ
+    arabic: ذَٰلِكَۖ
     translation: that
     transliteration: dhālika
   10:
@@ -49,7 +49,7 @@ word_by_word:
     translation: of them
     transliteration: lahum
   12:
-    arabic: حٰفِظِيۡنَۙ‏
+    arabic: حَٰفِظِينَ
     translation: Guardians
     transliteration: ḥāfiẓīna
 ---

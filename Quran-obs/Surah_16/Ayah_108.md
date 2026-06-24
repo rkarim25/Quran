@@ -1,15 +1,15 @@
 ---
-arabic_ayat: اُولٰۤٮِٕكَ الَّذِيۡنَ طَبَعَ اللّٰهُ عَلٰى قُلُوۡبِهِمۡ وَسَمۡعِهِمۡ
-  وَاَبۡصَارِهِمۡ​ۚ وَاُولٰۤٮِٕكَ هُمُ الۡغٰفِلُوۡنَ‏
+arabic_ayat: أُوْلَٰٓئِكَ ٱلَّذِينَ طَبَعَ ٱللَّهُ عَلَىٰ قُلُوبِهِمۡ وَسَمۡعِهِمۡ
+  وَأَبۡصَٰرِهِمۡۖ وَأُوْلَٰٓئِكَ هُمُ ٱلۡغَٰفِلُونَ
 sentence_translation: They are the ones whose hearts, ears, and eyes are sealed by
   Allah, and it is they who are ˹truly˺ heedless.
 word_by_word:
   1:
-    arabic: اُولٰۤٮِٕكَ
+    arabic: أُوْلَٰٓئِكَ
     translation: Those
     transliteration: ulāika
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: '(are) the ones '
     transliteration: alladhīna
   3:
@@ -17,15 +17,15 @@ word_by_word:
     translation: Allah has set a seal
     transliteration: ṭabaʿa
   4:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah has set a seal
     transliteration: l-lahu
   5:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: over
     transliteration: ʿalā
   6:
-    arabic: قُلُوۡبِهِمۡ
+    arabic: قُلُوبِهِمۡ
     translation: their hearts
     transliteration: qulūbihim
   7:
@@ -33,11 +33,11 @@ word_by_word:
     translation: and their hearing
     transliteration: wasamʿihim
   8:
-    arabic: وَاَبۡصَارِهِمۡ​ۚ
+    arabic: وَأَبۡصَٰرِهِمۡۖ
     translation: and their sight
     transliteration: wa-abṣārihim
   9:
-    arabic: وَاُولٰۤٮِٕكَ
+    arabic: وَأُوْلَٰٓئِكَ
     translation: 'And those '
     transliteration: wa-ulāika
   10:
@@ -45,7 +45,7 @@ word_by_word:
     translation: they are
     transliteration: humu
   11:
-    arabic: الۡغٰفِلُوۡنَ‏
+    arabic: ٱلۡغَٰفِلُونَ
     translation: the heedless
     transliteration: l-ghāfilūna
 ---

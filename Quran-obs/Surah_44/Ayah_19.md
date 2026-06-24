@@ -1,11 +1,10 @@
 ---
-arabic_ayat: "وَّاَنۡ لَّا تَعۡلُوۡا عَلَى اللّٰهِ​ۚ اِنِّىۡۤ اٰتِيۡكُمۡ بِسُلۡطٰنٍ\
-  \ مُّبِيۡنٍ​ۚ‏ \uFEFF\uFEFF"
+arabic_ayat: وَأَن لَّا تَعۡلُواْ عَلَى ٱللَّهِۖ إِنِّيٓ ءَاتِيكُم بِسُلۡطَٰنٖ مُّبِينٖ
 sentence_translation: And do not be arrogant with Allah. I have certainly come to
   you with a compelling proof.
 word_by_word:
   1:
-    arabic: وَّاَنۡ
+    arabic: وَأَن
     translation: And that
     transliteration: wa-an
   2:
@@ -13,7 +12,7 @@ word_by_word:
     translation: (do) not
     transliteration: lā
   3:
-    arabic: تَعۡلُوۡا
+    arabic: تَعۡلُواْ
     translation: exalt yourselves
     transliteration: taʿlū
   4:
@@ -21,23 +20,23 @@ word_by_word:
     translation: against
     transliteration: ʿalā
   5:
-    arabic: اللّٰهِ​ۚ
+    arabic: ٱللَّهِۖ
     translation: Allah
     transliteration: l-lahi
   6:
-    arabic: اِنِّىۡۤ
+    arabic: إِنِّيٓ ءَ
     translation: Indeed, I
     transliteration: innī
   7:
-    arabic: اٰتِيۡكُمۡ
+    arabic: اتِيكُم
     translation: '[I] have come to you'
     transliteration: ātīkum
   8:
-    arabic: بِسُلۡطٰنٍ
+    arabic: بِسُلۡطَٰنٖ
     translation: with an authority
     transliteration: bisul'ṭānin
   9:
-    arabic: "مُّبِيۡنٍ​ۚ‏ \uFEFF\uFEFF"
+    arabic: مُّبِينٖ
     translation: clear
     transliteration: mubīnin
 ---

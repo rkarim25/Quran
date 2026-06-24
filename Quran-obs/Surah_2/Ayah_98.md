@@ -1,11 +1,11 @@
 ---
-arabic_ayat: مَنۡ كَانَ عَدُوًّا لِّلّٰهِ وَمَلٰٓٮِٕکَتِهٖ وَ رُسُلِهٖ وَجِبۡرِيۡلَ
-  وَمِيۡكٰٮلَ فَاِنَّ اللّٰهَ عَدُوٌّ لِّلۡكٰفِرِيۡنَ‏
+arabic_ayat: مَن كَانَ عَدُوّٗا لِّلَّهِ وَمَلَٰٓئِكَتِهِۦ وَرُسُلِهِۦ وَجِبۡرِيلَ
+  وَمِيكَىٰلَ فَإِنَّ ٱللَّهَ عَدُوّٞ لِّلۡكَٰفِرِينَ
 sentence_translation: Whoever is an enemy of Allah, His angels, His messengers, Gabriel,
   and Michael, then ˹let them know that˺ Allah is certainly the enemy of the disbelievers.
 word_by_word:
   1:
-    arabic: مَنۡ
+    arabic: مَن
     translation: Whoever
     transliteration: man
   2:
@@ -13,43 +13,43 @@ word_by_word:
     translation: is
     transliteration: kāna
   3:
-    arabic: عَدُوًّا
+    arabic: عَدُوّٗا
     translation: an enemy
     transliteration: ʿaduwwan
   4:
-    arabic: لِّلّٰهِ
+    arabic: لِّلَّهِ
     translation: (to) Allah
     transliteration: lillahi
   5:
-    arabic: وَمَلٰٓٮِٕکَتِهٖ
+    arabic: وَمَلَٰٓئِكَتِهِۦ
     translation: and His Angels
     transliteration: wamalāikatihi
   6:
-    arabic: وَ رُسُلِهٖ
+    arabic: وَرُسُلِهِۦ
     translation: and His Messengers
     transliteration: warusulihi
   7:
-    arabic: وَجِبۡرِيۡلَ
+    arabic: وَجِبۡرِيلَ
     translation: and Jibreel
     transliteration: wajib'rīla
   8:
-    arabic: وَمِيۡكٰٮلَ
+    arabic: وَمِيكَىٰلَ
     translation: and Meekael
     transliteration: wamīkāla
   9:
-    arabic: فَاِنَّ
+    arabic: فَإِنَّ
     translation: then indeed
     transliteration: fa-inna
   10:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   11:
-    arabic: عَدُوٌّ
+    arabic: عَدُوّٞ
     translation: (is) an enemy
     transliteration: ʿaduwwun
   12:
-    arabic: لِّلۡكٰفِرِيۡنَ‏
+    arabic: لِّلۡكَٰفِرِينَ
     translation: to the disbelievers
     transliteration: lil'kāfirīna
 ---

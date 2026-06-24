@@ -1,22 +1,22 @@
 ---
-arabic_ayat: فَاَخَذَتۡهُمُ الرَّجۡفَةُ فَاَصۡبَحُوۡا فِىۡ دَارِهِمۡ جٰثِمِيۡنَ‏
+arabic_ayat: فَأَخَذَتۡهُمُ ٱلرَّجۡفَةُ فَأَصۡبَحُواْ فِي دَارِهِمۡ جَٰثِمِينَ
 sentence_translation: Then an ˹overwhelming˺ earthquake struck them, and they fell
   lifeless in their homes.
 word_by_word:
   1:
-    arabic: فَاَخَذَتۡهُمُ
+    arabic: فَأَخَذَتۡهُمُ
     translation: So seized them
     transliteration: fa-akhadhathumu
   2:
-    arabic: الرَّجۡفَةُ
+    arabic: ٱلرَّجۡفَةُ
     translation: the earthquake
     transliteration: l-rajfatu
   3:
-    arabic: فَاَصۡبَحُوۡا
+    arabic: فَأَصۡبَحُواْ
     translation: then they became
     transliteration: fa-aṣbaḥū
   4:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   5:
@@ -24,7 +24,7 @@ word_by_word:
     translation: their homes
     transliteration: dārihim
   6:
-    arabic: جٰثِمِيۡنَ‏
+    arabic: جَٰثِمِينَ
     translation: fallen prone
     transliteration: jāthimīna
 ---

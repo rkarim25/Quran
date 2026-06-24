@@ -1,21 +1,21 @@
 ---
-arabic_ayat: فَلَاۤ اُقۡسِمُ بِمَوٰقِعِ النُّجُوۡمِۙ‏‏
+arabic_ayat: ۞ فَلَآ أُقۡسِمُ بِمَوَٰقِعِ ٱلنُّجُومِ
 sentence_translation: So I do swear by the positions of the stars—
 word_by_word:
   1:
-    arabic: ۞ فَلَاۤ
+    arabic: ۞ فَلَآ
     translation: But nay
     transliteration: falā
   2:
-    arabic: اُقۡسِمُ
+    arabic: أُقۡسِمُ
     translation: I swear
     transliteration: uq'simu
   3:
-    arabic: بِمَوٰقِعِ
+    arabic: بِمَوَٰقِعِ
     translation: by setting
     transliteration: bimawāqiʿi
   4:
-    arabic: النُّجُوۡمِۙ‏‏
+    arabic: ٱلنُّجُومِ
     translation: (of) the stars
     transliteration: l-nujūmi
 ---

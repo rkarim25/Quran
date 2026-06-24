@@ -1,55 +1,55 @@
 ---
-arabic_ayat: وَاَوۡرَثۡنَا الۡـقَوۡمَ الَّذِيۡنَ كَانُوۡا يُسۡتَضۡعَفُوۡنَ مَشَارِقَ
-  الۡاَرۡضِ وَمَغَارِبَهَا الَّتِىۡ بٰرَكۡنَا فِيۡهَا​ ؕ وَتَمَّتۡ كَلِمَتُ رَبِّكَ
-  الۡحُسۡنٰى عَلٰى بَنِىۡۤ اِسۡرَاۤءِيۡلَۙ بِمَا صَبَرُوۡا​ ؕ وَدَمَّرۡنَا مَا كَانَ
-  يَصۡنَعُ فِرۡعَوۡنُ وَقَوۡمُهٗ وَمَا كَانُوۡا يَعۡرِشُوۡنَ‏
+arabic_ayat: وَأَوۡرَثۡنَا ٱلۡقَوۡمَ ٱلَّذِينَ كَانُواْ يُسۡتَضۡعَفُونَ مَشَٰرِقَ
+  ٱلۡأَرۡضِ وَمَغَٰرِبَهَا ٱلَّتِي بَٰرَكۡنَا فِيهَاۖ وَتَمَّتۡ كَلِمَتُ رَبِّكَ ٱلۡحُسۡنَىٰ
+  عَلَىٰ بَنِيٓ إِسۡرَٰٓءِيلَ بِمَا صَبَرُواْۖ وَدَمَّرۡنَا مَا كَانَ يَصۡنَعُ فِرۡعَوۡنُ
+  وَقَوۡمُهُۥ وَمَا كَانُواْ يَعۡرِشُونَ
 sentence_translation: And ˹so˺ We made the oppressed people successors of the eastern
   and western lands, which We had showered with blessings. ˹In this way˺ the noble
   Word of your Lord was fulfilled for the Children of Israel for what they had endured.
   And We destroyed what Pharaoh and his people constructed and what they established.
 word_by_word:
   1:
-    arabic: وَاَوۡرَثۡنَا
+    arabic: وَأَوۡرَثۡنَا
     translation: And We made inheritors
     transliteration: wa-awrathnā
   2:
-    arabic: الۡـقَوۡمَ
+    arabic: ٱلۡقَوۡمَ
     translation: the people
     transliteration: l-qawma
   3:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   4:
-    arabic: كَانُوۡا
+    arabic: كَانُواْ
     translation: were
     transliteration: kānū
   5:
-    arabic: يُسۡتَضۡعَفُوۡنَ
+    arabic: يُسۡتَضۡعَفُونَ
     translation: 'considered weak '
     transliteration: yus'taḍʿafūna
   6:
-    arabic: مَشَارِقَ
+    arabic: مَشَٰرِقَ
     translation: (the) eastern (parts)
     transliteration: mashāriqa
   7:
-    arabic: الۡاَرۡضِ
+    arabic: ٱلۡأَرۡضِ
     translation: (of) the land
     transliteration: l-arḍi
   8:
-    arabic: وَمَغَارِبَهَا
+    arabic: وَمَغَٰرِبَهَا
     translation: and the western (parts) of it
     transliteration: wamaghāribahā
   9:
-    arabic: الَّتِىۡ
+    arabic: ٱلَّتِي
     translation: which
     transliteration: allatī
   10:
-    arabic: بٰرَكۡنَا
+    arabic: بَٰرَكۡنَا
     translation: We blessed
     transliteration: bāraknā
   11:
-    arabic: فِيۡهَا​ ؕ
+    arabic: فِيهَاۖ
     translation: '[in it]'
     transliteration: fīhā
   12:
@@ -65,19 +65,19 @@ word_by_word:
     translation: '(of) your Lord '
     transliteration: rabbika
   15:
-    arabic: الۡحُسۡنٰى
+    arabic: ٱلۡحُسۡنَىٰ
     translation: the best
     transliteration: l-ḥus'nā
   16:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: for
     transliteration: ʿalā
   17:
-    arabic: بَنِىۡۤ
+    arabic: بَنِيٓ
     translation: (the) Children
     transliteration: banī
   18:
-    arabic: اِسۡرَاۤءِيۡلَۙ
+    arabic: إِسۡرَٰٓءِيلَ
     translation: (of) Israel
     transliteration: is'rāīla
   19:
@@ -85,7 +85,7 @@ word_by_word:
     translation: because
     transliteration: bimā
   20:
-    arabic: صَبَرُوۡا​ ؕ
+    arabic: صَبَرُواْۖ
     translation: they were patient
     transliteration: ṣabarū
   21:
@@ -109,7 +109,7 @@ word_by_word:
     translation: Firaun
     transliteration: fir'ʿawnu
   26:
-    arabic: وَقَوۡمُهٗ
+    arabic: وَقَوۡمُهُۥ
     translation: and his people
     transliteration: waqawmuhu
   27:
@@ -117,11 +117,11 @@ word_by_word:
     translation: and what
     transliteration: wamā
   28:
-    arabic: كَانُوۡا
+    arabic: كَانُواْ
     translation: they used to
     transliteration: kānū
   29:
-    arabic: يَعۡرِشُوۡنَ‏
+    arabic: يَعۡرِشُونَ
     translation: erect
     transliteration: yaʿrishūna
 ---

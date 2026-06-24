@@ -1,7 +1,6 @@
 ---
-arabic_ayat: "فَكَيۡفَ اِذَاۤ اَصَابَتۡهُمۡ مُّصِيۡبَةٌ ۢ بِمَا قَدَّمَتۡ اَيۡدِيۡهِمۡ\
-  \ ثُمَّ جَآءُوۡكَ يَحۡلِفُوۡنَ​ۖ بِاللّٰهِ اِنۡ اَرَدۡنَاۤ اِلَّاۤ اِحۡسَانًـا\
-  \ وَّتَوۡفِيۡقًا‏ \uFEFF\uFEFF"
+arabic_ayat: فَكَيۡفَ إِذَآ أَصَٰبَتۡهُم مُّصِيبَةُۢ بِمَا قَدَّمَتۡ أَيۡدِيهِمۡ
+  ثُمَّ جَآءُوكَ يَحۡلِفُونَ بِٱللَّهِ إِنۡ أَرَدۡنَآ إِلَّآ إِحۡسَٰنٗا وَتَوۡفِيقًا
 sentence_translation: How ˹horrible˺ will it be if a disaster strikes them because
   of what their hands have done, then they come to you swearing by Allah, “We intended
   nothing but goodwill and reconciliation.”
@@ -11,15 +10,15 @@ word_by_word:
     translation: So how
     transliteration: fakayfa
   2:
-    arabic: اِذَاۤ
+    arabic: إِذَآ
     translation: when
     transliteration: idhā
   3:
-    arabic: اَصَابَتۡهُمۡ
+    arabic: أَصَٰبَتۡهُم
     translation: befalls them
     transliteration: aṣābathum
   4:
-    arabic: مُّصِيۡبَةٌ ۢ
+    arabic: مُّصِيبَةُۢ
     translation: disaster
     transliteration: muṣībatun
   5:
@@ -31,7 +30,7 @@ word_by_word:
     translation: sent forth
     transliteration: qaddamat
   7:
-    arabic: اَيۡدِيۡهِمۡ
+    arabic: أَيۡدِيهِمۡ
     translation: their hands
     transliteration: aydīhim
   8:
@@ -39,35 +38,35 @@ word_by_word:
     translation: then
     transliteration: thumma
   9:
-    arabic: جَآءُوۡكَ
+    arabic: جَآءُوكَ
     translation: they come to you
     transliteration: jāūka
   10:
-    arabic: يَحۡلِفُوۡنَ​ۖ
+    arabic: يَحۡلِفُونَ
     translation: swearing
     transliteration: yaḥlifūna
   11:
-    arabic: بِاللّٰهِ
+    arabic: بِٱللَّهِ
     translation: by Allah
     transliteration: bil-lahi
   12:
-    arabic: اِنۡ
+    arabic: إِنۡ
     translation: Not
     transliteration: in
   13:
-    arabic: اَرَدۡنَاۤ
+    arabic: أَرَدۡنَآ
     translation: we intended
     transliteration: aradnā
   14:
-    arabic: اِلَّاۤ
+    arabic: إِلَّآ
     translation: except
     transliteration: illā
   15:
-    arabic: اِحۡسَانًـا
+    arabic: إِحۡسَٰنٗا
     translation: good
     transliteration: iḥ'sānan
   16:
-    arabic: "وَّتَوۡفِيۡقًا‏ \uFEFF\uFEFF"
+    arabic: وَتَوۡفِيقًا
     translation: and reconciliation
     transliteration: watawfīqan
 ---

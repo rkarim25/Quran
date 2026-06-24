@@ -1,8 +1,8 @@
 ---
-arabic_ayat: فَبَدَاَ بِاَوۡعِيَتِهِمۡ قَبۡلَ وِعَآءِ اَخِيۡهِ ثُمَّ اسۡتَخۡرَجَهَا
-  مِنۡ وِّعَآءِ اَخِيۡهِ​ؕ كَذٰلِكَ كِدۡنَا لِيُوۡسُفَ​ؕ مَا كَانَ لِيَاۡخُذَ اَخَاهُ
-  فِىۡ دِيۡنِ الۡمَلِكِ اِلَّاۤ اَنۡ يَّشَآءَ اللّٰهُ​ؕ نَرۡفَعُ دَرَجٰتٍ مَّنۡ نَّشَآءُ​ؕ
-  وَفَوۡقَ كُلِّ ذِىۡ عِلۡمٍ عَلِيۡمٌ‏
+arabic_ayat: فَبَدَأَ بِأَوۡعِيَتِهِمۡ قَبۡلَ وِعَآءِ أَخِيهِ ثُمَّ ٱسۡتَخۡرَجَهَا
+  مِن وِعَآءِ أَخِيهِۚ كَذَٰلِكَ كِدۡنَا لِيُوسُفَۖ مَا كَانَ لِيَأۡخُذَ أَخَاهُ
+  فِي دِينِ ٱلۡمَلِكِ إِلَّآ أَن يَشَآءَ ٱللَّهُۚ نَرۡفَعُ دَرَجَٰتٖ مَّن نَّشَآءُۗ
+  وَفَوۡقَ كُلِّ ذِي عِلۡمٍ عَلِيمٞ
 sentence_translation: Joseph began searching their bags before that of his brother
   ˹Benjamin˺, then brought it out of Benjamin’s bag. This is how We inspired Joseph
   to plan. He could not have taken his brother under the King’s law, but Allah had
@@ -10,11 +10,11 @@ sentence_translation: Joseph began searching their bags before that of his broth
   is the One All-Knowing.
 word_by_word:
   1:
-    arabic: فَبَدَاَ
+    arabic: فَبَدَأَ
     translation: So he began
     transliteration: fabada-a
   2:
-    arabic: بِاَوۡعِيَتِهِمۡ
+    arabic: بِأَوۡعِيَتِهِمۡ
     translation: with their bags
     transliteration: bi-awʿiyatihim
   3:
@@ -26,7 +26,7 @@ word_by_word:
     translation: (the) bag
     transliteration: wiʿāi
   5:
-    arabic: اَخِيۡهِ
+    arabic: أَخِيهِ
     translation: (of) his brother
     transliteration: akhīhi
   6:
@@ -34,23 +34,23 @@ word_by_word:
     translation: then
     transliteration: thumma
   7:
-    arabic: اسۡتَخۡرَجَهَا
+    arabic: ٱسۡتَخۡرَجَهَا
     translation: he brought it out
     transliteration: is'takhrajahā
   8:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   9:
-    arabic: وِّعَآءِ
+    arabic: وِعَآءِ
     translation: (the) bag
     transliteration: wiʿāi
   10:
-    arabic: اَخِيۡهِ​ؕ
+    arabic: أَخِيهِۚ
     translation: (of) his brother
     transliteration: akhīhi
   11:
-    arabic: كَذٰلِكَ
+    arabic: كَذَٰلِكَ
     translation: Thus
     transliteration: kadhālika
   12:
@@ -58,7 +58,7 @@ word_by_word:
     translation: (did) We plan
     transliteration: kid'nā
   13:
-    arabic: لِيُوۡسُفَ​ؕ
+    arabic: لِيُوسُفَۖ
     translation: for Yusuf
     transliteration: liyūsufa
   14:
@@ -70,39 +70,39 @@ word_by_word:
     translation: He could not
     transliteration: kāna
   16:
-    arabic: لِيَاۡخُذَ
+    arabic: لِيَأۡخُذَ
     translation: take
     transliteration: liyakhudha
   17:
-    arabic: اَخَاهُ
+    arabic: أَخَاهُ
     translation: his brother
     transliteration: akhāhu
   18:
-    arabic: فِىۡ
+    arabic: فِي
     translation: by
     transliteration: fī
   19:
-    arabic: دِيۡنِ
+    arabic: دِينِ
     translation: the law
     transliteration: dīni
   20:
-    arabic: الۡمَلِكِ
+    arabic: ٱلۡمَلِكِ
     translation: (of) the king
     transliteration: l-maliki
   21:
-    arabic: اِلَّاۤ
+    arabic: إِلَّآ
     translation: except
     transliteration: illā
   22:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that
     transliteration: an
   23:
-    arabic: يَّشَآءَ
+    arabic: يَشَآءَ
     translation: Allah willed
     transliteration: yashāa
   24:
-    arabic: اللّٰهُ​ؕ
+    arabic: ٱللَّهُۚ
     translation: Allah willed
     transliteration: l-lahu
   25:
@@ -110,15 +110,15 @@ word_by_word:
     translation: We raise
     transliteration: narfaʿu
   26:
-    arabic: دَرَجٰتٍ
+    arabic: دَرَجَٰتٖ
     translation: (in) degrees
     transliteration: darajātin
   27:
-    arabic: مَّنۡ
+    arabic: مَّن
     translation: whom
     transliteration: man
   28:
-    arabic: نَّشَآءُ​ؕ
+    arabic: نَّشَآءُۗ
     translation: We will
     transliteration: nashāu
   29:
@@ -130,7 +130,7 @@ word_by_word:
     translation: every
     transliteration: kulli
   31:
-    arabic: ذِىۡ
+    arabic: ذِي
     translation: possessor
     transliteration: dhī
   32:
@@ -138,7 +138,7 @@ word_by_word:
     translation: (of) knowledge
     transliteration: ʿil'min
   33:
-    arabic: عَلِيۡمٌ‏
+    arabic: عَلِيمٞ
     translation: (is) the All-Knower
     transliteration: ʿalīmun
 ---

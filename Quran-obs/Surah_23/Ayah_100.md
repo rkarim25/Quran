@@ -1,36 +1,36 @@
 ---
-arabic_ayat: لَعَلِّىۡۤ اَعۡمَلُ صَالِحًـا فِيۡمَا تَرَكۡتُ​ؕ كَلَّا​ ؕ اِنَّهَا كَلِمَةٌ
-  هُوَ قَآٮِٕلُهَا​ؕ وَمِنۡ وَّرَآٮِٕهِمۡ بَرۡزَخٌ اِلٰى يَوۡمِ يُبۡعَثُوۡنَ‏
+arabic_ayat: لَعَلِّيٓ أَعۡمَلُ صَٰلِحٗا فِيمَا تَرَكۡتُۚ كـَلَّآۚ إِنَّهَا كَلِمَةٌ
+  هُوَ قَآئِلُهَاۖ وَمِن وَرَآئِهِم بَرۡزَخٌ إِلَىٰ يَوۡمِ يُبۡعَثُونَ
 sentence_translation: so I may do good in what I left behind.” Never! It is only a
   ˹useless˺ appeal they make. And there is a barrier behind them until the Day they
   are resurrected. 
 word_by_word:
   1:
-    arabic: لَعَلِّىۡۤ
+    arabic: لَعَلِّيٓ
     translation: That I may
     transliteration: laʿallī
   2:
-    arabic: اَعۡمَلُ
+    arabic: أَعۡمَلُ
     translation: do
     transliteration: aʿmalu
   3:
-    arabic: صَالِحًـا
+    arabic: صَٰلِحٗا
     translation: righteous (deeds)
     transliteration: ṣāliḥan
   4:
-    arabic: فِيۡمَا
+    arabic: فِيمَا
     translation: in what
     transliteration: fīmā
   5:
-    arabic: تَرَكۡتُ​ؕ
+    arabic: تَرَكۡتُۚ
     translation: I left behind
     transliteration: taraktu
   6:
-    arabic: كَلَّا​ ؕ
+    arabic: كـَلَّآۚ
     translation: 'No'
     transliteration: kallā
   7:
-    arabic: اِنَّهَا
+    arabic: إِنَّهَا
     translation: Indeed, it
     transliteration: innahā
   8:
@@ -42,15 +42,15 @@ word_by_word:
     translation: he
     transliteration: huwa
   10:
-    arabic: قَآٮِٕلُهَا​ؕ
+    arabic: قَآئِلُهَاۖ
     translation: speaks it
     transliteration: qāiluhā
   11:
-    arabic: وَمِنۡ
+    arabic: وَمِن
     translation: and before them
     transliteration: wamin
   12:
-    arabic: وَّرَآٮِٕهِمۡ
+    arabic: وَرَآئِهِم
     translation: and before them
     transliteration: warāihim
   13:
@@ -58,7 +58,7 @@ word_by_word:
     translation: (is) a barrier
     transliteration: barzakhun
   14:
-    arabic: اِلٰى
+    arabic: إِلَىٰ
     translation: till
     transliteration: ilā
   15:
@@ -66,7 +66,7 @@ word_by_word:
     translation: (the) Day
     transliteration: yawmi
   16:
-    arabic: يُبۡعَثُوۡنَ‏
+    arabic: يُبۡعَثُونَ
     translation: they are resurrected
     transliteration: yub'ʿathūna
 ---

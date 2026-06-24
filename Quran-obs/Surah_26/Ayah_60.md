@@ -1,13 +1,13 @@
 ---
-arabic_ayat: فَاَ تۡبَعُوۡهُمۡ مُّشۡرِقِيۡنَ‏
+arabic_ayat: فَأَتۡبَعُوهُم مُّشۡرِقِينَ
 sentence_translation: And so they pursued them at sunrise.
 word_by_word:
   1:
-    arabic: فَاَ تۡبَعُوۡهُمۡ
+    arabic: فَأَتۡبَعُوهُم
     translation: So they followed them
     transliteration: fa-atbaʿūhum
   2:
-    arabic: مُّشۡرِقِيۡنَ‏
+    arabic: مُّشۡرِقِينَ
     translation: (at) sunrise
     transliteration: mush'riqīna
 ---

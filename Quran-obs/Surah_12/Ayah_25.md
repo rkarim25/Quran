@@ -1,17 +1,17 @@
 ---
-arabic_ayat: وَاسۡتَبَقَا الۡبَابَ وَقَدَّتۡ قَمِيۡصَهٗ مِنۡ دُبُرٍ وَّاَلۡفَيَا سَيِّدَهَا
-  لَدَا الۡبَابِ​ؕ قَالَتۡ مَا جَزَآءُ مَنۡ اَرَادَ بِاَهۡلِكَ سُوۡۤءًا اِلَّاۤ اَنۡ
-  يُّسۡجَنَ اَوۡ عَذَابٌ اَلِيۡمٌ‏
+arabic_ayat: وَٱسۡتَبَقَا ٱلۡبَابَ وَقَدَّتۡ قَمِيصَهُۥ مِن دُبُرٖ وَأَلۡفَيَا سَيِّدَهَا
+  لَدَا ٱلۡبَابِۚ قَالَتۡ مَا جَزَآءُ مَنۡ أَرَادَ بِأَهۡلِكَ سُوٓءًا إِلَّآ أَن
+  يُسۡجَنَ أَوۡ عَذَابٌ أَلِيمٞ
 sentence_translation: They raced for the door and she tore his shirt from the back,
   only to find her husband at the door. She cried, “What is the penalty for someone
   who tried to violate your wife, except imprisonment or a painful punishment?”
 word_by_word:
   1:
-    arabic: وَاسۡتَبَقَا
+    arabic: وَٱسۡتَبَقَا
     translation: And they both raced
     transliteration: wa-is'tabaqā
   2:
-    arabic: الۡبَابَ
+    arabic: ٱلۡبَابَ
     translation: (to) the door
     transliteration: l-bāba
   3:
@@ -19,19 +19,19 @@ word_by_word:
     translation: and she tore
     transliteration: waqaddat
   4:
-    arabic: قَمِيۡصَهٗ
+    arabic: قَمِيصَهُۥ
     translation: his shirt
     transliteration: qamīṣahu
   5:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   6:
-    arabic: دُبُرٍ
+    arabic: دُبُرٖ
     translation: the back
     transliteration: duburin
   7:
-    arabic: وَّاَلۡفَيَا
+    arabic: وَأَلۡفَيَا
     translation: and they both found
     transliteration: wa-alfayā
   8:
@@ -43,7 +43,7 @@ word_by_word:
     translation: at
     transliteration: ladā
   10:
-    arabic: الۡبَابِ​ؕ
+    arabic: ٱلۡبَابِۚ
     translation: the door
     transliteration: l-bābi
   11:
@@ -63,31 +63,31 @@ word_by_word:
     translation: (of one) who
     transliteration: man
   15:
-    arabic: اَرَادَ
+    arabic: أَرَادَ
     translation: intended
     transliteration: arāda
   16:
-    arabic: بِاَهۡلِكَ
+    arabic: بِأَهۡلِكَ
     translation: for your wife
     transliteration: bi-ahlika
   17:
-    arabic: سُوۡۤءًا
+    arabic: سُوٓءًا
     translation: evil
     transliteration: sūan
   18:
-    arabic: اِلَّاۤ
+    arabic: إِلَّآ
     translation: except
     transliteration: illā
   19:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that
     transliteration: an
   20:
-    arabic: يُّسۡجَنَ
+    arabic: يُسۡجَنَ
     translation: he be imprisoned
     transliteration: yus'jana
   21:
-    arabic: اَوۡ
+    arabic: أَوۡ
     translation: or
     transliteration: aw
   22:
@@ -95,7 +95,7 @@ word_by_word:
     translation: a punishment
     transliteration: ʿadhābun
   23:
-    arabic: اَلِيۡمٌ‏
+    arabic: أَلِيمٞ
     translation: painful
     transliteration: alīmun
 ---

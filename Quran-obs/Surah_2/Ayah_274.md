@@ -1,37 +1,36 @@
 ---
-arabic_ayat: "اَلَّذِيۡنَ يُنۡفِقُوۡنَ اَمۡوَالَهُمۡ بِالَّيۡلِ وَالنَّهَارِ سِرًّا\
-  \ وَّعَلَانِيَةً فَلَهُمۡ اَجۡرُهُمۡ عِنۡدَ رَبِّهِمۡ​ۚ وَلَا خَوۡفٌ عَلَيۡهِمۡ\
-  \ وَلَا هُمۡ يَحۡزَنُوۡنَ‏ \uFEFF\uFEFF"
+arabic_ayat: ٱلَّذِينَ يُنفِقُونَ أَمۡوَٰلَهُم بِٱلَّيۡلِ وَٱلنَّهَارِ سِرّٗا وَعَلَانِيَةٗ
+  فَلَهُمۡ أَجۡرُهُمۡ عِندَ رَبِّهِمۡ وَلَا خَوۡفٌ عَلَيۡهِمۡ وَلَا هُمۡ يَحۡزَنُونَ
 sentence_translation: Those who spend their wealth in charity day and night, secretly
   and openly—their reward is with their Lord, and there will be no fear for them,
   nor will they grieve.
 word_by_word:
   1:
-    arabic: اَلَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: Those who
     transliteration: alladhīna
   2:
-    arabic: يُنۡفِقُوۡنَ
+    arabic: يُنفِقُونَ
     translation: spend
     transliteration: yunfiqūna
   3:
-    arabic: اَمۡوَالَهُمۡ
+    arabic: أَمۡوَٰلَهُم
     translation: their wealth
     transliteration: amwālahum
   4:
-    arabic: بِالَّيۡلِ
+    arabic: بِٱلَّيۡلِ
     translation: by night
     transliteration: bi-al-layli
   5:
-    arabic: وَالنَّهَارِ
+    arabic: وَٱلنَّهَارِ
     translation: and day
     transliteration: wal-nahāri
   6:
-    arabic: سِرًّا
+    arabic: سِرّٗا
     translation: secretly
     transliteration: sirran
   7:
-    arabic: وَّعَلَانِيَةً
+    arabic: وَعَلَانِيَةٗ
     translation: and openly
     transliteration: waʿalāniyatan
   8:
@@ -39,15 +38,15 @@ word_by_word:
     translation: then for them
     transliteration: falahum
   9:
-    arabic: اَجۡرُهُمۡ
+    arabic: أَجۡرُهُمۡ
     translation: (is) their reward
     transliteration: ajruhum
   10:
-    arabic: عِنۡدَ
+    arabic: عِندَ
     translation: with
     transliteration: ʿinda
   11:
-    arabic: رَبِّهِمۡ​ۚ
+    arabic: رَبِّهِمۡ
     translation: their Lord
     transliteration: rabbihim
   12:
@@ -71,7 +70,7 @@ word_by_word:
     translation: they
     transliteration: hum
   17:
-    arabic: "يَحۡزَنُوۡنَ‏ \uFEFF\uFEFF"
+    arabic: يَحۡزَنُونَ
     translation: will grieve
     transliteration: yaḥzanūna
 ---

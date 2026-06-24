@@ -1,14 +1,14 @@
 ---
-arabic_ayat: فَاِذَا مَسَّ الۡاِنۡسَانَ ضُرٌّ دَعَانَا ثُمَّ اِذَا خَوَّلۡنٰهُ نِعۡمَةً
-  مِّنَّا ۙ قَالَ اِنَّمَاۤ اُوۡتِيۡتُهٗ عَلٰى عِلۡمٍ​ؕ بَلۡ هِىَ فِتۡنَةٌ وَّلٰـكِنَّ
-  اَكۡثَرَهُمۡ لَا يَعۡلَمُوۡنَ‏
+arabic_ayat: فَإِذَا مَسَّ ٱلۡإِنسَٰنَ ضُرّٞ دَعَانَا ثُمَّ إِذَا خَوَّلۡنَٰهُ نِعۡمَةٗ
+  مِّنَّا قَالَ إِنَّمَآ أُوتِيتُهُۥ عَلَىٰ عِلۡمِۭۚ بَلۡ هِيَ فِتۡنَةٞ وَلَٰكِنَّ
+  أَكۡثَرَهُمۡ لَا يَعۡلَمُونَ
 sentence_translation: When one is touched with hardship, they cry out to Us ˹alone˺.
   Then when We shower Our blessings upon them, they say, “I have been granted all
   this only because of ˹my˺ knowledge.” Not at all! It is ˹no more than˺ a test. But
   most of them do not know.
 word_by_word:
   1:
-    arabic: فَاِذَا
+    arabic: فَإِذَا
     translation: So when
     transliteration: fa-idhā
   2:
@@ -16,15 +16,15 @@ word_by_word:
     translation: touches
     transliteration: massa
   3:
-    arabic: الۡاِنۡسَانَ
+    arabic: ٱلۡإِنسَٰنَ
     translation: '[the] man'
     transliteration: l-insāna
   4:
-    arabic: ضُرٌّ
+    arabic: ضُرّٞ
     translation: adversity
     transliteration: ḍurrun
   5:
-    arabic: دَعَانَا
+    arabic: دَعَانَا
     translation: he calls upon Us
     transliteration: daʿānā
   6:
@@ -32,19 +32,19 @@ word_by_word:
     translation: then
     transliteration: thumma
   7:
-    arabic: اِذَا
+    arabic: إِذَا
     translation: when
     transliteration: idhā
   8:
-    arabic: خَوَّلۡنٰهُ
+    arabic: خَوَّلۡنَٰهُ
     translation: We bestow (on) him
     transliteration: khawwalnāhu
   9:
-    arabic: نِعۡمَةً
+    arabic: نِعۡمَةٗ
     translation: a favor
     transliteration: niʿ'matan
   10:
-    arabic: مِّنَّا ۙ
+    arabic: مِّنَّا
     translation: from Us
     transliteration: minnā
   11:
@@ -52,19 +52,19 @@ word_by_word:
     translation: he says
     transliteration: qāla
   12:
-    arabic: اِنَّمَاۤ
+    arabic: إِنَّمَآ
     translation: Only
     transliteration: innamā
   13:
-    arabic: اُوۡتِيۡتُهٗ
+    arabic: أُوتِيتُهُۥ
     translation: I have been given it
     transliteration: ūtītuhu
   14:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: for
     transliteration: ʿalā
   15:
-    arabic: عِلۡمٍ​ؕ
+    arabic: عِلۡمِۭۚ
     translation: knowledge
     transliteration: ʿil'min
   16:
@@ -72,19 +72,19 @@ word_by_word:
     translation: Nay
     transliteration: bal
   17:
-    arabic: هِىَ
+    arabic: هِيَ
     translation: it
     transliteration: hiya
   18:
-    arabic: فِتۡنَةٌ
+    arabic: فِتۡنَةٞ
     translation: (is) a trial
     transliteration: fit'natun
   19:
-    arabic: وَّلٰـكِنَّ
+    arabic: وَلَٰكِنَّ
     translation: but
     transliteration: walākinna
   20:
-    arabic: اَكۡثَرَهُمۡ
+    arabic: أَكۡثَرَهُمۡ
     translation: most of them
     transliteration: aktharahum
   21:
@@ -92,7 +92,7 @@ word_by_word:
     translation: (do) not
     transliteration: lā
   22:
-    arabic: يَعۡلَمُوۡنَ‏
+    arabic: يَعۡلَمُونَ
     translation: know
     transliteration: yaʿlamūna
 ---

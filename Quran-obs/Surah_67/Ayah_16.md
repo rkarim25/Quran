@@ -1,31 +1,31 @@
 ---
-arabic_ayat: ءَاَمِنۡتُمۡ مَّنۡ فِىۡ السَّمَآءِ اَنۡ يَّخۡسِفَ بِكُمُ الۡاَرۡضَ فَاِذَا
-  هِىَ تَمُوۡرُۙ‏
+arabic_ayat: ءَأَمِنتُم مَّن فِي ٱلسَّمَآءِ أَن يَخۡسِفَ بِكُمُ ٱلۡأَرۡضَ فَإِذَا
+  هِيَ تَمُورُ
 sentence_translation: Do you feel secure that the One Who is in heaven will not cause
   the earth to swallow you up as it quakes violently?
 word_by_word:
   1:
-    arabic: ءَاَمِنۡتُمۡ
+    arabic: ءَأَمِنتُم
     translation: Do you feel secure
     transliteration: a-amintum
   2:
-    arabic: مَّنۡ
+    arabic: مَّن
     translation: (from Him) Who
     transliteration: man
   3:
-    arabic: فِىۡ
+    arabic: فِي
     translation: (is) in
     transliteration: fī
   4:
-    arabic: السَّمَآءِ
+    arabic: ٱلسَّمَآءِ
     translation: the heaven
     transliteration: l-samāi
   5:
-    arabic: اَنۡ
+    arabic: أَن
     translation: not
     transliteration: an
   6:
-    arabic: يَّخۡسِفَ
+    arabic: يَخۡسِفَ
     translation: He will cause to swallow
     transliteration: yakhsifa
   7:
@@ -33,19 +33,19 @@ word_by_word:
     translation: you
     transliteration: bikumu
   8:
-    arabic: الۡاَرۡضَ
+    arabic: ٱلۡأَرۡضَ
     translation: the earth
     transliteration: l-arḍa
   9:
-    arabic: فَاِذَا
+    arabic: فَإِذَا
     translation: when
     transliteration: fa-idhā
   10:
-    arabic: هِىَ
+    arabic: هِيَ
     translation: it
     transliteration: hiya
   11:
-    arabic: تَمُوۡرُۙ‏
+    arabic: تَمُورُ
     translation: sways
     transliteration: tamūru
 ---

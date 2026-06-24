@@ -1,9 +1,9 @@
 ---
-arabic_ayat: جَزَآءًۢ بِمَا كَانُوۡا يَعۡمَلُوۡنَ‏
+arabic_ayat: جَزَآءَۢ بِمَا كَانُواْ يَعۡمَلُونَ
 sentence_translation: ˹all˺ as a reward for what they used to do.
 word_by_word:
   1:
-    arabic: جَزَآءًۢ
+    arabic: جَزَآءَۢ
     translation: A reward
     transliteration: jazāan
   2:
@@ -11,11 +11,11 @@ word_by_word:
     translation: for what
     transliteration: bimā
   3:
-    arabic: كَانُوۡا
+    arabic: كَانُواْ
     translation: they used (to)
     transliteration: kānū
   4:
-    arabic: يَعۡمَلُوۡنَ‏
+    arabic: يَعۡمَلُونَ
     translation: do
     transliteration: yaʿmalūna
 ---

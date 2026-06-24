@@ -1,7 +1,6 @@
 ---
-arabic_ayat: "وَلَا يَنۡفَعُكُمۡ نُصۡحِىۡۤ اِنۡ اَرَدْتُّ اَنۡ اَنۡصَحَ لَكُمۡ اِنۡ\
-  \ كَانَ اللّٰهُ يُرِيۡدُ اَنۡ يُّغۡوِيَكُمۡ​ؕ هُوَ رَبُّكُمۡ وَاِلَيۡهِ تُرۡجَعُوۡنَؕ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: وَلَا يَنفَعُكُمۡ نُصۡحِيٓ إِنۡ أَرَدتُّ أَنۡ أَنصَحَ لَكُمۡ إِن كَانَ
+  ٱللَّهُ يُرِيدُ أَن يُغۡوِيَكُمۡۚ هُوَ رَبُّكُمۡ وَإِلَيۡهِ تُرۡجَعُونَ
 sentence_translation: My advice will not benefit you—no matter how hard I try—if Allah
   wills ˹for˺ you to stray. He is your Lord, and to Him you will ˹all˺ be returned.”
 word_by_word:
@@ -10,27 +9,27 @@ word_by_word:
     translation: And (will) not
     transliteration: walā
   2:
-    arabic: يَنۡفَعُكُمۡ
+    arabic: يَنفَعُكُمۡ
     translation: benefit you
     transliteration: yanfaʿukum
   3:
-    arabic: نُصۡحِىۡۤ
+    arabic: نُصۡحِيٓ
     translation: my advice
     transliteration: nuṣ'ḥī
   4:
-    arabic: اِنۡ
+    arabic: إِنۡ
     translation: (even) if
     transliteration: in
   5:
-    arabic: اَرَدْتُّ
+    arabic: أَرَدتُّ
     translation: I wish
     transliteration: aradttu
   6:
-    arabic: اَنۡ
+    arabic: أَنۡ
     translation: to
     transliteration: an
   7:
-    arabic: اَنۡصَحَ
+    arabic: أَنصَحَ
     translation: '[I] advise'
     transliteration: anṣaḥa
   8:
@@ -38,7 +37,7 @@ word_by_word:
     translation: '[to] you'
     transliteration: lakum
   9:
-    arabic: اِنۡ
+    arabic: إِن
     translation: if
     transliteration: in
   10:
@@ -46,19 +45,19 @@ word_by_word:
     translation: it was Allah's
     transliteration: kāna
   11:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: it was Allah's
     transliteration: l-lahu
   12:
-    arabic: يُرِيۡدُ
+    arabic: يُرِيدُ
     translation: will
     transliteration: yurīdu
   13:
-    arabic: اَنۡ
+    arabic: أَن
     translation: to
     transliteration: an
   14:
-    arabic: يُّغۡوِيَكُمۡ​ؕ
+    arabic: يُغۡوِيَكُمۡۚ
     translation: let you go astray
     transliteration: yugh'wiyakum
   15:
@@ -66,15 +65,15 @@ word_by_word:
     translation: He (is)
     transliteration: huwa
   16:
-    arabic: رَبُّكُمۡ
+    arabic: رَبُّكُمۡ
     translation: your Lord
     transliteration: rabbukum
   17:
-    arabic: وَاِلَيۡهِ
+    arabic: وَإِلَيۡهِ
     translation: and to Him
     transliteration: wa-ilayhi
   18:
-    arabic: "تُرۡجَعُوۡنَؕ‏ \uFEFF\uFEFF"
+    arabic: تُرۡجَعُونَ
     translation: you will be returned
     transliteration: tur'jaʿūna
 ---

@@ -1,9 +1,9 @@
 ---
-arabic_ayat: يٰۤـاَيُّهَا الَّذِيۡنَ اٰمَنُوۡا مَنۡ يَّرۡتَدَّ مِنۡكُمۡ عَنۡ دِيۡـنِهٖ
-  فَسَوۡفَ يَاۡتِى اللّٰهُ بِقَوۡمٍ يُّحِبُّهُمۡ وَيُحِبُّوۡنَهٗۤ ۙ اَذِلَّةٍ عَلَى
-  الۡمُؤۡمِنِيۡنَ اَعِزَّةٍ عَلَى الۡكٰفِرِيۡنَ يُجَاهِدُوۡنَ فِىۡ سَبِيۡلِ اللّٰهِ
-  وَلَا يَخَافُوۡنَ لَوۡمَةَ لَاۤٮِٕمٍ​ ؕ ذٰ لِكَ فَضۡلُ اللّٰهِ يُؤۡتِيۡهِ مَنۡ يَّشَآءُ​
-  ؕ وَاللّٰهُ وَاسِعٌ عَلِيۡمٌ‏
+arabic_ayat: يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُواْ مَن يَرۡتَدَّ مِنكُمۡ عَن دِينِهِۦ
+  فَسَوۡفَ يَأۡتِي ٱللَّهُ بِقَوۡمٖ يُحِبُّهُمۡ وَيُحِبُّونَهُۥٓ أَذِلَّةٍ عَلَى ٱلۡمُؤۡمِنِينَ
+  أَعِزَّةٍ عَلَى ٱلۡكَٰفِرِينَ يُجَٰهِدُونَ فِي سَبِيلِ ٱللَّهِ وَلَا يَخَافُونَ
+  لَوۡمَةَ لَآئِمٖۚ ذَٰلِكَ فَضۡلُ ٱللَّهِ يُؤۡتِيهِ مَن يَشَآءُۚ وَٱللَّهُ وَٰسِعٌ
+  عَلِيمٌ
 sentence_translation: O believers! Whoever among you abandons their faith, Allah will
   replace them with others who love Him and are loved by Him. They will be humble
   with the believers but firm towards the disbelievers, struggling in the Way of Allah;
@@ -11,35 +11,35 @@ sentence_translation: O believers! Whoever among you abandons their faith, Allah
   He wills. And Allah is All-Bountiful, All-Knowing.
 word_by_word:
   1:
-    arabic: يٰۤـاَيُّهَا
+    arabic: يَٰٓأَيُّهَا
     translation: O you
     transliteration: yāayyuhā
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ ءَ
     translation: who
     transliteration: alladhīna
   3:
-    arabic: اٰمَنُوۡا
+    arabic: امَنُواْ
     translation: believe
     transliteration: āmanū
   4:
-    arabic: مَنۡ
+    arabic: مَن
     translation: Whoever
     transliteration: man
   5:
-    arabic: يَّرۡتَدَّ
+    arabic: يَرۡتَدَّ
     translation: turns back
     transliteration: yartadda
   6:
-    arabic: مِنۡكُمۡ
+    arabic: مِنكُمۡ
     translation: among you
     transliteration: minkum
   7:
-    arabic: عَنۡ
+    arabic: عَن
     translation: from
     transliteration: ʿan
   8:
-    arabic: دِيۡـنِهٖ
+    arabic: دِينِهِۦ
     translation: his religion
     transliteration: dīnihi
   9:
@@ -47,27 +47,27 @@ word_by_word:
     translation: then soon
     transliteration: fasawfa
   10:
-    arabic: يَاۡتِى
+    arabic: يَأۡتِي
     translation: (will be) brought
     transliteration: yatī
   11:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: (by) Allah
     transliteration: l-lahu
   12:
-    arabic: بِقَوۡمٍ
+    arabic: بِقَوۡمٖ
     translation: a people
     transliteration: biqawmin
   13:
-    arabic: يُّحِبُّهُمۡ
+    arabic: يُحِبُّهُمۡ
     translation: whom He loves
     transliteration: yuḥibbuhum
   14:
-    arabic: وَيُحِبُّوۡنَهٗۤ ۙ
+    arabic: وَيُحِبُّونَهُۥٓ
     translation: and they love Him
     transliteration: wayuḥibbūnahu
   15:
-    arabic: اَذِلَّةٍ
+    arabic: أَذِلَّةٍ
     translation: humble
     transliteration: adhillatin
   16:
@@ -75,11 +75,11 @@ word_by_word:
     translation: towards
     transliteration: ʿalā
   17:
-    arabic: الۡمُؤۡمِنِيۡنَ
+    arabic: ٱلۡمُؤۡمِنِينَ
     translation: the believers
     transliteration: l-mu'minīna
   18:
-    arabic: اَعِزَّةٍ
+    arabic: أَعِزَّةٍ
     translation: (and) stern
     transliteration: aʿizzatin
   19:
@@ -87,23 +87,23 @@ word_by_word:
     translation: towards
     transliteration: ʿalā
   20:
-    arabic: الۡكٰفِرِيۡنَ
+    arabic: ٱلۡكَٰفِرِينَ
     translation: the disbelievers
     transliteration: l-kāfirīna
   21:
-    arabic: يُجَاهِدُوۡنَ
+    arabic: يُجَٰهِدُونَ
     translation: striving
     transliteration: yujāhidūna
   22:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   23:
-    arabic: سَبِيۡلِ
+    arabic: سَبِيلِ
     translation: (the) way
     transliteration: sabīli
   24:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (of) Allah
     transliteration: l-lahi
   25:
@@ -111,7 +111,7 @@ word_by_word:
     translation: and not
     transliteration: walā
   26:
-    arabic: يَخَافُوۡنَ
+    arabic: يَخَافُونَ
     translation: fearing
     transliteration: yakhāfūna
   27:
@@ -119,11 +119,11 @@ word_by_word:
     translation: the blame
     transliteration: lawmata
   28:
-    arabic: لَاۤٮِٕمٍ​ ؕ
+    arabic: لَآئِمٖۚ
     translation: (of) a critic
     transliteration: lāimin
   29:
-    arabic: ذٰ لِكَ
+    arabic: ذَٰلِكَ
     translation: That
     transliteration: dhālika
   30:
@@ -131,31 +131,31 @@ word_by_word:
     translation: (is the) Grace
     transliteration: faḍlu
   31:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (of) Allah
     transliteration: l-lahi
   32:
-    arabic: يُؤۡتِيۡهِ
+    arabic: يُؤۡتِيهِ
     translation: He grants
     transliteration: yu'tīhi
   33:
-    arabic: مَنۡ
+    arabic: مَن
     translation: whom
     transliteration: man
   34:
-    arabic: يَّشَآءُ​ ؕ
+    arabic: يَشَآءُۚ
     translation: He wills
     transliteration: yashāu
   35:
-    arabic: وَاللّٰهُ
+    arabic: وَٱللَّهُ
     translation: And Allah
     transliteration: wal-lahu
   36:
-    arabic: وَاسِعٌ
+    arabic: وَٰسِعٌ
     translation: (is) All-Encompassing
     transliteration: wāsiʿun
   37:
-    arabic: عَلِيۡمٌ‏
+    arabic: عَلِيمٌ
     translation: All-Knowing
     transliteration: ʿalīmun
 ---

@@ -1,9 +1,8 @@
 ---
-arabic_ayat: يٰۤـاَيُّهَا الَّذِيۡنَ اٰمَنُوۡا لَا يَحِلُّ لَـكُمۡ اَنۡ تَرِثُوا النِّسَآءَ
-  كَرۡهًا​ ؕ وَلَا تَعۡضُلُوۡهُنَّ لِتَذۡهَبُوۡا بِبَعۡضِ مَاۤ اٰتَيۡتُمُوۡهُنَّ اِلَّاۤ
-  اَنۡ يَّاۡتِيۡنَ بِفَاحِشَةٍ مُّبَيِّنَةٍ​ ۚ وَعَاشِرُوۡهُنَّ بِالۡمَعۡرُوۡفِ​ ۚ
-  فَاِنۡ كَرِهۡتُمُوۡهُنَّ فَعَسٰۤى اَنۡ تَكۡرَهُوۡا شَيۡــًٔـا وَّيَجۡعَلَ اللّٰهُ
-  فِيۡهِ خَيۡرًا كَثِيۡرًا‏
+arabic_ayat: يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُواْ لَا يَحِلُّ لَكُمۡ أَن تَرِثُواْ ٱلنِّسَآءَ
+  كَرۡهٗاۖ وَلَا تَعۡضُلُوهُنَّ لِتَذۡهَبُواْ بِبَعۡضِ مَآ ءَاتَيۡتُمُوهُنَّ إِلَّآ
+  أَن يَأۡتِينَ بِفَٰحِشَةٖ مُّبَيِّنَةٖۚ وَعَاشِرُوهُنَّ بِٱلۡمَعۡرُوفِۚ فَإِن كَرِهۡتُمُوهُنَّ
+  فَعَسَىٰٓ أَن تَكۡرَهُواْ شَيۡـٔٗا وَيَجۡعَلَ ٱللَّهُ فِيهِ خَيۡرٗا كَثِيرٗا
 sentence_translation: O believers! It is not permissible for you to inherit women
   against their will or mistreat them to make them return some of the dowry ˹as a
   ransom for divorce˺—unless they are found guilty of adultery. Treat them fairly.
@@ -11,15 +10,15 @@ sentence_translation: O believers! It is not permissible for you to inherit wome
   blessing.
 word_by_word:
   1:
-    arabic: يٰۤـاَيُّهَا
+    arabic: يَٰٓأَيُّهَا
     translation: O you
     transliteration: yāayyuhā
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ ءَ
     translation: who
     transliteration: alladhīna
   3:
-    arabic: اٰمَنُوۡا
+    arabic: امَنُواْ
     translation: believe[d]
     transliteration: āmanū
   4:
@@ -31,23 +30,23 @@ word_by_word:
     translation: (is) lawful
     transliteration: yaḥillu
   6:
-    arabic: لَـكُمۡ
+    arabic: لَكُمۡ
     translation: for you
     transliteration: lakum
   7:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that
     transliteration: an
   8:
-    arabic: تَرِثُوا
+    arabic: تَرِثُواْ
     translation: you inherit
     transliteration: tarithū
   9:
-    arabic: النِّسَآءَ
+    arabic: ٱلنِّسَآءَ
     translation: the women
     transliteration: l-nisāa
   10:
-    arabic: كَرۡهًا​ ؕ
+    arabic: كَرۡهٗاۖ
     translation: (by) force
     transliteration: karhan
   11:
@@ -55,11 +54,11 @@ word_by_word:
     translation: And not
     transliteration: walā
   12:
-    arabic: تَعۡضُلُوۡهُنَّ
+    arabic: تَعۡضُلُوهُنَّ
     translation: you constraint them
     transliteration: taʿḍulūhunna
   13:
-    arabic: لِتَذۡهَبُوۡا
+    arabic: لِتَذۡهَبُواْ
     translation: so that you may take
     transliteration: litadhhabū
   14:
@@ -67,83 +66,83 @@ word_by_word:
     translation: a part
     transliteration: bibaʿḍi
   15:
-    arabic: مَاۤ
+    arabic: مَآ ءَ
     translation: (of) what
     transliteration: mā
   16:
-    arabic: اٰتَيۡتُمُوۡهُنَّ
+    arabic: اتَيۡتُمُوهُنَّ
     translation: you have given them
     transliteration: ātaytumūhunna
   17:
-    arabic: اِلَّاۤ
+    arabic: إِلَّآ
     translation: except
     transliteration: illā
   18:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that
     transliteration: an
   19:
-    arabic: يَّاۡتِيۡنَ
+    arabic: يَأۡتِينَ
     translation: they commit
     transliteration: yatīna
   20:
-    arabic: بِفَاحِشَةٍ
+    arabic: بِفَٰحِشَةٖ
     translation: immorality
     transliteration: bifāḥishatin
   21:
-    arabic: مُّبَيِّنَةٍ​ ۚ
+    arabic: مُّبَيِّنَةٖۚ
     translation: open
     transliteration: mubayyinatin
   22:
-    arabic: وَعَاشِرُوۡهُنَّ
+    arabic: وَعَاشِرُوهُنَّ
     translation: And live with them
     transliteration: waʿāshirūhunna
   23:
-    arabic: بِالۡمَعۡرُوۡفِ​ ۚ
+    arabic: بِٱلۡمَعۡرُوفِۚ
     translation: in kindness
     transliteration: bil-maʿrūfi
   24:
-    arabic: فَاِنۡ
+    arabic: فَإِن
     translation: But if
     transliteration: fa-in
   25:
-    arabic: كَرِهۡتُمُوۡهُنَّ
+    arabic: كَرِهۡتُمُوهُنَّ
     translation: you dislike them
     transliteration: karih'tumūhunna
   26:
-    arabic: فَعَسٰۤى
+    arabic: فَعَسَىٰٓ
     translation: then perhaps
     transliteration: faʿasā
   27:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that
     transliteration: an
   28:
-    arabic: تَكۡرَهُوۡا
+    arabic: تَكۡرَهُواْ
     translation: you dislike
     transliteration: takrahū
   29:
-    arabic: شَيۡــًٔـا
+    arabic: شَيۡـٔٗا
     translation: a thing
     transliteration: shayan
   30:
-    arabic: وَّيَجۡعَلَ
+    arabic: وَيَجۡعَلَ
     translation: and has placed
     transliteration: wayajʿala
   31:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   32:
-    arabic: فِيۡهِ
+    arabic: فِيهِ
     translation: in it
     transliteration: fīhi
   33:
-    arabic: خَيۡرًا
+    arabic: خَيۡرٗا
     translation: good
     transliteration: khayran
   34:
-    arabic: كَثِيۡرًا‏
+    arabic: كَثِيرٗا
     translation: much
     transliteration: kathīran
 ---

@@ -1,6 +1,6 @@
 ---
-arabic_ayat: وَيَوۡمَ نَحۡشُرُهُمۡ جَمِيۡعًا ثُمَّ نَقُوۡلُ لِلَّذِيۡنَ اَشۡرَكُوۡۤا
-  اَيۡنَ شُرَكَآؤُكُمُ الَّذِيۡنَ كُنۡتُمۡ تَزۡعُمُوۡنَ‏
+arabic_ayat: وَيَوۡمَ نَحۡشُرُهُمۡ جَمِيعٗا ثُمَّ نَقُولُ لِلَّذِينَ أَشۡرَكُوٓاْ
+  أَيۡنَ شُرَكَآؤُكُمُ ٱلَّذِينَ كُنتُمۡ تَزۡعُمُونَ
 sentence_translation: ˹Consider˺ the Day We will gather them all together then ask
   those who associated others ˹with Allah in worship˺, “Where are those gods you used
   to claim?”
@@ -14,7 +14,7 @@ word_by_word:
     translation: We will gather them
     transliteration: naḥshuruhum
   3:
-    arabic: جَمِيۡعًا
+    arabic: جَمِيعٗا
     translation: all
     transliteration: jamīʿan
   4:
@@ -22,19 +22,19 @@ word_by_word:
     translation: then
     transliteration: thumma
   5:
-    arabic: نَقُوۡلُ
+    arabic: نَقُولُ
     translation: We will say
     transliteration: naqūlu
   6:
-    arabic: لِلَّذِيۡنَ
+    arabic: لِلَّذِينَ
     translation: to those who
     transliteration: lilladhīna
   7:
-    arabic: اَشۡرَكُوۡۤا
+    arabic: أَشۡرَكُوٓاْ
     translation: associated others with Allah
     transliteration: ashrakū
   8:
-    arabic: اَيۡنَ
+    arabic: أَيۡنَ
     translation: Where (are)
     transliteration: ayna
   9:
@@ -42,15 +42,15 @@ word_by_word:
     translation: your partners
     transliteration: shurakāukumu
   10:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those whom
     transliteration: alladhīna
   11:
-    arabic: كُنۡتُمۡ
+    arabic: كُنتُمۡ
     translation: you used to
     transliteration: kuntum
   12:
-    arabic: تَزۡعُمُوۡنَ‏
+    arabic: تَزۡعُمُونَ
     translation: claim
     transliteration: tazʿumūna
 ---

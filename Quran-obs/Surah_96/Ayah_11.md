@@ -1,13 +1,13 @@
 ---
-arabic_ayat: اَرَءَيۡتَ اِنۡ كَانَ عَلَى الۡهُدٰٓىۙ‏
+arabic_ayat: أَرَءَيۡتَ إِن كَانَ عَلَى ٱلۡهُدَىٰٓ
 sentence_translation: What if this ˹servant˺ is ˹rightly˺ guided,
 word_by_word:
   1:
-    arabic: اَرَءَيۡتَ
+    arabic: أَرَءَيۡتَ
     translation: Have you seen
     transliteration: ara-ayta
   2:
-    arabic: اِنۡ
+    arabic: إِن
     translation: if
     transliteration: in
   3:
@@ -19,7 +19,7 @@ word_by_word:
     translation: upon
     transliteration: ʿalā
   5:
-    arabic: الۡهُدٰٓىۙ‏
+    arabic: ٱلۡهُدَىٰٓ
     translation: '[the] guidance'
     transliteration: l-hudā
 ---

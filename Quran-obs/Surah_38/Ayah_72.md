@@ -1,15 +1,14 @@
 ---
-arabic_ayat: "فَاِذَا سَوَّيۡتُهٗ وَنَفَخۡتُ فِيۡهِ مِنۡ رُّوۡحِىۡ فَقَعُوۡا لَهٗ\
-  \ سٰجِدِيۡنَ‏ \uFEFF\uFEFF"
+arabic_ayat: فَإِذَا سَوَّيۡتُهُۥ وَنَفَخۡتُ فِيهِ مِن رُّوحِي فَقَعُواْ لَهُۥ سَٰجِدِينَ
 sentence_translation: So when I have fashioned him and had a spirit of My Own ˹creation˺
   breathed into him, fall down in prostration to him.”
 word_by_word:
   1:
-    arabic: فَاِذَا
+    arabic: فَإِذَا
     translation: So when
     transliteration: fa-idhā
   2:
-    arabic: سَوَّيۡتُهٗ
+    arabic: سَوَّيۡتُهُۥ
     translation: I have proportioned him
     transliteration: sawwaytuhu
   3:
@@ -17,27 +16,27 @@ word_by_word:
     translation: and breathed
     transliteration: wanafakhtu
   4:
-    arabic: فِيۡهِ
+    arabic: فِيهِ
     translation: into him
     transliteration: fīhi
   5:
-    arabic: مِنۡ
+    arabic: مِن
     translation: of
     transliteration: min
   6:
-    arabic: رُّوۡحِىۡ
+    arabic: رُّوحِي
     translation: My spirit
     transliteration: rūḥī
   7:
-    arabic: فَقَعُوۡا
+    arabic: فَقَعُواْ
     translation: then fall down
     transliteration: faqaʿū
   8:
-    arabic: لَهٗ
+    arabic: لَهُۥ
     translation: to him
     transliteration: lahu
   9:
-    arabic: "سٰجِدِيۡنَ‏ \uFEFF\uFEFF"
+    arabic: سَٰجِدِينَ
     translation: prostrating
     transliteration: sājidīna
 ---

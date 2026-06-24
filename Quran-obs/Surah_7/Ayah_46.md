@@ -1,7 +1,7 @@
 ---
-arabic_ayat: وَبَيۡنَهُمَا حِجَابٌ​ۚ وَعَلَى الۡاَعۡرَافِ رِجَالٌ يَّعۡرِفُوۡنَ كُلًّاۢ
-  بِسِيۡمٰٮهُمۡ​ ۚ وَنَادَوۡا اَصۡحٰبَ الۡجَـنَّةِ اَنۡ سَلٰمٌ عَلَيۡكُمۡ​ لَمۡ يَدۡخُلُوۡهَا
-  وَهُمۡ يَطۡمَعُوۡنَ‏
+arabic_ayat: وَبَيۡنَهُمَا حِجَابٞۚ وَعَلَى ٱلۡأَعۡرَافِ رِجَالٞ يَعۡرِفُونَ كُلَّۢا
+  بِسِيمَىٰهُمۡۚ وَنَادَوۡاْ أَصۡحَٰبَ ٱلۡجَنَّةِ أَن سَلَٰمٌ عَلَيۡكُمۡۚ لَمۡ يَدۡخُلُوهَا
+  وَهُمۡ يَطۡمَعُونَ
 sentence_translation: There will be a barrier between Paradise and Hell. And on the
   heights ˹of that barrier˺ will be people who will recognize ˹the residents of˺ both
   by their appearance. They will call out to the residents of Paradise, “Peace be
@@ -12,7 +12,7 @@ word_by_word:
     translation: And between them
     transliteration: wabaynahumā
   2:
-    arabic: حِجَابٌ​ۚ
+    arabic: حِجَابٞۚ
     translation: (will be) a partition
     transliteration: ḥijābun
   3:
@@ -20,47 +20,47 @@ word_by_word:
     translation: and on
     transliteration: waʿalā
   4:
-    arabic: الۡاَعۡرَافِ
+    arabic: ٱلۡأَعۡرَافِ
     translation: the heights
     transliteration: l-aʿrāfi
   5:
-    arabic: رِجَالٌ
+    arabic: رِجَالٞ
     translation: (will be) men
     transliteration: rijālun
   6:
-    arabic: يَّعۡرِفُوۡنَ
+    arabic: يَعۡرِفُونَ
     translation: recognizing
     transliteration: yaʿrifūna
   7:
-    arabic: كُلًّاۢ
+    arabic: كُلَّۢا
     translation: all
     transliteration: kullan
   8:
-    arabic: بِسِيۡمٰٮهُمۡ​ ۚ
+    arabic: بِسِيمَىٰهُمۡۚ
     translation: by their marks
     transliteration: bisīmāhum
   9:
-    arabic: وَنَادَوۡا
+    arabic: وَنَادَوۡاْ
     translation: And they will call out
     transliteration: wanādaw
   10:
-    arabic: اَصۡحٰبَ
+    arabic: أَصۡحَٰبَ
     translation: (to the) companions
     transliteration: aṣḥāba
   11:
-    arabic: الۡجَـنَّةِ
+    arabic: ٱلۡجَنَّةِ
     translation: (of) Paradise
     transliteration: l-janati
   12:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that
     transliteration: an
   13:
-    arabic: سَلٰمٌ
+    arabic: سَلَٰمٌ
     translation: Peace
     transliteration: salāmun
   14:
-    arabic: عَلَيۡكُمۡ​
+    arabic: عَلَيۡكُمۡۚ
     translation: (be) upon you
     transliteration: ʿalaykum
   15:
@@ -68,7 +68,7 @@ word_by_word:
     translation: Not
     transliteration: lam
   16:
-    arabic: يَدۡخُلُوۡهَا
+    arabic: يَدۡخُلُوهَا
     translation: they have entered it
     transliteration: yadkhulūhā
   17:
@@ -76,7 +76,7 @@ word_by_word:
     translation: but they
     transliteration: wahum
   18:
-    arabic: يَطۡمَعُوۡنَ‏
+    arabic: يَطۡمَعُونَ
     translation: hope
     transliteration: yaṭmaʿūna
 ---

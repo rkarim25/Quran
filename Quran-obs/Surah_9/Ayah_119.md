@@ -1,30 +1,29 @@
 ---
-arabic_ayat: "يٰۤـاَيُّهَا الَّذِيۡنَ اٰمَنُوا اتَّقُوا اللّٰهَ وَكُوۡنُوۡا مَعَ الصّٰدِقِيۡنَ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُواْ ٱتَّقُواْ ٱللَّهَ وَكُونُواْ مَعَ ٱلصَّٰدِقِينَ
 sentence_translation: O  believers! Be mindful of Allah and be with the truthful.
 word_by_word:
   1:
-    arabic: يٰۤـاَيُّهَا
+    arabic: يَٰٓأَيُّهَا
     translation: O you who believe
     transliteration: yāayyuhā
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ ءَ
     translation: O you who believe
     transliteration: alladhīna
   3:
-    arabic: اٰمَنُوا
+    arabic: امَنُواْ
     translation: O you who believe
     transliteration: āmanū
   4:
-    arabic: اتَّقُوا
+    arabic: ٱتَّقُواْ
     translation: Fear
     transliteration: ittaqū
   5:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   6:
-    arabic: وَكُوۡنُوۡا
+    arabic: وَكُونُواْ
     translation: and be
     transliteration: wakūnū
   7:
@@ -32,7 +31,7 @@ word_by_word:
     translation: with
     transliteration: maʿa
   8:
-    arabic: "الصّٰدِقِيۡنَ‏ \uFEFF\uFEFF"
+    arabic: ٱلصَّٰدِقِينَ
     translation: those who are truthful
     transliteration: l-ṣādiqīna
 ---

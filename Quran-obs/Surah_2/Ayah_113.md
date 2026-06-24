@@ -1,8 +1,8 @@
 ---
-arabic_ayat: وَقَالَتِ الۡيَهُوۡدُ لَـيۡسَتِ النَّصٰرٰى عَلٰى شَىۡءٍ وَّقَالَتِ النَّصٰرٰى
-  لَـيۡسَتِ الۡيَهُوۡدُ عَلٰى شَىۡءٍۙ وَّهُمۡ يَتۡلُوۡنَ الۡكِتٰبَؕ كَذٰلِكَ قَالَ
-  الَّذِيۡنَ لَا يَعۡلَمُوۡنَ مِثۡلَ قَوۡلِهِمۡ​ۚ فَاللّٰهُ يَحۡكُمُ بَيۡنَهُمۡ يَوۡمَ
-  الۡقِيٰمَةِ فِيۡمَا كَانُوۡا فِيۡهِ يَخۡتَلِفُوۡنَ‏
+arabic_ayat: وَقَالَتِ ٱلۡيَهُودُ لَيۡسَتِ ٱلنَّصَٰرَىٰ عَلَىٰ شَيۡءٖ وَقَالَتِ ٱلنَّصَٰرَىٰ
+  لَيۡسَتِ ٱلۡيَهُودُ عَلَىٰ شَيۡءٖ وَهُمۡ يَتۡلُونَ ٱلۡكِتَٰبَۗ كَذَٰلِكَ قَالَ ٱلَّذِينَ
+  لَا يَعۡلَمُونَ مِثۡلَ قَوۡلِهِمۡۚ فَٱللَّهُ يَحۡكُمُ بَيۡنَهُمۡ يَوۡمَ ٱلۡقِيَٰمَةِ
+  فِيمَا كَانُواْ فِيهِ يَخۡتَلِفُونَ
 sentence_translation: The Jews say, “The Christians have nothing to stand on” and
   the Christians say, “The Jews have nothing to stand on,” although both recite the
   Scriptures. And those ˹pagans˺ who have no knowledge say the same ˹about people
@@ -14,63 +14,63 @@ word_by_word:
     translation: And said
     transliteration: waqālati
   2:
-    arabic: الۡيَهُوۡدُ
+    arabic: ٱلۡيَهُودُ
     translation: the Jews
     transliteration: l-yahūdu
   3:
-    arabic: لَـيۡسَتِ
+    arabic: لَيۡسَتِ
     translation: Not
     transliteration: laysati
   4:
-    arabic: النَّصٰرٰى
+    arabic: ٱلنَّصَٰرَىٰ
     translation: the Christians
     transliteration: l-naṣārā
   5:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: (are) on
     transliteration: ʿalā
   6:
-    arabic: شَىۡءٍ
+    arabic: شَيۡءٖ
     translation: anything
     transliteration: shayin
   7:
-    arabic: وَّقَالَتِ
+    arabic: وَقَالَتِ
     translation: and said
     transliteration: waqālati
   8:
-    arabic: النَّصٰرٰى
+    arabic: ٱلنَّصَٰرَىٰ
     translation: the Christians
     transliteration: l-naṣārā
   9:
-    arabic: لَـيۡسَتِ
+    arabic: لَيۡسَتِ
     translation: Not
     transliteration: laysati
   10:
-    arabic: الۡيَهُوۡدُ
+    arabic: ٱلۡيَهُودُ
     translation: the Jews
     transliteration: l-yahūdu
   11:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: (are) on
     transliteration: ʿalā
   12:
-    arabic: شَىۡءٍۙ
+    arabic: شَيۡءٖ
     translation: anything
     transliteration: shayin
   13:
-    arabic: وَّهُمۡ
+    arabic: وَهُمۡ
     translation: although they
     transliteration: wahum
   14:
-    arabic: يَتۡلُوۡنَ
+    arabic: يَتۡلُونَ
     translation: recite
     transliteration: yatlūna
   15:
-    arabic: الۡكِتٰبَؕ
+    arabic: ٱلۡكِتَٰبَۗ
     translation: the Book
     transliteration: l-kitāba
   16:
-    arabic: كَذٰلِكَ
+    arabic: كَذَٰلِكَ
     translation: Like that
     transliteration: kadhālika
   17:
@@ -78,7 +78,7 @@ word_by_word:
     translation: said
     transliteration: qāla
   18:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   19:
@@ -86,7 +86,7 @@ word_by_word:
     translation: (do) not
     transliteration: lā
   20:
-    arabic: يَعۡلَمُوۡنَ
+    arabic: يَعۡلَمُونَ
     translation: know
     transliteration: yaʿlamūna
   21:
@@ -94,11 +94,11 @@ word_by_word:
     translation: similar
     transliteration: mith'la
   22:
-    arabic: قَوۡلِهِمۡ​ۚ
+    arabic: قَوۡلِهِمۡۚ
     translation: their saying
     transliteration: qawlihim
   23:
-    arabic: فَاللّٰهُ
+    arabic: فَٱللَّهُ
     translation: '[So] Allah'
     transliteration: fal-lahu
   24:
@@ -114,23 +114,23 @@ word_by_word:
     translation: (on the) Day
     transliteration: yawma
   27:
-    arabic: الۡقِيٰمَةِ
+    arabic: ٱلۡقِيَٰمَةِ
     translation: (of) Resurrection
     transliteration: l-qiyāmati
   28:
-    arabic: فِيۡمَا
+    arabic: فِيمَا
     translation: in what
     transliteration: fīmā
   29:
-    arabic: كَانُوۡا
+    arabic: كَانُواْ
     translation: they were
     transliteration: kānū
   30:
-    arabic: فِيۡهِ
+    arabic: فِيهِ
     translation: '[in it]'
     transliteration: fīhi
   31:
-    arabic: يَخۡتَلِفُوۡنَ‏
+    arabic: يَخۡتَلِفُونَ
     translation: differing
     transliteration: yakhtalifūna
 ---

@@ -1,11 +1,11 @@
 ---
-arabic_ayat: فِىۡ بِضۡعِ سِنِيۡنَ ؕ لِلّٰهِ الۡاَمۡرُ مِنۡ قَبۡلُ وَمِنۡۢ بَعۡدُ
-  ؕ وَيَوۡمَٮِٕذٍ يَّفۡرَحُ الۡمُؤۡمِنُوۡنَ ۙ‏
+arabic_ayat: فِي بِضۡعِ سِنِينَۗ لِلَّهِ ٱلۡأَمۡرُ مِن قَبۡلُ وَمِنۢ بَعۡدُۚ وَيَوۡمَئِذٖ
+  يَفۡرَحُ ٱلۡمُؤۡمِنُونَ
 sentence_translation: within three to nine years. The ˹whole˺ matter rests with Allah
   before and after ˹victory˺. And on that day the believers will rejoice
 word_by_word:
   1:
-    arabic: فِىۡ
+    arabic: فِي
     translation: Within
     transliteration: fī
   2:
@@ -13,19 +13,19 @@ word_by_word:
     translation: a few
     transliteration: biḍ'ʿi
   3:
-    arabic: سِنِيۡنَ ؕ
+    arabic: سِنِينَۗ
     translation: years
     transliteration: sinīna
   4:
-    arabic: لِلّٰهِ
+    arabic: لِلَّهِ
     translation: For Allah
     transliteration: lillahi
   5:
-    arabic: الۡاَمۡرُ
+    arabic: ٱلۡأَمۡرُ
     translation: (is) the command
     transliteration: l-amru
   6:
-    arabic: مِنۡ
+    arabic: مِن
     translation: before
     transliteration: min
   7:
@@ -33,23 +33,23 @@ word_by_word:
     translation: before
     transliteration: qablu
   8:
-    arabic: وَمِنۡۢ
+    arabic: وَمِنۢ
     translation: and after
     transliteration: wamin
   9:
-    arabic: بَعۡدُ ؕ
+    arabic: بَعۡدُۚ
     translation: and after
     transliteration: baʿdu
   10:
-    arabic: وَيَوۡمَٮِٕذٍ
+    arabic: وَيَوۡمَئِذٖ
     translation: And that day
     transliteration: wayawma-idhin
   11:
-    arabic: يَّفۡرَحُ
+    arabic: يَفۡرَحُ
     translation: will rejoice
     transliteration: yafraḥu
   12:
-    arabic: الۡمُؤۡمِنُوۡنَ ۙ‏
+    arabic: ٱلۡمُؤۡمِنُونَ
     translation: the believers
     transliteration: l-mu'minūna
 ---

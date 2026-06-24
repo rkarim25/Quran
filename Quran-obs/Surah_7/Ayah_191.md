@@ -1,11 +1,10 @@
 ---
-arabic_ayat: "اَيُشۡرِكُوۡنَ مَا لَا يَخۡلُقُ شَيۡـًٔـــا وَّهُمۡ يُخۡلَقُوۡنَ​ ​ۖ\
-  \ ‏ \uFEFF\uFEFF"
+arabic_ayat: أَيُشۡرِكُونَ مَا لَا يَخۡلُقُ شَيۡـٔٗا وَهُمۡ يُخۡلَقُونَ
 sentence_translation: Do they associate ˹with Allah˺ those ˹idols˺ which cannot create
   anything, but are in fact created;
 word_by_word:
   1:
-    arabic: اَيُشۡرِكُوۡنَ
+    arabic: أَيُشۡرِكُونَ
     translation: Do they associate
     transliteration: ayush'rikūna
   2:
@@ -21,15 +20,15 @@ word_by_word:
     translation: create
     transliteration: yakhluqu
   5:
-    arabic: شَيۡـًٔـــا
+    arabic: شَيۡـٔٗا
     translation: anything
     transliteration: shayan
   6:
-    arabic: وَّهُمۡ
+    arabic: وَهُمۡ
     translation: and they
     transliteration: wahum
   7:
-    arabic: "يُخۡلَقُوۡنَ​ ​ۖ ‏ \uFEFF\uFEFF"
+    arabic: يُخۡلَقُونَ
     translation: are created
     transliteration: yukh'laqūna
 ---

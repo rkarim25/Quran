@@ -1,10 +1,10 @@
 ---
-arabic_ayat: كَذٰلِكَ يُبَيِّنُ اللّٰهُ لَـکُمۡ اٰيٰتِهٖ لَعَلَّكُمۡ تَعۡقِلُوۡنَ‏
+arabic_ayat: كَذَٰلِكَ يُبَيِّنُ ٱللَّهُ لَكُمۡ ءَايَٰتِهِۦ لَعَلَّكُمۡ تَعۡقِلُونَ
 sentence_translation: This is how Allah makes His revelations clear to you, so perhaps
   you will understand.
 word_by_word:
   1:
-    arabic: كَذٰلِكَ
+    arabic: كَذَٰلِكَ
     translation: Thus
     transliteration: kadhālika
   2:
@@ -12,15 +12,15 @@ word_by_word:
     translation: makes clear
     transliteration: yubayyinu
   3:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   4:
-    arabic: لَـکُمۡ
+    arabic: لَكُمۡ ءَ
     translation: for you
     transliteration: lakum
   5:
-    arabic: اٰيٰتِهٖ
+    arabic: ايَٰتِهِۦ
     translation: His Verses
     transliteration: āyātihi
   6:
@@ -28,7 +28,7 @@ word_by_word:
     translation: so that you may
     transliteration: laʿallakum
   7:
-    arabic: تَعۡقِلُوۡنَ‏
+    arabic: تَعۡقِلُونَ
     translation: use your intellect
     transliteration: taʿqilūna
 ---

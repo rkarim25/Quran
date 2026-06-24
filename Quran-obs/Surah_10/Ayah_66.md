@@ -1,45 +1,45 @@
 ---
-arabic_ayat: اَلَاۤ اِنَّ لِلّٰهِ مَنۡ فِى السَّمٰوٰتِ وَمَنۡ فِى الۡاَرۡضِ​ؕ وَمَا
-  يَتَّبِعُ الَّذِيۡنَ يَدۡعُوۡنَ مِنۡ دُوۡنِ اللّٰهِ شُرَكَآءَ​ ؕ اِنۡ يَّتَّبِعُوۡنَ
-  اِلَّا الظَّنَّ وَاِنۡ هُمۡ اِلَّا يَخۡرُصُوۡنَ‏
+arabic_ayat: أَلَآ إِنَّ لِلَّهِ مَن فِي ٱلسَّمَٰوَٰتِ وَمَن فِي ٱلۡأَرۡضِۗ وَمَا
+  يَتَّبِعُ ٱلَّذِينَ يَدۡعُونَ مِن دُونِ ٱللَّهِ شُرَكَآءَۚ إِن يَتَّبِعُونَ إِلَّا
+  ٱلظَّنَّ وَإِنۡ هُمۡ إِلَّا يَخۡرُصُونَ
 sentence_translation: Certainly to Allah ˹alone˺ belong all those in the heavens and
   all those on the earth. And what do those who associate others with Allah really
   follow? They follow nothing but assumptions and do nothing but lie.
 word_by_word:
   1:
-    arabic: اَلَاۤ
+    arabic: أَلَآ
     translation: No doubt
     transliteration: alā
   2:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   3:
-    arabic: لِلّٰهِ
+    arabic: لِلَّهِ
     translation: to Allah (belongs)
     transliteration: lillahi
   4:
-    arabic: مَنۡ
+    arabic: مَن
     translation: whoever
     transliteration: man
   5:
-    arabic: فِى
+    arabic: فِي
     translation: (is) in
     transliteration: fī
   6:
-    arabic: السَّمٰوٰتِ
+    arabic: ٱلسَّمَٰوَٰتِ
     translation: the heavens
     transliteration: l-samāwāti
   7:
-    arabic: وَمَنۡ
+    arabic: وَمَن
     translation: and whoever
     transliteration: waman
   8:
-    arabic: فِى
+    arabic: فِي
     translation: (is) in
     transliteration: fī
   9:
-    arabic: الۡاَرۡضِ​ؕ
+    arabic: ٱلۡأَرۡضِۗ
     translation: the earth
     transliteration: l-arḍi
   10:
@@ -51,47 +51,47 @@ word_by_word:
     translation: follow
     transliteration: yattabiʿu
   12:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   13:
-    arabic: يَدۡعُوۡنَ
+    arabic: يَدۡعُونَ
     translation: invoke
     transliteration: yadʿūna
   14:
-    arabic: مِنۡ
+    arabic: مِن
     translation: other than Allah
     transliteration: min
   15:
-    arabic: دُوۡنِ
+    arabic: دُونِ
     translation: other than Allah
     transliteration: dūni
   16:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: other than Allah
     transliteration: l-lahi
   17:
-    arabic: شُرَكَآءَ​ ؕ
+    arabic: شُرَكَآءَۚ
     translation: partners
     transliteration: shurakāa
   18:
-    arabic: اِنۡ
+    arabic: إِن
     translation: Not
     transliteration: in
   19:
-    arabic: يَّتَّبِعُوۡنَ
+    arabic: يَتَّبِعُونَ
     translation: they follow
     transliteration: yattabiʿūna
   20:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: but
     transliteration: illā
   21:
-    arabic: الظَّنَّ
+    arabic: ٱلظَّنَّ
     translation: the assumption
     transliteration: l-ẓana
   22:
-    arabic: وَاِنۡ
+    arabic: وَإِنۡ
     translation: and not
     transliteration: wa-in
   23:
@@ -99,11 +99,11 @@ word_by_word:
     translation: they
     transliteration: hum
   24:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: but
     transliteration: illā
   25:
-    arabic: يَخۡرُصُوۡنَ‏
+    arabic: يَخۡرُصُونَ
     translation: guess
     transliteration: yakhruṣūna
 ---

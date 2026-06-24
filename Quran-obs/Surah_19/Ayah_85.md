@@ -1,5 +1,5 @@
 ---
-arabic_ayat: يَوۡمَ نَحۡشُرُ الۡمُتَّقِيۡنَ اِلَى الرَّحۡمٰنِ وَفۡدًا​ ۙ‏
+arabic_ayat: يَوۡمَ نَحۡشُرُ ٱلۡمُتَّقِينَ إِلَى ٱلرَّحۡمَٰنِ وَفۡدٗا
 sentence_translation: ˹Watch for˺ the Day We will gather the righteous before the
   Most Compassionate as an honoured delegation,
 word_by_word:
@@ -12,19 +12,19 @@ word_by_word:
     translation: We will gather
     transliteration: naḥshuru
   3:
-    arabic: الۡمُتَّقِيۡنَ
+    arabic: ٱلۡمُتَّقِينَ
     translation: the righteous
     transliteration: l-mutaqīna
   4:
-    arabic: اِلَى
+    arabic: إِلَى
     translation: to
     transliteration: ilā
   5:
-    arabic: الرَّحۡمٰنِ
+    arabic: ٱلرَّحۡمَٰنِ
     translation: the Most Gracious
     transliteration: l-raḥmāni
   6:
-    arabic: وَفۡدًا​ ۙ‏
+    arabic: وَفۡدٗا
     translation: (as) a delegation
     transliteration: wafdan
 ---

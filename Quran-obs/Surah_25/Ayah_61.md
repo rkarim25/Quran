@@ -1,15 +1,15 @@
 ---
-arabic_ayat: تَبٰـرَكَ الَّذِىۡ جَعَلَ فِى السَّمَآءِ بُرُوۡجًا وَّجَعَلَ فِيۡهَا
-  سِرٰجًا وَّقَمَرًا مُّنِيۡرًا‏
+arabic_ayat: تَبَارَكَ ٱلَّذِي جَعَلَ فِي ٱلسَّمَآءِ بُرُوجٗا وَجَعَلَ فِيهَا سِرَٰجٗا
+  وَقَمَرٗا مُّنِيرٗا
 sentence_translation: Blessed is the One Who has placed constellations in the sky,
   as well as a ˹radiant˺ lamp and a luminous moon.
 word_by_word:
   1:
-    arabic: تَبٰـرَكَ
+    arabic: تَبَارَكَ
     translation: Blessed is He
     transliteration: tabāraka
   2:
-    arabic: الَّذِىۡ
+    arabic: ٱلَّذِي
     translation: Who
     transliteration: alladhī
   3:
@@ -17,35 +17,35 @@ word_by_word:
     translation: has placed
     transliteration: jaʿala
   4:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   5:
-    arabic: السَّمَآءِ
+    arabic: ٱلسَّمَآءِ
     translation: the skies
     transliteration: l-samāi
   6:
-    arabic: بُرُوۡجًا
+    arabic: بُرُوجٗا
     translation: constellations
     transliteration: burūjan
   7:
-    arabic: وَّجَعَلَ
+    arabic: وَجَعَلَ
     translation: and has placed
     transliteration: wajaʿala
   8:
-    arabic: فِيۡهَا
+    arabic: فِيهَا
     translation: therein
     transliteration: fīhā
   9:
-    arabic: سِرٰجًا
+    arabic: سِرَٰجٗا
     translation: a lamp
     transliteration: sirājan
   10:
-    arabic: وَّقَمَرًا
+    arabic: وَقَمَرٗا
     translation: and a moon
     transliteration: waqamaran
   11:
-    arabic: مُّنِيۡرًا‏
+    arabic: مُّنِيرٗا
     translation: shining
     transliteration: munīran
 ---

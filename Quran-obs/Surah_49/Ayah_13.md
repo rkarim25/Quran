@@ -1,90 +1,90 @@
 ---
-arabic_ayat: يٰۤاَيُّهَا النَّاسُ اِنَّا خَلَقۡنٰكُمۡ مِّنۡ ذَكَرٍ وَّاُنۡثٰى وَجَعَلۡنٰكُمۡ
-  شُعُوۡبًا وَّقَبَآٮِٕلَ لِتَعَارَفُوۡا​ ؕ اِنَّ اَكۡرَمَكُمۡ عِنۡدَ اللّٰهِ اَ
-  تۡقٰٮكُمۡ​ ؕ اِنَّ اللّٰهَ عَلِيۡمٌ خَبِيۡرٌ‏
+arabic_ayat: يَٰٓأَيُّهَا ٱلنَّاسُ إِنَّا خَلَقۡنَٰكُم مِّن ذَكَرٖ وَأُنثَىٰ وَجَعَلۡنَٰكُمۡ
+  شُعُوبٗا وَقَبَآئِلَ لِتَعَارَفُوٓاْۚ إِنَّ أَكۡرَمَكُمۡ عِندَ ٱللَّهِ أَتۡقَىٰكُمۡۚ
+  إِنَّ ٱللَّهَ عَلِيمٌ خَبِيرٞ
 sentence_translation: O humanity! Indeed, We created you from a male and a female,
   and made you into peoples and tribes so that you may ˹get to˺ know one another.
   Surely the most noble of you in the sight of Allah is the most righteous among you.
   Allah is truly All-Knowing, All-Aware. 
 word_by_word:
   1:
-    arabic: يٰۤاَيُّهَا
+    arabic: يَٰٓأَيُّهَا
     translation: O mankind
     transliteration: yāayyuhā
   2:
-    arabic: النَّاسُ
+    arabic: ٱلنَّاسُ
     translation: O mankind
     transliteration: l-nāsu
   3:
-    arabic: اِنَّا
+    arabic: إِنَّا
     translation: Indeed, We
     transliteration: innā
   4:
-    arabic: خَلَقۡنٰكُمۡ
+    arabic: خَلَقۡنَٰكُم
     translation: created you
     transliteration: khalaqnākum
   5:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: from
     transliteration: min
   6:
-    arabic: ذَكَرٍ
+    arabic: ذَكَرٖ
     translation: a male
     transliteration: dhakarin
   7:
-    arabic: وَّاُنۡثٰى
+    arabic: وَأُنثَىٰ
     translation: and a female
     transliteration: wa-unthā
   8:
-    arabic: وَجَعَلۡنٰكُمۡ
+    arabic: وَجَعَلۡنَٰكُمۡ
     translation: and We made you
     transliteration: wajaʿalnākum
   9:
-    arabic: شُعُوۡبًا
+    arabic: شُعُوبٗا
     translation: nations
     transliteration: shuʿūban
   10:
-    arabic: وَّقَبَآٮِٕلَ
+    arabic: وَقَبَآئِلَ
     translation: and tribes
     transliteration: waqabāila
   11:
-    arabic: لِتَعَارَفُوۡا​ ؕ
+    arabic: لِتَعَارَفُوٓاْۚ
     translation: that you may know one another
     transliteration: litaʿārafū
   12:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   13:
-    arabic: اَكۡرَمَكُمۡ
+    arabic: أَكۡرَمَكُمۡ
     translation: (the) most noble of you
     transliteration: akramakum
   14:
-    arabic: عِنۡدَ
+    arabic: عِندَ
     translation: near
     transliteration: ʿinda
   15:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   16:
-    arabic: اَ تۡقٰٮكُمۡ​ ؕ
+    arabic: أَتۡقَىٰكُمۡۚ
     translation: (is the) most righteous of you
     transliteration: atqākum
   17:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   18:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   19:
-    arabic: عَلِيۡمٌ
+    arabic: عَلِيمٌ
     translation: (is) All-Knower
     transliteration: ʿalīmun
   20:
-    arabic: خَبِيۡرٌ‏
+    arabic: خَبِيرٞ
     translation: All-Aware
     transliteration: khabīrun
 ---

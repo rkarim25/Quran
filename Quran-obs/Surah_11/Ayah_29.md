@@ -1,21 +1,21 @@
 ---
-arabic_ayat: وَيٰقَوۡمِ لَاۤ اَسۡـــَٔلُكُمۡ عَلَيۡهِ مَالًا ؕاِنۡ اَجۡرِىَ اِلَّا
-  عَلَى اللّٰهِ​ وَمَاۤ اَنَا بِطَارِدِ الَّذِيۡنَ اٰمَنُوۡا​ ؕ اِنَّهُمۡ مُّلٰقُوۡا
-  رَبِّهِمۡ وَلٰـكِنِّىۡۤ اَرٰٮكُمۡ قَوۡمًا تَجۡهَلُوۡنَ‏
+arabic_ayat: وَيَٰقَوۡمِ لَآ أَسۡـَٔلُكُمۡ عَلَيۡهِ مَالًاۖ إِنۡ أَجۡرِيَ إِلَّا
+  عَلَى ٱللَّهِۚ وَمَآ أَنَا۠ بِطَارِدِ ٱلَّذِينَ ءَامَنُوٓاْۚ إِنَّهُم مُّلَٰقُواْ
+  رَبِّهِمۡ وَلَٰكِنِّيٓ أَرَىٰكُمۡ قَوۡمٗا تَجۡهَلُونَ
 sentence_translation: O  my people! I do not ask you for a payment for this ˹message˺.
   My reward is only from Allah. And I will never dismiss the believers, for they will
   surely meet their Lord. But I can see that you are a people acting ignorantly.
 word_by_word:
   1:
-    arabic: وَيٰقَوۡمِ
+    arabic: وَيَٰقَوۡمِ
     translation: And O my people
     transliteration: wayāqawmi
   2:
-    arabic: لَاۤ
+    arabic: لَآ
     translation: not
     transliteration: lā
   3:
-    arabic: اَسۡـــَٔلُكُمۡ
+    arabic: أَسۡـَٔلُكُمۡ
     translation: I ask (of) you
     transliteration: asalukum
   4:
@@ -23,19 +23,19 @@ word_by_word:
     translation: for it
     transliteration: ʿalayhi
   5:
-    arabic: مَالًا ؕ
+    arabic: مَالًاۖ
     translation: any wealth
     transliteration: mālan
   6:
-    arabic: اِنۡ
+    arabic: إِنۡ
     translation: Not
     transliteration: in
   7:
-    arabic: اَجۡرِىَ
+    arabic: أَجۡرِيَ
     translation: (is) my reward
     transliteration: ajriya
   8:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   9:
@@ -43,15 +43,15 @@ word_by_word:
     translation: from
     transliteration: ʿalā
   10:
-    arabic: اللّٰهِ​
+    arabic: ٱللَّهِۚ
     translation: Allah
     transliteration: l-lahi
   11:
-    arabic: وَمَاۤ
+    arabic: وَمَآ
     translation: And not
     transliteration: wamā
   12:
-    arabic: اَنَا
+    arabic: أَنَا۠
     translation: I am
     transliteration: anā
   13:
@@ -59,19 +59,19 @@ word_by_word:
     translation: going to drive away
     transliteration: biṭāridi
   14:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ ءَ
     translation: those who
     transliteration: alladhīna
   15:
-    arabic: اٰمَنُوۡا​ ؕ
+    arabic: امَنُوٓاْۚ
     translation: believed
     transliteration: āmanū
   16:
-    arabic: اِنَّهُمۡ
+    arabic: إِنَّهُم
     translation: Indeed, they
     transliteration: innahum
   17:
-    arabic: مُّلٰقُوۡا
+    arabic: مُّلَٰقُواْ
     translation: (will) be meeting
     transliteration: mulāqū
   18:
@@ -79,19 +79,19 @@ word_by_word:
     translation: their Lord
     transliteration: rabbihim
   19:
-    arabic: وَلٰـكِنِّىۡۤ
+    arabic: وَلَٰكِنِّيٓ
     translation: but I
     transliteration: walākinnī
   20:
-    arabic: اَرٰٮكُمۡ
+    arabic: أَرَىٰكُمۡ
     translation: see you
     transliteration: arākum
   21:
-    arabic: قَوۡمًا
+    arabic: قَوۡمٗا
     translation: (are) a people
     transliteration: qawman
   22:
-    arabic: تَجۡهَلُوۡنَ‏
+    arabic: تَجۡهَلُونَ
     translation: ignorant
     transliteration: tajhalūna
 ---

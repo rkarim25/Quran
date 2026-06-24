@@ -1,13 +1,13 @@
 ---
-arabic_ayat: ءَاَنۡتُمۡ اَشَدُّ خَلۡقًا اَمِ السَّمَآءُ​ ؕ بَنٰٮهَا‏
+arabic_ayat: ءَأَنتُمۡ أَشَدُّ خَلۡقًا أَمِ ٱلسَّمَآءُۚ بَنَىٰهَا
 sentence_translation: 'Which is harder to create: you or the sky? He built it,'
 word_by_word:
   1:
-    arabic: ءَاَنۡتُمۡ
+    arabic: ءَأَنتُمۡ
     translation: Are you
     transliteration: a-antum
   2:
-    arabic: اَشَدُّ
+    arabic: أَشَدُّ
     translation: a more difficult
     transliteration: ashaddu
   3:
@@ -15,15 +15,15 @@ word_by_word:
     translation: creation
     transliteration: khalqan
   4:
-    arabic: اَمِ
+    arabic: أَمِ
     translation: or
     transliteration: ami
   5:
-    arabic: السَّمَآءُ​ ؕ
+    arabic: ٱلسَّمَآءُۚ
     translation: the heaven
     transliteration: l-samāu
   6:
-    arabic: بَنٰٮهَا‏
+    arabic: بَنَىٰهَا
     translation: He constructed it
     transliteration: banāhā
 ---

@@ -1,17 +1,17 @@
 ---
-arabic_ayat: وَاِذَا الۡبِحَارُ فُجِّرَتۡۙ‏
+arabic_ayat: وَإِذَا ٱلۡبِحَارُ فُجِّرَتۡ
 sentence_translation: and when the seas burst forth,
 word_by_word:
   1:
-    arabic: وَاِذَا
+    arabic: وَإِذَا
     translation: And when
     transliteration: wa-idhā
   2:
-    arabic: الۡبِحَارُ
+    arabic: ٱلۡبِحَارُ
     translation: the seas
     transliteration: l-biḥāru
   3:
-    arabic: فُجِّرَتۡۙ‏
+    arabic: فُجِّرَتۡ
     translation: are made to gush forth
     transliteration: fujjirat
 ---

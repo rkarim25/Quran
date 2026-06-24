@@ -1,7 +1,7 @@
 ---
-arabic_ayat: قُلۡ اِنۡ تُخۡفُوۡا مَا فِىۡ صُدُوۡرِكُمۡ اَوۡ تُبۡدُوۡهُ يَعۡلَمۡهُ
-  اللّٰهُ​ؕ وَيَعۡلَمُ مَا فِى السَّمٰوٰتِ وَمَا فِى الۡاَرۡضِؕ​ وَاللّٰهُ عَلٰى كُلِّ
-  شَىۡءٍ قَدِيۡرٌ‏
+arabic_ayat: قُلۡ إِن تُخۡفُواْ مَا فِي صُدُورِكُمۡ أَوۡ تُبۡدُوهُ يَعۡلَمۡهُ ٱللَّهُۗ
+  وَيَعۡلَمُ مَا فِي ٱلسَّمَٰوَٰتِ وَمَا فِي ٱلۡأَرۡضِۗ وَٱللَّهُ عَلَىٰ كُلِّ شَيۡءٖ
+  قَدِيرٞ
 sentence_translation: Say, ˹O Prophet,˺ “Whether you conceal what is in your hearts
   or reveal it, it is known to Allah. For He knows whatever is in the heavens and
   whatever is on the earth. And Allah is Most Capable of everything.”
@@ -11,11 +11,11 @@ word_by_word:
     translation: Say
     transliteration: qul
   2:
-    arabic: اِنۡ
+    arabic: إِن
     translation: Whether
     transliteration: in
   3:
-    arabic: تُخۡفُوۡا
+    arabic: تُخۡفُواْ
     translation: you conceal
     transliteration: tukh'fū
   4:
@@ -23,19 +23,19 @@ word_by_word:
     translation: what
     transliteration: mā
   5:
-    arabic: فِىۡ
+    arabic: فِي
     translation: (is) in
     transliteration: fī
   6:
-    arabic: صُدُوۡرِكُمۡ
+    arabic: صُدُورِكُمۡ
     translation: your breasts
     transliteration: ṣudūrikum
   7:
-    arabic: اَوۡ
+    arabic: أَوۡ
     translation: or
     transliteration: aw
   8:
-    arabic: تُبۡدُوۡهُ
+    arabic: تُبۡدُوهُ
     translation: 'you disclose it '
     transliteration: tub'dūhu
   9:
@@ -43,7 +43,7 @@ word_by_word:
     translation: knows it
     transliteration: yaʿlamhu
   10:
-    arabic: اللّٰهُ​ؕ
+    arabic: ٱللَّهُۗ
     translation: Allah
     transliteration: l-lahu
   11:
@@ -55,11 +55,11 @@ word_by_word:
     translation: what
     transliteration: mā
   13:
-    arabic: فِى
+    arabic: فِي
     translation: (is) in
     transliteration: fī
   14:
-    arabic: السَّمٰوٰتِ
+    arabic: ٱلسَّمَٰوَٰتِ
     translation: the heavens
     transliteration: l-samāwāti
   15:
@@ -67,19 +67,19 @@ word_by_word:
     translation: and what
     transliteration: wamā
   16:
-    arabic: فِى
+    arabic: فِي
     translation: (is) in
     transliteration: fī
   17:
-    arabic: الۡاَرۡضِؕ​
+    arabic: ٱلۡأَرۡضِۗ
     translation: the earth
     transliteration: l-arḍi
   18:
-    arabic: وَاللّٰهُ
+    arabic: وَٱللَّهُ
     translation: And Allah
     transliteration: wal-lahu
   19:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: (is) on
     transliteration: ʿalā
   20:
@@ -87,11 +87,11 @@ word_by_word:
     translation: every
     transliteration: kulli
   21:
-    arabic: شَىۡءٍ
+    arabic: شَيۡءٖ
     translation: thing
     transliteration: shayin
   22:
-    arabic: قَدِيۡرٌ‏
+    arabic: قَدِيرٞ
     translation: All-Powerful
     transliteration: qadīrun
 ---

@@ -1,13 +1,13 @@
 ---
-arabic_ayat: كَلَّا لَـمَّا يَقۡضِ مَاۤ اَمَرَهٗؕ‏
+arabic_ayat: كـَلَّا لَمَّا يَقۡضِ مَآ أَمَرَهُۥ
 sentence_translation: But no! They have failed to comply with what He ordered.
 word_by_word:
   1:
-    arabic: كَلَّا
+    arabic: كـَلَّا
     translation: Nay
     transliteration: kallā
   2:
-    arabic: لَـمَّا
+    arabic: لَمَّا
     translation: Not
     transliteration: lammā
   3:
@@ -15,11 +15,11 @@ word_by_word:
     translation: he has accomplished
     transliteration: yaqḍi
   4:
-    arabic: مَاۤ
+    arabic: مَآ
     translation: what
     transliteration: mā
   5:
-    arabic: اَمَرَهٗؕ‏
+    arabic: أَمَرَهُۥ
     translation: He commanded him
     transliteration: amarahu
 ---

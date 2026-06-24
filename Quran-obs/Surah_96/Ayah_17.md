@@ -1,5 +1,5 @@
 ---
-arabic_ayat: فَلۡيَدۡعُ نَادِيَهٗ ۙ‏
+arabic_ayat: فَلۡيَدۡعُ نَادِيَهُۥ
 sentence_translation: So let him call his associates.
 word_by_word:
   1:
@@ -7,7 +7,7 @@ word_by_word:
     translation: Then let him call
     transliteration: falyadʿu
   2:
-    arabic: نَادِيَهٗ ۙ‏
+    arabic: نَادِيَهُۥ
     translation: his associates
     transliteration: nādiyahu
 ---

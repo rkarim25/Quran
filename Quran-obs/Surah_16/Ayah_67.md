@@ -1,28 +1,28 @@
 ---
-arabic_ayat: وَمِنۡ ثَمَرٰتِ النَّخِيۡلِ وَالۡاَعۡنَابِ تَتَّخِذُوۡنَ مِنۡهُ سَكَرًا
-  وَّرِزۡقًا حَسَنًا ؕ اِنَّ فِىۡ ذٰ لِكَ لَاٰيَةً لِّقَوۡمٍ يَّعۡقِلُوۡنَ‏
+arabic_ayat: وَمِن ثَمَرَٰتِ ٱلنَّخِيلِ وَٱلۡأَعۡنَٰبِ تَتَّخِذُونَ مِنۡهُ سَكَرٗا
+  وَرِزۡقًا حَسَنًاۚ إِنَّ فِي ذَٰلِكَ لَأٓيَةٗ لِّقَوۡمٖ يَعۡقِلُونَ
 sentence_translation: And from the fruits of palm trees and grapevines you derive
   intoxicants as well as wholesome provision. Surely in this is a sign for those who
   understand.
 word_by_word:
   1:
-    arabic: وَمِنۡ
+    arabic: وَمِن
     translation: And from
     transliteration: wamin
   2:
-    arabic: ثَمَرٰتِ
+    arabic: ثَمَرَٰتِ
     translation: fruits
     transliteration: thamarāti
   3:
-    arabic: النَّخِيۡلِ
+    arabic: ٱلنَّخِيلِ
     translation: the date-palm
     transliteration: l-nakhīli
   4:
-    arabic: وَالۡاَعۡنَابِ
+    arabic: وَٱلۡأَعۡنَٰبِ
     translation: and the grapes
     transliteration: wal-aʿnābi
   5:
-    arabic: تَتَّخِذُوۡنَ
+    arabic: تَتَّخِذُونَ
     translation: you take
     transliteration: tattakhidhūna
   6:
@@ -30,39 +30,39 @@ word_by_word:
     translation: from it
     transliteration: min'hu
   7:
-    arabic: سَكَرًا
+    arabic: سَكَرٗا
     translation: intoxicant
     transliteration: sakaran
   8:
-    arabic: وَّرِزۡقًا
+    arabic: وَرِزۡقًا
     translation: and a provision
     transliteration: wariz'qan
   9:
-    arabic: حَسَنًا ؕ
+    arabic: حَسَنًاۚ
     translation: good
     transliteration: ḥasanan
   10:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   11:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   12:
-    arabic: ذٰ لِكَ
+    arabic: ذَٰلِكَ
     translation: that
     transliteration: dhālika
   13:
-    arabic: لَاٰيَةً
+    arabic: لَأٓيَةٗ
     translation: (is) surely a Sign
     transliteration: laāyatan
   14:
-    arabic: لِّقَوۡمٍ
+    arabic: لِّقَوۡمٖ
     translation: for a people
     transliteration: liqawmin
   15:
-    arabic: يَّعۡقِلُوۡنَ‏
+    arabic: يَعۡقِلُونَ
     translation: who use reason
     transliteration: yaʿqilūna
 ---

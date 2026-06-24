@@ -1,9 +1,9 @@
 ---
-arabic_ayat: عِنۡدَ سِدۡرَةِ الۡمُنۡتَهٰى‏
+arabic_ayat: عِندَ سِدۡرَةِ ٱلۡمُنتَهَىٰ
 sentence_translation: at the Lote Tree of the most extreme limit ˹in the seventh heaven˺—
 word_by_word:
   1:
-    arabic: عِنۡدَ
+    arabic: عِندَ
     translation: Near
     transliteration: ʿinda
   2:
@@ -11,7 +11,7 @@ word_by_word:
     translation: (the) Lote Tree
     transliteration: sid'rati
   3:
-    arabic: الۡمُنۡتَهٰى‏
+    arabic: ٱلۡمُنتَهَىٰ
     translation: (of) the utmost boundary
     transliteration: l-muntahā
 ---

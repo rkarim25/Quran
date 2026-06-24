@@ -1,9 +1,9 @@
 ---
-arabic_ayat: وَاَنَّهٗ هُوَ رَبُّ الشِّعۡرٰىۙ‏
+arabic_ayat: وَأَنَّهُۥ هُوَ رَبُّ ٱلشِّعۡرَىٰ
 sentence_translation: And He alone is the Lord of Sirius.
 word_by_word:
   1:
-    arabic: وَاَنَّهٗ
+    arabic: وَأَنَّهُۥ
     translation: And that He
     transliteration: wa-annahu
   2:
@@ -15,7 +15,7 @@ word_by_word:
     translation: (is the) Lord
     transliteration: rabbu
   4:
-    arabic: الشِّعۡرٰىۙ‏
+    arabic: ٱلشِّعۡرَىٰ
     translation: (of) Sirius
     transliteration: l-shiʿ'rā
 ---

@@ -1,9 +1,9 @@
 ---
-arabic_ayat: اَلَمۡ تَرَ اِلَى الَّذِىۡ حَآجَّ اِبۡرٰهٖمَ فِىۡ رَبِّهٖۤ اَنۡ اٰتٰٮهُ
-  اللّٰهُ الۡمُلۡكَ​ۘ اِذۡ قَالَ اِبۡرٰهٖمُ رَبِّىَ الَّذِىۡ يُحۡىٖ وَيُمِيۡتُۙ قَالَ
-  اَنَا اُحۡىٖ وَاُمِيۡتُ​ؕ قَالَ اِبۡرٰهٖمُ فَاِنَّ اللّٰهَ يَاۡتِىۡ بِالشَّمۡسِ
-  مِنَ الۡمَشۡرِقِ فَاۡتِ بِهَا مِنَ الۡمَغۡرِبِ فَبُهِتَ الَّذِىۡ كَفَرَ​ؕ وَاللّٰهُ
-  لَا يَهۡدِى الۡقَوۡمَ الظّٰلِمِيۡنَ​ۚ‏
+arabic_ayat: أَلَمۡ تَرَ إِلَى ٱلَّذِي حَآجَّ إِبۡرَٰهِـۧمَ فِي رَبِّهِۦٓ أَنۡ ءَاتَىٰهُ
+  ٱللَّهُ ٱلۡمُلۡكَ إِذۡ قَالَ إِبۡرَٰهِـۧمُ رَبِّيَ ٱلَّذِي يُحۡيِۦ وَيُمِيتُ قَالَ
+  أَنَا۠ أُحۡيِۦ وَأُمِيتُۖ قَالَ إِبۡرَٰهِـۧمُ فَإِنَّ ٱللَّهَ يَأۡتِي بِٱلشَّمۡسِ
+  مِنَ ٱلۡمَشۡرِقِ فَأۡتِ بِهَا مِنَ ٱلۡمَغۡرِبِ فَبُهِتَ ٱلَّذِي كَفَرَۗ وَٱللَّهُ
+  لَا يَهۡدِي ٱلۡقَوۡمَ ٱلظَّٰلِمِينَ
 sentence_translation: Are you ˹O Prophet˺ not aware of the one who argued with Abraham
   about his Lord because Allah had granted him kingship? ˹Remember˺ when Abraham said,
   “My Lord is the One Who has power to give life and cause death.” He argued, “I too
@@ -12,7 +12,7 @@ sentence_translation: Are you ˹O Prophet˺ not aware of the one who argued with
   was dumbstruck. And Allah does not guide the wrongdoing people.
 word_by_word:
   1:
-    arabic: اَلَمۡ
+    arabic: أَلَمۡ
     translation: Did not
     transliteration: alam
   2:
@@ -20,11 +20,11 @@ word_by_word:
     translation: you see
     transliteration: tara
   3:
-    arabic: اِلَى
+    arabic: إِلَى
     translation: '[towards]'
     transliteration: ilā
   4:
-    arabic: الَّذِىۡ
+    arabic: ٱلَّذِي
     translation: the one who
     transliteration: alladhī
   5:
@@ -32,35 +32,35 @@ word_by_word:
     translation: argued
     transliteration: ḥājja
   6:
-    arabic: اِبۡرٰهٖمَ
+    arabic: إِبۡرَٰهِـۧمَ
     translation: (with) Ibrahim
     transliteration: ib'rāhīma
   7:
-    arabic: فِىۡ
+    arabic: فِي
     translation: concerning
     transliteration: fī
   8:
-    arabic: رَبِّهٖۤ
+    arabic: رَبِّهِۦٓ
     translation: his Lord
     transliteration: rabbihi
   9:
-    arabic: اَنۡ
+    arabic: أَنۡ ءَ
     translation: because
     transliteration: an
   10:
-    arabic: اٰتٰٮهُ
+    arabic: اتَىٰهُ
     translation: gave him
     transliteration: ātāhu
   11:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   12:
-    arabic: الۡمُلۡكَ​ۘ
+    arabic: ٱلۡمُلۡكَ
     translation: the kingdom
     transliteration: l-mul'ka
   13:
-    arabic: اِذۡ
+    arabic: إِذۡ
     translation: When
     transliteration: idh
   14:
@@ -68,23 +68,23 @@ word_by_word:
     translation: Said
     transliteration: qāla
   15:
-    arabic: اِبۡرٰهٖمُ
+    arabic: إِبۡرَٰهِـۧمُ
     translation: Ibrahim
     transliteration: ib'rāhīmu
   16:
-    arabic: رَبِّىَ
+    arabic: رَبِّيَ
     translation: My Lord
     transliteration: rabbiya
   17:
-    arabic: الَّذِىۡ
+    arabic: ٱلَّذِي
     translation: (is) the One Who
     transliteration: alladhī
   18:
-    arabic: يُحۡىٖ
+    arabic: يُحۡيِۦ
     translation: grants life
     transliteration: yuḥ'yī
   19:
-    arabic: وَيُمِيۡتُۙ
+    arabic: وَيُمِيتُ
     translation: and causes death
     transliteration: wayumītu
   20:
@@ -92,15 +92,15 @@ word_by_word:
     translation: He said
     transliteration: qāla
   21:
-    arabic: اَنَا
+    arabic: أَنَا۠
     translation: I
     transliteration: anā
   22:
-    arabic: اُحۡىٖ
+    arabic: أُحۡيِۦ
     translation: give life
     transliteration: uḥ'yī
   23:
-    arabic: وَاُمِيۡتُ​ؕ
+    arabic: وَأُمِيتُۖ
     translation: and cause death
     transliteration: wa-umītu
   24:
@@ -108,23 +108,23 @@ word_by_word:
     translation: Said
     transliteration: qāla
   25:
-    arabic: اِبۡرٰهٖمُ
+    arabic: إِبۡرَٰهِـۧمُ
     translation: Ibrahim
     transliteration: ib'rāhīmu
   26:
-    arabic: فَاِنَّ
+    arabic: فَإِنَّ
     translation: '[Then] indeed'
     transliteration: fa-inna
   27:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   28:
-    arabic: يَاۡتِىۡ
+    arabic: يَأۡتِي
     translation: brings up
     transliteration: yatī
   29:
-    arabic: بِالشَّمۡسِ
+    arabic: بِٱلشَّمۡسِ
     translation: the sun
     transliteration: bil-shamsi
   30:
@@ -132,11 +132,11 @@ word_by_word:
     translation: from
     transliteration: mina
   31:
-    arabic: الۡمَشۡرِقِ
+    arabic: ٱلۡمَشۡرِقِ
     translation: the east
     transliteration: l-mashriqi
   32:
-    arabic: فَاۡتِ
+    arabic: فَأۡتِ
     translation: so you bring
     transliteration: fati
   33:
@@ -148,7 +148,7 @@ word_by_word:
     translation: from
     transliteration: mina
   35:
-    arabic: الۡمَغۡرِبِ
+    arabic: ٱلۡمَغۡرِبِ
     translation: the west
     transliteration: l-maghribi
   36:
@@ -156,15 +156,15 @@ word_by_word:
     translation: So became dumbfounded
     transliteration: fabuhita
   37:
-    arabic: الَّذِىۡ
+    arabic: ٱلَّذِي
     translation: the one who
     transliteration: alladhī
   38:
-    arabic: كَفَرَ​ؕ
+    arabic: كَفَرَۗ
     translation: disbelieved
     transliteration: kafara
   39:
-    arabic: وَاللّٰهُ
+    arabic: وَٱللَّهُ
     translation: and Allah
     transliteration: wal-lahu
   40:
@@ -172,15 +172,15 @@ word_by_word:
     translation: (does) not
     transliteration: lā
   41:
-    arabic: يَهۡدِى
+    arabic: يَهۡدِي
     translation: guide
     transliteration: yahdī
   42:
-    arabic: الۡقَوۡمَ
+    arabic: ٱلۡقَوۡمَ
     translation: the people
     transliteration: l-qawma
   43:
-    arabic: الظّٰلِمِيۡنَ​ۚ‏
+    arabic: ٱلظَّٰلِمِينَ
     translation: (who are) [the] wrongdoers
     transliteration: l-ẓālimīna
 ---

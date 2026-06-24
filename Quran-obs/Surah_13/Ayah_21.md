@@ -1,39 +1,39 @@
 ---
-arabic_ayat: وَالَّذِيۡنَ يَصِلُوۡنَ مَاۤ اَمَرَ اللّٰهُ بِهٖۤ اَنۡ يُّوۡصَلَ وَيَخۡشَوۡنَ
-  رَبَّهُمۡ وَ يَخَافُوۡنَ سُوۡۤءَ الۡحِسَابِؕ‏
+arabic_ayat: وَٱلَّذِينَ يَصِلُونَ مَآ أَمَرَ ٱللَّهُ بِهِۦٓ أَن يُوصَلَ وَيَخۡشَوۡنَ
+  رَبَّهُمۡ وَيَخَافُونَ سُوٓءَ ٱلۡحِسَابِ
 sentence_translation: and those who maintain whatever ˹ties˺ Allah has ordered to
   be maintained, stand in awe of their Lord, and fear strict judgment.
 word_by_word:
   1:
-    arabic: وَالَّذِيۡنَ
+    arabic: وَٱلَّذِينَ
     translation: And those who
     transliteration: wa-alladhīna
   2:
-    arabic: يَصِلُوۡنَ
+    arabic: يَصِلُونَ
     translation: join
     transliteration: yaṣilūna
   3:
-    arabic: مَاۤ
+    arabic: مَآ
     translation: what
     transliteration: mā
   4:
-    arabic: اَمَرَ
+    arabic: أَمَرَ
     translation: (has been) commanded
     transliteration: amara
   5:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: (by) Allah
     transliteration: l-lahu
   6:
-    arabic: بِهٖۤ
+    arabic: بِهِۦٓ
     translation: '[for it]'
     transliteration: bihi
   7:
-    arabic: اَنۡ
+    arabic: أَن
     translation: to
     transliteration: an
   8:
-    arabic: يُّوۡصَلَ
+    arabic: يُوصَلَ
     translation: be joined
     transliteration: yūṣala
   9:
@@ -45,15 +45,15 @@ word_by_word:
     translation: their Lord
     transliteration: rabbahum
   11:
-    arabic: وَ يَخَافُوۡنَ
+    arabic: وَيَخَافُونَ
     translation: and are afraid
     transliteration: wayakhāfūna
   12:
-    arabic: سُوۡۤءَ
+    arabic: سُوٓءَ
     translation: (of) the evil
     transliteration: sūa
   13:
-    arabic: الۡحِسَابِؕ‏
+    arabic: ٱلۡحِسَابِ
     translation: the account
     transliteration: l-ḥisābi
 ---

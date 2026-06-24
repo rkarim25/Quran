@@ -1,5 +1,5 @@
 ---
-arabic_ayat: قَالَ لَـقَدۡ كُنۡتُمۡ اَنۡتُمۡ وَاٰبَآؤُكُمۡ فِىۡ ضَلٰلٍ مُّبِيۡنٍ‏
+arabic_ayat: قَالَ لَقَدۡ كُنتُمۡ أَنتُمۡ وَءَابَآؤُكُمۡ فِي ضَلَٰلٖ مُّبِينٖ
 sentence_translation: He responded, “Indeed, you and your forefathers have been clearly
   astray.”
 word_by_word:
@@ -8,31 +8,31 @@ word_by_word:
     translation: He said
     transliteration: qāla
   2:
-    arabic: لَـقَدۡ
+    arabic: لَقَدۡ
     translation: Verily
     transliteration: laqad
   3:
-    arabic: كُنۡتُمۡ
+    arabic: كُنتُمۡ
     translation: you are
     transliteration: kuntum
   4:
-    arabic: اَنۡتُمۡ
+    arabic: أَنتُمۡ
     translation: '[you]'
     transliteration: antum
   5:
-    arabic: وَاٰبَآؤُكُمۡ
+    arabic: وَءَابَآؤُكُمۡ
     translation: and your forefathers
     transliteration: waābāukum
   6:
-    arabic: فِىۡ
+    arabic: فِي
     translation: (were) in
     transliteration: fī
   7:
-    arabic: ضَلٰلٍ
+    arabic: ضَلَٰلٖ
     translation: an error
     transliteration: ḍalālin
   8:
-    arabic: مُّبِيۡنٍ‏
+    arabic: مُّبِينٖ
     translation: manifest
     transliteration: mubīnin
 ---

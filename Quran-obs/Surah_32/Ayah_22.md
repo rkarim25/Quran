@@ -1,6 +1,6 @@
 ---
-arabic_ayat: وَمَنۡ اَظۡلَمُ مِمَّنۡ ذُكِّرَ بِاٰيٰتِ رَبِّهٖ ثُمَّ اَعۡرَضَ عَنۡهَا​ؕ
-  اِنَّا مِنَ الۡمُجۡرِمِيۡنَ مُنۡتَقِمُوۡنَ‏
+arabic_ayat: وَمَنۡ أَظۡلَمُ مِمَّن ذُكِّرَ بِـَٔايَٰتِ رَبِّهِۦ ثُمَّ أَعۡرَضَ عَنۡهَآۚ
+  إِنَّا مِنَ ٱلۡمُجۡرِمِينَ مُنتَقِمُونَ
 sentence_translation: And who does more wrong than the one who is reminded of Allah’s
   revelations then turns away from them? We will surely inflict punishment upon the
   wicked.
@@ -10,11 +10,11 @@ word_by_word:
     translation: And who
     transliteration: waman
   2:
-    arabic: اَظۡلَمُ
+    arabic: أَظۡلَمُ
     translation: (is) more unjust
     transliteration: aẓlamu
   3:
-    arabic: مِمَّنۡ
+    arabic: مِمَّن
     translation: than (he) who
     transliteration: mimman
   4:
@@ -22,11 +22,11 @@ word_by_word:
     translation: is reminded
     transliteration: dhukkira
   5:
-    arabic: بِاٰيٰتِ
+    arabic: بِـَٔايَٰتِ
     translation: of (the) Verses
     transliteration: biāyāti
   6:
-    arabic: رَبِّهٖ
+    arabic: رَبِّهِۦ
     translation: (of) his Lord
     transliteration: rabbihi
   7:
@@ -34,15 +34,15 @@ word_by_word:
     translation: then
     transliteration: thumma
   8:
-    arabic: اَعۡرَضَ
+    arabic: أَعۡرَضَ
     translation: he turns away
     transliteration: aʿraḍa
   9:
-    arabic: عَنۡهَا​ؕ
+    arabic: عَنۡهَآۚ
     translation: from them
     transliteration: ʿanhā
   10:
-    arabic: اِنَّا
+    arabic: إِنَّا
     translation: Indeed, We
     transliteration: innā
   11:
@@ -50,11 +50,11 @@ word_by_word:
     translation: from
     transliteration: mina
   12:
-    arabic: الۡمُجۡرِمِيۡنَ
+    arabic: ٱلۡمُجۡرِمِينَ
     translation: the criminals
     transliteration: l-muj'rimīna
   13:
-    arabic: مُنۡتَقِمُوۡنَ‏
+    arabic: مُنتَقِمُونَ
     translation: (will) take retribution
     transliteration: muntaqimūna
 ---

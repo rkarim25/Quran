@@ -1,17 +1,16 @@
 ---
-arabic_ayat: "وَهِىَ تَجۡرِىۡ بِهِمۡ فِىۡ مَوۡجٍ كَالۡجِبَالِ وَنَادٰى نُوۡحُ اۨبۡنَهٗ\
-  \ وَكَانَ فِىۡ مَعۡزِلٍ يّٰبُنَىَّ ارۡكَبْ مَّعَنَا وَلَا تَكُنۡ مَّعَ الۡكٰفِرِيۡنَ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: وَهِيَ تَجۡرِي بِهِمۡ فِي مَوۡجٖ كَٱلۡجِبَالِ وَنَادَىٰ نُوحٌ ٱبۡنَهُۥ
+  وَكَانَ فِي مَعۡزِلٖ يَٰبُنَيَّ ٱرۡكَب مَّعَنَا وَلَا تَكُن مَّعَ ٱلۡكَٰفِرِينَ
 sentence_translation: And ˹so˺ the Ark sailed with them through waves like mountains.
   Noah called out to his son, who stood apart, “O my dear son! Come aboard with us
   and do not be with the disbelievers.”
 word_by_word:
   1:
-    arabic: وَهِىَ
+    arabic: وَهِيَ
     translation: And it
     transliteration: wahiya
   2:
-    arabic: تَجۡرِىۡ
+    arabic: تَجۡرِي
     translation: sailed
     transliteration: tajrī
   3:
@@ -19,27 +18,27 @@ word_by_word:
     translation: with them
     transliteration: bihim
   4:
-    arabic: فِىۡ
+    arabic: فِي
     translation: 'on'
     transliteration: fī
   5:
-    arabic: مَوۡجٍ
+    arabic: مَوۡجٖ
     translation: the waves
     transliteration: mawjin
   6:
-    arabic: كَالۡجِبَالِ
+    arabic: كَٱلۡجِبَالِ
     translation: like mountains
     transliteration: kal-jibāli
   7:
-    arabic: وَنَادٰى
+    arabic: وَنَادَىٰ
     translation: and Nuh called out
     transliteration: wanādā
   8:
-    arabic: نُوۡحُ
+    arabic: نُوحٌ
     translation: and Nuh called out
     transliteration: nūḥun
   9:
-    arabic: اۨبۡنَهٗ
+    arabic: ٱبۡنَهُۥ
     translation: (to) his son
     transliteration: ib'nahu
   10:
@@ -47,19 +46,19 @@ word_by_word:
     translation: and he was
     transliteration: wakāna
   11:
-    arabic: فِىۡ
+    arabic: فِي
     translation: '[in]'
     transliteration: fī
   12:
-    arabic: مَعۡزِلٍ
+    arabic: مَعۡزِلٖ
     translation: apart
     transliteration: maʿzilin
   13:
-    arabic: يّٰبُنَىَّ
+    arabic: يَٰبُنَيَّ
     translation: O my son
     transliteration: yābunayya
   14:
-    arabic: ارۡكَبْ
+    arabic: ٱرۡكَب
     translation: Embark
     transliteration: ir'kab
   15:
@@ -71,7 +70,7 @@ word_by_word:
     translation: and (do) not
     transliteration: walā
   17:
-    arabic: تَكُنۡ
+    arabic: تَكُن
     translation: be
     transliteration: takun
   18:
@@ -79,7 +78,7 @@ word_by_word:
     translation: with
     transliteration: maʿa
   19:
-    arabic: "الۡكٰفِرِيۡنَ‏ \uFEFF\uFEFF"
+    arabic: ٱلۡكَٰفِرِينَ
     translation: the disbelievers
     transliteration: l-kāfirīna
 ---

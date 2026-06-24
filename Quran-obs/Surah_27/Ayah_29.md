@@ -1,6 +1,5 @@
 ---
-arabic_ayat: "قَالَتۡ يٰۤاَيُّهَا الۡمَلَؤُا اِنِّىۡۤ اُلۡقِىَ اِلَىَّ كِتٰبٌ كَرِيۡمٌ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: قَالَتۡ يَٰٓأَيُّهَا ٱلۡمَلَؤُاْ إِنِّيٓ أُلۡقِيَ إِلَيَّ كِتَٰبٞ كَرِيمٌ
 sentence_translation: The Queen ˹later˺ announced, “O chiefs! Indeed, a noble letter
   has been delivered to me.
 word_by_word:
@@ -9,31 +8,31 @@ word_by_word:
     translation: She said
     transliteration: qālat
   2:
-    arabic: يٰۤاَيُّهَا
+    arabic: يَٰٓأَيُّهَا
     translation: O
     transliteration: yāayyuhā
   3:
-    arabic: الۡمَلَؤُا
+    arabic: ٱلۡمَلَؤُاْ
     translation: chiefs
     transliteration: l-mala-u
   4:
-    arabic: اِنِّىۡۤ
+    arabic: إِنِّيٓ
     translation: Indeed [I]
     transliteration: innī
   5:
-    arabic: اُلۡقِىَ
+    arabic: أُلۡقِيَ
     translation: is delivered
     transliteration: ul'qiya
   6:
-    arabic: اِلَىَّ
+    arabic: إِلَيَّ
     translation: to me
     transliteration: ilayya
   7:
-    arabic: كِتٰبٌ
+    arabic: كِتَٰبٞ
     translation: a letter
     transliteration: kitābun
   8:
-    arabic: "كَرِيۡمٌ‏ \uFEFF\uFEFF"
+    arabic: كَرِيمٌ
     translation: noble
     transliteration: karīmun
 ---

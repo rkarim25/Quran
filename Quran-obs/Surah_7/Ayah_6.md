@@ -1,31 +1,30 @@
 ---
-arabic_ayat: فَلَنَسۡــَٔــلَنَّ الَّذِيۡنَ اُرۡسِلَ اِلَيۡهِمۡ وَلَـنَسۡـَٔـــلَنَّ
-  الۡمُرۡسَلِيۡنَ ۙ‏
+arabic_ayat: فَلَنَسۡـَٔلَنَّ ٱلَّذِينَ أُرۡسِلَ إِلَيۡهِمۡ وَلَنَسۡـَٔلَنَّ ٱلۡمُرۡسَلِينَ
 sentence_translation: We will surely question those who received messengers and We
   will question the messengers ˹themselves˺.
 word_by_word:
   1:
-    arabic: فَلَنَسۡــَٔــلَنَّ
+    arabic: فَلَنَسۡـَٔلَنَّ
     translation: Then surely We will question
     transliteration: falanasalanna
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those (to) whom
     transliteration: alladhīna
   3:
-    arabic: اُرۡسِلَ
+    arabic: أُرۡسِلَ
     translation: were sent
     transliteration: ur'sila
   4:
-    arabic: اِلَيۡهِمۡ
+    arabic: إِلَيۡهِمۡ
     translation: to them (Messengers)
     transliteration: ilayhim
   5:
-    arabic: وَلَـنَسۡـَٔـــلَنَّ
+    arabic: وَلَنَسۡـَٔلَنَّ
     translation: and surely We will question
     transliteration: walanasalanna
   6:
-    arabic: الۡمُرۡسَلِيۡنَ ۙ‏
+    arabic: ٱلۡمُرۡسَلِينَ
     translation: the Messengers
     transliteration: l-mur'salīna
 ---

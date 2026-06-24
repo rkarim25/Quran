@@ -1,17 +1,17 @@
 ---
-arabic_ayat: وَّاِنَّا لَـنَحۡنُ الصَّآفُّوۡنَ​ۚ‏
+arabic_ayat: وَإِنَّا لَنَحۡنُ ٱلصَّآفُّونَ
 sentence_translation: We are indeed the ones lined up in ranks ˹for Allah˺.
 word_by_word:
   1:
-    arabic: وَّاِنَّا
+    arabic: وَإِنَّا
     translation: And indeed, we
     transliteration: wa-innā
   2:
-    arabic: لَـنَحۡنُ
+    arabic: لَنَحۡنُ
     translation: surely, [we]
     transliteration: lanaḥnu
   3:
-    arabic: الصَّآفُّوۡنَ​ۚ‏
+    arabic: ٱلصَّآفُّونَ
     translation: stand in rows
     transliteration: l-ṣāfūna
 ---

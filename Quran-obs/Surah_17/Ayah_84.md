@@ -1,6 +1,6 @@
 ---
-arabic_ayat: قُلۡ كُلٌّ يَّعۡمَلُ عَلٰى شَاكِلَتِهٖؕ فَرَبُّكُمۡ اَعۡلَمُ بِمَنۡ هُوَ
-  اَهۡدٰى سَبِيۡلًا‏
+arabic_ayat: قُلۡ كُلّٞ يَعۡمَلُ عَلَىٰ شَاكِلَتِهِۦ فَرَبُّكُمۡ أَعۡلَمُ بِمَنۡ هُوَ
+  أَهۡدَىٰ سَبِيلٗا
 sentence_translation: Say, ˹O Prophet,˺ “Everyone acts in their own way. But your
   Lord knows best whose way is rightly guided.”
 word_by_word:
@@ -9,19 +9,19 @@ word_by_word:
     translation: Say
     transliteration: qul
   2:
-    arabic: كُلٌّ
+    arabic: كُلّٞ
     translation: Each
     transliteration: kullun
   3:
-    arabic: يَّعۡمَلُ
+    arabic: يَعۡمَلُ
     translation: works
     transliteration: yaʿmalu
   4:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: 'on'
     transliteration: ʿalā
   5:
-    arabic: شَاكِلَتِهٖؕ
+    arabic: شَاكِلَتِهِۦ
     translation: his manner
     transliteration: shākilatihi
   6:
@@ -29,7 +29,7 @@ word_by_word:
     translation: but your Lord
     transliteration: farabbukum
   7:
-    arabic: اَعۡلَمُ
+    arabic: أَعۡلَمُ
     translation: (is) most knowing
     transliteration: aʿlamu
   8:
@@ -41,11 +41,11 @@ word_by_word:
     translation: '[he]'
     transliteration: huwa
   10:
-    arabic: اَهۡدٰى
+    arabic: أَهۡدَىٰ
     translation: (is) best guided
     transliteration: ahdā
   11:
-    arabic: سَبِيۡلًا‏
+    arabic: سَبِيلٗا
     translation: (in) way
     transliteration: sabīlan
 ---

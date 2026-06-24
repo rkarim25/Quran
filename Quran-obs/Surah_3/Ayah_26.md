@@ -1,7 +1,7 @@
 ---
-arabic_ayat: قُلِ اللّٰهُمَّ مٰلِكَ الۡمُلۡكِ تُؤۡتِى الۡمُلۡكَ مَنۡ تَشَآءُ وَتَنۡزِعُ
-  الۡمُلۡكَ مِمَّنۡ تَشَآءُ وَتُعِزُّ مَنۡ تَشَآءُ وَتُذِلُّ مَنۡ تَشَآءُ​ ؕ بِيَدِكَ
-  الۡخَيۡرُ​ؕ اِنَّكَ عَلٰى كُلِّ شَىۡءٍ قَدِيۡرٌ‏
+arabic_ayat: قُلِ ٱللَّهُمَّ مَٰلِكَ ٱلۡمُلۡكِ تُؤۡتِي ٱلۡمُلۡكَ مَن تَشَآءُ وَتَنزِعُ
+  ٱلۡمُلۡكَ مِمَّن تَشَآءُ وَتُعِزُّ مَن تَشَآءُ وَتُذِلُّ مَن تَشَآءُۖ بِيَدِكَ
+  ٱلۡخَيۡرُۖ إِنَّكَ عَلَىٰ كُلِّ شَيۡءٖ قَدِيرٞ
 sentence_translation: Say, ˹O Prophet,˺ “O Allah! Lord over all authorities! You give
   authority to whoever You please and remove it from who You please; You honour whoever
   You please and disgrace who You please—all good is in Your Hands. Surely You ˹alone˺
@@ -12,27 +12,27 @@ word_by_word:
     translation: Say
     transliteration: quli
   2:
-    arabic: اللّٰهُمَّ
+    arabic: ٱللَّهُمَّ
     translation: O Allah
     transliteration: l-lahuma
   3:
-    arabic: مٰلِكَ
+    arabic: مَٰلِكَ
     translation: Owner
     transliteration: mālika
   4:
-    arabic: الۡمُلۡكِ
+    arabic: ٱلۡمُلۡكِ
     translation: (of) the Dominion
     transliteration: l-mul'ki
   5:
-    arabic: تُؤۡتِى
+    arabic: تُؤۡتِي
     translation: You give
     transliteration: tu'tī
   6:
-    arabic: الۡمُلۡكَ
+    arabic: ٱلۡمُلۡكَ
     translation: the dominion
     transliteration: l-mul'ka
   7:
-    arabic: مَنۡ
+    arabic: مَن
     translation: (to) whom
     transliteration: man
   8:
@@ -40,19 +40,19 @@ word_by_word:
     translation: You will
     transliteration: tashāu
   9:
-    arabic: وَتَنۡزِعُ
+    arabic: وَتَنزِعُ
     translation: and You take away
     transliteration: watanziʿu
   10:
-    arabic: الۡمُلۡكَ
+    arabic: ٱلۡمُلۡكَ
     translation: the dominion
     transliteration: l-mul'ka
   11:
-    arabic: مِمَّنۡ
+    arabic: مِمَّن
     translation: from whom
     transliteration: mimman
   12:
-    arabic: تَشَآءُ
+    arabic: تَشَآءُ
     translation: You will
     transliteration: tashāu
   13:
@@ -60,7 +60,7 @@ word_by_word:
     translation: and You honor
     transliteration: watuʿizzu
   14:
-    arabic: مَنۡ
+    arabic: مَن
     translation: whom
     transliteration: man
   15:
@@ -72,11 +72,11 @@ word_by_word:
     translation: and You humiliate
     transliteration: watudhillu
   17:
-    arabic: مَنۡ
+    arabic: مَن
     translation: whom
     transliteration: man
   18:
-    arabic: تَشَآءُ​ ؕ
+    arabic: تَشَآءُۖ
     translation: You will
     transliteration: tashāu
   19:
@@ -84,15 +84,15 @@ word_by_word:
     translation: In Your hand
     transliteration: biyadika
   20:
-    arabic: الۡخَيۡرُ​ؕ
+    arabic: ٱلۡخَيۡرُۖ
     translation: (is all) the good
     transliteration: l-khayru
   21:
-    arabic: اِنَّكَ
+    arabic: إِنَّكَ
     translation: Indeed, You
     transliteration: innaka
   22:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: (are) on
     transliteration: ʿalā
   23:
@@ -100,11 +100,11 @@ word_by_word:
     translation: every
     transliteration: kulli
   24:
-    arabic: شَىۡءٍ
+    arabic: شَيۡءٖ
     translation: thing
     transliteration: shayin
   25:
-    arabic: قَدِيۡرٌ‏
+    arabic: قَدِيرٞ
     translation: All-Powerful
     transliteration: qadīrun
 ---

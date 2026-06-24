@@ -1,6 +1,6 @@
 ---
-arabic_ayat: هُوَ الَّذِىۡ جَعَلَ لَـكُمُ الَّيۡلَ لِتَسۡكُنُوۡا فِيۡهِ وَالنَّهَارَ
-  مُبۡصِرًا​ ؕ اِنَّ فِىۡ ذٰ لِكَ لَاٰيٰتٍ لِّـقَوۡمٍ يَّسۡمَعُوۡنَ‏
+arabic_ayat: هُوَ ٱلَّذِي جَعَلَ لَكُمُ ٱلَّيۡلَ لِتَسۡكُنُواْ فِيهِ وَٱلنَّهَارَ
+  مُبۡصِرًاۚ إِنَّ فِي ذَٰلِكَ لَأٓيَٰتٖ لِّقَوۡمٖ يَسۡمَعُونَ
 sentence_translation: He is the One Who has made the night for you to rest in and
   the day bright. Surely in this are signs for people who listen.
 word_by_word:
@@ -9,7 +9,7 @@ word_by_word:
     translation: He
     transliteration: huwa
   2:
-    arabic: الَّذِىۡ
+    arabic: ٱلَّذِي
     translation: (is) the One Who
     transliteration: alladhī
   3:
@@ -17,51 +17,51 @@ word_by_word:
     translation: made
     transliteration: jaʿala
   4:
-    arabic: لَـكُمُ
+    arabic: لَكُمُ
     translation: for you
     transliteration: lakumu
   5:
-    arabic: الَّيۡلَ
+    arabic: ٱلَّيۡلَ
     translation: the night
     transliteration: al-layla
   6:
-    arabic: لِتَسۡكُنُوۡا
+    arabic: لِتَسۡكُنُواْ
     translation: that you may rest
     transliteration: litaskunū
   7:
-    arabic: فِيۡهِ
+    arabic: فِيهِ
     translation: in it
     transliteration: fīhi
   8:
-    arabic: وَالنَّهَارَ
+    arabic: وَٱلنَّهَارَ
     translation: and the day
     transliteration: wal-nahāra
   9:
-    arabic: مُبۡصِرًا​ ؕ
+    arabic: مُبۡصِرًاۚ
     translation: giving visibility
     transliteration: mub'ṣiran
   10:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   11:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   12:
-    arabic: ذٰ لِكَ
+    arabic: ذَٰلِكَ
     translation: that
     transliteration: dhālika
   13:
-    arabic: لَاٰيٰتٍ
+    arabic: لَأٓيَٰتٖ
     translation: surely (are) Signs
     transliteration: laāyātin
   14:
-    arabic: لِّـقَوۡمٍ
+    arabic: لِّقَوۡمٖ
     translation: for a people
     transliteration: liqawmin
   15:
-    arabic: يَّسۡمَعُوۡنَ‏
+    arabic: يَسۡمَعُونَ
     translation: (who) listen
     transliteration: yasmaʿūna
 ---

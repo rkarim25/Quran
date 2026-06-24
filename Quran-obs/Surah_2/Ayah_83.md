@@ -1,31 +1,31 @@
 ---
-arabic_ayat: وَاِذۡ اَخَذۡنَا مِيۡثَاقَ بَنِىۡٓ اِسۡرَآءِيۡلَ لَا تَعۡبُدُوۡنَ اِلَّا
-  اللّٰهَ وَبِالۡوَالِدَيۡنِ اِحۡسَانًا وَّذِى الۡقُرۡبٰى وَالۡيَتٰمٰى وَالۡمَسٰکِيۡنِ
-  وَقُوۡلُوۡا لِلنَّاسِ حُسۡنًا وَّاَقِيۡمُوا الصَّلٰوةَ وَاٰتُوا الزَّکٰوةَ ؕ ثُمَّ
-  تَوَلَّيۡتُمۡ اِلَّا قَلِيۡلًا مِّنۡکُمۡ وَاَنۡـتُمۡ مُّعۡرِضُوۡنَ‏
+arabic_ayat: وَإِذۡ أَخَذۡنَا مِيثَٰقَ بَنِيٓ إِسۡرَٰٓءِيلَ لَا تَعۡبُدُونَ إِلَّا
+  ٱللَّهَ وَبِٱلۡوَٰلِدَيۡنِ إِحۡسَانٗا وَذِي ٱلۡقُرۡبَىٰ وَٱلۡيَتَٰمَىٰ وَٱلۡمَسَٰكِينِ
+  وَقُولُواْ لِلنَّاسِ حُسۡنٗا وَأَقِيمُواْ ٱلصَّلَوٰةَ وَءَاتُواْ ٱلزَّكَوٰةَ ثُمَّ
+  تَوَلَّيۡتُمۡ إِلَّا قَلِيلٗا مِّنكُمۡ وَأَنتُم مُّعۡرِضُونَ
 sentence_translation: And ˹remember˺ when We took a covenant from the children of
   Israel ˹stating˺, “Worship none but Allah; be kind to parents, relatives, orphans
   and the needy; speak kindly to people; establish prayer; and pay alms-tax.” But
   you ˹Israelites˺ turned away—except for a few of you—and were indifferent.
 word_by_word:
   1:
-    arabic: وَاِذۡ
+    arabic: وَإِذۡ
     translation: And when
     transliteration: wa-idh
   2:
-    arabic: اَخَذۡنَا
+    arabic: أَخَذۡنَا
     translation: We took
     transliteration: akhadhnā
   3:
-    arabic: مِيۡثَاقَ
+    arabic: مِيثَٰقَ
     translation: (the) covenant
     transliteration: mīthāqa
   4:
-    arabic: بَنِىۡٓ
+    arabic: بَنِيٓ
     translation: (from the) Children
     transliteration: banī
   5:
-    arabic: اِسۡرَآءِيۡلَ
+    arabic: إِسۡرَٰٓءِيلَ
     translation: (of) Israel
     transliteration: is'rāīla
   6:
@@ -33,43 +33,43 @@ word_by_word:
     translation: Not
     transliteration: lā
   7:
-    arabic: تَعۡبُدُوۡنَ
+    arabic: تَعۡبُدُونَ
     translation: you will worship
     transliteration: taʿbudūna
   8:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   9:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   10:
-    arabic: وَبِالۡوَالِدَيۡنِ
+    arabic: وَبِٱلۡوَٰلِدَيۡنِ
     translation: and with [the] parents
     transliteration: wabil-wālidayni
   11:
-    arabic: اِحۡسَانًا
+    arabic: إِحۡسَانٗا
     translation: (be) good
     transliteration: iḥ'sānan
   12:
-    arabic: وَّذِى
+    arabic: وَذِي
     translation: and (with)
     transliteration: wadhī
   13:
-    arabic: الۡقُرۡبٰى
+    arabic: ٱلۡقُرۡبَىٰ
     translation: relatives
     transliteration: l-qur'bā
   14:
-    arabic: وَالۡيَتٰمٰى
+    arabic: وَٱلۡيَتَٰمَىٰ
     translation: and [the] orphans
     transliteration: wal-yatāmā
   15:
-    arabic: وَالۡمَسٰکِيۡنِ
+    arabic: وَٱلۡمَسَٰكِينِ
     translation: and the needy
     transliteration: wal-masākīni
   16:
-    arabic: وَقُوۡلُوۡا
+    arabic: وَقُولُواْ
     translation: and speak
     transliteration: waqūlū
   17:
@@ -77,23 +77,23 @@ word_by_word:
     translation: to [the] people
     transliteration: lilnnāsi
   18:
-    arabic: حُسۡنًا
+    arabic: حُسۡنٗا
     translation: good
     transliteration: ḥus'nan
   19:
-    arabic: وَّاَقِيۡمُوا
+    arabic: وَأَقِيمُواْ
     translation: and establish
     transliteration: wa-aqīmū
   20:
-    arabic: الصَّلٰوةَ
+    arabic: ٱلصَّلَوٰةَ
     translation: the prayer
     transliteration: l-ṣalata
   21:
-    arabic: وَاٰتُوا
+    arabic: وَءَاتُواْ
     translation: and give
     transliteration: waātū
   22:
-    arabic: الزَّکٰوةَ ؕ
+    arabic: ٱلزَّكَوٰةَ
     translation: the zakah
     transliteration: l-zakata
   23:
@@ -105,23 +105,23 @@ word_by_word:
     translation: you turned away
     transliteration: tawallaytum
   25:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   26:
-    arabic: قَلِيۡلًا
+    arabic: قَلِيلٗا
     translation: a few
     transliteration: qalīlan
   27:
-    arabic: مِّنۡکُمۡ
+    arabic: مِّنكُمۡ
     translation: of you
     transliteration: minkum
   28:
-    arabic: وَاَنۡـتُمۡ
+    arabic: وَأَنتُم
     translation: and you (were)
     transliteration: wa-antum
   29:
-    arabic: مُّعۡرِضُوۡنَ‏
+    arabic: مُّعۡرِضُونَ
     translation: refusing
     transliteration: muʿ'riḍūna
 ---

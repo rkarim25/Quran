@@ -1,22 +1,22 @@
 ---
-arabic_ayat: فَرَوۡحٌ وَّ رَيۡحَانٌ ۙ وَّجَنَّتُ نَعِيۡمٍ‏
+arabic_ayat: فَرَوۡحٞ وَرَيۡحَانٞ وَجَنَّتُ نَعِيمٖ
 sentence_translation: then ˹such a person will have˺ serenity, fragrance, and a Garden
   of Bliss.
 word_by_word:
   1:
-    arabic: فَرَوۡحٌ
+    arabic: فَرَوۡحٞ
     translation: Then rest
     transliteration: farawḥun
   2:
-    arabic: وَّ رَيۡحَانٌ ۙ
+    arabic: وَرَيۡحَانٞ
     translation: and bounty
     transliteration: warayḥānun
   3:
-    arabic: وَّجَنَّتُ
+    arabic: وَجَنَّتُ
     translation: and a Garden
     transliteration: wajannatu
   4:
-    arabic: نَعِيۡمٍ‏
+    arabic: نَعِيمٖ
     translation: (of) Pleasure
     transliteration: naʿīmin
 ---

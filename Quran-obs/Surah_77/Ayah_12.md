@@ -1,9 +1,9 @@
 ---
-arabic_ayat: لِاَىِّ يَوۡمٍ اُجِّلَتۡؕ‏
+arabic_ayat: لِأَيِّ يَوۡمٍ أُجِّلَتۡ
 sentence_translation: for which Day has all this been set?
 word_by_word:
   1:
-    arabic: لِاَىِّ
+    arabic: لِأَيِّ
     translation: For what
     transliteration: li-ayyi
   2:
@@ -11,7 +11,7 @@ word_by_word:
     translation: Day
     transliteration: yawmin
   3:
-    arabic: اُجِّلَتۡؕ‏
+    arabic: أُجِّلَتۡ
     translation: are (these) postponed
     transliteration: ujjilat
 ---

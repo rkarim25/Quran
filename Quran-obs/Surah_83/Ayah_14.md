@@ -1,14 +1,14 @@
 ---
-arabic_ayat: كَلَّا​ بَلۡ رَانَ عَلٰى قُلُوۡبِهِمۡ مَّا كَانُوۡا يَكۡسِبُوۡنَ‏
+arabic_ayat: كـَلَّاۖ بَلۡۜ رَانَ عَلَىٰ قُلُوبِهِم مَّا كَانُواْ يَكۡسِبُونَ
 sentence_translation: But no! In fact, their hearts have been stained by all ˹the
   evil˺ they used to commit!
 word_by_word:
   1:
-    arabic: كَلَّا​
+    arabic: كـَلَّاۖ
     translation: Nay
     transliteration: kallā
   2:
-    arabic: بَلۡ
+    arabic: بَلۡۜ
     translation: But
     transliteration: bal
   3:
@@ -16,11 +16,11 @@ word_by_word:
     translation: (the) stain has covered
     transliteration: rāna
   4:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: '[over]'
     transliteration: ʿalā
   5:
-    arabic: قُلُوۡبِهِمۡ
+    arabic: قُلُوبِهِم
     translation: their hearts
     transliteration: qulūbihim
   6:
@@ -28,11 +28,11 @@ word_by_word:
     translation: (for) what
     transliteration: mā
   7:
-    arabic: كَانُوۡا
+    arabic: كَانُواْ
     translation: they used to
     transliteration: kānū
   8:
-    arabic: يَكۡسِبُوۡنَ‏
+    arabic: يَكۡسِبُونَ
     translation: earn
     transliteration: yaksibūna
 ---

@@ -1,7 +1,6 @@
 ---
-arabic_ayat: وَرَبُّكَ الۡغَنِىُّ ذُو الرَّحۡمَةِ ​ؕ اِنۡ يَّشَاۡ يُذۡهِبۡكُمۡ وَيَسۡتَخۡلِفۡ
-  مِنۡۢ بَعۡدِكُمۡ مَّا يَشَآءُ كَمَاۤ اَنۡشَاَكُمۡ مِّنۡ ذُرِّيَّةِ قَوۡمٍ اٰخَرِيۡنَ
-  ؕ‏
+arabic_ayat: وَرَبُّكَ ٱلۡغَنِيُّ ذُو ٱلرَّحۡمَةِۚ إِن يَشَأۡ يُذۡهِبۡكُمۡ وَيَسۡتَخۡلِفۡ
+  مِنۢ بَعۡدِكُم مَّا يَشَآءُ كَمَآ أَنشَأَكُم مِّن ذُرِّيَّةِ قَوۡمٍ ءَاخَرِينَ
 sentence_translation: Your Lord is the Self-Sufficient, Full of Mercy. If He wills,
   He can do away with you and replace you with whoever He wills, just as He produced
   you from the offspring of other people.
@@ -11,7 +10,7 @@ word_by_word:
     translation: And your Lord
     transliteration: warabbuka
   2:
-    arabic: الۡغَنِىُّ
+    arabic: ٱلۡغَنِيُّ
     translation: (is) the Self-Sufficient
     transliteration: l-ghaniyu
   3:
@@ -19,15 +18,15 @@ word_by_word:
     translation: (the) Possessor
     transliteration: dhū
   4:
-    arabic: الرَّحۡمَةِ ​ؕ
+    arabic: ٱلرَّحۡمَةِۚ
     translation: (of) mercy
     transliteration: l-raḥmati
   5:
-    arabic: اِنۡ
+    arabic: إِن
     translation: If
     transliteration: in
   6:
-    arabic: يَّشَاۡ
+    arabic: يَشَأۡ
     translation: He wills
     transliteration: yasha
   7:
@@ -39,11 +38,11 @@ word_by_word:
     translation: and grant succession
     transliteration: wayastakhlif
   9:
-    arabic: مِنۡۢ
+    arabic: مِنۢ
     translation: from
     transliteration: min
   10:
-    arabic: بَعۡدِكُمۡ
+    arabic: بَعۡدِكُم
     translation: after you
     transliteration: baʿdikum
   11:
@@ -55,15 +54,15 @@ word_by_word:
     translation: He wills
     transliteration: yashāu
   13:
-    arabic: كَمَاۤ
+    arabic: كَمَآ
     translation: as
     transliteration: kamā
   14:
-    arabic: اَنۡشَاَكُمۡ
+    arabic: أَنشَأَكُم
     translation: He raised you
     transliteration: ansha-akum
   15:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: from
     transliteration: min
   16:
@@ -71,11 +70,11 @@ word_by_word:
     translation: the descendants
     transliteration: dhurriyyati
   17:
-    arabic: قَوۡمٍ
+    arabic: قَوۡمٍ ءَ
     translation: (of) people
     transliteration: qawmin
   18:
-    arabic: اٰخَرِيۡنَ ؕ‏
+    arabic: اخَرِينَ
     translation: other
     transliteration: ākharīna
 ---

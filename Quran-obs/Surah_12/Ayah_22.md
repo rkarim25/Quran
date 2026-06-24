@@ -1,6 +1,6 @@
 ---
-arabic_ayat: وَلَمَّا بَلَغَ اَشُدَّهٗۤ اٰتَيۡنٰهُ حُكۡمًا وَّعِلۡمًا​ ؕ وَكَذٰلِكَ
-  نَجۡزِى الۡمُحۡسِنِيۡنَ‏
+arabic_ayat: وَلَمَّا بَلَغَ أَشُدَّهُۥٓ ءَاتَيۡنَٰهُ حُكۡمٗا وَعِلۡمٗاۚ وَكَذَٰلِكَ
+  نَجۡزِي ٱلۡمُحۡسِنِينَ
 sentence_translation: And when he reached maturity, We gave him wisdom and knowledge.
   This is how We reward the good-doers.
 word_by_word:
@@ -13,31 +13,31 @@ word_by_word:
     translation: he reached
     transliteration: balagha
   3:
-    arabic: اَشُدَّهٗۤ
+    arabic: أَشُدَّهُۥٓ ءَ
     translation: his maturity
     transliteration: ashuddahu
   4:
-    arabic: اٰتَيۡنٰهُ
+    arabic: اتَيۡنَٰهُ
     translation: We gave him
     transliteration: ātaynāhu
   5:
-    arabic: حُكۡمًا
+    arabic: حُكۡمٗا
     translation: wisdom
     transliteration: ḥuk'man
   6:
-    arabic: وَّعِلۡمًا​ ؕ
+    arabic: وَعِلۡمٗاۚ
     translation: and knowledge
     transliteration: waʿil'man
   7:
-    arabic: وَكَذٰلِكَ
+    arabic: وَكَذَٰلِكَ
     translation: And thus
     transliteration: wakadhālika
   8:
-    arabic: نَجۡزِى
+    arabic: نَجۡزِي
     translation: We reward
     transliteration: najzī
   9:
-    arabic: الۡمُحۡسِنِيۡنَ‏
+    arabic: ٱلۡمُحۡسِنِينَ
     translation: the good-doers
     transliteration: l-muḥ'sinīna
 ---

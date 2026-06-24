@@ -1,8 +1,8 @@
 ---
-arabic_ayat: هَلۡ يَنۡظُرُوۡنَ اِلَّاۤ اَنۡ تَاۡتِيَهُمُ الۡمَلٰۤٮِٕكَةُ اَوۡ يَاۡتِىَ
-  رَبُّكَ اَوۡ يَاۡتِىَ بَعۡضُ اٰيٰتِ رَبِّكَ ؕ يَوۡمَ يَاۡتِىۡ بَعۡضُ اٰيٰتِ رَبِّكَ
-  لَا يَنۡفَعُ نَفۡسًا اِيۡمَانُهَا لَمۡ تَكُنۡ اٰمَنَتۡ مِنۡ قَبۡلُ اَوۡ كَسَبَتۡ
-  فِىۡۤ اِيۡمَانِهَا خَيۡرًا​ ؕ قُلِ انْتَظِرُوۡۤا اِنَّا مُنۡتَظِرُوۡنَ‏
+arabic_ayat: هَلۡ يَنظُرُونَ إِلَّآ أَن تَأۡتِيَهُمُ ٱلۡمَلَٰٓئِكَةُ أَوۡ يَأۡتِيَ
+  رَبُّكَ أَوۡ يَأۡتِيَ بَعۡضُ ءَايَٰتِ رَبِّكَۗ يَوۡمَ يَأۡتِي بَعۡضُ ءَايَٰتِ رَبِّكَ
+  لَا يَنفَعُ نَفۡسًا إِيمَٰنُهَا لَمۡ تَكُنۡ ءَامَنَتۡ مِن قَبۡلُ أَوۡ كَسَبَتۡ فِيٓ
+  إِيمَٰنِهَا خَيۡرٗاۗ قُلِ ٱنتَظِرُوٓاْ إِنَّا مُنتَظِرُونَ
 sentence_translation: Are they awaiting the coming of the angels, or your Lord ˹Himself˺,
   or some of your Lord’s ˹major˺ signs? On the Day your Lord’s signs arrive, belief
   will not benefit those who did not believe earlier or those who did no good through
@@ -13,31 +13,31 @@ word_by_word:
     translation: Are
     transliteration: hal
   2:
-    arabic: يَنۡظُرُوۡنَ
+    arabic: يَنظُرُونَ
     translation: they waiting
     transliteration: yanẓurūna
   3:
-    arabic: اِلَّاۤ
+    arabic: إِلَّآ
     translation: except
     transliteration: illā
   4:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that
     transliteration: an
   5:
-    arabic: تَاۡتِيَهُمُ
+    arabic: تَأۡتِيَهُمُ
     translation: comes to them
     transliteration: tatiyahumu
   6:
-    arabic: الۡمَلٰۤٮِٕكَةُ
+    arabic: ٱلۡمَلَٰٓئِكَةُ
     translation: the Angels
     transliteration: l-malāikatu
   7:
-    arabic: اَوۡ
+    arabic: أَوۡ
     translation: or
     transliteration: aw
   8:
-    arabic: يَاۡتِىَ
+    arabic: يَأۡتِيَ
     translation: comes
     transliteration: yatiya
   9:
@@ -45,23 +45,23 @@ word_by_word:
     translation: your Lord
     transliteration: rabbuka
   10:
-    arabic: اَوۡ
+    arabic: أَوۡ
     translation: or
     transliteration: aw
   11:
-    arabic: يَاۡتِىَ
+    arabic: يَأۡتِيَ
     translation: comes
     transliteration: yatiya
   12:
-    arabic: بَعۡضُ
+    arabic: بَعۡضُ ءَ
     translation: some (of)
     transliteration: baʿḍu
   13:
-    arabic: اٰيٰتِ
+    arabic: ايَٰتِ
     translation: (the) Signs
     transliteration: āyāti
   14:
-    arabic: رَبِّكَ ؕ
+    arabic: رَبِّكَۗ
     translation: (of) your Lord
     transliteration: rabbika
   15:
@@ -69,15 +69,15 @@ word_by_word:
     translation: (The) Day
     transliteration: yawma
   16:
-    arabic: يَاۡتِىۡ
+    arabic: يَأۡتِي
     translation: (when) comes
     transliteration: yatī
   17:
-    arabic: بَعۡضُ
+    arabic: بَعۡضُ ءَ
     translation: some (of)
     transliteration: baʿḍu
   18:
-    arabic: اٰيٰتِ
+    arabic: ايَٰتِ
     translation: (the) Signs
     transliteration: āyāti
   19:
@@ -89,7 +89,7 @@ word_by_word:
     translation: not
     transliteration: lā
   21:
-    arabic: يَنۡفَعُ
+    arabic: يَنفَعُ
     translation: will benefit
     transliteration: yanfaʿu
   22:
@@ -97,7 +97,7 @@ word_by_word:
     translation: a soul
     transliteration: nafsan
   23:
-    arabic: اِيۡمَانُهَا
+    arabic: إِيمَٰنُهَا
     translation: its faith
     transliteration: īmānuhā
   24:
@@ -105,15 +105,15 @@ word_by_word:
     translation: not
     transliteration: lam
   25:
-    arabic: تَكُنۡ
+    arabic: تَكُنۡ ءَ
     translation: (if) it had
     transliteration: takun
   26:
-    arabic: اٰمَنَتۡ
+    arabic: امَنَتۡ
     translation: believed
     transliteration: āmanat
   27:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   28:
@@ -121,7 +121,7 @@ word_by_word:
     translation: before
     transliteration: qablu
   29:
-    arabic: اَوۡ
+    arabic: أَوۡ
     translation: or
     transliteration: aw
   30:
@@ -129,15 +129,15 @@ word_by_word:
     translation: earned
     transliteration: kasabat
   31:
-    arabic: فِىۡۤ
+    arabic: فِيٓ
     translation: through
     transliteration: fī
   32:
-    arabic: اِيۡمَانِهَا
+    arabic: إِيمَٰنِهَا
     translation: its faith
     transliteration: īmānihā
   33:
-    arabic: خَيۡرًا​ ؕ
+    arabic: خَيۡرٗاۗ
     translation: any good
     transliteration: khayran
   34:
@@ -145,15 +145,15 @@ word_by_word:
     translation: Say
     transliteration: quli
   35:
-    arabic: انْتَظِرُوۡۤا
+    arabic: ٱنتَظِرُوٓاْ
     translation: Wait
     transliteration: intaẓirū
   36:
-    arabic: اِنَّا
+    arabic: إِنَّا
     translation: Indeed, we
     transliteration: innā
   37:
-    arabic: مُنۡتَظِرُوۡنَ‏
+    arabic: مُنتَظِرُونَ
     translation: (are) those who wait
     transliteration: muntaẓirūna
 ---

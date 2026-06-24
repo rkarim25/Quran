@@ -1,7 +1,7 @@
 ---
-arabic_ayat: قَالَ سَاٰوِىۡۤ اِلٰى جَبَلٍ يَّعۡصِمُنِىۡ مِنَ الۡمَآءِ​ؕ قَالَ لَا
-  عَاصِمَ الۡيَوۡمَ مِنۡ اَمۡرِ اللّٰهِ اِلَّا مَنۡ رَّحِمَ​ۚ وَحَالَ بَيۡنَهُمَا
-  الۡمَوۡجُ فَكَانَ مِنَ الۡمُغۡرَقِيۡنَ‏
+arabic_ayat: قَالَ سَـَٔاوِيٓ إِلَىٰ جَبَلٖ يَعۡصِمُنِي مِنَ ٱلۡمَآءِۚ قَالَ لَا
+  عَاصِمَ ٱلۡيَوۡمَ مِنۡ أَمۡرِ ٱللَّهِ إِلَّا مَن رَّحِمَۚ وَحَالَ بَيۡنَهُمَا ٱلۡمَوۡجُ
+  فَكَانَ مِنَ ٱلۡمُغۡرَقِينَ
 sentence_translation: He replied, “I will take refuge on a mountain, which will protect
   me from the water.” Noah cried, “Today no one is protected from Allah’s decree except
   those to whom He shows mercy!” And the waves came between them, and his son was
@@ -12,19 +12,19 @@ word_by_word:
     translation: He said
     transliteration: qāla
   2:
-    arabic: سَاٰوِىۡۤ
+    arabic: سَـَٔاوِيٓ
     translation: I will betake myself
     transliteration: saāwī
   3:
-    arabic: اِلٰى
+    arabic: إِلَىٰ
     translation: to
     transliteration: ilā
   4:
-    arabic: جَبَلٍ
+    arabic: جَبَلٖ
     translation: a mountain
     transliteration: jabalin
   5:
-    arabic: يَّعۡصِمُنِىۡ
+    arabic: يَعۡصِمُنِي
     translation: (that) will save me
     transliteration: yaʿṣimunī
   6:
@@ -32,7 +32,7 @@ word_by_word:
     translation: from
     transliteration: mina
   7:
-    arabic: الۡمَآءِ​ؕ
+    arabic: ٱلۡمَآءِۚ
     translation: the water
     transliteration: l-māi
   8:
@@ -48,7 +48,7 @@ word_by_word:
     translation: protector
     transliteration: ʿāṣima
   11:
-    arabic: الۡيَوۡمَ
+    arabic: ٱلۡيَوۡمَ
     translation: today
     transliteration: l-yawma
   12:
@@ -56,23 +56,23 @@ word_by_word:
     translation: from
     transliteration: min
   13:
-    arabic: اَمۡرِ
+    arabic: أَمۡرِ
     translation: the Command of Allah
     transliteration: amri
   14:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: the Command of Allah
     transliteration: l-lahi
   15:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   16:
-    arabic: مَنۡ
+    arabic: مَن
     translation: (on) whom
     transliteration: man
   17:
-    arabic: رَّحِمَ​ۚ
+    arabic: رَّحِمَۚ
     translation: He has mercy
     transliteration: raḥima
   18:
@@ -84,7 +84,7 @@ word_by_word:
     translation: (in) between them
     transliteration: baynahumā
   20:
-    arabic: الۡمَوۡجُ
+    arabic: ٱلۡمَوۡجُ
     translation: the waves
     transliteration: l-mawju
   21:
@@ -96,7 +96,7 @@ word_by_word:
     translation: among
     transliteration: mina
   23:
-    arabic: الۡمُغۡرَقِيۡنَ‏
+    arabic: ٱلۡمُغۡرَقِينَ
     translation: the drowned
     transliteration: l-mugh'raqīna
 ---

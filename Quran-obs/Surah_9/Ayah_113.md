@@ -1,7 +1,7 @@
 ---
-arabic_ayat: مَا كَانَ لِلنَّبِىِّ وَالَّذِيۡنَ اٰمَنُوۡاۤ اَنۡ يَّسۡتَغۡفِرُوۡا لِلۡمُشۡرِكِيۡنَ
-  وَ لَوۡ كَانُوۡۤا اُولِىۡ قُرۡبٰى مِنۡۢ بَعۡدِ مَا تَبَيَّنَ لَهُمۡ اَنَّهُمۡ اَصۡحٰبُ
-  الۡجَحِيۡمِ‏
+arabic_ayat: مَا كَانَ لِلنَّبِيِّ وَٱلَّذِينَ ءَامَنُوٓاْ أَن يَسۡتَغۡفِرُواْ لِلۡمُشۡرِكِينَ
+  وَلَوۡ كَانُوٓاْ أُوْلِي قُرۡبَىٰ مِنۢ بَعۡدِ مَا تَبَيَّنَ لَهُمۡ أَنَّهُمۡ أَصۡحَٰبُ
+  ٱلۡجَحِيمِ
 sentence_translation: It is not ˹proper˺ for the Prophet and the believers to seek
   forgiveness for the polytheists, even if they were close relatives, after it has
   become clear to the believers that they are bound for the Hellfire.
@@ -15,47 +15,47 @@ word_by_word:
     translation: (it) is
     transliteration: kāna
   3:
-    arabic: لِلنَّبِىِّ
+    arabic: لِلنَّبِيِّ
     translation: for the Prophet
     transliteration: lilnnabiyyi
   4:
-    arabic: وَالَّذِيۡنَ
+    arabic: وَٱلَّذِينَ ءَ
     translation: and those who
     transliteration: wa-alladhīna
   5:
-    arabic: اٰمَنُوۡاۤ
+    arabic: امَنُوٓاْ
     translation: believe
     transliteration: āmanū
   6:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that
     transliteration: an
   7:
-    arabic: يَّسۡتَغۡفِرُوۡا
+    arabic: يَسۡتَغۡفِرُواْ
     translation: they ask forgiveness
     transliteration: yastaghfirū
   8:
-    arabic: لِلۡمُشۡرِكِيۡنَ
+    arabic: لِلۡمُشۡرِكِينَ
     translation: for the polytheists
     transliteration: lil'mush'rikīna
   9:
-    arabic: وَ لَوۡ
+    arabic: وَلَوۡ
     translation: even though
     transliteration: walaw
   10:
-    arabic: كَانُوۡۤا
+    arabic: كَانُوٓاْ
     translation: they be
     transliteration: kānū
   11:
-    arabic: اُولِىۡ
+    arabic: أُوْلِي
     translation: near of kin
     transliteration: ulī
   12:
-    arabic: قُرۡبٰى
+    arabic: قُرۡبَىٰ
     translation: near of kin
     transliteration: qur'bā
   13:
-    arabic: مِنۡۢ
+    arabic: مِنۢ
     translation: after
     transliteration: min
   14:
@@ -75,15 +75,15 @@ word_by_word:
     translation: to them
     transliteration: lahum
   18:
-    arabic: اَنَّهُمۡ
+    arabic: أَنَّهُمۡ
     translation: that they
     transliteration: annahum
   19:
-    arabic: اَصۡحٰبُ
+    arabic: أَصۡحَٰبُ
     translation: (are the) companions
     transliteration: aṣḥābu
   20:
-    arabic: الۡجَحِيۡمِ‏
+    arabic: ٱلۡجَحِيمِ
     translation: (of) the Hellfire
     transliteration: l-jaḥīmi
 ---

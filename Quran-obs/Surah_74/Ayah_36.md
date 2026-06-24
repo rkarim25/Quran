@@ -1,13 +1,13 @@
 ---
-arabic_ayat: نَذِيۡرًا لِّلۡبَشَرِۙ‏
+arabic_ayat: نَذِيرٗا لِّلۡبَشَرِ
 sentence_translation: a warning to humankind,
 word_by_word:
   1:
-    arabic: نَذِيۡرًا
+    arabic: نَذِيرٗا
     translation: A warning
     transliteration: nadhīran
   2:
-    arabic: لِّلۡبَشَرِۙ‏
+    arabic: لِّلۡبَشَرِ
     translation: to (the) human being
     transliteration: lil'bashari
 ---

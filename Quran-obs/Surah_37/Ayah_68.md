@@ -1,5 +1,5 @@
 ---
-arabic_ayat: ثُمَّ اِنَّ مَرۡجِعَهُمۡ لَا۟اِلَى الۡجَحِيۡمِ‏
+arabic_ayat: ثُمَّ إِنَّ مَرۡجِعَهُمۡ لَإِلَى ٱلۡجَحِيمِ
 sentence_translation: Then they will ultimately return to ˹their place in˺ Hell.
 word_by_word:
   1:
@@ -7,7 +7,7 @@ word_by_word:
     translation: Then
     transliteration: thumma
   2:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: indeed
     transliteration: inna
   3:
@@ -15,11 +15,11 @@ word_by_word:
     translation: their return
     transliteration: marjiʿahum
   4:
-    arabic: لَا۟اِلَى
+    arabic: لَإِلَى
     translation: (will) surely be to
     transliteration: la-ilā
   5:
-    arabic: الۡجَحِيۡمِ‏
+    arabic: ٱلۡجَحِيمِ
     translation: the Hellfire
     transliteration: l-jaḥīmi
 ---

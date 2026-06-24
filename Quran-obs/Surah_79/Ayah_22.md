@@ -1,5 +1,5 @@
 ---
-arabic_ayat: ثُمَّ اَدۡبَرَ يَسۡعٰىۖ‏
+arabic_ayat: ثُمَّ أَدۡبَرَ يَسۡعَىٰ
 sentence_translation: then turned his back, striving ˹against the truth˺.
 word_by_word:
   1:
@@ -7,11 +7,11 @@ word_by_word:
     translation: Then
     transliteration: thumma
   2:
-    arabic: اَدۡبَرَ
+    arabic: أَدۡبَرَ
     translation: he turned his back
     transliteration: adbara
   3:
-    arabic: يَسۡعٰىۖ‏
+    arabic: يَسۡعَىٰ
     translation: striving
     transliteration: yasʿā
 ---

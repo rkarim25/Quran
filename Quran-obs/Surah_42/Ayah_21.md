@@ -1,14 +1,14 @@
 ---
-arabic_ayat: اَمۡ لَهُمۡ شُرَكٰٓؤُا شَرَعُوۡا لَهُمۡ مِّنَ الدِّيۡنِ مَا لَمۡ يَاۡذَنۡۢ
-  بِهِ اللّٰهُ​ؕ وَلَوۡلَا كَلِمَةُ الۡفَصۡلِ لَقُضِىَ بَيۡنَهُمۡ​ؕ وَاِنَّ الظّٰلِمِيۡنَ
-  لَهُمۡ عَذَابٌ اَلِيۡمٌ‏
+arabic_ayat: أَمۡ لَهُمۡ شُرَكَٰٓؤُاْ شَرَعُواْ لَهُم مِّنَ ٱلدِّينِ مَا لَمۡ يَأۡذَنۢ
+  بِهِ ٱللَّهُۚ وَلَوۡلَا كَلِمَةُ ٱلۡفَصۡلِ لَقُضِيَ بَيۡنَهُمۡۗ وَإِنَّ ٱلظَّٰلِمِينَ
+  لَهُمۡ عَذَابٌ أَلِيمٞ
 sentence_translation: Or do they have associate-gods who have ordained for them some
   ˹polytheistic˺ beliefs, which Allah has not authorized? Had it not been for ˹prior˺
   decree on Judgment, the matter would have certainly been settled between them ˹at
   once˺. And surely the wrongdoers will suffer a painful punishment.
 word_by_word:
   1:
-    arabic: اَمۡ
+    arabic: أَمۡ
     translation: Or
     transliteration: am
   2:
@@ -16,15 +16,15 @@ word_by_word:
     translation: for them
     transliteration: lahum
   3:
-    arabic: شُرَكٰٓؤُا
+    arabic: شُرَكَٰٓؤُاْ
     translation: (are) partners
     transliteration: shurakāu
   4:
-    arabic: شَرَعُوۡا
+    arabic: شَرَعُواْ
     translation: who have ordained
     transliteration: sharaʿū
   5:
-    arabic: لَهُمۡ
+    arabic: لَهُم
     translation: for them
     transliteration: lahum
   6:
@@ -32,7 +32,7 @@ word_by_word:
     translation: of
     transliteration: mina
   7:
-    arabic: الدِّيۡنِ
+    arabic: ٱلدِّينِ
     translation: the religion
     transliteration: l-dīni
   8:
@@ -44,7 +44,7 @@ word_by_word:
     translation: not
     transliteration: lam
   10:
-    arabic: يَاۡذَنۡۢ
+    arabic: يَأۡذَنۢ
     translation: Allah has given permission of it
     transliteration: yadhan
   11:
@@ -52,7 +52,7 @@ word_by_word:
     translation: Allah has given permission of it
     transliteration: bihi
   12:
-    arabic: اللّٰهُ​ؕ
+    arabic: ٱللَّهُۚ
     translation: Allah has given permission of it
     transliteration: l-lahu
   13:
@@ -64,23 +64,23 @@ word_by_word:
     translation: (for) a word
     transliteration: kalimatu
   15:
-    arabic: الۡفَصۡلِ
+    arabic: ٱلۡفَصۡلِ
     translation: decisive
     transliteration: l-faṣli
   16:
-    arabic: لَقُضِىَ
+    arabic: لَقُضِيَ
     translation: surely, it (would have) been judged
     transliteration: laquḍiya
   17:
-    arabic: بَيۡنَهُمۡ​ؕ
+    arabic: بَيۡنَهُمۡۗ
     translation: between them
     transliteration: baynahum
   18:
-    arabic: وَاِنَّ
+    arabic: وَإِنَّ
     translation: And indeed
     transliteration: wa-inna
   19:
-    arabic: الظّٰلِمِيۡنَ
+    arabic: ٱلظَّٰلِمِينَ
     translation: the wrongdoers
     transliteration: l-ẓālimīna
   20:
@@ -92,7 +92,7 @@ word_by_word:
     translation: (is a) punishment
     transliteration: ʿadhābun
   22:
-    arabic: اَلِيۡمٌ‏
+    arabic: أَلِيمٞ
     translation: painful
     transliteration: alīmun
 ---

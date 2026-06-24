@@ -1,6 +1,6 @@
 ---
-arabic_ayat: وَلَوۡ كَانُوۡا يُؤۡمِنُوۡنَ بِاللّٰهِ وَالنَّبِىِّ وَمَاۤ اُنۡزِلَ اِلَيۡهِ
-  مَا اتَّخَذُوۡهُمۡ اَوۡلِيَآءَ وَلٰـكِنَّ كَثِيۡرًا مِّنۡهُمۡ فٰسِقُوۡنَ‏
+arabic_ayat: وَلَوۡ كَانُواْ يُؤۡمِنُونَ بِٱللَّهِ وَٱلنَّبِيِّ وَمَآ أُنزِلَ إِلَيۡهِ
+  مَا ٱتَّخَذُوهُمۡ أَوۡلِيَآءَ وَلَٰكِنَّ كَثِيرٗا مِّنۡهُمۡ فَٰسِقُونَ
 sentence_translation: Had they believed in Allah, the Prophet, and what has been revealed
   to him, they would have never taken those ˹pagans˺ as allies. But most of them are
   rebellious.
@@ -10,31 +10,31 @@ word_by_word:
     translation: And if
     transliteration: walaw
   2:
-    arabic: كَانُوۡا
+    arabic: كَانُواْ
     translation: they had
     transliteration: kānū
   3:
-    arabic: يُؤۡمِنُوۡنَ
+    arabic: يُؤۡمِنُونَ
     translation: believed
     transliteration: yu'minūna
   4:
-    arabic: بِاللّٰهِ
+    arabic: بِٱللَّهِ
     translation: in Allah
     transliteration: bil-lahi
   5:
-    arabic: وَالنَّبِىِّ
+    arabic: وَٱلنَّبِيِّ
     translation: and the Prophet
     transliteration: wal-nabiyi
   6:
-    arabic: وَمَاۤ
+    arabic: وَمَآ
     translation: and what
     transliteration: wamā
   7:
-    arabic: اُنۡزِلَ
+    arabic: أُنزِلَ
     translation: has been revealed
     transliteration: unzila
   8:
-    arabic: اِلَيۡهِ
+    arabic: إِلَيۡهِ
     translation: to him
     transliteration: ilayhi
   9:
@@ -42,19 +42,19 @@ word_by_word:
     translation: not
     transliteration: mā
   10:
-    arabic: اتَّخَذُوۡهُمۡ
+    arabic: ٱتَّخَذُوهُمۡ
     translation: they (would have) taken them
     transliteration: ittakhadhūhum
   11:
-    arabic: اَوۡلِيَآءَ
+    arabic: أَوۡلِيَآءَ
     translation: (as) allies
     transliteration: awliyāa
   12:
-    arabic: وَلٰـكِنَّ
+    arabic: وَلَٰكِنَّ
     translation: '[and] but'
     transliteration: walākinna
   13:
-    arabic: كَثِيۡرًا
+    arabic: كَثِيرٗا
     translation: many
     transliteration: kathīran
   14:
@@ -62,7 +62,7 @@ word_by_word:
     translation: of them
     transliteration: min'hum
   15:
-    arabic: فٰسِقُوۡنَ‏
+    arabic: فَٰسِقُونَ
     translation: (are) defiantly disobedient
     transliteration: fāsiqūna
 ---

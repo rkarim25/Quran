@@ -1,39 +1,39 @@
 ---
-arabic_ayat: اِذۡ هَمَّتۡ طَّآٮِٕفَتٰنِ مِنۡكُمۡ اَنۡ تَفۡشَلَا ۙ وَاللّٰهُ وَلِيُّهُمَا​ ؕ
-  وَعَلَى اللّٰهِ فَلۡيَتَوَكَّلِ الۡمُؤۡمِنُوۡنَ‏
+arabic_ayat: إِذۡ هَمَّت طَّآئِفَتَانِ مِنكُمۡ أَن تَفۡشَلَا وَٱللَّهُ وَلِيُّهُمَاۗ
+  وَعَلَى ٱللَّهِ فَلۡيَتَوَكَّلِ ٱلۡمُؤۡمِنُونَ
 sentence_translation: ˹Remember˺ when two groups among you ˹believers˺ were about
   to cower, then Allah reassured them. So in Allah let the believers put their trust.
 word_by_word:
   1:
-    arabic: اِذۡ
+    arabic: إِذۡ
     translation: When
     transliteration: idh
   2:
-    arabic: هَمَّتۡ
+    arabic: هَمَّت
     translation: inclined
     transliteration: hammat
   3:
-    arabic: طَّآٮِٕفَتٰنِ
+    arabic: طَّآئِفَتَانِ
     translation: two parties
     transliteration: ṭāifatāni
   4:
-    arabic: مِنۡكُمۡ
+    arabic: مِنكُمۡ
     translation: among you
     transliteration: minkum
   5:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that
     transliteration: an
   6:
-    arabic: تَفۡشَلَا ۙ
+    arabic: تَفۡشَلَا
     translation: they lost heart
     transliteration: tafshalā
   7:
-    arabic: وَاللّٰهُ
+    arabic: وَٱللَّهُ
     translation: but Allah
     transliteration: wal-lahu
   8:
-    arabic: وَلِيُّهُمَا​ ؕ
+    arabic: وَلِيُّهُمَاۗ
     translation: (was) their protector
     transliteration: waliyyuhumā
   9:
@@ -41,7 +41,7 @@ word_by_word:
     translation: And on
     transliteration: waʿalā
   10:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   11:
@@ -49,7 +49,7 @@ word_by_word:
     translation: let put (their) trust
     transliteration: falyatawakkali
   12:
-    arabic: الۡمُؤۡمِنُوۡنَ‏
+    arabic: ٱلۡمُؤۡمِنُونَ
     translation: the believers
     transliteration: l-mu'minūna
 ---

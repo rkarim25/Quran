@@ -1,15 +1,14 @@
 ---
-arabic_ayat: "فَاِنَّهُمۡ لَاٰكِلُوۡنَ مِنۡهَا فَمٰلِــُٔــوۡنَ مِنۡهَا الۡبُطُوۡنَ\
-  \ ؕ‏ \uFEFF\uFEFF"
+arabic_ayat: فَإِنَّهُمۡ لَأٓكِلُونَ مِنۡهَا فَمَالِـُٔونَ مِنۡهَا ٱلۡبُطُونَ
 sentence_translation: The evildoers will certainly ˹be left to˺ eat from it, filling
   up their bellies with it.
 word_by_word:
   1:
-    arabic: فَاِنَّهُمۡ
+    arabic: فَإِنَّهُمۡ
     translation: And indeed, they
     transliteration: fa-innahum
   2:
-    arabic: لَاٰكِلُوۡنَ
+    arabic: لَأٓكِلُونَ
     translation: (will) surely eat
     transliteration: laākilūna
   3:
@@ -17,7 +16,7 @@ word_by_word:
     translation: from it
     transliteration: min'hā
   4:
-    arabic: فَمٰلِــُٔــوۡنَ
+    arabic: فَمَالِـُٔونَ
     translation: and fill
     transliteration: famāliūna
   5:
@@ -25,7 +24,7 @@ word_by_word:
     translation: with it
     transliteration: min'hā
   6:
-    arabic: "الۡبُطُوۡنَ ؕ‏ \uFEFF\uFEFF"
+    arabic: ٱلۡبُطُونَ
     translation: (their) bellies
     transliteration: l-buṭūna
 ---

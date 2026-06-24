@@ -1,51 +1,51 @@
 ---
-arabic_ayat: اِنَّنِىۡۤ اَنَا اللّٰهُ لَاۤ اِلٰهَ اِلَّاۤ اَنَا فَاعۡبُدۡنِىۡ ۙ وَاَقِمِ
-  الصَّلٰوةَ لِذِكۡرِىۡ‏
+arabic_ayat: إِنَّنِيٓ أَنَا ٱللَّهُ لَآ إِلَٰهَ إِلَّآ أَنَا۠ فَٱعۡبُدۡنِي وَأَقِمِ
+  ٱلصَّلَوٰةَ لِذِكۡرِيٓ
 sentence_translation: ‘It is truly I. I am Allah! There is no god ˹worthy of worship˺
   except Me. So worship Me ˹alone˺, and establish prayer for My remembrance.
 word_by_word:
   1:
-    arabic: اِنَّنِىۡۤ
+    arabic: إِنَّنِيٓ
     translation: Indeed, [I]
     transliteration: innanī
   2:
-    arabic: اَنَا
+    arabic: أَنَا
     translation: I Am
     transliteration: anā
   3:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   4:
-    arabic: لَاۤ
+    arabic: لَآ
     translation: (There is) no
     transliteration: lā
   5:
-    arabic: اِلٰهَ
+    arabic: إِلَٰهَ
     translation: god
     transliteration: ilāha
   6:
-    arabic: اِلَّاۤ
+    arabic: إِلَّآ
     translation: but
     transliteration: illā
   7:
-    arabic: اَنَا
+    arabic: أَنَا۠
     translation: I
     transliteration: anā
   8:
-    arabic: فَاعۡبُدۡنِىۡ ۙ
+    arabic: فَٱعۡبُدۡنِي
     translation: so worship Me
     transliteration: fa-uʿ'bud'nī
   9:
-    arabic: وَاَقِمِ
+    arabic: وَأَقِمِ
     translation: and establish
     transliteration: wa-aqimi
   10:
-    arabic: الصَّلٰوةَ
+    arabic: ٱلصَّلَوٰةَ
     translation: the prayer
     transliteration: l-ṣalata
   11:
-    arabic: لِذِكۡرِىۡ‏
+    arabic: لِذِكۡرِيٓ
     translation: for My remembrance
     transliteration: lidhik'rī
 ---

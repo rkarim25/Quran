@@ -1,5 +1,5 @@
 ---
-arabic_ayat: يَوۡمَ يُدَعُّوۡنَ اِلٰى نَارِ جَهَنَّمَ دَعًّاؕ‏
+arabic_ayat: يَوۡمَ يُدَعُّونَ إِلَىٰ نَارِ جَهَنَّمَ دَعًّا
 sentence_translation: ˹It is˺ the Day they will be fiercely shoved into the Fire of
   Hell.
 word_by_word:
@@ -8,11 +8,11 @@ word_by_word:
     translation: (The) Day
     transliteration: yawma
   2:
-    arabic: يُدَعُّوۡنَ
+    arabic: يُدَعُّونَ
     translation: they will be thrust
     transliteration: yudaʿʿūna
   3:
-    arabic: اِلٰى
+    arabic: إِلَىٰ
     translation: (in)to
     transliteration: ilā
   4:
@@ -24,7 +24,7 @@ word_by_word:
     translation: (of) Hell
     transliteration: jahannama
   6:
-    arabic: دَعًّاؕ‏
+    arabic: دَعًّا
     translation: (with) a thrust
     transliteration: daʿʿan
 ---

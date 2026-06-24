@@ -1,10 +1,10 @@
 ---
-arabic_ayat: اَفَمَنۡ كَانَ مُؤۡمِنًا كَمَنۡ كَانَ فَاسِقًا​ ؕ لَا يَسۡتَوٗنَ‏
+arabic_ayat: أَفَمَن كَانَ مُؤۡمِنٗا كَمَن كَانَ فَاسِقٗاۚ لَّا يَسۡتَوُۥنَ
 sentence_translation: Is the one who is a believer equal ˹before Allah˺ to the one
   who is rebellious? They are not equal!
 word_by_word:
   1:
-    arabic: اَفَمَنۡ
+    arabic: أَفَمَن
     translation: Then is one who
     transliteration: afaman
   2:
@@ -12,11 +12,11 @@ word_by_word:
     translation: is
     transliteration: kāna
   3:
-    arabic: مُؤۡمِنًا
+    arabic: مُؤۡمِنٗا
     translation: a believer
     transliteration: mu'minan
   4:
-    arabic: كَمَنۡ
+    arabic: كَمَن
     translation: like (him) who
     transliteration: kaman
   5:
@@ -24,15 +24,15 @@ word_by_word:
     translation: is
     transliteration: kāna
   6:
-    arabic: فَاسِقًا​ ؕ
+    arabic: فَاسِقٗاۚ
     translation: defiantly disobedient
     transliteration: fāsiqan
   7:
-    arabic: لَا
+    arabic: لَّا
     translation: Not
     transliteration: lā
   8:
-    arabic: يَسۡتَوٗنَ‏
+    arabic: يَسۡتَوُۥنَ
     translation: they are equal
     transliteration: yastawūna
 ---

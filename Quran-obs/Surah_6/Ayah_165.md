@@ -1,7 +1,7 @@
 ---
-arabic_ayat: وَهُوَ الَّذِىۡ جَعَلَـكُمۡ خَلٰٓٮِٕفَ الۡاَرۡضِ وَرَفَعَ بَعۡضَكُمۡ
-  فَوۡقَ بَعۡضٍ دَرَجٰتٍ لِّيَبۡلُوَكُمۡ فِىۡ مَاۤ اٰتٰٮكُمۡ​ؕ اِنَّ رَبَّكَ سَرِيۡعُ
-  الۡعِقَابِ  ۖ وَاِنَّهٗ لَـغَفُوۡرٌ رَّحِيۡمٌ‏
+arabic_ayat: وَهُوَ ٱلَّذِي جَعَلَكُمۡ خَلَٰٓئِفَ ٱلۡأَرۡضِ وَرَفَعَ بَعۡضَكُمۡ فَوۡقَ
+  بَعۡضٖ دَرَجَٰتٖ لِّيَبۡلُوَكُمۡ فِي مَآ ءَاتَىٰكُمۡۗ إِنَّ رَبَّكَ سَرِيعُ ٱلۡعِقَابِ
+  وَإِنَّهُۥ لَغَفُورٞ رَّحِيمُۢ
 sentence_translation: He is the One Who has placed you as successors on earth and
   elevated some of you in rank over others, so He may test you with what He has given
   you. Surely your Lord is swift in punishment, but He is certainly All-Forgiving,
@@ -12,19 +12,19 @@ word_by_word:
     translation: And He
     transliteration: wahuwa
   2:
-    arabic: الَّذِىۡ
+    arabic: ٱلَّذِي
     translation: (is) the One Who
     transliteration: alladhī
   3:
-    arabic: جَعَلَـكُمۡ
+    arabic: جَعَلَكُمۡ
     translation: (has) made you
     transliteration: jaʿalakum
   4:
-    arabic: خَلٰٓٮِٕفَ
+    arabic: خَلَٰٓئِفَ
     translation: successors
     transliteration: khalāifa
   5:
-    arabic: الۡاَرۡضِ
+    arabic: ٱلۡأَرۡضِ
     translation: (of) the earth
     transliteration: l-arḍi
   6:
@@ -40,11 +40,11 @@ word_by_word:
     translation: above
     transliteration: fawqa
   9:
-    arabic: بَعۡضٍ
+    arabic: بَعۡضٖ
     translation: others
     transliteration: baʿḍin
   10:
-    arabic: دَرَجٰتٍ
+    arabic: دَرَجَٰتٖ
     translation: (in) ranks
     transliteration: darajātin
   11:
@@ -52,19 +52,19 @@ word_by_word:
     translation: so that He may test you
     transliteration: liyabluwakum
   12:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   13:
-    arabic: مَاۤ
+    arabic: مَآ ءَ
     translation: what
     transliteration: mā
   14:
-    arabic: اٰتٰٮكُمۡ​ؕ
+    arabic: اتَىٰكُمۡۗ
     translation: He has given you
     transliteration: ātākum
   15:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   16:
@@ -72,23 +72,23 @@ word_by_word:
     translation: your Lord
     transliteration: rabbaka
   17:
-    arabic: سَرِيۡعُ
+    arabic: سَرِيعُ
     translation: (is) swift
     transliteration: sarīʿu
   18:
-    arabic: الۡعِقَابِ  ۖ
+    arabic: ٱلۡعِقَابِ
     translation: (in) the punishment
     transliteration: l-ʿiqābi
   19:
-    arabic: وَاِنَّهٗ
+    arabic: وَإِنَّهُۥ
     translation: and indeed, He (is)
     transliteration: wa-innahu
   20:
-    arabic: لَـغَفُوۡرٌ
+    arabic: لَغَفُورٞ
     translation: '[certainly], Oft-Forgiving'
     transliteration: laghafūrun
   21:
-    arabic: رَّحِيۡمٌ‏
+    arabic: رَّحِيمُۢ
     translation: Most Merciful
     transliteration: raḥīmun
 ---

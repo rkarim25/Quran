@@ -1,19 +1,19 @@
 ---
-arabic_ayat: يُّصۡلِحۡ لَـكُمۡ اَعۡمَالَـكُمۡ وَيَغۡفِرۡ لَـكُمۡ ذُنُوۡبَكُمۡؕ وَمَنۡ
-  يُّطِعِ اللّٰهَ وَرَسُوۡلَهٗ فَقَدۡ فَازَ فَوۡزًا عَظِيۡمًا‏
+arabic_ayat: يُصۡلِحۡ لَكُمۡ أَعۡمَٰلَكُمۡ وَيَغۡفِرۡ لَكُمۡ ذُنُوبَكُمۡۗ وَمَن يُطِعِ
+  ٱللَّهَ وَرَسُولَهُۥ فَقَدۡ فَازَ فَوۡزًا عَظِيمًا
 sentence_translation: He will bless your deeds for you, and forgive your sins. And
   whoever obeys Allah and His Messenger, has truly achieved a great triumph.
 word_by_word:
   1:
-    arabic: يُّصۡلِحۡ
+    arabic: يُصۡلِحۡ
     translation: He will amend
     transliteration: yuṣ'liḥ
   2:
-    arabic: لَـكُمۡ
+    arabic: لَكُمۡ
     translation: for you
     transliteration: lakum
   3:
-    arabic: اَعۡمَالَـكُمۡ
+    arabic: أَعۡمَٰلَكُمۡ
     translation: your deeds
     transliteration: aʿmālakum
   4:
@@ -21,27 +21,27 @@ word_by_word:
     translation: and forgive
     transliteration: wayaghfir
   5:
-    arabic: لَـكُمۡ
+    arabic: لَكُمۡ
     translation: for you
     transliteration: lakum
   6:
-    arabic: ذُنُوۡبَكُمۡؕ
+    arabic: ذُنُوبَكُمۡۗ
     translation: your sins
     transliteration: dhunūbakum
   7:
-    arabic: وَمَنۡ
+    arabic: وَمَن
     translation: And whoever
     transliteration: waman
   8:
-    arabic: يُّطِعِ
+    arabic: يُطِعِ
     translation: obeys
     transliteration: yuṭiʿi
   9:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   10:
-    arabic: وَرَسُوۡلَهٗ
+    arabic: وَرَسُولَهُۥ
     translation: and His Messenger
     transliteration: warasūlahu
   11:
@@ -57,7 +57,7 @@ word_by_word:
     translation: an attainment
     transliteration: fawzan
   14:
-    arabic: عَظِيۡمًا‏
+    arabic: عَظِيمًا
     translation: great
     transliteration: ʿaẓīman
 ---

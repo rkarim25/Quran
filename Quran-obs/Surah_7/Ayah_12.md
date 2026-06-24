@@ -1,12 +1,12 @@
 ---
-arabic_ayat: ​قَالَ مَا مَنَعَكَ اَلَّا تَسۡجُدَ اِذۡ اَمَرۡتُكَ​ ؕ قَالَ اَنَا خَيۡرٌ
-  مِّنۡهُ​ ۚ خَلَقۡتَنِىۡ مِنۡ نَّارٍ وَّخَلَقۡتَهٗ مِنۡ طِيۡنٍ‏
+arabic_ayat: قَالَ مَا مَنَعَكَ أَلَّا تَسۡجُدَ إِذۡ أَمَرۡتُكَۖ قَالَ أَنَا۠ خَيۡرٞ
+  مِّنۡهُ خَلَقۡتَنِي مِن نَّارٖ وَخَلَقۡتَهُۥ مِن طِينٖ
 sentence_translation: 'Allah asked, “What prevented you from prostrating when I commanded
   you?” He replied, “I am better than he is: You created me from fire and him from
   clay.”'
 word_by_word:
   1:
-    arabic: ​قَالَ
+    arabic: قَالَ
     translation: (Allah) said
     transliteration: qāla
   2:
@@ -18,7 +18,7 @@ word_by_word:
     translation: prevented you
     transliteration: manaʿaka
   4:
-    arabic: اَلَّا
+    arabic: أَلَّا
     translation: that not
     transliteration: allā
   5:
@@ -26,11 +26,11 @@ word_by_word:
     translation: you prostrate
     transliteration: tasjuda
   6:
-    arabic: اِذۡ
+    arabic: إِذۡ
     translation: when
     transliteration: idh
   7:
-    arabic: اَمَرۡتُكَ​ ؕ
+    arabic: أَمَرۡتُكَۖ
     translation: I commanded you
     transliteration: amartuka
   8:
@@ -38,39 +38,39 @@ word_by_word:
     translation: (Shaitaan) said
     transliteration: qāla
   9:
-    arabic: اَنَا
+    arabic: أَنَا۠
     translation: I am
     transliteration: anā
   10:
-    arabic: خَيۡرٌ
+    arabic: خَيۡرٞ
     translation: better
     transliteration: khayrun
   11:
-    arabic: مِّنۡهُ​ ۚ
+    arabic: مِّنۡهُ
     translation: than him
     transliteration: min'hu
   12:
-    arabic: خَلَقۡتَنِىۡ
+    arabic: خَلَقۡتَنِي
     translation: You created me
     transliteration: khalaqtanī
   13:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   14:
-    arabic: نَّارٍ
+    arabic: نَّارٖ
     translation: fire
     transliteration: nārin
   15:
-    arabic: وَّخَلَقۡتَهٗ
+    arabic: وَخَلَقۡتَهُۥ
     translation: and You created him
     transliteration: wakhalaqtahu
   16:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   17:
-    arabic: طِيۡنٍ‏
+    arabic: طِينٖ
     translation: clay
     transliteration: ṭīnin
 ---

@@ -1,5 +1,5 @@
 ---
-arabic_ayat: قُلۡ هُوَ نَبَؤٌا عَظِيۡمٌۙ‏
+arabic_ayat: قُلۡ هُوَ نَبَؤٌاْ عَظِيمٌ
 sentence_translation: Say, “This ˹Quran˺ is momentous news,
 word_by_word:
   1:
@@ -11,11 +11,11 @@ word_by_word:
     translation: It (is)
     transliteration: huwa
   3:
-    arabic: نَبَؤٌا
+    arabic: نَبَؤٌاْ
     translation: a news
     transliteration: naba-on
   4:
-    arabic: عَظِيۡمٌۙ‏
+    arabic: عَظِيمٌ
     translation: great
     transliteration: ʿaẓīmun
 ---

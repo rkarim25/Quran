@@ -1,13 +1,13 @@
 ---
-arabic_ayat: لِّلطّٰغِيۡنَ مَاٰبًا ۙ‏
+arabic_ayat: لِّلطَّٰغِينَ مَـَٔابٗا
 sentence_translation: as a home for the transgressors,
 word_by_word:
   1:
-    arabic: لِّلطّٰغِيۡنَ
+    arabic: لِّلطَّٰغِينَ
     translation: For the transgressors
     transliteration: lilṭṭāghīna
   2:
-    arabic: مَاٰبًا ۙ‏
+    arabic: مَـَٔابٗا
     translation: a place of return
     transliteration: maāban
 ---

@@ -1,34 +1,34 @@
 ---
-arabic_ayat: اِنَّ الَّذِيۡنَ يُبَايِعُوۡنَكَ اِنَّمَا يُبَايِعُوۡنَ اللّٰهَ ؕ يَدُ
-  اللّٰهِ فَوۡقَ اَيۡدِيۡهِمۡ​ ۚ فَمَنۡ نَّكَثَ فَاِنَّمَا يَنۡكُثُ عَلٰى نَفۡسِهٖ​ۚ
-  وَمَنۡ اَوۡفٰى بِمَا عٰهَدَ عَلَيۡهُ اللّٰهَ فَسَيُؤۡتِيۡهِ اَجۡرًا عَظِيۡمًا‏
+arabic_ayat: إِنَّ ٱلَّذِينَ يُبَايِعُونَكَ إِنَّمَا يُبَايِعُونَ ٱللَّهَ يَدُ ٱللَّهِ
+  فَوۡقَ أَيۡدِيهِمۡۚ فَمَن نَّكَثَ فَإِنَّمَا يَنكُثُ عَلَىٰ نَفۡسِهِۦۖ وَمَنۡ أَوۡفَىٰ
+  بِمَا عَٰهَدَ عَلَيۡهُ ٱللَّهَ فَسَيُؤۡتِيهِ أَجۡرًا عَظِيمٗا
 sentence_translation: Surely those who pledge allegiance to you ˹O Prophet˺ are actually
   pledging allegiance to Allah. Allah’s Hand is over theirs. Whoever breaks their
   pledge, it will only be to their own loss. And whoever fulfils their pledge to Allah,
   He will grant them a great reward.
 word_by_word:
   1:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   3:
-    arabic: يُبَايِعُوۡنَكَ
+    arabic: يُبَايِعُونَكَ
     translation: pledge allegiance to you
     transliteration: yubāyiʿūnaka
   4:
-    arabic: اِنَّمَا
+    arabic: إِنَّمَا
     translation: only
     transliteration: innamā
   5:
-    arabic: يُبَايِعُوۡنَ
+    arabic: يُبَايِعُونَ
     translation: they pledge allegiance
     transliteration: yubāyiʿūna
   6:
-    arabic: اللّٰهَ ؕ
+    arabic: ٱللَّهَ
     translation: (to) Allah
     transliteration: l-laha
   7:
@@ -36,7 +36,7 @@ word_by_word:
     translation: (The) Hand
     transliteration: yadu
   8:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (of) Allah
     transliteration: l-lahi
   9:
@@ -44,11 +44,11 @@ word_by_word:
     translation: (is) over
     transliteration: fawqa
   10:
-    arabic: اَيۡدِيۡهِمۡ​ ۚ
+    arabic: أَيۡدِيهِمۡۚ
     translation: their hands
     transliteration: aydīhim
   11:
-    arabic: فَمَنۡ
+    arabic: فَمَن
     translation: Then whoever
     transliteration: faman
   12:
@@ -56,19 +56,19 @@ word_by_word:
     translation: breaks (his oath)
     transliteration: nakatha
   13:
-    arabic: فَاِنَّمَا
+    arabic: فَإِنَّمَا
     translation: then only
     transliteration: fa-innamā
   14:
-    arabic: يَنۡكُثُ
+    arabic: يَنكُثُ
     translation: he breaks
     transliteration: yankuthu
   15:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: against
     transliteration: ʿalā
   16:
-    arabic: نَفۡسِهٖ​ۚ
+    arabic: نَفۡسِهِۦۖ
     translation: himself
     transliteration: nafsihi
   17:
@@ -76,7 +76,7 @@ word_by_word:
     translation: and whoever
     transliteration: waman
   18:
-    arabic: اَوۡفٰى
+    arabic: أَوۡفَىٰ
     translation: fulfils
     transliteration: awfā
   19:
@@ -84,7 +84,7 @@ word_by_word:
     translation: what
     transliteration: bimā
   20:
-    arabic: عٰهَدَ
+    arabic: عَٰهَدَ
     translation: he has covenanted
     transliteration: ʿāhada
   21:
@@ -92,19 +92,19 @@ word_by_word:
     translation: (with)
     transliteration: ʿalayhu
   22:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   23:
-    arabic: فَسَيُؤۡتِيۡهِ
+    arabic: فَسَيُؤۡتِيهِ
     translation: soon He will give him
     transliteration: fasayu'tīhi
   24:
-    arabic: اَجۡرًا
+    arabic: أَجۡرًا
     translation: a reward
     transliteration: ajran
   25:
-    arabic: عَظِيۡمًا‏
+    arabic: عَظِيمٗا
     translation: great
     transliteration: ʿaẓīman
 ---

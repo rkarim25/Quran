@@ -1,27 +1,27 @@
 ---
-arabic_ayat: اِنَّ الَّذِيۡنَ اٰمَنُوۡا وَعَمِلُوا الصّٰلِحٰتِ لَهُمۡ جَنّٰتٌ تَجۡرِىۡ
-  مِنۡ تَحۡتِهَا الۡاَنۡهٰرُ ؕ ذٰلِكَ الۡفَوۡزُ الۡكَبِيۡرُؕ‏
+arabic_ayat: إِنَّ ٱلَّذِينَ ءَامَنُواْ وَعَمِلُواْ ٱلصَّٰلِحَٰتِ لَهُمۡ جَنَّٰتٞ
+  تَجۡرِي مِن تَحۡتِهَا ٱلۡأَنۡهَٰرُۚ ذَٰلِكَ ٱلۡفَوۡزُ ٱلۡكَبِيرُ
 sentence_translation: Surely those who believe and do good will have Gardens under
   which rivers flow. That is the greatest triumph.
 word_by_word:
   1:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ ءَ
     translation: those who
     transliteration: alladhīna
   3:
-    arabic: اٰمَنُوۡا
+    arabic: امَنُواْ
     translation: believe
     transliteration: āmanū
   4:
-    arabic: وَعَمِلُوا
+    arabic: وَعَمِلُواْ
     translation: and do
     transliteration: waʿamilū
   5:
-    arabic: الصّٰلِحٰتِ
+    arabic: ٱلصَّٰلِحَٰتِ
     translation: the righteous deeds
     transliteration: l-ṣāliḥāti
   6:
@@ -29,15 +29,15 @@ word_by_word:
     translation: for them
     transliteration: lahum
   7:
-    arabic: جَنّٰتٌ
+    arabic: جَنَّٰتٞ
     translation: (will be) Gardens
     transliteration: jannātun
   8:
-    arabic: تَجۡرِىۡ
+    arabic: تَجۡرِي
     translation: flow
     transliteration: tajrī
   9:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   10:
@@ -45,19 +45,19 @@ word_by_word:
     translation: underneath it
     transliteration: taḥtihā
   11:
-    arabic: الۡاَنۡهٰرُ ؕ
+    arabic: ٱلۡأَنۡهَٰرُۚ
     translation: the rivers
     transliteration: l-anhāru
   12:
-    arabic: ذٰلِكَ
+    arabic: ذَٰلِكَ
     translation: That
     transliteration: dhālika
   13:
-    arabic: الۡفَوۡزُ
+    arabic: ٱلۡفَوۡزُ
     translation: (is) the success
     transliteration: l-fawzu
   14:
-    arabic: الۡكَبِيۡرُؕ‏
+    arabic: ٱلۡكَبِيرُ
     translation: the great
     transliteration: l-kabīru
 ---

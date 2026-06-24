@@ -1,15 +1,15 @@
 ---
-arabic_ayat: وَاِذَاۤ اُلۡقُوۡا مِنۡهَا مَكَانًـا ضَيِّقًا مُّقَرَّنِيۡنَ دَعَوۡا
-  هُنَالِكَ ثُبُوۡرًا ؕ‏
+arabic_ayat: وَإِذَآ أُلۡقُواْ مِنۡهَا مَكَانٗا ضَيِّقٗا مُّقَرَّنِينَ دَعَوۡاْ هُنَالِكَ
+  ثُبُورٗا
 sentence_translation: And when they are tossed into a narrow place inside ˹Hell˺,
   chained together, then and there they will cry out for ˹instant˺ destruction.
 word_by_word:
   1:
-    arabic: وَاِذَاۤ
+    arabic: وَإِذَآ
     translation: And when
     transliteration: wa-idhā
   2:
-    arabic: اُلۡقُوۡا
+    arabic: أُلۡقُواْ
     translation: they are thrown
     transliteration: ul'qū
   3:
@@ -17,19 +17,19 @@ word_by_word:
     translation: thereof
     transliteration: min'hā
   4:
-    arabic: مَكَانًـا
+    arabic: مَكَانٗا
     translation: (in) a place
     transliteration: makānan
   5:
-    arabic: ضَيِّقًا
+    arabic: ضَيِّقٗا
     translation: narrow
     transliteration: ḍayyiqan
   6:
-    arabic: مُّقَرَّنِيۡنَ
+    arabic: مُّقَرَّنِينَ
     translation: bound in chains
     transliteration: muqarranīna
   7:
-    arabic: دَعَوۡا
+    arabic: دَعَوۡاْ
     translation: they will call
     transliteration: daʿaw
   8:
@@ -37,7 +37,7 @@ word_by_word:
     translation: there
     transliteration: hunālika
   9:
-    arabic: ثُبُوۡرًا ؕ‏
+    arabic: ثُبُورٗا
     translation: (for) destruction
     transliteration: thubūran
 ---

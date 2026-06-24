@@ -1,17 +1,17 @@
 ---
-arabic_ayat: وَانْـتَظِرُوۡا​ ۚ اِنَّا مُنۡتَظِرُوۡنَ‏
+arabic_ayat: وَٱنتَظِرُوٓاْ إِنَّا مُنتَظِرُونَ
 sentence_translation: And wait! Surely we ˹too˺ are waiting.”
 word_by_word:
   1:
-    arabic: وَانْـتَظِرُوۡا​ ۚ
+    arabic: وَٱنتَظِرُوٓاْ
     translation: And wait
     transliteration: wa-intaẓirū
   2:
-    arabic: اِنَّا
+    arabic: إِنَّا
     translation: indeed, we
     transliteration: innā
   3:
-    arabic: مُنۡتَظِرُوۡنَ‏
+    arabic: مُنتَظِرُونَ
     translation: (are) ones who wait
     transliteration: muntaẓirūna
 ---

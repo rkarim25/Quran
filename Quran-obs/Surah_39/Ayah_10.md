@@ -1,7 +1,7 @@
 ---
-arabic_ayat: قُلۡ يٰعِبَادِ الَّذِيۡنَ اٰمَنُوا اتَّقُوۡا رَبَّكُمۡ​ ؕ لِلَّذِيۡنَ
-  اَحۡسَنُوۡا فِىۡ هٰذِهِ الدُّنۡيَا حَسَنَةٌ ​ ؕ وَاَرۡضُ اللّٰهِ وَاسِعَةٌ ​ ؕ اِنَّمَا
-  يُوَفَّى الصّٰبِرُوۡنَ اَجۡرَهُمۡ بِغَيۡرِ حِسَابٍ‏
+arabic_ayat: قُلۡ يَٰعِبَادِ ٱلَّذِينَ ءَامَنُواْ ٱتَّقُواْ رَبَّكُمۡۚ لِلَّذِينَ
+  أَحۡسَنُواْ فِي هَٰذِهِ ٱلدُّنۡيَا حَسَنَةٞۗ وَأَرۡضُ ٱللَّهِ وَٰسِعَةٌۗ إِنَّمَا
+  يُوَفَّى ٱلصَّٰبِرُونَ أَجۡرَهُم بِغَيۡرِ حِسَابٖ
 sentence_translation: Say ˹O Prophet, that Allah says˺, “O My servants who believe!
   Be mindful of your Lord. Those who do good in this world will have a good reward.
   And Allah’s earth is spacious. Only those who endure patiently will be given their
@@ -12,63 +12,63 @@ word_by_word:
     translation: Say
     transliteration: qul
   2:
-    arabic: يٰعِبَادِ
+    arabic: يَٰعِبَادِ
     translation: O My slaves
     transliteration: yāʿibādi
   3:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ ءَ
     translation: '[those] who'
     transliteration: alladhīna
   4:
-    arabic: اٰمَنُوا
+    arabic: امَنُواْ
     translation: believe
     transliteration: āmanū
   5:
-    arabic: اتَّقُوۡا
+    arabic: ٱتَّقُواْ
     translation: Fear
     transliteration: ittaqū
   6:
-    arabic: رَبَّكُمۡ​ ؕ
+    arabic: رَبَّكُمۡۚ
     translation: your Lord
     transliteration: rabbakum
   7:
-    arabic: لِلَّذِيۡنَ
+    arabic: لِلَّذِينَ
     translation: For those who
     transliteration: lilladhīna
   8:
-    arabic: اَحۡسَنُوۡا
+    arabic: أَحۡسَنُواْ
     translation: do good
     transliteration: aḥsanū
   9:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   10:
-    arabic: هٰذِهِ
+    arabic: هَٰذِهِ
     translation: this
     transliteration: hādhihi
   11:
-    arabic: الدُّنۡيَا
+    arabic: ٱلدُّنۡيَا
     translation: world
     transliteration: l-dun'yā
   12:
-    arabic: حَسَنَةٌ ​ ؕ
+    arabic: حَسَنَةٞۗ
     translation: (is) good
     transliteration: ḥasanatun
   13:
-    arabic: وَاَرۡضُ
+    arabic: وَأَرۡضُ
     translation: and the earth
     transliteration: wa-arḍu
   14:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (of) Allah
     transliteration: l-lahi
   15:
-    arabic: وَاسِعَةٌ ​ ؕ
+    arabic: وَٰسِعَةٌۗ
     translation: (is) spacious
     transliteration: wāsiʿatun
   16:
-    arabic: اِنَّمَا
+    arabic: إِنَّمَا
     translation: Only
     transliteration: innamā
   17:
@@ -76,11 +76,11 @@ word_by_word:
     translation: will be paid back in full
     transliteration: yuwaffā
   18:
-    arabic: الصّٰبِرُوۡنَ
+    arabic: ٱلصَّٰبِرُونَ
     translation: the patient ones
     transliteration: l-ṣābirūna
   19:
-    arabic: اَجۡرَهُمۡ
+    arabic: أَجۡرَهُم
     translation: their reward
     transliteration: ajrahum
   20:
@@ -88,7 +88,7 @@ word_by_word:
     translation: without
     transliteration: bighayri
   21:
-    arabic: حِسَابٍ‏
+    arabic: حِسَابٖ
     translation: account
     transliteration: ḥisābin
 ---

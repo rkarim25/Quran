@@ -1,27 +1,26 @@
 ---
-arabic_ayat: "اَمۡ يُرِيۡدُوۡنَ كَيۡدًا​ؕ فَالَّذِيۡنَ كَفَرُوۡا هُمُ الۡمَكِيۡدُوۡنَؕ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: أَمۡ يُرِيدُونَ كَيۡدٗاۖ فَٱلَّذِينَ كَفَرُواْ هُمُ ٱلۡمَكِيدُونَ
 sentence_translation: Or do they intend to scheme ˹against the Prophet˺? Then it is
   the disbelievers who will fall victim to ˹their˺ schemes.
 word_by_word:
   1:
-    arabic: اَمۡ
+    arabic: أَمۡ
     translation: Or
     transliteration: am
   2:
-    arabic: يُرِيۡدُوۡنَ
+    arabic: يُرِيدُونَ
     translation: (do) they intend
     transliteration: yurīdūna
   3:
-    arabic: كَيۡدًا​ؕ
+    arabic: كَيۡدٗاۖ
     translation: a plot
     transliteration: kaydan
   4:
-    arabic: فَالَّذِيۡنَ
+    arabic: فَٱلَّذِينَ
     translation: But those who
     transliteration: fa-alladhīna
   5:
-    arabic: كَفَرُوۡا
+    arabic: كَفَرُواْ
     translation: disbelieve
     transliteration: kafarū
   6:
@@ -29,7 +28,7 @@ word_by_word:
     translation: themselves
     transliteration: humu
   7:
-    arabic: "الۡمَكِيۡدُوۡنَؕ‏ \uFEFF\uFEFF"
+    arabic: ٱلۡمَكِيدُونَ
     translation: (are in) the plot
     transliteration: l-makīdūna
 ---

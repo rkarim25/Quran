@@ -1,43 +1,43 @@
 ---
-arabic_ayat: وَمِنۡهُمۡ مَّنۡ يَّنۡظُرُ اِلَيۡكَ​ ؕ اَفَاَنۡتَ تَهۡدِى الۡعُمۡىَ وَ
-  لَوۡ كَانُوۡا لَا يُبۡصِرُوۡنَ‏
+arabic_ayat: وَمِنۡهُم مَّن يَنظُرُ إِلَيۡكَۚ أَفَأَنتَ تَهۡدِي ٱلۡعُمۡيَ وَلَوۡ كَانُواْ
+  لَا يُبۡصِرُونَ
 sentence_translation: And some of them look at you, but can you guide the blind even
   though they cannot see?
 word_by_word:
   1:
-    arabic: وَمِنۡهُمۡ
+    arabic: وَمِنۡهُم
     translation: And among them
     transliteration: wamin'hum
   2:
-    arabic: مَّنۡ
+    arabic: مَّن
     translation: (are some) who
     transliteration: man
   3:
-    arabic: يَّنۡظُرُ
+    arabic: يَنظُرُ
     translation: look
     transliteration: yanẓuru
   4:
-    arabic: اِلَيۡكَ​ ؕ
+    arabic: إِلَيۡكَۚ
     translation: at you
     transliteration: ilayka
   5:
-    arabic: اَفَاَنۡتَ
+    arabic: أَفَأَنتَ
     translation: But (can) you
     transliteration: afa-anta
   6:
-    arabic: تَهۡدِى
+    arabic: تَهۡدِي
     translation: guide
     transliteration: tahdī
   7:
-    arabic: الۡعُمۡىَ
+    arabic: ٱلۡعُمۡيَ
     translation: the blind
     transliteration: l-ʿum'ya
   8:
-    arabic: وَ لَوۡ
+    arabic: وَلَوۡ
     translation: even though
     transliteration: walaw
   9:
-    arabic: كَانُوۡا
+    arabic: كَانُواْ
     translation: they [were]
     transliteration: kānū
   10:
@@ -45,7 +45,7 @@ word_by_word:
     translation: (do) not
     transliteration: lā
   11:
-    arabic: يُبۡصِرُوۡنَ‏
+    arabic: يُبۡصِرُونَ
     translation: see
     transliteration: yub'ṣirūna
 ---

@@ -1,8 +1,7 @@
 ---
-arabic_ayat: مَا كَانَ لِبَشَرٍ اَنۡ يُّؤۡتِيَهُ اللّٰهُ الۡكِتٰبَ وَالۡحُكۡمَ وَالنُّبُوَّةَ
-  ثُمَّ يَقُوۡلَ لِلنَّاسِ كُوۡنُوۡا عِبَادًا لِّىۡ مِنۡ دُوۡنِ اللّٰهِ وَلٰـكِنۡ
-  كُوۡنُوۡا رَبَّانِيّٖنَ بِمَا كُنۡتُمۡ تُعَلِّمُوۡنَ الۡكِتٰبَ وَبِمَا كُنۡتُمۡ
-  تَدۡرُسُوۡنَۙ‏
+arabic_ayat: مَا كَانَ لِبَشَرٍ أَن يُؤۡتِيَهُ ٱللَّهُ ٱلۡكِتَٰبَ وَٱلۡحُكۡمَ وَٱلنُّبُوَّةَ
+  ثُمَّ يَقُولَ لِلنَّاسِ كُونُواْ عِبَادٗا لِّي مِن دُونِ ٱللَّهِ وَلَٰكِن كُونُواْ
+  رَبَّٰنِيِّـۧنَ بِمَا كُنتُمۡ تُعَلِّمُونَ ٱلۡكِتَٰبَ وَبِمَا كُنتُمۡ تَدۡرُسُونَ
 sentence_translation: It is not appropriate for someone who Allah has blessed with
   the Scripture, wisdom, and prophethood to say to people, “Worship me instead of
   Allah.” Rather, he would say, “Be devoted to the worship of your Lord ˹alone˺”—in
@@ -21,27 +20,27 @@ word_by_word:
     translation: for a human
     transliteration: libasharin
   4:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that
     transliteration: an
   5:
-    arabic: يُّؤۡتِيَهُ
+    arabic: يُؤۡتِيَهُ
     translation: gives him
     transliteration: yu'tiyahu
   6:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   7:
-    arabic: الۡكِتٰبَ
+    arabic: ٱلۡكِتَٰبَ
     translation: the Book
     transliteration: l-kitāba
   8:
-    arabic: وَالۡحُكۡمَ
+    arabic: وَٱلۡحُكۡمَ
     translation: and the wisdom
     transliteration: wal-ḥuk'ma
   9:
-    arabic: وَالنُّبُوَّةَ
+    arabic: وَٱلنُّبُوَّةَ
     translation: and the Prophethood
     transliteration: wal-nubuwata
   10:
@@ -49,7 +48,7 @@ word_by_word:
     translation: then
     transliteration: thumma
   11:
-    arabic: يَقُوۡلَ
+    arabic: يَقُولَ
     translation: he says
     transliteration: yaqūla
   12:
@@ -57,39 +56,39 @@ word_by_word:
     translation: to the people
     transliteration: lilnnāsi
   13:
-    arabic: كُوۡنُوۡا
+    arabic: كُونُواْ
     translation: Be
     transliteration: kūnū
   14:
-    arabic: عِبَادًا
+    arabic: عِبَادٗا
     translation: worshippers
     transliteration: ʿibādan
   15:
-    arabic: لِّىۡ
+    arabic: لِّي
     translation: of me
     transliteration: lī
   16:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   17:
-    arabic: دُوۡنِ
+    arabic: دُونِ
     translation: besides
     transliteration: dūni
   18:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   19:
-    arabic: وَلٰـكِنۡ
+    arabic: وَلَٰكِن
     translation: but (would say)
     transliteration: walākin
   20:
-    arabic: كُوۡنُوۡا
+    arabic: كُونُواْ
     translation: Be
     transliteration: kūnū
   21:
-    arabic: رَبَّانِيّٖنَ
+    arabic: رَبَّٰنِيِّـۧنَ
     translation: worshippers of the Lord
     transliteration: rabbāniyyīna
   22:
@@ -97,15 +96,15 @@ word_by_word:
     translation: because
     transliteration: bimā
   23:
-    arabic: كُنۡتُمۡ
+    arabic: كُنتُمۡ
     translation: you have been
     transliteration: kuntum
   24:
-    arabic: تُعَلِّمُوۡنَ
+    arabic: تُعَلِّمُونَ
     translation: teaching
     transliteration: tuʿallimūna
   25:
-    arabic: الۡكِتٰبَ
+    arabic: ٱلۡكِتَٰبَ
     translation: the Book
     transliteration: l-kitāba
   26:
@@ -113,11 +112,11 @@ word_by_word:
     translation: and because
     transliteration: wabimā
   27:
-    arabic: كُنۡتُمۡ
+    arabic: كُنتُمۡ
     translation: you have been
     transliteration: kuntum
   28:
-    arabic: تَدۡرُسُوۡنَۙ‏
+    arabic: تَدۡرُسُونَ
     translation: studying (it)
     transliteration: tadrusūna
 ---

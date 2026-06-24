@@ -1,6 +1,6 @@
 ---
-arabic_ayat: قُلۡ كُلٌّ مُّتَرَبِّصٌ فَتَرَبَّصُوۡا​ ۚ فَسَتَعۡلَمُوۡنَ مَنۡ اَصۡحٰبُ
-  الصِّرَاطِ السَّوِىِّ وَمَنِ اهۡتَدٰى‏
+arabic_ayat: قُلۡ كُلّٞ مُّتَرَبِّصٞ فَتَرَبَّصُواْۖ فَسَتَعۡلَمُونَ مَنۡ أَصۡحَٰبُ
+  ٱلصِّرَٰطِ ٱلسَّوِيِّ وَمَنِ ٱهۡتَدَىٰ
 sentence_translation: Say ˹to them, O  Prophet˺, “Each ˹of us˺ is waiting, so keep
   waiting! You will soon know who is on the Straight Path and is ˹rightly˺ guided.”
 word_by_word:
@@ -9,19 +9,19 @@ word_by_word:
     translation: Say
     transliteration: qul
   2:
-    arabic: كُلٌّ
+    arabic: كُلّٞ
     translation: Each
     transliteration: kullun
   3:
-    arabic: مُّتَرَبِّصٌ
+    arabic: مُّتَرَبِّصٞ
     translation: (is) waiting
     transliteration: mutarabbiṣun
   4:
-    arabic: فَتَرَبَّصُوۡا​ ۚ
+    arabic: فَتَرَبَّصُواْۖ
     translation: so await
     transliteration: fatarabbaṣū
   5:
-    arabic: فَسَتَعۡلَمُوۡنَ
+    arabic: فَسَتَعۡلَمُونَ
     translation: Then you will know
     transliteration: fasataʿlamūna
   6:
@@ -29,15 +29,15 @@ word_by_word:
     translation: who
     transliteration: man
   7:
-    arabic: اَصۡحٰبُ
+    arabic: أَصۡحَٰبُ
     translation: (are the) companions
     transliteration: aṣḥābu
   8:
-    arabic: الصِّرَاطِ
+    arabic: ٱلصِّرَٰطِ
     translation: (of) the way
     transliteration: l-ṣirāṭi
   9:
-    arabic: السَّوِىِّ
+    arabic: ٱلسَّوِيِّ
     translation: '[the] even'
     transliteration: l-sawiyi
   10:
@@ -45,7 +45,7 @@ word_by_word:
     translation: and who
     transliteration: wamani
   11:
-    arabic: اهۡتَدٰى‏
+    arabic: ٱهۡتَدَىٰ
     translation: is guided
     transliteration: ih'tadā
 ---

@@ -1,17 +1,17 @@
 ---
-arabic_ayat: عَلٰى سُرُرٍ مُّتَقٰبِلِيۡنَ‏
+arabic_ayat: عَلَىٰ سُرُرٖ مُّتَقَٰبِلِينَ
 sentence_translation: facing each other on thrones.
 word_by_word:
   1:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: 'On'
     transliteration: ʿalā
   2:
-    arabic: سُرُرٍ
+    arabic: سُرُرٖ
     translation: thrones
     transliteration: sururin
   3:
-    arabic: مُّتَقٰبِلِيۡنَ‏
+    arabic: مُّتَقَٰبِلِينَ
     translation: facing each other
     transliteration: mutaqābilīna
 ---

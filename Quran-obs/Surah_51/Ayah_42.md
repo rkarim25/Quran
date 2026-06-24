@@ -1,5 +1,5 @@
 ---
-arabic_ayat: مَا تَذَرُ مِنۡ شَىۡءٍ اَتَتۡ عَلَيۡهِ اِلَّا جَعَلَتۡهُ كَالرَّمِيۡمِؕ‏
+arabic_ayat: مَا تَذَرُ مِن شَيۡءٍ أَتَتۡ عَلَيۡهِ إِلَّا جَعَلَتۡهُ كَٱلرَّمِيمِ
 sentence_translation: There was nothing it came upon that it did not reduce to ashes.
 word_by_word:
   1:
@@ -11,15 +11,15 @@ word_by_word:
     translation: it left
     transliteration: tadharu
   3:
-    arabic: مِنۡ
+    arabic: مِن
     translation: any
     transliteration: min
   4:
-    arabic: شَىۡءٍ
+    arabic: شَيۡءٍ
     translation: thing
     transliteration: shayin
   5:
-    arabic: اَتَتۡ
+    arabic: أَتَتۡ
     translation: it came
     transliteration: atat
   6:
@@ -27,7 +27,7 @@ word_by_word:
     translation: upon it
     transliteration: ʿalayhi
   7:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: but
     transliteration: illā
   8:
@@ -35,7 +35,7 @@ word_by_word:
     translation: it made it
     transliteration: jaʿalathu
   9:
-    arabic: كَالرَّمِيۡمِؕ‏
+    arabic: كَٱلرَّمِيمِ
     translation: like disintegrated ruins
     transliteration: kal-ramīmi
 ---

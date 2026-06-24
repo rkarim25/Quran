@@ -1,6 +1,6 @@
 ---
-arabic_ayat: ثُمَّ يَاۡتِىۡ مِنۡۢ بَعۡدِ ذٰلِكَ عَامٌ فِيۡهِ يُغَاثُ النَّاسُ وَفِيۡهِ
-  يَعۡصِرُوۡنَ‏
+arabic_ayat: ثُمَّ يَأۡتِي مِنۢ بَعۡدِ ذَٰلِكَ عَامٞ فِيهِ يُغَاثُ ٱلنَّاسُ وَفِيهِ
+  يَعۡصِرُونَ
 sentence_translation: Then after that will come a year in which people will receive
   abundant rain and they will press ˹oil and wine˺.”
 word_by_word:
@@ -9,11 +9,11 @@ word_by_word:
     translation: Then
     transliteration: thumma
   2:
-    arabic: يَاۡتِىۡ
+    arabic: يَأۡتِي
     translation: will come
     transliteration: yatī
   3:
-    arabic: مِنۡۢ
+    arabic: مِنۢ
     translation: after
     transliteration: min
   4:
@@ -21,15 +21,15 @@ word_by_word:
     translation: after
     transliteration: baʿdi
   5:
-    arabic: ذٰلِكَ
+    arabic: ذَٰلِكَ
     translation: that
     transliteration: dhālika
   6:
-    arabic: عَامٌ
+    arabic: عَامٞ
     translation: a year
     transliteration: ʿāmun
   7:
-    arabic: فِيۡهِ
+    arabic: فِيهِ
     translation: in it
     transliteration: fīhi
   8:
@@ -37,15 +37,15 @@ word_by_word:
     translation: will be given abundant rain
     transliteration: yughāthu
   9:
-    arabic: النَّاسُ
+    arabic: ٱلنَّاسُ
     translation: the people
     transliteration: l-nāsu
   10:
-    arabic: وَفِيۡهِ
+    arabic: وَفِيهِ
     translation: and in it
     transliteration: wafīhi
   11:
-    arabic: يَعۡصِرُوۡنَ‏
+    arabic: يَعۡصِرُونَ
     translation: they will press
     transliteration: yaʿṣirūna
 ---

@@ -1,20 +1,20 @@
 ---
-arabic_ayat: اَفَاَمِنۡتُمۡ اَنۡ يَّخۡسِفَ بِكُمۡ جَانِبَ الۡبَرِّ اَوۡ يُرۡسِلَ عَلَيۡكُمۡ
-  حَاصِبًا ثُمَّ لَا تَجِدُوۡالَـكُمۡ وَكِيۡلًا ۙ‏
+arabic_ayat: أَفَأَمِنتُمۡ أَن يَخۡسِفَ بِكُمۡ جَانِبَ ٱلۡبَرِّ أَوۡ يُرۡسِلَ عَلَيۡكُمۡ
+  حَاصِبٗا ثُمَّ لَا تَجِدُواْ لَكُمۡ وَكِيلًا
 sentence_translation: Do you feel secure that He will not cause the land to swallow
   you up, or unleash upon you a storm of stones? Then you will find none to protect
   you.
 word_by_word:
   1:
-    arabic: اَفَاَمِنۡتُمۡ
+    arabic: أَفَأَمِنتُمۡ
     translation: Do you then feel secure
     transliteration: afa-amintum
   2:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that (not)
     transliteration: an
   3:
-    arabic: يَّخۡسِفَ
+    arabic: يَخۡسِفَ
     translation: He will cause to swallow
     transliteration: yakhsifa
   4:
@@ -26,11 +26,11 @@ word_by_word:
     translation: side
     transliteration: jāniba
   6:
-    arabic: الۡبَرِّ
+    arabic: ٱلۡبَرِّ
     translation: (of) the land
     transliteration: l-bari
   7:
-    arabic: اَوۡ
+    arabic: أَوۡ
     translation: or
     transliteration: aw
   8:
@@ -42,7 +42,7 @@ word_by_word:
     translation: against you
     transliteration: ʿalaykum
   10:
-    arabic: حَاصِبًا
+    arabic: حَاصِبٗا
     translation: a storm of stones
     transliteration: ḥāṣiban
   11:
@@ -54,15 +54,15 @@ word_by_word:
     translation: not
     transliteration: lā
   13:
-    arabic: تَجِدُوۡا
+    arabic: تَجِدُواْ
     translation: you will find
     transliteration: tajidū
   14:
-    arabic: لَـكُمۡ
+    arabic: لَكُمۡ
     translation: for you
     transliteration: lakum
   15:
-    arabic: وَكِيۡلًا ۙ‏
+    arabic: وَكِيلًا
     translation: a guardian
     transliteration: wakīlan
 ---

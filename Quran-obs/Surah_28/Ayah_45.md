@@ -1,21 +1,21 @@
 ---
-arabic_ayat: وَلٰـكِنَّاۤ اَنۡشَاۡنَا قُرُوۡنًا فَتَطَاوَلَ عَلَيۡهِمُ الۡعُمُرُ​ۚ
-  وَمَا كُنۡتَ ثَاوِيًا فِىۡۤ اَهۡلِ مَدۡيَنَ تَـتۡلُوۡا عَلَيۡهِمۡ اٰيٰتِنَاۙ وَلٰـكِنَّا
-  كُنَّا مُرۡسِلِيۡنَ‏
+arabic_ayat: وَلَٰكِنَّآ أَنشَأۡنَا قُرُونٗا فَتَطَاوَلَ عَلَيۡهِمُ ٱلۡعُمُرُۚ وَمَا
+  كُنتَ ثَاوِيٗا فِيٓ أَهۡلِ مَدۡيَنَ تَتۡلُواْ عَلَيۡهِمۡ ءَايَٰتِنَا وَلَٰكِنَّا
+  كُنَّا مُرۡسِلِينَ
 sentence_translation: But We ˹later˺ raised ˹several˺ generations, and the ages took
   their toll on them. Nor were you living among the people of Midian, rehearsing Our
   revelations with them. But it is We Who have sent ˹this revelation to you˺.
 word_by_word:
   1:
-    arabic: وَلٰـكِنَّاۤ
+    arabic: وَلَٰكِنَّآ
     translation: But We
     transliteration: walākinnā
   2:
-    arabic: اَنۡشَاۡنَا
+    arabic: أَنشَأۡنَا
     translation: '[We] produced'
     transliteration: anshanā
   3:
-    arabic: قُرُوۡنًا
+    arabic: قُرُونٗا
     translation: generations
     transliteration: qurūnan
   4:
@@ -27,7 +27,7 @@ word_by_word:
     translation: for them
     transliteration: ʿalayhimu
   6:
-    arabic: الۡعُمُرُ​ۚ
+    arabic: ٱلۡعُمُرُۚ
     translation: the life
     transliteration: l-ʿumuru
   7:
@@ -35,19 +35,19 @@ word_by_word:
     translation: And not
     transliteration: wamā
   8:
-    arabic: كُنۡتَ
+    arabic: كُنتَ
     translation: you were
     transliteration: kunta
   9:
-    arabic: ثَاوِيًا
+    arabic: ثَاوِيٗا
     translation: a dweller
     transliteration: thāwiyan
   10:
-    arabic: فِىۡۤ
+    arabic: فِيٓ
     translation: among
     transliteration: fī
   11:
-    arabic: اَهۡلِ
+    arabic: أَهۡلِ
     translation: (the) people
     transliteration: ahli
   12:
@@ -55,19 +55,19 @@ word_by_word:
     translation: (of) Madyan
     transliteration: madyana
   13:
-    arabic: تَـتۡلُوۡا
+    arabic: تَتۡلُواْ
     translation: reciting
     transliteration: tatlū
   14:
-    arabic: عَلَيۡهِمۡ
+    arabic: عَلَيۡهِمۡ ءَ
     translation: to them
     transliteration: ʿalayhim
   15:
-    arabic: اٰيٰتِنَاۙ
+    arabic: ايَٰتِنَا
     translation: Our Verses
     transliteration: āyātinā
   16:
-    arabic: وَلٰـكِنَّا
+    arabic: وَلَٰكِنَّا
     translation: but We
     transliteration: walākinnā
   17:
@@ -75,7 +75,7 @@ word_by_word:
     translation: '[We] were'
     transliteration: kunnā
   18:
-    arabic: مُرۡسِلِيۡنَ‏
+    arabic: مُرۡسِلِينَ
     translation: the Senders
     transliteration: mur'silīna
 ---

@@ -1,21 +1,21 @@
 ---
-arabic_ayat: اَفَسِحۡرٌ هٰذَاۤ اَمۡ اَنۡتُمۡ لَا تُبۡصِرُوۡنَ​ۚ‏
+arabic_ayat: أَفَسِحۡرٌ هَٰذَآ أَمۡ أَنتُمۡ لَا تُبۡصِرُونَ
 sentence_translation: Is this magic, or do you not see?
 word_by_word:
   1:
-    arabic: اَفَسِحۡرٌ
+    arabic: أَفَسِحۡرٌ
     translation: Then is this magic
     transliteration: afasiḥ'run
   2:
-    arabic: هٰذَاۤ
+    arabic: هَٰذَآ
     translation: Then is this magic
     transliteration: hādhā
   3:
-    arabic: اَمۡ
+    arabic: أَمۡ
     translation: or
     transliteration: am
   4:
-    arabic: اَنۡتُمۡ
+    arabic: أَنتُمۡ
     translation: you
     transliteration: antum
   5:
@@ -23,7 +23,7 @@ word_by_word:
     translation: (do) not
     transliteration: lā
   6:
-    arabic: تُبۡصِرُوۡنَ​ۚ‏
+    arabic: تُبۡصِرُونَ
     translation: see
     transliteration: tub'ṣirūna
 ---

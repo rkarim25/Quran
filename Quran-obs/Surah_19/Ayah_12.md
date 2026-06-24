@@ -1,11 +1,10 @@
 ---
-arabic_ayat: يٰيَحۡيٰى خُذِ الۡكِتٰبَ بِقُوَّةٍ​ ؕ وَاٰتَيۡنٰهُ الۡحُكۡمَ صَبِيًّا
-  ۙ‏
+arabic_ayat: يَٰيَحۡيَىٰ خُذِ ٱلۡكِتَٰبَ بِقُوَّةٖۖ وَءَاتَيۡنَٰهُ ٱلۡحُكۡمَ صَبِيّٗا
 sentence_translation: ˹It was later said,˺ “O John! Hold firmly to the Scriptures.”
   And We granted him wisdom while ˹he was still˺ a child,
 word_by_word:
   1:
-    arabic: يٰيَحۡيٰى
+    arabic: يَٰيَحۡيَىٰ
     translation: O Yahya
     transliteration: yāyaḥyā
   2:
@@ -13,23 +12,23 @@ word_by_word:
     translation: Hold
     transliteration: khudhi
   3:
-    arabic: الۡكِتٰبَ
+    arabic: ٱلۡكِتَٰبَ
     translation: the Scripture
     transliteration: l-kitāba
   4:
-    arabic: بِقُوَّةٍ​ ؕ
+    arabic: بِقُوَّةٖۖ
     translation: with strength
     transliteration: biquwwatin
   5:
-    arabic: وَاٰتَيۡنٰهُ
+    arabic: وَءَاتَيۡنَٰهُ
     translation: And We gave him
     transliteration: waātaynāhu
   6:
-    arabic: الۡحُكۡمَ
+    arabic: ٱلۡحُكۡمَ
     translation: '[the] wisdom'
     transliteration: l-ḥuk'ma
   7:
-    arabic: صَبِيًّا ۙ‏
+    arabic: صَبِيّٗا
     translation: (when he was) a child
     transliteration: ṣabiyyan
 ---

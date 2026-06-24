@@ -1,40 +1,40 @@
 ---
-arabic_ayat: وَ هُوَ الَّذِىۡۤ اَنۡشَاَكُمۡ مِّنۡ نَّفۡسٍ وَّاحِدَةٍ فَمُسۡتَقَرٌّ
-  وَّمُسۡتَوۡدَعٌ​ ؕ قَدۡ فَصَّلۡنَا الۡاٰيٰتِ لِقَوۡمٍ يَّفۡقَهُوۡنَ‏
+arabic_ayat: وَهُوَ ٱلَّذِيٓ أَنشَأَكُم مِّن نَّفۡسٖ وَٰحِدَةٖ فَمُسۡتَقَرّٞ وَمُسۡتَوۡدَعٞۗ
+  قَدۡ فَصَّلۡنَا ٱلۡأٓيَٰتِ لِقَوۡمٖ يَفۡقَهُونَ
 sentence_translation: And He is the One Who originated you all from a single soul, then
   assigned you a place to live and another to ˹be laid to˺ rest. We have already made
   the signs clear for people who comprehend.
 word_by_word:
   1:
-    arabic: وَ هُوَ
+    arabic: وَهُوَ
     translation: And He
     transliteration: wahuwa
   2:
-    arabic: الَّذِىۡۤ
+    arabic: ٱلَّذِيٓ
     translation: (is) the One Who
     transliteration: alladhī
   3:
-    arabic: اَنۡشَاَكُمۡ
+    arabic: أَنشَأَكُم
     translation: (has) produced you
     transliteration: ansha-akum
   4:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: from
     transliteration: min
   5:
-    arabic: نَّفۡسٍ
+    arabic: نَّفۡسٖ
     translation: a soul
     transliteration: nafsin
   6:
-    arabic: وَّاحِدَةٍ
+    arabic: وَٰحِدَةٖ
     translation: single
     transliteration: wāḥidatin
   7:
-    arabic: فَمُسۡتَقَرٌّ
+    arabic: فَمُسۡتَقَرّٞ
     translation: so (there is) a place of dwelling
     transliteration: famus'taqarrun
   8:
-    arabic: وَّمُسۡتَوۡدَعٌ​ ؕ
+    arabic: وَمُسۡتَوۡدَعٞۗ
     translation: and a resting place
     transliteration: wamus'tawdaʿun
   9:
@@ -46,15 +46,15 @@ word_by_word:
     translation: We have made clear
     transliteration: faṣṣalnā
   11:
-    arabic: الۡاٰيٰتِ
+    arabic: ٱلۡأٓيَٰتِ
     translation: the Signs
     transliteration: l-āyāti
   12:
-    arabic: لِقَوۡمٍ
+    arabic: لِقَوۡمٖ
     translation: for a people
     transliteration: liqawmin
   13:
-    arabic: يَّفۡقَهُوۡنَ‏
+    arabic: يَفۡقَهُونَ
     translation: (who) understand
     transliteration: yafqahūna
 ---

@@ -1,32 +1,32 @@
 ---
-arabic_ayat: وَمَا مِنۡ دَآ بَّةٍ فِى الۡاَرۡضِ اِلَّا عَلَى اللّٰهِ رِزۡقُهَا وَ
-  يَعۡلَمُ مُسۡتَقَرَّهَا وَمُسۡتَوۡدَعَهَا​ؕ كُلٌّ فِىۡ كِتٰبٍ مُّبِيۡنٍ‏
+arabic_ayat: ۞ وَمَا مِن دَآبَّةٖ فِي ٱلۡأَرۡضِ إِلَّا عَلَى ٱللَّهِ رِزۡقُهَا وَيَعۡلَمُ
+  مُسۡتَقَرَّهَا وَمُسۡتَوۡدَعَهَاۚ كُلّٞ فِي كِتَٰبٖ مُّبِينٖ
 sentence_translation: There is no moving creature on earth whose provision is not
   guaranteed by Allah. And He knows where it lives and where it is laid to rest. All
   is ˹written˺ in a perfect Record.
 word_by_word:
   1:
-    arabic: ۞ وَمَا
+    arabic: ۞ وَمَا
     translation: And not
     transliteration: wamā
   2:
-    arabic: مِنۡ
+    arabic: مِن
     translation: any
     transliteration: min
   3:
-    arabic: دَآ بَّةٍ
+    arabic: دَآبَّةٖ
     translation: moving creature
     transliteration: dābbatin
   4:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   5:
-    arabic: الۡاَرۡضِ
+    arabic: ٱلۡأَرۡضِ
     translation: the earth
     transliteration: l-arḍi
   6:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: but
     transliteration: illā
   7:
@@ -34,7 +34,7 @@ word_by_word:
     translation: 'on'
     transliteration: ʿalā
   8:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   9:
@@ -42,7 +42,7 @@ word_by_word:
     translation: (is) its provision
     transliteration: riz'quhā
   10:
-    arabic: وَ يَعۡلَمُ
+    arabic: وَيَعۡلَمُ
     translation: And He knows
     transliteration: wayaʿlamu
   11:
@@ -50,23 +50,23 @@ word_by_word:
     translation: its dwelling place
     transliteration: mus'taqarrahā
   12:
-    arabic: وَمُسۡتَوۡدَعَهَا​ؕ
+    arabic: وَمُسۡتَوۡدَعَهَاۚ
     translation: and its place of storage
     transliteration: wamus'tawdaʿahā
   13:
-    arabic: كُلٌّ
+    arabic: كُلّٞ
     translation: All
     transliteration: kullun
   14:
-    arabic: فِىۡ
+    arabic: فِي
     translation: (is) in
     transliteration: fī
   15:
-    arabic: كِتٰبٍ
+    arabic: كِتَٰبٖ
     translation: a Record
     transliteration: kitābin
   16:
-    arabic: مُّبِيۡنٍ‏
+    arabic: مُّبِينٖ
     translation: clear
     transliteration: mubīnin
 ---

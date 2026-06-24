@@ -1,35 +1,34 @@
 ---
-arabic_ayat: "يٰۤاَيُّهَا الَّذِيۡنَ اٰمَنُوۡۤا اِنَّمَا الۡمُشۡرِكُوۡنَ نَجَسٌ فَلَا\
-  \ يَقۡرَبُوا الۡمَسۡجِدَ الۡحَـرَامَ بَعۡدَ عَامِهِمۡ هٰذَا​ ۚ وَ اِنۡ خِفۡتُمۡ\
-  \ عَيۡلَةً فَسَوۡفَ يُغۡنِيۡكُمُ اللّٰهُ مِنۡ فَضۡلِهٖۤ اِنۡ شَآءَ​ ؕ اِنَّ اللّٰهَ\
-  \ عَلِيۡمٌ حَكِيۡمٌ‏ \uFEFF\uFEFF"
+arabic_ayat: يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓاْ إِنَّمَا ٱلۡمُشۡرِكُونَ نَجَسٞ فَلَا
+  يَقۡرَبُواْ ٱلۡمَسۡجِدَ ٱلۡحَرَامَ بَعۡدَ عَامِهِمۡ هَٰذَاۚ وَإِنۡ خِفۡتُمۡ عَيۡلَةٗ
+  فَسَوۡفَ يُغۡنِيكُمُ ٱللَّهُ مِن فَضۡلِهِۦٓ إِن شَآءَۚ إِنَّ ٱللَّهَ عَلِيمٌ حَكِيمٞ
 sentence_translation: O believers! Indeed, the polytheists are ˹spiritually˺ impure, so
   they should not approach the Sacred Mosque after this year. If you fear poverty,
   Allah will enrich you out of His bounty, if He wills. Surely, Allah is All-Knowing,
   All-Wise.
 word_by_word:
   1:
-    arabic: يٰۤاَيُّهَا
+    arabic: يَٰٓأَيُّهَا
     translation: O you who believe
     transliteration: yāayyuhā
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ ءَ
     translation: O you who believe
     transliteration: alladhīna
   3:
-    arabic: اٰمَنُوۡۤا
+    arabic: امَنُوٓاْ
     translation: O you who believe
     transliteration: āmanū
   4:
-    arabic: اِنَّمَا
+    arabic: إِنَّمَا
     translation: Indeed
     transliteration: innamā
   5:
-    arabic: الۡمُشۡرِكُوۡنَ
+    arabic: ٱلۡمُشۡرِكُونَ
     translation: the polytheists
     transliteration: l-mush'rikūna
   6:
-    arabic: نَجَسٌ
+    arabic: نَجَسٞ
     translation: (are) unclean
     transliteration: najasun
   7:
@@ -37,15 +36,15 @@ word_by_word:
     translation: so let them not come near
     transliteration: falā
   8:
-    arabic: يَقۡرَبُوا
+    arabic: يَقۡرَبُواْ
     translation: so let them not come near
     transliteration: yaqrabū
   9:
-    arabic: الۡمَسۡجِدَ
+    arabic: ٱلۡمَسۡجِدَ
     translation: Al-Masjid Al-Haraam
     transliteration: l-masjida
   10:
-    arabic: الۡحَـرَامَ
+    arabic: ٱلۡحَرَامَ
     translation: Al-Masjid Al-Haraam
     transliteration: l-ḥarāma
   11:
@@ -57,11 +56,11 @@ word_by_word:
     translation: this, their (final) year
     transliteration: ʿāmihim
   13:
-    arabic: هٰذَا​ ۚ
+    arabic: هَٰذَاۚ
     translation: this, their (final) year
     transliteration: hādhā
   14:
-    arabic: وَ اِنۡ
+    arabic: وَإِنۡ
     translation: And if
     transliteration: wa-in
   15:
@@ -69,7 +68,7 @@ word_by_word:
     translation: you fear
     transliteration: khif'tum
   16:
-    arabic: عَيۡلَةً
+    arabic: عَيۡلَةٗ
     translation: poverty
     transliteration: ʿaylatan
   17:
@@ -77,43 +76,43 @@ word_by_word:
     translation: then soon
     transliteration: fasawfa
   18:
-    arabic: يُغۡنِيۡكُمُ
+    arabic: يُغۡنِيكُمُ
     translation: Allah will enrich you
     transliteration: yugh'nīkumu
   19:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah will enrich you
     transliteration: l-lahu
   20:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   21:
-    arabic: فَضۡلِهٖۤ
+    arabic: فَضۡلِهِۦٓ
     translation: His Bounty
     transliteration: faḍlihi
   22:
-    arabic: اِنۡ
+    arabic: إِن
     translation: if
     transliteration: in
   23:
-    arabic: شَآءَ​ ؕ
+    arabic: شَآءَۚ
     translation: He wills
     transliteration: shāa
   24:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   25:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   26:
-    arabic: عَلِيۡمٌ
+    arabic: عَلِيمٌ
     translation: (is) All-Knower
     transliteration: ʿalīmun
   27:
-    arabic: "حَكِيۡمٌ‏ \uFEFF\uFEFF"
+    arabic: حَكِيمٞ
     translation: All-Wise
     transliteration: ḥakīmun
 ---

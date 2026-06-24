@@ -1,23 +1,23 @@
 ---
-arabic_ayat: وَيَعۡبُدُوۡنَ مِنۡ دُوۡنِ اللّٰهِ مَا لَا يَنۡفَعُهُمۡ وَلَا يَضُرُّهُمۡ​ؕ
-  وَكَانَ الۡـكَافِرُ عَلٰى رَبِّهٖ ظَهِيۡرًا‏
+arabic_ayat: وَيَعۡبُدُونَ مِن دُونِ ٱللَّهِ مَا لَا يَنفَعُهُمۡ وَلَا يَضُرُّهُمۡۗ
+  وَكَانَ ٱلۡكَافِرُ عَلَىٰ رَبِّهِۦ ظَهِيرٗا
 sentence_translation: Yet they worship besides Allah what can neither benefit nor
   harm them. And the disbeliever always collaborates against their Lord.
 word_by_word:
   1:
-    arabic: وَيَعۡبُدُوۡنَ
+    arabic: وَيَعۡبُدُونَ
     translation: But they worship
     transliteration: wayaʿbudūna
   2:
-    arabic: مِنۡ
+    arabic: مِن
     translation: besides Allah
     transliteration: min
   3:
-    arabic: دُوۡنِ
+    arabic: دُونِ
     translation: besides Allah
     transliteration: dūni
   4:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: besides Allah
     transliteration: l-lahi
   5:
@@ -29,7 +29,7 @@ word_by_word:
     translation: not profits them
     transliteration: lā
   7:
-    arabic: يَنۡفَعُهُمۡ
+    arabic: يَنفَعُهُمۡ
     translation: not profits them
     transliteration: yanfaʿuhum
   8:
@@ -37,7 +37,7 @@ word_by_word:
     translation: and not
     transliteration: walā
   9:
-    arabic: يَضُرُّهُمۡ​ؕ
+    arabic: يَضُرُّهُمۡۗ
     translation: harms them
     transliteration: yaḍurruhum
   10:
@@ -45,19 +45,19 @@ word_by_word:
     translation: and is
     transliteration: wakāna
   11:
-    arabic: الۡـكَافِرُ
+    arabic: ٱلۡكَافِرُ
     translation: the disbeliever
     transliteration: l-kāfiru
   12:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: against
     transliteration: ʿalā
   13:
-    arabic: رَبِّهٖ
+    arabic: رَبِّهِۦ
     translation: his Lord
     transliteration: rabbihi
   14:
-    arabic: ظَهِيۡرًا‏
+    arabic: ظَهِيرٗا
     translation: a helper
     transliteration: ẓahīran
 ---

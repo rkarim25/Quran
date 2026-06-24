@@ -1,21 +1,21 @@
 ---
-arabic_ayat: اَفَرَءَيۡتَ اِنۡ مَّتَّعۡنٰهُمۡ سِنِيۡنَۙ‏
+arabic_ayat: أَفَرَءَيۡتَ إِن مَّتَّعۡنَٰهُمۡ سِنِينَ
 sentence_translation: Imagine ˹O Prophet˺ if We allowed them enjoyment for years,
 word_by_word:
   1:
-    arabic: اَفَرَءَيۡتَ
+    arabic: أَفَرَءَيۡتَ
     translation: Then have you seen
     transliteration: afara-ayta
   2:
-    arabic: اِنۡ
+    arabic: إِن
     translation: if
     transliteration: in
   3:
-    arabic: مَّتَّعۡنٰهُمۡ
+    arabic: مَّتَّعۡنَٰهُمۡ
     translation: We let them enjoy
     transliteration: mattaʿnāhum
   4:
-    arabic: سِنِيۡنَۙ‏
+    arabic: سِنِينَ
     translation: (for) years
     transliteration: sinīna
 ---

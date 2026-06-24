@@ -1,6 +1,6 @@
 ---
-arabic_ayat: وَقِهِمُ السَّيِّاٰتِ ؕ وَمَنۡ تَقِ السَّيِّاٰتِ يَوۡمَٮِٕذٍ فَقَدۡ رَحِمۡتَهٗ
-  ؕ وَذٰ لِكَ هُوَ الۡفَوۡزُ الۡعَظِيۡمُ‏
+arabic_ayat: وَقِهِمُ ٱلسَّيِّـَٔاتِۚ وَمَن تَقِ ٱلسَّيِّـَٔاتِ يَوۡمَئِذٖ فَقَدۡ
+  رَحِمۡتَهُۥۚ وَذَٰلِكَ هُوَ ٱلۡفَوۡزُ ٱلۡعَظِيمُ
 sentence_translation: And protect them from ˹the consequences of their˺ evil deeds.
   For whoever You protect from the evil of their deeds on that Day will have been
   shown Your mercy. That is ˹truly˺ the ultimate triumph.”
@@ -10,11 +10,11 @@ word_by_word:
     translation: And protect them
     transliteration: waqihimu
   2:
-    arabic: السَّيِّاٰتِ ؕ
+    arabic: ٱلسَّيِّـَٔاتِۚ
     translation: (from) the evils
     transliteration: l-sayiāti
   3:
-    arabic: وَمَنۡ
+    arabic: وَمَن
     translation: And whoever
     transliteration: waman
   4:
@@ -22,11 +22,11 @@ word_by_word:
     translation: you protect
     transliteration: taqi
   5:
-    arabic: السَّيِّاٰتِ
+    arabic: ٱلسَّيِّـَٔاتِ
     translation: (from) the evils
     transliteration: l-sayiāti
   6:
-    arabic: يَوۡمَٮِٕذٍ
+    arabic: يَوۡمَئِذٖ
     translation: that Day
     transliteration: yawma-idhin
   7:
@@ -34,11 +34,11 @@ word_by_word:
     translation: then verily
     transliteration: faqad
   8:
-    arabic: رَحِمۡتَهٗ ؕ
+    arabic: رَحِمۡتَهُۥۚ
     translation: You have bestowed mercy on him
     transliteration: raḥim'tahu
   9:
-    arabic: وَذٰ لِكَ
+    arabic: وَذَٰلِكَ
     translation: And that
     transliteration: wadhālika
   10:
@@ -46,11 +46,11 @@ word_by_word:
     translation: '[it]'
     transliteration: huwa
   11:
-    arabic: الۡفَوۡزُ
+    arabic: ٱلۡفَوۡزُ
     translation: (is) the success
     transliteration: l-fawzu
   12:
-    arabic: الۡعَظِيۡمُ‏
+    arabic: ٱلۡعَظِيمُ
     translation: the great
     transliteration: l-ʿaẓīmu
 ---

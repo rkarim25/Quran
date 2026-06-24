@@ -1,19 +1,19 @@
 ---
-arabic_ayat: مَا لَهُمۡ بِهٖ مِنۡ عِلۡمٍ وَّلَا لِاٰبَآٮِٕهِمۡ​ؕ كَبُرَتۡ كَلِمَةً
-  تَخۡرُجُ مِنۡ اَفۡوَاهِهِمۡ​ؕ اِنۡ يَّقُوۡلُوۡنَ اِلَّا كَذِبًا‏
+arabic_ayat: مَّا لَهُم بِهِۦ مِنۡ عِلۡمٖ وَلَا لِأٓبَآئِهِمۡۚ كَبُرَتۡ كَلِمَةٗ
+  تَخۡرُجُ مِنۡ أَفۡوَٰهِهِمۡۚ إِن يَقُولُونَ إِلَّا كَذِبٗا
 sentence_translation: They have no knowledge of this, nor did their forefathers. What
   a terrible claim that comes out of their mouths! They say nothing but lies.
 word_by_word:
   1:
-    arabic: مَا
+    arabic: مَّا
     translation: Not
     transliteration: mā
   2:
-    arabic: لَهُمۡ
+    arabic: لَهُم
     translation: they have
     transliteration: lahum
   3:
-    arabic: بِهٖ
+    arabic: بِهِۦ
     translation: about it
     transliteration: bihi
   4:
@@ -21,15 +21,15 @@ word_by_word:
     translation: any
     transliteration: min
   5:
-    arabic: عِلۡمٍ
+    arabic: عِلۡمٖ
     translation: knowledge
     transliteration: ʿil'min
   6:
-    arabic: وَّلَا
+    arabic: وَلَا
     translation: and not
     transliteration: walā
   7:
-    arabic: لِاٰبَآٮِٕهِمۡ​ؕ
+    arabic: لِأٓبَآئِهِمۡۚ
     translation: their forefathers
     transliteration: liābāihim
   8:
@@ -37,7 +37,7 @@ word_by_word:
     translation: Grave (is)
     transliteration: kaburat
   9:
-    arabic: كَلِمَةً
+    arabic: كَلِمَةٗ
     translation: the word
     transliteration: kalimatan
   10:
@@ -49,23 +49,23 @@ word_by_word:
     translation: of
     transliteration: min
   12:
-    arabic: اَفۡوَاهِهِمۡ​ؕ
+    arabic: أَفۡوَٰهِهِمۡۚ
     translation: their mouths
     transliteration: afwāhihim
   13:
-    arabic: اِنۡ
+    arabic: إِن
     translation: Not
     transliteration: in
   14:
-    arabic: يَّقُوۡلُوۡنَ
+    arabic: يَقُولُونَ
     translation: they say
     transliteration: yaqūlūna
   15:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   16:
-    arabic: كَذِبًا‏
+    arabic: كَذِبٗا
     translation: a lie
     transliteration: kadhiban
 ---

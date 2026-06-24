@@ -1,13 +1,13 @@
 ---
-arabic_ayat: وَّخَلَقۡنٰكُمۡ اَزۡوَاجًا ۙ‏
+arabic_ayat: وَخَلَقۡنَٰكُمۡ أَزۡوَٰجٗا
 sentence_translation: and created you in pairs,
 word_by_word:
   1:
-    arabic: وَّخَلَقۡنٰكُمۡ
+    arabic: وَخَلَقۡنَٰكُمۡ
     translation: And We created you
     transliteration: wakhalaqnākum
   2:
-    arabic: اَزۡوَاجًا ۙ‏
+    arabic: أَزۡوَٰجٗا
     translation: (in) pairs
     transliteration: azwājan
 ---

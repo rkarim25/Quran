@@ -1,6 +1,6 @@
 ---
-arabic_ayat: وَمَثَلُ الَّذِيۡنَ کَفَرُوۡا كَمَثَلِ الَّذِىۡ يَنۡعِقُ بِمَا لَا يَسۡمَعُ
-  اِلَّا دُعَآءً وَّنِدَآءً ؕ صُمٌّۢ بُكۡمٌ عُمۡـىٌ فَهُمۡ لَا يَعۡقِلُوۡنَ‏
+arabic_ayat: وَمَثَلُ ٱلَّذِينَ كَفَرُواْ كَمَثَلِ ٱلَّذِي يَنۡعِقُ بِمَا لَا يَسۡمَعُ
+  إِلَّا دُعَآءٗ وَنِدَآءٗۚ صُمُّۢ بُكۡمٌ عُمۡيٞ فَهُمۡ لَا يَعۡقِلُونَ
 sentence_translation: The example of the disbelievers ˹not responding to the Messenger’s
   warning˺ is like a flock not comprehending the calls and cries of the shepherd.
   ˹They are wilfully˺ deaf, dumb and blind so they have no understanding.
@@ -10,11 +10,11 @@ word_by_word:
     translation: And (the) example
     transliteration: wamathalu
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: (of) those who
     transliteration: alladhīna
   3:
-    arabic: کَفَرُوۡا
+    arabic: كَفَرُواْ
     translation: disbelieve[d]
     transliteration: kafarū
   4:
@@ -22,7 +22,7 @@ word_by_word:
     translation: (is) like (the) example
     transliteration: kamathali
   5:
-    arabic: الَّذِىۡ
+    arabic: ٱلَّذِي
     translation: (of) the one who
     transliteration: alladhī
   6:
@@ -42,19 +42,19 @@ word_by_word:
     translation: (does) hear
     transliteration: yasmaʿu
   10:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   11:
-    arabic: دُعَآءً
+    arabic: دُعَآءٗ
     translation: calls
     transliteration: duʿāan
   12:
-    arabic: وَّنِدَآءً ؕ
+    arabic: وَنِدَآءٗۚ
     translation: 'and cries '
     transliteration: wanidāan
   13:
-    arabic: صُمٌّۢ
+    arabic: صُمُّۢ
     translation: deaf
     transliteration: ṣummun
   14:
@@ -62,7 +62,7 @@ word_by_word:
     translation: dumb
     transliteration: buk'mun
   15:
-    arabic: عُمۡـىٌ
+    arabic: عُمۡيٞ
     translation: (and) blind
     transliteration: ʿum'yun
   16:
@@ -74,7 +74,7 @@ word_by_word:
     translation: (do) not
     transliteration: lā
   18:
-    arabic: يَعۡقِلُوۡنَ‏
+    arabic: يَعۡقِلُونَ
     translation: understand
     transliteration: yaʿqilūna
 ---

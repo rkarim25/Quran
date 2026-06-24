@@ -1,9 +1,9 @@
 ---
-arabic_ayat: هُمُ الَّذِيۡنَ كَفَرُوۡا وَصَدُّوۡكُمۡ عَنِ الۡمَسۡجِدِ الۡحَـرَامِ
-  وَالۡهَدۡىَ مَعۡكُوۡفًا اَنۡ يَّبۡلُغَ مَحِلَّهٗ​ ؕ وَلَوۡلَا رِجَالٌ مُّؤۡمِنُوۡنَ
-  وَنِسَآءٌ مُّؤۡمِنٰتٌ لَّمۡ تَعۡلَمُوۡهُمۡ اَنۡ تَطَئُوْ هُمۡ فَتُصِيۡبَكُمۡ مِّنۡهُمۡ
-  مَّعَرَّةٌ ۢ بِغَيۡرِ عِلۡمٍ ۚ ​لِيُدۡخِلَ اللّٰهُ فِىۡ رَحۡمَتِهٖ مَنۡ يَّشَآءُ​
-  ۚ لَوۡ تَزَيَّلُوۡا لَعَذَّبۡنَا الَّذِيۡنَ كَفَرُوۡا مِنۡهُمۡ عَذَابًا اَ لِيۡمًا‏
+arabic_ayat: هُمُ ٱلَّذِينَ كَفَرُواْ وَصَدُّوكُمۡ عَنِ ٱلۡمَسۡجِدِ ٱلۡحَرَامِ وَٱلۡهَدۡيَ
+  مَعۡكُوفًا أَن يَبۡلُغَ مَحِلَّهُۥۚ وَلَوۡلَا رِجَالٞ مُّؤۡمِنُونَ وَنِسَآءٞ مُّؤۡمِنَٰتٞ
+  لَّمۡ تَعۡلَمُوهُمۡ أَن تَطَـُٔوهُمۡ فَتُصِيبَكُم مِّنۡهُم مَّعَرَّةُۢ بِغَيۡرِ
+  عِلۡمٖۖ لِّيُدۡخِلَ ٱللَّهُ فِي رَحۡمَتِهِۦ مَن يَشَآءُۚ لَوۡ تَزَيَّلُواْ لَعَذَّبۡنَا
+  ٱلَّذِينَ كَفَرُواْ مِنۡهُمۡ عَذَابًا أَلِيمًا
 sentence_translation: They are the ones who persisted in disbelief and hindered you
   from the Sacred Mosque, preventing the sacrificial animals from reaching their destination. ˹We
   would have let you march through Mecca,˺ had there not been believing men and women,
@@ -17,15 +17,15 @@ word_by_word:
     translation: They
     transliteration: humu
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: (are) those who
     transliteration: alladhīna
   3:
-    arabic: كَفَرُوۡا
+    arabic: كَفَرُواْ
     translation: disbelieved
     transliteration: kafarū
   4:
-    arabic: وَصَدُّوۡكُمۡ
+    arabic: وَصَدُّوكُمۡ
     translation: and hindered you
     transliteration: waṣaddūkum
   5:
@@ -33,31 +33,31 @@ word_by_word:
     translation: from
     transliteration: ʿani
   6:
-    arabic: الۡمَسۡجِدِ
+    arabic: ٱلۡمَسۡجِدِ
     translation: Al-Masjid Al-Haraam
     transliteration: l-masjidi
   7:
-    arabic: الۡحَـرَامِ
+    arabic: ٱلۡحَرَامِ
     translation: Al-Masjid Al-Haraam
     transliteration: l-ḥarāmi
   8:
-    arabic: وَالۡهَدۡىَ
+    arabic: وَٱلۡهَدۡيَ
     translation: while the offering
     transliteration: wal-hadya
   9:
-    arabic: مَعۡكُوۡفًا
+    arabic: مَعۡكُوفًا
     translation: (was) prevented
     transliteration: maʿkūfan
   10:
-    arabic: اَنۡ
+    arabic: أَن
     translation: from
     transliteration: an
   11:
-    arabic: يَّبۡلُغَ
+    arabic: يَبۡلُغَ
     translation: reaching
     transliteration: yablugha
   12:
-    arabic: مَحِلَّهٗ​ ؕ
+    arabic: مَحِلَّهُۥۚ
     translation: its place (of sacrifice)
     transliteration: maḥillahu
   13:
@@ -65,19 +65,19 @@ word_by_word:
     translation: And if not
     transliteration: walawlā
   14:
-    arabic: رِجَالٌ
+    arabic: رِجَالٞ
     translation: (for) men
     transliteration: rijālun
   15:
-    arabic: مُّؤۡمِنُوۡنَ
+    arabic: مُّؤۡمِنُونَ
     translation: believing
     transliteration: mu'minūna
   16:
-    arabic: وَنِسَآءٌ
+    arabic: وَنِسَآءٞ
     translation: and women
     transliteration: wanisāon
   17:
-    arabic: مُّؤۡمِنٰتٌ
+    arabic: مُّؤۡمِنَٰتٞ
     translation: believing
     transliteration: mu'minātun
   18:
@@ -85,27 +85,27 @@ word_by_word:
     translation: not
     transliteration: lam
   19:
-    arabic: تَعۡلَمُوۡهُمۡ
+    arabic: تَعۡلَمُوهُمۡ
     translation: you knew them
     transliteration: taʿlamūhum
   20:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that
     transliteration: an
   21:
-    arabic: تَطَئُوْ هُمۡ
+    arabic: تَطَـُٔوهُمۡ
     translation: you may trample them
     transliteration: taṭaūhum
   22:
-    arabic: فَتُصِيۡبَكُمۡ
+    arabic: فَتُصِيبَكُم
     translation: and would befall you
     transliteration: fatuṣībakum
   23:
-    arabic: مِّنۡهُمۡ
+    arabic: مِّنۡهُم
     translation: from them
     transliteration: min'hum
   24:
-    arabic: مَّعَرَّةٌ ۢ
+    arabic: مَّعَرَّةُۢ
     translation: any harm
     transliteration: maʿarratun
   25:
@@ -113,31 +113,31 @@ word_by_word:
     translation: without
     transliteration: bighayri
   26:
-    arabic: عِلۡمٍ ۚ ​
+    arabic: عِلۡمٖۖ
     translation: knowledge
     transliteration: ʿil'min
   27:
-    arabic: لِيُدۡخِلَ
+    arabic: لِّيُدۡخِلَ
     translation: That Allah may admit
     transliteration: liyud'khila
   28:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: That Allah may admit
     transliteration: l-lahu
   29:
-    arabic: فِىۡ
+    arabic: فِي
     translation: to
     transliteration: fī
   30:
-    arabic: رَحۡمَتِهٖ
+    arabic: رَحۡمَتِهِۦ
     translation: His Mercy
     transliteration: raḥmatihi
   31:
-    arabic: مَنۡ
+    arabic: مَن
     translation: whom
     transliteration: man
   32:
-    arabic: يَّشَآءُ​ ۚ
+    arabic: يَشَآءُۚ
     translation: He wills
     transliteration: yashāu
   33:
@@ -145,7 +145,7 @@ word_by_word:
     translation: If
     transliteration: law
   34:
-    arabic: تَزَيَّلُوۡا
+    arabic: تَزَيَّلُواْ
     translation: they had been apart
     transliteration: tazayyalū
   35:
@@ -153,11 +153,11 @@ word_by_word:
     translation: surely, We would have punished
     transliteration: laʿadhabnā
   36:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   37:
-    arabic: كَفَرُوۡا
+    arabic: كَفَرُواْ
     translation: disbelieved
     transliteration: kafarū
   38:
@@ -169,7 +169,7 @@ word_by_word:
     translation: (with) a punishment
     transliteration: ʿadhāban
   40:
-    arabic: اَ لِيۡمًا‏
+    arabic: أَلِيمًا
     translation: painful
     transliteration: alīman
 ---

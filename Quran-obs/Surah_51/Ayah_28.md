@@ -1,11 +1,11 @@
 ---
-arabic_ayat: فَاَوۡجَسَ مِنۡهُمۡ خِيۡفَةً ​ؕ قَالُوۡا لَا تَخَفۡ​ ؕ وَبَشَّرُوۡهُ
-  بِغُلٰمٍ عَلِيۡمٍ‏
+arabic_ayat: فَأَوۡجَسَ مِنۡهُمۡ خِيفَةٗۖ قَالُواْ لَا تَخَفۡۖ وَبَشَّرُوهُ بِغُلَٰمٍ
+  عَلِيمٖ
 sentence_translation: ˹They did not eat,˺ so he grew fearful of them. They reassured
   ˹him˺, “Do not be afraid,” and gave him good news of a knowledgeable son.
 word_by_word:
   1:
-    arabic: فَاَوۡجَسَ
+    arabic: فَأَوۡجَسَ
     translation: Then he felt
     transliteration: fa-awjasa
   2:
@@ -13,11 +13,11 @@ word_by_word:
     translation: from them
     transliteration: min'hum
   3:
-    arabic: خِيۡفَةً ​ؕ
+    arabic: خِيفَةٗۖ
     translation: a fear
     transliteration: khīfatan
   4:
-    arabic: قَالُوۡا
+    arabic: قَالُواْ
     translation: They said
     transliteration: qālū
   5:
@@ -25,19 +25,19 @@ word_by_word:
     translation: (Do) not
     transliteration: lā
   6:
-    arabic: تَخَفۡ​ ؕ
+    arabic: تَخَفۡۖ
     translation: fear
     transliteration: takhaf
   7:
-    arabic: وَبَشَّرُوۡهُ
+    arabic: وَبَشَّرُوهُ
     translation: and they gave him glad tidings
     transliteration: wabasharūhu
   8:
-    arabic: بِغُلٰمٍ
+    arabic: بِغُلَٰمٍ
     translation: of a son
     transliteration: bighulāmin
   9:
-    arabic: عَلِيۡمٍ‏
+    arabic: عَلِيمٖ
     translation: learned
     transliteration: ʿalīmin
 ---

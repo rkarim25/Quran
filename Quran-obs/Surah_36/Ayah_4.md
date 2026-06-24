@@ -1,17 +1,17 @@
 ---
-arabic_ayat: عَلٰى صِرَاطٍ مُّسۡتَقِيۡمٍؕ‏
+arabic_ayat: عَلَىٰ صِرَٰطٖ مُّسۡتَقِيمٖ
 sentence_translation: upon the Straight Path.
 word_by_word:
   1:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: 'On'
     transliteration: ʿalā
   2:
-    arabic: صِرَاطٍ
+    arabic: صِرَٰطٖ
     translation: a Path
     transliteration: ṣirāṭin
   3:
-    arabic: مُّسۡتَقِيۡمٍؕ‏
+    arabic: مُّسۡتَقِيمٖ
     translation: Straight
     transliteration: mus'taqīmin
 ---

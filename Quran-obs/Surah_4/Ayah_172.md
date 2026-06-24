@@ -1,37 +1,37 @@
 ---
-arabic_ayat: لَنۡ يَّسۡتَـنۡكِفَ الۡمَسِيۡحُ اَنۡ يَّكُوۡنَ عَبۡدًا لِّـلَّـهِ وَلَا
-  الۡمَلٰٓٮِٕكَةُ الۡمُقَرَّبُوۡنَ​ؕ وَمَنۡ يَّسۡتَـنۡكِفۡ عَنۡ عِبَادَ تِهٖ وَيَسۡتَكۡبِرۡ
-  فَسَيَحۡشُرُهُمۡ اِلَيۡهِ جَمِيۡعًا‏
+arabic_ayat: لَّن يَسۡتَنكِفَ ٱلۡمَسِيحُ أَن يَكُونَ عَبۡدٗا لِّلَّهِ وَلَا ٱلۡمَلَٰٓئِكَةُ
+  ٱلۡمُقَرَّبُونَۚ وَمَن يَسۡتَنكِفۡ عَنۡ عِبَادَتِهِۦ وَيَسۡتَكۡبِرۡ فَسَيَحۡشُرُهُمۡ
+  إِلَيۡهِ جَمِيعٗا
 sentence_translation: The Messiah would never be too proud to be a servant of Allah,
   nor would the angels nearest to Allah. Those who are too proud and arrogant to worship
   Him will be brought before Him all together.
 word_by_word:
   1:
-    arabic: لَنۡ
+    arabic: لَّن
     translation: Never
     transliteration: lan
   2:
-    arabic: يَّسۡتَـنۡكِفَ
+    arabic: يَسۡتَنكِفَ
     translation: will disdain
     transliteration: yastankifa
   3:
-    arabic: الۡمَسِيۡحُ
+    arabic: ٱلۡمَسِيحُ
     translation: the Messiah
     transliteration: l-masīḥu
   4:
-    arabic: اَنۡ
+    arabic: أَن
     translation: to
     transliteration: an
   5:
-    arabic: يَّكُوۡنَ
+    arabic: يَكُونَ
     translation: be
     transliteration: yakūna
   6:
-    arabic: عَبۡدًا
+    arabic: عَبۡدٗا
     translation: a slave
     transliteration: ʿabdan
   7:
-    arabic: لِّـلَّـهِ
+    arabic: لِّلَّهِ
     translation: of Allah
     transliteration: lillahi
   8:
@@ -39,19 +39,19 @@ word_by_word:
     translation: and not
     transliteration: walā
   9:
-    arabic: الۡمَلٰٓٮِٕكَةُ
+    arabic: ٱلۡمَلَٰٓئِكَةُ
     translation: the Angels
     transliteration: l-malāikatu
   10:
-    arabic: الۡمُقَرَّبُوۡنَ​ؕ
+    arabic: ٱلۡمُقَرَّبُونَۚ
     translation: the ones who are near (to Allah)
     transliteration: l-muqarabūna
   11:
-    arabic: وَمَنۡ
+    arabic: وَمَن
     translation: And whoever
     transliteration: waman
   12:
-    arabic: يَّسۡتَـنۡكِفۡ
+    arabic: يَسۡتَنكِفۡ
     translation: disdains
     transliteration: yastankif
   13:
@@ -59,7 +59,7 @@ word_by_word:
     translation: from
     transliteration: ʿan
   14:
-    arabic: عِبَادَ تِهٖ
+    arabic: عِبَادَتِهِۦ
     translation: His worship
     transliteration: ʿibādatihi
   15:
@@ -71,11 +71,11 @@ word_by_word:
     translation: then He will gather them
     transliteration: fasayaḥshuruhum
   17:
-    arabic: اِلَيۡهِ
+    arabic: إِلَيۡهِ
     translation: towards Him
     transliteration: ilayhi
   18:
-    arabic: جَمِيۡعًا‏
+    arabic: جَمِيعٗا
     translation: all together
     transliteration: jamīʿan
 ---

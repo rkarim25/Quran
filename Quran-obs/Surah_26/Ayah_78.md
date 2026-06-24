@@ -1,13 +1,13 @@
 ---
-arabic_ayat: الَّذِىۡ خَلَقَنِىۡ فَهُوَ يَهۡدِيۡنِۙ‏
+arabic_ayat: ٱلَّذِي خَلَقَنِي فَهُوَ يَهۡدِينِ
 sentence_translation: ˹He is˺ the One Who created me, and He ˹alone˺ guides me.
 word_by_word:
   1:
-    arabic: الَّذِىۡ
+    arabic: ٱلَّذِي
     translation: The One Who
     transliteration: alladhī
   2:
-    arabic: خَلَقَنِىۡ
+    arabic: خَلَقَنِي
     translation: created me
     transliteration: khalaqanī
   3:
@@ -15,7 +15,7 @@ word_by_word:
     translation: and He
     transliteration: fahuwa
   4:
-    arabic: يَهۡدِيۡنِۙ‏
+    arabic: يَهۡدِينِ
     translation: guides me
     transliteration: yahdīni
 ---

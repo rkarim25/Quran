@@ -1,13 +1,13 @@
 ---
-arabic_ayat: يَفۡقَهُوۡا قَوۡلِیْ ‏
+arabic_ayat: يَفۡقَهُواْ قَوۡلِي
 sentence_translation: so people may understand my speech,
 word_by_word:
   1:
-    arabic: يَفۡقَهُوۡا
+    arabic: يَفۡقَهُواْ
     translation: That they may understand
     transliteration: yafqahū
   2:
-    arabic: قَوۡلِیْ ‏
+    arabic: قَوۡلِي
     translation: my speech
     transliteration: qawlī
 ---

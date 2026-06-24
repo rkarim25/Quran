@@ -1,43 +1,43 @@
 ---
-arabic_ayat: وَالَّذِيۡنَ كَفَرُوۡا وَكَذَّبُوۡا بِاٰيٰتِنَاۤ اُولٰٓٮِٕكَ اَصۡحٰبُ
-  النَّارِ خٰلِدِيۡنَ فِيۡهَا​ ؕ وَبِئۡسَ الۡمَصِيۡرُ‏
+arabic_ayat: وَٱلَّذِينَ كَفَرُواْ وَكَذَّبُواْ بِـَٔايَٰتِنَآ أُوْلَٰٓئِكَ أَصۡحَٰبُ
+  ٱلنَّارِ خَٰلِدِينَ فِيهَاۖ وَبِئۡسَ ٱلۡمَصِيرُ
 sentence_translation: As for those who disbelieve and reject Our revelations, they
   will be the residents of the Fire, staying there forever. What an evil destination!
 word_by_word:
   1:
-    arabic: وَالَّذِيۡنَ
+    arabic: وَٱلَّذِينَ
     translation: But those who
     transliteration: wa-alladhīna
   2:
-    arabic: كَفَرُوۡا
+    arabic: كَفَرُواْ
     translation: disbelieved
     transliteration: kafarū
   3:
-    arabic: وَكَذَّبُوۡا
+    arabic: وَكَذَّبُواْ
     translation: and denied
     transliteration: wakadhabū
   4:
-    arabic: بِاٰيٰتِنَاۤ
+    arabic: بِـَٔايَٰتِنَآ
     translation: '[in] Our Verses'
     transliteration: biāyātinā
   5:
-    arabic: اُولٰٓٮِٕكَ
+    arabic: أُوْلَٰٓئِكَ
     translation: those
     transliteration: ulāika
   6:
-    arabic: اَصۡحٰبُ
+    arabic: أَصۡحَٰبُ
     translation: (are the) companions
     transliteration: aṣḥābu
   7:
-    arabic: النَّارِ
+    arabic: ٱلنَّارِ
     translation: (of) the Fire
     transliteration: l-nāri
   8:
-    arabic: خٰلِدِيۡنَ
+    arabic: خَٰلِدِينَ
     translation: abiding forever
     transliteration: khālidīna
   9:
-    arabic: فِيۡهَا​ ؕ
+    arabic: فِيهَاۖ
     translation: therein
     transliteration: fīhā
   10:
@@ -45,7 +45,7 @@ word_by_word:
     translation: And wretched is
     transliteration: wabi'sa
   11:
-    arabic: الۡمَصِيۡرُ‏
+    arabic: ٱلۡمَصِيرُ
     translation: the destination
     transliteration: l-maṣīru
 ---

@@ -1,26 +1,26 @@
 ---
-arabic_ayat: كَذٰلِكَ نَسۡلُكُهٗ فِىۡ قُلُوۡبِ الۡمُجۡرِمِيۡنَۙ‏
+arabic_ayat: كَذَٰلِكَ نَسۡلُكُهُۥ فِي قُلُوبِ ٱلۡمُجۡرِمِينَ
 sentence_translation: This is how We allow disbelief ˹to steep˺ into the hearts of
   the wicked.
 word_by_word:
   1:
-    arabic: كَذٰلِكَ
+    arabic: كَذَٰلِكَ
     translation: Thus
     transliteration: kadhālika
   2:
-    arabic: نَسۡلُكُهٗ
+    arabic: نَسۡلُكُهُۥ
     translation: We let it enter
     transliteration: naslukuhu
   3:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   4:
-    arabic: قُلُوۡبِ
+    arabic: قُلُوبِ
     translation: (the) hearts
     transliteration: qulūbi
   5:
-    arabic: الۡمُجۡرِمِيۡنَۙ‏
+    arabic: ٱلۡمُجۡرِمِينَ
     translation: (of) the criminals
     transliteration: l-muj'rimīna
 ---

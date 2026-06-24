@@ -1,5 +1,5 @@
 ---
-arabic_ayat: ثُمَّ نَظَرَۙ‏
+arabic_ayat: ثُمَّ نَظَرَ
 sentence_translation: Then he re-contemplated ˹in frustration˺,
 word_by_word:
   1:
@@ -7,7 +7,7 @@ word_by_word:
     translation: Then
     transliteration: thumma
   2:
-    arabic: نَظَرَۙ‏
+    arabic: نَظَرَ
     translation: he looked
     transliteration: naẓara
 ---

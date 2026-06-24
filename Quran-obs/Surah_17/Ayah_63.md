@@ -1,6 +1,6 @@
 ---
-arabic_ayat: قَالَ اذۡهَبۡ فَمَنۡ تَبِعَكَ مِنۡهُمۡ فَاِنَّ جَهَـنَّمَ جَزَآؤُكُمۡ
-  جَزَآءً مَّوۡفُوۡرًا‏
+arabic_ayat: قَالَ ٱذۡهَبۡ فَمَن تَبِعَكَ مِنۡهُمۡ فَإِنَّ جَهَنَّمَ جَزَآؤُكُمۡ
+  جَزَآءٗ مَّوۡفُورٗا
 sentence_translation: Allah responded, “Be gone! Whoever of them follows you, Hell
   will surely be the reward for all of you—an ample reward.
 word_by_word:
@@ -9,11 +9,11 @@ word_by_word:
     translation: He said
     transliteration: qāla
   2:
-    arabic: اذۡهَبۡ
+    arabic: ٱذۡهَبۡ
     translation: Go
     transliteration: idh'hab
   3:
-    arabic: فَمَنۡ
+    arabic: فَمَن
     translation: and whoever
     transliteration: faman
   4:
@@ -25,11 +25,11 @@ word_by_word:
     translation: among them
     transliteration: min'hum
   6:
-    arabic: فَاِنَّ
+    arabic: فَإِنَّ
     translation: then indeed
     transliteration: fa-inna
   7:
-    arabic: جَهَـنَّمَ
+    arabic: جَهَنَّمَ
     translation: Hell
     transliteration: jahannama
   8:
@@ -37,11 +37,11 @@ word_by_word:
     translation: '(is) your recompense '
     transliteration: jazāukum
   9:
-    arabic: جَزَآءً
+    arabic: جَزَآءٗ
     translation: a recompense
     transliteration: jazāan
   10:
-    arabic: مَّوۡفُوۡرًا‏
+    arabic: مَّوۡفُورٗا
     translation: ample
     transliteration: mawfūran
 ---

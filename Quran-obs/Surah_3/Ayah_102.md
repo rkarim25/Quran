@@ -1,27 +1,27 @@
 ---
-arabic_ayat: يٰۤـاَيُّهَا الَّذِيۡنَ اٰمَنُوۡا اتَّقُوا اللّٰهَ حَقَّ تُقٰتِهٖ وَلَا
-  تَمُوۡتُنَّ اِلَّا وَاَنۡـتُمۡ مُّسۡلِمُوۡنَ‏
+arabic_ayat: يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُواْ ٱتَّقُواْ ٱللَّهَ حَقَّ تُقَاتِهِۦ
+  وَلَا تَمُوتُنَّ إِلَّا وَأَنتُم مُّسۡلِمُونَ
 sentence_translation: O believers! Be mindful of Allah in the way He deserves, and
   do not die except in ˹a state of full˺ submission ˹to Him˺.
 word_by_word:
   1:
-    arabic: يٰۤـاَيُّهَا
+    arabic: يَٰٓأَيُّهَا
     translation: O you
     transliteration: yāayyuhā
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ ءَ
     translation: who
     transliteration: alladhīna
   3:
-    arabic: اٰمَنُوۡا
+    arabic: امَنُواْ
     translation: believe[d]
     transliteration: āmanū
   4:
-    arabic: اتَّقُوا
+    arabic: ٱتَّقُواْ
     translation: Fear
     transliteration: ittaqū
   5:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   6:
@@ -29,7 +29,7 @@ word_by_word:
     translation: (as is His) right
     transliteration: ḥaqqa
   7:
-    arabic: تُقٰتِهٖ
+    arabic: تُقَاتِهِۦ
     translation: (that) He (should) be feared
     transliteration: tuqātihi
   8:
@@ -37,19 +37,19 @@ word_by_word:
     translation: and (do) not
     transliteration: walā
   9:
-    arabic: تَمُوۡتُنَّ
+    arabic: تَمُوتُنَّ
     translation: die
     transliteration: tamūtunna
   10:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   11:
-    arabic: وَاَنۡـتُمۡ
+    arabic: وَأَنتُم
     translation: '[while you]'
     transliteration: wa-antum
   12:
-    arabic: مُّسۡلِمُوۡنَ‏
+    arabic: مُّسۡلِمُونَ
     translation: (as) Muslims
     transliteration: mus'limūna
 ---

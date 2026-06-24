@@ -1,10 +1,10 @@
 ---
-arabic_ayat: وَوَصَّيۡنَا الۡاِنۡسَانَ بِوَالِدَيۡهِ اِحۡسَانًا​ ؕ حَمَلَـتۡهُ اُمُّهٗ
-  كُرۡهًا وَّوَضَعَتۡهُ كُرۡهًا​ ؕ وَحَمۡلُهٗ وَفِصٰلُهٗ ثَلٰـثُوۡنَ شَهۡرًا​ ؕ حَتّٰٓى
-  اِذَا بَلَغَ اَشُدَّهٗ وَبَلَغَ اَرۡبَعِيۡنَ سَنَةً  ۙ قَالَ رَبِّ اَوۡزِعۡنِىۡۤ
-  اَنۡ اَشۡكُرَ نِعۡمَتَكَ الَّتِىۡۤ اَنۡعَمۡتَ عَلَىَّ وَعَلٰى وَالِدَىَّ وَاَنۡ
-  اَعۡمَلَ صَالِحًا تَرۡضٰٮهُ وَاَصۡلِحۡ لِىۡ فِىۡ ذُرِّيَّتِىۡ ؕۚ اِنِّىۡ تُبۡتُ
-  اِلَيۡكَ وَاِنِّىۡ مِنَ الۡمُسۡلِمِيۡنَ‏
+arabic_ayat: وَوَصَّيۡنَا ٱلۡإِنسَٰنَ بِوَٰلِدَيۡهِ إِحۡسَٰنًاۖ حَمَلَتۡهُ أُمُّهُۥ
+  كُرۡهٗا وَوَضَعَتۡهُ كُرۡهٗاۖ وَحَمۡلُهُۥ وَفِصَٰلُهُۥ ثَلَٰثُونَ شَهۡرًاۚ حَتَّىٰٓ
+  إِذَا بَلَغَ أَشُدَّهُۥ وَبَلَغَ أَرۡبَعِينَ سَنَةٗ قَالَ رَبِّ أَوۡزِعۡنِيٓ أَنۡ
+  أَشۡكُرَ نِعۡمَتَكَ ٱلَّتِيٓ أَنۡعَمۡتَ عَلَيَّ وَعَلَىٰ وَٰلِدَيَّ وَأَنۡ أَعۡمَلَ
+  صَٰلِحٗا تَرۡضَىٰهُ وَأَصۡلِحۡ لِي فِي ذُرِّيَّتِيٓۖ إِنِّي تُبۡتُ إِلَيۡكَ وَإِنِّي
+  مِنَ ٱلۡمُسۡلِمِينَ
 sentence_translation: We have commanded people to honour their parents. Their mothers
   bore them in hardship and delivered them in hardship. Their ˹period of˺ bearing
   and weaning is thirty months. In time, when the child reaches their prime at the
@@ -18,59 +18,59 @@ word_by_word:
     translation: And We have enjoined
     transliteration: wawaṣṣaynā
   2:
-    arabic: الۡاِنۡسَانَ
+    arabic: ٱلۡإِنسَٰنَ
     translation: (on) man
     transliteration: l-insāna
   3:
-    arabic: بِوَالِدَيۡهِ
+    arabic: بِوَٰلِدَيۡهِ
     translation: to his parents
     transliteration: biwālidayhi
   4:
-    arabic: اِحۡسَانًا​ ؕ
+    arabic: إِحۡسَٰنًاۖ
     translation: kindness
     transliteration: iḥ'sānan
   5:
-    arabic: حَمَلَـتۡهُ
+    arabic: حَمَلَتۡهُ
     translation: Carried him
     transliteration: ḥamalathu
   6:
-    arabic: اُمُّهٗ
+    arabic: أُمُّهُۥ
     translation: his mother
     transliteration: ummuhu
   7:
-    arabic: كُرۡهًا
+    arabic: كُرۡهٗا
     translation: (with) hardship
     transliteration: kur'han
   8:
-    arabic: وَّوَضَعَتۡهُ
+    arabic: وَوَضَعَتۡهُ
     translation: and gave birth to him
     transliteration: wawaḍaʿathu
   9:
-    arabic: كُرۡهًا​ ؕ
+    arabic: كُرۡهٗاۖ
     translation: (with) hardship
     transliteration: kur'han
   10:
-    arabic: وَحَمۡلُهٗ
+    arabic: وَحَمۡلُهُۥ
     translation: And (the) bearing of him
     transliteration: waḥamluhu
   11:
-    arabic: وَفِصٰلُهٗ
+    arabic: وَفِصَٰلُهُۥ
     translation: and (the) weaning of him
     transliteration: wafiṣāluhu
   12:
-    arabic: ثَلٰـثُوۡنَ
+    arabic: ثَلَٰثُونَ
     translation: (is) thirty
     transliteration: thalāthūna
   13:
-    arabic: شَهۡرًا​ ؕ
+    arabic: شَهۡرًاۚ
     translation: month(s)
     transliteration: shahran
   14:
-    arabic: حَتّٰٓى
+    arabic: حَتَّىٰٓ
     translation: until
     transliteration: ḥattā
   15:
-    arabic: اِذَا
+    arabic: إِذَا
     translation: when
     transliteration: idhā
   16:
@@ -78,7 +78,7 @@ word_by_word:
     translation: he reaches
     transliteration: balagha
   17:
-    arabic: اَشُدَّهٗ
+    arabic: أَشُدَّهُۥ
     translation: his maturity
     transliteration: ashuddahu
   18:
@@ -86,11 +86,11 @@ word_by_word:
     translation: and reaches
     transliteration: wabalagha
   19:
-    arabic: اَرۡبَعِيۡنَ
+    arabic: أَرۡبَعِينَ
     translation: forty
     transliteration: arbaʿīna
   20:
-    arabic: سَنَةً  ۙ
+    arabic: سَنَةٗ
     translation: year(s)
     transliteration: sanatan
   21:
@@ -102,15 +102,15 @@ word_by_word:
     translation: My Lord
     transliteration: rabbi
   23:
-    arabic: اَوۡزِعۡنِىۡۤ
+    arabic: أَوۡزِعۡنِيٓ
     translation: grant me (the) power
     transliteration: awziʿ'nī
   24:
-    arabic: اَنۡ
+    arabic: أَنۡ
     translation: that
     transliteration: an
   25:
-    arabic: اَشۡكُرَ
+    arabic: أَشۡكُرَ
     translation: I may be grateful
     transliteration: ashkura
   26:
@@ -118,59 +118,59 @@ word_by_word:
     translation: (for) Your favor
     transliteration: niʿ'mataka
   27:
-    arabic: الَّتِىۡۤ
+    arabic: ٱلَّتِيٓ
     translation: which
     transliteration: allatī
   28:
-    arabic: اَنۡعَمۡتَ
+    arabic: أَنۡعَمۡتَ
     translation: You have bestowed
     transliteration: anʿamta
   29:
-    arabic: عَلَىَّ
+    arabic: عَلَيَّ
     translation: upon me
     transliteration: ʿalayya
   30:
-    arabic: وَعَلٰى
+    arabic: وَعَلَىٰ
     translation: and upon
     transliteration: waʿalā
   31:
-    arabic: وَالِدَىَّ
+    arabic: وَٰلِدَيَّ
     translation: my parents
     transliteration: wālidayya
   32:
-    arabic: وَاَنۡ
+    arabic: وَأَنۡ
     translation: and that
     transliteration: wa-an
   33:
-    arabic: اَعۡمَلَ
+    arabic: أَعۡمَلَ
     translation: I do
     transliteration: aʿmala
   34:
-    arabic: صَالِحًا
+    arabic: صَٰلِحٗا
     translation: righteous (deeds)
     transliteration: ṣāliḥan
   35:
-    arabic: تَرۡضٰٮهُ
+    arabic: تَرۡضَىٰهُ
     translation: which please You
     transliteration: tarḍāhu
   36:
-    arabic: وَاَصۡلِحۡ
+    arabic: وَأَصۡلِحۡ
     translation: and make righteous
     transliteration: wa-aṣliḥ
   37:
-    arabic: لِىۡ
+    arabic: لِي
     translation: for me
     transliteration: lī
   38:
-    arabic: فِىۡ
+    arabic: فِي
     translation: among
     transliteration: fī
   39:
-    arabic: ذُرِّيَّتِىۡ ؕۚ
+    arabic: ذُرِّيَّتِيٓۖ
     translation: my offspring
     transliteration: dhurriyyatī
   40:
-    arabic: اِنِّىۡ
+    arabic: إِنِّي
     translation: indeed
     transliteration: innī
   41:
@@ -178,11 +178,11 @@ word_by_word:
     translation: I turn
     transliteration: tub'tu
   42:
-    arabic: اِلَيۡكَ
+    arabic: إِلَيۡكَ
     translation: to You
     transliteration: ilayka
   43:
-    arabic: وَاِنِّىۡ
+    arabic: وَإِنِّي
     translation: and indeed, I am
     transliteration: wa-innī
   44:
@@ -190,7 +190,7 @@ word_by_word:
     translation: of
     transliteration: mina
   45:
-    arabic: الۡمُسۡلِمِيۡنَ‏
+    arabic: ٱلۡمُسۡلِمِينَ
     translation: those who submit
     transliteration: l-mus'limīna
 ---

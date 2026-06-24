@@ -1,25 +1,25 @@
 ---
-arabic_ayat: فَاَرَادُوۡا بِهٖ كَيۡدًا فَجَعَلۡنٰهُمُ الۡاَسۡفَلِيۡنَ‏
+arabic_ayat: فَأَرَادُواْ بِهِۦ كَيۡدٗا فَجَعَلۡنَٰهُمُ ٱلۡأَسۡفَلِينَ
 sentence_translation: And so they sought to harm him, but We made them inferior.
 word_by_word:
   1:
-    arabic: فَاَرَادُوۡا
+    arabic: فَأَرَادُواْ
     translation: And they intended
     transliteration: fa-arādū
   2:
-    arabic: بِهٖ
+    arabic: بِهِۦ
     translation: for him
     transliteration: bihi
   3:
-    arabic: كَيۡدًا
+    arabic: كَيۡدٗا
     translation: a plot
     transliteration: kaydan
   4:
-    arabic: فَجَعَلۡنٰهُمُ
+    arabic: فَجَعَلۡنَٰهُمُ
     translation: but We made them
     transliteration: fajaʿalnāhumu
   5:
-    arabic: الۡاَسۡفَلِيۡنَ‏
+    arabic: ٱلۡأَسۡفَلِينَ
     translation: the lowest
     transliteration: l-asfalīna
 ---

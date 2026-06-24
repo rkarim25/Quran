@@ -1,15 +1,15 @@
 ---
-arabic_ayat: وَقَالُـوۡٓا ءَاٰلِهَتُنَا خَيۡرٌ اَمۡ هُوَ​ؕ مَا ضَرَبُوۡهُ لَكَ اِلَّا
-  جَدَلًا ؕ بَلۡ هُمۡ قَوۡمٌ خَصِمُوۡنَ‏
+arabic_ayat: وَقَالُوٓاْ ءَأَٰلِهَتُنَا خَيۡرٌ أَمۡ هُوَۚ مَا ضَرَبُوهُ لَكَ إِلَّا
+  جَدَلَۢاۚ بَلۡ هُمۡ قَوۡمٌ خَصِمُونَ
 sentence_translation: 'They exclaimed, “Which is better: our gods or Jesus?” They
   cite him only to argue. In fact, they are a people prone to dispute.'
 word_by_word:
   1:
-    arabic: وَقَالُـوۡٓا
+    arabic: وَقَالُوٓاْ
     translation: And they said
     transliteration: waqālū
   2:
-    arabic: ءَاٰلِهَتُنَا
+    arabic: ءَأَٰلِهَتُنَا
     translation: Are our gods
     transliteration: aālihatunā
   3:
@@ -17,11 +17,11 @@ word_by_word:
     translation: better
     transliteration: khayrun
   4:
-    arabic: اَمۡ
+    arabic: أَمۡ
     translation: or
     transliteration: am
   5:
-    arabic: هُوَ​ؕ
+    arabic: هُوَۚ
     translation: he
     transliteration: huwa
   6:
@@ -29,7 +29,7 @@ word_by_word:
     translation: Not
     transliteration: mā
   7:
-    arabic: ضَرَبُوۡهُ
+    arabic: ضَرَبُوهُ
     translation: they present it
     transliteration: ḍarabūhu
   8:
@@ -37,11 +37,11 @@ word_by_word:
     translation: to you
     transliteration: laka
   9:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   10:
-    arabic: جَدَلًا ؕ
+    arabic: جَدَلَۢاۚ
     translation: (for) argument
     transliteration: jadalan
   11:
@@ -57,7 +57,7 @@ word_by_word:
     translation: (are) a people
     transliteration: qawmun
   14:
-    arabic: خَصِمُوۡنَ‏
+    arabic: خَصِمُونَ
     translation: argumentative
     transliteration: khaṣimūna
 ---

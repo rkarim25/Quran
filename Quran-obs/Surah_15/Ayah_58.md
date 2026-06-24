@@ -1,29 +1,29 @@
 ---
-arabic_ayat: قَالُـوۡۤا اِنَّاۤ اُرۡسِلۡنَاۤ اِلٰى قَوۡمٍ مُّجۡرِمِيۡنَۙ‏
+arabic_ayat: قَالُوٓاْ إِنَّآ أُرۡسِلۡنَآ إِلَىٰ قَوۡمٖ مُّجۡرِمِينَ
 sentence_translation: They replied, “We have actually been sent to a wicked people.
 word_by_word:
   1:
-    arabic: قَالُـوۡۤا
+    arabic: قَالُوٓاْ
     translation: They said
     transliteration: qālū
   2:
-    arabic: اِنَّاۤ
+    arabic: إِنَّآ
     translation: Indeed, we
     transliteration: innā
   3:
-    arabic: اُرۡسِلۡنَاۤ
+    arabic: أُرۡسِلۡنَآ
     translation: '[we] have been sent'
     transliteration: ur'sil'nā
   4:
-    arabic: اِلٰى
+    arabic: إِلَىٰ
     translation: to
     transliteration: ilā
   5:
-    arabic: قَوۡمٍ
+    arabic: قَوۡمٖ
     translation: 'a people '
     transliteration: qawmin
   6:
-    arabic: مُّجۡرِمِيۡنَۙ‏
+    arabic: مُّجۡرِمِينَ
     translation: criminals
     transliteration: muj'rimīna
 ---

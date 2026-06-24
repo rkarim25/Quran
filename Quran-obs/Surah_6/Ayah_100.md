@@ -1,16 +1,16 @@
 ---
-arabic_ayat: وَجَعَلُوۡا لِلّٰهِ شُرَكَآءَ الۡجِنَّ وَخَلَقَهُمۡ​ وَخَرَقُوۡا لَهٗ
-  بَنِيۡنَ وَبَنٰتٍۢ بِغَيۡرِ عِلۡمٍ​ؕ سُبۡحٰنَهٗ وَتَعٰلٰى عَمَّا يَصِفُوۡنَ‏
+arabic_ayat: وَجَعَلُواْ لِلَّهِ شُرَكَآءَ ٱلۡجِنَّ وَخَلَقَهُمۡۖ وَخَرَقُواْ لَهُۥ
+  بَنِينَ وَبَنَٰتِۭ بِغَيۡرِ عِلۡمٖۚ سُبۡحَٰنَهُۥ وَتَعَٰلَىٰ عَمَّا يَصِفُونَ
 sentence_translation: Yet they associate the jinn with Allah ˹in worship˺, even though
   He created them, and they falsely attribute to Him sons and daughters out of ignorance.
   Glorified and Exalted is He above what they claim!
 word_by_word:
   1:
-    arabic: وَجَعَلُوۡا
+    arabic: وَجَعَلُواْ
     translation: And they make
     transliteration: wajaʿalū
   2:
-    arabic: لِلّٰهِ
+    arabic: لِلَّهِ
     translation: with Allah
     transliteration: lillahi
   3:
@@ -18,27 +18,27 @@ word_by_word:
     translation: 'partners '
     transliteration: shurakāa
   4:
-    arabic: الۡجِنَّ
+    arabic: ٱلۡجِنَّ
     translation: jinn
     transliteration: l-jina
   5:
-    arabic: وَخَلَقَهُمۡ​
+    arabic: وَخَلَقَهُمۡۖ
     translation: though He has created them
     transliteration: wakhalaqahum
   6:
-    arabic: وَخَرَقُوۡا
+    arabic: وَخَرَقُواْ
     translation: and they falsely attribute
     transliteration: wakharaqū
   7:
-    arabic: لَهٗ
+    arabic: لَهُۥ
     translation: to Him
     transliteration: lahu
   8:
-    arabic: بَنِيۡنَ
+    arabic: بَنِينَ
     translation: sons
     transliteration: banīna
   9:
-    arabic: وَبَنٰتٍۢ
+    arabic: وَبَنَٰتِۭ
     translation: and daughters
     transliteration: wabanātin
   10:
@@ -46,15 +46,15 @@ word_by_word:
     translation: without
     transliteration: bighayri
   11:
-    arabic: عِلۡمٍ​ؕ
+    arabic: عِلۡمٖۚ
     translation: knowledge
     transliteration: ʿil'min
   12:
-    arabic: سُبۡحٰنَهٗ
+    arabic: سُبۡحَٰنَهُۥ
     translation: Glorified is He
     transliteration: sub'ḥānahu
   13:
-    arabic: وَتَعٰلٰى
+    arabic: وَتَعَٰلَىٰ
     translation: and Exalted
     transliteration: wataʿālā
   14:
@@ -62,7 +62,7 @@ word_by_word:
     translation: above what
     transliteration: ʿammā
   15:
-    arabic: يَصِفُوۡنَ‏
+    arabic: يَصِفُونَ
     translation: they attribute
     transliteration: yaṣifūna
 ---

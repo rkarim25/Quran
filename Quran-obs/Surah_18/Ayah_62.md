@@ -1,6 +1,6 @@
 ---
-arabic_ayat: فَلَمَّا جَاوَزَا قَالَ لِفَتٰٮهُ اٰتِنَا غَدَآءَنَا لَقَدۡ لَقِيۡنَا
-  مِنۡ سَفَرِنَا هٰذَا نَصَبًا‏
+arabic_ayat: فَلَمَّا جَاوَزَا قَالَ لِفَتَىٰهُ ءَاتِنَا غَدَآءَنَا لَقَدۡ لَقِينَا
+  مِن سَفَرِنَا هَٰذَا نَصَبٗا
 sentence_translation: When they had passed further, he said to his assistant, “Bring
   us our meal! We have certainly been exhausted by today’s journey.”
 word_by_word:
@@ -17,15 +17,15 @@ word_by_word:
     translation: he said
     transliteration: qāla
   4:
-    arabic: لِفَتٰٮهُ
+    arabic: لِفَتَىٰهُ ءَ
     translation: to his boy
     transliteration: lifatāhu
   5:
-    arabic: اٰتِنَا
+    arabic: اتِنَا
     translation: Bring us
     transliteration: ātinā
   6:
-    arabic: غَدَآءَنَا
+    arabic: غَدَآءَنَا
     translation: our morning meal
     transliteration: ghadāanā
   7:
@@ -33,11 +33,11 @@ word_by_word:
     translation: Certainly
     transliteration: laqad
   8:
-    arabic: لَقِيۡنَا
+    arabic: لَقِينَا
     translation: we have suffered
     transliteration: laqīnā
   9:
-    arabic: مِنۡ
+    arabic: مِن
     translation: in
     transliteration: min
   10:
@@ -45,11 +45,11 @@ word_by_word:
     translation: our journey
     transliteration: safarinā
   11:
-    arabic: هٰذَا
+    arabic: هَٰذَا
     translation: this
     transliteration: hādhā
   12:
-    arabic: نَصَبًا‏
+    arabic: نَصَبٗا
     translation: fatigue
     transliteration: naṣaban
 ---

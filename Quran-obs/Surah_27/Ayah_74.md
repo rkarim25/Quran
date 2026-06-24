@@ -1,10 +1,10 @@
 ---
-arabic_ayat: وَاِنَّ رَبَّكَ لَيَـعۡلَمُ مَا تُكِنُّ صُدُوۡرُهُمۡ وَمَا يُعۡلِنُوۡنَ‏
+arabic_ayat: وَإِنَّ رَبَّكَ لَيَعۡلَمُ مَا تُكِنُّ صُدُورُهُمۡ وَمَا يُعۡلِنُونَ
 sentence_translation: And surely your Lord knows what their hearts conceal and what
   they reveal.
 word_by_word:
   1:
-    arabic: وَاِنَّ
+    arabic: وَإِنَّ
     translation: And indeed
     transliteration: wa-inna
   2:
@@ -12,7 +12,7 @@ word_by_word:
     translation: your Lord
     transliteration: rabbaka
   3:
-    arabic: لَيَـعۡلَمُ
+    arabic: لَيَعۡلَمُ
     translation: surely knows
     transliteration: layaʿlamu
   4:
@@ -24,7 +24,7 @@ word_by_word:
     translation: conceals
     transliteration: tukinnu
   6:
-    arabic: صُدُوۡرُهُمۡ
+    arabic: صُدُورُهُمۡ
     translation: their breasts
     transliteration: ṣudūruhum
   7:
@@ -32,7 +32,7 @@ word_by_word:
     translation: and what
     transliteration: wamā
   8:
-    arabic: يُعۡلِنُوۡنَ‏
+    arabic: يُعۡلِنُونَ
     translation: they declare
     transliteration: yuʿ'linūna
 ---

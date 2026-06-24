@@ -1,6 +1,6 @@
 ---
-arabic_ayat: قُلۡ اُوۡحِىَ اِلَىَّ اَنَّهُ اسۡتَمَعَ نَفَرٌ مِّنَ الۡجِنِّ فَقَالُوۡۤا
-  اِنَّا سَمِعۡنَا قُرۡاٰنًاعَجَبًا ۙ‏
+arabic_ayat: قُلۡ أُوحِيَ إِلَيَّ أَنَّهُ ٱسۡتَمَعَ نَفَرٞ مِّنَ ٱلۡجِنِّ فَقَالُوٓاْ
+  إِنَّا سَمِعۡنَا قُرۡءَانًا عَجَبٗا
 sentence_translation: 'Say, ˹O Prophet,˺ “It has been revealed to me that a group
   of jinn listened ˹to the Quran,˺ and said ˹to their fellow jinn˺: ‘Indeed, we have
   heard a wondrous recitation.'
@@ -10,23 +10,23 @@ word_by_word:
     translation: Say
     transliteration: qul
   2:
-    arabic: اُوۡحِىَ
+    arabic: أُوحِيَ
     translation: It has been revealed
     transliteration: ūḥiya
   3:
-    arabic: اِلَىَّ
+    arabic: إِلَيَّ
     translation: to me
     transliteration: ilayya
   4:
-    arabic: اَنَّهُ
+    arabic: أَنَّهُ
     translation: that
     transliteration: annahu
   5:
-    arabic: اسۡتَمَعَ
+    arabic: ٱسۡتَمَعَ
     translation: listened
     transliteration: is'tamaʿa
   6:
-    arabic: نَفَرٌ
+    arabic: نَفَرٞ
     translation: a group
     transliteration: nafarun
   7:
@@ -34,15 +34,15 @@ word_by_word:
     translation: of
     transliteration: mina
   8:
-    arabic: الۡجِنِّ
+    arabic: ٱلۡجِنِّ
     translation: the jinn
     transliteration: l-jini
   9:
-    arabic: فَقَالُوۡۤا
+    arabic: فَقَالُوٓاْ
     translation: and they said
     transliteration: faqālū
   10:
-    arabic: اِنَّا
+    arabic: إِنَّا
     translation: Indeed, we
     transliteration: innā
   11:
@@ -50,11 +50,11 @@ word_by_word:
     translation: heard
     transliteration: samiʿ'nā
   12:
-    arabic: قُرۡاٰنًا
+    arabic: قُرۡءَانًا
     translation: a Quran
     transliteration: qur'ānan
   13:
-    arabic: عَجَبًا ۙ
+    arabic: عَجَبٗا
     translation: amazing
     transliteration: ʿajaban
 ---

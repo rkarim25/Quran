@@ -1,53 +1,53 @@
 ---
-arabic_ayat: يٰۤاَيُّهَا الَّذِيۡنَ اٰمَنُوۡۤا اِذَا نُوۡدِىَ لِلصَّلٰوةِ مِنۡ يَّوۡمِ
-  الۡجُمُعَةِ فَاسۡعَوۡا اِلٰى ذِكۡرِ اللّٰهِ وَذَرُوا الۡبَيۡعَ​ ؕ ذٰ لِكُمۡ خَيۡرٌ
-  لَّـكُمۡ اِنۡ كُنۡتُمۡ تَعۡلَمُوۡنَ‏
+arabic_ayat: يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓاْ إِذَا نُودِيَ لِلصَّلَوٰةِ مِن يَوۡمِ
+  ٱلۡجُمُعَةِ فَٱسۡعَوۡاْ إِلَىٰ ذِكۡرِ ٱللَّهِ وَذَرُواْ ٱلۡبَيۡعَۚ ذَٰلِكُمۡ خَيۡرٞ
+  لَّكُمۡ إِن كُنتُمۡ تَعۡلَمُونَ
 sentence_translation: O believers! When the call to prayer is made on Friday, then
   proceed ˹diligently˺ to the remembrance of Allah and leave off ˹your˺ business.
   That is best for you, if only you knew.
 word_by_word:
   1:
-    arabic: يٰۤاَيُّهَا
+    arabic: يَٰٓأَيُّهَا
     translation: O
     transliteration: yāayyuhā
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ ءَ
     translation: (you) who
     transliteration: alladhīna
   3:
-    arabic: اٰمَنُوۡۤا
+    arabic: امَنُوٓاْ
     translation: believe
     transliteration: āmanū
   4:
-    arabic: اِذَا
+    arabic: إِذَا
     translation: When
     transliteration: idhā
   5:
-    arabic: نُوۡدِىَ
+    arabic: نُودِيَ
     translation: (the) call is made
     transliteration: nūdiya
   6:
-    arabic: لِلصَّلٰوةِ
+    arabic: لِلصَّلَوٰةِ
     translation: for (the) prayer
     transliteration: lilṣṣalati
   7:
-    arabic: مِنۡ
+    arabic: مِن
     translation: 'on'
     transliteration: min
   8:
-    arabic: يَّوۡمِ
+    arabic: يَوۡمِ
     translation: (the) day
     transliteration: yawmi
   9:
-    arabic: الۡجُمُعَةِ
+    arabic: ٱلۡجُمُعَةِ
     translation: (of) Friday
     transliteration: l-jumuʿati
   10:
-    arabic: فَاسۡعَوۡا
+    arabic: فَٱسۡعَوۡاْ
     translation: then hasten
     transliteration: fa-is'ʿaw
   11:
-    arabic: اِلٰى
+    arabic: إِلَىٰ
     translation: to
     transliteration: ilā
   12:
@@ -55,39 +55,39 @@ word_by_word:
     translation: (the) remembrance
     transliteration: dhik'ri
   13:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (of) Allah
     transliteration: l-lahi
   14:
-    arabic: وَذَرُوا
+    arabic: وَذَرُواْ
     translation: and leave
     transliteration: wadharū
   15:
-    arabic: الۡبَيۡعَ​ ؕ
+    arabic: ٱلۡبَيۡعَۚ
     translation: the business
     transliteration: l-bayʿa
   16:
-    arabic: ذٰ لِكُمۡ
+    arabic: ذَٰلِكُمۡ
     translation: That
     transliteration: dhālikum
   17:
-    arabic: خَيۡرٌ
+    arabic: خَيۡرٞ
     translation: (is) better
     transliteration: khayrun
   18:
-    arabic: لَّـكُمۡ
+    arabic: لَّكُمۡ
     translation: for you
     transliteration: lakum
   19:
-    arabic: اِنۡ
+    arabic: إِن
     translation: if
     transliteration: in
   20:
-    arabic: كُنۡتُمۡ
+    arabic: كُنتُمۡ
     translation: you
     transliteration: kuntum
   21:
-    arabic: تَعۡلَمُوۡنَ‏
+    arabic: تَعۡلَمُونَ
     translation: know
     transliteration: taʿlamūna
 ---

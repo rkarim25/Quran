@@ -1,21 +1,20 @@
 ---
-arabic_ayat: "يٰۤاَيُّهَا الَّذِيۡنَ اٰمَنُوۡا لَا تُلۡهِكُمۡ اَمۡوَالُكُمۡ وَلَاۤ\
-  \ اَوۡلَادُكُمۡ عَنۡ ذِكۡرِ اللّٰهِ​ۚ وَمَنۡ يَّفۡعَلۡ ذٰلِكَ فَاُولٰٓٮِٕكَ هُمُ\
-  \ الۡخٰسِرُوۡنَ‏ \uFEFF\uFEFF"
+arabic_ayat: يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُواْ لَا تُلۡهِكُمۡ أَمۡوَٰلُكُمۡ وَلَآ
+  أَوۡلَٰدُكُمۡ عَن ذِكۡرِ ٱللَّهِۚ وَمَن يَفۡعَلۡ ذَٰلِكَ فَأُوْلَٰٓئِكَ هُمُ ٱلۡخَٰسِرُونَ
 sentence_translation: O believers! Do not let your wealth or your children divert
   you from the remembrance of Allah. For whoever does so, it is they who are the ˹true˺
   losers.
 word_by_word:
   1:
-    arabic: يٰۤاَيُّهَا
+    arabic: يَٰٓأَيُّهَا
     translation: O
     transliteration: yāayyuhā
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ ءَ
     translation: you (who)
     transliteration: alladhīna
   3:
-    arabic: اٰمَنُوۡا
+    arabic: امَنُواْ
     translation: believe
     transliteration: āmanū
   4:
@@ -27,19 +26,19 @@ word_by_word:
     translation: divert you
     transliteration: tul'hikum
   6:
-    arabic: اَمۡوَالُكُمۡ
+    arabic: أَمۡوَٰلُكُمۡ
     translation: your wealth
     transliteration: amwālukum
   7:
-    arabic: وَلَاۤ
+    arabic: وَلَآ
     translation: and not
     transliteration: walā
   8:
-    arabic: اَوۡلَادُكُمۡ
+    arabic: أَوۡلَٰدُكُمۡ
     translation: your children
     transliteration: awlādukum
   9:
-    arabic: عَنۡ
+    arabic: عَن
     translation: from
     transliteration: ʿan
   10:
@@ -47,23 +46,23 @@ word_by_word:
     translation: (the) remembrance
     transliteration: dhik'ri
   11:
-    arabic: اللّٰهِ​ۚ
+    arabic: ٱللَّهِۚ
     translation: (of) Allah
     transliteration: l-lahi
   12:
-    arabic: وَمَنۡ
+    arabic: وَمَن
     translation: And whoever
     transliteration: waman
   13:
-    arabic: يَّفۡعَلۡ
+    arabic: يَفۡعَلۡ
     translation: does
     transliteration: yafʿal
   14:
-    arabic: ذٰلِكَ
+    arabic: ذَٰلِكَ
     translation: that
     transliteration: dhālika
   15:
-    arabic: فَاُولٰٓٮِٕكَ
+    arabic: فَأُوْلَٰٓئِكَ
     translation: then those
     transliteration: fa-ulāika
   16:
@@ -71,7 +70,7 @@ word_by_word:
     translation: '[they]'
     transliteration: humu
   17:
-    arabic: "الۡخٰسِرُوۡنَ‏ \uFEFF\uFEFF"
+    arabic: ٱلۡخَٰسِرُونَ
     translation: (are) the losers
     transliteration: l-khāsirūna
 ---

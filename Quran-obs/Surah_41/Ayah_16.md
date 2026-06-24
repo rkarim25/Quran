@@ -1,13 +1,13 @@
 ---
-arabic_ayat: فَاَرۡسَلۡنَا عَلَيۡهِمۡ رِيۡحًا صَرۡصَرًا فِىۡۤ اَيَّامٍ نَّحِسَاتٍ
-  لِّـنُذِيۡقَهُمۡ عَذَابَ الۡخِزۡىِ فِى الۡحَيٰوةِ الدُّنۡيَا​ ؕ وَلَعَذَابُ الۡاٰخِرَةِ
-  اَخۡزٰى​ وَهُمۡ لَا يُنۡصَرُوۡنَ‏
+arabic_ayat: فَأَرۡسَلۡنَا عَلَيۡهِمۡ رِيحٗا صَرۡصَرٗا فِيٓ أَيَّامٖ نَّحِسَاتٖ لِّنُذِيقَهُمۡ
+  عَذَابَ ٱلۡخِزۡيِ فِي ٱلۡحَيَوٰةِ ٱلدُّنۡيَاۖ وَلَعَذَابُ ٱلۡأٓخِرَةِ أَخۡزَىٰۖ
+  وَهُمۡ لَا يُنصَرُونَ
 sentence_translation: So We sent against them a furious wind, for ˹several˺ miserable
   days, to make them taste a humiliating punishment in this worldly life. But far
   more humiliating will be the punishment of the Hereafter. And they will not be helped.
 word_by_word:
   1:
-    arabic: فَاَرۡسَلۡنَا
+    arabic: فَأَرۡسَلۡنَا
     translation: So We sent
     transliteration: fa-arsalnā
   2:
@@ -15,27 +15,27 @@ word_by_word:
     translation: upon them
     transliteration: ʿalayhim
   3:
-    arabic: رِيۡحًا
+    arabic: رِيحٗا
     translation: a wind
     transliteration: rīḥan
   4:
-    arabic: صَرۡصَرًا
+    arabic: صَرۡصَرٗا
     translation: furious
     transliteration: ṣarṣaran
   5:
-    arabic: فِىۡۤ
+    arabic: فِيٓ
     translation: in
     transliteration: fī
   6:
-    arabic: اَيَّامٍ
+    arabic: أَيَّامٖ
     translation: (the) days
     transliteration: ayyāmin
   7:
-    arabic: نَّحِسَاتٍ
+    arabic: نَّحِسَاتٖ
     translation: (of) misfortune
     transliteration: naḥisātin
   8:
-    arabic: لِّـنُذِيۡقَهُمۡ
+    arabic: لِّنُذِيقَهُمۡ
     translation: that We may make them taste
     transliteration: linudhīqahum
   9:
@@ -43,19 +43,19 @@ word_by_word:
     translation: (the) punishment
     transliteration: ʿadhāba
   10:
-    arabic: الۡخِزۡىِ
+    arabic: ٱلۡخِزۡيِ
     translation: (of) disgrace
     transliteration: l-khiz'yi
   11:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   12:
-    arabic: الۡحَيٰوةِ
+    arabic: ٱلۡحَيَوٰةِ
     translation: the life
     transliteration: l-ḥayati
   13:
-    arabic: الدُّنۡيَا​ ؕ
+    arabic: ٱلدُّنۡيَاۖ
     translation: (of) the world
     transliteration: l-dun'yā
   14:
@@ -63,11 +63,11 @@ word_by_word:
     translation: And surely, (the) punishment
     transliteration: walaʿadhābu
   15:
-    arabic: الۡاٰخِرَةِ
+    arabic: ٱلۡأٓخِرَةِ
     translation: (of) the Hereafter
     transliteration: l-ākhirati
   16:
-    arabic: اَخۡزٰى​
+    arabic: أَخۡزَىٰۖ
     translation: (is) more disgracing
     transliteration: akhzā
   17:
@@ -79,7 +79,7 @@ word_by_word:
     translation: will not be helped
     transliteration: lā
   19:
-    arabic: يُنۡصَرُوۡنَ‏
+    arabic: يُنصَرُونَ
     translation: will not be helped
     transliteration: yunṣarūna
 ---

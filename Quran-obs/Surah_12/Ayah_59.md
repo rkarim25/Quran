@@ -1,17 +1,16 @@
 ---
-arabic_ayat: "وَ لَمَّا جَهَّزَهُمۡ بِجَهَازِهِمۡ قَالَ ائۡتُوۡنِىۡ بِاَخٍ لَّكُمۡ\
-  \ مِّنۡ اَبِيۡكُمۡ​ۚ اَلَا تَرَوۡنَ اَنِّىۡۤ اُوۡفِی الۡكَيۡلَ وَاَنَا خَيۡرُ الۡمُنۡزِلِيۡنَ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: وَلَمَّا جَهَّزَهُم بِجَهَازِهِمۡ قَالَ ٱئۡتُونِي بِأَخٖ لَّكُم مِّنۡ
+  أَبِيكُمۡۚ أَلَا تَرَوۡنَ أَنِّيٓ أُوفِي ٱلۡكَيۡلَ وَأَنَا۠ خَيۡرُ ٱلۡمُنزِلِينَ
 sentence_translation: When he had provided them with their supplies, he demanded,
   “Bring me your brother on your father’s side. Do you not see that I give full measure
   and I am the best of hosts?
 word_by_word:
   1:
-    arabic: وَ لَمَّا
+    arabic: وَلَمَّا
     translation: And when
     transliteration: walammā
   2:
-    arabic: جَهَّزَهُمۡ
+    arabic: جَهَّزَهُم
     translation: he had furnished them
     transliteration: jahhazahum
   3:
@@ -23,15 +22,15 @@ word_by_word:
     translation: he said
     transliteration: qāla
   5:
-    arabic: ائۡتُوۡنِىۡ
+    arabic: ٱئۡتُونِي
     translation: Bring to me
     transliteration: i'tūnī
   6:
-    arabic: بِاَخٍ
+    arabic: بِأَخٖ
     translation: a brother
     transliteration: bi-akhin
   7:
-    arabic: لَّكُمۡ
+    arabic: لَّكُم
     translation: of yours
     transliteration: lakum
   8:
@@ -39,11 +38,11 @@ word_by_word:
     translation: from
     transliteration: min
   9:
-    arabic: اَبِيۡكُمۡ​ۚ
+    arabic: أَبِيكُمۡۚ
     translation: your father
     transliteration: abīkum
   10:
-    arabic: اَلَا
+    arabic: أَلَا
     translation: Do not
     transliteration: alā
   11:
@@ -51,19 +50,19 @@ word_by_word:
     translation: you see
     transliteration: tarawna
   12:
-    arabic: اَنِّىۡۤ
+    arabic: أَنِّيٓ
     translation: that I
     transliteration: annī
   13:
-    arabic: اُوۡفِی
+    arabic: أُوفِي
     translation: '[I] give full'
     transliteration: ūfī
   14:
-    arabic: الۡكَيۡلَ
+    arabic: ٱلۡكَيۡلَ
     translation: '[the] measure'
     transliteration: l-kayla
   15:
-    arabic: وَاَنَا
+    arabic: وَأَنَا۠
     translation: and that I am
     transliteration: wa-anā
   16:
@@ -71,7 +70,7 @@ word_by_word:
     translation: (the) best
     transliteration: khayru
   17:
-    arabic: "الۡمُنۡزِلِيۡنَ‏ \uFEFF\uFEFF"
+    arabic: ٱلۡمُنزِلِينَ
     translation: (of) the hosts
     transliteration: l-munzilīna
 ---

@@ -1,12 +1,12 @@
 ---
-arabic_ayat: الَّذِىۡ خَلَقَ سَبۡعَ سَمٰوٰتٍ طِبَاقًا​ ؕ مَا تَرٰى فِىۡ خَلۡقِ الرَّحۡمٰنِ
-  مِنۡ تَفٰوُتٍ​ ؕ فَارۡجِعِ الۡبَصَرَۙ هَلۡ تَرٰى مِنۡ فُطُوۡرٍ‏
+arabic_ayat: ٱلَّذِي خَلَقَ سَبۡعَ سَمَٰوَٰتٖ طِبَاقٗاۖ مَّا تَرَىٰ فِي خَلۡقِ ٱلرَّحۡمَٰنِ
+  مِن تَفَٰوُتٖۖ فَٱرۡجِعِ ٱلۡبَصَرَ هَلۡ تَرَىٰ مِن فُطُورٖ
 sentence_translation: '˹He is the One˺ Who created seven heavens, one above the other.
   You will never see any imperfection in the creation of the Most Compassionate. So
   look again: do you see any flaws?'
 word_by_word:
   1:
-    arabic: الَّذِىۡ
+    arabic: ٱلَّذِي
     translation: The One Who
     transliteration: alladhī
   2:
@@ -18,23 +18,23 @@ word_by_word:
     translation: seven
     transliteration: sabʿa
   4:
-    arabic: سَمٰوٰتٍ
+    arabic: سَمَٰوَٰتٖ
     translation: heavens
     transliteration: samāwātin
   5:
-    arabic: طِبَاقًا​ ؕ
+    arabic: طِبَاقٗاۖ
     translation: one above another
     transliteration: ṭibāqan
   6:
-    arabic: مَا
+    arabic: مَّا
     translation: Not
     transliteration: mā
   7:
-    arabic: تَرٰى
+    arabic: تَرَىٰ
     translation: you see
     transliteration: tarā
   8:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   9:
@@ -42,23 +42,23 @@ word_by_word:
     translation: (the) creation
     transliteration: khalqi
   10:
-    arabic: الرَّحۡمٰنِ
+    arabic: ٱلرَّحۡمَٰنِ
     translation: (of) the Most Gracious
     transliteration: l-raḥmāni
   11:
-    arabic: مِنۡ
+    arabic: مِن
     translation: any
     transliteration: min
   12:
-    arabic: تَفٰوُتٍ​ ؕ
+    arabic: تَفَٰوُتٖۖ
     translation: fault
     transliteration: tafāwutin
   13:
-    arabic: فَارۡجِعِ
+    arabic: فَٱرۡجِعِ
     translation: So return
     transliteration: fa-ir'jiʿi
   14:
-    arabic: الۡبَصَرَۙ
+    arabic: ٱلۡبَصَرَ
     translation: the vision
     transliteration: l-baṣara
   15:
@@ -66,15 +66,15 @@ word_by_word:
     translation: can
     transliteration: hal
   16:
-    arabic: تَرٰى
+    arabic: تَرَىٰ
     translation: you see
     transliteration: tarā
   17:
-    arabic: مِنۡ
+    arabic: مِن
     translation: any
     transliteration: min
   18:
-    arabic: فُطُوۡرٍ‏
+    arabic: فُطُورٖ
     translation: flaw
     transliteration: fuṭūrin
 ---

@@ -1,11 +1,11 @@
 ---
-arabic_ayat: مَا خَلۡقُكُمۡ وَلَا بَعۡثُكُمۡ اِلَّا كَنَفۡسٍ وَّاحِدَةٍ​ ؕ اِنَّ اللّٰهَ
-  سَمِيۡعٌۢ بَصِيۡرٌ‏
+arabic_ayat: مَّا خَلۡقُكُمۡ وَلَا بَعۡثُكُمۡ إِلَّا كَنَفۡسٖ وَٰحِدَةٍۚ إِنَّ ٱللَّهَ
+  سَمِيعُۢ بَصِيرٌ
 sentence_translation: The creation and resurrection of you ˹all˺ is as simple ˹for
   Him˺ as that of a single soul. Surely Allah is All-Hearing, All-Seeing.
 word_by_word:
   1:
-    arabic: مَا
+    arabic: مَّا
     translation: Not
     transliteration: mā
   2:
@@ -21,31 +21,31 @@ word_by_word:
     translation: your resurrection
     transliteration: baʿthukum
   5:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: but
     transliteration: illā
   6:
-    arabic: كَنَفۡسٍ
+    arabic: كَنَفۡسٖ
     translation: as a soul
     transliteration: kanafsin
   7:
-    arabic: وَّاحِدَةٍ​ ؕ
+    arabic: وَٰحِدَةٍۚ
     translation: single
     transliteration: wāḥidatin
   8:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   9:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   10:
-    arabic: سَمِيۡعٌۢ
+    arabic: سَمِيعُۢ
     translation: (is) All-Hearer
     transliteration: samīʿun
   11:
-    arabic: بَصِيۡرٌ‏
+    arabic: بَصِيرٌ
     translation: All-Seer
     transliteration: baṣīrun
 ---

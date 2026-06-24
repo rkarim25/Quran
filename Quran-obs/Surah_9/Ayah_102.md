@@ -1,41 +1,40 @@
 ---
-arabic_ayat: "وَاٰخَرُوۡنَ اعۡتَرَفُوۡا بِذُنُوۡبِهِمۡ خَلَطُوۡا عَمَلًا صَالِحًـا\
-  \ وَّاٰخَرَ سَيِّئًا ؕ عَسَى اللّٰهُ اَنۡ يَّتُوۡبَ عَلَيۡهِمۡ​ ؕ اِنَّ اللّٰهَ\
-  \ غَفُوۡرٌ رَّحِيۡمٌ‏ \uFEFF\uFEFF"
+arabic_ayat: وَءَاخَرُونَ ٱعۡتَرَفُواْ بِذُنُوبِهِمۡ خَلَطُواْ عَمَلٗا صَٰلِحٗا وَءَاخَرَ
+  سَيِّئًا عَسَى ٱللَّهُ أَن يَتُوبَ عَلَيۡهِمۡۚ إِنَّ ٱللَّهَ غَفُورٞ رَّحِيمٌ
 sentence_translation: 'Some others have confessed their wrongdoing: they have mixed
   goodness with evil. It is right to hope that Allah will turn to them in mercy. Surely
   Allah is All-Forgiving, Most Merciful.'
 word_by_word:
   1:
-    arabic: وَاٰخَرُوۡنَ
+    arabic: وَءَاخَرُونَ
     translation: And others
     transliteration: waākharūna
   2:
-    arabic: اعۡتَرَفُوۡا
+    arabic: ٱعۡتَرَفُواْ
     translation: (who have) acknowledged
     transliteration: iʿ'tarafū
   3:
-    arabic: بِذُنُوۡبِهِمۡ
+    arabic: بِذُنُوبِهِمۡ
     translation: their sins
     transliteration: bidhunūbihim
   4:
-    arabic: خَلَطُوۡا
+    arabic: خَلَطُواْ
     translation: They had mixed
     transliteration: khalaṭū
   5:
-    arabic: عَمَلًا
+    arabic: عَمَلٗا
     translation: a deed
     transliteration: ʿamalan
   6:
-    arabic: صَالِحًـا
+    arabic: صَٰلِحٗا
     translation: righteous
     transliteration: ṣāliḥan
   7:
-    arabic: وَّاٰخَرَ
+    arabic: وَءَاخَرَ
     translation: (with) other
     transliteration: waākhara
   8:
-    arabic: سَيِّئًا ؕ
+    arabic: سَيِّئًا
     translation: (that was) evil
     transliteration: sayyi-an
   9:
@@ -43,35 +42,35 @@ word_by_word:
     translation: Perhaps
     transliteration: ʿasā
   10:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   11:
-    arabic: اَنۡ
+    arabic: أَن
     translation: '[that]'
     transliteration: an
   12:
-    arabic: يَّتُوۡبَ
+    arabic: يَتُوبَ
     translation: will turn (in mercy)
     transliteration: yatūba
   13:
-    arabic: عَلَيۡهِمۡ​ ؕ
+    arabic: عَلَيۡهِمۡۚ
     translation: to them
     transliteration: ʿalayhim
   14:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   15:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   16:
-    arabic: غَفُوۡرٌ
+    arabic: غَفُورٞ
     translation: (is) Oft-Forgiving
     transliteration: ghafūrun
   17:
-    arabic: "رَّحِيۡمٌ‏ \uFEFF\uFEFF"
+    arabic: رَّحِيمٌ
     translation: Most Merciful
     transliteration: raḥīmun
 ---

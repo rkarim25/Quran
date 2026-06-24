@@ -1,8 +1,7 @@
 ---
-arabic_ayat: "وَاَنۡذِرِ النَّاسَ يَوۡمَ يَاۡتِيۡهِمُ الۡعَذَابُ فَيَـقُوۡلُ الَّذِيۡنَ\
-  \ ظَلَمُوۡا رَبَّنَاۤ اَخِّرۡنَاۤ اِلٰٓى اَجَلٍ قَرِيۡبٍۙ نُّجِبۡ دَعۡوَتَكَ وَنَـتَّبِعِ\
-  \ الرُّسُلَ​ؕ اَوَلَمۡ تَكُوۡنُوۡۤااَقۡسَمۡتُمۡ مِّنۡ قَبۡلُ مَالَـكُمۡ مِّنۡ زَوَالٍۙ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: وَأَنذِرِ ٱلنَّاسَ يَوۡمَ يَأۡتِيهِمُ ٱلۡعَذَابُ فَيَقُولُ ٱلَّذِينَ
+  ظَلَمُواْ رَبَّنَآ أَخِّرۡنَآ إِلَىٰٓ أَجَلٖ قَرِيبٖ نُّجِبۡ دَعۡوَتَكَ وَنَتَّبِعِ
+  ٱلرُّسُلَۗ أَوَلَمۡ تَكُونُوٓاْ أَقۡسَمۡتُم مِّن قَبۡلُ مَا لَكُم مِّن زَوَالٖ
 sentence_translation: And warn the people of the Day when the punishment will overtake
   ˹the wicked among˺ them, and the wrongdoers will cry, “Our Lord! Delay us for a
   little while. We will respond to Your call and follow the messengers!” ˹It will
@@ -10,11 +9,11 @@ sentence_translation: And warn the people of the Day when the punishment will ov
   life˺?”
 word_by_word:
   1:
-    arabic: وَاَنۡذِرِ
+    arabic: وَأَنذِرِ
     translation: And warn
     transliteration: wa-andhiri
   2:
-    arabic: النَّاسَ
+    arabic: ٱلنَّاسَ
     translation: the mankind
     transliteration: l-nāsa
   3:
@@ -22,43 +21,43 @@ word_by_word:
     translation: (of) a Day
     transliteration: yawma
   4:
-    arabic: يَاۡتِيۡهِمُ
+    arabic: يَأۡتِيهِمُ
     translation: (when) will come to them
     transliteration: yatīhimu
   5:
-    arabic: الۡعَذَابُ
+    arabic: ٱلۡعَذَابُ
     translation: the punishment
     transliteration: l-ʿadhābu
   6:
-    arabic: فَيَـقُوۡلُ
+    arabic: فَيَقُولُ
     translation: then will say
     transliteration: fayaqūlu
   7:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   8:
-    arabic: ظَلَمُوۡا
+    arabic: ظَلَمُواْ
     translation: did wrong
     transliteration: ẓalamū
   9:
-    arabic: رَبَّنَاۤ
+    arabic: رَبَّنَآ
     translation: Our Lord
     transliteration: rabbanā
   10:
-    arabic: اَخِّرۡنَاۤ
+    arabic: أَخِّرۡنَآ
     translation: Respite us
     transliteration: akhir'nā
   11:
-    arabic: اِلٰٓى
+    arabic: إِلَىٰٓ
     translation: for
     transliteration: ilā
   12:
-    arabic: اَجَلٍ
+    arabic: أَجَلٖ
     translation: a term
     transliteration: ajalin
   13:
-    arabic: قَرِيۡبٍۙ
+    arabic: قَرِيبٖ
     translation: short
     transliteration: qarībin
   14:
@@ -70,27 +69,27 @@ word_by_word:
     translation: Your call
     transliteration: daʿwataka
   16:
-    arabic: وَنَـتَّبِعِ
+    arabic: وَنَتَّبِعِ
     translation: and we will follow
     transliteration: wanattabiʿi
   17:
-    arabic: الرُّسُلَ​ؕ
+    arabic: ٱلرُّسُلَۗ
     translation: the Messengers
     transliteration: l-rusula
   18:
-    arabic: اَوَلَمۡ
+    arabic: أَوَلَمۡ
     translation: Had not
     transliteration: awalam
   19:
-    arabic: تَكُوۡنُوۡۤا
+    arabic: تَكُونُوٓاْ
     translation: you
     transliteration: takūnū
   20:
-    arabic: اَقۡسَمۡتُمۡ
+    arabic: أَقۡسَمۡتُم
     translation: sworn
     transliteration: aqsamtum
   21:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: before
     transliteration: min
   22:
@@ -102,15 +101,15 @@ word_by_word:
     translation: not
     transliteration: mā
   24:
-    arabic: لَـكُمۡ
+    arabic: لَكُم
     translation: for you
     transliteration: lakum
   25:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: any
     transliteration: min
   26:
-    arabic: زَوَالٍۙ‏
+    arabic: زَوَالٖ
     translation: end
     transliteration: zawālin
 ---

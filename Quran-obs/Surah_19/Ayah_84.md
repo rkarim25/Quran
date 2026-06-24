@@ -1,5 +1,5 @@
 ---
-arabic_ayat: فَلَا تَعۡجَلۡ عَلَيۡهِمۡ​ ؕ اِنَّمَا نَـعُدُّ لَهُمۡ عَدًّا​ ۚ‏
+arabic_ayat: فَلَا تَعۡجَلۡ عَلَيۡهِمۡۖ إِنَّمَا نَعُدُّ لَهُمۡ عَدّٗا
 sentence_translation: So do not be in haste against them, for indeed We are ˹closely˺
   counting down their days.
 word_by_word:
@@ -12,15 +12,15 @@ word_by_word:
     translation: make haste
     transliteration: taʿjal
   3:
-    arabic: عَلَيۡهِمۡ​ ؕ
+    arabic: عَلَيۡهِمۡۖ
     translation: against them
     transliteration: ʿalayhim
   4:
-    arabic: اِنَّمَا
+    arabic: إِنَّمَا
     translation: Only
     transliteration: innamā
   5:
-    arabic: نَـعُدُّ
+    arabic: نَعُدُّ
     translation: We count
     transliteration: naʿuddu
   6:
@@ -28,7 +28,7 @@ word_by_word:
     translation: for them
     transliteration: lahum
   7:
-    arabic: عَدًّا​ ۚ‏
+    arabic: عَدّٗا
     translation: a number
     transliteration: ʿaddan
 ---

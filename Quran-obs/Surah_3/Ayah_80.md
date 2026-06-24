@@ -1,6 +1,6 @@
 ---
-arabic_ayat: وَلَا يَاۡمُرَكُمۡ اَنۡ تَتَّخِذُوا الۡمَلٰٓٮِٕكَةَ وَالنَّبِيّٖنَ اَرۡبَابًا​ ؕ
-  اَيَاۡمُرُكُمۡ بِالۡكُفۡرِ بَعۡدَ اِذۡ اَنۡـتُمۡ مُّسۡلِمُوۡنَ‏
+arabic_ayat: وَلَا يَأۡمُرَكُمۡ أَن تَتَّخِذُواْ ٱلۡمَلَٰٓئِكَةَ وَٱلنَّبِيِّـۧنَ
+  أَرۡبَابًاۚ أَيَأۡمُرُكُم بِٱلۡكُفۡرِ بَعۡدَ إِذۡ أَنتُم مُّسۡلِمُونَ
 sentence_translation: And he would never ask you to take angels and prophets as lords.
   Would he ask you to disbelieve after you have submitted?
 word_by_word:
@@ -9,35 +9,35 @@ word_by_word:
     translation: And not
     transliteration: walā
   2:
-    arabic: يَاۡمُرَكُمۡ
+    arabic: يَأۡمُرَكُمۡ
     translation: he will order you
     transliteration: yamurakum
   3:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that
     transliteration: an
   4:
-    arabic: تَتَّخِذُوا
+    arabic: تَتَّخِذُواْ
     translation: you take
     transliteration: tattakhidhū
   5:
-    arabic: الۡمَلٰٓٮِٕكَةَ
+    arabic: ٱلۡمَلَٰٓئِكَةَ
     translation: the Angels
     transliteration: l-malāikata
   6:
-    arabic: وَالنَّبِيّٖنَ
+    arabic: وَٱلنَّبِيِّـۧنَ
     translation: and the Prophets
     transliteration: wal-nabiyīna
   7:
-    arabic: اَرۡبَابًا​ ؕ
+    arabic: أَرۡبَابًاۚ
     translation: (as) lords
     transliteration: arbāban
   8:
-    arabic: اَيَاۡمُرُكُمۡ
+    arabic: أَيَأۡمُرُكُم
     translation: Would he order you
     transliteration: ayamurukum
   9:
-    arabic: بِالۡكُفۡرِ
+    arabic: بِٱلۡكُفۡرِ
     translation: to [the] disbelief
     transliteration: bil-kuf'ri
   10:
@@ -45,15 +45,15 @@ word_by_word:
     translation: after
     transliteration: baʿda
   11:
-    arabic: اِذۡ
+    arabic: إِذۡ
     translation: '[when]'
     transliteration: idh
   12:
-    arabic: اَنۡـتُمۡ
+    arabic: أَنتُم
     translation: you (have become)
     transliteration: antum
   13:
-    arabic: مُّسۡلِمُوۡنَ‏
+    arabic: مُّسۡلِمُونَ
     translation: Muslims
     transliteration: mus'limūna
 ---

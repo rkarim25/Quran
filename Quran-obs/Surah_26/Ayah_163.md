@@ -1,17 +1,17 @@
 ---
-arabic_ayat: فَاتَّقُوا اللّٰهَ وَاَطِيۡعُوۡنِ​ۚ‏
+arabic_ayat: فَٱتَّقُواْ ٱللَّهَ وَأَطِيعُونِ
 sentence_translation: So fear Allah, and obey me.
 word_by_word:
   1:
-    arabic: فَاتَّقُوا
+    arabic: فَٱتَّقُواْ
     translation: So fear
     transliteration: fa-ittaqū
   2:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   3:
-    arabic: وَاَطِيۡعُوۡنِ​ۚ‏
+    arabic: وَأَطِيعُونِ
     translation: and obey me
     transliteration: wa-aṭīʿūni
 ---

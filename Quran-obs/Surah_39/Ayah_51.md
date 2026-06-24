@@ -1,16 +1,16 @@
 ---
-arabic_ayat: فَاَصَابَهُمۡ سَيِّاٰتُ مَا كَسَبُوۡا​ ؕ وَالَّذِيۡنَ ظَلَمُوۡا مِنۡ
-  هٰٓؤُلَاۤءِ سَيُصِيۡبُهُمۡ سَيِّاٰتُ مَا كَسَبُوۡا ۙ وَمَا هُمۡ بِمُعۡجِزِيۡنَ‏
+arabic_ayat: فَأَصَابَهُمۡ سَيِّـَٔاتُ مَا كَسَبُواْۚ وَٱلَّذِينَ ظَلَمُواْ مِنۡ هَٰٓؤُلَآءِ
+  سَيُصِيبُهُمۡ سَيِّـَٔاتُ مَا كَسَبُواْ وَمَا هُم بِمُعۡجِزِينَ
 sentence_translation: So the evil ˹consequences˺ of their deeds overtook them. And
   the wrongdoers among these ˹pagans˺ will be overtaken by the evil ˹consequences˺
   of their deeds. And they will have no escape.
 word_by_word:
   1:
-    arabic: فَاَصَابَهُمۡ
+    arabic: فَأَصَابَهُمۡ
     translation: Then struck them
     transliteration: fa-aṣābahum
   2:
-    arabic: سَيِّاٰتُ
+    arabic: سَيِّـَٔاتُ
     translation: (the) evils
     transliteration: sayyiātu
   3:
@@ -18,15 +18,15 @@ word_by_word:
     translation: (of) what
     transliteration: mā
   4:
-    arabic: كَسَبُوۡا​ ؕ
+    arabic: كَسَبُواْۚ
     translation: they earned
     transliteration: kasabū
   5:
-    arabic: وَالَّذِيۡنَ
+    arabic: وَٱلَّذِينَ
     translation: And those who
     transliteration: wa-alladhīna
   6:
-    arabic: ظَلَمُوۡا
+    arabic: ظَلَمُواْ
     translation: have wronged
     transliteration: ẓalamū
   7:
@@ -34,15 +34,15 @@ word_by_word:
     translation: of
     transliteration: min
   8:
-    arabic: هٰٓؤُلَاۤءِ
+    arabic: هَٰٓؤُلَآءِ
     translation: these
     transliteration: hāulāi
   9:
-    arabic: سَيُصِيۡبُهُمۡ
+    arabic: سَيُصِيبُهُمۡ
     translation: will strike them
     transliteration: sayuṣībuhum
   10:
-    arabic: سَيِّاٰتُ
+    arabic: سَيِّـَٔاتُ
     translation: (the) evils
     transliteration: sayyiātu
   11:
@@ -50,7 +50,7 @@ word_by_word:
     translation: (of) what
     transliteration: mā
   12:
-    arabic: كَسَبُوۡا ۙ
+    arabic: كَسَبُواْ
     translation: they earned
     transliteration: kasabū
   13:
@@ -58,11 +58,11 @@ word_by_word:
     translation: and not
     transliteration: wamā
   14:
-    arabic: هُمۡ
+    arabic: هُم
     translation: they
     transliteration: hum
   15:
-    arabic: بِمُعۡجِزِيۡنَ‏
+    arabic: بِمُعۡجِزِينَ
     translation: will be able to escape
     transliteration: bimuʿ'jizīna
 ---

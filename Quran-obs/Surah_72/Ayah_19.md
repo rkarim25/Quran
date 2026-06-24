@@ -1,11 +1,11 @@
 ---
-arabic_ayat: وَّاَنَّهٗ لَمَّا قَامَ عَبۡدُ اللّٰهِ يَدۡعُوۡهُ كَادُوۡا يَكُوۡنُوۡنَ
-  عَلَيۡهِ لِبَدًا ؕ‏
+arabic_ayat: وَأَنَّهُۥ لَمَّا قَامَ عَبۡدُ ٱللَّهِ يَدۡعُوهُ كَادُواْ يَكُونُونَ
+  عَلَيۡهِ لِبَدٗا
 sentence_translation: Yet when the servant of Allah stood up calling upon Him ˹alone˺,
   the pagans almost swarmed over him.
 word_by_word:
   1:
-    arabic: وَّاَنَّهٗ
+    arabic: وَأَنَّهُۥ
     translation: And that
     transliteration: wa-annahu
   2:
@@ -21,19 +21,19 @@ word_by_word:
     translation: (the) slave
     transliteration: ʿabdu
   5:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (of) Allah
     transliteration: l-lahi
   6:
-    arabic: يَدۡعُوۡهُ
+    arabic: يَدۡعُوهُ
     translation: calling (upon) Him
     transliteration: yadʿūhu
   7:
-    arabic: كَادُوۡا
+    arabic: كَادُواْ
     translation: they almost
     transliteration: kādū
   8:
-    arabic: يَكُوۡنُوۡنَ
+    arabic: يَكُونُونَ
     translation: became
     transliteration: yakūnūna
   9:
@@ -41,7 +41,7 @@ word_by_word:
     translation: around him
     transliteration: ʿalayhi
   10:
-    arabic: لِبَدًا ؕ‏
+    arabic: لِبَدٗا
     translation: a compacted mass
     transliteration: libadan
 ---

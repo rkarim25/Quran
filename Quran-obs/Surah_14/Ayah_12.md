@@ -1,7 +1,6 @@
 ---
-arabic_ayat: "وَمَا لَـنَاۤ اَلَّا نَـتَوَكَّلَ عَلَى اللّٰهِ وَقَدۡ هَدٰٮنَا سُبُلَنَا​ؕ\
-  \ وَلَــنَصۡبِرَنَّ عَلٰى مَاۤ اٰذَيۡتُمُوۡنَا​ؕ وَعَلَى اللّٰهِ فَلۡيَتَوَكَّلِ\
-  \ الۡمُتَوَكِّلُوۡنَ‏ \uFEFF\uFEFF"
+arabic_ayat: وَمَا لَنَآ أَلَّا نَتَوَكَّلَ عَلَى ٱللَّهِ وَقَدۡ هَدَىٰنَا سُبُلَنَاۚ
+  وَلَنَصۡبِرَنَّ عَلَىٰ مَآ ءَاذَيۡتُمُونَاۚ وَعَلَى ٱللَّهِ فَلۡيَتَوَكَّلِ ٱلۡمُتَوَكِّلُونَ
 sentence_translation: Why should we not put our trust in Allah, when He has truly
   guided us to ˹the very best of˺ ways? Indeed, we will patiently endure whatever
   harm you may cause us. And in Allah let the faithful put their trust.”
@@ -11,15 +10,15 @@ word_by_word:
     translation: And what
     transliteration: wamā
   2:
-    arabic: لَـنَاۤ
+    arabic: لَنَآ
     translation: (is) for us
     transliteration: lanā
   3:
-    arabic: اَلَّا
+    arabic: أَلَّا
     translation: that not
     transliteration: allā
   4:
-    arabic: نَـتَوَكَّلَ
+    arabic: نَتَوَكَّلَ
     translation: we put our trust
     transliteration: natawakkala
   5:
@@ -27,7 +26,7 @@ word_by_word:
     translation: upon
     transliteration: ʿalā
   6:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   7:
@@ -35,27 +34,27 @@ word_by_word:
     translation: while certainly
     transliteration: waqad
   8:
-    arabic: هَدٰٮنَا
+    arabic: هَدَىٰنَا
     translation: He has guided us
     transliteration: hadānā
   9:
-    arabic: سُبُلَنَا​ؕ
+    arabic: سُبُلَنَاۚ
     translation: to our ways
     transliteration: subulanā
   10:
-    arabic: وَلَــنَصۡبِرَنَّ
+    arabic: وَلَنَصۡبِرَنَّ
     translation: And surely we will bear with patience
     transliteration: walanaṣbiranna
   11:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: 'on'
     transliteration: ʿalā
   12:
-    arabic: مَاۤ
+    arabic: مَآ ءَ
     translation: what
     transliteration: mā
   13:
-    arabic: اٰذَيۡتُمُوۡنَا​ؕ
+    arabic: اذَيۡتُمُونَاۚ
     translation: harm you may cause us
     transliteration: ādhaytumūnā
   14:
@@ -63,7 +62,7 @@ word_by_word:
     translation: And upon
     transliteration: waʿalā
   15:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   16:
@@ -71,7 +70,7 @@ word_by_word:
     translation: so let put (their) trust
     transliteration: falyatawakkali
   17:
-    arabic: "الۡمُتَوَكِّلُوۡنَ‏ \uFEFF\uFEFF"
+    arabic: ٱلۡمُتَوَكِّلُونَ
     translation: the ones who put (their) trust
     transliteration: l-mutawakilūna
 ---

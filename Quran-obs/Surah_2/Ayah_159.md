@@ -1,21 +1,21 @@
 ---
-arabic_ayat: اِنَّ الَّذِيۡنَ يَكۡتُمُوۡنَ مَآ اَنۡزَلۡنَا مِنَ الۡبَيِّنٰتِ وَالۡهُدٰى
-  مِنۡۢ بَعۡدِ مَا بَيَّنّٰهُ لِلنَّاسِ فِى الۡكِتٰبِۙ اُولٰٓٮِٕكَ يَلۡعَنُهُمُ اللّٰهُ
-  وَ يَلۡعَنُهُمُ اللّٰعِنُوۡنَۙ‏
+arabic_ayat: إِنَّ ٱلَّذِينَ يَكۡتُمُونَ مَآ أَنزَلۡنَا مِنَ ٱلۡبَيِّنَٰتِ وَٱلۡهُدَىٰ
+  مِنۢ بَعۡدِ مَا بَيَّنَّٰهُ لِلنَّاسِ فِي ٱلۡكِتَٰبِ أُوْلَٰٓئِكَ يَلۡعَنُهُمُ ٱللَّهُ
+  وَيَلۡعَنُهُمُ ٱللَّٰعِنُونَ
 sentence_translation: Those who hide the clear proofs and guidance that We have revealed—after
   We made it clear for humanity in the Book—will be condemned by Allah and ˹all˺ those
   who condemn.
 word_by_word:
   1:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   3:
-    arabic: يَكۡتُمُوۡنَ
+    arabic: يَكۡتُمُونَ
     translation: conceal
     transliteration: yaktumūna
   4:
@@ -23,7 +23,7 @@ word_by_word:
     translation: what
     transliteration: mā
   5:
-    arabic: اَنۡزَلۡنَا
+    arabic: أَنزَلۡنَا
     translation: We revealed
     transliteration: anzalnā
   6:
@@ -31,15 +31,15 @@ word_by_word:
     translation: of
     transliteration: mina
   7:
-    arabic: الۡبَيِّنٰتِ
+    arabic: ٱلۡبَيِّنَٰتِ
     translation: the clear proofs
     transliteration: l-bayināti
   8:
-    arabic: وَالۡهُدٰى
+    arabic: وَٱلۡهُدَىٰ
     translation: and the Guidance
     transliteration: wal-hudā
   9:
-    arabic: مِنۡۢ
+    arabic: مِنۢ
     translation: from
     transliteration: min
   10:
@@ -51,7 +51,7 @@ word_by_word:
     translation: '[what]'
     transliteration: mā
   12:
-    arabic: بَيَّنّٰهُ
+    arabic: بَيَّنَّٰهُ
     translation: We made clear
     transliteration: bayyannāhu
   13:
@@ -59,15 +59,15 @@ word_by_word:
     translation: to the people
     transliteration: lilnnāsi
   14:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   15:
-    arabic: الۡكِتٰبِۙ
+    arabic: ٱلۡكِتَٰبِ
     translation: 'the Book '
     transliteration: l-kitābi
   16:
-    arabic: اُولٰٓٮِٕكَ
+    arabic: أُوْلَٰٓئِكَ
     translation: those
     transliteration: ulāika
   17:
@@ -75,15 +75,15 @@ word_by_word:
     translation: curses them
     transliteration: yalʿanuhumu
   18:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   19:
-    arabic: وَ يَلۡعَنُهُمُ
+    arabic: وَيَلۡعَنُهُمُ
     translation: and curse them
     transliteration: wayalʿanuhumu
   20:
-    arabic: اللّٰعِنُوۡنَۙ‏
+    arabic: ٱللَّٰعِنُونَ
     translation: the ones who curse
     transliteration: l-lāʿinūna
 ---

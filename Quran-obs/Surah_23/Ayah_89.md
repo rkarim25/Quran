@@ -1,13 +1,13 @@
 ---
-arabic_ayat: سَيَقُوۡلُوۡنَ لِلّٰهِ​ؕ قُلۡ فَاَنّٰى تُسۡحَرُوۡنَ‏
+arabic_ayat: سَيَقُولُونَ لِلَّهِۚ قُلۡ فَأَنَّىٰ تُسۡحَرُونَ
 sentence_translation: They will reply, “Allah.” Say, “How are you then so deluded?”
 word_by_word:
   1:
-    arabic: سَيَقُوۡلُوۡنَ
+    arabic: سَيَقُولُونَ
     translation: They will say
     transliteration: sayaqūlūna
   2:
-    arabic: لِلّٰهِ​ؕ
+    arabic: لِلَّهِۚ
     translation: Allah
     transliteration: lillahi
   3:
@@ -15,11 +15,11 @@ word_by_word:
     translation: Say
     transliteration: qul
   4:
-    arabic: فَاَنّٰى
+    arabic: فَأَنَّىٰ
     translation: Then how
     transliteration: fa-annā
   5:
-    arabic: تُسۡحَرُوۡنَ‏
+    arabic: تُسۡحَرُونَ
     translation: are you deluded
     transliteration: tus'ḥarūna
 ---

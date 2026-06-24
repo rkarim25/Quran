@@ -1,5 +1,5 @@
 ---
-arabic_ayat: مُّسَوَّمَةً عِنۡدَ رَبِّكَ لِلۡمُسۡرِفِيۡنَ‏
+arabic_ayat: مُّسَوَّمَةً عِندَ رَبِّكَ لِلۡمُسۡرِفِينَ
 sentence_translation: marked by your Lord for the transgressors.”
 word_by_word:
   1:
@@ -7,7 +7,7 @@ word_by_word:
     translation: Marked
     transliteration: musawwamatan
   2:
-    arabic: عِنۡدَ
+    arabic: عِندَ
     translation: by your Lord
     transliteration: ʿinda
   3:
@@ -15,7 +15,7 @@ word_by_word:
     translation: by your Lord
     transliteration: rabbika
   4:
-    arabic: لِلۡمُسۡرِفِيۡنَ‏
+    arabic: لِلۡمُسۡرِفِينَ
     translation: for the transgressors
     transliteration: lil'mus'rifīna
 ---

@@ -1,9 +1,9 @@
 ---
-arabic_ayat: اِنَّ الۡمُسۡلِمِيۡنَ وَالۡمُسۡلِمٰتِ وَالۡمُؤۡمِنِيۡنَ وَالۡمُؤۡمِنٰتِ
-  وَالۡقٰنِتِيۡنَ وَالۡقٰنِتٰتِ وَالصّٰدِقِيۡنَ وَالصّٰدِقٰتِ وَالصّٰبِرِيۡنَ وَالصّٰبِرٰتِ
-  وَالۡخٰشِعِيۡنَ وَالۡخٰشِعٰتِ وَالۡمُتَصَدِّقِيۡنَ وَ الۡمُتَصَدِّقٰتِ وَالصَّآٮِٕمِيۡنَ
-  وَالصّٰٓٮِٕمٰتِ وَالۡحٰفِظِيۡنَ فُرُوۡجَهُمۡ وَالۡحٰـفِظٰتِ وَالذّٰكِرِيۡنَ اللّٰهَ
-  كَثِيۡرًا وَّ الذّٰكِرٰتِ ۙ اَعَدَّ اللّٰهُ لَهُمۡ مَّغۡفِرَةً وَّاَجۡرًا عَظِيۡمًا‏
+arabic_ayat: إِنَّ ٱلۡمُسۡلِمِينَ وَٱلۡمُسۡلِمَٰتِ وَٱلۡمُؤۡمِنِينَ وَٱلۡمُؤۡمِنَٰتِ
+  وَٱلۡقَٰنِتِينَ وَٱلۡقَٰنِتَٰتِ وَٱلصَّٰدِقِينَ وَٱلصَّٰدِقَٰتِ وَٱلصَّٰبِرِينَ
+  وَٱلصَّٰبِرَٰتِ وَٱلۡخَٰشِعِينَ وَٱلۡخَٰشِعَٰتِ وَٱلۡمُتَصَدِّقِينَ وَٱلۡمُتَصَدِّقَٰتِ
+  وَٱلصَّٰٓئِمِينَ وَٱلصَّٰٓئِمَٰتِ وَٱلۡحَٰفِظِينَ فُرُوجَهُمۡ وَٱلۡحَٰفِظَٰتِ وَٱلذَّٰكِرِينَ
+  ٱللَّهَ كَثِيرٗا وَٱلذَّٰكِرَٰتِ أَعَدَّ ٱللَّهُ لَهُم مَّغۡفِرَةٗ وَأَجۡرًا عَظِيمٗا
 sentence_translation: Surely ˹for˺ Muslim men and women, believing men and women, devout
   men and women, truthful men and women, patient men and women, humble men and women,
   charitable men and women, fasting men and women, men and women who guard their chastity,
@@ -11,123 +11,123 @@ sentence_translation: Surely ˹for˺ Muslim men and women, believing men and wom
   forgiveness and a great reward.
 word_by_word:
   1:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   2:
-    arabic: الۡمُسۡلِمِيۡنَ
+    arabic: ٱلۡمُسۡلِمِينَ
     translation: the Muslim men
     transliteration: l-mus'limīna
   3:
-    arabic: وَالۡمُسۡلِمٰتِ
+    arabic: وَٱلۡمُسۡلِمَٰتِ
     translation: and the Muslim women
     transliteration: wal-mus'limāti
   4:
-    arabic: وَالۡمُؤۡمِنِيۡنَ
+    arabic: وَٱلۡمُؤۡمِنِينَ
     translation: and the believing men
     transliteration: wal-mu'minīna
   5:
-    arabic: وَالۡمُؤۡمِنٰتِ
+    arabic: وَٱلۡمُؤۡمِنَٰتِ
     translation: and the believing women
     transliteration: wal-mu'mināti
   6:
-    arabic: وَالۡقٰنِتِيۡنَ
+    arabic: وَٱلۡقَٰنِتِينَ
     translation: and the obedient men
     transliteration: wal-qānitīna
   7:
-    arabic: وَالۡقٰنِتٰتِ
+    arabic: وَٱلۡقَٰنِتَٰتِ
     translation: and the obedient women
     transliteration: wal-qānitāti
   8:
-    arabic: وَالصّٰدِقِيۡنَ
+    arabic: وَٱلصَّٰدِقِينَ
     translation: and the truthful men
     transliteration: wal-ṣādiqīna
   9:
-    arabic: وَالصّٰدِقٰتِ
+    arabic: وَٱلصَّٰدِقَٰتِ
     translation: and the truthful women
     transliteration: wal-ṣādiqāti
   10:
-    arabic: وَالصّٰبِرِيۡنَ
+    arabic: وَٱلصَّٰبِرِينَ
     translation: and the patient men
     transliteration: wal-ṣābirīna
   11:
-    arabic: وَالصّٰبِرٰتِ
+    arabic: وَٱلصَّٰبِرَٰتِ
     translation: and the patient women
     transliteration: wal-ṣābirāti
   12:
-    arabic: وَالۡخٰشِعِيۡنَ
+    arabic: وَٱلۡخَٰشِعِينَ
     translation: and the humble men
     transliteration: wal-khāshiʿīna
   13:
-    arabic: وَالۡخٰشِعٰتِ
+    arabic: وَٱلۡخَٰشِعَٰتِ
     translation: and the humble women
     transliteration: wal-khāshiʿāti
   14:
-    arabic: وَالۡمُتَصَدِّقِيۡنَ
+    arabic: وَٱلۡمُتَصَدِّقِينَ
     translation: and the men who give charity
     transliteration: wal-mutaṣadiqīna
   15:
-    arabic: وَ الۡمُتَصَدِّقٰتِ
+    arabic: وَٱلۡمُتَصَدِّقَٰتِ
     translation: and the women who give charity
     transliteration: wal-mutaṣadiqāti
   16:
-    arabic: وَالصَّآٮِٕمِيۡنَ
+    arabic: وَٱلصَّٰٓئِمِينَ
     translation: and the men who fast
     transliteration: wal-ṣāimīna
   17:
-    arabic: وَالصّٰٓٮِٕمٰتِ
+    arabic: وَٱلصَّٰٓئِمَٰتِ
     translation: and the women who fast
     transliteration: wal-ṣāimāti
   18:
-    arabic: وَالۡحٰفِظِيۡنَ
+    arabic: وَٱلۡحَٰفِظِينَ
     translation: and the men who guard
     transliteration: wal-ḥāfiẓīna
   19:
-    arabic: فُرُوۡجَهُمۡ
+    arabic: فُرُوجَهُمۡ
     translation: their chastity
     transliteration: furūjahum
   20:
-    arabic: وَالۡحٰـفِظٰتِ
+    arabic: وَٱلۡحَٰفِظَٰتِ
     translation: and the women who guard (it)
     transliteration: wal-ḥāfiẓāti
   21:
-    arabic: وَالذّٰكِرِيۡنَ
+    arabic: وَٱلذَّٰكِرِينَ
     translation: and the men who remember
     transliteration: wal-dhākirīna
   22:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   23:
-    arabic: كَثِيۡرًا
+    arabic: كَثِيرٗا
     translation: much
     transliteration: kathīran
   24:
-    arabic: وَّ الذّٰكِرٰتِ ۙ
+    arabic: وَٱلذَّٰكِرَٰتِ
     translation: and the women who remember
     transliteration: wal-dhākirāti
   25:
-    arabic: اَعَدَّ
+    arabic: أَعَدَّ
     translation: Allah has prepared
     transliteration: aʿadda
   26:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah has prepared
     transliteration: l-lahu
   27:
-    arabic: لَهُمۡ
+    arabic: لَهُم
     translation: for them
     transliteration: lahum
   28:
-    arabic: مَّغۡفِرَةً
+    arabic: مَّغۡفِرَةٗ
     translation: forgiveness
     transliteration: maghfiratan
   29:
-    arabic: وَّاَجۡرًا
+    arabic: وَأَجۡرًا
     translation: and a reward
     transliteration: wa-ajran
   30:
-    arabic: عَظِيۡمًا‏
+    arabic: عَظِيمٗا
     translation: great
     transliteration: ʿaẓīman
 ---

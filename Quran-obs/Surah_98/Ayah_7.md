@@ -1,31 +1,31 @@
 ---
-arabic_ayat: اِنَّ الَّذِيۡنَ اٰمَنُوۡا وَعَمِلُوا الصّٰلِحٰتِۙ اُولٰٓٮِٕكَ هُمۡ خَيۡرُ
-  الۡبَرِيَّةِ ؕ‏
+arabic_ayat: إِنَّ ٱلَّذِينَ ءَامَنُواْ وَعَمِلُواْ ٱلصَّٰلِحَٰتِ أُوْلَٰٓئِكَ هُمۡ
+  خَيۡرُ ٱلۡبَرِيَّةِ
 sentence_translation: Indeed, those who believe and do good—they are the best of ˹all˺
   beings.
 word_by_word:
   1:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ ءَ
     translation: those who
     transliteration: alladhīna
   3:
-    arabic: اٰمَنُوۡا
+    arabic: امَنُواْ
     translation: believe
     transliteration: āmanū
   4:
-    arabic: وَعَمِلُوا
+    arabic: وَعَمِلُواْ
     translation: and do
     transliteration: waʿamilū
   5:
-    arabic: الصّٰلِحٰتِۙ
+    arabic: ٱلصَّٰلِحَٰتِ
     translation: righteous deeds
     transliteration: l-ṣāliḥāti
   6:
-    arabic: اُولٰٓٮِٕكَ
+    arabic: أُوْلَٰٓئِكَ
     translation: 'those '
     transliteration: ulāika
   7:
@@ -37,7 +37,7 @@ word_by_word:
     translation: (are the) best
     transliteration: khayru
   9:
-    arabic: الۡبَرِيَّةِ ؕ‏
+    arabic: ٱلۡبَرِيَّةِ
     translation: (of) the creatures
     transliteration: l-bariyati
 ---

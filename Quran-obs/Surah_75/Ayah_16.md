@@ -1,5 +1,5 @@
 ---
-arabic_ayat: لَا تُحَرِّكۡ بِهٖ لِسَانَكَ لِتَعۡجَلَ بِهٖؕ‏
+arabic_ayat: لَا تُحَرِّكۡ بِهِۦ لِسَانَكَ لِتَعۡجَلَ بِهِۦٓ
 sentence_translation: Do not rush your tongue trying to memorize ˹a revelation of˺
   the Quran.
 word_by_word:
@@ -12,7 +12,7 @@ word_by_word:
     translation: move
     transliteration: tuḥarrik
   3:
-    arabic: بِهٖ
+    arabic: بِهِۦ
     translation: with it
     transliteration: bihi
   4:
@@ -24,7 +24,7 @@ word_by_word:
     translation: to hasten
     transliteration: litaʿjala
   6:
-    arabic: بِهٖؕ‏
+    arabic: بِهِۦٓ
     translation: with it
     transliteration: bihi
 ---

@@ -1,5 +1,5 @@
 ---
-arabic_ayat: قَالَ لَهُمۡ مُّوۡسٰۤى اَلۡقُوۡا مَاۤ اَنۡتُمۡ مُّلۡقُوۡنَ‏
+arabic_ayat: قَالَ لَهُم مُّوسَىٰٓ أَلۡقُواْ مَآ أَنتُم مُّلۡقُونَ
 sentence_translation: Moses said to them, “Cast whatever you wish to cast.”
 word_by_word:
   1:
@@ -7,27 +7,27 @@ word_by_word:
     translation: Said
     transliteration: qāla
   2:
-    arabic: لَهُمۡ
+    arabic: لَهُم
     translation: to them
     transliteration: lahum
   3:
-    arabic: مُّوۡسٰۤى
+    arabic: مُّوسَىٰٓ
     translation: Musa
     transliteration: mūsā
   4:
-    arabic: اَلۡقُوۡا
+    arabic: أَلۡقُواْ
     translation: Throw
     transliteration: alqū
   5:
-    arabic: مَاۤ
+    arabic: مَآ
     translation: what
     transliteration: mā
   6:
-    arabic: اَنۡتُمۡ
+    arabic: أَنتُم
     translation: you
     transliteration: antum
   7:
-    arabic: مُّلۡقُوۡنَ‏
+    arabic: مُّلۡقُونَ
     translation: (are) going to throw
     transliteration: mul'qūna
 ---

@@ -1,6 +1,6 @@
 ---
-arabic_ayat: وَمَا يَاۡتِيۡهِمۡ مِّنۡ ذِكۡرٍ مِّنَ الرَّحۡمٰنِ مُحۡدَثٍ اِلَّا كَانُوۡا
-  عَنۡهُ مُعۡرِضِيۡنَ‏
+arabic_ayat: وَمَا يَأۡتِيهِم مِّن ذِكۡرٖ مِّنَ ٱلرَّحۡمَٰنِ مُحۡدَثٍ إِلَّا كَانُواْ
+  عَنۡهُ مُعۡرِضِينَ
 sentence_translation: Whatever new reminder comes to them from the Most Compassionate,
   they always turn away from it.
 word_by_word:
@@ -9,15 +9,15 @@ word_by_word:
     translation: And (does) not
     transliteration: wamā
   2:
-    arabic: يَاۡتِيۡهِمۡ
+    arabic: يَأۡتِيهِم
     translation: come to them
     transliteration: yatīhim
   3:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: any
     transliteration: min
   4:
-    arabic: ذِكۡرٍ
+    arabic: ذِكۡرٖ
     translation: reminder
     transliteration: dhik'rin
   5:
@@ -25,7 +25,7 @@ word_by_word:
     translation: from
     transliteration: mina
   6:
-    arabic: الرَّحۡمٰنِ
+    arabic: ٱلرَّحۡمَٰنِ
     translation: the Most Gracious
     transliteration: l-raḥmāni
   7:
@@ -33,11 +33,11 @@ word_by_word:
     translation: new
     transliteration: muḥ'dathin
   8:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: but
     transliteration: illā
   9:
-    arabic: كَانُوۡا
+    arabic: كَانُواْ
     translation: they
     transliteration: kānū
   10:
@@ -45,7 +45,7 @@ word_by_word:
     translation: from it
     transliteration: ʿanhu
   11:
-    arabic: مُعۡرِضِيۡنَ‏
+    arabic: مُعۡرِضِينَ
     translation: turn away
     transliteration: muʿ'riḍīna
 ---

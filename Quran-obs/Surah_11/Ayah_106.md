@@ -1,27 +1,26 @@
 ---
-arabic_ayat: "فَاَمَّا الَّذِيۡنَ شَقُوۡا فَفِى النَّارِ لَهُمۡ فِيۡهَا زَفِيۡرٌ وَّشَهِيۡقٌ ۙ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: فَأَمَّا ٱلَّذِينَ شَقُواْ فَفِي ٱلنَّارِ لَهُمۡ فِيهَا زَفِيرٞ وَشَهِيقٌ
 sentence_translation: As for those bound for misery, they will be in the Fire, where
   they will be sighing and gasping,
 word_by_word:
   1:
-    arabic: فَاَمَّا
+    arabic: فَأَمَّا
     translation: As for
     transliteration: fa-ammā
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   3:
-    arabic: شَقُوۡا
+    arabic: شَقُواْ
     translation: were wretched
     transliteration: shaqū
   4:
-    arabic: فَفِى
+    arabic: فَفِي
     translation: then (they will be) in
     transliteration: fafī
   5:
-    arabic: النَّارِ
+    arabic: ٱلنَّارِ
     translation: the Fire
     transliteration: l-nāri
   6:
@@ -29,15 +28,15 @@ word_by_word:
     translation: For them
     transliteration: lahum
   7:
-    arabic: فِيۡهَا
+    arabic: فِيهَا
     translation: therein
     transliteration: fīhā
   8:
-    arabic: زَفِيۡرٌ
+    arabic: زَفِيرٞ
     translation: (is) sighing
     transliteration: zafīrun
   9:
-    arabic: "وَّشَهِيۡقٌ ۙ‏ \uFEFF\uFEFF"
+    arabic: وَشَهِيقٌ
     translation: and wailing
     transliteration: washahīqun
 ---

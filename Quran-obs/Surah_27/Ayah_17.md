@@ -1,6 +1,6 @@
 ---
-arabic_ayat: وَحُشِرَ لِسُلَيۡمٰنَ جُنُوۡدُهٗ مِنَ الۡجِنِّ وَالۡاِنۡسِ وَالطَّيۡرِ
-  فَهُمۡ يُوۡزَعُوۡنَ‏
+arabic_ayat: وَحُشِرَ لِسُلَيۡمَٰنَ جُنُودُهُۥ مِنَ ٱلۡجِنِّ وَٱلۡإِنسِ وَٱلطَّيۡرِ
+  فَهُمۡ يُوزَعُونَ
 sentence_translation: Solomon’s forces of jinn, humans, and birds were rallied for
   him, perfectly organized.
 word_by_word:
@@ -9,11 +9,11 @@ word_by_word:
     translation: And were gathered
     transliteration: waḥushira
   2:
-    arabic: لِسُلَيۡمٰنَ
+    arabic: لِسُلَيۡمَٰنَ
     translation: for Sulaiman
     transliteration: lisulaymāna
   3:
-    arabic: جُنُوۡدُهٗ
+    arabic: جُنُودُهُۥ
     translation: his hosts
     transliteration: junūduhu
   4:
@@ -21,15 +21,15 @@ word_by_word:
     translation: of
     transliteration: mina
   5:
-    arabic: الۡجِنِّ
+    arabic: ٱلۡجِنِّ
     translation: jinn
     transliteration: l-jini
   6:
-    arabic: وَالۡاِنۡسِ
+    arabic: وَٱلۡإِنسِ
     translation: and the men
     transliteration: wal-insi
   7:
-    arabic: وَالطَّيۡرِ
+    arabic: وَٱلطَّيۡرِ
     translation: and the birds
     transliteration: wal-ṭayri
   8:
@@ -37,7 +37,7 @@ word_by_word:
     translation: and they
     transliteration: fahum
   9:
-    arabic: يُوۡزَعُوۡنَ‏
+    arabic: يُوزَعُونَ
     translation: (were) set in rows
     transliteration: yūzaʿūna
 ---

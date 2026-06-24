@@ -1,12 +1,12 @@
 ---
-arabic_ayat: اَفَلَمۡ يَهۡدِ لَهُمۡ كَمۡ اَهۡلَكۡنَا قَبۡلَهُمۡ مِّنَ الۡقُرُوۡنِ
-  يَمۡشُوۡنَ فِىۡ مَسٰكِنِهِمۡ​ؕ اِنَّ فِىۡ ذٰ لِكَ لَاٰيٰتٍ لِّاُولِى النُّهٰى‏
+arabic_ayat: أَفَلَمۡ يَهۡدِ لَهُمۡ كَمۡ أَهۡلَكۡنَا قَبۡلَهُم مِّنَ ٱلۡقُرُونِ يَمۡشُونَ
+  فِي مَسَٰكِنِهِمۡۚ إِنَّ فِي ذَٰلِكَ لَأٓيَٰتٖ لِّأُوْلِي ٱلنُّهَىٰ
 sentence_translation: Is it not yet clear to them how many peoples We destroyed before
   them, whose ruins they still pass by? Surely in this are signs for people of sound
   judgment.
 word_by_word:
   1:
-    arabic: اَفَلَمۡ
+    arabic: أَفَلَمۡ
     translation: Then has not
     transliteration: afalam
   2:
@@ -22,11 +22,11 @@ word_by_word:
     translation: how many
     transliteration: kam
   5:
-    arabic: اَهۡلَكۡنَا
+    arabic: أَهۡلَكۡنَا
     translation: We (have) destroyed
     transliteration: ahlaknā
   6:
-    arabic: قَبۡلَهُمۡ
+    arabic: قَبۡلَهُم
     translation: before them
     transliteration: qablahum
   7:
@@ -34,43 +34,43 @@ word_by_word:
     translation: of
     transliteration: mina
   8:
-    arabic: الۡقُرُوۡنِ
+    arabic: ٱلۡقُرُونِ
     translation: the generations
     transliteration: l-qurūni
   9:
-    arabic: يَمۡشُوۡنَ
+    arabic: يَمۡشُونَ
     translation: (as) they walk
     transliteration: yamshūna
   10:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   11:
-    arabic: مَسٰكِنِهِمۡ​ؕ
+    arabic: مَسَٰكِنِهِمۡۚ
     translation: their dwellings
     transliteration: masākinihim
   12:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   13:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   14:
-    arabic: ذٰ لِكَ
+    arabic: ذَٰلِكَ
     translation: that
     transliteration: dhālika
   15:
-    arabic: لَاٰيٰتٍ
+    arabic: لَأٓيَٰتٖ
     translation: surely (are) Signs
     transliteration: laāyātin
   16:
-    arabic: لِّاُولِى
+    arabic: لِّأُوْلِي
     translation: for possessors
     transliteration: li-ulī
   17:
-    arabic: النُّهٰى‏
+    arabic: ٱلنُّهَىٰ
     translation: (of) intelligence
     transliteration: l-nuhā
 ---

@@ -1,6 +1,5 @@
 ---
-arabic_ayat: "قَالَ فَبِمَاۤ اَغۡوَيۡتَنِىۡ لَاَقۡعُدَنَّ لَهُمۡ صِرَاطَكَ الۡمُسۡتَقِيۡمَۙ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: قَالَ فَبِمَآ أَغۡوَيۡتَنِي لَأَقۡعُدَنَّ لَهُمۡ صِرَٰطَكَ ٱلۡمُسۡتَقِيمَ
 sentence_translation: He said, “For leaving me to stray I will lie in ambush for them
   on Your Straight Path.
 word_by_word:
@@ -9,15 +8,15 @@ word_by_word:
     translation: (Shaitaan) said
     transliteration: qāla
   2:
-    arabic: فَبِمَاۤ
+    arabic: فَبِمَآ
     translation: Because
     transliteration: fabimā
   3:
-    arabic: اَغۡوَيۡتَنِىۡ
+    arabic: أَغۡوَيۡتَنِي
     translation: You have sent me astray
     transliteration: aghwaytanī
   4:
-    arabic: لَاَقۡعُدَنَّ
+    arabic: لَأَقۡعُدَنَّ
     translation: surely I will sit
     transliteration: la-aqʿudanna
   5:
@@ -25,11 +24,11 @@ word_by_word:
     translation: for them
     transliteration: lahum
   6:
-    arabic: صِرَاطَكَ
+    arabic: صِرَٰطَكَ
     translation: (on) Your path
     transliteration: ṣirāṭaka
   7:
-    arabic: "الۡمُسۡتَقِيۡمَۙ‏ \uFEFF\uFEFF"
+    arabic: ٱلۡمُسۡتَقِيمَ
     translation: the straight
     transliteration: l-mus'taqīma
 ---

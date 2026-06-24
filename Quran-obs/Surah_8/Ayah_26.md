@@ -1,70 +1,70 @@
 ---
-arabic_ayat: وَاذۡكُرُوۡۤا اِذۡ اَنۡـتُمۡ قَلِيۡلٌ مُّسۡتَضۡعَفُوۡنَ فِى الۡاَرۡضِ
-  تَخَافُوۡنَ اَنۡ يَّتَخَطَّفَكُمُ النَّاسُ فَاٰوٰٮكُمۡ وَاَيَّدَكُمۡ بِنَصۡرِهٖ
-  وَرَزَقَكُمۡ مِّنَ الطَّيِّبٰتِ لَعَلَّكُمۡ تَشۡكُرُوۡنَ‏
+arabic_ayat: وَٱذۡكُرُوٓاْ إِذۡ أَنتُمۡ قَلِيلٞ مُّسۡتَضۡعَفُونَ فِي ٱلۡأَرۡضِ تَخَافُونَ
+  أَن يَتَخَطَّفَكُمُ ٱلنَّاسُ فَـَٔاوَىٰكُمۡ وَأَيَّدَكُم بِنَصۡرِهِۦ وَرَزَقَكُم
+  مِّنَ ٱلطَّيِّبَٰتِ لَعَلَّكُمۡ تَشۡكُرُونَ
 sentence_translation: Remember when you had been vastly outnumbered and oppressed
   in the land, constantly in fear of attacks by your enemy, then He sheltered you,
   strengthened you with His help, and provided you with good things so perhaps you
   would be thankful.
 word_by_word:
   1:
-    arabic: وَاذۡكُرُوۡۤا
+    arabic: وَٱذۡكُرُوٓاْ
     translation: And remember
     transliteration: wa-udh'kurū
   2:
-    arabic: اِذۡ
+    arabic: إِذۡ
     translation: when
     transliteration: idh
   3:
-    arabic: اَنۡـتُمۡ
+    arabic: أَنتُمۡ
     translation: you
     transliteration: antum
   4:
-    arabic: قَلِيۡلٌ
+    arabic: قَلِيلٞ
     translation: (were) few
     transliteration: qalīlun
   5:
-    arabic: مُّسۡتَضۡعَفُوۡنَ
+    arabic: مُّسۡتَضۡعَفُونَ
     translation: (and) deemed weak
     transliteration: mus'taḍʿafūna
   6:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   7:
-    arabic: الۡاَرۡضِ
+    arabic: ٱلۡأَرۡضِ
     translation: the earth
     transliteration: l-arḍi
   8:
-    arabic: تَخَافُوۡنَ
+    arabic: تَخَافُونَ
     translation: fearing
     transliteration: takhāfūna
   9:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that
     transliteration: an
   10:
-    arabic: يَّتَخَطَّفَكُمُ
+    arabic: يَتَخَطَّفَكُمُ
     translation: might do away with you
     transliteration: yatakhaṭṭafakumu
   11:
-    arabic: النَّاسُ
+    arabic: ٱلنَّاسُ
     translation: the men
     transliteration: l-nāsu
   12:
-    arabic: فَاٰوٰٮكُمۡ
+    arabic: فَـَٔاوَىٰكُمۡ
     translation: then He sheltered you
     transliteration: faāwākum
   13:
-    arabic: وَاَيَّدَكُمۡ
+    arabic: وَأَيَّدَكُم
     translation: and strengthened you
     transliteration: wa-ayyadakum
   14:
-    arabic: بِنَصۡرِهٖ
+    arabic: بِنَصۡرِهِۦ
     translation: with His help
     transliteration: binaṣrihi
   15:
-    arabic: وَرَزَقَكُمۡ
+    arabic: وَرَزَقَكُم
     translation: and provided you
     transliteration: warazaqakum
   16:
@@ -72,7 +72,7 @@ word_by_word:
     translation: of
     transliteration: mina
   17:
-    arabic: الطَّيِّبٰتِ
+    arabic: ٱلطَّيِّبَٰتِ
     translation: the good things
     transliteration: l-ṭayibāti
   18:
@@ -80,7 +80,7 @@ word_by_word:
     translation: so that you may
     transliteration: laʿallakum
   19:
-    arabic: تَشۡكُرُوۡنَ‏
+    arabic: تَشۡكُرُونَ
     translation: (be) thankful
     transliteration: tashkurūna
 ---

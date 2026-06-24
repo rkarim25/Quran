@@ -1,5 +1,5 @@
 ---
-arabic_ayat: وَحُمِلَتِ الۡاَرۡضُ وَ الۡجِبَالُ فَدُكَّتَا دَكَّةً وَّاحِدَةً ۙ‏
+arabic_ayat: وَحُمِلَتِ ٱلۡأَرۡضُ وَٱلۡجِبَالُ فَدُكَّتَا دَكَّةٗ وَٰحِدَةٗ
 sentence_translation: and the earth and mountains will be lifted up and crushed with
   one blow,
 word_by_word:
@@ -8,11 +8,11 @@ word_by_word:
     translation: And are lifted
     transliteration: waḥumilati
   2:
-    arabic: الۡاَرۡضُ
+    arabic: ٱلۡأَرۡضُ
     translation: the earth
     transliteration: l-arḍu
   3:
-    arabic: وَ الۡجِبَالُ
+    arabic: وَٱلۡجِبَالُ
     translation: and the mountains
     transliteration: wal-jibālu
   4:
@@ -20,11 +20,11 @@ word_by_word:
     translation: and crushed
     transliteration: fadukkatā
   5:
-    arabic: دَكَّةً
+    arabic: دَكَّةٗ
     translation: (with) a crushing
     transliteration: dakkatan
   6:
-    arabic: وَّاحِدَةً ۙ‏
+    arabic: وَٰحِدَةٗ
     translation: single
     transliteration: wāḥidatan
 ---

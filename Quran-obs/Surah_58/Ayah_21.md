@@ -1,6 +1,6 @@
 ---
-arabic_ayat: "كَتَبَ اللّٰهُ لَاَغۡلِبَنَّ اَنَا وَرُسُلِىۡ​ؕ اِنَّ اللّٰهَ قَوِىٌّ\
-  \ عَزِيۡزٌ‏ \uFEFF\uFEFF"
+arabic_ayat: كَتَبَ ٱللَّهُ لَأَغۡلِبَنَّ أَنَا۠ وَرُسُلِيٓۚ إِنَّ ٱللَّهَ قَوِيٌّ
+  عَزِيزٞ
 sentence_translation: Allah has decreed, “I and My messengers will certainly prevail.”
   Surely Allah is All-Powerful, Almighty.
 word_by_word:
@@ -9,35 +9,35 @@ word_by_word:
     translation: Allah has decreed
     transliteration: kataba
   2:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah has decreed
     transliteration: l-lahu
   3:
-    arabic: لَاَغۡلِبَنَّ
+    arabic: لَأَغۡلِبَنَّ
     translation: Surely, I will overcome
     transliteration: la-aghlibanna
   4:
-    arabic: اَنَا
+    arabic: أَنَا۠
     translation: I
     transliteration: anā
   5:
-    arabic: وَرُسُلِىۡ​ؕ
+    arabic: وَرُسُلِيٓۚ
     translation: and My Messengers
     transliteration: warusulī
   6:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   7:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   8:
-    arabic: قَوِىٌّ
+    arabic: قَوِيٌّ
     translation: (is) All-Strong
     transliteration: qawiyyun
   9:
-    arabic: "عَزِيۡزٌ‏ \uFEFF\uFEFF"
+    arabic: عَزِيزٞ
     translation: All-Mighty
     transliteration: ʿazīzun
 ---

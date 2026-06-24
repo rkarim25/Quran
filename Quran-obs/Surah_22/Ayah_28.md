@@ -1,17 +1,17 @@
 ---
-arabic_ayat: لِّيَشۡهَدُوۡا مَنَافِعَ لَهُمۡ وَيَذۡكُرُوا اسۡمَ اللّٰهِ فِىۡۤ اَ يَّامٍ
-  مَّعۡلُوۡمٰتٍ عَلٰى مَا رَزَقَهُمۡ مِّنۡۢ بَهِيۡمَةِ الۡاَنۡعَامِ​​ ۚ فَكُلُوۡا
-  مِنۡهَا وَاَطۡعِمُوا الۡبَآٮِٕسَ الۡفَقِيۡـرَ‏
+arabic_ayat: لِّيَشۡهَدُواْ مَنَٰفِعَ لَهُمۡ وَيَذۡكُرُواْ ٱسۡمَ ٱللَّهِ فِيٓ أَيَّامٖ
+  مَّعۡلُومَٰتٍ عَلَىٰ مَا رَزَقَهُم مِّنۢ بَهِيمَةِ ٱلۡأَنۡعَٰمِۖ فَكُلُواْ مِنۡهَا
+  وَأَطۡعِمُواْ ٱلۡبَآئِسَ ٱلۡفَقِيرَ
 sentence_translation: so they may obtain the benefits ˹in store˺ for them, and pronounce
   the Name of Allah on appointed days over the sacrificial animals He has provided
   for them. So eat from their meat and feed the desperately poor.
 word_by_word:
   1:
-    arabic: لِّيَشۡهَدُوۡا
+    arabic: لِّيَشۡهَدُواْ
     translation: That they may witness
     transliteration: liyashhadū
   2:
-    arabic: مَنَافِعَ
+    arabic: مَنَٰفِعَ
     translation: benefits
     transliteration: manāfiʿa
   3:
@@ -19,31 +19,31 @@ word_by_word:
     translation: for them
     transliteration: lahum
   4:
-    arabic: وَيَذۡكُرُوا
+    arabic: وَيَذۡكُرُواْ
     translation: and mention
     transliteration: wayadhkurū
   5:
-    arabic: اسۡمَ
+    arabic: ٱسۡمَ
     translation: (the) name
     transliteration: is'ma
   6:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (of) Allah
     transliteration: l-lahi
   7:
-    arabic: فِىۡۤ
+    arabic: فِيٓ
     translation: 'on'
     transliteration: fī
   8:
-    arabic: اَ يَّامٍ
+    arabic: أَيَّامٖ
     translation: days
     transliteration: ayyāmin
   9:
-    arabic: مَّعۡلُوۡمٰتٍ
+    arabic: مَّعۡلُومَٰتٍ
     translation: known
     transliteration: maʿlūmātin
   10:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: over
     transliteration: ʿalā
   11:
@@ -51,23 +51,23 @@ word_by_word:
     translation: what
     transliteration: mā
   12:
-    arabic: رَزَقَهُمۡ
+    arabic: رَزَقَهُم
     translation: He has provided them
     transliteration: razaqahum
   13:
-    arabic: مِّنۡۢ
+    arabic: مِّنۢ
     translation: of
     transliteration: min
   14:
-    arabic: بَهِيۡمَةِ
+    arabic: بَهِيمَةِ
     translation: (the) beast
     transliteration: bahīmati
   15:
-    arabic: الۡاَنۡعَامِ​​ ۚ
+    arabic: ٱلۡأَنۡعَٰمِۖ
     translation: (of) cattle
     transliteration: l-anʿāmi
   16:
-    arabic: فَكُلُوۡا
+    arabic: فَكُلُواْ
     translation: So eat
     transliteration: fakulū
   17:
@@ -75,15 +75,15 @@ word_by_word:
     translation: of them
     transliteration: min'hā
   18:
-    arabic: وَاَطۡعِمُوا
+    arabic: وَأَطۡعِمُواْ
     translation: and feed
     transliteration: wa-aṭʿimū
   19:
-    arabic: الۡبَآٮِٕسَ
+    arabic: ٱلۡبَآئِسَ
     translation: the miserable
     transliteration: l-bāisa
   20:
-    arabic: الۡفَقِيۡـرَ‏
+    arabic: ٱلۡفَقِيرَ
     translation: the poor
     transliteration: l-faqīra
 ---

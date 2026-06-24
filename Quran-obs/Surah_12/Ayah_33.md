@@ -1,6 +1,6 @@
 ---
-arabic_ayat: قَالَ رَبِّ السِّجۡنُ اَحَبُّ اِلَىَّ مِمَّا يَدۡعُوۡنَنِىۡۤ اِلَيۡهِ​ۚ
-  وَاِلَّا تَصۡرِفۡ عَنِّىۡ كَيۡدَهُنَّ اَصۡبُ اِلَيۡهِنَّ وَاَكُنۡ مِّنَ الۡجٰهِلِيۡنَ‏
+arabic_ayat: قَالَ رَبِّ ٱلسِّجۡنُ أَحَبُّ إِلَيَّ مِمَّا يَدۡعُونَنِيٓ إِلَيۡهِۖ
+  وَإِلَّا تَصۡرِفۡ عَنِّي كَيۡدَهُنَّ أَصۡبُ إِلَيۡهِنَّ وَأَكُن مِّنَ ٱلۡجَٰهِلِينَ
 sentence_translation: Joseph prayed, “My Lord! I would rather be in jail than do what
   they invite me to. And if You do not turn their cunning away from me, I might yield
   to them and fall into ignorance.”
@@ -14,15 +14,15 @@ word_by_word:
     translation: My Lord
     transliteration: rabbi
   3:
-    arabic: السِّجۡنُ
+    arabic: ٱلسِّجۡنُ
     translation: the prison
     transliteration: l-sij'nu
   4:
-    arabic: اَحَبُّ
+    arabic: أَحَبُّ
     translation: (is) dearer
     transliteration: aḥabbu
   5:
-    arabic: اِلَىَّ
+    arabic: إِلَيَّ
     translation: to me
     transliteration: ilayya
   6:
@@ -30,15 +30,15 @@ word_by_word:
     translation: than what
     transliteration: mimmā
   7:
-    arabic: يَدۡعُوۡنَنِىۡۤ
+    arabic: يَدۡعُونَنِيٓ
     translation: they invite me
     transliteration: yadʿūnanī
   8:
-    arabic: اِلَيۡهِ​ۚ
+    arabic: إِلَيۡهِۖ
     translation: to it
     transliteration: ilayhi
   9:
-    arabic: وَاِلَّا
+    arabic: وَإِلَّا
     translation: And unless
     transliteration: wa-illā
   10:
@@ -46,7 +46,7 @@ word_by_word:
     translation: You turn away
     transliteration: taṣrif
   11:
-    arabic: عَنِّىۡ
+    arabic: عَنِّي
     translation: from me
     transliteration: ʿannī
   12:
@@ -54,15 +54,15 @@ word_by_word:
     translation: their plot
     transliteration: kaydahunna
   13:
-    arabic: اَصۡبُ
+    arabic: أَصۡبُ
     translation: I might incline
     transliteration: aṣbu
   14:
-    arabic: اِلَيۡهِنَّ
+    arabic: إِلَيۡهِنَّ
     translation: towards them
     transliteration: ilayhinna
   15:
-    arabic: وَاَكُنۡ
+    arabic: وَأَكُن
     translation: and [I] be
     transliteration: wa-akun
   16:
@@ -70,7 +70,7 @@ word_by_word:
     translation: of
     transliteration: mina
   17:
-    arabic: الۡجٰهِلِيۡنَ‏
+    arabic: ٱلۡجَٰهِلِينَ
     translation: the ignorant
     transliteration: l-jāhilīna
 ---

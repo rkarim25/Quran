@@ -1,47 +1,47 @@
 ---
-arabic_ayat: "اِنَّمَا قَوۡلُـنَا لِشَىۡءٍ اِذَاۤ اَرَدۡنٰهُ اَنۡ نَّقُوۡلَ لَهٗ كُنۡ\
-  \ فَيَكُوۡنُ‏ \uFEFF\uFEFF"
+arabic_ayat: إِنَّمَا قَوۡلُنَا لِشَيۡءٍ إِذَآ أَرَدۡنَٰهُ أَن نَّقُولَ لَهُۥ كُن
+  فَيَكُونُ
 sentence_translation: 'If We ever will something ˹to exist˺, all We say is: “Be!”
   And it is!'
 word_by_word:
   1:
-    arabic: اِنَّمَا
+    arabic: إِنَّمَا
     translation: Only
     transliteration: innamā
   2:
-    arabic: قَوۡلُـنَا
+    arabic: قَوۡلُنَا
     translation: Our Word
     transliteration: qawlunā
   3:
-    arabic: لِشَىۡءٍ
+    arabic: لِشَيۡءٍ
     translation: to a thing
     transliteration: lishayin
   4:
-    arabic: اِذَاۤ
+    arabic: إِذَآ
     translation: when
     transliteration: idhā
   5:
-    arabic: اَرَدۡنٰهُ
+    arabic: أَرَدۡنَٰهُ
     translation: We intend it
     transliteration: aradnāhu
   6:
-    arabic: اَنۡ
+    arabic: أَن
     translation: (is) that
     transliteration: an
   7:
-    arabic: نَّقُوۡلَ
+    arabic: نَّقُولَ
     translation: We say
     transliteration: naqūla
   8:
-    arabic: لَهٗ
+    arabic: لَهُۥ
     translation: to it
     transliteration: lahu
   9:
-    arabic: كُنۡ
+    arabic: كُن
     translation: Be
     transliteration: kun
   10:
-    arabic: "فَيَكُوۡنُ‏ \uFEFF\uFEFF"
+    arabic: فَيَكُونُ
     translation: and it is
     transliteration: fayakūnu
 ---

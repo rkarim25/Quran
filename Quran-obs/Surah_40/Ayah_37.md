@@ -1,50 +1,50 @@
 ---
-arabic_ayat: اَسۡبَابَ السَّمٰوٰتِ فَاَطَّلِعَ اِلٰٓى اِلٰهِ مُوۡسٰى وَاِنِّىۡ لَاَظُنُّهٗ
-  كَاذِبًا ؕ وَكَذٰلِكَ زُيِّنَ لِفِرۡعَوۡنَ سُوۡٓءُ عَمَلِهٖ وَصُدَّ عَنِ السَّبِيۡلِ
-  ؕ وَمَا كَيۡدُ فِرۡعَوۡنَ اِلَّا فِىۡ تَبَابٍ‏
+arabic_ayat: أَسۡبَٰبَ ٱلسَّمَٰوَٰتِ فَأَطَّلِعَ إِلَىٰٓ إِلَٰهِ مُوسَىٰ وَإِنِّي
+  لَأَظُنُّهُۥ كَٰذِبٗاۚ وَكَذَٰلِكَ زُيِّنَ لِفِرۡعَوۡنَ سُوٓءُ عَمَلِهِۦ وَصُدَّ
+  عَنِ ٱلسَّبِيلِۚ وَمَا كَيۡدُ فِرۡعَوۡنَ إِلَّا فِي تَبَابٖ
 sentence_translation: leading up to the heavens and look for the God of Moses, although
   I am sure he is a liar.” And so Pharaoh’s evil deeds were made so appealing to him
   that he was hindered from the ˹Right˺ Way. But the plotting of Pharaoh was only
   in vain.
 word_by_word:
   1:
-    arabic: اَسۡبَابَ
+    arabic: أَسۡبَٰبَ
     translation: (The) ways
     transliteration: asbāba
   2:
-    arabic: السَّمٰوٰتِ
+    arabic: ٱلسَّمَٰوَٰتِ
     translation: (to) the heavens
     transliteration: l-samāwāti
   3:
-    arabic: فَاَطَّلِعَ
+    arabic: فَأَطَّلِعَ
     translation: so I may look
     transliteration: fa-aṭṭaliʿa
   4:
-    arabic: اِلٰٓى
+    arabic: إِلَىٰٓ
     translation: at
     transliteration: ilā
   5:
-    arabic: اِلٰهِ
+    arabic: إِلَٰهِ
     translation: (the) God
     transliteration: ilāhi
   6:
-    arabic: مُوۡسٰى
+    arabic: مُوسَىٰ
     translation: (of) Musa
     transliteration: mūsā
   7:
-    arabic: وَاِنِّىۡ
+    arabic: وَإِنِّي
     translation: and indeed, I
     transliteration: wa-innī
   8:
-    arabic: لَاَظُنُّهٗ
+    arabic: لَأَظُنُّهُۥ
     translation: '[I] surely think him'
     transliteration: la-aẓunnuhu
   9:
-    arabic: كَاذِبًا ؕ
+    arabic: كَٰذِبٗاۚ
     translation: (to be) a liar
     transliteration: kādhiban
   10:
-    arabic: وَكَذٰلِكَ
+    arabic: وَكَذَٰلِكَ
     translation: And thus
     transliteration: wakadhālika
   11:
@@ -56,11 +56,11 @@ word_by_word:
     translation: to Firaun
     transliteration: lifir'ʿawna
   13:
-    arabic: سُوۡٓءُ
+    arabic: سُوٓءُ
     translation: (the) evil
     transliteration: sūu
   14:
-    arabic: عَمَلِهٖ
+    arabic: عَمَلِهِۦ
     translation: (of) his deed
     transliteration: ʿamalihi
   15:
@@ -72,7 +72,7 @@ word_by_word:
     translation: from
     transliteration: ʿani
   17:
-    arabic: السَّبِيۡلِ ؕ
+    arabic: ٱلسَّبِيلِۚ
     translation: the way
     transliteration: l-sabīli
   18:
@@ -88,15 +88,15 @@ word_by_word:
     translation: (of) Firaun
     transliteration: fir'ʿawna
   21:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   22:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   23:
-    arabic: تَبَابٍ‏
+    arabic: تَبَابٖ
     translation: ruin
     transliteration: tabābin
 ---

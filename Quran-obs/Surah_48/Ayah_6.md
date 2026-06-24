@@ -1,39 +1,38 @@
 ---
-arabic_ayat: "وَّيُعَذِّبَ الۡمُنٰفِقِيۡنَ وَالۡمُنٰفِقٰتِ وَالۡمُشۡرِكِيۡنَ وَ الۡمُشۡرِكٰتِ\
-  \ الظَّآنِّيۡنَ بِاللّٰهِ ظَنَّ السَّوۡءِ​ؕ عَلَيۡهِمۡ دَآٮِٕرَةُ السَّوۡءِ​ ۚ\
-  \ وَ غَضِبَ اللّٰهُ عَلَيۡهِمۡ وَلَعَنَهُمۡ وَاَعَدَّ لَهُمۡ جَهَنَّمَؕ وَسَآءَتۡ\
-  \ مَصِيۡرًا‏ \uFEFF\uFEFF"
+arabic_ayat: وَيُعَذِّبَ ٱلۡمُنَٰفِقِينَ وَٱلۡمُنَٰفِقَٰتِ وَٱلۡمُشۡرِكِينَ وَٱلۡمُشۡرِكَٰتِ
+  ٱلظَّآنِّينَ بِٱللَّهِ ظَنَّ ٱلسَّوۡءِۚ عَلَيۡهِمۡ دَآئِرَةُ ٱلسَّوۡءِۖ وَغَضِبَ
+  ٱللَّهُ عَلَيۡهِمۡ وَلَعَنَهُمۡ وَأَعَدَّ لَهُمۡ جَهَنَّمَۖ وَسَآءَتۡ مَصِيرٗا
 sentence_translation: Also ˹so that˺ He may punish hypocrite men and women and polytheistic
   men and women, who harbour evil thoughts of Allah. May ill-fate befall them! Allah
   is displeased with them. He has condemned them and prepared for them Hell. What
   an evil destination!
 word_by_word:
   1:
-    arabic: وَّيُعَذِّبَ
+    arabic: وَيُعَذِّبَ
     translation: And He (may) punish
     transliteration: wayuʿadhiba
   2:
-    arabic: الۡمُنٰفِقِيۡنَ
+    arabic: ٱلۡمُنَٰفِقِينَ
     translation: the hypocrite men
     transliteration: l-munāfiqīna
   3:
-    arabic: وَالۡمُنٰفِقٰتِ
+    arabic: وَٱلۡمُنَٰفِقَٰتِ
     translation: and the hypocrite women
     transliteration: wal-munāfiqāti
   4:
-    arabic: وَالۡمُشۡرِكِيۡنَ
+    arabic: وَٱلۡمُشۡرِكِينَ
     translation: and the polytheist men
     transliteration: wal-mush'rikīna
   5:
-    arabic: وَ الۡمُشۡرِكٰتِ
+    arabic: وَٱلۡمُشۡرِكَٰتِ
     translation: and the polytheist women
     transliteration: wal-mush'rikāti
   6:
-    arabic: الظَّآنِّيۡنَ
+    arabic: ٱلظَّآنِّينَ
     translation: who assume
     transliteration: l-ẓānīna
   7:
-    arabic: بِاللّٰهِ
+    arabic: بِٱللَّهِ
     translation: about Allah
     transliteration: bil-lahi
   8:
@@ -41,7 +40,7 @@ word_by_word:
     translation: an assumption
     transliteration: ẓanna
   9:
-    arabic: السَّوۡءِ​ؕ
+    arabic: ٱلسَّوۡءِۚ
     translation: evil
     transliteration: l-sawi
   10:
@@ -49,19 +48,19 @@ word_by_word:
     translation: Upon them
     transliteration: ʿalayhim
   11:
-    arabic: دَآٮِٕرَةُ
+    arabic: دَآئِرَةُ
     translation: (is) a turn
     transliteration: dāiratu
   12:
-    arabic: السَّوۡءِ​ ۚ
+    arabic: ٱلسَّوۡءِۖ
     translation: (of) evil
     transliteration: l-sawi
   13:
-    arabic: وَ غَضِبَ
+    arabic: وَغَضِبَ
     translation: and Allah's wrath (is)
     transliteration: waghaḍiba
   14:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: and Allah's wrath (is)
     transliteration: l-lahu
   15:
@@ -73,7 +72,7 @@ word_by_word:
     translation: and He has cursed them
     transliteration: walaʿanahum
   17:
-    arabic: وَاَعَدَّ
+    arabic: وَأَعَدَّ
     translation: and prepared
     transliteration: wa-aʿadda
   18:
@@ -81,7 +80,7 @@ word_by_word:
     translation: for them
     transliteration: lahum
   19:
-    arabic: جَهَنَّمَؕ
+    arabic: جَهَنَّمَۖ
     translation: Hell
     transliteration: jahannama
   20:
@@ -89,7 +88,7 @@ word_by_word:
     translation: and evil
     transliteration: wasāat
   21:
-    arabic: "مَصِيۡرًا‏ \uFEFF\uFEFF"
+    arabic: مَصِيرٗا
     translation: (is the) destination
     transliteration: maṣīran
 ---

@@ -1,17 +1,17 @@
 ---
-arabic_ayat: وَاِذَا الرُّسُلُ اُقِّتَتۡؕ‏
+arabic_ayat: وَإِذَا ٱلرُّسُلُ أُقِّتَتۡ
 sentence_translation: and the messengers’ time ˹to testify˺ comes up—
 word_by_word:
   1:
-    arabic: وَاِذَا
+    arabic: وَإِذَا
     translation: And when
     transliteration: wa-idhā
   2:
-    arabic: الرُّسُلُ
+    arabic: ٱلرُّسُلُ
     translation: the Messengers
     transliteration: l-rusulu
   3:
-    arabic: اُقِّتَتۡؕ‏
+    arabic: أُقِّتَتۡ
     translation: are gathered to their appointed time
     transliteration: uqqitat
 ---

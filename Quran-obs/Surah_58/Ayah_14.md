@@ -1,13 +1,12 @@
 ---
-arabic_ayat: "اَلَمۡ تَرَ اِلَى الَّذِيۡنَ تَوَلَّوۡا قَوۡمًا غَضِبَ اللّٰهُ عَلَيۡهِمؕۡ\
-  \ مَّا هُمۡ مِّنۡكُمۡ وَلَا مِنۡهُمۡۙ وَيَحۡلِفُوۡنَ عَلَى الۡكَذِبِ وَهُمۡ يَعۡلَمُوۡنَ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: ۞ أَلَمۡ تَرَ إِلَى ٱلَّذِينَ تَوَلَّوۡاْ قَوۡمًا غَضِبَ ٱللَّهُ عَلَيۡهِم
+  مَّا هُم مِّنكُمۡ وَلَا مِنۡهُمۡ وَيَحۡلِفُونَ عَلَى ٱلۡكَذِبِ وَهُمۡ يَعۡلَمُونَ
 sentence_translation: Have you not seen those ˹hypocrites˺ who ally themselves with
   a people with whom Allah is displeased? They are neither with you nor with them.
   And they swear to lies knowingly.
 word_by_word:
   1:
-    arabic: ۞ اَلَمۡ
+    arabic: ۞ أَلَمۡ
     translation: Do not
     transliteration: alam
   2:
@@ -15,15 +14,15 @@ word_by_word:
     translation: you see
     transliteration: tara
   3:
-    arabic: اِلَى
+    arabic: إِلَى
     translation: '[to]'
     transliteration: ilā
   4:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   5:
-    arabic: تَوَلَّوۡا
+    arabic: تَوَلَّوۡاْ
     translation: take as allies
     transliteration: tawallaw
   6:
@@ -35,11 +34,11 @@ word_by_word:
     translation: wrath
     transliteration: ghaḍiba
   8:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: (of) Allah
     transliteration: l-lahu
   9:
-    arabic: عَلَيۡهِمؕۡ
+    arabic: عَلَيۡهِم
     translation: (is) upon them
     transliteration: ʿalayhim
   10:
@@ -47,11 +46,11 @@ word_by_word:
     translation: They (are) not
     transliteration: mā
   11:
-    arabic: هُمۡ
+    arabic: هُم
     translation: They (are) not
     transliteration: hum
   12:
-    arabic: مِّنۡكُمۡ
+    arabic: مِّنكُمۡ
     translation: of you
     transliteration: minkum
   13:
@@ -59,11 +58,11 @@ word_by_word:
     translation: and not
     transliteration: walā
   14:
-    arabic: مِنۡهُمۡۙ
+    arabic: مِنۡهُمۡ
     translation: of them
     transliteration: min'hum
   15:
-    arabic: وَيَحۡلِفُوۡنَ
+    arabic: وَيَحۡلِفُونَ
     translation: and they swear
     transliteration: wayaḥlifūna
   16:
@@ -71,7 +70,7 @@ word_by_word:
     translation: to
     transliteration: ʿalā
   17:
-    arabic: الۡكَذِبِ
+    arabic: ٱلۡكَذِبِ
     translation: the lie
     transliteration: l-kadhibi
   18:
@@ -79,7 +78,7 @@ word_by_word:
     translation: while they
     transliteration: wahum
   19:
-    arabic: يَعۡلَمُوۡنَ
+    arabic: يَعۡلَمُونَ
     translation: know
     transliteration: yaʿlamūna
 ---

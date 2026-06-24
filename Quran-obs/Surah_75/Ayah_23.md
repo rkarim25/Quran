@@ -1,9 +1,9 @@
 ---
-arabic_ayat: اِلٰى رَبِّهَا نَاظِرَةٌ​ ۚ‏
+arabic_ayat: إِلَىٰ رَبِّهَا نَاظِرَةٞ
 sentence_translation: looking at their Lord.
 word_by_word:
   1:
-    arabic: اِلٰى
+    arabic: إِلَىٰ
     translation: Towards
     transliteration: ilā
   2:
@@ -11,7 +11,7 @@ word_by_word:
     translation: their Lord
     transliteration: rabbihā
   3:
-    arabic: نَاظِرَةٌ​ ۚ‏
+    arabic: نَاظِرَةٞ
     translation: looking
     transliteration: nāẓiratun
 ---

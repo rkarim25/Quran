@@ -1,6 +1,6 @@
 ---
-arabic_ayat: كِلۡتَا الۡجَـنَّتَيۡنِ اٰتَتۡ اُكُلَهَا وَلَمۡ تَظۡلِمۡ مِّنۡهُ شَيۡــًٔـا​
-  ۙ وَّفَجَّرۡنَا خِلٰـلَهُمَا نَهَرًا ۙ‏
+arabic_ayat: كِلۡتَا ٱلۡجَنَّتَيۡنِ ءَاتَتۡ أُكُلَهَا وَلَمۡ تَظۡلِم مِّنۡهُ شَيۡـٔٗاۚ
+  وَفَجَّرۡنَا خِلَٰلَهُمَا نَهَرٗا
 sentence_translation: Each garden yielded ˹all˺ its produce, never falling short.
   And We caused a river to flow between them.
 word_by_word:
@@ -9,15 +9,15 @@ word_by_word:
     translation: Each
     transliteration: kil'tā
   2:
-    arabic: الۡجَـنَّتَيۡنِ
+    arabic: ٱلۡجَنَّتَيۡنِ ءَ
     translation: (of) the two gardens
     transliteration: l-janatayni
   3:
-    arabic: اٰتَتۡ
+    arabic: اتَتۡ
     translation: brought forth
     transliteration: ātat
   4:
-    arabic: اُكُلَهَا
+    arabic: أُكُلَهَا
     translation: its produce
     transliteration: ukulahā
   5:
@@ -25,7 +25,7 @@ word_by_word:
     translation: and not
     transliteration: walam
   6:
-    arabic: تَظۡلِمۡ
+    arabic: تَظۡلِم
     translation: did wrong
     transliteration: taẓlim
   7:
@@ -33,19 +33,19 @@ word_by_word:
     translation: of it
     transliteration: min'hu
   8:
-    arabic: شَيۡــًٔـا​ ۙ
+    arabic: شَيۡـٔٗاۚ
     translation: anything
     transliteration: shayan
   9:
-    arabic: وَّفَجَّرۡنَا
+    arabic: وَفَجَّرۡنَا
     translation: And We caused to gush forth
     transliteration: wafajjarnā
   10:
-    arabic: خِلٰـلَهُمَا
+    arabic: خِلَٰلَهُمَا
     translation: within them
     transliteration: khilālahumā
   11:
-    arabic: نَهَرًا ۙ‏
+    arabic: نَهَرٗا
     translation: a river
     transliteration: naharan
 ---

@@ -1,7 +1,7 @@
 ---
-arabic_ayat: فَلَمَّا دَخَلُوۡا عَلَيۡهِ قَالُوۡا يٰۤاَيُّهَا الۡعَزِيۡزُ مَسَّنَا
-  وَاَهۡلَنَا الضُّرُّ وَجِئۡنَا بِبِضَاعَةٍ مُّزۡجٰٮةٍ فَاَوۡفِ لَنَا الۡكَيۡلَ وَتَصَدَّقۡ
-  عَلَيۡنَاؕ اِنَّ اللّٰهَ يَجۡزِى الۡمُتَصَدِّقِيۡنَ‏
+arabic_ayat: فَلَمَّا دَخَلُواْ عَلَيۡهِ قَالُواْ يَٰٓأَيُّهَا ٱلۡعَزِيزُ مَسَّنَا
+  وَأَهۡلَنَا ٱلضُّرُّ وَجِئۡنَا بِبِضَٰعَةٖ مُّزۡجَىٰةٖ فَأَوۡفِ لَنَا ٱلۡكَيۡلَ
+  وَتَصَدَّقۡ عَلَيۡنَآۖ إِنَّ ٱللَّهَ يَجۡزِي ٱلۡمُتَصَدِّقِينَ
 sentence_translation: When they entered Joseph’s presence, they pleaded, “O Chief
   Minister! We and our family have been touched with hardship, and we have brought
   only a few worthless coins, but ˹please˺ give us our supplies in full and be charitable
@@ -12,7 +12,7 @@ word_by_word:
     translation: So when
     transliteration: falammā
   2:
-    arabic: دَخَلُوۡا
+    arabic: دَخَلُواْ
     translation: they entered
     transliteration: dakhalū
   3:
@@ -20,15 +20,15 @@ word_by_word:
     translation: upon him
     transliteration: ʿalayhi
   4:
-    arabic: قَالُوۡا
+    arabic: قَالُواْ
     translation: they said
     transliteration: qālū
   5:
-    arabic: يٰۤاَيُّهَا
+    arabic: يَٰٓأَيُّهَا
     translation: O Aziz
     transliteration: yāayyuhā
   6:
-    arabic: الۡعَزِيۡزُ
+    arabic: ٱلۡعَزِيزُ
     translation: O Aziz
     transliteration: l-ʿazīzu
   7:
@@ -36,11 +36,11 @@ word_by_word:
     translation: Has touched us
     transliteration: massanā
   8:
-    arabic: وَاَهۡلَنَا
+    arabic: وَأَهۡلَنَا
     translation: and our family
     transliteration: wa-ahlanā
   9:
-    arabic: الضُّرُّ
+    arabic: ٱلضُّرُّ
     translation: the adversity
     transliteration: l-ḍuru
   10:
@@ -48,15 +48,15 @@ word_by_word:
     translation: and we have come
     transliteration: waji'nā
   11:
-    arabic: بِبِضَاعَةٍ
+    arabic: بِبِضَٰعَةٖ
     translation: with goods
     transliteration: bibiḍāʿatin
   12:
-    arabic: مُّزۡجٰٮةٍ
+    arabic: مُّزۡجَىٰةٖ
     translation: (of) little value
     transliteration: muz'jātin
   13:
-    arabic: فَاَوۡفِ
+    arabic: فَأَوۡفِ
     translation: but pay (in) full
     transliteration: fa-awfi
   14:
@@ -64,7 +64,7 @@ word_by_word:
     translation: to us
     transliteration: lanā
   15:
-    arabic: الۡكَيۡلَ
+    arabic: ٱلۡكَيۡلَ
     translation: the measure
     transliteration: l-kayla
   16:
@@ -72,23 +72,23 @@ word_by_word:
     translation: and be charitable
     transliteration: wataṣaddaq
   17:
-    arabic: عَلَيۡنَاؕ
+    arabic: عَلَيۡنَآۖ
     translation: to us
     transliteration: ʿalaynā
   18:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   19:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   20:
-    arabic: يَجۡزِى
+    arabic: يَجۡزِي
     translation: rewards
     transliteration: yajzī
   21:
-    arabic: الۡمُتَصَدِّقِيۡنَ‏
+    arabic: ٱلۡمُتَصَدِّقِينَ
     translation: the charitable
     transliteration: l-mutaṣadiqīna
 ---

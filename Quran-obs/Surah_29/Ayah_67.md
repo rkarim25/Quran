@@ -1,21 +1,20 @@
 ---
-arabic_ayat: "اَوَلَمۡ يَرَوۡا اَنَّا جَعَلۡنَا حَرَمًا اٰمِنًا وَّيُتَخَطَّفُ النَّاسُ\
-  \ مِنۡ حَوۡلِهِمۡ​ ؕ اَفَبِالۡبَاطِلِ يُؤۡمِنُوۡنَ وَبِنِعۡمَةِ اللّٰهِ يَكۡفُرُوۡنَ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: أَوَلَمۡ يَرَوۡاْ أَنَّا جَعَلۡنَا حَرَمًا ءَامِنٗا وَيُتَخَطَّفُ ٱلنَّاسُ
+  مِنۡ حَوۡلِهِمۡۚ أَفَبِٱلۡبَٰطِلِ يُؤۡمِنُونَ وَبِنِعۡمَةِ ٱللَّهِ يَكۡفُرُونَ
 sentence_translation: Have they not seen how We have made ˹Mecca˺ a safe haven, whereas
   people ˹all˺ around them are snatched away? How can they then believe in falsehood and
   deny Allah’s favours?
 word_by_word:
   1:
-    arabic: اَوَلَمۡ
+    arabic: أَوَلَمۡ
     translation: Do not
     transliteration: awalam
   2:
-    arabic: يَرَوۡا
+    arabic: يَرَوۡاْ
     translation: they see
     transliteration: yaraw
   3:
-    arabic: اَنَّا
+    arabic: أَنَّا
     translation: that We
     transliteration: annā
   4:
@@ -23,19 +22,19 @@ word_by_word:
     translation: have made
     transliteration: jaʿalnā
   5:
-    arabic: حَرَمًا
+    arabic: حَرَمًا ءَ
     translation: a Sanctuary
     transliteration: ḥaraman
   6:
-    arabic: اٰمِنًا
+    arabic: امِنٗا
     translation: secure
     transliteration: āminan
   7:
-    arabic: وَّيُتَخَطَّفُ
+    arabic: وَيُتَخَطَّفُ
     translation: while are being taken away
     transliteration: wayutakhaṭṭafu
   8:
-    arabic: النَّاسُ
+    arabic: ٱلنَّاسُ
     translation: the people
     transliteration: l-nāsu
   9:
@@ -43,15 +42,15 @@ word_by_word:
     translation: around them
     transliteration: min
   10:
-    arabic: حَوۡلِهِمۡ​ ؕ
+    arabic: حَوۡلِهِمۡۚ
     translation: around them
     transliteration: ḥawlihim
   11:
-    arabic: اَفَبِالۡبَاطِلِ
+    arabic: أَفَبِٱلۡبَٰطِلِ
     translation: Then do in (the) falsehood
     transliteration: afabil-bāṭili
   12:
-    arabic: يُؤۡمِنُوۡنَ
+    arabic: يُؤۡمِنُونَ
     translation: they believe
     transliteration: yu'minūna
   13:
@@ -59,11 +58,11 @@ word_by_word:
     translation: and in (the) Favor
     transliteration: wabiniʿ'mati
   14:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (of) Allah
     transliteration: l-lahi
   15:
-    arabic: "يَكۡفُرُوۡنَ‏ \uFEFF\uFEFF"
+    arabic: يَكۡفُرُونَ
     translation: they disbelieve
     transliteration: yakfurūna
 ---

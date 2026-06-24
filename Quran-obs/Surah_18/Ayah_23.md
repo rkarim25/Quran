@@ -1,5 +1,5 @@
 ---
-arabic_ayat: وَلَا تَقُوۡلَنَّ لِشَاىۡءٍ اِنِّىۡ فَاعِلٌ ذٰ لِكَ غَدًا ۙ‏
+arabic_ayat: وَلَا تَقُولَنَّ لِشَاْيۡءٍ إِنِّي فَاعِلٞ ذَٰلِكَ غَدًا
 sentence_translation: And never say of anything, “I will definitely do this tomorrow,”
 word_by_word:
   1:
@@ -7,27 +7,27 @@ word_by_word:
     translation: And (do) not
     transliteration: walā
   2:
-    arabic: تَقُوۡلَنَّ
+    arabic: تَقُولَنَّ
     translation: say
     transliteration: taqūlanna
   3:
-    arabic: لِشَاىۡءٍ
+    arabic: لِشَاْيۡءٍ
     translation: of anything
     transliteration: lishāy'in
   4:
-    arabic: اِنِّىۡ
+    arabic: إِنِّي
     translation: Indeed, I
     transliteration: innī
   5:
-    arabic: فَاعِلٌ
+    arabic: فَاعِلٞ
     translation: will do
     transliteration: fāʿilun
   6:
-    arabic: ذٰ لِكَ
+    arabic: ذَٰلِكَ
     translation: that
     transliteration: dhālika
   7:
-    arabic: غَدًا ۙ‏
+    arabic: غَدًا
     translation: tomorrow
     transliteration: ghadan
 ---

@@ -1,9 +1,9 @@
 ---
-arabic_ayat: وَدُّوۡا لَوۡ تُدۡهِنُ فَيُدۡهِنُوۡنَ‏
+arabic_ayat: وَدُّواْ لَوۡ تُدۡهِنُ فَيُدۡهِنُونَ
 sentence_translation: They wish you would compromise so they would yield ˹to you˺.
 word_by_word:
   1:
-    arabic: وَدُّوۡا
+    arabic: وَدُّواْ
     translation: They wish
     transliteration: waddū
   2:
@@ -15,7 +15,7 @@ word_by_word:
     translation: you should compromise
     transliteration: tud'hinu
   4:
-    arabic: فَيُدۡهِنُوۡنَ‏
+    arabic: فَيُدۡهِنُونَ
     translation: so they would compromise
     transliteration: fayud'hinūna
 ---

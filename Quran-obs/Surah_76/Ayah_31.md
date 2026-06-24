@@ -1,35 +1,35 @@
 ---
-arabic_ayat: يُّدۡخِلُ مَنۡ يَّشَآءُ فِىۡ رَحۡمَتِهٖ​ؕ وَالظّٰلِمِيۡنَ اَعَدَّ لَهُمۡ
-  عَذَابًا اَلِيۡمًا‏
+arabic_ayat: يُدۡخِلُ مَن يَشَآءُ فِي رَحۡمَتِهِۦۚ وَٱلظَّٰلِمِينَ أَعَدَّ لَهُمۡ
+  عَذَابًا أَلِيمَۢا
 sentence_translation: He admits whoever He wills into His mercy. As for the wrongdoers,
   He has prepared for them a painful punishment
 word_by_word:
   1:
-    arabic: يُّدۡخِلُ
+    arabic: يُدۡخِلُ
     translation: He admits
     transliteration: yud'khilu
   2:
-    arabic: مَنۡ
+    arabic: مَن
     translation: whom
     transliteration: man
   3:
-    arabic: يَّشَآءُ
+    arabic: يَشَآءُ
     translation: He wills
     transliteration: yashāu
   4:
-    arabic: فِىۡ
+    arabic: فِي
     translation: into
     transliteration: fī
   5:
-    arabic: رَحۡمَتِهٖ​ؕ
+    arabic: رَحۡمَتِهِۦۚ
     translation: His mercy
     transliteration: raḥmatihi
   6:
-    arabic: وَالظّٰلِمِيۡنَ
+    arabic: وَٱلظَّٰلِمِينَ
     translation: but (for) the wrongdoers
     transliteration: wal-ẓālimīna
   7:
-    arabic: اَعَدَّ
+    arabic: أَعَدَّ
     translation: He has prepared
     transliteration: aʿadda
   8:
@@ -41,7 +41,7 @@ word_by_word:
     translation: a punishment
     transliteration: ʿadhāban
   10:
-    arabic: اَلِيۡمًا‏
+    arabic: أَلِيمَۢا
     translation: painful
     transliteration: alīman
 ---

@@ -1,11 +1,10 @@
 ---
-arabic_ayat: "قُلْ لَّا تُسۡـــَٔلُوۡنَ عَمَّاۤ اَجۡرَمۡنَا وَلَا نُسۡــَٔـلُ عَمَّا\
-  \ تَعۡمَلُوۡنَ‏ \uFEFF\uFEFF"
+arabic_ayat: قُل لَّا تُسۡـَٔلُونَ عَمَّآ أَجۡرَمۡنَا وَلَا نُسۡـَٔلُ عَمَّا تَعۡمَلُونَ
 sentence_translation: Say, “You will not be accountable for our misdeeds, nor will
   we be accountable for your deeds.”
 word_by_word:
   1:
-    arabic: قُلْ
+    arabic: قُل
     translation: Say
     transliteration: qul
   2:
@@ -13,15 +12,15 @@ word_by_word:
     translation: Not
     transliteration: lā
   3:
-    arabic: تُسۡـــَٔلُوۡنَ
+    arabic: تُسۡـَٔلُونَ
     translation: you will be asked
     transliteration: tus'alūna
   4:
-    arabic: عَمَّاۤ
+    arabic: عَمَّآ
     translation: about what
     transliteration: ʿammā
   5:
-    arabic: اَجۡرَمۡنَا
+    arabic: أَجۡرَمۡنَا
     translation: sins we committed
     transliteration: ajramnā
   6:
@@ -29,7 +28,7 @@ word_by_word:
     translation: and not
     transliteration: walā
   7:
-    arabic: نُسۡــَٔـلُ
+    arabic: نُسۡـَٔلُ
     translation: we will be asked
     transliteration: nus'alu
   8:
@@ -37,7 +36,7 @@ word_by_word:
     translation: about what
     transliteration: ʿammā
   9:
-    arabic: "تَعۡمَلُوۡنَ‏ \uFEFF\uFEFF"
+    arabic: تَعۡمَلُونَ
     translation: you do
     transliteration: taʿmalūna
 ---

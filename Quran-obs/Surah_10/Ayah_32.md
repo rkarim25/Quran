@@ -1,15 +1,15 @@
 ---
-arabic_ayat: فَذٰلِكُمُ اللّٰهُ رَبُّكُمُ الۡحَـقُّ ​ ۚ فَمَاذَا بَعۡدَ الۡحَـقِّ
-  اِلَّا الضَّلٰلُ​​ ۚ فَاَنّٰى تُصۡرَفُوۡنَ‏
+arabic_ayat: فَذَٰلِكُمُ ٱللَّهُ رَبُّكُمُ ٱلۡحَقُّۖ فَمَاذَا بَعۡدَ ٱلۡحَقِّ إِلَّا
+  ٱلضَّلَٰلُۖ فَأَنَّىٰ تُصۡرَفُونَ
 sentence_translation: That is Allah—your True Lord. So what is beyond the truth except
   falsehood? How can you then be turned away?”
 word_by_word:
   1:
-    arabic: فَذٰلِكُمُ
+    arabic: فَذَٰلِكُمُ
     translation: For that
     transliteration: fadhālikumu
   2:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: (is) Allah
     transliteration: l-lahu
   3:
@@ -17,7 +17,7 @@ word_by_word:
     translation: your Lord
     transliteration: rabbukumu
   4:
-    arabic: الۡحَـقُّ ​ ۚ
+    arabic: ٱلۡحَقُّۖ
     translation: the true
     transliteration: l-ḥaqu
   5:
@@ -29,23 +29,23 @@ word_by_word:
     translation: after
     transliteration: baʿda
   7:
-    arabic: الۡحَـقِّ
+    arabic: ٱلۡحَقِّ
     translation: the truth
     transliteration: l-ḥaqi
   8:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   9:
-    arabic: الضَّلٰلُ​​ ۚ
+    arabic: ٱلضَّلَٰلُۖ
     translation: the error
     transliteration: l-ḍalālu
   10:
-    arabic: فَاَنّٰى
+    arabic: فَأَنَّىٰ
     translation: So how
     transliteration: fa-annā
   11:
-    arabic: تُصۡرَفُوۡنَ‏
+    arabic: تُصۡرَفُونَ
     translation: (are) you turned away
     transliteration: tuṣ'rafūna
 ---

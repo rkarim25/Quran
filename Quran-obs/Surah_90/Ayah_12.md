@@ -1,14 +1,14 @@
 ---
-arabic_ayat: وَمَاۤ اَدۡرٰٮكَ مَا الۡعَقَبَةُ ؕ‏
+arabic_ayat: وَمَآ أَدۡرَىٰكَ مَا ٱلۡعَقَبَةُ
 sentence_translation: And what will make you realize what ˹attempting˺ the challenging
   path is?
 word_by_word:
   1:
-    arabic: وَمَاۤ
+    arabic: وَمَآ
     translation: And what
     transliteration: wamā
   2:
-    arabic: اَدۡرٰٮكَ
+    arabic: أَدۡرَىٰكَ
     translation: can make you know
     transliteration: adrāka
   3:
@@ -16,7 +16,7 @@ word_by_word:
     translation: what
     transliteration: mā
   4:
-    arabic: الۡعَقَبَةُ ؕ‏
+    arabic: ٱلۡعَقَبَةُ
     translation: the steep path (is)
     transliteration: l-ʿaqabatu
 ---

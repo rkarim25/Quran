@@ -1,16 +1,15 @@
 ---
-arabic_ayat: "اِذۡ دَخَلُوۡا عَلَيۡهِ فَقَالُوۡا سَلٰمًا​ؕ قَالَ سَلٰمٌ ۚ قَوۡمٌ مُّنۡكَرُوۡنَ​‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: إِذۡ دَخَلُواْ عَلَيۡهِ فَقَالُواْ سَلَٰمٗاۖ قَالَ سَلَٰمٞ قَوۡمٞ مُّنكَرُونَ
 sentence_translation: ˹Remember˺ when they entered his presence and greeted ˹him with˺,
   “Peace!” He replied, “Peace ˹be upon you˺!” ˹Then he said to himself,˺ “˹These are˺
   an unfamiliar people.”
 word_by_word:
   1:
-    arabic: اِذۡ
+    arabic: إِذۡ
     translation: When
     transliteration: idh
   2:
-    arabic: دَخَلُوۡا
+    arabic: دَخَلُواْ
     translation: they entered
     transliteration: dakhalū
   3:
@@ -18,11 +17,11 @@ word_by_word:
     translation: upon him
     transliteration: ʿalayhi
   4:
-    arabic: فَقَالُوۡا
+    arabic: فَقَالُواْ
     translation: and said
     transliteration: faqālū
   5:
-    arabic: سَلٰمًا​ؕ
+    arabic: سَلَٰمٗاۖ
     translation: Peace
     transliteration: salāman
   6:
@@ -30,15 +29,15 @@ word_by_word:
     translation: He said
     transliteration: qāla
   7:
-    arabic: سَلٰمٌ ۚ
+    arabic: سَلَٰمٞ
     translation: Peace
     transliteration: salāmun
   8:
-    arabic: قَوۡمٌ
+    arabic: قَوۡمٞ
     translation: a people
     transliteration: qawmun
   9:
-    arabic: "مُّنۡكَرُوۡنَ​‏ \uFEFF\uFEFF"
+    arabic: مُّنكَرُونَ
     translation: unknown
     transliteration: munkarūna
 ---

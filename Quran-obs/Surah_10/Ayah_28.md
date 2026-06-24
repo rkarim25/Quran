@@ -1,7 +1,7 @@
 ---
-arabic_ayat: وَيَوۡمَ نَحۡشُرُهُمۡ جَمِيۡعًا ثُمَّ نَقُوۡلُ لِلَّذِيۡنَ اَشۡرَكُوۡا
-  مَكَانَكُمۡ اَنۡتُمۡ وَشُرَكَآؤُكُمۡ​ۚ فَزَيَّلۡنَا بَيۡنَهُمۡ​ وَقَالَ شُرَكَآؤُهُمۡ
-  مَّا كُنۡتُمۡ اِيَّانَا تَعۡبُدُوۡنَ‏
+arabic_ayat: وَيَوۡمَ نَحۡشُرُهُمۡ جَمِيعٗا ثُمَّ نَقُولُ لِلَّذِينَ أَشۡرَكُواْ مَكَانَكُمۡ
+  أَنتُمۡ وَشُرَكَآؤُكُمۡۚ فَزَيَّلۡنَا بَيۡنَهُمۡۖ وَقَالَ شُرَكَآؤُهُم مَّا كُنتُمۡ
+  إِيَّانَا تَعۡبُدُونَ
 sentence_translation: ˹Consider˺ the Day We will gather them all together then say
   to those who associated others ˹with Allah in worship˺, “Stay in your places—you
   and your associate-gods.” We will separate them from each other, and their associate-gods
@@ -16,7 +16,7 @@ word_by_word:
     translation: We will gather them
     transliteration: naḥshuruhum
   3:
-    arabic: جَمِيۡعًا
+    arabic: جَمِيعٗا
     translation: all together
     transliteration: jamīʿan
   4:
@@ -24,15 +24,15 @@ word_by_word:
     translation: then
     transliteration: thumma
   5:
-    arabic: نَقُوۡلُ
+    arabic: نَقُولُ
     translation: We will say
     transliteration: naqūlu
   6:
-    arabic: لِلَّذِيۡنَ
+    arabic: لِلَّذِينَ
     translation: to those who
     transliteration: lilladhīna
   7:
-    arabic: اَشۡرَكُوۡا
+    arabic: أَشۡرَكُواْ
     translation: associate partners (with Allah)
     transliteration: ashrakū
   8:
@@ -40,11 +40,11 @@ word_by_word:
     translation: (Remain in) your place
     transliteration: makānakum
   9:
-    arabic: اَنۡتُمۡ
+    arabic: أَنتُمۡ
     translation: you
     transliteration: antum
   10:
-    arabic: وَشُرَكَآؤُكُمۡ​ۚ
+    arabic: وَشُرَكَآؤُكُمۡۚ
     translation: and your partners
     transliteration: washurakāukum
   11:
@@ -52,7 +52,7 @@ word_by_word:
     translation: Then We will separate
     transliteration: fazayyalnā
   12:
-    arabic: بَيۡنَهُمۡ​
+    arabic: بَيۡنَهُمۡۖ
     translation: '[between] them'
     transliteration: baynahum
   13:
@@ -60,7 +60,7 @@ word_by_word:
     translation: and (will) say
     transliteration: waqāla
   14:
-    arabic: شُرَكَآؤُهُمۡ
+    arabic: شُرَكَآؤُهُم
     translation: their partners
     transliteration: shurakāuhum
   15:
@@ -68,15 +68,15 @@ word_by_word:
     translation: Not
     transliteration: mā
   16:
-    arabic: كُنۡتُمۡ
+    arabic: كُنتُمۡ
     translation: you used (to)
     transliteration: kuntum
   17:
-    arabic: اِيَّانَا
+    arabic: إِيَّانَا
     translation: worship us
     transliteration: iyyānā
   18:
-    arabic: تَعۡبُدُوۡنَ‏
+    arabic: تَعۡبُدُونَ
     translation: worship us
     transliteration: taʿbudūna
 ---

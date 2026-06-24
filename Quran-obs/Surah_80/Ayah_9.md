@@ -1,5 +1,5 @@
 ---
-arabic_ayat: وَهُوَ يَخۡشٰىۙ‏
+arabic_ayat: وَهُوَ يَخۡشَىٰ
 sentence_translation: being in awe ˹of Allah˺,
 word_by_word:
   1:
@@ -7,7 +7,7 @@ word_by_word:
     translation: While he
     transliteration: wahuwa
   2:
-    arabic: يَخۡشٰىۙ‏
+    arabic: يَخۡشَىٰ
     translation: fears
     transliteration: yakhshā
 ---

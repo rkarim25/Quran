@@ -1,5 +1,5 @@
 ---
-arabic_ayat: ثُمَّ اِنَّ عَلَيۡنَا بَيَانَهٗؕ‏
+arabic_ayat: ثُمَّ إِنَّ عَلَيۡنَا بَيَانَهُۥ
 sentence_translation: Then it is surely upon Us to make it clear ˹to you˺.
 word_by_word:
   1:
@@ -7,7 +7,7 @@ word_by_word:
     translation: Then
     transliteration: thumma
   2:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: indeed
     transliteration: inna
   3:
@@ -15,7 +15,7 @@ word_by_word:
     translation: upon Us
     transliteration: ʿalaynā
   4:
-    arabic: بَيَانَهٗؕ‏
+    arabic: بَيَانَهُۥ
     translation: (is) its explanation
     transliteration: bayānahu
 ---

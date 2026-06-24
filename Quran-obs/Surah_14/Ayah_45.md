@@ -1,32 +1,32 @@
 ---
-arabic_ayat: وَّسَكَنۡتُمۡ فِىۡ مَسٰكِنِ الَّذِيۡنَ ظَلَمُوۡۤا اَنۡفُسَهُمۡ وَتَبَيَّنَ
-  لَـكُمۡ كَيۡفَ فَعَلۡنَا بِهِمۡ وَضَرَبۡنَا لَـكُمُ الۡاَمۡثَالَ‏
+arabic_ayat: وَسَكَنتُمۡ فِي مَسَٰكِنِ ٱلَّذِينَ ظَلَمُوٓاْ أَنفُسَهُمۡ وَتَبَيَّنَ
+  لَكُمۡ كَيۡفَ فَعَلۡنَا بِهِمۡ وَضَرَبۡنَا لَكُمُ ٱلۡأَمۡثَالَ
 sentence_translation: You passed by the ruins of those ˹destroyed peoples˺ who had
   wronged themselves. It was made clear to you how We dealt with them, and We gave
   you ˹many˺ examples.
 word_by_word:
   1:
-    arabic: وَّسَكَنۡتُمۡ
+    arabic: وَسَكَنتُمۡ
     translation: And you dwelt
     transliteration: wasakantum
   2:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   3:
-    arabic: مَسٰكِنِ
+    arabic: مَسَٰكِنِ
     translation: the dwellings
     transliteration: masākini
   4:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: (of) those who
     transliteration: alladhīna
   5:
-    arabic: ظَلَمُوۡۤا
+    arabic: ظَلَمُوٓاْ
     translation: wronged
     transliteration: ẓalamū
   6:
-    arabic: اَنۡفُسَهُمۡ
+    arabic: أَنفُسَهُمۡ
     translation: themselves
     transliteration: anfusahum
   7:
@@ -34,7 +34,7 @@ word_by_word:
     translation: and it had become clear
     transliteration: watabayyana
   8:
-    arabic: لَـكُمۡ
+    arabic: لَكُمۡ
     translation: to you
     transliteration: lakum
   9:
@@ -54,11 +54,11 @@ word_by_word:
     translation: and We put forth
     transliteration: waḍarabnā
   13:
-    arabic: لَـكُمُ
+    arabic: لَكُمُ
     translation: for you
     transliteration: lakumu
   14:
-    arabic: الۡاَمۡثَالَ‏
+    arabic: ٱلۡأَمۡثَالَ
     translation: the examples
     transliteration: l-amthāla
 ---

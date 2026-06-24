@@ -1,11 +1,11 @@
 ---
-arabic_ayat: اۨلَّذِىۡ جَعَلَ مَعَ اللّٰهِ اِلٰهًا اٰخَرَ فَاَ لۡقِيٰهُ فِى الۡعَذَابِ
-  الشَّدِيۡدِ‏
+arabic_ayat: ٱلَّذِي جَعَلَ مَعَ ٱللَّهِ إِلَٰهًا ءَاخَرَ فَأَلۡقِيَاهُ فِي ٱلۡعَذَابِ
+  ٱلشَّدِيدِ
 sentence_translation: who set up another god with Allah. So cast them into the severe
   punishment.”
 word_by_word:
   1:
-    arabic: اۨلَّذِىۡ
+    arabic: ٱلَّذِي
     translation: Who
     transliteration: alladhī
   2:
@@ -17,31 +17,31 @@ word_by_word:
     translation: with
     transliteration: maʿa
   4:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   5:
-    arabic: اِلٰهًا
+    arabic: إِلَٰهًا ءَ
     translation: a god
     transliteration: ilāhan
   6:
-    arabic: اٰخَرَ
+    arabic: اخَرَ
     translation: another
     transliteration: ākhara
   7:
-    arabic: فَاَ لۡقِيٰهُ
+    arabic: فَأَلۡقِيَاهُ
     translation: so throw him
     transliteration: fa-alqiyāhu
   8:
-    arabic: فِى
+    arabic: فِي
     translation: in(to)
     transliteration: fī
   9:
-    arabic: الۡعَذَابِ
+    arabic: ٱلۡعَذَابِ
     translation: the punishment
     transliteration: l-ʿadhābi
   10:
-    arabic: الشَّدِيۡدِ‏
+    arabic: ٱلشَّدِيدِ
     translation: the severe
     transliteration: l-shadīdi
 ---

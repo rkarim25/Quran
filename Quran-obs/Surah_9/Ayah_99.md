@@ -1,8 +1,7 @@
 ---
-arabic_ayat: "وَمِنَ الۡاَعۡرَابِ مَنۡ يُّؤۡمِنُ بِاللّٰهِ وَالۡيَوۡمِ الۡاٰخِرِ وَيَتَّخِذُ\
-  \ مَا يُنۡفِقُ قُرُبٰتٍ عِنۡدَ اللّٰهِ وَصَلَوٰتِ الرَّسُوۡلِ​ؕ اَلَاۤ اِنَّهَا\
-  \ قُرۡبَةٌ لَّهُمۡ​ؕ سَيُدۡخِلُهُمُ اللّٰهُ فِىۡ رَحۡمَتِهٖ​ ؕ اِنَّ اللّٰهَ غَفُوۡرٌ\
-  \ رَّحِيۡمٌ‏ \uFEFF\uFEFF"
+arabic_ayat: وَمِنَ ٱلۡأَعۡرَابِ مَن يُؤۡمِنُ بِٱللَّهِ وَٱلۡيَوۡمِ ٱلۡأٓخِرِ وَيَتَّخِذُ
+  مَا يُنفِقُ قُرُبَٰتٍ عِندَ ٱللَّهِ وَصَلَوَٰتِ ٱلرَّسُولِۚ أَلَآ إِنَّهَا قُرۡبَةٞ
+  لَّهُمۡۚ سَيُدۡخِلُهُمُ ٱللَّهُ فِي رَحۡمَتِهِۦٓۚ إِنَّ ٱللَّهَ غَفُورٞ رَّحِيمٞ
 sentence_translation: However, among the nomadic Arabs are those who believe in Allah
   and the Last Day, and consider what they donate as a means of coming closer to Allah
   and ˹receiving˺ the prayers of the Messenger. It will certainly bring them closer.
@@ -13,27 +12,27 @@ word_by_word:
     translation: But among
     transliteration: wamina
   2:
-    arabic: الۡاَعۡرَابِ
+    arabic: ٱلۡأَعۡرَابِ
     translation: the bedouins
     transliteration: l-aʿrābi
   3:
-    arabic: مَنۡ
+    arabic: مَن
     translation: (is he) who
     transliteration: man
   4:
-    arabic: يُّؤۡمِنُ
+    arabic: يُؤۡمِنُ
     translation: believes
     transliteration: yu'minu
   5:
-    arabic: بِاللّٰهِ
+    arabic: بِٱللَّهِ
     translation: in Allah
     transliteration: bil-lahi
   6:
-    arabic: وَالۡيَوۡمِ
+    arabic: وَٱلۡيَوۡمِ
     translation: and the Day
     transliteration: wal-yawmi
   7:
-    arabic: الۡاٰخِرِ
+    arabic: ٱلۡأٓخِرِ
     translation: the Last
     transliteration: l-ākhiri
   8:
@@ -45,43 +44,43 @@ word_by_word:
     translation: what
     transliteration: mā
   10:
-    arabic: يُنۡفِقُ
+    arabic: يُنفِقُ
     translation: he spends
     transliteration: yunfiqu
   11:
-    arabic: قُرُبٰتٍ
+    arabic: قُرُبَٰتٍ
     translation: (as) means of nearness
     transliteration: qurubātin
   12:
-    arabic: عِنۡدَ
+    arabic: عِندَ
     translation: with
     transliteration: ʿinda
   13:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   14:
-    arabic: وَصَلَوٰتِ
+    arabic: وَصَلَوَٰتِ
     translation: and blessings
     transliteration: waṣalawāti
   15:
-    arabic: الرَّسُوۡلِ​ؕ
+    arabic: ٱلرَّسُولِۚ
     translation: (of) the Messenger
     transliteration: l-rasūli
   16:
-    arabic: اَلَاۤ
+    arabic: أَلَآ
     translation: Behold
     transliteration: alā
   17:
-    arabic: اِنَّهَا
+    arabic: إِنَّهَا
     translation: Indeed, it
     transliteration: innahā
   18:
-    arabic: قُرۡبَةٌ
+    arabic: قُرۡبَةٞ
     translation: (is) a means of nearness
     transliteration: qur'batun
   19:
-    arabic: لَّهُمۡ​ؕ
+    arabic: لَّهُمۡۚ
     translation: for them
     transliteration: lahum
   20:
@@ -89,31 +88,31 @@ word_by_word:
     translation: Allah will admit them
     transliteration: sayud'khiluhumu
   21:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah will admit them
     transliteration: l-lahu
   22:
-    arabic: فِىۡ
+    arabic: فِي
     translation: to
     transliteration: fī
   23:
-    arabic: رَحۡمَتِهٖ​ ؕ
+    arabic: رَحۡمَتِهِۦٓۚ
     translation: His Mercy
     transliteration: raḥmatihi
   24:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   25:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   26:
-    arabic: غَفُوۡرٌ
+    arabic: غَفُورٞ
     translation: (is) Oft-Forgiving
     transliteration: ghafūrun
   27:
-    arabic: "رَّحِيۡمٌ‏ \uFEFF\uFEFF"
+    arabic: رَّحِيمٞ
     translation: Most Merciful
     transliteration: raḥīmun
 ---

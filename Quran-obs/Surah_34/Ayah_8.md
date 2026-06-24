@@ -1,12 +1,12 @@
 ---
-arabic_ayat: اَ فۡتَـرٰى عَلَى اللّٰهِ كَذِبًا اَمۡ بِهٖ جِنَّةٌ  ؕ بَلِ الَّذِيۡنَ
-  لَا يُؤۡمِنُوۡنَ بِالۡاٰخِرَةِ فِى الۡعَذَابِ وَالضَّلٰلِ الۡبَعِيۡدِ‏
+arabic_ayat: أَفۡتَرَىٰ عَلَى ٱللَّهِ كَذِبًا أَم بِهِۦ جِنَّةُۢۗ بَلِ ٱلَّذِينَ لَا
+  يُؤۡمِنُونَ بِٱلۡأٓخِرَةِ فِي ٱلۡعَذَابِ وَٱلضَّلَٰلِ ٱلۡبَعِيدِ
 sentence_translation: Has he fabricated a lie against Allah or is he insane?” In fact,
   those who do not believe in the Hereafter are bound for torment and have strayed
   farthest ˹from the truth˺.
 word_by_word:
   1:
-    arabic: اَ فۡتَـرٰى
+    arabic: أَفۡتَرَىٰ
     translation: Has he invented
     transliteration: aftarā
   2:
@@ -14,7 +14,7 @@ word_by_word:
     translation: about
     transliteration: ʿalā
   3:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   4:
@@ -22,15 +22,15 @@ word_by_word:
     translation: a lie
     transliteration: kadhiban
   5:
-    arabic: اَمۡ
+    arabic: أَم
     translation: or
     transliteration: am
   6:
-    arabic: بِهٖ
+    arabic: بِهِۦ
     translation: in him
     transliteration: bihi
   7:
-    arabic: جِنَّةٌ  ؕ
+    arabic: جِنَّةُۢۗ
     translation: (is) madness
     transliteration: jinnatun
   8:
@@ -38,7 +38,7 @@ word_by_word:
     translation: Nay
     transliteration: bali
   9:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   10:
@@ -46,27 +46,27 @@ word_by_word:
     translation: (do) not
     transliteration: lā
   11:
-    arabic: يُؤۡمِنُوۡنَ
+    arabic: يُؤۡمِنُونَ
     translation: believe
     transliteration: yu'minūna
   12:
-    arabic: بِالۡاٰخِرَةِ
+    arabic: بِٱلۡأٓخِرَةِ
     translation: in the Hereafter
     transliteration: bil-ākhirati
   13:
-    arabic: فِى
+    arabic: فِي
     translation: (will be) in
     transliteration: fī
   14:
-    arabic: الۡعَذَابِ
+    arabic: ٱلۡعَذَابِ
     translation: the punishment
     transliteration: l-ʿadhābi
   15:
-    arabic: وَالضَّلٰلِ
+    arabic: وَٱلضَّلَٰلِ
     translation: and error
     transliteration: wal-ḍalāli
   16:
-    arabic: الۡبَعِيۡدِ‏
+    arabic: ٱلۡبَعِيدِ
     translation: far
     transliteration: l-baʿīdi
 ---

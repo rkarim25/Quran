@@ -1,11 +1,11 @@
 ---
-arabic_ayat: اَفَمَنۡ حَقَّ عَلَيۡهِ كَلِمَةُ الۡعَذَابِ ؕ اَفَاَنۡتَ تُنۡقِذُ مَنۡ
-  فِى النَّارِ​ ۚ‏
+arabic_ayat: أَفَمَنۡ حَقَّ عَلَيۡهِ كَلِمَةُ ٱلۡعَذَابِ أَفَأَنتَ تُنقِذُ مَن فِي
+  ٱلنَّارِ
 sentence_translation: What about those against whom the decree of torment has been
   justified? Is it you ˹O Prophet˺ who will then save those bound for the Fire?
 word_by_word:
   1:
-    arabic: اَفَمَنۡ
+    arabic: أَفَمَنۡ
     translation: Then, is (one) who
     transliteration: afaman
   2:
@@ -21,27 +21,27 @@ word_by_word:
     translation: the word
     transliteration: kalimatu
   5:
-    arabic: الۡعَذَابِ ؕ
+    arabic: ٱلۡعَذَابِ
     translation: (of) the punishment
     transliteration: l-ʿadhābi
   6:
-    arabic: اَفَاَنۡتَ
+    arabic: أَفَأَنتَ
     translation: Then can you
     transliteration: afa-anta
   7:
-    arabic: تُنۡقِذُ
+    arabic: تُنقِذُ
     translation: save
     transliteration: tunqidhu
   8:
-    arabic: مَنۡ
+    arabic: مَن
     translation: (one) who
     transliteration: man
   9:
-    arabic: فِى
+    arabic: فِي
     translation: (is) in
     transliteration: fī
   10:
-    arabic: النَّارِ​ ۚ‏
+    arabic: ٱلنَّارِ
     translation: the Fire
     transliteration: l-nāri
 ---

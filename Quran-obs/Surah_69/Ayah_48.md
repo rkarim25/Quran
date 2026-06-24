@@ -1,17 +1,17 @@
 ---
-arabic_ayat: وَاِنَّهٗ لَتَذۡكِرَةٌ لِّلۡمُتَّقِيۡنَ‏
+arabic_ayat: وَإِنَّهُۥ لَتَذۡكِرَةٞ لِّلۡمُتَّقِينَ
 sentence_translation: Indeed, this ˹Quran˺ is a reminder to those mindful ˹of Allah˺.
 word_by_word:
   1:
-    arabic: وَاِنَّهٗ
+    arabic: وَإِنَّهُۥ
     translation: And indeed, it
     transliteration: wa-innahu
   2:
-    arabic: لَتَذۡكِرَةٌ
+    arabic: لَتَذۡكِرَةٞ
     translation: (is) surely a reminder
     transliteration: latadhkiratun
   3:
-    arabic: لِّلۡمُتَّقِيۡنَ‏
+    arabic: لِّلۡمُتَّقِينَ
     translation: for the Allah-fearing
     transliteration: lil'muttaqīna
 ---

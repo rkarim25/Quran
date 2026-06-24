@@ -1,6 +1,6 @@
 ---
-arabic_ayat: وَلَقَدۡ صَرَّفۡنَا فِىۡ هٰذَا الۡقُرۡاٰنِ لِلنَّاسِ مِنۡ كُلِّ مَثَلٍ​
-  ؕ وَكَانَ الۡاِنۡسَانُ اَكۡثَرَ شَىۡءٍ جَدَلًا‏
+arabic_ayat: وَلَقَدۡ صَرَّفۡنَا فِي هَٰذَا ٱلۡقُرۡءَانِ لِلنَّاسِ مِن كُلِّ مَثَلٖۚ
+  وَكَانَ ٱلۡإِنسَٰنُ أَكۡثَرَ شَيۡءٖ جَدَلٗا
 sentence_translation: We have surely set forth in this Quran every ˹kind of˺ lesson
   for people, but humankind is the most argumentative of all beings.
 word_by_word:
@@ -13,15 +13,15 @@ word_by_word:
     translation: We have explained
     transliteration: ṣarrafnā
   3:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   4:
-    arabic: هٰذَا
+    arabic: هَٰذَا
     translation: this
     transliteration: hādhā
   5:
-    arabic: الۡقُرۡاٰنِ
+    arabic: ٱلۡقُرۡءَانِ
     translation: the Quran
     transliteration: l-qur'āni
   6:
@@ -29,7 +29,7 @@ word_by_word:
     translation: for mankind
     transliteration: lilnnāsi
   7:
-    arabic: مِنۡ
+    arabic: مِن
     translation: of
     transliteration: min
   8:
@@ -37,7 +37,7 @@ word_by_word:
     translation: every
     transliteration: kulli
   9:
-    arabic: مَثَلٍ​ ؕ
+    arabic: مَثَلٖۚ
     translation: example
     transliteration: mathalin
   10:
@@ -45,19 +45,19 @@ word_by_word:
     translation: But is
     transliteration: wakāna
   11:
-    arabic: الۡاِنۡسَانُ
+    arabic: ٱلۡإِنسَٰنُ
     translation: the man
     transliteration: l-insānu
   12:
-    arabic: اَكۡثَرَ
+    arabic: أَكۡثَرَ
     translation: (in) most
     transliteration: akthara
   13:
-    arabic: شَىۡءٍ
+    arabic: شَيۡءٖ
     translation: things
     transliteration: shayin
   14:
-    arabic: جَدَلًا‏
+    arabic: جَدَلٗا
     translation: quarrelsome
     transliteration: jadalan
 ---

@@ -1,11 +1,10 @@
 ---
-arabic_ayat: "وَاٰيَةٌ لَّهُمۡ اَنَّا حَمَلۡنَا ذُرِّيَّتَهُمۡ فِى الۡفُلۡكِ الۡمَشۡحُوۡنِۙ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: وَءَايَةٞ لَّهُمۡ أَنَّا حَمَلۡنَا ذُرِّيَّتَهُمۡ فِي ٱلۡفُلۡكِ ٱلۡمَشۡحُونِ
 sentence_translation: Another sign for them is that We carried their ancestors ˹with
   Noah˺ in the fully loaded Ark,
 word_by_word:
   1:
-    arabic: وَاٰيَةٌ
+    arabic: وَءَايَةٞ
     translation: And a Sign
     transliteration: waāyatun
   2:
@@ -13,7 +12,7 @@ word_by_word:
     translation: for them
     transliteration: lahum
   3:
-    arabic: اَنَّا
+    arabic: أَنَّا
     translation: (is) that
     transliteration: annā
   4:
@@ -25,15 +24,15 @@ word_by_word:
     translation: their offspring
     transliteration: dhurriyyatahum
   6:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   7:
-    arabic: الۡفُلۡكِ
+    arabic: ٱلۡفُلۡكِ
     translation: the ship
     transliteration: l-ful'ki
   8:
-    arabic: "الۡمَشۡحُوۡنِۙ‏ \uFEFF\uFEFF"
+    arabic: ٱلۡمَشۡحُونِ
     translation: laden
     transliteration: l-mashḥūni
 ---

@@ -1,31 +1,31 @@
 ---
-arabic_ayat: فَذَرۡنِىۡ وَمَنۡ يُّكَذِّبُ بِهٰذَا الۡحَـدِيۡثِ​ؕ سَنَسۡتَدۡرِجُهُمۡ
-  مِّنۡ حَيۡثُ لَا يَعۡلَمُوۡنَۙ‏
+arabic_ayat: فَذَرۡنِي وَمَن يُكَذِّبُ بِهَٰذَا ٱلۡحَدِيثِۖ سَنَسۡتَدۡرِجُهُم مِّنۡ
+  حَيۡثُ لَا يَعۡلَمُونَ
 sentence_translation: So leave to Me ˹O Prophet˺ those who reject this message. We
   will gradually draw them to destruction in ways they cannot comprehend.
 word_by_word:
   1:
-    arabic: فَذَرۡنِىۡ
+    arabic: فَذَرۡنِي
     translation: So leave Me
     transliteration: fadharnī
   2:
-    arabic: وَمَنۡ
+    arabic: وَمَن
     translation: and whoever
     transliteration: waman
   3:
-    arabic: يُّكَذِّبُ
+    arabic: يُكَذِّبُ
     translation: denies
     transliteration: yukadhibu
   4:
-    arabic: بِهٰذَا
+    arabic: بِهَٰذَا
     translation: this
     transliteration: bihādhā
   5:
-    arabic: الۡحَـدِيۡثِ​ؕ
+    arabic: ٱلۡحَدِيثِۖ
     translation: Statement
     transliteration: l-ḥadīthi
   6:
-    arabic: سَنَسۡتَدۡرِجُهُمۡ
+    arabic: سَنَسۡتَدۡرِجُهُم
     translation: We will progressively lead them
     transliteration: sanastadrijuhum
   7:
@@ -41,7 +41,7 @@ word_by_word:
     translation: not
     transliteration: lā
   10:
-    arabic: يَعۡلَمُوۡنَۙ‏
+    arabic: يَعۡلَمُونَ
     translation: they know
     transliteration: yaʿlamūna
 ---

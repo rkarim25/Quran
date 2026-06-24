@@ -1,6 +1,6 @@
 ---
-arabic_ayat: وَمَنۡ اَعۡرَضَ عَنۡ ذِكۡرِىۡ فَاِنَّ لَـهٗ مَعِيۡشَةً ضَنۡكًا وَّنَحۡشُرُهٗ
-  يَوۡمَ الۡقِيٰمَةِ اَعۡمٰى‏
+arabic_ayat: وَمَنۡ أَعۡرَضَ عَن ذِكۡرِي فَإِنَّ لَهُۥ مَعِيشَةٗ ضَنكٗا وَنَحۡشُرُهُۥ
+  يَوۡمَ ٱلۡقِيَٰمَةِ أَعۡمَىٰ
 sentence_translation: But whoever turns away from My Reminder will certainly have
   a miserable life, then We will raise them up blind on the Day of Judgment.”
 word_by_word:
@@ -9,35 +9,35 @@ word_by_word:
     translation: And whoever
     transliteration: waman
   2:
-    arabic: اَعۡرَضَ
+    arabic: أَعۡرَضَ
     translation: turns away
     transliteration: aʿraḍa
   3:
-    arabic: عَنۡ
+    arabic: عَن
     translation: from
     transliteration: ʿan
   4:
-    arabic: ذِكۡرِىۡ
+    arabic: ذِكۡرِي
     translation: My remembrance
     transliteration: dhik'rī
   5:
-    arabic: فَاِنَّ
+    arabic: فَإِنَّ
     translation: then indeed
     transliteration: fa-inna
   6:
-    arabic: لَـهٗ
+    arabic: لَهُۥ
     translation: for him
     transliteration: lahu
   7:
-    arabic: مَعِيۡشَةً
+    arabic: مَعِيشَةٗ
     translation: (is) a life
     transliteration: maʿīshatan
   8:
-    arabic: ضَنۡكًا
+    arabic: ضَنكٗا
     translation: straitened
     transliteration: ḍankan
   9:
-    arabic: وَّنَحۡشُرُهٗ
+    arabic: وَنَحۡشُرُهُۥ
     translation: and We will gather him
     transliteration: wanaḥshuruhu
   10:
@@ -45,11 +45,11 @@ word_by_word:
     translation: (on the) Day
     transliteration: yawma
   11:
-    arabic: الۡقِيٰمَةِ
+    arabic: ٱلۡقِيَٰمَةِ
     translation: (of) the Resurrection
     transliteration: l-qiyāmati
   12:
-    arabic: اَعۡمٰى‏
+    arabic: أَعۡمَىٰ
     translation: blind
     transliteration: aʿmā
 ---

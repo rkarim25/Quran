@@ -1,13 +1,13 @@
 ---
-arabic_ayat: وَالۡقُرۡاٰنِ الۡحَكِيۡمِ ۙ‏
+arabic_ayat: وَٱلۡقُرۡءَانِ ٱلۡحَكِيمِ
 sentence_translation: By the Quran, rich in wisdom!
 word_by_word:
   1:
-    arabic: وَالۡقُرۡاٰنِ
+    arabic: وَٱلۡقُرۡءَانِ
     translation: By the Quran
     transliteration: wal-qur'āni
   2:
-    arabic: الۡحَكِيۡمِ ۙ‏
+    arabic: ٱلۡحَكِيمِ
     translation: the Wise
     transliteration: l-ḥakīmi
 ---

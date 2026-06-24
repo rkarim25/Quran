@@ -1,6 +1,6 @@
 ---
-arabic_ayat: كَذَّبَ الَّذِيۡنَ مِنۡ قَبۡلِهِمۡ فَاَتٰٮهُمُ الۡعَذَابُ مِنۡ حَيۡثُ
-  لَا يَشۡعُرُوۡنَ‏
+arabic_ayat: كَذَّبَ ٱلَّذِينَ مِن قَبۡلِهِمۡ فَأَتَىٰهُمُ ٱلۡعَذَابُ مِنۡ حَيۡثُ
+  لَا يَشۡعُرُونَ
 sentence_translation: Those before them ˹also˺ rejected ˹the truth˺, then the torment
   came upon them from where they least expected.
 word_by_word:
@@ -9,11 +9,11 @@ word_by_word:
     translation: Denied
     transliteration: kadhaba
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   3:
-    arabic: مِنۡ
+    arabic: مِن
     translation: (were) before them
     transliteration: min
   4:
@@ -21,11 +21,11 @@ word_by_word:
     translation: (were) before them
     transliteration: qablihim
   5:
-    arabic: فَاَتٰٮهُمُ
+    arabic: فَأَتَىٰهُمُ
     translation: so came upon them
     transliteration: fa-atāhumu
   6:
-    arabic: الۡعَذَابُ
+    arabic: ٱلۡعَذَابُ
     translation: the punishment
     transliteration: l-ʿadhābu
   7:
@@ -41,7 +41,7 @@ word_by_word:
     translation: not
     transliteration: lā
   10:
-    arabic: يَشۡعُرُوۡنَ‏
+    arabic: يَشۡعُرُونَ
     translation: they perceive
     transliteration: yashʿurūna
 ---

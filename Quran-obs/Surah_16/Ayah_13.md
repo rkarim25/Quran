@@ -1,6 +1,6 @@
 ---
-arabic_ayat: وَمَا ذَرَاَ لَـكُمۡ فِى الۡاَرۡضِ مُخۡتَلِفًا اَلۡوَانُهٗ​ ؕ اِنَّ فِىۡ
-  ذٰ لِكَ لَاٰيَةً لّـِقَوۡمٍ يَّذَّكَّرُوۡنَ‏
+arabic_ayat: وَمَا ذَرَأَ لَكُمۡ فِي ٱلۡأَرۡضِ مُخۡتَلِفًا أَلۡوَٰنُهُۥٓۚ إِنَّ فِي
+  ذَٰلِكَ لَأٓيَةٗ لِّقَوۡمٖ يَذَّكَّرُونَ
 sentence_translation: And ˹He subjected˺ for you whatever He has created on earth
   of varying colours. Surely in this is a sign for those who are mindful.
 word_by_word:
@@ -9,19 +9,19 @@ word_by_word:
     translation: And whatever
     transliteration: wamā
   2:
-    arabic: ذَرَاَ
+    arabic: ذَرَأَ
     translation: He multiplied
     transliteration: dhara-a
   3:
-    arabic: لَـكُمۡ
+    arabic: لَكُمۡ
     translation: for you
     transliteration: lakum
   4:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   5:
-    arabic: الۡاَرۡضِ
+    arabic: ٱلۡأَرۡضِ
     translation: the earth
     transliteration: l-arḍi
   6:
@@ -29,31 +29,31 @@ word_by_word:
     translation: (of) varying
     transliteration: mukh'talifan
   7:
-    arabic: اَلۡوَانُهٗ​ ؕ
+    arabic: أَلۡوَٰنُهُۥٓۚ
     translation: colors
     transliteration: alwānuhu
   8:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   9:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   10:
-    arabic: ذٰ لِكَ
+    arabic: ذَٰلِكَ
     translation: that
     transliteration: dhālika
   11:
-    arabic: لَاٰيَةً
+    arabic: لَأٓيَةٗ
     translation: surely (is) a sign
     transliteration: laāyatan
   12:
-    arabic: لّـِقَوۡمٍ
+    arabic: لِّقَوۡمٖ
     translation: for a people
     transliteration: liqawmin
   13:
-    arabic: يَّذَّكَّرُوۡنَ‏
+    arabic: يَذَّكَّرُونَ
     translation: who remember
     transliteration: yadhakkarūna
 ---

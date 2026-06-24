@@ -1,31 +1,31 @@
 ---
-arabic_ayat: فَاَخَذَهُمُ الۡعَذَابُ​ؕ اِنَّ فِىۡ ذٰ لِكَ لَاٰيَةً​  ؕ وَمَا كَانَ
-  اَكۡثَرُهُمۡ مُّؤۡمِنِيۡنَ‏
+arabic_ayat: فَأَخَذَهُمُ ٱلۡعَذَابُۚ إِنَّ فِي ذَٰلِكَ لَأٓيَةٗۖ وَمَا كَانَ أَكۡثَرُهُم
+  مُّؤۡمِنِينَ
 sentence_translation: So the punishment overtook them. Surely in this is a sign. Yet
   most of them would not believe.
 word_by_word:
   1:
-    arabic: فَاَخَذَهُمُ
+    arabic: فَأَخَذَهُمُ
     translation: So seized them
     transliteration: fa-akhadhahumu
   2:
-    arabic: الۡعَذَابُ​ؕ
+    arabic: ٱلۡعَذَابُۚ
     translation: the punishment
     transliteration: l-ʿadhābu
   3:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   4:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   5:
-    arabic: ذٰ لِكَ
+    arabic: ذَٰلِكَ
     translation: that
     transliteration: dhālika
   6:
-    arabic: لَاٰيَةً​  ؕ
+    arabic: لَأٓيَةٗۖ
     translation: surely is a sign
     transliteration: laāyatan
   7:
@@ -37,11 +37,11 @@ word_by_word:
     translation: are
     transliteration: kāna
   9:
-    arabic: اَكۡثَرُهُمۡ
+    arabic: أَكۡثَرُهُم
     translation: most of them
     transliteration: aktharuhum
   10:
-    arabic: مُّؤۡمِنِيۡنَ‏
+    arabic: مُّؤۡمِنِينَ
     translation: believers
     transliteration: mu'minīna
 ---

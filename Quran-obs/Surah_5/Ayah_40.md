@@ -1,13 +1,13 @@
 ---
-arabic_ayat: "اَلَمۡ تَعۡلَمۡ اَنَّ اللّٰهَ لَهٗ مُلۡكُ السَّمٰوٰتِ وَالۡاَرۡضِؕ يُعَذِّبُ\
-  \ مَنۡ يَّشَآءُ وَيَغۡفِرُ لِمَنۡ يَّشَآءُ​ ؕ وَاللّٰهُ عَلٰى كُلِّ شَىۡءٍ قَدِيۡرٌ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: أَلَمۡ تَعۡلَمۡ أَنَّ ٱللَّهَ لَهُۥ مُلۡكُ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِ
+  يُعَذِّبُ مَن يَشَآءُ وَيَغۡفِرُ لِمَن يَشَآءُۗ وَٱللَّهُ عَلَىٰ كُلِّ شَيۡءٖ
+  قَدِيرٞ
 sentence_translation: Do you not know that the kingdom of the heavens and the earth
   belongs to Allah ˹alone˺? He punishes whoever He wills and forgives whoever He wills.
   And Allah is Most Capable of everything.
 word_by_word:
   1:
-    arabic: اَلَمۡ
+    arabic: أَلَمۡ
     translation: Do not
     transliteration: alam
   2:
@@ -15,15 +15,15 @@ word_by_word:
     translation: you know
     transliteration: taʿlam
   3:
-    arabic: اَنَّ
+    arabic: أَنَّ
     translation: that
     transliteration: anna
   4:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   5:
-    arabic: لَهٗ
+    arabic: لَهُۥ
     translation: to Him (belongs)
     transliteration: lahu
   6:
@@ -31,11 +31,11 @@ word_by_word:
     translation: (the) dominion
     transliteration: mul'ku
   7:
-    arabic: السَّمٰوٰتِ
+    arabic: ٱلسَّمَٰوَٰتِ
     translation: (of) the heavens
     transliteration: l-samāwāti
   8:
-    arabic: وَالۡاَرۡضِؕ
+    arabic: وَٱلۡأَرۡضِ
     translation: and the earth
     transliteration: wal-arḍi
   9:
@@ -43,11 +43,11 @@ word_by_word:
     translation: He punishes
     transliteration: yuʿadhibu
   10:
-    arabic: مَنۡ
+    arabic: مَن
     translation: whom
     transliteration: man
   11:
-    arabic: يَّشَآءُ
+    arabic: يَشَآءُ
     translation: He wills
     transliteration: yashāu
   12:
@@ -55,19 +55,19 @@ word_by_word:
     translation: and He forgives
     transliteration: wayaghfiru
   13:
-    arabic: لِمَنۡ
+    arabic: لِمَن
     translation: '[to] whom'
     transliteration: liman
   14:
-    arabic: يَّشَآءُ​ ؕ
+    arabic: يَشَآءُۗ
     translation: He wills
     transliteration: yashāu
   15:
-    arabic: وَاللّٰهُ
+    arabic: وَٱللَّهُ
     translation: And Allah
     transliteration: wal-lahu
   16:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: (is) on
     transliteration: ʿalā
   17:
@@ -75,11 +75,11 @@ word_by_word:
     translation: every
     transliteration: kulli
   18:
-    arabic: شَىۡءٍ
+    arabic: شَيۡءٖ
     translation: thing
     transliteration: shayin
   19:
-    arabic: "قَدِيۡرٌ‏ \uFEFF\uFEFF"
+    arabic: قَدِيرٞ
     translation: All-Powerful
     transliteration: qadīrun
 ---

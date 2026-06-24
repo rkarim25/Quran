@@ -1,16 +1,16 @@
 ---
-arabic_ayat: وَلَـنَبۡلُوَنَّكُمۡ حَتّٰى نَعۡلَمَ الۡمُجٰهِدِيۡنَ مِنۡكُمۡ وَالصّٰبِرِيۡنَ
-  ۙ وَنَبۡلُوَا۟ اَخۡبَارَكُمۡ‏
+arabic_ayat: وَلَنَبۡلُوَنَّكُمۡ حَتَّىٰ نَعۡلَمَ ٱلۡمُجَٰهِدِينَ مِنكُمۡ وَٱلصَّٰبِرِينَ
+  وَنَبۡلُوَاْ أَخۡبَارَكُمۡ
 sentence_translation: We will certainly test you ˹believers˺ until We prove those
   of you who ˹truly˺ struggle ˹in Allah’s cause˺ and remain steadfast, and reveal
   how you conduct yourselves.
 word_by_word:
   1:
-    arabic: وَلَـنَبۡلُوَنَّكُمۡ
+    arabic: وَلَنَبۡلُوَنَّكُمۡ
     translation: And surely We will test you
     transliteration: walanabluwannakum
   2:
-    arabic: حَتّٰى
+    arabic: حَتَّىٰ
     translation: until
     transliteration: ḥattā
   3:
@@ -18,23 +18,23 @@ word_by_word:
     translation: We make evident
     transliteration: naʿlama
   4:
-    arabic: الۡمُجٰهِدِيۡنَ
+    arabic: ٱلۡمُجَٰهِدِينَ
     translation: those who strive
     transliteration: l-mujāhidīna
   5:
-    arabic: مِنۡكُمۡ
+    arabic: مِنكُمۡ
     translation: among you
     transliteration: minkum
   6:
-    arabic: وَالصّٰبِرِيۡنَ ۙ
+    arabic: وَٱلصَّٰبِرِينَ
     translation: and the patient ones
     transliteration: wal-ṣābirīna
   7:
-    arabic: وَنَبۡلُوَا۟
+    arabic: وَنَبۡلُوَاْ
     translation: and We will test
     transliteration: wanabluwā
   8:
-    arabic: اَخۡبَارَكُمۡ‏
+    arabic: أَخۡبَارَكُمۡ
     translation: your affairs
     transliteration: akhbārakum
 ---

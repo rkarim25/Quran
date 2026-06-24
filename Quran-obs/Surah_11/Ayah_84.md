@@ -1,15 +1,14 @@
 ---
-arabic_ayat: "وَاِلٰى مَدۡيَنَ اَخَاهُمۡ شُعَيۡبًا​ ؕ قَالَ يٰقَوۡمِ اعۡبُدُوا اللّٰهَ\
-  \ مَا لَـكُمۡ مِّنۡ اِلٰهٍ غَيۡرُهٗ ​ؕ وَلَا تَـنۡقُصُوا الۡمِكۡيَالَ وَالۡمِيۡزَانَ​\
-  \ اِنِّىۡۤ اَرٰٮكُمۡ بِخَيۡرٍ وَّاِنِّىۡۤ اَخَافُ عَلَيۡكُمۡ عَذَابَ يَوۡمٍ مُّحِيۡطٍ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: ۞ وَإِلَىٰ مَدۡيَنَ أَخَاهُمۡ شُعَيۡبٗاۚ قَالَ يَٰقَوۡمِ ٱعۡبُدُواْ ٱللَّهَ
+  مَا لَكُم مِّنۡ إِلَٰهٍ غَيۡرُهُۥۖ وَلَا تَنقُصُواْ ٱلۡمِكۡيَالَ وَٱلۡمِيزَانَۖ
+  إِنِّيٓ أَرَىٰكُم بِخَيۡرٖ وَإِنِّيٓ أَخَافُ عَلَيۡكُمۡ عَذَابَ يَوۡمٖ مُّحِيطٖ
 sentence_translation: And to the people of Midian We sent their brother Shu’aib. He
   said, “O my people! Worship Allah. You have no god other than Him. And do not give
   short measure and weight. I do see you in prosperity now, but I truly fear for you
   the torment of an overwhelming Day.
 word_by_word:
   1:
-    arabic: ۞ وَاِلٰى
+    arabic: ۞ وَإِلَىٰ
     translation: And to
     transliteration: wa-ilā
   2:
@@ -17,11 +16,11 @@ word_by_word:
     translation: Madyan
     transliteration: madyana
   3:
-    arabic: اَخَاهُمۡ
+    arabic: أَخَاهُمۡ
     translation: their brother
     transliteration: akhāhum
   4:
-    arabic: شُعَيۡبًا​ ؕ
+    arabic: شُعَيۡبٗاۚ
     translation: Shuaib
     transliteration: shuʿayban
   5:
@@ -29,15 +28,15 @@ word_by_word:
     translation: He said
     transliteration: qāla
   6:
-    arabic: يٰقَوۡمِ
+    arabic: يَٰقَوۡمِ
     translation: O my people
     transliteration: yāqawmi
   7:
-    arabic: اعۡبُدُوا
+    arabic: ٱعۡبُدُواْ
     translation: Worship
     transliteration: uʿ'budū
   8:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   9:
@@ -45,7 +44,7 @@ word_by_word:
     translation: not
     transliteration: mā
   10:
-    arabic: لَـكُمۡ
+    arabic: لَكُم
     translation: (is) for you
     transliteration: lakum
   11:
@@ -53,11 +52,11 @@ word_by_word:
     translation: any
     transliteration: min
   12:
-    arabic: اِلٰهٍ
+    arabic: إِلَٰهٍ
     translation: god
     transliteration: ilāhin
   13:
-    arabic: غَيۡرُهٗ ​ؕ
+    arabic: غَيۡرُهُۥۖ
     translation: other than Him
     transliteration: ghayruhu
   14:
@@ -65,35 +64,35 @@ word_by_word:
     translation: And (do) not
     transliteration: walā
   15:
-    arabic: تَـنۡقُصُوا
+    arabic: تَنقُصُواْ
     translation: decrease
     transliteration: tanquṣū
   16:
-    arabic: الۡمِكۡيَالَ
+    arabic: ٱلۡمِكۡيَالَ
     translation: (from) the measure
     transliteration: l-mik'yāla
   17:
-    arabic: وَالۡمِيۡزَانَ​
+    arabic: وَٱلۡمِيزَانَۖ
     translation: and the scale
     transliteration: wal-mīzāna
   18:
-    arabic: اِنِّىۡۤ
+    arabic: إِنِّيٓ
     translation: Indeed, I
     transliteration: innī
   19:
-    arabic: اَرٰٮكُمۡ
+    arabic: أَرَىٰكُم
     translation: see you
     transliteration: arākum
   20:
-    arabic: بِخَيۡرٍ
+    arabic: بِخَيۡرٖ
     translation: in prosperity
     transliteration: bikhayrin
   21:
-    arabic: وَّاِنِّىۡۤ
+    arabic: وَإِنِّيٓ
     translation: but indeed, I
     transliteration: wa-innī
   22:
-    arabic: اَخَافُ
+    arabic: أَخَافُ
     translation: fear
     transliteration: akhāfu
   23:
@@ -105,11 +104,11 @@ word_by_word:
     translation: punishment
     transliteration: ʿadhāba
   25:
-    arabic: يَوۡمٍ
+    arabic: يَوۡمٖ
     translation: (of) a Day
     transliteration: yawmin
   26:
-    arabic: "مُّحِيۡطٍ‏ \uFEFF\uFEFF"
+    arabic: مُّحِيطٖ
     translation: all-encompassing
     transliteration: muḥīṭin
 ---

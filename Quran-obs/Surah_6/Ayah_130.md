@@ -1,8 +1,8 @@
 ---
-arabic_ayat: يٰمَعۡشَرَ الۡجِنِّ وَالۡاِنۡسِ اَلَمۡ يَاۡتِكُمۡ رُسُلٌ مِّنۡكُمۡ يَقُصُّوۡنَ
-  عَلَيۡكُمۡ اٰيٰتِىۡ وَيُنۡذِرُوۡنَكُمۡ لِقَآءَ يَوۡمِكُمۡ هٰذَا​ ؕ قَالُوۡا شَهِدۡنَا
-  عَلٰٓى اَنۡفُسِنَا​ وَغَرَّتۡهُمُ الۡحَيٰوةُ الدُّنۡيَا وَشَهِدُوۡا عَلٰٓى اَنۡفُسِهِمۡ
-  اَنَّهُمۡ كَانُوۡا كٰفِرِيۡنَ‏
+arabic_ayat: يَٰمَعۡشَرَ ٱلۡجِنِّ وَٱلۡإِنسِ أَلَمۡ يَأۡتِكُمۡ رُسُلٞ مِّنكُمۡ يَقُصُّونَ
+  عَلَيۡكُمۡ ءَايَٰتِي وَيُنذِرُونَكُمۡ لِقَآءَ يَوۡمِكُمۡ هَٰذَاۚ قَالُواْ شَهِدۡنَا
+  عَلَىٰٓ أَنفُسِنَاۖ وَغَرَّتۡهُمُ ٱلۡحَيَوٰةُ ٱلدُّنۡيَا وَشَهِدُواْ عَلَىٰٓ أَنفُسِهِمۡ
+  أَنَّهُمۡ كَانُواْ كَٰفِرِينَ
 sentence_translation: ˹Allah will ask,˺ “O assembly of jinn and humans! Did messengers
   not come from among you, proclaiming My revelations and warning you of the coming
   of this Day of yours?” They will say, “We confess against ourselves!” For they have
@@ -10,47 +10,47 @@ sentence_translation: ˹Allah will ask,˺ “O assembly of jinn and humans! Did 
   they were disbelievers.
 word_by_word:
   1:
-    arabic: يٰمَعۡشَرَ
+    arabic: يَٰمَعۡشَرَ
     translation: O assembly
     transliteration: yāmaʿshara
   2:
-    arabic: الۡجِنِّ
+    arabic: ٱلۡجِنِّ
     translation: (of) [the] jinn
     transliteration: l-jini
   3:
-    arabic: وَالۡاِنۡسِ
+    arabic: وَٱلۡإِنسِ
     translation: and [the] men
     transliteration: wal-insi
   4:
-    arabic: اَلَمۡ
+    arabic: أَلَمۡ
     translation: Did (there) not
     transliteration: alam
   5:
-    arabic: يَاۡتِكُمۡ
+    arabic: يَأۡتِكُمۡ
     translation: come to you
     transliteration: yatikum
   6:
-    arabic: رُسُلٌ
+    arabic: رُسُلٞ
     translation: Messengers
     transliteration: rusulun
   7:
-    arabic: مِّنۡكُمۡ
+    arabic: مِّنكُمۡ
     translation: from (among) you
     transliteration: minkum
   8:
-    arabic: يَقُصُّوۡنَ
+    arabic: يَقُصُّونَ
     translation: relating
     transliteration: yaquṣṣūna
   9:
-    arabic: عَلَيۡكُمۡ
+    arabic: عَلَيۡكُمۡ ءَ
     translation: to you
     transliteration: ʿalaykum
   10:
-    arabic: اٰيٰتِىۡ
+    arabic: ايَٰتِي
     translation: My Verses
     transliteration: āyātī
   11:
-    arabic: وَيُنۡذِرُوۡنَكُمۡ
+    arabic: وَيُنذِرُونَكُمۡ
     translation: and warning you
     transliteration: wayundhirūnakum
   12:
@@ -62,11 +62,11 @@ word_by_word:
     translation: (of) your day
     transliteration: yawmikum
   14:
-    arabic: هٰذَا​ ؕ
+    arabic: هَٰذَاۚ
     translation: this
     transliteration: hādhā
   15:
-    arabic: قَالُوۡا
+    arabic: قَالُواْ
     translation: They will say
     transliteration: qālū
   16:
@@ -74,11 +74,11 @@ word_by_word:
     translation: We bear witness
     transliteration: shahid'nā
   17:
-    arabic: عَلٰٓى
+    arabic: عَلَىٰٓ
     translation: against
     transliteration: ʿalā
   18:
-    arabic: اَنۡفُسِنَا​
+    arabic: أَنفُسِنَاۖ
     translation: ourselves
     transliteration: anfusinā
   19:
@@ -86,35 +86,35 @@ word_by_word:
     translation: And deluded them
     transliteration: wagharrathumu
   20:
-    arabic: الۡحَيٰوةُ
+    arabic: ٱلۡحَيَوٰةُ
     translation: the life
     transliteration: l-ḥayatu
   21:
-    arabic: الدُّنۡيَا
+    arabic: ٱلدُّنۡيَا
     translation: (of) the world
     transliteration: l-dun'yā
   22:
-    arabic: وَشَهِدُوۡا
+    arabic: وَشَهِدُواْ
     translation: and they will bear witness
     transliteration: washahidū
   23:
-    arabic: عَلٰٓى
+    arabic: عَلَىٰٓ
     translation: against
     transliteration: ʿalā
   24:
-    arabic: اَنۡفُسِهِمۡ
+    arabic: أَنفُسِهِمۡ
     translation: themselves
     transliteration: anfusihim
   25:
-    arabic: اَنَّهُمۡ
+    arabic: أَنَّهُمۡ
     translation: that they
     transliteration: annahum
   26:
-    arabic: كَانُوۡا
+    arabic: كَانُواْ
     translation: were
     transliteration: kānū
   27:
-    arabic: كٰفِرِيۡنَ‏
+    arabic: كَٰفِرِينَ
     translation: disbelievers
     transliteration: kāfirīna
 ---

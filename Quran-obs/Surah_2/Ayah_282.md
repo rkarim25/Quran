@@ -1,20 +1,19 @@
 ---
-arabic_ayat: "يٰۤـاَيُّهَا الَّذِيۡنَ اٰمَنُوۡۤا اِذَا تَدَايَنۡتُمۡ بِدَيۡنٍ اِلٰٓى\
-  \ اَجَلٍ مُّسَمًّى فَاكۡتُبُوۡهُ ​ؕ وَلۡيَكۡتُب بَّيۡنَكُمۡ كَاتِبٌۢ بِالۡعَدۡلِ​\
-  \ وَلَا يَاۡبَ كَاتِبٌ اَنۡ يَّكۡتُبَ كَمَا عَلَّمَهُ اللّٰهُ​ فَلۡيَكۡتُبۡ ​ۚوَلۡيُمۡلِلِ\
-  \ الَّذِىۡ عَلَيۡهِ الۡحَـقُّ وَلۡيَتَّقِ اللّٰهَ رَبَّهٗ وَلَا يَبۡخَسۡ مِنۡهُ\
-  \ شَيۡـــًٔا ​ؕ فَاِنۡ كَانَ الَّذِىۡ عَلَيۡهِ الۡحَـقُّ سَفِيۡهًا اَوۡ ضَعِيۡفًا\
-  \ اَوۡ لَا يَسۡتَطِيۡعُ اَنۡ يُّمِلَّ هُوَ فَلۡيُمۡلِلۡ وَلِيُّهٗ بِالۡعَدۡلِ​ؕ\
-  \ وَاسۡتَشۡهِدُوۡا شَهِيۡدَيۡنِ مِنۡ رِّجَالِكُمۡ​ۚ فَاِنۡ لَّمۡ يَكُوۡنَا رَجُلَيۡنِ\
-  \ فَرَجُلٌ وَّامۡرَاَتٰنِ مِمَّنۡ تَرۡضَوۡنَ مِنَ الشُّهَدَآءِ اَنۡ تَضِلَّ اِحۡدٰٮهُمَا\
-  \ فَتُذَكِّرَ اِحۡدٰٮهُمَا الۡاُخۡرٰى​ؕ وَ لَا يَاۡبَ الشُّهَدَآءُ اِذَا مَا دُعُوۡا ​ؕ\
-  \ وَلَا تَسۡـــَٔمُوۡۤا اَنۡ تَكۡتُبُوۡهُ صَغِيۡرًا اَوۡ كَبِيۡرًا اِلٰٓى اَجَلِهٖ​ؕ\
-  \ ذٰ لِكُمۡ اَقۡسَطُ عِنۡدَ اللّٰهِ وَاَقۡوَمُ لِلشَّهَادَةِ وَاَدۡنٰۤى اَلَّا تَرۡتَابُوۡٓا\
-  \ اِلَّاۤ اَنۡ تَكُوۡنَ تِجَارَةً حَاضِرَةً تُدِيۡرُوۡنَهَا بَيۡنَكُمۡ فَلَيۡسَ\
-  \ عَلَيۡكُمۡ جُنَاحٌ اَلَّا تَكۡتُبُوۡهَا ​ؕ وَاَشۡهِدُوۡۤا اِذَا تَبَايَعۡتُمۡ\
-  \ وَلَا يُضَآرَّ كَاتِبٌ وَّلَا شَهِيۡدٌ  ؕ وَاِنۡ تَفۡعَلُوۡا فَاِنَّهٗ فُسُوۡقٌ\
-  \ ۢ بِكُمۡ ؕ وَ اتَّقُوا اللّٰهَ​ ؕ وَيُعَلِّمُكُمُ اللّٰهُ​ ؕ وَاللّٰهُ بِكُلِّ\
-  \ شَىۡءٍ عَلِيۡمٌ‏ \uFEFF\uFEFF"
+arabic_ayat: يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓاْ إِذَا تَدَايَنتُم بِدَيۡنٍ إِلَىٰٓ
+  أَجَلٖ مُّسَمّٗى فَٱكۡتُبُوهُۚ وَلۡيَكۡتُب بَّيۡنَكُمۡ كَاتِبُۢ بِٱلۡعَدۡلِۚ وَلَا
+  يَأۡبَ كَاتِبٌ أَن يَكۡتُبَ كَمَا عَلَّمَهُ ٱللَّهُۚ فَلۡيَكۡتُبۡ وَلۡيُمۡلِلِ ٱلَّذِي
+  عَلَيۡهِ ٱلۡحَقُّ وَلۡيَتَّقِ ٱللَّهَ رَبَّهُۥ وَلَا يَبۡخَسۡ مِنۡهُ شَيۡـٔٗاۚ فَإِن
+  كَانَ ٱلَّذِي عَلَيۡهِ ٱلۡحَقُّ سَفِيهًا أَوۡ ضَعِيفًا أَوۡ لَا يَسۡتَطِيعُ أَن
+  يُمِلَّ هُوَ فَلۡيُمۡلِلۡ وَلِيُّهُۥ بِٱلۡعَدۡلِۚ وَٱسۡتَشۡهِدُواْ شَهِيدَيۡنِ مِن
+  رِّجَالِكُمۡۖ فَإِن لَّمۡ يَكُونَا رَجُلَيۡنِ فَرَجُلٞ وَٱمۡرَأَتَانِ مِمَّن تَرۡضَوۡنَ
+  مِنَ ٱلشُّهَدَآءِ أَن تَضِلَّ إِحۡدَىٰهُمَا فَتُذَكِّرَ إِحۡدَىٰهُمَا ٱلۡأُخۡرَىٰۚ
+  وَلَا يَأۡبَ ٱلشُّهَدَآءُ إِذَا مَا دُعُواْۚ وَلَا تَسۡـَٔمُوٓاْ أَن تَكۡتُبُوهُ
+  صَغِيرًا أَوۡ كَبِيرًا إِلَىٰٓ أَجَلِهِۦۚ ذَٰلِكُمۡ أَقۡسَطُ عِندَ ٱللَّهِ وَأَقۡوَمُ
+  لِلشَّهَٰدَةِ وَأَدۡنَىٰٓ أَلَّا تَرۡتَابُوٓاْ إِلَّآ أَن تَكُونَ تِجَٰرَةً حَاضِرَةٗ
+  تُدِيرُونَهَا بَيۡنَكُمۡ فَلَيۡسَ عَلَيۡكُمۡ جُنَاحٌ أَلَّا تَكۡتُبُوهَاۗ وَأَشۡهِدُوٓاْ
+  إِذَا تَبَايَعۡتُمۡۚ وَلَا يُضَآرَّ كَاتِبٞ وَلَا شَهِيدٞۚ وَإِن تَفۡعَلُواْ فَإِنَّهُۥ
+  فُسُوقُۢ بِكُمۡۗ وَٱتَّقُواْ ٱللَّهَۖ وَيُعَلِّمُكُمُ ٱللَّهُۗ وَٱللَّهُ بِكُلِّ
+  شَيۡءٍ عَلِيمٞ
 sentence_translation: O believers! When you contract a loan for a fixed period of
   time, commit it to writing. Let the scribe maintain justice between the parties.
   The scribe should not refuse to write as Allah has taught them to write. They will
@@ -32,23 +31,23 @@ sentence_translation: O believers! When you contract a loan for a fixed period o
   the One Who˺ teaches you. And Allah has ˹perfect˺ knowledge of all things.
 word_by_word:
   1:
-    arabic: يٰۤـاَيُّهَا
+    arabic: يَٰٓأَيُّهَا
     translation: O you
     transliteration: yāayyuhā
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ ءَ
     translation: who
     transliteration: alladhīna
   3:
-    arabic: اٰمَنُوۡۤا
+    arabic: امَنُوٓاْ
     translation: believe[d]
     transliteration: āmanū
   4:
-    arabic: اِذَا
+    arabic: إِذَا
     translation: When
     transliteration: idhā
   5:
-    arabic: تَدَايَنۡتُمۡ
+    arabic: تَدَايَنتُم
     translation: you contract with one another
     transliteration: tadāyantum
   6:
@@ -56,19 +55,19 @@ word_by_word:
     translation: any debt
     transliteration: bidaynin
   7:
-    arabic: اِلٰٓى
+    arabic: إِلَىٰٓ
     translation: for
     transliteration: ilā
   8:
-    arabic: اَجَلٍ
+    arabic: أَجَلٖ
     translation: a term
     transliteration: ajalin
   9:
-    arabic: مُّسَمًّى
+    arabic: مُّسَمّٗى
     translation: fixed
     transliteration: musamman
   10:
-    arabic: فَاكۡتُبُوۡهُ ​ؕ
+    arabic: فَٱكۡتُبُوهُۚ
     translation: then write it
     transliteration: fa-uk'tubūhu
   11:
@@ -80,11 +79,11 @@ word_by_word:
     translation: between you
     transliteration: baynakum
   13:
-    arabic: كَاتِبٌۢ
+    arabic: كَاتِبُۢ
     translation: a scribe
     transliteration: kātibun
   14:
-    arabic: بِالۡعَدۡلِ​
+    arabic: بِٱلۡعَدۡلِۚ
     translation: in justice
     transliteration: bil-ʿadli
   15:
@@ -92,7 +91,7 @@ word_by_word:
     translation: And not
     transliteration: walā
   16:
-    arabic: يَاۡبَ
+    arabic: يَأۡبَ
     translation: (should) refuse
     transliteration: yaba
   17:
@@ -100,11 +99,11 @@ word_by_word:
     translation: a scribe
     transliteration: kātibun
   18:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that
     transliteration: an
   19:
-    arabic: يَّكۡتُبَ
+    arabic: يَكۡتُبَ
     translation: he writes
     transliteration: yaktuba
   20:
@@ -116,11 +115,11 @@ word_by_word:
     translation: (has) taught him
     transliteration: ʿallamahu
   22:
-    arabic: اللّٰهُ​
+    arabic: ٱللَّهُۚ
     translation: Allah
     transliteration: l-lahu
   23:
-    arabic: فَلۡيَكۡتُبۡ ​ۚ
+    arabic: فَلۡيَكۡتُبۡ
     translation: So let him write
     transliteration: falyaktub
   24:
@@ -128,7 +127,7 @@ word_by_word:
     translation: and let dictate
     transliteration: walyum'lili
   25:
-    arabic: الَّذِىۡ
+    arabic: ٱلَّذِي
     translation: the one
     transliteration: alladhī
   26:
@@ -136,7 +135,7 @@ word_by_word:
     translation: on whom
     transliteration: ʿalayhi
   27:
-    arabic: الۡحَـقُّ
+    arabic: ٱلۡحَقُّ
     translation: (is) the right
     transliteration: l-ḥaqu
   28:
@@ -144,11 +143,11 @@ word_by_word:
     translation: and let him fear
     transliteration: walyattaqi
   29:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   30:
-    arabic: رَبَّهٗ
+    arabic: رَبَّهُۥ
     translation: his Lord
     transliteration: rabbahu
   31:
@@ -164,11 +163,11 @@ word_by_word:
     translation: from it
     transliteration: min'hu
   34:
-    arabic: شَيۡـــًٔا ​ؕ
+    arabic: شَيۡـٔٗاۚ
     translation: anything
     transliteration: shayan
   35:
-    arabic: فَاِنۡ
+    arabic: فَإِن
     translation: Then if
     transliteration: fa-in
   36:
@@ -176,7 +175,7 @@ word_by_word:
     translation: is
     transliteration: kāna
   37:
-    arabic: الَّذِىۡ
+    arabic: ٱلَّذِي
     translation: the one
     transliteration: alladhī
   38:
@@ -184,23 +183,23 @@ word_by_word:
     translation: on him
     transliteration: ʿalayhi
   39:
-    arabic: الۡحَـقُّ
+    arabic: ٱلۡحَقُّ
     translation: (is) the right
     transliteration: l-ḥaqu
   40:
-    arabic: سَفِيۡهًا
+    arabic: سَفِيهًا
     translation: (of) limited understanding
     transliteration: safīhan
   41:
-    arabic: اَوۡ
+    arabic: أَوۡ
     translation: or
     transliteration: aw
   42:
-    arabic: ضَعِيۡفًا
+    arabic: ضَعِيفًا
     translation: weak
     transliteration: ḍaʿīfan
   43:
-    arabic: اَوۡ
+    arabic: أَوۡ
     translation: or
     transliteration: aw
   44:
@@ -208,15 +207,15 @@ word_by_word:
     translation: not
     transliteration: lā
   45:
-    arabic: يَسۡتَطِيۡعُ
+    arabic: يَسۡتَطِيعُ
     translation: capable
     transliteration: yastaṭīʿu
   46:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that
     transliteration: an
   47:
-    arabic: يُّمِلَّ
+    arabic: يُمِلَّ
     translation: (can) dictate
     transliteration: yumilla
   48:
@@ -228,31 +227,31 @@ word_by_word:
     translation: then let dictate
     transliteration: falyum'lil
   50:
-    arabic: وَلِيُّهٗ
+    arabic: وَلِيُّهُۥ
     translation: his guardian
     transliteration: waliyyuhu
   51:
-    arabic: بِالۡعَدۡلِ​ؕ
+    arabic: بِٱلۡعَدۡلِۚ
     translation: with justice
     transliteration: bil-ʿadli
   52:
-    arabic: وَاسۡتَشۡهِدُوۡا
+    arabic: وَٱسۡتَشۡهِدُواْ
     translation: And call for evidence
     transliteration: wa-is'tashhidū
   53:
-    arabic: شَهِيۡدَيۡنِ
+    arabic: شَهِيدَيۡنِ
     translation: two witnesses
     transliteration: shahīdayni
   54:
-    arabic: مِنۡ
+    arabic: مِن
     translation: among
     transliteration: min
   55:
-    arabic: رِّجَالِكُمۡ​ۚ
+    arabic: رِّجَالِكُمۡۖ
     translation: your men
     transliteration: rijālikum
   56:
-    arabic: فَاِنۡ
+    arabic: فَإِن
     translation: And if
     transliteration: fa-in
   57:
@@ -260,7 +259,7 @@ word_by_word:
     translation: not
     transliteration: lam
   58:
-    arabic: يَكُوۡنَا
+    arabic: يَكُونَا
     translation: there are
     transliteration: yakūnā
   59:
@@ -268,15 +267,15 @@ word_by_word:
     translation: two men
     transliteration: rajulayni
   60:
-    arabic: فَرَجُلٌ
+    arabic: فَرَجُلٞ
     translation: then one man
     transliteration: farajulun
   61:
-    arabic: وَّامۡرَاَتٰنِ
+    arabic: وَٱمۡرَأَتَانِ
     translation: and two women
     transliteration: wa-im'ra-atāni
   62:
-    arabic: مِمَّنۡ
+    arabic: مِمَّن
     translation: of whom
     transliteration: mimman
   63:
@@ -288,11 +287,11 @@ word_by_word:
     translation: of
     transliteration: mina
   65:
-    arabic: الشُّهَدَآءِ
+    arabic: ٱلشُّهَدَآءِ
     translation: '[the] witnesses'
     transliteration: l-shuhadāi
   66:
-    arabic: اَنۡ
+    arabic: أَن
     translation: (so) that (if)
     transliteration: an
   67:
@@ -300,7 +299,7 @@ word_by_word:
     translation: '[she] errs'
     transliteration: taḍilla
   68:
-    arabic: اِحۡدٰٮهُمَا
+    arabic: إِحۡدَىٰهُمَا
     translation: one of the two
     transliteration: iḥ'dāhumā
   69:
@@ -308,27 +307,27 @@ word_by_word:
     translation: then will remind
     transliteration: fatudhakkira
   70:
-    arabic: اِحۡدٰٮهُمَا
+    arabic: إِحۡدَىٰهُمَا
     translation: one of the two
     transliteration: iḥ'dāhumā
   71:
-    arabic: الۡاُخۡرٰى​ؕ
+    arabic: ٱلۡأُخۡرَىٰۚ
     translation: the other
     transliteration: l-ukh'rā
   72:
-    arabic: وَ لَا
+    arabic: وَلَا
     translation: And not
     transliteration: walā
   73:
-    arabic: يَاۡبَ
+    arabic: يَأۡبَ
     translation: (should) refuse
     transliteration: yaba
   74:
-    arabic: الشُّهَدَآءُ
+    arabic: ٱلشُّهَدَآءُ
     translation: the witnesses
     transliteration: l-shuhadāu
   75:
-    arabic: اِذَا
+    arabic: إِذَا
     translation: when
     transliteration: idhā
   76:
@@ -336,7 +335,7 @@ word_by_word:
     translation: that
     transliteration: mā
   77:
-    arabic: دُعُوۡا ​ؕ
+    arabic: دُعُواْۚ
     translation: they are called
     transliteration: duʿū
   78:
@@ -344,95 +343,95 @@ word_by_word:
     translation: And not
     transliteration: walā
   79:
-    arabic: تَسۡـــَٔمُوۡۤا
+    arabic: تَسۡـَٔمُوٓاْ
     translation: (be) weary
     transliteration: tasamū
   80:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that
     transliteration: an
   81:
-    arabic: تَكۡتُبُوۡهُ
+    arabic: تَكۡتُبُوهُ
     translation: 'you write it '
     transliteration: taktubūhu
   82:
-    arabic: صَغِيۡرًا
+    arabic: صَغِيرًا
     translation: small
     transliteration: ṣaghīran
   83:
-    arabic: اَوۡ
+    arabic: أَوۡ
     translation: or
     transliteration: aw
   84:
-    arabic: كَبِيۡرًا
+    arabic: كَبِيرًا
     translation: large
     transliteration: kabīran
   85:
-    arabic: اِلٰٓى
+    arabic: إِلَىٰٓ
     translation: for
     transliteration: ilā
   86:
-    arabic: اَجَلِهٖ​ؕ
+    arabic: أَجَلِهِۦۚ
     translation: its term
     transliteration: ajalihi
   87:
-    arabic: ذٰ لِكُمۡ
+    arabic: ذَٰلِكُمۡ
     translation: That
     transliteration: dhālikum
   88:
-    arabic: اَقۡسَطُ
+    arabic: أَقۡسَطُ
     translation: (is) more just
     transliteration: aqsaṭu
   89:
-    arabic: عِنۡدَ
+    arabic: عِندَ
     translation: near
     transliteration: ʿinda
   90:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   91:
-    arabic: وَاَقۡوَمُ
+    arabic: وَأَقۡوَمُ
     translation: and more upright
     transliteration: wa-aqwamu
   92:
-    arabic: لِلشَّهَادَةِ
+    arabic: لِلشَّهَٰدَةِ
     translation: for evidence
     transliteration: lilshahādati
   93:
-    arabic: وَاَدۡنٰۤى
+    arabic: وَأَدۡنَىٰٓ
     translation: and nearer
     transliteration: wa-adnā
   94:
-    arabic: اَلَّا
+    arabic: أَلَّا
     translation: that not
     transliteration: allā
   95:
-    arabic: تَرۡتَابُوۡٓا
+    arabic: تَرۡتَابُوٓاْ
     translation: you (have) doubt
     transliteration: tartābū
   96:
-    arabic: اِلَّاۤ
+    arabic: إِلَّآ
     translation: except
     transliteration: illā
   97:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that
     transliteration: an
   98:
-    arabic: تَكُوۡنَ
+    arabic: تَكُونَ
     translation: be
     transliteration: takūna
   99:
-    arabic: تِجَارَةً
+    arabic: تِجَٰرَةً
     translation: a transaction
     transliteration: tijāratan
   100:
-    arabic: حَاضِرَةً
+    arabic: حَاضِرَةٗ
     translation: present
     transliteration: ḥāḍiratan
   101:
-    arabic: تُدِيۡرُوۡنَهَا
+    arabic: تُدِيرُونَهَا
     translation: you carry out
     transliteration: tudīrūnahā
   102:
@@ -452,23 +451,23 @@ word_by_word:
     translation: any sin
     transliteration: junāḥun
   106:
-    arabic: اَلَّا
+    arabic: أَلَّا
     translation: that not
     transliteration: allā
   107:
-    arabic: تَكۡتُبُوۡهَا ​ؕ
+    arabic: تَكۡتُبُوهَاۗ
     translation: you write it
     transliteration: taktubūhā
   108:
-    arabic: وَاَشۡهِدُوۡۤا
+    arabic: وَأَشۡهِدُوٓاْ
     translation: And take witness
     transliteration: wa-ashhidū
   109:
-    arabic: اِذَا
+    arabic: إِذَا
     translation: when
     transliteration: idhā
   110:
-    arabic: تَبَايَعۡتُمۡ
+    arabic: تَبَايَعۡتُمۡۚ
     translation: you make commercial transaction
     transliteration: tabāyaʿtum
   111:
@@ -480,43 +479,43 @@ word_by_word:
     translation: (should) be harmed
     transliteration: yuḍārra
   113:
-    arabic: كَاتِبٌ
+    arabic: كَاتِبٞ
     translation: (the) scribe
     transliteration: kātibun
   114:
-    arabic: وَّلَا
+    arabic: وَلَا
     translation: and not
     transliteration: walā
   115:
-    arabic: شَهِيۡدٌ  ؕ
+    arabic: شَهِيدٞۚ
     translation: (the) witness
     transliteration: shahīdun
   116:
-    arabic: وَاِنۡ
+    arabic: وَإِن
     translation: and if
     transliteration: wa-in
   117:
-    arabic: تَفۡعَلُوۡا
+    arabic: تَفۡعَلُواْ
     translation: you do
     transliteration: tafʿalū
   118:
-    arabic: فَاِنَّهٗ
+    arabic: فَإِنَّهُۥ
     translation: then indeed it
     transliteration: fa-innahu
   119:
-    arabic: فُسُوۡقٌ ۢ
+    arabic: فُسُوقُۢ
     translation: (is) sinful conduct
     transliteration: fusūqun
   120:
-    arabic: بِكُمۡ ؕ
+    arabic: بِكُمۡۗ
     translation: for you
     transliteration: bikum
   121:
-    arabic: وَ اتَّقُوا
+    arabic: وَٱتَّقُواْ
     translation: and fear
     transliteration: wa-ittaqū
   122:
-    arabic: اللّٰهَ​ ؕ
+    arabic: ٱللَّهَۖ
     translation: Allah
     transliteration: l-laha
   123:
@@ -524,11 +523,11 @@ word_by_word:
     translation: And teaches
     transliteration: wayuʿallimukumu
   124:
-    arabic: اللّٰهُ​ ؕ
+    arabic: ٱللَّهُۗ
     translation: Allah
     transliteration: l-lahu
   125:
-    arabic: وَاللّٰهُ
+    arabic: وَٱللَّهُ
     translation: And Allah
     transliteration: wal-lahu
   126:
@@ -536,11 +535,11 @@ word_by_word:
     translation: of every
     transliteration: bikulli
   127:
-    arabic: شَىۡءٍ
+    arabic: شَيۡءٍ
     translation: thing
     transliteration: shayin
   128:
-    arabic: "عَلِيۡمٌ‏ \uFEFF\uFEFF"
+    arabic: عَلِيمٞ
     translation: (is) All-Knower
     transliteration: ʿalīmun
 ---

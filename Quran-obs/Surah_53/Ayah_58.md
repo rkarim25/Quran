@@ -1,5 +1,5 @@
 ---
-arabic_ayat: لَيۡسَ لَهَا مِنۡ دُوۡنِ اللّٰهِ كَاشِفَةٌ ؕ‏
+arabic_ayat: لَيۡسَ لَهَا مِن دُونِ ٱللَّهِ كَاشِفَةٌ
 sentence_translation: None but Allah can disclose it.
 word_by_word:
   1:
@@ -11,19 +11,19 @@ word_by_word:
     translation: for it
     transliteration: lahā
   3:
-    arabic: مِنۡ
+    arabic: مِن
     translation: besides
     transliteration: min
   4:
-    arabic: دُوۡنِ
+    arabic: دُونِ
     translation: besides
     transliteration: dūni
   5:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   6:
-    arabic: كَاشِفَةٌ ؕ‏
+    arabic: كَاشِفَةٌ
     translation: any remover
     transliteration: kāshifatun
 ---

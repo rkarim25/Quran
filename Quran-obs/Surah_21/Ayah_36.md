@@ -1,61 +1,60 @@
 ---
-arabic_ayat: "وَاِذَا رَاٰكَ الَّذِيۡنَ كَفَرُوۡۤا اِنۡ يَّتَّخِذُوۡنَكَ اِلَّا هُزُوًا\
-  \ ؕ اَهٰذَا الَّذِىۡ يَذۡكُرُ اٰلِهَـتَكُمۡ​ۚ وَهُمۡ بِذِكۡرِ الرَّحۡمٰنِ هُمۡ كٰفِرُوۡنَ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: وَإِذَا رَءَاكَ ٱلَّذِينَ كَفَرُوٓاْ إِن يَتَّخِذُونَكَ إِلَّا هُزُوًا
+  أَهَٰذَا ٱلَّذِي يَذۡكُرُ ءَالِهَتَكُمۡ وَهُم بِذِكۡرِ ٱلرَّحۡمَٰنِ هُمۡ كَٰفِرُونَ
 sentence_translation: When the disbelievers see you ˹O Prophet˺, they only make fun
   of you, ˹saying,˺ “Is this the one who speaks ˹ill˺ of your gods?” while they disbelieve
   at the mention of the Most Compassionate.
 word_by_word:
   1:
-    arabic: وَاِذَا
+    arabic: وَإِذَا
     translation: And when
     transliteration: wa-idhā
   2:
-    arabic: رَاٰكَ
+    arabic: رَءَاكَ
     translation: they see you
     transliteration: raāka
   3:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   4:
-    arabic: كَفَرُوۡۤا
+    arabic: كَفَرُوٓاْ
     translation: disbelieve
     transliteration: kafarū
   5:
-    arabic: اِنۡ
+    arabic: إِن
     translation: not
     transliteration: in
   6:
-    arabic: يَّتَّخِذُوۡنَكَ
+    arabic: يَتَّخِذُونَكَ
     translation: they take you
     transliteration: yattakhidhūnaka
   7:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   8:
-    arabic: هُزُوًا ؕ
+    arabic: هُزُوًا
     translation: (in) ridicule
     transliteration: huzuwan
   9:
-    arabic: اَهٰذَا
+    arabic: أَهَٰذَا
     translation: Is this
     transliteration: ahādhā
   10:
-    arabic: الَّذِىۡ
+    arabic: ٱلَّذِي
     translation: the one who
     transliteration: alladhī
   11:
-    arabic: يَذۡكُرُ
+    arabic: يَذۡكُرُ ءَ
     translation: mentions
     transliteration: yadhkuru
   12:
-    arabic: اٰلِهَـتَكُمۡ​ۚ
+    arabic: الِهَتَكُمۡ
     translation: your gods
     transliteration: ālihatakum
   13:
-    arabic: وَهُمۡ
+    arabic: وَهُم
     translation: And they
     transliteration: wahum
   14:
@@ -63,7 +62,7 @@ word_by_word:
     translation: at (the) mention
     transliteration: bidhik'ri
   15:
-    arabic: الرَّحۡمٰنِ
+    arabic: ٱلرَّحۡمَٰنِ
     translation: (of) the Most Gracious
     transliteration: l-raḥmāni
   16:
@@ -71,7 +70,7 @@ word_by_word:
     translation: '[they]'
     transliteration: hum
   17:
-    arabic: "كٰفِرُوۡنَ‏ \uFEFF\uFEFF"
+    arabic: كَٰفِرُونَ
     translation: (are) disbelievers
     transliteration: kāfirūna
 ---

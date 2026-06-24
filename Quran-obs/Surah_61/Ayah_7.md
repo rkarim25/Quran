@@ -1,6 +1,6 @@
 ---
-arabic_ayat: وَمَنۡ اَظۡلَمُ مِمَّنِ افۡتَـرٰى عَلَى اللّٰهِ الۡكَذِبَ وَهُوَ يُدۡعٰٓى
-  اِلَى الۡاِسۡلَامِ​ ؕ وَاللّٰهُ لَا يَهۡدِى الۡقَوۡمَ الظّٰلِمِيۡنَ‏
+arabic_ayat: وَمَنۡ أَظۡلَمُ مِمَّنِ ٱفۡتَرَىٰ عَلَى ٱللَّهِ ٱلۡكَذِبَ وَهُوَ يُدۡعَىٰٓ
+  إِلَى ٱلۡإِسۡلَٰمِۚ وَٱللَّهُ لَا يَهۡدِي ٱلۡقَوۡمَ ٱلظَّٰلِمِينَ
 sentence_translation: Who does more wrong than the one who fabricates lies about Allah
   when invited to submit ˹to Him˺? For Allah does not guide the wrongdoing people.
 word_by_word:
@@ -9,7 +9,7 @@ word_by_word:
     translation: And who
     transliteration: waman
   2:
-    arabic: اَظۡلَمُ
+    arabic: أَظۡلَمُ
     translation: (is) more wrong
     transliteration: aẓlamu
   3:
@@ -17,7 +17,7 @@ word_by_word:
     translation: than (one) who
     transliteration: mimmani
   4:
-    arabic: افۡتَـرٰى
+    arabic: ٱفۡتَرَىٰ
     translation: invents
     transliteration: if'tarā
   5:
@@ -25,11 +25,11 @@ word_by_word:
     translation: upon
     transliteration: ʿalā
   6:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   7:
-    arabic: الۡكَذِبَ
+    arabic: ٱلۡكَذِبَ
     translation: the lie
     transliteration: l-kadhiba
   8:
@@ -37,19 +37,19 @@ word_by_word:
     translation: while he
     transliteration: wahuwa
   9:
-    arabic: يُدۡعٰٓى
+    arabic: يُدۡعَىٰٓ
     translation: is invited
     transliteration: yud'ʿā
   10:
-    arabic: اِلَى
+    arabic: إِلَى
     translation: to
     transliteration: ilā
   11:
-    arabic: الۡاِسۡلَامِ​ ؕ
+    arabic: ٱلۡإِسۡلَٰمِۚ
     translation: Islam
     transliteration: l-is'lāmi
   12:
-    arabic: وَاللّٰهُ
+    arabic: وَٱللَّهُ
     translation: And Allah
     transliteration: wal-lahu
   13:
@@ -57,15 +57,15 @@ word_by_word:
     translation: (does) not
     transliteration: lā
   14:
-    arabic: يَهۡدِى
+    arabic: يَهۡدِي
     translation: guide
     transliteration: yahdī
   15:
-    arabic: الۡقَوۡمَ
+    arabic: ٱلۡقَوۡمَ
     translation: the people
     transliteration: l-qawma
   16:
-    arabic: الظّٰلِمِيۡنَ‏
+    arabic: ٱلظَّٰلِمِينَ
     translation: '[the] wrongdoers'
     transliteration: l-ẓālimīna
 ---

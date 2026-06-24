@@ -1,17 +1,17 @@
 ---
-arabic_ayat: وَثَمُوۡدَا۟ فَمَاۤ اَبۡقٰىۙ‏
+arabic_ayat: وَثَمُودَاْ فَمَآ أَبۡقَىٰ
 sentence_translation: and ˹then˺ Thamûd, sparing no one.
 word_by_word:
   1:
-    arabic: وَثَمُوۡدَا۟
+    arabic: وَثَمُودَاْ
     translation: And Thamud
     transliteration: wathamūdā
   2:
-    arabic: فَمَاۤ
+    arabic: فَمَآ
     translation: so not
     transliteration: famā
   3:
-    arabic: اَبۡقٰىۙ‏
+    arabic: أَبۡقَىٰ
     translation: He spared
     transliteration: abqā
 ---

@@ -1,10 +1,10 @@
 ---
-arabic_ayat: اِنَّ مَا تُوۡعَدُوۡنَ لَاٰتٍ​ ۙوَّمَاۤ اَنۡـتُمۡ بِمُعۡجِزِيۡنَ‏
+arabic_ayat: إِنَّ مَا تُوعَدُونَ لَأٓتٖۖ وَمَآ أَنتُم بِمُعۡجِزِينَ
 sentence_translation: Indeed, what you have been promised will certainly come to pass.
   And you will have no escape.
 word_by_word:
   1:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   2:
@@ -12,23 +12,23 @@ word_by_word:
     translation: what
     transliteration: mā
   3:
-    arabic: تُوۡعَدُوۡنَ
+    arabic: تُوعَدُونَ
     translation: you are promised
     transliteration: tūʿadūna
   4:
-    arabic: لَاٰتٍ​ ۙ
+    arabic: لَأٓتٖۖ
     translation: (is) sure to come
     transliteration: laātin
   5:
-    arabic: وَّمَاۤ
+    arabic: وَمَآ
     translation: And not
     transliteration: wamā
   6:
-    arabic: اَنۡـتُمۡ
+    arabic: أَنتُم
     translation: (can) you
     transliteration: antum
   7:
-    arabic: بِمُعۡجِزِيۡنَ‏
+    arabic: بِمُعۡجِزِينَ
     translation: escape (it)
     transliteration: bimuʿ'jizīna
 ---

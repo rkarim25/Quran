@@ -1,16 +1,16 @@
 ---
-arabic_ayat: وَالَّذِيۡنَ يَقُوۡلُوۡنَ رَبَّنَا هَبۡ لَـنَا مِنۡ اَزۡوَاجِنَا وَذُرِّيّٰتِنَا
-  قُرَّةَ اَعۡيُنٍ وَّاجۡعَلۡنَا لِلۡمُتَّقِيۡنَ اِمَامًا‏
+arabic_ayat: وَٱلَّذِينَ يَقُولُونَ رَبَّنَا هَبۡ لَنَا مِنۡ أَزۡوَٰجِنَا وَذُرِّيَّٰتِنَا
+  قُرَّةَ أَعۡيُنٖ وَٱجۡعَلۡنَا لِلۡمُتَّقِينَ إِمَامًا
 sentence_translation: ˹They are˺ those who pray, “Our Lord! Bless us with ˹pious˺
   spouses and offspring who will be the joy of our hearts, and make us models for
   the righteous.”
 word_by_word:
   1:
-    arabic: وَالَّذِيۡنَ
+    arabic: وَٱلَّذِينَ
     translation: And those who
     transliteration: wa-alladhīna
   2:
-    arabic: يَقُوۡلُوۡنَ
+    arabic: يَقُولُونَ
     translation: say
     transliteration: yaqūlūna
   3:
@@ -22,7 +22,7 @@ word_by_word:
     translation: Grant
     transliteration: hab
   5:
-    arabic: لَـنَا
+    arabic: لَنَا
     translation: to us
     transliteration: lanā
   6:
@@ -30,11 +30,11 @@ word_by_word:
     translation: from
     transliteration: min
   7:
-    arabic: اَزۡوَاجِنَا
+    arabic: أَزۡوَٰجِنَا
     translation: our spouses
     transliteration: azwājinā
   8:
-    arabic: وَذُرِّيّٰتِنَا
+    arabic: وَذُرِّيَّٰتِنَا
     translation: and our offspring
     transliteration: wadhurriyyātinā
   9:
@@ -42,19 +42,19 @@ word_by_word:
     translation: comfort
     transliteration: qurrata
   10:
-    arabic: اَعۡيُنٍ
+    arabic: أَعۡيُنٖ
     translation: (to) our eyes
     transliteration: aʿyunin
   11:
-    arabic: وَّاجۡعَلۡنَا
+    arabic: وَٱجۡعَلۡنَا
     translation: and make us
     transliteration: wa-ij'ʿalnā
   12:
-    arabic: لِلۡمُتَّقِيۡنَ
+    arabic: لِلۡمُتَّقِينَ
     translation: for the righteous
     transliteration: lil'muttaqīna
   13:
-    arabic: اِمَامًا‏
+    arabic: إِمَامًا
     translation: a leader
     transliteration: imāman
 ---

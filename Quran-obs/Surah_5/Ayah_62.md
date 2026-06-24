@@ -1,15 +1,15 @@
 ---
-arabic_ayat: وَتَرٰى كَثِيۡرًا مِّنۡهُمۡ يُسَارِعُوۡنَ فِى الۡاِثۡمِ وَالۡعُدۡوَانِ
-  وَاَكۡلِهِمُ السُّحۡتَ​ ؕ لَبِئۡسَ مَا كَانُوۡا يَعۡمَلُوۡنَ‏
+arabic_ayat: وَتَرَىٰ كَثِيرٗا مِّنۡهُمۡ يُسَٰرِعُونَ فِي ٱلۡإِثۡمِ وَٱلۡعُدۡوَٰنِ
+  وَأَكۡلِهِمُ ٱلسُّحۡتَۚ لَبِئۡسَ مَا كَانُواْ يَعۡمَلُونَ
 sentence_translation: You see many of them racing towards sin, transgression, and
   consumption of forbidden gain. Evil indeed are their actions!
 word_by_word:
   1:
-    arabic: وَتَرٰى
+    arabic: وَتَرَىٰ
     translation: And you see
     transliteration: watarā
   2:
-    arabic: كَثِيۡرًا
+    arabic: كَثِيرٗا
     translation: many
     transliteration: kathīran
   3:
@@ -17,27 +17,27 @@ word_by_word:
     translation: of them
     transliteration: min'hum
   4:
-    arabic: يُسَارِعُوۡنَ
+    arabic: يُسَٰرِعُونَ
     translation: hastening
     transliteration: yusāriʿūna
   5:
-    arabic: فِى
+    arabic: فِي
     translation: into
     transliteration: fī
   6:
-    arabic: الۡاِثۡمِ
+    arabic: ٱلۡإِثۡمِ
     translation: '[the] sin'
     transliteration: l-ith'mi
   7:
-    arabic: وَالۡعُدۡوَانِ
+    arabic: وَٱلۡعُدۡوَٰنِ
     translation: and [the] transgression
     transliteration: wal-ʿud'wāni
   8:
-    arabic: وَاَكۡلِهِمُ
+    arabic: وَأَكۡلِهِمُ
     translation: and eating
     transliteration: wa-aklihimu
   9:
-    arabic: السُّحۡتَ​ ؕ
+    arabic: ٱلسُّحۡتَۚ
     translation: the forbidden
     transliteration: l-suḥ'ta
   10:
@@ -49,11 +49,11 @@ word_by_word:
     translation: (is) what
     transliteration: mā
   12:
-    arabic: كَانُوۡا
+    arabic: كَانُواْ
     translation: they were
     transliteration: kānū
   13:
-    arabic: يَعۡمَلُوۡنَ‏
+    arabic: يَعۡمَلُونَ
     translation: doing
     transliteration: yaʿmalūna
 ---

@@ -1,6 +1,6 @@
 ---
-arabic_ayat: وَهُوَ اللّٰهُ لَاۤ اِلٰهَ اِلَّا هُوَ​ؕ لَـهُ الۡحَمۡدُ فِى الۡاُوۡلٰى
-  وَالۡاٰخِرَةِ وَلَـهُ الۡحُكۡمُ وَاِلَيۡهِ تُرۡجَعُوۡنَ‏
+arabic_ayat: وَهُوَ ٱللَّهُ لَآ إِلَٰهَ إِلَّا هُوَۖ لَهُ ٱلۡحَمۡدُ فِي ٱلۡأُولَىٰ
+  وَٱلۡأٓخِرَةِۖ وَلَهُ ٱلۡحُكۡمُ وَإِلَيۡهِ تُرۡجَعُونَ
 sentence_translation: He is Allah. There is no god ˹worthy of worship˺ except Him.
   All praise belongs to Him in this life and the next. All authority is His. And to
   Him you will ˹all˺ be returned.
@@ -10,59 +10,59 @@ word_by_word:
     translation: And He
     transliteration: wahuwa
   2:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: (is) Allah
     transliteration: l-lahu
   3:
-    arabic: لَاۤ
+    arabic: لَآ
     translation: (there is) no
     transliteration: lā
   4:
-    arabic: اِلٰهَ
+    arabic: إِلَٰهَ
     translation: god
     transliteration: ilāha
   5:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: but
     transliteration: illā
   6:
-    arabic: هُوَ​ؕ
+    arabic: هُوَۖ
     translation: He
     transliteration: huwa
   7:
-    arabic: لَـهُ
+    arabic: لَهُ
     translation: To Him
     transliteration: lahu
   8:
-    arabic: الۡحَمۡدُ
+    arabic: ٱلۡحَمۡدُ
     translation: (are due) all praises
     transliteration: l-ḥamdu
   9:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   10:
-    arabic: الۡاُوۡلٰى
+    arabic: ٱلۡأُولَىٰ
     translation: the first
     transliteration: l-ūlā
   11:
-    arabic: وَالۡاٰخِرَةِ
+    arabic: وَٱلۡأٓخِرَةِۖ
     translation: and the last
     transliteration: wal-ākhirati
   12:
-    arabic: وَلَـهُ
+    arabic: وَلَهُ
     translation: And for Him
     transliteration: walahu
   13:
-    arabic: الۡحُكۡمُ
+    arabic: ٱلۡحُكۡمُ
     translation: (is) the Decision
     transliteration: l-ḥuk'mu
   14:
-    arabic: وَاِلَيۡهِ
+    arabic: وَإِلَيۡهِ
     translation: and to Him
     transliteration: wa-ilayhi
   15:
-    arabic: تُرۡجَعُوۡنَ‏
+    arabic: تُرۡجَعُونَ
     translation: you will be returned
     transliteration: tur'jaʿūna
 ---

@@ -1,15 +1,15 @@
 ---
-arabic_ayat: اِنَّمَا السَّبِيۡلُ عَلَى الَّذِيۡنَ يَظۡلِمُوۡنَ النَّاسَ وَ يَبۡغُوۡنَ
-  فِى الۡاَرۡضِ بِغَيۡرِ الۡحَقِّ​ؕ اُولٰٓٮِٕكَ لَهُمۡ عَذَابٌ اَلِيۡمٌ‏
+arabic_ayat: إِنَّمَا ٱلسَّبِيلُ عَلَى ٱلَّذِينَ يَظۡلِمُونَ ٱلنَّاسَ وَيَبۡغُونَ
+  فِي ٱلۡأَرۡضِ بِغَيۡرِ ٱلۡحَقِّۚ أُوْلَٰٓئِكَ لَهُمۡ عَذَابٌ أَلِيمٞ
 sentence_translation: Blame is only on those who wrong people and transgress in the
   land unjustly. It is they who will suffer a painful punishment.
 word_by_word:
   1:
-    arabic: اِنَّمَا
+    arabic: إِنَّمَا
     translation: Only
     transliteration: innamā
   2:
-    arabic: السَّبِيۡلُ
+    arabic: ٱلسَّبِيلُ
     translation: the way
     transliteration: l-sabīlu
   3:
@@ -17,27 +17,27 @@ word_by_word:
     translation: against
     transliteration: ʿalā
   4:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   5:
-    arabic: يَظۡلِمُوۡنَ
+    arabic: يَظۡلِمُونَ
     translation: oppress
     transliteration: yaẓlimūna
   6:
-    arabic: النَّاسَ
+    arabic: ٱلنَّاسَ
     translation: the people
     transliteration: l-nāsa
   7:
-    arabic: وَ يَبۡغُوۡنَ
+    arabic: وَيَبۡغُونَ
     translation: and rebel
     transliteration: wayabghūna
   8:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   9:
-    arabic: الۡاَرۡضِ
+    arabic: ٱلۡأَرۡضِ
     translation: the earth
     transliteration: l-arḍi
   10:
@@ -45,11 +45,11 @@ word_by_word:
     translation: without
     transliteration: bighayri
   11:
-    arabic: الۡحَقِّ​ؕ
+    arabic: ٱلۡحَقِّۚ
     translation: right
     transliteration: l-ḥaqi
   12:
-    arabic: اُولٰٓٮِٕكَ
+    arabic: أُوْلَٰٓئِكَ
     translation: Those
     transliteration: ulāika
   13:
@@ -61,7 +61,7 @@ word_by_word:
     translation: (is) a punishment
     transliteration: ʿadhābun
   15:
-    arabic: اَلِيۡمٌ‏
+    arabic: أَلِيمٞ
     translation: painful
     transliteration: alīmun
 ---

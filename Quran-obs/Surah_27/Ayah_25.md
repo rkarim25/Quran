@@ -1,24 +1,24 @@
 ---
-arabic_ayat: اَلَّا يَسۡجُدُوۡا لِلّٰهِ الَّذِىۡ يُخۡرِجُ الۡخَبۡءَ فِى السَّمٰوٰتِ
-  وَالۡاَرۡضِ وَيَعۡلَمُ مَا تُخۡفُوۡنَ وَمَا تُعۡلِنُوۡنَ‏
+arabic_ayat: أَلَّاۤ يَسۡجُدُواْۤ لِلَّهِ ٱلَّذِي يُخۡرِجُ ٱلۡخَبۡءَ فِي ٱلسَّمَٰوَٰتِ
+  وَٱلۡأَرۡضِ وَيَعۡلَمُ مَا تُخۡفُونَ وَمَا تُعۡلِنُونَ
 sentence_translation: so they do not prostrate to Allah, Who brings forth what is
   hidden in the heavens and the earth, and knows what you ˹all˺ conceal and what you
   reveal.
 word_by_word:
   1:
-    arabic: اَلَّا
+    arabic: أَلَّاۤ
     translation: That not
     transliteration: allā
   2:
-    arabic: يَسۡجُدُوۡا
+    arabic: يَسۡجُدُواْۤ
     translation: they prostrate
     transliteration: yasjudū
   3:
-    arabic: لِلّٰهِ
+    arabic: لِلَّهِ
     translation: to Allah
     transliteration: lillahi
   4:
-    arabic: الَّذِىۡ
+    arabic: ٱلَّذِي
     translation: the One Who
     transliteration: alladhī
   5:
@@ -26,19 +26,19 @@ word_by_word:
     translation: brings forth
     transliteration: yukh'riju
   6:
-    arabic: الۡخَبۡءَ
+    arabic: ٱلۡخَبۡءَ
     translation: the hidden
     transliteration: l-khaba-a
   7:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   8:
-    arabic: السَّمٰوٰتِ
+    arabic: ٱلسَّمَٰوَٰتِ
     translation: the heavens
     transliteration: l-samāwāti
   9:
-    arabic: وَالۡاَرۡضِ
+    arabic: وَٱلۡأَرۡضِ
     translation: and the earth
     transliteration: wal-arḍi
   10:
@@ -50,7 +50,7 @@ word_by_word:
     translation: what
     transliteration: mā
   12:
-    arabic: تُخۡفُوۡنَ
+    arabic: تُخۡفُونَ
     translation: you conceal
     transliteration: tukh'fūna
   13:
@@ -58,7 +58,7 @@ word_by_word:
     translation: and what
     transliteration: wamā
   14:
-    arabic: تُعۡلِنُوۡنَ‏
+    arabic: تُعۡلِنُونَ
     translation: you declare
     transliteration: tuʿ'linūna
 ---

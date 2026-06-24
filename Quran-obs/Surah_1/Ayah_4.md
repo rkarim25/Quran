@@ -1,9 +1,9 @@
 ---
-arabic_ayat: مٰلِكِ يَوۡمِ الدِّيۡنِؕ‏
+arabic_ayat: مَٰلِكِ يَوۡمِ ٱلدِّينِ
 sentence_translation: Master of the Day of Judgment.
 word_by_word:
   1:
-    arabic: مٰلِكِ
+    arabic: مَٰلِكِ
     translation: (The) Master
     transliteration: māliki
   2:
@@ -11,7 +11,7 @@ word_by_word:
     translation: (of the) Day
     transliteration: yawmi
   3:
-    arabic: الدِّيۡنِؕ‏
+    arabic: ٱلدِّينِ
     translation: (of the) Judgment
     transliteration: l-dīni
 ---

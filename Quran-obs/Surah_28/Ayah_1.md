@@ -1,9 +1,9 @@
 ---
-arabic_ayat: طٰسٓمٓ‏
+arabic_ayat: طسٓمٓ
 sentence_translation: Ṭâ-Sĩn-Mĩm.
 word_by_word:
   1:
-    arabic: طٰسٓمٓ‏
+    arabic: طسٓمٓ
     translation: Ta Seem Meem
     transliteration: tta-seen-meem
 ---

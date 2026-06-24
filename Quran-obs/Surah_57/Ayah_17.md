@@ -1,27 +1,27 @@
 ---
-arabic_ayat: اِعۡلَمُوۡۤا اَنَّ اللّٰهَ يُحۡىِ الۡاَرۡضَ بَعۡدَ مَوۡتِهَا​ؕ قَدۡ بَيَّنَّا
-  لَكُمُ الۡاٰيٰتِ لَعَلَّكُمۡ تَعۡقِلُوۡنَ‏
+arabic_ayat: ٱعۡلَمُوٓاْ أَنَّ ٱللَّهَ يُحۡيِ ٱلۡأَرۡضَ بَعۡدَ مَوۡتِهَاۚ قَدۡ بَيَّنَّا
+  لَكُمُ ٱلۡأٓيَٰتِ لَعَلَّكُمۡ تَعۡقِلُونَ
 sentence_translation: Know that Allah revives the earth after its death. We have certainly
   made the signs clear for you so perhaps you will understand.
 word_by_word:
   1:
-    arabic: اِعۡلَمُوۡۤا
+    arabic: ٱعۡلَمُوٓاْ
     translation: Know
     transliteration: iʿ'lamū
   2:
-    arabic: اَنَّ
+    arabic: أَنَّ
     translation: that
     transliteration: anna
   3:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   4:
-    arabic: يُحۡىِ
+    arabic: يُحۡيِ
     translation: gives life
     transliteration: yuḥ'yī
   5:
-    arabic: الۡاَرۡضَ
+    arabic: ٱلۡأَرۡضَ
     translation: (to) the earth
     transliteration: l-arḍa
   6:
@@ -29,7 +29,7 @@ word_by_word:
     translation: after
     transliteration: baʿda
   7:
-    arabic: مَوۡتِهَا​ؕ
+    arabic: مَوۡتِهَاۚ
     translation: its death
     transliteration: mawtihā
   8:
@@ -45,7 +45,7 @@ word_by_word:
     translation: to you
     transliteration: lakumu
   11:
-    arabic: الۡاٰيٰتِ
+    arabic: ٱلۡأٓيَٰتِ
     translation: the Signs
     transliteration: l-āyāti
   12:
@@ -53,7 +53,7 @@ word_by_word:
     translation: so that you may
     transliteration: laʿallakum
   13:
-    arabic: تَعۡقِلُوۡنَ‏
+    arabic: تَعۡقِلُونَ
     translation: understand
     transliteration: taʿqilūna
 ---

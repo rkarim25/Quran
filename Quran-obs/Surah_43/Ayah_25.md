@@ -1,19 +1,18 @@
 ---
-arabic_ayat: "فَانْتَقَمۡنَا مِنۡهُمۡ​ فَانْظُرۡ كَيۡفَ كَانَ عَاقِبَةُ الۡمُكَذِّبِيۡنَ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: فَٱنتَقَمۡنَا مِنۡهُمۡۖ فَٱنظُرۡ كَيۡفَ كَانَ عَٰقِبَةُ ٱلۡمُكَذِّبِينَ
 sentence_translation: So We inflicted punishment upon them. See then what was the
   fate of the deniers!
 word_by_word:
   1:
-    arabic: فَانْتَقَمۡنَا
+    arabic: فَٱنتَقَمۡنَا
     translation: So We took retribution
     transliteration: fa-intaqamnā
   2:
-    arabic: مِنۡهُمۡ​
+    arabic: مِنۡهُمۡۖ
     translation: from them
     transliteration: min'hum
   3:
-    arabic: فَانْظُرۡ
+    arabic: فَٱنظُرۡ
     translation: Then see
     transliteration: fa-unẓur
   4:
@@ -25,11 +24,11 @@ word_by_word:
     translation: was
     transliteration: kāna
   6:
-    arabic: عَاقِبَةُ
+    arabic: عَٰقِبَةُ
     translation: (the) end
     transliteration: ʿāqibatu
   7:
-    arabic: "الۡمُكَذِّبِيۡنَ‏ \uFEFF\uFEFF"
+    arabic: ٱلۡمُكَذِّبِينَ
     translation: (of) the deniers
     transliteration: l-mukadhibīna
 ---

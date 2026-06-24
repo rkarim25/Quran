@@ -1,12 +1,12 @@
 ---
-arabic_ayat: قُلْ لَّوۡ اَنَّ عِنۡدِىۡ مَا تَسۡتَعۡجِلُوۡنَ بِهٖ لَقُضِىَ الۡاَمۡرُ
-  بَيۡنِىۡ وَبَيۡنَكُمۡ​ؕ وَاللّٰهُ اَعۡلَمُ بِالظّٰلِمِيۡنَ‏
+arabic_ayat: قُل لَّوۡ أَنَّ عِندِي مَا تَسۡتَعۡجِلُونَ بِهِۦ لَقُضِيَ ٱلۡأَمۡرُ بَيۡنِي
+  وَبَيۡنَكُمۡۗ وَٱللَّهُ أَعۡلَمُ بِٱلظَّٰلِمِينَ
 sentence_translation: Say ˹also˺, “If what you seek to hasten were within my power,
   the matter between us would have already been settled. But Allah knows the wrongdoers
   best.”
 word_by_word:
   1:
-    arabic: قُلْ
+    arabic: قُل
     translation: Say
     transliteration: qul
   2:
@@ -14,11 +14,11 @@ word_by_word:
     translation: If
     transliteration: law
   3:
-    arabic: اَنَّ
+    arabic: أَنَّ
     translation: that
     transliteration: anna
   4:
-    arabic: عِنۡدِىۡ
+    arabic: عِندِي
     translation: (were) with me
     transliteration: ʿindī
   5:
@@ -26,39 +26,39 @@ word_by_word:
     translation: what
     transliteration: mā
   6:
-    arabic: تَسۡتَعۡجِلُوۡنَ
+    arabic: تَسۡتَعۡجِلُونَ
     translation: you seek to hasten
     transliteration: tastaʿjilūna
   7:
-    arabic: بِهٖ
+    arabic: بِهِۦ
     translation: of it
     transliteration: bihi
   8:
-    arabic: لَقُضِىَ
+    arabic: لَقُضِيَ
     translation: surely would have been decided
     transliteration: laquḍiya
   9:
-    arabic: الۡاَمۡرُ
+    arabic: ٱلۡأَمۡرُ
     translation: the matter
     transliteration: l-amru
   10:
-    arabic: بَيۡنِىۡ
+    arabic: بَيۡنِي
     translation: between me
     transliteration: baynī
   11:
-    arabic: وَبَيۡنَكُمۡ​ؕ
+    arabic: وَبَيۡنَكُمۡۗ
     translation: and between you
     transliteration: wabaynakum
   12:
-    arabic: وَاللّٰهُ
+    arabic: وَٱللَّهُ
     translation: And Allah
     transliteration: wal-lahu
   13:
-    arabic: اَعۡلَمُ
+    arabic: أَعۡلَمُ
     translation: (is) most knowing
     transliteration: aʿlamu
   14:
-    arabic: بِالظّٰلِمِيۡنَ‏
+    arabic: بِٱلظَّٰلِمِينَ
     translation: of the wrongdoers
     transliteration: bil-ẓālimīna
 ---

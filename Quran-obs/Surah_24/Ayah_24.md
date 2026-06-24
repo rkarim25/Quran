@@ -1,11 +1,11 @@
 ---
-arabic_ayat: يَّوۡمَ تَشۡهَدُ عَلَيۡهِمۡ اَلۡسِنَـتُهُمۡ وَاَيۡدِيۡهِمۡ وَاَرۡجُلُهُمۡ
-  بِمَا كَانُوۡا يَعۡمَلُوۡنَ‏
+arabic_ayat: يَوۡمَ تَشۡهَدُ عَلَيۡهِمۡ أَلۡسِنَتُهُمۡ وَأَيۡدِيهِمۡ وَأَرۡجُلُهُم
+  بِمَا كَانُواْ يَعۡمَلُونَ
 sentence_translation: on the Day their tongues, hands, and feet will testify against
   them for what they used to do.
 word_by_word:
   1:
-    arabic: يَّوۡمَ
+    arabic: يَوۡمَ
     translation: (On a) Day
     transliteration: yawma
   2:
@@ -17,15 +17,15 @@ word_by_word:
     translation: against them
     transliteration: ʿalayhim
   4:
-    arabic: اَلۡسِنَـتُهُمۡ
+    arabic: أَلۡسِنَتُهُمۡ
     translation: their tongues
     transliteration: alsinatuhum
   5:
-    arabic: وَاَيۡدِيۡهِمۡ
+    arabic: وَأَيۡدِيهِمۡ
     translation: and their hands
     transliteration: wa-aydīhim
   6:
-    arabic: وَاَرۡجُلُهُمۡ
+    arabic: وَأَرۡجُلُهُم
     translation: and their feet
     transliteration: wa-arjuluhum
   7:
@@ -33,11 +33,11 @@ word_by_word:
     translation: for what
     transliteration: bimā
   8:
-    arabic: كَانُوۡا
+    arabic: كَانُواْ
     translation: they used
     transliteration: kānū
   9:
-    arabic: يَعۡمَلُوۡنَ‏
+    arabic: يَعۡمَلُونَ
     translation: (to) do
     transliteration: yaʿmalūna
 ---

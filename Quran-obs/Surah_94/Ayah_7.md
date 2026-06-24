@@ -1,9 +1,9 @@
 ---
-arabic_ayat: فَاِذَا فَرَغۡتَ فَانۡصَبۡۙ‏
+arabic_ayat: فَإِذَا فَرَغۡتَ فَٱنصَبۡ
 sentence_translation: So once you have fulfilled ˹your duty˺, strive ˹in devotion˺,
 word_by_word:
   1:
-    arabic: فَاِذَا
+    arabic: فَإِذَا
     translation: So when
     transliteration: fa-idhā
   2:
@@ -11,7 +11,7 @@ word_by_word:
     translation: you have finished
     transliteration: faraghta
   3:
-    arabic: فَانۡصَبۡۙ‏
+    arabic: فَٱنصَبۡ
     translation: then labor hard
     transliteration: fa-inṣab
 ---

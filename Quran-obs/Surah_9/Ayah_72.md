@@ -1,7 +1,7 @@
 ---
-arabic_ayat: وَعَدَ اللّٰهُ الۡمُؤۡمِنِيۡنَ وَالۡمُؤۡمِنٰتِ جَنّٰتٍ تَجۡرِىۡ مِنۡ
-  تَحۡتِهَا الۡاَنۡهٰرُ خٰلِدِيۡنَ فِيۡهَا وَمَسٰكِنَ طَيِّبَةً فِىۡ جَنّٰتِ عَدۡنٍ​
-  ؕ وَرِضۡوَانٌ مِّنَ اللّٰهِ اَكۡبَرُ​ ؕ ذٰ لِكَ هُوَ الۡفَوۡزُ الۡعَظِيۡمُ‏
+arabic_ayat: وَعَدَ ٱللَّهُ ٱلۡمُؤۡمِنِينَ وَٱلۡمُؤۡمِنَٰتِ جَنَّٰتٖ تَجۡرِي مِن تَحۡتِهَا
+  ٱلۡأَنۡهَٰرُ خَٰلِدِينَ فِيهَا وَمَسَٰكِنَ طَيِّبَةٗ فِي جَنَّٰتِ عَدۡنٖۚ وَرِضۡوَٰنٞ
+  مِّنَ ٱللَّهِ أَكۡبَرُۚ ذَٰلِكَ هُوَ ٱلۡفَوۡزُ ٱلۡعَظِيمُ
 sentence_translation: Allah has promised the believers, both men and women, Gardens
   under which rivers flow, to stay there forever, and splendid homes in the Gardens
   of Eternity, and—above all—the pleasure of Allah. That is ˹truly˺ the ultimate triumph.
@@ -11,27 +11,27 @@ word_by_word:
     translation: (Has been) promised
     transliteration: waʿada
   2:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: (by) Allah
     transliteration: l-lahu
   3:
-    arabic: الۡمُؤۡمِنِيۡنَ
+    arabic: ٱلۡمُؤۡمِنِينَ
     translation: (to) the believing men
     transliteration: l-mu'minīna
   4:
-    arabic: وَالۡمُؤۡمِنٰتِ
+    arabic: وَٱلۡمُؤۡمِنَٰتِ
     translation: and the believing women
     transliteration: wal-mu'mināti
   5:
-    arabic: جَنّٰتٍ
+    arabic: جَنَّٰتٖ
     translation: Gardens
     transliteration: jannātin
   6:
-    arabic: تَجۡرِىۡ
+    arabic: تَجۡرِي
     translation: flow
     transliteration: tajrī
   7:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   8:
@@ -39,39 +39,39 @@ word_by_word:
     translation: underneath it
     transliteration: taḥtihā
   9:
-    arabic: الۡاَنۡهٰرُ
+    arabic: ٱلۡأَنۡهَٰرُ
     translation: the rivers
     transliteration: l-anhāru
   10:
-    arabic: خٰلِدِيۡنَ
+    arabic: خَٰلِدِينَ
     translation: (will) abide forever
     transliteration: khālidīna
   11:
-    arabic: فِيۡهَا
+    arabic: فِيهَا
     translation: in it
     transliteration: fīhā
   12:
-    arabic: وَمَسٰكِنَ
+    arabic: وَمَسَٰكِنَ
     translation: and dwellings
     transliteration: wamasākina
   13:
-    arabic: طَيِّبَةً
+    arabic: طَيِّبَةٗ
     translation: blessed
     transliteration: ṭayyibatan
   14:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   15:
-    arabic: جَنّٰتِ
+    arabic: جَنَّٰتِ
     translation: Gardens
     transliteration: jannāti
   16:
-    arabic: عَدۡنٍ​ ؕ
+    arabic: عَدۡنٖۚ
     translation: (of) everlasting bliss
     transliteration: ʿadnin
   17:
-    arabic: وَرِضۡوَانٌ
+    arabic: وَرِضۡوَٰنٞ
     translation: But the pleasure
     transliteration: wariḍ'wānun
   18:
@@ -79,15 +79,15 @@ word_by_word:
     translation: of
     transliteration: mina
   19:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   20:
-    arabic: اَكۡبَرُ​ ؕ
+    arabic: أَكۡبَرُۚ
     translation: (is) greater
     transliteration: akbaru
   21:
-    arabic: ذٰ لِكَ
+    arabic: ذَٰلِكَ
     translation: That
     transliteration: dhālika
   22:
@@ -95,11 +95,11 @@ word_by_word:
     translation: it
     transliteration: huwa
   23:
-    arabic: الۡفَوۡزُ
+    arabic: ٱلۡفَوۡزُ
     translation: (is) the success
     transliteration: l-fawzu
   24:
-    arabic: الۡعَظِيۡمُ‏
+    arabic: ٱلۡعَظِيمُ
     translation: great
     transliteration: l-ʿaẓīmu
 ---

@@ -1,15 +1,15 @@
 ---
-arabic_ayat: اِلَّا الۡمُسۡتَضۡعَفِيۡنَ مِنَ الرِّجَالِ وَالنِّسَآءِ وَالۡوِلۡدَانِ
-  لَا يَسۡتَطِيۡعُوۡنَ حِيۡلَةً وَّلَا يَهۡتَدُوۡنَ سَبِيۡلًا ۙ‏
+arabic_ayat: إِلَّا ٱلۡمُسۡتَضۡعَفِينَ مِنَ ٱلرِّجَالِ وَٱلنِّسَآءِ وَٱلۡوِلۡدَٰنِ
+  لَا يَسۡتَطِيعُونَ حِيلَةٗ وَلَا يَهۡتَدُونَ سَبِيلٗا
 sentence_translation: Except helpless men, women, and children who cannot afford a
   way out—
 word_by_word:
   1:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: Except
     transliteration: illā
   2:
-    arabic: الۡمُسۡتَضۡعَفِيۡنَ
+    arabic: ٱلۡمُسۡتَضۡعَفِينَ
     translation: the oppressed
     transliteration: l-mus'taḍʿafīna
   3:
@@ -17,15 +17,15 @@ word_by_word:
     translation: among
     transliteration: mina
   4:
-    arabic: الرِّجَالِ
+    arabic: ٱلرِّجَالِ
     translation: the men
     transliteration: l-rijāli
   5:
-    arabic: وَالنِّسَآءِ
+    arabic: وَٱلنِّسَآءِ
     translation: and the women
     transliteration: wal-nisāi
   6:
-    arabic: وَالۡوِلۡدَانِ
+    arabic: وَٱلۡوِلۡدَٰنِ
     translation: and the children
     transliteration: wal-wil'dāni
   7:
@@ -33,23 +33,23 @@ word_by_word:
     translation: (who) not
     transliteration: lā
   8:
-    arabic: يَسۡتَطِيۡعُوۡنَ
+    arabic: يَسۡتَطِيعُونَ
     translation: are able to
     transliteration: yastaṭīʿūna
   9:
-    arabic: حِيۡلَةً
+    arabic: حِيلَةٗ
     translation: plan
     transliteration: ḥīlatan
   10:
-    arabic: وَّلَا
+    arabic: وَلَا
     translation: and not
     transliteration: walā
   11:
-    arabic: يَهۡتَدُوۡنَ
+    arabic: يَهۡتَدُونَ
     translation: they are directed
     transliteration: yahtadūna
   12:
-    arabic: سَبِيۡلًا ۙ‏
+    arabic: سَبِيلٗا
     translation: (to) a way
     transliteration: sabīlan
 ---

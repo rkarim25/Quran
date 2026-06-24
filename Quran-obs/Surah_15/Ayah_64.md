@@ -1,21 +1,21 @@
 ---
-arabic_ayat: وَ اَتَيۡنٰكَ بِالۡحَـقِّ وَاِنَّا لَصٰدِقُوۡنَ‏
+arabic_ayat: وَأَتَيۡنَٰكَ بِٱلۡحَقِّ وَإِنَّا لَصَٰدِقُونَ
 sentence_translation: We come to you with the truth, and we are certainly truthful.
 word_by_word:
   1:
-    arabic: وَ اَتَيۡنٰكَ
+    arabic: وَأَتَيۡنَٰكَ
     translation: And we have come to you
     transliteration: wa-ataynāka
   2:
-    arabic: بِالۡحَـقِّ
+    arabic: بِٱلۡحَقِّ
     translation: with the truth
     transliteration: bil-ḥaqi
   3:
-    arabic: وَاِنَّا
+    arabic: وَإِنَّا
     translation: and indeed, we
     transliteration: wa-innā
   4:
-    arabic: لَصٰدِقُوۡنَ‏
+    arabic: لَصَٰدِقُونَ
     translation: surely (are) truthful
     transliteration: laṣādiqūna
 ---

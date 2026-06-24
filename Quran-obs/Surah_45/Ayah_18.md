@@ -1,6 +1,6 @@
 ---
-arabic_ayat: ثُمَّ جَعَلۡنٰكَ عَلٰى شَرِيۡعَةٍ مِّنَ الۡاَمۡرِ فَاتَّبِعۡهَا وَلَا
-  تَتَّبِعۡ اَهۡوَآءَ الَّذِيۡنَ لَا يَعۡلَمُوۡنَ‏
+arabic_ayat: ثُمَّ جَعَلۡنَٰكَ عَلَىٰ شَرِيعَةٖ مِّنَ ٱلۡأَمۡرِ فَٱتَّبِعۡهَا وَلَا
+  تَتَّبِعۡ أَهۡوَآءَ ٱلَّذِينَ لَا يَعۡلَمُونَ
 sentence_translation: Now We have set you ˹O Prophet˺ on the ˹clear˺ Way of faith.
   So follow it, and do not follow the desires of those who do not know ˹the truth˺.
 word_by_word:
@@ -9,15 +9,15 @@ word_by_word:
     translation: Then
     transliteration: thumma
   2:
-    arabic: جَعَلۡنٰكَ
+    arabic: جَعَلۡنَٰكَ
     translation: We put you
     transliteration: jaʿalnāka
   3:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: 'on'
     transliteration: ʿalā
   4:
-    arabic: شَرِيۡعَةٍ
+    arabic: شَرِيعَةٖ
     translation: an ordained way
     transliteration: sharīʿatin
   5:
@@ -25,11 +25,11 @@ word_by_word:
     translation: of
     transliteration: mina
   6:
-    arabic: الۡاَمۡرِ
+    arabic: ٱلۡأَمۡرِ
     translation: the matter
     transliteration: l-amri
   7:
-    arabic: فَاتَّبِعۡهَا
+    arabic: فَٱتَّبِعۡهَا
     translation: so follow it
     transliteration: fa-ittabiʿ'hā
   8:
@@ -41,11 +41,11 @@ word_by_word:
     translation: follow
     transliteration: tattabiʿ
   10:
-    arabic: اَهۡوَآءَ
+    arabic: أَهۡوَآءَ
     translation: (the) desires
     transliteration: ahwāa
   11:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: (of) those who
     transliteration: alladhīna
   12:
@@ -53,7 +53,7 @@ word_by_word:
     translation: (do) not
     transliteration: lā
   13:
-    arabic: يَعۡلَمُوۡنَ‏
+    arabic: يَعۡلَمُونَ
     translation: know
     transliteration: yaʿlamūna
 ---

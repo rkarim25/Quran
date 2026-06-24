@@ -1,17 +1,16 @@
 ---
-arabic_ayat: "وَاِنۡ اَحَدٌ مِّنَ الۡمُشۡرِكِيۡنَ اسۡتَجَارَكَ فَاَجِرۡهُ حَتّٰى يَسۡمَعَ\
-  \ كَلَامَ اللّٰهِ ثُمَّ اَبۡلِغۡهُ مَاۡمَنَهٗ​ ؕ ذٰ لِكَ بِاَنَّهُمۡ قَوۡمٌ لَّا\
-  \ يَعۡلَمُوۡنَ‏ \uFEFF\uFEFF"
+arabic_ayat: وَإِنۡ أَحَدٞ مِّنَ ٱلۡمُشۡرِكِينَ ٱسۡتَجَارَكَ فَأَجِرۡهُ حَتَّىٰ يَسۡمَعَ
+  كَلَٰمَ ٱللَّهِ ثُمَّ أَبۡلِغۡهُ مَأۡمَنَهُۥۚ ذَٰلِكَ بِأَنَّهُمۡ قَوۡمٞ لَّا يَعۡلَمُونَ
 sentence_translation: And if anyone from the polytheists asks for your protection
   ˹O Prophet˺, grant it to them so they may hear the Word of Allah, then escort them
   to a place of safety, for they are a people who have no knowledge.
 word_by_word:
   1:
-    arabic: وَاِنۡ
+    arabic: وَإِنۡ
     translation: And if
     transliteration: wa-in
   2:
-    arabic: اَحَدٌ
+    arabic: أَحَدٞ
     translation: anyone
     transliteration: aḥadun
   3:
@@ -19,19 +18,19 @@ word_by_word:
     translation: of
     transliteration: mina
   4:
-    arabic: الۡمُشۡرِكِيۡنَ
+    arabic: ٱلۡمُشۡرِكِينَ
     translation: the polytheists
     transliteration: l-mush'rikīna
   5:
-    arabic: اسۡتَجَارَكَ
+    arabic: ٱسۡتَجَارَكَ
     translation: seek your protection
     transliteration: is'tajāraka
   6:
-    arabic: فَاَجِرۡهُ
+    arabic: فَأَجِرۡهُ
     translation: then grant him protection
     transliteration: fa-ajir'hu
   7:
-    arabic: حَتّٰى
+    arabic: حَتَّىٰ
     translation: until
     transliteration: ḥattā
   8:
@@ -39,11 +38,11 @@ word_by_word:
     translation: he hears
     transliteration: yasmaʿa
   9:
-    arabic: كَلَامَ
+    arabic: كَلَٰمَ
     translation: (the) Words of Allah
     transliteration: kalāma
   10:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (the) Words of Allah
     transliteration: l-lahi
   11:
@@ -51,23 +50,23 @@ word_by_word:
     translation: Then
     transliteration: thumma
   12:
-    arabic: اَبۡلِغۡهُ
+    arabic: أَبۡلِغۡهُ
     translation: escort him
     transliteration: abligh'hu
   13:
-    arabic: مَاۡمَنَهٗ​ ؕ
+    arabic: مَأۡمَنَهُۥۚ
     translation: (to) his place of safety
     transliteration: mamanahu
   14:
-    arabic: ذٰ لِكَ
+    arabic: ذَٰلِكَ
     translation: That
     transliteration: dhālika
   15:
-    arabic: بِاَنَّهُمۡ
+    arabic: بِأَنَّهُمۡ
     translation: (is) because they
     transliteration: bi-annahum
   16:
-    arabic: قَوۡمٌ
+    arabic: قَوۡمٞ
     translation: (are) a people
     transliteration: qawmun
   17:
@@ -75,7 +74,7 @@ word_by_word:
     translation: (who) do not know
     transliteration: lā
   18:
-    arabic: "يَعۡلَمُوۡنَ‏ \uFEFF\uFEFF"
+    arabic: يَعۡلَمُونَ
     translation: (who) do not know
     transliteration: yaʿlamūna
 ---

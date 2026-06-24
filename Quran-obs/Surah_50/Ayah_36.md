@@ -1,6 +1,6 @@
 ---
-arabic_ayat: وَكَمۡ اَهۡلَـكۡنَا قَبۡلَهُمۡ مِّنۡ قَرۡنٍ هُمۡ اَشَدُّ مِنۡهُمۡ بَطۡشًا
-  فَنَقَّبُوۡا فِى الۡبِلَادِ ؕ هَلۡ مِنۡ مَّحِيۡصٍ‏
+arabic_ayat: وَكَمۡ أَهۡلَكۡنَا قَبۡلَهُم مِّن قَرۡنٍ هُمۡ أَشَدُّ مِنۡهُم بَطۡشٗا
+  فَنَقَّبُواْ فِي ٱلۡبِلَٰدِ هَلۡ مِن مَّحِيصٍ
 sentence_translation: ˹Imagine˺ how many peoples We destroyed before them, who were
   far mightier than them. Then ˹when the torment came,˺ they ˹desperately˺ sought
   refuge in the land. ˹But˺ was there any escape?
@@ -10,15 +10,15 @@ word_by_word:
     translation: And how many
     transliteration: wakam
   2:
-    arabic: اَهۡلَـكۡنَا
+    arabic: أَهۡلَكۡنَا
     translation: We destroyed
     transliteration: ahlaknā
   3:
-    arabic: قَبۡلَهُمۡ
+    arabic: قَبۡلَهُم
     translation: before them
     transliteration: qablahum
   4:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: of
     transliteration: min
   5:
@@ -30,27 +30,27 @@ word_by_word:
     translation: they
     transliteration: hum
   7:
-    arabic: اَشَدُّ
+    arabic: أَشَدُّ
     translation: (were) stronger
     transliteration: ashaddu
   8:
-    arabic: مِنۡهُمۡ
+    arabic: مِنۡهُم
     translation: than them
     transliteration: min'hum
   9:
-    arabic: بَطۡشًا
+    arabic: بَطۡشٗا
     translation: (in) power
     transliteration: baṭshan
   10:
-    arabic: فَنَقَّبُوۡا
+    arabic: فَنَقَّبُواْ
     translation: so they explored
     transliteration: fanaqqabū
   11:
-    arabic: فِى
+    arabic: فِي
     translation: throughout
     transliteration: fī
   12:
-    arabic: الۡبِلَادِ ؕ
+    arabic: ٱلۡبِلَٰدِ
     translation: the lands
     transliteration: l-bilādi
   13:
@@ -58,11 +58,11 @@ word_by_word:
     translation: Is (there)
     transliteration: hal
   14:
-    arabic: مِنۡ
+    arabic: مِن
     translation: any
     transliteration: min
   15:
-    arabic: مَّحِيۡصٍ‏
+    arabic: مَّحِيصٍ
     translation: place of escape
     transliteration: maḥīṣin
 ---

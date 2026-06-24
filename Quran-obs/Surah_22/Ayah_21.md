@@ -1,13 +1,13 @@
 ---
-arabic_ayat: وَلَهُمۡ مَّقَامِعُ مِنۡ حَدِيۡدٍ‏
+arabic_ayat: وَلَهُم مَّقَٰمِعُ مِنۡ حَدِيدٖ
 sentence_translation: And awaiting them are maces of iron.
 word_by_word:
   1:
-    arabic: وَلَهُمۡ
+    arabic: وَلَهُم
     translation: And for them
     transliteration: walahum
   2:
-    arabic: مَّقَامِعُ
+    arabic: مَّقَٰمِعُ
     translation: (are) hooked rods
     transliteration: maqāmiʿu
   3:
@@ -15,7 +15,7 @@ word_by_word:
     translation: of
     transliteration: min
   4:
-    arabic: حَدِيۡدٍ‏
+    arabic: حَدِيدٖ
     translation: iron
     transliteration: ḥadīdin
 ---

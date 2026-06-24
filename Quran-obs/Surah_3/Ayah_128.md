@@ -1,6 +1,6 @@
 ---
-arabic_ayat: لَيۡسَ لَكَ مِنَ الۡاَمۡرِ شَىۡءٌ اَوۡ يَتُوۡبَ عَلَيۡهِمۡ اَوۡ يُعَذِّبَهُمۡ
-  فَاِنَّهُمۡ ظٰلِمُوۡنَ‏
+arabic_ayat: لَيۡسَ لَكَ مِنَ ٱلۡأَمۡرِ شَيۡءٌ أَوۡ يَتُوبَ عَلَيۡهِمۡ أَوۡ يُعَذِّبَهُمۡ
+  فَإِنَّهُمۡ ظَٰلِمُونَ
 sentence_translation: You ˹O Prophet˺ have no say in the matter. It is up to Allah
   to turn to them in mercy or punish them, for indeed they are wrongdoers.
 word_by_word:
@@ -17,19 +17,19 @@ word_by_word:
     translation: of
     transliteration: mina
   4:
-    arabic: الۡاَمۡرِ
+    arabic: ٱلۡأَمۡرِ
     translation: the decision
     transliteration: l-amri
   5:
-    arabic: شَىۡءٌ
+    arabic: شَيۡءٌ
     translation: (of) anything
     transliteration: shayon
   6:
-    arabic: اَوۡ
+    arabic: أَوۡ
     translation: whether
     transliteration: aw
   7:
-    arabic: يَتُوۡبَ
+    arabic: يَتُوبَ
     translation: He turns
     transliteration: yatūba
   8:
@@ -37,7 +37,7 @@ word_by_word:
     translation: to them
     transliteration: ʿalayhim
   9:
-    arabic: اَوۡ
+    arabic: أَوۡ
     translation: or
     transliteration: aw
   10:
@@ -45,11 +45,11 @@ word_by_word:
     translation: punishes them
     transliteration: yuʿadhibahum
   11:
-    arabic: فَاِنَّهُمۡ
+    arabic: فَإِنَّهُمۡ
     translation: for indeed, they
     transliteration: fa-innahum
   12:
-    arabic: ظٰلِمُوۡنَ‏
+    arabic: ظَٰلِمُونَ
     translation: (are) wrongdoers
     transliteration: ẓālimūna
 ---

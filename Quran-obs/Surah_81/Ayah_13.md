@@ -1,17 +1,17 @@
 ---
-arabic_ayat: وَاِذَا الۡجَـنَّةُ اُزۡلِفَتۡۙ‏
+arabic_ayat: وَإِذَا ٱلۡجَنَّةُ أُزۡلِفَتۡ
 sentence_translation: and when Paradise is brought near—
 word_by_word:
   1:
-    arabic: وَاِذَا
+    arabic: وَإِذَا
     translation: And when
     transliteration: wa-idhā
   2:
-    arabic: الۡجَـنَّةُ
+    arabic: ٱلۡجَنَّةُ
     translation: Paradise
     transliteration: l-janatu
   3:
-    arabic: اُزۡلِفَتۡۙ‏
+    arabic: أُزۡلِفَتۡ
     translation: is brought near
     transliteration: uz'lifat
 ---

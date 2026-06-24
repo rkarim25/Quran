@@ -1,16 +1,16 @@
 ---
-arabic_ayat: وَلِلّٰهِ يَسۡجُدُ مَا فِى السَّمٰوٰتِ وَمَا فِى الۡاَرۡضِ مِنۡ دَآبَّةٍ
-  وَّالۡمَلٰۤٮِٕكَةُ وَهُمۡ لَا يَسۡتَكۡبِرُوۡنَ‏
+arabic_ayat: وَلِلَّهِۤ يَسۡجُدُۤ مَا فِي ٱلسَّمَٰوَٰتِ وَمَا فِي ٱلۡأَرۡضِ مِن دَآبَّةٖ
+  وَٱلۡمَلَٰٓئِكَةُ وَهُمۡ لَا يَسۡتَكۡبِرُونَ
 sentence_translation: And to Allah ˹alone˺ bows down ˹in submission˺ whatever is in
   the heavens and whatever is on the earth of living creatures, as do the angels—who
   are not too proud ˹to do so˺.
 word_by_word:
   1:
-    arabic: وَلِلّٰهِ
+    arabic: وَلِلَّهِۤ
     translation: And to Allah
     transliteration: walillahi
   2:
-    arabic: يَسۡجُدُ
+    arabic: يَسۡجُدُۤ
     translation: prostrate
     transliteration: yasjudu
   3:
@@ -18,11 +18,11 @@ word_by_word:
     translation: whatever
     transliteration: mā
   4:
-    arabic: فِى
+    arabic: فِي
     translation: (is) in
     transliteration: fī
   5:
-    arabic: السَّمٰوٰتِ
+    arabic: ٱلسَّمَٰوَٰتِ
     translation: the heavens
     transliteration: l-samāwāti
   6:
@@ -30,23 +30,23 @@ word_by_word:
     translation: and whatever
     transliteration: wamā
   7:
-    arabic: فِى
+    arabic: فِي
     translation: (is) in
     transliteration: fī
   8:
-    arabic: الۡاَرۡضِ
+    arabic: ٱلۡأَرۡضِ
     translation: the earth
     transliteration: l-arḍi
   9:
-    arabic: مِنۡ
+    arabic: مِن
     translation: of
     transliteration: min
   10:
-    arabic: دَآبَّةٍ
+    arabic: دَآبَّةٖ
     translation: moving creatures
     transliteration: dābbatin
   11:
-    arabic: وَّالۡمَلٰۤٮِٕكَةُ
+    arabic: وَٱلۡمَلَٰٓئِكَةُ
     translation: and the Angels
     transliteration: wal-malāikatu
   12:
@@ -58,7 +58,7 @@ word_by_word:
     translation: (are) not
     transliteration: lā
   14:
-    arabic: يَسۡتَكۡبِرُوۡنَ‏
+    arabic: يَسۡتَكۡبِرُونَ
     translation: arrogant
     transliteration: yastakbirūna
 ---

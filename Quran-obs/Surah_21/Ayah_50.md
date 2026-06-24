@@ -1,34 +1,34 @@
 ---
-arabic_ayat: وَهٰذَا ذِكۡرٌ مُّبٰرَكٌ اَنۡزَلۡنٰهُ​ؕ اَفَاَنۡتُمۡ لَهٗ مُنۡكِرُوۡنَ‏
+arabic_ayat: وَهَٰذَا ذِكۡرٞ مُّبَارَكٌ أَنزَلۡنَٰهُۚ أَفَأَنتُمۡ لَهُۥ مُنكِرُونَ
 sentence_translation: And this ˹Quran˺ is a blessed reminder which We have revealed.
   Will you ˹pagans˺ then deny it?
 word_by_word:
   1:
-    arabic: وَهٰذَا
+    arabic: وَهَٰذَا
     translation: And this
     transliteration: wahādhā
   2:
-    arabic: ذِكۡرٌ
+    arabic: ذِكۡرٞ
     translation: (is) a Reminder
     transliteration: dhik'run
   3:
-    arabic: مُّبٰرَكٌ
+    arabic: مُّبَارَكٌ
     translation: blessed
     transliteration: mubārakun
   4:
-    arabic: اَنۡزَلۡنٰهُ​ؕ
+    arabic: أَنزَلۡنَٰهُۚ
     translation: which We (have) revealed
     transliteration: anzalnāhu
   5:
-    arabic: اَفَاَنۡتُمۡ
+    arabic: أَفَأَنتُمۡ
     translation: Then are you
     transliteration: afa-antum
   6:
-    arabic: لَهٗ
+    arabic: لَهُۥ
     translation: of it
     transliteration: lahu
   7:
-    arabic: مُنۡكِرُوۡنَ‏
+    arabic: مُنكِرُونَ
     translation: rejecters
     transliteration: munkirūna
 ---

@@ -1,30 +1,29 @@
 ---
-arabic_ayat: "فَمَنۡ يُّرِدِ اللّٰهُ اَنۡ يَّهۡدِيَهٗ يَشۡرَحۡ صَدۡرَهٗ لِلۡاِسۡلَامِ​ۚ\
-  \ وَمَنۡ يُّرِدۡ اَنۡ يُّضِلَّهٗ يَجۡعَلۡ صَدۡرَهٗ ضَيِّقًا حَرَجًا كَاَنَّمَا يَصَّعَّدُ\
-  \ فِى السَّمَآءِ​ؕ كَذٰلِكَ يَجۡعَلُ اللّٰهُ الرِّجۡسَ عَلَى الَّذِيۡنَ لَا يُؤۡمِنُوۡنَ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: فَمَن يُرِدِ ٱللَّهُ أَن يَهۡدِيَهُۥ يَشۡرَحۡ صَدۡرَهُۥ لِلۡإِسۡلَٰمِۖ
+  وَمَن يُرِدۡ أَن يُضِلَّهُۥ يَجۡعَلۡ صَدۡرَهُۥ ضَيِّقًا حَرَجٗا كَأَنَّمَا يَصَّعَّدُ
+  فِي ٱلسَّمَآءِۚ كَذَٰلِكَ يَجۡعَلُ ٱللَّهُ ٱلرِّجۡسَ عَلَى ٱلَّذِينَ لَا يُؤۡمِنُونَ
 sentence_translation: Whoever Allah wills to guide, He opens their heart to Islam. But
   whoever He wills to leave astray, He makes their chest tight and constricted as
   if they were climbing up into the sky. This is how Allah dooms those who disbelieve.
 word_by_word:
   1:
-    arabic: فَمَنۡ
+    arabic: فَمَن
     translation: So whoever
     transliteration: faman
   2:
-    arabic: يُّرِدِ
+    arabic: يُرِدِ
     translation: wants
     transliteration: yuridi
   3:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   4:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that
     transliteration: an
   5:
-    arabic: يَّهۡدِيَهٗ
+    arabic: يَهۡدِيَهُۥ
     translation: 'He guides him '
     transliteration: yahdiyahu
   6:
@@ -32,27 +31,27 @@ word_by_word:
     translation: He expands
     transliteration: yashraḥ
   7:
-    arabic: صَدۡرَهٗ
+    arabic: صَدۡرَهُۥ
     translation: his breast
     transliteration: ṣadrahu
   8:
-    arabic: لِلۡاِسۡلَامِ​ۚ
+    arabic: لِلۡإِسۡلَٰمِۖ
     translation: to Islam
     transliteration: lil'is'lāmi
   9:
-    arabic: وَمَنۡ
+    arabic: وَمَن
     translation: and whoever
     transliteration: waman
   10:
-    arabic: يُّرِدۡ
+    arabic: يُرِدۡ
     translation: He wants
     transliteration: yurid
   11:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that
     transliteration: an
   12:
-    arabic: يُّضِلَّهٗ
+    arabic: يُضِلَّهُۥ
     translation: He lets him go astray
     transliteration: yuḍillahu
   13:
@@ -60,7 +59,7 @@ word_by_word:
     translation: He makes
     transliteration: yajʿal
   14:
-    arabic: صَدۡرَهٗ
+    arabic: صَدۡرَهُۥ
     translation: his breast
     transliteration: ṣadrahu
   15:
@@ -68,11 +67,11 @@ word_by_word:
     translation: tight
     transliteration: ḍayyiqan
   16:
-    arabic: حَرَجًا
+    arabic: حَرَجٗا
     translation: and constricted
     transliteration: ḥarajan
   17:
-    arabic: كَاَنَّمَا
+    arabic: كَأَنَّمَا
     translation: as though
     transliteration: ka-annamā
   18:
@@ -80,15 +79,15 @@ word_by_word:
     translation: he (were) climbing
     transliteration: yaṣṣaʿʿadu
   19:
-    arabic: فِى
+    arabic: فِي
     translation: into
     transliteration: fī
   20:
-    arabic: السَّمَآءِ​ؕ
+    arabic: ٱلسَّمَآءِۚ
     translation: the sky
     transliteration: l-samāi
   21:
-    arabic: كَذٰلِكَ
+    arabic: كَذَٰلِكَ
     translation: Thus
     transliteration: kadhālika
   22:
@@ -96,11 +95,11 @@ word_by_word:
     translation: places
     transliteration: yajʿalu
   23:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   24:
-    arabic: الرِّجۡسَ
+    arabic: ٱلرِّجۡسَ
     translation: the filth
     transliteration: l-rij'sa
   25:
@@ -108,7 +107,7 @@ word_by_word:
     translation: 'on'
     transliteration: ʿalā
   26:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   27:
@@ -116,7 +115,7 @@ word_by_word:
     translation: (do) not
     transliteration: lā
   28:
-    arabic: "يُؤۡمِنُوۡنَ‏ \uFEFF\uFEFF"
+    arabic: يُؤۡمِنُونَ
     translation: believe
     transliteration: yu'minūna
 ---

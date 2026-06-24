@@ -1,33 +1,33 @@
 ---
-arabic_ayat: وَجَعَلۡنٰهُمۡ اَٮِٕمَّةً يَّهۡدُوۡنَ بِاَمۡرِنَا وَاَوۡحَيۡنَاۤ اِلَيۡهِمۡ
-  فِعۡلَ الۡخَيۡرٰتِ وَاِقَامَ الصَّلٰوةِ وَاِيۡتَآءَ الزَّكٰوةِ​ۚ وَكَانُوۡا لَـنَا
-  عٰبِدِيۡنَ ۙ​ۚ‏
+arabic_ayat: وَجَعَلۡنَٰهُمۡ أَئِمَّةٗ يَهۡدُونَ بِأَمۡرِنَا وَأَوۡحَيۡنَآ إِلَيۡهِمۡ
+  فِعۡلَ ٱلۡخَيۡرَٰتِ وَإِقَامَ ٱلصَّلَوٰةِ وَإِيتَآءَ ٱلزَّكَوٰةِۖ وَكَانُواْ لَنَا
+  عَٰبِدِينَ
 sentence_translation: We ˹also˺ made them leaders, guiding by Our command, and inspired
   them to do good deeds, establish prayer, and pay alms-tax. And they were devoted
   to Our worship.
 word_by_word:
   1:
-    arabic: وَجَعَلۡنٰهُمۡ
+    arabic: وَجَعَلۡنَٰهُمۡ
     translation: And We made them
     transliteration: wajaʿalnāhum
   2:
-    arabic: اَٮِٕمَّةً
+    arabic: أَئِمَّةٗ
     translation: leaders
     transliteration: a-immatan
   3:
-    arabic: يَّهۡدُوۡنَ
+    arabic: يَهۡدُونَ
     translation: they guide
     transliteration: yahdūna
   4:
-    arabic: بِاَمۡرِنَا
+    arabic: بِأَمۡرِنَا
     translation: by Our Command
     transliteration: bi-amrinā
   5:
-    arabic: وَاَوۡحَيۡنَاۤ
+    arabic: وَأَوۡحَيۡنَآ
     translation: And We inspired
     transliteration: wa-awḥaynā
   6:
-    arabic: اِلَيۡهِمۡ
+    arabic: إِلَيۡهِمۡ
     translation: to them
     transliteration: ilayhim
   7:
@@ -35,35 +35,35 @@ word_by_word:
     translation: (the) doing
     transliteration: fiʿ'la
   8:
-    arabic: الۡخَيۡرٰتِ
+    arabic: ٱلۡخَيۡرَٰتِ
     translation: (of) good deeds
     transliteration: l-khayrāti
   9:
-    arabic: وَاِقَامَ
+    arabic: وَإِقَامَ
     translation: and establishment
     transliteration: wa-iqāma
   10:
-    arabic: الصَّلٰوةِ
+    arabic: ٱلصَّلَوٰةِ
     translation: (of) the prayer
     transliteration: l-ṣalati
   11:
-    arabic: وَاِيۡتَآءَ
+    arabic: وَإِيتَآءَ
     translation: and giving
     transliteration: waītāa
   12:
-    arabic: الزَّكٰوةِ​ۚ
+    arabic: ٱلزَّكَوٰةِۖ
     translation: (of) zakah
     transliteration: l-zakati
   13:
-    arabic: وَكَانُوۡا
+    arabic: وَكَانُواْ
     translation: and they were
     transliteration: wakānū
   14:
-    arabic: لَـنَا
+    arabic: لَنَا
     translation: of Us
     transliteration: lanā
   15:
-    arabic: عٰبِدِيۡنَ ۙ​ۚ‏
+    arabic: عَٰبِدِينَ
     translation: worshippers
     transliteration: ʿābidīna
 ---

@@ -1,33 +1,32 @@
 ---
-arabic_ayat: "وَاِنَّ لَـكُمۡ فِىۡ الۡاَنۡعَامِ لَعِبۡرَةً​  ؕ نُّسۡقِيۡكُمۡ مِّمَّا\
-  \ فِىۡ بُطُوۡنِهٖ مِنۡۢ بَيۡنِ فَرۡثٍ وَّدَمٍ لَّبَنًا خَالِصًا سَآٮِٕغًا لِّلشّٰرِبِيۡنَ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: وَإِنَّ لَكُمۡ فِي ٱلۡأَنۡعَٰمِ لَعِبۡرَةٗۖ نُّسۡقِيكُم مِّمَّا فِي بُطُونِهِۦ
+  مِنۢ بَيۡنِ فَرۡثٖ وَدَمٖ لَّبَنًا خَالِصٗا سَآئِغٗا لِّلشَّٰرِبِينَ
 sentence_translation: 'And there is certainly a lesson for you in cattle: We give
   you to drink of what is in their bellies, from between digested food and blood:
   pure milk, pleasant to drink.'
 word_by_word:
   1:
-    arabic: وَاِنَّ
+    arabic: وَإِنَّ
     translation: And indeed
     transliteration: wa-inna
   2:
-    arabic: لَـكُمۡ
+    arabic: لَكُمۡ
     translation: for you
     transliteration: lakum
   3:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   4:
-    arabic: الۡاَنۡعَامِ
+    arabic: ٱلۡأَنۡعَٰمِ
     translation: the cattle
     transliteration: l-anʿāmi
   5:
-    arabic: لَعِبۡرَةً​  ؕ
+    arabic: لَعِبۡرَةٗۖ
     translation: (is) a lesson
     transliteration: laʿib'ratan
   6:
-    arabic: نُّسۡقِيۡكُمۡ
+    arabic: نُّسۡقِيكُم
     translation: We give you to drink
     transliteration: nus'qīkum
   7:
@@ -35,15 +34,15 @@ word_by_word:
     translation: from what
     transliteration: mimmā
   8:
-    arabic: فِىۡ
+    arabic: فِي
     translation: (is) in
     transliteration: fī
   9:
-    arabic: بُطُوۡنِهٖ
+    arabic: بُطُونِهِۦ
     translation: their bellies
     transliteration: buṭūnihi
   10:
-    arabic: مِنۡۢ
+    arabic: مِنۢ
     translation: from
     transliteration: min
   11:
@@ -51,11 +50,11 @@ word_by_word:
     translation: between
     transliteration: bayni
   12:
-    arabic: فَرۡثٍ
+    arabic: فَرۡثٖ
     translation: bowels
     transliteration: farthin
   13:
-    arabic: وَّدَمٍ
+    arabic: وَدَمٖ
     translation: and blood
     transliteration: wadamin
   14:
@@ -63,15 +62,15 @@ word_by_word:
     translation: milk
     transliteration: labanan
   15:
-    arabic: خَالِصًا
+    arabic: خَالِصٗا
     translation: pure
     transliteration: khāliṣan
   16:
-    arabic: سَآٮِٕغًا
+    arabic: سَآئِغٗا
     translation: palatable
     transliteration: sāighan
   17:
-    arabic: "لِّلشّٰرِبِيۡنَ‏ \uFEFF\uFEFF"
+    arabic: لِّلشَّٰرِبِينَ
     translation: to the drinkers
     transliteration: lilshāribīna
 ---

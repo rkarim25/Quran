@@ -1,13 +1,13 @@
 ---
-arabic_ayat: وَاٰمِنُوۡا بِمَآ اَنۡزَلۡتُ مُصَدِّقًا لِّمَا مَعَكُمۡ وَلَا تَكُوۡنُوۡآ
-  اَوَّلَ كَافِرٍۢ بِهٖ​ وَلَا تَشۡتَرُوۡا بِاٰيٰتِىۡ ثَمَنًا قَلِيۡلًا وَّاِيَّاىَ
-  فَاتَّقُوۡنِ‏
+arabic_ayat: وَءَامِنُواْ بِمَآ أَنزَلۡتُ مُصَدِّقٗا لِّمَا مَعَكُمۡ وَلَا تَكُونُوٓاْ
+  أَوَّلَ كَافِرِۭ بِهِۦۖ وَلَا تَشۡتَرُواْ بِـَٔايَٰتِي ثَمَنٗا قَلِيلٗا وَإِيَّٰيَ
+  فَٱتَّقُونِ
 sentence_translation: Believe in My revelations which confirm your Scriptures. Do
   not be the first to deny them or trade them for a fleeting gain. And be mindful
   of Me.
 word_by_word:
   1:
-    arabic: وَاٰمِنُوۡا
+    arabic: وَءَامِنُواْ
     translation: And believe
     transliteration: waāminū
   2:
@@ -15,11 +15,11 @@ word_by_word:
     translation: in what
     transliteration: bimā
   3:
-    arabic: اَنۡزَلۡتُ
+    arabic: أَنزَلۡتُ
     translation: I have sent down
     transliteration: anzaltu
   4:
-    arabic: مُصَدِّقًا
+    arabic: مُصَدِّقٗا
     translation: confirming
     transliteration: muṣaddiqan
   5:
@@ -35,19 +35,19 @@ word_by_word:
     translation: and (do) not
     transliteration: walā
   8:
-    arabic: تَكُوۡنُوۡآ
+    arabic: تَكُونُوٓاْ
     translation: be
     transliteration: takūnū
   9:
-    arabic: اَوَّلَ
+    arabic: أَوَّلَ
     translation: (the) first
     transliteration: awwala
   10:
-    arabic: كَافِرٍۢ
+    arabic: كَافِرِۭ
     translation: disbeliever
     transliteration: kāfirin
   11:
-    arabic: بِهٖ​
+    arabic: بِهِۦۖ
     translation: of it
     transliteration: bihi
   12:
@@ -55,27 +55,27 @@ word_by_word:
     translation: And (do) not
     transliteration: walā
   13:
-    arabic: تَشۡتَرُوۡا
+    arabic: تَشۡتَرُواْ
     translation: exchange
     transliteration: tashtarū
   14:
-    arabic: بِاٰيٰتِىۡ
+    arabic: بِـَٔايَٰتِي
     translation: My Signs (for)
     transliteration: biāyātī
   15:
-    arabic: ثَمَنًا
+    arabic: ثَمَنٗا
     translation: a price
     transliteration: thamanan
   16:
-    arabic: قَلِيۡلًا
+    arabic: قَلِيلٗا
     translation: small
     transliteration: qalīlan
   17:
-    arabic: وَّاِيَّاىَ
+    arabic: وَإِيَّٰيَ
     translation: and Me Alone
     transliteration: wa-iyyāya
   18:
-    arabic: فَاتَّقُوۡنِ‏
+    arabic: فَٱتَّقُونِ
     translation: fear [Me]
     transliteration: fa-ittaqūni
 ---

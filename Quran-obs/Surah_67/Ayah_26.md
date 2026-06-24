@@ -1,6 +1,5 @@
 ---
-arabic_ayat: "قُلۡ اِنَّمَا الۡعِلۡمُ عِنۡدَ اللّٰهِ وَاِنَّمَاۤ اَنَا نَذِيۡرٌ مُّبِيۡنٌ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: قُلۡ إِنَّمَا ٱلۡعِلۡمُ عِندَ ٱللَّهِ وَإِنَّمَآ أَنَا۠ نَذِيرٞ مُّبِينٞ
 sentence_translation: Say, ˹O Prophet,˺ “That knowledge is with Allah alone, and I
   am only sent with a clear warning.”
 word_by_word:
@@ -9,35 +8,35 @@ word_by_word:
     translation: Say
     transliteration: qul
   2:
-    arabic: اِنَّمَا
+    arabic: إِنَّمَا
     translation: Only
     transliteration: innamā
   3:
-    arabic: الۡعِلۡمُ
+    arabic: ٱلۡعِلۡمُ
     translation: the knowledge
     transliteration: l-ʿil'mu
   4:
-    arabic: عِنۡدَ
+    arabic: عِندَ
     translation: (is) with
     transliteration: ʿinda
   5:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   6:
-    arabic: وَاِنَّمَاۤ
+    arabic: وَإِنَّمَآ
     translation: and only
     transliteration: wa-innamā
   7:
-    arabic: اَنَا
+    arabic: أَنَا۠
     translation: I am
     transliteration: anā
   8:
-    arabic: نَذِيۡرٌ
+    arabic: نَذِيرٞ
     translation: a warner
     transliteration: nadhīrun
   9:
-    arabic: "مُّبِيۡنٌ‏ \uFEFF\uFEFF"
+    arabic: مُّبِينٞ
     translation: clear
     transliteration: mubīnun
 ---

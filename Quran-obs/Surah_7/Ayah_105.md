@@ -1,29 +1,28 @@
 ---
-arabic_ayat: حَقِيۡقٌ عَلٰٓى اَنۡ لَّاۤ اَقُوۡلَ عَلَى اللّٰهِ اِلَّا الۡحَـقَّ​ ؕ
-  قَدۡ جِئۡـتُكُمۡ بِبَيِّنَةٍ مِّنۡ رَّبِّكُمۡ فَاَرۡسِلۡ مَعِىَ بَنِىۡۤ اِسۡرَآءِيۡلَ
-  ؕ‏
+arabic_ayat: حَقِيقٌ عَلَىٰٓ أَن لَّآ أَقُولَ عَلَى ٱللَّهِ إِلَّا ٱلۡحَقَّۚ قَدۡ
+  جِئۡتُكُم بِبَيِّنَةٖ مِّن رَّبِّكُمۡ فَأَرۡسِلۡ مَعِيَ بَنِيٓ إِسۡرَٰٓءِيلَ
 sentence_translation: obliged to say nothing about Allah except the truth. Indeed,
   I have come to you with clear proof from your Lord, so let the children of Israel
   go with me.”
 word_by_word:
   1:
-    arabic: حَقِيۡقٌ
+    arabic: حَقِيقٌ
     translation: Obligated
     transliteration: ḥaqīqun
   2:
-    arabic: عَلٰٓى
+    arabic: عَلَىٰٓ
     translation: 'on'
     transliteration: ʿalā
   3:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that
     transliteration: an
   4:
-    arabic: لَّاۤ
+    arabic: لَّآ
     translation: not
     transliteration: lā
   5:
-    arabic: اَقُوۡلَ
+    arabic: أَقُولَ
     translation: I say
     transliteration: aqūla
   6:
@@ -31,15 +30,15 @@ word_by_word:
     translation: about
     transliteration: ʿalā
   7:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   8:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   9:
-    arabic: الۡحَـقَّ​ ؕ
+    arabic: ٱلۡحَقَّۚ
     translation: the truth
     transliteration: l-ḥaqa
   10:
@@ -47,15 +46,15 @@ word_by_word:
     translation: Verily
     transliteration: qad
   11:
-    arabic: جِئۡـتُكُمۡ
+    arabic: جِئۡتُكُم
     translation: I (have) come to you
     transliteration: ji'tukum
   12:
-    arabic: بِبَيِّنَةٍ
+    arabic: بِبَيِّنَةٖ
     translation: with a clear Sign
     transliteration: bibayyinatin
   13:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: from
     transliteration: min
   14:
@@ -63,19 +62,19 @@ word_by_word:
     translation: your Lord
     transliteration: rabbikum
   15:
-    arabic: فَاَرۡسِلۡ
+    arabic: فَأَرۡسِلۡ
     translation: so send
     transliteration: fa-arsil
   16:
-    arabic: مَعِىَ
+    arabic: مَعِيَ
     translation: with me
     transliteration: maʿiya
   17:
-    arabic: بَنِىۡۤ
+    arabic: بَنِيٓ
     translation: (the) Children
     transliteration: banī
   18:
-    arabic: اِسۡرَآءِيۡلَ ؕ‏
+    arabic: إِسۡرَٰٓءِيلَ
     translation: (of) Israel
     transliteration: is'rāīla
 ---

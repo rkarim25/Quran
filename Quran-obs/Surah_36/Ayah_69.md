@@ -1,6 +1,6 @@
 ---
-arabic_ayat: وَمَا عَلَّمۡنٰهُ الشِّعۡرَ وَمَا يَنۡۢبَغِىۡ لَهٗؕ اِنۡ هُوَ اِلَّا
-  ذِكۡرٌ وَّقُرۡاٰنٌ مُّبِيۡنٌۙ‏
+arabic_ayat: وَمَا عَلَّمۡنَٰهُ ٱلشِّعۡرَ وَمَا يَنۢبَغِي لَهُۥٓۚ إِنۡ هُوَ إِلَّا
+  ذِكۡرٞ وَقُرۡءَانٞ مُّبِينٞ
 sentence_translation: We have not taught him poetry, nor is it fitting for him. This
   ˹Book˺ is only a Reminder and a clear Quran
 word_by_word:
@@ -9,11 +9,11 @@ word_by_word:
     translation: And not
     transliteration: wamā
   2:
-    arabic: عَلَّمۡنٰهُ
+    arabic: عَلَّمۡنَٰهُ
     translation: We taught him
     transliteration: ʿallamnāhu
   3:
-    arabic: الشِّعۡرَ
+    arabic: ٱلشِّعۡرَ
     translation: '[the] poetry'
     transliteration: l-shiʿ'ra
   4:
@@ -21,15 +21,15 @@ word_by_word:
     translation: and not
     transliteration: wamā
   5:
-    arabic: يَنۡۢبَغِىۡ
+    arabic: يَنۢبَغِي
     translation: it is befitting
     transliteration: yanbaghī
   6:
-    arabic: لَهٗؕ
+    arabic: لَهُۥٓۚ
     translation: for him
     transliteration: lahu
   7:
-    arabic: اِنۡ
+    arabic: إِنۡ
     translation: Not
     transliteration: in
   8:
@@ -37,19 +37,19 @@ word_by_word:
     translation: it
     transliteration: huwa
   9:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: (is) except
     transliteration: illā
   10:
-    arabic: ذِكۡرٌ
+    arabic: ذِكۡرٞ
     translation: a Reminder
     transliteration: dhik'run
   11:
-    arabic: وَّقُرۡاٰنٌ
+    arabic: وَقُرۡءَانٞ
     translation: and a Quran
     transliteration: waqur'ānun
   12:
-    arabic: مُّبِيۡنٌۙ‏
+    arabic: مُّبِينٞ
     translation: clear
     transliteration: mubīnun
 ---

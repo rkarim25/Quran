@@ -1,9 +1,9 @@
 ---
-arabic_ayat: يَوۡمَٮِٕذٍ تُحَدِّثُ اَخۡبَارَهَا ۙ‏
+arabic_ayat: يَوۡمَئِذٖ تُحَدِّثُ أَخۡبَارَهَا
 sentence_translation: on that Day the earth will recount everything,
 word_by_word:
   1:
-    arabic: يَوۡمَٮِٕذٍ
+    arabic: يَوۡمَئِذٖ
     translation: That Day
     transliteration: yawma-idhin
   2:
@@ -11,7 +11,7 @@ word_by_word:
     translation: it will report
     transliteration: tuḥaddithu
   3:
-    arabic: اَخۡبَارَهَا ۙ‏
+    arabic: أَخۡبَارَهَا
     translation: its news
     transliteration: akhbārahā
 ---

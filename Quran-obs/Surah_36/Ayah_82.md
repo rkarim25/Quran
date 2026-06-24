@@ -1,47 +1,46 @@
 ---
-arabic_ayat: "اِنَّمَاۤ اَمۡرُهٗۤ اِذَاۤ اَرَادَ شَیْـًٔـا اَنۡ يَّقُوۡلَ لَهٗ كُنۡ\
-  \ فَيَكُوۡنُ‏ \uFEFF\uFEFF"
+arabic_ayat: إِنَّمَآ أَمۡرُهُۥٓ إِذَآ أَرَادَ شَيۡـًٔا أَن يَقُولَ لَهُۥ كُن فَيَكُونُ
 sentence_translation: 'All it takes, when He wills something ˹to be˺, is simply to
   say to it: “Be!” And it is!'
 word_by_word:
   1:
-    arabic: اِنَّمَاۤ
+    arabic: إِنَّمَآ
     translation: Only
     transliteration: innamā
   2:
-    arabic: اَمۡرُهٗۤ
+    arabic: أَمۡرُهُۥٓ
     translation: His Command
     transliteration: amruhu
   3:
-    arabic: اِذَاۤ
+    arabic: إِذَآ
     translation: when
     transliteration: idhā
   4:
-    arabic: اَرَادَ
+    arabic: أَرَادَ
     translation: He intends
     transliteration: arāda
   5:
-    arabic: شَیْـًٔـا
+    arabic: شَيۡـًٔا
     translation: a thing
     transliteration: shayan
   6:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that
     transliteration: an
   7:
-    arabic: يَّقُوۡلَ
+    arabic: يَقُولَ
     translation: He says
     transliteration: yaqūla
   8:
-    arabic: لَهٗ
+    arabic: لَهُۥ
     translation: to it
     transliteration: lahu
   9:
-    arabic: كُنۡ
+    arabic: كُن
     translation: Be
     transliteration: kun
   10:
-    arabic: "فَيَكُوۡنُ‏ \uFEFF\uFEFF"
+    arabic: فَيَكُونُ
     translation: and it is
     transliteration: fayakūnu
 ---

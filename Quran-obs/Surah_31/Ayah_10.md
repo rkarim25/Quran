@@ -1,7 +1,7 @@
 ---
-arabic_ayat: خَلَقَ السَّمٰوٰتِ بِغَيۡرِ عَمَدٍ تَرَوۡنَهَا​ وَاَ لۡقٰى فِى الۡاَرۡضِ
-  رَوَاسِىَ اَنۡ تَمِيۡدَ بِكُمۡ وَبَثَّ فِيۡهَا مِنۡ كُلِّ دَآ بَّةٍ​ ؕ وَاَنۡزَلۡنَا
-  مِنَ السَّمَآءِ مَآءً فَاَنۡۢبَتۡنَا فِيۡهَا مِنۡ كُلِّ زَوۡجٍ كَرِيۡمٍ‏
+arabic_ayat: خَلَقَ ٱلسَّمَٰوَٰتِ بِغَيۡرِ عَمَدٖ تَرَوۡنَهَاۖ وَأَلۡقَىٰ فِي ٱلۡأَرۡضِ
+  رَوَٰسِيَ أَن تَمِيدَ بِكُمۡ وَبَثَّ فِيهَا مِن كُلِّ دَآبَّةٖۚ وَأَنزَلۡنَا مِنَ
+  ٱلسَّمَآءِ مَآءٗ فَأَنۢبَتۡنَا فِيهَا مِن كُلِّ زَوۡجٖ كَرِيمٍ
 sentence_translation: He created the heavens without pillars—as you can see—and placed
   firm mountains upon the earth so it does not shake with you, and scattered throughout
   it all types of creatures. And We send down rain from the sky, causing every type
@@ -12,7 +12,7 @@ word_by_word:
     translation: He created
     transliteration: khalaqa
   2:
-    arabic: السَّمٰوٰتِ
+    arabic: ٱلسَّمَٰوَٰتِ
     translation: the heavens
     transliteration: l-samāwāti
   3:
@@ -20,35 +20,35 @@ word_by_word:
     translation: without
     transliteration: bighayri
   4:
-    arabic: عَمَدٍ
+    arabic: عَمَدٖ
     translation: pillars
     transliteration: ʿamadin
   5:
-    arabic: تَرَوۡنَهَا​
+    arabic: تَرَوۡنَهَاۖ
     translation: that you see
     transliteration: tarawnahā
   6:
-    arabic: وَاَ لۡقٰى
+    arabic: وَأَلۡقَىٰ
     translation: and has cast
     transliteration: wa-alqā
   7:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   8:
-    arabic: الۡاَرۡضِ
+    arabic: ٱلۡأَرۡضِ
     translation: the earth
     transliteration: l-arḍi
   9:
-    arabic: رَوَاسِىَ
+    arabic: رَوَٰسِيَ
     translation: firm mountains
     transliteration: rawāsiya
   10:
-    arabic: اَنۡ
+    arabic: أَن
     translation: lest
     transliteration: an
   11:
-    arabic: تَمِيۡدَ
+    arabic: تَمِيدَ
     translation: it (might) shake
     transliteration: tamīda
   12:
@@ -60,11 +60,11 @@ word_by_word:
     translation: and He dispersed
     transliteration: wabatha
   14:
-    arabic: فِيۡهَا
+    arabic: فِيهَا
     translation: in it
     transliteration: fīhā
   15:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   16:
@@ -72,11 +72,11 @@ word_by_word:
     translation: every
     transliteration: kulli
   17:
-    arabic: دَآ بَّةٍ​ ؕ
+    arabic: دَآبَّةٖۚ
     translation: creature
     transliteration: dābbatin
   18:
-    arabic: وَاَنۡزَلۡنَا
+    arabic: وَأَنزَلۡنَا
     translation: And We sent down
     transliteration: wa-anzalnā
   19:
@@ -84,23 +84,23 @@ word_by_word:
     translation: from
     transliteration: mina
   20:
-    arabic: السَّمَآءِ
+    arabic: ٱلسَّمَآءِ
     translation: the sky
     transliteration: l-samāi
   21:
-    arabic: مَآءً
+    arabic: مَآءٗ
     translation: water
     transliteration: māan
   22:
-    arabic: فَاَنۡۢبَتۡنَا
+    arabic: فَأَنۢبَتۡنَا
     translation: then We caused to grow
     transliteration: fa-anbatnā
   23:
-    arabic: فِيۡهَا
+    arabic: فِيهَا
     translation: therein
     transliteration: fīhā
   24:
-    arabic: مِنۡ
+    arabic: مِن
     translation: of
     transliteration: min
   25:
@@ -108,11 +108,11 @@ word_by_word:
     translation: every
     transliteration: kulli
   26:
-    arabic: زَوۡجٍ
+    arabic: زَوۡجٖ
     translation: kind
     transliteration: zawjin
   27:
-    arabic: كَرِيۡمٍ‏
+    arabic: كَرِيمٍ
     translation: noble
     transliteration: karīmin
 ---

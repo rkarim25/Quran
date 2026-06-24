@@ -1,15 +1,15 @@
 ---
-arabic_ayat: وَاِبۡرٰهِيۡمَ اِذۡ قَالَ لِقَوۡمِهِ اعۡبُدُوا اللّٰهَ وَاتَّقُوۡهُ​
-  ؕ ذٰ لِكُمۡ خَيۡرٌ لَّـكُمۡ اِنۡ كُنۡـتُمۡ تَعۡلَمُوۡنَ‏
+arabic_ayat: وَإِبۡرَٰهِيمَ إِذۡ قَالَ لِقَوۡمِهِ ٱعۡبُدُواْ ٱللَّهَ وَٱتَّقُوهُۖ
+  ذَٰلِكُمۡ خَيۡرٞ لَّكُمۡ إِن كُنتُمۡ تَعۡلَمُونَ
 sentence_translation: And ˹remember˺ when Abraham said to his people, “Worship Allah,
   and fear Him. This is better for you, if only you knew.
 word_by_word:
   1:
-    arabic: وَاِبۡرٰهِيۡمَ
+    arabic: وَإِبۡرَٰهِيمَ
     translation: 'And Ibrahim '
     transliteration: wa-ib'rāhīma
   2:
-    arabic: اِذۡ
+    arabic: إِذۡ
     translation: when
     transliteration: idh
   3:
@@ -21,39 +21,39 @@ word_by_word:
     translation: to his people
     transliteration: liqawmihi
   5:
-    arabic: اعۡبُدُوا
+    arabic: ٱعۡبُدُواْ
     translation: Worship
     transliteration: uʿ'budū
   6:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   7:
-    arabic: وَاتَّقُوۡهُ​ ؕ
+    arabic: وَٱتَّقُوهُۖ
     translation: and fear Him
     transliteration: wa-ittaqūhu
   8:
-    arabic: ذٰ لِكُمۡ
+    arabic: ذَٰلِكُمۡ
     translation: That
     transliteration: dhālikum
   9:
-    arabic: خَيۡرٌ
+    arabic: خَيۡرٞ
     translation: (is) better
     transliteration: khayrun
   10:
-    arabic: لَّـكُمۡ
+    arabic: لَّكُمۡ
     translation: for you
     transliteration: lakum
   11:
-    arabic: اِنۡ
+    arabic: إِن
     translation: if
     transliteration: in
   12:
-    arabic: كُنۡـتُمۡ
+    arabic: كُنتُمۡ
     translation: you
     transliteration: kuntum
   13:
-    arabic: تَعۡلَمُوۡنَ‏
+    arabic: تَعۡلَمُونَ
     translation: know
     transliteration: taʿlamūna
 ---

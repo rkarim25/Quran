@@ -1,6 +1,6 @@
 ---
-arabic_ayat: وَمَنۡ اَرَادَ الۡاٰخِرَةَ وَسَعٰى لَهَا سَعۡيَهَا وَهُوَ مُؤۡمِنٌ فَاُولٰۤٮِٕكَ
-  كَانَ سَعۡيُهُمۡ مَّشۡكُوۡرًا‏
+arabic_ayat: وَمَنۡ أَرَادَ ٱلۡأٓخِرَةَ وَسَعَىٰ لَهَا سَعۡيَهَا وَهُوَ مُؤۡمِنٞ فَأُوْلَٰٓئِكَ
+  كَانَ سَعۡيُهُم مَّشۡكُورٗا
 sentence_translation: But whoever desires the Hereafter and strives for it accordingly,
   and is a ˹true˺ believer, it is they whose striving will be appreciated.
 word_by_word:
@@ -9,15 +9,15 @@ word_by_word:
     translation: And whoever
     transliteration: waman
   2:
-    arabic: اَرَادَ
+    arabic: أَرَادَ
     translation: desires
     transliteration: arāda
   3:
-    arabic: الۡاٰخِرَةَ
+    arabic: ٱلۡأٓخِرَةَ
     translation: the Hereafter
     transliteration: l-ākhirata
   4:
-    arabic: وَسَعٰى
+    arabic: وَسَعَىٰ
     translation: and exerts
     transliteration: wasaʿā
   5:
@@ -33,11 +33,11 @@ word_by_word:
     translation: while he
     transliteration: wahuwa
   8:
-    arabic: مُؤۡمِنٌ
+    arabic: مُؤۡمِنٞ
     translation: (is) a believer
     transliteration: mu'minun
   9:
-    arabic: فَاُولٰۤٮِٕكَ
+    arabic: فَأُوْلَٰٓئِكَ
     translation: then those
     transliteration: fa-ulāika
   10:
@@ -45,11 +45,11 @@ word_by_word:
     translation: '[are]'
     transliteration: kāna
   11:
-    arabic: سَعۡيُهُمۡ
+    arabic: سَعۡيُهُم
     translation: their effort
     transliteration: saʿyuhum
   12:
-    arabic: مَّشۡكُوۡرًا‏
+    arabic: مَّشۡكُورٗا
     translation: (is) appreciated
     transliteration: mashkūran
 ---

@@ -1,9 +1,9 @@
 ---
-arabic_ayat: وَمِنَ الۡاِبِلِ اثۡنَيۡنِ وَمِنَ الۡبَقَرِ اثۡنَيۡنِ​ ؕ قُلۡ ءٰٓالذَّكَرَيۡنِ
-  حَرَّمَ اَمِ الۡاُنۡثَيَيۡنِ اَمَّا اشۡتَمَلَتۡ عَلَيۡهِ اَرۡحَامُ الۡاُنۡثَيَيۡنِ​
-  ؕ اَمۡ كُنۡتُمۡ شُهَدَآءَ اِذۡ وَصّٰٮكُمُ اللّٰهُ بِهٰذَا​ ۚ فَمَنۡ اَظۡلَمُ مِمَّنِ
-  افۡتَـرٰى عَلَى اللّٰهِ كَذِبًا لِّيُضِلَّ النَّاسَ بِغَيۡرِ عِلۡمٍ​ ؕ اِنَّ اللّٰهَ
-  لَا يَهۡدِى الۡقَوۡمَ الظّٰلِمِيۡنَ‏
+arabic_ayat: وَمِنَ ٱلۡإِبِلِ ٱثۡنَيۡنِ وَمِنَ ٱلۡبَقَرِ ٱثۡنَيۡنِۗ قُلۡ ءَآلذَّكَرَيۡنِ
+  حَرَّمَ أَمِ ٱلۡأُنثَيَيۡنِ أَمَّا ٱشۡتَمَلَتۡ عَلَيۡهِ أَرۡحَامُ ٱلۡأُنثَيَيۡنِۖ
+  أَمۡ كُنتُمۡ شُهَدَآءَ إِذۡ وَصَّىٰكُمُ ٱللَّهُ بِهَٰذَاۚ فَمَنۡ أَظۡلَمُ مِمَّنِ
+  ٱفۡتَرَىٰ عَلَى ٱللَّهِ كَذِبٗا لِّيُضِلَّ ٱلنَّاسَ بِغَيۡرِ عِلۡمٍۚ إِنَّ ٱللَّهَ
+  لَا يَهۡدِي ٱلۡقَوۡمَ ٱلظَّٰلِمِينَ
 sentence_translation: and a pair of camels and a pair of oxen. Ask ˹them˺, “Has He
   forbidden ˹to you˺ the two males or the two females or what is in the wombs of the
   two females? Or were you present when Allah gave you this commandment?” Who does
@@ -15,11 +15,11 @@ word_by_word:
     translation: And of
     transliteration: wamina
   2:
-    arabic: الۡاِبِلِ
+    arabic: ٱلۡإِبِلِ
     translation: the camels
     transliteration: l-ibili
   3:
-    arabic: اثۡنَيۡنِ
+    arabic: ٱثۡنَيۡنِ
     translation: two
     transliteration: ith'nayni
   4:
@@ -27,11 +27,11 @@ word_by_word:
     translation: and of
     transliteration: wamina
   5:
-    arabic: الۡبَقَرِ
+    arabic: ٱلۡبَقَرِ
     translation: the cows
     transliteration: l-baqari
   6:
-    arabic: اثۡنَيۡنِ​ ؕ
+    arabic: ٱثۡنَيۡنِۗ
     translation: two
     transliteration: ith'nayni
   7:
@@ -39,7 +39,7 @@ word_by_word:
     translation: Say
     transliteration: qul
   8:
-    arabic: ءٰٓالذَّكَرَيۡنِ
+    arabic: ءَآلذَّكَرَيۡنِ
     translation: (Is it) the two males
     transliteration: āldhakarayni
   9:
@@ -47,19 +47,19 @@ word_by_word:
     translation: He (has) forbidden
     transliteration: ḥarrama
   10:
-    arabic: اَمِ
+    arabic: أَمِ
     translation: or
     transliteration: ami
   11:
-    arabic: الۡاُنۡثَيَيۡنِ
+    arabic: ٱلۡأُنثَيَيۡنِ
     translation: the two females
     transliteration: l-unthayayni
   12:
-    arabic: اَمَّا
+    arabic: أَمَّا
     translation: or what
     transliteration: ammā
   13:
-    arabic: اشۡتَمَلَتۡ
+    arabic: ٱشۡتَمَلَتۡ
     translation: contains
     transliteration: ish'tamalat
   14:
@@ -67,19 +67,19 @@ word_by_word:
     translation: '[in it]'
     transliteration: ʿalayhi
   15:
-    arabic: اَرۡحَامُ
+    arabic: أَرۡحَامُ
     translation: (the) wombs
     transliteration: arḥāmu
   16:
-    arabic: الۡاُنۡثَيَيۡنِ​ ؕ
+    arabic: ٱلۡأُنثَيَيۡنِۖ
     translation: (of) the two females
     transliteration: l-unthayayni
   17:
-    arabic: اَمۡ
+    arabic: أَمۡ
     translation: Or
     transliteration: am
   18:
-    arabic: كُنۡتُمۡ
+    arabic: كُنتُمۡ
     translation: were you
     transliteration: kuntum
   19:
@@ -87,19 +87,19 @@ word_by_word:
     translation: witnesses
     transliteration: shuhadāa
   20:
-    arabic: اِذۡ
+    arabic: إِذۡ
     translation: when
     transliteration: idh
   21:
-    arabic: وَصّٰٮكُمُ
+    arabic: وَصَّىٰكُمُ
     translation: enjoined you
     transliteration: waṣṣākumu
   22:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   23:
-    arabic: بِهٰذَا​ ۚ
+    arabic: بِهَٰذَاۚ
     translation: with this
     transliteration: bihādhā
   24:
@@ -107,7 +107,7 @@ word_by_word:
     translation: Then who
     transliteration: faman
   25:
-    arabic: اَظۡلَمُ
+    arabic: أَظۡلَمُ
     translation: (is) more unjust
     transliteration: aẓlamu
   26:
@@ -115,7 +115,7 @@ word_by_word:
     translation: than (one) who
     transliteration: mimmani
   27:
-    arabic: افۡتَـرٰى
+    arabic: ٱفۡتَرَىٰ
     translation: invents
     transliteration: if'tarā
   28:
@@ -123,11 +123,11 @@ word_by_word:
     translation: against
     transliteration: ʿalā
   29:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   30:
-    arabic: كَذِبًا
+    arabic: كَذِبٗا
     translation: a lie
     transliteration: kadhiban
   31:
@@ -135,7 +135,7 @@ word_by_word:
     translation: to mislead
     transliteration: liyuḍilla
   32:
-    arabic: النَّاسَ
+    arabic: ٱلنَّاسَ
     translation: the people
     transliteration: l-nāsa
   33:
@@ -143,15 +143,15 @@ word_by_word:
     translation: without
     transliteration: bighayri
   34:
-    arabic: عِلۡمٍ​ ؕ
+    arabic: عِلۡمٍۚ
     translation: knowledge
     transliteration: ʿil'min
   35:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   36:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   37:
@@ -159,15 +159,15 @@ word_by_word:
     translation: (does) not
     transliteration: lā
   38:
-    arabic: يَهۡدِى
+    arabic: يَهۡدِي
     translation: guide
     transliteration: yahdī
   39:
-    arabic: الۡقَوۡمَ
+    arabic: ٱلۡقَوۡمَ
     translation: the people
     transliteration: l-qawma
   40:
-    arabic: الظّٰلِمِيۡنَ‏
+    arabic: ٱلظَّٰلِمِينَ
     translation: the wrongdoing
     transliteration: l-ẓālimīna
 ---

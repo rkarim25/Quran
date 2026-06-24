@@ -1,17 +1,17 @@
 ---
-arabic_ayat: مّٰكِثِيۡنَ فِيۡهِ اَبَدًا ۙ‏
+arabic_ayat: مَّٰكِثِينَ فِيهِ أَبَدٗا
 sentence_translation: in which they will remain forever;
 word_by_word:
   1:
-    arabic: مّٰكِثِيۡنَ
+    arabic: مَّٰكِثِينَ
     translation: (They will) abide
     transliteration: mākithīna
   2:
-    arabic: فِيۡهِ
+    arabic: فِيهِ
     translation: in it
     transliteration: fīhi
   3:
-    arabic: اَبَدًا ۙ‏
+    arabic: أَبَدٗا
     translation: forever
     transliteration: abadan
 ---

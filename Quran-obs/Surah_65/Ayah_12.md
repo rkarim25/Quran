@@ -1,18 +1,18 @@
 ---
-arabic_ayat: اَللّٰهُ الَّذِىۡ خَلَقَ سَبۡعَ سَمٰوٰتٍ وَّمِنَ الۡاَرۡضِ مِثۡلَهُنَّ
-  ؕ يَتَنَزَّلُ الۡاَمۡرُ بَيۡنَهُنَّ لِتَعۡلَمُوۡۤا اَنَّ اللّٰهَ عَلٰى كُلِّ شَىۡءٍ
-  قَدِيۡرٌ ۙ وَّاَنَّ اللّٰهَ قَدۡ اَحَاطَ بِكُلِّ شَىۡءٍ عِلۡمًا‏
+arabic_ayat: ٱللَّهُ ٱلَّذِي خَلَقَ سَبۡعَ سَمَٰوَٰتٖ وَمِنَ ٱلۡأَرۡضِ مِثۡلَهُنَّۖ
+  يَتَنَزَّلُ ٱلۡأَمۡرُ بَيۡنَهُنَّ لِتَعۡلَمُوٓاْ أَنَّ ٱللَّهَ عَلَىٰ كُلِّ شَيۡءٖ
+  قَدِيرٞ وَأَنَّ ٱللَّهَ قَدۡ أَحَاطَ بِكُلِّ شَيۡءٍ عِلۡمَۢا
 sentence_translation: Allah is the One Who created seven heavens ˹in layers˺, and
   likewise for the earth. The ˹divine˺ command descends between them so you may know
   that Allah is Most Capable of everything and that Allah certainly encompasses all
   things in ˹His˺ knowledge.
 word_by_word:
   1:
-    arabic: اَللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: al-lahu
   2:
-    arabic: الَّذِىۡ
+    arabic: ٱلَّذِي
     translation: (is) He Who
     transliteration: alladhī
   3:
@@ -24,19 +24,19 @@ word_by_word:
     translation: seven
     transliteration: sabʿa
   5:
-    arabic: سَمٰوٰتٍ
+    arabic: سَمَٰوَٰتٖ
     translation: heavens
     transliteration: samāwātin
   6:
-    arabic: وَّمِنَ
+    arabic: وَمِنَ
     translation: and of
     transliteration: wamina
   7:
-    arabic: الۡاَرۡضِ
+    arabic: ٱلۡأَرۡضِ
     translation: the earth
     transliteration: l-arḍi
   8:
-    arabic: مِثۡلَهُنَّ ؕ
+    arabic: مِثۡلَهُنَّۖ
     translation: (the) like of them
     transliteration: mith'lahunna
   9:
@@ -44,7 +44,7 @@ word_by_word:
     translation: Descends
     transliteration: yatanazzalu
   10:
-    arabic: الۡاَمۡرُ
+    arabic: ٱلۡأَمۡرُ
     translation: the command
     transliteration: l-amru
   11:
@@ -52,19 +52,19 @@ word_by_word:
     translation: between them
     transliteration: baynahunna
   12:
-    arabic: لِتَعۡلَمُوۡۤا
+    arabic: لِتَعۡلَمُوٓاْ
     translation: that you may know
     transliteration: litaʿlamū
   13:
-    arabic: اَنَّ
+    arabic: أَنَّ
     translation: that
     transliteration: anna
   14:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   15:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: (is) on
     transliteration: ʿalā
   16:
@@ -72,19 +72,19 @@ word_by_word:
     translation: every
     transliteration: kulli
   17:
-    arabic: شَىۡءٍ
+    arabic: شَيۡءٖ
     translation: thing
     transliteration: shayin
   18:
-    arabic: قَدِيۡرٌ ۙ
+    arabic: قَدِيرٞ
     translation: All-Powerful
     transliteration: qadīrun
   19:
-    arabic: وَّاَنَّ
+    arabic: وَأَنَّ
     translation: And that
     transliteration: wa-anna
   20:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   21:
@@ -92,7 +92,7 @@ word_by_word:
     translation: indeed
     transliteration: qad
   22:
-    arabic: اَحَاطَ
+    arabic: أَحَاطَ
     translation: encompasses
     transliteration: aḥāṭa
   23:
@@ -100,11 +100,11 @@ word_by_word:
     translation: all
     transliteration: bikulli
   24:
-    arabic: شَىۡءٍ
+    arabic: شَيۡءٍ
     translation: things
     transliteration: shayin
   25:
-    arabic: عِلۡمًا‏
+    arabic: عِلۡمَۢا
     translation: (in) knowledge
     transliteration: ʿil'man
 ---

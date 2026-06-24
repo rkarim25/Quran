@@ -1,21 +1,21 @@
 ---
-arabic_ayat: قَالُـوۡۤا اُوۡذِيۡنَا مِنۡ قَبۡلِ اَنۡ تَاۡتِيَنَا وَمِنۡۢ بَعۡدِ مَا
-  جِئۡتَنَا​ ؕ قَالَ عَسٰى رَبُّكُمۡ اَنۡ يُّهۡلِكَ عَدُوَّكُمۡ وَيَسۡتَخۡلِفَكُمۡ
-  فِى الۡاَرۡضِ فَيَنۡظُرَ كَيۡفَ تَعۡمَلُوۡنَ‏
+arabic_ayat: قَالُوٓاْ أُوذِينَا مِن قَبۡلِ أَن تَأۡتِيَنَا وَمِنۢ بَعۡدِ مَا جِئۡتَنَاۚ
+  قَالَ عَسَىٰ رَبُّكُمۡ أَن يُهۡلِكَ عَدُوَّكُمۡ وَيَسۡتَخۡلِفَكُمۡ فِي ٱلۡأَرۡضِ
+  فَيَنظُرَ كَيۡفَ تَعۡمَلُونَ
 sentence_translation: They complained, “We have always been oppressed—before and after
   you came to us ˹with the message˺.” He replied, “Perhaps your Lord will destroy
   your enemy and make you successors in the land to see what you will do.”
 word_by_word:
   1:
-    arabic: قَالُـوۡۤا
+    arabic: قَالُوٓاْ
     translation: They said
     transliteration: qālū
   2:
-    arabic: اُوۡذِيۡنَا
+    arabic: أُوذِينَا
     translation: We have been harmed
     transliteration: ūdhīnā
   3:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   4:
@@ -23,15 +23,15 @@ word_by_word:
     translation: before
     transliteration: qabli
   5:
-    arabic: اَنۡ
+    arabic: أَن
     translation: '[that]'
     transliteration: an
   6:
-    arabic: تَاۡتِيَنَا
+    arabic: تَأۡتِيَنَا
     translation: you came to us
     transliteration: tatiyanā
   7:
-    arabic: وَمِنۡۢ
+    arabic: وَمِنۢ
     translation: from
     transliteration: wamin
   8:
@@ -43,7 +43,7 @@ word_by_word:
     translation: '[what]'
     transliteration: mā
   10:
-    arabic: جِئۡتَنَا​ ؕ
+    arabic: جِئۡتَنَاۚ
     translation: you have come to us
     transliteration: ji'tanā
   11:
@@ -51,7 +51,7 @@ word_by_word:
     translation: He said
     transliteration: qāla
   12:
-    arabic: عَسٰى
+    arabic: عَسَىٰ
     translation: Perhaps
     transliteration: ʿasā
   13:
@@ -59,11 +59,11 @@ word_by_word:
     translation: your Lord
     transliteration: rabbukum
   14:
-    arabic: اَنۡ
+    arabic: أَن
     translation: '[that]'
     transliteration: an
   15:
-    arabic: يُّهۡلِكَ
+    arabic: يُهۡلِكَ
     translation: will destroy
     transliteration: yuh'lika
   16:
@@ -75,15 +75,15 @@ word_by_word:
     translation: and make you successors
     transliteration: wayastakhlifakum
   18:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   19:
-    arabic: الۡاَرۡضِ
+    arabic: ٱلۡأَرۡضِ
     translation: the earth
     transliteration: l-arḍi
   20:
-    arabic: فَيَنۡظُرَ
+    arabic: فَيَنظُرَ
     translation: then see
     transliteration: fayanẓura
   21:
@@ -91,7 +91,7 @@ word_by_word:
     translation: how
     transliteration: kayfa
   22:
-    arabic: تَعۡمَلُوۡنَ‏
+    arabic: تَعۡمَلُونَ
     translation: you will do
     transliteration: taʿmalūna
 ---

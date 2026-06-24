@@ -1,21 +1,21 @@
 ---
-arabic_ayat: وَ لَقَدۡ اَرۡسَلۡنَا مِنۡ قَبۡلِكَ رُسُلًا اِلٰى قَوۡمِهِمۡ فَجَآءُوۡهُمۡ
-  بِالۡبَيِّنٰتِ فَانْتَقَمۡنَا مِنَ الَّذِيۡنَ اَجۡرَمُوۡا ​ؕ وَكَانَ حَقًّا عَلَيۡنَا
-  نَصۡرُ الۡمُؤۡمِنِيۡنَ‏
+arabic_ayat: وَلَقَدۡ أَرۡسَلۡنَا مِن قَبۡلِكَ رُسُلًا إِلَىٰ قَوۡمِهِمۡ فَجَآءُوهُم
+  بِٱلۡبَيِّنَٰتِ فَٱنتَقَمۡنَا مِنَ ٱلَّذِينَ أَجۡرَمُواْۖ وَكَانَ حَقًّا عَلَيۡنَا
+  نَصۡرُ ٱلۡمُؤۡمِنِينَ
 sentence_translation: Indeed, We sent before you ˹O Prophet˺ messengers, each to their
   own people, and they came to them with clear proofs. Then We inflicted punishment
   upon those who persisted in wickedness. For it is Our duty to help the believers.
 word_by_word:
   1:
-    arabic: وَ لَقَدۡ
+    arabic: وَلَقَدۡ
     translation: And verily
     transliteration: walaqad
   2:
-    arabic: اَرۡسَلۡنَا
+    arabic: أَرۡسَلۡنَا
     translation: We sent
     transliteration: arsalnā
   3:
-    arabic: مِنۡ
+    arabic: مِن
     translation: before you
     transliteration: min
   4:
@@ -27,7 +27,7 @@ word_by_word:
     translation: Messengers
     transliteration: rusulan
   6:
-    arabic: اِلٰى
+    arabic: إِلَىٰ
     translation: to
     transliteration: ilā
   7:
@@ -35,15 +35,15 @@ word_by_word:
     translation: their people
     transliteration: qawmihim
   8:
-    arabic: فَجَآءُوۡهُمۡ
+    arabic: فَجَآءُوهُم
     translation: and they came to them
     transliteration: fajāūhum
   9:
-    arabic: بِالۡبَيِّنٰتِ
+    arabic: بِٱلۡبَيِّنَٰتِ
     translation: with clear proofs
     transliteration: bil-bayināti
   10:
-    arabic: فَانْتَقَمۡنَا
+    arabic: فَٱنتَقَمۡنَا
     translation: then We took retribution
     transliteration: fa-intaqamnā
   11:
@@ -51,11 +51,11 @@ word_by_word:
     translation: from
     transliteration: mina
   12:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   13:
-    arabic: اَجۡرَمُوۡا ​ؕ
+    arabic: أَجۡرَمُواْۖ
     translation: committed crimes
     transliteration: ajramū
   14:
@@ -75,7 +75,7 @@ word_by_word:
     translation: (to) help
     transliteration: naṣru
   18:
-    arabic: الۡمُؤۡمِنِيۡنَ‏
+    arabic: ٱلۡمُؤۡمِنِينَ
     translation: the believers
     transliteration: l-mu'minīna
 ---

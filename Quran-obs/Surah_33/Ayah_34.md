@@ -1,11 +1,11 @@
 ---
-arabic_ayat: وَاذۡكُرۡنَ مَا يُتۡلٰى فِىۡ بُيُوۡتِكُنَّ مِنۡ اٰيٰتِ اللّٰهِ وَالۡحِكۡمَةِؕ
-  اِنَّ اللّٰهَ كَانَ لَطِيۡفًا خَبِيۡرًا‏
+arabic_ayat: وَٱذۡكُرۡنَ مَا يُتۡلَىٰ فِي بُيُوتِكُنَّ مِنۡ ءَايَٰتِ ٱللَّهِ وَٱلۡحِكۡمَةِۚ
+  إِنَّ ٱللَّهَ كَانَ لَطِيفًا خَبِيرًا
 sentence_translation: ˹Always˺ remember what is recited in your homes of Allah’s revelations
   and ˹prophetic˺ wisdom. Surely Allah is Most Subtle, All-Aware.
 word_by_word:
   1:
-    arabic: وَاذۡكُرۡنَ
+    arabic: وَٱذۡكُرۡنَ
     translation: And remember
     transliteration: wa-udh'kur'na
   2:
@@ -13,39 +13,39 @@ word_by_word:
     translation: what
     transliteration: mā
   3:
-    arabic: يُتۡلٰى
+    arabic: يُتۡلَىٰ
     translation: is recited
     transliteration: yut'lā
   4:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   5:
-    arabic: بُيُوۡتِكُنَّ
+    arabic: بُيُوتِكُنَّ
     translation: your houses
     transliteration: buyūtikunna
   6:
-    arabic: مِنۡ
+    arabic: مِنۡ ءَ
     translation: of
     transliteration: min
   7:
-    arabic: اٰيٰتِ
+    arabic: ايَٰتِ
     translation: (the) Verses
     transliteration: āyāti
   8:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (of) Allah
     transliteration: l-lahi
   9:
-    arabic: وَالۡحِكۡمَةِؕ
+    arabic: وَٱلۡحِكۡمَةِۚ
     translation: and the wisdom
     transliteration: wal-ḥik'mati
   10:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   11:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   12:
@@ -53,11 +53,11 @@ word_by_word:
     translation: is
     transliteration: kāna
   13:
-    arabic: لَطِيۡفًا
+    arabic: لَطِيفًا
     translation: All-Subtle
     transliteration: laṭīfan
   14:
-    arabic: خَبِيۡرًا‏
+    arabic: خَبِيرًا
     translation: All-Aware
     transliteration: khabīran
 ---

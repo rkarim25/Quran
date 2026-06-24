@@ -1,13 +1,13 @@
 ---
-arabic_ayat: هٰذَا بَيَانٌ لِّلنَّاسِ وَهُدًى وَّمَوۡعِظَةٌ لِّلۡمُتَّقِيۡنَ‏
+arabic_ayat: هَٰذَا بَيَانٞ لِّلنَّاسِ وَهُدٗى وَمَوۡعِظَةٞ لِّلۡمُتَّقِينَ
 sentence_translation: This is an insight to humanity—a guide and a lesson to the God-fearing.
 word_by_word:
   1:
-    arabic: هٰذَا
+    arabic: هَٰذَا
     translation: This
     transliteration: hādhā
   2:
-    arabic: بَيَانٌ
+    arabic: بَيَانٞ
     translation: (is) a declaration
     transliteration: bayānun
   3:
@@ -15,15 +15,15 @@ word_by_word:
     translation: for the people
     transliteration: lilnnāsi
   4:
-    arabic: وَهُدًى
+    arabic: وَهُدٗى
     translation: and guidance
     transliteration: wahudan
   5:
-    arabic: وَّمَوۡعِظَةٌ
+    arabic: وَمَوۡعِظَةٞ
     translation: and admonition
     transliteration: wamawʿiẓatun
   6:
-    arabic: لِّلۡمُتَّقِيۡنَ‏
+    arabic: لِّلۡمُتَّقِينَ
     translation: for the God-fearing
     transliteration: lil'muttaqīna
 ---

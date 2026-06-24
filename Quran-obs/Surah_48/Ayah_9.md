@@ -1,39 +1,39 @@
 ---
-arabic_ayat: لِّـتُؤۡمِنُوۡا بِاللّٰهِ وَ رَسُوۡلِهٖ وَتُعَزِّرُوۡهُ وَتُوَقِّرُوۡهُ
-  ؕ وَتُسَبِّحُوۡهُ بُكۡرَةً وَّاَصِيۡلًا‏
+arabic_ayat: لِّتُؤۡمِنُواْ بِٱللَّهِ وَرَسُولِهِۦ وَتُعَزِّرُوهُ وَتُوَقِّرُوهُۚ
+  وَتُسَبِّحُوهُ بُكۡرَةٗ وَأَصِيلًا
 sentence_translation: so that you ˹believers˺ may have faith in Allah and His Messenger,
   support and honour him, and glorify Allah morning and evening. 
 word_by_word:
   1:
-    arabic: لِّـتُؤۡمِنُوۡا
+    arabic: لِّتُؤۡمِنُواْ
     translation: That you may believe
     transliteration: litu'minū
   2:
-    arabic: بِاللّٰهِ
+    arabic: بِٱللَّهِ
     translation: in Allah
     transliteration: bil-lahi
   3:
-    arabic: وَ رَسُوۡلِهٖ
+    arabic: وَرَسُولِهِۦ
     translation: and His Messenger
     transliteration: warasūlihi
   4:
-    arabic: وَتُعَزِّرُوۡهُ
+    arabic: وَتُعَزِّرُوهُ
     translation: and (may) honor him
     transliteration: watuʿazzirūhu
   5:
-    arabic: وَتُوَقِّرُوۡهُ ؕ
+    arabic: وَتُوَقِّرُوهُۚ
     translation: and respect him
     transliteration: watuwaqqirūhu
   6:
-    arabic: وَتُسَبِّحُوۡهُ
+    arabic: وَتُسَبِّحُوهُ
     translation: and glorify Him
     transliteration: watusabbiḥūhu
   7:
-    arabic: بُكۡرَةً
+    arabic: بُكۡرَةٗ
     translation: morning
     transliteration: buk'ratan
   8:
-    arabic: وَّاَصِيۡلًا‏
+    arabic: وَأَصِيلًا
     translation: and evening
     transliteration: wa-aṣīlan
 ---

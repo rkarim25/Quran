@@ -1,8 +1,8 @@
 ---
-arabic_ayat: وَلَا يَاۡتَلِ اُولُوا الۡـفَضۡلِ مِنۡكُمۡ وَالسَّعَةِ اَنۡ يُّؤۡتُوۡۤا
-  اُولِى الۡقُرۡبٰى وَالۡمَسٰكِيۡنَ وَالۡمُهٰجِرِيۡنَ فِىۡ سَبِيۡلِ اللّٰهِ ​​ۖ 
-  وَلۡيَـعۡفُوۡا وَلۡيَـصۡفَحُوۡا​ ؕ اَلَا تُحِبُّوۡنَ اَنۡ يَّغۡفِرَ اللّٰهُ لَـكُمۡ​
-  ؕ وَاللّٰهُ غَفُوۡرٌ رَّحِيۡمٌ‏
+arabic_ayat: وَلَا يَأۡتَلِ أُوْلُواْ ٱلۡفَضۡلِ مِنكُمۡ وَٱلسَّعَةِ أَن يُؤۡتُوٓاْ
+  أُوْلِي ٱلۡقُرۡبَىٰ وَٱلۡمَسَٰكِينَ وَٱلۡمُهَٰجِرِينَ فِي سَبِيلِ ٱللَّهِۖ وَلۡيَعۡفُواْ
+  وَلۡيَصۡفَحُوٓاْۗ أَلَا تُحِبُّونَ أَن يَغۡفِرَ ٱللَّهُ لَكُمۡۚ وَٱللَّهُ غَفُورٞ
+  رَّحِيمٌ
 sentence_translation: Do not let the people of virtue and affluence among you swear
   to suspend donations to their relatives, the needy, and the emigrants in the cause
   of Allah. Let them pardon and forgive. Do you not love to be forgiven by Allah?
@@ -13,103 +13,103 @@ word_by_word:
     translation: And not
     transliteration: walā
   2:
-    arabic: يَاۡتَلِ
+    arabic: يَأۡتَلِ
     translation: let swear
     transliteration: yatali
   3:
-    arabic: اُولُوا
+    arabic: أُوْلُواْ
     translation: those of virtue
     transliteration: ulū
   4:
-    arabic: الۡـفَضۡلِ
+    arabic: ٱلۡفَضۡلِ
     translation: those of virtue
     transliteration: l-faḍli
   5:
-    arabic: مِنۡكُمۡ
+    arabic: مِنكُمۡ
     translation: among you
     transliteration: minkum
   6:
-    arabic: وَالسَّعَةِ
+    arabic: وَٱلسَّعَةِ
     translation: and the amplitude of means
     transliteration: wal-saʿati
   7:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that
     transliteration: an
   8:
-    arabic: يُّؤۡتُوۡۤا
+    arabic: يُؤۡتُوٓاْ
     translation: they give
     transliteration: yu'tū
   9:
-    arabic: اُولِى
+    arabic: أُوْلِي
     translation: (to) the near of kin
     transliteration: ulī
   10:
-    arabic: الۡقُرۡبٰى
+    arabic: ٱلۡقُرۡبَىٰ
     translation: (to) the near of kin
     transliteration: l-qur'bā
   11:
-    arabic: وَالۡمَسٰكِيۡنَ
+    arabic: وَٱلۡمَسَٰكِينَ
     translation: and the needy
     transliteration: wal-masākīna
   12:
-    arabic: وَالۡمُهٰجِرِيۡنَ
+    arabic: وَٱلۡمُهَٰجِرِينَ
     translation: and the emigrants
     transliteration: wal-muhājirīna
   13:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   14:
-    arabic: سَبِيۡلِ
+    arabic: سَبِيلِ
     translation: (the) way
     transliteration: sabīli
   15:
-    arabic: اللّٰهِ ​​ۖ 
+    arabic: ٱللَّهِۖ
     translation: (of) Allah
     transliteration: l-lahi
   16:
-    arabic: وَلۡيَـعۡفُوۡا
+    arabic: وَلۡيَعۡفُواْ
     translation: And let them pardon
     transliteration: walyaʿfū
   17:
-    arabic: وَلۡيَـصۡفَحُوۡا​ ؕ
+    arabic: وَلۡيَصۡفَحُوٓاْۗ
     translation: and let them overlook
     transliteration: walyaṣfaḥū
   18:
-    arabic: اَلَا
+    arabic: أَلَا
     translation: (Do) not
     transliteration: alā
   19:
-    arabic: تُحِبُّوۡنَ
+    arabic: تُحِبُّونَ
     translation: you like
     transliteration: tuḥibbūna
   20:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that
     transliteration: an
   21:
-    arabic: يَّغۡفِرَ
+    arabic: يَغۡفِرَ
     translation: Allah should forgive
     transliteration: yaghfira
   22:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah should forgive
     transliteration: l-lahu
   23:
-    arabic: لَـكُمۡ​ ؕ
+    arabic: لَكُمۡۚ
     translation: you
     transliteration: lakum
   24:
-    arabic: وَاللّٰهُ
+    arabic: وَٱللَّهُ
     translation: And Allah
     transliteration: wal-lahu
   25:
-    arabic: غَفُوۡرٌ
+    arabic: غَفُورٞ
     translation: (is) Oft-Forgiving
     transliteration: ghafūrun
   26:
-    arabic: رَّحِيۡمٌ‏
+    arabic: رَّحِيمٌ
     translation: Most Merciful
     transliteration: raḥīmun
 ---

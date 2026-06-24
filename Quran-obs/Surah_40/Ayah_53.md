@@ -1,39 +1,39 @@
 ---
-arabic_ayat: "وَلَقَدۡ اٰتَيۡنَا مُوۡسَى الۡهُدٰى وَاَوۡرَثۡنَا بَنِىۡۤ اِسۡرَآءِيۡلَ\
-  \ الۡكِتٰبَۙ‏ \uFEFF\uFEFF"
+arabic_ayat: وَلَقَدۡ ءَاتَيۡنَا مُوسَى ٱلۡهُدَىٰ وَأَوۡرَثۡنَا بَنِيٓ إِسۡرَٰٓءِيلَ
+  ٱلۡكِتَٰبَ
 sentence_translation: And indeed, We gave Moses ˹true˺ guidance, and made the Children
   of Israel inherit the Scripture—
 word_by_word:
   1:
-    arabic: وَلَقَدۡ
+    arabic: وَلَقَدۡ ءَ
     translation: And certainly
     transliteration: walaqad
   2:
-    arabic: اٰتَيۡنَا
+    arabic: اتَيۡنَا
     translation: We gave
     transliteration: ātaynā
   3:
-    arabic: مُوۡسَى
+    arabic: مُوسَى
     translation: Musa
     transliteration: mūsā
   4:
-    arabic: الۡهُدٰى
+    arabic: ٱلۡهُدَىٰ
     translation: the guidance
     transliteration: l-hudā
   5:
-    arabic: وَاَوۡرَثۡنَا
+    arabic: وَأَوۡرَثۡنَا
     translation: and We caused to inherit
     transliteration: wa-awrathnā
   6:
-    arabic: بَنِىۡۤ
+    arabic: بَنِيٓ
     translation: (the) Children of Israel
     transliteration: banī
   7:
-    arabic: اِسۡرَآءِيۡلَ
+    arabic: إِسۡرَٰٓءِيلَ
     translation: (the) Children of Israel
     transliteration: is'rāīla
   8:
-    arabic: "الۡكِتٰبَۙ‏ \uFEFF\uFEFF"
+    arabic: ٱلۡكِتَٰبَ
     translation: the Book
     transliteration: l-kitāba
 ---

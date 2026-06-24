@@ -1,38 +1,38 @@
 ---
-arabic_ayat: خٰلِدِيۡنَ فِيۡهَاۤ اَبَدًا​ ؕ اِنَّ اللّٰهَ عِنۡدَهٗۤ اَجۡرٌ عَظِيۡمٌ‏
+arabic_ayat: خَٰلِدِينَ فِيهَآ أَبَدًاۚ إِنَّ ٱللَّهَ عِندَهُۥٓ أَجۡرٌ عَظِيمٞ
 sentence_translation: to stay there for ever and ever. Surely with Allah is a great
   reward.
 word_by_word:
   1:
-    arabic: خٰلِدِيۡنَ
+    arabic: خَٰلِدِينَ
     translation: (They will) abide
     transliteration: khālidīna
   2:
-    arabic: فِيۡهَاۤ
+    arabic: فِيهَآ
     translation: in it
     transliteration: fīhā
   3:
-    arabic: اَبَدًا​ ؕ
+    arabic: أَبَدًاۚ
     translation: forever
     transliteration: abadan
   4:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   5:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: 'Allah '
     transliteration: l-laha
   6:
-    arabic: عِنۡدَهٗۤ
+    arabic: عِندَهُۥٓ
     translation: with Him
     transliteration: ʿindahu
   7:
-    arabic: اَجۡرٌ
+    arabic: أَجۡرٌ
     translation: (is) a reward
     transliteration: ajrun
   8:
-    arabic: عَظِيۡمٌ‏
+    arabic: عَظِيمٞ
     translation: great
     transliteration: ʿaẓīmun
 ---

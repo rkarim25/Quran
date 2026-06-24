@@ -1,5 +1,5 @@
 ---
-arabic_ayat: وَقَدۡ خَلَقَكُمۡ اَطۡوَارًا‏
+arabic_ayat: وَقَدۡ خَلَقَكُمۡ أَطۡوَارًا
 sentence_translation: when He truly created you in stages ˹of development˺?
 word_by_word:
   1:
@@ -11,7 +11,7 @@ word_by_word:
     translation: He created you
     transliteration: khalaqakum
   3:
-    arabic: اَطۡوَارًا‏
+    arabic: أَطۡوَارًا
     translation: (in) stages
     transliteration: aṭwāran
 ---

@@ -1,9 +1,9 @@
 ---
-arabic_ayat: حٰمٓ​ ۚ‏
+arabic_ayat: حمٓ
 sentence_translation: Ḥâ-Mĩm.
 word_by_word:
   1:
-    arabic: حٰمٓ​ ۚ‏
+    arabic: حمٓ
     translation: Ha Meem
     transliteration: hha-meem
 ---

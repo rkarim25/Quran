@@ -1,7 +1,7 @@
 ---
-arabic_ayat: "وَلَا يَحۡسَبَنَّ الَّذِيۡنَ كَفَرُوۡۤا اَنَّمَا نُمۡلِىۡ لَهُمۡ خَيۡرٌ\
-  \ لِّاَنۡفُسِهِمۡ​ؕ اِنَّمَا نُمۡلِىۡ لَهُمۡ لِيَزۡدَادُوۡۤا اِثۡمًا​ ۚ وَلَهُمۡ\
-  \ عَذَابٌ مُّهِيۡنٌ‏ \uFEFF\uFEFF"
+arabic_ayat: وَلَا يَحۡسَبَنَّ ٱلَّذِينَ كَفَرُوٓاْ أَنَّمَا نُمۡلِي لَهُمۡ خَيۡرٞ
+  لِّأَنفُسِهِمۡۚ إِنَّمَا نُمۡلِي لَهُمۡ لِيَزۡدَادُوٓاْ إِثۡمٗاۖ وَلَهُمۡ عَذَابٞ
+  مُّهِينٞ
 sentence_translation: Those who disbelieve should not think that living longer is
   good for them. They are only given more time to increase in sin, and they will suffer
   a humiliating punishment.
@@ -15,19 +15,19 @@ word_by_word:
     translation: think
     transliteration: yaḥsabanna
   3:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   4:
-    arabic: كَفَرُوۡۤا
+    arabic: كَفَرُوٓاْ
     translation: disbelieved
     transliteration: kafarū
   5:
-    arabic: اَنَّمَا
+    arabic: أَنَّمَا
     translation: that
     transliteration: annamā
   6:
-    arabic: نُمۡلِىۡ
+    arabic: نُمۡلِي
     translation: We give respite
     transliteration: num'lī
   7:
@@ -35,19 +35,19 @@ word_by_word:
     translation: to them
     transliteration: lahum
   8:
-    arabic: خَيۡرٌ
+    arabic: خَيۡرٞ
     translation: (is) good
     transliteration: khayrun
   9:
-    arabic: لِّاَنۡفُسِهِمۡ​ؕ
+    arabic: لِّأَنفُسِهِمۡۚ
     translation: for themselves
     transliteration: li-anfusihim
   10:
-    arabic: اِنَّمَا
+    arabic: إِنَّمَا
     translation: Only
     transliteration: innamā
   11:
-    arabic: نُمۡلِىۡ
+    arabic: نُمۡلِي
     translation: We give respite
     transliteration: num'lī
   12:
@@ -55,11 +55,11 @@ word_by_word:
     translation: to them
     transliteration: lahum
   13:
-    arabic: لِيَزۡدَادُوۡۤا
+    arabic: لِيَزۡدَادُوٓاْ
     translation: so that they may increase
     transliteration: liyazdādū
   14:
-    arabic: اِثۡمًا​ ۚ
+    arabic: إِثۡمٗاۖ
     translation: (in) sins
     transliteration: ith'man
   15:
@@ -67,11 +67,11 @@ word_by_word:
     translation: and for them
     transliteration: walahum
   16:
-    arabic: عَذَابٌ
+    arabic: عَذَابٞ
     translation: (is) a punishment
     transliteration: ʿadhābun
   17:
-    arabic: "مُّهِيۡنٌ‏ \uFEFF\uFEFF"
+    arabic: مُّهِينٞ
     translation: humiliating
     transliteration: muhīnun
 ---

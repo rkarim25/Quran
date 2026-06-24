@@ -1,26 +1,26 @@
 ---
-arabic_ayat: لَنۡ يَّنَالَ اللّٰهَ لُحُـوۡمُهَا وَلَا دِمَآؤُهَا وَلٰـكِنۡ يَّنَالُهُ
-  التَّقۡوٰى مِنۡكُمۡ​ؕ كَذٰلِكَ سَخَّرَهَا لَـكُمۡ لِتُكَبِّرُوا اللّٰهَ عَلٰى مَا
-  هَدٰٮكُمۡ​ؕ وَبَشِّرِ الۡمُحۡسِنِيۡنَ‏
+arabic_ayat: لَن يَنَالَ ٱللَّهَ لُحُومُهَا وَلَا دِمَآؤُهَا وَلَٰكِن يَنَالُهُ ٱلتَّقۡوَىٰ
+  مِنكُمۡۚ كَذَٰلِكَ سَخَّرَهَا لَكُمۡ لِتُكَبِّرُواْ ٱللَّهَ عَلَىٰ مَا هَدَىٰكُمۡۗ
+  وَبَشِّرِ ٱلۡمُحۡسِنِينَ
 sentence_translation: Neither their meat nor blood reaches Allah. Rather, it is your
   piety that reaches Him. This is how He has subjected them to you so that you may
   proclaim the greatness of Allah for what He has guided you to, and give good news
   to the good-doers.
 word_by_word:
   1:
-    arabic: لَنۡ
+    arabic: لَن
     translation: Will not
     transliteration: lan
   2:
-    arabic: يَّنَالَ
+    arabic: يَنَالَ
     translation: reach
     transliteration: yanāla
   3:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   4:
-    arabic: لُحُـوۡمُهَا
+    arabic: لُحُومُهَا
     translation: their meat
     transliteration: luḥūmuhā
   5:
@@ -32,23 +32,23 @@ word_by_word:
     translation: their blood
     transliteration: dimāuhā
   7:
-    arabic: وَلٰـكِنۡ
+    arabic: وَلَٰكِن
     translation: but
     transliteration: walākin
   8:
-    arabic: يَّنَالُهُ
+    arabic: يَنَالُهُ
     translation: reaches Him
     transliteration: yanāluhu
   9:
-    arabic: التَّقۡوٰى
+    arabic: ٱلتَّقۡوَىٰ
     translation: the piety
     transliteration: l-taqwā
   10:
-    arabic: مِنۡكُمۡ​ؕ
+    arabic: مِنكُمۡۚ
     translation: from you
     transliteration: minkum
   11:
-    arabic: كَذٰلِكَ
+    arabic: كَذَٰلِكَ
     translation: Thus
     transliteration: kadhālika
   12:
@@ -56,19 +56,19 @@ word_by_word:
     translation: He subjected them
     transliteration: sakharahā
   13:
-    arabic: لَـكُمۡ
+    arabic: لَكُمۡ
     translation: to you
     transliteration: lakum
   14:
-    arabic: لِتُكَبِّرُوا
+    arabic: لِتُكَبِّرُواْ
     translation: so that you may magnify
     transliteration: litukabbirū
   15:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   16:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: for
     transliteration: ʿalā
   17:
@@ -76,7 +76,7 @@ word_by_word:
     translation: what
     transliteration: mā
   18:
-    arabic: هَدٰٮكُمۡ​ؕ
+    arabic: هَدَىٰكُمۡۗ
     translation: He has guided you
     transliteration: hadākum
   19:
@@ -84,7 +84,7 @@ word_by_word:
     translation: And give glad tidings
     transliteration: wabashiri
   20:
-    arabic: الۡمُحۡسِنِيۡنَ‏
+    arabic: ٱلۡمُحۡسِنِينَ
     translation: (to) the good-doers
     transliteration: l-muḥ'sinīna
 ---

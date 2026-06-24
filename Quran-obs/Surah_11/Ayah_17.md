@@ -1,9 +1,8 @@
 ---
-arabic_ayat: اَفَمَنۡ كَانَ عَلٰى بَيِّنَةٍ مِّنۡ رَّبِّهٖ وَيَتۡلُوۡهُ شَاهِدٌ مِّنۡهُ
-  وَمِنۡ قَبۡلِهٖ كِتٰبُ مُوۡسٰٓى اِمَامًا وَّرَحۡمَةً​  ؕ اُولٰٓٮِٕكَ يُؤۡمِنُوۡنَ
-  بِهٖ​ ؕ وَمَنۡ يَّكۡفُرۡ بِهٖ مِنَ الۡاَحۡزَابِ فَالنَّارُ مَوۡعِدُهٗ​ ۚ فَلَا تَكُ
-  فِىۡ مِرۡيَةٍ مِّنۡهُ​ اِنَّهُ الۡحَـقُّ مِنۡ رَّبِّكَ وَلٰـكِنَّ اَكۡثَرَ النَّاسِ
-  لَا يُؤۡمِنُوۡنَ‏
+arabic_ayat: أَفَمَن كَانَ عَلَىٰ بَيِّنَةٖ مِّن رَّبِّهِۦ وَيَتۡلُوهُ شَاهِدٞ مِّنۡهُ
+  وَمِن قَبۡلِهِۦ كِتَٰبُ مُوسَىٰٓ إِمَامٗا وَرَحۡمَةًۚ أُوْلَٰٓئِكَ يُؤۡمِنُونَ بِهِۦۚ
+  وَمَن يَكۡفُرۡ بِهِۦ مِنَ ٱلۡأَحۡزَابِ فَٱلنَّارُ مَوۡعِدُهُۥۚ فَلَا تَكُ فِي مِرۡيَةٖ
+  مِّنۡهُۚ إِنَّهُ ٱلۡحَقُّ مِن رَّبِّكَ وَلَٰكِنَّ أَكۡثَرَ ٱلنَّاسِ لَا يُؤۡمِنُونَ
 sentence_translation: ˹Can these people be compared to˺ those ˹believers˺ who stand
   on clear proof from their Lord, backed by ˹the Quran as˺ a witness from Him, and
   preceded by the Book of Moses ˹which was revealed˺ as a guide and mercy? It is those
@@ -12,7 +11,7 @@ sentence_translation: ˹Can these people be compared to˺ those ˹believers˺ wh
   the truth from your Lord, but most people do not believe.
 word_by_word:
   1:
-    arabic: اَفَمَنۡ
+    arabic: أَفَمَن
     translation: Then is he who
     transliteration: afaman
   2:
@@ -20,27 +19,27 @@ word_by_word:
     translation: is
     transliteration: kāna
   3:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: 'on'
     transliteration: ʿalā
   4:
-    arabic: بَيِّنَةٍ
+    arabic: بَيِّنَةٖ
     translation: a clear proof
     transliteration: bayyinatin
   5:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: from
     transliteration: min
   6:
-    arabic: رَّبِّهٖ
+    arabic: رَّبِّهِۦ
     translation: his Lord
     transliteration: rabbihi
   7:
-    arabic: وَيَتۡلُوۡهُ
+    arabic: وَيَتۡلُوهُ
     translation: and recites it
     transliteration: wayatlūhu
   8:
-    arabic: شَاهِدٌ
+    arabic: شَاهِدٞ
     translation: a witness
     transliteration: shāhidun
   9:
@@ -48,51 +47,51 @@ word_by_word:
     translation: from Him
     transliteration: min'hu
   10:
-    arabic: وَمِنۡ
+    arabic: وَمِن
     translation: and before it
     transliteration: wamin
   11:
-    arabic: قَبۡلِهٖ
+    arabic: قَبۡلِهِۦ
     translation: and before it
     transliteration: qablihi
   12:
-    arabic: كِتٰبُ
+    arabic: كِتَٰبُ
     translation: (was) a Book
     transliteration: kitābu
   13:
-    arabic: مُوۡسٰٓى
+    arabic: مُوسَىٰٓ
     translation: (of) Musa
     transliteration: mūsā
   14:
-    arabic: اِمَامًا
+    arabic: إِمَامٗا
     translation: (as) a guide
     transliteration: imāman
   15:
-    arabic: وَّرَحۡمَةً​  ؕ
+    arabic: وَرَحۡمَةًۚ
     translation: and (as) mercy
     transliteration: waraḥmatan
   16:
-    arabic: اُولٰٓٮِٕكَ
+    arabic: أُوْلَٰٓئِكَ
     translation: Those
     transliteration: ulāika
   17:
-    arabic: يُؤۡمِنُوۡنَ
+    arabic: يُؤۡمِنُونَ
     translation: believe
     transliteration: yu'minūna
   18:
-    arabic: بِهٖ​ ؕ
+    arabic: بِهِۦۚ
     translation: in it
     transliteration: bihi
   19:
-    arabic: وَمَنۡ
+    arabic: وَمَن
     translation: But whoever
     transliteration: waman
   20:
-    arabic: يَّكۡفُرۡ
+    arabic: يَكۡفُرۡ
     translation: disbelieves
     transliteration: yakfur
   21:
-    arabic: بِهٖ
+    arabic: بِهِۦ
     translation: in it
     transliteration: bihi
   22:
@@ -100,15 +99,15 @@ word_by_word:
     translation: among
     transliteration: mina
   23:
-    arabic: الۡاَحۡزَابِ
+    arabic: ٱلۡأَحۡزَابِ
     translation: the sects
     transliteration: l-aḥzābi
   24:
-    arabic: فَالنَّارُ
+    arabic: فَٱلنَّارُ
     translation: then the Fire
     transliteration: fal-nāru
   25:
-    arabic: مَوۡعِدُهٗ​ ۚ
+    arabic: مَوۡعِدُهُۥۚ
     translation: (will be) his promised (meeting) place
     transliteration: mawʿiduhu
   26:
@@ -120,27 +119,27 @@ word_by_word:
     translation: be
     transliteration: taku
   28:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   29:
-    arabic: مِرۡيَةٍ
+    arabic: مِرۡيَةٖ
     translation: doubt
     transliteration: mir'yatin
   30:
-    arabic: مِّنۡهُ​
+    arabic: مِّنۡهُۚ
     translation: about it
     transliteration: min'hu
   31:
-    arabic: اِنَّهُ
+    arabic: إِنَّهُ
     translation: Indeed, it
     transliteration: innahu
   32:
-    arabic: الۡحَـقُّ
+    arabic: ٱلۡحَقُّ
     translation: (is) the truth
     transliteration: l-ḥaqu
   33:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   34:
@@ -148,15 +147,15 @@ word_by_word:
     translation: your Lord
     transliteration: rabbika
   35:
-    arabic: وَلٰـكِنَّ
+    arabic: وَلَٰكِنَّ
     translation: but
     transliteration: walākinna
   36:
-    arabic: اَكۡثَرَ
+    arabic: أَكۡثَرَ
     translation: most
     transliteration: akthara
   37:
-    arabic: النَّاسِ
+    arabic: ٱلنَّاسِ
     translation: (of) the people
     transliteration: l-nāsi
   38:
@@ -164,7 +163,7 @@ word_by_word:
     translation: (do) not
     transliteration: lā
   39:
-    arabic: يُؤۡمِنُوۡنَ‏
+    arabic: يُؤۡمِنُونَ
     translation: believe
     transliteration: yu'minūna
 ---

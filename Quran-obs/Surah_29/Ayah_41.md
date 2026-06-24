@@ -1,7 +1,7 @@
 ---
-arabic_ayat: مَثَلُ الَّذِيۡنَ اتَّخَذُوۡا مِنۡ دُوۡنِ اللّٰهِ اَوۡلِيَآءَ كَمَثَلِ
-  الۡعَنۡكَبُوۡتِ ​ۖۚ اِتَّخَذَتۡ بَيۡتًا ​ؕ وَ اِنَّ اَوۡهَنَ الۡبُيُوۡتِ لَبَيۡتُ
-  الۡعَنۡكَبُوۡتِ​ۘ لَوۡ كَانُوۡا يَعۡلَمُوۡنَ‏
+arabic_ayat: مَثَلُ ٱلَّذِينَ ٱتَّخَذُواْ مِن دُونِ ٱللَّهِ أَوۡلِيَآءَ كَمَثَلِ
+  ٱلۡعَنكَبُوتِ ٱتَّخَذَتۡ بَيۡتٗاۖ وَإِنَّ أَوۡهَنَ ٱلۡبُيُوتِ لَبَيۡتُ ٱلۡعَنكَبُوتِۚ
+  لَوۡ كَانُواْ يَعۡلَمُونَ
 sentence_translation: The parable of those who take protectors other than Allah is
   that of a spider spinning a shelter. And the flimsiest of all shelters is certainly
   that of a spider, if only they knew.
@@ -11,27 +11,27 @@ word_by_word:
     translation: (The) example
     transliteration: mathalu
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: (of) those who
     transliteration: alladhīna
   3:
-    arabic: اتَّخَذُوۡا
+    arabic: ٱتَّخَذُواْ
     translation: take
     transliteration: ittakhadhū
   4:
-    arabic: مِنۡ
+    arabic: مِن
     translation: besides
     transliteration: min
   5:
-    arabic: دُوۡنِ
+    arabic: دُونِ
     translation: besides
     transliteration: dūni
   6:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   7:
-    arabic: اَوۡلِيَآءَ
+    arabic: أَوۡلِيَآءَ
     translation: protectors
     transliteration: awliyāa
   8:
@@ -39,27 +39,27 @@ word_by_word:
     translation: (is) like
     transliteration: kamathali
   9:
-    arabic: الۡعَنۡكَبُوۡتِ ​ۖۚ
+    arabic: ٱلۡعَنكَبُوتِ
     translation: the spider
     transliteration: l-ʿankabūti
   10:
-    arabic: اِتَّخَذَتۡ
+    arabic: ٱتَّخَذَتۡ
     translation: who takes
     transliteration: ittakhadhat
   11:
-    arabic: بَيۡتًا ​ؕ
+    arabic: بَيۡتٗاۖ
     translation: a house
     transliteration: baytan
   12:
-    arabic: وَ اِنَّ
+    arabic: وَإِنَّ
     translation: And indeed
     transliteration: wa-inna
   13:
-    arabic: اَوۡهَنَ
+    arabic: أَوۡهَنَ
     translation: the weakest
     transliteration: awhana
   14:
-    arabic: الۡبُيُوۡتِ
+    arabic: ٱلۡبُيُوتِ
     translation: (of) houses
     transliteration: l-buyūti
   15:
@@ -67,7 +67,7 @@ word_by_word:
     translation: (is) surely (the) house
     transliteration: labaytu
   16:
-    arabic: الۡعَنۡكَبُوۡتِ​ۘ
+    arabic: ٱلۡعَنكَبُوتِۚ
     translation: (of) the spider
     transliteration: l-ʿankabūti
   17:
@@ -75,11 +75,11 @@ word_by_word:
     translation: if (only)
     transliteration: law
   18:
-    arabic: كَانُوۡا
+    arabic: كَانُواْ
     translation: they
     transliteration: kānū
   19:
-    arabic: يَعۡلَمُوۡنَ‏
+    arabic: يَعۡلَمُونَ
     translation: know
     transliteration: yaʿlamūna
 ---

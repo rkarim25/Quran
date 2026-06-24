@@ -1,6 +1,6 @@
 ---
-arabic_ayat: قُلۡ صَدَقَ اللّٰهُ​ فَاتَّبِعُوۡا مِلَّةَ اِبۡرٰهِيۡمَ حَنِيۡفًا ؕ
-  وَمَا كَانَ مِنَ الۡمُشۡرِكِيۡنَ‏
+arabic_ayat: قُلۡ صَدَقَ ٱللَّهُۗ فَٱتَّبِعُواْ مِلَّةَ إِبۡرَٰهِيمَ حَنِيفٗاۖ وَمَا
+  كَانَ مِنَ ٱلۡمُشۡرِكِينَ
 sentence_translation: Say, ˹O Prophet,˺ “Allah has declared the truth. So follow the
   Way of Abraham, the upright—who was not a polytheist.”
 word_by_word:
@@ -13,11 +13,11 @@ word_by_word:
     translation: (has) spoken the truth
     transliteration: ṣadaqa
   3:
-    arabic: اللّٰهُ​
+    arabic: ٱللَّهُۗ
     translation: Allah
     transliteration: l-lahu
   4:
-    arabic: فَاتَّبِعُوۡا
+    arabic: فَٱتَّبِعُواْ
     translation: then follow
     transliteration: fa-ittabiʿū
   5:
@@ -25,11 +25,11 @@ word_by_word:
     translation: (the) religion
     transliteration: millata
   6:
-    arabic: اِبۡرٰهِيۡمَ
+    arabic: إِبۡرَٰهِيمَ
     translation: (of) Ibrahim
     transliteration: ib'rāhīma
   7:
-    arabic: حَنِيۡفًا ؕ
+    arabic: حَنِيفٗاۖ
     translation: (the) upright
     transliteration: ḥanīfan
   8:
@@ -45,7 +45,7 @@ word_by_word:
     translation: of
     transliteration: mina
   11:
-    arabic: الۡمُشۡرِكِيۡنَ‏
+    arabic: ٱلۡمُشۡرِكِينَ
     translation: the polytheists
     transliteration: l-mush'rikīna
 ---

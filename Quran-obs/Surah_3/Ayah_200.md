@@ -1,39 +1,39 @@
 ---
-arabic_ayat: يٰۤـاَيُّهَا الَّذِيۡنَ اٰمَنُوا اصۡبِرُوۡا وَصَابِرُوۡا وَرَابِطُوۡا
-  وَاتَّقُوا اللّٰهَ لَعَلَّكُمۡ تُفۡلِحُوۡنَ‏
+arabic_ayat: يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُواْ ٱصۡبِرُواْ وَصَابِرُواْ وَرَابِطُواْ
+  وَٱتَّقُواْ ٱللَّهَ لَعَلَّكُمۡ تُفۡلِحُونَ
 sentence_translation: O believers! Patiently endure, persevere, stand on guard, and
   be mindful of Allah, so you may be successful.
 word_by_word:
   1:
-    arabic: يٰۤـاَيُّهَا
+    arabic: يَٰٓأَيُّهَا
     translation: O you
     transliteration: yāayyuhā
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ ءَ
     translation: who
     transliteration: alladhīna
   3:
-    arabic: اٰمَنُوا
+    arabic: امَنُواْ
     translation: believe[d]
     transliteration: āmanū
   4:
-    arabic: اصۡبِرُوۡا
+    arabic: ٱصۡبِرُواْ
     translation: Be steadfast
     transliteration: iṣ'birū
   5:
-    arabic: وَصَابِرُوۡا
+    arabic: وَصَابِرُواْ
     translation: and [be] patient
     transliteration: waṣābirū
   6:
-    arabic: وَرَابِطُوۡا
+    arabic: وَرَابِطُواْ
     translation: and [be] constant
     transliteration: warābiṭū
   7:
-    arabic: وَاتَّقُوا
+    arabic: وَٱتَّقُواْ
     translation: and fear
     transliteration: wa-ittaqū
   8:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   9:
@@ -41,7 +41,7 @@ word_by_word:
     translation: so that you may
     transliteration: laʿallakum
   10:
-    arabic: تُفۡلِحُوۡنَ‏
+    arabic: تُفۡلِحُونَ
     translation: (be) successful
     transliteration: tuf'liḥūna
 ---

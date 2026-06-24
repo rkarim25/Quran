@@ -1,15 +1,15 @@
 ---
-arabic_ayat: وَمَاۤ اَصَابَكُمۡ يَوۡمَ الۡتَقَى الۡجَمۡعٰنِ فَبِاِذۡنِ اللّٰهِ وَلِيَعۡلَمَ
-  الۡمُؤۡمِنِيۡنَۙ‏
+arabic_ayat: وَمَآ أَصَٰبَكُمۡ يَوۡمَ ٱلۡتَقَى ٱلۡجَمۡعَانِ فَبِإِذۡنِ ٱللَّهِ وَلِيَعۡلَمَ
+  ٱلۡمُؤۡمِنِينَ
 sentence_translation: So what you suffered on the day the two armies met was by Allah’s
   Will, so that He might distinguish the ˹true˺ believers
 word_by_word:
   1:
-    arabic: وَمَاۤ
+    arabic: وَمَآ
     translation: And what
     transliteration: wamā
   2:
-    arabic: اَصَابَكُمۡ
+    arabic: أَصَٰبَكُمۡ
     translation: struck you
     transliteration: aṣābakum
   3:
@@ -17,19 +17,19 @@ word_by_word:
     translation: (on the) day
     transliteration: yawma
   4:
-    arabic: الۡتَقَى
+    arabic: ٱلۡتَقَى
     translation: (when) met
     transliteration: l-taqā
   5:
-    arabic: الۡجَمۡعٰنِ
+    arabic: ٱلۡجَمۡعَانِ
     translation: the two hosts
     transliteration: l-jamʿāni
   6:
-    arabic: فَبِاِذۡنِ
+    arabic: فَبِإِذۡنِ
     translation: (was) by (the) permission
     transliteration: fabi-idh'ni
   7:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (of) Allah
     transliteration: l-lahi
   8:
@@ -37,7 +37,7 @@ word_by_word:
     translation: and that He (might) make evident
     transliteration: waliyaʿlama
   9:
-    arabic: الۡمُؤۡمِنِيۡنَۙ‏
+    arabic: ٱلۡمُؤۡمِنِينَ
     translation: the believers
     transliteration: l-mu'minīna
 ---

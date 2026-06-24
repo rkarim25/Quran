@@ -1,13 +1,13 @@
 ---
-arabic_ayat: ذٰ لِكَ مِنۡ اَنۡۢـبَآءِ الۡغَيۡبِ نُوۡحِيۡهِ اِلَيۡكَ​ؕ وَمَا كُنۡتَ
-  لَدَيۡهِمۡ اِذۡ يُلۡقُوۡنَ اَقۡلَامَهُمۡ اَيُّهُمۡ يَكۡفُلُ مَرۡيَمَ وَمَا كُنۡتَ
-  لَدَيۡهِمۡ اِذۡ يَخۡتَصِمُوۡنَ‏
+arabic_ayat: ذَٰلِكَ مِنۡ أَنۢبَآءِ ٱلۡغَيۡبِ نُوحِيهِ إِلَيۡكَۚ وَمَا كُنتَ لَدَيۡهِمۡ
+  إِذۡ يُلۡقُونَ أَقۡلَٰمَهُمۡ أَيُّهُمۡ يَكۡفُلُ مَرۡيَمَ وَمَا كُنتَ لَدَيۡهِمۡ
+  إِذۡ يَخۡتَصِمُونَ
 sentence_translation: This is news of the unseen that We reveal to you ˹O Prophet˺.
   You were not with them when they cast lots to decide who would be Mary’s guardian,
   nor were you there when they argued ˹about it˺.
 word_by_word:
   1:
-    arabic: ذٰ لِكَ
+    arabic: ذَٰلِكَ
     translation: That
     transliteration: dhālika
   2:
@@ -15,19 +15,19 @@ word_by_word:
     translation: (is) from
     transliteration: min
   3:
-    arabic: اَنۡۢـبَآءِ
+    arabic: أَنۢبَآءِ
     translation: (the) news
     transliteration: anbāi
   4:
-    arabic: الۡغَيۡبِ
+    arabic: ٱلۡغَيۡبِ
     translation: '(of) the unseen '
     transliteration: l-ghaybi
   5:
-    arabic: نُوۡحِيۡهِ
+    arabic: نُوحِيهِ
     translation: We reveal it
     transliteration: nūḥīhi
   6:
-    arabic: اِلَيۡكَ​ؕ
+    arabic: إِلَيۡكَۚ
     translation: to you
     transliteration: ilayka
   7:
@@ -35,7 +35,7 @@ word_by_word:
     translation: And not
     transliteration: wamā
   8:
-    arabic: كُنۡتَ
+    arabic: كُنتَ
     translation: you were
     transliteration: kunta
   9:
@@ -43,19 +43,19 @@ word_by_word:
     translation: with them
     transliteration: ladayhim
   10:
-    arabic: اِذۡ
+    arabic: إِذۡ
     translation: when
     transliteration: idh
   11:
-    arabic: يُلۡقُوۡنَ
+    arabic: يُلۡقُونَ
     translation: they cast
     transliteration: yul'qūna
   12:
-    arabic: اَقۡلَامَهُمۡ
+    arabic: أَقۡلَٰمَهُمۡ
     translation: their pens
     transliteration: aqlāmahum
   13:
-    arabic: اَيُّهُمۡ
+    arabic: أَيُّهُمۡ
     translation: (as to) which of them
     transliteration: ayyuhum
   14:
@@ -63,7 +63,7 @@ word_by_word:
     translation: takes charge (of)
     transliteration: yakfulu
   15:
-    arabic: مَرۡيَمَ
+    arabic: مَرۡيَمَ
     translation: Maryam
     transliteration: maryama
   16:
@@ -71,7 +71,7 @@ word_by_word:
     translation: and not
     transliteration: wamā
   17:
-    arabic: كُنۡتَ
+    arabic: كُنتَ
     translation: you were
     transliteration: kunta
   18:
@@ -79,11 +79,11 @@ word_by_word:
     translation: with them
     transliteration: ladayhim
   19:
-    arabic: اِذۡ
+    arabic: إِذۡ
     translation: when
     transliteration: idh
   20:
-    arabic: يَخۡتَصِمُوۡنَ‏
+    arabic: يَخۡتَصِمُونَ
     translation: they (were) disputing
     transliteration: yakhtaṣimūna
 ---

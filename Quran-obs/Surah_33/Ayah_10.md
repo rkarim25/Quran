@@ -1,21 +1,20 @@
 ---
-arabic_ayat: اِذۡ جَآءُوۡكُمۡ مِّنۡ فَوۡقِكُمۡ وَمِنۡ اَسۡفَلَ مِنۡكُمۡ وَاِذۡ زَاغَتِ
-  الۡاَبۡصَارُ وَبَلَغَتِ الۡقُلُوۡبُ الۡحَـنَـاجِرَ وَتَظُنُّوۡنَ بِاللّٰهِ الظُّنُوۡنَا
-  ؕ‏
+arabic_ayat: إِذۡ جَآءُوكُم مِّن فَوۡقِكُمۡ وَمِنۡ أَسۡفَلَ مِنكُمۡ وَإِذۡ زَاغَتِ
+  ٱلۡأَبۡصَٰرُ وَبَلَغَتِ ٱلۡقُلُوبُ ٱلۡحَنَاجِرَ وَتَظُنُّونَ بِٱللَّهِ ٱلظُّنُونَا۠
 sentence_translation: ˹Remember˺ when they came at you from east and west, when your
   eyes grew wild ˹in horror˺ and your hearts jumped into your throats, and you entertained
   ˹conflicting˺ thoughts about Allah.
 word_by_word:
   1:
-    arabic: اِذۡ
+    arabic: إِذۡ
     translation: When
     transliteration: idh
   2:
-    arabic: جَآءُوۡكُمۡ
+    arabic: جَآءُوكُم
     translation: they came upon you
     transliteration: jāūkum
   3:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: from
     transliteration: min
   4:
@@ -27,15 +26,15 @@ word_by_word:
     translation: and from
     transliteration: wamin
   6:
-    arabic: اَسۡفَلَ
+    arabic: أَسۡفَلَ
     translation: below
     transliteration: asfala
   7:
-    arabic: مِنۡكُمۡ
+    arabic: مِنكُمۡ
     translation: you
     transliteration: minkum
   8:
-    arabic: وَاِذۡ
+    arabic: وَإِذۡ
     translation: and when
     transliteration: wa-idh
   9:
@@ -43,7 +42,7 @@ word_by_word:
     translation: grew wild
     transliteration: zāghati
   10:
-    arabic: الۡاَبۡصَارُ
+    arabic: ٱلۡأَبۡصَٰرُ
     translation: the eyes
     transliteration: l-abṣāru
   11:
@@ -51,23 +50,23 @@ word_by_word:
     translation: and reached
     transliteration: wabalaghati
   12:
-    arabic: الۡقُلُوۡبُ
+    arabic: ٱلۡقُلُوبُ
     translation: the hearts
     transliteration: l-qulūbu
   13:
-    arabic: الۡحَـنَـاجِرَ
+    arabic: ٱلۡحَنَاجِرَ
     translation: the throats
     transliteration: l-ḥanājira
   14:
-    arabic: وَتَظُنُّوۡنَ
+    arabic: وَتَظُنُّونَ
     translation: and you assumed
     transliteration: wataẓunnūna
   15:
-    arabic: بِاللّٰهِ
+    arabic: بِٱللَّهِ
     translation: about Allah
     transliteration: bil-lahi
   16:
-    arabic: الظُّنُوۡنَا ؕ‏
+    arabic: ٱلظُّنُونَا۠
     translation: the assumptions
     transliteration: l-ẓunūnā
 ---

@@ -1,17 +1,17 @@
 ---
-arabic_ayat: وَالَّيۡلِ اِذَا عَسۡعَسَۙ‏
+arabic_ayat: وَٱلَّيۡلِ إِذَا عَسۡعَسَ
 sentence_translation: and the night as it falls
 word_by_word:
   1:
-    arabic: وَالَّيۡلِ
+    arabic: وَٱلَّيۡلِ
     translation: And the night
     transliteration: wa-al-layli
   2:
-    arabic: اِذَا
+    arabic: إِذَا
     translation: when
     transliteration: idhā
   3:
-    arabic: عَسۡعَسَۙ‏
+    arabic: عَسۡعَسَ
     translation: it departs
     transliteration: ʿasʿasa
 ---

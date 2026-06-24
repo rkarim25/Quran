@@ -1,35 +1,35 @@
 ---
-arabic_ayat: اِنَّ الَّذِيۡنَ يُنَادُوۡنَكَ مِنۡ وَّرَآءِ الۡحُجُرٰتِ اَكۡثَرُهُمۡ
-  لَا يَعۡقِلُوۡنَ‏
+arabic_ayat: إِنَّ ٱلَّذِينَ يُنَادُونَكَ مِن وَرَآءِ ٱلۡحُجُرَٰتِ أَكۡثَرُهُمۡ لَا
+  يَعۡقِلُونَ
 sentence_translation: Indeed, most of those who call out to you ˹O Prophet˺ from outside
   ˹your˺ private quarters have no understanding ˹of manners˺.
 word_by_word:
   1:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   3:
-    arabic: يُنَادُوۡنَكَ
+    arabic: يُنَادُونَكَ
     translation: call you
     transliteration: yunādūnaka
   4:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   5:
-    arabic: وَّرَآءِ
+    arabic: وَرَآءِ
     translation: behind
     transliteration: warāi
   6:
-    arabic: الۡحُجُرٰتِ
+    arabic: ٱلۡحُجُرَٰتِ
     translation: the private chambers
     transliteration: l-ḥujurāti
   7:
-    arabic: اَكۡثَرُهُمۡ
+    arabic: أَكۡثَرُهُمۡ
     translation: most of them
     transliteration: aktharuhum
   8:
@@ -37,7 +37,7 @@ word_by_word:
     translation: (do) not
     transliteration: lā
   9:
-    arabic: يَعۡقِلُوۡنَ‏
+    arabic: يَعۡقِلُونَ
     translation: understand
     transliteration: yaʿqilūna
 ---

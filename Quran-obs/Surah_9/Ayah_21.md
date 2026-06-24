@@ -1,6 +1,6 @@
 ---
-arabic_ayat: يُبَشِّرُهُمۡ رَبُّهُمۡ بِرَحۡمَةٍ مِّنۡهُ وَرِضۡوَانٍ وَّجَنّٰتٍ لَّهُمۡ
-  فِيۡهَا نَعِيۡمٌ مُّقِيۡمٌ ۙ‏
+arabic_ayat: يُبَشِّرُهُمۡ رَبُّهُم بِرَحۡمَةٖ مِّنۡهُ وَرِضۡوَٰنٖ وَجَنَّٰتٖ لَّهُمۡ
+  فِيهَا نَعِيمٞ مُّقِيمٌ
 sentence_translation: Their Lord gives them good news of His mercy, pleasure, and
   Gardens with everlasting bliss,
 word_by_word:
@@ -9,11 +9,11 @@ word_by_word:
     translation: Their Lord gives them glad tidings
     transliteration: yubashiruhum
   2:
-    arabic: رَبُّهُمۡ
+    arabic: رَبُّهُم
     translation: Their Lord gives them glad tidings
     transliteration: rabbuhum
   3:
-    arabic: بِرَحۡمَةٍ
+    arabic: بِرَحۡمَةٖ
     translation: of Mercy
     transliteration: biraḥmatin
   4:
@@ -21,11 +21,11 @@ word_by_word:
     translation: from Him
     transliteration: min'hu
   5:
-    arabic: وَرِضۡوَانٍ
+    arabic: وَرِضۡوَٰنٖ
     translation: and Pleasure
     transliteration: wariḍ'wānin
   6:
-    arabic: وَّجَنّٰتٍ
+    arabic: وَجَنَّٰتٖ
     translation: and Gardens
     transliteration: wajannātin
   7:
@@ -33,15 +33,15 @@ word_by_word:
     translation: 'for them '
     transliteration: lahum
   8:
-    arabic: فِيۡهَا
+    arabic: فِيهَا
     translation: in it
     transliteration: fīhā
   9:
-    arabic: نَعِيۡمٌ
+    arabic: نَعِيمٞ
     translation: (is) bliss
     transliteration: naʿīmun
   10:
-    arabic: مُّقِيۡمٌ ۙ‏
+    arabic: مُّقِيمٌ
     translation: enduring
     transliteration: muqīmun
 ---

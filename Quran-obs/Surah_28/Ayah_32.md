@@ -1,14 +1,14 @@
 ---
-arabic_ayat: اُسۡلُكۡ يَدَكَ فِىۡ جَيۡبِكَ تَخۡرُجۡ بَيۡضَآءَ مِنۡ غَيۡرِ سُوۡٓءٍ
-  وَّاضۡمُمۡ اِلَيۡكَ جَنَاحَكَ مِنَ الرَّهۡبِ​ فَذٰنِكَ بُرۡهَانٰنِ مِنۡ رَّبِّكَ
-  اِلٰى فِرۡعَوۡنَ وَمَلَا۟ٮِٕهٖؕ اِنَّهُمۡ كَانُوۡا قَوۡمًا فٰسِقِيۡنَ‏‏‏
+arabic_ayat: ٱسۡلُكۡ يَدَكَ فِي جَيۡبِكَ تَخۡرُجۡ بَيۡضَآءَ مِنۡ غَيۡرِ سُوٓءٖ وَٱضۡمُمۡ
+  إِلَيۡكَ جَنَاحَكَ مِنَ ٱلرَّهۡبِۖ فَذَٰنِكَ بُرۡهَٰنَانِ مِن رَّبِّكَ إِلَىٰ فِرۡعَوۡنَ
+  وَمَلَإِيْهِۦٓۚ إِنَّهُمۡ كَانُواْ قَوۡمٗا فَٰسِقِينَ
 sentence_translation: Now put your hand through ˹the opening of˺ your collar, it will
   come out ˹shining˺ white, unblemished. And cross your arms tightly to calm your
   fears. These are two proofs from your Lord to Pharaoh and his chiefs. They have
   truly been a rebellious people.”
 word_by_word:
   1:
-    arabic: اُسۡلُكۡ
+    arabic: ٱسۡلُكۡ
     translation: Insert
     transliteration: us'luk
   2:
@@ -16,7 +16,7 @@ word_by_word:
     translation: your hand
     transliteration: yadaka
   3:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   4:
@@ -40,15 +40,15 @@ word_by_word:
     translation: without
     transliteration: ghayri
   9:
-    arabic: سُوۡٓءٍ
+    arabic: سُوٓءٖ
     translation: any harm
     transliteration: sūin
   10:
-    arabic: وَّاضۡمُمۡ
+    arabic: وَٱضۡمُمۡ
     translation: And draw
     transliteration: wa-uḍ'mum
   11:
-    arabic: اِلَيۡكَ
+    arabic: إِلَيۡكَ
     translation: to yourselves
     transliteration: ilayka
   12:
@@ -60,19 +60,19 @@ word_by_word:
     translation: against
     transliteration: mina
   14:
-    arabic: الرَّهۡبِ​
+    arabic: ٱلرَّهۡبِۖ
     translation: fear
     transliteration: l-rahbi
   15:
-    arabic: فَذٰنِكَ
+    arabic: فَذَٰنِكَ
     translation: So these
     transliteration: fadhānika
   16:
-    arabic: بُرۡهَانٰنِ
+    arabic: بُرۡهَٰنَانِ
     translation: (are) two evidences
     transliteration: bur'hānāni
   17:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   18:
@@ -80,7 +80,7 @@ word_by_word:
     translation: your Lord
     transliteration: rabbika
   19:
-    arabic: اِلٰى
+    arabic: إِلَىٰ
     translation: to
     transliteration: ilā
   20:
@@ -88,23 +88,23 @@ word_by_word:
     translation: Firaun
     transliteration: fir'ʿawna
   21:
-    arabic: وَمَلَا۟ٮِٕهٖؕ
+    arabic: وَمَلَإِيْهِۦٓۚ
     translation: and his chiefs
     transliteration: wamala-ihi
   22:
-    arabic: اِنَّهُمۡ
+    arabic: إِنَّهُمۡ
     translation: Indeed, they
     transliteration: innahum
   23:
-    arabic: كَانُوۡا
+    arabic: كَانُواْ
     translation: are
     transliteration: kānū
   24:
-    arabic: قَوۡمًا
+    arabic: قَوۡمٗا
     translation: a people
     transliteration: qawman
   25:
-    arabic: فٰسِقِيۡنَ‏‏‏
+    arabic: فَٰسِقِينَ
     translation: defiantly disobedient
     transliteration: fāsiqīna
 ---

@@ -1,60 +1,60 @@
 ---
-arabic_ayat: وَ مَا الۡحَيٰوةُ الدُّنۡيَاۤ اِلَّا لَعِبٌ وَّلَهۡوٌ​ ؕ وَلَـلدَّارُ
-  الۡاٰخِرَةُ خَيۡرٌ لِّـلَّذِيۡنَ يَتَّقُوۡنَ​ؕ اَفَلَا تَعۡقِلُوۡنَ‏
+arabic_ayat: وَمَا ٱلۡحَيَوٰةُ ٱلدُّنۡيَآ إِلَّا لَعِبٞ وَلَهۡوٞۖ وَلَلدَّارُ ٱلۡأٓخِرَةُ
+  خَيۡرٞ لِّلَّذِينَ يَتَّقُونَۚ أَفَلَا تَعۡقِلُونَ
 sentence_translation: This worldly life is no more than play and amusement, but far
   better is the ˹eternal˺ Home of the Hereafter for those mindful ˹of Allah˺. Will
   you not then understand?
 word_by_word:
   1:
-    arabic: وَ مَا
+    arabic: وَمَا
     translation: And not
     transliteration: wamā
   2:
-    arabic: الۡحَيٰوةُ
+    arabic: ٱلۡحَيَوٰةُ
     translation: (is) the life
     transliteration: l-ḥayatu
   3:
-    arabic: الدُّنۡيَاۤ
+    arabic: ٱلدُّنۡيَآ
     translation: (of) the world
     transliteration: l-dun'yā
   4:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   5:
-    arabic: لَعِبٌ
+    arabic: لَعِبٞ
     translation: a play
     transliteration: laʿibun
   6:
-    arabic: وَّلَهۡوٌ​ ؕ
+    arabic: وَلَهۡوٞۖ
     translation: and amusement
     transliteration: walahwun
   7:
-    arabic: وَلَـلدَّارُ
+    arabic: وَلَلدَّارُ
     translation: but the home
     transliteration: walalddāru
   8:
-    arabic: الۡاٰخِرَةُ
+    arabic: ٱلۡأٓخِرَةُ
     translation: (of) the Hereafter
     transliteration: l-ākhiratu
   9:
-    arabic: خَيۡرٌ
+    arabic: خَيۡرٞ
     translation: (is) best
     transliteration: khayrun
   10:
-    arabic: لِّـلَّذِيۡنَ
+    arabic: لِّلَّذِينَ
     translation: for those who
     transliteration: lilladhīna
   11:
-    arabic: يَتَّقُوۡنَ​ؕ
+    arabic: يَتَّقُونَۚ
     translation: (are) God conscious
     transliteration: yattaqūna
   12:
-    arabic: اَفَلَا
+    arabic: أَفَلَا
     translation: Then not
     transliteration: afalā
   13:
-    arabic: تَعۡقِلُوۡنَ‏
+    arabic: تَعۡقِلُونَ
     translation: (will) you reason
     transliteration: taʿqilūna
 ---

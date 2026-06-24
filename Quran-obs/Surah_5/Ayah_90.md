@@ -1,44 +1,43 @@
 ---
-arabic_ayat: "يٰۤاَيُّهَا الَّذِيۡنَ اٰمَنُوۡۤا اِنَّمَا الۡخَمۡرُ وَالۡمَيۡسِرُ وَالۡاَنۡصَابُ\
-  \ وَالۡاَزۡلَامُ رِجۡسٌ مِّنۡ عَمَلِ الشَّيۡطٰنِ فَاجۡتَنِبُوۡهُ لَعَلَّكُمۡ تُفۡلِحُوۡنَ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓاْ إِنَّمَا ٱلۡخَمۡرُ وَٱلۡمَيۡسِرُ وَٱلۡأَنصَابُ
+  وَٱلۡأَزۡلَٰمُ رِجۡسٞ مِّنۡ عَمَلِ ٱلشَّيۡطَٰنِ فَٱجۡتَنِبُوهُ لَعَلَّكُمۡ تُفۡلِحُونَ
 sentence_translation: O believers! Intoxicants, gambling, idols, and drawing lots
   for decisions are all evil of Satan’s handiwork. So shun them so you may be successful.
 word_by_word:
   1:
-    arabic: يٰۤاَيُّهَا
+    arabic: يَٰٓأَيُّهَا
     translation: O you
     transliteration: yāayyuhā
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ ءَ
     translation: who
     transliteration: alladhīna
   3:
-    arabic: اٰمَنُوۡۤا
+    arabic: امَنُوٓاْ
     translation: believe
     transliteration: āmanū
   4:
-    arabic: اِنَّمَا
+    arabic: إِنَّمَا
     translation: Verily
     transliteration: innamā
   5:
-    arabic: الۡخَمۡرُ
+    arabic: ٱلۡخَمۡرُ
     translation: the intoxicants
     transliteration: l-khamru
   6:
-    arabic: وَالۡمَيۡسِرُ
+    arabic: وَٱلۡمَيۡسِرُ
     translation: and [the] games of chance
     transliteration: wal-maysiru
   7:
-    arabic: وَالۡاَنۡصَابُ
+    arabic: وَٱلۡأَنصَابُ
     translation: and (sacrifices at) altars
     transliteration: wal-anṣābu
   8:
-    arabic: وَالۡاَزۡلَامُ
+    arabic: وَٱلۡأَزۡلَٰمُ
     translation: and divining arrows
     transliteration: wal-azlāmu
   9:
-    arabic: رِجۡسٌ
+    arabic: رِجۡسٞ
     translation: (are an) abomination
     transliteration: rij'sun
   10:
@@ -50,11 +49,11 @@ word_by_word:
     translation: (the) work
     transliteration: ʿamali
   12:
-    arabic: الشَّيۡطٰنِ
+    arabic: ٱلشَّيۡطَٰنِ
     translation: (of) the Shaitaan
     transliteration: l-shayṭāni
   13:
-    arabic: فَاجۡتَنِبُوۡهُ
+    arabic: فَٱجۡتَنِبُوهُ
     translation: so avoid it
     transliteration: fa-ij'tanibūhu
   14:
@@ -62,7 +61,7 @@ word_by_word:
     translation: so that you may
     transliteration: laʿallakum
   15:
-    arabic: "تُفۡلِحُوۡنَ‏ \uFEFF\uFEFF"
+    arabic: تُفۡلِحُونَ
     translation: (be) successful
     transliteration: tuf'liḥūna
 ---

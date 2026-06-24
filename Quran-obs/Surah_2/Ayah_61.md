@@ -1,11 +1,11 @@
 ---
-arabic_ayat: وَاِذۡ قُلۡتُمۡ يٰمُوۡسٰى لَنۡ نَّصۡبِرَ عَلٰى طَعَامٍ وَّاحِدٍ فَادۡعُ
-  لَنَا رَبَّكَ يُخۡرِجۡ لَنَا مِمَّا تُنۡۢبِتُ الۡاَرۡضُ مِنۡۢ بَقۡلِهَا وَقِثَّـآٮِٕهَا
-  وَفُوۡمِهَا وَعَدَسِهَا وَ بَصَلِهَا​ؕ قَالَ اَتَسۡتَبۡدِلُوۡنَ الَّذِىۡ هُوَ اَدۡنٰى
-  بِالَّذِىۡ هُوَ خَيۡرٌ​ؕ اِهۡبِطُوۡا مِصۡرًا فَاِنَّ لَـکُمۡ مَّا سَاَلۡتُمۡ​ؕ وَضُرِبَتۡ
-  عَلَيۡهِمُ الذِّلَّةُ وَالۡمَسۡکَنَةُ وَبَآءُوۡ بِغَضَبٍ مِّنَ اللّٰهِ​ؕ ذٰلِكَ
-  بِاَنَّهُمۡ كَانُوۡا يَكۡفُرُوۡنَ بِاٰيٰتِ اللّٰهِ وَيَقۡتُلُوۡنَ النَّبِيّٖنَ بِغَيۡرِ
-  الۡحَـقِّ​ؕ ذٰلِكَ بِمَا عَصَوا وَّڪَانُوۡا يَعۡتَدُوۡنَ‏
+arabic_ayat: وَإِذۡ قُلۡتُمۡ يَٰمُوسَىٰ لَن نَّصۡبِرَ عَلَىٰ طَعَامٖ وَٰحِدٖ فَٱدۡعُ
+  لَنَا رَبَّكَ يُخۡرِجۡ لَنَا مِمَّا تُنۢبِتُ ٱلۡأَرۡضُ مِنۢ بَقۡلِهَا وَقِثَّآئِهَا
+  وَفُومِهَا وَعَدَسِهَا وَبَصَلِهَاۖ قَالَ أَتَسۡتَبۡدِلُونَ ٱلَّذِي هُوَ أَدۡنَىٰ
+  بِٱلَّذِي هُوَ خَيۡرٌۚ ٱهۡبِطُواْ مِصۡرٗا فَإِنَّ لَكُم مَّا سَأَلۡتُمۡۗ وَضُرِبَتۡ
+  عَلَيۡهِمُ ٱلذِّلَّةُ وَٱلۡمَسۡكَنَةُ وَبَآءُو بِغَضَبٖ مِّنَ ٱللَّهِۚ ذَٰلِكَ
+  بِأَنَّهُمۡ كَانُواْ يَكۡفُرُونَ بِـَٔايَٰتِ ٱللَّهِ وَيَقۡتُلُونَ ٱلنَّبِيِّـۧنَ
+  بِغَيۡرِ ٱلۡحَقِّۚ ذَٰلِكَ بِمَا عَصَواْ وَّكَانُواْ يَعۡتَدُونَ
 sentence_translation: And ˹remember˺ when you said, “O Moses! We cannot endure the
   same meal ˹every day˺. So ˹just˺ call upon your Lord on our behalf, He will bring
   forth for us some of what the earth produces of herbs, cucumbers, garlic, lentils,
@@ -16,7 +16,7 @@ sentence_translation: And ˹remember˺ when you said, “O Moses! We cannot endu
   for their disobedience and violations.
 word_by_word:
   1:
-    arabic: وَاِذۡ
+    arabic: وَإِذۡ
     translation: And when
     transliteration: wa-idh
   2:
@@ -24,11 +24,11 @@ word_by_word:
     translation: you said
     transliteration: qul'tum
   3:
-    arabic: يٰمُوۡسٰى
+    arabic: يَٰمُوسَىٰ
     translation: O Musa
     transliteration: yāmūsā
   4:
-    arabic: لَنۡ
+    arabic: لَن
     translation: Never (will)
     transliteration: lan
   5:
@@ -36,19 +36,19 @@ word_by_word:
     translation: we endure
     transliteration: naṣbira
   6:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: '[on]'
     transliteration: ʿalā
   7:
-    arabic: طَعَامٍ
+    arabic: طَعَامٖ
     translation: food
     transliteration: ṭaʿāmin
   8:
-    arabic: وَّاحِدٍ
+    arabic: وَٰحِدٖ
     translation: (of) one (kind)
     transliteration: wāḥidin
   9:
-    arabic: فَادۡعُ
+    arabic: فَٱدۡعُ
     translation: so pray
     transliteration: fa-ud'ʿu
   10:
@@ -72,15 +72,15 @@ word_by_word:
     translation: out of what
     transliteration: mimmā
   15:
-    arabic: تُنۡۢبِتُ
+    arabic: تُنۢبِتُ
     translation: grows
     transliteration: tunbitu
   16:
-    arabic: الۡاَرۡضُ
+    arabic: ٱلۡأَرۡضُ
     translation: the earth
     transliteration: l-arḍu
   17:
-    arabic: مِنۡۢ
+    arabic: مِنۢ
     translation: of
     transliteration: min
   18:
@@ -88,11 +88,11 @@ word_by_word:
     translation: its herbs
     transliteration: baqlihā
   19:
-    arabic: وَقِثَّـآٮِٕهَا
+    arabic: وَقِثَّآئِهَا
     translation: '[and] its cucumbers'
     transliteration: waqithāihā
   20:
-    arabic: وَفُوۡمِهَا
+    arabic: وَفُومِهَا
     translation: '[and] its garlic'
     transliteration: wafūmihā
   21:
@@ -100,7 +100,7 @@ word_by_word:
     translation: '[and] its lentils'
     transliteration: waʿadasihā
   22:
-    arabic: وَ بَصَلِهَا​ؕ
+    arabic: وَبَصَلِهَاۖ
     translation: and its onions
     transliteration: wabaṣalihā
   23:
@@ -108,11 +108,11 @@ word_by_word:
     translation: He said
     transliteration: qāla
   24:
-    arabic: اَتَسۡتَبۡدِلُوۡنَ
+    arabic: أَتَسۡتَبۡدِلُونَ
     translation: Would you exchange
     transliteration: atastabdilūna
   25:
-    arabic: الَّذِىۡ
+    arabic: ٱلَّذِي
     translation: that which
     transliteration: alladhī
   26:
@@ -120,11 +120,11 @@ word_by_word:
     translation: '[it]'
     transliteration: huwa
   27:
-    arabic: اَدۡنٰى
+    arabic: أَدۡنَىٰ
     translation: (is) inferior
     transliteration: adnā
   28:
-    arabic: بِالَّذِىۡ
+    arabic: بِٱلَّذِي
     translation: for that which
     transliteration: bi-alladhī
   29:
@@ -132,23 +132,23 @@ word_by_word:
     translation: '[it]'
     transliteration: huwa
   30:
-    arabic: خَيۡرٌ​ؕ
+    arabic: خَيۡرٌۚ
     translation: (is) better
     transliteration: khayrun
   31:
-    arabic: اِهۡبِطُوۡا
+    arabic: ٱهۡبِطُواْ
     translation: Go down
     transliteration: ih'biṭū
   32:
-    arabic: مِصۡرًا
+    arabic: مِصۡرٗا
     translation: (to) a city
     transliteration: miṣ'ran
   33:
-    arabic: فَاِنَّ
+    arabic: فَإِنَّ
     translation: so indeed
     transliteration: fa-inna
   34:
-    arabic: لَـکُمۡ
+    arabic: لَكُم
     translation: for you
     transliteration: lakum
   35:
@@ -156,7 +156,7 @@ word_by_word:
     translation: (is) what
     transliteration: mā
   36:
-    arabic: سَاَلۡتُمۡ​ؕ
+    arabic: سَأَلۡتُمۡۗ
     translation: you have asked (for)
     transliteration: sa-altum
   37:
@@ -168,19 +168,19 @@ word_by_word:
     translation: on them
     transliteration: ʿalayhimu
   39:
-    arabic: الذِّلَّةُ
+    arabic: ٱلذِّلَّةُ
     translation: the humiliation
     transliteration: l-dhilatu
   40:
-    arabic: وَالۡمَسۡکَنَةُ
+    arabic: وَٱلۡمَسۡكَنَةُ
     translation: and the misery
     transliteration: wal-maskanatu
   41:
-    arabic: وَبَآءُوۡ
+    arabic: وَبَآءُو
     translation: and they drew on themselves
     transliteration: wabāū
   42:
-    arabic: بِغَضَبٍ
+    arabic: بِغَضَبٖ
     translation: wrath
     transliteration: bighaḍabin
   43:
@@ -188,39 +188,39 @@ word_by_word:
     translation: of
     transliteration: mina
   44:
-    arabic: اللّٰهِ​ؕ
+    arabic: ٱللَّهِۚ
     translation: Allah
     transliteration: l-lahi
   45:
-    arabic: ذٰلِكَ
+    arabic: ذَٰلِكَ
     translation: That (was)
     transliteration: dhālika
   46:
-    arabic: بِاَنَّهُمۡ
+    arabic: بِأَنَّهُمۡ
     translation: because they
     transliteration: bi-annahum
   47:
-    arabic: كَانُوۡا
+    arabic: كَانُواْ
     translation: used to
     transliteration: kānū
   48:
-    arabic: يَكۡفُرُوۡنَ
+    arabic: يَكۡفُرُونَ
     translation: disbelieve
     transliteration: yakfurūna
   49:
-    arabic: بِاٰيٰتِ
+    arabic: بِـَٔايَٰتِ
     translation: in (the) Signs
     transliteration: biāyāti
   50:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (of) Allah
     transliteration: l-lahi
   51:
-    arabic: وَيَقۡتُلُوۡنَ
+    arabic: وَيَقۡتُلُونَ
     translation: and kill
     transliteration: wayaqtulūna
   52:
-    arabic: النَّبِيّٖنَ
+    arabic: ٱلنَّبِيِّـۧنَ
     translation: the Prophets
     transliteration: l-nabiyīna
   53:
@@ -228,11 +228,11 @@ word_by_word:
     translation: without (any)
     transliteration: bighayri
   54:
-    arabic: الۡحَـقِّ​ؕ
+    arabic: ٱلۡحَقِّۚ
     translation: '[the] right'
     transliteration: l-ḥaqi
   55:
-    arabic: ذٰلِكَ
+    arabic: ذَٰلِكَ
     translation: That
     transliteration: dhālika
   56:
@@ -240,15 +240,15 @@ word_by_word:
     translation: (was) because
     transliteration: bimā
   57:
-    arabic: عَصَوا
+    arabic: عَصَواْ
     translation: they disobeyed
     transliteration: ʿaṣaw
   58:
-    arabic: وَّڪَانُوۡا
+    arabic: وَّكَانُواْ
     translation: and they were
     transliteration: wakānū
   59:
-    arabic: يَعۡتَدُوۡنَ‏
+    arabic: يَعۡتَدُونَ
     translation: transgressing
     transliteration: yaʿtadūna
 ---

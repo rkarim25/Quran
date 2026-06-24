@@ -1,7 +1,6 @@
 ---
-arabic_ayat: "تِلۡكَ مِنۡ اَنۡۢبَآءِ الۡغَيۡبِ نُوۡحِيۡهَاۤ اِلَيۡكَ​ۚ مَا كُنۡتَ\
-  \ تَعۡلَمُهَاۤ اَنۡتَ وَلَا قَوۡمُكَ مِنۡ قَبۡلِ هٰذَا​ ​ۛؕ فَاصۡبِرۡ​ ​ۛؕ اِنَّ\
-  \ الۡعَاقِبَةَ لِلۡمُتَّقِيۡنَ‏ \uFEFF\uFEFF"
+arabic_ayat: تِلۡكَ مِنۡ أَنۢبَآءِ ٱلۡغَيۡبِ نُوحِيهَآ إِلَيۡكَۖ مَا كُنتَ تَعۡلَمُهَآ
+  أَنتَ وَلَا قَوۡمُكَ مِن قَبۡلِ هَٰذَاۖ فَٱصۡبِرۡۖ إِنَّ ٱلۡعَٰقِبَةَ لِلۡمُتَّقِينَ
 sentence_translation: This is one of the stories of the unseen, which we reveal to
   you ˹O Prophet˺. Neither you nor your people knew it before this. So be patient!
   Surely the ultimate outcome belongs ˹only˺ to the righteous.
@@ -15,19 +14,19 @@ word_by_word:
     translation: (is) from
     transliteration: min
   3:
-    arabic: اَنۡۢبَآءِ
+    arabic: أَنۢبَآءِ
     translation: the news
     transliteration: anbāi
   4:
-    arabic: الۡغَيۡبِ
+    arabic: ٱلۡغَيۡبِ
     translation: (of) the unseen
     transliteration: l-ghaybi
   5:
-    arabic: نُوۡحِيۡهَاۤ
+    arabic: نُوحِيهَآ
     translation: (which) We reveal
     transliteration: nūḥīhā
   6:
-    arabic: اِلَيۡكَ​ۚ
+    arabic: إِلَيۡكَۖ
     translation: to you
     transliteration: ilayka
   7:
@@ -35,15 +34,15 @@ word_by_word:
     translation: Not
     transliteration: mā
   8:
-    arabic: كُنۡتَ
+    arabic: كُنتَ
     translation: you were
     transliteration: kunta
   9:
-    arabic: تَعۡلَمُهَاۤ
+    arabic: تَعۡلَمُهَآ
     translation: knowing it
     transliteration: taʿlamuhā
   10:
-    arabic: اَنۡتَ
+    arabic: أَنتَ
     translation: you
     transliteration: anta
   11:
@@ -55,7 +54,7 @@ word_by_word:
     translation: your people
     transliteration: qawmuka
   13:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   14:
@@ -63,23 +62,23 @@ word_by_word:
     translation: before
     transliteration: qabli
   15:
-    arabic: هٰذَا​ ​ۛؕ
+    arabic: هَٰذَاۖ
     translation: this
     transliteration: hādhā
   16:
-    arabic: فَاصۡبِرۡ​ ​ۛؕ
+    arabic: فَٱصۡبِرۡۖ
     translation: So be patient
     transliteration: fa-iṣ'bir
   17:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: indeed
     transliteration: inna
   18:
-    arabic: الۡعَاقِبَةَ
+    arabic: ٱلۡعَٰقِبَةَ
     translation: the end
     transliteration: l-ʿāqibata
   19:
-    arabic: "لِلۡمُتَّقِيۡنَ‏ \uFEFF\uFEFF"
+    arabic: لِلۡمُتَّقِينَ
     translation: (is) for the God fearing
     transliteration: lil'muttaqīna
 ---

@@ -1,11 +1,10 @@
 ---
-arabic_ayat: "ثُمَّ اَنۡـتُمۡ هٰٓؤُلَاۤءِ تَقۡتُلُوۡنَ اَنۡفُسَكُمۡ وَتُخۡرِجُوۡنَ\
-  \ فَرِيۡقًا مِّنۡكُمۡ مِّنۡ دِيَارِهِمۡ تَظٰهَرُوۡنَ عَلَيۡهِمۡ بِالۡاِثۡمِ وَالۡعُدۡوَانِؕ\
-  \ وَاِنۡ يَّاۡتُوۡكُمۡ اُسٰرٰى تُفٰدُوۡهُمۡ وَهُوَ مُحَرَّمٌ عَلَيۡڪُمۡ اِخۡرَاجُهُمۡ​​ؕ\
-  \ اَفَتُؤۡمِنُوۡنَ بِبَعۡضِ الۡكِتٰبِ وَتَكۡفُرُوۡنَ بِبَعۡضٍ​ۚ فَمَا جَزَآءُ مَنۡ\
-  \ يَّفۡعَلُ ذٰلِكَ مِنۡکُمۡ اِلَّا خِزۡىٌ فِى الۡحَيٰوةِ الدُّنۡيَا ​ۚ وَيَوۡمَ\
-  \ الۡقِيٰمَةِ يُرَدُّوۡنَ اِلٰٓى اَشَدِّ الۡعَذَابِ​ؕ وَمَا اللّٰهُ بِغَافِلٍ عَمَّا\
-  \ تَعۡمَلُوۡنَ‏ \uFEFF\uFEFF"
+arabic_ayat: ثُمَّ أَنتُمۡ هَٰٓؤُلَآءِ تَقۡتُلُونَ أَنفُسَكُمۡ وَتُخۡرِجُونَ فَرِيقٗا
+  مِّنكُم مِّن دِيَٰرِهِمۡ تَظَٰهَرُونَ عَلَيۡهِم بِٱلۡإِثۡمِ وَٱلۡعُدۡوَٰنِ وَإِن
+  يَأۡتُوكُمۡ أُسَٰرَىٰ تُفَٰدُوهُمۡ وَهُوَ مُحَرَّمٌ عَلَيۡكُمۡ إِخۡرَاجُهُمۡۚ أَفَتُؤۡمِنُونَ
+  بِبَعۡضِ ٱلۡكِتَٰبِ وَتَكۡفُرُونَ بِبَعۡضٖۚ فَمَا جَزَآءُ مَن يَفۡعَلُ ذَٰلِكَ
+  مِنكُمۡ إِلَّا خِزۡيٞ فِي ٱلۡحَيَوٰةِ ٱلدُّنۡيَاۖ وَيَوۡمَ ٱلۡقِيَٰمَةِ يُرَدُّونَ
+  إِلَىٰٓ أَشَدِّ ٱلۡعَذَابِۗ وَمَا ٱللَّهُ بِغَٰفِلٍ عَمَّا تَعۡمَلُونَ
 sentence_translation: But here you are, killing each other and expelling some of your
   people from their homes, aiding one another in sin and aggression; and when those
   ˹expelled˺ come to you as captives, you still ransom them—though expelling them
@@ -19,71 +18,71 @@ word_by_word:
     translation: Then
     transliteration: thumma
   2:
-    arabic: اَنۡـتُمۡ
+    arabic: أَنتُمۡ
     translation: you
     transliteration: antum
   3:
-    arabic: هٰٓؤُلَاۤءِ
+    arabic: هَٰٓؤُلَآءِ
     translation: (are) those
     transliteration: hāulāi
   4:
-    arabic: تَقۡتُلُوۡنَ
+    arabic: تَقۡتُلُونَ
     translation: (who) kill
     transliteration: taqtulūna
   5:
-    arabic: اَنۡفُسَكُمۡ
+    arabic: أَنفُسَكُمۡ
     translation: yourselves
     transliteration: anfusakum
   6:
-    arabic: وَتُخۡرِجُوۡنَ
+    arabic: وَتُخۡرِجُونَ
     translation: and evict
     transliteration: watukh'rijūna
   7:
-    arabic: فَرِيۡقًا
+    arabic: فَرِيقٗا
     translation: a party
     transliteration: farīqan
   8:
-    arabic: مِّنۡكُمۡ
+    arabic: مِّنكُم
     translation: of you
     transliteration: minkum
   9:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: from
     transliteration: min
   10:
-    arabic: دِيَارِهِمۡ
+    arabic: دِيَٰرِهِمۡ
     translation: their homes
     transliteration: diyārihim
   11:
-    arabic: تَظٰهَرُوۡنَ
+    arabic: تَظَٰهَرُونَ
     translation: you support one another
     transliteration: taẓāharūna
   12:
-    arabic: عَلَيۡهِمۡ
+    arabic: عَلَيۡهِم
     translation: against them
     transliteration: ʿalayhim
   13:
-    arabic: بِالۡاِثۡمِ
+    arabic: بِٱلۡإِثۡمِ
     translation: in sin
     transliteration: bil-ith'mi
   14:
-    arabic: وَالۡعُدۡوَانِؕ
+    arabic: وَٱلۡعُدۡوَٰنِ
     translation: and [the] transgression
     transliteration: wal-ʿud'wāni
   15:
-    arabic: وَاِنۡ
+    arabic: وَإِن
     translation: And if
     transliteration: wa-in
   16:
-    arabic: يَّاۡتُوۡكُمۡ
+    arabic: يَأۡتُوكُمۡ
     translation: they come to you
     transliteration: yatūkum
   17:
-    arabic: اُسٰرٰى
+    arabic: أُسَٰرَىٰ
     translation: (as) captives
     transliteration: usārā
   18:
-    arabic: تُفٰدُوۡهُمۡ
+    arabic: تُفَٰدُوهُمۡ
     translation: you ransom them
     transliteration: tufādūhum
   19:
@@ -95,15 +94,15 @@ word_by_word:
     translation: (was) forbidden
     transliteration: muḥarramun
   21:
-    arabic: عَلَيۡڪُمۡ
+    arabic: عَلَيۡكُمۡ
     translation: to you
     transliteration: ʿalaykum
   22:
-    arabic: اِخۡرَاجُهُمۡ​​ؕ
+    arabic: إِخۡرَاجُهُمۡۚ
     translation: their eviction
     transliteration: ikh'rājuhum
   23:
-    arabic: اَفَتُؤۡمِنُوۡنَ
+    arabic: أَفَتُؤۡمِنُونَ
     translation: So do you believe
     transliteration: afatu'minūna
   24:
@@ -111,15 +110,15 @@ word_by_word:
     translation: in part (of)
     transliteration: bibaʿḍi
   25:
-    arabic: الۡكِتٰبِ
+    arabic: ٱلۡكِتَٰبِ
     translation: the Book
     transliteration: l-kitābi
   26:
-    arabic: وَتَكۡفُرُوۡنَ
+    arabic: وَتَكۡفُرُونَ
     translation: and disbelieve
     transliteration: watakfurūna
   27:
-    arabic: بِبَعۡضٍ​ۚ
+    arabic: بِبَعۡضٖۚ
     translation: in part
     transliteration: bibaʿḍin
   28:
@@ -131,39 +130,39 @@ word_by_word:
     translation: (should be the) recompense
     transliteration: jazāu
   30:
-    arabic: مَنۡ
+    arabic: مَن
     translation: (for the one) who
     transliteration: man
   31:
-    arabic: يَّفۡعَلُ
+    arabic: يَفۡعَلُ
     translation: does
     transliteration: yafʿalu
   32:
-    arabic: ذٰلِكَ
+    arabic: ذَٰلِكَ
     translation: that
     transliteration: dhālika
   33:
-    arabic: مِنۡکُمۡ
+    arabic: مِنكُمۡ
     translation: among you
     transliteration: minkum
   34:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   35:
-    arabic: خِزۡىٌ
+    arabic: خِزۡيٞ
     translation: disgrace
     transliteration: khiz'yun
   36:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   37:
-    arabic: الۡحَيٰوةِ
+    arabic: ٱلۡحَيَوٰةِ
     translation: the life
     transliteration: l-ḥayati
   38:
-    arabic: الدُّنۡيَا ​ۚ
+    arabic: ٱلدُّنۡيَاۖ
     translation: (of) the world
     transliteration: l-dun'yā
   39:
@@ -171,23 +170,23 @@ word_by_word:
     translation: and (on the) Day
     transliteration: wayawma
   40:
-    arabic: الۡقِيٰمَةِ
+    arabic: ٱلۡقِيَٰمَةِ
     translation: of [the] Resurrection
     transliteration: l-qiyāmati
   41:
-    arabic: يُرَدُّوۡنَ
+    arabic: يُرَدُّونَ
     translation: they will be sent back
     transliteration: yuraddūna
   42:
-    arabic: اِلٰٓى
+    arabic: إِلَىٰٓ
     translation: to
     transliteration: ilā
   43:
-    arabic: اَشَدِّ
+    arabic: أَشَدِّ
     translation: (the) most severe
     transliteration: ashaddi
   44:
-    arabic: الۡعَذَابِ​ؕ
+    arabic: ٱلۡعَذَابِۗ
     translation: punishment
     transliteration: l-ʿadhābi
   45:
@@ -195,11 +194,11 @@ word_by_word:
     translation: And not
     transliteration: wamā
   46:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: (is) Allah
     transliteration: l-lahu
   47:
-    arabic: بِغَافِلٍ
+    arabic: بِغَٰفِلٍ
     translation: unaware
     transliteration: bighāfilin
   48:
@@ -207,7 +206,7 @@ word_by_word:
     translation: of what
     transliteration: ʿammā
   49:
-    arabic: "تَعۡمَلُوۡنَ‏ \uFEFF\uFEFF"
+    arabic: تَعۡمَلُونَ
     translation: you do
     transliteration: taʿmalūna
 ---

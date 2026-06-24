@@ -1,11 +1,11 @@
 ---
-arabic_ayat: وَتَرَكۡنَا بَعۡضَهُمۡ يَوۡمَٮِٕذٍ يَّمُوۡجُ فِىۡ بَعۡضٍ​ وَّنُفِخَ فِى
-  الصُّوۡرِ فَجَمَعۡنٰهُمۡ جَمۡعًا ۙ‏
+arabic_ayat: ۞ وَتَرَكۡنَا بَعۡضَهُمۡ يَوۡمَئِذٖ يَمُوجُ فِي بَعۡضٖۖ وَنُفِخَ فِي
+  ٱلصُّورِ فَجَمَعۡنَٰهُمۡ جَمۡعٗا
 sentence_translation: On that Day, We will let them surge ˹like waves˺ over one another.
   Later, the Trumpet will be blown, and We will gather all ˹people˺ together.
 word_by_word:
   1:
-    arabic: ۞ وَتَرَكۡنَا
+    arabic: ۞ وَتَرَكۡنَا
     translation: And We (will) leave
     transliteration: wataraknā
   2:
@@ -13,39 +13,39 @@ word_by_word:
     translation: some of them
     transliteration: baʿḍahum
   3:
-    arabic: يَوۡمَٮِٕذٍ
+    arabic: يَوۡمَئِذٖ
     translation: (on) that Day
     transliteration: yawma-idhin
   4:
-    arabic: يَّمُوۡجُ
+    arabic: يَمُوجُ
     translation: to surge
     transliteration: yamūju
   5:
-    arabic: فِىۡ
+    arabic: فِي
     translation: over
     transliteration: fī
   6:
-    arabic: بَعۡضٍ​
+    arabic: بَعۡضٖۖ
     translation: others
     transliteration: baʿḍin
   7:
-    arabic: وَّنُفِخَ
+    arabic: وَنُفِخَ
     translation: and (will be) blown
     transliteration: wanufikha
   8:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   9:
-    arabic: الصُّوۡرِ
+    arabic: ٱلصُّورِ
     translation: the trumpet
     transliteration: l-ṣūri
   10:
-    arabic: فَجَمَعۡنٰهُمۡ
+    arabic: فَجَمَعۡنَٰهُمۡ
     translation: then We (will) gather them
     transliteration: fajamaʿnāhum
   11:
-    arabic: جَمۡعًا ۙ‏
+    arabic: جَمۡعٗا
     translation: all together
     transliteration: jamʿan
 ---

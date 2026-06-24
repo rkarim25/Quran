@@ -1,19 +1,19 @@
 ---
-arabic_ayat: اِنَّ اللّٰهَ يُدٰفِعُ عَنِ الَّذِيۡنَ اٰمَنُوۡٓا​ ؕ اِنَّ اللّٰهَ لَا
-  يُحِبُّ كُلَّ خَوَّانٍ كَفُوۡرٍ‏
+arabic_ayat: ۞ إِنَّ ٱللَّهَ يُدَٰفِعُ عَنِ ٱلَّذِينَ ءَامَنُوٓاْۗ إِنَّ ٱللَّهَ لَا
+  يُحِبُّ كُلَّ خَوَّانٖ كَفُورٍ
 sentence_translation: Indeed, Allah defends those who believe. Surely Allah does not
   like whoever is deceitful, ungrateful.
 word_by_word:
   1:
-    arabic: ۞ اِنَّ
+    arabic: ۞ إِنَّ
     translation: Indeed
     transliteration: inna
   2:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   3:
-    arabic: يُدٰفِعُ
+    arabic: يُدَٰفِعُ
     translation: defends
     transliteration: yudāfiʿu
   4:
@@ -21,19 +21,19 @@ word_by_word:
     translation: defends
     transliteration: ʿani
   5:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ ءَ
     translation: those who
     transliteration: alladhīna
   6:
-    arabic: اٰمَنُوۡٓا​ ؕ
+    arabic: امَنُوٓاْۗ
     translation: believe
     transliteration: āmanū
   7:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   8:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   9:
@@ -49,11 +49,11 @@ word_by_word:
     translation: every
     transliteration: kulla
   12:
-    arabic: خَوَّانٍ
+    arabic: خَوَّانٖ
     translation: treacherous
     transliteration: khawwānin
   13:
-    arabic: كَفُوۡرٍ‏
+    arabic: كَفُورٍ
     translation: ungrateful
     transliteration: kafūrin
 ---

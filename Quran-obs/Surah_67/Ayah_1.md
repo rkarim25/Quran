@@ -1,15 +1,14 @@
 ---
-arabic_ayat: "تَبٰرَكَ الَّذِىۡ بِيَدِهِ الۡمُلۡكُ وَهُوَ عَلٰى كُلِّ شَىۡءٍ قَدِيۡرُۙ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: تَبَٰرَكَ ٱلَّذِي بِيَدِهِ ٱلۡمُلۡكُ وَهُوَ عَلَىٰ كُلِّ شَيۡءٖ قَدِيرٌ
 sentence_translation: Blessed is the One in Whose Hands rests all authority. And He
   is Most Capable of everything.
 word_by_word:
   1:
-    arabic: تَبٰرَكَ
+    arabic: تَبَٰرَكَ
     translation: Blessed is
     transliteration: tabāraka
   2:
-    arabic: الَّذِىۡ
+    arabic: ٱلَّذِي
     translation: He
     transliteration: alladhī
   3:
@@ -17,7 +16,7 @@ word_by_word:
     translation: in Whose Hand
     transliteration: biyadihi
   4:
-    arabic: الۡمُلۡكُ
+    arabic: ٱلۡمُلۡكُ
     translation: (is) the Dominion
     transliteration: l-mul'ku
   5:
@@ -25,7 +24,7 @@ word_by_word:
     translation: and He
     transliteration: wahuwa
   6:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: (is) over
     transliteration: ʿalā
   7:
@@ -33,11 +32,11 @@ word_by_word:
     translation: every
     transliteration: kulli
   8:
-    arabic: شَىۡءٍ
+    arabic: شَيۡءٖ
     translation: thing
     transliteration: shayin
   9:
-    arabic: "قَدِيۡرُۙ‏ \uFEFF\uFEFF"
+    arabic: قَدِيرٌ
     translation: All-Powerful
     transliteration: qadīrun
 ---

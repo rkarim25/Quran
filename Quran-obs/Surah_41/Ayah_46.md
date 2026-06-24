@@ -1,11 +1,11 @@
 ---
-arabic_ayat: مَنۡ عَمِلَ صَالِحًـا فَلِنَفۡسِهٖ​ وَمَنۡ اَسَآءَ فَعَلَيۡهَا​ؕ وَمَا
-  رَبُّكَ بِظَلَّامٍ لِّلۡعَبِيۡدِ‏
+arabic_ayat: مَّنۡ عَمِلَ صَٰلِحٗا فَلِنَفۡسِهِۦۖ وَمَنۡ أَسَآءَ فَعَلَيۡهَاۗ وَمَا
+  رَبُّكَ بِظَلَّٰمٖ لِّلۡعَبِيدِ
 sentence_translation: Whoever does good, it is to their own benefit. And whoever does
   evil, it is to their own loss. Your Lord is never unjust to ˹His˺ creation.
 word_by_word:
   1:
-    arabic: مَنۡ
+    arabic: مَّنۡ
     translation: Whoever
     transliteration: man
   2:
@@ -13,11 +13,11 @@ word_by_word:
     translation: does
     transliteration: ʿamila
   3:
-    arabic: صَالِحًـا
+    arabic: صَٰلِحٗا
     translation: righteous deeds
     transliteration: ṣāliḥan
   4:
-    arabic: فَلِنَفۡسِهٖ​
+    arabic: فَلِنَفۡسِهِۦۖ
     translation: then it is for his soul
     transliteration: falinafsihi
   5:
@@ -25,11 +25,11 @@ word_by_word:
     translation: and whoever
     transliteration: waman
   6:
-    arabic: اَسَآءَ
+    arabic: أَسَآءَ
     translation: does evil
     transliteration: asāa
   7:
-    arabic: فَعَلَيۡهَا​ؕ
+    arabic: فَعَلَيۡهَاۗ
     translation: then it is against it
     transliteration: faʿalayhā
   8:
@@ -41,11 +41,11 @@ word_by_word:
     translation: (is) your Lord
     transliteration: rabbuka
   10:
-    arabic: بِظَلَّامٍ
+    arabic: بِظَلَّٰمٖ
     translation: unjust
     transliteration: biẓallāmin
   11:
-    arabic: لِّلۡعَبِيۡدِ‏
+    arabic: لِّلۡعَبِيدِ
     translation: to His slaves
     transliteration: lil'ʿabīdi
 ---

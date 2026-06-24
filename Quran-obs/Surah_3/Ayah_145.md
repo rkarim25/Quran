@@ -1,7 +1,7 @@
 ---
-arabic_ayat: وَمَا كَانَ لِنَفۡسٍ اَنۡ تَمُوۡتَ اِلَّا بِاِذۡنِ اللّٰهِ كِتٰبًا مُّؤَجَّلًا ؕ
-  وَ مَنۡ يُّرِدۡ ثَوَابَ الدُّنۡيَا نُؤۡتِهٖ مِنۡهَا ​ۚ وَمَنۡ يُّرِدۡ ثَوَابَ الۡاٰخِرَةِ
-  نُؤۡتِهٖ مِنۡهَا ​ؕ وَسَنَجۡزِى الشّٰكِرِيۡنَ‏
+arabic_ayat: وَمَا كَانَ لِنَفۡسٍ أَن تَمُوتَ إِلَّا بِإِذۡنِ ٱللَّهِ كِتَٰبٗا مُّؤَجَّلٗاۗ
+  وَمَن يُرِدۡ ثَوَابَ ٱلدُّنۡيَا نُؤۡتِهِۦ مِنۡهَا وَمَن يُرِدۡ ثَوَابَ ٱلۡأٓخِرَةِ
+  نُؤۡتِهِۦ مِنۡهَاۚ وَسَنَجۡزِي ٱلشَّٰكِرِينَ
 sentence_translation: No soul can ever die without Allah’s Will at the destined time.
   Those who desire worldly gain, We will let them have it, and those who desire heavenly
   reward, We will grant it to them. And We will reward those who are grateful.
@@ -19,39 +19,39 @@ word_by_word:
     translation: for a soul
     transliteration: linafsin
   4:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that
     transliteration: an
   5:
-    arabic: تَمُوۡتَ
+    arabic: تَمُوتَ
     translation: he dies
     transliteration: tamūta
   6:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   7:
-    arabic: بِاِذۡنِ
+    arabic: بِإِذۡنِ
     translation: by (the) permission
     transliteration: bi-idh'ni
   8:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (of) Allah
     transliteration: l-lahi
   9:
-    arabic: كِتٰبًا
+    arabic: كِتَٰبٗا
     translation: (at a) decree
     transliteration: kitāban
   10:
-    arabic: مُّؤَجَّلًا ؕ
+    arabic: مُّؤَجَّلٗاۗ
     translation: determined
     transliteration: mu-ajjalan
   11:
-    arabic: وَ مَنۡ
+    arabic: وَمَن
     translation: And whoever
     transliteration: waman
   12:
-    arabic: يُّرِدۡ
+    arabic: يُرِدۡ
     translation: desires
     transliteration: yurid
   13:
@@ -59,23 +59,23 @@ word_by_word:
     translation: reward
     transliteration: thawāba
   14:
-    arabic: الدُّنۡيَا
+    arabic: ٱلدُّنۡيَا
     translation: '(of) the world '
     transliteration: l-dun'yā
   15:
-    arabic: نُؤۡتِهٖ
+    arabic: نُؤۡتِهِۦ
     translation: We will give him
     transliteration: nu'tihi
   16:
-    arabic: مِنۡهَا ​ۚ
+    arabic: مِنۡهَا
     translation: thereof
     transliteration: min'hā
   17:
-    arabic: وَمَنۡ
+    arabic: وَمَن
     translation: and whoever
     transliteration: waman
   18:
-    arabic: يُّرِدۡ
+    arabic: يُرِدۡ
     translation: desires
     transliteration: yurid
   19:
@@ -83,23 +83,23 @@ word_by_word:
     translation: reward
     transliteration: thawāba
   20:
-    arabic: الۡاٰخِرَةِ
+    arabic: ٱلۡأٓخِرَةِ
     translation: (of) the Hereafter
     transliteration: l-ākhirati
   21:
-    arabic: نُؤۡتِهٖ
+    arabic: نُؤۡتِهِۦ
     translation: We will give him
     transliteration: nu'tihi
   22:
-    arabic: مِنۡهَا ​ؕ
+    arabic: مِنۡهَاۚ
     translation: thereof
     transliteration: min'hā
   23:
-    arabic: وَسَنَجۡزِى
+    arabic: وَسَنَجۡزِي
     translation: And We will reward
     transliteration: wasanajzī
   24:
-    arabic: الشّٰكِرِيۡنَ‏
+    arabic: ٱلشَّٰكِرِينَ
     translation: the grateful ones
     transliteration: l-shākirīna
 ---

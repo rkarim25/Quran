@@ -1,13 +1,13 @@
 ---
-arabic_ayat: وَاِذۡ قَالَ مُوۡسٰى لِقَوۡمِهٖۤ اِنَّ اللّٰهَ يَاۡمُرُكُمۡ اَنۡ تَذۡبَحُوۡا
-  بَقَرَةً ​ ؕ قَالُوۡآ اَتَتَّخِذُنَا هُزُوًۡا ​ؕ قَالَ اَعُوۡذُ بِاللّٰهِ اَنۡ
-  اَكُوۡنَ مِنَ الۡجٰـهِلِيۡنَ‏
+arabic_ayat: وَإِذۡ قَالَ مُوسَىٰ لِقَوۡمِهِۦٓ إِنَّ ٱللَّهَ يَأۡمُرُكُمۡ أَن تَذۡبَحُواْ
+  بَقَرَةٗۖ قَالُوٓاْ أَتَتَّخِذُنَا هُزُوٗاۖ قَالَ أَعُوذُ بِٱللَّهِ أَنۡ أَكُونَ
+  مِنَ ٱلۡجَٰهِلِينَ
 sentence_translation: And ˹remember˺ when Moses said to his people, “Allah commands
   you to sacrifice a cow.” They replied, “Are you mocking us?” Moses responded, “I
   seek refuge in Allah from acting foolishly!”
 word_by_word:
   1:
-    arabic: وَاِذۡ
+    arabic: وَإِذۡ
     translation: And when
     transliteration: wa-idh
   2:
@@ -15,47 +15,47 @@ word_by_word:
     translation: said
     transliteration: qāla
   3:
-    arabic: مُوۡسٰى
+    arabic: مُوسَىٰ
     translation: Musa
     transliteration: mūsā
   4:
-    arabic: لِقَوۡمِهٖۤ
+    arabic: لِقَوۡمِهِۦٓ
     translation: to his people
     transliteration: liqawmihi
   5:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   6:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   7:
-    arabic: يَاۡمُرُكُمۡ
+    arabic: يَأۡمُرُكُمۡ
     translation: commands you
     transliteration: yamurukum
   8:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that
     transliteration: an
   9:
-    arabic: تَذۡبَحُوۡا
+    arabic: تَذۡبَحُواْ
     translation: you slaughter
     transliteration: tadhbaḥū
   10:
-    arabic: بَقَرَةً ​ ؕ
+    arabic: بَقَرَةٗۖ
     translation: a cow
     transliteration: baqaratan
   11:
-    arabic: قَالُوۡآ
+    arabic: قَالُوٓاْ
     translation: They said
     transliteration: qālū
   12:
-    arabic: اَتَتَّخِذُنَا
+    arabic: أَتَتَّخِذُنَا
     translation: Do you take us
     transliteration: atattakhidhunā
   13:
-    arabic: هُزُوًۡا ​ؕ
+    arabic: هُزُوٗاۖ
     translation: (in) ridicule
     transliteration: huzuwan
   14:
@@ -63,19 +63,19 @@ word_by_word:
     translation: He said
     transliteration: qāla
   15:
-    arabic: اَعُوۡذُ
+    arabic: أَعُوذُ
     translation: I seek refuge
     transliteration: aʿūdhu
   16:
-    arabic: بِاللّٰهِ
+    arabic: بِٱللَّهِ
     translation: in Allah
     transliteration: bil-lahi
   17:
-    arabic: اَنۡ
+    arabic: أَنۡ
     translation: that
     transliteration: an
   18:
-    arabic: اَكُوۡنَ
+    arabic: أَكُونَ
     translation: I be
     transliteration: akūna
   19:
@@ -83,7 +83,7 @@ word_by_word:
     translation: among
     transliteration: mina
   20:
-    arabic: الۡجٰـهِلِيۡنَ‏
+    arabic: ٱلۡجَٰهِلِينَ
     translation: the ignorant
     transliteration: l-jāhilīna
 ---

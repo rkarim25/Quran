@@ -1,10 +1,10 @@
 ---
-arabic_ayat: فَمَنۡ ثَقُلَتۡ مَوَازِيۡنُهٗ فَاُولٰٓٮِٕكَ هُمُ الۡمُفۡلِحُوۡنَ‏
+arabic_ayat: فَمَن ثَقُلَتۡ مَوَٰزِينُهُۥ فَأُوْلَٰٓئِكَ هُمُ ٱلۡمُفۡلِحُونَ
 sentence_translation: As for those whose scale is heavy ˹with good deeds˺, it is they
   who will be successful.
 word_by_word:
   1:
-    arabic: فَمَنۡ
+    arabic: فَمَن
     translation: Then (the one) whose
     transliteration: faman
   2:
@@ -12,11 +12,11 @@ word_by_word:
     translation: (are) heavy
     transliteration: thaqulat
   3:
-    arabic: مَوَازِيۡنُهٗ
+    arabic: مَوَٰزِينُهُۥ
     translation: his scales
     transliteration: mawāzīnuhu
   4:
-    arabic: فَاُولٰٓٮِٕكَ
+    arabic: فَأُوْلَٰٓئِكَ
     translation: 'then those '
     transliteration: fa-ulāika
   5:
@@ -24,7 +24,7 @@ word_by_word:
     translation: they
     transliteration: humu
   6:
-    arabic: الۡمُفۡلِحُوۡنَ‏
+    arabic: ٱلۡمُفۡلِحُونَ
     translation: (are) the successful
     transliteration: l-muf'liḥūna
 ---

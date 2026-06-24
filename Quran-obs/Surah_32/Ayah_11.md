@@ -1,15 +1,15 @@
 ---
-arabic_ayat: قُلۡ يَتَوَفّٰٮكُمۡ مَّلَكُ الۡمَوۡتِ الَّذِىۡ وُكِّلَ بِكُمۡ ثُمَّ اِلٰى
-  رَبِّكُمۡ تُرۡجَعُوۡنَ‏
+arabic_ayat: ۞ قُلۡ يَتَوَفَّىٰكُم مَّلَكُ ٱلۡمَوۡتِ ٱلَّذِي وُكِّلَ بِكُمۡ ثُمَّ
+  إِلَىٰ رَبِّكُمۡ تُرۡجَعُونَ
 sentence_translation: Say, ˹O Prophet,˺ “Your soul will be taken by the Angel of Death,
   who is in charge of you. Then to your Lord you will ˹all˺ be returned.”
 word_by_word:
   1:
-    arabic: ۞ قُلۡ
+    arabic: ۞ قُلۡ
     translation: Say
     transliteration: qul
   2:
-    arabic: يَتَوَفّٰٮكُمۡ
+    arabic: يَتَوَفَّىٰكُم
     translation: Will take your soul
     transliteration: yatawaffākum
   3:
@@ -17,11 +17,11 @@ word_by_word:
     translation: (the) Angel
     transliteration: malaku
   4:
-    arabic: الۡمَوۡتِ
+    arabic: ٱلۡمَوۡتِ
     translation: (of) the death
     transliteration: l-mawti
   5:
-    arabic: الَّذِىۡ
+    arabic: ٱلَّذِي
     translation: the one who
     transliteration: alladhī
   6:
@@ -37,7 +37,7 @@ word_by_word:
     translation: Then
     transliteration: thumma
   9:
-    arabic: اِلٰى
+    arabic: إِلَىٰ
     translation: to
     transliteration: ilā
   10:
@@ -45,7 +45,7 @@ word_by_word:
     translation: your Lord
     transliteration: rabbikum
   11:
-    arabic: تُرۡجَعُوۡنَ‏
+    arabic: تُرۡجَعُونَ
     translation: you will be returned
     transliteration: tur'jaʿūna
 ---

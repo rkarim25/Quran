@@ -1,21 +1,21 @@
 ---
-arabic_ayat: مِنۡ نُّطۡفَةٍؕ خَلَقَهٗ فَقَدَّرَهٗ ۙ‏
+arabic_ayat: مِن نُّطۡفَةٍ خَلَقَهُۥ فَقَدَّرَهُۥ
 sentence_translation: He created them from a sperm-drop, and ordained their development.
 word_by_word:
   1:
-    arabic: مِنۡ
+    arabic: مِن
     translation: From
     transliteration: min
   2:
-    arabic: نُّطۡفَةٍؕ
+    arabic: نُّطۡفَةٍ
     translation: a semen-drop
     transliteration: nuṭ'fatin
   3:
-    arabic: خَلَقَهٗ
+    arabic: خَلَقَهُۥ
     translation: He created him
     transliteration: khalaqahu
   4:
-    arabic: فَقَدَّرَهٗ ۙ‏
+    arabic: فَقَدَّرَهُۥ
     translation: then He proportioned him
     transliteration: faqaddarahu
 ---

@@ -1,6 +1,6 @@
 ---
-arabic_ayat: وَيَدۡعُ الۡاِنۡسَانُ بِالشَّرِّ دُعَآءَهٗ بِالۡخَيۡرِ​ ؕ وَكَانَ الۡاِنۡسَانُ
-  عَجُوۡلًا‏
+arabic_ayat: وَيَدۡعُ ٱلۡإِنسَٰنُ بِٱلشَّرِّ دُعَآءَهُۥ بِٱلۡخَيۡرِۖ وَكَانَ ٱلۡإِنسَٰنُ
+  عَجُولٗا
 sentence_translation: And humans ˹swiftly˺ pray for evil as they pray for good. For
   humankind is ever hasty.
 word_by_word:
@@ -9,19 +9,19 @@ word_by_word:
     translation: And prays
     transliteration: wayadʿu
   2:
-    arabic: الۡاِنۡسَانُ
+    arabic: ٱلۡإِنسَٰنُ
     translation: the man
     transliteration: l-insānu
   3:
-    arabic: بِالشَّرِّ
+    arabic: بِٱلشَّرِّ
     translation: for evil
     transliteration: bil-shari
   4:
-    arabic: دُعَآءَهٗ
+    arabic: دُعَآءَهُۥ
     translation: (as) he prays
     transliteration: duʿāahu
   5:
-    arabic: بِالۡخَيۡرِ​ ؕ
+    arabic: بِٱلۡخَيۡرِۖ
     translation: for the good
     transliteration: bil-khayri
   6:
@@ -29,11 +29,11 @@ word_by_word:
     translation: And is
     transliteration: wakāna
   7:
-    arabic: الۡاِنۡسَانُ
+    arabic: ٱلۡإِنسَٰنُ
     translation: the man
     transliteration: l-insānu
   8:
-    arabic: عَجُوۡلًا‏
+    arabic: عَجُولٗا
     translation: ever hasty
     transliteration: ʿajūlan
 ---

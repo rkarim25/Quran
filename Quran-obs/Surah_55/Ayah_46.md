@@ -1,5 +1,5 @@
 ---
-arabic_ayat: وَلِمَنۡ خَافَ مَقَامَ رَبِّهٖ جَنَّتٰنِ​ۚ‏
+arabic_ayat: وَلِمَنۡ خَافَ مَقَامَ رَبِّهِۦ جَنَّتَانِ
 sentence_translation: And whoever is in awe of standing before their Lord will have
   two Gardens.
 word_by_word:
@@ -16,11 +16,11 @@ word_by_word:
     translation: (the) standing
     transliteration: maqāma
   4:
-    arabic: رَبِّهٖ
+    arabic: رَبِّهِۦ
     translation: (before) his Lord
     transliteration: rabbihi
   5:
-    arabic: جَنَّتٰنِ​ۚ‏
+    arabic: جَنَّتَانِ
     translation: (are) two gardens
     transliteration: jannatāni
 ---

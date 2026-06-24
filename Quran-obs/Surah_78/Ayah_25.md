@@ -1,17 +1,17 @@
 ---
-arabic_ayat: اِلَّا حَمِيۡمًا وَّغَسَّاقًا ۙ‏
+arabic_ayat: إِلَّا حَمِيمٗا وَغَسَّاقٗا
 sentence_translation: except boiling water and ˹oozing˺ pus—
 word_by_word:
   1:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: Except
     transliteration: illā
   2:
-    arabic: حَمِيۡمًا
+    arabic: حَمِيمٗا
     translation: scalding water
     transliteration: ḥamīman
   3:
-    arabic: وَّغَسَّاقًا ۙ‏
+    arabic: وَغَسَّاقٗا
     translation: and purulence
     transliteration: waghassāqan
 ---

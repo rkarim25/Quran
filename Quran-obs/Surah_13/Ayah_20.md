@@ -1,14 +1,14 @@
 ---
-arabic_ayat: الَّذِيۡنَ يُوۡفُوۡنَ بِعَهۡدِ اللّٰهِ وَلَا يَنۡقُضُوۡنَ الۡمِيۡثَاقَۙ‏
+arabic_ayat: ٱلَّذِينَ يُوفُونَ بِعَهۡدِ ٱللَّهِ وَلَا يَنقُضُونَ ٱلۡمِيثَٰقَ
 sentence_translation: ˹They are˺ those who honour Allah’s covenant, never breaking
   the pledge;
 word_by_word:
   1:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: Those who
     transliteration: alladhīna
   2:
-    arabic: يُوۡفُوۡنَ
+    arabic: يُوفُونَ
     translation: fulfill
     transliteration: yūfūna
   3:
@@ -16,7 +16,7 @@ word_by_word:
     translation: the covenant
     transliteration: biʿahdi
   4:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (of) Allah
     transliteration: l-lahi
   5:
@@ -24,11 +24,11 @@ word_by_word:
     translation: and not
     transliteration: walā
   6:
-    arabic: يَنۡقُضُوۡنَ
+    arabic: يَنقُضُونَ
     translation: they break
     transliteration: yanquḍūna
   7:
-    arabic: الۡمِيۡثَاقَۙ‏
+    arabic: ٱلۡمِيثَٰقَ
     translation: the contract
     transliteration: l-mīthāqa
 ---

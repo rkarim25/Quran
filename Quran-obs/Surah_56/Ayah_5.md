@@ -1,17 +1,17 @@
 ---
-arabic_ayat: وَّبُسَّتِ الۡجِبَالُ بَسًّا ۙ‏
+arabic_ayat: وَبُسَّتِ ٱلۡجِبَالُ بَسّٗا
 sentence_translation: and the mountains will be crushed to pieces,
 word_by_word:
   1:
-    arabic: وَّبُسَّتِ
+    arabic: وَبُسَّتِ
     translation: And will be crumbled
     transliteration: wabussati
   2:
-    arabic: الۡجِبَالُ
+    arabic: ٱلۡجِبَالُ
     translation: the mountains
     transliteration: l-jibālu
   3:
-    arabic: بَسًّا ۙ‏
+    arabic: بَسّٗا
     translation: (with awful) crumbling
     transliteration: bassan
 ---

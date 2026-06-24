@@ -1,17 +1,16 @@
 ---
-arabic_ayat: "وَاِنۡ مِّنۡ قَرۡيَةٍ اِلَّا نَحۡنُ مُهۡلِكُوۡهَا قَبۡلَ يَوۡمِ الۡقِيٰمَةِ\
-  \ اَوۡ مُعَذِّبُوۡهَا عَذَابًا شَدِيۡدًا​ ؕ كَانَ ذٰ لِكَ فِى الۡـكِتٰبِ مَسۡطُوۡرًا‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: وَإِن مِّن قَرۡيَةٍ إِلَّا نَحۡنُ مُهۡلِكُوهَا قَبۡلَ يَوۡمِ ٱلۡقِيَٰمَةِ
+  أَوۡ مُعَذِّبُوهَا عَذَابٗا شَدِيدٗاۚ كَانَ ذَٰلِكَ فِي ٱلۡكِتَٰبِ مَسۡطُورٗا
 sentence_translation: There is not a ˹wicked˺ society that We will not destroy or
   punish with a severe torment before the Day of Judgment. That is written in the
   Record.
 word_by_word:
   1:
-    arabic: وَاِنۡ
+    arabic: وَإِن
     translation: And not
     transliteration: wa-in
   2:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: (is) any
     transliteration: min
   3:
@@ -19,7 +18,7 @@ word_by_word:
     translation: town
     transliteration: qaryatin
   4:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: but
     transliteration: illā
   5:
@@ -27,7 +26,7 @@ word_by_word:
     translation: We
     transliteration: naḥnu
   6:
-    arabic: مُهۡلِكُوۡهَا
+    arabic: مُهۡلِكُوهَا
     translation: (will) destroy it
     transliteration: muh'likūhā
   7:
@@ -39,23 +38,23 @@ word_by_word:
     translation: (the) Day
     transliteration: yawmi
   9:
-    arabic: الۡقِيٰمَةِ
+    arabic: ٱلۡقِيَٰمَةِ
     translation: (of) the Resurrection
     transliteration: l-qiyāmati
   10:
-    arabic: اَوۡ
+    arabic: أَوۡ
     translation: or
     transliteration: aw
   11:
-    arabic: مُعَذِّبُوۡهَا
+    arabic: مُعَذِّبُوهَا
     translation: punish it
     transliteration: muʿadhibūhā
   12:
-    arabic: عَذَابًا
+    arabic: عَذَابٗا
     translation: with a punishment
     transliteration: ʿadhāban
   13:
-    arabic: شَدِيۡدًا​ ؕ
+    arabic: شَدِيدٗاۚ
     translation: severe
     transliteration: shadīdan
   14:
@@ -63,19 +62,19 @@ word_by_word:
     translation: That is
     transliteration: kāna
   15:
-    arabic: ذٰ لِكَ
+    arabic: ذَٰلِكَ
     translation: That is
     transliteration: dhālika
   16:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   17:
-    arabic: الۡـكِتٰبِ
+    arabic: ٱلۡكِتَٰبِ
     translation: the Book
     transliteration: l-kitābi
   18:
-    arabic: "مَسۡطُوۡرًا‏ \uFEFF\uFEFF"
+    arabic: مَسۡطُورٗا
     translation: written
     transliteration: masṭūran
 ---

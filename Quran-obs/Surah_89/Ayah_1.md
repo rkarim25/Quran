@@ -1,9 +1,9 @@
 ---
-arabic_ayat: وَالۡفَجۡرِۙ‏
+arabic_ayat: وَٱلۡفَجۡرِ
 sentence_translation: By the dawn,
 word_by_word:
   1:
-    arabic: وَالۡفَجۡرِۙ‏
+    arabic: وَٱلۡفَجۡرِ
     translation: By the dawn
     transliteration: wal-fajri
 ---

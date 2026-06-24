@@ -1,27 +1,27 @@
 ---
-arabic_ayat: "فَاِذَا قَرَاۡتَ الۡقُرۡاٰنَ فَاسۡتَعِذۡ بِاللّٰهِ مِنَ الشَّيۡطٰنِ\
-  \ الرَّجِيۡمِ‏ \uFEFF\uFEFF"
+arabic_ayat: فَإِذَا قَرَأۡتَ ٱلۡقُرۡءَانَ فَٱسۡتَعِذۡ بِٱللَّهِ مِنَ ٱلشَّيۡطَٰنِ
+  ٱلرَّجِيمِ
 sentence_translation: When you recite the Quran, seek refuge with Allah from Satan,
   the accursed.
 word_by_word:
   1:
-    arabic: فَاِذَا
+    arabic: فَإِذَا
     translation: So when
     transliteration: fa-idhā
   2:
-    arabic: قَرَاۡتَ
+    arabic: قَرَأۡتَ
     translation: you recite
     transliteration: qarata
   3:
-    arabic: الۡقُرۡاٰنَ
+    arabic: ٱلۡقُرۡءَانَ
     translation: the Quran
     transliteration: l-qur'āna
   4:
-    arabic: فَاسۡتَعِذۡ
+    arabic: فَٱسۡتَعِذۡ
     translation: seek refuge
     transliteration: fa-is'taʿidh
   5:
-    arabic: بِاللّٰهِ
+    arabic: بِٱللَّهِ
     translation: in Allah
     transliteration: bil-lahi
   6:
@@ -29,11 +29,11 @@ word_by_word:
     translation: from
     transliteration: mina
   7:
-    arabic: الشَّيۡطٰنِ
+    arabic: ٱلشَّيۡطَٰنِ
     translation: the Shaitaan
     transliteration: l-shayṭāni
   8:
-    arabic: "الرَّجِيۡمِ‏ \uFEFF\uFEFF"
+    arabic: ٱلرَّجِيمِ
     translation: the accursed
     transliteration: l-rajīmi
 ---

@@ -1,31 +1,31 @@
 ---
-arabic_ayat: يَّهۡدِىۡۤ اِلَى الرُّشۡدِ فَاٰمَنَّا بِهٖ​ ؕ وَلَنۡ نُّشۡرِكَ بِرَبِّنَاۤ
-  اَحَدًا ۙ‏
+arabic_ayat: يَهۡدِيٓ إِلَى ٱلرُّشۡدِ فَـَٔامَنَّا بِهِۦۖ وَلَن نُّشۡرِكَ بِرَبِّنَآ
+  أَحَدٗا
 sentence_translation: It leads to Right Guidance so we believed in it, and we will
   never associate anyone with our Lord ˹in worship˺.
 word_by_word:
   1:
-    arabic: يَّهۡدِىۡۤ
+    arabic: يَهۡدِيٓ
     translation: It guides
     transliteration: yahdī
   2:
-    arabic: اِلَى
+    arabic: إِلَى
     translation: to
     transliteration: ilā
   3:
-    arabic: الرُّشۡدِ
+    arabic: ٱلرُّشۡدِ
     translation: the right way
     transliteration: l-rush'di
   4:
-    arabic: فَاٰمَنَّا
+    arabic: فَـَٔامَنَّا
     translation: so we believe
     transliteration: faāmannā
   5:
-    arabic: بِهٖ​ ؕ
+    arabic: بِهِۦۖ
     translation: in it
     transliteration: bihi
   6:
-    arabic: وَلَنۡ
+    arabic: وَلَن
     translation: and never
     transliteration: walan
   7:
@@ -33,11 +33,11 @@ word_by_word:
     translation: we will associate
     transliteration: nush'rika
   8:
-    arabic: بِرَبِّنَاۤ
+    arabic: بِرَبِّنَآ
     translation: with our Lord
     transliteration: birabbinā
   9:
-    arabic: اَحَدًا ۙ‏
+    arabic: أَحَدٗا
     translation: anyone
     transliteration: aḥadan
 ---

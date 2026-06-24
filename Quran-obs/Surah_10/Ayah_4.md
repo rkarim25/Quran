@@ -1,15 +1,15 @@
 ---
-arabic_ayat: اِلَيۡهِ مَرۡجِعُكُمۡ جَمِيۡعًا ​ؕ وَعۡدَ اللّٰهِ حَقًّا​ ؕ اِنَّهٗ يَـبۡدَؤُا
-  الۡخَـلۡقَ ثُمَّ يُعِيۡدُهٗ لِيَجۡزِىَ الَّذِيۡنَ اٰمَنُوۡا وَعَمِلُوا الصّٰلِحٰتِ
-  بِالۡقِسۡطِ​ؕ وَالَّذِيۡنَ كَفَرُوۡا لَهُمۡ شَرَابٌ مِّنۡ حَمِيۡمٍ وَّعَذَابٌ اَلِيۡمٌۢ
-  بِمَا كَانُوۡا يَكۡفُرُوۡنَ‏
+arabic_ayat: إِلَيۡهِ مَرۡجِعُكُمۡ جَمِيعٗاۖ وَعۡدَ ٱللَّهِ حَقًّاۚ إِنَّهُۥ يَبۡدَؤُاْ
+  ٱلۡخَلۡقَ ثُمَّ يُعِيدُهُۥ لِيَجۡزِيَ ٱلَّذِينَ ءَامَنُواْ وَعَمِلُواْ ٱلصَّٰلِحَٰتِ
+  بِٱلۡقِسۡطِۚ وَٱلَّذِينَ كَفَرُواْ لَهُمۡ شَرَابٞ مِّنۡ حَمِيمٖ وَعَذَابٌ أَلِيمُۢ
+  بِمَا كَانُواْ يَكۡفُرُونَ
 sentence_translation: To Him is your return all together. Allah’s promise is ˹always˺
   true. Indeed, He originates the creation then resurrects it so that He may justly
   reward those who believe and do good. But those who disbelieve will have a boiling
   drink and a painful punishment for their disbelief.
 word_by_word:
   1:
-    arabic: اِلَيۡهِ
+    arabic: إِلَيۡهِ
     translation: To Him
     transliteration: ilayhi
   2:
@@ -17,7 +17,7 @@ word_by_word:
     translation: (will be) your return
     transliteration: marjiʿukum
   3:
-    arabic: جَمِيۡعًا ​ؕ
+    arabic: جَمِيعٗاۖ
     translation: '[all]'
     transliteration: jamīʿan
   4:
@@ -25,23 +25,23 @@ word_by_word:
     translation: Promise
     transliteration: waʿda
   5:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (of) Allah
     transliteration: l-lahi
   6:
-    arabic: حَقًّا​ ؕ
+    arabic: حَقًّاۚ
     translation: (is) true
     transliteration: ḥaqqan
   7:
-    arabic: اِنَّهٗ
+    arabic: إِنَّهُۥ
     translation: Indeed, He
     transliteration: innahu
   8:
-    arabic: يَـبۡدَؤُا
+    arabic: يَبۡدَؤُاْ
     translation: originates
     transliteration: yabda-u
   9:
-    arabic: الۡخَـلۡقَ
+    arabic: ٱلۡخَلۡقَ
     translation: the creation
     transliteration: l-khalqa
   10:
@@ -49,39 +49,39 @@ word_by_word:
     translation: then
     transliteration: thumma
   11:
-    arabic: يُعِيۡدُهٗ
+    arabic: يُعِيدُهُۥ
     translation: He repeats it
     transliteration: yuʿīduhu
   12:
-    arabic: لِيَجۡزِىَ
+    arabic: لِيَجۡزِيَ
     translation: that He may reward
     transliteration: liyajziya
   13:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ ءَ
     translation: those who
     transliteration: alladhīna
   14:
-    arabic: اٰمَنُوۡا
+    arabic: امَنُواْ
     translation: believed
     transliteration: āmanū
   15:
-    arabic: وَعَمِلُوا
+    arabic: وَعَمِلُواْ
     translation: and did
     transliteration: waʿamilū
   16:
-    arabic: الصّٰلِحٰتِ
+    arabic: ٱلصَّٰلِحَٰتِ
     translation: the good deeds
     transliteration: l-ṣāliḥāti
   17:
-    arabic: بِالۡقِسۡطِ​ؕ
+    arabic: بِٱلۡقِسۡطِۚ
     translation: in justice
     transliteration: bil-qis'ṭi
   18:
-    arabic: وَالَّذِيۡنَ
+    arabic: وَٱلَّذِينَ
     translation: But those who
     transliteration: wa-alladhīna
   19:
-    arabic: كَفَرُوۡا
+    arabic: كَفَرُواْ
     translation: disbelieved
     transliteration: kafarū
   20:
@@ -89,7 +89,7 @@ word_by_word:
     translation: for them
     transliteration: lahum
   21:
-    arabic: شَرَابٌ
+    arabic: شَرَابٞ
     translation: (will be) a drink
     transliteration: sharābun
   22:
@@ -97,15 +97,15 @@ word_by_word:
     translation: of
     transliteration: min
   23:
-    arabic: حَمِيۡمٍ
+    arabic: حَمِيمٖ
     translation: boiling fluids
     transliteration: ḥamīmin
   24:
-    arabic: وَّعَذَابٌ
+    arabic: وَعَذَابٌ
     translation: and a punishment
     transliteration: waʿadhābun
   25:
-    arabic: اَلِيۡمٌۢ
+    arabic: أَلِيمُۢ
     translation: painful
     transliteration: alīmun
   26:
@@ -113,11 +113,11 @@ word_by_word:
     translation: because
     transliteration: bimā
   27:
-    arabic: كَانُوۡا
+    arabic: كَانُواْ
     translation: they used (to)
     transliteration: kānū
   28:
-    arabic: يَكۡفُرُوۡنَ‏
+    arabic: يَكۡفُرُونَ
     translation: disbelieve
     transliteration: yakfurūna
 ---

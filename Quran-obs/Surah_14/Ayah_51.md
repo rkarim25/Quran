@@ -1,15 +1,15 @@
 ---
-arabic_ayat: "لِيَجۡزِىَ اللّٰهُ كُلَّ نَفۡسٍ مَّا كَسَبَتۡ​ؕ اِنَّ اللّٰهَ سَرِيۡعُ\
-  \ الۡحِسَابِ‏ \uFEFF\uFEFF"
+arabic_ayat: لِيَجۡزِيَ ٱللَّهُ كُلَّ نَفۡسٖ مَّا كَسَبَتۡۚ إِنَّ ٱللَّهَ سَرِيعُ
+  ٱلۡحِسَابِ
 sentence_translation: As such, Allah will reward every soul for what it has committed.
   Surely Allah is swift in reckoning.
 word_by_word:
   1:
-    arabic: لِيَجۡزِىَ
+    arabic: لِيَجۡزِيَ
     translation: So that Allah may recompense
     transliteration: liyajziya
   2:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: So that Allah may recompense
     transliteration: l-lahu
   3:
@@ -17,7 +17,7 @@ word_by_word:
     translation: each
     transliteration: kulla
   4:
-    arabic: نَفۡسٍ
+    arabic: نَفۡسٖ
     translation: soul
     transliteration: nafsin
   5:
@@ -25,23 +25,23 @@ word_by_word:
     translation: (for) what
     transliteration: mā
   6:
-    arabic: كَسَبَتۡ​ؕ
+    arabic: كَسَبَتۡۚ
     translation: it earned
     transliteration: kasabat
   7:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   8:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   9:
-    arabic: سَرِيۡعُ
+    arabic: سَرِيعُ
     translation: (is) Swift
     transliteration: sarīʿu
   10:
-    arabic: "الۡحِسَابِ‏ \uFEFF\uFEFF"
+    arabic: ٱلۡحِسَابِ
     translation: (in) the reckoning
     transliteration: l-ḥisābi
 ---

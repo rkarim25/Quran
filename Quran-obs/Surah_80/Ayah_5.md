@@ -1,9 +1,9 @@
 ---
-arabic_ayat: اَمَّا مَنِ اسۡتَغۡنٰىۙ‏
+arabic_ayat: أَمَّا مَنِ ٱسۡتَغۡنَىٰ
 sentence_translation: As for the one who was indifferent,
 word_by_word:
   1:
-    arabic: اَمَّا
+    arabic: أَمَّا
     translation: As for
     transliteration: ammā
   2:
@@ -11,7 +11,7 @@ word_by_word:
     translation: (him) who
     transliteration: mani
   3:
-    arabic: اسۡتَغۡنٰىۙ‏
+    arabic: ٱسۡتَغۡنَىٰ
     translation: considers himself free from need
     transliteration: is'taghnā
 ---

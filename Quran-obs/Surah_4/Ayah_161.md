@@ -1,15 +1,15 @@
 ---
-arabic_ayat: وَّاَخۡذِهِمُ الرِّبٰوا وَقَدۡ نُهُوۡا عَنۡهُ وَاَكۡلِـهِمۡ اَمۡوَالَ
-  النَّاسِ بِالۡبَاطِلِ​ ؕ وَاَعۡتَدۡنَـا لِلۡـكٰفِرِيۡنَ مِنۡهُمۡ عَذَابًا اَ لِيۡمًا‏
+arabic_ayat: وَأَخۡذِهِمُ ٱلرِّبَوٰاْ وَقَدۡ نُهُواْ عَنۡهُ وَأَكۡلِهِمۡ أَمۡوَٰلَ
+  ٱلنَّاسِ بِٱلۡبَٰطِلِۚ وَأَعۡتَدۡنَا لِلۡكَٰفِرِينَ مِنۡهُمۡ عَذَابًا أَلِيمٗا
 sentence_translation: taking interest despite its prohibition, and consuming people’s
   wealth unjustly. We have prepared for the disbelievers among them a painful punishment.
 word_by_word:
   1:
-    arabic: وَّاَخۡذِهِمُ
+    arabic: وَأَخۡذِهِمُ
     translation: And for their taking
     transliteration: wa-akhdhihimu
   2:
-    arabic: الرِّبٰوا
+    arabic: ٱلرِّبَوٰاْ
     translation: (of) [the] usury
     transliteration: l-riba
   3:
@@ -17,7 +17,7 @@ word_by_word:
     translation: while certainly
     transliteration: waqad
   4:
-    arabic: نُهُوۡا
+    arabic: نُهُواْ
     translation: they were forbidden
     transliteration: nuhū
   5:
@@ -25,27 +25,27 @@ word_by_word:
     translation: from it
     transliteration: ʿanhu
   6:
-    arabic: وَاَكۡلِـهِمۡ
+    arabic: وَأَكۡلِهِمۡ
     translation: and (for) their consuming
     transliteration: wa-aklihim
   7:
-    arabic: اَمۡوَالَ
+    arabic: أَمۡوَٰلَ
     translation: wealth
     transliteration: amwāla
   8:
-    arabic: النَّاسِ
+    arabic: ٱلنَّاسِ
     translation: (of) the people
     transliteration: l-nāsi
   9:
-    arabic: بِالۡبَاطِلِ​ ؕ
+    arabic: بِٱلۡبَٰطِلِۚ
     translation: wrongfully
     transliteration: bil-bāṭili
   10:
-    arabic: وَاَعۡتَدۡنَـا
+    arabic: وَأَعۡتَدۡنَا
     translation: And We have prepared
     transliteration: wa-aʿtadnā
   11:
-    arabic: لِلۡـكٰفِرِيۡنَ
+    arabic: لِلۡكَٰفِرِينَ
     translation: for the disbelievers
     transliteration: lil'kāfirīna
   12:
@@ -57,7 +57,7 @@ word_by_word:
     translation: a punishment
     transliteration: ʿadhāban
   14:
-    arabic: اَ لِيۡمًا‏
+    arabic: أَلِيمٗا
     translation: painful
     transliteration: alīman
 ---

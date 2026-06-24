@@ -1,8 +1,8 @@
 ---
-arabic_ayat: وَلَوۡ شِئۡنَا لَرَفَعۡنٰهُ بِهَا وَلٰـكِنَّهٗۤ اَخۡلَدَ اِلَى الۡاَرۡضِ
-  وَاتَّبَعَ هَوٰٮهُ​ ۚ فَمَثَلُهٗ كَمَثَلِ الۡـكَلۡبِ​ ۚ اِنۡ تَحۡمِلۡ عَلَيۡهِ يَلۡهَثۡ
-  اَوۡ تَتۡرُكۡهُ يَلۡهَث ​ؕ ذٰ لِكَ مَثَلُ الۡقَوۡمِ الَّذِيۡنَ كَذَّبُوۡا بِاٰيٰتِنَا​
-  ۚ فَاقۡصُصِ الۡقَصَصَ لَعَلَّهُمۡ يَتَفَكَّرُوۡنَ‏
+arabic_ayat: وَلَوۡ شِئۡنَا لَرَفَعۡنَٰهُ بِهَا وَلَٰكِنَّهُۥٓ أَخۡلَدَ إِلَى ٱلۡأَرۡضِ
+  وَٱتَّبَعَ هَوَىٰهُۚ فَمَثَلُهُۥ كَمَثَلِ ٱلۡكَلۡبِ إِن تَحۡمِلۡ عَلَيۡهِ يَلۡهَثۡ
+  أَوۡ تَتۡرُكۡهُ يَلۡهَثۚ ذَّٰلِكَ مَثَلُ ٱلۡقَوۡمِ ٱلَّذِينَ كَذَّبُواْ بِـَٔايَٰتِنَاۚ
+  فَٱقۡصُصِ ٱلۡقَصَصَ لَعَلَّهُمۡ يَتَفَكَّرُونَ
 sentence_translation: 'If We had willed, We would have elevated him with Our signs,
   but he clung to this life—following his evil desires. His example is that of a dog:
   if you chase it away, it pants, and if you leave it, it ˹still˺ pants. This is the
@@ -18,7 +18,7 @@ word_by_word:
     translation: We willed
     transliteration: shi'nā
   3:
-    arabic: لَرَفَعۡنٰهُ
+    arabic: لَرَفَعۡنَٰهُ
     translation: surely, We (could) have raised him
     transliteration: larafaʿnāhu
   4:
@@ -26,31 +26,31 @@ word_by_word:
     translation: with these
     transliteration: bihā
   5:
-    arabic: وَلٰـكِنَّهٗۤ
+    arabic: وَلَٰكِنَّهُۥٓ
     translation: '[and] but he'
     transliteration: walākinnahu
   6:
-    arabic: اَخۡلَدَ
+    arabic: أَخۡلَدَ
     translation: adhered
     transliteration: akhlada
   7:
-    arabic: اِلَى
+    arabic: إِلَى
     translation: to
     transliteration: ilā
   8:
-    arabic: الۡاَرۡضِ
+    arabic: ٱلۡأَرۡضِ
     translation: the earth
     transliteration: l-arḍi
   9:
-    arabic: وَاتَّبَعَ
+    arabic: وَٱتَّبَعَ
     translation: and followed
     transliteration: wa-ittabaʿa
   10:
-    arabic: هَوٰٮهُ​ ۚ
+    arabic: هَوَىٰهُۚ
     translation: his (vain) desires
     transliteration: hawāhu
   11:
-    arabic: فَمَثَلُهٗ
+    arabic: فَمَثَلُهُۥ
     translation: So his example
     transliteration: famathaluhu
   12:
@@ -58,11 +58,11 @@ word_by_word:
     translation: (is) like (the) example
     transliteration: kamathali
   13:
-    arabic: الۡـكَلۡبِ​ ۚ
+    arabic: ٱلۡكَلۡبِ
     translation: (of) the dog
     transliteration: l-kalbi
   14:
-    arabic: اِنۡ
+    arabic: إِن
     translation: if
     transliteration: in
   15:
@@ -78,7 +78,7 @@ word_by_word:
     translation: he lolls out his tongue
     transliteration: yalhath
   18:
-    arabic: اَوۡ
+    arabic: أَوۡ
     translation: or
     transliteration: aw
   19:
@@ -86,11 +86,11 @@ word_by_word:
     translation: if you leave him
     transliteration: tatruk'hu
   20:
-    arabic: يَلۡهَث ​ؕ
+    arabic: يَلۡهَثۚ
     translation: he lolls out his tongue
     transliteration: yalhath
   21:
-    arabic: ذٰ لِكَ
+    arabic: ذَّٰلِكَ
     translation: That
     transliteration: dhālika
   22:
@@ -98,27 +98,27 @@ word_by_word:
     translation: (is the) example
     transliteration: mathalu
   23:
-    arabic: الۡقَوۡمِ
+    arabic: ٱلۡقَوۡمِ
     translation: (of) the people
     transliteration: l-qawmi
   24:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: who
     transliteration: alladhīna
   25:
-    arabic: كَذَّبُوۡا
+    arabic: كَذَّبُواْ
     translation: denied
     transliteration: kadhabū
   26:
-    arabic: بِاٰيٰتِنَا​ ۚ
+    arabic: بِـَٔايَٰتِنَاۚ
     translation: '[in] Our Signs'
     transliteration: biāyātinā
   27:
-    arabic: فَاقۡصُصِ
+    arabic: فَٱقۡصُصِ
     translation: So relate
     transliteration: fa-uq'ṣuṣi
   28:
-    arabic: الۡقَصَصَ
+    arabic: ٱلۡقَصَصَ
     translation: the story
     transliteration: l-qaṣaṣa
   29:
@@ -126,7 +126,7 @@ word_by_word:
     translation: so that they may
     transliteration: laʿallahum
   30:
-    arabic: يَتَفَكَّرُوۡنَ‏
+    arabic: يَتَفَكَّرُونَ
     translation: reflect
     transliteration: yatafakkarūna
 ---

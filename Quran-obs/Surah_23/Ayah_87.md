@@ -1,13 +1,13 @@
 ---
-arabic_ayat: سَيَقُوۡلُوۡنَ لِلّٰهِ​ؕ قُلۡ اَفَلَا تَتَّقُوۡنَ‏
+arabic_ayat: سَيَقُولُونَ لِلَّهِۚ قُلۡ أَفَلَا تَتَّقُونَ
 sentence_translation: They will reply, “Allah.” Say, “Will you not then fear ˹Him˺?”
 word_by_word:
   1:
-    arabic: سَيَقُوۡلُوۡنَ
+    arabic: سَيَقُولُونَ
     translation: They will say
     transliteration: sayaqūlūna
   2:
-    arabic: لِلّٰهِ​ؕ
+    arabic: لِلَّهِۚ
     translation: Allah
     transliteration: lillahi
   3:
@@ -15,11 +15,11 @@ word_by_word:
     translation: Say
     transliteration: qul
   4:
-    arabic: اَفَلَا
+    arabic: أَفَلَا
     translation: Then will not
     transliteration: afalā
   5:
-    arabic: تَتَّقُوۡنَ‏
+    arabic: تَتَّقُونَ
     translation: you fear (Him)
     transliteration: tattaqūna
 ---

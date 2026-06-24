@@ -1,7 +1,6 @@
 ---
-arabic_ayat: "شَهِدَ اللّٰهُ اَنَّهٗ لَاۤ اِلٰهَ اِلَّا هُوَۙ وَالۡمَلٰٓٮِٕكَةُ وَاُولُوا\
-  \ الۡعِلۡمِ قَآٮِٕمًا ۢ بِالۡقِسۡطِ​ؕ لَاۤ اِلٰهَ اِلَّا هُوَ الۡعَزِيۡزُ الۡحَكِيۡمُؕ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: شَهِدَ ٱللَّهُ أَنَّهُۥ لَآ إِلَٰهَ إِلَّا هُوَ وَٱلۡمَلَٰٓئِكَةُ وَأُوْلُواْ
+  ٱلۡعِلۡمِ قَآئِمَۢا بِٱلۡقِسۡطِۚ لَآ إِلَٰهَ إِلَّا هُوَ ٱلۡعَزِيزُ ٱلۡحَكِيمُ
 sentence_translation: Allah ˹Himself˺ is a Witness that there is no god ˹worthy of
   worship˺ except Him—and so are the angels and people of knowledge. He is the Maintainer
   of justice. There is no god ˹worthy of worship˺ except Him—the Almighty, All-Wise.
@@ -11,59 +10,59 @@ word_by_word:
     translation: Bears witness
     transliteration: shahida
   2:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   3:
-    arabic: اَنَّهٗ
+    arabic: أَنَّهُۥ
     translation: that [He]
     transliteration: annahu
   4:
-    arabic: لَاۤ
+    arabic: لَآ
     translation: (there is) no
     transliteration: lā
   5:
-    arabic: اِلٰهَ
+    arabic: إِلَٰهَ
     translation: god
     transliteration: ilāha
   6:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   7:
-    arabic: هُوَۙ
+    arabic: هُوَ
     translation: Him
     transliteration: huwa
   8:
-    arabic: وَالۡمَلٰٓٮِٕكَةُ
+    arabic: وَٱلۡمَلَٰٓئِكَةُ
     translation: and (so do) the Angels
     transliteration: wal-malāikatu
   9:
-    arabic: وَاُولُوا
+    arabic: وَأُوْلُواْ
     translation: and owners
     transliteration: wa-ulū
   10:
-    arabic: الۡعِلۡمِ
+    arabic: ٱلۡعِلۡمِ
     translation: '(of) [the] knowledge '
     transliteration: l-ʿil'mi
   11:
-    arabic: قَآٮِٕمًا ۢ
+    arabic: قَآئِمَۢا
     translation: standing
     transliteration: qāiman
   12:
-    arabic: بِالۡقِسۡطِ​ؕ
+    arabic: بِٱلۡقِسۡطِۚ
     translation: in justice
     transliteration: bil-qis'ṭi
   13:
-    arabic: لَاۤ
+    arabic: لَآ
     translation: (There is) no
     transliteration: lā
   14:
-    arabic: اِلٰهَ
+    arabic: إِلَٰهَ
     translation: god
     transliteration: ilāha
   15:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   16:
@@ -71,11 +70,11 @@ word_by_word:
     translation: Him
     transliteration: huwa
   17:
-    arabic: الۡعَزِيۡزُ
+    arabic: ٱلۡعَزِيزُ
     translation: the All-Mighty
     transliteration: l-ʿazīzu
   18:
-    arabic: "الۡحَكِيۡمُؕ‏ \uFEFF\uFEFF"
+    arabic: ٱلۡحَكِيمُ
     translation: the All-Wise
     transliteration: l-ḥakīmu
 ---

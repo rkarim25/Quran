@@ -1,9 +1,9 @@
 ---
-arabic_ayat: وَالَّذِيۡنَ هُمۡ عَلٰى صَلَوٰتِهِمۡ يُحَافِظُوۡنَ​ۘ‏
+arabic_ayat: وَٱلَّذِينَ هُمۡ عَلَىٰ صَلَوَٰتِهِمۡ يُحَافِظُونَ
 sentence_translation: and those who are ˹properly˺ observant of their prayers.
 word_by_word:
   1:
-    arabic: وَالَّذِيۡنَ
+    arabic: وَٱلَّذِينَ
     translation: And those who
     transliteration: wa-alladhīna
   2:
@@ -11,15 +11,15 @@ word_by_word:
     translation: '[they]'
     transliteration: hum
   3:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: over
     transliteration: ʿalā
   4:
-    arabic: صَلَوٰتِهِمۡ
+    arabic: صَلَوَٰتِهِمۡ
     translation: their prayers
     transliteration: ṣalawātihim
   5:
-    arabic: يُحَافِظُوۡنَ​ۘ‏
+    arabic: يُحَافِظُونَ
     translation: they guard
     transliteration: yuḥāfiẓūna
 ---

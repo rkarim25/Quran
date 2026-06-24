@@ -1,5 +1,5 @@
 ---
-arabic_ayat: فَلَنَقُصَّنَّ عَلَيۡهِمۡ بِعِلۡمٍ وَّمَا كُنَّا غَآٮِٕبِيۡنَ‏
+arabic_ayat: فَلَنَقُصَّنَّ عَلَيۡهِم بِعِلۡمٖۖ وَمَا كُنَّا غَآئِبِينَ
 sentence_translation: Then We will give them a full account with sure knowledge—for
   We were never absent.
 word_by_word:
@@ -8,15 +8,15 @@ word_by_word:
     translation: Then surely We will narrate
     transliteration: falanaquṣṣanna
   2:
-    arabic: عَلَيۡهِمۡ
+    arabic: عَلَيۡهِم
     translation: to them
     transliteration: ʿalayhim
   3:
-    arabic: بِعِلۡمٍ
+    arabic: بِعِلۡمٖۖ
     translation: with knowledge
     transliteration: biʿil'min
   4:
-    arabic: وَّمَا
+    arabic: وَمَا
     translation: and not
     transliteration: wamā
   5:
@@ -24,7 +24,7 @@ word_by_word:
     translation: were We
     transliteration: kunnā
   6:
-    arabic: غَآٮِٕبِيۡنَ‏
+    arabic: غَآئِبِينَ
     translation: absent
     transliteration: ghāibīna
 ---

@@ -1,5 +1,5 @@
 ---
-arabic_ayat: ثُمَّ قَبَضۡنٰهُ اِلَـيۡنَا قَبۡضًا يَّسِيۡرًا‏
+arabic_ayat: ثُمَّ قَبَضۡنَٰهُ إِلَيۡنَا قَبۡضٗا يَسِيرٗا
 sentence_translation: causing the shade to retreat gradually? 
 word_by_word:
   1:
@@ -7,19 +7,19 @@ word_by_word:
     translation: Then
     transliteration: thumma
   2:
-    arabic: قَبَضۡنٰهُ
+    arabic: قَبَضۡنَٰهُ
     translation: We withdraw it
     transliteration: qabaḍnāhu
   3:
-    arabic: اِلَـيۡنَا
+    arabic: إِلَيۡنَا
     translation: to Us
     transliteration: ilaynā
   4:
-    arabic: قَبۡضًا
+    arabic: قَبۡضٗا
     translation: a withdrawal
     transliteration: qabḍan
   5:
-    arabic: يَّسِيۡرًا‏
+    arabic: يَسِيرٗا
     translation: gradual
     transliteration: yasīran
 ---

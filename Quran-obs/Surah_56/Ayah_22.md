@@ -1,13 +1,13 @@
 ---
-arabic_ayat: وَحُوۡرٌ عِيۡنٌۙ‏
+arabic_ayat: وَحُورٌ عِينٞ
 sentence_translation: And ˹they will have˺ maidens with gorgeous eyes,
 word_by_word:
   1:
-    arabic: وَحُوۡرٌ
+    arabic: وَحُورٌ
     translation: And fair ones
     transliteration: waḥūrun
   2:
-    arabic: عِيۡنٌۙ‏
+    arabic: عِينٞ
     translation: (with) large eyes
     transliteration: ʿīnun
 ---

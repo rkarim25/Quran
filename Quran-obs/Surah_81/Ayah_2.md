@@ -1,17 +1,17 @@
 ---
-arabic_ayat: وَاِذَا النُّجُوۡمُ انْكَدَرَتۡۙ‏
+arabic_ayat: وَإِذَا ٱلنُّجُومُ ٱنكَدَرَتۡ
 sentence_translation: and when the stars fall down,
 word_by_word:
   1:
-    arabic: وَاِذَا
+    arabic: وَإِذَا
     translation: And when
     transliteration: wa-idhā
   2:
-    arabic: النُّجُوۡمُ
+    arabic: ٱلنُّجُومُ
     translation: the stars
     transliteration: l-nujūmu
   3:
-    arabic: انْكَدَرَتۡۙ‏
+    arabic: ٱنكَدَرَتۡ
     translation: fall, losing their luster
     transliteration: inkadarat
 ---

@@ -1,6 +1,6 @@
 ---
-arabic_ayat: رَبِّ اِنَّهُنَّ اَضۡلَلۡنَ كَثِيۡرًا مِّنَ النَّاسِ​ۚ فَمَنۡ تَبِعَنِىۡ
-  فَاِنَّهٗ مِنِّىۡ​ۚ وَمَنۡ عَصَانِىۡ فَاِنَّكَ غَفُوۡرٌ رَّحِيۡمٌ‏
+arabic_ayat: رَبِّ إِنَّهُنَّ أَضۡلَلۡنَ كَثِيرٗا مِّنَ ٱلنَّاسِۖ فَمَن تَبِعَنِي
+  فَإِنَّهُۥ مِنِّيۖ وَمَنۡ عَصَانِي فَإِنَّكَ غَفُورٞ رَّحِيمٞ
 sentence_translation: My Lord! They have caused many people to go astray. So whoever
   follows me is with me, and whoever disobeys me—then surely You are ˹still˺ All-Forgiving,
   Most Merciful.
@@ -10,15 +10,15 @@ word_by_word:
     translation: My Lord
     transliteration: rabbi
   2:
-    arabic: اِنَّهُنَّ
+    arabic: إِنَّهُنَّ
     translation: Indeed, they
     transliteration: innahunna
   3:
-    arabic: اَضۡلَلۡنَ
+    arabic: أَضۡلَلۡنَ
     translation: have led astray
     transliteration: aḍlalna
   4:
-    arabic: كَثِيۡرًا
+    arabic: كَثِيرٗا
     translation: many
     transliteration: kathīran
   5:
@@ -26,23 +26,23 @@ word_by_word:
     translation: among
     transliteration: mina
   6:
-    arabic: النَّاسِ​ۚ
+    arabic: ٱلنَّاسِۖ
     translation: the mankind
     transliteration: l-nāsi
   7:
-    arabic: فَمَنۡ
+    arabic: فَمَن
     translation: So whoever
     transliteration: faman
   8:
-    arabic: تَبِعَنِىۡ
+    arabic: تَبِعَنِي
     translation: follows me
     transliteration: tabiʿanī
   9:
-    arabic: فَاِنَّهٗ
+    arabic: فَإِنَّهُۥ
     translation: then indeed, he
     transliteration: fa-innahu
   10:
-    arabic: مِنِّىۡ​ۚ
+    arabic: مِنِّيۖ
     translation: (is) of me
     transliteration: minnī
   11:
@@ -50,19 +50,19 @@ word_by_word:
     translation: and whoever
     transliteration: waman
   12:
-    arabic: عَصَانِىۡ
+    arabic: عَصَانِي
     translation: disobeys me
     transliteration: ʿaṣānī
   13:
-    arabic: فَاِنَّكَ
+    arabic: فَإِنَّكَ
     translation: then indeed, You
     transliteration: fa-innaka
   14:
-    arabic: غَفُوۡرٌ
+    arabic: غَفُورٞ
     translation: (are) Oft-Forgiving
     transliteration: ghafūrun
   15:
-    arabic: رَّحِيۡمٌ‏
+    arabic: رَّحِيمٞ
     translation: Most Merciful
     transliteration: raḥīmun
 ---

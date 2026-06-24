@@ -1,6 +1,6 @@
 ---
-arabic_ayat: قُلۡ اَ تَعۡبُدُوۡنَ مِنۡ دُوۡنِ اللّٰهِ مَا لَا يَمۡلِكُ لَـكُمۡ ضَرًّا
-  وَّلَا نَفۡعًا ​ؕ وَاللّٰهُ هُوَ السَّمِيۡعُ الۡعَلِيۡمُ‏
+arabic_ayat: قُلۡ أَتَعۡبُدُونَ مِن دُونِ ٱللَّهِ مَا لَا يَمۡلِكُ لَكُمۡ ضَرّٗا وَلَا
+  نَفۡعٗاۚ وَٱللَّهُ هُوَ ٱلسَّمِيعُ ٱلۡعَلِيمُ
 sentence_translation: Say, ˹O Prophet,˺ “How can you worship besides Allah those who
   can neither harm nor benefit you? And Allah ˹alone˺ is the All-Hearing, All-Knowing.”
 word_by_word:
@@ -9,19 +9,19 @@ word_by_word:
     translation: Say
     transliteration: qul
   2:
-    arabic: اَ تَعۡبُدُوۡنَ
+    arabic: أَتَعۡبُدُونَ
     translation: Do you worship
     transliteration: ataʿbudūna
   3:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   4:
-    arabic: دُوۡنِ
+    arabic: دُونِ
     translation: besides
     transliteration: dūni
   5:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   6:
@@ -37,23 +37,23 @@ word_by_word:
     translation: has power
     transliteration: yamliku
   9:
-    arabic: لَـكُمۡ
+    arabic: لَكُمۡ
     translation: to (cause) you
     transliteration: lakum
   10:
-    arabic: ضَرًّا
+    arabic: ضَرّٗا
     translation: any harm
     transliteration: ḍarran
   11:
-    arabic: وَّلَا
+    arabic: وَلَا
     translation: and not
     transliteration: walā
   12:
-    arabic: نَفۡعًا ​ؕ
+    arabic: نَفۡعٗاۚ
     translation: any benefit
     transliteration: nafʿan
   13:
-    arabic: وَاللّٰهُ
+    arabic: وَٱللَّهُ
     translation: while Allah
     transliteration: wal-lahu
   14:
@@ -61,11 +61,11 @@ word_by_word:
     translation: He
     transliteration: huwa
   15:
-    arabic: السَّمِيۡعُ
+    arabic: ٱلسَّمِيعُ
     translation: (is) the All-Hearing
     transliteration: l-samīʿu
   16:
-    arabic: الۡعَلِيۡمُ‏
+    arabic: ٱلۡعَلِيمُ
     translation: the All-Knowing
     transliteration: l-ʿalīmu
 ---

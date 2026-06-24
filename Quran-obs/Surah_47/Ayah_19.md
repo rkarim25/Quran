@@ -1,53 +1,53 @@
 ---
-arabic_ayat: فَاعۡلَمۡ اَنَّهٗ لَاۤ اِلٰهَ اِلَّا اللّٰهُ وَاسۡتَغۡفِرۡ لِذَنۡۢبِكَ
-  وَلِلۡمُؤۡمِنِيۡنَ وَ الۡمُؤۡمِنٰتِ​ ؕ وَاللّٰهُ يَعۡلَمُ مُتَقَلَّبَكُمۡ وَمَثۡوٰٮكُمۡ‏
+arabic_ayat: فَٱعۡلَمۡ أَنَّهُۥ لَآ إِلَٰهَ إِلَّا ٱللَّهُ وَٱسۡتَغۡفِرۡ لِذَنۢبِكَ
+  وَلِلۡمُؤۡمِنِينَ وَٱلۡمُؤۡمِنَٰتِۗ وَٱللَّهُ يَعۡلَمُ مُتَقَلَّبَكُمۡ وَمَثۡوَىٰكُمۡ
 sentence_translation: So, know ˹well, O  Prophet,˺ that there is no god ˹worthy of
   worship˺ except Allah. And seek forgiveness for your shortcomings and for ˹the sins
   of˺ the believing men and women. For Allah ˹fully˺ knows your movements and places
   of rest ˹O people˺.
 word_by_word:
   1:
-    arabic: فَاعۡلَمۡ
+    arabic: فَٱعۡلَمۡ
     translation: So know
     transliteration: fa-iʿ'lam
   2:
-    arabic: اَنَّهٗ
+    arabic: أَنَّهُۥ
     translation: 'that [He] '
     transliteration: annahu
   3:
-    arabic: لَاۤ
+    arabic: لَآ
     translation: (there is) no
     transliteration: lā
   4:
-    arabic: اِلٰهَ
+    arabic: إِلَٰهَ
     translation: god
     transliteration: ilāha
   5:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: but
     transliteration: illā
   6:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   7:
-    arabic: وَاسۡتَغۡفِرۡ
+    arabic: وَٱسۡتَغۡفِرۡ
     translation: and ask forgiveness
     transliteration: wa-is'taghfir
   8:
-    arabic: لِذَنۡۢبِكَ
+    arabic: لِذَنۢبِكَ
     translation: for your sin
     transliteration: lidhanbika
   9:
-    arabic: وَلِلۡمُؤۡمِنِيۡنَ
+    arabic: وَلِلۡمُؤۡمِنِينَ
     translation: and for the believing men
     transliteration: walil'mu'minīna
   10:
-    arabic: وَ الۡمُؤۡمِنٰتِ​ ؕ
+    arabic: وَٱلۡمُؤۡمِنَٰتِۗ
     translation: and the believing women
     transliteration: wal-mu'mināti
   11:
-    arabic: وَاللّٰهُ
+    arabic: وَٱللَّهُ
     translation: And Allah
     transliteration: wal-lahu
   12:
@@ -59,7 +59,7 @@ word_by_word:
     translation: your movement
     transliteration: mutaqallabakum
   14:
-    arabic: وَمَثۡوٰٮكُمۡ‏
+    arabic: وَمَثۡوَىٰكُمۡ
     translation: and your resting places
     transliteration: wamathwākum
 ---

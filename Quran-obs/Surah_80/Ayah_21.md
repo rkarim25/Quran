@@ -1,5 +1,5 @@
 ---
-arabic_ayat: ثُمَّ اَمَاتَهٗ فَاَقۡبَرَهٗۙ‏
+arabic_ayat: ثُمَّ أَمَاتَهُۥ فَأَقۡبَرَهُۥ
 sentence_translation: then causes them to die and be buried.
 word_by_word:
   1:
@@ -7,11 +7,11 @@ word_by_word:
     translation: Then
     transliteration: thumma
   2:
-    arabic: اَمَاتَهٗ
+    arabic: أَمَاتَهُۥ
     translation: He causes him to die
     transliteration: amātahu
   3:
-    arabic: فَاَقۡبَرَهٗۙ‏
+    arabic: فَأَقۡبَرَهُۥ
     translation: and provides a grave for him
     transliteration: fa-aqbarahu
 ---

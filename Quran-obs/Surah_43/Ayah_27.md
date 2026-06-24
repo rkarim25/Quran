@@ -1,25 +1,25 @@
 ---
-arabic_ayat: اِلَّا الَّذِىۡ فَطَرَنِىۡ فَاِنَّهٗ سَيَهۡدِيۡنِ‏
+arabic_ayat: إِلَّا ٱلَّذِي فَطَرَنِي فَإِنَّهُۥ سَيَهۡدِينِ
 sentence_translation: except the One Who originated me, and He will surely guide me.”
 word_by_word:
   1:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: Except
     transliteration: illā
   2:
-    arabic: الَّذِىۡ
+    arabic: ٱلَّذِي
     translation: the One Who
     transliteration: alladhī
   3:
-    arabic: فَطَرَنِىۡ
+    arabic: فَطَرَنِي
     translation: created me
     transliteration: faṭaranī
   4:
-    arabic: فَاِنَّهٗ
+    arabic: فَإِنَّهُۥ
     translation: and indeed, He
     transliteration: fa-innahu
   5:
-    arabic: سَيَهۡدِيۡنِ‏
+    arabic: سَيَهۡدِينِ
     translation: will guide me
     transliteration: sayahdīni
 ---

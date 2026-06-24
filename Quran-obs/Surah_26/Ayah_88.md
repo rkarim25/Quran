@@ -1,5 +1,5 @@
 ---
-arabic_ayat: يَوۡمَ لَا يَنۡفَعُ مَالٌ وَّلَا بَنُوۡنَۙ‏
+arabic_ayat: يَوۡمَ لَا يَنفَعُ مَالٞ وَلَا بَنُونَ
 sentence_translation: the Day when neither wealth nor children will be of any benefit.
 word_by_word:
   1:
@@ -11,19 +11,19 @@ word_by_word:
     translation: not
     transliteration: lā
   3:
-    arabic: يَنۡفَعُ
+    arabic: يَنفَعُ
     translation: will benefit
     transliteration: yanfaʿu
   4:
-    arabic: مَالٌ
+    arabic: مَالٞ
     translation: wealth
     transliteration: mālun
   5:
-    arabic: وَّلَا
+    arabic: وَلَا
     translation: and not
     transliteration: walā
   6:
-    arabic: بَنُوۡنَۙ‏
+    arabic: بَنُونَ
     translation: sons
     transliteration: banūna
 ---

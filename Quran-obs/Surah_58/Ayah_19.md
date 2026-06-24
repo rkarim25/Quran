@@ -1,11 +1,11 @@
 ---
-arabic_ayat: اِسۡتَحۡوَذَ عَلَيۡهِمُ الشَّيۡطٰنُ فَاَنۡسٰٮهُمۡ ذِكۡرَ اللّٰهِ​ؕ اُولٰٓٮِٕكَ
-  حِزۡبُ الشَّيۡطٰنِ​ؕ اَلَاۤ اِنَّ حِزۡبَ الشَّيۡطٰنِ هُمُ الۡخٰسِرُوۡنَ‏
+arabic_ayat: ٱسۡتَحۡوَذَ عَلَيۡهِمُ ٱلشَّيۡطَٰنُ فَأَنسَىٰهُمۡ ذِكۡرَ ٱللَّهِۚ أُوْلَٰٓئِكَ
+  حِزۡبُ ٱلشَّيۡطَٰنِۚ أَلَآ إِنَّ حِزۡبَ ٱلشَّيۡطَٰنِ هُمُ ٱلۡخَٰسِرُونَ
 sentence_translation: Satan has taken hold of them, causing them to forget the remembrance
   of Allah. They are the party of Satan. Surely Satan’s party is bound to lose.
 word_by_word:
   1:
-    arabic: اِسۡتَحۡوَذَ
+    arabic: ٱسۡتَحۡوَذَ
     translation: Has overcome
     transliteration: is'taḥwadha
   2:
@@ -13,11 +13,11 @@ word_by_word:
     translation: them
     transliteration: ʿalayhimu
   3:
-    arabic: الشَّيۡطٰنُ
+    arabic: ٱلشَّيۡطَٰنُ
     translation: the Shaitaan
     transliteration: l-shayṭānu
   4:
-    arabic: فَاَنۡسٰٮهُمۡ
+    arabic: فَأَنسَىٰهُمۡ
     translation: so he made them forget
     transliteration: fa-ansāhum
   5:
@@ -25,11 +25,11 @@ word_by_word:
     translation: (the) remembrance
     transliteration: dhik'ra
   6:
-    arabic: اللّٰهِ​ؕ
+    arabic: ٱللَّهِۚ
     translation: (of) Allah
     transliteration: l-lahi
   7:
-    arabic: اُولٰٓٮِٕكَ
+    arabic: أُوْلَٰٓئِكَ
     translation: Those
     transliteration: ulāika
   8:
@@ -37,15 +37,15 @@ word_by_word:
     translation: (are the) party
     transliteration: ḥiz'bu
   9:
-    arabic: الشَّيۡطٰنِ​ؕ
+    arabic: ٱلشَّيۡطَٰنِۚ
     translation: (of) the Shaitaan
     transliteration: l-shayṭāni
   10:
-    arabic: اَلَاۤ
+    arabic: أَلَآ
     translation: No doubt
     transliteration: alā
   11:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   12:
@@ -53,7 +53,7 @@ word_by_word:
     translation: (the) party
     transliteration: ḥiz'ba
   13:
-    arabic: الشَّيۡطٰنِ
+    arabic: ٱلشَّيۡطَٰنِ
     translation: (of) the Shaitaan
     transliteration: l-shayṭāni
   14:
@@ -61,7 +61,7 @@ word_by_word:
     translation: they
     transliteration: humu
   15:
-    arabic: الۡخٰسِرُوۡنَ‏
+    arabic: ٱلۡخَٰسِرُونَ
     translation: (will be) the losers
     transliteration: l-khāsirūna
 ---

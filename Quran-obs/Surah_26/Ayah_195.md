@@ -1,5 +1,5 @@
 ---
-arabic_ayat: بِلِسَانٍ عَرَبِىٍّ مُّبِيۡنٍؕ‏
+arabic_ayat: بِلِسَانٍ عَرَبِيّٖ مُّبِينٖ
 sentence_translation: in a clear Arabic tongue.
 word_by_word:
   1:
@@ -7,11 +7,11 @@ word_by_word:
     translation: In language
     transliteration: bilisānin
   2:
-    arabic: عَرَبِىٍّ
+    arabic: عَرَبِيّٖ
     translation: Arabic
     transliteration: ʿarabiyyin
   3:
-    arabic: مُّبِيۡنٍؕ‏
+    arabic: مُّبِينٖ
     translation: clear
     transliteration: mubīnin
 ---

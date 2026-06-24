@@ -1,8 +1,7 @@
 ---
-arabic_ayat: "قَالَ لَا يَاۡتِيۡكُمَا طَعَامٌ تُرۡزَقٰنِهٖۤ اِلَّا نَـبَّاۡتُكُمَا\
-  \ بِتَاۡوِيۡلِهٖ قَبۡلَ اَنۡ يَّاۡتِيَكُمَا​ ؕ ذٰ لِكُمَا مِمَّا عَلَّمَنِىۡ رَبِّىۡ\
-  \ ؕ اِنِّىۡ تَرَكۡتُ مِلَّةَ قَوۡمٍ لَّا يُؤۡمِنُوۡنَ بِاللّٰهِ وَهُمۡ بِالۡاٰخِرَةِ\
-  \ هُمۡ كٰفِرُوۡنَ‏ \uFEFF\uFEFF"
+arabic_ayat: قَالَ لَا يَأۡتِيكُمَا طَعَامٞ تُرۡزَقَانِهِۦٓ إِلَّا نَبَّأۡتُكُمَا
+  بِتَأۡوِيلِهِۦ قَبۡلَ أَن يَأۡتِيَكُمَاۚ ذَٰلِكُمَا مِمَّا عَلَّمَنِي رَبِّيٓۚ إِنِّي
+  تَرَكۡتُ مِلَّةَ قَوۡمٖ لَّا يُؤۡمِنُونَ بِٱللَّهِ وَهُم بِٱلۡأٓخِرَةِ هُمۡ كَٰفِرُونَ
 sentence_translation: Joseph replied, “I can even tell you what kind of meal you will
   be served before you receive it. This ˹knowledge˺ is from what my Lord has taught
   me. I have shunned the faith of a people who disbelieve in Allah and deny the Hereafter.
@@ -16,27 +15,27 @@ word_by_word:
     translation: Not
     transliteration: lā
   3:
-    arabic: يَاۡتِيۡكُمَا
+    arabic: يَأۡتِيكُمَا
     translation: (will) come to both of you
     transliteration: yatīkumā
   4:
-    arabic: طَعَامٌ
+    arabic: طَعَامٞ
     translation: food
     transliteration: ṭaʿāmun
   5:
-    arabic: تُرۡزَقٰنِهٖۤ
+    arabic: تُرۡزَقَانِهِۦٓ
     translation: you are provided with
     transliteration: tur'zaqānihi
   6:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: but
     transliteration: illā
   7:
-    arabic: نَـبَّاۡتُكُمَا
+    arabic: نَبَّأۡتُكُمَا
     translation: I will inform both of you
     transliteration: nabbatukumā
   8:
-    arabic: بِتَاۡوِيۡلِهٖ
+    arabic: بِتَأۡوِيلِهِۦ
     translation: of its interpretation
     transliteration: bitawīlihi
   9:
@@ -44,15 +43,15 @@ word_by_word:
     translation: before
     transliteration: qabla
   10:
-    arabic: اَنۡ
+    arabic: أَن
     translation: '[that]'
     transliteration: an
   11:
-    arabic: يَّاۡتِيَكُمَا​ ؕ
+    arabic: يَأۡتِيَكُمَاۚ
     translation: '[it] comes to both of you'
     transliteration: yatiyakumā
   12:
-    arabic: ذٰ لِكُمَا
+    arabic: ذَٰلِكُمَا
     translation: That
     transliteration: dhālikumā
   13:
@@ -60,15 +59,15 @@ word_by_word:
     translation: (is) of what
     transliteration: mimmā
   14:
-    arabic: عَلَّمَنِىۡ
+    arabic: عَلَّمَنِي
     translation: has taught me
     transliteration: ʿallamanī
   15:
-    arabic: رَبِّىۡ ؕ
+    arabic: رَبِّيٓۚ
     translation: my Lord
     transliteration: rabbī
   16:
-    arabic: اِنِّىۡ
+    arabic: إِنِّي
     translation: Indeed, I
     transliteration: innī
   17:
@@ -80,7 +79,7 @@ word_by_word:
     translation: (the) religion
     transliteration: millata
   19:
-    arabic: قَوۡمٍ
+    arabic: قَوۡمٖ
     translation: (of) a people
     transliteration: qawmin
   20:
@@ -88,19 +87,19 @@ word_by_word:
     translation: not
     transliteration: lā
   21:
-    arabic: يُؤۡمِنُوۡنَ
+    arabic: يُؤۡمِنُونَ
     translation: they believe
     transliteration: yu'minūna
   22:
-    arabic: بِاللّٰهِ
+    arabic: بِٱللَّهِ
     translation: in Allah
     transliteration: bil-lahi
   23:
-    arabic: وَهُمۡ
+    arabic: وَهُم
     translation: and they
     transliteration: wahum
   24:
-    arabic: بِالۡاٰخِرَةِ
+    arabic: بِٱلۡأٓخِرَةِ
     translation: in the Hereafter
     transliteration: bil-ākhirati
   25:
@@ -108,7 +107,7 @@ word_by_word:
     translation: '[they]'
     transliteration: hum
   26:
-    arabic: "كٰفِرُوۡنَ‏ \uFEFF\uFEFF"
+    arabic: كَٰفِرُونَ
     translation: (are) disbelievers
     transliteration: kāfirūna
 ---

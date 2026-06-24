@@ -1,9 +1,9 @@
 ---
-arabic_ayat: اَلرَّحۡمٰنُۙ‏
+arabic_ayat: ٱلرَّحۡمَٰنُ
 sentence_translation: The Most Compassionate
 word_by_word:
   1:
-    arabic: اَلرَّحۡمٰنُۙ‏
+    arabic: ٱلرَّحۡمَٰنُ
     translation: The Most Gracious
     transliteration: al-raḥmānu
 ---

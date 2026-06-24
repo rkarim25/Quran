@@ -1,12 +1,12 @@
 ---
-arabic_ayat: وَاِذۡ قُلۡتُمۡ يٰمُوۡسٰى لَنۡ نُّؤۡمِنَ لَـكَ حَتّٰى نَرَى اللّٰهَ جَهۡرَةً
-  فَاَخَذَتۡكُمُ الصّٰعِقَةُ وَاَنۡتُمۡ تَنۡظُرُوۡنَ‏
+arabic_ayat: وَإِذۡ قُلۡتُمۡ يَٰمُوسَىٰ لَن نُّؤۡمِنَ لَكَ حَتَّىٰ نَرَى ٱللَّهَ جَهۡرَةٗ
+  فَأَخَذَتۡكُمُ ٱلصَّٰعِقَةُ وَأَنتُمۡ تَنظُرُونَ
 sentence_translation: And ˹remember˺ when you said, “O Moses! We will never believe
   you until we see Allah with our own eyes,” so a thunderbolt struck you while you
   were looking on.
 word_by_word:
   1:
-    arabic: وَاِذۡ
+    arabic: وَإِذۡ
     translation: And when
     transliteration: wa-idh
   2:
@@ -14,11 +14,11 @@ word_by_word:
     translation: you said
     transliteration: qul'tum
   3:
-    arabic: يٰمُوۡسٰى
+    arabic: يَٰمُوسَىٰ
     translation: O Musa
     transliteration: yāmūsā
   4:
-    arabic: لَنۡ
+    arabic: لَن
     translation: Never
     transliteration: lan
   5:
@@ -26,11 +26,11 @@ word_by_word:
     translation: (will) we believe
     transliteration: nu'mina
   6:
-    arabic: لَـكَ
+    arabic: لَكَ
     translation: in you
     transliteration: laka
   7:
-    arabic: حَتّٰى
+    arabic: حَتَّىٰ
     translation: until
     transliteration: ḥattā
   8:
@@ -38,27 +38,27 @@ word_by_word:
     translation: we see
     transliteration: narā
   9:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   10:
-    arabic: جَهۡرَةً
+    arabic: جَهۡرَةٗ
     translation: manifestly
     transliteration: jahratan
   11:
-    arabic: فَاَخَذَتۡكُمُ
+    arabic: فَأَخَذَتۡكُمُ
     translation: So seized you
     transliteration: fa-akhadhatkumu
   12:
-    arabic: الصّٰعِقَةُ
+    arabic: ٱلصَّٰعِقَةُ
     translation: the thunderbolt
     transliteration: l-ṣāʿiqatu
   13:
-    arabic: وَاَنۡتُمۡ
+    arabic: وَأَنتُمۡ
     translation: while you
     transliteration: wa-antum
   14:
-    arabic: تَنۡظُرُوۡنَ‏
+    arabic: تَنظُرُونَ
     translation: (were) looking
     transliteration: tanẓurūna
 ---

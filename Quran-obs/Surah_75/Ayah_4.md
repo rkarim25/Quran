@@ -1,30 +1,30 @@
 ---
-arabic_ayat: بَلٰى قٰدِرِيۡنَ عَلٰٓى اَنۡ نُّسَوِّىَ بَنَانَهٗ‏
+arabic_ayat: بَلَىٰ قَٰدِرِينَ عَلَىٰٓ أَن نُّسَوِّيَ بَنَانَهُۥ
 sentence_translation: Yes ˹indeed˺! We are ˹most˺ capable of restoring ˹even˺ their
   very fingertips.
 word_by_word:
   1:
-    arabic: بَلٰى
+    arabic: بَلَىٰ
     translation: Nay
     transliteration: balā
   2:
-    arabic: قٰدِرِيۡنَ
+    arabic: قَٰدِرِينَ
     translation: (We are) Able
     transliteration: qādirīna
   3:
-    arabic: عَلٰٓى
+    arabic: عَلَىٰٓ
     translation: 'on'
     transliteration: ʿalā
   4:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that
     transliteration: an
   5:
-    arabic: نُّسَوِّىَ
+    arabic: نُّسَوِّيَ
     translation: We can restore
     transliteration: nusawwiya
   6:
-    arabic: بَنَانَهٗ‏
+    arabic: بَنَانَهُۥ
     translation: his fingertips
     transliteration: banānahu
 ---

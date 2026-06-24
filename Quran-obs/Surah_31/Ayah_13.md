@@ -1,12 +1,12 @@
 ---
-arabic_ayat: وَاِذۡ قَالَ لُقۡمٰنُ لِا بۡنِهٖ وَهُوَ يَعِظُهٗ يٰبُنَىَّ لَا تُشۡرِكۡ
-  بِاللّٰهِ ؕ اِنَّ الشِّرۡكَ لَـظُلۡمٌ عَظِيۡمٌ‏
+arabic_ayat: وَإِذۡ قَالَ لُقۡمَٰنُ لِٱبۡنِهِۦ وَهُوَ يَعِظُهُۥ يَٰبُنَيَّ لَا تُشۡرِكۡ
+  بِٱللَّهِۖ إِنَّ ٱلشِّرۡكَ لَظُلۡمٌ عَظِيمٞ
 sentence_translation: And ˹remember˺ when Luqmân said to his son, while advising him,
   “O my dear son! Never associate ˹anything˺ with Allah ˹in worship˺, for associating
   ˹others with Him˺ is truly the worst of all wrongs.”
 word_by_word:
   1:
-    arabic: وَاِذۡ
+    arabic: وَإِذۡ
     translation: And when
     transliteration: wa-idh
   2:
@@ -14,11 +14,11 @@ word_by_word:
     translation: said
     transliteration: qāla
   3:
-    arabic: لُقۡمٰنُ
+    arabic: لُقۡمَٰنُ
     translation: Luqman
     transliteration: luq'mānu
   4:
-    arabic: لِا بۡنِهٖ
+    arabic: لِٱبۡنِهِۦ
     translation: to his son
     transliteration: li-ib'nihi
   5:
@@ -26,11 +26,11 @@ word_by_word:
     translation: while he
     transliteration: wahuwa
   6:
-    arabic: يَعِظُهٗ
+    arabic: يَعِظُهُۥ
     translation: (was) instructing him
     transliteration: yaʿiẓuhu
   7:
-    arabic: يٰبُنَىَّ
+    arabic: يَٰبُنَيَّ
     translation: O my son
     transliteration: yābunayya
   8:
@@ -42,23 +42,23 @@ word_by_word:
     translation: associate partners
     transliteration: tush'rik
   10:
-    arabic: بِاللّٰهِ ؕ
+    arabic: بِٱللَّهِۖ
     translation: with Allah
     transliteration: bil-lahi
   11:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   12:
-    arabic: الشِّرۡكَ
+    arabic: ٱلشِّرۡكَ
     translation: associating partners
     transliteration: l-shir'ka
   13:
-    arabic: لَـظُلۡمٌ
+    arabic: لَظُلۡمٌ
     translation: (is) surely an injustice
     transliteration: laẓul'mun
   14:
-    arabic: عَظِيۡمٌ‏
+    arabic: عَظِيمٞ
     translation: great
     transliteration: ʿaẓīmun
 ---

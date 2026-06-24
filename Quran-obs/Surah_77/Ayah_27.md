@@ -1,35 +1,34 @@
 ---
-arabic_ayat: وَّجَعَلۡنَا فِيۡهَا رَوَاسِىَ شٰمِخٰتٍ وَّ اَسۡقَيۡنٰكُمۡ مَّآءً فُرَاتًا
-  ؕ‏
+arabic_ayat: وَجَعَلۡنَا فِيهَا رَوَٰسِيَ شَٰمِخَٰتٖ وَأَسۡقَيۡنَٰكُم مَّآءٗ فُرَاتٗا
 sentence_translation: and placed upon it towering, firm mountains, and given you fresh
   water to drink?
 word_by_word:
   1:
-    arabic: وَّجَعَلۡنَا
+    arabic: وَجَعَلۡنَا
     translation: And We made
     transliteration: wajaʿalnā
   2:
-    arabic: فِيۡهَا
+    arabic: فِيهَا
     translation: therein
     transliteration: fīhā
   3:
-    arabic: رَوَاسِىَ
+    arabic: رَوَٰسِيَ
     translation: firmly set mountains
     transliteration: rawāsiya
   4:
-    arabic: شٰمِخٰتٍ
+    arabic: شَٰمِخَٰتٖ
     translation: lofty
     transliteration: shāmikhātin
   5:
-    arabic: وَّ اَسۡقَيۡنٰكُمۡ
+    arabic: وَأَسۡقَيۡنَٰكُم
     translation: and We gave you to drink
     transliteration: wa-asqaynākum
   6:
-    arabic: مَّآءً
+    arabic: مَّآءٗ
     translation: 'water '
     transliteration: māan
   7:
-    arabic: فُرَاتًا ؕ‏
+    arabic: فُرَاتٗا
     translation: sweet
     transliteration: furātan
 ---

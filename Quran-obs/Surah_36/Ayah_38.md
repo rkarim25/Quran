@@ -1,39 +1,39 @@
 ---
-arabic_ayat: وَالشَّمۡسُ تَجۡرِىۡ لِمُسۡتَقَرٍّ لَّهَا ​ؕ ذٰلِكَ تَقۡدِيۡرُ الۡعَزِيۡزِ
-  الۡعَلِيۡمِؕ‏
+arabic_ayat: وَٱلشَّمۡسُ تَجۡرِي لِمُسۡتَقَرّٖ لَّهَاۚ ذَٰلِكَ تَقۡدِيرُ ٱلۡعَزِيزِ
+  ٱلۡعَلِيمِ
 sentence_translation: The sun travels for its fixed term. That is the design of the
   Almighty, All-Knowing.
 word_by_word:
   1:
-    arabic: وَالشَّمۡسُ
+    arabic: وَٱلشَّمۡسُ
     translation: And the sun
     transliteration: wal-shamsu
   2:
-    arabic: تَجۡرِىۡ
+    arabic: تَجۡرِي
     translation: runs
     transliteration: tajrī
   3:
-    arabic: لِمُسۡتَقَرٍّ
+    arabic: لِمُسۡتَقَرّٖ
     translation: to a term appointed
     transliteration: limus'taqarrin
   4:
-    arabic: لَّهَا ​ؕ
+    arabic: لَّهَاۚ
     translation: for it
     transliteration: lahā
   5:
-    arabic: ذٰلِكَ
+    arabic: ذَٰلِكَ
     translation: That
     transliteration: dhālika
   6:
-    arabic: تَقۡدِيۡرُ
+    arabic: تَقۡدِيرُ
     translation: (is the) Decree
     transliteration: taqdīru
   7:
-    arabic: الۡعَزِيۡزِ
+    arabic: ٱلۡعَزِيزِ
     translation: (of) the All-Mighty
     transliteration: l-ʿazīzi
   8:
-    arabic: الۡعَلِيۡمِؕ‏
+    arabic: ٱلۡعَلِيمِ
     translation: the All-Knowing
     transliteration: l-ʿalīmi
 ---

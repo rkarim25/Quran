@@ -1,6 +1,6 @@
 ---
-arabic_ayat: وَهُوَ الَّذِىۡ خَلَقَ الَّيۡلَ وَالنَّهَارَ وَالشَّمۡسَ وَالۡقَمَرَ​ؕ
-  كُلٌّ فِىۡ فَلَكٍ يَّسۡبَحُوۡنَ‏
+arabic_ayat: وَهُوَ ٱلَّذِي خَلَقَ ٱلَّيۡلَ وَٱلنَّهَارَ وَٱلشَّمۡسَ وَٱلۡقَمَرَۖ
+  كُلّٞ فِي فَلَكٖ يَسۡبَحُونَ
 sentence_translation: And He is the One Who created the day and the night, the sun
   and the moon—each travelling in an orbit.
 word_by_word:
@@ -9,7 +9,7 @@ word_by_word:
     translation: And He
     transliteration: wahuwa
   2:
-    arabic: الَّذِىۡ
+    arabic: ٱلَّذِي
     translation: (is) the One Who
     transliteration: alladhī
   3:
@@ -17,35 +17,35 @@ word_by_word:
     translation: created
     transliteration: khalaqa
   4:
-    arabic: الَّيۡلَ
+    arabic: ٱلَّيۡلَ
     translation: the night
     transliteration: al-layla
   5:
-    arabic: وَالنَّهَارَ
+    arabic: وَٱلنَّهَارَ
     translation: and the day
     transliteration: wal-nahāra
   6:
-    arabic: وَالشَّمۡسَ
+    arabic: وَٱلشَّمۡسَ
     translation: and the sun
     transliteration: wal-shamsa
   7:
-    arabic: وَالۡقَمَرَ​ؕ
+    arabic: وَٱلۡقَمَرَۖ
     translation: and the moon
     transliteration: wal-qamara
   8:
-    arabic: كُلٌّ
+    arabic: كُلّٞ
     translation: each
     transliteration: kullun
   9:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   10:
-    arabic: فَلَكٍ
+    arabic: فَلَكٖ
     translation: an orbit
     transliteration: falakin
   11:
-    arabic: يَّسۡبَحُوۡنَ‏
+    arabic: يَسۡبَحُونَ
     translation: floating
     transliteration: yasbaḥūna
 ---

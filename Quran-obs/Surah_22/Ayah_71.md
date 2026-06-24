@@ -1,23 +1,23 @@
 ---
-arabic_ayat: وَيَعۡبُدُوۡنَ مِنۡ دُوۡنِ اللّٰهِ مَا لَمۡ يُنَزِّلۡ بِهٖ سُلۡطٰنًا
-  وَّمَا لَـيۡسَ لَهُمۡ بِهٖ عِلۡمٌ​ؕ وَمَا لِلظّٰلِمِيۡنَ مِنۡ نَّصِيۡرٍ‏
+arabic_ayat: وَيَعۡبُدُونَ مِن دُونِ ٱللَّهِ مَا لَمۡ يُنَزِّلۡ بِهِۦ سُلۡطَٰنٗا وَمَا
+  لَيۡسَ لَهُم بِهِۦ عِلۡمٞۗ وَمَا لِلظَّٰلِمِينَ مِن نَّصِيرٖ
 sentence_translation: Yet they worship besides Allah that for which He has sent down
   no authority, and of which they have no knowledge. The wrongdoers will have no helper.
 word_by_word:
   1:
-    arabic: وَيَعۡبُدُوۡنَ
+    arabic: وَيَعۡبُدُونَ
     translation: And they worship
     transliteration: wayaʿbudūna
   2:
-    arabic: مِنۡ
+    arabic: مِن
     translation: besides Allah
     transliteration: min
   3:
-    arabic: دُوۡنِ
+    arabic: دُونِ
     translation: besides Allah
     transliteration: dūni
   4:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: besides Allah
     transliteration: l-lahi
   5:
@@ -33,31 +33,31 @@ word_by_word:
     translation: He (has) sent down
     transliteration: yunazzil
   8:
-    arabic: بِهٖ
+    arabic: بِهِۦ
     translation: for it
     transliteration: bihi
   9:
-    arabic: سُلۡطٰنًا
+    arabic: سُلۡطَٰنٗا
     translation: any authority
     transliteration: sul'ṭānan
   10:
-    arabic: وَّمَا
+    arabic: وَمَا
     translation: and what
     transliteration: wamā
   11:
-    arabic: لَـيۡسَ
+    arabic: لَيۡسَ
     translation: not
     transliteration: laysa
   12:
-    arabic: لَهُمۡ
+    arabic: لَهُم
     translation: they have
     transliteration: lahum
   13:
-    arabic: بِهٖ
+    arabic: بِهِۦ
     translation: of it
     transliteration: bihi
   14:
-    arabic: عِلۡمٌ​ؕ
+    arabic: عِلۡمٞۗ
     translation: any knowledge
     transliteration: ʿil'mun
   15:
@@ -65,15 +65,15 @@ word_by_word:
     translation: And not
     transliteration: wamā
   16:
-    arabic: لِلظّٰلِمِيۡنَ
+    arabic: لِلظَّٰلِمِينَ
     translation: (will be) for the wrongdoers
     transliteration: lilẓẓālimīna
   17:
-    arabic: مِنۡ
+    arabic: مِن
     translation: any
     transliteration: min
   18:
-    arabic: نَّصِيۡرٍ‏
+    arabic: نَّصِيرٖ
     translation: helper
     transliteration: naṣīrin
 ---

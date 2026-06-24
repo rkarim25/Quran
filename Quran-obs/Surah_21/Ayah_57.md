@@ -1,19 +1,18 @@
 ---
-arabic_ayat: "وَ تَاللّٰهِ لَاَكِيۡدَنَّ اَصۡنَامَكُمۡ بَعۡدَ اَنۡ تُوَلُّوۡا مُدۡبِرِيۡنَ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: وَتَٱللَّهِ لَأَكِيدَنَّ أَصۡنَٰمَكُم بَعۡدَ أَن تُوَلُّواْ مُدۡبِرِينَ
 sentence_translation: ˹Then he said to himself,˺ “By Allah! I will surely plot against
   your idols after you have turned your backs and gone away.”
 word_by_word:
   1:
-    arabic: وَ تَاللّٰهِ
+    arabic: وَتَٱللَّهِ
     translation: And by Allah
     transliteration: watal-lahi
   2:
-    arabic: لَاَكِيۡدَنَّ
+    arabic: لَأَكِيدَنَّ
     translation: surely, I will plan
     transliteration: la-akīdanna
   3:
-    arabic: اَصۡنَامَكُمۡ
+    arabic: أَصۡنَٰمَكُم
     translation: (against) your idols
     transliteration: aṣnāmakum
   4:
@@ -21,15 +20,15 @@ word_by_word:
     translation: after
     transliteration: baʿda
   5:
-    arabic: اَنۡ
+    arabic: أَن
     translation: '[that]'
     transliteration: an
   6:
-    arabic: تُوَلُّوۡا
+    arabic: تُوَلُّواْ
     translation: you go away
     transliteration: tuwallū
   7:
-    arabic: "مُدۡبِرِيۡنَ‏ \uFEFF\uFEFF"
+    arabic: مُدۡبِرِينَ
     translation: turning (your) backs
     transliteration: mud'birīna
 ---

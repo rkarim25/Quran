@@ -1,21 +1,21 @@
 ---
-arabic_ayat: اَلَيۡسَ اللّٰهُ بِاَحۡكَمِ الۡحٰكِمِيۡنَ‏
+arabic_ayat: أَلَيۡسَ ٱللَّهُ بِأَحۡكَمِ ٱلۡحَٰكِمِينَ
 sentence_translation: Is Allah not the most just of all judges?
 word_by_word:
   1:
-    arabic: اَلَيۡسَ
+    arabic: أَلَيۡسَ
     translation: Is not
     transliteration: alaysa
   2:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   3:
-    arabic: بِاَحۡكَمِ
+    arabic: بِأَحۡكَمِ
     translation: (the) Most Just
     transliteration: bi-aḥkami
   4:
-    arabic: الۡحٰكِمِيۡنَ‏
+    arabic: ٱلۡحَٰكِمِينَ
     translation: (of) the Judges
     transliteration: l-ḥākimīna
 ---

@@ -1,32 +1,32 @@
 ---
-arabic_ayat: اَمِ اتَّخَذُوۡا مِنۡ دُوۡنِهٖۤ اَوۡلِيَآءَ​ۚ فَاللّٰهُ هُوَ الۡوَلِىُّ
-  وَهُوَ يُحۡىِ الۡمَوۡتٰى وَهُوَ عَلٰى كُلِّ شَىۡءٍ قَدِيۡرٌ‏
+arabic_ayat: أَمِ ٱتَّخَذُواْ مِن دُونِهِۦٓ أَوۡلِيَآءَۖ فَٱللَّهُ هُوَ ٱلۡوَلِيُّ
+  وَهُوَ يُحۡيِ ٱلۡمَوۡتَىٰ وَهُوَ عَلَىٰ كُلِّ شَيۡءٖ قَدِيرٞ
 sentence_translation: How can they take protectors besides Him? Allah alone is the
   Protector. He ˹alone˺ gives life to the dead. And He ˹alone˺ is Most Capable of
   everything.
 word_by_word:
   1:
-    arabic: اَمِ
+    arabic: أَمِ
     translation: Or
     transliteration: ami
   2:
-    arabic: اتَّخَذُوۡا
+    arabic: ٱتَّخَذُواْ
     translation: have they taken
     transliteration: ittakhadhū
   3:
-    arabic: مِنۡ
+    arabic: مِن
     translation: besides Him
     transliteration: min
   4:
-    arabic: دُوۡنِهٖۤ
+    arabic: دُونِهِۦٓ
     translation: besides Him
     transliteration: dūnihi
   5:
-    arabic: اَوۡلِيَآءَ​ۚ
+    arabic: أَوۡلِيَآءَۖ
     translation: protectors
     transliteration: awliyāa
   6:
-    arabic: فَاللّٰهُ
+    arabic: فَٱللَّهُ
     translation: 'But Allah '
     transliteration: fal-lahu
   7:
@@ -34,7 +34,7 @@ word_by_word:
     translation: He
     transliteration: huwa
   8:
-    arabic: الۡوَلِىُّ
+    arabic: ٱلۡوَلِيُّ
     translation: (is) the Protector
     transliteration: l-waliyu
   9:
@@ -42,11 +42,11 @@ word_by_word:
     translation: and He
     transliteration: wahuwa
   10:
-    arabic: يُحۡىِ
+    arabic: يُحۡيِ
     translation: gives life
     transliteration: yuḥ'yī
   11:
-    arabic: الۡمَوۡتٰى
+    arabic: ٱلۡمَوۡتَىٰ
     translation: (to) the dead
     transliteration: l-mawtā
   12:
@@ -54,7 +54,7 @@ word_by_word:
     translation: And He
     transliteration: wahuwa
   13:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: (is) on
     transliteration: ʿalā
   14:
@@ -62,11 +62,11 @@ word_by_word:
     translation: every
     transliteration: kulli
   15:
-    arabic: شَىۡءٍ
+    arabic: شَيۡءٖ
     translation: thing
     transliteration: shayin
   16:
-    arabic: قَدِيۡرٌ‏
+    arabic: قَدِيرٞ
     translation: All-Powerful
     transliteration: qadīrun
 ---

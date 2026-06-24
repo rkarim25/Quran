@@ -1,16 +1,16 @@
 ---
-arabic_ayat: فَاِنۡ تَوَلَّـيۡتُمۡ فَمَا سَاَلۡـتُكُمۡ مِّنۡ اَجۡرٍ​ؕاِنۡ اَجۡرِىَ
-  اِلَّا عَلَى اللّٰهِ​ۙ وَاُمِرۡتُ اَنۡ اَكُوۡنَ مِنَ الۡمُسۡلِمِيۡنَ‏
+arabic_ayat: فَإِن تَوَلَّيۡتُمۡ فَمَا سَأَلۡتُكُم مِّنۡ أَجۡرٍۖ إِنۡ أَجۡرِيَ إِلَّا
+  عَلَى ٱللَّهِۖ وَأُمِرۡتُ أَنۡ أَكُونَ مِنَ ٱلۡمُسۡلِمِينَ
 sentence_translation: And if you turn away, ˹remember˺ I have never demanded a reward
   from you ˹for delivering the message˺. My reward is only from Allah. And I have
   been commanded to be one of those who submit ˹to Allah˺.”
 word_by_word:
   1:
-    arabic: فَاِنۡ
+    arabic: فَإِن
     translation: But if
     transliteration: fa-in
   2:
-    arabic: تَوَلَّـيۡتُمۡ
+    arabic: تَوَلَّيۡتُمۡ
     translation: you turn away
     transliteration: tawallaytum
   3:
@@ -18,7 +18,7 @@ word_by_word:
     translation: then not
     transliteration: famā
   4:
-    arabic: سَاَلۡـتُكُمۡ
+    arabic: سَأَلۡتُكُم
     translation: I have asked you
     transliteration: sa-altukum
   5:
@@ -26,19 +26,19 @@ word_by_word:
     translation: any
     transliteration: min
   6:
-    arabic: اَجۡرٍ​ؕ
+    arabic: أَجۡرٍۖ
     translation: reward
     transliteration: ajrin
   7:
-    arabic: اِنۡ
+    arabic: إِنۡ
     translation: Not
     transliteration: in
   8:
-    arabic: اَجۡرِىَ
+    arabic: أَجۡرِيَ
     translation: (is) my reward
     transliteration: ajriya
   9:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: but
     transliteration: illā
   10:
@@ -46,19 +46,19 @@ word_by_word:
     translation: 'on'
     transliteration: ʿalā
   11:
-    arabic: اللّٰهِ​ۙ
+    arabic: ٱللَّهِۖ
     translation: Allah
     transliteration: l-lahi
   12:
-    arabic: وَاُمِرۡتُ
+    arabic: وَأُمِرۡتُ
     translation: and I have been commanded
     transliteration: wa-umir'tu
   13:
-    arabic: اَنۡ
+    arabic: أَنۡ
     translation: that
     transliteration: an
   14:
-    arabic: اَكُوۡنَ
+    arabic: أَكُونَ
     translation: I be
     transliteration: akūna
   15:
@@ -66,7 +66,7 @@ word_by_word:
     translation: of
     transliteration: mina
   16:
-    arabic: الۡمُسۡلِمِيۡنَ‏
+    arabic: ٱلۡمُسۡلِمِينَ
     translation: the Muslims
     transliteration: l-mus'limīna
 ---

@@ -1,7 +1,7 @@
 ---
-arabic_ayat: لَا يُقَاتِلُوۡنَكُمۡ جَمِيۡعًا اِلَّا فِىۡ قُرًى مُّحَصَّنَةٍ اَوۡ مِنۡ
-  وَّرَآءِ جُدُرٍؕ بَاۡسُهُمۡ بَيۡنَهُمۡ شَدِيۡدٌ ​ؕ تَحۡسَبُهُمۡ جَمِيۡعًا وَّقُلُوۡبُهُمۡ
-  شَتّٰى​ؕ ذٰلِكَ بِاَنَّهُمۡ قَوۡمٌ لَّا يَعۡقِلُوۡنَ​ۚ‏
+arabic_ayat: لَا يُقَٰتِلُونَكُمۡ جَمِيعًا إِلَّا فِي قُرٗى مُّحَصَّنَةٍ أَوۡ مِن
+  وَرَآءِ جُدُرِۭۚ بَأۡسُهُم بَيۡنَهُمۡ شَدِيدٞۚ تَحۡسَبُهُمۡ جَمِيعٗا وَقُلُوبُهُمۡ
+  شَتَّىٰۚ ذَٰلِكَ بِأَنَّهُمۡ قَوۡمٞ لَّا يَعۡقِلُونَ
 sentence_translation: 'Even united, they would not ˹dare˺ fight against you except
   ˹from˺ within fortified strongholds or from behind walls. Their malice for each
   other is intense: you think they are united, yet their hearts are divided. That
@@ -12,23 +12,23 @@ word_by_word:
     translation: Not
     transliteration: lā
   2:
-    arabic: يُقَاتِلُوۡنَكُمۡ
+    arabic: يُقَٰتِلُونَكُمۡ
     translation: will they fight you
     transliteration: yuqātilūnakum
   3:
-    arabic: جَمِيۡعًا
+    arabic: جَمِيعًا
     translation: all
     transliteration: jamīʿan
   4:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   5:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   6:
-    arabic: قُرًى
+    arabic: قُرٗى
     translation: towns
     transliteration: quran
   7:
@@ -36,23 +36,23 @@ word_by_word:
     translation: fortified
     transliteration: muḥaṣṣanatin
   8:
-    arabic: اَوۡ
+    arabic: أَوۡ
     translation: or
     transliteration: aw
   9:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   10:
-    arabic: وَّرَآءِ
+    arabic: وَرَآءِ
     translation: behind
     transliteration: warāi
   11:
-    arabic: جُدُرٍؕ
+    arabic: جُدُرِۭۚ
     translation: walls
     transliteration: judurin
   12:
-    arabic: بَاۡسُهُمۡ
+    arabic: بَأۡسُهُم
     translation: Their violence
     transliteration: basuhum
   13:
@@ -60,7 +60,7 @@ word_by_word:
     translation: among themselves
     transliteration: baynahum
   14:
-    arabic: شَدِيۡدٌ ​ؕ
+    arabic: شَدِيدٞۚ
     translation: (is) severe
     transliteration: shadīdun
   15:
@@ -68,27 +68,27 @@ word_by_word:
     translation: You think they
     transliteration: taḥsabuhum
   16:
-    arabic: جَمِيۡعًا
+    arabic: جَمِيعٗا
     translation: (are) united
     transliteration: jamīʿan
   17:
-    arabic: وَّقُلُوۡبُهُمۡ
+    arabic: وَقُلُوبُهُمۡ
     translation: but their hearts
     transliteration: waqulūbuhum
   18:
-    arabic: شَتّٰى​ؕ
+    arabic: شَتَّىٰۚ
     translation: (are) divided
     transliteration: shattā
   19:
-    arabic: ذٰلِكَ
+    arabic: ذَٰلِكَ
     translation: That
     transliteration: dhālika
   20:
-    arabic: بِاَنَّهُمۡ
+    arabic: بِأَنَّهُمۡ
     translation: (is) because they
     transliteration: bi-annahum
   21:
-    arabic: قَوۡمٌ
+    arabic: قَوۡمٞ
     translation: (are) a people
     transliteration: qawmun
   22:
@@ -96,7 +96,7 @@ word_by_word:
     translation: not
     transliteration: lā
   23:
-    arabic: يَعۡقِلُوۡنَ​ۚ‏
+    arabic: يَعۡقِلُونَ
     translation: they reason
     transliteration: yaʿqilūna
 ---

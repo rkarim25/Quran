@@ -1,5 +1,5 @@
 ---
-arabic_ayat: بَلِ الَّذِيۡنَ كَفَرُوۡا فِىۡ عِزَّةٍ وَّشِقَاقٍ‏
+arabic_ayat: بَلِ ٱلَّذِينَ كَفَرُواْ فِي عِزَّةٖ وَشِقَاقٖ
 sentence_translation: ˹This is the truth,˺ yet the disbelievers are ˹entrenched˺ in
   arrogance and opposition.
 word_by_word:
@@ -8,23 +8,23 @@ word_by_word:
     translation: Nay
     transliteration: bali
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   3:
-    arabic: كَفَرُوۡا
+    arabic: كَفَرُواْ
     translation: disbelieve
     transliteration: kafarū
   4:
-    arabic: فِىۡ
+    arabic: فِي
     translation: (are) in
     transliteration: fī
   5:
-    arabic: عِزَّةٍ
+    arabic: عِزَّةٖ
     translation: self-glory
     transliteration: ʿizzatin
   6:
-    arabic: وَّشِقَاقٍ‏
+    arabic: وَشِقَاقٖ
     translation: and opposition
     transliteration: washiqāqin
 ---

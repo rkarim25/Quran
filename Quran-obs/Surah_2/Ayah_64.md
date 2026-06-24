@@ -1,6 +1,6 @@
 ---
-arabic_ayat: ثُمَّ تَوَلَّيۡتُمۡ مِّنۡۢ بَعۡدِ ذٰلِكَ​​ۚ فَلَوۡلَا فَضۡلُ اللّٰهِ
-  عَلَيۡكُمۡ وَرَحۡمَتُهٗ لَـكُنۡتُمۡ مِّنَ الۡخٰسِرِيۡنَ‏
+arabic_ayat: ثُمَّ تَوَلَّيۡتُم مِّنۢ بَعۡدِ ذَٰلِكَۖ فَلَوۡلَا فَضۡلُ ٱللَّهِ عَلَيۡكُمۡ
+  وَرَحۡمَتُهُۥ لَكُنتُم مِّنَ ٱلۡخَٰسِرِينَ
 sentence_translation: Yet you turned away afterwards. Had it not been for Allah’s
   grace and mercy upon you, you would have certainly been of the losers.
 word_by_word:
@@ -9,11 +9,11 @@ word_by_word:
     translation: Then
     transliteration: thumma
   2:
-    arabic: تَوَلَّيۡتُمۡ
+    arabic: تَوَلَّيۡتُم
     translation: you turned away
     transliteration: tawallaytum
   3:
-    arabic: مِّنۡۢ
+    arabic: مِّنۢ
     translation: from
     transliteration: min
   4:
@@ -21,7 +21,7 @@ word_by_word:
     translation: after
     transliteration: baʿdi
   5:
-    arabic: ذٰلِكَ​​ۚ
+    arabic: ذَٰلِكَۖ
     translation: that
     transliteration: dhālika
   6:
@@ -33,7 +33,7 @@ word_by_word:
     translation: (for the) Grace
     transliteration: faḍlu
   8:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (of) Allah
     transliteration: l-lahi
   9:
@@ -41,11 +41,11 @@ word_by_word:
     translation: upon you
     transliteration: ʿalaykum
   10:
-    arabic: وَرَحۡمَتُهٗ
+    arabic: وَرَحۡمَتُهُۥ
     translation: and His Mercy
     transliteration: waraḥmatuhu
   11:
-    arabic: لَـكُنۡتُمۡ
+    arabic: لَكُنتُم
     translation: surely you would have been
     transliteration: lakuntum
   12:
@@ -53,7 +53,7 @@ word_by_word:
     translation: of
     transliteration: mina
   13:
-    arabic: الۡخٰسِرِيۡنَ‏
+    arabic: ٱلۡخَٰسِرِينَ
     translation: the losers
     transliteration: l-khāsirīna
 ---

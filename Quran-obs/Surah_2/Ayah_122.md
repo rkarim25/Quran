@@ -1,31 +1,31 @@
 ---
-arabic_ayat: يٰبَنِىۡٓ اِسۡرَآءِيۡلَ اذۡكُرُوۡا نِعۡمَتِىَ الَّتِىۡٓ اَنۡعَمۡتُ عَلَيۡكُمۡ
-  وَاَنِّىۡ فَضَّلۡتُكُمۡ عَلَى الۡعٰلَمِيۡنَ‏
+arabic_ayat: يَٰبَنِيٓ إِسۡرَٰٓءِيلَ ٱذۡكُرُواْ نِعۡمَتِيَ ٱلَّتِيٓ أَنۡعَمۡتُ عَلَيۡكُمۡ
+  وَأَنِّي فَضَّلۡتُكُمۡ عَلَى ٱلۡعَٰلَمِينَ
 sentence_translation: O Children of Israel! Remember My favours upon you and how I
   honoured you above the others.
 word_by_word:
   1:
-    arabic: يٰبَنِىۡٓ
+    arabic: يَٰبَنِيٓ
     translation: O Children
     transliteration: yābanī
   2:
-    arabic: اِسۡرَآءِيۡلَ
+    arabic: إِسۡرَٰٓءِيلَ
     translation: (of) Israel
     transliteration: is'rāīla
   3:
-    arabic: اذۡكُرُوۡا
+    arabic: ٱذۡكُرُواْ
     translation: Remember
     transliteration: udh'kurū
   4:
-    arabic: نِعۡمَتِىَ
+    arabic: نِعۡمَتِيَ
     translation: My Favor
     transliteration: niʿ'matiya
   5:
-    arabic: الَّتِىۡٓ
+    arabic: ٱلَّتِيٓ
     translation: which
     transliteration: allatī
   6:
-    arabic: اَنۡعَمۡتُ
+    arabic: أَنۡعَمۡتُ
     translation: I bestowed
     transliteration: anʿamtu
   7:
@@ -33,7 +33,7 @@ word_by_word:
     translation: upon you
     transliteration: ʿalaykum
   8:
-    arabic: وَاَنِّىۡ
+    arabic: وَأَنِّي
     translation: and that I
     transliteration: wa-annī
   9:
@@ -45,7 +45,7 @@ word_by_word:
     translation: over
     transliteration: ʿalā
   11:
-    arabic: الۡعٰلَمِيۡنَ‏
+    arabic: ٱلۡعَٰلَمِينَ
     translation: the worlds
     transliteration: l-ʿālamīna
 ---

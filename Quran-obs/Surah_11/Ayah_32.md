@@ -1,15 +1,15 @@
 ---
-arabic_ayat: قَالُوۡا يٰـنُوۡحُ قَدۡ جَادَلۡتَـنَا فَاَكۡثَرۡتَ جِدَالـنَا فَاۡتِنَا
-  بِمَا تَعِدُنَاۤ اِنۡ كُنۡتَ مِنَ الصّٰدِقِيۡنَ‏
+arabic_ayat: قَالُواْ يَٰنُوحُ قَدۡ جَٰدَلۡتَنَا فَأَكۡثَرۡتَ جِدَٰلَنَا فَأۡتِنَا
+  بِمَا تَعِدُنَآ إِن كُنتَ مِنَ ٱلصَّٰدِقِينَ
 sentence_translation: They protested, “O Noah! You have argued with us far too much,
   so bring upon us what you threaten us with, if what you say is true.”
 word_by_word:
   1:
-    arabic: قَالُوۡا
+    arabic: قَالُواْ
     translation: They said
     transliteration: qālū
   2:
-    arabic: يٰـنُوۡحُ
+    arabic: يَٰنُوحُ
     translation: O Nuh
     transliteration: yānūḥu
   3:
@@ -17,19 +17,19 @@ word_by_word:
     translation: Indeed
     transliteration: qad
   4:
-    arabic: جَادَلۡتَـنَا
+    arabic: جَٰدَلۡتَنَا
     translation: you disputed with us
     transliteration: jādaltanā
   5:
-    arabic: فَاَكۡثَرۡتَ
+    arabic: فَأَكۡثَرۡتَ
     translation: and you (have been) frequent
     transliteration: fa-aktharta
   6:
-    arabic: جِدَالـنَا
+    arabic: جِدَٰلَنَا
     translation: (in) dispute with us
     transliteration: jidālanā
   7:
-    arabic: فَاۡتِنَا
+    arabic: فَأۡتِنَا
     translation: So bring us
     transliteration: fatinā
   8:
@@ -37,15 +37,15 @@ word_by_word:
     translation: what
     transliteration: bimā
   9:
-    arabic: تَعِدُنَاۤ
+    arabic: تَعِدُنَآ
     translation: you threaten us (with)
     transliteration: taʿidunā
   10:
-    arabic: اِنۡ
+    arabic: إِن
     translation: if
     transliteration: in
   11:
-    arabic: كُنۡتَ
+    arabic: كُنتَ
     translation: you are
     transliteration: kunta
   12:
@@ -53,7 +53,7 @@ word_by_word:
     translation: of
     transliteration: mina
   13:
-    arabic: الصّٰدِقِيۡنَ‏
+    arabic: ٱلصَّٰدِقِينَ
     translation: the truthful
     transliteration: l-ṣādiqīna
 ---

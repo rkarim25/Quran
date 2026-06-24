@@ -1,5 +1,5 @@
 ---
-arabic_ayat: قَالَ اَلۡقِهَا يٰمُوۡسٰى‏
+arabic_ayat: قَالَ أَلۡقِهَا يَٰمُوسَىٰ
 sentence_translation: Allah said, “Throw it down, O  Moses!”
 word_by_word:
   1:
@@ -7,11 +7,11 @@ word_by_word:
     translation: He said
     transliteration: qāla
   2:
-    arabic: اَلۡقِهَا
+    arabic: أَلۡقِهَا
     translation: Throw it down
     transliteration: alqihā
   3:
-    arabic: يٰمُوۡسٰى‏
+    arabic: يَٰمُوسَىٰ
     translation: O Musa
     transliteration: yāmūsā
 ---

@@ -1,30 +1,30 @@
 ---
-arabic_ayat: اِنَّا كَاشِفُوا الۡعَذَابِ قَلِيۡلًا اِنَّكُمۡ عَآٮِٕدُوۡنَ​ۘ‏
+arabic_ayat: إِنَّا كَاشِفُواْ ٱلۡعَذَابِ قَلِيلًاۚ إِنَّكُمۡ عَآئِدُونَ
 sentence_translation: Indeed, We will remove ˹that˺ torment for a while, and you ˹Meccans˺
   will return ˹to disbelief˺.
 word_by_word:
   1:
-    arabic: اِنَّا
+    arabic: إِنَّا
     translation: Indeed, We
     transliteration: innā
   2:
-    arabic: كَاشِفُوا
+    arabic: كَاشِفُواْ
     translation: (will) remove
     transliteration: kāshifū
   3:
-    arabic: الۡعَذَابِ
+    arabic: ٱلۡعَذَابِ
     translation: the punishment
     transliteration: l-ʿadhābi
   4:
-    arabic: قَلِيۡلًا
+    arabic: قَلِيلًاۚ
     translation: a little
     transliteration: qalīlan
   5:
-    arabic: اِنَّكُمۡ
+    arabic: إِنَّكُمۡ
     translation: indeed, you
     transliteration: innakum
   6:
-    arabic: عَآٮِٕدُوۡنَ​ۘ‏
+    arabic: عَآئِدُونَ
     translation: (will) return
     transliteration: ʿāidūna
 ---

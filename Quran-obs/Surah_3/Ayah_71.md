@@ -1,15 +1,15 @@
 ---
-arabic_ayat: يٰۤـاَهۡلَ الۡكِتٰبِ لِمَ تَلۡبِسُوۡنَ الۡحَـقَّ بِالۡبَاطِلِ وَتَكۡتُمُوۡنَ
-  الۡحَـقَّ وَاَنۡـتُمۡ تَعۡلَمُوۡنَ‏
+arabic_ayat: يَٰٓأَهۡلَ ٱلۡكِتَٰبِ لِمَ تَلۡبِسُونَ ٱلۡحَقَّ بِٱلۡبَٰطِلِ وَتَكۡتُمُونَ
+  ٱلۡحَقَّ وَأَنتُمۡ تَعۡلَمُونَ
 sentence_translation: O  People of the Book! Why do you mix the truth with falsehood
   and hide the truth knowingly?
 word_by_word:
   1:
-    arabic: يٰۤـاَهۡلَ
+    arabic: يَٰٓأَهۡلَ
     translation: O People
     transliteration: yāahla
   2:
-    arabic: الۡكِتٰبِ
+    arabic: ٱلۡكِتَٰبِ
     translation: (of) the Book
     transliteration: l-kitābi
   3:
@@ -17,31 +17,31 @@ word_by_word:
     translation: Why
     transliteration: lima
   4:
-    arabic: تَلۡبِسُوۡنَ
+    arabic: تَلۡبِسُونَ
     translation: do you mix
     transliteration: talbisūna
   5:
-    arabic: الۡحَـقَّ
+    arabic: ٱلۡحَقَّ
     translation: the truth
     transliteration: l-ḥaqa
   6:
-    arabic: بِالۡبَاطِلِ
+    arabic: بِٱلۡبَٰطِلِ
     translation: with the falsehood
     transliteration: bil-bāṭili
   7:
-    arabic: وَتَكۡتُمُوۡنَ
+    arabic: وَتَكۡتُمُونَ
     translation: and conceal
     transliteration: wataktumūna
   8:
-    arabic: الۡحَـقَّ
+    arabic: ٱلۡحَقَّ
     translation: the truth
     transliteration: l-ḥaqa
   9:
-    arabic: وَاَنۡـتُمۡ
+    arabic: وَأَنتُمۡ
     translation: while you
     transliteration: wa-antum
   10:
-    arabic: تَعۡلَمُوۡنَ‏
+    arabic: تَعۡلَمُونَ
     translation: know
     transliteration: taʿlamūna
 ---

@@ -1,15 +1,15 @@
 ---
-arabic_ayat: وَاِنۡ جَنَحُوۡا لِلسَّلۡمِ فَاجۡنَحۡ لَهَا وَتَوَكَّلۡ عَلَى اللّٰهِ​ؕ
-  اِنَّهٗ هُوَ السَّمِيۡعُ الۡعَلِيۡمُ‏
+arabic_ayat: ۞ وَإِن جَنَحُواْ لِلسَّلۡمِ فَٱجۡنَحۡ لَهَا وَتَوَكَّلۡ عَلَى ٱللَّهِۚ
+  إِنَّهُۥ هُوَ ٱلسَّمِيعُ ٱلۡعَلِيمُ
 sentence_translation: If the enemy is inclined towards peace, make peace with them.
   And put your trust in Allah. Indeed, He ˹alone˺ is the All-Hearing, All-Knowing.
 word_by_word:
   1:
-    arabic: ۞ وَاِنۡ
+    arabic: ۞ وَإِن
     translation: And if
     transliteration: wa-in
   2:
-    arabic: جَنَحُوۡا
+    arabic: جَنَحُواْ
     translation: they incline
     transliteration: janaḥū
   3:
@@ -17,7 +17,7 @@ word_by_word:
     translation: to peace
     transliteration: lilssalmi
   4:
-    arabic: فَاجۡنَحۡ
+    arabic: فَٱجۡنَحۡ
     translation: then you (also) incline
     transliteration: fa-ij'naḥ
   5:
@@ -33,11 +33,11 @@ word_by_word:
     translation: in
     transliteration: ʿalā
   8:
-    arabic: اللّٰهِ​ؕ
+    arabic: ٱللَّهِۚ
     translation: Allah
     transliteration: l-lahi
   9:
-    arabic: اِنَّهٗ
+    arabic: إِنَّهُۥ
     translation: Indeed
     transliteration: innahu
   10:
@@ -45,11 +45,11 @@ word_by_word:
     translation: He
     transliteration: huwa
   11:
-    arabic: السَّمِيۡعُ
+    arabic: ٱلسَّمِيعُ
     translation: (is) All-Hearer
     transliteration: l-samīʿu
   12:
-    arabic: الۡعَلِيۡمُ‏
+    arabic: ٱلۡعَلِيمُ
     translation: All-Knower
     transliteration: l-ʿalīmu
 ---

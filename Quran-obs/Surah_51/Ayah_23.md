@@ -1,6 +1,6 @@
 ---
-arabic_ayat: فَوَرَبِّ السَّمَآءِ وَالۡاَرۡضِ اِنَّهٗ لَحَـقٌّ مِّثۡلَ مَاۤ اَنَّكُمۡ
-  تَنۡطِقُوۡنَ‏
+arabic_ayat: فَوَرَبِّ ٱلسَّمَآءِ وَٱلۡأَرۡضِ إِنَّهُۥ لَحَقّٞ مِّثۡلَ مَآ أَنَّكُمۡ
+  تَنطِقُونَ
 sentence_translation: Then by the Lord of heaven and earth! ˹All˺ this is certainly
   as true as ˹the fact that˺ you can speak!
 word_by_word:
@@ -9,19 +9,19 @@ word_by_word:
     translation: Then by (the) Lord
     transliteration: fawarabbi
   2:
-    arabic: السَّمَآءِ
+    arabic: ٱلسَّمَآءِ
     translation: (of) the heaven
     transliteration: l-samāi
   3:
-    arabic: وَالۡاَرۡضِ
+    arabic: وَٱلۡأَرۡضِ
     translation: and the earth
     transliteration: wal-arḍi
   4:
-    arabic: اِنَّهٗ
+    arabic: إِنَّهُۥ
     translation: indeed, it
     transliteration: innahu
   5:
-    arabic: لَحَـقٌّ
+    arabic: لَحَقّٞ
     translation: (is) surely (the) truth
     transliteration: laḥaqqun
   6:
@@ -29,15 +29,15 @@ word_by_word:
     translation: (just) as
     transliteration: mith'la
   7:
-    arabic: مَاۤ
+    arabic: مَآ
     translation: '[what]'
     transliteration: mā
   8:
-    arabic: اَنَّكُمۡ
+    arabic: أَنَّكُمۡ
     translation: you
     transliteration: annakum
   9:
-    arabic: تَنۡطِقُوۡنَ‏
+    arabic: تَنطِقُونَ
     translation: speak
     transliteration: tanṭiqūna
 ---

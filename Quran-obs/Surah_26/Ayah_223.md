@@ -1,22 +1,22 @@
 ---
-arabic_ayat: يُّلۡقُوۡنَ السَّمۡعَ وَاَكۡثَرُهُمۡ كٰذِبُوۡنَؕ‏
+arabic_ayat: يُلۡقُونَ ٱلسَّمۡعَ وَأَكۡثَرُهُمۡ كَٰذِبُونَ
 sentence_translation: who gives an ˹attentive˺ ear ˹to half-truths˺, mostly passing
   on sheer lies. 
 word_by_word:
   1:
-    arabic: يُّلۡقُوۡنَ
+    arabic: يُلۡقُونَ
     translation: They pass on
     transliteration: yul'qūna
   2:
-    arabic: السَّمۡعَ
+    arabic: ٱلسَّمۡعَ
     translation: (what is) heard
     transliteration: l-samʿa
   3:
-    arabic: وَاَكۡثَرُهُمۡ
+    arabic: وَأَكۡثَرُهُمۡ
     translation: and most of them
     transliteration: wa-aktharuhum
   4:
-    arabic: كٰذِبُوۡنَؕ‏
+    arabic: كَٰذِبُونَ
     translation: (are) liars
     transliteration: kādhibūna
 ---

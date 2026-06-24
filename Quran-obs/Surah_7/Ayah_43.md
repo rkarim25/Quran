@@ -1,9 +1,8 @@
 ---
-arabic_ayat: "وَنَزَعۡنَا مَا فِىۡ صُدُوۡرِهِمۡ مِّنۡ غِلٍّ تَجۡرِىۡ مِنۡ تَحۡتِهِمُ\
-  \ الۡاَنۡهٰرُ​ۚ وَقَالُوا الۡحَمۡدُ لِلّٰهِ الَّذِىۡ هَدٰٮنَا لِهٰذَا وَمَا كُنَّا\
-  \ لِنَهۡتَدِىَ لَوۡلَاۤ اَنۡ هَدٰٮنَا اللّٰهُ​ ​ۚ لَقَدۡ جَآءَتۡ رُسُلُ رَبِّنَا\
-  \ بِالۡحَـقِّ​ ؕ وَنُوۡدُوۡۤا اَنۡ تِلۡكُمُ الۡجَـنَّةُ اُوۡرِثۡتُمُوۡهَا بِمَا\
-  \ كُنۡتُمۡ تَعۡمَلُوۡنَ‏ \uFEFF\uFEFF"
+arabic_ayat: وَنَزَعۡنَا مَا فِي صُدُورِهِم مِّنۡ غِلّٖ تَجۡرِي مِن تَحۡتِهِمُ ٱلۡأَنۡهَٰرُۖ
+  وَقَالُواْ ٱلۡحَمۡدُ لِلَّهِ ٱلَّذِي هَدَىٰنَا لِهَٰذَا وَمَا كُنَّا لِنَهۡتَدِيَ
+  لَوۡلَآ أَنۡ هَدَىٰنَا ٱللَّهُۖ لَقَدۡ جَآءَتۡ رُسُلُ رَبِّنَا بِٱلۡحَقِّۖ وَنُودُوٓاْ
+  أَن تِلۡكُمُ ٱلۡجَنَّةُ أُورِثۡتُمُوهَا بِمَا كُنتُمۡ تَعۡمَلُونَ
 sentence_translation: We will remove whatever bitterness they had in their hearts. Rivers
   will flow under their feet. And they will say, “Praise be to Allah for guiding us
   to this. We would have never been guided if Allah had not guided us. The messengers
@@ -19,11 +18,11 @@ word_by_word:
     translation: whatever
     transliteration: mā
   3:
-    arabic: فِىۡ
+    arabic: فِي
     translation: (is) in
     transliteration: fī
   4:
-    arabic: صُدُوۡرِهِمۡ
+    arabic: صُدُورِهِم
     translation: their breasts
     transliteration: ṣudūrihim
   5:
@@ -31,15 +30,15 @@ word_by_word:
     translation: of
     transliteration: min
   6:
-    arabic: غِلٍّ
+    arabic: غِلّٖ
     translation: malice
     transliteration: ghillin
   7:
-    arabic: تَجۡرِىۡ
+    arabic: تَجۡرِي
     translation: Flows
     transliteration: tajrī
   8:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   9:
@@ -47,31 +46,31 @@ word_by_word:
     translation: underneath them
     transliteration: taḥtihimu
   10:
-    arabic: الۡاَنۡهٰرُ​ۚ
+    arabic: ٱلۡأَنۡهَٰرُۖ
     translation: the rivers
     transliteration: l-anhāru
   11:
-    arabic: وَقَالُوا
+    arabic: وَقَالُواْ
     translation: And they will say
     transliteration: waqālū
   12:
-    arabic: الۡحَمۡدُ
+    arabic: ٱلۡحَمۡدُ
     translation: All the praise
     transliteration: l-ḥamdu
   13:
-    arabic: لِلّٰهِ
+    arabic: لِلَّهِ
     translation: (is) for Allah
     transliteration: lillahi
   14:
-    arabic: الَّذِىۡ
+    arabic: ٱلَّذِي
     translation: the One Who
     transliteration: alladhī
   15:
-    arabic: هَدٰٮنَا
+    arabic: هَدَىٰنَا
     translation: guided us
     transliteration: hadānā
   16:
-    arabic: لِهٰذَا
+    arabic: لِهَٰذَا
     translation: to this
     transliteration: lihādhā
   17:
@@ -83,23 +82,23 @@ word_by_word:
     translation: we were
     transliteration: kunnā
   19:
-    arabic: لِنَهۡتَدِىَ
+    arabic: لِنَهۡتَدِيَ
     translation: to receive guidance
     transliteration: linahtadiya
   20:
-    arabic: لَوۡلَاۤ
+    arabic: لَوۡلَآ
     translation: if not
     transliteration: lawlā
   21:
-    arabic: اَنۡ
+    arabic: أَنۡ
     translation: '[that]'
     transliteration: an
   22:
-    arabic: هَدٰٮنَا
+    arabic: هَدَىٰنَا
     translation: (had) guided us
     transliteration: hadānā
   23:
-    arabic: اللّٰهُ​ ​ۚ
+    arabic: ٱللَّهُۖ
     translation: Allah
     transliteration: l-lahu
   24:
@@ -119,15 +118,15 @@ word_by_word:
     translation: (of) our Lord
     transliteration: rabbinā
   28:
-    arabic: بِالۡحَـقِّ​ ؕ
+    arabic: بِٱلۡحَقِّۖ
     translation: with the truth
     transliteration: bil-ḥaqi
   29:
-    arabic: وَنُوۡدُوۡۤا
+    arabic: وَنُودُوٓاْ
     translation: And they will be addressed
     transliteration: wanūdū
   30:
-    arabic: اَنۡ
+    arabic: أَن
     translation: '[that]'
     transliteration: an
   31:
@@ -135,11 +134,11 @@ word_by_word:
     translation: This
     transliteration: til'kumu
   32:
-    arabic: الۡجَـنَّةُ
+    arabic: ٱلۡجَنَّةُ
     translation: (is) Paradise
     transliteration: l-janatu
   33:
-    arabic: اُوۡرِثۡتُمُوۡهَا
+    arabic: أُورِثۡتُمُوهَا
     translation: you have been made to inherit it
     transliteration: ūrith'tumūhā
   34:
@@ -147,11 +146,11 @@ word_by_word:
     translation: for what
     transliteration: bimā
   35:
-    arabic: كُنۡتُمۡ
+    arabic: كُنتُمۡ
     translation: you used to
     transliteration: kuntum
   36:
-    arabic: "تَعۡمَلُوۡنَ‏ \uFEFF\uFEFF"
+    arabic: تَعۡمَلُونَ
     translation: do
     transliteration: taʿmalūna
 ---

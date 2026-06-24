@@ -1,5 +1,5 @@
 ---
-arabic_ayat: سَنَدۡعُ الزَّبَانِيَةَ ۙ‏
+arabic_ayat: سَنَدۡعُ ٱلزَّبَانِيَةَ
 sentence_translation: We will call the wardens of Hell.
 word_by_word:
   1:
@@ -7,7 +7,7 @@ word_by_word:
     translation: We will call
     transliteration: sanadʿu
   2:
-    arabic: الزَّبَانِيَةَ ۙ‏
+    arabic: ٱلزَّبَانِيَةَ
     translation: the Angels of Hell
     transliteration: l-zabāniyata
 ---

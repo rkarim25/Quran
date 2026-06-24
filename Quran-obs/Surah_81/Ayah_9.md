@@ -1,17 +1,17 @@
 ---
-arabic_ayat: بِاَىِّ ذَنۡۢبٍ قُتِلَتۡ​ۚ‏
+arabic_ayat: بِأَيِّ ذَنۢبٖ قُتِلَتۡ
 sentence_translation: for what crime they were put to death,
 word_by_word:
   1:
-    arabic: بِاَىِّ
+    arabic: بِأَيِّ
     translation: For what
     transliteration: bi-ayyi
   2:
-    arabic: ذَنۡۢبٍ
+    arabic: ذَنۢبٖ
     translation: sin
     transliteration: dhanbin
   3:
-    arabic: قُتِلَتۡ​ۚ‏
+    arabic: قُتِلَتۡ
     translation: she was killed
     transliteration: qutilat
 ---

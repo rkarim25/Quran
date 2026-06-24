@@ -1,17 +1,17 @@
 ---
-arabic_ayat: وَاَقِيۡمُوا الۡوَزۡنَ بِالۡقِسۡطِ وَلَا تُخۡسِرُوا الۡمِيۡزَانَ‏
+arabic_ayat: وَأَقِيمُواْ ٱلۡوَزۡنَ بِٱلۡقِسۡطِ وَلَا تُخۡسِرُواْ ٱلۡمِيزَانَ
 sentence_translation: Weigh with justice, and do not give short measure.
 word_by_word:
   1:
-    arabic: وَاَقِيۡمُوا
+    arabic: وَأَقِيمُواْ
     translation: And establish
     transliteration: wa-aqīmū
   2:
-    arabic: الۡوَزۡنَ
+    arabic: ٱلۡوَزۡنَ
     translation: the weight
     transliteration: l-wazna
   3:
-    arabic: بِالۡقِسۡطِ
+    arabic: بِٱلۡقِسۡطِ
     translation: in justice
     transliteration: bil-qis'ṭi
   4:
@@ -19,11 +19,11 @@ word_by_word:
     translation: and (do) not
     transliteration: walā
   5:
-    arabic: تُخۡسِرُوا
+    arabic: تُخۡسِرُواْ
     translation: make deficient
     transliteration: tukh'sirū
   6:
-    arabic: الۡمِيۡزَانَ‏
+    arabic: ٱلۡمِيزَانَ
     translation: the balance
     transliteration: l-mīzāna
 ---

@@ -1,59 +1,59 @@
 ---
-arabic_ayat: ذٰ لِكَ بِاَنَّهُمۡ شَآ قُّوا اللّٰهَ وَرَسُوۡلَهٗ​ ۚ وَمَنۡ يُّشَاقِقِ
-  اللّٰهَ وَرَسُوۡلَهٗ فَاِنَّ اللّٰهَ شَدِيۡدُ الۡعِقَابِ‏
+arabic_ayat: ذَٰلِكَ بِأَنَّهُمۡ شَآقُّواْ ٱللَّهَ وَرَسُولَهُۥۚ وَمَن يُشَاقِقِ
+  ٱللَّهَ وَرَسُولَهُۥ فَإِنَّ ٱللَّهَ شَدِيدُ ٱلۡعِقَابِ
 sentence_translation: This is because they defied Allah and His Messenger. And whoever
   defies Allah and His Messenger, then ˹know that˺ Allah is surely severe in punishment.
 word_by_word:
   1:
-    arabic: ذٰ لِكَ
+    arabic: ذَٰلِكَ
     translation: That
     transliteration: dhālika
   2:
-    arabic: بِاَنَّهُمۡ
+    arabic: بِأَنَّهُمۡ
     translation: (is) because they
     transliteration: bi-annahum
   3:
-    arabic: شَآ قُّوا
+    arabic: شَآقُّواْ
     translation: opposed
     transliteration: shāqqū
   4:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   5:
-    arabic: وَرَسُوۡلَهٗ​ ۚ
+    arabic: وَرَسُولَهُۥۚ
     translation: and His Messenger
     transliteration: warasūlahu
   6:
-    arabic: وَمَنۡ
+    arabic: وَمَن
     translation: And whoever
     transliteration: waman
   7:
-    arabic: يُّشَاقِقِ
+    arabic: يُشَاقِقِ
     translation: opposes
     transliteration: yushāqiqi
   8:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   9:
-    arabic: وَرَسُوۡلَهٗ
+    arabic: وَرَسُولَهُۥ
     translation: and His Messenger
     transliteration: warasūlahu
   10:
-    arabic: فَاِنَّ
+    arabic: فَإِنَّ
     translation: then indeed
     transliteration: fa-inna
   11:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   12:
-    arabic: شَدِيۡدُ
+    arabic: شَدِيدُ
     translation: (is) severe
     transliteration: shadīdu
   13:
-    arabic: الۡعِقَابِ‏
+    arabic: ٱلۡعِقَابِ
     translation: in [the] penalty
     transliteration: l-ʿiqābi
 ---

@@ -1,22 +1,22 @@
 ---
-arabic_ayat: اَوَلَمَّاۤ اَصَابَتۡكُمۡ مُّصِيۡبَةٌ قَدۡ اَصَبۡتُمۡ مِّثۡلَيۡهَا ۙ
-  قُلۡتُمۡ اَنّٰى هٰذَا​ؕ قُلۡ هُوَ مِنۡ عِنۡدِ اَنۡفُسِكُمۡ ​ؕ اِنَّ اللّٰهَ عَلٰى
-  كُلِّ شَىۡءٍ قَدِيۡرٌ‏
+arabic_ayat: أَوَلَمَّآ أَصَٰبَتۡكُم مُّصِيبَةٞ قَدۡ أَصَبۡتُم مِّثۡلَيۡهَا قُلۡتُمۡ
+  أَنَّىٰ هَٰذَاۖ قُلۡ هُوَ مِنۡ عِندِ أَنفُسِكُمۡۗ إِنَّ ٱللَّهَ عَلَىٰ كُلِّ شَيۡءٖ
+  قَدِيرٞ
 sentence_translation: Why is it when you suffered casualties ˹at Uḥud˺—although you
   had made your enemy suffer twice as much ˹at Badr˺—you protested, “How could this
   be?”? Say, ˹O Prophet,˺ “It is because of your disobedience.” Surely Allah is Most
   Capable of everything.
 word_by_word:
   1:
-    arabic: اَوَلَمَّاۤ
+    arabic: أَوَلَمَّآ
     translation: Or when
     transliteration: awalammā
   2:
-    arabic: اَصَابَتۡكُمۡ
+    arabic: أَصَٰبَتۡكُم
     translation: struck you
     transliteration: aṣābatkum
   3:
-    arabic: مُّصِيۡبَةٌ
+    arabic: مُّصِيبَةٞ
     translation: disaster
     transliteration: muṣībatun
   4:
@@ -24,11 +24,11 @@ word_by_word:
     translation: surely
     transliteration: qad
   5:
-    arabic: اَصَبۡتُمۡ
+    arabic: أَصَبۡتُم
     translation: you (had) struck (them)
     transliteration: aṣabtum
   6:
-    arabic: مِّثۡلَيۡهَا ۙ
+    arabic: مِّثۡلَيۡهَا
     translation: twice of it
     transliteration: mith'layhā
   7:
@@ -36,11 +36,11 @@ word_by_word:
     translation: you said
     transliteration: qul'tum
   8:
-    arabic: اَنّٰى
+    arabic: أَنَّىٰ
     translation: From where
     transliteration: annā
   9:
-    arabic: هٰذَا​ؕ
+    arabic: هَٰذَاۖ
     translation: (is) this
     transliteration: hādhā
   10:
@@ -56,23 +56,23 @@ word_by_word:
     translation: (is)
     transliteration: min
   13:
-    arabic: عِنۡدِ
+    arabic: عِندِ
     translation: from
     transliteration: ʿindi
   14:
-    arabic: اَنۡفُسِكُمۡ ​ؕ
+    arabic: أَنفُسِكُمۡۗ
     translation: yourselves
     transliteration: anfusikum
   15:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   16:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   17:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: (is) on
     transliteration: ʿalā
   18:
@@ -80,11 +80,11 @@ word_by_word:
     translation: every
     transliteration: kulli
   19:
-    arabic: شَىۡءٍ
+    arabic: شَيۡءٖ
     translation: thing
     transliteration: shayin
   20:
-    arabic: قَدِيۡرٌ‏
+    arabic: قَدِيرٞ
     translation: All-Powerful
     transliteration: qadīrun
 ---

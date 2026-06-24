@@ -1,23 +1,23 @@
 ---
-arabic_ayat: وَمَنۡ يُّطِعِ اللّٰهَ وَرَسُوۡلَهٗ وَيَخۡشَ اللّٰهَ وَيَتَّقۡهِ فَاُولٰٓٮِٕكَ
-  هُمُ الۡفَآٮِٕزُوۡنَ‏
+arabic_ayat: وَمَن يُطِعِ ٱللَّهَ وَرَسُولَهُۥ وَيَخۡشَ ٱللَّهَ وَيَتَّقۡهِ فَأُوْلَٰٓئِكَ
+  هُمُ ٱلۡفَآئِزُونَ
 sentence_translation: For whoever obeys Allah and His Messenger, and fears Allah and
   is mindful of Him, then it is they who will ˹truly˺ triumph.
 word_by_word:
   1:
-    arabic: وَمَنۡ
+    arabic: وَمَن
     translation: And whoever
     transliteration: waman
   2:
-    arabic: يُّطِعِ
+    arabic: يُطِعِ
     translation: obeys
     transliteration: yuṭiʿi
   3:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   4:
-    arabic: وَرَسُوۡلَهٗ
+    arabic: وَرَسُولَهُۥ
     translation: and His Messenger
     transliteration: warasūlahu
   5:
@@ -25,7 +25,7 @@ word_by_word:
     translation: and fears
     transliteration: wayakhsha
   6:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   7:
@@ -33,7 +33,7 @@ word_by_word:
     translation: and (is) conscious of Him
     transliteration: wayattaqhi
   8:
-    arabic: فَاُولٰٓٮِٕكَ
+    arabic: فَأُوْلَٰٓئِكَ
     translation: then those
     transliteration: fa-ulāika
   9:
@@ -41,7 +41,7 @@ word_by_word:
     translation: '[they]'
     transliteration: humu
   10:
-    arabic: الۡفَآٮِٕزُوۡنَ‏
+    arabic: ٱلۡفَآئِزُونَ
     translation: (are) the successful ones
     transliteration: l-fāizūna
 ---

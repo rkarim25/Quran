@@ -1,28 +1,28 @@
 ---
-arabic_ayat: وَمَنۡ يُّسۡلِمۡ وَجۡهَهٗۤ اِلَى اللّٰهِ وَهُوَ مُحۡسِنٌ فَقَدِ اسۡتَمۡسَكَ
-  بِالۡعُرۡوَةِ الۡوُثۡقٰى​ؕ وَاِلَى اللّٰهِ عَاقِبَةُ الۡاُمُوۡرِ‏
+arabic_ayat: ۞ وَمَن يُسۡلِمۡ وَجۡهَهُۥٓ إِلَى ٱللَّهِ وَهُوَ مُحۡسِنٞ فَقَدِ ٱسۡتَمۡسَكَ
+  بِٱلۡعُرۡوَةِ ٱلۡوُثۡقَىٰۗ وَإِلَى ٱللَّهِ عَٰقِبَةُ ٱلۡأُمُورِ
 sentence_translation: Whoever fully submits themselves to Allah and is a good-doer,
   they have certainly grasped the firmest hand-hold. And with Allah rests the outcome
   of ˹all˺ affairs.
 word_by_word:
   1:
-    arabic: ۞ وَمَنۡ
+    arabic: ۞ وَمَن
     translation: And whoever
     transliteration: waman
   2:
-    arabic: يُّسۡلِمۡ
+    arabic: يُسۡلِمۡ
     translation: submits
     transliteration: yus'lim
   3:
-    arabic: وَجۡهَهٗۤ
+    arabic: وَجۡهَهُۥٓ
     translation: his face
     transliteration: wajhahu
   4:
-    arabic: اِلَى
+    arabic: إِلَى
     translation: to
     transliteration: ilā
   5:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   6:
@@ -30,7 +30,7 @@ word_by_word:
     translation: while he
     transliteration: wahuwa
   7:
-    arabic: مُحۡسِنٌ
+    arabic: مُحۡسِنٞ
     translation: (is) a good-doer
     transliteration: muḥ'sinun
   8:
@@ -38,31 +38,31 @@ word_by_word:
     translation: then indeed
     transliteration: faqadi
   9:
-    arabic: اسۡتَمۡسَكَ
+    arabic: ٱسۡتَمۡسَكَ
     translation: he has grasped
     transliteration: is'tamsaka
   10:
-    arabic: بِالۡعُرۡوَةِ
+    arabic: بِٱلۡعُرۡوَةِ
     translation: the handhold
     transliteration: bil-ʿur'wati
   11:
-    arabic: الۡوُثۡقٰى​ؕ
+    arabic: ٱلۡوُثۡقَىٰۗ
     translation: the most trustworthy
     transliteration: l-wuth'qā
   12:
-    arabic: وَاِلَى
+    arabic: وَإِلَى
     translation: And to
     transliteration: wa-ilā
   13:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   14:
-    arabic: عَاقِبَةُ
+    arabic: عَٰقِبَةُ
     translation: (is the) end
     transliteration: ʿāqibatu
   15:
-    arabic: الۡاُمُوۡرِ‏
+    arabic: ٱلۡأُمُورِ
     translation: (of) the matters
     transliteration: l-umūri
 ---

@@ -1,9 +1,9 @@
 ---
-arabic_ayat: اِنَّهٗ ظَنَّ اَنۡ لَّنۡ يَّحُوۡرَ ۛۚ‏
+arabic_ayat: إِنَّهُۥ ظَنَّ أَن لَّن يَحُورَ
 sentence_translation: thinking they would never return ˹to Allah˺.
 word_by_word:
   1:
-    arabic: اِنَّهٗ
+    arabic: إِنَّهُۥ
     translation: Indeed, he
     transliteration: innahu
   2:
@@ -11,15 +11,15 @@ word_by_word:
     translation: (had) thought
     transliteration: ẓanna
   3:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that
     transliteration: an
   4:
-    arabic: لَّنۡ
+    arabic: لَّن
     translation: never
     transliteration: lan
   5:
-    arabic: يَّحُوۡرَ ۛۚ‏
+    arabic: يَحُورَ
     translation: he would return
     transliteration: yaḥūra
 ---

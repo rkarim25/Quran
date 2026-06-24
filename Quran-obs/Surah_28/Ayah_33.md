@@ -1,6 +1,5 @@
 ---
-arabic_ayat: "قَالَ رَبِّ اِنِّىۡ قَتَلۡتُ مِنۡهُمۡ نَفۡسًا فَاَخَافُ اَنۡ يَّقۡتُلُوۡنِ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: قَالَ رَبِّ إِنِّي قَتَلۡتُ مِنۡهُمۡ نَفۡسٗا فَأَخَافُ أَن يَقۡتُلُونِ
 sentence_translation: Moses appealed, “My Lord! I have indeed killed a man from them,
   so I fear they may kill me.
 word_by_word:
@@ -13,7 +12,7 @@ word_by_word:
     translation: My Lord
     transliteration: rabbi
   3:
-    arabic: اِنِّىۡ
+    arabic: إِنِّي
     translation: Indeed
     transliteration: innī
   4:
@@ -25,19 +24,19 @@ word_by_word:
     translation: of them
     transliteration: min'hum
   6:
-    arabic: نَفۡسًا
+    arabic: نَفۡسٗا
     translation: a man
     transliteration: nafsan
   7:
-    arabic: فَاَخَافُ
+    arabic: فَأَخَافُ
     translation: and I fear
     transliteration: fa-akhāfu
   8:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that
     transliteration: an
   9:
-    arabic: "يَّقۡتُلُوۡنِ‏ \uFEFF\uFEFF"
+    arabic: يَقۡتُلُونِ
     translation: they will kill me
     transliteration: yaqtulūni
 ---

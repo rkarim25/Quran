@@ -1,7 +1,7 @@
 ---
-arabic_ayat: وَمَا قَدَرُوْا اللّٰهَ حَقَّ قَدۡرِهٖ ​ۖ  وَالۡاَرۡضُ جَمِيۡعًا قَبۡضَتُهٗ
-  يَوۡمَ الۡقِيٰمَةِ وَالسَّمٰوٰتُ مَطۡوِيّٰتٌۢ بِيَمِيۡنِهٖ​ ؕ سُبۡحٰنَهٗ وَتَعٰلٰى
-  عَمَّا يُشۡرِكُوۡنَ‏
+arabic_ayat: وَمَا قَدَرُواْ ٱللَّهَ حَقَّ قَدۡرِهِۦ وَٱلۡأَرۡضُ جَمِيعٗا قَبۡضَتُهُۥ
+  يَوۡمَ ٱلۡقِيَٰمَةِ وَٱلسَّمَٰوَٰتُ مَطۡوِيَّٰتُۢ بِيَمِينِهِۦۚ سُبۡحَٰنَهُۥ وَتَعَٰلَىٰ
+  عَمَّا يُشۡرِكُونَ
 sentence_translation: They have not shown Allah His proper reverence—when on the Day
   of Judgment the ˹whole˺ earth will be in His Grip, and the heavens will be rolled
   up in His Right Hand. Glorified and Exalted is He above what they associate ˹with
@@ -12,11 +12,11 @@ word_by_word:
     translation: And not
     transliteration: wamā
   2:
-    arabic: قَدَرُوْا
+    arabic: قَدَرُواْ
     translation: they appraised
     transliteration: qadarū
   3:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   4:
@@ -24,19 +24,19 @@ word_by_word:
     translation: (with) true
     transliteration: ḥaqqa
   5:
-    arabic: قَدۡرِهٖ ​ۖ 
+    arabic: قَدۡرِهِۦ
     translation: appraisal
     transliteration: qadrihi
   6:
-    arabic: وَالۡاَرۡضُ
+    arabic: وَٱلۡأَرۡضُ
     translation: while the earth
     transliteration: wal-arḍu
   7:
-    arabic: جَمِيۡعًا
+    arabic: جَمِيعٗا
     translation: entirely
     transliteration: jamīʿan
   8:
-    arabic: قَبۡضَتُهٗ
+    arabic: قَبۡضَتُهُۥ
     translation: (will be) in His Grip
     transliteration: qabḍatuhu
   9:
@@ -44,27 +44,27 @@ word_by_word:
     translation: (on the) Day
     transliteration: yawma
   10:
-    arabic: الۡقِيٰمَةِ
+    arabic: ٱلۡقِيَٰمَةِ
     translation: (of) the Resurrection
     transliteration: l-qiyāmati
   11:
-    arabic: وَالسَّمٰوٰتُ
+    arabic: وَٱلسَّمَٰوَٰتُ
     translation: and the heavens
     transliteration: wal-samāwātu
   12:
-    arabic: مَطۡوِيّٰتٌۢ
+    arabic: مَطۡوِيَّٰتُۢ
     translation: (will be) folded
     transliteration: maṭwiyyātun
   13:
-    arabic: بِيَمِيۡنِهٖ​ ؕ
+    arabic: بِيَمِينِهِۦۚ
     translation: in His Right Hand
     transliteration: biyamīnihi
   14:
-    arabic: سُبۡحٰنَهٗ
+    arabic: سُبۡحَٰنَهُۥ
     translation: Glory be to Him
     transliteration: sub'ḥānahu
   15:
-    arabic: وَتَعٰلٰى
+    arabic: وَتَعَٰلَىٰ
     translation: And High is He
     transliteration: wataʿālā
   16:
@@ -72,7 +72,7 @@ word_by_word:
     translation: above what
     transliteration: ʿammā
   17:
-    arabic: يُشۡرِكُوۡنَ‏
+    arabic: يُشۡرِكُونَ
     translation: they associate (with Him)
     transliteration: yush'rikūna
 ---

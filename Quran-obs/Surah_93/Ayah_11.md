@@ -1,9 +1,9 @@
 ---
-arabic_ayat: وَاَمَّا بِنِعۡمَةِ رَبِّكَ فَحَدِّثۡ‏
+arabic_ayat: وَأَمَّا بِنِعۡمَةِ رَبِّكَ فَحَدِّثۡ
 sentence_translation: And proclaim the blessings of your Lord.
 word_by_word:
   1:
-    arabic: وَاَمَّا
+    arabic: وَأَمَّا
     translation: But as for
     transliteration: wa-ammā
   2:
@@ -15,7 +15,7 @@ word_by_word:
     translation: (of) your Lord
     transliteration: rabbika
   4:
-    arabic: فَحَدِّثۡ‏
+    arabic: فَحَدِّثۡ
     translation: narrate
     transliteration: faḥaddith
 ---

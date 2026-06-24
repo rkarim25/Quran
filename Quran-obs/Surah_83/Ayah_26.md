@@ -1,22 +1,22 @@
 ---
-arabic_ayat: خِتٰمُهٗ مِسۡكٌ ​ؕ وَفِىۡ ذٰلِكَ فَلۡيَتَنَافَسِ الۡمُتَنــَافِسُوۡنَؕ‏
+arabic_ayat: خِتَٰمُهُۥ مِسۡكٞۚ وَفِي ذَٰلِكَ فَلۡيَتَنَافَسِ ٱلۡمُتَنَٰفِسُونَ
 sentence_translation: whose last sip will smell like musk. So let whoever aspires
   to this strive ˹diligently˺.
 word_by_word:
   1:
-    arabic: خِتٰمُهٗ
+    arabic: خِتَٰمُهُۥ
     translation: Its seal
     transliteration: khitāmuhu
   2:
-    arabic: مِسۡكٌ ​ؕ
+    arabic: مِسۡكٞۚ
     translation: (will be of) musk
     transliteration: mis'kun
   3:
-    arabic: وَفِىۡ
+    arabic: وَفِي
     translation: And for
     transliteration: wafī
   4:
-    arabic: ذٰلِكَ
+    arabic: ذَٰلِكَ
     translation: that
     transliteration: dhālika
   5:
@@ -24,7 +24,7 @@ word_by_word:
     translation: let aspire
     transliteration: falyatanāfasi
   6:
-    arabic: الۡمُتَنــَافِسُوۡنَؕ‏
+    arabic: ٱلۡمُتَنَٰفِسُونَ
     translation: the aspirers
     transliteration: l-mutanāfisūna
 ---

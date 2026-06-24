@@ -1,6 +1,6 @@
 ---
-arabic_ayat: وَمَا لَـنَا لَا نُؤۡمِنُ بِاللّٰهِ وَمَا جَآءَنَا مِنَ الۡحَـقِّۙ وَنَطۡمَعُ
-  اَنۡ يُّدۡخِلَـنَا رَبُّنَا مَعَ الۡقَوۡمِ الصّٰلِحِيۡنَ‏
+arabic_ayat: وَمَا لَنَا لَا نُؤۡمِنُ بِٱللَّهِ وَمَا جَآءَنَا مِنَ ٱلۡحَقِّ وَنَطۡمَعُ
+  أَن يُدۡخِلَنَا رَبُّنَا مَعَ ٱلۡقَوۡمِ ٱلصَّٰلِحِينَ
 sentence_translation: Why should we not believe in Allah and the truth that has come
   to us? And we long for our Lord to include us in the company of the righteous.”
 word_by_word:
@@ -9,7 +9,7 @@ word_by_word:
     translation: And what
     transliteration: wamā
   2:
-    arabic: لَـنَا
+    arabic: لَنَا
     translation: for us (that)
     transliteration: lanā
   3:
@@ -21,7 +21,7 @@ word_by_word:
     translation: we believe
     transliteration: nu'minu
   5:
-    arabic: بِاللّٰهِ
+    arabic: بِٱللَّهِ
     translation: in Allah
     transliteration: bil-lahi
   6:
@@ -37,7 +37,7 @@ word_by_word:
     translation: from
     transliteration: mina
   9:
-    arabic: الۡحَـقِّۙ
+    arabic: ٱلۡحَقِّ
     translation: the truth
     transliteration: l-ḥaqi
   10:
@@ -45,11 +45,11 @@ word_by_word:
     translation: And we hope
     transliteration: wanaṭmaʿu
   11:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that
     transliteration: an
   12:
-    arabic: يُّدۡخِلَـنَا
+    arabic: يُدۡخِلَنَا
     translation: will admit us
     transliteration: yud'khilanā
   13:
@@ -61,11 +61,11 @@ word_by_word:
     translation: with
     transliteration: maʿa
   15:
-    arabic: الۡقَوۡمِ
+    arabic: ٱلۡقَوۡمِ
     translation: the people
     transliteration: l-qawmi
   16:
-    arabic: الصّٰلِحِيۡنَ‏
+    arabic: ٱلصَّٰلِحِينَ
     translation: the righteous
     transliteration: l-ṣāliḥīna
 ---

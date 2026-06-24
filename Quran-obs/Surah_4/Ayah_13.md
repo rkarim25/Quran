@@ -1,7 +1,7 @@
 ---
-arabic_ayat: تِلۡكَ حُدُوۡدُ اللّٰهِ​ ؕ وَمَنۡ يُّطِعِ اللّٰهَ وَرَسُوۡلَهٗ يُدۡخِلۡهُ
-  جَنّٰتٍ تَجۡرِىۡ مِنۡ تَحۡتِهَا الۡاَنۡهٰرُ خٰلِدِيۡنَ فِيۡهَا​ ؕ وَذٰ لِكَ الۡفَوۡزُ
-  الۡعَظِيۡمُ‏
+arabic_ayat: تِلۡكَ حُدُودُ ٱللَّهِۚ وَمَن يُطِعِ ٱللَّهَ وَرَسُولَهُۥ يُدۡخِلۡهُ
+  جَنَّٰتٖ تَجۡرِي مِن تَحۡتِهَا ٱلۡأَنۡهَٰرُ خَٰلِدِينَ فِيهَاۚ وَذَٰلِكَ ٱلۡفَوۡزُ
+  ٱلۡعَظِيمُ
 sentence_translation: These ˹entitlements˺ are the limits set by Allah. Whoever obeys
   Allah and His Messenger will be admitted into Gardens under which rivers flow, to
   stay there forever. That is the ultimate triumph!
@@ -11,27 +11,27 @@ word_by_word:
     translation: These
     transliteration: til'ka
   2:
-    arabic: حُدُوۡدُ
+    arabic: حُدُودُ
     translation: (are the) limits
     transliteration: ḥudūdu
   3:
-    arabic: اللّٰهِ​ ؕ
+    arabic: ٱللَّهِۚ
     translation: (of) Allah
     transliteration: l-lahi
   4:
-    arabic: وَمَنۡ
+    arabic: وَمَن
     translation: and whoever
     transliteration: waman
   5:
-    arabic: يُّطِعِ
+    arabic: يُطِعِ
     translation: obeys
     transliteration: yuṭiʿi
   6:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   7:
-    arabic: وَرَسُوۡلَهٗ
+    arabic: وَرَسُولَهُۥ
     translation: and His Messenger
     transliteration: warasūlahu
   8:
@@ -39,15 +39,15 @@ word_by_word:
     translation: He will admit him
     transliteration: yud'khil'hu
   9:
-    arabic: جَنّٰتٍ
+    arabic: جَنَّٰتٖ
     translation: (to) Gardens
     transliteration: jannātin
   10:
-    arabic: تَجۡرِىۡ
+    arabic: تَجۡرِي
     translation: flows
     transliteration: tajrī
   11:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   12:
@@ -55,27 +55,27 @@ word_by_word:
     translation: underneath them
     transliteration: taḥtihā
   13:
-    arabic: الۡاَنۡهٰرُ
+    arabic: ٱلۡأَنۡهَٰرُ
     translation: 'the rivers '
     transliteration: l-anhāru
   14:
-    arabic: خٰلِدِيۡنَ
+    arabic: خَٰلِدِينَ
     translation: (will) abide forever
     transliteration: khālidīna
   15:
-    arabic: فِيۡهَا​ ؕ
+    arabic: فِيهَاۚ
     translation: in it
     transliteration: fīhā
   16:
-    arabic: وَذٰ لِكَ
+    arabic: وَذَٰلِكَ
     translation: And that
     transliteration: wadhālika
   17:
-    arabic: الۡفَوۡزُ
+    arabic: ٱلۡفَوۡزُ
     translation: (is) the success
     transliteration: l-fawzu
   18:
-    arabic: الۡعَظِيۡمُ‏
+    arabic: ٱلۡعَظِيمُ
     translation: '[the] great'
     transliteration: l-ʿaẓīmu
 ---

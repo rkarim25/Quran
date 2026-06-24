@@ -1,13 +1,12 @@
 ---
-arabic_ayat: "وَ قَالُوۡا لَوۡلَا نُزِّلَ عَلَيۡهِ اٰيَةٌ مِّنۡ رَّبِّهٖ​ؕ قُلۡ اِنَّ\
-  \ اللّٰهَ قَادِرٌ عَلٰٓى اَنۡ يُّنَزِّلَ اٰيَةً وَّلٰـكِنَّ اَكۡثَرَهُمۡ لَا يَعۡلَمُوۡنَ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: وَقَالُواْ لَوۡلَا نُزِّلَ عَلَيۡهِ ءَايَةٞ مِّن رَّبِّهِۦۚ قُلۡ إِنَّ
+  ٱللَّهَ قَادِرٌ عَلَىٰٓ أَن يُنَزِّلَ ءَايَةٗ وَلَٰكِنَّ أَكۡثَرَهُمۡ لَا يَعۡلَمُونَ
 sentence_translation: They ask, “Why has no ˹other˺ sign been sent down to him from
   his Lord?” Say, ˹O Prophet,˺ “Allah certainly has the power to send down a sign”—though
   most of them do not know.
 word_by_word:
   1:
-    arabic: وَ قَالُوۡا
+    arabic: وَقَالُواْ
     translation: And they said
     transliteration: waqālū
   2:
@@ -19,19 +18,19 @@ word_by_word:
     translation: sent down
     transliteration: nuzzila
   4:
-    arabic: عَلَيۡهِ
+    arabic: عَلَيۡهِ ءَ
     translation: to him
     transliteration: ʿalayhi
   5:
-    arabic: اٰيَةٌ
+    arabic: ايَةٞ
     translation: a Sign
     transliteration: āyatun
   6:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: from
     transliteration: min
   7:
-    arabic: رَّبِّهٖ​ؕ
+    arabic: رَّبِّهِۦۚ
     translation: his Lord
     transliteration: rabbihi
   8:
@@ -39,11 +38,11 @@ word_by_word:
     translation: Say
     transliteration: qul
   9:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   10:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   11:
@@ -51,27 +50,27 @@ word_by_word:
     translation: (is) Able
     transliteration: qādirun
   12:
-    arabic: عَلٰٓى
+    arabic: عَلَىٰٓ
     translation: '[on]'
     transliteration: ʿalā
   13:
-    arabic: اَنۡ
+    arabic: أَن
     translation: to
     transliteration: an
   14:
-    arabic: يُّنَزِّلَ
+    arabic: يُنَزِّلَ ءَ
     translation: send down
     transliteration: yunazzila
   15:
-    arabic: اٰيَةً
+    arabic: ايَةٗ
     translation: a Sign
     transliteration: āyatan
   16:
-    arabic: وَّلٰـكِنَّ
+    arabic: وَلَٰكِنَّ
     translation: but
     transliteration: walākinna
   17:
-    arabic: اَكۡثَرَهُمۡ
+    arabic: أَكۡثَرَهُمۡ
     translation: most of them
     transliteration: aktharahum
   18:
@@ -79,7 +78,7 @@ word_by_word:
     translation: (do) not
     transliteration: lā
   19:
-    arabic: "يَعۡلَمُوۡنَ‏ \uFEFF\uFEFF"
+    arabic: يَعۡلَمُونَ
     translation: know
     transliteration: yaʿlamūna
 ---

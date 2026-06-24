@@ -1,6 +1,6 @@
 ---
-arabic_ayat: تَكَادُ السَّمٰوٰتُ يَتَفَطَّرۡنَ مِنۡهُ وَتَـنۡشَقُّ الۡاَرۡضُ وَتَخِرُّ
-  الۡجِبَالُ هَدًّا ۙ‏
+arabic_ayat: تَكَادُ ٱلسَّمَٰوَٰتُ يَتَفَطَّرۡنَ مِنۡهُ وَتَنشَقُّ ٱلۡأَرۡضُ وَتَخِرُّ
+  ٱلۡجِبَالُ هَدًّا
 sentence_translation: by which the heavens are about to burst, the earth to split
   apart, and the mountains to crumble to pieces
 word_by_word:
@@ -9,7 +9,7 @@ word_by_word:
     translation: Almost
     transliteration: takādu
   2:
-    arabic: السَّمٰوٰتُ
+    arabic: ٱلسَّمَٰوَٰتُ
     translation: the heavens
     transliteration: l-samāwātu
   3:
@@ -21,11 +21,11 @@ word_by_word:
     translation: therefrom
     transliteration: min'hu
   5:
-    arabic: وَتَـنۡشَقُّ
+    arabic: وَتَنشَقُّ
     translation: and splits asunder
     transliteration: watanshaqqu
   6:
-    arabic: الۡاَرۡضُ
+    arabic: ٱلۡأَرۡضُ
     translation: the earth
     transliteration: l-arḍu
   7:
@@ -33,11 +33,11 @@ word_by_word:
     translation: and collapse
     transliteration: watakhirru
   8:
-    arabic: الۡجِبَالُ
+    arabic: ٱلۡجِبَالُ
     translation: the mountain
     transliteration: l-jibālu
   9:
-    arabic: هَدًّا ۙ‏
+    arabic: هَدًّا
     translation: (in) devastation
     transliteration: haddan
 ---

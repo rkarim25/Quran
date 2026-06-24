@@ -1,6 +1,6 @@
 ---
-arabic_ayat: فَسَوۡفَ تَعۡلَمُوۡنَۙ مَنۡ يَّاۡتِيۡهِ عَذَابٌ يُّخۡزِيۡهِ وَيَحِلُّ
-  عَلَيۡهِ عَذَابٌ مُّقِيۡمٌ‏
+arabic_ayat: فَسَوۡفَ تَعۡلَمُونَ مَن يَأۡتِيهِ عَذَابٞ يُخۡزِيهِ وَيَحِلُّ عَلَيۡهِ
+  عَذَابٞ مُّقِيمٌ
 sentence_translation: You will soon come to know who will be visited by a humiliating
   torment ˹in this life˺ and overwhelmed by an everlasting punishment ˹in the next˺.”
 word_by_word:
@@ -9,23 +9,23 @@ word_by_word:
     translation: And soon
     transliteration: fasawfa
   2:
-    arabic: تَعۡلَمُوۡنَۙ
+    arabic: تَعۡلَمُونَ
     translation: you will know
     transliteration: taʿlamūna
   3:
-    arabic: مَنۡ
+    arabic: مَن
     translation: (on) whom
     transliteration: man
   4:
-    arabic: يَّاۡتِيۡهِ
+    arabic: يَأۡتِيهِ
     translation: will come
     transliteration: yatīhi
   5:
-    arabic: عَذَابٌ
+    arabic: عَذَابٞ
     translation: a punishment
     transliteration: ʿadhābun
   6:
-    arabic: يُّخۡزِيۡهِ
+    arabic: يُخۡزِيهِ
     translation: (that) will disgrace him
     transliteration: yukh'zīhi
   7:
@@ -37,11 +37,11 @@ word_by_word:
     translation: on him
     transliteration: ʿalayhi
   9:
-    arabic: عَذَابٌ
+    arabic: عَذَابٞ
     translation: a punishment
     transliteration: ʿadhābun
   10:
-    arabic: مُّقِيۡمٌ‏
+    arabic: مُّقِيمٌ
     translation: lasting
     transliteration: muqīmun
 ---

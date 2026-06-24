@@ -1,21 +1,21 @@
 ---
-arabic_ayat: وَاِنَّكُمۡ لَتَمُرُّوۡنَ عَلَيۡهِمۡ مُّصۡبِحِيۡنَۙ‏
+arabic_ayat: وَإِنَّكُمۡ لَتَمُرُّونَ عَلَيۡهِم مُّصۡبِحِينَ
 sentence_translation: You ˹Meccans˺ certainly pass by their ruins day
 word_by_word:
   1:
-    arabic: وَاِنَّكُمۡ
+    arabic: وَإِنَّكُمۡ
     translation: And indeed, you
     transliteration: wa-innakum
   2:
-    arabic: لَتَمُرُّوۡنَ
+    arabic: لَتَمُرُّونَ
     translation: surely pass
     transliteration: latamurrūna
   3:
-    arabic: عَلَيۡهِمۡ
+    arabic: عَلَيۡهِم
     translation: by them
     transliteration: ʿalayhim
   4:
-    arabic: مُّصۡبِحِيۡنَۙ‏
+    arabic: مُّصۡبِحِينَ
     translation: (in the) morning
     transliteration: muṣ'biḥīna
 ---

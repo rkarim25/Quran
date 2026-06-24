@@ -1,6 +1,6 @@
 ---
-arabic_ayat: هُوَ الَّذِىۡ يُصَوِّرُكُمۡ فِى الۡاَرۡحَامِ كَيۡفَ يَشَآءُ ​ؕ لَاۤ
-  اِلٰهَ اِلَّا هُوَ الۡعَزِيۡزُ الۡحَكِيۡمُ‏
+arabic_ayat: هُوَ ٱلَّذِي يُصَوِّرُكُمۡ فِي ٱلۡأَرۡحَامِ كَيۡفَ يَشَآءُۚ لَآ إِلَٰهَ
+  إِلَّا هُوَ ٱلۡعَزِيزُ ٱلۡحَكِيمُ
 sentence_translation: He is the One Who shapes you in the wombs of your mothers as
   He wills. There is no god ˹worthy of worship˺ except Him—the Almighty, All-Wise.
 word_by_word:
@@ -9,7 +9,7 @@ word_by_word:
     translation: He
     transliteration: huwa
   2:
-    arabic: الَّذِىۡ
+    arabic: ٱلَّذِي
     translation: (is) the One Who
     transliteration: alladhī
   3:
@@ -17,11 +17,11 @@ word_by_word:
     translation: shapes you
     transliteration: yuṣawwirukum
   4:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   5:
-    arabic: الۡاَرۡحَامِ
+    arabic: ٱلۡأَرۡحَامِ
     translation: the wombs
     transliteration: l-arḥāmi
   6:
@@ -29,19 +29,19 @@ word_by_word:
     translation: how(ever)
     transliteration: kayfa
   7:
-    arabic: يَشَآءُ ​ؕ
+    arabic: يَشَآءُۚ
     translation: He wills
     transliteration: yashāu
   8:
-    arabic: لَاۤ
+    arabic: لَآ
     translation: (There is) no
     transliteration: lā
   9:
-    arabic: اِلٰهَ
+    arabic: إِلَٰهَ
     translation: god
     transliteration: ilāha
   10:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   11:
@@ -49,11 +49,11 @@ word_by_word:
     translation: Him
     transliteration: huwa
   12:
-    arabic: الۡعَزِيۡزُ
+    arabic: ٱلۡعَزِيزُ
     translation: the All-Mighty
     transliteration: l-ʿazīzu
   13:
-    arabic: الۡحَكِيۡمُ‏
+    arabic: ٱلۡحَكِيمُ
     translation: the All-Wise
     transliteration: l-ḥakīmu
 ---

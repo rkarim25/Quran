@@ -1,9 +1,9 @@
 ---
-arabic_ayat: لَـقَدۡ كَفَرَ الَّذِيۡنَ قَالُوۡۤا اِنَّ اللّٰهَ هُوَ الۡمَسِيۡحُ ابۡنُ
-  مَرۡيَمَ​ؕ قُلۡ فَمَنۡ يَّمۡلِكُ مِنَ اللّٰهِ شَيۡـًٔـــا اِنۡ اَرَادَ اَنۡ يُّهۡلِكَ
-  الۡمَسِيۡحَ ابۡنَ مَرۡيَمَ وَاُمَّهٗ وَمَنۡ فِى الۡاَرۡضِ جَمِيۡعًا​ ؕ وَلِلّٰهِ
-  مُلۡكُ السَّمٰوٰتِ وَالۡاَرۡضِ وَمَا بَيۡنَهُمَا​ ؕ يَخۡلُقُ مَا يَشَآءُ​ ؕ وَاللّٰهُ
-  عَلٰى كُلِّ شَىۡءٍ قَدِيۡرٌ‏
+arabic_ayat: لَّقَدۡ كَفَرَ ٱلَّذِينَ قَالُوٓاْ إِنَّ ٱللَّهَ هُوَ ٱلۡمَسِيحُ ٱبۡنُ
+  مَرۡيَمَۚ قُلۡ فَمَن يَمۡلِكُ مِنَ ٱللَّهِ شَيۡـًٔا إِنۡ أَرَادَ أَن يُهۡلِكَ ٱلۡمَسِيحَ
+  ٱبۡنَ مَرۡيَمَ وَأُمَّهُۥ وَمَن فِي ٱلۡأَرۡضِ جَمِيعٗاۗ وَلِلَّهِ مُلۡكُ ٱلسَّمَٰوَٰتِ
+  وَٱلۡأَرۡضِ وَمَا بَيۡنَهُمَاۚ يَخۡلُقُ مَا يَشَآءُۚ وَٱللَّهُ عَلَىٰ كُلِّ شَيۡءٖ
+  قَدِيرٞ
 sentence_translation: Indeed, those who say, “Allah is the Messiah, son of Mary,”
   have fallen into disbelief. Say, ˹O Prophet,˺ “Who has the power to prevent Allah
   if He chose to destroy the Messiah, son of Mary, his mother, and everyone in the
@@ -12,7 +12,7 @@ sentence_translation: Indeed, those who say, “Allah is the Messiah, son of Mar
   Capable of everything.
 word_by_word:
   1:
-    arabic: لَـقَدۡ
+    arabic: لَّقَدۡ
     translation: Certainly
     transliteration: laqad
   2:
@@ -20,19 +20,19 @@ word_by_word:
     translation: 'disbelieved '
     transliteration: kafara
   3:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   4:
-    arabic: قَالُوۡۤا
+    arabic: قَالُوٓاْ
     translation: said
     transliteration: qālū
   5:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   6:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   7:
@@ -40,15 +40,15 @@ word_by_word:
     translation: He
     transliteration: huwa
   8:
-    arabic: الۡمَسِيۡحُ
+    arabic: ٱلۡمَسِيحُ
     translation: (is) the Messiah
     transliteration: l-masīḥu
   9:
-    arabic: ابۡنُ
+    arabic: ٱبۡنُ
     translation: son
     transliteration: ub'nu
   10:
-    arabic: مَرۡيَمَ​ؕ
+    arabic: مَرۡيَمَۚ
     translation: (of) Maryam
     transliteration: maryama
   11:
@@ -56,11 +56,11 @@ word_by_word:
     translation: Say
     transliteration: qul
   12:
-    arabic: فَمَنۡ
+    arabic: فَمَن
     translation: Then who
     transliteration: faman
   13:
-    arabic: يَّمۡلِكُ
+    arabic: يَمۡلِكُ
     translation: has power
     transliteration: yamliku
   14:
@@ -68,35 +68,35 @@ word_by_word:
     translation: against
     transliteration: mina
   15:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   16:
-    arabic: شَيۡـًٔـــا
+    arabic: شَيۡـًٔا
     translation: (in) anything
     transliteration: shayan
   17:
-    arabic: اِنۡ
+    arabic: إِنۡ
     translation: if
     transliteration: in
   18:
-    arabic: اَرَادَ
+    arabic: أَرَادَ
     translation: He intends
     transliteration: arāda
   19:
-    arabic: اَنۡ
+    arabic: أَن
     translation: to
     transliteration: an
   20:
-    arabic: يُّهۡلِكَ
+    arabic: يُهۡلِكَ
     translation: destroy
     transliteration: yuh'lika
   21:
-    arabic: الۡمَسِيۡحَ
+    arabic: ٱلۡمَسِيحَ
     translation: the Messiah
     transliteration: l-masīḥa
   22:
-    arabic: ابۡنَ
+    arabic: ٱبۡنَ
     translation: son
     transliteration: ib'na
   23:
@@ -104,27 +104,27 @@ word_by_word:
     translation: (of) Maryam
     transliteration: maryama
   24:
-    arabic: وَاُمَّهٗ
+    arabic: وَأُمَّهُۥ
     translation: and his mother
     transliteration: wa-ummahu
   25:
-    arabic: وَمَنۡ
+    arabic: وَمَن
     translation: and whoever
     transliteration: waman
   26:
-    arabic: فِى
+    arabic: فِي
     translation: (is) in
     transliteration: fī
   27:
-    arabic: الۡاَرۡضِ
+    arabic: ٱلۡأَرۡضِ
     translation: the earth
     transliteration: l-arḍi
   28:
-    arabic: جَمِيۡعًا​ ؕ
+    arabic: جَمِيعٗاۗ
     translation: all
     transliteration: jamīʿan
   29:
-    arabic: وَلِلّٰهِ
+    arabic: وَلِلَّهِ
     translation: And for Allah
     transliteration: walillahi
   30:
@@ -132,11 +132,11 @@ word_by_word:
     translation: (is the) dominion
     transliteration: mul'ku
   31:
-    arabic: السَّمٰوٰتِ
+    arabic: ٱلسَّمَٰوَٰتِ
     translation: (of) the heavens
     transliteration: l-samāwāti
   32:
-    arabic: وَالۡاَرۡضِ
+    arabic: وَٱلۡأَرۡضِ
     translation: and the earth
     transliteration: wal-arḍi
   33:
@@ -144,7 +144,7 @@ word_by_word:
     translation: and what
     transliteration: wamā
   34:
-    arabic: بَيۡنَهُمَا​ ؕ
+    arabic: بَيۡنَهُمَاۚ
     translation: (is) between both of them
     transliteration: baynahumā
   35:
@@ -156,15 +156,15 @@ word_by_word:
     translation: what
     transliteration: mā
   37:
-    arabic: يَشَآءُ​ ؕ
+    arabic: يَشَآءُۚ
     translation: He wills
     transliteration: yashāu
   38:
-    arabic: وَاللّٰهُ
+    arabic: وَٱللَّهُ
     translation: and Allah
     transliteration: wal-lahu
   39:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: (is) on
     transliteration: ʿalā
   40:
@@ -172,11 +172,11 @@ word_by_word:
     translation: every
     transliteration: kulli
   41:
-    arabic: شَىۡءٍ
+    arabic: شَيۡءٖ
     translation: thing
     transliteration: shayin
   42:
-    arabic: قَدِيۡرٌ‏
+    arabic: قَدِيرٞ
     translation: All-Powerful
     transliteration: qadīrun
 ---

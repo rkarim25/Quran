@@ -1,13 +1,13 @@
 ---
-arabic_ayat: فَاَغۡوَيۡنٰكُمۡ اِنَّا كُنَّا غٰوِيۡنَ‏
+arabic_ayat: فَأَغۡوَيۡنَٰكُمۡ إِنَّا كُنَّا غَٰوِينَ
 sentence_translation: We caused you to deviate, for we ourselves were deviant.”
 word_by_word:
   1:
-    arabic: فَاَغۡوَيۡنٰكُمۡ
+    arabic: فَأَغۡوَيۡنَٰكُمۡ
     translation: So we led you astray
     transliteration: fa-aghwaynākum
   2:
-    arabic: اِنَّا
+    arabic: إِنَّا
     translation: indeed, we
     transliteration: innā
   3:
@@ -15,7 +15,7 @@ word_by_word:
     translation: were
     transliteration: kunnā
   4:
-    arabic: غٰوِيۡنَ‏
+    arabic: غَٰوِينَ
     translation: astray
     transliteration: ghāwīna
 ---

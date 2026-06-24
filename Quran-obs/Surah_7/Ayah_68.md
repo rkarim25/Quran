@@ -1,25 +1,25 @@
 ---
-arabic_ayat: اُبَلِّغُكُمۡ رِسٰلٰتِ رَبِّىۡ وَاَنَا لَـكُمۡ نَاصِحٌ اَمِيۡنٌ‏
+arabic_ayat: أُبَلِّغُكُمۡ رِسَٰلَٰتِ رَبِّي وَأَنَا۠ لَكُمۡ نَاصِحٌ أَمِينٌ
 sentence_translation: conveying to you my Lord’s messages. And I am your sincere advisor.
 word_by_word:
   1:
-    arabic: اُبَلِّغُكُمۡ
+    arabic: أُبَلِّغُكُمۡ
     translation: I convey to you
     transliteration: uballighukum
   2:
-    arabic: رِسٰلٰتِ
+    arabic: رِسَٰلَٰتِ
     translation: Messages
     transliteration: risālāti
   3:
-    arabic: رَبِّىۡ
+    arabic: رَبِّي
     translation: (of) my Lord
     transliteration: rabbī
   4:
-    arabic: وَاَنَا
+    arabic: وَأَنَا۠
     translation: and I am
     transliteration: wa-anā
   5:
-    arabic: لَـكُمۡ
+    arabic: لَكُمۡ
     translation: to you
     transliteration: lakum
   6:
@@ -27,7 +27,7 @@ word_by_word:
     translation: 'an adviser '
     transliteration: nāṣiḥun
   7:
-    arabic: اَمِيۡنٌ‏
+    arabic: أَمِينٌ
     translation: trustworthy
     transliteration: amīnun
 ---

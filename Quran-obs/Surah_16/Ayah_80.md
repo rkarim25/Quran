@@ -1,15 +1,14 @@
 ---
-arabic_ayat: "وَاللّٰهُ جَعَلَ لَـكُمۡ مِّنۡۢ بُيُوۡتِكُمۡ سَكَنًا وَّجَعَلَ لَـكُمۡ\
-  \ مِّنۡ جُلُوۡدِ الۡاَنۡعَامِ بُيُوۡتًا تَسۡتَخِفُّوۡنَهَا يَوۡمَ ظَعۡنِكُمۡ وَيَوۡمَ\
-  \ اِقَامَتِكُمۡ​ۙ وَمِنۡ اَصۡوَافِهَا وَاَوۡبَارِهَا وَاَشۡعَارِهَاۤ اَثَاثًا وَّمَتَاعًا\
-  \ اِلٰى حِيۡنٍ‏ \uFEFF\uFEFF"
+arabic_ayat: وَٱللَّهُ جَعَلَ لَكُم مِّنۢ بُيُوتِكُمۡ سَكَنٗا وَجَعَلَ لَكُم مِّن
+  جُلُودِ ٱلۡأَنۡعَٰمِ بُيُوتٗا تَسۡتَخِفُّونَهَا يَوۡمَ ظَعۡنِكُمۡ وَيَوۡمَ إِقَامَتِكُمۡ
+  وَمِنۡ أَصۡوَافِهَا وَأَوۡبَارِهَا وَأَشۡعَارِهَآ أَثَٰثٗا وَمَتَٰعًا إِلَىٰ حِينٖ
 sentence_translation: And Allah has made your homes a place to rest, and has given
   you tents from the hide of animals, light to handle when you travel and when you
   camp. And out of their wool, fur, and hair He has given you furnishings and goods
   for a while.
 word_by_word:
   1:
-    arabic: وَاللّٰهُ
+    arabic: وَٱللَّهُ
     translation: And Allah
     transliteration: wal-lahu
   2:
@@ -17,47 +16,47 @@ word_by_word:
     translation: (has) made
     transliteration: jaʿala
   3:
-    arabic: لَـكُمۡ
+    arabic: لَكُم
     translation: for you
     transliteration: lakum
   4:
-    arabic: مِّنۡۢ
+    arabic: مِّنۢ
     translation: '[from]'
     transliteration: min
   5:
-    arabic: بُيُوۡتِكُمۡ
+    arabic: بُيُوتِكُمۡ
     translation: your homes
     transliteration: buyūtikum
   6:
-    arabic: سَكَنًا
+    arabic: سَكَنٗا
     translation: a resting place
     transliteration: sakanan
   7:
-    arabic: وَّجَعَلَ
+    arabic: وَجَعَلَ
     translation: and made
     transliteration: wajaʿala
   8:
-    arabic: لَـكُمۡ
+    arabic: لَكُم
     translation: for you
     transliteration: lakum
   9:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: from
     transliteration: min
   10:
-    arabic: جُلُوۡدِ
+    arabic: جُلُودِ
     translation: the hides
     transliteration: julūdi
   11:
-    arabic: الۡاَنۡعَامِ
+    arabic: ٱلۡأَنۡعَٰمِ
     translation: (of) the cattle
     transliteration: l-anʿāmi
   12:
-    arabic: بُيُوۡتًا
+    arabic: بُيُوتٗا
     translation: tents
     transliteration: buyūtan
   13:
-    arabic: تَسۡتَخِفُّوۡنَهَا
+    arabic: تَسۡتَخِفُّونَهَا
     translation: which you find light
     transliteration: tastakhiffūnahā
   14:
@@ -73,7 +72,7 @@ word_by_word:
     translation: and the day
     transliteration: wayawma
   17:
-    arabic: اِقَامَتِكُمۡ​ۙ
+    arabic: إِقَامَتِكُمۡ
     translation: (of) your encampment
     transliteration: iqāmatikum
   18:
@@ -81,31 +80,31 @@ word_by_word:
     translation: and from
     transliteration: wamin
   19:
-    arabic: اَصۡوَافِهَا
+    arabic: أَصۡوَافِهَا
     translation: their wool
     transliteration: aṣwāfihā
   20:
-    arabic: وَاَوۡبَارِهَا
+    arabic: وَأَوۡبَارِهَا
     translation: and their fur
     transliteration: wa-awbārihā
   21:
-    arabic: وَاَشۡعَارِهَاۤ
+    arabic: وَأَشۡعَارِهَآ
     translation: and their hair
     transliteration: wa-ashʿārihā
   22:
-    arabic: اَثَاثًا
+    arabic: أَثَٰثٗا
     translation: (is) furnishing
     transliteration: athāthan
   23:
-    arabic: وَّمَتَاعًا
+    arabic: وَمَتَٰعًا
     translation: and a provision
     transliteration: wamatāʿan
   24:
-    arabic: اِلٰى
+    arabic: إِلَىٰ
     translation: for
     transliteration: ilā
   25:
-    arabic: "حِيۡنٍ‏ \uFEFF\uFEFF"
+    arabic: حِينٖ
     translation: a time
     transliteration: ḥīnin
 ---

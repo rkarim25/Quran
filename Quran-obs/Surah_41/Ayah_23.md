@@ -1,11 +1,11 @@
 ---
-arabic_ayat: وَذٰلِكُمۡ ظَنُّكُمُ الَّذِىۡ ظَنَنۡتُمۡ بِرَبِّكُمۡ اَرۡدٰٮكُمۡ فَاَصۡبَحۡتُمۡ
-  مِّنَ الۡخٰسِرِيۡنَ‏
+arabic_ayat: وَذَٰلِكُمۡ ظَنُّكُمُ ٱلَّذِي ظَنَنتُم بِرَبِّكُمۡ أَرۡدَىٰكُمۡ فَأَصۡبَحۡتُم
+  مِّنَ ٱلۡخَٰسِرِينَ
 sentence_translation: It was that ˹false˺ assumption you entertained about your Lord
   that has brought about your doom, so you have become losers.”
 word_by_word:
   1:
-    arabic: وَذٰلِكُمۡ
+    arabic: وَذَٰلِكُمۡ
     translation: And that
     transliteration: wadhālikum
   2:
@@ -13,11 +13,11 @@ word_by_word:
     translation: (was) your assumption
     transliteration: ẓannukumu
   3:
-    arabic: الَّذِىۡ
+    arabic: ٱلَّذِي
     translation: which
     transliteration: alladhī
   4:
-    arabic: ظَنَنۡتُمۡ
+    arabic: ظَنَنتُم
     translation: you assumed
     transliteration: ẓanantum
   5:
@@ -25,11 +25,11 @@ word_by_word:
     translation: about your Lord
     transliteration: birabbikum
   6:
-    arabic: اَرۡدٰٮكُمۡ
+    arabic: أَرۡدَىٰكُمۡ
     translation: It has ruined you
     transliteration: ardākum
   7:
-    arabic: فَاَصۡبَحۡتُمۡ
+    arabic: فَأَصۡبَحۡتُم
     translation: and you have become
     transliteration: fa-aṣbaḥtum
   8:
@@ -37,7 +37,7 @@ word_by_word:
     translation: of
     transliteration: mina
   9:
-    arabic: الۡخٰسِرِيۡنَ‏
+    arabic: ٱلۡخَٰسِرِينَ
     translation: the losers
     transliteration: l-khāsirīna
 ---

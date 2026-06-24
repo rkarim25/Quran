@@ -1,13 +1,13 @@
 ---
-arabic_ayat: وَاِنَّهٗ لَقَسَمٌ لَّوۡ تَعۡلَمُوۡنَ عَظِيۡمٌۙ‏
+arabic_ayat: وَإِنَّهُۥ لَقَسَمٞ لَّوۡ تَعۡلَمُونَ عَظِيمٌ
 sentence_translation: and this, if only you knew, is indeed a great oath—
 word_by_word:
   1:
-    arabic: وَاِنَّهٗ
+    arabic: وَإِنَّهُۥ
     translation: And indeed, it
     transliteration: wa-innahu
   2:
-    arabic: لَقَسَمٌ
+    arabic: لَقَسَمٞ
     translation: (is) surely an oath
     transliteration: laqasamun
   3:
@@ -15,11 +15,11 @@ word_by_word:
     translation: if
     transliteration: law
   4:
-    arabic: تَعۡلَمُوۡنَ
+    arabic: تَعۡلَمُونَ
     translation: 'you know '
     transliteration: taʿlamūna
   5:
-    arabic: عَظِيۡمٌۙ‏
+    arabic: عَظِيمٌ
     translation: great
     transliteration: ʿaẓīmun
 ---

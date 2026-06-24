@@ -1,19 +1,19 @@
 ---
-arabic_ayat: وَتَرٰٮهُمۡ يُعۡرَضُوۡنَ عَلَيۡهَا خٰشِعِيۡنَ مِنَ الذُّلِّ يَنۡظُرُوۡنَ
-  مِنۡ طَرۡفٍ خَفِىٍّ​ ؕ وَقَالَ الَّذِيۡنَ اٰمَنُوۡۤا اِنَّ الۡخٰسِرِيۡنَ الَّذِيۡنَ
-  خَسِرُوۡۤا اَنۡفُسَهُمۡ وَاَهۡلِيۡهِمۡ يَوۡمَ الۡقِيٰمَةِ​ ؕ اَلَاۤ اِنَّ الظّٰلِمِيۡنَ
-  فِىۡ عَذَابٍ مُّقِيۡمٍ‏
+arabic_ayat: وَتَرَىٰهُمۡ يُعۡرَضُونَ عَلَيۡهَا خَٰشِعِينَ مِنَ ٱلذُّلِّ يَنظُرُونَ
+  مِن طَرۡفٍ خَفِيّٖۗ وَقَالَ ٱلَّذِينَ ءَامَنُوٓاْ إِنَّ ٱلۡخَٰسِرِينَ ٱلَّذِينَ
+  خَسِرُوٓاْ أَنفُسَهُمۡ وَأَهۡلِيهِمۡ يَوۡمَ ٱلۡقِيَٰمَةِۗ أَلَآ إِنَّ ٱلظَّٰلِمِينَ
+  فِي عَذَابٖ مُّقِيمٖ
 sentence_translation: And you will see them exposed to the Fire, fully humbled out
   of disgrace, stealing glances ˹at it˺. And the believers will say, “The ˹true˺ losers
   are those who have lost themselves and their families on Judgment Day.” The wrongdoers
   will certainly be in everlasting torment.
 word_by_word:
   1:
-    arabic: وَتَرٰٮهُمۡ
+    arabic: وَتَرَىٰهُمۡ
     translation: And you will see them
     transliteration: watarāhum
   2:
-    arabic: يُعۡرَضُوۡنَ
+    arabic: يُعۡرَضُونَ
     translation: being exposed
     transliteration: yuʿ'raḍūna
   3:
@@ -21,7 +21,7 @@ word_by_word:
     translation: to it
     transliteration: ʿalayhā
   4:
-    arabic: خٰشِعِيۡنَ
+    arabic: خَٰشِعِينَ
     translation: humbled
     transliteration: khāshiʿīna
   5:
@@ -29,15 +29,15 @@ word_by_word:
     translation: by
     transliteration: mina
   6:
-    arabic: الذُّلِّ
+    arabic: ٱلذُّلِّ
     translation: disgrace
     transliteration: l-dhuli
   7:
-    arabic: يَنۡظُرُوۡنَ
+    arabic: يَنظُرُونَ
     translation: looking
     transliteration: yanẓurūna
   8:
-    arabic: مِنۡ
+    arabic: مِن
     translation: with
     transliteration: min
   9:
@@ -45,7 +45,7 @@ word_by_word:
     translation: a glance
     transliteration: ṭarfin
   10:
-    arabic: خَفِىٍّ​ ؕ
+    arabic: خَفِيّٖۗ
     translation: stealthy
     transliteration: khafiyyin
   11:
@@ -53,35 +53,35 @@ word_by_word:
     translation: And will say
     transliteration: waqāla
   12:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ ءَ
     translation: those who
     transliteration: alladhīna
   13:
-    arabic: اٰمَنُوۡۤا
+    arabic: امَنُوٓاْ
     translation: believed
     transliteration: āmanū
   14:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   15:
-    arabic: الۡخٰسِرِيۡنَ
+    arabic: ٱلۡخَٰسِرِينَ
     translation: the losers
     transliteration: l-khāsirīna
   16:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: (are) those who
     transliteration: alladhīna
   17:
-    arabic: خَسِرُوۡۤا
+    arabic: خَسِرُوٓاْ
     translation: lost
     transliteration: khasirū
   18:
-    arabic: اَنۡفُسَهُمۡ
+    arabic: أَنفُسَهُمۡ
     translation: themselves
     transliteration: anfusahum
   19:
-    arabic: وَاَهۡلِيۡهِمۡ
+    arabic: وَأَهۡلِيهِمۡ
     translation: and their families
     transliteration: wa-ahlīhim
   20:
@@ -89,31 +89,31 @@ word_by_word:
     translation: (on the) Day
     transliteration: yawma
   21:
-    arabic: الۡقِيٰمَةِ​ ؕ
+    arabic: ٱلۡقِيَٰمَةِۗ
     translation: (of) the Resurrection
     transliteration: l-qiyāmati
   22:
-    arabic: اَلَاۤ
+    arabic: أَلَآ
     translation: Unquestionably
     transliteration: alā
   23:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   24:
-    arabic: الظّٰلِمِيۡنَ
+    arabic: ٱلظَّٰلِمِينَ
     translation: the wrongdoers
     transliteration: l-ẓālimīna
   25:
-    arabic: فِىۡ
+    arabic: فِي
     translation: (are) in
     transliteration: fī
   26:
-    arabic: عَذَابٍ
+    arabic: عَذَابٖ
     translation: a punishment
     transliteration: ʿadhābin
   27:
-    arabic: مُّقِيۡمٍ‏
+    arabic: مُّقِيمٖ
     translation: lasting
     transliteration: muqīmin
 ---

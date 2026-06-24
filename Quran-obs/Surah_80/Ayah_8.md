@@ -1,13 +1,13 @@
 ---
-arabic_ayat: وَاَمَّا مَنۡ جَآءَكَ يَسۡعٰىۙ‏
+arabic_ayat: وَأَمَّا مَن جَآءَكَ يَسۡعَىٰ
 sentence_translation: But as for the one who came to you, eager ˹to learn˺,
 word_by_word:
   1:
-    arabic: وَاَمَّا
+    arabic: وَأَمَّا
     translation: But as for
     transliteration: wa-ammā
   2:
-    arabic: مَنۡ
+    arabic: مَن
     translation: (he) who
     transliteration: man
   3:
@@ -15,7 +15,7 @@ word_by_word:
     translation: came to you
     transliteration: jāaka
   4:
-    arabic: يَسۡعٰىۙ‏
+    arabic: يَسۡعَىٰ
     translation: striving
     transliteration: yasʿā
 ---

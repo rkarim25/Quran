@@ -1,7 +1,7 @@
 ---
-arabic_ayat: قَدۡ مَكَرَ الَّذِيۡنَ مِنۡ قَبۡلِهِمۡ فَاَتَى اللّٰهُ بُنۡيَانَهُمۡ
-  مِّنَ الۡقَوَاعِدِ فَخَرَّ عَلَيۡهِمُ السَّقۡفُ مِنۡ فَوۡقِهِمۡ وَاَتٰٮهُمُ الۡعَذَابُ
-  مِنۡ حَيۡثُ لَا يَشۡعُرُوۡنَ‏
+arabic_ayat: قَدۡ مَكَرَ ٱلَّذِينَ مِن قَبۡلِهِمۡ فَأَتَى ٱللَّهُ بُنۡيَٰنَهُم مِّنَ
+  ٱلۡقَوَاعِدِ فَخَرَّ عَلَيۡهِمُ ٱلسَّقۡفُ مِن فَوۡقِهِمۡ وَأَتَىٰهُمُ ٱلۡعَذَابُ
+  مِنۡ حَيۡثُ لَا يَشۡعُرُونَ
 sentence_translation: Indeed, those before them had plotted, but Allah struck at the
   ˹very˺ foundation of their structure, so the roof collapsed on top of them, and
   the torment came upon them from where they did not expect.
@@ -15,11 +15,11 @@ word_by_word:
     translation: plotted
     transliteration: makara
   3:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   4:
-    arabic: مِنۡ
+    arabic: مِن
     translation: (were) before them
     transliteration: min
   5:
@@ -27,15 +27,15 @@ word_by_word:
     translation: (were) before them
     transliteration: qablihim
   6:
-    arabic: فَاَتَى
+    arabic: فَأَتَى
     translation: but Allah came
     transliteration: fa-atā
   7:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: but Allah came
     transliteration: l-lahu
   8:
-    arabic: بُنۡيَانَهُمۡ
+    arabic: بُنۡيَٰنَهُم
     translation: (at) their building
     transliteration: bun'yānahum
   9:
@@ -43,7 +43,7 @@ word_by_word:
     translation: from
     transliteration: mina
   10:
-    arabic: الۡقَوَاعِدِ
+    arabic: ٱلۡقَوَاعِدِ
     translation: the foundations
     transliteration: l-qawāʿidi
   11:
@@ -55,11 +55,11 @@ word_by_word:
     translation: upon them
     transliteration: ʿalayhimu
   13:
-    arabic: السَّقۡفُ
+    arabic: ٱلسَّقۡفُ
     translation: the roof
     transliteration: l-saqfu
   14:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   15:
@@ -67,11 +67,11 @@ word_by_word:
     translation: above them
     transliteration: fawqihim
   16:
-    arabic: وَاَتٰٮهُمُ
+    arabic: وَأَتَىٰهُمُ
     translation: and came to them
     transliteration: wa-atāhumu
   17:
-    arabic: الۡعَذَابُ
+    arabic: ٱلۡعَذَابُ
     translation: the punishment
     transliteration: l-ʿadhābu
   18:
@@ -87,7 +87,7 @@ word_by_word:
     translation: they (did) not perceive
     transliteration: lā
   21:
-    arabic: يَشۡعُرُوۡنَ‏
+    arabic: يَشۡعُرُونَ
     translation: they (did) not perceive
     transliteration: yashʿurūna
 ---

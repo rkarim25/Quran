@@ -1,5 +1,5 @@
 ---
-arabic_ayat: لَقَدۡ خَلَقۡنَا الۡاِنۡسَانَ فِىۡ كَبَدٍؕ‏
+arabic_ayat: لَقَدۡ خَلَقۡنَا ٱلۡإِنسَٰنَ فِي كَبَدٍ
 sentence_translation: Indeed, We have created humankind in ˹constant˺ struggle.
 word_by_word:
   1:
@@ -11,15 +11,15 @@ word_by_word:
     translation: We have created
     transliteration: khalaqnā
   3:
-    arabic: الۡاِنۡسَانَ
+    arabic: ٱلۡإِنسَٰنَ
     translation: man
     transliteration: l-insāna
   4:
-    arabic: فِىۡ
+    arabic: فِي
     translation: (to be) in
     transliteration: fī
   5:
-    arabic: كَبَدٍؕ‏
+    arabic: كَبَدٍ
     translation: hardship
     transliteration: kabadin
 ---

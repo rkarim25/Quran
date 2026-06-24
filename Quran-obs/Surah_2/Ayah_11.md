@@ -1,15 +1,15 @@
 ---
-arabic_ayat: وَاِذَا قِيۡلَ لَهُمۡ لَا تُفۡسِدُوۡا فِىۡ الۡاَرۡضِۙ قَالُوۡاۤ اِنَّمَا
-  نَحۡنُ مُصۡلِحُوۡنَ‏
+arabic_ayat: وَإِذَا قِيلَ لَهُمۡ لَا تُفۡسِدُواْ فِي ٱلۡأَرۡضِ قَالُوٓاْ إِنَّمَا
+  نَحۡنُ مُصۡلِحُونَ
 sentence_translation: When they are told, “Do not spread corruption in the land,”
   they reply, “We are only peace-makers!”
 word_by_word:
   1:
-    arabic: وَاِذَا
+    arabic: وَإِذَا
     translation: And when
     transliteration: wa-idhā
   2:
-    arabic: قِيۡلَ
+    arabic: قِيلَ
     translation: it is said
     transliteration: qīla
   3:
@@ -21,23 +21,23 @@ word_by_word:
     translation: (Do) not
     transliteration: lā
   5:
-    arabic: تُفۡسِدُوۡا
+    arabic: تُفۡسِدُواْ
     translation: spread corruption
     transliteration: tuf'sidū
   6:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   7:
-    arabic: الۡاَرۡضِۙ
+    arabic: ٱلۡأَرۡضِ
     translation: the earth
     transliteration: l-arḍi
   8:
-    arabic: قَالُوۡاۤ
+    arabic: قَالُوٓاْ
     translation: they say
     transliteration: qālū
   9:
-    arabic: اِنَّمَا
+    arabic: إِنَّمَا
     translation: Only
     transliteration: innamā
   10:
@@ -45,7 +45,7 @@ word_by_word:
     translation: we
     transliteration: naḥnu
   11:
-    arabic: مُصۡلِحُوۡنَ‏
+    arabic: مُصۡلِحُونَ
     translation: (are) reformers
     transliteration: muṣ'liḥūna
 ---

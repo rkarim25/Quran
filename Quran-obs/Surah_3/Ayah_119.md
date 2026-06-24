@@ -1,23 +1,23 @@
 ---
-arabic_ayat: هٰۤاَنۡتُمۡ اُولَاۤءِ تُحِبُّوۡنَهُمۡ وَلَا يُحِبُّوۡنَكُمۡ وَتُؤۡمِنُوۡنَ
-  بِالۡكِتٰبِ كُلِّهٖ ​ۚ وَاِذَا لَقُوۡكُمۡ قَالُوۡۤا اٰمَنَّا  ۖۚ وَاِذَا خَلَوۡا
-  عَضُّوۡا عَلَيۡكُمُ الۡاَنَامِلَ مِنَ الۡغَيۡظِ​ؕ قُلۡ مُوۡتُوۡا بِغَيۡظِكُمۡؕ​
-  اِنَّ اللّٰهَ عَلِيۡمٌ ۢ بِذَاتِ الصُّدُوۡرِ‏
+arabic_ayat: هَٰٓأَنتُمۡ أُوْلَآءِ تُحِبُّونَهُمۡ وَلَا يُحِبُّونَكُمۡ وَتُؤۡمِنُونَ
+  بِٱلۡكِتَٰبِ كُلِّهِۦ وَإِذَا لَقُوكُمۡ قَالُوٓاْ ءَامَنَّا وَإِذَا خَلَوۡاْ عَضُّواْ
+  عَلَيۡكُمُ ٱلۡأَنَامِلَ مِنَ ٱلۡغَيۡظِۚ قُلۡ مُوتُواْ بِغَيۡظِكُمۡۗ إِنَّ ٱللَّهَ
+  عَلِيمُۢ بِذَاتِ ٱلصُّدُورِ
 sentence_translation: Here you are! You love them but they do not love you, and you
   believe in all Scriptures. When they meet you they say, “We believe.” But when alone,
   they bite their fingertips in rage. Say, ˹O Prophet,˺ “˹May you˺ die of your rage!”
   Surely Allah knows best what is ˹hidden˺ in the heart.
 word_by_word:
   1:
-    arabic: هٰۤاَنۡتُمۡ
+    arabic: هَٰٓأَنتُمۡ
     translation: Lo! You are
     transliteration: hāantum
   2:
-    arabic: اُولَاۤءِ
+    arabic: أُوْلَآءِ
     translation: those
     transliteration: ulāi
   3:
-    arabic: تُحِبُّوۡنَهُمۡ
+    arabic: تُحِبُّونَهُمۡ
     translation: you love them
     transliteration: tuḥibbūnahum
   4:
@@ -25,47 +25,47 @@ word_by_word:
     translation: but not
     transliteration: walā
   5:
-    arabic: يُحِبُّوۡنَكُمۡ
+    arabic: يُحِبُّونَكُمۡ
     translation: they love you
     transliteration: yuḥibbūnakum
   6:
-    arabic: وَتُؤۡمِنُوۡنَ
+    arabic: وَتُؤۡمِنُونَ
     translation: and you believe
     transliteration: watu'minūna
   7:
-    arabic: بِالۡكِتٰبِ
+    arabic: بِٱلۡكِتَٰبِ
     translation: 'in the Book '
     transliteration: bil-kitābi
   8:
-    arabic: كُلِّهٖ ​ۚ
+    arabic: كُلِّهِۦ
     translation: all of it
     transliteration: kullihi
   9:
-    arabic: وَاِذَا
+    arabic: وَإِذَا
     translation: And when
     transliteration: wa-idhā
   10:
-    arabic: لَقُوۡكُمۡ
+    arabic: لَقُوكُمۡ
     translation: they meet you
     transliteration: laqūkum
   11:
-    arabic: قَالُوۡۤا
+    arabic: قَالُوٓاْ ءَ
     translation: they say
     transliteration: qālū
   12:
-    arabic: اٰمَنَّا  ۖۚ
+    arabic: امَنَّا
     translation: We believe
     transliteration: āmannā
   13:
-    arabic: وَاِذَا
+    arabic: وَإِذَا
     translation: And when
     transliteration: wa-idhā
   14:
-    arabic: خَلَوۡا
+    arabic: خَلَوۡاْ
     translation: they are alone
     transliteration: khalaw
   15:
-    arabic: عَضُّوۡا
+    arabic: عَضُّواْ
     translation: they bite
     transliteration: ʿaḍḍū
   16:
@@ -73,7 +73,7 @@ word_by_word:
     translation: at you
     transliteration: ʿalaykumu
   17:
-    arabic: الۡاَنَامِلَ
+    arabic: ٱلۡأَنَامِلَ
     translation: the finger tips
     transliteration: l-anāmila
   18:
@@ -81,7 +81,7 @@ word_by_word:
     translation: (out) of
     transliteration: mina
   19:
-    arabic: الۡغَيۡظِ​ؕ
+    arabic: ٱلۡغَيۡظِۚ
     translation: '[the] rage'
     transliteration: l-ghayẓi
   20:
@@ -89,23 +89,23 @@ word_by_word:
     translation: Say
     transliteration: qul
   21:
-    arabic: مُوۡتُوۡا
+    arabic: مُوتُواْ
     translation: Die
     transliteration: mūtū
   22:
-    arabic: بِغَيۡظِكُمۡؕ​
+    arabic: بِغَيۡظِكُمۡۗ
     translation: in your rage
     transliteration: bighayẓikum
   23:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   24:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   25:
-    arabic: عَلِيۡمٌ ۢ
+    arabic: عَلِيمُۢ
     translation: (is) All-Knowing
     transliteration: ʿalīmun
   26:
@@ -113,7 +113,7 @@ word_by_word:
     translation: of what
     transliteration: bidhāti
   27:
-    arabic: الصُّدُوۡرِ‏
+    arabic: ٱلصُّدُورِ
     translation: (is in) the breasts
     transliteration: l-ṣudūri
 ---

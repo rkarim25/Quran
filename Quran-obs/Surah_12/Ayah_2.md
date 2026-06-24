@@ -1,22 +1,22 @@
 ---
-arabic_ayat: اِنَّاۤ اَنۡزَلۡنٰهُ قُرۡءٰنًا عَرَبِيًّا لَّعَلَّكُمۡ تَعۡقِلُوۡنَ‏
+arabic_ayat: إِنَّآ أَنزَلۡنَٰهُ قُرۡءَٰنًا عَرَبِيّٗا لَّعَلَّكُمۡ تَعۡقِلُونَ
 sentence_translation: Indeed, We have sent it down as an Arabic Quran so that you
   may understand.
 word_by_word:
   1:
-    arabic: اِنَّاۤ
+    arabic: إِنَّآ
     translation: Indeed, We
     transliteration: innā
   2:
-    arabic: اَنۡزَلۡنٰهُ
+    arabic: أَنزَلۡنَٰهُ
     translation: We have sent it down
     transliteration: anzalnāhu
   3:
-    arabic: قُرۡءٰنًا
+    arabic: قُرۡءَٰنًا
     translation: (as) a Quran in Arabic
     transliteration: qur'ānan
   4:
-    arabic: عَرَبِيًّا
+    arabic: عَرَبِيّٗا
     translation: (as) a Quran in Arabic
     transliteration: ʿarabiyyan
   5:
@@ -24,7 +24,7 @@ word_by_word:
     translation: so that you may
     transliteration: laʿallakum
   6:
-    arabic: تَعۡقِلُوۡنَ‏
+    arabic: تَعۡقِلُونَ
     translation: understand
     transliteration: taʿqilūna
 ---

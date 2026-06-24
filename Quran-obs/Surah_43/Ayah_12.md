@@ -1,11 +1,11 @@
 ---
-arabic_ayat: وَالَّذِىۡ خَلَقَ الۡاَزۡوَاجَ كُلَّهَا وَجَعَلَ لَكُمۡ مِّنَ الۡفُلۡكِ
-  وَالۡاَنۡعَامِ مَا تَرۡكَبُوۡنَۙ‏
+arabic_ayat: وَٱلَّذِي خَلَقَ ٱلۡأَزۡوَٰجَ كُلَّهَا وَجَعَلَ لَكُم مِّنَ ٱلۡفُلۡكِ
+  وَٱلۡأَنۡعَٰمِ مَا تَرۡكَبُونَ
 sentence_translation: And ˹He is the One˺ Who created all ˹things in˺ pairs, and made
   for you ships and animals to ride
 word_by_word:
   1:
-    arabic: وَالَّذِىۡ
+    arabic: وَٱلَّذِي
     translation: And the One Who
     transliteration: wa-alladhī
   2:
@@ -13,7 +13,7 @@ word_by_word:
     translation: created
     transliteration: khalaqa
   3:
-    arabic: الۡاَزۡوَاجَ
+    arabic: ٱلۡأَزۡوَٰجَ
     translation: the pairs
     transliteration: l-azwāja
   4:
@@ -25,7 +25,7 @@ word_by_word:
     translation: and made
     transliteration: wajaʿala
   6:
-    arabic: لَكُمۡ
+    arabic: لَكُم
     translation: for you
     transliteration: lakum
   7:
@@ -33,11 +33,11 @@ word_by_word:
     translation: '[of]'
     transliteration: mina
   8:
-    arabic: الۡفُلۡكِ
+    arabic: ٱلۡفُلۡكِ
     translation: the ships
     transliteration: l-ful'ki
   9:
-    arabic: وَالۡاَنۡعَامِ
+    arabic: وَٱلۡأَنۡعَٰمِ
     translation: and the cattle
     transliteration: wal-anʿāmi
   10:
@@ -45,7 +45,7 @@ word_by_word:
     translation: what
     transliteration: mā
   11:
-    arabic: تَرۡكَبُوۡنَۙ‏
+    arabic: تَرۡكَبُونَ
     translation: you ride
     transliteration: tarkabūna
 ---

@@ -1,6 +1,6 @@
 ---
-arabic_ayat: "رَبَّنَا اغۡفِرۡ لِىۡ وَلـِوَالِدَىَّ وَلِلۡمُؤۡمِنِيۡنَ يَوۡمَ يَقُوۡمُ\
-  \ الۡحِسَابُ‏ \uFEFF\uFEFF"
+arabic_ayat: رَبَّنَا ٱغۡفِرۡ لِي وَلِوَٰلِدَيَّ وَلِلۡمُؤۡمِنِينَ يَوۡمَ يَقُومُ
+  ٱلۡحِسَابُ
 sentence_translation: Our Lord! Forgive me, my parents, and the believers on the Day
   when the judgment will come to pass.”
 word_by_word:
@@ -9,19 +9,19 @@ word_by_word:
     translation: Our Lord
     transliteration: rabbanā
   2:
-    arabic: اغۡفِرۡ
+    arabic: ٱغۡفِرۡ
     translation: Forgive
     transliteration: igh'fir
   3:
-    arabic: لِىۡ
+    arabic: لِي
     translation: me
     transliteration: lī
   4:
-    arabic: وَلـِوَالِدَىَّ
+    arabic: وَلِوَٰلِدَيَّ
     translation: and my parents
     transliteration: waliwālidayya
   5:
-    arabic: وَلِلۡمُؤۡمِنِيۡنَ
+    arabic: وَلِلۡمُؤۡمِنِينَ
     translation: and the believers
     transliteration: walil'mu'minīna
   6:
@@ -29,11 +29,11 @@ word_by_word:
     translation: (on) the Day
     transliteration: yawma
   7:
-    arabic: يَقُوۡمُ
+    arabic: يَقُومُ
     translation: will (be) established
     transliteration: yaqūmu
   8:
-    arabic: "الۡحِسَابُ‏ \uFEFF\uFEFF"
+    arabic: ٱلۡحِسَابُ
     translation: the account
     transliteration: l-ḥisābu
 ---

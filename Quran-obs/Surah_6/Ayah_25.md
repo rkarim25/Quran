@@ -1,8 +1,8 @@
 ---
-arabic_ayat: وَمِنۡهُمۡ مَّنۡ يَّسۡتَمِعُ اِلَيۡكَ​​ ۚ وَجَعَلۡنَا عَلٰى قُلُوۡبِهِمۡ
-  اَكِنَّةً اَنۡ يَّفۡقَهُوۡهُ وَفِىۡۤ اٰذَانِهِمۡ وَقۡرًا ​ؕ وَاِنۡ يَّرَوۡا كُلَّ
-  اٰيَةٍ لَّا يُؤۡمِنُوۡا بِهَا​ ؕ حَتّٰۤى اِذَا جَآءُوۡكَ يُجَادِلُوۡنَكَ يَقُوۡلُ
-  الَّذِيۡنَ كَفَرُوۡۤا اِنۡ هٰذَاۤ اِلَّاۤ اَسَاطِيۡرُ الۡاَوَّلِيۡنَ‏
+arabic_ayat: وَمِنۡهُم مَّن يَسۡتَمِعُ إِلَيۡكَۖ وَجَعَلۡنَا عَلَىٰ قُلُوبِهِمۡ أَكِنَّةً
+  أَن يَفۡقَهُوهُ وَفِيٓ ءَاذَانِهِمۡ وَقۡرٗاۚ وَإِن يَرَوۡاْ كُلَّ ءَايَةٖ لَّا يُؤۡمِنُواْ
+  بِهَاۖ حَتَّىٰٓ إِذَا جَآءُوكَ يُجَٰدِلُونَكَ يَقُولُ ٱلَّذِينَ كَفَرُوٓاْ إِنۡ
+  هَٰذَآ إِلَّآ أَسَٰطِيرُ ٱلۡأَوَّلِينَ
 sentence_translation: There are some of them who ˹pretend to˺ listen to your recitation
   ˹of the Quran˺, but We have cast veils over their hearts—leaving them unable to
   comprehend it—and deafness in their ears. Even if they were to see every sign, they
@@ -10,19 +10,19 @@ sentence_translation: There are some of them who ˹pretend to˺ listen to your r
   you, saying, “This ˹Quran˺ is nothing but ancient fables!”
 word_by_word:
   1:
-    arabic: وَمِنۡهُمۡ
+    arabic: وَمِنۡهُم
     translation: And among them
     transliteration: wamin'hum
   2:
-    arabic: مَّنۡ
+    arabic: مَّن
     translation: (are those) who
     transliteration: man
   3:
-    arabic: يَّسۡتَمِعُ
+    arabic: يَسۡتَمِعُ
     translation: listen
     transliteration: yastamiʿu
   4:
-    arabic: اِلَيۡكَ​​ ۚ
+    arabic: إِلَيۡكَۖ
     translation: to you
     transliteration: ilayka
   5:
@@ -30,51 +30,51 @@ word_by_word:
     translation: but We have placed
     transliteration: wajaʿalnā
   6:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: over
     transliteration: ʿalā
   7:
-    arabic: قُلُوۡبِهِمۡ
+    arabic: قُلُوبِهِمۡ
     translation: their hearts
     transliteration: qulūbihim
   8:
-    arabic: اَكِنَّةً
+    arabic: أَكِنَّةً
     translation: coverings
     transliteration: akinnatan
   9:
-    arabic: اَنۡ
+    arabic: أَن
     translation: lest
     transliteration: an
   10:
-    arabic: يَّفۡقَهُوۡهُ
+    arabic: يَفۡقَهُوهُ
     translation: they understand it
     transliteration: yafqahūhu
   11:
-    arabic: وَفِىۡۤ
+    arabic: وَفِيٓ ءَ
     translation: and in
     transliteration: wafī
   12:
-    arabic: اٰذَانِهِمۡ
+    arabic: اذَانِهِمۡ
     translation: their ears
     transliteration: ādhānihim
   13:
-    arabic: وَقۡرًا ​ؕ
+    arabic: وَقۡرٗاۚ
     translation: deafness
     transliteration: waqran
   14:
-    arabic: وَاِنۡ
+    arabic: وَإِن
     translation: And if
     transliteration: wa-in
   15:
-    arabic: يَّرَوۡا
+    arabic: يَرَوۡاْ
     translation: they see
     transliteration: yaraw
   16:
-    arabic: كُلَّ
+    arabic: كُلَّ ءَ
     translation: every
     transliteration: kulla
   17:
-    arabic: اٰيَةٍ
+    arabic: ايَةٖ
     translation: sign
     transliteration: āyatin
   18:
@@ -82,59 +82,59 @@ word_by_word:
     translation: not
     transliteration: lā
   19:
-    arabic: يُؤۡمِنُوۡا
+    arabic: يُؤۡمِنُواْ
     translation: will they believe
     transliteration: yu'minū
   20:
-    arabic: بِهَا​ ؕ
+    arabic: بِهَاۖ
     translation: in it
     transliteration: bihā
   21:
-    arabic: حَتّٰۤى
+    arabic: حَتَّىٰٓ
     translation: Until
     transliteration: ḥattā
   22:
-    arabic: اِذَا
+    arabic: إِذَا
     translation: when
     transliteration: idhā
   23:
-    arabic: جَآءُوۡكَ
+    arabic: جَآءُوكَ
     translation: they come to you
     transliteration: jāūka
   24:
-    arabic: يُجَادِلُوۡنَكَ
+    arabic: يُجَٰدِلُونَكَ
     translation: and argue with you
     transliteration: yujādilūnaka
   25:
-    arabic: يَقُوۡلُ
+    arabic: يَقُولُ
     translation: say
     transliteration: yaqūlu
   26:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   27:
-    arabic: كَفَرُوۡۤا
+    arabic: كَفَرُوٓاْ
     translation: disbelieved
     transliteration: kafarū
   28:
-    arabic: اِنۡ
+    arabic: إِنۡ
     translation: Not
     transliteration: in
   29:
-    arabic: هٰذَاۤ
+    arabic: هَٰذَآ
     translation: (is) this
     transliteration: hādhā
   30:
-    arabic: اِلَّاۤ
+    arabic: إِلَّآ
     translation: but
     transliteration: illā
   31:
-    arabic: اَسَاطِيۡرُ
+    arabic: أَسَٰطِيرُ
     translation: (the) tales
     transliteration: asāṭīru
   32:
-    arabic: الۡاَوَّلِيۡنَ‏
+    arabic: ٱلۡأَوَّلِينَ
     translation: (of) the former (people)
     transliteration: l-awalīna
 ---

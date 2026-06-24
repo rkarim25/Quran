@@ -1,12 +1,12 @@
 ---
-arabic_ayat: فَاِنۡ لَّمۡ تَفۡعَلُوۡا وَلَنۡ تَفۡعَلُوۡا فَاتَّقُوۡا النَّارَ الَّتِىۡ
-  وَقُوۡدُهَا النَّاسُ وَالۡحِجَارَةُ  ۖۚ اُعِدَّتۡ لِلۡكٰفِرِيۡنَ‏
+arabic_ayat: فَإِن لَّمۡ تَفۡعَلُواْ وَلَن تَفۡعَلُواْ فَٱتَّقُواْ ٱلنَّارَ ٱلَّتِي
+  وَقُودُهَا ٱلنَّاسُ وَٱلۡحِجَارَةُۖ أُعِدَّتۡ لِلۡكَٰفِرِينَ
 sentence_translation: But if you are unable to do so—and you will never be able to
   do so—then fear the Fire fuelled with people and stones, which is prepared for the
   disbelievers.
 word_by_word:
   1:
-    arabic: فَاِنۡ
+    arabic: فَإِن
     translation: But if
     transliteration: fa-in
   2:
@@ -14,47 +14,47 @@ word_by_word:
     translation: not
     transliteration: lam
   3:
-    arabic: تَفۡعَلُوۡا
+    arabic: تَفۡعَلُواْ
     translation: you do
     transliteration: tafʿalū
   4:
-    arabic: وَلَنۡ
+    arabic: وَلَن
     translation: and never
     transliteration: walan
   5:
-    arabic: تَفۡعَلُوۡا
+    arabic: تَفۡعَلُواْ
     translation: will you do
     transliteration: tafʿalū
   6:
-    arabic: فَاتَّقُوۡا
+    arabic: فَٱتَّقُواْ
     translation: then fear
     transliteration: fa-ittaqū
   7:
-    arabic: النَّارَ
+    arabic: ٱلنَّارَ
     translation: the Fire
     transliteration: l-nāra
   8:
-    arabic: الَّتِىۡ
+    arabic: ٱلَّتِي
     translation: whose
     transliteration: allatī
   9:
-    arabic: وَقُوۡدُهَا
+    arabic: وَقُودُهَا
     translation: '[its] fuel'
     transliteration: waqūduhā
   10:
-    arabic: النَّاسُ
+    arabic: ٱلنَّاسُ
     translation: (is) [the] men
     transliteration: l-nāsu
   11:
-    arabic: وَالۡحِجَارَةُ  ۖۚ
+    arabic: وَٱلۡحِجَارَةُۖ
     translation: and [the] stones
     transliteration: wal-ḥijāratu
   12:
-    arabic: اُعِدَّتۡ
+    arabic: أُعِدَّتۡ
     translation: prepared
     transliteration: uʿiddat
   13:
-    arabic: لِلۡكٰفِرِيۡنَ‏
+    arabic: لِلۡكَٰفِرِينَ
     translation: for the disbelievers
     transliteration: lil'kāfirīna
 ---

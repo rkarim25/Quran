@@ -1,39 +1,39 @@
 ---
-arabic_ayat: فَالَّذِيۡنَ اٰمَنُوۡا وَ عَمِلُوا الصّٰلِحٰتِ لَهُمۡ مَّغۡفِرَةٌ وَّرِزۡقٌ
-  كَرِيۡمٌ‏
+arabic_ayat: فَٱلَّذِينَ ءَامَنُواْ وَعَمِلُواْ ٱلصَّٰلِحَٰتِ لَهُم مَّغۡفِرَةٞ وَرِزۡقٞ
+  كَرِيمٞ
 sentence_translation: So those who believe and do good will have forgiveness and an
   honourable provision.
 word_by_word:
   1:
-    arabic: فَالَّذِيۡنَ
+    arabic: فَٱلَّذِينَ ءَ
     translation: So those who
     transliteration: fa-alladhīna
   2:
-    arabic: اٰمَنُوۡا
+    arabic: امَنُواْ
     translation: believe
     transliteration: āmanū
   3:
-    arabic: وَ عَمِلُوا
+    arabic: وَعَمِلُواْ
     translation: and do
     transliteration: waʿamilū
   4:
-    arabic: الصّٰلِحٰتِ
+    arabic: ٱلصَّٰلِحَٰتِ
     translation: 'righteous deeds '
     transliteration: l-ṣāliḥāti
   5:
-    arabic: لَهُمۡ
+    arabic: لَهُم
     translation: for them
     transliteration: lahum
   6:
-    arabic: مَّغۡفِرَةٌ
+    arabic: مَّغۡفِرَةٞ
     translation: (is) forgiveness
     transliteration: maghfiratun
   7:
-    arabic: وَّرِزۡقٌ
+    arabic: وَرِزۡقٞ
     translation: and a provision
     transliteration: wariz'qun
   8:
-    arabic: كَرِيۡمٌ‏
+    arabic: كَرِيمٞ
     translation: noble
     transliteration: karīmun
 ---

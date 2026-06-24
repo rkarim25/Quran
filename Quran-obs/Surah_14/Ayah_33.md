@@ -1,6 +1,6 @@
 ---
-arabic_ayat: وَسَخَّرَ لَـكُمُ الشَّمۡسَ وَالۡقَمَرَ دَآٮِٕبَيۡنِ​ۚ وَسَخَّرَ لَـكُمُ
-  الَّيۡلَ وَالنَّهَارَ​ۚ‏
+arabic_ayat: وَسَخَّرَ لَكُمُ ٱلشَّمۡسَ وَٱلۡقَمَرَ دَآئِبَيۡنِۖ وَسَخَّرَ لَكُمُ
+  ٱلَّيۡلَ وَٱلنَّهَارَ
 sentence_translation: He has ˹also˺ subjected for you the sun and the moon, both constantly
   orbiting, and has subjected the day and night for you.
 word_by_word:
@@ -9,19 +9,19 @@ word_by_word:
     translation: And He subjected
     transliteration: wasakhara
   2:
-    arabic: لَـكُمُ
+    arabic: لَكُمُ
     translation: for you
     transliteration: lakumu
   3:
-    arabic: الشَّمۡسَ
+    arabic: ٱلشَّمۡسَ
     translation: the sun
     transliteration: l-shamsa
   4:
-    arabic: وَالۡقَمَرَ
+    arabic: وَٱلۡقَمَرَ
     translation: and the moon
     transliteration: wal-qamara
   5:
-    arabic: دَآٮِٕبَيۡنِ​ۚ
+    arabic: دَآئِبَيۡنِۖ
     translation: both constantly pursuing their courses
     transliteration: dāibayni
   6:
@@ -29,15 +29,15 @@ word_by_word:
     translation: and subjected
     transliteration: wasakhara
   7:
-    arabic: لَـكُمُ
+    arabic: لَكُمُ
     translation: for you
     transliteration: lakumu
   8:
-    arabic: الَّيۡلَ
+    arabic: ٱلَّيۡلَ
     translation: the night
     transliteration: al-layla
   9:
-    arabic: وَالنَّهَارَ​ۚ‏
+    arabic: وَٱلنَّهَارَ
     translation: and the day
     transliteration: wal-nahāra
 ---

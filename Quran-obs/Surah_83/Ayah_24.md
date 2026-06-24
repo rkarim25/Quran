@@ -1,5 +1,5 @@
 ---
-arabic_ayat: تَعۡرِفُ فِىۡ وُجُوۡهِهِمۡ نَضۡرَةَ النَّعِيۡمِ​ۚ‏
+arabic_ayat: تَعۡرِفُ فِي وُجُوهِهِمۡ نَضۡرَةَ ٱلنَّعِيمِ
 sentence_translation: You will recognize on their faces the glow of delight.
 word_by_word:
   1:
@@ -7,11 +7,11 @@ word_by_word:
     translation: You will recognize
     transliteration: taʿrifu
   2:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   3:
-    arabic: وُجُوۡهِهِمۡ
+    arabic: وُجُوهِهِمۡ
     translation: their faces
     transliteration: wujūhihim
   4:
@@ -19,7 +19,7 @@ word_by_word:
     translation: (the) radiance
     transliteration: naḍrata
   5:
-    arabic: النَّعِيۡمِ​ۚ‏
+    arabic: ٱلنَّعِيمِ
     translation: (of) bliss
     transliteration: l-naʿīmi
 ---

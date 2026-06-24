@@ -1,27 +1,27 @@
 ---
-arabic_ayat: فَاَوۡحَيۡنَاۤ اِلٰى مُوۡسٰٓى اَنِ اضۡرِبْ بِّعَصَاكَ الۡبَحۡرَ​ؕ فَانْفَلَقَ
-  فَكَانَ كُلُّ فِرۡقٍ كَالطَّوۡدِ الۡعَظِيۡمِ​ۚ‏
+arabic_ayat: فَأَوۡحَيۡنَآ إِلَىٰ مُوسَىٰٓ أَنِ ٱضۡرِب بِّعَصَاكَ ٱلۡبَحۡرَۖ فَٱنفَلَقَ
+  فَكَانَ كُلُّ فِرۡقٖ كَٱلطَّوۡدِ ٱلۡعَظِيمِ
 sentence_translation: 'So We inspired Moses: “Strike the sea with your staff,” and
   the sea was split, each part was like a huge mountain.'
 word_by_word:
   1:
-    arabic: فَاَوۡحَيۡنَاۤ
+    arabic: فَأَوۡحَيۡنَآ
     translation: Then We inspired
     transliteration: fa-awḥaynā
   2:
-    arabic: اِلٰى
+    arabic: إِلَىٰ
     translation: to
     transliteration: ilā
   3:
-    arabic: مُوۡسٰٓى
+    arabic: مُوسَىٰٓ
     translation: Musa
     transliteration: mūsā
   4:
-    arabic: اَنِ
+    arabic: أَنِ
     translation: '[that]'
     transliteration: ani
   5:
-    arabic: اضۡرِبْ
+    arabic: ٱضۡرِب
     translation: Strike
     transliteration: iḍ'rib
   6:
@@ -29,11 +29,11 @@ word_by_word:
     translation: with your staff
     transliteration: biʿaṣāka
   7:
-    arabic: الۡبَحۡرَ​ؕ
+    arabic: ٱلۡبَحۡرَۖ
     translation: the sea
     transliteration: l-baḥra
   8:
-    arabic: فَانْفَلَقَ
+    arabic: فَٱنفَلَقَ
     translation: So it parted
     transliteration: fa-infalaqa
   9:
@@ -45,15 +45,15 @@ word_by_word:
     translation: each
     transliteration: kullu
   11:
-    arabic: فِرۡقٍ
+    arabic: فِرۡقٖ
     translation: part
     transliteration: fir'qin
   12:
-    arabic: كَالطَّوۡدِ
+    arabic: كَٱلطَّوۡدِ
     translation: like the mountain
     transliteration: kal-ṭawdi
   13:
-    arabic: الۡعَظِيۡمِ​ۚ‏
+    arabic: ٱلۡعَظِيمِ
     translation: '[the] great'
     transliteration: l-ʿaẓīmi
 ---

@@ -1,6 +1,6 @@
 ---
-arabic_ayat: ثُمَّ نُنَجِّىۡ رُسُلَنَا وَالَّذِيۡنَ اٰمَنُوۡا​ كَذٰلِكَ​ۚ حَقًّا عَلَيۡنَا
-  نُـنۡجِ الۡمُؤۡمِنِيۡنَ‏
+arabic_ayat: ثُمَّ نُنَجِّي رُسُلَنَا وَٱلَّذِينَ ءَامَنُواْۚ كَذَٰلِكَ حَقًّا عَلَيۡنَا
+  نُنجِ ٱلۡمُؤۡمِنِينَ
 sentence_translation: Then We saved Our messengers and those who believed. For it
   is Our duty to save the believers.
 word_by_word:
@@ -9,7 +9,7 @@ word_by_word:
     translation: Then
     transliteration: thumma
   2:
-    arabic: نُنَجِّىۡ
+    arabic: نُنَجِّي
     translation: We will save
     transliteration: nunajjī
   3:
@@ -17,15 +17,15 @@ word_by_word:
     translation: Our Messengers
     transliteration: rusulanā
   4:
-    arabic: وَالَّذِيۡنَ
+    arabic: وَٱلَّذِينَ ءَ
     translation: and those who
     transliteration: wa-alladhīna
   5:
-    arabic: اٰمَنُوۡا​
+    arabic: امَنُواْۚ
     translation: believe
     transliteration: āmanū
   6:
-    arabic: كَذٰلِكَ​ۚ
+    arabic: كَذَٰلِكَ
     translation: Thus
     transliteration: kadhālika
   7:
@@ -37,11 +37,11 @@ word_by_word:
     translation: upon Us
     transliteration: ʿalaynā
   9:
-    arabic: نُـنۡجِ
+    arabic: نُنجِ
     translation: (that) We save
     transliteration: nunji
   10:
-    arabic: الۡمُؤۡمِنِيۡنَ‏
+    arabic: ٱلۡمُؤۡمِنِينَ
     translation: the believers
     transliteration: l-mu'minīna
 ---

@@ -1,13 +1,13 @@
 ---
-arabic_ayat: فَمَنۡ تَوَلّٰى بَعۡدَ ذٰ لِكَ فَاُولٰٓٮِٕكَ هُمُ الۡفٰسِقُوۡنَ‏
+arabic_ayat: فَمَن تَوَلَّىٰ بَعۡدَ ذَٰلِكَ فَأُوْلَٰٓئِكَ هُمُ ٱلۡفَٰسِقُونَ
 sentence_translation: Whoever turns back after this, they will be the rebellious.
 word_by_word:
   1:
-    arabic: فَمَنۡ
+    arabic: فَمَن
     translation: Then whoever
     transliteration: faman
   2:
-    arabic: تَوَلّٰى
+    arabic: تَوَلَّىٰ
     translation: turns away
     transliteration: tawallā
   3:
@@ -15,11 +15,11 @@ word_by_word:
     translation: after
     transliteration: baʿda
   4:
-    arabic: ذٰ لِكَ
+    arabic: ذَٰلِكَ
     translation: that
     transliteration: dhālika
   5:
-    arabic: فَاُولٰٓٮِٕكَ
+    arabic: فَأُوْلَٰٓئِكَ
     translation: then those
     transliteration: fa-ulāika
   6:
@@ -27,7 +27,7 @@ word_by_word:
     translation: they
     transliteration: humu
   7:
-    arabic: الۡفٰسِقُوۡنَ‏
+    arabic: ٱلۡفَٰسِقُونَ
     translation: (are) the defiantly disobedient
     transliteration: l-fāsiqūna
 ---

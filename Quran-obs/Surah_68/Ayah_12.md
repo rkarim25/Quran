@@ -1,9 +1,9 @@
 ---
-arabic_ayat: مَّنَّاعٍ لِّلۡخَيۡرِ مُعۡتَدٍ اَثِيۡمٍۙ‏
+arabic_ayat: مَّنَّاعٖ لِّلۡخَيۡرِ مُعۡتَدٍ أَثِيمٍ
 sentence_translation: withholder of good, transgressor, evildoer,
 word_by_word:
   1:
-    arabic: مَّنَّاعٍ
+    arabic: مَّنَّاعٖ
     translation: A preventer
     transliteration: mannāʿin
   2:
@@ -15,7 +15,7 @@ word_by_word:
     translation: transgressor
     transliteration: muʿ'tadin
   4:
-    arabic: اَثِيۡمٍۙ‏
+    arabic: أَثِيمٍ
     translation: sinful
     transliteration: athīmin
 ---

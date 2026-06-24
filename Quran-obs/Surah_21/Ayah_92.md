@@ -1,31 +1,30 @@
 ---
-arabic_ayat: "اِنَّ هٰذِهٖۤ اُمَّتُكُمۡ اُمَّةً وَّاحِدَةً  ​ۖ وَّاَنَا رَبُّكُمۡ\
-  \ فَاعۡبُدُوۡنِ‏ \uFEFF\uFEFF"
+arabic_ayat: إِنَّ هَٰذِهِۦٓ أُمَّتُكُمۡ أُمَّةٗ وَٰحِدَةٗ وَأَنَا۠ رَبُّكُمۡ فَٱعۡبُدُونِ
 sentence_translation: ˹O prophets!˺ Indeed, this religion of yours is ˹only˺ one,
   and I am your Lord, so worship Me ˹alone˺.
 word_by_word:
   1:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   2:
-    arabic: هٰذِهٖۤ
+    arabic: هَٰذِهِۦٓ
     translation: this
     transliteration: hādhihi
   3:
-    arabic: اُمَّتُكُمۡ
+    arabic: أُمَّتُكُمۡ
     translation: '(is) your religion '
     transliteration: ummatukum
   4:
-    arabic: اُمَّةً
+    arabic: أُمَّةٗ
     translation: religion
     transliteration: ummatan
   5:
-    arabic: وَّاحِدَةً  ​ۖ
+    arabic: وَٰحِدَةٗ
     translation: one
     transliteration: wāḥidatan
   6:
-    arabic: وَّاَنَا
+    arabic: وَأَنَا۠
     translation: and I Am
     transliteration: wa-anā
   7:
@@ -33,7 +32,7 @@ word_by_word:
     translation: your Lord
     transliteration: rabbukum
   8:
-    arabic: "فَاعۡبُدُوۡنِ‏ \uFEFF\uFEFF"
+    arabic: فَٱعۡبُدُونِ
     translation: so worship Me
     transliteration: fa-uʿ'budūni
 ---

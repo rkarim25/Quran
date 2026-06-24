@@ -1,6 +1,6 @@
 ---
-arabic_ayat: وَلَمَّا فَصَلَتِ الۡعِيۡرُ قَالَ اَبُوۡهُمۡ اِنِّىۡ لَاَجِدُ رِيۡحَ
-  يُوۡسُفَ​ لَوۡلَاۤ اَنۡ تُفَـنِّدُوۡنِ‏
+arabic_ayat: وَلَمَّا فَصَلَتِ ٱلۡعِيرُ قَالَ أَبُوهُمۡ إِنِّي لَأَجِدُ رِيحَ يُوسُفَۖ
+  لَوۡلَآ أَن تُفَنِّدُونِ
 sentence_translation: When the caravan departed ˹from Egypt˺, their father said ˹to
   those around him˺, “You may think I am senile, but I certainly sense the smell of
   Joseph.”
@@ -14,7 +14,7 @@ word_by_word:
     translation: departed
     transliteration: faṣalati
   3:
-    arabic: الۡعِيۡرُ
+    arabic: ٱلۡعِيرُ
     translation: the caravan
     transliteration: l-ʿīru
   4:
@@ -22,35 +22,35 @@ word_by_word:
     translation: their father said
     transliteration: qāla
   5:
-    arabic: اَبُوۡهُمۡ
+    arabic: أَبُوهُمۡ
     translation: their father said
     transliteration: abūhum
   6:
-    arabic: اِنِّىۡ
+    arabic: إِنِّي
     translation: Indeed, I
     transliteration: innī
   7:
-    arabic: لَاَجِدُ
+    arabic: لَأَجِدُ
     translation: '[I] find'
     transliteration: la-ajidu
   8:
-    arabic: رِيۡحَ
+    arabic: رِيحَ
     translation: (the) smell
     transliteration: rīḥa
   9:
-    arabic: يُوۡسُفَ​
+    arabic: يُوسُفَۖ
     translation: (of) Yusuf
     transliteration: yūsufa
   10:
-    arabic: لَوۡلَاۤ
+    arabic: لَوۡلَآ
     translation: if not
     transliteration: lawlā
   11:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that
     transliteration: an
   12:
-    arabic: تُفَـنِّدُوۡنِ‏
+    arabic: تُفَنِّدُونِ
     translation: you think me weakened in mind
     transliteration: tufannidūni
 ---

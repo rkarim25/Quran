@@ -1,45 +1,45 @@
 ---
-arabic_ayat: وَاِذۡ يَتَحَآجُّوۡنَ فِى النَّارِ فَيَقُوۡلُ الضُّعَفٰٓؤُا لِلَّذِيۡنَ
-  اسۡتَكۡبَرُوۡۤا اِنَّا كُنَّا لَـكُمۡ تَبَعًا فَهَلۡ اَنۡتُمۡ مُّغۡنُوۡنَ عَنَّا
-  نَصِيۡبًا مِّنَ النَّارِ‏
+arabic_ayat: وَإِذۡ يَتَحَآجُّونَ فِي ٱلنَّارِ فَيَقُولُ ٱلضُّعَفَٰٓؤُاْ لِلَّذِينَ
+  ٱسۡتَكۡبَرُوٓاْ إِنَّا كُنَّا لَكُمۡ تَبَعٗا فَهَلۡ أَنتُم مُّغۡنُونَ عَنَّا نَصِيبٗا
+  مِّنَ ٱلنَّارِ
 sentence_translation: ˹Consider the Day˺ when they will dispute in the Fire, and the
   lowly ˹followers˺ will appeal to the arrogant ˹leaders˺, “We were your ˹dedicated˺
   followers, will you then shield us from a portion of the Fire?”
 word_by_word:
   1:
-    arabic: وَاِذۡ
+    arabic: وَإِذۡ
     translation: And when
     transliteration: wa-idh
   2:
-    arabic: يَتَحَآجُّوۡنَ
+    arabic: يَتَحَآجُّونَ
     translation: they will dispute
     transliteration: yataḥājjūna
   3:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   4:
-    arabic: النَّارِ
+    arabic: ٱلنَّارِ
     translation: the Fire
     transliteration: l-nāri
   5:
-    arabic: فَيَقُوۡلُ
+    arabic: فَيَقُولُ
     translation: then will say
     transliteration: fayaqūlu
   6:
-    arabic: الضُّعَفٰٓؤُا
+    arabic: ٱلضُّعَفَٰٓؤُاْ
     translation: the weak
     transliteration: l-ḍuʿafāu
   7:
-    arabic: لِلَّذِيۡنَ
+    arabic: لِلَّذِينَ
     translation: to those who
     transliteration: lilladhīna
   8:
-    arabic: اسۡتَكۡبَرُوۡۤا
+    arabic: ٱسۡتَكۡبَرُوٓاْ
     translation: were arrogant
     transliteration: is'takbarū
   9:
-    arabic: اِنَّا
+    arabic: إِنَّا
     translation: Indeed, we
     transliteration: innā
   10:
@@ -47,11 +47,11 @@ word_by_word:
     translation: '[we] were'
     transliteration: kunnā
   11:
-    arabic: لَـكُمۡ
+    arabic: لَكُمۡ
     translation: for you
     transliteration: lakum
   12:
-    arabic: تَبَعًا
+    arabic: تَبَعٗا
     translation: followers
     transliteration: tabaʿan
   13:
@@ -59,11 +59,11 @@ word_by_word:
     translation: so can
     transliteration: fahal
   14:
-    arabic: اَنۡتُمۡ
+    arabic: أَنتُم
     translation: you
     transliteration: antum
   15:
-    arabic: مُّغۡنُوۡنَ
+    arabic: مُّغۡنُونَ
     translation: avert
     transliteration: mugh'nūna
   16:
@@ -71,7 +71,7 @@ word_by_word:
     translation: from us
     transliteration: ʿannā
   17:
-    arabic: نَصِيۡبًا
+    arabic: نَصِيبٗا
     translation: a portion
     transliteration: naṣīban
   18:
@@ -79,7 +79,7 @@ word_by_word:
     translation: of
     transliteration: mina
   19:
-    arabic: النَّارِ‏
+    arabic: ٱلنَّارِ
     translation: the Fire
     transliteration: l-nāri
 ---

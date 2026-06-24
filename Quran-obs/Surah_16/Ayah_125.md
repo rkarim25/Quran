@@ -1,21 +1,21 @@
 ---
-arabic_ayat: اُدۡعُ اِلٰى سَبِيۡلِ رَبِّكَ بِالۡحِكۡمَةِ وَالۡمَوۡعِظَةِ الۡحَسَنَةِ​
-  وَجَادِلۡهُمۡ بِالَّتِىۡ هِىَ اَحۡسَنُ​ؕ اِنَّ رَبَّكَ هُوَ اَعۡلَمُ بِمَنۡ ضَلَّ
-  عَنۡ سَبِيۡلِهٖ​ وَهُوَ اَعۡلَمُ بِالۡمُهۡتَدِيۡنَ‏
+arabic_ayat: ٱدۡعُ إِلَىٰ سَبِيلِ رَبِّكَ بِٱلۡحِكۡمَةِ وَٱلۡمَوۡعِظَةِ ٱلۡحَسَنَةِۖ
+  وَجَٰدِلۡهُم بِٱلَّتِي هِيَ أَحۡسَنُۚ إِنَّ رَبَّكَ هُوَ أَعۡلَمُ بِمَن ضَلَّ عَن
+  سَبِيلِهِۦ وَهُوَ أَعۡلَمُ بِٱلۡمُهۡتَدِينَ
 sentence_translation: Invite ˹all˺ to the Way of your Lord with wisdom and kind advice,
   and only debate with them in the best manner. Surely your Lord ˹alone˺ knows best
   who has strayed from His Way and who is ˹rightly˺ guided.
 word_by_word:
   1:
-    arabic: اُدۡعُ
+    arabic: ٱدۡعُ
     translation: Call
     transliteration: ud'ʿu
   2:
-    arabic: اِلٰى
+    arabic: إِلَىٰ
     translation: to
     transliteration: ilā
   3:
-    arabic: سَبِيۡلِ
+    arabic: سَبِيلِ
     translation: (the) way
     transliteration: sabīli
   4:
@@ -23,35 +23,35 @@ word_by_word:
     translation: (of) your Lord
     transliteration: rabbika
   5:
-    arabic: بِالۡحِكۡمَةِ
+    arabic: بِٱلۡحِكۡمَةِ
     translation: with the wisdom
     transliteration: bil-ḥik'mati
   6:
-    arabic: وَالۡمَوۡعِظَةِ
+    arabic: وَٱلۡمَوۡعِظَةِ
     translation: and the instruction
     transliteration: wal-mawʿiẓati
   7:
-    arabic: الۡحَسَنَةِ​
+    arabic: ٱلۡحَسَنَةِۖ
     translation: the good
     transliteration: l-ḥasanati
   8:
-    arabic: وَجَادِلۡهُمۡ
+    arabic: وَجَٰدِلۡهُم
     translation: and discuss with them
     transliteration: wajādil'hum
   9:
-    arabic: بِالَّتِىۡ
+    arabic: بِٱلَّتِي
     translation: in that
     transliteration: bi-allatī
   10:
-    arabic: هِىَ
+    arabic: هِيَ
     translation: which
     transliteration: hiya
   11:
-    arabic: اَحۡسَنُ​ؕ
+    arabic: أَحۡسَنُۚ
     translation: (is) best
     transliteration: aḥsanu
   12:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   13:
@@ -63,11 +63,11 @@ word_by_word:
     translation: He
     transliteration: huwa
   15:
-    arabic: اَعۡلَمُ
+    arabic: أَعۡلَمُ
     translation: (is) most knowing
     transliteration: aʿlamu
   16:
-    arabic: بِمَنۡ
+    arabic: بِمَن
     translation: of who
     transliteration: biman
   17:
@@ -75,11 +75,11 @@ word_by_word:
     translation: has strayed
     transliteration: ḍalla
   18:
-    arabic: عَنۡ
+    arabic: عَن
     translation: from
     transliteration: ʿan
   19:
-    arabic: سَبِيۡلِهٖ​
+    arabic: سَبِيلِهِۦ
     translation: His way
     transliteration: sabīlihi
   20:
@@ -87,11 +87,11 @@ word_by_word:
     translation: And He
     transliteration: wahuwa
   21:
-    arabic: اَعۡلَمُ
+    arabic: أَعۡلَمُ
     translation: (is) most knowing
     transliteration: aʿlamu
   22:
-    arabic: بِالۡمُهۡتَدِيۡنَ‏
+    arabic: بِٱلۡمُهۡتَدِينَ
     translation: of the guided ones
     transliteration: bil-muh'tadīna
 ---

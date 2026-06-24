@@ -1,17 +1,17 @@
 ---
-arabic_ayat: فَاَخَذَتۡهُمُ الصَّيۡحَةُ مُشۡرِقِيۡنَۙ‏
+arabic_ayat: فَأَخَذَتۡهُمُ ٱلصَّيۡحَةُ مُشۡرِقِينَ
 sentence_translation: So the ˹mighty˺ blast overtook them at sunrise.
 word_by_word:
   1:
-    arabic: فَاَخَذَتۡهُمُ
+    arabic: فَأَخَذَتۡهُمُ
     translation: So, seized them
     transliteration: fa-akhadhathumu
   2:
-    arabic: الصَّيۡحَةُ
+    arabic: ٱلصَّيۡحَةُ
     translation: the awful cry
     transliteration: l-ṣayḥatu
   3:
-    arabic: مُشۡرِقِيۡنَۙ‏
+    arabic: مُشۡرِقِينَ
     translation: at sunrise
     transliteration: mush'riqīna
 ---

@@ -1,5 +1,5 @@
 ---
-arabic_ayat: قَالَ اِنَّ هٰٓؤُلَاۤءِ ضَيۡفِىۡ فَلَا تَفۡضَحُوۡنِۙ‏
+arabic_ayat: قَالَ إِنَّ هَٰٓؤُلَآءِ ضَيۡفِي فَلَا تَفۡضَحُونِ
 sentence_translation: Lot pleaded, “Indeed, these are my guests, so do not embarrass
   me.
 word_by_word:
@@ -8,15 +8,15 @@ word_by_word:
     translation: He said
     transliteration: qāla
   2:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   3:
-    arabic: هٰٓؤُلَاۤءِ
+    arabic: هَٰٓؤُلَآءِ
     translation: these
     transliteration: hāulāi
   4:
-    arabic: ضَيۡفِىۡ
+    arabic: ضَيۡفِي
     translation: (are) my guests
     transliteration: ḍayfī
   5:
@@ -24,7 +24,7 @@ word_by_word:
     translation: so (do) not
     transliteration: falā
   6:
-    arabic: تَفۡضَحُوۡنِۙ‏
+    arabic: تَفۡضَحُونِ
     translation: shame me
     transliteration: tafḍaḥūni
 ---

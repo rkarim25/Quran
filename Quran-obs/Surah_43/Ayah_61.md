@@ -1,15 +1,15 @@
 ---
-arabic_ayat: وَاِنَّهٗ لَعِلۡمٌ لِّلسَّاعَةِ فَلَا تَمۡتَرُنَّ بِهَا وَاتَّبِعُوۡنِ​ؕ
-  هٰذَا صِرَاطٌ مُّسۡتَقِيۡمٌ‏
+arabic_ayat: وَإِنَّهُۥ لَعِلۡمٞ لِّلسَّاعَةِ فَلَا تَمۡتَرُنَّ بِهَا وَٱتَّبِعُونِۚ
+  هَٰذَا صِرَٰطٞ مُّسۡتَقِيمٞ
 sentence_translation: And his ˹second˺ coming is truly a sign for the Hour. So have
   no doubt about it, and follow me. This is the Straight Path.
 word_by_word:
   1:
-    arabic: وَاِنَّهٗ
+    arabic: وَإِنَّهُۥ
     translation: And indeed, it
     transliteration: wa-innahu
   2:
-    arabic: لَعِلۡمٌ
+    arabic: لَعِلۡمٞ
     translation: surely (is) a knowledge
     transliteration: laʿil'mun
   3:
@@ -29,19 +29,19 @@ word_by_word:
     translation: about it
     transliteration: bihā
   7:
-    arabic: وَاتَّبِعُوۡنِ​ؕ
+    arabic: وَٱتَّبِعُونِۚ
     translation: and follow Me
     transliteration: wa-ittabiʿūni
   8:
-    arabic: هٰذَا
+    arabic: هَٰذَا
     translation: This
     transliteration: hādhā
   9:
-    arabic: صِرَاطٌ
+    arabic: صِرَٰطٞ
     translation: (is the) Path
     transliteration: ṣirāṭun
   10:
-    arabic: مُّسۡتَقِيۡمٌ‏
+    arabic: مُّسۡتَقِيمٞ
     translation: Straight
     transliteration: mus'taqīmun
 ---

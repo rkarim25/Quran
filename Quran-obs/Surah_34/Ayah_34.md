@@ -1,35 +1,35 @@
 ---
-arabic_ayat: وَمَاۤ اَرۡسَلۡنَا فِىۡ قَرۡيَةٍ مِّنۡ نَّذِيۡرٍ اِلَّا قَالَ مُتۡـرَفُوۡهَاۤ
-  ۙاِنَّا بِمَاۤ اُرۡسِلۡـتُمۡ بِهٖ كٰفِرُوۡنَ‏
+arabic_ayat: وَمَآ أَرۡسَلۡنَا فِي قَرۡيَةٖ مِّن نَّذِيرٍ إِلَّا قَالَ مُتۡرَفُوهَآ
+  إِنَّا بِمَآ أُرۡسِلۡتُم بِهِۦ كَٰفِرُونَ
 sentence_translation: Whenever We sent a warner to a society, its elite would say,
   “We truly reject what you have been sent with.”
 word_by_word:
   1:
-    arabic: وَمَاۤ
+    arabic: وَمَآ
     translation: And not
     transliteration: wamā
   2:
-    arabic: اَرۡسَلۡنَا
+    arabic: أَرۡسَلۡنَا
     translation: We sent
     transliteration: arsalnā
   3:
-    arabic: فِىۡ
+    arabic: فِي
     translation: to
     transliteration: fī
   4:
-    arabic: قَرۡيَةٍ
+    arabic: قَرۡيَةٖ
     translation: a town
     transliteration: qaryatin
   5:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: any
     transliteration: min
   6:
-    arabic: نَّذِيۡرٍ
+    arabic: نَّذِيرٍ
     translation: warner
     transliteration: nadhīrin
   7:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: but
     transliteration: illā
   8:
@@ -37,27 +37,27 @@ word_by_word:
     translation: said
     transliteration: qāla
   9:
-    arabic: مُتۡـرَفُوۡهَاۤ
+    arabic: مُتۡرَفُوهَآ
     translation: its wealthy ones
     transliteration: mut'rafūhā
   10:
-    arabic: ۙاِنَّا
+    arabic: إِنَّا
     translation: Indeed we
     transliteration: innā
   11:
-    arabic: بِمَاۤ
+    arabic: بِمَآ
     translation: in what
     transliteration: bimā
   12:
-    arabic: اُرۡسِلۡـتُمۡ
+    arabic: أُرۡسِلۡتُم
     translation: you have been sent
     transliteration: ur'sil'tum
   13:
-    arabic: بِهٖ
+    arabic: بِهِۦ
     translation: with
     transliteration: bihi
   14:
-    arabic: كٰفِرُوۡنَ‏
+    arabic: كَٰفِرُونَ
     translation: (are) disbelievers
     transliteration: kāfirūna
 ---

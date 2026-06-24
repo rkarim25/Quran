@@ -1,11 +1,11 @@
 ---
-arabic_ayat: اِنَّكُمۡ وَمَا تَعۡبُدُوۡنَ مِنۡ دُوۡنِ اللّٰهِ حَصَبُ جَهَـنَّمَؕ اَنۡـتُمۡ
-  لَهَا وَارِدُوۡنَ‏
+arabic_ayat: إِنَّكُمۡ وَمَا تَعۡبُدُونَ مِن دُونِ ٱللَّهِ حَصَبُ جَهَنَّمَ أَنتُمۡ
+  لَهَا وَٰرِدُونَ
 sentence_translation: Certainly you ˹disbelievers˺ and whatever you worship instead
   of Allah will be the fuel of Hell. You are ˹all˺ bound to enter it.
 word_by_word:
   1:
-    arabic: اِنَّكُمۡ
+    arabic: إِنَّكُمۡ
     translation: Indeed, you
     transliteration: innakum
   2:
@@ -13,19 +13,19 @@ word_by_word:
     translation: and what
     transliteration: wamā
   3:
-    arabic: تَعۡبُدُوۡنَ
+    arabic: تَعۡبُدُونَ
     translation: you worship
     transliteration: taʿbudūna
   4:
-    arabic: مِنۡ
+    arabic: مِن
     translation: besides Allah
     transliteration: min
   5:
-    arabic: دُوۡنِ
+    arabic: دُونِ
     translation: besides Allah
     transliteration: dūni
   6:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: besides Allah
     transliteration: l-lahi
   7:
@@ -33,11 +33,11 @@ word_by_word:
     translation: (are) firewood
     transliteration: ḥaṣabu
   8:
-    arabic: جَهَـنَّمَؕ
+    arabic: جَهَنَّمَ
     translation: (of) Hell
     transliteration: jahannama
   9:
-    arabic: اَنۡـتُمۡ
+    arabic: أَنتُمۡ
     translation: You
     transliteration: antum
   10:
@@ -45,7 +45,7 @@ word_by_word:
     translation: to it
     transliteration: lahā
   11:
-    arabic: وَارِدُوۡنَ‏
+    arabic: وَٰرِدُونَ
     translation: will come
     transliteration: wāridūna
 ---

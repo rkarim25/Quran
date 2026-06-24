@@ -1,7 +1,6 @@
 ---
-arabic_ayat: "وَقَالَتِ امۡرَاَتُ فِرۡعَوۡنَ قُرَّتُ عَيۡنٍ لِّىۡ وَلَكَ​ ؕ لَا تَقۡتُلُوۡهُ\
-  \ ​ۖ  عَسٰٓى اَنۡ يَّـنۡفَعَنَاۤ اَوۡ نَـتَّخِذَهٗ وَلَدًا وَّهُمۡ لَا يَشۡعُرُوۡنَ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: وَقَالَتِ ٱمۡرَأَتُ فِرۡعَوۡنَ قُرَّتُ عَيۡنٖ لِّي وَلَكَۖ لَا تَقۡتُلُوهُ
+  عَسَىٰٓ أَن يَنفَعَنَآ أَوۡ نَتَّخِذَهُۥ وَلَدٗا وَهُمۡ لَا يَشۡعُرُونَ
 sentence_translation: Pharaoh’s wife said ˹to him˺, “˹This baby is˺ a source of joy
   for me and you. Do not kill him. Perhaps he may be useful to us or we may adopt
   him as a son.” They were unaware ˹of what was to come˺.
@@ -11,7 +10,7 @@ word_by_word:
     translation: And said
     transliteration: waqālati
   2:
-    arabic: امۡرَاَتُ
+    arabic: ٱمۡرَأَتُ
     translation: (the) wife
     transliteration: im'ra-atu
   3:
@@ -23,15 +22,15 @@ word_by_word:
     translation: A comfort
     transliteration: qurratu
   5:
-    arabic: عَيۡنٍ
+    arabic: عَيۡنٖ
     translation: (of the) eye
     transliteration: ʿaynin
   6:
-    arabic: لِّىۡ
+    arabic: لِّي
     translation: for me
     transliteration: lī
   7:
-    arabic: وَلَكَ​ ؕ
+    arabic: وَلَكَۖ
     translation: and for you
     transliteration: walaka
   8:
@@ -39,35 +38,35 @@ word_by_word:
     translation: (Do) not
     transliteration: lā
   9:
-    arabic: تَقۡتُلُوۡهُ ​ۖ 
+    arabic: تَقۡتُلُوهُ
     translation: kill him
     transliteration: taqtulūhu
   10:
-    arabic: عَسٰٓى
+    arabic: عَسَىٰٓ
     translation: perhaps
     transliteration: ʿasā
   11:
-    arabic: اَنۡ
+    arabic: أَن
     translation: (that)
     transliteration: an
   12:
-    arabic: يَّـنۡفَعَنَاۤ
+    arabic: يَنفَعَنَآ
     translation: he may benefit us
     transliteration: yanfaʿanā
   13:
-    arabic: اَوۡ
+    arabic: أَوۡ
     translation: or
     transliteration: aw
   14:
-    arabic: نَـتَّخِذَهٗ
+    arabic: نَتَّخِذَهُۥ
     translation: we may take him
     transliteration: nattakhidhahu
   15:
-    arabic: وَلَدًا
+    arabic: وَلَدٗا
     translation: (as) a son
     transliteration: waladan
   16:
-    arabic: وَّهُمۡ
+    arabic: وَهُمۡ
     translation: And they
     transliteration: wahum
   17:
@@ -75,7 +74,7 @@ word_by_word:
     translation: (did) not
     transliteration: lā
   18:
-    arabic: "يَشۡعُرُوۡنَ‏ \uFEFF\uFEFF"
+    arabic: يَشۡعُرُونَ
     translation: perceive
     transliteration: yashʿurūna
 ---

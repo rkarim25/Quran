@@ -1,11 +1,11 @@
 ---
-arabic_ayat: وَلَـقَدۡ كَتَبۡنَا فِى الزَّبُوۡرِ مِنۡۢ بَعۡدِ الذِّكۡرِ اَنَّ الۡاَرۡضَ
-  يَرِثُهَا عِبَادِىَ الصّٰلِحُوۡنَ‏
+arabic_ayat: وَلَقَدۡ كَتَبۡنَا فِي ٱلزَّبُورِ مِنۢ بَعۡدِ ٱلذِّكۡرِ أَنَّ ٱلۡأَرۡضَ
+  يَرِثُهَا عِبَادِيَ ٱلصَّٰلِحُونَ
 sentence_translation: 'Surely, following the ˹heavenly˺ Record, We decreed in the
   Scriptures: “My righteous servants shall inherit the land.”'
 word_by_word:
   1:
-    arabic: وَلَـقَدۡ
+    arabic: وَلَقَدۡ
     translation: And verily
     transliteration: walaqad
   2:
@@ -13,15 +13,15 @@ word_by_word:
     translation: We have written
     transliteration: katabnā
   3:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   4:
-    arabic: الزَّبُوۡرِ
+    arabic: ٱلزَّبُورِ
     translation: the Scripture
     transliteration: l-zabūri
   5:
-    arabic: مِنۡۢ
+    arabic: مِنۢ
     translation: after
     transliteration: min
   6:
@@ -29,15 +29,15 @@ word_by_word:
     translation: after
     transliteration: baʿdi
   7:
-    arabic: الذِّكۡرِ
+    arabic: ٱلذِّكۡرِ
     translation: the mention
     transliteration: l-dhik'ri
   8:
-    arabic: اَنَّ
+    arabic: أَنَّ
     translation: that
     transliteration: anna
   9:
-    arabic: الۡاَرۡضَ
+    arabic: ٱلۡأَرۡضَ
     translation: 'the earth '
     transliteration: l-arḍa
   10:
@@ -45,11 +45,11 @@ word_by_word:
     translation: will inherit it
     transliteration: yarithuhā
   11:
-    arabic: عِبَادِىَ
+    arabic: عِبَادِيَ
     translation: My slaves
     transliteration: ʿibādiya
   12:
-    arabic: الصّٰلِحُوۡنَ‏
+    arabic: ٱلصَّٰلِحُونَ
     translation: the righteous
     transliteration: l-ṣāliḥūna
 ---

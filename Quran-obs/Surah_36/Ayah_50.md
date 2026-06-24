@@ -1,6 +1,5 @@
 ---
-arabic_ayat: "فَلَا يَسۡتَطِيۡعُوۡنَ تَوۡصِيَةً وَّلَاۤ اِلٰٓى اَهۡلِهِمۡ يَرۡجِعُوۡنَ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: فَلَا يَسۡتَطِيعُونَ تَوۡصِيَةٗ وَلَآ إِلَىٰٓ أَهۡلِهِمۡ يَرۡجِعُونَ
 sentence_translation: Then they will not be able to make a ˹last˺ will, nor can they
   return to their own people.
 word_by_word:
@@ -9,27 +8,27 @@ word_by_word:
     translation: Then not
     transliteration: falā
   2:
-    arabic: يَسۡتَطِيۡعُوۡنَ
+    arabic: يَسۡتَطِيعُونَ
     translation: they will be able
     transliteration: yastaṭīʿūna
   3:
-    arabic: تَوۡصِيَةً
+    arabic: تَوۡصِيَةٗ
     translation: (to) make a will
     transliteration: tawṣiyatan
   4:
-    arabic: وَّلَاۤ
+    arabic: وَلَآ
     translation: and not
     transliteration: walā
   5:
-    arabic: اِلٰٓى
+    arabic: إِلَىٰٓ
     translation: to
     transliteration: ilā
   6:
-    arabic: اَهۡلِهِمۡ
+    arabic: أَهۡلِهِمۡ
     translation: their people
     transliteration: ahlihim
   7:
-    arabic: "يَرۡجِعُوۡنَ‏ \uFEFF\uFEFF"
+    arabic: يَرۡجِعُونَ
     translation: they (can) return
     transliteration: yarjiʿūna
 ---

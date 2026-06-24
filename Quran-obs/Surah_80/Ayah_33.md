@@ -1,9 +1,9 @@
 ---
-arabic_ayat: فَاِذَا جَآءَتِ الصَّآخَّةُ‏
+arabic_ayat: فَإِذَا جَآءَتِ ٱلصَّآخَّةُ
 sentence_translation: Then, when the Deafening Blast comes to pass—
 word_by_word:
   1:
-    arabic: فَاِذَا
+    arabic: فَإِذَا
     translation: But when
     transliteration: fa-idhā
   2:
@@ -11,7 +11,7 @@ word_by_word:
     translation: comes
     transliteration: jāati
   3:
-    arabic: الصَّآخَّةُ‏
+    arabic: ٱلصَّآخَّةُ
     translation: the Deafening Blast
     transliteration: l-ṣākhatu
 ---

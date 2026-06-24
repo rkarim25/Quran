@@ -1,7 +1,7 @@
 ---
-arabic_ayat: بَلۡ ظَنَـنۡـتُمۡ اَنۡ لَّنۡ يَّـنۡقَلِبَ الرَّسُوۡلُ وَالۡمُؤۡمِنُوۡنَ
-  اِلٰٓى اَهۡلِيۡهِمۡ اَبَدًا وَّزُيِّنَ ذٰ لِكَ فِىۡ قُلُوۡبِكُمۡ وَظَنَنۡتُمۡ ظَنَّ
-  السَّوۡءِ ۖۚ وَكُنۡـتُمۡ قَوۡمًا ۢ بُوۡرًا‏
+arabic_ayat: بَلۡ ظَنَنتُمۡ أَن لَّن يَنقَلِبَ ٱلرَّسُولُ وَٱلۡمُؤۡمِنُونَ إِلَىٰٓ
+  أَهۡلِيهِمۡ أَبَدٗا وَزُيِّنَ ذَٰلِكَ فِي قُلُوبِكُمۡ وَظَنَنتُمۡ ظَنَّ ٱلسَّوۡءِ
+  وَكُنتُمۡ قَوۡمَۢا بُورٗا
 sentence_translation: 'The truth is: you thought that the Messenger and the believers
   would never return to their families again. And that was made appealing in your
   hearts. You harboured evil thoughts ˹about Allah˺, and ˹so˺ became a doomed people.”'
@@ -11,59 +11,59 @@ word_by_word:
     translation: Nay
     transliteration: bal
   2:
-    arabic: ظَنَـنۡـتُمۡ
+    arabic: ظَنَنتُمۡ
     translation: you thought
     transliteration: ẓanantum
   3:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that
     transliteration: an
   4:
-    arabic: لَّنۡ
+    arabic: لَّن
     translation: (would) never
     transliteration: lan
   5:
-    arabic: يَّـنۡقَلِبَ
+    arabic: يَنقَلِبَ
     translation: return
     transliteration: yanqaliba
   6:
-    arabic: الرَّسُوۡلُ
+    arabic: ٱلرَّسُولُ
     translation: the Messenger
     transliteration: l-rasūlu
   7:
-    arabic: وَالۡمُؤۡمِنُوۡنَ
+    arabic: وَٱلۡمُؤۡمِنُونَ
     translation: and the believers
     transliteration: wal-mu'minūna
   8:
-    arabic: اِلٰٓى
+    arabic: إِلَىٰٓ
     translation: to
     transliteration: ilā
   9:
-    arabic: اَهۡلِيۡهِمۡ
+    arabic: أَهۡلِيهِمۡ
     translation: their families
     transliteration: ahlīhim
   10:
-    arabic: اَبَدًا
+    arabic: أَبَدٗا
     translation: ever
     transliteration: abadan
   11:
-    arabic: وَّزُيِّنَ
+    arabic: وَزُيِّنَ
     translation: that was made fair-seeming
     transliteration: wazuyyina
   12:
-    arabic: ذٰ لِكَ
+    arabic: ذَٰلِكَ
     translation: that was made fair-seeming
     transliteration: dhālika
   13:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   14:
-    arabic: قُلُوۡبِكُمۡ
+    arabic: قُلُوبِكُمۡ
     translation: your hearts
     transliteration: qulūbikum
   15:
-    arabic: وَظَنَنۡتُمۡ
+    arabic: وَظَنَنتُمۡ
     translation: And you assumed
     transliteration: waẓanantum
   16:
@@ -71,19 +71,19 @@ word_by_word:
     translation: an assumption
     transliteration: ẓanna
   17:
-    arabic: السَّوۡءِ ۖۚ
+    arabic: ٱلسَّوۡءِ
     translation: evil
     transliteration: l-sawi
   18:
-    arabic: وَكُنۡـتُمۡ
+    arabic: وَكُنتُمۡ
     translation: and you became
     transliteration: wakuntum
   19:
-    arabic: قَوۡمًا ۢ
+    arabic: قَوۡمَۢا
     translation: a people
     transliteration: qawman
   20:
-    arabic: بُوۡرًا‏
+    arabic: بُورٗا
     translation: ruined
     transliteration: būran
 ---

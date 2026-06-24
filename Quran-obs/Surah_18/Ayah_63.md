@@ -1,7 +1,7 @@
 ---
-arabic_ayat: قَالَ اَرَءَيۡتَ اِذۡ اَوَيۡنَاۤ اِلَى الصَّخۡرَةِ فَاِنِّىۡ نَسِيۡتُ
-  الۡحُوۡتَ وَ مَاۤ اَنۡسٰٮنِيۡهُ اِلَّا الشَّيۡطٰنُ اَنۡ اَذۡكُرَهٗ​ ​ۚ وَاتَّخَذَ
-  سَبِيۡلَهٗ فِىۡ الۡبَحۡر​ِ ​ۖ عَجَبًا‏
+arabic_ayat: قَالَ أَرَءَيۡتَ إِذۡ أَوَيۡنَآ إِلَى ٱلصَّخۡرَةِ فَإِنِّي نَسِيتُ ٱلۡحُوتَ
+  وَمَآ أَنسَىٰنِيهُ إِلَّا ٱلشَّيۡطَٰنُ أَنۡ أَذۡكُرَهُۥۚ وَٱتَّخَذَ سَبِيلَهُۥ
+  فِي ٱلۡبَحۡرِ عَجَبٗا
 sentence_translation: He replied, “Do you remember when we rested by the rock? ˹That
   is when˺ I forgot the fish. None made me forget to mention this except Satan. And
   the fish made its way into the sea miraculously.”
@@ -11,79 +11,79 @@ word_by_word:
     translation: He said
     transliteration: qāla
   2:
-    arabic: اَرَءَيۡتَ
+    arabic: أَرَءَيۡتَ
     translation: Did you see
     transliteration: ara-ayta
   3:
-    arabic: اِذۡ
+    arabic: إِذۡ
     translation: when
     transliteration: idh
   4:
-    arabic: اَوَيۡنَاۤ
+    arabic: أَوَيۡنَآ
     translation: we retired
     transliteration: awaynā
   5:
-    arabic: اِلَى
+    arabic: إِلَى
     translation: to
     transliteration: ilā
   6:
-    arabic: الصَّخۡرَةِ
+    arabic: ٱلصَّخۡرَةِ
     translation: the rock
     transliteration: l-ṣakhrati
   7:
-    arabic: فَاِنِّىۡ
+    arabic: فَإِنِّي
     translation: Then indeed, I
     transliteration: fa-innī
   8:
-    arabic: نَسِيۡتُ
+    arabic: نَسِيتُ
     translation: '[I] forgot'
     transliteration: nasītu
   9:
-    arabic: الۡحُوۡتَ
+    arabic: ٱلۡحُوتَ
     translation: the fish
     transliteration: l-ḥūta
   10:
-    arabic: وَ مَاۤ
+    arabic: وَمَآ
     translation: And not
     transliteration: wamā
   11:
-    arabic: اَنۡسٰٮنِيۡهُ
+    arabic: أَنسَىٰنِيهُ
     translation: made me forget it
     transliteration: ansānīhu
   12:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   13:
-    arabic: الشَّيۡطٰنُ
+    arabic: ٱلشَّيۡطَٰنُ
     translation: the Shaitaan
     transliteration: l-shayṭānu
   14:
-    arabic: اَنۡ
+    arabic: أَنۡ
     translation: that
     transliteration: an
   15:
-    arabic: اَذۡكُرَهٗ​ ​ۚ
+    arabic: أَذۡكُرَهُۥۚ
     translation: I mention it
     transliteration: adhkurahu
   16:
-    arabic: وَاتَّخَذَ
+    arabic: وَٱتَّخَذَ
     translation: And it took
     transliteration: wa-ittakhadha
   17:
-    arabic: سَبِيۡلَهٗ
+    arabic: سَبِيلَهُۥ
     translation: its way
     transliteration: sabīlahu
   18:
-    arabic: فِىۡ
+    arabic: فِي
     translation: into
     transliteration: fī
   19:
-    arabic: الۡبَحۡر​ِ ​ۖ 
+    arabic: ٱلۡبَحۡرِ
     translation: the sea
     transliteration: l-baḥri
   20:
-    arabic: عَجَبًا‏
+    arabic: عَجَبٗا
     translation: amazingly
     transliteration: ʿajaban
 ---

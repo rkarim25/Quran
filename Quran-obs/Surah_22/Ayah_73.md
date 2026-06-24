@@ -1,8 +1,8 @@
 ---
-arabic_ayat: يٰۤـاَيُّهَا النَّاسُ ضُرِبَ مَثَلٌ فَاسۡتَمِعُوۡا لَهٗ ؕ اِنَّ الَّذِيۡنَ
-  تَدۡعُوۡنَ مِنۡ دُوۡنِ اللّٰهِ لَنۡ يَّخۡلُقُوۡا ذُبَابًا وَّلَوِ اجۡتَمَعُوۡا لَهٗ​
-  ؕ وَاِنۡ يَّسۡلُبۡهُمُ الذُّبَابُ شَيۡــًٔـا لَّا يَسۡتَـنۡـقِذُوۡهُ مِنۡهُ​ ؕ ضَعُفَ
-  الطَّالِبُ وَالۡمَطۡلُوۡبُ‏
+arabic_ayat: يَٰٓأَيُّهَا ٱلنَّاسُ ضُرِبَ مَثَلٞ فَٱسۡتَمِعُواْ لَهُۥٓۚ إِنَّ ٱلَّذِينَ
+  تَدۡعُونَ مِن دُونِ ٱللَّهِ لَن يَخۡلُقُواْ ذُبَابٗا وَلَوِ ٱجۡتَمَعُواْ لَهُۥۖ
+  وَإِن يَسۡلُبۡهُمُ ٱلذُّبَابُ شَيۡـٔٗا لَّا يَسۡتَنقِذُوهُ مِنۡهُۚ ضَعُفَ ٱلطَّالِبُ
+  وَٱلۡمَطۡلُوبُ
 sentence_translation: 'O humanity! A lesson is set forth, so listen to it ˹carefully˺:
   those ˹idols˺ you invoke besides Allah can never create ˹so much as˺ a fly, even
   if they ˹all˺ were to come together for that. And if a fly were to snatch anything
@@ -10,11 +10,11 @@ sentence_translation: 'O humanity! A lesson is set forth, so listen to it ˹care
   who invoke and those invoked!'
 word_by_word:
   1:
-    arabic: يٰۤـاَيُّهَا
+    arabic: يَٰٓأَيُّهَا
     translation: O mankind
     transliteration: yāayyuhā
   2:
-    arabic: النَّاسُ
+    arabic: ٱلنَّاسُ
     translation: O mankind
     transliteration: l-nāsu
   3:
@@ -22,79 +22,79 @@ word_by_word:
     translation: Is set forth
     transliteration: ḍuriba
   4:
-    arabic: مَثَلٌ
+    arabic: مَثَلٞ
     translation: an example
     transliteration: mathalun
   5:
-    arabic: فَاسۡتَمِعُوۡا
+    arabic: فَٱسۡتَمِعُواْ
     translation: so listen
     transliteration: fa-is'tamiʿū
   6:
-    arabic: لَهٗ ؕ
+    arabic: لَهُۥٓۚ
     translation: to it
     transliteration: lahu
   7:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   8:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those whom
     transliteration: alladhīna
   9:
-    arabic: تَدۡعُوۡنَ
+    arabic: تَدۡعُونَ
     translation: you invoke
     transliteration: tadʿūna
   10:
-    arabic: مِنۡ
+    arabic: مِن
     translation: besides Allah
     transliteration: min
   11:
-    arabic: دُوۡنِ
+    arabic: دُونِ
     translation: besides Allah
     transliteration: dūni
   12:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: besides Allah
     transliteration: l-lahi
   13:
-    arabic: لَنۡ
+    arabic: لَن
     translation: will never
     transliteration: lan
   14:
-    arabic: يَّخۡلُقُوۡا
+    arabic: يَخۡلُقُواْ
     translation: create
     transliteration: yakhluqū
   15:
-    arabic: ذُبَابًا
+    arabic: ذُبَابٗا
     translation: a fly
     transliteration: dhubāban
   16:
-    arabic: وَّلَوِ
+    arabic: وَلَوِ
     translation: even if
     transliteration: walawi
   17:
-    arabic: اجۡتَمَعُوۡا
+    arabic: ٱجۡتَمَعُواْ
     translation: they gathered together
     transliteration: ij'tamaʿū
   18:
-    arabic: لَهٗ​ ؕ
+    arabic: لَهُۥۖ
     translation: for it
     transliteration: lahu
   19:
-    arabic: وَاِنۡ
+    arabic: وَإِن
     translation: And if
     transliteration: wa-in
   20:
-    arabic: يَّسۡلُبۡهُمُ
+    arabic: يَسۡلُبۡهُمُ
     translation: snatched away from them
     transliteration: yaslub'humu
   21:
-    arabic: الذُّبَابُ
+    arabic: ٱلذُّبَابُ
     translation: the fly
     transliteration: l-dhubābu
   22:
-    arabic: شَيۡــًٔـا
+    arabic: شَيۡـٔٗا
     translation: a thing
     transliteration: shayan
   23:
@@ -102,11 +102,11 @@ word_by_word:
     translation: not
     transliteration: lā
   24:
-    arabic: يَسۡتَـنۡـقِذُوۡهُ
+    arabic: يَسۡتَنقِذُوهُ
     translation: they (could) take it back
     transliteration: yastanqidhūhu
   25:
-    arabic: مِنۡهُ​ ؕ
+    arabic: مِنۡهُۚ
     translation: from it
     transliteration: min'hu
   26:
@@ -114,11 +114,11 @@ word_by_word:
     translation: So weak
     transliteration: ḍaʿufa
   27:
-    arabic: الطَّالِبُ
+    arabic: ٱلطَّالِبُ
     translation: (are) the seeker
     transliteration: l-ṭālibu
   28:
-    arabic: وَالۡمَطۡلُوۡبُ‏
+    arabic: وَٱلۡمَطۡلُوبُ
     translation: and the one who is sought
     transliteration: wal-maṭlūbu
 ---

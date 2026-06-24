@@ -1,21 +1,21 @@
 ---
-arabic_ayat: اُولٰٓٮِٕكَ فِىۡ جَنّٰتٍ مُّكۡرَمُوۡنَؕ‏
+arabic_ayat: أُوْلَٰٓئِكَ فِي جَنَّٰتٖ مُّكۡرَمُونَ
 sentence_translation: These will be in Gardens, held in honour.
 word_by_word:
   1:
-    arabic: اُولٰٓٮِٕكَ
+    arabic: أُوْلَٰٓئِكَ
     translation: Those
     transliteration: ulāika
   2:
-    arabic: فِىۡ
+    arabic: فِي
     translation: (will be) in
     transliteration: fī
   3:
-    arabic: جَنّٰتٍ
+    arabic: جَنَّٰتٖ
     translation: Gardens
     transliteration: jannātin
   4:
-    arabic: مُّكۡرَمُوۡنَؕ‏
+    arabic: مُّكۡرَمُونَ
     translation: honored
     transliteration: muk'ramūna
 ---

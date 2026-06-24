@@ -1,7 +1,6 @@
 ---
-arabic_ayat: "وَقَالَ لِفِتۡيٰنِهِ اجۡعَلُوۡا بِضَاعَتَهُمۡ فِىۡ رِحَالِهِمۡ لَعَلَّهُمۡ\
-  \ يَعۡرِفُوۡنَهَاۤ اِذَا انْقَلَبُوۡۤا اِلٰٓى اَهۡلِهِمۡ لَعَلَّهُمۡ يَرۡجِعُوۡنَ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: وَقَالَ لِفِتۡيَٰنِهِ ٱجۡعَلُواْ بِضَٰعَتَهُمۡ فِي رِحَالِهِمۡ لَعَلَّهُمۡ
+  يَعۡرِفُونَهَآ إِذَا ٱنقَلَبُوٓاْ إِلَىٰٓ أَهۡلِهِمۡ لَعَلَّهُمۡ يَرۡجِعُونَ
 sentence_translation: Joseph ordered his servants to put his brothers’ money back
   into their saddlebags so that they would find it when they returned to their family
   and perhaps they would come back.
@@ -11,19 +10,19 @@ word_by_word:
     translation: And he said
     transliteration: waqāla
   2:
-    arabic: لِفِتۡيٰنِهِ
+    arabic: لِفِتۡيَٰنِهِ
     translation: to his servants
     transliteration: lifit'yānihi
   3:
-    arabic: اجۡعَلُوۡا
+    arabic: ٱجۡعَلُواْ
     translation: Put
     transliteration: ij'ʿalū
   4:
-    arabic: بِضَاعَتَهُمۡ
+    arabic: بِضَٰعَتَهُمۡ
     translation: their merchandise
     transliteration: biḍāʿatahum
   5:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   6:
@@ -35,23 +34,23 @@ word_by_word:
     translation: so that they
     transliteration: laʿallahum
   8:
-    arabic: يَعۡرِفُوۡنَهَاۤ
+    arabic: يَعۡرِفُونَهَآ
     translation: may recognize it
     transliteration: yaʿrifūnahā
   9:
-    arabic: اِذَا
+    arabic: إِذَا
     translation: when
     transliteration: idhā
   10:
-    arabic: انْقَلَبُوۡۤا
+    arabic: ٱنقَلَبُوٓاْ
     translation: they go back
     transliteration: inqalabū
   11:
-    arabic: اِلٰٓى
+    arabic: إِلَىٰٓ
     translation: to
     transliteration: ilā
   12:
-    arabic: اَهۡلِهِمۡ
+    arabic: أَهۡلِهِمۡ
     translation: their people
     transliteration: ahlihim
   13:
@@ -59,7 +58,7 @@ word_by_word:
     translation: so that they may
     transliteration: laʿallahum
   14:
-    arabic: "يَرۡجِعُوۡنَ‏ \uFEFF\uFEFF"
+    arabic: يَرۡجِعُونَ
     translation: return
     transliteration: yarjiʿūna
 ---

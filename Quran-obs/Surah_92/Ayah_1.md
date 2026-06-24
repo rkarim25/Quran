@@ -1,17 +1,17 @@
 ---
-arabic_ayat: وَالَّيۡلِ اِذَا يَغۡشٰىۙ‏
+arabic_ayat: وَٱلَّيۡلِ إِذَا يَغۡشَىٰ
 sentence_translation: By the night when it covers,
 word_by_word:
   1:
-    arabic: وَالَّيۡلِ
+    arabic: وَٱلَّيۡلِ
     translation: By the night
     transliteration: wa-al-layli
   2:
-    arabic: اِذَا
+    arabic: إِذَا
     translation: when
     transliteration: idhā
   3:
-    arabic: يَغۡشٰىۙ‏
+    arabic: يَغۡشَىٰ
     translation: it covers
     transliteration: yaghshā
 ---

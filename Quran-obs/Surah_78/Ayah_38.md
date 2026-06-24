@@ -1,6 +1,6 @@
 ---
-arabic_ayat: يَوۡمَ يَقُوۡمُ الرُّوۡحُ وَالۡمَلٰٓٮِٕكَةُ صَفًّا ؕۙ لَّا يَتَكَلَّمُوۡنَ
-  اِلَّا مَنۡ اَذِنَ لَهُ الرَّحۡمٰنُ وَقَالَ صَوَابًا​‏
+arabic_ayat: يَوۡمَ يَقُومُ ٱلرُّوحُ وَٱلۡمَلَٰٓئِكَةُ صَفّٗاۖ لَّا يَتَكَلَّمُونَ
+  إِلَّا مَنۡ أَذِنَ لَهُ ٱلرَّحۡمَٰنُ وَقَالَ صَوَابٗا
 sentence_translation: on the Day the ˹holy˺ spirit and the angels will stand in ranks.
   None will talk, except those granted permission by the Most Compassionate and whose
   words are true.
@@ -10,19 +10,19 @@ word_by_word:
     translation: (The) Day
     transliteration: yawma
   2:
-    arabic: يَقُوۡمُ
+    arabic: يَقُومُ
     translation: will stand
     transliteration: yaqūmu
   3:
-    arabic: الرُّوۡحُ
+    arabic: ٱلرُّوحُ
     translation: the Spirit
     transliteration: l-rūḥu
   4:
-    arabic: وَالۡمَلٰٓٮِٕكَةُ
+    arabic: وَٱلۡمَلَٰٓئِكَةُ
     translation: and the Angels
     transliteration: wal-malāikatu
   5:
-    arabic: صَفًّا ؕۙ
+    arabic: صَفّٗاۖ
     translation: (in) rows
     transliteration: ṣaffan
   6:
@@ -30,11 +30,11 @@ word_by_word:
     translation: not
     transliteration: lā
   7:
-    arabic: يَتَكَلَّمُوۡنَ
+    arabic: يَتَكَلَّمُونَ
     translation: they will speak
     transliteration: yatakallamūna
   8:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   9:
@@ -42,7 +42,7 @@ word_by_word:
     translation: '(one) who '
     transliteration: man
   10:
-    arabic: اَذِنَ
+    arabic: أَذِنَ
     translation: permits
     transliteration: adhina
   11:
@@ -50,7 +50,7 @@ word_by_word:
     translation: '[for] him'
     transliteration: lahu
   12:
-    arabic: الرَّحۡمٰنُ
+    arabic: ٱلرَّحۡمَٰنُ
     translation: the Most Gracious
     transliteration: l-raḥmānu
   13:
@@ -58,7 +58,7 @@ word_by_word:
     translation: and he (will) say
     transliteration: waqāla
   14:
-    arabic: صَوَابًا​‏
+    arabic: صَوَابٗا
     translation: (what is) correct
     transliteration: ṣawāban
 ---

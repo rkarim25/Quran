@@ -1,12 +1,12 @@
 ---
-arabic_ayat: ءَاُنۡزِلَ عَلَيۡهِ الذِّكۡرُ مِنۡۢ بَيۡنِنَا​ؕ بَلۡ هُمۡ فِىۡ شَكٍّ
-  مِّنۡ ذِكۡرِىۡ​ۚ بَلْ لَّمَّا يَذُوۡقُوۡا عَذَابِؕ‏
+arabic_ayat: أَءُنزِلَ عَلَيۡهِ ٱلذِّكۡرُ مِنۢ بَيۡنِنَاۚ بَلۡ هُمۡ فِي شَكّٖ مِّن
+  ذِكۡرِيۚ بَل لَّمَّا يَذُوقُواْ عَذَابِ
 sentence_translation: Has the Reminder been revealed ˹only˺ to him out of ˹all of˺
   us?” In fact, they are ˹only˺ in doubt of My ˹revealed˺ Reminder. In fact, ˹they
   do so because˺ they have not yet tasted My punishment.
 word_by_word:
   1:
-    arabic: ءَاُنۡزِلَ
+    arabic: أَءُنزِلَ
     translation: Has been revealed
     transliteration: a-unzila
   2:
@@ -14,15 +14,15 @@ word_by_word:
     translation: to him
     transliteration: ʿalayhi
   3:
-    arabic: الذِّكۡرُ
+    arabic: ٱلذِّكۡرُ
     translation: the Message
     transliteration: l-dhik'ru
   4:
-    arabic: مِنۡۢ
+    arabic: مِنۢ
     translation: from
     transliteration: min
   5:
-    arabic: بَيۡنِنَا​ؕ
+    arabic: بَيۡنِنَاۚ
     translation: among us
     transliteration: bayninā
   6:
@@ -34,23 +34,23 @@ word_by_word:
     translation: They
     transliteration: hum
   8:
-    arabic: فِىۡ
+    arabic: فِي
     translation: (are) in
     transliteration: fī
   9:
-    arabic: شَكٍّ
+    arabic: شَكّٖ
     translation: doubt
     transliteration: shakkin
   10:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: about
     transliteration: min
   11:
-    arabic: ذِكۡرِىۡ​ۚ
+    arabic: ذِكۡرِيۚ
     translation: My Message
     transliteration: dhik'rī
   12:
-    arabic: بَلْ
+    arabic: بَل
     translation: Nay
     transliteration: bal
   13:
@@ -58,11 +58,11 @@ word_by_word:
     translation: not yet
     transliteration: lammā
   14:
-    arabic: يَذُوۡقُوۡا
+    arabic: يَذُوقُواْ
     translation: they have tasted
     transliteration: yadhūqū
   15:
-    arabic: عَذَابِؕ‏
+    arabic: عَذَابِ
     translation: My punishment
     transliteration: ʿadhābi
 ---

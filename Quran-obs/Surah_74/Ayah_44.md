@@ -1,5 +1,5 @@
 ---
-arabic_ayat: وَلَمۡ نَكُ نُطۡعِمُ الۡمِسۡكِيۡنَۙ‏
+arabic_ayat: وَلَمۡ نَكُ نُطۡعِمُ ٱلۡمِسۡكِينَ
 sentence_translation: nor did we feed the poor.
 word_by_word:
   1:
@@ -15,7 +15,7 @@ word_by_word:
     translation: feed
     transliteration: nuṭ'ʿimu
   4:
-    arabic: الۡمِسۡكِيۡنَۙ‏
+    arabic: ٱلۡمِسۡكِينَ
     translation: the poor
     transliteration: l-mis'kīna
 ---

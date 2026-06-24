@@ -1,6 +1,6 @@
 ---
-arabic_ayat: هُوَ الَّذِىۡ يُرِيۡكُمُ الۡبَرۡقَ خَوۡفًا وَّطَمَعًا وَّيُنۡشِئُ السَّحَابَ
-  الثِّقَالَ​ۚ‏
+arabic_ayat: هُوَ ٱلَّذِي يُرِيكُمُ ٱلۡبَرۡقَ خَوۡفٗا وَطَمَعٗا وَيُنشِئُ ٱلسَّحَابَ
+  ٱلثِّقَالَ
 sentence_translation: He is the One Who shows you lightning, inspiring ˹you with˺
   hope and fear, and produces heavy clouds.
 word_by_word:
@@ -9,35 +9,35 @@ word_by_word:
     translation: He
     transliteration: huwa
   2:
-    arabic: الَّذِىۡ
+    arabic: ٱلَّذِي
     translation: (is) the One Who
     transliteration: alladhī
   3:
-    arabic: يُرِيۡكُمُ
+    arabic: يُرِيكُمُ
     translation: shows you
     transliteration: yurīkumu
   4:
-    arabic: الۡبَرۡقَ
+    arabic: ٱلۡبَرۡقَ
     translation: the lightning
     transliteration: l-barqa
   5:
-    arabic: خَوۡفًا
+    arabic: خَوۡفٗا
     translation: a fear
     transliteration: khawfan
   6:
-    arabic: وَّطَمَعًا
+    arabic: وَطَمَعٗا
     translation: and a hope
     transliteration: waṭamaʿan
   7:
-    arabic: وَّيُنۡشِئُ
+    arabic: وَيُنشِئُ
     translation: and brings up
     transliteration: wayunshi-u
   8:
-    arabic: السَّحَابَ
+    arabic: ٱلسَّحَابَ
     translation: the clouds
     transliteration: l-saḥāba
   9:
-    arabic: الثِّقَالَ​ۚ‏
+    arabic: ٱلثِّقَالَ
     translation: the heavy
     transliteration: l-thiqāla
 ---

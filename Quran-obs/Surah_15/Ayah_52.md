@@ -1,15 +1,14 @@
 ---
-arabic_ayat: "اِذۡ دَخَلُوۡا عَلَيۡهِ فَقَالُوۡا سَلٰمًاؕ قَالَ اِنَّا مِنۡكُمۡ وَجِلُوۡنَ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: إِذۡ دَخَلُواْ عَلَيۡهِ فَقَالُواْ سَلَٰمٗا قَالَ إِنَّا مِنكُمۡ وَجِلُونَ
 sentence_translation: who entered upon him and greeted ˹him with˺, “Peace!” He ˹later˺
   said, “Surely we are afraid of you.”
 word_by_word:
   1:
-    arabic: اِذۡ
+    arabic: إِذۡ
     translation: When
     transliteration: idh
   2:
-    arabic: دَخَلُوۡا
+    arabic: دَخَلُواْ
     translation: they entered
     transliteration: dakhalū
   3:
@@ -17,11 +16,11 @@ word_by_word:
     translation: upon him
     transliteration: ʿalayhi
   4:
-    arabic: فَقَالُوۡا
+    arabic: فَقَالُواْ
     translation: and said
     transliteration: faqālū
   5:
-    arabic: سَلٰمًاؕ
+    arabic: سَلَٰمٗا
     translation: Peace
     transliteration: salāman
   6:
@@ -29,15 +28,15 @@ word_by_word:
     translation: He said
     transliteration: qāla
   7:
-    arabic: اِنَّا
+    arabic: إِنَّا
     translation: Indeed, we
     transliteration: innā
   8:
-    arabic: مِنۡكُمۡ
+    arabic: مِنكُمۡ
     translation: (are) of you
     transliteration: minkum
   9:
-    arabic: "وَجِلُوۡنَ‏ \uFEFF\uFEFF"
+    arabic: وَجِلُونَ
     translation: afraid
     transliteration: wajilūna
 ---

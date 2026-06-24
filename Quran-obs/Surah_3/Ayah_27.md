@@ -1,41 +1,41 @@
 ---
-arabic_ayat: تُوۡلِجُ الَّيۡلَ فِى النَّهَارِ وَتُوۡلِجُ النَّهَارَ فِى الَّيۡلِ​
-  وَتُخۡرِجُ الۡحَـىَّ مِنَ الۡمَيِّتِ وَتُخۡرِجُ الۡمَيِّتَ مِنَ الۡحَـىِّ​ وَتَرۡزُقُ
-  مَنۡ تَشَآءُ بِغَيۡرِ حِسَابٍ‏
+arabic_ayat: تُولِجُ ٱلَّيۡلَ فِي ٱلنَّهَارِ وَتُولِجُ ٱلنَّهَارَ فِي ٱلَّيۡلِۖ وَتُخۡرِجُ
+  ٱلۡحَيَّ مِنَ ٱلۡمَيِّتِ وَتُخۡرِجُ ٱلۡمَيِّتَ مِنَ ٱلۡحَيِّۖ وَتَرۡزُقُ مَن تَشَآءُ
+  بِغَيۡرِ حِسَابٖ
 sentence_translation: You cause the night to pass into the day and the day into the
   night. You bring forth the living from the dead and the dead from the living. And
   You provide for whoever You will without limit.”
 word_by_word:
   1:
-    arabic: تُوۡلِجُ
+    arabic: تُولِجُ
     translation: You cause to enter
     transliteration: tūliju
   2:
-    arabic: الَّيۡلَ
+    arabic: ٱلَّيۡلَ
     translation: the night
     transliteration: al-layla
   3:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   4:
-    arabic: النَّهَارِ
+    arabic: ٱلنَّهَارِ
     translation: the day
     transliteration: l-nahāri
   5:
-    arabic: وَتُوۡلِجُ
+    arabic: وَتُولِجُ
     translation: and You cause to enter
     transliteration: watūliju
   6:
-    arabic: النَّهَارَ
+    arabic: ٱلنَّهَارَ
     translation: the day
     transliteration: l-nahāra
   7:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   8:
-    arabic: الَّيۡلِ​
+    arabic: ٱلَّيۡلِۖ
     translation: the night
     transliteration: al-layli
   9:
@@ -43,7 +43,7 @@ word_by_word:
     translation: and You bring forth
     transliteration: watukh'riju
   10:
-    arabic: الۡحَـىَّ
+    arabic: ٱلۡحَيَّ
     translation: the living
     transliteration: l-ḥaya
   11:
@@ -51,7 +51,7 @@ word_by_word:
     translation: from
     transliteration: mina
   12:
-    arabic: الۡمَيِّتِ
+    arabic: ٱلۡمَيِّتِ
     translation: the dead
     transliteration: l-mayiti
   13:
@@ -59,7 +59,7 @@ word_by_word:
     translation: and You bring forth
     transliteration: watukh'riju
   14:
-    arabic: الۡمَيِّتَ
+    arabic: ٱلۡمَيِّتَ
     translation: the dead
     transliteration: l-mayita
   15:
@@ -67,7 +67,7 @@ word_by_word:
     translation: from
     transliteration: mina
   16:
-    arabic: الۡحَـىِّ​
+    arabic: ٱلۡحَيِّۖ
     translation: the living
     transliteration: l-ḥayi
   17:
@@ -75,7 +75,7 @@ word_by_word:
     translation: and You give provision
     transliteration: watarzuqu
   18:
-    arabic: مَنۡ
+    arabic: مَن
     translation: (to) whom
     transliteration: man
   19:
@@ -87,7 +87,7 @@ word_by_word:
     translation: without
     transliteration: bighayri
   21:
-    arabic: حِسَابٍ‏
+    arabic: حِسَابٖ
     translation: measure
     transliteration: ḥisābin
 ---

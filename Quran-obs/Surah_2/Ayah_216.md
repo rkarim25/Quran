@@ -1,7 +1,7 @@
 ---
-arabic_ayat: كُتِبَ عَلَيۡکُمُ الۡقِتَالُ وَهُوَ كُرۡهٌ لَّـكُمۡ​ۚ وَعَسٰۤى اَنۡ تَكۡرَهُوۡا
-  شَيۡـــًٔا وَّهُوَ خَيۡرٌ لَّـکُمۡ​ۚ وَعَسٰۤى اَنۡ تُحِبُّوۡا شَيۡـــًٔا وَّهُوَ
-  شَرٌّ لَّـكُمۡؕ وَاللّٰهُ يَعۡلَمُ وَاَنۡـتُمۡ لَا تَعۡلَمُوۡنَ‏
+arabic_ayat: كُتِبَ عَلَيۡكُمُ ٱلۡقِتَالُ وَهُوَ كُرۡهٞ لَّكُمۡۖ وَعَسَىٰٓ أَن تَكۡرَهُواْ
+  شَيۡـٔٗا وَهُوَ خَيۡرٞ لَّكُمۡۖ وَعَسَىٰٓ أَن تُحِبُّواْ شَيۡـٔٗا وَهُوَ شَرّٞ لَّكُمۡۚ
+  وَٱللَّهُ يَعۡلَمُ وَأَنتُمۡ لَا تَعۡلَمُونَ
 sentence_translation: Fighting has been made obligatory upon you ˹believers˺, though
   you dislike it. Perhaps you dislike something which is good for you and like something
   which is bad for you. Allah knows and you do not know.
@@ -11,11 +11,11 @@ word_by_word:
     translation: Is prescribed
     transliteration: kutiba
   2:
-    arabic: عَلَيۡکُمُ
+    arabic: عَلَيۡكُمُ
     translation: upon you
     transliteration: ʿalaykumu
   3:
-    arabic: الۡقِتَالُ
+    arabic: ٱلۡقِتَالُ
     translation: '[the] fighting'
     transliteration: l-qitālu
   4:
@@ -23,71 +23,71 @@ word_by_word:
     translation: while it
     transliteration: wahuwa
   5:
-    arabic: كُرۡهٌ
+    arabic: كُرۡهٞ
     translation: (is) hateful
     transliteration: kur'hun
   6:
-    arabic: لَّـكُمۡ​ۚ
+    arabic: لَّكُمۡۖ
     translation: to you
     transliteration: lakum
   7:
-    arabic: وَعَسٰۤى
+    arabic: وَعَسَىٰٓ
     translation: But perhaps
     transliteration: waʿasā
   8:
-    arabic: اَنۡ
+    arabic: أَن
     translation: '[that]'
     transliteration: an
   9:
-    arabic: تَكۡرَهُوۡا
+    arabic: تَكۡرَهُواْ
     translation: you dislike
     transliteration: takrahū
   10:
-    arabic: شَيۡـــًٔا
+    arabic: شَيۡـٔٗا
     translation: a thing
     transliteration: shayan
   11:
-    arabic: وَّهُوَ
+    arabic: وَهُوَ
     translation: and it
     transliteration: wahuwa
   12:
-    arabic: خَيۡرٌ
+    arabic: خَيۡرٞ
     translation: (is) good
     transliteration: khayrun
   13:
-    arabic: لَّـکُمۡ​ۚ
+    arabic: لَّكُمۡۖ
     translation: for you
     transliteration: lakum
   14:
-    arabic: وَعَسٰۤى
+    arabic: وَعَسَىٰٓ
     translation: and perhaps
     transliteration: waʿasā
   15:
-    arabic: اَنۡ
+    arabic: أَن
     translation: '[that]'
     transliteration: an
   16:
-    arabic: تُحِبُّوۡا
+    arabic: تُحِبُّواْ
     translation: you love
     transliteration: tuḥibbū
   17:
-    arabic: شَيۡـــًٔا
+    arabic: شَيۡـٔٗا
     translation: a thing
     transliteration: shayan
   18:
-    arabic: وَّهُوَ
+    arabic: وَهُوَ
     translation: and it
     transliteration: wahuwa
   19:
-    arabic: شَرٌّ
+    arabic: شَرّٞ
     translation: (is) bad
     transliteration: sharrun
   20:
-    arabic: لَّـكُمۡؕ
+    arabic: لَّكُمۡۚ
     translation: for you
     transliteration: lakum
   21:
-    arabic: وَاللّٰهُ
+    arabic: وَٱللَّهُ
     translation: And Allah
     transliteration: wal-lahu
   22:
@@ -95,7 +95,7 @@ word_by_word:
     translation: knows
     transliteration: yaʿlamu
   23:
-    arabic: وَاَنۡـتُمۡ
+    arabic: وَأَنتُمۡ
     translation: while you
     transliteration: wa-antum
   24:
@@ -103,7 +103,7 @@ word_by_word:
     translation: (do) not
     transliteration: lā
   25:
-    arabic: تَعۡلَمُوۡنَ‏
+    arabic: تَعۡلَمُونَ
     translation: know
     transliteration: taʿlamūna
 ---

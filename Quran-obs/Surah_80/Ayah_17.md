@@ -1,5 +1,5 @@
 ---
-arabic_ayat: قُتِلَ الۡاِنۡسَانُ مَاۤ اَكۡفَرَهٗؕ‏
+arabic_ayat: قُتِلَ ٱلۡإِنسَٰنُ مَآ أَكۡفَرَهُۥ
 sentence_translation: Condemned are ˹disbelieving˺ humans! How ungrateful they are
   ˹to Allah˺!
 word_by_word:
@@ -8,15 +8,15 @@ word_by_word:
     translation: Is destroyed
     transliteration: qutila
   2:
-    arabic: الۡاِنۡسَانُ
+    arabic: ٱلۡإِنسَٰنُ
     translation: '[the] man'
     transliteration: l-insānu
   3:
-    arabic: مَاۤ
+    arabic: مَآ
     translation: how
     transliteration: mā
   4:
-    arabic: اَكۡفَرَهٗؕ‏
+    arabic: أَكۡفَرَهُۥ
     translation: ungrateful is he
     transliteration: akfarahu
 ---

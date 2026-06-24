@@ -1,17 +1,17 @@
 ---
-arabic_ayat: فِىۡ لَوۡحٍ مَّحۡفُوۡظٍ‏
+arabic_ayat: فِي لَوۡحٖ مَّحۡفُوظِۭ
 sentence_translation: ˹recorded˺ in a Preserved Tablet.
 word_by_word:
   1:
-    arabic: فِىۡ
+    arabic: فِي
     translation: In
     transliteration: fī
   2:
-    arabic: لَوۡحٍ
+    arabic: لَوۡحٖ
     translation: a Tablet
     transliteration: lawḥin
   3:
-    arabic: مَّحۡفُوۡظٍ‏
+    arabic: مَّحۡفُوظِۭ
     translation: Guarded
     transliteration: maḥfūẓin
 ---

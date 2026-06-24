@@ -1,14 +1,14 @@
 ---
-arabic_ayat: اِنَّ اللّٰهَ لَعَنَ الۡكٰفِرِيۡنَ وَاَعَدَّ لَهُمۡ سَعِيۡرًا ۙ‏
+arabic_ayat: إِنَّ ٱللَّهَ لَعَنَ ٱلۡكَٰفِرِينَ وَأَعَدَّ لَهُمۡ سَعِيرًا
 sentence_translation: Surely Allah condemns the disbelievers, and has prepared for
   them a blazing Fire,
 word_by_word:
   1:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   2:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   3:
@@ -16,11 +16,11 @@ word_by_word:
     translation: has cursed
     transliteration: laʿana
   4:
-    arabic: الۡكٰفِرِيۡنَ
+    arabic: ٱلۡكَٰفِرِينَ
     translation: the disbelievers
     transliteration: l-kāfirīna
   5:
-    arabic: وَاَعَدَّ
+    arabic: وَأَعَدَّ
     translation: and has prepared
     transliteration: wa-aʿadda
   6:
@@ -28,7 +28,7 @@ word_by_word:
     translation: for them
     transliteration: lahum
   7:
-    arabic: سَعِيۡرًا ۙ‏
+    arabic: سَعِيرًا
     translation: a Blaze
     transliteration: saʿīran
 ---

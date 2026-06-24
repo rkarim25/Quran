@@ -1,8 +1,8 @@
 ---
-arabic_ayat: وَ لَا تَزِرُ وَازِرَةٌ وِّزۡرَ اُخۡرَىٰ ؕ وَاِنۡ تَدۡعُ مُثۡقَلَةٌ اِلٰى
-  حِمۡلِهَا لَا يُحۡمَلۡ مِنۡهُ شَىۡءٌ وَّلَوۡ كَانَ ذَا قُرۡبٰى ؕ اِنَّمَا تُنۡذِرُ
-  الَّذِيۡنَ يَخۡشَوۡنَ رَبَّهُمۡ بِالۡغَيۡبِ وَاَقَامُوا الصَّلٰوةَ ؕ وَمَنۡ تَزَكّٰى
-  فَاِنَّمَا يَتَزَكّٰى لِنَفۡسِهٖ ؕ وَاِلَى اللّٰهِ الۡمَصِيۡرُ‏
+arabic_ayat: وَلَا تَزِرُ وَازِرَةٞ وِزۡرَ أُخۡرَىٰۚ وَإِن تَدۡعُ مُثۡقَلَةٌ إِلَىٰ
+  حِمۡلِهَا لَا يُحۡمَلۡ مِنۡهُ شَيۡءٞ وَلَوۡ كَانَ ذَا قُرۡبَىٰٓۗ إِنَّمَا تُنذِرُ
+  ٱلَّذِينَ يَخۡشَوۡنَ رَبَّهُم بِٱلۡغَيۡبِ وَأَقَامُواْ ٱلصَّلَوٰةَۚ وَمَن تَزَكَّىٰ
+  فَإِنَّمَا يَتَزَكَّىٰ لِنَفۡسِهِۦۚ وَإِلَى ٱللَّهِ ٱلۡمَصِيرُ
 sentence_translation: No soul burdened with sin will bear the burden of another. And
   if a sin-burdened soul cries for help with its burden, none of it will be carried—even
   by a close relative. You ˹O Prophet˺ can only warn those who stand in awe of their
@@ -10,7 +10,7 @@ sentence_translation: No soul burdened with sin will bear the burden of another.
   only do so for their own good. And to Allah is the final return.
 word_by_word:
   1:
-    arabic: وَ لَا
+    arabic: وَلَا
     translation: And not
     transliteration: walā
   2:
@@ -18,19 +18,19 @@ word_by_word:
     translation: will bear
     transliteration: taziru
   3:
-    arabic: وَازِرَةٌ
+    arabic: وَازِرَةٞ
     translation: bearer of burdens
     transliteration: wāziratun
   4:
-    arabic: وِّزۡرَ
+    arabic: وِزۡرَ
     translation: burden
     transliteration: wiz'ra
   5:
-    arabic: اُخۡرَىٰ ؕ
+    arabic: أُخۡرَىٰۚ
     translation: (of) another
     transliteration: ukh'rā
   6:
-    arabic: وَاِنۡ
+    arabic: وَإِن
     translation: And if
     transliteration: wa-in
   7:
@@ -42,7 +42,7 @@ word_by_word:
     translation: a heavily laden
     transliteration: muth'qalatun
   9:
-    arabic: اِلٰى
+    arabic: إِلَىٰ
     translation: to
     transliteration: ilā
   10:
@@ -62,11 +62,11 @@ word_by_word:
     translation: of it
     transliteration: min'hu
   14:
-    arabic: شَىۡءٌ
+    arabic: شَيۡءٞ
     translation: anything
     transliteration: shayon
   15:
-    arabic: وَّلَوۡ
+    arabic: وَلَوۡ
     translation: even if
     transliteration: walaw
   16:
@@ -78,19 +78,19 @@ word_by_word:
     translation: near of kin
     transliteration: dhā
   18:
-    arabic: قُرۡبٰى ؕ
+    arabic: قُرۡبَىٰٓۗ
     translation: near of kin
     transliteration: qur'bā
   19:
-    arabic: اِنَّمَا
+    arabic: إِنَّمَا
     translation: Only
     transliteration: innamā
   20:
-    arabic: تُنۡذِرُ
+    arabic: تُنذِرُ
     translation: you can warn
     transliteration: tundhiru
   21:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   22:
@@ -98,51 +98,51 @@ word_by_word:
     translation: fear
     transliteration: yakhshawna
   23:
-    arabic: رَبَّهُمۡ
+    arabic: رَبَّهُم
     translation: 'their Lord '
     transliteration: rabbahum
   24:
-    arabic: بِالۡغَيۡبِ
+    arabic: بِٱلۡغَيۡبِ
     translation: unseen
     transliteration: bil-ghaybi
   25:
-    arabic: وَاَقَامُوا
+    arabic: وَأَقَامُواْ
     translation: and establish
     transliteration: wa-aqāmū
   26:
-    arabic: الصَّلٰوةَ ؕ
+    arabic: ٱلصَّلَوٰةَۚ
     translation: the prayer
     transliteration: l-ṣalata
   27:
-    arabic: وَمَنۡ
+    arabic: وَمَن
     translation: And whoever
     transliteration: waman
   28:
-    arabic: تَزَكّٰى
+    arabic: تَزَكَّىٰ
     translation: purifies himself
     transliteration: tazakkā
   29:
-    arabic: فَاِنَّمَا
+    arabic: فَإِنَّمَا
     translation: then only
     transliteration: fa-innamā
   30:
-    arabic: يَتَزَكّٰى
+    arabic: يَتَزَكَّىٰ
     translation: he purifies
     transliteration: yatazakkā
   31:
-    arabic: لِنَفۡسِهٖ ؕ
+    arabic: لِنَفۡسِهِۦۚ
     translation: for his own self
     transliteration: linafsihi
   32:
-    arabic: وَاِلَى
+    arabic: وَإِلَى
     translation: And to
     transliteration: wa-ilā
   33:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   34:
-    arabic: الۡمَصِيۡرُ‏
+    arabic: ٱلۡمَصِيرُ
     translation: (is) the destination
     transliteration: l-maṣīru
 ---

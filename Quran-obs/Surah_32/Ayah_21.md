@@ -1,12 +1,12 @@
 ---
-arabic_ayat: وَلَنـــُذِيۡقَنَّهُمۡ مِّنَ الۡعَذَابِ الۡاَدۡنٰى دُوۡنَ الۡعَذَابِ
-  الۡاَكۡبَرِ لَعَلَّهُمۡ يَرۡجِعُوۡنَ‏
+arabic_ayat: وَلَنُذِيقَنَّهُم مِّنَ ٱلۡعَذَابِ ٱلۡأَدۡنَىٰ دُونَ ٱلۡعَذَابِ ٱلۡأَكۡبَرِ
+  لَعَلَّهُمۡ يَرۡجِعُونَ
 sentence_translation: We will certainly make them taste some of the minor torment
   ˹in this life˺ before the major torment ˹of the Hereafter˺, so perhaps they will
   return ˹to the Right Path˺.
 word_by_word:
   1:
-    arabic: وَلَنـــُذِيۡقَنَّهُمۡ
+    arabic: وَلَنُذِيقَنَّهُم
     translation: And surely, We will let them taste
     transliteration: walanudhīqannahum
   2:
@@ -14,23 +14,23 @@ word_by_word:
     translation: of
     transliteration: mina
   3:
-    arabic: الۡعَذَابِ
+    arabic: ٱلۡعَذَابِ
     translation: the punishment
     transliteration: l-ʿadhābi
   4:
-    arabic: الۡاَدۡنٰى
+    arabic: ٱلۡأَدۡنَىٰ
     translation: the nearer
     transliteration: l-adnā
   5:
-    arabic: دُوۡنَ
+    arabic: دُونَ
     translation: before
     transliteration: dūna
   6:
-    arabic: الۡعَذَابِ
+    arabic: ٱلۡعَذَابِ
     translation: the punishment
     transliteration: l-ʿadhābi
   7:
-    arabic: الۡاَكۡبَرِ
+    arabic: ٱلۡأَكۡبَرِ
     translation: the greater
     transliteration: l-akbari
   8:
@@ -38,7 +38,7 @@ word_by_word:
     translation: so that they may
     transliteration: laʿallahum
   9:
-    arabic: يَرۡجِعُوۡنَ‏
+    arabic: يَرۡجِعُونَ
     translation: return
     transliteration: yarjiʿūna
 ---

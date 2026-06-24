@@ -1,36 +1,36 @@
 ---
-arabic_ayat: وَاِنَّ مِنۡكُمۡ لَمَنۡ لَّيُبَطِّئَنَّ​ۚ فَاِنۡ اَصَابَتۡكُمۡ مُّصِيۡبَةٌ
-  قَالَ قَدۡ اَنۡعَمَ اللّٰهُ عَلَىَّ اِذۡ لَمۡ اَكُنۡ مَّعَهُمۡ شَهِيۡدًا‏
+arabic_ayat: وَإِنَّ مِنكُمۡ لَمَن لَّيُبَطِّئَنَّ فَإِنۡ أَصَٰبَتۡكُم مُّصِيبَةٞ
+  قَالَ قَدۡ أَنۡعَمَ ٱللَّهُ عَلَيَّ إِذۡ لَمۡ أَكُن مَّعَهُمۡ شَهِيدٗا
 sentence_translation: There will be some among you who will lag behind so that if
   you face a disaster, they will say, “Allah has blessed us for not being there among
   them.”
 word_by_word:
   1:
-    arabic: وَاِنَّ
+    arabic: وَإِنَّ
     translation: And indeed
     transliteration: wa-inna
   2:
-    arabic: مِنۡكُمۡ
+    arabic: مِنكُمۡ
     translation: among you
     transliteration: minkum
   3:
-    arabic: لَمَنۡ
+    arabic: لَمَن
     translation: (is he) who
     transliteration: laman
   4:
-    arabic: لَّيُبَطِّئَنَّ​ۚ
+    arabic: لَّيُبَطِّئَنَّ
     translation: lags behind
     transliteration: layubaṭṭi-anna
   5:
-    arabic: فَاِنۡ
+    arabic: فَإِنۡ
     translation: then if
     transliteration: fa-in
   6:
-    arabic: اَصَابَتۡكُمۡ
+    arabic: أَصَٰبَتۡكُم
     translation: befalls you
     transliteration: aṣābatkum
   7:
-    arabic: مُّصِيۡبَةٌ
+    arabic: مُّصِيبَةٞ
     translation: a disaster
     transliteration: muṣībatun
   8:
@@ -42,19 +42,19 @@ word_by_word:
     translation: Verily
     transliteration: qad
   10:
-    arabic: اَنۡعَمَ
+    arabic: أَنۡعَمَ
     translation: (has) favored
     transliteration: anʿama
   11:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   12:
-    arabic: عَلَىَّ
+    arabic: عَلَيَّ
     translation: '[on] me'
     transliteration: ʿalayya
   13:
-    arabic: اِذۡ
+    arabic: إِذۡ
     translation: '[when]'
     transliteration: idh
   14:
@@ -62,7 +62,7 @@ word_by_word:
     translation: (that) not
     transliteration: lam
   15:
-    arabic: اَكُنۡ
+    arabic: أَكُن
     translation: I was
     transliteration: akun
   16:
@@ -70,7 +70,7 @@ word_by_word:
     translation: with them
     transliteration: maʿahum
   17:
-    arabic: شَهِيۡدًا‏
+    arabic: شَهِيدٗا
     translation: present
     transliteration: shahīdan
 ---

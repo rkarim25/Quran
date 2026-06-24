@@ -1,21 +1,20 @@
 ---
-arabic_ayat: وَاَنۡزَلَ الَّذِيۡنَ ظَاهَرُوۡهُمۡ مِّنۡ اَهۡلِ الۡكِتٰبِ مِنۡ صَيَاصِيۡهِمۡ
-  وَقَذَفَ فِىۡ قُلُوۡبِهِمُ الرُّعۡبَ فَرِيۡقًا تَقۡتُلُوۡنَ وَتَاۡسِرُوۡنَ فَرِيۡقًا
-  ۚ‏
+arabic_ayat: وَأَنزَلَ ٱلَّذِينَ ظَٰهَرُوهُم مِّنۡ أَهۡلِ ٱلۡكِتَٰبِ مِن صَيَاصِيهِمۡ
+  وَقَذَفَ فِي قُلُوبِهِمُ ٱلرُّعۡبَ فَرِيقٗا تَقۡتُلُونَ وَتَأۡسِرُونَ فَرِيقٗا
 sentence_translation: And He brought down those from the People of the Book who supported
   the enemy alliance from their own strongholds, and cast horror into their hearts.
   You ˹believers˺ killed some, and took others captive.
 word_by_word:
   1:
-    arabic: وَاَنۡزَلَ
+    arabic: وَأَنزَلَ
     translation: And He brought down
     transliteration: wa-anzala
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   3:
-    arabic: ظَاهَرُوۡهُمۡ
+    arabic: ظَٰهَرُوهُم
     translation: backed them
     transliteration: ẓāharūhum
   4:
@@ -23,19 +22,19 @@ word_by_word:
     translation: among
     transliteration: min
   5:
-    arabic: اَهۡلِ
+    arabic: أَهۡلِ
     translation: (the) People
     transliteration: ahli
   6:
-    arabic: الۡكِتٰبِ
+    arabic: ٱلۡكِتَٰبِ
     translation: (of) the Scripture
     transliteration: l-kitābi
   7:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   8:
-    arabic: صَيَاصِيۡهِمۡ
+    arabic: صَيَاصِيهِمۡ
     translation: their fortresses
     transliteration: ṣayāṣīhim
   9:
@@ -43,31 +42,31 @@ word_by_word:
     translation: and cast
     transliteration: waqadhafa
   10:
-    arabic: فِىۡ
+    arabic: فِي
     translation: into
     transliteration: fī
   11:
-    arabic: قُلُوۡبِهِمُ
+    arabic: قُلُوبِهِمُ
     translation: their hearts
     transliteration: qulūbihimu
   12:
-    arabic: الرُّعۡبَ
+    arabic: ٱلرُّعۡبَ
     translation: '[the] terror'
     transliteration: l-ruʿ'ba
   13:
-    arabic: فَرِيۡقًا
+    arabic: فَرِيقٗا
     translation: a group
     transliteration: farīqan
   14:
-    arabic: تَقۡتُلُوۡنَ
+    arabic: تَقۡتُلُونَ
     translation: you killed
     transliteration: taqtulūna
   15:
-    arabic: وَتَاۡسِرُوۡنَ
+    arabic: وَتَأۡسِرُونَ
     translation: and you took captive
     transliteration: watasirūna
   16:
-    arabic: فَرِيۡقًا ۚ‏
+    arabic: فَرِيقٗا
     translation: a group
     transliteration: farīqan
 ---

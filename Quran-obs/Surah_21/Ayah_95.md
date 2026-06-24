@@ -1,14 +1,14 @@
 ---
-arabic_ayat: وَ حَرٰمٌ عَلٰى قَرۡيَةٍ اَهۡلَكۡنٰهَاۤ اَنَّهُمۡ لَا يَرۡجِعُوۡنَ‏
+arabic_ayat: وَحَرَٰمٌ عَلَىٰ قَرۡيَةٍ أَهۡلَكۡنَٰهَآ أَنَّهُمۡ لَا يَرۡجِعُونَ
 sentence_translation: It is impossible for a society which We have destroyed to ever
   rise again,
 word_by_word:
   1:
-    arabic: وَ حَرٰمٌ
+    arabic: وَحَرَٰمٌ
     translation: And (there is) prohibition
     transliteration: waḥarāmun
   2:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: upon
     transliteration: ʿalā
   3:
@@ -16,11 +16,11 @@ word_by_word:
     translation: a city
     transliteration: qaryatin
   4:
-    arabic: اَهۡلَكۡنٰهَاۤ
+    arabic: أَهۡلَكۡنَٰهَآ
     translation: which We have destroyed
     transliteration: ahlaknāhā
   5:
-    arabic: اَنَّهُمۡ
+    arabic: أَنَّهُمۡ
     translation: that they
     transliteration: annahum
   6:
@@ -28,7 +28,7 @@ word_by_word:
     translation: not
     transliteration: lā
   7:
-    arabic: يَرۡجِعُوۡنَ‏
+    arabic: يَرۡجِعُونَ
     translation: will return
     transliteration: yarjiʿūna
 ---

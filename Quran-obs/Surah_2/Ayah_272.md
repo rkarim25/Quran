@@ -1,15 +1,14 @@
 ---
-arabic_ayat: لَيۡسَ عَلَيۡكَ هُدٰٮهُمۡ وَلٰـكِنَّ اللّٰهَ يَهۡدِىۡ مَنۡ يَّشَآءُ​
-  ؕ وَمَا تُنۡفِقُوۡا مِنۡ خَيۡرٍ فَلِاَنۡفُسِكُمۡ​ؕ وَمَا تُنۡفِقُوۡنَ اِلَّا ابۡتِغَآءَ
-  وَجۡهِ اللّٰهِ​ؕ وَمَا تُنۡفِقُوۡا مِنۡ خَيۡرٍ يُّوَفَّ اِلَيۡكُمۡ وَاَنۡـتُمۡ لَا
-  تُظۡلَمُوۡنَ‏
+arabic_ayat: ۞ لَّيۡسَ عَلَيۡكَ هُدَىٰهُمۡ وَلَٰكِنَّ ٱللَّهَ يَهۡدِي مَن يَشَآءُۗ
+  وَمَا تُنفِقُواْ مِنۡ خَيۡرٖ فَلِأَنفُسِكُمۡۚ وَمَا تُنفِقُونَ إِلَّا ٱبۡتِغَآءَ
+  وَجۡهِ ٱللَّهِۚ وَمَا تُنفِقُواْ مِنۡ خَيۡرٖ يُوَفَّ إِلَيۡكُمۡ وَأَنتُمۡ لَا تُظۡلَمُونَ
 sentence_translation: You are not responsible for people’s guidance ˹O Prophet˺—it
   is Allah Who guides whoever He wills. Whatever you ˹believers˺ spend in charity,
   it is for your own good—as long as you do so seeking the pleasure of Allah. Whatever
   you donate will be paid back to you in full, and you will not be wronged.
 word_by_word:
   1:
-    arabic: ۞ لَيۡسَ
+    arabic: ۞ لَّيۡسَ
     translation: Not
     transliteration: laysa
   2:
@@ -17,27 +16,27 @@ word_by_word:
     translation: on you
     transliteration: ʿalayka
   3:
-    arabic: هُدٰٮهُمۡ
+    arabic: هُدَىٰهُمۡ
     translation: (is) their guidance
     transliteration: hudāhum
   4:
-    arabic: وَلٰـكِنَّ
+    arabic: وَلَٰكِنَّ
     translation: '[and] but'
     transliteration: walākinna
   5:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   6:
-    arabic: يَهۡدِىۡ
+    arabic: يَهۡدِي
     translation: guides
     transliteration: yahdī
   7:
-    arabic: مَنۡ
+    arabic: مَن
     translation: whom
     transliteration: man
   8:
-    arabic: يَّشَآءُ​ ؕ
+    arabic: يَشَآءُۗ
     translation: He wills
     transliteration: yashāu
   9:
@@ -45,7 +44,7 @@ word_by_word:
     translation: And whatever
     transliteration: wamā
   10:
-    arabic: تُنۡفِقُوۡا
+    arabic: تُنفِقُواْ
     translation: you spend
     transliteration: tunfiqū
   11:
@@ -53,11 +52,11 @@ word_by_word:
     translation: of
     transliteration: min
   12:
-    arabic: خَيۡرٍ
+    arabic: خَيۡرٖ
     translation: good
     transliteration: khayrin
   13:
-    arabic: فَلِاَنۡفُسِكُمۡ​ؕ
+    arabic: فَلِأَنفُسِكُمۡۚ
     translation: then it is for yourself
     transliteration: fali-anfusikum
   14:
@@ -65,15 +64,15 @@ word_by_word:
     translation: and not
     transliteration: wamā
   15:
-    arabic: تُنۡفِقُوۡنَ
+    arabic: تُنفِقُونَ
     translation: you spend
     transliteration: tunfiqūna
   16:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   17:
-    arabic: ابۡتِغَآءَ
+    arabic: ٱبۡتِغَآءَ
     translation: seeking
     transliteration: ib'tighāa
   18:
@@ -81,7 +80,7 @@ word_by_word:
     translation: (the) face
     transliteration: wajhi
   19:
-    arabic: اللّٰهِ​ؕ
+    arabic: ٱللَّهِۚ
     translation: (of) Allah
     transliteration: l-lahi
   20:
@@ -89,7 +88,7 @@ word_by_word:
     translation: And whatever
     transliteration: wamā
   21:
-    arabic: تُنۡفِقُوۡا
+    arabic: تُنفِقُواْ
     translation: you spend
     transliteration: tunfiqū
   22:
@@ -97,19 +96,19 @@ word_by_word:
     translation: of
     transliteration: min
   23:
-    arabic: خَيۡرٍ
+    arabic: خَيۡرٖ
     translation: good
     transliteration: khayrin
   24:
-    arabic: يُّوَفَّ
+    arabic: يُوَفَّ
     translation: will be repaid in full
     transliteration: yuwaffa
   25:
-    arabic: اِلَيۡكُمۡ
+    arabic: إِلَيۡكُمۡ
     translation: to you
     transliteration: ilaykum
   26:
-    arabic: وَاَنۡـتُمۡ
+    arabic: وَأَنتُمۡ
     translation: and you
     transliteration: wa-antum
   27:
@@ -117,7 +116,7 @@ word_by_word:
     translation: (will) not
     transliteration: lā
   28:
-    arabic: تُظۡلَمُوۡنَ‏
+    arabic: تُظۡلَمُونَ
     translation: be wronged
     transliteration: tuẓ'lamūna
 ---

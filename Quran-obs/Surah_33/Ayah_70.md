@@ -1,38 +1,38 @@
 ---
-arabic_ayat: يٰۤـاَيُّهَا الَّذِيۡنَ اٰمَنُوا اتَّقُوا اللّٰهَ وَقُوۡلُوۡا قَوۡلًا
-  سَدِيۡدًا ۙ‏
+arabic_ayat: يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُواْ ٱتَّقُواْ ٱللَّهَ وَقُولُواْ قَوۡلٗا
+  سَدِيدٗا
 sentence_translation: O  believers! Be mindful of Allah, and say what is right.
 word_by_word:
   1:
-    arabic: يٰۤـاَيُّهَا
+    arabic: يَٰٓأَيُّهَا
     translation: O you who believe
     transliteration: yāayyuhā
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ ءَ
     translation: O you who believe
     transliteration: alladhīna
   3:
-    arabic: اٰمَنُوا
+    arabic: امَنُواْ
     translation: O you who believe
     transliteration: āmanū
   4:
-    arabic: اتَّقُوا
+    arabic: ٱتَّقُواْ
     translation: Fear
     transliteration: ittaqū
   5:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   6:
-    arabic: وَقُوۡلُوۡا
+    arabic: وَقُولُواْ
     translation: and speak
     transliteration: waqūlū
   7:
-    arabic: قَوۡلًا
+    arabic: قَوۡلٗا
     translation: a word
     transliteration: qawlan
   8:
-    arabic: سَدِيۡدًا ۙ‏
+    arabic: سَدِيدٗا
     translation: right
     transliteration: sadīdan
 ---

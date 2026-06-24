@@ -1,24 +1,24 @@
 ---
-arabic_ayat: قُلۡ اَٮِٕنَّكُمۡ لَتَكۡفُرُوۡنَ بِالَّذِىۡ خَلَقَ الۡاَرۡضَ فِىۡ يَوۡمَيۡنِ
-  وَتَجۡعَلُوۡنَ لَهٗۤ اَنۡدَادًا​ؕ ذٰلِكَ رَبُّ الۡعٰلَمِيۡنَ​ۚ‏
+arabic_ayat: ۞ قُلۡ أَئِنَّكُمۡ لَتَكۡفُرُونَ بِٱلَّذِي خَلَقَ ٱلۡأَرۡضَ فِي يَوۡمَيۡنِ
+  وَتَجۡعَلُونَ لَهُۥٓ أَندَادٗاۚ ذَٰلِكَ رَبُّ ٱلۡعَٰلَمِينَ
 sentence_translation: Ask ˹them, O  Prophet˺, “How can you disbelieve in the One Who
   created the earth in two Days? And how can you set up equals with Him? That is the
   Lord of all worlds.
 word_by_word:
   1:
-    arabic: ۞ قُلۡ
+    arabic: ۞ قُلۡ
     translation: Say
     transliteration: qul
   2:
-    arabic: اَٮِٕنَّكُمۡ
+    arabic: أَئِنَّكُمۡ
     translation: Do you indeed
     transliteration: a-innakum
   3:
-    arabic: لَتَكۡفُرُوۡنَ
+    arabic: لَتَكۡفُرُونَ
     translation: '[surely] disbelieve'
     transliteration: latakfurūna
   4:
-    arabic: بِالَّذِىۡ
+    arabic: بِٱلَّذِي
     translation: in the One Who
     transliteration: bi-alladhī
   5:
@@ -26,11 +26,11 @@ word_by_word:
     translation: created
     transliteration: khalaqa
   6:
-    arabic: الۡاَرۡضَ
+    arabic: ٱلۡأَرۡضَ
     translation: the earth
     transliteration: l-arḍa
   7:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   8:
@@ -38,19 +38,19 @@ word_by_word:
     translation: two periods
     transliteration: yawmayni
   9:
-    arabic: وَتَجۡعَلُوۡنَ
+    arabic: وَتَجۡعَلُونَ
     translation: and you set up
     transliteration: watajʿalūna
   10:
-    arabic: لَهٗۤ
+    arabic: لَهُۥٓ
     translation: with Him
     transliteration: lahu
   11:
-    arabic: اَنۡدَادًا​ؕ
+    arabic: أَندَادٗاۚ
     translation: rivals
     transliteration: andādan
   12:
-    arabic: ذٰلِكَ
+    arabic: ذَٰلِكَ
     translation: That
     transliteration: dhālika
   13:
@@ -58,7 +58,7 @@ word_by_word:
     translation: (is the) Lord
     transliteration: rabbu
   14:
-    arabic: الۡعٰلَمِيۡنَ​ۚ‏
+    arabic: ٱلۡعَٰلَمِينَ
     translation: (of) the worlds
     transliteration: l-ʿālamīna
 ---

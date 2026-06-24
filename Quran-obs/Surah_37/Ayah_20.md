@@ -1,17 +1,17 @@
 ---
-arabic_ayat: وَقَالُوۡا يٰوَيۡلَنَا هٰذَا يَوۡمُ الدِّيۡنِ‏
+arabic_ayat: وَقَالُواْ يَٰوَيۡلَنَا هَٰذَا يَوۡمُ ٱلدِّينِ
 sentence_translation: They will cry, “Oh, woe to us! This is the Day of Judgment!”
 word_by_word:
   1:
-    arabic: وَقَالُوۡا
+    arabic: وَقَالُواْ
     translation: And they will say
     transliteration: waqālū
   2:
-    arabic: يٰوَيۡلَنَا
+    arabic: يَٰوَيۡلَنَا
     translation: O woe to us
     transliteration: yāwaylanā
   3:
-    arabic: هٰذَا
+    arabic: هَٰذَا
     translation: This
     transliteration: hādhā
   4:
@@ -19,7 +19,7 @@ word_by_word:
     translation: (is the) Day
     transliteration: yawmu
   5:
-    arabic: الدِّيۡنِ‏
+    arabic: ٱلدِّينِ
     translation: (of) the Recompense
     transliteration: l-dīni
 ---

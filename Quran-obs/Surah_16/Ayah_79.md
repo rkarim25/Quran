@@ -1,31 +1,31 @@
 ---
-arabic_ayat: اَلَمۡ يَرَوۡا اِلَى الطَّيۡرِ مُسَخَّرٰتٍ فِىۡ جَوِّ السَّمَآءِ ؕ مَا
-  يُمۡسِكُهُنَّ اِلَّا اللّٰهُ​ؕ اِنَّ فِىۡ ذٰ لِكَ لَاٰيٰتٍ لِّقَوۡمٍ يُّؤۡمِنُوۡنَ‏
+arabic_ayat: أَلَمۡ يَرَوۡاْ إِلَى ٱلطَّيۡرِ مُسَخَّرَٰتٖ فِي جَوِّ ٱلسَّمَآءِ مَا
+  يُمۡسِكُهُنَّ إِلَّا ٱللَّهُۚ إِنَّ فِي ذَٰلِكَ لَأٓيَٰتٖ لِّقَوۡمٖ يُؤۡمِنُونَ
 sentence_translation: Have they not seen the birds glide in the open sky? None holds
   them up except Allah. Surely in this are signs for those who believe.
 word_by_word:
   1:
-    arabic: اَلَمۡ
+    arabic: أَلَمۡ
     translation: Do not
     transliteration: alam
   2:
-    arabic: يَرَوۡا
+    arabic: يَرَوۡاْ
     translation: they see
     transliteration: yaraw
   3:
-    arabic: اِلَى
+    arabic: إِلَى
     translation: towards
     transliteration: ilā
   4:
-    arabic: الطَّيۡرِ
+    arabic: ٱلطَّيۡرِ
     translation: the birds
     transliteration: l-ṭayri
   5:
-    arabic: مُسَخَّرٰتٍ
+    arabic: مُسَخَّرَٰتٖ
     translation: controlled
     transliteration: musakharātin
   6:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   7:
@@ -33,7 +33,7 @@ word_by_word:
     translation: the midst
     transliteration: jawwi
   8:
-    arabic: السَّمَآءِ ؕ
+    arabic: ٱلسَّمَآءِ
     translation: (of) the sky
     transliteration: l-samāi
   9:
@@ -45,35 +45,35 @@ word_by_word:
     translation: holds them up
     transliteration: yum'sikuhunna
   11:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   12:
-    arabic: اللّٰهُ​ؕ
+    arabic: ٱللَّهُۚ
     translation: Allah
     transliteration: l-lahu
   13:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   14:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   15:
-    arabic: ذٰ لِكَ
+    arabic: ذَٰلِكَ
     translation: that
     transliteration: dhālika
   16:
-    arabic: لَاٰيٰتٍ
+    arabic: لَأٓيَٰتٖ
     translation: (are) Signs
     transliteration: laāyātin
   17:
-    arabic: لِّقَوۡمٍ
+    arabic: لِّقَوۡمٖ
     translation: for a people
     transliteration: liqawmin
   18:
-    arabic: يُّؤۡمِنُوۡنَ‏
+    arabic: يُؤۡمِنُونَ
     translation: who believe
     transliteration: yu'minūna
 ---

@@ -1,22 +1,22 @@
 ---
-arabic_ayat: وَاِذۡ نَـتَقۡنَا الۡجَـبَلَ فَوۡقَهُمۡ كَاَنَّهٗ ظُلَّةٌ وَّظَنُّوۡۤا
-  اَنَّهٗ وَاقِعٌ ۢ بِهِمۡ​ ۚ خُذُوۡا مَاۤ اٰتَيۡنٰكُمۡ بِقُوَّةٍ وَّاذۡكُرُوۡا مَا
-  فِيۡهِ لَعَلَّكُمۡ تَتَّقُوۡنَ‏
+arabic_ayat: ۞ وَإِذۡ نَتَقۡنَا ٱلۡجَبَلَ فَوۡقَهُمۡ كَأَنَّهُۥ ظُلَّةٞ وَظَنُّوٓاْ
+  أَنَّهُۥ وَاقِعُۢ بِهِمۡ خُذُواْ مَآ ءَاتَيۡنَٰكُم بِقُوَّةٖ وَٱذۡكُرُواْ مَا فِيهِ
+  لَعَلَّكُمۡ تَتَّقُونَ
 sentence_translation: And ˹remember˺ when We raised the mountain over them as if it
   were a cloud and they thought it would fall on them. ˹We said,˺ “Hold firmly to
   that ˹Scripture˺ which We have given you and observe its teachings so perhaps you
   will become mindful ˹of Allah˺.”
 word_by_word:
   1:
-    arabic: ۞ وَاِذۡ
+    arabic: ۞ وَإِذۡ
     translation: And when
     transliteration: wa-idh
   2:
-    arabic: نَـتَقۡنَا
+    arabic: نَتَقۡنَا
     translation: We raised
     transliteration: nataqnā
   3:
-    arabic: الۡجَـبَلَ
+    arabic: ٱلۡجَبَلَ
     translation: the mountain
     transliteration: l-jabala
   4:
@@ -24,47 +24,47 @@ word_by_word:
     translation: above them
     transliteration: fawqahum
   5:
-    arabic: كَاَنَّهٗ
+    arabic: كَأَنَّهُۥ
     translation: as if it was
     transliteration: ka-annahu
   6:
-    arabic: ظُلَّةٌ
+    arabic: ظُلَّةٞ
     translation: a canopy
     transliteration: ẓullatun
   7:
-    arabic: وَّظَنُّوۡۤا
+    arabic: وَظَنُّوٓاْ
     translation: and they thought
     transliteration: waẓannū
   8:
-    arabic: اَنَّهٗ
+    arabic: أَنَّهُۥ
     translation: that it
     transliteration: annahu
   9:
-    arabic: وَاقِعٌ ۢ
+    arabic: وَاقِعُۢ
     translation: (would) fall
     transliteration: wāqiʿun
   10:
-    arabic: بِهِمۡ​ ۚ
+    arabic: بِهِمۡ
     translation: upon them
     transliteration: bihim
   11:
-    arabic: خُذُوۡا
+    arabic: خُذُواْ
     translation: (We said), "Take
     transliteration: khudhū
   12:
-    arabic: مَاۤ
+    arabic: مَآ ءَ
     translation: what
     transliteration: mā
   13:
-    arabic: اٰتَيۡنٰكُمۡ
+    arabic: اتَيۡنَٰكُم
     translation: We have given you
     transliteration: ātaynākum
   14:
-    arabic: بِقُوَّةٍ
+    arabic: بِقُوَّةٖ
     translation: with strength
     transliteration: biquwwatin
   15:
-    arabic: وَّاذۡكُرُوۡا
+    arabic: وَٱذۡكُرُواْ
     translation: and remember
     transliteration: wa-udh'kurū
   16:
@@ -72,7 +72,7 @@ word_by_word:
     translation: what
     transliteration: mā
   17:
-    arabic: فِيۡهِ
+    arabic: فِيهِ
     translation: (is) in it
     transliteration: fīhi
   18:
@@ -80,7 +80,7 @@ word_by_word:
     translation: so that you may
     transliteration: laʿallakum
   19:
-    arabic: تَتَّقُوۡنَ‏
+    arabic: تَتَّقُونَ
     translation: fear Allah
     transliteration: tattaqūna
 ---

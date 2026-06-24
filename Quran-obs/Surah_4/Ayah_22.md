@@ -1,6 +1,6 @@
 ---
-arabic_ayat: وَلَا تَنۡكِحُوۡا مَا نَكَحَ اٰبَآؤُكُمۡ مِّنَ النِّسَآءِ اِلَّا مَا
-  قَدۡ سَلَفَ​ ؕ اِنَّهٗ كَانَ فَاحِشَةً وَّمَقۡتًا ؕ وَسَآءَ سَبِيۡلًا‏
+arabic_ayat: وَلَا تَنكِحُواْ مَا نَكَحَ ءَابَآؤُكُم مِّنَ ٱلنِّسَآءِ إِلَّا مَا
+  قَدۡ سَلَفَۚ إِنَّهُۥ كَانَ فَٰحِشَةٗ وَمَقۡتٗا وَسَآءَ سَبِيلًا
 sentence_translation: Do not marry former wives of your fathers—except what was done
   previously. It was indeed a shameful, despicable, and evil practice.
 word_by_word:
@@ -9,7 +9,7 @@ word_by_word:
     translation: And (do) not
     transliteration: walā
   2:
-    arabic: تَنۡكِحُوۡا
+    arabic: تَنكِحُواْ
     translation: marry
     transliteration: tankiḥū
   3:
@@ -17,11 +17,11 @@ word_by_word:
     translation: whom
     transliteration: mā
   4:
-    arabic: نَكَحَ
+    arabic: نَكَحَ ءَ
     translation: married
     transliteration: nakaḥa
   5:
-    arabic: اٰبَآؤُكُمۡ
+    arabic: ابَآؤُكُم
     translation: your fathers
     transliteration: ābāukum
   6:
@@ -29,11 +29,11 @@ word_by_word:
     translation: of
     transliteration: mina
   7:
-    arabic: النِّسَآءِ
+    arabic: ٱلنِّسَآءِ
     translation: the women
     transliteration: l-nisāi
   8:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   9:
@@ -45,11 +45,11 @@ word_by_word:
     translation: has
     transliteration: qad
   11:
-    arabic: سَلَفَ​ ؕ
+    arabic: سَلَفَۚ
     translation: passed before
     transliteration: salafa
   12:
-    arabic: اِنَّهٗ
+    arabic: إِنَّهُۥ
     translation: indeed it
     transliteration: innahu
   13:
@@ -57,11 +57,11 @@ word_by_word:
     translation: was
     transliteration: kāna
   14:
-    arabic: فَاحِشَةً
+    arabic: فَٰحِشَةٗ
     translation: an immorality
     transliteration: fāḥishatan
   15:
-    arabic: وَّمَقۡتًا ؕ
+    arabic: وَمَقۡتٗا
     translation: and hateful
     transliteration: wamaqtan
   16:
@@ -69,7 +69,7 @@ word_by_word:
     translation: and (an) evil
     transliteration: wasāa
   17:
-    arabic: سَبِيۡلًا‏
+    arabic: سَبِيلًا
     translation: way
     transliteration: sabīlan
 ---

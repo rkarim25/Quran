@@ -1,8 +1,8 @@
 ---
-arabic_ayat: وَسِيۡقَ الَّذِيۡنَ كَفَرُوۡۤا اِلٰى جَهَنَّمَ زُمَرًا​ ؕ حَتّٰٓى اِذَا
-  جَآءُوۡهَا فُتِحَتۡ اَبۡوَابُهَا وَقَالَ لَهُمۡ خَزَنَـتُهَاۤ اَلَمۡ يَاۡتِكُمۡ
-  رُسُلٌ مِّنۡكُمۡ يَتۡلُوۡنَ عَلَيۡكُمۡ اٰيٰتِ رَبِّكُمۡ وَيُنۡذِرُوۡنَـكُمۡ لِقَآءَ
-  يَوۡمِكُمۡ هٰذَا​ ؕ قَالُوۡا بَلٰى وَلٰـكِنۡ حَقَّتۡ كَلِمَةُ الۡعَذَابِ عَلَى الۡكٰفِرِيۡنَ‏
+arabic_ayat: وَسِيقَ ٱلَّذِينَ كَفَرُوٓاْ إِلَىٰ جَهَنَّمَ زُمَرًاۖ حَتَّىٰٓ إِذَا
+  جَآءُوهَا فُتِحَتۡ أَبۡوَٰبُهَا وَقَالَ لَهُمۡ خَزَنَتُهَآ أَلَمۡ يَأۡتِكُمۡ رُسُلٞ
+  مِّنكُمۡ يَتۡلُونَ عَلَيۡكُمۡ ءَايَٰتِ رَبِّكُمۡ وَيُنذِرُونَكُمۡ لِقَآءَ يَوۡمِكُمۡ
+  هَٰذَاۚ قَالُواْ بَلَىٰ وَلَٰكِنۡ حَقَّتۡ كَلِمَةُ ٱلۡعَذَابِ عَلَى ٱلۡكَٰفِرِينَ
 sentence_translation: 'Those who disbelieved will be driven to Hell in ˹successive˺
   groups. When they arrive there, its gates will be opened and its keepers will ask
   them: “Did messengers not come to you from among yourselves, reciting to you the
@@ -11,19 +11,19 @@ sentence_translation: 'Those who disbelieved will be driven to Hell in ˹success
   against the disbelievers.”'
 word_by_word:
   1:
-    arabic: وَسِيۡقَ
+    arabic: وَسِيقَ
     translation: And (will) be driven
     transliteration: wasīqa
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   3:
-    arabic: كَفَرُوۡۤا
+    arabic: كَفَرُوٓاْ
     translation: disbelieve
     transliteration: kafarū
   4:
-    arabic: اِلٰى
+    arabic: إِلَىٰ
     translation: to
     transliteration: ilā
   5:
@@ -31,19 +31,19 @@ word_by_word:
     translation: Hell
     transliteration: jahannama
   6:
-    arabic: زُمَرًا​ ؕ
+    arabic: زُمَرًاۖ
     translation: (in) groups
     transliteration: zumaran
   7:
-    arabic: حَتّٰٓى
+    arabic: حَتَّىٰٓ
     translation: until
     transliteration: ḥattā
   8:
-    arabic: اِذَا
+    arabic: إِذَا
     translation: when
     transliteration: idhā
   9:
-    arabic: جَآءُوۡهَا
+    arabic: جَآءُوهَا
     translation: they reach it
     transliteration: jāūhā
   10:
@@ -51,7 +51,7 @@ word_by_word:
     translation: (will) be opened
     transliteration: futiḥat
   11:
-    arabic: اَبۡوَابُهَا
+    arabic: أَبۡوَٰبُهَا
     translation: its gates
     transliteration: abwābuhā
   12:
@@ -63,35 +63,35 @@ word_by_word:
     translation: to them
     transliteration: lahum
   14:
-    arabic: خَزَنَـتُهَاۤ
+    arabic: خَزَنَتُهَآ
     translation: its keepers
     transliteration: khazanatuhā
   15:
-    arabic: اَلَمۡ
+    arabic: أَلَمۡ
     translation: Did not
     transliteration: alam
   16:
-    arabic: يَاۡتِكُمۡ
+    arabic: يَأۡتِكُمۡ
     translation: come to you
     transliteration: yatikum
   17:
-    arabic: رُسُلٌ
+    arabic: رُسُلٞ
     translation: Messengers
     transliteration: rusulun
   18:
-    arabic: مِّنۡكُمۡ
+    arabic: مِّنكُمۡ
     translation: from you
     transliteration: minkum
   19:
-    arabic: يَتۡلُوۡنَ
+    arabic: يَتۡلُونَ
     translation: reciting
     transliteration: yatlūna
   20:
-    arabic: عَلَيۡكُمۡ
+    arabic: عَلَيۡكُمۡ ءَ
     translation: to you
     transliteration: ʿalaykum
   21:
-    arabic: اٰيٰتِ
+    arabic: ايَٰتِ
     translation: (the) Verses
     transliteration: āyāti
   22:
@@ -99,7 +99,7 @@ word_by_word:
     translation: (of) your Lord
     transliteration: rabbikum
   23:
-    arabic: وَيُنۡذِرُوۡنَـكُمۡ
+    arabic: وَيُنذِرُونَكُمۡ
     translation: and warning you
     transliteration: wayundhirūnakum
   24:
@@ -111,19 +111,19 @@ word_by_word:
     translation: (of) your Day
     transliteration: yawmikum
   26:
-    arabic: هٰذَا​ ؕ
+    arabic: هَٰذَاۚ
     translation: this
     transliteration: hādhā
   27:
-    arabic: قَالُوۡا
+    arabic: قَالُواْ
     translation: They (will) say
     transliteration: qālū
   28:
-    arabic: بَلٰى
+    arabic: بَلَىٰ
     translation: 'Yes'
     transliteration: balā
   29:
-    arabic: وَلٰـكِنۡ
+    arabic: وَلَٰكِنۡ
     translation: But
     transliteration: walākin
   30:
@@ -135,7 +135,7 @@ word_by_word:
     translation: (the) word
     transliteration: kalimatu
   32:
-    arabic: الۡعَذَابِ
+    arabic: ٱلۡعَذَابِ
     translation: (of) punishment
     transliteration: l-ʿadhābi
   33:
@@ -143,7 +143,7 @@ word_by_word:
     translation: against
     transliteration: ʿalā
   34:
-    arabic: الۡكٰفِرِيۡنَ‏
+    arabic: ٱلۡكَٰفِرِينَ
     translation: the disbelievers
     transliteration: l-kāfirīna
 ---

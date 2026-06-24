@@ -1,15 +1,15 @@
 ---
-arabic_ayat: اۨلَّذِىۡۤ اَحَلَّنَا دَارَ الۡمُقَامَةِ مِنۡ فَضۡلِهٖ​ۚ لَا يَمَسُّنَا
-  فِيۡهَا نَصَبٌ وَّلَا يَمَسُّنَا فِيۡهَا لُـغُوۡبٌ‏
+arabic_ayat: ٱلَّذِيٓ أَحَلَّنَا دَارَ ٱلۡمُقَامَةِ مِن فَضۡلِهِۦ لَا يَمَسُّنَا فِيهَا
+  نَصَبٞ وَلَا يَمَسُّنَا فِيهَا لُغُوبٞ
 sentence_translation: ˹He is the One˺ Who—out of His grace—has settled us in the Home
   of Everlasting Stay, where we will be touched by neither fatigue nor weariness.”
 word_by_word:
   1:
-    arabic: اۨلَّذِىۡۤ
+    arabic: ٱلَّذِيٓ
     translation: The One Who
     transliteration: alladhī
   2:
-    arabic: اَحَلَّنَا
+    arabic: أَحَلَّنَا
     translation: has settled us
     transliteration: aḥallanā
   3:
@@ -17,15 +17,15 @@ word_by_word:
     translation: (in) a Home
     transliteration: dāra
   4:
-    arabic: الۡمُقَامَةِ
+    arabic: ٱلۡمُقَامَةِ
     translation: (of) Eternity
     transliteration: l-muqāmati
   5:
-    arabic: مِنۡ
+    arabic: مِن
     translation: (out) of
     transliteration: min
   6:
-    arabic: فَضۡلِهٖ​ۚ
+    arabic: فَضۡلِهِۦ
     translation: His Bounty
     transliteration: faḍlihi
   7:
@@ -37,15 +37,15 @@ word_by_word:
     translation: touches us
     transliteration: yamassunā
   9:
-    arabic: فِيۡهَا
+    arabic: فِيهَا
     translation: therein
     transliteration: fīhā
   10:
-    arabic: نَصَبٌ
+    arabic: نَصَبٞ
     translation: any fatigue
     transliteration: naṣabun
   11:
-    arabic: وَّلَا
+    arabic: وَلَا
     translation: and not
     transliteration: walā
   12:
@@ -53,11 +53,11 @@ word_by_word:
     translation: touches
     transliteration: yamassunā
   13:
-    arabic: فِيۡهَا
+    arabic: فِيهَا
     translation: therein
     transliteration: fīhā
   14:
-    arabic: لُـغُوۡبٌ‏
+    arabic: لُغُوبٞ
     translation: weariness
     transliteration: lughūbun
 ---

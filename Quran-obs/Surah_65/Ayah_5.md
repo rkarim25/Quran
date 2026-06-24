@@ -1,40 +1,40 @@
 ---
-arabic_ayat: ذٰ لِكَ اَمۡرُ اللّٰهِ اَنۡزَلَهٗۤ اِلَيۡكُمۡ​ ؕ وَمَنۡ يَّـتَّـقِ اللّٰهَ
-  يُكَفِّرۡ عَنۡهُ سَيِّاٰتِهٖ وَيُعۡظِمۡ لَهٗۤ اَجۡرًا‏
+arabic_ayat: ذَٰلِكَ أَمۡرُ ٱللَّهِ أَنزَلَهُۥٓ إِلَيۡكُمۡۚ وَمَن يَتَّقِ ٱللَّهَ
+  يُكَفِّرۡ عَنۡهُ سَيِّـَٔاتِهِۦ وَيُعۡظِمۡ لَهُۥٓ أَجۡرًا
 sentence_translation: This is the commandment of Allah, which He has revealed to you.
   And whoever is mindful of Allah, He will absolve them of their sins and reward them
   immensely.
 word_by_word:
   1:
-    arabic: ذٰ لِكَ
+    arabic: ذَٰلِكَ
     translation: That
     transliteration: dhālika
   2:
-    arabic: اَمۡرُ
+    arabic: أَمۡرُ
     translation: (is the) Command
     transliteration: amru
   3:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (of) Allah
     transliteration: l-lahi
   4:
-    arabic: اَنۡزَلَهٗۤ
+    arabic: أَنزَلَهُۥٓ
     translation: which He has sent down
     transliteration: anzalahu
   5:
-    arabic: اِلَيۡكُمۡ​ ؕ
+    arabic: إِلَيۡكُمۡۚ
     translation: to you
     transliteration: ilaykum
   6:
-    arabic: وَمَنۡ
+    arabic: وَمَن
     translation: and whoever
     transliteration: waman
   7:
-    arabic: يَّـتَّـقِ
+    arabic: يَتَّقِ
     translation: fears
     transliteration: yattaqi
   8:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   9:
@@ -46,7 +46,7 @@ word_by_word:
     translation: from him
     transliteration: ʿanhu
   11:
-    arabic: سَيِّاٰتِهٖ
+    arabic: سَيِّـَٔاتِهِۦ
     translation: his evil deeds
     transliteration: sayyiātihi
   12:
@@ -54,11 +54,11 @@ word_by_word:
     translation: and make great
     transliteration: wayuʿ'ẓim
   13:
-    arabic: لَهٗۤ
+    arabic: لَهُۥٓ
     translation: for him
     transliteration: lahu
   14:
-    arabic: اَجۡرًا‏
+    arabic: أَجۡرًا
     translation: (his) reward
     transliteration: ajran
 ---

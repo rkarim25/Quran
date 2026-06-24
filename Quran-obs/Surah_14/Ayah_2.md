@@ -1,19 +1,19 @@
 ---
-arabic_ayat: اللّٰهِ الَّذِىۡ لَهٗ مَا فِى السَّمٰوٰتِ وَمَا فِى الۡاَرۡضِ​ؕ وَوَيۡلٌ
-  لِّـلۡكٰفِرِيۡنَ مِنۡ عَذَابٍ شَدِيۡدِ ۙ‏
+arabic_ayat: ٱللَّهِ ٱلَّذِي لَهُۥ مَا فِي ٱلسَّمَٰوَٰتِ وَمَا فِي ٱلۡأَرۡضِۗ وَوَيۡلٞ
+  لِّلۡكَٰفِرِينَ مِنۡ عَذَابٖ شَدِيدٍ
 sentence_translation: Allah, to Whom belongs whatever is in the heavens and whatever
   is on the earth. And woe to the disbelievers because of a severe torment!
 word_by_word:
   1:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: al-lahi
   2:
-    arabic: الَّذِىۡ
+    arabic: ٱلَّذِي
     translation: (is) the One
     transliteration: alladhī
   3:
-    arabic: لَهٗ
+    arabic: لَهُۥ
     translation: to Him (belongs)
     transliteration: lahu
   4:
@@ -21,11 +21,11 @@ word_by_word:
     translation: whatever
     transliteration: mā
   5:
-    arabic: فِى
+    arabic: فِي
     translation: (is) in
     transliteration: fī
   6:
-    arabic: السَّمٰوٰتِ
+    arabic: ٱلسَّمَٰوَٰتِ
     translation: the heavens
     transliteration: l-samāwāti
   7:
@@ -33,19 +33,19 @@ word_by_word:
     translation: and whatever
     transliteration: wamā
   8:
-    arabic: فِى
+    arabic: فِي
     translation: (is) in
     transliteration: fī
   9:
-    arabic: الۡاَرۡضِ​ؕ
+    arabic: ٱلۡأَرۡضِۗ
     translation: the earth
     transliteration: l-arḍi
   10:
-    arabic: وَوَيۡلٌ
+    arabic: وَوَيۡلٞ
     translation: And woe
     transliteration: wawaylun
   11:
-    arabic: لِّـلۡكٰفِرِيۡنَ
+    arabic: لِّلۡكَٰفِرِينَ
     translation: to the disbelievers
     transliteration: lil'kāfirīna
   12:
@@ -53,11 +53,11 @@ word_by_word:
     translation: from
     transliteration: min
   13:
-    arabic: عَذَابٍ
+    arabic: عَذَابٖ
     translation: the punishment
     transliteration: ʿadhābin
   14:
-    arabic: شَدِيۡدِ ۙ‏
+    arabic: شَدِيدٍ
     translation: severe
     transliteration: shadīdin
 ---

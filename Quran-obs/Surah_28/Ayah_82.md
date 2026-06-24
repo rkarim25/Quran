@@ -1,8 +1,7 @@
 ---
-arabic_ayat: "وَاَصۡبَحَ الَّذِيۡنَ تَمَـنَّوۡا مَكَانَهٗ بِالۡاَمۡسِ يَقُوۡلُوۡنَ\
-  \ وَيۡكَاَنَّ اللّٰهَ يَبۡسُطُ الرِّزۡقَ لِمَنۡ يَّشَآءُ مِنۡ عِبَادِهٖ وَيَقۡدِرُ​ۚ\
-  \ لَوۡلَاۤ اَنۡ مَّنَّ اللّٰهُ عَلَيۡنَا لَخَسَفَ بِنَا​ ؕ وَيۡكَاَنَّهٗ لَا يُفۡلِحُ\
-  \ الۡكٰفِرُوۡنَ‏ \uFEFF\uFEFF"
+arabic_ayat: وَأَصۡبَحَ ٱلَّذِينَ تَمَنَّوۡاْ مَكَانَهُۥ بِٱلۡأَمۡسِ يَقُولُونَ وَيۡكَأَنَّ
+  ٱللَّهَ يَبۡسُطُ ٱلرِّزۡقَ لِمَن يَشَآءُ مِنۡ عِبَادِهِۦ وَيَقۡدِرُۖ لَوۡلَآ أَن
+  مَّنَّ ٱللَّهُ عَلَيۡنَا لَخَسَفَ بِنَاۖ وَيۡكَأَنَّهُۥ لَا يُفۡلِحُ ٱلۡكَٰفِرُونَ
 sentence_translation: And those who had craved his position the previous day began
   to say, “Ah! It is certainly Allah Who gives abundant or limited provisions to whoever
   He wills of His servants. Had it not been for the grace of Allah, He could have
@@ -10,35 +9,35 @@ sentence_translation: And those who had craved his position the previous day beg
   succeed.”
 word_by_word:
   1:
-    arabic: وَاَصۡبَحَ
+    arabic: وَأَصۡبَحَ
     translation: And began
     transliteration: wa-aṣbaḥa
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   3:
-    arabic: تَمَـنَّوۡا
+    arabic: تَمَنَّوۡاْ
     translation: (had) wished
     transliteration: tamannaw
   4:
-    arabic: مَكَانَهٗ
+    arabic: مَكَانَهُۥ
     translation: his position
     transliteration: makānahu
   5:
-    arabic: بِالۡاَمۡسِ
+    arabic: بِٱلۡأَمۡسِ
     translation: the day before
     transliteration: bil-amsi
   6:
-    arabic: يَقُوۡلُوۡنَ
+    arabic: يَقُولُونَ
     translation: (to) say
     transliteration: yaqūlūna
   7:
-    arabic: وَيۡكَاَنَّ
+    arabic: وَيۡكَأَنَّ
     translation: Ah! That
     transliteration: wayka-anna
   8:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   9:
@@ -46,15 +45,15 @@ word_by_word:
     translation: extends
     transliteration: yabsuṭu
   10:
-    arabic: الرِّزۡقَ
+    arabic: ٱلرِّزۡقَ
     translation: the provision
     transliteration: l-riz'qa
   11:
-    arabic: لِمَنۡ
+    arabic: لِمَن
     translation: for whom
     transliteration: liman
   12:
-    arabic: يَّشَآءُ
+    arabic: يَشَآءُ
     translation: He wills
     transliteration: yashāu
   13:
@@ -62,19 +61,19 @@ word_by_word:
     translation: of
     transliteration: min
   14:
-    arabic: عِبَادِهٖ
+    arabic: عِبَادِهِۦ
     translation: His slaves
     transliteration: ʿibādihi
   15:
-    arabic: وَيَقۡدِرُ​ۚ
+    arabic: وَيَقۡدِرُۖ
     translation: and restricts it
     transliteration: wayaqdiru
   16:
-    arabic: لَوۡلَاۤ
+    arabic: لَوۡلَآ
     translation: If not
     transliteration: lawlā
   17:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that
     transliteration: an
   18:
@@ -82,7 +81,7 @@ word_by_word:
     translation: Allah had favored
     transliteration: manna
   19:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah had favored
     transliteration: l-lahu
   20:
@@ -94,11 +93,11 @@ word_by_word:
     translation: He would have caused it to swallow us
     transliteration: lakhasafa
   22:
-    arabic: بِنَا​ ؕ
+    arabic: بِنَاۖ
     translation: He would have caused it to swallow us
     transliteration: binā
   23:
-    arabic: وَيۡكَاَنَّهٗ
+    arabic: وَيۡكَأَنَّهُۥ
     translation: Ah! That
     transliteration: wayka-annahu
   24:
@@ -110,7 +109,7 @@ word_by_word:
     translation: will succeed
     transliteration: yuf'liḥu
   26:
-    arabic: "الۡكٰفِرُوۡنَ‏ \uFEFF\uFEFF"
+    arabic: ٱلۡكَٰفِرُونَ
     translation: the disbelievers
     transliteration: l-kāfirūna
 ---

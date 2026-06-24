@@ -1,11 +1,11 @@
 ---
-arabic_ayat: اَمۡ تَحۡسَبُ اَنَّ اَكۡثَرَهُمۡ يَسۡمَعُوۡنَ اَوۡ يَعۡقِلُوۡنَ​ ؕ اِنۡ
-  هُمۡ اِلَّا كَالۡاَنۡعَامِ​ بَلۡ هُمۡ اَضَلُّ سَبِيۡلًا‏
+arabic_ayat: أَمۡ تَحۡسَبُ أَنَّ أَكۡثَرَهُمۡ يَسۡمَعُونَ أَوۡ يَعۡقِلُونَۚ إِنۡ هُمۡ
+  إِلَّا كَٱلۡأَنۡعَٰمِ بَلۡ هُمۡ أَضَلُّ سَبِيلًا
 sentence_translation: Or do you think that most of them listen or understand? They
   are only like cattle—no, more than that, they are astray from the ˹Right˺ Way! 
 word_by_word:
   1:
-    arabic: اَمۡ
+    arabic: أَمۡ
     translation: Or
     transliteration: am
   2:
@@ -13,27 +13,27 @@ word_by_word:
     translation: do you think
     transliteration: taḥsabu
   3:
-    arabic: اَنَّ
+    arabic: أَنَّ
     translation: that
     transliteration: anna
   4:
-    arabic: اَكۡثَرَهُمۡ
+    arabic: أَكۡثَرَهُمۡ
     translation: most of them
     transliteration: aktharahum
   5:
-    arabic: يَسۡمَعُوۡنَ
+    arabic: يَسۡمَعُونَ
     translation: hear
     transliteration: yasmaʿūna
   6:
-    arabic: اَوۡ
+    arabic: أَوۡ
     translation: or
     transliteration: aw
   7:
-    arabic: يَعۡقِلُوۡنَ​ ؕ
+    arabic: يَعۡقِلُونَۚ
     translation: understand
     transliteration: yaʿqilūna
   8:
-    arabic: اِنۡ
+    arabic: إِنۡ
     translation: Not
     transliteration: in
   9:
@@ -41,11 +41,11 @@ word_by_word:
     translation: they
     transliteration: hum
   10:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: (are) except
     transliteration: illā
   11:
-    arabic: كَالۡاَنۡعَامِ​
+    arabic: كَٱلۡأَنۡعَٰمِ
     translation: like cattle
     transliteration: kal-anʿāmi
   12:
@@ -57,11 +57,11 @@ word_by_word:
     translation: they
     transliteration: hum
   14:
-    arabic: اَضَلُّ
+    arabic: أَضَلُّ
     translation: (are) more astray
     transliteration: aḍallu
   15:
-    arabic: سَبِيۡلًا‏
+    arabic: سَبِيلًا
     translation: (from the) way
     transliteration: sabīlan
 ---

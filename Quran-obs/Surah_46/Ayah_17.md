@@ -1,8 +1,7 @@
 ---
-arabic_ayat: وَالَّذِىۡ قَالَ لِـوَالِدَيۡهِ اُفٍّ لَّكُمَاۤ اَتَعِدٰنِنِىۡۤ اَنۡ
-  اُخۡرَجَ وَقَدۡ خَلَتِ الۡقُرُوۡنُ مِنۡ قَبۡلِىۡ​ ۚ وَهُمَا يَسۡتَغِيۡثٰنِ اللّٰهَ
-  وَيۡلَكَ اٰمِنۡ ۖ  اِنَّ وَعۡدَ اللّٰهِ حَقٌّ  ۖۚ فَيَقُوۡلُ مَا هٰذَاۤ اِلَّاۤ
-  اَسَاطِيۡرُ الۡاَوَّلِيۡنَ‏
+arabic_ayat: وَٱلَّذِي قَالَ لِوَٰلِدَيۡهِ أُفّٖ لَّكُمَآ أَتَعِدَانِنِيٓ أَنۡ أُخۡرَجَ
+  وَقَدۡ خَلَتِ ٱلۡقُرُونُ مِن قَبۡلِي وَهُمَا يَسۡتَغِيثَانِ ٱللَّهَ وَيۡلَكَ ءَامِنۡ
+  إِنَّ وَعۡدَ ٱللَّهِ حَقّٞ فَيَقُولُ مَا هَٰذَآ إِلَّآ أَسَٰطِيرُ ٱلۡأَوَّلِينَ
 sentence_translation: But some scold their parents, “Enough with you! Are you warning
   me that I will be brought forth ˹from the grave˺, while many generations had already
   perished before me ˹for good˺?” The parents cry to Allah for help, ˹and warn their
@@ -10,7 +9,7 @@ sentence_translation: But some scold their parents, “Enough with you! Are you 
   insist, “This is nothing but ancient fables.”
 word_by_word:
   1:
-    arabic: وَالَّذِىۡ
+    arabic: وَٱلَّذِي
     translation: But the one who
     transliteration: wa-alladhī
   2:
@@ -18,27 +17,27 @@ word_by_word:
     translation: says
     transliteration: qāla
   3:
-    arabic: لِـوَالِدَيۡهِ
+    arabic: لِوَٰلِدَيۡهِ
     translation: to his parents
     transliteration: liwālidayhi
   4:
-    arabic: اُفٍّ
+    arabic: أُفّٖ
     translation: Uff
     transliteration: uffin
   5:
-    arabic: لَّكُمَاۤ
+    arabic: لَّكُمَآ
     translation: to both of you
     transliteration: lakumā
   6:
-    arabic: اَتَعِدٰنِنِىۡۤ
+    arabic: أَتَعِدَانِنِيٓ
     translation: Do you promise me
     transliteration: ataʿidāninī
   7:
-    arabic: اَنۡ
+    arabic: أَنۡ
     translation: that
     transliteration: an
   8:
-    arabic: اُخۡرَجَ
+    arabic: أُخۡرَجَ
     translation: I will be brought forth
     transliteration: ukh'raja
   9:
@@ -50,15 +49,15 @@ word_by_word:
     translation: and have already passed away
     transliteration: khalati
   11:
-    arabic: الۡقُرُوۡنُ
+    arabic: ٱلۡقُرُونُ
     translation: the generations
     transliteration: l-qurūnu
   12:
-    arabic: مِنۡ
+    arabic: مِن
     translation: before me
     transliteration: min
   13:
-    arabic: قَبۡلِىۡ​ ۚ
+    arabic: قَبۡلِي
     translation: before me
     transliteration: qablī
   14:
@@ -66,23 +65,23 @@ word_by_word:
     translation: And they both
     transliteration: wahumā
   15:
-    arabic: يَسۡتَغِيۡثٰنِ
+    arabic: يَسۡتَغِيثَانِ
     translation: seek help
     transliteration: yastaghīthāni
   16:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: (of) Allah
     transliteration: l-laha
   17:
-    arabic: وَيۡلَكَ
+    arabic: وَيۡلَكَ ءَ
     translation: Woe to you
     transliteration: waylaka
   18:
-    arabic: اٰمِنۡ ۖ 
+    arabic: امِنۡ
     translation: Believe
     transliteration: āmin
   19:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   20:
@@ -90,15 +89,15 @@ word_by_word:
     translation: (the) Promise
     transliteration: waʿda
   21:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (of) Allah
     transliteration: l-lahi
   22:
-    arabic: حَقٌّ  ۖۚ
+    arabic: حَقّٞ
     translation: (is) true
     transliteration: ḥaqqun
   23:
-    arabic: فَيَقُوۡلُ
+    arabic: فَيَقُولُ
     translation: But he says
     transliteration: fayaqūlu
   24:
@@ -106,19 +105,19 @@ word_by_word:
     translation: Not
     transliteration: mā
   25:
-    arabic: هٰذَاۤ
+    arabic: هَٰذَآ
     translation: (is) this
     transliteration: hādhā
   26:
-    arabic: اِلَّاۤ
+    arabic: إِلَّآ
     translation: but
     transliteration: illā
   27:
-    arabic: اَسَاطِيۡرُ
+    arabic: أَسَٰطِيرُ
     translation: (the) stories
     transliteration: asāṭīru
   28:
-    arabic: الۡاَوَّلِيۡنَ‏
+    arabic: ٱلۡأَوَّلِينَ
     translation: (of) the former (people)
     transliteration: l-awalīna
 ---

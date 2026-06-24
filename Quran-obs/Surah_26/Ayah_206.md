@@ -1,5 +1,5 @@
 ---
-arabic_ayat: ثُمَّ جَآءَهُمۡ مَّا كَانُوۡا يُوۡعَدُوۡنَۙ‏
+arabic_ayat: ثُمَّ جَآءَهُم مَّا كَانُواْ يُوعَدُونَ
 sentence_translation: 'then there came to them what they had been threatened with:'
 word_by_word:
   1:
@@ -7,7 +7,7 @@ word_by_word:
     translation: Then
     transliteration: thumma
   2:
-    arabic: جَآءَهُمۡ
+    arabic: جَآءَهُم
     translation: comes to them
     transliteration: jāahum
   3:
@@ -15,11 +15,11 @@ word_by_word:
     translation: what
     transliteration: mā
   4:
-    arabic: كَانُوۡا
+    arabic: كَانُواْ
     translation: they were
     transliteration: kānū
   5:
-    arabic: يُوۡعَدُوۡنَۙ‏
+    arabic: يُوعَدُونَ
     translation: promised
     transliteration: yūʿadūna
 ---

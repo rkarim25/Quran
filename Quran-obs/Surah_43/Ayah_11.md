@@ -1,12 +1,12 @@
 ---
-arabic_ayat: وَالَّذِىۡ نَزَّلَ مِنَ السَّمَآءِ مَآءًۢ بِقَدَرٍ​ۚ فَاَنۡشَرۡنَا
-  بِهٖ بَلۡدَةً مَّيۡتًا​ ۚ كَذٰلِكَ تُخۡرَجُوۡنَ‏
+arabic_ayat: وَٱلَّذِي نَزَّلَ مِنَ ٱلسَّمَآءِ مَآءَۢ بِقَدَرٖ فَأَنشَرۡنَا بِهِۦ
+  بَلۡدَةٗ مَّيۡتٗاۚ كَذَٰلِكَ تُخۡرَجُونَ
 sentence_translation: And ˹He is the One˺ Who sends down rain from the sky in perfect
   measure, with which We give life to a lifeless land. And so will you be brought
   forth ˹from the grave˺.
 word_by_word:
   1:
-    arabic: وَالَّذِىۡ
+    arabic: وَٱلَّذِي
     translation: And the One Who
     transliteration: wa-alladhī
   2:
@@ -18,39 +18,39 @@ word_by_word:
     translation: from
     transliteration: mina
   4:
-    arabic: السَّمَآءِ
+    arabic: ٱلسَّمَآءِ
     translation: the sky
     transliteration: l-samāi
   5:
-    arabic: مَآءًۢ
+    arabic: مَآءَۢ
     translation: water
     transliteration: māan
   6:
-    arabic: بِقَدَرٍ​ۚ
+    arabic: بِقَدَرٖ
     translation: in (due) measure
     transliteration: biqadarin
   7:
-    arabic: فَاَنۡشَرۡنَا
+    arabic: فَأَنشَرۡنَا
     translation: then We revive
     transliteration: fa-ansharnā
   8:
-    arabic: بِهٖ
+    arabic: بِهِۦ
     translation: with it
     transliteration: bihi
   9:
-    arabic: بَلۡدَةً
+    arabic: بَلۡدَةٗ
     translation: a land
     transliteration: baldatan
   10:
-    arabic: مَّيۡتًا​ ۚ
+    arabic: مَّيۡتٗاۚ
     translation: dead
     transliteration: maytan
   11:
-    arabic: كَذٰلِكَ
+    arabic: كَذَٰلِكَ
     translation: thus
     transliteration: kadhālika
   12:
-    arabic: تُخۡرَجُوۡنَ‏
+    arabic: تُخۡرَجُونَ
     translation: you will be brought forth
     transliteration: tukh'rajūna
 ---

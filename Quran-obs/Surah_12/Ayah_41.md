@@ -1,45 +1,45 @@
 ---
-arabic_ayat: يٰصَاحِبَىِ السِّجۡنِ اَمَّاۤ اَحَدُكُمَا فَيَسۡقِىۡ رَبَّهٗ خَمۡرًا​ۚ
-  وَاَمَّا الۡاٰخَرُ فَيُصۡلَبُ فَتَاۡكُلُ الطَّيۡرُ مِنۡ رَّاۡسِهٖ​ؕ قُضِىَ الۡاَمۡرُ
-  الَّذِىۡ فِيۡهِ تَسۡتَفۡتِيٰنِؕ‏
+arabic_ayat: يَٰصَٰحِبَيِ ٱلسِّجۡنِ أَمَّآ أَحَدُكُمَا فَيَسۡقِي رَبَّهُۥ خَمۡرٗاۖ
+  وَأَمَّا ٱلۡأٓخَرُ فَيُصۡلَبُ فَتَأۡكُلُ ٱلطَّيۡرُ مِن رَّأۡسِهِۦۚ قُضِيَ ٱلۡأَمۡرُ
+  ٱلَّذِي فِيهِ تَسۡتَفۡتِيَانِ
 sentence_translation: “O my fellow-prisoners! ˹The first˺ one of you will serve wine
   to his master, and the other will be crucified and the birds will eat from his head.
   The matter about which you inquired has been decided.”
 word_by_word:
   1:
-    arabic: يٰصَاحِبَىِ
+    arabic: يَٰصَٰحِبَيِ
     translation: O my two companions
     transliteration: yāṣāḥibayi
   2:
-    arabic: السِّجۡنِ
+    arabic: ٱلسِّجۡنِ
     translation: (of) the prison
     transliteration: l-sij'ni
   3:
-    arabic: اَمَّاۤ
+    arabic: أَمَّآ
     translation: As for
     transliteration: ammā
   4:
-    arabic: اَحَدُكُمَا
+    arabic: أَحَدُكُمَا
     translation: one of you
     transliteration: aḥadukumā
   5:
-    arabic: فَيَسۡقِىۡ
+    arabic: فَيَسۡقِي
     translation: he will give drink
     transliteration: fayasqī
   6:
-    arabic: رَبَّهٗ
+    arabic: رَبَّهُۥ
     translation: (to) his master
     transliteration: rabbahu
   7:
-    arabic: خَمۡرًا​ۚ
+    arabic: خَمۡرٗاۖ
     translation: wine
     transliteration: khamran
   8:
-    arabic: وَاَمَّا
+    arabic: وَأَمَّا
     translation: and as for
     transliteration: wa-ammā
   9:
-    arabic: الۡاٰخَرُ
+    arabic: ٱلۡأٓخَرُ
     translation: the other
     transliteration: l-ākharu
   10:
@@ -47,39 +47,39 @@ word_by_word:
     translation: he will be crucified
     transliteration: fayuṣ'labu
   11:
-    arabic: فَتَاۡكُلُ
+    arabic: فَتَأۡكُلُ
     translation: and will eat
     transliteration: fatakulu
   12:
-    arabic: الطَّيۡرُ
+    arabic: ٱلطَّيۡرُ
     translation: the birds
     transliteration: l-ṭayru
   13:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   14:
-    arabic: رَّاۡسِهٖ​ؕ
+    arabic: رَّأۡسِهِۦۚ
     translation: his head
     transliteration: rasihi
   15:
-    arabic: قُضِىَ
+    arabic: قُضِيَ
     translation: Has been decreed
     transliteration: quḍiya
   16:
-    arabic: الۡاَمۡرُ
+    arabic: ٱلۡأَمۡرُ
     translation: the matter
     transliteration: l-amru
   17:
-    arabic: الَّذِىۡ
+    arabic: ٱلَّذِي
     translation: about which
     transliteration: alladhī
   18:
-    arabic: فِيۡهِ
+    arabic: فِيهِ
     translation: about which
     transliteration: fīhi
   19:
-    arabic: تَسۡتَفۡتِيٰنِؕ‏
+    arabic: تَسۡتَفۡتِيَانِ
     translation: you both inquire
     transliteration: tastaftiyāni
 ---

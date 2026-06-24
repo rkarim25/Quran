@@ -1,7 +1,6 @@
 ---
-arabic_ayat: نَحۡنُ اَوۡلِيٰٓـؤُکُمۡ فِى الۡحَيٰوةِ الدُّنۡيَا وَفِى الۡاٰخِرَةِ ۚ
-  وَلَـكُمۡ فِيۡهَا مَا تَشۡتَهِىۡۤ اَنۡفُسُكُمۡ وَلَـكُمۡ فِيۡهَا مَا تَدَّعُوۡنَ
-  ؕ‏
+arabic_ayat: نَحۡنُ أَوۡلِيَآؤُكُمۡ فِي ٱلۡحَيَوٰةِ ٱلدُّنۡيَا وَفِي ٱلۡأٓخِرَةِۖ
+  وَلَكُمۡ فِيهَا مَا تَشۡتَهِيٓ أَنفُسُكُمۡ وَلَكُمۡ فِيهَا مَا تَدَّعُونَ
 sentence_translation: 'We are your supporters in this worldly life and in the Hereafter.
   There you will have whatever your souls desire, and there you will have whatever
   you ask for:'
@@ -11,35 +10,35 @@ word_by_word:
     translation: We
     transliteration: naḥnu
   2:
-    arabic: اَوۡلِيٰٓـؤُکُمۡ
+    arabic: أَوۡلِيَآؤُكُمۡ
     translation: (are) your protectors
     transliteration: awliyāukum
   3:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   4:
-    arabic: الۡحَيٰوةِ
+    arabic: ٱلۡحَيَوٰةِ
     translation: the life
     transliteration: l-ḥayati
   5:
-    arabic: الدُّنۡيَا
+    arabic: ٱلدُّنۡيَا
     translation: (of) the world
     transliteration: l-dun'yā
   6:
-    arabic: وَفِى
+    arabic: وَفِي
     translation: and in
     transliteration: wafī
   7:
-    arabic: الۡاٰخِرَةِ ۚ
+    arabic: ٱلۡأٓخِرَةِۖ
     translation: the Hereafter
     transliteration: l-ākhirati
   8:
-    arabic: وَلَـكُمۡ
+    arabic: وَلَكُمۡ
     translation: And for you
     transliteration: walakum
   9:
-    arabic: فِيۡهَا
+    arabic: فِيهَا
     translation: therein
     transliteration: fīhā
   10:
@@ -47,19 +46,19 @@ word_by_word:
     translation: whatever
     transliteration: mā
   11:
-    arabic: تَشۡتَهِىۡۤ
+    arabic: تَشۡتَهِيٓ
     translation: desire
     transliteration: tashtahī
   12:
-    arabic: اَنۡفُسُكُمۡ
+    arabic: أَنفُسُكُمۡ
     translation: your souls
     transliteration: anfusukum
   13:
-    arabic: وَلَـكُمۡ
+    arabic: وَلَكُمۡ
     translation: and for you
     transliteration: walakum
   14:
-    arabic: فِيۡهَا
+    arabic: فِيهَا
     translation: therein
     transliteration: fīhā
   15:
@@ -67,7 +66,7 @@ word_by_word:
     translation: what
     transliteration: mā
   16:
-    arabic: تَدَّعُوۡنَ ؕ‏
+    arabic: تَدَّعُونَ
     translation: you ask
     transliteration: taddaʿūna
 ---

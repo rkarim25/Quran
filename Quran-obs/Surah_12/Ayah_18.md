@@ -1,29 +1,28 @@
 ---
-arabic_ayat: "وَجَآءُوۡ عَلٰى قَمِيـۡصِهٖ بِدَمٍ كَذِبٍ​ؕ قَالَ بَلۡ سَوَّلَتۡ لَـكُمۡ\
-  \ اَنۡفُسُكُمۡ اَمۡرًا​ؕ فَصَبۡرٌ جَمِيۡلٌ​ؕ وَاللّٰهُ الۡمُسۡتَعَانُ عَلٰى مَا\
-  \ تَصِفُوۡنَ‏ \uFEFF\uFEFF"
+arabic_ayat: وَجَآءُو عَلَىٰ قَمِيصِهِۦ بِدَمٖ كَذِبٖۚ قَالَ بَلۡ سَوَّلَتۡ لَكُمۡ
+  أَنفُسُكُمۡ أَمۡرٗاۖ فَصَبۡرٞ جَمِيلٞۖ وَٱللَّهُ ٱلۡمُسۡتَعَانُ عَلَىٰ مَا تَصِفُونَ
 sentence_translation: And they brought his shirt, stained with false blood. He responded,
   “No! Your souls must have tempted you to do something ˹evil˺. So ˹I can only endure
   with˺ beautiful patience! It is Allah’s help that I seek to bear your claims.”
 word_by_word:
   1:
-    arabic: وَجَآءُوۡ
+    arabic: وَجَآءُو
     translation: And they brought
     transliteration: wajāū
   2:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: upon
     transliteration: ʿalā
   3:
-    arabic: قَمِيـۡصِهٖ
+    arabic: قَمِيصِهِۦ
     translation: his shirt
     transliteration: qamīṣihi
   4:
-    arabic: بِدَمٍ
+    arabic: بِدَمٖ
     translation: with false blood
     transliteration: bidamin
   5:
-    arabic: كَذِبٍ​ؕ
+    arabic: كَذِبٖۚ
     translation: with false blood
     transliteration: kadhibin
   6:
@@ -39,35 +38,35 @@ word_by_word:
     translation: has enticed you
     transliteration: sawwalat
   9:
-    arabic: لَـكُمۡ
+    arabic: لَكُمۡ
     translation: has enticed you
     transliteration: lakum
   10:
-    arabic: اَنۡفُسُكُمۡ
+    arabic: أَنفُسُكُمۡ
     translation: your souls
     transliteration: anfusukum
   11:
-    arabic: اَمۡرًا​ؕ
+    arabic: أَمۡرٗاۖ
     translation: (to) a matter
     transliteration: amran
   12:
-    arabic: فَصَبۡرٌ
+    arabic: فَصَبۡرٞ
     translation: so patience
     transliteration: faṣabrun
   13:
-    arabic: جَمِيۡلٌ​ؕ
+    arabic: جَمِيلٞۖ
     translation: (is) beautiful
     transliteration: jamīlun
   14:
-    arabic: وَاللّٰهُ
+    arabic: وَٱللَّهُ
     translation: And Allah
     transliteration: wal-lahu
   15:
-    arabic: الۡمُسۡتَعَانُ
+    arabic: ٱلۡمُسۡتَعَانُ
     translation: (is) the One sought for help
     transliteration: l-mus'taʿānu
   16:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: against
     transliteration: ʿalā
   17:
@@ -75,7 +74,7 @@ word_by_word:
     translation: what
     transliteration: mā
   18:
-    arabic: "تَصِفُوۡنَ‏ \uFEFF\uFEFF"
+    arabic: تَصِفُونَ
     translation: you describe
     transliteration: taṣifūna
 ---

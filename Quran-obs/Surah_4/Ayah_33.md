@@ -1,13 +1,13 @@
 ---
-arabic_ayat: وَلِكُلٍّ جَعَلۡنَا مَوَالِىَ مِمَّا تَرَكَ الۡوَالِدٰنِ وَالۡاَقۡرَبُوۡنَ​
-  ؕ وَالَّذِيۡنَ عَقَدَتۡ اَيۡمَانُكُمۡ فَاٰ تُوۡهُمۡ نَصِيۡبَهُمۡ​ؕ اِنَّ اللّٰهَ
-  كَانَ عَلٰى كُلِّ شَىۡءٍ شَهِيۡدًا ۙ‏
+arabic_ayat: وَلِكُلّٖ جَعَلۡنَا مَوَٰلِيَ مِمَّا تَرَكَ ٱلۡوَٰلِدَانِ وَٱلۡأَقۡرَبُونَۚ
+  وَٱلَّذِينَ عَقَدَتۡ أَيۡمَٰنُكُمۡ فَـَٔاتُوهُمۡ نَصِيبَهُمۡۚ إِنَّ ٱللَّهَ كَانَ
+  عَلَىٰ كُلِّ شَيۡءٖ شَهِيدًا
 sentence_translation: And We have appointed heirs to what has been left by parents
   and next of kin. As for those you have made a pledge to, give them their share. Surely
   Allah is a Witness over all things.
 word_by_word:
   1:
-    arabic: وَلِكُلٍّ
+    arabic: وَلِكُلّٖ
     translation: And for all
     transliteration: walikullin
   2:
@@ -15,7 +15,7 @@ word_by_word:
     translation: We (have) made
     transliteration: jaʿalnā
   3:
-    arabic: مَوَالِىَ
+    arabic: مَوَٰلِيَ
     translation: heirs
     transliteration: mawāliya
   4:
@@ -27,15 +27,15 @@ word_by_word:
     translation: (is) left
     transliteration: taraka
   6:
-    arabic: الۡوَالِدٰنِ
+    arabic: ٱلۡوَٰلِدَانِ
     translation: (by) the parents
     transliteration: l-wālidāni
   7:
-    arabic: وَالۡاَقۡرَبُوۡنَ​ ؕ
+    arabic: وَٱلۡأَقۡرَبُونَۚ
     translation: and the relatives
     transliteration: wal-aqrabūna
   8:
-    arabic: وَالَّذِيۡنَ
+    arabic: وَٱلَّذِينَ
     translation: And those whom
     transliteration: wa-alladhīna
   9:
@@ -43,23 +43,23 @@ word_by_word:
     translation: pledged
     transliteration: ʿaqadat
   10:
-    arabic: اَيۡمَانُكُمۡ
+    arabic: أَيۡمَٰنُكُمۡ
     translation: 'your right hands '
     transliteration: aymānukum
   11:
-    arabic: فَاٰ تُوۡهُمۡ
+    arabic: فَـَٔاتُوهُمۡ
     translation: then give them
     transliteration: faātūhum
   12:
-    arabic: نَصِيۡبَهُمۡ​ؕ
+    arabic: نَصِيبَهُمۡۚ
     translation: their share
     transliteration: naṣībahum
   13:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   14:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   15:
@@ -67,7 +67,7 @@ word_by_word:
     translation: is
     transliteration: kāna
   16:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: over
     transliteration: ʿalā
   17:
@@ -75,11 +75,11 @@ word_by_word:
     translation: every
     transliteration: kulli
   18:
-    arabic: شَىۡءٍ
+    arabic: شَيۡءٖ
     translation: thing
     transliteration: shayin
   19:
-    arabic: شَهِيۡدًا ۙ‏
+    arabic: شَهِيدًا
     translation: a Witness
     transliteration: shahīdan
 ---

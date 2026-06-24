@@ -1,15 +1,15 @@
 ---
-arabic_ayat: وَدَّتۡ طَّآٮِٕفَةٌ مِّنۡ اَهۡلِ الۡكِتٰبِ لَوۡ يُضِلُّوۡنَكُمؕۡ وَمَا
-  يُضِلُّوۡنَ اِلَّاۤ اَنۡفُسَهُمۡ وَمَا يَشۡعُرُوۡنَ‏
+arabic_ayat: وَدَّت طَّآئِفَةٞ مِّنۡ أَهۡلِ ٱلۡكِتَٰبِ لَوۡ يُضِلُّونَكُمۡ وَمَا
+  يُضِلُّونَ إِلَّآ أَنفُسَهُمۡ وَمَا يَشۡعُرُونَ
 sentence_translation: Some of the People of the Book wish to mislead you ˹believers˺.
   They mislead none but themselves, yet they fail to perceive it.
 word_by_word:
   1:
-    arabic: وَدَّتۡ
+    arabic: وَدَّت
     translation: Wished
     transliteration: waddat
   2:
-    arabic: طَّآٮِٕفَةٌ
+    arabic: طَّآئِفَةٞ
     translation: a group
     transliteration: ṭāifatun
   3:
@@ -17,11 +17,11 @@ word_by_word:
     translation: from
     transliteration: min
   4:
-    arabic: اَهۡلِ
+    arabic: أَهۡلِ
     translation: (the) People
     transliteration: ahli
   5:
-    arabic: الۡكِتٰبِ
+    arabic: ٱلۡكِتَٰبِ
     translation: (of) the Book
     transliteration: l-kitābi
   6:
@@ -29,7 +29,7 @@ word_by_word:
     translation: if
     transliteration: law
   7:
-    arabic: يُضِلُّوۡنَكُمؕۡ
+    arabic: يُضِلُّونَكُمۡ
     translation: they could lead you astray
     transliteration: yuḍillūnakum
   8:
@@ -37,15 +37,15 @@ word_by_word:
     translation: and not
     transliteration: wamā
   9:
-    arabic: يُضِلُّوۡنَ
+    arabic: يُضِلُّونَ
     translation: they lead astray
     transliteration: yuḍillūna
   10:
-    arabic: اِلَّاۤ
+    arabic: إِلَّآ
     translation: except
     transliteration: illā
   11:
-    arabic: اَنۡفُسَهُمۡ
+    arabic: أَنفُسَهُمۡ
     translation: themselves
     transliteration: anfusahum
   12:
@@ -53,7 +53,7 @@ word_by_word:
     translation: and not
     transliteration: wamā
   13:
-    arabic: يَشۡعُرُوۡنَ‏
+    arabic: يَشۡعُرُونَ
     translation: they perceive
     transliteration: yashʿurūna
 ---

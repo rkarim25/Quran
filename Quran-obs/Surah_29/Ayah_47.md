@@ -1,46 +1,46 @@
 ---
-arabic_ayat: وَكَذٰلِكَ اَنۡزَلۡنَاۤ اِلَيۡكَ الۡكِتٰبَ​ؕ فَالَّذِيۡنَ اٰتَيۡنٰهُمُ
-  الۡكِتٰبَ يُؤۡمِنُوۡنَ بِهٖ​ۚ وَمِنۡ هٰٓؤُلَاۤءِ مَنۡ يُّؤۡمِنُ بِهٖ ​ؕ وَ مَا يَجۡحَدُ
-  بِاٰيٰتِنَاۤ اِلَّا الۡكٰفِرُوۡنَ‏
+arabic_ayat: وَكَذَٰلِكَ أَنزَلۡنَآ إِلَيۡكَ ٱلۡكِتَٰبَۚ فَٱلَّذِينَ ءَاتَيۡنَٰهُمُ
+  ٱلۡكِتَٰبَ يُؤۡمِنُونَ بِهِۦۖ وَمِنۡ هَٰٓؤُلَآءِ مَن يُؤۡمِنُ بِهِۦۚ وَمَا يَجۡحَدُ
+  بِـَٔايَٰتِنَآ إِلَّا ٱلۡكَٰفِرُونَ
 sentence_translation: Similarly ˹to earlier messengers˺, We have revealed to you a
   Book ˹O Prophet˺. ˹The faithful of˺ those to whom We gave the Scriptures believe
   in it, as do some of these ˹pagan Arabs˺. And none denies Our revelations except
   the ˹stubborn˺ disbelievers.
 word_by_word:
   1:
-    arabic: وَكَذٰلِكَ
+    arabic: وَكَذَٰلِكَ
     translation: And thus
     transliteration: wakadhālika
   2:
-    arabic: اَنۡزَلۡنَاۤ
+    arabic: أَنزَلۡنَآ
     translation: We (have) revealed
     transliteration: anzalnā
   3:
-    arabic: اِلَيۡكَ
+    arabic: إِلَيۡكَ
     translation: to you
     transliteration: ilayka
   4:
-    arabic: الۡكِتٰبَ​ؕ
+    arabic: ٱلۡكِتَٰبَۚ
     translation: the Book
     transliteration: l-kitāba
   5:
-    arabic: فَالَّذِيۡنَ
+    arabic: فَٱلَّذِينَ ءَ
     translation: So those
     transliteration: fa-alladhīna
   6:
-    arabic: اٰتَيۡنٰهُمُ
+    arabic: اتَيۡنَٰهُمُ
     translation: We gave [them]
     transliteration: ātaynāhumu
   7:
-    arabic: الۡكِتٰبَ
+    arabic: ٱلۡكِتَٰبَ
     translation: the Book
     transliteration: l-kitāba
   8:
-    arabic: يُؤۡمِنُوۡنَ
+    arabic: يُؤۡمِنُونَ
     translation: believe
     transliteration: yu'minūna
   9:
-    arabic: بِهٖ​ۚ
+    arabic: بِهِۦۖ
     translation: therein
     transliteration: bihi
   10:
@@ -48,23 +48,23 @@ word_by_word:
     translation: And among
     transliteration: wamin
   11:
-    arabic: هٰٓؤُلَاۤءِ
+    arabic: هَٰٓؤُلَآءِ
     translation: these
     transliteration: hāulāi
   12:
-    arabic: مَنۡ
+    arabic: مَن
     translation: (are some) who
     transliteration: man
   13:
-    arabic: يُّؤۡمِنُ
+    arabic: يُؤۡمِنُ
     translation: believe
     transliteration: yu'minu
   14:
-    arabic: بِهٖ ​ؕ
+    arabic: بِهِۦۚ
     translation: therein
     transliteration: bihi
   15:
-    arabic: وَ مَا
+    arabic: وَمَا
     translation: And none
     transliteration: wamā
   16:
@@ -72,15 +72,15 @@ word_by_word:
     translation: reject
     transliteration: yajḥadu
   17:
-    arabic: بِاٰيٰتِنَاۤ
+    arabic: بِـَٔايَٰتِنَآ
     translation: Our Verses
     transliteration: biāyātinā
   18:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   19:
-    arabic: الۡكٰفِرُوۡنَ‏
+    arabic: ٱلۡكَٰفِرُونَ
     translation: the disbelievers
     transliteration: l-kāfirūna
 ---

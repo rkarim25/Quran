@@ -1,26 +1,26 @@
 ---
-arabic_ayat: اِنَّ الَّذِيۡنَ كَفَرُوۡا وَمَاتُوۡا وَهُمۡ كُفَّارٌ فَلَنۡ يُّقۡبَلَ
-  مِنۡ اَحَدِهِمۡ مِّلۡءُ الۡاَرۡضِ ذَهَبًا وَّلَوِ افۡتَدٰى بِهٖ ؕ اُولٰٓٮِٕكَ لَـهُمۡ
-  عَذَابٌ اَلِـيۡمٌۙ وَّمَا لَـهُمۡ مِّــنۡ نّٰصِــرِيۡنَ‏
+arabic_ayat: إِنَّ ٱلَّذِينَ كَفَرُواْ وَمَاتُواْ وَهُمۡ كُفَّارٞ فَلَن يُقۡبَلَ مِنۡ
+  أَحَدِهِم مِّلۡءُ ٱلۡأَرۡضِ ذَهَبٗا وَلَوِ ٱفۡتَدَىٰ بِهِۦٓۗ أُوْلَٰٓئِكَ لَهُمۡ
+  عَذَابٌ أَلِيمٞ وَمَا لَهُم مِّن نَّٰصِرِينَ
 sentence_translation: Indeed, if each of those who disbelieve then die as disbelievers
   were to offer a ransom of enough gold to fill the whole world, it would never be
   accepted from them. It is they who will suffer a painful punishment, and they will
   have no helpers.
 word_by_word:
   1:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   3:
-    arabic: كَفَرُوۡا
+    arabic: كَفَرُواْ
     translation: disbelieve[d]
     transliteration: kafarū
   4:
-    arabic: وَمَاتُوۡا
+    arabic: وَمَاتُواْ
     translation: and died
     transliteration: wamātū
   5:
@@ -28,15 +28,15 @@ word_by_word:
     translation: while they
     transliteration: wahum
   6:
-    arabic: كُفَّارٌ
+    arabic: كُفَّارٞ
     translation: (are) disbelievers
     transliteration: kuffārun
   7:
-    arabic: فَلَنۡ
+    arabic: فَلَن
     translation: then never
     transliteration: falan
   8:
-    arabic: يُّقۡبَلَ
+    arabic: يُقۡبَلَ
     translation: will be accepted
     transliteration: yuq'bala
   9:
@@ -44,7 +44,7 @@ word_by_word:
     translation: from
     transliteration: min
   10:
-    arabic: اَحَدِهِمۡ
+    arabic: أَحَدِهِم
     translation: any one of them
     transliteration: aḥadihim
   11:
@@ -52,31 +52,31 @@ word_by_word:
     translation: full
     transliteration: mil'u
   12:
-    arabic: الۡاَرۡضِ
+    arabic: ٱلۡأَرۡضِ
     translation: earth
     transliteration: l-arḍi
   13:
-    arabic: ذَهَبًا
+    arabic: ذَهَبٗا
     translation: (of) gold
     transliteration: dhahaban
   14:
-    arabic: وَّلَوِ
+    arabic: وَلَوِ
     translation: '[and] (even) if'
     transliteration: walawi
   15:
-    arabic: افۡتَدٰى
+    arabic: ٱفۡتَدَىٰ
     translation: he offered as ransom
     transliteration: if'tadā
   16:
-    arabic: بِهٖ ؕ
+    arabic: بِهِۦٓۗ
     translation: it
     transliteration: bihi
   17:
-    arabic: اُولٰٓٮِٕكَ
+    arabic: أُوْلَٰٓئِكَ
     translation: 'Those '
     transliteration: ulāika
   18:
-    arabic: لَـهُمۡ
+    arabic: لَهُمۡ
     translation: for them
     transliteration: lahum
   19:
@@ -84,23 +84,23 @@ word_by_word:
     translation: (is) a punishment
     transliteration: ʿadhābun
   20:
-    arabic: اَلِـيۡمٌۙ
+    arabic: أَلِيمٞ
     translation: painful
     transliteration: alīmun
   21:
-    arabic: وَّمَا
+    arabic: وَمَا
     translation: and not
     transliteration: wamā
   22:
-    arabic: لَـهُمۡ
+    arabic: لَهُم
     translation: (will be) for them
     transliteration: lahum
   23:
-    arabic: مِّــنۡ
+    arabic: مِّن
     translation: any
     transliteration: min
   24:
-    arabic: نّٰصِــرِيۡنَ‏
+    arabic: نَّٰصِرِينَ
     translation: helpers
     transliteration: nāṣirīna
 ---

@@ -1,13 +1,12 @@
 ---
-arabic_ayat: "فَالۡيَوۡمَ لَا يَمۡلِكُ بَعۡضُكُمۡ لِبَعۡضٍ نَّفۡعًا وَّلَا ضَرًّا\
-  \ ؕ وَنَـقُوۡلُ لِلَّذِيۡنَ ظَلَمُوۡا ذُوۡقُوۡا عَذَابَ النَّارِ الَّتِىۡ كُنۡتُمۡ\
-  \ بِهَا تُكَذِّبُوۡنَ‏ \uFEFF\uFEFF"
+arabic_ayat: فَٱلۡيَوۡمَ لَا يَمۡلِكُ بَعۡضُكُمۡ لِبَعۡضٖ نَّفۡعٗا وَلَا ضَرّٗا وَنَقُولُ
+  لِلَّذِينَ ظَلَمُواْ ذُوقُواْ عَذَابَ ٱلنَّارِ ٱلَّتِي كُنتُم بِهَا تُكَذِّبُونَ
 sentence_translation: So Today neither of you can benefit or protect each other. And
   We will say to the wrongdoers, “Taste the torment of the Fire, which you used to
   deny.”
 word_by_word:
   1:
-    arabic: فَالۡيَوۡمَ
+    arabic: فَٱلۡيَوۡمَ
     translation: But today
     transliteration: fal-yawma
   2:
@@ -23,35 +22,35 @@ word_by_word:
     translation: some of you
     transliteration: baʿḍukum
   5:
-    arabic: لِبَعۡضٍ
+    arabic: لِبَعۡضٖ
     translation: on others
     transliteration: libaʿḍin
   6:
-    arabic: نَّفۡعًا
+    arabic: نَّفۡعٗا
     translation: to benefit
     transliteration: nafʿan
   7:
-    arabic: وَّلَا
+    arabic: وَلَا
     translation: and not
     transliteration: walā
   8:
-    arabic: ضَرًّا ؕ
+    arabic: ضَرّٗا
     translation: to harm
     transliteration: ḍarran
   9:
-    arabic: وَنَـقُوۡلُ
+    arabic: وَنَقُولُ
     translation: and We will say
     transliteration: wanaqūlu
   10:
-    arabic: لِلَّذِيۡنَ
+    arabic: لِلَّذِينَ
     translation: to those
     transliteration: lilladhīna
   11:
-    arabic: ظَلَمُوۡا
+    arabic: ظَلَمُواْ
     translation: who wronged
     transliteration: ẓalamū
   12:
-    arabic: ذُوۡقُوۡا
+    arabic: ذُوقُواْ
     translation: Taste
     transliteration: dhūqū
   13:
@@ -59,15 +58,15 @@ word_by_word:
     translation: (the) punishment
     transliteration: ʿadhāba
   14:
-    arabic: النَّارِ
+    arabic: ٱلنَّارِ
     translation: (of) the Fire
     transliteration: l-nāri
   15:
-    arabic: الَّتِىۡ
+    arabic: ٱلَّتِي
     translation: which
     transliteration: allatī
   16:
-    arabic: كُنۡتُمۡ
+    arabic: كُنتُم
     translation: you used
     transliteration: kuntum
   17:
@@ -75,7 +74,7 @@ word_by_word:
     translation: to [it]
     transliteration: bihā
   18:
-    arabic: "تُكَذِّبُوۡنَ‏ \uFEFF\uFEFF"
+    arabic: تُكَذِّبُونَ
     translation: deny
     transliteration: tukadhibūna
 ---

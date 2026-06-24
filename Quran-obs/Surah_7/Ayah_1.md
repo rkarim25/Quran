@@ -1,9 +1,9 @@
 ---
-arabic_ayat: الۤمّۤصۤ‏
+arabic_ayat: الٓمٓصٓ
 sentence_translation: Alif-Lãm-Mĩm-Ṣãd.
 word_by_word:
   1:
-    arabic: الۤمّۤصۤ‏
+    arabic: الٓمٓصٓ
     translation: Alif Laam Meem Saad
     transliteration: alif-lam-meem-sad
 ---

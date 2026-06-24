@@ -1,13 +1,13 @@
 ---
-arabic_ayat: الرَّحۡمٰنِ الرَّحِيۡمِۙ‏
+arabic_ayat: ٱلرَّحۡمَٰنِ ٱلرَّحِيمِ
 sentence_translation: the Most Compassionate, Most Merciful,
 word_by_word:
   1:
-    arabic: الرَّحۡمٰنِ
+    arabic: ٱلرَّحۡمَٰنِ
     translation: The Most Gracious
     transliteration: al-raḥmāni
   2:
-    arabic: الرَّحِيۡمِۙ‏
+    arabic: ٱلرَّحِيمِ
     translation: the Most Merciful
     transliteration: l-raḥīmi
 ---

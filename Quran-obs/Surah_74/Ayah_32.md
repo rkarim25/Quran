@@ -1,13 +1,13 @@
 ---
-arabic_ayat: كَلَّا وَالۡقَمَرِۙ‏
+arabic_ayat: كـَلَّا وَٱلۡقَمَرِ
 sentence_translation: But no! By the moon,
 word_by_word:
   1:
-    arabic: كَلَّا
+    arabic: كـَلَّا
     translation: Nay
     transliteration: kallā
   2:
-    arabic: وَالۡقَمَرِۙ‏
+    arabic: وَٱلۡقَمَرِ
     translation: By the moon
     transliteration: wal-qamari
 ---

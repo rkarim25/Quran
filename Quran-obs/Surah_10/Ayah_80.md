@@ -1,6 +1,6 @@
 ---
-arabic_ayat: فَلَمَّا جَآءَ السَّحَرَةُ قَالَ لَهُمۡ مُّوۡسٰۤى اَلۡقُوۡا مَاۤ اَنۡتُمۡ
-  مُّلۡقُوۡنَ‏
+arabic_ayat: فَلَمَّا جَآءَ ٱلسَّحَرَةُ قَالَ لَهُم مُّوسَىٰٓ أَلۡقُواْ مَآ أَنتُم
+  مُّلۡقُونَ
 sentence_translation: When the magicians came, Moses said to them, “Cast whatever
   you wish to cast!”
 word_by_word:
@@ -13,7 +13,7 @@ word_by_word:
     translation: came
     transliteration: jāa
   3:
-    arabic: السَّحَرَةُ
+    arabic: ٱلسَّحَرَةُ
     translation: the magicians
     transliteration: l-saḥaratu
   4:
@@ -21,27 +21,27 @@ word_by_word:
     translation: said
     transliteration: qāla
   5:
-    arabic: لَهُمۡ
+    arabic: لَهُم
     translation: to them
     transliteration: lahum
   6:
-    arabic: مُّوۡسٰۤى
+    arabic: مُّوسَىٰٓ
     translation: Musa
     transliteration: mūsā
   7:
-    arabic: اَلۡقُوۡا
+    arabic: أَلۡقُواْ
     translation: Throw
     transliteration: alqū
   8:
-    arabic: مَاۤ
+    arabic: مَآ
     translation: whatever
     transliteration: mā
   9:
-    arabic: اَنۡتُمۡ
+    arabic: أَنتُم
     translation: you
     transliteration: antum
   10:
-    arabic: مُّلۡقُوۡنَ‏
+    arabic: مُّلۡقُونَ
     translation: (wish to) throw
     transliteration: mul'qūna
 ---

@@ -1,13 +1,13 @@
 ---
-arabic_ayat: اِلَّا الۡمُصَلِّيۡنَۙ‏
+arabic_ayat: إِلَّا ٱلۡمُصَلِّينَ
 sentence_translation: except those who pray,
 word_by_word:
   1:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: Except
     transliteration: illā
   2:
-    arabic: الۡمُصَلِّيۡنَۙ‏
+    arabic: ٱلۡمُصَلِّينَ
     translation: 'those who pray '
     transliteration: l-muṣalīna
 ---

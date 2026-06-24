@@ -1,41 +1,40 @@
 ---
-arabic_ayat: "اِنَّ الَّذِيۡنَ يَتۡلُوۡنَ كِتٰبَ اللّٰهِ وَاَقَامُوا الصَّلٰوةَ وَاَنۡفَقُوۡا\
-  \ مِمَّا رَزَقۡنٰهُمۡ سِرًّا وَّعَلَانِيَةً يَّرۡجُوۡنَ تِجَارَةً لَّنۡ تَبُوۡرَۙ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: إِنَّ ٱلَّذِينَ يَتۡلُونَ كِتَٰبَ ٱللَّهِ وَأَقَامُواْ ٱلصَّلَوٰةَ وَأَنفَقُواْ
+  مِمَّا رَزَقۡنَٰهُمۡ سِرّٗا وَعَلَانِيَةٗ يَرۡجُونَ تِجَٰرَةٗ لَّن تَبُورَ
 sentence_translation: Surely those who recite the Book of Allah, establish prayer,
   and donate from what We have provided for them—secretly and openly—˹can˺ hope for
   an exchange that will never fail,
 word_by_word:
   1:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   3:
-    arabic: يَتۡلُوۡنَ
+    arabic: يَتۡلُونَ
     translation: recite
     transliteration: yatlūna
   4:
-    arabic: كِتٰبَ
+    arabic: كِتَٰبَ
     translation: (the) Book
     transliteration: kitāba
   5:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (of) Allah
     transliteration: l-lahi
   6:
-    arabic: وَاَقَامُوا
+    arabic: وَأَقَامُواْ
     translation: and establish
     transliteration: wa-aqāmū
   7:
-    arabic: الصَّلٰوةَ
+    arabic: ٱلصَّلَوٰةَ
     translation: the prayer
     transliteration: l-ṣalata
   8:
-    arabic: وَاَنۡفَقُوۡا
+    arabic: وَأَنفَقُواْ
     translation: and spend
     transliteration: wa-anfaqū
   9:
@@ -43,31 +42,31 @@ word_by_word:
     translation: out of what
     transliteration: mimmā
   10:
-    arabic: رَزَقۡنٰهُمۡ
+    arabic: رَزَقۡنَٰهُمۡ
     translation: We have provided them
     transliteration: razaqnāhum
   11:
-    arabic: سِرًّا
+    arabic: سِرّٗا
     translation: secretly
     transliteration: sirran
   12:
-    arabic: وَّعَلَانِيَةً
+    arabic: وَعَلَانِيَةٗ
     translation: and openly
     transliteration: waʿalāniyatan
   13:
-    arabic: يَّرۡجُوۡنَ
+    arabic: يَرۡجُونَ
     translation: hope
     transliteration: yarjūna
   14:
-    arabic: تِجَارَةً
+    arabic: تِجَٰرَةٗ
     translation: '(for) a commerce '
     transliteration: tijāratan
   15:
-    arabic: لَّنۡ
+    arabic: لَّن
     translation: never
     transliteration: lan
   16:
-    arabic: "تَبُوۡرَۙ‏ \uFEFF\uFEFF"
+    arabic: تَبُورَ
     translation: it will perish
     transliteration: tabūra
 ---

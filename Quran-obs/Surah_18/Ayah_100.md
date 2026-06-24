@@ -1,25 +1,25 @@
 ---
-arabic_ayat: وَّعَرَضۡنَا جَهَـنَّمَ يَوۡمَٮِٕذٍ لِّـلۡكٰفِرِيۡنَ عَرۡضَا ۙ‏
+arabic_ayat: وَعَرَضۡنَا جَهَنَّمَ يَوۡمَئِذٖ لِّلۡكَٰفِرِينَ عَرۡضًا
 sentence_translation: On that Day We will display Hell clearly for the disbelievers,
 word_by_word:
   1:
-    arabic: وَّعَرَضۡنَا
+    arabic: وَعَرَضۡنَا
     translation: And We (will) present
     transliteration: waʿaraḍnā
   2:
-    arabic: جَهَـنَّمَ
+    arabic: جَهَنَّمَ
     translation: Hell
     transliteration: jahannama
   3:
-    arabic: يَوۡمَٮِٕذٍ
+    arabic: يَوۡمَئِذٖ
     translation: (on) that Day
     transliteration: yawma-idhin
   4:
-    arabic: لِّـلۡكٰفِرِيۡنَ
+    arabic: لِّلۡكَٰفِرِينَ
     translation: to the disbelievers
     transliteration: lil'kāfirīna
   5:
-    arabic: عَرۡضَا ۙ‏
+    arabic: عَرۡضًا
     translation: (on) display
     transliteration: ʿarḍan
 ---

@@ -1,5 +1,5 @@
 ---
-arabic_ayat: فِرۡعَوۡنَ وَثَمُوۡدَؕ‏
+arabic_ayat: فِرۡعَوۡنَ وَثَمُودَ
 sentence_translation: ˹the forces of˺ Pharaoh and Thamûd?
 word_by_word:
   1:
@@ -7,7 +7,7 @@ word_by_word:
     translation: Firaun
     transliteration: fir'ʿawna
   2:
-    arabic: وَثَمُوۡدَؕ‏
+    arabic: وَثَمُودَ
     translation: and Thamud
     transliteration: wathamūda
 ---

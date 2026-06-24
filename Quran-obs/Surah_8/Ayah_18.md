@@ -1,21 +1,21 @@
 ---
-arabic_ayat: ذٰ لِكُمۡ وَاَنَّ اللّٰهَ مُوۡهِنُ كَيۡدِ الۡـكٰفِرِيۡنَ‏
+arabic_ayat: ذَٰلِكُمۡ وَأَنَّ ٱللَّهَ مُوهِنُ كَيۡدِ ٱلۡكَٰفِرِينَ
 sentence_translation: As such, Allah frustrates the evil plans of the disbelievers.
 word_by_word:
   1:
-    arabic: ذٰ لِكُمۡ
+    arabic: ذَٰلِكُمۡ
     translation: That (is the case)
     transliteration: dhālikum
   2:
-    arabic: وَاَنَّ
+    arabic: وَأَنَّ
     translation: and that
     transliteration: wa-anna
   3:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah (is)
     transliteration: l-laha
   4:
-    arabic: مُوۡهِنُ
+    arabic: مُوهِنُ
     translation: one who makes weak
     transliteration: mūhinu
   5:
@@ -23,7 +23,7 @@ word_by_word:
     translation: (the) plan
     transliteration: kaydi
   6:
-    arabic: الۡـكٰفِرِيۡنَ‏
+    arabic: ٱلۡكَٰفِرِينَ
     translation: (of) the disbelievers
     transliteration: l-kāfirīna
 ---

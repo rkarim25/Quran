@@ -1,11 +1,11 @@
 ---
-arabic_ayat: وَاِذَا بُشِّرَ اَحَدُهُمۡ بِالۡاُنۡثٰى ظَلَّ وَجۡهُهٗ مُسۡوَدًّا وَّهُوَ
-  كَظِيۡمٌ​ۚ‏
+arabic_ayat: وَإِذَا بُشِّرَ أَحَدُهُم بِٱلۡأُنثَىٰ ظَلَّ وَجۡهُهُۥ مُسۡوَدّٗا وَهُوَ
+  كَظِيمٞ
 sentence_translation: Whenever one of them is given the good news of a baby girl,
   his face grows gloomy, as he suppresses his rage.
 word_by_word:
   1:
-    arabic: وَاِذَا
+    arabic: وَإِذَا
     translation: And when
     transliteration: wa-idhā
   2:
@@ -13,11 +13,11 @@ word_by_word:
     translation: is given good news
     transliteration: bushira
   3:
-    arabic: اَحَدُهُمۡ
+    arabic: أَحَدُهُم
     translation: (to) one of them
     transliteration: aḥaduhum
   4:
-    arabic: بِالۡاُنۡثٰى
+    arabic: بِٱلۡأُنثَىٰ
     translation: of a female
     transliteration: bil-unthā
   5:
@@ -25,19 +25,19 @@ word_by_word:
     translation: turns
     transliteration: ẓalla
   6:
-    arabic: وَجۡهُهٗ
+    arabic: وَجۡهُهُۥ
     translation: his face
     transliteration: wajhuhu
   7:
-    arabic: مُسۡوَدًّا
+    arabic: مُسۡوَدّٗا
     translation: dark
     transliteration: mus'waddan
   8:
-    arabic: وَّهُوَ
+    arabic: وَهُوَ
     translation: and he
     transliteration: wahuwa
   9:
-    arabic: كَظِيۡمٌ​ۚ‏
+    arabic: كَظِيمٞ
     translation: suppresses grief
     transliteration: kaẓīmun
 ---

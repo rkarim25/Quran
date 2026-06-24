@@ -1,7 +1,7 @@
 ---
-arabic_ayat: فَلَمَّا نَسُوۡا مَا ذُكِّرُوۡا بِهٖ فَتَحۡنَا عَلَيۡهِمۡ اَبۡوَابَ كُلِّ
-  شَىۡءٍ ؕ حَتّٰٓى اِذَا فَرِحُوۡا بِمَاۤ اُوۡتُوۡۤا اَخَذۡنٰهُمۡ بَغۡتَةً فَاِذَا
-  هُمۡ مُّبۡلِسُوۡنَ‏
+arabic_ayat: فَلَمَّا نَسُواْ مَا ذُكِّرُواْ بِهِۦ فَتَحۡنَا عَلَيۡهِمۡ أَبۡوَٰبَ
+  كُلِّ شَيۡءٍ حَتَّىٰٓ إِذَا فَرِحُواْ بِمَآ أُوتُوٓاْ أَخَذۡنَٰهُم بَغۡتَةٗ فَإِذَا
+  هُم مُّبۡلِسُونَ
 sentence_translation: When they became oblivious to warnings, We showered them with
   everything they desired. But just as they became prideful of what they were given,
   We seized them by surprise, then they instantly fell into despair!
@@ -11,7 +11,7 @@ word_by_word:
     translation: So when
     transliteration: falammā
   2:
-    arabic: نَسُوۡا
+    arabic: نَسُواْ
     translation: they forgot
     transliteration: nasū
   3:
@@ -19,11 +19,11 @@ word_by_word:
     translation: what
     transliteration: mā
   4:
-    arabic: ذُكِّرُوۡا
+    arabic: ذُكِّرُواْ
     translation: they were reminded
     transliteration: dhukkirū
   5:
-    arabic: بِهٖ
+    arabic: بِهِۦ
     translation: of [it]
     transliteration: bihi
   6:
@@ -35,7 +35,7 @@ word_by_word:
     translation: on them
     transliteration: ʿalayhim
   8:
-    arabic: اَبۡوَابَ
+    arabic: أَبۡوَٰبَ
     translation: gates
     transliteration: abwāba
   9:
@@ -43,47 +43,47 @@ word_by_word:
     translation: (of) every
     transliteration: kulli
   10:
-    arabic: شَىۡءٍ ؕ
+    arabic: شَيۡءٍ
     translation: thing
     transliteration: shayin
   11:
-    arabic: حَتّٰٓى
+    arabic: حَتَّىٰٓ
     translation: until
     transliteration: ḥattā
   12:
-    arabic: اِذَا
+    arabic: إِذَا
     translation: when
     transliteration: idhā
   13:
-    arabic: فَرِحُوۡا
+    arabic: فَرِحُواْ
     translation: they rejoiced
     transliteration: fariḥū
   14:
-    arabic: بِمَاۤ
+    arabic: بِمَآ
     translation: in what
     transliteration: bimā
   15:
-    arabic: اُوۡتُوۡۤا
+    arabic: أُوتُوٓاْ
     translation: they were given
     transliteration: ūtū
   16:
-    arabic: اَخَذۡنٰهُمۡ
+    arabic: أَخَذۡنَٰهُم
     translation: We seized them
     transliteration: akhadhnāhum
   17:
-    arabic: بَغۡتَةً
+    arabic: بَغۡتَةٗ
     translation: suddenly
     transliteration: baghtatan
   18:
-    arabic: فَاِذَا
+    arabic: فَإِذَا
     translation: and then
     transliteration: fa-idhā
   19:
-    arabic: هُمۡ
+    arabic: هُم
     translation: they
     transliteration: hum
   20:
-    arabic: مُّبۡلِسُوۡنَ‏
+    arabic: مُّبۡلِسُونَ
     translation: (were) dumbfounded
     transliteration: mub'lisūna
 ---

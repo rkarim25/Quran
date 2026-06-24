@@ -1,17 +1,17 @@
 ---
-arabic_ayat: فِىۡ جَنّٰتِ النَّعِيۡمِۙ‏
+arabic_ayat: فِي جَنَّٰتِ ٱلنَّعِيمِ
 sentence_translation: in the Gardens of Bliss,
 word_by_word:
   1:
-    arabic: فِىۡ
+    arabic: فِي
     translation: In
     transliteration: fī
   2:
-    arabic: جَنّٰتِ
+    arabic: جَنَّٰتِ
     translation: Gardens
     transliteration: jannāti
   3:
-    arabic: النَّعِيۡمِۙ‏
+    arabic: ٱلنَّعِيمِ
     translation: (of) Delight
     transliteration: l-naʿīmi
 ---

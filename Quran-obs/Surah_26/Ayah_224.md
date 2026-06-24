@@ -1,9 +1,9 @@
 ---
-arabic_ayat: وَالشُّعَرَآءُ يَتَّبِعُهُمُ الۡغَاوٗنَؕ‏
+arabic_ayat: وَٱلشُّعَرَآءُ يَتَّبِعُهُمُ ٱلۡغَاوُۥنَ
 sentence_translation: As for poets, they are followed ˹merely˺ by deviants.
 word_by_word:
   1:
-    arabic: وَالشُّعَرَآءُ
+    arabic: وَٱلشُّعَرَآءُ
     translation: 'And the poets '
     transliteration: wal-shuʿarāu
   2:
@@ -11,7 +11,7 @@ word_by_word:
     translation: follow them
     transliteration: yattabiʿuhumu
   3:
-    arabic: الۡغَاوٗنَؕ‏
+    arabic: ٱلۡغَاوُۥنَ
     translation: the deviators
     transliteration: l-ghāwūna
 ---

@@ -1,9 +1,9 @@
 ---
-arabic_ayat: ثُلَّةٌ مِّنَ الۡاَوَّلِيۡنَۙ‏
+arabic_ayat: ثُلَّةٞ مِّنَ ٱلۡأَوَّلِينَ
 sentence_translation: ˹They will be˺ a multitude from earlier generations
 word_by_word:
   1:
-    arabic: ثُلَّةٌ
+    arabic: ثُلَّةٞ
     translation: A company
     transliteration: thullatun
   2:
@@ -11,7 +11,7 @@ word_by_word:
     translation: of
     transliteration: mina
   3:
-    arabic: الۡاَوَّلِيۡنَۙ‏
+    arabic: ٱلۡأَوَّلِينَ
     translation: the former (people)
     transliteration: l-awalīna
 ---

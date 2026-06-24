@@ -1,16 +1,16 @@
 ---
-arabic_ayat: وَقِيۡلَ ادۡعُوۡا شُرَكَآءَكُمۡ فَدَعَوۡهُمۡ فَلَمۡ يَسۡتَجِيۡبُوۡا
-  لَهُمۡ وَرَاَوُا الۡعَذَابَ​ۚ لَوۡ اَنَّهُمۡ كَانُوۡا يَهۡتَدُوۡنَ‏
+arabic_ayat: وَقِيلَ ٱدۡعُواْ شُرَكَآءَكُمۡ فَدَعَوۡهُمۡ فَلَمۡ يَسۡتَجِيبُواْ لَهُمۡ
+  وَرَأَوُاْ ٱلۡعَذَابَۚ لَوۡ أَنَّهُمۡ كَانُواْ يَهۡتَدُونَ
 sentence_translation: It will be said ˹to the disbelievers˺, “Call upon your associate-gods
   ˹for help˺.” So they will call them, but will receive no response. And they will
   face the punishment, wishing they had been ˹rightly˺ guided!
 word_by_word:
   1:
-    arabic: وَقِيۡلَ
+    arabic: وَقِيلَ
     translation: And it will be said
     transliteration: waqīla
   2:
-    arabic: ادۡعُوۡا
+    arabic: ٱدۡعُواْ
     translation: Call
     transliteration: id'ʿū
   3:
@@ -26,7 +26,7 @@ word_by_word:
     translation: but not
     transliteration: falam
   6:
-    arabic: يَسۡتَجِيۡبُوۡا
+    arabic: يَسۡتَجِيبُواْ
     translation: they will respond
     transliteration: yastajībū
   7:
@@ -34,11 +34,11 @@ word_by_word:
     translation: to them
     transliteration: lahum
   8:
-    arabic: وَرَاَوُا
+    arabic: وَرَأَوُاْ
     translation: and they will see
     transliteration: wara-awū
   9:
-    arabic: الۡعَذَابَ​ۚ
+    arabic: ٱلۡعَذَابَۚ
     translation: the punishment
     transliteration: l-ʿadhāba
   10:
@@ -46,15 +46,15 @@ word_by_word:
     translation: If only
     transliteration: law
   11:
-    arabic: اَنَّهُمۡ
+    arabic: أَنَّهُمۡ
     translation: '[that] they'
     transliteration: annahum
   12:
-    arabic: كَانُوۡا
+    arabic: كَانُواْ
     translation: had been
     transliteration: kānū
   13:
-    arabic: يَهۡتَدُوۡنَ‏
+    arabic: يَهۡتَدُونَ
     translation: guided
     transliteration: yahtadūna
 ---

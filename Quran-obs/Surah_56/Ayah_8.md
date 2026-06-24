@@ -1,25 +1,25 @@
 ---
-arabic_ayat: فَاَصۡحٰبُ الۡمَيۡمَنَةِ ۙ مَاۤ اَصۡحٰبُ الۡمَيۡمَنَةِ ؕ‏
+arabic_ayat: فَأَصۡحَٰبُ ٱلۡمَيۡمَنَةِ مَآ أَصۡحَٰبُ ٱلۡمَيۡمَنَةِ
 sentence_translation: the people of the right, how ˹blessed˺ will they be;
 word_by_word:
   1:
-    arabic: فَاَصۡحٰبُ
+    arabic: فَأَصۡحَٰبُ
     translation: Then (the) companions
     transliteration: fa-aṣḥābu
   2:
-    arabic: الۡمَيۡمَنَةِ ۙ
+    arabic: ٱلۡمَيۡمَنَةِ
     translation: (of) the right
     transliteration: l-maymanati
   3:
-    arabic: مَاۤ
+    arabic: مَآ
     translation: what
     transliteration: mā
   4:
-    arabic: اَصۡحٰبُ
+    arabic: أَصۡحَٰبُ
     translation: (are the) companions
     transliteration: aṣḥābu
   5:
-    arabic: الۡمَيۡمَنَةِ ؕ‏
+    arabic: ٱلۡمَيۡمَنَةِ
     translation: (of) the right
     transliteration: l-maymanati
 ---

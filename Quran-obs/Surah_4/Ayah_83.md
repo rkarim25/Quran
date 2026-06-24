@@ -1,15 +1,15 @@
 ---
-arabic_ayat: وَاِذَا جَآءَهُمۡ اَمۡرٌ مِّنَ الۡاَمۡنِ اَوِ الۡخَـوۡفِ اَذَاعُوۡا
-  بِهٖ​ ۚ وَلَوۡ رَدُّوۡهُ اِلَى الرَّسُوۡلِ وَاِلٰٓى اُولِى الۡاَمۡرِ مِنۡهُمۡ لَعَلِمَهُ
-  الَّذِيۡنَ يَسۡتَنۡۢبِطُوۡنَهٗ مِنۡهُمۡ​ؕ وَلَوۡلَا فَضۡلُ اللّٰهِ عَلَيۡكُمۡ وَرَحۡمَتُهٗ
-  لَاتَّبَعۡتُمُ الشَّيۡطٰنَ اِلَّا قَلِيۡلًا‏
+arabic_ayat: وَإِذَا جَآءَهُمۡ أَمۡرٞ مِّنَ ٱلۡأَمۡنِ أَوِ ٱلۡخَوۡفِ أَذَاعُواْ بِهِۦۖ
+  وَلَوۡ رَدُّوهُ إِلَى ٱلرَّسُولِ وَإِلَىٰٓ أُوْلِي ٱلۡأَمۡرِ مِنۡهُمۡ لَعَلِمَهُ
+  ٱلَّذِينَ يَسۡتَنۢبِطُونَهُۥ مِنۡهُمۡۗ وَلَوۡلَا فَضۡلُ ٱللَّهِ عَلَيۡكُمۡ وَرَحۡمَتُهُۥ
+  لَٱتَّبَعۡتُمُ ٱلشَّيۡطَٰنَ إِلَّا قَلِيلٗا
 sentence_translation: And when they hear news of security or fear, they publicize
   it. Had they referred it to the Messenger or their authorities, those with sound
   judgment among them would have validated it. Had it not been for Allah’s grace and
   mercy, you would have followed Satan—except for a few.
 word_by_word:
   1:
-    arabic: وَاِذَا
+    arabic: وَإِذَا
     translation: And when
     transliteration: wa-idhā
   2:
@@ -17,7 +17,7 @@ word_by_word:
     translation: comes to them
     transliteration: jāahum
   3:
-    arabic: اَمۡرٌ
+    arabic: أَمۡرٞ
     translation: a matter
     transliteration: amrun
   4:
@@ -25,23 +25,23 @@ word_by_word:
     translation: of
     transliteration: mina
   5:
-    arabic: الۡاَمۡنِ
+    arabic: ٱلۡأَمۡنِ
     translation: the security
     transliteration: l-amni
   6:
-    arabic: اَوِ
+    arabic: أَوِ
     translation: or
     transliteration: awi
   7:
-    arabic: الۡخَـوۡفِ
+    arabic: ٱلۡخَوۡفِ
     translation: '[the] fear'
     transliteration: l-khawfi
   8:
-    arabic: اَذَاعُوۡا
+    arabic: أَذَاعُواْ
     translation: they spread
     transliteration: adhāʿū
   9:
-    arabic: بِهٖ​ ۚ
+    arabic: بِهِۦۖ
     translation: '[with] it'
     transliteration: bihi
   10:
@@ -49,27 +49,27 @@ word_by_word:
     translation: But if
     transliteration: walaw
   11:
-    arabic: رَدُّوۡهُ
+    arabic: رَدُّوهُ
     translation: they (had) referred it
     transliteration: raddūhu
   12:
-    arabic: اِلَى
+    arabic: إِلَى
     translation: to
     transliteration: ilā
   13:
-    arabic: الرَّسُوۡلِ
+    arabic: ٱلرَّسُولِ
     translation: the Messenger
     transliteration: l-rasūli
   14:
-    arabic: وَاِلٰٓى
+    arabic: وَإِلَىٰٓ
     translation: and to
     transliteration: wa-ilā
   15:
-    arabic: اُولِى
+    arabic: أُوْلِي
     translation: those
     transliteration: ulī
   16:
-    arabic: الۡاَمۡرِ
+    arabic: ٱلۡأَمۡرِ
     translation: (having) authority
     transliteration: l-amri
   17:
@@ -81,15 +81,15 @@ word_by_word:
     translation: surely would have known it
     transliteration: laʿalimahu
   19:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   20:
-    arabic: يَسۡتَنۡۢبِطُوۡنَهٗ
+    arabic: يَسۡتَنۢبِطُونَهُۥ
     translation: draw correct conclusion (from) it
     transliteration: yastanbiṭūnahu
   21:
-    arabic: مِنۡهُمۡ​ؕ
+    arabic: مِنۡهُمۡۗ
     translation: among them
     transliteration: min'hum
   22:
@@ -101,7 +101,7 @@ word_by_word:
     translation: (had been the) bounty
     transliteration: faḍlu
   24:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (of) Allah
     transliteration: l-lahi
   25:
@@ -109,23 +109,23 @@ word_by_word:
     translation: on you
     transliteration: ʿalaykum
   26:
-    arabic: وَرَحۡمَتُهٗ
+    arabic: وَرَحۡمَتُهُۥ
     translation: and His Mercy
     transliteration: waraḥmatuhu
   27:
-    arabic: لَاتَّبَعۡتُمُ
+    arabic: لَٱتَّبَعۡتُمُ
     translation: surely you (would have) followed
     transliteration: la-ittabaʿtumu
   28:
-    arabic: الشَّيۡطٰنَ
+    arabic: ٱلشَّيۡطَٰنَ
     translation: the Shaitaan
     transliteration: l-shayṭāna
   29:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   30:
-    arabic: قَلِيۡلًا‏
+    arabic: قَلِيلٗا
     translation: a few
     transliteration: qalīlan
 ---

@@ -1,39 +1,39 @@
 ---
-arabic_ayat: وَاِنَّ لِلَّذِيۡنَ ظَلَمُوۡا عَذَابًا دُوۡنَ ذٰلِكَ وَلٰـكِنَّ اَكۡثَرَهُمۡ
-  لَا يَعۡلَمُوۡنَ‏
+arabic_ayat: وَإِنَّ لِلَّذِينَ ظَلَمُواْ عَذَابٗا دُونَ ذَٰلِكَ وَلَٰكِنَّ أَكۡثَرَهُمۡ
+  لَا يَعۡلَمُونَ
 sentence_translation: Also, the wrongdoers will certainly have another torment before
   that ˹Day˺, but most of them do not know.
 word_by_word:
   1:
-    arabic: وَاِنَّ
+    arabic: وَإِنَّ
     translation: And indeed
     transliteration: wa-inna
   2:
-    arabic: لِلَّذِيۡنَ
+    arabic: لِلَّذِينَ
     translation: for those who
     transliteration: lilladhīna
   3:
-    arabic: ظَلَمُوۡا
+    arabic: ظَلَمُواْ
     translation: do wrong
     transliteration: ẓalamū
   4:
-    arabic: عَذَابًا
+    arabic: عَذَابٗا
     translation: (is) a punishment
     transliteration: ʿadhāban
   5:
-    arabic: دُوۡنَ
+    arabic: دُونَ
     translation: before
     transliteration: dūna
   6:
-    arabic: ذٰلِكَ
+    arabic: ذَٰلِكَ
     translation: that
     transliteration: dhālika
   7:
-    arabic: وَلٰـكِنَّ
+    arabic: وَلَٰكِنَّ
     translation: but
     transliteration: walākinna
   8:
-    arabic: اَكۡثَرَهُمۡ
+    arabic: أَكۡثَرَهُمۡ
     translation: most of them
     transliteration: aktharahum
   9:
@@ -41,7 +41,7 @@ word_by_word:
     translation: (do) not
     transliteration: lā
   10:
-    arabic: يَعۡلَمُوۡنَ‏
+    arabic: يَعۡلَمُونَ
     translation: know
     transliteration: yaʿlamūna
 ---

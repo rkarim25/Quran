@@ -1,23 +1,23 @@
 ---
-arabic_ayat: فَاِنِ اسۡتَكۡبَرُوۡا فَالَّذِيۡنَ عِنۡدَ رَبِّكَ يُسَبِّحُوۡنَ لَهٗ
-  بِالَّيۡلِ وَالنَّهَارِ وَهُمۡ لَا يَسۡـَٔـمُوۡنَ۩‏
+arabic_ayat: فَإِنِ ٱسۡتَكۡبَرُواْ فَٱلَّذِينَ عِندَ رَبِّكَ يُسَبِّحُونَ لَهُۥ بِٱلَّيۡلِ
+  وَٱلنَّهَارِ وَهُمۡ لَا يَسۡـَٔمُونَ۩
 sentence_translation: But if the pagans are too proud, then ˹let them know that˺ those
   ˹angels˺ nearest to your Lord glorify Him day and night, and never grow weary.
 word_by_word:
   1:
-    arabic: فَاِنِ
+    arabic: فَإِنِ
     translation: But if
     transliteration: fa-ini
   2:
-    arabic: اسۡتَكۡبَرُوۡا
+    arabic: ٱسۡتَكۡبَرُواْ
     translation: they are arrogant
     transliteration: is'takbarū
   3:
-    arabic: فَالَّذِيۡنَ
+    arabic: فَٱلَّذِينَ
     translation: then those who
     transliteration: fa-alladhīna
   4:
-    arabic: عِنۡدَ
+    arabic: عِندَ
     translation: (are) near
     transliteration: ʿinda
   5:
@@ -25,19 +25,19 @@ word_by_word:
     translation: your Lord
     transliteration: rabbika
   6:
-    arabic: يُسَبِّحُوۡنَ
+    arabic: يُسَبِّحُونَ
     translation: glorify
     transliteration: yusabbiḥūna
   7:
-    arabic: لَهٗ
+    arabic: لَهُۥ
     translation: Him
     transliteration: lahu
   8:
-    arabic: بِالَّيۡلِ
+    arabic: بِٱلَّيۡلِ
     translation: by night
     transliteration: bi-al-layli
   9:
-    arabic: وَالنَّهَارِ
+    arabic: وَٱلنَّهَارِ
     translation: and day
     transliteration: wal-nahāri
   10:
@@ -49,7 +49,7 @@ word_by_word:
     translation: (do) not
     transliteration: lā
   12:
-    arabic: يَسۡـَٔـمُوۡنَ ۩
+    arabic: يَسۡـَٔمُونَ۩
     translation: tire
     transliteration: yasamūna
 ---

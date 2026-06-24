@@ -1,24 +1,24 @@
 ---
-arabic_ayat: وَمَنۡ يَّعۡصِ اللّٰهَ وَرَسُوۡلَهٗ وَيَتَعَدَّ حُدُوۡدَهٗ يُدۡخِلۡهُ
-  نَارًا خَالِدًا فِيۡهَا وَلَهٗ عَذَابٌ مُّهِيۡنٌ‏
+arabic_ayat: وَمَن يَعۡصِ ٱللَّهَ وَرَسُولَهُۥ وَيَتَعَدَّ حُدُودَهُۥ يُدۡخِلۡهُ نَارًا
+  خَٰلِدٗا فِيهَا وَلَهُۥ عَذَابٞ مُّهِينٞ
 sentence_translation: But whoever disobeys Allah and His Messenger and exceeds their
   limits will be cast into Hell, to stay there forever. And they will suffer a humiliating
   punishment.
 word_by_word:
   1:
-    arabic: وَمَنۡ
+    arabic: وَمَن
     translation: And whoever
     transliteration: waman
   2:
-    arabic: يَّعۡصِ
+    arabic: يَعۡصِ
     translation: disobeys
     transliteration: yaʿṣi
   3:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   4:
-    arabic: وَرَسُوۡلَهٗ
+    arabic: وَرَسُولَهُۥ
     translation: and His Messenger
     transliteration: warasūlahu
   5:
@@ -26,7 +26,7 @@ word_by_word:
     translation: and transgresses
     transliteration: wayataʿadda
   6:
-    arabic: حُدُوۡدَهٗ
+    arabic: حُدُودَهُۥ
     translation: 'His limits '
     transliteration: ḥudūdahu
   7:
@@ -38,23 +38,23 @@ word_by_word:
     translation: (to) Fire
     transliteration: nāran
   9:
-    arabic: خَالِدًا
+    arabic: خَٰلِدٗا
     translation: (will) abide forever
     transliteration: khālidan
   10:
-    arabic: فِيۡهَا
+    arabic: فِيهَا
     translation: in it
     transliteration: fīhā
   11:
-    arabic: وَلَهٗ
+    arabic: وَلَهُۥ
     translation: And for him
     transliteration: walahu
   12:
-    arabic: عَذَابٌ
+    arabic: عَذَابٞ
     translation: (is) a punishment
     transliteration: ʿadhābun
   13:
-    arabic: مُّهِيۡنٌ‏
+    arabic: مُّهِينٞ
     translation: humiliating
     transliteration: muhīnun
 ---

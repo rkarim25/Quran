@@ -1,15 +1,15 @@
 ---
-arabic_ayat: وَاتَّقُوۡا فِتۡنَةً لَّا تُصِيۡبَنَّ الَّذِيۡنَ ظَلَمُوۡا مِنۡكُمۡ خَآصَّةً​
-  ۚ وَاعۡلَمُوۡۤا اَنَّ اللّٰهَ شَدِيۡدُ الۡعِقَابِ‏
+arabic_ayat: وَٱتَّقُواْ فِتۡنَةٗ لَّا تُصِيبَنَّ ٱلَّذِينَ ظَلَمُواْ مِنكُمۡ خَآصَّةٗۖ
+  وَٱعۡلَمُوٓاْ أَنَّ ٱللَّهَ شَدِيدُ ٱلۡعِقَابِ
 sentence_translation: Beware of a trial that will not only affect the wrongdoers among
   you. And know that Allah is severe in punishment.
 word_by_word:
   1:
-    arabic: وَاتَّقُوۡا
+    arabic: وَٱتَّقُواْ
     translation: And fear
     transliteration: wa-ittaqū
   2:
-    arabic: فِتۡنَةً
+    arabic: فِتۡنَةٗ
     translation: a trial
     transliteration: fit'natan
   3:
@@ -17,43 +17,43 @@ word_by_word:
     translation: not
     transliteration: lā
   4:
-    arabic: تُصِيۡبَنَّ
+    arabic: تُصِيبَنَّ
     translation: which will afflict
     transliteration: tuṣībanna
   5:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   6:
-    arabic: ظَلَمُوۡا
+    arabic: ظَلَمُواْ
     translation: do wrong
     transliteration: ẓalamū
   7:
-    arabic: مِنۡكُمۡ
+    arabic: مِنكُمۡ
     translation: among you
     transliteration: minkum
   8:
-    arabic: خَآصَّةً​ ۚ
+    arabic: خَآصَّةٗۖ
     translation: exclusively
     transliteration: khāṣṣatan
   9:
-    arabic: وَاعۡلَمُوۡۤا
+    arabic: وَٱعۡلَمُوٓاْ
     translation: And know
     transliteration: wa-iʿ'lamū
   10:
-    arabic: اَنَّ
+    arabic: أَنَّ
     translation: that
     transliteration: anna
   11:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   12:
-    arabic: شَدِيۡدُ
+    arabic: شَدِيدُ
     translation: (is) severe
     transliteration: shadīdu
   13:
-    arabic: الۡعِقَابِ‏
+    arabic: ٱلۡعِقَابِ
     translation: (in) the penalty
     transliteration: l-ʿiqābi
 ---

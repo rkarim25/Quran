@@ -1,12 +1,12 @@
 ---
-arabic_ayat: يٰۤـاَيُّهَا الرَّسُوۡلُ لَا يَحۡزُنۡكَ الَّذِيۡنَ يُسَارِعُوۡنَ فِى
-  الۡكُفۡرِ مِنَ الَّذِيۡنَ قَالُوۡۤا اٰمَنَّا بِاَ فۡوَاهِهِمۡ وَلَمۡ تُؤۡمِنۡ قُلُوۡبُهُمۡ​
-  ​ۛۚ وَمِنَ الَّذِيۡنَ هَادُوۡا ​ ۛۚ سَمّٰعُوۡنَ لِلۡكَذِبِ سَمّٰعُوۡنَ لِقَوۡمٍ
-  اٰخَرِيۡنَۙ لَمۡ يَاۡتُوۡكَ​ؕ يُحَرِّفُوۡنَ الۡـكَلِمَ مِنۡۢ بَعۡدِ مَوَاضِعِهٖ​ۚ
-  يَقُوۡلُوۡنَ اِنۡ اُوۡتِيۡتُمۡ هٰذَا فَخُذُوۡهُ وَاِنۡ لَّمۡ تُؤۡتَوۡهُ فَاحۡذَرُوۡا​
-  ؕ وَمَنۡ يُّرِدِ اللّٰهُ فِتۡنَـتَهٗ فَلَنۡ تَمۡلِكَ لَهٗ مِنَ اللّٰهِ شَيۡــًٔـا​ؕ
-  اُولٰٓٮِٕكَ الَّذِيۡنَ لَمۡ يُرِدِ اللّٰهُ اَنۡ يُّطَهِّرَ قُلُوۡبَهُمۡ​ ؕ لَهُمۡ
-  فِىۡ الدُّنۡيَا خِزۡىٌ ۚۖ وَّلَهُمۡ فِىۡ الۡاٰخِرَةِ عَذَابٌ عَظِيۡمٌ‏
+arabic_ayat: ۞ يَٰٓأَيُّهَا ٱلرَّسُولُ لَا يَحۡزُنكَ ٱلَّذِينَ يُسَٰرِعُونَ فِي ٱلۡكُفۡرِ
+  مِنَ ٱلَّذِينَ قَالُوٓاْ ءَامَنَّا بِأَفۡوَٰهِهِمۡ وَلَمۡ تُؤۡمِن قُلُوبُهُمۡۛ وَمِنَ
+  ٱلَّذِينَ هَادُواْۛ سَمَّٰعُونَ لِلۡكَذِبِ سَمَّٰعُونَ لِقَوۡمٍ ءَاخَرِينَ لَمۡ
+  يَأۡتُوكَۖ يُحَرِّفُونَ ٱلۡكَلِمَ مِنۢ بَعۡدِ مَوَاضِعِهِۦۖ يَقُولُونَ إِنۡ أُوتِيتُمۡ
+  هَٰذَا فَخُذُوهُ وَإِن لَّمۡ تُؤۡتَوۡهُ فَٱحۡذَرُواْۚ وَمَن يُرِدِ ٱللَّهُ فِتۡنَتَهُۥ
+  فَلَن تَمۡلِكَ لَهُۥ مِنَ ٱللَّهِ شَيۡـًٔاۚ أُوْلَٰٓئِكَ ٱلَّذِينَ لَمۡ يُرِدِ ٱللَّهُ
+  أَن يُطَهِّرَ قُلُوبَهُمۡۚ لَهُمۡ فِي ٱلدُّنۡيَا خِزۡيٞۖ وَلَهُمۡ فِي ٱلۡأٓخِرَةِ
+  عَذَابٌ عَظِيمٞ
 sentence_translation: O Messenger! Do not grieve for those who race to disbelieve—those
   who say, “We believe” with their tongues, but their hearts are in disbelief. Nor
   those among the Jews who eagerly listen to lies, attentive to those who are too
@@ -17,11 +17,11 @@ sentence_translation: O Messenger! Do not grieve for those who race to disbeliev
   world, and they will suffer a tremendous punishment in the Hereafter.
 word_by_word:
   1:
-    arabic: ۞ يٰۤـاَيُّهَا
+    arabic: ۞ يَٰٓأَيُّهَا
     translation: O
     transliteration: yāayyuhā
   2:
-    arabic: الرَّسُوۡلُ
+    arabic: ٱلرَّسُولُ
     translation: Messenger
     transliteration: l-rasūlu
   3:
@@ -29,23 +29,23 @@ word_by_word:
     translation: Let not
     transliteration: lā
   4:
-    arabic: يَحۡزُنۡكَ
+    arabic: يَحۡزُنكَ
     translation: grieve you
     transliteration: yaḥzunka
   5:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   6:
-    arabic: يُسَارِعُوۡنَ
+    arabic: يُسَٰرِعُونَ
     translation: hasten
     transliteration: yusāriʿūna
   7:
-    arabic: فِى
+    arabic: فِي
     translation: in (to)
     transliteration: fī
   8:
-    arabic: الۡكُفۡرِ
+    arabic: ٱلۡكُفۡرِ
     translation: '[the] disbelief '
     transliteration: l-kuf'ri
   9:
@@ -53,19 +53,19 @@ word_by_word:
     translation: of
     transliteration: mina
   10:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   11:
-    arabic: قَالُوۡۤا
+    arabic: قَالُوٓاْ ءَ
     translation: said
     transliteration: qālū
   12:
-    arabic: اٰمَنَّا
+    arabic: امَنَّا
     translation: We believe
     transliteration: āmannā
   13:
-    arabic: بِاَ فۡوَاهِهِمۡ
+    arabic: بِأَفۡوَٰهِهِمۡ
     translation: with their mouths
     transliteration: bi-afwāhihim
   14:
@@ -73,11 +73,11 @@ word_by_word:
     translation: and not
     transliteration: walam
   15:
-    arabic: تُؤۡمِنۡ
+    arabic: تُؤۡمِن
     translation: believe
     transliteration: tu'min
   16:
-    arabic: قُلُوۡبُهُمۡ​ ​ۛۚ
+    arabic: قُلُوبُهُمۡۛ
     translation: their hearts
     transliteration: qulūbuhum
   17:
@@ -85,15 +85,15 @@ word_by_word:
     translation: and from
     transliteration: wamina
   18:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   19:
-    arabic: هَادُوۡا ​ ۛۚ
+    arabic: هَادُواْۛ
     translation: (are) Jews
     transliteration: hādū
   20:
-    arabic: سَمّٰعُوۡنَ
+    arabic: سَمَّٰعُونَ
     translation: They (are) listeners
     transliteration: sammāʿūna
   21:
@@ -101,15 +101,15 @@ word_by_word:
     translation: to falsehood
     transliteration: lil'kadhibi
   22:
-    arabic: سَمّٰعُوۡنَ
+    arabic: سَمَّٰعُونَ
     translation: (and) listeners
     transliteration: sammāʿūna
   23:
-    arabic: لِقَوۡمٍ
+    arabic: لِقَوۡمٍ ءَ
     translation: for people
     transliteration: liqawmin
   24:
-    arabic: اٰخَرِيۡنَۙ
+    arabic: اخَرِينَ
     translation: other
     transliteration: ākharīna
   25:
@@ -117,19 +117,19 @@ word_by_word:
     translation: (who have) not
     transliteration: lam
   26:
-    arabic: يَاۡتُوۡكَ​ؕ
+    arabic: يَأۡتُوكَۖ
     translation: come to you
     transliteration: yatūka
   27:
-    arabic: يُحَرِّفُوۡنَ
+    arabic: يُحَرِّفُونَ
     translation: They distort
     transliteration: yuḥarrifūna
   28:
-    arabic: الۡـكَلِمَ
+    arabic: ٱلۡكَلِمَ
     translation: the words
     transliteration: l-kalima
   29:
-    arabic: مِنۡۢ
+    arabic: مِنۢ
     translation: from
     transliteration: min
   30:
@@ -137,31 +137,31 @@ word_by_word:
     translation: after
     transliteration: baʿdi
   31:
-    arabic: مَوَاضِعِهٖ​ۚ
+    arabic: مَوَاضِعِهِۦۖ
     translation: their context
     transliteration: mawāḍiʿihi
   32:
-    arabic: يَقُوۡلُوۡنَ
+    arabic: يَقُولُونَ
     translation: saying
     transliteration: yaqūlūna
   33:
-    arabic: اِنۡ
+    arabic: إِنۡ
     translation: If
     transliteration: in
   34:
-    arabic: اُوۡتِيۡتُمۡ
+    arabic: أُوتِيتُمۡ
     translation: you are given
     transliteration: ūtītum
   35:
-    arabic: هٰذَا
+    arabic: هَٰذَا
     translation: this
     transliteration: hādhā
   36:
-    arabic: فَخُذُوۡهُ
+    arabic: فَخُذُوهُ
     translation: '[so] take it'
     transliteration: fakhudhūhu
   37:
-    arabic: وَاِنۡ
+    arabic: وَإِن
     translation: but if
     transliteration: wa-in
   38:
@@ -173,27 +173,27 @@ word_by_word:
     translation: you are given it
     transliteration: tu'tawhu
   40:
-    arabic: فَاحۡذَرُوۡا​ ؕ
+    arabic: فَٱحۡذَرُواْۚ
     translation: then beware
     transliteration: fa-iḥ'dharū
   41:
-    arabic: وَمَنۡ
+    arabic: وَمَن
     translation: And (for) whom
     transliteration: waman
   42:
-    arabic: يُّرِدِ
+    arabic: يُرِدِ
     translation: intends
     transliteration: yuridi
   43:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   44:
-    arabic: فِتۡنَـتَهٗ
+    arabic: فِتۡنَتَهُۥ
     translation: his trial
     transliteration: fit'natahu
   45:
-    arabic: فَلَنۡ
+    arabic: فَلَن
     translation: then never
     transliteration: falan
   46:
@@ -201,7 +201,7 @@ word_by_word:
     translation: will you have power
     transliteration: tamlika
   47:
-    arabic: لَهٗ
+    arabic: لَهُۥ
     translation: for him
     transliteration: lahu
   48:
@@ -209,19 +209,19 @@ word_by_word:
     translation: against
     transliteration: mina
   49:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   50:
-    arabic: شَيۡــًٔـا​ؕ
+    arabic: شَيۡـًٔاۚ
     translation: anything
     transliteration: shayan
   51:
-    arabic: اُولٰٓٮِٕكَ
+    arabic: أُوْلَٰٓئِكَ
     translation: Those
     transliteration: ulāika
   52:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: (are) the ones
     transliteration: alladhīna
   53:
@@ -233,19 +233,19 @@ word_by_word:
     translation: will intend
     transliteration: yuridi
   55:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   56:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that
     transliteration: an
   57:
-    arabic: يُّطَهِّرَ
+    arabic: يُطَهِّرَ
     translation: He purifies
     transliteration: yuṭahhira
   58:
-    arabic: قُلُوۡبَهُمۡ​ ؕ
+    arabic: قُلُوبَهُمۡۚ
     translation: their hearts
     transliteration: qulūbahum
   59:
@@ -253,27 +253,27 @@ word_by_word:
     translation: For them
     transliteration: lahum
   60:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   61:
-    arabic: الدُّنۡيَا
+    arabic: ٱلدُّنۡيَا
     translation: the world
     transliteration: l-dun'yā
   62:
-    arabic: خِزۡىٌ ۚۖ
+    arabic: خِزۡيٞۖ
     translation: (is) disgrace
     transliteration: khiz'yun
   63:
-    arabic: وَّلَهُمۡ
+    arabic: وَلَهُمۡ
     translation: and for them
     transliteration: walahum
   64:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   65:
-    arabic: الۡاٰخِرَةِ
+    arabic: ٱلۡأٓخِرَةِ
     translation: the Hereafter
     transliteration: l-ākhirati
   66:
@@ -281,7 +281,7 @@ word_by_word:
     translation: (is) a punishment
     transliteration: ʿadhābun
   67:
-    arabic: عَظِيۡمٌ‏
+    arabic: عَظِيمٞ
     translation: great
     transliteration: ʿaẓīmun
 ---

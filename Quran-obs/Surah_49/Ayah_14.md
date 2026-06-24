@@ -1,8 +1,7 @@
 ---
-arabic_ayat: قَالَتِ الۡاَعۡرَابُ اٰمَنَّا​ ؕ قُلْ لَّمۡ تُؤۡمِنُوۡا وَلٰـكِنۡ قُوۡلُوۡۤا
-  اَسۡلَمۡنَا وَلَمَّا يَدۡخُلِ الۡاِيۡمَانُ فِىۡ قُلُوۡبِكُمۡ​ ۚ وَاِنۡ تُطِيۡعُوا
-  اللّٰهَ وَرَسُوۡلَهٗ لَا يَلِتۡكُمۡ مِّنۡ اَعۡمَالِكُمۡ شَيۡـًٔــا​ ؕ اِنَّ اللّٰهَ
-  غَفُوۡرٌ رَّحِيۡمٌ‏
+arabic_ayat: ۞ قَالَتِ ٱلۡأَعۡرَابُ ءَامَنَّاۖ قُل لَّمۡ تُؤۡمِنُواْ وَلَٰكِن قُولُوٓاْ
+  أَسۡلَمۡنَا وَلَمَّا يَدۡخُلِ ٱلۡإِيمَٰنُ فِي قُلُوبِكُمۡۖ وَإِن تُطِيعُواْ ٱللَّهَ
+  وَرَسُولَهُۥ لَا يَلِتۡكُم مِّنۡ أَعۡمَٰلِكُمۡ شَيۡـًٔاۚ إِنَّ ٱللَّهَ غَفُورٞ رَّحِيمٌ
 sentence_translation: ˹Some of˺ the nomadic Arabs say, “We believe.” Say, ˹O Prophet,˺
   “You have not believed. But say, ‘We have submitted,’ for faith has not yet entered
   your hearts. But if you obey Allah and His Messenger ˹wholeheartedly˺, He will not
@@ -10,19 +9,19 @@ sentence_translation: ˹Some of˺ the nomadic Arabs say, “We believe.” Say, 
   Most Merciful.”
 word_by_word:
   1:
-    arabic: ۞ قَالَتِ
+    arabic: ۞ قَالَتِ
     translation: Say
     transliteration: qālati
   2:
-    arabic: الۡاَعۡرَابُ
+    arabic: ٱلۡأَعۡرَابُ ءَ
     translation: the Bedouins
     transliteration: l-aʿrābu
   3:
-    arabic: اٰمَنَّا​ ؕ
+    arabic: امَنَّاۖ
     translation: We believe
     transliteration: āmannā
   4:
-    arabic: قُلْ
+    arabic: قُل
     translation: Say
     transliteration: qul
   5:
@@ -30,19 +29,19 @@ word_by_word:
     translation: Not
     transliteration: lam
   6:
-    arabic: تُؤۡمِنُوۡا
+    arabic: تُؤۡمِنُواْ
     translation: you believe
     transliteration: tu'minū
   7:
-    arabic: وَلٰـكِنۡ
+    arabic: وَلَٰكِن
     translation: but
     transliteration: walākin
   8:
-    arabic: قُوۡلُوۡۤا
+    arabic: قُولُوٓاْ
     translation: say
     transliteration: qūlū
   9:
-    arabic: اَسۡلَمۡنَا
+    arabic: أَسۡلَمۡنَا
     translation: We have submitted
     transliteration: aslamnā
   10:
@@ -54,31 +53,31 @@ word_by_word:
     translation: entered
     transliteration: yadkhuli
   12:
-    arabic: الۡاِيۡمَانُ
+    arabic: ٱلۡإِيمَٰنُ
     translation: the faith
     transliteration: l-īmānu
   13:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   14:
-    arabic: قُلُوۡبِكُمۡ​ ۚ
+    arabic: قُلُوبِكُمۡۖ
     translation: your hearts
     transliteration: qulūbikum
   15:
-    arabic: وَاِنۡ
+    arabic: وَإِن
     translation: But if
     transliteration: wa-in
   16:
-    arabic: تُطِيۡعُوا
+    arabic: تُطِيعُواْ
     translation: you obey
     transliteration: tuṭīʿū
   17:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   18:
-    arabic: وَرَسُوۡلَهٗ
+    arabic: وَرَسُولَهُۥ
     translation: and His Messenger
     transliteration: warasūlahu
   19:
@@ -86,7 +85,7 @@ word_by_word:
     translation: not
     transliteration: lā
   20:
-    arabic: يَلِتۡكُمۡ
+    arabic: يَلِتۡكُم
     translation: He will deprive you
     transliteration: yalit'kum
   21:
@@ -94,27 +93,27 @@ word_by_word:
     translation: of
     transliteration: min
   22:
-    arabic: اَعۡمَالِكُمۡ
+    arabic: أَعۡمَٰلِكُمۡ
     translation: your deeds
     transliteration: aʿmālikum
   23:
-    arabic: شَيۡـًٔــا​ ؕ
+    arabic: شَيۡـًٔاۚ
     translation: anything
     transliteration: shayan
   24:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   25:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   26:
-    arabic: غَفُوۡرٌ
+    arabic: غَفُورٞ
     translation: (is) Oft-Forgiving
     transliteration: ghafūrun
   27:
-    arabic: رَّحِيۡمٌ‏
+    arabic: رَّحِيمٌ
     translation: Most Merciful
     transliteration: raḥīmun
 ---

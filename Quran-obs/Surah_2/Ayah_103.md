@@ -1,6 +1,6 @@
 ---
-arabic_ayat: وَلَوۡ اَنَّهُمۡ اٰمَنُوۡا وَاتَّقَوۡا لَمَثُوۡبَةٌ مِّنۡ عِنۡدِ اللّٰهِ
-  خَيۡرٌ ؕ​ لَوۡ كَانُوۡا يَعۡلَمُوۡنَ‏
+arabic_ayat: وَلَوۡ أَنَّهُمۡ ءَامَنُواْ وَٱتَّقَوۡاْ لَمَثُوبَةٞ مِّنۡ عِندِ ٱللَّهِ
+  خَيۡرٞۚ لَّوۡ كَانُواْ يَعۡلَمُونَ
 sentence_translation: If only they were faithful and mindful ˹of Allah˺, there would
   have been a better reward from Allah, if only they knew!
 word_by_word:
@@ -9,19 +9,19 @@ word_by_word:
     translation: And if
     transliteration: walaw
   2:
-    arabic: اَنَّهُمۡ
+    arabic: أَنَّهُمۡ ءَ
     translation: '[that] they'
     transliteration: annahum
   3:
-    arabic: اٰمَنُوۡا
+    arabic: امَنُواْ
     translation: (had) believed
     transliteration: āmanū
   4:
-    arabic: وَاتَّقَوۡا
+    arabic: وَٱتَّقَوۡاْ
     translation: and feared (Allah)
     transliteration: wa-ittaqaw
   5:
-    arabic: لَمَثُوۡبَةٌ
+    arabic: لَمَثُوبَةٞ
     translation: surely (the) reward
     transliteration: lamathūbatun
   6:
@@ -29,27 +29,27 @@ word_by_word:
     translation: (of)
     transliteration: min
   7:
-    arabic: عِنۡدِ
+    arabic: عِندِ
     translation: from
     transliteration: ʿindi
   8:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   9:
-    arabic: خَيۡرٌ ؕ​
+    arabic: خَيۡرٞۚ
     translation: (would have been) better
     transliteration: khayrun
   10:
-    arabic: لَوۡ
+    arabic: لَّوۡ
     translation: if
     transliteration: law
   11:
-    arabic: كَانُوۡا
+    arabic: كَانُواْ
     translation: they were
     transliteration: kānū
   12:
-    arabic: يَعۡلَمُوۡنَ‏
+    arabic: يَعۡلَمُونَ
     translation: (to) know
     transliteration: yaʿlamūna
 ---

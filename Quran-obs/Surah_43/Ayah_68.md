@@ -1,11 +1,10 @@
 ---
-arabic_ayat: "يٰعِبَادِ لَا خَوۡفٌ عَلَيۡكُمُ الۡيَوۡمَ وَلَاۤ اَنۡتُمۡ تَحۡزَنُوۡنَ​ۚ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: يَٰعِبَادِ لَا خَوۡفٌ عَلَيۡكُمُ ٱلۡيَوۡمَ وَلَآ أَنتُمۡ تَحۡزَنُونَ
 sentence_translation: ˹who will be told,˺ “O My servants! There is no fear for you
   Today, nor will you grieve—
 word_by_word:
   1:
-    arabic: يٰعِبَادِ
+    arabic: يَٰعِبَادِ
     translation: O My slaves
     transliteration: yāʿibādi
   2:
@@ -21,19 +20,19 @@ word_by_word:
     translation: on you
     transliteration: ʿalaykumu
   5:
-    arabic: الۡيَوۡمَ
+    arabic: ٱلۡيَوۡمَ
     translation: this Day
     transliteration: l-yawma
   6:
-    arabic: وَلَاۤ
+    arabic: وَلَآ
     translation: and not
     transliteration: walā
   7:
-    arabic: اَنۡتُمۡ
+    arabic: أَنتُمۡ
     translation: you
     transliteration: antum
   8:
-    arabic: "تَحۡزَنُوۡنَ​ۚ‏ \uFEFF\uFEFF"
+    arabic: تَحۡزَنُونَ
     translation: will grieve
     transliteration: taḥzanūna
 ---

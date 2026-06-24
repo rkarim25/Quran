@@ -1,13 +1,13 @@
 ---
-arabic_ayat: اَذٰ لِكَ خَيۡرٌ نُّزُلًا اَمۡ شَجَرَةُ الزَّقُّوۡمِ‏
+arabic_ayat: أَذَٰلِكَ خَيۡرٞ نُّزُلًا أَمۡ شَجَرَةُ ٱلزَّقُّومِ
 sentence_translation: Is this ˹bliss˺ a better accommodation or the tree of Zaqqûm?
 word_by_word:
   1:
-    arabic: اَذٰ لِكَ
+    arabic: أَذَٰلِكَ
     translation: Is that
     transliteration: adhālika
   2:
-    arabic: خَيۡرٌ
+    arabic: خَيۡرٞ
     translation: better
     transliteration: khayrun
   3:
@@ -15,7 +15,7 @@ word_by_word:
     translation: (as) hospitality
     transliteration: nuzulan
   4:
-    arabic: اَمۡ
+    arabic: أَمۡ
     translation: or
     transliteration: am
   5:
@@ -23,7 +23,7 @@ word_by_word:
     translation: (the) tree
     transliteration: shajaratu
   6:
-    arabic: الزَّقُّوۡمِ‏
+    arabic: ٱلزَّقُّومِ
     translation: (of) Zaqqum
     transliteration: l-zaqūmi
 ---

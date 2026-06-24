@@ -1,6 +1,6 @@
 ---
-arabic_ayat: مِّمَّا خَطِٓيْئٰتِهِمۡ اُغۡرِقُوۡا فَاُدۡخِلُوۡا نَارًا  ۙ فَلَمۡ يَجِدُوۡا
-  لَهُمۡ مِّنۡ دُوۡنِ اللّٰهِ اَنۡصَارًا‏
+arabic_ayat: مِّمَّا خَطِيٓـَٰٔتِهِمۡ أُغۡرِقُواْ فَأُدۡخِلُواْ نَارٗا فَلَمۡ يَجِدُواْ
+  لَهُم مِّن دُونِ ٱللَّهِ أَنصَارٗا
 sentence_translation: So because of their sins, they were drowned, then admitted into
   the Fire. And they found none to help them against Allah.
 word_by_word:
@@ -9,19 +9,19 @@ word_by_word:
     translation: Because of
     transliteration: mimmā
   2:
-    arabic: خَطِٓيْئٰتِهِمۡ
+    arabic: خَطِيٓـَٰٔتِهِمۡ
     translation: their sins
     transliteration: khaṭīātihim
   3:
-    arabic: اُغۡرِقُوۡا
+    arabic: أُغۡرِقُواْ
     translation: they were drowned
     transliteration: ugh'riqū
   4:
-    arabic: فَاُدۡخِلُوۡا
+    arabic: فَأُدۡخِلُواْ
     translation: then made to enter
     transliteration: fa-ud'khilū
   5:
-    arabic: نَارًا  ۙ
+    arabic: نَارٗا
     translation: (the) Fire
     transliteration: nāran
   6:
@@ -29,27 +29,27 @@ word_by_word:
     translation: and not
     transliteration: falam
   7:
-    arabic: يَجِدُوۡا
+    arabic: يَجِدُواْ
     translation: they found
     transliteration: yajidū
   8:
-    arabic: لَهُمۡ
+    arabic: لَهُم
     translation: for themselves
     transliteration: lahum
   9:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: from
     transliteration: min
   10:
-    arabic: دُوۡنِ
+    arabic: دُونِ
     translation: besides
     transliteration: dūni
   11:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   12:
-    arabic: اَنۡصَارًا‏
+    arabic: أَنصَارٗا
     translation: any helpers
     transliteration: anṣāran
 ---

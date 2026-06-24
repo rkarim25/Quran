@@ -1,5 +1,5 @@
 ---
-arabic_ayat: لَا يَسۡمَعُوۡنَ فِيۡهَا لَغۡوًا وَّلَا تَاۡثِيۡمًا ۙ‏
+arabic_ayat: لَا يَسۡمَعُونَ فِيهَا لَغۡوٗا وَلَا تَأۡثِيمًا
 sentence_translation: There they will never hear any idle or sinful talk—
 word_by_word:
   1:
@@ -7,23 +7,23 @@ word_by_word:
     translation: Not
     transliteration: lā
   2:
-    arabic: يَسۡمَعُوۡنَ
+    arabic: يَسۡمَعُونَ
     translation: they will hear
     transliteration: yasmaʿūna
   3:
-    arabic: فِيۡهَا
+    arabic: فِيهَا
     translation: therein
     transliteration: fīhā
   4:
-    arabic: لَغۡوًا
+    arabic: لَغۡوٗا
     translation: vain talk
     transliteration: laghwan
   5:
-    arabic: وَّلَا
+    arabic: وَلَا
     translation: and not
     transliteration: walā
   6:
-    arabic: تَاۡثِيۡمًا ۙ‏
+    arabic: تَأۡثِيمًا
     translation: sinful (speech)
     transliteration: tathīman
 ---

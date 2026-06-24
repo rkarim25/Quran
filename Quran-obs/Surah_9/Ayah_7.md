@@ -1,7 +1,7 @@
 ---
-arabic_ayat: كَيۡفَ يَكُوۡنُ لِلۡمُشۡرِكِيۡنَ عَهۡدٌ عِنۡدَ اللّٰهِ وَعِنۡدَ رَسُوۡلِهٖۤ
-  اِلَّا الَّذِيۡنَ عَاهَدتُّمۡ عِنۡدَ الۡمَسۡجِدِ الۡحَـرَامِ​ ۚ فَمَا اسۡتَقَامُوۡا
-  لَـكُمۡ فَاسۡتَقِيۡمُوۡا لَهُمۡ​ ؕ اِنَّ اللّٰهَ يُحِبُّ الۡمُتَّقِيۡنَ‏
+arabic_ayat: كَيۡفَ يَكُونُ لِلۡمُشۡرِكِينَ عَهۡدٌ عِندَ ٱللَّهِ وَعِندَ رَسُولِهِۦٓ
+  إِلَّا ٱلَّذِينَ عَٰهَدتُّمۡ عِندَ ٱلۡمَسۡجِدِ ٱلۡحَرَامِۖ فَمَا ٱسۡتَقَٰمُواْ لَكُمۡ
+  فَٱسۡتَقِيمُواْ لَهُمۡۚ إِنَّ ٱللَّهَ يُحِبُّ ٱلۡمُتَّقِينَ
 sentence_translation: How can such polytheists have a treaty with Allah and His Messenger,
   except those you have made a treaty with at the Sacred Mosque? So, as long as they
   are true to you, be true to them. Indeed Allah loves those who are mindful ˹of Him˺.
@@ -11,11 +11,11 @@ word_by_word:
     translation: How
     transliteration: kayfa
   2:
-    arabic: يَكُوۡنُ
+    arabic: يَكُونُ
     translation: can (there) be
     transliteration: yakūnu
   3:
-    arabic: لِلۡمُشۡرِكِيۡنَ
+    arabic: لِلۡمُشۡرِكِينَ
     translation: for the polytheists
     transliteration: lil'mush'rikīna
   4:
@@ -23,43 +23,43 @@ word_by_word:
     translation: a covenant
     transliteration: ʿahdun
   5:
-    arabic: عِنۡدَ
+    arabic: عِندَ
     translation: with
     transliteration: ʿinda
   6:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   7:
-    arabic: وَعِنۡدَ
+    arabic: وَعِندَ
     translation: and with
     transliteration: waʿinda
   8:
-    arabic: رَسُوۡلِهٖۤ
+    arabic: رَسُولِهِۦٓ
     translation: His Messenger
     transliteration: rasūlihi
   9:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   10:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those (with) whom
     transliteration: alladhīna
   11:
-    arabic: عَاهَدتُّمۡ
+    arabic: عَٰهَدتُّمۡ
     translation: you made a covenant
     transliteration: ʿāhadttum
   12:
-    arabic: عِنۡدَ
+    arabic: عِندَ
     translation: near
     transliteration: ʿinda
   13:
-    arabic: الۡمَسۡجِدِ
+    arabic: ٱلۡمَسۡجِدِ
     translation: Al-Masjid
     transliteration: l-masjidi
   14:
-    arabic: الۡحَـرَامِ​ ۚ
+    arabic: ٱلۡحَرَامِۖ
     translation: Al-Haraam
     transliteration: l-ḥarāmi
   15:
@@ -67,27 +67,27 @@ word_by_word:
     translation: So long as
     transliteration: famā
   16:
-    arabic: اسۡتَقَامُوۡا
+    arabic: ٱسۡتَقَٰمُواْ
     translation: they are upright
     transliteration: is'taqāmū
   17:
-    arabic: لَـكُمۡ
+    arabic: لَكُمۡ
     translation: to you
     transliteration: lakum
   18:
-    arabic: فَاسۡتَقِيۡمُوۡا
+    arabic: فَٱسۡتَقِيمُواْ
     translation: then you be upright
     transliteration: fa-is'taqīmū
   19:
-    arabic: لَهُمۡ​ ؕ
+    arabic: لَهُمۡۚ
     translation: to them
     transliteration: lahum
   20:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   21:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   22:
@@ -95,7 +95,7 @@ word_by_word:
     translation: loves
     transliteration: yuḥibbu
   23:
-    arabic: الۡمُتَّقِيۡنَ‏
+    arabic: ٱلۡمُتَّقِينَ
     translation: the righteous
     transliteration: l-mutaqīna
 ---

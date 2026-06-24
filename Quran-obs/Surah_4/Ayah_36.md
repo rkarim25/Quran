@@ -1,19 +1,19 @@
 ---
-arabic_ayat: وَاعۡبُدُوا اللّٰهَ وَلَا تُشۡرِكُوۡا بِهٖ شَيۡــًٔـا​ ؕ وَّبِالۡوَالِدَيۡنِ
-  اِحۡسَانًا وَّبِذِى الۡقُرۡبٰى وَالۡيَتٰمٰى وَ الۡمَسٰكِيۡنِ وَالۡجَـارِ ذِى الۡقُرۡبٰى
-  وَالۡجَـارِ الۡجُـنُبِ وَالصَّاحِبِ بِالۡجَـنۡۢبِ وَابۡنِ السَّبِيۡلِ ۙ وَمَا مَلَـكَتۡ
-  اَيۡمَانُكُمۡ​ ؕ اِنَّ اللّٰهَ لَا يُحِبُّ مَنۡ كَانَ مُخۡتَالًا فَخُوۡرَا ۙ‏
+arabic_ayat: ۞ وَٱعۡبُدُواْ ٱللَّهَ وَلَا تُشۡرِكُواْ بِهِۦ شَيۡـٔٗاۖ وَبِٱلۡوَٰلِدَيۡنِ
+  إِحۡسَٰنٗا وَبِذِي ٱلۡقُرۡبَىٰ وَٱلۡيَتَٰمَىٰ وَٱلۡمَسَٰكِينِ وَٱلۡجَارِ ذِي ٱلۡقُرۡبَىٰ
+  وَٱلۡجَارِ ٱلۡجُنُبِ وَٱلصَّاحِبِ بِٱلۡجَنۢبِ وَٱبۡنِ ٱلسَّبِيلِ وَمَا مَلَكَتۡ
+  أَيۡمَٰنُكُمۡۗ إِنَّ ٱللَّهَ لَا يُحِبُّ مَن كَانَ مُخۡتَالٗا فَخُورًا
 sentence_translation: Worship Allah ˹alone˺ and associate none with Him. And be kind
   to parents, relatives, orphans, the poor, near and distant neighbours, close friends,
   ˹needy˺ travellers, and those ˹bondspeople˺ in your possession. Surely Allah does
   not like whoever is arrogant, boastful—
 word_by_word:
   1:
-    arabic: ۞ وَاعۡبُدُوا
+    arabic: ۞ وَٱعۡبُدُواْ
     translation: And worship
     transliteration: wa-uʿ'budū
   2:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   3:
@@ -21,75 +21,75 @@ word_by_word:
     translation: And (do) not
     transliteration: walā
   4:
-    arabic: تُشۡرِكُوۡا
+    arabic: تُشۡرِكُواْ
     translation: associate
     transliteration: tush'rikū
   5:
-    arabic: بِهٖ
+    arabic: بِهِۦ
     translation: with Him
     transliteration: bihi
   6:
-    arabic: شَيۡــًٔـا​ ؕ
+    arabic: شَيۡـٔٗاۖ
     translation: anything
     transliteration: shayan
   7:
-    arabic: وَّبِالۡوَالِدَيۡنِ
+    arabic: وَبِٱلۡوَٰلِدَيۡنِ
     translation: and to the parents
     transliteration: wabil-wālidayni
   8:
-    arabic: اِحۡسَانًا
+    arabic: إِحۡسَٰنٗا
     translation: (do) good
     transliteration: iḥ'sānan
   9:
-    arabic: وَّبِذِى
+    arabic: وَبِذِي
     translation: and with
     transliteration: wabidhī
   10:
-    arabic: الۡقُرۡبٰى
+    arabic: ٱلۡقُرۡبَىٰ
     translation: the relatives
     transliteration: l-qur'bā
   11:
-    arabic: وَالۡيَتٰمٰى
+    arabic: وَٱلۡيَتَٰمَىٰ
     translation: and the orphans
     transliteration: wal-yatāmā
   12:
-    arabic: وَ الۡمَسٰكِيۡنِ
+    arabic: وَٱلۡمَسَٰكِينِ
     translation: and the needy
     transliteration: wal-masākīni
   13:
-    arabic: وَالۡجَـارِ
+    arabic: وَٱلۡجَارِ
     translation: and the neighbor
     transliteration: wal-jāri
   14:
-    arabic: ذِى
+    arabic: ذِي
     translation: (who is)
     transliteration: dhī
   15:
-    arabic: الۡقُرۡبٰى
+    arabic: ٱلۡقُرۡبَىٰ
     translation: near
     transliteration: l-qur'bā
   16:
-    arabic: وَالۡجَـارِ
+    arabic: وَٱلۡجَارِ
     translation: and the neighbor
     transliteration: wal-jāri
   17:
-    arabic: الۡجُـنُبِ
+    arabic: ٱلۡجُنُبِ
     translation: (who is) farther away
     transliteration: l-junubi
   18:
-    arabic: وَالصَّاحِبِ
+    arabic: وَٱلصَّاحِبِ
     translation: and the companion
     transliteration: wal-ṣāḥibi
   19:
-    arabic: بِالۡجَـنۡۢبِ
+    arabic: بِٱلۡجَنۢبِ
     translation: by your side
     transliteration: bil-janbi
   20:
-    arabic: وَابۡنِ
+    arabic: وَٱبۡنِ
     translation: and the
     transliteration: wa-ib'ni
   21:
-    arabic: السَّبِيۡلِ ۙ
+    arabic: ٱلسَّبِيلِ
     translation: traveler
     transliteration: l-sabīli
   22:
@@ -97,19 +97,19 @@ word_by_word:
     translation: and what
     transliteration: wamā
   23:
-    arabic: مَلَـكَتۡ
+    arabic: مَلَكَتۡ
     translation: possess[ed]
     transliteration: malakat
   24:
-    arabic: اَيۡمَانُكُمۡ​ ؕ
+    arabic: أَيۡمَٰنُكُمۡۗ
     translation: your right hands
     transliteration: aymānukum
   25:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   26:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   27:
@@ -121,7 +121,7 @@ word_by_word:
     translation: love
     transliteration: yuḥibbu
   29:
-    arabic: مَنۡ
+    arabic: مَن
     translation: (the one) who
     transliteration: man
   30:
@@ -129,11 +129,11 @@ word_by_word:
     translation: is
     transliteration: kāna
   31:
-    arabic: مُخۡتَالًا
+    arabic: مُخۡتَالٗا
     translation: '[a] proud'
     transliteration: mukh'tālan
   32:
-    arabic: فَخُوۡرَا ۙ‏
+    arabic: فَخُورًا
     translation: (and) [a] boastful
     transliteration: fakhūran
 ---

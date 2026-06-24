@@ -1,31 +1,31 @@
 ---
-arabic_ayat: يٰۤاَبَتِ اِنِّىۡۤ اَخَافُ اَنۡ يَّمَسَّكَ عَذَابٌ مِّنَ الرَّحۡمٰنِ
-  فَتَكُوۡنَ لِلشَّيۡطٰنِ وَلِيًّا‏
+arabic_ayat: يَٰٓأَبَتِ إِنِّيٓ أَخَافُ أَن يَمَسَّكَ عَذَابٞ مِّنَ ٱلرَّحۡمَٰنِ فَتَكُونَ
+  لِلشَّيۡطَٰنِ وَلِيّٗا
 sentence_translation: O  dear father! I truly fear that you will be touched by a torment
   from the Most Compassionate, and become Satan’s companion ˹in Hell˺.”
 word_by_word:
   1:
-    arabic: يٰۤاَبَتِ
+    arabic: يَٰٓأَبَتِ
     translation: O my father
     transliteration: yāabati
   2:
-    arabic: اِنِّىۡۤ
+    arabic: إِنِّيٓ
     translation: Indeed, I
     transliteration: innī
   3:
-    arabic: اَخَافُ
+    arabic: أَخَافُ
     translation: '[I] fear'
     transliteration: akhāfu
   4:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that
     transliteration: an
   5:
-    arabic: يَّمَسَّكَ
+    arabic: يَمَسَّكَ
     translation: will touch you
     transliteration: yamassaka
   6:
-    arabic: عَذَابٌ
+    arabic: عَذَابٞ
     translation: a punishment
     transliteration: ʿadhābun
   7:
@@ -33,19 +33,19 @@ word_by_word:
     translation: from
     transliteration: mina
   8:
-    arabic: الرَّحۡمٰنِ
+    arabic: ٱلرَّحۡمَٰنِ
     translation: the Most Gracious
     transliteration: l-raḥmāni
   9:
-    arabic: فَتَكُوۡنَ
+    arabic: فَتَكُونَ
     translation: so you would be
     transliteration: fatakūna
   10:
-    arabic: لِلشَّيۡطٰنِ
+    arabic: لِلشَّيۡطَٰنِ
     translation: to the Shaitaan
     transliteration: lilshayṭāni
   11:
-    arabic: وَلِيًّا‏
+    arabic: وَلِيّٗا
     translation: a friend
     transliteration: waliyyan
 ---

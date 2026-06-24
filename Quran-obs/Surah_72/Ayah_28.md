@@ -1,15 +1,15 @@
 ---
-arabic_ayat: لِّيَـعۡلَمَ اَنۡ قَدۡ اَبۡلَغُوۡا رِسٰلٰتِ رَبِّهِمۡ وَاَحَاطَ بِمَا
-  لَدَيۡهِمۡ وَاَحۡصٰى كُلَّ شَىۡءٍ عَدَدًا‏
+arabic_ayat: لِّيَعۡلَمَ أَن قَدۡ أَبۡلَغُواْ رِسَٰلَٰتِ رَبِّهِمۡ وَأَحَاطَ بِمَا
+  لَدَيۡهِمۡ وَأَحۡصَىٰ كُلَّ شَيۡءٍ عَدَدَۢا
 sentence_translation: to ensure that the messengers fully deliver the messages of
   their Lord—though He ˹already˺ knows all about them, and keeps account of everything.”
 word_by_word:
   1:
-    arabic: لِّيَـعۡلَمَ
+    arabic: لِّيَعۡلَمَ
     translation: That He may make evident
     transliteration: liyaʿlama
   2:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that
     transliteration: an
   3:
@@ -17,11 +17,11 @@ word_by_word:
     translation: indeed
     transliteration: qad
   4:
-    arabic: اَبۡلَغُوۡا
+    arabic: أَبۡلَغُواْ
     translation: they have conveyed
     transliteration: ablaghū
   5:
-    arabic: رِسٰلٰتِ
+    arabic: رِسَٰلَٰتِ
     translation: (the) Messages
     transliteration: risālāti
   6:
@@ -29,7 +29,7 @@ word_by_word:
     translation: (of) their Lord
     transliteration: rabbihim
   7:
-    arabic: وَاَحَاطَ
+    arabic: وَأَحَاطَ
     translation: and He has encompassed
     transliteration: wa-aḥāṭa
   8:
@@ -41,7 +41,7 @@ word_by_word:
     translation: (is) with them
     transliteration: ladayhim
   10:
-    arabic: وَاَحۡصٰى
+    arabic: وَأَحۡصَىٰ
     translation: and He takes account
     transliteration: wa-aḥṣā
   11:
@@ -49,11 +49,11 @@ word_by_word:
     translation: (of) all
     transliteration: kulla
   12:
-    arabic: شَىۡءٍ
+    arabic: شَيۡءٍ
     translation: things
     transliteration: shayin
   13:
-    arabic: عَدَدًا‏
+    arabic: عَدَدَۢا
     translation: (in) number
     transliteration: ʿadadan
 ---

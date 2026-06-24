@@ -1,12 +1,12 @@
 ---
-arabic_ayat: وَلِلّٰهِ مُلۡكُ السَّمٰوٰتِ وَالۡاَرۡضِ​ؕ يَغۡفِرُ لِمَنۡ يَّشَآءُ
-  وَيُعَذِّبُ مَنۡ يَّشَآءُ​ ؕ وَكَانَ اللّٰهُ غَفُوۡرًا رَّحِيۡمًا‏
+arabic_ayat: وَلِلَّهِ مُلۡكُ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِۚ يَغۡفِرُ لِمَن يَشَآءُ وَيُعَذِّبُ
+  مَن يَشَآءُۚ وَكَانَ ٱللَّهُ غَفُورٗا رَّحِيمٗا
 sentence_translation: To Allah ˹alone˺ belongs the kingdom of the heavens and the
   earth. He forgives whoever He wills, and punishes whoever He wills. And Allah is
   All-Forgiving, Most Merciful.
 word_by_word:
   1:
-    arabic: وَلِلّٰهِ
+    arabic: وَلِلَّهِ
     translation: And for Allah
     transliteration: walillahi
   2:
@@ -14,11 +14,11 @@ word_by_word:
     translation: (is the) kingdom
     transliteration: mul'ku
   3:
-    arabic: السَّمٰوٰتِ
+    arabic: ٱلسَّمَٰوَٰتِ
     translation: (of) the heavens
     transliteration: l-samāwāti
   4:
-    arabic: وَالۡاَرۡضِ​ؕ
+    arabic: وَٱلۡأَرۡضِۚ
     translation: and the earth
     transliteration: wal-arḍi
   5:
@@ -26,11 +26,11 @@ word_by_word:
     translation: He forgives
     transliteration: yaghfiru
   6:
-    arabic: لِمَنۡ
+    arabic: لِمَن
     translation: whom
     transliteration: liman
   7:
-    arabic: يَّشَآءُ
+    arabic: يَشَآءُ
     translation: He wills
     transliteration: yashāu
   8:
@@ -38,11 +38,11 @@ word_by_word:
     translation: and punishes
     transliteration: wayuʿadhibu
   9:
-    arabic: مَنۡ
+    arabic: مَن
     translation: whom
     transliteration: man
   10:
-    arabic: يَّشَآءُ​ ؕ
+    arabic: يَشَآءُۚ
     translation: He wills
     transliteration: yashāu
   11:
@@ -50,15 +50,15 @@ word_by_word:
     translation: And is
     transliteration: wakāna
   12:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   13:
-    arabic: غَفُوۡرًا
+    arabic: غَفُورٗا
     translation: Oft-Forgiving
     transliteration: ghafūran
   14:
-    arabic: رَّحِيۡمًا‏
+    arabic: رَّحِيمٗا
     translation: Most Merciful
     transliteration: raḥīman
 ---

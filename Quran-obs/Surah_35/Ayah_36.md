@@ -1,17 +1,16 @@
 ---
-arabic_ayat: "وَالَّذِيۡنَ كَفَرُوۡا لَهُمۡ نَارُ جَهَنَّمَ​ۚ لَا يُقۡضٰى عَلَيۡهِمۡ\
-  \ فَيَمُوۡتُوۡا وَلَا يُخَفَّفُ عَنۡهُمۡ مِّنۡ عَذَابِهَا ؕ كَذٰلِكَ نَـجۡزِىۡ كُلَّ\
-  \ كَفُوۡرٍۚ‏ \uFEFF\uFEFF"
+arabic_ayat: وَٱلَّذِينَ كَفَرُواْ لَهُمۡ نَارُ جَهَنَّمَ لَا يُقۡضَىٰ عَلَيۡهِمۡ
+  فَيَمُوتُواْ وَلَا يُخَفَّفُ عَنۡهُم مِّنۡ عَذَابِهَاۚ كَذَٰلِكَ نَجۡزِي كُلَّ كَفُورٖ
 sentence_translation: As for the disbelievers, they will have the Fire of Hell, where
   they will not be ˹allowed to be˺ finished by death, nor will its torment be lightened
   for them. This is how We reward every ˹stubborn˺ disbeliever.
 word_by_word:
   1:
-    arabic: وَالَّذِيۡنَ
+    arabic: وَٱلَّذِينَ
     translation: And those who
     transliteration: wa-alladhīna
   2:
-    arabic: كَفَرُوۡا
+    arabic: كَفَرُواْ
     translation: disbelieve
     transliteration: kafarū
   3:
@@ -23,7 +22,7 @@ word_by_word:
     translation: (will be the) Fire
     transliteration: nāru
   5:
-    arabic: جَهَنَّمَ​ۚ
+    arabic: جَهَنَّمَ
     translation: (of) Hell
     transliteration: jahannama
   6:
@@ -31,7 +30,7 @@ word_by_word:
     translation: Not
     transliteration: lā
   7:
-    arabic: يُقۡضٰى
+    arabic: يُقۡضَىٰ
     translation: is decreed
     transliteration: yuq'ḍā
   8:
@@ -39,7 +38,7 @@ word_by_word:
     translation: for them
     transliteration: ʿalayhim
   9:
-    arabic: فَيَمُوۡتُوۡا
+    arabic: فَيَمُوتُواْ
     translation: that they die
     transliteration: fayamūtū
   10:
@@ -51,7 +50,7 @@ word_by_word:
     translation: will be lightened
     transliteration: yukhaffafu
   12:
-    arabic: عَنۡهُمۡ
+    arabic: عَنۡهُم
     translation: for them
     transliteration: ʿanhum
   13:
@@ -59,15 +58,15 @@ word_by_word:
     translation: of
     transliteration: min
   14:
-    arabic: عَذَابِهَا ؕ
+    arabic: عَذَابِهَاۚ
     translation: its torment
     transliteration: ʿadhābihā
   15:
-    arabic: كَذٰلِكَ
+    arabic: كَذَٰلِكَ
     translation: Thus
     transliteration: kadhālika
   16:
-    arabic: نَـجۡزِىۡ
+    arabic: نَجۡزِي
     translation: We recompense
     transliteration: najzī
   17:
@@ -75,7 +74,7 @@ word_by_word:
     translation: every
     transliteration: kulla
   18:
-    arabic: "كَفُوۡرٍۚ‏ \uFEFF\uFEFF"
+    arabic: كَفُورٖ
     translation: ungrateful one
     transliteration: kafūrin
 ---

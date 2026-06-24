@@ -1,9 +1,9 @@
 ---
-arabic_ayat: وَالشَّيٰطِيۡنَ كُلَّ بَنَّآءٍ وَّغَوَّاصٍۙ‏
+arabic_ayat: وَٱلشَّيَٰطِينَ كُلَّ بَنَّآءٖ وَغَوَّاصٖ
 sentence_translation: And ˹We subjected to him˺ every builder and diver of the jinn,
 word_by_word:
   1:
-    arabic: وَالشَّيٰطِيۡنَ
+    arabic: وَٱلشَّيَٰطِينَ
     translation: And the devils
     transliteration: wal-shayāṭīna
   2:
@@ -11,11 +11,11 @@ word_by_word:
     translation: every
     transliteration: kulla
   3:
-    arabic: بَنَّآءٍ
+    arabic: بَنَّآءٖ
     translation: builder
     transliteration: bannāin
   4:
-    arabic: وَّغَوَّاصٍۙ‏
+    arabic: وَغَوَّاصٖ
     translation: and diver
     transliteration: waghawwāṣin
 ---

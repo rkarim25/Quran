@@ -1,14 +1,14 @@
 ---
-arabic_ayat: وَالَّذِيۡنَ اهۡتَدَوۡا زَادَهُمۡ هُدًى وَّاٰتٰٮهُمۡ تَقۡوٰٮهُمۡ‏
+arabic_ayat: وَٱلَّذِينَ ٱهۡتَدَوۡاْ زَادَهُمۡ هُدٗى وَءَاتَىٰهُمۡ تَقۡوَىٰهُمۡ
 sentence_translation: As for those who are ˹rightly˺ guided, He increases them in
   guidance and blesses them with righteousness.
 word_by_word:
   1:
-    arabic: وَالَّذِيۡنَ
+    arabic: وَٱلَّذِينَ
     translation: And those who
     transliteration: wa-alladhīna
   2:
-    arabic: اهۡتَدَوۡا
+    arabic: ٱهۡتَدَوۡاْ
     translation: accept guidance
     transliteration: ih'tadaw
   3:
@@ -16,15 +16,15 @@ word_by_word:
     translation: He increases them
     transliteration: zādahum
   4:
-    arabic: هُدًى
+    arabic: هُدٗى
     translation: (in) guidance
     transliteration: hudan
   5:
-    arabic: وَّاٰتٰٮهُمۡ
+    arabic: وَءَاتَىٰهُمۡ
     translation: and gives them
     transliteration: waātāhum
   6:
-    arabic: تَقۡوٰٮهُمۡ‏
+    arabic: تَقۡوَىٰهُمۡ
     translation: their righteousness
     transliteration: taqwāhum
 ---

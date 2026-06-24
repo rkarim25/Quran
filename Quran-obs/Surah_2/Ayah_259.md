@@ -1,11 +1,11 @@
 ---
-arabic_ayat: اَوۡ كَالَّذِىۡ مَرَّ عَلٰى قَرۡيَةٍ وَّ هِىَ خَاوِيَةٌ عَلٰى عُرُوۡشِهَا ​ۚ
-  قَالَ اَنّٰى يُحۡىٖ هٰذِهِ اللّٰهُ بَعۡدَ مَوۡتِهَا ​ۚ فَاَمَاتَهُ اللّٰهُ مِائَةَ
-  عَامٍ ثُمَّ بَعَثَهٗ ​ؕ قَالَ كَمۡ لَبِثۡتَ​ؕ قَالَ لَبِثۡتُ يَوۡمًا اَوۡ بَعۡضَ
-  يَوۡمٍ​ؕ قَالَ بَلۡ لَّبِثۡتَ مِائَةَ عَامٍ فَانۡظُرۡ اِلٰى طَعَامِكَ وَشَرَابِكَ
-  لَمۡ يَتَسَنَّهۡ​ۚ وَانْظُرۡ اِلٰى حِمَارِكَ وَلِنَجۡعَلَكَ اٰيَةً لِّلنَّاسِ​
-  وَانْظُرۡ اِلَى الۡعِظَامِ كَيۡفَ نُـنۡشِزُهَا ثُمَّ نَكۡسُوۡهَا لَحۡمًا ​ؕ فَلَمَّا
-  تَبَيَّنَ لَهٗ ۙ قَالَ اَعۡلَمُ اَنَّ اللّٰهَ عَلٰى كُلِّ شَىۡءٍ قَدِيۡرٌ‏
+arabic_ayat: أَوۡ كَٱلَّذِي مَرَّ عَلَىٰ قَرۡيَةٖ وَهِيَ خَاوِيَةٌ عَلَىٰ عُرُوشِهَا
+  قَالَ أَنَّىٰ يُحۡيِۦ هَٰذِهِ ٱللَّهُ بَعۡدَ مَوۡتِهَاۖ فَأَمَاتَهُ ٱللَّهُ مِاْئَةَ
+  عَامٖ ثُمَّ بَعَثَهُۥۖ قَالَ كَمۡ لَبِثۡتَۖ قَالَ لَبِثۡتُ يَوۡمًا أَوۡ بَعۡضَ يَوۡمٖۖ
+  قَالَ بَل لَّبِثۡتَ مِاْئَةَ عَامٖ فَٱنظُرۡ إِلَىٰ طَعَامِكَ وَشَرَابِكَ لَمۡ يَتَسَنَّهۡۖ
+  وَٱنظُرۡ إِلَىٰ حِمَارِكَ وَلِنَجۡعَلَكَ ءَايَةٗ لِّلنَّاسِۖ وَٱنظُرۡ إِلَى ٱلۡعِظَامِ
+  كَيۡفَ نُنشِزُهَا ثُمَّ نَكۡسُوهَا لَحۡمٗاۚ فَلَمَّا تَبَيَّنَ لَهُۥ قَالَ أَعۡلَمُ
+  أَنَّ ٱللَّهَ عَلَىٰ كُلِّ شَيۡءٖ قَدِيرٞ
 sentence_translation: Or ˹are you not aware of˺ the one who passed by a city which
   was in ruins. He wondered, “How could Allah bring this back to life after its destruction?”
   So Allah caused him to die for a hundred years then brought him back to life. Allah
@@ -18,11 +18,11 @@ sentence_translation: Or ˹are you not aware of˺ the one who passed by a city w
   of everything.”
 word_by_word:
   1:
-    arabic: اَوۡ
+    arabic: أَوۡ
     translation: Or
     transliteration: aw
   2:
-    arabic: كَالَّذِىۡ
+    arabic: كَٱلَّذِي
     translation: like the one who
     transliteration: ka-alladhī
   3:
@@ -30,15 +30,15 @@ word_by_word:
     translation: passed
     transliteration: marra
   4:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: by
     transliteration: ʿalā
   5:
-    arabic: قَرۡيَةٍ
+    arabic: قَرۡيَةٖ
     translation: a township
     transliteration: qaryatin
   6:
-    arabic: وَّ هِىَ
+    arabic: وَهِيَ
     translation: and it
     transliteration: wahiya
   7:
@@ -46,11 +46,11 @@ word_by_word:
     translation: (had) overturned
     transliteration: khāwiyatun
   8:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: 'on'
     transliteration: ʿalā
   9:
-    arabic: عُرُوۡشِهَا ​ۚ
+    arabic: عُرُوشِهَا
     translation: its roofs
     transliteration: ʿurūshihā
   10:
@@ -58,19 +58,19 @@ word_by_word:
     translation: He said
     transliteration: qāla
   11:
-    arabic: اَنّٰى
+    arabic: أَنَّىٰ
     translation: How
     transliteration: annā
   12:
-    arabic: يُحۡىٖ
+    arabic: يُحۡيِۦ
     translation: (will) bring to life
     transliteration: yuḥ'yī
   13:
-    arabic: هٰذِهِ
+    arabic: هَٰذِهِ
     translation: this (town)
     transliteration: hādhihi
   14:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   15:
@@ -78,23 +78,23 @@ word_by_word:
     translation: after
     transliteration: baʿda
   16:
-    arabic: مَوۡتِهَا ​ۚ
+    arabic: مَوۡتِهَاۖ
     translation: its death
     transliteration: mawtihā
   17:
-    arabic: فَاَمَاتَهُ
+    arabic: فَأَمَاتَهُ
     translation: Then he was made to die
     transliteration: fa-amātahu
   18:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: (by) Allah
     transliteration: l-lahu
   19:
-    arabic: مِائَةَ
+    arabic: مِاْئَةَ
     translation: (for) a hundred
     transliteration: mi-ata
   20:
-    arabic: عَامٍ
+    arabic: عَامٖ
     translation: year(s)
     transliteration: ʿāmin
   21:
@@ -102,7 +102,7 @@ word_by_word:
     translation: then
     transliteration: thumma
   22:
-    arabic: بَعَثَهٗ ​ؕ
+    arabic: بَعَثَهُۥۖ
     translation: He raised him
     transliteration: baʿathahu
   23:
@@ -114,7 +114,7 @@ word_by_word:
     translation: How long
     transliteration: kam
   25:
-    arabic: لَبِثۡتَ​ؕ
+    arabic: لَبِثۡتَۖ
     translation: (have) you remained
     transliteration: labith'ta
   26:
@@ -130,7 +130,7 @@ word_by_word:
     translation: (for) a day
     transliteration: yawman
   29:
-    arabic: اَوۡ
+    arabic: أَوۡ
     translation: or
     transliteration: aw
   30:
@@ -138,7 +138,7 @@ word_by_word:
     translation: a part
     transliteration: baʿḍa
   31:
-    arabic: يَوۡمٍ​ؕ
+    arabic: يَوۡمٖۖ
     translation: (of) a day
     transliteration: yawmin
   32:
@@ -146,7 +146,7 @@ word_by_word:
     translation: He said
     transliteration: qāla
   33:
-    arabic: بَلۡ
+    arabic: بَل
     translation: Nay
     transliteration: bal
   34:
@@ -154,19 +154,19 @@ word_by_word:
     translation: you (have) remained
     transliteration: labith'ta
   35:
-    arabic: مِائَةَ
+    arabic: مِاْئَةَ
     translation: one hundred
     transliteration: mi-ata
   36:
-    arabic: عَامٍ
+    arabic: عَامٖ
     translation: year(s)
     transliteration: ʿāmin
   37:
-    arabic: فَانۡظُرۡ
+    arabic: فَٱنظُرۡ
     translation: Then look
     transliteration: fa-unẓur
   38:
-    arabic: اِلٰى
+    arabic: إِلَىٰ
     translation: at
     transliteration: ilā
   39:
@@ -182,43 +182,43 @@ word_by_word:
     translation: (they did) not
     transliteration: lam
   42:
-    arabic: يَتَسَنَّهۡ​ۚ
+    arabic: يَتَسَنَّهۡۖ
     translation: change with time
     transliteration: yatasannah
   43:
-    arabic: وَانْظُرۡ
+    arabic: وَٱنظُرۡ
     translation: and look
     transliteration: wa-unẓur
   44:
-    arabic: اِلٰى
+    arabic: إِلَىٰ
     translation: at
     transliteration: ilā
   45:
-    arabic: حِمَارِكَ
+    arabic: حِمَارِكَ
     translation: your donkey
     transliteration: ḥimārika
   46:
-    arabic: وَلِنَجۡعَلَكَ
+    arabic: وَلِنَجۡعَلَكَ ءَ
     translation: and We will make you
     transliteration: walinajʿalaka
   47:
-    arabic: اٰيَةً
+    arabic: ايَةٗ
     translation: a sign
     transliteration: āyatan
   48:
-    arabic: لِّلنَّاسِ​
+    arabic: لِّلنَّاسِۖ
     translation: for the people
     transliteration: lilnnāsi
   49:
-    arabic: وَانْظُرۡ
+    arabic: وَٱنظُرۡ
     translation: And look
     transliteration: wa-unẓur
   50:
-    arabic: اِلَى
+    arabic: إِلَى
     translation: at
     transliteration: ilā
   51:
-    arabic: الۡعِظَامِ
+    arabic: ٱلۡعِظَامِ
     translation: the bones
     transliteration: l-ʿiẓāmi
   52:
@@ -226,7 +226,7 @@ word_by_word:
     translation: how
     transliteration: kayfa
   53:
-    arabic: نُـنۡشِزُهَا
+    arabic: نُنشِزُهَا
     translation: We raise them
     transliteration: nunshizuhā
   54:
@@ -234,11 +234,11 @@ word_by_word:
     translation: then
     transliteration: thumma
   55:
-    arabic: نَكۡسُوۡهَا
+    arabic: نَكۡسُوهَا
     translation: We cover them
     transliteration: naksūhā
   56:
-    arabic: لَحۡمًا ​ؕ
+    arabic: لَحۡمٗاۚ
     translation: (with) flesh
     transliteration: laḥman
   57:
@@ -250,7 +250,7 @@ word_by_word:
     translation: became clear
     transliteration: tabayyana
   59:
-    arabic: لَهٗ ۙ
+    arabic: لَهُۥ
     translation: to him
     transliteration: lahu
   60:
@@ -258,19 +258,19 @@ word_by_word:
     translation: he said
     transliteration: qāla
   61:
-    arabic: اَعۡلَمُ
+    arabic: أَعۡلَمُ
     translation: I know
     transliteration: aʿlamu
   62:
-    arabic: اَنَّ
+    arabic: أَنَّ
     translation: that
     transliteration: anna
   63:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   64:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: (is) on
     transliteration: ʿalā
   65:
@@ -278,11 +278,11 @@ word_by_word:
     translation: every
     transliteration: kulli
   66:
-    arabic: شَىۡءٍ
+    arabic: شَيۡءٖ
     translation: thing
     transliteration: shayin
   67:
-    arabic: قَدِيۡرٌ‏
+    arabic: قَدِيرٞ
     translation: All-Powerful
     transliteration: qadīrun
 ---

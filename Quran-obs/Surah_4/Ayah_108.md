@@ -1,13 +1,13 @@
 ---
-arabic_ayat: يَّسۡتَخۡفُوۡنَ مِنَ النَّاسِ وَلَا يَسۡتَخۡفُوۡنَ مِنَ اللّٰهِ وَهُوَ
-  مَعَهُمۡ اِذۡ يُبَيِّتُوۡنَ مَا لَا يَرۡضٰى مِنَ الۡقَوۡلِ​ؕ وَكَانَ اللّٰهُ بِمَا
-  يَعۡمَلُوۡنَ مُحِيۡطًا‏
+arabic_ayat: يَسۡتَخۡفُونَ مِنَ ٱلنَّاسِ وَلَا يَسۡتَخۡفُونَ مِنَ ٱللَّهِ وَهُوَ مَعَهُمۡ
+  إِذۡ يُبَيِّتُونَ مَا لَا يَرۡضَىٰ مِنَ ٱلۡقَوۡلِۚ وَكَانَ ٱللَّهُ بِمَا يَعۡمَلُونَ
+  مُحِيطًا
 sentence_translation: They try to hide ˹their deception˺ from people, but they can
   never hide it from Allah—in Whose presence they plot by night what is displeasing
   to Him. And Allah is Fully Aware of what they do.
 word_by_word:
   1:
-    arabic: يَّسۡتَخۡفُوۡنَ
+    arabic: يَسۡتَخۡفُونَ
     translation: They seek to hide
     transliteration: yastakhfūna
   2:
@@ -15,7 +15,7 @@ word_by_word:
     translation: from
     transliteration: mina
   3:
-    arabic: النَّاسِ
+    arabic: ٱلنَّاسِ
     translation: the people
     transliteration: l-nāsi
   4:
@@ -23,7 +23,7 @@ word_by_word:
     translation: but not
     transliteration: walā
   5:
-    arabic: يَسۡتَخۡفُوۡنَ
+    arabic: يَسۡتَخۡفُونَ
     translation: (can) they hide
     transliteration: yastakhfūna
   6:
@@ -31,7 +31,7 @@ word_by_word:
     translation: from
     transliteration: mina
   7:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   8:
@@ -43,11 +43,11 @@ word_by_word:
     translation: (is) with them
     transliteration: maʿahum
   10:
-    arabic: اِذۡ
+    arabic: إِذۡ
     translation: when
     transliteration: idh
   11:
-    arabic: يُبَيِّتُوۡنَ
+    arabic: يُبَيِّتُونَ
     translation: they plot by night
     transliteration: yubayyitūna
   12:
@@ -59,7 +59,7 @@ word_by_word:
     translation: not
     transliteration: lā
   14:
-    arabic: يَرۡضٰى
+    arabic: يَرۡضَىٰ
     translation: (does) he approve
     transliteration: yarḍā
   15:
@@ -67,7 +67,7 @@ word_by_word:
     translation: of
     transliteration: mina
   16:
-    arabic: الۡقَوۡلِ​ؕ
+    arabic: ٱلۡقَوۡلِۚ
     translation: the word
     transliteration: l-qawli
   17:
@@ -75,7 +75,7 @@ word_by_word:
     translation: And is
     transliteration: wakāna
   18:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   19:
@@ -83,11 +83,11 @@ word_by_word:
     translation: of what
     transliteration: bimā
   20:
-    arabic: يَعۡمَلُوۡنَ
+    arabic: يَعۡمَلُونَ
     translation: 'they do '
     transliteration: yaʿmalūna
   21:
-    arabic: مُحِيۡطًا‏
+    arabic: مُحِيطًا
     translation: All-Encompassing
     transliteration: muḥīṭan
 ---

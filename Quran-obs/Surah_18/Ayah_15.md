@@ -1,13 +1,13 @@
 ---
-arabic_ayat: هٰٓؤُلَاۤءِ قَوۡمُنَا اتَّخَذُوۡا مِنۡ دُوۡنِهٖۤ اٰلِهَةً​ ؕ لَوۡ لَا
-  يَاۡتُوۡنَ عَلَيۡهِمۡ بِسُلۡطٰنٍۢ بَيِّنٍ​ ؕ فَمَنۡ اَظۡلَمُ مِمَّنِ افۡتَـرٰى عَلَى
-  اللّٰهِ كَذِبًا ؕ‏
+arabic_ayat: هَٰٓؤُلَآءِ قَوۡمُنَا ٱتَّخَذُواْ مِن دُونِهِۦٓ ءَالِهَةٗۖ لَّوۡلَا
+  يَأۡتُونَ عَلَيۡهِم بِسُلۡطَٰنِۭ بَيِّنٖۖ فَمَنۡ أَظۡلَمُ مِمَّنِ ٱفۡتَرَىٰ عَلَى
+  ٱللَّهِ كَذِبٗا
 sentence_translation: ˹Then they said to one another,˺ “These people of ours have
   taken gods besides Him. Why do they not produce a clear proof of them? Who then
   does more wrong than those who fabricate lies against Allah?
 word_by_word:
   1:
-    arabic: هٰٓؤُلَاۤءِ
+    arabic: هَٰٓؤُلَآءِ
     translation: These
     transliteration: hāulāi
   2:
@@ -15,39 +15,39 @@ word_by_word:
     translation: our people
     transliteration: qawmunā
   3:
-    arabic: اتَّخَذُوۡا
+    arabic: ٱتَّخَذُواْ
     translation: have taken
     transliteration: ittakhadhū
   4:
-    arabic: مِنۡ
+    arabic: مِن
     translation: besides Him
     transliteration: min
   5:
-    arabic: دُوۡنِهٖۤ
+    arabic: دُونِهِۦٓ ءَ
     translation: besides Him
     transliteration: dūnihi
   6:
-    arabic: اٰلِهَةً​ ؕ
+    arabic: الِهَةٗۖ
     translation: gods
     transliteration: ālihatan
   7:
-    arabic: لَوۡ لَا
+    arabic: لَّوۡلَا
     translation: Why not
     transliteration: lawlā
   8:
-    arabic: يَاۡتُوۡنَ
+    arabic: يَأۡتُونَ
     translation: they come
     transliteration: yatūna
   9:
-    arabic: عَلَيۡهِمۡ
+    arabic: عَلَيۡهِم
     translation: to them
     transliteration: ʿalayhim
   10:
-    arabic: بِسُلۡطٰنٍۢ
+    arabic: بِسُلۡطَٰنِۭ
     translation: with an authority
     transliteration: bisul'ṭānin
   11:
-    arabic: بَيِّنٍ​ ؕ
+    arabic: بَيِّنٖۖ
     translation: clear
     transliteration: bayyinin
   12:
@@ -55,7 +55,7 @@ word_by_word:
     translation: And who
     transliteration: faman
   13:
-    arabic: اَظۡلَمُ
+    arabic: أَظۡلَمُ
     translation: (is) more wrong
     transliteration: aẓlamu
   14:
@@ -63,7 +63,7 @@ word_by_word:
     translation: than (one) who
     transliteration: mimmani
   15:
-    arabic: افۡتَـرٰى
+    arabic: ٱفۡتَرَىٰ
     translation: invents
     transliteration: if'tarā
   16:
@@ -71,11 +71,11 @@ word_by_word:
     translation: against
     transliteration: ʿalā
   17:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   18:
-    arabic: كَذِبًا ؕ‏
+    arabic: كَذِبٗا
     translation: a lie
     transliteration: kadhiban
 ---

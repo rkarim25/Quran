@@ -1,9 +1,9 @@
 ---
-arabic_ayat: فِىۡ جَنَّةٍ عَالِيَةٍۙ‏
+arabic_ayat: فِي جَنَّةٍ عَالِيَةٖ
 sentence_translation: in an elevated Garden,
 word_by_word:
   1:
-    arabic: فِىۡ
+    arabic: فِي
     translation: In
     transliteration: fī
   2:
@@ -11,7 +11,7 @@ word_by_word:
     translation: a Garden
     transliteration: jannatin
   3:
-    arabic: عَالِيَةٍۙ‏
+    arabic: عَالِيَةٖ
     translation: elevated
     transliteration: ʿāliyatin
 ---

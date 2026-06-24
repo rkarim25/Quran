@@ -1,25 +1,25 @@
 ---
-arabic_ayat: "وَاِنۡ کُنۡتُمۡ فِىۡ رَيۡبٍ مِّمَّا نَزَّلۡنَا عَلٰى عَبۡدِنَا فَاۡتُوۡا\
-  \ بِسُوۡرَةٍ مِّنۡ مِّثۡلِهٖ وَادۡعُوۡا شُهَدَآءَكُمۡ مِّنۡ دُوۡنِ اللّٰهِ اِنۡ\
-  \ كُنۡتُمۡ صٰدِقِيۡنَ‏ \uFEFF\uFEFF"
+arabic_ayat: وَإِن كُنتُمۡ فِي رَيۡبٖ مِّمَّا نَزَّلۡنَا عَلَىٰ عَبۡدِنَا فَأۡتُواْ
+  بِسُورَةٖ مِّن مِّثۡلِهِۦ وَٱدۡعُواْ شُهَدَآءَكُم مِّن دُونِ ٱللَّهِ إِن كُنتُمۡ
+  صَٰدِقِينَ
 sentence_translation: And if you are in doubt about what We have revealed to Our servant, then
   produce a sûrah like it and call your helpers other than Allah, if what you say
   is true.
 word_by_word:
   1:
-    arabic: وَاِنۡ
+    arabic: وَإِن
     translation: And if
     transliteration: wa-in
   2:
-    arabic: کُنۡتُمۡ
+    arabic: كُنتُمۡ
     translation: you are
     transliteration: kuntum
   3:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   4:
-    arabic: رَيۡبٍ
+    arabic: رَيۡبٖ
     translation: doubt
     transliteration: raybin
   5:
@@ -31,7 +31,7 @@ word_by_word:
     translation: We have revealed
     transliteration: nazzalnā
   7:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: to
     transliteration: ʿalā
   8:
@@ -39,51 +39,51 @@ word_by_word:
     translation: Our slave
     transliteration: ʿabdinā
   9:
-    arabic: فَاۡتُوۡا
+    arabic: فَأۡتُواْ
     translation: then produce
     transliteration: fatū
   10:
-    arabic: بِسُوۡرَةٍ
+    arabic: بِسُورَةٖ
     translation: a chapter
     transliteration: bisūratin
   11:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: '[of]'
     transliteration: min
   12:
-    arabic: مِّثۡلِهٖ
+    arabic: مِّثۡلِهِۦ
     translation: like it
     transliteration: mith'lihi
   13:
-    arabic: وَادۡعُوۡا
+    arabic: وَٱدۡعُواْ
     translation: and call
     transliteration: wa-id'ʿū
   14:
-    arabic: شُهَدَآءَكُمۡ
+    arabic: شُهَدَآءَكُم
     translation: your witnesses
     transliteration: shuhadāakum
   15:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: from
     transliteration: min
   16:
-    arabic: دُوۡنِ
+    arabic: دُونِ
     translation: other than
     transliteration: dūni
   17:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   18:
-    arabic: اِنۡ
+    arabic: إِن
     translation: if
     transliteration: in
   19:
-    arabic: كُنۡتُمۡ
+    arabic: كُنتُمۡ
     translation: you are
     transliteration: kuntum
   20:
-    arabic: "صٰدِقِيۡنَ‏ \uFEFF\uFEFF"
+    arabic: صَٰدِقِينَ
     translation: truthful
     transliteration: ṣādiqīna
 ---

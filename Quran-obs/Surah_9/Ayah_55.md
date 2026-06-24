@@ -1,7 +1,7 @@
 ---
-arabic_ayat: "فَلَا تُعۡجِبۡكَ اَمۡوَالُهُمۡ وَلَاۤ اَوۡلَادُهُمۡ​ؕ اِنَّمَا يُرِيۡدُ\
-  \ اللّٰهُ لِيُعَذِّبَهُمۡ بِهَا فِى الۡحَيٰوةِ الدُّنۡيَا وَتَزۡهَقَ اَنۡفُسُهُمۡ\
-  \ وَهُمۡ كٰفِرُوۡنَ‏ \uFEFF\uFEFF"
+arabic_ayat: فَلَا تُعۡجِبۡكَ أَمۡوَٰلُهُمۡ وَلَآ أَوۡلَٰدُهُمۡۚ إِنَّمَا يُرِيدُ
+  ٱللَّهُ لِيُعَذِّبَهُم بِهَا فِي ٱلۡحَيَوٰةِ ٱلدُّنۡيَا وَتَزۡهَقَ أَنفُسُهُمۡ وَهُمۡ
+  كَٰفِرُونَ
 sentence_translation: So let neither their wealth nor children impress you ˹O Prophet˺.
   Allah only intends to torment them through these things in this worldly life, then
   their souls will depart while they are disbelievers.
@@ -15,31 +15,31 @@ word_by_word:
     translation: impress you
     transliteration: tuʿ'jib'ka
   3:
-    arabic: اَمۡوَالُهُمۡ
+    arabic: أَمۡوَٰلُهُمۡ
     translation: their wealth
     transliteration: amwāluhum
   4:
-    arabic: وَلَاۤ
+    arabic: وَلَآ
     translation: and not
     transliteration: walā
   5:
-    arabic: اَوۡلَادُهُمۡ​ؕ
+    arabic: أَوۡلَٰدُهُمۡۚ
     translation: their children
     transliteration: awlāduhum
   6:
-    arabic: اِنَّمَا
+    arabic: إِنَّمَا
     translation: Only
     transliteration: innamā
   7:
-    arabic: يُرِيۡدُ
+    arabic: يُرِيدُ
     translation: Allah intends
     transliteration: yurīdu
   8:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah intends
     transliteration: l-lahu
   9:
-    arabic: لِيُعَذِّبَهُمۡ
+    arabic: لِيُعَذِّبَهُم
     translation: to punish them
     transliteration: liyuʿadhibahum
   10:
@@ -47,15 +47,15 @@ word_by_word:
     translation: with it
     transliteration: bihā
   11:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   12:
-    arabic: الۡحَيٰوةِ
+    arabic: ٱلۡحَيَوٰةِ
     translation: the life
     transliteration: l-ḥayati
   13:
-    arabic: الدُّنۡيَا
+    arabic: ٱلدُّنۡيَا
     translation: (of) the world
     transliteration: l-dun'yā
   14:
@@ -63,7 +63,7 @@ word_by_word:
     translation: and should depart
     transliteration: watazhaqa
   15:
-    arabic: اَنۡفُسُهُمۡ
+    arabic: أَنفُسُهُمۡ
     translation: their souls
     transliteration: anfusuhum
   16:
@@ -71,7 +71,7 @@ word_by_word:
     translation: while they
     transliteration: wahum
   17:
-    arabic: "كٰفِرُوۡنَ‏ \uFEFF\uFEFF"
+    arabic: كَٰفِرُونَ
     translation: (are) disbelievers
     transliteration: kāfirūna
 ---

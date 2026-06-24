@@ -1,5 +1,5 @@
 ---
-arabic_ayat: لَا يَغُرَّنَّكَ تَقَلُّبُ الَّذِيۡنَ كَفَرُوۡا فِى الۡبِلَادِؕ‏
+arabic_ayat: لَا يَغُرَّنَّكَ تَقَلُّبُ ٱلَّذِينَ كَفَرُواْ فِي ٱلۡبِلَٰدِ
 sentence_translation: Do not be deceived by the prosperity of the disbelievers throughout
   the land.
 word_by_word:
@@ -16,19 +16,19 @@ word_by_word:
     translation: (the) movement
     transliteration: taqallubu
   4:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: (of) those who
     transliteration: alladhīna
   5:
-    arabic: كَفَرُوۡا
+    arabic: كَفَرُواْ
     translation: disbelieved
     transliteration: kafarū
   6:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   7:
-    arabic: الۡبِلَادِؕ‏
+    arabic: ٱلۡبِلَٰدِ
     translation: the land
     transliteration: l-bilādi
 ---

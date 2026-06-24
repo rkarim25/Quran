@@ -1,13 +1,13 @@
 ---
-arabic_ayat: فَالزّٰجِرٰتِ زَجۡرًا ۙ‏
+arabic_ayat: فَٱلزَّٰجِرَٰتِ زَجۡرٗا
 sentence_translation: and those who diligently drive ˹the clouds˺,
 word_by_word:
   1:
-    arabic: فَالزّٰجِرٰتِ
+    arabic: فَٱلزَّٰجِرَٰتِ
     translation: And those who drive
     transliteration: fal-zājirāti
   2:
-    arabic: زَجۡرًا ۙ‏
+    arabic: زَجۡرٗا
     translation: strongly
     transliteration: zajran
 ---

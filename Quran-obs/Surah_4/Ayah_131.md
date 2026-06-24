@@ -1,8 +1,8 @@
 ---
-arabic_ayat: وَلِلّٰهِ مَا فِى السَّمٰوٰتِ وَمَا فِى الۡاَرۡضِ ​ؕ وَلَـقَدۡ وَصَّيۡنَا
-  الَّذِيۡنَ اُوۡتُوا الۡكِتٰبَ مِنۡ قَبۡلِكُمۡ وَاِيَّاكُمۡ اَنِ اتَّقُوا اللّٰهَ​
-  ؕ وَاِنۡ تَكۡفُرُوۡا فَاِنَّ لِلّٰهِ مَا فِى السَّمٰوٰتِ وَمَا فِى الۡاَرۡضِ​ؕ وَكَانَ
-  اللّٰهُ غَنِيًّا حَمِيۡدًا‏
+arabic_ayat: وَلِلَّهِ مَا فِي ٱلسَّمَٰوَٰتِ وَمَا فِي ٱلۡأَرۡضِۗ وَلَقَدۡ وَصَّيۡنَا
+  ٱلَّذِينَ أُوتُواْ ٱلۡكِتَٰبَ مِن قَبۡلِكُمۡ وَإِيَّاكُمۡ أَنِ ٱتَّقُواْ ٱللَّهَۚ
+  وَإِن تَكۡفُرُواْ فَإِنَّ لِلَّهِ مَا فِي ٱلسَّمَٰوَٰتِ وَمَا فِي ٱلۡأَرۡضِۚ وَكَانَ
+  ٱللَّهُ غَنِيًّا حَمِيدٗا
 sentence_translation: To Allah ˹alone˺ belongs whatever is in the heavens and whatever
   is on the earth. Indeed, We have commanded those given the Scripture before you,
   as well as you, to be mindful of Allah. But if you disobey, then ˹know that˺ to
@@ -10,7 +10,7 @@ sentence_translation: To Allah ˹alone˺ belongs whatever is in the heavens and 
   Praiseworthy.
 word_by_word:
   1:
-    arabic: وَلِلّٰهِ
+    arabic: وَلِلَّهِ
     translation: And for Allah
     transliteration: walillahi
   2:
@@ -18,11 +18,11 @@ word_by_word:
     translation: (is) whatever
     transliteration: mā
   3:
-    arabic: فِى
+    arabic: فِي
     translation: (is) in
     transliteration: fī
   4:
-    arabic: السَّمٰوٰتِ
+    arabic: ٱلسَّمَٰوَٰتِ
     translation: the heavens
     transliteration: l-samāwāti
   5:
@@ -30,15 +30,15 @@ word_by_word:
     translation: and whatever
     transliteration: wamā
   6:
-    arabic: فِى
+    arabic: فِي
     translation: (is) in
     transliteration: fī
   7:
-    arabic: الۡاَرۡضِ ​ؕ
+    arabic: ٱلۡأَرۡضِۗ
     translation: the earth
     transliteration: l-arḍi
   8:
-    arabic: وَلَـقَدۡ
+    arabic: وَلَقَدۡ
     translation: And surely
     transliteration: walaqad
   9:
@@ -46,19 +46,19 @@ word_by_word:
     translation: We have instructed
     transliteration: waṣṣaynā
   10:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   11:
-    arabic: اُوۡتُوا
+    arabic: أُوتُواْ
     translation: were given
     transliteration: ūtū
   12:
-    arabic: الۡكِتٰبَ
+    arabic: ٱلۡكِتَٰبَ
     translation: the Book
     transliteration: l-kitāba
   13:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   14:
@@ -66,35 +66,35 @@ word_by_word:
     translation: before you
     transliteration: qablikum
   15:
-    arabic: وَاِيَّاكُمۡ
+    arabic: وَإِيَّاكُمۡ
     translation: and yourselves
     transliteration: wa-iyyākum
   16:
-    arabic: اَنِ
+    arabic: أَنِ
     translation: that
     transliteration: ani
   17:
-    arabic: اتَّقُوا
+    arabic: ٱتَّقُواْ
     translation: you fear
     transliteration: ittaqū
   18:
-    arabic: اللّٰهَ​ ؕ
+    arabic: ٱللَّهَۚ
     translation: Allah
     transliteration: l-laha
   19:
-    arabic: وَاِنۡ
+    arabic: وَإِن
     translation: But if
     transliteration: wa-in
   20:
-    arabic: تَكۡفُرُوۡا
+    arabic: تَكۡفُرُواْ
     translation: 'you disbelieve '
     transliteration: takfurū
   21:
-    arabic: فَاِنَّ
+    arabic: فَإِنَّ
     translation: then indeed
     transliteration: fa-inna
   22:
-    arabic: لِلّٰهِ
+    arabic: لِلَّهِ
     translation: for Allah
     transliteration: lillahi
   23:
@@ -102,11 +102,11 @@ word_by_word:
     translation: (is) whatever
     transliteration: mā
   24:
-    arabic: فِى
+    arabic: فِي
     translation: (is) in
     transliteration: fī
   25:
-    arabic: السَّمٰوٰتِ
+    arabic: ٱلسَّمَٰوَٰتِ
     translation: the heavens
     transliteration: l-samāwāti
   26:
@@ -114,11 +114,11 @@ word_by_word:
     translation: and whatever
     transliteration: wamā
   27:
-    arabic: فِى
+    arabic: فِي
     translation: (is) in
     transliteration: fī
   28:
-    arabic: الۡاَرۡضِ​ؕ
+    arabic: ٱلۡأَرۡضِۚ
     translation: the earth
     transliteration: l-arḍi
   29:
@@ -126,7 +126,7 @@ word_by_word:
     translation: And is
     transliteration: wakāna
   30:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   31:
@@ -134,7 +134,7 @@ word_by_word:
     translation: Free of need
     transliteration: ghaniyyan
   32:
-    arabic: حَمِيۡدًا‏
+    arabic: حَمِيدٗا
     translation: Praiseworthy
     transliteration: ḥamīdan
 ---

@@ -1,23 +1,23 @@
 ---
-arabic_ayat: فَاِذَا اسۡتَوَيۡتَ اَنۡتَ وَمَنۡ مَّعَكَ عَلَى الۡـفُلۡكِ فَقُلِ الۡحَمۡدُ
-  لِلّٰهِ الَّذِىۡ نَجّٰٮنَا مِنَ الۡقَوۡمِ الظّٰلِمِيۡنَ‏
+arabic_ayat: فَإِذَا ٱسۡتَوَيۡتَ أَنتَ وَمَن مَّعَكَ عَلَى ٱلۡفُلۡكِ فَقُلِ ٱلۡحَمۡدُ
+  لِلَّهِ ٱلَّذِي نَجَّىٰنَا مِنَ ٱلۡقَوۡمِ ٱلظَّٰلِمِينَ
 sentence_translation: Then when you and those with you have settled in the Ark, say,
   “All praise is for Allah, Who saved us from the wrongdoing people.”
 word_by_word:
   1:
-    arabic: فَاِذَا
+    arabic: فَإِذَا
     translation: And when
     transliteration: fa-idhā
   2:
-    arabic: اسۡتَوَيۡتَ
+    arabic: ٱسۡتَوَيۡتَ
     translation: you (have) boarded
     transliteration: is'tawayta
   3:
-    arabic: اَنۡتَ
+    arabic: أَنتَ
     translation: you
     transliteration: anta
   4:
-    arabic: وَمَنۡ
+    arabic: وَمَن
     translation: and whoever
     transliteration: waman
   5:
@@ -29,7 +29,7 @@ word_by_word:
     translation: '[on]'
     transliteration: ʿalā
   7:
-    arabic: الۡـفُلۡكِ
+    arabic: ٱلۡفُلۡكِ
     translation: the ship
     transliteration: l-ful'ki
   8:
@@ -37,19 +37,19 @@ word_by_word:
     translation: then say
     transliteration: faquli
   9:
-    arabic: الۡحَمۡدُ
+    arabic: ٱلۡحَمۡدُ
     translation: Praise
     transliteration: l-ḥamdu
   10:
-    arabic: لِلّٰهِ
+    arabic: لِلَّهِ
     translation: (be) to Allah
     transliteration: lillahi
   11:
-    arabic: الَّذِىۡ
+    arabic: ٱلَّذِي
     translation: Who
     transliteration: alladhī
   12:
-    arabic: نَجّٰٮنَا
+    arabic: نَجَّىٰنَا
     translation: (has) saved us
     transliteration: najjānā
   13:
@@ -57,11 +57,11 @@ word_by_word:
     translation: from
     transliteration: mina
   14:
-    arabic: الۡقَوۡمِ
+    arabic: ٱلۡقَوۡمِ
     translation: 'the people '
     transliteration: l-qawmi
   15:
-    arabic: الظّٰلِمِيۡنَ‏
+    arabic: ٱلظَّٰلِمِينَ
     translation: the wrongdoers
     transliteration: l-ẓālimīna
 ---

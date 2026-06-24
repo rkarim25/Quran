@@ -1,35 +1,35 @@
 ---
-arabic_ayat: اِنَّاۤ اَرۡسَلۡنَا نُوۡحًا اِلٰى قَوۡمِهٖۤ اَنۡ اَنۡذِرۡ قَوۡمَكَ مِنۡ
-  قَبۡلِ اَنۡ يَّاۡتِيَهُمۡ عَذَابٌ اَلِيۡمٌ‏
+arabic_ayat: إِنَّآ أَرۡسَلۡنَا نُوحًا إِلَىٰ قَوۡمِهِۦٓ أَنۡ أَنذِرۡ قَوۡمَكَ مِن
+  قَبۡلِ أَن يَأۡتِيَهُمۡ عَذَابٌ أَلِيمٞ
 sentence_translation: Indeed, We sent Noah to his people ˹saying to him˺, “Warn your
   people before a painful punishment comes to them.”
 word_by_word:
   1:
-    arabic: اِنَّاۤ
+    arabic: إِنَّآ
     translation: Indeed, We
     transliteration: innā
   2:
-    arabic: اَرۡسَلۡنَا
+    arabic: أَرۡسَلۡنَا
     translation: '[We] sent'
     transliteration: arsalnā
   3:
-    arabic: نُوۡحًا
+    arabic: نُوحًا
     translation: Nuh
     transliteration: nūḥan
   4:
-    arabic: اِلٰى
+    arabic: إِلَىٰ
     translation: to
     transliteration: ilā
   5:
-    arabic: قَوۡمِهٖۤ
+    arabic: قَوۡمِهِۦٓ
     translation: his people
     transliteration: qawmihi
   6:
-    arabic: اَنۡ
+    arabic: أَنۡ
     translation: that
     transliteration: an
   7:
-    arabic: اَنۡذِرۡ
+    arabic: أَنذِرۡ
     translation: Warn
     transliteration: andhir
   8:
@@ -37,7 +37,7 @@ word_by_word:
     translation: your people
     transliteration: qawmaka
   9:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   10:
@@ -45,11 +45,11 @@ word_by_word:
     translation: before
     transliteration: qabli
   11:
-    arabic: اَنۡ
+    arabic: أَن
     translation: '[that]'
     transliteration: an
   12:
-    arabic: يَّاۡتِيَهُمۡ
+    arabic: يَأۡتِيَهُمۡ
     translation: comes to them
     transliteration: yatiyahum
   13:
@@ -57,7 +57,7 @@ word_by_word:
     translation: a punishment
     transliteration: ʿadhābun
   14:
-    arabic: اَلِيۡمٌ‏
+    arabic: أَلِيمٞ
     translation: painful
     transliteration: alīmun
 ---

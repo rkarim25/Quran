@@ -1,9 +1,9 @@
 ---
-arabic_ayat: وَالۡعَصۡرِۙ‏
+arabic_ayat: وَٱلۡعَصۡرِ
 sentence_translation: By the ˹passage of˺ time!
 word_by_word:
   1:
-    arabic: وَالۡعَصۡرِۙ‏
+    arabic: وَٱلۡعَصۡرِ
     translation: By the time
     transliteration: wal-ʿaṣri
 ---

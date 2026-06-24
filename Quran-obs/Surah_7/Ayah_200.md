@@ -1,15 +1,15 @@
 ---
-arabic_ayat: وَاِمَّا يَنۡزَغَـنَّكَ مِنَ الشَّيۡطٰنِ نَزۡغٌ فَاسۡتَعِذۡ بِاللّٰهِ​ؕ
-  اِنَّهٗ سَمِيۡعٌ عَلِيۡمٌ‏
+arabic_ayat: وَإِمَّا يَنزَغَنَّكَ مِنَ ٱلشَّيۡطَٰنِ نَزۡغٞ فَٱسۡتَعِذۡ بِٱللَّهِۚ
+  إِنَّهُۥ سَمِيعٌ عَلِيمٌ
 sentence_translation: If you are tempted by Satan, then seek refuge with Allah. Surely
   He is All-Hearing, All-Knowing.
 word_by_word:
   1:
-    arabic: وَاِمَّا
+    arabic: وَإِمَّا
     translation: And if
     transliteration: wa-immā
   2:
-    arabic: يَنۡزَغَـنَّكَ
+    arabic: يَنزَغَنَّكَ
     translation: an evil suggestion comes to you
     transliteration: yanzaghannaka
   3:
@@ -17,31 +17,31 @@ word_by_word:
     translation: from
     transliteration: mina
   4:
-    arabic: الشَّيۡطٰنِ
+    arabic: ٱلشَّيۡطَٰنِ
     translation: '[the] Shaitaan'
     transliteration: l-shayṭāni
   5:
-    arabic: نَزۡغٌ
+    arabic: نَزۡغٞ
     translation: '[an evil suggestion]'
     transliteration: nazghun
   6:
-    arabic: فَاسۡتَعِذۡ
+    arabic: فَٱسۡتَعِذۡ
     translation: then seek refuge
     transliteration: fa-is'taʿidh
   7:
-    arabic: بِاللّٰهِ​ؕ
+    arabic: بِٱللَّهِۚ
     translation: in Allah
     transliteration: bil-lahi
   8:
-    arabic: اِنَّهٗ
+    arabic: إِنَّهُۥ
     translation: Indeed, He
     transliteration: innahu
   9:
-    arabic: سَمِيۡعٌ
+    arabic: سَمِيعٌ
     translation: (is) All-Hearing
     transliteration: samīʿun
   10:
-    arabic: عَلِيۡمٌ‏
+    arabic: عَلِيمٌ
     translation: All-Knowing
     transliteration: ʿalīmun
 ---

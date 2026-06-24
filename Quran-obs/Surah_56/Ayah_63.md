@@ -1,9 +1,9 @@
 ---
-arabic_ayat: اَفَرَءَيۡتُمۡ مَّا تَحۡرُثُوۡنَؕ‏
+arabic_ayat: أَفَرَءَيۡتُم مَّا تَحۡرُثُونَ
 sentence_translation: Have you considered what you sow?
 word_by_word:
   1:
-    arabic: اَفَرَءَيۡتُمۡ
+    arabic: أَفَرَءَيۡتُم
     translation: And do you see
     transliteration: afara-aytum
   2:
@@ -11,7 +11,7 @@ word_by_word:
     translation: what
     transliteration: mā
   3:
-    arabic: تَحۡرُثُوۡنَؕ‏
+    arabic: تَحۡرُثُونَ
     translation: you sow
     transliteration: taḥruthūna
 ---

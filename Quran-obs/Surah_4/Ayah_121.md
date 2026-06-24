@@ -1,18 +1,18 @@
 ---
-arabic_ayat: اُولٰٓٮِٕكَ مَاۡوٰٮهُمۡ جَهَـنَّمُ وَلَا يَجِدُوۡنَ عَنۡهَا مَحِيۡصًا‏
+arabic_ayat: أُوْلَٰٓئِكَ مَأۡوَىٰهُمۡ جَهَنَّمُ وَلَا يَجِدُونَ عَنۡهَا مَحِيصٗا
 sentence_translation: It is they who will have Hell as their home, and they will find
   no escape from it!
 word_by_word:
   1:
-    arabic: اُولٰٓٮِٕكَ
+    arabic: أُوْلَٰٓئِكَ
     translation: 'Those '
     transliteration: ulāika
   2:
-    arabic: مَاۡوٰٮهُمۡ
+    arabic: مَأۡوَىٰهُمۡ
     translation: their abode
     transliteration: mawāhum
   3:
-    arabic: جَهَـنَّمُ
+    arabic: جَهَنَّمُ
     translation: (is) Hell
     transliteration: jahannamu
   4:
@@ -20,7 +20,7 @@ word_by_word:
     translation: and not
     transliteration: walā
   5:
-    arabic: يَجِدُوۡنَ
+    arabic: يَجِدُونَ
     translation: they will find
     transliteration: yajidūna
   6:
@@ -28,7 +28,7 @@ word_by_word:
     translation: from it
     transliteration: ʿanhā
   7:
-    arabic: مَحِيۡصًا‏
+    arabic: مَحِيصٗا
     translation: any escape
     transliteration: maḥīṣan
 ---

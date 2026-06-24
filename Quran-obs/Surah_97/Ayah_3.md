@@ -1,5 +1,5 @@
 ---
-arabic_ayat: لَيۡلَةُ الۡقَدۡرِ  ۙ خَيۡرٌ مِّنۡ اَلۡفِ شَهۡرٍؕ‏
+arabic_ayat: لَيۡلَةُ ٱلۡقَدۡرِ خَيۡرٞ مِّنۡ أَلۡفِ شَهۡرٖ
 sentence_translation: The Night of Glory is better than a thousand months.
 word_by_word:
   1:
@@ -7,11 +7,11 @@ word_by_word:
     translation: (The) Night
     transliteration: laylatu
   2:
-    arabic: الۡقَدۡرِ  ۙ
+    arabic: ٱلۡقَدۡرِ
     translation: (of) Power
     transliteration: l-qadri
   3:
-    arabic: خَيۡرٌ
+    arabic: خَيۡرٞ
     translation: (is) better
     transliteration: khayrun
   4:
@@ -19,11 +19,11 @@ word_by_word:
     translation: than
     transliteration: min
   5:
-    arabic: اَلۡفِ
+    arabic: أَلۡفِ
     translation: a thousand
     transliteration: alfi
   6:
-    arabic: شَهۡرٍؕ‏
+    arabic: شَهۡرٖ
     translation: month(s)
     transliteration: shahrin
 ---

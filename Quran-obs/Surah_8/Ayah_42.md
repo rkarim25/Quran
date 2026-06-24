@@ -1,9 +1,8 @@
 ---
-arabic_ayat: اِذۡ اَنۡتُمۡ بِالۡعُدۡوَةِ الدُّنۡيَا وَهُمۡ بِالۡعُدۡوَةِ الۡقُصۡوٰى
-  وَ الرَّكۡبُ اَسۡفَلَ مِنۡكُمۡ​ؕ وَلَوۡ تَوَاعَدْتُّمۡ لَاخۡتَلَفۡتُمۡ فِى الۡمِيۡعٰدِ​ۙ
-  وَلٰـكِنۡ لِّيَقۡضِىَ اللّٰهُ اَمۡرًا كَانَ مَفۡعُوۡلًا ۙ لِّيَهۡلِكَ مَنۡ هَلَكَ
-  عَنۡۢ بَيِّنَةٍ وَّيَحۡيٰى مَنۡ حَىَّ عَنۡۢ بَيِّنَةٍ​ ؕ وَاِنَّ اللّٰهَ لَسَمِيۡعٌ
-  عَلِيۡمٌۙ‏
+arabic_ayat: إِذۡ أَنتُم بِٱلۡعُدۡوَةِ ٱلدُّنۡيَا وَهُم بِٱلۡعُدۡوَةِ ٱلۡقُصۡوَىٰ
+  وَٱلرَّكۡبُ أَسۡفَلَ مِنكُمۡۚ وَلَوۡ تَوَاعَدتُّمۡ لَٱخۡتَلَفۡتُمۡ فِي ٱلۡمِيعَٰدِ
+  وَلَٰكِن لِّيَقۡضِيَ ٱللَّهُ أَمۡرٗا كَانَ مَفۡعُولٗا لِّيَهۡلِكَ مَنۡ هَلَكَ عَنۢ
+  بَيِّنَةٖ وَيَحۡيَىٰ مَنۡ حَيَّ عَنۢ بَيِّنَةٖۗ وَإِنَّ ٱللَّهَ لَسَمِيعٌ عَلِيمٌ
 sentence_translation: ˹Remember˺ when you were on the near side of the valley, your
   enemy on the far side, and the caravan was below you. Even if the two armies had
   made an appointment ˹to meet˺, both would have certainly missed it. Still it transpired
@@ -12,43 +11,43 @@ sentence_translation: ˹Remember˺ when you were on the near side of the valley,
   Allah is All-Hearing, All-Knowing.
 word_by_word:
   1:
-    arabic: اِذۡ
+    arabic: إِذۡ
     translation: When
     transliteration: idh
   2:
-    arabic: اَنۡتُمۡ
+    arabic: أَنتُم
     translation: you (were)
     transliteration: antum
   3:
-    arabic: بِالۡعُدۡوَةِ
+    arabic: بِٱلۡعُدۡوَةِ
     translation: on side of the valley
     transliteration: bil-ʿud'wati
   4:
-    arabic: الدُّنۡيَا
+    arabic: ٱلدُّنۡيَا
     translation: the nearer
     transliteration: l-dun'yā
   5:
-    arabic: وَهُمۡ
+    arabic: وَهُم
     translation: and they
     transliteration: wahum
   6:
-    arabic: بِالۡعُدۡوَةِ
+    arabic: بِٱلۡعُدۡوَةِ
     translation: (were) on the side
     transliteration: bil-ʿud'wati
   7:
-    arabic: الۡقُصۡوٰى
+    arabic: ٱلۡقُصۡوَىٰ
     translation: the farther
     transliteration: l-quṣ'wā
   8:
-    arabic: وَ الرَّكۡبُ
+    arabic: وَٱلرَّكۡبُ
     translation: and the caravan
     transliteration: wal-rakbu
   9:
-    arabic: اَسۡفَلَ
+    arabic: أَسۡفَلَ
     translation: (was) lower
     transliteration: asfala
   10:
-    arabic: مِنۡكُمۡ​ؕ
+    arabic: مِنكُمۡۚ
     translation: than you
     transliteration: minkum
   11:
@@ -56,35 +55,35 @@ word_by_word:
     translation: And if
     transliteration: walaw
   12:
-    arabic: تَوَاعَدْتُّمۡ
+    arabic: تَوَاعَدتُّمۡ
     translation: you (had) made an appointment
     transliteration: tawāʿadttum
   13:
-    arabic: لَاخۡتَلَفۡتُمۡ
+    arabic: لَٱخۡتَلَفۡتُمۡ
     translation: certainly you would have failed
     transliteration: la-ikh'talaftum
   14:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   15:
-    arabic: الۡمِيۡعٰدِ​ۙ
+    arabic: ٱلۡمِيعَٰدِ
     translation: the appointment
     transliteration: l-mīʿādi
   16:
-    arabic: وَلٰـكِنۡ
+    arabic: وَلَٰكِن
     translation: But
     transliteration: walākin
   17:
-    arabic: لِّيَقۡضِىَ
+    arabic: لِّيَقۡضِيَ
     translation: that might accomplish
     transliteration: liyaqḍiya
   18:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   19:
-    arabic: اَمۡرًا
+    arabic: أَمۡرٗا
     translation: a matter
     transliteration: amran
   20:
@@ -92,7 +91,7 @@ word_by_word:
     translation: (that) was
     transliteration: kāna
   21:
-    arabic: مَفۡعُوۡلًا ۙ
+    arabic: مَفۡعُولٗا
     translation: destined
     transliteration: mafʿūlan
   22:
@@ -108,15 +107,15 @@ word_by_word:
     translation: (were to be) destroyed
     transliteration: halaka
   25:
-    arabic: عَنۡۢ
+    arabic: عَنۢ
     translation: 'on'
     transliteration: ʿan
   26:
-    arabic: بَيِّنَةٍ
+    arabic: بَيِّنَةٖ
     translation: a clear evidence
     transliteration: bayyinatin
   27:
-    arabic: وَّيَحۡيٰى
+    arabic: وَيَحۡيَىٰ
     translation: and (might) live
     transliteration: wayaḥyā
   28:
@@ -124,31 +123,31 @@ word_by_word:
     translation: (those) who
     transliteration: man
   29:
-    arabic: حَىَّ
+    arabic: حَيَّ
     translation: (were to) live
     transliteration: ḥayya
   30:
-    arabic: عَنۡۢ
+    arabic: عَنۢ
     translation: 'on'
     transliteration: ʿan
   31:
-    arabic: بَيِّنَةٍ​ ؕ
+    arabic: بَيِّنَةٖۗ
     translation: a clear evidence
     transliteration: bayyinatin
   32:
-    arabic: وَاِنَّ
+    arabic: وَإِنَّ
     translation: And indeed
     transliteration: wa-inna
   33:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   34:
-    arabic: لَسَمِيۡعٌ
+    arabic: لَسَمِيعٌ
     translation: (is) All-Hearing
     transliteration: lasamīʿun
   35:
-    arabic: عَلِيۡمٌۙ‏
+    arabic: عَلِيمٌ
     translation: All-Knowing
     transliteration: ʿalīmun
 ---

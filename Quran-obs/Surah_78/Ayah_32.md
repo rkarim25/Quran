@@ -1,13 +1,13 @@
 ---
-arabic_ayat: حَدَآٮِٕقَ وَاَعۡنَابًا ۙ‏
+arabic_ayat: حَدَآئِقَ وَأَعۡنَٰبٗا
 sentence_translation: Gardens, vineyards,
 word_by_word:
   1:
-    arabic: حَدَآٮِٕقَ
+    arabic: حَدَآئِقَ
     translation: Gardens
     transliteration: ḥadāiqa
   2:
-    arabic: وَاَعۡنَابًا ۙ‏
+    arabic: وَأَعۡنَٰبٗا
     translation: and grapevines
     transliteration: wa-aʿnāban
 ---

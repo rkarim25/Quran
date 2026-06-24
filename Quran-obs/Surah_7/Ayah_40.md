@@ -1,29 +1,29 @@
 ---
-arabic_ayat: اِنَّ الَّذِيۡنَ كَذَّبُوۡا بِاٰيٰتِنَا وَاسۡتَكۡبَرُوۡا عَنۡهَا لَا
-  تُفَتَّحُ لَهُمۡ اَبۡوَابُ السَّمَآءِ وَلَا يَدۡخُلُوۡنَ الۡجَـنَّةَ حَتّٰى يَلِجَ
-  الۡجَمَلُ فِىۡ سَمِّ الۡخِيَاطِ​ ؕ وَكَذٰلِكَ نَجۡزِى الۡمُجۡرِمِيۡنَ‏
+arabic_ayat: إِنَّ ٱلَّذِينَ كَذَّبُواْ بِـَٔايَٰتِنَا وَٱسۡتَكۡبَرُواْ عَنۡهَا لَا
+  تُفَتَّحُ لَهُمۡ أَبۡوَٰبُ ٱلسَّمَآءِ وَلَا يَدۡخُلُونَ ٱلۡجَنَّةَ حَتَّىٰ يَلِجَ
+  ٱلۡجَمَلُ فِي سَمِّ ٱلۡخِيَاطِۚ وَكَذَٰلِكَ نَجۡزِي ٱلۡمُجۡرِمِينَ
 sentence_translation: Surely those who receive our revelations with denial and arrogance,
   the gates of heaven will not be opened for them, nor will they enter Paradise until
   a camel passes through the eye of a needle. This is how We reward the wicked.
 word_by_word:
   1:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   3:
-    arabic: كَذَّبُوۡا
+    arabic: كَذَّبُواْ
     translation: denied
     transliteration: kadhabū
   4:
-    arabic: بِاٰيٰتِنَا
+    arabic: بِـَٔايَٰتِنَا
     translation: Our Verses
     transliteration: biāyātinā
   5:
-    arabic: وَاسۡتَكۡبَرُوۡا
+    arabic: وَٱسۡتَكۡبَرُواْ
     translation: and (were) arrogant
     transliteration: wa-is'takbarū
   6:
@@ -43,11 +43,11 @@ word_by_word:
     translation: for them
     transliteration: lahum
   10:
-    arabic: اَبۡوَابُ
+    arabic: أَبۡوَٰبُ
     translation: (the) doors
     transliteration: abwābu
   11:
-    arabic: السَّمَآءِ
+    arabic: ٱلسَّمَآءِ
     translation: (of) the heaven
     transliteration: l-samāi
   12:
@@ -55,15 +55,15 @@ word_by_word:
     translation: and not
     transliteration: walā
   13:
-    arabic: يَدۡخُلُوۡنَ
+    arabic: يَدۡخُلُونَ
     translation: they will enter
     transliteration: yadkhulūna
   14:
-    arabic: الۡجَـنَّةَ
+    arabic: ٱلۡجَنَّةَ
     translation: Paradise
     transliteration: l-janata
   15:
-    arabic: حَتّٰى
+    arabic: حَتَّىٰ
     translation: until
     transliteration: ḥattā
   16:
@@ -71,11 +71,11 @@ word_by_word:
     translation: passes
     transliteration: yalija
   17:
-    arabic: الۡجَمَلُ
+    arabic: ٱلۡجَمَلُ
     translation: the camel
     transliteration: l-jamalu
   18:
-    arabic: فِىۡ
+    arabic: فِي
     translation: through
     transliteration: fī
   19:
@@ -83,19 +83,19 @@ word_by_word:
     translation: (the) eye
     transliteration: sammi
   20:
-    arabic: الۡخِيَاطِ​ ؕ
+    arabic: ٱلۡخِيَاطِۚ
     translation: (of) the needle
     transliteration: l-khiyāṭi
   21:
-    arabic: وَكَذٰلِكَ
+    arabic: وَكَذَٰلِكَ
     translation: And thus
     transliteration: wakadhālika
   22:
-    arabic: نَجۡزِى
+    arabic: نَجۡزِي
     translation: We recompense
     transliteration: najzī
   23:
-    arabic: الۡمُجۡرِمِيۡنَ‏
+    arabic: ٱلۡمُجۡرِمِينَ
     translation: the criminals
     transliteration: l-muj'rimīna
 ---

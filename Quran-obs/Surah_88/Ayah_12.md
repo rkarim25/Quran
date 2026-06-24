@@ -1,17 +1,17 @@
 ---
-arabic_ayat: فِيۡهَا عَيۡنٌ جَارِيَةٌ​ ۘ‏
+arabic_ayat: فِيهَا عَيۡنٞ جَارِيَةٞ
 sentence_translation: In it will be a running spring,
 word_by_word:
   1:
-    arabic: فِيۡهَا
+    arabic: فِيهَا
     translation: Therein
     transliteration: fīhā
   2:
-    arabic: عَيۡنٌ
+    arabic: عَيۡنٞ
     translation: (will be) a spring
     transliteration: ʿaynun
   3:
-    arabic: جَارِيَةٌ​ ۘ‏
+    arabic: جَارِيَةٞ
     translation: flowing
     transliteration: jāriyatun
 ---

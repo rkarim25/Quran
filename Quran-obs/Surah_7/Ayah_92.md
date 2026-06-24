@@ -1,23 +1,23 @@
 ---
-arabic_ayat: الَّذِيۡنَ كَذَّبُوۡا شُعَيۡبًا كَاَنۡ لَّمۡ يَغۡنَوۡا فِيۡهَا​​ ۛۚ اَ
-  لَّذِيۡنَ كَذَّبُوۡا شُعَيۡبًا كَانُوۡا هُمُ الۡخٰسِرِيۡنَ​​‏
+arabic_ayat: ٱلَّذِينَ كَذَّبُواْ شُعَيۡبٗا كَأَن لَّمۡ يَغۡنَوۡاْ فِيهَاۚ ٱلَّذِينَ
+  كَذَّبُواْ شُعَيۡبٗا كَانُواْ هُمُ ٱلۡخَٰسِرِينَ
 sentence_translation: Those who rejected Shu’aib were ˹wiped out˺ as if they had never
   lived there. Those who rejected Shu’aib were the true losers.
 word_by_word:
   1:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: Those who
     transliteration: alladhīna
   2:
-    arabic: كَذَّبُوۡا
+    arabic: كَذَّبُواْ
     translation: denied
     transliteration: kadhabū
   3:
-    arabic: شُعَيۡبًا
+    arabic: شُعَيۡبٗا
     translation: Shuaib
     transliteration: shuʿayban
   4:
-    arabic: كَاَنۡ
+    arabic: كَأَن
     translation: (became) as if
     transliteration: ka-an
   5:
@@ -25,27 +25,27 @@ word_by_word:
     translation: not
     transliteration: lam
   6:
-    arabic: يَغۡنَوۡا
+    arabic: يَغۡنَوۡاْ
     translation: they (had) lived
     transliteration: yaghnaw
   7:
-    arabic: فِيۡهَا​​ ۛۚ
+    arabic: فِيهَاۚ
     translation: therein
     transliteration: fīhā
   8:
-    arabic: اَ لَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: Those who
     transliteration: alladhīna
   9:
-    arabic: كَذَّبُوۡا
+    arabic: كَذَّبُواْ
     translation: denied
     transliteration: kadhabū
   10:
-    arabic: شُعَيۡبًا
+    arabic: شُعَيۡبٗا
     translation: Shuaib
     transliteration: shuʿayban
   11:
-    arabic: كَانُوۡا
+    arabic: كَانُواْ
     translation: they were
     transliteration: kānū
   12:
@@ -53,7 +53,7 @@ word_by_word:
     translation: them
     transliteration: humu
   13:
-    arabic: الۡخٰسِرِيۡنَ​​‏
+    arabic: ٱلۡخَٰسِرِينَ
     translation: the losers
     transliteration: l-khāsirīna
 ---

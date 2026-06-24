@@ -1,7 +1,7 @@
 ---
-arabic_ayat: قَالَ لَنۡ اُرۡسِلَهٗ مَعَكُمۡ حَتّٰى تُؤۡتُوۡنِ مَوۡثِقًا مِّنَ اللّٰهِ
-  لَــتَاۡتُنَّنِىۡ بِهٖۤ اِلَّاۤ اَنۡ يُّحَاطَ بِكُمۡ​ۚ فَلَمَّاۤ اٰتَوۡهُ مَوۡثِقَهُمۡ
-  قَالَ اللّٰهُ عَلٰى مَا نَقُوۡلُ وَكِيۡلٌ‏
+arabic_ayat: قَالَ لَنۡ أُرۡسِلَهُۥ مَعَكُمۡ حَتَّىٰ تُؤۡتُونِ مَوۡثِقٗا مِّنَ ٱللَّهِ
+  لَتَأۡتُنَّنِي بِهِۦٓ إِلَّآ أَن يُحَاطَ بِكُمۡۖ فَلَمَّآ ءَاتَوۡهُ مَوۡثِقَهُمۡ
+  قَالَ ٱللَّهُ عَلَىٰ مَا نَقُولُ وَكِيلٞ
 sentence_translation: Jacob insisted, “I will not send him with you until you give
   me a solemn oath by Allah that you will certainly bring him back to me, unless you
   are totally overpowered.” Then after they had given him their oaths, he concluded,
@@ -16,7 +16,7 @@ word_by_word:
     translation: Never
     transliteration: lan
   3:
-    arabic: اُرۡسِلَهٗ
+    arabic: أُرۡسِلَهُۥ
     translation: will I send him
     transliteration: ur'silahu
   4:
@@ -24,15 +24,15 @@ word_by_word:
     translation: with you
     transliteration: maʿakum
   5:
-    arabic: حَتّٰى
+    arabic: حَتَّىٰ
     translation: until
     transliteration: ḥattā
   6:
-    arabic: تُؤۡتُوۡنِ
+    arabic: تُؤۡتُونِ
     translation: you give to me
     transliteration: tu'tūni
   7:
-    arabic: مَوۡثِقًا
+    arabic: مَوۡثِقٗا
     translation: a promise
     transliteration: mawthiqan
   8:
@@ -40,39 +40,39 @@ word_by_word:
     translation: by
     transliteration: mina
   9:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   10:
-    arabic: لَــتَاۡتُنَّنِىۡ
+    arabic: لَتَأۡتُنَّنِي
     translation: that surely you will bring him to me
     transliteration: latatunnanī
   11:
-    arabic: بِهٖۤ
+    arabic: بِهِۦٓ
     translation: that surely you will bring him to me
     transliteration: bihi
   12:
-    arabic: اِلَّاۤ
+    arabic: إِلَّآ
     translation: unless
     transliteration: illā
   13:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that
     transliteration: an
   14:
-    arabic: يُّحَاطَ
+    arabic: يُحَاطَ
     translation: you are surrounded
     transliteration: yuḥāṭa
   15:
-    arabic: بِكُمۡ​ۚ
+    arabic: بِكُمۡۖ
     translation: you are surrounded
     transliteration: bikum
   16:
-    arabic: فَلَمَّاۤ
+    arabic: فَلَمَّآ ءَ
     translation: And when
     transliteration: falammā
   17:
-    arabic: اٰتَوۡهُ
+    arabic: اتَوۡهُ
     translation: they had given him
     transliteration: ātawhu
   18:
@@ -84,11 +84,11 @@ word_by_word:
     translation: he said
     transliteration: qāla
   20:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   21:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: over
     transliteration: ʿalā
   22:
@@ -96,11 +96,11 @@ word_by_word:
     translation: what
     transliteration: mā
   23:
-    arabic: نَقُوۡلُ
+    arabic: نَقُولُ
     translation: we say
     transliteration: naqūlu
   24:
-    arabic: وَكِيۡلٌ‏
+    arabic: وَكِيلٞ
     translation: (is) a Guardian
     transliteration: wakīlun
 ---

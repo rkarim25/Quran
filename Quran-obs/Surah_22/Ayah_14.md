@@ -1,15 +1,15 @@
 ---
-arabic_ayat: اِنَّ اللّٰهَ يُدۡخِلُ الَّذِيۡنَ اٰمَنُوۡا وَعَمِلُوا الصّٰلِحٰتِ جَنّٰتٍ
-  تَجۡرِىۡ مِنۡ تَحۡتِهَا الۡاَنۡهٰرُ ​ؕ اِنَّ اللّٰهَ يَفۡعَلُ مَا يُرِيۡدُ‏
+arabic_ayat: إِنَّ ٱللَّهَ يُدۡخِلُ ٱلَّذِينَ ءَامَنُواْ وَعَمِلُواْ ٱلصَّٰلِحَٰتِ
+  جَنَّٰتٖ تَجۡرِي مِن تَحۡتِهَا ٱلۡأَنۡهَٰرُۚ إِنَّ ٱللَّهَ يَفۡعَلُ مَا يُرِيدُ
 sentence_translation: Indeed, Allah will admit those who believe and do good into
   Gardens, under which rivers flow. Surely Allah does what He wills.
 word_by_word:
   1:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   2:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   3:
@@ -17,31 +17,31 @@ word_by_word:
     translation: will admit
     transliteration: yud'khilu
   4:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ ءَ
     translation: those who
     transliteration: alladhīna
   5:
-    arabic: اٰمَنُوۡا
+    arabic: امَنُواْ
     translation: believe
     transliteration: āmanū
   6:
-    arabic: وَعَمِلُوا
+    arabic: وَعَمِلُواْ
     translation: and do
     transliteration: waʿamilū
   7:
-    arabic: الصّٰلِحٰتِ
+    arabic: ٱلصَّٰلِحَٰتِ
     translation: the righteous deeds
     transliteration: l-ṣāliḥāti
   8:
-    arabic: جَنّٰتٍ
+    arabic: جَنَّٰتٖ
     translation: (to) Gardens
     transliteration: jannātin
   9:
-    arabic: تَجۡرِىۡ
+    arabic: تَجۡرِي
     translation: flow
     transliteration: tajrī
   10:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   11:
@@ -49,15 +49,15 @@ word_by_word:
     translation: underneath it
     transliteration: taḥtihā
   12:
-    arabic: الۡاَنۡهٰرُ ​ؕ
+    arabic: ٱلۡأَنۡهَٰرُۚ
     translation: the rivers
     transliteration: l-anhāru
   13:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   14:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   15:
@@ -69,7 +69,7 @@ word_by_word:
     translation: what
     transliteration: mā
   17:
-    arabic: يُرِيۡدُ‏
+    arabic: يُرِيدُ
     translation: He intends
     transliteration: yurīdu
 ---

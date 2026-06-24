@@ -1,7 +1,7 @@
 ---
-arabic_ayat: قَالَ فِرۡعَوۡنُ اٰمَنۡتُمۡ بِهٖ قَبۡلَ اَنۡ اٰذَنَ لَـكُمۡ​ۚ اِنَّ هٰذَا
-  لَمَكۡرٌ مَّكَرۡتُمُوۡهُ فِى الۡمَدِيۡنَةِ لِتُخۡرِجُوۡا مِنۡهَاۤ اَهۡلَهَا​ ۚ فَسَوۡفَ
-  تَعۡلَمُوۡنَ‏
+arabic_ayat: قَالَ فِرۡعَوۡنُ ءَامَنتُم بِهِۦ قَبۡلَ أَنۡ ءَاذَنَ لَكُمۡۖ إِنَّ هَٰذَا
+  لَمَكۡرٞ مَّكَرۡتُمُوهُ فِي ٱلۡمَدِينَةِ لِتُخۡرِجُواْ مِنۡهَآ أَهۡلَهَاۖ فَسَوۡفَ
+  تَعۡلَمُونَ
 sentence_translation: Pharaoh threatened, “How dare you believe in him before I give
   you permission? This must be a conspiracy you devised in the city to drive out its
   people, but soon you will see.
@@ -11,15 +11,15 @@ word_by_word:
     translation: Said
     transliteration: qāla
   2:
-    arabic: فِرۡعَوۡنُ
+    arabic: فِرۡعَوۡنُ ءَ
     translation: Firaun
     transliteration: fir'ʿawnu
   3:
-    arabic: اٰمَنۡتُمۡ
+    arabic: امَنتُم
     translation: You believed
     transliteration: āmantum
   4:
-    arabic: بِهٖ
+    arabic: بِهِۦ
     translation: in him
     transliteration: bihi
   5:
@@ -27,51 +27,51 @@ word_by_word:
     translation: before
     transliteration: qabla
   6:
-    arabic: اَنۡ
+    arabic: أَنۡ ءَ
     translation: '[that]'
     transliteration: an
   7:
-    arabic: اٰذَنَ
+    arabic: اذَنَ
     translation: I give permission
     transliteration: ādhana
   8:
-    arabic: لَـكُمۡ​ۚ
+    arabic: لَكُمۡۖ
     translation: to you
     transliteration: lakum
   9:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   10:
-    arabic: هٰذَا
+    arabic: هَٰذَا
     translation: this
     transliteration: hādhā
   11:
-    arabic: لَمَكۡرٌ
+    arabic: لَمَكۡرٞ
     translation: (is) surely a plot
     transliteration: lamakrun
   12:
-    arabic: مَّكَرۡتُمُوۡهُ
+    arabic: مَّكَرۡتُمُوهُ
     translation: you have plotted it
     transliteration: makartumūhu
   13:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   14:
-    arabic: الۡمَدِيۡنَةِ
+    arabic: ٱلۡمَدِينَةِ
     translation: the city
     transliteration: l-madīnati
   15:
-    arabic: لِتُخۡرِجُوۡا
+    arabic: لِتُخۡرِجُواْ
     translation: so that you may drive out
     transliteration: litukh'rijū
   16:
-    arabic: مِنۡهَاۤ
+    arabic: مِنۡهَآ
     translation: from it
     transliteration: min'hā
   17:
-    arabic: اَهۡلَهَا​ ۚ
+    arabic: أَهۡلَهَاۖ
     translation: its people
     transliteration: ahlahā
   18:
@@ -79,7 +79,7 @@ word_by_word:
     translation: But soon
     transliteration: fasawfa
   19:
-    arabic: تَعۡلَمُوۡنَ‏
+    arabic: تَعۡلَمُونَ
     translation: you will know
     transliteration: taʿlamūna
 ---

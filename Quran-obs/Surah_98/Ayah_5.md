@@ -1,41 +1,40 @@
 ---
-arabic_ayat: وَمَاۤ اُمِرُوۡۤا اِلَّا لِيَعۡبُدُوا اللّٰهَ مُخۡلِصِيۡنَ لَـهُ الدِّيۡنَ 
-  ۙ حُنَفَآءَ وَيُقِيۡمُوا الصَّلٰوةَ وَيُؤۡتُوا الزَّكٰوةَ​ وَذٰلِكَ دِيۡنُ الۡقَيِّمَةِ
-  ؕ‏
+arabic_ayat: وَمَآ أُمِرُوٓاْ إِلَّا لِيَعۡبُدُواْ ٱللَّهَ مُخۡلِصِينَ لَهُ ٱلدِّينَ
+  حُنَفَآءَ وَيُقِيمُواْ ٱلصَّلَوٰةَ وَيُؤۡتُواْ ٱلزَّكَوٰةَۚ وَذَٰلِكَ دِينُ ٱلۡقَيِّمَةِ
 sentence_translation: even though they were only commanded to worship Allah ˹alone˺
   with sincere devotion to Him in all uprightness, establish prayer, and pay alms-tax.
   That is the upright Way.
 word_by_word:
   1:
-    arabic: وَمَاۤ
+    arabic: وَمَآ
     translation: And not
     transliteration: wamā
   2:
-    arabic: اُمِرُوۡۤا
+    arabic: أُمِرُوٓاْ
     translation: they were commanded
     transliteration: umirū
   3:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   4:
-    arabic: لِيَعۡبُدُوا
+    arabic: لِيَعۡبُدُواْ
     translation: to worship
     transliteration: liyaʿbudū
   5:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   6:
-    arabic: مُخۡلِصِيۡنَ
+    arabic: مُخۡلِصِينَ
     translation: (being) sincere
     transliteration: mukh'liṣīna
   7:
-    arabic: لَـهُ
+    arabic: لَهُ
     translation: to Him
     transliteration: lahu
   8:
-    arabic: الدِّيۡنَۙ 
+    arabic: ٱلدِّينَ
     translation: (in) the religion
     transliteration: l-dīna
   9:
@@ -43,31 +42,31 @@ word_by_word:
     translation: upright
     transliteration: ḥunafāa
   10:
-    arabic: وَيُقِيۡمُوا
+    arabic: وَيُقِيمُواْ
     translation: and to establish
     transliteration: wayuqīmū
   11:
-    arabic: الصَّلٰوةَ
+    arabic: ٱلصَّلَوٰةَ
     translation: the prayer
     transliteration: l-ṣalata
   12:
-    arabic: وَيُؤۡتُوا
+    arabic: وَيُؤۡتُواْ
     translation: and to give
     transliteration: wayu'tū
   13:
-    arabic: الزَّكٰوةَ
+    arabic: ٱلزَّكَوٰةَۚ
     translation: the zakah
     transliteration: l-zakata
   14:
-    arabic: وَذٰلِكَ
+    arabic: وَذَٰلِكَ
     translation: And that
     transliteration: wadhālika
   15:
-    arabic: دِيۡنُ
+    arabic: دِينُ
     translation: (is the) religion
     transliteration: dīnu
   16:
-    arabic: الۡقَيِّمَةِ ؕ‏
+    arabic: ٱلۡقَيِّمَةِ
     translation: the correct
     transliteration: l-qayimati
 ---

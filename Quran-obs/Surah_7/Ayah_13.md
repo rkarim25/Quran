@@ -1,6 +1,6 @@
 ---
-arabic_ayat: قَالَ فَاهۡبِطۡ مِنۡهَا فَمَا يَكُوۡنُ لَـكَ اَنۡ تَتَكَبَّرَ فِيۡهَا
-  فَاخۡرُجۡ اِنَّكَ مِنَ الصّٰغِرِيۡنَ‏
+arabic_ayat: قَالَ فَٱهۡبِطۡ مِنۡهَا فَمَا يَكُونُ لَكَ أَن تَتَكَبَّرَ فِيهَا فَٱخۡرُجۡ
+  إِنَّكَ مِنَ ٱلصَّٰغِرِينَ
 sentence_translation: Allah said, “Then get down from Paradise! It is not for you
   to be arrogant here. So get out! You are truly one of the disgraced.”
 word_by_word:
@@ -9,7 +9,7 @@ word_by_word:
     translation: (Allah) said
     transliteration: qāla
   2:
-    arabic: فَاهۡبِطۡ
+    arabic: فَٱهۡبِطۡ
     translation: Then go down
     transliteration: fa-ih'biṭ
   3:
@@ -21,15 +21,15 @@ word_by_word:
     translation: for not
     transliteration: famā
   5:
-    arabic: يَكُوۡنُ
+    arabic: يَكُونُ
     translation: it is
     transliteration: yakūnu
   6:
-    arabic: لَـكَ
+    arabic: لَكَ
     translation: for you
     transliteration: laka
   7:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that
     transliteration: an
   8:
@@ -37,15 +37,15 @@ word_by_word:
     translation: you be arrogant
     transliteration: tatakabbara
   9:
-    arabic: فِيۡهَا
+    arabic: فِيهَا
     translation: in it
     transliteration: fīhā
   10:
-    arabic: فَاخۡرُجۡ
+    arabic: فَٱخۡرُجۡ
     translation: So get out
     transliteration: fa-ukh'ruj
   11:
-    arabic: اِنَّكَ
+    arabic: إِنَّكَ
     translation: indeed, you
     transliteration: innaka
   12:
@@ -53,7 +53,7 @@ word_by_word:
     translation: (are) of
     transliteration: mina
   13:
-    arabic: الصّٰغِرِيۡنَ‏
+    arabic: ٱلصَّٰغِرِينَ
     translation: the disgraced ones
     transliteration: l-ṣāghirīna
 ---

@@ -1,6 +1,5 @@
 ---
-arabic_ayat: "يَوۡمَ لَا يُغۡنِىۡ مَوۡلًى عَنۡ مَّوۡلًى شَيۡــًٔا وَّلَا هُمۡ يُنۡصَرُوۡنَۙ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: يَوۡمَ لَا يُغۡنِي مَوۡلًى عَن مَّوۡلٗى شَيۡـٔٗا وَلَا هُمۡ يُنصَرُونَ
 sentence_translation: the Day no kith or kin will be of benefit to another whatsoever,
   nor will they be helped,
 word_by_word:
@@ -13,7 +12,7 @@ word_by_word:
     translation: not
     transliteration: lā
   3:
-    arabic: يُغۡنِىۡ
+    arabic: يُغۡنِي
     translation: will avail
     transliteration: yugh'nī
   4:
@@ -21,19 +20,19 @@ word_by_word:
     translation: a relation
     transliteration: mawlan
   5:
-    arabic: عَنۡ
+    arabic: عَن
     translation: for
     transliteration: ʿan
   6:
-    arabic: مَّوۡلًى
+    arabic: مَّوۡلٗى
     translation: a relation
     transliteration: mawlan
   7:
-    arabic: شَيۡــًٔا
+    arabic: شَيۡـٔٗا
     translation: anything
     transliteration: shayan
   8:
-    arabic: وَّلَا
+    arabic: وَلَا
     translation: and not
     transliteration: walā
   9:
@@ -41,7 +40,7 @@ word_by_word:
     translation: they
     transliteration: hum
   10:
-    arabic: "يُنۡصَرُوۡنَۙ‏ \uFEFF\uFEFF"
+    arabic: يُنصَرُونَ
     translation: will be helped
     transliteration: yunṣarūna
 ---

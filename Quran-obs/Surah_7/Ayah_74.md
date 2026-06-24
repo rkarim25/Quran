@@ -1,22 +1,21 @@
 ---
-arabic_ayat: "وَاذۡكُرُوۡۤا اِذۡ جَعَلَـكُمۡ خُلَفَآءَ مِنۡۢ بَعۡدِ عَادٍ وَّبَوَّاَكُمۡ\
-  \ فِى الۡاَرۡضِ تَـتَّخِذُوۡنَ مِنۡ سُهُوۡلِهَا قُصُوۡرًا وَّتَـنۡحِتُوۡنَ الۡجِبَالَ\
-  \ بُيُوۡتًا​ ۚ فَاذۡكُرُوۡۤا اٰ لَۤاءَ اللّٰهِ وَلَا تَعۡثَوۡا فِى الۡاَرۡضِ مُفۡسِدِيۡنَ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: وَٱذۡكُرُوٓاْ إِذۡ جَعَلَكُمۡ خُلَفَآءَ مِنۢ بَعۡدِ عَادٖ وَبَوَّأَكُمۡ
+  فِي ٱلۡأَرۡضِ تَتَّخِذُونَ مِن سُهُولِهَا قُصُورٗا وَتَنۡحِتُونَ ٱلۡجِبَالَ بُيُوتٗاۖ
+  فَٱذۡكُرُوٓاْ ءَالَآءَ ٱللَّهِ وَلَا تَعۡثَوۡاْ فِي ٱلۡأَرۡضِ مُفۡسِدِينَ
 sentence_translation: Remember when He made you successors after ’Âd and established
   you in the land—˹and˺ you built palaces on its plains and carved homes into mountains.
   So remember Allah’s favours, and do not go about spreading corruption in the land.”
 word_by_word:
   1:
-    arabic: وَاذۡكُرُوۡۤا
+    arabic: وَٱذۡكُرُوٓاْ
     translation: And remember
     transliteration: wa-udh'kurū
   2:
-    arabic: اِذۡ
+    arabic: إِذۡ
     translation: when
     transliteration: idh
   3:
-    arabic: جَعَلَـكُمۡ
+    arabic: جَعَلَكُمۡ
     translation: He made you
     transliteration: jaʿalakum
   4:
@@ -24,7 +23,7 @@ word_by_word:
     translation: successors
     transliteration: khulafāa
   5:
-    arabic: مِنۡۢ
+    arabic: مِنۢ
     translation: from
     transliteration: min
   6:
@@ -32,59 +31,59 @@ word_by_word:
     translation: after
     transliteration: baʿdi
   7:
-    arabic: عَادٍ
+    arabic: عَادٖ
     translation: Aad
     transliteration: ʿādin
   8:
-    arabic: وَّبَوَّاَكُمۡ
+    arabic: وَبَوَّأَكُمۡ
     translation: and settled you
     transliteration: wabawwa-akum
   9:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   10:
-    arabic: الۡاَرۡضِ
+    arabic: ٱلۡأَرۡضِ
     translation: the earth
     transliteration: l-arḍi
   11:
-    arabic: تَـتَّخِذُوۡنَ
+    arabic: تَتَّخِذُونَ
     translation: You take
     transliteration: tattakhidhūna
   12:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   13:
-    arabic: سُهُوۡلِهَا
+    arabic: سُهُولِهَا
     translation: its plains
     transliteration: suhūlihā
   14:
-    arabic: قُصُوۡرًا
+    arabic: قُصُورٗا
     translation: palaces
     transliteration: quṣūran
   15:
-    arabic: وَّتَـنۡحِتُوۡنَ
+    arabic: وَتَنۡحِتُونَ
     translation: and you carve out
     transliteration: watanḥitūna
   16:
-    arabic: الۡجِبَالَ
+    arabic: ٱلۡجِبَالَ
     translation: the mountains
     transliteration: l-jibāla
   17:
-    arabic: بُيُوۡتًا​ ۚ
+    arabic: بُيُوتٗاۖ
     translation: (as) homes
     transliteration: buyūtan
   18:
-    arabic: فَاذۡكُرُوۡۤا
+    arabic: فَٱذۡكُرُوٓاْ ءَ
     translation: So remember
     transliteration: fa-udh'kurū
   19:
-    arabic: اٰ لَۤاءَ
+    arabic: الَآءَ
     translation: (the) Bounties
     transliteration: ālāa
   20:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (of) Allah
     transliteration: l-lahi
   21:
@@ -92,19 +91,19 @@ word_by_word:
     translation: and (do) not
     transliteration: walā
   22:
-    arabic: تَعۡثَوۡا
+    arabic: تَعۡثَوۡاْ
     translation: act wickedly
     transliteration: taʿthaw
   23:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   24:
-    arabic: الۡاَرۡضِ
+    arabic: ٱلۡأَرۡضِ
     translation: (the) earth
     transliteration: l-arḍi
   25:
-    arabic: "مُفۡسِدِيۡنَ‏ \uFEFF\uFEFF"
+    arabic: مُفۡسِدِينَ
     translation: spreading corruption
     transliteration: muf'sidīna
 ---

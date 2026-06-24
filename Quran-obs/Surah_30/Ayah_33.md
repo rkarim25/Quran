@@ -1,13 +1,12 @@
 ---
-arabic_ayat: "وَاِذَا مَسَّ النَّاسَ ضُرٌّ دَعَوۡا رَبَّهُمۡ مُّنِيۡبِيۡنَ اِلَيۡهِ\
-  \ ثُمَّ اِذَاۤ اَذَاقَهُمۡ مِّنۡهُ رَحۡمَةً اِذَا فَرِيۡقٌ مِّنۡهُمۡ بِرَبِّهِمۡ\
-  \ يُشۡرِكُوۡنَۙ‏ \uFEFF\uFEFF"
+arabic_ayat: وَإِذَا مَسَّ ٱلنَّاسَ ضُرّٞ دَعَوۡاْ رَبَّهُم مُّنِيبِينَ إِلَيۡهِ ثُمَّ
+  إِذَآ أَذَاقَهُم مِّنۡهُ رَحۡمَةً إِذَا فَرِيقٞ مِّنۡهُم بِرَبِّهِمۡ يُشۡرِكُونَ
 sentence_translation: When people are touched with hardship, they cry out to their
   Lord, turning to Him ˹alone˺. But as soon as He gives them a taste of His mercy,
   a group of them associates ˹others˺ with their Lord ˹in worship˺,
 word_by_word:
   1:
-    arabic: وَاِذَا
+    arabic: وَإِذَا
     translation: And when
     transliteration: wa-idhā
   2:
@@ -15,27 +14,27 @@ word_by_word:
     translation: touches
     transliteration: massa
   3:
-    arabic: النَّاسَ
+    arabic: ٱلنَّاسَ
     translation: people
     transliteration: l-nāsa
   4:
-    arabic: ضُرٌّ
+    arabic: ضُرّٞ
     translation: hardship
     transliteration: ḍurrun
   5:
-    arabic: دَعَوۡا
+    arabic: دَعَوۡاْ
     translation: they call
     transliteration: daʿaw
   6:
-    arabic: رَبَّهُمۡ
+    arabic: رَبَّهُم
     translation: their Lord
     transliteration: rabbahum
   7:
-    arabic: مُّنِيۡبِيۡنَ
+    arabic: مُّنِيبِينَ
     translation: turning
     transliteration: munībīna
   8:
-    arabic: اِلَيۡهِ
+    arabic: إِلَيۡهِ
     translation: to Him
     transliteration: ilayhi
   9:
@@ -43,11 +42,11 @@ word_by_word:
     translation: Then
     transliteration: thumma
   10:
-    arabic: اِذَاۤ
+    arabic: إِذَآ
     translation: when
     transliteration: idhā
   11:
-    arabic: اَذَاقَهُمۡ
+    arabic: أَذَاقَهُم
     translation: He causes them to taste
     transliteration: adhāqahum
   12:
@@ -59,15 +58,15 @@ word_by_word:
     translation: Mercy
     transliteration: raḥmatan
   14:
-    arabic: اِذَا
+    arabic: إِذَا
     translation: behold
     transliteration: idhā
   15:
-    arabic: فَرِيۡقٌ
+    arabic: فَرِيقٞ
     translation: A party
     transliteration: farīqun
   16:
-    arabic: مِّنۡهُمۡ
+    arabic: مِّنۡهُم
     translation: of them
     transliteration: min'hum
   17:
@@ -75,7 +74,7 @@ word_by_word:
     translation: with their Lord
     transliteration: birabbihim
   18:
-    arabic: "يُشۡرِكُوۡنَۙ‏ \uFEFF\uFEFF"
+    arabic: يُشۡرِكُونَ
     translation: associate partners
     transliteration: yush'rikūna
 ---

@@ -1,7 +1,7 @@
 ---
-arabic_ayat: وَظَلَّلۡنَا عَلَيۡکُمُ الۡغَمَامَ وَاَنۡزَلۡنَا عَلَيۡكُمُ الۡمَنَّ
-  وَالسَّلۡوٰى​ؕ كُلُوۡا مِنۡ طَيِّبٰتِ مَا رَزَقۡنٰكُمۡ​ؕ وَمَا ظَلَمُوۡنَا وَلٰـكِنۡ
-  كَانُوۡآ اَنۡفُسَهُمۡ يَظۡلِمُوۡنَ‏
+arabic_ayat: وَظَلَّلۡنَا عَلَيۡكُمُ ٱلۡغَمَامَ وَأَنزَلۡنَا عَلَيۡكُمُ ٱلۡمَنَّ وَٱلسَّلۡوَىٰۖ
+  كُلُواْ مِن طَيِّبَٰتِ مَا رَزَقۡنَٰكُمۡۚ وَمَا ظَلَمُونَا وَلَٰكِن كَانُوٓاْ أَنفُسَهُمۡ
+  يَظۡلِمُونَ
 sentence_translation: And ˹remember when˺ We shaded you with clouds and sent down
   to you manna and quails, ˹saying˺, “Eat from the good things We have provided for
   you.” The evildoers ˹certainly˺ did not wrong Us, but wronged themselves.
@@ -11,15 +11,15 @@ word_by_word:
     translation: And We shaded
     transliteration: waẓallalnā
   2:
-    arabic: عَلَيۡکُمُ
+    arabic: عَلَيۡكُمُ
     translation: '[over] you'
     transliteration: ʿalaykumu
   3:
-    arabic: الۡغَمَامَ
+    arabic: ٱلۡغَمَامَ
     translation: (with) [the] clouds
     transliteration: l-ghamāma
   4:
-    arabic: وَاَنۡزَلۡنَا
+    arabic: وَأَنزَلۡنَا
     translation: and We sent down
     transliteration: wa-anzalnā
   5:
@@ -27,23 +27,23 @@ word_by_word:
     translation: to you
     transliteration: ʿalaykumu
   6:
-    arabic: الۡمَنَّ
+    arabic: ٱلۡمَنَّ
     translation: '[the] manna'
     transliteration: l-mana
   7:
-    arabic: وَالسَّلۡوٰى​ؕ
+    arabic: وَٱلسَّلۡوَىٰۖ
     translation: and [the] quails
     transliteration: wal-salwā
   8:
-    arabic: كُلُوۡا
+    arabic: كُلُواْ
     translation: Eat
     transliteration: kulū
   9:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   10:
-    arabic: طَيِّبٰتِ
+    arabic: طَيِّبَٰتِ
     translation: (the) good things
     transliteration: ṭayyibāti
   11:
@@ -51,7 +51,7 @@ word_by_word:
     translation: that
     transliteration: mā
   12:
-    arabic: رَزَقۡنٰكُمۡ​ؕ
+    arabic: رَزَقۡنَٰكُمۡۚ
     translation: We have provided you
     transliteration: razaqnākum
   13:
@@ -59,23 +59,23 @@ word_by_word:
     translation: And not
     transliteration: wamā
   14:
-    arabic: ظَلَمُوۡنَا
+    arabic: ظَلَمُونَا
     translation: they wronged Us
     transliteration: ẓalamūnā
   15:
-    arabic: وَلٰـكِنۡ
+    arabic: وَلَٰكِن
     translation: but
     transliteration: walākin
   16:
-    arabic: كَانُوۡآ
+    arabic: كَانُوٓاْ
     translation: they were
     transliteration: kānū
   17:
-    arabic: اَنۡفُسَهُمۡ
+    arabic: أَنفُسَهُمۡ
     translation: (to) themselves
     transliteration: anfusahum
   18:
-    arabic: يَظۡلِمُوۡنَ‏
+    arabic: يَظۡلِمُونَ
     translation: doing wrong
     transliteration: yaẓlimūna
 ---

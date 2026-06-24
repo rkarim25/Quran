@@ -1,20 +1,20 @@
 ---
-arabic_ayat: وَقِيۡلَ الۡيَوۡمَ نَنۡسٰٮكُمۡ كَمَا نَسِيۡتُمۡ لِقَآءَ يَوۡمِكُمۡ هٰذَا
-  وَمَاۡوٰٮكُمُ النَّارُ وَمَا لَـكُمۡ مِّنۡ نّٰصِرِيۡنَ‏
+arabic_ayat: وَقِيلَ ٱلۡيَوۡمَ نَنسَىٰكُمۡ كَمَا نَسِيتُمۡ لِقَآءَ يَوۡمِكُمۡ هَٰذَا
+  وَمَأۡوَىٰكُمُ ٱلنَّارُ وَمَا لَكُم مِّن نَّٰصِرِينَ
 sentence_translation: It will be said, “This Day We will neglect you as you neglected
   the meeting of this Day of yours! Your home will be the Fire, and you will have
   no helpers.
 word_by_word:
   1:
-    arabic: وَقِيۡلَ
+    arabic: وَقِيلَ
     translation: And it will be said
     transliteration: waqīla
   2:
-    arabic: الۡيَوۡمَ
+    arabic: ٱلۡيَوۡمَ
     translation: Today
     transliteration: l-yawma
   3:
-    arabic: نَنۡسٰٮكُمۡ
+    arabic: نَنسَىٰكُمۡ
     translation: We forget you
     transliteration: nansākum
   4:
@@ -22,7 +22,7 @@ word_by_word:
     translation: as
     transliteration: kamā
   5:
-    arabic: نَسِيۡتُمۡ
+    arabic: نَسِيتُمۡ
     translation: you forgot
     transliteration: nasītum
   6:
@@ -34,15 +34,15 @@ word_by_word:
     translation: (of) this Day of yours
     transliteration: yawmikum
   8:
-    arabic: هٰذَا
+    arabic: هَٰذَا
     translation: (of) this Day of yours
     transliteration: hādhā
   9:
-    arabic: وَمَاۡوٰٮكُمُ
+    arabic: وَمَأۡوَىٰكُمُ
     translation: and your abode
     transliteration: wamawākumu
   10:
-    arabic: النَّارُ
+    arabic: ٱلنَّارُ
     translation: (is) the Fire
     transliteration: l-nāru
   11:
@@ -50,15 +50,15 @@ word_by_word:
     translation: and not
     transliteration: wamā
   12:
-    arabic: لَـكُمۡ
+    arabic: لَكُم
     translation: for you
     transliteration: lakum
   13:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: any
     transliteration: min
   14:
-    arabic: نّٰصِرِيۡنَ‏
+    arabic: نَّٰصِرِينَ
     translation: helpers
     transliteration: nāṣirīna
 ---

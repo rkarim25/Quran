@@ -1,9 +1,9 @@
 ---
-arabic_ayat: اِنَّهُمۡ لَهُمُ الۡمَنۡصُوۡرُوۡنَ ‏
+arabic_ayat: إِنَّهُمۡ لَهُمُ ٱلۡمَنصُورُونَ
 sentence_translation: that they would surely be helped,
 word_by_word:
   1:
-    arabic: اِنَّهُمۡ
+    arabic: إِنَّهُمۡ
     translation: Indeed they
     transliteration: innahum
   2:
@@ -11,7 +11,7 @@ word_by_word:
     translation: surely they
     transliteration: lahumu
   3:
-    arabic: الۡمَنۡصُوۡرُوۡنَ ‏
+    arabic: ٱلۡمَنصُورُونَ
     translation: (would be) the victorious
     transliteration: l-manṣūrūna
 ---

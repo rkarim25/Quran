@@ -1,111 +1,110 @@
 ---
-arabic_ayat: "وَلَا تُجَادِلُوۡٓا اَهۡلَ الۡكِتٰبِ اِلَّا بِالَّتِىۡ هِىَ اَحۡسَنُ\
-  \ ۖ اِلَّا الَّذِيۡنَ ظَلَمُوۡا مِنۡهُمۡ​ وَقُوۡلُوۡٓا اٰمَنَّا بِالَّذِىۡۤ اُنۡزِلَ\
-  \ اِلَيۡنَا وَاُنۡزِلَ اِلَيۡكُمۡ وَاِلٰهُـنَا وَاِلٰهُكُمۡ وَاحِدٌ وَّنَحۡنُ لَهٗ\
-  \ مُسۡلِمُوۡنَ‏ \uFEFF\uFEFF"
+arabic_ayat: ۞ وَلَا تُجَٰدِلُوٓاْ أَهۡلَ ٱلۡكِتَٰبِ إِلَّا بِٱلَّتِي هِيَ أَحۡسَنُ
+  إِلَّا ٱلَّذِينَ ظَلَمُواْ مِنۡهُمۡۖ وَقُولُوٓاْ ءَامَنَّا بِٱلَّذِيٓ أُنزِلَ إِلَيۡنَا
+  وَأُنزِلَ إِلَيۡكُمۡ وَإِلَٰهُنَا وَإِلَٰهُكُمۡ وَٰحِدٞ وَنَحۡنُ لَهُۥ مُسۡلِمُونَ
 sentence_translation: Do not argue with the People of the Book unless gracefully,
   except with those of them who act wrongfully. And say, “We believe in what has been
   revealed to us and what was revealed to you. Our God and your God is ˹only˺ One.
   And to Him we ˹fully˺ submit.”
 word_by_word:
   1:
-    arabic: ۞ وَلَا
+    arabic: ۞ وَلَا
     translation: And (do) not
     transliteration: walā
   2:
-    arabic: تُجَادِلُوۡٓا
+    arabic: تُجَٰدِلُوٓاْ
     translation: argue
     transliteration: tujādilū
   3:
-    arabic: اَهۡلَ
+    arabic: أَهۡلَ
     translation: (with the) People of the Book
     transliteration: ahla
   4:
-    arabic: الۡكِتٰبِ
+    arabic: ٱلۡكِتَٰبِ
     translation: (with the) People of the Book
     transliteration: l-kitābi
   5:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   6:
-    arabic: بِالَّتِىۡ
+    arabic: بِٱلَّتِي
     translation: by which
     transliteration: bi-allatī
   7:
-    arabic: هِىَ
+    arabic: هِيَ
     translation: '[it]'
     transliteration: hiya
   8:
-    arabic: اَحۡسَنُ ۖ
+    arabic: أَحۡسَنُ
     translation: (is) best
     transliteration: aḥsanu
   9:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   10:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   11:
-    arabic: ظَلَمُوۡا
+    arabic: ظَلَمُواْ
     translation: (do) wrong
     transliteration: ẓalamū
   12:
-    arabic: مِنۡهُمۡ​
+    arabic: مِنۡهُمۡۖ
     translation: among them
     transliteration: min'hum
   13:
-    arabic: وَقُوۡلُوۡٓا
+    arabic: وَقُولُوٓاْ ءَ
     translation: and say
     transliteration: waqūlū
   14:
-    arabic: اٰمَنَّا
+    arabic: امَنَّا
     translation: We believe
     transliteration: āmannā
   15:
-    arabic: بِالَّذِىۡۤ
+    arabic: بِٱلَّذِيٓ
     translation: in that (which)
     transliteration: bi-alladhī
   16:
-    arabic: اُنۡزِلَ
+    arabic: أُنزِلَ
     translation: has been revealed
     transliteration: unzila
   17:
-    arabic: اِلَيۡنَا
+    arabic: إِلَيۡنَا
     translation: to us
     transliteration: ilaynā
   18:
-    arabic: وَاُنۡزِلَ
+    arabic: وَأُنزِلَ
     translation: and was revealed
     transliteration: wa-unzila
   19:
-    arabic: اِلَيۡكُمۡ
+    arabic: إِلَيۡكُمۡ
     translation: to you
     transliteration: ilaykum
   20:
-    arabic: وَاِلٰهُـنَا
+    arabic: وَإِلَٰهُنَا
     translation: And our God
     transliteration: wa-ilāhunā
   21:
-    arabic: وَاِلٰهُكُمۡ
+    arabic: وَإِلَٰهُكُمۡ
     translation: and your God
     transliteration: wa-ilāhukum
   22:
-    arabic: وَاحِدٌ
+    arabic: وَٰحِدٞ
     translation: (is) One
     transliteration: wāḥidun
   23:
-    arabic: وَّنَحۡنُ
+    arabic: وَنَحۡنُ
     translation: and we
     transliteration: wanaḥnu
   24:
-    arabic: لَهٗ
+    arabic: لَهُۥ
     translation: to Him
     transliteration: lahu
   25:
-    arabic: "مُسۡلِمُوۡنَ‏ \uFEFF\uFEFF"
+    arabic: مُسۡلِمُونَ
     translation: submit
     transliteration: mus'limūna
 ---

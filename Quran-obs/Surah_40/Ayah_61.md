@@ -1,16 +1,16 @@
 ---
-arabic_ayat: اَللّٰهُ الَّذِىۡ جَعَلَ لَـكُمُ الَّيۡلَ لِتَسۡكُنُوۡا فِيۡهِ وَالنَّهَارَ
-  مُبۡصِرًا ؕ اِنَّ اللّٰهَ لَذُوۡ فَضۡلٍ عَلَى النَّاسِ وَ لٰـكِنَّ اَكۡثَرَ النَّاسِ
-  لَا يَشۡكُرُوۡنَ‏
+arabic_ayat: ٱللَّهُ ٱلَّذِي جَعَلَ لَكُمُ ٱلَّيۡلَ لِتَسۡكُنُواْ فِيهِ وَٱلنَّهَارَ
+  مُبۡصِرًاۚ إِنَّ ٱللَّهَ لَذُو فَضۡلٍ عَلَى ٱلنَّاسِ وَلَٰكِنَّ أَكۡثَرَ ٱلنَّاسِ
+  لَا يَشۡكُرُونَ
 sentence_translation: It is Allah Who has made the night for you to rest in and the
   day bright. Surely Allah is ever Bountiful to humanity, but most people are ungrateful.
 word_by_word:
   1:
-    arabic: اَللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: al-lahu
   2:
-    arabic: الَّذِىۡ
+    arabic: ٱلَّذِي
     translation: (is) the One Who
     transliteration: alladhī
   3:
@@ -18,39 +18,39 @@ word_by_word:
     translation: made
     transliteration: jaʿala
   4:
-    arabic: لَـكُمُ
+    arabic: لَكُمُ
     translation: for you
     transliteration: lakumu
   5:
-    arabic: الَّيۡلَ
+    arabic: ٱلَّيۡلَ
     translation: the night
     transliteration: al-layla
   6:
-    arabic: لِتَسۡكُنُوۡا
+    arabic: لِتَسۡكُنُواْ
     translation: that you may rest
     transliteration: litaskunū
   7:
-    arabic: فِيۡهِ
+    arabic: فِيهِ
     translation: in it
     transliteration: fīhi
   8:
-    arabic: وَالنَّهَارَ
+    arabic: وَٱلنَّهَارَ
     translation: and the day
     transliteration: wal-nahāra
   9:
-    arabic: مُبۡصِرًا ؕ
+    arabic: مُبۡصِرًاۚ
     translation: giving visibility
     transliteration: mub'ṣiran
   10:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   11:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   12:
-    arabic: لَذُوۡ
+    arabic: لَذُو
     translation: (is) Full (of) Bounty
     transliteration: ladhū
   13:
@@ -62,19 +62,19 @@ word_by_word:
     translation: to
     transliteration: ʿalā
   15:
-    arabic: النَّاسِ
+    arabic: ٱلنَّاسِ
     translation: the people
     transliteration: l-nāsi
   16:
-    arabic: وَ لٰـكِنَّ
+    arabic: وَلَٰكِنَّ
     translation: but
     transliteration: walākinna
   17:
-    arabic: اَكۡثَرَ
+    arabic: أَكۡثَرَ
     translation: most
     transliteration: akthara
   18:
-    arabic: النَّاسِ
+    arabic: ٱلنَّاسِ
     translation: (of) the people
     transliteration: l-nāsi
   19:
@@ -82,7 +82,7 @@ word_by_word:
     translation: (do) not
     transliteration: lā
   20:
-    arabic: يَشۡكُرُوۡنَ‏
+    arabic: يَشۡكُرُونَ
     translation: give thanks
     transliteration: yashkurūna
 ---

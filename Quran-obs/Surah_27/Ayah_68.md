@@ -1,11 +1,11 @@
 ---
-arabic_ayat: لَـقَدۡ وُعِدۡنَا هٰذَا نَحۡنُ وَاٰبَآؤُنَا مِنۡ قَبۡلُۙ اِنۡ هٰذَاۤ
-  اِلَّاۤ اَسَاطِيۡرُ الۡاَوَّلِيۡنَ‏
+arabic_ayat: لَقَدۡ وُعِدۡنَا هَٰذَا نَحۡنُ وَءَابَآؤُنَا مِن قَبۡلُ إِنۡ هَٰذَآ
+  إِلَّآ أَسَٰطِيرُ ٱلۡأَوَّلِينَ
 sentence_translation: We have already been promised this, as well as our forefathers
   earlier. This is nothing but ancient fables!”
 word_by_word:
   1:
-    arabic: لَـقَدۡ
+    arabic: لَقَدۡ
     translation: Certainly
     transliteration: laqad
   2:
@@ -13,7 +13,7 @@ word_by_word:
     translation: we have been promised
     transliteration: wuʿid'nā
   3:
-    arabic: هٰذَا
+    arabic: هَٰذَا
     translation: this
     transliteration: hādhā
   4:
@@ -21,35 +21,35 @@ word_by_word:
     translation: we
     transliteration: naḥnu
   5:
-    arabic: وَاٰبَآؤُنَا
+    arabic: وَءَابَآؤُنَا
     translation: and our forefathers
     transliteration: waābāunā
   6:
-    arabic: مِنۡ
+    arabic: مِن
     translation: before
     transliteration: min
   7:
-    arabic: قَبۡلُۙ
+    arabic: قَبۡلُ
     translation: before
     transliteration: qablu
   8:
-    arabic: اِنۡ
+    arabic: إِنۡ
     translation: Not
     transliteration: in
   9:
-    arabic: هٰذَاۤ
+    arabic: هَٰذَآ
     translation: (is) this
     transliteration: hādhā
   10:
-    arabic: اِلَّاۤ
+    arabic: إِلَّآ
     translation: except
     transliteration: illā
   11:
-    arabic: اَسَاطِيۡرُ
+    arabic: أَسَٰطِيرُ
     translation: tales
     transliteration: asāṭīru
   12:
-    arabic: الۡاَوَّلِيۡنَ‏
+    arabic: ٱلۡأَوَّلِينَ
     translation: (of) the former (people)
     transliteration: l-awalīna
 ---

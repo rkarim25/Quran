@@ -1,17 +1,17 @@
 ---
-arabic_ayat: وَبِالَّيۡلِ​ؕ اَفَلَا تَعۡقِلُوۡنَ​‏
+arabic_ayat: وَبِٱلَّيۡلِۚ أَفَلَا تَعۡقِلُونَ
 sentence_translation: and night. Will you not then understand?
 word_by_word:
   1:
-    arabic: وَبِالَّيۡلِ​ؕ
+    arabic: وَبِٱلَّيۡلِۚ
     translation: And at night
     transliteration: wabi-al-layli
   2:
-    arabic: اَفَلَا
+    arabic: أَفَلَا
     translation: Then will not
     transliteration: afalā
   3:
-    arabic: تَعۡقِلُوۡنَ​‏
+    arabic: تَعۡقِلُونَ
     translation: you use reason
     transliteration: taʿqilūna
 ---

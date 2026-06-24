@@ -1,11 +1,11 @@
 ---
-arabic_ayat: "وَلَقَدۡ فَتَنَّا قَبۡلَهُمۡ قَوۡمَ فِرۡعَوۡنَ وَ جَآءَهُمۡ رَسُوۡلٌ\
-  \ كَرِيۡمٌۙ‏ \uFEFF\uFEFF"
+arabic_ayat: ۞ وَلَقَدۡ فَتَنَّا قَبۡلَهُمۡ قَوۡمَ فِرۡعَوۡنَ وَجَآءَهُمۡ رَسُولٞ
+  كَرِيمٌ
 sentence_translation: 'Indeed, before them We tested Pharaoh’s people: a noble messenger
   came to them,'
 word_by_word:
   1:
-    arabic: ۞ وَلَقَدۡ
+    arabic: ۞ وَلَقَدۡ
     translation: And certainly
     transliteration: walaqad
   2:
@@ -25,15 +25,15 @@ word_by_word:
     translation: (of) Firaun
     transliteration: fir'ʿawna
   6:
-    arabic: وَ جَآءَهُمۡ
+    arabic: وَجَآءَهُمۡ
     translation: and came to them
     transliteration: wajāahum
   7:
-    arabic: رَسُوۡلٌ
+    arabic: رَسُولٞ
     translation: a Messenger
     transliteration: rasūlun
   8:
-    arabic: "كَرِيۡمٌۙ‏ \uFEFF\uFEFF"
+    arabic: كَرِيمٌ
     translation: noble
     transliteration: karīmun
 ---

@@ -1,61 +1,61 @@
 ---
-arabic_ayat: فَاِنۡ كُنۡتَ فِىۡ شَكٍّ مِّمَّاۤ اَنۡزَلۡنَاۤ اِلَيۡكَ فَسۡــَٔلِ الَّذِيۡنَ
-  يَقۡرَءُوۡنَ الۡكِتٰبَ مِنۡ قَبۡلِكَ​ۚ لَقَدۡ جَآءَكَ الۡحَقُّ مِنۡ رَّبِّكَ فَلَا
-  تَكُوۡنَنَّ مِنَ الۡمُمۡتَرِيۡنَۙ‏
+arabic_ayat: فَإِن كُنتَ فِي شَكّٖ مِّمَّآ أَنزَلۡنَآ إِلَيۡكَ فَسۡـَٔلِ ٱلَّذِينَ
+  يَقۡرَءُونَ ٱلۡكِتَٰبَ مِن قَبۡلِكَۚ لَقَدۡ جَآءَكَ ٱلۡحَقُّ مِن رَّبِّكَ فَلَا
+  تَكُونَنَّ مِنَ ٱلۡمُمۡتَرِينَ
 sentence_translation: If you ˹O Prophet˺ are in doubt about ˹these stories˺ that We
   have revealed to you, then ask those who read the Scripture before you. The truth
   has certainly come to you from your Lord, so do not be one of those who doubt,
 word_by_word:
   1:
-    arabic: فَاِنۡ
+    arabic: فَإِن
     translation: So if
     transliteration: fa-in
   2:
-    arabic: كُنۡتَ
+    arabic: كُنتَ
     translation: you are
     transliteration: kunta
   3:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   4:
-    arabic: شَكٍّ
+    arabic: شَكّٖ
     translation: doubt
     transliteration: shakkin
   5:
-    arabic: مِّمَّاۤ
+    arabic: مِّمَّآ
     translation: of what
     transliteration: mimmā
   6:
-    arabic: اَنۡزَلۡنَاۤ
+    arabic: أَنزَلۡنَآ
     translation: We have revealed
     transliteration: anzalnā
   7:
-    arabic: اِلَيۡكَ
+    arabic: إِلَيۡكَ
     translation: to you
     transliteration: ilayka
   8:
-    arabic: فَسۡــَٔلِ
+    arabic: فَسۡـَٔلِ
     translation: then ask
     transliteration: fasali
   9:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   10:
-    arabic: يَقۡرَءُوۡنَ
+    arabic: يَقۡرَءُونَ
     translation: (have been) reading
     transliteration: yaqraūna
   11:
-    arabic: الۡكِتٰبَ
+    arabic: ٱلۡكِتَٰبَ
     translation: the Book
     transliteration: l-kitāba
   12:
-    arabic: مِنۡ
+    arabic: مِن
     translation: before you
     transliteration: min
   13:
-    arabic: قَبۡلِكَ​ۚ
+    arabic: قَبۡلِكَۚ
     translation: before you
     transliteration: qablika
   14:
@@ -67,11 +67,11 @@ word_by_word:
     translation: has come to you
     transliteration: jāaka
   16:
-    arabic: الۡحَقُّ
+    arabic: ٱلۡحَقُّ
     translation: the truth
     transliteration: l-ḥaqu
   17:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   18:
@@ -83,7 +83,7 @@ word_by_word:
     translation: so (do) not
     transliteration: falā
   20:
-    arabic: تَكُوۡنَنَّ
+    arabic: تَكُونَنَّ
     translation: be
     transliteration: takūnanna
   21:
@@ -91,7 +91,7 @@ word_by_word:
     translation: among
     transliteration: mina
   22:
-    arabic: الۡمُمۡتَرِيۡنَۙ‏
+    arabic: ٱلۡمُمۡتَرِينَ
     translation: the doubters
     transliteration: l-mum'tarīna
 ---

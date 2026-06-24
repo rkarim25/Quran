@@ -1,31 +1,31 @@
 ---
-arabic_ayat: وَالَّذِيۡنَ يُمَسِّكُوۡنَ بِالۡـكِتٰبِ وَاَقَامُوا الصَّلٰوةَ ؕ اِنَّا
-  لَا نُضِيۡعُ اَجۡرَ الۡمُصۡلِحِيۡنَ‏
+arabic_ayat: وَٱلَّذِينَ يُمَسِّكُونَ بِٱلۡكِتَٰبِ وَأَقَامُواْ ٱلصَّلَوٰةَ إِنَّا
+  لَا نُضِيعُ أَجۡرَ ٱلۡمُصۡلِحِينَ
 sentence_translation: As for those who firmly abide by the Scripture and establish
   prayer—surely We never discount the reward of those acting righteously.
 word_by_word:
   1:
-    arabic: وَالَّذِيۡنَ
+    arabic: وَٱلَّذِينَ
     translation: And those who
     transliteration: wa-alladhīna
   2:
-    arabic: يُمَسِّكُوۡنَ
+    arabic: يُمَسِّكُونَ
     translation: hold fast
     transliteration: yumassikūna
   3:
-    arabic: بِالۡـكِتٰبِ
+    arabic: بِٱلۡكِتَٰبِ
     translation: to the Book
     transliteration: bil-kitābi
   4:
-    arabic: وَاَقَامُوا
+    arabic: وَأَقَامُواْ
     translation: and establish
     transliteration: wa-aqāmū
   5:
-    arabic: الصَّلٰوةَ ؕ
+    arabic: ٱلصَّلَوٰةَ
     translation: the prayer
     transliteration: l-ṣalata
   6:
-    arabic: اِنَّا
+    arabic: إِنَّا
     translation: indeed, We
     transliteration: innā
   7:
@@ -33,15 +33,15 @@ word_by_word:
     translation: (will) not
     transliteration: lā
   8:
-    arabic: نُضِيۡعُ
+    arabic: نُضِيعُ
     translation: '[We] let go waste'
     transliteration: nuḍīʿu
   9:
-    arabic: اَجۡرَ
+    arabic: أَجۡرَ
     translation: (the) reward
     transliteration: ajra
   10:
-    arabic: الۡمُصۡلِحِيۡنَ‏
+    arabic: ٱلۡمُصۡلِحِينَ
     translation: (of) the reformers
     transliteration: l-muṣ'liḥīna
 ---

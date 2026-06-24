@@ -1,6 +1,6 @@
 ---
-arabic_ayat: "سَبَّحَ لِلّٰهِ مَا فِى السَّمٰوٰتِ وَالۡاَرۡضِ​ۚ وَهُوَ الۡعَزِيۡزُ\
-  \ الۡحَكِيۡمُ‏ \uFEFF\uFEFF"
+arabic_ayat: سَبَّحَ لِلَّهِ مَا فِي ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِۖ وَهُوَ ٱلۡعَزِيزُ
+  ٱلۡحَكِيمُ
 sentence_translation: Whatever is in the heavens and the earth glorifies Allah, for
   He is the Almighty, All-Wise.
 word_by_word:
@@ -9,7 +9,7 @@ word_by_word:
     translation: Glorifies
     transliteration: sabbaḥa
   2:
-    arabic: لِلّٰهِ
+    arabic: لِلَّهِ
     translation: '[to] Allah'
     transliteration: lillahi
   3:
@@ -17,15 +17,15 @@ word_by_word:
     translation: whatever
     transliteration: mā
   4:
-    arabic: فِى
+    arabic: فِي
     translation: (is) in
     transliteration: fī
   5:
-    arabic: السَّمٰوٰتِ
+    arabic: ٱلسَّمَٰوَٰتِ
     translation: the heavens
     transliteration: l-samāwāti
   6:
-    arabic: وَالۡاَرۡضِ​ۚ
+    arabic: وَٱلۡأَرۡضِۖ
     translation: and the earth
     transliteration: wal-arḍi
   7:
@@ -33,11 +33,11 @@ word_by_word:
     translation: and He
     transliteration: wahuwa
   8:
-    arabic: الۡعَزِيۡزُ
+    arabic: ٱلۡعَزِيزُ
     translation: (is) the All-Mighty
     transliteration: l-ʿazīzu
   9:
-    arabic: "الۡحَكِيۡمُ‏ \uFEFF\uFEFF"
+    arabic: ٱلۡحَكِيمُ
     translation: the All-Wise
     transliteration: l-ḥakīmu
 ---

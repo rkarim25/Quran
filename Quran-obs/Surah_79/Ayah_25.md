@@ -1,26 +1,26 @@
 ---
-arabic_ayat: فَاَخَذَهُ اللّٰهُ نَڪَالَ الۡاٰخِرَةِ وَالۡاُوۡلٰى ؕ‏
+arabic_ayat: فَأَخَذَهُ ٱللَّهُ نَكَالَ ٱلۡأٓخِرَةِ وَٱلۡأُولَىٰٓ
 sentence_translation: So Allah overtook him, making him an example in this life and
   the next.
 word_by_word:
   1:
-    arabic: فَاَخَذَهُ
+    arabic: فَأَخَذَهُ
     translation: So seized him
     transliteration: fa-akhadhahu
   2:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   3:
-    arabic: نَڪَالَ
+    arabic: نَكَالَ
     translation: (with) an exemplary punishment
     transliteration: nakāla
   4:
-    arabic: الۡاٰخِرَةِ
+    arabic: ٱلۡأٓخِرَةِ
     translation: (for) the last
     transliteration: l-ākhirati
   5:
-    arabic: وَالۡاُوۡلٰى ؕ‏
+    arabic: وَٱلۡأُولَىٰٓ
     translation: and the first
     transliteration: wal-ūlā
 ---

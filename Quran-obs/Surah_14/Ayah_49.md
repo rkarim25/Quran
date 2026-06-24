@@ -1,5 +1,5 @@
 ---
-arabic_ayat: وَتَرَى الۡمُجۡرِمِيۡنَ يَوۡمَٮِٕذٍ مُّقَرَّنِيۡنَ فِى الۡاَصۡفَادِ​ۚ‏
+arabic_ayat: وَتَرَى ٱلۡمُجۡرِمِينَ يَوۡمَئِذٖ مُّقَرَّنِينَ فِي ٱلۡأَصۡفَادِ
 sentence_translation: On that Day you will see the wicked bound together in chains,
 word_by_word:
   1:
@@ -7,23 +7,23 @@ word_by_word:
     translation: And you will see
     transliteration: watarā
   2:
-    arabic: الۡمُجۡرِمِيۡنَ
+    arabic: ٱلۡمُجۡرِمِينَ
     translation: the criminals
     transliteration: l-muj'rimīna
   3:
-    arabic: يَوۡمَٮِٕذٍ
+    arabic: يَوۡمَئِذٖ
     translation: (on) that Day
     transliteration: yawma-idhin
   4:
-    arabic: مُّقَرَّنِيۡنَ
+    arabic: مُّقَرَّنِينَ
     translation: bound together
     transliteration: muqarranīna
   5:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   6:
-    arabic: الۡاَصۡفَادِ​ۚ‏
+    arabic: ٱلۡأَصۡفَادِ
     translation: the chains
     transliteration: l-aṣfādi
 ---

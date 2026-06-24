@@ -1,27 +1,26 @@
 ---
-arabic_ayat: "سَابِقُوۡۤا اِلٰى مَغۡفِرَةٍ مِّنۡ رَّبِّكُمۡ وَجَنَّةٍ عَرۡضُهَا كَعَرۡضِ\
-  \ السَّمَآءِ وَ الۡاَرۡضِۙ اُعِدَّتۡ لِلَّذِيۡنَ اٰمَنُوۡا بِاللّٰهِ وَرُسُلِهٖ​ؕ\
-  \ ذٰلِكَ فَضۡلُ اللّٰهِ يُؤۡتِيۡهِ مَنۡ يَّشَآءُ​ؕ وَاللّٰهُ ذُو الۡفَضۡلِ الۡعَظِيۡمِ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: سَابِقُوٓاْ إِلَىٰ مَغۡفِرَةٖ مِّن رَّبِّكُمۡ وَجَنَّةٍ عَرۡضُهَا كَعَرۡضِ
+  ٱلسَّمَآءِ وَٱلۡأَرۡضِ أُعِدَّتۡ لِلَّذِينَ ءَامَنُواْ بِٱللَّهِ وَرُسُلِهِۦۚ ذَٰلِكَ
+  فَضۡلُ ٱللَّهِ يُؤۡتِيهِ مَن يَشَآءُۚ وَٱللَّهُ ذُو ٱلۡفَضۡلِ ٱلۡعَظِيمِ
 sentence_translation: ˹So˺ compete with one another for forgiveness from your Lord
   and a Paradise as vast as the heavens and the earth, prepared for those who believe
   in Allah and His messengers. This is the favour of Allah. He grants it to whoever
   He wills. And Allah is the Lord of infinite bounty.
 word_by_word:
   1:
-    arabic: سَابِقُوۡۤا
+    arabic: سَابِقُوٓاْ
     translation: Race
     transliteration: sābiqū
   2:
-    arabic: اِلٰى
+    arabic: إِلَىٰ
     translation: to
     transliteration: ilā
   3:
-    arabic: مَغۡفِرَةٍ
+    arabic: مَغۡفِرَةٖ
     translation: (the) forgiveness
     transliteration: maghfiratin
   4:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: from
     transliteration: min
   5:
@@ -41,35 +40,35 @@ word_by_word:
     translation: (is) like (the) width
     transliteration: kaʿarḍi
   9:
-    arabic: السَّمَآءِ
+    arabic: ٱلسَّمَآءِ
     translation: (of) the heaven
     transliteration: l-samāi
   10:
-    arabic: وَالۡاَرۡضِۙ
+    arabic: وَٱلۡأَرۡضِ
     translation: and the earth
     transliteration: wal-arḍi
   11:
-    arabic: اُعِدَّتۡ
+    arabic: أُعِدَّتۡ
     translation: prepared
     transliteration: uʿiddat
   12:
-    arabic: لِلَّذِيۡنَ
+    arabic: لِلَّذِينَ ءَ
     translation: for those who
     transliteration: lilladhīna
   13:
-    arabic: اٰمَنُوۡا
+    arabic: امَنُواْ
     translation: believe
     transliteration: āmanū
   14:
-    arabic: بِاللّٰهِ
+    arabic: بِٱللَّهِ
     translation: in Allah
     transliteration: bil-lahi
   15:
-    arabic: وَرُسُلِهٖ​ؕ
+    arabic: وَرُسُلِهِۦۚ
     translation: and His Messengers
     transliteration: warusulihi
   16:
-    arabic: ذٰلِكَ
+    arabic: ذَٰلِكَ
     translation: That
     transliteration: dhālika
   17:
@@ -77,23 +76,23 @@ word_by_word:
     translation: (is the) Bounty
     transliteration: faḍlu
   18:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (of) Allah
     transliteration: l-lahi
   19:
-    arabic: يُؤۡتِيۡهِ
+    arabic: يُؤۡتِيهِ
     translation: He gives
     transliteration: yu'tīhi
   20:
-    arabic: مَنۡ
+    arabic: مَن
     translation: (to) whom
     transliteration: man
   21:
-    arabic: يَّشَآءُ​ؕ
+    arabic: يَشَآءُۚ
     translation: He wills
     transliteration: yashāu
   22:
-    arabic: وَاللّٰهُ
+    arabic: وَٱللَّهُ
     translation: And Allah
     transliteration: wal-lahu
   23:
@@ -101,11 +100,11 @@ word_by_word:
     translation: (is) the Possessor of Bounty
     transliteration: dhū
   24:
-    arabic: الۡفَضۡلِ
+    arabic: ٱلۡفَضۡلِ
     translation: (is) the Possessor of Bounty
     transliteration: l-faḍli
   25:
-    arabic: الۡعَظِيۡمِ‏
+    arabic: ٱلۡعَظِيمِ
     translation: the Great
     transliteration: l-ʿaẓīmi
 ---

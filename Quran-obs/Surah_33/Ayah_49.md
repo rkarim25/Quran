@@ -1,25 +1,25 @@
 ---
-arabic_ayat: يٰۤـاَيُّهَا الَّذِيۡنَ اٰمَنُوۡۤا اِذَا نَكَحۡتُمُ الۡمُؤۡمِنٰتِ ثُمَّ
-  طَلَّقۡتُمُوۡهُنَّ مِنۡ قَبۡلِ اَنۡ تَمَسُّوۡهُنَّ فَمَا لَـكُمۡ عَلَيۡهِنَّ مِنۡ
-  عِدَّةٍ تَعۡتَدُّوۡنَهَا ۚ فَمَتِّعُوۡهُنَّ وَسَرِّحُوۡهُنَّ سَرَاحًا جَمِيۡلًا‏
+arabic_ayat: يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓاْ إِذَا نَكَحۡتُمُ ٱلۡمُؤۡمِنَٰتِ ثُمَّ
+  طَلَّقۡتُمُوهُنَّ مِن قَبۡلِ أَن تَمَسُّوهُنَّ فَمَا لَكُمۡ عَلَيۡهِنَّ مِنۡ عِدَّةٖ
+  تَعۡتَدُّونَهَاۖ فَمَتِّعُوهُنَّ وَسَرِّحُوهُنَّ سَرَاحٗا جَمِيلٗا
 sentence_translation: O believers! If you marry believing women and then divorce them
   before you touch them, they will have no waiting period for you to count, so give
   them a ˹suitable˺ compensation, and let them go graciously.
 word_by_word:
   1:
-    arabic: يٰۤـاَيُّهَا
+    arabic: يَٰٓأَيُّهَا
     translation: O you who believe
     transliteration: yāayyuhā
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ ءَ
     translation: O you who believe
     transliteration: alladhīna
   3:
-    arabic: اٰمَنُوۡۤا
+    arabic: امَنُوٓاْ
     translation: O you who believe
     transliteration: āmanū
   4:
-    arabic: اِذَا
+    arabic: إِذَا
     translation: When
     transliteration: idhā
   5:
@@ -27,7 +27,7 @@ word_by_word:
     translation: you marry
     transliteration: nakaḥtumu
   6:
-    arabic: الۡمُؤۡمِنٰتِ
+    arabic: ٱلۡمُؤۡمِنَٰتِ
     translation: believing women
     transliteration: l-mu'mināti
   7:
@@ -35,11 +35,11 @@ word_by_word:
     translation: and then
     transliteration: thumma
   8:
-    arabic: طَلَّقۡتُمُوۡهُنَّ
+    arabic: طَلَّقۡتُمُوهُنَّ
     translation: divorce them
     transliteration: ṭallaqtumūhunna
   9:
-    arabic: مِنۡ
+    arabic: مِن
     translation: before
     transliteration: min
   10:
@@ -47,11 +47,11 @@ word_by_word:
     translation: before
     transliteration: qabli
   11:
-    arabic: اَنۡ
+    arabic: أَن
     translation: '[that]'
     transliteration: an
   12:
-    arabic: تَمَسُّوۡهُنَّ
+    arabic: تَمَسُّوهُنَّ
     translation: you have touched them
     transliteration: tamassūhunna
   13:
@@ -59,7 +59,7 @@ word_by_word:
     translation: then not
     transliteration: famā
   14:
-    arabic: لَـكُمۡ
+    arabic: لَكُمۡ
     translation: for you
     transliteration: lakum
   15:
@@ -71,27 +71,27 @@ word_by_word:
     translation: any
     transliteration: min
   17:
-    arabic: عِدَّةٍ
+    arabic: عِدَّةٖ
     translation: waiting period
     transliteration: ʿiddatin
   18:
-    arabic: تَعۡتَدُّوۡنَهَا ۚ
+    arabic: تَعۡتَدُّونَهَاۖ
     translation: (to) count concerning them
     transliteration: taʿtaddūnahā
   19:
-    arabic: فَمَتِّعُوۡهُنَّ
+    arabic: فَمَتِّعُوهُنَّ
     translation: So provide for them
     transliteration: famattiʿūhunna
   20:
-    arabic: وَسَرِّحُوۡهُنَّ
+    arabic: وَسَرِّحُوهُنَّ
     translation: and release them
     transliteration: wasarriḥūhunna
   21:
-    arabic: سَرَاحًا
+    arabic: سَرَاحٗا
     translation: (with) a release
     transliteration: sarāḥan
   22:
-    arabic: جَمِيۡلًا‏
+    arabic: جَمِيلٗا
     translation: good
     transliteration: jamīlan
 ---

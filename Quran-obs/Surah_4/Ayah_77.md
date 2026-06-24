@@ -1,10 +1,10 @@
 ---
-arabic_ayat: اَلَمۡ تَرَ اِلَى الَّذِيۡنَ قِيۡلَ لَهُمۡ كُفُّوۡۤا اَيۡدِيَكُمۡ وَاَقِيۡمُوا
-  الصَّلٰوةَ وَاٰ تُوا الزَّكٰوةَ ۚ فَلَمَّا كُتِبَ عَلَيۡهِمُ الۡقِتَالُ اِذَا فَرِيۡقٌ
-  مِّنۡهُمۡ يَخۡشَوۡنَ النَّاسَ كَخَشۡيَةِ اللّٰهِ اَوۡ اَشَدَّ خَشۡيَةً​ ۚ وَقَالُوۡا
-  رَبَّنَا لِمَ كَتَبۡتَ عَلَيۡنَا الۡقِتَالَ ۚ لَوۡلَاۤ اَخَّرۡتَنَاۤ اِلٰٓى اَجَلٍ
-  قَرِيۡبٍ​ ؕ قُلۡ مَتَاعُ الدُّنۡيَا قَلِيۡلٌ​ ۚ وَالۡاٰخِرَةُ خَيۡرٌ لِّمَنِ اتَّقٰى
-  وَلَا تُظۡلَمُوۡنَ فَتِيۡلًا‏
+arabic_ayat: أَلَمۡ تَرَ إِلَى ٱلَّذِينَ قِيلَ لَهُمۡ كُفُّوٓاْ أَيۡدِيَكُمۡ وَأَقِيمُواْ
+  ٱلصَّلَوٰةَ وَءَاتُواْ ٱلزَّكَوٰةَ فَلَمَّا كُتِبَ عَلَيۡهِمُ ٱلۡقِتَالُ إِذَا فَرِيقٞ
+  مِّنۡهُمۡ يَخۡشَوۡنَ ٱلنَّاسَ كَخَشۡيَةِ ٱللَّهِ أَوۡ أَشَدَّ خَشۡيَةٗۚ وَقَالُواْ
+  رَبَّنَا لِمَ كَتَبۡتَ عَلَيۡنَا ٱلۡقِتَالَ لَوۡلَآ أَخَّرۡتَنَآ إِلَىٰٓ أَجَلٖ
+  قَرِيبٖۗ قُلۡ مَتَٰعُ ٱلدُّنۡيَا قَلِيلٞ وَٱلۡأٓخِرَةُ خَيۡرٞ لِّمَنِ ٱتَّقَىٰ وَلَا
+  تُظۡلَمُونَ فَتِيلًا
 sentence_translation: Have you ˹O Prophet˺ not seen those who had been told, “Do not
   fight! Rather, establish prayer and pay alms-tax.”? Then once the order came to
   fight, a group of them feared those ˹hostile˺ people as Allah should be feared—or
@@ -15,7 +15,7 @@ sentence_translation: Have you ˹O Prophet˺ not seen those who had been told, �
   a date stone.
 word_by_word:
   1:
-    arabic: اَلَمۡ
+    arabic: أَلَمۡ
     translation: Have not
     transliteration: alam
   2:
@@ -23,15 +23,15 @@ word_by_word:
     translation: you seen
     transliteration: tara
   3:
-    arabic: اِلَى
+    arabic: إِلَى
     translation: '[towards]'
     transliteration: ilā
   4:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   5:
-    arabic: قِيۡلَ
+    arabic: قِيلَ
     translation: (when) it was said
     transliteration: qīla
   6:
@@ -39,27 +39,27 @@ word_by_word:
     translation: to them
     transliteration: lahum
   7:
-    arabic: كُفُّوۡۤا
+    arabic: كُفُّوٓاْ
     translation: Restrain
     transliteration: kuffū
   8:
-    arabic: اَيۡدِيَكُمۡ
+    arabic: أَيۡدِيَكُمۡ
     translation: your hands
     transliteration: aydiyakum
   9:
-    arabic: وَاَقِيۡمُوا
+    arabic: وَأَقِيمُواْ
     translation: and establish
     transliteration: wa-aqīmū
   10:
-    arabic: الصَّلٰوةَ
+    arabic: ٱلصَّلَوٰةَ
     translation: the prayer
     transliteration: l-ṣalata
   11:
-    arabic: وَاٰ تُوا
+    arabic: وَءَاتُواْ
     translation: and give
     transliteration: waātū
   12:
-    arabic: الزَّكٰوةَ ۚ
+    arabic: ٱلزَّكَوٰةَ
     translation: the zakah
     transliteration: l-zakata
   13:
@@ -75,15 +75,15 @@ word_by_word:
     translation: on them
     transliteration: ʿalayhimu
   16:
-    arabic: الۡقِتَالُ
+    arabic: ٱلۡقِتَالُ
     translation: the fighting
     transliteration: l-qitālu
   17:
-    arabic: اِذَا
+    arabic: إِذَا
     translation: then
     transliteration: idhā
   18:
-    arabic: فَرِيۡقٌ
+    arabic: فَرِيقٞ
     translation: a group
     transliteration: farīqun
   19:
@@ -95,7 +95,7 @@ word_by_word:
     translation: '[they] fear'
     transliteration: yakhshawna
   21:
-    arabic: النَّاسَ
+    arabic: ٱلنَّاسَ
     translation: the people
     transliteration: l-nāsa
   22:
@@ -103,23 +103,23 @@ word_by_word:
     translation: as (they) fear
     transliteration: kakhashyati
   23:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   24:
-    arabic: اَوۡ
+    arabic: أَوۡ
     translation: or
     transliteration: aw
   25:
-    arabic: اَشَدَّ
+    arabic: أَشَدَّ
     translation: more intense
     transliteration: ashadda
   26:
-    arabic: خَشۡيَةً​ ۚ
+    arabic: خَشۡيَةٗۚ
     translation: fear
     transliteration: khashyatan
   27:
-    arabic: وَقَالُوۡا
+    arabic: وَقَالُواْ
     translation: and they said
     transliteration: waqālū
   28:
@@ -139,27 +139,27 @@ word_by_word:
     translation: upon us
     transliteration: ʿalaynā
   32:
-    arabic: الۡقِتَالَ ۚ
+    arabic: ٱلۡقِتَالَ
     translation: '[the] fighting'
     transliteration: l-qitāla
   33:
-    arabic: لَوۡلَاۤ
+    arabic: لَوۡلَآ
     translation: Why not
     transliteration: lawlā
   34:
-    arabic: اَخَّرۡتَنَاۤ
+    arabic: أَخَّرۡتَنَآ
     translation: You postpone (it for) us
     transliteration: akhartanā
   35:
-    arabic: اِلٰٓى
+    arabic: إِلَىٰٓ
     translation: to
     transliteration: ilā
   36:
-    arabic: اَجَلٍ
+    arabic: أَجَلٖ
     translation: a term
     transliteration: ajalin
   37:
-    arabic: قَرِيۡبٍ​ ؕ
+    arabic: قَرِيبٖۗ
     translation: near
     transliteration: qarībin
   38:
@@ -167,23 +167,23 @@ word_by_word:
     translation: Say
     transliteration: qul
   39:
-    arabic: مَتَاعُ
+    arabic: مَتَٰعُ
     translation: Enjoyment
     transliteration: matāʿu
   40:
-    arabic: الدُّنۡيَا
+    arabic: ٱلدُّنۡيَا
     translation: (of) the world
     transliteration: l-dun'yā
   41:
-    arabic: قَلِيۡلٌ​ ۚ
+    arabic: قَلِيلٞ
     translation: (is) little
     transliteration: qalīlun
   42:
-    arabic: وَالۡاٰخِرَةُ
+    arabic: وَٱلۡأٓخِرَةُ
     translation: and the Hereafter
     transliteration: wal-ākhiratu
   43:
-    arabic: خَيۡرٌ
+    arabic: خَيۡرٞ
     translation: (is) better
     transliteration: khayrun
   44:
@@ -191,7 +191,7 @@ word_by_word:
     translation: for whoever
     transliteration: limani
   45:
-    arabic: اتَّقٰى
+    arabic: ٱتَّقَىٰ
     translation: fears (Allah)
     transliteration: ittaqā
   46:
@@ -199,11 +199,11 @@ word_by_word:
     translation: and not
     transliteration: walā
   47:
-    arabic: تُظۡلَمُوۡنَ
+    arabic: تُظۡلَمُونَ
     translation: you will be wronged
     transliteration: tuẓ'lamūna
   48:
-    arabic: فَتِيۡلًا‏
+    arabic: فَتِيلًا
     translation: (even as much as) a hair on a date-seed
     transliteration: fatīlan
 ---

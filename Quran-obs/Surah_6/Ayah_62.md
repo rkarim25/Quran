@@ -1,6 +1,6 @@
 ---
-arabic_ayat: ثُمَّ رُدُّوۡۤا اِلَى اللّٰهِ مَوۡلٰٮهُمُ الۡحَـقِّ​ؕ اَلَا لَهُ الۡحُكۡمُ
-  وَهُوَ اَسۡرَعُ الۡحَاسِبِيۡنَ‏
+arabic_ayat: ثُمَّ رُدُّوٓاْ إِلَى ٱللَّهِ مَوۡلَىٰهُمُ ٱلۡحَقِّۚ أَلَا لَهُ ٱلۡحُكۡمُ
+  وَهُوَ أَسۡرَعُ ٱلۡحَٰسِبِينَ
 sentence_translation: Then they are ˹all˺ returned to Allah—their True Master. Judgment
   is His ˹alone˺. And He is the Swiftest Reckoner.
 word_by_word:
@@ -9,27 +9,27 @@ word_by_word:
     translation: Then
     transliteration: thumma
   2:
-    arabic: رُدُّوۡۤا
+    arabic: رُدُّوٓاْ
     translation: they are returned
     transliteration: ruddū
   3:
-    arabic: اِلَى
+    arabic: إِلَى
     translation: to
     transliteration: ilā
   4:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   5:
-    arabic: مَوۡلٰٮهُمُ
+    arabic: مَوۡلَىٰهُمُ
     translation: 'their Protector '
     transliteration: mawlāhumu
   6:
-    arabic: الۡحَـقِّ​ؕ
+    arabic: ٱلۡحَقِّۚ
     translation: '[the] True'
     transliteration: l-ḥaqi
   7:
-    arabic: اَلَا
+    arabic: أَلَا
     translation: Unquestionably
     transliteration: alā
   8:
@@ -37,7 +37,7 @@ word_by_word:
     translation: for Him
     transliteration: lahu
   9:
-    arabic: الۡحُكۡمُ
+    arabic: ٱلۡحُكۡمُ
     translation: (is) the judgment
     transliteration: l-ḥuk'mu
   10:
@@ -45,11 +45,11 @@ word_by_word:
     translation: And He
     transliteration: wahuwa
   11:
-    arabic: اَسۡرَعُ
+    arabic: أَسۡرَعُ
     translation: (is) swiftest
     transliteration: asraʿu
   12:
-    arabic: الۡحَاسِبِيۡنَ‏
+    arabic: ٱلۡحَٰسِبِينَ
     translation: (of) the Reckoners
     transliteration: l-ḥāsibīna
 ---

@@ -1,31 +1,31 @@
 ---
-arabic_ayat: اَلَّذِيۡنَ يَقُوۡلُوۡنَ رَبَّنَاۤ اِنَّنَاۤ اٰمَنَّا فَاغۡفِرۡ لَنَا
-  ذُنُوۡبَنَا وَقِنَا عَذَابَ النَّارِ​ۚ‏
+arabic_ayat: ٱلَّذِينَ يَقُولُونَ رَبَّنَآ إِنَّنَآ ءَامَنَّا فَٱغۡفِرۡ لَنَا ذُنُوبَنَا
+  وَقِنَا عَذَابَ ٱلنَّارِ
 sentence_translation: who pray, “Our Lord! We have believed, so forgive our sins and
   protect us from the torment of the Fire.”
 word_by_word:
   1:
-    arabic: اَلَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: Those who
     transliteration: alladhīna
   2:
-    arabic: يَقُوۡلُوۡنَ
+    arabic: يَقُولُونَ
     translation: say
     transliteration: yaqūlūna
   3:
-    arabic: رَبَّنَاۤ
+    arabic: رَبَّنَآ
     translation: Our Lord
     transliteration: rabbanā
   4:
-    arabic: اِنَّنَاۤ
+    arabic: إِنَّنَآ ءَ
     translation: Indeed, we
     transliteration: innanā
   5:
-    arabic: اٰمَنَّا
+    arabic: امَنَّا
     translation: (have) believed
     transliteration: āmannā
   6:
-    arabic: فَاغۡفِرۡ
+    arabic: فَٱغۡفِرۡ
     translation: so forgive
     transliteration: fa-igh'fir
   7:
@@ -33,7 +33,7 @@ word_by_word:
     translation: for us
     transliteration: lanā
   8:
-    arabic: ذُنُوۡبَنَا
+    arabic: ذُنُوبَنَا
     translation: our sins
     transliteration: dhunūbanā
   9:
@@ -45,7 +45,7 @@ word_by_word:
     translation: (from) punishment
     transliteration: ʿadhāba
   11:
-    arabic: النَّارِ​ۚ‏
+    arabic: ٱلنَّارِ
     translation: (of) the Fire
     transliteration: l-nāri
 ---

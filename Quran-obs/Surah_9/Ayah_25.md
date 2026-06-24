@@ -1,14 +1,14 @@
 ---
-arabic_ayat: لَـقَدۡ نَصَرَكُمُ اللّٰهُ فِىۡ مَوَاطِنَ كَثِيۡرَةٍ​ ۙ وَّيَوۡمَ حُنَيۡنٍ​
-  ۙ اِذۡ اَعۡجَبَـتۡكُمۡ كَثۡرَتُكُمۡ فَلَمۡ تُغۡنِ عَنۡكُمۡ شَيۡـًٔـا وَّضَاقَتۡ
-  عَلَيۡكُمُ الۡاَرۡضُ بِمَا رَحُبَتۡ ثُمَّ وَلَّـيۡتُمۡ مُّدۡبِرِيۡنَ​ۚ‏
+arabic_ayat: لَقَدۡ نَصَرَكُمُ ٱللَّهُ فِي مَوَاطِنَ كَثِيرَةٖ وَيَوۡمَ حُنَيۡنٍ إِذۡ
+  أَعۡجَبَتۡكُمۡ كَثۡرَتُكُمۡ فَلَمۡ تُغۡنِ عَنكُمۡ شَيۡـٔٗا وَضَاقَتۡ عَلَيۡكُمُ
+  ٱلۡأَرۡضُ بِمَا رَحُبَتۡ ثُمَّ وَلَّيۡتُم مُّدۡبِرِينَ
 sentence_translation: Indeed Allah has given you ˹believers˺ victory on many battlefields,
   even at the Battle of Ḥunain when you took pride in your great numbers, but they
   proved of no advantage to you. The earth, despite its vastness, seemed to close
   in on you, then you turned back in retreat.
 word_by_word:
   1:
-    arabic: لَـقَدۡ
+    arabic: لَقَدۡ
     translation: Verily
     transliteration: laqad
   2:
@@ -16,11 +16,11 @@ word_by_word:
     translation: Allah helped you
     transliteration: naṣarakumu
   3:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah helped you
     transliteration: l-lahu
   4:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   5:
@@ -28,23 +28,23 @@ word_by_word:
     translation: regions
     transliteration: mawāṭina
   6:
-    arabic: كَثِيۡرَةٍ​ ۙ
+    arabic: كَثِيرَةٖ
     translation: many
     transliteration: kathīratin
   7:
-    arabic: وَّيَوۡمَ
+    arabic: وَيَوۡمَ
     translation: and (on the) day
     transliteration: wayawma
   8:
-    arabic: حُنَيۡنٍ​ ۙ
+    arabic: حُنَيۡنٍ
     translation: (of) Hunain
     transliteration: ḥunaynin
   9:
-    arabic: اِذۡ
+    arabic: إِذۡ
     translation: when
     transliteration: idh
   10:
-    arabic: اَعۡجَبَـتۡكُمۡ
+    arabic: أَعۡجَبَتۡكُمۡ
     translation: pleased you
     transliteration: aʿjabatkum
   11:
@@ -60,15 +60,15 @@ word_by_word:
     translation: availed
     transliteration: tugh'ni
   14:
-    arabic: عَنۡكُمۡ
+    arabic: عَنكُمۡ
     translation: you
     transliteration: ʿankum
   15:
-    arabic: شَيۡـًٔـا
+    arabic: شَيۡـٔٗا
     translation: anything
     transliteration: shayan
   16:
-    arabic: وَّضَاقَتۡ
+    arabic: وَضَاقَتۡ
     translation: and (was) straitened
     transliteration: waḍāqat
   17:
@@ -76,7 +76,7 @@ word_by_word:
     translation: for you
     transliteration: ʿalaykumu
   18:
-    arabic: الۡاَرۡضُ
+    arabic: ٱلۡأَرۡضُ
     translation: the earth
     transliteration: l-arḍu
   19:
@@ -92,11 +92,11 @@ word_by_word:
     translation: then
     transliteration: thumma
   22:
-    arabic: وَلَّـيۡتُمۡ
+    arabic: وَلَّيۡتُم
     translation: you turned back
     transliteration: wallaytum
   23:
-    arabic: مُّدۡبِرِيۡنَ​ۚ‏
+    arabic: مُّدۡبِرِينَ
     translation: fleeing
     transliteration: mud'birīna
 ---

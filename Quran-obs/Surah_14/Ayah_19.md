@@ -1,11 +1,11 @@
 ---
-arabic_ayat: اَلَمۡ تَرَ اَنَّ اللّٰهَ خَلَقَ السَّمٰوٰتِ وَالۡاَرۡضَ بِالۡحَـقِّ​ؕ
-  اِنۡ يَّشَاۡ يُذۡهِبۡكُمۡ وَيَاۡتِ بِخَلۡقٍ جَدِيۡدٍۙ‏
+arabic_ayat: أَلَمۡ تَرَ أَنَّ ٱللَّهَ خَلَقَ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضَ بِٱلۡحَقِّۚ
+  إِن يَشَأۡ يُذۡهِبۡكُمۡ وَيَأۡتِ بِخَلۡقٖ جَدِيدٖ
 sentence_translation: Have you not seen that Allah created the heavens and the earth
   for a reason? If He wills, He can eliminate you and produce a new creation.
 word_by_word:
   1:
-    arabic: اَلَمۡ
+    arabic: أَلَمۡ
     translation: Do not
     transliteration: alam
   2:
@@ -13,11 +13,11 @@ word_by_word:
     translation: you see
     transliteration: tara
   3:
-    arabic: اَنَّ
+    arabic: أَنَّ
     translation: that
     transliteration: anna
   4:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   5:
@@ -25,23 +25,23 @@ word_by_word:
     translation: created
     transliteration: khalaqa
   6:
-    arabic: السَّمٰوٰتِ
+    arabic: ٱلسَّمَٰوَٰتِ
     translation: the heavens
     transliteration: l-samāwāti
   7:
-    arabic: وَالۡاَرۡضَ
+    arabic: وَٱلۡأَرۡضَ
     translation: and the earth
     transliteration: wal-arḍa
   8:
-    arabic: بِالۡحَـقِّ​ؕ
+    arabic: بِٱلۡحَقِّۚ
     translation: in truth
     transliteration: bil-ḥaqi
   9:
-    arabic: اِنۡ
+    arabic: إِن
     translation: If
     transliteration: in
   10:
-    arabic: يَّشَاۡ
+    arabic: يَشَأۡ
     translation: He wills
     transliteration: yasha
   11:
@@ -49,15 +49,15 @@ word_by_word:
     translation: He can remove you
     transliteration: yudh'hib'kum
   12:
-    arabic: وَيَاۡتِ
+    arabic: وَيَأۡتِ
     translation: and bring
     transliteration: wayati
   13:
-    arabic: بِخَلۡقٍ
+    arabic: بِخَلۡقٖ
     translation: a creation
     transliteration: bikhalqin
   14:
-    arabic: جَدِيۡدٍۙ‏
+    arabic: جَدِيدٖ
     translation: new
     transliteration: jadīdin
 ---

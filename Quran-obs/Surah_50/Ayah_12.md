@@ -1,5 +1,5 @@
 ---
-arabic_ayat: كَذَّبَتۡ قَبۡلَهُمۡ قَوۡمُ نُوۡحٍ وَّاَصۡحٰبُ الرَّسِّ وَثَمُوۡدُۙ‏
+arabic_ayat: كَذَّبَتۡ قَبۡلَهُمۡ قَوۡمُ نُوحٖ وَأَصۡحَٰبُ ٱلرَّسِّ وَثَمُودُ
 sentence_translation: Before them, the people of Noah denied ˹the truth,˺ as did the
   people of the Water-pit, Thamûd,
 word_by_word:
@@ -16,19 +16,19 @@ word_by_word:
     translation: (the) people
     transliteration: qawmu
   4:
-    arabic: نُوۡحٍ
+    arabic: نُوحٖ
     translation: (of) Nuh
     transliteration: nūḥin
   5:
-    arabic: وَّاَصۡحٰبُ
+    arabic: وَأَصۡحَٰبُ
     translation: and (the) companions
     transliteration: wa-aṣḥābu
   6:
-    arabic: الرَّسِّ
+    arabic: ٱلرَّسِّ
     translation: (of) Ar-Raas
     transliteration: l-rasi
   7:
-    arabic: وَثَمُوۡدُۙ‏
+    arabic: وَثَمُودُ
     translation: and Thamud
     transliteration: wathamūdu
 ---

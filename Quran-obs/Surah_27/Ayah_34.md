@@ -1,6 +1,6 @@
 ---
-arabic_ayat: قَالَتۡ اِنَّ الۡمُلُوۡكَ اِذَا دَخَلُوۡا قَرۡيَةً اَفۡسَدُوۡهَا وَجَعَلُوۡۤا
-  اَعِزَّةَ اَهۡلِهَاۤ اَذِلَّةً  ​ۚ وَكَذٰلِكَ يَفۡعَلُوۡنَ‏
+arabic_ayat: قَالَتۡ إِنَّ ٱلۡمُلُوكَ إِذَا دَخَلُواْ قَرۡيَةً أَفۡسَدُوهَا وَجَعَلُوٓاْ
+  أَعِزَّةَ أَهۡلِهَآ أَذِلَّةٗۚ وَكَذَٰلِكَ يَفۡعَلُونَ
 sentence_translation: She reasoned, “Indeed, when kings invade a land, they ruin it
   and debase its nobles. They really do so!
 word_by_word:
@@ -9,19 +9,19 @@ word_by_word:
     translation: She said
     transliteration: qālat
   2:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   3:
-    arabic: الۡمُلُوۡكَ
+    arabic: ٱلۡمُلُوكَ
     translation: the kings
     transliteration: l-mulūka
   4:
-    arabic: اِذَا
+    arabic: إِذَا
     translation: when
     transliteration: idhā
   5:
-    arabic: دَخَلُوۡا
+    arabic: دَخَلُواْ
     translation: they enter
     transliteration: dakhalū
   6:
@@ -29,31 +29,31 @@ word_by_word:
     translation: a town
     transliteration: qaryatan
   7:
-    arabic: اَفۡسَدُوۡهَا
+    arabic: أَفۡسَدُوهَا
     translation: they ruin it
     transliteration: afsadūhā
   8:
-    arabic: وَجَعَلُوۡۤا
+    arabic: وَجَعَلُوٓاْ
     translation: and make
     transliteration: wajaʿalū
   9:
-    arabic: اَعِزَّةَ
+    arabic: أَعِزَّةَ
     translation: (the) most honorable
     transliteration: aʿizzata
   10:
-    arabic: اَهۡلِهَاۤ
+    arabic: أَهۡلِهَآ
     translation: (of) its people
     transliteration: ahlihā
   11:
-    arabic: اَذِلَّةً  ​ۚ
+    arabic: أَذِلَّةٗۚ
     translation: (the) lowest
     transliteration: adhillatan
   12:
-    arabic: وَكَذٰلِكَ
+    arabic: وَكَذَٰلِكَ
     translation: And thus
     transliteration: wakadhālika
   13:
-    arabic: يَفۡعَلُوۡنَ‏
+    arabic: يَفۡعَلُونَ
     translation: they do
     transliteration: yafʿalūna
 ---

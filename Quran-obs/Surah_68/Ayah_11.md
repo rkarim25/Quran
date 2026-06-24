@@ -1,17 +1,17 @@
 ---
-arabic_ayat: هَمَّازٍ مَّشَّآءٍۢ بِنَمِيۡمٍۙ‏
+arabic_ayat: هَمَّازٖ مَّشَّآءِۭ بِنَمِيمٖ
 sentence_translation: slanderer, gossip-monger,
 word_by_word:
   1:
-    arabic: هَمَّازٍ
+    arabic: هَمَّازٖ
     translation: Defamer
     transliteration: hammāzin
   2:
-    arabic: مَّشَّآءٍۢ
+    arabic: مَّشَّآءِۭ
     translation: going about
     transliteration: mashāin
   3:
-    arabic: بِنَمِيۡمٍۙ‏
+    arabic: بِنَمِيمٖ
     translation: with malicious gossip
     transliteration: binamīmin
 ---

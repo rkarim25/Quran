@@ -1,13 +1,13 @@
 ---
-arabic_ayat: اِذۡ نُسَوِّيۡكُمۡ بِرَبِّ الۡعٰلَمِيۡنَ‏
+arabic_ayat: إِذۡ نُسَوِّيكُم بِرَبِّ ٱلۡعَٰلَمِينَ
 sentence_translation: when we made you equal to the Lord of all worlds.
 word_by_word:
   1:
-    arabic: اِذۡ
+    arabic: إِذۡ
     translation: When
     transliteration: idh
   2:
-    arabic: نُسَوِّيۡكُمۡ
+    arabic: نُسَوِّيكُم
     translation: we equated you
     transliteration: nusawwīkum
   3:
@@ -15,7 +15,7 @@ word_by_word:
     translation: with (the) Lord
     transliteration: birabbi
   4:
-    arabic: الۡعٰلَمِيۡنَ‏
+    arabic: ٱلۡعَٰلَمِينَ
     translation: (of) the worlds
     transliteration: l-ʿālamīna
 ---

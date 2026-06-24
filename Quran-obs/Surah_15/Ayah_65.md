@@ -1,19 +1,19 @@
 ---
-arabic_ayat: فَاَسۡرِ بِاَهۡلِكَ بِقِطۡعٍ مِّنَ الَّيۡلِ وَاتَّبِعۡ اَدۡبَارَهُمۡ
-  وَلَا يَلۡـتَفِتۡ مِنۡكُمۡ اَحَدٌ وَّامۡضُوۡا حَيۡثُ تُؤۡمَرُوۡنَ‏
+arabic_ayat: فَأَسۡرِ بِأَهۡلِكَ بِقِطۡعٖ مِّنَ ٱلَّيۡلِ وَٱتَّبِعۡ أَدۡبَٰرَهُمۡ
+  وَلَا يَلۡتَفِتۡ مِنكُمۡ أَحَدٞ وَٱمۡضُواْ حَيۡثُ تُؤۡمَرُونَ
 sentence_translation: So travel with your family in the dark of night, and follow
   ˹closely˺ behind them. Do not let any of you look back, and go where you are commanded.”
 word_by_word:
   1:
-    arabic: فَاَسۡرِ
+    arabic: فَأَسۡرِ
     translation: So travel
     transliteration: fa-asri
   2:
-    arabic: بِاَهۡلِكَ
+    arabic: بِأَهۡلِكَ
     translation: with your family
     transliteration: bi-ahlika
   3:
-    arabic: بِقِطۡعٍ
+    arabic: بِقِطۡعٖ
     translation: in a portion
     transliteration: biqiṭ'ʿin
   4:
@@ -21,15 +21,15 @@ word_by_word:
     translation: of
     transliteration: mina
   5:
-    arabic: الَّيۡلِ
+    arabic: ٱلَّيۡلِ
     translation: the night
     transliteration: al-layli
   6:
-    arabic: وَاتَّبِعۡ
+    arabic: وَٱتَّبِعۡ
     translation: and follow
     transliteration: wa-ittabiʿ
   7:
-    arabic: اَدۡبَارَهُمۡ
+    arabic: أَدۡبَٰرَهُمۡ
     translation: their backs
     transliteration: adbārahum
   8:
@@ -37,19 +37,19 @@ word_by_word:
     translation: and not
     transliteration: walā
   9:
-    arabic: يَلۡـتَفِتۡ
+    arabic: يَلۡتَفِتۡ
     translation: let look back
     transliteration: yaltafit
   10:
-    arabic: مِنۡكُمۡ
+    arabic: مِنكُمۡ
     translation: among you
     transliteration: minkum
   11:
-    arabic: اَحَدٌ
+    arabic: أَحَدٞ
     translation: anyone
     transliteration: aḥadun
   12:
-    arabic: وَّامۡضُوۡا
+    arabic: وَٱمۡضُواْ
     translation: and go on
     transliteration: wa-im'ḍū
   13:
@@ -57,7 +57,7 @@ word_by_word:
     translation: where
     transliteration: ḥaythu
   14:
-    arabic: تُؤۡمَرُوۡنَ‏
+    arabic: تُؤۡمَرُونَ
     translation: you are ordered
     transliteration: tu'marūna
 ---

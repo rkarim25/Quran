@@ -1,37 +1,37 @@
 ---
-arabic_ayat: اَلۡمُنٰفِقُوۡنَ وَالۡمُنٰفِقٰتُ بَعۡضُهُمۡ مِّنۡۢ بَعۡضٍ​ۘ يَاۡمُرُوۡنَ
-  بِالۡمُنۡكَرِ وَيَنۡهَوۡنَ عَنِ الۡمَعۡرُوۡفِ وَيَقۡبِضُوۡنَ اَيۡدِيَهُمۡ​ؕ نَسُوا
-  اللّٰهَ فَنَسِيَهُمۡ​ؕ اِنَّ الۡمُنٰفِقِيۡنَ هُمُ الۡفٰسِقُوۡنَ‏
+arabic_ayat: ٱلۡمُنَٰفِقُونَ وَٱلۡمُنَٰفِقَٰتُ بَعۡضُهُم مِّنۢ بَعۡضٖۚ يَأۡمُرُونَ
+  بِٱلۡمُنكَرِ وَيَنۡهَوۡنَ عَنِ ٱلۡمَعۡرُوفِ وَيَقۡبِضُونَ أَيۡدِيَهُمۡۚ نَسُواْ
+  ٱللَّهَ فَنَسِيَهُمۡۚ إِنَّ ٱلۡمُنَٰفِقِينَ هُمُ ٱلۡفَٰسِقُونَ
 sentence_translation: 'The hypocrites, both men and women, are all alike: they encourage
   what is evil, forbid what is good, and withhold ˹what is in˺ their hands. They neglected
   Allah, so He neglected them. Surely the hypocrites are the rebellious.'
 word_by_word:
   1:
-    arabic: اَلۡمُنٰفِقُوۡنَ
+    arabic: ٱلۡمُنَٰفِقُونَ
     translation: The hypocrite men
     transliteration: al-munāfiqūna
   2:
-    arabic: وَالۡمُنٰفِقٰتُ
+    arabic: وَٱلۡمُنَٰفِقَٰتُ
     translation: and the hypocrite women
     transliteration: wal-munāfiqātu
   3:
-    arabic: بَعۡضُهُمۡ
+    arabic: بَعۡضُهُم
     translation: some of them
     transliteration: baʿḍuhum
   4:
-    arabic: مِّنۡۢ
+    arabic: مِّنۢ
     translation: (are) of
     transliteration: min
   5:
-    arabic: بَعۡضٍ​ۘ
+    arabic: بَعۡضٖۚ
     translation: others
     transliteration: baʿḍin
   6:
-    arabic: يَاۡمُرُوۡنَ
+    arabic: يَأۡمُرُونَ
     translation: They enjoin
     transliteration: yamurūna
   7:
-    arabic: بِالۡمُنۡكَرِ
+    arabic: بِٱلۡمُنكَرِ
     translation: the wrong
     transliteration: bil-munkari
   8:
@@ -43,35 +43,35 @@ word_by_word:
     translation: what
     transliteration: ʿani
   10:
-    arabic: الۡمَعۡرُوۡفِ
+    arabic: ٱلۡمَعۡرُوفِ
     translation: (is) the right
     transliteration: l-maʿrūfi
   11:
-    arabic: وَيَقۡبِضُوۡنَ
+    arabic: وَيَقۡبِضُونَ
     translation: and they close
     transliteration: wayaqbiḍūna
   12:
-    arabic: اَيۡدِيَهُمۡ​ؕ
+    arabic: أَيۡدِيَهُمۡۚ
     translation: their hands
     transliteration: aydiyahum
   13:
-    arabic: نَسُوا
+    arabic: نَسُواْ
     translation: They forget
     transliteration: nasū
   14:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   15:
-    arabic: فَنَسِيَهُمۡ​ؕ
+    arabic: فَنَسِيَهُمۡۚ
     translation: so He has forgotten them
     transliteration: fanasiyahum
   16:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   17:
-    arabic: الۡمُنٰفِقِيۡنَ
+    arabic: ٱلۡمُنَٰفِقِينَ
     translation: the hypocrites
     transliteration: l-munāfiqīna
   18:
@@ -79,7 +79,7 @@ word_by_word:
     translation: they (are)
     transliteration: humu
   19:
-    arabic: الۡفٰسِقُوۡنَ‏
+    arabic: ٱلۡفَٰسِقُونَ
     translation: the defiantly disobedient
     transliteration: l-fāsiqūna
 ---

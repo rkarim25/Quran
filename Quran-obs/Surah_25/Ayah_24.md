@@ -1,35 +1,34 @@
 ---
-arabic_ayat: "اَصۡحٰبُ الۡجَنَّةِ يَوۡمَٮِٕذٍ خَيۡرٌ مُّسۡتَقَرًّا وَّاَحۡسَنُ مَقِيۡلًا‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: أَصۡحَٰبُ ٱلۡجَنَّةِ يَوۡمَئِذٍ خَيۡرٞ مُّسۡتَقَرّٗا وَأَحۡسَنُ مَقِيلٗا
 sentence_translation: ˹But˺ on that Day the residents of Paradise will have the best
   settlement and the finest place to rest.
 word_by_word:
   1:
-    arabic: اَصۡحٰبُ
+    arabic: أَصۡحَٰبُ
     translation: (The) companions
     transliteration: aṣḥābu
   2:
-    arabic: الۡجَنَّةِ
+    arabic: ٱلۡجَنَّةِ
     translation: (of) Paradise
     transliteration: l-janati
   3:
-    arabic: يَوۡمَٮِٕذٍ
+    arabic: يَوۡمَئِذٍ
     translation: that Day
     transliteration: yawma-idhin
   4:
-    arabic: خَيۡرٌ
+    arabic: خَيۡرٞ
     translation: (will be in) a better
     transliteration: khayrun
   5:
-    arabic: مُّسۡتَقَرًّا
+    arabic: مُّسۡتَقَرّٗا
     translation: abode
     transliteration: mus'taqarran
   6:
-    arabic: وَّاَحۡسَنُ
+    arabic: وَأَحۡسَنُ
     translation: and a better
     transliteration: wa-aḥsanu
   7:
-    arabic: "مَقِيۡلًا‏ \uFEFF\uFEFF"
+    arabic: مَقِيلٗا
     translation: resting-place
     transliteration: maqīlan
 ---

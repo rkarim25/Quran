@@ -1,13 +1,13 @@
 ---
-arabic_ayat: وَّ يَنۡصُرَكَ اللّٰهُ نَصۡرًا عَزِيۡزًا‏
+arabic_ayat: وَيَنصُرَكَ ٱللَّهُ نَصۡرًا عَزِيزًا
 sentence_translation: and so that Allah will help you tremendously.
 word_by_word:
   1:
-    arabic: وَّ يَنۡصُرَكَ
+    arabic: وَيَنصُرَكَ
     translation: And Allah may help you
     transliteration: wayanṣuraka
   2:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: And Allah may help you
     transliteration: l-lahu
   3:
@@ -15,7 +15,7 @@ word_by_word:
     translation: (with) a help
     transliteration: naṣran
   4:
-    arabic: عَزِيۡزًا‏
+    arabic: عَزِيزًا
     translation: mighty
     transliteration: ʿazīzan
 ---

@@ -1,25 +1,25 @@
 ---
-arabic_ayat: سَلٰمٌ قَوۡلًا مِّنۡ رَّبٍّ رَّحِيۡمٍ‏
+arabic_ayat: سَلَٰمٞ قَوۡلٗا مِّن رَّبّٖ رَّحِيمٖ
 sentence_translation: And “Peace!” will be ˹their˺ greeting from the Merciful Lord.
 word_by_word:
   1:
-    arabic: سَلٰمٌ
+    arabic: سَلَٰمٞ
     translation: Peace
     transliteration: salāmun
   2:
-    arabic: قَوۡلًا
+    arabic: قَوۡلٗا
     translation: A word
     transliteration: qawlan
   3:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: from
     transliteration: min
   4:
-    arabic: رَّبٍّ
+    arabic: رَّبّٖ
     translation: a Lord
     transliteration: rabbin
   5:
-    arabic: رَّحِيۡمٍ‏
+    arabic: رَّحِيمٖ
     translation: Most Merciful
     transliteration: raḥīmin
 ---

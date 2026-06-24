@@ -1,21 +1,21 @@
 ---
-arabic_ayat: وَاُحِيۡطَ بِثَمَرِهٖ فَاَصۡبَحَ يُقَلِّبُ كَفَّيۡهِ عَلَىٰ مَاۤ اَنۡفَقَ
-  فِيۡهَا وَهِىَ خَاوِيَةٌ عَلٰى عُرُوۡشِهَا وَيَقُوۡلُ يٰلَيۡتَنِىۡ لَمۡ اُشۡرِكۡ
-  بِرَبِّىۡۤ اَحَدًا‏
+arabic_ayat: وَأُحِيطَ بِثَمَرِهِۦ فَأَصۡبَحَ يُقَلِّبُ كَفَّيۡهِ عَلَىٰ مَآ أَنفَقَ
+  فِيهَا وَهِيَ خَاوِيَةٌ عَلَىٰ عُرُوشِهَا وَيَقُولُ يَٰلَيۡتَنِي لَمۡ أُشۡرِكۡ بِرَبِّيٓ
+  أَحَدٗا
 sentence_translation: And so all his produce was ˹totally˺ ruined, so he started to
   wring his hands for all he had spent on it, while it had collapsed on its trellises.
   He cried, “Alas! I wish I had never associated anyone with my Lord ˹in worship˺!”
 word_by_word:
   1:
-    arabic: وَاُحِيۡطَ
+    arabic: وَأُحِيطَ
     translation: And were surrounded
     transliteration: wa-uḥīṭa
   2:
-    arabic: بِثَمَرِهٖ
+    arabic: بِثَمَرِهِۦ
     translation: his fruits
     transliteration: bithamarihi
   3:
-    arabic: فَاَصۡبَحَ
+    arabic: فَأَصۡبَحَ
     translation: so he began
     transliteration: fa-aṣbaḥa
   4:
@@ -31,19 +31,19 @@ word_by_word:
     translation: over
     transliteration: ʿalā
   7:
-    arabic: مَاۤ
+    arabic: مَآ
     translation: what
     transliteration: mā
   8:
-    arabic: اَنۡفَقَ
+    arabic: أَنفَقَ
     translation: he (had) spent
     transliteration: anfaqa
   9:
-    arabic: فِيۡهَا
+    arabic: فِيهَا
     translation: on it
     transliteration: fīhā
   10:
-    arabic: وَهِىَ
+    arabic: وَهِيَ
     translation: while it (had)
     transliteration: wahiya
   11:
@@ -51,19 +51,19 @@ word_by_word:
     translation: collapsed
     transliteration: khāwiyatun
   12:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: 'on'
     transliteration: ʿalā
   13:
-    arabic: عُرُوۡشِهَا
+    arabic: عُرُوشِهَا
     translation: its trellises
     transliteration: ʿurūshihā
   14:
-    arabic: وَيَقُوۡلُ
+    arabic: وَيَقُولُ
     translation: and he said
     transliteration: wayaqūlu
   15:
-    arabic: يٰلَيۡتَنِىۡ
+    arabic: يَٰلَيۡتَنِي
     translation: Oh! I wish
     transliteration: yālaytanī
   16:
@@ -71,15 +71,15 @@ word_by_word:
     translation: I had not associated
     transliteration: lam
   17:
-    arabic: اُشۡرِكۡ
+    arabic: أُشۡرِكۡ
     translation: I had not associated
     transliteration: ush'rik
   18:
-    arabic: بِرَبِّىۡۤ
+    arabic: بِرَبِّيٓ
     translation: with my Lord
     transliteration: birabbī
   19:
-    arabic: اَحَدًا‏
+    arabic: أَحَدٗا
     translation: anyone
     transliteration: aḥadan
 ---

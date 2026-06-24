@@ -1,17 +1,17 @@
 ---
-arabic_ayat: وَاِذَا الۡقُبُوۡرُ بُعۡثِرَتۡۙ‏
+arabic_ayat: وَإِذَا ٱلۡقُبُورُ بُعۡثِرَتۡ
 sentence_translation: and when the graves spill out,
 word_by_word:
   1:
-    arabic: وَاِذَا
+    arabic: وَإِذَا
     translation: And when
     transliteration: wa-idhā
   2:
-    arabic: الۡقُبُوۡرُ
+    arabic: ٱلۡقُبُورُ
     translation: the graves
     transliteration: l-qubūru
   3:
-    arabic: بُعۡثِرَتۡۙ‏
+    arabic: بُعۡثِرَتۡ
     translation: are overturned
     transliteration: buʿ'thirat
 ---

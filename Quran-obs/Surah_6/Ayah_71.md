@@ -1,9 +1,9 @@
 ---
-arabic_ayat: قُلۡ اَنَدۡعُوۡا مِنۡ دُوۡنِ اللّٰهِ مَا لَا يَنۡفَعُنَا وَلَا يَضُرُّنَا
-  وَنُرَدُّ عَلٰٓى اَعۡقَابِنَا بَعۡدَ اِذۡ هَدٰٮنَا اللّٰهُ كَالَّذِى اسۡتَهۡوَتۡهُ
-  الشَّيٰطِيۡنُ فِى الۡاَرۡضِ حَيۡرَانَ لَـهٗۤ اَصۡحٰبٌ يَّدۡعُوۡنَهٗۤ اِلَى الۡهُدَى
-  ائۡتِنَا ​ؕ قُلۡ اِنَّ هُدَى اللّٰهِ هُوَ الۡهُدٰى​ؕ وَاُمِرۡنَا لِنُسۡلِمَ لِرَبِّ
-  الۡعٰلَمِيۡنَۙ‏
+arabic_ayat: قُلۡ أَنَدۡعُواْ مِن دُونِ ٱللَّهِ مَا لَا يَنفَعُنَا وَلَا يَضُرُّنَا
+  وَنُرَدُّ عَلَىٰٓ أَعۡقَابِنَا بَعۡدَ إِذۡ هَدَىٰنَا ٱللَّهُ كَٱلَّذِي ٱسۡتَهۡوَتۡهُ
+  ٱلشَّيَٰطِينُ فِي ٱلۡأَرۡضِ حَيۡرَانَ لَهُۥٓ أَصۡحَٰبٞ يَدۡعُونَهُۥٓ إِلَى ٱلۡهُدَى
+  ٱئۡتِنَاۗ قُلۡ إِنَّ هُدَى ٱللَّهِ هُوَ ٱلۡهُدَىٰۖ وَأُمِرۡنَا لِنُسۡلِمَ لِرَبِّ
+  ٱلۡعَٰلَمِينَ
 sentence_translation: Ask ˹them, O  Prophet˺, “Should we invoke, other than Allah,
   those ˹idols˺ which cannot benefit or harm us, and turn back to disbelief after
   Allah has guided us? ˹If we do so, we will be˺ like those disoriented by devils
@@ -16,19 +16,19 @@ word_by_word:
     translation: Say
     transliteration: qul
   2:
-    arabic: اَنَدۡعُوۡا
+    arabic: أَنَدۡعُواْ
     translation: Shall we call
     transliteration: anadʿū
   3:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   4:
-    arabic: دُوۡنِ
+    arabic: دُونِ
     translation: besides
     transliteration: dūni
   5:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   6:
@@ -40,7 +40,7 @@ word_by_word:
     translation: not
     transliteration: lā
   8:
-    arabic: يَنۡفَعُنَا
+    arabic: يَنفَعُنَا
     translation: benefits us
     transliteration: yanfaʿunā
   9:
@@ -56,11 +56,11 @@ word_by_word:
     translation: and we turn back
     transliteration: wanuraddu
   12:
-    arabic: عَلٰٓى
+    arabic: عَلَىٰٓ
     translation: 'on'
     transliteration: ʿalā
   13:
-    arabic: اَعۡقَابِنَا
+    arabic: أَعۡقَابِنَا
     translation: our heels
     transliteration: aʿqābinā
   14:
@@ -68,63 +68,63 @@ word_by_word:
     translation: after
     transliteration: baʿda
   15:
-    arabic: اِذۡ
+    arabic: إِذۡ
     translation: '[when]'
     transliteration: idh
   16:
-    arabic: هَدٰٮنَا
+    arabic: هَدَىٰنَا
     translation: (has) guided us
     transliteration: hadānā
   17:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   18:
-    arabic: كَالَّذِى
+    arabic: كَٱلَّذِي
     translation: Like the one
     transliteration: ka-alladhī
   19:
-    arabic: اسۡتَهۡوَتۡهُ
+    arabic: ٱسۡتَهۡوَتۡهُ
     translation: whom (has been) enticed
     transliteration: is'tahwathu
   20:
-    arabic: الشَّيٰطِيۡنُ
+    arabic: ٱلشَّيَٰطِينُ
     translation: (by) the Shaitaan
     transliteration: l-shayāṭīnu
   21:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   22:
-    arabic: الۡاَرۡضِ
+    arabic: ٱلۡأَرۡضِ
     translation: the earth
     transliteration: l-arḍi
   23:
-    arabic: حَيۡرَانَ
+    arabic: حَيۡرَانَ
     translation: confused
     transliteration: ḥayrāna
   24:
-    arabic: لَـهٗۤ
+    arabic: لَهُۥٓ
     translation: he has
     transliteration: lahu
   25:
-    arabic: اَصۡحٰبٌ
+    arabic: أَصۡحَٰبٞ
     translation: companions
     transliteration: aṣḥābun
   26:
-    arabic: يَّدۡعُوۡنَهٗۤ
+    arabic: يَدۡعُونَهُۥٓ
     translation: who call him
     transliteration: yadʿūnahu
   27:
-    arabic: اِلَى
+    arabic: إِلَى
     translation: towards
     transliteration: ilā
   28:
-    arabic: الۡهُدَى
+    arabic: ٱلۡهُدَى
     translation: the guidance
     transliteration: l-hudā
   29:
-    arabic: ائۡتِنَا ​ؕ
+    arabic: ٱئۡتِنَاۗ
     translation: '''Come to us.'''
     transliteration: i'tinā
   30:
@@ -132,7 +132,7 @@ word_by_word:
     translation: Say
     transliteration: qul
   31:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   32:
@@ -140,7 +140,7 @@ word_by_word:
     translation: (the) Guidance
     transliteration: hudā
   33:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (of) Allah
     transliteration: l-lahi
   34:
@@ -148,11 +148,11 @@ word_by_word:
     translation: it
     transliteration: huwa
   35:
-    arabic: الۡهُدٰى​ؕ
+    arabic: ٱلۡهُدَىٰۖ
     translation: (is) the Guidance
     transliteration: l-hudā
   36:
-    arabic: وَاُمِرۡنَا
+    arabic: وَأُمِرۡنَا
     translation: and we have been commanded
     transliteration: wa-umir'nā
   37:
@@ -164,7 +164,7 @@ word_by_word:
     translation: to (the) Lord
     transliteration: lirabbi
   39:
-    arabic: الۡعٰلَمِيۡنَۙ‏
+    arabic: ٱلۡعَٰلَمِينَ
     translation: (of) the worlds
     transliteration: l-ʿālamīna
 ---

@@ -1,13 +1,13 @@
 ---
-arabic_ayat: اتَّبِعُوۡا مَنۡ لَّا يَسۡـــَٔلُكُمۡ اَجۡرًا وَّهُمۡ مُّهۡتَدُوۡنَ‏
+arabic_ayat: ٱتَّبِعُواْ مَن لَّا يَسۡـَٔلُكُمۡ أَجۡرٗا وَهُم مُّهۡتَدُونَ
 sentence_translation: Follow those who ask no reward of you, and are ˹rightly˺ guided.
 word_by_word:
   1:
-    arabic: اتَّبِعُوۡا
+    arabic: ٱتَّبِعُواْ
     translation: Follow
     transliteration: ittabiʿū
   2:
-    arabic: مَنۡ
+    arabic: مَن
     translation: (those) who
     transliteration: man
   3:
@@ -15,19 +15,19 @@ word_by_word:
     translation: (do) not
     transliteration: lā
   4:
-    arabic: يَسۡـــَٔلُكُمۡ
+    arabic: يَسۡـَٔلُكُمۡ
     translation: ask (of) you
     transliteration: yasalukum
   5:
-    arabic: اَجۡرًا
+    arabic: أَجۡرٗا
     translation: any payment
     transliteration: ajran
   6:
-    arabic: وَّهُمۡ
+    arabic: وَهُم
     translation: and they
     transliteration: wahum
   7:
-    arabic: مُّهۡتَدُوۡنَ‏
+    arabic: مُّهۡتَدُونَ
     translation: (are) rightly guided
     transliteration: muh'tadūna
 ---

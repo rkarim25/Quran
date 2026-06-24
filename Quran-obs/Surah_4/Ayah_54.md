@@ -1,72 +1,72 @@
 ---
-arabic_ayat: "اَمۡ يَحۡسُدُوۡنَ النَّاسَ عَلٰى مَاۤ اٰتٰٮهُمُ اللّٰهُ مِنۡ فَضۡلِهٖ​ۚ\
-  \ فَقَدۡ اٰتَيۡنَاۤ اٰلَ اِبۡرٰهِيۡمَ الۡـكِتٰبَ وَالۡحِكۡمَةَ وَاٰتَيۡنٰهُمۡ مُّلۡكًا\
-  \ عَظِيۡمًا‏ \uFEFF\uFEFF"
+arabic_ayat: أَمۡ يَحۡسُدُونَ ٱلنَّاسَ عَلَىٰ مَآ ءَاتَىٰهُمُ ٱللَّهُ مِن فَضۡلِهِۦۖ
+  فَقَدۡ ءَاتَيۡنَآ ءَالَ إِبۡرَٰهِيمَ ٱلۡكِتَٰبَ وَٱلۡحِكۡمَةَ وَءَاتَيۡنَٰهُم مُّلۡكًا
+  عَظِيمٗا
 sentence_translation: Or do they envy the people for Allah’s bounties? Indeed, We
   have given the descendants of Abraham the Book and wisdom, along with great authority.
 word_by_word:
   1:
-    arabic: اَمۡ
+    arabic: أَمۡ
     translation: Or
     transliteration: am
   2:
-    arabic: يَحۡسُدُوۡنَ
+    arabic: يَحۡسُدُونَ
     translation: are they jealous
     transliteration: yaḥsudūna
   3:
-    arabic: النَّاسَ
+    arabic: ٱلنَّاسَ
     translation: (of) the people
     transliteration: l-nāsa
   4:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: for
     transliteration: ʿalā
   5:
-    arabic: مَاۤ
+    arabic: مَآ ءَ
     translation: what
     transliteration: mā
   6:
-    arabic: اٰتٰٮهُمُ
+    arabic: اتَىٰهُمُ
     translation: gave them
     transliteration: ātāhumu
   7:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   8:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   9:
-    arabic: فَضۡلِهٖ​ۚ
+    arabic: فَضۡلِهِۦۖ
     translation: His Bounty
     transliteration: faḍlihi
   10:
-    arabic: فَقَدۡ
+    arabic: فَقَدۡ ءَ
     translation: But surely
     transliteration: faqad
   11:
-    arabic: اٰتَيۡنَاۤ
+    arabic: اتَيۡنَآ ءَ
     translation: We gave
     transliteration: ātaynā
   12:
-    arabic: اٰلَ
+    arabic: الَ
     translation: (the) family
     transliteration: āla
   13:
-    arabic: اِبۡرٰهِيۡمَ
+    arabic: إِبۡرَٰهِيمَ
     translation: (of) Ibrahim
     transliteration: ib'rāhīma
   14:
-    arabic: الۡـكِتٰبَ
+    arabic: ٱلۡكِتَٰبَ
     translation: the Book
     transliteration: l-kitāba
   15:
-    arabic: وَالۡحِكۡمَةَ
+    arabic: وَٱلۡحِكۡمَةَ
     translation: and [the] wisdom
     transliteration: wal-ḥik'mata
   16:
-    arabic: وَاٰتَيۡنٰهُمۡ
+    arabic: وَءَاتَيۡنَٰهُم
     translation: and [We] gave them
     transliteration: waātaynāhum
   17:
@@ -74,7 +74,7 @@ word_by_word:
     translation: a kingdom
     transliteration: mul'kan
   18:
-    arabic: "عَظِيۡمًا‏ \uFEFF\uFEFF"
+    arabic: عَظِيمٗا
     translation: great
     transliteration: ʿaẓīman
 ---

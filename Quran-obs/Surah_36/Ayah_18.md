@@ -1,16 +1,16 @@
 ---
-arabic_ayat: قَالُـوۡۤا اِنَّا تَطَيَّرۡنَا بِكُمۡۚ لَٮِٕنۡ لَّمۡ تَنۡتَهُوۡا لَنَرۡجُمَنَّكُمۡ
-  وَلَيَمَسَّنَّكُمۡ مِّنَّا عَذَابٌ اَلِيۡمٌ‏
+arabic_ayat: قَالُوٓاْ إِنَّا تَطَيَّرۡنَا بِكُمۡۖ لَئِن لَّمۡ تَنتَهُواْ لَنَرۡجُمَنَّكُمۡ
+  وَلَيَمَسَّنَّكُم مِّنَّا عَذَابٌ أَلِيمٞ
 sentence_translation: The people replied, “We definitely see you as a bad omen for
   us. If you do not desist, we will certainly stone you ˹to death˺ and you will be
   touched with a painful punishment from us.”
 word_by_word:
   1:
-    arabic: قَالُـوۡۤا
+    arabic: قَالُوٓاْ
     translation: They said
     transliteration: qālū
   2:
-    arabic: اِنَّا
+    arabic: إِنَّا
     translation: Indeed, we
     transliteration: innā
   3:
@@ -18,11 +18,11 @@ word_by_word:
     translation: '[we] see an evil omen'
     transliteration: taṭayyarnā
   4:
-    arabic: بِكُمۡۚ
+    arabic: بِكُمۡۖ
     translation: from you
     transliteration: bikum
   5:
-    arabic: لَٮِٕنۡ
+    arabic: لَئِن
     translation: If
     transliteration: la-in
   6:
@@ -30,7 +30,7 @@ word_by_word:
     translation: not
     transliteration: lam
   7:
-    arabic: تَنۡتَهُوۡا
+    arabic: تَنتَهُواْ
     translation: you desist
     transliteration: tantahū
   8:
@@ -38,7 +38,7 @@ word_by_word:
     translation: surely, we will stone you
     transliteration: lanarjumannakum
   9:
-    arabic: وَلَيَمَسَّنَّكُمۡ
+    arabic: وَلَيَمَسَّنَّكُم
     translation: and surely will touch you
     transliteration: walayamassannakum
   10:
@@ -50,7 +50,7 @@ word_by_word:
     translation: a punishment
     transliteration: ʿadhābun
   12:
-    arabic: اَلِيۡمٌ‏
+    arabic: أَلِيمٞ
     translation: painful
     transliteration: alīmun
 ---

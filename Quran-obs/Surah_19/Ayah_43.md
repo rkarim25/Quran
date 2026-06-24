@@ -1,15 +1,15 @@
 ---
-arabic_ayat: يٰۤـاَبَتِ اِنِّىۡ قَدۡ جَآءَنِىۡ مِنَ الۡعِلۡمِ مَا لَمۡ يَاۡتِكَ فَاتَّبِعۡنِىۡۤ
-  اَهۡدِكَ صِرَاطًا سَوِيًّا‏
+arabic_ayat: يَٰٓأَبَتِ إِنِّي قَدۡ جَآءَنِي مِنَ ٱلۡعِلۡمِ مَا لَمۡ يَأۡتِكَ فَٱتَّبِعۡنِيٓ
+  أَهۡدِكَ صِرَٰطٗا سَوِيّٗا
 sentence_translation: O  dear father! I have certainly received some knowledge which
   you have not received, so follow me and I will guide you to the Straight Path.
 word_by_word:
   1:
-    arabic: يٰۤـاَبَتِ
+    arabic: يَٰٓأَبَتِ
     translation: O my father
     transliteration: yāabati
   2:
-    arabic: اِنِّىۡ
+    arabic: إِنِّي
     translation: Indeed, [I]
     transliteration: innī
   3:
@@ -17,7 +17,7 @@ word_by_word:
     translation: verily
     transliteration: qad
   4:
-    arabic: جَآءَنِىۡ
+    arabic: جَآءَنِي
     translation: (has) come to me
     transliteration: jāanī
   5:
@@ -25,7 +25,7 @@ word_by_word:
     translation: of
     transliteration: mina
   6:
-    arabic: الۡعِلۡمِ
+    arabic: ٱلۡعِلۡمِ
     translation: the knowledge
     transliteration: l-ʿil'mi
   7:
@@ -37,23 +37,23 @@ word_by_word:
     translation: not
     transliteration: lam
   9:
-    arabic: يَاۡتِكَ
+    arabic: يَأۡتِكَ
     translation: came to you
     transliteration: yatika
   10:
-    arabic: فَاتَّبِعۡنِىۡۤ
+    arabic: فَٱتَّبِعۡنِيٓ
     translation: so follow me
     transliteration: fa-ittabiʿ'nī
   11:
-    arabic: اَهۡدِكَ
+    arabic: أَهۡدِكَ
     translation: I will guide you
     transliteration: ahdika
   12:
-    arabic: صِرَاطًا
+    arabic: صِرَٰطٗا
     translation: (to) the path
     transliteration: ṣirāṭan
   13:
-    arabic: سَوِيًّا‏
+    arabic: سَوِيّٗا
     translation: even
     transliteration: sawiyyan
 ---

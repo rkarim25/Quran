@@ -1,14 +1,14 @@
 ---
-arabic_ayat: وَاصۡبِرۡ عَلٰى مَا يَقُوۡلُوۡنَ وَاهۡجُرۡهُمۡ هَجۡرًا جَمِيۡلًا‏
+arabic_ayat: وَٱصۡبِرۡ عَلَىٰ مَا يَقُولُونَ وَٱهۡجُرۡهُمۡ هَجۡرٗا جَمِيلٗا
 sentence_translation: Be patient ˹O Prophet˺ with what they say, and depart from them
   courteously.
 word_by_word:
   1:
-    arabic: وَاصۡبِرۡ
+    arabic: وَٱصۡبِرۡ
     translation: And be patient
     transliteration: wa-iṣ'bir
   2:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: over
     transliteration: ʿalā
   3:
@@ -16,19 +16,19 @@ word_by_word:
     translation: what
     transliteration: mā
   4:
-    arabic: يَقُوۡلُوۡنَ
+    arabic: يَقُولُونَ
     translation: they say
     transliteration: yaqūlūna
   5:
-    arabic: وَاهۡجُرۡهُمۡ
+    arabic: وَٱهۡجُرۡهُمۡ
     translation: and avoid them
     transliteration: wa-uh'jur'hum
   6:
-    arabic: هَجۡرًا
+    arabic: هَجۡرٗا
     translation: an avoidance
     transliteration: hajran
   7:
-    arabic: جَمِيۡلًا‏
+    arabic: جَمِيلٗا
     translation: gracious
     transliteration: jamīlan
 ---

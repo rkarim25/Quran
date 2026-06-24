@@ -1,6 +1,5 @@
 ---
-arabic_ayat: "وَوُفِّيَتۡ كُلُّ نَفۡسٍ مَّا عَمِلَتۡ وَهُوَ اَعۡلَمُ بِمَا يَفۡعَلُوۡنَ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: وَوُفِّيَتۡ كُلُّ نَفۡسٖ مَّا عَمِلَتۡ وَهُوَ أَعۡلَمُ بِمَا يَفۡعَلُونَ
 sentence_translation: Every soul will be paid in full for its deeds, for Allah knows
   best what they have done.
 word_by_word:
@@ -13,7 +12,7 @@ word_by_word:
     translation: every
     transliteration: kullu
   3:
-    arabic: نَفۡسٍ
+    arabic: نَفۡسٖ
     translation: soul
     transliteration: nafsin
   4:
@@ -29,7 +28,7 @@ word_by_word:
     translation: and He
     transliteration: wahuwa
   7:
-    arabic: اَعۡلَمُ
+    arabic: أَعۡلَمُ
     translation: (is the) Best-Knower
     transliteration: aʿlamu
   8:
@@ -37,7 +36,7 @@ word_by_word:
     translation: of what
     transliteration: bimā
   9:
-    arabic: "يَفۡعَلُوۡنَ‏ \uFEFF\uFEFF"
+    arabic: يَفۡعَلُونَ
     translation: they do
     transliteration: yafʿalūna
 ---

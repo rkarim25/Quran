@@ -1,7 +1,7 @@
 ---
-arabic_ayat: قَالَتۡ رَبِّ اَنّٰى يَكُوۡنُ لِىۡ وَلَدٌ وَّلَمۡ يَمۡسَسۡنِىۡ بَشَرٌ ​ؕ
-  قَالَ كَذٰلِكِ اللّٰهُ يَخۡلُقُ مَا يَشَآءُ​ ؕ اِذَا قَضٰٓى اَمۡرًا فَاِنَّمَا
-  يَقُوۡلُ لَهٗ كُنۡ فَيَكُوۡنُ‏
+arabic_ayat: قَالَتۡ رَبِّ أَنَّىٰ يَكُونُ لِي وَلَدٞ وَلَمۡ يَمۡسَسۡنِي بَشَرٞۖ قَالَ
+  كَذَٰلِكِ ٱللَّهُ يَخۡلُقُ مَا يَشَآءُۚ إِذَا قَضَىٰٓ أَمۡرٗا فَإِنَّمَا يَقُولُ
+  لَهُۥ كُن فَيَكُونُ
 sentence_translation: Mary wondered, “My Lord! How can I have a child when no man
   has ever touched me?” An angel replied, “So will it be. Allah creates what He wills.
   When He decrees a matter, He simply tells it, ‘Be!’ And it is!
@@ -15,31 +15,31 @@ word_by_word:
     translation: My Lord
     transliteration: rabbi
   3:
-    arabic: اَنّٰى
+    arabic: أَنَّىٰ
     translation: how
     transliteration: annā
   4:
-    arabic: يَكُوۡنُ
+    arabic: يَكُونُ
     translation: is [it]
     transliteration: yakūnu
   5:
-    arabic: لِىۡ
+    arabic: لِي
     translation: for me
     transliteration: lī
   6:
-    arabic: وَلَدٌ
+    arabic: وَلَدٞ
     translation: a boy
     transliteration: waladun
   7:
-    arabic: وَّلَمۡ
+    arabic: وَلَمۡ
     translation: and (has) not
     transliteration: walam
   8:
-    arabic: يَمۡسَسۡنِىۡ
+    arabic: يَمۡسَسۡنِي
     translation: touch(ed) me
     transliteration: yamsasnī
   9:
-    arabic: بَشَرٌ ​ؕ
+    arabic: بَشَرٞۖ
     translation: any man
     transliteration: basharun
   10:
@@ -47,11 +47,11 @@ word_by_word:
     translation: He said
     transliteration: qāla
   11:
-    arabic: كَذٰلِكِ
+    arabic: كَذَٰلِكِ
     translation: Thus
     transliteration: kadhāliki
   12:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   13:
@@ -63,39 +63,39 @@ word_by_word:
     translation: what
     transliteration: mā
   15:
-    arabic: يَشَآءُ​ ؕ
+    arabic: يَشَآءُۚ
     translation: He wills
     transliteration: yashāu
   16:
-    arabic: اِذَا
+    arabic: إِذَا
     translation: When
     transliteration: idhā
   17:
-    arabic: قَضٰٓى
+    arabic: قَضَىٰٓ
     translation: He decrees
     transliteration: qaḍā
   18:
-    arabic: اَمۡرًا
+    arabic: أَمۡرٗا
     translation: a matter
     transliteration: amran
   19:
-    arabic: فَاِنَّمَا
+    arabic: فَإِنَّمَا
     translation: then only
     transliteration: fa-innamā
   20:
-    arabic: يَقُوۡلُ
+    arabic: يَقُولُ
     translation: He says
     transliteration: yaqūlu
   21:
-    arabic: لَهٗ
+    arabic: لَهُۥ
     translation: to it
     transliteration: lahu
   22:
-    arabic: كُنۡ
+    arabic: كُن
     translation: Be
     transliteration: kun
   23:
-    arabic: فَيَكُوۡنُ‏
+    arabic: فَيَكُونُ
     translation: and it becomes
     transliteration: fayakūnu
 ---

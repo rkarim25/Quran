@@ -1,5 +1,5 @@
 ---
-arabic_ayat: لَهُمۡ فِيۡهَا فَاكِهَةٌ وَّلَهُمۡ مَّا يَدَّعُوۡنَ​ ۖ​ۚ‏
+arabic_ayat: لَهُمۡ فِيهَا فَٰكِهَةٞ وَلَهُم مَّا يَدَّعُونَ
 sentence_translation: There they will have fruits and whatever they desire.
 word_by_word:
   1:
@@ -7,15 +7,15 @@ word_by_word:
     translation: For them
     transliteration: lahum
   2:
-    arabic: فِيۡهَا
+    arabic: فِيهَا
     translation: therein
     transliteration: fīhā
   3:
-    arabic: فَاكِهَةٌ
+    arabic: فَٰكِهَةٞ
     translation: (are) fruits
     transliteration: fākihatun
   4:
-    arabic: وَّلَهُمۡ
+    arabic: وَلَهُم
     translation: and for them
     transliteration: walahum
   5:
@@ -23,7 +23,7 @@ word_by_word:
     translation: (is) whatever
     transliteration: mā
   6:
-    arabic: يَدَّعُوۡنَ​ ۖ​ۚ‏
+    arabic: يَدَّعُونَ
     translation: they call for
     transliteration: yaddaʿūna
 ---

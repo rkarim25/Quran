@@ -1,11 +1,11 @@
 ---
-arabic_ayat: اِذۡ قَالَ لِاَبِيۡهِ يٰۤـاَبَتِ لِمَ تَعۡبُدُ مَا لَا يَسۡمَعُ وَلَا
-  يُبۡصِرُ وَ لَا يُغۡنِىۡ عَنۡكَ شَيۡــًٔـا‏
+arabic_ayat: إِذۡ قَالَ لِأَبِيهِ يَٰٓأَبَتِ لِمَ تَعۡبُدُ مَا لَا يَسۡمَعُ وَلَا
+  يُبۡصِرُ وَلَا يُغۡنِي عَنكَ شَيۡـٔٗا
 sentence_translation: ˹Remember˺ when he said to his father, “O dear father! Why do
   you worship what can neither hear nor see, nor benefit you at all?
 word_by_word:
   1:
-    arabic: اِذۡ
+    arabic: إِذۡ
     translation: When
     transliteration: idh
   2:
@@ -13,11 +13,11 @@ word_by_word:
     translation: he said
     transliteration: qāla
   3:
-    arabic: لِاَبِيۡهِ
+    arabic: لِأَبِيهِ
     translation: to his father
     transliteration: li-abīhi
   4:
-    arabic: يٰۤـاَبَتِ
+    arabic: يَٰٓأَبَتِ
     translation: O my father
     transliteration: yāabati
   5:
@@ -49,19 +49,19 @@ word_by_word:
     translation: sees
     transliteration: yub'ṣiru
   12:
-    arabic: وَ لَا
+    arabic: وَلَا
     translation: and not
     transliteration: walā
   13:
-    arabic: يُغۡنِىۡ
+    arabic: يُغۡنِي
     translation: benefits
     transliteration: yugh'nī
   14:
-    arabic: عَنۡكَ
+    arabic: عَنكَ
     translation: '[to] you'
     transliteration: ʿanka
   15:
-    arabic: شَيۡــًٔـا‏
+    arabic: شَيۡـٔٗا
     translation: (in) anything
     transliteration: shayan
 ---

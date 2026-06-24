@@ -1,9 +1,9 @@
 ---
-arabic_ayat: مِنۡ نُّطۡفَةٍ اِذَا تُمۡنٰى‏
+arabic_ayat: مِن نُّطۡفَةٍ إِذَا تُمۡنَىٰ
 sentence_translation: from a sperm-drop when it is emitted.
 word_by_word:
   1:
-    arabic: مِنۡ
+    arabic: مِن
     translation: From
     transliteration: min
   2:
@@ -11,11 +11,11 @@ word_by_word:
     translation: a semen-drop
     transliteration: nuṭ'fatin
   3:
-    arabic: اِذَا
+    arabic: إِذَا
     translation: when
     transliteration: idhā
   4:
-    arabic: تُمۡنٰى‏
+    arabic: تُمۡنَىٰ
     translation: it is emitted
     transliteration: tum'nā
 ---

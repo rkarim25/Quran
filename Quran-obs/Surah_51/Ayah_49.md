@@ -1,9 +1,9 @@
 ---
-arabic_ayat: وَمِنۡ كُلِّ شَىۡءٍ خَلَقۡنَا زَوۡجَيۡنِ لَعَلَّكُمۡ تَذَكَّرُوۡنَ‏
+arabic_ayat: وَمِن كُلِّ شَيۡءٍ خَلَقۡنَا زَوۡجَيۡنِ لَعَلَّكُمۡ تَذَكَّرُونَ
 sentence_translation: And We created pairs of all things so perhaps you would be mindful.
 word_by_word:
   1:
-    arabic: وَمِنۡ
+    arabic: وَمِن
     translation: And of
     transliteration: wamin
   2:
@@ -11,7 +11,7 @@ word_by_word:
     translation: every
     transliteration: kulli
   3:
-    arabic: شَىۡءٍ
+    arabic: شَيۡءٍ
     translation: thing
     transliteration: shayin
   4:
@@ -27,7 +27,7 @@ word_by_word:
     translation: so that you may
     transliteration: laʿallakum
   7:
-    arabic: تَذَكَّرُوۡنَ‏
+    arabic: تَذَكَّرُونَ
     translation: remember
     transliteration: tadhakkarūna
 ---

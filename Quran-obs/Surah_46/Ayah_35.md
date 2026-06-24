@@ -1,8 +1,7 @@
 ---
-arabic_ayat: "فَاصۡبِرۡ كَمَا صَبَرَ اُولُوا الۡعَزۡمِ مِنَ الرُّسُلِ وَلَا تَسۡتَعۡجِلْ\
-  \ لَّهُمۡ​ؕ كَاَنَّهُمۡ يَوۡمَ يَرَوۡن مَا يُوۡعَدُوۡنَۙ لَمۡ يَلۡبَثُوۡۤا اِلَّا\
-  \ سَاعَةً مِّنۡ نَّهَارٍ ​ؕ بَلٰغٌ ۚ فَهَلۡ يُهۡلَكُ اِلَّا الۡقَوۡمُ الۡفٰسِقُوۡنَ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: فَٱصۡبِرۡ كَمَا صَبَرَ أُوْلُواْ ٱلۡعَزۡمِ مِنَ ٱلرُّسُلِ وَلَا تَسۡتَعۡجِل
+  لَّهُمۡۚ كَأَنَّهُمۡ يَوۡمَ يَرَوۡنَ مَا يُوعَدُونَ لَمۡ يَلۡبَثُوٓاْ إِلَّا سَاعَةٗ
+  مِّن نَّهَارِۭۚ بَلَٰغٞۚ فَهَلۡ يُهۡلَكُ إِلَّا ٱلۡقَوۡمُ ٱلۡفَٰسِقُونَ
 sentence_translation: So endure patiently, as did the Messengers of Firm Resolve. And
   do not ˹seek to˺ hasten ˹the torment˺ for the deniers. On the Day they see what
   they have been threatened with, it will be as if they had only stayed ˹in this world˺
@@ -10,7 +9,7 @@ sentence_translation: So endure patiently, as did the Messengers of Firm Resolve
   except the rebellious people?
 word_by_word:
   1:
-    arabic: فَاصۡبِرۡ
+    arabic: فَٱصۡبِرۡ
     translation: So be patient
     transliteration: fa-iṣ'bir
   2:
@@ -22,11 +21,11 @@ word_by_word:
     translation: had patience
     transliteration: ṣabara
   4:
-    arabic: اُولُوا
+    arabic: أُوْلُواْ
     translation: those of determination
     transliteration: ulū
   5:
-    arabic: الۡعَزۡمِ
+    arabic: ٱلۡعَزۡمِ
     translation: those of determination
     transliteration: l-ʿazmi
   6:
@@ -34,7 +33,7 @@ word_by_word:
     translation: of
     transliteration: mina
   7:
-    arabic: الرُّسُلِ
+    arabic: ٱلرُّسُلِ
     translation: the Messengers
     transliteration: l-rusuli
   8:
@@ -42,15 +41,15 @@ word_by_word:
     translation: and (do) not
     transliteration: walā
   9:
-    arabic: تَسۡتَعۡجِلْ
+    arabic: تَسۡتَعۡجِل
     translation: seek to hasten
     transliteration: tastaʿjil
   10:
-    arabic: لَّهُمۡ​ؕ
+    arabic: لَّهُمۡۚ
     translation: for them
     transliteration: lahum
   11:
-    arabic: كَاَنَّهُمۡ
+    arabic: كَأَنَّهُمۡ
     translation: As if they had
     transliteration: ka-annahum
   12:
@@ -58,7 +57,7 @@ word_by_word:
     translation: (the) Day
     transliteration: yawma
   13:
-    arabic: يَرَوۡن
+    arabic: يَرَوۡنَ
     translation: they see
     transliteration: yarawna
   14:
@@ -66,7 +65,7 @@ word_by_word:
     translation: what
     transliteration: mā
   15:
-    arabic: يُوۡعَدُوۡنَۙ
+    arabic: يُوعَدُونَ
     translation: they were promised
     transliteration: yūʿadūna
   16:
@@ -74,27 +73,27 @@ word_by_word:
     translation: not
     transliteration: lam
   17:
-    arabic: يَلۡبَثُوۡۤا
+    arabic: يَلۡبَثُوٓاْ
     translation: remained
     transliteration: yalbathū
   18:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   19:
-    arabic: سَاعَةً
+    arabic: سَاعَةٗ
     translation: an hour
     transliteration: sāʿatan
   20:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: of
     transliteration: min
   21:
-    arabic: نَّهَارٍ ​ؕ
+    arabic: نَّهَارِۭۚ
     translation: a day
     transliteration: nahārin
   22:
-    arabic: بَلٰغٌ ۚ
+    arabic: بَلَٰغٞۚ
     translation: A notification
     transliteration: balāghun
   23:
@@ -106,15 +105,15 @@ word_by_word:
     translation: (any) be destroyed
     transliteration: yuh'laku
   25:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   26:
-    arabic: الۡقَوۡمُ
+    arabic: ٱلۡقَوۡمُ
     translation: 'the people '
     transliteration: l-qawmu
   27:
-    arabic: "الۡفٰسِقُوۡنَ‏ \uFEFF\uFEFF"
+    arabic: ٱلۡفَٰسِقُونَ
     translation: the defiantly disobedient
     transliteration: l-fāsiqūna
 ---

@@ -1,17 +1,17 @@
 ---
-arabic_ayat: قَالُوۡۤا اِنَّمَاۤ اَنۡتَ مِنَ الۡمُسَحَّرِيۡنَ​ۚ‏
+arabic_ayat: قَالُوٓاْ إِنَّمَآ أَنتَ مِنَ ٱلۡمُسَحَّرِينَ
 sentence_translation: They replied, “You are simply bewitched!
 word_by_word:
   1:
-    arabic: قَالُوۡۤا
+    arabic: قَالُوٓاْ
     translation: They said
     transliteration: qālū
   2:
-    arabic: اِنَّمَاۤ
+    arabic: إِنَّمَآ
     translation: Only
     transliteration: innamā
   3:
-    arabic: اَنۡتَ
+    arabic: أَنتَ
     translation: you
     transliteration: anta
   4:
@@ -19,7 +19,7 @@ word_by_word:
     translation: (are) of
     transliteration: mina
   5:
-    arabic: الۡمُسَحَّرِيۡنَ​ۚ‏
+    arabic: ٱلۡمُسَحَّرِينَ
     translation: those bewitched
     transliteration: l-musaḥarīna
 ---

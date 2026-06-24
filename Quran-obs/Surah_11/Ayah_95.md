@@ -1,11 +1,11 @@
 ---
-arabic_ayat: كَاَنۡ لَّمۡ يَغۡنَوۡا فِيۡهَا​ ؕ اَلَا بُعۡدًا لِّمَدۡيَنَ كَمَا بَعِدَتۡ
-  ثَمُوۡدُ‏
+arabic_ayat: كَأَن لَّمۡ يَغۡنَوۡاْ فِيهَآۗ أَلَا بُعۡدٗا لِّمَدۡيَنَ كَمَا بَعِدَتۡ
+  ثَمُودُ
 sentence_translation: as if they had never lived there. So away with Midian as it
   was with Thamûd!
 word_by_word:
   1:
-    arabic: كَاَنۡ
+    arabic: كَأَن
     translation: As if
     transliteration: ka-an
   2:
@@ -13,19 +13,19 @@ word_by_word:
     translation: not
     transliteration: lam
   3:
-    arabic: يَغۡنَوۡا
+    arabic: يَغۡنَوۡاْ
     translation: they (had) prospered
     transliteration: yaghnaw
   4:
-    arabic: فِيۡهَا​ ؕ
+    arabic: فِيهَآۗ
     translation: therein
     transliteration: fīhā
   5:
-    arabic: اَلَا
+    arabic: أَلَا
     translation: So
     transliteration: alā
   6:
-    arabic: بُعۡدًا
+    arabic: بُعۡدٗا
     translation: away
     transliteration: buʿ'dan
   7:
@@ -41,7 +41,7 @@ word_by_word:
     translation: was taken away
     transliteration: baʿidat
   10:
-    arabic: ثَمُوۡدُ‏
+    arabic: ثَمُودُ
     translation: the Thamud
     transliteration: thamūdu
 ---

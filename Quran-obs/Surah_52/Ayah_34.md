@@ -1,30 +1,30 @@
 ---
-arabic_ayat: فَلۡيَاۡتُوۡا بِحَدِيۡثٍ مِّثۡلِهٖۤ اِنۡ كَانُوۡا صٰدِقِيۡنَؕ‏
+arabic_ayat: فَلۡيَأۡتُواْ بِحَدِيثٖ مِّثۡلِهِۦٓ إِن كَانُواْ صَٰدِقِينَ
 sentence_translation: Let them then produce something like it, if what they say is
   true!
 word_by_word:
   1:
-    arabic: فَلۡيَاۡتُوۡا
+    arabic: فَلۡيَأۡتُواْ
     translation: Then let them bring
     transliteration: falyatū
   2:
-    arabic: بِحَدِيۡثٍ
+    arabic: بِحَدِيثٖ
     translation: a statement
     transliteration: biḥadīthin
   3:
-    arabic: مِّثۡلِهٖۤ
+    arabic: مِّثۡلِهِۦٓ
     translation: like it
     transliteration: mith'lihi
   4:
-    arabic: اِنۡ
+    arabic: إِن
     translation: if
     transliteration: in
   5:
-    arabic: كَانُوۡا
+    arabic: كَانُواْ
     translation: they are
     transliteration: kānū
   6:
-    arabic: صٰدِقِيۡنَؕ‏
+    arabic: صَٰدِقِينَ
     translation: truthful
     transliteration: ṣādiqīna
 ---

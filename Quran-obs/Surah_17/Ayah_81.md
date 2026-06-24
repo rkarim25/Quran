@@ -1,6 +1,5 @@
 ---
-arabic_ayat: "وَقُلۡ جَآءَ الۡحَـقُّ وَزَهَقَ الۡبَاطِلُ​ؕ اِنَّ الۡبَاطِلَ كَانَ\
-  \ زَهُوۡقًا‏ \uFEFF\uFEFF"
+arabic_ayat: وَقُلۡ جَآءَ ٱلۡحَقُّ وَزَهَقَ ٱلۡبَٰطِلُۚ إِنَّ ٱلۡبَٰطِلَ كَانَ زَهُوقٗا
 sentence_translation: And declare, “The truth has come and falsehood has vanished.
   Indeed, falsehood is bound to vanish.”
 word_by_word:
@@ -13,7 +12,7 @@ word_by_word:
     translation: Has come
     transliteration: jāa
   3:
-    arabic: الۡحَـقُّ
+    arabic: ٱلۡحَقُّ
     translation: the truth
     transliteration: l-ḥaqu
   4:
@@ -21,15 +20,15 @@ word_by_word:
     translation: and perished
     transliteration: wazahaqa
   5:
-    arabic: الۡبَاطِلُ​ؕ
+    arabic: ٱلۡبَٰطِلُۚ
     translation: the falsehood
     transliteration: l-bāṭilu
   6:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   7:
-    arabic: الۡبَاطِلَ
+    arabic: ٱلۡبَٰطِلَ
     translation: the falsehood
     transliteration: l-bāṭila
   8:
@@ -37,7 +36,7 @@ word_by_word:
     translation: is
     transliteration: kāna
   9:
-    arabic: "زَهُوۡقًا‏ \uFEFF\uFEFF"
+    arabic: زَهُوقٗا
     translation: (bound) to perish
     transliteration: zahūqan
 ---

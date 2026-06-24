@@ -1,67 +1,67 @@
 ---
-arabic_ayat: اَوۡ كَظُلُمٰتٍ فِىۡ بَحۡرٍ لُّـجّـِىٍّ يَّغۡشٰٮهُ مَوۡجٌ مِّنۡ فَوۡقِهٖ
-  مَوۡجٌ مِّنۡ فَوۡقِهٖ سَحَابٌ​ؕ ظُلُمٰتٌۢ بَعۡضُهَا فَوۡقَ بَعۡضٍؕ اِذَاۤ اَخۡرَجَ
-  يَدَهٗ لَمۡ يَكَدۡ يَرٰٮهَا​ؕ وَمَنۡ لَّمۡ يَجۡعَلِ اللّٰهُ لَهٗ نُوۡرًا فَمَا لَهٗ
-  مِنۡ نُّوۡرٍ‏
+arabic_ayat: أَوۡ كَظُلُمَٰتٖ فِي بَحۡرٖ لُّجِّيّٖ يَغۡشَىٰهُ مَوۡجٞ مِّن فَوۡقِهِۦ
+  مَوۡجٞ مِّن فَوۡقِهِۦ سَحَابٞۚ ظُلُمَٰتُۢ بَعۡضُهَا فَوۡقَ بَعۡضٍ إِذَآ أَخۡرَجَ
+  يَدَهُۥ لَمۡ يَكَدۡ يَرَىٰهَاۗ وَمَن لَّمۡ يَجۡعَلِ ٱللَّهُ لَهُۥ نُورٗا فَمَا لَهُۥ
+  مِن نُّورٍ
 sentence_translation: Or ˹their deeds are˺ like the darkness in a deep sea, covered
   by waves upon waves, topped by ˹dark˺ clouds. Darkness upon darkness! If one stretches
   out their hand, they can hardly see it. And whoever Allah does not bless with light
   will have no light!
 word_by_word:
   1:
-    arabic: اَوۡ
+    arabic: أَوۡ
     translation: Or
     transliteration: aw
   2:
-    arabic: كَظُلُمٰتٍ
+    arabic: كَظُلُمَٰتٖ
     translation: (is) like (the) darkness[es]
     transliteration: kaẓulumātin
   3:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   4:
-    arabic: بَحۡرٍ
+    arabic: بَحۡرٖ
     translation: a sea
     transliteration: baḥrin
   5:
-    arabic: لُّـجّـِىٍّ
+    arabic: لُّجِّيّٖ
     translation: deep
     transliteration: lujjiyyin
   6:
-    arabic: يَّغۡشٰٮهُ
+    arabic: يَغۡشَىٰهُ
     translation: covers it
     transliteration: yaghshāhu
   7:
-    arabic: مَوۡجٌ
+    arabic: مَوۡجٞ
     translation: a wave
     transliteration: mawjun
   8:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: on it
     transliteration: min
   9:
-    arabic: فَوۡقِهٖ
+    arabic: فَوۡقِهِۦ
     translation: on it
     transliteration: fawqihi
   10:
-    arabic: مَوۡجٌ
+    arabic: مَوۡجٞ
     translation: a wave
     transliteration: mawjun
   11:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: on it
     transliteration: min
   12:
-    arabic: فَوۡقِهٖ
+    arabic: فَوۡقِهِۦ
     translation: on it
     transliteration: fawqihi
   13:
-    arabic: سَحَابٌ​ؕ
+    arabic: سَحَابٞۚ
     translation: a cloud
     transliteration: saḥābun
   14:
-    arabic: ظُلُمٰتٌۢ
+    arabic: ظُلُمَٰتُۢ
     translation: darkness[es]
     transliteration: ẓulumātun
   15:
@@ -73,19 +73,19 @@ word_by_word:
     translation: 'on'
     transliteration: fawqa
   17:
-    arabic: بَعۡضٍؕ
+    arabic: بَعۡضٍ
     translation: others
     transliteration: baʿḍin
   18:
-    arabic: اِذَاۤ
+    arabic: إِذَآ
     translation: When
     transliteration: idhā
   19:
-    arabic: اَخۡرَجَ
+    arabic: أَخۡرَجَ
     translation: he puts out
     transliteration: akhraja
   20:
-    arabic: يَدَهٗ
+    arabic: يَدَهُۥ
     translation: his hand
     transliteration: yadahu
   21:
@@ -97,11 +97,11 @@ word_by_word:
     translation: hardly
     transliteration: yakad
   23:
-    arabic: يَرٰٮهَا​ؕ
+    arabic: يَرَىٰهَاۗ
     translation: he (can) see it
     transliteration: yarāhā
   24:
-    arabic: وَمَنۡ
+    arabic: وَمَن
     translation: And (for) whom
     transliteration: waman
   25:
@@ -113,15 +113,15 @@ word_by_word:
     translation: Allah (has) made
     transliteration: yajʿali
   27:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah (has) made
     transliteration: l-lahu
   28:
-    arabic: لَهٗ
+    arabic: لَهُۥ
     translation: for him
     transliteration: lahu
   29:
-    arabic: نُوۡرًا
+    arabic: نُورٗا
     translation: a light
     transliteration: nūran
   30:
@@ -129,15 +129,15 @@ word_by_word:
     translation: then not
     transliteration: famā
   31:
-    arabic: لَهٗ
+    arabic: لَهُۥ
     translation: for him
     transliteration: lahu
   32:
-    arabic: مِنۡ
+    arabic: مِن
     translation: (is) any
     transliteration: min
   33:
-    arabic: نُّوۡرٍ‏
+    arabic: نُّورٍ
     translation: light
     transliteration: nūrin
 ---

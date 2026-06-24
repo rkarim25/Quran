@@ -1,49 +1,49 @@
 ---
-arabic_ayat: وَّجَعَلۡنَا عَلٰى قُلُوۡبِهِمۡ اَكِنَّةً اَنۡ يَّفۡقَهُوۡهُ وَفِىۡۤ
-  اٰذَانِهِمۡ وَقۡرًا​ ؕ وَاِذَا ذَكَرۡتَ رَبَّكَ فِى الۡقُرۡاٰنِ وَحۡدَهٗ وَلَّوۡا
-  عَلٰٓى اَدۡبَارِهِمۡ نُفُوۡرًا‏
+arabic_ayat: وَجَعَلۡنَا عَلَىٰ قُلُوبِهِمۡ أَكِنَّةً أَن يَفۡقَهُوهُ وَفِيٓ ءَاذَانِهِمۡ
+  وَقۡرٗاۚ وَإِذَا ذَكَرۡتَ رَبَّكَ فِي ٱلۡقُرۡءَانِ وَحۡدَهُۥ وَلَّوۡاْ عَلَىٰٓ أَدۡبَٰرِهِمۡ
+  نُفُورٗا
 sentence_translation: We have cast veils over their hearts—leaving them unable to
   comprehend it—and deafness in their ears. And when you mention your Lord alone in
   the Quran, they turn their backs in aversion.
 word_by_word:
   1:
-    arabic: وَّجَعَلۡنَا
+    arabic: وَجَعَلۡنَا
     translation: And We have placed
     transliteration: wajaʿalnā
   2:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: over
     transliteration: ʿalā
   3:
-    arabic: قُلُوۡبِهِمۡ
+    arabic: قُلُوبِهِمۡ
     translation: their hearts
     transliteration: qulūbihim
   4:
-    arabic: اَكِنَّةً
+    arabic: أَكِنَّةً
     translation: coverings
     transliteration: akinnatan
   5:
-    arabic: اَنۡ
+    arabic: أَن
     translation: lest
     transliteration: an
   6:
-    arabic: يَّفۡقَهُوۡهُ
+    arabic: يَفۡقَهُوهُ
     translation: they understand it
     transliteration: yafqahūhu
   7:
-    arabic: وَفِىۡۤ
+    arabic: وَفِيٓ ءَ
     translation: and in
     transliteration: wafī
   8:
-    arabic: اٰذَانِهِمۡ
+    arabic: اذَانِهِمۡ
     translation: their ears
     transliteration: ādhānihim
   9:
-    arabic: وَقۡرًا​ ؕ
+    arabic: وَقۡرٗاۚ
     translation: deafness
     transliteration: waqran
   10:
-    arabic: وَاِذَا
+    arabic: وَإِذَا
     translation: And when
     transliteration: wa-idhā
   11:
@@ -55,31 +55,31 @@ word_by_word:
     translation: your Lord
     transliteration: rabbaka
   13:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   14:
-    arabic: الۡقُرۡاٰنِ
+    arabic: ٱلۡقُرۡءَانِ
     translation: the Quran
     transliteration: l-qur'āni
   15:
-    arabic: وَحۡدَهٗ
+    arabic: وَحۡدَهُۥ
     translation: Alone
     transliteration: waḥdahu
   16:
-    arabic: وَلَّوۡا
+    arabic: وَلَّوۡاْ
     translation: they turn
     transliteration: wallaw
   17:
-    arabic: عَلٰٓى
+    arabic: عَلَىٰٓ
     translation: 'on'
     transliteration: ʿalā
   18:
-    arabic: اَدۡبَارِهِمۡ
+    arabic: أَدۡبَٰرِهِمۡ
     translation: their backs
     transliteration: adbārihim
   19:
-    arabic: نُفُوۡرًا‏
+    arabic: نُفُورٗا
     translation: (in) aversion
     transliteration: nufūran
 ---

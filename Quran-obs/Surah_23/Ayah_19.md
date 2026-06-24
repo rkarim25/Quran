@@ -1,59 +1,59 @@
 ---
-arabic_ayat: فَاَنۡشَاۡنَا لَـكُمۡ بِهٖ جَنّٰتٍ مِّنۡ نَّخِيۡلٍ وَّ اَعۡنَابٍ​ ۘ لَـكُمۡ
-  فِيۡهَا فَوَاكِهُ كَثِيۡرَةٌ وَّمِنۡهَا تَاۡكُلُوۡنَ ۙ‏
+arabic_ayat: فَأَنشَأۡنَا لَكُم بِهِۦ جَنَّٰتٖ مِّن نَّخِيلٖ وَأَعۡنَٰبٖ لَّكُمۡ فِيهَا
+  فَوَٰكِهُ كَثِيرَةٞ وَمِنۡهَا تَأۡكُلُونَ
 sentence_translation: With it We produce for you gardens of palm trees and grapevines,
   in which there are abundant fruits, and from which you may eat,
 word_by_word:
   1:
-    arabic: فَاَنۡشَاۡنَا
+    arabic: فَأَنشَأۡنَا
     translation: Then We produced
     transliteration: fa-anshanā
   2:
-    arabic: لَـكُمۡ
+    arabic: لَكُم
     translation: for you
     transliteration: lakum
   3:
-    arabic: بِهٖ
+    arabic: بِهِۦ
     translation: by it
     transliteration: bihi
   4:
-    arabic: جَنّٰتٍ
+    arabic: جَنَّٰتٖ
     translation: gardens
     transliteration: jannātin
   5:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: of date-palms
     transliteration: min
   6:
-    arabic: نَّخِيۡلٍ
+    arabic: نَّخِيلٖ
     translation: of date-palms
     transliteration: nakhīlin
   7:
-    arabic: وَّ اَعۡنَابٍ​ ۘ
+    arabic: وَأَعۡنَٰبٖ
     translation: and grapevines
     transliteration: wa-aʿnābin
   8:
-    arabic: لَـكُمۡ
+    arabic: لَّكُمۡ
     translation: for you
     transliteration: lakum
   9:
-    arabic: فِيۡهَا
+    arabic: فِيهَا
     translation: in it
     transliteration: fīhā
   10:
-    arabic: فَوَاكِهُ
+    arabic: فَوَٰكِهُ
     translation: (are) fruits
     transliteration: fawākihu
   11:
-    arabic: كَثِيۡرَةٌ
+    arabic: كَثِيرَةٞ
     translation: abundant
     transliteration: kathīratun
   12:
-    arabic: وَّمِنۡهَا
+    arabic: وَمِنۡهَا
     translation: and from them
     transliteration: wamin'hā
   13:
-    arabic: تَاۡكُلُوۡنَ ۙ‏
+    arabic: تَأۡكُلُونَ
     translation: you eat
     transliteration: takulūna
 ---

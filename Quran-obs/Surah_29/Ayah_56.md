@@ -1,39 +1,39 @@
 ---
-arabic_ayat: "يٰعِبَادِىَ الَّذِيۡنَ اٰمَنُوۡۤا اِنَّ اَرۡضِىۡ وَاسِعَةٌ فَاِيَّاىَ\
-  \ فَاعۡبُدُوۡنِ‏ \uFEFF\uFEFF"
+arabic_ayat: يَٰعِبَادِيَ ٱلَّذِينَ ءَامَنُوٓاْ إِنَّ أَرۡضِي وَٰسِعَةٞ فَإِيَّٰيَ
+  فَٱعۡبُدُونِ
 sentence_translation: O My believing servants! My earth is truly spacious, so worship
   Me ˹alone˺.
 word_by_word:
   1:
-    arabic: يٰعِبَادِىَ
+    arabic: يَٰعِبَادِيَ
     translation: O My servants
     transliteration: yāʿibādiya
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ ءَ
     translation: who
     transliteration: alladhīna
   3:
-    arabic: اٰمَنُوۡۤا
+    arabic: امَنُوٓاْ
     translation: believe
     transliteration: āmanū
   4:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   5:
-    arabic: اَرۡضِىۡ
+    arabic: أَرۡضِي
     translation: My earth
     transliteration: arḍī
   6:
-    arabic: وَاسِعَةٌ
+    arabic: وَٰسِعَةٞ
     translation: (is) spacious
     transliteration: wāsiʿatun
   7:
-    arabic: فَاِيَّاىَ
+    arabic: فَإِيَّٰيَ
     translation: so only
     transliteration: fa-iyyāya
   8:
-    arabic: "فَاعۡبُدُوۡنِ‏ \uFEFF\uFEFF"
+    arabic: فَٱعۡبُدُونِ
     translation: worship Me
     transliteration: fa-uʿ'budūni
 ---

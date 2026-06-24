@@ -1,15 +1,15 @@
 ---
-arabic_ayat: اَللّٰهُ يَصۡطَفِىۡ مِنَ الۡمَلٰٓٮِٕكَةِ رُسُلًا وَّمِنَ النَّاسِ​ؕ اِنَّ
-  اللّٰهَ سَمِيۡعٌۢ بَصِيۡرٌ ​ۚ‏
+arabic_ayat: ٱللَّهُ يَصۡطَفِي مِنَ ٱلۡمَلَٰٓئِكَةِ رُسُلٗا وَمِنَ ٱلنَّاسِۚ إِنَّ
+  ٱللَّهَ سَمِيعُۢ بَصِيرٞ
 sentence_translation: Allah selects messengers from both angels and people, for Allah
   is truly All-Hearing, All-Seeing.
 word_by_word:
   1:
-    arabic: اَللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: al-lahu
   2:
-    arabic: يَصۡطَفِىۡ
+    arabic: يَصۡطَفِي
     translation: chooses
     transliteration: yaṣṭafī
   3:
@@ -17,35 +17,35 @@ word_by_word:
     translation: from
     transliteration: mina
   4:
-    arabic: الۡمَلٰٓٮِٕكَةِ
+    arabic: ٱلۡمَلَٰٓئِكَةِ
     translation: the Angels
     transliteration: l-malāikati
   5:
-    arabic: رُسُلًا
+    arabic: رُسُلٗا
     translation: Messengers
     transliteration: rusulan
   6:
-    arabic: وَّمِنَ
+    arabic: وَمِنَ
     translation: and from
     transliteration: wamina
   7:
-    arabic: النَّاسِ​ؕ
+    arabic: ٱلنَّاسِۚ
     translation: the mankind
     transliteration: l-nāsi
   8:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   9:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   10:
-    arabic: سَمِيۡعٌۢ
+    arabic: سَمِيعُۢ
     translation: (is) All-Hearer
     transliteration: samīʿun
   11:
-    arabic: بَصِيۡرٌ ​ۚ‏
+    arabic: بَصِيرٞ
     translation: All-Seer
     transliteration: baṣīrun
 ---

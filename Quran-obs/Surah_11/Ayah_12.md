@@ -1,7 +1,7 @@
 ---
-arabic_ayat: فَلَعَلَّكَ تَارِكٌۢ بَعۡضَ مَا يُوۡحٰٓى اِلَيۡكَ وَضَآٮِٕقٌ ۢ بِهٖ
-  صَدۡرُكَ اَنۡ يَّقُوۡلُوۡا لَوۡلَاۤ اُنۡزِلَ عَلَيۡهِ كَنۡزٌ اَوۡ جَآءَ مَعَهٗ
-  مَلَكٌ​ ؕ اِنَّمَاۤ اَنۡتَ نَذِيۡرٌ​ ؕ وَاللّٰهُ عَلٰى كُلِّ شَىۡءٍ وَّكِيۡلٌ ؕ‏
+arabic_ayat: فَلَعَلَّكَ تَارِكُۢ بَعۡضَ مَا يُوحَىٰٓ إِلَيۡكَ وَضَآئِقُۢ بِهِۦ صَدۡرُكَ
+  أَن يَقُولُواْ لَوۡلَآ أُنزِلَ عَلَيۡهِ كَنزٌ أَوۡ جَآءَ مَعَهُۥ مَلَكٌۚ إِنَّمَآ
+  أَنتَ نَذِيرٞۚ وَٱللَّهُ عَلَىٰ كُلِّ شَيۡءٖ وَكِيلٌ
 sentence_translation: Perhaps you ˹O Prophet˺ may wish to give up some of what is
   revealed to you and may be distressed by it because they say, “If only a treasure
   had been sent down to him, or an angel had come with him!” You are only a warner,
@@ -12,7 +12,7 @@ word_by_word:
     translation: Then possibly you
     transliteration: falaʿallaka
   2:
-    arabic: تَارِكٌۢ
+    arabic: تَارِكُۢ
     translation: (may) give up
     transliteration: tārikun
   3:
@@ -24,19 +24,19 @@ word_by_word:
     translation: (of) what
     transliteration: mā
   5:
-    arabic: يُوۡحٰٓى
+    arabic: يُوحَىٰٓ
     translation: is revealed
     transliteration: yūḥā
   6:
-    arabic: اِلَيۡكَ
+    arabic: إِلَيۡكَ
     translation: to you
     transliteration: ilayka
   7:
-    arabic: وَضَآٮِٕقٌ ۢ
+    arabic: وَضَآئِقُۢ
     translation: and straitened
     transliteration: waḍāiqun
   8:
-    arabic: بِهٖ
+    arabic: بِهِۦ
     translation: by it
     transliteration: bihi
   9:
@@ -44,19 +44,19 @@ word_by_word:
     translation: your breast
     transliteration: ṣadruka
   10:
-    arabic: اَنۡ
+    arabic: أَن
     translation: because
     transliteration: an
   11:
-    arabic: يَّقُوۡلُوۡا
+    arabic: يَقُولُواْ
     translation: they say
     transliteration: yaqūlū
   12:
-    arabic: لَوۡلَاۤ
+    arabic: لَوۡلَآ
     translation: Why not
     transliteration: lawlā
   13:
-    arabic: اُنۡزِلَ
+    arabic: أُنزِلَ
     translation: is sent down
     transliteration: unzila
   14:
@@ -64,11 +64,11 @@ word_by_word:
     translation: for him
     transliteration: ʿalayhi
   15:
-    arabic: كَنۡزٌ
+    arabic: كَنزٌ
     translation: a treasure
     transliteration: kanzun
   16:
-    arabic: اَوۡ
+    arabic: أَوۡ
     translation: or
     transliteration: aw
   17:
@@ -76,31 +76,31 @@ word_by_word:
     translation: has come
     transliteration: jāa
   18:
-    arabic: مَعَهٗ
+    arabic: مَعَهُۥ
     translation: with him
     transliteration: maʿahu
   19:
-    arabic: مَلَكٌ​ ؕ
+    arabic: مَلَكٌۚ
     translation: an Angel
     transliteration: malakun
   20:
-    arabic: اِنَّمَاۤ
+    arabic: إِنَّمَآ
     translation: Only
     transliteration: innamā
   21:
-    arabic: اَنۡتَ
+    arabic: أَنتَ
     translation: you
     transliteration: anta
   22:
-    arabic: نَذِيۡرٌ​ ؕ
+    arabic: نَذِيرٞۚ
     translation: (are) a warner
     transliteration: nadhīrun
   23:
-    arabic: وَاللّٰهُ
+    arabic: وَٱللَّهُ
     translation: And Allah
     transliteration: wal-lahu
   24:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: (is) on
     transliteration: ʿalā
   25:
@@ -108,11 +108,11 @@ word_by_word:
     translation: every
     transliteration: kulli
   26:
-    arabic: شَىۡءٍ
+    arabic: شَيۡءٖ
     translation: thing
     transliteration: shayin
   27:
-    arabic: وَّكِيۡلٌ ؕ‏
+    arabic: وَكِيلٌ
     translation: a Guardian
     transliteration: wakīlun
 ---

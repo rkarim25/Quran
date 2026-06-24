@@ -1,6 +1,5 @@
 ---
-arabic_ayat: "مَا خَلَقۡنٰهُمَاۤ اِلَّا بِالۡحَقِّ وَلٰكِنَّ اَكۡثَرَهُمۡ لَا يَعۡلَمُوۡنَ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: مَا خَلَقۡنَٰهُمَآ إِلَّا بِٱلۡحَقِّ وَلَٰكِنَّ أَكۡثَرَهُمۡ لَا يَعۡلَمُونَ
 sentence_translation: We only created them for a purpose, but most of these ˹pagans˺
   do not know.
 word_by_word:
@@ -9,23 +8,23 @@ word_by_word:
     translation: Not
     transliteration: mā
   2:
-    arabic: خَلَقۡنٰهُمَاۤ
+    arabic: خَلَقۡنَٰهُمَآ
     translation: We created both of them
     transliteration: khalaqnāhumā
   3:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: but
     transliteration: illā
   4:
-    arabic: بِالۡحَقِّ
+    arabic: بِٱلۡحَقِّ
     translation: in [the] truth
     transliteration: bil-ḥaqi
   5:
-    arabic: وَلٰكِنَّ
+    arabic: وَلَٰكِنَّ
     translation: but
     transliteration: walākinna
   6:
-    arabic: اَكۡثَرَهُمۡ
+    arabic: أَكۡثَرَهُمۡ
     translation: most of them
     transliteration: aktharahum
   7:
@@ -33,7 +32,7 @@ word_by_word:
     translation: (do) not
     transliteration: lā
   8:
-    arabic: "يَعۡلَمُوۡنَ‏ \uFEFF\uFEFF"
+    arabic: يَعۡلَمُونَ
     translation: know
     transliteration: yaʿlamūna
 ---

@@ -1,16 +1,16 @@
 ---
-arabic_ayat: وَّاَصۡحٰبُ مَدۡيَنَ​ۚ وَكُذِّبَ مُوۡسٰى فَاَمۡلَيۡتُ لِلۡكٰفِرِيۡنَ
-  ثُمَّ اَخَذۡتُهُمۡ​ۚ فَكَيۡفَ كَانَ نَكِيۡرِ‏
+arabic_ayat: وَأَصۡحَٰبُ مَدۡيَنَۖ وَكُذِّبَ مُوسَىٰۖ فَأَمۡلَيۡتُ لِلۡكَٰفِرِينَ
+  ثُمَّ أَخَذۡتُهُمۡۖ فَكَيۡفَ كَانَ نَكِيرِ
 sentence_translation: and the residents of Midian. And Moses was denied ˹too˺. But
   I delayed ˹the fate of˺ the disbelievers ˹until their appointed time˺ then seized
   them. And how severe was My response!
 word_by_word:
   1:
-    arabic: وَّاَصۡحٰبُ
+    arabic: وَأَصۡحَٰبُ
     translation: And the inhabitants
     transliteration: wa-aṣḥābu
   2:
-    arabic: مَدۡيَنَ​ۚ
+    arabic: مَدۡيَنَۖ
     translation: (of) Madyan
     transliteration: madyana
   3:
@@ -18,15 +18,15 @@ word_by_word:
     translation: And Musa was denied
     transliteration: wakudhiba
   4:
-    arabic: مُوۡسٰى
+    arabic: مُوسَىٰۖ
     translation: And Musa was denied
     transliteration: mūsā
   5:
-    arabic: فَاَمۡلَيۡتُ
+    arabic: فَأَمۡلَيۡتُ
     translation: so I granted respite
     transliteration: fa-amlaytu
   6:
-    arabic: لِلۡكٰفِرِيۡنَ
+    arabic: لِلۡكَٰفِرِينَ
     translation: to the disbelievers
     transliteration: lil'kāfirīna
   7:
@@ -34,7 +34,7 @@ word_by_word:
     translation: then
     transliteration: thumma
   8:
-    arabic: اَخَذۡتُهُمۡ​ۚ
+    arabic: أَخَذۡتُهُمۡۖ
     translation: I seized them
     transliteration: akhadhtuhum
   9:
@@ -46,7 +46,7 @@ word_by_word:
     translation: was
     transliteration: kāna
   11:
-    arabic: نَكِيۡرِ‏
+    arabic: نَكِيرِ
     translation: My punishment
     transliteration: nakīri
 ---

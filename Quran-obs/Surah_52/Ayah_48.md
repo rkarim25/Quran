@@ -1,11 +1,11 @@
 ---
-arabic_ayat: وَاصۡبِرۡ لِحُكۡمِ رَبِّكَ فَاِنَّكَ بِاَعۡيُنِنَا​ وَسَبِّحۡ بِحَمۡدِ
-  رَبِّكَ حِيۡنَ تَقُوۡمُۙ‏
+arabic_ayat: وَٱصۡبِرۡ لِحُكۡمِ رَبِّكَ فَإِنَّكَ بِأَعۡيُنِنَاۖ وَسَبِّحۡ بِحَمۡدِ
+  رَبِّكَ حِينَ تَقُومُ
 sentence_translation: So be patient with your Lord’s decree, for you are truly under
   Our ˹watchful˺ Eyes. And glorify the praises of your Lord when you rise.
 word_by_word:
   1:
-    arabic: وَاصۡبِرۡ
+    arabic: وَٱصۡبِرۡ
     translation: So be patient
     transliteration: wa-iṣ'bir
   2:
@@ -17,11 +17,11 @@ word_by_word:
     translation: (of) your Lord
     transliteration: rabbika
   4:
-    arabic: فَاِنَّكَ
+    arabic: فَإِنَّكَ
     translation: for indeed, you
     transliteration: fa-innaka
   5:
-    arabic: بِاَعۡيُنِنَا​
+    arabic: بِأَعۡيُنِنَاۖ
     translation: (are) in Our Eyes
     transliteration: bi-aʿyuninā
   6:
@@ -37,11 +37,11 @@ word_by_word:
     translation: (of) your Lord
     transliteration: rabbika
   9:
-    arabic: حِيۡنَ
+    arabic: حِينَ
     translation: when
     transliteration: ḥīna
   10:
-    arabic: تَقُوۡمُۙ‏
+    arabic: تَقُومُ
     translation: you arise
     transliteration: taqūmu
 ---

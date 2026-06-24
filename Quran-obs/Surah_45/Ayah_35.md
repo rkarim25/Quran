@@ -1,49 +1,48 @@
 ---
-arabic_ayat: "ذٰلِكُمۡ بِاَنَّكُمُ اتَّخَذۡتُمۡ اٰيٰتِ اللّٰهِ هُزُوًا وَّغَرَّتۡكُمُ\
-  \ الۡحَيٰوةُ الدُّنۡيَا​ ۚ فَالۡيَوۡمَ لَا يُخۡرَجُوۡنَ مِنۡهَا وَلَا هُمۡ يُسۡتَعۡتَبُوۡنَ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: ذَٰلِكُم بِأَنَّكُمُ ٱتَّخَذۡتُمۡ ءَايَٰتِ ٱللَّهِ هُزُوٗا وَغَرَّتۡكُمُ
+  ٱلۡحَيَوٰةُ ٱلدُّنۡيَاۚ فَٱلۡيَوۡمَ لَا يُخۡرَجُونَ مِنۡهَا وَلَا هُمۡ يُسۡتَعۡتَبُونَ
 sentence_translation: This is because you made a mockery of Allah’s revelations, and
   were deluded by ˹your˺ worldly life.” So ˹from˺ that Day ˹on˺ they will not be taken
   out of the Fire, nor will they be allowed to appease ˹their Lord˺.
 word_by_word:
   1:
-    arabic: ذٰلِكُمۡ
+    arabic: ذَٰلِكُم
     translation: That
     transliteration: dhālikum
   2:
-    arabic: بِاَنَّكُمُ
+    arabic: بِأَنَّكُمُ
     translation: (is) because you
     transliteration: bi-annakumu
   3:
-    arabic: اتَّخَذۡتُمۡ
+    arabic: ٱتَّخَذۡتُمۡ ءَ
     translation: took
     transliteration: ittakhadhtum
   4:
-    arabic: اٰيٰتِ
+    arabic: ايَٰتِ
     translation: (the) Verses
     transliteration: āyāti
   5:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (of) Allah
     transliteration: l-lahi
   6:
-    arabic: هُزُوًا
+    arabic: هُزُوٗا
     translation: (in) ridicule
     transliteration: huzuwan
   7:
-    arabic: وَّغَرَّتۡكُمُ
+    arabic: وَغَرَّتۡكُمُ
     translation: and deceived you
     transliteration: wagharratkumu
   8:
-    arabic: الۡحَيٰوةُ
+    arabic: ٱلۡحَيَوٰةُ
     translation: the life
     transliteration: l-ḥayatu
   9:
-    arabic: الدُّنۡيَا​ ۚ
+    arabic: ٱلدُّنۡيَاۚ
     translation: (of) the world
     transliteration: l-dun'yā
   10:
-    arabic: فَالۡيَوۡمَ
+    arabic: فَٱلۡيَوۡمَ
     translation: So this Day
     transliteration: fal-yawma
   11:
@@ -51,7 +50,7 @@ word_by_word:
     translation: not
     transliteration: lā
   12:
-    arabic: يُخۡرَجُوۡنَ
+    arabic: يُخۡرَجُونَ
     translation: they will be brought forth
     transliteration: yukh'rajūna
   13:
@@ -67,7 +66,7 @@ word_by_word:
     translation: they
     transliteration: hum
   16:
-    arabic: "يُسۡتَعۡتَبُوۡنَ‏ \uFEFF\uFEFF"
+    arabic: يُسۡتَعۡتَبُونَ
     translation: will be asked to appease
     transliteration: yus'taʿtabūna
 ---

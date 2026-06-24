@@ -1,8 +1,8 @@
 ---
-arabic_ayat: قُلۡ يٰۤـاَهۡلَ الۡـكِتٰبِ لَسۡتُمۡ عَلٰى شَىۡءٍ حَتّٰى تُقِيۡمُوا التَّوۡرٰٮةَ
-  وَالۡاِنۡجِيۡلَ وَمَاۤ اُنۡزِلَ اِلَيۡكُمۡ مِّنۡ رَّبِّكُمۡ​ ؕ وَلَيَزِيۡدَنَّ كَثِيۡرًا
-  مِّنۡهُمۡ مَّاۤ اُنۡزِلَ اِلَيۡكَ مِنۡ رَّبِّكَ طُغۡيَانًا وَّكُفۡرًا​ۚ فَلَا تَاۡسَ
-  عَلَى الۡقَوۡمِ الۡكٰفِرِيۡنَ‏
+arabic_ayat: قُلۡ يَٰٓأَهۡلَ ٱلۡكِتَٰبِ لَسۡتُمۡ عَلَىٰ شَيۡءٍ حَتَّىٰ تُقِيمُواْ
+  ٱلتَّوۡرَىٰةَ وَٱلۡإِنجِيلَ وَمَآ أُنزِلَ إِلَيۡكُم مِّن رَّبِّكُمۡۗ وَلَيَزِيدَنَّ
+  كَثِيرٗا مِّنۡهُم مَّآ أُنزِلَ إِلَيۡكَ مِن رَّبِّكَ طُغۡيَٰنٗا وَكُفۡرٗاۖ فَلَا
+  تَأۡسَ عَلَى ٱلۡقَوۡمِ ٱلۡكَٰفِرِينَ
 sentence_translation: Say, ˹O Prophet,˺ “O People of the Book! You have nothing to
   stand on unless you observe the Torah, the Gospel, and what has been revealed to
   you from your Lord.” And your Lord’s revelation to you ˹O Prophet˺ will only cause
@@ -14,11 +14,11 @@ word_by_word:
     translation: Say
     transliteration: qul
   2:
-    arabic: يٰۤـاَهۡلَ
+    arabic: يَٰٓأَهۡلَ
     translation: O People
     transliteration: yāahla
   3:
-    arabic: الۡـكِتٰبِ
+    arabic: ٱلۡكِتَٰبِ
     translation: (of) the Book
     transliteration: l-kitābi
   4:
@@ -26,75 +26,75 @@ word_by_word:
     translation: You are not
     transliteration: lastum
   5:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: 'on'
     transliteration: ʿalā
   6:
-    arabic: شَىۡءٍ
+    arabic: شَيۡءٍ
     translation: anything
     transliteration: shayin
   7:
-    arabic: حَتّٰى
+    arabic: حَتَّىٰ
     translation: until
     transliteration: ḥattā
   8:
-    arabic: تُقِيۡمُوا
+    arabic: تُقِيمُواْ
     translation: you stand firmly
     transliteration: tuqīmū
   9:
-    arabic: التَّوۡرٰٮةَ
+    arabic: ٱلتَّوۡرَىٰةَ
     translation: (by) the Taurat
     transliteration: l-tawrāta
   10:
-    arabic: وَالۡاِنۡجِيۡلَ
+    arabic: وَٱلۡإِنجِيلَ
     translation: and the Injeel
     transliteration: wal-injīla
   11:
-    arabic: وَمَاۤ
+    arabic: وَمَآ
     translation: and what
     transliteration: wamā
   12:
-    arabic: اُنۡزِلَ
+    arabic: أُنزِلَ
     translation: has been revealed
     transliteration: unzila
   13:
-    arabic: اِلَيۡكُمۡ
+    arabic: إِلَيۡكُم
     translation: to you
     transliteration: ilaykum
   14:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: from
     transliteration: min
   15:
-    arabic: رَّبِّكُمۡ​ ؕ
+    arabic: رَّبِّكُمۡۗ
     translation: your Lord
     transliteration: rabbikum
   16:
-    arabic: وَلَيَزِيۡدَنَّ
+    arabic: وَلَيَزِيدَنَّ
     translation: And surely increase
     transliteration: walayazīdanna
   17:
-    arabic: كَثِيۡرًا
+    arabic: كَثِيرٗا
     translation: many
     transliteration: kathīran
   18:
-    arabic: مِّنۡهُمۡ
+    arabic: مِّنۡهُم
     translation: of them
     transliteration: min'hum
   19:
-    arabic: مَّاۤ
+    arabic: مَّآ
     translation: what
     transliteration: mā
   20:
-    arabic: اُنۡزِلَ
+    arabic: أُنزِلَ
     translation: has been revealed
     transliteration: unzila
   21:
-    arabic: اِلَيۡكَ
+    arabic: إِلَيۡكَ
     translation: to you
     transliteration: ilayka
   22:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   23:
@@ -102,11 +102,11 @@ word_by_word:
     translation: your Lord
     transliteration: rabbika
   24:
-    arabic: طُغۡيَانًا
+    arabic: طُغۡيَٰنٗا
     translation: (in) rebellion
     transliteration: ṭugh'yānan
   25:
-    arabic: وَّكُفۡرًا​ۚ
+    arabic: وَكُفۡرٗاۖ
     translation: and disbelief
     transliteration: wakuf'ran
   26:
@@ -114,7 +114,7 @@ word_by_word:
     translation: So (do) not
     transliteration: falā
   27:
-    arabic: تَاۡسَ
+    arabic: تَأۡسَ
     translation: grieve
     transliteration: tasa
   28:
@@ -122,11 +122,11 @@ word_by_word:
     translation: over
     transliteration: ʿalā
   29:
-    arabic: الۡقَوۡمِ
+    arabic: ٱلۡقَوۡمِ
     translation: the people
     transliteration: l-qawmi
   30:
-    arabic: الۡكٰفِرِيۡنَ‏
+    arabic: ٱلۡكَٰفِرِينَ
     translation: the disbelieving
     transliteration: l-kāfirīna
 ---

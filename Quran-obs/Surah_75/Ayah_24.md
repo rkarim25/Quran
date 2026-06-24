@@ -1,17 +1,17 @@
 ---
-arabic_ayat: وَوُجُوۡهٌ يَّوۡمَٮِٕذٍۢ بَاسِرَةٌ ۙ‏
+arabic_ayat: وَوُجُوهٞ يَوۡمَئِذِۭ بَاسِرَةٞ
 sentence_translation: And ˹other˺ faces will be gloomy,
 word_by_word:
   1:
-    arabic: وَوُجُوۡهٌ
+    arabic: وَوُجُوهٞ
     translation: And faces
     transliteration: wawujūhun
   2:
-    arabic: يَّوۡمَٮِٕذٍۢ
+    arabic: يَوۡمَئِذِۭ
     translation: that Day
     transliteration: yawma-idhin
   3:
-    arabic: بَاسِرَةٌ ۙ‏
+    arabic: بَاسِرَةٞ
     translation: (will be) distorted
     transliteration: bāsiratun
 ---

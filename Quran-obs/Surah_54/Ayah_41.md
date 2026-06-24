@@ -1,5 +1,5 @@
 ---
-arabic_ayat: وَلَقَدۡ جَآءَ اٰلَ فِرۡعَوۡنَ النُّذُرُ​ۚ‏
+arabic_ayat: وَلَقَدۡ جَآءَ ءَالَ فِرۡعَوۡنَ ٱلنُّذُرُ
 sentence_translation: And indeed, the warnings ˹also˺ came to the people of Pharaoh.
 word_by_word:
   1:
@@ -7,11 +7,11 @@ word_by_word:
     translation: And certainly
     transliteration: walaqad
   2:
-    arabic: جَآءَ
+    arabic: جَآءَ ءَ
     translation: came
     transliteration: jāa
   3:
-    arabic: اٰلَ
+    arabic: الَ
     translation: (to the) people
     transliteration: āla
   4:
@@ -19,7 +19,7 @@ word_by_word:
     translation: (of) Firaun
     transliteration: fir'ʿawna
   5:
-    arabic: النُّذُرُ​ۚ‏
+    arabic: ٱلنُّذُرُ
     translation: warnings
     transliteration: l-nudhuru
 ---

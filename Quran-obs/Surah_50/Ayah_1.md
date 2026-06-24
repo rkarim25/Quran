@@ -1,17 +1,17 @@
 ---
-arabic_ayat: قٓ ۚ وَالۡقُرۡاٰنِ الۡمَجِيۡدِۚ‏
+arabic_ayat: قٓۚ وَٱلۡقُرۡءَانِ ٱلۡمَجِيدِ
 sentence_translation: Qãf. By the glorious Quran!
 word_by_word:
   1:
-    arabic: قٓ ۚ
+    arabic: قٓۚ
     translation: Qaf
     transliteration: qaf
   2:
-    arabic: وَالۡقُرۡاٰنِ
+    arabic: وَٱلۡقُرۡءَانِ
     translation: By the Quran
     transliteration: wal-qur'āni
   3:
-    arabic: الۡمَجِيۡدِۚ‏
+    arabic: ٱلۡمَجِيدِ
     translation: the Glorious
     transliteration: l-majīdi
 ---

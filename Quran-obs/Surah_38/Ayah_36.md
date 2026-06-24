@@ -1,6 +1,5 @@
 ---
-arabic_ayat: "فَسَخَّرۡنَا لَهُ الرِّيۡحَ تَجۡرِىۡ بِاَمۡرِهٖ رُخَآءً حَيۡثُ اَصَابَۙ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: فَسَخَّرۡنَا لَهُ ٱلرِّيحَ تَجۡرِي بِأَمۡرِهِۦ رُخَآءً حَيۡثُ أَصَابَ
 sentence_translation: So We subjected to him the wind, blowing gently at his command
   to wherever he pleased.
 word_by_word:
@@ -13,15 +12,15 @@ word_by_word:
     translation: to him
     transliteration: lahu
   3:
-    arabic: الرِّيۡحَ
+    arabic: ٱلرِّيحَ
     translation: the wind
     transliteration: l-rīḥa
   4:
-    arabic: تَجۡرِىۡ
+    arabic: تَجۡرِي
     translation: to flow
     transliteration: tajrī
   5:
-    arabic: بِاَمۡرِهٖ
+    arabic: بِأَمۡرِهِۦ
     translation: by his command
     transliteration: bi-amrihi
   6:
@@ -33,7 +32,7 @@ word_by_word:
     translation: wherever
     transliteration: ḥaythu
   8:
-    arabic: "اَصَابَۙ‏ \uFEFF\uFEFF"
+    arabic: أَصَابَ
     translation: he directed
     transliteration: aṣāba
 ---

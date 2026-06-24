@@ -1,6 +1,6 @@
 ---
-arabic_ayat: قُلۡ يٰۤـاَهۡلَ الۡكِتٰبِ لِمَ تَكۡفُرُوۡنَ بِاٰيٰتِ اللّٰهِ ۖ وَاللّٰهُ
-  شَهِيۡدٌ عَلٰى مَا تَعۡمَلُوۡنَ‏
+arabic_ayat: قُلۡ يَٰٓأَهۡلَ ٱلۡكِتَٰبِ لِمَ تَكۡفُرُونَ بِـَٔايَٰتِ ٱللَّهِ وَٱللَّهُ
+  شَهِيدٌ عَلَىٰ مَا تَعۡمَلُونَ
 sentence_translation: Say, ˹O Prophet,˺ “O People of the Book! Why do you deny the
   revelations of Allah, when Allah is a Witness to what you do?”
 word_by_word:
@@ -9,11 +9,11 @@ word_by_word:
     translation: Say
     transliteration: qul
   2:
-    arabic: يٰۤـاَهۡلَ
+    arabic: يَٰٓأَهۡلَ
     translation: O People
     transliteration: yāahla
   3:
-    arabic: الۡكِتٰبِ
+    arabic: ٱلۡكِتَٰبِ
     translation: (of) the Book
     transliteration: l-kitābi
   4:
@@ -21,27 +21,27 @@ word_by_word:
     translation: Why
     transliteration: lima
   5:
-    arabic: تَكۡفُرُوۡنَ
+    arabic: تَكۡفُرُونَ
     translation: (do) you disbelieve
     transliteration: takfurūna
   6:
-    arabic: بِاٰيٰتِ
+    arabic: بِـَٔايَٰتِ
     translation: in (the) Verses
     transliteration: biāyāti
   7:
-    arabic: اللّٰهِ ۖ
+    arabic: ٱللَّهِ
     translation: (of) Allah
     transliteration: l-lahi
   8:
-    arabic: وَاللّٰهُ
+    arabic: وَٱللَّهُ
     translation: while Allah
     transliteration: wal-lahu
   9:
-    arabic: شَهِيۡدٌ
+    arabic: شَهِيدٌ
     translation: (is) a Witness
     transliteration: shahīdun
   10:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: over
     transliteration: ʿalā
   11:
@@ -49,7 +49,7 @@ word_by_word:
     translation: what
     transliteration: mā
   12:
-    arabic: تَعۡمَلُوۡنَ‏
+    arabic: تَعۡمَلُونَ
     translation: you do
     transliteration: taʿmalūna
 ---

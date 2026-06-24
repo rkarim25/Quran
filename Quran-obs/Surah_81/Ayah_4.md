@@ -1,17 +1,17 @@
 ---
-arabic_ayat: وَاِذَا الۡعِشَارُ عُطِّلَتۡۙ‏
+arabic_ayat: وَإِذَا ٱلۡعِشَارُ عُطِّلَتۡ
 sentence_translation: and when pregnant camels are left untended,
 word_by_word:
   1:
-    arabic: وَاِذَا
+    arabic: وَإِذَا
     translation: And when
     transliteration: wa-idhā
   2:
-    arabic: الۡعِشَارُ
+    arabic: ٱلۡعِشَارُ
     translation: the full-term she-camels
     transliteration: l-ʿishāru
   3:
-    arabic: عُطِّلَتۡۙ‏
+    arabic: عُطِّلَتۡ
     translation: (are) left untended
     transliteration: ʿuṭṭilat
 ---

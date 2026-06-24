@@ -1,11 +1,11 @@
 ---
-arabic_ayat: وَاِذۡ فَرَقۡنَا بِكُمُ الۡبَحۡرَ فَاَنۡجَيۡنٰکُمۡ وَاَغۡرَقۡنَآ اٰلَ
-  فِرۡعَوۡنَ وَاَنۡتُمۡ تَنۡظُرُوۡنَ‏
+arabic_ayat: وَإِذۡ فَرَقۡنَا بِكُمُ ٱلۡبَحۡرَ فَأَنجَيۡنَٰكُمۡ وَأَغۡرَقۡنَآ ءَالَ
+  فِرۡعَوۡنَ وَأَنتُمۡ تَنظُرُونَ
 sentence_translation: And ˹remember˺ when We parted the sea, rescued you, and drowned
   Pharaoh’s people before your very eyes.
 word_by_word:
   1:
-    arabic: وَاِذۡ
+    arabic: وَإِذۡ
     translation: And when
     transliteration: wa-idh
   2:
@@ -17,19 +17,19 @@ word_by_word:
     translation: for you
     transliteration: bikumu
   4:
-    arabic: الۡبَحۡرَ
+    arabic: ٱلۡبَحۡرَ
     translation: the sea
     transliteration: l-baḥra
   5:
-    arabic: فَاَنۡجَيۡنٰکُمۡ
+    arabic: فَأَنجَيۡنَٰكُمۡ
     translation: then We saved you
     transliteration: fa-anjaynākum
   6:
-    arabic: وَاَغۡرَقۡنَآ
+    arabic: وَأَغۡرَقۡنَآ ءَ
     translation: and We drowned
     transliteration: wa-aghraqnā
   7:
-    arabic: اٰلَ
+    arabic: الَ
     translation: (the) people
     transliteration: āla
   8:
@@ -37,11 +37,11 @@ word_by_word:
     translation: (of) Firaun
     transliteration: fir'ʿawna
   9:
-    arabic: وَاَنۡتُمۡ
+    arabic: وَأَنتُمۡ
     translation: while you
     transliteration: wa-antum
   10:
-    arabic: تَنۡظُرُوۡنَ‏
+    arabic: تَنظُرُونَ
     translation: (were) looking
     transliteration: tanẓurūna
 ---

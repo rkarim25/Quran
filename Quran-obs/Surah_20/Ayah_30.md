@@ -1,13 +1,13 @@
 ---
-arabic_ayat: هٰرُوۡنَ اَخِى ۙ‏
+arabic_ayat: هَٰرُونَ أَخِي
 sentence_translation: Aaron, my brother.
 word_by_word:
   1:
-    arabic: هٰرُوۡنَ
+    arabic: هَٰرُونَ
     translation: Harun
     transliteration: hārūna
   2:
-    arabic: اَخِى ۙ‏
+    arabic: أَخِي
     translation: my brother
     transliteration: akhī
 ---

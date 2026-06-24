@@ -1,6 +1,5 @@
 ---
-arabic_ayat: "وَمَا يَنۡظُرُ هٰٓؤُلَاۤءِ اِلَّا صَيۡحَةً وَّاحِدَةً مَّا لَهَا مِنۡ\
-  \ فَوَاقٍ‏ \uFEFF\uFEFF"
+arabic_ayat: وَمَا يَنظُرُ هَٰٓؤُلَآءِ إِلَّا صَيۡحَةٗ وَٰحِدَةٗ مَّا لَهَا مِن فَوَاقٖ
 sentence_translation: These ˹pagans˺ are awaiting nothing but a single Blast that
   cannot be stopped.
 word_by_word:
@@ -9,23 +8,23 @@ word_by_word:
     translation: And not
     transliteration: wamā
   2:
-    arabic: يَنۡظُرُ
+    arabic: يَنظُرُ
     translation: await
     transliteration: yanẓuru
   3:
-    arabic: هٰٓؤُلَاۤءِ
+    arabic: هَٰٓؤُلَآءِ
     translation: these
     transliteration: hāulāi
   4:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: but
     transliteration: illā
   5:
-    arabic: صَيۡحَةً
+    arabic: صَيۡحَةٗ
     translation: a shout
     transliteration: ṣayḥatan
   6:
-    arabic: وَّاحِدَةً
+    arabic: وَٰحِدَةٗ
     translation: one
     transliteration: wāḥidatan
   7:
@@ -37,11 +36,11 @@ word_by_word:
     translation: for it
     transliteration: lahā
   9:
-    arabic: مِنۡ
+    arabic: مِن
     translation: any
     transliteration: min
   10:
-    arabic: "فَوَاقٍ‏ \uFEFF\uFEFF"
+    arabic: فَوَاقٖ
     translation: delay
     transliteration: fawāqin
 ---

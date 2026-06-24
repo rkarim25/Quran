@@ -1,5 +1,5 @@
 ---
-arabic_ayat: مَا ضَلَّ صَاحِبُكُمۡ وَمَا غَوٰى​ۚ‏
+arabic_ayat: مَا ضَلَّ صَاحِبُكُمۡ وَمَا غَوَىٰ
 sentence_translation: Your fellow man is neither misguided nor astray.
 word_by_word:
   1:
@@ -19,7 +19,7 @@ word_by_word:
     translation: and not
     transliteration: wamā
   5:
-    arabic: غَوٰى​ۚ‏
+    arabic: غَوَىٰ
     translation: has he erred
     transliteration: ghawā
 ---

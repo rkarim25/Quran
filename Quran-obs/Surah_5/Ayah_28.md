@@ -1,19 +1,19 @@
 ---
-arabic_ayat: لَٮِٕنۡۢ بَسَطْتَّ اِلَىَّ يَدَكَ لِتَقۡتُلَنِىۡ مَاۤ اَنَا بِبَاسِطٍ
-  يَّدِىَ اِلَيۡكَ لِاَقۡتُلَكَ​ ۚ اِنِّىۡۤ اَخَافُ اللّٰهَ رَبَّ الۡعٰلَمِيۡنَ‏
+arabic_ayat: لَئِنۢ بَسَطتَ إِلَيَّ يَدَكَ لِتَقۡتُلَنِي مَآ أَنَا۠ بِبَاسِطٖ يَدِيَ
+  إِلَيۡكَ لِأَقۡتُلَكَۖ إِنِّيٓ أَخَافُ ٱللَّهَ رَبَّ ٱلۡعَٰلَمِينَ
 sentence_translation: If you raise your hand to kill me, I will not raise mine to
   kill you, because I fear Allah—the Lord of all worlds.
 word_by_word:
   1:
-    arabic: لَٮِٕنۡۢ
+    arabic: لَئِنۢ
     translation: If
     transliteration: la-in
   2:
-    arabic: بَسَطْتَّ
+    arabic: بَسَطتَ
     translation: you stretch
     transliteration: basaṭta
   3:
-    arabic: اِلَىَّ
+    arabic: إِلَيَّ
     translation: towards me
     transliteration: ilayya
   4:
@@ -21,43 +21,43 @@ word_by_word:
     translation: your hand
     transliteration: yadaka
   5:
-    arabic: لِتَقۡتُلَنِىۡ
+    arabic: لِتَقۡتُلَنِي
     translation: to kill me
     transliteration: litaqtulanī
   6:
-    arabic: مَاۤ
+    arabic: مَآ
     translation: not
     transliteration: mā
   7:
-    arabic: اَنَا
+    arabic: أَنَا۠
     translation: will I
     transliteration: anā
   8:
-    arabic: بِبَاسِطٍ
+    arabic: بِبَاسِطٖ
     translation: stretch
     transliteration: bibāsiṭin
   9:
-    arabic: يَّدِىَ
+    arabic: يَدِيَ
     translation: my hand
     transliteration: yadiya
   10:
-    arabic: اِلَيۡكَ
+    arabic: إِلَيۡكَ
     translation: towards you
     transliteration: ilayka
   11:
-    arabic: لِاَقۡتُلَكَ​ ۚ
+    arabic: لِأَقۡتُلَكَۖ
     translation: to kill you
     transliteration: li-aqtulaka
   12:
-    arabic: اِنِّىۡۤ
+    arabic: إِنِّيٓ
     translation: indeed I
     transliteration: innī
   13:
-    arabic: اَخَافُ
+    arabic: أَخَافُ
     translation: fear
     transliteration: akhāfu
   14:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   15:
@@ -65,7 +65,7 @@ word_by_word:
     translation: (the) Lord
     transliteration: rabba
   16:
-    arabic: الۡعٰلَمِيۡنَ‏
+    arabic: ٱلۡعَٰلَمِينَ
     translation: (of) the worlds
     transliteration: l-ʿālamīna
 ---

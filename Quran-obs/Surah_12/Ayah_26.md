@@ -1,6 +1,6 @@
 ---
-arabic_ayat: قَالَ هِىَ رَاوَدَتۡنِىۡ عَنۡ نَّـفۡسِىۡ​ وَشَهِدَ شَاهِدٌ مِّنۡ اَهۡلِهَا​ۚ
-  اِنۡ كَانَ قَمِيۡصُهٗ قُدَّ مِنۡ قُبُلٍ فَصَدَقَتۡ وَهُوَ مِنَ الۡكٰذِبِيۡنَ‏
+arabic_ayat: قَالَ هِيَ رَٰوَدَتۡنِي عَن نَّفۡسِيۚ وَشَهِدَ شَاهِدٞ مِّنۡ أَهۡلِهَآ
+  إِن كَانَ قَمِيصُهُۥ قُدَّ مِن قُبُلٖ فَصَدَقَتۡ وَهُوَ مِنَ ٱلۡكَٰذِبِينَ
 sentence_translation: 'Joseph responded, “It was she who tried to seduce me.” And
   a witness from her own family testified: “If his shirt is torn from the front, then
   she has told the truth and he is a liar.'
@@ -10,19 +10,19 @@ word_by_word:
     translation: He said
     transliteration: qāla
   2:
-    arabic: هِىَ
+    arabic: هِيَ
     translation: She
     transliteration: hiya
   3:
-    arabic: رَاوَدَتۡنِىۡ
+    arabic: رَٰوَدَتۡنِي
     translation: sought to seduce me
     transliteration: rāwadatnī
   4:
-    arabic: عَنۡ
+    arabic: عَن
     translation: about
     transliteration: ʿan
   5:
-    arabic: نَّـفۡسِىۡ​
+    arabic: نَّفۡسِيۚ
     translation: myself
     transliteration: nafsī
   6:
@@ -30,7 +30,7 @@ word_by_word:
     translation: And testified
     transliteration: washahida
   7:
-    arabic: شَاهِدٌ
+    arabic: شَاهِدٞ
     translation: a witness
     transliteration: shāhidun
   8:
@@ -38,11 +38,11 @@ word_by_word:
     translation: of
     transliteration: min
   9:
-    arabic: اَهۡلِهَا​ۚ
+    arabic: أَهۡلِهَآ
     translation: her family
     transliteration: ahlihā
   10:
-    arabic: اِنۡ
+    arabic: إِن
     translation: If
     transliteration: in
   11:
@@ -50,7 +50,7 @@ word_by_word:
     translation: '[is]'
     transliteration: kāna
   12:
-    arabic: قَمِيۡصُهٗ
+    arabic: قَمِيصُهُۥ
     translation: his shirt
     transliteration: qamīṣuhu
   13:
@@ -58,11 +58,11 @@ word_by_word:
     translation: (is) torn
     transliteration: qudda
   14:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   15:
-    arabic: قُبُلٍ
+    arabic: قُبُلٖ
     translation: the front
     transliteration: qubulin
   16:
@@ -78,7 +78,7 @@ word_by_word:
     translation: (is) of
     transliteration: mina
   19:
-    arabic: الۡكٰذِبِيۡنَ‏
+    arabic: ٱلۡكَٰذِبِينَ
     translation: the liars
     transliteration: l-kādhibīna
 ---

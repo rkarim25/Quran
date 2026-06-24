@@ -1,5 +1,5 @@
 ---
-arabic_ayat: فَكُّ رَقَبَةٍ ۙ‏
+arabic_ayat: فَكُّ رَقَبَةٍ
 sentence_translation: It is to free a slave,
 word_by_word:
   1:
@@ -7,7 +7,7 @@ word_by_word:
     translation: (It is) freeing
     transliteration: fakku
   2:
-    arabic: رَقَبَةٍ ۙ‏
+    arabic: رَقَبَةٍ
     translation: a neck
     transliteration: raqabatin
 ---

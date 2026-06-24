@@ -1,6 +1,6 @@
 ---
-arabic_ayat: قَالَ اَلۡقُوۡا​ ۚ فَلَمَّاۤ اَلۡقَوۡا سَحَرُوۡۤا اَعۡيُنَ النَّاسِ وَاسۡتَرۡهَبُوۡهُمۡ
-  وَجَآءُوۡ بِسِحۡرٍ عَظِيۡمٍ‏
+arabic_ayat: قَالَ أَلۡقُواْۖ فَلَمَّآ أَلۡقَوۡاْ سَحَرُوٓاْ أَعۡيُنَ ٱلنَّاسِ وَٱسۡتَرۡهَبُوهُمۡ
+  وَجَآءُو بِسِحۡرٍ عَظِيمٖ
 sentence_translation: Moses said, “You first.” So when they did, they deceived the
   eyes of the people, stunned them, and made a great display of magic.
 word_by_word:
@@ -9,35 +9,35 @@ word_by_word:
     translation: He said
     transliteration: qāla
   2:
-    arabic: اَلۡقُوۡا​ ۚ
+    arabic: أَلۡقُواْۖ
     translation: Throw
     transliteration: alqū
   3:
-    arabic: فَلَمَّاۤ
+    arabic: فَلَمَّآ
     translation: Then when
     transliteration: falammā
   4:
-    arabic: اَلۡقَوۡا
+    arabic: أَلۡقَوۡاْ
     translation: they threw
     transliteration: alqaw
   5:
-    arabic: سَحَرُوۡۤا
+    arabic: سَحَرُوٓاْ
     translation: they bewitched
     transliteration: saḥarū
   6:
-    arabic: اَعۡيُنَ
+    arabic: أَعۡيُنَ
     translation: (the) eyes
     transliteration: aʿyuna
   7:
-    arabic: النَّاسِ
+    arabic: ٱلنَّاسِ
     translation: (of) the people
     transliteration: l-nāsi
   8:
-    arabic: وَاسۡتَرۡهَبُوۡهُمۡ
+    arabic: وَٱسۡتَرۡهَبُوهُمۡ
     translation: and terrified them
     transliteration: wa-is'tarhabūhum
   9:
-    arabic: وَجَآءُوۡ
+    arabic: وَجَآءُو
     translation: and came (up)
     transliteration: wajāū
   10:
@@ -45,7 +45,7 @@ word_by_word:
     translation: with a magic
     transliteration: bisiḥ'rin
   11:
-    arabic: عَظِيۡمٍ‏
+    arabic: عَظِيمٖ
     translation: great
     transliteration: ʿaẓīmin
 ---

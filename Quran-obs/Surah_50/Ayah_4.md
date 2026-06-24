@@ -1,6 +1,5 @@
 ---
-arabic_ayat: "قَدۡ عَلِمۡنَا مَا تَنۡقُصُ الۡاَرۡضُ مِنۡهُمۡ​ۚ وَعِنۡدَنَا كِتٰبٌ\
-  \ حَفِيۡظٌ‏ \uFEFF\uFEFF"
+arabic_ayat: قَدۡ عَلِمۡنَا مَا تَنقُصُ ٱلۡأَرۡضُ مِنۡهُمۡۖ وَعِندَنَا كِتَٰبٌ حَفِيظُۢ
 sentence_translation: We certainly know what the earth consumes of them ˹after their
   death˺, and with us is a well-preserved Record.
 word_by_word:
@@ -17,27 +16,27 @@ word_by_word:
     translation: what
     transliteration: mā
   4:
-    arabic: تَنۡقُصُ
+    arabic: تَنقُصُ
     translation: diminishes
     transliteration: tanquṣu
   5:
-    arabic: الۡاَرۡضُ
+    arabic: ٱلۡأَرۡضُ
     translation: the earth
     transliteration: l-arḍu
   6:
-    arabic: مِنۡهُمۡ​ۚ
+    arabic: مِنۡهُمۡۖ
     translation: of them
     transliteration: min'hum
   7:
-    arabic: وَعِنۡدَنَا
+    arabic: وَعِندَنَا
     translation: and with Us
     transliteration: waʿindanā
   8:
-    arabic: كِتٰبٌ
+    arabic: كِتَٰبٌ
     translation: (is) a Book
     transliteration: kitābun
   9:
-    arabic: "حَفِيۡظٌ‏ \uFEFF\uFEFF"
+    arabic: حَفِيظُۢ
     translation: guarded
     transliteration: ḥafīẓun
 ---

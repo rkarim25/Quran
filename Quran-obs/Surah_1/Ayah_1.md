@@ -1,5 +1,5 @@
 ---
-arabic_ayat: بِسۡمِ اللهِ الرَّحۡمٰنِ الرَّحِيۡمِ
+arabic_ayat: بِسۡمِ ٱللَّهِ ٱلرَّحۡمَٰنِ ٱلرَّحِيمِ
 sentence_translation: In the Name of Allah—the Most Compassionate, Most Merciful.
 word_by_word:
   1:
@@ -7,15 +7,15 @@ word_by_word:
     translation: In (the) name
     transliteration: bis'mi
   2:
-    arabic: اللهِ
+    arabic: ٱللَّهِ
     translation: (of) Allah
     transliteration: l-lahi
   3:
-    arabic: الرَّحۡمٰنِ
+    arabic: ٱلرَّحۡمَٰنِ
     translation: the Most Gracious
     transliteration: l-raḥmāni
   4:
-    arabic: الرَّحِيۡمِ
+    arabic: ٱلرَّحِيمِ
     translation: the Most Merciful
     transliteration: l-raḥīmi
 ---

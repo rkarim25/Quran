@@ -1,13 +1,13 @@
 ---
-arabic_ayat: وَمَاۤ اَدۡرٰٮكَ مَا لَيۡلَةُ الۡقَدۡرِؕ‏
+arabic_ayat: وَمَآ أَدۡرَىٰكَ مَا لَيۡلَةُ ٱلۡقَدۡرِ
 sentence_translation: And what will make you realize what the Night of Glory is?
 word_by_word:
   1:
-    arabic: وَمَاۤ
+    arabic: وَمَآ
     translation: And what
     transliteration: wamā
   2:
-    arabic: اَدۡرٰٮكَ
+    arabic: أَدۡرَىٰكَ
     translation: can make you know
     transliteration: adrāka
   3:
@@ -19,7 +19,7 @@ word_by_word:
     translation: (the) Night
     transliteration: laylatu
   5:
-    arabic: الۡقَدۡرِؕ‏
+    arabic: ٱلۡقَدۡرِ
     translation: (of) Power (is)
     transliteration: l-qadri
 ---

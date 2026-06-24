@@ -1,6 +1,6 @@
 ---
-arabic_ayat: فَكَيۡفَ اِذَا جَمَعۡنٰهُمۡ لِيَوۡمٍ لَّا رَيۡبَ فِيۡهِ وَوُفِّيَتۡ
-  كُلُّ نَفۡسٍ مَّا كَسَبَتۡ وَهُمۡ لَا يُظۡلَمُوۡنَ‏
+arabic_ayat: فَكَيۡفَ إِذَا جَمَعۡنَٰهُمۡ لِيَوۡمٖ لَّا رَيۡبَ فِيهِ وَوُفِّيَتۡ كُلُّ
+  نَفۡسٖ مَّا كَسَبَتۡ وَهُمۡ لَا يُظۡلَمُونَ
 sentence_translation: But how ˹horrible˺ will it be when We gather them together on
   the Day about which there is no doubt—when every soul will be paid in full for what
   it has done, and none will be wronged!
@@ -10,15 +10,15 @@ word_by_word:
     translation: Then how (will it be)
     transliteration: fakayfa
   2:
-    arabic: اِذَا
+    arabic: إِذَا
     translation: when
     transliteration: idhā
   3:
-    arabic: جَمَعۡنٰهُمۡ
+    arabic: جَمَعۡنَٰهُمۡ
     translation: We will gather them
     transliteration: jamaʿnāhum
   4:
-    arabic: لِيَوۡمٍ
+    arabic: لِيَوۡمٖ
     translation: 'on a Day '
     transliteration: liyawmin
   5:
@@ -30,7 +30,7 @@ word_by_word:
     translation: doubt
     transliteration: rayba
   7:
-    arabic: فِيۡهِ
+    arabic: فِيهِ
     translation: in it
     transliteration: fīhi
   8:
@@ -42,7 +42,7 @@ word_by_word:
     translation: every
     transliteration: kullu
   10:
-    arabic: نَفۡسٍ
+    arabic: نَفۡسٖ
     translation: soul
     transliteration: nafsin
   11:
@@ -62,7 +62,7 @@ word_by_word:
     translation: (will) not
     transliteration: lā
   15:
-    arabic: يُظۡلَمُوۡنَ‏
+    arabic: يُظۡلَمُونَ
     translation: be wronged
     transliteration: yuẓ'lamūna
 ---

@@ -1,19 +1,19 @@
 ---
-arabic_ayat: وَقَالُوۡا قُلُوۡبُنَا غُلۡفٌ​ؕ بَل لَّعَنَهُمُ اللّٰهُ بِكُفۡرِهِمۡ
-  فَقَلِيۡلًا مَّا يُؤۡمِنُوۡنَ‏
+arabic_ayat: وَقَالُواْ قُلُوبُنَا غُلۡفُۢۚ بَل لَّعَنَهُمُ ٱللَّهُ بِكُفۡرِهِمۡ فَقَلِيلٗا
+  مَّا يُؤۡمِنُونَ
 sentence_translation: They say, “Our hearts are unreceptive!” In fact, Allah has condemned
   them for their disbelief. They have but little faith.
 word_by_word:
   1:
-    arabic: وَقَالُوۡا
+    arabic: وَقَالُواْ
     translation: And they said
     transliteration: waqālū
   2:
-    arabic: قُلُوۡبُنَا
+    arabic: قُلُوبُنَا
     translation: Our hearts
     transliteration: qulūbunā
   3:
-    arabic: غُلۡفٌ​ؕ
+    arabic: غُلۡفُۢۚ
     translation: (are) wrapped
     transliteration: ghul'fun
   4:
@@ -25,7 +25,7 @@ word_by_word:
     translation: has cursed them
     transliteration: laʿanahumu
   6:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   7:
@@ -33,7 +33,7 @@ word_by_word:
     translation: for their disbelief
     transliteration: bikuf'rihim
   8:
-    arabic: فَقَلِيۡلًا
+    arabic: فَقَلِيلٗا
     translation: so little
     transliteration: faqalīlan
   9:
@@ -41,7 +41,7 @@ word_by_word:
     translation: (is) what
     transliteration: mā
   10:
-    arabic: يُؤۡمِنُوۡنَ‏
+    arabic: يُؤۡمِنُونَ
     translation: they believe
     transliteration: yu'minūna
 ---

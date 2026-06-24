@@ -1,19 +1,18 @@
 ---
-arabic_ayat: "فَادۡعُوا اللّٰهَ مُخۡلِصِيۡنَ لَهُ الدِّيۡنَ وَلَوۡ كَرِهَ الۡـكٰفِرُوۡنَ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: فَٱدۡعُواْ ٱللَّهَ مُخۡلِصِينَ لَهُ ٱلدِّينَ وَلَوۡ كَرِهَ ٱلۡكَٰفِرُونَ
 sentence_translation: So call upon Allah with sincere devotion, even to the dismay
   of the disbelievers.
 word_by_word:
   1:
-    arabic: فَادۡعُوا
+    arabic: فَٱدۡعُواْ
     translation: So invoke
     transliteration: fa-id'ʿū
   2:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   3:
-    arabic: مُخۡلِصِيۡنَ
+    arabic: مُخۡلِصِينَ
     translation: (being) sincere
     transliteration: mukh'liṣīna
   4:
@@ -21,7 +20,7 @@ word_by_word:
     translation: to Him
     transliteration: lahu
   5:
-    arabic: الدِّيۡنَ
+    arabic: ٱلدِّينَ
     translation: (in) the religion
     transliteration: l-dīna
   6:
@@ -33,7 +32,7 @@ word_by_word:
     translation: dislike (it)
     transliteration: kariha
   8:
-    arabic: "الۡـكٰفِرُوۡنَ‏ \uFEFF\uFEFF"
+    arabic: ٱلۡكَٰفِرُونَ
     translation: the disbelievers
     transliteration: l-kāfirūna
 ---

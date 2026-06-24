@@ -1,9 +1,9 @@
 ---
-arabic_ayat: الَّذِيۡنَ هُمۡ فِىۡ غَمۡرَةٍ سَاهُوۡنَۙ‏
+arabic_ayat: ٱلَّذِينَ هُمۡ فِي غَمۡرَةٖ سَاهُونَ
 sentence_translation: those who are ˹steeped˺ in ignorance, totally heedless.
 word_by_word:
   1:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: Those who
     transliteration: alladhīna
   2:
@@ -11,15 +11,15 @@ word_by_word:
     translation: '[they]'
     transliteration: hum
   3:
-    arabic: فِىۡ
+    arabic: فِي
     translation: (are) in
     transliteration: fī
   4:
-    arabic: غَمۡرَةٍ
+    arabic: غَمۡرَةٖ
     translation: flood
     transliteration: ghamratin
   5:
-    arabic: سَاهُوۡنَۙ‏
+    arabic: سَاهُونَ
     translation: (of) heedlessness
     transliteration: sāhūna
 ---

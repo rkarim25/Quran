@@ -1,19 +1,19 @@
 ---
-arabic_ayat: اَوۡ تَقُوۡلَ حِيۡنَ تَرَى الۡعَذَابَ لَوۡ اَنَّ لِىۡ كَرَّةً فَاَكُوۡنَ
-  مِنَ الۡمُحۡسِنِيۡنَ‏
+arabic_ayat: أَوۡ تَقُولَ حِينَ تَرَى ٱلۡعَذَابَ لَوۡ أَنَّ لِي كَرَّةٗ فَأَكُونَ
+  مِنَ ٱلۡمُحۡسِنِينَ
 sentence_translation: Or say, upon seeing the torment, ‘If only I had a second chance,
   I would have been one of the good-doers.’
 word_by_word:
   1:
-    arabic: اَوۡ
+    arabic: أَوۡ
     translation: Or
     transliteration: aw
   2:
-    arabic: تَقُوۡلَ
+    arabic: تَقُولَ
     translation: it should say
     transliteration: taqūla
   3:
-    arabic: حِيۡنَ
+    arabic: حِينَ
     translation: when
     transliteration: ḥīna
   4:
@@ -21,7 +21,7 @@ word_by_word:
     translation: it sees
     transliteration: tarā
   5:
-    arabic: الۡعَذَابَ
+    arabic: ٱلۡعَذَابَ
     translation: the punishment
     transliteration: l-ʿadhāba
   6:
@@ -29,19 +29,19 @@ word_by_word:
     translation: If
     transliteration: law
   7:
-    arabic: اَنَّ
+    arabic: أَنَّ
     translation: only
     transliteration: anna
   8:
-    arabic: لِىۡ
+    arabic: لِي
     translation: for me
     transliteration: lī
   9:
-    arabic: كَرَّةً
+    arabic: كَرَّةٗ
     translation: another chance
     transliteration: karratan
   10:
-    arabic: فَاَكُوۡنَ
+    arabic: فَأَكُونَ
     translation: then I could be
     transliteration: fa-akūna
   11:
@@ -49,7 +49,7 @@ word_by_word:
     translation: among
     transliteration: mina
   12:
-    arabic: الۡمُحۡسِنِيۡنَ‏
+    arabic: ٱلۡمُحۡسِنِينَ
     translation: the good-doers
     transliteration: l-muḥ'sinīna
 ---

@@ -1,23 +1,23 @@
 ---
-arabic_ayat: اِنَّ الَّذِيۡنَ اتَّقَوۡا اِذَا مَسَّهُمۡ طٰۤٮِٕفٌ مِّنَ الشَّيۡطٰنِ
-  تَذَكَّرُوۡا فَاِذَا هُمۡ مُّبۡصِرُوۡنَ​ۚ‏
+arabic_ayat: إِنَّ ٱلَّذِينَ ٱتَّقَوۡاْ إِذَا مَسَّهُمۡ طَٰٓئِفٞ مِّنَ ٱلشَّيۡطَٰنِ
+  تَذَكَّرُواْ فَإِذَا هُم مُّبۡصِرُونَ
 sentence_translation: Indeed, when Satan whispers to those mindful ˹of Allah˺, they
   remember ˹their Lord˺ then they start to see ˹things˺ clearly.
 word_by_word:
   1:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   3:
-    arabic: اتَّقَوۡا
+    arabic: ٱتَّقَوۡاْ
     translation: fear (Allah)
     transliteration: ittaqaw
   4:
-    arabic: اِذَا
+    arabic: إِذَا
     translation: when
     transliteration: idhā
   5:
@@ -25,7 +25,7 @@ word_by_word:
     translation: touches them
     transliteration: massahum
   6:
-    arabic: طٰۤٮِٕفٌ
+    arabic: طَٰٓئِفٞ
     translation: an evil thought
     transliteration: ṭāifun
   7:
@@ -33,23 +33,23 @@ word_by_word:
     translation: from
     transliteration: mina
   8:
-    arabic: الشَّيۡطٰنِ
+    arabic: ٱلشَّيۡطَٰنِ
     translation: the Shaitaan
     transliteration: l-shayṭāni
   9:
-    arabic: تَذَكَّرُوۡا
+    arabic: تَذَكَّرُواْ
     translation: they remember (Allah)
     transliteration: tadhakkarū
   10:
-    arabic: فَاِذَا
+    arabic: فَإِذَا
     translation: and then
     transliteration: fa-idhā
   11:
-    arabic: هُمۡ
+    arabic: هُم
     translation: they
     transliteration: hum
   12:
-    arabic: مُّبۡصِرُوۡنَ​ۚ‏
+    arabic: مُّبۡصِرُونَ
     translation: (are) those who see (aright)
     transliteration: mub'ṣirūna
 ---

@@ -1,5 +1,5 @@
 ---
-arabic_ayat: قُل رَّبِّ اِمَّا تُرِيَنِّىۡ مَا يُوۡعَدُوۡنَۙ‏
+arabic_ayat: قُل رَّبِّ إِمَّا تُرِيَنِّي مَا يُوعَدُونَ
 sentence_translation: Say, ˹O Prophet,˺ “My Lord! Should You show me what they are
   threatened with,
 word_by_word:
@@ -12,11 +12,11 @@ word_by_word:
     translation: My Lord
     transliteration: rabbi
   3:
-    arabic: اِمَّا
+    arabic: إِمَّا
     translation: If
     transliteration: immā
   4:
-    arabic: تُرِيَنِّىۡ
+    arabic: تُرِيَنِّي
     translation: You should show me
     transliteration: turiyannī
   5:
@@ -24,7 +24,7 @@ word_by_word:
     translation: what
     transliteration: mā
   6:
-    arabic: يُوۡعَدُوۡنَۙ‏
+    arabic: يُوعَدُونَ
     translation: they are promised
     transliteration: yūʿadūna
 ---

@@ -1,11 +1,11 @@
 ---
-arabic_ayat: وَشَجَرَةً تَخۡرُجُ مِنۡ طُوۡرِ سَيۡنَآءَ تَنۡۢبُتُ بِالدُّهۡنِ وَصِبۡغٍ
-  لِّلۡاٰكِلِيۡنَ‏
+arabic_ayat: وَشَجَرَةٗ تَخۡرُجُ مِن طُورِ سَيۡنَآءَ تَنۢبُتُ بِٱلدُّهۡنِ وَصِبۡغٖ
+  لِّلۡأٓكِلِينَ
 sentence_translation: as well as ˹olive˺ trees which grow at Mount Sinai, providing
   oil and a condiment to eat.
 word_by_word:
   1:
-    arabic: وَشَجَرَةً
+    arabic: وَشَجَرَةٗ
     translation: And a tree
     transliteration: washajaratan
   2:
@@ -13,11 +13,11 @@ word_by_word:
     translation: (that) springs forth
     transliteration: takhruju
   3:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   4:
-    arabic: طُوۡرِ
+    arabic: طُورِ
     translation: Mount Sinai
     transliteration: ṭūri
   5:
@@ -25,19 +25,19 @@ word_by_word:
     translation: Mount Sinai
     transliteration: saynāa
   6:
-    arabic: تَنۡۢبُتُ
+    arabic: تَنۢبُتُ
     translation: (which) produces
     transliteration: tanbutu
   7:
-    arabic: بِالدُّهۡنِ
+    arabic: بِٱلدُّهۡنِ
     translation: oil
     transliteration: bil-duh'ni
   8:
-    arabic: وَصِبۡغٍ
+    arabic: وَصِبۡغٖ
     translation: and a relish
     transliteration: waṣib'ghin
   9:
-    arabic: لِّلۡاٰكِلِيۡنَ‏
+    arabic: لِّلۡأٓكِلِينَ
     translation: for those who eat
     transliteration: lil'ākilīna
 ---

@@ -1,13 +1,13 @@
 ---
-arabic_ayat: لَـيۡسَ عَلَى الۡاَعۡمٰى حَرَجٌ وَّلَا عَلَى الۡاَعۡرَجِ حَرَجٌ وَّلَا
-  عَلَى الۡمَرِيۡضِ حَرَجٌ وَّلَا عَلٰٓى اَنۡفُسِكُمۡ اَنۡ تَاۡكُلُوۡا مِنۡۢ بُيُوۡتِكُمۡ
-  اَوۡ بُيُوۡتِ اٰبَآٮِٕكُمۡ اَوۡ بُيُوۡتِ اُمَّهٰتِكُمۡ اَوۡ بُيُوۡتِ اِخۡوَانِكُمۡ
-  اَوۡ بُيُوۡتِ اَخَوٰتِكُمۡ اَوۡ بُيُوۡتِ اَعۡمَامِكُمۡ اَوۡ بُيُوۡتِ عَمّٰتِكُمۡ
-  اَوۡ بُيُوۡتِ اَخۡوَالِكُمۡ اَوۡ بُيُوۡتِ خٰلٰتِكُمۡ اَوۡ مَا مَلَكۡتُمۡ مَّفَاتِحَهٗۤ
-  اَوۡ صَدِيۡقِكُمۡ​ؕ لَـيۡسَ عَلَيۡكُمۡ جُنَاحٌ اَنۡ تَاۡكُلُوۡا جَمِيۡعًا اَوۡ اَشۡتَاتًا​
-  ؕ فَاِذَا دَخَلۡتُمۡ بُيُوۡتًا فَسَلِّمُوۡا عَلٰٓى اَنۡفُسِكُمۡ تَحِيَّةً مِّنۡ
-  عِنۡدِ اللّٰهِ مُبٰرَكَةً طَيِّبَةً​  ؕ كَذٰلِكَ يُبَيِّنُ اللّٰهُ لَـكُمُ الۡاٰيٰتِ
-  لَعَلَّكُمۡ تَعۡقِلُوۡنَ‏
+arabic_ayat: لَّيۡسَ عَلَى ٱلۡأَعۡمَىٰ حَرَجٞ وَلَا عَلَى ٱلۡأَعۡرَجِ حَرَجٞ وَلَا
+  عَلَى ٱلۡمَرِيضِ حَرَجٞ وَلَا عَلَىٰٓ أَنفُسِكُمۡ أَن تَأۡكُلُواْ مِنۢ بُيُوتِكُمۡ
+  أَوۡ بُيُوتِ ءَابَآئِكُمۡ أَوۡ بُيُوتِ أُمَّهَٰتِكُمۡ أَوۡ بُيُوتِ إِخۡوَٰنِكُمۡ
+  أَوۡ بُيُوتِ أَخَوَٰتِكُمۡ أَوۡ بُيُوتِ أَعۡمَٰمِكُمۡ أَوۡ بُيُوتِ عَمَّٰتِكُمۡ
+  أَوۡ بُيُوتِ أَخۡوَٰلِكُمۡ أَوۡ بُيُوتِ خَٰلَٰتِكُمۡ أَوۡ مَا مَلَكۡتُم مَّفَاتِحَهُۥٓ
+  أَوۡ صَدِيقِكُمۡۚ لَيۡسَ عَلَيۡكُمۡ جُنَاحٌ أَن تَأۡكُلُواْ جَمِيعًا أَوۡ أَشۡتَاتٗاۚ
+  فَإِذَا دَخَلۡتُم بُيُوتٗا فَسَلِّمُواْ عَلَىٰٓ أَنفُسِكُمۡ تَحِيَّةٗ مِّنۡ عِندِ
+  ٱللَّهِ مُبَٰرَكَةٗ طَيِّبَةٗۚ كَذَٰلِكَ يُبَيِّنُ ٱللَّهُ لَكُمُ ٱلۡأٓيَٰتِ لَعَلَّكُمۡ
+  تَعۡقِلُونَ
 sentence_translation: There is no restriction on the blind, or the disabled, or the
   sick. Nor on yourselves if you eat from your homes, or the homes of your fathers,
   or your mothers, or your brothers, or your sisters, or your paternal uncles, or
@@ -18,7 +18,7 @@ sentence_translation: There is no restriction on the blind, or the disabled, or 
   clear to you, so perhaps you will understand.
 word_by_word:
   1:
-    arabic: لَـيۡسَ
+    arabic: لَّيۡسَ
     translation: Not is
     transliteration: laysa
   2:
@@ -26,15 +26,15 @@ word_by_word:
     translation: 'on'
     transliteration: ʿalā
   3:
-    arabic: الۡاَعۡمٰى
+    arabic: ٱلۡأَعۡمَىٰ
     translation: the blind
     transliteration: l-aʿmā
   4:
-    arabic: حَرَجٌ
+    arabic: حَرَجٞ
     translation: any blame
     transliteration: ḥarajun
   5:
-    arabic: وَّلَا
+    arabic: وَلَا
     translation: and not
     transliteration: walā
   6:
@@ -42,15 +42,15 @@ word_by_word:
     translation: 'on'
     transliteration: ʿalā
   7:
-    arabic: الۡاَعۡرَجِ
+    arabic: ٱلۡأَعۡرَجِ
     translation: the lame
     transliteration: l-aʿraji
   8:
-    arabic: حَرَجٌ
+    arabic: حَرَجٞ
     translation: any blame
     transliteration: ḥarajun
   9:
-    arabic: وَّلَا
+    arabic: وَلَا
     translation: and not
     transliteration: walā
   10:
@@ -58,139 +58,139 @@ word_by_word:
     translation: 'on'
     transliteration: ʿalā
   11:
-    arabic: الۡمَرِيۡضِ
+    arabic: ٱلۡمَرِيضِ
     translation: the sick
     transliteration: l-marīḍi
   12:
-    arabic: حَرَجٌ
+    arabic: حَرَجٞ
     translation: any blame
     transliteration: ḥarajun
   13:
-    arabic: وَّلَا
+    arabic: وَلَا
     translation: and not
     transliteration: walā
   14:
-    arabic: عَلٰٓى
+    arabic: عَلَىٰٓ
     translation: 'on'
     transliteration: ʿalā
   15:
-    arabic: اَنۡفُسِكُمۡ
+    arabic: أَنفُسِكُمۡ
     translation: yourselves
     transliteration: anfusikum
   16:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that
     transliteration: an
   17:
-    arabic: تَاۡكُلُوۡا
+    arabic: تَأۡكُلُواْ
     translation: you eat
     transliteration: takulū
   18:
-    arabic: مِنۡۢ
+    arabic: مِنۢ
     translation: from
     transliteration: min
   19:
-    arabic: بُيُوۡتِكُمۡ
+    arabic: بُيُوتِكُمۡ
     translation: your houses
     transliteration: buyūtikum
   20:
-    arabic: اَوۡ
+    arabic: أَوۡ
     translation: or
     transliteration: aw
   21:
-    arabic: بُيُوۡتِ
+    arabic: بُيُوتِ ءَ
     translation: houses
     transliteration: buyūti
   22:
-    arabic: اٰبَآٮِٕكُمۡ
+    arabic: ابَآئِكُمۡ
     translation: (of) your fathers
     transliteration: ābāikum
   23:
-    arabic: اَوۡ
+    arabic: أَوۡ
     translation: or
     transliteration: aw
   24:
-    arabic: بُيُوۡتِ
+    arabic: بُيُوتِ
     translation: houses
     transliteration: buyūti
   25:
-    arabic: اُمَّهٰتِكُمۡ
+    arabic: أُمَّهَٰتِكُمۡ
     translation: (of) your mothers
     transliteration: ummahātikum
   26:
-    arabic: اَوۡ
+    arabic: أَوۡ
     translation: or
     transliteration: aw
   27:
-    arabic: بُيُوۡتِ
+    arabic: بُيُوتِ
     translation: houses
     transliteration: buyūti
   28:
-    arabic: اِخۡوَانِكُمۡ
+    arabic: إِخۡوَٰنِكُمۡ
     translation: (of) your brothers
     transliteration: ikh'wānikum
   29:
-    arabic: اَوۡ
+    arabic: أَوۡ
     translation: or
     transliteration: aw
   30:
-    arabic: بُيُوۡتِ
+    arabic: بُيُوتِ
     translation: houses
     transliteration: buyūti
   31:
-    arabic: اَخَوٰتِكُمۡ
+    arabic: أَخَوَٰتِكُمۡ
     translation: (of) your sisters
     transliteration: akhawātikum
   32:
-    arabic: اَوۡ
+    arabic: أَوۡ
     translation: or
     transliteration: aw
   33:
-    arabic: بُيُوۡتِ
+    arabic: بُيُوتِ
     translation: houses
     transliteration: buyūti
   34:
-    arabic: اَعۡمَامِكُمۡ
+    arabic: أَعۡمَٰمِكُمۡ
     translation: (of) your paternal uncles
     transliteration: aʿmāmikum
   35:
-    arabic: اَوۡ
+    arabic: أَوۡ
     translation: or
     transliteration: aw
   36:
-    arabic: بُيُوۡتِ
+    arabic: بُيُوتِ
     translation: houses
     transliteration: buyūti
   37:
-    arabic: عَمّٰتِكُمۡ
+    arabic: عَمَّٰتِكُمۡ
     translation: (of) your paternal aunts
     transliteration: ʿammātikum
   38:
-    arabic: اَوۡ
+    arabic: أَوۡ
     translation: or
     transliteration: aw
   39:
-    arabic: بُيُوۡتِ
+    arabic: بُيُوتِ
     translation: houses
     transliteration: buyūti
   40:
-    arabic: اَخۡوَالِكُمۡ
+    arabic: أَخۡوَٰلِكُمۡ
     translation: (of) your maternal uncles
     transliteration: akhwālikum
   41:
-    arabic: اَوۡ
+    arabic: أَوۡ
     translation: or
     transliteration: aw
   42:
-    arabic: بُيُوۡتِ
+    arabic: بُيُوتِ
     translation: houses
     transliteration: buyūti
   43:
-    arabic: خٰلٰتِكُمۡ
+    arabic: خَٰلَٰتِكُمۡ
     translation: (of) your maternal aunts
     transliteration: khālātikum
   44:
-    arabic: اَوۡ
+    arabic: أَوۡ
     translation: or
     transliteration: aw
   45:
@@ -198,23 +198,23 @@ word_by_word:
     translation: what
     transliteration: mā
   46:
-    arabic: مَلَكۡتُمۡ
+    arabic: مَلَكۡتُم
     translation: you possess
     transliteration: malaktum
   47:
-    arabic: مَّفَاتِحَهٗۤ
+    arabic: مَّفَاتِحَهُۥٓ
     translation: its keys
     transliteration: mafātiḥahu
   48:
-    arabic: اَوۡ
+    arabic: أَوۡ
     translation: or
     transliteration: aw
   49:
-    arabic: صَدِيۡقِكُمۡ​ؕ
+    arabic: صَدِيقِكُمۡۚ
     translation: your friend
     transliteration: ṣadīqikum
   50:
-    arabic: لَـيۡسَ
+    arabic: لَيۡسَ
     translation: Not is
     transliteration: laysa
   51:
@@ -226,51 +226,51 @@ word_by_word:
     translation: any blame
     transliteration: junāḥun
   53:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that
     transliteration: an
   54:
-    arabic: تَاۡكُلُوۡا
+    arabic: تَأۡكُلُواْ
     translation: you eat
     transliteration: takulū
   55:
-    arabic: جَمِيۡعًا
+    arabic: جَمِيعًا
     translation: together
     transliteration: jamīʿan
   56:
-    arabic: اَوۡ
+    arabic: أَوۡ
     translation: or
     transliteration: aw
   57:
-    arabic: اَشۡتَاتًا​ ؕ
+    arabic: أَشۡتَاتٗاۚ
     translation: separately
     transliteration: ashtātan
   58:
-    arabic: فَاِذَا
+    arabic: فَإِذَا
     translation: But when
     transliteration: fa-idhā
   59:
-    arabic: دَخَلۡتُمۡ
+    arabic: دَخَلۡتُم
     translation: you enter
     transliteration: dakhaltum
   60:
-    arabic: بُيُوۡتًا
+    arabic: بُيُوتٗا
     translation: houses
     transliteration: buyūtan
   61:
-    arabic: فَسَلِّمُوۡا
+    arabic: فَسَلِّمُواْ
     translation: then greet
     transliteration: fasallimū
   62:
-    arabic: عَلٰٓى
+    arabic: عَلَىٰٓ
     translation: '[on]'
     transliteration: ʿalā
   63:
-    arabic: اَنۡفُسِكُمۡ
+    arabic: أَنفُسِكُمۡ
     translation: yourselves
     transliteration: anfusikum
   64:
-    arabic: تَحِيَّةً
+    arabic: تَحِيَّةٗ
     translation: a greeting
     transliteration: taḥiyyatan
   65:
@@ -278,23 +278,23 @@ word_by_word:
     translation: from
     transliteration: min
   66:
-    arabic: عِنۡدِ
+    arabic: عِندِ
     translation: from
     transliteration: ʿindi
   67:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   68:
-    arabic: مُبٰرَكَةً
+    arabic: مُبَٰرَكَةٗ
     translation: blessed
     transliteration: mubārakatan
   69:
-    arabic: طَيِّبَةً​  ؕ
+    arabic: طَيِّبَةٗۚ
     translation: (and) good
     transliteration: ṭayyibatan
   70:
-    arabic: كَذٰلِكَ
+    arabic: كَذَٰلِكَ
     translation: Thus
     transliteration: kadhālika
   71:
@@ -302,15 +302,15 @@ word_by_word:
     translation: Allah makes clear
     transliteration: yubayyinu
   72:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah makes clear
     transliteration: l-lahu
   73:
-    arabic: لَـكُمُ
+    arabic: لَكُمُ
     translation: for you
     transliteration: lakumu
   74:
-    arabic: الۡاٰيٰتِ
+    arabic: ٱلۡأٓيَٰتِ
     translation: the Verses
     transliteration: l-āyāti
   75:
@@ -318,7 +318,7 @@ word_by_word:
     translation: so that you may
     transliteration: laʿallakum
   76:
-    arabic: تَعۡقِلُوۡنَ‏
+    arabic: تَعۡقِلُونَ
     translation: understand
     transliteration: taʿqilūna
 ---

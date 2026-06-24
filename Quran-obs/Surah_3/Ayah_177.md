@@ -1,43 +1,43 @@
 ---
-arabic_ayat: اِنَّ الَّذِيۡنَ اشۡتَرَوُا الۡكُفۡرَ بِالۡاِيۡمَانِ لَنۡ يَّضُرُّوا
-  اللّٰهَ شَيۡـــًٔا ​ۚ وَلَهُمۡ عَذَابٌ اَ لِيۡمٌ‏
+arabic_ayat: إِنَّ ٱلَّذِينَ ٱشۡتَرَوُاْ ٱلۡكُفۡرَ بِٱلۡإِيمَٰنِ لَن يَضُرُّواْ ٱللَّهَ
+  شَيۡـٔٗاۖ وَلَهُمۡ عَذَابٌ أَلِيمٞ
 sentence_translation: Those who trade belief for disbelief will never harm Allah in
   the least, and they will suffer a painful punishment.
 word_by_word:
   1:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   3:
-    arabic: اشۡتَرَوُا
+    arabic: ٱشۡتَرَوُاْ
     translation: (have) purchased
     transliteration: ish'tarawū
   4:
-    arabic: الۡكُفۡرَ
+    arabic: ٱلۡكُفۡرَ
     translation: '[the] disbelief'
     transliteration: l-kuf'ra
   5:
-    arabic: بِالۡاِيۡمَانِ
+    arabic: بِٱلۡإِيمَٰنِ
     translation: with the faith
     transliteration: bil-īmāni
   6:
-    arabic: لَنۡ
+    arabic: لَن
     translation: never
     transliteration: lan
   7:
-    arabic: يَّضُرُّوا
+    arabic: يَضُرُّواْ
     translation: will they harm
     transliteration: yaḍurrū
   8:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   9:
-    arabic: شَيۡـــًٔا ​ۚ
+    arabic: شَيۡـٔٗاۖ
     translation: (in) anything
     transliteration: shayan
   10:
@@ -49,7 +49,7 @@ word_by_word:
     translation: (is) a punishment
     transliteration: ʿadhābun
   12:
-    arabic: اَ لِيۡمٌ‏
+    arabic: أَلِيمٞ
     translation: painful
     transliteration: alīmun
 ---

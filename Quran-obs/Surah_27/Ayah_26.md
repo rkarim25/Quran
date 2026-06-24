@@ -1,22 +1,22 @@
 ---
-arabic_ayat: اَللّٰهُ لَاۤ اِلٰهَ اِلَّا هُوَ رَبُّ الۡعَرۡشِ الۡعَظِيۡمِ ۩‏
+arabic_ayat: ٱللَّهُ لَآ إِلَٰهَ إِلَّا هُوَ رَبُّ ٱلۡعَرۡشِ ٱلۡعَظِيمِ۩
 sentence_translation: ˹He is˺ Allah! There is no god ˹worthy of worship˺ except Him,
   the Lord of the Mighty Throne.”
 word_by_word:
   1:
-    arabic: اَللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: al-lahu
   2:
-    arabic: لَاۤ
+    arabic: لَآ
     translation: (there is) no
     transliteration: lā
   3:
-    arabic: اِلٰهَ
+    arabic: إِلَٰهَ
     translation: god
     transliteration: ilāha
   4:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: but
     transliteration: illā
   5:
@@ -28,11 +28,11 @@ word_by_word:
     translation: (the) Lord
     transliteration: rabbu
   7:
-    arabic: الۡعَرۡشِ
+    arabic: ٱلۡعَرۡشِ
     translation: (of) the Throne
     transliteration: l-ʿarshi
   8:
-    arabic: الۡعَظِيۡمِ ۩‏
+    arabic: ٱلۡعَظِيمِ۩
     translation: the Great
     transliteration: l-ʿaẓīmi
 ---

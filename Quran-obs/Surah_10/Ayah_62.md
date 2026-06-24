@@ -1,23 +1,22 @@
 ---
-arabic_ayat: اَلَاۤ اِنَّ اَوۡلِيَآءَ اللّٰهِ لَا خَوۡفٌ عَلَيۡهِمۡ وَلَا هُمۡ يَحۡزَنُوۡنَ
-  ۖ ۚ‏
+arabic_ayat: أَلَآ إِنَّ أَوۡلِيَآءَ ٱللَّهِ لَا خَوۡفٌ عَلَيۡهِمۡ وَلَا هُمۡ يَحۡزَنُونَ
 sentence_translation: There will certainly be no fear for the close servants of Allah,
   nor will they grieve.
 word_by_word:
   1:
-    arabic: اَلَاۤ
+    arabic: أَلَآ
     translation: No doubt
     transliteration: alā
   2:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   3:
-    arabic: اَوۡلِيَآءَ
+    arabic: أَوۡلِيَآءَ
     translation: (the) friends
     transliteration: awliyāa
   4:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (of) Allah
     transliteration: l-lahi
   5:
@@ -41,7 +40,7 @@ word_by_word:
     translation: they
     transliteration: hum
   10:
-    arabic: يَحۡزَنُوۡنَ ۖ ۚ‏
+    arabic: يَحۡزَنُونَ
     translation: will grieve
     transliteration: yaḥzanūna
 ---

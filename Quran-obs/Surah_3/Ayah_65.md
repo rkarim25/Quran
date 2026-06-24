@@ -1,15 +1,15 @@
 ---
-arabic_ayat: يٰۤـاَهۡلَ الۡكِتٰبِ لِمَ تُحَآجُّوۡنَ فِىۡۤ اِبۡرٰهِيۡمَ وَمَاۤ اُنۡزِلَتِ
-  التَّوۡرٰٮةُ وَالۡاِنۡجِيۡلُ اِلَّا مِنۡۢ بَعۡدِهٖؕ اَفَلَا تَعۡقِلُوۡنَ‏
+arabic_ayat: يَٰٓأَهۡلَ ٱلۡكِتَٰبِ لِمَ تُحَآجُّونَ فِيٓ إِبۡرَٰهِيمَ وَمَآ أُنزِلَتِ
+  ٱلتَّوۡرَىٰةُ وَٱلۡإِنجِيلُ إِلَّا مِنۢ بَعۡدِهِۦٓۚ أَفَلَا تَعۡقِلُونَ
 sentence_translation: O People of the Book! Why do you argue about Abraham, while
   the Torah and the Gospel were not revealed until long after him? Do you not understand?
 word_by_word:
   1:
-    arabic: يٰۤـاَهۡلَ
+    arabic: يَٰٓأَهۡلَ
     translation: O People
     transliteration: yāahla
   2:
-    arabic: الۡكِتٰبِ
+    arabic: ٱلۡكِتَٰبِ
     translation: (of) the Book
     transliteration: l-kitābi
   3:
@@ -17,51 +17,51 @@ word_by_word:
     translation: Why
     transliteration: lima
   4:
-    arabic: تُحَآجُّوۡنَ
+    arabic: تُحَآجُّونَ
     translation: (do) you argue
     transliteration: tuḥājjūna
   5:
-    arabic: فِىۡۤ
+    arabic: فِيٓ
     translation: concerning
     transliteration: fī
   6:
-    arabic: اِبۡرٰهِيۡمَ
+    arabic: إِبۡرَٰهِيمَ
     translation: Ibrahim
     transliteration: ib'rāhīma
   7:
-    arabic: وَمَاۤ
+    arabic: وَمَآ
     translation: while not
     transliteration: wamā
   8:
-    arabic: اُنۡزِلَتِ
+    arabic: أُنزِلَتِ
     translation: was revealed
     transliteration: unzilati
   9:
-    arabic: التَّوۡرٰٮةُ
+    arabic: ٱلتَّوۡرَىٰةُ
     translation: the Taurat
     transliteration: l-tawrātu
   10:
-    arabic: وَالۡاِنۡجِيۡلُ
+    arabic: وَٱلۡإِنجِيلُ
     translation: and the Injeel
     transliteration: wal-injīlu
   11:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   12:
-    arabic: مِنۡۢ
+    arabic: مِنۢ
     translation: from
     transliteration: min
   13:
-    arabic: بَعۡدِهٖؕ
+    arabic: بَعۡدِهِۦٓۚ
     translation: after him
     transliteration: baʿdihi
   14:
-    arabic: اَفَلَا
+    arabic: أَفَلَا
     translation: Then why don't
     transliteration: afalā
   15:
-    arabic: تَعۡقِلُوۡنَ‏
+    arabic: تَعۡقِلُونَ
     translation: you use your intellect
     transliteration: taʿqilūna
 ---

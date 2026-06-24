@@ -1,9 +1,9 @@
 ---
-arabic_ayat: وَالسَّمَآءِ وَمَا بَنٰٮهَا ۙ‏
+arabic_ayat: وَٱلسَّمَآءِ وَمَا بَنَىٰهَا
 sentence_translation: And by heaven and ˹the One˺ Who built it,
 word_by_word:
   1:
-    arabic: وَالسَّمَآءِ
+    arabic: وَٱلسَّمَآءِ
     translation: And the heaven
     transliteration: wal-samāi
   2:
@@ -11,7 +11,7 @@ word_by_word:
     translation: and (He) Who
     transliteration: wamā
   3:
-    arabic: بَنٰٮهَا ۙ‏
+    arabic: بَنَىٰهَا
     translation: constructed it
     transliteration: banāhā
 ---

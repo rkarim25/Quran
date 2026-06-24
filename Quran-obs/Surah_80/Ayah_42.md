@@ -1,9 +1,9 @@
 ---
-arabic_ayat: اُولٰٓٮِٕكَ هُمُ الۡكَفَرَةُ الۡفَجَرَةُ‏
+arabic_ayat: أُوْلَٰٓئِكَ هُمُ ٱلۡكَفَرَةُ ٱلۡفَجَرَةُ
 sentence_translation: those are the disbelievers, the ˹wicked˺ sinners.
 word_by_word:
   1:
-    arabic: اُولٰٓٮِٕكَ
+    arabic: أُوْلَٰٓئِكَ
     translation: Those
     transliteration: ulāika
   2:
@@ -11,11 +11,11 @@ word_by_word:
     translation: '[they]'
     transliteration: humu
   3:
-    arabic: الۡكَفَرَةُ
+    arabic: ٱلۡكَفَرَةُ
     translation: (are) the disbelievers
     transliteration: l-kafaratu
   4:
-    arabic: الۡفَجَرَةُ‏
+    arabic: ٱلۡفَجَرَةُ
     translation: the wicked ones
     transliteration: l-fajaratu
 ---

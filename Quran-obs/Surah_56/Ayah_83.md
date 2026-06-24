@@ -1,14 +1,14 @@
 ---
-arabic_ayat: فَلَوۡلَاۤ اِذَا بَلَغَتِ الۡحُـلۡقُوۡمَۙ‏
+arabic_ayat: فَلَوۡلَآ إِذَا بَلَغَتِ ٱلۡحُلۡقُومَ
 sentence_translation: Why then ˹are you helpless˺ when the soul ˹of a dying person˺
   reaches ˹their˺ throat,
 word_by_word:
   1:
-    arabic: فَلَوۡلَاۤ
+    arabic: فَلَوۡلَآ
     translation: Then why not
     transliteration: falawlā
   2:
-    arabic: اِذَا
+    arabic: إِذَا
     translation: when
     transliteration: idhā
   3:
@@ -16,7 +16,7 @@ word_by_word:
     translation: it reaches
     transliteration: balaghati
   4:
-    arabic: الۡحُـلۡقُوۡمَۙ‏
+    arabic: ٱلۡحُلۡقُومَ
     translation: the throat
     transliteration: l-ḥul'qūma
 ---

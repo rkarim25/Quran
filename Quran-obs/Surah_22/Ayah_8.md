@@ -1,6 +1,6 @@
 ---
-arabic_ayat: وَمِنَ النَّاسِ مَنۡ يُّجَادِلُ فِى اللّٰهِ بِغَيۡرِ عِلۡمٍ وَّلَا هُدًى
-  وَلَا كِتٰبٍ مُّنِيۡرٍ ۙ‏
+arabic_ayat: وَمِنَ ٱلنَّاسِ مَن يُجَٰدِلُ فِي ٱللَّهِ بِغَيۡرِ عِلۡمٖ وَلَا هُدٗى
+  وَلَا كِتَٰبٖ مُّنِيرٖ
 sentence_translation: ˹Still˺ there are some who dispute about Allah without knowledge,
   guidance, or an enlightening scripture,
 word_by_word:
@@ -9,23 +9,23 @@ word_by_word:
     translation: And among
     transliteration: wamina
   2:
-    arabic: النَّاسِ
+    arabic: ٱلنَّاسِ
     translation: mankind
     transliteration: l-nāsi
   3:
-    arabic: مَنۡ
+    arabic: مَن
     translation: (is he) who
     transliteration: man
   4:
-    arabic: يُّجَادِلُ
+    arabic: يُجَٰدِلُ
     translation: disputes
     transliteration: yujādilu
   5:
-    arabic: فِى
+    arabic: فِي
     translation: concerning
     transliteration: fī
   6:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   7:
@@ -33,15 +33,15 @@ word_by_word:
     translation: without
     transliteration: bighayri
   8:
-    arabic: عِلۡمٍ
+    arabic: عِلۡمٖ
     translation: any knowledge
     transliteration: ʿil'min
   9:
-    arabic: وَّلَا
+    arabic: وَلَا
     translation: and not
     transliteration: walā
   10:
-    arabic: هُدًى
+    arabic: هُدٗى
     translation: any guidance
     transliteration: hudan
   11:
@@ -49,11 +49,11 @@ word_by_word:
     translation: and not
     transliteration: walā
   12:
-    arabic: كِتٰبٍ
+    arabic: كِتَٰبٖ
     translation: a Book
     transliteration: kitābin
   13:
-    arabic: مُّنِيۡرٍ ۙ‏
+    arabic: مُّنِيرٖ
     translation: enlightening
     transliteration: munīrin
 ---

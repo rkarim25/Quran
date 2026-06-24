@@ -1,7 +1,7 @@
 ---
-arabic_ayat: قُلۡ يٰۤاَيُّهَا النَّاسُ قَدۡ جَآءَكُمُ الۡحَـقُّ مِنۡ رَّبِّكُمۡ​ۚ
-  فَمَنِ اهۡتَدٰى فَاِنَّمَا يَهۡتَدِىۡ لِنَفۡسِهٖ​ۚ وَمَنۡ ضَلَّ فَاِنَّمَا يَضِلُّ
-  عَلَيۡهَا​ۚ وَمَاۤ اَنَا عَلَيۡكُمۡ بِوَكِيۡلٍؕ‏
+arabic_ayat: قُلۡ يَٰٓأَيُّهَا ٱلنَّاسُ قَدۡ جَآءَكُمُ ٱلۡحَقُّ مِن رَّبِّكُمۡۖ فَمَنِ
+  ٱهۡتَدَىٰ فَإِنَّمَا يَهۡتَدِي لِنَفۡسِهِۦۖ وَمَن ضَلَّ فَإِنَّمَا يَضِلُّ عَلَيۡهَاۖ
+  وَمَآ أَنَا۠ عَلَيۡكُم بِوَكِيلٖ
 sentence_translation: Say, ˹O Prophet,˺ “O humanity! The truth has surely come to
   you from your Lord. So whoever chooses to be guided, it is only for their own good.
   And whoever chooses to stray, it is only to their own loss. And I am not a keeper
@@ -12,11 +12,11 @@ word_by_word:
     translation: Say
     transliteration: qul
   2:
-    arabic: يٰۤاَيُّهَا
+    arabic: يَٰٓأَيُّهَا
     translation: O mankind
     transliteration: yāayyuhā
   3:
-    arabic: النَّاسُ
+    arabic: ٱلنَّاسُ
     translation: O mankind
     transliteration: l-nāsu
   4:
@@ -28,15 +28,15 @@ word_by_word:
     translation: has come to you
     transliteration: jāakumu
   6:
-    arabic: الۡحَـقُّ
+    arabic: ٱلۡحَقُّ
     translation: the truth
     transliteration: l-ḥaqu
   7:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   8:
-    arabic: رَّبِّكُمۡ​ۚ
+    arabic: رَّبِّكُمۡۖ
     translation: your Lord
     transliteration: rabbikum
   9:
@@ -44,23 +44,23 @@ word_by_word:
     translation: So whoever
     transliteration: famani
   10:
-    arabic: اهۡتَدٰى
+    arabic: ٱهۡتَدَىٰ
     translation: (is) guided
     transliteration: ih'tadā
   11:
-    arabic: فَاِنَّمَا
+    arabic: فَإِنَّمَا
     translation: then only
     transliteration: fa-innamā
   12:
-    arabic: يَهۡتَدِىۡ
+    arabic: يَهۡتَدِي
     translation: (he is) guided
     transliteration: yahtadī
   13:
-    arabic: لِنَفۡسِهٖ​ۚ
+    arabic: لِنَفۡسِهِۦۖ
     translation: for his soul
     transliteration: linafsihi
   14:
-    arabic: وَمَنۡ
+    arabic: وَمَن
     translation: and whoever
     transliteration: waman
   15:
@@ -68,7 +68,7 @@ word_by_word:
     translation: goes astray
     transliteration: ḍalla
   16:
-    arabic: فَاِنَّمَا
+    arabic: فَإِنَّمَا
     translation: then only
     transliteration: fa-innamā
   17:
@@ -76,23 +76,23 @@ word_by_word:
     translation: he strays
     transliteration: yaḍillu
   18:
-    arabic: عَلَيۡهَا​ۚ
+    arabic: عَلَيۡهَاۖ
     translation: against it
     transliteration: ʿalayhā
   19:
-    arabic: وَمَاۤ
+    arabic: وَمَآ
     translation: And I am not
     transliteration: wamā
   20:
-    arabic: اَنَا
+    arabic: أَنَا۠
     translation: And I am not
     transliteration: anā
   21:
-    arabic: عَلَيۡكُمۡ
+    arabic: عَلَيۡكُم
     translation: over you
     transliteration: ʿalaykum
   22:
-    arabic: بِوَكِيۡلٍؕ‏
+    arabic: بِوَكِيلٖ
     translation: a guardian
     transliteration: biwakīlin
 ---

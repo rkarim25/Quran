@@ -1,36 +1,36 @@
 ---
-arabic_ayat: اۨقۡتُلُوۡا يُوۡسُفَ اَوِ اطۡرَحُوۡهُ اَرۡضًا يَّخۡلُ لَـكُمۡ وَجۡهُ
-  اَبِيۡكُمۡ وَ تَكُوۡنُوۡا مِنۡۢ بَعۡدِهٖ قَوۡمًا صٰلِحِيۡنَ‏
+arabic_ayat: ٱقۡتُلُواْ يُوسُفَ أَوِ ٱطۡرَحُوهُ أَرۡضٗا يَخۡلُ لَكُمۡ وَجۡهُ أَبِيكُمۡ
+  وَتَكُونُواْ مِنۢ بَعۡدِهِۦ قَوۡمٗا صَٰلِحِينَ
 sentence_translation: Kill Joseph or cast him out to some ˹distant˺ land so that our
   father’s attention will be only ours, then after that you may ˹repent and˺ become
   righteous people!”
 word_by_word:
   1:
-    arabic: اۨقۡتُلُوۡا
+    arabic: ٱقۡتُلُواْ
     translation: Kill
     transliteration: uq'tulū
   2:
-    arabic: يُوۡسُفَ
+    arabic: يُوسُفَ
     translation: Yusuf
     transliteration: yūsufa
   3:
-    arabic: اَوِ
+    arabic: أَوِ
     translation: or
     transliteration: awi
   4:
-    arabic: اطۡرَحُوۡهُ
+    arabic: ٱطۡرَحُوهُ
     translation: cast him
     transliteration: iṭ'raḥūhu
   5:
-    arabic: اَرۡضًا
+    arabic: أَرۡضٗا
     translation: (to) a land
     transliteration: arḍan
   6:
-    arabic: يَّخۡلُ
+    arabic: يَخۡلُ
     translation: so will be free
     transliteration: yakhlu
   7:
-    arabic: لَـكُمۡ
+    arabic: لَكُمۡ
     translation: for you
     transliteration: lakum
   8:
@@ -38,27 +38,27 @@ word_by_word:
     translation: (the) face
     transliteration: wajhu
   9:
-    arabic: اَبِيۡكُمۡ
+    arabic: أَبِيكُمۡ
     translation: (of) your father
     transliteration: abīkum
   10:
-    arabic: وَ تَكُوۡنُوۡا
+    arabic: وَتَكُونُواْ
     translation: and you will be
     transliteration: watakūnū
   11:
-    arabic: مِنۡۢ
+    arabic: مِنۢ
     translation: after that
     transliteration: min
   12:
-    arabic: بَعۡدِهٖ
+    arabic: بَعۡدِهِۦ
     translation: after that
     transliteration: baʿdihi
   13:
-    arabic: قَوۡمًا
+    arabic: قَوۡمٗا
     translation: a people
     transliteration: qawman
   14:
-    arabic: صٰلِحِيۡنَ‏
+    arabic: صَٰلِحِينَ
     translation: righteous
     transliteration: ṣāliḥīna
 ---

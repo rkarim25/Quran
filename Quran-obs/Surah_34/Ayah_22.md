@@ -1,7 +1,7 @@
 ---
-arabic_ayat: قُلِ ادۡعُوا الَّذِيۡنَ زَعَمۡتُمۡ مِّنۡ دُوۡنِ اللّٰهِۚ لَا يَمۡلِكُوۡنَ
-  مِثۡقَالَ ذَرَّةٍ فِى السَّمٰوٰتِ وَلَا فِى الۡاَرۡضِ وَمَا لَهُمۡ فِيۡهِمَا مِنۡ
-  شِرۡكٍ وَّمَا لَهٗ مِنۡهُمۡ مِّنۡ ظَهِيۡرٍ‏
+arabic_ayat: قُلِ ٱدۡعُواْ ٱلَّذِينَ زَعَمۡتُم مِّن دُونِ ٱللَّهِ لَا يَمۡلِكُونَ
+  مِثۡقَالَ ذَرَّةٖ فِي ٱلسَّمَٰوَٰتِ وَلَا فِي ٱلۡأَرۡضِ وَمَا لَهُمۡ فِيهِمَا مِن
+  شِرۡكٖ وَمَا لَهُۥ مِنۡهُم مِّن ظَهِيرٖ
 sentence_translation: Say, ˹O Prophet,˺ “Call upon those you claim ˹to be divine˺
   besides Allah. They do not possess ˹even˺ an atom’s weight either in the heavens
   or the earth, nor do they have any share in ˹governing˺ them. Nor is any of them
@@ -12,27 +12,27 @@ word_by_word:
     translation: Say
     transliteration: quli
   2:
-    arabic: ادۡعُوا
+    arabic: ٱدۡعُواْ
     translation: Call upon
     transliteration: id'ʿū
   3:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those whom
     transliteration: alladhīna
   4:
-    arabic: زَعَمۡتُمۡ
+    arabic: زَعَمۡتُم
     translation: you claim
     transliteration: zaʿamtum
   5:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: besides
     transliteration: min
   6:
-    arabic: دُوۡنِ
+    arabic: دُونِ
     translation: besides
     transliteration: dūni
   7:
-    arabic: اللّٰهِۚ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   8:
@@ -40,7 +40,7 @@ word_by_word:
     translation: Not
     transliteration: lā
   9:
-    arabic: يَمۡلِكُوۡنَ
+    arabic: يَمۡلِكُونَ
     translation: they possess
     transliteration: yamlikūna
   10:
@@ -48,15 +48,15 @@ word_by_word:
     translation: (the) weight
     transliteration: mith'qāla
   11:
-    arabic: ذَرَّةٍ
+    arabic: ذَرَّةٖ
     translation: (of) an atom
     transliteration: dharratin
   12:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   13:
-    arabic: السَّمٰوٰتِ
+    arabic: ٱلسَّمَٰوَٰتِ
     translation: the heavens
     transliteration: l-samāwāti
   14:
@@ -64,11 +64,11 @@ word_by_word:
     translation: and not
     transliteration: walā
   15:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   16:
-    arabic: الۡاَرۡضِ
+    arabic: ٱلۡأَرۡضِ
     translation: the earth
     transliteration: l-arḍi
   17:
@@ -80,35 +80,35 @@ word_by_word:
     translation: for them
     transliteration: lahum
   19:
-    arabic: فِيۡهِمَا
+    arabic: فِيهِمَا
     translation: in both of them
     transliteration: fīhimā
   20:
-    arabic: مِنۡ
+    arabic: مِن
     translation: any
     transliteration: min
   21:
-    arabic: شِرۡكٍ
+    arabic: شِرۡكٖ
     translation: partnership
     transliteration: shir'kin
   22:
-    arabic: وَّمَا
+    arabic: وَمَا
     translation: and not
     transliteration: wamā
   23:
-    arabic: لَهٗ
+    arabic: لَهُۥ
     translation: for Him
     transliteration: lahu
   24:
-    arabic: مِنۡهُمۡ
+    arabic: مِنۡهُم
     translation: from them
     transliteration: min'hum
   25:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: any
     transliteration: min
   26:
-    arabic: ظَهِيۡرٍ‏
+    arabic: ظَهِيرٖ
     translation: supporter
     transliteration: ẓahīrin
 ---

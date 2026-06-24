@@ -1,15 +1,15 @@
 ---
-arabic_ayat: مَّاۤ اَشۡهَدْتُّهُمۡ خَلۡقَ السَّمٰوٰتِ وَالۡاَرۡضِ وَلَا خَلۡقَ اَنۡفُسِهِمۡ
-  وَمَا كُنۡتُ مُتَّخِذَ الۡمُضِلِّيۡنَ عَضُدًا‏
+arabic_ayat: ۞ مَّآ أَشۡهَدتُّهُمۡ خَلۡقَ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِ وَلَا خَلۡقَ
+  أَنفُسِهِمۡ وَمَا كُنتُ مُتَّخِذَ ٱلۡمُضِلِّينَ عَضُدٗا
 sentence_translation: I never called them to witness the creation of the heavens and
   the earth or ˹even˺ their own creation, nor would I take the misleaders as helpers.
 word_by_word:
   1:
-    arabic: ۞ مَّاۤ
+    arabic: ۞ مَّآ
     translation: Not
     transliteration: mā
   2:
-    arabic: اَشۡهَدْتُّهُمۡ
+    arabic: أَشۡهَدتُّهُمۡ
     translation: I made them witness
     transliteration: ashhadttuhum
   3:
@@ -17,11 +17,11 @@ word_by_word:
     translation: the creation
     transliteration: khalqa
   4:
-    arabic: السَّمٰوٰتِ
+    arabic: ٱلسَّمَٰوَٰتِ
     translation: (of) the heavens
     transliteration: l-samāwāti
   5:
-    arabic: وَالۡاَرۡضِ
+    arabic: وَٱلۡأَرۡضِ
     translation: and the earth
     transliteration: wal-arḍi
   6:
@@ -33,7 +33,7 @@ word_by_word:
     translation: the creation
     transliteration: khalqa
   8:
-    arabic: اَنۡفُسِهِمۡ
+    arabic: أَنفُسِهِمۡ
     translation: (of) themselves
     transliteration: anfusihim
   9:
@@ -41,7 +41,7 @@ word_by_word:
     translation: and not
     transliteration: wamā
   10:
-    arabic: كُنۡتُ
+    arabic: كُنتُ
     translation: I Am
     transliteration: kuntu
   11:
@@ -49,11 +49,11 @@ word_by_word:
     translation: the One to take
     transliteration: muttakhidha
   12:
-    arabic: الۡمُضِلِّيۡنَ
+    arabic: ٱلۡمُضِلِّينَ
     translation: the misleaders
     transliteration: l-muḍilīna
   13:
-    arabic: عَضُدًا‏
+    arabic: عَضُدٗا
     translation: (as) helper(s)
     transliteration: ʿaḍudan
 ---

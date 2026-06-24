@@ -1,10 +1,9 @@
 ---
-arabic_ayat: اللّٰهُ لَاۤ اِلٰهَ اِلَّا هُوَ الۡحَـىُّ الۡقَيُّوۡمُۚ  لَا تَاۡخُذُهٗ
-  سِنَةٌ وَّلَا نَوۡمٌ​ؕ لَهٗ مَا فِى السَّمٰوٰتِ وَمَا فِى الۡاَرۡضِ​ؕ مَنۡ ذَا الَّذِىۡ
-  يَشۡفَعُ عِنۡدَهٗۤ اِلَّا بِاِذۡنِهٖ​ؕ يَعۡلَمُ مَا بَيۡنَ اَيۡدِيۡهِمۡ وَمَا خَلۡفَهُمۡ​ۚ
-  وَلَا يُحِيۡطُوۡنَ بِشَىۡءٍ مِّنۡ عِلۡمِهٖۤ اِلَّا بِمَا شَآءَ ۚ وَسِعَ كُرۡسِيُّهُ
-  السَّمٰوٰتِ وَالۡاَرۡضَ​​ۚ وَلَا يَـــُٔوۡدُهٗ حِفۡظُهُمَا ​ۚ وَ هُوَ الۡعَلِىُّ
-  الۡعَظِيۡمُ‏
+arabic_ayat: ٱللَّهُ لَآ إِلَٰهَ إِلَّا هُوَ ٱلۡحَيُّ ٱلۡقَيُّومُۚ لَا تَأۡخُذُهُۥ
+  سِنَةٞ وَلَا نَوۡمٞۚ لَّهُۥ مَا فِي ٱلسَّمَٰوَٰتِ وَمَا فِي ٱلۡأَرۡضِۗ مَن ذَا ٱلَّذِي
+  يَشۡفَعُ عِندَهُۥٓ إِلَّا بِإِذۡنِهِۦۚ يَعۡلَمُ مَا بَيۡنَ أَيۡدِيهِمۡ وَمَا خَلۡفَهُمۡۖ
+  وَلَا يُحِيطُونَ بِشَيۡءٖ مِّنۡ عِلۡمِهِۦٓ إِلَّا بِمَا شَآءَۚ وَسِعَ كُرۡسِيُّهُ
+  ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضَۖ وَلَا يَـُٔودُهُۥ حِفۡظُهُمَاۚ وَهُوَ ٱلۡعَلِيُّ ٱلۡعَظِيمُ
 sentence_translation: Allah! There is no god ˹worthy of worship˺ except Him, the Ever-Living,
   All-Sustaining. Neither drowsiness nor sleep overtakes Him. To Him belongs whatever
   is in the heavens and whatever is on the earth. Who could possibly intercede with
@@ -14,19 +13,19 @@ sentence_translation: Allah! There is no god ˹worthy of worship˺ except Him, t
   not tire Him. For He is the Most High, the Greatest. 
 word_by_word:
   1:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: 'Allah '
     transliteration: al-lahu
   2:
-    arabic: لَاۤ
+    arabic: لَآ
     translation: (there is) no
     transliteration: lā
   3:
-    arabic: اِلٰهَ
+    arabic: إِلَٰهَ
     translation: God
     transliteration: ilāha
   4:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   5:
@@ -34,11 +33,11 @@ word_by_word:
     translation: Him
     transliteration: huwa
   6:
-    arabic: الۡحَـىُّ
+    arabic: ٱلۡحَيُّ
     translation: the Ever-Living
     transliteration: l-ḥayu
   7:
-    arabic: الۡقَيُّوۡمُۚ
+    arabic: ٱلۡقَيُّومُۚ
     translation: the Sustainer of all that exists
     transliteration: l-qayūmu
   8:
@@ -46,23 +45,23 @@ word_by_word:
     translation: Not
     transliteration: lā
   9:
-    arabic: تَاۡخُذُهٗ
+    arabic: تَأۡخُذُهُۥ
     translation: overtakes Him
     transliteration: takhudhuhu
   10:
-    arabic: سِنَةٌ
+    arabic: سِنَةٞ
     translation: slumber
     transliteration: sinatun
   11:
-    arabic: وَّلَا
+    arabic: وَلَا
     translation: '[and] not'
     transliteration: walā
   12:
-    arabic: نَوۡمٌ​ؕ
+    arabic: نَوۡمٞۚ
     translation: sleep
     transliteration: nawmun
   13:
-    arabic: لَهٗ
+    arabic: لَّهُۥ
     translation: To Him (belongs)
     transliteration: lahu
   14:
@@ -70,11 +69,11 @@ word_by_word:
     translation: what(ever)
     transliteration: mā
   15:
-    arabic: فِى
+    arabic: فِي
     translation: (is) in
     transliteration: fī
   16:
-    arabic: السَّمٰوٰتِ
+    arabic: ٱلسَّمَٰوَٰتِ
     translation: the heavens
     transliteration: l-samāwāti
   17:
@@ -82,15 +81,15 @@ word_by_word:
     translation: and what(ever)
     transliteration: wamā
   18:
-    arabic: فِى
+    arabic: فِي
     translation: (is) in
     transliteration: fī
   19:
-    arabic: الۡاَرۡضِ​ؕ
+    arabic: ٱلۡأَرۡضِۗ
     translation: the earth
     transliteration: l-arḍi
   20:
-    arabic: مَنۡ
+    arabic: مَن
     translation: Who
     transliteration: man
   21:
@@ -98,7 +97,7 @@ word_by_word:
     translation: (is) the one
     transliteration: dhā
   22:
-    arabic: الَّذِىۡ
+    arabic: ٱلَّذِي
     translation: who
     transliteration: alladhī
   23:
@@ -106,15 +105,15 @@ word_by_word:
     translation: can intercede
     transliteration: yashfaʿu
   24:
-    arabic: عِنۡدَهٗۤ
+    arabic: عِندَهُۥٓ
     translation: with Him
     transliteration: ʿindahu
   25:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   26:
-    arabic: بِاِذۡنِهٖ​ؕ
+    arabic: بِإِذۡنِهِۦۚ
     translation: by His permission
     transliteration: bi-idh'nihi
   27:
@@ -130,7 +129,7 @@ word_by_word:
     translation: (is)
     transliteration: bayna
   30:
-    arabic: اَيۡدِيۡهِمۡ
+    arabic: أَيۡدِيهِمۡ
     translation: before them
     transliteration: aydīhim
   31:
@@ -138,7 +137,7 @@ word_by_word:
     translation: and what
     transliteration: wamā
   32:
-    arabic: خَلۡفَهُمۡ​ۚ
+    arabic: خَلۡفَهُمۡۖ
     translation: (is) behind them
     transliteration: khalfahum
   33:
@@ -146,11 +145,11 @@ word_by_word:
     translation: And not
     transliteration: walā
   34:
-    arabic: يُحِيۡطُوۡنَ
+    arabic: يُحِيطُونَ
     translation: they encompass
     transliteration: yuḥīṭūna
   35:
-    arabic: بِشَىۡءٍ
+    arabic: بِشَيۡءٖ
     translation: anything
     transliteration: bishayin
   36:
@@ -158,11 +157,11 @@ word_by_word:
     translation: of
     transliteration: min
   37:
-    arabic: عِلۡمِهٖۤ
+    arabic: عِلۡمِهِۦٓ
     translation: His Knowledge
     transliteration: ʿil'mihi
   38:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   39:
@@ -170,7 +169,7 @@ word_by_word:
     translation: '[of] what'
     transliteration: bimā
   40:
-    arabic: شَآءَ ۚ
+    arabic: شَآءَۚ
     translation: He willed
     transliteration: shāa
   41:
@@ -182,11 +181,11 @@ word_by_word:
     translation: His Seat
     transliteration: kur'siyyuhu
   43:
-    arabic: السَّمٰوٰتِ
+    arabic: ٱلسَّمَٰوَٰتِ
     translation: (to) the heavens
     transliteration: l-samāwāti
   44:
-    arabic: وَالۡاَرۡضَ​​ۚ
+    arabic: وَٱلۡأَرۡضَۖ
     translation: and the earth
     transliteration: wal-arḍa
   45:
@@ -194,23 +193,23 @@ word_by_word:
     translation: And not
     transliteration: walā
   46:
-    arabic: يَـــُٔوۡدُهٗ
+    arabic: يَـُٔودُهُۥ
     translation: tires Him
     transliteration: yaūduhu
   47:
-    arabic: حِفۡظُهُمَا ​ۚ
+    arabic: حِفۡظُهُمَاۚ
     translation: (the) guarding of both of them
     transliteration: ḥif'ẓuhumā
   48:
-    arabic: وَ هُوَ
+    arabic: وَهُوَ
     translation: And He
     transliteration: wahuwa
   49:
-    arabic: الۡعَلِىُّ
+    arabic: ٱلۡعَلِيُّ
     translation: (is) the Most High
     transliteration: l-ʿaliyu
   50:
-    arabic: الۡعَظِيۡمُ‏
+    arabic: ٱلۡعَظِيمُ
     translation: the Most Great
     transliteration: l-ʿaẓīmu
 ---

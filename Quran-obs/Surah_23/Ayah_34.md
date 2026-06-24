@@ -1,35 +1,34 @@
 ---
-arabic_ayat: "وَلَٮِٕنۡ اَطَعۡتُمۡ بَشَرًا مِّثۡلَـكُمۡ اِنَّكُمۡ اِذًا لَّخٰسِرُوۡنَۙ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: وَلَئِنۡ أَطَعۡتُم بَشَرٗا مِّثۡلَكُمۡ إِنَّكُمۡ إِذٗا لَّخَٰسِرُونَ
 sentence_translation: And if you ˹ever˺ obey a human like yourselves, then you would
   certainly be losers.
 word_by_word:
   1:
-    arabic: وَلَٮِٕنۡ
+    arabic: وَلَئِنۡ
     translation: And surely if
     transliteration: wala-in
   2:
-    arabic: اَطَعۡتُمۡ
+    arabic: أَطَعۡتُم
     translation: you obey
     transliteration: aṭaʿtum
   3:
-    arabic: بَشَرًا
+    arabic: بَشَرٗا
     translation: a man
     transliteration: basharan
   4:
-    arabic: مِّثۡلَـكُمۡ
+    arabic: مِّثۡلَكُمۡ
     translation: like you
     transliteration: mith'lakum
   5:
-    arabic: اِنَّكُمۡ
+    arabic: إِنَّكُمۡ
     translation: indeed, you
     transliteration: innakum
   6:
-    arabic: اِذًا
+    arabic: إِذٗا
     translation: then
     transliteration: idhan
   7:
-    arabic: "لَّخٰسِرُوۡنَۙ‏ \uFEFF\uFEFF"
+    arabic: لَّخَٰسِرُونَ
     translation: surely (will be) losers
     transliteration: lakhāsirūna
 ---

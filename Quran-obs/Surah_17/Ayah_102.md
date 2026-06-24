@@ -1,6 +1,6 @@
 ---
-arabic_ayat: قَالَ لَقَدۡ عَلِمۡتَ مَاۤ اَنۡزَلَ هٰٓؤُلَاۤءِ اِلَّا رَبُّ السَّمٰوٰتِ
-  وَالۡاَرۡضِ بَصَآٮِٕرَ​ ۚ وَاِنِّىۡ لَاَظُنُّكَ يٰفِرۡعَوۡنُ مَثۡبُوۡرًا‏
+arabic_ayat: قَالَ لَقَدۡ عَلِمۡتَ مَآ أَنزَلَ هَٰٓؤُلَآءِ إِلَّا رَبُّ ٱلسَّمَٰوَٰتِ
+  وَٱلۡأَرۡضِ بَصَآئِرَ وَإِنِّي لَأَظُنُّكَ يَٰفِرۡعَوۡنُ مَثۡبُورٗا
 sentence_translation: Moses replied, “You know well that none has sent these ˹signs˺
   down except the Lord of the heavens and the earth as insights. And I really think
   that you, O  Pharaoh, are doomed.”
@@ -18,19 +18,19 @@ word_by_word:
     translation: you have known
     transliteration: ʿalim'ta
   4:
-    arabic: مَاۤ
+    arabic: مَآ
     translation: none
     transliteration: mā
   5:
-    arabic: اَنۡزَلَ
+    arabic: أَنزَلَ
     translation: has sent down
     transliteration: anzala
   6:
-    arabic: هٰٓؤُلَاۤءِ
+    arabic: هَٰٓؤُلَآءِ
     translation: these
     transliteration: hāulāi
   7:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   8:
@@ -38,31 +38,31 @@ word_by_word:
     translation: (the) Lord
     transliteration: rabbu
   9:
-    arabic: السَّمٰوٰتِ
+    arabic: ٱلسَّمَٰوَٰتِ
     translation: (of) the heavens
     transliteration: l-samāwāti
   10:
-    arabic: وَالۡاَرۡضِ
+    arabic: وَٱلۡأَرۡضِ
     translation: and the earth
     transliteration: wal-arḍi
   11:
-    arabic: بَصَآٮِٕرَ​ ۚ
+    arabic: بَصَآئِرَ
     translation: (as) evidence
     transliteration: baṣāira
   12:
-    arabic: وَاِنِّىۡ
+    arabic: وَإِنِّي
     translation: and indeed, I
     transliteration: wa-innī
   13:
-    arabic: لَاَظُنُّكَ
+    arabic: لَأَظُنُّكَ
     translation: '[I] surely think you'
     transliteration: la-aẓunnuka
   14:
-    arabic: يٰفِرۡعَوۡنُ
+    arabic: يَٰفِرۡعَوۡنُ
     translation: O Firaun
     transliteration: yāfir'ʿawnu
   15:
-    arabic: مَثۡبُوۡرًا‏
+    arabic: مَثۡبُورٗا
     translation: (you are) destroyed
     transliteration: mathbūran
 ---

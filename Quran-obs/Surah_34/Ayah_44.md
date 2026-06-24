@@ -1,39 +1,39 @@
 ---
-arabic_ayat: وَمَاۤ اٰتَيۡنٰهُمۡ مِّنۡ كُتُبٍ يَّدۡرُسُوۡنَهَا وَمَاۤ اَرۡسَلۡنَاۤ
-  اِلَيۡهِمۡ قَبۡلَكَ مِنۡ نَّذِيۡرٍؕ‏
+arabic_ayat: وَمَآ ءَاتَيۡنَٰهُم مِّن كُتُبٖ يَدۡرُسُونَهَاۖ وَمَآ أَرۡسَلۡنَآ
+  إِلَيۡهِمۡ قَبۡلَكَ مِن نَّذِيرٖ
 sentence_translation: ˹They say so even though˺ We had never given them any scriptures
   to study, nor did We ever send them a warner before you ˹O Prophet˺.
 word_by_word:
   1:
-    arabic: وَمَاۤ
+    arabic: وَمَآ ءَ
     translation: And not
     transliteration: wamā
   2:
-    arabic: اٰتَيۡنٰهُمۡ
+    arabic: اتَيۡنَٰهُم
     translation: We (had) given them
     transliteration: ātaynāhum
   3:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: any
     transliteration: min
   4:
-    arabic: كُتُبٍ
+    arabic: كُتُبٖ
     translation: Scriptures
     transliteration: kutubin
   5:
-    arabic: يَّدۡرُسُوۡنَهَا
+    arabic: يَدۡرُسُونَهَاۖ
     translation: which they could study
     transliteration: yadrusūnahā
   6:
-    arabic: وَمَاۤ
+    arabic: وَمَآ
     translation: and not
     transliteration: wamā
   7:
-    arabic: اَرۡسَلۡنَاۤ
+    arabic: أَرۡسَلۡنَآ
     translation: We sent
     transliteration: arsalnā
   8:
-    arabic: اِلَيۡهِمۡ
+    arabic: إِلَيۡهِمۡ
     translation: to them
     transliteration: ilayhim
   9:
@@ -41,11 +41,11 @@ word_by_word:
     translation: before you
     transliteration: qablaka
   10:
-    arabic: مِنۡ
+    arabic: مِن
     translation: any
     transliteration: min
   11:
-    arabic: نَّذِيۡرٍؕ‏
+    arabic: نَّذِيرٖ
     translation: warner
     transliteration: nadhīrin
 ---

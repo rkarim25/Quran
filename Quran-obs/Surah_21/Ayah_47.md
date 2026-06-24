@@ -1,7 +1,7 @@
 ---
-arabic_ayat: وَنَضَعُ الۡمَوَازِيۡنَ الۡقِسۡطَ لِيَوۡمِ الۡقِيٰمَةِ فَلَا تُظۡلَمُ
-  نَـفۡسٌ شَيۡــًٔـا​ ؕ وَاِنۡ كَانَ مِثۡقَالَ حَبَّةٍ مِّنۡ خَرۡدَلٍ اَتَيۡنَا بِهَا​
-  ؕ وَكَفٰى بِنَا حٰسِبِيۡنَ‏
+arabic_ayat: وَنَضَعُ ٱلۡمَوَٰزِينَ ٱلۡقِسۡطَ لِيَوۡمِ ٱلۡقِيَٰمَةِ فَلَا تُظۡلَمُ
+  نَفۡسٞ شَيۡـٔٗاۖ وَإِن كَانَ مِثۡقَالَ حَبَّةٖ مِّنۡ خَرۡدَلٍ أَتَيۡنَا بِهَاۗ وَكَفَىٰ
+  بِنَا حَٰسِبِينَ
 sentence_translation: We will set up the scales of justice on the Day of Judgment,
   so no soul will be wronged in the least. And ˹even˺ if a deed is the weight of a
   mustard seed, We will bring it forth. And sufficient are We as a ˹vigilant˺ Reckoner.
@@ -11,11 +11,11 @@ word_by_word:
     translation: And We set
     transliteration: wanaḍaʿu
   2:
-    arabic: الۡمَوَازِيۡنَ
+    arabic: ٱلۡمَوَٰزِينَ
     translation: the scales
     transliteration: l-mawāzīna
   3:
-    arabic: الۡقِسۡطَ
+    arabic: ٱلۡقِسۡطَ
     translation: (of) the justice
     transliteration: l-qis'ṭa
   4:
@@ -23,7 +23,7 @@ word_by_word:
     translation: for (the) Day
     transliteration: liyawmi
   5:
-    arabic: الۡقِيٰمَةِ
+    arabic: ٱلۡقِيَٰمَةِ
     translation: (of) the Resurrection
     transliteration: l-qiyāmati
   6:
@@ -35,15 +35,15 @@ word_by_word:
     translation: will be wronged
     transliteration: tuẓ'lamu
   8:
-    arabic: نَـفۡسٌ
+    arabic: نَفۡسٞ
     translation: any soul
     transliteration: nafsun
   9:
-    arabic: شَيۡــًٔـا​ ؕ
+    arabic: شَيۡـٔٗاۖ
     translation: (in) anything
     transliteration: shayan
   10:
-    arabic: وَاِنۡ
+    arabic: وَإِن
     translation: And if
     transliteration: wa-in
   11:
@@ -55,7 +55,7 @@ word_by_word:
     translation: weight
     transliteration: mith'qāla
   13:
-    arabic: حَبَّةٍ
+    arabic: حَبَّةٖ
     translation: (of) a seed
     transliteration: ḥabbatin
   14:
@@ -67,15 +67,15 @@ word_by_word:
     translation: a mustard
     transliteration: khardalin
   16:
-    arabic: اَتَيۡنَا
+    arabic: أَتَيۡنَا
     translation: We will bring
     transliteration: ataynā
   17:
-    arabic: بِهَا​ ؕ
+    arabic: بِهَاۗ
     translation: '[with] it'
     transliteration: bihā
   18:
-    arabic: وَكَفٰى
+    arabic: وَكَفَىٰ
     translation: And sufficient
     transliteration: wakafā
   19:
@@ -83,7 +83,7 @@ word_by_word:
     translation: (are) We
     transliteration: binā
   20:
-    arabic: حٰسِبِيۡنَ‏
+    arabic: حَٰسِبِينَ
     translation: (as) Reckoners
     transliteration: ḥāsibīna
 ---

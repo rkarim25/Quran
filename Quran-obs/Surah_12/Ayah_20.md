@@ -1,6 +1,6 @@
 ---
-arabic_ayat: وَشَرَوۡهُ بِثَمَنٍۢ بَخۡسٍ دَرَاهِمَ مَعۡدُوۡدَةٍ​ ۚ وَكَانُوۡا فِيۡهِ
-  مِنَ الزّٰهِدِيۡنَ‏
+arabic_ayat: وَشَرَوۡهُ بِثَمَنِۭ بَخۡسٖ دَرَٰهِمَ مَعۡدُودَةٖ وَكَانُواْ فِيهِ مِنَ
+  ٱلزَّٰهِدِينَ
 sentence_translation: They ˹later˺ sold him for a cheap price, just a few silver coins—only
   wanting to get rid of him. 
 word_by_word:
@@ -9,27 +9,27 @@ word_by_word:
     translation: And they sold him
     transliteration: washarawhu
   2:
-    arabic: بِثَمَنٍۢ
+    arabic: بِثَمَنِۭ
     translation: for a price
     transliteration: bithamanin
   3:
-    arabic: بَخۡسٍ
+    arabic: بَخۡسٖ
     translation: very low
     transliteration: bakhsin
   4:
-    arabic: دَرَاهِمَ
+    arabic: دَرَٰهِمَ
     translation: dirhams
     transliteration: darāhima
   5:
-    arabic: مَعۡدُوۡدَةٍ​ ۚ
+    arabic: مَعۡدُودَةٖ
     translation: few
     transliteration: maʿdūdatin
   6:
-    arabic: وَكَانُوۡا
+    arabic: وَكَانُواْ
     translation: and they were
     transliteration: wakānū
   7:
-    arabic: فِيۡهِ
+    arabic: فِيهِ
     translation: about him
     transliteration: fīhi
   8:
@@ -37,7 +37,7 @@ word_by_word:
     translation: of
     transliteration: mina
   9:
-    arabic: الزّٰهِدِيۡنَ‏
+    arabic: ٱلزَّٰهِدِينَ
     translation: those keen to give up
     transliteration: l-zāhidīna
 ---

@@ -1,7 +1,7 @@
 ---
-arabic_ayat: لَقَدۡ كَانَ لِسَبَاٍ فِىۡ مَسۡكَنِهِمۡ اٰيَةٌ  ۚ جَنَّتٰنِ عَنۡ يَّمِيۡنٍ
-  وَّشِمَالٍ ؕ  کُلُوۡا مِنۡ رِّزۡقِ رَبِّكُمۡ وَاشۡكُرُوۡا لَهٗ ؕ بَلۡدَةٌ طَيِّبَةٌ
-  وَّرَبٌّ غَفُوۡرٌ‏‏
+arabic_ayat: لَقَدۡ كَانَ لِسَبَإٖ فِي مَسۡكَنِهِمۡ ءَايَةٞۖ جَنَّتَانِ عَن يَمِينٖ
+  وَشِمَالٖۖ كُلُواْ مِن رِّزۡقِ رَبِّكُمۡ وَٱشۡكُرُواْ لَهُۥۚ بَلۡدَةٞ طَيِّبَةٞ
+  وَرَبٌّ غَفُورٞ
 sentence_translation: 'Indeed, there was a sign for ˹the tribe of˺ Sheba in their
   homeland: two orchards—one to the right and the other to the left. ˹They were told:˺
   “Eat from the provision of your Lord, and be grateful to Him. ˹Yours is˺ a good
@@ -16,43 +16,43 @@ word_by_word:
     translation: (there) was
     transliteration: kāna
   3:
-    arabic: لِسَبَاٍ
+    arabic: لِسَبَإٖ
     translation: for Saba
     transliteration: lisaba-in
   4:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   5:
-    arabic: مَسۡكَنِهِمۡ
+    arabic: مَسۡكَنِهِمۡ ءَ
     translation: their dwelling place
     transliteration: maskanihim
   6:
-    arabic: اٰيَةٌ  ۚ
+    arabic: ايَةٞۖ
     translation: 'a sign:'
     transliteration: āyatun
   7:
-    arabic: جَنَّتٰنِ
+    arabic: جَنَّتَانِ
     translation: Two gardens
     transliteration: jannatāni
   8:
-    arabic: عَنۡ
+    arabic: عَن
     translation: 'on'
     transliteration: ʿan
   9:
-    arabic: يَّمِيۡنٍ
+    arabic: يَمِينٖ
     translation: (the) right
     transliteration: yamīnin
   10:
-    arabic: وَّشِمَالٍ ؕ  
+    arabic: وَشِمَالٖۖ
     translation: and (on the) left
     transliteration: washimālin
   11:
-    arabic: کُلُوۡا
+    arabic: كُلُواْ
     translation: Eat
     transliteration: kulū
   12:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   13:
@@ -64,27 +64,27 @@ word_by_word:
     translation: (of) your Lord
     transliteration: rabbikum
   15:
-    arabic: وَاشۡكُرُوۡا
+    arabic: وَٱشۡكُرُواْ
     translation: and be grateful
     transliteration: wa-ush'kurū
   16:
-    arabic: لَهٗ ؕ
+    arabic: لَهُۥۚ
     translation: to Him
     transliteration: lahu
   17:
-    arabic: بَلۡدَةٌ
+    arabic: بَلۡدَةٞ
     translation: A land
     transliteration: baldatun
   18:
-    arabic: طَيِّبَةٌ
+    arabic: طَيِّبَةٞ
     translation: good
     transliteration: ṭayyibatun
   19:
-    arabic: وَّرَبٌّ
+    arabic: وَرَبٌّ
     translation: and a Lord
     transliteration: warabbun
   20:
-    arabic: غَفُوۡرٌ‏‏
+    arabic: غَفُورٞ
     translation: Oft-Forgiving
     transliteration: ghafūrun
 ---

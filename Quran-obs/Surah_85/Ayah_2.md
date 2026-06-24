@@ -1,13 +1,13 @@
 ---
-arabic_ayat: وَالۡيَوۡمِ الۡمَوۡعُوۡدِۙ‏
+arabic_ayat: وَٱلۡيَوۡمِ ٱلۡمَوۡعُودِ
 sentence_translation: and the promised Day ˹of Judgment˺,
 word_by_word:
   1:
-    arabic: وَالۡيَوۡمِ
+    arabic: وَٱلۡيَوۡمِ
     translation: And the Day
     transliteration: wal-yawmi
   2:
-    arabic: الۡمَوۡعُوۡدِۙ‏
+    arabic: ٱلۡمَوۡعُودِ
     translation: Promised
     transliteration: l-mawʿūdi
 ---

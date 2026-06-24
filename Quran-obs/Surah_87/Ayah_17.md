@@ -1,17 +1,17 @@
 ---
-arabic_ayat: وَالۡاٰخِرَةُ خَيۡرٌ وَّ اَبۡقٰىؕ‏
+arabic_ayat: وَٱلۡأٓخِرَةُ خَيۡرٞ وَأَبۡقَىٰٓ
 sentence_translation: even though the Hereafter is far better and more lasting.
 word_by_word:
   1:
-    arabic: وَالۡاٰخِرَةُ
+    arabic: وَٱلۡأٓخِرَةُ
     translation: While the Hereafter
     transliteration: wal-ākhiratu
   2:
-    arabic: خَيۡرٌ
+    arabic: خَيۡرٞ
     translation: (is) better
     transliteration: khayrun
   3:
-    arabic: وَّ اَبۡقٰىؕ‏
+    arabic: وَأَبۡقَىٰٓ
     translation: and everlasting
     transliteration: wa-abqā
 ---

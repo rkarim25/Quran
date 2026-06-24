@@ -1,9 +1,9 @@
 ---
-arabic_ayat: اِنَّهٗ مِنۡ عِبَادِنَا الۡمُؤۡمِنِيۡنَ‏
+arabic_ayat: إِنَّهُۥ مِنۡ عِبَادِنَا ٱلۡمُؤۡمِنِينَ
 sentence_translation: He was truly one of Our faithful servants.
 word_by_word:
   1:
-    arabic: اِنَّهٗ
+    arabic: إِنَّهُۥ
     translation: Indeed, he (was)
     transliteration: innahu
   2:
@@ -15,7 +15,7 @@ word_by_word:
     translation: Our slaves
     transliteration: ʿibādinā
   4:
-    arabic: الۡمُؤۡمِنِيۡنَ‏
+    arabic: ٱلۡمُؤۡمِنِينَ
     translation: believing
     transliteration: l-mu'minīna
 ---

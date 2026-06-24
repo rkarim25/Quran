@@ -1,22 +1,22 @@
 ---
-arabic_ayat: كَلَّا​ لَيُنۡۢبَذَنَّ فِى الۡحُطَمَةِ  ۖ‏
+arabic_ayat: كـَلَّاۖ لَيُنۢبَذَنَّ فِي ٱلۡحُطَمَةِ
 sentence_translation: Not at all! Such a person will certainly be tossed into the
   Crusher.
 word_by_word:
   1:
-    arabic: كَلَّا​
+    arabic: كـَلَّاۖ
     translation: Nay
     transliteration: kallā
   2:
-    arabic: لَيُنۡۢبَذَنَّ
+    arabic: لَيُنۢبَذَنَّ
     translation: Surely he will be thrown
     transliteration: layunbadhanna
   3:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   4:
-    arabic: الۡحُطَمَةِ  ۖ‏
+    arabic: ٱلۡحُطَمَةِ
     translation: the Crusher
     transliteration: l-ḥuṭamati
 ---

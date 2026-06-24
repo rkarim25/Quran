@@ -1,11 +1,11 @@
 ---
-arabic_ayat: "اِنۡ كَانَتۡ اِلَّا صَيۡحَةً وَّاحِدَةً فَاِذَا هُمۡ جَمِيۡعٌ لَّدَيۡنَا\
-  \ مُحۡضَرُوۡنَ‏ \uFEFF\uFEFF"
+arabic_ayat: إِن كَانَتۡ إِلَّا صَيۡحَةٗ وَٰحِدَةٗ فَإِذَا هُمۡ جَمِيعٞ لَّدَيۡنَا
+  مُحۡضَرُونَ
 sentence_translation: It will only take one Blast, then at once they will all be brought
   before Us.
 word_by_word:
   1:
-    arabic: اِنۡ
+    arabic: إِن
     translation: Not
     transliteration: in
   2:
@@ -13,19 +13,19 @@ word_by_word:
     translation: it will be
     transliteration: kānat
   3:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: but
     transliteration: illā
   4:
-    arabic: صَيۡحَةً
+    arabic: صَيۡحَةٗ
     translation: a shout
     transliteration: ṣayḥatan
   5:
-    arabic: وَّاحِدَةً
+    arabic: وَٰحِدَةٗ
     translation: single
     transliteration: wāḥidatan
   6:
-    arabic: فَاِذَا
+    arabic: فَإِذَا
     translation: so behold
     transliteration: fa-idhā
   7:
@@ -33,7 +33,7 @@ word_by_word:
     translation: They
     transliteration: hum
   8:
-    arabic: جَمِيۡعٌ
+    arabic: جَمِيعٞ
     translation: all
     transliteration: jamīʿun
   9:
@@ -41,7 +41,7 @@ word_by_word:
     translation: before Us
     transliteration: ladaynā
   10:
-    arabic: "مُحۡضَرُوۡنَ‏ \uFEFF\uFEFF"
+    arabic: مُحۡضَرُونَ
     translation: (will be) brought
     transliteration: muḥ'ḍarūna
 ---

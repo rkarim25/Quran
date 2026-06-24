@@ -1,31 +1,31 @@
 ---
-arabic_ayat: وَ خَلَقَ اللّٰهُ السَّمٰوٰتِ وَالۡاَرۡضَ بِالۡحَقِّ وَلِتُجۡزٰى كُلُّ
-  نَفۡسٍۢ بِمَا كَسَبَتۡ وَهُمۡ لَا يُظۡلَمُوۡنَ‏
+arabic_ayat: وَخَلَقَ ٱللَّهُ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضَ بِٱلۡحَقِّ وَلِتُجۡزَىٰ كُلُّ
+  نَفۡسِۭ بِمَا كَسَبَتۡ وَهُمۡ لَا يُظۡلَمُونَ
 sentence_translation: For Allah created the heavens and the earth for a purpose, so
   that every soul may be paid back for what it has committed. And none will be wronged.
 word_by_word:
   1:
-    arabic: وَ خَلَقَ
+    arabic: وَخَلَقَ
     translation: And Allah created
     transliteration: wakhalaqa
   2:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: And Allah created
     transliteration: l-lahu
   3:
-    arabic: السَّمٰوٰتِ
+    arabic: ٱلسَّمَٰوَٰتِ
     translation: the heavens
     transliteration: l-samāwāti
   4:
-    arabic: وَالۡاَرۡضَ
+    arabic: وَٱلۡأَرۡضَ
     translation: and the earth
     transliteration: wal-arḍa
   5:
-    arabic: بِالۡحَقِّ
+    arabic: بِٱلۡحَقِّ
     translation: in truth
     transliteration: bil-ḥaqi
   6:
-    arabic: وَلِتُجۡزٰى
+    arabic: وَلِتُجۡزَىٰ
     translation: and that may be recompensed
     transliteration: walituj'zā
   7:
@@ -33,7 +33,7 @@ word_by_word:
     translation: every
     transliteration: kullu
   8:
-    arabic: نَفۡسٍۢ
+    arabic: نَفۡسِۭ
     translation: soul
     transliteration: nafsin
   9:
@@ -53,7 +53,7 @@ word_by_word:
     translation: will not be wronged
     transliteration: lā
   13:
-    arabic: يُظۡلَمُوۡنَ‏
+    arabic: يُظۡلَمُونَ
     translation: will not be wronged
     transliteration: yuẓ'lamūna
 ---

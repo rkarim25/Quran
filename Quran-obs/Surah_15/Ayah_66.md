@@ -1,27 +1,27 @@
 ---
-arabic_ayat: وَقَضَيۡنَاۤ اِلَيۡهِ ذٰ لِكَ الۡاَمۡرَ اَنَّ دَابِرَ هٰٓؤُلَاۤءِ مَقۡطُوۡعٌ
-  مُّصۡبِحِيۡنَ‏
+arabic_ayat: وَقَضَيۡنَآ إِلَيۡهِ ذَٰلِكَ ٱلۡأَمۡرَ أَنَّ دَابِرَ هَٰٓؤُلَآءِ مَقۡطُوعٞ
+  مُّصۡبِحِينَ
 sentence_translation: 'We revealed to him this decree: “Those ˹sinners˺ will be uprooted
   in the morning.”'
 word_by_word:
   1:
-    arabic: وَقَضَيۡنَاۤ
+    arabic: وَقَضَيۡنَآ
     translation: And We conveyed
     transliteration: waqaḍaynā
   2:
-    arabic: اِلَيۡهِ
+    arabic: إِلَيۡهِ
     translation: to him
     transliteration: ilayhi
   3:
-    arabic: ذٰ لِكَ
+    arabic: ذَٰلِكَ
     translation: '[that]'
     transliteration: dhālika
   4:
-    arabic: الۡاَمۡرَ
+    arabic: ٱلۡأَمۡرَ
     translation: the matter
     transliteration: l-amra
   5:
-    arabic: اَنَّ
+    arabic: أَنَّ
     translation: that
     transliteration: anna
   6:
@@ -29,15 +29,15 @@ word_by_word:
     translation: (the) root
     transliteration: dābira
   7:
-    arabic: هٰٓؤُلَاۤءِ
+    arabic: هَٰٓؤُلَآءِ
     translation: (of) these
     transliteration: hāulāi
   8:
-    arabic: مَقۡطُوۡعٌ
+    arabic: مَقۡطُوعٞ
     translation: would be cut off
     transliteration: maqṭūʿun
   9:
-    arabic: مُّصۡبِحِيۡنَ‏
+    arabic: مُّصۡبِحِينَ
     translation: (by) early morning
     transliteration: muṣ'biḥīna
 ---

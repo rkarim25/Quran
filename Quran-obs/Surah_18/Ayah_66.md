@@ -1,6 +1,6 @@
 ---
-arabic_ayat: قَالَ لَهٗ مُوۡسٰى هَلۡ اَتَّبِعُكَ عَلٰٓى اَنۡ تُعَلِّمَنِ مِمَّا عُلِّمۡتَ
-  رُشۡدًا‏
+arabic_ayat: قَالَ لَهُۥ مُوسَىٰ هَلۡ أَتَّبِعُكَ عَلَىٰٓ أَن تُعَلِّمَنِ مِمَّا عُلِّمۡتَ
+  رُشۡدٗا
 sentence_translation: Moses said to him, “May I follow you, provided that you teach
   me some of the right guidance you have been taught?”
 word_by_word:
@@ -9,11 +9,11 @@ word_by_word:
     translation: Said
     transliteration: qāla
   2:
-    arabic: لَهٗ
+    arabic: لَهُۥ
     translation: to him
     transliteration: lahu
   3:
-    arabic: مُوۡسٰى
+    arabic: مُوسَىٰ
     translation: Musa
     transliteration: mūsā
   4:
@@ -21,15 +21,15 @@ word_by_word:
     translation: May
     transliteration: hal
   5:
-    arabic: اَتَّبِعُكَ
+    arabic: أَتَّبِعُكَ
     translation: I follow you
     transliteration: attabiʿuka
   6:
-    arabic: عَلٰٓى
+    arabic: عَلَىٰٓ
     translation: 'on'
     transliteration: ʿalā
   7:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that
     transliteration: an
   8:
@@ -45,7 +45,7 @@ word_by_word:
     translation: you have been taught
     transliteration: ʿullim'ta
   11:
-    arabic: رُشۡدًا‏
+    arabic: رُشۡدٗا
     translation: (of) right guidance
     transliteration: rush'dan
 ---

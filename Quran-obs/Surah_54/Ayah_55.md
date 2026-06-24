@@ -1,9 +1,9 @@
 ---
-arabic_ayat:   فِىۡ مَقۡعَدِ صِدۡقٍ عِنۡدَ مَلِيۡكٍ مُّقۡتَدِرٍ‏
+arabic_ayat: فِي مَقۡعَدِ صِدۡقٍ عِندَ مَلِيكٖ مُّقۡتَدِرِۭ
 sentence_translation: at the Seat of Honour in the presence of the Most Powerful Sovereign.
 word_by_word:
   1:
-    arabic:   فِىۡ
+    arabic: فِي
     translation: In
     transliteration: fī
   2:
@@ -15,15 +15,15 @@ word_by_word:
     translation: (of) honor
     transliteration: ṣid'qin
   4:
-    arabic: عِنۡدَ
+    arabic: عِندَ
     translation: near
     transliteration: ʿinda
   5:
-    arabic: مَلِيۡكٍ
+    arabic: مَلِيكٖ
     translation: a King
     transliteration: malīkin
   6:
-    arabic: مُّقۡتَدِرٍ‏
+    arabic: مُّقۡتَدِرِۭ
     translation: Most Powerful
     transliteration: muq'tadirin
 ---

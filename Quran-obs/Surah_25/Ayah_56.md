@@ -1,26 +1,26 @@
 ---
-arabic_ayat: وَمَاۤ اَرۡسَلۡنٰكَ اِلَّا مُبَشِّرًا وَّنَذِيۡرًا‏
+arabic_ayat: وَمَآ أَرۡسَلۡنَٰكَ إِلَّا مُبَشِّرٗا وَنَذِيرٗا
 sentence_translation: And We have sent you ˹O Prophet˺ only as a deliverer of good
   news and a warner.
 word_by_word:
   1:
-    arabic: وَمَاۤ
+    arabic: وَمَآ
     translation: And not
     transliteration: wamā
   2:
-    arabic: اَرۡسَلۡنٰكَ
+    arabic: أَرۡسَلۡنَٰكَ
     translation: We sent you
     transliteration: arsalnāka
   3:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   4:
-    arabic: مُبَشِّرًا
+    arabic: مُبَشِّرٗا
     translation: (as) a bearer of glad tidings
     transliteration: mubashiran
   5:
-    arabic: وَّنَذِيۡرًا‏
+    arabic: وَنَذِيرٗا
     translation: and a warner
     transliteration: wanadhīran
 ---

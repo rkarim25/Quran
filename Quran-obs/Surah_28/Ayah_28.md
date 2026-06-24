@@ -1,6 +1,6 @@
 ---
-arabic_ayat: قَالَ ذٰ لِكَ بَيۡنِىۡ وَبَيۡنَكَ​ ؕ اَيَّمَا الۡاَجَلَيۡنِ قَضَيۡتُ
-  فَلَا عُدۡوَانَ عَلَـىَّ​ ؕ وَاللّٰهُ عَلٰى مَا نَقُوۡلُ وَكِيۡلٌ‏
+arabic_ayat: قَالَ ذَٰلِكَ بَيۡنِي وَبَيۡنَكَۖ أَيَّمَا ٱلۡأَجَلَيۡنِ قَضَيۡتُ فَلَا
+  عُدۡوَٰنَ عَلَيَّۖ وَٱللَّهُ عَلَىٰ مَا نَقُولُ وَكِيلٞ
 sentence_translation: Moses responded, “˹Then˺ it is ˹settled˺ between you and I.
   Whichever term I fulfill, there will be no ˹further˺ obligation on me. And Allah
   is a Witness to what we say.”
@@ -10,23 +10,23 @@ word_by_word:
     translation: He said
     transliteration: qāla
   2:
-    arabic: ذٰ لِكَ
+    arabic: ذَٰلِكَ
     translation: That
     transliteration: dhālika
   3:
-    arabic: بَيۡنِىۡ
+    arabic: بَيۡنِي
     translation: (is) between me
     transliteration: baynī
   4:
-    arabic: وَبَيۡنَكَ​ ؕ
+    arabic: وَبَيۡنَكَۖ
     translation: and between you
     transliteration: wabaynaka
   5:
-    arabic: اَيَّمَا
+    arabic: أَيَّمَا
     translation: Whichever
     transliteration: ayyamā
   6:
-    arabic: الۡاَجَلَيۡنِ
+    arabic: ٱلۡأَجَلَيۡنِ
     translation: (of) the two terms
     transliteration: l-ajalayni
   7:
@@ -38,19 +38,19 @@ word_by_word:
     translation: then no
     transliteration: falā
   9:
-    arabic: عُدۡوَانَ
+    arabic: عُدۡوَٰنَ
     translation: injustice
     transliteration: ʿud'wāna
   10:
-    arabic: عَلَـىَّ​ ؕ
+    arabic: عَلَيَّۖ
     translation: to me
     transliteration: ʿalayya
   11:
-    arabic: وَاللّٰهُ
+    arabic: وَٱللَّهُ
     translation: and Allah
     transliteration: wal-lahu
   12:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: over
     transliteration: ʿalā
   13:
@@ -58,11 +58,11 @@ word_by_word:
     translation: what
     transliteration: mā
   14:
-    arabic: نَقُوۡلُ
+    arabic: نَقُولُ
     translation: we say
     transliteration: naqūlu
   15:
-    arabic: وَكِيۡلٌ‏
+    arabic: وَكِيلٞ
     translation: (is) a Witness
     transliteration: wakīlun
 ---

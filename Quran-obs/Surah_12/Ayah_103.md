@@ -1,17 +1,17 @@
 ---
-arabic_ayat: وَمَاۤ اَكۡثَرُ النَّاسِ وَلَوۡ حَرَصۡتَ بِمُؤۡمِنِيۡنَ‏
+arabic_ayat: وَمَآ أَكۡثَرُ ٱلنَّاسِ وَلَوۡ حَرَصۡتَ بِمُؤۡمِنِينَ
 sentence_translation: And most people will not believe—no matter how keen you are—
 word_by_word:
   1:
-    arabic: وَمَاۤ
+    arabic: وَمَآ
     translation: And not
     transliteration: wamā
   2:
-    arabic: اَكۡثَرُ
+    arabic: أَكۡثَرُ
     translation: most
     transliteration: aktharu
   3:
-    arabic: النَّاسِ
+    arabic: ٱلنَّاسِ
     translation: (of) the mankind
     transliteration: l-nāsi
   4:
@@ -23,7 +23,7 @@ word_by_word:
     translation: you desire
     transliteration: ḥaraṣta
   6:
-    arabic: بِمُؤۡمِنِيۡنَ‏
+    arabic: بِمُؤۡمِنِينَ
     translation: (will be) believers
     transliteration: bimu'minīna
 ---

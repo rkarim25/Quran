@@ -1,20 +1,20 @@
 ---
-arabic_ayat: قُلْ لِّـلۡمُؤۡمِنِيۡنَ يَغُـضُّوۡا مِنۡ اَبۡصَارِهِمۡ وَيَحۡفَظُوۡا
-  فُرُوۡجَهُمۡ​ ؕ ذٰ لِكَ اَزۡكٰى لَهُمۡ​ ؕ اِنَّ اللّٰهَ خَبِيۡرٌۢ بِمَا يَصۡنَـعُوۡنَ‏
+arabic_ayat: قُل لِّلۡمُؤۡمِنِينَ يَغُضُّواْ مِنۡ أَبۡصَٰرِهِمۡ وَيَحۡفَظُواْ فُرُوجَهُمۡۚ
+  ذَٰلِكَ أَزۡكَىٰ لَهُمۡۚ إِنَّ ٱللَّهَ خَبِيرُۢ بِمَا يَصۡنَعُونَ
 sentence_translation: ˹O Prophet!˺ Tell the believing men to lower their gaze and
   guard their chastity. That is purer for them. Surely Allah is All-Aware of what
   they do.
 word_by_word:
   1:
-    arabic: قُلْ
+    arabic: قُل
     translation: Say
     transliteration: qul
   2:
-    arabic: لِّـلۡمُؤۡمِنِيۡنَ
+    arabic: لِّلۡمُؤۡمِنِينَ
     translation: to the believing men
     transliteration: lil'mu'minīna
   3:
-    arabic: يَغُـضُّوۡا
+    arabic: يَغُضُّواْ
     translation: they should lower
     transliteration: yaghuḍḍū
   4:
@@ -22,39 +22,39 @@ word_by_word:
     translation: their gaze
     transliteration: min
   5:
-    arabic: اَبۡصَارِهِمۡ
+    arabic: أَبۡصَٰرِهِمۡ
     translation: their gaze
     transliteration: abṣārihim
   6:
-    arabic: وَيَحۡفَظُوۡا
+    arabic: وَيَحۡفَظُواْ
     translation: and they should guard
     transliteration: wayaḥfaẓū
   7:
-    arabic: فُرُوۡجَهُمۡ​ ؕ
+    arabic: فُرُوجَهُمۡۚ
     translation: their chastity
     transliteration: furūjahum
   8:
-    arabic: ذٰ لِكَ
+    arabic: ذَٰلِكَ
     translation: That
     transliteration: dhālika
   9:
-    arabic: اَزۡكٰى
+    arabic: أَزۡكَىٰ
     translation: (is) purer
     transliteration: azkā
   10:
-    arabic: لَهُمۡ​ ؕ
+    arabic: لَهُمۡۚ
     translation: for them
     transliteration: lahum
   11:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   12:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   13:
-    arabic: خَبِيۡرٌۢ
+    arabic: خَبِيرُۢ
     translation: (is) All-Aware
     transliteration: khabīrun
   14:
@@ -62,7 +62,7 @@ word_by_word:
     translation: of what
     transliteration: bimā
   15:
-    arabic: يَصۡنَـعُوۡنَ‏
+    arabic: يَصۡنَعُونَ
     translation: they do
     transliteration: yaṣnaʿūna
 ---

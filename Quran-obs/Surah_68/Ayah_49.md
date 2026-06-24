@@ -1,31 +1,31 @@
 ---
-arabic_ayat: لَوۡلَاۤ اَنۡ تَدٰرَكَهٗ نِعۡمَةٌ مِّنۡ رَّبِّهٖ لَنُبِذَ بِالۡعَرَآءِ
-  وَهُوَ مَذۡمُوۡمٌ‏
+arabic_ayat: لَّوۡلَآ أَن تَدَٰرَكَهُۥ نِعۡمَةٞ مِّن رَّبِّهِۦ لَنُبِذَ بِٱلۡعَرَآءِ
+  وَهُوَ مَذۡمُومٞ
 sentence_translation: Had he not been shown grace by his Lord, he would have certainly
   been cast onto the open ˹shore˺, still blameworthy.
 word_by_word:
   1:
-    arabic: لَوۡلَاۤ
+    arabic: لَّوۡلَآ
     translation: If not
     transliteration: lawlā
   2:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that
     transliteration: an
   3:
-    arabic: تَدٰرَكَهٗ
+    arabic: تَدَٰرَكَهُۥ
     translation: overtook him
     transliteration: tadārakahu
   4:
-    arabic: نِعۡمَةٌ
+    arabic: نِعۡمَةٞ
     translation: a Favor
     transliteration: niʿ'matun
   5:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: from
     transliteration: min
   6:
-    arabic: رَّبِّهٖ
+    arabic: رَّبِّهِۦ
     translation: his Lord
     transliteration: rabbihi
   7:
@@ -33,7 +33,7 @@ word_by_word:
     translation: surely he would have been thrown
     transliteration: lanubidha
   8:
-    arabic: بِالۡعَرَآءِ
+    arabic: بِٱلۡعَرَآءِ
     translation: onto (the) naked shore
     transliteration: bil-ʿarāi
   9:
@@ -41,7 +41,7 @@ word_by_word:
     translation: while he
     transliteration: wahuwa
   10:
-    arabic: مَذۡمُوۡمٌ‏
+    arabic: مَذۡمُومٞ
     translation: (was) blamed
     transliteration: madhmūmun
 ---

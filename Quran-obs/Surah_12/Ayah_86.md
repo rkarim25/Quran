@@ -1,6 +1,6 @@
 ---
-arabic_ayat: قَالَ اِنَّمَاۤ اَشۡكُوۡا بَثِّـىۡ وَحُزۡنِىۡۤ اِلَى اللّٰهِ وَاَعۡلَمُ
-  مِنَ اللّٰهِ مَا لَا تَعۡلَمُوۡنَ‏
+arabic_ayat: قَالَ إِنَّمَآ أَشۡكُواْ بَثِّي وَحُزۡنِيٓ إِلَى ٱللَّهِ وَأَعۡلَمُ
+  مِنَ ٱللَّهِ مَا لَا تَعۡلَمُونَ
 sentence_translation: He replied, “I complain of my anguish and sorrow only to Allah,
   and I know from Allah what you do not know.
 word_by_word:
@@ -9,31 +9,31 @@ word_by_word:
     translation: He said
     transliteration: qāla
   2:
-    arabic: اِنَّمَاۤ
+    arabic: إِنَّمَآ
     translation: Only
     transliteration: innamā
   3:
-    arabic: اَشۡكُوۡا
+    arabic: أَشۡكُواْ
     translation: I complain
     transliteration: ashkū
   4:
-    arabic: بَثِّـىۡ
+    arabic: بَثِّي
     translation: (of) my suffering
     transliteration: bathī
   5:
-    arabic: وَحُزۡنِىۡۤ
+    arabic: وَحُزۡنِيٓ
     translation: and my grief
     transliteration: waḥuz'nī
   6:
-    arabic: اِلَى
+    arabic: إِلَى
     translation: to
     transliteration: ilā
   7:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   8:
-    arabic: وَاَعۡلَمُ
+    arabic: وَأَعۡلَمُ
     translation: and I know
     transliteration: wa-aʿlamu
   9:
@@ -41,7 +41,7 @@ word_by_word:
     translation: from
     transliteration: mina
   10:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   11:
@@ -53,7 +53,7 @@ word_by_word:
     translation: not
     transliteration: lā
   13:
-    arabic: تَعۡلَمُوۡنَ‏
+    arabic: تَعۡلَمُونَ
     translation: you know
     transliteration: taʿlamūna
 ---

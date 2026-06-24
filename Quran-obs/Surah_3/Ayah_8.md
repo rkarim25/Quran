@@ -1,6 +1,6 @@
 ---
-arabic_ayat: رَبَّنَا لَا تُزِغۡ قُلُوۡبَنَا بَعۡدَ اِذۡ هَدَيۡتَنَا وَهَبۡ لَنَا
-  مِنۡ لَّدُنۡكَ رَحۡمَةً ​ ۚ اِنَّكَ اَنۡتَ الۡوَهَّابُ‏
+arabic_ayat: رَبَّنَا لَا تُزِغۡ قُلُوبَنَا بَعۡدَ إِذۡ هَدَيۡتَنَا وَهَبۡ لَنَا مِن
+  لَّدُنكَ رَحۡمَةًۚ إِنَّكَ أَنتَ ٱلۡوَهَّابُ
 sentence_translation: ˹They say,˺ “Our Lord! Do not let our hearts deviate after you
   have guided us. Grant us Your mercy. You are indeed the Giver ˹of all bounties˺.
 word_by_word:
@@ -17,7 +17,7 @@ word_by_word:
     translation: deviate
     transliteration: tuzigh
   4:
-    arabic: قُلُوۡبَنَا
+    arabic: قُلُوبَنَا
     translation: our hearts
     transliteration: qulūbanā
   5:
@@ -25,7 +25,7 @@ word_by_word:
     translation: after
     transliteration: baʿda
   6:
-    arabic: اِذۡ
+    arabic: إِذۡ
     translation: '[when]'
     transliteration: idh
   7:
@@ -41,27 +41,27 @@ word_by_word:
     translation: (for) us
     transliteration: lanā
   10:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   11:
-    arabic: لَّدُنۡكَ
+    arabic: لَّدُنكَ
     translation: Yourself
     transliteration: ladunka
   12:
-    arabic: رَحۡمَةً ​ ۚ
+    arabic: رَحۡمَةًۚ
     translation: mercy
     transliteration: raḥmatan
   13:
-    arabic: اِنَّكَ
+    arabic: إِنَّكَ
     translation: Indeed You
     transliteration: innaka
   14:
-    arabic: اَنۡتَ
+    arabic: أَنتَ
     translation: You
     transliteration: anta
   15:
-    arabic: الۡوَهَّابُ‏
+    arabic: ٱلۡوَهَّابُ
     translation: (are) the Bestower
     transliteration: l-wahābu
 ---

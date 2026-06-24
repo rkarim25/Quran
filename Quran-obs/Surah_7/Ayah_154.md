@@ -1,11 +1,11 @@
 ---
-arabic_ayat: وَلَـمَّا سَكَتَ عَنۡ مُّوۡسَى الۡغَضَبُ اَخَذَ الۡاَلۡوَاحَ ​ۖ  وَفِىۡ
-  نُسۡخَتِهَا هُدًى وَّرَحۡمَةٌ لِّـلَّذِيۡنَ هُمۡ لِرَبِّهِمۡ يَرۡهَبُوۡنَ‏
+arabic_ayat: وَلَمَّا سَكَتَ عَن مُّوسَى ٱلۡغَضَبُ أَخَذَ ٱلۡأَلۡوَاحَۖ وَفِي نُسۡخَتِهَا
+  هُدٗى وَرَحۡمَةٞ لِّلَّذِينَ هُمۡ لِرَبِّهِمۡ يَرۡهَبُونَ
 sentence_translation: When Moses’ anger subsided, he took up the Tablets whose text
   contained guidance and mercy for those who stand in awe of their Lord.
 word_by_word:
   1:
-    arabic: وَلَـمَّا
+    arabic: وَلَمَّا
     translation: And when
     transliteration: walammā
   2:
@@ -13,27 +13,27 @@ word_by_word:
     translation: was calmed
     transliteration: sakata
   3:
-    arabic: عَنۡ
+    arabic: عَن
     translation: from
     transliteration: ʿan
   4:
-    arabic: مُّوۡسَى
+    arabic: مُّوسَى
     translation: Musa
     transliteration: mūsā
   5:
-    arabic: الۡغَضَبُ
+    arabic: ٱلۡغَضَبُ
     translation: the anger
     transliteration: l-ghaḍabu
   6:
-    arabic: اَخَذَ
+    arabic: أَخَذَ
     translation: he took (up)
     transliteration: akhadha
   7:
-    arabic: الۡاَلۡوَاحَ ​ۖ 
+    arabic: ٱلۡأَلۡوَاحَۖ
     translation: the tablets
     transliteration: l-alwāḥa
   8:
-    arabic: وَفِىۡ
+    arabic: وَفِي
     translation: and in
     transliteration: wafī
   9:
@@ -41,15 +41,15 @@ word_by_word:
     translation: their inscription
     transliteration: nus'khatihā
   10:
-    arabic: هُدًى
+    arabic: هُدٗى
     translation: (was) guidance
     transliteration: hudan
   11:
-    arabic: وَّرَحۡمَةٌ
+    arabic: وَرَحۡمَةٞ
     translation: and mercy
     transliteration: waraḥmatun
   12:
-    arabic: لِّـلَّذِيۡنَ
+    arabic: لِّلَّذِينَ
     translation: for those who
     transliteration: lilladhīna
   13:
@@ -61,7 +61,7 @@ word_by_word:
     translation: of their Lord
     transliteration: lirabbihim
   15:
-    arabic: يَرۡهَبُوۡنَ‏
+    arabic: يَرۡهَبُونَ
     translation: (are) fearful
     transliteration: yarhabūna
 ---

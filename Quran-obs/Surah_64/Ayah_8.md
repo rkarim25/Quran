@@ -1,35 +1,35 @@
 ---
-arabic_ayat: فَاٰمِنُوۡا بِاللّٰهِ وَرَسُوۡلِهٖ وَالنُّوۡرِ الَّذِىۡۤ اَنۡزَلۡنَا​ؕ
-  وَاللّٰهُ بِمَا تَعۡمَلُوۡنَ خَبِيۡرٌ‏
+arabic_ayat: فَـَٔامِنُواْ بِٱللَّهِ وَرَسُولِهِۦ وَٱلنُّورِ ٱلَّذِيٓ أَنزَلۡنَاۚ
+  وَٱللَّهُ بِمَا تَعۡمَلُونَ خَبِيرٞ
 sentence_translation: So believe in Allah and His Messenger and in the Light We have
   revealed. And Allah is All-Aware of what you do.
 word_by_word:
   1:
-    arabic: فَاٰمِنُوۡا
+    arabic: فَـَٔامِنُواْ
     translation: So believe
     transliteration: faāminū
   2:
-    arabic: بِاللّٰهِ
+    arabic: بِٱللَّهِ
     translation: in Allah
     transliteration: bil-lahi
   3:
-    arabic: وَرَسُوۡلِهٖ
+    arabic: وَرَسُولِهِۦ
     translation: and His Messenger
     transliteration: warasūlihi
   4:
-    arabic: وَالنُّوۡرِ
+    arabic: وَٱلنُّورِ
     translation: and the Light
     transliteration: wal-nūri
   5:
-    arabic: الَّذِىۡۤ
+    arabic: ٱلَّذِيٓ
     translation: which
     transliteration: alladhī
   6:
-    arabic: اَنۡزَلۡنَا​ؕ
+    arabic: أَنزَلۡنَاۚ
     translation: We have sent down
     transliteration: anzalnā
   7:
-    arabic: وَاللّٰهُ
+    arabic: وَٱللَّهُ
     translation: And Allah
     transliteration: wal-lahu
   8:
@@ -37,11 +37,11 @@ word_by_word:
     translation: of what
     transliteration: bimā
   9:
-    arabic: تَعۡمَلُوۡنَ
+    arabic: تَعۡمَلُونَ
     translation: you do
     transliteration: taʿmalūna
   10:
-    arabic: خَبِيۡرٌ‏
+    arabic: خَبِيرٞ
     translation: (is) All-Aware
     transliteration: khabīrun
 ---

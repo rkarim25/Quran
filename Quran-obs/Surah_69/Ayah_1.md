@@ -1,9 +1,9 @@
 ---
-arabic_ayat: اَلۡحَـآقَّةُ ۙ‏
+arabic_ayat: ٱلۡحَآقَّةُ
 sentence_translation: The Inevitable Hour!
 word_by_word:
   1:
-    arabic: اَلۡحَـآقَّةُ ۙ‏
+    arabic: ٱلۡحَآقَّةُ
     translation: The Inevitable Reality
     transliteration: al-ḥāqatu
 ---

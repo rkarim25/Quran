@@ -1,31 +1,31 @@
 ---
-arabic_ayat: اَلَمۡ يَاۡنِ لِلَّذِيۡنَ اٰمَنُوۡۤا اَنۡ تَخۡشَعَ قُلُوۡبُهُمۡ لِذِكۡرِ
-  اللّٰهِ وَمَا نَزَلَ مِنَ الۡحَـقِّۙ وَلَا يَكُوۡنُوۡا كَالَّذِيۡنَ اُوۡتُوا الۡكِتٰبَ
-  مِنۡ قَبۡلُ فَطَالَ عَلَيۡهِمُ الۡاَمَدُ فَقَسَتۡ قُلُوۡبُهُمۡ​ؕ وَكَثِيۡرٌ مِّنۡهُمۡ
-  فٰسِقُوۡنَ‏
+arabic_ayat: ۞ أَلَمۡ يَأۡنِ لِلَّذِينَ ءَامَنُوٓاْ أَن تَخۡشَعَ قُلُوبُهُمۡ لِذِكۡرِ
+  ٱللَّهِ وَمَا نَزَلَ مِنَ ٱلۡحَقِّ وَلَا يَكُونُواْ كَٱلَّذِينَ أُوتُواْ ٱلۡكِتَٰبَ
+  مِن قَبۡلُ فَطَالَ عَلَيۡهِمُ ٱلۡأَمَدُ فَقَسَتۡ قُلُوبُهُمۡۖ وَكَثِيرٞ مِّنۡهُمۡ
+  فَٰسِقُونَ
 sentence_translation: Has the time not yet come for believers’ hearts to be humbled
   at the remembrance of Allah and what has been revealed of the truth, and not be
   like those given the Scripture before—˹those˺ who were spoiled for so long that
   their hearts became hardened. And many of them are ˹still˺ rebellious.
 word_by_word:
   1:
-    arabic: ۞ اَلَمۡ
+    arabic: ۞ أَلَمۡ
     translation: Has not
     transliteration: alam
   2:
-    arabic: يَاۡنِ
+    arabic: يَأۡنِ
     translation: come (the) time
     transliteration: yani
   3:
-    arabic: لِلَّذِيۡنَ
+    arabic: لِلَّذِينَ ءَ
     translation: for those who
     transliteration: lilladhīna
   4:
-    arabic: اٰمَنُوۡۤا
+    arabic: امَنُوٓاْ
     translation: believed
     transliteration: āmanū
   5:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that
     transliteration: an
   6:
@@ -33,7 +33,7 @@ word_by_word:
     translation: become humble
     transliteration: takhshaʿa
   7:
-    arabic: قُلُوۡبُهُمۡ
+    arabic: قُلُوبُهُمۡ
     translation: their hearts
     transliteration: qulūbuhum
   8:
@@ -41,7 +41,7 @@ word_by_word:
     translation: at (the) remembrance (of) Allah
     transliteration: lidhik'ri
   9:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: at (the) remembrance (of) Allah
     transliteration: l-lahi
   10:
@@ -57,7 +57,7 @@ word_by_word:
     translation: of
     transliteration: mina
   13:
-    arabic: الۡحَـقِّۙ
+    arabic: ٱلۡحَقِّ
     translation: the truth
     transliteration: l-ḥaqi
   14:
@@ -65,23 +65,23 @@ word_by_word:
     translation: And not
     transliteration: walā
   15:
-    arabic: يَكُوۡنُوۡا
+    arabic: يَكُونُواْ
     translation: they become
     transliteration: yakūnū
   16:
-    arabic: كَالَّذِيۡنَ
+    arabic: كَٱلَّذِينَ
     translation: like those who
     transliteration: ka-alladhīna
   17:
-    arabic: اُوۡتُوا
+    arabic: أُوتُواْ
     translation: were given
     transliteration: ūtū
   18:
-    arabic: الۡكِتٰبَ
+    arabic: ٱلۡكِتَٰبَ
     translation: the Book
     transliteration: l-kitāba
   19:
-    arabic: مِنۡ
+    arabic: مِن
     translation: before
     transliteration: min
   20:
@@ -97,7 +97,7 @@ word_by_word:
     translation: for them
     transliteration: ʿalayhimu
   23:
-    arabic: الۡاَمَدُ
+    arabic: ٱلۡأَمَدُ
     translation: the term
     transliteration: l-amadu
   24:
@@ -105,11 +105,11 @@ word_by_word:
     translation: so hardened
     transliteration: faqasat
   25:
-    arabic: قُلُوۡبُهُمۡ​ؕ
+    arabic: قُلُوبُهُمۡۖ
     translation: their hearts
     transliteration: qulūbuhum
   26:
-    arabic: وَكَثِيۡرٌ
+    arabic: وَكَثِيرٞ
     translation: and many
     transliteration: wakathīrun
   27:
@@ -117,7 +117,7 @@ word_by_word:
     translation: of them
     transliteration: min'hum
   28:
-    arabic: فٰسِقُوۡنَ‏
+    arabic: فَٰسِقُونَ
     translation: (are) defiantly disobedient
     transliteration: fāsiqūna
 ---

@@ -1,8 +1,8 @@
 ---
-arabic_ayat: وَقَالَ الَّذِيۡنَ كَفَرُوۡا لَا تَاۡتِيۡنَا السَّاعَةُ ؕ قُلۡ بَلٰى
-  وَرَبِّىۡ لَـتَاۡتِيَنَّكُمۡۙ عٰلِمِ الۡغَيۡبِ ۚ لَا يَعۡزُبُ عَنۡهُ مِثۡقَالُ ذَرَّةٍ
-  فِى السَّمٰوٰتِ وَلَا فِى الۡاَرۡضِ وَلَاۤ اَصۡغَرُ مِنۡ ذٰ لِكَ وَلَاۤ اَكۡبَرُ
-  اِلَّا فِىۡ كِتٰبٍ مُّبِيۡنٍۙ‏
+arabic_ayat: وَقَالَ ٱلَّذِينَ كَفَرُواْ لَا تَأۡتِينَا ٱلسَّاعَةُۖ قُلۡ بَلَىٰ وَرَبِّي
+  لَتَأۡتِيَنَّكُمۡ عَٰلِمِ ٱلۡغَيۡبِۖ لَا يَعۡزُبُ عَنۡهُ مِثۡقَالُ ذَرَّةٖ فِي ٱلسَّمَٰوَٰتِ
+  وَلَا فِي ٱلۡأَرۡضِ وَلَآ أَصۡغَرُ مِن ذَٰلِكَ وَلَآ أَكۡبَرُ إِلَّا فِي كِتَٰبٖ
+  مُّبِينٖ
 sentence_translation: The disbelievers say, “The Hour will never come to us.” Say,
   ˹O Prophet,˺ “Yes—by my Lord, the Knower of the unseen—it will certainly come to
   you!” Not ˹even˺ an atom’s weight is hidden from Him in the heavens or the earth;
@@ -13,11 +13,11 @@ word_by_word:
     translation: But say
     transliteration: waqāla
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   3:
-    arabic: كَفَرُوۡا
+    arabic: كَفَرُواْ
     translation: disbelieve
     transliteration: kafarū
   4:
@@ -25,11 +25,11 @@ word_by_word:
     translation: Not
     transliteration: lā
   5:
-    arabic: تَاۡتِيۡنَا
+    arabic: تَأۡتِينَا
     translation: will come to us
     transliteration: tatīnā
   6:
-    arabic: السَّاعَةُ ؕ
+    arabic: ٱلسَّاعَةُۖ
     translation: the Hour
     transliteration: l-sāʿatu
   7:
@@ -37,23 +37,23 @@ word_by_word:
     translation: Say
     transliteration: qul
   8:
-    arabic: بَلٰى
+    arabic: بَلَىٰ
     translation: Nay
     transliteration: balā
   9:
-    arabic: وَرَبِّىۡ
+    arabic: وَرَبِّي
     translation: by my Lord
     transliteration: warabbī
   10:
-    arabic: لَـتَاۡتِيَنَّكُمۡۙ
+    arabic: لَتَأۡتِيَنَّكُمۡ
     translation: surely it will come to you
     transliteration: latatiyannakum
   11:
-    arabic: عٰلِمِ
+    arabic: عَٰلِمِ
     translation: (He is the) Knower
     transliteration: ʿālimi
   12:
-    arabic: الۡغَيۡبِ ۚ
+    arabic: ٱلۡغَيۡبِۖ
     translation: (of) the unseen
     transliteration: l-ghaybi
   13:
@@ -73,15 +73,15 @@ word_by_word:
     translation: (the) weight
     transliteration: mith'qālu
   17:
-    arabic: ذَرَّةٍ
+    arabic: ذَرَّةٖ
     translation: (of) an atom
     transliteration: dharratin
   18:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   19:
-    arabic: السَّمٰوٰتِ
+    arabic: ٱلسَّمَٰوَٰتِ
     translation: the heavens
     transliteration: l-samāwāti
   20:
@@ -89,51 +89,51 @@ word_by_word:
     translation: and not
     transliteration: walā
   21:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   22:
-    arabic: الۡاَرۡضِ
+    arabic: ٱلۡأَرۡضِ
     translation: the earth
     transliteration: l-arḍi
   23:
-    arabic: وَلَاۤ
+    arabic: وَلَآ
     translation: and not
     transliteration: walā
   24:
-    arabic: اَصۡغَرُ
+    arabic: أَصۡغَرُ
     translation: smaller
     transliteration: aṣgharu
   25:
-    arabic: مِنۡ
+    arabic: مِن
     translation: than
     transliteration: min
   26:
-    arabic: ذٰ لِكَ
+    arabic: ذَٰلِكَ
     translation: that
     transliteration: dhālika
   27:
-    arabic: وَلَاۤ
+    arabic: وَلَآ
     translation: and not
     transliteration: walā
   28:
-    arabic: اَكۡبَرُ
+    arabic: أَكۡبَرُ
     translation: greater
     transliteration: akbaru
   29:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: but
     transliteration: illā
   30:
-    arabic: فِىۡ
+    arabic: فِي
     translation: (is) in
     transliteration: fī
   31:
-    arabic: كِتٰبٍ
+    arabic: كِتَٰبٖ
     translation: a Record
     transliteration: kitābin
   32:
-    arabic: مُّبِيۡنٍۙ‏
+    arabic: مُّبِينٖ
     translation: Clear
     transliteration: mubīnin
 ---

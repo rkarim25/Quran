@@ -1,40 +1,40 @@
 ---
-arabic_ayat: الٓـمّٓرٰ تِلۡكَ اٰيٰتُ الۡكِتٰبِ​ؕ وَالَّذِىۡۤ اُنۡزِلَ اِلَيۡكَ مِنۡ
-  رَّبِّكَ الۡحَـقُّ وَلٰـكِنَّ اَكۡثَرَ النَّاسِ لَا يُؤۡمِنُوۡنَ‏
+arabic_ayat: الٓمٓرۚ تِلۡكَ ءَايَٰتُ ٱلۡكِتَٰبِۗ وَٱلَّذِيٓ أُنزِلَ إِلَيۡكَ مِن رَّبِّكَ
+  ٱلۡحَقُّ وَلَٰكِنَّ أَكۡثَرَ ٱلنَّاسِ لَا يُؤۡمِنُونَ
 sentence_translation: Alif-Lãm-Mĩm-Ra. These are the verses of the Book. What has
   been revealed to you ˹O Prophet˺ from your Lord is the truth, but most people do
   not believe.
 word_by_word:
   1:
-    arabic: الٓـمّٓرٰ
+    arabic: الٓمٓرۚ
     translation: Alif Laam Mim Ra
     transliteration: alif-lam-meem-ra
   2:
-    arabic: تِلۡكَ
+    arabic: تِلۡكَ ءَ
     translation: These
     transliteration: til'ka
   3:
-    arabic: اٰيٰتُ
+    arabic: ايَٰتُ
     translation: (are) the Verses
     transliteration: āyātu
   4:
-    arabic: الۡكِتٰبِ​ؕ
+    arabic: ٱلۡكِتَٰبِۗ
     translation: (of) the Book
     transliteration: l-kitābi
   5:
-    arabic: وَالَّذِىۡۤ
+    arabic: وَٱلَّذِيٓ
     translation: And that which
     transliteration: wa-alladhī
   6:
-    arabic: اُنۡزِلَ
+    arabic: أُنزِلَ
     translation: has been revealed
     transliteration: unzila
   7:
-    arabic: اِلَيۡكَ
+    arabic: إِلَيۡكَ
     translation: to you
     transliteration: ilayka
   8:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   9:
@@ -42,19 +42,19 @@ word_by_word:
     translation: your Lord
     transliteration: rabbika
   10:
-    arabic: الۡحَـقُّ
+    arabic: ٱلۡحَقُّ
     translation: (is) the truth
     transliteration: l-ḥaqu
   11:
-    arabic: وَلٰـكِنَّ
+    arabic: وَلَٰكِنَّ
     translation: but
     transliteration: walākinna
   12:
-    arabic: اَكۡثَرَ
+    arabic: أَكۡثَرَ
     translation: most
     transliteration: akthara
   13:
-    arabic: النَّاسِ
+    arabic: ٱلنَّاسِ
     translation: (of) the mankind
     transliteration: l-nāsi
   14:
@@ -62,7 +62,7 @@ word_by_word:
     translation: (do) not
     transliteration: lā
   15:
-    arabic: يُؤۡمِنُوۡنَ‏
+    arabic: يُؤۡمِنُونَ
     translation: believe
     transliteration: yu'minūna
 ---

@@ -1,18 +1,18 @@
 ---
-arabic_ayat: يُنَبَّؤُا الۡاِنۡسَانُ يَوۡمَٮِٕذٍۢ بِمَا قَدَّمَ وَاَخَّرَؕ‏
+arabic_ayat: يُنَبَّؤُاْ ٱلۡإِنسَٰنُ يَوۡمَئِذِۭ بِمَا قَدَّمَ وَأَخَّرَ
 sentence_translation: All will then be informed of what they have sent forth and left
   behind.
 word_by_word:
   1:
-    arabic: يُنَبَّؤُا
+    arabic: يُنَبَّؤُاْ
     translation: Will be informed
     transliteration: yunabba-u
   2:
-    arabic: الۡاِنۡسَانُ
+    arabic: ٱلۡإِنسَٰنُ
     translation: '[the] man'
     transliteration: l-insānu
   3:
-    arabic: يَوۡمَٮِٕذٍۢ
+    arabic: يَوۡمَئِذِۭ
     translation: that Day
     transliteration: yawma-idhin
   4:
@@ -24,7 +24,7 @@ word_by_word:
     translation: he sent forth
     transliteration: qaddama
   6:
-    arabic: وَاَخَّرَؕ‏
+    arabic: وَأَخَّرَ
     translation: and kept back
     transliteration: wa-akhara
 ---

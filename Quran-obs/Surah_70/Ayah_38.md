@@ -1,11 +1,10 @@
 ---
-arabic_ayat: "اَيَطۡمَعُ كُلُّ امۡرِىءٍ مِّنۡهُمۡ اَنۡ يُّدۡخَلَ جَنَّةَ نَعِيۡمٍۙ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: أَيَطۡمَعُ كُلُّ ٱمۡرِيٕٖ مِّنۡهُمۡ أَن يُدۡخَلَ جَنَّةَ نَعِيمٖ
 sentence_translation: Does every one of them expect to be admitted into a Garden of
   Bliss?
 word_by_word:
   1:
-    arabic: اَيَطۡمَعُ
+    arabic: أَيَطۡمَعُ
     translation: Does long
     transliteration: ayaṭmaʿu
   2:
@@ -13,7 +12,7 @@ word_by_word:
     translation: every
     transliteration: kullu
   3:
-    arabic: امۡرِىءٍ
+    arabic: ٱمۡرِيٕٖ
     translation: person
     transliteration: im'ri-in
   4:
@@ -21,11 +20,11 @@ word_by_word:
     translation: among them
     transliteration: min'hum
   5:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that
     transliteration: an
   6:
-    arabic: يُّدۡخَلَ
+    arabic: يُدۡخَلَ
     translation: he enters
     transliteration: yud'khala
   7:
@@ -33,7 +32,7 @@ word_by_word:
     translation: a Garden
     transliteration: jannata
   8:
-    arabic: "نَعِيۡمٍۙ‏ \uFEFF\uFEFF"
+    arabic: نَعِيمٖ
     translation: (of) Delight
     transliteration: naʿīmin
 ---

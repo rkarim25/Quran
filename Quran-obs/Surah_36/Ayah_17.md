@@ -1,5 +1,5 @@
 ---
-arabic_ayat: وَمَا عَلَيۡنَاۤ اِلَّا الۡبَلٰغُ الۡمُبِيۡنُ‏
+arabic_ayat: وَمَا عَلَيۡنَآ إِلَّا ٱلۡبَلَٰغُ ٱلۡمُبِينُ
 sentence_translation: And our duty is only to deliver ˹the message˺ clearly.”
 word_by_word:
   1:
@@ -7,19 +7,19 @@ word_by_word:
     translation: And not
     transliteration: wamā
   2:
-    arabic: عَلَيۡنَاۤ
+    arabic: عَلَيۡنَآ
     translation: (is) on us
     transliteration: ʿalaynā
   3:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   4:
-    arabic: الۡبَلٰغُ
+    arabic: ٱلۡبَلَٰغُ
     translation: the conveyance
     transliteration: l-balāghu
   5:
-    arabic: الۡمُبِيۡنُ‏
+    arabic: ٱلۡمُبِينُ
     translation: clear
     transliteration: l-mubīnu
 ---

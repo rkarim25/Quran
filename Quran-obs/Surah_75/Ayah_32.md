@@ -1,9 +1,9 @@
 ---
-arabic_ayat: وَلٰڪِنۡ كَذَّبَ وَتَوَلّٰىۙ‏
+arabic_ayat: وَلَٰكِن كَذَّبَ وَتَوَلَّىٰ
 sentence_translation: but persisted in denial and turned away,
 word_by_word:
   1:
-    arabic: وَلٰڪِنۡ
+    arabic: وَلَٰكِن
     translation: But
     transliteration: walākin
   2:
@@ -11,7 +11,7 @@ word_by_word:
     translation: he denied
     transliteration: kadhaba
   3:
-    arabic: وَتَوَلّٰىۙ‏
+    arabic: وَتَوَلَّىٰ
     translation: and turned away
     transliteration: watawallā
 ---

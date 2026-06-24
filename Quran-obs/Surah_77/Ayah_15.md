@@ -1,17 +1,17 @@
 ---
-arabic_ayat: وَيۡلٌ يَّوۡمَٮِٕذٍ لِّلۡمُكَذِّبِيۡنَ‏
+arabic_ayat: وَيۡلٞ يَوۡمَئِذٖ لِّلۡمُكَذِّبِينَ
 sentence_translation: Woe on that Day to the deniers!
 word_by_word:
   1:
-    arabic: وَيۡلٌ
+    arabic: وَيۡلٞ
     translation: Woe
     transliteration: waylun
   2:
-    arabic: يَّوۡمَٮِٕذٍ
+    arabic: يَوۡمَئِذٖ
     translation: that Day
     transliteration: yawma-idhin
   3:
-    arabic: لِّلۡمُكَذِّبِيۡنَ‏
+    arabic: لِّلۡمُكَذِّبِينَ
     translation: to the deniers
     transliteration: lil'mukadhibīna
 ---

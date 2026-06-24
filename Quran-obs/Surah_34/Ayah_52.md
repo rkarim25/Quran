@@ -1,23 +1,23 @@
 ---
-arabic_ayat: وَّقَالُـوۡۤا اٰمَنَّا بِهٖ​ ۚ وَاَنّٰى لَهُمُ التَّنَاوُشُ مِنۡ مَّكَانٍۢ
-  بَعِيۡدٍ ۖۚ‏
+arabic_ayat: وَقَالُوٓاْ ءَامَنَّا بِهِۦ وَأَنَّىٰ لَهُمُ ٱلتَّنَاوُشُ مِن مَّكَانِۭ
+  بَعِيدٖ
 sentence_translation: They will ˹then˺ cry, “We do ˹now˺ believe in it ˹all˺.” But
   how could they ˹possibly˺ attain faith from a place so far-off ˹from the world˺,
 word_by_word:
   1:
-    arabic: وَّقَالُـوۡۤا
+    arabic: وَقَالُوٓاْ ءَ
     translation: And they will say
     transliteration: waqālū
   2:
-    arabic: اٰمَنَّا
+    arabic: امَنَّا
     translation: We believe
     transliteration: āmannā
   3:
-    arabic: بِهٖ​ ۚ
+    arabic: بِهِۦ
     translation: in it
     transliteration: bihi
   4:
-    arabic: وَاَنّٰى
+    arabic: وَأَنَّىٰ
     translation: But how
     transliteration: wa-annā
   5:
@@ -25,19 +25,19 @@ word_by_word:
     translation: for them
     transliteration: lahumu
   6:
-    arabic: التَّنَاوُشُ
+    arabic: ٱلتَّنَاوُشُ
     translation: (will be) the receiving
     transliteration: l-tanāwushu
   7:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   8:
-    arabic: مَّكَانٍۢ
+    arabic: مَّكَانِۭ
     translation: a place
     transliteration: makānin
   9:
-    arabic: بَعِيۡدٍ ۖۚ‏
+    arabic: بَعِيدٖ
     translation: far off
     transliteration: baʿīdin
 ---

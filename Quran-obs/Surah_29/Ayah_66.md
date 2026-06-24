@@ -1,23 +1,22 @@
 ---
-arabic_ayat: "لِيَكۡفُرُوۡا بِمَاۤ اٰتَيۡنٰهُمۡ ۙۚ وَلِيَتَمَتَّعُوۡا​فَسَوۡفَ يَعۡلَمُوۡنَ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: لِيَكۡفُرُواْ بِمَآ ءَاتَيۡنَٰهُمۡ وَلِيَتَمَتَّعُواْۚ فَسَوۡفَ يَعۡلَمُونَ
 sentence_translation: So let them be ungrateful for all We have given them, and ˹let
   them˺ enjoy themselves ˹for now˺! For they will soon know.
 word_by_word:
   1:
-    arabic: لِيَكۡفُرُوۡا
+    arabic: لِيَكۡفُرُواْ
     translation: So that they may deny
     transliteration: liyakfurū
   2:
-    arabic: بِمَاۤ
+    arabic: بِمَآ ءَ
     translation: '[in] what'
     transliteration: bimā
   3:
-    arabic: اٰتَيۡنٰهُمۡ ۙۚ
+    arabic: اتَيۡنَٰهُمۡ
     translation: We have given them
     transliteration: ātaynāhum
   4:
-    arabic: وَلِيَتَمَتَّعُوۡا​
+    arabic: وَلِيَتَمَتَّعُواْۚ
     translation: and they may enjoy (themselves)
     transliteration: waliyatamattaʿū
   5:
@@ -25,7 +24,7 @@ word_by_word:
     translation: But soon
     transliteration: fasawfa
   6:
-    arabic: "يَعۡلَمُوۡنَ‏ \uFEFF\uFEFF"
+    arabic: يَعۡلَمُونَ
     translation: they will know
     transliteration: yaʿlamūna
 ---

@@ -1,15 +1,15 @@
 ---
-arabic_ayat: اَلَمۡ تَرَ اِلَى الَّذِيۡنَ يَزۡعُمُوۡنَ اَنَّهُمۡ اٰمَنُوۡا بِمَاۤ
-  اُنۡزِلَ اِلَيۡكَ وَمَاۤ اُنۡزِلَ مِنۡ قَبۡلِكَ يُرِيۡدُوۡنَ اَنۡ يَّتَحَاكَمُوۡۤا
-  اِلَى الطَّاغُوۡتِ وَقَدۡ اُمِرُوۡۤا اَنۡ يَّكۡفُرُوۡا بِهٖ ؕ وَيُرِيۡدُ الشَّيۡـطٰنُ
-  اَنۡ يُّضِلَّهُمۡ ضَلٰلًاۢ بَعِيۡدًا‏
+arabic_ayat: أَلَمۡ تَرَ إِلَى ٱلَّذِينَ يَزۡعُمُونَ أَنَّهُمۡ ءَامَنُواْ بِمَآ أُنزِلَ
+  إِلَيۡكَ وَمَآ أُنزِلَ مِن قَبۡلِكَ يُرِيدُونَ أَن يَتَحَاكَمُوٓاْ إِلَى ٱلطَّٰغُوتِ
+  وَقَدۡ أُمِرُوٓاْ أَن يَكۡفُرُواْ بِهِۦۖ وَيُرِيدُ ٱلشَّيۡطَٰنُ أَن يُضِلَّهُمۡ
+  ضَلَٰلَۢا بَعِيدٗا
 sentence_translation: Have you ˹O Prophet˺ not seen those who claim they believe in
   what has been revealed to you and what was revealed before you? They seek the judgment
   of false judges, which they were commanded to reject. And Satan ˹only˺ desires to
   lead them farther away.
 word_by_word:
   1:
-    arabic: اَلَمۡ
+    arabic: أَلَمۡ
     translation: Do not
     transliteration: alam
   2:
@@ -17,47 +17,47 @@ word_by_word:
     translation: you see
     transliteration: tara
   3:
-    arabic: اِلَى
+    arabic: إِلَى
     translation: '[towards]'
     transliteration: ilā
   4:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   5:
-    arabic: يَزۡعُمُوۡنَ
+    arabic: يَزۡعُمُونَ
     translation: claim
     transliteration: yazʿumūna
   6:
-    arabic: اَنَّهُمۡ
+    arabic: أَنَّهُمۡ ءَ
     translation: that they
     transliteration: annahum
   7:
-    arabic: اٰمَنُوۡا
+    arabic: امَنُواْ
     translation: believe
     transliteration: āmanū
   8:
-    arabic: بِمَاۤ
+    arabic: بِمَآ
     translation: in what
     transliteration: bimā
   9:
-    arabic: اُنۡزِلَ
+    arabic: أُنزِلَ
     translation: (is) revealed
     transliteration: unzila
   10:
-    arabic: اِلَيۡكَ
+    arabic: إِلَيۡكَ
     translation: to you
     transliteration: ilayka
   11:
-    arabic: وَمَاۤ
+    arabic: وَمَآ
     translation: and what
     transliteration: wamā
   12:
-    arabic: اُنۡزِلَ
+    arabic: أُنزِلَ
     translation: was revealed
     transliteration: unzila
   13:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   14:
@@ -65,23 +65,23 @@ word_by_word:
     translation: before you
     transliteration: qablika
   15:
-    arabic: يُرِيۡدُوۡنَ
+    arabic: يُرِيدُونَ
     translation: They wish
     transliteration: yurīdūna
   16:
-    arabic: اَنۡ
+    arabic: أَن
     translation: to
     transliteration: an
   17:
-    arabic: يَّتَحَاكَمُوۡۤا
+    arabic: يَتَحَاكَمُوٓاْ
     translation: go for judgment
     transliteration: yataḥākamū
   18:
-    arabic: اِلَى
+    arabic: إِلَى
     translation: to
     transliteration: ilā
   19:
-    arabic: الطَّاغُوۡتِ
+    arabic: ٱلطَّٰغُوتِ
     translation: the false deities
     transliteration: l-ṭāghūti
   20:
@@ -89,43 +89,43 @@ word_by_word:
     translation: and surely
     transliteration: waqad
   21:
-    arabic: اُمِرُوۡۤا
+    arabic: أُمِرُوٓاْ
     translation: they were ordered
     transliteration: umirū
   22:
-    arabic: اَنۡ
+    arabic: أَن
     translation: to
     transliteration: an
   23:
-    arabic: يَّكۡفُرُوۡا
+    arabic: يَكۡفُرُواْ
     translation: reject
     transliteration: yakfurū
   24:
-    arabic: بِهٖ ؕ
+    arabic: بِهِۦۖ
     translation: '[with] it'
     transliteration: bihi
   25:
-    arabic: وَيُرِيۡدُ
+    arabic: وَيُرِيدُ
     translation: And wishes
     transliteration: wayurīdu
   26:
-    arabic: الشَّيۡـطٰنُ
+    arabic: ٱلشَّيۡطَٰنُ
     translation: the Shaitaan
     transliteration: l-shayṭānu
   27:
-    arabic: اَنۡ
+    arabic: أَن
     translation: to
     transliteration: an
   28:
-    arabic: يُّضِلَّهُمۡ
+    arabic: يُضِلَّهُمۡ
     translation: mislead them
     transliteration: yuḍillahum
   29:
-    arabic: ضَلٰلًاۢ
+    arabic: ضَلَٰلَۢا
     translation: 'astray '
     transliteration: ḍalālan
   30:
-    arabic: بَعِيۡدًا‏
+    arabic: بَعِيدٗا
     translation: far away
     transliteration: baʿīdan
 ---

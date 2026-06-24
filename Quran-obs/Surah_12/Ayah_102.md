@@ -1,12 +1,12 @@
 ---
-arabic_ayat: ذٰلِكَ مِنۡ اَنۡۢبَآءِ الۡغَيۡبِ نُوۡحِيۡهِ اِلَيۡكَ​ۚ وَمَا كُنۡتَ
-  لَدَيۡهِمۡ اِذۡ اَجۡمَعُوۡۤا اَمۡرَهُمۡ وَهُمۡ يَمۡكُرُوۡنَ‏
+arabic_ayat: ذَٰلِكَ مِنۡ أَنۢبَآءِ ٱلۡغَيۡبِ نُوحِيهِ إِلَيۡكَۖ وَمَا كُنتَ لَدَيۡهِمۡ
+  إِذۡ أَجۡمَعُوٓاْ أَمۡرَهُمۡ وَهُمۡ يَمۡكُرُونَ
 sentence_translation: That is from the stories of the unseen which We reveal to you
   ˹O Prophet˺. You were not present when they ˹all˺ made up their minds, and when
   they plotted ˹against Joseph˺.
 word_by_word:
   1:
-    arabic: ذٰلِكَ
+    arabic: ذَٰلِكَ
     translation: That
     transliteration: dhālika
   2:
@@ -14,19 +14,19 @@ word_by_word:
     translation: (is) from
     transliteration: min
   3:
-    arabic: اَنۡۢبَآءِ
+    arabic: أَنۢبَآءِ
     translation: the news
     transliteration: anbāi
   4:
-    arabic: الۡغَيۡبِ
+    arabic: ٱلۡغَيۡبِ
     translation: (of) the unseen
     transliteration: l-ghaybi
   5:
-    arabic: نُوۡحِيۡهِ
+    arabic: نُوحِيهِ
     translation: which We reveal
     transliteration: nūḥīhi
   6:
-    arabic: اِلَيۡكَ​ۚ
+    arabic: إِلَيۡكَۖ
     translation: to you
     transliteration: ilayka
   7:
@@ -34,7 +34,7 @@ word_by_word:
     translation: And not
     transliteration: wamā
   8:
-    arabic: كُنۡتَ
+    arabic: كُنتَ
     translation: you were
     transliteration: kunta
   9:
@@ -42,15 +42,15 @@ word_by_word:
     translation: with them
     transliteration: ladayhim
   10:
-    arabic: اِذۡ
+    arabic: إِذۡ
     translation: when
     transliteration: idh
   11:
-    arabic: اَجۡمَعُوۡۤا
+    arabic: أَجۡمَعُوٓاْ
     translation: they put together
     transliteration: ajmaʿū
   12:
-    arabic: اَمۡرَهُمۡ
+    arabic: أَمۡرَهُمۡ
     translation: their plan
     transliteration: amrahum
   13:
@@ -58,7 +58,7 @@ word_by_word:
     translation: while they
     transliteration: wahum
   14:
-    arabic: يَمۡكُرُوۡنَ‏
+    arabic: يَمۡكُرُونَ
     translation: (were) plotting
     transliteration: yamkurūna
 ---

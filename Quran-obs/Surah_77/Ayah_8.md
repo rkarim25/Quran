@@ -1,17 +1,17 @@
 ---
-arabic_ayat: فَاِذَا النُّجُوۡمُ طُمِسَتۡۙ‏
+arabic_ayat: فَإِذَا ٱلنُّجُومُ طُمِسَتۡ
 sentence_translation: So when the stars are put out,
 word_by_word:
   1:
-    arabic: فَاِذَا
+    arabic: فَإِذَا
     translation: So when
     transliteration: fa-idhā
   2:
-    arabic: النُّجُوۡمُ
+    arabic: ٱلنُّجُومُ
     translation: the stars
     transliteration: l-nujūmu
   3:
-    arabic: طُمِسَتۡۙ‏
+    arabic: طُمِسَتۡ
     translation: are obliterated
     transliteration: ṭumisat
 ---

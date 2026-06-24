@@ -1,6 +1,5 @@
 ---
-arabic_ayat: "وَقَوۡمَ نُوۡحٍ مِّنۡ قَبۡلُ​ؕ اِنَّهُمۡ كَانُوۡا هُمۡ اَظۡلَمَ وَاَطۡغٰىؕ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: وَقَوۡمَ نُوحٖ مِّن قَبۡلُۖ إِنَّهُمۡ كَانُواْ هُمۡ أَظۡلَمَ وَأَطۡغَىٰ
 sentence_translation: And before ˹that He destroyed˺ the people of Noah, who were
   truly far worse in wrongdoing and transgression.
 word_by_word:
@@ -9,23 +8,23 @@ word_by_word:
     translation: And (the) people
     transliteration: waqawma
   2:
-    arabic: نُوۡحٍ
+    arabic: نُوحٖ
     translation: (of) Nuh
     transliteration: nūḥin
   3:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: before
     transliteration: min
   4:
-    arabic: قَبۡلُ​ؕ
+    arabic: قَبۡلُۖ
     translation: before
     transliteration: qablu
   5:
-    arabic: اِنَّهُمۡ
+    arabic: إِنَّهُمۡ
     translation: Indeed, they
     transliteration: innahum
   6:
-    arabic: كَانُوۡا
+    arabic: كَانُواْ
     translation: they were
     transliteration: kānū
   7:
@@ -33,11 +32,11 @@ word_by_word:
     translation: they were
     transliteration: hum
   8:
-    arabic: اَظۡلَمَ
+    arabic: أَظۡلَمَ
     translation: more unjust
     transliteration: aẓlama
   9:
-    arabic: "وَاَطۡغٰىؕ‏ \uFEFF\uFEFF"
+    arabic: وَأَطۡغَىٰ
     translation: and more rebellious
     transliteration: wa-aṭghā
 ---

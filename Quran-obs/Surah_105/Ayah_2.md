@@ -1,9 +1,9 @@
 ---
-arabic_ayat: اَلَمۡ يَجۡعَلۡ كَيۡدَهُمۡ فِىۡ تَضۡلِيۡلٍۙ‏
+arabic_ayat: أَلَمۡ يَجۡعَلۡ كَيۡدَهُمۡ فِي تَضۡلِيلٖ
 sentence_translation: Did He not frustrate their scheme?
 word_by_word:
   1:
-    arabic: اَلَمۡ
+    arabic: أَلَمۡ
     translation: Did not
     transliteration: alam
   2:
@@ -15,11 +15,11 @@ word_by_word:
     translation: their plan
     transliteration: kaydahum
   4:
-    arabic: فِىۡ
+    arabic: فِي
     translation: go
     transliteration: fī
   5:
-    arabic: تَضۡلِيۡلٍۙ‏
+    arabic: تَضۡلِيلٖ
     translation: astray
     transliteration: taḍlīlin
 ---

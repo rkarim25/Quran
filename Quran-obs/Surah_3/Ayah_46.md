@@ -1,5 +1,5 @@
 ---
-arabic_ayat: وَيُكَلِّمُ النَّاسَ فِى الۡمَهۡدِ وَكَهۡلًا وَّمِنَ الصّٰلِحِيۡنَ‏
+arabic_ayat: وَيُكَلِّمُ ٱلنَّاسَ فِي ٱلۡمَهۡدِ وَكَهۡلٗا وَمِنَ ٱلصَّٰلِحِينَ
 sentence_translation: And he will speak to people in ˹his˺ infancy and adulthood and
   will be one of the righteous.”
 word_by_word:
@@ -8,27 +8,27 @@ word_by_word:
     translation: And he will speak
     transliteration: wayukallimu
   2:
-    arabic: النَّاسَ
+    arabic: ٱلنَّاسَ
     translation: (to) the people
     transliteration: l-nāsa
   3:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   4:
-    arabic: الۡمَهۡدِ
+    arabic: ٱلۡمَهۡدِ
     translation: the cradle
     transliteration: l-mahdi
   5:
-    arabic: وَكَهۡلًا
+    arabic: وَكَهۡلٗا
     translation: and (in) maturity
     transliteration: wakahlan
   6:
-    arabic: وَّمِنَ
+    arabic: وَمِنَ
     translation: and (he will be) of
     transliteration: wamina
   7:
-    arabic: الصّٰلِحِيۡنَ‏
+    arabic: ٱلصَّٰلِحِينَ
     translation: the righteous
     transliteration: l-ṣāliḥīna
 ---

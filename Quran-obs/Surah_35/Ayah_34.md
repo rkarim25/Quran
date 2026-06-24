@@ -1,39 +1,39 @@
 ---
-arabic_ayat: وَقَالُوا الۡحَمۡدُ لِلّٰهِ الَّذِىۡۤ اَذۡهَبَ عَـنَّا الۡحَزَنَ ؕ اِنَّ
-  رَبَّنَا لَـغَفُوۡرٌ شَكُوۡرُ ۙ‏
+arabic_ayat: وَقَالُواْ ٱلۡحَمۡدُ لِلَّهِ ٱلَّذِيٓ أَذۡهَبَ عَنَّا ٱلۡحَزَنَۖ إِنَّ
+  رَبَّنَا لَغَفُورٞ شَكُورٌ
 sentence_translation: And they will say, “Praise be to Allah, Who has kept away from
   us all ˹causes of˺ sorrow. Our Lord is indeed All-Forgiving, Most Appreciative.
 word_by_word:
   1:
-    arabic: وَقَالُوا
+    arabic: وَقَالُواْ
     translation: And they (will) say
     transliteration: waqālū
   2:
-    arabic: الۡحَمۡدُ
+    arabic: ٱلۡحَمۡدُ
     translation: All praises
     transliteration: l-ḥamdu
   3:
-    arabic: لِلّٰهِ
+    arabic: لِلَّهِ
     translation: (be) to Allah
     transliteration: lillahi
   4:
-    arabic: الَّذِىۡۤ
+    arabic: ٱلَّذِيٓ
     translation: the One Who
     transliteration: alladhī
   5:
-    arabic: اَذۡهَبَ
+    arabic: أَذۡهَبَ
     translation: (has) removed
     transliteration: adhhaba
   6:
-    arabic: عَـنَّا
+    arabic: عَنَّا
     translation: from us
     transliteration: ʿannā
   7:
-    arabic: الۡحَزَنَ ؕ
+    arabic: ٱلۡحَزَنَۖ
     translation: the sorrow
     transliteration: l-ḥazana
   8:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   9:
@@ -41,11 +41,11 @@ word_by_word:
     translation: our Lord
     transliteration: rabbanā
   10:
-    arabic: لَـغَفُوۡرٌ
+    arabic: لَغَفُورٞ
     translation: (is) surely Oft-Forgiving
     transliteration: laghafūrun
   11:
-    arabic: شَكُوۡرُ ۙ‏
+    arabic: شَكُورٌ
     translation: Most Appreciative
     transliteration: shakūrun
 ---

@@ -1,38 +1,38 @@
 ---
-arabic_ayat: وَاِذَا رَاَيۡتَ الَّذِيۡنَ يَخُوۡضُوۡنَ فِىۡۤ اٰيٰتِنَا فَاَعۡرِضۡ عَنۡهُمۡ
-  حَتّٰى يَخُوۡضُوۡا فِىۡ حَدِيۡثٍ غَيۡرِهٖ​ ؕ وَاِمَّا يُنۡسِيَنَّكَ الشَّيۡطٰنُ
-  فَلَا تَقۡعُدۡ بَعۡدَ الذِّكۡرٰى مَعَ الۡقَوۡمِ الظّٰلِمِيۡنَ‏
+arabic_ayat: وَإِذَا رَأَيۡتَ ٱلَّذِينَ يَخُوضُونَ فِيٓ ءَايَٰتِنَا فَأَعۡرِضۡ عَنۡهُمۡ
+  حَتَّىٰ يَخُوضُواْ فِي حَدِيثٍ غَيۡرِهِۦۚ وَإِمَّا يُنسِيَنَّكَ ٱلشَّيۡطَٰنُ فَلَا
+  تَقۡعُدۡ بَعۡدَ ٱلذِّكۡرَىٰ مَعَ ٱلۡقَوۡمِ ٱلظَّٰلِمِينَ
 sentence_translation: And when you come across those who ridicule Our revelations,
   do not sit with them unless they engage in a different topic. Should Satan make
   you forget, then once you remember, do not ˹continue to˺ sit with the wrongdoing
   people.
 word_by_word:
   1:
-    arabic: وَاِذَا
+    arabic: وَإِذَا
     translation: And when
     transliteration: wa-idhā
   2:
-    arabic: رَاَيۡتَ
+    arabic: رَأَيۡتَ
     translation: you see
     transliteration: ra-ayta
   3:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   4:
-    arabic: يَخُوۡضُوۡنَ
+    arabic: يَخُوضُونَ
     translation: engage (in vain talks)
     transliteration: yakhūḍūna
   5:
-    arabic: فِىۡۤ
+    arabic: فِيٓ ءَ
     translation: about
     transliteration: fī
   6:
-    arabic: اٰيٰتِنَا
+    arabic: ايَٰتِنَا
     translation: Our Verses
     transliteration: āyātinā
   7:
-    arabic: فَاَعۡرِضۡ
+    arabic: فَأَعۡرِضۡ
     translation: then turn away
     transliteration: fa-aʿriḍ
   8:
@@ -40,35 +40,35 @@ word_by_word:
     translation: from them
     transliteration: ʿanhum
   9:
-    arabic: حَتّٰى
+    arabic: حَتَّىٰ
     translation: until
     transliteration: ḥattā
   10:
-    arabic: يَخُوۡضُوۡا
+    arabic: يَخُوضُواْ
     translation: they engage
     transliteration: yakhūḍū
   11:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   12:
-    arabic: حَدِيۡثٍ
+    arabic: حَدِيثٍ
     translation: a talk
     transliteration: ḥadīthin
   13:
-    arabic: غَيۡرِهٖ​ ؕ
+    arabic: غَيۡرِهِۦۚ
     translation: other than it
     transliteration: ghayrihi
   14:
-    arabic: وَاِمَّا
+    arabic: وَإِمَّا
     translation: And if
     transliteration: wa-immā
   15:
-    arabic: يُنۡسِيَنَّكَ
+    arabic: يُنسِيَنَّكَ
     translation: causes you to forget
     transliteration: yunsiyannaka
   16:
-    arabic: الشَّيۡطٰنُ
+    arabic: ٱلشَّيۡطَٰنُ
     translation: the Shaitaan
     transliteration: l-shayṭānu
   17:
@@ -84,7 +84,7 @@ word_by_word:
     translation: after
     transliteration: baʿda
   20:
-    arabic: الذِّكۡرٰى
+    arabic: ٱلذِّكۡرَىٰ
     translation: the reminder
     transliteration: l-dhik'rā
   21:
@@ -92,11 +92,11 @@ word_by_word:
     translation: with
     transliteration: maʿa
   22:
-    arabic: الۡقَوۡمِ
+    arabic: ٱلۡقَوۡمِ
     translation: 'the people '
     transliteration: l-qawmi
   23:
-    arabic: الظّٰلِمِيۡنَ‏
+    arabic: ٱلظَّٰلِمِينَ
     translation: the wrongdoers
     transliteration: l-ẓālimīna
 ---

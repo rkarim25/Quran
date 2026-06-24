@@ -1,6 +1,6 @@
 ---
-arabic_ayat: نَحۡنُ نَقُصُّ عَلَيۡكَ اَحۡسَنَ الۡقَصَصِ بِمَاۤ اَوۡحَيۡنَاۤ اِلَيۡكَ
-  هٰذَا الۡقُرۡاٰنَ ​ۖ وَاِنۡ كُنۡتَ مِنۡ قَبۡلِهٖ لَمِنَ الۡغٰفِلِيۡنَ‏
+arabic_ayat: نَحۡنُ نَقُصُّ عَلَيۡكَ أَحۡسَنَ ٱلۡقَصَصِ بِمَآ أَوۡحَيۡنَآ إِلَيۡكَ
+  هَٰذَا ٱلۡقُرۡءَانَ وَإِن كُنتَ مِن قَبۡلِهِۦ لَمِنَ ٱلۡغَٰفِلِينَ
 sentence_translation: We relate to you ˹O Prophet˺ the best of stories through Our
   revelation of this Quran, though before this you were totally unaware ˹of them˺.
 word_by_word:
@@ -17,47 +17,47 @@ word_by_word:
     translation: to you
     transliteration: ʿalayka
   4:
-    arabic: اَحۡسَنَ
+    arabic: أَحۡسَنَ
     translation: the best
     transliteration: aḥsana
   5:
-    arabic: الۡقَصَصِ
+    arabic: ٱلۡقَصَصِ
     translation: of the narrations
     transliteration: l-qaṣaṣi
   6:
-    arabic: بِمَاۤ
+    arabic: بِمَآ
     translation: in what
     transliteration: bimā
   7:
-    arabic: اَوۡحَيۡنَاۤ
+    arabic: أَوۡحَيۡنَآ
     translation: We have revealed
     transliteration: awḥaynā
   8:
-    arabic: اِلَيۡكَ
+    arabic: إِلَيۡكَ
     translation: to you
     transliteration: ilayka
   9:
-    arabic: هٰذَا
+    arabic: هَٰذَا
     translation: (of) this
     transliteration: hādhā
   10:
-    arabic: الۡقُرۡاٰنَ ​ۖ 
+    arabic: ٱلۡقُرۡءَانَ
     translation: the Quran
     transliteration: l-qur'āna
   11:
-    arabic: وَاِنۡ
+    arabic: وَإِن
     translation: although
     transliteration: wa-in
   12:
-    arabic: كُنۡتَ
+    arabic: كُنتَ
     translation: you were
     transliteration: kunta
   13:
-    arabic: مِنۡ
+    arabic: مِن
     translation: before it
     transliteration: min
   14:
-    arabic: قَبۡلِهٖ
+    arabic: قَبۡلِهِۦ
     translation: before it
     transliteration: qablihi
   15:
@@ -65,7 +65,7 @@ word_by_word:
     translation: surely among
     transliteration: lamina
   16:
-    arabic: الۡغٰفِلِيۡنَ‏
+    arabic: ٱلۡغَٰفِلِينَ
     translation: the unaware
     transliteration: l-ghāfilīna
 ---

@@ -1,21 +1,21 @@
 ---
-arabic_ayat: وَلَٮِٕنۡ سَاَلۡتَهُمۡ مَّنۡ نَّزَّلَ مِنَ السَّمَآءِ مَآءً فَاَحۡيَا
-  بِهِ الۡاَرۡضَ مِنۡۢ بَعۡدِ مَوۡتِهَا لَيَقُوۡلُنَّ اللّٰهُ​ؕ قُلِ الۡحَمۡدُ لِلّٰهِ​ؕ
-  بَلۡ اَكۡثَرُهُمۡ لَا يَعۡقِلُوۡنَ‏
+arabic_ayat: وَلَئِن سَأَلۡتَهُم مَّن نَّزَّلَ مِنَ ٱلسَّمَآءِ مَآءٗ فَأَحۡيَا بِهِ
+  ٱلۡأَرۡضَ مِنۢ بَعۡدِ مَوۡتِهَا لَيَقُولُنَّ ٱللَّهُۚ قُلِ ٱلۡحَمۡدُ لِلَّهِۚ بَلۡ
+  أَكۡثَرُهُمۡ لَا يَعۡقِلُونَ
 sentence_translation: And if you ask them who sends down rain from the sky, giving
   life to the earth after its death, they will surely say, “Allah!” Say, “Praise be
   to Allah!” In fact, most of them do not understand.
 word_by_word:
   1:
-    arabic: وَلَٮِٕنۡ
+    arabic: وَلَئِن
     translation: And if
     transliteration: wala-in
   2:
-    arabic: سَاَلۡتَهُمۡ
+    arabic: سَأَلۡتَهُم
     translation: you ask them
     transliteration: sa-altahum
   3:
-    arabic: مَّنۡ
+    arabic: مَّن
     translation: Who
     transliteration: man
   4:
@@ -27,15 +27,15 @@ word_by_word:
     translation: from
     transliteration: mina
   6:
-    arabic: السَّمَآءِ
+    arabic: ٱلسَّمَآءِ
     translation: the sky
     transliteration: l-samāi
   7:
-    arabic: مَآءً
+    arabic: مَآءٗ
     translation: water
     transliteration: māan
   8:
-    arabic: فَاَحۡيَا
+    arabic: فَأَحۡيَا
     translation: and gives life
     transliteration: fa-aḥyā
   9:
@@ -43,11 +43,11 @@ word_by_word:
     translation: thereby
     transliteration: bihi
   10:
-    arabic: الۡاَرۡضَ
+    arabic: ٱلۡأَرۡضَ
     translation: (to) the earth
     transliteration: l-arḍa
   11:
-    arabic: مِنۡۢ
+    arabic: مِنۢ
     translation: after
     transliteration: min
   12:
@@ -59,11 +59,11 @@ word_by_word:
     translation: its death
     transliteration: mawtihā
   14:
-    arabic: لَيَقُوۡلُنَّ
+    arabic: لَيَقُولُنَّ
     translation: Surely, they would say
     transliteration: layaqūlunna
   15:
-    arabic: اللّٰهُ​ؕ
+    arabic: ٱللَّهُۚ
     translation: Allah
     transliteration: l-lahu
   16:
@@ -71,11 +71,11 @@ word_by_word:
     translation: Say
     transliteration: quli
   17:
-    arabic: الۡحَمۡدُ
+    arabic: ٱلۡحَمۡدُ
     translation: All Praises
     transliteration: l-ḥamdu
   18:
-    arabic: لِلّٰهِ​ؕ
+    arabic: لِلَّهِۚ
     translation: (are) for Allah
     transliteration: lillahi
   19:
@@ -83,7 +83,7 @@ word_by_word:
     translation: But
     transliteration: bal
   20:
-    arabic: اَكۡثَرُهُمۡ
+    arabic: أَكۡثَرُهُمۡ
     translation: most of them
     transliteration: aktharuhum
   21:
@@ -91,7 +91,7 @@ word_by_word:
     translation: (do) not
     transliteration: lā
   22:
-    arabic: يَعۡقِلُوۡنَ‏
+    arabic: يَعۡقِلُونَ
     translation: use reason
     transliteration: yaʿqilūna
 ---

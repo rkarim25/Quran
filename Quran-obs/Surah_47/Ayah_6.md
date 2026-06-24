@@ -1,5 +1,5 @@
 ---
-arabic_ayat: وَيُدۡخِلُهُمُ الۡجَـنَّةَ عَرَّفَهَا لَهُمۡ‏
+arabic_ayat: وَيُدۡخِلُهُمُ ٱلۡجَنَّةَ عَرَّفَهَا لَهُمۡ
 sentence_translation: and admit them into Paradise, having made it known to them. 
 word_by_word:
   1:
@@ -7,7 +7,7 @@ word_by_word:
     translation: And admit them
     transliteration: wayud'khiluhumu
   2:
-    arabic: الۡجَـنَّةَ
+    arabic: ٱلۡجَنَّةَ
     translation: (to) Paradise
     transliteration: l-janata
   3:
@@ -15,7 +15,7 @@ word_by_word:
     translation: He has made it known
     transliteration: ʿarrafahā
   4:
-    arabic: لَهُمۡ‏
+    arabic: لَهُمۡ
     translation: to them
     transliteration: lahum
 ---

@@ -1,15 +1,15 @@
 ---
-arabic_ayat: فَمَنۡۢ بَدَّلَهٗ بَعۡدَمَا سَمِعَهٗ فَاِنَّمَآ اِثۡمُهٗ عَلَى الَّذِيۡنَ
-  يُبَدِّلُوۡنَهٗؕ اِنَّ اللّٰهَ سَمِيۡعٌ عَلِيۡمٌؕ‏
+arabic_ayat: فَمَنۢ بَدَّلَهُۥ بَعۡدَ مَا سَمِعَهُۥ فَإِنَّمَآ إِثۡمُهُۥ عَلَى ٱلَّذِينَ
+  يُبَدِّلُونَهُۥٓۚ إِنَّ ٱللَّهَ سَمِيعٌ عَلِيمٞ
 sentence_translation: But whoever changes the will after hearing it, the blame will
   only be on those who made the change. Indeed, Allah is All-Hearing, All-Knowing.
 word_by_word:
   1:
-    arabic: فَمَنۡۢ
+    arabic: فَمَنۢ
     translation: Then whoever
     transliteration: faman
   2:
-    arabic: بَدَّلَهٗ
+    arabic: بَدَّلَهُۥ
     translation: changes it
     transliteration: baddalahu
   3:
@@ -17,15 +17,15 @@ word_by_word:
     translation: after what
     transliteration: baʿdamā
   4:
-    arabic: سَمِعَهٗ
+    arabic: سَمِعَهُۥ
     translation: he (has) heard [it]
     transliteration: samiʿahu
   5:
-    arabic: فَاِنَّمَآ
+    arabic: فَإِنَّمَآ
     translation: so only
     transliteration: fa-innamā
   6:
-    arabic: اِثۡمُهٗ
+    arabic: إِثۡمُهُۥ
     translation: its sin
     transliteration: ith'muhu
   7:
@@ -33,27 +33,27 @@ word_by_word:
     translation: (would be) on
     transliteration: ʿalā
   8:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   9:
-    arabic: يُبَدِّلُوۡنَهٗؕ
+    arabic: يُبَدِّلُونَهُۥٓۚ
     translation: alter it
     transliteration: yubaddilūnahu
   10:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   11:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: al-laha
   12:
-    arabic: سَمِيۡعٌ
+    arabic: سَمِيعٌ
     translation: (is) All-Hearing
     transliteration: sami'un
   13:
-    arabic: عَلِيۡمٌؕ‏
+    arabic: عَلِيمٞ
     translation: All-Knowing
     transliteration: alimun
 ---

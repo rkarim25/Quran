@@ -1,6 +1,6 @@
 ---
-arabic_ayat: وَقَالَ الَّذِيۡنَ اُوۡتُوا الۡعِلۡمَ وَيۡلَـكُمۡ ثَوَابُ اللّٰهِ خَيۡرٌ
-  لِّمَنۡ اٰمَنَ وَعَمِلَ صَالِحًـا ۚ وَلَا يُلَقّٰٮهَاۤ اِلَّا الصّٰبِرُوۡنَ‏
+arabic_ayat: وَقَالَ ٱلَّذِينَ أُوتُواْ ٱلۡعِلۡمَ وَيۡلَكُمۡ ثَوَابُ ٱللَّهِ خَيۡرٞ
+  لِّمَنۡ ءَامَنَ وَعَمِلَ صَٰلِحٗاۚ وَلَا يُلَقَّىٰهَآ إِلَّا ٱلصَّٰبِرُونَ
 sentence_translation: But those gifted with knowledge said, “Shame on you! Allah’s
   reward is far better for those who believe and do good. But none will attain this
   except the steadfast.”
@@ -10,19 +10,19 @@ word_by_word:
     translation: But said
     transliteration: waqāla
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   3:
-    arabic: اُوۡتُوا
+    arabic: أُوتُواْ
     translation: were given
     transliteration: ūtū
   4:
-    arabic: الۡعِلۡمَ
+    arabic: ٱلۡعِلۡمَ
     translation: the knowledge
     transliteration: l-ʿil'ma
   5:
-    arabic: وَيۡلَـكُمۡ
+    arabic: وَيۡلَكُمۡ
     translation: Woe to you
     transliteration: waylakum
   6:
@@ -30,19 +30,19 @@ word_by_word:
     translation: (The) reward
     transliteration: thawābu
   7:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (of) Allah
     transliteration: l-lahi
   8:
-    arabic: خَيۡرٌ
+    arabic: خَيۡرٞ
     translation: (is) better
     transliteration: khayrun
   9:
-    arabic: لِّمَنۡ
+    arabic: لِّمَنۡ ءَ
     translation: for (he) who
     transliteration: liman
   10:
-    arabic: اٰمَنَ
+    arabic: امَنَ
     translation: believes
     transliteration: āmana
   11:
@@ -50,7 +50,7 @@ word_by_word:
     translation: and does
     transliteration: waʿamila
   12:
-    arabic: صَالِحًـا ۚ
+    arabic: صَٰلِحٗاۚ
     translation: righteous (deeds)
     transliteration: ṣāliḥan
   13:
@@ -58,15 +58,15 @@ word_by_word:
     translation: And not
     transliteration: walā
   14:
-    arabic: يُلَقّٰٮهَاۤ
+    arabic: يُلَقَّىٰهَآ
     translation: it is granted
     transliteration: yulaqqāhā
   15:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   16:
-    arabic: الصّٰبِرُوۡنَ‏
+    arabic: ٱلصَّٰبِرُونَ
     translation: (to) the patient ones
     transliteration: l-ṣābirūna
 ---

@@ -1,17 +1,17 @@
 ---
-arabic_ayat: وَ جَآءَ الۡمُعَذِّرُوۡنَ مِنَ الۡاَعۡرَابِ لِيُؤۡذَنَ لَهُمۡ وَقَعَدَ
-  الَّذِيۡنَ كَذَبُوا اللّٰهَ وَرَسُوۡلَهٗ​ ؕ سَيُصِيۡبُ الَّذِيۡنَ كَفَرُوۡا مِنۡهُمۡ
-  عَذَابٌ اَ لِيۡمٌ‏
+arabic_ayat: وَجَآءَ ٱلۡمُعَذِّرُونَ مِنَ ٱلۡأَعۡرَابِ لِيُؤۡذَنَ لَهُمۡ وَقَعَدَ
+  ٱلَّذِينَ كَذَبُواْ ٱللَّهَ وَرَسُولَهُۥۚ سَيُصِيبُ ٱلَّذِينَ كَفَرُواْ مِنۡهُمۡ
+  عَذَابٌ أَلِيمٞ
 sentence_translation: Some nomadic Arabs ˹also˺ came with excuses, seeking exemption.
   And those who were untrue to Allah and His Messenger remained behind ˹with no excuse˺.
   The unfaithful among them will be afflicted with a painful punishment.
 word_by_word:
   1:
-    arabic: وَ جَآءَ
+    arabic: وَجَآءَ
     translation: And came
     transliteration: wajāa
   2:
-    arabic: الۡمُعَذِّرُوۡنَ
+    arabic: ٱلۡمُعَذِّرُونَ
     translation: the ones who make excuses
     transliteration: l-muʿadhirūna
   3:
@@ -19,7 +19,7 @@ word_by_word:
     translation: of
     transliteration: mina
   4:
-    arabic: الۡاَعۡرَابِ
+    arabic: ٱلۡأَعۡرَابِ
     translation: the bedouins
     transliteration: l-aʿrābi
   5:
@@ -35,31 +35,31 @@ word_by_word:
     translation: and sat
     transliteration: waqaʿada
   8:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   9:
-    arabic: كَذَبُوا
+    arabic: كَذَبُواْ
     translation: lied
     transliteration: kadhabū
   10:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: (to) Allah
     transliteration: l-laha
   11:
-    arabic: وَرَسُوۡلَهٗ​ ؕ
+    arabic: وَرَسُولَهُۥۚ
     translation: and His Messenger
     transliteration: warasūlahu
   12:
-    arabic: سَيُصِيۡبُ
+    arabic: سَيُصِيبُ
     translation: Will strike
     transliteration: sayuṣību
   13:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   14:
-    arabic: كَفَرُوۡا
+    arabic: كَفَرُواْ
     translation: disbelieved
     transliteration: kafarū
   15:
@@ -71,7 +71,7 @@ word_by_word:
     translation: a punishment
     transliteration: ʿadhābun
   17:
-    arabic: اَ لِيۡمٌ‏
+    arabic: أَلِيمٞ
     translation: painful
     transliteration: alīmun
 ---

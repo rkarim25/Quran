@@ -1,15 +1,15 @@
 ---
-arabic_ayat: اِنۡ نَّشَاۡ نُنَزِّلۡ عَلَيۡهِمۡ مِّنَ السَّمَآءِ اٰيَةً فَظَلَّتۡ
-  اَعۡنَاقُهُمۡ لَهَا خٰضِعِيۡنَ‏
+arabic_ayat: إِن نَّشَأۡ نُنَزِّلۡ عَلَيۡهِم مِّنَ ٱلسَّمَآءِ ءَايَةٗ فَظَلَّتۡ أَعۡنَٰقُهُمۡ
+  لَهَا خَٰضِعِينَ
 sentence_translation: If We willed, We could send down upon them a ˹compelling˺ sign
   from the heavens, leaving their necks bent in ˹utter˺ submission to it.
 word_by_word:
   1:
-    arabic: اِنۡ
+    arabic: إِن
     translation: If
     transliteration: in
   2:
-    arabic: نَّشَاۡ
+    arabic: نَّشَأۡ
     translation: We will
     transliteration: nasha
   3:
@@ -17,7 +17,7 @@ word_by_word:
     translation: We can send down
     transliteration: nunazzil
   4:
-    arabic: عَلَيۡهِمۡ
+    arabic: عَلَيۡهِم
     translation: to them
     transliteration: ʿalayhim
   5:
@@ -25,11 +25,11 @@ word_by_word:
     translation: from
     transliteration: mina
   6:
-    arabic: السَّمَآءِ
+    arabic: ٱلسَّمَآءِ ءَ
     translation: the sky
     transliteration: l-samāi
   7:
-    arabic: اٰيَةً
+    arabic: ايَةٗ
     translation: a Sign
     transliteration: āyatan
   8:
@@ -37,7 +37,7 @@ word_by_word:
     translation: so would bend
     transliteration: faẓallat
   9:
-    arabic: اَعۡنَاقُهُمۡ
+    arabic: أَعۡنَٰقُهُمۡ
     translation: their necks
     transliteration: aʿnāquhum
   10:
@@ -45,7 +45,7 @@ word_by_word:
     translation: to it
     transliteration: lahā
   11:
-    arabic: خٰضِعِيۡنَ‏
+    arabic: خَٰضِعِينَ
     translation: (in) humility
     transliteration: khāḍiʿīna
 ---

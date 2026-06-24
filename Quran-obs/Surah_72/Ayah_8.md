@@ -1,11 +1,11 @@
 ---
-arabic_ayat: وَّاَنَّا لَمَسۡنَا السَّمَآءَ فَوَجَدۡنٰهَا مُلِئَتۡ حَرَسًا شَدِيۡدًا
-  وَّشُهُبًا ۙ‏
+arabic_ayat: وَأَنَّا لَمَسۡنَا ٱلسَّمَآءَ فَوَجَدۡنَٰهَا مُلِئَتۡ حَرَسٗا شَدِيدٗا
+  وَشُهُبٗا
 sentence_translation: ˹Earlier˺ we tried to reach heaven ˹for news˺, only to find
   it filled with stern guards and shooting stars.
 word_by_word:
   1:
-    arabic: وَّاَنَّا
+    arabic: وَأَنَّا
     translation: And that we
     transliteration: wa-annā
   2:
@@ -13,11 +13,11 @@ word_by_word:
     translation: sought to touch
     transliteration: lamasnā
   3:
-    arabic: السَّمَآءَ
+    arabic: ٱلسَّمَآءَ
     translation: the heaven
     transliteration: l-samāa
   4:
-    arabic: فَوَجَدۡنٰهَا
+    arabic: فَوَجَدۡنَٰهَا
     translation: but we found it
     transliteration: fawajadnāhā
   5:
@@ -25,15 +25,15 @@ word_by_word:
     translation: filled (with)
     transliteration: muli-at
   6:
-    arabic: حَرَسًا
+    arabic: حَرَسٗا
     translation: guards
     transliteration: ḥarasan
   7:
-    arabic: شَدِيۡدًا
+    arabic: شَدِيدٗا
     translation: severe
     transliteration: shadīdan
   8:
-    arabic: وَّشُهُبًا ۙ‏
+    arabic: وَشُهُبٗا
     translation: and flaming fires
     transliteration: washuhuban
 ---

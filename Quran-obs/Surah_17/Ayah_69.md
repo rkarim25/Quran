@@ -1,29 +1,29 @@
 ---
-arabic_ayat: اَمۡ اَمِنۡتُمۡ اَنۡ يُّعِيۡدَكُمۡ فِيۡهِ تَارَةً اُخۡرٰى فَيُرۡسِلَ
-  عَلَيۡكُمۡ قَاصِفًا مِّنَ الرِّيۡحِ فَيُغۡرِقَكُمۡ بِمَا كَفَرۡتُمۡ​ۙ ثُمَّ لَا
-  تَجِدُوۡا لَـكُمۡ عَلَيۡنَا بِهٖ تَبِيۡعًا‏
+arabic_ayat: أَمۡ أَمِنتُمۡ أَن يُعِيدَكُمۡ فِيهِ تَارَةً أُخۡرَىٰ فَيُرۡسِلَ عَلَيۡكُمۡ
+  قَاصِفٗا مِّنَ ٱلرِّيحِ فَيُغۡرِقَكُم بِمَا كَفَرۡتُمۡ ثُمَّ لَا تَجِدُواْ لَكُمۡ
+  عَلَيۡنَا بِهِۦ تَبِيعٗا
 sentence_translation: Or do you feel secure that He will not send you back to sea
   once again, and send upon you a violent storm, drowning you for your denial? Then
   you will find none to avenge you against Us.
 word_by_word:
   1:
-    arabic: اَمۡ
+    arabic: أَمۡ
     translation: Or
     transliteration: am
   2:
-    arabic: اَمِنۡتُمۡ
+    arabic: أَمِنتُمۡ
     translation: do you feel secure
     transliteration: amintum
   3:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that (not)
     transliteration: an
   4:
-    arabic: يُّعِيۡدَكُمۡ
+    arabic: يُعِيدَكُمۡ
     translation: He will send you back
     transliteration: yuʿīdakum
   5:
-    arabic: فِيۡهِ
+    arabic: فِيهِ
     translation: into it
     transliteration: fīhi
   6:
@@ -31,7 +31,7 @@ word_by_word:
     translation: another time
     transliteration: tāratan
   7:
-    arabic: اُخۡرٰى
+    arabic: أُخۡرَىٰ
     translation: another time
     transliteration: ukh'rā
   8:
@@ -43,7 +43,7 @@ word_by_word:
     translation: upon you
     transliteration: ʿalaykum
   10:
-    arabic: قَاصِفًا
+    arabic: قَاصِفٗا
     translation: a hurricane
     transliteration: qāṣifan
   11:
@@ -51,11 +51,11 @@ word_by_word:
     translation: of
     transliteration: mina
   12:
-    arabic: الرِّيۡحِ
+    arabic: ٱلرِّيحِ
     translation: the wind
     transliteration: l-rīḥi
   13:
-    arabic: فَيُغۡرِقَكُمۡ
+    arabic: فَيُغۡرِقَكُم
     translation: and drown you
     transliteration: fayugh'riqakum
   14:
@@ -63,7 +63,7 @@ word_by_word:
     translation: because
     transliteration: bimā
   15:
-    arabic: كَفَرۡتُمۡ​ۙ
+    arabic: كَفَرۡتُمۡ
     translation: you disbelieved
     transliteration: kafartum
   16:
@@ -75,11 +75,11 @@ word_by_word:
     translation: not
     transliteration: lā
   18:
-    arabic: تَجِدُوۡا
+    arabic: تَجِدُواْ
     translation: you will find
     transliteration: tajidū
   19:
-    arabic: لَـكُمۡ
+    arabic: لَكُمۡ
     translation: for you
     transliteration: lakum
   20:
@@ -87,11 +87,11 @@ word_by_word:
     translation: against Us
     transliteration: ʿalaynā
   21:
-    arabic: بِهٖ
+    arabic: بِهِۦ
     translation: therein
     transliteration: bihi
   22:
-    arabic: تَبِيۡعًا‏
+    arabic: تَبِيعٗا
     translation: an avenger
     transliteration: tabīʿan
 ---

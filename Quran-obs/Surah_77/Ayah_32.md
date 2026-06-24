@@ -1,21 +1,21 @@
 ---
-arabic_ayat: اِنَّهَا تَرۡمِىۡ بِشَرَرٍ كَالۡقَصۡرِ​ۚ‏
+arabic_ayat: إِنَّهَا تَرۡمِي بِشَرَرٖ كَٱلۡقَصۡرِ
 sentence_translation: Indeed, it hurls sparks ˹as big˺ as huge castles,
 word_by_word:
   1:
-    arabic: اِنَّهَا
+    arabic: إِنَّهَا
     translation: Indeed, it
     transliteration: innahā
   2:
-    arabic: تَرۡمِىۡ
+    arabic: تَرۡمِي
     translation: throws up
     transliteration: tarmī
   3:
-    arabic: بِشَرَرٍ
+    arabic: بِشَرَرٖ
     translation: sparks
     transliteration: bishararin
   4:
-    arabic: كَالۡقَصۡرِ​ۚ‏
+    arabic: كَٱلۡقَصۡرِ
     translation: as the fortress
     transliteration: kal-qaṣri
 ---

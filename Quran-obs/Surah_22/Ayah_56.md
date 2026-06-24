@@ -1,19 +1,19 @@
 ---
-arabic_ayat: اَ لۡمُلۡكُ يَوۡمَٮِٕذٍ لِّـلَّـهِ ؕ يَحۡكُمُ بَيۡنَهُمۡ​ ؕ فَالَّذِيۡنَ
-  اٰمَنُوۡا وَ عَمِلُوا الصّٰلِحٰتِ فِىۡ جَنّٰتِ النَّعِيۡمِ‏
+arabic_ayat: ٱلۡمُلۡكُ يَوۡمَئِذٖ لِّلَّهِ يَحۡكُمُ بَيۡنَهُمۡۚ فَٱلَّذِينَ ءَامَنُواْ
+  وَعَمِلُواْ ٱلصَّٰلِحَٰتِ فِي جَنَّٰتِ ٱلنَّعِيمِ
 sentence_translation: All authority on that Day is for Allah ˹alone˺. He will judge
   between them. So those who believe and do good will be in the Gardens of Bliss.
 word_by_word:
   1:
-    arabic: اَ لۡمُلۡكُ
+    arabic: ٱلۡمُلۡكُ
     translation: The Sovereignty
     transliteration: al-mul'ku
   2:
-    arabic: يَوۡمَٮِٕذٍ
+    arabic: يَوۡمَئِذٖ
     translation: (on) that Day
     transliteration: yawma-idhin
   3:
-    arabic: لِّـلَّـهِ ؕ
+    arabic: لِّلَّهِ
     translation: (will be) for Allah
     transliteration: lillahi
   4:
@@ -21,35 +21,35 @@ word_by_word:
     translation: He will judge
     transliteration: yaḥkumu
   5:
-    arabic: بَيۡنَهُمۡ​ ؕ
+    arabic: بَيۡنَهُمۡۚ
     translation: between them
     transliteration: baynahum
   6:
-    arabic: فَالَّذِيۡنَ
+    arabic: فَٱلَّذِينَ ءَ
     translation: So those who
     transliteration: fa-alladhīna
   7:
-    arabic: اٰمَنُوۡا
+    arabic: امَنُواْ
     translation: believe
     transliteration: āmanū
   8:
-    arabic: وَ عَمِلُوا
+    arabic: وَعَمِلُواْ
     translation: and did
     transliteration: waʿamilū
   9:
-    arabic: الصّٰلِحٰتِ
+    arabic: ٱلصَّٰلِحَٰتِ
     translation: righteous deeds
     transliteration: l-ṣāliḥāti
   10:
-    arabic: فِىۡ
+    arabic: فِي
     translation: (will be) in
     transliteration: fī
   11:
-    arabic: جَنّٰتِ
+    arabic: جَنَّٰتِ
     translation: Gardens
     transliteration: jannāti
   12:
-    arabic: النَّعِيۡمِ‏
+    arabic: ٱلنَّعِيمِ
     translation: (of) Delight
     transliteration: l-naʿīmi
 ---

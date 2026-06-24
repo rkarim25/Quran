@@ -1,20 +1,20 @@
 ---
-arabic_ayat: وَقَالُوۡا لَوۡلَاۤ اُنۡزِلَ عَلَيۡهِ مَلَكٌ​ ؕ وَلَوۡ اَنۡزَلۡـنَا مَلَـكًا
-  لَّـقُضِىَ الۡاَمۡرُ ثُمَّ لَا يُنۡظَرُوۡنَ‏
+arabic_ayat: وَقَالُواْ لَوۡلَآ أُنزِلَ عَلَيۡهِ مَلَكٞۖ وَلَوۡ أَنزَلۡنَا مَلَكٗا
+  لَّقُضِيَ ٱلۡأَمۡرُ ثُمَّ لَا يُنظَرُونَ
 sentence_translation: They say, “Why has no ˹visible˺ angel come with him?” Had We
   sent down an angel, the matter would have certainly been settled ˹at once˺, and
   they would have never been given more time ˹to repent˺.
 word_by_word:
   1:
-    arabic: وَقَالُوۡا
+    arabic: وَقَالُواْ
     translation: And they said
     transliteration: waqālū
   2:
-    arabic: لَوۡلَاۤ
+    arabic: لَوۡلَآ
     translation: Why has not been
     transliteration: lawlā
   3:
-    arabic: اُنۡزِلَ
+    arabic: أُنزِلَ
     translation: sent down
     transliteration: unzila
   4:
@@ -22,7 +22,7 @@ word_by_word:
     translation: to him
     transliteration: ʿalayhi
   5:
-    arabic: مَلَكٌ​ ؕ
+    arabic: مَلَكٞۖ
     translation: an Angel
     transliteration: malakun
   6:
@@ -30,19 +30,19 @@ word_by_word:
     translation: And if
     transliteration: walaw
   7:
-    arabic: اَنۡزَلۡـنَا
+    arabic: أَنزَلۡنَا
     translation: We (had) sent down
     transliteration: anzalnā
   8:
-    arabic: مَلَـكًا
+    arabic: مَلَكٗا
     translation: an Angel
     transliteration: malakan
   9:
-    arabic: لَّـقُضِىَ
+    arabic: لَّقُضِيَ
     translation: surely (would) have been decided
     transliteration: laquḍiya
   10:
-    arabic: الۡاَمۡرُ
+    arabic: ٱلۡأَمۡرُ
     translation: the matter
     transliteration: l-amru
   11:
@@ -54,7 +54,7 @@ word_by_word:
     translation: 'no'
     transliteration: lā
   13:
-    arabic: يُنۡظَرُوۡنَ‏
+    arabic: يُنظَرُونَ
     translation: respite would have been granted to them
     transliteration: yunẓarūna
 ---

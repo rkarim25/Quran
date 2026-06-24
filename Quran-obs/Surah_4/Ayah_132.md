@@ -1,11 +1,11 @@
 ---
-arabic_ayat: "وَلِلّٰهِ مَا فِى السَّمٰوٰتِ وَمَا فِى الۡاَرۡضِ ​ؕ وَكَفٰى بِاللّٰهِ\
-  \ وَكِيۡلًا‏ \uFEFF\uFEFF"
+arabic_ayat: وَلِلَّهِ مَا فِي ٱلسَّمَٰوَٰتِ وَمَا فِي ٱلۡأَرۡضِۚ وَكَفَىٰ بِٱللَّهِ
+  وَكِيلًا
 sentence_translation: To Allah ˹alone˺ belongs whatever is in the heavens and whatever
   is on the earth. And Allah is sufficient as a Trustee of Affairs.
 word_by_word:
   1:
-    arabic: وَلِلّٰهِ
+    arabic: وَلِلَّهِ
     translation: And for Allah
     transliteration: walillahi
   2:
@@ -13,11 +13,11 @@ word_by_word:
     translation: (is) whatever
     transliteration: mā
   3:
-    arabic: فِى
+    arabic: فِي
     translation: (is) in
     transliteration: fī
   4:
-    arabic: السَّمٰوٰتِ
+    arabic: ٱلسَّمَٰوَٰتِ
     translation: the heavens
     transliteration: l-samāwāti
   5:
@@ -25,23 +25,23 @@ word_by_word:
     translation: and whatever
     transliteration: wamā
   6:
-    arabic: فِى
+    arabic: فِي
     translation: (is) in
     transliteration: fī
   7:
-    arabic: الۡاَرۡضِ ​ؕ
+    arabic: ٱلۡأَرۡضِۚ
     translation: the earth
     transliteration: l-arḍi
   8:
-    arabic: وَكَفٰى
+    arabic: وَكَفَىٰ
     translation: And is sufficient
     transliteration: wakafā
   9:
-    arabic: بِاللّٰهِ
+    arabic: بِٱللَّهِ
     translation: Allah
     transliteration: bil-lahi
   10:
-    arabic: "وَكِيۡلًا‏ \uFEFF\uFEFF"
+    arabic: وَكِيلًا
     translation: (as) a Disposer of affairs
     transliteration: wakīlan
 ---

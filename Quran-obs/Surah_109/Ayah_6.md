@@ -1,21 +1,21 @@
 ---
-arabic_ayat: لَـكُمۡ دِيۡنُكُمۡ وَلِىَ دِيۡنِ‏
+arabic_ayat: لَكُمۡ دِينُكُمۡ وَلِيَ دِينِ
 sentence_translation: You have your way, and I have my Way.”
 word_by_word:
   1:
-    arabic: لَـكُمۡ
+    arabic: لَكُمۡ
     translation: For you
     transliteration: lakum
   2:
-    arabic: دِيۡنُكُمۡ
+    arabic: دِينُكُمۡ
     translation: (is) your religion
     transliteration: dīnukum
   3:
-    arabic: وَلِىَ
+    arabic: وَلِيَ
     translation: and for me
     transliteration: waliya
   4:
-    arabic: دِيۡنِ‏
+    arabic: دِينِ
     translation: (is) my religion
     transliteration: dīni
 ---

@@ -1,6 +1,6 @@
 ---
-arabic_ayat: وَلَقَدۡ اَرۡسَلۡنَا مُوۡسٰى بِاٰيٰتِنَاۤ اِلٰى فِرۡعَوۡنَ وَمَلَا۫ٮِٕه
-  فَقَالَ اِنِّىۡ رَسُوۡلُ رَبِّ الۡعٰلَمِيۡنَ‏
+arabic_ayat: وَلَقَدۡ أَرۡسَلۡنَا مُوسَىٰ بِـَٔايَٰتِنَآ إِلَىٰ فِرۡعَوۡنَ وَمَلَإِيْهِۦ
+  فَقَالَ إِنِّي رَسُولُ رَبِّ ٱلۡعَٰلَمِينَ
 sentence_translation: 'Indeed, We sent Moses with Our signs to Pharaoh and his chiefs,
   and he said: “I am a messenger of the Lord of all worlds.”'
 word_by_word:
@@ -9,19 +9,19 @@ word_by_word:
     translation: And certainly
     transliteration: walaqad
   2:
-    arabic: اَرۡسَلۡنَا
+    arabic: أَرۡسَلۡنَا
     translation: We sent
     transliteration: arsalnā
   3:
-    arabic: مُوۡسٰى
+    arabic: مُوسَىٰ
     translation: Musa
     transliteration: mūsā
   4:
-    arabic: بِاٰيٰتِنَاۤ
+    arabic: بِـَٔايَٰتِنَآ
     translation: with Our Signs
     transliteration: biāyātinā
   5:
-    arabic: اِلٰى
+    arabic: إِلَىٰ
     translation: to
     transliteration: ilā
   6:
@@ -29,7 +29,7 @@ word_by_word:
     translation: Firaun
     transliteration: fir'ʿawna
   7:
-    arabic: وَمَلَا۫ٮِٕه
+    arabic: وَمَلَإِيْهِۦ
     translation: and his chiefs
     transliteration: wamala-ihi
   8:
@@ -37,11 +37,11 @@ word_by_word:
     translation: and he said
     transliteration: faqāla
   9:
-    arabic: اِنِّىۡ
+    arabic: إِنِّي
     translation: Indeed, I am
     transliteration: innī
   10:
-    arabic: رَسُوۡلُ
+    arabic: رَسُولُ
     translation: a Messenger
     transliteration: rasūlu
   11:
@@ -49,7 +49,7 @@ word_by_word:
     translation: (of the) Lord
     transliteration: rabbi
   12:
-    arabic: الۡعٰلَمِيۡنَ‏
+    arabic: ٱلۡعَٰلَمِينَ
     translation: (of) the worlds
     transliteration: l-ʿālamīna
 ---

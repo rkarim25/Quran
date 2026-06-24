@@ -1,5 +1,5 @@
 ---
-arabic_ayat: فَلَا تُطِعِ الۡمُكَذِّبِيۡنَ‏
+arabic_ayat: فَلَا تُطِعِ ٱلۡمُكَذِّبِينَ
 sentence_translation: So do not give in to the deniers.
 word_by_word:
   1:
@@ -11,7 +11,7 @@ word_by_word:
     translation: obey
     transliteration: tuṭiʿi
   3:
-    arabic: الۡمُكَذِّبِيۡنَ‏
+    arabic: ٱلۡمُكَذِّبِينَ
     translation: the deniers
     transliteration: l-mukadhibīna
 ---

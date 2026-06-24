@@ -1,17 +1,17 @@
 ---
-arabic_ayat: فَلِلّٰهِ الۡاٰخِرَةُ وَالۡاُوۡلٰى‏
+arabic_ayat: فَلِلَّهِ ٱلۡأٓخِرَةُ وَٱلۡأُولَىٰ
 sentence_translation: In fact, to Allah ˹alone˺ belongs this world and the next.
 word_by_word:
   1:
-    arabic: فَلِلّٰهِ
+    arabic: فَلِلَّهِ
     translation: But for Allah
     transliteration: falillahi
   2:
-    arabic: الۡاٰخِرَةُ
+    arabic: ٱلۡأٓخِرَةُ
     translation: (is) the last
     transliteration: l-ākhiratu
   3:
-    arabic: وَالۡاُوۡلٰى‏
+    arabic: وَٱلۡأُولَىٰ
     translation: and the first
     transliteration: wal-ūlā
 ---

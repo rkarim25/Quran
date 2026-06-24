@@ -1,22 +1,22 @@
 ---
-arabic_ayat: وَ اِنَّا لَــنَحۡنُ نُحۡىٖ وَنُمِيۡتُ وَنَحۡنُ الۡوٰرِثُوۡنَ‏
+arabic_ayat: وَإِنَّا لَنَحۡنُ نُحۡيِۦ وَنُمِيتُ وَنَحۡنُ ٱلۡوَٰرِثُونَ
 sentence_translation: Surely it is We Who give life and cause death. And We are the
   ˹Eternal˺ Successor.
 word_by_word:
   1:
-    arabic: وَ اِنَّا
+    arabic: وَإِنَّا
     translation: And indeed, We
     transliteration: wa-innā
   2:
-    arabic: لَــنَحۡنُ
+    arabic: لَنَحۡنُ
     translation: surely [We]
     transliteration: lanaḥnu
   3:
-    arabic: نُحۡىٖ
+    arabic: نُحۡيِۦ
     translation: We give life
     transliteration: nuḥ'yī
   4:
-    arabic: وَنُمِيۡتُ
+    arabic: وَنُمِيتُ
     translation: and We cause death
     transliteration: wanumītu
   5:
@@ -24,7 +24,7 @@ word_by_word:
     translation: and We
     transliteration: wanaḥnu
   6:
-    arabic: الۡوٰرِثُوۡنَ‏
+    arabic: ٱلۡوَٰرِثُونَ
     translation: (are) the Inheritors
     transliteration: l-wārithūna
 ---

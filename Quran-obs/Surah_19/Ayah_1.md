@@ -1,9 +1,9 @@
 ---
-arabic_ayat: كٓهٰيٰـعٓـصٓ​ ۚ‏
+arabic_ayat: كٓهيعٓصٓ
 sentence_translation: Kãf-Ha-Ya-’Aĩn- Ṣãd.
 word_by_word:
   1:
-    arabic: كٓهٰيٰـعٓـصٓ​ ۚ‏
+    arabic: كٓهيعٓصٓ
     translation: Kaaf Ha Ya Ain Sad
     transliteration: kaf-ha-ya-ain-sad
 ---

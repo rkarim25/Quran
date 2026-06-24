@@ -1,31 +1,31 @@
 ---
-arabic_ayat: يٰبَنِىۡٓ اِسۡرَآءِيۡلَ اذۡكُرُوۡا نِعۡمَتِىَ الَّتِىۡٓ اَنۡعَمۡتُ عَلَيۡكُمۡ
-  وَاَوۡفُوۡا بِعَهۡدِىۡٓ اُوۡفِ بِعَهۡدِكُمۡۚ وَاِيَّاىَ فَارۡهَبُوۡنِ‏
+arabic_ayat: يَٰبَنِيٓ إِسۡرَٰٓءِيلَ ٱذۡكُرُواْ نِعۡمَتِيَ ٱلَّتِيٓ أَنۡعَمۡتُ عَلَيۡكُمۡ
+  وَأَوۡفُواْ بِعَهۡدِيٓ أُوفِ بِعَهۡدِكُمۡ وَإِيَّٰيَ فَٱرۡهَبُونِ
 sentence_translation: O children of Israel! Remember My favours upon you. Fulfil your
   covenant and I will fulfil Mine, and stand in awe of Me ˹alone˺.
 word_by_word:
   1:
-    arabic: يٰبَنِىۡٓ
+    arabic: يَٰبَنِيٓ
     translation: O Children
     transliteration: yābanī
   2:
-    arabic: اِسۡرَآءِيۡلَ
+    arabic: إِسۡرَٰٓءِيلَ
     translation: (of) Israel
     transliteration: is'rāīla
   3:
-    arabic: اذۡكُرُوۡا
+    arabic: ٱذۡكُرُواْ
     translation: Remember
     transliteration: udh'kurū
   4:
-    arabic: نِعۡمَتِىَ
+    arabic: نِعۡمَتِيَ
     translation: My Favor
     transliteration: niʿ'matiya
   5:
-    arabic: الَّتِىۡٓ
+    arabic: ٱلَّتِيٓ
     translation: which
     transliteration: allatī
   6:
-    arabic: اَنۡعَمۡتُ
+    arabic: أَنۡعَمۡتُ
     translation: I bestowed
     transliteration: anʿamtu
   7:
@@ -33,27 +33,27 @@ word_by_word:
     translation: upon you
     transliteration: ʿalaykum
   8:
-    arabic: وَاَوۡفُوۡا
+    arabic: وَأَوۡفُواْ
     translation: and fulfill
     transliteration: wa-awfū
   9:
-    arabic: بِعَهۡدِىۡٓ
+    arabic: بِعَهۡدِيٓ
     translation: My Covenant
     transliteration: biʿahdī
   10:
-    arabic: اُوۡفِ
+    arabic: أُوفِ
     translation: I will fulfill
     transliteration: ūfi
   11:
-    arabic: بِعَهۡدِكُمۡۚ
+    arabic: بِعَهۡدِكُمۡ
     translation: your covenant
     transliteration: biʿahdikum
   12:
-    arabic: وَاِيَّاىَ
+    arabic: وَإِيَّٰيَ
     translation: and Me Alone
     transliteration: wa-iyyāya
   13:
-    arabic: فَارۡهَبُوۡنِ‏
+    arabic: فَٱرۡهَبُونِ
     translation: fear [Me]
     transliteration: fa-ir'habūni
 ---

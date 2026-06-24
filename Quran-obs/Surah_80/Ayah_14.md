@@ -1,13 +1,13 @@
 ---
-arabic_ayat: مَّرۡفُوۡعَةٍ مُّطَهَّرَةٍ ۭۙ‏
+arabic_ayat: مَّرۡفُوعَةٖ مُّطَهَّرَةِۭ
 sentence_translation: highly esteemed, purified—
 word_by_word:
   1:
-    arabic: مَّرۡفُوۡعَةٍ
+    arabic: مَّرۡفُوعَةٖ
     translation: Exalted
     transliteration: marfūʿatin
   2:
-    arabic: مُّطَهَّرَةٍ ۭۙ‏
+    arabic: مُّطَهَّرَةِۭ
     translation: purified
     transliteration: muṭahharatin
 ---

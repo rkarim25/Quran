@@ -1,21 +1,21 @@
 ---
-arabic_ayat: وَاِنَّ لَـنَا لَـلۡاٰخِرَةَ وَالۡاُوۡلٰى‏
+arabic_ayat: وَإِنَّ لَنَا لَلۡأٓخِرَةَ وَٱلۡأُولَىٰ
 sentence_translation: And surely to Us ˹alone˺ belong this life and the next.
 word_by_word:
   1:
-    arabic: وَاِنَّ
+    arabic: وَإِنَّ
     translation: And indeed
     transliteration: wa-inna
   2:
-    arabic: لَـنَا
+    arabic: لَنَا
     translation: for Us
     transliteration: lanā
   3:
-    arabic: لَـلۡاٰخِرَةَ
+    arabic: لَلۡأٓخِرَةَ
     translation: (is) the Hereafter
     transliteration: lalākhirata
   4:
-    arabic: وَالۡاُوۡلٰى‏
+    arabic: وَٱلۡأُولَىٰ
     translation: and the first (life)
     transliteration: wal-ūlā
 ---

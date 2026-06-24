@@ -1,8 +1,8 @@
 ---
-arabic_ayat: لَهٗ مُعَقِّبٰتٌ مِّنۡۢ بَيۡنِ يَدَيۡهِ وَمِنۡ خَلۡفِهٖ يَحۡفَظُوۡنَهٗ
-  مِنۡ اَمۡرِ اللّٰهِ​ؕ اِنَّ اللّٰهَ لَا يُغَيِّرُ مَا بِقَوۡمٍ حَتّٰى يُغَيِّرُوۡا
-  مَا بِاَنۡفُسِهِمۡ​ؕ وَاِذَاۤ اَرَادَ اللّٰهُ بِقَوۡمٍ سُوۡۤءًا فَلَا مَرَدَّ لَهٗ​ۚ
-  وَمَا لَهُمۡ مِّنۡ دُوۡنِهٖ مِنۡ وَّالٍ‏
+arabic_ayat: لَهُۥ مُعَقِّبَٰتٞ مِّنۢ بَيۡنِ يَدَيۡهِ وَمِنۡ خَلۡفِهِۦ يَحۡفَظُونَهُۥ
+  مِنۡ أَمۡرِ ٱللَّهِۗ إِنَّ ٱللَّهَ لَا يُغَيِّرُ مَا بِقَوۡمٍ حَتَّىٰ يُغَيِّرُواْ
+  مَا بِأَنفُسِهِمۡۗ وَإِذَآ أَرَادَ ٱللَّهُ بِقَوۡمٖ سُوٓءٗا فَلَا مَرَدَّ لَهُۥۚ
+  وَمَا لَهُم مِّن دُونِهِۦ مِن وَالٍ
 sentence_translation: For each one there are successive angels before and behind,
   protecting them by Allah’s command. Indeed, Allah would never change a people’s
   state ˹of favour˺ until they change their own state ˹of faith˺. And if it is Allah’s
@@ -10,15 +10,15 @@ sentence_translation: For each one there are successive angels before and behind
   other than Him.
 word_by_word:
   1:
-    arabic: لَهٗ
+    arabic: لَهُۥ
     translation: For him
     transliteration: lahu
   2:
-    arabic: مُعَقِّبٰتٌ
+    arabic: مُعَقِّبَٰتٞ
     translation: (are) successive (Angels)
     transliteration: muʿaqqibātun
   3:
-    arabic: مِّنۡۢ
+    arabic: مِّنۢ
     translation: from
     transliteration: min
   4:
@@ -34,11 +34,11 @@ word_by_word:
     translation: and from
     transliteration: wamin
   7:
-    arabic: خَلۡفِهٖ
+    arabic: خَلۡفِهِۦ
     translation: and behind him
     transliteration: khalfihi
   8:
-    arabic: يَحۡفَظُوۡنَهٗ
+    arabic: يَحۡفَظُونَهُۥ
     translation: who guard him
     transliteration: yaḥfaẓūnahu
   9:
@@ -46,19 +46,19 @@ word_by_word:
     translation: by
     transliteration: min
   10:
-    arabic: اَمۡرِ
+    arabic: أَمۡرِ
     translation: (the) command
     transliteration: amri
   11:
-    arabic: اللّٰهِ​ؕ
+    arabic: ٱللَّهِۗ
     translation: (of) Allah
     transliteration: l-lahi
   12:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   13:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   14:
@@ -78,11 +78,11 @@ word_by_word:
     translation: of a people
     transliteration: biqawmin
   18:
-    arabic: حَتّٰى
+    arabic: حَتَّىٰ
     translation: until
     transliteration: ḥattā
   19:
-    arabic: يُغَيِّرُوۡا
+    arabic: يُغَيِّرُواْ
     translation: they change
     transliteration: yughayyirū
   20:
@@ -90,27 +90,27 @@ word_by_word:
     translation: what
     transliteration: mā
   21:
-    arabic: بِاَنۡفُسِهِمۡ​ؕ
+    arabic: بِأَنفُسِهِمۡۗ
     translation: (is) in themselves
     transliteration: bi-anfusihim
   22:
-    arabic: وَاِذَاۤ
+    arabic: وَإِذَآ
     translation: And when
     transliteration: wa-idhā
   23:
-    arabic: اَرَادَ
+    arabic: أَرَادَ
     translation: wills
     transliteration: arāda
   24:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   25:
-    arabic: بِقَوۡمٍ
+    arabic: بِقَوۡمٖ
     translation: for a people
     transliteration: biqawmin
   26:
-    arabic: سُوۡۤءًا
+    arabic: سُوٓءٗا
     translation: misfortune
     transliteration: sūan
   27:
@@ -122,7 +122,7 @@ word_by_word:
     translation: turning away
     transliteration: maradda
   29:
-    arabic: لَهٗ​ۚ
+    arabic: لَهُۥۚ
     translation: of it
     transliteration: lahu
   30:
@@ -130,23 +130,23 @@ word_by_word:
     translation: and not
     transliteration: wamā
   31:
-    arabic: لَهُمۡ
+    arabic: لَهُم
     translation: for them
     transliteration: lahum
   32:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: from
     transliteration: min
   33:
-    arabic: دُوۡنِهٖ
+    arabic: دُونِهِۦ
     translation: besides Him
     transliteration: dūnihi
   34:
-    arabic: مِنۡ
+    arabic: مِن
     translation: any
     transliteration: min
   35:
-    arabic: وَّالٍ‏
+    arabic: وَالٍ
     translation: protector
     transliteration: wālin
 ---

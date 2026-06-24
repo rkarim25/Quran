@@ -1,49 +1,49 @@
 ---
-arabic_ayat: "وَلَقَدۡ اٰتَيۡنَا مُوۡسٰى تِسۡعَ اٰيٰتٍۢ بَيِّنٰتٍ​ فَسۡـــَٔلۡ بَنِىۡۤ\
-  \ اِسۡرَاۤءِيۡلَ اِذۡ جَآءَهُمۡ فَقَالَ لَهٗ فِرۡعَوۡنُ اِنِّىۡ لَاَظُنُّكَ يٰمُوۡسٰى\
-  \ مَسۡحُوۡرًا‏ \uFEFF\uFEFF"
+arabic_ayat: وَلَقَدۡ ءَاتَيۡنَا مُوسَىٰ تِسۡعَ ءَايَٰتِۭ بَيِّنَٰتٖۖ فَسۡـَٔلۡ بَنِيٓ
+  إِسۡرَٰٓءِيلَ إِذۡ جَآءَهُمۡ فَقَالَ لَهُۥ فِرۡعَوۡنُ إِنِّي لَأَظُنُّكَ يَٰمُوسَىٰ
+  مَسۡحُورٗا
 sentence_translation: We surely gave Moses nine clear signs. ˹You, O  Prophet, can˺
   ask the Children of Israel. When Moses came to them, Pharaoh said to him, “I really
   think that you, O  Moses, are bewitched.”
 word_by_word:
   1:
-    arabic: وَلَقَدۡ
+    arabic: وَلَقَدۡ ءَ
     translation: And certainly
     transliteration: walaqad
   2:
-    arabic: اٰتَيۡنَا
+    arabic: اتَيۡنَا
     translation: We had given
     transliteration: ātaynā
   3:
-    arabic: مُوۡسٰى
+    arabic: مُوسَىٰ
     translation: Musa
     transliteration: mūsā
   4:
-    arabic: تِسۡعَ
+    arabic: تِسۡعَ ءَ
     translation: nine
     transliteration: tis'ʿa
   5:
-    arabic: اٰيٰتٍۢ
+    arabic: ايَٰتِۭ
     translation: Signs
     transliteration: āyātin
   6:
-    arabic: بَيِّنٰتٍ​
+    arabic: بَيِّنَٰتٖۖ
     translation: clear
     transliteration: bayyinātin
   7:
-    arabic: فَسۡـــَٔلۡ
+    arabic: فَسۡـَٔلۡ
     translation: so ask
     transliteration: fasal
   8:
-    arabic: بَنِىۡۤ
+    arabic: بَنِيٓ
     translation: (the) Children of Israel
     transliteration: banī
   9:
-    arabic: اِسۡرَاۤءِيۡلَ
+    arabic: إِسۡرَٰٓءِيلَ
     translation: (the) Children of Israel
     transliteration: is'rāīla
   10:
-    arabic: اِذۡ
+    arabic: إِذۡ
     translation: when
     transliteration: idh
   11:
@@ -55,7 +55,7 @@ word_by_word:
     translation: then said
     transliteration: faqāla
   13:
-    arabic: لَهٗ
+    arabic: لَهُۥ
     translation: to him
     transliteration: lahu
   14:
@@ -63,19 +63,19 @@ word_by_word:
     translation: Firaun
     transliteration: fir'ʿawnu
   15:
-    arabic: اِنِّىۡ
+    arabic: إِنِّي
     translation: Indeed, I
     transliteration: innī
   16:
-    arabic: لَاَظُنُّكَ
+    arabic: لَأَظُنُّكَ
     translation: '[I] think you '
     transliteration: la-aẓunnuka
   17:
-    arabic: يٰمُوۡسٰى
+    arabic: يَٰمُوسَىٰ
     translation: O Musa
     transliteration: yāmūsā
   18:
-    arabic: "مَسۡحُوۡرًا‏ \uFEFF\uFEFF"
+    arabic: مَسۡحُورٗا
     translation: (you are) bewitched
     transliteration: masḥūran
 ---

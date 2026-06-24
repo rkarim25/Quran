@@ -1,14 +1,14 @@
 ---
-arabic_ayat: لِّيُنۡذِرَ مَنۡ كَانَ حَيًّا وَّيَحِقَّ الۡقَوۡلُ عَلَى الۡكٰفِرِيۡنَ‏
+arabic_ayat: لِّيُنذِرَ مَن كَانَ حَيّٗا وَيَحِقَّ ٱلۡقَوۡلُ عَلَى ٱلۡكَٰفِرِينَ
 sentence_translation: to warn whoever is ˹truly˺ alive and fulfil the decree ˹of torment˺
   against the disbelievers.
 word_by_word:
   1:
-    arabic: لِّيُنۡذِرَ
+    arabic: لِّيُنذِرَ
     translation: To warn
     transliteration: liyundhira
   2:
-    arabic: مَنۡ
+    arabic: مَن
     translation: (him) who
     transliteration: man
   3:
@@ -16,15 +16,15 @@ word_by_word:
     translation: is
     transliteration: kāna
   4:
-    arabic: حَيًّا
+    arabic: حَيّٗا
     translation: alive
     transliteration: ḥayyan
   5:
-    arabic: وَّيَحِقَّ
+    arabic: وَيَحِقَّ
     translation: and may be proved true
     transliteration: wayaḥiqqa
   6:
-    arabic: الۡقَوۡلُ
+    arabic: ٱلۡقَوۡلُ
     translation: the Word
     transliteration: l-qawlu
   7:
@@ -32,7 +32,7 @@ word_by_word:
     translation: against
     transliteration: ʿalā
   8:
-    arabic: الۡكٰفِرِيۡنَ‏
+    arabic: ٱلۡكَٰفِرِينَ
     translation: the disbelievers
     transliteration: l-kāfirīna
 ---

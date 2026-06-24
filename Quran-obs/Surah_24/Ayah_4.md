@@ -1,21 +1,21 @@
 ---
-arabic_ayat: وَالَّذِيۡنَ يَرۡمُوۡنَ الۡمُحۡصَنٰتِ ثُمَّ لَمۡ يَاۡتُوۡا بِاَرۡبَعَةِ
-  شُهَدَآءَ فَاجۡلِدُوۡهُمۡ ثَمٰنِيۡنَ جَلۡدَةً وَّلَا تَقۡبَلُوۡا لَهُمۡ شَهَادَةً
-  اَبَدًا​ ۚ وَاُولٰٓٮِٕكَ هُمُ الۡفٰسِقُوۡنَ ۙ‏
+arabic_ayat: وَٱلَّذِينَ يَرۡمُونَ ٱلۡمُحۡصَنَٰتِ ثُمَّ لَمۡ يَأۡتُواْ بِأَرۡبَعَةِ
+  شُهَدَآءَ فَٱجۡلِدُوهُمۡ ثَمَٰنِينَ جَلۡدَةٗ وَلَا تَقۡبَلُواْ لَهُمۡ شَهَٰدَةً
+  أَبَدٗاۚ وَأُوْلَٰٓئِكَ هُمُ ٱلۡفَٰسِقُونَ
 sentence_translation: Those who accuse chaste women ˹of adultery˺ and fail to produce
   four witnesses, give them eighty lashes ˹each˺. And do not ever accept any testimony
   from them—for they are indeed the rebellious—
 word_by_word:
   1:
-    arabic: وَالَّذِيۡنَ
+    arabic: وَٱلَّذِينَ
     translation: And those who
     transliteration: wa-alladhīna
   2:
-    arabic: يَرۡمُوۡنَ
+    arabic: يَرۡمُونَ
     translation: accuse
     transliteration: yarmūna
   3:
-    arabic: الۡمُحۡصَنٰتِ
+    arabic: ٱلۡمُحۡصَنَٰتِ
     translation: the chaste women
     transliteration: l-muḥ'ṣanāti
   4:
@@ -27,11 +27,11 @@ word_by_word:
     translation: not
     transliteration: lam
   6:
-    arabic: يَاۡتُوۡا
+    arabic: يَأۡتُواْ
     translation: they bring
     transliteration: yatū
   7:
-    arabic: بِاَرۡبَعَةِ
+    arabic: بِأَرۡبَعَةِ
     translation: four
     transliteration: bi-arbaʿati
   8:
@@ -39,23 +39,23 @@ word_by_word:
     translation: witnesses
     transliteration: shuhadāa
   9:
-    arabic: فَاجۡلِدُوۡهُمۡ
+    arabic: فَٱجۡلِدُوهُمۡ
     translation: then flog them
     transliteration: fa-ij'lidūhum
   10:
-    arabic: ثَمٰنِيۡنَ
+    arabic: ثَمَٰنِينَ
     translation: (with) eighty
     transliteration: thamānīna
   11:
-    arabic: جَلۡدَةً
+    arabic: جَلۡدَةٗ
     translation: lashe(s)
     transliteration: jaldatan
   12:
-    arabic: وَّلَا
+    arabic: وَلَا
     translation: and (do) not
     transliteration: walā
   13:
-    arabic: تَقۡبَلُوۡا
+    arabic: تَقۡبَلُواْ
     translation: accept
     transliteration: taqbalū
   14:
@@ -63,15 +63,15 @@ word_by_word:
     translation: their
     transliteration: lahum
   15:
-    arabic: شَهَادَةً
+    arabic: شَهَٰدَةً
     translation: testimony
     transliteration: shahādatan
   16:
-    arabic: اَبَدًا​ ۚ
+    arabic: أَبَدٗاۚ
     translation: ever
     transliteration: abadan
   17:
-    arabic: وَاُولٰٓٮِٕكَ
+    arabic: وَأُوْلَٰٓئِكَ
     translation: And those
     transliteration: wa-ulāika
   18:
@@ -79,7 +79,7 @@ word_by_word:
     translation: they
     transliteration: humu
   19:
-    arabic: الۡفٰسِقُوۡنَ ۙ‏
+    arabic: ٱلۡفَٰسِقُونَ
     translation: (are) the defiantly disobedient
     transliteration: l-fāsiqūna
 ---

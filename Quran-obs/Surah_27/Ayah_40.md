@@ -1,9 +1,8 @@
 ---
-arabic_ayat: "قَالَ الَّذِىۡ عِنۡدَهٗ عِلۡمٌ مِّنَ الۡـكِتٰبِ اَنَا اٰتِيۡكَ بِهٖ\
-  \ قَبۡلَ اَنۡ يَّرۡتَدَّ اِلَيۡكَ طَرۡفُكَ​ؕ فَلَمَّا رَاٰهُ مُسۡتَقِرًّا عِنۡدَهٗ\
-  \ قَالَ هٰذَا مِنۡ فَضۡلِ رَبِّىۡ​ۖ لِيَبۡلُوَنِىۡٓ ءَاَشۡكُرُ اَمۡ اَكۡفُرُ​ؕ\
-  \ وَمَنۡ شَكَرَ فَاِنَّمَا يَشۡكُرُ لِنَفۡسِهٖ​ۚ وَمَنۡ كَفَرَ فَاِنَّ رَبِّىۡ غَنِىٌّ\
-  \ كَرِيۡمٌ‏ \uFEFF\uFEFF"
+arabic_ayat: قَالَ ٱلَّذِي عِندَهُۥ عِلۡمٞ مِّنَ ٱلۡكِتَٰبِ أَنَا۠ ءَاتِيكَ بِهِۦ
+  قَبۡلَ أَن يَرۡتَدَّ إِلَيۡكَ طَرۡفُكَۚ فَلَمَّا رَءَاهُ مُسۡتَقِرًّا عِندَهُۥ قَالَ
+  هَٰذَا مِن فَضۡلِ رَبِّي لِيَبۡلُوَنِيٓ ءَأَشۡكُرُ أَمۡ أَكۡفُرُۖ وَمَن شَكَرَ فَإِنَّمَا
+  يَشۡكُرُ لِنَفۡسِهِۦۖ وَمَن كَفَرَ فَإِنَّ رَبِّي غَنِيّٞ كَرِيمٞ
 sentence_translation: But the one who had knowledge of the Scripture said, “I can
   bring it to you in the blink of an eye.” So when Solomon saw it placed before him,
   he exclaimed, “This is by the grace of my Lord to test me whether I am grateful
@@ -15,15 +14,15 @@ word_by_word:
     translation: Said
     transliteration: qāla
   2:
-    arabic: الَّذِىۡ
+    arabic: ٱلَّذِي
     translation: one who
     transliteration: alladhī
   3:
-    arabic: عِنۡدَهٗ
+    arabic: عِندَهُۥ
     translation: with him
     transliteration: ʿindahu
   4:
-    arabic: عِلۡمٌ
+    arabic: عِلۡمٞ
     translation: (was) knowledge
     transliteration: ʿil'mun
   5:
@@ -31,19 +30,19 @@ word_by_word:
     translation: of
     transliteration: mina
   6:
-    arabic: الۡـكِتٰبِ
+    arabic: ٱلۡكِتَٰبِ
     translation: the Scripture
     transliteration: l-kitābi
   7:
-    arabic: اَنَا
+    arabic: أَنَا۠ ءَ
     translation: I
     transliteration: anā
   8:
-    arabic: اٰتِيۡكَ
+    arabic: اتِيكَ
     translation: will bring it to you
     transliteration: ātīka
   9:
-    arabic: بِهٖ
+    arabic: بِهِۦ
     translation: will bring it to you
     transliteration: bihi
   10:
@@ -51,19 +50,19 @@ word_by_word:
     translation: before
     transliteration: qabla
   11:
-    arabic: اَنۡ
+    arabic: أَن
     translation: '[that]'
     transliteration: an
   12:
-    arabic: يَّرۡتَدَّ
+    arabic: يَرۡتَدَّ
     translation: returns
     transliteration: yartadda
   13:
-    arabic: اِلَيۡكَ
+    arabic: إِلَيۡكَ
     translation: to you
     transliteration: ilayka
   14:
-    arabic: طَرۡفُكَ​ؕ
+    arabic: طَرۡفُكَۚ
     translation: your glance
     transliteration: ṭarfuka
   15:
@@ -71,7 +70,7 @@ word_by_word:
     translation: Then when
     transliteration: falammā
   16:
-    arabic: رَاٰهُ
+    arabic: رَءَاهُ
     translation: he saw it
     transliteration: raāhu
   17:
@@ -79,7 +78,7 @@ word_by_word:
     translation: placed
     transliteration: mus'taqirran
   18:
-    arabic: عِنۡدَهٗ
+    arabic: عِندَهُۥ
     translation: before him
     transliteration: ʿindahu
   19:
@@ -87,11 +86,11 @@ word_by_word:
     translation: he said
     transliteration: qāla
   20:
-    arabic: هٰذَا
+    arabic: هَٰذَا
     translation: This
     transliteration: hādhā
   21:
-    arabic: مِنۡ
+    arabic: مِن
     translation: (is) from
     transliteration: min
   22:
@@ -99,27 +98,27 @@ word_by_word:
     translation: (the) Favor
     transliteration: faḍli
   23:
-    arabic: رَبِّىۡ​ۖ
+    arabic: رَبِّي
     translation: (of) my Lord
     transliteration: rabbī
   24:
-    arabic: لِيَبۡلُوَنِىۡٓ
+    arabic: لِيَبۡلُوَنِيٓ
     translation: to test me
     transliteration: liyabluwanī
   25:
-    arabic: ءَاَشۡكُرُ
+    arabic: ءَأَشۡكُرُ
     translation: whether I am grateful
     transliteration: a-ashkuru
   26:
-    arabic: اَمۡ
+    arabic: أَمۡ
     translation: or
     transliteration: am
   27:
-    arabic: اَكۡفُرُ​ؕ
+    arabic: أَكۡفُرُۖ
     translation: I am ungrateful
     transliteration: akfuru
   28:
-    arabic: وَمَنۡ
+    arabic: وَمَن
     translation: And whoever
     transliteration: waman
   29:
@@ -127,7 +126,7 @@ word_by_word:
     translation: (is) grateful
     transliteration: shakara
   30:
-    arabic: فَاِنَّمَا
+    arabic: فَإِنَّمَا
     translation: then only
     transliteration: fa-innamā
   31:
@@ -135,11 +134,11 @@ word_by_word:
     translation: he is grateful
     transliteration: yashkuru
   32:
-    arabic: لِنَفۡسِهٖ​ۚ
+    arabic: لِنَفۡسِهِۦۖ
     translation: for his own soul
     transliteration: linafsihi
   33:
-    arabic: وَمَنۡ
+    arabic: وَمَن
     translation: And whoever
     transliteration: waman
   34:
@@ -147,19 +146,19 @@ word_by_word:
     translation: (is) ungrateful
     transliteration: kafara
   35:
-    arabic: فَاِنَّ
+    arabic: فَإِنَّ
     translation: then indeed
     transliteration: fa-inna
   36:
-    arabic: رَبِّىۡ
+    arabic: رَبِّي
     translation: my Lord
     transliteration: rabbī
   37:
-    arabic: غَنِىٌّ
+    arabic: غَنِيّٞ
     translation: (is) Self-sufficient
     transliteration: ghaniyyun
   38:
-    arabic: "كَرِيۡمٌ‏ \uFEFF\uFEFF"
+    arabic: كَرِيمٞ
     translation: Noble
     transliteration: karīmun
 ---

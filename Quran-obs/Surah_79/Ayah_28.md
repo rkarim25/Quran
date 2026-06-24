@@ -1,5 +1,5 @@
 ---
-arabic_ayat: رَفَعَ سَمۡكَهَا فَسَوَّٮهَا ۙ‏
+arabic_ayat: رَفَعَ سَمۡكَهَا فَسَوَّىٰهَا
 sentence_translation: raising it high and forming it flawlessly.
 word_by_word:
   1:
@@ -11,7 +11,7 @@ word_by_word:
     translation: its ceiling
     transliteration: samkahā
   3:
-    arabic: فَسَوَّٮهَا ۙ‏
+    arabic: فَسَوَّىٰهَا
     translation: and proportioned it
     transliteration: fasawwāhā
 ---

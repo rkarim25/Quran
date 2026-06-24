@@ -1,11 +1,11 @@
 ---
-arabic_ayat: كُلًّا نُّمِدُّ هٰٓؤُلَاۤءِ وَهٰٓؤُلَاۤءِ مِنۡ عَطَآءِ رَبِّكَ​ ؕ وَمَا
-  كَانَ عَطَآءُ رَبِّكَ مَحۡظُوۡرًا‏
+arabic_ayat: كُلّٗا نُّمِدُّ هَٰٓؤُلَآءِ وَهَٰٓؤُلَآءِ مِنۡ عَطَآءِ رَبِّكَۚ وَمَا
+  كَانَ عَطَآءُ رَبِّكَ مَحۡظُورًا
 sentence_translation: We provide both the former and the latter from the bounty of
   your Lord. And the bounty of your Lord can never be withheld.
 word_by_word:
   1:
-    arabic: كُلًّا
+    arabic: كُلّٗا
     translation: (To) each
     transliteration: kullan
   2:
@@ -13,11 +13,11 @@ word_by_word:
     translation: We extend
     transliteration: numiddu
   3:
-    arabic: هٰٓؤُلَاۤءِ
+    arabic: هَٰٓؤُلَآءِ
     translation: (to) these
     transliteration: hāulāi
   4:
-    arabic: وَهٰٓؤُلَاۤءِ
+    arabic: وَهَٰٓؤُلَآءِ
     translation: and (to) these
     transliteration: wahāulāi
   5:
@@ -29,7 +29,7 @@ word_by_word:
     translation: (the) gift
     transliteration: ʿaṭāi
   7:
-    arabic: رَبِّكَ​ ؕ
+    arabic: رَبِّكَۚ
     translation: (of) your Lord
     transliteration: rabbika
   8:
@@ -49,7 +49,7 @@ word_by_word:
     translation: (of) your Lord
     transliteration: rabbika
   12:
-    arabic: مَحۡظُوۡرًا‏
+    arabic: مَحۡظُورًا
     translation: restricted
     transliteration: maḥẓūran
 ---

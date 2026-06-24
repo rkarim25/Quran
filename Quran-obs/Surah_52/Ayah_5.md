@@ -1,13 +1,13 @@
 ---
-arabic_ayat: وَالسَّقۡفِ الۡمَرۡفُوۡعِۙ‏
+arabic_ayat: وَٱلسَّقۡفِ ٱلۡمَرۡفُوعِ
 sentence_translation: And by the canopy raised ˹high˺!
 word_by_word:
   1:
-    arabic: وَالسَّقۡفِ
+    arabic: وَٱلسَّقۡفِ
     translation: By the roof
     transliteration: wal-saqfi
   2:
-    arabic: الۡمَرۡفُوۡعِۙ‏
+    arabic: ٱلۡمَرۡفُوعِ
     translation: raised high
     transliteration: l-marfūʿi
 ---

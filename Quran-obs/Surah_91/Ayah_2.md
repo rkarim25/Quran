@@ -1,17 +1,17 @@
 ---
-arabic_ayat: وَالۡقَمَرِ اِذَا تَلٰٮهَا  ۙ‏
+arabic_ayat: وَٱلۡقَمَرِ إِذَا تَلَىٰهَا
 sentence_translation: and the moon as it follows it,
 word_by_word:
   1:
-    arabic: وَالۡقَمَرِ
+    arabic: وَٱلۡقَمَرِ
     translation: And the moon
     transliteration: wal-qamari
   2:
-    arabic: اِذَا
+    arabic: إِذَا
     translation: when
     transliteration: idhā
   3:
-    arabic: تَلٰٮهَا  ۙ‏
+    arabic: تَلَىٰهَا
     translation: it follows it
     transliteration: talāhā
 ---

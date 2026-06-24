@@ -1,25 +1,24 @@
 ---
-arabic_ayat: اَمَّنۡ يُّجِيۡبُ الۡمُضۡطَرَّ اِذَا دَعَاهُ وَيَكۡشِفُ السُّوۡٓءَ وَيَجۡعَلُكُمۡ
-  خُلَفَآءَ الۡاَرۡضِ​ ؕ ءَاِلٰـهٌ مَّعَ اللّٰهِ ​ؕ قَلِيۡلًا مَّا تَذَكَّرُوۡنَ
-  ؕ‏
+arabic_ayat: أَمَّن يُجِيبُ ٱلۡمُضۡطَرَّ إِذَا دَعَاهُ وَيَكۡشِفُ ٱلسُّوٓءَ وَيَجۡعَلُكُمۡ
+  خُلَفَآءَ ٱلۡأَرۡضِۗ أَءِلَٰهٞ مَّعَ ٱللَّهِۚ قَلِيلٗا مَّا تَذَكَّرُونَ
 sentence_translation: Or ˹ask them,˺ “Who responds to the distressed when they cry
   to Him, relieving ˹their˺ affliction, and ˹Who˺ makes you successors in the earth?
   Is it another god besides Allah? Yet you are hardly mindful!”
 word_by_word:
   1:
-    arabic: اَمَّنۡ
+    arabic: أَمَّن
     translation: Or Who
     transliteration: amman
   2:
-    arabic: يُّجِيۡبُ
+    arabic: يُجِيبُ
     translation: responds
     transliteration: yujību
   3:
-    arabic: الۡمُضۡطَرَّ
+    arabic: ٱلۡمُضۡطَرَّ
     translation: (to) the distressed one
     transliteration: l-muḍ'ṭara
   4:
-    arabic: اِذَا
+    arabic: إِذَا
     translation: when
     transliteration: idhā
   5:
@@ -31,7 +30,7 @@ word_by_word:
     translation: and He removes
     transliteration: wayakshifu
   7:
-    arabic: السُّوۡٓءَ
+    arabic: ٱلسُّوٓءَ
     translation: the evil
     transliteration: l-sūa
   8:
@@ -43,11 +42,11 @@ word_by_word:
     translation: inheritors
     transliteration: khulafāa
   10:
-    arabic: الۡاَرۡضِ​ ؕ
+    arabic: ٱلۡأَرۡضِۗ أَ
     translation: (of) the earth
     transliteration: l-arḍi
   11:
-    arabic: ءَاِلٰـهٌ
+    arabic: ءِلَٰهٞ
     translation: Is there any god
     transliteration: a-ilāhun
   12:
@@ -55,11 +54,11 @@ word_by_word:
     translation: with
     transliteration: maʿa
   13:
-    arabic: اللّٰهِ ​ؕ
+    arabic: ٱللَّهِۚ
     translation: Allah
     transliteration: l-lahi
   14:
-    arabic: قَلِيۡلًا
+    arabic: قَلِيلٗا
     translation: Little
     transliteration: qalīlan
   15:
@@ -67,7 +66,7 @@ word_by_word:
     translation: (is) what
     transliteration: mā
   16:
-    arabic: تَذَكَّرُوۡنَ ؕ‏
+    arabic: تَذَكَّرُونَ
     translation: you remember
     transliteration: tadhakkarūna
 ---

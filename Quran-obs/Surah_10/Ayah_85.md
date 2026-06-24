@@ -1,11 +1,11 @@
 ---
-arabic_ayat: فَقَالُوۡا عَلَى اللّٰهِ تَوَكَّلۡنَا​ ۚ رَبَّنَا لَا تَجۡعَلۡنَا فِتۡنَةً
-  لِّـلۡقَوۡمِ الظّٰلِمِيۡنَۙ‏
+arabic_ayat: فَقَالُواْ عَلَى ٱللَّهِ تَوَكَّلۡنَا رَبَّنَا لَا تَجۡعَلۡنَا فِتۡنَةٗ
+  لِّلۡقَوۡمِ ٱلظَّٰلِمِينَ
 sentence_translation: They replied, “In Allah we trust. Our Lord! Do not subject us
   to the persecution of the oppressive people,
 word_by_word:
   1:
-    arabic: فَقَالُوۡا
+    arabic: فَقَالُواْ
     translation: Then they said
     transliteration: faqālū
   2:
@@ -13,11 +13,11 @@ word_by_word:
     translation: Upon
     transliteration: ʿalā
   3:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   4:
-    arabic: تَوَكَّلۡنَا​ ۚ
+    arabic: تَوَكَّلۡنَا
     translation: we put our trust
     transliteration: tawakkalnā
   5:
@@ -33,15 +33,15 @@ word_by_word:
     translation: make us
     transliteration: tajʿalnā
   8:
-    arabic: فِتۡنَةً
+    arabic: فِتۡنَةٗ
     translation: a trial
     transliteration: fit'natan
   9:
-    arabic: لِّـلۡقَوۡمِ
+    arabic: لِّلۡقَوۡمِ
     translation: 'for the people '
     transliteration: lil'qawmi
   10:
-    arabic: الظّٰلِمِيۡنَۙ‏
+    arabic: ٱلظَّٰلِمِينَ
     translation: the wrongdoers
     transliteration: l-ẓālimīna
 ---

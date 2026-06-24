@@ -1,23 +1,23 @@
 ---
-arabic_ayat: يٰۤـاَيُّهَا الَّذِيۡنَ اٰمَنُوۡا خُذُوۡا حِذۡرَكُمۡ فَانْفِرُوۡا ثُبَاتٍ
-  اَوِ انْفِرُوۡا جَمِيۡعًا‏
+arabic_ayat: يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُواْ خُذُواْ حِذۡرَكُمۡ فَٱنفِرُواْ ثُبَاتٍ
+  أَوِ ٱنفِرُواْ جَمِيعٗا
 sentence_translation: O believers! Take your precautions and go forth either in groups
   or together.
 word_by_word:
   1:
-    arabic: يٰۤـاَيُّهَا
+    arabic: يَٰٓأَيُّهَا
     translation: O you
     transliteration: yāayyuhā
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ ءَ
     translation: who
     transliteration: alladhīna
   3:
-    arabic: اٰمَنُوۡا
+    arabic: امَنُواْ
     translation: believe[d]
     transliteration: āmanū
   4:
-    arabic: خُذُوۡا
+    arabic: خُذُواْ
     translation: Take
     transliteration: khudhū
   5:
@@ -25,7 +25,7 @@ word_by_word:
     translation: your precautions
     transliteration: ḥidh'rakum
   6:
-    arabic: فَانْفِرُوۡا
+    arabic: فَٱنفِرُواْ
     translation: and advance
     transliteration: fa-infirū
   7:
@@ -33,15 +33,15 @@ word_by_word:
     translation: (in) groups
     transliteration: thubātin
   8:
-    arabic: اَوِ
+    arabic: أَوِ
     translation: or
     transliteration: awi
   9:
-    arabic: انْفِرُوۡا
+    arabic: ٱنفِرُواْ
     translation: advance
     transliteration: infirū
   10:
-    arabic: جَمِيۡعًا‏
+    arabic: جَمِيعٗا
     translation: all together
     transliteration: jamīʿan
 ---

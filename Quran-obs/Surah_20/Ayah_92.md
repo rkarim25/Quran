@@ -1,5 +1,5 @@
 ---
-arabic_ayat: قَالَ يٰهٰرُوۡنُ مَا مَنَعَكَ اِذۡ رَاَيۡتَهُمۡ ضَلُّوۡٓا ۙ‏
+arabic_ayat: قَالَ يَٰهَٰرُونُ مَا مَنَعَكَ إِذۡ رَأَيۡتَهُمۡ ضَلُّوٓاْ
 sentence_translation: Moses scolded ˹his brother˺, “O Aaron! What prevented you, when
   you saw them going astray,
 word_by_word:
@@ -8,7 +8,7 @@ word_by_word:
     translation: He said
     transliteration: qāla
   2:
-    arabic: يٰهٰرُوۡنُ
+    arabic: يَٰهَٰرُونُ
     translation: O Harun
     transliteration: yāhārūnu
   3:
@@ -20,15 +20,15 @@ word_by_word:
     translation: prevented you
     transliteration: manaʿaka
   5:
-    arabic: اِذۡ
+    arabic: إِذۡ
     translation: when
     transliteration: idh
   6:
-    arabic: رَاَيۡتَهُمۡ
+    arabic: رَأَيۡتَهُمۡ
     translation: you saw them
     transliteration: ra-aytahum
   7:
-    arabic: ضَلُّوۡٓا ۙ‏
+    arabic: ضَلُّوٓاْ
     translation: going astray
     transliteration: ḍallū
 ---

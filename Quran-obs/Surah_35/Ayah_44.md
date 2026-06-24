@@ -1,31 +1,31 @@
 ---
-arabic_ayat: "اَوَلَمۡ يَسِيۡرُوۡا فِى الۡاَرۡضِ فَيَنۡظُرُوۡا كَيۡفَ كَانَ عَاقِبَةُ\
-  \ الَّذِيۡنَ مِنۡ قَبۡلِهِمۡ وَكَانُوۡۤا اَشَدَّ مِنۡهُمۡ قُوَّةً ؕ وَمَا كَانَ\
-  \ اللّٰهُ لِيُعۡجِزَهٗ مِنۡ شَىۡءٍ فِى السَّمٰوٰتِ وَلَا فِى الۡاَرۡضِ ؕ اِنَّهٗ\
-  \ كَانَ عَلِيۡمًا قَدِيۡرًا‏ \uFEFF\uFEFF"
+arabic_ayat: أَوَلَمۡ يَسِيرُواْ فِي ٱلۡأَرۡضِ فَيَنظُرُواْ كَيۡفَ كَانَ عَٰقِبَةُ
+  ٱلَّذِينَ مِن قَبۡلِهِمۡ وَكَانُوٓاْ أَشَدَّ مِنۡهُمۡ قُوَّةٗۚ وَمَا كَانَ ٱللَّهُ
+  لِيُعۡجِزَهُۥ مِن شَيۡءٖ فِي ٱلسَّمَٰوَٰتِ وَلَا فِي ٱلۡأَرۡضِۚ إِنَّهُۥ كَانَ عَلِيمٗا
+  قَدِيرٗا
 sentence_translation: Have they not travelled throughout the land to see what was
   the end of those ˹destroyed˺ before them? They were far superior in might. But there
   is nothing that can escape Allah in the heavens or the earth. He is certainly All-Knowing,
   Most Capable.
 word_by_word:
   1:
-    arabic: اَوَلَمۡ
+    arabic: أَوَلَمۡ
     translation: Have they not
     transliteration: awalam
   2:
-    arabic: يَسِيۡرُوۡا
+    arabic: يَسِيرُواْ
     translation: traveled
     transliteration: yasīrū
   3:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   4:
-    arabic: الۡاَرۡضِ
+    arabic: ٱلۡأَرۡضِ
     translation: the land
     transliteration: l-arḍi
   5:
-    arabic: فَيَنۡظُرُوۡا
+    arabic: فَيَنظُرُواْ
     translation: and seen
     transliteration: fayanẓurū
   6:
@@ -37,15 +37,15 @@ word_by_word:
     translation: was
     transliteration: kāna
   8:
-    arabic: عَاقِبَةُ
+    arabic: عَٰقِبَةُ
     translation: (the) end
     transliteration: ʿāqibatu
   9:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: (of) those who
     transliteration: alladhīna
   10:
-    arabic: مِنۡ
+    arabic: مِن
     translation: (were) before them
     transliteration: min
   11:
@@ -53,11 +53,11 @@ word_by_word:
     translation: (were) before them
     transliteration: qablihim
   12:
-    arabic: وَكَانُوۡۤا
+    arabic: وَكَانُوٓاْ
     translation: And they were
     transliteration: wakānū
   13:
-    arabic: اَشَدَّ
+    arabic: أَشَدَّ
     translation: stronger
     transliteration: ashadda
   14:
@@ -65,7 +65,7 @@ word_by_word:
     translation: than them
     transliteration: min'hum
   15:
-    arabic: قُوَّةً ؕ
+    arabic: قُوَّةٗۚ
     translation: (in) power
     transliteration: quwwatan
   16:
@@ -77,27 +77,27 @@ word_by_word:
     translation: is
     transliteration: kāna
   18:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   19:
-    arabic: لِيُعۡجِزَهٗ
+    arabic: لِيُعۡجِزَهُۥ
     translation: that can escape (from) Him
     transliteration: liyuʿ'jizahu
   20:
-    arabic: مِنۡ
+    arabic: مِن
     translation: any
     transliteration: min
   21:
-    arabic: شَىۡءٍ
+    arabic: شَيۡءٖ
     translation: thing
     transliteration: shayin
   22:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   23:
-    arabic: السَّمٰوٰتِ
+    arabic: ٱلسَّمَٰوَٰتِ
     translation: the heavens
     transliteration: l-samāwāti
   24:
@@ -105,15 +105,15 @@ word_by_word:
     translation: and not
     transliteration: walā
   25:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   26:
-    arabic: الۡاَرۡضِ ؕ
+    arabic: ٱلۡأَرۡضِۚ
     translation: the earth
     transliteration: l-arḍi
   27:
-    arabic: اِنَّهٗ
+    arabic: إِنَّهُۥ
     translation: Indeed, He
     transliteration: innahu
   28:
@@ -121,11 +121,11 @@ word_by_word:
     translation: is
     transliteration: kāna
   29:
-    arabic: عَلِيۡمًا
+    arabic: عَلِيمٗا
     translation: All-Knower
     transliteration: ʿalīman
   30:
-    arabic: "قَدِيۡرًا‏ \uFEFF\uFEFF"
+    arabic: قَدِيرٗا
     translation: All-Powerful
     transliteration: qadīran
 ---

@@ -1,5 +1,5 @@
 ---
-arabic_ayat: فَجَعَلَهُمۡ كَعَصۡفٍ مَّاۡكُوۡلٍ‏
+arabic_ayat: فَجَعَلَهُمۡ كَعَصۡفٖ مَّأۡكُولِۭ
 sentence_translation: leaving them like chewed up straw. 
 word_by_word:
   1:
@@ -7,11 +7,11 @@ word_by_word:
     translation: Then He made them
     transliteration: fajaʿalahum
   2:
-    arabic: كَعَصۡفٍ
+    arabic: كَعَصۡفٖ
     translation: like straw
     transliteration: kaʿaṣfin
   3:
-    arabic: مَّاۡكُوۡلٍ‏
+    arabic: مَّأۡكُولِۭ
     translation: eaten up
     transliteration: makūlin
 ---

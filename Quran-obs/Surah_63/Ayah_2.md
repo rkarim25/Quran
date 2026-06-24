@@ -1,39 +1,39 @@
 ---
-arabic_ayat: اِتَّخَذُوۡۤا اَيۡمَانَهُمۡ جُنَّةً فَصَدُّوۡا عَنۡ سَبِيۡلِ اللّٰهِ​ؕ
-  اِنَّهُمۡ سَآءَ مَا كَانُوۡا يَعۡمَلُوۡنَ‏
+arabic_ayat: ٱتَّخَذُوٓاْ أَيۡمَٰنَهُمۡ جُنَّةٗ فَصَدُّواْ عَن سَبِيلِ ٱللَّهِۚ إِنَّهُمۡ
+  سَآءَ مَا كَانُواْ يَعۡمَلُونَ
 sentence_translation: They have made their ˹false˺ oaths as a shield, hindering ˹others˺
   from the Way of Allah. Evil indeed is what they do!
 word_by_word:
   1:
-    arabic: اِتَّخَذُوۡۤا
+    arabic: ٱتَّخَذُوٓاْ
     translation: They take
     transliteration: ittakhadhū
   2:
-    arabic: اَيۡمَانَهُمۡ
+    arabic: أَيۡمَٰنَهُمۡ
     translation: their oaths
     transliteration: aymānahum
   3:
-    arabic: جُنَّةً
+    arabic: جُنَّةٗ
     translation: (as) a cover
     transliteration: junnatan
   4:
-    arabic: فَصَدُّوۡا
+    arabic: فَصَدُّواْ
     translation: so they turn away
     transliteration: faṣaddū
   5:
-    arabic: عَنۡ
+    arabic: عَن
     translation: from
     transliteration: ʿan
   6:
-    arabic: سَبِيۡلِ
+    arabic: سَبِيلِ
     translation: (the) Way
     transliteration: sabīli
   7:
-    arabic: اللّٰهِ​ؕ
+    arabic: ٱللَّهِۚ
     translation: (of) Allah
     transliteration: l-lahi
   8:
-    arabic: اِنَّهُمۡ
+    arabic: إِنَّهُمۡ
     translation: Indeed, [they]
     transliteration: innahum
   9:
@@ -45,11 +45,11 @@ word_by_word:
     translation: what
     transliteration: mā
   11:
-    arabic: كَانُوۡا
+    arabic: كَانُواْ
     translation: they used to
     transliteration: kānū
   12:
-    arabic: يَعۡمَلُوۡنَ‏
+    arabic: يَعۡمَلُونَ
     translation: do
     transliteration: yaʿmalūna
 ---

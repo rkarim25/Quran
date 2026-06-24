@@ -1,31 +1,31 @@
 ---
-arabic_ayat: "اَفَحَسِبۡتُمۡ اَنَّمَا خَلَقۡنٰكُمۡ عَبَثًا وَّاَنَّكُمۡ اِلَيۡنَا\
-  \ لَا تُرۡجَعُوۡنَ‏ \uFEFF\uFEFF"
+arabic_ayat: أَفَحَسِبۡتُمۡ أَنَّمَا خَلَقۡنَٰكُمۡ عَبَثٗا وَأَنَّكُمۡ إِلَيۡنَا لَا
+  تُرۡجَعُونَ
 sentence_translation: Did you then think that We had created you without purpose,
   and that you would never be returned to Us?”
 word_by_word:
   1:
-    arabic: اَفَحَسِبۡتُمۡ
+    arabic: أَفَحَسِبۡتُمۡ
     translation: Then did you think
     transliteration: afaḥasib'tum
   2:
-    arabic: اَنَّمَا
+    arabic: أَنَّمَا
     translation: that
     transliteration: annamā
   3:
-    arabic: خَلَقۡنٰكُمۡ
+    arabic: خَلَقۡنَٰكُمۡ
     translation: We created you
     transliteration: khalaqnākum
   4:
-    arabic: عَبَثًا
+    arabic: عَبَثٗا
     translation: uselessly
     transliteration: ʿabathan
   5:
-    arabic: وَّاَنَّكُمۡ
+    arabic: وَأَنَّكُمۡ
     translation: and that you
     transliteration: wa-annakum
   6:
-    arabic: اِلَيۡنَا
+    arabic: إِلَيۡنَا
     translation: to Us
     transliteration: ilaynā
   7:
@@ -33,7 +33,7 @@ word_by_word:
     translation: not
     transliteration: lā
   8:
-    arabic: "تُرۡجَعُوۡنَ‏ \uFEFF\uFEFF"
+    arabic: تُرۡجَعُونَ
     translation: will be returned
     transliteration: tur'jaʿūna
 ---

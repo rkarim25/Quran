@@ -1,20 +1,20 @@
 ---
-arabic_ayat: وَاَطِيۡعُوا اللّٰهَ وَرَسُوۡلَهٗ وَلَا تَنَازَعُوۡا فَتَفۡشَلُوۡا وَتَذۡهَبَ
-  رِيۡحُكُمۡ​ وَاصۡبِرُوۡا​ ؕ اِنَّ اللّٰهَ مَعَ الصّٰبِرِيۡنَ​ۚ‏
+arabic_ayat: وَأَطِيعُواْ ٱللَّهَ وَرَسُولَهُۥ وَلَا تَنَٰزَعُواْ فَتَفۡشَلُواْ وَتَذۡهَبَ
+  رِيحُكُمۡۖ وَٱصۡبِرُوٓاْۚ إِنَّ ٱللَّهَ مَعَ ٱلصَّٰبِرِينَ
 sentence_translation: Obey Allah and His Messenger and do not dispute with one another,
   or you would be discouraged and weakened. Persevere! Surely Allah is with those
   who persevere.
 word_by_word:
   1:
-    arabic: وَاَطِيۡعُوا
+    arabic: وَأَطِيعُواْ
     translation: And obey
     transliteration: wa-aṭīʿū
   2:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   3:
-    arabic: وَرَسُوۡلَهٗ
+    arabic: وَرَسُولَهُۥ
     translation: and His Messenger
     transliteration: warasūlahu
   4:
@@ -22,11 +22,11 @@ word_by_word:
     translation: and (do) not
     transliteration: walā
   5:
-    arabic: تَنَازَعُوۡا
+    arabic: تَنَٰزَعُواْ
     translation: dispute
     transliteration: tanāzaʿū
   6:
-    arabic: فَتَفۡشَلُوۡا
+    arabic: فَتَفۡشَلُواْ
     translation: lest you lose courage
     transliteration: fatafshalū
   7:
@@ -34,19 +34,19 @@ word_by_word:
     translation: and (would) depart
     transliteration: watadhhaba
   8:
-    arabic: رِيۡحُكُمۡ​
+    arabic: رِيحُكُمۡۖ
     translation: your strength
     transliteration: rīḥukum
   9:
-    arabic: وَاصۡبِرُوۡا​ ؕ
+    arabic: وَٱصۡبِرُوٓاْۚ
     translation: and be patient
     transliteration: wa-iṣ'birū
   10:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   11:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   12:
@@ -54,7 +54,7 @@ word_by_word:
     translation: (is) with
     transliteration: maʿa
   13:
-    arabic: الصّٰبِرِيۡنَ​ۚ‏
+    arabic: ٱلصَّٰبِرِينَ
     translation: the patient ones
     transliteration: l-ṣābirīna
 ---

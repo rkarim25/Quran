@@ -1,6 +1,6 @@
 ---
-arabic_ayat: قَالَ اِنَّمَا الۡعِلۡمُ عِنۡدَ اللّٰهِ ​ۖ وَاُبَلِّغُكُمۡ مَّاۤ اُرۡسِلۡتُ
-  بِهٖ وَلٰـكِنِّىۡۤ اَرٰٮكُمۡ قَوۡمًا تَجۡهَلُوۡنَ‏
+arabic_ayat: قَالَ إِنَّمَا ٱلۡعِلۡمُ عِندَ ٱللَّهِ وَأُبَلِّغُكُم مَّآ أُرۡسِلۡتُ
+  بِهِۦ وَلَٰكِنِّيٓ أَرَىٰكُمۡ قَوۡمٗا تَجۡهَلُونَ
 sentence_translation: He responded, “The knowledge ˹of its time˺ is only with Allah.
   I only convey to you what I have been sent with. But I can see that you are a people
   acting ignorantly.”
@@ -10,51 +10,51 @@ word_by_word:
     translation: He said
     transliteration: qāla
   2:
-    arabic: اِنَّمَا
+    arabic: إِنَّمَا
     translation: Only
     transliteration: innamā
   3:
-    arabic: الۡعِلۡمُ
+    arabic: ٱلۡعِلۡمُ
     translation: the knowledge
     transliteration: l-ʿil'mu
   4:
-    arabic: عِنۡدَ
+    arabic: عِندَ
     translation: (is) with Allah
     transliteration: ʿinda
   5:
-    arabic: اللّٰهِ ​ۖ
+    arabic: ٱللَّهِ
     translation: (is) with Allah
     transliteration: l-lahi
   6:
-    arabic: وَاُبَلِّغُكُمۡ
+    arabic: وَأُبَلِّغُكُم
     translation: and I convey to you
     transliteration: wa-uballighukum
   7:
-    arabic: مَّاۤ
+    arabic: مَّآ
     translation: what
     transliteration: mā
   8:
-    arabic: اُرۡسِلۡتُ
+    arabic: أُرۡسِلۡتُ
     translation: I am sent
     transliteration: ur'sil'tu
   9:
-    arabic: بِهٖ
+    arabic: بِهِۦ
     translation: with it
     transliteration: bihi
   10:
-    arabic: وَلٰـكِنِّىۡۤ
+    arabic: وَلَٰكِنِّيٓ
     translation: but
     transliteration: walākinnī
   11:
-    arabic: اَرٰٮكُمۡ
+    arabic: أَرَىٰكُمۡ
     translation: I see you
     transliteration: arākum
   12:
-    arabic: قَوۡمًا
+    arabic: قَوۡمٗا
     translation: a people
     transliteration: qawman
   13:
-    arabic: تَجۡهَلُوۡنَ‏
+    arabic: تَجۡهَلُونَ
     translation: ignorant
     transliteration: tajhalūna
 ---

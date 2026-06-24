@@ -1,23 +1,22 @@
 ---
-arabic_ayat: "اُحۡشُرُوا الَّذِيۡنَ ظَلَمُوۡا وَاَزۡوَاجَهُمۡ وَمَا كَانُوۡا يَعۡبُدُوۡنَۙ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: ۞ ٱحۡشُرُواْ ٱلَّذِينَ ظَلَمُواْ وَأَزۡوَٰجَهُمۡ وَمَا كَانُواْ يَعۡبُدُونَ
 sentence_translation: ˹Allah will say to the angels,˺ “Gather ˹all˺ the wrongdoers
   along with their peers, and whatever they used to worship
 word_by_word:
   1:
-    arabic: ۞ اُحۡشُرُوا
+    arabic: ۞ ٱحۡشُرُواْ
     translation: Gather
     transliteration: uḥ'shurū
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   3:
-    arabic: ظَلَمُوۡا
+    arabic: ظَلَمُواْ
     translation: wronged
     transliteration: ẓalamū
   4:
-    arabic: وَاَزۡوَاجَهُمۡ
+    arabic: وَأَزۡوَٰجَهُمۡ
     translation: and their kinds
     transliteration: wa-azwājahum
   5:
@@ -25,11 +24,11 @@ word_by_word:
     translation: and what
     transliteration: wamā
   6:
-    arabic: كَانُوۡا
+    arabic: كَانُواْ
     translation: they used (to)
     transliteration: kānū
   7:
-    arabic: "يَعۡبُدُوۡنَۙ‏ \uFEFF\uFEFF"
+    arabic: يَعۡبُدُونَ
     translation: worship
     transliteration: yaʿbudūna
 ---

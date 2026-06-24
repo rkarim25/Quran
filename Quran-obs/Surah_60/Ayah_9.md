@@ -1,21 +1,21 @@
 ---
-arabic_ayat: اِنَّمَا يَنۡهٰٮكُمُ اللّٰهُ عَنِ الَّذِيۡنَ قَاتَلُوۡكُمۡ فِى الدِّيۡنِ
-  وَاَخۡرَجُوۡكُمۡ مِّنۡ دِيَارِكُمۡ وَظَاهَرُوۡا عَلٰٓى اِخۡرَاجِكُمۡ اَنۡ تَوَلَّوۡهُمۡ​ۚ
-  وَمَنۡ يَّتَوَلَّهُمۡ فَاُولٰٓٮِٕكَ هُمُ الظّٰلِمُوۡنَ‏
+arabic_ayat: إِنَّمَا يَنۡهَىٰكُمُ ٱللَّهُ عَنِ ٱلَّذِينَ قَٰتَلُوكُمۡ فِي ٱلدِّينِ
+  وَأَخۡرَجُوكُم مِّن دِيَٰرِكُمۡ وَظَٰهَرُواْ عَلَىٰٓ إِخۡرَاجِكُمۡ أَن تَوَلَّوۡهُمۡۚ
+  وَمَن يَتَوَلَّهُمۡ فَأُوْلَٰٓئِكَ هُمُ ٱلظَّٰلِمُونَ
 sentence_translation: Allah only forbids you from befriending those who have fought
   you for ˹your˺ faith, driven you out of your homes, or supported ˹others˺ in doing
   so. And whoever takes them as friends, then it is they who are the ˹true˺ wrongdoers.
 word_by_word:
   1:
-    arabic: اِنَّمَا
+    arabic: إِنَّمَا
     translation: Only
     transliteration: innamā
   2:
-    arabic: يَنۡهٰٮكُمُ
+    arabic: يَنۡهَىٰكُمُ
     translation: forbids you
     transliteration: yanhākumu
   3:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   4:
@@ -23,63 +23,63 @@ word_by_word:
     translation: from
     transliteration: ʿani
   5:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   6:
-    arabic: قَاتَلُوۡكُمۡ
+    arabic: قَٰتَلُوكُمۡ
     translation: fight you
     transliteration: qātalūkum
   7:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   8:
-    arabic: الدِّيۡنِ
+    arabic: ٱلدِّينِ
     translation: the religion
     transliteration: l-dīni
   9:
-    arabic: وَاَخۡرَجُوۡكُمۡ
+    arabic: وَأَخۡرَجُوكُم
     translation: and drive you out
     transliteration: wa-akhrajūkum
   10:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: of
     transliteration: min
   11:
-    arabic: دِيَارِكُمۡ
+    arabic: دِيَٰرِكُمۡ
     translation: your homes
     transliteration: diyārikum
   12:
-    arabic: وَظَاهَرُوۡا
+    arabic: وَظَٰهَرُواْ
     translation: and support
     transliteration: waẓāharū
   13:
-    arabic: عَلٰٓى
+    arabic: عَلَىٰٓ
     translation: in
     transliteration: ʿalā
   14:
-    arabic: اِخۡرَاجِكُمۡ
+    arabic: إِخۡرَاجِكُمۡ
     translation: your expulsion
     transliteration: ikh'rājikum
   15:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that
     transliteration: an
   16:
-    arabic: تَوَلَّوۡهُمۡ​ۚ
+    arabic: تَوَلَّوۡهُمۡۚ
     translation: you make them allies
     transliteration: tawallawhum
   17:
-    arabic: وَمَنۡ
+    arabic: وَمَن
     translation: And whoever
     transliteration: waman
   18:
-    arabic: يَّتَوَلَّهُمۡ
+    arabic: يَتَوَلَّهُمۡ
     translation: makes them allies
     transliteration: yatawallahum
   19:
-    arabic: فَاُولٰٓٮِٕكَ
+    arabic: فَأُوْلَٰٓئِكَ
     translation: then those
     transliteration: fa-ulāika
   20:
@@ -87,7 +87,7 @@ word_by_word:
     translation: '[they]'
     transliteration: humu
   21:
-    arabic: الظّٰلِمُوۡنَ‏
+    arabic: ٱلظَّٰلِمُونَ
     translation: (are) the wrongdoers
     transliteration: l-ẓālimūna
 ---

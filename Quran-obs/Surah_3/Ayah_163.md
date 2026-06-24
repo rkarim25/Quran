@@ -1,5 +1,5 @@
 ---
-arabic_ayat: هُمۡ دَرَجٰتٌ عِنۡدَ اللّٰهِ ​ؕ وَاللّٰهُ بَصِيۡرٌۢ بِمَا يَعۡمَلُوۡنَ‏
+arabic_ayat: هُمۡ دَرَجَٰتٌ عِندَ ٱللَّهِۗ وَٱللَّهُ بَصِيرُۢ بِمَا يَعۡمَلُونَ
 sentence_translation: They ˹each˺ have varying degrees in the sight of Allah. And
   Allah is All-Seeing of what they do.
 word_by_word:
@@ -8,23 +8,23 @@ word_by_word:
     translation: They
     transliteration: hum
   2:
-    arabic: دَرَجٰتٌ
+    arabic: دَرَجَٰتٌ
     translation: (are in varying) degrees
     transliteration: darajātun
   3:
-    arabic: عِنۡدَ
+    arabic: عِندَ
     translation: near
     transliteration: ʿinda
   4:
-    arabic: اللّٰهِ ​ؕ
+    arabic: ٱللَّهِۗ
     translation: Allah
     transliteration: l-lahi
   5:
-    arabic: وَاللّٰهُ
+    arabic: وَٱللَّهُ
     translation: and Allah
     transliteration: wal-lahu
   6:
-    arabic: بَصِيۡرٌۢ
+    arabic: بَصِيرُۢ
     translation: (is) All-Seer
     transliteration: baṣīrun
   7:
@@ -32,7 +32,7 @@ word_by_word:
     translation: of what
     transliteration: bimā
   8:
-    arabic: يَعۡمَلُوۡنَ‏
+    arabic: يَعۡمَلُونَ
     translation: they do
     transliteration: yaʿmalūna
 ---

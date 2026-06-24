@@ -1,6 +1,6 @@
 ---
-arabic_ayat: وَمَنۡ خَفَّتۡ مَوَازِيۡنُهٗ فَاُولٰۤٮِٕكَ الَّذِيۡنَ خَسِرُوۡۤا اَنۡفُسَهُمۡ
-  بِمَا كَانُوۡا بِاٰيٰتِنَا يَظۡلِمُوۡنَ‏
+arabic_ayat: وَمَنۡ خَفَّتۡ مَوَٰزِينُهُۥ فَأُوْلَٰٓئِكَ ٱلَّذِينَ خَسِرُوٓاْ أَنفُسَهُم
+  بِمَا كَانُواْ بِـَٔايَٰتِنَا يَظۡلِمُونَ
 sentence_translation: But those whose scale is light, they have doomed themselves
   for wrongfully denying Our signs.
 word_by_word:
@@ -13,23 +13,23 @@ word_by_word:
     translation: (will be) light
     transliteration: khaffat
   3:
-    arabic: مَوَازِيۡنُهٗ
+    arabic: مَوَٰزِينُهُۥ
     translation: his scales
     transliteration: mawāzīnuhu
   4:
-    arabic: فَاُولٰۤٮِٕكَ
+    arabic: فَأُوْلَٰٓئِكَ
     translation: so those
     transliteration: fa-ulāika
   5:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: (will be) the ones who
     transliteration: alladhīna
   6:
-    arabic: خَسِرُوۡۤا
+    arabic: خَسِرُوٓاْ
     translation: lost
     transliteration: khasirū
   7:
-    arabic: اَنۡفُسَهُمۡ
+    arabic: أَنفُسَهُم
     translation: themselves
     transliteration: anfusahum
   8:
@@ -37,15 +37,15 @@ word_by_word:
     translation: because
     transliteration: bimā
   9:
-    arabic: كَانُوۡا
+    arabic: كَانُواْ
     translation: they were
     transliteration: kānū
   10:
-    arabic: بِاٰيٰتِنَا
+    arabic: بِـَٔايَٰتِنَا
     translation: to Our Verses
     transliteration: biāyātinā
   11:
-    arabic: يَظۡلِمُوۡنَ‏
+    arabic: يَظۡلِمُونَ
     translation: (doing) injustice
     transliteration: yaẓlimūna
 ---

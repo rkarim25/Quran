@@ -1,28 +1,28 @@
 ---
-arabic_ayat: قَيِّمًا لِّيُنۡذِرَ بَاۡسًا شَدِيۡدًا مِّنۡ لَّدُنۡهُ وَيُبَشِّرَ الۡمُؤۡمِنِيۡنَ
-  الَّذِيۡنَ يَعۡمَلُوۡنَ الصّٰلِحٰتِ اَنَّ لَهُمۡ اَجۡرًا حَسَنًا ۙ‏
+arabic_ayat: قَيِّمٗا لِّيُنذِرَ بَأۡسٗا شَدِيدٗا مِّن لَّدُنۡهُ وَيُبَشِّرَ ٱلۡمُؤۡمِنِينَ
+  ٱلَّذِينَ يَعۡمَلُونَ ٱلصَّٰلِحَٰتِ أَنَّ لَهُمۡ أَجۡرًا حَسَنٗا
 sentence_translation: ˹making it˺ perfectly upright, to warn ˹the disbelievers˺ of
   a severe torment from Him; to give good news to the believers—who do good—that they
   will have a fine reward,
 word_by_word:
   1:
-    arabic: قَيِّمًا
+    arabic: قَيِّمٗا
     translation: Straight
     transliteration: qayyiman
   2:
-    arabic: لِّيُنۡذِرَ
+    arabic: لِّيُنذِرَ
     translation: to warn
     transliteration: liyundhira
   3:
-    arabic: بَاۡسًا
+    arabic: بَأۡسٗا
     translation: (of) a punishment
     transliteration: basan
   4:
-    arabic: شَدِيۡدًا
+    arabic: شَدِيدٗا
     translation: severe
     transliteration: shadīdan
   5:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: from
     transliteration: min
   6:
@@ -34,23 +34,23 @@ word_by_word:
     translation: and give glad tidings
     transliteration: wayubashira
   8:
-    arabic: الۡمُؤۡمِنِيۡنَ
+    arabic: ٱلۡمُؤۡمِنِينَ
     translation: (to) the believers
     transliteration: l-mu'minīna
   9:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   10:
-    arabic: يَعۡمَلُوۡنَ
+    arabic: يَعۡمَلُونَ
     translation: do
     transliteration: yaʿmalūna
   11:
-    arabic: الصّٰلِحٰتِ
+    arabic: ٱلصَّٰلِحَٰتِ
     translation: righteous deeds
     transliteration: l-ṣāliḥāti
   12:
-    arabic: اَنَّ
+    arabic: أَنَّ
     translation: that
     transliteration: anna
   13:
@@ -58,11 +58,11 @@ word_by_word:
     translation: for them
     transliteration: lahum
   14:
-    arabic: اَجۡرًا
+    arabic: أَجۡرًا
     translation: (is) a good reward
     transliteration: ajran
   15:
-    arabic: حَسَنًا ۙ‏
+    arabic: حَسَنٗا
     translation: (is) a good reward
     transliteration: ḥasanan
 ---

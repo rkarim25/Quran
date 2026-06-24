@@ -1,15 +1,15 @@
 ---
-arabic_ayat: كَمَاۤ اَخۡرَجَكَ رَبُّكَ مِنۡۢ بَيۡتِكَ بِالۡحَـقِّ وَاِنَّ فَرِيۡقًا
-  مِّنَ الۡمُؤۡمِنِيۡنَ لَـكٰرِهُوۡنَۙ‏
+arabic_ayat: كَمَآ أَخۡرَجَكَ رَبُّكَ مِنۢ بَيۡتِكَ بِٱلۡحَقِّ وَإِنَّ فَرِيقٗا مِّنَ
+  ٱلۡمُؤۡمِنِينَ لَكَٰرِهُونَ
 sentence_translation: Similarly, when your Lord brought you ˹O Prophet˺ out of your
   home for a just cause, a group of believers was totally against it.
 word_by_word:
   1:
-    arabic: كَمَاۤ
+    arabic: كَمَآ
     translation: As
     transliteration: kamā
   2:
-    arabic: اَخۡرَجَكَ
+    arabic: أَخۡرَجَكَ
     translation: brought you out
     transliteration: akhrajaka
   3:
@@ -17,7 +17,7 @@ word_by_word:
     translation: your Lord
     transliteration: rabbuka
   4:
-    arabic: مِنۡۢ
+    arabic: مِنۢ
     translation: from
     transliteration: min
   5:
@@ -25,15 +25,15 @@ word_by_word:
     translation: your home
     transliteration: baytika
   6:
-    arabic: بِالۡحَـقِّ
+    arabic: بِٱلۡحَقِّ
     translation: in truth
     transliteration: bil-ḥaqi
   7:
-    arabic: وَاِنَّ
+    arabic: وَإِنَّ
     translation: while indeed
     transliteration: wa-inna
   8:
-    arabic: فَرِيۡقًا
+    arabic: فَرِيقٗا
     translation: a party
     transliteration: farīqan
   9:
@@ -41,11 +41,11 @@ word_by_word:
     translation: among
     transliteration: mina
   10:
-    arabic: الۡمُؤۡمِنِيۡنَ
+    arabic: ٱلۡمُؤۡمِنِينَ
     translation: the believers
     transliteration: l-mu'minīna
   11:
-    arabic: لَـكٰرِهُوۡنَۙ‏
+    arabic: لَكَٰرِهُونَ
     translation: certainly disliked
     transliteration: lakārihūna
 ---

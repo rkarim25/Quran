@@ -1,13 +1,13 @@
 ---
-arabic_ayat: وَادۡخُلِىۡ جَنَّتِى‏
+arabic_ayat: وَٱدۡخُلِي جَنَّتِي
 sentence_translation: and enter My Paradise.”
 word_by_word:
   1:
-    arabic: وَادۡخُلِىۡ
+    arabic: وَٱدۡخُلِي
     translation: And enter
     transliteration: wa-ud'khulī
   2:
-    arabic: جَنَّتِى‏
+    arabic: جَنَّتِي
     translation: My Paradise
     transliteration: jannatī
 ---

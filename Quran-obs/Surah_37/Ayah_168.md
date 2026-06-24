@@ -1,5 +1,5 @@
 ---
-arabic_ayat: لَوۡ اَنَّ عِنۡدَنَا ذِكۡرًا مِّنَ الۡاَوَّلِيۡنَۙ‏
+arabic_ayat: لَوۡ أَنَّ عِندَنَا ذِكۡرٗا مِّنَ ٱلۡأَوَّلِينَ
 sentence_translation: “If only we had a Reminder like ˹those of˺ earlier peoples,
 word_by_word:
   1:
@@ -7,15 +7,15 @@ word_by_word:
     translation: If
     transliteration: law
   2:
-    arabic: اَنَّ
+    arabic: أَنَّ
     translation: that
     transliteration: anna
   3:
-    arabic: عِنۡدَنَا
+    arabic: عِندَنَا
     translation: we had
     transliteration: ʿindanā
   4:
-    arabic: ذِكۡرًا
+    arabic: ذِكۡرٗا
     translation: a reminder
     transliteration: dhik'ran
   5:
@@ -23,7 +23,7 @@ word_by_word:
     translation: from
     transliteration: mina
   6:
-    arabic: الۡاَوَّلِيۡنَۙ‏
+    arabic: ٱلۡأَوَّلِينَ
     translation: the former (people)
     transliteration: l-awalīna
 ---

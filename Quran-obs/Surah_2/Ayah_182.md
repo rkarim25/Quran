@@ -1,6 +1,6 @@
 ---
-arabic_ayat: فَمَنۡ خَافَ مِنۡ مُّوۡصٍ جَنَفًا اَوۡ اِثۡمًا فَاَصۡلَحَ بَيۡنَهُمۡ
-  فَلَاۤ اِثۡمَ عَلَيۡهِؕ اِنَّ اللّٰهَ غَفُوۡرٌ رَّحِيۡمٌ‏
+arabic_ayat: فَمَنۡ خَافَ مِن مُّوصٖ جَنَفًا أَوۡ إِثۡمٗا فَأَصۡلَحَ بَيۡنَهُمۡ فَلَآ
+  إِثۡمَ عَلَيۡهِۚ إِنَّ ٱللَّهَ غَفُورٞ رَّحِيمٞ
 sentence_translation: Whoever suspects an error or an injustice in the will and brings
   about a ˹fair˺ settlement among the parties will not be sinful. Surely Allah is
   All-Forgiving, Most Merciful.
@@ -14,11 +14,11 @@ word_by_word:
     translation: fears
     transliteration: khāfa
   3:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   4:
-    arabic: مُّوۡصٍ
+    arabic: مُّوصٖ
     translation: (the) testator
     transliteration: mūṣin
   5:
@@ -26,15 +26,15 @@ word_by_word:
     translation: (any) error
     transliteration: janafan
   6:
-    arabic: اَوۡ
+    arabic: أَوۡ
     translation: or
     transliteration: aw
   7:
-    arabic: اِثۡمًا
+    arabic: إِثۡمٗا
     translation: sin
     transliteration: ith'man
   8:
-    arabic: فَاَصۡلَحَ
+    arabic: فَأَصۡلَحَ
     translation: then reconciles
     transliteration: fa-aṣlaḥa
   9:
@@ -42,31 +42,31 @@ word_by_word:
     translation: between them
     transliteration: baynahum
   10:
-    arabic: فَلَاۤ
+    arabic: فَلَآ
     translation: then (there is) no
     transliteration: falā
   11:
-    arabic: اِثۡمَ
+    arabic: إِثۡمَ
     translation: sin
     transliteration: ith'ma
   12:
-    arabic: عَلَيۡهِؕ
+    arabic: عَلَيۡهِۚ
     translation: on him
     transliteration: ʿalayhi
   13:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   14:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   15:
-    arabic: غَفُوۡرٌ
+    arabic: غَفُورٞ
     translation: (is) Oft-Forgiving
     transliteration: ghafūrun
   16:
-    arabic: رَّحِيۡمٌ‏
+    arabic: رَّحِيمٞ
     translation: All-Merciful
     transliteration: raḥīmun
 ---

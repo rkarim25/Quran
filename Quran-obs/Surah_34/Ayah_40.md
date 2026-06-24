@@ -1,6 +1,6 @@
 ---
-arabic_ayat: وَيَوۡمَ يَحۡشُرُهُمۡ جَمِيۡعًا ثُمَّ يَقُوۡلُ لِلۡمَلٰٓٮِٕكَةِ اَهٰٓؤُلَاۤءِ
-  اِيَّاكُمۡ كَانُوۡا يَعۡبُدُوۡنَ‏
+arabic_ayat: وَيَوۡمَ يَحۡشُرُهُمۡ جَمِيعٗا ثُمَّ يَقُولُ لِلۡمَلَٰٓئِكَةِ أَهَٰٓؤُلَآءِ
+  إِيَّاكُمۡ كَانُواْ يَعۡبُدُونَ
 sentence_translation: And ˹consider˺ the Day He will gather them all together, and
   then ask the angels, “Was it you that these ˹polytheists˺ used to worship?”
 word_by_word:
@@ -13,7 +13,7 @@ word_by_word:
     translation: He will gather them
     transliteration: yaḥshuruhum
   3:
-    arabic: جَمِيۡعًا
+    arabic: جَمِيعٗا
     translation: all
     transliteration: jamīʿan
   4:
@@ -21,27 +21,27 @@ word_by_word:
     translation: then
     transliteration: thumma
   5:
-    arabic: يَقُوۡلُ
+    arabic: يَقُولُ
     translation: He will say
     transliteration: yaqūlu
   6:
-    arabic: لِلۡمَلٰٓٮِٕكَةِ
+    arabic: لِلۡمَلَٰٓئِكَةِ
     translation: to the Angels
     transliteration: lil'malāikati
   7:
-    arabic: اَهٰٓؤُلَاۤءِ
+    arabic: أَهَٰٓؤُلَآءِ
     translation: Were these you
     transliteration: ahāulāi
   8:
-    arabic: اِيَّاكُمۡ
+    arabic: إِيَّاكُمۡ
     translation: Were these you
     transliteration: iyyākum
   9:
-    arabic: كَانُوۡا
+    arabic: كَانُواْ
     translation: they were
     transliteration: kānū
   10:
-    arabic: يَعۡبُدُوۡنَ‏
+    arabic: يَعۡبُدُونَ
     translation: worshipping
     transliteration: yaʿbudūna
 ---

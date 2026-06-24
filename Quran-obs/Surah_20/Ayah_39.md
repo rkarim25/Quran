@@ -1,38 +1,38 @@
 ---
-arabic_ayat: اَنِ اقۡذِفِيۡهِ فِى التَّابُوۡتِ فَاقۡذِفِيۡهِ فِى الۡيَمِّ فَلۡيُلۡقِهِ
-  الۡيَمُّ بِالسَّاحِلِ يَاۡخُذۡهُ عَدُوٌّ لِّىۡ وَعَدُوٌّ لَّهٗ​ ؕ وَاَلۡقَيۡتُ عَلَيۡكَ
-  مَحَـبَّةً مِّنِّىۡ ۚ وَلِتُصۡنَعَ عَلٰى عَيۡنِىۡ ۘ‏
+arabic_ayat: أَنِ ٱقۡذِفِيهِ فِي ٱلتَّابُوتِ فَٱقۡذِفِيهِ فِي ٱلۡيَمِّ فَلۡيُلۡقِهِ
+  ٱلۡيَمُّ بِٱلسَّاحِلِ يَأۡخُذۡهُ عَدُوّٞ لِّي وَعَدُوّٞ لَّهُۥۚ وَأَلۡقَيۡتُ عَلَيۡكَ
+  مَحَبَّةٗ مِّنِّي وَلِتُصۡنَعَ عَلَىٰ عَيۡنِيٓ
 sentence_translation: ‘Put him into a chest, then put it into the river. The river
   will wash it ashore, and he will be taken by ˹Pharaoh,˺ an enemy of Mine and his.’
   And I blessed you with lovability from Me ˹O Moses˺ so that you would be brought
   up under My ˹watchful˺ Eye.
 word_by_word:
   1:
-    arabic: اَنِ
+    arabic: أَنِ
     translation: That
     transliteration: ani
   2:
-    arabic: اقۡذِفِيۡهِ
+    arabic: ٱقۡذِفِيهِ
     translation: cast him
     transliteration: iq'dhifīhi
   3:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   4:
-    arabic: التَّابُوۡتِ
+    arabic: ٱلتَّابُوتِ
     translation: the chest
     transliteration: l-tābūti
   5:
-    arabic: فَاقۡذِفِيۡهِ
+    arabic: فَٱقۡذِفِيهِ
     translation: then cast it
     transliteration: fa-iq'dhifīhi
   6:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   7:
-    arabic: الۡيَمِّ
+    arabic: ٱلۡيَمِّ
     translation: the river
     transliteration: l-yami
   8:
@@ -40,35 +40,35 @@ word_by_word:
     translation: then let cast it
     transliteration: falyul'qihi
   9:
-    arabic: الۡيَمُّ
+    arabic: ٱلۡيَمُّ
     translation: the river
     transliteration: l-yamu
   10:
-    arabic: بِالسَّاحِلِ
+    arabic: بِٱلسَّاحِلِ
     translation: on the bank
     transliteration: bil-sāḥili
   11:
-    arabic: يَاۡخُذۡهُ
+    arabic: يَأۡخُذۡهُ
     translation: will take him
     transliteration: yakhudh'hu
   12:
-    arabic: عَدُوٌّ
+    arabic: عَدُوّٞ
     translation: an enemy
     transliteration: ʿaduwwun
   13:
-    arabic: لِّىۡ
+    arabic: لِّي
     translation: to Me
     transliteration: lī
   14:
-    arabic: وَعَدُوٌّ
+    arabic: وَعَدُوّٞ
     translation: and an enemy
     transliteration: waʿaduwwun
   15:
-    arabic: لَّهٗ​ ؕ
+    arabic: لَّهُۥۚ
     translation: to him
     transliteration: lahu
   16:
-    arabic: وَاَلۡقَيۡتُ
+    arabic: وَأَلۡقَيۡتُ
     translation: And I cast
     transliteration: wa-alqaytu
   17:
@@ -76,11 +76,11 @@ word_by_word:
     translation: over you
     transliteration: ʿalayka
   18:
-    arabic: مَحَـبَّةً
+    arabic: مَحَبَّةٗ
     translation: love
     transliteration: maḥabbatan
   19:
-    arabic: مِّنِّىۡ ۚ
+    arabic: مِّنِّي
     translation: from Me
     transliteration: minnī
   20:
@@ -88,11 +88,11 @@ word_by_word:
     translation: and that you may be brought up
     transliteration: walituṣ'naʿa
   21:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: under
     transliteration: ʿalā
   22:
-    arabic: عَيۡنِىۡ ۘ‏
+    arabic: عَيۡنِيٓ
     translation: My eye
     transliteration: ʿaynī
 ---

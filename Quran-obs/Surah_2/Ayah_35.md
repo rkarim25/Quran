@@ -1,7 +1,6 @@
 ---
-arabic_ayat: "وَقُلۡنَا يٰٓـاٰدَمُ اسۡكُنۡ اَنۡتَ وَزَوۡجُكَ الۡجَـنَّةَ وَكُلَا مِنۡهَا\
-  \ رَغَدًا حَيۡثُ شِئۡتُمَا وَلَا تَقۡرَبَا هٰذِهِ الشَّجَرَةَ فَتَكُوۡنَا مِنَ\
-  \ الظّٰلِمِيۡنَ‏ \uFEFF\uFEFF"
+arabic_ayat: وَقُلۡنَا يَٰٓـَٔادَمُ ٱسۡكُنۡ أَنتَ وَزَوۡجُكَ ٱلۡجَنَّةَ وَكُلَا مِنۡهَا
+  رَغَدًا حَيۡثُ شِئۡتُمَا وَلَا تَقۡرَبَا هَٰذِهِ ٱلشَّجَرَةَ فَتَكُونَا مِنَ ٱلظَّٰلِمِينَ
 sentence_translation: We cautioned, “O Adam! Live with your wife in Paradise and eat
   as freely as you please, but do not approach this tree, or else you will be wrongdoers.”
 word_by_word:
@@ -10,15 +9,15 @@ word_by_word:
     translation: And We said
     transliteration: waqul'nā
   2:
-    arabic: يٰٓـاٰدَمُ
+    arabic: يَٰٓـَٔادَمُ
     translation: O Adam
     transliteration: yāādamu
   3:
-    arabic: اسۡكُنۡ
+    arabic: ٱسۡكُنۡ
     translation: Dwell
     transliteration: us'kun
   4:
-    arabic: اَنۡتَ
+    arabic: أَنتَ
     translation: you
     transliteration: anta
   5:
@@ -26,7 +25,7 @@ word_by_word:
     translation: and your spouse
     transliteration: wazawjuka
   6:
-    arabic: الۡجَـنَّةَ
+    arabic: ٱلۡجَنَّةَ
     translation: (in) Paradise
     transliteration: l-janata
   7:
@@ -46,7 +45,7 @@ word_by_word:
     translation: (from) wherever
     transliteration: ḥaythu
   11:
-    arabic: شِئۡتُمَا
+    arabic: شِئۡتُمَا
     translation: you [both] wish
     transliteration: shi'tumā
   12:
@@ -58,15 +57,15 @@ word_by_word:
     translation: '[you two] approach'
     transliteration: taqrabā
   14:
-    arabic: هٰذِهِ
+    arabic: هَٰذِهِ
     translation: this
     transliteration: hādhihi
   15:
-    arabic: الشَّجَرَةَ
+    arabic: ٱلشَّجَرَةَ
     translation: '[the] tree'
     transliteration: l-shajarata
   16:
-    arabic: فَتَكُوۡنَا
+    arabic: فَتَكُونَا
     translation: lest you [both] be
     transliteration: fatakūnā
   17:
@@ -74,7 +73,7 @@ word_by_word:
     translation: of
     transliteration: mina
   18:
-    arabic: "الظّٰلِمِيۡنَ‏ \uFEFF\uFEFF"
+    arabic: ٱلظَّٰلِمِينَ
     translation: the wrongdoers
     transliteration: l-ẓālimīna
 ---

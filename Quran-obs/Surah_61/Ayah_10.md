@@ -1,19 +1,19 @@
 ---
-arabic_ayat: يٰۤاَيُّهَا الَّذِيۡنَ اٰمَنُوۡا هَلۡ اَدُلُّكُمۡ عَلٰى تِجَارَةٍ تُنۡجِيۡكُمۡ
-  مِّنۡ عَذَابٍ اَلِيۡمٍ‏
+arabic_ayat: يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُواْ هَلۡ أَدُلُّكُمۡ عَلَىٰ تِجَٰرَةٖ تُنجِيكُم
+  مِّنۡ عَذَابٍ أَلِيمٖ
 sentence_translation: O believers! Shall I guide you to an exchange that will save
   you from a painful punishment?
 word_by_word:
   1:
-    arabic: يٰۤاَيُّهَا
+    arabic: يَٰٓأَيُّهَا
     translation: O
     transliteration: yāayyuhā
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ ءَ
     translation: (you) who
     transliteration: alladhīna
   3:
-    arabic: اٰمَنُوۡا
+    arabic: امَنُواْ
     translation: believe
     transliteration: āmanū
   4:
@@ -21,19 +21,19 @@ word_by_word:
     translation: Shall
     transliteration: hal
   5:
-    arabic: اَدُلُّكُمۡ
+    arabic: أَدُلُّكُمۡ
     translation: I guide you
     transliteration: adullukum
   6:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: to
     transliteration: ʿalā
   7:
-    arabic: تِجَارَةٍ
+    arabic: تِجَٰرَةٖ
     translation: a transaction
     transliteration: tijāratin
   8:
-    arabic: تُنۡجِيۡكُمۡ
+    arabic: تُنجِيكُم
     translation: (that) will save you
     transliteration: tunjīkum
   9:
@@ -45,7 +45,7 @@ word_by_word:
     translation: a punishment
     transliteration: ʿadhābin
   11:
-    arabic: اَلِيۡمٍ‏
+    arabic: أَلِيمٖ
     translation: painful
     transliteration: alīmin
 ---

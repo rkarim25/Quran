@@ -1,7 +1,7 @@
 ---
-arabic_ayat: وَلَوۡ اَنَّهُمۡ رَضُوۡا مَاۤ اٰتٰٮهُمُ اللّٰهُ وَرَسُوۡلُهٗۙ وَقَالُوۡا
-  حَسۡبُنَا اللّٰهُ سَيُؤۡتِيۡنَا اللّٰهُ مِنۡ فَضۡلِهٖ وَ رَسُوۡلُهٗۙ اِنَّاۤ اِلَى
-  اللّٰهِ رٰغِبُوۡنَ‏
+arabic_ayat: وَلَوۡ أَنَّهُمۡ رَضُواْ مَآ ءَاتَىٰهُمُ ٱللَّهُ وَرَسُولُهُۥ وَقَالُواْ
+  حَسۡبُنَا ٱللَّهُ سَيُؤۡتِينَا ٱللَّهُ مِن فَضۡلِهِۦ وَرَسُولُهُۥٓ إِنَّآ إِلَى
+  ٱللَّهِ رَٰغِبُونَ
 sentence_translation: If only they had been content with what Allah and His Messenger
   had given them and said, “Allah is sufficient for us! Allah will grant us out of
   His bounty, and so will His Messenger. To Allah ˹alone˺ we turn with hope.”
@@ -11,31 +11,31 @@ word_by_word:
     translation: And if
     transliteration: walaw
   2:
-    arabic: اَنَّهُمۡ
+    arabic: أَنَّهُمۡ
     translation: '[that] they'
     transliteration: annahum
   3:
-    arabic: رَضُوۡا
+    arabic: رَضُواْ
     translation: (were) satisfied
     transliteration: raḍū
   4:
-    arabic: مَاۤ
+    arabic: مَآ ءَ
     translation: (with) what
     transliteration: mā
   5:
-    arabic: اٰتٰٮهُمُ
+    arabic: اتَىٰهُمُ
     translation: Allah gave them
     transliteration: ātāhumu
   6:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah gave them
     transliteration: l-lahu
   7:
-    arabic: وَرَسُوۡلُهٗۙ
+    arabic: وَرَسُولُهُۥ
     translation: and His Messenger
     transliteration: warasūluhu
   8:
-    arabic: وَقَالُوۡا
+    arabic: وَقَالُواْ
     translation: and said
     transliteration: waqālū
   9:
@@ -43,43 +43,43 @@ word_by_word:
     translation: Sufficient for us
     transliteration: ḥasbunā
   10:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: (is) Allah
     transliteration: l-lahu
   11:
-    arabic: سَيُؤۡتِيۡنَا
+    arabic: سَيُؤۡتِينَا
     translation: Allah will give us
     transliteration: sayu'tīnā
   12:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah will give us
     transliteration: l-lahu
   13:
-    arabic: مِنۡ
+    arabic: مِن
     translation: of
     transliteration: min
   14:
-    arabic: فَضۡلِهٖ
+    arabic: فَضۡلِهِۦ
     translation: His Bounty
     transliteration: faḍlihi
   15:
-    arabic: وَ رَسُوۡلُهٗۙ
+    arabic: وَرَسُولُهُۥٓ
     translation: and His Messenger
     transliteration: warasūluhu
   16:
-    arabic: اِنَّاۤ
+    arabic: إِنَّآ
     translation: Indeed, we
     transliteration: innā
   17:
-    arabic: اِلَى
+    arabic: إِلَى
     translation: to
     transliteration: ilā
   18:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   19:
-    arabic: رٰغِبُوۡنَ‏
+    arabic: رَٰغِبُونَ
     translation: turn our hopes
     transliteration: rāghibūna
 ---

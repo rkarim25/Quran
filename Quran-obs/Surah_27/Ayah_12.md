@@ -1,13 +1,12 @@
 ---
-arabic_ayat: "وَاَدۡخِلۡ يَدَكَ فِىۡ جَيۡبِكَ تَخۡرُجۡ بَيۡضَآءَ مِنۡ غَيۡرِ سُوۡٓءٍ​\
-  \ فِىۡ تِسۡعِ اٰيٰتٍ اِلٰى فِرۡعَوۡنَ وَقَوۡمِهٖؕ اِنَّهُمۡ كَانُوۡا قَوۡمًا فٰسِقِيۡنَ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: وَأَدۡخِلۡ يَدَكَ فِي جَيۡبِكَ تَخۡرُجۡ بَيۡضَآءَ مِنۡ غَيۡرِ سُوٓءٖۖ
+  فِي تِسۡعِ ءَايَٰتٍ إِلَىٰ فِرۡعَوۡنَ وَقَوۡمِهِۦٓۚ إِنَّهُمۡ كَانُواْ قَوۡمٗا فَٰسِقِينَ
 sentence_translation: Now put your hand through ˹the opening of˺ your collar, it will
   come out ˹shining˺ white, unblemished. ˹These are two˺ of nine signs for Pharaoh
   and his people. They have truly been a rebellious people.”
 word_by_word:
   1:
-    arabic: وَاَدۡخِلۡ
+    arabic: وَأَدۡخِلۡ
     translation: And enter
     transliteration: wa-adkhil
   2:
@@ -15,7 +14,7 @@ word_by_word:
     translation: your hand
     transliteration: yadaka
   3:
-    arabic: فِىۡ
+    arabic: فِي
     translation: into
     transliteration: fī
   4:
@@ -39,23 +38,23 @@ word_by_word:
     translation: without
     transliteration: ghayri
   9:
-    arabic: سُوۡٓءٍ​
+    arabic: سُوٓءٖۖ
     translation: harm
     transliteration: sūin
   10:
-    arabic: فِىۡ
+    arabic: فِي
     translation: (These are) among
     transliteration: fī
   11:
-    arabic: تِسۡعِ
+    arabic: تِسۡعِ ءَ
     translation: nine
     transliteration: tis'ʿi
   12:
-    arabic: اٰيٰتٍ
+    arabic: ايَٰتٍ
     translation: signs
     transliteration: āyātin
   13:
-    arabic: اِلٰى
+    arabic: إِلَىٰ
     translation: to
     transliteration: ilā
   14:
@@ -63,23 +62,23 @@ word_by_word:
     translation: Firaun
     transliteration: fir'ʿawna
   15:
-    arabic: وَقَوۡمِهٖؕ
+    arabic: وَقَوۡمِهِۦٓۚ
     translation: and his people
     transliteration: waqawmihi
   16:
-    arabic: اِنَّهُمۡ
+    arabic: إِنَّهُمۡ
     translation: Indeed, they
     transliteration: innahum
   17:
-    arabic: كَانُوۡا
+    arabic: كَانُواْ
     translation: are
     transliteration: kānū
   18:
-    arabic: قَوۡمًا
+    arabic: قَوۡمٗا
     translation: a people
     transliteration: qawman
   19:
-    arabic: "فٰسِقِيۡنَ‏ \uFEFF\uFEFF"
+    arabic: فَٰسِقِينَ
     translation: defiantly disobedient
     transliteration: fāsiqīna
 ---

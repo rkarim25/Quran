@@ -1,27 +1,27 @@
 ---
-arabic_ayat: وَالَّذِيۡنَ اٰمَنُوۡا وَعَمِلُوا الصّٰلِحٰتِ لَـنُكَفِّرَنَّ عَنۡهُمۡ
-  سَيِّاٰتِهِمۡ وَلَـنَجۡزِيَنَّهُمۡ اَحۡسَنَ الَّذِىۡ كَانُوۡا يَعۡمَلُوۡنَ‏
+arabic_ayat: وَٱلَّذِينَ ءَامَنُواْ وَعَمِلُواْ ٱلصَّٰلِحَٰتِ لَنُكَفِّرَنَّ عَنۡهُمۡ
+  سَيِّـَٔاتِهِمۡ وَلَنَجۡزِيَنَّهُمۡ أَحۡسَنَ ٱلَّذِي كَانُواْ يَعۡمَلُونَ
 sentence_translation: As for those who believe and do good, We will certainly absolve
   them of their sins, and reward them according to the best of what they used to do.
 word_by_word:
   1:
-    arabic: وَالَّذِيۡنَ
+    arabic: وَٱلَّذِينَ ءَ
     translation: And those who
     transliteration: wa-alladhīna
   2:
-    arabic: اٰمَنُوۡا
+    arabic: امَنُواْ
     translation: believe
     transliteration: āmanū
   3:
-    arabic: وَعَمِلُوا
+    arabic: وَعَمِلُواْ
     translation: and do
     transliteration: waʿamilū
   4:
-    arabic: الصّٰلِحٰتِ
+    arabic: ٱلصَّٰلِحَٰتِ
     translation: righteous (deeds)
     transliteration: l-ṣāliḥāti
   5:
-    arabic: لَـنُكَفِّرَنَّ
+    arabic: لَنُكَفِّرَنَّ
     translation: surely, We will remove
     transliteration: lanukaffiranna
   6:
@@ -29,27 +29,27 @@ word_by_word:
     translation: from them
     transliteration: ʿanhum
   7:
-    arabic: سَيِّاٰتِهِمۡ
+    arabic: سَيِّـَٔاتِهِمۡ
     translation: their evil deeds
     transliteration: sayyiātihim
   8:
-    arabic: وَلَـنَجۡزِيَنَّهُمۡ
+    arabic: وَلَنَجۡزِيَنَّهُمۡ
     translation: and We will surely reward them
     transliteration: walanajziyannahum
   9:
-    arabic: اَحۡسَنَ
+    arabic: أَحۡسَنَ
     translation: (the) best
     transliteration: aḥsana
   10:
-    arabic: الَّذِىۡ
+    arabic: ٱلَّذِي
     translation: (of) what
     transliteration: alladhī
   11:
-    arabic: كَانُوۡا
+    arabic: كَانُواْ
     translation: they used
     transliteration: kānū
   12:
-    arabic: يَعۡمَلُوۡنَ‏
+    arabic: يَعۡمَلُونَ
     translation: (to) do
     transliteration: yaʿmalūna
 ---

@@ -1,15 +1,15 @@
 ---
-arabic_ayat: فَاِنۡ كَذَّبُوۡكَ فَقَدۡ كُذِّبَ رُسُلٌ مِّنۡ قَبۡلِكَ جَآءُوۡ بِالۡبَيِّنٰتِ
-  وَالزُّبُرِ وَالۡكِتٰبِ الۡمُنِيۡرِ‏
+arabic_ayat: فَإِن كَذَّبُوكَ فَقَدۡ كُذِّبَ رُسُلٞ مِّن قَبۡلِكَ جَآءُو بِٱلۡبَيِّنَٰتِ
+  وَٱلزُّبُرِ وَٱلۡكِتَٰبِ ٱلۡمُنِيرِ
 sentence_translation: If you are rejected by them, so too were messengers before you
   who came with clear proofs, divine Books, and enlightening Scriptures. 
 word_by_word:
   1:
-    arabic: فَاِنۡ
+    arabic: فَإِن
     translation: Then if
     transliteration: fa-in
   2:
-    arabic: كَذَّبُوۡكَ
+    arabic: كَذَّبُوكَ
     translation: they reject you
     transliteration: kadhabūka
   3:
@@ -21,11 +21,11 @@ word_by_word:
     translation: were rejected
     transliteration: kudhiba
   5:
-    arabic: رُسُلٌ
+    arabic: رُسُلٞ
     translation: Messengers
     transliteration: rusulun
   6:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: from
     transliteration: min
   7:
@@ -33,23 +33,23 @@ word_by_word:
     translation: before you
     transliteration: qablika
   8:
-    arabic: جَآءُوۡ
+    arabic: جَآءُو
     translation: (who) came
     transliteration: jāū
   9:
-    arabic: بِالۡبَيِّنٰتِ
+    arabic: بِٱلۡبَيِّنَٰتِ
     translation: with the clear Signs
     transliteration: bil-bayināti
   10:
-    arabic: وَالزُّبُرِ
+    arabic: وَٱلزُّبُرِ
     translation: and the Scriptures
     transliteration: wal-zuburi
   11:
-    arabic: وَالۡكِتٰبِ
+    arabic: وَٱلۡكِتَٰبِ
     translation: 'and the Book '
     transliteration: wal-kitābi
   12:
-    arabic: الۡمُنِيۡرِ‏
+    arabic: ٱلۡمُنِيرِ
     translation: '[the] Enlightening'
     transliteration: l-munīri
 ---

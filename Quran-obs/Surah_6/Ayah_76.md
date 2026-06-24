@@ -1,6 +1,6 @@
 ---
-arabic_ayat: فَلَمَّا جَنَّ عَلَيۡهِ الَّيۡلُ رَاٰ كَوۡكَبًا ​ۚ قَالَ هٰذَا رَبِّىۡ​
-  ۚ فَلَمَّاۤ اَفَلَ قَالَ لَاۤ اُحِبُّ الۡاٰفِلِيۡنَ‏
+arabic_ayat: فَلَمَّا جَنَّ عَلَيۡهِ ٱلَّيۡلُ رَءَا كَوۡكَبٗاۖ قَالَ هَٰذَا رَبِّيۖ
+  فَلَمَّآ أَفَلَ قَالَ لَآ أُحِبُّ ٱلۡأٓفِلِينَ
 sentence_translation: When the night grew dark upon him, he saw a star and said, “This
   is my Lord!” But when it set, he said, “I do not love things that set.”
 word_by_word:
@@ -17,15 +17,15 @@ word_by_word:
     translation: over him
     transliteration: ʿalayhi
   4:
-    arabic: الَّيۡلُ
+    arabic: ٱلَّيۡلُ
     translation: the night
     transliteration: al-laylu
   5:
-    arabic: رَاٰ
+    arabic: رَءَا
     translation: he saw
     transliteration: raā
   6:
-    arabic: كَوۡكَبًا ​ۚ
+    arabic: كَوۡكَبٗاۖ
     translation: a star
     transliteration: kawkaban
   7:
@@ -33,19 +33,19 @@ word_by_word:
     translation: He said
     transliteration: qāla
   8:
-    arabic: هٰذَا
+    arabic: هَٰذَا
     translation: This
     transliteration: hādhā
   9:
-    arabic: رَبِّىۡ​ ۚ
+    arabic: رَبِّيۖ
     translation: (is) my Lord
     transliteration: rabbī
   10:
-    arabic: فَلَمَّاۤ
+    arabic: فَلَمَّآ
     translation: But when
     transliteration: falammā
   11:
-    arabic: اَفَلَ
+    arabic: أَفَلَ
     translation: it set
     transliteration: afala
   12:
@@ -53,15 +53,15 @@ word_by_word:
     translation: he said
     transliteration: qāla
   13:
-    arabic: لَاۤ
+    arabic: لَآ
     translation: Not
     transliteration: lā
   14:
-    arabic: اُحِبُّ
+    arabic: أُحِبُّ
     translation: (do) I like
     transliteration: uḥibbu
   15:
-    arabic: الۡاٰفِلِيۡنَ‏
+    arabic: ٱلۡأٓفِلِينَ
     translation: the ones that set
     transliteration: l-āfilīna
 ---

@@ -1,5 +1,5 @@
 ---
-arabic_ayat: عَلَى الۡاَرَآٮِٕكِۙ يَنۡظُرُوۡنَؕ‏
+arabic_ayat: عَلَى ٱلۡأَرَآئِكِ يَنظُرُونَ
 sentence_translation: as they sit on ˹canopied˺ couches, looking on.
 word_by_word:
   1:
@@ -7,11 +7,11 @@ word_by_word:
     translation: 'On'
     transliteration: ʿalā
   2:
-    arabic: الۡاَرَآٮِٕكِۙ
+    arabic: ٱلۡأَرَآئِكِ
     translation: the thrones
     transliteration: l-arāiki
   3:
-    arabic: يَنۡظُرُوۡنَؕ‏
+    arabic: يَنظُرُونَ
     translation: observing
     transliteration: yanẓurūna
 ---

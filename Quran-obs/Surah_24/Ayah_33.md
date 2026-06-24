@@ -1,11 +1,10 @@
 ---
-arabic_ayat: "وَلۡيَسۡتَعۡفِفِ الَّذِيۡنَ لَا يَجِدُوۡنَ نِكَاحًا حَتّٰى يُغۡنِيَهُمُ\
-  \ اللّٰهُ مِنۡ فَضۡلِهٖ​ؕ وَالَّذِيۡنَ يَبۡتَغُوۡنَ الۡـكِتٰبَ مِمَّا مَلَـكَتۡ\
-  \ اَيۡمَانُكُمۡ فَكَاتِبُوۡهُمۡ اِنۡ عَلِمۡتُمۡ فِيۡهِمۡ خَيۡرًا ​​ۖ  وَّاٰ تُوۡهُمۡ\
-  \ مِّنۡ مَّالِ اللّٰهِ الَّذِىۡۤ اٰتٰٮكُمۡ ​ؕ وَلَا تُكۡرِهُوۡا فَتَيٰتِكُمۡ عَلَى\
-  \ الۡبِغَآءِ اِنۡ اَرَدۡنَ تَحَصُّنًا لِّـتَبۡتَغُوۡا عَرَضَ الۡحَيٰوةِ الدُّنۡيَا​\
-  \ ؕ وَمَنۡ يُّكۡرِهْهُّنَّ فَاِنَّ اللّٰهَ مِنۡۢ بَعۡدِ اِكۡرَاهِهِنَّ غَفُوۡرٌ\
-  \ رَّحِيۡمٌ‏ \uFEFF\uFEFF"
+arabic_ayat: وَلۡيَسۡتَعۡفِفِ ٱلَّذِينَ لَا يَجِدُونَ نِكَاحًا حَتَّىٰ يُغۡنِيَهُمُ
+  ٱللَّهُ مِن فَضۡلِهِۦۗ وَٱلَّذِينَ يَبۡتَغُونَ ٱلۡكِتَٰبَ مِمَّا مَلَكَتۡ أَيۡمَٰنُكُمۡ
+  فَكَاتِبُوهُمۡ إِنۡ عَلِمۡتُمۡ فِيهِمۡ خَيۡرٗاۖ وَءَاتُوهُم مِّن مَّالِ ٱللَّهِ
+  ٱلَّذِيٓ ءَاتَىٰكُمۡۚ وَلَا تُكۡرِهُواْ فَتَيَٰتِكُمۡ عَلَى ٱلۡبِغَآءِ إِنۡ أَرَدۡنَ
+  تَحَصُّنٗا لِّتَبۡتَغُواْ عَرَضَ ٱلۡحَيَوٰةِ ٱلدُّنۡيَاۚ وَمَن يُكۡرِههُّنَّ فَإِنَّ
+  ٱللَّهَ مِنۢ بَعۡدِ إِكۡرَٰهِهِنَّ غَفُورٞ رَّحِيمٞ
 sentence_translation: And let those who do not have the means to marry keep themselves
   chaste until Allah enriches them out of His bounty. And if any of those ˹bondspeople˺
   in your possession desires a deed of emancipation, make it possible for them, if
@@ -19,7 +18,7 @@ word_by_word:
     translation: And let be chaste
     transliteration: walyastaʿfifi
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   3:
@@ -27,7 +26,7 @@ word_by_word:
     translation: (do) not
     transliteration: lā
   4:
-    arabic: يَجِدُوۡنَ
+    arabic: يَجِدُونَ
     translation: find
     transliteration: yajidūna
   5:
@@ -35,7 +34,7 @@ word_by_word:
     translation: (means for) marriage
     transliteration: nikāḥan
   6:
-    arabic: حَتّٰى
+    arabic: حَتَّىٰ
     translation: until
     transliteration: ḥattā
   7:
@@ -43,27 +42,27 @@ word_by_word:
     translation: Allah enriches them
     transliteration: yugh'niyahumu
   8:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah enriches them
     transliteration: l-lahu
   9:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   10:
-    arabic: فَضۡلِهٖ​ؕ
+    arabic: فَضۡلِهِۦۗ
     translation: His Bounty
     transliteration: faḍlihi
   11:
-    arabic: وَالَّذِيۡنَ
+    arabic: وَٱلَّذِينَ
     translation: And those who
     transliteration: wa-alladhīna
   12:
-    arabic: يَبۡتَغُوۡنَ
+    arabic: يَبۡتَغُونَ
     translation: seek
     transliteration: yabtaghūna
   13:
-    arabic: الۡـكِتٰبَ
+    arabic: ٱلۡكِتَٰبَ
     translation: the writing
     transliteration: l-kitāba
   14:
@@ -71,19 +70,19 @@ word_by_word:
     translation: from (those) whom
     transliteration: mimmā
   15:
-    arabic: مَلَـكَتۡ
+    arabic: مَلَكَتۡ
     translation: possess
     transliteration: malakat
   16:
-    arabic: اَيۡمَانُكُمۡ
+    arabic: أَيۡمَٰنُكُمۡ
     translation: your right hands
     transliteration: aymānukum
   17:
-    arabic: فَكَاتِبُوۡهُمۡ
+    arabic: فَكَاتِبُوهُمۡ
     translation: then give them (the) writing
     transliteration: fakātibūhum
   18:
-    arabic: اِنۡ
+    arabic: إِنۡ
     translation: if
     transliteration: in
   19:
@@ -91,19 +90,19 @@ word_by_word:
     translation: you know
     transliteration: ʿalim'tum
   20:
-    arabic: فِيۡهِمۡ
+    arabic: فِيهِمۡ
     translation: in them
     transliteration: fīhim
   21:
-    arabic: خَيۡرًا ​​ۖ 
+    arabic: خَيۡرٗاۖ
     translation: any good
     transliteration: khayran
   22:
-    arabic: وَّاٰ تُوۡهُمۡ
+    arabic: وَءَاتُوهُم
     translation: and give them
     transliteration: waātūhum
   23:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: from
     transliteration: min
   24:
@@ -111,15 +110,15 @@ word_by_word:
     translation: the wealth of Allah
     transliteration: māli
   25:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: the wealth of Allah
     transliteration: l-lahi
   26:
-    arabic: الَّذِىۡۤ
+    arabic: ٱلَّذِيٓ ءَ
     translation: which
     transliteration: alladhī
   27:
-    arabic: اٰتٰٮكُمۡ ​ؕ
+    arabic: اتَىٰكُمۡۚ
     translation: He has given you
     transliteration: ātākum
   28:
@@ -127,11 +126,11 @@ word_by_word:
     translation: And (do) not
     transliteration: walā
   29:
-    arabic: تُكۡرِهُوۡا
+    arabic: تُكۡرِهُواْ
     translation: compel
     transliteration: tuk'rihū
   30:
-    arabic: فَتَيٰتِكُمۡ
+    arabic: فَتَيَٰتِكُمۡ
     translation: your slave girls
     transliteration: fatayātikum
   31:
@@ -139,23 +138,23 @@ word_by_word:
     translation: to
     transliteration: ʿalā
   32:
-    arabic: الۡبِغَآءِ
+    arabic: ٱلۡبِغَآءِ
     translation: '[the] prostitution'
     transliteration: l-bighāi
   33:
-    arabic: اِنۡ
+    arabic: إِنۡ
     translation: if
     transliteration: in
   34:
-    arabic: اَرَدۡنَ
+    arabic: أَرَدۡنَ
     translation: they desire
     transliteration: aradna
   35:
-    arabic: تَحَصُّنًا
+    arabic: تَحَصُّنٗا
     translation: chastity
     transliteration: taḥaṣṣunan
   36:
-    arabic: لِّـتَبۡتَغُوۡا
+    arabic: لِّتَبۡتَغُواْ
     translation: that you may seek
     transliteration: litabtaghū
   37:
@@ -163,31 +162,31 @@ word_by_word:
     translation: temporary gain
     transliteration: ʿaraḍa
   38:
-    arabic: الۡحَيٰوةِ
+    arabic: ٱلۡحَيَوٰةِ
     translation: (of) the life
     transliteration: l-ḥayati
   39:
-    arabic: الدُّنۡيَا​ ؕ
+    arabic: ٱلدُّنۡيَاۚ
     translation: (of) the world
     transliteration: l-dun'yā
   40:
-    arabic: وَمَنۡ
+    arabic: وَمَن
     translation: And whoever
     transliteration: waman
   41:
-    arabic: يُّكۡرِهْهُّنَّ
+    arabic: يُكۡرِههُّنَّ
     translation: compels them
     transliteration: yuk'rihhunna
   42:
-    arabic: فَاِنَّ
+    arabic: فَإِنَّ
     translation: then indeed
     transliteration: fa-inna
   43:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   44:
-    arabic: مِنۡۢ
+    arabic: مِنۢ
     translation: after
     transliteration: min
   45:
@@ -195,15 +194,15 @@ word_by_word:
     translation: after
     transliteration: baʿdi
   46:
-    arabic: اِكۡرَاهِهِنَّ
+    arabic: إِكۡرَٰهِهِنَّ
     translation: their compulsion
     transliteration: ik'rāhihinna
   47:
-    arabic: غَفُوۡرٌ
+    arabic: غَفُورٞ
     translation: (is) Oft-Forgiving
     transliteration: ghafūrun
   48:
-    arabic: "رَّحِيۡمٌ‏ \uFEFF\uFEFF"
+    arabic: رَّحِيمٞ
     translation: Most Merciful
     transliteration: raḥīmun
 ---

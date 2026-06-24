@@ -1,10 +1,10 @@
 ---
-arabic_ayat: تِلۡكَ الرُّسُلُ فَضَّلۡنَا بَعۡضَهُمۡ عَلٰى بَعۡضٍ​ۘ مِنۡهُمۡ مَّنۡ
-  كَلَّمَ اللّٰهُ​ وَرَفَعَ بَعۡضَهُمۡ دَرَجٰتٍ​ؕ وَاٰتَيۡنَا عِيۡسَى ابۡنَ مَرۡيَمَ
-  الۡبَيِّنٰتِ وَاَيَّدۡنٰهُ بِرُوۡحِ الۡقُدُسِ​ؕ وَلَوۡ شَآءَ اللّٰهُ مَا اقۡتَتَلَ
-  الَّذِيۡنَ مِنۡۢ بَعۡدِهِمۡ مِّنۡۢ بَعۡدِ مَا جَآءَتۡهُمُ الۡبَيِّنٰتُ وَلٰـكِنِ
-  اخۡتَلَفُوۡا فَمِنۡهُمۡ مَّنۡ اٰمَنَ وَمِنۡهُمۡ مَّنۡ كَفَرَ​ؕ وَلَوۡ شَآءَ اللّٰهُ
-  مَا اقۡتَتَلُوۡا وَلٰـكِنَّ اللّٰهَ يَفۡعَلُ مَا يُرِيۡدُ‏
+arabic_ayat: ۞ تِلۡكَ ٱلرُّسُلُ فَضَّلۡنَا بَعۡضَهُمۡ عَلَىٰ بَعۡضٖۘ مِّنۡهُم مَّن
+  كَلَّمَ ٱللَّهُۖ وَرَفَعَ بَعۡضَهُمۡ دَرَجَٰتٖۚ وَءَاتَيۡنَا عِيسَى ٱبۡنَ مَرۡيَمَ
+  ٱلۡبَيِّنَٰتِ وَأَيَّدۡنَٰهُ بِرُوحِ ٱلۡقُدُسِۗ وَلَوۡ شَآءَ ٱللَّهُ مَا ٱقۡتَتَلَ
+  ٱلَّذِينَ مِنۢ بَعۡدِهِم مِّنۢ بَعۡدِ مَا جَآءَتۡهُمُ ٱلۡبَيِّنَٰتُ وَلَٰكِنِ ٱخۡتَلَفُواْ
+  فَمِنۡهُم مَّنۡ ءَامَنَ وَمِنۡهُم مَّن كَفَرَۚ وَلَوۡ شَآءَ ٱللَّهُ مَا ٱقۡتَتَلُواْ
+  وَلَٰكِنَّ ٱللَّهَ يَفۡعَلُ مَا يُرِيدُ
 sentence_translation: We have chosen some of those messengers above others. Allah
   spoke directly to some, and raised some high in rank. To Jesus, son of Mary, We
   gave clear proofs and supported him with the holy spirit. If Allah had willed, succeeding
@@ -13,11 +13,11 @@ sentence_translation: We have chosen some of those messengers above others. All
   they would not have fought one another. But Allah does what He wills.
 word_by_word:
   1:
-    arabic: ۞ تِلۡكَ
+    arabic: ۞ تِلۡكَ
     translation: These
     transliteration: til'ka
   2:
-    arabic: الرُّسُلُ
+    arabic: ٱلرُّسُلُ
     translation: (are) the Messengers
     transliteration: l-rusulu
   3:
@@ -29,19 +29,19 @@ word_by_word:
     translation: some of them
     transliteration: baʿḍahum
   5:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: over
     transliteration: ʿalā
   6:
-    arabic: بَعۡضٍ​ۘ
+    arabic: بَعۡضٖۘ
     translation: others
     transliteration: baʿḍin
   7:
-    arabic: مِنۡهُمۡ
+    arabic: مِّنۡهُم
     translation: Among them
     transliteration: min'hum
   8:
-    arabic: مَّنۡ
+    arabic: مَّن
     translation: (were those with) whom
     transliteration: man
   9:
@@ -49,7 +49,7 @@ word_by_word:
     translation: spoke
     transliteration: kallama
   10:
-    arabic: اللّٰهُ​
+    arabic: ٱللَّهُۖ
     translation: Allah
     transliteration: l-lahu
   11:
@@ -61,19 +61,19 @@ word_by_word:
     translation: some of them
     transliteration: baʿḍahum
   13:
-    arabic: دَرَجٰتٍ​ؕ
+    arabic: دَرَجَٰتٖۚ
     translation: (in) degrees
     transliteration: darajātin
   14:
-    arabic: وَاٰتَيۡنَا
+    arabic: وَءَاتَيۡنَا
     translation: And We gave
     transliteration: waātaynā
   15:
-    arabic: عِيۡسَى
+    arabic: عِيسَى
     translation: Isa
     transliteration: ʿīsā
   16:
-    arabic: ابۡنَ
+    arabic: ٱبۡنَ
     translation: son
     transliteration: ib'na
   17:
@@ -81,19 +81,19 @@ word_by_word:
     translation: (of) Maryam
     transliteration: maryama
   18:
-    arabic: الۡبَيِّنٰتِ
+    arabic: ٱلۡبَيِّنَٰتِ
     translation: the clear proofs
     transliteration: l-bayināti
   19:
-    arabic: وَاَيَّدۡنٰهُ
+    arabic: وَأَيَّدۡنَٰهُ
     translation: and We supported him
     transliteration: wa-ayyadnāhu
   20:
-    arabic: بِرُوۡحِ
+    arabic: بِرُوحِ
     translation: with Spirit
     transliteration: birūḥi
   21:
-    arabic: الۡقُدُسِ​ؕ
+    arabic: ٱلۡقُدُسِۗ
     translation: '[the] Holy'
     transliteration: l-qudusi
   22:
@@ -105,7 +105,7 @@ word_by_word:
     translation: (had) willed
     transliteration: shāa
   24:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   25:
@@ -113,23 +113,23 @@ word_by_word:
     translation: not
     transliteration: mā
   26:
-    arabic: اقۡتَتَلَ
+    arabic: ٱقۡتَتَلَ
     translation: (would have) fought each other
     transliteration: iq'tatala
   27:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   28:
-    arabic: مِنۡۢ
+    arabic: مِنۢ
     translation: (came) from
     transliteration: min
   29:
-    arabic: بَعۡدِهِمۡ
+    arabic: بَعۡدِهِم
     translation: after them
     transliteration: baʿdihim
   30:
-    arabic: مِّنۡۢ
+    arabic: مِّنۢ
     translation: from
     transliteration: min
   31:
@@ -145,39 +145,39 @@ word_by_word:
     translation: came to them
     transliteration: jāathumu
   34:
-    arabic: الۡبَيِّنٰتُ
+    arabic: ٱلۡبَيِّنَٰتُ
     translation: the clear proofs
     transliteration: l-bayinātu
   35:
-    arabic: وَلٰـكِنِ
+    arabic: وَلَٰكِنِ
     translation: '[And] but'
     transliteration: walākini
   36:
-    arabic: اخۡتَلَفُوۡا
+    arabic: ٱخۡتَلَفُواْ
     translation: they differed
     transliteration: ikh'talafū
   37:
-    arabic: فَمِنۡهُمۡ
+    arabic: فَمِنۡهُم
     translation: '[so] of them'
     transliteration: famin'hum
   38:
-    arabic: مَّنۡ
+    arabic: مَّنۡ ءَ
     translation: (are some) who
     transliteration: man
   39:
-    arabic: اٰمَنَ
+    arabic: امَنَ
     translation: believed
     transliteration: āmana
   40:
-    arabic: وَمِنۡهُمۡ
+    arabic: وَمِنۡهُم
     translation: and of them
     transliteration: wamin'hum
   41:
-    arabic: مَّنۡ
+    arabic: مَّن
     translation: (are some) who
     transliteration: man
   42:
-    arabic: كَفَرَ​ؕ
+    arabic: كَفَرَۚ
     translation: denied
     transliteration: kafara
   43:
@@ -189,7 +189,7 @@ word_by_word:
     translation: (had) willed
     transliteration: shāa
   45:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   46:
@@ -197,15 +197,15 @@ word_by_word:
     translation: not
     transliteration: mā
   47:
-    arabic: اقۡتَتَلُوۡا
+    arabic: ٱقۡتَتَلُواْ
     translation: they (would have) fought each other
     transliteration: iq'tatalū
   48:
-    arabic: وَلٰـكِنَّ
+    arabic: وَلَٰكِنَّ
     translation: '[and] but'
     transliteration: walākinna
   49:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   50:
@@ -217,7 +217,7 @@ word_by_word:
     translation: what
     transliteration: mā
   52:
-    arabic: يُرِيۡدُ‏
+    arabic: يُرِيدُ
     translation: He intends
     transliteration: yurīdu
 ---

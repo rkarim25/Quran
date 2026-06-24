@@ -1,9 +1,9 @@
 ---
-arabic_ayat: يٰۤاَيُّهَا الَّذِيۡنَ اٰمَنُوۡا كُوۡنُوۡۤا اَنۡصَارَ اللّٰهِ كَمَا قَالَ
-  عِيۡسَى ابۡنُ مَرۡيَمَ لِلۡحَوٰارِيّٖنَ مَنۡ اَنۡصَارِىۡۤ اِلَى اللّٰهِ​ؕ قَالَ
-  الۡحَـوٰرِيُّوۡنَ نَحۡنُ اَنۡصَارُ اللّٰهِ​ فَاٰمَنَتۡ طَّآٮِٕفَةٌ مِّنۡۢ بَنِىۡۤ
-  اِسۡرَآءِيۡلَ وَكَفَرَتۡ طَّآٮِٕفَةٌ ۚ فَاَيَّدۡنَا الَّذِيۡنَ اٰمَنُوۡا عَلٰى
-  عَدُوِّهِمۡ فَاَصۡبَحُوۡا ظٰهِرِيۡنَ‏
+arabic_ayat: يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُواْ كُونُوٓاْ أَنصَارَ ٱللَّهِ كَمَا قَالَ
+  عِيسَى ٱبۡنُ مَرۡيَمَ لِلۡحَوَارِيِّـۧنَ مَنۡ أَنصَارِيٓ إِلَى ٱللَّهِۖ قَالَ ٱلۡحَوَارِيُّونَ
+  نَحۡنُ أَنصَارُ ٱللَّهِۖ فَـَٔامَنَت طَّآئِفَةٞ مِّنۢ بَنِيٓ إِسۡرَٰٓءِيلَ وَكَفَرَت
+  طَّآئِفَةٞۖ فَأَيَّدۡنَا ٱلَّذِينَ ءَامَنُواْ عَلَىٰ عَدُوِّهِمۡ فَأَصۡبَحُواْ
+  ظَٰهِرِينَ
 sentence_translation: O believers! Stand up for Allah, as Jesus, son of Mary, asked
   the disciples, “Who will stand up with me for Allah?” The disciples replied, “We
   will stand up for Allah.” Then a group from the Children of Israel believed while
@@ -11,27 +11,27 @@ sentence_translation: O believers! Stand up for Allah, as Jesus, son of Mary, as
   prevailed.
 word_by_word:
   1:
-    arabic: يٰۤاَيُّهَا
+    arabic: يَٰٓأَيُّهَا
     translation: O you
     transliteration: yāayyuhā
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ ءَ
     translation: who
     transliteration: alladhīna
   3:
-    arabic: اٰمَنُوۡا
+    arabic: امَنُواْ
     translation: believe
     transliteration: āmanū
   4:
-    arabic: كُوۡنُوۡۤا
+    arabic: كُونُوٓاْ
     translation: Be
     transliteration: kūnū
   5:
-    arabic: اَنۡصَارَ
+    arabic: أَنصَارَ
     translation: helpers
     transliteration: anṣāra
   6:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (of) Allah
     transliteration: l-lahi
   7:
@@ -43,11 +43,11 @@ word_by_word:
     translation: said
     transliteration: qāla
   9:
-    arabic: عِيۡسَى
+    arabic: عِيسَى
     translation: Isa
     transliteration: ʿīsā
   10:
-    arabic: ابۡنُ
+    arabic: ٱبۡنُ
     translation: son
     transliteration: ub'nu
   11:
@@ -55,7 +55,7 @@ word_by_word:
     translation: (of) Maryam
     transliteration: maryama
   12:
-    arabic: لِلۡحَوٰارِيّٖنَ
+    arabic: لِلۡحَوَارِيِّـۧنَ
     translation: to the disciples
     transliteration: lil'ḥawāriyyīna
   13:
@@ -63,15 +63,15 @@ word_by_word:
     translation: Who
     transliteration: man
   14:
-    arabic: اَنۡصَارِىۡۤ
+    arabic: أَنصَارِيٓ
     translation: (are) my helpers
     transliteration: anṣārī
   15:
-    arabic: اِلَى
+    arabic: إِلَى
     translation: for
     transliteration: ilā
   16:
-    arabic: اللّٰهِ​ؕ
+    arabic: ٱللَّهِۖ
     translation: Allah
     transliteration: l-lahi
   17:
@@ -79,7 +79,7 @@ word_by_word:
     translation: Said
     transliteration: qāla
   18:
-    arabic: الۡحَـوٰرِيُّوۡنَ
+    arabic: ٱلۡحَوَارِيُّونَ
     translation: the disciples
     transliteration: l-ḥawāriyūna
   19:
@@ -87,55 +87,55 @@ word_by_word:
     translation: We
     transliteration: naḥnu
   20:
-    arabic: اَنۡصَارُ
+    arabic: أَنصَارُ
     translation: (are) the helpers
     transliteration: anṣāru
   21:
-    arabic: اللّٰهِ​
+    arabic: ٱللَّهِۖ
     translation: (of) Allah
     transliteration: l-lahi
   22:
-    arabic: فَاٰمَنَتۡ
+    arabic: فَـَٔامَنَت
     translation: Then believed
     transliteration: faāmanat
   23:
-    arabic: طَّآٮِٕفَةٌ
+    arabic: طَّآئِفَةٞ
     translation: a group
     transliteration: ṭāifatun
   24:
-    arabic: مِّنۡۢ
+    arabic: مِّنۢ
     translation: of
     transliteration: min
   25:
-    arabic: بَنِىۡۤ
+    arabic: بَنِيٓ
     translation: Children
     transliteration: banī
   26:
-    arabic: اِسۡرَآءِيۡلَ
+    arabic: إِسۡرَٰٓءِيلَ
     translation: (of) Israel
     transliteration: is'rāīla
   27:
-    arabic: وَكَفَرَتۡ
+    arabic: وَكَفَرَت
     translation: and disbelieved
     transliteration: wakafarat
   28:
-    arabic: طَّآٮِٕفَةٌ ۚ
+    arabic: طَّآئِفَةٞۖ
     translation: a group
     transliteration: ṭāifatun
   29:
-    arabic: فَاَيَّدۡنَا
+    arabic: فَأَيَّدۡنَا
     translation: So We supported
     transliteration: fa-ayyadnā
   30:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ ءَ
     translation: those who
     transliteration: alladhīna
   31:
-    arabic: اٰمَنُوۡا
+    arabic: امَنُواْ
     translation: believed
     transliteration: āmanū
   32:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: against
     transliteration: ʿalā
   33:
@@ -143,11 +143,11 @@ word_by_word:
     translation: their enemy
     transliteration: ʿaduwwihim
   34:
-    arabic: فَاَصۡبَحُوۡا
+    arabic: فَأَصۡبَحُواْ
     translation: and they became
     transliteration: fa-aṣbaḥū
   35:
-    arabic: ظٰهِرِيۡنَ‏
+    arabic: ظَٰهِرِينَ
     translation: dominant
     transliteration: ẓāhirīna
 ---

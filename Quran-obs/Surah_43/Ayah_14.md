@@ -1,13 +1,13 @@
 ---
-arabic_ayat: وَاِنَّاۤ اِلٰى رَبِّنَا لَمُنۡقَلِبُوۡنَ‏
+arabic_ayat: وَإِنَّآ إِلَىٰ رَبِّنَا لَمُنقَلِبُونَ
 sentence_translation: And surely to our Lord we will ˹all˺ return.”
 word_by_word:
   1:
-    arabic: وَاِنَّاۤ
+    arabic: وَإِنَّآ
     translation: And indeed, we
     transliteration: wa-innā
   2:
-    arabic: اِلٰى
+    arabic: إِلَىٰ
     translation: to
     transliteration: ilā
   3:
@@ -15,7 +15,7 @@ word_by_word:
     translation: our Lord
     transliteration: rabbinā
   4:
-    arabic: لَمُنۡقَلِبُوۡنَ‏
+    arabic: لَمُنقَلِبُونَ
     translation: will surely return
     transliteration: lamunqalibūna
 ---

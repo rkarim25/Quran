@@ -1,20 +1,20 @@
 ---
-arabic_ayat: كُلُوۡا مِنۡ طَيِّبٰتِ مَا رَزَقۡنٰكُمۡ وَلَا تَطۡغَوۡا فِيۡهِ فَيَحِلَّ
-  عَلَيۡكُمۡ غَضَبِىۡ​ۚ وَمَنۡ يَّحۡلِلۡ عَلَيۡهِ غَضَبِىۡ فَقَدۡ هَوٰى‏
+arabic_ayat: كُلُواْ مِن طَيِّبَٰتِ مَا رَزَقۡنَٰكُمۡ وَلَا تَطۡغَوۡاْ فِيهِ فَيَحِلَّ
+  عَلَيۡكُمۡ غَضَبِيۖ وَمَن يَحۡلِلۡ عَلَيۡهِ غَضَبِي فَقَدۡ هَوَىٰ
 sentence_translation: ˹saying,˺ “Eat from the good things We have provided for you,
   but do not transgress in them, or My wrath will befall you. And whoever My wrath
   befalls is certainly doomed.
 word_by_word:
   1:
-    arabic: كُلُوۡا
+    arabic: كُلُواْ
     translation: Eat
     transliteration: kulū
   2:
-    arabic: مِنۡ
+    arabic: مِن
     translation: of
     transliteration: min
   3:
-    arabic: طَيِّبٰتِ
+    arabic: طَيِّبَٰتِ
     translation: (the) good things
     transliteration: ṭayyibāti
   4:
@@ -22,7 +22,7 @@ word_by_word:
     translation: which
     transliteration: mā
   5:
-    arabic: رَزَقۡنٰكُمۡ
+    arabic: رَزَقۡنَٰكُمۡ
     translation: We have provided you
     transliteration: razaqnākum
   6:
@@ -30,11 +30,11 @@ word_by_word:
     translation: and (do) not
     transliteration: walā
   7:
-    arabic: تَطۡغَوۡا
+    arabic: تَطۡغَوۡاْ
     translation: transgress
     transliteration: taṭghaw
   8:
-    arabic: فِيۡهِ
+    arabic: فِيهِ
     translation: therein
     transliteration: fīhi
   9:
@@ -46,15 +46,15 @@ word_by_word:
     translation: upon you
     transliteration: ʿalaykum
   11:
-    arabic: غَضَبِىۡ​ۚ
+    arabic: غَضَبِيۖ
     translation: My Anger
     transliteration: ghaḍabī
   12:
-    arabic: وَمَنۡ
+    arabic: وَمَن
     translation: And whoever
     transliteration: waman
   13:
-    arabic: يَّحۡلِلۡ
+    arabic: يَحۡلِلۡ
     translation: on whom descends
     transliteration: yaḥlil
   14:
@@ -62,7 +62,7 @@ word_by_word:
     translation: on whom descends
     transliteration: ʿalayhi
   15:
-    arabic: غَضَبِىۡ
+    arabic: غَضَبِي
     translation: My Anger
     transliteration: ghaḍabī
   16:
@@ -70,7 +70,7 @@ word_by_word:
     translation: indeed
     transliteration: faqad
   17:
-    arabic: هَوٰى‏
+    arabic: هَوَىٰ
     translation: he (has) perished
     transliteration: hawā
 ---

@@ -1,10 +1,9 @@
 ---
-arabic_ayat: وَرَسُوۡلًا اِلٰى بَنِىۡۤ اِسۡرٰٓءِيۡلَ ۙ اَنِّىۡ قَدۡ جِئۡتُكُمۡ بِاٰيَةٍ
-  مِّنۡ رَّبِّكُمۡ ۙۚ اَنِّىۡۤ  اَخۡلُقُ لَـكُمۡ مِّنَ الطِّيۡنِ كَهَیْـــَٔةِ الطَّيۡرِ
-  فَاَنۡفُخُ فِيۡهِ فَيَكُوۡنُ طَيۡرًاۢ بِاِذۡنِ اللّٰهِ​​ۚ وَاُبۡرِئُ الۡاَكۡمَهَ
-  وَالۡاَبۡرَصَ وَاُحۡىِ الۡمَوۡتٰى بِاِذۡنِ اللّٰهِ​ۚ وَ اُنَبِّئُكُمۡ بِمَا تَاۡكُلُوۡنَ
-  وَمَا تَدَّخِرُوۡنَۙ فِىۡ بُيُوۡتِكُمۡ​ؕ اِنَّ فِىۡ ذٰ لِكَ لَاٰيَةً لَّـكُمۡ اِنۡ
-  كُنۡتُمۡ مُّؤۡمِنِيۡنَۚ‏
+arabic_ayat: وَرَسُولًا إِلَىٰ بَنِيٓ إِسۡرَٰٓءِيلَ أَنِّي قَدۡ جِئۡتُكُم بِـَٔايَةٖ
+  مِّن رَّبِّكُمۡ أَنِّيٓ أَخۡلُقُ لَكُم مِّنَ ٱلطِّينِ كَهَيۡـَٔةِ ٱلطَّيۡرِ فَأَنفُخُ
+  فِيهِ فَيَكُونُ طَيۡرَۢا بِإِذۡنِ ٱللَّهِۖ وَأُبۡرِئُ ٱلۡأَكۡمَهَ وَٱلۡأَبۡرَصَ
+  وَأُحۡيِ ٱلۡمَوۡتَىٰ بِإِذۡنِ ٱللَّهِۖ وَأُنَبِّئُكُم بِمَا تَأۡكُلُونَ وَمَا تَدَّخِرُونَ
+  فِي بُيُوتِكُمۡۚ إِنَّ فِي ذَٰلِكَ لَأٓيَةٗ لَّكُمۡ إِن كُنتُم مُّؤۡمِنِينَ
 sentence_translation: 'and ˹make him˺ a messenger to the Children of Israel ˹to proclaim,˺
   ‘I have come to you with a sign from your Lord: I will make for you a bird from
   clay, breathe into it, and it will become a ˹real˺ bird—by Allah’s Will. I will
@@ -13,23 +12,23 @@ sentence_translation: 'and ˹make him˺ a messenger to the Children of Israel ˹
   if you ˹truly˺ believe.'
 word_by_word:
   1:
-    arabic: وَرَسُوۡلًا
+    arabic: وَرَسُولًا
     translation: And (make him) a Messenger
     transliteration: warasūlan
   2:
-    arabic: اِلٰى
+    arabic: إِلَىٰ
     translation: to
     transliteration: ilā
   3:
-    arabic: بَنِىۡۤ
+    arabic: بَنِيٓ
     translation: (the) Children
     transliteration: banī
   4:
-    arabic: اِسۡرٰٓءِيۡلَ ۙ 
+    arabic: إِسۡرَٰٓءِيلَ
     translation: (of) Israel
     transliteration: is'rāīla
   5:
-    arabic: اَنِّىۡ
+    arabic: أَنِّي
     translation: Indeed, I
     transliteration: annī
   6:
@@ -37,31 +36,31 @@ word_by_word:
     translation: '[surely]'
     transliteration: qad
   7:
-    arabic: جِئۡتُكُمۡ
+    arabic: جِئۡتُكُم
     translation: '[I] (have) come (to) you'
     transliteration: ji'tukum
   8:
-    arabic: بِاٰيَةٍ
+    arabic: بِـَٔايَةٖ
     translation: with a sign
     transliteration: biāyatin
   9:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: from
     transliteration: min
   10:
-    arabic: رَّبِّكُمۡ ۙۚ
+    arabic: رَّبِّكُمۡ
     translation: your Lord
     transliteration: rabbikum
   11:
-    arabic: اَنِّىۡۤ
+    arabic: أَنِّيٓ
     translation: that I
     transliteration: annī
   12:
-    arabic: اَخۡلُقُ
+    arabic: أَخۡلُقُ
     translation: '[I] design'
     transliteration: akhluqu
   13:
-    arabic: لَـكُمۡ
+    arabic: لَكُم
     translation: for you
     transliteration: lakum
   14:
@@ -69,71 +68,71 @@ word_by_word:
     translation: from
     transliteration: mina
   15:
-    arabic: الطِّيۡنِ
+    arabic: ٱلطِّينِ
     translation: '[the] clay'
     transliteration: l-ṭīni
   16:
-    arabic: كَهَیْـــَٔةِ
+    arabic: كَهَيۡـَٔةِ
     translation: like the form
     transliteration: kahayati
   17:
-    arabic: الطَّيۡرِ
+    arabic: ٱلطَّيۡرِ
     translation: (of) the bird
     transliteration: l-ṭayri
   18:
-    arabic: فَاَنۡفُخُ
+    arabic: فَأَنفُخُ
     translation: then I breath
     transliteration: fa-anfukhu
   19:
-    arabic: فِيۡهِ
+    arabic: فِيهِ
     translation: into it
     transliteration: fīhi
   20:
-    arabic: فَيَكُوۡنُ
+    arabic: فَيَكُونُ
     translation: and it becomes
     transliteration: fayakūnu
   21:
-    arabic: طَيۡرًاۢ
+    arabic: طَيۡرَۢا
     translation: a bird
     transliteration: ṭayran
   22:
-    arabic: بِاِذۡنِ
+    arabic: بِإِذۡنِ
     translation: by (the) permission
     transliteration: bi-idh'ni
   23:
-    arabic: اللّٰهِ​​ۚ
+    arabic: ٱللَّهِۖ
     translation: (of) Allah
     transliteration: l-lahi
   24:
-    arabic: وَاُبۡرِئُ
+    arabic: وَأُبۡرِئُ
     translation: And I cure
     transliteration: wa-ub'ri-u
   25:
-    arabic: الۡاَكۡمَهَ
+    arabic: ٱلۡأَكۡمَهَ
     translation: the blind
     transliteration: l-akmaha
   26:
-    arabic: وَالۡاَبۡرَصَ
+    arabic: وَٱلۡأَبۡرَصَ
     translation: and the leper
     transliteration: wal-abraṣa
   27:
-    arabic: وَاُحۡىِ
+    arabic: وَأُحۡيِ
     translation: and I give life
     transliteration: wa-uḥ'yī
   28:
-    arabic: الۡمَوۡتٰى
+    arabic: ٱلۡمَوۡتَىٰ
     translation: (to) the dead
     transliteration: l-mawtā
   29:
-    arabic: بِاِذۡنِ
+    arabic: بِإِذۡنِ
     translation: by (the) permission
     transliteration: bi-idh'ni
   30:
-    arabic: اللّٰهِ​ۚ
+    arabic: ٱللَّهِۖ
     translation: (of) Allah
     transliteration: l-lahi
   31:
-    arabic: وَ اُنَبِّئُكُمۡ
+    arabic: وَأُنَبِّئُكُم
     translation: And I inform you
     transliteration: wa-unabbi-ukum
   32:
@@ -141,7 +140,7 @@ word_by_word:
     translation: of what
     transliteration: bimā
   33:
-    arabic: تَاۡكُلُوۡنَ
+    arabic: تَأۡكُلُونَ
     translation: you eat
     transliteration: takulūna
   34:
@@ -149,47 +148,47 @@ word_by_word:
     translation: and what
     transliteration: wamā
   35:
-    arabic: تَدَّخِرُوۡنَۙ
+    arabic: تَدَّخِرُونَ
     translation: you store
     transliteration: taddakhirūna
   36:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   37:
-    arabic: بُيُوۡتِكُمۡ​ؕ
+    arabic: بُيُوتِكُمۡۚ
     translation: your houses
     transliteration: buyūtikum
   38:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   39:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   40:
-    arabic: ذٰ لِكَ
+    arabic: ذَٰلِكَ
     translation: that
     transliteration: dhālika
   41:
-    arabic: لَاٰيَةً
+    arabic: لَأٓيَةٗ
     translation: (is) surely a sign
     transliteration: laāyatan
   42:
-    arabic: لَّـكُمۡ
+    arabic: لَّكُمۡ
     translation: for you
     transliteration: lakum
   43:
-    arabic: اِنۡ
+    arabic: إِن
     translation: if
     transliteration: in
   44:
-    arabic: كُنۡتُمۡ
+    arabic: كُنتُم
     translation: you are
     transliteration: kuntum
   45:
-    arabic: مُّؤۡمِنِيۡنَۚ‏
+    arabic: مُّؤۡمِنِينَ
     translation: believers
     transliteration: mu'minīna
 ---

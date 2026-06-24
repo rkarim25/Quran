@@ -1,27 +1,27 @@
 ---
-arabic_ayat: اَمَّا الَّذِيۡنَ اٰمَنُوۡا وَعَمِلُوا الصّٰلِحٰتِ فَلَهُمۡ جَنّٰتُ الۡمَاۡوٰى
-  نُزُلًاۢ بِمَا كَانُوۡا يَعۡمَلُوۡنَ‏
+arabic_ayat: أَمَّا ٱلَّذِينَ ءَامَنُواْ وَعَمِلُواْ ٱلصَّٰلِحَٰتِ فَلَهُمۡ جَنَّٰتُ
+  ٱلۡمَأۡوَىٰ نُزُلَۢا بِمَا كَانُواْ يَعۡمَلُونَ
 sentence_translation: As for those who believe and do good, they will have the Gardens
   of ˹Eternal˺ Residence—as an accommodation for what they used to do.
 word_by_word:
   1:
-    arabic: اَمَّا
+    arabic: أَمَّا
     translation: As for
     transliteration: ammā
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ ءَ
     translation: those who
     transliteration: alladhīna
   3:
-    arabic: اٰمَنُوۡا
+    arabic: امَنُواْ
     translation: believe
     transliteration: āmanū
   4:
-    arabic: وَعَمِلُوا
+    arabic: وَعَمِلُواْ
     translation: and do
     transliteration: waʿamilū
   5:
-    arabic: الصّٰلِحٰتِ
+    arabic: ٱلصَّٰلِحَٰتِ
     translation: righteous deeds
     transliteration: l-ṣāliḥāti
   6:
@@ -29,15 +29,15 @@ word_by_word:
     translation: then for them
     transliteration: falahum
   7:
-    arabic: جَنّٰتُ
+    arabic: جَنَّٰتُ
     translation: (are) Gardens
     transliteration: jannātu
   8:
-    arabic: الۡمَاۡوٰى
+    arabic: ٱلۡمَأۡوَىٰ
     translation: (of) Refuge
     transliteration: l-mawā
   9:
-    arabic: نُزُلًاۢ
+    arabic: نُزُلَۢا
     translation: (as) hospitality
     transliteration: nuzulan
   10:
@@ -45,11 +45,11 @@ word_by_word:
     translation: for what
     transliteration: bimā
   11:
-    arabic: كَانُوۡا
+    arabic: كَانُواْ
     translation: they used (to)
     transliteration: kānū
   12:
-    arabic: يَعۡمَلُوۡنَ‏
+    arabic: يَعۡمَلُونَ
     translation: do
     transliteration: yaʿmalūna
 ---

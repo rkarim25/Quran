@@ -1,5 +1,5 @@
 ---
-arabic_ayat: قَالَ رَبِّ لِمَ حَشَرۡتَنِىۡۤ اَعۡمٰى وَقَدۡ كُنۡتُ بَصِيۡرًا‏
+arabic_ayat: قَالَ رَبِّ لِمَ حَشَرۡتَنِيٓ أَعۡمَىٰ وَقَدۡ كُنتُ بَصِيرٗا
 sentence_translation: They will cry, “My Lord! Why have you raised me up blind, although
   I used to see?”
 word_by_word:
@@ -16,11 +16,11 @@ word_by_word:
     translation: Why
     transliteration: lima
   4:
-    arabic: حَشَرۡتَنِىۡۤ
+    arabic: حَشَرۡتَنِيٓ
     translation: You raised me
     transliteration: ḥashartanī
   5:
-    arabic: اَعۡمٰى
+    arabic: أَعۡمَىٰ
     translation: blind
     transliteration: aʿmā
   6:
@@ -28,11 +28,11 @@ word_by_word:
     translation: while [verily]
     transliteration: waqad
   7:
-    arabic: كُنۡتُ
+    arabic: كُنتُ
     translation: I had
     transliteration: kuntu
   8:
-    arabic: بَصِيۡرًا‏
+    arabic: بَصِيرٗا
     translation: sight
     transliteration: baṣīran
 ---

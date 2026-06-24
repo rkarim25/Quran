@@ -1,39 +1,39 @@
 ---
-arabic_ayat: اِرۡجِعُوۡۤا اِلٰٓى اَبِيۡكُمۡ فَقُوۡلُوۡا يٰۤاَبَانَاۤ اِنَّ ابۡنَكَ
-  سَرَقَ​ۚ وَمَا شَهِدۡنَاۤ اِلَّا بِمَا عَلِمۡنَا وَمَا كُنَّا لِلۡغَيۡبِ حٰفِظِيۡنَ‏
+arabic_ayat: ٱرۡجِعُوٓاْ إِلَىٰٓ أَبِيكُمۡ فَقُولُواْ يَٰٓأَبَانَآ إِنَّ ٱبۡنَكَ
+  سَرَقَ وَمَا شَهِدۡنَآ إِلَّا بِمَا عَلِمۡنَا وَمَا كُنَّا لِلۡغَيۡبِ حَٰفِظِينَ
 sentence_translation: Return to your father and say, ‘O our father! Your son committed
   theft. We testify only to what we know. We could not guard against the unforeseen.
 word_by_word:
   1:
-    arabic: اِرۡجِعُوۡۤا
+    arabic: ٱرۡجِعُوٓاْ
     translation: Return
     transliteration: ir'jiʿū
   2:
-    arabic: اِلٰٓى
+    arabic: إِلَىٰٓ
     translation: to
     transliteration: ilā
   3:
-    arabic: اَبِيۡكُمۡ
+    arabic: أَبِيكُمۡ
     translation: your father
     transliteration: abīkum
   4:
-    arabic: فَقُوۡلُوۡا
+    arabic: فَقُولُواْ
     translation: and say
     transliteration: faqūlū
   5:
-    arabic: يٰۤاَبَانَاۤ
+    arabic: يَٰٓأَبَانَآ
     translation: '''O our father'
     transliteration: yāabānā
   6:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   7:
-    arabic: ابۡنَكَ
+    arabic: ٱبۡنَكَ
     translation: your son
     transliteration: ib'naka
   8:
-    arabic: سَرَقَ​ۚ
+    arabic: سَرَقَ
     translation: has stolen
     transliteration: saraqa
   9:
@@ -41,11 +41,11 @@ word_by_word:
     translation: and not
     transliteration: wamā
   10:
-    arabic: شَهِدۡنَاۤ
+    arabic: شَهِدۡنَآ
     translation: we testify
     transliteration: shahid'nā
   11:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   12:
@@ -69,7 +69,7 @@ word_by_word:
     translation: of the unseen
     transliteration: lil'ghaybi
   17:
-    arabic: حٰفِظِيۡنَ‏
+    arabic: حَٰفِظِينَ
     translation: guardians
     transliteration: ḥāfiẓīna
 ---

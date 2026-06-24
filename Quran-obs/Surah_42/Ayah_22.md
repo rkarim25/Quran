@@ -1,7 +1,7 @@
 ---
-arabic_ayat: تَرَى الظّٰلِمِيۡنَ مُشۡفِقِيۡنَ مِمَّا كَسَبُوۡا وَهُوَ وَاقِعٌۢ بِهِمۡ​ؕ
-  وَالَّذِيۡنَ اٰمَنُوۡا وَعَمِلُوا الصّٰلِحٰتِ فِىۡ رَوۡضَاتِ الۡجَـنّٰتِ​ۚ لَهُمۡ
-  مَّا يَشَآءُوۡنَ عِنۡدَ رَبِّهِمۡ​ؕ ذٰلِكَ هُوَ الۡفَضۡلُ الۡكَبِيۡرُ‏
+arabic_ayat: تَرَى ٱلظَّٰلِمِينَ مُشۡفِقِينَ مِمَّا كَسَبُواْ وَهُوَ وَاقِعُۢ بِهِمۡۗ
+  وَٱلَّذِينَ ءَامَنُواْ وَعَمِلُواْ ٱلصَّٰلِحَٰتِ فِي رَوۡضَاتِ ٱلۡجَنَّاتِۖ لَهُم
+  مَّا يَشَآءُونَ عِندَ رَبِّهِمۡۚ ذَٰلِكَ هُوَ ٱلۡفَضۡلُ ٱلۡكَبِيرُ
 sentence_translation: You will see the wrongdoers fearful ˹of the punishment˺ for
   what they committed but it will be inevitable for them, whereas those who believe
   and do good will be in the lush Gardens of Paradise. They will have whatever they
@@ -12,11 +12,11 @@ word_by_word:
     translation: You will see
     transliteration: tarā
   2:
-    arabic: الظّٰلِمِيۡنَ
+    arabic: ٱلظَّٰلِمِينَ
     translation: the wrongdoers
     transliteration: l-ẓālimīna
   3:
-    arabic: مُشۡفِقِيۡنَ
+    arabic: مُشۡفِقِينَ
     translation: fearful
     transliteration: mush'fiqīna
   4:
@@ -24,7 +24,7 @@ word_by_word:
     translation: of what
     transliteration: mimmā
   5:
-    arabic: كَسَبُوۡا
+    arabic: كَسَبُواْ
     translation: they earned
     transliteration: kasabū
   6:
@@ -32,31 +32,31 @@ word_by_word:
     translation: and it
     transliteration: wahuwa
   7:
-    arabic: وَاقِعٌۢ
+    arabic: وَاقِعُۢ
     translation: (will) befall
     transliteration: wāqiʿun
   8:
-    arabic: بِهِمۡ​ؕ
+    arabic: بِهِمۡۗ
     translation: '[on] them'
     transliteration: bihim
   9:
-    arabic: وَالَّذِيۡنَ
+    arabic: وَٱلَّذِينَ ءَ
     translation: And those who
     transliteration: wa-alladhīna
   10:
-    arabic: اٰمَنُوۡا
+    arabic: امَنُواْ
     translation: believe
     transliteration: āmanū
   11:
-    arabic: وَعَمِلُوا
+    arabic: وَعَمِلُواْ
     translation: and do
     transliteration: waʿamilū
   12:
-    arabic: الصّٰلِحٰتِ
+    arabic: ٱلصَّٰلِحَٰتِ
     translation: righteous deeds
     transliteration: l-ṣāliḥāti
   13:
-    arabic: فِىۡ
+    arabic: فِي
     translation: (will be) in
     transliteration: fī
   14:
@@ -64,11 +64,11 @@ word_by_word:
     translation: flowering meadows
     transliteration: rawḍāti
   15:
-    arabic: الۡجَـنّٰتِ​ۚ
+    arabic: ٱلۡجَنَّاتِۖ
     translation: (of) the Gardens
     transliteration: l-janāti
   16:
-    arabic: لَهُمۡ
+    arabic: لَهُم
     translation: for them
     transliteration: lahum
   17:
@@ -76,19 +76,19 @@ word_by_word:
     translation: (is) whatever
     transliteration: mā
   18:
-    arabic: يَشَآءُوۡنَ
+    arabic: يَشَآءُونَ
     translation: they wish
     transliteration: yashāūna
   19:
-    arabic: عِنۡدَ
+    arabic: عِندَ
     translation: with
     transliteration: ʿinda
   20:
-    arabic: رَبِّهِمۡ​ؕ
+    arabic: رَبِّهِمۡۚ
     translation: their Lord
     transliteration: rabbihim
   21:
-    arabic: ذٰلِكَ
+    arabic: ذَٰلِكَ
     translation: 'That '
     transliteration: dhālika
   22:
@@ -96,11 +96,11 @@ word_by_word:
     translation: it
     transliteration: huwa
   23:
-    arabic: الۡفَضۡلُ
+    arabic: ٱلۡفَضۡلُ
     translation: (is) the Bounty
     transliteration: l-faḍlu
   24:
-    arabic: الۡكَبِيۡرُ‏
+    arabic: ٱلۡكَبِيرُ
     translation: the Great
     transliteration: l-kabīru
 ---

@@ -1,6 +1,6 @@
 ---
-arabic_ayat: وَوَهَبۡنَا لَهٗۤ اَهۡلَهٗ وَمِثۡلَهُمۡ مَّعَهُمۡ رَحۡمَةً مِّنَّا وَذِكۡرٰى
-  لِاُولِى الۡاَلۡبَابِ‏
+arabic_ayat: وَوَهَبۡنَا لَهُۥٓ أَهۡلَهُۥ وَمِثۡلَهُم مَّعَهُمۡ رَحۡمَةٗ مِّنَّا وَذِكۡرَىٰ
+  لِأُوْلِي ٱلۡأَلۡبَٰبِ
 sentence_translation: And We gave him back his family, twice as many, as a mercy from
   Us and a lesson for people of reason.
 word_by_word:
@@ -9,15 +9,15 @@ word_by_word:
     translation: And We granted
     transliteration: wawahabnā
   2:
-    arabic: لَهٗۤ
+    arabic: لَهُۥٓ
     translation: '[to] him'
     transliteration: lahu
   3:
-    arabic: اَهۡلَهٗ
+    arabic: أَهۡلَهُۥ
     translation: his family
     transliteration: ahlahu
   4:
-    arabic: وَمِثۡلَهُمۡ
+    arabic: وَمِثۡلَهُم
     translation: and a like of them
     transliteration: wamith'lahum
   5:
@@ -25,7 +25,7 @@ word_by_word:
     translation: with them
     transliteration: maʿahum
   6:
-    arabic: رَحۡمَةً
+    arabic: رَحۡمَةٗ
     translation: a Mercy
     transliteration: raḥmatan
   7:
@@ -33,15 +33,15 @@ word_by_word:
     translation: from Us
     transliteration: minnā
   8:
-    arabic: وَذِكۡرٰى
+    arabic: وَذِكۡرَىٰ
     translation: and a Reminder
     transliteration: wadhik'rā
   9:
-    arabic: لِاُولِى
+    arabic: لِأُوْلِي
     translation: for those of understanding
     transliteration: li-ulī
   10:
-    arabic: الۡاَلۡبَابِ‏
+    arabic: ٱلۡأَلۡبَٰبِ
     translation: for those of understanding
     transliteration: l-albābi
 ---

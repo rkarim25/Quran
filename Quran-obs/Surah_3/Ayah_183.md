@@ -1,8 +1,8 @@
 ---
-arabic_ayat: اَلَّذِيۡنَ قَالُوۡۤا اِنَّ اللّٰهَ عَهِدَ اِلَيۡنَاۤ اَلَّا نُؤۡمِنَ
-  لِرَسُوۡلٍ حَتّٰى يَاۡتِيَنَا بِقُرۡبَانٍ تَاۡكُلُهُ النَّارُ​ؕ قُلۡ قَدۡ جَآءَكُمۡ
-  رُسُلٌ مِّنۡ قَبۡلِىۡ بِالۡبَيِّنٰتِ وَبِالَّذِىۡ قُلۡتُمۡ فَلِمَ قَتَلۡتُمُوۡهُمۡ
-  اِنۡ كُنۡتُمۡ صٰدِقِيۡنَ‏
+arabic_ayat: ٱلَّذِينَ قَالُوٓاْ إِنَّ ٱللَّهَ عَهِدَ إِلَيۡنَآ أَلَّا نُؤۡمِنَ لِرَسُولٍ
+  حَتَّىٰ يَأۡتِيَنَا بِقُرۡبَانٖ تَأۡكُلُهُ ٱلنَّارُۗ قُلۡ قَدۡ جَآءَكُمۡ رُسُلٞ
+  مِّن قَبۡلِي بِٱلۡبَيِّنَٰتِ وَبِٱلَّذِي قُلۡتُمۡ فَلِمَ قَتَلۡتُمُوهُمۡ إِن كُنتُمۡ
+  صَٰدِقِينَ
 sentence_translation: Those ˹are the same people˺ who say, “Allah has commanded us
   not to believe in any messenger unless he brings us an offering to be consumed by
   fire ˹from the sky˺.” Say, ˹O Prophet,˺ “Other prophets did in fact come to you before
@@ -10,19 +10,19 @@ sentence_translation: Those ˹are the same people˺ who say, “Allah has comman
   what you say is true?”
 word_by_word:
   1:
-    arabic: اَلَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: Those who
     transliteration: alladhīna
   2:
-    arabic: قَالُوۡۤا
+    arabic: قَالُوٓاْ
     translation: said
     transliteration: qālū
   3:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   4:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   5:
@@ -30,11 +30,11 @@ word_by_word:
     translation: (has) taken promise
     transliteration: ʿahida
   6:
-    arabic: اِلَيۡنَاۤ
+    arabic: إِلَيۡنَآ
     translation: from us
     transliteration: ilaynā
   7:
-    arabic: اَلَّا
+    arabic: أَلَّا
     translation: that not
     transliteration: allā
   8:
@@ -42,27 +42,27 @@ word_by_word:
     translation: we (should) believe
     transliteration: nu'mina
   9:
-    arabic: لِرَسُوۡلٍ
+    arabic: لِرَسُولٍ
     translation: in a Messenger
     transliteration: lirasūlin
   10:
-    arabic: حَتّٰى
+    arabic: حَتَّىٰ
     translation: until
     transliteration: ḥattā
   11:
-    arabic: يَاۡتِيَنَا
+    arabic: يَأۡتِيَنَا
     translation: he brings to us
     transliteration: yatiyanā
   12:
-    arabic: بِقُرۡبَانٍ
+    arabic: بِقُرۡبَانٖ
     translation: 'a sacrifice '
     transliteration: biqur'bānin
   13:
-    arabic: تَاۡكُلُهُ
+    arabic: تَأۡكُلُهُ
     translation: consumes it
     transliteration: takuluhu
   14:
-    arabic: النَّارُ​ؕ
+    arabic: ٱلنَّارُۗ
     translation: the fire
     transliteration: l-nāru
   15:
@@ -78,23 +78,23 @@ word_by_word:
     translation: came to you
     transliteration: jāakum
   18:
-    arabic: رُسُلٌ
+    arabic: رُسُلٞ
     translation: Messengers
     transliteration: rusulun
   19:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: from
     transliteration: min
   20:
-    arabic: قَبۡلِىۡ
+    arabic: قَبۡلِي
     translation: before me
     transliteration: qablī
   21:
-    arabic: بِالۡبَيِّنٰتِ
+    arabic: بِٱلۡبَيِّنَٰتِ
     translation: with the clear Signs
     transliteration: bil-bayināti
   22:
-    arabic: وَبِالَّذِىۡ
+    arabic: وَبِٱلَّذِي
     translation: and with what
     transliteration: wabi-alladhī
   23:
@@ -106,19 +106,19 @@ word_by_word:
     translation: So why
     transliteration: falima
   25:
-    arabic: قَتَلۡتُمُوۡهُمۡ
+    arabic: قَتَلۡتُمُوهُمۡ
     translation: you killed them
     transliteration: qataltumūhum
   26:
-    arabic: اِنۡ
+    arabic: إِن
     translation: if
     transliteration: in
   27:
-    arabic: كُنۡتُمۡ
+    arabic: كُنتُمۡ
     translation: you are
     transliteration: kuntum
   28:
-    arabic: صٰدِقِيۡنَ‏
+    arabic: صَٰدِقِينَ
     translation: truthful
     transliteration: ṣādiqīna
 ---

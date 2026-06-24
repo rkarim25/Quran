@@ -1,8 +1,7 @@
 ---
-arabic_ayat: وَالَّذِيۡنَ اتَّخَذُوۡا مَسۡجِدًا ضِرَارًا وَّكُفۡرًا وَّتَفۡرِيۡقًۢا
-  بَيۡنَ الۡمُؤۡمِنِيۡنَ وَاِرۡصَادًا لِّمَنۡ حَارَبَ اللّٰهَ وَرَسُوۡلَهٗ مِنۡ قَبۡلُ​ؕ
-  وَلَيَحۡلِفُنَّ اِنۡ اَرَدۡنَاۤ اِلَّا الۡحُسۡنٰى​ؕ وَاللّٰهُ يَشۡهَدُ اِنَّهُمۡ
-  لَـكٰذِبُوۡنَ‏
+arabic_ayat: وَٱلَّذِينَ ٱتَّخَذُواْ مَسۡجِدٗا ضِرَارٗا وَكُفۡرٗا وَتَفۡرِيقَۢا بَيۡنَ
+  ٱلۡمُؤۡمِنِينَ وَإِرۡصَادٗا لِّمَنۡ حَارَبَ ٱللَّهَ وَرَسُولَهُۥ مِن قَبۡلُۚ وَلَيَحۡلِفُنَّ
+  إِنۡ أَرَدۡنَآ إِلَّا ٱلۡحُسۡنَىٰۖ وَٱللَّهُ يَشۡهَدُ إِنَّهُمۡ لَكَٰذِبُونَ
 sentence_translation: There are also those ˹hypocrites˺ who set up a mosque ˹only˺
   to cause harm, promote disbelief, divide the believers, and as a base for those
   who had previously fought against Allah and His Messenger. They will definitely
@@ -10,27 +9,27 @@ sentence_translation: There are also those ˹hypocrites˺ who set up a mosque ˹
   liars.
 word_by_word:
   1:
-    arabic: وَالَّذِيۡنَ
+    arabic: وَٱلَّذِينَ
     translation: And those who
     transliteration: wa-alladhīna
   2:
-    arabic: اتَّخَذُوۡا
+    arabic: ٱتَّخَذُواْ
     translation: take
     transliteration: ittakhadhū
   3:
-    arabic: مَسۡجِدًا
+    arabic: مَسۡجِدٗا
     translation: a masjid
     transliteration: masjidan
   4:
-    arabic: ضِرَارًا
+    arabic: ضِرَارٗا
     translation: (for causing) harm
     transliteration: ḍirāran
   5:
-    arabic: وَّكُفۡرًا
+    arabic: وَكُفۡرٗا
     translation: and (for) disbelief
     transliteration: wakuf'ran
   6:
-    arabic: وَّتَفۡرِيۡقًۢا
+    arabic: وَتَفۡرِيقَۢا
     translation: and (for) division
     transliteration: watafrīqan
   7:
@@ -38,11 +37,11 @@ word_by_word:
     translation: among
     transliteration: bayna
   8:
-    arabic: الۡمُؤۡمِنِيۡنَ
+    arabic: ٱلۡمُؤۡمِنِينَ
     translation: the believers
     transliteration: l-mu'minīna
   9:
-    arabic: وَاِرۡصَادًا
+    arabic: وَإِرۡصَادٗا
     translation: and (as) a station
     transliteration: wa-ir'ṣādan
   10:
@@ -54,19 +53,19 @@ word_by_word:
     translation: warred
     transliteration: ḥāraba
   12:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: (against) Allah
     transliteration: l-laha
   13:
-    arabic: وَرَسُوۡلَهٗ
+    arabic: وَرَسُولَهُۥ
     translation: and His Messenger
     transliteration: warasūlahu
   14:
-    arabic: مِنۡ
+    arabic: مِن
     translation: before
     transliteration: min
   15:
-    arabic: قَبۡلُ​ؕ
+    arabic: قَبۡلُۚ
     translation: before
     transliteration: qablu
   16:
@@ -74,23 +73,23 @@ word_by_word:
     translation: And surely they will swear
     transliteration: walayaḥlifunna
   17:
-    arabic: اِنۡ
+    arabic: إِنۡ
     translation: Not
     transliteration: in
   18:
-    arabic: اَرَدۡنَاۤ
+    arabic: أَرَدۡنَآ
     translation: we wish
     transliteration: aradnā
   19:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   20:
-    arabic: الۡحُسۡنٰى​ؕ
+    arabic: ٱلۡحُسۡنَىٰۖ
     translation: the good
     transliteration: l-ḥus'nā
   21:
-    arabic: وَاللّٰهُ
+    arabic: وَٱللَّهُ
     translation: But Allah
     transliteration: wal-lahu
   22:
@@ -98,11 +97,11 @@ word_by_word:
     translation: bears witness
     transliteration: yashhadu
   23:
-    arabic: اِنَّهُمۡ
+    arabic: إِنَّهُمۡ
     translation: indeed, they
     transliteration: innahum
   24:
-    arabic: لَـكٰذِبُوۡنَ‏
+    arabic: لَكَٰذِبُونَ
     translation: (are) surely liars
     transliteration: lakādhibūna
 ---

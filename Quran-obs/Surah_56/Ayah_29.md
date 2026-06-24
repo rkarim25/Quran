@@ -1,13 +1,13 @@
 ---
-arabic_ayat: وَّطَلۡحٍ مَّنۡضُوۡدٍۙ‏
+arabic_ayat: وَطَلۡحٖ مَّنضُودٖ
 sentence_translation: clusters of bananas,
 word_by_word:
   1:
-    arabic: وَّطَلۡحٍ
+    arabic: وَطَلۡحٖ
     translation: And banana trees
     transliteration: waṭalḥin
   2:
-    arabic: مَّنۡضُوۡدٍۙ‏
+    arabic: مَّنضُودٖ
     translation: layered
     transliteration: manḍūdin
 ---

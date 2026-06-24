@@ -1,14 +1,14 @@
 ---
-arabic_ayat: اَلَمۡ تَرَ اَنَّ اللّٰهَ سَخَّرَ لَـكُمۡ مَّا فِى الۡاَرۡضِ وَالۡـفُلۡكَ
-  تَجۡرِىۡ فِى الۡبَحۡرِ بِاَمۡرِهٖ ؕ وَيُمۡسِكُ السَّمَآءَ اَنۡ تَقَعَ عَلَى الۡاَرۡضِ
-  اِلَّا بِاِذۡنِهٖ ؕ اِنَّ اللّٰهَ بِالنَّاسِ لَرَءُوۡفٌ رَّحِيۡمٌ‏
+arabic_ayat: أَلَمۡ تَرَ أَنَّ ٱللَّهَ سَخَّرَ لَكُم مَّا فِي ٱلۡأَرۡضِ وَٱلۡفُلۡكَ
+  تَجۡرِي فِي ٱلۡبَحۡرِ بِأَمۡرِهِۦ وَيُمۡسِكُ ٱلسَّمَآءَ أَن تَقَعَ عَلَى ٱلۡأَرۡضِ
+  إِلَّا بِإِذۡنِهِۦٓۚ إِنَّ ٱللَّهَ بِٱلنَّاسِ لَرَءُوفٞ رَّحِيمٞ
 sentence_translation: Do you not see that Allah has subjected to you whatever is in
   the earth as well as the ships ˹that˺ sail through the sea by His command? He keeps
   the sky from falling down on the earth except by His permission. Surely Allah is
   Ever Gracious and Most Merciful to humanity.
 word_by_word:
   1:
-    arabic: اَلَمۡ
+    arabic: أَلَمۡ
     translation: Do not
     transliteration: alam
   2:
@@ -16,11 +16,11 @@ word_by_word:
     translation: you see
     transliteration: tara
   3:
-    arabic: اَنَّ
+    arabic: أَنَّ
     translation: that
     transliteration: anna
   4:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   5:
@@ -28,7 +28,7 @@ word_by_word:
     translation: (has) subjected
     transliteration: sakhara
   6:
-    arabic: لَـكُمۡ
+    arabic: لَكُم
     translation: to you
     transliteration: lakum
   7:
@@ -36,31 +36,31 @@ word_by_word:
     translation: what
     transliteration: mā
   8:
-    arabic: فِى
+    arabic: فِي
     translation: (is) in
     transliteration: fī
   9:
-    arabic: الۡاَرۡضِ
+    arabic: ٱلۡأَرۡضِ
     translation: the earth
     transliteration: l-arḍi
   10:
-    arabic: وَالۡـفُلۡكَ
+    arabic: وَٱلۡفُلۡكَ
     translation: and the ships
     transliteration: wal-ful'ka
   11:
-    arabic: تَجۡرِىۡ
+    arabic: تَجۡرِي
     translation: that sail
     transliteration: tajrī
   12:
-    arabic: فِى
+    arabic: فِي
     translation: through
     transliteration: fī
   13:
-    arabic: الۡبَحۡرِ
+    arabic: ٱلۡبَحۡرِ
     translation: the sea
     transliteration: l-baḥri
   14:
-    arabic: بِاَمۡرِهٖ ؕ
+    arabic: بِأَمۡرِهِۦ
     translation: by His Command
     transliteration: bi-amrihi
   15:
@@ -68,11 +68,11 @@ word_by_word:
     translation: And He withholds
     transliteration: wayum'siku
   16:
-    arabic: السَّمَآءَ
+    arabic: ٱلسَّمَآءَ
     translation: the sky
     transliteration: l-samāa
   17:
-    arabic: اَنۡ
+    arabic: أَن
     translation: lest
     transliteration: an
   18:
@@ -84,35 +84,35 @@ word_by_word:
     translation: 'on'
     transliteration: ʿalā
   20:
-    arabic: الۡاَرۡضِ
+    arabic: ٱلۡأَرۡضِ
     translation: the earth
     transliteration: l-arḍi
   21:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   22:
-    arabic: بِاِذۡنِهٖ ؕ
+    arabic: بِإِذۡنِهِۦٓۚ
     translation: by His permission
     transliteration: bi-idh'nihi
   23:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   24:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   25:
-    arabic: بِالنَّاسِ
+    arabic: بِٱلنَّاسِ
     translation: to mankind
     transliteration: bil-nāsi
   26:
-    arabic: لَرَءُوۡفٌ
+    arabic: لَرَءُوفٞ
     translation: (is) Full of Kindness
     transliteration: laraūfun
   27:
-    arabic: رَّحِيۡمٌ‏
+    arabic: رَّحِيمٞ
     translation: Most Merciful
     transliteration: raḥīmun
 ---

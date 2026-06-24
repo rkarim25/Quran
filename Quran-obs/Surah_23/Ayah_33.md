@@ -1,8 +1,7 @@
 ---
-arabic_ayat: وَقَالَ الۡمَلَاُ مِنۡ قَوۡمِهِ الَّذِيۡنَ كَفَرُوۡا وَكَذَّبُوۡا بِلِقَآءِ
-  الۡاٰخِرَةِ وَاَتۡرَفۡنٰهُمۡ فِى الۡحَيٰوةِ الدُّنۡيَا ۙ مَا هٰذَاۤ اِلَّا بَشَرٌ
-  مِّثۡلُكُمۡ ۙ يَاۡكُلُ مِمَّا تَاۡكُلُوۡنَ مِنۡهُ وَيَشۡرَبُ مِمَّا تَشۡرَبُوۡنَ
-  ۙ‏
+arabic_ayat: وَقَالَ ٱلۡمَلَأُ مِن قَوۡمِهِ ٱلَّذِينَ كَفَرُواْ وَكَذَّبُواْ بِلِقَآءِ
+  ٱلۡأٓخِرَةِ وَأَتۡرَفۡنَٰهُمۡ فِي ٱلۡحَيَوٰةِ ٱلدُّنۡيَا مَا هَٰذَآ إِلَّا بَشَرٞ
+  مِّثۡلُكُمۡ يَأۡكُلُ مِمَّا تَأۡكُلُونَ مِنۡهُ وَيَشۡرَبُ مِمَّا تَشۡرَبُونَ
 sentence_translation: But the chiefs of his people—who disbelieved, denied the meeting
   ˹with Allah˺ in the Hereafter, and were spoiled by the worldly luxuries We had provided
   for them—said ˹to the masses˺, “This is only a human like you. He eats what you
@@ -13,11 +12,11 @@ word_by_word:
     translation: And said
     transliteration: waqāla
   2:
-    arabic: الۡمَلَاُ
+    arabic: ٱلۡمَلَأُ
     translation: the chiefs
     transliteration: l-mala-u
   3:
-    arabic: مِنۡ
+    arabic: مِن
     translation: of
     transliteration: min
   4:
@@ -25,15 +24,15 @@ word_by_word:
     translation: his people
     transliteration: qawmihi
   5:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: who
     transliteration: alladhīna
   6:
-    arabic: كَفَرُوۡا
+    arabic: كَفَرُواْ
     translation: disbelieved
     transliteration: kafarū
   7:
-    arabic: وَكَذَّبُوۡا
+    arabic: وَكَذَّبُواْ
     translation: and denied
     transliteration: wakadhabū
   8:
@@ -41,23 +40,23 @@ word_by_word:
     translation: (the) meeting
     transliteration: biliqāi
   9:
-    arabic: الۡاٰخِرَةِ
+    arabic: ٱلۡأٓخِرَةِ
     translation: (of) the Hereafter
     transliteration: l-ākhirati
   10:
-    arabic: وَاَتۡرَفۡنٰهُمۡ
+    arabic: وَأَتۡرَفۡنَٰهُمۡ
     translation: while We had given them luxury
     transliteration: wa-atrafnāhum
   11:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   12:
-    arabic: الۡحَيٰوةِ
+    arabic: ٱلۡحَيَوٰةِ
     translation: the life
     transliteration: l-ḥayati
   13:
-    arabic: الدُّنۡيَا ۙ
+    arabic: ٱلدُّنۡيَا
     translation: (of) the world
     transliteration: l-dun'yā
   14:
@@ -65,23 +64,23 @@ word_by_word:
     translation: Not
     transliteration: mā
   15:
-    arabic: هٰذَاۤ
+    arabic: هَٰذَآ
     translation: (is) this
     transliteration: hādhā
   16:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: but
     transliteration: illā
   17:
-    arabic: بَشَرٌ
+    arabic: بَشَرٞ
     translation: a man
     transliteration: basharun
   18:
-    arabic: مِّثۡلُكُمۡ ۙ
+    arabic: مِّثۡلُكُمۡ
     translation: like you
     transliteration: mith'lukum
   19:
-    arabic: يَاۡكُلُ
+    arabic: يَأۡكُلُ
     translation: He eats
     transliteration: yakulu
   20:
@@ -89,7 +88,7 @@ word_by_word:
     translation: of what
     transliteration: mimmā
   21:
-    arabic: تَاۡكُلُوۡنَ
+    arabic: تَأۡكُلُونَ
     translation: you eat
     transliteration: takulūna
   22:
@@ -105,7 +104,7 @@ word_by_word:
     translation: of what
     transliteration: mimmā
   25:
-    arabic: تَشۡرَبُوۡنَ ۙ‏
+    arabic: تَشۡرَبُونَ
     translation: you drink
     transliteration: tashrabūna
 ---

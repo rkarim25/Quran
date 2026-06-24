@@ -1,6 +1,6 @@
 ---
-arabic_ayat: وَلَقَدۡ ضَرَبۡنَا لِلنَّاسِ فِىۡ هٰذَا الۡقُرۡاٰنِ مِنۡ كُلِّ مَثَلٍ
-  لَّعَلَّهُمۡ يَتَذَكَّرُوۡنَ​ۚ‏
+arabic_ayat: وَلَقَدۡ ضَرَبۡنَا لِلنَّاسِ فِي هَٰذَا ٱلۡقُرۡءَانِ مِن كُلِّ مَثَلٖ
+  لَّعَلَّهُمۡ يَتَذَكَّرُونَ
 sentence_translation: We have certainly set forth every ˹kind of˺ lesson for people
   in this Quran, so perhaps they will be mindful.
 word_by_word:
@@ -17,19 +17,19 @@ word_by_word:
     translation: for people
     transliteration: lilnnāsi
   4:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   5:
-    arabic: هٰذَا
+    arabic: هَٰذَا
     translation: this
     transliteration: hādhā
   6:
-    arabic: الۡقُرۡاٰنِ
+    arabic: ٱلۡقُرۡءَانِ
     translation: Quran
     transliteration: l-qur'āni
   7:
-    arabic: مِنۡ
+    arabic: مِن
     translation: of
     transliteration: min
   8:
@@ -37,7 +37,7 @@ word_by_word:
     translation: every
     transliteration: kulli
   9:
-    arabic: مَثَلٍ
+    arabic: مَثَلٖ
     translation: example
     transliteration: mathalin
   10:
@@ -45,7 +45,7 @@ word_by_word:
     translation: so that they may
     transliteration: laʿallahum
   11:
-    arabic: يَتَذَكَّرُوۡنَ​ۚ‏
+    arabic: يَتَذَكَّرُونَ
     translation: take heed
     transliteration: yatadhakkarūna
 ---

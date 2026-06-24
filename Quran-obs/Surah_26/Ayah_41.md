@@ -1,6 +1,6 @@
 ---
-arabic_ayat: فَلَمَّا جَآءَ السَّحَرَةُ قَالُوۡا لِفِرۡعَوۡنَ اَٮِٕنَّ لَـنَا لَاَجۡرًا
-  اِنۡ كُنَّا نَحۡنُ الۡغٰلِبِيۡنَ‏
+arabic_ayat: فَلَمَّا جَآءَ ٱلسَّحَرَةُ قَالُواْ لِفِرۡعَوۡنَ أَئِنَّ لَنَا لَأَجۡرًا
+  إِن كُنَّا نَحۡنُ ٱلۡغَٰلِبِينَ
 sentence_translation: When the magicians came, they asked Pharaoh, “Shall we have
   a ˹suitable˺ reward if we prevail?”
 word_by_word:
@@ -13,11 +13,11 @@ word_by_word:
     translation: came
     transliteration: jāa
   3:
-    arabic: السَّحَرَةُ
+    arabic: ٱلسَّحَرَةُ
     translation: the magicians
     transliteration: l-saḥaratu
   4:
-    arabic: قَالُوۡا
+    arabic: قَالُواْ
     translation: they said
     transliteration: qālū
   5:
@@ -25,19 +25,19 @@ word_by_word:
     translation: to Firaun
     transliteration: lifir'ʿawna
   6:
-    arabic: اَٮِٕنَّ
+    arabic: أَئِنَّ
     translation: Is there
     transliteration: a-inna
   7:
-    arabic: لَـنَا
+    arabic: لَنَا
     translation: for us
     transliteration: lanā
   8:
-    arabic: لَاَجۡرًا
+    arabic: لَأَجۡرًا
     translation: a reward
     transliteration: la-ajran
   9:
-    arabic: اِنۡ
+    arabic: إِن
     translation: if
     transliteration: in
   10:
@@ -49,7 +49,7 @@ word_by_word:
     translation: we are
     transliteration: naḥnu
   12:
-    arabic: الۡغٰلِبِيۡنَ‏
+    arabic: ٱلۡغَٰلِبِينَ
     translation: the victorious
     transliteration: l-ghālibīna
 ---

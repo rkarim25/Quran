@@ -1,6 +1,5 @@
 ---
-arabic_ayat: "لَوۡ كَانَ هٰٓؤُلَاۤءِ اٰلِهَةً مَّا وَرَدُوۡهَا​ ؕ وَكُلٌّ فِيۡهَا\
-  \ خٰلِدُوۡنَ‏ \uFEFF\uFEFF"
+arabic_ayat: لَوۡ كَانَ هَٰٓؤُلَآءِ ءَالِهَةٗ مَّا وَرَدُوهَاۖ وَكُلّٞ فِيهَا خَٰلِدُونَ
 sentence_translation: Had those idols been ˹true˺ gods, they would not have entered
   it. And they will be there forever.
 word_by_word:
@@ -13,11 +12,11 @@ word_by_word:
     translation: were
     transliteration: kāna
   3:
-    arabic: هٰٓؤُلَاۤءِ
+    arabic: هَٰٓؤُلَآءِ ءَ
     translation: these
     transliteration: hāulāi
   4:
-    arabic: اٰلِهَةً
+    arabic: الِهَةٗ
     translation: gods
     transliteration: ālihatan
   5:
@@ -25,19 +24,19 @@ word_by_word:
     translation: not
     transliteration: mā
   6:
-    arabic: وَرَدُوۡهَا​ ؕ
+    arabic: وَرَدُوهَاۖ
     translation: they (would) have come to it
     transliteration: waradūhā
   7:
-    arabic: وَكُلٌّ
+    arabic: وَكُلّٞ
     translation: And all
     transliteration: wakullun
   8:
-    arabic: فِيۡهَا
+    arabic: فِيهَا
     translation: therein
     transliteration: fīhā
   9:
-    arabic: "خٰلِدُوۡنَ‏ \uFEFF\uFEFF"
+    arabic: خَٰلِدُونَ
     translation: will abide forever
     transliteration: khālidūna
 ---

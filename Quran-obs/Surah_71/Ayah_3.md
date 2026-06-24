@@ -1,25 +1,25 @@
 ---
-arabic_ayat: اَنِ اعۡبُدُوا اللّٰهَ وَاتَّقُوۡهُ وَاَطِيۡعُوۡنِۙ‏
+arabic_ayat: أَنِ ٱعۡبُدُواْ ٱللَّهَ وَٱتَّقُوهُ وَأَطِيعُونِ
 sentence_translation: worship Allah ˹alone˺, fear Him, and obey me.
 word_by_word:
   1:
-    arabic: اَنِ
+    arabic: أَنِ
     translation: That
     transliteration: ani
   2:
-    arabic: اعۡبُدُوا
+    arabic: ٱعۡبُدُواْ
     translation: Worship
     transliteration: uʿ'budū
   3:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   4:
-    arabic: وَاتَّقُوۡهُ
+    arabic: وَٱتَّقُوهُ
     translation: and fear Him
     transliteration: wa-ittaqūhu
   5:
-    arabic: وَاَطِيۡعُوۡنِۙ‏
+    arabic: وَأَطِيعُونِ
     translation: and obey me
     transliteration: wa-aṭīʿūni
 ---

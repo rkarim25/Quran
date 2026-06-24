@@ -1,19 +1,19 @@
 ---
-arabic_ayat: اِلَّا الَّذِيۡنَ اٰمَنُوۡا وَ عَمِلُوا الصّٰلِحٰتِ وَتَوَاصَوۡا بِالۡحَقِّ
-    ۙ وَتَوَاصَوۡا بِالصَّبۡرِ‏
+arabic_ayat: إِلَّا ٱلَّذِينَ ءَامَنُواْ وَعَمِلُواْ ٱلصَّٰلِحَٰتِ وَتَوَاصَوۡاْ بِٱلۡحَقِّ
+  وَتَوَاصَوۡاْ بِٱلصَّبۡرِ
 sentence_translation: except those who have faith, do good, and urge each other to
   the truth, and urge each other to perseverance.
 word_by_word:
   1:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: Except
     transliteration: illā
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ ءَ
     translation: those who
     transliteration: alladhīna
   3:
-    arabic: اٰمَنُوۡا
+    arabic: امَنُواْ
     translation: believe
     transliteration: āmanū
   4:
@@ -21,23 +21,23 @@ word_by_word:
     translation: and do
     transliteration: waʿamilū
   5:
-    arabic: عَمِلُوا
+    arabic: عَمِلُواْ
     translation: righteous deeds
     transliteration: l-ṣāliḥāti
   6:
-    arabic: الصّٰلِحٰتِ
+    arabic: ٱلصَّٰلِحَٰتِ
     translation: and enjoin (each other)
     transliteration: watawāṣaw
   7:
-    arabic: وَتَوَاصَوۡا
+    arabic: وَتَوَاصَوۡاْ
     translation: to the truth
     transliteration: bil-ḥaqi
   8:
-    arabic: بِالۡحَقِّ   ۙ
+    arabic: بِٱلۡحَقِّ
     translation: and enjoin (each other)
     transliteration: watawāṣaw
   9:
-    arabic: وَتَوَاصَوۡا بِالصَّبۡرِ‏
+    arabic: وَتَوَاصَوۡاْ بِٱلصَّبۡرِ
     translation: to [the] patience
     transliteration: bil-ṣabri
 ---

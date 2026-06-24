@@ -1,9 +1,9 @@
 ---
-arabic_ayat: فَعَّالٌ لِّمَا يُرِيۡدُ ؕ‏
+arabic_ayat: فَعَّالٞ لِّمَا يُرِيدُ
 sentence_translation: Doer of whatever He wills.
 word_by_word:
   1:
-    arabic: فَعَّالٌ
+    arabic: فَعَّالٞ
     translation: Doer
     transliteration: faʿʿālun
   2:
@@ -11,7 +11,7 @@ word_by_word:
     translation: of what
     transliteration: limā
   3:
-    arabic: يُرِيۡدُ ؕ‏
+    arabic: يُرِيدُ
     translation: He intends
     transliteration: yurīdu
 ---

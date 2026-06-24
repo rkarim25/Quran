@@ -1,13 +1,13 @@
 ---
-arabic_ayat: كَلَّا ​ؕ بَلۡ لَّا يَخَافُوۡنَ الۡاٰخِرَةَ ؕ‏
+arabic_ayat: كـَلَّاۖ بَل لَّا يَخَافُونَ ٱلۡأٓخِرَةَ
 sentence_translation: But no! In fact, they do not fear the Hereafter.
 word_by_word:
   1:
-    arabic: كَلَّا ​ؕ
+    arabic: كـَلَّاۖ
     translation: Nay
     transliteration: kallā
   2:
-    arabic: بَلۡ
+    arabic: بَل
     translation: But
     transliteration: bal
   3:
@@ -15,11 +15,11 @@ word_by_word:
     translation: not
     transliteration: lā
   4:
-    arabic: يَخَافُوۡنَ
+    arabic: يَخَافُونَ
     translation: they fear
     transliteration: yakhāfūna
   5:
-    arabic: الۡاٰخِرَةَ ؕ‏
+    arabic: ٱلۡأٓخِرَةَ
     translation: the Hereafter
     transliteration: l-ākhirata
 ---

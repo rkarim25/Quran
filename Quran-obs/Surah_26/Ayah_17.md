@@ -1,13 +1,13 @@
 ---
-arabic_ayat: اَنۡ اَرۡسِلۡ مَعَنَا بَنِىۡۤ اِسۡرَآءِيۡلَ ؕ‏
+arabic_ayat: أَنۡ أَرۡسِلۡ مَعَنَا بَنِيٓ إِسۡرَٰٓءِيلَ
 sentence_translation: ˹commanded to say:˺ ‘Let the Children of Israel go with us.’’”
 word_by_word:
   1:
-    arabic: اَنۡ
+    arabic: أَنۡ
     translation: '[That]'
     transliteration: an
   2:
-    arabic: اَرۡسِلۡ
+    arabic: أَرۡسِلۡ
     translation: send
     transliteration: arsil
   3:
@@ -15,11 +15,11 @@ word_by_word:
     translation: with us
     transliteration: maʿanā
   4:
-    arabic: بَنِىۡۤ
+    arabic: بَنِيٓ
     translation: (the) Children of Israel.'
     transliteration: banī
   5:
-    arabic: اِسۡرَآءِيۡلَ ؕ‏
+    arabic: إِسۡرَٰٓءِيلَ
     translation: (the) Children of Israel.'
     transliteration: is'rāīla
 ---

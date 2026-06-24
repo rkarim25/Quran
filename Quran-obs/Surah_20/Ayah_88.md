@@ -1,12 +1,12 @@
 ---
-arabic_ayat: فَاَخۡرَجَ لَهُمۡ عِجۡلًا جَسَدًا لَّهٗ خُوَارٌ فَقَالُوۡا هٰذَاۤ اِلٰهُكُمۡ
-  وَاِلٰهُ مُوۡسٰى  فَنَسِىَ‏
+arabic_ayat: فَأَخۡرَجَ لَهُمۡ عِجۡلٗا جَسَدٗا لَّهُۥ خُوَارٞ فَقَالُواْ هَٰذَآ إِلَٰهُكُمۡ
+  وَإِلَٰهُ مُوسَىٰ فَنَسِيَ
 sentence_translation: Then he moulded for them an idol of a calf that made a lowing
   sound. They said, “This is your god and the god of Moses, but Moses forgot ˹where
   it was˺!”
 word_by_word:
   1:
-    arabic: فَاَخۡرَجَ
+    arabic: فَأَخۡرَجَ
     translation: Then he brought forth
     transliteration: fa-akhraja
   2:
@@ -14,43 +14,43 @@ word_by_word:
     translation: for them
     transliteration: lahum
   3:
-    arabic: عِجۡلًا
+    arabic: عِجۡلٗا
     translation: a calf's
     transliteration: ʿij'lan
   4:
-    arabic: جَسَدًا
+    arabic: جَسَدٗا
     translation: body
     transliteration: jasadan
   5:
-    arabic: لَّهٗ
+    arabic: لَّهُۥ
     translation: it had
     transliteration: lahu
   6:
-    arabic: خُوَارٌ
+    arabic: خُوَارٞ
     translation: a lowing sound
     transliteration: khuwārun
   7:
-    arabic: فَقَالُوۡا
+    arabic: فَقَالُواْ
     translation: and they said
     transliteration: faqālū
   8:
-    arabic: هٰذَاۤ
+    arabic: هَٰذَآ
     translation: This
     transliteration: hādhā
   9:
-    arabic: اِلٰهُكُمۡ
+    arabic: إِلَٰهُكُمۡ
     translation: (is) your god
     transliteration: ilāhukum
   10:
-    arabic: وَاِلٰهُ
+    arabic: وَإِلَٰهُ
     translation: and the god
     transliteration: wa-ilāhu
   11:
-    arabic: مُوۡسٰى 
+    arabic: مُوسَىٰ
     translation: (of) Musa
     transliteration: mūsā
   12:
-    arabic: فَنَسِىَ‏
+    arabic: فَنَسِيَ
     translation: but he forgot
     transliteration: fanasiya
 ---

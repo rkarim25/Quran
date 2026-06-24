@@ -1,15 +1,15 @@
 ---
-arabic_ayat: اَوَلَمۡ يَرَوۡا كَيۡفَ يُبۡدِئُ اللّٰهُ الۡخَـلۡقَ ثُمَّ يُعِيۡدُهٗ
-  ؕ اِنَّ ذٰ لِكَ عَلَى اللّٰهِ يَسِيۡرٌ‏
+arabic_ayat: أَوَلَمۡ يَرَوۡاْ كَيۡفَ يُبۡدِئُ ٱللَّهُ ٱلۡخَلۡقَ ثُمَّ يُعِيدُهُۥٓۚ
+  إِنَّ ذَٰلِكَ عَلَى ٱللَّهِ يَسِيرٞ
 sentence_translation: Have they not seen how Allah originates the creation then resurrects
   it? That is certainly easy for Allah.
 word_by_word:
   1:
-    arabic: اَوَلَمۡ
+    arabic: أَوَلَمۡ
     translation: Do not
     transliteration: awalam
   2:
-    arabic: يَرَوۡا
+    arabic: يَرَوۡاْ
     translation: they see
     transliteration: yaraw
   3:
@@ -21,11 +21,11 @@ word_by_word:
     translation: Allah originates
     transliteration: yub'di-u
   5:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah originates
     transliteration: l-lahu
   6:
-    arabic: الۡخَـلۡقَ
+    arabic: ٱلۡخَلۡقَ
     translation: the creation
     transliteration: l-khalqa
   7:
@@ -33,15 +33,15 @@ word_by_word:
     translation: then
     transliteration: thumma
   8:
-    arabic: يُعِيۡدُهٗ ؕ
+    arabic: يُعِيدُهُۥٓۚ
     translation: repeats it
     transliteration: yuʿīduhu
   9:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   10:
-    arabic: ذٰ لِكَ
+    arabic: ذَٰلِكَ
     translation: that
     transliteration: dhālika
   11:
@@ -49,11 +49,11 @@ word_by_word:
     translation: for
     transliteration: ʿalā
   12:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   13:
-    arabic: يَسِيۡرٌ‏
+    arabic: يَسِيرٞ
     translation: (is) easy
     transliteration: yasīrun
 ---

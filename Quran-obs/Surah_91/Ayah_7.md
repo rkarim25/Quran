@@ -1,17 +1,17 @@
 ---
-arabic_ayat: وَنَفۡسٍ وَّمَا سَوّٰٮهَا ۙ‏
+arabic_ayat: وَنَفۡسٖ وَمَا سَوَّىٰهَا
 sentence_translation: And by the soul and ˹the One˺ Who fashioned it,
 word_by_word:
   1:
-    arabic: وَنَفۡسٍ
+    arabic: وَنَفۡسٖ
     translation: And (the) soul
     transliteration: wanafsin
   2:
-    arabic: وَّمَا
+    arabic: وَمَا
     translation: and (He) Who
     transliteration: wamā
   3:
-    arabic: سَوّٰٮهَا ۙ‏
+    arabic: سَوَّىٰهَا
     translation: proportioned it
     transliteration: sawwāhā
 ---

@@ -1,33 +1,33 @@
 ---
-arabic_ayat: اِنَّ الَّذِيۡنَ يُجَادِلُوۡنَ فِىۡۤ اٰيٰتِ اللّٰهِ بِغَيۡرِ سُلۡطٰنٍ
-  اَتٰٮهُمۡۙ اِنۡ فِىۡ صُدُوۡرِهِمۡ اِلَّا كِبۡرٌ مَّا هُمۡ بِبَالِغِيۡهِؕ فَاسۡتَعِذۡ
-  بِاللّٰهِؕ اِنَّهٗ هُوَ السَّمِيۡعُ الۡبَصِيۡرُ‏
+arabic_ayat: إِنَّ ٱلَّذِينَ يُجَٰدِلُونَ فِيٓ ءَايَٰتِ ٱللَّهِ بِغَيۡرِ سُلۡطَٰنٍ
+  أَتَىٰهُمۡ إِن فِي صُدُورِهِمۡ إِلَّا كِبۡرٞ مَّا هُم بِبَٰلِغِيهِۚ فَٱسۡتَعِذۡ
+  بِٱللَّهِۖ إِنَّهُۥ هُوَ ٱلسَّمِيعُ ٱلۡبَصِيرُ
 sentence_translation: Surely those who dispute Allah’s signs—with no proof given to
   them—have nothing in their hearts but greed for dominance, which they will never
   attain. So seek refuge in Allah. Indeed, He alone is the All-Hearing, All-Seeing.
 word_by_word:
   1:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   3:
-    arabic: يُجَادِلُوۡنَ
+    arabic: يُجَٰدِلُونَ
     translation: dispute
     transliteration: yujādilūna
   4:
-    arabic: فِىۡۤ
+    arabic: فِيٓ ءَ
     translation: concerning
     transliteration: fī
   5:
-    arabic: اٰيٰتِ
+    arabic: ايَٰتِ
     translation: (the) Signs
     transliteration: āyāti
   6:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (of) Allah
     transliteration: l-lahi
   7:
@@ -35,31 +35,31 @@ word_by_word:
     translation: without
     transliteration: bighayri
   8:
-    arabic: سُلۡطٰنٍ
+    arabic: سُلۡطَٰنٍ
     translation: any authority
     transliteration: sul'ṭānin
   9:
-    arabic: اَتٰٮهُمۡۙ
+    arabic: أَتَىٰهُمۡ
     translation: (which) came to them
     transliteration: atāhum
   10:
-    arabic: اِنۡ
+    arabic: إِن
     translation: not
     transliteration: in
   11:
-    arabic: فِىۡ
+    arabic: فِي
     translation: (is) in
     transliteration: fī
   12:
-    arabic: صُدُوۡرِهِمۡ
+    arabic: صُدُورِهِمۡ
     translation: their breasts
     transliteration: ṣudūrihim
   13:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: but
     transliteration: illā
   14:
-    arabic: كِبۡرٌ
+    arabic: كِبۡرٞ
     translation: greatness
     transliteration: kib'run
   15:
@@ -67,23 +67,23 @@ word_by_word:
     translation: not
     transliteration: mā
   16:
-    arabic: هُمۡ
+    arabic: هُم
     translation: they
     transliteration: hum
   17:
-    arabic: بِبَالِغِيۡهِؕ
+    arabic: بِبَٰلِغِيهِۚ
     translation: (can) reach it
     transliteration: bibālighīhi
   18:
-    arabic: فَاسۡتَعِذۡ
+    arabic: فَٱسۡتَعِذۡ
     translation: So seek refuge
     transliteration: fa-is'taʿidh
   19:
-    arabic: بِاللّٰهِؕ
+    arabic: بِٱللَّهِۖ
     translation: in Allah
     transliteration: bil-lahi
   20:
-    arabic: اِنَّهٗ
+    arabic: إِنَّهُۥ
     translation: Indeed He
     transliteration: innahu
   21:
@@ -91,11 +91,11 @@ word_by_word:
     translation: He
     transliteration: huwa
   22:
-    arabic: السَّمِيۡعُ
+    arabic: ٱلسَّمِيعُ
     translation: (is) the All-Hearer
     transliteration: l-samīʿu
   23:
-    arabic: الۡبَصِيۡرُ‏
+    arabic: ٱلۡبَصِيرُ
     translation: the All-Seer
     transliteration: l-baṣīru
 ---

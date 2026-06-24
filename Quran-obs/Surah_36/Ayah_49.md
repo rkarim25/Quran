@@ -1,6 +1,5 @@
 ---
-arabic_ayat: "مَا يَنۡظُرُوۡنَ اِلَّا صَيۡحَةً وَّاحِدَةً تَاۡخُذُهُمۡ وَهُمۡ يَخِصِّمُوۡنَ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: مَا يَنظُرُونَ إِلَّا صَيۡحَةٗ وَٰحِدَةٗ تَأۡخُذُهُمۡ وَهُمۡ يَخِصِّمُونَ
 sentence_translation: They must be awaiting a single Blast, which will seize them
   while they are ˹entrenched˺ in ˹worldly˺ disputes.
 word_by_word:
@@ -9,23 +8,23 @@ word_by_word:
     translation: Not
     transliteration: mā
   2:
-    arabic: يَنۡظُرُوۡنَ
+    arabic: يَنظُرُونَ
     translation: they await
     transliteration: yanẓurūna
   3:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   4:
-    arabic: صَيۡحَةً
+    arabic: صَيۡحَةٗ
     translation: a shout
     transliteration: ṣayḥatan
   5:
-    arabic: وَّاحِدَةً
+    arabic: وَٰحِدَةٗ
     translation: one
     transliteration: wāḥidatan
   6:
-    arabic: تَاۡخُذُهُمۡ
+    arabic: تَأۡخُذُهُمۡ
     translation: it will seize them
     transliteration: takhudhuhum
   7:
@@ -33,7 +32,7 @@ word_by_word:
     translation: while they
     transliteration: wahum
   8:
-    arabic: "يَخِصِّمُوۡنَ‏ \uFEFF\uFEFF"
+    arabic: يَخِصِّمُونَ
     translation: are disputing
     transliteration: yakhiṣṣimūna
 ---

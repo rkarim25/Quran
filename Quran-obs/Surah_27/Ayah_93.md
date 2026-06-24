@@ -1,6 +1,6 @@
 ---
-arabic_ayat: وَقُلِ الۡحَمۡدُ لِلّٰهِ سَيُرِيۡكُمۡ اٰيٰتِهٖ فَتَعۡرِفُوۡنَهَا​ ؕ وَمَا
-  رَبُّكَ بِغَافِلٍ عَمَّا تَعۡمَلُوۡنَ‏
+arabic_ayat: وَقُلِ ٱلۡحَمۡدُ لِلَّهِ سَيُرِيكُمۡ ءَايَٰتِهِۦ فَتَعۡرِفُونَهَاۚ وَمَا
+  رَبُّكَ بِغَٰفِلٍ عَمَّا تَعۡمَلُونَ
 sentence_translation: And say, “All praise is for Allah! He will show you His signs,
   and you will recognize them. And your Lord is never unaware of what you do.”
 word_by_word:
@@ -9,23 +9,23 @@ word_by_word:
     translation: And say
     transliteration: waquli
   2:
-    arabic: الۡحَمۡدُ
+    arabic: ٱلۡحَمۡدُ
     translation: All praise (be)
     transliteration: l-ḥamdu
   3:
-    arabic: لِلّٰهِ
+    arabic: لِلَّهِ
     translation: to Allah
     transliteration: lillahi
   4:
-    arabic: سَيُرِيۡكُمۡ
+    arabic: سَيُرِيكُمۡ ءَ
     translation: He will show you
     transliteration: sayurīkum
   5:
-    arabic: اٰيٰتِهٖ
+    arabic: ايَٰتِهِۦ
     translation: His Signs
     transliteration: āyātihi
   6:
-    arabic: فَتَعۡرِفُوۡنَهَا​ ؕ
+    arabic: فَتَعۡرِفُونَهَاۚ
     translation: and you will recognize them
     transliteration: fataʿrifūnahā
   7:
@@ -37,7 +37,7 @@ word_by_word:
     translation: And your Lord is not
     transliteration: rabbuka
   9:
-    arabic: بِغَافِلٍ
+    arabic: بِغَٰفِلٍ
     translation: unaware
     transliteration: bighāfilin
   10:
@@ -45,7 +45,7 @@ word_by_word:
     translation: of what
     transliteration: ʿammā
   11:
-    arabic: تَعۡمَلُوۡنَ‏
+    arabic: تَعۡمَلُونَ
     translation: you do
     transliteration: taʿmalūna
 ---

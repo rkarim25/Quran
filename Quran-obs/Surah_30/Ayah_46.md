@@ -1,70 +1,70 @@
 ---
-arabic_ayat: وَمِنۡ اٰيٰتِهٖۤ اَنۡ يُّرۡسِلَ الرِّيَاحَ مُبَشِّرٰتٍ وَّلِيُذِيۡقَكُمۡ
-  مِّنۡ رَّحۡمَتِهٖ وَلِتَجۡرِىَ الۡفُلۡكُ بِاَمۡرِهٖ وَلِتَبۡتَغُوۡا مِنۡ فَضۡلِهٖ
-  وَلَعَلَّكُمۡ تَشۡكُرُوۡنَ‏
+arabic_ayat: وَمِنۡ ءَايَٰتِهِۦٓ أَن يُرۡسِلَ ٱلرِّيَاحَ مُبَشِّرَٰتٖ وَلِيُذِيقَكُم
+  مِّن رَّحۡمَتِهِۦ وَلِتَجۡرِيَ ٱلۡفُلۡكُ بِأَمۡرِهِۦ وَلِتَبۡتَغُواْ مِن فَضۡلِهِۦ
+  وَلَعَلَّكُمۡ تَشۡكُرُونَ
 sentence_translation: And one of His signs is that He sends the winds, ushering in
   good news ˹of rain˺ so that He may give you a taste of His mercy, and that ships
   may sail by His command, and that you may seek His bounty, and perhaps you will
   be grateful.
 word_by_word:
   1:
-    arabic: وَمِنۡ
+    arabic: وَمِنۡ ءَ
     translation: And among
     transliteration: wamin
   2:
-    arabic: اٰيٰتِهٖۤ
+    arabic: ايَٰتِهِۦٓ
     translation: His Signs
     transliteration: āyātihi
   3:
-    arabic: اَنۡ
+    arabic: أَن
     translation: (is) that
     transliteration: an
   4:
-    arabic: يُّرۡسِلَ
+    arabic: يُرۡسِلَ
     translation: He sends
     transliteration: yur'sila
   5:
-    arabic: الرِّيَاحَ
+    arabic: ٱلرِّيَاحَ
     translation: the winds
     transliteration: l-riyāḥa
   6:
-    arabic: مُبَشِّرٰتٍ
+    arabic: مُبَشِّرَٰتٖ
     translation: (as) bearers of glad tidings
     transliteration: mubashirātin
   7:
-    arabic: وَّلِيُذِيۡقَكُمۡ
+    arabic: وَلِيُذِيقَكُم
     translation: and to let you taste
     transliteration: waliyudhīqakum
   8:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: of
     transliteration: min
   9:
-    arabic: رَّحۡمَتِهٖ
+    arabic: رَّحۡمَتِهِۦ
     translation: His Mercy
     transliteration: raḥmatihi
   10:
-    arabic: وَلِتَجۡرِىَ
+    arabic: وَلِتَجۡرِيَ
     translation: and that may sail
     transliteration: walitajriya
   11:
-    arabic: الۡفُلۡكُ
+    arabic: ٱلۡفُلۡكُ
     translation: the ships
     transliteration: l-ful'ku
   12:
-    arabic: بِاَمۡرِهٖ
+    arabic: بِأَمۡرِهِۦ
     translation: at His Command
     transliteration: bi-amrihi
   13:
-    arabic: وَلِتَبۡتَغُوۡا
+    arabic: وَلِتَبۡتَغُواْ
     translation: and that you may seek
     transliteration: walitabtaghū
   14:
-    arabic: مِنۡ
+    arabic: مِن
     translation: of
     transliteration: min
   15:
-    arabic: فَضۡلِهٖ
+    arabic: فَضۡلِهِۦ
     translation: His Bounty
     transliteration: faḍlihi
   16:
@@ -72,7 +72,7 @@ word_by_word:
     translation: and that you may
     transliteration: walaʿallakum
   17:
-    arabic: تَشۡكُرُوۡنَ‏
+    arabic: تَشۡكُرُونَ
     translation: be grateful
     transliteration: tashkurūna
 ---

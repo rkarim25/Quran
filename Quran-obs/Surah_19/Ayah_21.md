@@ -1,6 +1,6 @@
 ---
-arabic_ayat: قَالَ كَذٰلِكِ​ ۚ قَالَ رَبُّكِ هُوَ عَلَىَّ هَيِّنٌ​ ۚ وَلِنَجۡعَلَهٗۤ
-  اٰيَةً لِّلنَّاسِ وَرَحۡمَةً مِّنَّا​ ۚ وَكَانَ اَمۡرًا مَّقۡضِيًّا‏
+arabic_ayat: قَالَ كَذَٰلِكِ قَالَ رَبُّكِ هُوَ عَلَيَّ هَيِّنٞۖ وَلِنَجۡعَلَهُۥٓ
+  ءَايَةٗ لِّلنَّاسِ وَرَحۡمَةٗ مِّنَّاۚ وَكَانَ أَمۡرٗا مَّقۡضِيّٗا
 sentence_translation: He replied, “So will it be! Your Lord says, ‘It is easy for
   Me. And so will We make him a sign for humanity and a mercy from Us.’ It is a matter
   ˹already˺ decreed.”
@@ -10,7 +10,7 @@ word_by_word:
     translation: He said
     transliteration: qāla
   2:
-    arabic: كَذٰلِكِ​ ۚ
+    arabic: كَذَٰلِكِ
     translation: Thus
     transliteration: kadhāliki
   3:
@@ -26,19 +26,19 @@ word_by_word:
     translation: '''It'
     transliteration: huwa
   6:
-    arabic: عَلَىَّ
+    arabic: عَلَيَّ
     translation: (is) for Me
     transliteration: ʿalayya
   7:
-    arabic: هَيِّنٌ​ ۚ
+    arabic: هَيِّنٞۖ
     translation: easy
     transliteration: hayyinun
   8:
-    arabic: وَلِنَجۡعَلَهٗۤ
+    arabic: وَلِنَجۡعَلَهُۥٓ ءَ
     translation: and so that We will make him
     transliteration: walinajʿalahu
   9:
-    arabic: اٰيَةً
+    arabic: ايَةٗ
     translation: a sign
     transliteration: āyatan
   10:
@@ -46,11 +46,11 @@ word_by_word:
     translation: for the mankind
     transliteration: lilnnāsi
   11:
-    arabic: وَرَحۡمَةً
+    arabic: وَرَحۡمَةٗ
     translation: and a Mercy
     transliteration: waraḥmatan
   12:
-    arabic: مِّنَّا​ ۚ
+    arabic: مِّنَّاۚ
     translation: from Us
     transliteration: minnā
   13:
@@ -58,11 +58,11 @@ word_by_word:
     translation: And (it) is
     transliteration: wakāna
   14:
-    arabic: اَمۡرًا
+    arabic: أَمۡرٗا
     translation: a matter
     transliteration: amran
   15:
-    arabic: مَّقۡضِيًّا‏
+    arabic: مَّقۡضِيّٗا
     translation: decreed.'
     transliteration: maqḍiyyan
 ---

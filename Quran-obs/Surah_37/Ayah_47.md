@@ -1,5 +1,5 @@
 ---
-arabic_ayat: لَا فِيۡهَا غَوۡلٌ وَّلَا هُمۡ عَنۡهَا يُنۡزَفُوۡنَ‏
+arabic_ayat: لَا فِيهَا غَوۡلٞ وَلَا هُمۡ عَنۡهَا يُنزَفُونَ
 sentence_translation: It will neither harm ˹them˺, nor will they be intoxicated by
   it.
 word_by_word:
@@ -8,15 +8,15 @@ word_by_word:
     translation: Not
     transliteration: lā
   2:
-    arabic: فِيۡهَا
+    arabic: فِيهَا
     translation: in it
     transliteration: fīhā
   3:
-    arabic: غَوۡلٌ
+    arabic: غَوۡلٞ
     translation: (is) bad effect
     transliteration: ghawlun
   4:
-    arabic: وَّلَا
+    arabic: وَلَا
     translation: and not
     transliteration: walā
   5:
@@ -28,7 +28,7 @@ word_by_word:
     translation: from it
     transliteration: ʿanhā
   7:
-    arabic: يُنۡزَفُوۡنَ‏
+    arabic: يُنزَفُونَ
     translation: will be intoxicated
     transliteration: yunzafūna
 ---

@@ -1,6 +1,6 @@
 ---
-arabic_ayat: وَهُوَ الَّذِىۡ جَعَلَ الَّيۡلَ وَالنَّهَارَ خِلۡفَةً لِّمَنۡ اَرَادَ
-  اَنۡ يَّذَّكَّرَ اَوۡ اَرَادَ شُكُوۡرًا‏
+arabic_ayat: وَهُوَ ٱلَّذِي جَعَلَ ٱلَّيۡلَ وَٱلنَّهَارَ خِلۡفَةٗ لِّمَنۡ أَرَادَ
+  أَن يَذَّكَّرَ أَوۡ أَرَادَ شُكُورٗا
 sentence_translation: And He is the One Who causes the day and the night to alternate,
   ˹as a sign˺ for whoever desires to be mindful or to be grateful.
 word_by_word:
@@ -9,7 +9,7 @@ word_by_word:
     translation: And He
     transliteration: wahuwa
   2:
-    arabic: الَّذِىۡ
+    arabic: ٱلَّذِي
     translation: (is) the One Who
     transliteration: alladhī
   3:
@@ -17,15 +17,15 @@ word_by_word:
     translation: made
     transliteration: jaʿala
   4:
-    arabic: الَّيۡلَ
+    arabic: ٱلَّيۡلَ
     translation: the night
     transliteration: al-layla
   5:
-    arabic: وَالنَّهَارَ
+    arabic: وَٱلنَّهَارَ
     translation: and the day
     transliteration: wal-nahāra
   6:
-    arabic: خِلۡفَةً
+    arabic: خِلۡفَةٗ
     translation: (in) succession
     transliteration: khil'fatan
   7:
@@ -33,27 +33,27 @@ word_by_word:
     translation: for whoever
     transliteration: liman
   8:
-    arabic: اَرَادَ
+    arabic: أَرَادَ
     translation: desires
     transliteration: arāda
   9:
-    arabic: اَنۡ
+    arabic: أَن
     translation: to
     transliteration: an
   10:
-    arabic: يَّذَّكَّرَ
+    arabic: يَذَّكَّرَ
     translation: remember
     transliteration: yadhakkara
   11:
-    arabic: اَوۡ
+    arabic: أَوۡ
     translation: or
     transliteration: aw
   12:
-    arabic: اَرَادَ
+    arabic: أَرَادَ
     translation: desires
     transliteration: arāda
   13:
-    arabic: شُكُوۡرًا‏
+    arabic: شُكُورٗا
     translation: to be thankful
     transliteration: shukūran
 ---

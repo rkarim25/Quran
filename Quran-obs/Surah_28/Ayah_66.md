@@ -1,6 +1,5 @@
 ---
-arabic_ayat: "فَعَمِيَتۡ عَلَيۡهِمُ الۡاَنۡۢبَآءُ يَوۡمَٮِٕذٍ فَهُمۡ لَا يَتَسَآءَلُوۡنَ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: فَعَمِيَتۡ عَلَيۡهِمُ ٱلۡأَنۢبَآءُ يَوۡمَئِذٖ فَهُمۡ لَا يَتَسَآءَلُونَ
 sentence_translation: They will be too dumbstruck on that Day to ask one another ˹for
   answers˺.
 word_by_word:
@@ -13,11 +12,11 @@ word_by_word:
     translation: to them
     transliteration: ʿalayhimu
   3:
-    arabic: الۡاَنۡۢبَآءُ
+    arabic: ٱلۡأَنۢبَآءُ
     translation: the information
     transliteration: l-anbāu
   4:
-    arabic: يَوۡمَٮِٕذٍ
+    arabic: يَوۡمَئِذٖ
     translation: that day
     transliteration: yawma-idhin
   5:
@@ -29,7 +28,7 @@ word_by_word:
     translation: will not ask one another
     transliteration: lā
   7:
-    arabic: "يَتَسَآءَلُوۡنَ‏ \uFEFF\uFEFF"
+    arabic: يَتَسَآءَلُونَ
     translation: will not ask one another
     transliteration: yatasāalūna
 ---

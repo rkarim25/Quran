@@ -1,5 +1,5 @@
 ---
-arabic_ayat: وَلَتَعۡلَمُنَّ نَبَاَهٗ بَعۡدَ حِيۡنِ‏
+arabic_ayat: وَلَتَعۡلَمُنَّ نَبَأَهُۥ بَعۡدَ حِينِۭ
 sentence_translation: And you will certainly know its truth before long.”
 word_by_word:
   1:
@@ -7,7 +7,7 @@ word_by_word:
     translation: And surely you will know
     transliteration: walataʿlamunna
   2:
-    arabic: نَبَاَهٗ
+    arabic: نَبَأَهُۥ
     translation: its information
     transliteration: naba-ahu
   3:
@@ -15,7 +15,7 @@ word_by_word:
     translation: after
     transliteration: baʿda
   4:
-    arabic: حِيۡنِ‏
+    arabic: حِينِۭ
     translation: a time
     transliteration: ḥīnin
 ---

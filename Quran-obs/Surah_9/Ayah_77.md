@@ -1,27 +1,27 @@
 ---
-arabic_ayat: فَاَعۡقَبَهُمۡ نِفَاقًا فِىۡ قُلُوۡبِهِمۡ اِلٰى يَوۡمِ يَلۡقَوۡنَهٗ بِمَاۤ
-  اَخۡلَفُوا اللّٰهَ مَا وَعَدُوۡهُ وَبِمَا كَانُوۡا يَكۡذِبُوۡنَ‏
+arabic_ayat: فَأَعۡقَبَهُمۡ نِفَاقٗا فِي قُلُوبِهِمۡ إِلَىٰ يَوۡمِ يَلۡقَوۡنَهُۥ بِمَآ
+  أَخۡلَفُواْ ٱللَّهَ مَا وَعَدُوهُ وَبِمَا كَانُواْ يَكۡذِبُونَ
 sentence_translation: So He caused hypocrisy to plague their hearts until the Day
   they will meet Him, for breaking their promise to Allah and for their lies.
 word_by_word:
   1:
-    arabic: فَاَعۡقَبَهُمۡ
+    arabic: فَأَعۡقَبَهُمۡ
     translation: So He penalized them
     transliteration: fa-aʿqabahum
   2:
-    arabic: نِفَاقًا
+    arabic: نِفَاقٗا
     translation: (with) hypocrisy
     transliteration: nifāqan
   3:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   4:
-    arabic: قُلُوۡبِهِمۡ
+    arabic: قُلُوبِهِمۡ
     translation: their hearts
     transliteration: qulūbihim
   5:
-    arabic: اِلٰى
+    arabic: إِلَىٰ
     translation: until
     transliteration: ilā
   6:
@@ -29,19 +29,19 @@ word_by_word:
     translation: the day
     transliteration: yawmi
   7:
-    arabic: يَلۡقَوۡنَهٗ
+    arabic: يَلۡقَوۡنَهُۥ
     translation: when they will meet Him
     transliteration: yalqawnahu
   8:
-    arabic: بِمَاۤ
+    arabic: بِمَآ
     translation: because
     transliteration: bimā
   9:
-    arabic: اَخۡلَفُوا
+    arabic: أَخۡلَفُواْ
     translation: they broke
     transliteration: akhlafū
   10:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: (the covenant with) Allah
     transliteration: l-laha
   11:
@@ -49,7 +49,7 @@ word_by_word:
     translation: what
     transliteration: mā
   12:
-    arabic: وَعَدُوۡهُ
+    arabic: وَعَدُوهُ
     translation: they had promised Him
     transliteration: waʿadūhu
   13:
@@ -57,11 +57,11 @@ word_by_word:
     translation: and because
     transliteration: wabimā
   14:
-    arabic: كَانُوۡا
+    arabic: كَانُواْ
     translation: they used to
     transliteration: kānū
   15:
-    arabic: يَكۡذِبُوۡنَ‏
+    arabic: يَكۡذِبُونَ
     translation: lie
     transliteration: yakdhibūna
 ---

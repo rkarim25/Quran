@@ -1,5 +1,5 @@
 ---
-arabic_ayat: مَّا لَهٗ مِنۡ دَافِعٍۙ‏
+arabic_ayat: مَّا لَهُۥ مِن دَافِعٖ
 sentence_translation: none will avert it—
 word_by_word:
   1:
@@ -7,15 +7,15 @@ word_by_word:
     translation: Not
     transliteration: mā
   2:
-    arabic: لَهٗ
+    arabic: لَهُۥ
     translation: for it
     transliteration: lahu
   3:
-    arabic: مِنۡ
+    arabic: مِن
     translation: any
     transliteration: min
   4:
-    arabic: دَافِعٍۙ‏
+    arabic: دَافِعٖ
     translation: preventer
     transliteration: dāfiʿin
 ---

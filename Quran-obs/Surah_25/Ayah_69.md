@@ -1,11 +1,10 @@
 ---
-arabic_ayat: "يُضٰعَفۡ لَهُ الۡعَذَابُ يَوۡمَ الۡقِيٰمَةِ وَيَخۡلُدۡ فِيۡهٖ مُهَانًا\
-  \ ۖ ‏ \uFEFF\uFEFF"
+arabic_ayat: يُضَٰعَفۡ لَهُ ٱلۡعَذَابُ يَوۡمَ ٱلۡقِيَٰمَةِ وَيَخۡلُدۡ فِيهِۦ مُهَانًا
 sentence_translation: Their punishment will be multiplied on the Day of Judgment,
   and they will remain in it forever, in disgrace.
 word_by_word:
   1:
-    arabic: يُضٰعَفۡ
+    arabic: يُضَٰعَفۡ
     translation: Will be doubled
     transliteration: yuḍāʿaf
   2:
@@ -13,7 +12,7 @@ word_by_word:
     translation: for him
     transliteration: lahu
   3:
-    arabic: الۡعَذَابُ
+    arabic: ٱلۡعَذَابُ
     translation: the punishment
     transliteration: l-ʿadhābu
   4:
@@ -21,7 +20,7 @@ word_by_word:
     translation: (on the) Day
     transliteration: yawma
   5:
-    arabic: الۡقِيٰمَةِ
+    arabic: ٱلۡقِيَٰمَةِ
     translation: (of) Resurrection
     transliteration: l-qiyāmati
   6:
@@ -29,11 +28,11 @@ word_by_word:
     translation: and he will abide forever
     transliteration: wayakhlud
   7:
-    arabic: فِيۡهٖ
+    arabic: فِيهِۦ
     translation: therein
     transliteration: fīhi
   8:
-    arabic: "مُهَانًا ۖ ‏ \uFEFF\uFEFF"
+    arabic: مُهَانًا
     translation: humiliated
     transliteration: muhānan
 ---

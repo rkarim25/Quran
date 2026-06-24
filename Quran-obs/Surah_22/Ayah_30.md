@@ -1,30 +1,30 @@
 ---
-arabic_ayat: ذٰلِكَ وَمَنۡ يُّعَظِّمۡ حُرُمٰتِ اللّٰهِ فَهُوَ خَيۡرٌ لَّهٗ عِنۡدَ
-  رَبِّهٖ​ؕ وَاُحِلَّتۡ لَـكُمُ الۡاَنۡعَامُ اِلَّا مَا يُتۡلٰى عَلَيۡكُمۡ​ فَاجۡتَنِبُوا
-  الرِّجۡسَ مِنَ الۡاَوۡثَانِ وَاجۡتَنِبُوۡا قَوۡلَ الزُّوۡرِۙ‏
+arabic_ayat: ذَٰلِكَۖ وَمَن يُعَظِّمۡ حُرُمَٰتِ ٱللَّهِ فَهُوَ خَيۡرٞ لَّهُۥ عِندَ
+  رَبِّهِۦۗ وَأُحِلَّتۡ لَكُمُ ٱلۡأَنۡعَٰمُ إِلَّا مَا يُتۡلَىٰ عَلَيۡكُمۡۖ فَٱجۡتَنِبُواْ
+  ٱلرِّجۡسَ مِنَ ٱلۡأَوۡثَٰنِ وَٱجۡتَنِبُواْ قَوۡلَ ٱلزُّورِ
 sentence_translation: That is so. And whoever honours the rituals of Allah, it is
   best for them in the sight of their Lord. The ˹meat of˺ cattle has been made lawful
   for you, except what has ˹already˺ been recited to you. So shun the impurity of
   idolatry, and shun words of falsehood.
 word_by_word:
   1:
-    arabic: ذٰلِكَ
+    arabic: ذَٰلِكَۖ
     translation: That
     transliteration: dhālika
   2:
-    arabic: وَمَنۡ
+    arabic: وَمَن
     translation: and whoever
     transliteration: waman
   3:
-    arabic: يُّعَظِّمۡ
+    arabic: يُعَظِّمۡ
     translation: honors
     transliteration: yuʿaẓẓim
   4:
-    arabic: حُرُمٰتِ
+    arabic: حُرُمَٰتِ
     translation: (the) sacred rites
     transliteration: ḥurumāti
   5:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (of) Allah
     transliteration: l-lahi
   6:
@@ -32,35 +32,35 @@ word_by_word:
     translation: then it
     transliteration: fahuwa
   7:
-    arabic: خَيۡرٌ
+    arabic: خَيۡرٞ
     translation: (is) best
     transliteration: khayrun
   8:
-    arabic: لَّهٗ
+    arabic: لَّهُۥ
     translation: for him
     transliteration: lahu
   9:
-    arabic: عِنۡدَ
+    arabic: عِندَ
     translation: near
     transliteration: ʿinda
   10:
-    arabic: رَبِّهٖ​ؕ
+    arabic: رَبِّهِۦۗ
     translation: his Lord
     transliteration: rabbihi
   11:
-    arabic: وَاُحِلَّتۡ
+    arabic: وَأُحِلَّتۡ
     translation: And are made lawful
     transliteration: wa-uḥillat
   12:
-    arabic: لَـكُمُ
+    arabic: لَكُمُ
     translation: to you
     transliteration: lakumu
   13:
-    arabic: الۡاَنۡعَامُ
+    arabic: ٱلۡأَنۡعَٰمُ
     translation: the cattle
     transliteration: l-anʿāmu
   14:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   15:
@@ -68,19 +68,19 @@ word_by_word:
     translation: what
     transliteration: mā
   16:
-    arabic: يُتۡلٰى
+    arabic: يُتۡلَىٰ
     translation: is recited
     transliteration: yut'lā
   17:
-    arabic: عَلَيۡكُمۡ​
+    arabic: عَلَيۡكُمۡۖ
     translation: to you
     transliteration: ʿalaykum
   18:
-    arabic: فَاجۡتَنِبُوا
+    arabic: فَٱجۡتَنِبُواْ
     translation: So avoid
     transliteration: fa-ij'tanibū
   19:
-    arabic: الرِّجۡسَ
+    arabic: ٱلرِّجۡسَ
     translation: the abomination
     transliteration: l-rij'sa
   20:
@@ -88,11 +88,11 @@ word_by_word:
     translation: of
     transliteration: mina
   21:
-    arabic: الۡاَوۡثَانِ
+    arabic: ٱلۡأَوۡثَٰنِ
     translation: the idols
     transliteration: l-awthāni
   22:
-    arabic: وَاجۡتَنِبُوۡا
+    arabic: وَٱجۡتَنِبُواْ
     translation: and avoid
     transliteration: wa-ij'tanibū
   23:
@@ -100,7 +100,7 @@ word_by_word:
     translation: (the) word
     transliteration: qawla
   24:
-    arabic: الزُّوۡرِۙ‏
+    arabic: ٱلزُّورِ
     translation: 'false'
     transliteration: l-zūri
 ---

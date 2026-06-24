@@ -1,23 +1,23 @@
 ---
-arabic_ayat: ​وَاَرۡسَلۡنَا الرِّيٰحَ لَوَاقِحَ فَاَنۡزَلۡنَا مِنَ السَّمَآءِ مَآءً
-  فَاَسۡقَيۡنٰكُمُوۡهُ​ۚ وَمَاۤ اَنۡتُمۡ لَهٗ بِخٰزِنِيۡنَ‏
+arabic_ayat: وَأَرۡسَلۡنَا ٱلرِّيَٰحَ لَوَٰقِحَ فَأَنزَلۡنَا مِنَ ٱلسَّمَآءِ مَآءٗ
+  فَأَسۡقَيۡنَٰكُمُوهُ وَمَآ أَنتُمۡ لَهُۥ بِخَٰزِنِينَ
 sentence_translation: We send fertilizing winds, and bring down rain from the sky
   for you to drink. It is not you who hold its reserves.
 word_by_word:
   1:
-    arabic: ​وَاَرۡسَلۡنَا
+    arabic: وَأَرۡسَلۡنَا
     translation: And We have sent
     transliteration: wa-arsalnā
   2:
-    arabic: الرِّيٰحَ
+    arabic: ٱلرِّيَٰحَ
     translation: the winds
     transliteration: l-riyāḥa
   3:
-    arabic: لَوَاقِحَ
+    arabic: لَوَٰقِحَ
     translation: fertilizing
     transliteration: lawāqiḥa
   4:
-    arabic: فَاَنۡزَلۡنَا
+    arabic: فَأَنزَلۡنَا
     translation: and We sent down
     transliteration: fa-anzalnā
   5:
@@ -25,31 +25,31 @@ word_by_word:
     translation: from
     transliteration: mina
   6:
-    arabic: السَّمَآءِ
+    arabic: ٱلسَّمَآءِ
     translation: the sky
     transliteration: l-samāi
   7:
-    arabic: مَآءً
+    arabic: مَآءٗ
     translation: water
     transliteration: māan
   8:
-    arabic: فَاَسۡقَيۡنٰكُمُوۡهُ​ۚ
+    arabic: فَأَسۡقَيۡنَٰكُمُوهُ
     translation: and We gave it to you to drink
     transliteration: fa-asqaynākumūhu
   9:
-    arabic: وَمَاۤ
+    arabic: وَمَآ
     translation: And not
     transliteration: wamā
   10:
-    arabic: اَنۡتُمۡ
+    arabic: أَنتُمۡ
     translation: you
     transliteration: antum
   11:
-    arabic: لَهٗ
+    arabic: لَهُۥ
     translation: of it
     transliteration: lahu
   12:
-    arabic: بِخٰزِنِيۡنَ‏
+    arabic: بِخَٰزِنِينَ
     translation: (are) retainers
     transliteration: bikhāzinīna
 ---

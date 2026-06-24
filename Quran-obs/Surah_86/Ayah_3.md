@@ -1,13 +1,13 @@
 ---
-arabic_ayat: النَّجۡمُ الثَّاقِبُۙ‏
+arabic_ayat: ٱلنَّجۡمُ ٱلثَّاقِبُ
 sentence_translation: ˹It is˺ the star of piercing brightness.
 word_by_word:
   1:
-    arabic: النَّجۡمُ
+    arabic: ٱلنَّجۡمُ
     translation: (It is) the star
     transliteration: al-najmu
   2:
-    arabic: الثَّاقِبُۙ‏
+    arabic: ٱلثَّاقِبُ
     translation: the piercing
     transliteration: l-thāqibu
 ---

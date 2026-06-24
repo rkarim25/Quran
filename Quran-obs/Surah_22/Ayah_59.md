@@ -1,35 +1,35 @@
 ---
-arabic_ayat: لَيُدۡخِلَـنَّهُمۡ مُّدۡخَلًا يَّرۡضَوۡنَهٗ​ ؕ وَاِنَّ اللّٰهَ لَعَلِيۡمٌ
-  حَلِيۡمٌ‏
+arabic_ayat: لَيُدۡخِلَنَّهُم مُّدۡخَلٗا يَرۡضَوۡنَهُۥۚ وَإِنَّ ٱللَّهَ لَعَلِيمٌ
+  حَلِيمٞ
 sentence_translation: He will certainly admit them into a place they will be pleased
   with. For Allah is truly All-Knowing, Most Forbearing.
 word_by_word:
   1:
-    arabic: لَيُدۡخِلَـنَّهُمۡ
+    arabic: لَيُدۡخِلَنَّهُم
     translation: Surely, He will admit them
     transliteration: layud'khilannahum
   2:
-    arabic: مُّدۡخَلًا
+    arabic: مُّدۡخَلٗا
     translation: (to) an entrance
     transliteration: mud'khalan
   3:
-    arabic: يَّرۡضَوۡنَهٗ​ ؕ
+    arabic: يَرۡضَوۡنَهُۥۚ
     translation: they will be pleased (with) it
     transliteration: yarḍawnahu
   4:
-    arabic: وَاِنَّ
+    arabic: وَإِنَّ
     translation: And indeed
     transliteration: wa-inna
   5:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   6:
-    arabic: لَعَلِيۡمٌ
+    arabic: لَعَلِيمٌ
     translation: surely, (is) All-Knowing
     transliteration: laʿalīmun
   7:
-    arabic: حَلِيۡمٌ‏
+    arabic: حَلِيمٞ
     translation: Most Forbearing
     transliteration: ḥalīmun
 ---

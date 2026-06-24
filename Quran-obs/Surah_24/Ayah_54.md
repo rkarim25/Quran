@@ -1,7 +1,7 @@
 ---
-arabic_ayat: قُلۡ اَطِيۡعُوا اللّٰهَ وَاَطِيۡعُوا الرَّسُوۡلَ​ۚ فَاِنۡ تَوَلَّوۡا
-  فَاِنَّمَا عَلَيۡهِ مَا حُمِّلَ وَعَلَيۡكُمۡ مَّا حُمِّلۡتُمۡ​ؕ وَاِنۡ تُطِيۡعُوۡهُ
-  تَهۡتَدُوۡا​ؕ وَمَا عَلَى الرَّسُوۡلِ اِلَّا الۡبَلٰغُ الۡمُبِيۡنُ‏
+arabic_ayat: قُلۡ أَطِيعُواْ ٱللَّهَ وَأَطِيعُواْ ٱلرَّسُولَۖ فَإِن تَوَلَّوۡاْ فَإِنَّمَا
+  عَلَيۡهِ مَا حُمِّلَ وَعَلَيۡكُم مَّا حُمِّلۡتُمۡۖ وَإِن تُطِيعُوهُ تَهۡتَدُواْۚ
+  وَمَا عَلَى ٱلرَّسُولِ إِلَّا ٱلۡبَلَٰغُ ٱلۡمُبِينُ
 sentence_translation: Say, “Obey Allah and obey the Messenger. But if you turn away,
   then he is only responsible for his duty and you are responsible for yours. And
   if you obey him, you will be ˹rightly˺ guided. The Messenger’s duty is only to deliver
@@ -12,31 +12,31 @@ word_by_word:
     translation: Say
     transliteration: qul
   2:
-    arabic: اَطِيۡعُوا
+    arabic: أَطِيعُواْ
     translation: Obey
     transliteration: aṭīʿū
   3:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   4:
-    arabic: وَاَطِيۡعُوا
+    arabic: وَأَطِيعُواْ
     translation: and obey
     transliteration: wa-aṭīʿū
   5:
-    arabic: الرَّسُوۡلَ​ۚ
+    arabic: ٱلرَّسُولَۖ
     translation: the Messenger
     transliteration: l-rasūla
   6:
-    arabic: فَاِنۡ
+    arabic: فَإِن
     translation: but if
     transliteration: fa-in
   7:
-    arabic: تَوَلَّوۡا
+    arabic: تَوَلَّوۡاْ
     translation: you turn away
     transliteration: tawallaw
   8:
-    arabic: فَاِنَّمَا
+    arabic: فَإِنَّمَا
     translation: then only
     transliteration: fa-innamā
   9:
@@ -52,7 +52,7 @@ word_by_word:
     translation: (is) placed on him
     transliteration: ḥummila
   12:
-    arabic: وَعَلَيۡكُمۡ
+    arabic: وَعَلَيۡكُم
     translation: and on you
     transliteration: waʿalaykum
   13:
@@ -60,19 +60,19 @@ word_by_word:
     translation: (is) what
     transliteration: mā
   14:
-    arabic: حُمِّلۡتُمۡ​ؕ
+    arabic: حُمِّلۡتُمۡۖ
     translation: (is) placed on you
     transliteration: ḥummil'tum
   15:
-    arabic: وَاِنۡ
+    arabic: وَإِن
     translation: And if
     transliteration: wa-in
   16:
-    arabic: تُطِيۡعُوۡهُ
+    arabic: تُطِيعُوهُ
     translation: you obey him
     transliteration: tuṭīʿūhu
   17:
-    arabic: تَهۡتَدُوۡا​ؕ
+    arabic: تَهۡتَدُواْۚ
     translation: you will be guided
     transliteration: tahtadū
   18:
@@ -84,19 +84,19 @@ word_by_word:
     translation: (is) on
     transliteration: ʿalā
   20:
-    arabic: الرَّسُوۡلِ
+    arabic: ٱلرَّسُولِ
     translation: the Messenger
     transliteration: l-rasūli
   21:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   22:
-    arabic: الۡبَلٰغُ
+    arabic: ٱلۡبَلَٰغُ
     translation: the conveyance
     transliteration: l-balāghu
   23:
-    arabic: الۡمُبِيۡنُ‏
+    arabic: ٱلۡمُبِينُ
     translation: '[the] clear'
     transliteration: l-mubīnu
 ---

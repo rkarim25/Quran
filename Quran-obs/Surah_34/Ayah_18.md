@@ -1,7 +1,6 @@
 ---
-arabic_ayat: وَجَعَلۡنَا بَيۡنَهُمۡ وَبَيۡنَ الۡقُرَى الَّتِىۡ بٰرَكۡنَا فِيۡهَا قُرًى
-  ظَاهِرَةً وَّقَدَّرۡنَا فِيۡهَا السَّيۡرَ ؕ سِيۡرُوۡا فِيۡهَا لَيَالِىَ وَاَيَّامًا
-  اٰمِنِيۡنَ‏
+arabic_ayat: وَجَعَلۡنَا بَيۡنَهُمۡ وَبَيۡنَ ٱلۡقُرَى ٱلَّتِي بَٰرَكۡنَا فِيهَا قُرٗى
+  ظَٰهِرَةٗ وَقَدَّرۡنَا فِيهَا ٱلسَّيۡرَۖ سِيرُواْ فِيهَا لَيَالِيَ وَأَيَّامًا ءَامِنِينَ
 sentence_translation: We had also placed between them and the cities We showered with
   blessings ˹many small˺ towns within sight of one another. And We set moderate travel
   distances in between, ˹saying,˺ “Travel between them by day and night safely.”
@@ -19,59 +18,59 @@ word_by_word:
     translation: and between
     transliteration: wabayna
   4:
-    arabic: الۡقُرَى
+    arabic: ٱلۡقُرَى
     translation: the towns
     transliteration: l-qurā
   5:
-    arabic: الَّتِىۡ
+    arabic: ٱلَّتِي
     translation: which
     transliteration: allatī
   6:
-    arabic: بٰرَكۡنَا
+    arabic: بَٰرَكۡنَا
     translation: We had blessed
     transliteration: bāraknā
   7:
-    arabic: فِيۡهَا
+    arabic: فِيهَا
     translation: in it
     transliteration: fīhā
   8:
-    arabic: قُرًى
+    arabic: قُرٗى
     translation: towns
     transliteration: quran
   9:
-    arabic: ظَاهِرَةً
+    arabic: ظَٰهِرَةٗ
     translation: visible
     transliteration: ẓāhiratan
   10:
-    arabic: وَّقَدَّرۡنَا
+    arabic: وَقَدَّرۡنَا
     translation: And We determined
     transliteration: waqaddarnā
   11:
-    arabic: فِيۡهَا
+    arabic: فِيهَا
     translation: between them
     transliteration: fīhā
   12:
-    arabic: السَّيۡرَ ؕ
+    arabic: ٱلسَّيۡرَۖ
     translation: the journey
     transliteration: l-sayra
   13:
-    arabic: سِيۡرُوۡا
+    arabic: سِيرُواْ
     translation: Travel
     transliteration: sīrū
   14:
-    arabic: فِيۡهَا
+    arabic: فِيهَا
     translation: between them
     transliteration: fīhā
   15:
-    arabic: لَيَالِىَ
+    arabic: لَيَالِيَ
     translation: (by) night
     transliteration: layāliya
   16:
-    arabic: وَاَيَّامًا
+    arabic: وَأَيَّامًا ءَ
     translation: and (by) day
     transliteration: wa-ayyāman
   17:
-    arabic: اٰمِنِيۡنَ‏
+    arabic: امِنِينَ
     translation: safely
     transliteration: āminīna
 ---

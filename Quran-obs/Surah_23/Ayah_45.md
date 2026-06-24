@@ -1,6 +1,6 @@
 ---
-arabic_ayat: "ثُمَّ اَرۡسَلۡنَا مُوۡسٰى وَاَخَاهُ هٰرُوۡنَ ۙ بِاٰيٰتِنَا وَسُلۡطٰنٍ\
-  \ مُّبِيۡنٍۙ‏ \uFEFF\uFEFF"
+arabic_ayat: ثُمَّ أَرۡسَلۡنَا مُوسَىٰ وَأَخَاهُ هَٰرُونَ بِـَٔايَٰتِنَا وَسُلۡطَٰنٖ
+  مُّبِينٍ
 sentence_translation: Then We sent Moses and his brother Aaron with Our signs and
   compelling proof
 word_by_word:
@@ -9,31 +9,31 @@ word_by_word:
     translation: Then
     transliteration: thumma
   2:
-    arabic: اَرۡسَلۡنَا
+    arabic: أَرۡسَلۡنَا
     translation: We sent
     transliteration: arsalnā
   3:
-    arabic: مُوۡسٰى
+    arabic: مُوسَىٰ
     translation: Musa
     transliteration: mūsā
   4:
-    arabic: وَاَخَاهُ
+    arabic: وَأَخَاهُ
     translation: and his brother
     transliteration: wa-akhāhu
   5:
-    arabic: هٰرُوۡنَ ۙ
+    arabic: هَٰرُونَ
     translation: Harun
     transliteration: hārūna
   6:
-    arabic: بِاٰيٰتِنَا
+    arabic: بِـَٔايَٰتِنَا
     translation: with Our Signs
     transliteration: biāyātinā
   7:
-    arabic: وَسُلۡطٰنٍ
+    arabic: وَسُلۡطَٰنٖ
     translation: and an authority
     transliteration: wasul'ṭānin
   8:
-    arabic: "مُّبِيۡنٍۙ‏ \uFEFF\uFEFF"
+    arabic: مُّبِينٍ
     translation: clear
     transliteration: mubīnin
 ---

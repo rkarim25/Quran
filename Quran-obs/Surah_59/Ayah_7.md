@@ -1,9 +1,9 @@
 ---
-arabic_ayat: مَاۤ اَفَآءَ اللّٰهُ عَلٰى رَسُوۡلِهٖ مِنۡ اَهۡلِ الۡقُرٰى فَلِلّٰهِ
-  وَلِلرَّسُوۡلِ وَلِذِى الۡقُرۡبٰى وَالۡيَتٰمٰى وَالۡمَسٰكِيۡنِ وَابۡنِ السَّبِيۡلِۙ
-  كَىۡ لَا يَكُوۡنَ دُوۡلَةًۢ بَيۡنَ الۡاَغۡنِيَآءِ مِنۡكُمۡ​ ؕ وَمَاۤ اٰتٰٮكُمُ
-  الرَّسُوۡلُ فَخُذُوْهُ وَ مَا َنَهٰٮكُمۡ عَنۡهُ فَانْتَهُوۡا​ ۚ وَاتَّقُوا اللّٰهَ
-  ​ؕ اِنَّ اللّٰهَ شَدِيۡدُ الۡعِقَابِ​ۘ‏
+arabic_ayat: مَّآ أَفَآءَ ٱللَّهُ عَلَىٰ رَسُولِهِۦ مِنۡ أَهۡلِ ٱلۡقُرَىٰ فَلِلَّهِ
+  وَلِلرَّسُولِ وَلِذِي ٱلۡقُرۡبَىٰ وَٱلۡيَتَٰمَىٰ وَٱلۡمَسَٰكِينِ وَٱبۡنِ ٱلسَّبِيلِ
+  كَيۡ لَا يَكُونَ دُولَةَۢ بَيۡنَ ٱلۡأَغۡنِيَآءِ مِنكُمۡۚ وَمَآ ءَاتَىٰكُمُ ٱلرَّسُولُ
+  فَخُذُوهُ وَمَا نَهَىٰكُمۡ عَنۡهُ فَٱنتَهُواْۚ وَٱتَّقُواْ ٱللَّهَۖ إِنَّ ٱللَّهَ
+  شَدِيدُ ٱلۡعِقَابِ
 sentence_translation: As for gains granted by Allah to His Messenger from the people
   of ˹other˺ lands, they are for Allah and the Messenger, his close relatives, orphans,
   the poor, and ˹needy˺ travellers so that wealth may not merely circulate among your
@@ -11,23 +11,23 @@ sentence_translation: As for gains granted by Allah to His Messenger from the pe
   leave it. And fear Allah. Surely Allah is severe in punishment.
 word_by_word:
   1:
-    arabic: مَاۤ
+    arabic: مَّآ
     translation: What
     transliteration: mā
   2:
-    arabic: اَفَآءَ
+    arabic: أَفَآءَ
     translation: (was) restored
     transliteration: afāa
   3:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: (by) Allah
     transliteration: l-lahu
   4:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: to
     transliteration: ʿalā
   5:
-    arabic: رَسُوۡلِهٖ
+    arabic: رَسُولِهِۦ
     translation: His Messenger
     transliteration: rasūlihi
   6:
@@ -35,47 +35,47 @@ word_by_word:
     translation: from
     transliteration: min
   7:
-    arabic: اَهۡلِ
+    arabic: أَهۡلِ
     translation: (the) people
     transliteration: ahli
   8:
-    arabic: الۡقُرٰى
+    arabic: ٱلۡقُرَىٰ
     translation: (of) the towns
     transliteration: l-qurā
   9:
-    arabic: فَلِلّٰهِ
+    arabic: فَلِلَّهِ
     translation: (it is) for Allah
     transliteration: falillahi
   10:
-    arabic: وَلِلرَّسُوۡلِ
+    arabic: وَلِلرَّسُولِ
     translation: and His Messenger
     transliteration: walilrrasūli
   11:
-    arabic: وَلِذِى
+    arabic: وَلِذِي
     translation: and for those
     transliteration: walidhī
   12:
-    arabic: الۡقُرۡبٰى
+    arabic: ٱلۡقُرۡبَىٰ
     translation: (of) the kindred
     transliteration: l-qur'bā
   13:
-    arabic: وَالۡيَتٰمٰى
+    arabic: وَٱلۡيَتَٰمَىٰ
     translation: and the orphans
     transliteration: wal-yatāmā
   14:
-    arabic: وَالۡمَسٰكِيۡنِ
+    arabic: وَٱلۡمَسَٰكِينِ
     translation: and the needy
     transliteration: wal-masākīni
   15:
-    arabic: وَابۡنِ
+    arabic: وَٱبۡنِ
     translation: and
     transliteration: wa-ib'ni
   16:
-    arabic: السَّبِيۡلِۙ
+    arabic: ٱلسَّبِيلِ
     translation: the wayfarer
     transliteration: l-sabīli
   17:
-    arabic: كَىۡ
+    arabic: كَيۡ
     translation: that
     transliteration: kay
   18:
@@ -83,11 +83,11 @@ word_by_word:
     translation: not
     transliteration: lā
   19:
-    arabic: يَكُوۡنَ
+    arabic: يَكُونَ
     translation: it becomes
     transliteration: yakūna
   20:
-    arabic: دُوۡلَةًۢ
+    arabic: دُولَةَۢ
     translation: a (perpetual) circulation
     transliteration: dūlatan
   21:
@@ -95,35 +95,35 @@ word_by_word:
     translation: between
     transliteration: bayna
   22:
-    arabic: الۡاَغۡنِيَآءِ
+    arabic: ٱلۡأَغۡنِيَآءِ
     translation: the rich
     transliteration: l-aghniyāi
   23:
-    arabic: مِنۡكُمۡ​ ؕ
+    arabic: مِنكُمۡۚ
     translation: among you
     transliteration: minkum
   24:
-    arabic: وَمَاۤ
+    arabic: وَمَآ ءَ
     translation: And whatever
     transliteration: wamā
   25:
-    arabic: اٰتٰٮكُمُ
+    arabic: اتَىٰكُمُ
     translation: gives you
     transliteration: ātākumu
   26:
-    arabic: الرَّسُوۡلُ
+    arabic: ٱلرَّسُولُ
     translation: the Messenger
     transliteration: l-rasūlu
   27:
-    arabic: فَخُذُوْهُ
+    arabic: فَخُذُوهُ
     translation: take it
     transliteration: fakhudhūhu
   28:
-    arabic: وَ مَا
+    arabic: وَمَا
     translation: and whatever
     transliteration: wamā
   29:
-    arabic: نَهٰٮكُمۡ
+    arabic: نَهَىٰكُمۡ
     translation: he forbids you
     transliteration: nahākum
   30:
@@ -131,31 +131,31 @@ word_by_word:
     translation: from it
     transliteration: ʿanhu
   31:
-    arabic: فَانْتَهُوۡا​ ۚ
+    arabic: فَٱنتَهُواْۚ
     translation: refrain
     transliteration: fa-intahū
   32:
-    arabic: وَاتَّقُوا
+    arabic: وَٱتَّقُواْ
     translation: And fear
     transliteration: wa-ittaqū
   33:
-    arabic: اللّٰهَ ​ؕ
+    arabic: ٱللَّهَۖ
     translation: Allah
     transliteration: l-laha
   34:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   35:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   36:
-    arabic: شَدِيۡدُ
+    arabic: شَدِيدُ
     translation: (is) severe
     transliteration: shadīdu
   37:
-    arabic: الۡعِقَابِ​ۘ‏
+    arabic: ٱلۡعِقَابِ
     translation: (in) penalty
     transliteration: l-ʿiqābi
 ---

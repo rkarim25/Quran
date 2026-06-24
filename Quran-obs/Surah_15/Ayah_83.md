@@ -1,17 +1,17 @@
 ---
-arabic_ayat: فَاَخَذَتۡهُمُ الصَّيۡحَةُ مُصۡبِحِيۡنَۙ‏
+arabic_ayat: فَأَخَذَتۡهُمُ ٱلصَّيۡحَةُ مُصۡبِحِينَ
 sentence_translation: But the ˹mighty˺ blast overtook them in the morning,
 word_by_word:
   1:
-    arabic: فَاَخَذَتۡهُمُ
+    arabic: فَأَخَذَتۡهُمُ
     translation: But seized them
     transliteration: fa-akhadhathumu
   2:
-    arabic: الصَّيۡحَةُ
+    arabic: ٱلصَّيۡحَةُ
     translation: the awful cry
     transliteration: l-ṣayḥatu
   3:
-    arabic: مُصۡبِحِيۡنَۙ‏
+    arabic: مُصۡبِحِينَ
     translation: (at) early morning
     transliteration: muṣ'biḥīna
 ---

@@ -1,12 +1,12 @@
 ---
-arabic_ayat: اَلَمۡ تَرَ اِلَى الَّذِيۡنَ اُوۡتُوۡا نَصِيۡبًا مِّنَ الۡكِتٰبِ يَشۡتَرُوۡنَ
-  الضَّلٰلَةَ وَيُرِيۡدُوۡنَ اَنۡ تَضِلُّوا السَّبِيۡلَ ؕ‏
+arabic_ayat: أَلَمۡ تَرَ إِلَى ٱلَّذِينَ أُوتُواْ نَصِيبٗا مِّنَ ٱلۡكِتَٰبِ يَشۡتَرُونَ
+  ٱلضَّلَٰلَةَ وَيُرِيدُونَ أَن تَضِلُّواْ ٱلسَّبِيلَ
 sentence_translation: Have you ˹O Prophet˺ not seen those who were given a portion
   of the Scriptures yet trade it for misguidance and wish to see you deviate from
   the ˹Right˺ Path?
 word_by_word:
   1:
-    arabic: اَلَمۡ
+    arabic: أَلَمۡ
     translation: Did not
     transliteration: alam
   2:
@@ -14,19 +14,19 @@ word_by_word:
     translation: you see
     transliteration: tara
   3:
-    arabic: اِلَى
+    arabic: إِلَى
     translation: '[towards]'
     transliteration: ilā
   4:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   5:
-    arabic: اُوۡتُوۡا
+    arabic: أُوتُواْ
     translation: were given
     transliteration: ūtū
   6:
-    arabic: نَصِيۡبًا
+    arabic: نَصِيبٗا
     translation: a portion
     transliteration: naṣīban
   7:
@@ -34,31 +34,31 @@ word_by_word:
     translation: of
     transliteration: mina
   8:
-    arabic: الۡكِتٰبِ
+    arabic: ٱلۡكِتَٰبِ
     translation: the Book
     transliteration: l-kitābi
   9:
-    arabic: يَشۡتَرُوۡنَ
+    arabic: يَشۡتَرُونَ
     translation: purchasing
     transliteration: yashtarūna
   10:
-    arabic: الضَّلٰلَةَ
+    arabic: ٱلضَّلَٰلَةَ
     translation: '[the] error'
     transliteration: l-ḍalālata
   11:
-    arabic: وَيُرِيۡدُوۡنَ
+    arabic: وَيُرِيدُونَ
     translation: and wishing
     transliteration: wayurīdūna
   12:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that
     transliteration: an
   13:
-    arabic: تَضِلُّوا
+    arabic: تَضِلُّواْ
     translation: you stray
     transliteration: taḍillū
   14:
-    arabic: السَّبِيۡلَ ؕ‏
+    arabic: ٱلسَّبِيلَ
     translation: (from) the way
     transliteration: l-sabīla
 ---

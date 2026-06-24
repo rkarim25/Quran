@@ -1,11 +1,11 @@
 ---
-arabic_ayat: وَاِذۡ قَالَ مُوۡسٰى لِفَتٰٮهُ لَاۤ اَبۡرَحُ حَتّٰۤى اَبۡلُغَ مَجۡمَعَ
-  الۡبَحۡرَيۡنِ اَوۡ اَمۡضِىَ حُقُبًا‏
+arabic_ayat: وَإِذۡ قَالَ مُوسَىٰ لِفَتَىٰهُ لَآ أَبۡرَحُ حَتَّىٰٓ أَبۡلُغَ مَجۡمَعَ
+  ٱلۡبَحۡرَيۡنِ أَوۡ أَمۡضِيَ حُقُبٗا
 sentence_translation: And ˹remember˺ when Moses said to his young assistant, “I will
   never give up until I reach the junction of the two seas, even if I travel for ages.”
 word_by_word:
   1:
-    arabic: وَاِذۡ
+    arabic: وَإِذۡ
     translation: And when
     transliteration: wa-idh
   2:
@@ -13,27 +13,27 @@ word_by_word:
     translation: said
     transliteration: qāla
   3:
-    arabic: مُوۡسٰى
+    arabic: مُوسَىٰ
     translation: Musa
     transliteration: mūsā
   4:
-    arabic: لِفَتٰٮهُ
+    arabic: لِفَتَىٰهُ
     translation: to his boy
     transliteration: lifatāhu
   5:
-    arabic: لَاۤ
+    arabic: لَآ
     translation: Not
     transliteration: lā
   6:
-    arabic: اَبۡرَحُ
+    arabic: أَبۡرَحُ
     translation: I will cease
     transliteration: abraḥu
   7:
-    arabic: حَتّٰۤى
+    arabic: حَتَّىٰٓ
     translation: until
     transliteration: ḥattā
   8:
-    arabic: اَبۡلُغَ
+    arabic: أَبۡلُغَ
     translation: I reach
     transliteration: ablugha
   9:
@@ -41,19 +41,19 @@ word_by_word:
     translation: the junction
     transliteration: majmaʿa
   10:
-    arabic: الۡبَحۡرَيۡنِ
+    arabic: ٱلۡبَحۡرَيۡنِ
     translation: (of) the two seas
     transliteration: l-baḥrayni
   11:
-    arabic: اَوۡ
+    arabic: أَوۡ
     translation: or
     transliteration: aw
   12:
-    arabic: اَمۡضِىَ
+    arabic: أَمۡضِيَ
     translation: I continue
     transliteration: amḍiya
   13:
-    arabic: حُقُبًا‏
+    arabic: حُقُبٗا
     translation: (for) a long period
     transliteration: ḥuquban
 ---

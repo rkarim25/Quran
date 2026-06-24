@@ -1,17 +1,17 @@
 ---
-arabic_ayat: وَاَنۡذِرۡ عَشِيۡرَتَكَ الۡاَقۡرَبِيۡنَۙ‏
+arabic_ayat: وَأَنذِرۡ عَشِيرَتَكَ ٱلۡأَقۡرَبِينَ
 sentence_translation: And warn ˹all, starting with˺ your closest relatives,
 word_by_word:
   1:
-    arabic: وَاَنۡذِرۡ
+    arabic: وَأَنذِرۡ
     translation: And warn
     transliteration: wa-andhir
   2:
-    arabic: عَشِيۡرَتَكَ
+    arabic: عَشِيرَتَكَ
     translation: your kindred
     transliteration: ʿashīrataka
   3:
-    arabic: الۡاَقۡرَبِيۡنَۙ‏
+    arabic: ٱلۡأَقۡرَبِينَ
     translation: '[the] closest'
     transliteration: l-aqrabīna
 ---

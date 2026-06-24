@@ -1,37 +1,37 @@
 ---
-arabic_ayat: اِنۡ يُّوۡحٰۤى اِلَىَّ اِلَّاۤ اَنَّمَاۤ اَنَا۟ نَذِيۡرٌ مُّبِيۡنٌ‏
+arabic_ayat: إِن يُوحَىٰٓ إِلَيَّ إِلَّآ أَنَّمَآ أَنَا۠ نَذِيرٞ مُّبِينٌ
 sentence_translation: What is revealed to me is that I am only sent with a clear warning.”
 word_by_word:
   1:
-    arabic: اِنۡ
+    arabic: إِن
     translation: Not
     transliteration: in
   2:
-    arabic: يُّوۡحٰۤى
+    arabic: يُوحَىٰٓ
     translation: has been revealed
     transliteration: yūḥā
   3:
-    arabic: اِلَىَّ
+    arabic: إِلَيَّ
     translation: to me
     transliteration: ilayya
   4:
-    arabic: اِلَّاۤ
+    arabic: إِلَّآ
     translation: except
     transliteration: illā
   5:
-    arabic: اَنَّمَاۤ
+    arabic: أَنَّمَآ
     translation: that only
     transliteration: annamā
   6:
-    arabic: اَنَا۟
+    arabic: أَنَا۠
     translation: I am
     transliteration: anā
   7:
-    arabic: نَذِيۡرٌ
+    arabic: نَذِيرٞ
     translation: a warner
     transliteration: nadhīrun
   8:
-    arabic: مُّبِيۡنٌ‏
+    arabic: مُّبِينٌ
     translation: clear
     transliteration: mubīnun
 ---

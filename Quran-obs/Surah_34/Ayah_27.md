@@ -1,6 +1,6 @@
 ---
-arabic_ayat: قُلۡ اَرُوۡنِىَ الَّذِيۡنَ اَ لۡحَـقۡتُمۡ بِهٖ شُرَكَآءَ كَلَّا ؕ بَلۡ
-  هُوَ اللّٰهُ الۡعَزِيۡزُ الۡحَكِيۡمُ‏
+arabic_ayat: قُلۡ أَرُونِيَ ٱلَّذِينَ أَلۡحَقۡتُم بِهِۦ شُرَكَآءَۖ كـَلَّاۚ بَلۡ
+  هُوَ ٱللَّهُ ٱلۡعَزِيزُ ٱلۡحَكِيمُ
 sentence_translation: Say, “Show me those ˹idols˺ you have joined with Him as partners.
   No! In fact, He ˹alone˺ is Allah—the Almighty, All-Wise.”
 word_by_word:
@@ -9,27 +9,27 @@ word_by_word:
     translation: Say
     transliteration: qul
   2:
-    arabic: اَرُوۡنِىَ
+    arabic: أَرُونِيَ
     translation: Show me
     transliteration: arūniya
   3:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those whom
     transliteration: alladhīna
   4:
-    arabic: اَ لۡحَـقۡتُمۡ
+    arabic: أَلۡحَقۡتُم
     translation: you have joined
     transliteration: alḥaqtum
   5:
-    arabic: بِهٖ
+    arabic: بِهِۦ
     translation: with Him
     transliteration: bihi
   6:
-    arabic: شُرَكَآءَ
+    arabic: شُرَكَآءَۖ
     translation: (as) partners
     transliteration: shurakāa
   7:
-    arabic: كَلَّا ؕ
+    arabic: كـَلَّاۚ
     translation: By no means
     transliteration: kallā
   8:
@@ -41,15 +41,15 @@ word_by_word:
     translation: He
     transliteration: huwa
   10:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: (is) Allah
     transliteration: l-lahu
   11:
-    arabic: الۡعَزِيۡزُ
+    arabic: ٱلۡعَزِيزُ
     translation: the All-Mighty
     transliteration: l-ʿazīzu
   12:
-    arabic: الۡحَكِيۡمُ‏
+    arabic: ٱلۡحَكِيمُ
     translation: the All-Wise
     transliteration: l-ḥakīmu
 ---

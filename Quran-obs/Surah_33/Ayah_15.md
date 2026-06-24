@@ -1,6 +1,6 @@
 ---
-arabic_ayat: وَلَقَدۡ كَانُوۡا عَاهَدُوا اللّٰهَ مِنۡ قَبۡلُ لَا يُوَلُّوۡنَ الۡاَدۡبَارَ​
-  ؕ وَكَانَ عَهۡدُ اللّٰهِ مَسۡـــُٔوۡلًا‏
+arabic_ayat: وَلَقَدۡ كَانُواْ عَٰهَدُواْ ٱللَّهَ مِن قَبۡلُ لَا يُوَلُّونَ ٱلۡأَدۡبَٰرَۚ
+  وَكَانَ عَهۡدُ ٱللَّهِ مَسۡـُٔولٗا
 sentence_translation: They had already pledged to Allah earlier never to turn their
   backs ˹in retreat˺. And a pledge to Allah must be answered for.
 word_by_word:
@@ -9,19 +9,19 @@ word_by_word:
     translation: And certainly
     transliteration: walaqad
   2:
-    arabic: كَانُوۡا
+    arabic: كَانُواْ
     translation: they had
     transliteration: kānū
   3:
-    arabic: عَاهَدُوا
+    arabic: عَٰهَدُواْ
     translation: promised
     transliteration: ʿāhadū
   4:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   5:
-    arabic: مِنۡ
+    arabic: مِن
     translation: before
     transliteration: min
   6:
@@ -33,11 +33,11 @@ word_by_word:
     translation: not
     transliteration: lā
   8:
-    arabic: يُوَلُّوۡنَ
+    arabic: يُوَلُّونَ
     translation: they would turn
     transliteration: yuwallūna
   9:
-    arabic: الۡاَدۡبَارَ​ ؕ
+    arabic: ٱلۡأَدۡبَٰرَۚ
     translation: their backs
     transliteration: l-adbāra
   10:
@@ -49,11 +49,11 @@ word_by_word:
     translation: (the) promise
     transliteration: ʿahdu
   12:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (to) Allah
     transliteration: l-lahi
   13:
-    arabic: مَسۡـــُٔوۡلًا‏
+    arabic: مَسۡـُٔولٗا
     translation: to be questioned
     transliteration: masūlan
 ---

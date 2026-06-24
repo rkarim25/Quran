@@ -1,18 +1,18 @@
 ---
-arabic_ayat: وَالَّذِيۡنَ كَفَرُوۡا بِاٰيٰتِنَا هُمۡ اَصۡحٰبُ الۡمَشۡـَٔـمَةِ ؕ‏
+arabic_ayat: وَٱلَّذِينَ كَفَرُواْ بِـَٔايَٰتِنَا هُمۡ أَصۡحَٰبُ ٱلۡمَشۡـَٔمَةِ
 sentence_translation: As for those who deny Our signs, they are the people of the
   left.
 word_by_word:
   1:
-    arabic: وَالَّذِيۡنَ
+    arabic: وَٱلَّذِينَ
     translation: But those who
     transliteration: wa-alladhīna
   2:
-    arabic: كَفَرُوۡا
+    arabic: كَفَرُواْ
     translation: disbelieve
     transliteration: kafarū
   3:
-    arabic: بِاٰيٰتِنَا
+    arabic: بِـَٔايَٰتِنَا
     translation: in Our Verses
     transliteration: biāyātinā
   4:
@@ -20,11 +20,11 @@ word_by_word:
     translation: they
     transliteration: hum
   5:
-    arabic: اَصۡحٰبُ
+    arabic: أَصۡحَٰبُ
     translation: (are the) companions
     transliteration: aṣḥābu
   6:
-    arabic: الۡمَشۡـَٔـمَةِ ؕ‏
+    arabic: ٱلۡمَشۡـَٔمَةِ
     translation: (of) the left (hand)
     transliteration: l-mashamati
 ---

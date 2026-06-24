@@ -1,5 +1,5 @@
 ---
-arabic_ayat: رَبِّ هَبۡ لِىۡ حُكۡمًا وَّاَلۡحِقۡنِىۡ بِالصّٰلِحِيۡنَۙ‏
+arabic_ayat: رَبِّ هَبۡ لِي حُكۡمٗا وَأَلۡحِقۡنِي بِٱلصَّٰلِحِينَ
 sentence_translation: “My Lord! Grant me wisdom, and join me with the righteous.
 word_by_word:
   1:
@@ -11,19 +11,19 @@ word_by_word:
     translation: Grant
     transliteration: hab
   3:
-    arabic: لِىۡ
+    arabic: لِي
     translation: '[for] me'
     transliteration: lī
   4:
-    arabic: حُكۡمًا
+    arabic: حُكۡمٗا
     translation: wisdom
     transliteration: ḥuk'man
   5:
-    arabic: وَّاَلۡحِقۡنِىۡ
+    arabic: وَأَلۡحِقۡنِي
     translation: and join me
     transliteration: wa-alḥiq'nī
   6:
-    arabic: بِالصّٰلِحِيۡنَۙ‏
+    arabic: بِٱلصَّٰلِحِينَ
     translation: with the righteous
     transliteration: bil-ṣāliḥīna
 ---

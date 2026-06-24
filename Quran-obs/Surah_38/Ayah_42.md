@@ -1,30 +1,30 @@
 ---
-arabic_ayat: اُرۡكُضۡ بِرِجۡلِكَ​ ۚ هٰذَا مُغۡتَسَلٌ ۢ بَارِدٌ وَّشَرَابٌ‏
+arabic_ayat: ٱرۡكُضۡ بِرِجۡلِكَۖ هَٰذَا مُغۡتَسَلُۢ بَارِدٞ وَشَرَابٞ
 sentence_translation: '˹We responded,˺ “Stomp your foot: ˹now˺ here is a cool ˹and
   refreshing˺ spring for washing and drinking.”'
 word_by_word:
   1:
-    arabic: اُرۡكُضۡ
+    arabic: ٱرۡكُضۡ
     translation: Strike
     transliteration: ur'kuḍ
   2:
-    arabic: بِرِجۡلِكَ​ ۚ
+    arabic: بِرِجۡلِكَۖ
     translation: with your foot
     transliteration: birij'lika
   3:
-    arabic: هٰذَا
+    arabic: هَٰذَا
     translation: This
     transliteration: hādhā
   4:
-    arabic: مُغۡتَسَلٌ ۢ
+    arabic: مُغۡتَسَلُۢ
     translation: (is a spring of) water to bathe
     transliteration: mugh'tasalun
   5:
-    arabic: بَارِدٌ
+    arabic: بَارِدٞ
     translation: cool
     transliteration: bāridun
   6:
-    arabic: وَّشَرَابٌ‏
+    arabic: وَشَرَابٞ
     translation: and a drink
     transliteration: washarābun
 ---

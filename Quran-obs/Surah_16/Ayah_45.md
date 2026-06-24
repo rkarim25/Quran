@@ -1,36 +1,36 @@
 ---
-arabic_ayat: اَفَاَمِنَ الَّذِيۡنَ مَكَرُوا السَّيِّاٰتِ اَنۡ يَّخۡسِفَ اللّٰهُ بِهِمُ
-  الۡاَرۡضَ اَوۡ يَاۡتِيَهُمُ الۡعَذَابُ مِنۡ حَيۡثُ لَا يَشۡعُرُوۡنَۙ‏
+arabic_ayat: أَفَأَمِنَ ٱلَّذِينَ مَكَرُواْ ٱلسَّيِّـَٔاتِ أَن يَخۡسِفَ ٱللَّهُ بِهِمُ
+  ٱلۡأَرۡضَ أَوۡ يَأۡتِيَهُمُ ٱلۡعَذَابُ مِنۡ حَيۡثُ لَا يَشۡعُرُونَ
 sentence_translation: Do those who devise evil plots feel secure that Allah will not
   cause the earth to swallow them? Or that the torment will not come upon them in
   ways they cannot comprehend?
 word_by_word:
   1:
-    arabic: اَفَاَمِنَ
+    arabic: أَفَأَمِنَ
     translation: Do then feel secure
     transliteration: afa-amina
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   3:
-    arabic: مَكَرُوا
+    arabic: مَكَرُواْ
     translation: plotted
     transliteration: makarū
   4:
-    arabic: السَّيِّاٰتِ
+    arabic: ٱلسَّيِّـَٔاتِ
     translation: the evil deeds
     transliteration: l-sayiāti
   5:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that
     transliteration: an
   6:
-    arabic: يَّخۡسِفَ
+    arabic: يَخۡسِفَ
     translation: Allah will cave
     transliteration: yakhsifa
   7:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah will cave
     transliteration: l-lahu
   8:
@@ -38,19 +38,19 @@ word_by_word:
     translation: with them
     transliteration: bihimu
   9:
-    arabic: الۡاَرۡضَ
+    arabic: ٱلۡأَرۡضَ
     translation: the earth
     transliteration: l-arḍa
   10:
-    arabic: اَوۡ
+    arabic: أَوۡ
     translation: or
     transliteration: aw
   11:
-    arabic: يَاۡتِيَهُمُ
+    arabic: يَأۡتِيَهُمُ
     translation: will come to them
     transliteration: yatiyahumu
   12:
-    arabic: الۡعَذَابُ
+    arabic: ٱلۡعَذَابُ
     translation: the punishment
     transliteration: l-ʿadhābu
   13:
@@ -66,7 +66,7 @@ word_by_word:
     translation: not
     transliteration: lā
   16:
-    arabic: يَشۡعُرُوۡنَۙ‏
+    arabic: يَشۡعُرُونَ
     translation: they perceive
     transliteration: yashʿurūna
 ---

@@ -1,29 +1,29 @@
 ---
-arabic_ayat: فَسُبۡحٰنَ اللّٰهِ حِيۡنَ تُمۡسُوۡنَ وَحِيۡنَ تُصۡبِحُوۡنَ‏
+arabic_ayat: فَسُبۡحَٰنَ ٱللَّهِ حِينَ تُمۡسُونَ وَحِينَ تُصۡبِحُونَ
 sentence_translation: So glorify Allah in the evening and in the morning—
 word_by_word:
   1:
-    arabic: فَسُبۡحٰنَ
+    arabic: فَسُبۡحَٰنَ
     translation: So glory be to
     transliteration: fasub'ḥāna
   2:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   3:
-    arabic: حِيۡنَ
+    arabic: حِينَ
     translation: when
     transliteration: ḥīna
   4:
-    arabic: تُمۡسُوۡنَ
+    arabic: تُمۡسُونَ
     translation: you reach the evening
     transliteration: tum'sūna
   5:
-    arabic: وَحِيۡنَ
+    arabic: وَحِينَ
     translation: and when
     transliteration: waḥīna
   6:
-    arabic: تُصۡبِحُوۡنَ‏
+    arabic: تُصۡبِحُونَ
     translation: you reach the morning
     transliteration: tuṣ'biḥūna
 ---

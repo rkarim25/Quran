@@ -1,23 +1,23 @@
 ---
-arabic_ayat: وَيَحۡلِفُوۡنَ بِاللّٰهِ اِنَّهُمۡ لَمِنۡكُمۡؕ وَمَا هُمۡ مِّنۡكُمۡ وَلٰـكِنَّهُمۡ
-  قَوۡمٌ يَّفۡرَقُوۡنَ‏
+arabic_ayat: وَيَحۡلِفُونَ بِٱللَّهِ إِنَّهُمۡ لَمِنكُمۡ وَمَا هُم مِّنكُمۡ وَلَٰكِنَّهُمۡ
+  قَوۡمٞ يَفۡرَقُونَ
 sentence_translation: They swear by Allah that they are part of you, but they are
   not. They only say so out of fear.
 word_by_word:
   1:
-    arabic: وَيَحۡلِفُوۡنَ
+    arabic: وَيَحۡلِفُونَ
     translation: And they swear
     transliteration: wayaḥlifūna
   2:
-    arabic: بِاللّٰهِ
+    arabic: بِٱللَّهِ
     translation: by Allah
     transliteration: bil-lahi
   3:
-    arabic: اِنَّهُمۡ
+    arabic: إِنَّهُمۡ
     translation: indeed, they
     transliteration: innahum
   4:
-    arabic: لَمِنۡكُمۡؕ
+    arabic: لَمِنكُمۡ
     translation: surely (are) of you
     transliteration: laminkum
   5:
@@ -25,23 +25,23 @@ word_by_word:
     translation: while not
     transliteration: wamā
   6:
-    arabic: هُمۡ
+    arabic: هُم
     translation: they
     transliteration: hum
   7:
-    arabic: مِّنۡكُمۡ
+    arabic: مِّنكُمۡ
     translation: (are) of you
     transliteration: minkum
   8:
-    arabic: وَلٰـكِنَّهُمۡ
+    arabic: وَلَٰكِنَّهُمۡ
     translation: but they
     transliteration: walākinnahum
   9:
-    arabic: قَوۡمٌ
+    arabic: قَوۡمٞ
     translation: (are) a people
     transliteration: qawmun
   10:
-    arabic: يَّفۡرَقُوۡنَ‏
+    arabic: يَفۡرَقُونَ
     translation: (who) are afraid
     transliteration: yafraqūna
 ---

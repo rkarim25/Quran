@@ -1,21 +1,21 @@
 ---
-arabic_ayat: اَنۡ دَعَوۡا لِـلرَّحۡمٰنِ وَلَدًا​ ۚ‏
+arabic_ayat: أَن دَعَوۡاْ لِلرَّحۡمَٰنِ وَلَدٗا
 sentence_translation: in protest of attributing children to the Most Compassionate.
 word_by_word:
   1:
-    arabic: اَنۡ
+    arabic: أَن
     translation: That
     transliteration: an
   2:
-    arabic: دَعَوۡا
+    arabic: دَعَوۡاْ
     translation: they invoke
     transliteration: daʿaw
   3:
-    arabic: لِـلرَّحۡمٰنِ
+    arabic: لِلرَّحۡمَٰنِ
     translation: to the Most Gracious
     transliteration: lilrraḥmāni
   4:
-    arabic: وَلَدًا​ ۚ‏
+    arabic: وَلَدٗا
     translation: a son
     transliteration: waladan
 ---

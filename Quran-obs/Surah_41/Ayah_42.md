@@ -1,6 +1,6 @@
 ---
-arabic_ayat: لَّا يَاۡتِيۡهِ الۡبَاطِلُ مِنۡۢ بَيۡنِ يَدَيۡهِ وَلَا مِنۡ خَلۡفِهٖ​ؕ
-  تَنۡزِيۡلٌ مِّنۡ حَكِيۡمٍ حَمِيۡدٍ‏
+arabic_ayat: لَّا يَأۡتِيهِ ٱلۡبَٰطِلُ مِنۢ بَيۡنِ يَدَيۡهِ وَلَا مِنۡ خَلۡفِهِۦۖ
+  تَنزِيلٞ مِّنۡ حَكِيمٍ حَمِيدٖ
 sentence_translation: It cannot be proven false from any angle. ˹It is˺ a revelation
   from the ˹One Who is˺ All-Wise, Praiseworthy.
 word_by_word:
@@ -9,15 +9,15 @@ word_by_word:
     translation: Not
     transliteration: lā
   2:
-    arabic: يَاۡتِيۡهِ
+    arabic: يَأۡتِيهِ
     translation: comes to it
     transliteration: yatīhi
   3:
-    arabic: الۡبَاطِلُ
+    arabic: ٱلۡبَٰطِلُ
     translation: the falsehood
     transliteration: l-bāṭilu
   4:
-    arabic: مِنۡۢ
+    arabic: مِنۢ
     translation: from
     transliteration: min
   5:
@@ -37,11 +37,11 @@ word_by_word:
     translation: from
     transliteration: min
   9:
-    arabic: خَلۡفِهٖ​ؕ
+    arabic: خَلۡفِهِۦۖ
     translation: behind it
     transliteration: khalfihi
   10:
-    arabic: تَنۡزِيۡلٌ
+    arabic: تَنزِيلٞ
     translation: A Revelation
     transliteration: tanzīlun
   11:
@@ -49,11 +49,11 @@ word_by_word:
     translation: from
     transliteration: min
   12:
-    arabic: حَكِيۡمٍ
+    arabic: حَكِيمٍ
     translation: (the) All-Wise
     transliteration: ḥakīmin
   13:
-    arabic: حَمِيۡدٍ‏
+    arabic: حَمِيدٖ
     translation: (the) Praiseworthy
     transliteration: ḥamīdin
 ---

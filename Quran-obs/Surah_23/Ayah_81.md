@@ -1,5 +1,5 @@
 ---
-arabic_ayat: بَلۡ قَالُوۡا مِثۡلَ مَا قَالَ الۡاَوَّلُوۡنَ‏
+arabic_ayat: بَلۡ قَالُواْ مِثۡلَ مَا قَالَ ٱلۡأَوَّلُونَ
 sentence_translation: But they ˹just˺ say what their predecessors said.
 word_by_word:
   1:
@@ -7,7 +7,7 @@ word_by_word:
     translation: Nay
     transliteration: bal
   2:
-    arabic: قَالُوۡا
+    arabic: قَالُواْ
     translation: they say
     transliteration: qālū
   3:
@@ -23,7 +23,7 @@ word_by_word:
     translation: said
     transliteration: qāla
   6:
-    arabic: الۡاَوَّلُوۡنَ‏
+    arabic: ٱلۡأَوَّلُونَ
     translation: the former (people)
     transliteration: l-awalūna
 ---

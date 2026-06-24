@@ -1,29 +1,29 @@
 ---
-arabic_ayat: اِنَّ فِىۡ ذٰلِكَ لَعِبۡرَةً لِّمَنۡ يَّخۡشٰىؕ‏
+arabic_ayat: إِنَّ فِي ذَٰلِكَ لَعِبۡرَةٗ لِّمَن يَخۡشَىٰٓ
 sentence_translation: Surely in this is a lesson for whoever stands in awe of ˹Allah˺.
 word_by_word:
   1:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   2:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   3:
-    arabic: ذٰلِكَ
+    arabic: ذَٰلِكَ
     translation: that
     transliteration: dhālika
   4:
-    arabic: لَعِبۡرَةً
+    arabic: لَعِبۡرَةٗ
     translation: surely (is) a lesson
     transliteration: laʿib'ratan
   5:
-    arabic: لِّمَنۡ
+    arabic: لِّمَن
     translation: for whoever
     transliteration: liman
   6:
-    arabic: يَّخۡشٰىؕ‏
+    arabic: يَخۡشَىٰٓ
     translation: fears
     transliteration: yakhshā
 ---

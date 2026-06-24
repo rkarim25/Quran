@@ -1,11 +1,11 @@
 ---
-arabic_ayat: اِنَّا نَحۡنُ نُحۡىِ الۡمَوۡتٰى وَنَكۡتُبُ مَا قَدَّمُوۡا وَاٰثَارَهُمۡؕ
-  وَكُلَّ شَىۡءٍ اَحۡصَيۡنٰهُ فِىۡۤ اِمَامٍ مُّبِيۡنٍ‏
+arabic_ayat: إِنَّا نَحۡنُ نُحۡيِ ٱلۡمَوۡتَىٰ وَنَكۡتُبُ مَا قَدَّمُواْ وَءَاثَٰرَهُمۡۚ
+  وَكُلَّ شَيۡءٍ أَحۡصَيۡنَٰهُ فِيٓ إِمَامٖ مُّبِينٖ
 sentence_translation: It is certainly We Who resurrect the dead, and write what they
   send forth and what they leave behind. Everything is listed by Us in a perfect Record. 
 word_by_word:
   1:
-    arabic: اِنَّا
+    arabic: إِنَّا
     translation: Indeed, We
     transliteration: innā
   2:
@@ -13,11 +13,11 @@ word_by_word:
     translation: '[We]'
     transliteration: naḥnu
   3:
-    arabic: نُحۡىِ
+    arabic: نُحۡيِ
     translation: '[We] give life'
     transliteration: nuḥ'yī
   4:
-    arabic: الۡمَوۡتٰى
+    arabic: ٱلۡمَوۡتَىٰ
     translation: (to) the dead
     transliteration: l-mawtā
   5:
@@ -29,11 +29,11 @@ word_by_word:
     translation: what
     transliteration: mā
   7:
-    arabic: قَدَّمُوۡا
+    arabic: قَدَّمُواْ
     translation: they have sent before
     transliteration: qaddamū
   8:
-    arabic: وَاٰثَارَهُمۡؕ
+    arabic: وَءَاثَٰرَهُمۡۚ
     translation: and their footprints
     transliteration: waāthārahum
   9:
@@ -41,23 +41,23 @@ word_by_word:
     translation: and every
     transliteration: wakulla
   10:
-    arabic: شَىۡءٍ
+    arabic: شَيۡءٍ
     translation: thing
     transliteration: shayin
   11:
-    arabic: اَحۡصَيۡنٰهُ
+    arabic: أَحۡصَيۡنَٰهُ
     translation: We have enumerated it
     transliteration: aḥṣaynāhu
   12:
-    arabic: فِىۡۤ
+    arabic: فِيٓ
     translation: in
     transliteration: fī
   13:
-    arabic: اِمَامٍ
+    arabic: إِمَامٖ
     translation: a Register
     transliteration: imāmin
   14:
-    arabic: مُّبِيۡنٍ‏
+    arabic: مُّبِينٖ
     translation: clear
     transliteration: mubīnin
 ---

@@ -1,8 +1,7 @@
 ---
-arabic_ayat: مَا قُلۡتُ لَهُمۡ اِلَّا مَاۤ اَمَرۡتَنِىۡ بِهٖۤ اَنِ اعۡبُدُوا اللّٰهَ
-  رَبِّىۡ وَرَبَّكُمۡ​ۚ وَكُنۡتُ عَلَيۡهِمۡ شَهِيۡدًا مَّا دُمۡتُ فِيۡهِمۡ​ۚ فَلَمَّا
-  تَوَفَّيۡتَنِىۡ كُنۡتَ اَنۡتَ الرَّقِيۡبَ عَلَيۡهِمۡ​ؕ وَاَنۡتَ عَلٰى كُلِّ شَىۡءٍ
-  شَهِيۡدٌ‏
+arabic_ayat: مَا قُلۡتُ لَهُمۡ إِلَّا مَآ أَمَرۡتَنِي بِهِۦٓ أَنِ ٱعۡبُدُواْ ٱللَّهَ
+  رَبِّي وَرَبَّكُمۡۚ وَكُنتُ عَلَيۡهِمۡ شَهِيدٗا مَّا دُمۡتُ فِيهِمۡۖ فَلَمَّا تَوَفَّيۡتَنِي
+  كُنتَ أَنتَ ٱلرَّقِيبَ عَلَيۡهِمۡۚ وَأَنتَ عَلَىٰ كُلِّ شَيۡءٖ شَهِيدٌ
 sentence_translation: 'I never told them anything except what You ordered me to say:
   “Worship Allah—my Lord and your Lord!” And I was witness over them as long as I
   remained among them. But when You took me, You were the Witness over them—and You
@@ -21,43 +20,43 @@ word_by_word:
     translation: to them
     transliteration: lahum
   4:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   5:
-    arabic: مَاۤ
+    arabic: مَآ
     translation: what
     transliteration: mā
   6:
-    arabic: اَمَرۡتَنِىۡ
+    arabic: أَمَرۡتَنِي
     translation: You commanded me
     transliteration: amartanī
   7:
-    arabic: بِهٖۤ
+    arabic: بِهِۦٓ
     translation: '[with it]'
     transliteration: bihi
   8:
-    arabic: اَنِ
+    arabic: أَنِ
     translation: that
     transliteration: ani
   9:
-    arabic: اعۡبُدُوا
+    arabic: ٱعۡبُدُواْ
     translation: You worship
     transliteration: uʿ'budū
   10:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   11:
-    arabic: رَبِّىۡ
+    arabic: رَبِّي
     translation: my Lord
     transliteration: rabbī
   12:
-    arabic: وَرَبَّكُمۡ​ۚ
+    arabic: وَرَبَّكُمۡۚ
     translation: and your Lord
     transliteration: warabbakum
   13:
-    arabic: وَكُنۡتُ
+    arabic: وَكُنتُ
     translation: And I was
     transliteration: wakuntu
   14:
@@ -65,7 +64,7 @@ word_by_word:
     translation: over them
     transliteration: ʿalayhim
   15:
-    arabic: شَهِيۡدًا
+    arabic: شَهِيدٗا
     translation: a witness
     transliteration: shahīdan
   16:
@@ -77,7 +76,7 @@ word_by_word:
     translation: as long as I
     transliteration: dum'tu
   18:
-    arabic: فِيۡهِمۡ​ۚ
+    arabic: فِيهِمۡۖ
     translation: (was) among them
     transliteration: fīhim
   19:
@@ -85,31 +84,31 @@ word_by_word:
     translation: then when
     transliteration: falammā
   20:
-    arabic: تَوَفَّيۡتَنِىۡ
+    arabic: تَوَفَّيۡتَنِي
     translation: You raised me
     transliteration: tawaffaytanī
   21:
-    arabic: كُنۡتَ
+    arabic: كُنتَ
     translation: You were
     transliteration: kunta
   22:
-    arabic: اَنۡتَ
+    arabic: أَنتَ
     translation: '[You]'
     transliteration: anta
   23:
-    arabic: الرَّقِيۡبَ
+    arabic: ٱلرَّقِيبَ
     translation: the Watcher
     transliteration: l-raqība
   24:
-    arabic: عَلَيۡهِمۡ​ؕ
+    arabic: عَلَيۡهِمۡۚ
     translation: over them
     transliteration: ʿalayhim
   25:
-    arabic: وَاَنۡتَ
+    arabic: وَأَنتَ
     translation: and You
     transliteration: wa-anta
   26:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: (are) on
     transliteration: ʿalā
   27:
@@ -117,11 +116,11 @@ word_by_word:
     translation: every
     transliteration: kulli
   28:
-    arabic: شَىۡءٍ
+    arabic: شَيۡءٖ
     translation: thing
     transliteration: shayin
   29:
-    arabic: شَهِيۡدٌ‏
+    arabic: شَهِيدٌ
     translation: a Witness
     transliteration: shahīdun
 ---

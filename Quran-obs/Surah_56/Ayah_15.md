@@ -1,17 +1,17 @@
 ---
-arabic_ayat: عَلٰى سُرُرٍ مَّوۡضُوۡنَةٍۙ‏
+arabic_ayat: عَلَىٰ سُرُرٖ مَّوۡضُونَةٖ
 sentence_translation: ˹All will be˺ on jewelled thrones,
 word_by_word:
   1:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: 'On'
     transliteration: ʿalā
   2:
-    arabic: سُرُرٍ
+    arabic: سُرُرٖ
     translation: thrones
     transliteration: sururin
   3:
-    arabic: مَّوۡضُوۡنَةٍۙ‏
+    arabic: مَّوۡضُونَةٖ
     translation: decorated
     transliteration: mawḍūnatin
 ---

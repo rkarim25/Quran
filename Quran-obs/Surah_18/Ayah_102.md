@@ -1,63 +1,63 @@
 ---
-arabic_ayat: اَفَحَسِبَ الَّذِيۡنَ كَفَرُوۡۤا اَنۡ يَّتَّخِذُوۡا عِبَادِىۡ مِنۡ دُوۡنِىۡۤ
-  اَوۡلِيَآءَ​ ؕ اِنَّاۤ اَعۡتَدۡنَا جَهَـنَّمَ لِلۡكٰفِرِيۡنَ نُزُلًا‏
+arabic_ayat: أَفَحَسِبَ ٱلَّذِينَ كَفَرُوٓاْ أَن يَتَّخِذُواْ عِبَادِي مِن دُونِيٓ
+  أَوۡلِيَآءَۚ إِنَّآ أَعۡتَدۡنَا جَهَنَّمَ لِلۡكَٰفِرِينَ نُزُلٗا
 sentence_translation: Do the disbelievers think they can ˹simply˺ take My servants as
   lords instead of Me? We have surely prepared Hell as an accommodation for the disbelievers.
 word_by_word:
   1:
-    arabic: اَفَحَسِبَ
+    arabic: أَفَحَسِبَ
     translation: Do then think
     transliteration: afaḥasiba
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   3:
-    arabic: كَفَرُوۡۤا
+    arabic: كَفَرُوٓاْ
     translation: disbelieve
     transliteration: kafarū
   4:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that
     transliteration: an
   5:
-    arabic: يَّتَّخِذُوۡا
+    arabic: يَتَّخِذُواْ
     translation: they (can) take
     transliteration: yattakhidhū
   6:
-    arabic: عِبَادِىۡ
+    arabic: عِبَادِي
     translation: My servants
     transliteration: ʿibādī
   7:
-    arabic: مِنۡ
+    arabic: مِن
     translation: besides Me
     transliteration: min
   8:
-    arabic: دُوۡنِىۡۤ
+    arabic: دُونِيٓ
     translation: besides Me
     transliteration: dūnī
   9:
-    arabic: اَوۡلِيَآءَ​ ؕ
+    arabic: أَوۡلِيَآءَۚ
     translation: (as) protectors
     transliteration: awliyāa
   10:
-    arabic: اِنَّاۤ
+    arabic: إِنَّآ
     translation: 'Indeed, We '
     transliteration: innā
   11:
-    arabic: اَعۡتَدۡنَا
+    arabic: أَعۡتَدۡنَا
     translation: We have prepared
     transliteration: aʿtadnā
   12:
-    arabic: جَهَـنَّمَ
+    arabic: جَهَنَّمَ
     translation: Hell
     transliteration: jahannama
   13:
-    arabic: لِلۡكٰفِرِيۡنَ
+    arabic: لِلۡكَٰفِرِينَ
     translation: for the disbelievers
     transliteration: lil'kāfirīna
   14:
-    arabic: نُزُلًا‏
+    arabic: نُزُلٗا
     translation: (as) a lodging
     transliteration: nuzulan
 ---

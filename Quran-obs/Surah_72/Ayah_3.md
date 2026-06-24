@@ -1,15 +1,14 @@
 ---
-arabic_ayat: "وَّاَنَّهٗ تَعٰلٰى جَدُّ رَبِّنَا مَا اتَّخَذَ صَاحِبَةً وَّلَا وَلَدًا\
-  \ ۙ‏ \uFEFF\uFEFF"
+arabic_ayat: وَأَنَّهُۥ تَعَٰلَىٰ جَدُّ رَبِّنَا مَا ٱتَّخَذَ صَٰحِبَةٗ وَلَا وَلَدٗا
 sentence_translation: ˹Now, we believe that˺ our Lord—Exalted is His Majesty—has neither
   taken a mate nor offspring,
 word_by_word:
   1:
-    arabic: وَّاَنَّهٗ
+    arabic: وَأَنَّهُۥ
     translation: 'And that He '
     transliteration: wa-annahu
   2:
-    arabic: تَعٰلٰى
+    arabic: تَعَٰلَىٰ
     translation: Exalted is
     transliteration: taʿālā
   3:
@@ -25,19 +24,19 @@ word_by_word:
     translation: not
     transliteration: mā
   6:
-    arabic: اتَّخَذَ
+    arabic: ٱتَّخَذَ
     translation: He has taken
     transliteration: ittakhadha
   7:
-    arabic: صَاحِبَةً
+    arabic: صَٰحِبَةٗ
     translation: a wife
     transliteration: ṣāḥibatan
   8:
-    arabic: وَّلَا
+    arabic: وَلَا
     translation: and not
     transliteration: walā
   9:
-    arabic: "وَلَدًا ۙ‏ \uFEFF\uFEFF"
+    arabic: وَلَدٗا
     translation: a son
     transliteration: waladan
 ---

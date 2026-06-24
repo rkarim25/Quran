@@ -1,5 +1,5 @@
 ---
-arabic_ayat: لَا يَصۡلٰٮهَاۤ اِلَّا الۡاَشۡقَىۙ‏
+arabic_ayat: لَا يَصۡلَىٰهَآ إِلَّا ٱلۡأَشۡقَى
 sentence_translation: in which none will burn except the most wretched—
 word_by_word:
   1:
@@ -7,15 +7,15 @@ word_by_word:
     translation: Not
     transliteration: lā
   2:
-    arabic: يَصۡلٰٮهَاۤ
+    arabic: يَصۡلَىٰهَآ
     translation: will burn (in) it
     transliteration: yaṣlāhā
   3:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   4:
-    arabic: الۡاَشۡقَىۙ‏
+    arabic: ٱلۡأَشۡقَى
     translation: the most wretched
     transliteration: l-ashqā
 ---

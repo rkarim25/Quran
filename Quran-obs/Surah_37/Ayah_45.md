@@ -1,5 +1,5 @@
 ---
-arabic_ayat: يُطَافُ عَلَيۡهِمۡ بِكَاۡسٍ مِّنۡ مَّعِيۡنٍۢ ۙ‏
+arabic_ayat: يُطَافُ عَلَيۡهِم بِكَأۡسٖ مِّن مَّعِينِۭ
 sentence_translation: 'A drink ˹of pure wine˺ will be passed around to them from a
   flowing stream:'
 word_by_word:
@@ -8,19 +8,19 @@ word_by_word:
     translation: Will be circulated
     transliteration: yuṭāfu
   2:
-    arabic: عَلَيۡهِمۡ
+    arabic: عَلَيۡهِم
     translation: among them
     transliteration: ʿalayhim
   3:
-    arabic: بِكَاۡسٍ
+    arabic: بِكَأۡسٖ
     translation: a cup
     transliteration: bikasin
   4:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: from
     transliteration: min
   5:
-    arabic: مَّعِيۡنٍۢ ۙ‏
+    arabic: مَّعِينِۭ
     translation: a flowing spring
     transliteration: maʿīnin
 ---

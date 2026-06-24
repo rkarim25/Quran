@@ -1,9 +1,9 @@
 ---
-arabic_ayat: وَفَدَيۡنٰهُ بِذِبۡحٍ عَظِيۡمٍ‏
+arabic_ayat: وَفَدَيۡنَٰهُ بِذِبۡحٍ عَظِيمٖ
 sentence_translation: And We ransomed his son with a great sacrifice,
 word_by_word:
   1:
-    arabic: وَفَدَيۡنٰهُ
+    arabic: وَفَدَيۡنَٰهُ
     translation: And We ransomed him
     transliteration: wafadaynāhu
   2:
@@ -11,7 +11,7 @@ word_by_word:
     translation: with a sacrifice
     transliteration: bidhib'ḥin
   3:
-    arabic: عَظِيۡمٍ‏
+    arabic: عَظِيمٖ
     translation: great
     transliteration: ʿaẓīmin
 ---

@@ -1,65 +1,65 @@
 ---
-arabic_ayat: فَلۡيُقَاتِلۡ فِىۡ سَبِيۡلِ اللّٰهِ الَّذِيۡنَ يَشۡرُوۡنَ الۡحَيٰوةَ
-  الدُّنۡيَا بِالۡاٰخِرَةِ​ ؕ وَمَنۡ يُّقَاتِلۡ فِىۡ سَبِيۡلِ اللّٰهِ فَيُقۡتَلۡ اَوۡ
-  يَغۡلِبۡ فَسَوۡفَ نُـؤۡتِيۡهِ اَجۡرًا عَظِيۡمًا‏
+arabic_ayat: ۞ فَلۡيُقَٰتِلۡ فِي سَبِيلِ ٱللَّهِ ٱلَّذِينَ يَشۡرُونَ ٱلۡحَيَوٰةَ ٱلدُّنۡيَا
+  بِٱلۡأٓخِرَةِۚ وَمَن يُقَٰتِلۡ فِي سَبِيلِ ٱللَّهِ فَيُقۡتَلۡ أَوۡ يَغۡلِبۡ فَسَوۡفَ
+  نُؤۡتِيهِ أَجۡرًا عَظِيمٗا
 sentence_translation: Let those who would sacrifice this life for the Hereafter fight
   in the cause of Allah. And whoever fights in Allah’s cause—whether they achieve
   martyrdom or victory—We will honour them with a great reward.
 word_by_word:
   1:
-    arabic: ۞ فَلۡيُقَاتِلۡ
+    arabic: ۞ فَلۡيُقَٰتِلۡ
     translation: So let fight
     transliteration: falyuqātil
   2:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   3:
-    arabic: سَبِيۡلِ
+    arabic: سَبِيلِ
     translation: (the) way
     transliteration: sabīli
   4:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (of) Allah
     transliteration: l-lahi
   5:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   6:
-    arabic: يَشۡرُوۡنَ
+    arabic: يَشۡرُونَ
     translation: sell
     transliteration: yashrūna
   7:
-    arabic: الۡحَيٰوةَ
+    arabic: ٱلۡحَيَوٰةَ
     translation: the life
     transliteration: l-ḥayata
   8:
-    arabic: الدُّنۡيَا
+    arabic: ٱلدُّنۡيَا
     translation: (of) the world
     transliteration: l-dun'yā
   9:
-    arabic: بِالۡاٰخِرَةِ​ ؕ
+    arabic: بِٱلۡأٓخِرَةِۚ
     translation: for the Hereafter
     transliteration: bil-ākhirati
   10:
-    arabic: وَمَنۡ
+    arabic: وَمَن
     translation: And whoever
     transliteration: waman
   11:
-    arabic: يُّقَاتِلۡ
+    arabic: يُقَٰتِلۡ
     translation: fights
     transliteration: yuqātil
   12:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   13:
-    arabic: سَبِيۡلِ
+    arabic: سَبِيلِ
     translation: (the) way
     transliteration: sabīli
   14:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (of) Allah
     transliteration: l-lahi
   15:
@@ -67,7 +67,7 @@ word_by_word:
     translation: then he is killed
     transliteration: fayuq'tal
   16:
-    arabic: اَوۡ
+    arabic: أَوۡ
     translation: or
     transliteration: aw
   17:
@@ -79,15 +79,15 @@ word_by_word:
     translation: then soon
     transliteration: fasawfa
   19:
-    arabic: نُـؤۡتِيۡهِ
+    arabic: نُؤۡتِيهِ
     translation: We will grant him
     transliteration: nu'tīhi
   20:
-    arabic: اَجۡرًا
+    arabic: أَجۡرًا
     translation: a reward
     transliteration: ajran
   21:
-    arabic: عَظِيۡمًا‏
+    arabic: عَظِيمٗا
     translation: a great
     transliteration: ʿaẓīman
 ---

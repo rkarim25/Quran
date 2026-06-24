@@ -1,5 +1,5 @@
 ---
-arabic_ayat: ذُو الۡعَرۡشِ الۡمَجِيۡدُ ۙ‏
+arabic_ayat: ذُو ٱلۡعَرۡشِ ٱلۡمَجِيدُ
 sentence_translation: Lord of the Throne, the All-Glorious,
 word_by_word:
   1:
@@ -7,11 +7,11 @@ word_by_word:
     translation: Owner (of)
     transliteration: dhū
   2:
-    arabic: الۡعَرۡشِ
+    arabic: ٱلۡعَرۡشِ
     translation: the Throne
     transliteration: l-ʿarshi
   3:
-    arabic: الۡمَجِيۡدُ ۙ‏
+    arabic: ٱلۡمَجِيدُ
     translation: the Glorious
     transliteration: l-majīdu
 ---

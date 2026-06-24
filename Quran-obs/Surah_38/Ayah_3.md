@@ -1,6 +1,6 @@
 ---
-arabic_ayat: كَمۡ اَهۡلَـكۡنَا مِنۡ قَبۡلِهِمۡ مِّنۡ قَرۡنٍ فَنَادَوْا وَّلَاتَ حِيۡنَ
-  مَنَاصٍ‏
+arabic_ayat: كَمۡ أَهۡلَكۡنَا مِن قَبۡلِهِم مِّن قَرۡنٖ فَنَادَواْ وَّلَاتَ حِينَ
+  مَنَاصٖ
 sentence_translation: ˹Imagine˺ how many peoples We destroyed before them, and they
   cried out when it was too late to escape.
 word_by_word:
@@ -9,27 +9,27 @@ word_by_word:
     translation: How many
     transliteration: kam
   2:
-    arabic: اَهۡلَـكۡنَا
+    arabic: أَهۡلَكۡنَا
     translation: We destroyed
     transliteration: ahlaknā
   3:
-    arabic: مِنۡ
+    arabic: مِن
     translation: before them
     transliteration: min
   4:
-    arabic: قَبۡلِهِمۡ
+    arabic: قَبۡلِهِم
     translation: before them
     transliteration: qablihim
   5:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: of
     transliteration: min
   6:
-    arabic: قَرۡنٍ
+    arabic: قَرۡنٖ
     translation: a generation
     transliteration: qarnin
   7:
-    arabic: فَنَادَوْا
+    arabic: فَنَادَواْ
     translation: then they called out
     transliteration: fanādaw
   8:
@@ -37,11 +37,11 @@ word_by_word:
     translation: when there (was) no longer
     transliteration: walāta
   9:
-    arabic: حِيۡنَ
+    arabic: حِينَ
     translation: time
     transliteration: ḥīna
   10:
-    arabic: مَنَاصٍ‏
+    arabic: مَنَاصٖ
     translation: (for) escape
     transliteration: manāṣin
 ---

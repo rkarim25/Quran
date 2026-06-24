@@ -1,17 +1,17 @@
 ---
-arabic_ayat: وَقَاسَمَهُمَاۤ اِنِّىۡ لَـكُمَا لَمِنَ النّٰصِحِيۡنَۙ‏
+arabic_ayat: وَقَاسَمَهُمَآ إِنِّي لَكُمَا لَمِنَ ٱلنَّٰصِحِينَ
 sentence_translation: And he swore to them, “I am truly your sincere advisor.”
 word_by_word:
   1:
-    arabic: وَقَاسَمَهُمَاۤ
+    arabic: وَقَاسَمَهُمَآ
     translation: And he swore (to) both of them
     transliteration: waqāsamahumā
   2:
-    arabic: اِنِّىۡ
+    arabic: إِنِّي
     translation: Indeed, I am
     transliteration: innī
   3:
-    arabic: لَـكُمَا
+    arabic: لَكُمَا
     translation: to both of you
     transliteration: lakumā
   4:
@@ -19,7 +19,7 @@ word_by_word:
     translation: among
     transliteration: lamina
   5:
-    arabic: النّٰصِحِيۡنَۙ‏
+    arabic: ٱلنَّٰصِحِينَ
     translation: the sincere advisors
     transliteration: l-nāṣiḥīna
 ---

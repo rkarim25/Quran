@@ -1,6 +1,6 @@
 ---
-arabic_ayat: وَهُوَ الَّذِىۡۤ اَنۡشَاَ لَـكُمُ السَّمۡعَ وَالۡاَبۡصَارَ وَالۡاَفۡـِٕدَةَ​ 
-  ؕ قَلِيۡلًا مَّا تَشۡكُرُوۡنَ‏
+arabic_ayat: وَهُوَ ٱلَّذِيٓ أَنشَأَ لَكُمُ ٱلسَّمۡعَ وَٱلۡأَبۡصَٰرَ وَٱلۡأَفۡـِٔدَةَۚ
+  قَلِيلٗا مَّا تَشۡكُرُونَ
 sentence_translation: He is the One Who created for you hearing, sight, and intellect.
   ˹Yet˺ you hardly give any thanks.
 word_by_word:
@@ -9,31 +9,31 @@ word_by_word:
     translation: And He
     transliteration: wahuwa
   2:
-    arabic: الَّذِىۡۤ
+    arabic: ٱلَّذِيٓ
     translation: (is) the One Who
     transliteration: alladhī
   3:
-    arabic: اَنۡشَاَ
+    arabic: أَنشَأَ
     translation: produced
     transliteration: ansha-a
   4:
-    arabic: لَـكُمُ
+    arabic: لَكُمُ
     translation: for you
     transliteration: lakumu
   5:
-    arabic: السَّمۡعَ
+    arabic: ٱلسَّمۡعَ
     translation: the hearing
     transliteration: l-samʿa
   6:
-    arabic: وَالۡاَبۡصَارَ
+    arabic: وَٱلۡأَبۡصَٰرَ
     translation: and the sight
     transliteration: wal-abṣāra
   7:
-    arabic: وَالۡاَفۡـِٕدَةَ​  ؕ
+    arabic: وَٱلۡأَفۡـِٔدَةَۚ
     translation: and the feeling
     transliteration: wal-afidata
   8:
-    arabic: قَلِيۡلًا
+    arabic: قَلِيلٗا
     translation: little
     transliteration: qalīlan
   9:
@@ -41,7 +41,7 @@ word_by_word:
     translation: (is) what
     transliteration: mā
   10:
-    arabic: تَشۡكُرُوۡنَ‏
+    arabic: تَشۡكُرُونَ
     translation: you give thanks
     transliteration: tashkurūna
 ---

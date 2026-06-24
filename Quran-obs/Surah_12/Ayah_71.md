@@ -1,17 +1,17 @@
 ---
-arabic_ayat: قَالُوۡا وَاَقۡبَلُوۡا عَلَيۡهِمۡ مَّاذَا تَفۡقِدُوۡنَ‏
+arabic_ayat: قَالُواْ وَأَقۡبَلُواْ عَلَيۡهِم مَّاذَا تَفۡقِدُونَ
 sentence_translation: They asked, turning back, “What have you lost?”
 word_by_word:
   1:
-    arabic: قَالُوۡا
+    arabic: قَالُواْ
     translation: They said
     transliteration: qālū
   2:
-    arabic: وَاَقۡبَلُوۡا
+    arabic: وَأَقۡبَلُواْ
     translation: turning towards
     transliteration: wa-aqbalū
   3:
-    arabic: عَلَيۡهِمۡ
+    arabic: عَلَيۡهِم
     translation: them
     transliteration: ʿalayhim
   4:
@@ -19,7 +19,7 @@ word_by_word:
     translation: What (is it)
     transliteration: mādhā
   5:
-    arabic: تَفۡقِدُوۡنَ‏
+    arabic: تَفۡقِدُونَ
     translation: you miss
     transliteration: tafqidūna
 ---

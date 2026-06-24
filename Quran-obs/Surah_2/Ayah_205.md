@@ -1,27 +1,27 @@
 ---
-arabic_ayat: وَاِذَا تَوَلّٰى سَعٰى فِى الۡاَرۡضِ لِيُفۡسِدَ فِيۡهَا وَيُهۡلِكَ الۡحَـرۡثَ
-  وَالنَّسۡلَ​ؕ وَاللّٰهُ لَا يُحِبُّ الۡفَسَادَ‏
+arabic_ayat: وَإِذَا تَوَلَّىٰ سَعَىٰ فِي ٱلۡأَرۡضِ لِيُفۡسِدَ فِيهَا وَيُهۡلِكَ ٱلۡحَرۡثَ
+  وَٱلنَّسۡلَۚ وَٱللَّهُ لَا يُحِبُّ ٱلۡفَسَادَ
 sentence_translation: And when they leave ˹you˺, they strive throughout the land to
   spread mischief in it and destroy crops and cattle. Allah does not like mischief.
 word_by_word:
   1:
-    arabic: وَاِذَا
+    arabic: وَإِذَا
     translation: And when
     transliteration: wa-idhā
   2:
-    arabic: تَوَلّٰى
+    arabic: تَوَلَّىٰ
     translation: he turns away
     transliteration: tawallā
   3:
-    arabic: سَعٰى
+    arabic: سَعَىٰ
     translation: he strives
     transliteration: saʿā
   4:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   5:
-    arabic: الۡاَرۡضِ
+    arabic: ٱلۡأَرۡضِ
     translation: the earth
     transliteration: l-arḍi
   6:
@@ -29,7 +29,7 @@ word_by_word:
     translation: to spread corruption
     transliteration: liyuf'sida
   7:
-    arabic: فِيۡهَا
+    arabic: فِيهَا
     translation: '[in it]'
     transliteration: fīhā
   8:
@@ -37,15 +37,15 @@ word_by_word:
     translation: and destroys
     transliteration: wayuh'lika
   9:
-    arabic: الۡحَـرۡثَ
+    arabic: ٱلۡحَرۡثَ
     translation: the crops
     transliteration: l-ḥartha
   10:
-    arabic: وَالنَّسۡلَ​ؕ
+    arabic: وَٱلنَّسۡلَۚ
     translation: and progeny
     transliteration: wal-nasla
   11:
-    arabic: وَاللّٰهُ
+    arabic: وَٱللَّهُ
     translation: And Allah
     transliteration: wal-lahu
   12:
@@ -57,7 +57,7 @@ word_by_word:
     translation: love
     transliteration: yuḥibbu
   14:
-    arabic: الۡفَسَادَ‏
+    arabic: ٱلۡفَسَادَ
     translation: '[the] corruption'
     transliteration: l-fasāda
 ---

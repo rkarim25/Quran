@@ -1,6 +1,6 @@
 ---
-arabic_ayat: "وَلَا تَبۡخَسُوا النَّاسَ اَشۡيَآءَهُمۡ وَلَا تَعۡثَوۡا فِى الۡاَرۡضِ\
-  \ مُفۡسِدِيۡنَ​ۚ‏ \uFEFF\uFEFF"
+arabic_ayat: وَلَا تَبۡخَسُواْ ٱلنَّاسَ أَشۡيَآءَهُمۡ وَلَا تَعۡثَوۡاْ فِي ٱلۡأَرۡضِ
+  مُفۡسِدِينَ
 sentence_translation: and do not defraud people of their property. Nor go about spreading
   corruption in the land.
 word_by_word:
@@ -9,15 +9,15 @@ word_by_word:
     translation: And (do) not
     transliteration: walā
   2:
-    arabic: تَبۡخَسُوا
+    arabic: تَبۡخَسُواْ
     translation: deprive
     transliteration: tabkhasū
   3:
-    arabic: النَّاسَ
+    arabic: ٱلنَّاسَ
     translation: people
     transliteration: l-nāsa
   4:
-    arabic: اَشۡيَآءَهُمۡ
+    arabic: أَشۡيَآءَهُمۡ
     translation: (of) their things
     transliteration: ashyāahum
   5:
@@ -25,19 +25,19 @@ word_by_word:
     translation: and (do) not
     transliteration: walā
   6:
-    arabic: تَعۡثَوۡا
+    arabic: تَعۡثَوۡاْ
     translation: commit evil
     transliteration: taʿthaw
   7:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   8:
-    arabic: الۡاَرۡضِ
+    arabic: ٱلۡأَرۡضِ
     translation: the earth
     transliteration: l-arḍi
   9:
-    arabic: "مُفۡسِدِيۡنَ​ۚ‏ \uFEFF\uFEFF"
+    arabic: مُفۡسِدِينَ
     translation: spreading corruption
     transliteration: muf'sidīna
 ---

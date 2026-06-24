@@ -1,10 +1,10 @@
 ---
-arabic_ayat: وَاِذَا طَلَّقۡتُمُ النِّسَآءَ فَبَلَغۡنَ اَجَلَهُنَّ فَاَمۡسِكُوۡهُنَّ
-  بِمَعۡرُوۡفٍ اَوۡ سَرِّحُوۡهُنَّ بِمَعۡرُوۡفٍ​ وَلَا تُمۡسِكُوۡهُنَّ ضِرَارًا لِّتَعۡتَدُوۡا​
-  ۚ وَمَنۡ يَّفۡعَلۡ ذٰ لِكَ فَقَدۡ ظَلَمَ نَفۡسَهٗ ​ؕ وَلَا تَتَّخِذُوۡٓا اٰيٰتِ
-  اللّٰهِ هُزُوًا​ وَّاذۡكُرُوۡا نِعۡمَتَ اللّٰهِ عَلَيۡكُمۡ وَمَآ اَنۡزَلَ عَلَيۡكُمۡ
-  مِّنَ الۡكِتٰبِ وَالۡحِكۡمَةِ يَعِظُكُمۡ بِهٖ​ؕ وَاتَّقُوا اللّٰهَ وَاعۡلَمُوۡٓا
-  اَنَّ اللّٰهَ بِكُلِّ شَىۡءٍ عَلِيۡمٌ‏
+arabic_ayat: وَإِذَا طَلَّقۡتُمُ ٱلنِّسَآءَ فَبَلَغۡنَ أَجَلَهُنَّ فَأَمۡسِكُوهُنَّ
+  بِمَعۡرُوفٍ أَوۡ سَرِّحُوهُنَّ بِمَعۡرُوفٖۚ وَلَا تُمۡسِكُوهُنَّ ضِرَارٗا لِّتَعۡتَدُواْۚ
+  وَمَن يَفۡعَلۡ ذَٰلِكَ فَقَدۡ ظَلَمَ نَفۡسَهُۥۚ وَلَا تَتَّخِذُوٓاْ ءَايَٰتِ ٱللَّهِ
+  هُزُوٗاۚ وَٱذۡكُرُواْ نِعۡمَتَ ٱللَّهِ عَلَيۡكُمۡ وَمَآ أَنزَلَ عَلَيۡكُم مِّنَ
+  ٱلۡكِتَٰبِ وَٱلۡحِكۡمَةِ يَعِظُكُم بِهِۦۚ وَٱتَّقُواْ ٱللَّهَ وَٱعۡلَمُوٓاْ أَنَّ
+  ٱللَّهَ بِكُلِّ شَيۡءٍ عَلِيمٞ
 sentence_translation: When you divorce women and they have ˹almost˺ reached the end
   of their waiting period, either retain them honourably or let them go honourably.
   But do not retain them ˹only˺ to harm them ˹or˺ to take advantage ˹of them˺. Whoever
@@ -14,7 +14,7 @@ sentence_translation: When you divorce women and they have ˹almost˺ reached th
   things.
 word_by_word:
   1:
-    arabic: وَاِذَا
+    arabic: وَإِذَا
     translation: And when
     transliteration: wa-idhā
   2:
@@ -22,7 +22,7 @@ word_by_word:
     translation: you divorce
     transliteration: ṭallaqtumu
   3:
-    arabic: النِّسَآءَ
+    arabic: ٱلنِّسَآءَ
     translation: the women
     transliteration: l-nisāa
   4:
@@ -30,27 +30,27 @@ word_by_word:
     translation: and they reach
     transliteration: fabalaghna
   5:
-    arabic: اَجَلَهُنَّ
+    arabic: أَجَلَهُنَّ
     translation: their (waiting) term
     transliteration: ajalahunna
   6:
-    arabic: فَاَمۡسِكُوۡهُنَّ
+    arabic: فَأَمۡسِكُوهُنَّ
     translation: then retain them
     transliteration: fa-amsikūhunna
   7:
-    arabic: بِمَعۡرُوۡفٍ
+    arabic: بِمَعۡرُوفٍ
     translation: in a fair manner
     transliteration: bimaʿrūfin
   8:
-    arabic: اَوۡ
+    arabic: أَوۡ
     translation: or
     transliteration: aw
   9:
-    arabic: سَرِّحُوۡهُنَّ
+    arabic: سَرِّحُوهُنَّ
     translation: release them
     transliteration: sarriḥūhunna
   10:
-    arabic: بِمَعۡرُوۡفٍ​
+    arabic: بِمَعۡرُوفٖۚ
     translation: in a fair manner
     transliteration: bimaʿrūfin
   11:
@@ -58,27 +58,27 @@ word_by_word:
     translation: And (do) not
     transliteration: walā
   12:
-    arabic: تُمۡسِكُوۡهُنَّ
+    arabic: تُمۡسِكُوهُنَّ
     translation: retain them
     transliteration: tum'sikūhunna
   13:
-    arabic: ضِرَارًا
+    arabic: ضِرَارٗا
     translation: (to) hurt
     transliteration: ḍirāran
   14:
-    arabic: لِّتَعۡتَدُوۡا​ ۚ
+    arabic: لِّتَعۡتَدُواْۚ
     translation: so that you transgress
     transliteration: litaʿtadū
   15:
-    arabic: وَمَنۡ
+    arabic: وَمَن
     translation: And whoever
     transliteration: waman
   16:
-    arabic: يَّفۡعَلۡ
+    arabic: يَفۡعَلۡ
     translation: does
     transliteration: yafʿal
   17:
-    arabic: ذٰ لِكَ
+    arabic: ذَٰلِكَ
     translation: that
     transliteration: dhālika
   18:
@@ -90,7 +90,7 @@ word_by_word:
     translation: he wronged
     transliteration: ẓalama
   20:
-    arabic: نَفۡسَهٗ ​ؕ
+    arabic: نَفۡسَهُۥۚ
     translation: himself
     transliteration: nafsahu
   21:
@@ -98,23 +98,23 @@ word_by_word:
     translation: And (do) not
     transliteration: walā
   22:
-    arabic: تَتَّخِذُوۡٓا
+    arabic: تَتَّخِذُوٓاْ ءَ
     translation: take
     transliteration: tattakhidhū
   23:
-    arabic: اٰيٰتِ
+    arabic: ايَٰتِ
     translation: (the) Verses
     transliteration: āyāti
   24:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (of) Allah
     transliteration: l-lahi
   25:
-    arabic: هُزُوًا​
+    arabic: هُزُوٗاۚ
     translation: (in) jest
     transliteration: huzuwan
   26:
-    arabic: وَّاذۡكُرُوۡا
+    arabic: وَٱذۡكُرُواْ
     translation: and remember
     transliteration: wa-udh'kurū
   27:
@@ -122,7 +122,7 @@ word_by_word:
     translation: (the) Favors
     transliteration: niʿ'mata
   28:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (of) Allah
     transliteration: l-lahi
   29:
@@ -134,11 +134,11 @@ word_by_word:
     translation: and what
     transliteration: wamā
   31:
-    arabic: اَنۡزَلَ
+    arabic: أَنزَلَ
     translation: (is) revealed
     transliteration: anzala
   32:
-    arabic: عَلَيۡكُمۡ
+    arabic: عَلَيۡكُم
     translation: to you
     transliteration: ʿalaykum
   33:
@@ -146,39 +146,39 @@ word_by_word:
     translation: of
     transliteration: mina
   34:
-    arabic: الۡكِتٰبِ
+    arabic: ٱلۡكِتَٰبِ
     translation: the Book
     transliteration: l-kitābi
   35:
-    arabic: وَالۡحِكۡمَةِ
+    arabic: وَٱلۡحِكۡمَةِ
     translation: and [the] wisdom
     transliteration: wal-ḥik'mati
   36:
-    arabic: يَعِظُكُمۡ
+    arabic: يَعِظُكُم
     translation: He instructs you
     transliteration: yaʿiẓukum
   37:
-    arabic: بِهٖ​ؕ
+    arabic: بِهِۦۚ
     translation: with it
     transliteration: bihi
   38:
-    arabic: وَاتَّقُوا
+    arabic: وَٱتَّقُواْ
     translation: And fear
     transliteration: wa-ittaqū
   39:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   40:
-    arabic: وَاعۡلَمُوۡٓا
+    arabic: وَٱعۡلَمُوٓاْ
     translation: and know
     transliteration: wa-iʿ'lamū
   41:
-    arabic: اَنَّ
+    arabic: أَنَّ
     translation: that
     transliteration: anna
   42:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah (is)
     transliteration: l-laha
   43:
@@ -186,11 +186,11 @@ word_by_word:
     translation: of every
     transliteration: bikulli
   44:
-    arabic: شَىۡءٍ
+    arabic: شَيۡءٍ
     translation: thing
     transliteration: shayin
   45:
-    arabic: عَلِيۡمٌ‏
+    arabic: عَلِيمٞ
     translation: All-Knower
     transliteration: ʿalīmun
 ---

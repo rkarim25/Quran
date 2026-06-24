@@ -1,17 +1,17 @@
 ---
-arabic_ayat: يَعۡمَلُوۡنَ لَهٗ مَا يَشَآءُ مِنۡ مَّحَارِيۡبَ وَتَمَاثِيۡلَ وَجِفَانٍ
-  كَالۡجَـوَابِ وَقُدُوۡرٍ رّٰسِيٰتٍ ؕ اِعۡمَلُوۡۤا اٰلَ دَاوٗدَ شُكۡرًا ؕ وَقَلِيۡلٌ
-  مِّنۡ عِبَادِىَ الشَّكُوۡرُ‏
+arabic_ayat: يَعۡمَلُونَ لَهُۥ مَا يَشَآءُ مِن مَّحَٰرِيبَ وَتَمَٰثِيلَ وَجِفَانٖ
+  كَٱلۡجَوَابِ وَقُدُورٖ رَّاسِيَٰتٍۚ ٱعۡمَلُوٓاْ ءَالَ دَاوُۥدَ شُكۡرٗاۚ وَقَلِيلٞ
+  مِّنۡ عِبَادِيَ ٱلشَّكُورُ
 sentence_translation: They made for him whatever he desired of sanctuaries, statues, basins
   as large as reservoirs, and cooking pots fixed ˹into the ground˺. ˹We ordered:˺
   “Work gratefully, O  family of David!” ˹Only˺ a few of My servants are ˹truly˺ grateful.
 word_by_word:
   1:
-    arabic: يَعۡمَلُوۡنَ
+    arabic: يَعۡمَلُونَ
     translation: They worked
     transliteration: yaʿmalūna
   2:
-    arabic: لَهٗ
+    arabic: لَهُۥ
     translation: for him
     transliteration: lahu
   3:
@@ -23,51 +23,51 @@ word_by_word:
     translation: he willed
     transliteration: yashāu
   5:
-    arabic: مِنۡ
+    arabic: مِن
     translation: of
     transliteration: min
   6:
-    arabic: مَّحَارِيۡبَ
+    arabic: مَّحَٰرِيبَ
     translation: elevated chambers
     transliteration: maḥārība
   7:
-    arabic: وَتَمَاثِيۡلَ
+    arabic: وَتَمَٰثِيلَ
     translation: and statues
     transliteration: watamāthīla
   8:
-    arabic: وَجِفَانٍ
+    arabic: وَجِفَانٖ
     translation: and bowls
     transliteration: wajifānin
   9:
-    arabic: كَالۡجَـوَابِ
+    arabic: كَٱلۡجَوَابِ
     translation: like reservoirs
     transliteration: kal-jawābi
   10:
-    arabic: وَقُدُوۡرٍ
+    arabic: وَقُدُورٖ
     translation: and cooking-pots
     transliteration: waqudūrin
   11:
-    arabic: رّٰسِيٰتٍ ؕ
+    arabic: رَّاسِيَٰتٍۚ
     translation: fixed
     transliteration: rāsiyātin
   12:
-    arabic: اِعۡمَلُوۡۤا
+    arabic: ٱعۡمَلُوٓاْ ءَ
     translation: Work
     transliteration: iʿ'malū
   13:
-    arabic: اٰلَ
+    arabic: الَ
     translation: O family
     transliteration: āla
   14:
-    arabic: دَاوٗدَ
+    arabic: دَاوُۥدَ
     translation: (of) Dawood
     transliteration: dāwūda
   15:
-    arabic: شُكۡرًا ؕ
+    arabic: شُكۡرٗاۚ
     translation: (in) gratitude
     transliteration: shuk'ran
   16:
-    arabic: وَقَلِيۡلٌ
+    arabic: وَقَلِيلٞ
     translation: But few
     transliteration: waqalīlun
   17:
@@ -75,11 +75,11 @@ word_by_word:
     translation: of
     transliteration: min
   18:
-    arabic: عِبَادِىَ
+    arabic: عِبَادِيَ
     translation: My slaves
     transliteration: ʿibādiya
   19:
-    arabic: الشَّكُوۡرُ‏
+    arabic: ٱلشَّكُورُ
     translation: (are) grateful
     transliteration: l-shakūru
 ---

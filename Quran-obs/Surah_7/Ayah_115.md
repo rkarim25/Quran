@@ -1,39 +1,39 @@
 ---
-arabic_ayat: قَالُوۡا يٰمُوۡسٰٓى اِمَّاۤ اَنۡ تُلۡقِىَ وَاِمَّاۤ اَنۡ نَّكُوۡنَ نَحۡنُ
-  الۡمُلۡقِيۡنَ‏
+arabic_ayat: قَالُواْ يَٰمُوسَىٰٓ إِمَّآ أَن تُلۡقِيَ وَإِمَّآ أَن نَّكُونَ نَحۡنُ
+  ٱلۡمُلۡقِينَ
 sentence_translation: They asked, “O Moses! Will you cast, or shall we be the first
   to cast?”
 word_by_word:
   1:
-    arabic: قَالُوۡا
+    arabic: قَالُواْ
     translation: They said
     transliteration: qālū
   2:
-    arabic: يٰمُوۡسٰٓى
+    arabic: يَٰمُوسَىٰٓ
     translation: O Musa
     transliteration: yāmūsā
   3:
-    arabic: اِمَّاۤ
+    arabic: إِمَّآ
     translation: Whether
     transliteration: immā
   4:
-    arabic: اَنۡ
+    arabic: أَن
     translation: '[that]'
     transliteration: an
   5:
-    arabic: تُلۡقِىَ
+    arabic: تُلۡقِيَ
     translation: you throw
     transliteration: tul'qiya
   6:
-    arabic: وَاِمَّاۤ
+    arabic: وَإِمَّآ
     translation: or Whether
     transliteration: wa-immā
   7:
-    arabic: اَنۡ
+    arabic: أَن
     translation: '[that]'
     transliteration: an
   8:
-    arabic: نَّكُوۡنَ
+    arabic: نَّكُونَ
     translation: we will be
     transliteration: nakūna
   9:
@@ -41,7 +41,7 @@ word_by_word:
     translation: '[we]'
     transliteration: naḥnu
   10:
-    arabic: الۡمُلۡقِيۡنَ‏
+    arabic: ٱلۡمُلۡقِينَ
     translation: the ones to throw
     transliteration: l-mul'qīna
 ---

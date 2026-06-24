@@ -1,13 +1,13 @@
 ---
-arabic_ayat: فَلَوۡلَاۤ اَنَّهٗ كَانَ مِنَ الۡمُسَبِّحِيۡنَۙ‏
+arabic_ayat: فَلَوۡلَآ أَنَّهُۥ كَانَ مِنَ ٱلۡمُسَبِّحِينَ
 sentence_translation: Had he not ˹constantly˺ glorified ˹Allah˺,
 word_by_word:
   1:
-    arabic: فَلَوۡلَاۤ
+    arabic: فَلَوۡلَآ
     translation: And if not
     transliteration: falawlā
   2:
-    arabic: اَنَّهٗ
+    arabic: أَنَّهُۥ
     translation: that he
     transliteration: annahu
   3:
@@ -19,7 +19,7 @@ word_by_word:
     translation: of
     transliteration: mina
   5:
-    arabic: الۡمُسَبِّحِيۡنَۙ‏
+    arabic: ٱلۡمُسَبِّحِينَ
     translation: those who glorify
     transliteration: l-musabiḥīna
 ---

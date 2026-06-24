@@ -1,6 +1,5 @@
 ---
-arabic_ayat: "وَلَوۡلَا كَلِمَةٌ سَبَقَتۡ مِنۡ رَّبِّكَ لَــكَانَ لِزَامًا وَّاَجَلٌ\
-  \ مُّسَمًّىؕ‏ \uFEFF\uFEFF"
+arabic_ayat: وَلَوۡلَا كَلِمَةٞ سَبَقَتۡ مِن رَّبِّكَ لَكَانَ لِزَامٗا وَأَجَلٞ مُّسَمّٗى
 sentence_translation: Had it not been for a prior decree from your Lord ˹O Prophet˺
   and a term already set, their ˹instant˺ doom would have been inevitable.
 word_by_word:
@@ -9,7 +8,7 @@ word_by_word:
     translation: And if not
     transliteration: walawlā
   2:
-    arabic: كَلِمَةٌ
+    arabic: كَلِمَةٞ
     translation: (for) a Word
     transliteration: kalimatun
   3:
@@ -17,7 +16,7 @@ word_by_word:
     translation: (that) preceded
     transliteration: sabaqat
   4:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   5:
@@ -25,19 +24,19 @@ word_by_word:
     translation: your Lord
     transliteration: rabbika
   6:
-    arabic: لَــكَانَ
+    arabic: لَكَانَ
     translation: surely (would) have been
     transliteration: lakāna
   7:
-    arabic: لِزَامًا
+    arabic: لِزَامٗا
     translation: an obligation
     transliteration: lizāman
   8:
-    arabic: وَّاَجَلٌ
+    arabic: وَأَجَلٞ
     translation: and a term
     transliteration: wa-ajalun
   9:
-    arabic: "مُّسَمًّىؕ‏ \uFEFF\uFEFF"
+    arabic: مُّسَمّٗى
     translation: determined
     transliteration: musamman
 ---

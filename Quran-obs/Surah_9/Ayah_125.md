@@ -1,27 +1,27 @@
 ---
-arabic_ayat: وَاَمَّا الَّذِيۡنَ فِىۡ قُلُوۡبِهِمۡ مَّرَضٌ فَزَادَتۡهُمۡ رِجۡسًا اِلٰى
-  رِجۡسِهِمۡ وَمَاتُوۡا وَهُمۡ كٰفِرُوۡنَ‏
+arabic_ayat: وَأَمَّا ٱلَّذِينَ فِي قُلُوبِهِم مَّرَضٞ فَزَادَتۡهُمۡ رِجۡسًا إِلَىٰ
+  رِجۡسِهِمۡ وَمَاتُواْ وَهُمۡ كَٰفِرُونَ
 sentence_translation: But as for those with sickness in their hearts, it has increased
   them only in wickedness upon their wickedness, and they die as disbelievers.
 word_by_word:
   1:
-    arabic: وَاَمَّا
+    arabic: وَأَمَّا
     translation: But as for
     transliteration: wa-ammā
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those
     transliteration: alladhīna
   3:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   4:
-    arabic: قُلُوۡبِهِمۡ
+    arabic: قُلُوبِهِم
     translation: their hearts
     transliteration: qulūbihim
   5:
-    arabic: مَّرَضٌ
+    arabic: مَّرَضٞ
     translation: (is) a disease
     transliteration: maraḍun
   6:
@@ -33,7 +33,7 @@ word_by_word:
     translation: (in) evil
     transliteration: rij'san
   8:
-    arabic: اِلٰى
+    arabic: إِلَىٰ
     translation: to
     transliteration: ilā
   9:
@@ -41,7 +41,7 @@ word_by_word:
     translation: their evil
     transliteration: rij'sihim
   10:
-    arabic: وَمَاتُوۡا
+    arabic: وَمَاتُواْ
     translation: And they die
     transliteration: wamātū
   11:
@@ -49,7 +49,7 @@ word_by_word:
     translation: while they
     transliteration: wahum
   12:
-    arabic: كٰفِرُوۡنَ‏
+    arabic: كَٰفِرُونَ
     translation: (are) disbelievers
     transliteration: kāfirūna
 ---

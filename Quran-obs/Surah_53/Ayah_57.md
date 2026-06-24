@@ -1,13 +1,13 @@
 ---
-arabic_ayat: اَزِفَتِ الۡاٰزِفَةُ​ۚ‏
+arabic_ayat: أَزِفَتِ ٱلۡأٓزِفَةُ
 sentence_translation: The approaching ˹Hour˺ has drawn near.
 word_by_word:
   1:
-    arabic: اَزِفَتِ
+    arabic: أَزِفَتِ
     translation: Has approached
     transliteration: azifati
   2:
-    arabic: الۡاٰزِفَةُ​ۚ‏
+    arabic: ٱلۡأٓزِفَةُ
     translation: the Approaching Day
     transliteration: l-āzifatu
 ---

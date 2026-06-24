@@ -1,34 +1,33 @@
 ---
-arabic_ayat: فَلَمَّاۤ اَنۡ اَرَادَ اَنۡ يَّبۡطِشَ بِالَّذِىۡ هُوَ عَدُوٌّ لَّهُمَا
-  ۙ قَالَ يٰمُوۡسٰٓى اَ تُرِيۡدُ اَنۡ تَقۡتُلَنِىۡ كَمَا قَتَلۡتَ نَفۡسًۢا بِالۡاَمۡسِ
-  ​ۖ  اِنۡ تُرِيۡدُ اِلَّاۤ اَنۡ تَكُوۡنَ جَبَّارًا فِى الۡاَرۡضِ وَمَا تُرِيۡدُ
-  اَنۡ تَكُوۡنَ مِنَ الۡمُصۡلِحِيۡنَ‏
+arabic_ayat: فَلَمَّآ أَنۡ أَرَادَ أَن يَبۡطِشَ بِٱلَّذِي هُوَ عَدُوّٞ لَّهُمَا قَالَ
+  يَٰمُوسَىٰٓ أَتُرِيدُ أَن تَقۡتُلَنِي كَمَا قَتَلۡتَ نَفۡسَۢا بِٱلۡأَمۡسِۖ إِن تُرِيدُ
+  إِلَّآ أَن تَكُونَ جَبَّارٗا فِي ٱلۡأَرۡضِ وَمَا تُرِيدُ أَن تَكُونَ مِنَ ٱلۡمُصۡلِحِينَ
 sentence_translation: Then when Moses was about to lay his hands on their foe, the
   enemy said, “O Moses! Do you intend to kill me as you killed a man yesterday? You
   only want to be a tyrant in the land. You do not intend to make peace!”
 word_by_word:
   1:
-    arabic: فَلَمَّاۤ
+    arabic: فَلَمَّآ
     translation: Then when
     transliteration: falammā
   2:
-    arabic: اَنۡ
+    arabic: أَنۡ
     translation: '[that]'
     transliteration: an
   3:
-    arabic: اَرَادَ
+    arabic: أَرَادَ
     translation: he wanted
     transliteration: arāda
   4:
-    arabic: اَنۡ
+    arabic: أَن
     translation: to
     transliteration: an
   5:
-    arabic: يَّبۡطِشَ
+    arabic: يَبۡطِشَ
     translation: strike
     transliteration: yabṭisha
   6:
-    arabic: بِالَّذِىۡ
+    arabic: بِٱلَّذِي
     translation: the one who
     transliteration: bi-alladhī
   7:
@@ -36,11 +35,11 @@ word_by_word:
     translation: '[he] (was)'
     transliteration: huwa
   8:
-    arabic: عَدُوٌّ
+    arabic: عَدُوّٞ
     translation: an enemy
     transliteration: ʿaduwwun
   9:
-    arabic: لَّهُمَا ۙ
+    arabic: لَّهُمَا
     translation: to both of them
     transliteration: lahumā
   10:
@@ -48,19 +47,19 @@ word_by_word:
     translation: he said
     transliteration: qāla
   11:
-    arabic: يٰمُوۡسٰٓى
+    arabic: يَٰمُوسَىٰٓ
     translation: O Musa
     transliteration: yāmūsā
   12:
-    arabic: اَ تُرِيۡدُ
+    arabic: أَتُرِيدُ
     translation: Do you intend
     transliteration: aturīdu
   13:
-    arabic: اَنۡ
+    arabic: أَن
     translation: to
     transliteration: an
   14:
-    arabic: تَقۡتُلَنِىۡ
+    arabic: تَقۡتُلَنِي
     translation: kill me
     transliteration: taqtulanī
   15:
@@ -72,43 +71,43 @@ word_by_word:
     translation: you killed
     transliteration: qatalta
   17:
-    arabic: نَفۡسًۢا
+    arabic: نَفۡسَۢا
     translation: a person
     transliteration: nafsan
   18:
-    arabic: بِالۡاَمۡسِ ​ۖ 
+    arabic: بِٱلۡأَمۡسِۖ
     translation: yesterday
     transliteration: bil-amsi
   19:
-    arabic: اِنۡ
+    arabic: إِن
     translation: Not
     transliteration: in
   20:
-    arabic: تُرِيۡدُ
+    arabic: تُرِيدُ
     translation: you want
     transliteration: turīdu
   21:
-    arabic: اِلَّاۤ
+    arabic: إِلَّآ
     translation: but
     transliteration: illā
   22:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that
     transliteration: an
   23:
-    arabic: تَكُوۡنَ
+    arabic: تَكُونَ
     translation: you become
     transliteration: takūna
   24:
-    arabic: جَبَّارًا
+    arabic: جَبَّارٗا
     translation: a tyrant
     transliteration: jabbāran
   25:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   26:
-    arabic: الۡاَرۡضِ
+    arabic: ٱلۡأَرۡضِ
     translation: the earth
     transliteration: l-arḍi
   27:
@@ -116,15 +115,15 @@ word_by_word:
     translation: and not
     transliteration: wamā
   28:
-    arabic: تُرِيۡدُ
+    arabic: تُرِيدُ
     translation: you want
     transliteration: turīdu
   29:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that
     transliteration: an
   30:
-    arabic: تَكُوۡنَ
+    arabic: تَكُونَ
     translation: you be
     transliteration: takūna
   31:
@@ -132,7 +131,7 @@ word_by_word:
     translation: of
     transliteration: mina
   32:
-    arabic: الۡمُصۡلِحِيۡنَ‏
+    arabic: ٱلۡمُصۡلِحِينَ
     translation: the reformers
     transliteration: l-muṣ'liḥīna
 ---

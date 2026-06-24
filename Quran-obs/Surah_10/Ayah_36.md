@@ -1,6 +1,6 @@
 ---
-arabic_ayat: وَمَا يَتَّبِعُ اَكۡثَرُهُمۡ اِلَّا ظَنًّا ؕاِنَّ الظَّنَّ لَا يُغۡنِىۡ
-  مِنَ الۡحَـقِّ شَيۡــًٔا​ ؕ اِنَّ اللّٰهَ عَلِيۡمٌۢ بِمَا يَفۡعَلُوۡنَ‏
+arabic_ayat: وَمَا يَتَّبِعُ أَكۡثَرُهُمۡ إِلَّا ظَنًّاۚ إِنَّ ٱلظَّنَّ لَا يُغۡنِي
+  مِنَ ٱلۡحَقِّ شَيۡـًٔاۚ إِنَّ ٱللَّهَ عَلِيمُۢ بِمَا يَفۡعَلُونَ
 sentence_translation: Most of them follow nothing but ˹inherited˺ assumptions. ˹And˺
   surely assumptions can in no way replace the truth. Allah is indeed All-Knowing
   of what they do.
@@ -14,23 +14,23 @@ word_by_word:
     translation: follow
     transliteration: yattabiʿu
   3:
-    arabic: اَكۡثَرُهُمۡ
+    arabic: أَكۡثَرُهُمۡ
     translation: most of them
     transliteration: aktharuhum
   4:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   5:
-    arabic: ظَنًّا ؕ
+    arabic: ظَنًّاۚ
     translation: assumption
     transliteration: ẓannan
   6:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   7:
-    arabic: الظَّنَّ
+    arabic: ٱلظَّنَّ
     translation: the assumption
     transliteration: l-ẓana
   8:
@@ -38,7 +38,7 @@ word_by_word:
     translation: (does) not
     transliteration: lā
   9:
-    arabic: يُغۡنِىۡ
+    arabic: يُغۡنِي
     translation: avail
     transliteration: yugh'nī
   10:
@@ -46,23 +46,23 @@ word_by_word:
     translation: against
     transliteration: mina
   11:
-    arabic: الۡحَـقِّ
+    arabic: ٱلۡحَقِّ
     translation: the truth
     transliteration: l-ḥaqi
   12:
-    arabic: شَيۡــًٔا​ ؕ
+    arabic: شَيۡـًٔاۚ
     translation: anything
     transliteration: shayan
   13:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   14:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   15:
-    arabic: عَلِيۡمٌۢ
+    arabic: عَلِيمُۢ
     translation: (is) All-Knower
     transliteration: ʿalīmun
   16:
@@ -70,7 +70,7 @@ word_by_word:
     translation: of what
     transliteration: bimā
   17:
-    arabic: يَفۡعَلُوۡنَ‏
+    arabic: يَفۡعَلُونَ
     translation: they do
     transliteration: yafʿalūna
 ---

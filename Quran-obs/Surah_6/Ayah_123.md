@@ -1,11 +1,11 @@
 ---
-arabic_ayat: وَكَذٰلِكَ جَعَلۡنَا فِىۡ كُلِّ قَرۡيَةٍ اَكٰبِرَ مُجۡرِمِيۡهَا لِيَمۡكُرُوۡا
-  فِيۡهَا​ ؕ وَمَا يَمۡكُرُوۡنَ اِلَّا بِاَنۡفُسِهِمۡ وَمَا يَشۡعُرُوۡنَ‏
+arabic_ayat: وَكَذَٰلِكَ جَعَلۡنَا فِي كُلِّ قَرۡيَةٍ أَكَٰبِرَ مُجۡرِمِيهَا لِيَمۡكُرُواْ
+  فِيهَاۖ وَمَا يَمۡكُرُونَ إِلَّا بِأَنفُسِهِمۡ وَمَا يَشۡعُرُونَ
 sentence_translation: And so We have placed in every society the most wicked to conspire
   in it. Yet they plot only against themselves, but they fail to perceive it.
 word_by_word:
   1:
-    arabic: وَكَذٰلِكَ
+    arabic: وَكَذَٰلِكَ
     translation: And thus
     transliteration: wakadhālika
   2:
@@ -13,7 +13,7 @@ word_by_word:
     translation: We placed
     transliteration: jaʿalnā
   3:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   4:
@@ -25,19 +25,19 @@ word_by_word:
     translation: city
     transliteration: qaryatin
   6:
-    arabic: اَكٰبِرَ
+    arabic: أَكَٰبِرَ
     translation: greatest
     transliteration: akābira
   7:
-    arabic: مُجۡرِمِيۡهَا
+    arabic: مُجۡرِمِيهَا
     translation: (of) its criminals
     transliteration: muj'rimīhā
   8:
-    arabic: لِيَمۡكُرُوۡا
+    arabic: لِيَمۡكُرُواْ
     translation: so that they plot
     transliteration: liyamkurū
   9:
-    arabic: فِيۡهَا​ ؕ
+    arabic: فِيهَاۖ
     translation: therein
     transliteration: fīhā
   10:
@@ -45,15 +45,15 @@ word_by_word:
     translation: And not
     transliteration: wamā
   11:
-    arabic: يَمۡكُرُوۡنَ
+    arabic: يَمۡكُرُونَ
     translation: they plot
     transliteration: yamkurūna
   12:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   13:
-    arabic: بِاَنۡفُسِهِمۡ
+    arabic: بِأَنفُسِهِمۡ
     translation: against themselves
     transliteration: bi-anfusihim
   14:
@@ -61,7 +61,7 @@ word_by_word:
     translation: and not
     transliteration: wamā
   15:
-    arabic: يَشۡعُرُوۡنَ‏
+    arabic: يَشۡعُرُونَ
     translation: they perceive
     transliteration: yashʿurūna
 ---

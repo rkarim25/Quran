@@ -1,23 +1,23 @@
 ---
-arabic_ayat: وَالَّذِيۡنَ يُؤۡذُوۡنَ الۡمُؤۡمِنِيۡنَ وَالۡمُؤۡمِنٰتِ بِغَيۡرِ مَا
-  اكۡتَسَبُوۡا فَقَدِ احۡتَمَلُوۡا بُهۡتَانًا وَّاِثۡمًا مُّبِيۡنًا‏
+arabic_ayat: وَٱلَّذِينَ يُؤۡذُونَ ٱلۡمُؤۡمِنِينَ وَٱلۡمُؤۡمِنَٰتِ بِغَيۡرِ مَا ٱكۡتَسَبُواْ
+  فَقَدِ ٱحۡتَمَلُواْ بُهۡتَٰنٗا وَإِثۡمٗا مُّبِينٗا
 sentence_translation: As for those who abuse believing men and women unjustifiably,
   they will definitely bear the guilt of slander and blatant sin.
 word_by_word:
   1:
-    arabic: وَالَّذِيۡنَ
+    arabic: وَٱلَّذِينَ
     translation: And those who
     transliteration: wa-alladhīna
   2:
-    arabic: يُؤۡذُوۡنَ
+    arabic: يُؤۡذُونَ
     translation: harm
     transliteration: yu'dhūna
   3:
-    arabic: الۡمُؤۡمِنِيۡنَ
+    arabic: ٱلۡمُؤۡمِنِينَ
     translation: the believing men
     transliteration: l-mu'minīna
   4:
-    arabic: وَالۡمُؤۡمِنٰتِ
+    arabic: وَٱلۡمُؤۡمِنَٰتِ
     translation: and the believing women
     transliteration: wal-mu'mināti
   5:
@@ -29,7 +29,7 @@ word_by_word:
     translation: what
     transliteration: mā
   7:
-    arabic: اكۡتَسَبُوۡا
+    arabic: ٱكۡتَسَبُواْ
     translation: they have earned
     transliteration: ik'tasabū
   8:
@@ -37,19 +37,19 @@ word_by_word:
     translation: then certainly
     transliteration: faqadi
   9:
-    arabic: احۡتَمَلُوۡا
+    arabic: ٱحۡتَمَلُواْ
     translation: they bear
     transliteration: iḥ'tamalū
   10:
-    arabic: بُهۡتَانًا
+    arabic: بُهۡتَٰنٗا
     translation: false accusation
     transliteration: buh'tānan
   11:
-    arabic: وَّاِثۡمًا
+    arabic: وَإِثۡمٗا
     translation: and sin
     transliteration: wa-ith'man
   12:
-    arabic: مُّبِيۡنًا‏
+    arabic: مُّبِينٗا
     translation: manifest
     transliteration: mubīnan
 ---

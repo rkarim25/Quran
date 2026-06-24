@@ -1,6 +1,6 @@
 ---
-arabic_ayat: قَالَ يٰبُنَىَّ لَا تَقۡصُصۡ رُءۡيَاكَ عَلٰٓى اِخۡوَتِكَ فَيَكِيۡدُوۡا
-  لَـكَ كَيۡدًا ؕ اِنَّ الشَّيۡطٰنَ لِلۡاِنۡسَانِ عَدُوٌّ مُّبِيۡنٌ‏
+arabic_ayat: قَالَ يَٰبُنَيَّ لَا تَقۡصُصۡ رُءۡيَاكَ عَلَىٰٓ إِخۡوَتِكَ فَيَكِيدُواْ
+  لَكَ كَيۡدًاۖ إِنَّ ٱلشَّيۡطَٰنَ لِلۡإِنسَٰنِ عَدُوّٞ مُّبِينٞ
 sentence_translation: He replied, “O my dear son! Do not relate your vision to your
   brothers, or they will devise a plot against you. Surely Satan is a sworn enemy
   to humankind.
@@ -10,7 +10,7 @@ word_by_word:
     translation: He said
     transliteration: qāla
   2:
-    arabic: يٰبُنَىَّ
+    arabic: يَٰبُنَيَّ
     translation: O my son
     transliteration: yābunayya
   3:
@@ -26,43 +26,43 @@ word_by_word:
     translation: your vision
     transliteration: ru'yāka
   6:
-    arabic: عَلٰٓى
+    arabic: عَلَىٰٓ
     translation: to
     transliteration: ʿalā
   7:
-    arabic: اِخۡوَتِكَ
+    arabic: إِخۡوَتِكَ
     translation: your brothers
     transliteration: ikh'watika
   8:
-    arabic: فَيَكِيۡدُوۡا
+    arabic: فَيَكِيدُواْ
     translation: lest they plan
     transliteration: fayakīdū
   9:
-    arabic: لَـكَ
+    arabic: لَكَ
     translation: against you
     transliteration: laka
   10:
-    arabic: كَيۡدًا ؕ
+    arabic: كَيۡدًاۖ
     translation: a plot
     transliteration: kaydan
   11:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   12:
-    arabic: الشَّيۡطٰنَ
+    arabic: ٱلشَّيۡطَٰنَ
     translation: the Shaitaan
     transliteration: l-shayṭāna
   13:
-    arabic: لِلۡاِنۡسَانِ
+    arabic: لِلۡإِنسَٰنِ
     translation: (is) to man
     transliteration: lil'insāni
   14:
-    arabic: عَدُوٌّ
+    arabic: عَدُوّٞ
     translation: an enemy
     transliteration: ʿaduwwun
   15:
-    arabic: مُّبِيۡنٌ‏
+    arabic: مُّبِينٞ
     translation: open
     transliteration: mubīnun
 ---

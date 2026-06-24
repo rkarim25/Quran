@@ -1,6 +1,6 @@
 ---
-arabic_ayat: قَالَ مَا مَكَّنِّىۡ فِيۡهِ رَبِّىۡ خَيۡرٌ فَاَعِيۡنُوۡنِىۡ بِقُوَّةٍ
-  اَجۡعَلۡ بَيۡنَكُمۡ وَبَيۡنَهُمۡ رَدۡمًا ۙ‏
+arabic_ayat: قَالَ مَا مَكَّنِّي فِيهِ رَبِّي خَيۡرٞ فَأَعِينُونِي بِقُوَّةٍ أَجۡعَلۡ
+  بَيۡنَكُمۡ وَبَيۡنَهُمۡ رَدۡمًا
 sentence_translation: He responded, “What my Lord has provided for me is far better.
   But assist me with resources, and I will build a barrier between you and them.
 word_by_word:
@@ -13,23 +13,23 @@ word_by_word:
     translation: What
     transliteration: mā
   3:
-    arabic: مَكَّنِّىۡ
+    arabic: مَكَّنِّي
     translation: has established me
     transliteration: makkannī
   4:
-    arabic: فِيۡهِ
+    arabic: فِيهِ
     translation: '[in it]'
     transliteration: fīhi
   5:
-    arabic: رَبِّىۡ
+    arabic: رَبِّي
     translation: my Lord
     transliteration: rabbī
   6:
-    arabic: خَيۡرٌ
+    arabic: خَيۡرٞ
     translation: (is) better
     transliteration: khayrun
   7:
-    arabic: فَاَعِيۡنُوۡنِىۡ
+    arabic: فَأَعِينُونِي
     translation: but assist me
     transliteration: fa-aʿīnūnī
   8:
@@ -37,7 +37,7 @@ word_by_word:
     translation: with strength
     transliteration: biquwwatin
   9:
-    arabic: اَجۡعَلۡ
+    arabic: أَجۡعَلۡ
     translation: I will make
     transliteration: ajʿal
   10:
@@ -49,7 +49,7 @@ word_by_word:
     translation: and between them
     transliteration: wabaynahum
   12:
-    arabic: رَدۡمًا ۙ‏
+    arabic: رَدۡمًا
     translation: a barrier
     transliteration: radman
 ---

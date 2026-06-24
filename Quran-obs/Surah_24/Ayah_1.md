@@ -1,35 +1,35 @@
 ---
-arabic_ayat: سُوۡرَةٌ اَنۡزَلۡنٰهَا وَفَرَضۡنٰهَا وَاَنۡزَلۡنَا فِيۡهَاۤ اٰيٰتٍۭ بَيِّنٰتٍ
-  لَّعَلَّكُمۡ تَذَكَّرُوۡنَ‏
+arabic_ayat: سُورَةٌ أَنزَلۡنَٰهَا وَفَرَضۡنَٰهَا وَأَنزَلۡنَا فِيهَآ ءَايَٰتِۭ بَيِّنَٰتٖ
+  لَّعَلَّكُمۡ تَذَكَّرُونَ
 sentence_translation: ˹This is˺ a sûrah which We have revealed and made ˹its rulings˺
   obligatory, and revealed in it clear commandments so that you may be mindful.
 word_by_word:
   1:
-    arabic: سُوۡرَةٌ
+    arabic: سُورَةٌ
     translation: 'A Surah '
     transliteration: sūratun
   2:
-    arabic: اَنۡزَلۡنٰهَا
+    arabic: أَنزَلۡنَٰهَا
     translation: We (have) sent it down
     transliteration: anzalnāhā
   3:
-    arabic: وَفَرَضۡنٰهَا
+    arabic: وَفَرَضۡنَٰهَا
     translation: and We (have) made it obligatory
     transliteration: wafaraḍnāhā
   4:
-    arabic: وَاَنۡزَلۡنَا
+    arabic: وَأَنزَلۡنَا
     translation: and We (have) revealed
     transliteration: wa-anzalnā
   5:
-    arabic: فِيۡهَاۤ
+    arabic: فِيهَآ ءَ
     translation: therein
     transliteration: fīhā
   6:
-    arabic: اٰيٰتٍۭ
+    arabic: ايَٰتِۭ
     translation: Verses
     transliteration: āyātin
   7:
-    arabic: بَيِّنٰتٍ
+    arabic: بَيِّنَٰتٖ
     translation: clear
     transliteration: bayyinātin
   8:
@@ -37,7 +37,7 @@ word_by_word:
     translation: so that you may
     transliteration: laʿallakum
   9:
-    arabic: تَذَكَّرُوۡنَ‏
+    arabic: تَذَكَّرُونَ
     translation: take heed
     transliteration: tadhakkarūna
 ---

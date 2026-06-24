@@ -1,10 +1,10 @@
 ---
-arabic_ayat: اِلَّا مَنۡ اَتَى اللّٰهَ بِقَلۡبٍ سَلِيۡمٍؕ‏
+arabic_ayat: إِلَّا مَنۡ أَتَى ٱللَّهَ بِقَلۡبٖ سَلِيمٖ
 sentence_translation: Only those who come before Allah with a pure heart ˹will be
   saved˺.” 
 word_by_word:
   1:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: Except
     transliteration: illā
   2:
@@ -12,19 +12,19 @@ word_by_word:
     translation: (he) who
     transliteration: man
   3:
-    arabic: اَتَى
+    arabic: أَتَى
     translation: comes
     transliteration: atā
   4:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: (to) Allah
     transliteration: l-laha
   5:
-    arabic: بِقَلۡبٍ
+    arabic: بِقَلۡبٖ
     translation: with a heart
     transliteration: biqalbin
   6:
-    arabic: سَلِيۡمٍؕ‏
+    arabic: سَلِيمٖ
     translation: sound
     transliteration: salīmin
 ---

@@ -1,5 +1,5 @@
 ---
-arabic_ayat: مَا وَدَّعَكَ رَبُّكَ وَمَا قَلٰىؕ‏
+arabic_ayat: مَا وَدَّعَكَ رَبُّكَ وَمَا قَلَىٰ
 sentence_translation: Your Lord ˹O Prophet˺ has not abandoned you, nor has He become
   hateful ˹of you˺.
 word_by_word:
@@ -20,7 +20,7 @@ word_by_word:
     translation: and not
     transliteration: wamā
   5:
-    arabic: قَلٰىؕ‏
+    arabic: قَلَىٰ
     translation: He is displeased
     transliteration: qalā
 ---

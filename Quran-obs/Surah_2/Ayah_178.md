@@ -1,9 +1,9 @@
 ---
-arabic_ayat: يٰٓاَيُّهَا الَّذِيۡنَ اٰمَنُوۡا كُتِبَ عَلَيۡكُمُ الۡقِصَاصُ فِى الۡقَتۡلٰى
-   ؕ الۡحُرُّ بِالۡحُـرِّ وَالۡعَبۡدُ بِالۡعَبۡدِ وَالۡاُنۡثَىٰ بِالۡاُنۡثٰىؕ فَمَنۡ
-  عُفِىَ لَهٗ مِنۡ اَخِيۡهِ شَىۡءٌ فَاتِّبَاعٌۢ بِالۡمَعۡرُوۡفِ وَاَدَآءٌ اِلَيۡهِ
-  بِاِحۡسَانٍؕ ذٰلِكَ تَخۡفِيۡفٌ مِّنۡ رَّبِّكُمۡ وَرَحۡمَةٌ  ؕ فَمَنِ اعۡتَدٰى بَعۡدَ
-  ذٰلِكَ فَلَهٗ عَذَابٌ اَلِيۡمٌۚ‏
+arabic_ayat: يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُواْ كُتِبَ عَلَيۡكُمُ ٱلۡقِصَاصُ فِي ٱلۡقَتۡلَىۖ
+  ٱلۡحُرُّ بِٱلۡحُرِّ وَٱلۡعَبۡدُ بِٱلۡعَبۡدِ وَٱلۡأُنثَىٰ بِٱلۡأُنثَىٰۚ فَمَنۡ عُفِيَ
+  لَهُۥ مِنۡ أَخِيهِ شَيۡءٞ فَٱتِّبَاعُۢ بِٱلۡمَعۡرُوفِ وَأَدَآءٌ إِلَيۡهِ بِإِحۡسَٰنٖۗ
+  ذَٰلِكَ تَخۡفِيفٞ مِّن رَّبِّكُمۡ وَرَحۡمَةٞۗ فَمَنِ ٱعۡتَدَىٰ بَعۡدَ ذَٰلِكَ فَلَهُۥ
+  عَذَابٌ أَلِيمٞ
 sentence_translation: O believers! ˹The law of˺ retaliation is set for you in cases
   of murder—a free man for a free man, a slave for a slave, and a female for a female. But
   if the offender is pardoned by the victim’s guardian, then blood-money should be
@@ -12,15 +12,15 @@ sentence_translation: O believers! ˹The law of˺ retaliation is set for you in 
   punishment.
 word_by_word:
   1:
-    arabic: يٰٓاَيُّهَا
+    arabic: يَٰٓأَيُّهَا
     translation: O you
     transliteration: yāayyuhā
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ ءَ
     translation: who
     transliteration: alladhīna
   3:
-    arabic: اٰمَنُوۡا
+    arabic: امَنُواْ
     translation: believe[d]
     transliteration: āmanū
   4:
@@ -32,39 +32,39 @@ word_by_word:
     translation: for you
     transliteration: ʿalaykumu
   6:
-    arabic: الۡقِصَاصُ
+    arabic: ٱلۡقِصَاصُ
     translation: (is) the legal retribution
     transliteration: l-qiṣāṣu
   7:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   8:
-    arabic: الۡقَتۡلٰى  ؕ
+    arabic: ٱلۡقَتۡلَىۖ
     translation: (the matter of) the murdered
     transliteration: l-qatlā
   9:
-    arabic: الۡحُرُّ
+    arabic: ٱلۡحُرُّ
     translation: the freeman
     transliteration: l-ḥuru
   10:
-    arabic: بِالۡحُـرِّ
+    arabic: بِٱلۡحُرِّ
     translation: for the freeman
     transliteration: bil-ḥuri
   11:
-    arabic: وَالۡعَبۡدُ
+    arabic: وَٱلۡعَبۡدُ
     translation: and the slave
     transliteration: wal-ʿabdu
   12:
-    arabic: بِالۡعَبۡدِ
+    arabic: بِٱلۡعَبۡدِ
     translation: for the slave
     transliteration: bil-ʿabdi
   13:
-    arabic: وَالۡاُنۡثَىٰ
+    arabic: وَٱلۡأُنثَىٰ
     translation: and the female
     transliteration: wal-unthā
   14:
-    arabic: بِالۡاُنۡثٰىؕ
+    arabic: بِٱلۡأُنثَىٰۚ
     translation: for the female
     transliteration: bil-unthā
   15:
@@ -72,11 +72,11 @@ word_by_word:
     translation: But whoever
     transliteration: faman
   16:
-    arabic: عُفِىَ
+    arabic: عُفِيَ
     translation: is pardoned
     transliteration: ʿufiya
   17:
-    arabic: لَهٗ
+    arabic: لَهُۥ
     translation: '[for it]'
     transliteration: lahu
   18:
@@ -84,43 +84,43 @@ word_by_word:
     translation: from
     transliteration: min
   19:
-    arabic: اَخِيۡهِ
+    arabic: أَخِيهِ
     translation: his brother
     transliteration: akhīhi
   20:
-    arabic: شَىۡءٌ
+    arabic: شَيۡءٞ
     translation: anything
     transliteration: shayon
   21:
-    arabic: فَاتِّبَاعٌۢ
+    arabic: فَٱتِّبَاعُۢ
     translation: then follows up
     transliteration: fa-ittibāʿun
   22:
-    arabic: بِالۡمَعۡرُوۡفِ
+    arabic: بِٱلۡمَعۡرُوفِ
     translation: with suitable
     transliteration: bil-maʿrūfi
   23:
-    arabic: وَاَدَآءٌ
+    arabic: وَأَدَآءٌ
     translation: '[and] payment'
     transliteration: wa-adāon
   24:
-    arabic: اِلَيۡهِ
+    arabic: إِلَيۡهِ
     translation: to him
     transliteration: ilayhi
   25:
-    arabic: بِاِحۡسَانٍؕ
+    arabic: بِإِحۡسَٰنٖۗ
     translation: with kindness
     transliteration: bi-iḥ'sānin
   26:
-    arabic: ذٰلِكَ
+    arabic: ذَٰلِكَ
     translation: That (is)
     transliteration: dhālika
   27:
-    arabic: تَخۡفِيۡفٌ
+    arabic: تَخۡفِيفٞ
     translation: a concession
     transliteration: takhfīfun
   28:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: from
     transliteration: min
   29:
@@ -128,7 +128,7 @@ word_by_word:
     translation: your Lord
     transliteration: rabbikum
   30:
-    arabic: وَرَحۡمَةٌ  ؕ
+    arabic: وَرَحۡمَةٞۗ
     translation: and mercy
     transliteration: waraḥmatun
   31:
@@ -136,7 +136,7 @@ word_by_word:
     translation: Then whoever
     transliteration: famani
   32:
-    arabic: اعۡتَدٰى
+    arabic: ٱعۡتَدَىٰ
     translation: transgresses
     transliteration: iʿ'tadā
   33:
@@ -144,11 +144,11 @@ word_by_word:
     translation: after
     transliteration: baʿda
   34:
-    arabic: ذٰلِكَ
+    arabic: ذَٰلِكَ
     translation: that
     transliteration: dhālika
   35:
-    arabic: فَلَهٗ
+    arabic: فَلَهُۥ
     translation: then for him
     transliteration: falahu
   36:
@@ -156,7 +156,7 @@ word_by_word:
     translation: (is) a punishment
     transliteration: ʿadhābun
   37:
-    arabic: اَلِيۡمٌۚ‏
+    arabic: أَلِيمٞ
     translation: painful
     transliteration: alīmun
 ---

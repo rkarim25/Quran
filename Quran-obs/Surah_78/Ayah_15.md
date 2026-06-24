@@ -1,21 +1,21 @@
 ---
-arabic_ayat: لِّـنُخۡرِجَ بِهٖ حَبًّا وَّنَبَاتًا ۙ‏
+arabic_ayat: لِّنُخۡرِجَ بِهِۦ حَبّٗا وَنَبَاتٗا
 sentence_translation: producing by it grain and ˹various˺ plants,
 word_by_word:
   1:
-    arabic: لِّـنُخۡرِجَ
+    arabic: لِّنُخۡرِجَ
     translation: That We may bring forth
     transliteration: linukh'rija
   2:
-    arabic: بِهٖ
+    arabic: بِهِۦ
     translation: thereby
     transliteration: bihi
   3:
-    arabic: حَبًّا
+    arabic: حَبّٗا
     translation: grain
     transliteration: ḥabban
   4:
-    arabic: وَّنَبَاتًا ۙ‏
+    arabic: وَنَبَاتٗا
     translation: and vegetation
     transliteration: wanabātan
 ---

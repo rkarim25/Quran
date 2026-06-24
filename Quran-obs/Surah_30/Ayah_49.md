@@ -1,19 +1,18 @@
 ---
-arabic_ayat: "وَاِنۡ كَانُوۡا مِنۡ قَبۡلِ اَنۡ يُّنَزَّلَ عَلَيۡهِمۡ مِّنۡ قَبۡلِهٖ\
-  \ لَمُبۡلِسِيۡنَ‏ \uFEFF\uFEFF"
+arabic_ayat: وَإِن كَانُواْ مِن قَبۡلِ أَن يُنَزَّلَ عَلَيۡهِم مِّن قَبۡلِهِۦ لَمُبۡلِسِينَ
 sentence_translation: although they had utterly lost hope just before it was sent
   down to them.
 word_by_word:
   1:
-    arabic: وَاِنۡ
+    arabic: وَإِن
     translation: And certainly
     transliteration: wa-in
   2:
-    arabic: كَانُوۡا
+    arabic: كَانُواْ
     translation: they were
     transliteration: kānū
   3:
-    arabic: مِنۡ
+    arabic: مِن
     translation: before
     transliteration: min
   4:
@@ -21,27 +20,27 @@ word_by_word:
     translation: before
     transliteration: qabli
   5:
-    arabic: اَنۡ
+    arabic: أَن
     translation: '[that]'
     transliteration: an
   6:
-    arabic: يُّنَزَّلَ
+    arabic: يُنَزَّلَ
     translation: it was sent down
     transliteration: yunazzala
   7:
-    arabic: عَلَيۡهِمۡ
+    arabic: عَلَيۡهِم
     translation: upon them
     transliteration: ʿalayhim
   8:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: '[before it]'
     transliteration: min
   9:
-    arabic: قَبۡلِهٖ
+    arabic: قَبۡلِهِۦ
     translation: '[before it]'
     transliteration: qablihi
   10:
-    arabic: "لَمُبۡلِسِيۡنَ‏ \uFEFF\uFEFF"
+    arabic: لَمُبۡلِسِينَ
     translation: surely in despair
     transliteration: lamub'lisīna
 ---

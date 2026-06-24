@@ -1,5 +1,5 @@
 ---
-arabic_ayat: لَّا يَمَسُّهٗۤ اِلَّا الۡمُطَهَّرُوۡنَؕ‏
+arabic_ayat: لَّا يَمَسُّهُۥٓ إِلَّا ٱلۡمُطَهَّرُونَ
 sentence_translation: touched by none except the purified ˹angels˺.
 word_by_word:
   1:
@@ -7,15 +7,15 @@ word_by_word:
     translation: None
     transliteration: lā
   2:
-    arabic: يَمَسُّهٗۤ
+    arabic: يَمَسُّهُۥٓ
     translation: touch it
     transliteration: yamassuhu
   3:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   4:
-    arabic: الۡمُطَهَّرُوۡنَؕ‏
+    arabic: ٱلۡمُطَهَّرُونَ
     translation: the purified
     transliteration: l-muṭaharūna
 ---

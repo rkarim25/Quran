@@ -1,23 +1,23 @@
 ---
-arabic_ayat: وَالۡوَزۡنُ يَوۡمَٮِٕذِ اۨلۡحَـقُّ​ ۚ فَمَنۡ ثَقُلَتۡ مَوَازِيۡنُهٗ فَاُولٰۤٮِٕكَ
-  هُمُ الۡمُفۡلِحُوۡنَ‏
+arabic_ayat: وَٱلۡوَزۡنُ يَوۡمَئِذٍ ٱلۡحَقُّۚ فَمَن ثَقُلَتۡ مَوَٰزِينُهُۥ فَأُوْلَٰٓئِكَ
+  هُمُ ٱلۡمُفۡلِحُونَ
 sentence_translation: The weighing on that Day will be just. As for those whose scale
   will be heavy ˹with good deeds˺, ˹only˺ they will be successful.
 word_by_word:
   1:
-    arabic: وَالۡوَزۡنُ
+    arabic: وَٱلۡوَزۡنُ
     translation: And the weighing
     transliteration: wal-waznu
   2:
-    arabic: يَوۡمَٮِٕذِ
+    arabic: يَوۡمَئِذٍ
     translation: that day
     transliteration: yawma-idhin
   3:
-    arabic: اۨلۡحَـقُّ​ ۚ
+    arabic: ٱلۡحَقُّۚ
     translation: (will be) the truth
     transliteration: l-ḥaqu
   4:
-    arabic: فَمَنۡ
+    arabic: فَمَن
     translation: 'So whose '
     transliteration: faman
   5:
@@ -25,11 +25,11 @@ word_by_word:
     translation: (will be) heavy
     transliteration: thaqulat
   6:
-    arabic: مَوَازِيۡنُهٗ
+    arabic: مَوَٰزِينُهُۥ
     translation: his scales
     transliteration: mawāzīnuhu
   7:
-    arabic: فَاُولٰۤٮِٕكَ
+    arabic: فَأُوْلَٰٓئِكَ
     translation: then those
     transliteration: fa-ulāika
   8:
@@ -37,7 +37,7 @@ word_by_word:
     translation: '[they]'
     transliteration: humu
   9:
-    arabic: الۡمُفۡلِحُوۡنَ‏
+    arabic: ٱلۡمُفۡلِحُونَ
     translation: (will be) the successful ones
     transliteration: l-muf'liḥūna
 ---

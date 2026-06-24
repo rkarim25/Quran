@@ -1,18 +1,18 @@
 ---
-arabic_ayat: اَوۡ كَصَيِّبٍ مِّنَ السَّمَآءِ فِيۡهِ ظُلُمٰتٌ وَّرَعۡدٌ وَّبَرۡقٌ​
-  ۚ يَجۡعَلُوۡنَ اَصَابِعَهُمۡ فِىۡۤ اٰذَانِهِمۡ مِّنَ الصَّوَاعِقِ حَذَرَ الۡمَوۡتِ​ؕ
-  وَاللّٰهُ مُحِيۡطٌ​ۢ بِالۡكٰفِرِيۡنَ‏
+arabic_ayat: أَوۡ كَصَيِّبٖ مِّنَ ٱلسَّمَآءِ فِيهِ ظُلُمَٰتٞ وَرَعۡدٞ وَبَرۡقٞ يَجۡعَلُونَ
+  أَصَٰبِعَهُمۡ فِيٓ ءَاذَانِهِم مِّنَ ٱلصَّوَٰعِقِ حَذَرَ ٱلۡمَوۡتِۚ وَٱللَّهُ مُحِيطُۢ
+  بِٱلۡكَٰفِرِينَ
 sentence_translation: Or ˹those caught in˺ a rainstorm from the sky with darkness,
   thunder, and lightning. They press their fingers into their ears at the sound of
   every thunder-clap for fear of death. And Allah encompasses the disbelievers ˹by
   His might˺.
 word_by_word:
   1:
-    arabic: اَوۡ
+    arabic: أَوۡ
     translation: Or
     transliteration: aw
   2:
-    arabic: كَصَيِّبٍ
+    arabic: كَصَيِّبٖ
     translation: like a rainstorm
     transliteration: kaṣayyibin
   3:
@@ -20,39 +20,39 @@ word_by_word:
     translation: from
     transliteration: mina
   4:
-    arabic: السَّمَآءِ
+    arabic: ٱلسَّمَآءِ
     translation: the sky
     transliteration: l-samāi
   5:
-    arabic: فِيۡهِ
+    arabic: فِيهِ
     translation: in it (are)
     transliteration: fīhi
   6:
-    arabic: ظُلُمٰتٌ
+    arabic: ظُلُمَٰتٞ
     translation: darkness[es]
     transliteration: ẓulumātun
   7:
-    arabic: وَّرَعۡدٌ
+    arabic: وَرَعۡدٞ
     translation: and thunder
     transliteration: waraʿdun
   8:
-    arabic: وَّبَرۡقٌ​ ۚ
+    arabic: وَبَرۡقٞ
     translation: and lightning
     transliteration: wabarqun
   9:
-    arabic: يَجۡعَلُوۡنَ
+    arabic: يَجۡعَلُونَ
     translation: They put
     transliteration: yajʿalūna
   10:
-    arabic: اَصَابِعَهُمۡ
+    arabic: أَصَٰبِعَهُمۡ
     translation: their fingers
     transliteration: aṣābiʿahum
   11:
-    arabic: فِىۡۤ
+    arabic: فِيٓ ءَ
     translation: in
     transliteration: fī
   12:
-    arabic: اٰذَانِهِمۡ
+    arabic: اذَانِهِم
     translation: their ears
     transliteration: ādhānihim
   13:
@@ -60,7 +60,7 @@ word_by_word:
     translation: from
     transliteration: mina
   14:
-    arabic: الصَّوَاعِقِ
+    arabic: ٱلصَّوَٰعِقِ
     translation: the thunderclaps
     transliteration: l-ṣawāʿiqi
   15:
@@ -68,19 +68,19 @@ word_by_word:
     translation: (in) fear (of)
     transliteration: ḥadhara
   16:
-    arabic: الۡمَوۡتِ​ؕ
+    arabic: ٱلۡمَوۡتِۚ
     translation: '[the] death'
     transliteration: l-mawti
   17:
-    arabic: وَاللّٰهُ
+    arabic: وَٱللَّهُ
     translation: And Allah
     transliteration: wal-lahu
   18:
-    arabic: مُحِيۡطٌ​ۢ
+    arabic: مُحِيطُۢ
     translation: (is) [the One Who] encompasses
     transliteration: muḥīṭun
   19:
-    arabic: بِالۡكٰفِرِيۡنَ‏
+    arabic: بِٱلۡكَٰفِرِينَ
     translation: the disbelievers
     transliteration: bil-kāfirīna
 ---

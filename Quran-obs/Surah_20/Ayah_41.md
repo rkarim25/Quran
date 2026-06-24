@@ -1,13 +1,13 @@
 ---
-arabic_ayat: وَاصۡطَنَعۡتُكَ لِنَفۡسِى​ۚ‏
+arabic_ayat: وَٱصۡطَنَعۡتُكَ لِنَفۡسِي
 sentence_translation: And I have selected you for My service.
 word_by_word:
   1:
-    arabic: وَاصۡطَنَعۡتُكَ
+    arabic: وَٱصۡطَنَعۡتُكَ
     translation: And I (have) chosen you
     transliteration: wa-iṣ'ṭanaʿtuka
   2:
-    arabic: لِنَفۡسِى​ۚ‏
+    arabic: لِنَفۡسِي
     translation: for Myself
     transliteration: linafsī
 ---

@@ -1,73 +1,73 @@
 ---
-arabic_ayat: اَلَّذِيۡنَ اٰمَنُوۡا يُقَاتِلُوۡنَ فِىۡ سَبِيۡلِ اللّٰهِ​​ ۚ وَالَّذِيۡنَ
-  كَفَرُوۡا يُقَاتِلُوۡنَ فِىۡ سَبِيۡلِ الطَّاغُوۡتِ فَقَاتِلُوۡۤا اَوۡلِيَآءَ الشَّيۡطٰنِ​ۚ
-  اِنَّ كَيۡدَ الشَّيۡطٰنِ كَانَ ضَعِيۡفًا‏
+arabic_ayat: ٱلَّذِينَ ءَامَنُواْ يُقَٰتِلُونَ فِي سَبِيلِ ٱللَّهِۖ وَٱلَّذِينَ كَفَرُواْ
+  يُقَٰتِلُونَ فِي سَبِيلِ ٱلطَّٰغُوتِ فَقَٰتِلُوٓاْ أَوۡلِيَآءَ ٱلشَّيۡطَٰنِۖ إِنَّ
+  كَيۡدَ ٱلشَّيۡطَٰنِ كَانَ ضَعِيفًا
 sentence_translation: Believers fight for the cause of Allah, whereas disbelievers
   fight for the cause of the Devil. So fight against Satan’s ˹evil˺ forces. Indeed,
   Satan’s schemes are ever weak.
 word_by_word:
   1:
-    arabic: اَلَّذِيۡنَ
+    arabic: ٱلَّذِينَ ءَ
     translation: Those who
     transliteration: alladhīna
   2:
-    arabic: اٰمَنُوۡا
+    arabic: امَنُواْ
     translation: believe
     transliteration: āmanū
   3:
-    arabic: يُقَاتِلُوۡنَ
+    arabic: يُقَٰتِلُونَ
     translation: they fight
     transliteration: yuqātilūna
   4:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   5:
-    arabic: سَبِيۡلِ
+    arabic: سَبِيلِ
     translation: (the) way
     transliteration: sabīli
   6:
-    arabic: اللّٰهِ​​ ۚ
+    arabic: ٱللَّهِۖ
     translation: (of) Allah
     transliteration: l-lahi
   7:
-    arabic: وَالَّذِيۡنَ
+    arabic: وَٱلَّذِينَ
     translation: and those
     transliteration: wa-alladhīna
   8:
-    arabic: كَفَرُوۡا
+    arabic: كَفَرُواْ
     translation: who disbelieve
     transliteration: kafarū
   9:
-    arabic: يُقَاتِلُوۡنَ
+    arabic: يُقَٰتِلُونَ
     translation: they fight
     transliteration: yuqātilūna
   10:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   11:
-    arabic: سَبِيۡلِ
+    arabic: سَبِيلِ
     translation: (the) way
     transliteration: sabīli
   12:
-    arabic: الطَّاغُوۡتِ
+    arabic: ٱلطَّٰغُوتِ
     translation: (of) the false deities
     transliteration: l-ṭāghūti
   13:
-    arabic: فَقَاتِلُوۡۤا
+    arabic: فَقَٰتِلُوٓاْ
     translation: So fight (against)
     transliteration: faqātilū
   14:
-    arabic: اَوۡلِيَآءَ
+    arabic: أَوۡلِيَآءَ
     translation: (the) friends
     transliteration: awliyāa
   15:
-    arabic: الشَّيۡطٰنِ​ۚ
+    arabic: ٱلشَّيۡطَٰنِۖ
     translation: (of) the Shaitaan
     transliteration: l-shayṭāni
   16:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   17:
@@ -75,7 +75,7 @@ word_by_word:
     translation: (the) strategy
     transliteration: kayda
   18:
-    arabic: الشَّيۡطٰنِ
+    arabic: ٱلشَّيۡطَٰنِ
     translation: (of) the Shaitaan
     transliteration: l-shayṭāni
   19:
@@ -83,7 +83,7 @@ word_by_word:
     translation: is
     transliteration: kāna
   20:
-    arabic: ضَعِيۡفًا‏
+    arabic: ضَعِيفًا
     translation: weak
     transliteration: ḍaʿīfan
 ---

@@ -1,13 +1,13 @@
 ---
-arabic_ayat: فَالتّٰلِيٰتِ ذِكۡرًا ۙ‏
+arabic_ayat: فَٱلتَّٰلِيَٰتِ ذِكۡرًا
 sentence_translation: and those who recite the Reminder!
 word_by_word:
   1:
-    arabic: فَالتّٰلِيٰتِ
+    arabic: فَٱلتَّٰلِيَٰتِ
     translation: And those who recite
     transliteration: fal-tāliyāti
   2:
-    arabic: ذِكۡرًا ۙ‏
+    arabic: ذِكۡرًا
     translation: (the) Message
     transliteration: dhik'ran
 ---

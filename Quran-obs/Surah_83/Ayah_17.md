@@ -1,5 +1,5 @@
 ---
-arabic_ayat: ثُمَّ يُقَالُ هٰذَا الَّذِىۡ كُنۡتُمۡ بِهٖ تُكَذِّبُوۡنَؕ‏
+arabic_ayat: ثُمَّ يُقَالُ هَٰذَا ٱلَّذِي كُنتُم بِهِۦ تُكَذِّبُونَ
 sentence_translation: and then be told, “This is what you used to deny.”
 word_by_word:
   1:
@@ -11,23 +11,23 @@ word_by_word:
     translation: it will be said
     transliteration: yuqālu
   3:
-    arabic: هٰذَا
+    arabic: هَٰذَا
     translation: This
     transliteration: hādhā
   4:
-    arabic: الَّذِىۡ
+    arabic: ٱلَّذِي
     translation: (is) what
     transliteration: alladhī
   5:
-    arabic: كُنۡتُمۡ
+    arabic: كُنتُم
     translation: you used to
     transliteration: kuntum
   6:
-    arabic: بِهٖ
+    arabic: بِهِۦ
     translation: '[of it]'
     transliteration: bihi
   7:
-    arabic: تُكَذِّبُوۡنَؕ‏
+    arabic: تُكَذِّبُونَ
     translation: deny
     transliteration: tukadhibūna
 ---

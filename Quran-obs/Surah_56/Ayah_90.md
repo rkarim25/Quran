@@ -1,13 +1,13 @@
 ---
-arabic_ayat: وَاَمَّاۤ اِنۡ كَانَ مِنۡ اَصۡحٰبِ الۡيَمِيۡنِۙ‏
+arabic_ayat: وَأَمَّآ إِن كَانَ مِنۡ أَصۡحَٰبِ ٱلۡيَمِينِ
 sentence_translation: And if the deceased is one of the people of the right,
 word_by_word:
   1:
-    arabic: وَاَمَّاۤ
+    arabic: وَأَمَّآ
     translation: And
     transliteration: wa-ammā
   2:
-    arabic: اِنۡ
+    arabic: إِن
     translation: if
     transliteration: in
   3:
@@ -19,11 +19,11 @@ word_by_word:
     translation: of
     transliteration: min
   5:
-    arabic: اَصۡحٰبِ
+    arabic: أَصۡحَٰبِ
     translation: (the) companions
     transliteration: aṣḥābi
   6:
-    arabic: الۡيَمِيۡنِۙ‏
+    arabic: ٱلۡيَمِينِ
     translation: (of) the right
     transliteration: l-yamīni
 ---

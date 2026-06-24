@@ -1,6 +1,6 @@
 ---
-arabic_ayat: وَلَا تَجۡعَلُوا اللّٰهَ عُرۡضَةً لِّاَيۡمَانِکُمۡ اَنۡ تَبَرُّوۡا وَتَتَّقُوۡا
-  وَتُصۡلِحُوۡا بَيۡنَ النَّاسِ​ؕ وَاللّٰهُ سَمِيۡعٌ عَلِيۡمٌ‏
+arabic_ayat: وَلَا تَجۡعَلُواْ ٱللَّهَ عُرۡضَةٗ لِّأَيۡمَٰنِكُمۡ أَن تَبَرُّواْ وَتَتَّقُواْ
+  وَتُصۡلِحُواْ بَيۡنَ ٱلنَّاسِۚ وَٱللَّهُ سَمِيعٌ عَلِيمٞ
 sentence_translation: Do not use Allah’s Name in your oaths as an excuse for not doing
   good, not guarding against evil, or not making peace between people. And Allah is
   All-Hearing, All-Knowing.
@@ -10,35 +10,35 @@ word_by_word:
     translation: And (do) not
     transliteration: walā
   2:
-    arabic: تَجۡعَلُوا
+    arabic: تَجۡعَلُواْ
     translation: make
     transliteration: tajʿalū
   3:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah's (name)
     transliteration: l-laha
   4:
-    arabic: عُرۡضَةً
+    arabic: عُرۡضَةٗ
     translation: an excuse
     transliteration: ʿur'ḍatan
   5:
-    arabic: لِّاَيۡمَانِکُمۡ
+    arabic: لِّأَيۡمَٰنِكُمۡ
     translation: in your oaths
     transliteration: li-aymānikum
   6:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that
     transliteration: an
   7:
-    arabic: تَبَرُّوۡا
+    arabic: تَبَرُّواْ
     translation: you do good
     transliteration: tabarrū
   8:
-    arabic: وَتَتَّقُوۡا
+    arabic: وَتَتَّقُواْ
     translation: and be righteous
     transliteration: watattaqū
   9:
-    arabic: وَتُصۡلِحُوۡا
+    arabic: وَتُصۡلِحُواْ
     translation: and make peace
     transliteration: watuṣ'liḥū
   10:
@@ -46,19 +46,19 @@ word_by_word:
     translation: between
     transliteration: bayna
   11:
-    arabic: النَّاسِ​ؕ
+    arabic: ٱلنَّاسِۚ
     translation: '[the] people'
     transliteration: l-nāsi
   12:
-    arabic: وَاللّٰهُ
+    arabic: وَٱللَّهُ
     translation: And Allah
     transliteration: wal-lahu
   13:
-    arabic: سَمِيۡعٌ
+    arabic: سَمِيعٌ
     translation: (is) All-Hearing
     transliteration: samīʿun
   14:
-    arabic: عَلِيۡمٌ‏
+    arabic: عَلِيمٞ
     translation: All-Knowing
     transliteration: ʿalīmun
 ---

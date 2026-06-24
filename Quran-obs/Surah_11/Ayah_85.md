@@ -1,27 +1,27 @@
 ---
-arabic_ayat: وَيٰقَوۡمِ اَوۡفُوا الۡمِكۡيَالَ وَالۡمِيۡزَانَ بِالۡقِسۡطِ​ وَلَا تَبۡخَسُوا
-  النَّاسَ اَشۡيَآءَهُمۡ وَلَا تَعۡثَوۡا فِى الۡاَرۡضِ مُفۡسِدِيۡنَ‏
+arabic_ayat: وَيَٰقَوۡمِ أَوۡفُواْ ٱلۡمِكۡيَالَ وَٱلۡمِيزَانَ بِٱلۡقِسۡطِۖ وَلَا تَبۡخَسُواْ
+  ٱلنَّاسَ أَشۡيَآءَهُمۡ وَلَا تَعۡثَوۡاْ فِي ٱلۡأَرۡضِ مُفۡسِدِينَ
 sentence_translation: O  my people! Give full measure and weigh with justice. Do not
   defraud people of their property, nor go about spreading corruption in the land.
 word_by_word:
   1:
-    arabic: وَيٰقَوۡمِ
+    arabic: وَيَٰقَوۡمِ
     translation: And O my people
     transliteration: wayāqawmi
   2:
-    arabic: اَوۡفُوا
+    arabic: أَوۡفُواْ
     translation: Give full
     transliteration: awfū
   3:
-    arabic: الۡمِكۡيَالَ
+    arabic: ٱلۡمِكۡيَالَ
     translation: measure
     transliteration: l-mik'yāla
   4:
-    arabic: وَالۡمِيۡزَانَ
+    arabic: وَٱلۡمِيزَانَ
     translation: and weight
     transliteration: wal-mīzāna
   5:
-    arabic: بِالۡقِسۡطِ​
+    arabic: بِٱلۡقِسۡطِۖ
     translation: in justice
     transliteration: bil-qis'ṭi
   6:
@@ -29,15 +29,15 @@ word_by_word:
     translation: and (do) not
     transliteration: walā
   7:
-    arabic: تَبۡخَسُوا
+    arabic: تَبۡخَسُواْ
     translation: deprive
     transliteration: tabkhasū
   8:
-    arabic: النَّاسَ
+    arabic: ٱلنَّاسَ
     translation: the people
     transliteration: l-nāsa
   9:
-    arabic: اَشۡيَآءَهُمۡ
+    arabic: أَشۡيَآءَهُمۡ
     translation: (of) their things
     transliteration: ashyāahum
   10:
@@ -45,19 +45,19 @@ word_by_word:
     translation: and (do) not
     transliteration: walā
   11:
-    arabic: تَعۡثَوۡا
+    arabic: تَعۡثَوۡاْ
     translation: act wickedly
     transliteration: taʿthaw
   12:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   13:
-    arabic: الۡاَرۡضِ
+    arabic: ٱلۡأَرۡضِ
     translation: the earth
     transliteration: l-arḍi
   14:
-    arabic: مُفۡسِدِيۡنَ‏
+    arabic: مُفۡسِدِينَ
     translation: spreading corruption
     transliteration: muf'sidīna
 ---

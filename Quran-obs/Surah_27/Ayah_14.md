@@ -1,12 +1,12 @@
 ---
-arabic_ayat: وَجَحَدُوۡا بِهَا وَاسۡتَيۡقَنَـتۡهَاۤ اَنۡفُسُهُمۡ ظُلۡمًا وَّعُلُوًّا​
-  ؕ فَانْظُرۡ كَيۡفَ كَانَ عَاقِبَةُ الۡمُفۡسِدِيۡنَ‏
+arabic_ayat: وَجَحَدُواْ بِهَا وَٱسۡتَيۡقَنَتۡهَآ أَنفُسُهُمۡ ظُلۡمٗا وَعُلُوّٗاۚ
+  فَٱنظُرۡ كَيۡفَ كَانَ عَٰقِبَةُ ٱلۡمُفۡسِدِينَ
 sentence_translation: And, although their hearts were convinced the signs were true,
   they still denied them wrongfully and arrogantly. See then what was the end of the
   corruptors!
 word_by_word:
   1:
-    arabic: وَجَحَدُوۡا
+    arabic: وَجَحَدُواْ
     translation: And they rejected
     transliteration: wajaḥadū
   2:
@@ -14,23 +14,23 @@ word_by_word:
     translation: them
     transliteration: bihā
   3:
-    arabic: وَاسۡتَيۡقَنَـتۡهَاۤ
+    arabic: وَٱسۡتَيۡقَنَتۡهَآ
     translation: though were convinced with them (signs)
     transliteration: wa-is'tayqanathā
   4:
-    arabic: اَنۡفُسُهُمۡ
+    arabic: أَنفُسُهُمۡ
     translation: themselves
     transliteration: anfusuhum
   5:
-    arabic: ظُلۡمًا
+    arabic: ظُلۡمٗا
     translation: (out of) injustice
     transliteration: ẓul'man
   6:
-    arabic: وَّعُلُوًّا​ ؕ
+    arabic: وَعُلُوّٗاۚ
     translation: and haughtiness
     transliteration: waʿuluwwan
   7:
-    arabic: فَانْظُرۡ
+    arabic: فَٱنظُرۡ
     translation: So see
     transliteration: fa-unẓur
   8:
@@ -42,11 +42,11 @@ word_by_word:
     translation: was
     transliteration: kāna
   10:
-    arabic: عَاقِبَةُ
+    arabic: عَٰقِبَةُ
     translation: (the) end
     transliteration: ʿāqibatu
   11:
-    arabic: الۡمُفۡسِدِيۡنَ‏
+    arabic: ٱلۡمُفۡسِدِينَ
     translation: (of) the corrupters
     transliteration: l-muf'sidīna
 ---

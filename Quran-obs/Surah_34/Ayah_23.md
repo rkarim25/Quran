@@ -1,7 +1,7 @@
 ---
-arabic_ayat: وَلَا تَنۡفَعُ الشَّفَاعَةُ عِنۡدَهٗۤ اِلَّا لِمَنۡ اَذِنَ لَهٗ ؕ حَتّٰٓى
-  اِذَا فُزِّعَ عَنۡ قُلُوۡبِهِمۡ قَالُوۡا مَاذَا ۙ قَالَ رَبُّكُمۡ ؕ قَالُوا الۡحَـقَّ
-  ۚ وَهُوَ الۡعَلِىُّ الۡكَبِيۡرُ‏
+arabic_ayat: وَلَا تَنفَعُ ٱلشَّفَٰعَةُ عِندَهُۥٓ إِلَّا لِمَنۡ أَذِنَ لَهُۥۚ حَتَّىٰٓ
+  إِذَا فُزِّعَ عَن قُلُوبِهِمۡ قَالُواْ مَاذَا قَالَ رَبُّكُمۡۖ قَالُواْ ٱلۡحَقَّۖ
+  وَهُوَ ٱلۡعَلِيُّ ٱلۡكَبِيرُ
 sentence_translation: No intercession will be of any benefit with Him, except by those
   granted permission by Him. ˹At last,˺ when the dread ˹of Judgment Day˺ is relieved
   from their hearts ˹because they are permitted to intercede˺, they will ˹excitedly˺
@@ -13,19 +13,19 @@ word_by_word:
     translation: And not
     transliteration: walā
   2:
-    arabic: تَنۡفَعُ
+    arabic: تَنفَعُ
     translation: benefits
     transliteration: tanfaʿu
   3:
-    arabic: الشَّفَاعَةُ
+    arabic: ٱلشَّفَٰعَةُ
     translation: the intercession
     transliteration: l-shafāʿatu
   4:
-    arabic: عِنۡدَهٗۤ
+    arabic: عِندَهُۥٓ
     translation: with Him
     transliteration: ʿindahu
   5:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   6:
@@ -33,19 +33,19 @@ word_by_word:
     translation: for (one) whom
     transliteration: liman
   7:
-    arabic: اَذِنَ
+    arabic: أَذِنَ
     translation: He permits
     transliteration: adhina
   8:
-    arabic: لَهٗ ؕ
+    arabic: لَهُۥۚ
     translation: for him
     transliteration: lahu
   9:
-    arabic: حَتّٰٓى
+    arabic: حَتَّىٰٓ
     translation: Until
     transliteration: ḥattā
   10:
-    arabic: اِذَا
+    arabic: إِذَا
     translation: when
     transliteration: idhā
   11:
@@ -53,19 +53,19 @@ word_by_word:
     translation: fear is removed
     transliteration: fuzziʿa
   12:
-    arabic: عَنۡ
+    arabic: عَن
     translation: 'on'
     transliteration: ʿan
   13:
-    arabic: قُلُوۡبِهِمۡ
+    arabic: قُلُوبِهِمۡ
     translation: their hearts
     transliteration: qulūbihim
   14:
-    arabic: قَالُوۡا
+    arabic: قَالُواْ
     translation: they will say
     transliteration: qālū
   15:
-    arabic: مَاذَا ۙ
+    arabic: مَاذَا
     translation: 'What is that '
     transliteration: mādhā
   16:
@@ -73,15 +73,15 @@ word_by_word:
     translation: your Lord has said
     transliteration: qāla
   17:
-    arabic: رَبُّكُمۡ ؕ
+    arabic: رَبُّكُمۡۖ
     translation: your Lord has said
     transliteration: rabbukum
   18:
-    arabic: قَالُوا
+    arabic: قَالُواْ
     translation: They will say
     transliteration: qālū
   19:
-    arabic: الۡحَـقَّ ۚ
+    arabic: ٱلۡحَقَّۖ
     translation: The truth
     transliteration: l-ḥaqa
   20:
@@ -89,11 +89,11 @@ word_by_word:
     translation: And He
     transliteration: wahuwa
   21:
-    arabic: الۡعَلِىُّ
+    arabic: ٱلۡعَلِيُّ
     translation: (is) the Most High
     transliteration: l-ʿaliyu
   22:
-    arabic: الۡكَبِيۡرُ‏
+    arabic: ٱلۡكَبِيرُ
     translation: the Most Great
     transliteration: l-kabīru
 ---

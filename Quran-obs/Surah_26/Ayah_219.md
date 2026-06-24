@@ -1,5 +1,5 @@
 ---
-arabic_ayat: وَتَقَلُّبَكَ فِى السّٰجِدِيۡنَ‏
+arabic_ayat: وَتَقَلُّبَكَ فِي ٱلسَّٰجِدِينَ
 sentence_translation: as well as your movements ˹in prayer˺ along with ˹fellow˺ worshippers.
 word_by_word:
   1:
@@ -7,11 +7,11 @@ word_by_word:
     translation: And your movements
     transliteration: wataqallubaka
   2:
-    arabic: فِى
+    arabic: فِي
     translation: among
     transliteration: fī
   3:
-    arabic: السّٰجِدِيۡنَ‏
+    arabic: ٱلسَّٰجِدِينَ
     translation: those who prostrate
     transliteration: l-sājidīna
 ---

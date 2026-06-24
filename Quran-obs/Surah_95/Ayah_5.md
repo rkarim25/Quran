@@ -1,5 +1,5 @@
 ---
-arabic_ayat: ثُمَّ رَدَدۡنٰهُ اَسۡفَلَ سَافِلِيۡنَۙ‏
+arabic_ayat: ثُمَّ رَدَدۡنَٰهُ أَسۡفَلَ سَٰفِلِينَ
 sentence_translation: But We will reduce them to the lowest of the low ˹in Hell˺,
 word_by_word:
   1:
@@ -7,15 +7,15 @@ word_by_word:
     translation: Then
     transliteration: thumma
   2:
-    arabic: رَدَدۡنٰهُ
+    arabic: رَدَدۡنَٰهُ
     translation: We returned him
     transliteration: radadnāhu
   3:
-    arabic: اَسۡفَلَ
+    arabic: أَسۡفَلَ
     translation: (to the) lowest
     transliteration: asfala
   4:
-    arabic: سَافِلِيۡنَۙ‏
+    arabic: سَٰفِلِينَ
     translation: (of the) low
     transliteration: sāfilīna
 ---

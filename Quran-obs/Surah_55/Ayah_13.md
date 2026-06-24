@@ -1,14 +1,14 @@
 ---
-arabic_ayat: فَبِاَىِّ اٰلَاۤءِ رَبِّكُمَا تُكَذِّبٰنِ‏
+arabic_ayat: فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ
 sentence_translation: Then which of your Lord’s favours will you ˹humans and jinn˺
   both deny? 
 word_by_word:
   1:
-    arabic: فَبِاَىِّ
+    arabic: فَبِأَيِّ ءَ
     translation: So which
     transliteration: fabi-ayyi
   2:
-    arabic: اٰلَاۤءِ
+    arabic: الَآءِ
     translation: (of the) favors
     transliteration: ālāi
   3:
@@ -16,7 +16,7 @@ word_by_word:
     translation: (of) your Lord
     transliteration: rabbikumā
   4:
-    arabic: تُكَذِّبٰنِ‏
+    arabic: تُكَذِّبَانِ
     translation: will you both deny
     transliteration: tukadhibāni
 ---

@@ -1,51 +1,51 @@
 ---
-arabic_ayat: وَلِلّٰهِ يَسۡجُدُ مَنۡ فِى السَّمٰوٰتِ وَالۡاَرۡضِ طَوۡعًا وَّكَرۡهًا
-  وَّظِلٰلُهُمۡ بِالۡغُدُوِّ وَالۡاٰصَالِ ۩‏
+arabic_ayat: وَلِلَّهِۤ يَسۡجُدُۤ مَن فِي ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِ طَوۡعٗا وَكَرۡهٗا
+  وَظِلَٰلُهُم بِٱلۡغُدُوِّ وَٱلۡأٓصَالِ۩
 sentence_translation: To Allah ˹alone˺ bow down ˹in submission˺ all those in the heavens
   and the earth—willingly or unwillingly—as do their shadows, morning and evening.
 word_by_word:
   1:
-    arabic: وَلِلّٰهِ
+    arabic: وَلِلَّهِۤ
     translation: And to Allah
     transliteration: walillahi
   2:
-    arabic: يَسۡجُدُ
+    arabic: يَسۡجُدُۤ
     translation: prostrates
     transliteration: yasjudu
   3:
-    arabic: مَنۡ
+    arabic: مَن
     translation: whoever
     transliteration: man
   4:
-    arabic: فِى
+    arabic: فِي
     translation: (is) in
     transliteration: fī
   5:
-    arabic: السَّمٰوٰتِ
+    arabic: ٱلسَّمَٰوَٰتِ
     translation: the heavens
     transliteration: l-samāwāti
   6:
-    arabic: وَالۡاَرۡضِ
+    arabic: وَٱلۡأَرۡضِ
     translation: and the earth
     transliteration: wal-arḍi
   7:
-    arabic: طَوۡعًا
+    arabic: طَوۡعٗا
     translation: willingly
     transliteration: ṭawʿan
   8:
-    arabic: وَّكَرۡهًا
+    arabic: وَكَرۡهٗا
     translation: or unwillingly
     transliteration: wakarhan
   9:
-    arabic: وَّظِلٰلُهُمۡ
+    arabic: وَظِلَٰلُهُم
     translation: and (so do) their shadows
     transliteration: waẓilāluhum
   10:
-    arabic: بِالۡغُدُوِّ
+    arabic: بِٱلۡغُدُوِّ
     translation: in the mornings
     transliteration: bil-ghuduwi
   11:
-    arabic: وَالۡاٰصَالِ ۩
+    arabic: وَٱلۡأٓصَالِ۩
     translation: and in the afternoons
     transliteration: wal-āṣāli
 ---

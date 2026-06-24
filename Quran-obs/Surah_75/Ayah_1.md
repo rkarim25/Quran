@@ -1,13 +1,13 @@
 ---
-arabic_ayat: لَاۤ اُقۡسِمُ بِيَوۡمِ الۡقِيٰمَةِۙ‏
+arabic_ayat: لَآ أُقۡسِمُ بِيَوۡمِ ٱلۡقِيَٰمَةِ
 sentence_translation: I do swear by the Day of Judgment!
 word_by_word:
   1:
-    arabic: لَاۤ
+    arabic: لَآ
     translation: Nay
     transliteration: lā
   2:
-    arabic: اُقۡسِمُ
+    arabic: أُقۡسِمُ
     translation: I swear
     transliteration: uq'simu
   3:
@@ -15,7 +15,7 @@ word_by_word:
     translation: by (the) Day
     transliteration: biyawmi
   4:
-    arabic: الۡقِيٰمَةِۙ‏
+    arabic: ٱلۡقِيَٰمَةِ
     translation: (of) the Resurrection
     transliteration: l-qiyāmati
 ---

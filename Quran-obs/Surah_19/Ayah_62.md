@@ -1,6 +1,6 @@
 ---
-arabic_ayat: لَّا يَسۡمَعُوۡنَ فِيۡهَا لَـغۡوًا اِلَّا سَلٰمًا​ؕ وَلَهُمۡ رِزۡقُهُمۡ
-  فِيۡهَا بُكۡرَةً وَّعَشِيًّا‏
+arabic_ayat: لَّا يَسۡمَعُونَ فِيهَا لَغۡوًا إِلَّا سَلَٰمٗاۖ وَلَهُمۡ رِزۡقُهُمۡ
+  فِيهَا بُكۡرَةٗ وَعَشِيّٗا
 sentence_translation: There they will never hear any idle talk—only ˹greetings of˺
   peace. And there they will have their provisions morning and evening.
 word_by_word:
@@ -9,23 +9,23 @@ word_by_word:
     translation: Not
     transliteration: lā
   2:
-    arabic: يَسۡمَعُوۡنَ
+    arabic: يَسۡمَعُونَ
     translation: they will hear
     transliteration: yasmaʿūna
   3:
-    arabic: فِيۡهَا
+    arabic: فِيهَا
     translation: therein
     transliteration: fīhā
   4:
-    arabic: لَـغۡوًا
+    arabic: لَغۡوًا
     translation: vain talk
     transliteration: laghwan
   5:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: but
     transliteration: illā
   6:
-    arabic: سَلٰمًا​ؕ
+    arabic: سَلَٰمٗاۖ
     translation: peace
     transliteration: salāman
   7:
@@ -37,15 +37,15 @@ word_by_word:
     translation: (is) their provision
     transliteration: riz'quhum
   9:
-    arabic: فِيۡهَا
+    arabic: فِيهَا
     translation: therein
     transliteration: fīhā
   10:
-    arabic: بُكۡرَةً
+    arabic: بُكۡرَةٗ
     translation: morning
     transliteration: buk'ratan
   11:
-    arabic: وَّعَشِيًّا‏
+    arabic: وَعَشِيّٗا
     translation: and evening
     transliteration: waʿashiyyan
 ---

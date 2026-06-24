@@ -1,6 +1,6 @@
 ---
-arabic_ayat: يُنَزِّلُ الۡمَلٰۤٮِٕكَةَ بِالرُّوۡحِ مِنۡ اَمۡرِهٖ عَلٰى مَنۡ يَّشَآءُ
-  مِنۡ عِبَادِهٖۤ اَنۡ اَنۡذِرُوۡۤا اَنَّهٗ لَاۤ اِلٰهَ اِلَّاۤ اَنَا فَاتَّقُوۡنِ‏
+arabic_ayat: يُنَزِّلُ ٱلۡمَلَٰٓئِكَةَ بِٱلرُّوحِ مِنۡ أَمۡرِهِۦ عَلَىٰ مَن يَشَآءُ
+  مِنۡ عِبَادِهِۦٓ أَنۡ أَنذِرُوٓاْ أَنَّهُۥ لَآ إِلَٰهَ إِلَّآ أَنَا۠ فَٱتَّقُونِ
 sentence_translation: He sends down the angels with revelation by His command to whoever
   He wills of His servants, ˹stating:˺ “Warn ˹humanity˺ that there is no god ˹worthy
   of worship˺ except Me, so be mindful of Me ˹alone˺.”
@@ -10,11 +10,11 @@ word_by_word:
     translation: He sends down
     transliteration: yunazzilu
   2:
-    arabic: الۡمَلٰۤٮِٕكَةَ
+    arabic: ٱلۡمَلَٰٓئِكَةَ
     translation: the Angels
     transliteration: l-malāikata
   3:
-    arabic: بِالرُّوۡحِ
+    arabic: بِٱلرُّوحِ
     translation: with the inspiration
     transliteration: bil-rūḥi
   4:
@@ -22,19 +22,19 @@ word_by_word:
     translation: of
     transliteration: min
   5:
-    arabic: اَمۡرِهٖ
+    arabic: أَمۡرِهِۦ
     translation: His Command
     transliteration: amrihi
   6:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: upon
     transliteration: ʿalā
   7:
-    arabic: مَنۡ
+    arabic: مَن
     translation: whom
     transliteration: man
   8:
-    arabic: يَّشَآءُ
+    arabic: يَشَآءُ
     translation: He wills
     transliteration: yashāu
   9:
@@ -42,39 +42,39 @@ word_by_word:
     translation: of
     transliteration: min
   10:
-    arabic: عِبَادِهٖۤ
+    arabic: عِبَادِهِۦٓ
     translation: His slaves
     transliteration: ʿibādihi
   11:
-    arabic: اَنۡ
+    arabic: أَنۡ
     translation: that
     transliteration: an
   12:
-    arabic: اَنۡذِرُوۡۤا
+    arabic: أَنذِرُوٓاْ
     translation: Warn
     transliteration: andhirū
   13:
-    arabic: اَنَّهٗ
+    arabic: أَنَّهُۥ
     translation: that [He]
     transliteration: annahu
   14:
-    arabic: لَاۤ
+    arabic: لَآ
     translation: (there is) no
     transliteration: lā
   15:
-    arabic: اِلٰهَ
+    arabic: إِلَٰهَ
     translation: god
     transliteration: ilāha
   16:
-    arabic: اِلَّاۤ
+    arabic: إِلَّآ
     translation: except
     transliteration: illā
   17:
-    arabic: اَنَا
+    arabic: أَنَا۠
     translation: Me
     transliteration: anā
   18:
-    arabic: فَاتَّقُوۡنِ‏
+    arabic: فَٱتَّقُونِ
     translation: so fear Me
     transliteration: fa-ittaqūni
 ---

@@ -1,26 +1,25 @@
 ---
-arabic_ayat: "اِدۡفَعۡ بِالَّتِىۡ هِىَ اَحۡسَنُ السَّيِّئَةَ​ ؕ نَحۡنُ اَعۡلَمُ بِمَا\
-  \ يَصِفُوۡنَ‏ \uFEFF\uFEFF"
+arabic_ayat: ٱدۡفَعۡ بِٱلَّتِي هِيَ أَحۡسَنُ ٱلسَّيِّئَةَۚ نَحۡنُ أَعۡلَمُ بِمَا يَصِفُونَ
 sentence_translation: Respond to evil with what is best. We know well what they claim.
 word_by_word:
   1:
-    arabic: اِدۡفَعۡ
+    arabic: ٱدۡفَعۡ
     translation: Repel
     transliteration: id'faʿ
   2:
-    arabic: بِالَّتِىۡ
+    arabic: بِٱلَّتِي
     translation: by that
     transliteration: bi-allatī
   3:
-    arabic: هِىَ
+    arabic: هِيَ
     translation: which
     transliteration: hiya
   4:
-    arabic: اَحۡسَنُ
+    arabic: أَحۡسَنُ
     translation: '(is) best '
     transliteration: aḥsanu
   5:
-    arabic: السَّيِّئَةَ​ ؕ
+    arabic: ٱلسَّيِّئَةَۚ
     translation: the evil
     transliteration: l-sayi-ata
   6:
@@ -28,7 +27,7 @@ word_by_word:
     translation: We
     transliteration: naḥnu
   7:
-    arabic: اَعۡلَمُ
+    arabic: أَعۡلَمُ
     translation: know best
     transliteration: aʿlamu
   8:
@@ -36,7 +35,7 @@ word_by_word:
     translation: of what
     transliteration: bimā
   9:
-    arabic: "يَصِفُوۡنَ‏ \uFEFF\uFEFF"
+    arabic: يَصِفُونَ
     translation: they attribute
     transliteration: yaṣifūna
 ---

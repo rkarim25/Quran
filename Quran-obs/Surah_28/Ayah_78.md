@@ -1,7 +1,7 @@
 ---
-arabic_ayat: قَالَ اِنَّمَاۤ اُوۡتِيۡتُهٗ عَلٰى عِلۡمٍ عِنۡدِىۡ​ؕ اَوَلَمۡ يَعۡلَمۡ
-  اَنَّ اللّٰهَ قَدۡ اَهۡلَكَ مِنۡ قَبۡلِهٖ مِنَ الۡقُرُوۡنِ مَنۡ هُوَ اَشَدُّ مِنۡهُ
-  قُوَّةً وَّاَكۡثَرُ جَمۡعًا​ؕ وَلَا يُسۡــَٔلُ عَنۡ ذُنُوۡبِهِمُ الۡمُجۡرِمُوۡنَ‏
+arabic_ayat: قَالَ إِنَّمَآ أُوتِيتُهُۥ عَلَىٰ عِلۡمٍ عِندِيٓۚ أَوَلَمۡ يَعۡلَمۡ
+  أَنَّ ٱللَّهَ قَدۡ أَهۡلَكَ مِن قَبۡلِهِۦ مِنَ ٱلۡقُرُونِ مَنۡ هُوَ أَشَدُّ مِنۡهُ
+  قُوَّةٗ وَأَكۡثَرُ جَمۡعٗاۚ وَلَا يُسۡـَٔلُ عَن ذُنُوبِهِمُ ٱلۡمُجۡرِمُونَ
 sentence_translation: He replied, “I have been granted all this because of some knowledge
   I have.” Did he not know that Allah had already destroyed some from the generations
   before him who were far superior to him in power and greater in accumulating ˹wealth˺?
@@ -12,15 +12,15 @@ word_by_word:
     translation: He said
     transliteration: qāla
   2:
-    arabic: اِنَّمَاۤ
+    arabic: إِنَّمَآ
     translation: Only
     transliteration: innamā
   3:
-    arabic: اُوۡتِيۡتُهٗ
+    arabic: أُوتِيتُهُۥ
     translation: I have been given it
     transliteration: ūtītuhu
   4:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: on (account)
     transliteration: ʿalā
   5:
@@ -28,11 +28,11 @@ word_by_word:
     translation: (of) knowledge
     transliteration: ʿil'min
   6:
-    arabic: عِنۡدِىۡ​ؕ
+    arabic: عِندِيٓۚ
     translation: I have
     transliteration: ʿindī
   7:
-    arabic: اَوَلَمۡ
+    arabic: أَوَلَمۡ
     translation: Did not
     transliteration: awalam
   8:
@@ -40,11 +40,11 @@ word_by_word:
     translation: he know
     transliteration: yaʿlam
   9:
-    arabic: اَنَّ
+    arabic: أَنَّ
     translation: that
     transliteration: anna
   10:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   11:
@@ -52,15 +52,15 @@ word_by_word:
     translation: indeed
     transliteration: qad
   12:
-    arabic: اَهۡلَكَ
+    arabic: أَهۡلَكَ
     translation: destroyed
     transliteration: ahlaka
   13:
-    arabic: مِنۡ
+    arabic: مِن
     translation: before him
     transliteration: min
   14:
-    arabic: قَبۡلِهٖ
+    arabic: قَبۡلِهِۦ
     translation: before him
     transliteration: qablihi
   15:
@@ -68,7 +68,7 @@ word_by_word:
     translation: of
     transliteration: mina
   16:
-    arabic: الۡقُرُوۡنِ
+    arabic: ٱلۡقُرُونِ
     translation: the generations
     transliteration: l-qurūni
   17:
@@ -80,7 +80,7 @@ word_by_word:
     translation: '[they]'
     transliteration: huwa
   19:
-    arabic: اَشَدُّ
+    arabic: أَشَدُّ
     translation: (were) stronger
     transliteration: ashaddu
   20:
@@ -88,15 +88,15 @@ word_by_word:
     translation: than him
     transliteration: min'hu
   21:
-    arabic: قُوَّةً
+    arabic: قُوَّةٗ
     translation: (in) strength
     transliteration: quwwatan
   22:
-    arabic: وَّاَكۡثَرُ
+    arabic: وَأَكۡثَرُ
     translation: and greater
     transliteration: wa-aktharu
   23:
-    arabic: جَمۡعًا​ؕ
+    arabic: جَمۡعٗاۚ
     translation: (in) accumulation
     transliteration: jamʿan
   24:
@@ -104,19 +104,19 @@ word_by_word:
     translation: And not
     transliteration: walā
   25:
-    arabic: يُسۡــَٔلُ
+    arabic: يُسۡـَٔلُ
     translation: will be questioned
     transliteration: yus'alu
   26:
-    arabic: عَنۡ
+    arabic: عَن
     translation: about
     transliteration: ʿan
   27:
-    arabic: ذُنُوۡبِهِمُ
+    arabic: ذُنُوبِهِمُ
     translation: their sins
     transliteration: dhunūbihimu
   28:
-    arabic: الۡمُجۡرِمُوۡنَ‏
+    arabic: ٱلۡمُجۡرِمُونَ
     translation: the criminals
     transliteration: l-muj'rimūna
 ---

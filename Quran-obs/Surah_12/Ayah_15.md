@@ -1,7 +1,7 @@
 ---
-arabic_ayat: "فَلَمَّا ذَهَبُوۡا بِهٖ وَاَجۡمَعُوۡۤا اَنۡ يَّجۡعَلُوۡهُ فِىۡ غَيٰبَتِ\
-  \ الۡجُبِّ​ۚ وَاَوۡحَيۡنَاۤ اِلَيۡهِ لَـتُنَـبِّئَـنَّهُمۡ بِاَمۡرِهِمۡ هٰذَا وَهُمۡ\
-  \ لَا يَشۡعُرُوۡنَ‏ \uFEFF\uFEFF"
+arabic_ayat: فَلَمَّا ذَهَبُواْ بِهِۦ وَأَجۡمَعُوٓاْ أَن يَجۡعَلُوهُ فِي غَيَٰبَتِ
+  ٱلۡجُبِّۚ وَأَوۡحَيۡنَآ إِلَيۡهِ لَتُنَبِّئَنَّهُم بِأَمۡرِهِمۡ هَٰذَا وَهُمۡ لَا
+  يَشۡعُرُونَ
 sentence_translation: 'And so, when they took him away and decided to throw him into
   the bottom of the well, We inspired him: “˹One day˺ you will remind them of this
   deed of theirs while they are unaware ˹of who you are˺.”'
@@ -11,55 +11,55 @@ word_by_word:
     translation: So when
     transliteration: falammā
   2:
-    arabic: ذَهَبُوۡا
+    arabic: ذَهَبُواْ
     translation: they took him
     transliteration: dhahabū
   3:
-    arabic: بِهٖ
+    arabic: بِهِۦ
     translation: they took him
     transliteration: bihi
   4:
-    arabic: وَاَجۡمَعُوۡۤا
+    arabic: وَأَجۡمَعُوٓاْ
     translation: and agreed
     transliteration: wa-ajmaʿū
   5:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that
     transliteration: an
   6:
-    arabic: يَّجۡعَلُوۡهُ
+    arabic: يَجۡعَلُوهُ
     translation: they put him
     transliteration: yajʿalūhu
   7:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   8:
-    arabic: غَيٰبَتِ
+    arabic: غَيَٰبَتِ
     translation: (the) bottom
     transliteration: ghayābati
   9:
-    arabic: الۡجُبِّ​ۚ
+    arabic: ٱلۡجُبِّۚ
     translation: (of) the well
     transliteration: l-jubi
   10:
-    arabic: وَاَوۡحَيۡنَاۤ
+    arabic: وَأَوۡحَيۡنَآ
     translation: But We inspired
     transliteration: wa-awḥaynā
   11:
-    arabic: اِلَيۡهِ
+    arabic: إِلَيۡهِ
     translation: to him
     transliteration: ilayhi
   12:
-    arabic: لَـتُنَـبِّئَـنَّهُمۡ
+    arabic: لَتُنَبِّئَنَّهُم
     translation: Surely, you will inform them
     transliteration: latunabbi-annahum
   13:
-    arabic: بِاَمۡرِهِمۡ
+    arabic: بِأَمۡرِهِمۡ
     translation: about this affair
     transliteration: bi-amrihim
   14:
-    arabic: هٰذَا
+    arabic: هَٰذَا
     translation: about this affair
     transliteration: hādhā
   15:
@@ -71,7 +71,7 @@ word_by_word:
     translation: (do) not
     transliteration: lā
   17:
-    arabic: "يَشۡعُرُوۡنَ‏ \uFEFF\uFEFF"
+    arabic: يَشۡعُرُونَ
     translation: perceive
     transliteration: yashʿurūna
 ---

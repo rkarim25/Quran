@@ -1,41 +1,41 @@
 ---
-arabic_ayat: اِنَّ الَّذِيۡنَ يَكۡفُرُوۡنَ بِاللّٰهِ وَرُسُلِهٖ وَيُرِيۡدُوۡنَ اَنۡ
-  يُّفَرِّقُوۡا بَيۡنَ اللّٰهِ وَرُسُلِهٖ وَيَقُوۡلُوۡنَ نُؤۡمِنُ بِبَعۡضٍ وَّنَكۡفُرُ
-  بِبَعۡضٍۙ وَّيُرِيۡدُوۡنَ اَنۡ يَّتَّخِذُوۡا بَيۡنَ ذٰ لِكَ سَبِيۡلًا ۙ‏
+arabic_ayat: إِنَّ ٱلَّذِينَ يَكۡفُرُونَ بِٱللَّهِ وَرُسُلِهِۦ وَيُرِيدُونَ أَن يُفَرِّقُواْ
+  بَيۡنَ ٱللَّهِ وَرُسُلِهِۦ وَيَقُولُونَ نُؤۡمِنُ بِبَعۡضٖ وَنَكۡفُرُ بِبَعۡضٖ وَيُرِيدُونَ
+  أَن يَتَّخِذُواْ بَيۡنَ ذَٰلِكَ سَبِيلًا
 sentence_translation: Surely those who deny Allah and His messengers and wish to make
   a distinction between Allah and His messengers, saying, “We believe in some and
   disbelieve in others,” desiring to forge a compromise,
 word_by_word:
   1:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   3:
-    arabic: يَكۡفُرُوۡنَ
+    arabic: يَكۡفُرُونَ
     translation: disbelieve
     transliteration: yakfurūna
   4:
-    arabic: بِاللّٰهِ
+    arabic: بِٱللَّهِ
     translation: in Allah
     transliteration: bil-lahi
   5:
-    arabic: وَرُسُلِهٖ
+    arabic: وَرُسُلِهِۦ
     translation: and His Messengers
     transliteration: warusulihi
   6:
-    arabic: وَيُرِيۡدُوۡنَ
+    arabic: وَيُرِيدُونَ
     translation: and they wish
     transliteration: wayurīdūna
   7:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that
     transliteration: an
   8:
-    arabic: يُّفَرِّقُوۡا
+    arabic: يُفَرِّقُواْ
     translation: they differentiate
     transliteration: yufarriqū
   9:
@@ -43,15 +43,15 @@ word_by_word:
     translation: between
     transliteration: bayna
   10:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   11:
-    arabic: وَرُسُلِهٖ
+    arabic: وَرُسُلِهِۦ
     translation: and His Messengers
     transliteration: warusulihi
   12:
-    arabic: وَيَقُوۡلُوۡنَ
+    arabic: وَيَقُولُونَ
     translation: and they say
     transliteration: wayaqūlūna
   13:
@@ -59,27 +59,27 @@ word_by_word:
     translation: We believe
     transliteration: nu'minu
   14:
-    arabic: بِبَعۡضٍ
+    arabic: بِبَعۡضٖ
     translation: in some
     transliteration: bibaʿḍin
   15:
-    arabic: وَّنَكۡفُرُ
+    arabic: وَنَكۡفُرُ
     translation: and we disbelieve
     transliteration: wanakfuru
   16:
-    arabic: بِبَعۡضٍۙ
+    arabic: بِبَعۡضٖ
     translation: in others
     transliteration: bibaʿḍin
   17:
-    arabic: وَّيُرِيۡدُوۡنَ
+    arabic: وَيُرِيدُونَ
     translation: And they wish
     transliteration: wayurīdūna
   18:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that
     transliteration: an
   19:
-    arabic: يَّتَّخِذُوۡا
+    arabic: يَتَّخِذُواْ
     translation: they take
     transliteration: yattakhidhū
   20:
@@ -87,11 +87,11 @@ word_by_word:
     translation: between
     transliteration: bayna
   21:
-    arabic: ذٰ لِكَ
+    arabic: ذَٰلِكَ
     translation: that
     transliteration: dhālika
   22:
-    arabic: سَبِيۡلًا ۙ‏
+    arabic: سَبِيلًا
     translation: a way
     transliteration: sabīlan
 ---

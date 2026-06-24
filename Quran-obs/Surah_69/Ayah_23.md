@@ -1,13 +1,13 @@
 ---
-arabic_ayat: قُطُوۡفُهَا دَانِيَةٌ‏
+arabic_ayat: قُطُوفُهَا دَانِيَةٞ
 sentence_translation: whose fruit will hang within reach.
 word_by_word:
   1:
-    arabic: قُطُوۡفُهَا
+    arabic: قُطُوفُهَا
     translation: Its clusters of fruits
     transliteration: quṭūfuhā
   2:
-    arabic: دَانِيَةٌ‏
+    arabic: دَانِيَةٞ
     translation: hanging near
     transliteration: dāniyatun
 ---

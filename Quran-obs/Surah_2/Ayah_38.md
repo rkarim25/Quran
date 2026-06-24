@@ -1,6 +1,6 @@
 ---
-arabic_ayat: قُلۡنَا اهۡبِطُوۡا مِنۡهَا جَمِيۡعًا ​​ۚ فَاِمَّا يَاۡتِيَنَّكُمۡ مِّنِّىۡ
-  هُدًى فَمَنۡ تَبِعَ هُدَاىَ فَلَا خَوۡفٌ عَلَيۡهِمۡ وَلَا هُمۡ يَحۡزَنُوۡنَ‏
+arabic_ayat: قُلۡنَا ٱهۡبِطُواْ مِنۡهَا جَمِيعٗاۖ فَإِمَّا يَأۡتِيَنَّكُم مِّنِّي
+  هُدٗى فَمَن تَبِعَ هُدَايَ فَلَا خَوۡفٌ عَلَيۡهِمۡ وَلَا هُمۡ يَحۡزَنُونَ
 sentence_translation: We said, “Descend all of you! Then when guidance comes to you
   from Me, whoever follows it, there will be no fear for them, nor will they grieve.
 word_by_word:
@@ -9,7 +9,7 @@ word_by_word:
     translation: We said
     transliteration: qul'nā
   2:
-    arabic: اهۡبِطُوۡا
+    arabic: ٱهۡبِطُواْ
     translation: Go down
     transliteration: ih'biṭū
   3:
@@ -17,27 +17,27 @@ word_by_word:
     translation: from it
     transliteration: min'hā
   4:
-    arabic: جَمِيۡعًا ​​ۚ
+    arabic: جَمِيعٗاۖ
     translation: all (of you)
     transliteration: jamīʿan
   5:
-    arabic: فَاِمَّا
+    arabic: فَإِمَّا
     translation: and when
     transliteration: fa-immā
   6:
-    arabic: يَاۡتِيَنَّكُمۡ
+    arabic: يَأۡتِيَنَّكُم
     translation: comes to you
     transliteration: yatiyannakum
   7:
-    arabic: مِّنِّىۡ
+    arabic: مِّنِّي
     translation: from Me
     transliteration: minnī
   8:
-    arabic: هُدًى
+    arabic: هُدٗى
     translation: Guidance
     transliteration: hudan
   9:
-    arabic: فَمَنۡ
+    arabic: فَمَن
     translation: then whoever
     transliteration: faman
   10:
@@ -45,7 +45,7 @@ word_by_word:
     translation: follows
     transliteration: tabiʿa
   11:
-    arabic: هُدَاىَ
+    arabic: هُدَايَ
     translation: My Guidance
     transliteration: hudāya
   12:
@@ -69,7 +69,7 @@ word_by_word:
     translation: they
     transliteration: hum
   17:
-    arabic: يَحۡزَنُوۡنَ‏
+    arabic: يَحۡزَنُونَ
     translation: will grieve
     transliteration: yaḥzanūna
 ---

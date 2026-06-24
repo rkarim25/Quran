@@ -1,13 +1,13 @@
 ---
-arabic_ayat: فَوَيۡلٌ لِّلۡمُصَلِّيۡنَۙ‏
+arabic_ayat: فَوَيۡلٞ لِّلۡمُصَلِّينَ
 sentence_translation: So woe to those ˹hypocrites˺ who pray
 word_by_word:
   1:
-    arabic: فَوَيۡلٌ
+    arabic: فَوَيۡلٞ
     translation: So woe
     transliteration: fawaylun
   2:
-    arabic: لِّلۡمُصَلِّيۡنَۙ‏
+    arabic: لِّلۡمُصَلِّينَ
     translation: to those who pray
     transliteration: lil'muṣallīna
 ---

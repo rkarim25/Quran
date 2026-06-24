@@ -1,15 +1,15 @@
 ---
-arabic_ayat: "وَالسَّلٰمُ عَلَىَّ يَوۡمَ وُلِدْتُّ وَيَوۡمَ اَمُوۡتُ وَيَوۡمَ اُبۡعَثُ\
-  \ حَيًّا‏ \uFEFF\uFEFF"
+arabic_ayat: وَٱلسَّلَٰمُ عَلَيَّ يَوۡمَ وُلِدتُّ وَيَوۡمَ أَمُوتُ وَيَوۡمَ أُبۡعَثُ
+  حَيّٗا
 sentence_translation: Peace be upon me the day I was born, the day I die, and the
   day I will be raised back to life!”
 word_by_word:
   1:
-    arabic: وَالسَّلٰمُ
+    arabic: وَٱلسَّلَٰمُ
     translation: And peace (be)
     transliteration: wal-salāmu
   2:
-    arabic: عَلَىَّ
+    arabic: عَلَيَّ
     translation: on me
     transliteration: ʿalayya
   3:
@@ -17,7 +17,7 @@ word_by_word:
     translation: (the) day
     transliteration: yawma
   4:
-    arabic: وُلِدْتُّ
+    arabic: وُلِدتُّ
     translation: I was born
     transliteration: wulidttu
   5:
@@ -25,7 +25,7 @@ word_by_word:
     translation: and (the) day
     transliteration: wayawma
   6:
-    arabic: اَمُوۡتُ
+    arabic: أَمُوتُ
     translation: I will die
     transliteration: amūtu
   7:
@@ -33,11 +33,11 @@ word_by_word:
     translation: and (the) Day
     transliteration: wayawma
   8:
-    arabic: اُبۡعَثُ
+    arabic: أُبۡعَثُ
     translation: I will be raised
     transliteration: ub'ʿathu
   9:
-    arabic: "حَيًّا‏ \uFEFF\uFEFF"
+    arabic: حَيّٗا
     translation: alive
     transliteration: ḥayyan
 ---

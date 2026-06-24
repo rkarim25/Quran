@@ -1,31 +1,31 @@
 ---
-arabic_ayat: لِّيَسۡئَلَ الصّٰدِقِيۡنَ عَنۡ صِدۡقِهِمۡ​ۚ وَاَعَدَّ لِلۡكٰفِرِيۡنَ
-  عَذَابًا اَ لِيۡمًا‏
+arabic_ayat: لِّيَسۡـَٔلَ ٱلصَّٰدِقِينَ عَن صِدۡقِهِمۡۚ وَأَعَدَّ لِلۡكَٰفِرِينَ عَذَابًا
+  أَلِيمٗا
 sentence_translation: so that He may question these men of truth about their ˹delivery
   of the˺ truth. And He has prepared a painful punishment for the disbelievers.
 word_by_word:
   1:
-    arabic: لِّيَسۡئَلَ
+    arabic: لِّيَسۡـَٔلَ
     translation: That He may ask
     transliteration: liyasala
   2:
-    arabic: الصّٰدِقِيۡنَ
+    arabic: ٱلصَّٰدِقِينَ
     translation: the truthful
     transliteration: l-ṣādiqīna
   3:
-    arabic: عَنۡ
+    arabic: عَن
     translation: about
     transliteration: ʿan
   4:
-    arabic: صِدۡقِهِمۡ​ۚ
+    arabic: صِدۡقِهِمۡۚ
     translation: their truth
     transliteration: ṣid'qihim
   5:
-    arabic: وَاَعَدَّ
+    arabic: وَأَعَدَّ
     translation: And He has prepared
     transliteration: wa-aʿadda
   6:
-    arabic: لِلۡكٰفِرِيۡنَ
+    arabic: لِلۡكَٰفِرِينَ
     translation: for the disbelievers
     transliteration: lil'kāfirīna
   7:
@@ -33,7 +33,7 @@ word_by_word:
     translation: a punishment
     transliteration: ʿadhāban
   8:
-    arabic: اَ لِيۡمًا‏
+    arabic: أَلِيمٗا
     translation: painful
     transliteration: alīman
 ---

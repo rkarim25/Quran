@@ -1,5 +1,5 @@
 ---
-arabic_ayat: فَلَمَّا جَآءَ اٰلَ لُوۡطِ ۨالۡمُرۡسَلُوۡنَۙ‏
+arabic_ayat: فَلَمَّا جَآءَ ءَالَ لُوطٍ ٱلۡمُرۡسَلُونَ
 sentence_translation: So when the messengers came to the family of Lot,
 word_by_word:
   1:
@@ -7,19 +7,19 @@ word_by_word:
     translation: And when
     transliteration: falammā
   2:
-    arabic: جَآءَ
+    arabic: جَآءَ ءَ
     translation: came
     transliteration: jāa
   3:
-    arabic: اٰلَ
+    arabic: الَ
     translation: (to the) family
     transliteration: āla
   4:
-    arabic: لُوۡطِ
+    arabic: لُوطٍ
     translation: (of) Lut
     transliteration: lūṭin
   5:
-    arabic: ۨالۡمُرۡسَلُوۡنَۙ‏
+    arabic: ٱلۡمُرۡسَلُونَ
     translation: the messengers
     transliteration: l-mur'salūna
 ---

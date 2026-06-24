@@ -1,11 +1,11 @@
 ---
-arabic_ayat: اِنَّا جَعَلۡنَا مَا عَلَى الۡاَرۡضِ زِيۡنَةً لَّهَا لِنَبۡلُوَهُمۡ اَ
-  يُّهُمۡ اَحۡسَنُ عَمَلًا‏
+arabic_ayat: إِنَّا جَعَلۡنَا مَا عَلَى ٱلۡأَرۡضِ زِينَةٗ لَّهَا لِنَبۡلُوَهُمۡ أَيُّهُمۡ
+  أَحۡسَنُ عَمَلٗا
 sentence_translation: We have indeed made whatever is on earth as an adornment for
   it, in order to test which of them is best in deeds.
 word_by_word:
   1:
-    arabic: اِنَّا
+    arabic: إِنَّا
     translation: Indeed, We
     transliteration: innā
   2:
@@ -21,11 +21,11 @@ word_by_word:
     translation: (is) on
     transliteration: ʿalā
   5:
-    arabic: الۡاَرۡضِ
+    arabic: ٱلۡأَرۡضِ
     translation: the earth
     transliteration: l-arḍi
   6:
-    arabic: زِيۡنَةً
+    arabic: زِينَةٗ
     translation: adornment
     transliteration: zīnatan
   7:
@@ -37,15 +37,15 @@ word_by_word:
     translation: that We may test [them]
     transliteration: linabluwahum
   9:
-    arabic: اَ يُّهُمۡ
+    arabic: أَيُّهُمۡ
     translation: which of them
     transliteration: ayyuhum
   10:
-    arabic: اَحۡسَنُ
+    arabic: أَحۡسَنُ
     translation: (is) best
     transliteration: aḥsanu
   11:
-    arabic: عَمَلًا‏
+    arabic: عَمَلٗا
     translation: (in) deed
     transliteration: ʿamalan
 ---

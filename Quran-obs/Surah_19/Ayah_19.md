@@ -1,43 +1,42 @@
 ---
-arabic_ayat: "​قَالَ اِنَّمَاۤ اَنَا رَسُوۡلُ رَبِّكِ ​ ۖ  لِاَهَبَ لَـكِ غُلٰمًا\
-  \ زَكِيًّا‏ \uFEFF\uFEFF"
+arabic_ayat: قَالَ إِنَّمَآ أَنَا۠ رَسُولُ رَبِّكِ لِأَهَبَ لَكِ غُلَٰمٗا زَكِيّٗا
 sentence_translation: He responded, “I am only a messenger from your Lord, ˹sent˺
   to bless you with a pure son.”
 word_by_word:
   1:
-    arabic: ​قَالَ
+    arabic: قَالَ
     translation: He said
     transliteration: qāla
   2:
-    arabic: اِنَّمَاۤ
+    arabic: إِنَّمَآ
     translation: Only
     transliteration: innamā
   3:
-    arabic: اَنَا
+    arabic: أَنَا۠
     translation: I am
     transliteration: anā
   4:
-    arabic: رَسُوۡلُ
+    arabic: رَسُولُ
     translation: a Messenger
     transliteration: rasūlu
   5:
-    arabic: رَبِّكِ ​ ۖ 
+    arabic: رَبِّكِ
     translation: (from) your Lord
     transliteration: rabbiki
   6:
-    arabic: لِاَهَبَ
+    arabic: لِأَهَبَ
     translation: that I (may) bestow
     transliteration: li-ahaba
   7:
-    arabic: لَـكِ
+    arabic: لَكِ
     translation: on you
     transliteration: laki
   8:
-    arabic: غُلٰمًا
+    arabic: غُلَٰمٗا
     translation: a son
     transliteration: ghulāman
   9:
-    arabic: "زَكِيًّا‏ \uFEFF\uFEFF"
+    arabic: زَكِيّٗا
     translation: pure
     transliteration: zakiyyan
 ---

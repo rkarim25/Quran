@@ -1,9 +1,9 @@
 ---
-arabic_ayat: اِنَّا نَخَافُ مِنۡ رَّبِّنَا يَوۡمًا عَبُوۡسًا قَمۡطَرِيۡرًا‏
+arabic_ayat: إِنَّا نَخَافُ مِن رَّبِّنَا يَوۡمًا عَبُوسٗا قَمۡطَرِيرٗا
 sentence_translation: We fear from our Lord a horribly distressful Day.”
 word_by_word:
   1:
-    arabic: اِنَّا
+    arabic: إِنَّا
     translation: Indeed, we
     transliteration: innā
   2:
@@ -11,7 +11,7 @@ word_by_word:
     translation: fear
     transliteration: nakhāfu
   3:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   4:
@@ -23,11 +23,11 @@ word_by_word:
     translation: 'a Day '
     transliteration: yawman
   6:
-    arabic: عَبُوۡسًا
+    arabic: عَبُوسٗا
     translation: harsh
     transliteration: ʿabūsan
   7:
-    arabic: قَمۡطَرِيۡرًا‏
+    arabic: قَمۡطَرِيرٗا
     translation: and distressful
     transliteration: qamṭarīran
 ---

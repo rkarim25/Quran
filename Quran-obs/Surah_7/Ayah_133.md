@@ -1,12 +1,11 @@
 ---
-arabic_ayat: "فَاَرۡسَلۡنَا عَلَيۡهِمُ الطُّوۡفَانَ وَالۡجَـرَادَ وَالۡقُمَّلَ وَالضَّفَادِعَ\
-  \ وَالدَّمَ اٰيٰتٍ مُّفَصَّلٰتٍ فَاسۡتَكۡبَرُوۡا وَكَانُوۡا قَوۡمًا مُّجۡرِمِيۡنَ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: فَأَرۡسَلۡنَا عَلَيۡهِمُ ٱلطُّوفَانَ وَٱلۡجَرَادَ وَٱلۡقُمَّلَ وَٱلضَّفَادِعَ
+  وَٱلدَّمَ ءَايَٰتٖ مُّفَصَّلَٰتٖ فَٱسۡتَكۡبَرُواْ وَكَانُواْ قَوۡمٗا مُّجۡرِمِينَ
 sentence_translation: So We plagued them with floods, locusts, lice, frogs, and blood—all
   as clear signs, but they persisted in arrogance and were a wicked people.
 word_by_word:
   1:
-    arabic: فَاَرۡسَلۡنَا
+    arabic: فَأَرۡسَلۡنَا
     translation: So We sent
     transliteration: fa-arsalnā
   2:
@@ -14,47 +13,47 @@ word_by_word:
     translation: on them
     transliteration: ʿalayhimu
   3:
-    arabic: الطُّوۡفَانَ
+    arabic: ٱلطُّوفَانَ
     translation: the flood
     transliteration: l-ṭūfāna
   4:
-    arabic: وَالۡجَـرَادَ
+    arabic: وَٱلۡجَرَادَ
     translation: and the locusts
     transliteration: wal-jarāda
   5:
-    arabic: وَالۡقُمَّلَ
+    arabic: وَٱلۡقُمَّلَ
     translation: and the lice
     transliteration: wal-qumala
   6:
-    arabic: وَالضَّفَادِعَ
+    arabic: وَٱلضَّفَادِعَ
     translation: and the frogs
     transliteration: wal-ḍafādiʿa
   7:
-    arabic: وَالدَّمَ
+    arabic: وَٱلدَّمَ ءَ
     translation: and the blood
     transliteration: wal-dama
   8:
-    arabic: اٰيٰتٍ
+    arabic: ايَٰتٖ
     translation: (as) signs
     transliteration: āyātin
   9:
-    arabic: مُّفَصَّلٰتٍ
+    arabic: مُّفَصَّلَٰتٖ
     translation: manifest
     transliteration: mufaṣṣalātin
   10:
-    arabic: فَاسۡتَكۡبَرُوۡا
+    arabic: فَٱسۡتَكۡبَرُواْ
     translation: but they showed arrogance
     transliteration: fa-is'takbarū
   11:
-    arabic: وَكَانُوۡا
+    arabic: وَكَانُواْ
     translation: and they were
     transliteration: wakānū
   12:
-    arabic: قَوۡمًا
+    arabic: قَوۡمٗا
     translation: a people
     transliteration: qawman
   13:
-    arabic: "مُّجۡرِمِيۡنَ‏ \uFEFF\uFEFF"
+    arabic: مُّجۡرِمِينَ
     translation: criminal
     transliteration: muj'rimīna
 ---

@@ -1,13 +1,13 @@
 ---
-arabic_ayat: وَاِذۡ قُلۡنَا ادۡخُلُوۡا هٰذِهِ الۡقَرۡيَةَ فَکُلُوۡا مِنۡهَا حَيۡثُ
-  شِئۡتُمۡ رَغَدًا وَّادۡخُلُوا الۡبَابَ سُجَّدًا وَّقُوۡلُوۡا حِطَّةٌ نَّغۡفِرۡ لَـكُمۡ
-  خَطٰيٰكُمۡ​ؕ وَسَنَزِيۡدُ الۡمُحۡسِنِيۡنَ‏
+arabic_ayat: وَإِذۡ قُلۡنَا ٱدۡخُلُواْ هَٰذِهِ ٱلۡقَرۡيَةَ فَكُلُواْ مِنۡهَا حَيۡثُ
+  شِئۡتُمۡ رَغَدٗا وَٱدۡخُلُواْ ٱلۡبَابَ سُجَّدٗا وَقُولُواْ حِطَّةٞ نَّغۡفِرۡ لَكُمۡ
+  خَطَٰيَٰكُمۡۚ وَسَنَزِيدُ ٱلۡمُحۡسِنِينَ
 sentence_translation: And ˹remember˺ when We said, “Enter this city and eat freely
   from wherever you please; enter the gate with humility, saying, ‘Absolve us.’ We
   will forgive your sins and multiply the reward for the good-doers.”
 word_by_word:
   1:
-    arabic: وَاِذۡ
+    arabic: وَإِذۡ
     translation: And when
     transliteration: wa-idh
   2:
@@ -15,19 +15,19 @@ word_by_word:
     translation: We said
     transliteration: qul'nā
   3:
-    arabic: ادۡخُلُوۡا
+    arabic: ٱدۡخُلُواْ
     translation: Enter
     transliteration: ud'khulū
   4:
-    arabic: هٰذِهِ
+    arabic: هَٰذِهِ
     translation: this
     transliteration: hādhihi
   5:
-    arabic: الۡقَرۡيَةَ
+    arabic: ٱلۡقَرۡيَةَ
     translation: town
     transliteration: l-qaryata
   6:
-    arabic: فَکُلُوۡا
+    arabic: فَكُلُواْ
     translation: then eat
     transliteration: fakulū
   7:
@@ -43,27 +43,27 @@ word_by_word:
     translation: you wish[ed]
     transliteration: shi'tum
   10:
-    arabic: رَغَدًا
+    arabic: رَغَدٗا
     translation: abundantly
     transliteration: raghadan
   11:
-    arabic: وَّادۡخُلُوا
+    arabic: وَٱدۡخُلُواْ
     translation: and enter
     transliteration: wa-ud'khulū
   12:
-    arabic: الۡبَابَ
+    arabic: ٱلۡبَابَ
     translation: the gate
     transliteration: l-bāba
   13:
-    arabic: سُجَّدًا
+    arabic: سُجَّدٗا
     translation: prostrating
     transliteration: sujjadan
   14:
-    arabic: وَّقُوۡلُوۡا
+    arabic: وَقُولُواْ
     translation: And say
     transliteration: waqūlū
   15:
-    arabic: حِطَّةٌ
+    arabic: حِطَّةٞ
     translation: Repentance
     transliteration: ḥiṭṭatun
   16:
@@ -71,19 +71,19 @@ word_by_word:
     translation: We will forgive
     transliteration: naghfir
   17:
-    arabic: لَـكُمۡ
+    arabic: لَكُمۡ
     translation: for you
     transliteration: lakum
   18:
-    arabic: خَطٰيٰكُمۡ​ؕ
+    arabic: خَطَٰيَٰكُمۡۚ
     translation: your sins
     transliteration: khaṭāyākum
   19:
-    arabic: وَسَنَزِيۡدُ
+    arabic: وَسَنَزِيدُ
     translation: And We will increase
     transliteration: wasanazīdu
   20:
-    arabic: الۡمُحۡسِنِيۡنَ‏
+    arabic: ٱلۡمُحۡسِنِينَ
     translation: the good-doers (in reward)
     transliteration: l-muḥ'sinīna
 ---

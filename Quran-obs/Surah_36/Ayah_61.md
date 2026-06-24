@@ -1,25 +1,25 @@
 ---
-arabic_ayat: وَّاَنِ اعۡبُدُوۡنِىۡ ​ؕ هٰذَا صِرَاطٌ مُّسۡتَقِيۡمٌ‏
+arabic_ayat: وَأَنِ ٱعۡبُدُونِيۚ هَٰذَا صِرَٰطٞ مُّسۡتَقِيمٞ
 sentence_translation: but to worship Me ˹alone˺? This is the Straight Path.
 word_by_word:
   1:
-    arabic: وَّاَنِ
+    arabic: وَأَنِ
     translation: And that
     transliteration: wa-ani
   2:
-    arabic: اعۡبُدُوۡنِىۡ ​ؕ
+    arabic: ٱعۡبُدُونِيۚ
     translation: you worship Me
     transliteration: uʿ'budūnī
   3:
-    arabic: هٰذَا
+    arabic: هَٰذَا
     translation: This
     transliteration: hādhā
   4:
-    arabic: صِرَاطٌ
+    arabic: صِرَٰطٞ
     translation: (is) a Path
     transliteration: ṣirāṭun
   5:
-    arabic: مُّسۡتَقِيۡمٌ‏
+    arabic: مُّسۡتَقِيمٞ
     translation: Straight
     transliteration: mus'taqīmun
 ---

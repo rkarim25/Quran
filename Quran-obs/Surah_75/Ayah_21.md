@@ -1,13 +1,13 @@
 ---
-arabic_ayat: وَتَذَرُوۡنَ الۡاٰخِرَةَ ؕ‏
+arabic_ayat: وَتَذَرُونَ ٱلۡأٓخِرَةَ
 sentence_translation: and neglect the Hereafter.
 word_by_word:
   1:
-    arabic: وَتَذَرُوۡنَ
+    arabic: وَتَذَرُونَ
     translation: And leave
     transliteration: watadharūna
   2:
-    arabic: الۡاٰخِرَةَ ؕ‏
+    arabic: ٱلۡأٓخِرَةَ
     translation: the Hereafter
     transliteration: l-ākhirata
 ---

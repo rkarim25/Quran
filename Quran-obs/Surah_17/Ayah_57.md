@@ -1,29 +1,29 @@
 ---
-arabic_ayat: اُولٰۤٮِٕكَ الَّذِيۡنَ يَدۡعُوۡنَ يَبۡتَغُوۡنَ اِلٰى رَبِّهِمُ الۡوَسِيۡلَةَ
-  اَيُّهُمۡ اَقۡرَبُ وَيَرۡجُوۡنَ رَحۡمَتَهٗ وَيَخَافُوۡنَ عَذَابَهٗؕ اِنَّ عَذَابَ
-  رَبِّكَ كَانَ مَحۡذُوۡرًا‏
+arabic_ayat: أُوْلَٰٓئِكَ ٱلَّذِينَ يَدۡعُونَ يَبۡتَغُونَ إِلَىٰ رَبِّهِمُ ٱلۡوَسِيلَةَ
+  أَيُّهُمۡ أَقۡرَبُ وَيَرۡجُونَ رَحۡمَتَهُۥ وَيَخَافُونَ عَذَابَهُۥٓۚ إِنَّ عَذَابَ
+  رَبِّكَ كَانَ مَحۡذُورٗا
 sentence_translation: ˹Even˺ the closest ˹to Allah˺ of those invoked would be seeking
   a way to their Lord, hoping for His mercy, and fearing His punishment. Indeed, your
   Lord’s torment is fearsome.
 word_by_word:
   1:
-    arabic: اُولٰۤٮِٕكَ
+    arabic: أُوْلَٰٓئِكَ
     translation: Those
     transliteration: ulāika
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: whom
     transliteration: alladhīna
   3:
-    arabic: يَدۡعُوۡنَ
+    arabic: يَدۡعُونَ
     translation: they call
     transliteration: yadʿūna
   4:
-    arabic: يَبۡتَغُوۡنَ
+    arabic: يَبۡتَغُونَ
     translation: seek
     transliteration: yabtaghūna
   5:
-    arabic: اِلٰى
+    arabic: إِلَىٰ
     translation: to
     transliteration: ilā
   6:
@@ -31,35 +31,35 @@ word_by_word:
     translation: their Lord
     transliteration: rabbihimu
   7:
-    arabic: الۡوَسِيۡلَةَ
+    arabic: ٱلۡوَسِيلَةَ
     translation: the means of access
     transliteration: l-wasīlata
   8:
-    arabic: اَيُّهُمۡ
+    arabic: أَيُّهُمۡ
     translation: which of them
     transliteration: ayyuhum
   9:
-    arabic: اَقۡرَبُ
+    arabic: أَقۡرَبُ
     translation: (is) nearest
     transliteration: aqrabu
   10:
-    arabic: وَيَرۡجُوۡنَ
+    arabic: وَيَرۡجُونَ
     translation: and they hope
     transliteration: wayarjūna
   11:
-    arabic: رَحۡمَتَهٗ
+    arabic: رَحۡمَتَهُۥ
     translation: (for) His mercy
     transliteration: raḥmatahu
   12:
-    arabic: وَيَخَافُوۡنَ
+    arabic: وَيَخَافُونَ
     translation: and fear
     transliteration: wayakhāfūna
   13:
-    arabic: عَذَابَهٗؕ
+    arabic: عَذَابَهُۥٓۚ
     translation: His punishment
     transliteration: ʿadhābahu
   14:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   15:
@@ -75,7 +75,7 @@ word_by_word:
     translation: is
     transliteration: kāna
   18:
-    arabic: مَحۡذُوۡرًا‏
+    arabic: مَحۡذُورٗا
     translation: (ever) feared
     transliteration: maḥdhūran
 ---

@@ -1,17 +1,17 @@
 ---
-arabic_ayat: هُدًى وَّرَحۡمَةً لِّلۡمُحۡسِنِيۡنَۙ‏
+arabic_ayat: هُدٗى وَرَحۡمَةٗ لِّلۡمُحۡسِنِينَ
 sentence_translation: ˹It is˺ a guide and mercy for the good-doers—
 word_by_word:
   1:
-    arabic: هُدًى
+    arabic: هُدٗى
     translation: A guidance
     transliteration: hudan
   2:
-    arabic: وَّرَحۡمَةً
+    arabic: وَرَحۡمَةٗ
     translation: and a mercy
     transliteration: waraḥmatan
   3:
-    arabic: لِّلۡمُحۡسِنِيۡنَۙ‏
+    arabic: لِّلۡمُحۡسِنِينَ
     translation: for the good-doers
     transliteration: lil'muḥ'sinīna
 ---

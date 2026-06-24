@@ -1,19 +1,19 @@
 ---
-arabic_ayat: وَّقَوۡلِهِمۡ اِنَّا قَتَلۡنَا الۡمَسِيۡحَ عِيۡسَى ابۡنَ مَرۡيَمَ رَسُوۡلَ
-  اللّٰهِ​ ۚ وَمَا قَتَلُوۡهُ وَمَا صَلَبُوۡهُ وَلٰـكِنۡ شُبِّهَ لَهُمۡ​ ؕ وَاِنَّ
-  الَّذِيۡنَ اخۡتَلَـفُوۡا فِيۡهِ لَفِىۡ شَكٍّ مِّنۡهُ​ ؕ مَا لَهُمۡ بِهٖ مِنۡ عِلۡمٍ
-  اِلَّا اتِّبَاعَ الظَّنِّ​ ۚ وَمَا قَتَلُوۡهُ يَقِيۡنًا ۢ ۙ‏
+arabic_ayat: وَقَوۡلِهِمۡ إِنَّا قَتَلۡنَا ٱلۡمَسِيحَ عِيسَى ٱبۡنَ مَرۡيَمَ رَسُولَ
+  ٱللَّهِ وَمَا قَتَلُوهُ وَمَا صَلَبُوهُ وَلَٰكِن شُبِّهَ لَهُمۡۚ وَإِنَّ ٱلَّذِينَ
+  ٱخۡتَلَفُواْ فِيهِ لَفِي شَكّٖ مِّنۡهُۚ مَا لَهُم بِهِۦ مِنۡ عِلۡمٍ إِلَّا ٱتِّبَاعَ
+  ٱلظَّنِّۚ وَمَا قَتَلُوهُ يَقِينَۢا
 sentence_translation: and for boasting, “We killed the Messiah, Jesus, son of Mary,
   the messenger of Allah.” But they neither killed nor crucified him—it was only made
   to appear so. Even those who argue for this ˹crucifixion˺ are in doubt. They have
   no knowledge whatsoever—only making assumptions. They certainly did not kill him.
 word_by_word:
   1:
-    arabic: وَّقَوۡلِهِمۡ
+    arabic: وَقَوۡلِهِمۡ
     translation: And for their saying
     transliteration: waqawlihim
   2:
-    arabic: اِنَّا
+    arabic: إِنَّا
     translation: Indeed, we
     transliteration: innā
   3:
@@ -21,15 +21,15 @@ word_by_word:
     translation: killed
     transliteration: qatalnā
   4:
-    arabic: الۡمَسِيۡحَ
+    arabic: ٱلۡمَسِيحَ
     translation: the Messiah
     transliteration: l-masīḥa
   5:
-    arabic: عِيۡسَى
+    arabic: عِيسَى
     translation: Isa
     transliteration: ʿīsā
   6:
-    arabic: ابۡنَ
+    arabic: ٱبۡنَ
     translation: son
     transliteration: ib'na
   7:
@@ -37,11 +37,11 @@ word_by_word:
     translation: (of) Maryam
     transliteration: maryama
   8:
-    arabic: رَسُوۡلَ
+    arabic: رَسُولَ
     translation: (the) Messenger
     transliteration: rasūla
   9:
-    arabic: اللّٰهِ​ ۚ
+    arabic: ٱللَّهِ
     translation: (of) Allah
     transliteration: l-lahi
   10:
@@ -49,7 +49,7 @@ word_by_word:
     translation: And not
     transliteration: wamā
   11:
-    arabic: قَتَلُوۡهُ
+    arabic: قَتَلُوهُ
     translation: they killed him
     transliteration: qatalūhu
   12:
@@ -57,11 +57,11 @@ word_by_word:
     translation: and not
     transliteration: wamā
   13:
-    arabic: صَلَبُوۡهُ
+    arabic: صَلَبُوهُ
     translation: they crucified him
     transliteration: ṣalabūhu
   14:
-    arabic: وَلٰـكِنۡ
+    arabic: وَلَٰكِن
     translation: but
     transliteration: walākin
   15:
@@ -69,35 +69,35 @@ word_by_word:
     translation: it was made to appear (so)
     transliteration: shubbiha
   16:
-    arabic: لَهُمۡ​ ؕ
+    arabic: لَهُمۡۚ
     translation: to them
     transliteration: lahum
   17:
-    arabic: وَاِنَّ
+    arabic: وَإِنَّ
     translation: And indeed
     transliteration: wa-inna
   18:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   19:
-    arabic: اخۡتَلَـفُوۡا
+    arabic: ٱخۡتَلَفُواْ
     translation: differ
     transliteration: ikh'talafū
   20:
-    arabic: فِيۡهِ
+    arabic: فِيهِ
     translation: in it
     transliteration: fīhi
   21:
-    arabic: لَفِىۡ
+    arabic: لَفِي
     translation: (are) surely in
     transliteration: lafī
   22:
-    arabic: شَكٍّ
+    arabic: شَكّٖ
     translation: doubt
     transliteration: shakkin
   23:
-    arabic: مِّنۡهُ​ ؕ
+    arabic: مِّنۡهُۚ
     translation: about it
     transliteration: min'hu
   24:
@@ -105,11 +105,11 @@ word_by_word:
     translation: Not
     transliteration: mā
   25:
-    arabic: لَهُمۡ
+    arabic: لَهُم
     translation: for them
     transliteration: lahum
   26:
-    arabic: بِهٖ
+    arabic: بِهِۦ
     translation: about it
     transliteration: bihi
   27:
@@ -121,15 +121,15 @@ word_by_word:
     translation: (any) knowledge
     transliteration: ʿil'min
   29:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   30:
-    arabic: اتِّبَاعَ
+    arabic: ٱتِّبَاعَ
     translation: (the) following
     transliteration: ittibāʿa
   31:
-    arabic: الظَّنِّ​ ۚ
+    arabic: ٱلظَّنِّۚ
     translation: (of) assumption
     transliteration: l-ẓani
   32:
@@ -137,11 +137,11 @@ word_by_word:
     translation: And not
     transliteration: wamā
   33:
-    arabic: قَتَلُوۡهُ
+    arabic: قَتَلُوهُ
     translation: they killed him
     transliteration: qatalūhu
   34:
-    arabic: يَقِيۡنًا ۢ ۙ‏
+    arabic: يَقِينَۢا
     translation: certainly
     transliteration: yaqīnan
 ---

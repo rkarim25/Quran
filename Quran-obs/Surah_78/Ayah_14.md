@@ -1,9 +1,9 @@
 ---
-arabic_ayat: وَّاَنۡزَلۡنَا مِنَ الۡمُعۡصِرٰتِ مَآءً ثَجَّاجًا ۙ‏
+arabic_ayat: وَأَنزَلۡنَا مِنَ ٱلۡمُعۡصِرَٰتِ مَآءٗ ثَجَّاجٗا
 sentence_translation: and sent down from rainclouds pouring water,
 word_by_word:
   1:
-    arabic: وَّاَنۡزَلۡنَا
+    arabic: وَأَنزَلۡنَا
     translation: And We sent down
     transliteration: wa-anzalnā
   2:
@@ -11,15 +11,15 @@ word_by_word:
     translation: from
     transliteration: mina
   3:
-    arabic: الۡمُعۡصِرٰتِ
+    arabic: ٱلۡمُعۡصِرَٰتِ
     translation: the rain clouds
     transliteration: l-muʿ'ṣirāti
   4:
-    arabic: مَآءً
+    arabic: مَآءٗ
     translation: water
     transliteration: māan
   5:
-    arabic: ثَجَّاجًا ۙ‏
+    arabic: ثَجَّاجٗا
     translation: pouring abundantly
     transliteration: thajjājan
 ---

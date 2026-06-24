@@ -1,5 +1,5 @@
 ---
-arabic_ayat: قُتِلَ اَصۡحٰبُ الۡاُخۡدُوۡدِۙ‏
+arabic_ayat: قُتِلَ أَصۡحَٰبُ ٱلۡأُخۡدُودِ
 sentence_translation: Condemned are the makers of the ditch—
 word_by_word:
   1:
@@ -7,11 +7,11 @@ word_by_word:
     translation: Destroyed were
     transliteration: qutila
   2:
-    arabic: اَصۡحٰبُ
+    arabic: أَصۡحَٰبُ
     translation: (the) companions
     transliteration: aṣḥābu
   3:
-    arabic: الۡاُخۡدُوۡدِۙ‏
+    arabic: ٱلۡأُخۡدُودِ
     translation: (of) the pit
     transliteration: l-ukh'dūdi
 ---

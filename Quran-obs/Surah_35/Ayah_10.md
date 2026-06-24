@@ -1,14 +1,14 @@
 ---
-arabic_ayat: مَنۡ كَانَ يُرِيۡدُ الۡعِزَّةَ فَلِلّٰهِ الۡعِزَّةُ جَمِيۡعًا ؕ اِلَيۡهِ
-  يَصۡعَدُ الۡـكَلِمُ الطَّيِّبُ وَالۡعَمَلُ الصَّالِحُ يَرۡفَعُهٗ ؕ وَ الَّذِيۡنَ
-  يَمۡكُرُوۡنَ السَّيِّاٰتِ لَهُمۡ عَذَابٌ شَدِيۡدٌ  ؕ وَمَكۡرُ اُولٰٓٮِٕكَ هُوَ يَبُوۡرُ‏
+arabic_ayat: مَن كَانَ يُرِيدُ ٱلۡعِزَّةَ فَلِلَّهِ ٱلۡعِزَّةُ جَمِيعًاۚ إِلَيۡهِ
+  يَصۡعَدُ ٱلۡكَلِمُ ٱلطَّيِّبُ وَٱلۡعَمَلُ ٱلصَّٰلِحُ يَرۡفَعُهُۥۚ وَٱلَّذِينَ يَمۡكُرُونَ
+  ٱلسَّيِّـَٔاتِ لَهُمۡ عَذَابٞ شَدِيدٞۖ وَمَكۡرُ أُوْلَٰٓئِكَ هُوَ يَبُورُ
 sentence_translation: Whoever seeks honour and power, then ˹let them know that˺ all
   honour and power belongs to Allah. To Him ˹alone˺ good words ascend, and righteous
   deeds are raised up by Him. As for those who plot evil, they will suffer a severe
   punishment. And the plotting of such ˹people˺ is doomed ˹to fail˺.
 word_by_word:
   1:
-    arabic: مَنۡ
+    arabic: مَن
     translation: Whoever
     transliteration: man
   2:
@@ -16,27 +16,27 @@ word_by_word:
     translation: '[is] desires'
     transliteration: kāna
   3:
-    arabic: يُرِيۡدُ
+    arabic: يُرِيدُ
     translation: '[is] desires'
     transliteration: yurīdu
   4:
-    arabic: الۡعِزَّةَ
+    arabic: ٱلۡعِزَّةَ
     translation: the honor
     transliteration: l-ʿizata
   5:
-    arabic: فَلِلّٰهِ
+    arabic: فَلِلَّهِ
     translation: then for Allah
     transliteration: falillahi
   6:
-    arabic: الۡعِزَّةُ
+    arabic: ٱلۡعِزَّةُ
     translation: (is) the Honor
     transliteration: l-ʿizatu
   7:
-    arabic: جَمِيۡعًا ؕ
+    arabic: جَمِيعًاۚ
     translation: all
     transliteration: jamīʿan
   8:
-    arabic: اِلَيۡهِ
+    arabic: إِلَيۡهِ
     translation: To Him
     transliteration: ilayhi
   9:
@@ -44,35 +44,35 @@ word_by_word:
     translation: ascends
     transliteration: yaṣʿadu
   10:
-    arabic: الۡـكَلِمُ
+    arabic: ٱلۡكَلِمُ
     translation: the words
     transliteration: l-kalimu
   11:
-    arabic: الطَّيِّبُ
+    arabic: ٱلطَّيِّبُ
     translation: good
     transliteration: l-ṭayibu
   12:
-    arabic: وَالۡعَمَلُ
+    arabic: وَٱلۡعَمَلُ
     translation: and the deed
     transliteration: wal-ʿamalu
   13:
-    arabic: الصَّالِحُ
+    arabic: ٱلصَّٰلِحُ
     translation: righteous
     transliteration: l-ṣāliḥu
   14:
-    arabic: يَرۡفَعُهٗ ؕ
+    arabic: يَرۡفَعُهُۥۚ
     translation: raises it
     transliteration: yarfaʿuhu
   15:
-    arabic: وَ الَّذِيۡنَ
+    arabic: وَٱلَّذِينَ
     translation: But those who
     transliteration: wa-alladhīna
   16:
-    arabic: يَمۡكُرُوۡنَ
+    arabic: يَمۡكُرُونَ
     translation: plot
     transliteration: yamkurūna
   17:
-    arabic: السَّيِّاٰتِ
+    arabic: ٱلسَّيِّـَٔاتِ
     translation: the evil
     transliteration: l-sayiāti
   18:
@@ -80,11 +80,11 @@ word_by_word:
     translation: for them
     transliteration: lahum
   19:
-    arabic: عَذَابٌ
+    arabic: عَذَابٞ
     translation: (is) a punishment
     transliteration: ʿadhābun
   20:
-    arabic: شَدِيۡدٌ  ؕ
+    arabic: شَدِيدٞۖ
     translation: severe
     transliteration: shadīdun
   21:
@@ -92,7 +92,7 @@ word_by_word:
     translation: and (the) plotting
     transliteration: wamakru
   22:
-    arabic: اُولٰٓٮِٕكَ
+    arabic: أُوْلَٰٓئِكَ
     translation: '(of) those '
     transliteration: ulāika
   23:
@@ -100,7 +100,7 @@ word_by_word:
     translation: it
     transliteration: huwa
   24:
-    arabic: يَبُوۡرُ‏
+    arabic: يَبُورُ
     translation: (will) perish
     transliteration: yabūru
 ---

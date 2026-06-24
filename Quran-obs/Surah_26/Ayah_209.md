@@ -1,9 +1,9 @@
 ---
-arabic_ayat: ذِكۡرٰى​ۛ وَمَا كُنَّا ظٰلِمِيۡنَ‏
+arabic_ayat: ذِكۡرَىٰ وَمَا كُنَّا ظَٰلِمِينَ
 sentence_translation: to remind ˹them˺, for We would never wrong ˹anyone˺.
 word_by_word:
   1:
-    arabic: ذِكۡرٰى​ۛ
+    arabic: ذِكۡرَىٰ
     translation: (To) remind
     transliteration: dhik'rā
   2:
@@ -15,7 +15,7 @@ word_by_word:
     translation: We are
     transliteration: kunnā
   4:
-    arabic: ظٰلِمِيۡنَ‏
+    arabic: ظَٰلِمِينَ
     translation: unjust
     transliteration: ẓālimīna
 ---

@@ -1,8 +1,8 @@
 ---
-arabic_ayat: وَلَٮِٕنۡ اَ تَيۡتَ الَّذِيۡنَ اُوۡتُوا الۡكِتٰبَ بِكُلِّ اٰيَةٍ مَّا
-  تَبِعُوۡا قِبۡلَتَكَ​ۚ وَمَآ اَنۡتَ بِتَابِعٍ قِبۡلَتَهُمۡ​ۚ وَمَا بَعۡضُهُمۡ بِتَابِعٍ
-  قِبۡلَةَ بَعۡضٍؕ وَلَٮِٕنِ اتَّبَعۡتَ اَهۡوَآءَهُمۡ مِّنۡۢ بَعۡدِ مَا جَآءَكَ
-  مِنَ الۡعِلۡمِ​ۙ اِنَّكَ اِذًا لَّمِنَ الظّٰلِمِيۡنَ​ۘ‏
+arabic_ayat: وَلَئِنۡ أَتَيۡتَ ٱلَّذِينَ أُوتُواْ ٱلۡكِتَٰبَ بِكُلِّ ءَايَةٖ مَّا
+  تَبِعُواْ قِبۡلَتَكَۚ وَمَآ أَنتَ بِتَابِعٖ قِبۡلَتَهُمۡۚ وَمَا بَعۡضُهُم بِتَابِعٖ
+  قِبۡلَةَ بَعۡضٖۚ وَلَئِنِ ٱتَّبَعۡتَ أَهۡوَآءَهُم مِّنۢ بَعۡدِ مَا جَآءَكَ مِنَ
+  ٱلۡعِلۡمِ إِنَّكَ إِذٗا لَّمِنَ ٱلظَّٰلِمِينَ
 sentence_translation: Even if you were to bring every proof to the People of the Book,
   they would not accept your direction ˹of prayer˺, nor would you accept theirs; nor
   would any of them accept the direction ˹of prayer˺ of another. And if you were to
@@ -10,31 +10,31 @@ sentence_translation: Even if you were to bring every proof to the People of the
   certainly be one of the wrongdoers.
 word_by_word:
   1:
-    arabic: وَلَٮِٕنۡ
+    arabic: وَلَئِنۡ
     translation: And even if
     transliteration: wala-in
   2:
-    arabic: اَ تَيۡتَ
+    arabic: أَتَيۡتَ
     translation: you come
     transliteration: atayta
   3:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: (to) those who
     transliteration: alladhīna
   4:
-    arabic: اُوۡتُوا
+    arabic: أُوتُواْ
     translation: were given
     transliteration: ūtū
   5:
-    arabic: الۡكِتٰبَ
+    arabic: ٱلۡكِتَٰبَ
     translation: the Book
     transliteration: l-kitāba
   6:
-    arabic: بِكُلِّ
+    arabic: بِكُلِّ ءَ
     translation: with all
     transliteration: bikulli
   7:
-    arabic: اٰيَةٍ
+    arabic: ايَةٖ
     translation: (the) signs
     transliteration: āyatin
   8:
@@ -42,11 +42,11 @@ word_by_word:
     translation: not
     transliteration: mā
   9:
-    arabic: تَبِعُوۡا
+    arabic: تَبِعُواْ
     translation: they would follow
     transliteration: tabiʿū
   10:
-    arabic: قِبۡلَتَكَ​ۚ
+    arabic: قِبۡلَتَكَۚ
     translation: your direction of prayer
     transliteration: qib'lataka
   11:
@@ -54,15 +54,15 @@ word_by_word:
     translation: and not
     transliteration: wamā
   12:
-    arabic: اَنۡتَ
+    arabic: أَنتَ
     translation: (will) you (be)
     transliteration: anta
   13:
-    arabic: بِتَابِعٍ
+    arabic: بِتَابِعٖ
     translation: a follower
     transliteration: bitābiʿin
   14:
-    arabic: قِبۡلَتَهُمۡ​ۚ
+    arabic: قِبۡلَتَهُمۡۚ
     translation: (of) their direction of prayer
     transliteration: qib'latahum
   15:
@@ -70,11 +70,11 @@ word_by_word:
     translation: And not
     transliteration: wamā
   16:
-    arabic: بَعۡضُهُمۡ
+    arabic: بَعۡضُهُم
     translation: some of them
     transliteration: baʿḍuhum
   17:
-    arabic: بِتَابِعٍ
+    arabic: بِتَابِعٖ
     translation: (are) followers
     transliteration: bitābiʿin
   18:
@@ -82,23 +82,23 @@ word_by_word:
     translation: (of the) direction of prayer
     transliteration: qib'lata
   19:
-    arabic: بَعۡضٍؕ
+    arabic: بَعۡضٖۚ
     translation: (of each) other
     transliteration: baʿḍin
   20:
-    arabic: وَلَٮِٕنِ
+    arabic: وَلَئِنِ
     translation: And if
     transliteration: wala-ini
   21:
-    arabic: اتَّبَعۡتَ
+    arabic: ٱتَّبَعۡتَ
     translation: you followed
     transliteration: ittabaʿta
   22:
-    arabic: اَهۡوَآءَهُمۡ
+    arabic: أَهۡوَآءَهُم
     translation: their desires
     transliteration: ahwāahum
   23:
-    arabic: مِّنۡۢ
+    arabic: مِّنۢ
     translation: from
     transliteration: min
   24:
@@ -118,15 +118,15 @@ word_by_word:
     translation: of
     transliteration: mina
   28:
-    arabic: الۡعِلۡمِ​ۙ
+    arabic: ٱلۡعِلۡمِ
     translation: the knowledge
     transliteration: l-ʿil'mi
   29:
-    arabic: اِنَّكَ
+    arabic: إِنَّكَ
     translation: indeed, you
     transliteration: innaka
   30:
-    arabic: اِذًا
+    arabic: إِذٗا
     translation: (would) then
     transliteration: idhan
   31:
@@ -134,7 +134,7 @@ word_by_word:
     translation: (be) surely among
     transliteration: lamina
   32:
-    arabic: الظّٰلِمِيۡنَ​ۘ‏
+    arabic: ٱلظَّٰلِمِينَ
     translation: the wrongdoers
     transliteration: l-ẓālimīna
 ---

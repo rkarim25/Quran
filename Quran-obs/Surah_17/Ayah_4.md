@@ -1,44 +1,44 @@
 ---
-arabic_ayat: وَقَضَيۡنَاۤ اِلٰى بَنِىۡۤ اِسۡرَاۤءِيۡلَ فِى الۡكِتٰبِ لَـتُفۡسِدُنَّ
-  فِى الۡاَرۡضِ مَرَّتَيۡنِ وَلَتَعۡلُنَّ عُلُوًّا كَبِيۡرًا‏
+arabic_ayat: وَقَضَيۡنَآ إِلَىٰ بَنِيٓ إِسۡرَٰٓءِيلَ فِي ٱلۡكِتَٰبِ لَتُفۡسِدُنَّ
+  فِي ٱلۡأَرۡضِ مَرَّتَيۡنِ وَلَتَعۡلُنَّ عُلُوّٗا كَبِيرٗا
 sentence_translation: And We warned the Children of Israel in the Scripture, “You
   will certainly cause corruption in the land twice, and you will become extremely
   arrogant.
 word_by_word:
   1:
-    arabic: وَقَضَيۡنَاۤ
+    arabic: وَقَضَيۡنَآ
     translation: And We decreed
     transliteration: waqaḍaynā
   2:
-    arabic: اِلٰى
+    arabic: إِلَىٰ
     translation: for
     transliteration: ilā
   3:
-    arabic: بَنِىۡۤ
+    arabic: بَنِيٓ
     translation: (the) Children
     transliteration: banī
   4:
-    arabic: اِسۡرَاۤءِيۡلَ
+    arabic: إِسۡرَٰٓءِيلَ
     translation: (of) Israel
     transliteration: is'rāīla
   5:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   6:
-    arabic: الۡكِتٰبِ
+    arabic: ٱلۡكِتَٰبِ
     translation: the Book
     transliteration: l-kitābi
   7:
-    arabic: لَـتُفۡسِدُنَّ
+    arabic: لَتُفۡسِدُنَّ
     translation: Surely you will cause corruption
     transliteration: latuf'sidunna
   8:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   9:
-    arabic: الۡاَرۡضِ
+    arabic: ٱلۡأَرۡضِ
     translation: the earth
     transliteration: l-arḍi
   10:
@@ -50,11 +50,11 @@ word_by_word:
     translation: and surely you will reach
     transliteration: walataʿlunna
   12:
-    arabic: عُلُوًّا
+    arabic: عُلُوّٗا
     translation: haughtiness
     transliteration: ʿuluwwan
   13:
-    arabic: كَبِيۡرًا‏
+    arabic: كَبِيرٗا
     translation: great
     transliteration: kabīran
 ---

@@ -1,5 +1,5 @@
 ---
-arabic_ayat: وَتَوَكَّلۡ عَلَى الۡعَزِيۡزِ الرَّحِيۡمِۙ‏
+arabic_ayat: وَتَوَكَّلۡ عَلَى ٱلۡعَزِيزِ ٱلرَّحِيمِ
 sentence_translation: Put your trust in the Almighty, Most Merciful,
 word_by_word:
   1:
@@ -11,11 +11,11 @@ word_by_word:
     translation: in
     transliteration: ʿalā
   3:
-    arabic: الۡعَزِيۡزِ
+    arabic: ٱلۡعَزِيزِ
     translation: the All-Mighty
     transliteration: l-ʿazīzi
   4:
-    arabic: الرَّحِيۡمِۙ‏
+    arabic: ٱلرَّحِيمِ
     translation: the Most Merciful
     transliteration: l-raḥīmi
 ---

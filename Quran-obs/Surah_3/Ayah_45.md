@@ -1,14 +1,14 @@
 ---
-arabic_ayat: اِذۡ قَالَتِ الۡمَلٰٓٮِٕكَةُ يٰمَرۡيَمُ اِنَّ اللّٰهَ يُبَشِّرُكِ بِكَلِمَةٍ
-  مِّنۡهُ ۖ اسۡمُهُ الۡمَسِيۡحُ عِيۡسَى ابۡنُ مَرۡيَمَ وَجِيۡهًا فِى الدُّنۡيَا وَالۡاٰخِرَةِ
-  وَمِنَ الۡمُقَرَّبِيۡنَۙ‏
+arabic_ayat: إِذۡ قَالَتِ ٱلۡمَلَٰٓئِكَةُ يَٰمَرۡيَمُ إِنَّ ٱللَّهَ يُبَشِّرُكِ بِكَلِمَةٖ
+  مِّنۡهُ ٱسۡمُهُ ٱلۡمَسِيحُ عِيسَى ٱبۡنُ مَرۡيَمَ وَجِيهٗا فِي ٱلدُّنۡيَا وَٱلۡأٓخِرَةِ
+  وَمِنَ ٱلۡمُقَرَّبِينَ
 sentence_translation: ˹Remember˺ when the angels proclaimed, “O Mary! Allah gives
   you good news of a Word from Him, his name will be the Messiah, Jesus, son of Mary;
   honoured in this world and the Hereafter, and he will be one of those nearest ˹to
   Allah˺.
 word_by_word:
   1:
-    arabic: اِذۡ
+    arabic: إِذۡ
     translation: When
     transliteration: idh
   2:
@@ -16,19 +16,19 @@ word_by_word:
     translation: said
     transliteration: qālati
   3:
-    arabic: الۡمَلٰٓٮِٕكَةُ
+    arabic: ٱلۡمَلَٰٓئِكَةُ
     translation: the Angels
     transliteration: l-malāikatu
   4:
-    arabic: يٰمَرۡيَمُ
+    arabic: يَٰمَرۡيَمُ
     translation: O Maryam
     transliteration: yāmaryamu
   5:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   6:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   7:
@@ -36,27 +36,27 @@ word_by_word:
     translation: gives you glad tidings
     transliteration: yubashiruki
   8:
-    arabic: بِكَلِمَةٍ
+    arabic: بِكَلِمَةٖ
     translation: of a word
     transliteration: bikalimatin
   9:
-    arabic: مِّنۡهُ ۖ
+    arabic: مِّنۡهُ
     translation: from Him
     transliteration: min'hu
   10:
-    arabic: اسۡمُهُ
+    arabic: ٱسۡمُهُ
     translation: his name
     transliteration: us'muhu
   11:
-    arabic: الۡمَسِيۡحُ
+    arabic: ٱلۡمَسِيحُ
     translation: (is) the Messiah
     transliteration: l-masīḥu
   12:
-    arabic: عِيۡسَى
+    arabic: عِيسَى
     translation: Isa
     transliteration: ʿīsā
   13:
-    arabic: ابۡنُ
+    arabic: ٱبۡنُ
     translation: son
     transliteration: ub'nu
   14:
@@ -64,19 +64,19 @@ word_by_word:
     translation: (of) Maryam
     transliteration: maryama
   15:
-    arabic: وَجِيۡهًا
+    arabic: وَجِيهٗا
     translation: honored
     transliteration: wajīhan
   16:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   17:
-    arabic: الدُّنۡيَا
+    arabic: ٱلدُّنۡيَا
     translation: the world
     transliteration: l-dun'yā
   18:
-    arabic: وَالۡاٰخِرَةِ
+    arabic: وَٱلۡأٓخِرَةِ
     translation: and (in) the Hereafter
     transliteration: wal-ākhirati
   19:
@@ -84,7 +84,7 @@ word_by_word:
     translation: and of
     transliteration: wamina
   20:
-    arabic: الۡمُقَرَّبِيۡنَۙ‏
+    arabic: ٱلۡمُقَرَّبِينَ
     translation: those brought near (to Allah)
     transliteration: l-muqarabīna
 ---

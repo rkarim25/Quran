@@ -1,6 +1,6 @@
 ---
-arabic_ayat: وَسَخَّرَ لَـكُمۡ مَّا فِى السَّمٰوٰتِ وَمَا فِى الۡاَرۡضِ جَمِيۡعًا
-  مِّنۡهُ​ ؕ اِنَّ فِىۡ ذٰ لِكَ لَاٰيٰتٍ لِّقَوۡمٍ يَّتَفَكَّرُوۡنَ‏
+arabic_ayat: وَسَخَّرَ لَكُم مَّا فِي ٱلسَّمَٰوَٰتِ وَمَا فِي ٱلۡأَرۡضِ جَمِيعٗا مِّنۡهُۚ
+  إِنَّ فِي ذَٰلِكَ لَأٓيَٰتٖ لِّقَوۡمٖ يَتَفَكَّرُونَ
 sentence_translation: He ˹also˺ subjected for you whatever is in the heavens and whatever
   is on the earth—all by His grace. Surely in this are signs for people who reflect.
 word_by_word:
@@ -9,7 +9,7 @@ word_by_word:
     translation: And He has subjected
     transliteration: wasakhara
   2:
-    arabic: لَـكُمۡ
+    arabic: لَكُم
     translation: to you
     transliteration: lakum
   3:
@@ -17,11 +17,11 @@ word_by_word:
     translation: whatever
     transliteration: mā
   4:
-    arabic: فِى
+    arabic: فِي
     translation: (is) in
     transliteration: fī
   5:
-    arabic: السَّمٰوٰتِ
+    arabic: ٱلسَّمَٰوَٰتِ
     translation: the heavens
     transliteration: l-samāwāti
   6:
@@ -29,43 +29,43 @@ word_by_word:
     translation: and whatever
     transliteration: wamā
   7:
-    arabic: فِى
+    arabic: فِي
     translation: (is) in
     transliteration: fī
   8:
-    arabic: الۡاَرۡضِ
+    arabic: ٱلۡأَرۡضِ
     translation: 'the earth '
     transliteration: l-arḍi
   9:
-    arabic: جَمِيۡعًا
+    arabic: جَمِيعٗا
     translation: all
     transliteration: jamīʿan
   10:
-    arabic: مِّنۡهُ​ ؕ
+    arabic: مِّنۡهُۚ
     translation: from Him
     transliteration: min'hu
   11:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   12:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   13:
-    arabic: ذٰ لِكَ
+    arabic: ذَٰلِكَ
     translation: that
     transliteration: dhālika
   14:
-    arabic: لَاٰيٰتٍ
+    arabic: لَأٓيَٰتٖ
     translation: surely are Signs
     transliteration: laāyātin
   15:
-    arabic: لِّقَوۡمٍ
+    arabic: لِّقَوۡمٖ
     translation: for a people
     transliteration: liqawmin
   16:
-    arabic: يَّتَفَكَّرُوۡنَ‏
+    arabic: يَتَفَكَّرُونَ
     translation: who give thought
     transliteration: yatafakkarūna
 ---

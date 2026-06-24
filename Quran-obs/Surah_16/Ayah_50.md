@@ -1,18 +1,17 @@
 ---
-arabic_ayat: "يَخَافُوۡنَ رَبَّهُمۡ مِّنۡ فَوۡقِهِمۡ وَيَفۡعَلُوۡنَ مَا يُؤۡمَرُوۡنَ\
-  \ ۩‏ \uFEFF\uFEFF"
+arabic_ayat: يَخَافُونَ رَبَّهُم مِّن فَوۡقِهِمۡ وَيَفۡعَلُونَ مَا يُؤۡمَرُونَ۩
 sentence_translation: They fear their Lord above them, and do whatever they are commanded.
 word_by_word:
   1:
-    arabic: يَخَافُوۡنَ
+    arabic: يَخَافُونَ
     translation: They fear
     transliteration: yakhāfūna
   2:
-    arabic: رَبَّهُمۡ
+    arabic: رَبَّهُم
     translation: their Lord
     transliteration: rabbahum
   3:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: above them
     transliteration: min
   4:
@@ -20,7 +19,7 @@ word_by_word:
     translation: above them
     transliteration: fawqihim
   5:
-    arabic: وَيَفۡعَلُوۡنَ
+    arabic: وَيَفۡعَلُونَ
     translation: and they do
     transliteration: wayafʿalūna
   6:
@@ -28,7 +27,7 @@ word_by_word:
     translation: what
     transliteration: mā
   7:
-    arabic: يُؤۡمَرُوۡنَ ۩
+    arabic: يُؤۡمَرُونَ۩
     translation: they are commanded
     transliteration: yu'marūna
 ---

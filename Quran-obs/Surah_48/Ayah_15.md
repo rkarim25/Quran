@@ -1,8 +1,8 @@
 ---
-arabic_ayat: سَيَـقُوۡلُ الۡمُخَلَّفُوۡنَ اِذَا انْطَلَقۡتُمۡ اِلٰى مَغَانِمَ لِتَاۡخُذُوۡهَا
-  ذَرُوۡنَا نَـتَّبِعۡكُمۡ​ ۚ يُرِيۡدُوۡنَ اَنۡ يُّبَدِّلُوۡا كَلٰمَ اللّٰهِ​ ؕ قُلْ
-  لَّنۡ تَتَّبِعُوۡنَا كَذٰلِكُمۡ قَالَ اللّٰهُ مِنۡ قَبۡلُ​ ۚ فَسَيَقُوۡلُوۡنَ بَلۡ
-  تَحۡسُدُوۡنَـنَا​ ؕ بَلۡ كَانُوۡا لَا يَفۡقَهُوۡنَ اِلَّا قَلِيۡلًا‏
+arabic_ayat: سَيَقُولُ ٱلۡمُخَلَّفُونَ إِذَا ٱنطَلَقۡتُمۡ إِلَىٰ مَغَانِمَ لِتَأۡخُذُوهَا
+  ذَرُونَا نَتَّبِعۡكُمۡۖ يُرِيدُونَ أَن يُبَدِّلُواْ كَلَٰمَ ٱللَّهِۚ قُل لَّن تَتَّبِعُونَا
+  كَذَٰلِكُمۡ قَالَ ٱللَّهُ مِن قَبۡلُۖ فَسَيَقُولُونَ بَلۡ تَحۡسُدُونَنَاۚ بَلۡ كَانُواْ
+  لَا يَفۡقَهُونَ إِلَّا قَلِيلٗا
 sentence_translation: 'Those who stayed behind will say, when you ˹believers˺ set
   out to take the spoils of war, “Let us accompany you.” They wish to change Allah’s
   promise. Say, ˹O Prophet,˺ “You will not accompany us. This is what Allah has said
@@ -10,23 +10,23 @@ sentence_translation: 'Those who stayed behind will say, when you ˹believers˺ 
   truth is: they can hardly comprehend.'
 word_by_word:
   1:
-    arabic: سَيَـقُوۡلُ
+    arabic: سَيَقُولُ
     translation: Will say
     transliteration: sayaqūlu
   2:
-    arabic: الۡمُخَلَّفُوۡنَ
+    arabic: ٱلۡمُخَلَّفُونَ
     translation: those who remained behind
     transliteration: l-mukhalafūna
   3:
-    arabic: اِذَا
+    arabic: إِذَا
     translation: when
     transliteration: idhā
   4:
-    arabic: انْطَلَقۡتُمۡ
+    arabic: ٱنطَلَقۡتُمۡ
     translation: you set forth
     transliteration: inṭalaqtum
   5:
-    arabic: اِلٰى
+    arabic: إِلَىٰ
     translation: towards
     transliteration: ilā
   6:
@@ -34,51 +34,51 @@ word_by_word:
     translation: (the) spoils of war
     transliteration: maghānima
   7:
-    arabic: لِتَاۡخُذُوۡهَا
+    arabic: لِتَأۡخُذُوهَا
     translation: to take it
     transliteration: litakhudhūhā
   8:
-    arabic: ذَرُوۡنَا
+    arabic: ذَرُونَا
     translation: Allow us
     transliteration: dharūnā
   9:
-    arabic: نَـتَّبِعۡكُمۡ​ ۚ
+    arabic: نَتَّبِعۡكُمۡۖ
     translation: (to) follow you
     transliteration: nattabiʿ'kum
   10:
-    arabic: يُرِيۡدُوۡنَ
+    arabic: يُرِيدُونَ
     translation: They wish
     transliteration: yurīdūna
   11:
-    arabic: اَنۡ
+    arabic: أَن
     translation: to
     transliteration: an
   12:
-    arabic: يُّبَدِّلُوۡا
+    arabic: يُبَدِّلُواْ
     translation: change
     transliteration: yubaddilū
   13:
-    arabic: كَلٰمَ
+    arabic: كَلَٰمَ
     translation: (the) Words
     transliteration: kalāma
   14:
-    arabic: اللّٰهِ​ ؕ
+    arabic: ٱللَّهِۚ
     translation: (of) Allah
     transliteration: l-lahi
   15:
-    arabic: قُلْ
+    arabic: قُل
     translation: Say
     transliteration: qul
   16:
-    arabic: لَّنۡ
+    arabic: لَّن
     translation: Never
     transliteration: lan
   17:
-    arabic: تَتَّبِعُوۡنَا
+    arabic: تَتَّبِعُونَا
     translation: will you follow us
     transliteration: tattabiʿūnā
   18:
-    arabic: كَذٰلِكُمۡ
+    arabic: كَذَٰلِكُمۡ
     translation: Thus
     transliteration: kadhālikum
   19:
@@ -86,19 +86,19 @@ word_by_word:
     translation: Allah said
     transliteration: qāla
   20:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah said
     transliteration: l-lahu
   21:
-    arabic: مِنۡ
+    arabic: مِن
     translation: before
     transliteration: min
   22:
-    arabic: قَبۡلُ​ ۚ
+    arabic: قَبۡلُۖ
     translation: before
     transliteration: qablu
   23:
-    arabic: فَسَيَقُوۡلُوۡنَ
+    arabic: فَسَيَقُولُونَ
     translation: Then they will say
     transliteration: fasayaqūlūna
   24:
@@ -106,7 +106,7 @@ word_by_word:
     translation: Nay
     transliteration: bal
   25:
-    arabic: تَحۡسُدُوۡنَـنَا​ ؕ
+    arabic: تَحۡسُدُونَنَاۚ
     translation: you envy us
     transliteration: taḥsudūnanā
   26:
@@ -114,7 +114,7 @@ word_by_word:
     translation: Nay
     transliteration: bal
   27:
-    arabic: كَانُوۡا
+    arabic: كَانُواْ
     translation: they were
     transliteration: kānū
   28:
@@ -122,15 +122,15 @@ word_by_word:
     translation: not
     transliteration: lā
   29:
-    arabic: يَفۡقَهُوۡنَ
+    arabic: يَفۡقَهُونَ
     translation: understanding
     transliteration: yafqahūna
   30:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   31:
-    arabic: قَلِيۡلًا‏
+    arabic: قَلِيلٗا
     translation: a little
     transliteration: qalīlan
 ---

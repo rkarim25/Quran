@@ -1,61 +1,60 @@
 ---
-arabic_ayat: "وَلَـقَدۡ نَـعۡلَمُ اَنَّهُمۡ يَقُوۡلُوۡنَ اِنَّمَا يُعَلِّمُهٗ بَشَرٌ​ؕ\
-  \ لِسَانُ الَّذِىۡ يُلۡحِدُوۡنَ اِلَيۡهِ اَعۡجَمِىٌّ وَّهٰذَا لِسَانٌ عَرَبِىٌّ\
-  \ مُّبِيۡنٌ‏ \uFEFF\uFEFF"
+arabic_ayat: وَلَقَدۡ نَعۡلَمُ أَنَّهُمۡ يَقُولُونَ إِنَّمَا يُعَلِّمُهُۥ بَشَرٞۗ
+  لِّسَانُ ٱلَّذِي يُلۡحِدُونَ إِلَيۡهِ أَعۡجَمِيّٞ وَهَٰذَا لِسَانٌ عَرَبِيّٞ مُّبِينٌ
 sentence_translation: And We surely know that they say, “No one is teaching him except
   a human.” But the man they refer to speaks a foreign tongue, whereas this ˹Quran˺
   is ˹in˺ eloquent Arabic.
 word_by_word:
   1:
-    arabic: وَلَـقَدۡ
+    arabic: وَلَقَدۡ
     translation: And certainly
     transliteration: walaqad
   2:
-    arabic: نَـعۡلَمُ
+    arabic: نَعۡلَمُ
     translation: We know
     transliteration: naʿlamu
   3:
-    arabic: اَنَّهُمۡ
+    arabic: أَنَّهُمۡ
     translation: that they
     transliteration: annahum
   4:
-    arabic: يَقُوۡلُوۡنَ
+    arabic: يَقُولُونَ
     translation: say
     transliteration: yaqūlūna
   5:
-    arabic: اِنَّمَا
+    arabic: إِنَّمَا
     translation: Only
     transliteration: innamā
   6:
-    arabic: يُعَلِّمُهٗ
+    arabic: يُعَلِّمُهُۥ
     translation: teaches him
     transliteration: yuʿallimuhu
   7:
-    arabic: بَشَرٌ​ؕ
+    arabic: بَشَرٞۗ
     translation: a human being
     transliteration: basharun
   8:
-    arabic: لِسَانُ
+    arabic: لِّسَانُ
     translation: (The) tongue
     transliteration: lisānu
   9:
-    arabic: الَّذِىۡ
+    arabic: ٱلَّذِي
     translation: (of) the one
     transliteration: alladhī
   10:
-    arabic: يُلۡحِدُوۡنَ
+    arabic: يُلۡحِدُونَ
     translation: they refer
     transliteration: yul'ḥidūna
   11:
-    arabic: اِلَيۡهِ
+    arabic: إِلَيۡهِ
     translation: to him
     transliteration: ilayhi
   12:
-    arabic: اَعۡجَمِىٌّ
+    arabic: أَعۡجَمِيّٞ
     translation: (is) foreign
     transliteration: aʿjamiyyun
   13:
-    arabic: وَّهٰذَا
+    arabic: وَهَٰذَا
     translation: while this
     transliteration: wahādhā
   14:
@@ -63,11 +62,11 @@ word_by_word:
     translation: (is) a language
     transliteration: lisānun
   15:
-    arabic: عَرَبِىٌّ
+    arabic: عَرَبِيّٞ
     translation: Arabic
     transliteration: ʿarabiyyun
   16:
-    arabic: "مُّبِيۡنٌ‏ \uFEFF\uFEFF"
+    arabic: مُّبِينٌ
     translation: clear
     transliteration: mubīnun
 ---

@@ -1,18 +1,18 @@
 ---
-arabic_ayat: وَقَالُوۡا لَنۡ تَمَسَّنَا النَّارُ اِلَّاۤ اَيَّامًا مَّعۡدُوۡدَةً ​
-  ؕ قُلۡ اَتَّخَذۡتُمۡ عِنۡدَ اللّٰهِ عَهۡدًا فَلَنۡ يُّخۡلِفَ اللّٰهُ عَهۡدَهٗۤ​
-  اَمۡ تَقُوۡلُوۡنَ عَلَى اللّٰهِ مَا لَا تَعۡلَمُوۡنَ‏
+arabic_ayat: وَقَالُواْ لَن تَمَسَّنَا ٱلنَّارُ إِلَّآ أَيَّامٗا مَّعۡدُودَةٗۚ قُلۡ
+  أَتَّخَذۡتُمۡ عِندَ ٱللَّهِ عَهۡدٗا فَلَن يُخۡلِفَ ٱللَّهُ عَهۡدَهُۥٓۖ أَمۡ تَقُولُونَ
+  عَلَى ٱللَّهِ مَا لَا تَعۡلَمُونَ
 sentence_translation: ˹Some of˺ the Jews claim, “The Fire will not touch us except
   for a number of days.” Say, ˹O Prophet,˺ “Have you taken a pledge from Allah—for
   Allah never breaks His word—or are you ˹just˺ saying about Allah what you do not
   know?”
 word_by_word:
   1:
-    arabic: وَقَالُوۡا
+    arabic: وَقَالُواْ
     translation: And they say
     transliteration: waqālū
   2:
-    arabic: لَنۡ
+    arabic: لَن
     translation: Never
     transliteration: lan
   3:
@@ -20,19 +20,19 @@ word_by_word:
     translation: will touch us
     transliteration: tamassanā
   4:
-    arabic: النَّارُ
+    arabic: ٱلنَّارُ
     translation: the Fire
     transliteration: l-nāru
   5:
-    arabic: اِلَّاۤ
+    arabic: إِلَّآ
     translation: except
     transliteration: illā
   6:
-    arabic: اَيَّامًا
+    arabic: أَيَّامٗا
     translation: (for) days
     transliteration: ayyāman
   7:
-    arabic: مَّعۡدُوۡدَةً ​ ؕ
+    arabic: مَّعۡدُودَةٗۚ
     translation: numbered
     transliteration: maʿdūdatan
   8:
@@ -40,43 +40,43 @@ word_by_word:
     translation: Say
     transliteration: qul
   9:
-    arabic: اَتَّخَذۡتُمۡ
+    arabic: أَتَّخَذۡتُمۡ
     translation: Have you taken
     transliteration: attakhadhtum
   10:
-    arabic: عِنۡدَ
+    arabic: عِندَ
     translation: from
     transliteration: ʿinda
   11:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   12:
-    arabic: عَهۡدًا
+    arabic: عَهۡدٗا
     translation: a covenant
     transliteration: ʿahdan
   13:
-    arabic: فَلَنۡ
+    arabic: فَلَن
     translation: so never
     transliteration: falan
   14:
-    arabic: يُّخۡلِفَ
+    arabic: يُخۡلِفَ
     translation: will break
     transliteration: yukh'lifa
   15:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   16:
-    arabic: عَهۡدَهٗۤ​
+    arabic: عَهۡدَهُۥٓۖ
     translation: His Covenant
     transliteration: ʿahdahu
   17:
-    arabic: اَمۡ
+    arabic: أَمۡ
     translation: Or
     transliteration: am
   18:
-    arabic: تَقُوۡلُوۡنَ
+    arabic: تَقُولُونَ
     translation: (do) you say
     transliteration: taqūlūna
   19:
@@ -84,7 +84,7 @@ word_by_word:
     translation: against
     transliteration: ʿalā
   20:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   21:
@@ -96,7 +96,7 @@ word_by_word:
     translation: not
     transliteration: lā
   23:
-    arabic: تَعۡلَمُوۡنَ‏
+    arabic: تَعۡلَمُونَ
     translation: you know
     transliteration: taʿlamūna
 ---

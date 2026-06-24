@@ -1,21 +1,21 @@
 ---
-arabic_ayat: يٰۤـاَيُّهَا الَّذِيۡنَ اٰمَنُوۡا لَا تَـتَّخِذُوا الَّذِيۡنَ اتَّخَذُوۡا
-  دِيۡنَكُمۡ هُزُوًا وَّلَعِبًا مِّنَ الَّذِيۡنَ اُوۡتُوا الۡكِتٰبَ مِنۡ قَبۡلِكُمۡ
-  وَالۡـكُفَّارَ اَوۡلِيَآءَ​ ۚ وَاتَّقُوا اللّٰهَ اِنۡ كُنۡتُمۡ مُّؤۡمِنِيۡنَ‏
+arabic_ayat: يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُواْ لَا تَتَّخِذُواْ ٱلَّذِينَ ٱتَّخَذُواْ
+  دِينَكُمۡ هُزُوٗا وَلَعِبٗا مِّنَ ٱلَّذِينَ أُوتُواْ ٱلۡكِتَٰبَ مِن قَبۡلِكُمۡ وَٱلۡكُفَّارَ
+  أَوۡلِيَآءَۚ وَٱتَّقُواْ ٱللَّهَ إِن كُنتُم مُّؤۡمِنِينَ
 sentence_translation: O believers! Do not seek the guardianship of those given the
   Scripture before you and the disbelievers who have made your faith a mockery and
   amusement. And be mindful of Allah if you are ˹truly˺ believers.
 word_by_word:
   1:
-    arabic: يٰۤـاَيُّهَا
+    arabic: يَٰٓأَيُّهَا
     translation: O you
     transliteration: yāayyuhā
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ ءَ
     translation: who
     transliteration: alladhīna
   3:
-    arabic: اٰمَنُوۡا
+    arabic: امَنُواْ
     translation: believe
     transliteration: āmanū
   4:
@@ -23,27 +23,27 @@ word_by_word:
     translation: (Do) not
     transliteration: lā
   5:
-    arabic: تَـتَّخِذُوا
+    arabic: تَتَّخِذُواْ
     translation: take
     transliteration: tattakhidhū
   6:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   7:
-    arabic: اتَّخَذُوۡا
+    arabic: ٱتَّخَذُواْ
     translation: take
     transliteration: ittakhadhū
   8:
-    arabic: دِيۡنَكُمۡ
+    arabic: دِينَكُمۡ
     translation: your religion
     transliteration: dīnakum
   9:
-    arabic: هُزُوًا
+    arabic: هُزُوٗا
     translation: (in) ridicule
     transliteration: huzuwan
   10:
-    arabic: وَّلَعِبًا
+    arabic: وَلَعِبٗا
     translation: and fun
     transliteration: walaʿiban
   11:
@@ -51,19 +51,19 @@ word_by_word:
     translation: from
     transliteration: mina
   12:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   13:
-    arabic: اُوۡتُوا
+    arabic: أُوتُواْ
     translation: are given
     transliteration: ūtū
   14:
-    arabic: الۡكِتٰبَ
+    arabic: ٱلۡكِتَٰبَ
     translation: the Book
     transliteration: l-kitāba
   15:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   16:
@@ -71,31 +71,31 @@ word_by_word:
     translation: before you
     transliteration: qablikum
   17:
-    arabic: وَالۡـكُفَّارَ
+    arabic: وَٱلۡكُفَّارَ
     translation: and the disbelievers
     transliteration: wal-kufāra
   18:
-    arabic: اَوۡلِيَآءَ​ ۚ
+    arabic: أَوۡلِيَآءَۚ
     translation: (as) allies
     transliteration: awliyāa
   19:
-    arabic: وَاتَّقُوا
+    arabic: وَٱتَّقُواْ
     translation: And fear
     transliteration: wa-ittaqū
   20:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   21:
-    arabic: اِنۡ
+    arabic: إِن
     translation: if
     transliteration: in
   22:
-    arabic: كُنۡتُمۡ
+    arabic: كُنتُم
     translation: you are
     transliteration: kuntum
   23:
-    arabic: مُّؤۡمِنِيۡنَ‏
+    arabic: مُّؤۡمِنِينَ
     translation: believers
     transliteration: mu'minīna
 ---

@@ -1,26 +1,26 @@
 ---
-arabic_ayat: اِنَّ الۡمُجۡرِمِيۡنَ فِىۡ ضَلٰلٍ وَّسُعُرٍ​ۘ‏
+arabic_ayat: إِنَّ ٱلۡمُجۡرِمِينَ فِي ضَلَٰلٖ وَسُعُرٖ
 sentence_translation: Indeed, the wicked are ˹entrenched˺ in misguidance, and ˹are
   bound for˺ blazes.
 word_by_word:
   1:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   2:
-    arabic: الۡمُجۡرِمِيۡنَ
+    arabic: ٱلۡمُجۡرِمِينَ
     translation: the criminals
     transliteration: l-muj'rimīna
   3:
-    arabic: فِىۡ
+    arabic: فِي
     translation: (are) in
     transliteration: fī
   4:
-    arabic: ضَلٰلٍ
+    arabic: ضَلَٰلٖ
     translation: an error
     transliteration: ḍalālin
   5:
-    arabic: وَّسُعُرٍ​ۘ‏
+    arabic: وَسُعُرٖ
     translation: and madness
     transliteration: wasuʿurin
 ---

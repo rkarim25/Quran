@@ -1,11 +1,11 @@
 ---
-arabic_ayat: وَ اِذۡ قَتَلۡتُمۡ نَفۡسًا فَادّٰرَءۡتُمۡ فِيۡهَا ​ؕ وَاللّٰهُ مُخۡرِجٌ
-  مَّا كُنۡتُمۡ تَكۡتُمُوۡنَۚ‏
+arabic_ayat: وَإِذۡ قَتَلۡتُمۡ نَفۡسٗا فَٱدَّٰرَٰءۡتُمۡ فِيهَاۖ وَٱللَّهُ مُخۡرِجٞ
+  مَّا كُنتُمۡ تَكۡتُمُونَ
 sentence_translation: ˹This is˺ when a man was killed and you disputed who the killer
   was, but Allah revealed what you concealed.
 word_by_word:
   1:
-    arabic: وَ اِذۡ
+    arabic: وَإِذۡ
     translation: And when
     transliteration: wa-idh
   2:
@@ -13,23 +13,23 @@ word_by_word:
     translation: you killed
     transliteration: qataltum
   3:
-    arabic: نَفۡسًا
+    arabic: نَفۡسٗا
     translation: a man
     transliteration: nafsan
   4:
-    arabic: فَادّٰرَءۡتُمۡ
+    arabic: فَٱدَّٰرَٰءۡتُمۡ
     translation: then you disputed
     transliteration: fa-iddāratum
   5:
-    arabic: فِيۡهَا ​ؕ
+    arabic: فِيهَاۖ
     translation: concerning it
     transliteration: fīhā
   6:
-    arabic: وَاللّٰهُ
+    arabic: وَٱللَّهُ
     translation: but Allah
     transliteration: wal-lahu
   7:
-    arabic: مُخۡرِجٌ
+    arabic: مُخۡرِجٞ
     translation: (is) the One Who brought forth
     transliteration: mukh'rijun
   8:
@@ -37,11 +37,11 @@ word_by_word:
     translation: what
     transliteration: mā
   9:
-    arabic: كُنۡتُمۡ
+    arabic: كُنتُمۡ
     translation: you were
     transliteration: kuntum
   10:
-    arabic: تَكۡتُمُوۡنَۚ‏
+    arabic: تَكۡتُمُونَ
     translation: concealing
     transliteration: taktumūna
 ---

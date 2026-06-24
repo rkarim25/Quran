@@ -1,10 +1,9 @@
 ---
-arabic_ayat: "اَلۡيَوۡمَ اُحِلَّ لَـكُمُ الطَّيِّبٰتُ​ ؕ وَطَعَامُ الَّذِيۡنَ اُوۡتُوۡا\
-  \ الۡكِتٰبَ حِلٌّ لَّـکُمۡ وَطَعَامُكُمۡ حِلٌّ لَّهُمۡ​ وَالۡمُحۡصَنٰتُ مِنَ الۡمُؤۡمِنٰتِ\
-  \ وَالۡمُحۡصَنٰتُ مِنَ الَّذِيۡنَ اُوۡتُوا الۡـكِتٰبَ مِنۡ قَبۡلِكُمۡ اِذَاۤ اٰتَيۡتُمُوۡهُنَّ\
-  \ اُجُوۡرَهُنَّ مُحۡصِنِيۡنَ غَيۡرَ مُسَافِحِيۡنَ وَلَا مُتَّخِذِىۡۤ اَخۡدَانٍ​ؕ\
-  \ وَمَنۡ يَّكۡفُرۡ بِالۡاِيۡمَانِ فَقَدۡ حَبِطَ عَمَلُهٗ وَهُوَ فِى الۡاٰخِرَةِ\
-  \ مِنَ الۡخٰسِرِيۡنَ‏ \uFEFF\uFEFF"
+arabic_ayat: ٱلۡيَوۡمَ أُحِلَّ لَكُمُ ٱلطَّيِّبَٰتُۖ وَطَعَامُ ٱلَّذِينَ أُوتُواْ
+  ٱلۡكِتَٰبَ حِلّٞ لَّكُمۡ وَطَعَامُكُمۡ حِلّٞ لَّهُمۡۖ وَٱلۡمُحۡصَنَٰتُ مِنَ ٱلۡمُؤۡمِنَٰتِ
+  وَٱلۡمُحۡصَنَٰتُ مِنَ ٱلَّذِينَ أُوتُواْ ٱلۡكِتَٰبَ مِن قَبۡلِكُمۡ إِذَآ ءَاتَيۡتُمُوهُنَّ
+  أُجُورَهُنَّ مُحۡصِنِينَ غَيۡرَ مُسَٰفِحِينَ وَلَا مُتَّخِذِيٓ أَخۡدَانٖۗ وَمَن
+  يَكۡفُرۡ بِٱلۡإِيمَٰنِ فَقَدۡ حَبِطَ عَمَلُهُۥ وَهُوَ فِي ٱلۡأٓخِرَةِ مِنَ ٱلۡخَٰسِرِينَ
 sentence_translation: Today all good, pure foods have been made lawful for you. Similarly,
   the food of the People of the Book is permissible for you and yours is permissible
   for them. And ˹permissible for you in marriage˺ are chaste believing women as well
@@ -14,19 +13,19 @@ sentence_translation: Today all good, pure foods have been made lawful for you. 
   in the Hereafter they will be among the losers.
 word_by_word:
   1:
-    arabic: اَلۡيَوۡمَ
+    arabic: ٱلۡيَوۡمَ
     translation: This day
     transliteration: al-yawma
   2:
-    arabic: اُحِلَّ
+    arabic: أُحِلَّ
     translation: are made lawful
     transliteration: uḥilla
   3:
-    arabic: لَـكُمُ
+    arabic: لَكُمُ
     translation: for you
     transliteration: lakumu
   4:
-    arabic: الطَّيِّبٰتُ​ ؕ
+    arabic: ٱلطَّيِّبَٰتُۖ
     translation: the good things
     transliteration: l-ṭayibātu
   5:
@@ -34,23 +33,23 @@ word_by_word:
     translation: and (the) food
     transliteration: waṭaʿāmu
   6:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: (of) those who
     transliteration: alladhīna
   7:
-    arabic: اُوۡتُوۡا
+    arabic: أُوتُواْ
     translation: were given
     transliteration: ūtū
   8:
-    arabic: الۡكِتٰبَ
+    arabic: ٱلۡكِتَٰبَ
     translation: the Book
     transliteration: l-kitāba
   9:
-    arabic: حِلٌّ
+    arabic: حِلّٞ
     translation: (is) lawful
     transliteration: ḥillun
   10:
-    arabic: لَّـکُمۡ
+    arabic: لَّكُمۡ
     translation: for you
     transliteration: lakum
   11:
@@ -58,15 +57,15 @@ word_by_word:
     translation: and your food
     transliteration: waṭaʿāmukum
   12:
-    arabic: حِلٌّ
+    arabic: حِلّٞ
     translation: (is) lawful
     transliteration: ḥillun
   13:
-    arabic: لَّهُمۡ​
+    arabic: لَّهُمۡۖ
     translation: for them
     transliteration: lahum
   14:
-    arabic: وَالۡمُحۡصَنٰتُ
+    arabic: وَٱلۡمُحۡصَنَٰتُ
     translation: And the chaste women
     transliteration: wal-muḥ'ṣanātu
   15:
@@ -74,11 +73,11 @@ word_by_word:
     translation: from
     transliteration: mina
   16:
-    arabic: الۡمُؤۡمِنٰتِ
+    arabic: ٱلۡمُؤۡمِنَٰتِ
     translation: the believers
     transliteration: l-mu'mināti
   17:
-    arabic: وَالۡمُحۡصَنٰتُ
+    arabic: وَٱلۡمُحۡصَنَٰتُ
     translation: and the chaste women
     transliteration: wal-muḥ'ṣanātu
   18:
@@ -86,19 +85,19 @@ word_by_word:
     translation: from
     transliteration: mina
   19:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   20:
-    arabic: اُوۡتُوا
+    arabic: أُوتُواْ
     translation: were given
     transliteration: ūtū
   21:
-    arabic: الۡـكِتٰبَ
+    arabic: ٱلۡكِتَٰبَ
     translation: the Book
     transliteration: l-kitāba
   22:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   23:
@@ -106,19 +105,19 @@ word_by_word:
     translation: before you
     transliteration: qablikum
   24:
-    arabic: اِذَاۤ
+    arabic: إِذَآ ءَ
     translation: when
     transliteration: idhā
   25:
-    arabic: اٰتَيۡتُمُوۡهُنَّ
+    arabic: اتَيۡتُمُوهُنَّ
     translation: you have given them
     transliteration: ātaytumūhunna
   26:
-    arabic: اُجُوۡرَهُنَّ
+    arabic: أُجُورَهُنَّ
     translation: their bridal due
     transliteration: ujūrahunna
   27:
-    arabic: مُحۡصِنِيۡنَ
+    arabic: مُحۡصِنِينَ
     translation: being chaste
     transliteration: muḥ'ṣinīna
   28:
@@ -126,7 +125,7 @@ word_by_word:
     translation: not
     transliteration: ghayra
   29:
-    arabic: مُسَافِحِيۡنَ
+    arabic: مُسَٰفِحِينَ
     translation: being lewd
     transliteration: musāfiḥīna
   30:
@@ -134,23 +133,23 @@ word_by_word:
     translation: and not
     transliteration: walā
   31:
-    arabic: مُتَّخِذِىۡۤ
+    arabic: مُتَّخِذِيٓ
     translation: ones (who are) taking
     transliteration: muttakhidhī
   32:
-    arabic: اَخۡدَانٍ​ؕ
+    arabic: أَخۡدَانٖۗ
     translation: secret lovers
     transliteration: akhdānin
   33:
-    arabic: وَمَنۡ
+    arabic: وَمَن
     translation: And whoever
     transliteration: waman
   34:
-    arabic: يَّكۡفُرۡ
+    arabic: يَكۡفُرۡ
     translation: denies
     transliteration: yakfur
   35:
-    arabic: بِالۡاِيۡمَانِ
+    arabic: بِٱلۡإِيمَٰنِ
     translation: 'the faith '
     transliteration: bil-īmāni
   36:
@@ -162,7 +161,7 @@ word_by_word:
     translation: (are) wasted
     transliteration: ḥabiṭa
   38:
-    arabic: عَمَلُهٗ
+    arabic: عَمَلُهُۥ
     translation: his deeds
     transliteration: ʿamaluhu
   39:
@@ -170,11 +169,11 @@ word_by_word:
     translation: and he
     transliteration: wahuwa
   40:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   41:
-    arabic: الۡاٰخِرَةِ
+    arabic: ٱلۡأٓخِرَةِ
     translation: the Hereafter
     transliteration: l-ākhirati
   42:
@@ -182,7 +181,7 @@ word_by_word:
     translation: (will be) among
     transliteration: mina
   43:
-    arabic: "الۡخٰسِرِيۡنَ‏ \uFEFF\uFEFF"
+    arabic: ٱلۡخَٰسِرِينَ
     translation: the losers
     transliteration: l-khāsirīna
 ---

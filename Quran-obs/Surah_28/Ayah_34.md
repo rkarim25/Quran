@@ -1,15 +1,15 @@
 ---
-arabic_ayat: وَاَخِىۡ هٰرُوۡنُ هُوَ اَفۡصَحُ مِنِّىۡ لِسَانًا فَاَرۡسِلۡهُ مَعِىَ
-  رِدۡاً يُّصَدِّقُنِىۡٓ​ اِنِّىۡۤ اَخَافُ اَنۡ يُّكَذِّبُوۡنِ‏
+arabic_ayat: وَأَخِي هَٰرُونُ هُوَ أَفۡصَحُ مِنِّي لِسَانٗا فَأَرۡسِلۡهُ مَعِيَ رِدۡءٗا
+  يُصَدِّقُنِيٓۖ إِنِّيٓ أَخَافُ أَن يُكَذِّبُونِ
 sentence_translation: And my brother Aaron is more eloquent than I, so send him with
   me as a helper to support what I say, for I truly fear they may reject me.”
 word_by_word:
   1:
-    arabic: وَاَخِىۡ
+    arabic: وَأَخِي
     translation: And my brother
     transliteration: wa-akhī
   2:
-    arabic: هٰرُوۡنُ
+    arabic: هَٰرُونُ
     translation: Harun
     transliteration: hārūnu
   3:
@@ -17,47 +17,47 @@ word_by_word:
     translation: he
     transliteration: huwa
   4:
-    arabic: اَفۡصَحُ
+    arabic: أَفۡصَحُ
     translation: (is) more eloquent
     transliteration: afṣaḥu
   5:
-    arabic: مِنِّىۡ
+    arabic: مِنِّي
     translation: than me
     transliteration: minnī
   6:
-    arabic: لِسَانًا
+    arabic: لِسَانٗا
     translation: (in) speech
     transliteration: lisānan
   7:
-    arabic: فَاَرۡسِلۡهُ
+    arabic: فَأَرۡسِلۡهُ
     translation: so send him
     transliteration: fa-arsil'hu
   8:
-    arabic: مَعِىَ
+    arabic: مَعِيَ
     translation: with me
     transliteration: maʿiya
   9:
-    arabic: رِدۡاً
+    arabic: رِدۡءٗا
     translation: (as) a helper
     transliteration: rid'an
   10:
-    arabic: يُّصَدِّقُنِىۡٓ​
+    arabic: يُصَدِّقُنِيٓۖ
     translation: who will confirm me
     transliteration: yuṣaddiqunī
   11:
-    arabic: اِنِّىۡۤ
+    arabic: إِنِّيٓ
     translation: Indeed
     transliteration: innī
   12:
-    arabic: اَخَافُ
+    arabic: أَخَافُ
     translation: I fear
     transliteration: akhāfu
   13:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that
     transliteration: an
   14:
-    arabic: يُّكَذِّبُوۡنِ‏
+    arabic: يُكَذِّبُونِ
     translation: they will deny me
     transliteration: yukadhibūni
 ---

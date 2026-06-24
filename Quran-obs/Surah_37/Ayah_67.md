@@ -1,5 +1,5 @@
 ---
-arabic_ayat: ثُمَّ اِنَّ لَهُمۡ عَلَيۡهَا لَشَوۡبًا مِّنۡ حَمِيۡمٍ​ۚ‏
+arabic_ayat: ثُمَّ إِنَّ لَهُمۡ عَلَيۡهَا لَشَوۡبٗا مِّنۡ حَمِيمٖ
 sentence_translation: Then on top of that they will be given a blend of boiling drink.
 word_by_word:
   1:
@@ -7,7 +7,7 @@ word_by_word:
     translation: Then
     transliteration: thumma
   2:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: indeed
     transliteration: inna
   3:
@@ -19,7 +19,7 @@ word_by_word:
     translation: in it
     transliteration: ʿalayhā
   5:
-    arabic: لَشَوۡبًا
+    arabic: لَشَوۡبٗا
     translation: (is) a mixture
     transliteration: lashawban
   6:
@@ -27,7 +27,7 @@ word_by_word:
     translation: of
     transliteration: min
   7:
-    arabic: حَمِيۡمٍ​ۚ‏
+    arabic: حَمِيمٖ
     translation: boiling water
     transliteration: ḥamīmin
 ---

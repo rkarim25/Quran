@@ -1,6 +1,6 @@
 ---
-arabic_ayat: لَا تَمُدَّنَّ عَيۡنَيۡكَ اِلٰى مَا مَتَّعۡنَا بِهٖۤ اَزۡوَاجًا مِّنۡهُمۡ
-  وَلَا تَحۡزَنۡ عَلَيۡهِمۡ وَاخۡفِضۡ جَنَاحَكَ لِلۡمُؤۡمِنِيۡنَ‏
+arabic_ayat: لَا تَمُدَّنَّ عَيۡنَيۡكَ إِلَىٰ مَا مَتَّعۡنَا بِهِۦٓ أَزۡوَٰجٗا مِّنۡهُمۡ
+  وَلَا تَحۡزَنۡ عَلَيۡهِمۡ وَٱخۡفِضۡ جَنَاحَكَ لِلۡمُؤۡمِنِينَ
 sentence_translation: Do not let your eyes crave the ˹fleeting˺ pleasures We have
   provided for some of the disbelievers, nor grieve for them. And be gracious to the
   believers.
@@ -18,7 +18,7 @@ word_by_word:
     translation: your eyes
     transliteration: ʿaynayka
   4:
-    arabic: اِلٰى
+    arabic: إِلَىٰ
     translation: towards
     transliteration: ilā
   5:
@@ -30,11 +30,11 @@ word_by_word:
     translation: We have bestowed
     transliteration: mattaʿnā
   7:
-    arabic: بِهٖۤ
+    arabic: بِهِۦٓ
     translation: with it
     transliteration: bihi
   8:
-    arabic: اَزۡوَاجًا
+    arabic: أَزۡوَٰجٗا
     translation: (to) categories
     transliteration: azwājan
   9:
@@ -54,7 +54,7 @@ word_by_word:
     translation: over them
     transliteration: ʿalayhim
   13:
-    arabic: وَاخۡفِضۡ
+    arabic: وَٱخۡفِضۡ
     translation: And lower
     transliteration: wa-ikh'fiḍ
   14:
@@ -62,7 +62,7 @@ word_by_word:
     translation: your wing
     transliteration: janāḥaka
   15:
-    arabic: لِلۡمُؤۡمِنِيۡنَ‏
+    arabic: لِلۡمُؤۡمِنِينَ
     translation: to the believers
     transliteration: lil'mu'minīna
 ---

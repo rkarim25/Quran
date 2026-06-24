@@ -1,15 +1,15 @@
 ---
-arabic_ayat: فَمَنۡ يَّعۡمَلۡ مِنَ الصّٰلِحٰتِ وَهُوَ مُؤۡمِنٌ فَلَا كُفۡرَانَ لِسَعۡيِهٖ​ۚ
-  وَاِنَّا لَهٗ كٰتِبُوۡنَ‏
+arabic_ayat: فَمَن يَعۡمَلۡ مِنَ ٱلصَّٰلِحَٰتِ وَهُوَ مُؤۡمِنٞ فَلَا كُفۡرَانَ لِسَعۡيِهِۦ
+  وَإِنَّا لَهُۥ كَٰتِبُونَ
 sentence_translation: So whoever does good and is a believer will never be denied
   ˹the reward for˺ their striving, for We are recording it all.
 word_by_word:
   1:
-    arabic: فَمَنۡ
+    arabic: فَمَن
     translation: Then whoever
     transliteration: faman
   2:
-    arabic: يَّعۡمَلۡ
+    arabic: يَعۡمَلۡ
     translation: does
     transliteration: yaʿmal
   3:
@@ -17,7 +17,7 @@ word_by_word:
     translation: '[of]'
     transliteration: mina
   4:
-    arabic: الصّٰلِحٰتِ
+    arabic: ٱلصَّٰلِحَٰتِ
     translation: '[the] righteous deeds'
     transliteration: l-ṣāliḥāti
   5:
@@ -25,7 +25,7 @@ word_by_word:
     translation: while he
     transliteration: wahuwa
   6:
-    arabic: مُؤۡمِنٌ
+    arabic: مُؤۡمِنٞ
     translation: (is) a believer
     transliteration: mu'minun
   7:
@@ -37,19 +37,19 @@ word_by_word:
     translation: (will be) rejected
     transliteration: kuf'rāna
   9:
-    arabic: لِسَعۡيِهٖ​ۚ
+    arabic: لِسَعۡيِهِۦ
     translation: '[of] his effort'
     transliteration: lisaʿyihi
   10:
-    arabic: وَاِنَّا
+    arabic: وَإِنَّا
     translation: And indeed, We
     transliteration: wa-innā
   11:
-    arabic: لَهٗ
+    arabic: لَهُۥ
     translation: of it
     transliteration: lahu
   12:
-    arabic: كٰتِبُوۡنَ‏
+    arabic: كَٰتِبُونَ
     translation: (are) Recorders
     transliteration: kātibūna
 ---

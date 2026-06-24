@@ -1,9 +1,8 @@
 ---
-arabic_ayat: "وَمِنۡ اَهۡلِ الۡكِتٰبِ مَنۡ اِنۡ تَاۡمَنۡهُ بِقِنۡطَارٍ يُّؤَدِّهٖۤ\
-  \ اِلَيۡكَ​ۚ وَمِنۡهُمۡ مَّنۡ اِنۡ تَاۡمَنۡهُ بِدِيۡنَارٍ لَّا يُؤَدِّهٖۤ اِلَيۡكَ\
-  \ اِلَّا مَا دُمۡتَ عَلَيۡهِ قَآٮِٕمًا ​ؕ ذٰ لِكَ بِاَنَّهُمۡ قَالُوۡا لَيۡسَ عَلَيۡنَا\
-  \ فِىۡ الۡاُمِّيّٖنَ سَبِيۡلٌۚ وَيَقُوۡلُوۡنَ عَلَى اللّٰهِ الۡكَذِبَ وَ هُمۡ يَعۡلَمُوۡنَ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: ۞ وَمِنۡ أَهۡلِ ٱلۡكِتَٰبِ مَنۡ إِن تَأۡمَنۡهُ بِقِنطَارٖ يُؤَدِّهِۦٓ
+  إِلَيۡكَ وَمِنۡهُم مَّنۡ إِن تَأۡمَنۡهُ بِدِينَارٖ لَّا يُؤَدِّهِۦٓ إِلَيۡكَ إِلَّا
+  مَا دُمۡتَ عَلَيۡهِ قَآئِمٗاۗ ذَٰلِكَ بِأَنَّهُمۡ قَالُواْ لَيۡسَ عَلَيۡنَا فِي
+  ٱلۡأُمِّيِّـۧنَ سَبِيلٞ وَيَقُولُونَ عَلَى ٱللَّهِ ٱلۡكَذِبَ وَهُمۡ يَعۡلَمُونَ
 sentence_translation: There are some among the People of the Book who, if entrusted
   with a stack of gold, will readily return it. Yet there are others who, if entrusted
   with a single coin, will not repay it unless you constantly demand it. This is because
@@ -11,15 +10,15 @@ sentence_translation: There are some among the People of the Book who, if entrus
   attribute lies to Allah knowingly.
 word_by_word:
   1:
-    arabic: ۞ وَمِنۡ
+    arabic: ۞ وَمِنۡ
     translation: And from
     transliteration: wamin
   2:
-    arabic: اَهۡلِ
+    arabic: أَهۡلِ
     translation: (the) People
     transliteration: ahli
   3:
-    arabic: الۡكِتٰبِ
+    arabic: ٱلۡكِتَٰبِ
     translation: (of) the Book
     transliteration: l-kitābi
   4:
@@ -27,27 +26,27 @@ word_by_word:
     translation: (is he) who
     transliteration: man
   5:
-    arabic: اِنۡ
+    arabic: إِن
     translation: if
     transliteration: in
   6:
-    arabic: تَاۡمَنۡهُ
+    arabic: تَأۡمَنۡهُ
     translation: you entrust him
     transliteration: tamanhu
   7:
-    arabic: بِقِنۡطَارٍ
+    arabic: بِقِنطَارٖ
     translation: with a great amount of wealth
     transliteration: biqinṭārin
   8:
-    arabic: يُّؤَدِّهٖۤ
+    arabic: يُؤَدِّهِۦٓ
     translation: he will return it
     transliteration: yu-addihi
   9:
-    arabic: اِلَيۡكَ​ۚ
+    arabic: إِلَيۡكَ
     translation: to you
     transliteration: ilayka
   10:
-    arabic: وَمِنۡهُمۡ
+    arabic: وَمِنۡهُم
     translation: And from them
     transliteration: wamin'hum
   11:
@@ -55,15 +54,15 @@ word_by_word:
     translation: (is he) who
     transliteration: man
   12:
-    arabic: اِنۡ
+    arabic: إِن
     translation: if
     transliteration: in
   13:
-    arabic: تَاۡمَنۡهُ
+    arabic: تَأۡمَنۡهُ
     translation: you entrust him
     transliteration: tamanhu
   14:
-    arabic: بِدِيۡنَارٍ
+    arabic: بِدِينَارٖ
     translation: with a single coin
     transliteration: bidīnārin
   15:
@@ -71,15 +70,15 @@ word_by_word:
     translation: not
     transliteration: lā
   16:
-    arabic: يُؤَدِّهٖۤ
+    arabic: يُؤَدِّهِۦٓ
     translation: he will return it
     transliteration: yu-addihi
   17:
-    arabic: اِلَيۡكَ
+    arabic: إِلَيۡكَ
     translation: to you
     transliteration: ilayka
   18:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   19:
@@ -95,19 +94,19 @@ word_by_word:
     translation: over him
     transliteration: ʿalayhi
   22:
-    arabic: قَآٮِٕمًا ​ؕ
+    arabic: قَآئِمٗاۗ
     translation: standing
     transliteration: qāiman
   23:
-    arabic: ذٰ لِكَ
+    arabic: ذَٰلِكَ
     translation: That
     transliteration: dhālika
   24:
-    arabic: بِاَنَّهُمۡ
+    arabic: بِأَنَّهُمۡ
     translation: (is) because they
     transliteration: bi-annahum
   25:
-    arabic: قَالُوۡا
+    arabic: قَالُواْ
     translation: said
     transliteration: qālū
   26:
@@ -119,19 +118,19 @@ word_by_word:
     translation: on us
     transliteration: ʿalaynā
   28:
-    arabic: فِىۡ
+    arabic: فِي
     translation: concerning
     transliteration: fī
   29:
-    arabic: الۡاُمِّيّٖنَ
+    arabic: ٱلۡأُمِّيِّـۧنَ
     translation: the unlettered people
     transliteration: l-umiyīna
   30:
-    arabic: سَبِيۡلٌۚ
+    arabic: سَبِيلٞ
     translation: any [way] (accountability)
     transliteration: sabīlun
   31:
-    arabic: وَيَقُوۡلُوۡنَ
+    arabic: وَيَقُولُونَ
     translation: And they say
     transliteration: wayaqūlūna
   32:
@@ -139,19 +138,19 @@ word_by_word:
     translation: about
     transliteration: ʿalā
   33:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   34:
-    arabic: الۡكَذِبَ
+    arabic: ٱلۡكَذِبَ
     translation: the lie
     transliteration: l-kadhiba
   35:
-    arabic: وَ هُمۡ
+    arabic: وَهُمۡ
     translation: while they
     transliteration: wahum
   36:
-    arabic: "يَعۡلَمُوۡنَ‏ \uFEFF\uFEFF"
+    arabic: يَعۡلَمُونَ
     translation: know
     transliteration: yaʿlamūna
 ---

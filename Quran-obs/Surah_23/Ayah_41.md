@@ -1,39 +1,39 @@
 ---
-arabic_ayat: فَاَخَذَتۡهُمُ الصَّيۡحَةُ بِالۡحَـقِّ فَجَعَلۡنٰهُمۡ غُثَآءً​ۚ فَبُعۡدًا
-  لِّـلۡقَوۡمِ الظّٰلِمِيۡنَ‏
+arabic_ayat: فَأَخَذَتۡهُمُ ٱلصَّيۡحَةُ بِٱلۡحَقِّ فَجَعَلۡنَٰهُمۡ غُثَآءٗۚ فَبُعۡدٗا
+  لِّلۡقَوۡمِ ٱلظَّٰلِمِينَ
 sentence_translation: Then the ˹mighty˺ blast overtook them with justice, and We reduced
   them to rubble. So away with the wrongdoing people!
 word_by_word:
   1:
-    arabic: فَاَخَذَتۡهُمُ
+    arabic: فَأَخَذَتۡهُمُ
     translation: So seized them
     transliteration: fa-akhadhathumu
   2:
-    arabic: الصَّيۡحَةُ
+    arabic: ٱلصَّيۡحَةُ
     translation: the awful cry
     transliteration: l-ṣayḥatu
   3:
-    arabic: بِالۡحَـقِّ
+    arabic: بِٱلۡحَقِّ
     translation: in truth
     transliteration: bil-ḥaqi
   4:
-    arabic: فَجَعَلۡنٰهُمۡ
+    arabic: فَجَعَلۡنَٰهُمۡ
     translation: and We made them
     transliteration: fajaʿalnāhum
   5:
-    arabic: غُثَآءً​ۚ
+    arabic: غُثَآءٗۚ
     translation: (as) rubbish of dead leaves
     transliteration: ghuthāan
   6:
-    arabic: فَبُعۡدًا
+    arabic: فَبُعۡدٗا
     translation: So away
     transliteration: fabuʿ'dan
   7:
-    arabic: لِّـلۡقَوۡمِ
+    arabic: لِّلۡقَوۡمِ
     translation: 'with the people '
     transliteration: lil'qawmi
   8:
-    arabic: الظّٰلِمِيۡنَ‏
+    arabic: ٱلظَّٰلِمِينَ
     translation: the wrongdoers
     transliteration: l-ẓālimīna
 ---

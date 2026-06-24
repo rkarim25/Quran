@@ -1,5 +1,5 @@
 ---
-arabic_ayat: ثُمَّ يَطۡمَعُ اَنۡ اَزِيۡدَ  ۙ‏
+arabic_ayat: ثُمَّ يَطۡمَعُ أَنۡ أَزِيدَ
 sentence_translation: Yet he is hungry for more.
 word_by_word:
   1:
@@ -11,11 +11,11 @@ word_by_word:
     translation: he desires
     transliteration: yaṭmaʿu
   3:
-    arabic: اَنۡ
+    arabic: أَنۡ
     translation: that
     transliteration: an
   4:
-    arabic: اَزِيۡدَ  ۙ‏
+    arabic: أَزِيدَ
     translation: I (should) add more
     transliteration: azīda
 ---

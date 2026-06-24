@@ -1,6 +1,6 @@
 ---
-arabic_ayat: وَلَمَّا بَرَزُوۡا لِجَـالُوۡتَ وَجُنُوۡدِهٖ قَالُوۡا رَبَّنَآ اَفۡرِغۡ
-  عَلَيۡنَا صَبۡرًا وَّثَبِّتۡ اَقۡدَامَنَا وَانۡصُرۡنَا عَلَى الۡقَوۡمِ الۡکٰفِرِيۡنَؕ‏
+arabic_ayat: وَلَمَّا بَرَزُواْ لِجَالُوتَ وَجُنُودِهِۦ قَالُواْ رَبَّنَآ أَفۡرِغۡ
+  عَلَيۡنَا صَبۡرٗا وَثَبِّتۡ أَقۡدَامَنَا وَٱنصُرۡنَا عَلَى ٱلۡقَوۡمِ ٱلۡكَٰفِرِينَ
 sentence_translation: When they advanced to face Goliath and his warriors, they prayed,
   “Our Lord! Shower us with perseverance, make our steps firm, and give us victory
   over the disbelieving people.”
@@ -10,19 +10,19 @@ word_by_word:
     translation: And when
     transliteration: walammā
   2:
-    arabic: بَرَزُوۡا
+    arabic: بَرَزُواْ
     translation: they went forth
     transliteration: barazū
   3:
-    arabic: لِجَـالُوۡتَ
+    arabic: لِجَالُوتَ
     translation: to (face) Jalut
     transliteration: lijālūta
   4:
-    arabic: وَجُنُوۡدِهٖ
+    arabic: وَجُنُودِهِۦ
     translation: and his troops
     transliteration: wajunūdihi
   5:
-    arabic: قَالُوۡا
+    arabic: قَالُواْ
     translation: they said
     transliteration: qālū
   6:
@@ -30,7 +30,7 @@ word_by_word:
     translation: Our Lord
     transliteration: rabbanā
   7:
-    arabic: اَفۡرِغۡ
+    arabic: أَفۡرِغۡ
     translation: Pour
     transliteration: afrigh
   8:
@@ -38,19 +38,19 @@ word_by_word:
     translation: on us
     transliteration: ʿalaynā
   9:
-    arabic: صَبۡرًا
+    arabic: صَبۡرٗا
     translation: patience
     transliteration: ṣabran
   10:
-    arabic: وَّثَبِّتۡ
+    arabic: وَثَبِّتۡ
     translation: and make firm
     transliteration: wathabbit
   11:
-    arabic: اَقۡدَامَنَا
+    arabic: أَقۡدَامَنَا
     translation: our feet
     transliteration: aqdāmanā
   12:
-    arabic: وَانۡصُرۡنَا
+    arabic: وَٱنصُرۡنَا
     translation: and help us
     transliteration: wa-unṣur'nā
   13:
@@ -58,11 +58,11 @@ word_by_word:
     translation: against
     transliteration: ʿalā
   14:
-    arabic: الۡقَوۡمِ
+    arabic: ٱلۡقَوۡمِ
     translation: the people
     transliteration: l-qawmi
   15:
-    arabic: الۡکٰفِرِيۡنَؕ‏
+    arabic: ٱلۡكَٰفِرِينَ
     translation: (who are) disbelieving
     transliteration: l-kāfirīna
 ---

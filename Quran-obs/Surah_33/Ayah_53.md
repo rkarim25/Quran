@@ -1,12 +1,12 @@
 ---
-arabic_ayat: يٰۤاَيُّهَا الَّذِيۡنَ اٰمَنُوۡا لَا تَدۡخُلُوۡا بُيُوۡتَ النَّبِىِّ
-  اِلَّاۤ اَنۡ يُّؤۡذَنَ لَـكُمۡ اِلٰى طَعَامٍ غَيۡرَ نٰظِرِيۡنَ اِنٰٮهُ وَلٰـكِنۡ
-  اِذَا دُعِيۡتُمۡ فَادۡخُلُوۡا فَاِذَا طَعِمۡتُمۡ فَانْتَشِرُوۡا وَلَا مُسۡتَاۡنِسِيۡنَ
-  لِحَـدِيۡثٍ ؕ اِنَّ ذٰلِكُمۡ كَانَ يُؤۡذِى النَّبِىَّ فَيَسۡتَحۡىٖ مِنۡكُمۡ وَاللّٰهُ
-  لَا يَسۡتَحۡىٖ مِنَ الۡحَـقِّ ؕ وَاِذَا سَاَ لۡتُمُوۡهُنَّ مَتَاعًا فَسۡـَٔـــلُوۡهُنَّ
-  مِنۡ وَّرَآءِ حِجَابٍ ؕ ذٰ لِكُمۡ اَطۡهَرُ لِقُلُوۡبِكُمۡ وَقُلُوۡبِهِنَّ ؕ وَمَا
-  كَانَ لَـكُمۡ اَنۡ تُؤۡذُوۡا رَسُوۡلَ اللّٰهِ وَلَاۤ اَنۡ تَـنۡكِحُوۡۤا اَزۡوَاجَهٗ
-  مِنۡۢ بَعۡدِهٖۤ اَبَدًا ؕ اِنَّ ذٰ لِكُمۡ كَانَ عِنۡدَ اللّٰهِ عَظِيۡمًا‏
+arabic_ayat: يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُواْ لَا تَدۡخُلُواْ بُيُوتَ ٱلنَّبِيِّ
+  إِلَّآ أَن يُؤۡذَنَ لَكُمۡ إِلَىٰ طَعَامٍ غَيۡرَ نَٰظِرِينَ إِنَىٰهُ وَلَٰكِنۡ
+  إِذَا دُعِيتُمۡ فَٱدۡخُلُواْ فَإِذَا طَعِمۡتُمۡ فَٱنتَشِرُواْ وَلَا مُسۡتَـٔۡنِسِينَ
+  لِحَدِيثٍۚ إِنَّ ذَٰلِكُمۡ كَانَ يُؤۡذِي ٱلنَّبِيَّ فَيَسۡتَحۡيِۦ مِنكُمۡۖ وَٱللَّهُ
+  لَا يَسۡتَحۡيِۦ مِنَ ٱلۡحَقِّۚ وَإِذَا سَأَلۡتُمُوهُنَّ مَتَٰعٗا فَسۡـَٔلُوهُنَّ
+  مِن وَرَآءِ حِجَابٖۚ ذَٰلِكُمۡ أَطۡهَرُ لِقُلُوبِكُمۡ وَقُلُوبِهِنَّۚ وَمَا كَانَ
+  لَكُمۡ أَن تُؤۡذُواْ رَسُولَ ٱللَّهِ وَلَآ أَن تَنكِحُوٓاْ أَزۡوَٰجَهُۥ مِنۢ بَعۡدِهِۦٓ
+  أَبَدًاۚ إِنَّ ذَٰلِكُمۡ كَانَ عِندَ ٱللَّهِ عَظِيمًا
 sentence_translation: O believers! Do not enter the homes of the Prophet without permission
   ˹and if invited˺ for a meal, do not ˹come too early and˺ linger until the meal is
   ready. But if you are invited, then enter ˹on time˺. Once you have eaten, then go
@@ -18,15 +18,15 @@ sentence_translation: O believers! Do not enter the homes of the Prophet without
   certainly be a major offence in the sight of Allah.
 word_by_word:
   1:
-    arabic: يٰۤاَيُّهَا
+    arabic: يَٰٓأَيُّهَا
     translation: O you who believe
     transliteration: yāayyuhā
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ ءَ
     translation: O you who believe
     transliteration: alladhīna
   3:
-    arabic: اٰمَنُوۡا
+    arabic: امَنُواْ
     translation: O you who believe
     transliteration: āmanū
   4:
@@ -34,35 +34,35 @@ word_by_word:
     translation: (Do) not
     transliteration: lā
   5:
-    arabic: تَدۡخُلُوۡا
+    arabic: تَدۡخُلُواْ
     translation: enter
     transliteration: tadkhulū
   6:
-    arabic: بُيُوۡتَ
+    arabic: بُيُوتَ
     translation: (the) houses
     transliteration: buyūta
   7:
-    arabic: النَّبِىِّ
+    arabic: ٱلنَّبِيِّ
     translation: (of) the Prophet
     transliteration: l-nabiyi
   8:
-    arabic: اِلَّاۤ
+    arabic: إِلَّآ
     translation: except
     transliteration: illā
   9:
-    arabic: اَنۡ
+    arabic: أَن
     translation: when
     transliteration: an
   10:
-    arabic: يُّؤۡذَنَ
+    arabic: يُؤۡذَنَ
     translation: permission is given
     transliteration: yu'dhana
   11:
-    arabic: لَـكُمۡ
+    arabic: لَكُمۡ
     translation: to you
     transliteration: lakum
   12:
-    arabic: اِلٰى
+    arabic: إِلَىٰ
     translation: for
     transliteration: ilā
   13:
@@ -74,31 +74,31 @@ word_by_word:
     translation: without
     transliteration: ghayra
   15:
-    arabic: نٰظِرِيۡنَ
+    arabic: نَٰظِرِينَ
     translation: awaiting
     transliteration: nāẓirīna
   16:
-    arabic: اِنٰٮهُ
+    arabic: إِنَىٰهُ
     translation: its preparation
     transliteration: ināhu
   17:
-    arabic: وَلٰـكِنۡ
+    arabic: وَلَٰكِنۡ
     translation: But
     transliteration: walākin
   18:
-    arabic: اِذَا
+    arabic: إِذَا
     translation: when
     transliteration: idhā
   19:
-    arabic: دُعِيۡتُمۡ
+    arabic: دُعِيتُمۡ
     translation: you are invited
     transliteration: duʿītum
   20:
-    arabic: فَادۡخُلُوۡا
+    arabic: فَٱدۡخُلُواْ
     translation: then enter
     transliteration: fa-ud'khulū
   21:
-    arabic: فَاِذَا
+    arabic: فَإِذَا
     translation: and when
     transliteration: fa-idhā
   22:
@@ -106,7 +106,7 @@ word_by_word:
     translation: you have eaten
     transliteration: ṭaʿim'tum
   23:
-    arabic: فَانْتَشِرُوۡا
+    arabic: فَٱنتَشِرُواْ
     translation: then disperse
     transliteration: fa-intashirū
   24:
@@ -114,19 +114,19 @@ word_by_word:
     translation: and not
     transliteration: walā
   25:
-    arabic: مُسۡتَاۡنِسِيۡنَ
+    arabic: مُسۡتَـٔۡنِسِينَ
     translation: seeking to remain
     transliteration: mus'tanisīna
   26:
-    arabic: لِحَـدِيۡثٍ ؕ
+    arabic: لِحَدِيثٍۚ
     translation: for a conversation
     transliteration: liḥadīthin
   27:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   28:
-    arabic: ذٰلِكُمۡ
+    arabic: ذَٰلِكُمۡ
     translation: that
     transliteration: dhālikum
   29:
@@ -134,23 +134,23 @@ word_by_word:
     translation: was
     transliteration: kāna
   30:
-    arabic: يُؤۡذِى
+    arabic: يُؤۡذِي
     translation: troubling
     transliteration: yu'dhī
   31:
-    arabic: النَّبِىَّ
+    arabic: ٱلنَّبِيَّ
     translation: the Prophet
     transliteration: l-nabiya
   32:
-    arabic: فَيَسۡتَحۡىٖ
+    arabic: فَيَسۡتَحۡيِۦ
     translation: and he is shy
     transliteration: fayastaḥyī
   33:
-    arabic: مِنۡكُمۡ
+    arabic: مِنكُمۡۖ
     translation: of (dismissing) you
     transliteration: minkum
   34:
-    arabic: وَاللّٰهُ
+    arabic: وَٱللَّهُ
     translation: But Allah
     transliteration: wal-lahu
   35:
@@ -158,7 +158,7 @@ word_by_word:
     translation: is not shy
     transliteration: lā
   36:
-    arabic: يَسۡتَحۡىٖ
+    arabic: يَسۡتَحۡيِۦ
     translation: is not shy
     transliteration: yastaḥyī
   37:
@@ -166,51 +166,51 @@ word_by_word:
     translation: of
     transliteration: mina
   38:
-    arabic: الۡحَـقِّ ؕ
+    arabic: ٱلۡحَقِّۚ
     translation: the truth
     transliteration: l-ḥaqi
   39:
-    arabic: وَاِذَا
+    arabic: وَإِذَا
     translation: And when
     transliteration: wa-idhā
   40:
-    arabic: سَاَ لۡتُمُوۡهُنَّ
+    arabic: سَأَلۡتُمُوهُنَّ
     translation: you ask them
     transliteration: sa-altumūhunna
   41:
-    arabic: مَتَاعًا
+    arabic: مَتَٰعٗا
     translation: (for) anything
     transliteration: matāʿan
   42:
-    arabic: فَسۡـَٔـــلُوۡهُنَّ
+    arabic: فَسۡـَٔلُوهُنَّ
     translation: then ask them
     transliteration: fasalūhunna
   43:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   44:
-    arabic: وَّرَآءِ
+    arabic: وَرَآءِ
     translation: behind
     transliteration: warāi
   45:
-    arabic: حِجَابٍ ؕ
+    arabic: حِجَابٖۚ
     translation: a screen
     transliteration: ḥijābin
   46:
-    arabic: ذٰ لِكُمۡ
+    arabic: ذَٰلِكُمۡ
     translation: That
     transliteration: dhālikum
   47:
-    arabic: اَطۡهَرُ
+    arabic: أَطۡهَرُ
     translation: (is) purer
     transliteration: aṭharu
   48:
-    arabic: لِقُلُوۡبِكُمۡ
+    arabic: لِقُلُوبِكُمۡ
     translation: for your hearts
     transliteration: liqulūbikum
   49:
-    arabic: وَقُلُوۡبِهِنَّ ؕ
+    arabic: وَقُلُوبِهِنَّۚ
     translation: and their hearts
     transliteration: waqulūbihinna
   50:
@@ -222,59 +222,59 @@ word_by_word:
     translation: is
     transliteration: kāna
   52:
-    arabic: لَـكُمۡ
+    arabic: لَكُمۡ
     translation: for you
     transliteration: lakum
   53:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that
     transliteration: an
   54:
-    arabic: تُؤۡذُوۡا
+    arabic: تُؤۡذُواْ
     translation: you trouble
     transliteration: tu'dhū
   55:
-    arabic: رَسُوۡلَ
+    arabic: رَسُولَ
     translation: (the) Messenger
     transliteration: rasūla
   56:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (of) Allah
     transliteration: l-lahi
   57:
-    arabic: وَلَاۤ
+    arabic: وَلَآ
     translation: and not
     transliteration: walā
   58:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that
     transliteration: an
   59:
-    arabic: تَـنۡكِحُوۡۤا
+    arabic: تَنكِحُوٓاْ
     translation: you should marry
     transliteration: tankiḥū
   60:
-    arabic: اَزۡوَاجَهٗ
+    arabic: أَزۡوَٰجَهُۥ
     translation: his wives
     transliteration: azwājahu
   61:
-    arabic: مِنۡۢ
+    arabic: مِنۢ
     translation: after him
     transliteration: min
   62:
-    arabic: بَعۡدِهٖۤ
+    arabic: بَعۡدِهِۦٓ
     translation: after him
     transliteration: baʿdihi
   63:
-    arabic: اَبَدًا ؕ
+    arabic: أَبَدًاۚ
     translation: ever
     transliteration: abadan
   64:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   65:
-    arabic: ذٰ لِكُمۡ
+    arabic: ذَٰلِكُمۡ
     translation: that
     transliteration: dhālikum
   66:
@@ -282,15 +282,15 @@ word_by_word:
     translation: is
     transliteration: kāna
   67:
-    arabic: عِنۡدَ
+    arabic: عِندَ
     translation: near
     transliteration: ʿinda
   68:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   69:
-    arabic: عَظِيۡمًا‏
+    arabic: عَظِيمًا
     translation: an enormity
     transliteration: ʿaẓīman
 ---

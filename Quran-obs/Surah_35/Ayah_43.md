@@ -1,23 +1,22 @@
 ---
-arabic_ayat: اۨسۡتِكۡبَارًا فِى الۡاَرۡضِ وَمَكۡرَ السَّيّیٴِؕ وَلَا يَحِيۡقُ الۡمَكۡرُ
-  السَّيِّـئُ اِلَّا بِاَهۡلِهٖ ؕ فَهَلۡ يَنۡظُرُوۡنَ اِلَّا سُنَّتَ الۡاَوَّلِيۡنَ
-  ۚ فَلَنۡ تَجِدَ لِسُنَّتِ اللّٰهِ تَبۡدِيۡلًا ۚ وَلَنۡ تَجِدَ لِسُنَّتِ اللّٰهِ
-  تَحۡوِيۡلًا‏
+arabic_ayat: ٱسۡتِكۡبَارٗا فِي ٱلۡأَرۡضِ وَمَكۡرَ ٱلسَّيِّيِٕۚ وَلَا يَحِيقُ ٱلۡمَكۡرُ
+  ٱلسَّيِّئُ إِلَّا بِأَهۡلِهِۦۚ فَهَلۡ يَنظُرُونَ إِلَّا سُنَّتَ ٱلۡأَوَّلِينَۚ فَلَن
+  تَجِدَ لِسُنَّتِ ٱللَّهِ تَبۡدِيلٗاۖ وَلَن تَجِدَ لِسُنَّتِ ٱللَّهِ تَحۡوِيلًا
 sentence_translation: behaving arrogantly in the land and plotting evil. But evil
   plotting only backfires on those who plot. Are they awaiting anything but the fate
   of those ˹destroyed˺ before? You will find no change in the way of Allah, nor will
   you find it diverted ˹to someone else˺.
 word_by_word:
   1:
-    arabic: اۨسۡتِكۡبَارًا
+    arabic: ٱسۡتِكۡبَارٗا
     translation: (Due to) arrogance
     transliteration: is'tik'bāran
   2:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   3:
-    arabic: الۡاَرۡضِ
+    arabic: ٱلۡأَرۡضِ
     translation: the land
     transliteration: l-arḍi
   4:
@@ -25,7 +24,7 @@ word_by_word:
     translation: and plotting
     transliteration: wamakra
   5:
-    arabic: السَّيّیٴِؕ
+    arabic: ٱلسَّيِّيِٕۚ
     translation: (of) the evil
     transliteration: l-sayi-i
   6:
@@ -33,23 +32,23 @@ word_by_word:
     translation: but not
     transliteration: walā
   7:
-    arabic: يَحِيۡقُ
+    arabic: يَحِيقُ
     translation: encompasses
     transliteration: yaḥīqu
   8:
-    arabic: الۡمَكۡرُ
+    arabic: ٱلۡمَكۡرُ
     translation: the plot
     transliteration: l-makru
   9:
-    arabic: السَّيِّـئُ
+    arabic: ٱلسَّيِّئُ
     translation: (of) the evil
     transliteration: l-sayi-u
   10:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   11:
-    arabic: بِاَهۡلِهٖ ؕ
+    arabic: بِأَهۡلِهِۦۚ
     translation: its own people
     transliteration: bi-ahlihi
   12:
@@ -57,11 +56,11 @@ word_by_word:
     translation: Then do
     transliteration: fahal
   13:
-    arabic: يَنۡظُرُوۡنَ
+    arabic: يَنظُرُونَ
     translation: they wait
     transliteration: yanẓurūna
   14:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   15:
@@ -69,11 +68,11 @@ word_by_word:
     translation: (the) way
     transliteration: sunnata
   16:
-    arabic: الۡاَوَّلِيۡنَ ۚ
+    arabic: ٱلۡأَوَّلِينَۚ
     translation: (of) the former (people)
     transliteration: l-awalīna
   17:
-    arabic: فَلَنۡ
+    arabic: فَلَن
     translation: But never
     transliteration: falan
   18:
@@ -85,15 +84,15 @@ word_by_word:
     translation: in (the) way
     transliteration: lisunnati
   20:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (of) Allah
     transliteration: l-lahi
   21:
-    arabic: تَبۡدِيۡلًا ۚ
+    arabic: تَبۡدِيلٗاۖ
     translation: any change
     transliteration: tabdīlan
   22:
-    arabic: وَلَنۡ
+    arabic: وَلَن
     translation: and never
     transliteration: walan
   23:
@@ -105,11 +104,11 @@ word_by_word:
     translation: in (the) way
     transliteration: lisunnati
   25:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (of) Allah
     transliteration: l-lahi
   26:
-    arabic: تَحۡوِيۡلًا‏
+    arabic: تَحۡوِيلًا
     translation: any alteration
     transliteration: taḥwīlan
 ---

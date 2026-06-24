@@ -1,9 +1,9 @@
 ---
-arabic_ayat: قَالُوۡا بَلۡ وَجَدۡنَاۤ اٰبَآءَنَا كَذٰلِكَ يَفۡعَلُوۡنَ‏
+arabic_ayat: قَالُواْ بَلۡ وَجَدۡنَآ ءَابَآءَنَا كَذَٰلِكَ يَفۡعَلُونَ
 sentence_translation: They replied, “No! But we found our forefathers doing the same.”
 word_by_word:
   1:
-    arabic: قَالُوۡا
+    arabic: قَالُواْ
     translation: They said
     transliteration: qālū
   2:
@@ -11,19 +11,19 @@ word_by_word:
     translation: Nay
     transliteration: bal
   3:
-    arabic: وَجَدۡنَاۤ
+    arabic: وَجَدۡنَآ ءَ
     translation: but we found
     transliteration: wajadnā
   4:
-    arabic: اٰبَآءَنَا
+    arabic: ابَآءَنَا
     translation: our forefathers
     transliteration: ābāanā
   5:
-    arabic: كَذٰلِكَ
+    arabic: كَذَٰلِكَ
     translation: 'like that '
     transliteration: kadhālika
   6:
-    arabic: يَفۡعَلُوۡنَ‏
+    arabic: يَفۡعَلُونَ
     translation: doing
     transliteration: yafʿalūna
 ---

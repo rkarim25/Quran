@@ -1,11 +1,11 @@
 ---
-arabic_ayat: اِنۡ تُعَذِّبۡهُمۡ فَاِنَّهُمۡ عِبَادُكَ​ۚ وَاِنۡ تَغۡفِرۡ لَهُمۡ فَاِنَّكَ
-  اَنۡتَ الۡعَزِيۡزُ الۡحَكِيۡمُ‏
+arabic_ayat: إِن تُعَذِّبۡهُمۡ فَإِنَّهُمۡ عِبَادُكَۖ وَإِن تَغۡفِرۡ لَهُمۡ فَإِنَّكَ
+  أَنتَ ٱلۡعَزِيزُ ٱلۡحَكِيمُ
 sentence_translation: If You punish them, they belong to You after all. But if You
   forgive them, You are surely the Almighty, All-Wise.”
 word_by_word:
   1:
-    arabic: اِنۡ
+    arabic: إِن
     translation: If
     transliteration: in
   2:
@@ -13,15 +13,15 @@ word_by_word:
     translation: You punish them
     transliteration: tuʿadhib'hum
   3:
-    arabic: فَاِنَّهُمۡ
+    arabic: فَإِنَّهُمۡ
     translation: then indeed they
     transliteration: fa-innahum
   4:
-    arabic: عِبَادُكَ​ۚ
+    arabic: عِبَادُكَۖ
     translation: (are) Your slaves
     transliteration: ʿibāduka
   5:
-    arabic: وَاِنۡ
+    arabic: وَإِن
     translation: and if
     transliteration: wa-in
   6:
@@ -33,19 +33,19 @@ word_by_word:
     translation: '[for] them'
     transliteration: lahum
   8:
-    arabic: فَاِنَّكَ
+    arabic: فَإِنَّكَ
     translation: then indeed You
     transliteration: fa-innaka
   9:
-    arabic: اَنۡتَ
+    arabic: أَنتَ
     translation: You
     transliteration: anta
   10:
-    arabic: الۡعَزِيۡزُ
+    arabic: ٱلۡعَزِيزُ
     translation: (are) the All-Mighty
     transliteration: l-ʿazīzu
   11:
-    arabic: الۡحَكِيۡمُ‏
+    arabic: ٱلۡحَكِيمُ
     translation: the All-Wise
     transliteration: l-ḥakīmu
 ---

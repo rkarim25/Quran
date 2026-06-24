@@ -1,5 +1,5 @@
 ---
-arabic_ayat: قَدۡ صَدَّقۡتَ الرُّءۡيَا ​ ​ۚ اِنَّا كَذٰلِكَ نَجۡزِى الۡمُحۡسِنِيۡنَ‏
+arabic_ayat: قَدۡ صَدَّقۡتَ ٱلرُّءۡيَآۚ إِنَّا كَذَٰلِكَ نَجۡزِي ٱلۡمُحۡسِنِينَ
 sentence_translation: You have already fulfilled the vision.” Indeed, this is how
   We reward the good-doers.
 word_by_word:
@@ -12,23 +12,23 @@ word_by_word:
     translation: you have fulfilled
     transliteration: ṣaddaqta
   3:
-    arabic: الرُّءۡيَا ​ ​ۚ
+    arabic: ٱلرُّءۡيَآۚ
     translation: the vision
     transliteration: l-ru'yā
   4:
-    arabic: اِنَّا
+    arabic: إِنَّا
     translation: Indeed, We
     transliteration: innā
   5:
-    arabic: كَذٰلِكَ
+    arabic: كَذَٰلِكَ
     translation: thus
     transliteration: kadhālika
   6:
-    arabic: نَجۡزِى
+    arabic: نَجۡزِي
     translation: '[We] reward'
     transliteration: najzī
   7:
-    arabic: الۡمُحۡسِنِيۡنَ‏
+    arabic: ٱلۡمُحۡسِنِينَ
     translation: the good-doers
     transliteration: l-muḥ'sinīna
 ---

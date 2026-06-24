@@ -1,15 +1,15 @@
 ---
-arabic_ayat: اِنَّ اللّٰهَ يَعۡلَمُ مَا يَدۡعُوۡنَ مِنۡ دُوۡنِهٖ مِنۡ شَىۡءٍ​ؕ وَهُوَ
-  الۡعَزِيۡزُ الۡحَكِيۡمُ‏
+arabic_ayat: إِنَّ ٱللَّهَ يَعۡلَمُ مَا يَدۡعُونَ مِن دُونِهِۦ مِن شَيۡءٖۚ وَهُوَ
+  ٱلۡعَزِيزُ ٱلۡحَكِيمُ
 sentence_translation: Allah surely knows that whatever ˹gods˺ they invoke besides
   Him are ˹simply˺ nothing. For He is the Almighty, All-Wise.
 word_by_word:
   1:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   2:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   3:
@@ -21,23 +21,23 @@ word_by_word:
     translation: what
     transliteration: mā
   5:
-    arabic: يَدۡعُوۡنَ
+    arabic: يَدۡعُونَ
     translation: they invoke
     transliteration: yadʿūna
   6:
-    arabic: مِنۡ
+    arabic: مِن
     translation: besides Him
     transliteration: min
   7:
-    arabic: دُوۡنِهٖ
+    arabic: دُونِهِۦ
     translation: besides Him
     transliteration: dūnihi
   8:
-    arabic: مِنۡ
+    arabic: مِن
     translation: any
     transliteration: min
   9:
-    arabic: شَىۡءٍ​ؕ
+    arabic: شَيۡءٖۚ
     translation: thing
     transliteration: shayin
   10:
@@ -45,11 +45,11 @@ word_by_word:
     translation: And He
     transliteration: wahuwa
   11:
-    arabic: الۡعَزِيۡزُ
+    arabic: ٱلۡعَزِيزُ
     translation: (is) the All-Mighty
     transliteration: l-ʿazīzu
   12:
-    arabic: الۡحَكِيۡمُ‏
+    arabic: ٱلۡحَكِيمُ
     translation: the All-Wise
     transliteration: l-ḥakīmu
 ---

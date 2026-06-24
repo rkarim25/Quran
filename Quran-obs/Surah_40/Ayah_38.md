@@ -1,6 +1,5 @@
 ---
-arabic_ayat: "وَقَالَ الَّذِىۡۤ اٰمَنَ يٰقَوۡمِ اتَّبِعُوۡنِ اَهۡدِكُمۡ سَبِيۡلَ الرَّشَادِ​ۚ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: وَقَالَ ٱلَّذِيٓ ءَامَنَ يَٰقَوۡمِ ٱتَّبِعُونِ أَهۡدِكُمۡ سَبِيلَ ٱلرَّشَادِ
 sentence_translation: And the man who believed urged, “O my people! Follow me, ˹and˺
   I will lead you to the Way of Guidance.
 word_by_word:
@@ -9,31 +8,31 @@ word_by_word:
     translation: And said
     transliteration: waqāla
   2:
-    arabic: الَّذِىۡۤ
+    arabic: ٱلَّذِيٓ ءَ
     translation: the one who
     transliteration: alladhī
   3:
-    arabic: اٰمَنَ
+    arabic: امَنَ
     translation: believed
     transliteration: āmana
   4:
-    arabic: يٰقَوۡمِ
+    arabic: يَٰقَوۡمِ
     translation: O my people
     transliteration: yāqawmi
   5:
-    arabic: اتَّبِعُوۡنِ
+    arabic: ٱتَّبِعُونِ
     translation: Follow me
     transliteration: ittabiʿūni
   6:
-    arabic: اَهۡدِكُمۡ
+    arabic: أَهۡدِكُمۡ
     translation: I will guide you
     transliteration: ahdikum
   7:
-    arabic: سَبِيۡلَ
+    arabic: سَبِيلَ
     translation: (to the) way
     transliteration: sabīla
   8:
-    arabic: "الرَّشَادِ​ۚ‏ \uFEFF\uFEFF"
+    arabic: ٱلرَّشَادِ
     translation: the right
     transliteration: l-rashādi
 ---

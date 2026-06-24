@@ -1,6 +1,6 @@
 ---
-arabic_ayat: قُلۡ مَاۤ اَسۡــَٔـلُكُمۡ عَلَيۡهِ مِنۡ اَجۡرٍ اِلَّا مَنۡ شَآءَ اَنۡ
-  يَّـتَّخِذَ اِلٰى رَبِّهٖ سَبِيۡلًا‏
+arabic_ayat: قُلۡ مَآ أَسۡـَٔلُكُمۡ عَلَيۡهِ مِنۡ أَجۡرٍ إِلَّا مَن شَآءَ أَن يَتَّخِذَ
+  إِلَىٰ رَبِّهِۦ سَبِيلٗا
 sentence_translation: Say, “I do not ask you for any reward for this ˹message˺, but
   whoever wishes, let them pursue the Way to their Lord.”
 word_by_word:
@@ -9,11 +9,11 @@ word_by_word:
     translation: Say
     transliteration: qul
   2:
-    arabic: مَاۤ
+    arabic: مَآ
     translation: Not
     transliteration: mā
   3:
-    arabic: اَسۡــَٔـلُكُمۡ
+    arabic: أَسۡـَٔلُكُمۡ
     translation: I ask (of) you
     transliteration: asalukum
   4:
@@ -25,15 +25,15 @@ word_by_word:
     translation: any
     transliteration: min
   6:
-    arabic: اَجۡرٍ
+    arabic: أَجۡرٍ
     translation: payment
     transliteration: ajrin
   7:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   8:
-    arabic: مَنۡ
+    arabic: مَن
     translation: (that) whoever wills
     transliteration: man
   9:
@@ -41,23 +41,23 @@ word_by_word:
     translation: (that) whoever wills
     transliteration: shāa
   10:
-    arabic: اَنۡ
+    arabic: أَن
     translation: to
     transliteration: an
   11:
-    arabic: يَّـتَّخِذَ
+    arabic: يَتَّخِذَ
     translation: take
     transliteration: yattakhidha
   12:
-    arabic: اِلٰى
+    arabic: إِلَىٰ
     translation: to
     transliteration: ilā
   13:
-    arabic: رَبِّهٖ
+    arabic: رَبِّهِۦ
     translation: his Lord
     transliteration: rabbihi
   14:
-    arabic: سَبِيۡلًا‏
+    arabic: سَبِيلٗا
     translation: a way
     transliteration: sabīlan
 ---

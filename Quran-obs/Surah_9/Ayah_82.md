@@ -1,27 +1,27 @@
 ---
-arabic_ayat: فَلۡيَـضۡحَكُوۡا قَلِيۡلاً وَّلۡيَبۡكُوۡا كَثِيۡرًا​ ۚ جَزَآءًۢ بِمَا
-  كَانُوۡا يَكۡسِبُوۡنَ‏
+arabic_ayat: فَلۡيَضۡحَكُواْ قَلِيلٗا وَلۡيَبۡكُواْ كَثِيرٗا جَزَآءَۢ بِمَا كَانُواْ
+  يَكۡسِبُونَ
 sentence_translation: So let them laugh a little—they will weep much as a reward for
   what they have committed.
 word_by_word:
   1:
-    arabic: فَلۡيَـضۡحَكُوۡا
+    arabic: فَلۡيَضۡحَكُواْ
     translation: So let them laugh
     transliteration: falyaḍḥakū
   2:
-    arabic: قَلِيۡلاً
+    arabic: قَلِيلٗا
     translation: a little
     transliteration: qalīlan
   3:
-    arabic: وَّلۡيَبۡكُوۡا
+    arabic: وَلۡيَبۡكُواْ
     translation: and let them weep
     transliteration: walyabkū
   4:
-    arabic: كَثِيۡرًا​ ۚ
+    arabic: كَثِيرٗا
     translation: much
     transliteration: kathīran
   5:
-    arabic: جَزَآءًۢ
+    arabic: جَزَآءَۢ
     translation: (as) a recompense
     transliteration: jazāan
   6:
@@ -29,11 +29,11 @@ word_by_word:
     translation: for what
     transliteration: bimā
   7:
-    arabic: كَانُوۡا
+    arabic: كَانُواْ
     translation: they used to
     transliteration: kānū
   8:
-    arabic: يَكۡسِبُوۡنَ‏
+    arabic: يَكۡسِبُونَ
     translation: earn
     transliteration: yaksibūna
 ---

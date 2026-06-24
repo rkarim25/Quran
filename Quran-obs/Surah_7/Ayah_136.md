@@ -1,11 +1,11 @@
 ---
-arabic_ayat: فَانْتَقَمۡنَا مِنۡهُمۡ فَاَغۡرَقۡنٰهُمۡ فِى الۡيَمِّ بِاَنَّهُمۡ كَذَّبُوۡا
-  بِاٰيٰتِنَا وَكَانُوۡا عَنۡهَا غٰفِلِيۡنَ‏
+arabic_ayat: فَٱنتَقَمۡنَا مِنۡهُمۡ فَأَغۡرَقۡنَٰهُمۡ فِي ٱلۡيَمِّ بِأَنَّهُمۡ كَذَّبُواْ
+  بِـَٔايَٰتِنَا وَكَانُواْ عَنۡهَا غَٰفِلِينَ
 sentence_translation: So We inflicted punishment upon them, drowning them in the sea
   for denying Our signs and being heedless of them.
 word_by_word:
   1:
-    arabic: فَانْتَقَمۡنَا
+    arabic: فَٱنتَقَمۡنَا
     translation: So We took retribution
     transliteration: fa-intaqamnā
   2:
@@ -13,31 +13,31 @@ word_by_word:
     translation: from them
     transliteration: min'hum
   3:
-    arabic: فَاَغۡرَقۡنٰهُمۡ
+    arabic: فَأَغۡرَقۡنَٰهُمۡ
     translation: and We drowned them
     transliteration: fa-aghraqnāhum
   4:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   5:
-    arabic: الۡيَمِّ
+    arabic: ٱلۡيَمِّ
     translation: the sea
     transliteration: l-yami
   6:
-    arabic: بِاَنَّهُمۡ
+    arabic: بِأَنَّهُمۡ
     translation: because they
     transliteration: bi-annahum
   7:
-    arabic: كَذَّبُوۡا
+    arabic: كَذَّبُواْ
     translation: denied
     transliteration: kadhabū
   8:
-    arabic: بِاٰيٰتِنَا
+    arabic: بِـَٔايَٰتِنَا
     translation: Our Signs
     transliteration: biāyātinā
   9:
-    arabic: وَكَانُوۡا
+    arabic: وَكَانُواْ
     translation: and they were
     transliteration: wakānū
   10:
@@ -45,7 +45,7 @@ word_by_word:
     translation: to them
     transliteration: ʿanhā
   11:
-    arabic: غٰفِلِيۡنَ‏
+    arabic: غَٰفِلِينَ
     translation: heedless
     transliteration: ghāfilīna
 ---

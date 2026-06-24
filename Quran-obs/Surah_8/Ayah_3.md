@@ -1,19 +1,18 @@
 ---
-arabic_ayat: "الَّذِيۡنَ يُقِيۡمُوۡنَ الصَّلٰوةَ وَمِمَّا رَزَقۡنٰهُمۡ يُنۡفِقُوۡنَؕ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: ٱلَّذِينَ يُقِيمُونَ ٱلصَّلَوٰةَ وَمِمَّا رَزَقۡنَٰهُمۡ يُنفِقُونَ
 sentence_translation: ˹They are˺ those who establish prayer and donate from what We
   have provided for them.
 word_by_word:
   1:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: Those who
     transliteration: alladhīna
   2:
-    arabic: يُقِيۡمُوۡنَ
+    arabic: يُقِيمُونَ
     translation: establish
     transliteration: yuqīmūna
   3:
-    arabic: الصَّلٰوةَ
+    arabic: ٱلصَّلَوٰةَ
     translation: the prayer
     transliteration: l-ṣalata
   4:
@@ -21,11 +20,11 @@ word_by_word:
     translation: and out of what
     transliteration: wamimmā
   5:
-    arabic: رَزَقۡنٰهُمۡ
+    arabic: رَزَقۡنَٰهُمۡ
     translation: We have provided them
     transliteration: razaqnāhum
   6:
-    arabic: "يُنۡفِقُوۡنَؕ‏ \uFEFF\uFEFF"
+    arabic: يُنفِقُونَ
     translation: they spend
     transliteration: yunfiqūna
 ---

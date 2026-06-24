@@ -1,14 +1,14 @@
 ---
-arabic_ayat: فَاَسۡرِ بِعِبَادِىۡ لَيۡلًا اِنَّكُمۡ مُّتَّبَعُوۡنَۙ‏
+arabic_ayat: فَأَسۡرِ بِعِبَادِي لَيۡلًا إِنَّكُم مُّتَّبَعُونَ
 sentence_translation: ˹Allah responded,˺ “Leave with My servants at night, for you
   will surely be pursued.
 word_by_word:
   1:
-    arabic: فَاَسۡرِ
+    arabic: فَأَسۡرِ
     translation: Then "Set out
     transliteration: fa-asri
   2:
-    arabic: بِعِبَادِىۡ
+    arabic: بِعِبَادِي
     translation: with My slaves
     transliteration: biʿibādī
   3:
@@ -16,11 +16,11 @@ word_by_word:
     translation: (by) night
     transliteration: laylan
   4:
-    arabic: اِنَّكُمۡ
+    arabic: إِنَّكُم
     translation: Indeed, you
     transliteration: innakum
   5:
-    arabic: مُّتَّبَعُوۡنَۙ‏
+    arabic: مُّتَّبَعُونَ
     translation: (will be) followed
     transliteration: muttabaʿūna
 ---

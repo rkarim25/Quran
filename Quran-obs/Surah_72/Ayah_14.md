@@ -1,12 +1,12 @@
 ---
-arabic_ayat: وَّاَنَّا مِنَّا الۡمُسۡلِمُوۡنَ وَمِنَّا الۡقٰسِطُوۡنَ​ؕ فَمَنۡ اَسۡلَمَ
-  فَاُولٰٓٮِٕكَ تَحَرَّوۡا رَشَدًا‏
+arabic_ayat: وَأَنَّا مِنَّا ٱلۡمُسۡلِمُونَ وَمِنَّا ٱلۡقَٰسِطُونَۖ فَمَنۡ أَسۡلَمَ
+  فَأُوْلَٰٓئِكَ تَحَرَّوۡاْ رَشَدٗا
 sentence_translation: And among us are those who have submitted ˹to Allah˺ and those
   who are deviant. So ˹as for˺ those who submitted, it is they who have attained Right
   Guidance.
 word_by_word:
   1:
-    arabic: وَّاَنَّا
+    arabic: وَأَنَّا
     translation: And that we
     transliteration: wa-annā
   2:
@@ -14,7 +14,7 @@ word_by_word:
     translation: among us
     transliteration: minnā
   3:
-    arabic: الۡمُسۡلِمُوۡنَ
+    arabic: ٱلۡمُسۡلِمُونَ
     translation: (are) Muslims
     transliteration: l-mus'limūna
   4:
@@ -22,7 +22,7 @@ word_by_word:
     translation: and among us
     transliteration: waminnā
   5:
-    arabic: الۡقٰسِطُوۡنَ​ؕ
+    arabic: ٱلۡقَٰسِطُونَۖ
     translation: (are) unjust
     transliteration: l-qāsiṭūna
   6:
@@ -30,19 +30,19 @@ word_by_word:
     translation: And whoever
     transliteration: faman
   7:
-    arabic: اَسۡلَمَ
+    arabic: أَسۡلَمَ
     translation: submits
     transliteration: aslama
   8:
-    arabic: فَاُولٰٓٮِٕكَ
+    arabic: فَأُوْلَٰٓئِكَ
     translation: then those
     transliteration: fa-ulāika
   9:
-    arabic: تَحَرَّوۡا
+    arabic: تَحَرَّوۡاْ
     translation: have sought
     transliteration: taḥarraw
   10:
-    arabic: رَشَدًا‏
+    arabic: رَشَدٗا
     translation: (the) right path
     transliteration: rashadan
 ---

@@ -1,20 +1,20 @@
 ---
-arabic_ayat: اِنَّ الَّذِيۡنَ كَفَرُوۡا مِنۡ اَهۡلِ الۡكِتٰبِ وَ الۡمُشۡرِكِيۡنَ فِىۡ
-  نَارِ جَهَنَّمَ خٰلِدِيۡنَ فِيۡهَا ​ؕ اُولٰٓٮِٕكَ هُمۡ شَرُّ الۡبَرِيَّةِ ؕ‏
+arabic_ayat: إِنَّ ٱلَّذِينَ كَفَرُواْ مِنۡ أَهۡلِ ٱلۡكِتَٰبِ وَٱلۡمُشۡرِكِينَ فِي
+  نَارِ جَهَنَّمَ خَٰلِدِينَ فِيهَآۚ أُوْلَٰٓئِكَ هُمۡ شَرُّ ٱلۡبَرِيَّةِ
 sentence_translation: Indeed, those who disbelieve from the People of the Book and
   the polytheists will be in the Fire of Hell, to stay there forever. They are the
   worst of ˹all˺ beings.
 word_by_word:
   1:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   3:
-    arabic: كَفَرُوۡا
+    arabic: كَفَرُواْ
     translation: disbelieve
     transliteration: kafarū
   4:
@@ -22,19 +22,19 @@ word_by_word:
     translation: from
     transliteration: min
   5:
-    arabic: اَهۡلِ
+    arabic: أَهۡلِ
     translation: (the) People
     transliteration: ahli
   6:
-    arabic: الۡكِتٰبِ
+    arabic: ٱلۡكِتَٰبِ
     translation: (of) the Book
     transliteration: l-kitābi
   7:
-    arabic: وَ الۡمُشۡرِكِيۡنَ
+    arabic: وَٱلۡمُشۡرِكِينَ
     translation: and the polytheists
     transliteration: wal-mush'rikīna
   8:
-    arabic: فِىۡ
+    arabic: فِي
     translation: (will be) in
     transliteration: fī
   9:
@@ -46,15 +46,15 @@ word_by_word:
     translation: (of) Hell
     transliteration: jahannama
   11:
-    arabic: خٰلِدِيۡنَ
+    arabic: خَٰلِدِينَ
     translation: abiding eternally
     transliteration: khālidīna
   12:
-    arabic: فِيۡهَا ​ؕ
+    arabic: فِيهَآۚ
     translation: therein
     transliteration: fīhā
   13:
-    arabic: اُولٰٓٮِٕكَ
+    arabic: أُوْلَٰٓئِكَ
     translation: 'Those '
     transliteration: ulāika
   14:
@@ -66,7 +66,7 @@ word_by_word:
     translation: (are the) worst
     transliteration: sharru
   16:
-    arabic: الۡبَرِيَّةِ ؕ‏
+    arabic: ٱلۡبَرِيَّةِ
     translation: (of) the creatures
     transliteration: l-bariyati
 ---

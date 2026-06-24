@@ -1,19 +1,19 @@
 ---
-arabic_ayat: فَاَرَادَ اَنۡ يَّسۡتَفِزَّهُمۡ مِّنَ الۡاَرۡضِ فَاَغۡرَقۡنٰهُ وَ مَنۡ
-  مَّعَهٗ جَمِيۡعًا ۙ‏
+arabic_ayat: فَأَرَادَ أَن يَسۡتَفِزَّهُم مِّنَ ٱلۡأَرۡضِ فَأَغۡرَقۡنَٰهُ وَمَن مَّعَهُۥ
+  جَمِيعٗا
 sentence_translation: So Pharaoh wanted to scare the Israelites out of the land ˹of
   Egypt˺, but We drowned him and all of those with him.
 word_by_word:
   1:
-    arabic: فَاَرَادَ
+    arabic: فَأَرَادَ
     translation: So he intended
     transliteration: fa-arāda
   2:
-    arabic: اَنۡ
+    arabic: أَن
     translation: to
     transliteration: an
   3:
-    arabic: يَّسۡتَفِزَّهُمۡ
+    arabic: يَسۡتَفِزَّهُم
     translation: drive them out
     transliteration: yastafizzahum
   4:
@@ -21,23 +21,23 @@ word_by_word:
     translation: from
     transliteration: mina
   5:
-    arabic: الۡاَرۡضِ
+    arabic: ٱلۡأَرۡضِ
     translation: the land
     transliteration: l-arḍi
   6:
-    arabic: فَاَغۡرَقۡنٰهُ
+    arabic: فَأَغۡرَقۡنَٰهُ
     translation: but We drowned him
     transliteration: fa-aghraqnāhu
   7:
-    arabic: وَ مَنۡ
+    arabic: وَمَن
     translation: and who
     transliteration: waman
   8:
-    arabic: مَّعَهٗ
+    arabic: مَّعَهُۥ
     translation: (were) with him
     transliteration: maʿahu
   9:
-    arabic: جَمِيۡعًا ۙ‏
+    arabic: جَمِيعٗا
     translation: all
     transliteration: jamīʿan
 ---

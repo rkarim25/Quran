@@ -1,17 +1,17 @@
 ---
-arabic_ayat: اَلشَّمۡسُ وَالۡقَمَرُ بِحُسۡبَانٍ‏
+arabic_ayat: ٱلشَّمۡسُ وَٱلۡقَمَرُ بِحُسۡبَانٖ
 sentence_translation: The sun and the moon ˹travel˺ with precision.
 word_by_word:
   1:
-    arabic: اَلشَّمۡسُ
+    arabic: ٱلشَّمۡسُ
     translation: The sun
     transliteration: al-shamsu
   2:
-    arabic: وَالۡقَمَرُ
+    arabic: وَٱلۡقَمَرُ
     translation: and the moon
     transliteration: wal-qamaru
   3:
-    arabic: بِحُسۡبَانٍ‏
+    arabic: بِحُسۡبَانٖ
     translation: by (precise) calculation
     transliteration: biḥus'bānin
 ---

@@ -1,6 +1,6 @@
 ---
-arabic_ayat: ثُمَّ اِنَّ رَبَّكَ لِلَّذِيۡنَ هَاجَرُوۡا مِنۡۢ بَعۡدِ مَا فُتِنُوۡا
-  ثُمَّ جٰهَدُوۡا وَصَبَرُوۡۤا ۙ اِنَّ رَبَّكَ مِنۡۢ بَعۡدِهَا لَغَفُوۡرٌ رَّحِيۡمٌ‏
+arabic_ayat: ثُمَّ إِنَّ رَبَّكَ لِلَّذِينَ هَاجَرُواْ مِنۢ بَعۡدِ مَا فُتِنُواْ ثُمَّ
+  جَٰهَدُواْ وَصَبَرُوٓاْ إِنَّ رَبَّكَ مِنۢ بَعۡدِهَا لَغَفُورٞ رَّحِيمٞ
 sentence_translation: As for those who emigrated after being compelled ˹to renounce
   Islam˺, then struggled ˹in Allah’s cause˺, and persevered, your Lord ˹O Prophet˺
   is truly All-Forgiving, Most Merciful after all.
@@ -10,7 +10,7 @@ word_by_word:
     translation: Then
     transliteration: thumma
   2:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: indeed
     transliteration: inna
   3:
@@ -18,15 +18,15 @@ word_by_word:
     translation: your Lord
     transliteration: rabbaka
   4:
-    arabic: لِلَّذِيۡنَ
+    arabic: لِلَّذِينَ
     translation: to those who
     transliteration: lilladhīna
   5:
-    arabic: هَاجَرُوۡا
+    arabic: هَاجَرُواْ
     translation: emigrated
     transliteration: hājarū
   6:
-    arabic: مِنۡۢ
+    arabic: مِنۢ
     translation: after
     transliteration: min
   7:
@@ -38,7 +38,7 @@ word_by_word:
     translation: what
     transliteration: mā
   9:
-    arabic: فُتِنُوۡا
+    arabic: فُتِنُواْ
     translation: they had been put to trials
     transliteration: futinū
   10:
@@ -46,15 +46,15 @@ word_by_word:
     translation: then
     transliteration: thumma
   11:
-    arabic: جٰهَدُوۡا
+    arabic: جَٰهَدُواْ
     translation: strove hard
     transliteration: jāhadū
   12:
-    arabic: وَصَبَرُوۡۤا ۙ
+    arabic: وَصَبَرُوٓاْ
     translation: and were patient
     transliteration: waṣabarū
   13:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   14:
@@ -62,7 +62,7 @@ word_by_word:
     translation: your Lord
     transliteration: rabbaka
   15:
-    arabic: مِنۡۢ
+    arabic: مِنۢ
     translation: after it
     transliteration: min
   16:
@@ -70,11 +70,11 @@ word_by_word:
     translation: after it
     transliteration: baʿdihā
   17:
-    arabic: لَغَفُوۡرٌ
+    arabic: لَغَفُورٞ
     translation: surely is Oft-Forgiving
     transliteration: laghafūrun
   18:
-    arabic: رَّحِيۡمٌ‏
+    arabic: رَّحِيمٞ
     translation: Most Merciful
     transliteration: raḥīmun
 ---

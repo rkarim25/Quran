@@ -1,17 +1,17 @@
 ---
-arabic_ayat: اَفَرَءَيۡتَ الَّذِىۡ تَوَلّٰىۙ‏
+arabic_ayat: أَفَرَءَيۡتَ ٱلَّذِي تَوَلَّىٰ
 sentence_translation: Have you seen the one who turned away ˹from Islam,˺
 word_by_word:
   1:
-    arabic: اَفَرَءَيۡتَ
+    arabic: أَفَرَءَيۡتَ
     translation: Did you see
     transliteration: afara-ayta
   2:
-    arabic: الَّذِىۡ
+    arabic: ٱلَّذِي
     translation: the one who
     transliteration: alladhī
   3:
-    arabic: تَوَلّٰىۙ‏
+    arabic: تَوَلَّىٰ
     translation: turned away
     transliteration: tawallā
 ---

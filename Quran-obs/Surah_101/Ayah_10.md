@@ -1,13 +1,13 @@
 ---
-arabic_ayat: وَمَاۤ اَدۡرٰٮكَ مَا هِيَهۡ ؕ‏
+arabic_ayat: وَمَآ أَدۡرَىٰكَ مَا هِيَهۡ
 sentence_translation: And what will make you realize what that is?
 word_by_word:
   1:
-    arabic: وَمَاۤ
+    arabic: وَمَآ
     translation: And what
     transliteration: wamā
   2:
-    arabic: اَدۡرٰٮكَ
+    arabic: أَدۡرَىٰكَ
     translation: will make you know
     transliteration: adrāka
   3:
@@ -15,7 +15,7 @@ word_by_word:
     translation: what
     transliteration: mā
   4:
-    arabic: هِيَهۡ ؕ‏
+    arabic: هِيَهۡ
     translation: it is
     transliteration: hiyah
 ---

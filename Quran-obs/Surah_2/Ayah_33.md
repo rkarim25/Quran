@@ -1,7 +1,7 @@
 ---
-arabic_ayat: قَالَ يٰٓـاٰدَمُ اَنۡۢبِئۡهُمۡ بِاَسۡمَآٮِٕهِمۡ​ۚ فَلَمَّآ اَنۡۢبَاَهُمۡ
-  بِاَسۡمَآٮِٕهِمۡۙ قَالَ اَلَمۡ اَقُل لَّـكُمۡ اِنِّىۡٓ اَعۡلَمُ غَيۡبَ السَّمٰوٰتِ
-  وَالۡاَرۡضِۙ وَاَعۡلَمُ مَا تُبۡدُوۡنَ وَمَا كُنۡتُمۡ تَكۡتُمُوۡنَ‏
+arabic_ayat: قَالَ يَٰٓـَٔادَمُ أَنۢبِئۡهُم بِأَسۡمَآئِهِمۡۖ فَلَمَّآ أَنۢبَأَهُم
+  بِأَسۡمَآئِهِمۡ قَالَ أَلَمۡ أَقُل لَّكُمۡ إِنِّيٓ أَعۡلَمُ غَيۡبَ ٱلسَّمَٰوَٰتِ
+  وَٱلۡأَرۡضِ وَأَعۡلَمُ مَا تُبۡدُونَ وَمَا كُنتُمۡ تَكۡتُمُونَ
 sentence_translation: Allah said, “O Adam! Inform them of their names.” Then when
   Adam did, Allah said, “Did I not tell you that I know the secrets of the heavens
   and the earth, and I know what you reveal and what you conceal?”
@@ -11,15 +11,15 @@ word_by_word:
     translation: He said
     transliteration: qāla
   2:
-    arabic: يٰٓـاٰدَمُ
+    arabic: يَٰٓـَٔادَمُ
     translation: O Adam
     transliteration: yāādamu
   3:
-    arabic: اَنۡۢبِئۡهُمۡ
+    arabic: أَنۢبِئۡهُم
     translation: Inform them
     transliteration: anbi'hum
   4:
-    arabic: بِاَسۡمَآٮِٕهِمۡ​ۚ
+    arabic: بِأَسۡمَآئِهِمۡۖ
     translation: of their names
     transliteration: bi-asmāihim
   5:
@@ -27,11 +27,11 @@ word_by_word:
     translation: And when
     transliteration: falammā
   6:
-    arabic: اَنۡۢبَاَهُمۡ
+    arabic: أَنۢبَأَهُم
     translation: he had informed them
     transliteration: anba-ahum
   7:
-    arabic: بِاَسۡمَآٮِٕهِمۡۙ
+    arabic: بِأَسۡمَآئِهِمۡ
     translation: of their names
     transliteration: bi-asmāihim
   8:
@@ -39,23 +39,23 @@ word_by_word:
     translation: He said
     transliteration: qāla
   9:
-    arabic: اَلَمۡ
+    arabic: أَلَمۡ
     translation: Did not
     transliteration: alam
   10:
-    arabic: اَقُل
+    arabic: أَقُل
     translation: I say
     transliteration: aqul
   11:
-    arabic: لَّـكُمۡ
+    arabic: لَّكُمۡ
     translation: to you
     transliteration: lakum
   12:
-    arabic: اِنِّىۡٓ
+    arabic: إِنِّيٓ
     translation: Indeed, I
     transliteration: innī
   13:
-    arabic: اَعۡلَمُ
+    arabic: أَعۡلَمُ
     translation: '[I] know'
     transliteration: aʿlamu
   14:
@@ -63,15 +63,15 @@ word_by_word:
     translation: (the) unseen
     transliteration: ghayba
   15:
-    arabic: السَّمٰوٰتِ
+    arabic: ٱلسَّمَٰوَٰتِ
     translation: (of) the heavens
     transliteration: l-samāwāti
   16:
-    arabic: وَالۡاَرۡضِۙ
+    arabic: وَٱلۡأَرۡضِ
     translation: and the earth
     transliteration: wal-arḍi
   17:
-    arabic: وَاَعۡلَمُ
+    arabic: وَأَعۡلَمُ
     translation: and I know
     transliteration: wa-aʿlamu
   18:
@@ -79,7 +79,7 @@ word_by_word:
     translation: what
     transliteration: mā
   19:
-    arabic: تُبۡدُوۡنَ
+    arabic: تُبۡدُونَ
     translation: you reveal
     transliteration: tub'dūna
   20:
@@ -87,11 +87,11 @@ word_by_word:
     translation: and what
     transliteration: wamā
   21:
-    arabic: كُنۡتُمۡ
+    arabic: كُنتُمۡ
     translation: you [were]
     transliteration: kuntum
   22:
-    arabic: تَكۡتُمُوۡنَ‏
+    arabic: تَكۡتُمُونَ
     translation: conceal
     transliteration: taktumūna
 ---

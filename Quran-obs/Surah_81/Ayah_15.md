@@ -1,17 +1,17 @@
 ---
-arabic_ayat: فَلَاۤ اُقۡسِمُ بِالۡخُنَّسِۙ‏
+arabic_ayat: فَلَآ أُقۡسِمُ بِٱلۡخُنَّسِ
 sentence_translation: I do swear by the receding stars
 word_by_word:
   1:
-    arabic: فَلَاۤ
+    arabic: فَلَآ
     translation: But nay
     transliteration: falā
   2:
-    arabic: اُقۡسِمُ
+    arabic: أُقۡسِمُ
     translation: I swear
     transliteration: uq'simu
   3:
-    arabic: بِالۡخُنَّسِۙ‏
+    arabic: بِٱلۡخُنَّسِ
     translation: by the retreating planets
     transliteration: bil-khunasi
 ---

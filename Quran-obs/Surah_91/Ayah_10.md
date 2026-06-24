@@ -1,5 +1,5 @@
 ---
-arabic_ayat: وَقَدۡ خَابَ مَنۡ دَسّٰٮهَا ؕ‏
+arabic_ayat: وَقَدۡ خَابَ مَن دَسَّىٰهَا
 sentence_translation: and doomed is the one who corrupts it!
 word_by_word:
   1:
@@ -11,11 +11,11 @@ word_by_word:
     translation: he fails
     transliteration: khāba
   3:
-    arabic: مَنۡ
+    arabic: مَن
     translation: who
     transliteration: man
   4:
-    arabic: دَسّٰٮهَا ؕ‏
+    arabic: دَسَّىٰهَا
     translation: buries it
     transliteration: dassāhā
 ---

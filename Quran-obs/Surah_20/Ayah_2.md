@@ -1,14 +1,14 @@
 ---
-arabic_ayat: مَاۤ اَنۡزَلۡـنَا عَلَيۡكَ الۡـقُرۡاٰنَ لِتَشۡقٰٓى ۙ‏
+arabic_ayat: مَآ أَنزَلۡنَا عَلَيۡكَ ٱلۡقُرۡءَانَ لِتَشۡقَىٰٓ
 sentence_translation: We have not revealed the Quran to you ˹O Prophet˺ to cause you
   distress,
 word_by_word:
   1:
-    arabic: مَاۤ
+    arabic: مَآ
     translation: Not
     transliteration: mā
   2:
-    arabic: اَنۡزَلۡـنَا
+    arabic: أَنزَلۡنَا
     translation: We (have) sent down
     transliteration: anzalnā
   3:
@@ -16,11 +16,11 @@ word_by_word:
     translation: to you
     transliteration: ʿalayka
   4:
-    arabic: الۡـقُرۡاٰنَ
+    arabic: ٱلۡقُرۡءَانَ
     translation: the Quran
     transliteration: l-qur'āna
   5:
-    arabic: لِتَشۡقٰٓى ۙ‏
+    arabic: لِتَشۡقَىٰٓ
     translation: that you be distressed
     transliteration: litashqā
 ---

@@ -1,5 +1,5 @@
 ---
-arabic_ayat: وَكَمۡ اَرۡسَلۡنَا مِنۡ نَّبِىٍّ فِى الۡاَوَّلِيۡنَ‏
+arabic_ayat: وَكَمۡ أَرۡسَلۡنَا مِن نَّبِيّٖ فِي ٱلۡأَوَّلِينَ
 sentence_translation: ˹Imagine˺ how many prophets We sent to those ˹destroyed˺ before!
 word_by_word:
   1:
@@ -7,23 +7,23 @@ word_by_word:
     translation: And how many
     transliteration: wakam
   2:
-    arabic: اَرۡسَلۡنَا
+    arabic: أَرۡسَلۡنَا
     translation: We sent
     transliteration: arsalnā
   3:
-    arabic: مِنۡ
+    arabic: مِن
     translation: of
     transliteration: min
   4:
-    arabic: نَّبِىٍّ
+    arabic: نَّبِيّٖ
     translation: a Prophet
     transliteration: nabiyyin
   5:
-    arabic: فِى
+    arabic: فِي
     translation: among
     transliteration: fī
   6:
-    arabic: الۡاَوَّلِيۡنَ‏
+    arabic: ٱلۡأَوَّلِينَ
     translation: the former (people)
     transliteration: l-awalīna
 ---

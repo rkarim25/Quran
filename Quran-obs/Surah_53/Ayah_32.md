@@ -1,8 +1,8 @@
 ---
-arabic_ayat: اَلَّذِيۡنَ يَجۡتَنِبُوۡنَ كَبٰٓٮِٕرَ الۡاِثۡمِ وَالۡفوَاحِشَ اِلَّا
-  اللَّمَمَ​ؕ اِنَّ رَبَّكَ وَاسِعُ الۡمَغۡفِرَةِ​ؕ هُوَ اَعۡلَمُ بِكُمۡ اِذۡ اَنۡشَاَكُمۡ
-  مِّنَ الۡاَرۡضِ وَاِذۡ اَنۡتُمۡ اَجِنَّةٌ فِىۡ بُطُوۡنِ اُمَّهٰتِكُمۡ​ۚ فَلَا تُزَكُّوۡۤا
-  اَنۡفُسَكُمۡ​ ؕ هُوَ اَعۡلَمُ بِمَنِ اتَّقٰى‏
+arabic_ayat: ٱلَّذِينَ يَجۡتَنِبُونَ كَبَٰٓئِرَ ٱلۡإِثۡمِ وَٱلۡفَوَٰحِشَ إِلَّا ٱللَّمَمَۚ
+  إِنَّ رَبَّكَ وَٰسِعُ ٱلۡمَغۡفِرَةِۚ هُوَ أَعۡلَمُ بِكُمۡ إِذۡ أَنشَأَكُم مِّنَ
+  ٱلۡأَرۡضِ وَإِذۡ أَنتُمۡ أَجِنَّةٞ فِي بُطُونِ أُمَّهَٰتِكُمۡۖ فَلَا تُزَكُّوٓاْ
+  أَنفُسَكُمۡۖ هُوَ أَعۡلَمُ بِمَنِ ٱتَّقَىٰٓ
 sentence_translation: those who avoid major sins and shameful deeds, despite ˹stumbling
   on˺ minor sins. Surely your Lord is infinite in forgiveness. He knew well what would
   become of you as He created you from the earth and while you were ˹still˺ fetuses
@@ -10,35 +10,35 @@ sentence_translation: those who avoid major sins and shameful deeds, despite ˹s
   who is ˹truly˺ righteous.
 word_by_word:
   1:
-    arabic: اَلَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: Those who
     transliteration: alladhīna
   2:
-    arabic: يَجۡتَنِبُوۡنَ
+    arabic: يَجۡتَنِبُونَ
     translation: avoid
     transliteration: yajtanibūna
   3:
-    arabic: كَبٰٓٮِٕرَ
+    arabic: كَبَٰٓئِرَ
     translation: great
     transliteration: kabāira
   4:
-    arabic: الۡاِثۡمِ
+    arabic: ٱلۡإِثۡمِ
     translation: sins
     transliteration: l-ith'mi
   5:
-    arabic: وَالۡفوَاحِشَ
+    arabic: وَٱلۡفَوَٰحِشَ
     translation: and the immoralities
     transliteration: wal-fawāḥisha
   6:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   7:
-    arabic: اللَّمَمَ​ؕ
+    arabic: ٱللَّمَمَۚ
     translation: the small faults
     transliteration: l-lamama
   8:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: indeed
     transliteration: inna
   9:
@@ -46,11 +46,11 @@ word_by_word:
     translation: your Lord
     transliteration: rabbaka
   10:
-    arabic: وَاسِعُ
+    arabic: وَٰسِعُ
     translation: (is) vast
     transliteration: wāsiʿu
   11:
-    arabic: الۡمَغۡفِرَةِ​ؕ
+    arabic: ٱلۡمَغۡفِرَةِۚ
     translation: (in) forgiveness
     transliteration: l-maghfirati
   12:
@@ -58,7 +58,7 @@ word_by_word:
     translation: He
     transliteration: huwa
   13:
-    arabic: اَعۡلَمُ
+    arabic: أَعۡلَمُ
     translation: (is) most knowing about you
     transliteration: aʿlamu
   14:
@@ -66,11 +66,11 @@ word_by_word:
     translation: (is) most knowing about you
     transliteration: bikum
   15:
-    arabic: اِذۡ
+    arabic: إِذۡ
     translation: when
     transliteration: idh
   16:
-    arabic: اَنۡشَاَكُمۡ
+    arabic: أَنشَأَكُم
     translation: He produced you
     transliteration: ansha-akum
   17:
@@ -78,31 +78,31 @@ word_by_word:
     translation: from
     transliteration: mina
   18:
-    arabic: الۡاَرۡضِ
+    arabic: ٱلۡأَرۡضِ
     translation: the earth
     transliteration: l-arḍi
   19:
-    arabic: وَاِذۡ
+    arabic: وَإِذۡ
     translation: and when
     transliteration: wa-idh
   20:
-    arabic: اَنۡتُمۡ
+    arabic: أَنتُمۡ
     translation: you (were)
     transliteration: antum
   21:
-    arabic: اَجِنَّةٌ
+    arabic: أَجِنَّةٞ
     translation: fetuses
     transliteration: ajinnatun
   22:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   23:
-    arabic: بُطُوۡنِ
+    arabic: بُطُونِ
     translation: (the) wombs
     transliteration: buṭūni
   24:
-    arabic: اُمَّهٰتِكُمۡ​ۚ
+    arabic: أُمَّهَٰتِكُمۡۖ
     translation: (of) your mothers
     transliteration: ummahātikum
   25:
@@ -110,11 +110,11 @@ word_by_word:
     translation: So (do) not
     transliteration: falā
   26:
-    arabic: تُزَكُّوۡۤا
+    arabic: تُزَكُّوٓاْ
     translation: ascribe purity
     transliteration: tuzakkū
   27:
-    arabic: اَنۡفُسَكُمۡ​ ؕ
+    arabic: أَنفُسَكُمۡۖ
     translation: (to) yourselves
     transliteration: anfusakum
   28:
@@ -122,7 +122,7 @@ word_by_word:
     translation: He
     transliteration: huwa
   29:
-    arabic: اَعۡلَمُ
+    arabic: أَعۡلَمُ
     translation: knows best
     transliteration: aʿlamu
   30:
@@ -130,7 +130,7 @@ word_by_word:
     translation: (he) who
     transliteration: bimani
   31:
-    arabic: اتَّقٰى‏
+    arabic: ٱتَّقَىٰٓ
     translation: fears
     transliteration: ittaqā
 ---

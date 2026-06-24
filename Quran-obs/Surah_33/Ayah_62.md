@@ -1,6 +1,6 @@
 ---
-arabic_ayat: سُنَّةَ اللّٰهِ فِى الَّذِيۡنَ خَلَوۡا مِنۡ قَبۡلُۚ وَلَنۡ تَجِدَ لِسُنَّةِ
-  اللّٰهِ تَبۡدِيۡلًا‏
+arabic_ayat: سُنَّةَ ٱللَّهِ فِي ٱلَّذِينَ خَلَوۡاْ مِن قَبۡلُۖ وَلَن تَجِدَ لِسُنَّةِ
+  ٱللَّهِ تَبۡدِيلٗا
 sentence_translation: That was Allah’s way with those ˹hypocrites˺ who have gone before.
   And you will find no change in Allah’s way.
 word_by_word:
@@ -9,31 +9,31 @@ word_by_word:
     translation: (Such is the) Way
     transliteration: sunnata
   2:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (of) Allah
     transliteration: l-lahi
   3:
-    arabic: فِى
+    arabic: فِي
     translation: with
     transliteration: fī
   4:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   5:
-    arabic: خَلَوۡا
+    arabic: خَلَوۡاْ
     translation: passed away
     transliteration: khalaw
   6:
-    arabic: مِنۡ
+    arabic: مِن
     translation: before
     transliteration: min
   7:
-    arabic: قَبۡلُۚ
+    arabic: قَبۡلُۖ
     translation: before
     transliteration: qablu
   8:
-    arabic: وَلَنۡ
+    arabic: وَلَن
     translation: and never
     transliteration: walan
   9:
@@ -45,11 +45,11 @@ word_by_word:
     translation: in (the) Way
     transliteration: lisunnati
   11:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (of) Allah
     transliteration: l-lahi
   12:
-    arabic: تَبۡدِيۡلًا‏
+    arabic: تَبۡدِيلٗا
     translation: any change
     transliteration: tabdīlan
 ---

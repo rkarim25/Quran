@@ -1,5 +1,5 @@
 ---
-arabic_ayat: يَوۡمَ يَفِرُّ الۡمَرۡءُ مِنۡ اَخِيۡهِۙ‏
+arabic_ayat: يَوۡمَ يَفِرُّ ٱلۡمَرۡءُ مِنۡ أَخِيهِ
 sentence_translation: on that Day every person will flee from their own siblings,
 word_by_word:
   1:
@@ -11,7 +11,7 @@ word_by_word:
     translation: will flee
     transliteration: yafirru
   3:
-    arabic: الۡمَرۡءُ
+    arabic: ٱلۡمَرۡءُ
     translation: a man
     transliteration: l-maru
   4:
@@ -19,7 +19,7 @@ word_by_word:
     translation: from
     transliteration: min
   5:
-    arabic: اَخِيۡهِۙ‏
+    arabic: أَخِيهِ
     translation: his brother
     transliteration: akhīhi
 ---

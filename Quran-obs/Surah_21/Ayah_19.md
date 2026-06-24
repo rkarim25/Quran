@@ -1,27 +1,27 @@
 ---
-arabic_ayat: وَلَهٗ مَنۡ فِى السَّمٰوٰتِ وَالۡاَرۡضِ​ؕ وَمَنۡ عِنۡدَهٗ لَا يَسۡتَكۡبِرُوۡنَ
-  عَنۡ عِبَادَتِهٖ وَلَا يَسۡتَحۡسِرُوۡنَ​ۚ‏
+arabic_ayat: وَلَهُۥ مَن فِي ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِۚ وَمَنۡ عِندَهُۥ لَا يَسۡتَكۡبِرُونَ
+  عَنۡ عِبَادَتِهِۦ وَلَا يَسۡتَحۡسِرُونَ
 sentence_translation: To Him belong all those in the heavens and the earth. And those
   nearest to Him are not too proud to worship Him, nor do they tire.
 word_by_word:
   1:
-    arabic: وَلَهٗ
+    arabic: وَلَهُۥ
     translation: And to Him (belongs)
     transliteration: walahu
   2:
-    arabic: مَنۡ
+    arabic: مَن
     translation: whoever
     transliteration: man
   3:
-    arabic: فِى
+    arabic: فِي
     translation: (is) in
     transliteration: fī
   4:
-    arabic: السَّمٰوٰتِ
+    arabic: ٱلسَّمَٰوَٰتِ
     translation: the heavens
     transliteration: l-samāwāti
   5:
-    arabic: وَالۡاَرۡضِ​ؕ
+    arabic: وَٱلۡأَرۡضِۚ
     translation: and the earth
     transliteration: wal-arḍi
   6:
@@ -29,7 +29,7 @@ word_by_word:
     translation: And (those) who
     transliteration: waman
   7:
-    arabic: عِنۡدَهٗ
+    arabic: عِندَهُۥ
     translation: (are) near Him
     transliteration: ʿindahu
   8:
@@ -37,7 +37,7 @@ word_by_word:
     translation: not
     transliteration: lā
   9:
-    arabic: يَسۡتَكۡبِرُوۡنَ
+    arabic: يَسۡتَكۡبِرُونَ
     translation: they are arrogant
     transliteration: yastakbirūna
   10:
@@ -45,7 +45,7 @@ word_by_word:
     translation: to
     transliteration: ʿan
   11:
-    arabic: عِبَادَتِهٖ
+    arabic: عِبَادَتِهِۦ
     translation: worship Him
     transliteration: ʿibādatihi
   12:
@@ -53,7 +53,7 @@ word_by_word:
     translation: and not
     transliteration: walā
   13:
-    arabic: يَسۡتَحۡسِرُوۡنَ​ۚ‏
+    arabic: يَسۡتَحۡسِرُونَ
     translation: they tire
     transliteration: yastaḥsirūna
 ---

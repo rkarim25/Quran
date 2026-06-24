@@ -1,6 +1,6 @@
 ---
-arabic_ayat: وَعَدَ اللّٰهُ الَّذِيۡنَ اٰمَنُوۡا وَعَمِلُوا الصّٰلِحٰتِ​ ۙ لَهُمۡ
-  مَّغۡفِرَةٌ وَّاَجۡرٌ عَظِيۡمٌ‏
+arabic_ayat: وَعَدَ ٱللَّهُ ٱلَّذِينَ ءَامَنُواْ وَعَمِلُواْ ٱلصَّٰلِحَٰتِ لَهُم مَّغۡفِرَةٞ
+  وَأَجۡرٌ عَظِيمٞ
 sentence_translation: Allah has promised those who believe and do good ˹His˺ forgiveness
   and a great reward.
 word_by_word:
@@ -9,39 +9,39 @@ word_by_word:
     translation: Has promised
     transliteration: waʿada
   2:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   3:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ ءَ
     translation: those who
     transliteration: alladhīna
   4:
-    arabic: اٰمَنُوۡا
+    arabic: امَنُواْ
     translation: believe
     transliteration: āmanū
   5:
-    arabic: وَعَمِلُوا
+    arabic: وَعَمِلُواْ
     translation: and do
     transliteration: waʿamilū
   6:
-    arabic: الصّٰلِحٰتِ​ ۙ
+    arabic: ٱلصَّٰلِحَٰتِ
     translation: 'the righteous deeds '
     transliteration: l-ṣāliḥāti
   7:
-    arabic: لَهُمۡ
+    arabic: لَهُم
     translation: for them
     transliteration: lahum
   8:
-    arabic: مَّغۡفِرَةٌ
+    arabic: مَّغۡفِرَةٞ
     translation: (is) forgiveness
     transliteration: maghfiratun
   9:
-    arabic: وَّاَجۡرٌ
+    arabic: وَأَجۡرٌ
     translation: and a reward
     transliteration: wa-ajrun
   10:
-    arabic: عَظِيۡمٌ‏
+    arabic: عَظِيمٞ
     translation: great
     transliteration: ʿaẓīmun
 ---

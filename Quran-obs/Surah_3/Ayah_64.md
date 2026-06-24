@@ -1,8 +1,8 @@
 ---
-arabic_ayat: قُلۡ يٰۤـاَهۡلَ الۡكِتٰبِ تَعَالَوۡا اِلٰى كَلِمَةٍ سَوَآءٍۢ بَيۡنَـنَا
-  وَبَيۡنَكُمۡ اَلَّا نَـعۡبُدَ اِلَّا اللّٰهَ وَلَا نُشۡرِكَ بِهٖ شَيۡـــًٔا وَّلَا
-  يَتَّخِذَ بَعۡضُنَا بَعۡضًا اَرۡبَابًا مِّنۡ دُوۡنِ اللّٰهِ​ؕ فَاِنۡ تَوَلَّوۡا
-  فَقُوۡلُوا اشۡهَدُوۡا بِاَنَّا مُسۡلِمُوۡنَ‏
+arabic_ayat: قُلۡ يَٰٓأَهۡلَ ٱلۡكِتَٰبِ تَعَالَوۡاْ إِلَىٰ كَلِمَةٖ سَوَآءِۭ بَيۡنَنَا
+  وَبَيۡنَكُمۡ أَلَّا نَعۡبُدَ إِلَّا ٱللَّهَ وَلَا نُشۡرِكَ بِهِۦ شَيۡـٔٗا وَلَا
+  يَتَّخِذَ بَعۡضُنَا بَعۡضًا أَرۡبَابٗا مِّن دُونِ ٱللَّهِۚ فَإِن تَوَلَّوۡاْ فَقُولُواْ
+  ٱشۡهَدُواْ بِأَنَّا مُسۡلِمُونَ
 sentence_translation: 'Say, ˹O Prophet,˺ “O People of the Book! Let us come to common
   terms: that we will worship none but Allah, associate none with Him, nor take one
   another as lords instead of Allah.” But if they turn away, then say, “Bear witness
@@ -13,31 +13,31 @@ word_by_word:
     translation: Say
     transliteration: qul
   2:
-    arabic: يٰۤـاَهۡلَ
+    arabic: يَٰٓأَهۡلَ
     translation: O People
     transliteration: yāahla
   3:
-    arabic: الۡكِتٰبِ
+    arabic: ٱلۡكِتَٰبِ
     translation: (of) the Book
     transliteration: l-kitābi
   4:
-    arabic: تَعَالَوۡا
+    arabic: تَعَالَوۡاْ
     translation: Come
     transliteration: taʿālaw
   5:
-    arabic: اِلٰى
+    arabic: إِلَىٰ
     translation: to
     transliteration: ilā
   6:
-    arabic: كَلِمَةٍ
+    arabic: كَلِمَةٖ
     translation: a word
     transliteration: kalimatin
   7:
-    arabic: سَوَآءٍۢ
+    arabic: سَوَآءِۭ
     translation: equitable
     transliteration: sawāin
   8:
-    arabic: بَيۡنَـنَا
+    arabic: بَيۡنَنَا
     translation: between us
     transliteration: baynanā
   9:
@@ -45,19 +45,19 @@ word_by_word:
     translation: 'and between you '
     transliteration: wabaynakum
   10:
-    arabic: اَلَّا
+    arabic: أَلَّا
     translation: that not
     transliteration: allā
   11:
-    arabic: نَـعۡبُدَ
+    arabic: نَعۡبُدَ
     translation: we worship
     transliteration: naʿbuda
   12:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   13:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   14:
@@ -69,15 +69,15 @@ word_by_word:
     translation: we associate partners
     transliteration: nush'rika
   16:
-    arabic: بِهٖ
+    arabic: بِهِۦ
     translation: 'with Him '
     transliteration: bihi
   17:
-    arabic: شَيۡـــًٔا
+    arabic: شَيۡـٔٗا
     translation: anything
     transliteration: shayan
   18:
-    arabic: وَّلَا
+    arabic: وَلَا
     translation: and not
     transliteration: walā
   19:
@@ -93,43 +93,43 @@ word_by_word:
     translation: (to) others
     transliteration: baʿḍan
   22:
-    arabic: اَرۡبَابًا
+    arabic: أَرۡبَابٗا
     translation: (as) lords
     transliteration: arbāban
   23:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: from
     transliteration: min
   24:
-    arabic: دُوۡنِ
+    arabic: دُونِ
     translation: besides
     transliteration: dūni
   25:
-    arabic: اللّٰهِ​ؕ
+    arabic: ٱللَّهِۚ
     translation: Allah
     transliteration: l-lahi
   26:
-    arabic: فَاِنۡ
+    arabic: فَإِن
     translation: Then if
     transliteration: fa-in
   27:
-    arabic: تَوَلَّوۡا
+    arabic: تَوَلَّوۡاْ
     translation: they turn away
     transliteration: tawallaw
   28:
-    arabic: فَقُوۡلُوا
+    arabic: فَقُولُواْ
     translation: then say
     transliteration: faqūlū
   29:
-    arabic: اشۡهَدُوۡا
+    arabic: ٱشۡهَدُواْ
     translation: Bear witness
     transliteration: ish'hadū
   30:
-    arabic: بِاَنَّا
+    arabic: بِأَنَّا
     translation: that we
     transliteration: bi-annā
   31:
-    arabic: مُسۡلِمُوۡنَ‏
+    arabic: مُسۡلِمُونَ
     translation: (are) Muslims
     transliteration: mus'limūna
 ---

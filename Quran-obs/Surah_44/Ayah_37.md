@@ -1,11 +1,11 @@
 ---
-arabic_ayat: اَهُمۡ خَيۡرٌ اَمۡ قَوۡمُ تُبَّعٍۙ وَّ الَّذِيۡنَ مِنۡ قَبۡلِهِمۡ​ؕ اَهۡلَكۡنٰهُمۡ​
-  اِنَّهُمۡ كَانُوۡا مُجۡرِمِيۡنَ‏
+arabic_ayat: أَهُمۡ خَيۡرٌ أَمۡ قَوۡمُ تُبَّعٖ وَٱلَّذِينَ مِن قَبۡلِهِمۡ أَهۡلَكۡنَٰهُمۡۚ
+  إِنَّهُمۡ كَانُواْ مُجۡرِمِينَ
 sentence_translation: Are they superior to the people of Tubba’ and those before them?
   We destroyed them ˹all˺, ˹for˺ they were truly wicked.
 word_by_word:
   1:
-    arabic: اَهُمۡ
+    arabic: أَهُمۡ
     translation: Are they
     transliteration: ahum
   2:
@@ -13,7 +13,7 @@ word_by_word:
     translation: better
     transliteration: khayrun
   3:
-    arabic: اَمۡ
+    arabic: أَمۡ
     translation: or
     transliteration: am
   4:
@@ -21,35 +21,35 @@ word_by_word:
     translation: (the) people
     transliteration: qawmu
   5:
-    arabic: تُبَّعٍۙ
+    arabic: تُبَّعٖ
     translation: (of) Tubba
     transliteration: tubbaʿin
   6:
-    arabic: وَّ الَّذِيۡنَ
+    arabic: وَٱلَّذِينَ
     translation: and those
     transliteration: wa-alladhīna
   7:
-    arabic: مِنۡ
+    arabic: مِن
     translation: before them
     transliteration: min
   8:
-    arabic: قَبۡلِهِمۡ​ؕ
+    arabic: قَبۡلِهِمۡ
     translation: before them
     transliteration: qablihim
   9:
-    arabic: اَهۡلَكۡنٰهُمۡ​
+    arabic: أَهۡلَكۡنَٰهُمۡۚ
     translation: We destroyed them
     transliteration: ahlaknāhum
   10:
-    arabic: اِنَّهُمۡ
+    arabic: إِنَّهُمۡ
     translation: indeed, they
     transliteration: innahum
   11:
-    arabic: كَانُوۡا
+    arabic: كَانُواْ
     translation: were
     transliteration: kānū
   12:
-    arabic: مُجۡرِمِيۡنَ‏
+    arabic: مُجۡرِمِينَ
     translation: criminals
     transliteration: muj'rimīna
 ---

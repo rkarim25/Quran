@@ -1,6 +1,6 @@
 ---
-arabic_ayat: قَالَ الۡمَلَاُ الَّذِيۡنَ كَفَرُوۡا مِنۡ قَوۡمِهٖۤ اِنَّا لَــنَرٰٮكَ
-  فِىۡ سَفَاهَةٍ وَّاِنَّا لَــنَظُنُّكَ مِنَ الۡـكٰذِبِيۡنَ‏
+arabic_ayat: قَالَ ٱلۡمَلَأُ ٱلَّذِينَ كَفَرُواْ مِن قَوۡمِهِۦٓ إِنَّا لَنَرَىٰكَ
+  فِي سَفَاهَةٖ وَإِنَّا لَنَظُنُّكَ مِنَ ٱلۡكَٰذِبِينَ
 sentence_translation: The disbelieving chiefs of his people responded, “We surely
   see you as a fool, and we certainly think you are a liar.”
 word_by_word:
@@ -9,47 +9,47 @@ word_by_word:
     translation: Said
     transliteration: qāla
   2:
-    arabic: الۡمَلَاُ
+    arabic: ٱلۡمَلَأُ
     translation: the chiefs
     transliteration: l-mala-u
   3:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: (of) those who
     transliteration: alladhīna
   4:
-    arabic: كَفَرُوۡا
+    arabic: كَفَرُواْ
     translation: disbelieved
     transliteration: kafarū
   5:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   6:
-    arabic: قَوۡمِهٖۤ
+    arabic: قَوۡمِهِۦٓ
     translation: his people
     transliteration: qawmihi
   7:
-    arabic: اِنَّا
+    arabic: إِنَّا
     translation: Indeed, we
     transliteration: innā
   8:
-    arabic: لَــنَرٰٮكَ
+    arabic: لَنَرَىٰكَ
     translation: surely, see you
     transliteration: lanarāka
   9:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   10:
-    arabic: سَفَاهَةٍ
+    arabic: سَفَاهَةٖ
     translation: foolishness
     transliteration: safāhatin
   11:
-    arabic: وَّاِنَّا
+    arabic: وَإِنَّا
     translation: and indeed, we
     transliteration: wa-innā
   12:
-    arabic: لَــنَظُنُّكَ
+    arabic: لَنَظُنُّكَ
     translation: '[we] think you'
     transliteration: lanaẓunnuka
   13:
@@ -57,7 +57,7 @@ word_by_word:
     translation: (are) of
     transliteration: mina
   14:
-    arabic: الۡـكٰذِبِيۡنَ‏
+    arabic: ٱلۡكَٰذِبِينَ
     translation: the liars
     transliteration: l-kādhibīna
 ---

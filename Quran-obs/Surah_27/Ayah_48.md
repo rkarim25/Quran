@@ -1,6 +1,6 @@
 ---
-arabic_ayat: وَكَانَ فِى الۡمَدِيۡنَةِ تِسۡعَةُ رَهۡطٍ يُّفۡسِدُوۡنَ فِى الۡاَرۡضِ
-  وَلَا يُصۡلِحُوۡنَ‏
+arabic_ayat: وَكَانَ فِي ٱلۡمَدِينَةِ تِسۡعَةُ رَهۡطٖ يُفۡسِدُونَ فِي ٱلۡأَرۡضِ وَلَا
+  يُصۡلِحُونَ
 sentence_translation: And there were in the city nine ˹elite˺ men who spread corruption
   in the land, never doing what is right.
 word_by_word:
@@ -9,11 +9,11 @@ word_by_word:
     translation: And were
     transliteration: wakāna
   2:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   3:
-    arabic: الۡمَدِيۡنَةِ
+    arabic: ٱلۡمَدِينَةِ
     translation: the city
     transliteration: l-madīnati
   4:
@@ -21,19 +21,19 @@ word_by_word:
     translation: nine
     transliteration: tis'ʿatu
   5:
-    arabic: رَهۡطٍ
+    arabic: رَهۡطٖ
     translation: family heads
     transliteration: rahṭin
   6:
-    arabic: يُّفۡسِدُوۡنَ
+    arabic: يُفۡسِدُونَ
     translation: they were spreading corruption
     transliteration: yuf'sidūna
   7:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   8:
-    arabic: الۡاَرۡضِ
+    arabic: ٱلۡأَرۡضِ
     translation: the land
     transliteration: l-arḍi
   9:
@@ -41,7 +41,7 @@ word_by_word:
     translation: and not
     transliteration: walā
   10:
-    arabic: يُصۡلِحُوۡنَ‏
+    arabic: يُصۡلِحُونَ
     translation: reforming
     transliteration: yuṣ'liḥūna
 ---

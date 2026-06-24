@@ -1,8 +1,8 @@
 ---
-arabic_ayat: قُلۡ هَلُمَّ شُهَدَآءَكُمُ الَّذِيۡنَ يَشۡهَدُوۡنَ اَنَّ اللّٰهَ حَرَّمَ
-  هٰذَا ​ۚ فَاِنۡ شَهِدُوۡا فَلَا تَشۡهَدۡ مَعَهُمۡ​​ ۚ وَلَا تَتَّبِعۡ اَهۡوَآءَ
-  الَّذِيۡنَ كَذَّبُوۡا بِاٰيٰتِنَا وَالَّذِيۡنَ لَا يُؤۡمِنُوۡنَ بِالۡاٰخِرَةِ وَهُمۡ
-  بِرَبِّهِمۡ يَعۡدِلُوۡنَ‏
+arabic_ayat: قُلۡ هَلُمَّ شُهَدَآءَكُمُ ٱلَّذِينَ يَشۡهَدُونَ أَنَّ ٱللَّهَ حَرَّمَ
+  هَٰذَاۖ فَإِن شَهِدُواْ فَلَا تَشۡهَدۡ مَعَهُمۡۚ وَلَا تَتَّبِعۡ أَهۡوَآءَ ٱلَّذِينَ
+  كَذَّبُواْ بِـَٔايَٰتِنَا وَٱلَّذِينَ لَا يُؤۡمِنُونَ بِٱلۡأٓخِرَةِ وَهُم بِرَبِّهِمۡ
+  يَعۡدِلُونَ
 sentence_translation: Say, ˹O Prophet,˺ “Bring your witnesses who can testify that
   Allah has forbidden this.” If they ˹falsely˺ testify, do not testify with them.
   And do not follow the desires of those who deny Our proofs, disbelieve in the Hereafter,
@@ -21,19 +21,19 @@ word_by_word:
     translation: your witnesses
     transliteration: shuhadāakumu
   4:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   5:
-    arabic: يَشۡهَدُوۡنَ
+    arabic: يَشۡهَدُونَ
     translation: testify
     transliteration: yashhadūna
   6:
-    arabic: اَنَّ
+    arabic: أَنَّ
     translation: that
     transliteration: anna
   7:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   8:
@@ -41,15 +41,15 @@ word_by_word:
     translation: prohibited
     transliteration: ḥarrama
   9:
-    arabic: هٰذَا ​ۚ
+    arabic: هَٰذَاۖ
     translation: this
     transliteration: hādhā
   10:
-    arabic: فَاِنۡ
+    arabic: فَإِن
     translation: Then if
     transliteration: fa-in
   11:
-    arabic: شَهِدُوۡا
+    arabic: شَهِدُواْ
     translation: they testify
     transliteration: shahidū
   12:
@@ -61,7 +61,7 @@ word_by_word:
     translation: testify
     transliteration: tashhad
   14:
-    arabic: مَعَهُمۡ​​ ۚ
+    arabic: مَعَهُمۡۚ
     translation: with them
     transliteration: maʿahum
   15:
@@ -73,23 +73,23 @@ word_by_word:
     translation: follow
     transliteration: tattabiʿ
   17:
-    arabic: اَهۡوَآءَ
+    arabic: أَهۡوَآءَ
     translation: (the) desires
     transliteration: ahwāa
   18:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: (of) those who
     transliteration: alladhīna
   19:
-    arabic: كَذَّبُوۡا
+    arabic: كَذَّبُواْ
     translation: denied
     transliteration: kadhabū
   20:
-    arabic: بِاٰيٰتِنَا
+    arabic: بِـَٔايَٰتِنَا
     translation: Our Signs
     transliteration: biāyātinā
   21:
-    arabic: وَالَّذِيۡنَ
+    arabic: وَٱلَّذِينَ
     translation: and those who
     transliteration: wa-alladhīna
   22:
@@ -97,15 +97,15 @@ word_by_word:
     translation: (do) not
     transliteration: lā
   23:
-    arabic: يُؤۡمِنُوۡنَ
+    arabic: يُؤۡمِنُونَ
     translation: believe
     transliteration: yu'minūna
   24:
-    arabic: بِالۡاٰخِرَةِ
+    arabic: بِٱلۡأٓخِرَةِ
     translation: in the Hereafter
     transliteration: bil-ākhirati
   25:
-    arabic: وَهُمۡ
+    arabic: وَهُم
     translation: while they
     transliteration: wahum
   26:
@@ -113,7 +113,7 @@ word_by_word:
     translation: with their Lord
     transliteration: birabbihim
   27:
-    arabic: يَعۡدِلُوۡنَ‏
+    arabic: يَعۡدِلُونَ
     translation: set up equals
     transliteration: yaʿdilūna
 ---

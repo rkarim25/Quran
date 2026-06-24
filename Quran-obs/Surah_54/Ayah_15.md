@@ -1,18 +1,18 @@
 ---
-arabic_ayat: وَلَقَدْ تَّرَكۡنٰهَاۤ اٰيَةً فَهَلۡ مِنۡ مُّدَّكِرٍ‏
+arabic_ayat: وَلَقَد تَّرَكۡنَٰهَآ ءَايَةٗ فَهَلۡ مِن مُّدَّكِرٖ
 sentence_translation: We certainly left this as a sign. So is there anyone who will
   be mindful?
 word_by_word:
   1:
-    arabic: وَلَقَدْ
+    arabic: وَلَقَد
     translation: And certainly
     transliteration: walaqad
   2:
-    arabic: تَّرَكۡنٰهَاۤ
+    arabic: تَّرَكۡنَٰهَآ ءَ
     translation: We left it
     transliteration: taraknāhā
   3:
-    arabic: اٰيَةً
+    arabic: ايَةٗ
     translation: (as) a Sign
     transliteration: āyatan
   4:
@@ -20,11 +20,11 @@ word_by_word:
     translation: so is (there)
     transliteration: fahal
   5:
-    arabic: مِنۡ
+    arabic: مِن
     translation: any
     transliteration: min
   6:
-    arabic: مُّدَّكِرٍ‏
+    arabic: مُّدَّكِرٖ
     translation: who will receive admonition
     transliteration: muddakirin
 ---

@@ -1,32 +1,32 @@
 ---
-arabic_ayat: مَثَلُ الۡفَرِيۡقَيۡنِ كَالۡاَعۡمٰى وَالۡاَصَمِّ وَالۡبَـصِيۡرِ وَالسَّمِيۡعِ​
-  ؕ هَلۡ يَسۡتَوِيٰنِ مَثَلًا​ ؕ اَفَلَا تَذَكَّرُوۡنَ‏
+arabic_ayat: ۞ مَثَلُ ٱلۡفَرِيقَيۡنِ كَٱلۡأَعۡمَىٰ وَٱلۡأَصَمِّ وَٱلۡبَصِيرِ وَٱلسَّمِيعِۚ
+  هَلۡ يَسۡتَوِيَانِ مَثَلًاۚ أَفَلَا تَذَكَّرُونَ
 sentence_translation: The example of these two parties is that of the blind and the
   deaf, compared to the seeing and the hearing. Can the two be equal? Will you not
   then be mindful?
 word_by_word:
   1:
-    arabic: ۞ مَثَلُ
+    arabic: ۞ مَثَلُ
     translation: (The) example
     transliteration: mathalu
   2:
-    arabic: الۡفَرِيۡقَيۡنِ
+    arabic: ٱلۡفَرِيقَيۡنِ
     translation: (of) the two parties
     transliteration: l-farīqayni
   3:
-    arabic: كَالۡاَعۡمٰى
+    arabic: كَٱلۡأَعۡمَىٰ
     translation: (is) like the blind
     transliteration: kal-aʿmā
   4:
-    arabic: وَالۡاَصَمِّ
+    arabic: وَٱلۡأَصَمِّ
     translation: and the deaf
     transliteration: wal-aṣami
   5:
-    arabic: وَالۡبَـصِيۡرِ
+    arabic: وَٱلۡبَصِيرِ
     translation: and the seer
     transliteration: wal-baṣīri
   6:
-    arabic: وَالسَّمِيۡعِ​ ؕ
+    arabic: وَٱلسَّمِيعِۚ
     translation: and the hearer
     transliteration: wal-samīʿi
   7:
@@ -34,19 +34,19 @@ word_by_word:
     translation: Are
     transliteration: hal
   8:
-    arabic: يَسۡتَوِيٰنِ
+    arabic: يَسۡتَوِيَانِ
     translation: they equal
     transliteration: yastawiyāni
   9:
-    arabic: مَثَلًا​ ؕ
+    arabic: مَثَلًاۚ
     translation: (in) comparison
     transliteration: mathalan
   10:
-    arabic: اَفَلَا
+    arabic: أَفَلَا
     translation: Then, will not
     transliteration: afalā
   11:
-    arabic: تَذَكَّرُوۡنَ‏
+    arabic: تَذَكَّرُونَ
     translation: you take heed
     transliteration: tadhakkarūna
 ---

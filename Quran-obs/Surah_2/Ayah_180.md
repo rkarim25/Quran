@@ -1,7 +1,6 @@
 ---
-arabic_ayat: "كُتِبَ عَلَيۡكُمۡ اِذَا حَضَرَ اَحَدَكُمُ الۡمَوۡتُ اِنۡ تَرَكَ خَيۡرَا \
-  \ ۖۚ اۨلۡوَصِيَّةُ لِلۡوَالِدَيۡنِ وَالۡاَقۡرَبِيۡنَ بِالۡمَعۡرُوۡفِۚ حَقًّا عَلَى\
-  \ الۡمُتَّقِيۡنَؕ‏ \uFEFF\uFEFF"
+arabic_ayat: كُتِبَ عَلَيۡكُمۡ إِذَا حَضَرَ أَحَدَكُمُ ٱلۡمَوۡتُ إِن تَرَكَ خَيۡرًا
+  ٱلۡوَصِيَّةُ لِلۡوَٰلِدَيۡنِ وَٱلۡأَقۡرَبِينَ بِٱلۡمَعۡرُوفِۖ حَقًّا عَلَى ٱلۡمُتَّقِينَ
 sentence_translation: It is prescribed that when death approaches any of you—if they
   leave something of value—a will should be made in favour of parents and immediate
   family with fairness. ˹This is˺ an obligation on those who are mindful ˹of Allah˺.
@@ -15,7 +14,7 @@ word_by_word:
     translation: for you
     transliteration: ʿalaykum
   3:
-    arabic: اِذَا
+    arabic: إِذَا
     translation: when
     transliteration: idhā
   4:
@@ -23,15 +22,15 @@ word_by_word:
     translation: approaches
     transliteration: ḥaḍara
   5:
-    arabic: اَحَدَكُمُ
+    arabic: أَحَدَكُمُ
     translation: any of you
     transliteration: aḥadakumu
   6:
-    arabic: الۡمَوۡتُ
+    arabic: ٱلۡمَوۡتُ
     translation: '[the] death'
     transliteration: l-mawtu
   7:
-    arabic: اِنۡ
+    arabic: إِن
     translation: if
     transliteration: in
   8:
@@ -39,23 +38,23 @@ word_by_word:
     translation: he leaves
     transliteration: taraka
   9:
-    arabic: خَيۡرَا  ۖۚ
+    arabic: خَيۡرًا
     translation: good
     transliteration: khayran
   10:
-    arabic: اۨلۡوَصِيَّةُ
+    arabic: ٱلۡوَصِيَّةُ
     translation: (making) the will
     transliteration: l-waṣiyatu
   11:
-    arabic: لِلۡوَالِدَيۡنِ
+    arabic: لِلۡوَٰلِدَيۡنِ
     translation: for the parents
     transliteration: lil'wālidayni
   12:
-    arabic: وَالۡاَقۡرَبِيۡنَ
+    arabic: وَٱلۡأَقۡرَبِينَ
     translation: and the near relatives
     transliteration: wal-aqrabīna
   13:
-    arabic: بِالۡمَعۡرُوۡفِۚ
+    arabic: بِٱلۡمَعۡرُوفِۖ
     translation: with due fairness
     transliteration: bil-maʿrūfi
   14:
@@ -67,7 +66,7 @@ word_by_word:
     translation: 'on'
     transliteration: ʿalā
   16:
-    arabic: "الۡمُتَّقِيۡنَؕ‏ \uFEFF\uFEFF"
+    arabic: ٱلۡمُتَّقِينَ
     translation: the righteous ones
     transliteration: l-mutaqīna
 ---

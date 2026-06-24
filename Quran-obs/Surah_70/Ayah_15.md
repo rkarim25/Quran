@@ -1,17 +1,17 @@
 ---
-arabic_ayat: كَلَّا ؕ اِنَّهَا لَظٰىۙ‏
+arabic_ayat: كـَلَّآۖ إِنَّهَا لَظَىٰ
 sentence_translation: But no! There will certainly be a raging Flame
 word_by_word:
   1:
-    arabic: كَلَّا ؕ
+    arabic: كـَلَّآۖ
     translation: By no means
     transliteration: kallā
   2:
-    arabic: اِنَّهَا
+    arabic: إِنَّهَا
     translation: Indeed, it (is)
     transliteration: innahā
   3:
-    arabic: لَظٰىۙ‏
+    arabic: لَظَىٰ
     translation: surely a Flame of Hell
     transliteration: laẓā
 ---

@@ -1,11 +1,11 @@
 ---
-arabic_ayat: جَنّٰتِ عَدۡنٍ اۨلَّتِىۡ وَعَدَ الرَّحۡمٰنُ عِبَادَهٗ بِالۡغَيۡبِ​ ؕ
-  اِنَّهٗ كَانَ وَعۡدُهٗ مَاۡتِيًّا‏
+arabic_ayat: جَنَّٰتِ عَدۡنٍ ٱلَّتِي وَعَدَ ٱلرَّحۡمَٰنُ عِبَادَهُۥ بِٱلۡغَيۡبِۚ إِنَّهُۥ
+  كَانَ وَعۡدُهُۥ مَأۡتِيّٗا
 sentence_translation: ˹They will be in˺ the Gardens of Eternity, promised in trust
   by the Most Compassionate to His servants. Surely His promise will be fulfilled.
 word_by_word:
   1:
-    arabic: جَنّٰتِ
+    arabic: جَنَّٰتِ
     translation: Gardens
     transliteration: jannāti
   2:
@@ -13,7 +13,7 @@ word_by_word:
     translation: (of) Eden
     transliteration: ʿadnin
   3:
-    arabic: اۨلَّتِىۡ
+    arabic: ٱلَّتِي
     translation: which
     transliteration: allatī
   4:
@@ -21,19 +21,19 @@ word_by_word:
     translation: promised
     transliteration: waʿada
   5:
-    arabic: الرَّحۡمٰنُ
+    arabic: ٱلرَّحۡمَٰنُ
     translation: the Most Gracious
     transliteration: l-raḥmānu
   6:
-    arabic: عِبَادَهٗ
+    arabic: عِبَادَهُۥ
     translation: (to) His slaves
     transliteration: ʿibādahu
   7:
-    arabic: بِالۡغَيۡبِ​ ؕ
+    arabic: بِٱلۡغَيۡبِۚ
     translation: in the unseen
     transliteration: bil-ghaybi
   8:
-    arabic: اِنَّهٗ
+    arabic: إِنَّهُۥ
     translation: Indeed, [it]
     transliteration: innahu
   9:
@@ -41,11 +41,11 @@ word_by_word:
     translation: is
     transliteration: kāna
   10:
-    arabic: وَعۡدُهٗ
+    arabic: وَعۡدُهُۥ
     translation: His promise
     transliteration: waʿduhu
   11:
-    arabic: مَاۡتِيًّا‏
+    arabic: مَأۡتِيّٗا
     translation: sure to come
     transliteration: matiyyan
 ---

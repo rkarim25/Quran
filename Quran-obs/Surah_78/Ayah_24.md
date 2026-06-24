@@ -1,29 +1,29 @@
 ---
-arabic_ayat: لَا يَذُوۡقُوۡنَ فِيۡهَا بَرۡدًا وَّلَا شَرَابًا ۙ‏
+arabic_ayat: لَّا يَذُوقُونَ فِيهَا بَرۡدٗا وَلَا شَرَابًا
 sentence_translation: There they will not taste any coolness or drink,
 word_by_word:
   1:
-    arabic: لَا
+    arabic: لَّا
     translation: Not
     transliteration: lā
   2:
-    arabic: يَذُوۡقُوۡنَ
+    arabic: يَذُوقُونَ
     translation: they will taste
     transliteration: yadhūqūna
   3:
-    arabic: فِيۡهَا
+    arabic: فِيهَا
     translation: therein
     transliteration: fīhā
   4:
-    arabic: بَرۡدًا
+    arabic: بَرۡدٗا
     translation: coolness
     transliteration: bardan
   5:
-    arabic: وَّلَا
+    arabic: وَلَا
     translation: and not
     transliteration: walā
   6:
-    arabic: شَرَابًا ۙ‏
+    arabic: شَرَابًا
     translation: any drink
     transliteration: sharāban
 ---

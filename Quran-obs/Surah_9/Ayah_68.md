@@ -1,7 +1,7 @@
 ---
-arabic_ayat: وَعَدَ اللّٰهُ الۡمُنٰفِقِيۡنَ وَالۡمُنٰفِقٰتِ وَالۡـكُفَّارَ نَارَ جَهَـنَّمَ
-  خٰلِدِيۡنَ فِيۡهَا​ ؕ هِىَ حَسۡبُهُمۡ​ ۚ وَلَـعَنَهُمُ اللّٰهُ​ ۚ وَلَهُمۡ عَذَابٌ
-  مُّقِيۡمٌ ۙ‏
+arabic_ayat: وَعَدَ ٱللَّهُ ٱلۡمُنَٰفِقِينَ وَٱلۡمُنَٰفِقَٰتِ وَٱلۡكُفَّارَ نَارَ
+  جَهَنَّمَ خَٰلِدِينَ فِيهَاۚ هِيَ حَسۡبُهُمۡۚ وَلَعَنَهُمُ ٱللَّهُۖ وَلَهُمۡ عَذَابٞ
+  مُّقِيمٞ
 sentence_translation: Allah has promised the hypocrites, both men and women, and the
   disbelievers an everlasting stay in the Fire of Hell—it is sufficient for them.
   Allah has condemned them, and they will suffer a never-ending punishment.
@@ -11,19 +11,19 @@ word_by_word:
     translation: Allah has promised
     transliteration: waʿada
   2:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah has promised
     transliteration: l-lahu
   3:
-    arabic: الۡمُنٰفِقِيۡنَ
+    arabic: ٱلۡمُنَٰفِقِينَ
     translation: the hypocrite men
     transliteration: l-munāfiqīna
   4:
-    arabic: وَالۡمُنٰفِقٰتِ
+    arabic: وَٱلۡمُنَٰفِقَٰتِ
     translation: and the hypocrite women
     transliteration: wal-munāfiqāti
   5:
-    arabic: وَالۡـكُفَّارَ
+    arabic: وَٱلۡكُفَّارَ
     translation: and the disbelievers
     transliteration: wal-kufāra
   6:
@@ -31,31 +31,31 @@ word_by_word:
     translation: Fire
     transliteration: nāra
   7:
-    arabic: جَهَـنَّمَ
+    arabic: جَهَنَّمَ
     translation: (of) Hell
     transliteration: jahannama
   8:
-    arabic: خٰلِدِيۡنَ
+    arabic: خَٰلِدِينَ
     translation: they (will) abide forever
     transliteration: khālidīna
   9:
-    arabic: فِيۡهَا​ ؕ
+    arabic: فِيهَاۚ
     translation: in it
     transliteration: fīhā
   10:
-    arabic: هِىَ
+    arabic: هِيَ
     translation: It (is)
     transliteration: hiya
   11:
-    arabic: حَسۡبُهُمۡ​ ۚ
+    arabic: حَسۡبُهُمۡۚ
     translation: sufficient for them
     transliteration: ḥasbuhum
   12:
-    arabic: وَلَـعَنَهُمُ
+    arabic: وَلَعَنَهُمُ
     translation: And Allah has cursed them
     transliteration: walaʿanahumu
   13:
-    arabic: اللّٰهُ​ ۚ
+    arabic: ٱللَّهُۖ
     translation: And Allah has cursed them
     transliteration: l-lahu
   14:
@@ -63,11 +63,11 @@ word_by_word:
     translation: and for them
     transliteration: walahum
   15:
-    arabic: عَذَابٌ
+    arabic: عَذَابٞ
     translation: (is) a punishment
     transliteration: ʿadhābun
   16:
-    arabic: مُّقِيۡمٌ ۙ‏
+    arabic: مُّقِيمٞ
     translation: enduring
     transliteration: muqīmun
 ---

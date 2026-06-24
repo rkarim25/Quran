@@ -1,11 +1,10 @@
 ---
-arabic_ayat: "فَاصۡبِرۡ لِحُكۡمِ رَبِّكَ وَلَا تُطِعۡ مِنۡهُمۡ اٰثِمًا اَوۡ كَفُوۡرًا​ۚ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: فَٱصۡبِرۡ لِحُكۡمِ رَبِّكَ وَلَا تُطِعۡ مِنۡهُمۡ ءَاثِمًا أَوۡ كَفُورٗا
 sentence_translation: So be patient with your Lord’s decree, and do not yield to any
   evildoer or ˹staunch˺ disbeliever from among them.
 word_by_word:
   1:
-    arabic: فَاصۡبِرۡ
+    arabic: فَٱصۡبِرۡ
     translation: So be patient
     transliteration: fa-iṣ'bir
   2:
@@ -25,19 +24,19 @@ word_by_word:
     translation: obey
     transliteration: tuṭiʿ
   6:
-    arabic: مِنۡهُمۡ
+    arabic: مِنۡهُمۡ ءَ
     translation: from them
     transliteration: min'hum
   7:
-    arabic: اٰثِمًا
+    arabic: اثِمًا
     translation: any sinner
     transliteration: āthiman
   8:
-    arabic: اَوۡ
+    arabic: أَوۡ
     translation: or
     transliteration: aw
   9:
-    arabic: "كَفُوۡرًا​ۚ‏ \uFEFF\uFEFF"
+    arabic: كَفُورٗا
     translation: disbeliever
     transliteration: kafūran
 ---

@@ -1,17 +1,17 @@
 ---
-arabic_ayat: فَيَاۡتِيَهُمۡ بَغۡتَةً وَّهُمۡ لَا يَشۡعُرُوۡنَۙ‏
+arabic_ayat: فَيَأۡتِيَهُم بَغۡتَةٗ وَهُمۡ لَا يَشۡعُرُونَ
 sentence_translation: which will take them by surprise when they least expect ˹it˺.
 word_by_word:
   1:
-    arabic: فَيَاۡتِيَهُمۡ
+    arabic: فَيَأۡتِيَهُم
     translation: And it will come to them
     transliteration: fayatiyahum
   2:
-    arabic: بَغۡتَةً
+    arabic: بَغۡتَةٗ
     translation: suddenly
     transliteration: baghtatan
   3:
-    arabic: وَّهُمۡ
+    arabic: وَهُمۡ
     translation: while they
     transliteration: wahum
   4:
@@ -19,7 +19,7 @@ word_by_word:
     translation: (do) not
     transliteration: lā
   5:
-    arabic: يَشۡعُرُوۡنَۙ‏
+    arabic: يَشۡعُرُونَ
     translation: perceive
     transliteration: yashʿurūna
 ---

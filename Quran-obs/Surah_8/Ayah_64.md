@@ -1,15 +1,14 @@
 ---
-arabic_ayat: "يٰۤـاَيُّهَا النَّبِىُّ حَسۡبُكَ اللّٰهُ وَ مَنِ اتَّبَعَكَ مِنَ الۡمُؤۡمِنِيۡنَ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: يَٰٓأَيُّهَا ٱلنَّبِيُّ حَسۡبُكَ ٱللَّهُ وَمَنِ ٱتَّبَعَكَ مِنَ ٱلۡمُؤۡمِنِينَ
 sentence_translation: O  Prophet! Allah is sufficient for you and for the believers
   who follow you.
 word_by_word:
   1:
-    arabic: يٰۤـاَيُّهَا
+    arabic: يَٰٓأَيُّهَا
     translation: O
     transliteration: yāayyuhā
   2:
-    arabic: النَّبِىُّ
+    arabic: ٱلنَّبِيُّ
     translation: Prophet
     transliteration: l-nabiyu
   3:
@@ -17,15 +16,15 @@ word_by_word:
     translation: Sufficient for you
     transliteration: ḥasbuka
   4:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: (is) Allah
     transliteration: l-lahu
   5:
-    arabic: وَ مَنِ
+    arabic: وَمَنِ
     translation: and whoever
     transliteration: wamani
   6:
-    arabic: اتَّبَعَكَ
+    arabic: ٱتَّبَعَكَ
     translation: follows you
     transliteration: ittabaʿaka
   7:
@@ -33,7 +32,7 @@ word_by_word:
     translation: of
     transliteration: mina
   8:
-    arabic: "الۡمُؤۡمِنِيۡنَ‏ \uFEFF\uFEFF"
+    arabic: ٱلۡمُؤۡمِنِينَ
     translation: the believers
     transliteration: l-mu'minīna
 ---

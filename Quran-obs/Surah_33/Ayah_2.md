@@ -1,11 +1,11 @@
 ---
-arabic_ayat: وَّاتَّبِعۡ مَا يُوۡحٰٓى اِلَيۡكَ مِنۡ رَّبِّكَ​ ؕ اِنَّ اللّٰهَ كَانَ
-  بِمَا تَعۡمَلُوۡنَ خَبِيۡرًا ۙ‏
+arabic_ayat: وَٱتَّبِعۡ مَا يُوحَىٰٓ إِلَيۡكَ مِن رَّبِّكَۚ إِنَّ ٱللَّهَ كَانَ بِمَا
+  تَعۡمَلُونَ خَبِيرٗا
 sentence_translation: Follow what is revealed to you from your Lord. Surely Allah
   is All-Aware of what you ˹all˺ do.
 word_by_word:
   1:
-    arabic: وَّاتَّبِعۡ
+    arabic: وَٱتَّبِعۡ
     translation: And follow
     transliteration: wa-ittabiʿ
   2:
@@ -13,27 +13,27 @@ word_by_word:
     translation: what
     transliteration: mā
   3:
-    arabic: يُوۡحٰٓى
+    arabic: يُوحَىٰٓ
     translation: is inspired
     transliteration: yūḥā
   4:
-    arabic: اِلَيۡكَ
+    arabic: إِلَيۡكَ
     translation: to you
     transliteration: ilayka
   5:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   6:
-    arabic: رَّبِّكَ​ ؕ
+    arabic: رَّبِّكَۚ
     translation: your Lord
     transliteration: rabbika
   7:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   8:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   9:
@@ -45,11 +45,11 @@ word_by_word:
     translation: of what
     transliteration: bimā
   11:
-    arabic: تَعۡمَلُوۡنَ
+    arabic: تَعۡمَلُونَ
     translation: you do
     transliteration: taʿmalūna
   12:
-    arabic: خَبِيۡرًا ۙ‏
+    arabic: خَبِيرٗا
     translation: All-Aware
     transliteration: khabīran
 ---

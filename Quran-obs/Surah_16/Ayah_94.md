@@ -1,7 +1,7 @@
 ---
-arabic_ayat: وَلَا تَتَّخِذُوۡۤا اَيۡمَانَكُمۡ دَخَلًاۢ بَيۡنَكُمۡ فَتَزِلَّ قَدَمٌۢ
-  بَعۡدَ ثُبُوۡتِهَا وَتَذُوۡقُوا السُّوۡۤءَ بِمَا صَدَدْتُّمۡ عَنۡ سَبِيۡلِ اللّٰهِ​ۚ
-  وَ لَـكُمۡ عَذَابٌ عَظِيۡمٌ‏
+arabic_ayat: وَلَا تَتَّخِذُوٓاْ أَيۡمَٰنَكُمۡ دَخَلَۢا بَيۡنَكُمۡ فَتَزِلَّ قَدَمُۢ
+  بَعۡدَ ثُبُوتِهَا وَتَذُوقُواْ ٱلسُّوٓءَ بِمَا صَدَدتُّمۡ عَن سَبِيلِ ٱللَّهِ وَلَكُمۡ
+  عَذَابٌ عَظِيمٞ
 sentence_translation: And do not take your oaths as a means of deceiving one another
   or your feet will slip after they have been firm. Then you will taste the evil ˹consequences˺
   of hindering ˹others˺ from the Way of Allah, and you will suffer a tremendous punishment.
@@ -11,15 +11,15 @@ word_by_word:
     translation: And (do) not
     transliteration: walā
   2:
-    arabic: تَتَّخِذُوۡۤا
+    arabic: تَتَّخِذُوٓاْ
     translation: take
     transliteration: tattakhidhū
   3:
-    arabic: اَيۡمَانَكُمۡ
+    arabic: أَيۡمَٰنَكُمۡ
     translation: your oaths
     transliteration: aymānakum
   4:
-    arabic: دَخَلًاۢ
+    arabic: دَخَلَۢا
     translation: (as) a deception
     transliteration: dakhalan
   5:
@@ -31,7 +31,7 @@ word_by_word:
     translation: lest, should slip
     transliteration: fatazilla
   7:
-    arabic: قَدَمٌۢ
+    arabic: قَدَمُۢ
     translation: a foot
     transliteration: qadamun
   8:
@@ -39,15 +39,15 @@ word_by_word:
     translation: after
     transliteration: baʿda
   9:
-    arabic: ثُبُوۡتِهَا
+    arabic: ثُبُوتِهَا
     translation: it is firmly planted
     transliteration: thubūtihā
   10:
-    arabic: وَتَذُوۡقُوا
+    arabic: وَتَذُوقُواْ
     translation: and you would taste
     transliteration: watadhūqū
   11:
-    arabic: السُّوۡۤءَ
+    arabic: ٱلسُّوٓءَ
     translation: the evil
     transliteration: l-sūa
   12:
@@ -55,23 +55,23 @@ word_by_word:
     translation: for what
     transliteration: bimā
   13:
-    arabic: صَدَدْتُّمۡ
+    arabic: صَدَدتُّمۡ
     translation: you hindered
     transliteration: ṣadadttum
   14:
-    arabic: عَنۡ
+    arabic: عَن
     translation: from
     transliteration: ʿan
   15:
-    arabic: سَبِيۡلِ
+    arabic: سَبِيلِ
     translation: (the) way
     transliteration: sabīli
   16:
-    arabic: اللّٰهِ​ۚ
+    arabic: ٱللَّهِ
     translation: (of) Allah
     transliteration: l-lahi
   17:
-    arabic: وَ لَـكُمۡ
+    arabic: وَلَكُمۡ
     translation: and for you
     transliteration: walakum
   18:
@@ -79,7 +79,7 @@ word_by_word:
     translation: (is) a punishment
     transliteration: ʿadhābun
   19:
-    arabic: عَظِيۡمٌ‏
+    arabic: عَظِيمٞ
     translation: great
     transliteration: ʿaẓīmun
 ---

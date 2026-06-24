@@ -1,22 +1,22 @@
 ---
-arabic_ayat: يٰۤاَيُّهَا النَّاسُ اذۡكُرُوۡا نِعۡمَتَ اللّٰهِ عَلَيۡكُمۡؕ هَلۡ مِنۡ
-  خَالِـقٍ غَيۡرُ اللّٰهِ يَرۡزُقُكُمۡ مِّنَ السَّمَآءِ وَالۡاَرۡضِؕ لَاۤ اِلٰهَ
-  اِلَّا هُوَۖ فَاَنّٰى تُؤۡفَكُوۡنَ‏
+arabic_ayat: يَٰٓأَيُّهَا ٱلنَّاسُ ٱذۡكُرُواْ نِعۡمَتَ ٱللَّهِ عَلَيۡكُمۡۚ هَلۡ مِنۡ
+  خَٰلِقٍ غَيۡرُ ٱللَّهِ يَرۡزُقُكُم مِّنَ ٱلسَّمَآءِ وَٱلۡأَرۡضِۚ لَآ إِلَٰهَ إِلَّا
+  هُوَۖ فَأَنَّىٰ تُؤۡفَكُونَ
 sentence_translation: O humanity! Remember Allah’s favours upon you. Is there any
   creator other than Allah who provides for you from the heavens and the earth? There
   is no god ˹worthy of worship˺ except Him. How can you then be deluded ˹from the
   truth˺?
 word_by_word:
   1:
-    arabic: يٰۤاَيُّهَا
+    arabic: يَٰٓأَيُّهَا
     translation: O
     transliteration: yāayyuhā
   2:
-    arabic: النَّاسُ
+    arabic: ٱلنَّاسُ
     translation: mankind
     transliteration: l-nāsu
   3:
-    arabic: اذۡكُرُوۡا
+    arabic: ٱذۡكُرُواْ
     translation: Remember
     transliteration: udh'kurū
   4:
@@ -24,11 +24,11 @@ word_by_word:
     translation: (the) Favor
     transliteration: niʿ'mata
   5:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (of) Allah
     transliteration: l-lahi
   6:
-    arabic: عَلَيۡكُمۡؕ
+    arabic: عَلَيۡكُمۡۚ
     translation: upon you
     transliteration: ʿalaykum
   7:
@@ -40,7 +40,7 @@ word_by_word:
     translation: (there) any
     transliteration: min
   9:
-    arabic: خَالِـقٍ
+    arabic: خَٰلِقٍ
     translation: creator
     transliteration: khāliqin
   10:
@@ -48,11 +48,11 @@ word_by_word:
     translation: other (than) Allah
     transliteration: ghayru
   11:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: other (than) Allah
     transliteration: l-lahi
   12:
-    arabic: يَرۡزُقُكُمۡ
+    arabic: يَرۡزُقُكُم
     translation: who provides for you
     transliteration: yarzuqukum
   13:
@@ -60,35 +60,35 @@ word_by_word:
     translation: from
     transliteration: mina
   14:
-    arabic: السَّمَآءِ
+    arabic: ٱلسَّمَآءِ
     translation: the sky
     transliteration: l-samāi
   15:
-    arabic: وَالۡاَرۡضِؕ
+    arabic: وَٱلۡأَرۡضِۚ
     translation: and the earth
     transliteration: wal-arḍi
   16:
-    arabic: لَاۤ
+    arabic: لَآ
     translation: (There is) no
     transliteration: lā
   17:
-    arabic: اِلٰهَ
+    arabic: إِلَٰهَ
     translation: god
     transliteration: ilāha
   18:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: but
     transliteration: illā
   19:
-    arabic: هُوَۖ
+    arabic: هُوَۖ
     translation: He
     transliteration: huwa
   20:
-    arabic: فَاَنّٰى
+    arabic: فَأَنَّىٰ
     translation: Then, how
     transliteration: fa-annā
   21:
-    arabic: تُؤۡفَكُوۡنَ‏
+    arabic: تُؤۡفَكُونَ
     translation: (are) you deluded
     transliteration: tu'fakūna
 ---

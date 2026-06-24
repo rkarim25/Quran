@@ -1,5 +1,5 @@
 ---
-arabic_ayat: هَلۡ جَزَآءُ الْاِحۡسَانِ اِلَّا الۡاِحۡسَانُ​ۚ‏
+arabic_ayat: هَلۡ جَزَآءُ ٱلۡإِحۡسَٰنِ إِلَّا ٱلۡإِحۡسَٰنُ
 sentence_translation: Is there any reward for goodness except goodness?
 word_by_word:
   1:
@@ -11,15 +11,15 @@ word_by_word:
     translation: (the) reward
     transliteration: jazāu
   3:
-    arabic: الْاِحۡسَانِ
+    arabic: ٱلۡإِحۡسَٰنِ
     translation: for the good
     transliteration: l-iḥ'sāni
   4:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: but
     transliteration: illā
   5:
-    arabic: الۡاِحۡسَانُ​ۚ‏
+    arabic: ٱلۡإِحۡسَٰنُ
     translation: good
     transliteration: l-iḥ'sānu
 ---

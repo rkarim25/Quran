@@ -1,11 +1,11 @@
 ---
-arabic_ayat: نَحۡنُ نَقُصُّ عَلَيۡكَ نَبَاَهُمۡ بِالۡحَـقِّ​ؕ اِنَّهُمۡ فِتۡيَةٌ اٰمَنُوۡا
-  بِرَبِّهِمۡ وَزِدۡنٰهُمۡ هُدًى​ۖ‏
+arabic_ayat: نَّحۡنُ نَقُصُّ عَلَيۡكَ نَبَأَهُم بِٱلۡحَقِّۚ إِنَّهُمۡ فِتۡيَةٌ ءَامَنُواْ
+  بِرَبِّهِمۡ وَزِدۡنَٰهُمۡ هُدٗى
 sentence_translation: We relate to you ˹O Prophet˺ their story in truth. They were
   youths who truly believed in their Lord, and We increased them in guidance.
 word_by_word:
   1:
-    arabic: نَحۡنُ
+    arabic: نَّحۡنُ
     translation: We
     transliteration: naḥnu
   2:
@@ -17,23 +17,23 @@ word_by_word:
     translation: to you
     transliteration: ʿalayka
   4:
-    arabic: نَبَاَهُمۡ
+    arabic: نَبَأَهُم
     translation: their story
     transliteration: naba-ahum
   5:
-    arabic: بِالۡحَـقِّ​ؕ
+    arabic: بِٱلۡحَقِّۚ
     translation: in truth
     transliteration: bil-ḥaqi
   6:
-    arabic: اِنَّهُمۡ
+    arabic: إِنَّهُمۡ
     translation: Indeed, they (were)
     transliteration: innahum
   7:
-    arabic: فِتۡيَةٌ
+    arabic: فِتۡيَةٌ ءَ
     translation: youths
     transliteration: fit'yatun
   8:
-    arabic: اٰمَنُوۡا
+    arabic: امَنُواْ
     translation: who believed
     transliteration: āmanū
   9:
@@ -41,11 +41,11 @@ word_by_word:
     translation: in their Lord
     transliteration: birabbihim
   10:
-    arabic: وَزِدۡنٰهُمۡ
+    arabic: وَزِدۡنَٰهُمۡ
     translation: and We increased them
     transliteration: wazid'nāhum
   11:
-    arabic: هُدًى​ۖ‏
+    arabic: هُدٗى
     translation: (in) guidance
     transliteration: hudan
 ---

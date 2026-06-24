@@ -1,14 +1,14 @@
 ---
-arabic_ayat: وَاَنَّ اِلٰى رَبِّكَ الۡمُنۡتَهٰىۙ‏
+arabic_ayat: وَأَنَّ إِلَىٰ رَبِّكَ ٱلۡمُنتَهَىٰ
 sentence_translation: and that to your Lord ˹alone˺ is the ultimate return ˹of all
   things˺.
 word_by_word:
   1:
-    arabic: وَاَنَّ
+    arabic: وَأَنَّ
     translation: And that
     transliteration: wa-anna
   2:
-    arabic: اِلٰى
+    arabic: إِلَىٰ
     translation: to
     transliteration: ilā
   3:
@@ -16,7 +16,7 @@ word_by_word:
     translation: your Lord
     transliteration: rabbika
   4:
-    arabic: الۡمُنۡتَهٰىۙ‏
+    arabic: ٱلۡمُنتَهَىٰ
     translation: (is) the final goal
     transliteration: l-muntahā
 ---

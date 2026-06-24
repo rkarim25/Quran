@@ -1,52 +1,52 @@
 ---
-arabic_ayat: اِلَّا الَّذِيۡنَ تَابُوۡا وَاَصۡلَحُوۡا وَبَيَّـنُوۡا فَاُولٰٓٮِٕكَ
-  اَ تُوۡبُ عَلَيۡهِمۡۚ وَاَنَا التَّوَّابُ الرَّحِيۡمُ‏
+arabic_ayat: إِلَّا ٱلَّذِينَ تَابُواْ وَأَصۡلَحُواْ وَبَيَّنُواْ فَأُوْلَٰٓئِكَ أَتُوبُ
+  عَلَيۡهِمۡ وَأَنَا ٱلتَّوَّابُ ٱلرَّحِيمُ
 sentence_translation: As for those who repent, mend their ways, and let the truth
   be known, they are the ones to whom I will turn ˹in forgiveness˺, for I am the Accepter
   of Repentance, Most Merciful.
 word_by_word:
   1:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: Except
     transliteration: illā
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those
     transliteration: alladhīna
   3:
-    arabic: تَابُوۡا
+    arabic: تَابُواْ
     translation: who repent[ed]
     transliteration: tābū
   4:
-    arabic: وَاَصۡلَحُوۡا
+    arabic: وَأَصۡلَحُواْ
     translation: and reform[ed]
     transliteration: wa-aṣlaḥū
   5:
-    arabic: وَبَيَّـنُوۡا
+    arabic: وَبَيَّنُواْ
     translation: and openly declar[ed]
     transliteration: wabayyanū
   6:
-    arabic: فَاُولٰٓٮِٕكَ
+    arabic: فَأُوْلَٰٓئِكَ
     translation: Then those
     transliteration: fa-ulāika
   7:
-    arabic: اَ تُوۡبُ
+    arabic: أَتُوبُ
     translation: I will accept repentance
     transliteration: atūbu
   8:
-    arabic: عَلَيۡهِمۡۚ
+    arabic: عَلَيۡهِمۡ
     translation: from them
     transliteration: ʿalayhim
   9:
-    arabic: وَاَنَا
+    arabic: وَأَنَا
     translation: and I (am)
     transliteration: wa-anā
   10:
-    arabic: التَّوَّابُ
+    arabic: ٱلتَّوَّابُ
     translation: the Acceptor of Repentance
     transliteration: l-tawābu
   11:
-    arabic: الرَّحِيۡمُ‏
+    arabic: ٱلرَّحِيمُ
     translation: the Most Merciful
     transliteration: l-raḥīmu
 ---

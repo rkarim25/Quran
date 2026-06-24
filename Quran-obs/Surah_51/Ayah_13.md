@@ -1,5 +1,5 @@
 ---
-arabic_ayat: يَوۡمَ هُمۡ عَلَى النَّارِ يُفۡتَنُوۡنَ‏
+arabic_ayat: يَوۡمَ هُمۡ عَلَى ٱلنَّارِ يُفۡتَنُونَ
 sentence_translation: ˹It is˺ the Day they will be tormented over the Fire.
 word_by_word:
   1:
@@ -15,11 +15,11 @@ word_by_word:
     translation: over
     transliteration: ʿalā
   4:
-    arabic: النَّارِ
+    arabic: ٱلنَّارِ
     translation: the Fire
     transliteration: l-nāri
   5:
-    arabic: يُفۡتَنُوۡنَ‏
+    arabic: يُفۡتَنُونَ
     translation: will be tried
     transliteration: yuf'tanūna
 ---

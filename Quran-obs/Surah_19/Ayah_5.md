@@ -1,11 +1,11 @@
 ---
-arabic_ayat: وَاِنِّىۡ خِفۡتُ الۡمَوَالِىَ مِنۡ وَّرَآءِىۡ وَكَانَتِ امۡرَاَتِىۡ
-  عَاقِرًا فَهَبۡ لِىۡ مِنۡ لَّدُنۡكَ وَلِيًّا ۙ‏
+arabic_ayat: وَإِنِّي خِفۡتُ ٱلۡمَوَٰلِيَ مِن وَرَآءِي وَكَانَتِ ٱمۡرَأَتِي عَاقِرٗا
+  فَهَبۡ لِي مِن لَّدُنكَ وَلِيّٗا
 sentence_translation: And I am concerned about ˹the faith of˺ my relatives after me,
   since my wife is barren. So grant me, by Your grace, an heir,
 word_by_word:
   1:
-    arabic: وَاِنِّىۡ
+    arabic: وَإِنِّي
     translation: And indeed, I
     transliteration: wa-innī
   2:
@@ -13,15 +13,15 @@ word_by_word:
     translation: '[I] fear'
     transliteration: khif'tu
   3:
-    arabic: الۡمَوَالِىَ
+    arabic: ٱلۡمَوَٰلِيَ
     translation: the successors
     transliteration: l-mawāliya
   4:
-    arabic: مِنۡ
+    arabic: مِن
     translation: after me
     transliteration: min
   5:
-    arabic: وَّرَآءِىۡ
+    arabic: وَرَآءِي
     translation: after me
     transliteration: warāī
   6:
@@ -29,11 +29,11 @@ word_by_word:
     translation: and is
     transliteration: wakānati
   7:
-    arabic: امۡرَاَتِىۡ
+    arabic: ٱمۡرَأَتِي
     translation: my wife
     transliteration: im'ra-atī
   8:
-    arabic: عَاقِرًا
+    arabic: عَاقِرٗا
     translation: barren
     transliteration: ʿāqiran
   9:
@@ -41,19 +41,19 @@ word_by_word:
     translation: So give
     transliteration: fahab
   10:
-    arabic: لِىۡ
+    arabic: لِي
     translation: '[to] me'
     transliteration: lī
   11:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   12:
-    arabic: لَّدُنۡكَ
+    arabic: لَّدُنكَ
     translation: Yourself
     transliteration: ladunka
   13:
-    arabic: وَلِيًّا ۙ‏
+    arabic: وَلِيّٗا
     translation: an heir
     transliteration: waliyyan
 ---

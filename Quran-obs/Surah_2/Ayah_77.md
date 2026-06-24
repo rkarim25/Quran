@@ -1,23 +1,22 @@
 ---
-arabic_ayat: "اَوَلَا يَعۡلَمُوۡنَ اَنَّ اللّٰهَ يَعۡلَمُ مَا يُسِرُّوۡنَ وَمَا يُعۡلِنُوۡنَ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: أَوَلَا يَعۡلَمُونَ أَنَّ ٱللَّهَ يَعۡلَمُ مَا يُسِرُّونَ وَمَا يُعۡلِنُونَ
 sentence_translation: Do they not know that Allah is aware of what they conceal and
   what they reveal?
 word_by_word:
   1:
-    arabic: اَوَلَا
+    arabic: أَوَلَا
     translation: Do not
     transliteration: awalā
   2:
-    arabic: يَعۡلَمُوۡنَ
+    arabic: يَعۡلَمُونَ
     translation: they know
     transliteration: yaʿlamūna
   3:
-    arabic: اَنَّ
+    arabic: أَنَّ
     translation: that
     transliteration: anna
   4:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   5:
@@ -29,7 +28,7 @@ word_by_word:
     translation: what
     transliteration: mā
   7:
-    arabic: يُسِرُّوۡنَ
+    arabic: يُسِرُّونَ
     translation: they conceal
     transliteration: yusirrūna
   8:
@@ -37,7 +36,7 @@ word_by_word:
     translation: and what
     transliteration: wamā
   9:
-    arabic: "يُعۡلِنُوۡنَ‏ \uFEFF\uFEFF"
+    arabic: يُعۡلِنُونَ
     translation: they declare
     transliteration: yuʿ'linūna
 ---

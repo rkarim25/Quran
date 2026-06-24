@@ -1,23 +1,23 @@
 ---
-arabic_ayat: "وَلَنۡ يَّنۡفَعَكُمُ الۡيَوۡمَ اِذْ ظَّلَمۡتُمۡ اَنَّكُمۡ فِى الۡعَذَابِ\
-  \ مُشۡتَرِكُوۡنَ‏ \uFEFF\uFEFF"
+arabic_ayat: وَلَن يَنفَعَكُمُ ٱلۡيَوۡمَ إِذ ظَّلَمۡتُمۡ أَنَّكُمۡ فِي ٱلۡعَذَابِ
+  مُشۡتَرِكُونَ
 sentence_translation: ˹It will be said to both,˺ “Since you all did wrong, sharing
   in the punishment will be of no benefit to you this Day.” 
 word_by_word:
   1:
-    arabic: وَلَنۡ
+    arabic: وَلَن
     translation: And never
     transliteration: walan
   2:
-    arabic: يَّنۡفَعَكُمُ
+    arabic: يَنفَعَكُمُ
     translation: will benefit you
     transliteration: yanfaʿakumu
   3:
-    arabic: الۡيَوۡمَ
+    arabic: ٱلۡيَوۡمَ
     translation: the Day
     transliteration: l-yawma
   4:
-    arabic: اِذْ
+    arabic: إِذ
     translation: when
     transliteration: idh
   5:
@@ -25,19 +25,19 @@ word_by_word:
     translation: you have wronged
     transliteration: ẓalamtum
   6:
-    arabic: اَنَّكُمۡ
+    arabic: أَنَّكُمۡ
     translation: that you
     transliteration: annakum
   7:
-    arabic: فِى
+    arabic: فِي
     translation: (will be) in
     transliteration: fī
   8:
-    arabic: الۡعَذَابِ
+    arabic: ٱلۡعَذَابِ
     translation: the punishment
     transliteration: l-ʿadhābi
   9:
-    arabic: "مُشۡتَرِكُوۡنَ‏ \uFEFF\uFEFF"
+    arabic: مُشۡتَرِكُونَ
     translation: sharing
     transliteration: mush'tarikūna
 ---

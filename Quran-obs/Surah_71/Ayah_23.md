@@ -1,11 +1,11 @@
 ---
-arabic_ayat: وَ قَالُوۡا لَا تَذَرُنَّ اٰلِهَتَكُمۡ وَلَا تَذَرُنَّ وَدًّا وَّلَا
-  سُوَاعًا  ۙ وَّ لَا يَغُوۡثَ وَيَعُوۡقَ وَنَسۡرًا​ ۚ‏
+arabic_ayat: وَقَالُواْ لَا تَذَرُنَّ ءَالِهَتَكُمۡ وَلَا تَذَرُنَّ وَدّٗا وَلَا سُوَاعٗا
+  وَلَا يَغُوثَ وَيَعُوقَ وَنَسۡرٗا
 sentence_translation: urging ˹their followers˺, ‘Do not abandon your idols—especially
   Wadd, Suwâ’, Yaghûth, Ya’ûq, and Nasr.’
 word_by_word:
   1:
-    arabic: وَ قَالُوۡا
+    arabic: وَقَالُواْ
     translation: And they said
     transliteration: waqālū
   2:
@@ -13,11 +13,11 @@ word_by_word:
     translation: (Do) not
     transliteration: lā
   3:
-    arabic: تَذَرُنَّ
+    arabic: تَذَرُنَّ ءَ
     translation: leave
     transliteration: tadharunna
   4:
-    arabic: اٰلِهَتَكُمۡ
+    arabic: الِهَتَكُمۡ
     translation: your gods
     transliteration: ālihatakum
   5:
@@ -29,31 +29,31 @@ word_by_word:
     translation: leave
     transliteration: tadharunna
   7:
-    arabic: وَدًّا
+    arabic: وَدّٗا
     translation: Wadd
     transliteration: waddan
   8:
-    arabic: وَّلَا
+    arabic: وَلَا
     translation: and not
     transliteration: walā
   9:
-    arabic: سُوَاعًا  ۙ
+    arabic: سُوَاعٗا
     translation: Suwa
     transliteration: suwāʿan
   10:
-    arabic: وَّ لَا
+    arabic: وَلَا
     translation: and not
     transliteration: walā
   11:
-    arabic: يَغُوۡثَ
+    arabic: يَغُوثَ
     translation: Yaguth
     transliteration: yaghūtha
   12:
-    arabic: وَيَعُوۡقَ
+    arabic: وَيَعُوقَ
     translation: and Yauq
     transliteration: wayaʿūqa
   13:
-    arabic: وَنَسۡرًا​ ۚ‏
+    arabic: وَنَسۡرٗا
     translation: and Nasr
     transliteration: wanasran
 ---

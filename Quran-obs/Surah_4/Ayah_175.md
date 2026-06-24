@@ -1,33 +1,32 @@
 ---
-arabic_ayat: فَاَمَّا الَّذِيۡنَ اٰمَنُوۡا بِاللّٰهِ وَاعۡتَصَمُوۡا بِهٖ فَسَيُدۡخِلُهُمۡ
-  فِىۡ رَحۡمَةٍ مِّنۡهُ وَفَضۡلٍۙ وَّيَهۡدِيۡهِمۡ اِلَيۡهِ صِرَاطًا مُّسۡتَقِيۡمًا
-  ؕ‏
+arabic_ayat: فَأَمَّا ٱلَّذِينَ ءَامَنُواْ بِٱللَّهِ وَٱعۡتَصَمُواْ بِهِۦ فَسَيُدۡخِلُهُمۡ
+  فِي رَحۡمَةٖ مِّنۡهُ وَفَضۡلٖ وَيَهۡدِيهِمۡ إِلَيۡهِ صِرَٰطٗا مُّسۡتَقِيمٗا
 sentence_translation: As for those who believe in Allah and hold fast to Him, He will
   admit them into His mercy and grace and guide them to Himself through the Straight
   Path.
 word_by_word:
   1:
-    arabic: فَاَمَّا
+    arabic: فَأَمَّا
     translation: So as for
     transliteration: fa-ammā
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ ءَ
     translation: those who
     transliteration: alladhīna
   3:
-    arabic: اٰمَنُوۡا
+    arabic: امَنُواْ
     translation: believed
     transliteration: āmanū
   4:
-    arabic: بِاللّٰهِ
+    arabic: بِٱللَّهِ
     translation: in Allah
     transliteration: bil-lahi
   5:
-    arabic: وَاعۡتَصَمُوۡا
+    arabic: وَٱعۡتَصَمُواْ
     translation: and held fast
     transliteration: wa-iʿ'taṣamū
   6:
-    arabic: بِهٖ
+    arabic: بِهِۦ
     translation: to Him
     transliteration: bihi
   7:
@@ -35,11 +34,11 @@ word_by_word:
     translation: then He will admit them
     transliteration: fasayud'khiluhum
   8:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   9:
-    arabic: رَحۡمَةٍ
+    arabic: رَحۡمَةٖ
     translation: Mercy
     transliteration: raḥmatin
   10:
@@ -47,23 +46,23 @@ word_by_word:
     translation: from Himself
     transliteration: min'hu
   11:
-    arabic: وَفَضۡلٍۙ
+    arabic: وَفَضۡلٖ
     translation: and Bounty
     transliteration: wafaḍlin
   12:
-    arabic: وَّيَهۡدِيۡهِمۡ
+    arabic: وَيَهۡدِيهِمۡ
     translation: and will guide them
     transliteration: wayahdīhim
   13:
-    arabic: اِلَيۡهِ
+    arabic: إِلَيۡهِ
     translation: to Himself
     transliteration: ilayhi
   14:
-    arabic: صِرَاطًا
+    arabic: صِرَٰطٗا
     translation: (on) a way
     transliteration: ṣirāṭan
   15:
-    arabic: مُّسۡتَقِيۡمًا ؕ‏
+    arabic: مُّسۡتَقِيمٗا
     translation: straight
     transliteration: mus'taqīman
 ---

@@ -1,27 +1,26 @@
 ---
-arabic_ayat: "وَاِذۡ اٰتَيۡنَا مُوۡسَى الۡكِتٰبَ وَالۡفُرۡقَانَ لَعَلَّكُمۡ تَهۡتَدُوۡنَ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: وَإِذۡ ءَاتَيۡنَا مُوسَى ٱلۡكِتَٰبَ وَٱلۡفُرۡقَانَ لَعَلَّكُمۡ تَهۡتَدُونَ
 sentence_translation: And ˹remember˺ when We gave Moses the Scripture—the standard
   ˹to distinguish between right and wrong˺ that perhaps you would be ˹rightly˺ guided.
 word_by_word:
   1:
-    arabic: وَاِذۡ
+    arabic: وَإِذۡ ءَ
     translation: And when
     transliteration: wa-idh
   2:
-    arabic: اٰتَيۡنَا
+    arabic: اتَيۡنَا
     translation: We gave
     transliteration: ātaynā
   3:
-    arabic: مُوۡسَى
+    arabic: مُوسَى
     translation: Musa
     transliteration: mūsā
   4:
-    arabic: الۡكِتٰبَ
+    arabic: ٱلۡكِتَٰبَ
     translation: the Book
     transliteration: l-kitāba
   5:
-    arabic: وَالۡفُرۡقَانَ
+    arabic: وَٱلۡفُرۡقَانَ
     translation: and the Criterion
     transliteration: wal-fur'qāna
   6:
@@ -29,7 +28,7 @@ word_by_word:
     translation: perhaps you
     transliteration: laʿallakum
   7:
-    arabic: "تَهۡتَدُوۡنَ‏ \uFEFF\uFEFF"
+    arabic: تَهۡتَدُونَ
     translation: (would be) guided
     transliteration: tahtadūna
 ---

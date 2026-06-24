@@ -1,13 +1,13 @@
 ---
-arabic_ayat: وَالتِّيۡنِ وَالزَّيۡتُوۡنِۙ‏
+arabic_ayat: وَٱلتِّينِ وَٱلزَّيۡتُونِ
 sentence_translation: By the fig and the olive ˹of Jerusalem˺,
 word_by_word:
   1:
-    arabic: وَالتِّيۡنِ
+    arabic: وَٱلتِّينِ
     translation: By the fig
     transliteration: wal-tīni
   2:
-    arabic: وَالزَّيۡتُوۡنِۙ‏
+    arabic: وَٱلزَّيۡتُونِ
     translation: and the olive
     transliteration: wal-zaytūni
 ---

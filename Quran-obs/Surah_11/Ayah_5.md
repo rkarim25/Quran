@@ -1,50 +1,50 @@
 ---
-arabic_ayat: اَلَاۤ اِنَّهُمۡ يَثۡنُوۡنَ صُدُوۡرَهُمۡ لِيَسۡتَخۡفُوۡا مِنۡهُ​ؕ اَلَا
-  حِيۡنَ يَسۡتَغۡشُوۡنَ ثِيَابَهُمۡۙ يَعۡلَمُ مَا يُسِرُّوۡنَ وَمَا يُعۡلِنُوۡنَ​ۚ
-  اِنَّهٗ عَلِيۡمٌۢ بِذَاتِ الصُّدُوۡرِ‏
+arabic_ayat: أَلَآ إِنَّهُمۡ يَثۡنُونَ صُدُورَهُمۡ لِيَسۡتَخۡفُواْ مِنۡهُۚ أَلَا
+  حِينَ يَسۡتَغۡشُونَ ثِيَابَهُمۡ يَعۡلَمُ مَا يُسِرُّونَ وَمَا يُعۡلِنُونَۚ إِنَّهُۥ
+  عَلِيمُۢ بِذَاتِ ٱلصُّدُورِ
 sentence_translation: Indeed, they enfold ˹what is in˺ their hearts, ˹trying˺ to hide
   it from Him! But even when they cover themselves with their clothes, He knows what
   they conceal and what they reveal. Surely He knows best what is ˹hidden˺ in the
   heart.
 word_by_word:
   1:
-    arabic: اَلَاۤ
+    arabic: أَلَآ
     translation: No doubt
     transliteration: alā
   2:
-    arabic: اِنَّهُمۡ
+    arabic: إِنَّهُمۡ
     translation: They
     transliteration: innahum
   3:
-    arabic: يَثۡنُوۡنَ
+    arabic: يَثۡنُونَ
     translation: fold up
     transliteration: yathnūna
   4:
-    arabic: صُدُوۡرَهُمۡ
+    arabic: صُدُورَهُمۡ
     translation: their breasts
     transliteration: ṣudūrahum
   5:
-    arabic: لِيَسۡتَخۡفُوۡا
+    arabic: لِيَسۡتَخۡفُواْ
     translation: that they may hide
     transliteration: liyastakhfū
   6:
-    arabic: مِنۡهُ​ؕ
+    arabic: مِنۡهُۚ
     translation: from Him
     transliteration: min'hu
   7:
-    arabic: اَلَا
+    arabic: أَلَا
     translation: Surely
     transliteration: alā
   8:
-    arabic: حِيۡنَ
+    arabic: حِينَ
     translation: when
     transliteration: ḥīna
   9:
-    arabic: يَسۡتَغۡشُوۡنَ
+    arabic: يَسۡتَغۡشُونَ
     translation: they cover (themselves)
     transliteration: yastaghshūna
   10:
-    arabic: ثِيَابَهُمۡۙ
+    arabic: ثِيَابَهُمۡ
     translation: (with) their garments
     transliteration: thiyābahum
   11:
@@ -56,7 +56,7 @@ word_by_word:
     translation: what
     transliteration: mā
   13:
-    arabic: يُسِرُّوۡنَ
+    arabic: يُسِرُّونَ
     translation: they conceal
     transliteration: yusirrūna
   14:
@@ -64,15 +64,15 @@ word_by_word:
     translation: and what
     transliteration: wamā
   15:
-    arabic: يُعۡلِنُوۡنَ​ۚ
+    arabic: يُعۡلِنُونَۚ
     translation: they reveal
     transliteration: yuʿ'linūna
   16:
-    arabic: اِنَّهٗ
+    arabic: إِنَّهُۥ
     translation: Indeed, He
     transliteration: innahu
   17:
-    arabic: عَلِيۡمٌۢ
+    arabic: عَلِيمُۢ
     translation: (is) All-Knower
     transliteration: ʿalīmun
   18:
@@ -80,7 +80,7 @@ word_by_word:
     translation: of what
     transliteration: bidhāti
   19:
-    arabic: الصُّدُوۡرِ‏
+    arabic: ٱلصُّدُورِ
     translation: (is in) the breasts
     transliteration: l-ṣudūri
 ---

@@ -1,6 +1,6 @@
 ---
-arabic_ayat: قَالَ اِنِّىۡ لَيَحۡزُنُنِىۡ اَنۡ تَذۡهَبُوۡا بِهٖ وَاَخَافُ اَنۡ يَّاۡكُلَهُ
-  الذِّئۡبُ وَاَنۡـتُمۡ عَنۡهُ غٰفِلُوۡنَ‏
+arabic_ayat: قَالَ إِنِّي لَيَحۡزُنُنِيٓ أَن تَذۡهَبُواْ بِهِۦ وَأَخَافُ أَن يَأۡكُلَهُ
+  ٱلذِّئۡبُ وَأَنتُمۡ عَنۡهُ غَٰفِلُونَ
 sentence_translation: He responded, “It would truly sadden me if you took him away
   with you, and I fear that a wolf may devour him while you are negligent of him.”
 word_by_word:
@@ -9,43 +9,43 @@ word_by_word:
     translation: He said
     transliteration: qāla
   2:
-    arabic: اِنِّىۡ
+    arabic: إِنِّي
     translation: Indeed, [I]
     transliteration: innī
   3:
-    arabic: لَيَحۡزُنُنِىۡ
+    arabic: لَيَحۡزُنُنِيٓ
     translation: it surely saddens me
     transliteration: layaḥzununī
   4:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that
     transliteration: an
   5:
-    arabic: تَذۡهَبُوۡا
+    arabic: تَذۡهَبُواْ
     translation: you should take him
     transliteration: tadhhabū
   6:
-    arabic: بِهٖ
+    arabic: بِهِۦ
     translation: you should take him
     transliteration: bihi
   7:
-    arabic: وَاَخَافُ
+    arabic: وَأَخَافُ
     translation: and I fear
     transliteration: wa-akhāfu
   8:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that
     transliteration: an
   9:
-    arabic: يَّاۡكُلَهُ
+    arabic: يَأۡكُلَهُ
     translation: would eat him
     transliteration: yakulahu
   10:
-    arabic: الذِّئۡبُ
+    arabic: ٱلذِّئۡبُ
     translation: a wolf
     transliteration: l-dhi'bu
   11:
-    arabic: وَاَنۡـتُمۡ
+    arabic: وَأَنتُمۡ
     translation: while you
     transliteration: wa-antum
   12:
@@ -53,7 +53,7 @@ word_by_word:
     translation: of him
     transliteration: ʿanhu
   13:
-    arabic: غٰفِلُوۡنَ‏
+    arabic: غَٰفِلُونَ
     translation: (are) unaware
     transliteration: ghāfilūna
 ---

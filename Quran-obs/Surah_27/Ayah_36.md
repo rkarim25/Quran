@@ -1,7 +1,6 @@
 ---
-arabic_ayat: "فَلَمَّا جَآءَ سُلَيۡمٰنَ قَالَ اَتُمِدُّوۡنَنِ بِمَالٍ فَمَاۤ اٰتٰٮنِۦَ\
-  \ اللّٰهُ خَيۡرٌ مِّمَّاۤ اٰتٰٮكُمۡ​ۚ بَلۡ اَنۡـتُمۡ بِهَدِيَّتِكُمۡ تَفۡرَحُوۡنَ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: فَلَمَّا جَآءَ سُلَيۡمَٰنَ قَالَ أَتُمِدُّونَنِ بِمَالٖ فَمَآ ءَاتَىٰنِۦَ
+  ٱللَّهُ خَيۡرٞ مِّمَّآ ءَاتَىٰكُمۚ بَلۡ أَنتُم بِهَدِيَّتِكُمۡ تَفۡرَحُونَ
 sentence_translation: When the chief-envoy came to him, Solomon said, “Do you offer
   me wealth? What Allah has granted me is far greater than what He has granted you.
   No! It is you who rejoice in ˹receiving˺ gifts.
@@ -15,7 +14,7 @@ word_by_word:
     translation: came
     transliteration: jāa
   3:
-    arabic: سُلَيۡمٰنَ
+    arabic: سُلَيۡمَٰنَ
     translation: (to) Sulaiman
     transliteration: sulaymāna
   4:
@@ -23,35 +22,35 @@ word_by_word:
     translation: he said
     transliteration: qāla
   5:
-    arabic: اَتُمِدُّوۡنَنِ
+    arabic: أَتُمِدُّونَنِ
     translation: Will you provide me
     transliteration: atumiddūnani
   6:
-    arabic: بِمَالٍ
+    arabic: بِمَالٖ
     translation: with wealth
     transliteration: bimālin
   7:
-    arabic: فَمَاۤ
+    arabic: فَمَآ ءَ
     translation: But what
     transliteration: famā
   8:
-    arabic: اٰتٰٮنِۦَ
+    arabic: اتَىٰنِۦَ
     translation: Allah has given me
     transliteration: ātāniya
   9:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah has given me
     transliteration: l-lahu
   10:
-    arabic: خَيۡرٌ
+    arabic: خَيۡرٞ
     translation: (is) better
     transliteration: khayrun
   11:
-    arabic: مِّمَّاۤ
+    arabic: مِّمَّآ ءَ
     translation: than what
     transliteration: mimmā
   12:
-    arabic: اٰتٰٮكُمۡ​ۚ
+    arabic: اتَىٰكُمۚ
     translation: He has given you
     transliteration: ātākum
   13:
@@ -59,7 +58,7 @@ word_by_word:
     translation: Nay
     transliteration: bal
   14:
-    arabic: اَنۡـتُمۡ
+    arabic: أَنتُم
     translation: you
     transliteration: antum
   15:
@@ -67,7 +66,7 @@ word_by_word:
     translation: in your gift
     transliteration: bihadiyyatikum
   16:
-    arabic: "تَفۡرَحُوۡنَ‏ \uFEFF\uFEFF"
+    arabic: تَفۡرَحُونَ
     translation: rejoice
     transliteration: tafraḥūna
 ---

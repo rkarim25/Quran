@@ -1,6 +1,6 @@
 ---
-arabic_ayat: هُوَ الَّذِىۡ خَلَقَكُمۡ فَمِنۡكُمۡ كَافِرٌ وَّمِنۡكُمۡ مُّؤۡمِنٌ​ؕ وَاللّٰهُ
-  بِمَا تَعۡمَلُوۡنَ بَصِيۡرٌ‏
+arabic_ayat: هُوَ ٱلَّذِي خَلَقَكُمۡ فَمِنكُمۡ كَافِرٞ وَمِنكُم مُّؤۡمِنٞۚ وَٱللَّهُ
+  بِمَا تَعۡمَلُونَ بَصِيرٌ
 sentence_translation: He is the One Who created you, yet some of you are disbelievers
   while some are believers. And Allah is All-Seeing of what you do.
 word_by_word:
@@ -9,7 +9,7 @@ word_by_word:
     translation: He
     transliteration: huwa
   2:
-    arabic: الَّذِىۡ
+    arabic: ٱلَّذِي
     translation: (is) the One Who
     transliteration: alladhī
   3:
@@ -17,23 +17,23 @@ word_by_word:
     translation: created you
     transliteration: khalaqakum
   4:
-    arabic: فَمِنۡكُمۡ
+    arabic: فَمِنكُمۡ
     translation: and among you
     transliteration: faminkum
   5:
-    arabic: كَافِرٌ
+    arabic: كَافِرٞ
     translation: (is) a disbeliever
     transliteration: kāfirun
   6:
-    arabic: وَّمِنۡكُمۡ
+    arabic: وَمِنكُم
     translation: and among you
     transliteration: waminkum
   7:
-    arabic: مُّؤۡمِنٌ​ؕ
+    arabic: مُّؤۡمِنٞۚ
     translation: (is) a believer
     transliteration: mu'minun
   8:
-    arabic: وَاللّٰهُ
+    arabic: وَٱللَّهُ
     translation: And Allah
     transliteration: wal-lahu
   9:
@@ -41,11 +41,11 @@ word_by_word:
     translation: of what
     transliteration: bimā
   10:
-    arabic: تَعۡمَلُوۡنَ
+    arabic: تَعۡمَلُونَ
     translation: you do
     transliteration: taʿmalūna
   11:
-    arabic: بَصِيۡرٌ‏
+    arabic: بَصِيرٌ
     translation: (is) All-Seer
     transliteration: baṣīrun
 ---

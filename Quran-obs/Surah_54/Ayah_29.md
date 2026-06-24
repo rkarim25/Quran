@@ -1,9 +1,9 @@
 ---
-arabic_ayat: فَنَادَوۡا صَاحِبَهُمۡ فَتَعَاطٰى فَعَقَرَ‏
+arabic_ayat: فَنَادَوۡاْ صَاحِبَهُمۡ فَتَعَاطَىٰ فَعَقَرَ
 sentence_translation: But they roused a companion of theirs, so he dared to kill ˹her˺.
 word_by_word:
   1:
-    arabic: فَنَادَوۡا
+    arabic: فَنَادَوۡاْ
     translation: But they called
     transliteration: fanādaw
   2:
@@ -11,11 +11,11 @@ word_by_word:
     translation: their companion
     transliteration: ṣāḥibahum
   3:
-    arabic: فَتَعَاطٰى
+    arabic: فَتَعَاطَىٰ
     translation: and he took
     transliteration: fataʿāṭā
   4:
-    arabic: فَعَقَرَ‏
+    arabic: فَعَقَرَ
     translation: and hamstrung
     transliteration: faʿaqara
 ---

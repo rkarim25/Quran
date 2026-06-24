@@ -1,17 +1,17 @@
 ---
-arabic_ayat: قَالُـوۡۤا اِنَّاۤ اِلٰى رَبِّنَا مُنۡقَلِبُوۡنَ​ۚ‏
+arabic_ayat: قَالُوٓاْ إِنَّآ إِلَىٰ رَبِّنَا مُنقَلِبُونَ
 sentence_translation: They responded, “Surely to our Lord we will ˹all˺ return.
 word_by_word:
   1:
-    arabic: قَالُـوۡۤا
+    arabic: قَالُوٓاْ
     translation: They said
     transliteration: qālū
   2:
-    arabic: اِنَّاۤ
+    arabic: إِنَّآ
     translation: Indeed, we
     transliteration: innā
   3:
-    arabic: اِلٰى
+    arabic: إِلَىٰ
     translation: to
     transliteration: ilā
   4:
@@ -19,7 +19,7 @@ word_by_word:
     translation: our Lord
     transliteration: rabbinā
   5:
-    arabic: مُنۡقَلِبُوۡنَ​ۚ‏
+    arabic: مُنقَلِبُونَ
     translation: (will) return
     transliteration: munqalibūna
 ---

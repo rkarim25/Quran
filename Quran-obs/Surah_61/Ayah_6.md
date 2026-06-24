@@ -1,15 +1,15 @@
 ---
-arabic_ayat: وَاِذۡ قَالَ عِيۡسَى ابۡنُ مَرۡيَمَ يٰبَنِىۡۤ اِسۡرَآءِيۡلَ اِنِّىۡ
-  رَسُوۡلُ اللّٰهِ اِلَيۡكُمۡ مُّصَدِّقًا لِّمَا بَيۡنَ يَدَىَّ مِنَ التَّوۡرٰٮةِ
-  وَمُبَشِّرًۢا بِرَسُوۡلٍ يَّاۡتِىۡ مِنۡۢ بَعۡدِى اسۡمُهٗۤ اَحۡمَدُ​ؕ فَلَمَّا جَآءَهُمۡ
-  بِالۡبَيِّنٰتِ قَالُوۡا هٰذَا سِحۡرٌ مُّبِيۡنٌ‏
+arabic_ayat: وَإِذۡ قَالَ عِيسَى ٱبۡنُ مَرۡيَمَ يَٰبَنِيٓ إِسۡرَٰٓءِيلَ إِنِّي رَسُولُ
+  ٱللَّهِ إِلَيۡكُم مُّصَدِّقٗا لِّمَا بَيۡنَ يَدَيَّ مِنَ ٱلتَّوۡرَىٰةِ وَمُبَشِّرَۢا
+  بِرَسُولٖ يَأۡتِي مِنۢ بَعۡدِي ٱسۡمُهُۥٓ أَحۡمَدُۖ فَلَمَّا جَآءَهُم بِٱلۡبَيِّنَٰتِ
+  قَالُواْ هَٰذَا سِحۡرٞ مُّبِينٞ
 sentence_translation: And ˹remember˺ when Jesus, son of Mary, said, “O children of
   Israel! I am truly Allah’s messenger to you, confirming the Torah which came before
   me, and giving good news of a messenger after me whose name will be Aḥmad.” Yet
   when the Prophet came to them with clear proofs, they said, “This is pure magic.”
 word_by_word:
   1:
-    arabic: وَاِذۡ
+    arabic: وَإِذۡ
     translation: And when
     transliteration: wa-idh
   2:
@@ -17,11 +17,11 @@ word_by_word:
     translation: said
     transliteration: qāla
   3:
-    arabic: عِيۡسَى
+    arabic: عِيسَى
     translation: Isa
     transliteration: ʿīsā
   4:
-    arabic: ابۡنُ
+    arabic: ٱبۡنُ
     translation: son
     transliteration: ub'nu
   5:
@@ -29,31 +29,31 @@ word_by_word:
     translation: (of) Maryam
     transliteration: maryama
   6:
-    arabic: يٰبَنِىۡۤ
+    arabic: يَٰبَنِيٓ
     translation: O Children
     transliteration: yābanī
   7:
-    arabic: اِسۡرَآءِيۡلَ
+    arabic: إِسۡرَٰٓءِيلَ
     translation: (of) Israel
     transliteration: is'rāīla
   8:
-    arabic: اِنِّىۡ
+    arabic: إِنِّي
     translation: Indeed, I am
     transliteration: innī
   9:
-    arabic: رَسُوۡلُ
+    arabic: رَسُولُ
     translation: (the) Messenger
     transliteration: rasūlu
   10:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (of) Allah
     transliteration: l-lahi
   11:
-    arabic: اِلَيۡكُمۡ
+    arabic: إِلَيۡكُم
     translation: to you
     transliteration: ilaykum
   12:
-    arabic: مُّصَدِّقًا
+    arabic: مُّصَدِّقٗا
     translation: confirming
     transliteration: muṣaddiqan
   13:
@@ -65,7 +65,7 @@ word_by_word:
     translation: (was) between
     transliteration: bayna
   15:
-    arabic: يَدَىَّ
+    arabic: يَدَيَّ
     translation: my hands
     transliteration: yadayya
   16:
@@ -73,35 +73,35 @@ word_by_word:
     translation: of
     transliteration: mina
   17:
-    arabic: التَّوۡرٰٮةِ
+    arabic: ٱلتَّوۡرَىٰةِ
     translation: the Taurat
     transliteration: l-tawrāti
   18:
-    arabic: وَمُبَشِّرًۢا
+    arabic: وَمُبَشِّرَۢا
     translation: and bringing glad tidings
     transliteration: wamubashiran
   19:
-    arabic: بِرَسُوۡلٍ
+    arabic: بِرَسُولٖ
     translation: (of) a Messenger
     transliteration: birasūlin
   20:
-    arabic: يَّاۡتِىۡ
+    arabic: يَأۡتِي
     translation: to come
     transliteration: yatī
   21:
-    arabic: مِنۡۢ
+    arabic: مِنۢ
     translation: from
     transliteration: min
   22:
-    arabic: بَعۡدِى
+    arabic: بَعۡدِي
     translation: after me
     transliteration: baʿdī
   23:
-    arabic: اسۡمُهٗۤ
+    arabic: ٱسۡمُهُۥٓ
     translation: whose name (will be)
     transliteration: us'muhu
   24:
-    arabic: اَحۡمَدُ​ؕ
+    arabic: أَحۡمَدُۖ
     translation: Ahmad
     transliteration: aḥmadu
   25:
@@ -109,27 +109,27 @@ word_by_word:
     translation: But when
     transliteration: falammā
   26:
-    arabic: جَآءَهُمۡ
+    arabic: جَآءَهُم
     translation: he came to them
     transliteration: jāahum
   27:
-    arabic: بِالۡبَيِّنٰتِ
+    arabic: بِٱلۡبَيِّنَٰتِ
     translation: with clear proofs
     transliteration: bil-bayināti
   28:
-    arabic: قَالُوۡا
+    arabic: قَالُواْ
     translation: they said
     transliteration: qālū
   29:
-    arabic: هٰذَا
+    arabic: هَٰذَا
     translation: This
     transliteration: hādhā
   30:
-    arabic: سِحۡرٌ
+    arabic: سِحۡرٞ
     translation: (is) a magic
     transliteration: siḥ'run
   31:
-    arabic: مُّبِيۡنٌ‏
+    arabic: مُّبِينٞ
     translation: clear
     transliteration: mubīnun
 ---

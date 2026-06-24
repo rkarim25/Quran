@@ -1,34 +1,34 @@
 ---
-arabic_ayat: لِيُنۡفِقۡ ذُوۡ سَعَةٍ مِّنۡ سَعَتِهٖ​ؕ وَمَنۡ قُدِرَ عَلَيۡهِ رِزۡقُهٗ
-  فَلۡيُنۡفِقۡ مِمَّاۤ اٰتٰٮهُ اللّٰهُ​ؕ لَا يُكَلِّفُ اللّٰهُ نَفۡسًا اِلَّا مَاۤ
-  اٰتٰٮهَا​ؕ سَيَجۡعَلُ اللّٰهُ بَعۡدَ عُسۡرٍ يُّسۡرًا‏
+arabic_ayat: لِيُنفِقۡ ذُو سَعَةٖ مِّن سَعَتِهِۦۖ وَمَن قُدِرَ عَلَيۡهِ رِزۡقُهُۥ
+  فَلۡيُنفِقۡ مِمَّآ ءَاتَىٰهُ ٱللَّهُۚ لَا يُكَلِّفُ ٱللَّهُ نَفۡسًا إِلَّا مَآ
+  ءَاتَىٰهَاۚ سَيَجۡعَلُ ٱللَّهُ بَعۡدَ عُسۡرٖ يُسۡرٗا
 sentence_translation: Let the man of wealth provide according to his means. As for
   the one with limited resources, let him provide according to whatever Allah has
   given him. Allah does not require of any soul beyond what He has given it. After
   hardship, Allah will bring about ease.
 word_by_word:
   1:
-    arabic: لِيُنۡفِقۡ
+    arabic: لِيُنفِقۡ
     translation: Let spend
     transliteration: liyunfiq
   2:
-    arabic: ذُوۡ
+    arabic: ذُو
     translation: owner
     transliteration: dhū
   3:
-    arabic: سَعَةٍ
+    arabic: سَعَةٖ
     translation: (of) ample means
     transliteration: saʿatin
   4:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: from
     transliteration: min
   5:
-    arabic: سَعَتِهٖ​ؕ
+    arabic: سَعَتِهِۦۖ
     translation: his ample means
     transliteration: saʿatihi
   6:
-    arabic: وَمَنۡ
+    arabic: وَمَن
     translation: and (he) who
     transliteration: waman
   7:
@@ -40,23 +40,23 @@ word_by_word:
     translation: on him
     transliteration: ʿalayhi
   9:
-    arabic: رِزۡقُهٗ
+    arabic: رِزۡقُهُۥ
     translation: his provision
     transliteration: riz'quhu
   10:
-    arabic: فَلۡيُنۡفِقۡ
+    arabic: فَلۡيُنفِقۡ
     translation: let him spend
     transliteration: falyunfiq
   11:
-    arabic: مِمَّاۤ
+    arabic: مِمَّآ ءَ
     translation: from what
     transliteration: mimmā
   12:
-    arabic: اٰتٰٮهُ
+    arabic: اتَىٰهُ
     translation: he has been given
     transliteration: ātāhu
   13:
-    arabic: اللّٰهُ​ؕ
+    arabic: ٱللَّهُۚ
     translation: (by) Allah
     transliteration: l-lahu
   14:
@@ -68,7 +68,7 @@ word_by_word:
     translation: burden
     transliteration: yukallifu
   16:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   17:
@@ -76,15 +76,15 @@ word_by_word:
     translation: any soul
     transliteration: nafsan
   18:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   19:
-    arabic: مَاۤ
+    arabic: مَآ ءَ
     translation: (with) what
     transliteration: mā
   20:
-    arabic: اٰتٰٮهَا​ؕ
+    arabic: اتَىٰهَاۚ
     translation: He has given it
     transliteration: ātāhā
   21:
@@ -92,7 +92,7 @@ word_by_word:
     translation: Will bring about
     transliteration: sayajʿalu
   22:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   23:
@@ -100,11 +100,11 @@ word_by_word:
     translation: after
     transliteration: baʿda
   24:
-    arabic: عُسۡرٍ
+    arabic: عُسۡرٖ
     translation: hardship
     transliteration: ʿus'rin
   25:
-    arabic: يُّسۡرًا‏
+    arabic: يُسۡرٗا
     translation: ease
     transliteration: yus'ran
 ---

@@ -1,10 +1,10 @@
 ---
-arabic_ayat: وَقَطَّعۡنٰهُمُ اثۡنَتَىۡ عَشۡرَةَ اَسۡبَاطًا اُمَمًا​ ؕ وَاَوۡحَيۡنَاۤ
-  اِلٰى مُوۡسٰٓى اِذِ اسۡتَسۡقٰٮهُ قَوۡمُهٗۤ اَنِ اضۡرِبْ بِّعَصَاكَ الۡحَجَرَ​ ۚ
-  فَاْنۢبَجَسَتۡ مِنۡهُ اثۡنَتَا عَشۡرَةَ عَيۡنًا​ ؕ قَدۡ عَلِمَ كُلُّ اُنَاسٍ مَّشۡرَبَهُمۡ​ؕ
-  وَظَلَّلۡنَا عَلَيۡهِمُ الۡغَمَامَ وَاَنۡزَلۡنَا عَلَيۡهِمُ الۡمَنَّ وَالسَّلۡوٰىؕ
-  كُلُوۡا مِنۡ طَيِّبٰتِ مَا رَزَقۡنٰكُمۡ​ؕ وَ مَا ظَلَمُوۡنَا وَلٰـكِنۡ كَانُوۡۤا
-  اَنۡفُسَهُمۡ يَظۡلِمُوۡنَ‏
+arabic_ayat: وَقَطَّعۡنَٰهُمُ ٱثۡنَتَيۡ عَشۡرَةَ أَسۡبَاطًا أُمَمٗاۚ وَأَوۡحَيۡنَآ
+  إِلَىٰ مُوسَىٰٓ إِذِ ٱسۡتَسۡقَىٰهُ قَوۡمُهُۥٓ أَنِ ٱضۡرِب بِّعَصَاكَ ٱلۡحَجَرَۖ
+  فَٱنۢبَجَسَتۡ مِنۡهُ ٱثۡنَتَا عَشۡرَةَ عَيۡنٗاۖ قَدۡ عَلِمَ كُلُّ أُنَاسٖ مَّشۡرَبَهُمۡۚ
+  وَظَلَّلۡنَا عَلَيۡهِمُ ٱلۡغَمَٰمَ وَأَنزَلۡنَا عَلَيۡهِمُ ٱلۡمَنَّ وَٱلسَّلۡوَىٰۖ
+  كُلُواْ مِن طَيِّبَٰتِ مَا رَزَقۡنَٰكُمۡۚ وَمَا ظَلَمُونَا وَلَٰكِن كَانُوٓاْ أَنفُسَهُمۡ
+  يَظۡلِمُونَ
 sentence_translation: We divided them into twelve tribes—each as a community. And
   We revealed to Moses, when his people asked for water, “Strike the rock with your
   staff.” Then twelve springs gushed out. Each tribe knew its drinking place. We shaded
@@ -13,11 +13,11 @@ sentence_translation: We divided them into twelve tribes—each as a community. 
   themselves.
 word_by_word:
   1:
-    arabic: وَقَطَّعۡنٰهُمُ
+    arabic: وَقَطَّعۡنَٰهُمُ
     translation: And We divided them
     transliteration: waqaṭṭaʿnāhumu
   2:
-    arabic: اثۡنَتَىۡ
+    arabic: ٱثۡنَتَيۡ
     translation: (into) two
     transliteration: ith'natay
   3:
@@ -25,43 +25,43 @@ word_by_word:
     translation: (and) ten [i.e. twelve]
     transliteration: ʿashrata
   4:
-    arabic: اَسۡبَاطًا
+    arabic: أَسۡبَاطًا
     translation: tribes
     transliteration: asbāṭan
   5:
-    arabic: اُمَمًا​ ؕ
+    arabic: أُمَمٗاۚ
     translation: (as) communities
     transliteration: umaman
   6:
-    arabic: وَاَوۡحَيۡنَاۤ
+    arabic: وَأَوۡحَيۡنَآ
     translation: And We inspired
     transliteration: wa-awḥaynā
   7:
-    arabic: اِلٰى
+    arabic: إِلَىٰ
     translation: to
     transliteration: ilā
   8:
-    arabic: مُوۡسٰٓى
+    arabic: مُوسَىٰٓ
     translation: Musa
     transliteration: mūsā
   9:
-    arabic: اِذِ
+    arabic: إِذِ
     translation: when
     transliteration: idhi
   10:
-    arabic: اسۡتَسۡقٰٮهُ
+    arabic: ٱسۡتَسۡقَىٰهُ
     translation: asked him for water
     transliteration: is'tasqāhu
   11:
-    arabic: قَوۡمُهٗۤ
+    arabic: قَوۡمُهُۥٓ
     translation: his people
     transliteration: qawmuhu
   12:
-    arabic: اَنِ
+    arabic: أَنِ
     translation: '[that]'
     transliteration: ani
   13:
-    arabic: اضۡرِبْ
+    arabic: ٱضۡرِب
     translation: Strike
     transliteration: iḍ'rib
   14:
@@ -69,11 +69,11 @@ word_by_word:
     translation: with your staff
     transliteration: biʿaṣāka
   15:
-    arabic: الۡحَجَرَ​ ۚ
+    arabic: ٱلۡحَجَرَۖ
     translation: the stone
     transliteration: l-ḥajara
   16:
-    arabic: فَاْنۢبَجَسَتۡ
+    arabic: فَٱنۢبَجَسَتۡ
     translation: Then gushed forth
     transliteration: fa-inbajasat
   17:
@@ -81,7 +81,7 @@ word_by_word:
     translation: from it
     transliteration: min'hu
   18:
-    arabic: اثۡنَتَا
+    arabic: ٱثۡنَتَا
     translation: two
     transliteration: ith'natā
   19:
@@ -89,7 +89,7 @@ word_by_word:
     translation: (and) ten [i.e. twelve]
     transliteration: ʿashrata
   20:
-    arabic: عَيۡنًا​ ؕ
+    arabic: عَيۡنٗاۖ
     translation: springs
     transliteration: ʿaynan
   21:
@@ -105,11 +105,11 @@ word_by_word:
     translation: each
     transliteration: kullu
   24:
-    arabic: اُنَاسٍ
+    arabic: أُنَاسٖ
     translation: people
     transliteration: unāsin
   25:
-    arabic: مَّشۡرَبَهُمۡ​ؕ
+    arabic: مَّشۡرَبَهُمۡۚ
     translation: their drinking place
     transliteration: mashrabahum
   26:
@@ -121,11 +121,11 @@ word_by_word:
     translation: '[on] them'
     transliteration: ʿalayhimu
   28:
-    arabic: الۡغَمَامَ
+    arabic: ٱلۡغَمَٰمَ
     translation: (with) the clouds
     transliteration: l-ghamāma
   29:
-    arabic: وَاَنۡزَلۡنَا
+    arabic: وَأَنزَلۡنَا
     translation: and We sent down
     transliteration: wa-anzalnā
   30:
@@ -133,23 +133,23 @@ word_by_word:
     translation: upon them
     transliteration: ʿalayhimu
   31:
-    arabic: الۡمَنَّ
+    arabic: ٱلۡمَنَّ
     translation: the manna
     transliteration: l-mana
   32:
-    arabic: وَالسَّلۡوٰىؕ
+    arabic: وَٱلسَّلۡوَىٰۖ
     translation: and the quails
     transliteration: wal-salwā
   33:
-    arabic: كُلُوۡا
+    arabic: كُلُواْ
     translation: Eat
     transliteration: kulū
   34:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   35:
-    arabic: طَيِّبٰتِ
+    arabic: طَيِّبَٰتِ
     translation: (the) good things
     transliteration: ṭayyibāti
   36:
@@ -157,31 +157,31 @@ word_by_word:
     translation: which
     transliteration: mā
   37:
-    arabic: رَزَقۡنٰكُمۡ​ؕ
+    arabic: رَزَقۡنَٰكُمۡۚ
     translation: We have provided you
     transliteration: razaqnākum
   38:
-    arabic: وَ مَا
+    arabic: وَمَا
     translation: And not
     transliteration: wamā
   39:
-    arabic: ظَلَمُوۡنَا
+    arabic: ظَلَمُونَا
     translation: they wronged Us
     transliteration: ẓalamūnā
   40:
-    arabic: وَلٰـكِنۡ
+    arabic: وَلَٰكِن
     translation: but
     transliteration: walākin
   41:
-    arabic: كَانُوۡۤا
+    arabic: كَانُوٓاْ
     translation: they were
     transliteration: kānū
   42:
-    arabic: اَنۡفُسَهُمۡ
+    arabic: أَنفُسَهُمۡ
     translation: (to) themselves
     transliteration: anfusahum
   43:
-    arabic: يَظۡلِمُوۡنَ‏
+    arabic: يَظۡلِمُونَ
     translation: doing wrong
     transliteration: yaẓlimūna
 ---

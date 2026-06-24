@@ -1,19 +1,19 @@
 ---
-arabic_ayat: فَاِنۡ كَذَّبُوۡكَ فَقُلْ رَّبُّكُمۡ ذُوۡ رَحۡمَةٍ وَّاسِعَةٍ​ ۚ وَلَا
-  يُرَدُّ بَاۡسُهٗ عَنِ الۡقَوۡمِ الۡمُجۡرِمِيۡنَ‏
+arabic_ayat: فَإِن كَذَّبُوكَ فَقُل رَّبُّكُمۡ ذُو رَحۡمَةٖ وَٰسِعَةٖ وَلَا يُرَدُّ
+  بَأۡسُهُۥ عَنِ ٱلۡقَوۡمِ ٱلۡمُجۡرِمِينَ
 sentence_translation: But if they deny you ˹O Prophet˺, say, “Your Lord is infinite
   in mercy, yet His punishment will not be averted from the wicked people.”
 word_by_word:
   1:
-    arabic: فَاِنۡ
+    arabic: فَإِن
     translation: But if
     transliteration: fa-in
   2:
-    arabic: كَذَّبُوۡكَ
+    arabic: كَذَّبُوكَ
     translation: they deny you
     transliteration: kadhabūka
   3:
-    arabic: فَقُلْ
+    arabic: فَقُل
     translation: then say
     transliteration: faqul
   4:
@@ -21,15 +21,15 @@ word_by_word:
     translation: Your Lord
     transliteration: rabbukum
   5:
-    arabic: ذُوۡ
+    arabic: ذُو
     translation: (is the) Possessor
     transliteration: dhū
   6:
-    arabic: رَحۡمَةٍ
+    arabic: رَحۡمَةٖ
     translation: (of) Mercy
     transliteration: raḥmatin
   7:
-    arabic: وَّاسِعَةٍ​ ۚ
+    arabic: وَٰسِعَةٖ
     translation: Vast
     transliteration: wāsiʿatin
   8:
@@ -41,7 +41,7 @@ word_by_word:
     translation: will be turned back
     transliteration: yuraddu
   10:
-    arabic: بَاۡسُهٗ
+    arabic: بَأۡسُهُۥ
     translation: His wrath
     transliteration: basuhu
   11:
@@ -49,11 +49,11 @@ word_by_word:
     translation: from
     transliteration: ʿani
   12:
-    arabic: الۡقَوۡمِ
+    arabic: ٱلۡقَوۡمِ
     translation: the people
     transliteration: l-qawmi
   13:
-    arabic: الۡمُجۡرِمِيۡنَ‏
+    arabic: ٱلۡمُجۡرِمِينَ
     translation: (who are) criminals
     transliteration: l-muj'rimīna
 ---

@@ -1,6 +1,6 @@
 ---
-arabic_ayat: قَالَ بَلْ رَّبُّكُمۡ رَبُّ السَّمٰوٰتِ وَالۡاَرۡضِ الَّذِىۡ فَطَرَهُنَّ
-  ​ۖ  وَاَنَا عَلٰى ذٰلِكُمۡ مِّنَ الشّٰهِدِيۡنَ‏
+arabic_ayat: قَالَ بَل رَّبُّكُمۡ رَبُّ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِ ٱلَّذِي فَطَرَهُنَّ
+  وَأَنَا۠ عَلَىٰ ذَٰلِكُم مِّنَ ٱلشَّٰهِدِينَ
 sentence_translation: He replied, “In fact, your Lord is the Lord of the heavens and
   the earth, Who created them ˹both˺. And to that I bear witness.”
 word_by_word:
@@ -9,7 +9,7 @@ word_by_word:
     translation: He said
     transliteration: qāla
   2:
-    arabic: بَلْ
+    arabic: بَل
     translation: Nay
     transliteration: bal
   3:
@@ -21,31 +21,31 @@ word_by_word:
     translation: (is the) Lord
     transliteration: rabbu
   5:
-    arabic: السَّمٰوٰتِ
+    arabic: ٱلسَّمَٰوَٰتِ
     translation: (of) the heavens
     transliteration: l-samāwāti
   6:
-    arabic: وَالۡاَرۡضِ
+    arabic: وَٱلۡأَرۡضِ
     translation: and the earth
     transliteration: wal-arḍi
   7:
-    arabic: الَّذِىۡ
+    arabic: ٱلَّذِي
     translation: the One Who
     transliteration: alladhī
   8:
-    arabic: فَطَرَهُنَّ ​ۖ 
+    arabic: فَطَرَهُنَّ
     translation: created them
     transliteration: faṭarahunna
   9:
-    arabic: وَاَنَا
+    arabic: وَأَنَا۠
     translation: and I am
     transliteration: wa-anā
   10:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: to
     transliteration: ʿalā
   11:
-    arabic: ذٰلِكُمۡ
+    arabic: ذَٰلِكُم
     translation: that
     transliteration: dhālikum
   12:
@@ -53,7 +53,7 @@ word_by_word:
     translation: of
     transliteration: mina
   13:
-    arabic: الشّٰهِدِيۡنَ‏
+    arabic: ٱلشَّٰهِدِينَ
     translation: the witnesses
     transliteration: l-shāhidīna
 ---

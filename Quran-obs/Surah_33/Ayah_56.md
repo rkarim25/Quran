@@ -1,24 +1,24 @@
 ---
-arabic_ayat: اِنَّ اللّٰهَ وَمَلٰٓٮِٕكَتَهٗ يُصَلُّوۡنَ عَلَى النَّبِىِّ ؕ يٰۤـاَيُّهَا
-  الَّذِيۡنَ اٰمَنُوۡا صَلُّوۡا عَلَيۡهِ وَسَلِّمُوۡا تَسۡلِيۡمًا‏
+arabic_ayat: إِنَّ ٱللَّهَ وَمَلَٰٓئِكَتَهُۥ يُصَلُّونَ عَلَى ٱلنَّبِيِّۚ يَٰٓأَيُّهَا
+  ٱلَّذِينَ ءَامَنُواْ صَلُّواْ عَلَيۡهِ وَسَلِّمُواْ تَسۡلِيمًا
 sentence_translation: Indeed, Allah showers His blessings upon the Prophet, and His
   angels pray for him. O  believers! Invoke Allah’s blessings upon him, and salute
   him with worthy greetings of peace.
 word_by_word:
   1:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   2:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   3:
-    arabic: وَمَلٰٓٮِٕكَتَهٗ
+    arabic: وَمَلَٰٓئِكَتَهُۥ
     translation: and His Angels
     transliteration: wamalāikatahu
   4:
-    arabic: يُصَلُّوۡنَ
+    arabic: يُصَلُّونَ
     translation: send blessings
     transliteration: yuṣallūna
   5:
@@ -26,23 +26,23 @@ word_by_word:
     translation: upon
     transliteration: ʿalā
   6:
-    arabic: النَّبِىِّ ؕ
+    arabic: ٱلنَّبِيِّۚ
     translation: the Prophet
     transliteration: l-nabiyi
   7:
-    arabic: يٰۤـاَيُّهَا
+    arabic: يَٰٓأَيُّهَا
     translation: O you who believe
     transliteration: yāayyuhā
   8:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ ءَ
     translation: O you who believe
     transliteration: alladhīna
   9:
-    arabic: اٰمَنُوۡا
+    arabic: امَنُواْ
     translation: O you who believe
     transliteration: āmanū
   10:
-    arabic: صَلُّوۡا
+    arabic: صَلُّواْ
     translation: Send blessings
     transliteration: ṣallū
   11:
@@ -50,11 +50,11 @@ word_by_word:
     translation: on him
     transliteration: ʿalayhi
   12:
-    arabic: وَسَلِّمُوۡا
+    arabic: وَسَلِّمُواْ
     translation: and greet him
     transliteration: wasallimū
   13:
-    arabic: تَسۡلِيۡمًا‏
+    arabic: تَسۡلِيمًا
     translation: (with) greetings
     transliteration: taslīman
 ---

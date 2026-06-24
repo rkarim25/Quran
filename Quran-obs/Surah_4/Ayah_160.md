@@ -1,11 +1,11 @@
 ---
-arabic_ayat: فَبِظُلۡمٍ مِّنَ الَّذِيۡنَ هَادُوۡا حَرَّمۡنَا عَلَيۡهِمۡ طَيِّبٰتٍ
-  اُحِلَّتۡ لَهُمۡ وَبِصَدِّهِمۡ عَنۡ سَبِيۡلِ اللّٰهِ كَثِيۡرًا ۙ‏
+arabic_ayat: فَبِظُلۡمٖ مِّنَ ٱلَّذِينَ هَادُواْ حَرَّمۡنَا عَلَيۡهِمۡ طَيِّبَٰتٍ
+  أُحِلَّتۡ لَهُمۡ وَبِصَدِّهِمۡ عَن سَبِيلِ ٱللَّهِ كَثِيرٗا
 sentence_translation: We forbade the Jews certain foods that had been lawful to them
   for their wrongdoing, and for hindering many from the Way of Allah,
 word_by_word:
   1:
-    arabic: فَبِظُلۡمٍ
+    arabic: فَبِظُلۡمٖ
     translation: Then for (the) wrongdoing
     transliteration: fabiẓul'min
   2:
@@ -13,11 +13,11 @@ word_by_word:
     translation: of
     transliteration: mina
   3:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   4:
-    arabic: هَادُوۡا
+    arabic: هَادُواْ
     translation: were Jews
     transliteration: hādū
   5:
@@ -29,11 +29,11 @@ word_by_word:
     translation: for them
     transliteration: ʿalayhim
   7:
-    arabic: طَيِّبٰتٍ
+    arabic: طَيِّبَٰتٍ
     translation: good things
     transliteration: ṭayyibātin
   8:
-    arabic: اُحِلَّتۡ
+    arabic: أُحِلَّتۡ
     translation: which had been lawful
     transliteration: uḥillat
   9:
@@ -45,19 +45,19 @@ word_by_word:
     translation: and for their hindering
     transliteration: wabiṣaddihim
   11:
-    arabic: عَنۡ
+    arabic: عَن
     translation: from
     transliteration: ʿan
   12:
-    arabic: سَبِيۡلِ
+    arabic: سَبِيلِ
     translation: (the) way
     transliteration: sabīli
   13:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: '(of) Allah '
     transliteration: l-lahi
   14:
-    arabic: كَثِيۡرًا ۙ‏
+    arabic: كَثِيرٗا
     translation: many
     transliteration: kathīran
 ---

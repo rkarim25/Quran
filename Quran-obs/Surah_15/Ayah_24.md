@@ -1,11 +1,10 @@
 ---
-arabic_ayat: "وَلَـقَدۡ عَلِمۡنَا الۡمُسۡتَقۡدِمِيۡنَ مِنۡكُمۡ وَلَـقَدۡ عَلِمۡنَا\
-  \ الۡمُسۡتَـاْخِرِيۡنَ‏ \uFEFF\uFEFF"
+arabic_ayat: وَلَقَدۡ عَلِمۡنَا ٱلۡمُسۡتَقۡدِمِينَ مِنكُمۡ وَلَقَدۡ عَلِمۡنَا ٱلۡمُسۡتَـٔۡخِرِينَ
 sentence_translation: We certainly know those who have gone before you and those who
   will come after ˹you˺.
 word_by_word:
   1:
-    arabic: وَلَـقَدۡ
+    arabic: وَلَقَدۡ
     translation: And verily
     transliteration: walaqad
   2:
@@ -13,15 +12,15 @@ word_by_word:
     translation: We know
     transliteration: ʿalim'nā
   3:
-    arabic: الۡمُسۡتَقۡدِمِيۡنَ
+    arabic: ٱلۡمُسۡتَقۡدِمِينَ
     translation: the preceding ones
     transliteration: l-mus'taqdimīna
   4:
-    arabic: مِنۡكُمۡ
+    arabic: مِنكُمۡ
     translation: among you
     transliteration: minkum
   5:
-    arabic: وَلَـقَدۡ
+    arabic: وَلَقَدۡ
     translation: and verily
     transliteration: walaqad
   6:
@@ -29,7 +28,7 @@ word_by_word:
     translation: We know
     transliteration: ʿalim'nā
   7:
-    arabic: "الۡمُسۡتَـاْخِرِيۡنَ‏ \uFEFF\uFEFF"
+    arabic: ٱلۡمُسۡتَـٔۡخِرِينَ
     translation: the later ones
     transliteration: l-mus'takhirīna
 ---

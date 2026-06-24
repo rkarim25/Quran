@@ -1,9 +1,9 @@
 ---
-arabic_ayat: يَّصۡلَوۡنَهَا يَوۡمَ الدِّيۡنِ‏
+arabic_ayat: يَصۡلَوۡنَهَا يَوۡمَ ٱلدِّينِ
 sentence_translation: burning in it on Judgment Day,
 word_by_word:
   1:
-    arabic: يَّصۡلَوۡنَهَا
+    arabic: يَصۡلَوۡنَهَا
     translation: They will burn (in) it
     transliteration: yaṣlawnahā
   2:
@@ -11,7 +11,7 @@ word_by_word:
     translation: (on the) Day
     transliteration: yawma
   3:
-    arabic: الدِّيۡنِ‏
+    arabic: ٱلدِّينِ
     translation: (of) the Judgment
     transliteration: l-dīni
 ---

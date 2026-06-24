@@ -1,24 +1,24 @@
 ---
-arabic_ayat: اِنَّ الَّذِيۡنَ اتَّخَذُوا الۡعِجۡلَ سَيَنَالُهُمۡ غَضَبٌ مِّنۡ رَّبِّهِمۡ
-  وَذِلَّـةٌ فِى الۡحَيٰوةِ الدُّنۡيَا​ ؕ وَكَذٰلِكَ نَجۡزِىۡ الۡمُفۡتَرِيۡنَ‏
+arabic_ayat: إِنَّ ٱلَّذِينَ ٱتَّخَذُواْ ٱلۡعِجۡلَ سَيَنَالُهُمۡ غَضَبٞ مِّن رَّبِّهِمۡ
+  وَذِلَّةٞ فِي ٱلۡحَيَوٰةِ ٱلدُّنۡيَاۚ وَكَذَٰلِكَ نَجۡزِي ٱلۡمُفۡتَرِينَ
 sentence_translation: Those who worshipped the calf will certainly be afflicted with
   Allah’s wrath as well as disgrace in the life of this world. This is how We reward
   those who invent falsehood.
 word_by_word:
   1:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   3:
-    arabic: اتَّخَذُوا
+    arabic: ٱتَّخَذُواْ
     translation: took
     transliteration: ittakhadhū
   4:
-    arabic: الۡعِجۡلَ
+    arabic: ٱلۡعِجۡلَ
     translation: the calf
     transliteration: l-ʿij'la
   5:
@@ -26,11 +26,11 @@ word_by_word:
     translation: will reach them
     transliteration: sayanāluhum
   6:
-    arabic: غَضَبٌ
+    arabic: غَضَبٞ
     translation: wrath
     transliteration: ghaḍabun
   7:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: from
     transliteration: min
   8:
@@ -38,31 +38,31 @@ word_by_word:
     translation: their Lord
     transliteration: rabbihim
   9:
-    arabic: وَذِلَّـةٌ
+    arabic: وَذِلَّةٞ
     translation: and humiliation
     transliteration: wadhillatun
   10:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   11:
-    arabic: الۡحَيٰوةِ
+    arabic: ٱلۡحَيَوٰةِ
     translation: the life
     transliteration: l-ḥayati
   12:
-    arabic: الدُّنۡيَا​ ؕ
+    arabic: ٱلدُّنۡيَاۚ
     translation: (of) the world
     transliteration: l-dun'yā
   13:
-    arabic: وَكَذٰلِكَ
+    arabic: وَكَذَٰلِكَ
     translation: And thus
     transliteration: wakadhālika
   14:
-    arabic: نَجۡزِىۡ
+    arabic: نَجۡزِي
     translation: We recompense
     transliteration: najzī
   15:
-    arabic: الۡمُفۡتَرِيۡنَ‏
+    arabic: ٱلۡمُفۡتَرِينَ
     translation: the ones who invent (falsehood)
     transliteration: l-muf'tarīna
 ---

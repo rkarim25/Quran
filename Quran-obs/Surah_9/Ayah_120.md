@@ -1,10 +1,10 @@
 ---
-arabic_ayat: مَا كَانَ لِاَهۡلِ الۡمَدِيۡنَةِ وَمَنۡ حَوۡلَهُمۡ مِّنَ الۡاَعۡرَابِ
-  اَنۡ يَّتَخَلَّفُوۡا عَنۡ رَّسُوۡلِ اللّٰهِ وَ لَا يَرۡغَبُوۡا بِاَنۡفُسِهِمۡ عَنۡ
-  نَّـفۡسِهٖ ​ؕ ذٰ لِكَ بِاَنَّهُمۡ لَا يُصِيۡبُهُمۡ ظَمَاٌ وَّلَا نَصَبٌ وَّلَا مَخۡمَصَةٌ
-  فِىۡ سَبِيۡلِ اللّٰهِ وَلَا يَطَـُٔــوۡنَ مَوۡطِئًا يَّغِيۡظُ الۡكُفَّارَ وَلَا
-  يَنَالُوۡنَ مِنۡ عَدُوٍّ نَّيۡلاً اِلَّا كُتِبَ لَهُمۡ بِهٖ عَمَلٌ صَالِحٌ​ ؕ اِنَّ
-  اللّٰهَ لَا يُضِيۡعُ اَجۡرَ الۡمُحۡسِنِيۡنَۙ‏
+arabic_ayat: مَا كَانَ لِأَهۡلِ ٱلۡمَدِينَةِ وَمَنۡ حَوۡلَهُم مِّنَ ٱلۡأَعۡرَابِ أَن
+  يَتَخَلَّفُواْ عَن رَّسُولِ ٱللَّهِ وَلَا يَرۡغَبُواْ بِأَنفُسِهِمۡ عَن نَّفۡسِهِۦۚ
+  ذَٰلِكَ بِأَنَّهُمۡ لَا يُصِيبُهُمۡ ظَمَأٞ وَلَا نَصَبٞ وَلَا مَخۡمَصَةٞ فِي سَبِيلِ
+  ٱللَّهِ وَلَا يَطَـُٔونَ مَوۡطِئٗا يَغِيظُ ٱلۡكُفَّارَ وَلَا يَنَالُونَ مِنۡ عَدُوّٖ
+  نَّيۡلًا إِلَّا كُتِبَ لَهُم بِهِۦ عَمَلٞ صَٰلِحٌۚ إِنَّ ٱللَّهَ لَا يُضِيعُ أَجۡرَ
+  ٱلۡمُحۡسِنِينَ
 sentence_translation: It was not ˹proper˺ for the people of Medina and the nomadic
   Arabs around them to avoid marching with the Messenger of Allah or to prefer their
   own lives above his. That is because whenever they suffer from thirst, fatigue,
@@ -21,11 +21,11 @@ word_by_word:
     translation: it was
     transliteration: kāna
   3:
-    arabic: لِاَهۡلِ
+    arabic: لِأَهۡلِ
     translation: (for) the people
     transliteration: li-ahli
   4:
-    arabic: الۡمَدِيۡنَةِ
+    arabic: ٱلۡمَدِينَةِ
     translation: of the Madinah
     transliteration: l-madīnati
   5:
@@ -33,7 +33,7 @@ word_by_word:
     translation: and who
     transliteration: waman
   6:
-    arabic: حَوۡلَهُمۡ
+    arabic: حَوۡلَهُم
     translation: were around them
     transliteration: ḥawlahum
   7:
@@ -41,55 +41,55 @@ word_by_word:
     translation: of
     transliteration: mina
   8:
-    arabic: الۡاَعۡرَابِ
+    arabic: ٱلۡأَعۡرَابِ
     translation: the bedouins
     transliteration: l-aʿrābi
   9:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that
     transliteration: an
   10:
-    arabic: يَّتَخَلَّفُوۡا
+    arabic: يَتَخَلَّفُواْ
     translation: they remain behind
     transliteration: yatakhallafū
   11:
-    arabic: عَنۡ
+    arabic: عَن
     translation: after
     transliteration: ʿan
   12:
-    arabic: رَّسُوۡلِ
+    arabic: رَّسُولِ
     translation: the Messenger
     transliteration: rasūli
   13:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: of Allah
     transliteration: l-lahi
   14:
-    arabic: وَ لَا
+    arabic: وَلَا
     translation: and not
     transliteration: walā
   15:
-    arabic: يَرۡغَبُوۡا
+    arabic: يَرۡغَبُواْ
     translation: they prefer
     transliteration: yarghabū
   16:
-    arabic: بِاَنۡفُسِهِمۡ
+    arabic: بِأَنفُسِهِمۡ
     translation: their lives
     transliteration: bi-anfusihim
   17:
-    arabic: عَنۡ
+    arabic: عَن
     translation: to
     transliteration: ʿan
   18:
-    arabic: نَّـفۡسِهٖ ​ؕ
+    arabic: نَّفۡسِهِۦۚ
     translation: his life
     transliteration: nafsihi
   19:
-    arabic: ذٰ لِكَ
+    arabic: ذَٰلِكَ
     translation: That is
     transliteration: dhālika
   20:
-    arabic: بِاَنَّهُمۡ
+    arabic: بِأَنَّهُمۡ
     translation: because [they]
     transliteration: bi-annahum
   21:
@@ -97,39 +97,39 @@ word_by_word:
     translation: (does) not
     transliteration: lā
   22:
-    arabic: يُصِيۡبُهُمۡ
+    arabic: يُصِيبُهُمۡ
     translation: afflict them
     transliteration: yuṣībuhum
   23:
-    arabic: ظَمَاٌ
+    arabic: ظَمَأٞ
     translation: thirst
     transliteration: ẓama-on
   24:
-    arabic: وَّلَا
+    arabic: وَلَا
     translation: and not
     transliteration: walā
   25:
-    arabic: نَصَبٌ
+    arabic: نَصَبٞ
     translation: fatigue
     transliteration: naṣabun
   26:
-    arabic: وَّلَا
+    arabic: وَلَا
     translation: and not
     transliteration: walā
   27:
-    arabic: مَخۡمَصَةٌ
+    arabic: مَخۡمَصَةٞ
     translation: hunger
     transliteration: makhmaṣatun
   28:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   29:
-    arabic: سَبِيۡلِ
+    arabic: سَبِيلِ
     translation: (the) way
     transliteration: sabīli
   30:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (of) Allah
     transliteration: l-lahi
   31:
@@ -137,19 +137,19 @@ word_by_word:
     translation: and not
     transliteration: walā
   32:
-    arabic: يَطَـُٔــوۡنَ
+    arabic: يَطَـُٔونَ
     translation: they step
     transliteration: yaṭaūna
   33:
-    arabic: مَوۡطِئًا
+    arabic: مَوۡطِئٗا
     translation: any step
     transliteration: mawṭi-an
   34:
-    arabic: يَّغِيۡظُ
+    arabic: يَغِيظُ
     translation: that angers
     transliteration: yaghīẓu
   35:
-    arabic: الۡكُفَّارَ
+    arabic: ٱلۡكُفَّارَ
     translation: the disbelievers
     transliteration: l-kufāra
   36:
@@ -157,7 +157,7 @@ word_by_word:
     translation: and not
     transliteration: walā
   37:
-    arabic: يَنَالُوۡنَ
+    arabic: يَنَالُونَ
     translation: they inflict
     transliteration: yanālūna
   38:
@@ -165,15 +165,15 @@ word_by_word:
     translation: 'on'
     transliteration: min
   39:
-    arabic: عَدُوٍّ
+    arabic: عَدُوّٖ
     translation: an enemy
     transliteration: ʿaduwwin
   40:
-    arabic: نَّيۡلاً
+    arabic: نَّيۡلًا
     translation: an infliction
     transliteration: naylan
   41:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   42:
@@ -181,27 +181,27 @@ word_by_word:
     translation: is recorded
     transliteration: kutiba
   43:
-    arabic: لَهُمۡ
+    arabic: لَهُم
     translation: for them
     transliteration: lahum
   44:
-    arabic: بِهٖ
+    arabic: بِهِۦ
     translation: in it
     transliteration: bihi
   45:
-    arabic: عَمَلٌ
+    arabic: عَمَلٞ
     translation: (as) a deed
     transliteration: ʿamalun
   46:
-    arabic: صَالِحٌ​ ؕ
+    arabic: صَٰلِحٌۚ
     translation: righteous
     transliteration: ṣāliḥun
   47:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   48:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   49:
@@ -209,15 +209,15 @@ word_by_word:
     translation: (does) not
     transliteration: lā
   50:
-    arabic: يُضِيۡعُ
+    arabic: يُضِيعُ
     translation: allow to be lost
     transliteration: yuḍīʿu
   51:
-    arabic: اَجۡرَ
+    arabic: أَجۡرَ
     translation: the reward
     transliteration: ajra
   52:
-    arabic: الۡمُحۡسِنِيۡنَۙ‏
+    arabic: ٱلۡمُحۡسِنِينَ
     translation: (of) the good-doers
     transliteration: l-muḥ'sinīna
 ---

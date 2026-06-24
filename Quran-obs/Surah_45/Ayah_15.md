@@ -1,6 +1,6 @@
 ---
-arabic_ayat: مَنۡ عَمِلَ صَالِحًـا فَلِنَفۡسِهٖ​ۚ وَمَنۡ اَسَآءَ فَعَلَيۡهَا​ ثُمَّ
-  اِلٰى رَبِّكُمۡ تُرۡجَعُوۡنَ‏
+arabic_ayat: مَنۡ عَمِلَ صَٰلِحٗا فَلِنَفۡسِهِۦۖ وَمَنۡ أَسَآءَ فَعَلَيۡهَاۖ ثُمَّ
+  إِلَىٰ رَبِّكُمۡ تُرۡجَعُونَ
 sentence_translation: Whoever does good, it is to their own benefit. And whoever does
   evil, it is to their own loss. Then to your Lord you will ˹all˺ be returned.
 word_by_word:
@@ -13,11 +13,11 @@ word_by_word:
     translation: does
     transliteration: ʿamila
   3:
-    arabic: صَالِحًـا
+    arabic: صَٰلِحٗا
     translation: a righteous deed
     transliteration: ṣāliḥan
   4:
-    arabic: فَلِنَفۡسِهٖ​ۚ
+    arabic: فَلِنَفۡسِهِۦۖ
     translation: then it is for his soul
     transliteration: falinafsihi
   5:
@@ -25,11 +25,11 @@ word_by_word:
     translation: and whoever
     transliteration: waman
   6:
-    arabic: اَسَآءَ
+    arabic: أَسَآءَ
     translation: does evil
     transliteration: asāa
   7:
-    arabic: فَعَلَيۡهَا​
+    arabic: فَعَلَيۡهَاۖ
     translation: then it (is) against it
     transliteration: faʿalayhā
   8:
@@ -37,7 +37,7 @@ word_by_word:
     translation: Then
     transliteration: thumma
   9:
-    arabic: اِلٰى
+    arabic: إِلَىٰ
     translation: to
     transliteration: ilā
   10:
@@ -45,7 +45,7 @@ word_by_word:
     translation: your Lord
     transliteration: rabbikum
   11:
-    arabic: تُرۡجَعُوۡنَ‏
+    arabic: تُرۡجَعُونَ
     translation: you will be returned
     transliteration: tur'jaʿūna
 ---

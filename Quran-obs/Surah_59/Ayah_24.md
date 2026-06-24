@@ -1,7 +1,6 @@
 ---
-arabic_ayat: "هُوَ اللّٰهُ الۡخَـالِـقُ الۡبَارِئُ الۡمُصَوِّرُ​ لَـهُ الۡاَسۡمَآءُ\
-  \ الۡحُسۡنٰى​ؕ يُسَبِّحُ لَهٗ مَا فِى السَّمٰوٰتِ وَالۡاَرۡضِ​ۚ وَهُوَ الۡعَزِيۡزُ\
-  \ الۡحَكِيۡمُ‏ \uFEFF\uFEFF"
+arabic_ayat: هُوَ ٱللَّهُ ٱلۡخَٰلِقُ ٱلۡبَارِئُ ٱلۡمُصَوِّرُۖ لَهُ ٱلۡأَسۡمَآءُ ٱلۡحُسۡنَىٰۚ
+  يُسَبِّحُ لَهُۥ مَا فِي ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِۖ وَهُوَ ٱلۡعَزِيزُ ٱلۡحَكِيمُ
 sentence_translation: 'He is Allah: the Creator, the Inventor, the Shaper. He ˹alone˺
   has the Most Beautiful Names. Whatever is in the heavens and the earth ˹constantly˺
   glorifies Him. And He is the Almighty, All-Wise.'
@@ -11,31 +10,31 @@ word_by_word:
     translation: He
     transliteration: huwa
   2:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: (is) Allah
     transliteration: l-lahu
   3:
-    arabic: الۡخَـالِـقُ
+    arabic: ٱلۡخَٰلِقُ
     translation: the Creator
     transliteration: l-khāliqu
   4:
-    arabic: الۡبَارِئُ
+    arabic: ٱلۡبَارِئُ
     translation: the Inventor
     transliteration: l-bāri-u
   5:
-    arabic: الۡمُصَوِّرُ​
+    arabic: ٱلۡمُصَوِّرُۖ
     translation: the Fashioner
     transliteration: l-muṣawiru
   6:
-    arabic: لَـهُ
+    arabic: لَهُ
     translation: For Him
     transliteration: lahu
   7:
-    arabic: الۡاَسۡمَآءُ
+    arabic: ٱلۡأَسۡمَآءُ
     translation: (are) the names
     transliteration: l-asmāu
   8:
-    arabic: الۡحُسۡنٰى​ؕ
+    arabic: ٱلۡحُسۡنَىٰۚ
     translation: the beautiful
     transliteration: l-ḥus'nā
   9:
@@ -43,7 +42,7 @@ word_by_word:
     translation: Glorifies
     transliteration: yusabbiḥu
   10:
-    arabic: لَهٗ
+    arabic: لَهُۥ
     translation: Him
     transliteration: lahu
   11:
@@ -51,15 +50,15 @@ word_by_word:
     translation: whatever
     transliteration: mā
   12:
-    arabic: فِى
+    arabic: فِي
     translation: (is) in
     transliteration: fī
   13:
-    arabic: السَّمٰوٰتِ
+    arabic: ٱلسَّمَٰوَٰتِ
     translation: the heavens
     transliteration: l-samāwāti
   14:
-    arabic: وَالۡاَرۡضِ​ۚ
+    arabic: وَٱلۡأَرۡضِۖ
     translation: and the earth
     transliteration: wal-arḍi
   15:
@@ -67,11 +66,11 @@ word_by_word:
     translation: And He
     transliteration: wahuwa
   16:
-    arabic: الۡعَزِيۡزُ
+    arabic: ٱلۡعَزِيزُ
     translation: (is) the All-Mighty
     transliteration: l-ʿazīzu
   17:
-    arabic: "الۡحَكِيۡمُ‏ \uFEFF\uFEFF"
+    arabic: ٱلۡحَكِيمُ
     translation: the All-Wise
     transliteration: l-ḥakīmu
 ---

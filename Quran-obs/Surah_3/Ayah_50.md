@@ -1,13 +1,13 @@
 ---
-arabic_ayat: وَمُصَدِّقًا لِّمَا بَيۡنَ يَدَىَّ مِنَ التَّوۡرٰٮةِ وَلِاُحِلَّ لَـكُمۡ
-  بَعۡضَ الَّذِىۡ حُرِّمَ عَلَيۡكُمۡ​وَجِئۡتُكُمۡ بِاٰيَةٍ مِّنۡ رَّبِّكُمۡ فَاتَّقُوۡا
-  اللّٰهَ وَاَطِيۡعُوۡنِ‏
+arabic_ayat: وَمُصَدِّقٗا لِّمَا بَيۡنَ يَدَيَّ مِنَ ٱلتَّوۡرَىٰةِ وَلِأُحِلَّ لَكُم
+  بَعۡضَ ٱلَّذِي حُرِّمَ عَلَيۡكُمۡۚ وَجِئۡتُكُم بِـَٔايَةٖ مِّن رَّبِّكُمۡ فَٱتَّقُواْ
+  ٱللَّهَ وَأَطِيعُونِ
 sentence_translation: And I will confirm the Torah revealed before me and legalize
   some of what had been forbidden to you. I have come to you with a sign from your
   Lord, so be mindful of Allah and obey me.
 word_by_word:
   1:
-    arabic: وَمُصَدِّقًا
+    arabic: وَمُصَدِّقٗا
     translation: And confirming
     transliteration: wamuṣaddiqan
   2:
@@ -19,7 +19,7 @@ word_by_word:
     translation: (was)
     transliteration: bayna
   4:
-    arabic: يَدَىَّ
+    arabic: يَدَيَّ
     translation: before me
     transliteration: yadayya
   5:
@@ -27,15 +27,15 @@ word_by_word:
     translation: of
     transliteration: mina
   6:
-    arabic: التَّوۡرٰٮةِ
+    arabic: ٱلتَّوۡرَىٰةِ
     translation: the Taurat
     transliteration: l-tawrāti
   7:
-    arabic: وَلِاُحِلَّ
+    arabic: وَلِأُحِلَّ
     translation: and so that I make lawful
     transliteration: wali-uḥilla
   8:
-    arabic: لَـكُمۡ
+    arabic: لَكُم
     translation: for you
     transliteration: lakum
   9:
@@ -43,7 +43,7 @@ word_by_word:
     translation: some
     transliteration: baʿḍa
   10:
-    arabic: الَّذِىۡ
+    arabic: ٱلَّذِي
     translation: (of) that which
     transliteration: alladhī
   11:
@@ -51,35 +51,35 @@ word_by_word:
     translation: was forbidden
     transliteration: ḥurrima
   12:
-    arabic: عَلَيۡكُمۡ​وَ
+    arabic: عَلَيۡكُمۡۚ وَ
     translation: to you
     transliteration: ʿalaykum
   13:
-    arabic: جِئۡتُكُمۡ
+    arabic: جِئۡتُكُم
     translation: And I (have) come to you
     transliteration: waji'tukum
   14:
-    arabic: بِاٰيَةٍ
+    arabic: بِـَٔايَةٖ
     translation: with a sign
     transliteration: biāyatin
   15:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: from
     transliteration: min
   16:
-    arabic: رَّبِّكُمۡ
+    arabic: رَّبِّكُمۡ
     translation: your Lord
     transliteration: rabbikum
   17:
-    arabic: فَاتَّقُوۡا
+    arabic: فَٱتَّقُواْ
     translation: So fear
     transliteration: fa-ittaqū
   18:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   19:
-    arabic: وَاَطِيۡعُوۡنِ‏
+    arabic: وَأَطِيعُونِ
     translation: and obey me
     transliteration: wa-aṭīʿūni
 ---

@@ -1,11 +1,11 @@
 ---
-arabic_ayat: يٰحَسۡرَةً عَلَى الۡعِبَادِ ؔ​ۚ مَا يَاۡتِيۡهِمۡ مِّنۡ رَّسُوۡلٍ اِلَّا
-  كَانُوۡا بِهٖ يَسۡتَهۡزِءُوۡنَ‏
+arabic_ayat: يَٰحَسۡرَةً عَلَى ٱلۡعِبَادِۚ مَا يَأۡتِيهِم مِّن رَّسُولٍ إِلَّا كَانُواْ
+  بِهِۦ يَسۡتَهۡزِءُونَ
 sentence_translation: Oh pity, such beings! No messenger ever came to them without
   being mocked.
 word_by_word:
   1:
-    arabic: يٰحَسۡرَةً
+    arabic: يَٰحَسۡرَةً
     translation: Alas
     transliteration: yāḥasratan
   2:
@@ -13,7 +13,7 @@ word_by_word:
     translation: for
     transliteration: ʿalā
   3:
-    arabic: الۡعِبَادِ ؔ​ۚ
+    arabic: ٱلۡعِبَادِۚ
     translation: the servants
     transliteration: l-ʿibādi
   4:
@@ -21,31 +21,31 @@ word_by_word:
     translation: Not
     transliteration: mā
   5:
-    arabic: يَاۡتِيۡهِمۡ
+    arabic: يَأۡتِيهِم
     translation: came to them
     transliteration: yatīhim
   6:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: any
     transliteration: min
   7:
-    arabic: رَّسُوۡلٍ
+    arabic: رَّسُولٍ
     translation: Messenger
     transliteration: rasūlin
   8:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: but
     transliteration: illā
   9:
-    arabic: كَانُوۡا
+    arabic: كَانُواْ
     translation: they did
     transliteration: kānū
   10:
-    arabic: بِهٖ
+    arabic: بِهِۦ
     translation: mock at him
     transliteration: bihi
   11:
-    arabic: يَسۡتَهۡزِءُوۡنَ‏
+    arabic: يَسۡتَهۡزِءُونَ
     translation: mock at him
     transliteration: yastahziūna
 ---

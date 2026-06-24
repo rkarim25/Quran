@@ -1,22 +1,22 @@
 ---
-arabic_ayat: اَمۡ يَقُوۡلُوۡنَ افۡتَـرٰٮهُ​ؕ قُلۡ اِنِ افۡتَـرَيۡتُهٗ فَلَا تَمۡلِكُوۡنَ
-  لِىۡ مِنَ اللّٰهِ شَيـــًٔا​ ؕ هُوَ اَعۡلَمُ بِمَا تُفِيۡضُوۡنَ فِيۡهِ​ؕ كَفٰى بِهٖ
-  شَهِيۡدًاۢ بَيۡنِىۡ وَبَيۡنَكُمۡ​ ؕ وَهُوَ الۡغَفُوۡرُ الرَّحِيۡمُ‏
+arabic_ayat: أَمۡ يَقُولُونَ ٱفۡتَرَىٰهُۖ قُلۡ إِنِ ٱفۡتَرَيۡتُهُۥ فَلَا تَمۡلِكُونَ
+  لِي مِنَ ٱللَّهِ شَيۡـًٔاۖ هُوَ أَعۡلَمُ بِمَا تُفِيضُونَ فِيهِۚ كَفَىٰ بِهِۦ شَهِيدَۢا
+  بَيۡنِي وَبَيۡنَكُمۡۖ وَهُوَ ٱلۡغَفُورُ ٱلرَّحِيمُ
 sentence_translation: Or do they say, “He has fabricated this ˹Quran˺!”? Say, ˹O Prophet,˺
   “If I have done so, then there is nothing whatsoever you can do to save me from
   Allah. He knows best what ˹slurs˺ you indulge about it. Sufficient is He as a Witness
   between you and me. And He is the All-Forgiving, Most Merciful.”
 word_by_word:
   1:
-    arabic: اَمۡ
+    arabic: أَمۡ
     translation: Or
     transliteration: am
   2:
-    arabic: يَقُوۡلُوۡنَ
+    arabic: يَقُولُونَ
     translation: they say
     transliteration: yaqūlūna
   3:
-    arabic: افۡتَـرٰٮهُ​ؕ
+    arabic: ٱفۡتَرَىٰهُۖ
     translation: He has invented it
     transliteration: if'tarāhu
   4:
@@ -24,11 +24,11 @@ word_by_word:
     translation: Say
     transliteration: qul
   5:
-    arabic: اِنِ
+    arabic: إِنِ
     translation: If
     transliteration: ini
   6:
-    arabic: افۡتَـرَيۡتُهٗ
+    arabic: ٱفۡتَرَيۡتُهُۥ
     translation: I have invented it
     transliteration: if'taraytuhu
   7:
@@ -36,11 +36,11 @@ word_by_word:
     translation: then not
     transliteration: falā
   8:
-    arabic: تَمۡلِكُوۡنَ
+    arabic: تَمۡلِكُونَ
     translation: you have power
     transliteration: tamlikūna
   9:
-    arabic: لِىۡ
+    arabic: لِي
     translation: for me
     transliteration: lī
   10:
@@ -48,11 +48,11 @@ word_by_word:
     translation: against
     transliteration: mina
   11:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   12:
-    arabic: شَيـــًٔا​ ؕ
+    arabic: شَيۡـًٔاۖ
     translation: anything
     transliteration: shayan
   13:
@@ -60,7 +60,7 @@ word_by_word:
     translation: He
     transliteration: huwa
   14:
-    arabic: اَعۡلَمُ
+    arabic: أَعۡلَمُ
     translation: knows best
     transliteration: aʿlamu
   15:
@@ -68,31 +68,31 @@ word_by_word:
     translation: of what
     transliteration: bimā
   16:
-    arabic: تُفِيۡضُوۡنَ
+    arabic: تُفِيضُونَ
     translation: you utter
     transliteration: tufīḍūna
   17:
-    arabic: فِيۡهِ​ؕ
+    arabic: فِيهِۚ
     translation: concerning it
     transliteration: fīhi
   18:
-    arabic: كَفٰى
+    arabic: كَفَىٰ
     translation: Sufficient is He
     transliteration: kafā
   19:
-    arabic: بِهٖ
+    arabic: بِهِۦ
     translation: Sufficient is He
     transliteration: bihi
   20:
-    arabic: شَهِيۡدًاۢ
+    arabic: شَهِيدَۢا
     translation: (as) a Witness
     transliteration: shahīdan
   21:
-    arabic: بَيۡنِىۡ
+    arabic: بَيۡنِي
     translation: between me
     transliteration: baynī
   22:
-    arabic: وَبَيۡنَكُمۡ​ ؕ
+    arabic: وَبَيۡنَكُمۡۖ
     translation: and between you
     transliteration: wabaynakum
   23:
@@ -100,11 +100,11 @@ word_by_word:
     translation: and He
     transliteration: wahuwa
   24:
-    arabic: الۡغَفُوۡرُ
+    arabic: ٱلۡغَفُورُ
     translation: (is) the Oft-Forgiving
     transliteration: l-ghafūru
   25:
-    arabic: الرَّحِيۡمُ‏
+    arabic: ٱلرَّحِيمُ
     translation: the Most Merciful
     transliteration: l-raḥīmu
 ---

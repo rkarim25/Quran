@@ -1,7 +1,7 @@
 ---
-arabic_ayat: فَلَوۡلَا كَانَتۡ قَرۡيَةٌ اٰمَنَتۡ فَنَفَعَهَاۤ اِيۡمَانُهَاۤ اِلَّا
-  قَوۡمَ يُوۡنُسَ ۚؕ لَمَّاۤ اٰمَنُوۡا كَشَفۡنَا عَنۡهُمۡ عَذَابَ الۡخِزۡىِ فِى الۡحَيٰوةِ
-  الدُّنۡيَا وَمَتَّعۡنٰهُمۡ اِلٰى حِيۡنٍ‏
+arabic_ayat: فَلَوۡلَا كَانَتۡ قَرۡيَةٌ ءَامَنَتۡ فَنَفَعَهَآ إِيمَٰنُهَآ إِلَّا
+  قَوۡمَ يُونُسَ لَمَّآ ءَامَنُواْ كَشَفۡنَا عَنۡهُمۡ عَذَابَ ٱلۡخِزۡيِ فِي ٱلۡحَيَوٰةِ
+  ٱلدُّنۡيَا وَمَتَّعۡنَٰهُمۡ إِلَىٰ حِينٖ
 sentence_translation: If only there had been a society which believed ˹before seeing
   the torment˺ and, therefore, benefited from its belief, like the people of Jonah. When
   they believed, We lifted from them the torment of disgrace in this world and allowed
@@ -16,23 +16,23 @@ word_by_word:
     translation: was
     transliteration: kānat
   3:
-    arabic: قَرۡيَةٌ
+    arabic: قَرۡيَةٌ ءَ
     translation: any town
     transliteration: qaryatun
   4:
-    arabic: اٰمَنَتۡ
+    arabic: امَنَتۡ
     translation: that believed
     transliteration: āmanat
   5:
-    arabic: فَنَفَعَهَاۤ
+    arabic: فَنَفَعَهَآ
     translation: and benefited it
     transliteration: fanafaʿahā
   6:
-    arabic: اِيۡمَانُهَاۤ
+    arabic: إِيمَٰنُهَآ
     translation: its faith
     transliteration: īmānuhā
   7:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   8:
@@ -40,15 +40,15 @@ word_by_word:
     translation: the people
     transliteration: qawma
   9:
-    arabic: يُوۡنُسَ ۚؕ
+    arabic: يُونُسَ
     translation: (of) Yunus
     transliteration: yūnusa
   10:
-    arabic: لَمَّاۤ
+    arabic: لَمَّآ ءَ
     translation: When
     transliteration: lammā
   11:
-    arabic: اٰمَنُوۡا
+    arabic: امَنُواْ
     translation: they believed
     transliteration: āmanū
   12:
@@ -64,31 +64,31 @@ word_by_word:
     translation: (the) punishment
     transliteration: ʿadhāba
   15:
-    arabic: الۡخِزۡىِ
+    arabic: ٱلۡخِزۡيِ
     translation: (of) the disgrace
     transliteration: l-khiz'yi
   16:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   17:
-    arabic: الۡحَيٰوةِ
+    arabic: ٱلۡحَيَوٰةِ
     translation: the life
     transliteration: l-ḥayati
   18:
-    arabic: الدُّنۡيَا
+    arabic: ٱلدُّنۡيَا
     translation: of the world
     transliteration: l-dun'yā
   19:
-    arabic: وَمَتَّعۡنٰهُمۡ
+    arabic: وَمَتَّعۡنَٰهُمۡ
     translation: and We granted them enjoyment
     transliteration: wamattaʿnāhum
   20:
-    arabic: اِلٰى
+    arabic: إِلَىٰ
     translation: for
     transliteration: ilā
   21:
-    arabic: حِيۡنٍ‏
+    arabic: حِينٖ
     translation: a time
     transliteration: ḥīnin
 ---

@@ -1,8 +1,7 @@
 ---
-arabic_ayat: "قَالَ قَدۡ وَقَعَ عَلَيۡكُمۡ مِّنۡ رَّبِّكُمۡ رِجۡسٌ وَّغَضَبٌ​ؕ اَتُجَادِلُوۡنَنِىۡ\
-  \ فِىۡۤ اَسۡمَآءٍ سَمَّيۡتُمُوۡهَاۤ اَنۡـتُمۡ وَاٰبَآؤُكُمۡ مَّا نَزَّلَ اللّٰهُ\
-  \ بِهَا مِنۡ سُلۡطٰنٍ​ؕ فَانْتَظِرُوۡۤا اِنِّىۡ مَعَكُمۡ مِّنَ الۡمُنۡتَظِرِيۡنَ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: قَالَ قَدۡ وَقَعَ عَلَيۡكُم مِّن رَّبِّكُمۡ رِجۡسٞ وَغَضَبٌۖ أَتُجَٰدِلُونَنِي
+  فِيٓ أَسۡمَآءٖ سَمَّيۡتُمُوهَآ أَنتُمۡ وَءَابَآؤُكُم مَّا نَزَّلَ ٱللَّهُ بِهَا
+  مِن سُلۡطَٰنٖۚ فَٱنتَظِرُوٓاْ إِنِّي مَعَكُم مِّنَ ٱلۡمُنتَظِرِينَ
 sentence_translation: He said, “You will certainly be subjected to your Lord’s torment
   and wrath. Do you dispute with me regarding the so-called gods which you and your
   forefathers have made up—a practice Allah has never authorized? Then wait! I too
@@ -21,11 +20,11 @@ word_by_word:
     translation: has fallen
     transliteration: waqaʿa
   4:
-    arabic: عَلَيۡكُمۡ
+    arabic: عَلَيۡكُم
     translation: upon you
     transliteration: ʿalaykum
   5:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: from
     transliteration: min
   6:
@@ -33,35 +32,35 @@ word_by_word:
     translation: your Lord
     transliteration: rabbikum
   7:
-    arabic: رِجۡسٌ
+    arabic: رِجۡسٞ
     translation: punishment
     transliteration: rij'sun
   8:
-    arabic: وَّغَضَبٌ​ؕ
+    arabic: وَغَضَبٌۖ
     translation: and anger
     transliteration: waghaḍabun
   9:
-    arabic: اَتُجَادِلُوۡنَنِىۡ
+    arabic: أَتُجَٰدِلُونَنِي
     translation: Do you dispute with me
     transliteration: atujādilūnanī
   10:
-    arabic: فِىۡۤ
+    arabic: فِيٓ
     translation: concerning
     transliteration: fī
   11:
-    arabic: اَسۡمَآءٍ
+    arabic: أَسۡمَآءٖ
     translation: names
     transliteration: asmāin
   12:
-    arabic: سَمَّيۡتُمُوۡهَاۤ
+    arabic: سَمَّيۡتُمُوهَآ
     translation: 'you have named them '
     transliteration: sammaytumūhā
   13:
-    arabic: اَنۡـتُمۡ
+    arabic: أَنتُمۡ
     translation: you
     transliteration: antum
   14:
-    arabic: وَاٰبَآؤُكُمۡ
+    arabic: وَءَابَآؤُكُم
     translation: and your forefathers
     transliteration: waābāukum
   15:
@@ -73,7 +72,7 @@ word_by_word:
     translation: (has been) sent down
     transliteration: nazzala
   17:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: (by) Allah
     transliteration: l-lahu
   18:
@@ -81,23 +80,23 @@ word_by_word:
     translation: for it
     transliteration: bihā
   19:
-    arabic: مِنۡ
+    arabic: مِن
     translation: any
     transliteration: min
   20:
-    arabic: سُلۡطٰنٍ​ؕ
+    arabic: سُلۡطَٰنٖۚ
     translation: authority
     transliteration: sul'ṭānin
   21:
-    arabic: فَانْتَظِرُوۡۤا
+    arabic: فَٱنتَظِرُوٓاْ
     translation: Then wait
     transliteration: fa-intaẓirū
   22:
-    arabic: اِنِّىۡ
+    arabic: إِنِّي
     translation: indeed, I am
     transliteration: innī
   23:
-    arabic: مَعَكُمۡ
+    arabic: مَعَكُم
     translation: with you
     transliteration: maʿakum
   24:
@@ -105,7 +104,7 @@ word_by_word:
     translation: of
     transliteration: mina
   25:
-    arabic: "الۡمُنۡتَظِرِيۡنَ‏ \uFEFF\uFEFF"
+    arabic: ٱلۡمُنتَظِرِينَ
     translation: the ones who wait
     transliteration: l-muntaẓirīna
 ---

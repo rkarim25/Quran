@@ -1,12 +1,12 @@
 ---
-arabic_ayat: عٰلِيَهُمۡ ثِيَابُ سُنۡدُسٍ خُضۡرٌ وَّاِسۡتَبۡرَقٌ​ وَّحُلُّوۡۤا اَسَاوِرَ
-  مِنۡ فِضَّةٍ ​ۚوَسَقٰٮهُمۡ رَبُّهُمۡ شَرَابًا طَهُوۡرًا‏
+arabic_ayat: عَٰلِيَهُمۡ ثِيَابُ سُندُسٍ خُضۡرٞ وَإِسۡتَبۡرَقٞۖ وَحُلُّوٓاْ أَسَاوِرَ
+  مِن فِضَّةٖ وَسَقَىٰهُمۡ رَبُّهُمۡ شَرَابٗا طَهُورًا
 sentence_translation: The virtuous will be ˹dressed˺ in garments of fine green silk
   and rich brocade, and adorned with bracelets of silver, and their Lord will give
   them a purifying drink.
 word_by_word:
   1:
-    arabic: عٰلِيَهُمۡ
+    arabic: عَٰلِيَهُمۡ
     translation: Upon them
     transliteration: ʿāliyahum
   2:
@@ -14,35 +14,35 @@ word_by_word:
     translation: (will be) garments
     transliteration: thiyābu
   3:
-    arabic: سُنۡدُسٍ
+    arabic: سُندُسٍ
     translation: (of) fine silk
     transliteration: sundusin
   4:
-    arabic: خُضۡرٌ
+    arabic: خُضۡرٞ
     translation: green
     transliteration: khuḍ'run
   5:
-    arabic: وَّاِسۡتَبۡرَقٌ​
+    arabic: وَإِسۡتَبۡرَقٞۖ
     translation: and heavy brocade
     transliteration: wa-is'tabraqun
   6:
-    arabic: وَّحُلُّوۡۤا
+    arabic: وَحُلُّوٓاْ
     translation: And they will be adorned
     transliteration: waḥullū
   7:
-    arabic: اَسَاوِرَ
+    arabic: أَسَاوِرَ
     translation: (with) bracelets
     transliteration: asāwira
   8:
-    arabic: مِنۡ
+    arabic: مِن
     translation: of
     transliteration: min
   9:
-    arabic: فِضَّةٍ
+    arabic: فِضَّةٖ
     translation: silver
     transliteration: fiḍḍatin
   10:
-    arabic: ​ۚوَسَقٰٮهُمۡ
+    arabic: وَسَقَىٰهُمۡ
     translation: and will give them to drink
     transliteration: wasaqāhum
   11:
@@ -50,11 +50,11 @@ word_by_word:
     translation: their Lord
     transliteration: rabbuhum
   12:
-    arabic: شَرَابًا
+    arabic: شَرَابٗا
     translation: a drink
     transliteration: sharāban
   13:
-    arabic: طَهُوۡرًا‏
+    arabic: طَهُورًا
     translation: pure
     transliteration: ṭahūran
 ---

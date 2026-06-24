@@ -1,17 +1,17 @@
 ---
-arabic_ayat: وَلِبُيُوۡتِهِمۡ اَبۡوَابًا وَّسُرُرًا عَلَيۡهَا يَتَّكِــُٔوۡنَۙ‏
+arabic_ayat: وَلِبُيُوتِهِمۡ أَبۡوَٰبٗا وَسُرُرًا عَلَيۡهَا يَتَّكِـُٔونَ
 sentence_translation: as well as ˹silver˺ gates and thrones to recline on,
 word_by_word:
   1:
-    arabic: وَلِبُيُوۡتِهِمۡ
+    arabic: وَلِبُيُوتِهِمۡ
     translation: And for their houses
     transliteration: walibuyūtihim
   2:
-    arabic: اَبۡوَابًا
+    arabic: أَبۡوَٰبٗا
     translation: doors
     transliteration: abwāban
   3:
-    arabic: وَّسُرُرًا
+    arabic: وَسُرُرًا
     translation: and couches
     transliteration: wasururan
   4:
@@ -19,7 +19,7 @@ word_by_word:
     translation: upon which
     transliteration: ʿalayhā
   5:
-    arabic: يَتَّكِــُٔوۡنَۙ‏
+    arabic: يَتَّكِـُٔونَ
     translation: they recline
     transliteration: yattakiūna
 ---

@@ -1,8 +1,8 @@
 ---
-arabic_ayat: وَاصۡبِرۡ نَـفۡسَكَ مَعَ الَّذِيۡنَ يَدۡعُوۡنَ رَبَّهُمۡ بِالۡغَدٰوةِ
-  وَالۡعَشِىِّ يُرِيۡدُوۡنَ وَجۡهَهٗ​ وَلَا تَعۡدُ عَيۡنٰكَ عَنۡهُمۡ​ ۚ تُرِيۡدُ زِيۡنَةَ
-  الۡحَيٰوةِ الدُّنۡيَا​ ۚ وَ لَا تُطِعۡ مَنۡ اَغۡفَلۡنَا قَلۡبَهٗ عَنۡ ذِكۡرِنَا
-  وَاتَّبَعَ هَوٰٮهُ وَكَانَ اَمۡرُهٗ فُرُطًا‏
+arabic_ayat: وَٱصۡبِرۡ نَفۡسَكَ مَعَ ٱلَّذِينَ يَدۡعُونَ رَبَّهُم بِٱلۡغَدَوٰةِ وَٱلۡعَشِيِّ
+  يُرِيدُونَ وَجۡهَهُۥۖ وَلَا تَعۡدُ عَيۡنَاكَ عَنۡهُمۡ تُرِيدُ زِينَةَ ٱلۡحَيَوٰةِ
+  ٱلدُّنۡيَاۖ وَلَا تُطِعۡ مَنۡ أَغۡفَلۡنَا قَلۡبَهُۥ عَن ذِكۡرِنَا وَٱتَّبَعَ هَوَىٰهُ
+  وَكَانَ أَمۡرُهُۥ فُرُطٗا
 sentence_translation: And patiently stick with those who call upon their Lord morning
   and evening, seeking His pleasure. Do not let your eyes look beyond them, desiring
   the luxuries of this worldly life. And do not obey those whose hearts We have made
@@ -10,11 +10,11 @@ sentence_translation: And patiently stick with those who call upon their Lord mo
   ˹total˺ loss.
 word_by_word:
   1:
-    arabic: وَاصۡبِرۡ
+    arabic: وَٱصۡبِرۡ
     translation: And be patient
     transliteration: wa-iṣ'bir
   2:
-    arabic: نَـفۡسَكَ
+    arabic: نَفۡسَكَ
     translation: yourself
     transliteration: nafsaka
   3:
@@ -22,31 +22,31 @@ word_by_word:
     translation: with
     transliteration: maʿa
   4:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   5:
-    arabic: يَدۡعُوۡنَ
+    arabic: يَدۡعُونَ
     translation: call
     transliteration: yadʿūna
   6:
-    arabic: رَبَّهُمۡ
+    arabic: رَبَّهُم
     translation: their Lord
     transliteration: rabbahum
   7:
-    arabic: بِالۡغَدٰوةِ
+    arabic: بِٱلۡغَدَوٰةِ
     translation: in the morning
     transliteration: bil-ghadati
   8:
-    arabic: وَالۡعَشِىِّ
+    arabic: وَٱلۡعَشِيِّ
     translation: and the evening
     transliteration: wal-ʿashiyi
   9:
-    arabic: يُرِيۡدُوۡنَ
+    arabic: يُرِيدُونَ
     translation: desiring
     transliteration: yurīdūna
   10:
-    arabic: وَجۡهَهٗ​
+    arabic: وَجۡهَهُۥۖ
     translation: His Face
     transliteration: wajhahu
   11:
@@ -58,31 +58,31 @@ word_by_word:
     translation: pass beyond
     transliteration: taʿdu
   13:
-    arabic: عَيۡنٰكَ
+    arabic: عَيۡنَاكَ
     translation: your eyes
     transliteration: ʿaynāka
   14:
-    arabic: عَنۡهُمۡ​ ۚ
+    arabic: عَنۡهُمۡ
     translation: over them
     transliteration: ʿanhum
   15:
-    arabic: تُرِيۡدُ
+    arabic: تُرِيدُ
     translation: desiring
     transliteration: turīdu
   16:
-    arabic: زِيۡنَةَ
+    arabic: زِينَةَ
     translation: adornment
     transliteration: zīnata
   17:
-    arabic: الۡحَيٰوةِ
+    arabic: ٱلۡحَيَوٰةِ
     translation: (of) the life
     transliteration: l-ḥayati
   18:
-    arabic: الدُّنۡيَا​ ۚ
+    arabic: ٱلدُّنۡيَاۖ
     translation: (of) the world
     transliteration: l-dun'yā
   19:
-    arabic: وَ لَا
+    arabic: وَلَا
     translation: and (do) not
     transliteration: walā
   20:
@@ -94,15 +94,15 @@ word_by_word:
     translation: whom
     transliteration: man
   22:
-    arabic: اَغۡفَلۡنَا
+    arabic: أَغۡفَلۡنَا
     translation: We have made heedless
     transliteration: aghfalnā
   23:
-    arabic: قَلۡبَهٗ
+    arabic: قَلۡبَهُۥ
     translation: his heart
     transliteration: qalbahu
   24:
-    arabic: عَنۡ
+    arabic: عَن
     translation: of
     transliteration: ʿan
   25:
@@ -110,11 +110,11 @@ word_by_word:
     translation: Our remembrance
     transliteration: dhik'rinā
   26:
-    arabic: وَاتَّبَعَ
+    arabic: وَٱتَّبَعَ
     translation: and follows
     transliteration: wa-ittabaʿa
   27:
-    arabic: هَوٰٮهُ
+    arabic: هَوَىٰهُ
     translation: his desires
     transliteration: hawāhu
   28:
@@ -122,11 +122,11 @@ word_by_word:
     translation: and is
     transliteration: wakāna
   29:
-    arabic: اَمۡرُهٗ
+    arabic: أَمۡرُهُۥ
     translation: his affair
     transliteration: amruhu
   30:
-    arabic: فُرُطًا‏
+    arabic: فُرُطٗا
     translation: (in) excess
     transliteration: furuṭan
 ---

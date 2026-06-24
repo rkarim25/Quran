@@ -1,39 +1,38 @@
 ---
-arabic_ayat: "لَا تَدۡعُوا الۡيَوۡمَ ثُبُوۡرًا وَّاحِدًا وَّادۡعُوۡا ثُبُوۡرًا كَثِيۡرًا‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: لَّا تَدۡعُواْ ٱلۡيَوۡمَ ثُبُورٗا وَٰحِدٗا وَٱدۡعُواْ ثُبُورٗا كَثِيرٗا
 sentence_translation: ˹They will be told,˺ “Do not cry only once for destruction,
   but cry many times over!”
 word_by_word:
   1:
-    arabic: لَا
+    arabic: لَّا
     translation: (Do) not
     transliteration: lā
   2:
-    arabic: تَدۡعُوا
+    arabic: تَدۡعُواْ
     translation: call
     transliteration: tadʿū
   3:
-    arabic: الۡيَوۡمَ
+    arabic: ٱلۡيَوۡمَ
     translation: this day
     transliteration: l-yawma
   4:
-    arabic: ثُبُوۡرًا
+    arabic: ثُبُورٗا
     translation: (for) destruction
     transliteration: thubūran
   5:
-    arabic: وَّاحِدًا
+    arabic: وَٰحِدٗا
     translation: one
     transliteration: wāḥidan
   6:
-    arabic: وَّادۡعُوۡا
+    arabic: وَٱدۡعُواْ
     translation: but call
     transliteration: wa-id'ʿū
   7:
-    arabic: ثُبُوۡرًا
+    arabic: ثُبُورٗا
     translation: (for) destructions
     transliteration: thubūran
   8:
-    arabic: "كَثِيۡرًا‏ \uFEFF\uFEFF"
+    arabic: كَثِيرٗا
     translation: many
     transliteration: kathīran
 ---

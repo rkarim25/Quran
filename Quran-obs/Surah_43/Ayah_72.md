@@ -1,6 +1,5 @@
 ---
-arabic_ayat: "وَتِلۡكَ الۡجَنَّةُ الَّتِىۡۤ اُوۡرِثۡتُمُوۡهَا بِمَا كُنۡتُمۡ تَعۡمَلُوۡنَ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: وَتِلۡكَ ٱلۡجَنَّةُ ٱلَّتِيٓ أُورِثۡتُمُوهَا بِمَا كُنتُمۡ تَعۡمَلُونَ
 sentence_translation: That is the Paradise which you will be awarded for what you
   used to do.
 word_by_word:
@@ -9,15 +8,15 @@ word_by_word:
     translation: And this
     transliteration: watil'ka
   2:
-    arabic: الۡجَنَّةُ
+    arabic: ٱلۡجَنَّةُ
     translation: (is) the Paradise
     transliteration: l-janatu
   3:
-    arabic: الَّتِىۡۤ
+    arabic: ٱلَّتِيٓ
     translation: which
     transliteration: allatī
   4:
-    arabic: اُوۡرِثۡتُمُوۡهَا
+    arabic: أُورِثۡتُمُوهَا
     translation: you are made to inherit
     transliteration: ūrith'tumūhā
   5:
@@ -25,11 +24,11 @@ word_by_word:
     translation: for what
     transliteration: bimā
   6:
-    arabic: كُنۡتُمۡ
+    arabic: كُنتُمۡ
     translation: you used to
     transliteration: kuntum
   7:
-    arabic: "تَعۡمَلُوۡنَ‏ \uFEFF\uFEFF"
+    arabic: تَعۡمَلُونَ
     translation: do
     transliteration: taʿmalūna
 ---

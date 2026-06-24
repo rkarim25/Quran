@@ -1,13 +1,13 @@
 ---
-arabic_ayat: وَّالنّٰشِطٰتِ نَشۡطًا ۙ‏
+arabic_ayat: وَٱلنَّٰشِطَٰتِ نَشۡطٗا
 sentence_translation: and those pulling out ˹good souls˺ gently,
 word_by_word:
   1:
-    arabic: وَّالنّٰشِطٰتِ
+    arabic: وَٱلنَّٰشِطَٰتِ
     translation: And those who draw out
     transliteration: wal-nāshiṭāti
   2:
-    arabic: نَشۡطًا ۙ‏
+    arabic: نَشۡطٗا
     translation: gently
     transliteration: nashṭan
 ---

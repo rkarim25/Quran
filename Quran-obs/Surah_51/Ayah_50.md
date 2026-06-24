@@ -1,27 +1,26 @@
 ---
-arabic_ayat: "فَفِرُّوۡۤا اِلَى اللّٰهِ​ؕ اِنِّىۡ لَـكُمۡ مِّنۡهُ نَذِيۡرٌ مُّبِيۡنٌ​ۚ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: فَفِرُّوٓاْ إِلَى ٱللَّهِۖ إِنِّي لَكُم مِّنۡهُ نَذِيرٞ مُّبِينٞ
 sentence_translation: 'So ˹proclaim, O  Prophet˺: “Flee to Allah! I am truly sent
   by Him with a clear warning to you.'
 word_by_word:
   1:
-    arabic: فَفِرُّوۡۤا
+    arabic: فَفِرُّوٓاْ
     translation: So flee
     transliteration: fafirrū
   2:
-    arabic: اِلَى
+    arabic: إِلَى
     translation: to
     transliteration: ilā
   3:
-    arabic: اللّٰهِ​ؕ
+    arabic: ٱللَّهِۖ
     translation: Allah
     transliteration: l-lahi
   4:
-    arabic: اِنِّىۡ
+    arabic: إِنِّي
     translation: indeed, I am
     transliteration: innī
   5:
-    arabic: لَـكُمۡ
+    arabic: لَكُم
     translation: to you
     transliteration: lakum
   6:
@@ -29,11 +28,11 @@ word_by_word:
     translation: from Him
     transliteration: min'hu
   7:
-    arabic: نَذِيۡرٌ
+    arabic: نَذِيرٞ
     translation: a warner
     transliteration: nadhīrun
   8:
-    arabic: "مُّبِيۡنٌ​ۚ‏ \uFEFF\uFEFF"
+    arabic: مُّبِينٞ
     translation: clear
     transliteration: mubīnun
 ---

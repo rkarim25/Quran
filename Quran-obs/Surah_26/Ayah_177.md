@@ -1,9 +1,9 @@
 ---
-arabic_ayat: اِذۡ قَالَ لَهُمۡ شُعَيۡبٌ اَلَا تَتَّقُوۡنَ​ۚ‏
+arabic_ayat: إِذۡ قَالَ لَهُمۡ شُعَيۡبٌ أَلَا تَتَّقُونَ
 sentence_translation: when Shu’aib said to them, “Will you not fear ˹Allah˺?
 word_by_word:
   1:
-    arabic: اِذۡ
+    arabic: إِذۡ
     translation: When
     transliteration: idh
   2:
@@ -19,11 +19,11 @@ word_by_word:
     translation: Shuaib
     transliteration: shuʿaybun
   5:
-    arabic: اَلَا
+    arabic: أَلَا
     translation: Will not
     transliteration: alā
   6:
-    arabic: تَتَّقُوۡنَ​ۚ‏
+    arabic: تَتَّقُونَ
     translation: you fear (Allah)
     transliteration: tattaqūna
 ---

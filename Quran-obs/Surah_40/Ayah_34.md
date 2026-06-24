@@ -1,8 +1,7 @@
 ---
-arabic_ayat: وَلَقَدۡ جَآءَكُمۡ يُوۡسُفُ مِنۡ قَبۡلُ بِالۡبَيِّنٰتِ فَمَا زِلۡـتُمۡ
-  فِىۡ شَكٍّ مِّمَّا جَآءَكُمۡ بِهٖ ؕ حَتّٰٓى اِذَا هَلَكَ قُلۡتُمۡ لَنۡ يَّبۡعَثَ
-  اللّٰهُ مِنۡۢ بَعۡدِهٖ رَسُوۡلًا ؕ كَذٰلِكَ يُضِلُّ اللّٰهُ مَنۡ هُوَ مُسۡرِفٌ مُّرۡتَابٌ 
-  ۚ ۖ‏
+arabic_ayat: وَلَقَدۡ جَآءَكُمۡ يُوسُفُ مِن قَبۡلُ بِٱلۡبَيِّنَٰتِ فَمَا زِلۡتُمۡ
+  فِي شَكّٖ مِّمَّا جَآءَكُم بِهِۦۖ حَتَّىٰٓ إِذَا هَلَكَ قُلۡتُمۡ لَن يَبۡعَثَ ٱللَّهُ
+  مِنۢ بَعۡدِهِۦ رَسُولٗاۚ كَذَٰلِكَ يُضِلُّ ٱللَّهُ مَنۡ هُوَ مُسۡرِفٞ مُّرۡتَابٌ
 sentence_translation: Joseph already came to you earlier with clear proofs, yet you
   never ceased to doubt what he came to you with. When he died you said, ‘Allah will
   never send a messenger after him.’ This is how Allah leaves every transgressor and
@@ -17,11 +16,11 @@ word_by_word:
     translation: came to you
     transliteration: jāakum
   3:
-    arabic: يُوۡسُفُ
+    arabic: يُوسُفُ
     translation: Yusuf
     transliteration: yūsufu
   4:
-    arabic: مِنۡ
+    arabic: مِن
     translation: before
     transliteration: min
   5:
@@ -29,7 +28,7 @@ word_by_word:
     translation: before
     transliteration: qablu
   6:
-    arabic: بِالۡبَيِّنٰتِ
+    arabic: بِٱلۡبَيِّنَٰتِ
     translation: with clear proofs
     transliteration: bil-bayināti
   7:
@@ -37,15 +36,15 @@ word_by_word:
     translation: but not
     transliteration: famā
   8:
-    arabic: زِلۡـتُمۡ
+    arabic: زِلۡتُمۡ
     translation: you ceased
     transliteration: zil'tum
   9:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   10:
-    arabic: شَكٍّ
+    arabic: شَكّٖ
     translation: doubt
     transliteration: shakkin
   11:
@@ -53,19 +52,19 @@ word_by_word:
     translation: about what
     transliteration: mimmā
   12:
-    arabic: جَآءَكُمۡ
+    arabic: جَآءَكُم
     translation: he brought to you
     transliteration: jāakum
   13:
-    arabic: بِهٖ ؕ
+    arabic: بِهِۦۖ
     translation: '[with it]'
     transliteration: bihi
   14:
-    arabic: حَتّٰٓى
+    arabic: حَتَّىٰٓ
     translation: until
     transliteration: ḥattā
   15:
-    arabic: اِذَا
+    arabic: إِذَا
     translation: when
     transliteration: idhā
   16:
@@ -77,31 +76,31 @@ word_by_word:
     translation: you said
     transliteration: qul'tum
   18:
-    arabic: لَنۡ
+    arabic: لَن
     translation: Never
     transliteration: lan
   19:
-    arabic: يَّبۡعَثَ
+    arabic: يَبۡعَثَ
     translation: will Allah raise
     transliteration: yabʿatha
   20:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: will Allah raise
     transliteration: l-lahu
   21:
-    arabic: مِنۡۢ
+    arabic: مِنۢ
     translation: after him
     transliteration: min
   22:
-    arabic: بَعۡدِهٖ
+    arabic: بَعۡدِهِۦ
     translation: after him
     transliteration: baʿdihi
   23:
-    arabic: رَسُوۡلًا ؕ
+    arabic: رَسُولٗاۚ
     translation: a Messenger
     transliteration: rasūlan
   24:
-    arabic: كَذٰلِكَ
+    arabic: كَذَٰلِكَ
     translation: Thus
     transliteration: kadhālika
   25:
@@ -109,7 +108,7 @@ word_by_word:
     translation: Allah lets go astray
     transliteration: yuḍillu
   26:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah lets go astray
     transliteration: l-lahu
   27:
@@ -121,11 +120,11 @@ word_by_word:
     translation: '[he]'
     transliteration: huwa
   29:
-    arabic: مُسۡرِفٌ
+    arabic: مُسۡرِفٞ
     translation: (is) a transgressor
     transliteration: mus'rifun
   30:
-    arabic: مُّرۡتَابٌ  ۚ ۖ‏
+    arabic: مُّرۡتَابٌ
     translation: a doubter
     transliteration: mur'tābun
 ---

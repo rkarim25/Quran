@@ -1,5 +1,5 @@
 ---
-arabic_ayat: وَهُوَ الَّذِىۡ ذَرَاَكُمۡ فِى الۡاَرۡضِ وَاِلَيۡهِ تُحۡشَرُوۡنَ‏
+arabic_ayat: وَهُوَ ٱلَّذِي ذَرَأَكُمۡ فِي ٱلۡأَرۡضِ وَإِلَيۡهِ تُحۡشَرُونَ
 sentence_translation: And He is the One Who has dispersed you ˹all˺ over the earth,
   and to Him you will ˹all˺ be gathered.
 word_by_word:
@@ -8,27 +8,27 @@ word_by_word:
     translation: And He
     transliteration: wahuwa
   2:
-    arabic: الَّذِىۡ
+    arabic: ٱلَّذِي
     translation: (is) the One Who
     transliteration: alladhī
   3:
-    arabic: ذَرَاَكُمۡ
+    arabic: ذَرَأَكُمۡ
     translation: multiplied you
     transliteration: dhara-akum
   4:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   5:
-    arabic: الۡاَرۡضِ
+    arabic: ٱلۡأَرۡضِ
     translation: the earth
     transliteration: l-arḍi
   6:
-    arabic: وَاِلَيۡهِ
+    arabic: وَإِلَيۡهِ
     translation: and to Him
     transliteration: wa-ilayhi
   7:
-    arabic: تُحۡشَرُوۡنَ‏
+    arabic: تُحۡشَرُونَ
     translation: you will be gathered
     transliteration: tuḥ'sharūna
 ---

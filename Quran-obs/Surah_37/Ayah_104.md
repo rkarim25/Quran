@@ -1,17 +1,17 @@
 ---
-arabic_ayat: وَنَادَيۡنٰهُ اَنۡ يّٰۤاِبۡرٰهِيۡمُۙ‏
+arabic_ayat: وَنَٰدَيۡنَٰهُ أَن يَٰٓإِبۡرَٰهِيمُ
 sentence_translation: We called out to him, “O Abraham!
 word_by_word:
   1:
-    arabic: وَنَادَيۡنٰهُ
+    arabic: وَنَٰدَيۡنَٰهُ
     translation: And We called out to him
     transliteration: wanādaynāhu
   2:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that
     transliteration: an
   3:
-    arabic: يّٰۤاِبۡرٰهِيۡمُۙ‏
+    arabic: يَٰٓإِبۡرَٰهِيمُ
     translation: O Ibrahim
     transliteration: yāib'rāhīmu
 ---

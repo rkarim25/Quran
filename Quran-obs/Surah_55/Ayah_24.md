@@ -1,5 +1,5 @@
 ---
-arabic_ayat: وَلَهُ الۡجَوَارِ الۡمُنۡشَئٰتُ فِى الۡبَحۡرِ كَالۡاَعۡلَامِ​ۚ‏
+arabic_ayat: وَلَهُ ٱلۡجَوَارِ ٱلۡمُنشَـَٔاتُ فِي ٱلۡبَحۡرِ كَٱلۡأَعۡلَٰمِ
 sentence_translation: To Him belong the ships with raised sails, sailing through the
   seas like mountains.
 word_by_word:
@@ -8,23 +8,23 @@ word_by_word:
     translation: And for Him
     transliteration: walahu
   2:
-    arabic: الۡجَوَارِ
+    arabic: ٱلۡجَوَارِ
     translation: (are) the ships
     transliteration: l-jawāri
   3:
-    arabic: الۡمُنۡشَئٰتُ
+    arabic: ٱلۡمُنشَـَٔاتُ
     translation: elevated
     transliteration: l-munshaātu
   4:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   5:
-    arabic: الۡبَحۡرِ
+    arabic: ٱلۡبَحۡرِ
     translation: the sea
     transliteration: l-baḥri
   6:
-    arabic: كَالۡاَعۡلَامِ​ۚ‏
+    arabic: كَٱلۡأَعۡلَٰمِ
     translation: like mountains
     transliteration: kal-aʿlāmi
 ---

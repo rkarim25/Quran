@@ -1,33 +1,33 @@
 ---
-arabic_ayat: اَوَلَمۡ يَنۡظُرُوۡا فِىۡ مَلَـكُوۡتِ السَّمٰوٰتِ وَالۡاَرۡضِ وَمَا خَلَقَ
-  اللّٰهُ مِنۡ شَىۡءٍ ۙ وَّاَنۡ عَسٰٓى اَنۡ يَّكُوۡنَ قَدِ اقۡتَرَبَ اَجَلُهُمۡ​ ۚ
-  فَبِاَىِّ حَدِيۡثٍۢ بَعۡدَهٗ يُؤۡمِنُوۡنَ‏
+arabic_ayat: أَوَلَمۡ يَنظُرُواْ فِي مَلَكُوتِ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِ وَمَا خَلَقَ
+  ٱللَّهُ مِن شَيۡءٖ وَأَنۡ عَسَىٰٓ أَن يَكُونَ قَدِ ٱقۡتَرَبَ أَجَلُهُمۡۖ فَبِأَيِّ
+  حَدِيثِۭ بَعۡدَهُۥ يُؤۡمِنُونَ
 sentence_translation: Have they ever reflected on the wonders of the heavens and the
   earth, and everything Allah has created, and that perhaps their end is near? So
   what message after this ˹Quran˺ would they believe in?
 word_by_word:
   1:
-    arabic: اَوَلَمۡ
+    arabic: أَوَلَمۡ
     translation: Do not
     transliteration: awalam
   2:
-    arabic: يَنۡظُرُوۡا
+    arabic: يَنظُرُواْ
     translation: they look
     transliteration: yanẓurū
   3:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   4:
-    arabic: مَلَـكُوۡتِ
+    arabic: مَلَكُوتِ
     translation: (the) dominion
     transliteration: malakūti
   5:
-    arabic: السَّمٰوٰتِ
+    arabic: ٱلسَّمَٰوَٰتِ
     translation: (of) the heavens
     transliteration: l-samāwāti
   6:
-    arabic: وَالۡاَرۡضِ
+    arabic: وَٱلۡأَرۡضِ
     translation: and the earth
     transliteration: wal-arḍi
   7:
@@ -39,31 +39,31 @@ word_by_word:
     translation: has (been) created
     transliteration: khalaqa
   9:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: (by) Allah
     transliteration: l-lahu
   10:
-    arabic: مِنۡ
+    arabic: مِن
     translation: of
     transliteration: min
   11:
-    arabic: شَىۡءٍ ۙ
+    arabic: شَيۡءٖ
     translation: (every)thing
     transliteration: shayin
   12:
-    arabic: وَّاَنۡ
+    arabic: وَأَنۡ
     translation: and that
     transliteration: wa-an
   13:
-    arabic: عَسٰٓى
+    arabic: عَسَىٰٓ
     translation: perhaps
     transliteration: ʿasā
   14:
-    arabic: اَنۡ
+    arabic: أَن
     translation: '[that]'
     transliteration: an
   15:
-    arabic: يَّكُوۡنَ
+    arabic: يَكُونَ
     translation: has
     transliteration: yakūna
   16:
@@ -71,27 +71,27 @@ word_by_word:
     translation: verily
     transliteration: qadi
   17:
-    arabic: اقۡتَرَبَ
+    arabic: ٱقۡتَرَبَ
     translation: 'come near '
     transliteration: iq'taraba
   18:
-    arabic: اَجَلُهُمۡ​ ۚ
+    arabic: أَجَلُهُمۡۖ
     translation: their term
     transliteration: ajaluhum
   19:
-    arabic: فَبِاَىِّ
+    arabic: فَبِأَيِّ
     translation: So in what
     transliteration: fabi-ayyi
   20:
-    arabic: حَدِيۡثٍۢ
+    arabic: حَدِيثِۭ
     translation: statement
     transliteration: ḥadīthin
   21:
-    arabic: بَعۡدَهٗ
+    arabic: بَعۡدَهُۥ
     translation: after this
     transliteration: baʿdahu
   22:
-    arabic: يُؤۡمِنُوۡنَ‏
+    arabic: يُؤۡمِنُونَ
     translation: will they believe
     transliteration: yu'minūna
 ---

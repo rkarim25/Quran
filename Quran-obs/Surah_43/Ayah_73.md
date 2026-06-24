@@ -1,5 +1,5 @@
 ---
-arabic_ayat: لَكُمۡ فِيۡهَا فَاكِهَةٌ كَثِيۡرَةٌ مِّنۡهَا تَاۡكُلُوۡنَ‏
+arabic_ayat: لَكُمۡ فِيهَا فَٰكِهَةٞ كَثِيرَةٞ مِّنۡهَا تَأۡكُلُونَ
 sentence_translation: There you will have abundant fruit to eat from.
 word_by_word:
   1:
@@ -7,15 +7,15 @@ word_by_word:
     translation: For you
     transliteration: lakum
   2:
-    arabic: فِيۡهَا
+    arabic: فِيهَا
     translation: therein
     transliteration: fīhā
   3:
-    arabic: فَاكِهَةٌ
+    arabic: فَٰكِهَةٞ
     translation: (are) fruits
     transliteration: fākihatun
   4:
-    arabic: كَثِيۡرَةٌ
+    arabic: كَثِيرَةٞ
     translation: abundant
     transliteration: kathīratun
   5:
@@ -23,7 +23,7 @@ word_by_word:
     translation: from it
     transliteration: min'hā
   6:
-    arabic: تَاۡكُلُوۡنَ‏
+    arabic: تَأۡكُلُونَ
     translation: you will eat
     transliteration: takulūna
 ---

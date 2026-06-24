@@ -1,21 +1,21 @@
 ---
-arabic_ayat: فِيۡمَ اَنۡتَ مِنۡ ذِكۡرٰٮهَاؕ‏
+arabic_ayat: فِيمَ أَنتَ مِن ذِكۡرَىٰهَآ
 sentence_translation: But it is not for you to tell its time.
 word_by_word:
   1:
-    arabic: فِيۡمَ
+    arabic: فِيمَ
     translation: In what
     transliteration: fīma
   2:
-    arabic: اَنۡتَ
+    arabic: أَنتَ
     translation: (are) you
     transliteration: anta
   3:
-    arabic: مِنۡ
+    arabic: مِن
     translation: '[of]'
     transliteration: min
   4:
-    arabic: ذِكۡرٰٮهَاؕ‏
+    arabic: ذِكۡرَىٰهَآ
     translation: (to) mention it
     transliteration: dhik'rāhā
 ---

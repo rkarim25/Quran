@@ -1,15 +1,14 @@
 ---
-arabic_ayat: وَسۡـــَٔلۡهُمۡ عَنِ الۡـقَرۡيَةِ الَّتِىۡ كَانَتۡ حَاضِرَةَ الۡبَحۡرِ​ۘ
-  اِذۡ يَعۡدُوۡنَ فِى السَّبۡتِ اِذۡ تَاۡتِيۡهِمۡ حِيۡتَانُهُمۡ يَوۡمَ سَبۡتِهِمۡ
-  شُرَّعًا وَّيَوۡمَ لَا يَسۡبِتُوۡنَ​ ۙ لَا تَاۡتِيۡهِمۡ​​ ۛۚ كَذٰلِكَ ​ۛۚ نَبۡلُوۡهُمۡ
-  بِمَا كَانُوۡا يَفۡسُقُوۡنَ‏
+arabic_ayat: وَسۡـَٔلۡهُمۡ عَنِ ٱلۡقَرۡيَةِ ٱلَّتِي كَانَتۡ حَاضِرَةَ ٱلۡبَحۡرِ إِذۡ
+  يَعۡدُونَ فِي ٱلسَّبۡتِ إِذۡ تَأۡتِيهِمۡ حِيتَانُهُمۡ يَوۡمَ سَبۡتِهِمۡ شُرَّعٗا
+  وَيَوۡمَ لَا يَسۡبِتُونَ لَا تَأۡتِيهِمۡۚ كَذَٰلِكَ نَبۡلُوهُم بِمَا كَانُواْ يَفۡسُقُونَ
 sentence_translation: Ask them ˹O Prophet˺ about ˹the people of˺ the town which was
   by the sea, who broke the Sabbath. During the Sabbath, ˹abundant˺ fish would come
   to them clearly visible, but on other days the fish were never seen. In this way
   We tested them for their rebelliousness.
 word_by_word:
   1:
-    arabic: وَسۡـــَٔلۡهُمۡ
+    arabic: وَسۡـَٔلۡهُمۡ
     translation: And ask them
     transliteration: wasalhum
   2:
@@ -17,11 +16,11 @@ word_by_word:
     translation: about
     transliteration: ʿani
   3:
-    arabic: الۡـقَرۡيَةِ
+    arabic: ٱلۡقَرۡيَةِ
     translation: the town
     transliteration: l-qaryati
   4:
-    arabic: الَّتِىۡ
+    arabic: ٱلَّتِي
     translation: which
     transliteration: allatī
   5:
@@ -33,35 +32,35 @@ word_by_word:
     translation: situated
     transliteration: ḥāḍirata
   7:
-    arabic: الۡبَحۡرِ​ۘ
+    arabic: ٱلۡبَحۡرِ
     translation: (by) the sea
     transliteration: l-baḥri
   8:
-    arabic: اِذۡ
+    arabic: إِذۡ
     translation: when
     transliteration: idh
   9:
-    arabic: يَعۡدُوۡنَ
+    arabic: يَعۡدُونَ
     translation: they transgressed
     transliteration: yaʿdūna
   10:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   11:
-    arabic: السَّبۡتِ
+    arabic: ٱلسَّبۡتِ
     translation: the (matter of) Sabbath
     transliteration: l-sabti
   12:
-    arabic: اِذۡ
+    arabic: إِذۡ
     translation: when
     transliteration: idh
   13:
-    arabic: تَاۡتِيۡهِمۡ
+    arabic: تَأۡتِيهِمۡ
     translation: came to them
     transliteration: tatīhim
   14:
-    arabic: حِيۡتَانُهُمۡ
+    arabic: حِيتَانُهُمۡ
     translation: their fish
     transliteration: ḥītānuhum
   15:
@@ -73,11 +72,11 @@ word_by_word:
     translation: (of) their Sabbath
     transliteration: sabtihim
   17:
-    arabic: شُرَّعًا
+    arabic: شُرَّعٗا
     translation: visibly
     transliteration: shurraʿan
   18:
-    arabic: وَّيَوۡمَ
+    arabic: وَيَوۡمَ
     translation: and (on the) day
     transliteration: wayawma
   19:
@@ -85,7 +84,7 @@ word_by_word:
     translation: not
     transliteration: lā
   20:
-    arabic: يَسۡبِتُوۡنَ​ ۙ
+    arabic: يَسۡبِتُونَ
     translation: they had Sabbath
     transliteration: yasbitūna
   21:
@@ -93,15 +92,15 @@ word_by_word:
     translation: (they did) not
     transliteration: lā
   22:
-    arabic: تَاۡتِيۡهِمۡ​​ ۛۚ
+    arabic: تَأۡتِيهِمۡۚ
     translation: come to them
     transliteration: tatīhim
   23:
-    arabic: كَذٰلِكَ ​ۛۚ
+    arabic: كَذَٰلِكَ
     translation: Thus
     transliteration: kadhālika
   24:
-    arabic: نَبۡلُوۡهُمۡ
+    arabic: نَبۡلُوهُم
     translation: We test them
     transliteration: nablūhum
   25:
@@ -109,11 +108,11 @@ word_by_word:
     translation: because
     transliteration: bimā
   26:
-    arabic: كَانُوۡا
+    arabic: كَانُواْ
     translation: they were
     transliteration: kānū
   27:
-    arabic: يَفۡسُقُوۡنَ‏
+    arabic: يَفۡسُقُونَ
     translation: defiantly disobeying
     transliteration: yafsuqūna
 ---

@@ -1,6 +1,6 @@
 ---
-arabic_ayat: وَصَدَّهَا مَا كَانَتۡ تَّعۡبُدُ مِنۡ دُوۡنِ اللّٰهِ​ؕ اِنَّهَا كَانَتۡ
-  مِنۡ قَوۡمٍ كٰفِرِيۡنَ‏
+arabic_ayat: وَصَدَّهَا مَا كَانَت تَّعۡبُدُ مِن دُونِ ٱللَّهِۖ إِنَّهَا كَانَتۡ مِن
+  قَوۡمٖ كَٰفِرِينَ
 sentence_translation: But she had been hindered by what she used to worship instead
   of Allah, for she was indeed from a disbelieving people.
 word_by_word:
@@ -13,7 +13,7 @@ word_by_word:
     translation: what
     transliteration: mā
   3:
-    arabic: كَانَتۡ
+    arabic: كَانَت
     translation: she used (to)
     transliteration: kānat
   4:
@@ -21,19 +21,19 @@ word_by_word:
     translation: worship
     transliteration: taʿbudu
   5:
-    arabic: مِنۡ
+    arabic: مِن
     translation: besides
     transliteration: min
   6:
-    arabic: دُوۡنِ
+    arabic: دُونِ
     translation: besides
     transliteration: dūni
   7:
-    arabic: اللّٰهِ​ؕ
+    arabic: ٱللَّهِۖ
     translation: Allah
     transliteration: l-lahi
   8:
-    arabic: اِنَّهَا
+    arabic: إِنَّهَا
     translation: Indeed, she
     transliteration: innahā
   9:
@@ -41,15 +41,15 @@ word_by_word:
     translation: was
     transliteration: kānat
   10:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   11:
-    arabic: قَوۡمٍ
+    arabic: قَوۡمٖ
     translation: a people
     transliteration: qawmin
   12:
-    arabic: كٰفِرِيۡنَ‏
+    arabic: كَٰفِرِينَ
     translation: who disbelieve
     transliteration: kāfirīna
 ---

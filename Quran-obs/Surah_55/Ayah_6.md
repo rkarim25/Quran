@@ -1,17 +1,17 @@
 ---
-arabic_ayat: وَّالنَّجۡمُ وَالشَّجَرُ يَسۡجُدٰنِ‏
+arabic_ayat: وَٱلنَّجۡمُ وَٱلشَّجَرُ يَسۡجُدَانِ
 sentence_translation: The stars and the trees bow down ˹in submission˺.
 word_by_word:
   1:
-    arabic: وَّالنَّجۡمُ
+    arabic: وَٱلنَّجۡمُ
     translation: And the stars
     transliteration: wal-najmu
   2:
-    arabic: وَالشَّجَرُ
+    arabic: وَٱلشَّجَرُ
     translation: and the trees
     transliteration: wal-shajaru
   3:
-    arabic: يَسۡجُدٰنِ‏
+    arabic: يَسۡجُدَانِ
     translation: both prostrate
     transliteration: yasjudāni
 ---

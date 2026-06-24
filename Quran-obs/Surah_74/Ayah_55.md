@@ -1,9 +1,9 @@
 ---
-arabic_ayat: فَمَنۡ شَآءَ ذَكَرَهٗ ؕ‏
+arabic_ayat: فَمَن شَآءَ ذَكَرَهُۥ
 sentence_translation: So let whoever wills be mindful of it.
 word_by_word:
   1:
-    arabic: فَمَنۡ
+    arabic: فَمَن
     translation: So whoever
     transliteration: faman
   2:
@@ -11,7 +11,7 @@ word_by_word:
     translation: wills
     transliteration: shāa
   3:
-    arabic: ذَكَرَهٗ ؕ‏
+    arabic: ذَكَرَهُۥ
     translation: (may) pay heed to it
     transliteration: dhakarahu
 ---

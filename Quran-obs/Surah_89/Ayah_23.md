@@ -1,43 +1,43 @@
 ---
-arabic_ayat: وَجِاىْٓءَ يَوۡمَٮِٕذٍۢ بِجَهَنَّمَ  ۙ​ يَوۡمَٮِٕذٍ يَّتَذَكَّرُ الۡاِنۡسَانُ
-  وَاَنّٰى لَـهُ الذِّكۡرٰىؕ‏
+arabic_ayat: وَجِاْيٓءَ يَوۡمَئِذِۭ بِجَهَنَّمَۚ يَوۡمَئِذٖ يَتَذَكَّرُ ٱلۡإِنسَٰنُ
+  وَأَنَّىٰ لَهُ ٱلذِّكۡرَىٰ
 sentence_translation: and Hell is brought forth on that Day—this is when every ˹disbelieving˺
   person will remember ˹their own sins˺. But what is the use of remembering then?
 word_by_word:
   1:
-    arabic: وَجِاىْٓءَ
+    arabic: وَجِاْيٓءَ
     translation: And is brought
     transliteration: wajīa
   2:
-    arabic: يَوۡمَٮِٕذٍۢ
+    arabic: يَوۡمَئِذِۭ
     translation: that Day
     transliteration: yawma-idhin
   3:
-    arabic: بِجَهَنَّمَ  ۙ​
+    arabic: بِجَهَنَّمَۚ
     translation: Hell
     transliteration: bijahannama
   4:
-    arabic: يَوۡمَٮِٕذٍ
+    arabic: يَوۡمَئِذٖ
     translation: That Day
     transliteration: yawma-idhin
   5:
-    arabic: يَّتَذَكَّرُ
+    arabic: يَتَذَكَّرُ
     translation: will remember
     transliteration: yatadhakkaru
   6:
-    arabic: الۡاِنۡسَانُ
+    arabic: ٱلۡإِنسَٰنُ
     translation: man
     transliteration: l-insānu
   7:
-    arabic: وَاَنّٰى
+    arabic: وَأَنَّىٰ
     translation: but how
     transliteration: wa-annā
   8:
-    arabic: لَـهُ
+    arabic: لَهُ
     translation: (will be) for him
     transliteration: lahu
   9:
-    arabic: الذِّكۡرٰىؕ‏
+    arabic: ٱلذِّكۡرَىٰ
     translation: the remembrance
     transliteration: l-dhik'rā
 ---

@@ -1,15 +1,15 @@
 ---
-arabic_ayat: اِنَّ اللّٰهَ يَعۡلَمُ غَيۡبَ السَّمٰوٰتِ وَالۡاَرۡضِ​ؕ وَاللّٰهُ بَصِيۡرٌۢ
-  بِمَا تَعۡمَلُوۡنَ‏
+arabic_ayat: إِنَّ ٱللَّهَ يَعۡلَمُ غَيۡبَ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِۚ وَٱللَّهُ بَصِيرُۢ
+  بِمَا تَعۡمَلُونَ
 sentence_translation: Surely Allah knows the unseen of the heavens and earth. And
   Allah is All-Seeing of what you do.”
 word_by_word:
   1:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   2:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   3:
@@ -21,19 +21,19 @@ word_by_word:
     translation: (the) unseen
     transliteration: ghayba
   5:
-    arabic: السَّمٰوٰتِ
+    arabic: ٱلسَّمَٰوَٰتِ
     translation: (of) the heavens
     transliteration: l-samāwāti
   6:
-    arabic: وَالۡاَرۡضِ​ؕ
+    arabic: وَٱلۡأَرۡضِۚ
     translation: and the earth
     transliteration: wal-arḍi
   7:
-    arabic: وَاللّٰهُ
+    arabic: وَٱللَّهُ
     translation: And Allah
     transliteration: wal-lahu
   8:
-    arabic: بَصِيۡرٌۢ
+    arabic: بَصِيرُۢ
     translation: (is) All-Seer
     transliteration: baṣīrun
   9:
@@ -41,7 +41,7 @@ word_by_word:
     translation: of what
     transliteration: bimā
   10:
-    arabic: تَعۡمَلُوۡنَ‏
+    arabic: تَعۡمَلُونَ
     translation: you do
     transliteration: taʿmalūna
 ---

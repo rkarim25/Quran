@@ -1,18 +1,17 @@
 ---
-arabic_ayat: "اَمۡ اَنَا خَيۡرٌ مِّنۡ هٰذَا الَّذِىۡ هُوَ مَهِيۡنٌ ۙ وَّلَا يَكَادُ\
-  \ يُبِيۡنُ‏ \uFEFF\uFEFF"
+arabic_ayat: أَمۡ أَنَا۠ خَيۡرٞ مِّنۡ هَٰذَا ٱلَّذِي هُوَ مَهِينٞ وَلَا يَكَادُ يُبِينُ
 sentence_translation: Am I not better than this nobody who can hardly express himself?
 word_by_word:
   1:
-    arabic: اَمۡ
+    arabic: أَمۡ
     translation: Or
     transliteration: am
   2:
-    arabic: اَنَا
+    arabic: أَنَا۠
     translation: am I
     transliteration: anā
   3:
-    arabic: خَيۡرٌ
+    arabic: خَيۡرٞ
     translation: better
     transliteration: khayrun
   4:
@@ -20,11 +19,11 @@ word_by_word:
     translation: than
     transliteration: min
   5:
-    arabic: هٰذَا
+    arabic: هَٰذَا
     translation: this
     transliteration: hādhā
   6:
-    arabic: الَّذِىۡ
+    arabic: ٱلَّذِي
     translation: 'one who '
     transliteration: alladhī
   7:
@@ -32,11 +31,11 @@ word_by_word:
     translation: he
     transliteration: huwa
   8:
-    arabic: مَهِيۡنٌ ۙ
+    arabic: مَهِينٞ
     translation: (is) insignificant
     transliteration: mahīnun
   9:
-    arabic: وَّلَا
+    arabic: وَلَا
     translation: and hardly
     transliteration: walā
   10:
@@ -44,7 +43,7 @@ word_by_word:
     translation: and hardly
     transliteration: yakādu
   11:
-    arabic: "يُبِيۡنُ‏ \uFEFF\uFEFF"
+    arabic: يُبِينُ
     translation: clear
     transliteration: yubīnu
 ---

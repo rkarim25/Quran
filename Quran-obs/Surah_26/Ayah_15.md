@@ -1,6 +1,5 @@
 ---
-arabic_ayat: "قَالَ كَلَّا​ ۚ فَاذۡهَبَا بِاٰيٰتِنَآ​ اِنَّا مَعَكُمۡ مُّسۡتَمِعُوۡنَ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: قَالَ كـَلَّاۖ فَٱذۡهَبَا بِـَٔايَٰتِنَآۖ إِنَّا مَعَكُم مُّسۡتَمِعُونَ
 sentence_translation: Allah responded, “Certainly not! So go, both of you, with Our
   signs. We will be with you, listening.
 word_by_word:
@@ -9,27 +8,27 @@ word_by_word:
     translation: He said
     transliteration: qāla
   2:
-    arabic: كَلَّا​ ۚ
+    arabic: كـَلَّاۖ
     translation: Nay
     transliteration: kallā
   3:
-    arabic: فَاذۡهَبَا
+    arabic: فَٱذۡهَبَا
     translation: go both of you
     transliteration: fa-idh'habā
   4:
-    arabic: بِاٰيٰتِنَآ​
+    arabic: بِـَٔايَٰتِنَآۖ
     translation: with Our Signs
     transliteration: biāyātinā
   5:
-    arabic: اِنَّا
+    arabic: إِنَّا
     translation: Indeed, We
     transliteration: innā
   6:
-    arabic: مَعَكُمۡ
+    arabic: مَعَكُم
     translation: (are) with you
     transliteration: maʿakum
   7:
-    arabic: "مُّسۡتَمِعُوۡنَ‏ \uFEFF\uFEFF"
+    arabic: مُّسۡتَمِعُونَ
     translation: listening
     transliteration: mus'tamiʿūna
 ---

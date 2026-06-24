@@ -1,8 +1,8 @@
 ---
-arabic_ayat: اٰمَنَ الرَّسُوۡلُ بِمَاۤ اُنۡزِلَ اِلَيۡهِ مِنۡ رَّبِّهٖ وَ الۡمُؤۡمِنُوۡنَ​ؕ
-  كُلٌّ اٰمَنَ بِاللّٰهِ وَمَلٰٓٮِٕكَتِهٖ وَكُتُبِهٖ وَرُسُلِهٖ لَا نُفَرِّقُ بَيۡنَ
-  اَحَدٍ مِّنۡ رُّسُلِهٖ​ وَقَالُوۡا سَمِعۡنَا وَاَطَعۡنَا​ غُفۡرَانَكَ رَبَّنَا
-  وَاِلَيۡكَ الۡمَصِيۡرُ‏
+arabic_ayat: ءَامَنَ ٱلرَّسُولُ بِمَآ أُنزِلَ إِلَيۡهِ مِن رَّبِّهِۦ وَٱلۡمُؤۡمِنُونَۚ
+  كُلٌّ ءَامَنَ بِٱللَّهِ وَمَلَٰٓئِكَتِهِۦ وَكُتُبِهِۦ وَرُسُلِهِۦ لَا نُفَرِّقُ
+  بَيۡنَ أَحَدٖ مِّن رُّسُلِهِۦۚ وَقَالُواْ سَمِعۡنَا وَأَطَعۡنَاۖ غُفۡرَانَكَ رَبَّنَا
+  وَإِلَيۡكَ ٱلۡمَصِيرُ
 sentence_translation: The Messenger ˹firmly˺ believes in what has been revealed to
   him from his Lord, and so do the believers. They ˹all˺ believe in Allah, His angels,
   His Books, and His messengers. ˹They proclaim,˺ “We make no distinction between
@@ -10,59 +10,59 @@ sentence_translation: The Messenger ˹firmly˺ believes in what has been reveale
   our Lord! And to You ˹alone˺ is the final return.”
 word_by_word:
   1:
-    arabic: اٰمَنَ
+    arabic: ءَامَنَ
     translation: Believed
     transliteration: āmana
   2:
-    arabic: الرَّسُوۡلُ
+    arabic: ٱلرَّسُولُ
     translation: the Messenger
     transliteration: l-rasūlu
   3:
-    arabic: بِمَاۤ
+    arabic: بِمَآ
     translation: in what
     transliteration: bimā
   4:
-    arabic: اُنۡزِلَ
+    arabic: أُنزِلَ
     translation: was revealed
     transliteration: unzila
   5:
-    arabic: اِلَيۡهِ
+    arabic: إِلَيۡهِ
     translation: to him
     transliteration: ilayhi
   6:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   7:
-    arabic: رَّبِّهٖ
+    arabic: رَّبِّهِۦ
     translation: his Lord
     transliteration: rabbihi
   8:
-    arabic: وَ الۡمُؤۡمِنُوۡنَ​ؕ
+    arabic: وَٱلۡمُؤۡمِنُونَۚ
     translation: and the believers
     transliteration: wal-mu'minūna
   9:
-    arabic: كُلٌّ
+    arabic: كُلٌّ ءَ
     translation: All
     transliteration: kullun
   10:
-    arabic: اٰمَنَ
+    arabic: امَنَ
     translation: believed
     transliteration: āmana
   11:
-    arabic: بِاللّٰهِ
+    arabic: بِٱللَّهِ
     translation: in Allah
     transliteration: bil-lahi
   12:
-    arabic: وَمَلٰٓٮِٕكَتِهٖ
+    arabic: وَمَلَٰٓئِكَتِهِۦ
     translation: and His Angels
     transliteration: wamalāikatihi
   13:
-    arabic: وَكُتُبِهٖ
+    arabic: وَكُتُبِهِۦ
     translation: and His Books
     transliteration: wakutubihi
   14:
-    arabic: وَرُسُلِهٖ
+    arabic: وَرُسُلِهِۦ
     translation: and His Messengers
     transliteration: warusulihi
   15:
@@ -78,19 +78,19 @@ word_by_word:
     translation: between
     transliteration: bayna
   18:
-    arabic: اَحَدٍ
+    arabic: أَحَدٖ
     translation: any
     transliteration: aḥadin
   19:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: of
     transliteration: min
   20:
-    arabic: رُّسُلِهٖ​
+    arabic: رُّسُلِهِۦۚ
     translation: His messengers
     transliteration: rusulihi
   21:
-    arabic: وَقَالُوۡا
+    arabic: وَقَالُواْ
     translation: And they said
     transliteration: waqālū
   22:
@@ -98,7 +98,7 @@ word_by_word:
     translation: We heard
     transliteration: samiʿ'nā
   23:
-    arabic: وَاَطَعۡنَا​
+    arabic: وَأَطَعۡنَاۖ
     translation: and we obeyed
     transliteration: wa-aṭaʿnā
   24:
@@ -110,11 +110,11 @@ word_by_word:
     translation: our Lord
     transliteration: rabbanā
   26:
-    arabic: وَاِلَيۡكَ
+    arabic: وَإِلَيۡكَ
     translation: and to You
     transliteration: wa-ilayka
   27:
-    arabic: الۡمَصِيۡرُ‏
+    arabic: ٱلۡمَصِيرُ
     translation: (is) the return
     transliteration: l-maṣīru
 ---

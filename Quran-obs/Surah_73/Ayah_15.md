@@ -1,27 +1,27 @@
 ---
-arabic_ayat: اِنَّاۤ اَرۡسَلۡنَاۤ اِلَيۡكُمۡ رَسُوۡلًا ۙ شَاهِدًا عَلَيۡكُمۡ كَمَاۤ
-  اَرۡسَلۡنَاۤ اِلٰى فِرۡعَوۡنَ رَسُوۡلًا ؕ‏
+arabic_ayat: إِنَّآ أَرۡسَلۡنَآ إِلَيۡكُمۡ رَسُولٗا شَٰهِدًا عَلَيۡكُمۡ كَمَآ أَرۡسَلۡنَآ
+  إِلَىٰ فِرۡعَوۡنَ رَسُولٗا
 sentence_translation: Indeed, We have sent to you a messenger as a witness over you,
   just as We sent a messenger to Pharaoh.
 word_by_word:
   1:
-    arabic: اِنَّاۤ
+    arabic: إِنَّآ
     translation: Indeed, We
     transliteration: innā
   2:
-    arabic: اَرۡسَلۡنَاۤ
+    arabic: أَرۡسَلۡنَآ
     translation: '[We] have sent'
     transliteration: arsalnā
   3:
-    arabic: اِلَيۡكُمۡ
+    arabic: إِلَيۡكُمۡ
     translation: to you
     transliteration: ilaykum
   4:
-    arabic: رَسُوۡلًا ۙ
+    arabic: رَسُولٗا
     translation: a Messenger
     transliteration: rasūlan
   5:
-    arabic: شَاهِدًا
+    arabic: شَٰهِدًا
     translation: (as) a witness
     transliteration: shāhidan
   6:
@@ -29,15 +29,15 @@ word_by_word:
     translation: upon you
     transliteration: ʿalaykum
   7:
-    arabic: كَمَاۤ
+    arabic: كَمَآ
     translation: as
     transliteration: kamā
   8:
-    arabic: اَرۡسَلۡنَاۤ
+    arabic: أَرۡسَلۡنَآ
     translation: We sent
     transliteration: arsalnā
   9:
-    arabic: اِلٰى
+    arabic: إِلَىٰ
     translation: to
     transliteration: ilā
   10:
@@ -45,7 +45,7 @@ word_by_word:
     translation: Firaun
     transliteration: fir'ʿawna
   11:
-    arabic: رَسُوۡلًا ؕ‏
+    arabic: رَسُولٗا
     translation: a Messenger
     transliteration: rasūlan
 ---

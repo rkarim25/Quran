@@ -1,18 +1,18 @@
 ---
-arabic_ayat: وَلَـقَدۡ اَرۡسَلۡنَا مِنۡ قَبۡلِكَ فِىۡ شِيَعِ الۡاَوَّلِيۡنَ‏
+arabic_ayat: وَلَقَدۡ أَرۡسَلۡنَا مِن قَبۡلِكَ فِي شِيَعِ ٱلۡأَوَّلِينَ
 sentence_translation: Indeed, We sent messengers before you ˹O Prophet˺ among the
   groups of early peoples,
 word_by_word:
   1:
-    arabic: وَلَـقَدۡ
+    arabic: وَلَقَدۡ
     translation: And certainly
     transliteration: walaqad
   2:
-    arabic: اَرۡسَلۡنَا
+    arabic: أَرۡسَلۡنَا
     translation: We (had) sent
     transliteration: arsalnā
   3:
-    arabic: مِنۡ
+    arabic: مِن
     translation: before you
     transliteration: min
   4:
@@ -20,7 +20,7 @@ word_by_word:
     translation: before you
     transliteration: qablika
   5:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   6:
@@ -28,7 +28,7 @@ word_by_word:
     translation: the sects
     transliteration: shiyaʿi
   7:
-    arabic: الۡاَوَّلِيۡنَ‏
+    arabic: ٱلۡأَوَّلِينَ
     translation: (of) the former (people)
     transliteration: l-awalīna
 ---

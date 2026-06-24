@@ -1,21 +1,21 @@
 ---
-arabic_ayat: فَلۡيَنۡظُرِ الۡاِنۡسَانُ اِلٰى طَعَامِهٖۤۙ‏
+arabic_ayat: فَلۡيَنظُرِ ٱلۡإِنسَٰنُ إِلَىٰ طَعَامِهِۦٓ
 sentence_translation: 'Let people then consider their food:'
 word_by_word:
   1:
-    arabic: فَلۡيَنۡظُرِ
+    arabic: فَلۡيَنظُرِ
     translation: Then let look
     transliteration: falyanẓuri
   2:
-    arabic: الۡاِنۡسَانُ
+    arabic: ٱلۡإِنسَٰنُ
     translation: the man
     transliteration: l-insānu
   3:
-    arabic: اِلٰى
+    arabic: إِلَىٰ
     translation: at
     transliteration: ilā
   4:
-    arabic: طَعَامِهٖۤۙ‏
+    arabic: طَعَامِهِۦٓ
     translation: his food
     transliteration: ṭaʿāmihi
 ---

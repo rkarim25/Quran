@@ -1,23 +1,23 @@
 ---
-arabic_ayat: جَنّٰتُ عَدۡنٍ تَجۡرِىۡ مِنۡ تَحۡتِهَا الۡاَنۡهٰرُ خٰلِدِيۡنَ فِيۡهَا​
-  ؕ وَذٰ لِكَ جَزَآءُ مَنۡ تَزَكّٰى‏
+arabic_ayat: جَنَّٰتُ عَدۡنٖ تَجۡرِي مِن تَحۡتِهَا ٱلۡأَنۡهَٰرُ خَٰلِدِينَ فِيهَاۚ
+  وَذَٰلِكَ جَزَآءُ مَن تَزَكَّىٰ
 sentence_translation: the Gardens of Eternity, under which rivers flow, where they
   will stay forever. That is the reward of those who purify themselves.
 word_by_word:
   1:
-    arabic: جَنّٰتُ
+    arabic: جَنَّٰتُ
     translation: Gardens
     transliteration: jannātu
   2:
-    arabic: عَدۡنٍ
+    arabic: عَدۡنٖ
     translation: (of) Eden
     transliteration: ʿadnin
   3:
-    arabic: تَجۡرِىۡ
+    arabic: تَجۡرِي
     translation: flows
     transliteration: tajrī
   4:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   5:
@@ -25,19 +25,19 @@ word_by_word:
     translation: underneath them
     transliteration: taḥtihā
   6:
-    arabic: الۡاَنۡهٰرُ
+    arabic: ٱلۡأَنۡهَٰرُ
     translation: the rivers
     transliteration: l-anhāru
   7:
-    arabic: خٰلِدِيۡنَ
+    arabic: خَٰلِدِينَ
     translation: abiding forever
     transliteration: khālidīna
   8:
-    arabic: فِيۡهَا​ ؕ
+    arabic: فِيهَاۚ
     translation: in it
     transliteration: fīhā
   9:
-    arabic: وَذٰ لِكَ
+    arabic: وَذَٰلِكَ
     translation: And that
     transliteration: wadhālika
   10:
@@ -45,11 +45,11 @@ word_by_word:
     translation: (is) the reward
     transliteration: jazāu
   11:
-    arabic: مَنۡ
+    arabic: مَن
     translation: (for him) who
     transliteration: man
   12:
-    arabic: تَزَكّٰى‏
+    arabic: تَزَكَّىٰ
     translation: purifies himself
     transliteration: tazakkā
 ---

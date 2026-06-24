@@ -1,47 +1,47 @@
 ---
-arabic_ayat: وَاَيُّوۡبَ اِذۡ نَادٰى رَبَّهٗۤ اَنِّىۡ مَسَّنِىَ الضُّرُّ وَاَنۡتَ
-  اَرۡحَمُ الرّٰحِمِيۡنَ​ ۖ​ۚ‏
+arabic_ayat: ۞ وَأَيُّوبَ إِذۡ نَادَىٰ رَبَّهُۥٓ أَنِّي مَسَّنِيَ ٱلضُّرُّ وَأَنتَ
+  أَرۡحَمُ ٱلرَّٰحِمِينَ
 sentence_translation: And ˹remember˺ when Job cried out to his Lord, “I have been
   touched with adversity, and You are the Most Merciful of the merciful.”
 word_by_word:
   1:
-    arabic: ۞ وَاَيُّوۡبَ
+    arabic: ۞ وَأَيُّوبَ
     translation: And Ayub
     transliteration: wa-ayyūba
   2:
-    arabic: اِذۡ
+    arabic: إِذۡ
     translation: when
     transliteration: idh
   3:
-    arabic: نَادٰى
+    arabic: نَادَىٰ
     translation: he called
     transliteration: nādā
   4:
-    arabic: رَبَّهٗۤ
+    arabic: رَبَّهُۥٓ
     translation: (to) his Lord
     transliteration: rabbahu
   5:
-    arabic: اَنِّىۡ
+    arabic: أَنِّي
     translation: Indeed, [I]
     transliteration: annī
   6:
-    arabic: مَسَّنِىَ
+    arabic: مَسَّنِيَ
     translation: has touched me
     transliteration: massaniya
   7:
-    arabic: الضُّرُّ
+    arabic: ٱلضُّرُّ
     translation: the adversity
     transliteration: l-ḍuru
   8:
-    arabic: وَاَنۡتَ
+    arabic: وَأَنتَ
     translation: and You
     transliteration: wa-anta
   9:
-    arabic: اَرۡحَمُ
+    arabic: أَرۡحَمُ
     translation: (are) Most Merciful
     transliteration: arḥamu
   10:
-    arabic: الرّٰحِمِيۡنَ​ ۖ​ۚ‏
+    arabic: ٱلرَّٰحِمِينَ
     translation: (of) the Merciful
     transliteration: l-rāḥimīna
 ---

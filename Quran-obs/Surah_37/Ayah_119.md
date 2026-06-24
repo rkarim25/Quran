@@ -1,5 +1,5 @@
 ---
-arabic_ayat: وَتَرَكۡنَا عَلَيۡهِمَا فِى الۡاٰخِرِيۡنَۙ‏
+arabic_ayat: وَتَرَكۡنَا عَلَيۡهِمَا فِي ٱلۡأٓخِرِينَ
 sentence_translation: 'And We blessed them ˹with honourable mention˺ among later generations:'
 word_by_word:
   1:
@@ -11,11 +11,11 @@ word_by_word:
     translation: for both of them
     transliteration: ʿalayhimā
   3:
-    arabic: فِى
+    arabic: فِي
     translation: among
     transliteration: fī
   4:
-    arabic: الۡاٰخِرِيۡنَۙ‏
+    arabic: ٱلۡأٓخِرِينَ
     translation: the later generations
     transliteration: l-ākhirīna
 ---

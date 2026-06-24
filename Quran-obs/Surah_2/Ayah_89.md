@@ -1,8 +1,7 @@
 ---
-arabic_ayat: "وَلَمَّا جَآءَهُمۡ كِتٰبٌ مِّنۡ عِنۡدِ اللّٰهِ مُصَدِّقٌ لِّمَا مَعَهُمۡۙ\
-  \ وَكَانُوۡا مِنۡ قَبۡلُ يَسۡتَفۡتِحُوۡنَ عَلَى الَّذِيۡنَ كَفَرُوۡا  ​ۖۚ فَلَمَّا\
-  \ جَآءَهُمۡ مَّا عَرَفُوۡا کَفَرُوۡا بِهٖ​ فَلَعۡنَةُ اللّٰهِ عَلَى الۡكٰفِرِيۡنَ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: وَلَمَّا جَآءَهُمۡ كِتَٰبٞ مِّنۡ عِندِ ٱللَّهِ مُصَدِّقٞ لِّمَا مَعَهُمۡ
+  وَكَانُواْ مِن قَبۡلُ يَسۡتَفۡتِحُونَ عَلَى ٱلَّذِينَ كَفَرُواْ فَلَمَّا جَآءَهُم
+  مَّا عَرَفُواْ كَفَرُواْ بِهِۦۚ فَلَعۡنَةُ ٱللَّهِ عَلَى ٱلۡكَٰفِرِينَ
 sentence_translation: Although they used to pray for victory ˹by means of the Prophet˺
   over the polytheists, when there came to them a Book from Allah which they recognized, confirming
   the Scripture they had ˹in their hands˺, they rejected it. So may Allah’s condemnation
@@ -17,7 +16,7 @@ word_by_word:
     translation: came to them
     transliteration: jāahum
   3:
-    arabic: كِتٰبٌ
+    arabic: كِتَٰبٞ
     translation: a Book
     transliteration: kitābun
   4:
@@ -25,15 +24,15 @@ word_by_word:
     translation: of
     transliteration: min
   5:
-    arabic: عِنۡدِ
+    arabic: عِندِ
     translation: from
     transliteration: ʿindi
   6:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   7:
-    arabic: مُصَدِّقٌ
+    arabic: مُصَدِّقٞ
     translation: confirming
     transliteration: muṣaddiqun
   8:
@@ -41,15 +40,15 @@ word_by_word:
     translation: what (was)
     transliteration: limā
   9:
-    arabic: مَعَهُمۡۙ
+    arabic: مَعَهُمۡ
     translation: with them
     transliteration: maʿahum
   10:
-    arabic: وَكَانُوۡا
+    arabic: وَكَانُواْ
     translation: though they used to
     transliteration: wakānū
   11:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   12:
@@ -57,7 +56,7 @@ word_by_word:
     translation: before
     transliteration: qablu
   13:
-    arabic: يَسۡتَفۡتِحُوۡنَ
+    arabic: يَسۡتَفۡتِحُونَ
     translation: (that), pray for victory
     transliteration: yastaftiḥūna
   14:
@@ -65,11 +64,11 @@ word_by_word:
     translation: over
     transliteration: ʿalā
   15:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   16:
-    arabic: كَفَرُوۡا  ​ۖۚ
+    arabic: كَفَرُواْ
     translation: 'disbelieved '
     transliteration: kafarū
   17:
@@ -77,7 +76,7 @@ word_by_word:
     translation: then when
     transliteration: falammā
   18:
-    arabic: جَآءَهُمۡ
+    arabic: جَآءَهُم
     translation: came to them
     transliteration: jāahum
   19:
@@ -85,15 +84,15 @@ word_by_word:
     translation: what
     transliteration: mā
   20:
-    arabic: عَرَفُوۡا
+    arabic: عَرَفُواْ
     translation: they recognized
     transliteration: ʿarafū
   21:
-    arabic: کَفَرُوۡا
+    arabic: كَفَرُواْ
     translation: they disbelieved
     transliteration: kafarū
   22:
-    arabic: بِهٖ​
+    arabic: بِهِۦۚ
     translation: in it
     transliteration: bihi
   23:
@@ -101,7 +100,7 @@ word_by_word:
     translation: So (the) curse
     transliteration: falaʿnatu
   24:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (of) Allah
     transliteration: l-lahi
   25:
@@ -109,7 +108,7 @@ word_by_word:
     translation: (is) on
     transliteration: ʿalā
   26:
-    arabic: "الۡكٰفِرِيۡنَ‏ \uFEFF\uFEFF"
+    arabic: ٱلۡكَٰفِرِينَ
     translation: the disbelievers
     transliteration: l-kāfirīna
 ---

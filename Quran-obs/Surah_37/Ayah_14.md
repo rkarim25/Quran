@@ -1,21 +1,21 @@
 ---
-arabic_ayat: وَاِذَا رَاَوۡا اٰيَةً يَّسۡتَسۡخِرُوۡنَ‏
+arabic_ayat: وَإِذَا رَأَوۡاْ ءَايَةٗ يَسۡتَسۡخِرُونَ
 sentence_translation: And whenever they see a sign, they make fun of it,
 word_by_word:
   1:
-    arabic: وَاِذَا
+    arabic: وَإِذَا
     translation: And when
     transliteration: wa-idhā
   2:
-    arabic: رَاَوۡا
+    arabic: رَأَوۡاْ ءَ
     translation: they see
     transliteration: ra-aw
   3:
-    arabic: اٰيَةً
+    arabic: ايَةٗ
     translation: a Sign
     transliteration: āyatan
   4:
-    arabic: يَّسۡتَسۡخِرُوۡنَ‏
+    arabic: يَسۡتَسۡخِرُونَ
     translation: they mock
     transliteration: yastaskhirūna
 ---

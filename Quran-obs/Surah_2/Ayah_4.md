@@ -1,47 +1,47 @@
 ---
-arabic_ayat: وَالَّذِيۡنَ يُؤۡمِنُوۡنَ بِمَۤا اُنۡزِلَ اِلَيۡكَ وَمَاۤ اُنۡزِلَ مِنۡ
-  قَبۡلِكَۚ وَبِالۡاٰخِرَةِ هُمۡ يُوۡقِنُوۡنَؕ‏
+arabic_ayat: وَٱلَّذِينَ يُؤۡمِنُونَ بِمَآ أُنزِلَ إِلَيۡكَ وَمَآ أُنزِلَ مِن قَبۡلِكَ
+  وَبِٱلۡأٓخِرَةِ هُمۡ يُوقِنُونَ
 sentence_translation: and who believe in what has been revealed to you ˹O Prophet˺ and
   what was revealed before you, and have sure faith in the Hereafter.
 word_by_word:
   1:
-    arabic: وَالَّذِيۡنَ
+    arabic: وَٱلَّذِينَ
     translation: And those who
     transliteration: wa-alladhīna
   2:
-    arabic: يُؤۡمِنُوۡنَ
+    arabic: يُؤۡمِنُونَ
     translation: believe
     transliteration: yu'minūna
   3:
-    arabic: بِمَۤا
+    arabic: بِمَآ
     translation: in what
     transliteration: bimā
   4:
-    arabic: اُنۡزِلَ
+    arabic: أُنزِلَ
     translation: (is) sent down
     transliteration: unzila
   5:
-    arabic: اِلَيۡكَ
+    arabic: إِلَيۡكَ
     translation: to you
     transliteration: ilayka
   6:
-    arabic: وَمَاۤ
+    arabic: وَمَآ
     translation: and what
     transliteration: wamā
   7:
-    arabic: اُنۡزِلَ
+    arabic: أُنزِلَ
     translation: was sent down
     transliteration: unzila
   8:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   9:
-    arabic: قَبۡلِكَۚ
+    arabic: قَبۡلِكَ
     translation: before you
     transliteration: qablika
   10:
-    arabic: وَبِالۡاٰخِرَةِ
+    arabic: وَبِٱلۡأٓخِرَةِ
     translation: and in the Hereafter
     transliteration: wabil-ākhirati
   11:
@@ -49,7 +49,7 @@ word_by_word:
     translation: they
     transliteration: hum
   12:
-    arabic: يُوۡقِنُوۡنَؕ‏
+    arabic: يُوقِنُونَ
     translation: firmly believe
     transliteration: yūqinūna
 ---

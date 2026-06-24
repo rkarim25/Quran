@@ -1,12 +1,12 @@
 ---
-arabic_ayat: وَقَالُوۡا لَوۡ شَآءَ الرَّحۡمٰنُ مَا عَبَدۡنٰهُمۡ​ؕ مَا لَهُمۡ بِذٰلِكَ
-  مِنۡ عِلۡمٍ​ اِنۡ هُمۡ اِلَّا يَخۡرُصُوۡنَؕ‏
+arabic_ayat: وَقَالُواْ لَوۡ شَآءَ ٱلرَّحۡمَٰنُ مَا عَبَدۡنَٰهُمۗ مَّا لَهُم بِذَٰلِكَ
+  مِنۡ عِلۡمٍۖ إِنۡ هُمۡ إِلَّا يَخۡرُصُونَ
 sentence_translation: And they argue, “Had the Most Compassionate willed, we would
   have never worshipped them.” They have no knowledge ˹in support˺ of this ˹claim˺.
   They do nothing but lie.
 word_by_word:
   1:
-    arabic: وَقَالُوۡا
+    arabic: وَقَالُواْ
     translation: And they say
     transliteration: waqālū
   2:
@@ -18,7 +18,7 @@ word_by_word:
     translation: had willed
     transliteration: shāa
   4:
-    arabic: الرَّحۡمٰنُ
+    arabic: ٱلرَّحۡمَٰنُ
     translation: the Most Gracious
     transliteration: l-raḥmānu
   5:
@@ -26,19 +26,19 @@ word_by_word:
     translation: we would not have worshipped them
     transliteration: mā
   6:
-    arabic: عَبَدۡنٰهُمۡ​ؕ
+    arabic: عَبَدۡنَٰهُمۗ
     translation: we would not have worshipped them
     transliteration: ʿabadnāhum
   7:
-    arabic: مَا
+    arabic: مَّا
     translation: Not
     transliteration: mā
   8:
-    arabic: لَهُمۡ
+    arabic: لَهُم
     translation: they have
     transliteration: lahum
   9:
-    arabic: بِذٰلِكَ
+    arabic: بِذَٰلِكَ
     translation: about that
     transliteration: bidhālika
   10:
@@ -46,11 +46,11 @@ word_by_word:
     translation: any
     transliteration: min
   11:
-    arabic: عِلۡمٍ​
+    arabic: عِلۡمٍۖ
     translation: knowledge
     transliteration: ʿil'min
   12:
-    arabic: اِنۡ
+    arabic: إِنۡ
     translation: Nothing
     transliteration: in
   13:
@@ -58,11 +58,11 @@ word_by_word:
     translation: they (do)
     transliteration: hum
   14:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: but
     transliteration: illā
   15:
-    arabic: يَخۡرُصُوۡنَؕ‏
+    arabic: يَخۡرُصُونَ
     translation: lie
     transliteration: yakhruṣūna
 ---

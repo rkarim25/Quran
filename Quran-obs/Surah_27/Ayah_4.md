@@ -1,15 +1,15 @@
 ---
-arabic_ayat: اِنَّ الَّذِيۡنَ لَا يُؤۡمِنُوۡنَ بِالۡاٰخِرَةِ زَيَّـنَّا لَهُمۡ اَعۡمَالَهُمۡ
-  فَهُمۡ يَعۡمَهُوۡنَؕ‏
+arabic_ayat: إِنَّ ٱلَّذِينَ لَا يُؤۡمِنُونَ بِٱلۡأٓخِرَةِ زَيَّنَّا لَهُمۡ أَعۡمَٰلَهُمۡ
+  فَهُمۡ يَعۡمَهُونَ
 sentence_translation: As for those who do not believe in the Hereafter, We have certainly
   made their ˹evil˺ deeds appealing to them, so they wander blindly.
 word_by_word:
   1:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   3:
@@ -17,15 +17,15 @@ word_by_word:
     translation: (do) not
     transliteration: lā
   4:
-    arabic: يُؤۡمِنُوۡنَ
+    arabic: يُؤۡمِنُونَ
     translation: believe
     transliteration: yu'minūna
   5:
-    arabic: بِالۡاٰخِرَةِ
+    arabic: بِٱلۡأٓخِرَةِ
     translation: in the Hereafter
     transliteration: bil-ākhirati
   6:
-    arabic: زَيَّـنَّا
+    arabic: زَيَّنَّا
     translation: We have made fair-seeming
     transliteration: zayyannā
   7:
@@ -33,7 +33,7 @@ word_by_word:
     translation: to them
     transliteration: lahum
   8:
-    arabic: اَعۡمَالَهُمۡ
+    arabic: أَعۡمَٰلَهُمۡ
     translation: their deeds
     transliteration: aʿmālahum
   9:
@@ -41,7 +41,7 @@ word_by_word:
     translation: so they
     transliteration: fahum
   10:
-    arabic: يَعۡمَهُوۡنَؕ‏
+    arabic: يَعۡمَهُونَ
     translation: wander blindly
     transliteration: yaʿmahūna
 ---

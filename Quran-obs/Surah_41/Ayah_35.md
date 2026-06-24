@@ -1,6 +1,6 @@
 ---
-arabic_ayat: وَمَا يُلَقّٰٮهَاۤ اِلَّا الَّذِيۡنَ صَبَرُوۡا​ۚ وَمَا يُلَقّٰٮهَاۤ اِلَّا
-  ذُوۡ حَظٍّ عَظِيۡمٍ‏
+arabic_ayat: وَمَا يُلَقَّىٰهَآ إِلَّا ٱلَّذِينَ صَبَرُواْ وَمَا يُلَقَّىٰهَآ إِلَّا
+  ذُو حَظٍّ عَظِيمٖ
 sentence_translation: But this cannot be attained except by those who are patient
   and who are truly fortunate.
 word_by_word:
@@ -9,19 +9,19 @@ word_by_word:
     translation: And not
     transliteration: wamā
   2:
-    arabic: يُلَقّٰٮهَاۤ
+    arabic: يُلَقَّىٰهَآ
     translation: it is granted
     transliteration: yulaqqāhā
   3:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   4:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: (to) those who
     transliteration: alladhīna
   5:
-    arabic: صَبَرُوۡا​ۚ
+    arabic: صَبَرُواْ
     translation: (are) patient
     transliteration: ṣabarū
   6:
@@ -29,15 +29,15 @@ word_by_word:
     translation: and not
     transliteration: wamā
   7:
-    arabic: يُلَقّٰٮهَاۤ
+    arabic: يُلَقَّىٰهَآ
     translation: it is granted
     transliteration: yulaqqāhā
   8:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   9:
-    arabic: ذُوۡ
+    arabic: ذُو
     translation: (to the) owner
     transliteration: dhū
   10:
@@ -45,7 +45,7 @@ word_by_word:
     translation: (of) fortune
     transliteration: ḥaẓẓin
   11:
-    arabic: عَظِيۡمٍ‏
+    arabic: عَظِيمٖ
     translation: great
     transliteration: ʿaẓīmin
 ---

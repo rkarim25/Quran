@@ -1,9 +1,9 @@
 ---
-arabic_ayat: وَتَـنۡحِتُوۡنَ مِنَ الۡجِبَالِ بُيُوۡتًا فٰرِهِيۡنَ​ۚ‏
+arabic_ayat: وَتَنۡحِتُونَ مِنَ ٱلۡجِبَالِ بُيُوتٗا فَٰرِهِينَ
 sentence_translation: to carve homes in the mountains with great skill?
 word_by_word:
   1:
-    arabic: وَتَـنۡحِتُوۡنَ
+    arabic: وَتَنۡحِتُونَ
     translation: And you carve
     transliteration: watanḥitūna
   2:
@@ -11,15 +11,15 @@ word_by_word:
     translation: of
     transliteration: mina
   3:
-    arabic: الۡجِبَالِ
+    arabic: ٱلۡجِبَالِ
     translation: the mountains
     transliteration: l-jibāli
   4:
-    arabic: بُيُوۡتًا
+    arabic: بُيُوتٗا
     translation: houses
     transliteration: buyūtan
   5:
-    arabic: فٰرِهِيۡنَ​ۚ‏
+    arabic: فَٰرِهِينَ
     translation: skillfully
     transliteration: fārihīna
 ---

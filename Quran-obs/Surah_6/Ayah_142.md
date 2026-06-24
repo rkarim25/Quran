@@ -1,29 +1,28 @@
 ---
-arabic_ayat: "وَ مِنَ الۡاَنۡعَامِ حَمُوۡلَةً وَّفَرۡشًا​ ؕ كُلُوۡا مِمَّا رَزَقَكُمُ\
-  \ اللّٰهُ وَ لَا تَتَّبِعُوۡا خُطُوٰتِ الشَّيۡطٰنِ​ ؕ اِنَّهٗ لَـكُمۡ عَدُوٌّ مُّبِيۡنٌ\
-  \ ۙ‏ \uFEFF\uFEFF"
+arabic_ayat: وَمِنَ ٱلۡأَنۡعَٰمِ حَمُولَةٗ وَفَرۡشٗاۚ كُلُواْ مِمَّا رَزَقَكُمُ ٱللَّهُ
+  وَلَا تَتَّبِعُواْ خُطُوَٰتِ ٱلشَّيۡطَٰنِۚ إِنَّهُۥ لَكُمۡ عَدُوّٞ مُّبِينٞ
 sentence_translation: Some cattle are fit for labour, others are too small. Eat of
   what Allah has provided for you and do not follow Satan’s footsteps. Certainly,
   he is your sworn enemy.
 word_by_word:
   1:
-    arabic: وَ مِنَ
+    arabic: وَمِنَ
     translation: And of
     transliteration: wamina
   2:
-    arabic: الۡاَنۡعَامِ
+    arabic: ٱلۡأَنۡعَٰمِ
     translation: the cattle
     transliteration: l-anʿāmi
   3:
-    arabic: حَمُوۡلَةً
+    arabic: حَمُولَةٗ
     translation: (are some for) burden
     transliteration: ḥamūlatan
   4:
-    arabic: وَّفَرۡشًا​ ؕ
+    arabic: وَفَرۡشٗاۚ
     translation: and (some for) meat
     transliteration: wafarshan
   5:
-    arabic: كُلُوۡا
+    arabic: كُلُواْ
     translation: Eat
     transliteration: kulū
   6:
@@ -35,39 +34,39 @@ word_by_word:
     translation: (has been) provided (to) you
     transliteration: razaqakumu
   8:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: (by) Allah
     transliteration: l-lahu
   9:
-    arabic: وَ لَا
+    arabic: وَلَا
     translation: and (do) not
     transliteration: walā
   10:
-    arabic: تَتَّبِعُوۡا
+    arabic: تَتَّبِعُواْ
     translation: follow
     transliteration: tattabiʿū
   11:
-    arabic: خُطُوٰتِ
+    arabic: خُطُوَٰتِ
     translation: (the) footsteps
     transliteration: khuṭuwāti
   12:
-    arabic: الشَّيۡطٰنِ​ ؕ
+    arabic: ٱلشَّيۡطَٰنِۚ
     translation: (of) Shaitaan
     transliteration: l-shayṭāni
   13:
-    arabic: اِنَّهٗ
+    arabic: إِنَّهُۥ
     translation: Indeed, he
     transliteration: innahu
   14:
-    arabic: لَـكُمۡ
+    arabic: لَكُمۡ
     translation: (is) to you
     transliteration: lakum
   15:
-    arabic: عَدُوٌّ
+    arabic: عَدُوّٞ
     translation: an enemy
     transliteration: ʿaduwwun
   16:
-    arabic: "مُّبِيۡنٌ ۙ‏ \uFEFF\uFEFF"
+    arabic: مُّبِينٞ
     translation: open
     transliteration: mubīnun
 ---

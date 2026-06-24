@@ -1,7 +1,7 @@
 ---
-arabic_ayat: وَمَا كُنۡتَ بِجَانِبِ الطُّوۡرِ اِذۡ نَادَيۡنَا وَلٰـكِنۡ رَّحۡمَةً
-  مِّنۡ رَّبِّكَ لِتُنۡذِرَ قَوۡمًا مَّاۤ اَتٰٮهُمۡ مِّنۡ نَّذِيۡرٍ مِّنۡ قَبۡلِكَ
-  لَعَلَّهُمۡ يَتَذَكَّرُوۡنَ‏
+arabic_ayat: وَمَا كُنتَ بِجَانِبِ ٱلطُّورِ إِذۡ نَادَيۡنَا وَلَٰكِن رَّحۡمَةٗ مِّن
+  رَّبِّكَ لِتُنذِرَ قَوۡمٗا مَّآ أَتَىٰهُم مِّن نَّذِيرٖ مِّن قَبۡلِكَ لَعَلَّهُمۡ
+  يَتَذَكَّرُونَ
 sentence_translation: And you were not at the side of Mount Ṭûr when We called out
   ˹to Moses˺. But ˹you have been sent˺ as a mercy from your Lord to warn a people
   to whom no warner has come before you, so perhaps they may be mindful.
@@ -11,7 +11,7 @@ word_by_word:
     translation: And not
     transliteration: wamā
   2:
-    arabic: كُنۡتَ
+    arabic: كُنتَ
     translation: you were
     transliteration: kunta
   3:
@@ -19,11 +19,11 @@ word_by_word:
     translation: at (the) side
     transliteration: bijānibi
   4:
-    arabic: الطُّوۡرِ
+    arabic: ٱلطُّورِ
     translation: (of) the Tur
     transliteration: l-ṭūri
   5:
-    arabic: اِذۡ
+    arabic: إِذۡ
     translation: when
     transliteration: idh
   6:
@@ -31,15 +31,15 @@ word_by_word:
     translation: We called
     transliteration: nādaynā
   7:
-    arabic: وَلٰـكِنۡ
+    arabic: وَلَٰكِن
     translation: But
     transliteration: walākin
   8:
-    arabic: رَّحۡمَةً
+    arabic: رَّحۡمَةٗ
     translation: (as) a mercy
     transliteration: raḥmatan
   9:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: from
     transliteration: min
   10:
@@ -47,31 +47,31 @@ word_by_word:
     translation: your Lord
     transliteration: rabbika
   11:
-    arabic: لِتُنۡذِرَ
+    arabic: لِتُنذِرَ
     translation: so that you warn
     transliteration: litundhira
   12:
-    arabic: قَوۡمًا
+    arabic: قَوۡمٗا
     translation: a people
     transliteration: qawman
   13:
-    arabic: مَّاۤ
+    arabic: مَّآ
     translation: not
     transliteration: mā
   14:
-    arabic: اَتٰٮهُمۡ
+    arabic: أَتَىٰهُم
     translation: (had) come to them
     transliteration: atāhum
   15:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: any
     transliteration: min
   16:
-    arabic: نَّذِيۡرٍ
+    arabic: نَّذِيرٖ
     translation: warner
     transliteration: nadhīrin
   17:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: before you
     transliteration: min
   18:
@@ -83,7 +83,7 @@ word_by_word:
     translation: so that they may
     transliteration: laʿallahum
   20:
-    arabic: يَتَذَكَّرُوۡنَ‏
+    arabic: يَتَذَكَّرُونَ
     translation: remember
     transliteration: yatadhakkarūna
 ---

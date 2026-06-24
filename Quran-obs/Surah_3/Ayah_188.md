@@ -1,7 +1,7 @@
 ---
-arabic_ayat: لَا تَحۡسَبَنَّ الَّذِيۡنَ يَفۡرَحُوۡنَ بِمَاۤ اَتَوْا وَّيُحِبُّوۡنَ
-  اَنۡ يُّحۡمَدُوۡا بِمَا لَمۡ يَفۡعَلُوۡا فَلَا تَحۡسَبَنَّهُمۡ بِمَفَازَةٍ مِّنَ
-  الۡعَذَابِ​ۚ وَلَهُمۡ عَذَابٌ اَ لِيۡمٌ‏
+arabic_ayat: لَا تَحۡسَبَنَّ ٱلَّذِينَ يَفۡرَحُونَ بِمَآ أَتَواْ وَّيُحِبُّونَ أَن
+  يُحۡمَدُواْ بِمَا لَمۡ يَفۡعَلُواْ فَلَا تَحۡسَبَنَّهُم بِمَفَازَةٖ مِّنَ ٱلۡعَذَابِۖ
+  وَلَهُمۡ عَذَابٌ أَلِيمٞ
 sentence_translation: Do not let those who rejoice in their misdeeds and love to take
   credit for what they have not done think they will escape torment. They will suffer
   a painful punishment.
@@ -15,31 +15,31 @@ word_by_word:
     translation: think
     transliteration: taḥsabanna
   3:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: (that) those who
     transliteration: alladhīna
   4:
-    arabic: يَفۡرَحُوۡنَ
+    arabic: يَفۡرَحُونَ
     translation: rejoice
     transliteration: yafraḥūna
   5:
-    arabic: بِمَاۤ
+    arabic: بِمَآ
     translation: in what
     transliteration: bimā
   6:
-    arabic: اَتَوْا
+    arabic: أَتَواْ
     translation: (they have) brought
     transliteration: ataw
   7:
-    arabic: وَّيُحِبُّوۡنَ
+    arabic: وَّيُحِبُّونَ
     translation: and they love
     transliteration: wayuḥibbūna
   8:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that
     transliteration: an
   9:
-    arabic: يُّحۡمَدُوۡا
+    arabic: يُحۡمَدُواْ
     translation: they be praised
     transliteration: yuḥ'madū
   10:
@@ -51,7 +51,7 @@ word_by_word:
     translation: not
     transliteration: lam
   12:
-    arabic: يَفۡعَلُوۡا
+    arabic: يَفۡعَلُواْ
     translation: 'they do '
     transliteration: yafʿalū
   13:
@@ -59,11 +59,11 @@ word_by_word:
     translation: so (do) not
     transliteration: falā
   14:
-    arabic: تَحۡسَبَنَّهُمۡ
+    arabic: تَحۡسَبَنَّهُم
     translation: think (that) they
     transliteration: taḥsabannahum
   15:
-    arabic: بِمَفَازَةٍ
+    arabic: بِمَفَازَةٖ
     translation: (will) escape
     transliteration: bimafāzatin
   16:
@@ -71,7 +71,7 @@ word_by_word:
     translation: from
     transliteration: mina
   17:
-    arabic: الۡعَذَابِ​ۚ
+    arabic: ٱلۡعَذَابِۖ
     translation: the punishment
     transliteration: l-ʿadhābi
   18:
@@ -83,7 +83,7 @@ word_by_word:
     translation: (is a) punishment
     transliteration: ʿadhābun
   20:
-    arabic: اَ لِيۡمٌ‏
+    arabic: أَلِيمٞ
     translation: painful
     transliteration: alīmun
 ---

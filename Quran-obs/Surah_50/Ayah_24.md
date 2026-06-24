@@ -1,14 +1,14 @@
 ---
-arabic_ayat: اَلۡقِيَا فِىۡ جَهَنَّمَ كُلَّ كَفَّارٍ عَنِيۡدٍۙ‏
+arabic_ayat: أَلۡقِيَا فِي جَهَنَّمَ كُلَّ كَفَّارٍ عَنِيدٖ
 sentence_translation: ˹It will be said to both angels,˺ “Throw into Hell every stubborn
   disbeliever,
 word_by_word:
   1:
-    arabic: اَلۡقِيَا
+    arabic: أَلۡقِيَا
     translation: Throw
     transliteration: alqiyā
   2:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in (to)
     transliteration: fī
   3:
@@ -24,7 +24,7 @@ word_by_word:
     translation: disbeliever
     transliteration: kaffārin
   6:
-    arabic: عَنِيۡدٍۙ‏
+    arabic: عَنِيدٖ
     translation: stubborn
     transliteration: ʿanīdin
 ---

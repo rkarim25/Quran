@@ -1,11 +1,11 @@
 ---
-arabic_ayat: اَلَمۡ تَرَ اِلَى الَّذِيۡنَ بَدَّلُوۡا نِعۡمَتَ اللّٰهِ كُفۡرًا وَّاَحَلُّوۡا
-  قَوۡمَهُمۡ دَارَ الۡبَوَارِۙ‏
+arabic_ayat: ۞ أَلَمۡ تَرَ إِلَى ٱلَّذِينَ بَدَّلُواْ نِعۡمَتَ ٱللَّهِ كُفۡرٗا وَأَحَلُّواْ
+  قَوۡمَهُمۡ دَارَ ٱلۡبَوَارِ
 sentence_translation: Have you not seen those ˹disbelievers˺ who meet Allah’s favours
   with ingratitude and lead their own people to their doom?
 word_by_word:
   1:
-    arabic: ۞ اَلَمۡ
+    arabic: ۞ أَلَمۡ
     translation: Have not
     transliteration: alam
   2:
@@ -13,15 +13,15 @@ word_by_word:
     translation: you seen
     transliteration: tara
   3:
-    arabic: اِلَى
+    arabic: إِلَى
     translation: '[to]'
     transliteration: ilā
   4:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   5:
-    arabic: بَدَّلُوۡا
+    arabic: بَدَّلُواْ
     translation: (have) changed
     transliteration: baddalū
   6:
@@ -29,15 +29,15 @@ word_by_word:
     translation: (the) Favor
     transliteration: niʿ'mata
   7:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (of) Allah
     transliteration: l-lahi
   8:
-    arabic: كُفۡرًا
+    arabic: كُفۡرٗا
     translation: (for) disbelief
     transliteration: kuf'ran
   9:
-    arabic: وَّاَحَلُّوۡا
+    arabic: وَأَحَلُّواْ
     translation: and they led
     transliteration: wa-aḥallū
   10:
@@ -49,7 +49,7 @@ word_by_word:
     translation: (to the) house
     transliteration: dāra
   12:
-    arabic: الۡبَوَارِۙ‏
+    arabic: ٱلۡبَوَارِ
     translation: (of) destruction
     transliteration: l-bawāri
 ---

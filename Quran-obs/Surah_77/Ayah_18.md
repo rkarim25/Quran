@@ -1,9 +1,9 @@
 ---
-arabic_ayat: كَذٰلِكَ نَفۡعَلُ بِالۡمُجۡرِمِيۡنَ‏
+arabic_ayat: كَذَٰلِكَ نَفۡعَلُ بِٱلۡمُجۡرِمِينَ
 sentence_translation: This is how We deal with the wicked.
 word_by_word:
   1:
-    arabic: كَذٰلِكَ
+    arabic: كَذَٰلِكَ
     translation: Thus
     transliteration: kadhālika
   2:
@@ -11,7 +11,7 @@ word_by_word:
     translation: We deal
     transliteration: nafʿalu
   3:
-    arabic: بِالۡمُجۡرِمِيۡنَ‏
+    arabic: بِٱلۡمُجۡرِمِينَ
     translation: with the criminals
     transliteration: bil-muj'rimīna
 ---

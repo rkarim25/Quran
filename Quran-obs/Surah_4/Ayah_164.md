@@ -1,11 +1,11 @@
 ---
-arabic_ayat: وَرُسُلًا قَدۡ قَصَصۡنٰهُمۡ عَلَيۡكَ مِنۡ قَبۡلُ وَرُسُلًا لَّمۡ نَقۡصُصۡهُمۡ
-  عَلَيۡكَ​ ؕ وَكَلَّمَ اللّٰهُ مُوۡسٰى تَكۡلِيۡمًا ​ۚ‏
+arabic_ayat: وَرُسُلٗا قَدۡ قَصَصۡنَٰهُمۡ عَلَيۡكَ مِن قَبۡلُ وَرُسُلٗا لَّمۡ نَقۡصُصۡهُمۡ
+  عَلَيۡكَۚ وَكَلَّمَ ٱللَّهُ مُوسَىٰ تَكۡلِيمٗا
 sentence_translation: There are messengers whose stories We have told you already
   and others We have not. And to Moses Allah spoke directly.
 word_by_word:
   1:
-    arabic: وَرُسُلًا
+    arabic: وَرُسُلٗا
     translation: And Messengers
     transliteration: warusulan
   2:
@@ -13,7 +13,7 @@ word_by_word:
     translation: surely
     transliteration: qad
   3:
-    arabic: قَصَصۡنٰهُمۡ
+    arabic: قَصَصۡنَٰهُمۡ
     translation: We (have) mentioned them
     transliteration: qaṣaṣnāhum
   4:
@@ -21,7 +21,7 @@ word_by_word:
     translation: to you
     transliteration: ʿalayka
   5:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   6:
@@ -29,7 +29,7 @@ word_by_word:
     translation: before
     transliteration: qablu
   7:
-    arabic: وَرُسُلًا
+    arabic: وَرُسُلٗا
     translation: and Messengers
     transliteration: warusulan
   8:
@@ -41,7 +41,7 @@ word_by_word:
     translation: We (have) mentioned them
     transliteration: naqṣuṣ'hum
   10:
-    arabic: عَلَيۡكَ​ ؕ
+    arabic: عَلَيۡكَۚ
     translation: to you
     transliteration: ʿalayka
   11:
@@ -49,15 +49,15 @@ word_by_word:
     translation: And spoke
     transliteration: wakallama
   12:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   13:
-    arabic: مُوۡسٰى
+    arabic: مُوسَىٰ
     translation: (to) Musa
     transliteration: mūsā
   14:
-    arabic: تَكۡلِيۡمًا ​ۚ‏
+    arabic: تَكۡلِيمٗا
     translation: (in a) conversation
     transliteration: taklīman
 ---

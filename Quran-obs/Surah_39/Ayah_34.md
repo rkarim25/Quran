@@ -1,11 +1,10 @@
 ---
-arabic_ayat: لَهُمۡ مَّا يَشَآءُوۡنَ عِنۡدَ رَبِّهِمۡ​ ؕ ذٰ لِكَ جَزٰٓؤُ الۡمُحۡسِنِيۡنَ
-  ۖۚ‏
+arabic_ayat: لَهُم مَّا يَشَآءُونَ عِندَ رَبِّهِمۡۚ ذَٰلِكَ جَزَآءُ ٱلۡمُحۡسِنِينَ
 sentence_translation: They will have whatever they desire with their Lord. That is
   the reward of the good-doers.
 word_by_word:
   1:
-    arabic: لَهُمۡ
+    arabic: لَهُم
     translation: For them
     transliteration: lahum
   2:
@@ -13,27 +12,27 @@ word_by_word:
     translation: (is) what
     transliteration: mā
   3:
-    arabic: يَشَآءُوۡنَ
+    arabic: يَشَآءُونَ
     translation: they wish
     transliteration: yashāūna
   4:
-    arabic: عِنۡدَ
+    arabic: عِندَ
     translation: with
     transliteration: ʿinda
   5:
-    arabic: رَبِّهِمۡ​ ؕ
+    arabic: رَبِّهِمۡۚ
     translation: their Lord
     transliteration: rabbihim
   6:
-    arabic: ذٰ لِكَ
+    arabic: ذَٰلِكَ
     translation: That
     transliteration: dhālika
   7:
-    arabic: جَزٰٓؤُ
+    arabic: جَزَآءُ
     translation: (is the) reward
     transliteration: jazāu
   8:
-    arabic: الۡمُحۡسِنِيۡنَ ۖۚ‏
+    arabic: ٱلۡمُحۡسِنِينَ
     translation: (of) the good-doers
     transliteration: l-muḥ'sinīna
 ---

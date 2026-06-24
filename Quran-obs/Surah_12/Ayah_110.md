@@ -1,33 +1,33 @@
 ---
-arabic_ayat: حَتّٰۤى اِذَا اسۡتَيۡــَٔسَ الرُّسُلُ وَظَنُّوۡۤا اَنَّهُمۡ قَدۡ كُذِبُوۡا
-  جَآءَهُمۡ نَصۡرُنَا ۙ فَـنُجِّىَ مَنۡ نَّشَآءُ ​ؕ وَلَا يُرَدُّ بَاۡسُنَا عَنِ
-  الۡقَوۡمِ الۡمُجۡرِمِيۡنَ‏
+arabic_ayat: حَتَّىٰٓ إِذَا ٱسۡتَيۡـَٔسَ ٱلرُّسُلُ وَظَنُّوٓاْ أَنَّهُمۡ قَدۡ كُذِبُواْ
+  جَآءَهُمۡ نَصۡرُنَا فَنُجِّيَ مَن نَّشَآءُۖ وَلَا يُرَدُّ بَأۡسُنَا عَنِ ٱلۡقَوۡمِ
+  ٱلۡمُجۡرِمِينَ
 sentence_translation: And when the messengers despaired and their people thought the
   messengers had been denied help, Our help came to them ˹at last˺. We then saved
   whoever We willed, and Our punishment is never averted from the wicked people.
 word_by_word:
   1:
-    arabic: حَتّٰۤى
+    arabic: حَتَّىٰٓ
     translation: Until
     transliteration: ḥattā
   2:
-    arabic: اِذَا
+    arabic: إِذَا
     translation: when
     transliteration: idhā
   3:
-    arabic: اسۡتَيۡــَٔسَ
+    arabic: ٱسۡتَيۡـَٔسَ
     translation: gave up hope
     transliteration: is'tayasa
   4:
-    arabic: الرُّسُلُ
+    arabic: ٱلرُّسُلُ
     translation: the Messengers
     transliteration: l-rusulu
   5:
-    arabic: وَظَنُّوۡۤا
+    arabic: وَظَنُّوٓاْ
     translation: and thought
     transliteration: waẓannū
   6:
-    arabic: اَنَّهُمۡ
+    arabic: أَنَّهُمۡ
     translation: that they
     transliteration: annahum
   7:
@@ -35,7 +35,7 @@ word_by_word:
     translation: certainly
     transliteration: qad
   8:
-    arabic: كُذِبُوۡا
+    arabic: كُذِبُواْ
     translation: were denied
     transliteration: kudhibū
   9:
@@ -43,19 +43,19 @@ word_by_word:
     translation: then came to them
     transliteration: jāahum
   10:
-    arabic: نَصۡرُنَا ۙ
+    arabic: نَصۡرُنَا
     translation: Our help
     transliteration: naṣrunā
   11:
-    arabic: فَـنُجِّىَ
+    arabic: فَنُجِّيَ
     translation: and was saved
     transliteration: fanujjiya
   12:
-    arabic: مَنۡ
+    arabic: مَن
     translation: whom
     transliteration: man
   13:
-    arabic: نَّشَآءُ ​ؕ
+    arabic: نَّشَآءُۖ
     translation: We willed
     transliteration: nashāu
   14:
@@ -67,7 +67,7 @@ word_by_word:
     translation: (can) be repelled
     transliteration: yuraddu
   16:
-    arabic: بَاۡسُنَا
+    arabic: بَأۡسُنَا
     translation: Our punishment
     transliteration: basunā
   17:
@@ -75,11 +75,11 @@ word_by_word:
     translation: from
     transliteration: ʿani
   18:
-    arabic: الۡقَوۡمِ
+    arabic: ٱلۡقَوۡمِ
     translation: the people
     transliteration: l-qawmi
   19:
-    arabic: الۡمُجۡرِمِيۡنَ‏
+    arabic: ٱلۡمُجۡرِمِينَ
     translation: (who are) criminals
     transliteration: l-muj'rimīna
 ---

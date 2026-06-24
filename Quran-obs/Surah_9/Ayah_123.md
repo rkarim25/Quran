@@ -1,32 +1,31 @@
 ---
-arabic_ayat: يٰۤـاَيُّهَا الَّذِيۡنَ اٰمَنُوۡا قَاتِلُوا الَّذِيۡنَ يَلُوۡنَكُمۡ مِّنَ
-  الۡكُفَّارِ وَلۡيَجِدُوۡا فِيۡكُمۡ غِلۡظَةً​  ؕ وَاعۡلَمُوۡاۤ اَنَّ اللّٰهَ مَعَ
-  الۡمُتَّقِيۡنَ‏
+arabic_ayat: يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُواْ قَٰتِلُواْ ٱلَّذِينَ يَلُونَكُم مِّنَ
+  ٱلۡكُفَّارِ وَلۡيَجِدُواْ فِيكُمۡ غِلۡظَةٗۚ وَٱعۡلَمُوٓاْ أَنَّ ٱللَّهَ مَعَ ٱلۡمُتَّقِينَ
 sentence_translation: O believers! Fight the disbelievers around you and let them
   find firmness in you. And know that Allah is with those mindful ˹of Him˺.
 word_by_word:
   1:
-    arabic: يٰۤـاَيُّهَا
+    arabic: يَٰٓأَيُّهَا
     translation: O you who believe
     transliteration: yāayyuhā
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ ءَ
     translation: O you who believe
     transliteration: alladhīna
   3:
-    arabic: اٰمَنُوۡا
+    arabic: امَنُواْ
     translation: O you who believe
     transliteration: āmanū
   4:
-    arabic: قَاتِلُوا
+    arabic: قَٰتِلُواْ
     translation: Fight
     transliteration: qātilū
   5:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   6:
-    arabic: يَلُوۡنَكُمۡ
+    arabic: يَلُونَكُم
     translation: (are) close to you
     transliteration: yalūnakum
   7:
@@ -34,31 +33,31 @@ word_by_word:
     translation: of
     transliteration: mina
   8:
-    arabic: الۡكُفَّارِ
+    arabic: ٱلۡكُفَّارِ
     translation: the disbelievers
     transliteration: l-kufāri
   9:
-    arabic: وَلۡيَجِدُوۡا
+    arabic: وَلۡيَجِدُواْ
     translation: and let them find
     transliteration: walyajidū
   10:
-    arabic: فِيۡكُمۡ
+    arabic: فِيكُمۡ
     translation: in you
     transliteration: fīkum
   11:
-    arabic: غِلۡظَةً​  ؕ
+    arabic: غِلۡظَةٗۚ
     translation: harshness
     transliteration: ghil'ẓatan
   12:
-    arabic: وَاعۡلَمُوۡاۤ
+    arabic: وَٱعۡلَمُوٓاْ
     translation: And know
     transliteration: wa-iʿ'lamū
   13:
-    arabic: اَنَّ
+    arabic: أَنَّ
     translation: that
     transliteration: anna
   14:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   15:
@@ -66,7 +65,7 @@ word_by_word:
     translation: (is) with
     transliteration: maʿa
   16:
-    arabic: الۡمُتَّقِيۡنَ‏
+    arabic: ٱلۡمُتَّقِينَ
     translation: those who fear (Him)
     transliteration: l-mutaqīna
 ---

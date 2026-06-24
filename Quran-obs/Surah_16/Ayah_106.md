@@ -1,13 +1,13 @@
 ---
-arabic_ayat: مَنۡ كَفَرَ بِاللّٰهِ مِنۡۢ بَعۡدِ اِيۡمَانِهٖۤ اِلَّا مَنۡ اُكۡرِهَ
-  وَقَلۡبُهٗ مُطۡمَٮِٕنٌّۢ بِالۡاِيۡمَانِ وَلٰـكِنۡ مَّنۡ شَرَحَ بِالۡكُفۡرِ صَدۡرًا
-  فَعَلَيۡهِمۡ غَضَبٌ مِّنَ اللّٰهِ​ۚ وَلَهُمۡ عَذَابٌ عَظِيۡمٌ‏
+arabic_ayat: مَن كَفَرَ بِٱللَّهِ مِنۢ بَعۡدِ إِيمَٰنِهِۦٓ إِلَّا مَنۡ أُكۡرِهَ وَقَلۡبُهُۥ
+  مُطۡمَئِنُّۢ بِٱلۡإِيمَٰنِ وَلَٰكِن مَّن شَرَحَ بِٱلۡكُفۡرِ صَدۡرٗا فَعَلَيۡهِمۡ
+  غَضَبٞ مِّنَ ٱللَّهِ وَلَهُمۡ عَذَابٌ عَظِيمٞ
 sentence_translation: Whoever disbelieves in Allah after their belief—not those who
   are forced while their hearts are firm in faith, but those who embrace disbelief
   wholeheartedly—they will be condemned by Allah and suffer a tremendous punishment.
 word_by_word:
   1:
-    arabic: مَنۡ
+    arabic: مَن
     translation: Whoever
     transliteration: man
   2:
@@ -15,11 +15,11 @@ word_by_word:
     translation: disbelieves
     transliteration: kafara
   3:
-    arabic: بِاللّٰهِ
+    arabic: بِٱللَّهِ
     translation: in Allah
     transliteration: bil-lahi
   4:
-    arabic: مِنۡۢ
+    arabic: مِنۢ
     translation: after
     transliteration: min
   5:
@@ -27,11 +27,11 @@ word_by_word:
     translation: after
     transliteration: baʿdi
   6:
-    arabic: اِيۡمَانِهٖۤ
+    arabic: إِيمَٰنِهِۦٓ
     translation: his belief
     transliteration: īmānihi
   7:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   8:
@@ -39,27 +39,27 @@ word_by_word:
     translation: (one) who
     transliteration: man
   9:
-    arabic: اُكۡرِهَ
+    arabic: أُكۡرِهَ
     translation: is forced
     transliteration: uk'riha
   10:
-    arabic: وَقَلۡبُهٗ
+    arabic: وَقَلۡبُهُۥ
     translation: while his heart
     transliteration: waqalbuhu
   11:
-    arabic: مُطۡمَٮِٕنٌّۢ
+    arabic: مُطۡمَئِنُّۢ
     translation: (is) content
     transliteration: muṭ'ma-innun
   12:
-    arabic: بِالۡاِيۡمَانِ
+    arabic: بِٱلۡإِيمَٰنِ
     translation: with the faith
     transliteration: bil-īmāni
   13:
-    arabic: وَلٰـكِنۡ
+    arabic: وَلَٰكِن
     translation: But
     transliteration: walākin
   14:
-    arabic: مَّنۡ
+    arabic: مَّن
     translation: (one) who
     transliteration: man
   15:
@@ -67,11 +67,11 @@ word_by_word:
     translation: opens
     transliteration: sharaḥa
   16:
-    arabic: بِالۡكُفۡرِ
+    arabic: بِٱلۡكُفۡرِ
     translation: to disbelief
     transliteration: bil-kuf'ri
   17:
-    arabic: صَدۡرًا
+    arabic: صَدۡرٗا
     translation: (his) breast
     transliteration: ṣadran
   18:
@@ -79,7 +79,7 @@ word_by_word:
     translation: then upon them
     transliteration: faʿalayhim
   19:
-    arabic: غَضَبٌ
+    arabic: غَضَبٞ
     translation: (is) a wrath
     transliteration: ghaḍabun
   20:
@@ -87,7 +87,7 @@ word_by_word:
     translation: of
     transliteration: mina
   21:
-    arabic: اللّٰهِ​ۚ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   22:
@@ -99,7 +99,7 @@ word_by_word:
     translation: (is) a punishment
     transliteration: ʿadhābun
   24:
-    arabic: عَظِيۡمٌ‏
+    arabic: عَظِيمٞ
     translation: great
     transliteration: ʿaẓīmun
 ---

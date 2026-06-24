@@ -1,19 +1,18 @@
 ---
-arabic_ayat: "وَلَـقَدۡ اٰتَيۡنٰكَ سَبۡعًا مِّنَ الۡمَـثَانِىۡ وَالۡـقُرۡاٰنَ الۡعَظِيۡمَ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: وَلَقَدۡ ءَاتَيۡنَٰكَ سَبۡعٗا مِّنَ ٱلۡمَثَانِي وَٱلۡقُرۡءَانَ ٱلۡعَظِيمَ
 sentence_translation: We have certainly granted you the seven often-repeated verses and
   the great Quran.
 word_by_word:
   1:
-    arabic: وَلَـقَدۡ
+    arabic: وَلَقَدۡ ءَ
     translation: And certainly
     transliteration: walaqad
   2:
-    arabic: اٰتَيۡنٰكَ
+    arabic: اتَيۡنَٰكَ
     translation: We have given you
     transliteration: ātaynāka
   3:
-    arabic: سَبۡعًا
+    arabic: سَبۡعٗا
     translation: seven
     transliteration: sabʿan
   4:
@@ -21,15 +20,15 @@ word_by_word:
     translation: of
     transliteration: mina
   5:
-    arabic: الۡمَـثَانِىۡ
+    arabic: ٱلۡمَثَانِي
     translation: the oft-repeated
     transliteration: l-mathānī
   6:
-    arabic: وَالۡـقُرۡاٰنَ
+    arabic: وَٱلۡقُرۡءَانَ
     translation: and the Quran
     transliteration: wal-qur'āna
   7:
-    arabic: "الۡعَظِيۡمَ‏ \uFEFF\uFEFF"
+    arabic: ٱلۡعَظِيمَ
     translation: Great
     transliteration: l-ʿaẓīma
 ---

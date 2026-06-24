@@ -1,5 +1,5 @@
 ---
-arabic_ayat: قُلۡ اِنِّىۡ لَاۤ اَمۡلِكُ لَـكُمۡ ضَرًّا وَّلَا رَشَدًا‏
+arabic_ayat: قُلۡ إِنِّي لَآ أَمۡلِكُ لَكُمۡ ضَرّٗا وَلَا رَشَدٗا
 sentence_translation: Say, “It is not in my power to harm or benefit you.”
 word_by_word:
   1:
@@ -7,31 +7,31 @@ word_by_word:
     translation: Say
     transliteration: qul
   2:
-    arabic: اِنِّىۡ
+    arabic: إِنِّي
     translation: Indeed, I
     transliteration: innī
   3:
-    arabic: لَاۤ
+    arabic: لَآ
     translation: (do) not
     transliteration: lā
   4:
-    arabic: اَمۡلِكُ
+    arabic: أَمۡلِكُ
     translation: possess
     transliteration: amliku
   5:
-    arabic: لَـكُمۡ
+    arabic: لَكُمۡ
     translation: for you
     transliteration: lakum
   6:
-    arabic: ضَرًّا
+    arabic: ضَرّٗا
     translation: any harm
     transliteration: ḍarran
   7:
-    arabic: وَّلَا
+    arabic: وَلَا
     translation: and not
     transliteration: walā
   8:
-    arabic: رَشَدًا‏
+    arabic: رَشَدٗا
     translation: right path
     transliteration: rashadan
 ---

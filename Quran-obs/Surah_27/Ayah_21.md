@@ -1,43 +1,43 @@
 ---
-arabic_ayat: لَاُعَذِّبَـنَّهٗ عَذَابًا شَدِيۡدًا اَوۡ لَا۟اَذۡبَحَنَّهٗۤ اَوۡ لَيَاۡتِيَنِّىۡ
-  بِسُلۡطٰنٍ مُّبِيۡنٍ‏
+arabic_ayat: لَأُعَذِّبَنَّهُۥ عَذَابٗا شَدِيدًا أَوۡ لَأَاْذۡبَحَنَّهُۥٓ أَوۡ لَيَأۡتِيَنِّي
+  بِسُلۡطَٰنٖ مُّبِينٖ
 sentence_translation: I will surely subject him to a severe punishment, or ˹even˺
   slaughter him, unless he brings me a compelling excuse.”
 word_by_word:
   1:
-    arabic: لَاُعَذِّبَـنَّهٗ
+    arabic: لَأُعَذِّبَنَّهُۥ
     translation: I will surely punish him
     transliteration: la-uʿadhibannahu
   2:
-    arabic: عَذَابًا
+    arabic: عَذَابٗا
     translation: (with) a punishment
     transliteration: ʿadhāban
   3:
-    arabic: شَدِيۡدًا
+    arabic: شَدِيدًا
     translation: severe
     transliteration: shadīdan
   4:
-    arabic: اَوۡ
+    arabic: أَوۡ
     translation: or
     transliteration: aw
   5:
-    arabic: لَا۟اَذۡبَحَنَّهٗۤ
+    arabic: لَأَاْذۡبَحَنَّهُۥٓ
     translation: I will surely slaughter him
     transliteration: laādh'baḥannahu
   6:
-    arabic: اَوۡ
+    arabic: أَوۡ
     translation: unless
     transliteration: aw
   7:
-    arabic: لَيَاۡتِيَنِّىۡ
+    arabic: لَيَأۡتِيَنِّي
     translation: he brings me
     transliteration: layatiyannī
   8:
-    arabic: بِسُلۡطٰنٍ
+    arabic: بِسُلۡطَٰنٖ
     translation: a reason
     transliteration: bisul'ṭānin
   9:
-    arabic: مُّبِيۡنٍ‏
+    arabic: مُّبِينٖ
     translation: clear
     transliteration: mubīnin
 ---

@@ -1,11 +1,10 @@
 ---
-arabic_ayat: يٰۤـاَيُّهَا الَّذِيۡنَ اٰمَنُوۡا لَا تُحِلُّوۡا شَعَآٮِٕرَ اللّٰهِ
-  وَلَا الشَّهۡرَ الۡحَـرَامَ وَلَا الۡهَدۡىَ وَلَا الۡقَلَٓاٮِٕدَ وَلَاۤ آٰمِّيۡنَ
-  الۡبَيۡتَ الۡحَـرَامَ يَبۡـتَغُوۡنَ فَضۡلًا مِّنۡ رَّبِّهِمۡ وَرِضۡوَانًا ​ؕ وَاِذَا
-  حَلَلۡتُمۡ فَاصۡطَادُوۡا​ ؕ وَلَا يَجۡرِمَنَّكُمۡ شَنَاٰنُ قَوۡمٍ اَنۡ صَدُّوۡكُمۡ
-  عَنِ الۡمَسۡجِدِ الۡحَـرَامِ اَنۡ تَعۡتَدُوۡا​ ۘ وَتَعَاوَنُوۡا عَلَى الۡبِرِّ وَالتَّقۡوٰى​
-  وَلَا تَعَاوَنُوۡا عَلَى الۡاِثۡمِ وَالۡعُدۡوَانِ​ وَاتَّقُوا اللّٰهَ ​ؕ اِنَّ
-  اللّٰهَ شَدِيۡدُ الۡعِقَابِ‏
+arabic_ayat: يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُواْ لَا تُحِلُّواْ شَعَٰٓئِرَ ٱللَّهِ وَلَا
+  ٱلشَّهۡرَ ٱلۡحَرَامَ وَلَا ٱلۡهَدۡيَ وَلَا ٱلۡقَلَٰٓئِدَ وَلَآ ءَآمِّينَ ٱلۡبَيۡتَ
+  ٱلۡحَرَامَ يَبۡتَغُونَ فَضۡلٗا مِّن رَّبِّهِمۡ وَرِضۡوَٰنٗاۚ وَإِذَا حَلَلۡتُمۡ
+  فَٱصۡطَادُواْۚ وَلَا يَجۡرِمَنَّكُمۡ شَنَـَٔانُ قَوۡمٍ أَن صَدُّوكُمۡ عَنِ ٱلۡمَسۡجِدِ
+  ٱلۡحَرَامِ أَن تَعۡتَدُواْۘ وَتَعَاوَنُواْ عَلَى ٱلۡبِرِّ وَٱلتَّقۡوَىٰۖ وَلَا تَعَاوَنُواْ
+  عَلَى ٱلۡإِثۡمِ وَٱلۡعُدۡوَٰنِۚ وَٱتَّقُواْ ٱللَّهَۖ إِنَّ ٱللَّهَ شَدِيدُ ٱلۡعِقَابِ
 sentence_translation: O believers! Do not violate Allah’s rituals ˹of pilgrimage˺,
   the sacred months, the sacrificial animals, the ˹offerings decorated with˺ garlands,
   nor those ˹pilgrims˺ on their way to the Sacred House seeking their Lord’s bounty
@@ -15,15 +14,15 @@ sentence_translation: O believers! Do not violate Allah’s rituals ˹of pilgrim
   sin and transgression. And be mindful of Allah. Surely Allah is severe in punishment.
 word_by_word:
   1:
-    arabic: يٰۤـاَيُّهَا
+    arabic: يَٰٓأَيُّهَا
     translation: O
     transliteration: yāayyuhā
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ ءَ
     translation: you (who)
     transliteration: alladhīna
   3:
-    arabic: اٰمَنُوۡا
+    arabic: امَنُواْ
     translation: believe
     transliteration: āmanū
   4:
@@ -31,15 +30,15 @@ word_by_word:
     translation: (Do) not
     transliteration: lā
   5:
-    arabic: تُحِلُّوۡا
+    arabic: تُحِلُّواْ
     translation: violate
     transliteration: tuḥillū
   6:
-    arabic: شَعَآٮِٕرَ
+    arabic: شَعَٰٓئِرَ
     translation: (the) rites
     transliteration: shaʿāira
   7:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (of) Allah
     transliteration: l-lahi
   8:
@@ -47,11 +46,11 @@ word_by_word:
     translation: and not
     transliteration: walā
   9:
-    arabic: الشَّهۡرَ
+    arabic: ٱلشَّهۡرَ
     translation: the month
     transliteration: l-shahra
   10:
-    arabic: الۡحَـرَامَ
+    arabic: ٱلۡحَرَامَ
     translation: the sacred
     transliteration: l-ḥarāma
   11:
@@ -59,7 +58,7 @@ word_by_word:
     translation: and not
     transliteration: walā
   12:
-    arabic: الۡهَدۡىَ
+    arabic: ٱلۡهَدۡيَ
     translation: the sacrificial animals
     transliteration: l-hadya
   13:
@@ -67,35 +66,35 @@ word_by_word:
     translation: and not
     transliteration: walā
   14:
-    arabic: الۡقَلَٓاٮِٕدَ
+    arabic: ٱلۡقَلَٰٓئِدَ
     translation: the garlanded
     transliteration: l-qalāida
   15:
-    arabic: وَلَاۤ
+    arabic: وَلَآ ءَ
     translation: and not
     transliteration: walā
   16:
-    arabic: آٰمِّيۡنَ
+    arabic: آمِّينَ
     translation: (those) coming
     transliteration: āmmīna
   17:
-    arabic: الۡبَيۡتَ
+    arabic: ٱلۡبَيۡتَ
     translation: (to) the House
     transliteration: l-bayta
   18:
-    arabic: الۡحَـرَامَ
+    arabic: ٱلۡحَرَامَ
     translation: the Sacred
     transliteration: l-ḥarāma
   19:
-    arabic: يَبۡـتَغُوۡنَ
+    arabic: يَبۡتَغُونَ
     translation: seeking
     transliteration: yabtaghūna
   20:
-    arabic: فَضۡلًا
+    arabic: فَضۡلٗا
     translation: Bounty
     transliteration: faḍlan
   21:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: of
     transliteration: min
   22:
@@ -103,11 +102,11 @@ word_by_word:
     translation: their Lord
     transliteration: rabbihim
   23:
-    arabic: وَرِضۡوَانًا ​ؕ
+    arabic: وَرِضۡوَٰنٗاۚ
     translation: and good pleasure
     transliteration: wariḍ'wānan
   24:
-    arabic: وَاِذَا
+    arabic: وَإِذَا
     translation: And when
     transliteration: wa-idhā
   25:
@@ -115,7 +114,7 @@ word_by_word:
     translation: you come out of Ihram
     transliteration: ḥalaltum
   26:
-    arabic: فَاصۡطَادُوۡا​ ؕ
+    arabic: فَٱصۡطَادُواْۚ
     translation: then (you may) hunt
     transliteration: fa-iṣ'ṭādū
   27:
@@ -127,7 +126,7 @@ word_by_word:
     translation: incite you
     transliteration: yajrimannakum
   29:
-    arabic: شَنَاٰنُ
+    arabic: شَنَـَٔانُ
     translation: (the) hatred
     transliteration: shanaānu
   30:
@@ -135,11 +134,11 @@ word_by_word:
     translation: (for) a people
     transliteration: qawmin
   31:
-    arabic: اَنۡ
+    arabic: أَن
     translation: as
     transliteration: an
   32:
-    arabic: صَدُّوۡكُمۡ
+    arabic: صَدُّوكُمۡ
     translation: they stopped you
     transliteration: ṣaddūkum
   33:
@@ -147,23 +146,23 @@ word_by_word:
     translation: from
     transliteration: ʿani
   34:
-    arabic: الۡمَسۡجِدِ
+    arabic: ٱلۡمَسۡجِدِ
     translation: Al-Masjid
     transliteration: l-masjidi
   35:
-    arabic: الۡحَـرَامِ
+    arabic: ٱلۡحَرَامِ
     translation: Al-Haraam
     transliteration: l-ḥarāmi
   36:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that
     transliteration: an
   37:
-    arabic: تَعۡتَدُوۡا​ ۘ
+    arabic: تَعۡتَدُواْۘ
     translation: you commit transgression
     transliteration: taʿtadū
   38:
-    arabic: وَتَعَاوَنُوۡا
+    arabic: وَتَعَاوَنُواْ
     translation: And help one another
     transliteration: wataʿāwanū
   39:
@@ -171,11 +170,11 @@ word_by_word:
     translation: in
     transliteration: ʿalā
   40:
-    arabic: الۡبِرِّ
+    arabic: ٱلۡبِرِّ
     translation: '[the] righteousness'
     transliteration: l-biri
   41:
-    arabic: وَالتَّقۡوٰى​
+    arabic: وَٱلتَّقۡوَىٰۖ
     translation: and [the] piety
     transliteration: wal-taqwā
   42:
@@ -183,7 +182,7 @@ word_by_word:
     translation: but (do) not
     transliteration: walā
   43:
-    arabic: تَعَاوَنُوۡا
+    arabic: تَعَاوَنُواْ
     translation: help one another
     transliteration: taʿāwanū
   44:
@@ -191,35 +190,35 @@ word_by_word:
     translation: in
     transliteration: ʿalā
   45:
-    arabic: الۡاِثۡمِ
+    arabic: ٱلۡإِثۡمِ
     translation: '[the] sin'
     transliteration: l-ith'mi
   46:
-    arabic: وَالۡعُدۡوَانِ​
+    arabic: وَٱلۡعُدۡوَٰنِۚ
     translation: and [the] transgression
     transliteration: wal-ʿud'wāni
   47:
-    arabic: وَاتَّقُوا
+    arabic: وَٱتَّقُواْ
     translation: And fear
     transliteration: wa-ittaqū
   48:
-    arabic: اللّٰهَ ​ؕ
+    arabic: ٱللَّهَۖ
     translation: Allah
     transliteration: l-laha
   49:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: indeed
     transliteration: inna
   50:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   51:
-    arabic: شَدِيۡدُ
+    arabic: شَدِيدُ
     translation: (is) severe
     transliteration: shadīdu
   52:
-    arabic: الۡعِقَابِ‏
+    arabic: ٱلۡعِقَابِ
     translation: (in) [the] punishment
     transliteration: l-ʿiqābi
 ---

@@ -1,17 +1,17 @@
 ---
-arabic_ayat: فِىۡ جَنّٰتٍ ۛ يَتَسَآءَلُوۡنَۙ‏
+arabic_ayat: فِي جَنَّٰتٖ يَتَسَآءَلُونَ
 sentence_translation: who will be in Gardens, asking one another
 word_by_word:
   1:
-    arabic: فِىۡ
+    arabic: فِي
     translation: In
     transliteration: fī
   2:
-    arabic: جَنّٰتٍ ۛ
+    arabic: جَنَّٰتٖ
     translation: Gardens
     transliteration: jannātin
   3:
-    arabic: يَتَسَآءَلُوۡنَۙ‏
+    arabic: يَتَسَآءَلُونَ
     translation: asking each other
     transliteration: yatasāalūna
 ---

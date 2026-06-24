@@ -1,22 +1,21 @@
 ---
-arabic_ayat: "اُولٰٓٮِٕكَ يُسَارِعُوۡنَ فِىۡ الۡخَيۡـرٰتِ وَهُمۡ لَهَا سٰبِقُوۡنَ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: أُوْلَٰٓئِكَ يُسَٰرِعُونَ فِي ٱلۡخَيۡرَٰتِ وَهُمۡ لَهَا سَٰبِقُونَ
 sentence_translation: it is they who race to do good deeds, always taking the lead.
 word_by_word:
   1:
-    arabic: اُولٰٓٮِٕكَ
+    arabic: أُوْلَٰٓئِكَ
     translation: (It is) those
     transliteration: ulāika
   2:
-    arabic: يُسَارِعُوۡنَ
+    arabic: يُسَٰرِعُونَ
     translation: who hasten
     transliteration: yusāriʿūna
   3:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   4:
-    arabic: الۡخَيۡـرٰتِ
+    arabic: ٱلۡخَيۡرَٰتِ
     translation: the good (deeds)
     transliteration: l-khayrāti
   5:
@@ -28,7 +27,7 @@ word_by_word:
     translation: in them
     transliteration: lahā
   7:
-    arabic: "سٰبِقُوۡنَ‏ \uFEFF\uFEFF"
+    arabic: سَٰبِقُونَ
     translation: (are) foremost
     transliteration: sābiqūna
 ---

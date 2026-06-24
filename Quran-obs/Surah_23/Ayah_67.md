@@ -1,22 +1,22 @@
 ---
-arabic_ayat: مُسۡتَكۡبِرِيۡنَ ​ۖ  بِهٖ سٰمِرًا تَهۡجُرُوۡنَ‏
+arabic_ayat: مُسۡتَكۡبِرِينَ بِهِۦ سَٰمِرٗا تَهۡجُرُونَ
 sentence_translation: boasting of the Sacred House, and babbling ˹nonsense about the
   Quran˺ by night.”
 word_by_word:
   1:
-    arabic: مُسۡتَكۡبِرِيۡنَ ​ۖ 
+    arabic: مُسۡتَكۡبِرِينَ
     translation: (Being) arrogant
     transliteration: mus'takbirīna
   2:
-    arabic: بِهٖ
+    arabic: بِهِۦ
     translation: about it
     transliteration: bihi
   3:
-    arabic: سٰمِرًا
+    arabic: سَٰمِرٗا
     translation: conversing by night
     transliteration: sāmiran
   4:
-    arabic: تَهۡجُرُوۡنَ‏
+    arabic: تَهۡجُرُونَ
     translation: speaking evil
     transliteration: tahjurūna
 ---

@@ -1,7 +1,6 @@
 ---
-arabic_ayat: "وَلَا يُنۡفِقُوۡنَ نَفَقَةً صَغِيۡرَةً وَّلَا كَبِيۡرَةً وَّلَا يَقۡطَعُوۡنَ\
-  \ وَادِيًا اِلَّا كُتِبَ لَهُمۡ لِيَجۡزِيَهُمُ اللّٰهُ اَحۡسَنَ مَا كَانُوۡا يَعۡمَلُوۡنَ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: وَلَا يُنفِقُونَ نَفَقَةٗ صَغِيرَةٗ وَلَا كَبِيرَةٗ وَلَا يَقۡطَعُونَ
+  وَادِيًا إِلَّا كُتِبَ لَهُمۡ لِيَجۡزِيَهُمُ ٱللَّهُ أَحۡسَنَ مَا كَانُواْ يَعۡمَلُونَ
 sentence_translation: And whenever they make a donation, small or large, or cross
   a valley ˹in Allah’s cause˺—it is written to their credit, so that Allah may grant
   them the best reward for what they used to do.
@@ -11,31 +10,31 @@ word_by_word:
     translation: And not
     transliteration: walā
   2:
-    arabic: يُنۡفِقُوۡنَ
+    arabic: يُنفِقُونَ
     translation: they spend
     transliteration: yunfiqūna
   3:
-    arabic: نَفَقَةً
+    arabic: نَفَقَةٗ
     translation: any spending
     transliteration: nafaqatan
   4:
-    arabic: صَغِيۡرَةً
+    arabic: صَغِيرَةٗ
     translation: small
     transliteration: ṣaghīratan
   5:
-    arabic: وَّلَا
+    arabic: وَلَا
     translation: and not
     transliteration: walā
   6:
-    arabic: كَبِيۡرَةً
+    arabic: كَبِيرَةٗ
     translation: big
     transliteration: kabīratan
   7:
-    arabic: وَّلَا
+    arabic: وَلَا
     translation: and not
     transliteration: walā
   8:
-    arabic: يَقۡطَعُوۡنَ
+    arabic: يَقۡطَعُونَ
     translation: they cross
     transliteration: yaqṭaʿūna
   9:
@@ -43,7 +42,7 @@ word_by_word:
     translation: a valley
     transliteration: wādiyan
   10:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: but
     transliteration: illā
   11:
@@ -59,11 +58,11 @@ word_by_word:
     translation: that Allah may reward them
     transliteration: liyajziyahumu
   14:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: that Allah may reward them
     transliteration: l-lahu
   15:
-    arabic: اَحۡسَنَ
+    arabic: أَحۡسَنَ
     translation: the best
     transliteration: aḥsana
   16:
@@ -71,11 +70,11 @@ word_by_word:
     translation: (of) what
     transliteration: mā
   17:
-    arabic: كَانُوۡا
+    arabic: كَانُواْ
     translation: they used (to)
     transliteration: kānū
   18:
-    arabic: "يَعۡمَلُوۡنَ‏ \uFEFF\uFEFF"
+    arabic: يَعۡمَلُونَ
     translation: do
     transliteration: yaʿmalūna
 ---

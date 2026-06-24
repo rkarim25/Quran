@@ -1,9 +1,9 @@
 ---
-arabic_ayat: وَاَنَّهٗ هُوَ اَضۡحَكَ وَاَبۡكٰىۙ‏
+arabic_ayat: وَأَنَّهُۥ هُوَ أَضۡحَكَ وَأَبۡكَىٰ
 sentence_translation: Moreover, He is the One Who brings about joy and sadness.
 word_by_word:
   1:
-    arabic: وَاَنَّهٗ
+    arabic: وَأَنَّهُۥ
     translation: And that He
     transliteration: wa-annahu
   2:
@@ -11,11 +11,11 @@ word_by_word:
     translation: '[He]'
     transliteration: huwa
   3:
-    arabic: اَضۡحَكَ
+    arabic: أَضۡحَكَ
     translation: makes (one) laugh
     transliteration: aḍḥaka
   4:
-    arabic: وَاَبۡكٰىۙ‏
+    arabic: وَأَبۡكَىٰ
     translation: and makes (one) weep
     transliteration: wa-abkā
 ---

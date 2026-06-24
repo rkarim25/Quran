@@ -1,7 +1,6 @@
 ---
-arabic_ayat: "يَحۡذَرُ الۡمُنٰفِقُوۡنَ اَنۡ تُنَزَّلَ عَلَيۡهِمۡ سُوۡرَةٌ تُنَبِّئُهُمۡ\
-  \ بِمَا فِىۡ قُلُوۡبِهِمۡ​ ؕ قُلِ اسۡتَهۡزِءُوۡا​ ۚ اِنَّ اللّٰهَ مُخۡرِجٌ مَّا\
-  \ تَحۡذَرُوۡنَ‏ \uFEFF\uFEFF"
+arabic_ayat: يَحۡذَرُ ٱلۡمُنَٰفِقُونَ أَن تُنَزَّلَ عَلَيۡهِمۡ سُورَةٞ تُنَبِّئُهُم
+  بِمَا فِي قُلُوبِهِمۡۚ قُلِ ٱسۡتَهۡزِءُوٓاْ إِنَّ ٱللَّهَ مُخۡرِجٞ مَّا تَحۡذَرُونَ
 sentence_translation: The hypocrites fear that a sûrah should be revealed about them,
   exposing what is in their hearts. Say, ˹O Prophet,˺ “Keep mocking! Allah will definitely
   bring to light what you fear.”
@@ -11,11 +10,11 @@ word_by_word:
     translation: Fear
     transliteration: yaḥdharu
   2:
-    arabic: الۡمُنٰفِقُوۡنَ
+    arabic: ٱلۡمُنَٰفِقُونَ
     translation: the hypocrites
     transliteration: l-munāfiqūna
   3:
-    arabic: اَنۡ
+    arabic: أَن
     translation: lest
     transliteration: an
   4:
@@ -27,11 +26,11 @@ word_by_word:
     translation: about them
     transliteration: ʿalayhim
   6:
-    arabic: سُوۡرَةٌ
+    arabic: سُورَةٞ
     translation: a Surah
     transliteration: sūratun
   7:
-    arabic: تُنَبِّئُهُمۡ
+    arabic: تُنَبِّئُهُم
     translation: informing them
     transliteration: tunabbi-uhum
   8:
@@ -39,11 +38,11 @@ word_by_word:
     translation: of what
     transliteration: bimā
   9:
-    arabic: فِىۡ
+    arabic: فِي
     translation: (is) in
     transliteration: fī
   10:
-    arabic: قُلُوۡبِهِمۡ​ ؕ
+    arabic: قُلُوبِهِمۡۚ
     translation: their hearts
     transliteration: qulūbihim
   11:
@@ -51,19 +50,19 @@ word_by_word:
     translation: Say
     transliteration: quli
   12:
-    arabic: اسۡتَهۡزِءُوۡا​ ۚ
+    arabic: ٱسۡتَهۡزِءُوٓاْ
     translation: Mock
     transliteration: is'tahziū
   13:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: indeed
     transliteration: inna
   14:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   15:
-    arabic: مُخۡرِجٌ
+    arabic: مُخۡرِجٞ
     translation: (will) bring forth
     transliteration: mukh'rijun
   16:
@@ -71,7 +70,7 @@ word_by_word:
     translation: what
     transliteration: mā
   17:
-    arabic: "تَحۡذَرُوۡنَ‏ \uFEFF\uFEFF"
+    arabic: تَحۡذَرُونَ
     translation: you fear
     transliteration: taḥdharūna
 ---

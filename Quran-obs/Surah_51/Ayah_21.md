@@ -1,21 +1,21 @@
 ---
-arabic_ayat: وَفِىۡۤ اَنۡفُسِكُمۡ​ؕ اَفَلَا تُبۡصِرُوۡنَ‏
+arabic_ayat: وَفِيٓ أَنفُسِكُمۡۚ أَفَلَا تُبۡصِرُونَ
 sentence_translation: as there are within yourselves. Can you not see?
 word_by_word:
   1:
-    arabic: وَفِىۡۤ
+    arabic: وَفِيٓ
     translation: And in
     transliteration: wafī
   2:
-    arabic: اَنۡفُسِكُمۡ​ؕ
+    arabic: أَنفُسِكُمۡۚ
     translation: yourselves
     transliteration: anfusikum
   3:
-    arabic: اَفَلَا
+    arabic: أَفَلَا
     translation: Then will not
     transliteration: afalā
   4:
-    arabic: تُبۡصِرُوۡنَ‏
+    arabic: تُبۡصِرُونَ
     translation: you see
     transliteration: tub'ṣirūna
 ---

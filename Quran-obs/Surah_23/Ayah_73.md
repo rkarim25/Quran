@@ -1,25 +1,25 @@
 ---
-arabic_ayat: وَاِنَّكَ لَـتَدۡعُوۡهُمۡ اِلٰى صِرَاطٍ مُّسۡتَقِيۡمٍ‏
+arabic_ayat: وَإِنَّكَ لَتَدۡعُوهُمۡ إِلَىٰ صِرَٰطٖ مُّسۡتَقِيمٖ
 sentence_translation: And surely you are calling them to the Straight Path,
 word_by_word:
   1:
-    arabic: وَاِنَّكَ
+    arabic: وَإِنَّكَ
     translation: And indeed, you
     transliteration: wa-innaka
   2:
-    arabic: لَـتَدۡعُوۡهُمۡ
+    arabic: لَتَدۡعُوهُمۡ
     translation: certainly call them
     transliteration: latadʿūhum
   3:
-    arabic: اِلٰى
+    arabic: إِلَىٰ
     translation: to
     transliteration: ilā
   4:
-    arabic: صِرَاطٍ
+    arabic: صِرَٰطٖ
     translation: (the) Path
     transliteration: ṣirāṭin
   5:
-    arabic: مُّسۡتَقِيۡمٍ‏
+    arabic: مُّسۡتَقِيمٖ
     translation: Straight
     transliteration: mus'taqīmin
 ---

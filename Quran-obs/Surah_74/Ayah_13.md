@@ -1,13 +1,13 @@
 ---
-arabic_ayat: وَّبَنِيۡنَ شُهُوۡدًا ۙ‏
+arabic_ayat: وَبَنِينَ شُهُودٗا
 sentence_translation: and children always by his side,
 word_by_word:
   1:
-    arabic: وَّبَنِيۡنَ
+    arabic: وَبَنِينَ
     translation: And children
     transliteration: wabanīna
   2:
-    arabic: شُهُوۡدًا ۙ‏
+    arabic: شُهُودٗا
     translation: present
     transliteration: shuhūdan
 ---

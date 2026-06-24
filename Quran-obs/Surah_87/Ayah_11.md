@@ -1,5 +1,5 @@
 ---
-arabic_ayat: وَيَتَجَنَّبُهَا الۡاَشۡقَىۙ‏
+arabic_ayat: وَيَتَجَنَّبُهَا ٱلۡأَشۡقَى
 sentence_translation: But it will be shunned by the most wretched,
 word_by_word:
   1:
@@ -7,7 +7,7 @@ word_by_word:
     translation: And will avoid it
     transliteration: wayatajannabuhā
   2:
-    arabic: الۡاَشۡقَىۙ‏
+    arabic: ٱلۡأَشۡقَى
     translation: the wretched one
     transliteration: l-ashqā
 ---

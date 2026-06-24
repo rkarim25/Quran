@@ -1,17 +1,17 @@
 ---
-arabic_ayat: سَلٰمٌ عَلٰٓى اِبۡرٰهِيۡمَ‏
+arabic_ayat: سَلَٰمٌ عَلَىٰٓ إِبۡرَٰهِيمَ
 sentence_translation: “Peace be upon Abraham.”
 word_by_word:
   1:
-    arabic: سَلٰمٌ
+    arabic: سَلَٰمٌ
     translation: Peace be
     transliteration: salāmun
   2:
-    arabic: عَلٰٓى
+    arabic: عَلَىٰٓ
     translation: 'on'
     transliteration: ʿalā
   3:
-    arabic: اِبۡرٰهِيۡمَ‏
+    arabic: إِبۡرَٰهِيمَ
     translation: Ibrahim
     transliteration: ib'rāhīma
 ---

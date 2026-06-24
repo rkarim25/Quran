@@ -1,22 +1,22 @@
 ---
-arabic_ayat: وَاِنَّ لَهٗ عِنۡدَنَا لَزُلۡفٰى وَحُسۡنَ مَاٰبٍ‏
+arabic_ayat: وَإِنَّ لَهُۥ عِندَنَا لَزُلۡفَىٰ وَحُسۡنَ مَـَٔابٖ
 sentence_translation: And he will indeed have ˹a status of˺ closeness to Us and an
   honourable destination!
 word_by_word:
   1:
-    arabic: وَاِنَّ
+    arabic: وَإِنَّ
     translation: And indeed
     transliteration: wa-inna
   2:
-    arabic: لَهٗ
+    arabic: لَهُۥ
     translation: for him
     transliteration: lahu
   3:
-    arabic: عِنۡدَنَا
+    arabic: عِندَنَا
     translation: with Us
     transliteration: ʿindanā
   4:
-    arabic: لَزُلۡفٰى
+    arabic: لَزُلۡفَىٰ
     translation: surely is a near access
     transliteration: lazul'fā
   5:
@@ -24,7 +24,7 @@ word_by_word:
     translation: and a good
     transliteration: waḥus'na
   6:
-    arabic: مَاٰبٍ‏
+    arabic: مَـَٔابٖ
     translation: place of return
     transliteration: maābin
 ---

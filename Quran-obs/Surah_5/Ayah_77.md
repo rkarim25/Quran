@@ -1,7 +1,7 @@
 ---
-arabic_ayat: قُلۡ يٰۤـاَهۡلَ الۡـكِتٰبِ لَا تَغۡلُوۡا فِىۡ دِيۡـنِكُمۡ غَيۡرَ الۡحَـقِّ
-  وَلَا تَتَّبِعُوۡۤا اَهۡوَآءَ قَوۡمٍ قَدۡ ضَلُّوۡا مِنۡ قَبۡلُ وَاَضَلُّوۡا كَثِيۡرًا
-  وَّضَلُّوۡا عَنۡ سَوَآءِ السَّبِيۡلِ‏
+arabic_ayat: قُلۡ يَٰٓأَهۡلَ ٱلۡكِتَٰبِ لَا تَغۡلُواْ فِي دِينِكُمۡ غَيۡرَ ٱلۡحَقِّ
+  وَلَا تَتَّبِعُوٓاْ أَهۡوَآءَ قَوۡمٖ قَدۡ ضَلُّواْ مِن قَبۡلُ وَأَضَلُّواْ كَثِيرٗا
+  وَضَلُّواْ عَن سَوَآءِ ٱلسَّبِيلِ
 sentence_translation: Say, “O People of the Book! Do not go to extremes in your faith
   beyond the truth, nor follow the vain desires of those who went astray before ˹you˺.
   They misled many and strayed from the Right Way.”
@@ -11,11 +11,11 @@ word_by_word:
     translation: Say
     transliteration: qul
   2:
-    arabic: يٰۤـاَهۡلَ
+    arabic: يَٰٓأَهۡلَ
     translation: O People
     transliteration: yāahla
   3:
-    arabic: الۡـكِتٰبِ
+    arabic: ٱلۡكِتَٰبِ
     translation: (of) the Book
     transliteration: l-kitābi
   4:
@@ -23,15 +23,15 @@ word_by_word:
     translation: (Do) not
     transliteration: lā
   5:
-    arabic: تَغۡلُوۡا
+    arabic: تَغۡلُواْ
     translation: exceed
     transliteration: taghlū
   6:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   7:
-    arabic: دِيۡـنِكُمۡ
+    arabic: دِينِكُمۡ
     translation: your religion
     transliteration: dīnikum
   8:
@@ -39,7 +39,7 @@ word_by_word:
     translation: other than
     transliteration: ghayra
   9:
-    arabic: الۡحَـقِّ
+    arabic: ٱلۡحَقِّ
     translation: the truth
     transliteration: l-ḥaqi
   10:
@@ -47,15 +47,15 @@ word_by_word:
     translation: and (do) not
     transliteration: walā
   11:
-    arabic: تَتَّبِعُوۡۤا
+    arabic: تَتَّبِعُوٓاْ
     translation: follow
     transliteration: tattabiʿū
   12:
-    arabic: اَهۡوَآءَ
+    arabic: أَهۡوَآءَ
     translation: (vain) desires
     transliteration: ahwāa
   13:
-    arabic: قَوۡمٍ
+    arabic: قَوۡمٖ
     translation: (of) a people
     transliteration: qawmin
   14:
@@ -63,11 +63,11 @@ word_by_word:
     translation: certainly
     transliteration: qad
   15:
-    arabic: ضَلُّوۡا
+    arabic: ضَلُّواْ
     translation: who went astray
     transliteration: ḍallū
   16:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   17:
@@ -75,19 +75,19 @@ word_by_word:
     translation: before
     transliteration: qablu
   18:
-    arabic: وَاَضَلُّوۡا
+    arabic: وَأَضَلُّواْ
     translation: and they misled
     transliteration: wa-aḍallū
   19:
-    arabic: كَثِيۡرًا
+    arabic: كَثِيرٗا
     translation: many
     transliteration: kathīran
   20:
-    arabic: وَّضَلُّوۡا
+    arabic: وَضَلُّواْ
     translation: and they have strayed
     transliteration: waḍallū
   21:
-    arabic: عَنۡ
+    arabic: عَن
     translation: from
     transliteration: ʿan
   22:
@@ -95,7 +95,7 @@ word_by_word:
     translation: (the) right
     transliteration: sawāi
   23:
-    arabic: السَّبِيۡلِ‏
+    arabic: ٱلسَّبِيلِ
     translation: '[the] way'
     transliteration: l-sabīli
 ---

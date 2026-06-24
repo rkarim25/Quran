@@ -1,13 +1,13 @@
 ---
-arabic_ayat: فَالسّٰبِقٰتِ سَبۡقًا ۙ‏
+arabic_ayat: فَٱلسَّٰبِقَٰتِ سَبۡقٗا
 sentence_translation: and those taking the lead vigorously,
 word_by_word:
   1:
-    arabic: فَالسّٰبِقٰتِ
+    arabic: فَٱلسَّٰبِقَٰتِ
     translation: And those who race each other
     transliteration: fal-sābiqāti
   2:
-    arabic: سَبۡقًا ۙ‏
+    arabic: سَبۡقٗا
     translation: (in) a race
     transliteration: sabqan
 ---

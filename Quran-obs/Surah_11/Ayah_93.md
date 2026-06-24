@@ -1,21 +1,21 @@
 ---
-arabic_ayat: وَيٰقَوۡمِ اعۡمَلُوۡا عَلٰى مَكَانَتِكُمۡ اِنِّىۡ عَامِلٌ​ ؕ سَوۡفَ تَعۡلَمُوۡنَ
-  ۙ مَنۡ يَّاۡتِيۡهِ عَذَابٌ يُّخۡزِيۡهِ وَمَنۡ هُوَ كَاذِبٌ​ ؕ وَارۡتَقِبُوۡۤا اِنِّىۡ
-  مَعَكُمۡ رَقِيۡبٌ‏
+arabic_ayat: وَيَٰقَوۡمِ ٱعۡمَلُواْ عَلَىٰ مَكَانَتِكُمۡ إِنِّي عَٰمِلٞۖ سَوۡفَ تَعۡلَمُونَ
+  مَن يَأۡتِيهِ عَذَابٞ يُخۡزِيهِ وَمَنۡ هُوَ كَٰذِبٞۖ وَٱرۡتَقِبُوٓاْ إِنِّي مَعَكُمۡ
+  رَقِيبٞ
 sentence_translation: O  my people! Persist in your ways, for I ˹too˺ will persist
   in mine. You will soon come to know who will be visited by a humiliating torment
   and is a liar! And watch! I too am watching with you!”
 word_by_word:
   1:
-    arabic: وَيٰقَوۡمِ
+    arabic: وَيَٰقَوۡمِ
     translation: And O my people
     transliteration: wayāqawmi
   2:
-    arabic: اعۡمَلُوۡا
+    arabic: ٱعۡمَلُواْ
     translation: Work
     transliteration: iʿ'malū
   3:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: (according) to
     transliteration: ʿalā
   4:
@@ -23,11 +23,11 @@ word_by_word:
     translation: your position
     transliteration: makānatikum
   5:
-    arabic: اِنِّىۡ
+    arabic: إِنِّي
     translation: indeed, I am
     transliteration: innī
   6:
-    arabic: عَامِلٌ​ ؕ
+    arabic: عَٰمِلٞۖ
     translation: working
     transliteration: ʿāmilun
   7:
@@ -35,23 +35,23 @@ word_by_word:
     translation: Soon
     transliteration: sawfa
   8:
-    arabic: تَعۡلَمُوۡنَ ۙ
+    arabic: تَعۡلَمُونَ
     translation: you will know
     transliteration: taʿlamūna
   9:
-    arabic: مَنۡ
+    arabic: مَن
     translation: (on) whom
     transliteration: man
   10:
-    arabic: يَّاۡتِيۡهِ
+    arabic: يَأۡتِيهِ
     translation: will come
     transliteration: yatīhi
   11:
-    arabic: عَذَابٌ
+    arabic: عَذَابٞ
     translation: a punishment
     transliteration: ʿadhābun
   12:
-    arabic: يُّخۡزِيۡهِ
+    arabic: يُخۡزِيهِ
     translation: (that will) disgrace him
     transliteration: yukh'zīhi
   13:
@@ -63,15 +63,15 @@ word_by_word:
     translation: '[he]'
     transliteration: huwa
   15:
-    arabic: كَاذِبٌ​ ؕ
+    arabic: كَٰذِبٞۖ
     translation: (is) a liar
     transliteration: kādhibun
   16:
-    arabic: وَارۡتَقِبُوۡۤا
+    arabic: وَٱرۡتَقِبُوٓاْ
     translation: And watch
     transliteration: wa-ir'taqibū
   17:
-    arabic: اِنِّىۡ
+    arabic: إِنِّي
     translation: indeed, I am
     transliteration: innī
   18:
@@ -79,7 +79,7 @@ word_by_word:
     translation: with you
     transliteration: maʿakum
   19:
-    arabic: رَقِيۡبٌ‏
+    arabic: رَقِيبٞ
     translation: a watcher
     transliteration: raqībun
 ---

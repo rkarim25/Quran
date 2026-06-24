@@ -1,13 +1,13 @@
 ---
-arabic_ayat: قَالُوۡۤا اٰمَنَّا بِرَبِّ الۡعٰلَمِيۡنَ ۙ‏
+arabic_ayat: قَالُوٓاْ ءَامَنَّا بِرَبِّ ٱلۡعَٰلَمِينَ
 sentence_translation: They declared, “We ˹now˺ believe in the Lord of all worlds—
 word_by_word:
   1:
-    arabic: قَالُوۡۤا
+    arabic: قَالُوٓاْ ءَ
     translation: They said
     transliteration: qālū
   2:
-    arabic: اٰمَنَّا
+    arabic: امَنَّا
     translation: We believe
     transliteration: āmannā
   3:
@@ -15,7 +15,7 @@ word_by_word:
     translation: in (the) Lord
     transliteration: birabbi
   4:
-    arabic: الۡعٰلَمِيۡنَ ۙ‏
+    arabic: ٱلۡعَٰلَمِينَ
     translation: (of) the worlds
     transliteration: l-ʿālamīna
 ---

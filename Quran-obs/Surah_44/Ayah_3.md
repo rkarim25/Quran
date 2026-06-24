@@ -1,31 +1,30 @@
 ---
-arabic_ayat: "اِنَّاۤ اَنۡزَلۡنٰهُ فِىۡ لَيۡلَةٍ مُّبٰـرَكَةٍ​ اِنَّا كُنَّا مُنۡذِرِيۡنَ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: إِنَّآ أَنزَلۡنَٰهُ فِي لَيۡلَةٖ مُّبَٰرَكَةٍۚ إِنَّا كُنَّا مُنذِرِينَ
 sentence_translation: Indeed, We sent it down on a blessed night, for We always warn
   ˹against evil˺.
 word_by_word:
   1:
-    arabic: اِنَّاۤ
+    arabic: إِنَّآ
     translation: Indeed, We
     transliteration: innā
   2:
-    arabic: اَنۡزَلۡنٰهُ
+    arabic: أَنزَلۡنَٰهُ
     translation: revealed it
     transliteration: anzalnāhu
   3:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   4:
-    arabic: لَيۡلَةٍ
+    arabic: لَيۡلَةٖ
     translation: a Night
     transliteration: laylatin
   5:
-    arabic: مُّبٰـرَكَةٍ​
+    arabic: مُّبَٰرَكَةٍۚ
     translation: Blessed
     transliteration: mubārakatin
   6:
-    arabic: اِنَّا
+    arabic: إِنَّا
     translation: Indeed, We
     transliteration: innā
   7:
@@ -33,7 +32,7 @@ word_by_word:
     translation: '[We] are'
     transliteration: kunnā
   8:
-    arabic: "مُنۡذِرِيۡنَ‏ \uFEFF\uFEFF"
+    arabic: مُنذِرِينَ
     translation: (ever) warning
     transliteration: mundhirīna
 ---

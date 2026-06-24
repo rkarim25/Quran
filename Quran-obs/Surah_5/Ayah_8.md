@@ -1,34 +1,34 @@
 ---
-arabic_ayat: يٰۤـاَيُّهَا الَّذِيۡنَ اٰمَنُوۡا كُوۡنُوۡا قَوَّا امِيۡنَ لِلّٰهِ شُهَدَآءَ
-  بِالۡقِسۡطِ​ وَلَا يَجۡرِمَنَّكُمۡ شَنَاٰنُ قَوۡمٍ عَلٰٓى اَ لَّا تَعۡدِلُوۡا​
-  ؕ اِعۡدِلُوۡا هُوَ اَقۡرَبُ لِلتَّقۡوٰى​ وَاتَّقُوا اللّٰهَ​ ؕ اِنَّ اللّٰهَ خَبِيۡرٌۢ
-  بِمَا تَعۡمَلُوۡنَ‏
+arabic_ayat: يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُواْ كُونُواْ قَوَّٰمِينَ لِلَّهِ شُهَدَآءَ
+  بِٱلۡقِسۡطِۖ وَلَا يَجۡرِمَنَّكُمۡ شَنَـَٔانُ قَوۡمٍ عَلَىٰٓ أَلَّا تَعۡدِلُواْۚ
+  ٱعۡدِلُواْ هُوَ أَقۡرَبُ لِلتَّقۡوَىٰۖ وَٱتَّقُواْ ٱللَّهَۚ إِنَّ ٱللَّهَ خَبِيرُۢ
+  بِمَا تَعۡمَلُونَ
 sentence_translation: O believers! Stand firm for Allah and bear true testimony. Do
   not let the hatred of a people lead you to injustice. Be just! That is closer to
   righteousness. And be mindful of Allah. Surely Allah is All-Aware of what you do.
 word_by_word:
   1:
-    arabic: يٰۤـاَيُّهَا
+    arabic: يَٰٓأَيُّهَا
     translation: O you
     transliteration: yāayyuhā
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ ءَ
     translation: who
     transliteration: alladhīna
   3:
-    arabic: اٰمَنُوۡا
+    arabic: امَنُواْ
     translation: believe
     transliteration: āmanū
   4:
-    arabic: كُوۡنُوۡا
+    arabic: كُونُواْ
     translation: Be
     transliteration: kūnū
   5:
-    arabic: قَوَّا امِيۡنَ
+    arabic: قَوَّٰمِينَ
     translation: steadfast
     transliteration: qawwāmīna
   6:
-    arabic: لِلّٰهِ
+    arabic: لِلَّهِ
     translation: for Allah
     transliteration: lillahi
   7:
@@ -36,7 +36,7 @@ word_by_word:
     translation: (as) witnesses
     transliteration: shuhadāa
   8:
-    arabic: بِالۡقِسۡطِ​
+    arabic: بِٱلۡقِسۡطِۖ
     translation: in justice
     transliteration: bil-qis'ṭi
   9:
@@ -48,7 +48,7 @@ word_by_word:
     translation: prevent you
     transliteration: yajrimannakum
   11:
-    arabic: شَنَاٰنُ
+    arabic: شَنَـَٔانُ
     translation: hatred
     transliteration: shanaānu
   12:
@@ -56,19 +56,19 @@ word_by_word:
     translation: (of) a people
     transliteration: qawmin
   13:
-    arabic: عَلٰٓى
+    arabic: عَلَىٰٓ
     translation: '[upon]'
     transliteration: ʿalā
   14:
-    arabic: اَ لَّا
+    arabic: أَلَّا
     translation: that not
     transliteration: allā
   15:
-    arabic: تَعۡدِلُوۡا​ ؕ
+    arabic: تَعۡدِلُواْۚ
     translation: you do justice
     transliteration: taʿdilū
   16:
-    arabic: اِعۡدِلُوۡا
+    arabic: ٱعۡدِلُواْ
     translation: Be just
     transliteration: iʿ'dilū
   17:
@@ -76,31 +76,31 @@ word_by_word:
     translation: it
     transliteration: huwa
   18:
-    arabic: اَقۡرَبُ
+    arabic: أَقۡرَبُ
     translation: (is) nearer
     transliteration: aqrabu
   19:
-    arabic: لِلتَّقۡوٰى​
+    arabic: لِلتَّقۡوَىٰۖ
     translation: to [the] piety
     transliteration: lilttaqwā
   20:
-    arabic: وَاتَّقُوا
+    arabic: وَٱتَّقُواْ
     translation: And fear
     transliteration: wa-ittaqū
   21:
-    arabic: اللّٰهَ​ ؕ
+    arabic: ٱللَّهَۚ
     translation: Allah
     transliteration: l-laha
   22:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: indeed
     transliteration: inna
   23:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   24:
-    arabic: خَبِيۡرٌۢ
+    arabic: خَبِيرُۢ
     translation: (is) All-Aware
     transliteration: khabīrun
   25:
@@ -108,7 +108,7 @@ word_by_word:
     translation: of what
     transliteration: bimā
   26:
-    arabic: تَعۡمَلُوۡنَ‏
+    arabic: تَعۡمَلُونَ
     translation: you do
     transliteration: taʿmalūna
 ---

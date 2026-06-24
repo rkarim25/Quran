@@ -1,21 +1,21 @@
 ---
-arabic_ayat: وَتَاۡكُلُوۡنَ التُّرَاثَ اَكۡلًا لَّـمًّا ۙ‏
+arabic_ayat: وَتَأۡكُلُونَ ٱلتُّرَاثَ أَكۡلٗا لَّمّٗا
 sentence_translation: And you devour ˹others’˺ inheritance greedily,
 word_by_word:
   1:
-    arabic: وَتَاۡكُلُوۡنَ
+    arabic: وَتَأۡكُلُونَ
     translation: And you consume
     transliteration: watakulūna
   2:
-    arabic: التُّرَاثَ
+    arabic: ٱلتُّرَاثَ
     translation: the inheritance
     transliteration: l-turātha
   3:
-    arabic: اَكۡلًا
+    arabic: أَكۡلٗا
     translation: devouring
     transliteration: aklan
   4:
-    arabic: لَّـمًّا ۙ‏
+    arabic: لَّمّٗا
     translation: altogether
     transliteration: lamman
 ---

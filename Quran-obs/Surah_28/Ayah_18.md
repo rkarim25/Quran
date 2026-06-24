@@ -1,49 +1,48 @@
 ---
-arabic_ayat: "فَاَصۡبَحَ فِى الۡمَدِيۡنَةِ خَآٮِٕفًا يَّتَرَقَّبُ فَاِذَا الَّذِى\
-  \ اسۡتَـنۡصَرَهٗ بِالۡاَمۡسِ يَسۡتَصۡرِخُهٗ​ ؕ قَالَ لَهٗ مُوۡسٰٓى اِنَّكَ لَـغَوِىٌّ\
-  \ مُّبِيۡنٌ‏ \uFEFF\uFEFF"
+arabic_ayat: فَأَصۡبَحَ فِي ٱلۡمَدِينَةِ خَآئِفٗا يَتَرَقَّبُ فَإِذَا ٱلَّذِي ٱسۡتَنصَرَهُۥ
+  بِٱلۡأَمۡسِ يَسۡتَصۡرِخُهُۥۚ قَالَ لَهُۥ مُوسَىٰٓ إِنَّكَ لَغَوِيّٞ مُّبِينٞ
 sentence_translation: And so Moses became fearful, watching out in the city, when
   suddenly the one who sought his help the day before cried out to him again for help.
   Moses rebuked him, “Indeed, you are clearly a trouble-maker.”
 word_by_word:
   1:
-    arabic: فَاَصۡبَحَ
+    arabic: فَأَصۡبَحَ
     translation: In the morning he was
     transliteration: fa-aṣbaḥa
   2:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   3:
-    arabic: الۡمَدِيۡنَةِ
+    arabic: ٱلۡمَدِينَةِ
     translation: the city
     transliteration: l-madīnati
   4:
-    arabic: خَآٮِٕفًا
+    arabic: خَآئِفٗا
     translation: fearful
     transliteration: khāifan
   5:
-    arabic: يَّتَرَقَّبُ
+    arabic: يَتَرَقَّبُ
     translation: (and) was vigilant
     transliteration: yataraqqabu
   6:
-    arabic: فَاِذَا
+    arabic: فَإِذَا
     translation: when behold
     transliteration: fa-idhā
   7:
-    arabic: الَّذِى
+    arabic: ٱلَّذِي
     translation: The one who
     transliteration: alladhī
   8:
-    arabic: اسۡتَـنۡصَرَهٗ
+    arabic: ٱسۡتَنصَرَهُۥ
     translation: sought his help
     transliteration: is'tanṣarahu
   9:
-    arabic: بِالۡاَمۡسِ
+    arabic: بِٱلۡأَمۡسِ
     translation: the previous day
     transliteration: bil-amsi
   10:
-    arabic: يَسۡتَصۡرِخُهٗ​ ؕ
+    arabic: يَسۡتَصۡرِخُهُۥۚ
     translation: cried out to him for help
     transliteration: yastaṣrikhuhu
   11:
@@ -51,23 +50,23 @@ word_by_word:
     translation: Said
     transliteration: qāla
   12:
-    arabic: لَهٗ
+    arabic: لَهُۥ
     translation: to him
     transliteration: lahu
   13:
-    arabic: مُوۡسٰٓى
+    arabic: مُوسَىٰٓ
     translation: Musa
     transliteration: mūsā
   14:
-    arabic: اِنَّكَ
+    arabic: إِنَّكَ
     translation: Indeed, you
     transliteration: innaka
   15:
-    arabic: لَـغَوِىٌّ
+    arabic: لَغَوِيّٞ
     translation: (are) surely a deviator
     transliteration: laghawiyyun
   16:
-    arabic: "مُّبِيۡنٌ‏ \uFEFF\uFEFF"
+    arabic: مُّبِينٞ
     translation: clear
     transliteration: mubīnun
 ---

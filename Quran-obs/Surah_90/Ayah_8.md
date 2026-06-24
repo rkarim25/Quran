@@ -1,21 +1,21 @@
 ---
-arabic_ayat: اَلَمۡ نَجۡعَلۡ لَّهٗ عَيۡنَيۡنِۙ‏
+arabic_ayat: أَلَمۡ نَجۡعَل لَّهُۥ عَيۡنَيۡنِ
 sentence_translation: Have We not given them two eyes,
 word_by_word:
   1:
-    arabic: اَلَمۡ
+    arabic: أَلَمۡ
     translation: Have not
     transliteration: alam
   2:
-    arabic: نَجۡعَلۡ
+    arabic: نَجۡعَل
     translation: We made
     transliteration: najʿal
   3:
-    arabic: لَّهٗ
+    arabic: لَّهُۥ
     translation: for him
     transliteration: lahu
   4:
-    arabic: عَيۡنَيۡنِۙ‏
+    arabic: عَيۡنَيۡنِ
     translation: two eyes
     transliteration: ʿaynayni
 ---

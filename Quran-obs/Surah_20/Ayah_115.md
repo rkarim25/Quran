@@ -1,27 +1,27 @@
 ---
-arabic_ayat: وَلَـقَدۡ عَهِدۡنَاۤ اِلٰٓى اٰدَمَ مِنۡ قَبۡلُ فَنَسِىَ وَلَمۡ نَجِدۡ
-  لَهٗ عَزۡمًا‏
+arabic_ayat: وَلَقَدۡ عَهِدۡنَآ إِلَىٰٓ ءَادَمَ مِن قَبۡلُ فَنَسِيَ وَلَمۡ نَجِدۡ
+  لَهُۥ عَزۡمٗا
 sentence_translation: And indeed, We once made a covenant with Adam, but he forgot,
   and ˹so˺ We did not find determination in him.
 word_by_word:
   1:
-    arabic: وَلَـقَدۡ
+    arabic: وَلَقَدۡ
     translation: And verily
     transliteration: walaqad
   2:
-    arabic: عَهِدۡنَاۤ
+    arabic: عَهِدۡنَآ
     translation: We made a covenant
     transliteration: ʿahid'nā
   3:
-    arabic: اِلٰٓى
+    arabic: إِلَىٰٓ ءَ
     translation: with
     transliteration: ilā
   4:
-    arabic: اٰدَمَ
+    arabic: ادَمَ
     translation: Adam
     transliteration: ādama
   5:
-    arabic: مِنۡ
+    arabic: مِن
     translation: before
     transliteration: min
   6:
@@ -29,7 +29,7 @@ word_by_word:
     translation: before
     transliteration: qablu
   7:
-    arabic: فَنَسِىَ
+    arabic: فَنَسِيَ
     translation: but he forgot
     transliteration: fanasiya
   8:
@@ -41,11 +41,11 @@ word_by_word:
     translation: We found
     transliteration: najid
   10:
-    arabic: لَهٗ
+    arabic: لَهُۥ
     translation: in him
     transliteration: lahu
   11:
-    arabic: عَزۡمًا‏
+    arabic: عَزۡمٗا
     translation: determination
     transliteration: ʿazman
 ---

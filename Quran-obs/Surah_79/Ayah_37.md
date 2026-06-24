@@ -1,17 +1,17 @@
 ---
-arabic_ayat: فَاَمَّا مَنۡ طَغٰىۙ‏
+arabic_ayat: فَأَمَّا مَن طَغَىٰ
 sentence_translation: then as for those who transgressed
 word_by_word:
   1:
-    arabic: فَاَمَّا
+    arabic: فَأَمَّا
     translation: Then as for
     transliteration: fa-ammā
   2:
-    arabic: مَنۡ
+    arabic: مَن
     translation: (him) who
     transliteration: man
   3:
-    arabic: طَغٰىۙ‏
+    arabic: طَغَىٰ
     translation: transgressed
     transliteration: ṭaghā
 ---

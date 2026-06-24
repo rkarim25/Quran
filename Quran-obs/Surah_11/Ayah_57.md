@@ -1,17 +1,17 @@
 ---
-arabic_ayat: فَاِنۡ تَوَلَّوۡا فَقَدۡ اَبۡلَغۡتُكُمۡ مَّاۤ اُرۡسِلۡتُ بِهٖۤ اِلَيۡكُمۡ​
-  ؕ وَيَسۡتَخۡلِفُ رَبِّىۡ قَوۡمًا غَيۡرَكُمۡۚ وَلَا تَضُرُّوۡنَهٗ شَيۡـــًٔا​ ؕ اِنَّ
-  رَبِّىۡ عَلٰى كُلِّ شَىۡءٍ حَفِيۡظٌ‏
+arabic_ayat: فَإِن تَوَلَّوۡاْ فَقَدۡ أَبۡلَغۡتُكُم مَّآ أُرۡسِلۡتُ بِهِۦٓ إِلَيۡكُمۡۚ
+  وَيَسۡتَخۡلِفُ رَبِّي قَوۡمًا غَيۡرَكُمۡ وَلَا تَضُرُّونَهُۥ شَيۡـًٔاۚ إِنَّ رَبِّي
+  عَلَىٰ كُلِّ شَيۡءٍ حَفِيظٞ
 sentence_translation: But if you turn away, I have already delivered to you what I
   have been sent with. My Lord will replace you with others. You are not harming Him
   in the least. Indeed, my Lord is a ˹vigilant˺ Keeper over all things.”
 word_by_word:
   1:
-    arabic: فَاِنۡ
+    arabic: فَإِن
     translation: So if
     transliteration: fa-in
   2:
-    arabic: تَوَلَّوۡا
+    arabic: تَوَلَّوۡاْ
     translation: you turn away
     transliteration: tawallaw
   3:
@@ -19,23 +19,23 @@ word_by_word:
     translation: then verily
     transliteration: faqad
   4:
-    arabic: اَبۡلَغۡتُكُمۡ
+    arabic: أَبۡلَغۡتُكُم
     translation: I have conveyed to you
     transliteration: ablaghtukum
   5:
-    arabic: مَّاۤ
+    arabic: مَّآ
     translation: what
     transliteration: mā
   6:
-    arabic: اُرۡسِلۡتُ
+    arabic: أُرۡسِلۡتُ
     translation: I was sent
     transliteration: ur'sil'tu
   7:
-    arabic: بِهٖۤ
+    arabic: بِهِۦٓ
     translation: with [it]
     transliteration: bihi
   8:
-    arabic: اِلَيۡكُمۡ​ ؕ
+    arabic: إِلَيۡكُمۡۚ
     translation: to you
     transliteration: ilaykum
   9:
@@ -43,7 +43,7 @@ word_by_word:
     translation: And my Lord will give succession
     transliteration: wayastakhlifu
   10:
-    arabic: رَبِّىۡ
+    arabic: رَبِّي
     translation: And my Lord will give succession
     transliteration: rabbī
   11:
@@ -51,7 +51,7 @@ word_by_word:
     translation: (to) a people
     transliteration: qawman
   12:
-    arabic: غَيۡرَكُمۡۚ
+    arabic: غَيۡرَكُمۡ
     translation: other than you
     transliteration: ghayrakum
   13:
@@ -59,23 +59,23 @@ word_by_word:
     translation: and not
     transliteration: walā
   14:
-    arabic: تَضُرُّوۡنَهٗ
+    arabic: تَضُرُّونَهُۥ
     translation: you will harm Him
     transliteration: taḍurrūnahu
   15:
-    arabic: شَيۡـــًٔا​ ؕ
+    arabic: شَيۡـًٔاۚ
     translation: (in) anything
     transliteration: shayan
   16:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   17:
-    arabic: رَبِّىۡ
+    arabic: رَبِّي
     translation: my Lord
     transliteration: rabbī
   18:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: (is) on
     transliteration: ʿalā
   19:
@@ -83,11 +83,11 @@ word_by_word:
     translation: all
     transliteration: kulli
   20:
-    arabic: شَىۡءٍ
+    arabic: شَيۡءٍ
     translation: things
     transliteration: shayin
   21:
-    arabic: حَفِيۡظٌ‏
+    arabic: حَفِيظٞ
     translation: a Guardian
     transliteration: ḥafīẓun
 ---

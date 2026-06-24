@@ -1,7 +1,7 @@
 ---
-arabic_ayat: قُلۡ هُوَ الۡقَادِرُ عَلٰٓى اَنۡ يَّبۡعَثَ عَلَيۡكُمۡ عَذَابًا مِّنۡ
-  فَوۡقِكُمۡ اَوۡ مِنۡ تَحۡتِ اَرۡجُلِكُمۡ اَوۡ يَلۡبِسَكُمۡ شِيَـعًا وَّيُذِيۡقَ
-  بَعۡضَكُمۡ بَاۡسَ بَعۡضٍ​ؕ اُنْظُرۡ كَيۡفَ نُصَرِّفُ الۡاٰيٰتِ لَعَلَّهُمۡ يَفۡقَهُوۡنَ‏
+arabic_ayat: قُلۡ هُوَ ٱلۡقَادِرُ عَلَىٰٓ أَن يَبۡعَثَ عَلَيۡكُمۡ عَذَابٗا مِّن فَوۡقِكُمۡ
+  أَوۡ مِن تَحۡتِ أَرۡجُلِكُمۡ أَوۡ يَلۡبِسَكُمۡ شِيَعٗا وَيُذِيقَ بَعۡضَكُم بَأۡسَ
+  بَعۡضٍۗ ٱنظُرۡ كَيۡفَ نُصَرِّفُ ٱلۡأٓيَٰتِ لَعَلَّهُمۡ يَفۡقَهُونَ
 sentence_translation: Say, “He ˹alone˺ has the power to unleash upon you a torment
   from above or below you or split you into ˹conflicting˺ factions and make you taste
   the violence of one another.” See how We vary the signs, so perhaps they will comprehend.
@@ -15,19 +15,19 @@ word_by_word:
     translation: He
     transliteration: huwa
   3:
-    arabic: الۡقَادِرُ
+    arabic: ٱلۡقَادِرُ
     translation: (is) All-Capable
     transliteration: l-qādiru
   4:
-    arabic: عَلٰٓى
+    arabic: عَلَىٰٓ
     translation: '[on]'
     transliteration: ʿalā
   5:
-    arabic: اَنۡ
+    arabic: أَن
     translation: to
     transliteration: an
   6:
-    arabic: يَّبۡعَثَ
+    arabic: يَبۡعَثَ
     translation: send
     transliteration: yabʿatha
   7:
@@ -35,11 +35,11 @@ word_by_word:
     translation: upon you
     transliteration: ʿalaykum
   8:
-    arabic: عَذَابًا
+    arabic: عَذَابٗا
     translation: punishment
     transliteration: ʿadhāban
   9:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: from
     transliteration: min
   10:
@@ -47,11 +47,11 @@ word_by_word:
     translation: above you
     transliteration: fawqikum
   11:
-    arabic: اَوۡ
+    arabic: أَوۡ
     translation: or
     transliteration: aw
   12:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   13:
@@ -59,11 +59,11 @@ word_by_word:
     translation: beneath
     transliteration: taḥti
   14:
-    arabic: اَرۡجُلِكُمۡ
+    arabic: أَرۡجُلِكُمۡ
     translation: your feet
     transliteration: arjulikum
   15:
-    arabic: اَوۡ
+    arabic: أَوۡ
     translation: or
     transliteration: aw
   16:
@@ -71,27 +71,27 @@ word_by_word:
     translation: (to) confuse you
     transliteration: yalbisakum
   17:
-    arabic: شِيَـعًا
+    arabic: شِيَعٗا
     translation: (into) sects
     transliteration: shiyaʿan
   18:
-    arabic: وَّيُذِيۡقَ
+    arabic: وَيُذِيقَ
     translation: 'and make (you) taste '
     transliteration: wayudhīqa
   19:
-    arabic: بَعۡضَكُمۡ
+    arabic: بَعۡضَكُم
     translation: some of you
     transliteration: baʿḍakum
   20:
-    arabic: بَاۡسَ
+    arabic: بَأۡسَ
     translation: violence
     transliteration: basa
   21:
-    arabic: بَعۡضٍ​ؕ
+    arabic: بَعۡضٍۗ
     translation: (of) others
     transliteration: baʿḍin
   22:
-    arabic: اُنْظُرۡ
+    arabic: ٱنظُرۡ
     translation: See
     transliteration: unẓur
   23:
@@ -103,7 +103,7 @@ word_by_word:
     translation: We explain
     transliteration: nuṣarrifu
   25:
-    arabic: الۡاٰيٰتِ
+    arabic: ٱلۡأٓيَٰتِ
     translation: the Signs
     transliteration: l-āyāti
   26:
@@ -111,7 +111,7 @@ word_by_word:
     translation: so that they may
     transliteration: laʿallahum
   27:
-    arabic: يَفۡقَهُوۡنَ‏
+    arabic: يَفۡقَهُونَ
     translation: understand
     transliteration: yafqahūna
 ---

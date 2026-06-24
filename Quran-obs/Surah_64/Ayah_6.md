@@ -1,74 +1,74 @@
 ---
-arabic_ayat: ذٰ لِكَ بِاَنَّهٗ كَانَتۡ تَّاۡتِيۡهِمۡ رُسُلُهُمۡ بِالۡبَيِّنٰتِ فَقَالُوۡۤا
-  اَبَشَرٌ يَّهۡدُوۡنَـنَا فَكَفَرُوۡا وَتَوَلَّوْا​ وَّاسۡتَغۡنَى اللّٰهُ​ ؕ وَاللّٰهُ
-  غَنِىٌّ حَمِيۡدٌ‏
+arabic_ayat: ذَٰلِكَ بِأَنَّهُۥ كَانَت تَّأۡتِيهِمۡ رُسُلُهُم بِٱلۡبَيِّنَٰتِ فَقَالُوٓاْ
+  أَبَشَرٞ يَهۡدُونَنَا فَكَفَرُواْ وَتَوَلَّواْۖ وَّٱسۡتَغۡنَى ٱللَّهُۚ وَٱللَّهُ
+  غَنِيٌّ حَمِيدٞ
 sentence_translation: That was because their messengers used to come to them with
   clear proofs, but they said ˹mockingly˺, “How can humans be our guides?” So they
   persisted in disbelief and turned away. And Allah was not in need ˹of their faith˺.
   For Allah is Self-Sufficient, Praiseworthy.
 word_by_word:
   1:
-    arabic: ذٰ لِكَ
+    arabic: ذَٰلِكَ
     translation: That
     transliteration: dhālika
   2:
-    arabic: بِاَنَّهٗ
+    arabic: بِأَنَّهُۥ
     translation: (is) because
     transliteration: bi-annahu
   3:
-    arabic: كَانَتۡ
+    arabic: كَانَت
     translation: had
     transliteration: kānat
   4:
-    arabic: تَّاۡتِيۡهِمۡ
+    arabic: تَّأۡتِيهِمۡ
     translation: come to them
     transliteration: tatīhim
   5:
-    arabic: رُسُلُهُمۡ
+    arabic: رُسُلُهُم
     translation: their Messengers
     transliteration: rusuluhum
   6:
-    arabic: بِالۡبَيِّنٰتِ
+    arabic: بِٱلۡبَيِّنَٰتِ
     translation: with clear proofs
     transliteration: bil-bayināti
   7:
-    arabic: فَقَالُوۡۤا
+    arabic: فَقَالُوٓاْ
     translation: but they said
     transliteration: faqālū
   8:
-    arabic: اَبَشَرٌ
+    arabic: أَبَشَرٞ
     translation: Shall human beings
     transliteration: abasharun
   9:
-    arabic: يَّهۡدُوۡنَـنَا
+    arabic: يَهۡدُونَنَا
     translation: guide us
     transliteration: yahdūnanā
   10:
-    arabic: فَكَفَرُوۡا
+    arabic: فَكَفَرُواْ
     translation: So they disbelieved
     transliteration: fakafarū
   11:
-    arabic: وَتَوَلَّوْا​
+    arabic: وَتَوَلَّواْۖ
     translation: and turned away
     transliteration: watawallaw
   12:
-    arabic: وَّاسۡتَغۡنَى
+    arabic: وَّٱسۡتَغۡنَى
     translation: And can do without them
     transliteration: wa-is'taghnā
   13:
-    arabic: اللّٰهُ​ ؕ
+    arabic: ٱللَّهُۚ
     translation: Allah
     transliteration: l-lahu
   14:
-    arabic: وَاللّٰهُ
+    arabic: وَٱللَّهُ
     translation: And Allah
     transliteration: wal-lahu
   15:
-    arabic: غَنِىٌّ
+    arabic: غَنِيٌّ
     translation: (is) Self-sufficient
     transliteration: ghaniyyun
   16:
-    arabic: حَمِيۡدٌ‏
+    arabic: حَمِيدٞ
     translation: Praiseworthy
     transliteration: ḥamīdun
 ---

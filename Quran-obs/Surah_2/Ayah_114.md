@@ -1,8 +1,8 @@
 ---
-arabic_ayat: وَمَنۡ اَظۡلَمُ مِمَّنۡ مَّنَعَ مَسٰجِدَ اللّٰهِ اَنۡ يُّذۡكَرَ فِيۡهَا
-  اسۡمُهٗ وَسَعٰـى فِىۡ خَرَابِهَا ​ؕ اُولٰٓٮِٕكَ مَا كَانَ لَهُمۡ اَنۡ يَّدۡخُلُوۡهَآ
-  اِلَّا خَآٮِٕفِيۡنَ ؕ لَهُمۡ فِى الدُّنۡيَا خِزۡىٌ وَّلَهُمۡ فِى الۡاٰخِرَةِ عَذَابٌ
-  عَظِيۡمٌ‏
+arabic_ayat: وَمَنۡ أَظۡلَمُ مِمَّن مَّنَعَ مَسَٰجِدَ ٱللَّهِ أَن يُذۡكَرَ فِيهَا
+  ٱسۡمُهُۥ وَسَعَىٰ فِي خَرَابِهَآۚ أُوْلَٰٓئِكَ مَا كَانَ لَهُمۡ أَن يَدۡخُلُوهَآ
+  إِلَّا خَآئِفِينَۚ لَهُمۡ فِي ٱلدُّنۡيَا خِزۡيٞ وَلَهُمۡ فِي ٱلۡأٓخِرَةِ عَذَابٌ
+  عَظِيمٞ
 sentence_translation: Who does more wrong than those who prevent Allah’s Name from
   being mentioned in His places of worship and strive to destroy them? Such people
   have no right to enter these places except with fear. For them is disgrace in this
@@ -13,11 +13,11 @@ word_by_word:
     translation: And who
     transliteration: waman
   2:
-    arabic: اَظۡلَمُ
+    arabic: أَظۡلَمُ
     translation: (is) more unjust
     transliteration: aẓlamu
   3:
-    arabic: مِمَّنۡ
+    arabic: مِمَّن
     translation: than (one) who
     transliteration: mimman
   4:
@@ -25,43 +25,43 @@ word_by_word:
     translation: prevents
     transliteration: manaʿa
   5:
-    arabic: مَسٰجِدَ
+    arabic: مَسَٰجِدَ
     translation: (the) masajid
     transliteration: masājida
   6:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (of) Allah
     transliteration: l-lahi
   7:
-    arabic: اَنۡ
+    arabic: أَن
     translation: to
     transliteration: an
   8:
-    arabic: يُّذۡكَرَ
+    arabic: يُذۡكَرَ
     translation: be mentioned
     transliteration: yudh'kara
   9:
-    arabic: فِيۡهَا
+    arabic: فِيهَا
     translation: in them
     transliteration: fīhā
   10:
-    arabic: اسۡمُهٗ
+    arabic: ٱسۡمُهُۥ
     translation: His name
     transliteration: us'muhu
   11:
-    arabic: وَسَعٰـى
+    arabic: وَسَعَىٰ
     translation: and strives
     transliteration: wasaʿā
   12:
-    arabic: فِىۡ
+    arabic: فِي
     translation: for
     transliteration: fī
   13:
-    arabic: خَرَابِهَا ​ؕ
+    arabic: خَرَابِهَآۚ
     translation: their destruction
     transliteration: kharābihā
   14:
-    arabic: اُولٰٓٮِٕكَ
+    arabic: أُوْلَٰٓئِكَ
     translation: Those
     transliteration: ulāika
   15:
@@ -77,19 +77,19 @@ word_by_word:
     translation: for them
     transliteration: lahum
   18:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that
     transliteration: an
   19:
-    arabic: يَّدۡخُلُوۡهَآ
+    arabic: يَدۡخُلُوهَآ
     translation: they enter them
     transliteration: yadkhulūhā
   20:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   21:
-    arabic: خَآٮِٕفِيۡنَ ؕ
+    arabic: خَآئِفِينَۚ
     translation: (like) those in fear
     transliteration: khāifīna
   22:
@@ -97,27 +97,27 @@ word_by_word:
     translation: For them
     transliteration: lahum
   23:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   24:
-    arabic: الدُّنۡيَا
+    arabic: ٱلدُّنۡيَا
     translation: the world
     transliteration: l-dun'yā
   25:
-    arabic: خِزۡىٌ
+    arabic: خِزۡيٞ
     translation: (is) disgrace
     transliteration: khiz'yun
   26:
-    arabic: وَّلَهُمۡ
+    arabic: وَلَهُمۡ
     translation: and for them
     transliteration: walahum
   27:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   28:
-    arabic: الۡاٰخِرَةِ
+    arabic: ٱلۡأٓخِرَةِ
     translation: the Hereafter
     transliteration: l-ākhirati
   29:
@@ -125,7 +125,7 @@ word_by_word:
     translation: (is) a punishment
     transliteration: ʿadhābun
   30:
-    arabic: عَظِيۡمٌ‏
+    arabic: عَظِيمٞ
     translation: great
     transliteration: ʿaẓīmun
 ---

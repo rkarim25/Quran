@@ -1,5 +1,5 @@
 ---
-arabic_ayat: ثُمَّ اِنَّهُمۡ لَصَالُوا الۡجَحِيۡمِؕ‏
+arabic_ayat: ثُمَّ إِنَّهُمۡ لَصَالُواْ ٱلۡجَحِيمِ
 sentence_translation: Moreover, they will surely burn in Hell,
 word_by_word:
   1:
@@ -7,15 +7,15 @@ word_by_word:
     translation: Then
     transliteration: thumma
   2:
-    arabic: اِنَّهُمۡ
+    arabic: إِنَّهُمۡ
     translation: indeed, they
     transliteration: innahum
   3:
-    arabic: لَصَالُوا
+    arabic: لَصَالُواْ
     translation: (surely) will burn
     transliteration: laṣālū
   4:
-    arabic: الۡجَحِيۡمِؕ‏
+    arabic: ٱلۡجَحِيمِ
     translation: (in) the Hellfire
     transliteration: l-jaḥīmi
 ---

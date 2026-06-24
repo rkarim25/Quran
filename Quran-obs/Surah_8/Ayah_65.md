@@ -1,19 +1,19 @@
 ---
-arabic_ayat: يٰۤـاَيُّهَا النَّبِىُّ حَرِّضِ الۡمُؤۡمِنِيۡنَ عَلَى الۡقِتَالِ​ ؕ اِنۡ
-  يَّكُنۡ مِّنۡكُمۡ عِشۡرُوۡنَ صَابِرُوۡنَ يَغۡلِبُوۡا مِائَتَيۡنِ​ ۚ وَاِنۡ يَّكُنۡ
-  مِّنۡكُمۡ مِّائَةٌ يَّغۡلِبُوۡۤا اَ لۡفًا مِّنَ الَّذِيۡنَ كَفَرُوۡا بِاَنَّهُمۡ
-  قَوۡمٌ لَّا يَفۡقَهُوۡنَ‏
+arabic_ayat: يَٰٓأَيُّهَا ٱلنَّبِيُّ حَرِّضِ ٱلۡمُؤۡمِنِينَ عَلَى ٱلۡقِتَالِۚ إِن
+  يَكُن مِّنكُمۡ عِشۡرُونَ صَٰبِرُونَ يَغۡلِبُواْ مِاْئَتَيۡنِۚ وَإِن يَكُن مِّنكُم
+  مِّاْئَةٞ يَغۡلِبُوٓاْ أَلۡفٗا مِّنَ ٱلَّذِينَ كَفَرُواْ بِأَنَّهُمۡ قَوۡمٞ لَّا
+  يَفۡقَهُونَ
 sentence_translation: O Prophet! Motivate the believers to fight. If there are twenty
   steadfast among you, they will overcome two hundred. And if there are one hundred
   of you, they will overcome one thousand of the disbelievers, for they are a people
   who do not comprehend.
 word_by_word:
   1:
-    arabic: يٰۤـاَيُّهَا
+    arabic: يَٰٓأَيُّهَا
     translation: O
     transliteration: yāayyuhā
   2:
-    arabic: النَّبِىُّ
+    arabic: ٱلنَّبِيُّ
     translation: Prophet
     transliteration: l-nabiyu
   3:
@@ -21,7 +21,7 @@ word_by_word:
     translation: Urge
     transliteration: ḥarriḍi
   4:
-    arabic: الۡمُؤۡمِنِيۡنَ
+    arabic: ٱلۡمُؤۡمِنِينَ
     translation: the believers
     transliteration: l-mu'minīna
   5:
@@ -29,59 +29,59 @@ word_by_word:
     translation: to
     transliteration: ʿalā
   6:
-    arabic: الۡقِتَالِ​ ؕ
+    arabic: ٱلۡقِتَالِۚ
     translation: '[the] fight'
     transliteration: l-qitāli
   7:
-    arabic: اِنۡ
+    arabic: إِن
     translation: If
     transliteration: in
   8:
-    arabic: يَّكُنۡ
+    arabic: يَكُن
     translation: (there) are
     transliteration: yakun
   9:
-    arabic: مِّنۡكُمۡ
+    arabic: مِّنكُمۡ
     translation: among you
     transliteration: minkum
   10:
-    arabic: عِشۡرُوۡنَ
+    arabic: عِشۡرُونَ
     translation: twenty
     transliteration: ʿish'rūna
   11:
-    arabic: صَابِرُوۡنَ
+    arabic: صَٰبِرُونَ
     translation: steadfast
     transliteration: ṣābirūna
   12:
-    arabic: يَغۡلِبُوۡا
+    arabic: يَغۡلِبُواْ
     translation: they will overcome
     transliteration: yaghlibū
   13:
-    arabic: مِائَتَيۡنِ​ ۚ
+    arabic: مِاْئَتَيۡنِۚ
     translation: two hundred
     transliteration: mi-atayni
   14:
-    arabic: وَاِنۡ
+    arabic: وَإِن
     translation: And if
     transliteration: wa-in
   15:
-    arabic: يَّكُنۡ
+    arabic: يَكُن
     translation: (there) are
     transliteration: yakun
   16:
-    arabic: مِّنۡكُمۡ
+    arabic: مِّنكُم
     translation: among you
     transliteration: minkum
   17:
-    arabic: مِّائَةٌ
+    arabic: مِّاْئَةٞ
     translation: a hundred
     transliteration: mi-atun
   18:
-    arabic: يَّغۡلِبُوۡۤا
+    arabic: يَغۡلِبُوٓاْ
     translation: they will overcome
     transliteration: yaghlibū
   19:
-    arabic: اَ لۡفًا
+    arabic: أَلۡفٗا
     translation: a thousand
     transliteration: alfan
   20:
@@ -89,19 +89,19 @@ word_by_word:
     translation: of
     transliteration: mina
   21:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   22:
-    arabic: كَفَرُوۡا
+    arabic: كَفَرُواْ
     translation: disbelieve
     transliteration: kafarū
   23:
-    arabic: بِاَنَّهُمۡ
+    arabic: بِأَنَّهُمۡ
     translation: because they
     transliteration: bi-annahum
   24:
-    arabic: قَوۡمٌ
+    arabic: قَوۡمٞ
     translation: (are) a people
     transliteration: qawmun
   25:
@@ -109,7 +109,7 @@ word_by_word:
     translation: (who do) not
     transliteration: lā
   26:
-    arabic: يَفۡقَهُوۡنَ‏
+    arabic: يَفۡقَهُونَ
     translation: understand
     transliteration: yafqahūna
 ---

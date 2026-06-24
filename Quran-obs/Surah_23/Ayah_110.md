@@ -1,11 +1,11 @@
 ---
-arabic_ayat: فَاتَّخَذۡتُمُوۡهُمۡ سِخۡرِيًّا حَتّٰٓى اَنۡسَوۡكُمۡ ذِكۡرِىۡ وَكُنۡتُمۡ
-  مِّنۡهُمۡ تَضۡحَكُوۡنَ‏
+arabic_ayat: فَٱتَّخَذۡتُمُوهُمۡ سِخۡرِيًّا حَتَّىٰٓ أَنسَوۡكُمۡ ذِكۡرِي وَكُنتُم
+  مِّنۡهُمۡ تَضۡحَكُونَ
 sentence_translation: but you were ˹so busy˺ making fun of them that it made you forget
   My remembrance. And you used to laugh at them.
 word_by_word:
   1:
-    arabic: فَاتَّخَذۡتُمُوۡهُمۡ
+    arabic: فَٱتَّخَذۡتُمُوهُمۡ
     translation: But you took them
     transliteration: fa-ittakhadhtumūhum
   2:
@@ -13,19 +13,19 @@ word_by_word:
     translation: (in) mockery
     transliteration: sikh'riyyan
   3:
-    arabic: حَتّٰٓى
+    arabic: حَتَّىٰٓ
     translation: until
     transliteration: ḥattā
   4:
-    arabic: اَنۡسَوۡكُمۡ
+    arabic: أَنسَوۡكُمۡ
     translation: they made you forget
     transliteration: ansawkum
   5:
-    arabic: ذِكۡرِىۡ
+    arabic: ذِكۡرِي
     translation: My remembrance
     transliteration: dhik'rī
   6:
-    arabic: وَكُنۡتُمۡ
+    arabic: وَكُنتُم
     translation: and you used (to)
     transliteration: wakuntum
   7:
@@ -33,7 +33,7 @@ word_by_word:
     translation: at them
     transliteration: min'hum
   8:
-    arabic: تَضۡحَكُوۡنَ‏
+    arabic: تَضۡحَكُونَ
     translation: laugh
     transliteration: taḍḥakūna
 ---

@@ -1,10 +1,10 @@
 ---
-arabic_ayat: اِنَّ نَاشِئَةَ الَّيۡلِ هِىَ اَشَدُّ وَطۡـاً وَّاَقۡوَمُ قِيۡلًا ؕ‏
+arabic_ayat: إِنَّ نَاشِئَةَ ٱلَّيۡلِ هِيَ أَشَدُّ وَطۡـٔٗا وَأَقۡوَمُ قِيلًا
 sentence_translation: Indeed, worship in the night is more impactful and suitable
   for recitation.
 word_by_word:
   1:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   2:
@@ -12,27 +12,27 @@ word_by_word:
     translation: (the) rising
     transliteration: nāshi-ata
   3:
-    arabic: الَّيۡلِ
+    arabic: ٱلَّيۡلِ
     translation: (at) the night
     transliteration: al-layli
   4:
-    arabic: هِىَ
+    arabic: هِيَ
     translation: it
     transliteration: hiya
   5:
-    arabic: اَشَدُّ
+    arabic: أَشَدُّ
     translation: (is) very hard
     transliteration: ashaddu
   6:
-    arabic: وَطۡـاً
+    arabic: وَطۡـٔٗا
     translation: and most potent
     transliteration: waṭan
   7:
-    arabic: وَّاَقۡوَمُ
+    arabic: وَأَقۡوَمُ
     translation: and more suitable
     transliteration: wa-aqwamu
   8:
-    arabic: قِيۡلًا ؕ‏
+    arabic: قِيلًا
     translation: (for) Word
     transliteration: qīlan
 ---

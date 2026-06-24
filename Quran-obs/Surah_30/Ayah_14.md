@@ -1,5 +1,5 @@
 ---
-arabic_ayat: وَيَوۡمَ تَقُوۡمُ السَّاعَةُ يَوۡمَٮِٕذٍ يَّتَفَرَّقُوۡنَ‏
+arabic_ayat: وَيَوۡمَ تَقُومُ ٱلسَّاعَةُ يَوۡمَئِذٖ يَتَفَرَّقُونَ
 sentence_translation: And on the Day the Hour will arrive, the people will then be
   split ˹into two groups˺.
 word_by_word:
@@ -8,19 +8,19 @@ word_by_word:
     translation: And (the) Day
     transliteration: wayawma
   2:
-    arabic: تَقُوۡمُ
+    arabic: تَقُومُ
     translation: will (be) established
     transliteration: taqūmu
   3:
-    arabic: السَّاعَةُ
+    arabic: ٱلسَّاعَةُ
     translation: the Hour
     transliteration: l-sāʿatu
   4:
-    arabic: يَوۡمَٮِٕذٍ
+    arabic: يَوۡمَئِذٖ
     translation: that Day
     transliteration: yawma-idhin
   5:
-    arabic: يَّتَفَرَّقُوۡنَ‏
+    arabic: يَتَفَرَّقُونَ
     translation: they will become separated
     transliteration: yatafarraqūna
 ---

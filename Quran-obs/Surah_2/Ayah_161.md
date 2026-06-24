@@ -1,23 +1,23 @@
 ---
-arabic_ayat: اِنَّ الَّذِيۡنَ كَفَرُوۡا وَمَاتُوۡا وَهُمۡ كُفَّارٌ اُولٰٓٮِٕكَ عَلَيۡهِمۡ
-  لَعۡنَةُ اللّٰهِ وَالۡمَلٰٓٮِٕكَةِ وَالنَّاسِ اَجۡمَعِيۡنَۙ‏
+arabic_ayat: إِنَّ ٱلَّذِينَ كَفَرُواْ وَمَاتُواْ وَهُمۡ كُفَّارٌ أُوْلَٰٓئِكَ عَلَيۡهِمۡ
+  لَعۡنَةُ ٱللَّهِ وَٱلۡمَلَٰٓئِكَةِ وَٱلنَّاسِ أَجۡمَعِينَ
 sentence_translation: Surely those who disbelieve and die as disbelievers are condemned
   by Allah, the angels, and all of humanity.
 word_by_word:
   1:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   3:
-    arabic: كَفَرُوۡا
+    arabic: كَفَرُواْ
     translation: disbelieve[d]
     transliteration: kafarū
   4:
-    arabic: وَمَاتُوۡا
+    arabic: وَمَاتُواْ
     translation: and die[d]
     transliteration: wamātū
   5:
@@ -29,7 +29,7 @@ word_by_word:
     translation: (were) disbelievers
     transliteration: kuffārun
   7:
-    arabic: اُولٰٓٮِٕكَ
+    arabic: أُوْلَٰٓئِكَ
     translation: those
     transliteration: ulāika
   8:
@@ -41,19 +41,19 @@ word_by_word:
     translation: (is the) curse
     transliteration: laʿnatu
   10:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (of) Allah
     transliteration: l-lahi
   11:
-    arabic: وَالۡمَلٰٓٮِٕكَةِ
+    arabic: وَٱلۡمَلَٰٓئِكَةِ
     translation: and the Angels
     transliteration: wal-malāikati
   12:
-    arabic: وَالنَّاسِ
+    arabic: وَٱلنَّاسِ
     translation: and the mankind
     transliteration: wal-nāsi
   13:
-    arabic: اَجۡمَعِيۡنَۙ‏
+    arabic: أَجۡمَعِينَ
     translation: all together
     transliteration: ajmaʿīna
 ---

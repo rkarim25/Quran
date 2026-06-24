@@ -1,17 +1,17 @@
 ---
-arabic_ayat: اِنۡ تَدۡعُوۡهُمۡ لَا يَسۡمَعُوۡا دُعَآءَكُمۡ​ ۚ وَلَوۡ سَمِعُوۡا مَا
-  اسۡتَجَابُوۡا لَـكُمۡ ؕ وَيَوۡمَ الۡقِيٰمَةِ يَكۡفُرُوۡنَ بِشِرۡكِكُمۡ ؕ وَلَا يُـنَـبِّـئُكَ
-  مِثۡلُ خَبِيۡرٍ‏
+arabic_ayat: إِن تَدۡعُوهُمۡ لَا يَسۡمَعُواْ دُعَآءَكُمۡ وَلَوۡ سَمِعُواْ مَا ٱسۡتَجَابُواْ
+  لَكُمۡۖ وَيَوۡمَ ٱلۡقِيَٰمَةِ يَكۡفُرُونَ بِشِرۡكِكُمۡۚ وَلَا يُنَبِّئُكَ مِثۡلُ
+  خَبِيرٖ
 sentence_translation: If you call upon them, they cannot hear your calls. And if they
   were to hear, they could not respond to you. On the Day of Judgment they will disown
   your worship ˹of them˺. And no one can inform you ˹O Prophet˺ like the All-Knowledgeable.
 word_by_word:
   1:
-    arabic: اِنۡ
+    arabic: إِن
     translation: If
     transliteration: in
   2:
-    arabic: تَدۡعُوۡهُمۡ
+    arabic: تَدۡعُوهُمۡ
     translation: you invoke them
     transliteration: tadʿūhum
   3:
@@ -19,11 +19,11 @@ word_by_word:
     translation: not
     transliteration: lā
   4:
-    arabic: يَسۡمَعُوۡا
+    arabic: يَسۡمَعُواْ
     translation: they hear
     transliteration: yasmaʿū
   5:
-    arabic: دُعَآءَكُمۡ​ ۚ
+    arabic: دُعَآءَكُمۡ
     translation: your call
     transliteration: duʿāakum
   6:
@@ -31,7 +31,7 @@ word_by_word:
     translation: and if
     transliteration: walaw
   7:
-    arabic: سَمِعُوۡا
+    arabic: سَمِعُواْ
     translation: they heard
     transliteration: samiʿū
   8:
@@ -39,11 +39,11 @@ word_by_word:
     translation: not
     transliteration: mā
   9:
-    arabic: اسۡتَجَابُوۡا
+    arabic: ٱسۡتَجَابُواْ
     translation: they (would) respond
     transliteration: is'tajābū
   10:
-    arabic: لَـكُمۡ ؕ
+    arabic: لَكُمۡۖ
     translation: to you
     transliteration: lakum
   11:
@@ -51,15 +51,15 @@ word_by_word:
     translation: And (on the) Day
     transliteration: wayawma
   12:
-    arabic: الۡقِيٰمَةِ
+    arabic: ٱلۡقِيَٰمَةِ
     translation: (of) the Resurrection
     transliteration: l-qiyāmati
   13:
-    arabic: يَكۡفُرُوۡنَ
+    arabic: يَكۡفُرُونَ
     translation: they will deny
     transliteration: yakfurūna
   14:
-    arabic: بِشِرۡكِكُمۡ ؕ
+    arabic: بِشِرۡكِكُمۡۚ
     translation: your association
     transliteration: bishir'kikum
   15:
@@ -67,7 +67,7 @@ word_by_word:
     translation: And none
     transliteration: walā
   16:
-    arabic: يُـنَـبِّـئُكَ
+    arabic: يُنَبِّئُكَ
     translation: can inform you
     transliteration: yunabbi-uka
   17:
@@ -75,7 +75,7 @@ word_by_word:
     translation: like
     transliteration: mith'lu
   18:
-    arabic: خَبِيۡرٍ‏
+    arabic: خَبِيرٖ
     translation: (the) All-Aware
     transliteration: khabīrin
 ---

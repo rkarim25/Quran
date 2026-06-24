@@ -1,18 +1,18 @@
 ---
-arabic_ayat: اَمۡ عِنۡدَهُمۡ خَزَآٮِٕنُ رَبِّكَ اَمۡ هُمُ الۡمُصَۜيۡطِرُوۡنَؕ‏
+arabic_ayat: أَمۡ عِندَهُمۡ خَزَآئِنُ رَبِّكَ أَمۡ هُمُ ٱلۡمُصَۜيۡطِرُونَ
 sentence_translation: Or do they possess the treasuries of your Lord, or are they
   in control ˹of everything˺?
 word_by_word:
   1:
-    arabic: اَمۡ
+    arabic: أَمۡ
     translation: Or
     transliteration: am
   2:
-    arabic: عِنۡدَهُمۡ
+    arabic: عِندَهُمۡ
     translation: with them
     transliteration: ʿindahum
   3:
-    arabic: خَزَآٮِٕنُ
+    arabic: خَزَآئِنُ
     translation: (are the) treasures
     transliteration: khazāinu
   4:
@@ -20,7 +20,7 @@ word_by_word:
     translation: (of) your Lord
     transliteration: rabbika
   5:
-    arabic: اَمۡ
+    arabic: أَمۡ
     translation: or
     transliteration: am
   6:
@@ -28,7 +28,7 @@ word_by_word:
     translation: (are) they
     transliteration: humu
   7:
-    arabic: الۡمُصَۜيۡطِرُوۡنَؕ‏
+    arabic: ٱلۡمُصَۜيۡطِرُونَ
     translation: the controllers
     transliteration: l-muṣayṭirūna
 ---

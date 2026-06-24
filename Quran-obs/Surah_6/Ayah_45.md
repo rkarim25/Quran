@@ -1,6 +1,6 @@
 ---
-arabic_ayat: فَقُطِعَ دَابِرُ الۡقَوۡمِ الَّذِيۡنَ ظَلَمُوۡا​ ؕ وَالۡحَمۡدُ لِلّٰهِ
-  رَبِّ الۡعٰلَمِيۡنَ‏
+arabic_ayat: فَقُطِعَ دَابِرُ ٱلۡقَوۡمِ ٱلَّذِينَ ظَلَمُواْۚ وَٱلۡحَمۡدُ لِلَّهِ رَبِّ
+  ٱلۡعَٰلَمِينَ
 sentence_translation: So the wrongdoers were utterly uprooted. And all praise is for
   Allah—Lord of all worlds.
 word_by_word:
@@ -13,23 +13,23 @@ word_by_word:
     translation: (the) remnant
     transliteration: dābiru
   3:
-    arabic: الۡقَوۡمِ
+    arabic: ٱلۡقَوۡمِ
     translation: (of) the people
     transliteration: l-qawmi
   4:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: '[those] who'
     transliteration: alladhīna
   5:
-    arabic: ظَلَمُوۡا​ ؕ
+    arabic: ظَلَمُواْۚ
     translation: did wrong
     transliteration: ẓalamū
   6:
-    arabic: وَالۡحَمۡدُ
+    arabic: وَٱلۡحَمۡدُ
     translation: And all praises and thanks
     transliteration: wal-ḥamdu
   7:
-    arabic: لِلّٰهِ
+    arabic: لِلَّهِ
     translation: (be) to Allah
     transliteration: lillahi
   8:
@@ -37,7 +37,7 @@ word_by_word:
     translation: Lord
     transliteration: rabbi
   9:
-    arabic: الۡعٰلَمِيۡنَ‏
+    arabic: ٱلۡعَٰلَمِينَ
     translation: (of) the worlds
     transliteration: l-ʿālamīna
 ---

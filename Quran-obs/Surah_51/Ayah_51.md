@@ -1,6 +1,6 @@
 ---
-arabic_ayat: وَلَا تَجۡعَلُوۡا مَعَ اللّٰهِ اِلٰهًا اٰخَرَ​ؕ اِنِّىۡ لَـكُمۡ مِّنۡهُ
-  نَذِيۡرٌ مُّبِيۡنٌ​ۚ‏
+arabic_ayat: وَلَا تَجۡعَلُواْ مَعَ ٱللَّهِ إِلَٰهًا ءَاخَرَۖ إِنِّي لَكُم مِّنۡهُ
+  نَذِيرٞ مُّبِينٞ
 sentence_translation: And do not set up another god with Allah. I am truly sent by
   Him with a clear warning to you.”
 word_by_word:
@@ -9,7 +9,7 @@ word_by_word:
     translation: And (do) not
     transliteration: walā
   2:
-    arabic: تَجۡعَلُوۡا
+    arabic: تَجۡعَلُواْ
     translation: make
     transliteration: tajʿalū
   3:
@@ -17,23 +17,23 @@ word_by_word:
     translation: with
     transliteration: maʿa
   4:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   5:
-    arabic: اِلٰهًا
+    arabic: إِلَٰهًا ءَ
     translation: god
     transliteration: ilāhan
   6:
-    arabic: اٰخَرَ​ؕ
+    arabic: اخَرَۖ
     translation: another
     transliteration: ākhara
   7:
-    arabic: اِنِّىۡ
+    arabic: إِنِّي
     translation: Indeed, I am
     transliteration: innī
   8:
-    arabic: لَـكُمۡ
+    arabic: لَكُم
     translation: to you
     transliteration: lakum
   9:
@@ -41,11 +41,11 @@ word_by_word:
     translation: from Him
     transliteration: min'hu
   10:
-    arabic: نَذِيۡرٌ
+    arabic: نَذِيرٞ
     translation: a warner
     transliteration: nadhīrun
   11:
-    arabic: مُّبِيۡنٌ​ۚ‏
+    arabic: مُّبِينٞ
     translation: clear
     transliteration: mubīnun
 ---

@@ -1,17 +1,16 @@
 ---
-arabic_ayat: "اۨلَّذِىۡ لَهٗ مُلۡكُ السَّمٰوٰتِ وَالۡاَرۡضِ وَلَمۡ يَتَّخِذۡ وَلَدًا\
-  \ وَّلَمۡ يَكُنۡ لَّهٗ شَرِيۡكٌ فِى الۡمُلۡكِ وَخَلَقَ كُلَّ شَىۡءٍ فَقَدَّرَهٗ\
-  \ تَقۡدِيۡرًا‏ \uFEFF\uFEFF"
+arabic_ayat: ٱلَّذِي لَهُۥ مُلۡكُ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِ وَلَمۡ يَتَّخِذۡ وَلَدٗا
+  وَلَمۡ يَكُن لَّهُۥ شَرِيكٞ فِي ٱلۡمُلۡكِ وَخَلَقَ كُلَّ شَيۡءٖ فَقَدَّرَهُۥ تَقۡدِيرٗا
 sentence_translation: ˹Allah is˺ the One to Whom belongs the kingdom of the heavens
   and the earth, Who has never had ˹any˺ offspring, nor does He have a partner in
   ˹governing˺ the kingdom. He has created everything, ordaining it precisely.
 word_by_word:
   1:
-    arabic: اۨلَّذِىۡ
+    arabic: ٱلَّذِي
     translation: 'The One Who '
     transliteration: alladhī
   2:
-    arabic: لَهٗ
+    arabic: لَهُۥ
     translation: to Him (belongs)
     transliteration: lahu
   3:
@@ -19,11 +18,11 @@ word_by_word:
     translation: (the) dominion
     transliteration: mul'ku
   4:
-    arabic: السَّمٰوٰتِ
+    arabic: ٱلسَّمَٰوَٰتِ
     translation: (of) the heavens
     transliteration: l-samāwāti
   5:
-    arabic: وَالۡاَرۡضِ
+    arabic: وَٱلۡأَرۡضِ
     translation: and the earth
     transliteration: wal-arḍi
   6:
@@ -35,31 +34,31 @@ word_by_word:
     translation: He has taken
     transliteration: yattakhidh
   8:
-    arabic: وَلَدًا
+    arabic: وَلَدٗا
     translation: a son
     transliteration: waladan
   9:
-    arabic: وَّلَمۡ
+    arabic: وَلَمۡ
     translation: and not
     transliteration: walam
   10:
-    arabic: يَكُنۡ
+    arabic: يَكُن
     translation: He has
     transliteration: yakun
   11:
-    arabic: لَّهٗ
+    arabic: لَّهُۥ
     translation: for Him
     transliteration: lahu
   12:
-    arabic: شَرِيۡكٌ
+    arabic: شَرِيكٞ
     translation: a partner
     transliteration: sharīkun
   13:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   14:
-    arabic: الۡمُلۡكِ
+    arabic: ٱلۡمُلۡكِ
     translation: the dominion
     transliteration: l-mul'ki
   15:
@@ -71,15 +70,15 @@ word_by_word:
     translation: every
     transliteration: kulla
   17:
-    arabic: شَىۡءٍ
+    arabic: شَيۡءٖ
     translation: thing
     transliteration: shayin
   18:
-    arabic: فَقَدَّرَهٗ
+    arabic: فَقَدَّرَهُۥ
     translation: and determined it
     transliteration: faqaddarahu
   19:
-    arabic: "تَقۡدِيۡرًا‏ \uFEFF\uFEFF"
+    arabic: تَقۡدِيرٗا
     translation: (with) determination
     transliteration: taqdīran
 ---

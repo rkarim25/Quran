@@ -1,6 +1,6 @@
 ---
-arabic_ayat: لَا تَرۡكُضُوۡا وَ ارۡجِعُوۡۤا اِلٰى مَاۤ اُتۡرِفۡتُمۡ فِيۡهِ وَمَسٰكِنِكُمۡ
-  لَعَلَّكُمۡ تُسۡــَٔلُوۡنَ‏
+arabic_ayat: لَا تَرۡكُضُواْ وَٱرۡجِعُوٓاْ إِلَىٰ مَآ أُتۡرِفۡتُمۡ فِيهِ وَمَسَٰكِنِكُمۡ
+  لَعَلَّكُمۡ تُسۡـَٔلُونَ
 sentence_translation: ˹They were told,˺ “Do not run away! Return to your luxuries
   and your homes, so you may be questioned ˹about your fate˺.”
 word_by_word:
@@ -9,31 +9,31 @@ word_by_word:
     translation: Flee not
     transliteration: lā
   2:
-    arabic: تَرۡكُضُوۡا
+    arabic: تَرۡكُضُواْ
     translation: Flee not
     transliteration: tarkuḍū
   3:
-    arabic: وَ ارۡجِعُوۡۤا
+    arabic: وَٱرۡجِعُوٓاْ
     translation: but return
     transliteration: wa-ir'jiʿū
   4:
-    arabic: اِلٰى
+    arabic: إِلَىٰ
     translation: to
     transliteration: ilā
   5:
-    arabic: مَاۤ
+    arabic: مَآ
     translation: what
     transliteration: mā
   6:
-    arabic: اُتۡرِفۡتُمۡ
+    arabic: أُتۡرِفۡتُمۡ
     translation: you were given luxury
     transliteration: ut'rif'tum
   7:
-    arabic: فِيۡهِ
+    arabic: فِيهِ
     translation: in it
     transliteration: fīhi
   8:
-    arabic: وَمَسٰكِنِكُمۡ
+    arabic: وَمَسَٰكِنِكُمۡ
     translation: and to your homes
     transliteration: wamasākinikum
   9:
@@ -41,7 +41,7 @@ word_by_word:
     translation: so that you may
     transliteration: laʿallakum
   10:
-    arabic: تُسۡــَٔلُوۡنَ‏
+    arabic: تُسۡـَٔلُونَ
     translation: be questioned
     transliteration: tus'alūna
 ---

@@ -1,13 +1,13 @@
 ---
-arabic_ayat: تَنۡزِيۡلُ الۡكِتٰبِ مِنَ اللّٰهِ الۡعَزِيۡزِ الۡحَكِيۡمِ‏
+arabic_ayat: تَنزِيلُ ٱلۡكِتَٰبِ مِنَ ٱللَّهِ ٱلۡعَزِيزِ ٱلۡحَكِيمِ
 sentence_translation: The revelation of this Book is from Allah—the Almighty, All-Wise.
 word_by_word:
   1:
-    arabic: تَنۡزِيۡلُ
+    arabic: تَنزِيلُ
     translation: (The) revelation
     transliteration: tanzīlu
   2:
-    arabic: الۡكِتٰبِ
+    arabic: ٱلۡكِتَٰبِ
     translation: (of) the Book
     transliteration: l-kitābi
   3:
@@ -15,15 +15,15 @@ word_by_word:
     translation: (is) from
     transliteration: mina
   4:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   5:
-    arabic: الۡعَزِيۡزِ
+    arabic: ٱلۡعَزِيزِ
     translation: the All-Mighty
     transliteration: l-ʿazīzi
   6:
-    arabic: الۡحَكِيۡمِ‏
+    arabic: ٱلۡحَكِيمِ
     translation: the All-Wise
     transliteration: l-ḥakīmi
 ---

@@ -1,16 +1,16 @@
 ---
-arabic_ayat: وَمَنۡ يَّدۡعُ مَعَ اللّٰهِ اِلٰهًا اٰخَرَۙ لَا بُرۡهَانَ لَهٗ بِهٖۙ
-  فَاِنَّمَا حِسَابُهٗ عِنۡدَ رَبِّهٖؕ اِنَّهٗ لَا يُفۡلِحُ الۡـكٰفِرُوۡنَ‏
+arabic_ayat: وَمَن يَدۡعُ مَعَ ٱللَّهِ إِلَٰهًا ءَاخَرَ لَا بُرۡهَٰنَ لَهُۥ بِهِۦ
+  فَإِنَّمَا حِسَابُهُۥ عِندَ رَبِّهِۦٓۚ إِنَّهُۥ لَا يُفۡلِحُ ٱلۡكَٰفِرُونَ
 sentence_translation: Whoever invokes, besides Allah, another god—for which they can
   have no proof—they will surely find their penalty with their Lord. Indeed, the disbelievers
   will never succeed.
 word_by_word:
   1:
-    arabic: وَمَنۡ
+    arabic: وَمَن
     translation: And whoever
     transliteration: waman
   2:
-    arabic: يَّدۡعُ
+    arabic: يَدۡعُ
     translation: invokes
     transliteration: yadʿu
   3:
@@ -18,15 +18,15 @@ word_by_word:
     translation: with
     transliteration: maʿa
   4:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   5:
-    arabic: اِلٰهًا
+    arabic: إِلَٰهًا ءَ
     translation: god
     transliteration: ilāhan
   6:
-    arabic: اٰخَرَۙ
+    arabic: اخَرَ
     translation: other
     transliteration: ākhara
   7:
@@ -34,35 +34,35 @@ word_by_word:
     translation: 'no'
     transliteration: lā
   8:
-    arabic: بُرۡهَانَ
+    arabic: بُرۡهَٰنَ
     translation: proof
     transliteration: bur'hāna
   9:
-    arabic: لَهٗ
+    arabic: لَهُۥ
     translation: for him
     transliteration: lahu
   10:
-    arabic: بِهٖۙ
+    arabic: بِهِۦ
     translation: in it
     transliteration: bihi
   11:
-    arabic: فَاِنَّمَا
+    arabic: فَإِنَّمَا
     translation: Then only
     transliteration: fa-innamā
   12:
-    arabic: حِسَابُهٗ
+    arabic: حِسَابُهُۥ
     translation: his account
     transliteration: ḥisābuhu
   13:
-    arabic: عِنۡدَ
+    arabic: عِندَ
     translation: (is) with
     transliteration: ʿinda
   14:
-    arabic: رَبِّهٖؕ
+    arabic: رَبِّهِۦٓۚ
     translation: his Lord
     transliteration: rabbihi
   15:
-    arabic: اِنَّهٗ
+    arabic: إِنَّهُۥ
     translation: Indeed, [he]
     transliteration: innahu
   16:
@@ -74,7 +74,7 @@ word_by_word:
     translation: will succeed
     transliteration: yuf'liḥu
   18:
-    arabic: الۡـكٰفِرُوۡنَ‏
+    arabic: ٱلۡكَٰفِرُونَ
     translation: the disbelievers
     transliteration: l-kāfirūna
 ---

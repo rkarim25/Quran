@@ -1,26 +1,26 @@
 ---
-arabic_ayat: كَذٰلِكَ سَلَكۡنٰهُ فِىۡ قُلُوۡبِ الۡمُجۡرِمِيۡنَؕ‏
+arabic_ayat: كَذَٰلِكَ سَلَكۡنَٰهُ فِي قُلُوبِ ٱلۡمُجۡرِمِينَ
 sentence_translation: This is how We allow denial ˹to steep˺ into the hearts of the
   wicked.
 word_by_word:
   1:
-    arabic: كَذٰلِكَ
+    arabic: كَذَٰلِكَ
     translation: Thus
     transliteration: kadhālika
   2:
-    arabic: سَلَكۡنٰهُ
+    arabic: سَلَكۡنَٰهُ
     translation: We have inserted it
     transliteration: salaknāhu
   3:
-    arabic: فِىۡ
+    arabic: فِي
     translation: into
     transliteration: fī
   4:
-    arabic: قُلُوۡبِ
+    arabic: قُلُوبِ
     translation: (the) hearts
     transliteration: qulūbi
   5:
-    arabic: الۡمُجۡرِمِيۡنَؕ‏
+    arabic: ٱلۡمُجۡرِمِينَ
     translation: (of) the criminals
     transliteration: l-muj'rimīna
 ---

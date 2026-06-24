@@ -1,14 +1,14 @@
 ---
-arabic_ayat: اَمۡ لِلۡاِنۡسَانِ مَا تَمَنّٰى   ۖ‏
+arabic_ayat: أَمۡ لِلۡإِنسَٰنِ مَا تَمَنَّىٰ
 sentence_translation: Or should every person ˹simply˺ have whatever ˹intercessors˺
   they desire?
 word_by_word:
   1:
-    arabic: اَمۡ
+    arabic: أَمۡ
     translation: Or
     transliteration: am
   2:
-    arabic: لِلۡاِنۡسَانِ
+    arabic: لِلۡإِنسَٰنِ
     translation: (is) for man
     transliteration: lil'insāni
   3:
@@ -16,7 +16,7 @@ word_by_word:
     translation: what
     transliteration: mā
   4:
-    arabic: تَمَنّٰى   ۖ‏
+    arabic: تَمَنَّىٰ
     translation: he wishes
     transliteration: tamannā
 ---

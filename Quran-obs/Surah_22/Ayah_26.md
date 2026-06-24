@@ -1,21 +1,20 @@
 ---
-arabic_ayat: وَاِذۡ بَوَّاۡنَا لِاِبۡرٰهِيۡمَ مَكَانَ الۡبَيۡتِ اَنۡ لَّا تُشۡرِكۡ
-  بِىۡ شَيۡـًٔـا وَّطَهِّرۡ بَيۡتِىَ لِلطَّآٮِٕفِيۡنَ وَالۡقَآٮِٕمِيۡنَ وَ الرُّكَّعِ
-  السُّجُوۡدِ‏
+arabic_ayat: وَإِذۡ بَوَّأۡنَا لِإِبۡرَٰهِيمَ مَكَانَ ٱلۡبَيۡتِ أَن لَّا تُشۡرِكۡ
+  بِي شَيۡـٔٗا وَطَهِّرۡ بَيۡتِيَ لِلطَّآئِفِينَ وَٱلۡقَآئِمِينَ وَٱلرُّكَّعِ ٱلسُّجُودِ
 sentence_translation: And ˹remember˺ when We assigned to Abraham the site of the House,
   ˹saying,˺ “Do not associate anything with Me ˹in worship˺ and purify My House for
   those who circle ˹the Ka’bah˺, stand ˹in prayer˺, and bow and prostrate themselves.
 word_by_word:
   1:
-    arabic: وَاِذۡ
+    arabic: وَإِذۡ
     translation: And when
     transliteration: wa-idh
   2:
-    arabic: بَوَّاۡنَا
+    arabic: بَوَّأۡنَا
     translation: We assigned
     transliteration: bawwanā
   3:
-    arabic: لِاِبۡرٰهِيۡمَ
+    arabic: لِإِبۡرَٰهِيمَ
     translation: to Ibrahim
     transliteration: li-ib'rāhīma
   4:
@@ -23,11 +22,11 @@ word_by_word:
     translation: (the) site
     transliteration: makāna
   5:
-    arabic: الۡبَيۡتِ
+    arabic: ٱلۡبَيۡتِ
     translation: (of) the House
     transliteration: l-bayti
   6:
-    arabic: اَنۡ
+    arabic: أَن
     translation: That
     transliteration: an
   7:
@@ -39,35 +38,35 @@ word_by_word:
     translation: associate
     transliteration: tush'rik
   9:
-    arabic: بِىۡ
+    arabic: بِي
     translation: with Me
     transliteration: bī
   10:
-    arabic: شَيۡـًٔـا
+    arabic: شَيۡـٔٗا
     translation: anything
     transliteration: shayan
   11:
-    arabic: وَّطَهِّرۡ
+    arabic: وَطَهِّرۡ
     translation: and purify
     transliteration: waṭahhir
   12:
-    arabic: بَيۡتِىَ
+    arabic: بَيۡتِيَ
     translation: My House
     transliteration: baytiya
   13:
-    arabic: لِلطَّآٮِٕفِيۡنَ
+    arabic: لِلطَّآئِفِينَ
     translation: for those who circumambulate
     transliteration: lilṭṭāifīna
   14:
-    arabic: وَالۡقَآٮِٕمِيۡنَ
+    arabic: وَٱلۡقَآئِمِينَ
     translation: and those who stand
     transliteration: wal-qāimīna
   15:
-    arabic: وَ الرُّكَّعِ
+    arabic: وَٱلرُّكَّعِ
     translation: and those who bow
     transliteration: wal-rukaʿi
   16:
-    arabic: السُّجُوۡدِ‏
+    arabic: ٱلسُّجُودِ
     translation: (and) those who prostrate
     transliteration: l-sujūdi
 ---

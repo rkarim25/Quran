@@ -1,64 +1,64 @@
 ---
-arabic_ayat: اَفَغَيۡرَ دِيۡنِ اللّٰهِ يَبۡغُوۡنَ وَلَهٗۤ اَسۡلَمَ مَنۡ فِى السَّمٰوٰتِ
-  وَالۡاَرۡضِ طَوۡعًا وَّكَرۡهًا وَّاِلَيۡهِ يُرۡجَعُوۡنَ‏
+arabic_ayat: أَفَغَيۡرَ دِينِ ٱللَّهِ يَبۡغُونَ وَلَهُۥٓ أَسۡلَمَ مَن فِي ٱلسَّمَٰوَٰتِ
+  وَٱلۡأَرۡضِ طَوۡعٗا وَكَرۡهٗا وَإِلَيۡهِ يُرۡجَعُونَ
 sentence_translation: Do they desire a way other than Allah’s—knowing that all those
   in the heavens and the earth submit to His Will, willingly or unwillingly, and to
   Him they will ˹all˺ be returned?
 word_by_word:
   1:
-    arabic: اَفَغَيۡرَ
+    arabic: أَفَغَيۡرَ
     translation: So is (it) other than
     transliteration: afaghayra
   2:
-    arabic: دِيۡنِ
+    arabic: دِينِ
     translation: (the) religion
     transliteration: dīni
   3:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (of) Allah
     transliteration: l-lahi
   4:
-    arabic: يَبۡغُوۡنَ
+    arabic: يَبۡغُونَ
     translation: they seek
     transliteration: yabghūna
   5:
-    arabic: وَلَهٗۤ
+    arabic: وَلَهُۥٓ
     translation: While to Him
     transliteration: walahu
   6:
-    arabic: اَسۡلَمَ
+    arabic: أَسۡلَمَ
     translation: (have) submitted
     transliteration: aslama
   7:
-    arabic: مَنۡ
+    arabic: مَن
     translation: whatever
     transliteration: man
   8:
-    arabic: فِى
+    arabic: فِي
     translation: (is) in
     transliteration: fī
   9:
-    arabic: السَّمٰوٰتِ
+    arabic: ٱلسَّمَٰوَٰتِ
     translation: the heavens
     transliteration: l-samāwāti
   10:
-    arabic: وَالۡاَرۡضِ
+    arabic: وَٱلۡأَرۡضِ
     translation: and the earth
     transliteration: wal-arḍi
   11:
-    arabic: طَوۡعًا
+    arabic: طَوۡعٗا
     translation: willingly
     transliteration: ṭawʿan
   12:
-    arabic: وَّكَرۡهًا
+    arabic: وَكَرۡهٗا
     translation: or unwillingly
     transliteration: wakarhan
   13:
-    arabic: وَّاِلَيۡهِ
+    arabic: وَإِلَيۡهِ
     translation: and towards Him
     transliteration: wa-ilayhi
   14:
-    arabic: يُرۡجَعُوۡنَ‏
+    arabic: يُرۡجَعُونَ
     translation: they will be returned
     transliteration: yur'jaʿūna
 ---

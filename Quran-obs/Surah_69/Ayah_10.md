@@ -1,14 +1,14 @@
 ---
-arabic_ayat: فَعَصَوۡا رَسُوۡلَ رَبِّهِمۡ فَاَخَذَهُمۡ اَخۡذَةً رَّابِيَةً‏
+arabic_ayat: فَعَصَوۡاْ رَسُولَ رَبِّهِمۡ فَأَخَذَهُمۡ أَخۡذَةٗ رَّابِيَةً
 sentence_translation: each disobeying their Lord’s messenger, so He seized them with
   a crushing grip.
 word_by_word:
   1:
-    arabic: فَعَصَوۡا
+    arabic: فَعَصَوۡاْ
     translation: And they disobeyed
     transliteration: faʿaṣaw
   2:
-    arabic: رَسُوۡلَ
+    arabic: رَسُولَ
     translation: (the) Messenger
     transliteration: rasūla
   3:
@@ -16,15 +16,15 @@ word_by_word:
     translation: (of) their Lord
     transliteration: rabbihim
   4:
-    arabic: فَاَخَذَهُمۡ
+    arabic: فَأَخَذَهُمۡ
     translation: so He seized them
     transliteration: fa-akhadhahum
   5:
-    arabic: اَخۡذَةً
+    arabic: أَخۡذَةٗ
     translation: (with) a seizure
     transliteration: akhdhatan
   6:
-    arabic: رَّابِيَةً‏
+    arabic: رَّابِيَةً
     translation: exceeding
     transliteration: rābiyatan
 ---

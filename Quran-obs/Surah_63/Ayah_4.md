@@ -1,8 +1,7 @@
 ---
-arabic_ayat: "وَاِذَا رَاَيۡتَهُمۡ تُعۡجِبُكَ اَجۡسَامُهُمۡ​ ؕ وَاِنۡ يَّقُوۡلُوۡا\
-  \ تَسۡمَعۡ لِقَوۡلِهِمۡ​ ؕ كَاَنَّهُمۡ خُشُبٌ مُّسَنَّدَةٌ   ​ؕ يَحۡسَبُوۡنَ كُلَّ\
-  \ صَيۡحَةٍ عَلَيۡهِمۡ​ ؕ هُمُ الۡعَدُوُّ فَاحۡذَرۡهُمۡ​ ؕ قَاتَلَهُمُ اللّٰهُ​\
-  \ اَنّٰى يُـؤۡفَكُوۡنَ‏ \uFEFF\uFEFF"
+arabic_ayat: ۞ وَإِذَا رَأَيۡتَهُمۡ تُعۡجِبُكَ أَجۡسَامُهُمۡۖ وَإِن يَقُولُواْ تَسۡمَعۡ
+  لِقَوۡلِهِمۡۖ كَأَنَّهُمۡ خُشُبٞ مُّسَنَّدَةٞۖ يَحۡسَبُونَ كُلَّ صَيۡحَةٍ عَلَيۡهِمۡۚ
+  هُمُ ٱلۡعَدُوُّ فَٱحۡذَرۡهُمۡۚ قَٰتَلَهُمُ ٱللَّهُۖ أَنَّىٰ يُؤۡفَكُونَ
 sentence_translation: When you see them, their appearance impresses you. And when
   they speak, you listen to their ˹impressive˺ speech. But they are ˹just˺ like ˹worthless˺
   planks of wood leaned ˹against a wall˺. They think every cry is against them. They
@@ -10,11 +9,11 @@ sentence_translation: When you see them, their appearance impresses you. And whe
   ˹from the truth˺?
 word_by_word:
   1:
-    arabic: ۞ وَاِذَا
+    arabic: ۞ وَإِذَا
     translation: And when
     transliteration: wa-idhā
   2:
-    arabic: رَاَيۡتَهُمۡ
+    arabic: رَأَيۡتَهُمۡ
     translation: you see them
     transliteration: ra-aytahum
   3:
@@ -22,15 +21,15 @@ word_by_word:
     translation: pleases you
     transliteration: tuʿ'jibuka
   4:
-    arabic: اَجۡسَامُهُمۡ​ ؕ
+    arabic: أَجۡسَامُهُمۡۖ
     translation: their bodies
     transliteration: ajsāmuhum
   5:
-    arabic: وَاِنۡ
+    arabic: وَإِن
     translation: and if
     transliteration: wa-in
   6:
-    arabic: يَّقُوۡلُوۡا
+    arabic: يَقُولُواْ
     translation: they speak
     transliteration: yaqūlū
   7:
@@ -38,23 +37,23 @@ word_by_word:
     translation: you listen
     transliteration: tasmaʿ
   8:
-    arabic: لِقَوۡلِهِمۡ​ ؕ
+    arabic: لِقَوۡلِهِمۡۖ
     translation: to their speech
     transliteration: liqawlihim
   9:
-    arabic: كَاَنَّهُمۡ
+    arabic: كَأَنَّهُمۡ
     translation: as if they (were)
     transliteration: ka-annahum
   10:
-    arabic: خُشُبٌ
+    arabic: خُشُبٞ
     translation: pieces of wood
     transliteration: khushubun
   11:
-    arabic: مُّسَنَّدَةٌ   ​ؕ
+    arabic: مُّسَنَّدَةٞۖ
     translation: propped up
     transliteration: musannadatun
   12:
-    arabic: يَحۡسَبُوۡنَ
+    arabic: يَحۡسَبُونَ
     translation: They think
     transliteration: yaḥsabūna
   13:
@@ -66,7 +65,7 @@ word_by_word:
     translation: shout
     transliteration: ṣayḥatin
   15:
-    arabic: عَلَيۡهِمۡ​ ؕ
+    arabic: عَلَيۡهِمۡۚ
     translation: (is) against them
     transliteration: ʿalayhim
   16:
@@ -74,27 +73,27 @@ word_by_word:
     translation: They
     transliteration: humu
   17:
-    arabic: الۡعَدُوُّ
+    arabic: ٱلۡعَدُوُّ
     translation: (are) the enemy
     transliteration: l-ʿaduwu
   18:
-    arabic: فَاحۡذَرۡهُمۡ​ ؕ
+    arabic: فَٱحۡذَرۡهُمۡۚ
     translation: so beware of them
     transliteration: fa-iḥ'dharhum
   19:
-    arabic: قَاتَلَهُمُ
+    arabic: قَٰتَلَهُمُ
     translation: May destroy them
     transliteration: qātalahumu
   20:
-    arabic: اللّٰهُ​
+    arabic: ٱللَّهُۖ
     translation: Allah
     transliteration: l-lahu
   21:
-    arabic: اَنّٰى
+    arabic: أَنَّىٰ
     translation: How
     transliteration: annā
   22:
-    arabic: "يُـؤۡفَكُوۡنَ‏ \uFEFF\uFEFF"
+    arabic: يُؤۡفَكُونَ
     translation: are they deluded
     transliteration: yu'fakūna
 ---

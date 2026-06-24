@@ -1,6 +1,5 @@
 ---
-arabic_ayat: "مُّسَوَّمَةً عِنۡدَ رَبِّكَ​ؕ وَ مَا هِىَ مِنَ الظّٰلِمِيۡنَ بِبَعِيۡدٍ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: مُّسَوَّمَةً عِندَ رَبِّكَۖ وَمَا هِيَ مِنَ ٱلظَّٰلِمِينَ بِبَعِيدٖ
 sentence_translation: marked by your Lord ˹O Prophet˺. And these stones are not far
   from the ˹pagan˺ wrongdoers!
 word_by_word:
@@ -9,19 +8,19 @@ word_by_word:
     translation: Marked
     transliteration: musawwamatan
   2:
-    arabic: عِنۡدَ
+    arabic: عِندَ
     translation: from
     transliteration: ʿinda
   3:
-    arabic: رَبِّكَ​ؕ
+    arabic: رَبِّكَۖ
     translation: your Lord
     transliteration: rabbika
   4:
-    arabic: وَ مَا
+    arabic: وَمَا
     translation: And not
     transliteration: wamā
   5:
-    arabic: هِىَ
+    arabic: هِيَ
     translation: it
     transliteration: hiya
   6:
@@ -29,11 +28,11 @@ word_by_word:
     translation: (is) from
     transliteration: mina
   7:
-    arabic: الظّٰلِمِيۡنَ
+    arabic: ٱلظَّٰلِمِينَ
     translation: the wrongdoers
     transliteration: l-ẓālimīna
   8:
-    arabic: "بِبَعِيۡدٍ‏ \uFEFF\uFEFF"
+    arabic: بِبَعِيدٖ
     translation: far
     transliteration: bibaʿīdin
 ---

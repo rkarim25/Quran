@@ -1,17 +1,17 @@
 ---
-arabic_ayat: وَ اِذَا قِيۡلَ لَهُمُ اتَّبِعُوۡا مَآ اَنۡزَلَ اللّٰهُ قَالُوۡا بَلۡ
-  نَـتَّـبِـعُ مَا وَجَدۡنَا عَلَيۡهِ اٰبَآءَنَا ؕ اَوَلَوۡ كَانَ الشَّيۡطٰنُ يَدۡعُوۡهُمۡ
-  اِلٰى عَذَابِ السَّعِيۡرِ‏
+arabic_ayat: وَإِذَا قِيلَ لَهُمُ ٱتَّبِعُواْ مَآ أَنزَلَ ٱللَّهُ قَالُواْ بَلۡ نَتَّبِعُ
+  مَا وَجَدۡنَا عَلَيۡهِ ءَابَآءَنَآۚ أَوَلَوۡ كَانَ ٱلشَّيۡطَٰنُ يَدۡعُوهُمۡ إِلَىٰ
+  عَذَابِ ٱلسَّعِيرِ
 sentence_translation: When it is said to them, “Follow what Allah has revealed,” they
   reply, “No! We ˹only˺ follow what we found our forefathers practicing.” ˹Would they
   still do so˺ even if Satan is inviting them to the torment of the Blaze?
 word_by_word:
   1:
-    arabic: وَ اِذَا
+    arabic: وَإِذَا
     translation: And when
     transliteration: wa-idhā
   2:
-    arabic: قِيۡلَ
+    arabic: قِيلَ
     translation: it is said
     transliteration: qīla
   3:
@@ -19,23 +19,23 @@ word_by_word:
     translation: to them
     transliteration: lahumu
   4:
-    arabic: اتَّبِعُوۡا
+    arabic: ٱتَّبِعُواْ
     translation: Follow
     transliteration: ittabiʿū
   5:
-    arabic: مَآ
+    arabic: مَآ
     translation: what
     transliteration: mā
   6:
-    arabic: اَنۡزَلَ
+    arabic: أَنزَلَ
     translation: Allah (has) revealed
     transliteration: anzala
   7:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah (has) revealed
     transliteration: l-lahu
   8:
-    arabic: قَالُوۡا
+    arabic: قَالُواْ
     translation: they say
     transliteration: qālū
   9:
@@ -43,7 +43,7 @@ word_by_word:
     translation: Nay
     transliteration: bal
   10:
-    arabic: نَـتَّـبِـعُ
+    arabic: نَتَّبِعُ
     translation: we will follow
     transliteration: nattabiʿu
   11:
@@ -55,15 +55,15 @@ word_by_word:
     translation: we found
     transliteration: wajadnā
   13:
-    arabic: عَلَيۡهِ
+    arabic: عَلَيۡهِ ءَ
     translation: on it
     transliteration: ʿalayhi
   14:
-    arabic: اٰبَآءَنَا ؕ
+    arabic: ابَآءَنَآۚ
     translation: our forefathers
     transliteration: ābāanā
   15:
-    arabic: اَوَلَوۡ
+    arabic: أَوَلَوۡ
     translation: Even if
     transliteration: awalaw
   16:
@@ -71,15 +71,15 @@ word_by_word:
     translation: Shaitaan was
     transliteration: kāna
   17:
-    arabic: الشَّيۡطٰنُ
+    arabic: ٱلشَّيۡطَٰنُ
     translation: Shaitaan was
     transliteration: l-shayṭānu
   18:
-    arabic: يَدۡعُوۡهُمۡ
+    arabic: يَدۡعُوهُمۡ
     translation: (to) call them
     transliteration: yadʿūhum
   19:
-    arabic: اِلٰى
+    arabic: إِلَىٰ
     translation: to
     transliteration: ilā
   20:
@@ -87,7 +87,7 @@ word_by_word:
     translation: (the) punishment
     transliteration: ʿadhābi
   21:
-    arabic: السَّعِيۡرِ‏
+    arabic: ٱلسَّعِيرِ
     translation: (of) the Blaze
     transliteration: l-saʿīri
 ---

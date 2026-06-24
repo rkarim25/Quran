@@ -1,7 +1,7 @@
 ---
-arabic_ayat: ثُمَّ كُلِىۡ مِنۡ كُلِّ الثَّمَرٰتِ فَاسۡلُكِىۡ سُبُلَ رَبِّكِ ذُلُلًا​
-  ؕ يَخۡرُجُ مِنۡۢ بُطُوۡنِهَا شَرَابٌ مُّخۡتَلِفٌ اَلۡوَانُهٗ فِيۡهِ شِفَآءٌ لِّلنَّاسِ​ؕ
-  اِنَّ فِىۡ ذٰ لِكَ لَاٰيَةً لِّقَوۡمٍ يَّتَفَكَّرُوۡنَ‏
+arabic_ayat: ثُمَّ كُلِي مِن كُلِّ ٱلثَّمَرَٰتِ فَٱسۡلُكِي سُبُلَ رَبِّكِ ذُلُلٗاۚ
+  يَخۡرُجُ مِنۢ بُطُونِهَا شَرَابٞ مُّخۡتَلِفٌ أَلۡوَٰنُهُۥ فِيهِ شِفَآءٞ لِّلنَّاسِۚ
+  إِنَّ فِي ذَٰلِكَ لَأٓيَةٗ لِّقَوۡمٖ يَتَفَكَّرُونَ
 sentence_translation: and feed from ˹the flower of˺ any fruit ˹you please˺ and follow
   the ways your Lord has made easy for you.” From their bellies comes forth liquid
   of varying colours, in which there is healing for people. Surely in this is a sign
@@ -12,11 +12,11 @@ word_by_word:
     translation: Then
     transliteration: thumma
   2:
-    arabic: كُلِىۡ
+    arabic: كُلِي
     translation: eat
     transliteration: kulī
   3:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   4:
@@ -24,11 +24,11 @@ word_by_word:
     translation: all
     transliteration: kulli
   5:
-    arabic: الثَّمَرٰتِ
+    arabic: ٱلثَّمَرَٰتِ
     translation: the fruits
     transliteration: l-thamarāti
   6:
-    arabic: فَاسۡلُكِىۡ
+    arabic: فَٱسۡلُكِي
     translation: and follow
     transliteration: fa-us'lukī
   7:
@@ -40,7 +40,7 @@ word_by_word:
     translation: (of) your Lord
     transliteration: rabbiki
   9:
-    arabic: ذُلُلًا​ ؕ
+    arabic: ذُلُلٗاۚ
     translation: made smooth
     transliteration: dhululan
   10:
@@ -48,15 +48,15 @@ word_by_word:
     translation: Comes forth
     transliteration: yakhruju
   11:
-    arabic: مِنۡۢ
+    arabic: مِنۢ
     translation: from
     transliteration: min
   12:
-    arabic: بُطُوۡنِهَا
+    arabic: بُطُونِهَا
     translation: their bellies
     transliteration: buṭūnihā
   13:
-    arabic: شَرَابٌ
+    arabic: شَرَابٞ
     translation: a drink
     transliteration: sharābun
   14:
@@ -64,43 +64,43 @@ word_by_word:
     translation: (of) varying
     transliteration: mukh'talifun
   15:
-    arabic: اَلۡوَانُهٗ
+    arabic: أَلۡوَٰنُهُۥ
     translation: colors
     transliteration: alwānuhu
   16:
-    arabic: فِيۡهِ
+    arabic: فِيهِ
     translation: in it
     transliteration: fīhi
   17:
-    arabic: شِفَآءٌ
+    arabic: شِفَآءٞ
     translation: (is) a healing
     transliteration: shifāon
   18:
-    arabic: لِّلنَّاسِ​ؕ
+    arabic: لِّلنَّاسِۚ
     translation: for the mankind
     transliteration: lilnnāsi
   19:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   20:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   21:
-    arabic: ذٰ لِكَ
+    arabic: ذَٰلِكَ
     translation: that
     transliteration: dhālika
   22:
-    arabic: لَاٰيَةً
+    arabic: لَأٓيَةٗ
     translation: (is) surely a Sign
     transliteration: laāyatan
   23:
-    arabic: لِّقَوۡمٍ
+    arabic: لِّقَوۡمٖ
     translation: for a people
     transliteration: liqawmin
   24:
-    arabic: يَّتَفَكَّرُوۡنَ‏
+    arabic: يَتَفَكَّرُونَ
     translation: who reflect
     transliteration: yatafakkarūna
 ---

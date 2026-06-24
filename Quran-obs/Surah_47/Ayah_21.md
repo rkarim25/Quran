@@ -1,23 +1,23 @@
 ---
-arabic_ayat: طَاعَةٌ وَّقَوۡلٌ مَّعۡرُوۡفٌ​ فَاِذَا عَزَمَ الۡاَمۡرُ فَلَوۡ صَدَقُوا
-  اللّٰهَ لَـكَانَ خَيۡرًا لَّهُمۡ​ۚ‏
+arabic_ayat: طَاعَةٞ وَقَوۡلٞ مَّعۡرُوفٞۚ فَإِذَا عَزَمَ ٱلۡأَمۡرُ فَلَوۡ صَدَقُواْ
+  ٱللَّهَ لَكَانَ خَيۡرٗا لَّهُمۡ
 sentence_translation: to obey and speak rightly. Then when fighting was ordained,
   it surely would have been better for them if they were true to Allah.
 word_by_word:
   1:
-    arabic: طَاعَةٌ
+    arabic: طَاعَةٞ
     translation: (Is) obedience
     transliteration: ṭāʿatun
   2:
-    arabic: وَّقَوۡلٌ
+    arabic: وَقَوۡلٞ
     translation: and a word
     transliteration: waqawlun
   3:
-    arabic: مَّعۡرُوۡفٌ​
+    arabic: مَّعۡرُوفٞۚ
     translation: kind
     transliteration: maʿrūfun
   4:
-    arabic: فَاِذَا
+    arabic: فَإِذَا
     translation: And when
     transliteration: fa-idhā
   5:
@@ -25,7 +25,7 @@ word_by_word:
     translation: (is) determined
     transliteration: ʿazama
   6:
-    arabic: الۡاَمۡرُ
+    arabic: ٱلۡأَمۡرُ
     translation: the matter
     transliteration: l-amru
   7:
@@ -33,23 +33,23 @@ word_by_word:
     translation: then if
     transliteration: falaw
   8:
-    arabic: صَدَقُوا
+    arabic: صَدَقُواْ
     translation: they had been true
     transliteration: ṣadaqū
   9:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: (to) Allah
     transliteration: l-laha
   10:
-    arabic: لَـكَانَ
+    arabic: لَكَانَ
     translation: surely, it would have been
     transliteration: lakāna
   11:
-    arabic: خَيۡرًا
+    arabic: خَيۡرٗا
     translation: better
     transliteration: khayran
   12:
-    arabic: لَّهُمۡ​ۚ‏
+    arabic: لَّهُمۡ
     translation: for them
     transliteration: lahum
 ---

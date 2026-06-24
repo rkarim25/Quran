@@ -1,25 +1,25 @@
 ---
-arabic_ayat: اِنَّ الَّذِيۡنَ كَفَرُوۡا بِاٰيٰتِنَا سَوۡفَ نُصۡلِيۡهِمۡ نَارًا ؕ كُلَّمَا
-  نَضِجَتۡ جُلُوۡدُهُمۡ بَدَّلۡنٰهُمۡ جُلُوۡدًا غَيۡرَهَا لِيَذُوۡقُوا الۡعَذَابَ​
-  ؕ اِنَّ اللّٰهَ كَانَ عَزِيۡزًا حَكِيۡمًا‏
+arabic_ayat: إِنَّ ٱلَّذِينَ كَفَرُواْ بِـَٔايَٰتِنَا سَوۡفَ نُصۡلِيهِمۡ نَارٗا كُلَّمَا
+  نَضِجَتۡ جُلُودُهُم بَدَّلۡنَٰهُمۡ جُلُودًا غَيۡرَهَا لِيَذُوقُواْ ٱلۡعَذَابَۗ إِنَّ
+  ٱللَّهَ كَانَ عَزِيزًا حَكِيمٗا
 sentence_translation: Surely those who reject Our signs, We will cast them into the
   Fire. Whenever their skin is burnt completely, We will replace it so they will ˹constantly˺
   taste the punishment. Indeed, Allah is Almighty, All-Wise.
 word_by_word:
   1:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   3:
-    arabic: كَفَرُوۡا
+    arabic: كَفَرُواْ
     translation: disbelieved
     transliteration: kafarū
   4:
-    arabic: بِاٰيٰتِنَا
+    arabic: بِـَٔايَٰتِنَا
     translation: in Our Signs
     transliteration: biāyātinā
   5:
@@ -27,11 +27,11 @@ word_by_word:
     translation: soon
     transliteration: sawfa
   6:
-    arabic: نُصۡلِيۡهِمۡ
+    arabic: نُصۡلِيهِمۡ
     translation: We will burn them
     transliteration: nuṣ'līhim
   7:
-    arabic: نَارًا ؕ
+    arabic: نَارٗا
     translation: (in) a Fire
     transliteration: nāran
   8:
@@ -43,15 +43,15 @@ word_by_word:
     translation: are roasted
     transliteration: naḍijat
   10:
-    arabic: جُلُوۡدُهُمۡ
+    arabic: جُلُودُهُم
     translation: their skins
     transliteration: julūduhum
   11:
-    arabic: بَدَّلۡنٰهُمۡ
+    arabic: بَدَّلۡنَٰهُمۡ
     translation: We will change their
     transliteration: baddalnāhum
   12:
-    arabic: جُلُوۡدًا
+    arabic: جُلُودًا
     translation: skins
     transliteration: julūdan
   13:
@@ -59,19 +59,19 @@ word_by_word:
     translation: for other (than) that
     transliteration: ghayrahā
   14:
-    arabic: لِيَذُوۡقُوا
+    arabic: لِيَذُوقُواْ
     translation: so that they may taste
     transliteration: liyadhūqū
   15:
-    arabic: الۡعَذَابَ​ ؕ
+    arabic: ٱلۡعَذَابَۗ
     translation: the punishment
     transliteration: l-ʿadhāba
   16:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   17:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   18:
@@ -79,11 +79,11 @@ word_by_word:
     translation: is
     transliteration: kāna
   19:
-    arabic: عَزِيۡزًا
+    arabic: عَزِيزًا
     translation: All-Mighty
     transliteration: ʿazīzan
   20:
-    arabic: حَكِيۡمًا‏
+    arabic: حَكِيمٗا
     translation: All-Wise
     transliteration: ḥakīman
 ---

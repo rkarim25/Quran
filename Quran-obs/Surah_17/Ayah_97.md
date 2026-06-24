@@ -1,23 +1,23 @@
 ---
-arabic_ayat: وَمَنۡ يَّهۡدِ اللّٰهُ فَهُوَ الۡمُهۡتَدِ​ ۚ وَمَنۡ يُّضۡلِلۡ فَلَنۡ
-  تَجِدَ لَهُمۡ اَوۡلِيَآءَ مِنۡ دُوۡنِهٖ​ ؕ وَنَحۡشُرُهُمۡ يَوۡمَ الۡقِيٰمَةِ عَلٰى
-  وُجُوۡهِهِمۡ عُمۡيًا وَّبُكۡمًا وَّصُمًّا​ ؕ مَاۡوٰٮهُمۡ جَهَـنَّمُ​ ؕ كُلَّمَا
-  خَبَتۡ زِدۡنٰهُمۡ سَعِيۡرًا‏
+arabic_ayat: وَمَن يَهۡدِ ٱللَّهُ فَهُوَ ٱلۡمُهۡتَدِۖ وَمَن يُضۡلِلۡ فَلَن تَجِدَ
+  لَهُمۡ أَوۡلِيَآءَ مِن دُونِهِۦۖ وَنَحۡشُرُهُمۡ يَوۡمَ ٱلۡقِيَٰمَةِ عَلَىٰ وُجُوهِهِمۡ
+  عُمۡيٗا وَبُكۡمٗا وَصُمّٗاۖ مَّأۡوَىٰهُمۡ جَهَنَّمُۖ كُلَّمَا خَبَتۡ زِدۡنَٰهُمۡ
+  سَعِيرٗا
 sentence_translation: Whoever Allah guides is truly guided. And whoever He leaves
   to stray, you will find no guardians for them besides Him. And We will drag them
   on their faces on the Day of Judgment—deaf, dumb, and blind. Hell will be their
   home. Whenever it dies down, We will flare it up for them.
 word_by_word:
   1:
-    arabic: وَمَنۡ
+    arabic: وَمَن
     translation: And whoever
     transliteration: waman
   2:
-    arabic: يَّهۡدِ
+    arabic: يَهۡدِ
     translation: Allah guides
     transliteration: yahdi
   3:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah guides
     transliteration: l-lahu
   4:
@@ -25,19 +25,19 @@ word_by_word:
     translation: then he (is)
     transliteration: fahuwa
   5:
-    arabic: الۡمُهۡتَدِ​ ۚ
+    arabic: ٱلۡمُهۡتَدِۖ
     translation: the guided one
     transliteration: l-muh'tadi
   6:
-    arabic: وَمَنۡ
+    arabic: وَمَن
     translation: and whoever
     transliteration: waman
   7:
-    arabic: يُّضۡلِلۡ
+    arabic: يُضۡلِلۡ
     translation: 'He lets go astray '
     transliteration: yuḍ'lil
   8:
-    arabic: فَلَنۡ
+    arabic: فَلَن
     translation: then never
     transliteration: falan
   9:
@@ -49,15 +49,15 @@ word_by_word:
     translation: for them
     transliteration: lahum
   11:
-    arabic: اَوۡلِيَآءَ
+    arabic: أَوۡلِيَآءَ
     translation: protectors
     transliteration: awliyāa
   12:
-    arabic: مِنۡ
+    arabic: مِن
     translation: besides Him
     transliteration: min
   13:
-    arabic: دُوۡنِهٖ​ ؕ
+    arabic: دُونِهِۦۖ
     translation: besides Him
     transliteration: dūnihi
   14:
@@ -69,35 +69,35 @@ word_by_word:
     translation: (on) the Day
     transliteration: yawma
   16:
-    arabic: الۡقِيٰمَةِ
+    arabic: ٱلۡقِيَٰمَةِ
     translation: (of) the Resurrection
     transliteration: l-qiyāmati
   17:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: 'on'
     transliteration: ʿalā
   18:
-    arabic: وُجُوۡهِهِمۡ
+    arabic: وُجُوهِهِمۡ
     translation: 'their faces '
     transliteration: wujūhihim
   19:
-    arabic: عُمۡيًا
+    arabic: عُمۡيٗا
     translation: blind
     transliteration: ʿum'yan
   20:
-    arabic: وَّبُكۡمًا
+    arabic: وَبُكۡمٗا
     translation: and dumb
     transliteration: wabuk'man
   21:
-    arabic: وَّصُمًّا​ ؕ
+    arabic: وَصُمّٗاۖ
     translation: and deaf
     transliteration: waṣumman
   22:
-    arabic: مَاۡوٰٮهُمۡ
+    arabic: مَّأۡوَىٰهُمۡ
     translation: Their abode
     transliteration: mawāhum
   23:
-    arabic: جَهَـنَّمُ​ ؕ
+    arabic: جَهَنَّمُۖ
     translation: (is) Hell
     transliteration: jahannamu
   24:
@@ -109,11 +109,11 @@ word_by_word:
     translation: it subsides
     transliteration: khabat
   26:
-    arabic: زِدۡنٰهُمۡ
+    arabic: زِدۡنَٰهُمۡ
     translation: We (will) increase (for) them
     transliteration: zid'nāhum
   27:
-    arabic: سَعِيۡرًا‏
+    arabic: سَعِيرٗا
     translation: the blazing fire
     transliteration: saʿīran
 ---

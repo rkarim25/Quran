@@ -1,40 +1,40 @@
 ---
-arabic_ayat: "فَرِحِيۡنَ بِمَاۤ اٰتٰٮهُمُ اللّٰهُ مِنۡ فَضۡلِهٖ ۙ وَيَسۡتَبۡشِرُوۡنَ\
-  \ بِالَّذِيۡنَ لَمۡ يَلۡحَقُوۡا بِهِمۡ مِّنۡ خَلۡفِهِمۡۙ اَ لَّا خَوۡفٌ عَلَيۡهِمۡ\
-  \ وَلَا هُمۡ يَحۡزَنُوۡنَ​ۘ‏ \uFEFF\uFEFF"
+arabic_ayat: فَرِحِينَ بِمَآ ءَاتَىٰهُمُ ٱللَّهُ مِن فَضۡلِهِۦ وَيَسۡتَبۡشِرُونَ
+  بِٱلَّذِينَ لَمۡ يَلۡحَقُواْ بِهِم مِّنۡ خَلۡفِهِمۡ أَلَّا خَوۡفٌ عَلَيۡهِمۡ وَلَا
+  هُمۡ يَحۡزَنُونَ
 sentence_translation: rejoicing in Allah’s bounties and being delighted for those
   yet to join them. There will be no fear for them, nor will they grieve.
 word_by_word:
   1:
-    arabic: فَرِحِيۡنَ
+    arabic: فَرِحِينَ
     translation: Rejoicing
     transliteration: fariḥīna
   2:
-    arabic: بِمَاۤ
+    arabic: بِمَآ ءَ
     translation: in what
     transliteration: bimā
   3:
-    arabic: اٰتٰٮهُمُ
+    arabic: اتَىٰهُمُ
     translation: bestowed them
     transliteration: ātāhumu
   4:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   5:
-    arabic: مِنۡ
+    arabic: مِن
     translation: of
     transliteration: min
   6:
-    arabic: فَضۡلِهٖ ۙ
+    arabic: فَضۡلِهِۦ
     translation: His Bounty
     transliteration: faḍlihi
   7:
-    arabic: وَيَسۡتَبۡشِرُوۡنَ
+    arabic: وَيَسۡتَبۡشِرُونَ
     translation: and they receive good tidings
     transliteration: wayastabshirūna
   8:
-    arabic: بِالَّذِيۡنَ
+    arabic: بِٱلَّذِينَ
     translation: about those who
     transliteration: bi-alladhīna
   9:
@@ -42,11 +42,11 @@ word_by_word:
     translation: (have) not
     transliteration: lam
   10:
-    arabic: يَلۡحَقُوۡا
+    arabic: يَلۡحَقُواْ
     translation: yet joined
     transliteration: yalḥaqū
   11:
-    arabic: بِهِمۡ
+    arabic: بِهِم
     translation: '[with] them'
     transliteration: bihim
   12:
@@ -54,11 +54,11 @@ word_by_word:
     translation: '[from]'
     transliteration: min
   13:
-    arabic: خَلۡفِهِمۡۙ
+    arabic: خَلۡفِهِمۡ
     translation: '(but are) left behind '
     transliteration: khalfihim
   14:
-    arabic: اَ لَّا
+    arabic: أَلَّا
     translation: that (there will be) no
     transliteration: allā
   15:
@@ -78,7 +78,7 @@ word_by_word:
     translation: they
     transliteration: hum
   19:
-    arabic: "يَحۡزَنُوۡنَ​ۘ‏ \uFEFF\uFEFF"
+    arabic: يَحۡزَنُونَ
     translation: will grieve
     transliteration: yaḥzanūna
 ---

@@ -1,23 +1,23 @@
 ---
-arabic_ayat: اُولٰٓٮِٕكَ الَّذِيۡنَ خَسِرُوۡۤا اَنۡفُسَهُمۡ وَضَلَّ عَنۡهُمۡ مَّا
-  كَانُوۡا يَفۡتَرُوۡنَ‏
+arabic_ayat: أُوْلَٰٓئِكَ ٱلَّذِينَ خَسِرُوٓاْ أَنفُسَهُمۡ وَضَلَّ عَنۡهُم مَّا كَانُواْ
+  يَفۡتَرُونَ
 sentence_translation: It is they who have ruined themselves, and whatever ˹gods˺ they
   fabricated will fail them.
 word_by_word:
   1:
-    arabic: اُولٰٓٮِٕكَ
+    arabic: أُوْلَٰٓئِكَ
     translation: Those
     transliteration: ulāika
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: (are) the ones who
     transliteration: alladhīna
   3:
-    arabic: خَسِرُوۡۤا
+    arabic: خَسِرُوٓاْ
     translation: (have) lost
     transliteration: khasirū
   4:
-    arabic: اَنۡفُسَهُمۡ
+    arabic: أَنفُسَهُمۡ
     translation: their souls
     transliteration: anfusahum
   5:
@@ -25,7 +25,7 @@ word_by_word:
     translation: and lost
     transliteration: waḍalla
   6:
-    arabic: عَنۡهُمۡ
+    arabic: عَنۡهُم
     translation: from them
     transliteration: ʿanhum
   7:
@@ -33,11 +33,11 @@ word_by_word:
     translation: (is) what
     transliteration: mā
   8:
-    arabic: كَانُوۡا
+    arabic: كَانُواْ
     translation: they used
     transliteration: kānū
   9:
-    arabic: يَفۡتَرُوۡنَ‏
+    arabic: يَفۡتَرُونَ
     translation: (to) invent
     transliteration: yaftarūna
 ---

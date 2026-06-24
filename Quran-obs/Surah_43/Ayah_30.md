@@ -1,6 +1,5 @@
 ---
-arabic_ayat: "وَلَمَّا جَآءَهُمُ الۡحَقُّ قَالُوۡا هٰذَا سِحۡرٌ وَّاِنَّا بِهٖ كٰفِرُوۡنَ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: وَلَمَّا جَآءَهُمُ ٱلۡحَقُّ قَالُواْ هَٰذَا سِحۡرٞ وَإِنَّا بِهِۦ كَٰفِرُونَ
 sentence_translation: ˹But˺ when the truth came to them, they said, “This is magic,
   and we totally reject it.”
 word_by_word:
@@ -13,31 +12,31 @@ word_by_word:
     translation: came to them
     transliteration: jāahumu
   3:
-    arabic: الۡحَقُّ
+    arabic: ٱلۡحَقُّ
     translation: the truth
     transliteration: l-ḥaqu
   4:
-    arabic: قَالُوۡا
+    arabic: قَالُواْ
     translation: they said
     transliteration: qālū
   5:
-    arabic: هٰذَا
+    arabic: هَٰذَا
     translation: This
     transliteration: hādhā
   6:
-    arabic: سِحۡرٌ
+    arabic: سِحۡرٞ
     translation: (is) magic
     transliteration: siḥ'run
   7:
-    arabic: وَّاِنَّا
+    arabic: وَإِنَّا
     translation: and indeed, we
     transliteration: wa-innā
   8:
-    arabic: بِهٖ
+    arabic: بِهِۦ
     translation: of it
     transliteration: bihi
   9:
-    arabic: "كٰفِرُوۡنَ‏ \uFEFF\uFEFF"
+    arabic: كَٰفِرُونَ
     translation: (are) disbelievers
     transliteration: kāfirūna
 ---

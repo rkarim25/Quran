@@ -1,13 +1,13 @@
 ---
-arabic_ayat: اَلَمۡ تَرَ اَنَّ اللّٰهَ اَنۡزَلَ مِنَ السَّمَآءِ مَآءً ​ۚ فَاَخۡرَجۡنَا
-  بِهٖ ثَمَرٰتٍ مُّخۡتَلِفًا اَلۡوَانُهَاؕ وَمِنَ الۡجِبَالِ جُدَدٌۢ بِيۡضٌ وَّحُمۡرٌ
-  مُّخۡتَلِفٌ اَلۡوَانُهَا وَغَرَابِيۡبُ سُوۡدٌ‏
+arabic_ayat: أَلَمۡ تَرَ أَنَّ ٱللَّهَ أَنزَلَ مِنَ ٱلسَّمَآءِ مَآءٗ فَأَخۡرَجۡنَا
+  بِهِۦ ثَمَرَٰتٖ مُّخۡتَلِفًا أَلۡوَٰنُهَاۚ وَمِنَ ٱلۡجِبَالِ جُدَدُۢ بِيضٞ وَحُمۡرٞ
+  مُّخۡتَلِفٌ أَلۡوَٰنُهَا وَغَرَابِيبُ سُودٞ
 sentence_translation: Do you not see that Allah sends down rain from the sky with
   which We bring forth fruits of different colours? And in the mountains are streaks
   of varying shades of white, red, and raven black;
 word_by_word:
   1:
-    arabic: اَلَمۡ
+    arabic: أَلَمۡ
     translation: Do not
     transliteration: alam
   2:
@@ -15,15 +15,15 @@ word_by_word:
     translation: you see
     transliteration: tara
   3:
-    arabic: اَنَّ
+    arabic: أَنَّ
     translation: that
     transliteration: anna
   4:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   5:
-    arabic: اَنۡزَلَ
+    arabic: أَنزَلَ
     translation: sends down
     transliteration: anzala
   6:
@@ -31,23 +31,23 @@ word_by_word:
     translation: from
     transliteration: mina
   7:
-    arabic: السَّمَآءِ
+    arabic: ٱلسَّمَآءِ
     translation: the sky
     transliteration: l-samāi
   8:
-    arabic: مَآءً ​ۚ
+    arabic: مَآءٗ
     translation: water
     transliteration: māan
   9:
-    arabic: فَاَخۡرَجۡنَا
+    arabic: فَأَخۡرَجۡنَا
     translation: then We bring forth
     transliteration: fa-akhrajnā
   10:
-    arabic: بِهٖ
+    arabic: بِهِۦ
     translation: therewith
     transliteration: bihi
   11:
-    arabic: ثَمَرٰتٍ
+    arabic: ثَمَرَٰتٖ
     translation: fruits
     transliteration: thamarātin
   12:
@@ -55,7 +55,7 @@ word_by_word:
     translation: (of) various
     transliteration: mukh'talifan
   13:
-    arabic: اَلۡوَانُهَاؕ
+    arabic: أَلۡوَٰنُهَاۚ
     translation: '[their] colors'
     transliteration: alwānuhā
   14:
@@ -63,19 +63,19 @@ word_by_word:
     translation: And in
     transliteration: wamina
   15:
-    arabic: الۡجِبَالِ
+    arabic: ٱلۡجِبَالِ
     translation: the mountains
     transliteration: l-jibāli
   16:
-    arabic: جُدَدٌۢ
+    arabic: جُدَدُۢ
     translation: (are) tracts
     transliteration: judadun
   17:
-    arabic: بِيۡضٌ
+    arabic: بِيضٞ
     translation: white
     transliteration: bīḍun
   18:
-    arabic: وَّحُمۡرٌ
+    arabic: وَحُمۡرٞ
     translation: and red
     transliteration: waḥum'run
   19:
@@ -83,15 +83,15 @@ word_by_word:
     translation: (of) various
     transliteration: mukh'talifun
   20:
-    arabic: اَلۡوَانُهَا
+    arabic: أَلۡوَٰنُهَا
     translation: '[their] colors'
     transliteration: alwānuhā
   21:
-    arabic: وَغَرَابِيۡبُ
+    arabic: وَغَرَابِيبُ
     translation: and intensely black
     transliteration: wagharābību
   22:
-    arabic: سُوۡدٌ‏
+    arabic: سُودٞ
     translation: and intensely black
     transliteration: sūdun
 ---

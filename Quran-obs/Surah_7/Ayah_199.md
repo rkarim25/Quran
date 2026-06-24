@@ -1,5 +1,5 @@
 ---
-arabic_ayat: خُذِ الۡعَفۡوَ وَاۡمُرۡ بِالۡعُرۡفِ وَاَعۡرِضۡ عَنِ الۡجٰهِلِيۡنَ‏
+arabic_ayat: خُذِ ٱلۡعَفۡوَ وَأۡمُرۡ بِٱلۡعُرۡفِ وَأَعۡرِضۡ عَنِ ٱلۡجَٰهِلِينَ
 sentence_translation: Be gracious, enjoin what is right, and turn away from those
   who act ignorantly.
 word_by_word:
@@ -8,19 +8,19 @@ word_by_word:
     translation: Hold
     transliteration: khudhi
   2:
-    arabic: الۡعَفۡوَ
+    arabic: ٱلۡعَفۡوَ
     translation: (to) forgiveness
     transliteration: l-ʿafwa
   3:
-    arabic: وَاۡمُرۡ
+    arabic: وَأۡمُرۡ
     translation: and enjoin
     transliteration: wamur
   4:
-    arabic: بِالۡعُرۡفِ
+    arabic: بِٱلۡعُرۡفِ
     translation: the good
     transliteration: bil-ʿur'fi
   5:
-    arabic: وَاَعۡرِضۡ
+    arabic: وَأَعۡرِضۡ
     translation: and turn away
     transliteration: wa-aʿriḍ
   6:
@@ -28,7 +28,7 @@ word_by_word:
     translation: from
     transliteration: ʿani
   7:
-    arabic: الۡجٰهِلِيۡنَ‏
+    arabic: ٱلۡجَٰهِلِينَ
     translation: the ignorant
     transliteration: l-jāhilīna
 ---

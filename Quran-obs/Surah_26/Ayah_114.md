@@ -1,13 +1,13 @@
 ---
-arabic_ayat: وَمَاۤ اَنَا بِطَارِدِ الۡمُؤۡمِنِيۡنَ​ۚ‏
+arabic_ayat: وَمَآ أَنَا۠ بِطَارِدِ ٱلۡمُؤۡمِنِينَ
 sentence_translation: I am not going to expel the believers.
 word_by_word:
   1:
-    arabic: وَمَاۤ
+    arabic: وَمَآ
     translation: And not
     transliteration: wamā
   2:
-    arabic: اَنَا
+    arabic: أَنَا۠
     translation: I am
     transliteration: anā
   3:
@@ -15,7 +15,7 @@ word_by_word:
     translation: the one to drive away
     transliteration: biṭāridi
   4:
-    arabic: الۡمُؤۡمِنِيۡنَ​ۚ‏
+    arabic: ٱلۡمُؤۡمِنِينَ
     translation: the believers
     transliteration: l-mu'minīna
 ---

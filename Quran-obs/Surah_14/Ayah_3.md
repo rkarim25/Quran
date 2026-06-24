@@ -1,25 +1,24 @@
 ---
-arabic_ayat: "اۨلَّذِيۡنَ يَسۡتَحِبُّوۡنَ الۡحَيٰوةَ الدُّنۡيَا عَلَى الۡاٰخِرَةِ\
-  \ وَيَصُدُّوۡنَ عَنۡ سَبِيۡلِ اللّٰهِ وَيَبۡغُوۡنَهَا عِوَجًا​ ؕ اُولٰۤٮِٕكَ فِىۡ\
-  \ ضَلٰلٍۢ بَعِيۡدٍ‏ \uFEFF\uFEFF"
+arabic_ayat: ٱلَّذِينَ يَسۡتَحِبُّونَ ٱلۡحَيَوٰةَ ٱلدُّنۡيَا عَلَى ٱلۡأٓخِرَةِ وَيَصُدُّونَ
+  عَن سَبِيلِ ٱللَّهِ وَيَبۡغُونَهَا عِوَجًاۚ أُوْلَٰٓئِكَ فِي ضَلَٰلِۭ بَعِيدٖ
 sentence_translation: ˹They are˺ the ones who favour the life of this world over the
   Hereafter and hinder ˹others˺ from the Way of Allah, striving to make it ˹appear˺
   crooked. It is they who have gone far astray.
 word_by_word:
   1:
-    arabic: اۨلَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: Those who
     transliteration: alladhīna
   2:
-    arabic: يَسۡتَحِبُّوۡنَ
+    arabic: يَسۡتَحِبُّونَ
     translation: love more
     transliteration: yastaḥibbūna
   3:
-    arabic: الۡحَيٰوةَ
+    arabic: ٱلۡحَيَوٰةَ
     translation: the life
     transliteration: l-ḥayata
   4:
-    arabic: الدُّنۡيَا
+    arabic: ٱلدُّنۡيَا
     translation: (of) the world
     transliteration: l-dun'yā
   5:
@@ -27,47 +26,47 @@ word_by_word:
     translation: than
     transliteration: ʿalā
   6:
-    arabic: الۡاٰخِرَةِ
+    arabic: ٱلۡأٓخِرَةِ
     translation: the Hereafter
     transliteration: l-ākhirati
   7:
-    arabic: وَيَصُدُّوۡنَ
+    arabic: وَيَصُدُّونَ
     translation: and hinder
     transliteration: wayaṣuddūna
   8:
-    arabic: عَنۡ
+    arabic: عَن
     translation: from
     transliteration: ʿan
   9:
-    arabic: سَبِيۡلِ
+    arabic: سَبِيلِ
     translation: (the) Path
     transliteration: sabīli
   10:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (of) Allah
     transliteration: l-lahi
   11:
-    arabic: وَيَبۡغُوۡنَهَا
+    arabic: وَيَبۡغُونَهَا
     translation: and seek in it
     transliteration: wayabghūnahā
   12:
-    arabic: عِوَجًا​ ؕ
+    arabic: عِوَجًاۚ
     translation: crookedness
     transliteration: ʿiwajan
   13:
-    arabic: اُولٰۤٮِٕكَ
+    arabic: أُوْلَٰٓئِكَ
     translation: those
     transliteration: ulāika
   14:
-    arabic: فِىۡ
+    arabic: فِي
     translation: '[in]'
     transliteration: fī
   15:
-    arabic: ضَلٰلٍۢ
+    arabic: ضَلَٰلِۭ
     translation: (are) far astray
     transliteration: ḍalālin
   16:
-    arabic: "بَعِيۡدٍ‏ \uFEFF\uFEFF"
+    arabic: بَعِيدٖ
     translation: (are) far astray
     transliteration: baʿīdin
 ---

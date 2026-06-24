@@ -1,19 +1,18 @@
 ---
-arabic_ayat: "وَ قَالُوۡا يٰۤاَيُّهَا الَّذِىۡ نُزِّلَ عَلَيۡهِ الذِّكۡرُ اِنَّكَ\
-  \ لَمَجۡنُوۡنٌؕ‏ \uFEFF\uFEFF"
+arabic_ayat: وَقَالُواْ يَٰٓأَيُّهَا ٱلَّذِي نُزِّلَ عَلَيۡهِ ٱلذِّكۡرُ إِنَّكَ لَمَجۡنُونٞ
 sentence_translation: They say, “O you to whom the Reminder is revealed! You must
   be insane!
 word_by_word:
   1:
-    arabic: وَ قَالُوۡا
+    arabic: وَقَالُواْ
     translation: And they say
     transliteration: waqālū
   2:
-    arabic: يٰۤاَيُّهَا
+    arabic: يَٰٓأَيُّهَا
     translation: O you
     transliteration: yāayyuhā
   3:
-    arabic: الَّذِىۡ
+    arabic: ٱلَّذِي
     translation: (to) whom
     transliteration: alladhī
   4:
@@ -25,15 +24,15 @@ word_by_word:
     translation: '[on him]'
     transliteration: ʿalayhi
   6:
-    arabic: الذِّكۡرُ
+    arabic: ٱلذِّكۡرُ
     translation: the Reminder
     transliteration: l-dhik'ru
   7:
-    arabic: اِنَّكَ
+    arabic: إِنَّكَ
     translation: indeed, you
     transliteration: innaka
   8:
-    arabic: "لَمَجۡنُوۡنٌؕ‏ \uFEFF\uFEFF"
+    arabic: لَمَجۡنُونٞ
     translation: (are) surely mad
     transliteration: lamajnūnun
 ---

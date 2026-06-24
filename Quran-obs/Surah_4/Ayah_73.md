@@ -1,21 +1,20 @@
 ---
-arabic_ayat: وَلَٮِٕنۡ اَصَابَكُمۡ فَضۡلٌ مِّنَ اللّٰهِ لَيَـقُوۡلَنَّ كَاَنۡ لَّمۡ
-  تَكُنۡۢ بَيۡنَكُمۡ وَبَيۡنَهٗ مَوَدَّةٌ يّٰلَيۡتَنِىۡ كُنۡتُ مَعَهُمۡ فَاَ فُوۡزَ
-  فَوۡزًا عَظِيۡمًا‏
+arabic_ayat: وَلَئِنۡ أَصَٰبَكُمۡ فَضۡلٞ مِّنَ ٱللَّهِ لَيَقُولَنَّ كَأَن لَّمۡ تَكُنۢ
+  بَيۡنَكُمۡ وَبَيۡنَهُۥ مَوَدَّةٞ يَٰلَيۡتَنِي كُنتُ مَعَهُمۡ فَأَفُوزَ فَوۡزًا عَظِيمٗا
 sentence_translation: But if you return with Allah’s bounties, they will say—as if
   there had been no bond between you—“We wish we had been there with them to share
   the great gain!”
 word_by_word:
   1:
-    arabic: وَلَٮِٕنۡ
+    arabic: وَلَئِنۡ
     translation: And if
     transliteration: wala-in
   2:
-    arabic: اَصَابَكُمۡ
+    arabic: أَصَٰبَكُمۡ
     translation: befalls you
     transliteration: aṣābakum
   3:
-    arabic: فَضۡلٌ
+    arabic: فَضۡلٞ
     translation: bounty
     transliteration: faḍlun
   4:
@@ -23,15 +22,15 @@ word_by_word:
     translation: from
     transliteration: mina
   5:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   6:
-    arabic: لَيَـقُوۡلَنَّ
+    arabic: لَيَقُولَنَّ
     translation: he would surely say
     transliteration: layaqūlanna
   7:
-    arabic: كَاَنۡ
+    arabic: كَأَن
     translation: as if
     transliteration: ka-an
   8:
@@ -39,7 +38,7 @@ word_by_word:
     translation: (had) not
     transliteration: lam
   9:
-    arabic: تَكُنۡۢ
+    arabic: تَكُنۢ
     translation: there been
     transliteration: takun
   10:
@@ -47,19 +46,19 @@ word_by_word:
     translation: between you
     transliteration: baynakum
   11:
-    arabic: وَبَيۡنَهٗ
+    arabic: وَبَيۡنَهُۥ
     translation: and between him
     transliteration: wabaynahu
   12:
-    arabic: مَوَدَّةٌ
+    arabic: مَوَدَّةٞ
     translation: any affection
     transliteration: mawaddatun
   13:
-    arabic: يّٰلَيۡتَنِىۡ
+    arabic: يَٰلَيۡتَنِي
     translation: Oh! I wish
     transliteration: yālaytanī
   14:
-    arabic: كُنۡتُ
+    arabic: كُنتُ
     translation: I had been
     transliteration: kuntu
   15:
@@ -67,7 +66,7 @@ word_by_word:
     translation: with them
     transliteration: maʿahum
   16:
-    arabic: فَاَ فُوۡزَ
+    arabic: فَأَفُوزَ
     translation: then I would have attained
     transliteration: fa-afūza
   17:
@@ -75,7 +74,7 @@ word_by_word:
     translation: a success
     transliteration: fawzan
   18:
-    arabic: عَظِيۡمًا‏
+    arabic: عَظِيمٗا
     translation: great
     transliteration: ʿaẓīman
 ---

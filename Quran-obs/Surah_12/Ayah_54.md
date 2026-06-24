@@ -1,6 +1,6 @@
 ---
-arabic_ayat: وَقَالَ الۡمَلِكُ ائۡتُوۡنِىۡ بِهٖۤ اَسۡتَخۡلِصۡهُ لِنَفۡسِىۡ​ۚ​ فَلَمَّا
-  كَلَّمَهٗ قَالَ اِنَّكَ الۡيَوۡمَ لَدَيۡنَا مَكِيۡنٌ اَمِيۡنٌ‏
+arabic_ayat: وَقَالَ ٱلۡمَلِكُ ٱئۡتُونِي بِهِۦٓ أَسۡتَخۡلِصۡهُ لِنَفۡسِيۖ فَلَمَّا
+  كَلَّمَهُۥ قَالَ إِنَّكَ ٱلۡيَوۡمَ لَدَيۡنَا مَكِينٌ أَمِينٞ
 sentence_translation: The King said, “Bring him to me. I will employ him exclusively
   in my service.” And when Joseph spoke to him, the King said, “Today you are highly
   esteemed and fully trusted by us.”
@@ -10,23 +10,23 @@ word_by_word:
     translation: And said
     transliteration: waqāla
   2:
-    arabic: الۡمَلِكُ
+    arabic: ٱلۡمَلِكُ
     translation: the king
     transliteration: l-maliku
   3:
-    arabic: ائۡتُوۡنِىۡ
+    arabic: ٱئۡتُونِي
     translation: Bring him to me
     transliteration: i'tūnī
   4:
-    arabic: بِهٖۤ
+    arabic: بِهِۦٓ
     translation: Bring him to me
     transliteration: bihi
   5:
-    arabic: اَسۡتَخۡلِصۡهُ
+    arabic: أَسۡتَخۡلِصۡهُ
     translation: I will select him
     transliteration: astakhliṣ'hu
   6:
-    arabic: لِنَفۡسِىۡ​ۚ​
+    arabic: لِنَفۡسِيۖ
     translation: for myself
     transliteration: linafsī
   7:
@@ -34,7 +34,7 @@ word_by_word:
     translation: Then when
     transliteration: falammā
   8:
-    arabic: كَلَّمَهٗ
+    arabic: كَلَّمَهُۥ
     translation: he spoke to him
     transliteration: kallamahu
   9:
@@ -42,11 +42,11 @@ word_by_word:
     translation: he said
     transliteration: qāla
   10:
-    arabic: اِنَّكَ
+    arabic: إِنَّكَ
     translation: Indeed, you
     transliteration: innaka
   11:
-    arabic: الۡيَوۡمَ
+    arabic: ٱلۡيَوۡمَ
     translation: (are) today
     transliteration: l-yawma
   12:
@@ -54,11 +54,11 @@ word_by_word:
     translation: with us
     transliteration: ladaynā
   13:
-    arabic: مَكِيۡنٌ
+    arabic: مَكِينٌ
     translation: firmly established
     transliteration: makīnun
   14:
-    arabic: اَمِيۡنٌ‏
+    arabic: أَمِينٞ
     translation: (and) trusted
     transliteration: amīnun
 ---

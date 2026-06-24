@@ -1,6 +1,6 @@
 ---
-arabic_ayat: وَيُذۡهِبۡ غَيۡظَ قُلُوۡبِهِمۡ​ ؕ وَ يَتُوۡبُ اللّٰهُ عَلٰى مَنۡ يَّشَآءُ
-  ؕ وَاللّٰهُ عَلِيۡمٌ حَكِيۡمٌ‏
+arabic_ayat: وَيُذۡهِبۡ غَيۡظَ قُلُوبِهِمۡۗ وَيَتُوبُ ٱللَّهُ عَلَىٰ مَن يَشَآءُۗ
+  وَٱللَّهُ عَلِيمٌ حَكِيمٌ
 sentence_translation: removing rage from their hearts. And Allah pardons whoever He
   wills. For Allah is All-Knowing, All-Wise.
 word_by_word:
@@ -13,39 +13,39 @@ word_by_word:
     translation: (the) anger
     transliteration: ghayẓa
   3:
-    arabic: قُلُوۡبِهِمۡ​ ؕ
+    arabic: قُلُوبِهِمۡۗ
     translation: (of) their hearts
     transliteration: qulūbihim
   4:
-    arabic: وَ يَتُوۡبُ
+    arabic: وَيَتُوبُ
     translation: And Allah accepts repentance
     transliteration: wayatūbu
   5:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: And Allah accepts repentance
     transliteration: l-lahu
   6:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: of
     transliteration: ʿalā
   7:
-    arabic: مَنۡ
+    arabic: مَن
     translation: whom
     transliteration: man
   8:
-    arabic: يَّشَآءُ ؕ
+    arabic: يَشَآءُۗ
     translation: He wills
     transliteration: yashāu
   9:
-    arabic: وَاللّٰهُ
+    arabic: وَٱللَّهُ
     translation: And Allah
     transliteration: wal-lahu
   10:
-    arabic: عَلِيۡمٌ
+    arabic: عَلِيمٌ
     translation: (is) All-Knower
     transliteration: ʿalīmun
   11:
-    arabic: حَكِيۡمٌ‏
+    arabic: حَكِيمٌ
     translation: All-Wise
     transliteration: ḥakīmun
 ---

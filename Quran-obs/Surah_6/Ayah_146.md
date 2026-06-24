@@ -1,8 +1,8 @@
 ---
-arabic_ayat: وَعَلَى الَّذِيۡنَ هَادُوۡا حَرَّمۡنَا كُلَّ ذِىۡ ظُفُرٍ​​ ۚ وَمِنَ الۡبَقَرِ
-  وَالۡغَـنَمِ حَرَّمۡنَا عَلَيۡهِمۡ شُحُوۡمَهُمَاۤ اِلَّا مَا حَمَلَتۡ ظُهُوۡرُهُمَاۤ
-  اَوِ الۡحَـوَايَاۤ اَوۡ مَا اخۡتَلَطَ بِعَظۡمٍ​ ؕ ذٰ لِكَ جَزَيۡنٰهُمۡ بِبَـغۡيِهِمۡ​​
-  ۖ وَاِنَّا لَصٰدِقُوۡنَ‏
+arabic_ayat: وَعَلَى ٱلَّذِينَ هَادُواْ حَرَّمۡنَا كُلَّ ذِي ظُفُرٖۖ وَمِنَ ٱلۡبَقَرِ
+  وَٱلۡغَنَمِ حَرَّمۡنَا عَلَيۡهِمۡ شُحُومَهُمَآ إِلَّا مَا حَمَلَتۡ ظُهُورُهُمَآ
+  أَوِ ٱلۡحَوَايَآ أَوۡ مَا ٱخۡتَلَطَ بِعَظۡمٖۚ ذَٰلِكَ جَزَيۡنَٰهُم بِبَغۡيِهِمۡۖ
+  وَإِنَّا لَصَٰدِقُونَ
 sentence_translation: For those who are Jewish, We forbade every animal with undivided
   hoofs and the fat of oxen and sheep except what is joined to their backs or intestines
   or mixed with bone. In this way We rewarded them for their violations. And We are
@@ -13,11 +13,11 @@ word_by_word:
     translation: And to
     transliteration: waʿalā
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   3:
-    arabic: هَادُوۡا
+    arabic: هَادُواْ
     translation: are Jews
     transliteration: hādū
   4:
@@ -29,11 +29,11 @@ word_by_word:
     translation: every
     transliteration: kulla
   6:
-    arabic: ذِىۡ
+    arabic: ذِي
     translation: (animal) with
     transliteration: dhī
   7:
-    arabic: ظُفُرٍ​​ ۚ
+    arabic: ظُفُرٖۖ
     translation: claws
     transliteration: ẓufurin
   8:
@@ -41,11 +41,11 @@ word_by_word:
     translation: and of
     transliteration: wamina
   9:
-    arabic: الۡبَقَرِ
+    arabic: ٱلۡبَقَرِ
     translation: the cows
     transliteration: l-baqari
   10:
-    arabic: وَالۡغَـنَمِ
+    arabic: وَٱلۡغَنَمِ
     translation: and the sheep
     transliteration: wal-ghanami
   11:
@@ -57,11 +57,11 @@ word_by_word:
     translation: to them
     transliteration: ʿalayhim
   13:
-    arabic: شُحُوۡمَهُمَاۤ
+    arabic: شُحُومَهُمَآ
     translation: their fat
     transliteration: shuḥūmahumā
   14:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   15:
@@ -73,19 +73,19 @@ word_by_word:
     translation: carried
     transliteration: ḥamalat
   17:
-    arabic: ظُهُوۡرُهُمَاۤ
+    arabic: ظُهُورُهُمَآ
     translation: their backs
     transliteration: ẓuhūruhumā
   18:
-    arabic: اَوِ
+    arabic: أَوِ
     translation: or
     transliteration: awi
   19:
-    arabic: الۡحَـوَايَاۤ
+    arabic: ٱلۡحَوَايَآ
     translation: the entrails
     transliteration: l-ḥawāyā
   20:
-    arabic: اَوۡ
+    arabic: أَوۡ
     translation: or
     transliteration: aw
   21:
@@ -93,31 +93,31 @@ word_by_word:
     translation: what
     transliteration: mā
   22:
-    arabic: اخۡتَلَطَ
+    arabic: ٱخۡتَلَطَ
     translation: (is) joined
     transliteration: ikh'talaṭa
   23:
-    arabic: بِعَظۡمٍ​ ؕ
+    arabic: بِعَظۡمٖۚ
     translation: with the bone
     transliteration: biʿaẓmin
   24:
-    arabic: ذٰ لِكَ
+    arabic: ذَٰلِكَ
     translation: That
     transliteration: dhālika
   25:
-    arabic: جَزَيۡنٰهُمۡ
+    arabic: جَزَيۡنَٰهُم
     translation: (is) their recompense
     transliteration: jazaynāhum
   26:
-    arabic: بِبَـغۡيِهِمۡ​​ ۖ
+    arabic: بِبَغۡيِهِمۡۖ
     translation: for their rebellion
     transliteration: bibaghyihim
   27:
-    arabic: وَاِنَّا
+    arabic: وَإِنَّا
     translation: And indeed, We
     transliteration: wa-innā
   28:
-    arabic: لَصٰدِقُوۡنَ‏
+    arabic: لَصَٰدِقُونَ
     translation: '[surely] are truthful'
     transliteration: laṣādiqūna
 ---

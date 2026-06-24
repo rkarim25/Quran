@@ -1,32 +1,32 @@
 ---
-arabic_ayat: اَفَمَنۡ يَّعۡلَمُ اَنَّمَاۤ اُنۡزِلَ اِلَيۡكَ مِنۡ رَّبِّكَ الۡحَـقُّ
-  كَمَنۡ هُوَ اَعۡمٰىؕ اِنَّمَا يَتَذَكَّرُ اُولُوا الۡاَلۡبَابِۙ‏
+arabic_ayat: ۞ أَفَمَن يَعۡلَمُ أَنَّمَآ أُنزِلَ إِلَيۡكَ مِن رَّبِّكَ ٱلۡحَقُّ كَمَنۡ
+  هُوَ أَعۡمَىٰٓۚ إِنَّمَا يَتَذَكَّرُ أُوْلُواْ ٱلۡأَلۡبَٰبِ
 sentence_translation: Can the one who knows that your Lord’s revelation to you ˹O
   Prophet˺ is the truth be like the one who is blind? None will be mindful ˹of this˺
   except people of reason.
 word_by_word:
   1:
-    arabic: ۞ اَفَمَنۡ
+    arabic: ۞ أَفَمَن
     translation: Then is (he) who
     transliteration: afaman
   2:
-    arabic: يَّعۡلَمُ
+    arabic: يَعۡلَمُ
     translation: knows
     transliteration: yaʿlamu
   3:
-    arabic: اَنَّمَاۤ
+    arabic: أَنَّمَآ
     translation: that which
     transliteration: annamā
   4:
-    arabic: اُنۡزِلَ
+    arabic: أُنزِلَ
     translation: has been revealed
     transliteration: unzila
   5:
-    arabic: اِلَيۡكَ
+    arabic: إِلَيۡكَ
     translation: to you
     transliteration: ilayka
   6:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   7:
@@ -34,7 +34,7 @@ word_by_word:
     translation: your Lord
     transliteration: rabbika
   8:
-    arabic: الۡحَـقُّ
+    arabic: ٱلۡحَقُّ
     translation: (is) the truth
     transliteration: l-ḥaqu
   9:
@@ -46,11 +46,11 @@ word_by_word:
     translation: '[he]'
     transliteration: huwa
   11:
-    arabic: اَعۡمٰىؕ
+    arabic: أَعۡمَىٰٓۚ
     translation: (is) blind
     transliteration: aʿmā
   12:
-    arabic: اِنَّمَا
+    arabic: إِنَّمَا
     translation: Only
     transliteration: innamā
   13:
@@ -58,11 +58,11 @@ word_by_word:
     translation: pay heed
     transliteration: yatadhakkaru
   14:
-    arabic: اُولُوا
+    arabic: أُوْلُواْ
     translation: men
     transliteration: ulū
   15:
-    arabic: الۡاَلۡبَابِۙ‏
+    arabic: ٱلۡأَلۡبَٰبِ
     translation: (of) understanding
     transliteration: l-albābi
 ---

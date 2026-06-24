@@ -1,13 +1,13 @@
 ---
-arabic_ayat: كِرَامٍۢ بَرَرَةٍؕ‏
+arabic_ayat: كِرَامِۭ بَرَرَةٖ
 sentence_translation: honourable and virtuous.
 word_by_word:
   1:
-    arabic: كِرَامٍۢ
+    arabic: كِرَامِۭ
     translation: Noble
     transliteration: kirāmin
   2:
-    arabic: بَرَرَةٍؕ‏
+    arabic: بَرَرَةٖ
     translation: dutiful
     transliteration: bararatin
 ---

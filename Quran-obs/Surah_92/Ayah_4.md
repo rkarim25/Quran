@@ -1,9 +1,9 @@
 ---
-arabic_ayat: اِنَّ سَعۡيَكُمۡ لَشَتّٰىؕ‏
+arabic_ayat: إِنَّ سَعۡيَكُمۡ لَشَتَّىٰ
 sentence_translation: Surely the ends you strive for are diverse.
 word_by_word:
   1:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   2:
@@ -11,7 +11,7 @@ word_by_word:
     translation: your efforts
     transliteration: saʿyakum
   3:
-    arabic: لَشَتّٰىؕ‏
+    arabic: لَشَتَّىٰ
     translation: (are) surely diverse
     transliteration: lashattā
 ---

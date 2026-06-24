@@ -1,13 +1,13 @@
 ---
-arabic_ayat: عٰلِمُ الۡغَيۡبِ فَلَا يُظۡهِرُ عَلٰى غَيۡبِهٖۤ اَحَدًا ۙ‏
+arabic_ayat: عَٰلِمُ ٱلۡغَيۡبِ فَلَا يُظۡهِرُ عَلَىٰ غَيۡبِهِۦٓ أَحَدًا
 sentence_translation: ˹He is the˺ Knower of the unseen, disclosing none of it to anyone,
 word_by_word:
   1:
-    arabic: عٰلِمُ
+    arabic: عَٰلِمُ
     translation: (The) All-Knower
     transliteration: ʿālimu
   2:
-    arabic: الۡغَيۡبِ
+    arabic: ٱلۡغَيۡبِ
     translation: (of) the unseen
     transliteration: l-ghaybi
   3:
@@ -19,15 +19,15 @@ word_by_word:
     translation: He reveals
     transliteration: yuẓ'hiru
   5:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: from
     transliteration: ʿalā
   6:
-    arabic: غَيۡبِهٖۤ
+    arabic: غَيۡبِهِۦٓ
     translation: His unseen
     transliteration: ghaybihi
   7:
-    arabic: اَحَدًا ۙ‏
+    arabic: أَحَدًا
     translation: (to) anyone
     transliteration: aḥadan
 ---

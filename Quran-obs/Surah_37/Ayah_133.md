@@ -1,13 +1,13 @@
 ---
-arabic_ayat: وَاِنَّ لُوۡطًا لَّمِنَ الۡمُرۡسَلِيۡنَؕ‏
+arabic_ayat: وَإِنَّ لُوطٗا لَّمِنَ ٱلۡمُرۡسَلِينَ
 sentence_translation: And Lot was indeed one of the messengers.
 word_by_word:
   1:
-    arabic: وَاِنَّ
+    arabic: وَإِنَّ
     translation: And indeed
     transliteration: wa-inna
   2:
-    arabic: لُوۡطًا
+    arabic: لُوطٗا
     translation: Lut
     transliteration: lūṭan
   3:
@@ -15,7 +15,7 @@ word_by_word:
     translation: (was) of
     transliteration: lamina
   4:
-    arabic: الۡمُرۡسَلِيۡنَؕ‏
+    arabic: ٱلۡمُرۡسَلِينَ
     translation: the Messengers
     transliteration: l-mur'salīna
 ---

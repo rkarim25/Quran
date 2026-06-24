@@ -1,5 +1,5 @@
 ---
-arabic_ayat: وَجُمِعَ الشَّمۡسُ وَالۡقَمَرُۙ‏
+arabic_ayat: وَجُمِعَ ٱلشَّمۡسُ وَٱلۡقَمَرُ
 sentence_translation: and the sun and the moon are brought together,
 word_by_word:
   1:
@@ -7,11 +7,11 @@ word_by_word:
     translation: And are joined
     transliteration: wajumiʿa
   2:
-    arabic: الشَّمۡسُ
+    arabic: ٱلشَّمۡسُ
     translation: the sun
     transliteration: l-shamsu
   3:
-    arabic: وَالۡقَمَرُۙ‏
+    arabic: وَٱلۡقَمَرُ
     translation: and the moon
     transliteration: wal-qamaru
 ---

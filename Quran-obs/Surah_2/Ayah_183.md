@@ -1,19 +1,19 @@
 ---
-arabic_ayat: يٰٓـاَيُّهَا الَّذِيۡنَ اٰمَنُوۡا كُتِبَ عَلَيۡکُمُ الصِّيَامُ کَمَا
-  كُتِبَ عَلَى الَّذِيۡنَ مِنۡ قَبۡلِکُمۡ لَعَلَّكُمۡ تَتَّقُوۡنَۙ‏
+arabic_ayat: يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُواْ كُتِبَ عَلَيۡكُمُ ٱلصِّيَامُ كَمَا
+  كُتِبَ عَلَى ٱلَّذِينَ مِن قَبۡلِكُمۡ لَعَلَّكُمۡ تَتَّقُونَ
 sentence_translation: O believers! Fasting is prescribed for you—as it was for those
   before you—so perhaps you will become mindful ˹of Allah˺.
 word_by_word:
   1:
-    arabic: يٰٓـاَيُّهَا
+    arabic: يَٰٓأَيُّهَا
     translation: O you
     transliteration: yāayyuhā
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ ءَ
     translation: who
     transliteration: alladhīna
   3:
-    arabic: اٰمَنُوۡا
+    arabic: امَنُواْ
     translation: believe[d]
     transliteration: āmanū
   4:
@@ -21,15 +21,15 @@ word_by_word:
     translation: Is prescribed
     transliteration: kutiba
   5:
-    arabic: عَلَيۡکُمُ
+    arabic: عَلَيۡكُمُ
     translation: for you
     transliteration: ʿalaykumu
   6:
-    arabic: الصِّيَامُ
+    arabic: ٱلصِّيَامُ
     translation: '[the] fasting'
     transliteration: l-ṣiyāmu
   7:
-    arabic: کَمَا
+    arabic: كَمَا
     translation: as
     transliteration: kamā
   8:
@@ -41,15 +41,15 @@ word_by_word:
     translation: to
     transliteration: ʿalā
   10:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those
     transliteration: alladhīna
   11:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   12:
-    arabic: قَبۡلِکُمۡ
+    arabic: قَبۡلِكُمۡ
     translation: before you
     transliteration: qablikum
   13:
@@ -57,7 +57,7 @@ word_by_word:
     translation: so that you may
     transliteration: laʿallakum
   14:
-    arabic: تَتَّقُوۡنَۙ‏
+    arabic: تَتَّقُونَ
     translation: (become) righteous
     transliteration: tattaqūna
 ---

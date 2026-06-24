@@ -1,11 +1,11 @@
 ---
-arabic_ayat: اِنَّا نَطۡمَعُ اَنۡ يَّغۡفِرَ لَـنَا رَبُّنَا خَطٰيٰـنَاۤ اَنۡ كُنَّاۤ
-  اَوَّلَ الۡمُؤۡمِنِيۡنَؕ‏
+arabic_ayat: إِنَّا نَطۡمَعُ أَن يَغۡفِرَ لَنَا رَبُّنَا خَطَٰيَٰنَآ أَن كُنَّآ
+  أَوَّلَ ٱلۡمُؤۡمِنِينَ
 sentence_translation: We really hope that our Lord will forgive our sins, as we are
   the first to believe.”
 word_by_word:
   1:
-    arabic: اِنَّا
+    arabic: إِنَّا
     translation: Indeed, we
     transliteration: innā
   2:
@@ -13,15 +13,15 @@ word_by_word:
     translation: hope
     transliteration: naṭmaʿu
   3:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that
     transliteration: an
   4:
-    arabic: يَّغۡفِرَ
+    arabic: يَغۡفِرَ
     translation: will forgive
     transliteration: yaghfira
   5:
-    arabic: لَـنَا
+    arabic: لَنَا
     translation: us
     transliteration: lanā
   6:
@@ -29,23 +29,23 @@ word_by_word:
     translation: our Lord
     transliteration: rabbunā
   7:
-    arabic: خَطٰيٰـنَاۤ
+    arabic: خَطَٰيَٰنَآ
     translation: our sins
     transliteration: khaṭāyānā
   8:
-    arabic: اَنۡ
+    arabic: أَن
     translation: because
     transliteration: an
   9:
-    arabic: كُنَّاۤ
+    arabic: كُنَّآ
     translation: we are
     transliteration: kunnā
   10:
-    arabic: اَوَّلَ
+    arabic: أَوَّلَ
     translation: (the) first
     transliteration: awwala
   11:
-    arabic: الۡمُؤۡمِنِيۡنَؕ‏
+    arabic: ٱلۡمُؤۡمِنِينَ
     translation: (of) the believers
     transliteration: l-mu'minīna
 ---

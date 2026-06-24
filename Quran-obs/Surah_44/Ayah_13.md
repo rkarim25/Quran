@@ -1,10 +1,10 @@
 ---
-arabic_ayat: اَنّٰى لَهُمُ الذِّكۡرٰى وَقَدۡ جَآءَهُمۡ رَسُوۡلٌ مُّبِيۡنٌۙ‏
+arabic_ayat: أَنَّىٰ لَهُمُ ٱلذِّكۡرَىٰ وَقَدۡ جَآءَهُمۡ رَسُولٞ مُّبِينٞ
 sentence_translation: How can they be reminded when a messenger has already come to
   them, making things clear,
 word_by_word:
   1:
-    arabic: اَنّٰى
+    arabic: أَنَّىٰ
     translation: How can
     transliteration: annā
   2:
@@ -12,7 +12,7 @@ word_by_word:
     translation: (there be) for them
     transliteration: lahumu
   3:
-    arabic: الذِّكۡرٰى
+    arabic: ٱلذِّكۡرَىٰ
     translation: the reminder
     transliteration: l-dhik'rā
   4:
@@ -24,11 +24,11 @@ word_by_word:
     translation: had come to them
     transliteration: jāahum
   6:
-    arabic: رَسُوۡلٌ
+    arabic: رَسُولٞ
     translation: a Messenger
     transliteration: rasūlun
   7:
-    arabic: مُّبِيۡنٌۙ‏
+    arabic: مُّبِينٞ
     translation: clear
     transliteration: mubīnun
 ---

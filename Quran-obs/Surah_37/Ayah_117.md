@@ -1,17 +1,17 @@
 ---
-arabic_ayat: وَاٰتَيۡنٰهُمَا الۡكِتٰبَ الۡمُسۡتَبِيۡنَ​ۚ‏
+arabic_ayat: وَءَاتَيۡنَٰهُمَا ٱلۡكِتَٰبَ ٱلۡمُسۡتَبِينَ
 sentence_translation: We gave them the clear Scripture,
 word_by_word:
   1:
-    arabic: وَاٰتَيۡنٰهُمَا
+    arabic: وَءَاتَيۡنَٰهُمَا
     translation: And We gave both of them
     transliteration: waātaynāhumā
   2:
-    arabic: الۡكِتٰبَ
+    arabic: ٱلۡكِتَٰبَ
     translation: the Book
     transliteration: l-kitāba
   3:
-    arabic: الۡمُسۡتَبِيۡنَ​ۚ‏
+    arabic: ٱلۡمُسۡتَبِينَ
     translation: the clear
     transliteration: l-mus'tabīna
 ---

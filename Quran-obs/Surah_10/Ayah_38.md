@@ -1,20 +1,20 @@
 ---
-arabic_ayat: اَمۡ يَقُوۡلُوۡنَ افۡتَـرٰٮهُ​ ؕ قُلۡ فَاۡتُوۡا بِسُوۡرَةٍ مِّثۡلِهٖ
-  وَادۡعُوۡا مَنِ اسۡتَطَعۡتُمۡ مِّنۡ دُوۡنِ اللّٰهِ اِنۡ كُنۡتُمۡ صٰدِقِيۡنَ‏
+arabic_ayat: أَمۡ يَقُولُونَ ٱفۡتَرَىٰهُۖ قُلۡ فَأۡتُواْ بِسُورَةٖ مِّثۡلِهِۦ وَٱدۡعُواْ
+  مَنِ ٱسۡتَطَعۡتُم مِّن دُونِ ٱللَّهِ إِن كُنتُمۡ صَٰدِقِينَ
 sentence_translation: Or do they claim, “He made it up!”? Tell them ˹O Prophet˺, “Produce
   one sûrah like it then, and seek help from whoever you can—other than Allah—if what
   you say is true!”
 word_by_word:
   1:
-    arabic: اَمۡ
+    arabic: أَمۡ
     translation: Or
     transliteration: am
   2:
-    arabic: يَقُوۡلُوۡنَ
+    arabic: يَقُولُونَ
     translation: (do) they say
     transliteration: yaqūlūna
   3:
-    arabic: افۡتَـرٰٮهُ​ ؕ
+    arabic: ٱفۡتَرَىٰهُۖ
     translation: He has invented it
     transliteration: if'tarāhu
   4:
@@ -22,19 +22,19 @@ word_by_word:
     translation: Say
     transliteration: qul
   5:
-    arabic: فَاۡتُوۡا
+    arabic: فَأۡتُواْ
     translation: Then bring
     transliteration: fatū
   6:
-    arabic: بِسُوۡرَةٍ
+    arabic: بِسُورَةٖ
     translation: a Surah
     transliteration: bisūratin
   7:
-    arabic: مِّثۡلِهٖ
+    arabic: مِّثۡلِهِۦ
     translation: like it
     transliteration: mith'lihi
   8:
-    arabic: وَادۡعُوۡا
+    arabic: وَٱدۡعُواْ
     translation: and call
     transliteration: wa-id'ʿū
   9:
@@ -42,31 +42,31 @@ word_by_word:
     translation: whoever
     transliteration: mani
   10:
-    arabic: اسۡتَطَعۡتُمۡ
+    arabic: ٱسۡتَطَعۡتُم
     translation: you can
     transliteration: is'taṭaʿtum
   11:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: besides Allah
     transliteration: min
   12:
-    arabic: دُوۡنِ
+    arabic: دُونِ
     translation: besides Allah
     transliteration: dūni
   13:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: besides Allah
     transliteration: l-lahi
   14:
-    arabic: اِنۡ
+    arabic: إِن
     translation: if
     transliteration: in
   15:
-    arabic: كُنۡتُمۡ
+    arabic: كُنتُمۡ
     translation: you are
     transliteration: kuntum
   16:
-    arabic: صٰدِقِيۡنَ‏
+    arabic: صَٰدِقِينَ
     translation: truthful
     transliteration: ṣādiqīna
 ---

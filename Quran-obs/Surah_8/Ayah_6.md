@@ -1,19 +1,19 @@
 ---
-arabic_ayat: يُجَادِلُوۡنَكَ فِى الۡحَـقِّ بَعۡدَ مَا تَبَيَّنَ كَاَنَّمَا يُسَاقُوۡنَ
-  اِلَى الۡمَوۡتِ وَهُمۡ يَنۡظُرُوۡنَؕ‏
+arabic_ayat: يُجَٰدِلُونَكَ فِي ٱلۡحَقِّ بَعۡدَ مَا تَبَيَّنَ كَأَنَّمَا يُسَاقُونَ
+  إِلَى ٱلۡمَوۡتِ وَهُمۡ يَنظُرُونَ
 sentence_translation: They disputed with you about the truth after it had been made
   clear, as if they were being driven to death with their eyes wide open.
 word_by_word:
   1:
-    arabic: يُجَادِلُوۡنَكَ
+    arabic: يُجَٰدِلُونَكَ
     translation: They dispute with you
     transliteration: yujādilūnaka
   2:
-    arabic: فِى
+    arabic: فِي
     translation: concerning
     transliteration: fī
   3:
-    arabic: الۡحَـقِّ
+    arabic: ٱلۡحَقِّ
     translation: the truth
     transliteration: l-ḥaqi
   4:
@@ -25,19 +25,19 @@ word_by_word:
     translation: was made clear
     transliteration: tabayyana
   6:
-    arabic: كَاَنَّمَا
+    arabic: كَأَنَّمَا
     translation: as if
     transliteration: ka-annamā
   7:
-    arabic: يُسَاقُوۡنَ
+    arabic: يُسَاقُونَ
     translation: they were driven
     transliteration: yusāqūna
   8:
-    arabic: اِلَى
+    arabic: إِلَى
     translation: to
     transliteration: ilā
   9:
-    arabic: الۡمَوۡتِ
+    arabic: ٱلۡمَوۡتِ
     translation: '[the] death'
     transliteration: l-mawti
   10:
@@ -45,7 +45,7 @@ word_by_word:
     translation: while they
     transliteration: wahum
   11:
-    arabic: يَنۡظُرُوۡنَؕ‏
+    arabic: يَنظُرُونَ
     translation: (were) looking
     transliteration: yanẓurūna
 ---

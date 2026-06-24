@@ -1,6 +1,6 @@
 ---
-arabic_ayat: "وَجَعَلۡنَا السَّمَآءَ سَقۡفًا مَّحۡفُوۡظًا ۖۚ وَّهُمۡ عَنۡ اٰيٰتِهَا\
-  \ مُعۡرِضُوۡنَ‏ \uFEFF\uFEFF"
+arabic_ayat: وَجَعَلۡنَا ٱلسَّمَآءَ سَقۡفٗا مَّحۡفُوظٗاۖ وَهُمۡ عَنۡ ءَايَٰتِهَا
+  مُعۡرِضُونَ
 sentence_translation: And We have made the sky a well-protected canopy, still they
   turn away from its signs.
 word_by_word:
@@ -9,31 +9,31 @@ word_by_word:
     translation: And We made
     transliteration: wajaʿalnā
   2:
-    arabic: السَّمَآءَ
+    arabic: ٱلسَّمَآءَ
     translation: the sky
     transliteration: l-samāa
   3:
-    arabic: سَقۡفًا
+    arabic: سَقۡفٗا
     translation: a roof
     transliteration: saqfan
   4:
-    arabic: مَّحۡفُوۡظًا ۖۚ
+    arabic: مَّحۡفُوظٗاۖ
     translation: protected
     transliteration: maḥfūẓan
   5:
-    arabic: وَّهُمۡ
+    arabic: وَهُمۡ
     translation: But they
     transliteration: wahum
   6:
-    arabic: عَنۡ
+    arabic: عَنۡ ءَ
     translation: from
     transliteration: ʿan
   7:
-    arabic: اٰيٰتِهَا
+    arabic: ايَٰتِهَا
     translation: its Signs
     transliteration: āyātihā
   8:
-    arabic: "مُعۡرِضُوۡنَ‏ \uFEFF\uFEFF"
+    arabic: مُعۡرِضُونَ
     translation: turn away
     transliteration: muʿ'riḍūna
 ---

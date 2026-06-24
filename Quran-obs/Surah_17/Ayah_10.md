@@ -1,15 +1,15 @@
 ---
-arabic_ayat: وَّاَنَّ الَّذِيۡنَ لَا يُؤۡمِنُوۡنَ بِالۡاٰخِرَةِ اَعۡتَدۡنَا لَهُمۡ
-  عَذَابًا اَلِيۡمًا‏
+arabic_ayat: وَأَنَّ ٱلَّذِينَ لَا يُؤۡمِنُونَ بِٱلۡأٓخِرَةِ أَعۡتَدۡنَا لَهُمۡ عَذَابًا
+  أَلِيمٗا
 sentence_translation: And ˹it warns˺ those who do not believe in the Hereafter ˹that˺
   We have prepared for them a painful punishment.
 word_by_word:
   1:
-    arabic: وَّاَنَّ
+    arabic: وَأَنَّ
     translation: And that
     transliteration: wa-anna
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   3:
@@ -17,15 +17,15 @@ word_by_word:
     translation: (do) not
     transliteration: lā
   4:
-    arabic: يُؤۡمِنُوۡنَ
+    arabic: يُؤۡمِنُونَ
     translation: believe
     transliteration: yu'minūna
   5:
-    arabic: بِالۡاٰخِرَةِ
+    arabic: بِٱلۡأٓخِرَةِ
     translation: in the Hereafter
     transliteration: bil-ākhirati
   6:
-    arabic: اَعۡتَدۡنَا
+    arabic: أَعۡتَدۡنَا
     translation: We have prepared
     transliteration: aʿtadnā
   7:
@@ -37,7 +37,7 @@ word_by_word:
     translation: a punishment
     transliteration: ʿadhāban
   9:
-    arabic: اَلِيۡمًا‏
+    arabic: أَلِيمٗا
     translation: painful
     transliteration: alīman
 ---

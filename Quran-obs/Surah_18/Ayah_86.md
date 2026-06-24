@@ -1,17 +1,17 @@
 ---
-arabic_ayat: حَتّٰٓى اِذَا بَلَغَ مَغۡرِبَ الشَّمۡسِ وَجَدَهَا تَغۡرُبُ فِىۡ عَيۡنٍ
-  حَمِئَةٍ وَّوَجَدَ عِنۡدَهَا قَوۡمًا ؕ ​قُلۡنَا يٰذَا الۡقَرۡنَيۡنِ اِمَّاۤ اَنۡ
-  تُعَذِّبَ وَاِمَّاۤ اَنۡ تَتَّخِذَ فِيۡهِمۡ حُسۡنًا‏
+arabic_ayat: حَتَّىٰٓ إِذَا بَلَغَ مَغۡرِبَ ٱلشَّمۡسِ وَجَدَهَا تَغۡرُبُ فِي عَيۡنٍ
+  حَمِئَةٖ وَوَجَدَ عِندَهَا قَوۡمٗاۖ قُلۡنَا يَٰذَا ٱلۡقَرۡنَيۡنِ إِمَّآ أَن تُعَذِّبَ
+  وَإِمَّآ أَن تَتَّخِذَ فِيهِمۡ حُسۡنٗا
 sentence_translation: until he reached the setting ˹point˺ of the sun, which appeared
   to him to be setting in a spring of murky water, where he found some people. We
   said, “O Ⱬul-Qarnain! Either punish them or treat them kindly.”
 word_by_word:
   1:
-    arabic: حَتّٰٓى
+    arabic: حَتَّىٰٓ
     translation: Until
     transliteration: ḥattā
   2:
-    arabic: اِذَا
+    arabic: إِذَا
     translation: when
     transliteration: idhā
   3:
@@ -23,7 +23,7 @@ word_by_word:
     translation: (the) setting place
     transliteration: maghriba
   5:
-    arabic: الشَّمۡسِ
+    arabic: ٱلشَّمۡسِ
     translation: (of) the sun
     transliteration: l-shamsi
   6:
@@ -35,7 +35,7 @@ word_by_word:
     translation: setting
     transliteration: taghrubu
   8:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   9:
@@ -43,39 +43,39 @@ word_by_word:
     translation: a spring
     transliteration: ʿaynin
   10:
-    arabic: حَمِئَةٍ
+    arabic: حَمِئَةٖ
     translation: (of) dark mud
     transliteration: ḥami-atin
   11:
-    arabic: وَّوَجَدَ
+    arabic: وَوَجَدَ
     translation: and he found
     transliteration: wawajada
   12:
-    arabic: عِنۡدَهَا
+    arabic: عِندَهَا
     translation: near it
     transliteration: ʿindahā
   13:
-    arabic: قَوۡمًا ؕ
+    arabic: قَوۡمٗاۖ
     translation: a community
     transliteration: qawman
   14:
-    arabic: ​قُلۡنَا
+    arabic: قُلۡنَا
     translation: We said
     transliteration: qul'nā
   15:
-    arabic: يٰذَا
+    arabic: يَٰذَا
     translation: O Dhul-qarnain
     transliteration: yādhā
   16:
-    arabic: الۡقَرۡنَيۡنِ
+    arabic: ٱلۡقَرۡنَيۡنِ
     translation: O Dhul-qarnain
     transliteration: l-qarnayni
   17:
-    arabic: اِمَّاۤ
+    arabic: إِمَّآ
     translation: Either
     transliteration: immā
   18:
-    arabic: اَنۡ
+    arabic: أَن
     translation: '[that]'
     transliteration: an
   19:
@@ -83,11 +83,11 @@ word_by_word:
     translation: you punish
     transliteration: tuʿadhiba
   20:
-    arabic: وَاِمَّاۤ
+    arabic: وَإِمَّآ
     translation: or
     transliteration: wa-immā
   21:
-    arabic: اَنۡ
+    arabic: أَن
     translation: '[that]'
     transliteration: an
   22:
@@ -95,11 +95,11 @@ word_by_word:
     translation: you take
     transliteration: tattakhidha
   23:
-    arabic: فِيۡهِمۡ
+    arabic: فِيهِمۡ
     translation: '[in] them'
     transliteration: fīhim
   24:
-    arabic: حُسۡنًا‏
+    arabic: حُسۡنٗا
     translation: (with) goodness
     transliteration: ḥus'nan
 ---

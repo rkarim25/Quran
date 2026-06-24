@@ -1,17 +1,17 @@
 ---
-arabic_ayat: اِنۡ هٰذَاۤ اِلَّا قَوۡلُ الۡبَشَرِؕ‏
+arabic_ayat: إِنۡ هَٰذَآ إِلَّا قَوۡلُ ٱلۡبَشَرِ
 sentence_translation: This is no more than the word of a man.”
 word_by_word:
   1:
-    arabic: اِنۡ
+    arabic: إِنۡ
     translation: Not
     transliteration: in
   2:
-    arabic: هٰذَاۤ
+    arabic: هَٰذَآ
     translation: (is) this
     transliteration: hādhā
   3:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: but
     transliteration: illā
   4:
@@ -19,7 +19,7 @@ word_by_word:
     translation: (the) word
     transliteration: qawlu
   5:
-    arabic: الۡبَشَرِؕ‏
+    arabic: ٱلۡبَشَرِ
     translation: (of) a human being
     transliteration: l-bashari
 ---

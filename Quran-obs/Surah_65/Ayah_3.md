@@ -1,13 +1,13 @@
 ---
-arabic_ayat: وَّيَرۡزُقۡهُ مِنۡ حَيۡثُ لَا يَحۡتَسِبُ​ ؕ وَمَنۡ يَّتَوَكَّلۡ عَلَى
-  اللّٰهِ فَهُوَ حَسۡبُهٗ ؕ اِنَّ اللّٰهَ بَالِغُ اَمۡرِهٖ​ ؕ قَدۡ جَعَلَ اللّٰهُ
-  لِكُلِّ شَىۡءٍ قَدۡرًا‏
+arabic_ayat: وَيَرۡزُقۡهُ مِنۡ حَيۡثُ لَا يَحۡتَسِبُۚ وَمَن يَتَوَكَّلۡ عَلَى ٱللَّهِ
+  فَهُوَ حَسۡبُهُۥٓۚ إِنَّ ٱللَّهَ بَٰلِغُ أَمۡرِهِۦۚ قَدۡ جَعَلَ ٱللَّهُ لِكُلِّ
+  شَيۡءٖ قَدۡرٗا
 sentence_translation: and provide for them from sources they could never imagine.
   And whoever puts their trust in Allah, then He ˹alone˺ is sufficient for them. Certainly
   Allah achieves His Will. Allah has already set a destiny for everything.
 word_by_word:
   1:
-    arabic: وَّيَرۡزُقۡهُ
+    arabic: وَيَرۡزُقۡهُ
     translation: And He will provide for him
     transliteration: wayarzuq'hu
   2:
@@ -23,15 +23,15 @@ word_by_word:
     translation: not
     transliteration: lā
   5:
-    arabic: يَحۡتَسِبُ​ ؕ
+    arabic: يَحۡتَسِبُۚ
     translation: he thinks
     transliteration: yaḥtasibu
   6:
-    arabic: وَمَنۡ
+    arabic: وَمَن
     translation: And whoever
     transliteration: waman
   7:
-    arabic: يَّتَوَكَّلۡ
+    arabic: يَتَوَكَّلۡ
     translation: puts his trust
     transliteration: yatawakkal
   8:
@@ -39,7 +39,7 @@ word_by_word:
     translation: upon
     transliteration: ʿalā
   9:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   10:
@@ -47,23 +47,23 @@ word_by_word:
     translation: then He
     transliteration: fahuwa
   11:
-    arabic: حَسۡبُهٗ ؕ
+    arabic: حَسۡبُهُۥٓۚ
     translation: (is) sufficient for him
     transliteration: ḥasbuhu
   12:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   13:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   14:
-    arabic: بَالِغُ
+    arabic: بَٰلِغُ
     translation: (will) accomplish
     transliteration: bālighu
   15:
-    arabic: اَمۡرِهٖ​ ؕ
+    arabic: أَمۡرِهِۦۚ
     translation: His purpose
     transliteration: amrihi
   16:
@@ -75,7 +75,7 @@ word_by_word:
     translation: has set
     transliteration: jaʿala
   18:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   19:
@@ -83,11 +83,11 @@ word_by_word:
     translation: for every
     transliteration: likulli
   20:
-    arabic: شَىۡءٍ
+    arabic: شَيۡءٖ
     translation: thing
     transliteration: shayin
   21:
-    arabic: قَدۡرًا‏
+    arabic: قَدۡرٗا
     translation: a measure
     transliteration: qadran
 ---

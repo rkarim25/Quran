@@ -1,7 +1,7 @@
 ---
-arabic_ayat: فَاطِرُ السَّمٰوٰتِ وَالۡاَرۡضِ​ؕ جَعَلَ لَـكُمۡ مِّنۡ اَنۡفُسِكُمۡ اَزۡوَاجًا
-  وَّ مِنَ الۡاَنۡعَامِ اَزۡوَاجًا​ ۚ يَذۡرَؤُكُمۡ فِيۡهِ​ ؕ لَيۡسَ كَمِثۡلِهٖ شَىۡءٌ ​ۚ
-  وَهُوَ السَّمِيۡعُ الۡبَصِيۡرُ‏
+arabic_ayat: فَاطِرُ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِۚ جَعَلَ لَكُم مِّنۡ أَنفُسِكُمۡ أَزۡوَٰجٗا
+  وَمِنَ ٱلۡأَنۡعَٰمِ أَزۡوَٰجٗا يَذۡرَؤُكُمۡ فِيهِۚ لَيۡسَ كَمِثۡلِهِۦ شَيۡءٞۖ وَهُوَ
+  ٱلسَّمِيعُ ٱلۡبَصِيرُ
 sentence_translation: ˹He is˺ the Originator of the heavens and the earth. He has
   made for you spouses from among yourselves, and ˹made˺ mates for cattle ˹as well˺—multiplying
   you ˹both˺. There is nothing like Him, for He ˹alone˺ is the All-Hearing, All-Seeing.
@@ -11,11 +11,11 @@ word_by_word:
     translation: (The) Creator
     transliteration: fāṭiru
   2:
-    arabic: السَّمٰوٰتِ
+    arabic: ٱلسَّمَٰوَٰتِ
     translation: (of) the heavens
     transliteration: l-samāwāti
   3:
-    arabic: وَالۡاَرۡضِ​ؕ
+    arabic: وَٱلۡأَرۡضِۚ
     translation: and the earth
     transliteration: wal-arḍi
   4:
@@ -23,7 +23,7 @@ word_by_word:
     translation: He made
     transliteration: jaʿala
   5:
-    arabic: لَـكُمۡ
+    arabic: لَكُم
     translation: for you
     transliteration: lakum
   6:
@@ -31,23 +31,23 @@ word_by_word:
     translation: from
     transliteration: min
   7:
-    arabic: اَنۡفُسِكُمۡ
+    arabic: أَنفُسِكُمۡ
     translation: yourselves
     transliteration: anfusikum
   8:
-    arabic: اَزۡوَاجًا
+    arabic: أَزۡوَٰجٗا
     translation: mates
     transliteration: azwājan
   9:
-    arabic: وَّ مِنَ
+    arabic: وَمِنَ
     translation: and among
     transliteration: wamina
   10:
-    arabic: الۡاَنۡعَامِ
+    arabic: ٱلۡأَنۡعَٰمِ
     translation: the cattle
     transliteration: l-anʿāmi
   11:
-    arabic: اَزۡوَاجًا​ ۚ
+    arabic: أَزۡوَٰجٗا
     translation: mates
     transliteration: azwājan
   12:
@@ -55,7 +55,7 @@ word_by_word:
     translation: He multiplies you
     transliteration: yadhra-ukum
   13:
-    arabic: فِيۡهِ​ ؕ
+    arabic: فِيهِۚ
     translation: thereby
     transliteration: fīhi
   14:
@@ -63,11 +63,11 @@ word_by_word:
     translation: (There) is not
     transliteration: laysa
   15:
-    arabic: كَمِثۡلِهٖ
+    arabic: كَمِثۡلِهِۦ
     translation: like Him
     transliteration: kamith'lihi
   16:
-    arabic: شَىۡءٌ ​ۚ
+    arabic: شَيۡءٞۖ
     translation: anything
     transliteration: shayon
   17:
@@ -75,11 +75,11 @@ word_by_word:
     translation: and He
     transliteration: wahuwa
   18:
-    arabic: السَّمِيۡعُ
+    arabic: ٱلسَّمِيعُ
     translation: (is) the All-Hearer
     transliteration: l-samīʿu
   19:
-    arabic: الۡبَصِيۡرُ‏
+    arabic: ٱلۡبَصِيرُ
     translation: the All-Seer
     transliteration: l-baṣīru
 ---

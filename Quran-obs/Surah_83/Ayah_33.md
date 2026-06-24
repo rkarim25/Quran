@@ -1,13 +1,13 @@
 ---
-arabic_ayat: وَمَاۤ اُرۡسِلُوۡا عَلَيۡهِمۡ حٰفِظِيۡنَۙ‏
+arabic_ayat: وَمَآ أُرۡسِلُواْ عَلَيۡهِمۡ حَٰفِظِينَ
 sentence_translation: even though they were not sent as keepers over the believers.
 word_by_word:
   1:
-    arabic: وَمَاۤ
+    arabic: وَمَآ
     translation: But not
     transliteration: wamā
   2:
-    arabic: اُرۡسِلُوۡا
+    arabic: أُرۡسِلُواْ
     translation: they had been sent
     transliteration: ur'silū
   3:
@@ -15,7 +15,7 @@ word_by_word:
     translation: over them
     transliteration: ʿalayhim
   4:
-    arabic: حٰفِظِيۡنَۙ‏
+    arabic: حَٰفِظِينَ
     translation: (as) guardians
     transliteration: ḥāfiẓīna
 ---

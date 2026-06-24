@@ -1,6 +1,6 @@
 ---
-arabic_ayat: خُذۡ مِنۡ اَمۡوَالِهِمۡ صَدَقَةً تُطَهِّرُهُمۡ وَتُزَكِّيۡهِمۡ بِهَا
-  وَصَلِّ عَلَيۡهِمۡ​ؕ اِنَّ صَلٰوتَكَ سَكَنٌ لَّهُمۡ​ؕ وَاللّٰهُ سَمِيۡعٌ عَلِيۡمٌ‏
+arabic_ayat: خُذۡ مِنۡ أَمۡوَٰلِهِمۡ صَدَقَةٗ تُطَهِّرُهُمۡ وَتُزَكِّيهِم بِهَا وَصَلِّ
+  عَلَيۡهِمۡۖ إِنَّ صَلَوٰتَكَ سَكَنٞ لَّهُمۡۗ وَٱللَّهُ سَمِيعٌ عَلِيمٌ
 sentence_translation: Take from their wealth ˹O Prophet˺ charity to purify and bless
   them, and pray for them—surely your prayer is a source of comfort for them. And
   Allah is All-Hearing, All-Knowing.
@@ -14,11 +14,11 @@ word_by_word:
     translation: from
     transliteration: min
   3:
-    arabic: اَمۡوَالِهِمۡ
+    arabic: أَمۡوَٰلِهِمۡ
     translation: their wealth
     transliteration: amwālihim
   4:
-    arabic: صَدَقَةً
+    arabic: صَدَقَةٗ
     translation: a charity
     transliteration: ṣadaqatan
   5:
@@ -26,7 +26,7 @@ word_by_word:
     translation: purifying them
     transliteration: tuṭahhiruhum
   6:
-    arabic: وَتُزَكِّيۡهِمۡ
+    arabic: وَتُزَكِّيهِم
     translation: and cause them increase
     transliteration: watuzakkīhim
   7:
@@ -38,35 +38,35 @@ word_by_word:
     translation: and bless
     transliteration: waṣalli
   9:
-    arabic: عَلَيۡهِمۡ​ؕ
+    arabic: عَلَيۡهِمۡۖ
     translation: '[upon] them'
     transliteration: ʿalayhim
   10:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   11:
-    arabic: صَلٰوتَكَ
+    arabic: صَلَوٰتَكَ
     translation: your blessings
     transliteration: ṣalataka
   12:
-    arabic: سَكَنٌ
+    arabic: سَكَنٞ
     translation: (are a) reassurance
     transliteration: sakanun
   13:
-    arabic: لَّهُمۡ​ؕ
+    arabic: لَّهُمۡۗ
     translation: for them
     transliteration: lahum
   14:
-    arabic: وَاللّٰهُ
+    arabic: وَٱللَّهُ
     translation: And Allah
     transliteration: wal-lahu
   15:
-    arabic: سَمِيۡعٌ
+    arabic: سَمِيعٌ
     translation: (is) All-Hearer
     transliteration: samīʿun
   16:
-    arabic: عَلِيۡمٌ‏
+    arabic: عَلِيمٌ
     translation: All-Knower
     transliteration: ʿalīmun
 ---

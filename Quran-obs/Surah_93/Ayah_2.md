@@ -1,17 +1,17 @@
 ---
-arabic_ayat: وَالَّيۡلِ اِذَا سَجٰىۙ‏
+arabic_ayat: وَٱلَّيۡلِ إِذَا سَجَىٰ
 sentence_translation: and the night when it falls still!
 word_by_word:
   1:
-    arabic: وَالَّيۡلِ
+    arabic: وَٱلَّيۡلِ
     translation: And the night
     transliteration: wa-al-layli
   2:
-    arabic: اِذَا
+    arabic: إِذَا
     translation: when
     transliteration: idhā
   3:
-    arabic: سَجٰىۙ‏
+    arabic: سَجَىٰ
     translation: it covers with darkness
     transliteration: sajā
 ---

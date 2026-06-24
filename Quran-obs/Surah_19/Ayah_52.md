@@ -1,14 +1,14 @@
 ---
-arabic_ayat: وَنَادَيۡنٰهُ مِنۡ جَانِبِ الطُّوۡرِ الۡاَيۡمَنِ وَقَرَّبۡنٰهُ نَجِيًّا‏
+arabic_ayat: وَنَٰدَيۡنَٰهُ مِن جَانِبِ ٱلطُّورِ ٱلۡأَيۡمَنِ وَقَرَّبۡنَٰهُ نَجِيّٗا
 sentence_translation: We called him from the right side of Mount Ṭûr, and drew him
   near, speaking ˹with him˺ directly.
 word_by_word:
   1:
-    arabic: وَنَادَيۡنٰهُ
+    arabic: وَنَٰدَيۡنَٰهُ
     translation: And We called him
     transliteration: wanādaynāhu
   2:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   3:
@@ -16,19 +16,19 @@ word_by_word:
     translation: (the) side
     transliteration: jānibi
   4:
-    arabic: الطُّوۡرِ
+    arabic: ٱلطُّورِ
     translation: (of) the Mount
     transliteration: l-ṭūri
   5:
-    arabic: الۡاَيۡمَنِ
+    arabic: ٱلۡأَيۡمَنِ
     translation: the right
     transliteration: l-aymani
   6:
-    arabic: وَقَرَّبۡنٰهُ
+    arabic: وَقَرَّبۡنَٰهُ
     translation: and brought him near
     transliteration: waqarrabnāhu
   7:
-    arabic: نَجِيًّا‏
+    arabic: نَجِيّٗا
     translation: (for) conversation
     transliteration: najiyyan
 ---

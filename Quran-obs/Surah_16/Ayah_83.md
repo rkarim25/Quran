@@ -1,11 +1,10 @@
 ---
-arabic_ayat: "يَعۡرِفُوۡنَ نِعۡمَتَ اللّٰهِ ثُمَّ يُنۡكِرُوۡنَهَا وَاَكۡثَرُهُمُ الۡكٰفِرُوۡنَ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: يَعۡرِفُونَ نِعۡمَتَ ٱللَّهِ ثُمَّ يُنكِرُونَهَا وَأَكۡثَرُهُمُ ٱلۡكَٰفِرُونَ
 sentence_translation: They are aware of Allah’s favours, but still deny them. And
   most of them are ˹truly˺ ungrateful.
 word_by_word:
   1:
-    arabic: يَعۡرِفُوۡنَ
+    arabic: يَعۡرِفُونَ
     translation: They recognize
     transliteration: yaʿrifūna
   2:
@@ -13,7 +12,7 @@ word_by_word:
     translation: (the) Favor
     transliteration: niʿ'mata
   3:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (of) Allah
     transliteration: l-lahi
   4:
@@ -21,15 +20,15 @@ word_by_word:
     translation: then
     transliteration: thumma
   5:
-    arabic: يُنۡكِرُوۡنَهَا
+    arabic: يُنكِرُونَهَا
     translation: they deny it
     transliteration: yunkirūnahā
   6:
-    arabic: وَاَكۡثَرُهُمُ
+    arabic: وَأَكۡثَرُهُمُ
     translation: And most of them
     transliteration: wa-aktharuhumu
   7:
-    arabic: "الۡكٰفِرُوۡنَ‏ \uFEFF\uFEFF"
+    arabic: ٱلۡكَٰفِرُونَ
     translation: (are) the disbelievers
     transliteration: l-kāfirūna
 ---

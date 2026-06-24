@@ -1,15 +1,15 @@
 ---
-arabic_ayat: وَّاَصۡحٰبُ الۡاَيۡكَةِ وَقَوۡمُ تُبَّعٍ​ؕ كُلٌّ كَذَّبَ الرُّسُلَ فَحَقَّ
-  وَعِيۡدِ‏
+arabic_ayat: وَأَصۡحَٰبُ ٱلۡأَيۡكَةِ وَقَوۡمُ تُبَّعٖۚ كُلّٞ كَذَّبَ ٱلرُّسُلَ فَحَقَّ
+  وَعِيدِ
 sentence_translation: the residents of the Forest, and the people of Tubba’. Each
   rejected ˹their˺ messenger, so My warning was fulfilled.
 word_by_word:
   1:
-    arabic: وَّاَصۡحٰبُ
+    arabic: وَأَصۡحَٰبُ
     translation: And (the) companions
     transliteration: wa-aṣḥābu
   2:
-    arabic: الۡاَيۡكَةِ
+    arabic: ٱلۡأَيۡكَةِ
     translation: (of) the wood
     transliteration: l-aykati
   3:
@@ -17,11 +17,11 @@ word_by_word:
     translation: and (the) people
     transliteration: waqawmu
   4:
-    arabic: تُبَّعٍ​ؕ
+    arabic: تُبَّعٖۚ
     translation: (of) Tubba
     transliteration: tubbaʿin
   5:
-    arabic: كُلٌّ
+    arabic: كُلّٞ
     translation: All
     transliteration: kullun
   6:
@@ -29,7 +29,7 @@ word_by_word:
     translation: denied
     transliteration: kadhaba
   7:
-    arabic: الرُّسُلَ
+    arabic: ٱلرُّسُلَ
     translation: the Messengers
     transliteration: l-rusula
   8:
@@ -37,7 +37,7 @@ word_by_word:
     translation: so was fulfilled
     transliteration: faḥaqqa
   9:
-    arabic: وَعِيۡدِ‏
+    arabic: وَعِيدِ
     translation: My Threat
     transliteration: waʿīdi
 ---

@@ -1,6 +1,6 @@
 ---
-arabic_ayat: قُلِ انْظُرُوۡا مَاذَا فِى السَّمٰوٰتِ وَالۡاَرۡضِ ​ؕ وَمَا تُغۡنِى الۡاٰيٰتُ
-  وَالنُّذُرُ عَنۡ قَوۡمٍ لَّا يُؤۡمِنُوۡنَ‏
+arabic_ayat: قُلِ ٱنظُرُواْ مَاذَا فِي ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِۚ وَمَا تُغۡنِي ٱلۡأٓيَٰتُ
+  وَٱلنُّذُرُ عَن قَوۡمٖ لَّا يُؤۡمِنُونَ
 sentence_translation: Say, ˹O Prophet,˺ “Consider all that is in the heavens and the
   earth!” Yet neither signs nor warners are of any benefit to those who refuse to
   believe.
@@ -10,7 +10,7 @@ word_by_word:
     translation: Say
     transliteration: quli
   2:
-    arabic: انْظُرُوۡا
+    arabic: ٱنظُرُواْ
     translation: See
     transliteration: unẓurū
   3:
@@ -18,15 +18,15 @@ word_by_word:
     translation: what
     transliteration: mādhā
   4:
-    arabic: فِى
+    arabic: فِي
     translation: (is) in
     transliteration: fī
   5:
-    arabic: السَّمٰوٰتِ
+    arabic: ٱلسَّمَٰوَٰتِ
     translation: the heavens
     transliteration: l-samāwāti
   6:
-    arabic: وَالۡاَرۡضِ ​ؕ
+    arabic: وَٱلۡأَرۡضِۚ
     translation: and the earth
     transliteration: wal-arḍi
   7:
@@ -34,23 +34,23 @@ word_by_word:
     translation: But not
     transliteration: wamā
   8:
-    arabic: تُغۡنِى
+    arabic: تُغۡنِي
     translation: will avail
     transliteration: tugh'nī
   9:
-    arabic: الۡاٰيٰتُ
+    arabic: ٱلۡأٓيَٰتُ
     translation: the Signs
     transliteration: l-āyātu
   10:
-    arabic: وَالنُّذُرُ
+    arabic: وَٱلنُّذُرُ
     translation: and the warners
     transliteration: wal-nudhuru
   11:
-    arabic: عَنۡ
+    arabic: عَن
     translation: to
     transliteration: ʿan
   12:
-    arabic: قَوۡمٍ
+    arabic: قَوۡمٖ
     translation: a people
     transliteration: qawmin
   13:
@@ -58,7 +58,7 @@ word_by_word:
     translation: (who do) not
     transliteration: lā
   14:
-    arabic: يُؤۡمِنُوۡنَ‏
+    arabic: يُؤۡمِنُونَ
     translation: believe
     transliteration: yu'minūna
 ---

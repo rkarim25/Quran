@@ -1,6 +1,5 @@
 ---
-arabic_ayat: "وَلَا يَحۡسَبَنَّ الَّذِيۡنَ كَفَرُوۡا سَبَقُوۡا​ ؕ اِنَّهُمۡ لَا يُعۡجِزُوۡنَ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: وَلَا يَحۡسَبَنَّ ٱلَّذِينَ كَفَرُواْ سَبَقُوٓاْۚ إِنَّهُمۡ لَا يُعۡجِزُونَ
 sentence_translation: Do not let those disbelievers think they are not within reach.
   They will have no escape.
 word_by_word:
@@ -13,19 +12,19 @@ word_by_word:
     translation: think
     transliteration: yaḥsabanna
   3:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   4:
-    arabic: كَفَرُوۡا
+    arabic: كَفَرُواْ
     translation: disbelieve
     transliteration: kafarū
   5:
-    arabic: سَبَقُوۡا​ ؕ
+    arabic: سَبَقُوٓاْۚ
     translation: they can outstrip
     transliteration: sabaqū
   6:
-    arabic: اِنَّهُمۡ
+    arabic: إِنَّهُمۡ
     translation: Indeed, they
     transliteration: innahum
   7:
@@ -33,7 +32,7 @@ word_by_word:
     translation: (can) not
     transliteration: lā
   8:
-    arabic: "يُعۡجِزُوۡنَ‏ \uFEFF\uFEFF"
+    arabic: يُعۡجِزُونَ
     translation: escape
     transliteration: yuʿ'jizūna
 ---

@@ -1,6 +1,6 @@
 ---
-arabic_ayat: مَا يَاۡتِيۡهِمۡ مِّنۡ ذِكۡرٍ مِّنۡ رَّبِّہِمۡ مُّحۡدَثٍ اِلَّا اسۡتَمَعُوۡهُ
-  وَهُمۡ يَلۡعَبُوۡنَۙ‏
+arabic_ayat: مَا يَأۡتِيهِم مِّن ذِكۡرٖ مِّن رَّبِّهِم مُّحۡدَثٍ إِلَّا ٱسۡتَمَعُوهُ
+  وَهُمۡ يَلۡعَبُونَ
 sentence_translation: Whatever new reminder comes to them from their Lord, they only
   listen to it jokingly,
 word_by_word:
@@ -9,23 +9,23 @@ word_by_word:
     translation: Not
     transliteration: mā
   2:
-    arabic: يَاۡتِيۡهِمۡ
+    arabic: يَأۡتِيهِم
     translation: comes to them
     transliteration: yatīhim
   3:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: of
     transliteration: min
   4:
-    arabic: ذِكۡرٍ
+    arabic: ذِكۡرٖ
     translation: a Reminder
     transliteration: dhik'rin
   5:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: from
     transliteration: min
   6:
-    arabic: رَّبِّہِمۡ
+    arabic: رَّبِّهِم
     translation: their Lord
     transliteration: rabbihim
   7:
@@ -33,11 +33,11 @@ word_by_word:
     translation: anew
     transliteration: muḥ'dathin
   8:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   9:
-    arabic: اسۡتَمَعُوۡهُ
+    arabic: ٱسۡتَمَعُوهُ
     translation: they listen to it
     transliteration: is'tamaʿūhu
   10:
@@ -45,7 +45,7 @@ word_by_word:
     translation: while they
     transliteration: wahum
   11:
-    arabic: يَلۡعَبُوۡنَۙ‏
+    arabic: يَلۡعَبُونَ
     translation: (are at) play
     transliteration: yalʿabūna
 ---

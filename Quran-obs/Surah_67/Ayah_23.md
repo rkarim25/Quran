@@ -1,6 +1,6 @@
 ---
-arabic_ayat: قُلۡ هُوَ الَّذِىۡۤ اَنۡشَاَكُمۡ وَجَعَلَ لَـكُمُ السَّمۡعَ وَالۡاَبۡصَارَ
-  وَ الۡاَفۡـــِٕدَةَ ​ ؕ قَلِيۡلًا مَّا تَشۡكُرُوۡنَ‏
+arabic_ayat: قُلۡ هُوَ ٱلَّذِيٓ أَنشَأَكُمۡ وَجَعَلَ لَكُمُ ٱلسَّمۡعَ وَٱلۡأَبۡصَٰرَ
+  وَٱلۡأَفۡـِٔدَةَۚ قَلِيلٗا مَّا تَشۡكُرُونَ
 sentence_translation: Say, ˹O Prophet,˺ “He is the One Who brought you into being
   and gave you hearing, sight, and intellect. ˹Yet˺ you hardly give any thanks.”
 word_by_word:
@@ -13,11 +13,11 @@ word_by_word:
     translation: He
     transliteration: huwa
   3:
-    arabic: الَّذِىۡۤ
+    arabic: ٱلَّذِيٓ
     translation: (is) the One Who
     transliteration: alladhī
   4:
-    arabic: اَنۡشَاَكُمۡ
+    arabic: أَنشَأَكُمۡ
     translation: produced you
     transliteration: ansha-akum
   5:
@@ -25,23 +25,23 @@ word_by_word:
     translation: and made
     transliteration: wajaʿala
   6:
-    arabic: لَـكُمُ
+    arabic: لَكُمُ
     translation: for you
     transliteration: lakumu
   7:
-    arabic: السَّمۡعَ
+    arabic: ٱلسَّمۡعَ
     translation: the hearing
     transliteration: l-samʿa
   8:
-    arabic: وَالۡاَبۡصَارَ
+    arabic: وَٱلۡأَبۡصَٰرَ
     translation: and the vision
     transliteration: wal-abṣāra
   9:
-    arabic: وَ الۡاَفۡـــِٕدَةَ ​ ؕ
+    arabic: وَٱلۡأَفۡـِٔدَةَۚ
     translation: and the feelings
     transliteration: wal-afidata
   10:
-    arabic: قَلِيۡلًا
+    arabic: قَلِيلٗا
     translation: Little
     transliteration: qalīlan
   11:
@@ -49,7 +49,7 @@ word_by_word:
     translation: (is) what
     transliteration: mā
   12:
-    arabic: تَشۡكُرُوۡنَ‏
+    arabic: تَشۡكُرُونَ
     translation: you give thanks
     transliteration: tashkurūna
 ---

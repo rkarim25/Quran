@@ -1,27 +1,27 @@
 ---
-arabic_ayat: اِنَّ الَّذِيۡنَ فَتَـنُوا الۡمُؤۡمِنِيۡنَ وَ الۡمُؤۡمِنٰتِ ثُمَّ لَمۡ
-  يَتُوۡبُوۡا فَلَهُمۡ عَذَابُ جَهَنَّمَ وَلَهُمۡ عَذَابُ الۡحَرِيۡقِؕ‏
+arabic_ayat: إِنَّ ٱلَّذِينَ فَتَنُواْ ٱلۡمُؤۡمِنِينَ وَٱلۡمُؤۡمِنَٰتِ ثُمَّ لَمۡ
+  يَتُوبُواْ فَلَهُمۡ عَذَابُ جَهَنَّمَ وَلَهُمۡ عَذَابُ ٱلۡحَرِيقِ
 sentence_translation: Those who persecute the believing men and women and then do
   not repent will certainly suffer the punishment of Hell and the torment of burning.
 word_by_word:
   1:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   3:
-    arabic: فَتَـنُوا
+    arabic: فَتَنُواْ
     translation: persecuted
     transliteration: fatanū
   4:
-    arabic: الۡمُؤۡمِنِيۡنَ
+    arabic: ٱلۡمُؤۡمِنِينَ
     translation: the believing men
     transliteration: l-mu'minīna
   5:
-    arabic: وَ الۡمُؤۡمِنٰتِ
+    arabic: وَٱلۡمُؤۡمِنَٰتِ
     translation: and the believing women
     transliteration: wal-mu'mināti
   6:
@@ -33,7 +33,7 @@ word_by_word:
     translation: not
     transliteration: lam
   8:
-    arabic: يَتُوۡبُوۡا
+    arabic: يَتُوبُواْ
     translation: they repented
     transliteration: yatūbū
   9:
@@ -57,7 +57,7 @@ word_by_word:
     translation: (is the) punishment
     transliteration: ʿadhābu
   14:
-    arabic: الۡحَرِيۡقِؕ‏
+    arabic: ٱلۡحَرِيقِ
     translation: (of) the Burning Fire
     transliteration: l-ḥarīqi
 ---

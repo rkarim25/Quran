@@ -1,7 +1,7 @@
 ---
-arabic_ayat: قَالَ رَجُلٰنِ مِنَ الَّذِيۡنَ يَخَافُوۡنَ اَنۡعَمَ اللّٰهُ عَلَيۡهِمَا
-  ادۡخُلُوۡا عَلَيۡهِمُ الۡبَابَ​ۚ فَاِذَا دَخَلۡتُمُوۡهُ فَاِنَّكُمۡ غٰلِبُوۡنَ​
-   ​ۚ وَعَلَى اللّٰهِ فَتَوَكَّلُوۡۤا اِنۡ كُنۡتُمۡ مُّؤۡمِنِيۡنَ‏
+arabic_ayat: قَالَ رَجُلَانِ مِنَ ٱلَّذِينَ يَخَافُونَ أَنۡعَمَ ٱللَّهُ عَلَيۡهِمَا
+  ٱدۡخُلُواْ عَلَيۡهِمُ ٱلۡبَابَ فَإِذَا دَخَلۡتُمُوهُ فَإِنَّكُمۡ غَٰلِبُونَۚ وَعَلَى
+  ٱللَّهِ فَتَوَكَّلُوٓاْ إِن كُنتُم مُّؤۡمِنِينَ
 sentence_translation: Two God-fearing men—who had been blessed by Allah—said, “Surprise
   them through the gate. If you do, you will certainly prevail. Put your trust in
   Allah if you are ˹truly˺ believers.”
@@ -11,7 +11,7 @@ word_by_word:
     translation: Said
     transliteration: qāla
   2:
-    arabic: رَجُلٰنِ
+    arabic: رَجُلَانِ
     translation: two men
     transliteration: rajulāni
   3:
@@ -19,19 +19,19 @@ word_by_word:
     translation: from
     transliteration: mina
   4:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   5:
-    arabic: يَخَافُوۡنَ
+    arabic: يَخَافُونَ
     translation: feared (Allah)
     transliteration: yakhāfūna
   6:
-    arabic: اَنۡعَمَ
+    arabic: أَنۡعَمَ
     translation: (had) favored
     transliteration: anʿama
   7:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   8:
@@ -39,7 +39,7 @@ word_by_word:
     translation: '[on] both of them'
     transliteration: ʿalayhimā
   9:
-    arabic: ادۡخُلُوۡا
+    arabic: ٱدۡخُلُواْ
     translation: Enter
     transliteration: ud'khulū
   10:
@@ -47,23 +47,23 @@ word_by_word:
     translation: upon them
     transliteration: ʿalayhimu
   11:
-    arabic: الۡبَابَ​ۚ
+    arabic: ٱلۡبَابَ
     translation: (through) the gate
     transliteration: l-bāba
   12:
-    arabic: فَاِذَا
+    arabic: فَإِذَا
     translation: then when
     transliteration: fa-idhā
   13:
-    arabic: دَخَلۡتُمُوۡهُ
+    arabic: دَخَلۡتُمُوهُ
     translation: you have entered it
     transliteration: dakhaltumūhu
   14:
-    arabic: فَاِنَّكُمۡ
+    arabic: فَإِنَّكُمۡ
     translation: then indeed, you (will be)
     transliteration: fa-innakum
   15:
-    arabic: غٰلِبُوۡنَ​  ​ۚ
+    arabic: غَٰلِبُونَۚ
     translation: victorious
     transliteration: ghālibūna
   16:
@@ -71,23 +71,23 @@ word_by_word:
     translation: And upon
     transliteration: waʿalā
   17:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   18:
-    arabic: فَتَوَكَّلُوۡۤا
+    arabic: فَتَوَكَّلُوٓاْ
     translation: then put your trust
     transliteration: fatawakkalū
   19:
-    arabic: اِنۡ
+    arabic: إِن
     translation: if
     transliteration: in
   20:
-    arabic: كُنۡتُمۡ
+    arabic: كُنتُم
     translation: you are
     transliteration: kuntum
   21:
-    arabic: مُّؤۡمِنِيۡنَ‏
+    arabic: مُّؤۡمِنِينَ
     translation: believers
     transliteration: mu'minīna
 ---

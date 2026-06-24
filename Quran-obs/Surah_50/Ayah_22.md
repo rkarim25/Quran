@@ -1,23 +1,23 @@
 ---
-arabic_ayat: لَقَدۡ كُنۡتَ فِىۡ غَفۡلَةٍ مِّنۡ هٰذَا فَكَشَفۡنَا عَنۡكَ غِطَآءَكَ
-  فَبَصَرُكَ الۡيَوۡمَ حَدِيۡدٌ‏
+arabic_ayat: لَّقَدۡ كُنتَ فِي غَفۡلَةٖ مِّنۡ هَٰذَا فَكَشَفۡنَا عَنكَ غِطَآءَكَ
+  فَبَصَرُكَ ٱلۡيَوۡمَ حَدِيدٞ
 sentence_translation: ˹It will be said to the denier,˺ “You were totally heedless
   of this. Now We have lifted this veil of yours, so Today your sight is sharp!”
 word_by_word:
   1:
-    arabic: لَقَدۡ
+    arabic: لَّقَدۡ
     translation: Certainly
     transliteration: laqad
   2:
-    arabic: كُنۡتَ
+    arabic: كُنتَ
     translation: you were
     transliteration: kunta
   3:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   4:
-    arabic: غَفۡلَةٍ
+    arabic: غَفۡلَةٖ
     translation: heedlessness
     transliteration: ghaflatin
   5:
@@ -25,7 +25,7 @@ word_by_word:
     translation: of
     transliteration: min
   6:
-    arabic: هٰذَا
+    arabic: هَٰذَا
     translation: this
     transliteration: hādhā
   7:
@@ -33,7 +33,7 @@ word_by_word:
     translation: So We have removed
     transliteration: fakashafnā
   8:
-    arabic: عَنۡكَ
+    arabic: عَنكَ
     translation: from you
     transliteration: ʿanka
   9:
@@ -45,11 +45,11 @@ word_by_word:
     translation: so your sight
     transliteration: fabaṣaruka
   11:
-    arabic: الۡيَوۡمَ
+    arabic: ٱلۡيَوۡمَ
     translation: today
     transliteration: l-yawma
   12:
-    arabic: حَدِيۡدٌ‏
+    arabic: حَدِيدٞ
     translation: (is) sharp
     transliteration: ḥadīdun
 ---

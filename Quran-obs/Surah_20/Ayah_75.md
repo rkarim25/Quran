@@ -1,19 +1,19 @@
 ---
-arabic_ayat: وَمَنۡ يَّاۡتِهٖ مُؤۡمِنًا قَدۡ عَمِلَ الصّٰلِحٰتِ فَاُولٰٓٮِٕكَ لَهُمُ
-  الدَّرَجٰتُ الۡعُلٰىۙ‏
+arabic_ayat: وَمَن يَأۡتِهِۦ مُؤۡمِنٗا قَدۡ عَمِلَ ٱلصَّٰلِحَٰتِ فَأُوْلَٰٓئِكَ لَهُمُ
+  ٱلدَّرَجَٰتُ ٱلۡعُلَىٰ
 sentence_translation: 'But whoever comes to Him as a believer, having done good, they
   will have the highest ranks:'
 word_by_word:
   1:
-    arabic: وَمَنۡ
+    arabic: وَمَن
     translation: But whoever
     transliteration: waman
   2:
-    arabic: يَّاۡتِهٖ
+    arabic: يَأۡتِهِۦ
     translation: comes to Him
     transliteration: yatihi
   3:
-    arabic: مُؤۡمِنًا
+    arabic: مُؤۡمِنٗا
     translation: (as) a believer
     transliteration: mu'minan
   4:
@@ -25,11 +25,11 @@ word_by_word:
     translation: he has done
     transliteration: ʿamila
   6:
-    arabic: الصّٰلِحٰتِ
+    arabic: ٱلصَّٰلِحَٰتِ
     translation: the righteous deeds
     transliteration: l-ṣāliḥāti
   7:
-    arabic: فَاُولٰٓٮِٕكَ
+    arabic: فَأُوْلَٰٓئِكَ
     translation: then those
     transliteration: fa-ulāika
   8:
@@ -37,11 +37,11 @@ word_by_word:
     translation: for them
     transliteration: lahumu
   9:
-    arabic: الدَّرَجٰتُ
+    arabic: ٱلدَّرَجَٰتُ
     translation: (will be) the ranks
     transliteration: l-darajātu
   10:
-    arabic: الۡعُلٰىۙ‏
+    arabic: ٱلۡعُلَىٰ
     translation: '[the] high'
     transliteration: l-ʿulā
 ---

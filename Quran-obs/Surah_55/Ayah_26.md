@@ -1,5 +1,5 @@
 ---
-arabic_ayat: كُلُّ مَنۡ عَلَيۡهَا فَانٍ​ ۚ​ ۖ‏
+arabic_ayat: كُلُّ مَنۡ عَلَيۡهَا فَانٖ
 sentence_translation: Every being on earth is bound to perish.
 word_by_word:
   1:
@@ -15,7 +15,7 @@ word_by_word:
     translation: (is) on it
     transliteration: ʿalayhā
   4:
-    arabic: فَانٍ​ ۚ​ ۖ‏
+    arabic: فَانٖ
     translation: (will) perish
     transliteration: fānin
 ---

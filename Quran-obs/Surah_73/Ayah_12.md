@@ -1,21 +1,21 @@
 ---
-arabic_ayat: اِنَّ لَدَيۡنَاۤ اَنۡـكَالًا وَّجَحِيۡمًا ۙ‏
+arabic_ayat: إِنَّ لَدَيۡنَآ أَنكَالٗا وَجَحِيمٗا
 sentence_translation: ˹For˺ We certainly have shackles, a ˹raging˺ Fire,
 word_by_word:
   1:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   2:
-    arabic: لَدَيۡنَاۤ
+    arabic: لَدَيۡنَآ
     translation: with Us
     transliteration: ladaynā
   3:
-    arabic: اَنۡـكَالًا
+    arabic: أَنكَالٗا
     translation: (are) shackles
     transliteration: ankālan
   4:
-    arabic: وَّجَحِيۡمًا ۙ‏
+    arabic: وَجَحِيمٗا
     translation: and burning fire
     transliteration: wajaḥīman
 ---

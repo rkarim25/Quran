@@ -1,34 +1,34 @@
 ---
-arabic_ayat: وَرَاَيۡتَ النَّاسَ يَدۡخُلُوۡنَ فِىۡ دِيۡنِ اللّٰهِ اَفۡوَاجًا ۙ‏
+arabic_ayat: وَرَأَيۡتَ ٱلنَّاسَ يَدۡخُلُونَ فِي دِينِ ٱللَّهِ أَفۡوَاجٗا
 sentence_translation: and you ˹O Prophet˺ see the people embracing Allah’s Way in
   crowds,
 word_by_word:
   1:
-    arabic: وَرَاَيۡتَ
+    arabic: وَرَأَيۡتَ
     translation: And you see
     transliteration: wara-ayta
   2:
-    arabic: النَّاسَ
+    arabic: ٱلنَّاسَ
     translation: the people
     transliteration: l-nāsa
   3:
-    arabic: يَدۡخُلُوۡنَ
+    arabic: يَدۡخُلُونَ
     translation: entering
     transliteration: yadkhulūna
   4:
-    arabic: فِىۡ
+    arabic: فِي
     translation: into
     transliteration: fī
   5:
-    arabic: دِيۡنِ
+    arabic: دِينِ
     translation: (the) religion
     transliteration: dīni
   6:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (of) Allah
     transliteration: l-lahi
   7:
-    arabic: اَفۡوَاجًا ۙ‏
+    arabic: أَفۡوَاجٗا
     translation: (in) multitudes
     transliteration: afwājan
 ---

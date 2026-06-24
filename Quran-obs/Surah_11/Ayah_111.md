@@ -1,15 +1,15 @@
 ---
-arabic_ayat: وَاِنَّ كُلًّا لَّمَّا لَيُوَفِّيَنَّهُمۡ رَبُّكَ اَعۡمَالَهُمۡ​ ؕ اِنَّهٗ
-  بِمَا يَعۡمَلُوۡنَ خَبِيۡرٌ‏
+arabic_ayat: وَإِنَّ كُلّٗا لَّمَّا لَيُوَفِّيَنَّهُمۡ رَبُّكَ أَعۡمَٰلَهُمۡۚ إِنَّهُۥ
+  بِمَا يَعۡمَلُونَ خَبِيرٞ
 sentence_translation: And surely your Lord will fully pay all for their deeds. He
   is certainly All-Aware of what they do.
 word_by_word:
   1:
-    arabic: وَاِنَّ
+    arabic: وَإِنَّ
     translation: And indeed
     transliteration: wa-inna
   2:
-    arabic: كُلًّا
+    arabic: كُلّٗا
     translation: to each [when]
     transliteration: kullan
   3:
@@ -25,11 +25,11 @@ word_by_word:
     translation: your Lord
     transliteration: rabbuka
   6:
-    arabic: اَعۡمَالَهُمۡ​ ؕ
+    arabic: أَعۡمَٰلَهُمۡۚ
     translation: their deeds
     transliteration: aʿmālahum
   7:
-    arabic: اِنَّهٗ
+    arabic: إِنَّهُۥ
     translation: Indeed, He
     transliteration: innahu
   8:
@@ -37,11 +37,11 @@ word_by_word:
     translation: of what
     transliteration: bimā
   9:
-    arabic: يَعۡمَلُوۡنَ
+    arabic: يَعۡمَلُونَ
     translation: they do
     transliteration: yaʿmalūna
   10:
-    arabic: خَبِيۡرٌ‏
+    arabic: خَبِيرٞ
     translation: (is) All-Aware
     transliteration: khabīrun
 ---

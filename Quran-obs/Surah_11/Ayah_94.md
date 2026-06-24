@@ -1,7 +1,7 @@
 ---
-arabic_ayat: وَلَمَّا جَآءَ اَمۡرُنَا نَجَّيۡنَا شُعَيۡبًا وَّالَّذِيۡنَ اٰمَنُوۡا
-  مَعَهٗ بِرَحۡمَةٍ مِّنَّا ۚ وَاَخَذَتِ الَّذِيۡنَ ظَلَمُوا الصَّيۡحَةُ فَاَصۡبَحُوۡا
-  فِىۡ دِيَارِهِمۡ جٰثِمِيۡنَۙ‏
+arabic_ayat: وَلَمَّا جَآءَ أَمۡرُنَا نَجَّيۡنَا شُعَيۡبٗا وَٱلَّذِينَ ءَامَنُواْ
+  مَعَهُۥ بِرَحۡمَةٖ مِّنَّا وَأَخَذَتِ ٱلَّذِينَ ظَلَمُواْ ٱلصَّيۡحَةُ فَأَصۡبَحُواْ
+  فِي دِيَٰرِهِمۡ جَٰثِمِينَ
 sentence_translation: When Our command came, We saved Shu’aib and those who believed
   with him by a mercy from Us. And the ˹mighty˺ blast overtook the wrongdoers, so
   they fell lifeless in their homes,
@@ -15,7 +15,7 @@ word_by_word:
     translation: came
     transliteration: jāa
   3:
-    arabic: اَمۡرُنَا
+    arabic: أَمۡرُنَا
     translation: Our Command
     transliteration: amrunā
   4:
@@ -23,59 +23,59 @@ word_by_word:
     translation: We saved
     transliteration: najjaynā
   5:
-    arabic: شُعَيۡبًا
+    arabic: شُعَيۡبٗا
     translation: Shuaib
     transliteration: shuʿayban
   6:
-    arabic: وَّالَّذِيۡنَ
+    arabic: وَٱلَّذِينَ ءَ
     translation: and those who
     transliteration: wa-alladhīna
   7:
-    arabic: اٰمَنُوۡا
+    arabic: امَنُواْ
     translation: believed
     transliteration: āmanū
   8:
-    arabic: مَعَهٗ
+    arabic: مَعَهُۥ
     translation: with him
     transliteration: maʿahu
   9:
-    arabic: بِرَحۡمَةٍ
+    arabic: بِرَحۡمَةٖ
     translation: by a Mercy
     transliteration: biraḥmatin
   10:
-    arabic: مِّنَّا ۚ
+    arabic: مِّنَّا
     translation: from Us
     transliteration: minnā
   11:
-    arabic: وَاَخَذَتِ
+    arabic: وَأَخَذَتِ
     translation: And seized
     transliteration: wa-akhadhati
   12:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   13:
-    arabic: ظَلَمُوا
+    arabic: ظَلَمُواْ
     translation: wronged
     transliteration: ẓalamū
   14:
-    arabic: الصَّيۡحَةُ
+    arabic: ٱلصَّيۡحَةُ
     translation: the thunderous blast
     transliteration: l-ṣayḥatu
   15:
-    arabic: فَاَصۡبَحُوۡا
+    arabic: فَأَصۡبَحُواْ
     translation: then they became
     transliteration: fa-aṣbaḥū
   16:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   17:
-    arabic: دِيَارِهِمۡ
+    arabic: دِيَٰرِهِمۡ
     translation: their homes
     transliteration: diyārihim
   18:
-    arabic: جٰثِمِيۡنَۙ‏
+    arabic: جَٰثِمِينَ
     translation: fallen prone
     transliteration: jāthimīna
 ---

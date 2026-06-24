@@ -1,8 +1,8 @@
 ---
-arabic_ayat: اَلَمۡ تَرَ اِلَى الَّذِيۡنَ نَافَقُوۡا يَقُوۡلُوۡنَ لِاِخۡوَانِهِمُ
-  الَّذِيۡنَ كَفَرُوۡا مِنۡ اَهۡلِ الۡكِتٰبِ لَٮِٕنۡ اُخۡرِجۡتُمۡ لَنَخۡرُجَنَّ مَعَكُمۡ
-  وَلَا نُطِيۡعُ فِيۡكُمۡ اَحَدًا اَبَدًاۙ وَّاِنۡ قُوۡتِلۡتُمۡ لَـنَـنۡصُرَنَّكُمۡ
-  ؕ وَاللّٰهُ يَشۡهَدُ اِنَّهُمۡ لَـكٰذِبُوۡنَ‏
+arabic_ayat: ۞ أَلَمۡ تَرَ إِلَى ٱلَّذِينَ نَافَقُواْ يَقُولُونَ لِإِخۡوَٰنِهِمُ ٱلَّذِينَ
+  كَفَرُواْ مِنۡ أَهۡلِ ٱلۡكِتَٰبِ لَئِنۡ أُخۡرِجۡتُمۡ لَنَخۡرُجَنَّ مَعَكُمۡ وَلَا
+  نُطِيعُ فِيكُمۡ أَحَدًا أَبَدٗا وَإِن قُوتِلۡتُمۡ لَنَنصُرَنَّكُمۡ وَٱللَّهُ يَشۡهَدُ
+  إِنَّهُمۡ لَكَٰذِبُونَ
 sentence_translation: Have you ˹O Prophet˺ not seen the hypocrites who say to their
   fellow disbelievers from the People of the Book, “If you are expelled, we will certainly
   leave with you, and We will never obey anyone against you. And if you are fought
@@ -10,7 +10,7 @@ sentence_translation: Have you ˹O Prophet˺ not seen the hypocrites who say to 
   liars.
 word_by_word:
   1:
-    arabic: ۞ اَلَمۡ
+    arabic: ۞ أَلَمۡ
     translation: Do not
     transliteration: alam
   2:
@@ -18,31 +18,31 @@ word_by_word:
     translation: you see
     transliteration: tara
   3:
-    arabic: اِلَى
+    arabic: إِلَى
     translation: '[to]'
     transliteration: ilā
   4:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   5:
-    arabic: نَافَقُوۡا
+    arabic: نَافَقُواْ
     translation: (were) hypocrites
     transliteration: nāfaqū
   6:
-    arabic: يَقُوۡلُوۡنَ
+    arabic: يَقُولُونَ
     translation: saying
     transliteration: yaqūlūna
   7:
-    arabic: لِاِخۡوَانِهِمُ
+    arabic: لِإِخۡوَٰنِهِمُ
     translation: to their brothers
     transliteration: li-ikh'wānihimu
   8:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   9:
-    arabic: كَفَرُوۡا
+    arabic: كَفَرُواْ
     translation: disbelieved
     transliteration: kafarū
   10:
@@ -50,19 +50,19 @@ word_by_word:
     translation: among
     transliteration: min
   11:
-    arabic: اَهۡلِ
+    arabic: أَهۡلِ
     translation: the People
     transliteration: ahli
   12:
-    arabic: الۡكِتٰبِ
+    arabic: ٱلۡكِتَٰبِ
     translation: (of) the Scripture
     transliteration: l-kitābi
   13:
-    arabic: لَٮِٕنۡ
+    arabic: لَئِنۡ
     translation: If
     transliteration: la-in
   14:
-    arabic: اُخۡرِجۡتُمۡ
+    arabic: أُخۡرِجۡتُمۡ
     translation: you are expelled
     transliteration: ukh'rij'tum
   15:
@@ -78,35 +78,35 @@ word_by_word:
     translation: and not
     transliteration: walā
   18:
-    arabic: نُطِيۡعُ
+    arabic: نُطِيعُ
     translation: we will obey
     transliteration: nuṭīʿu
   19:
-    arabic: فِيۡكُمۡ
+    arabic: فِيكُمۡ
     translation: concerning you
     transliteration: fīkum
   20:
-    arabic: اَحَدًا
+    arabic: أَحَدًا
     translation: anyone
     transliteration: aḥadan
   21:
-    arabic: اَبَدًاۙ
+    arabic: أَبَدٗا
     translation: ever
     transliteration: abadan
   22:
-    arabic: وَّاِنۡ
+    arabic: وَإِن
     translation: and if
     transliteration: wa-in
   23:
-    arabic: قُوۡتِلۡتُمۡ
+    arabic: قُوتِلۡتُمۡ
     translation: you are fought
     transliteration: qūtil'tum
   24:
-    arabic: لَـنَـنۡصُرَنَّكُمۡ ؕ
+    arabic: لَنَنصُرَنَّكُمۡ
     translation: certainly we will help you
     transliteration: lananṣurannakum
   25:
-    arabic: وَاللّٰهُ
+    arabic: وَٱللَّهُ
     translation: And Allah
     transliteration: wal-lahu
   26:
@@ -114,11 +114,11 @@ word_by_word:
     translation: bears witness
     transliteration: yashhadu
   27:
-    arabic: اِنَّهُمۡ
+    arabic: إِنَّهُمۡ
     translation: that they
     transliteration: innahum
   28:
-    arabic: لَـكٰذِبُوۡنَ‏
+    arabic: لَكَٰذِبُونَ
     translation: (are) surely liars
     transliteration: lakādhibūna
 ---

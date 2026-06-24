@@ -1,10 +1,10 @@
 ---
-arabic_ayat: بَلْ رَّفَعَهُ اللّٰهُ اِلَيۡهِ​ ؕ وَكَانَ اللّٰهُ عَزِيۡزًا حَكِيۡمًا‏
+arabic_ayat: بَل رَّفَعَهُ ٱللَّهُ إِلَيۡهِۚ وَكَانَ ٱللَّهُ عَزِيزًا حَكِيمٗا
 sentence_translation: Rather, Allah raised him up to Himself. And Allah is Almighty,
   All-Wise.
 word_by_word:
   1:
-    arabic: بَلْ
+    arabic: بَل
     translation: Nay
     transliteration: bal
   2:
@@ -12,11 +12,11 @@ word_by_word:
     translation: he was raised
     transliteration: rafaʿahu
   3:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: (by) Allah
     transliteration: l-lahu
   4:
-    arabic: اِلَيۡهِ​ ؕ
+    arabic: إِلَيۡهِۚ
     translation: towards Him
     transliteration: ilayhi
   5:
@@ -24,15 +24,15 @@ word_by_word:
     translation: And is
     transliteration: wakāna
   6:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   7:
-    arabic: عَزِيۡزًا
+    arabic: عَزِيزًا
     translation: All-Mighty
     transliteration: ʿazīzan
   8:
-    arabic: حَكِيۡمًا‏
+    arabic: حَكِيمٗا
     translation: All-Wise
     transliteration: ḥakīman
 ---

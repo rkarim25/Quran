@@ -1,21 +1,21 @@
 ---
-arabic_ayat: وَلَاۤ اُقۡسِمُ بِالنَّفۡسِ اللَّوَّامَةِؕ‏
+arabic_ayat: وَلَآ أُقۡسِمُ بِٱلنَّفۡسِ ٱللَّوَّامَةِ
 sentence_translation: And I do swear by the self-reproaching soul!
 word_by_word:
   1:
-    arabic: وَلَاۤ
+    arabic: وَلَآ
     translation: And nay
     transliteration: walā
   2:
-    arabic: اُقۡسِمُ
+    arabic: أُقۡسِمُ
     translation: I swear
     transliteration: uq'simu
   3:
-    arabic: بِالنَّفۡسِ
+    arabic: بِٱلنَّفۡسِ
     translation: by the soul
     transliteration: bil-nafsi
   4:
-    arabic: اللَّوَّامَةِؕ‏
+    arabic: ٱللَّوَّامَةِ
     translation: self-accusing
     transliteration: l-lawāmati
 ---

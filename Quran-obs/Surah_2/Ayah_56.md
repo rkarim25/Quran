@@ -1,6 +1,5 @@
 ---
-arabic_ayat: "ثُمَّ بَعَثۡنٰكُمۡ مِّنۡۢ بَعۡدِ مَوۡتِكُمۡ لَعَلَّکُمۡ تَشۡكُرُوۡنَ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: ثُمَّ بَعَثۡنَٰكُم مِّنۢ بَعۡدِ مَوۡتِكُمۡ لَعَلَّكُمۡ تَشۡكُرُونَ
 sentence_translation: Then We brought you back to life after your death, so that perhaps
   you would be grateful.
 word_by_word:
@@ -9,11 +8,11 @@ word_by_word:
     translation: Then
     transliteration: thumma
   2:
-    arabic: بَعَثۡنٰكُمۡ
+    arabic: بَعَثۡنَٰكُم
     translation: We revived you
     transliteration: baʿathnākum
   3:
-    arabic: مِّنۡۢ
+    arabic: مِّنۢ
     translation: from
     transliteration: min
   4:
@@ -25,11 +24,11 @@ word_by_word:
     translation: your death
     transliteration: mawtikum
   6:
-    arabic: لَعَلَّکُمۡ
+    arabic: لَعَلَّكُمۡ
     translation: so that you may
     transliteration: laʿallakum
   7:
-    arabic: "تَشۡكُرُوۡنَ‏ \uFEFF\uFEFF"
+    arabic: تَشۡكُرُونَ
     translation: (be) grateful
     transliteration: tashkurūna
 ---

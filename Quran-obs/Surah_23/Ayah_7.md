@@ -1,5 +1,5 @@
 ---
-arabic_ayat: فَمَنِ ابۡتَغٰى وَرَآءَ ذٰ لِكَ فَاُولٰٓٮِٕكَ هُمُ الۡعٰدُوۡنَ​ ۚ‏
+arabic_ayat: فَمَنِ ٱبۡتَغَىٰ وَرَآءَ ذَٰلِكَ فَأُوْلَٰٓئِكَ هُمُ ٱلۡعَادُونَ
 sentence_translation: but whoever seeks beyond that are the transgressors;
 word_by_word:
   1:
@@ -7,7 +7,7 @@ word_by_word:
     translation: Then whoever
     transliteration: famani
   2:
-    arabic: ابۡتَغٰى
+    arabic: ٱبۡتَغَىٰ
     translation: seeks
     transliteration: ib'taghā
   3:
@@ -15,11 +15,11 @@ word_by_word:
     translation: beyond
     transliteration: warāa
   4:
-    arabic: ذٰ لِكَ
+    arabic: ذَٰلِكَ
     translation: that
     transliteration: dhālika
   5:
-    arabic: فَاُولٰٓٮِٕكَ
+    arabic: فَأُوْلَٰٓئِكَ
     translation: then those
     transliteration: fa-ulāika
   6:
@@ -27,7 +27,7 @@ word_by_word:
     translation: '[they]'
     transliteration: humu
   7:
-    arabic: الۡعٰدُوۡنَ​ ۚ‏
+    arabic: ٱلۡعَادُونَ
     translation: (are) the transgressors
     transliteration: l-ʿādūna
 ---

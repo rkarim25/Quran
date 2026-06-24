@@ -1,13 +1,13 @@
 ---
-arabic_ayat: كِرَامًا كَاتِبِيۡنَۙ‏
+arabic_ayat: كِرَامٗا كَٰتِبِينَ
 sentence_translation: honourable angels, recording ˹everything˺.
 word_by_word:
   1:
-    arabic: كِرَامًا
+    arabic: كِرَامٗا
     translation: Noble
     transliteration: kirāman
   2:
-    arabic: كَاتِبِيۡنَۙ‏
+    arabic: كَٰتِبِينَ
     translation: recording
     transliteration: kātibīna
 ---

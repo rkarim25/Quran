@@ -1,7 +1,6 @@
 ---
-arabic_ayat: "وَقَالَ الَّذِيۡنَ كَفَرُوۡا لَوۡلَا نُزِّلَ عَلَيۡهِ الۡـقُرۡاٰنُ جُمۡلَةً\
-  \ وَّاحِدَةً​  ​ۛۚ كَذٰلِكَ ​ۛۚ لِنُثَبِّتَ بِهٖ فُـؤَادَكَ​ وَرَتَّلۡنٰهُ تَرۡتِيۡلًا‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: وَقَالَ ٱلَّذِينَ كَفَرُواْ لَوۡلَا نُزِّلَ عَلَيۡهِ ٱلۡقُرۡءَانُ جُمۡلَةٗ
+  وَٰحِدَةٗۚ كَذَٰلِكَ لِنُثَبِّتَ بِهِۦ فُؤَادَكَۖ وَرَتَّلۡنَٰهُ تَرۡتِيلٗا
 sentence_translation: The disbelievers say, “If only the Quran had been sent down
   to him all at once!” ˹We have sent it˺ as such ˹in stages˺ so We may reassure your
   heart with it. And We have revealed it at a deliberate pace.
@@ -11,11 +10,11 @@ word_by_word:
     translation: And said
     transliteration: waqāla
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   3:
-    arabic: كَفَرُوۡا
+    arabic: كَفَرُواْ
     translation: disbelieve
     transliteration: kafarū
   4:
@@ -31,19 +30,19 @@ word_by_word:
     translation: to him
     transliteration: ʿalayhi
   7:
-    arabic: الۡـقُرۡاٰنُ
+    arabic: ٱلۡقُرۡءَانُ
     translation: the Quran
     transliteration: l-qur'ānu
   8:
-    arabic: جُمۡلَةً
+    arabic: جُمۡلَةٗ
     translation: all at once
     transliteration: jum'latan
   9:
-    arabic: وَّاحِدَةً​  ​ۛۚ
+    arabic: وَٰحِدَةٗۚ
     translation: all at once
     transliteration: wāḥidatan
   10:
-    arabic: كَذٰلِكَ ​ۛۚ
+    arabic: كَذَٰلِكَ
     translation: Thus
     transliteration: kadhālika
   11:
@@ -51,19 +50,19 @@ word_by_word:
     translation: that We may strengthen
     transliteration: linuthabbita
   12:
-    arabic: بِهٖ
+    arabic: بِهِۦ
     translation: thereby
     transliteration: bihi
   13:
-    arabic: فُـؤَادَكَ​
+    arabic: فُؤَادَكَۖ
     translation: your heart
     transliteration: fuādaka
   14:
-    arabic: وَرَتَّلۡنٰهُ
+    arabic: وَرَتَّلۡنَٰهُ
     translation: and We have recited it
     transliteration: warattalnāhu
   15:
-    arabic: "تَرۡتِيۡلًا‏ \uFEFF\uFEFF"
+    arabic: تَرۡتِيلٗا
     translation: (with distinct) recitation
     transliteration: tartīlan
 ---

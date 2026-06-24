@@ -1,6 +1,6 @@
 ---
-arabic_ayat: وَمَا نُرۡسِلُ الۡمُرۡسَلِيۡنَ اِلَّا مُبَشِّرِيۡنَ وَمُنۡذِرِيۡنَ​ۚ
-  فَمَنۡ اٰمَنَ وَاَصۡلَحَ فَلَا خَوۡفٌ عَلَيۡهِمۡ وَلَا هُمۡ يَحۡزَنُوۡنَ‏
+arabic_ayat: وَمَا نُرۡسِلُ ٱلۡمُرۡسَلِينَ إِلَّا مُبَشِّرِينَ وَمُنذِرِينَۖ فَمَنۡ
+  ءَامَنَ وَأَصۡلَحَ فَلَا خَوۡفٌ عَلَيۡهِمۡ وَلَا هُمۡ يَحۡزَنُونَ
 sentence_translation: We have sent messengers only as deliverers of good news and
   as warners. Whoever believes and does good, there will be no fear for them, nor
   will they grieve.
@@ -14,31 +14,31 @@ word_by_word:
     translation: We send
     transliteration: nur'silu
   3:
-    arabic: الۡمُرۡسَلِيۡنَ
+    arabic: ٱلۡمُرۡسَلِينَ
     translation: the Messengers
     transliteration: l-mur'salīna
   4:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   5:
-    arabic: مُبَشِّرِيۡنَ
+    arabic: مُبَشِّرِينَ
     translation: (as) bearer of glad tidings
     transliteration: mubashirīna
   6:
-    arabic: وَمُنۡذِرِيۡنَ​ۚ
+    arabic: وَمُنذِرِينَۖ
     translation: and (as) warners
     transliteration: wamundhirīna
   7:
-    arabic: فَمَنۡ
+    arabic: فَمَنۡ ءَ
     translation: So whoever
     transliteration: faman
   8:
-    arabic: اٰمَنَ
+    arabic: امَنَ
     translation: believed
     transliteration: āmana
   9:
-    arabic: وَاَصۡلَحَ
+    arabic: وَأَصۡلَحَ
     translation: and reformed
     transliteration: wa-aṣlaḥa
   10:
@@ -62,7 +62,7 @@ word_by_word:
     translation: they
     transliteration: hum
   15:
-    arabic: يَحۡزَنُوۡنَ‏
+    arabic: يَحۡزَنُونَ
     translation: will grieve
     transliteration: yaḥzanūna
 ---

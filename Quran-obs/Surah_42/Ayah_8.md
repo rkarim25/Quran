@@ -1,7 +1,6 @@
 ---
-arabic_ayat: وَلَوۡ شَآءَ اللّٰهُ لَجَعَلَهُمۡ اُمَّةً وَّاحِدَةً وَّلٰـكِنۡ يُّدۡخِلُ
-  مَنۡ يَّشَآءُ فِىۡ رَحۡمَتِهٖ​ؕ وَالظّٰلِمُوۡنَ مَا لَهُمۡ مِّنۡ وَّلِىٍّ وَّلَا
-  نَصِيۡرٍ‏
+arabic_ayat: وَلَوۡ شَآءَ ٱللَّهُ لَجَعَلَهُمۡ أُمَّةٗ وَٰحِدَةٗ وَلَٰكِن يُدۡخِلُ
+  مَن يَشَآءُ فِي رَحۡمَتِهِۦۚ وَٱلظَّٰلِمُونَ مَا لَهُم مِّن وَلِيّٖ وَلَا نَصِيرٍ
 sentence_translation: Had Allah willed, He could have easily made all ˹humanity˺ into
   a single community ˹of believers˺. But He admits into His mercy whoever He wills.
   And the wrongdoers will have no protector or helper.
@@ -15,7 +14,7 @@ word_by_word:
     translation: Allah willed
     transliteration: shāa
   3:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah willed
     transliteration: l-lahu
   4:
@@ -23,39 +22,39 @@ word_by_word:
     translation: He could have made them
     transliteration: lajaʿalahum
   5:
-    arabic: اُمَّةً
+    arabic: أُمَّةٗ
     translation: a community
     transliteration: ummatan
   6:
-    arabic: وَّاحِدَةً
+    arabic: وَٰحِدَةٗ
     translation: one
     transliteration: wāḥidatan
   7:
-    arabic: وَّلٰـكِنۡ
+    arabic: وَلَٰكِن
     translation: but
     transliteration: walākin
   8:
-    arabic: يُّدۡخِلُ
+    arabic: يُدۡخِلُ
     translation: He admits
     transliteration: yud'khilu
   9:
-    arabic: مَنۡ
+    arabic: مَن
     translation: whom
     transliteration: man
   10:
-    arabic: يَّشَآءُ
+    arabic: يَشَآءُ
     translation: He wills
     transliteration: yashāu
   11:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in (to)
     transliteration: fī
   12:
-    arabic: رَحۡمَتِهٖ​ؕ
+    arabic: رَحۡمَتِهِۦۚ
     translation: His Mercy
     transliteration: raḥmatihi
   13:
-    arabic: وَالظّٰلِمُوۡنَ
+    arabic: وَٱلظَّٰلِمُونَ
     translation: And the wrongdoers
     transliteration: wal-ẓālimūna
   14:
@@ -63,23 +62,23 @@ word_by_word:
     translation: not
     transliteration: mā
   15:
-    arabic: لَهُمۡ
+    arabic: لَهُم
     translation: for them
     transliteration: lahum
   16:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: any
     transliteration: min
   17:
-    arabic: وَّلِىٍّ
+    arabic: وَلِيّٖ
     translation: protector
     transliteration: waliyyin
   18:
-    arabic: وَّلَا
+    arabic: وَلَا
     translation: and not
     transliteration: walā
   19:
-    arabic: نَصِيۡرٍ‏
+    arabic: نَصِيرٍ
     translation: any helper
     transliteration: naṣīrin
 ---

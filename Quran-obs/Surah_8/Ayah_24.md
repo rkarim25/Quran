@@ -1,37 +1,37 @@
 ---
-arabic_ayat: يٰۤـاَيُّهَا الَّذِيۡنَ اٰمَنُوا اسۡتَجِيۡبُوۡا لِلّٰهِ وَلِلرَّسُوۡلِ
-  اِذَا دَعَاكُمۡ لِمَا يُحۡيِيۡكُمۡ​ۚ وَاعۡلَمُوۡۤا اَنَّ اللّٰهَ يَحُوۡلُ بَيۡنَ
-  الۡمَرۡءِ وَقَلۡبِهٖ وَاَنَّهٗۤ اِلَيۡهِ تُحۡشَرُوۡنَ‏
+arabic_ayat: يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُواْ ٱسۡتَجِيبُواْ لِلَّهِ وَلِلرَّسُولِ
+  إِذَا دَعَاكُمۡ لِمَا يُحۡيِيكُمۡۖ وَٱعۡلَمُوٓاْ أَنَّ ٱللَّهَ يَحُولُ بَيۡنَ ٱلۡمَرۡءِ
+  وَقَلۡبِهِۦ وَأَنَّهُۥٓ إِلَيۡهِ تُحۡشَرُونَ
 sentence_translation: O believers! Respond to Allah and His Messenger when he calls
   you to that which gives you life. And know that Allah stands between a person and
   their heart, and that to Him you will all be gathered.
 word_by_word:
   1:
-    arabic: يٰۤـاَيُّهَا
+    arabic: يَٰٓأَيُّهَا
     translation: O you
     transliteration: yāayyuhā
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ ءَ
     translation: who
     transliteration: alladhīna
   3:
-    arabic: اٰمَنُوا
+    arabic: امَنُواْ
     translation: believe
     transliteration: āmanū
   4:
-    arabic: اسۡتَجِيۡبُوۡا
+    arabic: ٱسۡتَجِيبُواْ
     translation: Respond
     transliteration: is'tajībū
   5:
-    arabic: لِلّٰهِ
+    arabic: لِلَّهِ
     translation: to Allah
     transliteration: lillahi
   6:
-    arabic: وَلِلرَّسُوۡلِ
+    arabic: وَلِلرَّسُولِ
     translation: and His Messenger
     transliteration: walilrrasūli
   7:
-    arabic: اِذَا
+    arabic: إِذَا
     translation: when
     transliteration: idhā
   8:
@@ -43,23 +43,23 @@ word_by_word:
     translation: to what
     transliteration: limā
   10:
-    arabic: يُحۡيِيۡكُمۡ​ۚ
+    arabic: يُحۡيِيكُمۡۖ
     translation: gives you life
     transliteration: yuḥ'yīkum
   11:
-    arabic: وَاعۡلَمُوۡۤا
+    arabic: وَٱعۡلَمُوٓاْ
     translation: And know
     transliteration: wa-iʿ'lamū
   12:
-    arabic: اَنَّ
+    arabic: أَنَّ
     translation: that
     transliteration: anna
   13:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   14:
-    arabic: يَحُوۡلُ
+    arabic: يَحُولُ
     translation: comes
     transliteration: yaḥūlu
   15:
@@ -67,23 +67,23 @@ word_by_word:
     translation: (in) between
     transliteration: bayna
   16:
-    arabic: الۡمَرۡءِ
+    arabic: ٱلۡمَرۡءِ
     translation: a man
     transliteration: l-mari
   17:
-    arabic: وَقَلۡبِهٖ
+    arabic: وَقَلۡبِهِۦ
     translation: and his heart
     transliteration: waqalbihi
   18:
-    arabic: وَاَنَّهٗۤ
+    arabic: وَأَنَّهُۥٓ
     translation: and that
     transliteration: wa-annahu
   19:
-    arabic: اِلَيۡهِ
+    arabic: إِلَيۡهِ
     translation: to Him
     transliteration: ilayhi
   20:
-    arabic: تُحۡشَرُوۡنَ‏
+    arabic: تُحۡشَرُونَ
     translation: you will be gathered
     transliteration: tuḥ'sharūna
 ---

@@ -1,6 +1,6 @@
 ---
-arabic_ayat: وَلَكُمۡ فِيۡهَا مَنَافِعُ وَ لِتَبۡلُغُوۡا عَلَيۡهَا حَاجَةً فِىۡ صُدُوۡرِكُمۡ
-  وَعَلَيۡهَا وَعَلَى الۡفُلۡكِ تُحۡمَلُوۡنَؕ‏
+arabic_ayat: وَلَكُمۡ فِيهَا مَنَٰفِعُ وَلِتَبۡلُغُواْ عَلَيۡهَا حَاجَةٗ فِي صُدُورِكُمۡ
+  وَعَلَيۡهَا وَعَلَى ٱلۡفُلۡكِ تُحۡمَلُونَ
 sentence_translation: Also, you find in them ˹other˺ benefits. And by means of them
   you may reach destinations you desire. And you are carried upon ˹some of˺ them and
   upon ships.
@@ -10,15 +10,15 @@ word_by_word:
     translation: And for you
     transliteration: walakum
   2:
-    arabic: فِيۡهَا
+    arabic: فِيهَا
     translation: in them
     transliteration: fīhā
   3:
-    arabic: مَنَافِعُ
+    arabic: مَنَٰفِعُ
     translation: (are) benefits
     transliteration: manāfiʿu
   4:
-    arabic: وَ لِتَبۡلُغُوۡا
+    arabic: وَلِتَبۡلُغُواْ
     translation: and that you may reach
     transliteration: walitablughū
   5:
@@ -26,15 +26,15 @@ word_by_word:
     translation: through them
     transliteration: ʿalayhā
   6:
-    arabic: حَاجَةً
+    arabic: حَاجَةٗ
     translation: a need
     transliteration: ḥājatan
   7:
-    arabic: فِىۡ
+    arabic: فِي
     translation: (that is) in
     transliteration: fī
   8:
-    arabic: صُدُوۡرِكُمۡ
+    arabic: صُدُورِكُمۡ
     translation: your breasts
     transliteration: ṣudūrikum
   9:
@@ -46,11 +46,11 @@ word_by_word:
     translation: and upon
     transliteration: waʿalā
   11:
-    arabic: الۡفُلۡكِ
+    arabic: ٱلۡفُلۡكِ
     translation: the ships
     transliteration: l-ful'ki
   12:
-    arabic: تُحۡمَلُوۡنَؕ‏
+    arabic: تُحۡمَلُونَ
     translation: you are carried
     transliteration: tuḥ'malūna
 ---

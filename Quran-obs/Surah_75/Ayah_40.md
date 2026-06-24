@@ -1,33 +1,33 @@
 ---
-arabic_ayat: اَلَيۡسَ ذٰلِكَ بِقٰدِرٍ عَلٰٓى اَنۡ يُّحۡـىِۦَ الۡمَوۡتٰى‏
+arabic_ayat: أَلَيۡسَ ذَٰلِكَ بِقَٰدِرٍ عَلَىٰٓ أَن يُحۡـِۧيَ ٱلۡمَوۡتَىٰ
 sentence_translation: Is such ˹a Creator˺ unable to bring the dead back to life?
 word_by_word:
   1:
-    arabic: اَلَيۡسَ
+    arabic: أَلَيۡسَ
     translation: Is not
     transliteration: alaysa
   2:
-    arabic: ذٰلِكَ
+    arabic: ذَٰلِكَ
     translation: '[that]'
     transliteration: dhālika
   3:
-    arabic: بِقٰدِرٍ
+    arabic: بِقَٰدِرٍ
     translation: (He) Able
     transliteration: biqādirin
   4:
-    arabic: عَلٰٓى
+    arabic: عَلَىٰٓ
     translation: '[over]'
     transliteration: ʿalā
   5:
-    arabic: اَنۡ
+    arabic: أَن
     translation: to
     transliteration: an
   6:
-    arabic: يُّحۡـىِۦَ
+    arabic: يُحۡـِۧيَ
     translation: give life
     transliteration: yuḥ'yiya
   7:
-    arabic: الۡمَوۡتٰى‏
+    arabic: ٱلۡمَوۡتَىٰ
     translation: (to) the dead
     transliteration: l-mawtā
 ---

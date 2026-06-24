@@ -1,14 +1,14 @@
 ---
-arabic_ayat: اَمِ اتَّخَذَ مِمَّا يَخۡلُقُ بَنٰتٍ وَّاَصۡفٰٮكُمۡ بِالۡبَنِيۡنَ‏
+arabic_ayat: أَمِ ٱتَّخَذَ مِمَّا يَخۡلُقُ بَنَاتٖ وَأَصۡفَىٰكُم بِٱلۡبَنِينَ
 sentence_translation: Has He taken ˹angels as His˺ daughters from what He created,
   and favoured you ˹O pagans˺ with sons?
 word_by_word:
   1:
-    arabic: اَمِ
+    arabic: أَمِ
     translation: Or
     transliteration: ami
   2:
-    arabic: اتَّخَذَ
+    arabic: ٱتَّخَذَ
     translation: has He taken
     transliteration: ittakhadha
   3:
@@ -20,15 +20,15 @@ word_by_word:
     translation: He has created
     transliteration: yakhluqu
   5:
-    arabic: بَنٰتٍ
+    arabic: بَنَاتٖ
     translation: daughters
     transliteration: banātin
   6:
-    arabic: وَّاَصۡفٰٮكُمۡ
+    arabic: وَأَصۡفَىٰكُم
     translation: and He has chosen (for) you
     transliteration: wa-aṣfākum
   7:
-    arabic: بِالۡبَنِيۡنَ‏
+    arabic: بِٱلۡبَنِينَ
     translation: sons
     transliteration: bil-banīna
 ---

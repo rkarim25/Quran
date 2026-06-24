@@ -1,6 +1,6 @@
 ---
-arabic_ayat: وَمَا يَذۡكُرُوۡنَ اِلَّاۤ اَنۡ يَّشَآءَ اللّٰهُ​ ؕ هُوَ اَهۡلُ التَّقۡوٰى
-  وَاَهۡلُ الۡمَغۡفِرَةِ‏
+arabic_ayat: وَمَا يَذۡكُرُونَ إِلَّآ أَن يَشَآءَ ٱللَّهُۚ هُوَ أَهۡلُ ٱلتَّقۡوَىٰ
+  وَأَهۡلُ ٱلۡمَغۡفِرَةِ
 sentence_translation: But they cannot do so unless Allah wills. He ˹alone˺ is worthy
   to be feared and entitled to forgive.
 word_by_word:
@@ -9,23 +9,23 @@ word_by_word:
     translation: And not
     transliteration: wamā
   2:
-    arabic: يَذۡكُرُوۡنَ
+    arabic: يَذۡكُرُونَ
     translation: will pay heed
     transliteration: yadhkurūna
   3:
-    arabic: اِلَّاۤ
+    arabic: إِلَّآ
     translation: except
     transliteration: illā
   4:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that
     transliteration: an
   5:
-    arabic: يَّشَآءَ
+    arabic: يَشَآءَ
     translation: wills
     transliteration: yashāa
   6:
-    arabic: اللّٰهُ​ ؕ
+    arabic: ٱللَّهُۚ
     translation: Allah
     transliteration: l-lahu
   7:
@@ -33,19 +33,19 @@ word_by_word:
     translation: He
     transliteration: huwa
   8:
-    arabic: اَهۡلُ
+    arabic: أَهۡلُ
     translation: (is) worthy
     transliteration: ahlu
   9:
-    arabic: التَّقۡوٰى
+    arabic: ٱلتَّقۡوَىٰ
     translation: to be feared
     transliteration: l-taqwā
   10:
-    arabic: وَاَهۡلُ
+    arabic: وَأَهۡلُ
     translation: and worthy
     transliteration: wa-ahlu
   11:
-    arabic: الۡمَغۡفِرَةِ‏
+    arabic: ٱلۡمَغۡفِرَةِ
     translation: to forgive
     transliteration: l-maghfirati
 ---

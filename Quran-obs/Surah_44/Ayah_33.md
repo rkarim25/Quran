@@ -1,9 +1,9 @@
 ---
-arabic_ayat: وَاٰتَيۡنٰهُمۡ مِّنَ الۡاٰيٰتِ مَا فِيۡهِ بَلٰٓؤٌا مُّبِيۡنٌ‏
+arabic_ayat: وَءَاتَيۡنَٰهُم مِّنَ ٱلۡأٓيَٰتِ مَا فِيهِ بَلَٰٓؤٞاْ مُّبِينٌ
 sentence_translation: And We showed them signs in which there was a clear test.
 word_by_word:
   1:
-    arabic: وَاٰتَيۡنٰهُمۡ
+    arabic: وَءَاتَيۡنَٰهُم
     translation: And We gave them
     transliteration: waātaynāhum
   2:
@@ -11,7 +11,7 @@ word_by_word:
     translation: of
     transliteration: mina
   3:
-    arabic: الۡاٰيٰتِ
+    arabic: ٱلۡأٓيَٰتِ
     translation: the Signs
     transliteration: l-āyāti
   4:
@@ -19,15 +19,15 @@ word_by_word:
     translation: that
     transliteration: mā
   5:
-    arabic: فِيۡهِ
+    arabic: فِيهِ
     translation: in it
     transliteration: fīhi
   6:
-    arabic: بَلٰٓؤٌا
+    arabic: بَلَٰٓؤٞاْ
     translation: (was) a trial
     transliteration: balāon
   7:
-    arabic: مُّبِيۡنٌ‏
+    arabic: مُّبِينٌ
     translation: clear
     transliteration: mubīnun
 ---

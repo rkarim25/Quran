@@ -1,6 +1,6 @@
 ---
-arabic_ayat: "فَلَا يَصُدَّنَّكَ عَنۡهَا مَنۡ لَّا يُؤۡمِنُ بِهَا وَاتَّبَعَ هَوٰٮهُ\
-  \ فَتَرۡدٰى‏ \uFEFF\uFEFF"
+arabic_ayat: فَلَا يَصُدَّنَّكَ عَنۡهَا مَن لَّا يُؤۡمِنُ بِهَا وَٱتَّبَعَ هَوَىٰهُ
+  فَتَرۡدَىٰ
 sentence_translation: So do not let those who disbelieve in it and follow their desires
   distract you from it, or you will be doomed.’”
 word_by_word:
@@ -17,7 +17,7 @@ word_by_word:
     translation: from it
     transliteration: ʿanhā
   4:
-    arabic: مَنۡ
+    arabic: مَن
     translation: (one) who
     transliteration: man
   5:
@@ -33,15 +33,15 @@ word_by_word:
     translation: in it
     transliteration: bihā
   8:
-    arabic: وَاتَّبَعَ
+    arabic: وَٱتَّبَعَ
     translation: and follows
     transliteration: wa-ittabaʿa
   9:
-    arabic: هَوٰٮهُ
+    arabic: هَوَىٰهُ
     translation: his desires
     transliteration: hawāhu
   10:
-    arabic: "فَتَرۡدٰى‏ \uFEFF\uFEFF"
+    arabic: فَتَرۡدَىٰ
     translation: lest you perish
     transliteration: fatardā
 ---

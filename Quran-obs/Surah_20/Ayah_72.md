@@ -1,17 +1,16 @@
 ---
-arabic_ayat: قَالُوۡا لَنۡ نُّؤۡثِرَكَ عَلٰى مَا جَآءَنَا مِنَ الۡبَيِّنٰتِ وَالَّذِىۡ
-  فَطَرَنَا​ فَاقۡضِ مَاۤ اَنۡتَ قَاضٍ​ ؕ اِنَّمَا تَقۡضِىۡ هٰذِهِ الۡحَيٰوةَ الدُّنۡيَا
-  ؕ‏
+arabic_ayat: قَالُواْ لَن نُّؤۡثِرَكَ عَلَىٰ مَا جَآءَنَا مِنَ ٱلۡبَيِّنَٰتِ وَٱلَّذِي
+  فَطَرَنَاۖ فَٱقۡضِ مَآ أَنتَ قَاضٍۖ إِنَّمَا تَقۡضِي هَٰذِهِ ٱلۡحَيَوٰةَ ٱلدُّنۡيَآ
 sentence_translation: They responded, “By the One Who created us! We will never prefer
   you over the clear proofs that have come to us. So do whatever you want! Your authority
   only covers the ˹fleeting˺ life of this world.
 word_by_word:
   1:
-    arabic: قَالُوۡا
+    arabic: قَالُواْ
     translation: They said
     transliteration: qālū
   2:
-    arabic: لَنۡ
+    arabic: لَن
     translation: Never
     transliteration: lan
   3:
@@ -19,7 +18,7 @@ word_by_word:
     translation: we will prefer you
     transliteration: nu'thiraka
   4:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: over
     transliteration: ʿalā
   5:
@@ -35,51 +34,51 @@ word_by_word:
     translation: of
     transliteration: mina
   8:
-    arabic: الۡبَيِّنٰتِ
+    arabic: ٱلۡبَيِّنَٰتِ
     translation: the clear proofs
     transliteration: l-bayināti
   9:
-    arabic: وَالَّذِىۡ
+    arabic: وَٱلَّذِي
     translation: and the One Who
     transliteration: wa-alladhī
   10:
-    arabic: فَطَرَنَا​
+    arabic: فَطَرَنَاۖ
     translation: created us
     transliteration: faṭaranā
   11:
-    arabic: فَاقۡضِ
+    arabic: فَٱقۡضِ
     translation: So decree
     transliteration: fa-iq'ḍi
   12:
-    arabic: مَاۤ
+    arabic: مَآ
     translation: whatever
     transliteration: mā
   13:
-    arabic: اَنۡتَ
+    arabic: أَنتَ
     translation: you
     transliteration: anta
   14:
-    arabic: قَاضٍ​ ؕ
+    arabic: قَاضٍۖ
     translation: (are) decreeing
     transliteration: qāḍin
   15:
-    arabic: اِنَّمَا
+    arabic: إِنَّمَا
     translation: Only
     transliteration: innamā
   16:
-    arabic: تَقۡضِىۡ
+    arabic: تَقۡضِي
     translation: you can decree
     transliteration: taqḍī
   17:
-    arabic: هٰذِهِ
+    arabic: هَٰذِهِ
     translation: (for) this
     transliteration: hādhihi
   18:
-    arabic: الۡحَيٰوةَ
+    arabic: ٱلۡحَيَوٰةَ
     translation: life
     transliteration: l-ḥayata
   19:
-    arabic: الدُّنۡيَا ؕ‏
+    arabic: ٱلدُّنۡيَآ
     translation: (of) the world
     transliteration: l-dun'yā
 ---

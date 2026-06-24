@@ -1,17 +1,17 @@
 ---
-arabic_ayat: اِنَّ لِلۡمُتَّقِيۡنَ مَفَازًا ۙ‏
+arabic_ayat: إِنَّ لِلۡمُتَّقِينَ مَفَازًا
 sentence_translation: Indeed, the righteous will have salvation—
 word_by_word:
   1:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   2:
-    arabic: لِلۡمُتَّقِيۡنَ
+    arabic: لِلۡمُتَّقِينَ
     translation: for the righteous
     transliteration: lil'muttaqīna
   3:
-    arabic: مَفَازًا ۙ‏
+    arabic: مَفَازًا
     translation: (is) success
     transliteration: mafāzan
 ---

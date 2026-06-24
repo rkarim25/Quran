@@ -1,5 +1,5 @@
 ---
-arabic_ayat: خَلَقَ الۡاِنۡسَانَ مِنۡ عَلَقٍ​ۚ‏
+arabic_ayat: خَلَقَ ٱلۡإِنسَٰنَ مِنۡ عَلَقٍ
 sentence_translation: created humans from a clinging clot.
 word_by_word:
   1:
@@ -7,7 +7,7 @@ word_by_word:
     translation: He created
     transliteration: khalaqa
   2:
-    arabic: الۡاِنۡسَانَ
+    arabic: ٱلۡإِنسَٰنَ
     translation: man
     transliteration: l-insāna
   3:
@@ -15,7 +15,7 @@ word_by_word:
     translation: from
     transliteration: min
   4:
-    arabic: عَلَقٍ​ۚ‏
+    arabic: عَلَقٍ
     translation: a clinging substance
     transliteration: ʿalaqin
 ---

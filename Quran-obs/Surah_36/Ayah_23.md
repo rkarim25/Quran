@@ -1,40 +1,40 @@
 ---
-arabic_ayat: ءَاَ تَّخِذُ مِنۡ دُوۡنِهٖۤ اٰلِهَةً اِنۡ يُّرِدۡنِ الرَّحۡمٰنُ بِضُرٍّ
-  لَّا تُغۡنِ عَنِّىۡ شَفَاعَتُهُمۡ شَيۡـــًٔا وَّلَا يُنۡقِذُوۡنِ​ۚ‏
+arabic_ayat: ءَأَتَّخِذُ مِن دُونِهِۦٓ ءَالِهَةً إِن يُرِدۡنِ ٱلرَّحۡمَٰنُ بِضُرّٖ
+  لَّا تُغۡنِ عَنِّي شَفَٰعَتُهُمۡ شَيۡـٔٗا وَلَا يُنقِذُونِ
 sentence_translation: How could I take besides Him other gods whose intercession would
   not be of any benefit to me, nor could they save me if the Most Compassionate intended
   to harm me?
 word_by_word:
   1:
-    arabic: ءَاَ تَّخِذُ
+    arabic: ءَأَتَّخِذُ
     translation: Should I take
     transliteration: a-attakhidhu
   2:
-    arabic: مِنۡ
+    arabic: مِن
     translation: besides Him
     transliteration: min
   3:
-    arabic: دُوۡنِهٖۤ
+    arabic: دُونِهِۦٓ ءَ
     translation: besides Him
     transliteration: dūnihi
   4:
-    arabic: اٰلِهَةً
+    arabic: الِهَةً
     translation: gods
     transliteration: ālihatan
   5:
-    arabic: اِنۡ
+    arabic: إِن
     translation: If
     transliteration: in
   6:
-    arabic: يُّرِدۡنِ
+    arabic: يُرِدۡنِ
     translation: intends for me
     transliteration: yurid'ni
   7:
-    arabic: الرَّحۡمٰنُ
+    arabic: ٱلرَّحۡمَٰنُ
     translation: the Most Gracious
     transliteration: l-raḥmānu
   8:
-    arabic: بِضُرٍّ
+    arabic: بِضُرّٖ
     translation: any harm
     transliteration: biḍurrin
   9:
@@ -46,23 +46,23 @@ word_by_word:
     translation: will avail
     transliteration: tugh'ni
   11:
-    arabic: عَنِّىۡ
+    arabic: عَنِّي
     translation: '[from] me'
     transliteration: ʿannī
   12:
-    arabic: شَفَاعَتُهُمۡ
+    arabic: شَفَٰعَتُهُمۡ
     translation: their intercession
     transliteration: shafāʿatuhum
   13:
-    arabic: شَيۡـــًٔا
+    arabic: شَيۡـٔٗا
     translation: (in) anything
     transliteration: shayan
   14:
-    arabic: وَّلَا
+    arabic: وَلَا
     translation: and not
     transliteration: walā
   15:
-    arabic: يُنۡقِذُوۡنِ​ۚ‏
+    arabic: يُنقِذُونِ
     translation: they (can) save me
     transliteration: yunqidhūni
 ---

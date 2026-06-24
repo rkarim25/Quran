@@ -1,5 +1,5 @@
 ---
-arabic_ayat: فَوَرَبِّكَ لَـنَسۡــَٔلَـنَّهُمۡ اَجۡمَعِيۡنَۙ‏
+arabic_ayat: فَوَرَبِّكَ لَنَسۡـَٔلَنَّهُمۡ أَجۡمَعِينَ
 sentence_translation: So by your Lord! We will certainly question them all
 word_by_word:
   1:
@@ -7,11 +7,11 @@ word_by_word:
     translation: So by your Lord
     transliteration: fawarabbika
   2:
-    arabic: لَـنَسۡــَٔلَـنَّهُمۡ
+    arabic: لَنَسۡـَٔلَنَّهُمۡ
     translation: surely We will question them
     transliteration: lanasalannahum
   3:
-    arabic: اَجۡمَعِيۡنَۙ‏
+    arabic: أَجۡمَعِينَ
     translation: all
     transliteration: ajmaʿīna
 ---

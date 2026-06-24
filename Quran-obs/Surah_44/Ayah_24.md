@@ -1,30 +1,30 @@
 ---
-arabic_ayat: وَاتۡرُكِ الۡبَحۡرَ رَهۡوًا​ؕ اِنَّهُمۡ جُنۡدٌ مُّغۡرَقُوۡنَ‏
+arabic_ayat: وَٱتۡرُكِ ٱلۡبَحۡرَ رَهۡوًاۖ إِنَّهُمۡ جُندٞ مُّغۡرَقُونَ
 sentence_translation: And leave the sea parted, for they are certainly an army bound
   to drown.”
 word_by_word:
   1:
-    arabic: وَاتۡرُكِ
+    arabic: وَٱتۡرُكِ
     translation: And leave
     transliteration: wa-ut'ruki
   2:
-    arabic: الۡبَحۡرَ
+    arabic: ٱلۡبَحۡرَ
     translation: the sea
     transliteration: l-baḥra
   3:
-    arabic: رَهۡوًا​ؕ
+    arabic: رَهۡوًاۖ
     translation: at rest
     transliteration: rahwan
   4:
-    arabic: اِنَّهُمۡ
+    arabic: إِنَّهُمۡ
     translation: Indeed, they
     transliteration: innahum
   5:
-    arabic: جُنۡدٌ
+    arabic: جُندٞ
     translation: (are) an army
     transliteration: jundun
   6:
-    arabic: مُّغۡرَقُوۡنَ‏
+    arabic: مُّغۡرَقُونَ
     translation: (to be) drowned
     transliteration: mugh'raqūna
 ---

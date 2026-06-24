@@ -1,15 +1,15 @@
 ---
-arabic_ayat: فَكَاَيِّنۡ مِّنۡ قَرۡيَةٍ اَهۡلَكۡنٰهَا وَهِىَ ظَالِمَةٌ فَهِىَ خَاوِيَةٌ
-  عَلٰى عُرُوۡشِهَا وَبِئۡرٍ مُّعَطَّلَةٍ وَّقَصۡرٍ مَّشِيۡدٍ‏
+arabic_ayat: فَكَأَيِّن مِّن قَرۡيَةٍ أَهۡلَكۡنَٰهَا وَهِيَ ظَالِمَةٞ فَهِيَ خَاوِيَةٌ
+  عَلَىٰ عُرُوشِهَا وَبِئۡرٖ مُّعَطَّلَةٖ وَقَصۡرٖ مَّشِيدٍ
 sentence_translation: Many are the societies We have destroyed for persisting in wrongdoing,
   leaving them in total ruin. ˹Many are˺ also the abandoned wells and lofty palaces!
 word_by_word:
   1:
-    arabic: فَكَاَيِّنۡ
+    arabic: فَكَأَيِّن
     translation: And how many
     transliteration: faka-ayyin
   2:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: of
     transliteration: min
   3:
@@ -17,19 +17,19 @@ word_by_word:
     translation: a township
     transliteration: qaryatin
   4:
-    arabic: اَهۡلَكۡنٰهَا
+    arabic: أَهۡلَكۡنَٰهَا
     translation: We have destroyed it
     transliteration: ahlaknāhā
   5:
-    arabic: وَهِىَ
+    arabic: وَهِيَ
     translation: while it
     transliteration: wahiya
   6:
-    arabic: ظَالِمَةٌ
+    arabic: ظَالِمَةٞ
     translation: was doing wrong
     transliteration: ẓālimatun
   7:
-    arabic: فَهِىَ
+    arabic: فَهِيَ
     translation: so it
     transliteration: fahiya
   8:
@@ -37,27 +37,27 @@ word_by_word:
     translation: fell
     transliteration: khāwiyatun
   9:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: 'on'
     transliteration: ʿalā
   10:
-    arabic: عُرُوۡشِهَا
+    arabic: عُرُوشِهَا
     translation: its roofs
     transliteration: ʿurūshihā
   11:
-    arabic: وَبِئۡرٍ
+    arabic: وَبِئۡرٖ
     translation: and well
     transliteration: wabi'rin
   12:
-    arabic: مُّعَطَّلَةٍ
+    arabic: مُّعَطَّلَةٖ
     translation: abandoned
     transliteration: muʿaṭṭalatin
   13:
-    arabic: وَّقَصۡرٍ
+    arabic: وَقَصۡرٖ
     translation: and castle
     transliteration: waqaṣrin
   14:
-    arabic: مَّشِيۡدٍ‏
+    arabic: مَّشِيدٍ
     translation: lofty
     transliteration: mashīdin
 ---

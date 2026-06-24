@@ -1,43 +1,43 @@
 ---
-arabic_ayat: الَّذِيۡنَ تَتَوَفّٰٮهُمُ الۡمَلٰۤٮِٕكَةُ طَيِّبِيۡنَ​ ۙ يَقُوۡلُوۡنَ
-  سَلٰمٌ عَلَيۡكُمُۙ ادۡخُلُوا الۡجَـنَّةَ بِمَا كُنۡتُمۡ تَعۡمَلُوۡنَ‏
+arabic_ayat: ٱلَّذِينَ تَتَوَفَّىٰهُمُ ٱلۡمَلَٰٓئِكَةُ طَيِّبِينَ يَقُولُونَ سَلَٰمٌ
+  عَلَيۡكُمُ ٱدۡخُلُواْ ٱلۡجَنَّةَ بِمَا كُنتُمۡ تَعۡمَلُونَ
 sentence_translation: those whose souls the angels take while they are virtuous, saying
   ˹to them˺, “Peace be upon you! Enter Paradise for what you used to do.”
 word_by_word:
   1:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: Those whom
     transliteration: alladhīna
   2:
-    arabic: تَتَوَفّٰٮهُمُ
+    arabic: تَتَوَفَّىٰهُمُ
     translation: take them in death
     transliteration: tatawaffāhumu
   3:
-    arabic: الۡمَلٰۤٮِٕكَةُ
+    arabic: ٱلۡمَلَٰٓئِكَةُ
     translation: the Angels
     transliteration: l-malāikatu
   4:
-    arabic: طَيِّبِيۡنَ​ ۙ
+    arabic: طَيِّبِينَ
     translation: (when they are) pure
     transliteration: ṭayyibīna
   5:
-    arabic: يَقُوۡلُوۡنَ
+    arabic: يَقُولُونَ
     translation: saying
     transliteration: yaqūlūna
   6:
-    arabic: سَلٰمٌ
+    arabic: سَلَٰمٌ
     translation: Peace
     transliteration: salāmun
   7:
-    arabic: عَلَيۡكُمُۙ
+    arabic: عَلَيۡكُمُ
     translation: (be) upon you
     transliteration: ʿalaykumu
   8:
-    arabic: ادۡخُلُوا
+    arabic: ٱدۡخُلُواْ
     translation: Enter
     transliteration: ud'khulū
   9:
-    arabic: الۡجَـنَّةَ
+    arabic: ٱلۡجَنَّةَ
     translation: Paradise
     transliteration: l-janata
   10:
@@ -45,11 +45,11 @@ word_by_word:
     translation: for what
     transliteration: bimā
   11:
-    arabic: كُنۡتُمۡ
+    arabic: كُنتُمۡ
     translation: you used (to)
     transliteration: kuntum
   12:
-    arabic: تَعۡمَلُوۡنَ‏
+    arabic: تَعۡمَلُونَ
     translation: do
     transliteration: taʿmalūna
 ---

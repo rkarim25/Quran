@@ -1,9 +1,9 @@
 ---
-arabic_ayat: وَاَنۡۢبَتۡنَا عَلَيۡهِ شَجَرَةً مِّنۡ يَّقۡطِيۡنٍ​ۚ‏
+arabic_ayat: وَأَنۢبَتۡنَا عَلَيۡهِ شَجَرَةٗ مِّن يَقۡطِينٖ
 sentence_translation: and caused a squash plant to grow over him.
 word_by_word:
   1:
-    arabic: وَاَنۡۢبَتۡنَا
+    arabic: وَأَنۢبَتۡنَا
     translation: And We caused to grow
     transliteration: wa-anbatnā
   2:
@@ -11,15 +11,15 @@ word_by_word:
     translation: over him
     transliteration: ʿalayhi
   3:
-    arabic: شَجَرَةً
+    arabic: شَجَرَةٗ
     translation: a plant
     transliteration: shajaratan
   4:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: of
     transliteration: min
   5:
-    arabic: يَّقۡطِيۡنٍ​ۚ‏
+    arabic: يَقۡطِينٖ
     translation: gourd
     transliteration: yaqṭīnin
 ---

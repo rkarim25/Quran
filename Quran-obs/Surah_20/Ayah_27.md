@@ -1,21 +1,21 @@
 ---
-arabic_ayat: وَاحۡلُلۡ عُقۡدَةً مِّنۡ لِّسَانِیْ ۙ‏
+arabic_ayat: وَٱحۡلُلۡ عُقۡدَةٗ مِّن لِّسَانِي
 sentence_translation: and remove the impediment from my tongue
 word_by_word:
   1:
-    arabic: وَاحۡلُلۡ
+    arabic: وَٱحۡلُلۡ
     translation: And untie
     transliteration: wa-uḥ'lul
   2:
-    arabic: عُقۡدَةً
+    arabic: عُقۡدَةٗ
     translation: (the) knot
     transliteration: ʿuq'datan
   3:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: from
     transliteration: min
   4:
-    arabic: لِّسَانِیْ ۙ‏
+    arabic: لِّسَانِي
     translation: my tongue
     transliteration: lisānī
 ---

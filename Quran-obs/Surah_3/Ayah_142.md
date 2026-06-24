@@ -1,11 +1,11 @@
 ---
-arabic_ayat: اَمۡ حَسِبۡتُمۡ اَنۡ تَدۡخُلُوا الۡجَـنَّةَ وَلَمَّا يَعۡلَمِ اللّٰهُ
-  الَّذِيۡنَ جَاهَدُوۡا مِنۡكُمۡ وَيَعۡلَمَ الصّٰبِرِيۡنَ‏
+arabic_ayat: أَمۡ حَسِبۡتُمۡ أَن تَدۡخُلُواْ ٱلۡجَنَّةَ وَلَمَّا يَعۡلَمِ ٱللَّهُ
+  ٱلَّذِينَ جَٰهَدُواْ مِنكُمۡ وَيَعۡلَمَ ٱلصَّٰبِرِينَ
 sentence_translation: Do you think you will enter Paradise without Allah proving which
   of you ˹truly˺ struggled ˹for His cause˺ and patiently endured?
 word_by_word:
   1:
-    arabic: اَمۡ
+    arabic: أَمۡ
     translation: Or
     transliteration: am
   2:
@@ -13,15 +13,15 @@ word_by_word:
     translation: do you think
     transliteration: ḥasib'tum
   3:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that
     transliteration: an
   4:
-    arabic: تَدۡخُلُوا
+    arabic: تَدۡخُلُواْ
     translation: you will enter
     transliteration: tadkhulū
   5:
-    arabic: الۡجَـنَّةَ
+    arabic: ٱلۡجَنَّةَ
     translation: Paradise
     transliteration: l-janata
   6:
@@ -33,19 +33,19 @@ word_by_word:
     translation: made evident
     transliteration: yaʿlami
   8:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   9:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   10:
-    arabic: جَاهَدُوۡا
+    arabic: جَٰهَدُواْ
     translation: strove hard
     transliteration: jāhadū
   11:
-    arabic: مِنۡكُمۡ
+    arabic: مِنكُمۡ
     translation: among you
     transliteration: minkum
   12:
@@ -53,7 +53,7 @@ word_by_word:
     translation: and made evident
     transliteration: wayaʿlama
   13:
-    arabic: الصّٰبِرِيۡنَ‏
+    arabic: ٱلصَّٰبِرِينَ
     translation: the steadfast
     transliteration: l-ṣābirīna
 ---

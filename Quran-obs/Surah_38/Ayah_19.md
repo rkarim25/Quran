@@ -1,26 +1,26 @@
 ---
-arabic_ayat: وَالطَّيۡرَ مَحۡشُوۡرَةً ؕ كُلٌّ لَّـهٗۤ اَوَّابٌ‏
+arabic_ayat: وَٱلطَّيۡرَ مَحۡشُورَةٗۖ كُلّٞ لَّهُۥٓ أَوَّابٞ
 sentence_translation: And ˹We subjected˺ the birds, flocking together. All turned
   to him ˹echoing his hymns˺.
 word_by_word:
   1:
-    arabic: وَالطَّيۡرَ
+    arabic: وَٱلطَّيۡرَ
     translation: And the birds
     transliteration: wal-ṭayra
   2:
-    arabic: مَحۡشُوۡرَةً ؕ
+    arabic: مَحۡشُورَةٗۖ
     translation: assembled
     transliteration: maḥshūratan
   3:
-    arabic: كُلٌّ
+    arabic: كُلّٞ
     translation: all
     transliteration: kullun
   4:
-    arabic: لَّـهٗۤ
+    arabic: لَّهُۥٓ
     translation: with him
     transliteration: lahu
   5:
-    arabic: اَوَّابٌ‏
+    arabic: أَوَّابٞ
     translation: repeatedly turning
     transliteration: awwābun
 ---

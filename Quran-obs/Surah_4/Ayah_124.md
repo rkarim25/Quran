@@ -1,16 +1,16 @@
 ---
-arabic_ayat: وَمَنۡ يَّعۡمَلۡ مِنَ الصّٰلِحٰتِ مِنۡ ذَكَرٍ اَوۡ اُنۡثٰى وَهُوَ مُؤۡمِنٌ
-  فَاُولٰٓٮِٕكَ يَدۡخُلُوۡنَ الۡجَـنَّةَ وَلَا يُظۡلَمُوۡنَ نَقِيۡرًا‏
+arabic_ayat: وَمَن يَعۡمَلۡ مِنَ ٱلصَّٰلِحَٰتِ مِن ذَكَرٍ أَوۡ أُنثَىٰ وَهُوَ مُؤۡمِنٞ
+  فَأُوْلَٰٓئِكَ يَدۡخُلُونَ ٱلۡجَنَّةَ وَلَا يُظۡلَمُونَ نَقِيرٗا
 sentence_translation: But those who do good—whether male or female—and have faith
   will enter Paradise and will never be wronged ˹even as much as˺ the speck on a date
   stone.
 word_by_word:
   1:
-    arabic: وَمَنۡ
+    arabic: وَمَن
     translation: And whoever
     transliteration: waman
   2:
-    arabic: يَّعۡمَلۡ
+    arabic: يَعۡمَلۡ
     translation: does
     transliteration: yaʿmal
   3:
@@ -18,11 +18,11 @@ word_by_word:
     translation: '[of]'
     transliteration: mina
   4:
-    arabic: الصّٰلِحٰتِ
+    arabic: ٱلصَّٰلِحَٰتِ
     translation: '[the] righteous deeds'
     transliteration: l-ṣāliḥāti
   5:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   6:
@@ -30,11 +30,11 @@ word_by_word:
     translation: (the) male
     transliteration: dhakarin
   7:
-    arabic: اَوۡ
+    arabic: أَوۡ
     translation: or
     transliteration: aw
   8:
-    arabic: اُنۡثٰى
+    arabic: أُنثَىٰ
     translation: female
     transliteration: unthā
   9:
@@ -42,19 +42,19 @@ word_by_word:
     translation: and he
     transliteration: wahuwa
   10:
-    arabic: مُؤۡمِنٌ
+    arabic: مُؤۡمِنٞ
     translation: (is) a believer
     transliteration: mu'minun
   11:
-    arabic: فَاُولٰٓٮِٕكَ
+    arabic: فَأُوْلَٰٓئِكَ
     translation: then those
     transliteration: fa-ulāika
   12:
-    arabic: يَدۡخُلُوۡنَ
+    arabic: يَدۡخُلُونَ
     translation: will enter
     transliteration: yadkhulūna
   13:
-    arabic: الۡجَـنَّةَ
+    arabic: ٱلۡجَنَّةَ
     translation: Paradise
     transliteration: l-janata
   14:
@@ -62,11 +62,11 @@ word_by_word:
     translation: and not
     transliteration: walā
   15:
-    arabic: يُظۡلَمُوۡنَ
+    arabic: يُظۡلَمُونَ
     translation: they will be wronged
     transliteration: yuẓ'lamūna
   16:
-    arabic: نَقِيۡرًا‏
+    arabic: نَقِيرٗا
     translation: (even as much as) the speck on a date-seed
     transliteration: naqīran
 ---

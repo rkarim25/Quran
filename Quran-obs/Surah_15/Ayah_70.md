@@ -1,17 +1,17 @@
 ---
-arabic_ayat: قَالُـوۡۤا اَوَلَمۡ نَـنۡهَكَ عَنِ الۡعٰلَمِيۡنَ‏
+arabic_ayat: قَالُوٓاْ أَوَلَمۡ نَنۡهَكَ عَنِ ٱلۡعَٰلَمِينَ
 sentence_translation: They responded, “Have we not forbidden you from protecting anyone?”
 word_by_word:
   1:
-    arabic: قَالُـوۡۤا
+    arabic: قَالُوٓاْ
     translation: They said
     transliteration: qālū
   2:
-    arabic: اَوَلَمۡ
+    arabic: أَوَلَمۡ
     translation: Did not
     transliteration: awalam
   3:
-    arabic: نَـنۡهَكَ
+    arabic: نَنۡهَكَ
     translation: we forbid you
     transliteration: nanhaka
   4:
@@ -19,7 +19,7 @@ word_by_word:
     translation: from
     transliteration: ʿani
   5:
-    arabic: الۡعٰلَمِيۡنَ‏
+    arabic: ٱلۡعَٰلَمِينَ
     translation: the world
     transliteration: l-ʿālamīna
 ---

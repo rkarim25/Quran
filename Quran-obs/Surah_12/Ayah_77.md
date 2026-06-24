@@ -1,22 +1,22 @@
 ---
-arabic_ayat: قَالُوۡۤا اِنۡ يَّسۡرِقۡ فَقَدۡ سَرَقَ اَخٌ لَّهٗ مِنۡ قَبۡلُ​ ۚ فَاَسَرَّهَا
-  يُوۡسُفُ فِىۡ نَفۡسِهٖ وَلَمۡ يُبۡدِهَا لَهُمۡ​ ۚ قَالَ اَنۡـتُمۡ شَرٌّ مَّكَانًا
-  ​ۚ وَاللّٰهُ اَعۡلَمُ بِمَا تَصِفُوۡنَ‏
+arabic_ayat: ۞ قَالُوٓاْ إِن يَسۡرِقۡ فَقَدۡ سَرَقَ أَخٞ لَّهُۥ مِن قَبۡلُۚ فَأَسَرَّهَا
+  يُوسُفُ فِي نَفۡسِهِۦ وَلَمۡ يُبۡدِهَا لَهُمۡۚ قَالَ أَنتُمۡ شَرّٞ مَّكَانٗاۖ وَٱللَّهُ
+  أَعۡلَمُ بِمَا تَصِفُونَ
 sentence_translation: ˹To distance themselves,˺ Joseph’s brothers argued, “If he has
   stolen, so did his ˹full˺ brother before.” But Joseph suppressed his outrage—revealing
   nothing to them—and said ˹to himself˺, “You are in such an evil position, and Allah
   knows best ˹the truth of˺ what you claim.”
 word_by_word:
   1:
-    arabic: ۞ قَالُوۡۤا
+    arabic: ۞ قَالُوٓاْ
     translation: They said
     transliteration: qālū
   2:
-    arabic: اِنۡ
+    arabic: إِن
     translation: If
     transliteration: in
   3:
-    arabic: يَّسۡرِقۡ
+    arabic: يَسۡرِقۡ
     translation: 'he steals '
     transliteration: yasriq
   4:
@@ -28,35 +28,35 @@ word_by_word:
     translation: stole
     transliteration: saraqa
   6:
-    arabic: اَخٌ
+    arabic: أَخٞ
     translation: a brother
     transliteration: akhun
   7:
-    arabic: لَّهٗ
+    arabic: لَّهُۥ
     translation: of his
     transliteration: lahu
   8:
-    arabic: مِنۡ
+    arabic: مِن
     translation: before
     transliteration: min
   9:
-    arabic: قَبۡلُ​ ۚ
+    arabic: قَبۡلُۚ
     translation: before
     transliteration: qablu
   10:
-    arabic: فَاَسَرَّهَا
+    arabic: فَأَسَرَّهَا
     translation: But Yusuf kept it secret
     transliteration: fa-asarrahā
   11:
-    arabic: يُوۡسُفُ
+    arabic: يُوسُفُ
     translation: But Yusuf kept it secret
     transliteration: yūsufu
   12:
-    arabic: فِىۡ
+    arabic: فِي
     translation: within
     transliteration: fī
   13:
-    arabic: نَفۡسِهٖ
+    arabic: نَفۡسِهِۦ
     translation: himself
     transliteration: nafsihi
   14:
@@ -68,7 +68,7 @@ word_by_word:
     translation: reveal it
     transliteration: yub'dihā
   16:
-    arabic: لَهُمۡ​ ۚ
+    arabic: لَهُمۡۚ
     translation: to them
     transliteration: lahum
   17:
@@ -76,23 +76,23 @@ word_by_word:
     translation: He said
     transliteration: qāla
   18:
-    arabic: اَنۡـتُمۡ
+    arabic: أَنتُمۡ
     translation: You
     transliteration: antum
   19:
-    arabic: شَرٌّ
+    arabic: شَرّٞ
     translation: (are the) worse
     transliteration: sharrun
   20:
-    arabic: مَّكَانًا ​ۚ
+    arabic: مَّكَانٗاۖ
     translation: (in) position
     transliteration: makānan
   21:
-    arabic: وَاللّٰهُ
+    arabic: وَٱللَّهُ
     translation: and Allah
     transliteration: wal-lahu
   22:
-    arabic: اَعۡلَمُ
+    arabic: أَعۡلَمُ
     translation: knows best
     transliteration: aʿlamu
   23:
@@ -100,7 +100,7 @@ word_by_word:
     translation: of what
     transliteration: bimā
   24:
-    arabic: تَصِفُوۡنَ‏
+    arabic: تَصِفُونَ
     translation: you describe
     transliteration: taṣifūna
 ---

@@ -1,35 +1,34 @@
 ---
-arabic_ayat: "اَفَلَا يَتَدَبَّرُوۡنَ الۡقُرۡاٰنَ اَمۡ عَلٰى قُلُوۡبٍ اَ قۡفَالُهَا‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: أَفَلَا يَتَدَبَّرُونَ ٱلۡقُرۡءَانَ أَمۡ عَلَىٰ قُلُوبٍ أَقۡفَالُهَآ
 sentence_translation: Do they not then reflect on the Quran? Or are there locks upon
   their hearts?
 word_by_word:
   1:
-    arabic: اَفَلَا
+    arabic: أَفَلَا
     translation: Then do not
     transliteration: afalā
   2:
-    arabic: يَتَدَبَّرُوۡنَ
+    arabic: يَتَدَبَّرُونَ
     translation: they ponder
     transliteration: yatadabbarūna
   3:
-    arabic: الۡقُرۡاٰنَ
+    arabic: ٱلۡقُرۡءَانَ
     translation: (over) the Quran
     transliteration: l-qur'āna
   4:
-    arabic: اَمۡ
+    arabic: أَمۡ
     translation: or
     transliteration: am
   5:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: upon
     transliteration: ʿalā
   6:
-    arabic: قُلُوۡبٍ
+    arabic: قُلُوبٍ
     translation: (their) hearts
     transliteration: qulūbin
   7:
-    arabic: "اَ قۡفَالُهَا‏ \uFEFF\uFEFF"
+    arabic: أَقۡفَالُهَآ
     translation: (are) locks
     transliteration: aqfāluhā
 ---

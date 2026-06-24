@@ -1,23 +1,23 @@
 ---
-arabic_ayat: قُوۡلُوۡٓا اٰمَنَّا بِاللّٰهِ وَمَآ اُنۡزِلَ اِلَيۡنَا وَمَآ اُنۡزِلَ
-  اِلٰٓى اِبۡرٰهٖمَ وَاِسۡمٰعِيۡلَ وَاِسۡحٰقَ وَيَعۡقُوۡبَ وَ الۡاَسۡبَاطِ وَمَآ
-  اُوۡتِىَ مُوۡسٰى وَعِيۡسٰى وَمَآ اُوۡتِىَ النَّبِيُّوۡنَ مِنۡ رَّبِّهِمۡ​ۚ لَا
-  نُفَرِّقُ بَيۡنَ اَحَدٍ مِّنۡهُمۡ وَنَحۡنُ لَهٗ مُسۡلِمُوۡنَ‏
+arabic_ayat: قُولُوٓاْ ءَامَنَّا بِٱللَّهِ وَمَآ أُنزِلَ إِلَيۡنَا وَمَآ أُنزِلَ
+  إِلَىٰٓ إِبۡرَٰهِـۧمَ وَإِسۡمَٰعِيلَ وَإِسۡحَٰقَ وَيَعۡقُوبَ وَٱلۡأَسۡبَاطِ وَمَآ
+  أُوتِيَ مُوسَىٰ وَعِيسَىٰ وَمَآ أُوتِيَ ٱلنَّبِيُّونَ مِن رَّبِّهِمۡ لَا نُفَرِّقُ
+  بَيۡنَ أَحَدٖ مِّنۡهُمۡ وَنَحۡنُ لَهُۥ مُسۡلِمُونَ
 sentence_translation: Say, ˹O believers,˺ “We believe in Allah and what has been revealed
   to us; and what was revealed to Abraham, Ishmael, Isaac, Jacob, and his descendants;
   and what was given to Moses, Jesus, and other prophets from their Lord. We make
   no distinction between any of them. And to Allah we all submit.”
 word_by_word:
   1:
-    arabic: قُوۡلُوۡٓا
+    arabic: قُولُوٓاْ ءَ
     translation: Say
     transliteration: qūlū
   2:
-    arabic: اٰمَنَّا
+    arabic: امَنَّا
     translation: We have believed
     transliteration: āmannā
   3:
-    arabic: بِاللّٰهِ
+    arabic: بِٱللَّهِ
     translation: in Allah
     transliteration: bil-lahi
   4:
@@ -25,11 +25,11 @@ word_by_word:
     translation: and what
     transliteration: wamā
   5:
-    arabic: اُنۡزِلَ
+    arabic: أُنزِلَ
     translation: (is) revealed
     transliteration: unzila
   6:
-    arabic: اِلَيۡنَا
+    arabic: إِلَيۡنَا
     translation: to us
     transliteration: ilaynā
   7:
@@ -37,31 +37,31 @@ word_by_word:
     translation: and what
     transliteration: wamā
   8:
-    arabic: اُنۡزِلَ
+    arabic: أُنزِلَ
     translation: was revealed
     transliteration: unzila
   9:
-    arabic: اِلٰٓى
+    arabic: إِلَىٰٓ
     translation: to
     transliteration: ilā
   10:
-    arabic: اِبۡرٰهٖمَ
+    arabic: إِبۡرَٰهِـۧمَ
     translation: Ibrahim
     transliteration: ib'rāhīma
   11:
-    arabic: وَاِسۡمٰعِيۡلَ
+    arabic: وَإِسۡمَٰعِيلَ
     translation: and Ishmael
     transliteration: wa-is'māʿīla
   12:
-    arabic: وَاِسۡحٰقَ
+    arabic: وَإِسۡحَٰقَ
     translation: and Isaac
     transliteration: wa-is'ḥāqa
   13:
-    arabic: وَيَعۡقُوۡبَ
+    arabic: وَيَعۡقُوبَ
     translation: and Yaqub
     transliteration: wayaʿqūba
   14:
-    arabic: وَ الۡاَسۡبَاطِ
+    arabic: وَٱلۡأَسۡبَاطِ
     translation: and the descendants
     transliteration: wal-asbāṭi
   15:
@@ -69,15 +69,15 @@ word_by_word:
     translation: and what
     transliteration: wamā
   16:
-    arabic: اُوۡتِىَ
+    arabic: أُوتِيَ
     translation: was given
     transliteration: ūtiya
   17:
-    arabic: مُوۡسٰى
+    arabic: مُوسَىٰ
     translation: (to) Musa
     transliteration: mūsā
   18:
-    arabic: وَعِيۡسٰى
+    arabic: وَعِيسَىٰ
     translation: and Isa
     transliteration: waʿīsā
   19:
@@ -85,19 +85,19 @@ word_by_word:
     translation: and what
     transliteration: wamā
   20:
-    arabic: اُوۡتِىَ
+    arabic: أُوتِيَ
     translation: was given
     transliteration: ūtiya
   21:
-    arabic: النَّبِيُّوۡنَ
+    arabic: ٱلنَّبِيُّونَ
     translation: (to) the Prophets
     transliteration: l-nabiyūna
   22:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   23:
-    arabic: رَّبِّهِمۡ​ۚ
+    arabic: رَّبِّهِمۡ
     translation: their Lord
     transliteration: rabbihim
   24:
@@ -113,11 +113,11 @@ word_by_word:
     translation: between
     transliteration: bayna
   27:
-    arabic: اَحَدٍ
+    arabic: أَحَدٖ
     translation: any
     transliteration: aḥadin
   28:
-    arabic: مِّنۡهُمۡ
+    arabic: مِّنۡهُمۡ
     translation: of them
     transliteration: min'hum
   29:
@@ -125,11 +125,11 @@ word_by_word:
     translation: And we
     transliteration: wanaḥnu
   30:
-    arabic: لَهٗ
+    arabic: لَهُۥ
     translation: to Him
     transliteration: lahu
   31:
-    arabic: مُسۡلِمُوۡنَ‏
+    arabic: مُسۡلِمُونَ
     translation: (are) submissive
     transliteration: mus'limūna
 ---

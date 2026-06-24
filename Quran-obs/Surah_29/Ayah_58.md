@@ -1,29 +1,29 @@
 ---
-arabic_ayat: وَالَّذِيۡنَ اٰمَنُوا وَعَمِلُوۡا الصّٰلِحٰتِ لَـنُبَـوِّئَنَّهُمۡ مِّنَ
-  الۡجَـنَّةِ غُرَفًا تَجۡرِىۡ مِنۡ تَحۡتِهَا الۡاَنۡهٰرُ خٰلِدِيۡنَ فِيۡهَا ​ؕ نِعۡمَ
-  اَجۡرُ الۡعٰمِلِيۡنَ​ۖ‏
+arabic_ayat: وَٱلَّذِينَ ءَامَنُواْ وَعَمِلُواْ ٱلصَّٰلِحَٰتِ لَنُبَوِّئَنَّهُم مِّنَ
+  ٱلۡجَنَّةِ غُرَفٗا تَجۡرِي مِن تَحۡتِهَا ٱلۡأَنۡهَٰرُ خَٰلِدِينَ فِيهَاۚ نِعۡمَ
+  أَجۡرُ ٱلۡعَٰمِلِينَ
 sentence_translation: ˹As for˺ those who believe and do good, We will certainly house
   them in ˹elevated˺ mansions in Paradise, under which rivers flow, to stay there
   forever. How excellent is the reward for those who work ˹righteousness!˺—
 word_by_word:
   1:
-    arabic: وَالَّذِيۡنَ
+    arabic: وَٱلَّذِينَ ءَ
     translation: And those who
     transliteration: wa-alladhīna
   2:
-    arabic: اٰمَنُوا
+    arabic: امَنُواْ
     translation: believe
     transliteration: āmanū
   3:
-    arabic: وَعَمِلُوۡا
+    arabic: وَعَمِلُواْ
     translation: and do
     transliteration: waʿamilū
   4:
-    arabic: الصّٰلِحٰتِ
+    arabic: ٱلصَّٰلِحَٰتِ
     translation: '[the] righteous deeds'
     transliteration: l-ṣāliḥāti
   5:
-    arabic: لَـنُبَـوِّئَنَّهُمۡ
+    arabic: لَنُبَوِّئَنَّهُم
     translation: surely We will give them a place
     transliteration: lanubawwi-annahum
   6:
@@ -31,19 +31,19 @@ word_by_word:
     translation: in
     transliteration: mina
   7:
-    arabic: الۡجَـنَّةِ
+    arabic: ٱلۡجَنَّةِ
     translation: Paradise
     transliteration: l-janati
   8:
-    arabic: غُرَفًا
+    arabic: غُرَفٗا
     translation: lofty dwellings
     transliteration: ghurafan
   9:
-    arabic: تَجۡرِىۡ
+    arabic: تَجۡرِي
     translation: flow
     transliteration: tajrī
   10:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   11:
@@ -51,15 +51,15 @@ word_by_word:
     translation: underneath it
     transliteration: taḥtihā
   12:
-    arabic: الۡاَنۡهٰرُ
+    arabic: ٱلۡأَنۡهَٰرُ
     translation: the rivers
     transliteration: l-anhāru
   13:
-    arabic: خٰلِدِيۡنَ
+    arabic: خَٰلِدِينَ
     translation: will abide forever
     transliteration: khālidīna
   14:
-    arabic: فِيۡهَا ​ؕ
+    arabic: فِيهَاۚ
     translation: in it
     transliteration: fīhā
   15:
@@ -67,11 +67,11 @@ word_by_word:
     translation: Excellent is
     transliteration: niʿ'ma
   16:
-    arabic: اَجۡرُ
+    arabic: أَجۡرُ
     translation: (the) reward
     transliteration: ajru
   17:
-    arabic: الۡعٰمِلِيۡنَ​ۖ‏
+    arabic: ٱلۡعَٰمِلِينَ
     translation: (of) the workers
     transliteration: l-ʿāmilīna
 ---

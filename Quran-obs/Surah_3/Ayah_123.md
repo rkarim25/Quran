@@ -1,6 +1,6 @@
 ---
-arabic_ayat: وَلَقَدۡ نَصَرَكُمُ اللّٰهُ بِبَدۡرٍ وَّاَنۡـتُمۡ اَذِلَّةٌ  ۚ فَاتَّقُوا
-  اللّٰهَ لَعَلَّكُمۡ تَشۡكُرُوۡنَ‏
+arabic_ayat: وَلَقَدۡ نَصَرَكُمُ ٱللَّهُ بِبَدۡرٖ وَأَنتُمۡ أَذِلَّةٞۖ فَٱتَّقُواْ
+  ٱللَّهَ لَعَلَّكُمۡ تَشۡكُرُونَ
 sentence_translation: Indeed, Allah made you victorious at Badr when you were ˹vastly˺
   outnumbered. So be mindful of Allah, perhaps you will be grateful.
 word_by_word:
@@ -13,27 +13,27 @@ word_by_word:
     translation: helped you
     transliteration: naṣarakumu
   3:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   4:
-    arabic: بِبَدۡرٍ
+    arabic: بِبَدۡرٖ
     translation: in Badr
     transliteration: bibadrin
   5:
-    arabic: وَّاَنۡـتُمۡ
+    arabic: وَأَنتُمۡ
     translation: while you (were)
     transliteration: wa-antum
   6:
-    arabic: اَذِلَّةٌ  ۚ
+    arabic: أَذِلَّةٞۖ
     translation: weak
     transliteration: adhillatun
   7:
-    arabic: فَاتَّقُوا
+    arabic: فَٱتَّقُواْ
     translation: So fear
     transliteration: fa-ittaqū
   8:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   9:
@@ -41,7 +41,7 @@ word_by_word:
     translation: so that you may
     transliteration: laʿallakum
   10:
-    arabic: تَشۡكُرُوۡنَ‏
+    arabic: تَشۡكُرُونَ
     translation: (be) grateful
     transliteration: tashkurūna
 ---

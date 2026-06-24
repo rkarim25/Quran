@@ -1,18 +1,18 @@
 ---
-arabic_ayat: وَاَقۡسَمُوۡا بِاللّٰهِ جَهۡدَ اَيۡمَانِهِمۡ لَٮِٕنۡ جَآءَتۡهُمۡ اٰيَةٌ
-  لَّيُؤۡمِنُنَّ بِهَا​ ؕ قُلۡ اِنَّمَا الۡاٰيٰتُ عِنۡدَ اللّٰهِ​ وَمَا يُشۡعِرُكُمۙۡ
-  اَنَّهَاۤ اِذَا جَآءَتۡ لَا يُؤۡمِنُوۡنَ‏
+arabic_ayat: وَأَقۡسَمُواْ بِٱللَّهِ جَهۡدَ أَيۡمَٰنِهِمۡ لَئِن جَآءَتۡهُمۡ ءَايَةٞ
+  لَّيُؤۡمِنُنَّ بِهَاۚ قُلۡ إِنَّمَا ٱلۡأٓيَٰتُ عِندَ ٱللَّهِۖ وَمَا يُشۡعِرُكُمۡ
+  أَنَّهَآ إِذَا جَآءَتۡ لَا يُؤۡمِنُونَ
 sentence_translation: They swear by Allah their most solemn oaths that if a sign were
   to come to them, they would certainly believe in it. Say, ˹O Prophet,˺ “Signs are
   only with Allah.” What will make you ˹believers˺ realize that even if a sign were
   to come to them, they still would not believe?
 word_by_word:
   1:
-    arabic: وَاَقۡسَمُوۡا
+    arabic: وَأَقۡسَمُواْ
     translation: And they swear
     transliteration: wa-aqsamū
   2:
-    arabic: بِاللّٰهِ
+    arabic: بِٱللَّهِ
     translation: by Allah
     transliteration: bil-lahi
   3:
@@ -20,19 +20,19 @@ word_by_word:
     translation: strongest
     transliteration: jahda
   4:
-    arabic: اَيۡمَانِهِمۡ
+    arabic: أَيۡمَٰنِهِمۡ
     translation: (of) their oaths
     transliteration: aymānihim
   5:
-    arabic: لَٮِٕنۡ
+    arabic: لَئِن
     translation: that if
     transliteration: la-in
   6:
-    arabic: جَآءَتۡهُمۡ
+    arabic: جَآءَتۡهُمۡ ءَ
     translation: came to them
     transliteration: jāathum
   7:
-    arabic: اٰيَةٌ
+    arabic: ايَةٞ
     translation: a sign
     transliteration: āyatun
   8:
@@ -40,7 +40,7 @@ word_by_word:
     translation: they would surely believe
     transliteration: layu'minunna
   9:
-    arabic: بِهَا​ ؕ
+    arabic: بِهَاۚ
     translation: in it
     transliteration: bihā
   10:
@@ -48,19 +48,19 @@ word_by_word:
     translation: Say
     transliteration: qul
   11:
-    arabic: اِنَّمَا
+    arabic: إِنَّمَا
     translation: Only
     transliteration: innamā
   12:
-    arabic: الۡاٰيٰتُ
+    arabic: ٱلۡأٓيَٰتُ
     translation: the signs
     transliteration: l-āyātu
   13:
-    arabic: عِنۡدَ
+    arabic: عِندَ
     translation: (are) with
     transliteration: ʿinda
   14:
-    arabic: اللّٰهِ​
+    arabic: ٱللَّهِۖ
     translation: Allah
     transliteration: l-lahi
   15:
@@ -68,15 +68,15 @@ word_by_word:
     translation: And what
     transliteration: wamā
   16:
-    arabic: يُشۡعِرُكُمۙۡ
+    arabic: يُشۡعِرُكُمۡ
     translation: will make you perceive
     transliteration: yush'ʿirukum
   17:
-    arabic: اَنَّهَاۤ
+    arabic: أَنَّهَآ
     translation: that [it]
     transliteration: annahā
   18:
-    arabic: اِذَا
+    arabic: إِذَا
     translation: when
     transliteration: idhā
   19:
@@ -88,7 +88,7 @@ word_by_word:
     translation: not
     transliteration: lā
   21:
-    arabic: يُؤۡمِنُوۡنَ‏
+    arabic: يُؤۡمِنُونَ
     translation: they will believe
     transliteration: yu'minūna
 ---

@@ -1,16 +1,16 @@
 ---
-arabic_ayat: اِلَّا مَنۡ رَّحِمَ رَبُّكَ​ ؕ وَلِذٰلِكَ خَلَقَهُمۡ​ ؕ وَتَمَّتۡ كَلِمَةُ
-  رَبِّكَ لَاَمۡلَـئَنَّ جَهَـنَّمَ مِنَ الۡجِنَّةِ وَالنَّاسِ اَجۡمَعِيۡنَ‏
+arabic_ayat: إِلَّا مَن رَّحِمَ رَبُّكَۚ وَلِذَٰلِكَ خَلَقَهُمۡۗ وَتَمَّتۡ كَلِمَةُ
+  رَبِّكَ لَأَمۡلَأَنَّ جَهَنَّمَ مِنَ ٱلۡجِنَّةِ وَٱلنَّاسِ أَجۡمَعِينَ
 sentence_translation: 'except those shown mercy by your Lord—and so He created them
   ˹to choose freely˺. And so the Word of your Lord will be fulfilled: “I will surely
   fill up Hell with jinn and humans all together.”'
 word_by_word:
   1:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: Except
     transliteration: illā
   2:
-    arabic: مَنۡ
+    arabic: مَن
     translation: (on) whom
     transliteration: man
   3:
@@ -18,15 +18,15 @@ word_by_word:
     translation: your Lord has bestowed Mercy
     transliteration: raḥima
   4:
-    arabic: رَبُّكَ​ ؕ
+    arabic: رَبُّكَۚ
     translation: your Lord has bestowed Mercy
     transliteration: rabbuka
   5:
-    arabic: وَلِذٰلِكَ
+    arabic: وَلِذَٰلِكَ
     translation: and for that
     transliteration: walidhālika
   6:
-    arabic: خَلَقَهُمۡ​ ؕ
+    arabic: خَلَقَهُمۡۗ
     translation: He created them
     transliteration: khalaqahum
   7:
@@ -42,11 +42,11 @@ word_by_word:
     translation: (the) Word of your Lord
     transliteration: rabbika
   10:
-    arabic: لَاَمۡلَـئَنَّ
+    arabic: لَأَمۡلَأَنَّ
     translation: Surely I will fill
     transliteration: la-amla-anna
   11:
-    arabic: جَهَـنَّمَ
+    arabic: جَهَنَّمَ
     translation: Hell
     transliteration: jahannama
   12:
@@ -54,15 +54,15 @@ word_by_word:
     translation: with
     transliteration: mina
   13:
-    arabic: الۡجِنَّةِ
+    arabic: ٱلۡجِنَّةِ
     translation: the Jinn
     transliteration: l-jinati
   14:
-    arabic: وَالنَّاسِ
+    arabic: وَٱلنَّاسِ
     translation: and the men
     transliteration: wal-nāsi
   15:
-    arabic: اَجۡمَعِيۡنَ‏
+    arabic: أَجۡمَعِينَ
     translation: all together
     transliteration: ajmaʿīna
 ---

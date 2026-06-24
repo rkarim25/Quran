@@ -1,21 +1,21 @@
 ---
-arabic_ayat: سَلٰمٌ عَلٰى مُوۡسٰى وَهٰرُوۡنَ‏
+arabic_ayat: سَلَٰمٌ عَلَىٰ مُوسَىٰ وَهَٰرُونَ
 sentence_translation: “Peace be upon Moses and Aaron.”
 word_by_word:
   1:
-    arabic: سَلٰمٌ
+    arabic: سَلَٰمٌ
     translation: Peace be
     transliteration: salāmun
   2:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: upon
     transliteration: ʿalā
   3:
-    arabic: مُوۡسٰى
+    arabic: مُوسَىٰ
     translation: Musa
     transliteration: mūsā
   4:
-    arabic: وَهٰرُوۡنَ‏
+    arabic: وَهَٰرُونَ
     translation: and Harun
     transliteration: wahārūna
 ---

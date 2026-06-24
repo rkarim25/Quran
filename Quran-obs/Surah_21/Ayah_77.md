@@ -1,11 +1,11 @@
 ---
-arabic_ayat: وَنَصَرۡنٰهُ مِنَ الۡقَوۡمِ الَّذِيۡنَ كَذَّبُوۡا بِاٰيٰتِنَا ​ؕ اِنَّهُمۡ
-  كَانُوۡا قَوۡمَ سَوۡءٍ فَاَغۡرَقۡنٰهُمۡ اَجۡمَعِيۡنَ‏
+arabic_ayat: وَنَصَرۡنَٰهُ مِنَ ٱلۡقَوۡمِ ٱلَّذِينَ كَذَّبُواْ بِـَٔايَٰتِنَآۚ إِنَّهُمۡ
+  كَانُواْ قَوۡمَ سَوۡءٖ فَأَغۡرَقۡنَٰهُمۡ أَجۡمَعِينَ
 sentence_translation: And We made him prevail over those who had rejected Our signs.
   They were truly an evil people, so We drowned them all.
 word_by_word:
   1:
-    arabic: وَنَصَرۡنٰهُ
+    arabic: وَنَصَرۡنَٰهُ
     translation: And We helped him
     transliteration: wanaṣarnāhu
   2:
@@ -13,27 +13,27 @@ word_by_word:
     translation: from
     transliteration: mina
   3:
-    arabic: الۡقَوۡمِ
+    arabic: ٱلۡقَوۡمِ
     translation: the people
     transliteration: l-qawmi
   4:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: who
     transliteration: alladhīna
   5:
-    arabic: كَذَّبُوۡا
+    arabic: كَذَّبُواْ
     translation: denied
     transliteration: kadhabū
   6:
-    arabic: بِاٰيٰتِنَا ​ؕ
+    arabic: بِـَٔايَٰتِنَآۚ
     translation: Our Signs
     transliteration: biāyātinā
   7:
-    arabic: اِنَّهُمۡ
+    arabic: إِنَّهُمۡ
     translation: Indeed, they
     transliteration: innahum
   8:
-    arabic: كَانُوۡا
+    arabic: كَانُواْ
     translation: were
     transliteration: kānū
   9:
@@ -41,15 +41,15 @@ word_by_word:
     translation: a people
     transliteration: qawma
   10:
-    arabic: سَوۡءٍ
+    arabic: سَوۡءٖ
     translation: evil
     transliteration: sawin
   11:
-    arabic: فَاَغۡرَقۡنٰهُمۡ
+    arabic: فَأَغۡرَقۡنَٰهُمۡ
     translation: so We drowned them
     transliteration: fa-aghraqnāhum
   12:
-    arabic: اَجۡمَعِيۡنَ‏
+    arabic: أَجۡمَعِينَ
     translation: all
     transliteration: ajmaʿīna
 ---

@@ -1,6 +1,6 @@
 ---
-arabic_ayat: فَالِقُ الۡاِصۡبَاحِ​ۚ وَ جَعَلَ الَّيۡلَ سَكَنًا وَّالشَّمۡسَ وَالۡقَمَرَ
-  حُسۡبَانًا​ ؕ ذٰلِكَ تَقۡدِيۡرُ الۡعَزِيۡزِ الۡعَلِيۡمِ‏
+arabic_ayat: فَالِقُ ٱلۡإِصۡبَاحِ وَجَعَلَ ٱلَّيۡلَ سَكَنٗا وَٱلشَّمۡسَ وَٱلۡقَمَرَ
+  حُسۡبَانٗاۚ ذَٰلِكَ تَقۡدِيرُ ٱلۡعَزِيزِ ٱلۡعَلِيمِ
 sentence_translation: He causes the dawn to break, and has made the night for rest
   and ˹made˺ the sun and the moon ˹to travel˺ with precision. That is the design of
   the Almighty, All-Knowing.
@@ -10,47 +10,47 @@ word_by_word:
     translation: (He is the) Cleaver
     transliteration: fāliqu
   2:
-    arabic: الۡاِصۡبَاحِ​ۚ
+    arabic: ٱلۡإِصۡبَاحِ
     translation: (of) the daybreak
     transliteration: l-iṣ'bāḥi
   3:
-    arabic: وَ جَعَلَ
+    arabic: وَجَعَلَ
     translation: and He has made
     transliteration: wajaʿala
   4:
-    arabic: الَّيۡلَ
+    arabic: ٱلَّيۡلَ
     translation: the night
     transliteration: al-layla
   5:
-    arabic: سَكَنًا
+    arabic: سَكَنٗا
     translation: (for) rest
     transliteration: sakanan
   6:
-    arabic: وَّالشَّمۡسَ
+    arabic: وَٱلشَّمۡسَ
     translation: and the sun
     transliteration: wal-shamsa
   7:
-    arabic: وَالۡقَمَرَ
+    arabic: وَٱلۡقَمَرَ
     translation: and the moon
     transliteration: wal-qamara
   8:
-    arabic: حُسۡبَانًا​ ؕ
+    arabic: حُسۡبَانٗاۚ
     translation: (for) reckoning
     transliteration: ḥus'bānan
   9:
-    arabic: ذٰلِكَ
+    arabic: ذَٰلِكَ
     translation: That
     transliteration: dhālika
   10:
-    arabic: تَقۡدِيۡرُ
+    arabic: تَقۡدِيرُ
     translation: (is the) ordaining
     transliteration: taqdīru
   11:
-    arabic: الۡعَزِيۡزِ
+    arabic: ٱلۡعَزِيزِ
     translation: (of) the All-Mighty
     transliteration: l-ʿazīzi
   12:
-    arabic: الۡعَلِيۡمِ‏
+    arabic: ٱلۡعَلِيمِ
     translation: the All-Knowing
     transliteration: l-ʿalīmi
 ---

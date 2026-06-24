@@ -1,5 +1,5 @@
 ---
-arabic_ayat: خَلَقَ الۡاِنۡسَانَ مِنۡ صَلۡصَالٍ كَالۡفَخَّارِۙ‏
+arabic_ayat: خَلَقَ ٱلۡإِنسَٰنَ مِن صَلۡصَٰلٖ كَٱلۡفَخَّارِ
 sentence_translation: He created humankind from ˹sounding˺ clay like pottery,
 word_by_word:
   1:
@@ -7,19 +7,19 @@ word_by_word:
     translation: He created
     transliteration: khalaqa
   2:
-    arabic: الۡاِنۡسَانَ
+    arabic: ٱلۡإِنسَٰنَ
     translation: the man
     transliteration: l-insāna
   3:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   4:
-    arabic: صَلۡصَالٍ
+    arabic: صَلۡصَٰلٖ
     translation: clay
     transliteration: ṣalṣālin
   5:
-    arabic: كَالۡفَخَّارِۙ‏
+    arabic: كَٱلۡفَخَّارِ
     translation: like the pottery
     transliteration: kal-fakhāri
 ---

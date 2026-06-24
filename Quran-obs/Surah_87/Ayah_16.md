@@ -1,5 +1,5 @@
 ---
-arabic_ayat: بَلۡ تُؤۡثِرُوۡنَ الۡحَيٰوةَ الدُّنۡيَا ۖ‏
+arabic_ayat: بَلۡ تُؤۡثِرُونَ ٱلۡحَيَوٰةَ ٱلدُّنۡيَا
 sentence_translation: But you ˹deniers only˺ prefer the life of this world,
 word_by_word:
   1:
@@ -7,15 +7,15 @@ word_by_word:
     translation: Nay
     transliteration: bal
   2:
-    arabic: تُؤۡثِرُوۡنَ
+    arabic: تُؤۡثِرُونَ
     translation: You prefer
     transliteration: tu'thirūna
   3:
-    arabic: الۡحَيٰوةَ
+    arabic: ٱلۡحَيَوٰةَ
     translation: the life
     transliteration: l-ḥayata
   4:
-    arabic: الدُّنۡيَا ۖ‏
+    arabic: ٱلدُّنۡيَا
     translation: (of) the world
     transliteration: l-dun'yā
 ---

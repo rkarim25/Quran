@@ -1,23 +1,23 @@
 ---
-arabic_ayat: كُلَّمَاۤ اَرَادُوۡۤا اَنۡ يَّخۡرُجُوۡا مِنۡهَا مِنۡ غَمٍّ اُعِيۡدُوۡا
-  فِيۡهَا وَذُوۡقُوۡا عَذَابَ الۡحَرِيۡقِ‏
+arabic_ayat: كُلَّمَآ أَرَادُوٓاْ أَن يَخۡرُجُواْ مِنۡهَا مِنۡ غَمٍّ أُعِيدُواْ فِيهَا
+  وَذُوقُواْ عَذَابَ ٱلۡحَرِيقِ
 sentence_translation: Whenever they try to escape from Hell—out of anguish—they will
   be forced back into it, ˹and will be told,˺ “Taste the torment of burning!”
 word_by_word:
   1:
-    arabic: كُلَّمَاۤ
+    arabic: كُلَّمَآ
     translation: Every time
     transliteration: kullamā
   2:
-    arabic: اَرَادُوۡۤا
+    arabic: أَرَادُوٓاْ
     translation: they want
     transliteration: arādū
   3:
-    arabic: اَنۡ
+    arabic: أَن
     translation: to
     transliteration: an
   4:
-    arabic: يَّخۡرُجُوۡا
+    arabic: يَخۡرُجُواْ
     translation: come out
     transliteration: yakhrujū
   5:
@@ -33,15 +33,15 @@ word_by_word:
     translation: anguish
     transliteration: ghammin
   8:
-    arabic: اُعِيۡدُوۡا
+    arabic: أُعِيدُواْ
     translation: they will be returned
     transliteration: uʿīdū
   9:
-    arabic: فِيۡهَا
+    arabic: فِيهَا
     translation: therein
     transliteration: fīhā
   10:
-    arabic: وَذُوۡقُوۡا
+    arabic: وَذُوقُواْ
     translation: Taste
     transliteration: wadhūqū
   11:
@@ -49,7 +49,7 @@ word_by_word:
     translation: (the) punishment
     transliteration: ʿadhāba
   12:
-    arabic: الۡحَرِيۡقِ‏
+    arabic: ٱلۡحَرِيقِ
     translation: (of) the Burning Fire
     transliteration: l-ḥarīqi
 ---

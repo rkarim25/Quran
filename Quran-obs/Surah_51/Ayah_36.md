@@ -1,5 +1,5 @@
 ---
-arabic_ayat: فَمَا وَجَدۡنَا فِيۡهَا غَيۡرَ بَيۡتٍ مِّنَ الۡمُسۡلِمِيۡنَ​ۚ‏
+arabic_ayat: فَمَا وَجَدۡنَا فِيهَا غَيۡرَ بَيۡتٖ مِّنَ ٱلۡمُسۡلِمِينَ
 sentence_translation: But We only found one family that had submitted ˹to Allah˺.
 word_by_word:
   1:
@@ -11,7 +11,7 @@ word_by_word:
     translation: We found
     transliteration: wajadnā
   3:
-    arabic: فِيۡهَا
+    arabic: فِيهَا
     translation: therein
     transliteration: fīhā
   4:
@@ -19,7 +19,7 @@ word_by_word:
     translation: other than
     transliteration: ghayra
   5:
-    arabic: بَيۡتٍ
+    arabic: بَيۡتٖ
     translation: a house
     transliteration: baytin
   6:
@@ -27,7 +27,7 @@ word_by_word:
     translation: of
     transliteration: mina
   7:
-    arabic: الۡمُسۡلِمِيۡنَ​ۚ‏
+    arabic: ٱلۡمُسۡلِمِينَ
     translation: the Muslims
     transliteration: l-mus'limīna
 ---

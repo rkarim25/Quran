@@ -1,9 +1,8 @@
 ---
-arabic_ayat: سَاَصۡرِفُ عَنۡ اٰيٰتِىَ الَّذِيۡنَ يَتَكَبَّرُوۡنَ فِى الۡاَرۡضِ بِغَيۡرِ
-  الۡحَـقِّ ؕ وَاِنۡ يَّرَوۡا كُلَّ اٰيَةٍ لَّا يُؤۡمِنُوۡا بِهَا​ ۚ وَاِنۡ يَّرَوۡا
-  سَبِيۡلَ الرُّشۡدِ لَا يَتَّخِذُوۡهُ سَبِيۡلًا​ ۚ وَّاِنۡ يَّرَوۡا سَبِيۡلَ الۡغَىِّ
-  يَتَّخِذُوۡهُ سَبِيۡلًا​ ؕ ذٰ لِكَ بِاَنَّهُمۡ كَذَّبُوۡا بِاٰيٰتِنَا وَكَانُوۡا
-  عَنۡهَا غٰفِلِيۡنَ‏
+arabic_ayat: سَأَصۡرِفُ عَنۡ ءَايَٰتِيَ ٱلَّذِينَ يَتَكَبَّرُونَ فِي ٱلۡأَرۡضِ بِغَيۡرِ
+  ٱلۡحَقِّ وَإِن يَرَوۡاْ كُلَّ ءَايَةٖ لَّا يُؤۡمِنُواْ بِهَا وَإِن يَرَوۡاْ سَبِيلَ
+  ٱلرُّشۡدِ لَا يَتَّخِذُوهُ سَبِيلٗا وَإِن يَرَوۡاْ سَبِيلَ ٱلۡغَيِّ يَتَّخِذُوهُ
+  سَبِيلٗاۚ ذَٰلِكَ بِأَنَّهُمۡ كَذَّبُواْ بِـَٔايَٰتِنَا وَكَانُواْ عَنۡهَا غَٰفِلِينَ
 sentence_translation: I will turn away from My signs those who act unjustly with arrogance
   in the land. And even if they were to see every sign, they still would not believe
   in them. If they see the Right Path, they will not take it. But if they see a crooked
@@ -11,31 +10,31 @@ sentence_translation: I will turn away from My signs those who act unjustly with
   of them.
 word_by_word:
   1:
-    arabic: سَاَصۡرِفُ
+    arabic: سَأَصۡرِفُ
     translation: I will turn away
     transliteration: sa-aṣrifu
   2:
-    arabic: عَنۡ
+    arabic: عَنۡ ءَ
     translation: from
     transliteration: ʿan
   3:
-    arabic: اٰيٰتِىَ
+    arabic: ايَٰتِيَ
     translation: My Signs
     transliteration: āyātiya
   4:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   5:
-    arabic: يَتَكَبَّرُوۡنَ
+    arabic: يَتَكَبَّرُونَ
     translation: are arrogant
     transliteration: yatakabbarūna
   6:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   7:
-    arabic: الۡاَرۡضِ
+    arabic: ٱلۡأَرۡضِ
     translation: the earth
     transliteration: l-arḍi
   8:
@@ -43,23 +42,23 @@ word_by_word:
     translation: without
     transliteration: bighayri
   9:
-    arabic: الۡحَـقِّ ؕ
+    arabic: ٱلۡحَقِّ
     translation: '[the] right'
     transliteration: l-ḥaqi
   10:
-    arabic: وَاِنۡ
+    arabic: وَإِن
     translation: and if
     transliteration: wa-in
   11:
-    arabic: يَّرَوۡا
+    arabic: يَرَوۡاْ
     translation: they see
     transliteration: yaraw
   12:
-    arabic: كُلَّ
+    arabic: كُلَّ ءَ
     translation: every
     transliteration: kulla
   13:
-    arabic: اٰيَةٍ
+    arabic: ايَةٖ
     translation: sign
     transliteration: āyatin
   14:
@@ -67,27 +66,27 @@ word_by_word:
     translation: not
     transliteration: lā
   15:
-    arabic: يُؤۡمِنُوۡا
+    arabic: يُؤۡمِنُواْ
     translation: (will) they believe
     transliteration: yu'minū
   16:
-    arabic: بِهَا​ ۚ
+    arabic: بِهَا
     translation: in it
     transliteration: bihā
   17:
-    arabic: وَاِنۡ
+    arabic: وَإِن
     translation: And if
     transliteration: wa-in
   18:
-    arabic: يَّرَوۡا
+    arabic: يَرَوۡاْ
     translation: they see
     transliteration: yaraw
   19:
-    arabic: سَبِيۡلَ
+    arabic: سَبِيلَ
     translation: (the) way
     transliteration: sabīla
   20:
-    arabic: الرُّشۡدِ
+    arabic: ٱلرُّشۡدِ
     translation: (of) the righteousness
     transliteration: l-rush'di
   21:
@@ -95,55 +94,55 @@ word_by_word:
     translation: not
     transliteration: lā
   22:
-    arabic: يَتَّخِذُوۡهُ
+    arabic: يَتَّخِذُوهُ
     translation: (will) they take it
     transliteration: yattakhidhūhu
   23:
-    arabic: سَبِيۡلًا​ ۚ
+    arabic: سَبِيلٗا
     translation: (as) a way
     transliteration: sabīlan
   24:
-    arabic: وَّاِنۡ
+    arabic: وَإِن
     translation: but if
     transliteration: wa-in
   25:
-    arabic: يَّرَوۡا
+    arabic: يَرَوۡاْ
     translation: they see
     transliteration: yaraw
   26:
-    arabic: سَبِيۡلَ
+    arabic: سَبِيلَ
     translation: (the) way
     transliteration: sabīla
   27:
-    arabic: الۡغَىِّ
+    arabic: ٱلۡغَيِّ
     translation: (of) [the] error
     transliteration: l-ghayi
   28:
-    arabic: يَتَّخِذُوۡهُ
+    arabic: يَتَّخِذُوهُ
     translation: they will take it
     transliteration: yattakhidhūhu
   29:
-    arabic: سَبِيۡلًا​ ؕ
+    arabic: سَبِيلٗاۚ
     translation: (as) a way
     transliteration: sabīlan
   30:
-    arabic: ذٰ لِكَ
+    arabic: ذَٰلِكَ
     translation: That
     transliteration: dhālika
   31:
-    arabic: بِاَنَّهُمۡ
+    arabic: بِأَنَّهُمۡ
     translation: (is) because they
     transliteration: bi-annahum
   32:
-    arabic: كَذَّبُوۡا
+    arabic: كَذَّبُواْ
     translation: denied
     transliteration: kadhabū
   33:
-    arabic: بِاٰيٰتِنَا
+    arabic: بِـَٔايَٰتِنَا
     translation: Our Signs
     transliteration: biāyātinā
   34:
-    arabic: وَكَانُوۡا
+    arabic: وَكَانُواْ
     translation: and they were
     transliteration: wakānū
   35:
@@ -151,7 +150,7 @@ word_by_word:
     translation: of them
     transliteration: ʿanhā
   36:
-    arabic: غٰفِلِيۡنَ‏
+    arabic: غَٰفِلِينَ
     translation: heedless
     transliteration: ghāfilīna
 ---

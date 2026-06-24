@@ -1,30 +1,30 @@
 ---
-arabic_ayat: وَمِنۡ اٰيٰتِهِ الۡجَوَارِ فِى الۡبَحۡرِ كَالۡاَعۡلَامِؕ‏
+arabic_ayat: وَمِنۡ ءَايَٰتِهِ ٱلۡجَوَارِ فِي ٱلۡبَحۡرِ كَٱلۡأَعۡلَٰمِ
 sentence_translation: And among His signs are the ships like mountains ˹sailing˺ in
   the sea.
 word_by_word:
   1:
-    arabic: وَمِنۡ
+    arabic: وَمِنۡ ءَ
     translation: And among
     transliteration: wamin
   2:
-    arabic: اٰيٰتِهِ
+    arabic: ايَٰتِهِ
     translation: His Signs
     transliteration: āyātihi
   3:
-    arabic: الۡجَوَارِ
+    arabic: ٱلۡجَوَارِ
     translation: (are) the ships
     transliteration: l-jawāri
   4:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   5:
-    arabic: الۡبَحۡرِ
+    arabic: ٱلۡبَحۡرِ
     translation: the sea
     transliteration: l-baḥri
   6:
-    arabic: كَالۡاَعۡلَامِؕ‏
+    arabic: كَٱلۡأَعۡلَٰمِ
     translation: like [the] mountains
     transliteration: kal-aʿlāmi
 ---

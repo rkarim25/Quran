@@ -1,18 +1,18 @@
 ---
-arabic_ayat: وَلَـقَدۡ اَرَيۡنٰهُ اٰيٰتِنَا كُلَّهَا فَكَذَّبَ وَاَبٰى‏
+arabic_ayat: وَلَقَدۡ أَرَيۡنَٰهُ ءَايَٰتِنَا كُلَّهَا فَكَذَّبَ وَأَبَىٰ
 sentence_translation: And We certainly showed Pharaoh all of Our signs, but he denied
   them and refused ˹to believe˺.
 word_by_word:
   1:
-    arabic: وَلَـقَدۡ
+    arabic: وَلَقَدۡ
     translation: And verily
     transliteration: walaqad
   2:
-    arabic: اَرَيۡنٰهُ
+    arabic: أَرَيۡنَٰهُ ءَ
     translation: We showed him
     transliteration: araynāhu
   3:
-    arabic: اٰيٰتِنَا
+    arabic: ايَٰتِنَا
     translation: Our Signs
     transliteration: āyātinā
   4:
@@ -24,7 +24,7 @@ word_by_word:
     translation: but he denied
     transliteration: fakadhaba
   6:
-    arabic: وَاَبٰى‏
+    arabic: وَأَبَىٰ
     translation: and refused
     transliteration: wa-abā
 ---

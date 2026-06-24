@@ -1,10 +1,10 @@
 ---
-arabic_ayat: يٰۤـاَيُّهَا الَّذِيۡنَ اٰمَنُوۡا لَا تَقۡتُلُوا الصَّيۡدَ وَاَنۡـتُمۡ
-  حُرُمٌ​ ؕ وَمَنۡ قَتَلَهٗ مِنۡكُمۡ مُّتَعَمِّدًا فَجَزَآءٌ مِّثۡلُ مَا قَتَلَ مِنَ
-  النَّعَمِ يَحۡكُمُ بِهٖ ذَوَا عَدۡلٍ مِّنۡكُمۡ هَدۡيًاۢ بٰلِغَ الۡـكَعۡبَةِ اَوۡ
-  كَفَّارَةٌ طَعَامُ مَسٰكِيۡنَ اَوۡ عَدۡلُ ذٰ لِكَ صِيَامًا لِّيَذُوۡقَ وَبَالَ اَمۡرِهٖ​
-  ؕ عَفَا اللّٰهُ عَمَّا سَلَفَ​ ؕ وَمَنۡ عَادَ فَيَنۡتَقِمُ اللّٰهُ مِنۡهُ​ ؕ وَاللّٰهُ
-  عَزِيۡزٌ ذُو انْتِقَامٍ‏
+arabic_ayat: يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُواْ لَا تَقۡتُلُواْ ٱلصَّيۡدَ وَأَنتُمۡ
+  حُرُمٞۚ وَمَن قَتَلَهُۥ مِنكُم مُّتَعَمِّدٗا فَجَزَآءٞ مِّثۡلُ مَا قَتَلَ مِنَ
+  ٱلنَّعَمِ يَحۡكُمُ بِهِۦ ذَوَا عَدۡلٖ مِّنكُمۡ هَدۡيَۢا بَٰلِغَ ٱلۡكَعۡبَةِ أَوۡ
+  كَفَّٰرَةٞ طَعَامُ مَسَٰكِينَ أَوۡ عَدۡلُ ذَٰلِكَ صِيَامٗا لِّيَذُوقَ وَبَالَ أَمۡرِهِۦۗ
+  عَفَا ٱللَّهُ عَمَّا سَلَفَۚ وَمَنۡ عَادَ فَيَنتَقِمُ ٱللَّهُ مِنۡهُۚ وَٱللَّهُ
+  عَزِيزٞ ذُو ٱنتِقَامٍ
 sentence_translation: O  believers! Do not kill game while on pilgrimage. Whoever
   kills game intentionally must compensate by offering its equivalence—as judged by
   two just men among you—to be offered at the Sacred House, or by feeding the needy,
@@ -13,15 +13,15 @@ sentence_translation: O  believers! Do not kill game while on pilgrimage. Whoev
   And Allah is Almighty, capable of punishment.
 word_by_word:
   1:
-    arabic: يٰۤـاَيُّهَا
+    arabic: يَٰٓأَيُّهَا
     translation: O you
     transliteration: yāayyuhā
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ ءَ
     translation: who
     transliteration: alladhīna
   3:
-    arabic: اٰمَنُوۡا
+    arabic: امَنُواْ
     translation: believe
     transliteration: āmanū
   4:
@@ -29,39 +29,39 @@ word_by_word:
     translation: (Do) not
     transliteration: lā
   5:
-    arabic: تَقۡتُلُوا
+    arabic: تَقۡتُلُواْ
     translation: kill
     transliteration: taqtulū
   6:
-    arabic: الصَّيۡدَ
+    arabic: ٱلصَّيۡدَ
     translation: the game
     transliteration: l-ṣayda
   7:
-    arabic: وَاَنۡـتُمۡ
+    arabic: وَأَنتُمۡ
     translation: while you
     transliteration: wa-antum
   8:
-    arabic: حُرُمٌ​ ؕ
+    arabic: حُرُمٞۚ
     translation: (are in) Ihram
     transliteration: ḥurumun
   9:
-    arabic: وَمَنۡ
+    arabic: وَمَن
     translation: And whoever
     transliteration: waman
   10:
-    arabic: قَتَلَهٗ
+    arabic: قَتَلَهُۥ
     translation: killed it
     transliteration: qatalahu
   11:
-    arabic: مِنۡكُمۡ
+    arabic: مِنكُم
     translation: among you
     transliteration: minkum
   12:
-    arabic: مُّتَعَمِّدًا
+    arabic: مُّتَعَمِّدٗا
     translation: intentionally
     transliteration: mutaʿammidan
   13:
-    arabic: فَجَزَآءٌ
+    arabic: فَجَزَآءٞ
     translation: then penalty
     transliteration: fajazāon
   14:
@@ -81,7 +81,7 @@ word_by_word:
     translation: of
     transliteration: mina
   18:
-    arabic: النَّعَمِ
+    arabic: ٱلنَّعَمِ
     translation: the cattle
     transliteration: l-naʿami
   19:
@@ -89,7 +89,7 @@ word_by_word:
     translation: judging
     transliteration: yaḥkumu
   20:
-    arabic: بِهٖ
+    arabic: بِهِۦ
     translation: it
     transliteration: bihi
   21:
@@ -97,31 +97,31 @@ word_by_word:
     translation: two men
     transliteration: dhawā
   22:
-    arabic: عَدۡلٍ
+    arabic: عَدۡلٖ
     translation: just
     transliteration: ʿadlin
   23:
-    arabic: مِّنۡكُمۡ
+    arabic: مِّنكُمۡ
     translation: among you
     transliteration: minkum
   24:
-    arabic: هَدۡيًاۢ
+    arabic: هَدۡيَۢا
     translation: (as) an offering
     transliteration: hadyan
   25:
-    arabic: بٰلِغَ
+    arabic: بَٰلِغَ
     translation: reaching
     transliteration: bāligha
   26:
-    arabic: الۡـكَعۡبَةِ
+    arabic: ٱلۡكَعۡبَةِ
     translation: the Kabah
     transliteration: l-kaʿbati
   27:
-    arabic: اَوۡ
+    arabic: أَوۡ
     translation: or
     transliteration: aw
   28:
-    arabic: كَفَّارَةٌ
+    arabic: كَفَّٰرَةٞ
     translation: 'an expiation '
     transliteration: kaffāratun
   29:
@@ -129,11 +129,11 @@ word_by_word:
     translation: feeding
     transliteration: ṭaʿāmu
   30:
-    arabic: مَسٰكِيۡنَ
+    arabic: مَسَٰكِينَ
     translation: needy people
     transliteration: masākīna
   31:
-    arabic: اَوۡ
+    arabic: أَوۡ
     translation: or
     transliteration: aw
   32:
@@ -141,15 +141,15 @@ word_by_word:
     translation: equivalent
     transliteration: ʿadlu
   33:
-    arabic: ذٰ لِكَ
+    arabic: ذَٰلِكَ
     translation: (of) that
     transliteration: dhālika
   34:
-    arabic: صِيَامًا
+    arabic: صِيَامٗا
     translation: (in) fasting
     transliteration: ṣiyāman
   35:
-    arabic: لِّيَذُوۡقَ
+    arabic: لِّيَذُوقَ
     translation: that he may taste
     transliteration: liyadhūqa
   36:
@@ -157,7 +157,7 @@ word_by_word:
     translation: (the) consequence
     transliteration: wabāla
   37:
-    arabic: اَمۡرِهٖ​ ؕ
+    arabic: أَمۡرِهِۦۗ
     translation: (of) his deed
     transliteration: amrihi
   38:
@@ -165,7 +165,7 @@ word_by_word:
     translation: Pardoned
     transliteration: ʿafā
   39:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: (by) Allah
     transliteration: l-lahu
   40:
@@ -173,7 +173,7 @@ word_by_word:
     translation: what
     transliteration: ʿammā
   41:
-    arabic: سَلَفَ​ ؕ
+    arabic: سَلَفَۚ
     translation: (has) passed
     transliteration: salafa
   42:
@@ -185,23 +185,23 @@ word_by_word:
     translation: returned
     transliteration: ʿāda
   44:
-    arabic: فَيَنۡتَقِمُ
+    arabic: فَيَنتَقِمُ
     translation: then will take retribution
     transliteration: fayantaqimu
   45:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   46:
-    arabic: مِنۡهُ​ ؕ
+    arabic: مِنۡهُۚ
     translation: from him
     transliteration: min'hu
   47:
-    arabic: وَاللّٰهُ
+    arabic: وَٱللَّهُ
     translation: And Allah
     transliteration: wal-lahu
   48:
-    arabic: عَزِيۡزٌ
+    arabic: عَزِيزٞ
     translation: (is) All-Mighty
     transliteration: ʿazīzun
   49:
@@ -209,7 +209,7 @@ word_by_word:
     translation: Owner
     transliteration: dhū
   50:
-    arabic: انْتِقَامٍ‏
+    arabic: ٱنتِقَامٍ
     translation: (of) Retribution
     transliteration: intiqāmin
 ---

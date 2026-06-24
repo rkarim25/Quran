@@ -1,12 +1,12 @@
 ---
-arabic_ayat: وَاِمَّا تَخَافَنَّ مِنۡ قَوۡمٍ خِيَانَةً فَانْۢبِذۡ اِلَيۡهِمۡ عَلٰى
-  سَوَآءٍ​ ؕ اِنَّ اللّٰهَ لَا يُحِبُّ الۡخَآٮِٕنِيۡنَ‏
+arabic_ayat: وَإِمَّا تَخَافَنَّ مِن قَوۡمٍ خِيَانَةٗ فَٱنۢبِذۡ إِلَيۡهِمۡ عَلَىٰ
+  سَوَآءٍۚ إِنَّ ٱللَّهَ لَا يُحِبُّ ٱلۡخَآئِنِينَ
 sentence_translation: And if you ˹O Prophet˺ see signs of betrayal by a people, respond
   by openly terminating your treaty with them. Surely Allah does not like those who
   betray.
 word_by_word:
   1:
-    arabic: وَاِمَّا
+    arabic: وَإِمَّا
     translation: And if
     transliteration: wa-immā
   2:
@@ -14,7 +14,7 @@ word_by_word:
     translation: you fear
     transliteration: takhāfanna
   3:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   4:
@@ -22,31 +22,31 @@ word_by_word:
     translation: a people
     transliteration: qawmin
   5:
-    arabic: خِيَانَةً
+    arabic: خِيَانَةٗ
     translation: betrayal
     transliteration: khiyānatan
   6:
-    arabic: فَانْۢبِذۡ
+    arabic: فَٱنۢبِذۡ
     translation: throw back
     transliteration: fa-inbidh
   7:
-    arabic: اِلَيۡهِمۡ
+    arabic: إِلَيۡهِمۡ
     translation: to them
     transliteration: ilayhim
   8:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: 'on'
     transliteration: ʿalā
   9:
-    arabic: سَوَآءٍ​ ؕ
+    arabic: سَوَآءٍۚ
     translation: equal (terms)
     transliteration: sawāin
   10:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   11:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   12:
@@ -58,7 +58,7 @@ word_by_word:
     translation: love
     transliteration: yuḥibbu
   14:
-    arabic: الۡخَآٮِٕنِيۡنَ‏
+    arabic: ٱلۡخَآئِنِينَ
     translation: the traitors
     transliteration: l-khāinīna
 ---

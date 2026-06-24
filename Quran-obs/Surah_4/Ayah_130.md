@@ -1,15 +1,15 @@
 ---
-arabic_ayat: وَاِنۡ يَّتَفَرَّقَا يُغۡنِ اللّٰهُ كُلًّا مِّنۡ سَعَتِهٖ​ ؕ وَكَانَ
-  اللّٰهُ وَاسِعًا حَكِيۡمًا‏
+arabic_ayat: وَإِن يَتَفَرَّقَا يُغۡنِ ٱللَّهُ كُلّٗا مِّن سَعَتِهِۦۚ وَكَانَ ٱللَّهُ
+  وَٰسِعًا حَكِيمٗا
 sentence_translation: But if they choose to separate, Allah will enrich both of them
   from His bounties. And Allah is Ever-Bountiful, All-Wise.
 word_by_word:
   1:
-    arabic: وَاِنۡ
+    arabic: وَإِن
     translation: And if
     transliteration: wa-in
   2:
-    arabic: يَّتَفَرَّقَا
+    arabic: يَتَفَرَّقَا
     translation: they separate
     transliteration: yatafarraqā
   3:
@@ -17,19 +17,19 @@ word_by_word:
     translation: will be enriched
     transliteration: yugh'ni
   4:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: (by) Allah
     transliteration: l-lahu
   5:
-    arabic: كُلًّا
+    arabic: كُلّٗا
     translation: each (of them)
     transliteration: kullan
   6:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: from
     transliteration: min
   7:
-    arabic: سَعَتِهٖ​ ؕ
+    arabic: سَعَتِهِۦۚ
     translation: His abundance
     transliteration: saʿatihi
   8:
@@ -37,15 +37,15 @@ word_by_word:
     translation: and is
     transliteration: wakāna
   9:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   10:
-    arabic: وَاسِعًا
+    arabic: وَٰسِعًا
     translation: All-Encompassing
     transliteration: wāsiʿan
   11:
-    arabic: حَكِيۡمًا‏
+    arabic: حَكِيمٗا
     translation: All-Wise
     transliteration: ḥakīman
 ---

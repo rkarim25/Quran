@@ -1,11 +1,11 @@
 ---
-arabic_ayat: وَاِذۡ قَالَ اِبۡرٰهِيۡمُ لِاَبِيۡهِ وَقَوۡمِهٖۤ اِنَّنِىۡ بَرَآءٌ مِّمَّا
-  تَعۡبُدُوۡنَۙ‏
+arabic_ayat: وَإِذۡ قَالَ إِبۡرَٰهِيمُ لِأَبِيهِ وَقَوۡمِهِۦٓ إِنَّنِي بَرَآءٞ مِّمَّا
+  تَعۡبُدُونَ
 sentence_translation: ˹Remember, O  Prophet˺ when Abraham declared to his father and
   his people, “I am totally free of whatever ˹gods˺ you worship,
 word_by_word:
   1:
-    arabic: وَاِذۡ
+    arabic: وَإِذۡ
     translation: And when
     transliteration: wa-idh
   2:
@@ -13,23 +13,23 @@ word_by_word:
     translation: Ibrahim Said
     transliteration: qāla
   3:
-    arabic: اِبۡرٰهِيۡمُ
+    arabic: إِبۡرَٰهِيمُ
     translation: Ibrahim Said
     transliteration: ib'rāhīmu
   4:
-    arabic: لِاَبِيۡهِ
+    arabic: لِأَبِيهِ
     translation: to his father
     transliteration: li-abīhi
   5:
-    arabic: وَقَوۡمِهٖۤ
+    arabic: وَقَوۡمِهِۦٓ
     translation: and his people
     transliteration: waqawmihi
   6:
-    arabic: اِنَّنِىۡ
+    arabic: إِنَّنِي
     translation: Indeed, I (am)
     transliteration: innanī
   7:
-    arabic: بَرَآءٌ
+    arabic: بَرَآءٞ
     translation: disassociated
     transliteration: barāon
   8:
@@ -37,7 +37,7 @@ word_by_word:
     translation: from what
     transliteration: mimmā
   9:
-    arabic: تَعۡبُدُوۡنَۙ‏
+    arabic: تَعۡبُدُونَ
     translation: you worship
     transliteration: taʿbudūna
 ---

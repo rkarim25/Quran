@@ -1,9 +1,9 @@
 ---
-arabic_ayat: يٰۤاَيُّهَا النَّبِىُّ اِذَا جَآءَكَ الۡمُؤۡمِنٰتُ يُبَايِعۡنَكَ عَلٰٓى
-  اَنۡ لَّا يُشۡرِكۡنَ بِاللّٰهِ شَيۡــًٔا وَّلَا يَسۡرِقۡنَ وَلَا يَزۡنِيۡنَ وَلَا
-  يَقۡتُلۡنَ اَوۡلَادَهُنَّ وَلَا يَاۡتِيۡنَ بِبُهۡتَانٍ يَّفۡتَرِيۡنَهٗ بَيۡنَ اَيۡدِيۡهِنَّ
-  وَاَرۡجُلِهِنَّ وَلَا يَعۡصِيۡنَكَ فِىۡ مَعۡرُوۡفٍ​ فَبَايِعۡهُنَّ وَاسۡتَغۡفِرۡ
-  لَهُنَّ اللّٰهَ​ؕ اِنَّ اللّٰهَ غَفُوۡرٌ رَّحِيۡمٌ‏
+arabic_ayat: يَٰٓأَيُّهَا ٱلنَّبِيُّ إِذَا جَآءَكَ ٱلۡمُؤۡمِنَٰتُ يُبَايِعۡنَكَ عَلَىٰٓ
+  أَن لَّا يُشۡرِكۡنَ بِٱللَّهِ شَيۡـٔٗا وَلَا يَسۡرِقۡنَ وَلَا يَزۡنِينَ وَلَا يَقۡتُلۡنَ
+  أَوۡلَٰدَهُنَّ وَلَا يَأۡتِينَ بِبُهۡتَٰنٖ يَفۡتَرِينَهُۥ بَيۡنَ أَيۡدِيهِنَّ وَأَرۡجُلِهِنَّ
+  وَلَا يَعۡصِينَكَ فِي مَعۡرُوفٖ فَبَايِعۡهُنَّ وَٱسۡتَغۡفِرۡ لَهُنَّ ٱللَّهَۚ إِنَّ
+  ٱللَّهَ غَفُورٞ رَّحِيمٞ
 sentence_translation: O Prophet! When the believing women come to you, pledging to
   you that they will neither associate anything with Allah ˹in worship˺, nor steal,
   nor fornicate, nor kill their children, nor falsely attribute ˹illegitimate˺ children
@@ -11,15 +11,15 @@ sentence_translation: O Prophet! When the believing women come to you, pledging 
   ask Allah to forgive them. Surely Allah is All-Forgiving, Most Merciful.
 word_by_word:
   1:
-    arabic: يٰۤاَيُّهَا
+    arabic: يَٰٓأَيُّهَا
     translation: O
     transliteration: yāayyuhā
   2:
-    arabic: النَّبِىُّ
+    arabic: ٱلنَّبِيُّ
     translation: Prophet
     transliteration: l-nabiyu
   3:
-    arabic: اِذَا
+    arabic: إِذَا
     translation: When
     transliteration: idhā
   4:
@@ -27,7 +27,7 @@ word_by_word:
     translation: come to you
     transliteration: jāaka
   5:
-    arabic: الۡمُؤۡمِنٰتُ
+    arabic: ٱلۡمُؤۡمِنَٰتُ
     translation: the believing women
     transliteration: l-mu'minātu
   6:
@@ -35,11 +35,11 @@ word_by_word:
     translation: pledging to you
     transliteration: yubāyiʿ'naka
   7:
-    arabic: عَلٰٓى
+    arabic: عَلَىٰٓ
     translation: '[on]'
     transliteration: ʿalā
   8:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that
     transliteration: an
   9:
@@ -51,15 +51,15 @@ word_by_word:
     translation: they will associate
     transliteration: yush'rik'na
   11:
-    arabic: بِاللّٰهِ
+    arabic: بِٱللَّهِ
     translation: with Allah
     transliteration: bil-lahi
   12:
-    arabic: شَيۡــًٔا
+    arabic: شَيۡـٔٗا
     translation: anything
     transliteration: shayan
   13:
-    arabic: وَّلَا
+    arabic: وَلَا
     translation: and not
     transliteration: walā
   14:
@@ -71,7 +71,7 @@ word_by_word:
     translation: and not
     transliteration: walā
   16:
-    arabic: يَزۡنِيۡنَ
+    arabic: يَزۡنِينَ
     translation: they will commit adultery
     transliteration: yaznīna
   17:
@@ -83,7 +83,7 @@ word_by_word:
     translation: they will kill
     transliteration: yaqtul'na
   19:
-    arabic: اَوۡلَادَهُنَّ
+    arabic: أَوۡلَٰدَهُنَّ
     translation: their children
     transliteration: awlādahunna
   20:
@@ -91,15 +91,15 @@ word_by_word:
     translation: and not
     transliteration: walā
   21:
-    arabic: يَاۡتِيۡنَ
+    arabic: يَأۡتِينَ
     translation: they bring
     transliteration: yatīna
   22:
-    arabic: بِبُهۡتَانٍ
+    arabic: بِبُهۡتَٰنٖ
     translation: slander
     transliteration: bibuh'tānin
   23:
-    arabic: يَّفۡتَرِيۡنَهٗ
+    arabic: يَفۡتَرِينَهُۥ
     translation: they invent it
     transliteration: yaftarīnahu
   24:
@@ -107,11 +107,11 @@ word_by_word:
     translation: between
     transliteration: bayna
   25:
-    arabic: اَيۡدِيۡهِنَّ
+    arabic: أَيۡدِيهِنَّ
     translation: their hands
     transliteration: aydīhinna
   26:
-    arabic: وَاَرۡجُلِهِنَّ
+    arabic: وَأَرۡجُلِهِنَّ
     translation: and their feet
     transliteration: wa-arjulihinna
   27:
@@ -119,15 +119,15 @@ word_by_word:
     translation: and not
     transliteration: walā
   28:
-    arabic: يَعۡصِيۡنَكَ
+    arabic: يَعۡصِينَكَ
     translation: they will disobey you
     transliteration: yaʿṣīnaka
   29:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   30:
-    arabic: مَعۡرُوۡفٍ​
+    arabic: مَعۡرُوفٖ
     translation: (the) right
     transliteration: maʿrūfin
   31:
@@ -135,7 +135,7 @@ word_by_word:
     translation: then accept their pledge
     transliteration: fabāyiʿ'hunna
   32:
-    arabic: وَاسۡتَغۡفِرۡ
+    arabic: وَٱسۡتَغۡفِرۡ
     translation: and ask forgiveness
     transliteration: wa-is'taghfir
   33:
@@ -143,23 +143,23 @@ word_by_word:
     translation: for them
     transliteration: lahunna
   34:
-    arabic: اللّٰهَ​ؕ
+    arabic: ٱللَّهَۚ
     translation: (from) Allah
     transliteration: l-laha
   35:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   36:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   37:
-    arabic: غَفُوۡرٌ
+    arabic: غَفُورٞ
     translation: (is) Oft-Forgiving
     transliteration: ghafūrun
   38:
-    arabic: رَّحِيۡمٌ‏
+    arabic: رَّحِيمٞ
     translation: Most Merciful
     transliteration: raḥīmun
 ---

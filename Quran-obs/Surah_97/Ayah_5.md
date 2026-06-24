@@ -1,17 +1,17 @@
 ---
-arabic_ayat: سَلٰمٌ   ۛهِىَ حَتّٰى مَطۡلَعِ الۡفَجۡرِ‏
+arabic_ayat: سَلَٰمٌ هِيَ حَتَّىٰ مَطۡلَعِ ٱلۡفَجۡرِ
 sentence_translation: It is all peace until the break of dawn.
 word_by_word:
   1:
-    arabic: سَلٰمٌ 
+    arabic: سَلَٰمٌ
     translation: Peace
     transliteration: salāmun
   2:
-    arabic:  ۛهِىَ
+    arabic: هِيَ
     translation: it (is)
     transliteration: hiya
   3:
-    arabic: حَتّٰى
+    arabic: حَتَّىٰ
     translation: until
     transliteration: ḥattā
   4:
@@ -19,7 +19,7 @@ word_by_word:
     translation: (the) emergence
     transliteration: maṭlaʿi
   5:
-    arabic: الۡفَجۡرِ‏
+    arabic: ٱلۡفَجۡرِ
     translation: (of) the dawn
     transliteration: l-fajri
 ---

@@ -1,9 +1,9 @@
 ---
-arabic_ayat: اُولٰٓٮِٕكَ لَهُمۡ رِزۡقٌ مَّعۡلُوۡمٌۙ‏
+arabic_ayat: أُوْلَٰٓئِكَ لَهُمۡ رِزۡقٞ مَّعۡلُومٞ
 sentence_translation: 'They will have a known provision:'
 word_by_word:
   1:
-    arabic: اُولٰٓٮِٕكَ
+    arabic: أُوْلَٰٓئِكَ
     translation: Those
     transliteration: ulāika
   2:
@@ -11,11 +11,11 @@ word_by_word:
     translation: for them
     transliteration: lahum
   3:
-    arabic: رِزۡقٌ
+    arabic: رِزۡقٞ
     translation: (will be) a provision
     transliteration: riz'qun
   4:
-    arabic: مَّعۡلُوۡمٌۙ‏
+    arabic: مَّعۡلُومٞ
     translation: determined
     transliteration: maʿlūmun
 ---

@@ -1,6 +1,6 @@
 ---
-arabic_ayat: وَمِنَ الَّيۡلِ فَتَهَجَّدۡ بِهٖ نَافِلَةً لَّكَ ​ۖ  عَسٰۤى اَنۡ يَّبۡعَـثَكَ
-  رَبُّكَ مَقَامًا مَّحۡمُوۡدًا‏
+arabic_ayat: وَمِنَ ٱلَّيۡلِ فَتَهَجَّدۡ بِهِۦ نَافِلَةٗ لَّكَ عَسَىٰٓ أَن يَبۡعَثَكَ
+  رَبُّكَ مَقَامٗا مَّحۡمُودٗا
 sentence_translation: And rise at ˹the last˺ part of the night, offering additional
   prayers, so your Lord may raise you to a station of praise.
 word_by_word:
@@ -9,7 +9,7 @@ word_by_word:
     translation: And from
     transliteration: wamina
   2:
-    arabic: الَّيۡلِ
+    arabic: ٱلَّيۡلِ
     translation: the night
     transliteration: al-layli
   3:
@@ -17,27 +17,27 @@ word_by_word:
     translation: arise from sleep for prayer
     transliteration: fatahajjad
   4:
-    arabic: بِهٖ
+    arabic: بِهِۦ
     translation: with it
     transliteration: bihi
   5:
-    arabic: نَافِلَةً
+    arabic: نَافِلَةٗ
     translation: (as) additional
     transliteration: nāfilatan
   6:
-    arabic: لَّكَ ​ۖ 
+    arabic: لَّكَ
     translation: for you
     transliteration: laka
   7:
-    arabic: عَسٰۤى
+    arabic: عَسَىٰٓ
     translation: it may be
     transliteration: ʿasā
   8:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that
     transliteration: an
   9:
-    arabic: يَّبۡعَـثَكَ
+    arabic: يَبۡعَثَكَ
     translation: will raise you
     transliteration: yabʿathaka
   10:
@@ -45,11 +45,11 @@ word_by_word:
     translation: your Lord
     transliteration: rabbuka
   11:
-    arabic: مَقَامًا
+    arabic: مَقَامٗا
     translation: (to) a station
     transliteration: maqāman
   12:
-    arabic: مَّحۡمُوۡدًا‏
+    arabic: مَّحۡمُودٗا
     translation: praiseworthy
     transliteration: maḥmūdan
 ---

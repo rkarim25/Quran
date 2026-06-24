@@ -1,35 +1,34 @@
 ---
-arabic_ayat: "قَالُوۡا حَرِّقُوۡهُ وَانْصُرُوۡۤا اٰلِهَتَكُمۡ اِنۡ كُنۡتُمۡ فٰعِلِيۡنَ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: قَالُواْ حَرِّقُوهُ وَٱنصُرُوٓاْ ءَالِهَتَكُمۡ إِن كُنتُمۡ فَٰعِلِينَ
 sentence_translation: They concluded, “Burn him up to avenge your gods, if you must
   act.”
 word_by_word:
   1:
-    arabic: قَالُوۡا
+    arabic: قَالُواْ
     translation: They said
     transliteration: qālū
   2:
-    arabic: حَرِّقُوۡهُ
+    arabic: حَرِّقُوهُ
     translation: Burn him
     transliteration: ḥarriqūhu
   3:
-    arabic: وَانْصُرُوۡۤا
+    arabic: وَٱنصُرُوٓاْ ءَ
     translation: and support
     transliteration: wa-unṣurū
   4:
-    arabic: اٰلِهَتَكُمۡ
+    arabic: الِهَتَكُمۡ
     translation: your gods
     transliteration: ālihatakum
   5:
-    arabic: اِنۡ
+    arabic: إِن
     translation: if
     transliteration: in
   6:
-    arabic: كُنۡتُمۡ
+    arabic: كُنتُمۡ
     translation: you are
     transliteration: kuntum
   7:
-    arabic: "فٰعِلِيۡنَ‏ \uFEFF\uFEFF"
+    arabic: فَٰعِلِينَ
     translation: doers
     transliteration: fāʿilīna
 ---

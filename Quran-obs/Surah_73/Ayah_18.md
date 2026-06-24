@@ -1,18 +1,18 @@
 ---
-arabic_ayat: اۨلسَّمَآءُ مُنۡفَطِرٌ ۢ بِهٖ​ؕ كَانَ وَعۡدُهٗ مَفۡعُوۡلًا‏
+arabic_ayat: ٱلسَّمَآءُ مُنفَطِرُۢ بِهِۦۚ كَانَ وَعۡدُهُۥ مَفۡعُولًا
 sentence_translation: It will ˹even˺ cause the sky to split apart. His promise ˹of
   judgment˺ must be fulfilled.
 word_by_word:
   1:
-    arabic: اۨلسَّمَآءُ
+    arabic: ٱلسَّمَآءُ
     translation: The heaven
     transliteration: al-samāu
   2:
-    arabic: مُنۡفَطِرٌ ۢ
+    arabic: مُنفَطِرُۢ
     translation: (will) break apart
     transliteration: munfaṭirun
   3:
-    arabic: بِهٖ​ؕ
+    arabic: بِهِۦۚ
     translation: therefrom
     transliteration: bihi
   4:
@@ -20,11 +20,11 @@ word_by_word:
     translation: is
     transliteration: kāna
   5:
-    arabic: وَعۡدُهٗ
+    arabic: وَعۡدُهُۥ
     translation: His Promise
     transliteration: waʿduhu
   6:
-    arabic: مَفۡعُوۡلًا‏
+    arabic: مَفۡعُولًا
     translation: to be fulfilled
     transliteration: mafʿūlan
 ---

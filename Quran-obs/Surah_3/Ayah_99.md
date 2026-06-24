@@ -1,7 +1,6 @@
 ---
-arabic_ayat: "قُلۡ يٰۤـاَهۡلَ الۡكِتٰبِ لِمَ تَصُدُّوۡنَ عَنۡ سَبِيۡلِ اللّٰهِ مَنۡ\
-  \ اٰمَنَ تَبۡغُوۡنَهَا عِوَجًا وَّاَنۡتُمۡ شُهَدَآءُ ​ؕ وَمَا اللّٰهُ بِغَافِلٍ\
-  \ عَمَّا تَعۡمَلُوۡنَ‏ \uFEFF\uFEFF"
+arabic_ayat: قُلۡ يَٰٓأَهۡلَ ٱلۡكِتَٰبِ لِمَ تَصُدُّونَ عَن سَبِيلِ ٱللَّهِ مَنۡ ءَامَنَ
+  تَبۡغُونَهَا عِوَجٗا وَأَنتُمۡ شُهَدَآءُۗ وَمَا ٱللَّهُ بِغَٰفِلٍ عَمَّا تَعۡمَلُونَ
 sentence_translation: Say, “O People of the Book! Why do you turn the believers away
   from the Way of Allah—striving to make it ˹appear˺ crooked, while you are witnesses
   ˹to its truth˺? And Allah is never unaware of what you do.”
@@ -11,11 +10,11 @@ word_by_word:
     translation: Say
     transliteration: qul
   2:
-    arabic: يٰۤـاَهۡلَ
+    arabic: يَٰٓأَهۡلَ
     translation: O People
     transliteration: yāahla
   3:
-    arabic: الۡكِتٰبِ
+    arabic: ٱلۡكِتَٰبِ
     translation: (of) the Book
     transliteration: l-kitābi
   4:
@@ -23,43 +22,43 @@ word_by_word:
     translation: Why
     transliteration: lima
   5:
-    arabic: تَصُدُّوۡنَ
+    arabic: تَصُدُّونَ
     translation: (do) you hinder
     transliteration: taṣuddūna
   6:
-    arabic: عَنۡ
+    arabic: عَن
     translation: from
     transliteration: ʿan
   7:
-    arabic: سَبِيۡلِ
+    arabic: سَبِيلِ
     translation: (the) way
     transliteration: sabīli
   8:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (of) Allah
     transliteration: l-lahi
   9:
-    arabic: مَنۡ
+    arabic: مَنۡ ءَ
     translation: (those) who
     transliteration: man
   10:
-    arabic: اٰمَنَ
+    arabic: امَنَ
     translation: believe[d]
     transliteration: āmana
   11:
-    arabic: تَبۡغُوۡنَهَا
+    arabic: تَبۡغُونَهَا
     translation: seeking (to make) it
     transliteration: tabghūnahā
   12:
-    arabic: عِوَجًا
+    arabic: عِوَجٗا
     translation: (seem) crooked
     transliteration: ʿiwajan
   13:
-    arabic: وَّاَنۡتُمۡ
+    arabic: وَأَنتُمۡ
     translation: while you
     transliteration: wa-antum
   14:
-    arabic: شُهَدَآءُ ​ؕ
+    arabic: شُهَدَآءُۗ
     translation: (are) witnesses
     transliteration: shuhadāu
   15:
@@ -67,11 +66,11 @@ word_by_word:
     translation: And not
     transliteration: wamā
   16:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   17:
-    arabic: بِغَافِلٍ
+    arabic: بِغَٰفِلٍ
     translation: (is) unaware
     transliteration: bighāfilin
   18:
@@ -79,7 +78,7 @@ word_by_word:
     translation: of what
     transliteration: ʿammā
   19:
-    arabic: "تَعۡمَلُوۡنَ‏ \uFEFF\uFEFF"
+    arabic: تَعۡمَلُونَ
     translation: you do
     transliteration: taʿmalūna
 ---

@@ -1,6 +1,5 @@
 ---
-arabic_ayat: "قُلۡ اِنَّ صَلَاتِىۡ وَنُسُكِىۡ وَ مَحۡيَاىَ وَمَمَاتِىۡ لِلّٰهِ رَبِّ\
-  \ الۡعٰلَمِيۡنَۙ‏ \uFEFF\uFEFF"
+arabic_ayat: قُلۡ إِنَّ صَلَاتِي وَنُسُكِي وَمَحۡيَايَ وَمَمَاتِي لِلَّهِ رَبِّ ٱلۡعَٰلَمِينَ
 sentence_translation: Say, “Surely my prayer, my worship, my life, and my death are
   all for Allah—Lord of all worlds.
 word_by_word:
@@ -9,27 +8,27 @@ word_by_word:
     translation: Say
     transliteration: qul
   2:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   3:
-    arabic: صَلَاتِىۡ
+    arabic: صَلَاتِي
     translation: my prayer
     transliteration: ṣalātī
   4:
-    arabic: وَنُسُكِىۡ
+    arabic: وَنُسُكِي
     translation: and my rites of sacrifice
     transliteration: wanusukī
   5:
-    arabic: وَ مَحۡيَاىَ
+    arabic: وَمَحۡيَايَ
     translation: and my living
     transliteration: wamaḥyāya
   6:
-    arabic: وَمَمَاتِىۡ
+    arabic: وَمَمَاتِي
     translation: and my dying
     transliteration: wamamātī
   7:
-    arabic: لِلّٰهِ
+    arabic: لِلَّهِ
     translation: (are) for Allah
     transliteration: lillahi
   8:
@@ -37,7 +36,7 @@ word_by_word:
     translation: Lord
     transliteration: rabbi
   9:
-    arabic: "الۡعٰلَمِيۡنَۙ‏ \uFEFF\uFEFF"
+    arabic: ٱلۡعَٰلَمِينَ
     translation: (of) the worlds
     transliteration: l-ʿālamīna
 ---

@@ -1,51 +1,51 @@
 ---
-arabic_ayat: وَمَاۤ اَرۡسَلۡنَا فِىۡ قَرۡيَةٍ مِّنۡ نَّبِىٍّ اِلَّاۤ اَخَذۡنَاۤ اَهۡلَهَا
-  بِالۡبَاۡسَآءِ وَالضَّرَّآءِ لَعَلَّهُمۡ يَضَّرَّعُوۡنَ‏
+arabic_ayat: وَمَآ أَرۡسَلۡنَا فِي قَرۡيَةٖ مِّن نَّبِيٍّ إِلَّآ أَخَذۡنَآ أَهۡلَهَا
+  بِٱلۡبَأۡسَآءِ وَٱلضَّرَّآءِ لَعَلَّهُمۡ يَضَّرَّعُونَ
 sentence_translation: Whenever We sent a prophet to a society, We afflicted its ˹disbelieving˺
   people with suffering and adversity, so perhaps they would be humbled.
 word_by_word:
   1:
-    arabic: وَمَاۤ
+    arabic: وَمَآ
     translation: And not
     transliteration: wamā
   2:
-    arabic: اَرۡسَلۡنَا
+    arabic: أَرۡسَلۡنَا
     translation: We sent
     transliteration: arsalnā
   3:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   4:
-    arabic: قَرۡيَةٍ
+    arabic: قَرۡيَةٖ
     translation: a city
     transliteration: qaryatin
   5:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: any
     transliteration: min
   6:
-    arabic: نَّبِىٍّ
+    arabic: نَّبِيٍّ
     translation: Prophet
     transliteration: nabiyyin
   7:
-    arabic: اِلَّاۤ
+    arabic: إِلَّآ
     translation: except
     transliteration: illā
   8:
-    arabic: اَخَذۡنَاۤ
+    arabic: أَخَذۡنَآ
     translation: We seized
     transliteration: akhadhnā
   9:
-    arabic: اَهۡلَهَا
+    arabic: أَهۡلَهَا
     translation: its people
     transliteration: ahlahā
   10:
-    arabic: بِالۡبَاۡسَآءِ
+    arabic: بِٱلۡبَأۡسَآءِ
     translation: with adversity
     transliteration: bil-basāi
   11:
-    arabic: وَالضَّرَّآءِ
+    arabic: وَٱلضَّرَّآءِ
     translation: and hardship
     transliteration: wal-ḍarāi
   12:
@@ -53,7 +53,7 @@ word_by_word:
     translation: so that they may
     transliteration: laʿallahum
   13:
-    arabic: يَضَّرَّعُوۡنَ‏
+    arabic: يَضَّرَّعُونَ
     translation: (become) humble
     transliteration: yaḍḍarraʿūna
 ---

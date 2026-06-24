@@ -1,5 +1,5 @@
 ---
-arabic_ayat: قُلۡ يٰۤاَيُّهَا النَّاسُ اِنَّمَاۤ اَنَا لَـكُمۡ نَذِيۡرٌ مُّبِيۡنٌ​ۚ‏
+arabic_ayat: قُلۡ يَٰٓأَيُّهَا ٱلنَّاسُ إِنَّمَآ أَنَا۠ لَكُمۡ نَذِيرٞ مُّبِينٞ
 sentence_translation: Say, ˹O Prophet,˺ “O humanity! I am only sent to you with a
   clear warning.
 word_by_word:
@@ -8,31 +8,31 @@ word_by_word:
     translation: Say
     transliteration: qul
   2:
-    arabic: يٰۤاَيُّهَا
+    arabic: يَٰٓأَيُّهَا
     translation: O mankind
     transliteration: yāayyuhā
   3:
-    arabic: النَّاسُ
+    arabic: ٱلنَّاسُ
     translation: O mankind
     transliteration: l-nāsu
   4:
-    arabic: اِنَّمَاۤ
+    arabic: إِنَّمَآ
     translation: Only
     transliteration: innamā
   5:
-    arabic: اَنَا
+    arabic: أَنَا۠
     translation: I am
     transliteration: anā
   6:
-    arabic: لَـكُمۡ
+    arabic: لَكُمۡ
     translation: to you
     transliteration: lakum
   7:
-    arabic: نَذِيۡرٌ
+    arabic: نَذِيرٞ
     translation: a warner
     transliteration: nadhīrun
   8:
-    arabic: مُّبِيۡنٌ​ۚ‏
+    arabic: مُّبِينٞ
     translation: clear
     transliteration: mubīnun
 ---

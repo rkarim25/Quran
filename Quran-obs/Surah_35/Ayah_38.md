@@ -1,19 +1,19 @@
 ---
-arabic_ayat: اِنَّ اللّٰهَ عٰلِمُ غَيۡبِ السَّمٰوٰتِ وَالۡاَرۡضِؕ اِنَّهٗ عَلِيۡمٌۢ
-  بِذَاتِ الصُّدُوۡرِ‏
+arabic_ayat: إِنَّ ٱللَّهَ عَٰلِمُ غَيۡبِ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِۚ إِنَّهُۥ عَلِيمُۢ
+  بِذَاتِ ٱلصُّدُورِ
 sentence_translation: Indeed, Allah is the Knower of the unseen of the heavens and
   the earth. He surely knows best what is ˹hidden˺ in the heart.
 word_by_word:
   1:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   2:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   3:
-    arabic: عٰلِمُ
+    arabic: عَٰلِمُ
     translation: (is the) Knower
     transliteration: ʿālimu
   4:
@@ -21,19 +21,19 @@ word_by_word:
     translation: (of the) unseen
     transliteration: ghaybi
   5:
-    arabic: السَّمٰوٰتِ
+    arabic: ٱلسَّمَٰوَٰتِ
     translation: (of) the heavens
     transliteration: l-samāwāti
   6:
-    arabic: وَالۡاَرۡضِؕ
+    arabic: وَٱلۡأَرۡضِۚ
     translation: and the earth
     transliteration: wal-arḍi
   7:
-    arabic: اِنَّهٗ
+    arabic: إِنَّهُۥ
     translation: Indeed, He
     transliteration: innahu
   8:
-    arabic: عَلِيۡمٌۢ
+    arabic: عَلِيمُۢ
     translation: (is the) All-Knower
     transliteration: ʿalīmun
   9:
@@ -41,7 +41,7 @@ word_by_word:
     translation: of what (is) in the breasts
     transliteration: bidhāti
   10:
-    arabic: الصُّدُوۡرِ‏
+    arabic: ٱلصُّدُورِ
     translation: of what (is) in the breasts
     transliteration: l-ṣudūri
 ---

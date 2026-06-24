@@ -1,9 +1,9 @@
 ---
-arabic_ayat: اِرَمَ ذَاتِ الۡعِمَادِۙ‏
+arabic_ayat: إِرَمَ ذَاتِ ٱلۡعِمَادِ
 sentence_translation: ˹the people˺ of Iram—with ˹their˺ great stature,
 word_by_word:
   1:
-    arabic: اِرَمَ
+    arabic: إِرَمَ
     translation: Iram
     transliteration: irama
   2:
@@ -11,7 +11,7 @@ word_by_word:
     translation: possessors (of)
     transliteration: dhāti
   3:
-    arabic: الۡعِمَادِۙ‏
+    arabic: ٱلۡعِمَادِ
     translation: lofty pillars
     transliteration: l-ʿimādi
 ---

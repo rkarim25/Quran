@@ -1,8 +1,8 @@
 ---
-arabic_ayat: وَاِذۡ قَالَ اِبۡرٰهٖمُ رَبِّ اجۡعَلۡ هٰذَا بَلَدًا اٰمِنًا وَّارۡزُقۡ
-  اَهۡلَهٗ مِنَ الثَّمَرٰتِ مَنۡ اٰمَنَ مِنۡهُمۡ بِاللّٰهِ وَالۡيَوۡمِ الۡاٰخِرِ​ؕ
-  قَالَ وَمَنۡ كَفَرَ فَاُمَتِّعُهٗ قَلِيۡلًا ثُمَّ اَضۡطَرُّهٗۤ اِلٰى عَذَابِ النَّارِ​ؕ
-  وَبِئۡسَ الۡمَصِيۡرُ‏‏
+arabic_ayat: وَإِذۡ قَالَ إِبۡرَٰهِـۧمُ رَبِّ ٱجۡعَلۡ هَٰذَا بَلَدًا ءَامِنٗا وَٱرۡزُقۡ
+  أَهۡلَهُۥ مِنَ ٱلثَّمَرَٰتِ مَنۡ ءَامَنَ مِنۡهُم بِٱللَّهِ وَٱلۡيَوۡمِ ٱلۡأٓخِرِۚ
+  قَالَ وَمَن كَفَرَ فَأُمَتِّعُهُۥ قَلِيلٗا ثُمَّ أَضۡطَرُّهُۥٓ إِلَىٰ عَذَابِ ٱلنَّارِۖ
+  وَبِئۡسَ ٱلۡمَصِيرُ
 sentence_translation: And ˹remember˺ when Abraham said, “My Lord, make this city ˹of
   Mecca˺ secure and provide fruits to its people—those among them who believe in Allah
   and the Last Day.” He answered, “As for those who disbelieve, I will let them enjoy
@@ -10,7 +10,7 @@ sentence_translation: And ˹remember˺ when Abraham said, “My Lord, make this 
   What an evil destination!”
 word_by_word:
   1:
-    arabic: وَاِذۡ
+    arabic: وَإِذۡ
     translation: And when
     transliteration: wa-idh
   2:
@@ -18,7 +18,7 @@ word_by_word:
     translation: said
     transliteration: qāla
   3:
-    arabic: اِبۡرٰهٖمُ
+    arabic: إِبۡرَٰهِـۧمُ
     translation: Ibrahim
     transliteration: ib'rāhīmu
   4:
@@ -26,27 +26,27 @@ word_by_word:
     translation: My Lord
     transliteration: rabbi
   5:
-    arabic: اجۡعَلۡ
+    arabic: ٱجۡعَلۡ
     translation: make
     transliteration: ij'ʿal
   6:
-    arabic: هٰذَا
+    arabic: هَٰذَا
     translation: this
     transliteration: hādhā
   7:
-    arabic: بَلَدًا
+    arabic: بَلَدًا ءَ
     translation: a city
     transliteration: baladan
   8:
-    arabic: اٰمِنًا
+    arabic: امِنٗا
     translation: secure
     transliteration: āminan
   9:
-    arabic: وَّارۡزُقۡ
+    arabic: وَٱرۡزُقۡ
     translation: and provide
     transliteration: wa-ur'zuq
   10:
-    arabic: اَهۡلَهٗ
+    arabic: أَهۡلَهُۥ
     translation: its people
     transliteration: ahlahu
   11:
@@ -54,31 +54,31 @@ word_by_word:
     translation: with
     transliteration: mina
   12:
-    arabic: الثَّمَرٰتِ
+    arabic: ٱلثَّمَرَٰتِ
     translation: fruits
     transliteration: l-thamarāti
   13:
-    arabic: مَنۡ
+    arabic: مَنۡ ءَ
     translation: (to) whoever
     transliteration: man
   14:
-    arabic: اٰمَنَ
+    arabic: امَنَ
     translation: believed
     transliteration: āmana
   15:
-    arabic: مِنۡهُمۡ
+    arabic: مِنۡهُم
     translation: from them
     transliteration: min'hum
   16:
-    arabic: بِاللّٰهِ
+    arabic: بِٱللَّهِ
     translation: in Allah
     transliteration: bil-lahi
   17:
-    arabic: وَالۡيَوۡمِ
+    arabic: وَٱلۡيَوۡمِ
     translation: and the Day
     transliteration: wal-yawmi
   18:
-    arabic: الۡاٰخِرِ​ؕ
+    arabic: ٱلۡأٓخِرِۚ
     translation: the Last
     transliteration: l-ākhiri
   19:
@@ -86,7 +86,7 @@ word_by_word:
     translation: He said
     transliteration: qāla
   20:
-    arabic: وَمَنۡ
+    arabic: وَمَن
     translation: And whoever
     transliteration: waman
   21:
@@ -94,11 +94,11 @@ word_by_word:
     translation: disbelieved
     transliteration: kafara
   22:
-    arabic: فَاُمَتِّعُهٗ
+    arabic: فَأُمَتِّعُهُۥ
     translation: '[then] I will grant him enjoyment'
     transliteration: fa-umattiʿuhu
   23:
-    arabic: قَلِيۡلًا
+    arabic: قَلِيلٗا
     translation: a little
     transliteration: qalīlan
   24:
@@ -106,11 +106,11 @@ word_by_word:
     translation: then
     transliteration: thumma
   25:
-    arabic: اَضۡطَرُّهٗۤ
+    arabic: أَضۡطَرُّهُۥٓ
     translation: I will force him
     transliteration: aḍṭarruhu
   26:
-    arabic: اِلٰى
+    arabic: إِلَىٰ
     translation: to
     transliteration: ilā
   27:
@@ -118,7 +118,7 @@ word_by_word:
     translation: (the) punishment
     transliteration: ʿadhābi
   28:
-    arabic: النَّارِ​ؕ
+    arabic: ٱلنَّارِۖ
     translation: (of) the Fire
     transliteration: l-nāri
   29:
@@ -126,7 +126,7 @@ word_by_word:
     translation: and evil
     transliteration: wabi'sa
   30:
-    arabic: الۡمَصِيۡرُ‏‏
+    arabic: ٱلۡمَصِيرُ
     translation: (is) the destination
     transliteration: l-maṣīru
 ---

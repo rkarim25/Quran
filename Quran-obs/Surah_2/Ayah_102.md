@@ -1,13 +1,13 @@
 ---
-arabic_ayat: "وَاتَّبَعُوۡا مَا تَتۡلُوا الشَّيٰطِيۡنُ عَلٰى مُلۡكِ سُلَيۡمٰنَ​​ۚ\
-  \ وَمَا کَفَرَ سُلَيۡمٰنُ وَلٰـكِنَّ الشَّيٰـطِيۡنَ كَفَرُوۡا يُعَلِّمُوۡنَ النَّاسَ\
-  \ السِّحۡرَ وَمَآ اُنۡزِلَ عَلَى الۡمَلَـکَيۡنِ بِبَابِلَ هَارُوۡتَ وَمَارُوۡتَ​ؕ\
-  \ وَمَا يُعَلِّمٰنِ مِنۡ اَحَدٍ حَتّٰى يَقُوۡلَاۤ اِنَّمَا نَحۡنُ فِتۡنَةٌ فَلَا\
-  \ تَكۡفُرۡؕ​ فَيَتَعَلَّمُوۡنَ مِنۡهُمَا مَا يُفَرِّقُوۡنَ بِهٖ بَيۡنَ الۡمَرۡءِ\
-  \ وَ زَوۡجِهٖ​ؕ وَمَا هُمۡ بِضَآرِّيۡنَ بِهٖ مِنۡ اَحَدٍ اِلَّا بِاِذۡنِ اللّٰهِ​ؕ\
-  \ وَيَتَعَلَّمُوۡنَ مَا يَضُرُّهُمۡ وَلَا يَنۡفَعُهُمۡ​ؕ وَلَقَدۡ عَلِمُوۡا لَمَنِ\
-  \ اشۡتَرٰٮهُ مَا لَهٗ فِى الۡاٰخِرَةِ مِنۡ خَلَاقٍ​ؕ وَلَبِئۡسَ مَا شَرَوۡا بِهٖۤ\
-  \ اَنۡفُسَهُمۡ​ؕ لَوۡ کَانُوۡا يَعۡلَمُوۡنَ‏ \uFEFF\uFEFF"
+arabic_ayat: وَٱتَّبَعُواْ مَا تَتۡلُواْ ٱلشَّيَٰطِينُ عَلَىٰ مُلۡكِ سُلَيۡمَٰنَۖ
+  وَمَا كَفَرَ سُلَيۡمَٰنُ وَلَٰكِنَّ ٱلشَّيَٰطِينَ كَفَرُواْ يُعَلِّمُونَ ٱلنَّاسَ
+  ٱلسِّحۡرَ وَمَآ أُنزِلَ عَلَى ٱلۡمَلَكَيۡنِ بِبَابِلَ هَٰرُوتَ وَمَٰرُوتَۚ وَمَا
+  يُعَلِّمَانِ مِنۡ أَحَدٍ حَتَّىٰ يَقُولَآ إِنَّمَا نَحۡنُ فِتۡنَةٞ فَلَا تَكۡفُرۡۖ
+  فَيَتَعَلَّمُونَ مِنۡهُمَا مَا يُفَرِّقُونَ بِهِۦ بَيۡنَ ٱلۡمَرۡءِ وَزَوۡجِهِۦۚ
+  وَمَا هُم بِضَآرِّينَ بِهِۦ مِنۡ أَحَدٍ إِلَّا بِإِذۡنِ ٱللَّهِۚ وَيَتَعَلَّمُونَ
+  مَا يَضُرُّهُمۡ وَلَا يَنفَعُهُمۡۚ وَلَقَدۡ عَلِمُواْ لَمَنِ ٱشۡتَرَىٰهُ مَا لَهُۥ
+  فِي ٱلۡأٓخِرَةِ مِنۡ خَلَٰقٖۚ وَلَبِئۡسَ مَا شَرَوۡاْ بِهِۦٓ أَنفُسَهُمۡۚ لَوۡ كَانُواْ
+  يَعۡلَمُونَ
 sentence_translation: They ˹instead˺ followed the magic promoted by the devils during
   the reign of Solomon. Never did Solomon disbelieve, rather the devils disbelieved.
   They taught magic to the people, along with what had been revealed to the two angels,
@@ -20,7 +20,7 @@ sentence_translation: They ˹instead˺ followed the magic promoted by the devils
   their souls, if only they knew!
 word_by_word:
   1:
-    arabic: وَاتَّبَعُوۡا
+    arabic: وَٱتَّبَعُواْ
     translation: And they followed
     transliteration: wa-ittabaʿū
   2:
@@ -28,15 +28,15 @@ word_by_word:
     translation: what
     transliteration: mā
   3:
-    arabic: تَتۡلُوا
+    arabic: تَتۡلُواْ
     translation: recite(d)
     transliteration: tatlū
   4:
-    arabic: الشَّيٰطِيۡنُ
+    arabic: ٱلشَّيَٰطِينُ
     translation: the devils
     transliteration: l-shayāṭīnu
   5:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: over
     transliteration: ʿalā
   6:
@@ -44,7 +44,7 @@ word_by_word:
     translation: (the) kingdom
     transliteration: mul'ki
   7:
-    arabic: سُلَيۡمٰنَ​​ۚ
+    arabic: سُلَيۡمَٰنَۖ
     translation: (of) Sulaiman
     transliteration: sulaymāna
   8:
@@ -52,35 +52,35 @@ word_by_word:
     translation: And not
     transliteration: wamā
   9:
-    arabic: کَفَرَ
+    arabic: كَفَرَ
     translation: disbelieved
     transliteration: kafara
   10:
-    arabic: سُلَيۡمٰنُ
+    arabic: سُلَيۡمَٰنُ
     translation: Sulaiman
     transliteration: sulaymānu
   11:
-    arabic: وَلٰـكِنَّ
+    arabic: وَلَٰكِنَّ
     translation: '[and] but'
     transliteration: walākinna
   12:
-    arabic: الشَّيٰـطِيۡنَ
+    arabic: ٱلشَّيَٰطِينَ
     translation: the devils
     transliteration: l-shayāṭīna
   13:
-    arabic: كَفَرُوۡا
+    arabic: كَفَرُواْ
     translation: disbelieved
     transliteration: kafarū
   14:
-    arabic: يُعَلِّمُوۡنَ
+    arabic: يُعَلِّمُونَ
     translation: they teach
     transliteration: yuʿallimūna
   15:
-    arabic: النَّاسَ
+    arabic: ٱلنَّاسَ
     translation: the people
     transliteration: l-nāsa
   16:
-    arabic: السِّحۡرَ
+    arabic: ٱلسِّحۡرَ
     translation: '[the] magic'
     transliteration: l-siḥ'ra
   17:
@@ -88,7 +88,7 @@ word_by_word:
     translation: and what
     transliteration: wamā
   18:
-    arabic: اُنۡزِلَ
+    arabic: أُنزِلَ
     translation: was sent down
     transliteration: unzila
   19:
@@ -96,7 +96,7 @@ word_by_word:
     translation: to
     transliteration: ʿalā
   20:
-    arabic: الۡمَلَـکَيۡنِ
+    arabic: ٱلۡمَلَكَيۡنِ
     translation: the two angels
     transliteration: l-malakayni
   21:
@@ -104,11 +104,11 @@ word_by_word:
     translation: in Babylon
     transliteration: bibābila
   22:
-    arabic: هَارُوۡتَ
+    arabic: هَٰرُوتَ
     translation: Harut
     transliteration: hārūta
   23:
-    arabic: وَمَارُوۡتَ​ؕ
+    arabic: وَمَٰرُوتَۚ
     translation: and Marut
     transliteration: wamārūta
   24:
@@ -116,7 +116,7 @@ word_by_word:
     translation: And not
     transliteration: wamā
   25:
-    arabic: يُعَلِّمٰنِ
+    arabic: يُعَلِّمَانِ
     translation: they both teach
     transliteration: yuʿallimāni
   26:
@@ -124,19 +124,19 @@ word_by_word:
     translation: any
     transliteration: min
   27:
-    arabic: اَحَدٍ
+    arabic: أَحَدٍ
     translation: one
     transliteration: aḥadin
   28:
-    arabic: حَتّٰى
+    arabic: حَتَّىٰ
     translation: unless
     transliteration: ḥattā
   29:
-    arabic: يَقُوۡلَاۤ
+    arabic: يَقُولَآ
     translation: they [both] say
     transliteration: yaqūlā
   30:
-    arabic: اِنَّمَا
+    arabic: إِنَّمَا
     translation: Only
     transliteration: innamā
   31:
@@ -144,7 +144,7 @@ word_by_word:
     translation: we
     transliteration: naḥnu
   32:
-    arabic: فِتۡنَةٌ
+    arabic: فِتۡنَةٞ
     translation: (are) a trial
     transliteration: fit'natun
   33:
@@ -152,11 +152,11 @@ word_by_word:
     translation: so (do) not
     transliteration: falā
   34:
-    arabic: تَكۡفُرۡؕ​
+    arabic: تَكۡفُرۡۖ
     translation: disbelieve
     transliteration: takfur
   35:
-    arabic: فَيَتَعَلَّمُوۡنَ
+    arabic: فَيَتَعَلَّمُونَ
     translation: But they learn
     transliteration: fayataʿallamūna
   36:
@@ -168,11 +168,11 @@ word_by_word:
     translation: what
     transliteration: mā
   38:
-    arabic: يُفَرِّقُوۡنَ
+    arabic: يُفَرِّقُونَ
     translation: '[they] causes separation'
     transliteration: yufarriqūna
   39:
-    arabic: بِهٖ
+    arabic: بِهِۦ
     translation: with it
     transliteration: bihi
   40:
@@ -180,11 +180,11 @@ word_by_word:
     translation: between
     transliteration: bayna
   41:
-    arabic: الۡمَرۡءِ
+    arabic: ٱلۡمَرۡءِ
     translation: the man
     transliteration: l-mari
   42:
-    arabic: وَ زَوۡجِهٖ​ؕ
+    arabic: وَزَوۡجِهِۦۚ
     translation: and his spouse
     transliteration: wazawjihi
   43:
@@ -192,15 +192,15 @@ word_by_word:
     translation: And not
     transliteration: wamā
   44:
-    arabic: هُمۡ
+    arabic: هُم
     translation: they (could)
     transliteration: hum
   45:
-    arabic: بِضَآرِّيۡنَ
+    arabic: بِضَآرِّينَ
     translation: at all [be those who] harm
     transliteration: biḍārrīna
   46:
-    arabic: بِهٖ
+    arabic: بِهِۦ
     translation: with it
     transliteration: bihi
   47:
@@ -208,23 +208,23 @@ word_by_word:
     translation: any
     transliteration: min
   48:
-    arabic: اَحَدٍ
+    arabic: أَحَدٍ
     translation: one
     transliteration: aḥadin
   49:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   50:
-    arabic: بِاِذۡنِ
+    arabic: بِإِذۡنِ
     translation: by permission
     transliteration: bi-idh'ni
   51:
-    arabic: اللّٰهِ​ؕ
+    arabic: ٱللَّهِۚ
     translation: (of) Allah
     transliteration: l-lahi
   52:
-    arabic: وَيَتَعَلَّمُوۡنَ
+    arabic: وَيَتَعَلَّمُونَ
     translation: And they learn
     transliteration: wayataʿallamūna
   53:
@@ -240,7 +240,7 @@ word_by_word:
     translation: and not
     transliteration: walā
   56:
-    arabic: يَنۡفَعُهُمۡ​ؕ
+    arabic: يَنفَعُهُمۡۚ
     translation: profits them
     transliteration: yanfaʿuhum
   57:
@@ -248,7 +248,7 @@ word_by_word:
     translation: And indeed
     transliteration: walaqad
   58:
-    arabic: عَلِمُوۡا
+    arabic: عَلِمُواْ
     translation: they knew
     transliteration: ʿalimū
   59:
@@ -256,7 +256,7 @@ word_by_word:
     translation: that whoever
     transliteration: lamani
   60:
-    arabic: اشۡتَرٰٮهُ
+    arabic: ٱشۡتَرَىٰهُ
     translation: buys it
     transliteration: ish'tarāhu
   61:
@@ -264,15 +264,15 @@ word_by_word:
     translation: not
     transliteration: mā
   62:
-    arabic: لَهٗ
+    arabic: لَهُۥ
     translation: for him
     transliteration: lahu
   63:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   64:
-    arabic: الۡاٰخِرَةِ
+    arabic: ٱلۡأٓخِرَةِ
     translation: the Hereafter
     transliteration: l-ākhirati
   65:
@@ -280,7 +280,7 @@ word_by_word:
     translation: any
     transliteration: min
   66:
-    arabic: خَلَاقٍ​ؕ
+    arabic: خَلَٰقٖۚ
     translation: share
     transliteration: khalāqin
   67:
@@ -292,15 +292,15 @@ word_by_word:
     translation: (is) what
     transliteration: mā
   69:
-    arabic: شَرَوۡا
+    arabic: شَرَوۡاْ
     translation: they sold
     transliteration: sharaw
   70:
-    arabic: بِهٖۤ
+    arabic: بِهِۦٓ
     translation: with it
     transliteration: bihi
   71:
-    arabic: اَنۡفُسَهُمۡ​ؕ
+    arabic: أَنفُسَهُمۡۚ
     translation: themselves
     transliteration: anfusahum
   72:
@@ -308,11 +308,11 @@ word_by_word:
     translation: if
     transliteration: law
   73:
-    arabic: کَانُوۡا
+    arabic: كَانُواْ
     translation: they were
     transliteration: kānū
   74:
-    arabic: "يَعۡلَمُوۡنَ‏ \uFEFF\uFEFF"
+    arabic: يَعۡلَمُونَ
     translation: (to) know
     transliteration: yaʿlamūna
 ---

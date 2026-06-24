@@ -1,11 +1,11 @@
 ---
-arabic_ayat: حَافِظُوۡا عَلَى الصَّلَوٰتِ وَالصَّلٰوةِ الۡوُسۡطٰى وَقُوۡمُوۡا لِلّٰهِ
-  قٰنِتِيۡنَ‏
+arabic_ayat: حَٰفِظُواْ عَلَى ٱلصَّلَوَٰتِ وَٱلصَّلَوٰةِ ٱلۡوُسۡطَىٰ وَقُومُواْ لِلَّهِ
+  قَٰنِتِينَ
 sentence_translation: Observe the ˹five obligatory˺ prayers—especially the middle
   prayer—and stand in true devotion to Allah.
 word_by_word:
   1:
-    arabic: حَافِظُوۡا
+    arabic: حَٰفِظُواْ
     translation: Guard strictly
     transliteration: ḥāfiẓū
   2:
@@ -13,27 +13,27 @@ word_by_word:
     translation: '[on]'
     transliteration: ʿalā
   3:
-    arabic: الصَّلَوٰتِ
+    arabic: ٱلصَّلَوَٰتِ
     translation: the prayers
     transliteration: l-ṣalawāti
   4:
-    arabic: وَالصَّلٰوةِ
+    arabic: وَٱلصَّلَوٰةِ
     translation: 'and the prayer '
     transliteration: wal-ṣalati
   5:
-    arabic: الۡوُسۡطٰى
+    arabic: ٱلۡوُسۡطَىٰ
     translation: '[the] middle'
     transliteration: l-wus'ṭā
   6:
-    arabic: وَقُوۡمُوۡا
+    arabic: وَقُومُواْ
     translation: and stand up
     transliteration: waqūmū
   7:
-    arabic: لِلّٰهِ
+    arabic: لِلَّهِ
     translation: for Allah
     transliteration: lillahi
   8:
-    arabic: قٰنِتِيۡنَ‏
+    arabic: قَٰنِتِينَ
     translation: devoutly obedient
     transliteration: qānitīna
 ---

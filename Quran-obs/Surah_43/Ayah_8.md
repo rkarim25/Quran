@@ -1,26 +1,26 @@
 ---
-arabic_ayat: فَاَهۡلَـكۡنَاۤ اَشَدَّ مِنۡهُمۡ بَطۡشًا وَّمَضٰى مَثَلُ الۡاَوَّلِيۡنَ‏
+arabic_ayat: فَأَهۡلَكۡنَآ أَشَدَّ مِنۡهُم بَطۡشٗا وَمَضَىٰ مَثَلُ ٱلۡأَوَّلِينَ
 sentence_translation: So We destroyed those who were far mightier than these ˹Meccans˺.
   The examples of ˹their˺ predecessors have ˹already˺ been related. 
 word_by_word:
   1:
-    arabic: فَاَهۡلَـكۡنَاۤ
+    arabic: فَأَهۡلَكۡنَآ
     translation: Then We destroyed
     transliteration: fa-ahlaknā
   2:
-    arabic: اَشَدَّ
+    arabic: أَشَدَّ
     translation: stronger
     transliteration: ashadda
   3:
-    arabic: مِنۡهُمۡ
+    arabic: مِنۡهُم
     translation: than them
     transliteration: min'hum
   4:
-    arabic: بَطۡشًا
+    arabic: بَطۡشٗا
     translation: (in) power
     transliteration: baṭshan
   5:
-    arabic: وَّمَضٰى
+    arabic: وَمَضَىٰ
     translation: and has passed
     transliteration: wamaḍā
   6:
@@ -28,7 +28,7 @@ word_by_word:
     translation: (the) example
     transliteration: mathalu
   7:
-    arabic: الۡاَوَّلِيۡنَ‏
+    arabic: ٱلۡأَوَّلِينَ
     translation: (of) the former (people)
     transliteration: l-awalīna
 ---

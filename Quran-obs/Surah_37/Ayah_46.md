@@ -1,5 +1,5 @@
 ---
-arabic_ayat: بَيۡضَآءَ لَذَّةٍ لِّلشّٰرِبِيۡنَ​ ۖ​ۚ‏
+arabic_ayat: بَيۡضَآءَ لَذَّةٖ لِّلشَّٰرِبِينَ
 sentence_translation: crystal-white, delicious to drink.
 word_by_word:
   1:
@@ -7,11 +7,11 @@ word_by_word:
     translation: White
     transliteration: bayḍāa
   2:
-    arabic: لَذَّةٍ
+    arabic: لَذَّةٖ
     translation: delicious
     transliteration: ladhatin
   3:
-    arabic: لِّلشّٰرِبِيۡنَ​ ۖ​ۚ‏
+    arabic: لِّلشَّٰرِبِينَ
     translation: for the drinkers
     transliteration: lilshāribīna
 ---

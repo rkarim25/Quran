@@ -1,6 +1,6 @@
 ---
-arabic_ayat: يَوۡمَ هُمۡ بَارِزُوۡنَ ۚ لَا يَخۡفٰى عَلَى اللّٰهِ مِنۡهُمۡ شَىۡءٌ ؕ
-  لِمَنِ الۡمُلۡكُ الۡيَوۡمَ ؕ لِلّٰهِ الۡوَاحِدِ الۡقَهَّارِ‏
+arabic_ayat: يَوۡمَ هُم بَٰرِزُونَۖ لَا يَخۡفَىٰ عَلَى ٱللَّهِ مِنۡهُمۡ شَيۡءٞۚ لِّمَنِ
+  ٱلۡمُلۡكُ ٱلۡيَوۡمَۖ لِلَّهِ ٱلۡوَٰحِدِ ٱلۡقَهَّارِ
 sentence_translation: the Day all will appear ˹before Allah˺. Nothing about them will
   be hidden from Him. ˹He will ask,˺ “Who does all authority belong to this Day? To
   Allah—the One, the Supreme!
@@ -10,11 +10,11 @@ word_by_word:
     translation: (The) Day
     transliteration: yawma
   2:
-    arabic: هُمۡ
+    arabic: هُم
     translation: they
     transliteration: hum
   3:
-    arabic: بَارِزُوۡنَ ۚ
+    arabic: بَٰرِزُونَۖ
     translation: come forth
     transliteration: bārizūna
   4:
@@ -22,7 +22,7 @@ word_by_word:
     translation: not
     transliteration: lā
   5:
-    arabic: يَخۡفٰى
+    arabic: يَخۡفَىٰ
     translation: is hidden
     transliteration: yakhfā
   6:
@@ -30,7 +30,7 @@ word_by_word:
     translation: from
     transliteration: ʿalā
   7:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   8:
@@ -38,31 +38,31 @@ word_by_word:
     translation: about them
     transliteration: min'hum
   9:
-    arabic: شَىۡءٌ ؕ
+    arabic: شَيۡءٞۚ
     translation: anything
     transliteration: shayon
   10:
-    arabic: لِمَنِ
+    arabic: لِّمَنِ
     translation: For whom
     transliteration: limani
   11:
-    arabic: الۡمُلۡكُ
+    arabic: ٱلۡمُلۡكُ
     translation: (is) the Dominion
     transliteration: l-mul'ku
   12:
-    arabic: الۡيَوۡمَ ؕ
+    arabic: ٱلۡيَوۡمَۖ
     translation: this Day
     transliteration: l-yawma
   13:
-    arabic: لِلّٰهِ
+    arabic: لِلَّهِ
     translation: For Allah
     transliteration: lillahi
   14:
-    arabic: الۡوَاحِدِ
+    arabic: ٱلۡوَٰحِدِ
     translation: the One
     transliteration: l-wāḥidi
   15:
-    arabic: الۡقَهَّارِ‏
+    arabic: ٱلۡقَهَّارِ
     translation: the Irresistible
     transliteration: l-qahāri
 ---

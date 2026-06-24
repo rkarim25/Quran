@@ -1,10 +1,10 @@
 ---
-arabic_ayat: رُبَمَا يَوَدُّ الَّذِيۡنَ كَفَرُوۡا لَوۡ كَانُوۡا مُسۡلِمِيۡنَ‏
+arabic_ayat: رُّبَمَا يَوَدُّ ٱلَّذِينَ كَفَرُواْ لَوۡ كَانُواْ مُسۡلِمِينَ
 sentence_translation: ˹The day will come when˺ the disbelievers will certainly wish
   they had submitted ˹to Allah˺.
 word_by_word:
   1:
-    arabic: رُبَمَا
+    arabic: رُّبَمَا
     translation: Perhaps
     transliteration: rubamā
   2:
@@ -12,11 +12,11 @@ word_by_word:
     translation: will wish
     transliteration: yawaddu
   3:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   4:
-    arabic: كَفَرُوۡا
+    arabic: كَفَرُواْ
     translation: disbelieved
     transliteration: kafarū
   5:
@@ -24,11 +24,11 @@ word_by_word:
     translation: if
     transliteration: law
   6:
-    arabic: كَانُوۡا
+    arabic: كَانُواْ
     translation: they had been
     transliteration: kānū
   7:
-    arabic: مُسۡلِمِيۡنَ‏
+    arabic: مُسۡلِمِينَ
     translation: Muslims
     transliteration: mus'limīna
 ---

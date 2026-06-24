@@ -1,7 +1,7 @@
 ---
-arabic_ayat: فَلَمۡ تَقۡتُلُوۡهُمۡ وَلٰـكِنَّ اللّٰهَ قَتَلَهُمۡ وَمَا رَمَيۡتَ اِذۡ
-  رَمَيۡتَ وَ لٰـكِنَّ اللّٰهَ رَمٰى​ ۚ وَلِيُبۡلِىَ الۡمُؤۡمِنِيۡنَ مِنۡهُ بَلَاۤءً
-  حَسَنًا​ ؕ اِنَّ اللّٰهَ سَمِيۡعٌ عَلِيۡمٌ‏
+arabic_ayat: فَلَمۡ تَقۡتُلُوهُمۡ وَلَٰكِنَّ ٱللَّهَ قَتَلَهُمۡۚ وَمَا رَمَيۡتَ إِذۡ
+  رَمَيۡتَ وَلَٰكِنَّ ٱللَّهَ رَمَىٰ وَلِيُبۡلِيَ ٱلۡمُؤۡمِنِينَ مِنۡهُ بَلَآءً حَسَنًاۚ
+  إِنَّ ٱللَّهَ سَمِيعٌ عَلِيمٞ
 sentence_translation: It was not you ˹believers˺ who killed them, but it was Allah
   Who did so. Nor was it you ˹O Prophet˺ who threw ˹a handful of sand at the disbelievers˺, but
   it was Allah Who did so, rendering the believers a great favour. Surely Allah is
@@ -12,19 +12,19 @@ word_by_word:
     translation: And not
     transliteration: falam
   2:
-    arabic: تَقۡتُلُوۡهُمۡ
+    arabic: تَقۡتُلُوهُمۡ
     translation: you kill them
     transliteration: taqtulūhum
   3:
-    arabic: وَلٰـكِنَّ
+    arabic: وَلَٰكِنَّ
     translation: but
     transliteration: walākinna
   4:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   5:
-    arabic: قَتَلَهُمۡ
+    arabic: قَتَلَهُمۡۚ
     translation: killed them
     transliteration: qatalahum
   6:
@@ -36,7 +36,7 @@ word_by_word:
     translation: you threw
     transliteration: ramayta
   8:
-    arabic: اِذۡ
+    arabic: إِذۡ
     translation: when
     transliteration: idh
   9:
@@ -44,23 +44,23 @@ word_by_word:
     translation: you threw
     transliteration: ramayta
   10:
-    arabic: وَ لٰـكِنَّ
+    arabic: وَلَٰكِنَّ
     translation: but
     transliteration: walākinna
   11:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   12:
-    arabic: رَمٰى​ ۚ
+    arabic: رَمَىٰ
     translation: threw
     transliteration: ramā
   13:
-    arabic: وَلِيُبۡلِىَ
+    arabic: وَلِيُبۡلِيَ
     translation: and that He may test
     transliteration: waliyub'liya
   14:
-    arabic: الۡمُؤۡمِنِيۡنَ
+    arabic: ٱلۡمُؤۡمِنِينَ
     translation: the believers
     transliteration: l-mu'minīna
   15:
@@ -68,27 +68,27 @@ word_by_word:
     translation: from Him
     transliteration: min'hu
   16:
-    arabic: بَلَاۤءً
+    arabic: بَلَآءً
     translation: (with) a trial
     transliteration: balāan
   17:
-    arabic: حَسَنًا​ ؕ
+    arabic: حَسَنًاۚ
     translation: good
     transliteration: ḥasanan
   18:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   19:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   20:
-    arabic: سَمِيۡعٌ
+    arabic: سَمِيعٌ
     translation: (is) All-Hearing
     transliteration: samīʿun
   21:
-    arabic: عَلِيۡمٌ‏
+    arabic: عَلِيمٞ
     translation: All-Knowing
     transliteration: ʿalīmun
 ---

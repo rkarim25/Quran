@@ -1,6 +1,6 @@
 ---
-arabic_ayat: وَلَقَدۡ كُنۡتُمۡ تَمَنَّوۡنَ الۡمَوۡتَ مِنۡ قَبۡلِ اَنۡ تَلۡقَوۡهُ
-  فَقَدۡ رَاَيۡتُمُوۡهُ وَاَنۡتُمۡ تَنۡظُرُوۡنَ‏
+arabic_ayat: وَلَقَدۡ كُنتُمۡ تَمَنَّوۡنَ ٱلۡمَوۡتَ مِن قَبۡلِ أَن تَلۡقَوۡهُ فَقَدۡ
+  رَأَيۡتُمُوهُ وَأَنتُمۡ تَنظُرُونَ
 sentence_translation: You certainly wished ˹for the opportunity˺ for martyrdom before
   encountering it, now you have seen it with your own eyes.
 word_by_word:
@@ -9,7 +9,7 @@ word_by_word:
     translation: And certainly
     transliteration: walaqad
   2:
-    arabic: كُنۡتُمۡ
+    arabic: كُنتُمۡ
     translation: you used to
     transliteration: kuntum
   3:
@@ -17,11 +17,11 @@ word_by_word:
     translation: wish
     transliteration: tamannawna
   4:
-    arabic: الۡمَوۡتَ
+    arabic: ٱلۡمَوۡتَ
     translation: (for) death
     transliteration: l-mawta
   5:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   6:
@@ -29,11 +29,11 @@ word_by_word:
     translation: before
     transliteration: qabli
   7:
-    arabic: اَنۡ
+    arabic: أَن
     translation: '[that]'
     transliteration: an
   8:
-    arabic: تَلۡقَوۡهُ
+    arabic: تَلۡقَوۡهُ
     translation: you met it
     transliteration: talqawhu
   9:
@@ -41,15 +41,15 @@ word_by_word:
     translation: then indeed
     transliteration: faqad
   10:
-    arabic: رَاَيۡتُمُوۡهُ
+    arabic: رَأَيۡتُمُوهُ
     translation: you have seen it
     transliteration: ra-aytumūhu
   11:
-    arabic: وَاَنۡتُمۡ
+    arabic: وَأَنتُمۡ
     translation: while you (were)
     transliteration: wa-antum
   12:
-    arabic: تَنۡظُرُوۡنَ‏
+    arabic: تَنظُرُونَ
     translation: looking on
     transliteration: tanẓurūna
 ---

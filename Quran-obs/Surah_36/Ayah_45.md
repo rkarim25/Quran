@@ -1,16 +1,16 @@
 ---
-arabic_ayat: وَاِذَا قِيۡلَ لَهُمُ اتَّقُوۡا مَا بَيۡنَ اَيۡدِيۡكُمۡ وَمَا خَلۡفَكُمۡ
-  لَعَلَّكُمۡ تُرۡحَمُوۡنَ‏
+arabic_ayat: وَإِذَا قِيلَ لَهُمُ ٱتَّقُواْ مَا بَيۡنَ أَيۡدِيكُمۡ وَمَا خَلۡفَكُمۡ
+  لَعَلَّكُمۡ تُرۡحَمُونَ
 sentence_translation: ˹Still they turn away˺ when it is said to them, “Beware of what
   is ahead of you ˹in the Hereafter˺ and what is behind you ˹of destroyed nations˺
   so you may be shown mercy.”
 word_by_word:
   1:
-    arabic: وَاِذَا
+    arabic: وَإِذَا
     translation: And when
     transliteration: wa-idhā
   2:
-    arabic: قِيۡلَ
+    arabic: قِيلَ
     translation: it is said
     transliteration: qīla
   3:
@@ -18,7 +18,7 @@ word_by_word:
     translation: to them
     transliteration: lahumu
   4:
-    arabic: اتَّقُوۡا
+    arabic: ٱتَّقُواْ
     translation: Fear
     transliteration: ittaqū
   5:
@@ -30,7 +30,7 @@ word_by_word:
     translation: (is) before you
     transliteration: bayna
   7:
-    arabic: اَيۡدِيۡكُمۡ
+    arabic: أَيۡدِيكُمۡ
     translation: (is) before you
     transliteration: aydīkum
   8:
@@ -46,7 +46,7 @@ word_by_word:
     translation: so that you may
     transliteration: laʿallakum
   11:
-    arabic: تُرۡحَمُوۡنَ‏
+    arabic: تُرۡحَمُونَ
     translation: receive mercy
     transliteration: tur'ḥamūna
 ---

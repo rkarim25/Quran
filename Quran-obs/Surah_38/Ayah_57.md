@@ -1,21 +1,21 @@
 ---
-arabic_ayat: هٰذَا ۙ فَلۡيَذُوۡقُوۡهُ حَمِيۡمٌ وَّغَسَّاقٌ ۙ‏
+arabic_ayat: هَٰذَا فَلۡيَذُوقُوهُ حَمِيمٞ وَغَسَّاقٞ
 sentence_translation: 'Let them then taste this: boiling water and ˹oozing˺ pus,'
 word_by_word:
   1:
-    arabic: هٰذَا ۙ
+    arabic: هَٰذَا
     translation: This (is so)
     transliteration: hādhā
   2:
-    arabic: فَلۡيَذُوۡقُوۡهُ
+    arabic: فَلۡيَذُوقُوهُ
     translation: Then let them taste it
     transliteration: falyadhūqūhu
   3:
-    arabic: حَمِيۡمٌ
+    arabic: حَمِيمٞ
     translation: boiling fluid
     transliteration: ḥamīmun
   4:
-    arabic: وَّغَسَّاقٌ ۙ‏
+    arabic: وَغَسَّاقٞ
     translation: and purulence
     transliteration: waghassāqun
 ---

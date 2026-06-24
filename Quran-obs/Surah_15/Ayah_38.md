@@ -1,9 +1,9 @@
 ---
-arabic_ayat: اِلٰى يَوۡمِ الۡوَقۡتِ الۡمَعۡلُوۡمِ‏
+arabic_ayat: إِلَىٰ يَوۡمِ ٱلۡوَقۡتِ ٱلۡمَعۡلُومِ
 sentence_translation: until the appointed Day.”
 word_by_word:
   1:
-    arabic: اِلٰى
+    arabic: إِلَىٰ
     translation: Till
     transliteration: ilā
   2:
@@ -11,11 +11,11 @@ word_by_word:
     translation: the Day
     transliteration: yawmi
   3:
-    arabic: الۡوَقۡتِ
+    arabic: ٱلۡوَقۡتِ
     translation: (of) the time
     transliteration: l-waqti
   4:
-    arabic: الۡمَعۡلُوۡمِ‏
+    arabic: ٱلۡمَعۡلُومِ
     translation: well-known
     transliteration: l-maʿlūmi
 ---

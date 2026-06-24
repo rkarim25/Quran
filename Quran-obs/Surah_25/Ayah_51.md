@@ -1,5 +1,5 @@
 ---
-arabic_ayat: وَلَوۡ شِئۡنَا لَبَـعَثۡنَا فِىۡ كُلِّ قَرۡيَةٍ نَّذِيۡرًا ​ۖ ‏
+arabic_ayat: وَلَوۡ شِئۡنَا لَبَعَثۡنَا فِي كُلِّ قَرۡيَةٖ نَّذِيرٗا
 sentence_translation: Had We willed, We could have easily sent a warner to every society.
 word_by_word:
   1:
@@ -11,11 +11,11 @@ word_by_word:
     translation: We willed
     transliteration: shi'nā
   3:
-    arabic: لَبَـعَثۡنَا
+    arabic: لَبَعَثۡنَا
     translation: surely, We (would) have raised
     transliteration: labaʿathnā
   4:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   5:
@@ -23,11 +23,11 @@ word_by_word:
     translation: every
     transliteration: kulli
   6:
-    arabic: قَرۡيَةٍ
+    arabic: قَرۡيَةٖ
     translation: town
     transliteration: qaryatin
   7:
-    arabic: نَّذِيۡرًا ​ۖ ‏
+    arabic: نَّذِيرٗا
     translation: a warner
     transliteration: nadhīran
 ---

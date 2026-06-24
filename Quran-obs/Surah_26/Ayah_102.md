@@ -1,5 +1,5 @@
 ---
-arabic_ayat: فَلَوۡ اَنَّ لَـنَا كَرَّةً فَنَكُوۡنَ مِنَ الۡمُؤۡمِنِيۡنَ‏
+arabic_ayat: فَلَوۡ أَنَّ لَنَا كَرَّةٗ فَنَكُونَ مِنَ ٱلۡمُؤۡمِنِينَ
 sentence_translation: If only we could have a second chance, then we would be believers.”
 word_by_word:
   1:
@@ -7,19 +7,19 @@ word_by_word:
     translation: Then if
     transliteration: falaw
   2:
-    arabic: اَنَّ
+    arabic: أَنَّ
     translation: that
     transliteration: anna
   3:
-    arabic: لَـنَا
+    arabic: لَنَا
     translation: we had
     transliteration: lanā
   4:
-    arabic: كَرَّةً
+    arabic: كَرَّةٗ
     translation: a return
     transliteration: karratan
   5:
-    arabic: فَنَكُوۡنَ
+    arabic: فَنَكُونَ
     translation: then we could be
     transliteration: fanakūna
   6:
@@ -27,7 +27,7 @@ word_by_word:
     translation: of
     transliteration: mina
   7:
-    arabic: الۡمُؤۡمِنِيۡنَ‏
+    arabic: ٱلۡمُؤۡمِنِينَ
     translation: the believers
     transliteration: l-mu'minīna
 ---

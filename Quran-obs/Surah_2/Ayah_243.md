@@ -1,13 +1,13 @@
 ---
-arabic_ayat: اَلَمۡ تَرَ اِلَى الَّذِيۡنَ خَرَجُوۡا مِنۡ دِيَارِهِمۡ وَهُمۡ اُلُوۡفٌ
-  حَذَرَ الۡمَوۡتِ فَقَالَ لَهُمُ اللّٰهُ مُوۡتُوۡا ثُمَّ اَحۡيَاھُمۡ​ؕ اِنَّ اللّٰهَ
-  لَذُوۡ فَضۡلٍ عَلَى النَّاسِ وَلٰـكِنَّ اَکۡثَرَ النَّاسِ لَا يَشۡکُرُوۡنَ‏
+arabic_ayat: ۞ أَلَمۡ تَرَ إِلَى ٱلَّذِينَ خَرَجُواْ مِن دِيَٰرِهِمۡ وَهُمۡ أُلُوفٌ
+  حَذَرَ ٱلۡمَوۡتِ فَقَالَ لَهُمُ ٱللَّهُ مُوتُواْ ثُمَّ أَحۡيَٰهُمۡۚ إِنَّ ٱللَّهَ
+  لَذُو فَضۡلٍ عَلَى ٱلنَّاسِ وَلَٰكِنَّ أَكۡثَرَ ٱلنَّاسِ لَا يَشۡكُرُونَ
 sentence_translation: Have you ˹O Prophet˺ not seen those who fled their homes in
   the thousands for fear of death? Allah said to them, “Die!” then He gave them life.
   Surely Allah is ever Bountiful to humanity, but most people are ungrateful.
 word_by_word:
   1:
-    arabic: ۞ اَلَمۡ
+    arabic: ۞ أَلَمۡ
     translation: Did not
     transliteration: alam
   2:
@@ -15,23 +15,23 @@ word_by_word:
     translation: you see
     transliteration: tara
   3:
-    arabic: اِلَى
+    arabic: إِلَى
     translation: '[to]'
     transliteration: ilā
   4:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   5:
-    arabic: خَرَجُوۡا
+    arabic: خَرَجُواْ
     translation: went out
     transliteration: kharajū
   6:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   7:
-    arabic: دِيَارِهِمۡ
+    arabic: دِيَٰرِهِمۡ
     translation: their homes
     transliteration: diyārihim
   8:
@@ -39,7 +39,7 @@ word_by_word:
     translation: and they
     transliteration: wahum
   9:
-    arabic: اُلُوۡفٌ
+    arabic: أُلُوفٌ
     translation: (were in) thousands
     transliteration: ulūfun
   10:
@@ -47,7 +47,7 @@ word_by_word:
     translation: (in) fear
     transliteration: ḥadhara
   11:
-    arabic: الۡمَوۡتِ
+    arabic: ٱلۡمَوۡتِ
     translation: (of) [the] death
     transliteration: l-mawti
   12:
@@ -59,11 +59,11 @@ word_by_word:
     translation: to them
     transliteration: lahumu
   14:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   15:
-    arabic: مُوۡتُوۡا
+    arabic: مُوتُواْ
     translation: Die
     transliteration: mūtū
   16:
@@ -71,19 +71,19 @@ word_by_word:
     translation: then
     transliteration: thumma
   17:
-    arabic: اَحۡيَاھُمۡ​ؕ
+    arabic: أَحۡيَٰهُمۡۚ
     translation: He restored them to life
     transliteration: aḥyāhum
   18:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   19:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   20:
-    arabic: لَذُوۡ
+    arabic: لَذُو
     translation: (is) surely Possessor
     transliteration: ladhū
   21:
@@ -95,19 +95,19 @@ word_by_word:
     translation: for
     transliteration: ʿalā
   23:
-    arabic: النَّاسِ
+    arabic: ٱلنَّاسِ
     translation: '[the] mankind'
     transliteration: l-nāsi
   24:
-    arabic: وَلٰـكِنَّ
+    arabic: وَلَٰكِنَّ
     translation: '[and] but'
     transliteration: walākinna
   25:
-    arabic: اَکۡثَرَ
+    arabic: أَكۡثَرَ
     translation: most
     transliteration: akthara
   26:
-    arabic: النَّاسِ
+    arabic: ٱلنَّاسِ
     translation: (of) the people
     transliteration: l-nāsi
   27:
@@ -115,7 +115,7 @@ word_by_word:
     translation: (are) not
     transliteration: lā
   28:
-    arabic: يَشۡکُرُوۡنَ‏
+    arabic: يَشۡكُرُونَ
     translation: grateful
     transliteration: yashkurūna
 ---

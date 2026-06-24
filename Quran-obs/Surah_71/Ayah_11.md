@@ -1,21 +1,21 @@
 ---
-arabic_ayat: يُّرۡسِلِ السَّمَآءَ عَلَيۡكُمۡ مِّدۡرَارًا ۙ‏
+arabic_ayat: يُرۡسِلِ ٱلسَّمَآءَ عَلَيۡكُم مِّدۡرَارٗا
 sentence_translation: He will shower you with abundant rain,
 word_by_word:
   1:
-    arabic: يُّرۡسِلِ
+    arabic: يُرۡسِلِ
     translation: He will send down
     transliteration: yur'sili
   2:
-    arabic: السَّمَآءَ
+    arabic: ٱلسَّمَآءَ
     translation: (rain from) the sky
     transliteration: l-samāa
   3:
-    arabic: عَلَيۡكُمۡ
+    arabic: عَلَيۡكُم
     translation: upon you
     transliteration: ʿalaykum
   4:
-    arabic: مِّدۡرَارًا ۙ‏
+    arabic: مِّدۡرَارٗا
     translation: (in) abundance
     transliteration: mid'rāran
 ---

@@ -1,9 +1,9 @@
 ---
-arabic_ayat: اِنَّا فَتَحۡنَا لَكَ فَتۡحًا مُّبِيۡنًا ۙ‏
+arabic_ayat: إِنَّا فَتَحۡنَا لَكَ فَتۡحٗا مُّبِينٗا
 sentence_translation: Indeed, We have granted you a clear triumph ˹O Prophet˺
 word_by_word:
   1:
-    arabic: اِنَّا
+    arabic: إِنَّا
     translation: Indeed
     transliteration: innā
   2:
@@ -15,11 +15,11 @@ word_by_word:
     translation: to you
     transliteration: laka
   4:
-    arabic: فَتۡحًا
+    arabic: فَتۡحٗا
     translation: a victory
     transliteration: fatḥan
   5:
-    arabic: مُّبِيۡنًا ۙ‏
+    arabic: مُّبِينٗا
     translation: clear
     transliteration: mubīnan
 ---

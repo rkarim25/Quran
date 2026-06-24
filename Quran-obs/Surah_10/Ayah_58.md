@@ -1,6 +1,6 @@
 ---
-arabic_ayat: قُلۡ بِفَضۡلِ اللّٰهِ وَبِرَحۡمَتِهٖ فَبِذٰلِكَ فَلۡيَـفۡرَحُوۡا ؕ هُوَ
-  خَيۡرٌ مِّمَّا يَجۡمَعُوۡنَ‏
+arabic_ayat: قُلۡ بِفَضۡلِ ٱللَّهِ وَبِرَحۡمَتِهِۦ فَبِذَٰلِكَ فَلۡيَفۡرَحُواْ هُوَ
+  خَيۡرٞ مِّمَّا يَجۡمَعُونَ
 sentence_translation: Say, ˹O Prophet,˺ “In Allah’s grace and mercy let them rejoice.
   That is far better than whatever ˹wealth˺ they amass.”
 word_by_word:
@@ -13,19 +13,19 @@ word_by_word:
     translation: In the Bounty
     transliteration: bifaḍli
   3:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (of) Allah
     transliteration: l-lahi
   4:
-    arabic: وَبِرَحۡمَتِهٖ
+    arabic: وَبِرَحۡمَتِهِۦ
     translation: and in His Mercy
     transliteration: wabiraḥmatihi
   5:
-    arabic: فَبِذٰلِكَ
+    arabic: فَبِذَٰلِكَ
     translation: so in that
     transliteration: fabidhālika
   6:
-    arabic: فَلۡيَـفۡرَحُوۡا ؕ
+    arabic: فَلۡيَفۡرَحُواْ
     translation: let them rejoice
     transliteration: falyafraḥū
   7:
@@ -33,7 +33,7 @@ word_by_word:
     translation: It
     transliteration: huwa
   8:
-    arabic: خَيۡرٌ
+    arabic: خَيۡرٞ
     translation: (is) better
     transliteration: khayrun
   9:
@@ -41,7 +41,7 @@ word_by_word:
     translation: than what
     transliteration: mimmā
   10:
-    arabic: يَجۡمَعُوۡنَ‏
+    arabic: يَجۡمَعُونَ
     translation: they accumulate
     transliteration: yajmaʿūna
 ---

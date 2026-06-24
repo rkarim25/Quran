@@ -1,27 +1,27 @@
 ---
-arabic_ayat: وَاِسۡمٰعِيۡلَ وَالۡيَسَعَ وَيُوۡنُسَ وَلُوۡطًا​ ؕ وَكُلًّا فَضَّلۡنَا
-  عَلَى الۡعٰلَمِيۡنَۙ‏
+arabic_ayat: وَإِسۡمَٰعِيلَ وَٱلۡيَسَعَ وَيُونُسَ وَلُوطٗاۚ وَكُلّٗا فَضَّلۡنَا عَلَى
+  ٱلۡعَٰلَمِينَ
 sentence_translation: ˹We also guided˺ Ishmael, Elisha, Jonah, and Lot, favouring
   each over other people ˹of their time˺.
 word_by_word:
   1:
-    arabic: وَاِسۡمٰعِيۡلَ
+    arabic: وَإِسۡمَٰعِيلَ
     translation: And Ishmael
     transliteration: wa-is'māʿīla
   2:
-    arabic: وَالۡيَسَعَ
+    arabic: وَٱلۡيَسَعَ
     translation: and Elisha
     transliteration: wal-yasaʿa
   3:
-    arabic: وَيُوۡنُسَ
+    arabic: وَيُونُسَ
     translation: and Yunus
     transliteration: wayūnusa
   4:
-    arabic: وَلُوۡطًا​ ؕ
+    arabic: وَلُوطٗاۚ
     translation: and Lut
     transliteration: walūṭan
   5:
-    arabic: وَكُلًّا
+    arabic: وَكُلّٗا
     translation: and all
     transliteration: wakullan
   6:
@@ -33,7 +33,7 @@ word_by_word:
     translation: over
     transliteration: ʿalā
   8:
-    arabic: الۡعٰلَمِيۡنَۙ‏
+    arabic: ٱلۡعَٰلَمِينَ
     translation: the worlds
     transliteration: l-ʿālamīna
 ---

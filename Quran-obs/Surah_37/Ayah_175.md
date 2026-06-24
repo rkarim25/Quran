@@ -1,9 +1,9 @@
 ---
-arabic_ayat: وَاَبۡصِرۡهُمۡ فَسَوۡفَ يُبۡصِرُوۡنَ‏
+arabic_ayat: وَأَبۡصِرۡهُمۡ فَسَوۡفَ يُبۡصِرُونَ
 sentence_translation: You will see ˹what will happen to˺ them, and they too will see!
 word_by_word:
   1:
-    arabic: وَاَبۡصِرۡهُمۡ
+    arabic: وَأَبۡصِرۡهُمۡ
     translation: And see them
     transliteration: wa-abṣir'hum
   2:
@@ -11,7 +11,7 @@ word_by_word:
     translation: so soon
     transliteration: fasawfa
   3:
-    arabic: يُبۡصِرُوۡنَ‏
+    arabic: يُبۡصِرُونَ
     translation: they will see
     transliteration: yub'ṣirūna
 ---

@@ -1,5 +1,5 @@
 ---
-arabic_ayat: وَمَا خَلَقۡنَا السَّمَآءَ وَالۡاَرۡضَ وَمَا بَيۡنَهُمَا لٰعِبِيۡنَ‏
+arabic_ayat: وَمَا خَلَقۡنَا ٱلسَّمَآءَ وَٱلۡأَرۡضَ وَمَا بَيۡنَهُمَا لَٰعِبِينَ
 sentence_translation: We did not create the heavens and the earth and everything in
   between for sport.
 word_by_word:
@@ -12,11 +12,11 @@ word_by_word:
     translation: We created
     transliteration: khalaqnā
   3:
-    arabic: السَّمَآءَ
+    arabic: ٱلسَّمَآءَ
     translation: the heavens
     transliteration: l-samāa
   4:
-    arabic: وَالۡاَرۡضَ
+    arabic: وَٱلۡأَرۡضَ
     translation: and the earth
     transliteration: wal-arḍa
   5:
@@ -28,7 +28,7 @@ word_by_word:
     translation: (is) between them
     transliteration: baynahumā
   7:
-    arabic: لٰعِبِيۡنَ‏
+    arabic: لَٰعِبِينَ
     translation: (for) playing
     transliteration: lāʿibīna
 ---

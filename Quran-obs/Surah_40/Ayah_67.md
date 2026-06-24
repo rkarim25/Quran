@@ -1,8 +1,8 @@
 ---
-arabic_ayat: هُوَ الَّذِىۡ خَلَقَكُمۡ مِّنۡ تُرَابٍ ثُمَّ مِنۡ نُّطۡفَةٍ ثُمَّ مِنۡ
-  عَلَقَةٍ ثُمَّ يُخۡرِجُكُمۡ طِفۡلًا ثُمَّ لِتَبۡلُغُوۡۤا اَشُدَّكُمۡ ثُمَّ لِتَكُوۡنُوۡا
-  شُيُوۡخًا ؕ وَمِنۡكُمۡ مَّنۡ يُّتَوَفّٰى مِنۡ قَبۡلُ وَلِتَبۡلُغُوۡۤا اَجَلًا مُّسَمًّى
-  وَّلَعَلَّكُمۡ تَعۡقِلُوۡنَ‏
+arabic_ayat: هُوَ ٱلَّذِي خَلَقَكُم مِّن تُرَابٖ ثُمَّ مِن نُّطۡفَةٖ ثُمَّ مِنۡ عَلَقَةٖ
+  ثُمَّ يُخۡرِجُكُمۡ طِفۡلٗا ثُمَّ لِتَبۡلُغُوٓاْ أَشُدَّكُمۡ ثُمَّ لِتَكُونُواْ شُيُوخٗاۚ
+  وَمِنكُم مَّن يُتَوَفَّىٰ مِن قَبۡلُۖ وَلِتَبۡلُغُوٓاْ أَجَلٗا مُّسَمّٗى وَلَعَلَّكُمۡ
+  تَعۡقِلُونَ
 sentence_translation: He is the One Who created you from dust, then from a sperm-drop, then
   ˹developed you into˺ a clinging clot ˹of blood˺, then He brings you forth as infants,
   so that you may reach your prime, and become old—though some of you ˹may˺ die sooner—reaching
@@ -13,19 +13,19 @@ word_by_word:
     translation: He
     transliteration: huwa
   2:
-    arabic: الَّذِىۡ
+    arabic: ٱلَّذِي
     translation: (is) the One Who
     transliteration: alladhī
   3:
-    arabic: خَلَقَكُمۡ
+    arabic: خَلَقَكُم
     translation: created you
     transliteration: khalaqakum
   4:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: from
     transliteration: min
   5:
-    arabic: تُرَابٍ
+    arabic: تُرَابٖ
     translation: dust
     transliteration: turābin
   6:
@@ -33,11 +33,11 @@ word_by_word:
     translation: then
     transliteration: thumma
   7:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   8:
-    arabic: نُّطۡفَةٍ
+    arabic: نُّطۡفَةٖ
     translation: a semen-drop
     transliteration: nuṭ'fatin
   9:
@@ -49,7 +49,7 @@ word_by_word:
     translation: from
     transliteration: min
   11:
-    arabic: عَلَقَةٍ
+    arabic: عَلَقَةٖ
     translation: a clinging substance
     transliteration: ʿalaqatin
   12:
@@ -61,7 +61,7 @@ word_by_word:
     translation: He brings you out
     transliteration: yukh'rijukum
   14:
-    arabic: طِفۡلًا
+    arabic: طِفۡلٗا
     translation: (as) a child
     transliteration: ṭif'lan
   15:
@@ -69,11 +69,11 @@ word_by_word:
     translation: then
     transliteration: thumma
   16:
-    arabic: لِتَبۡلُغُوۡۤا
+    arabic: لِتَبۡلُغُوٓاْ
     translation: lets you reach
     transliteration: litablughū
   17:
-    arabic: اَشُدَّكُمۡ
+    arabic: أَشُدَّكُمۡ
     translation: your maturity
     transliteration: ashuddakum
   18:
@@ -81,51 +81,51 @@ word_by_word:
     translation: then
     transliteration: thumma
   19:
-    arabic: لِتَكُوۡنُوۡا
+    arabic: لِتَكُونُواْ
     translation: lets you become
     transliteration: litakūnū
   20:
-    arabic: شُيُوۡخًا ؕ
+    arabic: شُيُوخٗاۚ
     translation: 'old '
     transliteration: shuyūkhan
   21:
-    arabic: وَمِنۡكُمۡ
+    arabic: وَمِنكُم
     translation: and among you
     transliteration: waminkum
   22:
-    arabic: مَّنۡ
+    arabic: مَّن
     translation: (is he) who
     transliteration: man
   23:
-    arabic: يُّتَوَفّٰى
+    arabic: يُتَوَفَّىٰ
     translation: dies
     transliteration: yutawaffā
   24:
-    arabic: مِنۡ
+    arabic: مِن
     translation: 'before '
     transliteration: min
   25:
-    arabic: قَبۡلُ
+    arabic: قَبۡلُۖ
     translation: 'before '
     transliteration: qablu
   26:
-    arabic: وَلِتَبۡلُغُوۡۤا
+    arabic: وَلِتَبۡلُغُوٓاْ
     translation: and lets you reach
     transliteration: walitablughū
   27:
-    arabic: اَجَلًا
+    arabic: أَجَلٗا
     translation: a term
     transliteration: ajalan
   28:
-    arabic: مُّسَمًّى
+    arabic: مُّسَمّٗى
     translation: specified
     transliteration: musamman
   29:
-    arabic: وَّلَعَلَّكُمۡ
+    arabic: وَلَعَلَّكُمۡ
     translation: and that you may
     transliteration: walaʿallakum
   30:
-    arabic: تَعۡقِلُوۡنَ‏
+    arabic: تَعۡقِلُونَ
     translation: use reason
     transliteration: taʿqilūna
 ---

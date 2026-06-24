@@ -1,6 +1,6 @@
 ---
-arabic_ayat: وَرَبُّكَ اَعۡلَمُ بِمَنۡ فِى السَّمٰوٰتِ وَالۡاَرۡضِ​ؕ وَلَقَدۡ فَضَّلۡنَا
-  بَعۡضَ النَّبِيّٖنَ عَلٰى بَعۡضٍ​ وَّاٰتَيۡنَا دَاوٗدَ زَبُوۡرًا‏
+arabic_ayat: وَرَبُّكَ أَعۡلَمُ بِمَن فِي ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِۗ وَلَقَدۡ فَضَّلۡنَا
+  بَعۡضَ ٱلنَّبِيِّـۧنَ عَلَىٰ بَعۡضٖۖ وَءَاتَيۡنَا دَاوُۥدَ زَبُورٗا
 sentence_translation: Your Lord knows best all those in the heavens and the earth.
   And We have surely favoured some prophets above others, and to David We gave the
   Psalms. 
@@ -10,23 +10,23 @@ word_by_word:
     translation: And your Lord
     transliteration: warabbuka
   2:
-    arabic: اَعۡلَمُ
+    arabic: أَعۡلَمُ
     translation: (is) most knowing
     transliteration: aʿlamu
   3:
-    arabic: بِمَنۡ
+    arabic: بِمَن
     translation: of whoever
     transliteration: biman
   4:
-    arabic: فِى
+    arabic: فِي
     translation: (is) in
     transliteration: fī
   5:
-    arabic: السَّمٰوٰتِ
+    arabic: ٱلسَّمَٰوَٰتِ
     translation: the heavens
     transliteration: l-samāwāti
   6:
-    arabic: وَالۡاَرۡضِ​ؕ
+    arabic: وَٱلۡأَرۡضِۗ
     translation: and the earth
     transliteration: wal-arḍi
   7:
@@ -42,27 +42,27 @@ word_by_word:
     translation: some
     transliteration: baʿḍa
   10:
-    arabic: النَّبِيّٖنَ
+    arabic: ٱلنَّبِيِّـۧنَ
     translation: (of) the Prophets
     transliteration: l-nabiyīna
   11:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: to
     transliteration: ʿalā
   12:
-    arabic: بَعۡضٍ​
+    arabic: بَعۡضٖۖ
     translation: others
     transliteration: baʿḍin
   13:
-    arabic: وَّاٰتَيۡنَا
+    arabic: وَءَاتَيۡنَا
     translation: And We gave
     transliteration: waātaynā
   14:
-    arabic: دَاوٗدَ
+    arabic: دَاوُۥدَ
     translation: Dawood
     transliteration: dāwūda
   15:
-    arabic: زَبُوۡرًا‏
+    arabic: زَبُورٗا
     translation: Zaboor
     transliteration: zabūran
 ---

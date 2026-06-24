@@ -1,9 +1,9 @@
 ---
-arabic_ayat: اَلَمۡ تَرَ اَنَّهُمۡ فِىۡ كُلِّ وَادٍ يَّهِيۡمُوۡنَۙ‏
+arabic_ayat: أَلَمۡ تَرَ أَنَّهُمۡ فِي كُلِّ وَادٖ يَهِيمُونَ
 sentence_translation: Do you not see how they rant in every field,
 word_by_word:
   1:
-    arabic: اَلَمۡ
+    arabic: أَلَمۡ
     translation: Do not
     transliteration: alam
   2:
@@ -11,11 +11,11 @@ word_by_word:
     translation: you see
     transliteration: tara
   3:
-    arabic: اَنَّهُمۡ
+    arabic: أَنَّهُمۡ
     translation: that they
     transliteration: annahum
   4:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   5:
@@ -23,11 +23,11 @@ word_by_word:
     translation: every
     transliteration: kulli
   6:
-    arabic: وَادٍ
+    arabic: وَادٖ
     translation: valley
     transliteration: wādin
   7:
-    arabic: يَّهِيۡمُوۡنَۙ‏
+    arabic: يَهِيمُونَ
     translation: '[they] roam'
     transliteration: yahīmūna
 ---

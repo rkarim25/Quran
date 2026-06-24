@@ -1,9 +1,9 @@
 ---
-arabic_ayat: يَسۡـــَٔلُوۡنَكَ عَنِ السَّاعَةِ اَيَّانَ مُرۡسٰٮهَا ؕ‏
+arabic_ayat: يَسۡـَٔلُونَكَ عَنِ ٱلسَّاعَةِ أَيَّانَ مُرۡسَىٰهَا
 sentence_translation: They ask you ˹O Prophet˺ regarding the Hour, “When will it be?”
 word_by_word:
   1:
-    arabic: يَسۡـــَٔلُوۡنَكَ
+    arabic: يَسۡـَٔلُونَكَ
     translation: They ask you
     transliteration: yasalūnaka
   2:
@@ -11,15 +11,15 @@ word_by_word:
     translation: about
     transliteration: ʿani
   3:
-    arabic: السَّاعَةِ
+    arabic: ٱلسَّاعَةِ
     translation: the Hour
     transliteration: l-sāʿati
   4:
-    arabic: اَيَّانَ
+    arabic: أَيَّانَ
     translation: when
     transliteration: ayyāna
   5:
-    arabic: مُرۡسٰٮهَا ؕ‏
+    arabic: مُرۡسَىٰهَا
     translation: (is) its arrival
     transliteration: mur'sāhā
 ---

@@ -1,9 +1,9 @@
 ---
-arabic_ayat: اَتَبۡنُوۡنَ بِكُلِّ رِيۡعٍ اٰيَةً تَعۡبَثُوۡنَۙ‏
+arabic_ayat: أَتَبۡنُونَ بِكُلِّ رِيعٍ ءَايَةٗ تَعۡبَثُونَ
 sentence_translation: ˹Why˺ do you build a landmark on every high place in vanity,
 word_by_word:
   1:
-    arabic: اَتَبۡنُوۡنَ
+    arabic: أَتَبۡنُونَ
     translation: Do you construct
     transliteration: atabnūna
   2:
@@ -11,15 +11,15 @@ word_by_word:
     translation: on every
     transliteration: bikulli
   3:
-    arabic: رِيۡعٍ
+    arabic: رِيعٍ ءَ
     translation: elevation
     transliteration: rīʿin
   4:
-    arabic: اٰيَةً
+    arabic: ايَةٗ
     translation: a sign
     transliteration: āyatan
   5:
-    arabic: تَعۡبَثُوۡنَۙ‏
+    arabic: تَعۡبَثُونَ
     translation: amusing yourselves
     transliteration: taʿbathūna
 ---

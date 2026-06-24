@@ -1,17 +1,17 @@
 ---
-arabic_ayat: اِنَّاۤ اَعۡطَيۡنٰكَ الۡكَوۡثَرَؕ‏
+arabic_ayat: إِنَّآ أَعۡطَيۡنَٰكَ ٱلۡكَوۡثَرَ
 sentence_translation: Indeed, We have granted you ˹O Prophet˺ abundant goodness.
 word_by_word:
   1:
-    arabic: اِنَّاۤ
+    arabic: إِنَّآ
     translation: Indeed, We
     transliteration: innā
   2:
-    arabic: اَعۡطَيۡنٰكَ
+    arabic: أَعۡطَيۡنَٰكَ
     translation: We have given you
     transliteration: aʿṭaynāka
   3:
-    arabic: الۡكَوۡثَرَؕ‏
+    arabic: ٱلۡكَوۡثَرَ
     translation: Al-Kauthar
     transliteration: l-kawthara
 ---

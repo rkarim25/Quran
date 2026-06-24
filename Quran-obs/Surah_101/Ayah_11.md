@@ -1,5 +1,5 @@
 ---
-arabic_ayat: نَارٌ حَامِيَةٌ‏
+arabic_ayat: نَارٌ حَامِيَةُۢ
 sentence_translation: ˹It is˺ a scorching Fire.
 word_by_word:
   1:
@@ -7,7 +7,7 @@ word_by_word:
     translation: A Fire
     transliteration: nārun
   2:
-    arabic: حَامِيَةٌ‏
+    arabic: حَامِيَةُۢ
     translation: intensely hot
     transliteration: ḥāmiyatun
 ---

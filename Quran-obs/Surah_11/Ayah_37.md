@@ -1,20 +1,20 @@
 ---
-arabic_ayat: وَاصۡنَعِ الۡفُلۡكَ بِاَعۡيُنِنَا وَوَحۡيِنَا وَلَا تُخَاطِبۡنِىۡ فِى
-  الَّذِيۡنَ ظَلَمُوۡا​ ۚ اِنَّهُمۡ مُّغۡرَقُوۡنَ‏
+arabic_ayat: وَٱصۡنَعِ ٱلۡفُلۡكَ بِأَعۡيُنِنَا وَوَحۡيِنَا وَلَا تُخَٰطِبۡنِي فِي
+  ٱلَّذِينَ ظَلَمُوٓاْ إِنَّهُم مُّغۡرَقُونَ
 sentence_translation: And build the Ark under Our ˹watchful˺ Eyes and directions,
   and do not plead with Me for those who have done wrong, for they will surely be
   drowned.”
 word_by_word:
   1:
-    arabic: وَاصۡنَعِ
+    arabic: وَٱصۡنَعِ
     translation: And construct
     transliteration: wa-iṣ'naʿi
   2:
-    arabic: الۡفُلۡكَ
+    arabic: ٱلۡفُلۡكَ
     translation: the ship
     transliteration: l-ful'ka
   3:
-    arabic: بِاَعۡيُنِنَا
+    arabic: بِأَعۡيُنِنَا
     translation: under Our Eyes
     transliteration: bi-aʿyuninā
   4:
@@ -26,27 +26,27 @@ word_by_word:
     translation: and (do) not
     transliteration: walā
   6:
-    arabic: تُخَاطِبۡنِىۡ
+    arabic: تُخَٰطِبۡنِي
     translation: address Me
     transliteration: tukhāṭib'nī
   7:
-    arabic: فِى
+    arabic: فِي
     translation: concerning
     transliteration: fī
   8:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   9:
-    arabic: ظَلَمُوۡا​ ۚ
+    arabic: ظَلَمُوٓاْ
     translation: wronged
     transliteration: ẓalamū
   10:
-    arabic: اِنَّهُمۡ
+    arabic: إِنَّهُم
     translation: indeed, they (are)
     transliteration: innahum
   11:
-    arabic: مُّغۡرَقُوۡنَ‏
+    arabic: مُّغۡرَقُونَ
     translation: the ones (to be) drowned
     transliteration: mugh'raqūna
 ---

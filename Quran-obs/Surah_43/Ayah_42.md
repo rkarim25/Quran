@@ -1,11 +1,10 @@
 ---
-arabic_ayat: "اَوۡ نُرِيَنَّكَ الَّذِىۡ وَعَدۡنٰهُمۡ فَاِنَّا عَلَيۡهِمۡ مُّقۡتَدِرُوۡنَ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: أَوۡ نُرِيَنَّكَ ٱلَّذِي وَعَدۡنَٰهُمۡ فَإِنَّا عَلَيۡهِم مُّقۡتَدِرُونَ
 sentence_translation: Or if We show you what We threaten them with, We certainly have
   full power over them.
 word_by_word:
   1:
-    arabic: اَوۡ
+    arabic: أَوۡ
     translation: Or
     transliteration: aw
   2:
@@ -13,23 +12,23 @@ word_by_word:
     translation: We show you
     transliteration: nuriyannaka
   3:
-    arabic: الَّذِىۡ
+    arabic: ٱلَّذِي
     translation: that which
     transliteration: alladhī
   4:
-    arabic: وَعَدۡنٰهُمۡ
+    arabic: وَعَدۡنَٰهُمۡ
     translation: We have promised them
     transliteration: waʿadnāhum
   5:
-    arabic: فَاِنَّا
+    arabic: فَإِنَّا
     translation: then indeed, We
     transliteration: fa-innā
   6:
-    arabic: عَلَيۡهِمۡ
+    arabic: عَلَيۡهِم
     translation: over them
     transliteration: ʿalayhim
   7:
-    arabic: "مُّقۡتَدِرُوۡنَ‏ \uFEFF\uFEFF"
+    arabic: مُّقۡتَدِرُونَ
     translation: have full power
     transliteration: muq'tadirūna
 ---

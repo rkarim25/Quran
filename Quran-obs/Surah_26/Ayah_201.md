@@ -1,5 +1,5 @@
 ---
-arabic_ayat: لَا يُؤۡمِنُوۡنَ بِهٖ حَتّٰى يَرَوُا الۡعَذَابَ الۡاَلِيۡمَۙ‏
+arabic_ayat: لَا يُؤۡمِنُونَ بِهِۦ حَتَّىٰ يَرَوُاْ ٱلۡعَذَابَ ٱلۡأَلِيمَ
 sentence_translation: They will not believe in it until they see the painful punishment,
 word_by_word:
   1:
@@ -7,27 +7,27 @@ word_by_word:
     translation: Not
     transliteration: lā
   2:
-    arabic: يُؤۡمِنُوۡنَ
+    arabic: يُؤۡمِنُونَ
     translation: they will believe
     transliteration: yu'minūna
   3:
-    arabic: بِهٖ
+    arabic: بِهِۦ
     translation: in it
     transliteration: bihi
   4:
-    arabic: حَتّٰى
+    arabic: حَتَّىٰ
     translation: until
     transliteration: ḥattā
   5:
-    arabic: يَرَوُا
+    arabic: يَرَوُاْ
     translation: they see
     transliteration: yarawū
   6:
-    arabic: الۡعَذَابَ
+    arabic: ٱلۡعَذَابَ
     translation: the punishment
     transliteration: l-ʿadhāba
   7:
-    arabic: الۡاَلِيۡمَۙ‏
+    arabic: ٱلۡأَلِيمَ
     translation: '[the] painful'
     transliteration: l-alīma
 ---

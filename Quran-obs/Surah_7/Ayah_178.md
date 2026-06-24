@@ -1,19 +1,19 @@
 ---
-arabic_ayat: مَنۡ يَّهۡدِ اللّٰهُ فَهُوَ الۡمُهۡتَدِىۡ​ۚ وَمَنۡ يُّضۡلِلۡ فَاُولٰۤٮِٕكَ
-  هُمُ الۡخٰسِرُوۡنَ‏
+arabic_ayat: مَن يَهۡدِ ٱللَّهُ فَهُوَ ٱلۡمُهۡتَدِيۖ وَمَن يُضۡلِلۡ فَأُوْلَٰٓئِكَ
+  هُمُ ٱلۡخَٰسِرُونَ
 sentence_translation: Whoever Allah guides is truly guided. And whoever He leaves
   to stray, they are the ˹true˺ losers.
 word_by_word:
   1:
-    arabic: مَنۡ
+    arabic: مَن
     translation: Whoever
     transliteration: man
   2:
-    arabic: يَّهۡدِ
+    arabic: يَهۡدِ
     translation: (is) guided
     transliteration: yahdi
   3:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: (by) Allah
     transliteration: l-lahu
   4:
@@ -21,19 +21,19 @@ word_by_word:
     translation: then he
     transliteration: fahuwa
   5:
-    arabic: الۡمُهۡتَدِىۡ​ۚ
+    arabic: ٱلۡمُهۡتَدِيۖ
     translation: (is) the guided one
     transliteration: l-muh'tadī
   6:
-    arabic: وَمَنۡ
+    arabic: وَمَن
     translation: while whoever
     transliteration: waman
   7:
-    arabic: يُّضۡلِلۡ
+    arabic: يُضۡلِلۡ
     translation: He lets go astray
     transliteration: yuḍ'lil
   8:
-    arabic: فَاُولٰۤٮِٕكَ
+    arabic: فَأُوْلَٰٓئِكَ
     translation: then those
     transliteration: fa-ulāika
   9:
@@ -41,7 +41,7 @@ word_by_word:
     translation: '[they]'
     transliteration: humu
   10:
-    arabic: الۡخٰسِرُوۡنَ‏
+    arabic: ٱلۡخَٰسِرُونَ
     translation: (are) the losers
     transliteration: l-khāsirūna
 ---

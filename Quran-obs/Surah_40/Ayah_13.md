@@ -1,6 +1,6 @@
 ---
-arabic_ayat: هُوَ الَّذِىۡ يُرِيۡكُمۡ اٰيٰتِهٖ وَيُنَزِّلُ لَـكُمۡ مِّنَ السَّمَآءِ
-  رِزۡقًا ؕ وَمَا يَتَذَكَّرُ اِلَّا مَنۡ يُّنِيۡبُ‏
+arabic_ayat: هُوَ ٱلَّذِي يُرِيكُمۡ ءَايَٰتِهِۦ وَيُنَزِّلُ لَكُم مِّنَ ٱلسَّمَآءِ
+  رِزۡقٗاۚ وَمَا يَتَذَكَّرُ إِلَّا مَن يُنِيبُ
 sentence_translation: He is the One Who shows you His signs and sends down ˹rain as˺
   a provision for you from the sky. ˹But˺ none will be mindful except those who turn
   ˹to Him˺.
@@ -10,15 +10,15 @@ word_by_word:
     translation: He
     transliteration: huwa
   2:
-    arabic: الَّذِىۡ
+    arabic: ٱلَّذِي
     translation: (is) the One Who
     transliteration: alladhī
   3:
-    arabic: يُرِيۡكُمۡ
+    arabic: يُرِيكُمۡ ءَ
     translation: shows you
     transliteration: yurīkum
   4:
-    arabic: اٰيٰتِهٖ
+    arabic: ايَٰتِهِۦ
     translation: His Signs
     transliteration: āyātihi
   5:
@@ -26,7 +26,7 @@ word_by_word:
     translation: and sends down
     transliteration: wayunazzilu
   6:
-    arabic: لَـكُمۡ
+    arabic: لَكُم
     translation: for you
     transliteration: lakum
   7:
@@ -34,11 +34,11 @@ word_by_word:
     translation: from
     transliteration: mina
   8:
-    arabic: السَّمَآءِ
+    arabic: ٱلسَّمَآءِ
     translation: the sky
     transliteration: l-samāi
   9:
-    arabic: رِزۡقًا ؕ
+    arabic: رِزۡقٗاۚ
     translation: provision
     transliteration: riz'qan
   10:
@@ -50,15 +50,15 @@ word_by_word:
     translation: take heed
     transliteration: yatadhakkaru
   12:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   13:
-    arabic: مَنۡ
+    arabic: مَن
     translation: (one) who
     transliteration: man
   14:
-    arabic: يُّنِيۡبُ‏
+    arabic: يُنِيبُ
     translation: turns
     transliteration: yunību
 ---

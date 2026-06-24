@@ -1,25 +1,25 @@
 ---
-arabic_ayat: وَاِذَا كَالُوۡهُمۡ اَوْ وَّزَنُوۡهُمۡ يُخۡسِرُوۡنَؕ‏
+arabic_ayat: وَإِذَا كَالُوهُمۡ أَو وَّزَنُوهُمۡ يُخۡسِرُونَ
 sentence_translation: but give less when they measure or weigh for buyers.
 word_by_word:
   1:
-    arabic: وَاِذَا
+    arabic: وَإِذَا
     translation: But when
     transliteration: wa-idhā
   2:
-    arabic: كَالُوۡهُمۡ
+    arabic: كَالُوهُمۡ
     translation: they give by measure (to) them
     transliteration: kālūhum
   3:
-    arabic: اَوْ
+    arabic: أَو
     translation: or
     transliteration: aw
   4:
-    arabic: وَّزَنُوۡهُمۡ
+    arabic: وَّزَنُوهُمۡ
     translation: they weigh (for) them
     transliteration: wazanūhum
   5:
-    arabic: يُخۡسِرُوۡنَؕ‏
+    arabic: يُخۡسِرُونَ
     translation: they give less
     transliteration: yukh'sirūna
 ---

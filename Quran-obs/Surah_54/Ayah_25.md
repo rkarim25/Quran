@@ -1,14 +1,14 @@
 ---
-arabic_ayat: ءَاُلۡقِىَ الذِّكۡرُ عَلَيۡهِ مِنۡۢ بَيۡنِنَا بَلۡ هُوَ كَذَّابٌ اَشِرٌ‏
+arabic_ayat: أَءُلۡقِيَ ٱلذِّكۡرُ عَلَيۡهِ مِنۢ بَيۡنِنَا بَلۡ هُوَ كَذَّابٌ أَشِرٞ
 sentence_translation: Has the revelation been sent down ˹only˺ to him out of ˹all
   of˺ us? In fact, he is a boastful liar.”
 word_by_word:
   1:
-    arabic: ءَاُلۡقِىَ
+    arabic: أَءُلۡقِيَ
     translation: Has been sent
     transliteration: a-ul'qiya
   2:
-    arabic: الذِّكۡرُ
+    arabic: ٱلذِّكۡرُ
     translation: the Reminder
     transliteration: l-dhik'ru
   3:
@@ -16,7 +16,7 @@ word_by_word:
     translation: to him
     transliteration: ʿalayhi
   4:
-    arabic: مِنۡۢ
+    arabic: مِنۢ
     translation: from
     transliteration: min
   5:
@@ -36,7 +36,7 @@ word_by_word:
     translation: (is) a liar
     transliteration: kadhābun
   9:
-    arabic: اَشِرٌ‏
+    arabic: أَشِرٞ
     translation: insolent
     transliteration: ashirun
 ---

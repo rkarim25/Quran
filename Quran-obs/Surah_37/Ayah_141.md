@@ -1,5 +1,5 @@
 ---
-arabic_ayat: فَسَاهَمَ فَكَانَ مِنَ الۡمُدۡحَضِيۡنَ​ۚ‏
+arabic_ayat: فَسَاهَمَ فَكَانَ مِنَ ٱلۡمُدۡحَضِينَ
 sentence_translation: Then ˹to save it from sinking,˺ he drew straws ˹with other passengers˺.
   He lost ˹and was thrown overboard˺.
 word_by_word:
@@ -16,7 +16,7 @@ word_by_word:
     translation: of
     transliteration: mina
   4:
-    arabic: الۡمُدۡحَضِيۡنَ​ۚ‏
+    arabic: ٱلۡمُدۡحَضِينَ
     translation: the losers
     transliteration: l-mud'ḥaḍīna
 ---

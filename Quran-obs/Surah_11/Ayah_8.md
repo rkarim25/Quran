@@ -1,18 +1,18 @@
 ---
-arabic_ayat: وَلَٮِٕنۡ اَخَّرۡنَا عَنۡهُمُ الۡعَذَابَ اِلٰٓى اُمَّةٍ مَّعۡدُوۡدَةٍ
-  لَّيَـقُوۡلُنَّ مَا يَحۡبِسُهٗؕ اَلَا يَوۡمَ يَاۡتِيۡهِمۡ لَـيۡسَ مَصۡرُوۡفًا عَنۡهُمۡ
-  وَحَاقَ بِهِمۡ مَّا كَانُوۡا بِهٖ يَسۡتَهۡزِءُوۡنَ‏
+arabic_ayat: وَلَئِنۡ أَخَّرۡنَا عَنۡهُمُ ٱلۡعَذَابَ إِلَىٰٓ أُمَّةٖ مَّعۡدُودَةٖ
+  لَّيَقُولُنَّ مَا يَحۡبِسُهُۥٓۗ أَلَا يَوۡمَ يَأۡتِيهِمۡ لَيۡسَ مَصۡرُوفًا عَنۡهُمۡ
+  وَحَاقَ بِهِم مَّا كَانُواْ بِهِۦ يَسۡتَهۡزِءُونَ
 sentence_translation: And if We delay their punishment until an appointed time, they
   will definitely say, “What is holding it back?” Indeed, on the Day it overtakes
   them, it will not be averted from them, and they will be overwhelmed by what they
   used to ridicule.
 word_by_word:
   1:
-    arabic: وَلَٮِٕنۡ
+    arabic: وَلَئِنۡ
     translation: And if
     transliteration: wala-in
   2:
-    arabic: اَخَّرۡنَا
+    arabic: أَخَّرۡنَا
     translation: We delay
     transliteration: akharnā
   3:
@@ -20,23 +20,23 @@ word_by_word:
     translation: from them
     transliteration: ʿanhumu
   4:
-    arabic: الۡعَذَابَ
+    arabic: ٱلۡعَذَابَ
     translation: the punishment
     transliteration: l-ʿadhāba
   5:
-    arabic: اِلٰٓى
+    arabic: إِلَىٰٓ
     translation: for
     transliteration: ilā
   6:
-    arabic: اُمَّةٍ
+    arabic: أُمَّةٖ
     translation: a time
     transliteration: ummatin
   7:
-    arabic: مَّعۡدُوۡدَةٍ
+    arabic: مَّعۡدُودَةٖ
     translation: determined
     transliteration: maʿdūdatin
   8:
-    arabic: لَّيَـقُوۡلُنَّ
+    arabic: لَّيَقُولُنَّ
     translation: they will surely say
     transliteration: layaqūlunna
   9:
@@ -44,11 +44,11 @@ word_by_word:
     translation: What
     transliteration: mā
   10:
-    arabic: يَحۡبِسُهٗؕ
+    arabic: يَحۡبِسُهُۥٓۗ
     translation: detains it
     transliteration: yaḥbisuhu
   11:
-    arabic: اَلَا
+    arabic: أَلَا
     translation: No doubt
     transliteration: alā
   12:
@@ -56,15 +56,15 @@ word_by_word:
     translation: (On) the Day
     transliteration: yawma
   13:
-    arabic: يَاۡتِيۡهِمۡ
+    arabic: يَأۡتِيهِمۡ
     translation: it comes to them
     transliteration: yatīhim
   14:
-    arabic: لَـيۡسَ
+    arabic: لَيۡسَ
     translation: not
     transliteration: laysa
   15:
-    arabic: مَصۡرُوۡفًا
+    arabic: مَصۡرُوفًا
     translation: (will be) averted
     transliteration: maṣrūfan
   16:
@@ -76,7 +76,7 @@ word_by_word:
     translation: and will surround
     transliteration: waḥāqa
   18:
-    arabic: بِهِمۡ
+    arabic: بِهِم
     translation: them
     transliteration: bihim
   19:
@@ -84,15 +84,15 @@ word_by_word:
     translation: what
     transliteration: mā
   20:
-    arabic: كَانُوۡا
+    arabic: كَانُواْ
     translation: they used (to)
     transliteration: kānū
   21:
-    arabic: بِهٖ
+    arabic: بِهِۦ
     translation: mock at [it]
     transliteration: bihi
   22:
-    arabic: يَسۡتَهۡزِءُوۡنَ‏
+    arabic: يَسۡتَهۡزِءُونَ
     translation: mock at [it]
     transliteration: yastahziūna
 ---

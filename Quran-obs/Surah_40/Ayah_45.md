@@ -1,19 +1,19 @@
 ---
-arabic_ayat: فَوَقٰٮهُ اللّٰهُ سَيِّاٰتِ مَا مَكَرُوۡا وَحَاقَ بِاٰلِ فِرۡعَوۡنَ سُوۡٓءُ
-  الۡعَذَابِ​ۚ‏
+arabic_ayat: فَوَقَىٰهُ ٱللَّهُ سَيِّـَٔاتِ مَا مَكَرُواْۖ وَحَاقَ بِـَٔالِ فِرۡعَوۡنَ
+  سُوٓءُ ٱلۡعَذَابِ
 sentence_translation: 'So Allah protected him from the evil of their schemes. And
   Pharaoh’s people were overwhelmed by an evil punishment:'
 word_by_word:
   1:
-    arabic: فَوَقٰٮهُ
+    arabic: فَوَقَىٰهُ
     translation: So Allah protected him
     transliteration: fawaqāhu
   2:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: So Allah protected him
     transliteration: l-lahu
   3:
-    arabic: سَيِّاٰتِ
+    arabic: سَيِّـَٔاتِ
     translation: (from the) evils
     transliteration: sayyiāti
   4:
@@ -21,7 +21,7 @@ word_by_word:
     translation: that
     transliteration: mā
   5:
-    arabic: مَكَرُوۡا
+    arabic: مَكَرُواْۖ
     translation: they plotted
     transliteration: makarū
   6:
@@ -29,7 +29,7 @@ word_by_word:
     translation: and enveloped
     transliteration: waḥāqa
   7:
-    arabic: بِاٰلِ
+    arabic: بِـَٔالِ
     translation: (the) people
     transliteration: biāli
   8:
@@ -37,11 +37,11 @@ word_by_word:
     translation: (of) Firaun
     transliteration: fir'ʿawna
   9:
-    arabic: سُوۡٓءُ
+    arabic: سُوٓءُ
     translation: (the) worst
     transliteration: sūu
   10:
-    arabic: الۡعَذَابِ​ۚ‏
+    arabic: ٱلۡعَذَابِ
     translation: punishment
     transliteration: l-ʿadhābi
 ---

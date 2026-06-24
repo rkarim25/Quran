@@ -1,29 +1,29 @@
 ---
-arabic_ayat: وَاَنَّ هٰذَا صِرَاطِىۡ مُسۡتَقِيۡمًا فَاتَّبِعُوۡهُ​ ۚ وَلَا تَتَّبِعُوۡا
-  السُّبُلَ فَتَفَرَّقَ بِكُمۡ عَنۡ سَبِيۡلِهٖ​ ؕ ذٰ لِكُمۡ وَصّٰٮكُمۡ بِهٖ لَعَلَّكُمۡ
-  تَتَّقُوۡنَ‏
+arabic_ayat: وَأَنَّ هَٰذَا صِرَٰطِي مُسۡتَقِيمٗا فَٱتَّبِعُوهُۖ وَلَا تَتَّبِعُواْ
+  ٱلسُّبُلَ فَتَفَرَّقَ بِكُمۡ عَن سَبِيلِهِۦۚ ذَٰلِكُمۡ وَصَّىٰكُم بِهِۦ لَعَلَّكُمۡ
+  تَتَّقُونَ
 sentence_translation: Indeed, that is My Path—perfectly straight. So follow it and
   do not follow other ways, for they will lead you away from His Way. This is what
   He has commanded you, so perhaps you will be conscious ˹of Allah˺.”
 word_by_word:
   1:
-    arabic: وَاَنَّ
+    arabic: وَأَنَّ
     translation: And that
     transliteration: wa-anna
   2:
-    arabic: هٰذَا
+    arabic: هَٰذَا
     translation: this
     transliteration: hādhā
   3:
-    arabic: صِرَاطِىۡ
+    arabic: صِرَٰطِي
     translation: (is) My path
     transliteration: ṣirāṭī
   4:
-    arabic: مُسۡتَقِيۡمًا
+    arabic: مُسۡتَقِيمٗا
     translation: straight
     transliteration: mus'taqīman
   5:
-    arabic: فَاتَّبِعُوۡهُ​ ۚ
+    arabic: فَٱتَّبِعُوهُۖ
     translation: so follow it
     transliteration: fa-ittabiʿūhu
   6:
@@ -31,11 +31,11 @@ word_by_word:
     translation: And (do) not
     transliteration: walā
   7:
-    arabic: تَتَّبِعُوۡا
+    arabic: تَتَّبِعُواْ
     translation: follow
     transliteration: tattabiʿū
   8:
-    arabic: السُّبُلَ
+    arabic: ٱلسُّبُلَ
     translation: the (other) paths
     transliteration: l-subula
   9:
@@ -47,23 +47,23 @@ word_by_word:
     translation: you
     transliteration: bikum
   11:
-    arabic: عَنۡ
+    arabic: عَن
     translation: from
     transliteration: ʿan
   12:
-    arabic: سَبِيۡلِهٖ​ ؕ
+    arabic: سَبِيلِهِۦۚ
     translation: His path
     transliteration: sabīlihi
   13:
-    arabic: ذٰ لِكُمۡ
+    arabic: ذَٰلِكُمۡ
     translation: That
     transliteration: dhālikum
   14:
-    arabic: وَصّٰٮكُمۡ
+    arabic: وَصَّىٰكُم
     translation: (He) has enjoined on you
     transliteration: waṣṣākum
   15:
-    arabic: بِهٖ
+    arabic: بِهِۦ
     translation: '[with it]'
     transliteration: bihi
   16:
@@ -71,7 +71,7 @@ word_by_word:
     translation: so that you may
     transliteration: laʿallakum
   17:
-    arabic: تَتَّقُوۡنَ‏
+    arabic: تَتَّقُونَ
     translation: become righteous
     transliteration: tattaqūna
 ---

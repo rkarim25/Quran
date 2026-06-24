@@ -1,27 +1,26 @@
 ---
-arabic_ayat: "كَذٰلِكَ اَرۡسَلۡنٰكَ فِىۡۤ اُمَّةٍ قَدۡ خَلَتۡ مِنۡ قَبۡلِهَاۤ اُمَمٌ\
-  \ لِّـتَتۡلُوَا۟ عَلَيۡهِمُ الَّذِىۡۤ اَوۡحَيۡنَاۤ اِلَيۡكَ وَ هُمۡ يَكۡفُرُوۡنَ\
-  \ بِالرَّحۡمٰنِ​ؕ قُلۡ هُوَ رَبِّىۡ لَاۤ اِلٰهَ اِلَّا هُوَۚ عَلَيۡهِ تَوَكَّلۡتُ\
-  \ وَاِلَيۡهِ مَتَابِ‏ \uFEFF\uFEFF"
+arabic_ayat: كَذَٰلِكَ أَرۡسَلۡنَٰكَ فِيٓ أُمَّةٖ قَدۡ خَلَتۡ مِن قَبۡلِهَآ أُمَمٞ
+  لِّتَتۡلُوَاْ عَلَيۡهِمُ ٱلَّذِيٓ أَوۡحَيۡنَآ إِلَيۡكَ وَهُمۡ يَكۡفُرُونَ بِٱلرَّحۡمَٰنِۚ
+  قُلۡ هُوَ رَبِّي لَآ إِلَٰهَ إِلَّا هُوَ عَلَيۡهِ تَوَكَّلۡتُ وَإِلَيۡهِ مَتَابِ
 sentence_translation: And so We have sent you ˹O Prophet˺ to a community, like ˹We
   did with˺ earlier communities, so that you may recite to them what We have revealed
   to you. Yet they deny the Most Compassionate. Say, “He is my Lord! There is no god
   ˹worthy of worship˺ except Him. In Him I put my trust, and to Him I turn ˹in repentance˺.”
 word_by_word:
   1:
-    arabic: كَذٰلِكَ
+    arabic: كَذَٰلِكَ
     translation: Thus
     transliteration: kadhālika
   2:
-    arabic: اَرۡسَلۡنٰكَ
+    arabic: أَرۡسَلۡنَٰكَ
     translation: We have sent you
     transliteration: arsalnāka
   3:
-    arabic: فِىۡۤ
+    arabic: فِيٓ
     translation: to
     transliteration: fī
   4:
-    arabic: اُمَّةٍ
+    arabic: أُمَّةٖ
     translation: a nation
     transliteration: ummatin
   5:
@@ -33,19 +32,19 @@ word_by_word:
     translation: have passed away
     transliteration: khalat
   7:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   8:
-    arabic: قَبۡلِهَاۤ
+    arabic: قَبۡلِهَآ
     translation: before it
     transliteration: qablihā
   9:
-    arabic: اُمَمٌ
+    arabic: أُمَمٞ
     translation: nations
     transliteration: umamun
   10:
-    arabic: لِّـتَتۡلُوَا۟
+    arabic: لِّتَتۡلُوَاْ
     translation: so that you might recite
     transliteration: litatluwā
   11:
@@ -53,27 +52,27 @@ word_by_word:
     translation: to them
     transliteration: ʿalayhimu
   12:
-    arabic: الَّذِىۡۤ
+    arabic: ٱلَّذِيٓ
     translation: what
     transliteration: alladhī
   13:
-    arabic: اَوۡحَيۡنَاۤ
+    arabic: أَوۡحَيۡنَآ
     translation: We revealed
     transliteration: awḥaynā
   14:
-    arabic: اِلَيۡكَ
+    arabic: إِلَيۡكَ
     translation: to you
     transliteration: ilayka
   15:
-    arabic: وَ هُمۡ
+    arabic: وَهُمۡ
     translation: while they
     transliteration: wahum
   16:
-    arabic: يَكۡفُرُوۡنَ
+    arabic: يَكۡفُرُونَ
     translation: disbelieve
     transliteration: yakfurūna
   17:
-    arabic: بِالرَّحۡمٰنِ​ؕ
+    arabic: بِٱلرَّحۡمَٰنِۚ
     translation: in the Most Gracious
     transliteration: bil-raḥmāni
   18:
@@ -85,23 +84,23 @@ word_by_word:
     translation: He
     transliteration: huwa
   20:
-    arabic: رَبِّىۡ
+    arabic: رَبِّي
     translation: (is) my Lord
     transliteration: rabbī
   21:
-    arabic: لَاۤ
+    arabic: لَآ
     translation: (there is) no
     transliteration: lā
   22:
-    arabic: اِلٰهَ
+    arabic: إِلَٰهَ
     translation: god
     transliteration: ilāha
   23:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   24:
-    arabic: هُوَۚ
+    arabic: هُوَ
     translation: Him
     transliteration: huwa
   25:
@@ -113,11 +112,11 @@ word_by_word:
     translation: I put my trust
     transliteration: tawakkaltu
   27:
-    arabic: وَاِلَيۡهِ
+    arabic: وَإِلَيۡهِ
     translation: and to Him
     transliteration: wa-ilayhi
   28:
-    arabic: "مَتَابِ‏ \uFEFF\uFEFF"
+    arabic: مَتَابِ
     translation: (is) my return
     transliteration: matābi
 ---

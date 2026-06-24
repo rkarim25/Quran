@@ -1,17 +1,17 @@
 ---
-arabic_ayat: اِلَّاۤ اِبۡلِيۡسَؕ اِسۡتَكۡبَرَ وَكَانَ مِنَ الۡكٰفِرِيۡنَ‏
+arabic_ayat: إِلَّآ إِبۡلِيسَ ٱسۡتَكۡبَرَ وَكَانَ مِنَ ٱلۡكَٰفِرِينَ
 sentence_translation: but not Iblîs, who acted arrogantly, becoming unfaithful.
 word_by_word:
   1:
-    arabic: اِلَّاۤ
+    arabic: إِلَّآ
     translation: Except
     transliteration: illā
   2:
-    arabic: اِبۡلِيۡسَؕ
+    arabic: إِبۡلِيسَ
     translation: Iblis
     transliteration: ib'līsa
   3:
-    arabic: اِسۡتَكۡبَرَ
+    arabic: ٱسۡتَكۡبَرَ
     translation: he was arrogant
     transliteration: is'takbara
   4:
@@ -23,7 +23,7 @@ word_by_word:
     translation: of
     transliteration: mina
   6:
-    arabic: الۡكٰفِرِيۡنَ‏
+    arabic: ٱلۡكَٰفِرِينَ
     translation: the disbelievers
     transliteration: l-kāfirīna
 ---

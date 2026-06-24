@@ -1,5 +1,5 @@
 ---
-arabic_ayat: وَلَهُمۡ فِيۡهَا مَنَافِعُ وَمَشَارِبُ​ؕ اَفَلَا يَشۡكُرُوۡنَ‏
+arabic_ayat: وَلَهُمۡ فِيهَا مَنَٰفِعُ وَمَشَارِبُۚ أَفَلَا يَشۡكُرُونَ
 sentence_translation: And they derive from them other benefits and drinks. Will they
   not then give thanks?
 word_by_word:
@@ -8,23 +8,23 @@ word_by_word:
     translation: And for them
     transliteration: walahum
   2:
-    arabic: فِيۡهَا
+    arabic: فِيهَا
     translation: therein
     transliteration: fīhā
   3:
-    arabic: مَنَافِعُ
+    arabic: مَنَٰفِعُ
     translation: (are) benefits
     transliteration: manāfiʿu
   4:
-    arabic: وَمَشَارِبُ​ؕ
+    arabic: وَمَشَارِبُۚ
     translation: and drinks
     transliteration: wamashāribu
   5:
-    arabic: اَفَلَا
+    arabic: أَفَلَا
     translation: so (will) not
     transliteration: afalā
   6:
-    arabic: يَشۡكُرُوۡنَ‏
+    arabic: يَشۡكُرُونَ
     translation: they give thanks
     transliteration: yashkurūna
 ---

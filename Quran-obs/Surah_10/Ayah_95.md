@@ -1,6 +1,6 @@
 ---
-arabic_ayat: وَلَا تَكُوۡنَنَّ مِنَ الَّذِيۡنَ كَذَّبُوۡا بِاٰيٰتِ اللّٰهِ فَتَكُوۡنَ
-  مِنَ الۡخٰسِرِيۡنَ‏
+arabic_ayat: وَلَا تَكُونَنَّ مِنَ ٱلَّذِينَ كَذَّبُواْ بِـَٔايَٰتِ ٱللَّهِ فَتَكُونَ
+  مِنَ ٱلۡخَٰسِرِينَ
 sentence_translation: and do not be one of those who deny Allah’s signs or you will
   be one of the losers. 
 word_by_word:
@@ -9,7 +9,7 @@ word_by_word:
     translation: And (do) not
     transliteration: walā
   2:
-    arabic: تَكُوۡنَنَّ
+    arabic: تَكُونَنَّ
     translation: be
     transliteration: takūnanna
   3:
@@ -17,23 +17,23 @@ word_by_word:
     translation: of
     transliteration: mina
   4:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   5:
-    arabic: كَذَّبُوۡا
+    arabic: كَذَّبُواْ
     translation: deny
     transliteration: kadhabū
   6:
-    arabic: بِاٰيٰتِ
+    arabic: بِـَٔايَٰتِ
     translation: (the) Signs of Allah
     transliteration: biāyāti
   7:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (the) Signs of Allah
     transliteration: l-lahi
   8:
-    arabic: فَتَكُوۡنَ
+    arabic: فَتَكُونَ
     translation: then you will be
     transliteration: fatakūna
   9:
@@ -41,7 +41,7 @@ word_by_word:
     translation: among
     transliteration: mina
   10:
-    arabic: الۡخٰسِرِيۡنَ‏
+    arabic: ٱلۡخَٰسِرِينَ
     translation: the losers
     transliteration: l-khāsirīna
 ---

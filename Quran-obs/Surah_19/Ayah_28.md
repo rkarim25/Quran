@@ -1,15 +1,15 @@
 ---
-arabic_ayat: يٰۤـاُخۡتَ هٰرُوۡنَ مَا كَانَ اَ بُوۡكِ امۡرَاَ سَوۡءٍ وَّمَا كَانَتۡ
-  اُمُّكِ بَغِيًّا​ ۖ​ ۚ‏
+arabic_ayat: يَٰٓأُخۡتَ هَٰرُونَ مَا كَانَ أَبُوكِ ٱمۡرَأَ سَوۡءٖ وَمَا كَانَتۡ أُمُّكِ
+  بَغِيّٗا
 sentence_translation: O  sister of Aaron! Your father was not an indecent man, nor
   was your mother unchaste.”
 word_by_word:
   1:
-    arabic: يٰۤـاُخۡتَ
+    arabic: يَٰٓأُخۡتَ
     translation: O sister
     transliteration: yāukh'ta
   2:
-    arabic: هٰرُوۡنَ
+    arabic: هَٰرُونَ
     translation: (of) Harun
     transliteration: hārūna
   3:
@@ -21,19 +21,19 @@ word_by_word:
     translation: was
     transliteration: kāna
   5:
-    arabic: اَ بُوۡكِ
+    arabic: أَبُوكِ
     translation: your father
     transliteration: abūki
   6:
-    arabic: امۡرَاَ
+    arabic: ٱمۡرَأَ
     translation: an evil man
     transliteration: im'ra-a
   7:
-    arabic: سَوۡءٍ
+    arabic: سَوۡءٖ
     translation: an evil man
     transliteration: sawin
   8:
-    arabic: وَّمَا
+    arabic: وَمَا
     translation: and not
     transliteration: wamā
   9:
@@ -41,11 +41,11 @@ word_by_word:
     translation: was
     transliteration: kānat
   10:
-    arabic: اُمُّكِ
+    arabic: أُمُّكِ
     translation: your mother
     transliteration: ummuki
   11:
-    arabic: بَغِيًّا​ ۖ​ ۚ‏
+    arabic: بَغِيّٗا
     translation: unchaste
     transliteration: baghiyyan
 ---

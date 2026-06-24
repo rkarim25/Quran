@@ -1,8 +1,8 @@
 ---
-arabic_ayat: وَاِلٰى ثَمُوۡدَ اَخَاهُمۡ صٰلِحًا​ ۘ قَالَ يٰقَوۡمِ اعۡبُدُوۡا اللّٰهَ
-  مَا لَـكُمۡ مِّنۡ اِلٰهٍ غَيۡرُهٗ​ ؕ قَدۡ جَآءَتۡكُمۡ بَيِّنَةٌ مِّنۡ رَّبِّكُمۡ​
-  ؕ هٰذِهٖ نَاقَةُ اللّٰهِ لَـكُمۡ اٰيَةً​ فَذَرُوۡهَا تَاۡكُلۡ فِىۡۤ اَرۡضِ اللّٰهِ​
-  وَلَا تَمَسُّوۡهَا بِسُوۡٓءٍ فَيَاۡخُذَكُمۡ عَذَابٌ اَ لِيۡمٌ‏
+arabic_ayat: وَإِلَىٰ ثَمُودَ أَخَاهُمۡ صَٰلِحٗاۚ قَالَ يَٰقَوۡمِ ٱعۡبُدُواْ ٱللَّهَ
+  مَا لَكُم مِّنۡ إِلَٰهٍ غَيۡرُهُۥۖ قَدۡ جَآءَتۡكُم بَيِّنَةٞ مِّن رَّبِّكُمۡۖ هَٰذِهِۦ
+  نَاقَةُ ٱللَّهِ لَكُمۡ ءَايَةٗۖ فَذَرُوهَا تَأۡكُلۡ فِيٓ أَرۡضِ ٱللَّهِۖ وَلَا تَمَسُّوهَا
+  بِسُوٓءٖ فَيَأۡخُذَكُمۡ عَذَابٌ أَلِيمٞ
 sentence_translation: 'And to the people of Thamûd We sent their brother Ṣâliḥ. He
   said, “O my people! Worship Allah—you have no other god except Him. A clear proof
   has come to you from your Lord: this is Allah’s she-camel as a sign to you. So leave
@@ -10,19 +10,19 @@ sentence_translation: 'And to the people of Thamûd We sent their brother Ṣâl
   by a painful punishment.'
 word_by_word:
   1:
-    arabic: وَاِلٰى
+    arabic: وَإِلَىٰ
     translation: And to
     transliteration: wa-ilā
   2:
-    arabic: ثَمُوۡدَ
+    arabic: ثَمُودَ
     translation: Thamud
     transliteration: thamūda
   3:
-    arabic: اَخَاهُمۡ
+    arabic: أَخَاهُمۡ
     translation: (We sent) their brother
     transliteration: akhāhum
   4:
-    arabic: صٰلِحًا​ ۘ
+    arabic: صَٰلِحٗاۚ
     translation: Salih
     transliteration: ṣāliḥan
   5:
@@ -30,15 +30,15 @@ word_by_word:
     translation: He said
     transliteration: qāla
   6:
-    arabic: يٰقَوۡمِ
+    arabic: يَٰقَوۡمِ
     translation: O my people
     transliteration: yāqawmi
   7:
-    arabic: اعۡبُدُوۡا
+    arabic: ٱعۡبُدُواْ
     translation: Worship
     transliteration: uʿ'budū
   8:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   9:
@@ -46,7 +46,7 @@ word_by_word:
     translation: not
     transliteration: mā
   10:
-    arabic: لَـكُمۡ
+    arabic: لَكُم
     translation: for you
     transliteration: lakum
   11:
@@ -54,11 +54,11 @@ word_by_word:
     translation: any
     transliteration: min
   12:
-    arabic: اِلٰهٍ
+    arabic: إِلَٰهٍ
     translation: god
     transliteration: ilāhin
   13:
-    arabic: غَيۡرُهٗ​ ؕ
+    arabic: غَيۡرُهُۥۖ
     translation: other than Him
     transliteration: ghayruhu
   14:
@@ -66,23 +66,23 @@ word_by_word:
     translation: Verily
     transliteration: qad
   15:
-    arabic: جَآءَتۡكُمۡ
+    arabic: جَآءَتۡكُم
     translation: has come to you
     transliteration: jāatkum
   16:
-    arabic: بَيِّنَةٌ
+    arabic: بَيِّنَةٞ
     translation: a clear proof
     transliteration: bayyinatun
   17:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: from
     transliteration: min
   18:
-    arabic: رَّبِّكُمۡ​ ؕ
+    arabic: رَّبِّكُمۡۖ
     translation: your Lord
     transliteration: rabbikum
   19:
-    arabic: هٰذِهٖ
+    arabic: هَٰذِهِۦ
     translation: This
     transliteration: hādhihi
   20:
@@ -90,35 +90,35 @@ word_by_word:
     translation: (is) a she-camel
     transliteration: nāqatu
   21:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (of) Allah
     transliteration: l-lahi
   22:
-    arabic: لَـكُمۡ
+    arabic: لَكُمۡ ءَ
     translation: (it is) for you
     transliteration: lakum
   23:
-    arabic: اٰيَةً​
+    arabic: ايَةٗۖ
     translation: a Sign
     transliteration: āyatan
   24:
-    arabic: فَذَرُوۡهَا
+    arabic: فَذَرُوهَا
     translation: So you leave her
     transliteration: fadharūhā
   25:
-    arabic: تَاۡكُلۡ
+    arabic: تَأۡكُلۡ
     translation: (to) eat
     transliteration: takul
   26:
-    arabic: فِىۡۤ
+    arabic: فِيٓ
     translation: 'on'
     transliteration: fī
   27:
-    arabic: اَرۡضِ
+    arabic: أَرۡضِ
     translation: (the) earth
     transliteration: arḍi
   28:
-    arabic: اللّٰهِ​
+    arabic: ٱللَّهِۖ
     translation: (of) Allah
     transliteration: l-lahi
   29:
@@ -126,15 +126,15 @@ word_by_word:
     translation: and (do) not
     transliteration: walā
   30:
-    arabic: تَمَسُّوۡهَا
+    arabic: تَمَسُّوهَا
     translation: touch her
     transliteration: tamassūhā
   31:
-    arabic: بِسُوۡٓءٍ
+    arabic: بِسُوٓءٖ
     translation: with harm
     transliteration: bisūin
   32:
-    arabic: فَيَاۡخُذَكُمۡ
+    arabic: فَيَأۡخُذَكُمۡ
     translation: lest seizes you
     transliteration: fayakhudhakum
   33:
@@ -142,7 +142,7 @@ word_by_word:
     translation: a punishment
     transliteration: ʿadhābun
   34:
-    arabic: اَ لِيۡمٌ‏
+    arabic: أَلِيمٞ
     translation: painful
     transliteration: alīmun
 ---

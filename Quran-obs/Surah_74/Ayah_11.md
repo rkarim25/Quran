@@ -1,9 +1,9 @@
 ---
-arabic_ayat: ذَرۡنِىۡ وَمَنۡ خَلَقۡتُ وَحِيۡدًا ۙ‏
+arabic_ayat: ذَرۡنِي وَمَنۡ خَلَقۡتُ وَحِيدٗا
 sentence_translation: And leave to me ˹O Prophet˺ the one I created all by Myself,
 word_by_word:
   1:
-    arabic: ذَرۡنِىۡ
+    arabic: ذَرۡنِي
     translation: Leave Me
     transliteration: dharnī
   2:
@@ -15,7 +15,7 @@ word_by_word:
     translation: I created
     transliteration: khalaqtu
   4:
-    arabic: وَحِيۡدًا ۙ‏
+    arabic: وَحِيدٗا
     translation: alone
     transliteration: waḥīdan
 ---

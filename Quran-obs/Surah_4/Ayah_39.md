@@ -1,6 +1,6 @@
 ---
-arabic_ayat: وَمَاذَا عَلَيۡهِمۡ لَوۡ اٰمَنُوۡا بِاللّٰهِ وَالۡيَوۡمِ الۡاٰخِرِ وَاَنۡفَقُوۡا
-  مِمَّا رَزَقَهُمُ اللّٰهُ​ ؕ وَكَانَ اللّٰهُ بِهِمۡ عَلِيۡمًا‏
+arabic_ayat: وَمَاذَا عَلَيۡهِمۡ لَوۡ ءَامَنُواْ بِٱللَّهِ وَٱلۡيَوۡمِ ٱلۡأٓخِرِ وَأَنفَقُواْ
+  مِمَّا رَزَقَهُمُ ٱللَّهُۚ وَكَانَ ٱللَّهُ بِهِمۡ عَلِيمًا
 sentence_translation: What harm could have come to them if they had believed in Allah
   and the Last Day and donated from what Allah has provided for them? And Allah has
   ˹perfect˺ knowledge of them.
@@ -14,27 +14,27 @@ word_by_word:
     translation: (is) against them
     transliteration: ʿalayhim
   3:
-    arabic: لَوۡ
+    arabic: لَوۡ ءَ
     translation: if
     transliteration: law
   4:
-    arabic: اٰمَنُوۡا
+    arabic: امَنُواْ
     translation: they believed
     transliteration: āmanū
   5:
-    arabic: بِاللّٰهِ
+    arabic: بِٱللَّهِ
     translation: in Allah
     transliteration: bil-lahi
   6:
-    arabic: وَالۡيَوۡمِ
+    arabic: وَٱلۡيَوۡمِ
     translation: and the Day
     transliteration: wal-yawmi
   7:
-    arabic: الۡاٰخِرِ
+    arabic: ٱلۡأٓخِرِ
     translation: the Last
     transliteration: l-ākhiri
   8:
-    arabic: وَاَنۡفَقُوۡا
+    arabic: وَأَنفَقُواْ
     translation: and spent
     transliteration: wa-anfaqū
   9:
@@ -46,7 +46,7 @@ word_by_word:
     translation: (has) provided them
     transliteration: razaqahumu
   11:
-    arabic: اللّٰهُ​ ؕ
+    arabic: ٱللَّهُۚ
     translation: Allah
     transliteration: l-lahu
   12:
@@ -54,7 +54,7 @@ word_by_word:
     translation: And is
     transliteration: wakāna
   13:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   14:
@@ -62,7 +62,7 @@ word_by_word:
     translation: about them
     transliteration: bihim
   15:
-    arabic: عَلِيۡمًا‏
+    arabic: عَلِيمًا
     translation: All-Knower
     transliteration: ʿalīman
 ---

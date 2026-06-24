@@ -1,17 +1,17 @@
 ---
-arabic_ayat: وَ مَا صَاحِبُكُمۡ بِمَجۡنُوۡنٍ​ۚ‏
+arabic_ayat: وَمَا صَاحِبُكُم بِمَجۡنُونٖ
 sentence_translation: And your fellow man is not insane.
 word_by_word:
   1:
-    arabic: وَ مَا
+    arabic: وَمَا
     translation: And not
     transliteration: wamā
   2:
-    arabic: صَاحِبُكُمۡ
+    arabic: صَاحِبُكُم
     translation: (is) your companion
     transliteration: ṣāḥibukum
   3:
-    arabic: بِمَجۡنُوۡنٍ​ۚ‏
+    arabic: بِمَجۡنُونٖ
     translation: mad
     transliteration: bimajnūnin
 ---

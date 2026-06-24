@@ -1,13 +1,13 @@
 ---
-arabic_ayat: يَّشۡهَدُهُ الۡمُقَرَّبُوۡنَؕ‏
+arabic_ayat: يَشۡهَدُهُ ٱلۡمُقَرَّبُونَ
 sentence_translation: witnessed by those nearest ˹to Allah˺.
 word_by_word:
   1:
-    arabic: يَّشۡهَدُهُ
+    arabic: يَشۡهَدُهُ
     translation: Witness it
     transliteration: yashhaduhu
   2:
-    arabic: الۡمُقَرَّبُوۡنَؕ‏
+    arabic: ٱلۡمُقَرَّبُونَ
     translation: those brought near
     transliteration: l-muqarabūna
 ---

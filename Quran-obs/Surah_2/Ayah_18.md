@@ -1,10 +1,10 @@
 ---
-arabic_ayat: صُمٌّۢ بُكۡمٌ عُمۡىٌ فَهُمۡ لَا يَرۡجِعُوۡنَ ۙ‏
+arabic_ayat: صُمُّۢ بُكۡمٌ عُمۡيٞ فَهُمۡ لَا يَرۡجِعُونَ
 sentence_translation: They are ˹wilfully˺ deaf, dumb, and blind, so they will never
   return ˹to the Right Path˺.
 word_by_word:
   1:
-    arabic: صُمٌّۢ
+    arabic: صُمُّۢ
     translation: Deaf
     transliteration: ṣummun
   2:
@@ -12,7 +12,7 @@ word_by_word:
     translation: dumb
     transliteration: buk'mun
   3:
-    arabic: عُمۡىٌ
+    arabic: عُمۡيٞ
     translation: blind
     transliteration: ʿum'yun
   4:
@@ -24,7 +24,7 @@ word_by_word:
     translation: not
     transliteration: lā
   6:
-    arabic: يَرۡجِعُوۡنَ ۙ‏
+    arabic: يَرۡجِعُونَ
     translation: '[they] will not return'
     transliteration: yarjiʿūna
 ---

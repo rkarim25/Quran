@@ -1,31 +1,31 @@
 ---
-arabic_ayat: يَحۡلِفُوۡنَ لَـكُمۡ لِتَرۡضَوۡا عَنۡهُمۡ​ۚ فَاِنۡ تَرۡضَوۡا عَنۡهُمۡ
-  فَاِنَّ اللّٰهَ لَا يَرۡضٰى عَنِ الۡقَوۡمِ الۡفٰسِقِيۡنَ‏
+arabic_ayat: يَحۡلِفُونَ لَكُمۡ لِتَرۡضَوۡاْ عَنۡهُمۡۖ فَإِن تَرۡضَوۡاْ عَنۡهُمۡ فَإِنَّ
+  ٱللَّهَ لَا يَرۡضَىٰ عَنِ ٱلۡقَوۡمِ ٱلۡفَٰسِقِينَ
 sentence_translation: They will swear to you in order to please you. And even if you
   are pleased with them, Allah will never be pleased with the rebellious people.
 word_by_word:
   1:
-    arabic: يَحۡلِفُوۡنَ
+    arabic: يَحۡلِفُونَ
     translation: They swear
     transliteration: yaḥlifūna
   2:
-    arabic: لَـكُمۡ
+    arabic: لَكُمۡ
     translation: to you
     transliteration: lakum
   3:
-    arabic: لِتَرۡضَوۡا
+    arabic: لِتَرۡضَوۡاْ
     translation: that you may be pleased
     transliteration: litarḍaw
   4:
-    arabic: عَنۡهُمۡ​ۚ
+    arabic: عَنۡهُمۡۖ
     translation: with them
     transliteration: ʿanhum
   5:
-    arabic: فَاِنۡ
+    arabic: فَإِن
     translation: But if
     transliteration: fa-in
   6:
-    arabic: تَرۡضَوۡا
+    arabic: تَرۡضَوۡاْ
     translation: you are pleased
     transliteration: tarḍaw
   7:
@@ -33,11 +33,11 @@ word_by_word:
     translation: with them
     transliteration: ʿanhum
   8:
-    arabic: فَاِنَّ
+    arabic: فَإِنَّ
     translation: then indeed
     transliteration: fa-inna
   9:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   10:
@@ -45,7 +45,7 @@ word_by_word:
     translation: (is) not pleased
     transliteration: lā
   11:
-    arabic: يَرۡضٰى
+    arabic: يَرۡضَىٰ
     translation: (is) not pleased
     transliteration: yarḍā
   12:
@@ -53,11 +53,11 @@ word_by_word:
     translation: with
     transliteration: ʿani
   13:
-    arabic: الۡقَوۡمِ
+    arabic: ٱلۡقَوۡمِ
     translation: the people
     transliteration: l-qawmi
   14:
-    arabic: الۡفٰسِقِيۡنَ‏
+    arabic: ٱلۡفَٰسِقِينَ
     translation: (who are) defiantly disobedient
     transliteration: l-fāsiqīna
 ---

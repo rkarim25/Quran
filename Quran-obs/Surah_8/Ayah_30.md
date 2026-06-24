@@ -1,13 +1,12 @@
 ---
-arabic_ayat: "وَاِذۡ يَمۡكُرُ بِكَ الَّذِيۡنَ كَفَرُوۡا لِيُثۡبِتُوۡكَ اَوۡ يَقۡتُلُوۡكَ\
-  \ اَوۡ يُخۡرِجُوۡكَ​ؕ وَيَمۡكُرُوۡنَ وَيَمۡكُرُ اللّٰهُ​ؕ وَاللّٰهُ خَيۡرُ الۡمٰكِرِيۡنَ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: وَإِذۡ يَمۡكُرُ بِكَ ٱلَّذِينَ كَفَرُواْ لِيُثۡبِتُوكَ أَوۡ يَقۡتُلُوكَ
+  أَوۡ يُخۡرِجُوكَۚ وَيَمۡكُرُونَ وَيَمۡكُرُ ٱللَّهُۖ وَٱللَّهُ خَيۡرُ ٱلۡمَٰكِرِينَ
 sentence_translation: And ˹remember, O  Prophet,˺ when the disbelievers conspired
   to capture, kill, or exile you. They planned, but Allah also planned. And Allah
   is the best of planners.
 word_by_word:
   1:
-    arabic: وَاِذۡ
+    arabic: وَإِذۡ
     translation: And when
     transliteration: wa-idh
   2:
@@ -19,35 +18,35 @@ word_by_word:
     translation: against you
     transliteration: bika
   4:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   5:
-    arabic: كَفَرُوۡا
+    arabic: كَفَرُواْ
     translation: disbelieved
     transliteration: kafarū
   6:
-    arabic: لِيُثۡبِتُوۡكَ
+    arabic: لِيُثۡبِتُوكَ
     translation: that they restrain you
     transliteration: liyuth'bitūka
   7:
-    arabic: اَوۡ
+    arabic: أَوۡ
     translation: or
     transliteration: aw
   8:
-    arabic: يَقۡتُلُوۡكَ
+    arabic: يَقۡتُلُوكَ
     translation: kill you
     transliteration: yaqtulūka
   9:
-    arabic: اَوۡ
+    arabic: أَوۡ
     translation: or
     transliteration: aw
   10:
-    arabic: يُخۡرِجُوۡكَ​ؕ
+    arabic: يُخۡرِجُوكَۚ
     translation: drive you out
     transliteration: yukh'rijūka
   11:
-    arabic: وَيَمۡكُرُوۡنَ
+    arabic: وَيَمۡكُرُونَ
     translation: And they were planning
     transliteration: wayamkurūna
   12:
@@ -55,11 +54,11 @@ word_by_word:
     translation: and (also) was planning
     transliteration: wayamkuru
   13:
-    arabic: اللّٰهُ​ؕ
+    arabic: ٱللَّهُۖ
     translation: Allah
     transliteration: l-lahu
   14:
-    arabic: وَاللّٰهُ
+    arabic: وَٱللَّهُ
     translation: And Allah
     transliteration: wal-lahu
   15:
@@ -67,7 +66,7 @@ word_by_word:
     translation: is (the) Best
     transliteration: khayru
   16:
-    arabic: "الۡمٰكِرِيۡنَ‏ \uFEFF\uFEFF"
+    arabic: ٱلۡمَٰكِرِينَ
     translation: (of) the Planners
     transliteration: l-mākirīna
 ---

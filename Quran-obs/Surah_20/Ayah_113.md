@@ -1,31 +1,31 @@
 ---
-arabic_ayat: وَكَذٰلِكَ اَنۡزَلۡنٰهُ قُرۡاٰنًا عَرَبِيًّا وَّ صَرَّفۡنَا فِيۡهِ مِنَ
-  الۡوَعِيۡدِ لَعَلَّهُمۡ يَتَّقُوۡنَ اَوۡ يُحۡدِثُ لَهُمۡ ذِكۡرًا‏
+arabic_ayat: وَكَذَٰلِكَ أَنزَلۡنَٰهُ قُرۡءَانًا عَرَبِيّٗا وَصَرَّفۡنَا فِيهِ مِنَ
+  ٱلۡوَعِيدِ لَعَلَّهُمۡ يَتَّقُونَ أَوۡ يُحۡدِثُ لَهُمۡ ذِكۡرٗا
 sentence_translation: And so We have sent it down as an Arabic Quran and varied the
   warnings in it, so perhaps they will shun evil or it may cause them to be mindful.
 word_by_word:
   1:
-    arabic: وَكَذٰلِكَ
+    arabic: وَكَذَٰلِكَ
     translation: And thus
     transliteration: wakadhālika
   2:
-    arabic: اَنۡزَلۡنٰهُ
+    arabic: أَنزَلۡنَٰهُ
     translation: We have sent it down
     transliteration: anzalnāhu
   3:
-    arabic: قُرۡاٰنًا
+    arabic: قُرۡءَانًا
     translation: (the) Quran
     transliteration: qur'ānan
   4:
-    arabic: عَرَبِيًّا
+    arabic: عَرَبِيّٗا
     translation: (in) Arabic
     transliteration: ʿarabiyyan
   5:
-    arabic: وَّ صَرَّفۡنَا
+    arabic: وَصَرَّفۡنَا
     translation: and We have explained
     transliteration: waṣarrafnā
   6:
-    arabic: فِيۡهِ
+    arabic: فِيهِ
     translation: in it
     transliteration: fīhi
   7:
@@ -33,7 +33,7 @@ word_by_word:
     translation: of
     transliteration: mina
   8:
-    arabic: الۡوَعِيۡدِ
+    arabic: ٱلۡوَعِيدِ
     translation: the warnings
     transliteration: l-waʿīdi
   9:
@@ -41,11 +41,11 @@ word_by_word:
     translation: that they may
     transliteration: laʿallahum
   10:
-    arabic: يَتَّقُوۡنَ
+    arabic: يَتَّقُونَ
     translation: fear
     transliteration: yattaqūna
   11:
-    arabic: اَوۡ
+    arabic: أَوۡ
     translation: or
     transliteration: aw
   12:
@@ -57,7 +57,7 @@ word_by_word:
     translation: '[for] them'
     transliteration: lahum
   14:
-    arabic: ذِكۡرًا‏
+    arabic: ذِكۡرٗا
     translation: remembrance
     transliteration: dhik'ran
 ---

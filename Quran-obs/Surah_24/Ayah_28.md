@@ -1,13 +1,13 @@
 ---
-arabic_ayat: فَاِنۡ لَّمۡ تَجِدُوۡا فِيۡهَاۤ اَحَدًا فَلَا تَدۡخُلُوۡهَا حَتّٰى يُؤۡذَنَ
-  لَـكُمۡ​ۚ وَاِنۡ قِيۡلَ لَـكُمُ ارۡجِعُوۡا فَارۡجِعُوۡا​ۚ هُوَ اَزۡكٰى لَـكُمۡ​ؕ
-  وَاللّٰهُ بِمَا تَعۡمَلُوۡنَ عَلِيۡمٌ‏
+arabic_ayat: فَإِن لَّمۡ تَجِدُواْ فِيهَآ أَحَدٗا فَلَا تَدۡخُلُوهَا حَتَّىٰ يُؤۡذَنَ
+  لَكُمۡۖ وَإِن قِيلَ لَكُمُ ٱرۡجِعُواْ فَٱرۡجِعُواْۖ هُوَ أَزۡكَىٰ لَكُمۡۚ وَٱللَّهُ
+  بِمَا تَعۡمَلُونَ عَلِيمٞ
 sentence_translation: If you find no one at home, do not enter it until you have been
   given permission. And if you are asked to leave, then leave. That is purer for you.
   And Allah has ˹perfect˺ knowledge of what you do.
 word_by_word:
   1:
-    arabic: فَاِنۡ
+    arabic: فَإِن
     translation: But if
     transliteration: fa-in
   2:
@@ -15,15 +15,15 @@ word_by_word:
     translation: not
     transliteration: lam
   3:
-    arabic: تَجِدُوۡا
+    arabic: تَجِدُواْ
     translation: you find
     transliteration: tajidū
   4:
-    arabic: فِيۡهَاۤ
+    arabic: فِيهَآ
     translation: in it
     transliteration: fīhā
   5:
-    arabic: اَحَدًا
+    arabic: أَحَدٗا
     translation: anyone
     transliteration: aḥadan
   6:
@@ -31,11 +31,11 @@ word_by_word:
     translation: then (do) not
     transliteration: falā
   7:
-    arabic: تَدۡخُلُوۡهَا
+    arabic: تَدۡخُلُوهَا
     translation: enter it
     transliteration: tadkhulūhā
   8:
-    arabic: حَتّٰى
+    arabic: حَتَّىٰ
     translation: until
     transliteration: ḥattā
   9:
@@ -43,27 +43,27 @@ word_by_word:
     translation: permission has been given
     transliteration: yu'dhana
   10:
-    arabic: لَـكُمۡ​ۚ
+    arabic: لَكُمۡۖ
     translation: to you
     transliteration: lakum
   11:
-    arabic: وَاِنۡ
+    arabic: وَإِن
     translation: And if
     transliteration: wa-in
   12:
-    arabic: قِيۡلَ
+    arabic: قِيلَ
     translation: it is said
     transliteration: qīla
   13:
-    arabic: لَـكُمُ
+    arabic: لَكُمُ
     translation: to you
     transliteration: lakumu
   14:
-    arabic: ارۡجِعُوۡا
+    arabic: ٱرۡجِعُواْ
     translation: Go back
     transliteration: ir'jiʿū
   15:
-    arabic: فَارۡجِعُوۡا​ۚ
+    arabic: فَٱرۡجِعُواْۖ
     translation: then go back
     transliteration: fa-ir'jiʿū
   16:
@@ -71,15 +71,15 @@ word_by_word:
     translation: it
     transliteration: huwa
   17:
-    arabic: اَزۡكٰى
+    arabic: أَزۡكَىٰ
     translation: (is) purer
     transliteration: azkā
   18:
-    arabic: لَـكُمۡ​ؕ
+    arabic: لَكُمۡۚ
     translation: for you
     transliteration: lakum
   19:
-    arabic: وَاللّٰهُ
+    arabic: وَٱللَّهُ
     translation: And Allah
     transliteration: wal-lahu
   20:
@@ -87,11 +87,11 @@ word_by_word:
     translation: of what
     transliteration: bimā
   21:
-    arabic: تَعۡمَلُوۡنَ
+    arabic: تَعۡمَلُونَ
     translation: you do
     transliteration: taʿmalūna
   22:
-    arabic: عَلِيۡمٌ‏
+    arabic: عَلِيمٞ
     translation: (is) All-Knower
     transliteration: ʿalīmun
 ---

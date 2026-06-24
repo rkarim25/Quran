@@ -1,21 +1,21 @@
 ---
-arabic_ayat: وَّاٰخَرُ مِنۡ شَكۡلِهٖۤ اَزۡوَاجٌ ؕ‏
+arabic_ayat: وَءَاخَرُ مِن شَكۡلِهِۦٓ أَزۡوَٰجٌ
 sentence_translation: and other torments of the same sort!
 word_by_word:
   1:
-    arabic: وَّاٰخَرُ
+    arabic: وَءَاخَرُ
     translation: And other
     transliteration: waākharu
   2:
-    arabic: مِنۡ
+    arabic: مِن
     translation: of
     transliteration: min
   3:
-    arabic: شَكۡلِهٖۤ
+    arabic: شَكۡلِهِۦٓ
     translation: its type
     transliteration: shaklihi
   4:
-    arabic: اَزۡوَاجٌ ؕ‏
+    arabic: أَزۡوَٰجٌ
     translation: (of various) kinds
     transliteration: azwājun
 ---

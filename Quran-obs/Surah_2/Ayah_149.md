@@ -1,6 +1,6 @@
 ---
-arabic_ayat: وَمِنۡ حَيۡثُ خَرَجۡتَ فَوَلِّ وَجۡهَكَ شَطۡرَ الۡمَسۡجِدِ الۡحَـرَامِؕ
-  وَاِنَّهٗ لَـلۡحَقُّ مِنۡ رَّبِّكَؕ وَمَا اللّٰهُ بِغَافِلٍ عَمَّا تَعۡمَلُوۡنَ‏
+arabic_ayat: وَمِنۡ حَيۡثُ خَرَجۡتَ فَوَلِّ وَجۡهَكَ شَطۡرَ ٱلۡمَسۡجِدِ ٱلۡحَرَامِۖ
+  وَإِنَّهُۥ لَلۡحَقُّ مِن رَّبِّكَۗ وَمَا ٱللَّهُ بِغَٰفِلٍ عَمَّا تَعۡمَلُونَ
 sentence_translation: Wherever you are ˹O Prophet˺, turn your face towards the Sacred
   Mosque. This is certainly the truth from your Lord. And Allah is never unaware of
   what you ˹all˺ do.
@@ -30,27 +30,27 @@ word_by_word:
     translation: (in the) direction
     transliteration: shaṭra
   7:
-    arabic: الۡمَسۡجِدِ
+    arabic: ٱلۡمَسۡجِدِ
     translation: (of) Al-Masjid
     transliteration: l-masjidi
   8:
-    arabic: الۡحَـرَامِؕ
+    arabic: ٱلۡحَرَامِۖ
     translation: Al-Haraam
     transliteration: l-ḥarāmi
   9:
-    arabic: وَاِنَّهٗ
+    arabic: وَإِنَّهُۥ
     translation: And indeed, it
     transliteration: wa-innahu
   10:
-    arabic: لَـلۡحَقُّ
+    arabic: لَلۡحَقُّ
     translation: (is) surely the truth
     transliteration: lalḥaqqu
   11:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   12:
-    arabic: رَّبِّكَؕ
+    arabic: رَّبِّكَۗ
     translation: your Lord
     transliteration: rabbika
   13:
@@ -58,11 +58,11 @@ word_by_word:
     translation: And not
     transliteration: wamā
   14:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: (is) Allah
     transliteration: l-lahu
   15:
-    arabic: بِغَافِلٍ
+    arabic: بِغَٰفِلٍ
     translation: unaware
     transliteration: bighāfilin
   16:
@@ -70,7 +70,7 @@ word_by_word:
     translation: of what
     transliteration: ʿammā
   17:
-    arabic: تَعۡمَلُوۡنَ‏
+    arabic: تَعۡمَلُونَ
     translation: you do
     transliteration: taʿmalūna
 ---

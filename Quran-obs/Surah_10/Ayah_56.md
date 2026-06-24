@@ -1,5 +1,5 @@
 ---
-arabic_ayat: هُوَ يُحۡىٖ وَيُمِيۡتُ وَاِلَيۡهِ تُرۡجَعُوۡنَ‏
+arabic_ayat: هُوَ يُحۡيِۦ وَيُمِيتُ وَإِلَيۡهِ تُرۡجَعُونَ
 sentence_translation: He ˹is the One Who˺ gives life and causes death, and to Him
   you will ˹all˺ be returned.
 word_by_word:
@@ -8,19 +8,19 @@ word_by_word:
     translation: He
     transliteration: huwa
   2:
-    arabic: يُحۡىٖ
+    arabic: يُحۡيِۦ
     translation: gives life
     transliteration: yuḥ'yī
   3:
-    arabic: وَيُمِيۡتُ
+    arabic: وَيُمِيتُ
     translation: and causes death
     transliteration: wayumītu
   4:
-    arabic: وَاِلَيۡهِ
+    arabic: وَإِلَيۡهِ
     translation: and to Him
     transliteration: wa-ilayhi
   5:
-    arabic: تُرۡجَعُوۡنَ‏
+    arabic: تُرۡجَعُونَ
     translation: you will be returned
     transliteration: tur'jaʿūna
 ---

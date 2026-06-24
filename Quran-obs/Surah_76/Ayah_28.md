@@ -1,27 +1,27 @@
 ---
-arabic_ayat: نَحۡنُ خَلَقۡنٰهُمۡ وَشَدَدۡنَاۤ اَسۡرَهُمۡ​ۚ وَاِذَا شِئۡنَا بَدَّلۡنَاۤ
-  اَمۡثَالَهُمۡ تَبۡدِيۡلًا‏
+arabic_ayat: نَّحۡنُ خَلَقۡنَٰهُمۡ وَشَدَدۡنَآ أَسۡرَهُمۡۖ وَإِذَا شِئۡنَا بَدَّلۡنَآ
+  أَمۡثَٰلَهُمۡ تَبۡدِيلًا
 sentence_translation: It is We Who created them and perfected their ˹physical˺ form.
   But if We will, We can easily replace them with others.
 word_by_word:
   1:
-    arabic: نَحۡنُ
+    arabic: نَّحۡنُ
     translation: We
     transliteration: naḥnu
   2:
-    arabic: خَلَقۡنٰهُمۡ
+    arabic: خَلَقۡنَٰهُمۡ
     translation: created them
     transliteration: khalaqnāhum
   3:
-    arabic: وَشَدَدۡنَاۤ
+    arabic: وَشَدَدۡنَآ
     translation: and We strengthened
     transliteration: washadadnā
   4:
-    arabic: اَسۡرَهُمۡ​ۚ
+    arabic: أَسۡرَهُمۡۖ
     translation: their forms
     transliteration: asrahum
   5:
-    arabic: وَاِذَا
+    arabic: وَإِذَا
     translation: and when
     transliteration: wa-idhā
   6:
@@ -29,15 +29,15 @@ word_by_word:
     translation: We will
     transliteration: shi'nā
   7:
-    arabic: بَدَّلۡنَاۤ
+    arabic: بَدَّلۡنَآ
     translation: We can change
     transliteration: baddalnā
   8:
-    arabic: اَمۡثَالَهُمۡ
+    arabic: أَمۡثَٰلَهُمۡ
     translation: their likeness[es]
     transliteration: amthālahum
   9:
-    arabic: تَبۡدِيۡلًا‏
+    arabic: تَبۡدِيلًا
     translation: (with) a change
     transliteration: tabdīlan
 ---

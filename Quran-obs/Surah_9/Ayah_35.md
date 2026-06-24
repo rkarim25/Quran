@@ -1,18 +1,18 @@
 ---
-arabic_ayat: يَّومَ يُحۡمٰى عَلَيۡهَا فِىۡ نَارِ جَهَـنَّمَ فَتُكۡوٰى بِهَا جِبَاهُهُمۡ
-  وَجُنُوۡبُهُمۡ وَظُهُوۡرُهُمۡ​ؕ هٰذَا مَا كَنَزۡتُمۡ لِاَنۡفُسِكُمۡ فَذُوۡقُوۡا
-  مَا كُنۡتُمۡ تَكۡنِزُوۡنَ‏
+arabic_ayat: يَوۡمَ يُحۡمَىٰ عَلَيۡهَا فِي نَارِ جَهَنَّمَ فَتُكۡوَىٰ بِهَا جِبَاهُهُمۡ
+  وَجُنُوبُهُمۡ وَظُهُورُهُمۡۖ هَٰذَا مَا كَنَزۡتُمۡ لِأَنفُسِكُمۡ فَذُوقُواْ مَا
+  كُنتُمۡ تَكۡنِزُونَ
 sentence_translation: The Day ˹will come˺ when their treasure will be heated up in
   the Fire of Hell, and their foreheads, sides, and backs branded with it. ˹It will
   be said to them,˺ “This is the treasure you hoarded for yourselves. Now taste what
   you hoarded!”
 word_by_word:
   1:
-    arabic: يَّومَ
+    arabic: يَوۡمَ
     translation: (The) Day
     transliteration: yawma
   2:
-    arabic: يُحۡمٰى
+    arabic: يُحۡمَىٰ
     translation: it will be heated [on it]
     transliteration: yuḥ'mā
   3:
@@ -20,7 +20,7 @@ word_by_word:
     translation: it will be heated [on it]
     transliteration: ʿalayhā
   4:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   5:
@@ -28,11 +28,11 @@ word_by_word:
     translation: the Fire
     transliteration: nāri
   6:
-    arabic: جَهَـنَّمَ
+    arabic: جَهَنَّمَ
     translation: (of) Hell
     transliteration: jahannama
   7:
-    arabic: فَتُكۡوٰى
+    arabic: فَتُكۡوَىٰ
     translation: and will be branded
     transliteration: fatuk'wā
   8:
@@ -44,15 +44,15 @@ word_by_word:
     translation: their foreheads
     transliteration: jibāhuhum
   10:
-    arabic: وَجُنُوۡبُهُمۡ
+    arabic: وَجُنُوبُهُمۡ
     translation: and their flanks
     transliteration: wajunūbuhum
   11:
-    arabic: وَظُهُوۡرُهُمۡ​ؕ
+    arabic: وَظُهُورُهُمۡۖ
     translation: and their backs
     transliteration: waẓuhūruhum
   12:
-    arabic: هٰذَا
+    arabic: هَٰذَا
     translation: This
     transliteration: hādhā
   13:
@@ -64,11 +64,11 @@ word_by_word:
     translation: you hoarded
     transliteration: kanaztum
   15:
-    arabic: لِاَنۡفُسِكُمۡ
+    arabic: لِأَنفُسِكُمۡ
     translation: for yourselves
     transliteration: li-anfusikum
   16:
-    arabic: فَذُوۡقُوۡا
+    arabic: فَذُوقُواْ
     translation: so taste
     transliteration: fadhūqū
   17:
@@ -76,11 +76,11 @@ word_by_word:
     translation: what
     transliteration: mā
   18:
-    arabic: كُنۡتُمۡ
+    arabic: كُنتُمۡ
     translation: you used to
     transliteration: kuntum
   19:
-    arabic: تَكۡنِزُوۡنَ‏
+    arabic: تَكۡنِزُونَ
     translation: hoard
     transliteration: taknizūna
 ---

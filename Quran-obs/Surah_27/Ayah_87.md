@@ -1,6 +1,6 @@
 ---
-arabic_ayat: وَيَوۡمَ يُنۡفَخُ فِىۡ الصُّوۡرِ فَفَزِعَ مَنۡ فِىۡ السَّمٰوٰتِ وَمَنۡ
-  فِى الۡاَرۡضِ اِلَّا مَنۡ شَآءَ اللّٰهُ​ؕ وَكُلٌّ اَتَوۡهُ دٰخِرِيۡنَ‏
+arabic_ayat: وَيَوۡمَ يُنفَخُ فِي ٱلصُّورِ فَفَزِعَ مَن فِي ٱلسَّمَٰوَٰتِ وَمَن فِي
+  ٱلۡأَرۡضِ إِلَّا مَن شَآءَ ٱللَّهُۚ وَكُلٌّ أَتَوۡهُ دَٰخِرِينَ
 sentence_translation: And ˹beware of˺ the Day the Trumpet will be blown, and all those
   in the heavens and all those on the earth will be horrified ˹to the point of death˺, except
   those Allah wills ˹to spare˺. And all will come before Him, fully humbled.
@@ -10,15 +10,15 @@ word_by_word:
     translation: And (the) Day
     transliteration: wayawma
   2:
-    arabic: يُنۡفَخُ
+    arabic: يُنفَخُ
     translation: will be blown
     transliteration: yunfakhu
   3:
-    arabic: فِىۡ
+    arabic: فِي
     translation: '[in]'
     transliteration: fī
   4:
-    arabic: الصُّوۡرِ
+    arabic: ٱلصُّورِ
     translation: the trumpet
     transliteration: l-ṣūri
   5:
@@ -26,35 +26,35 @@ word_by_word:
     translation: and will be terrified
     transliteration: fafaziʿa
   6:
-    arabic: مَنۡ
+    arabic: مَن
     translation: whoever
     transliteration: man
   7:
-    arabic: فِىۡ
+    arabic: فِي
     translation: (is) in
     transliteration: fī
   8:
-    arabic: السَّمٰوٰتِ
+    arabic: ٱلسَّمَٰوَٰتِ
     translation: the heavens
     transliteration: l-samāwāti
   9:
-    arabic: وَمَنۡ
+    arabic: وَمَن
     translation: and whoever
     transliteration: waman
   10:
-    arabic: فِى
+    arabic: فِي
     translation: (is) in
     transliteration: fī
   11:
-    arabic: الۡاَرۡضِ
+    arabic: ٱلۡأَرۡضِ
     translation: the earth
     transliteration: l-arḍi
   12:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   13:
-    arabic: مَنۡ
+    arabic: مَن
     translation: whom
     transliteration: man
   14:
@@ -62,7 +62,7 @@ word_by_word:
     translation: Allah wills
     transliteration: shāa
   15:
-    arabic: اللّٰهُ​ؕ
+    arabic: ٱللَّهُۚ
     translation: Allah wills
     transliteration: l-lahu
   16:
@@ -70,11 +70,11 @@ word_by_word:
     translation: And all
     transliteration: wakullun
   17:
-    arabic: اَتَوۡهُ
+    arabic: أَتَوۡهُ
     translation: (will) come to Him
     transliteration: atawhu
   18:
-    arabic: دٰخِرِيۡنَ‏
+    arabic: دَٰخِرِينَ
     translation: humbled
     transliteration: dākhirīna
 ---

@@ -1,5 +1,5 @@
 ---
-arabic_ayat: ثُمَّ اَنۡشَاۡنَا مِنۡۢ بَعۡدِهِمۡ قُرُوۡنًا اٰخَرِيۡنَؕ‏
+arabic_ayat: ثُمَّ أَنشَأۡنَا مِنۢ بَعۡدِهِمۡ قُرُونًا ءَاخَرِينَ
 sentence_translation: Then We raised other generations after them.
 word_by_word:
   1:
@@ -7,11 +7,11 @@ word_by_word:
     translation: Then
     transliteration: thumma
   2:
-    arabic: اَنۡشَاۡنَا
+    arabic: أَنشَأۡنَا
     translation: We produced
     transliteration: anshanā
   3:
-    arabic: مِنۡۢ
+    arabic: مِنۢ
     translation: after them
     transliteration: min
   4:
@@ -19,11 +19,11 @@ word_by_word:
     translation: after them
     transliteration: baʿdihim
   5:
-    arabic: قُرُوۡنًا
+    arabic: قُرُونًا ءَ
     translation: a generation
     transliteration: qurūnan
   6:
-    arabic: اٰخَرِيۡنَؕ‏
+    arabic: اخَرِينَ
     translation: another
     transliteration: ākharīna
 ---

@@ -1,6 +1,6 @@
 ---
-arabic_ayat: ثُمَّ اَفِيۡضُوۡا مِنۡ حَيۡثُ اَفَاضَ النَّاسُ وَاسۡتَغۡفِرُوا اللّٰهَ​ؕ
-  اِنَّ اللّٰهَ غَفُوۡرٌ رَّحِيۡمٌ‏
+arabic_ayat: ثُمَّ أَفِيضُواْ مِنۡ حَيۡثُ أَفَاضَ ٱلنَّاسُ وَٱسۡتَغۡفِرُواْ ٱللَّهَۚ
+  إِنَّ ٱللَّهَ غَفُورٞ رَّحِيمٞ
 sentence_translation: Then go forth with the rest of the pilgrims. And seek Allah’s
   forgiveness. Surely Allah is All-Forgiving, Most Merciful.
 word_by_word:
@@ -9,7 +9,7 @@ word_by_word:
     translation: Then
     transliteration: thumma
   2:
-    arabic: اَفِيۡضُوۡا
+    arabic: أَفِيضُواْ
     translation: depart
     transliteration: afīḍū
   3:
@@ -21,35 +21,35 @@ word_by_word:
     translation: wherever
     transliteration: ḥaythu
   5:
-    arabic: اَفَاضَ
+    arabic: أَفَاضَ
     translation: depart
     transliteration: afāḍa
   6:
-    arabic: النَّاسُ
+    arabic: ٱلنَّاسُ
     translation: the people
     transliteration: l-nāsu
   7:
-    arabic: وَاسۡتَغۡفِرُوا
+    arabic: وَٱسۡتَغۡفِرُواْ
     translation: and ask forgiveness
     transliteration: wa-is'taghfirū
   8:
-    arabic: اللّٰهَ​ؕ
+    arabic: ٱللَّهَۚ
     translation: (of) Allah
     transliteration: l-laha
   9:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   10:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   11:
-    arabic: غَفُوۡرٌ
+    arabic: غَفُورٞ
     translation: (is) Oft-Forgiving
     transliteration: ghafūrun
   12:
-    arabic: رَّحِيۡمٌ‏
+    arabic: رَّحِيمٞ
     translation: Most Merciful
     transliteration: raḥīmun
 ---

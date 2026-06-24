@@ -1,7 +1,6 @@
 ---
-arabic_ayat: "وَلَا تُعۡجِبۡكَ اَمۡوَالُهُمۡ وَاَوۡلَادُهُمۡ​ؕ اِنَّمَا يُرِيۡدُ اللّٰهُ\
-  \ اَنۡ يُّعَذِّبَهُمۡ بِهَا فِى الدُّنۡيَا وَتَزۡهَقَ اَنۡفُسُهُمۡ وَهُمۡ كٰفِرُوۡنَ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: وَلَا تُعۡجِبۡكَ أَمۡوَٰلُهُمۡ وَأَوۡلَٰدُهُمۡۚ إِنَّمَا يُرِيدُ ٱللَّهُ
+  أَن يُعَذِّبَهُم بِهَا فِي ٱلدُّنۡيَا وَتَزۡهَقَ أَنفُسُهُمۡ وَهُمۡ كَٰفِرُونَ
 sentence_translation: And let neither their wealth nor children impress you ˹O Prophet˺.
   Allah only intends to torment them through these things in this world, and ˹then˺
   their souls will depart while they are disbelievers.
@@ -15,31 +14,31 @@ word_by_word:
     translation: impress you
     transliteration: tuʿ'jib'ka
   3:
-    arabic: اَمۡوَالُهُمۡ
+    arabic: أَمۡوَٰلُهُمۡ
     translation: their wealth
     transliteration: amwāluhum
   4:
-    arabic: وَاَوۡلَادُهُمۡ​ؕ
+    arabic: وَأَوۡلَٰدُهُمۡۚ
     translation: and their children
     transliteration: wa-awlāduhum
   5:
-    arabic: اِنَّمَا
+    arabic: إِنَّمَا
     translation: Only
     transliteration: innamā
   6:
-    arabic: يُرِيۡدُ
+    arabic: يُرِيدُ
     translation: Allah intends
     transliteration: yurīdu
   7:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah intends
     transliteration: l-lahu
   8:
-    arabic: اَنۡ
+    arabic: أَن
     translation: to
     transliteration: an
   9:
-    arabic: يُّعَذِّبَهُمۡ
+    arabic: يُعَذِّبَهُم
     translation: punish them
     transliteration: yuʿadhibahum
   10:
@@ -47,11 +46,11 @@ word_by_word:
     translation: with it
     transliteration: bihā
   11:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   12:
-    arabic: الدُّنۡيَا
+    arabic: ٱلدُّنۡيَا
     translation: the world
     transliteration: l-dun'yā
   13:
@@ -59,7 +58,7 @@ word_by_word:
     translation: and will depart
     transliteration: watazhaqa
   14:
-    arabic: اَنۡفُسُهُمۡ
+    arabic: أَنفُسُهُمۡ
     translation: their souls
     transliteration: anfusuhum
   15:
@@ -67,7 +66,7 @@ word_by_word:
     translation: while they
     transliteration: wahum
   16:
-    arabic: "كٰفِرُوۡنَ‏ \uFEFF\uFEFF"
+    arabic: كَٰفِرُونَ
     translation: (are) disbelievers
     transliteration: kāfirūna
 ---

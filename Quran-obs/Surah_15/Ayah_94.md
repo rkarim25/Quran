@@ -1,10 +1,10 @@
 ---
-arabic_ayat: فَاصۡدَعۡ بِمَا تُؤۡمَرُ وَ اَعۡرِضۡ عَنِ الۡمُشۡرِكِيۡنَ‏
+arabic_ayat: فَٱصۡدَعۡ بِمَا تُؤۡمَرُ وَأَعۡرِضۡ عَنِ ٱلۡمُشۡرِكِينَ
 sentence_translation: So proclaim what you have been commanded, and turn away from
   the polytheists.
 word_by_word:
   1:
-    arabic: فَاصۡدَعۡ
+    arabic: فَٱصۡدَعۡ
     translation: So proclaim
     transliteration: fa-iṣ'daʿ
   2:
@@ -16,7 +16,7 @@ word_by_word:
     translation: you are ordered
     transliteration: tu'maru
   4:
-    arabic: وَ اَعۡرِضۡ
+    arabic: وَأَعۡرِضۡ
     translation: and turn away
     transliteration: wa-aʿriḍ
   5:
@@ -24,7 +24,7 @@ word_by_word:
     translation: from
     transliteration: ʿani
   6:
-    arabic: الۡمُشۡرِكِيۡنَ‏
+    arabic: ٱلۡمُشۡرِكِينَ
     translation: the polytheists
     transliteration: l-mush'rikīna
 ---

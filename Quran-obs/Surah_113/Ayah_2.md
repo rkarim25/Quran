@@ -1,9 +1,9 @@
 ---
-arabic_ayat: مِنۡ شَرِّ مَا خَلَقَۙ‏
+arabic_ayat: مِن شَرِّ مَا خَلَقَ
 sentence_translation: from the evil of whatever He has created,
 word_by_word:
   1:
-    arabic: مِنۡ
+    arabic: مِن
     translation: From
     transliteration: min
   2:
@@ -15,7 +15,7 @@ word_by_word:
     translation: (of) what
     transliteration: mā
   4:
-    arabic: خَلَقَۙ‏
+    arabic: خَلَقَ
     translation: He created
     transliteration: khalaqa
 ---

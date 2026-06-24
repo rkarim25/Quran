@@ -1,13 +1,12 @@
 ---
-arabic_ayat: اَلشَّيۡطٰنُ يَعِدُكُمُ الۡـفَقۡرَ وَيَاۡمُرُكُمۡ بِالۡفَحۡشَآءِ​ ۚ
-  وَاللّٰهُ يَعِدُكُمۡ مَّغۡفِرَةً مِّنۡهُ وَفَضۡلًا ؕ وَاللّٰهُ وَاسِعٌ عَلِيۡمٌۚ 
-  ۙۖ‏
+arabic_ayat: ٱلشَّيۡطَٰنُ يَعِدُكُمُ ٱلۡفَقۡرَ وَيَأۡمُرُكُم بِٱلۡفَحۡشَآءِۖ وَٱللَّهُ
+  يَعِدُكُم مَّغۡفِرَةٗ مِّنۡهُ وَفَضۡلٗاۗ وَٱللَّهُ وَٰسِعٌ عَلِيمٞ
 sentence_translation: The Devil threatens you with ˹the prospect of˺ poverty and bids
   you to the shameful deed ˹of stinginess˺, while Allah promises you forgiveness and
   ˹great˺ bounties from Him. And Allah is All-Bountiful, All-Knowing.
 word_by_word:
   1:
-    arabic: اَلشَّيۡطٰنُ
+    arabic: ٱلشَّيۡطَٰنُ
     translation: The Shaitaan
     transliteration: al-shayṭānu
   2:
@@ -15,27 +14,27 @@ word_by_word:
     translation: promises you
     transliteration: yaʿidukumu
   3:
-    arabic: الۡـفَقۡرَ
+    arabic: ٱلۡفَقۡرَ
     translation: '[the] poverty'
     transliteration: l-faqra
   4:
-    arabic: وَيَاۡمُرُكُمۡ
+    arabic: وَيَأۡمُرُكُم
     translation: and orders you
     transliteration: wayamurukum
   5:
-    arabic: بِالۡفَحۡشَآءِ​ ۚ
+    arabic: بِٱلۡفَحۡشَآءِۖ
     translation: to immorality
     transliteration: bil-faḥshāi
   6:
-    arabic: وَاللّٰهُ
+    arabic: وَٱللَّهُ
     translation: while Allah
     transliteration: wal-lahu
   7:
-    arabic: يَعِدُكُمۡ
+    arabic: يَعِدُكُم
     translation: promises you
     transliteration: yaʿidukum
   8:
-    arabic: مَّغۡفِرَةً
+    arabic: مَّغۡفِرَةٗ
     translation: forgiveness
     transliteration: maghfiratan
   9:
@@ -43,19 +42,19 @@ word_by_word:
     translation: from Him
     transliteration: min'hu
   10:
-    arabic: وَفَضۡلًا ؕ
+    arabic: وَفَضۡلٗاۗ
     translation: and bounty
     transliteration: wafaḍlan
   11:
-    arabic: وَاللّٰهُ
+    arabic: وَٱللَّهُ
     translation: And Allah
     transliteration: wal-lahu
   12:
-    arabic: وَاسِعٌ
+    arabic: وَٰسِعٌ
     translation: (is) All-Encompassing
     transliteration: wāsiʿun
   13:
-    arabic: عَلِيۡمٌۚ  ۙۖ‏
+    arabic: عَلِيمٞ
     translation: All-Knowing
     transliteration: ʿalīmun
 ---

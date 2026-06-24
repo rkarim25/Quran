@@ -1,8 +1,7 @@
 ---
-arabic_ayat: وَقَالَ يٰبَنِىَّ لَا تَدۡخُلُوۡا مِنۡۢ بَابٍ وَّاحِدٍ وَّادۡخُلُوۡا
-  مِنۡ اَبۡوَابٍ مُّتَفَرِّقَةٍ​ؕ وَمَاۤ اُغۡنِىۡ عَنۡكُمۡ مِّنَ اللّٰهِ مِنۡ شَىۡءٍؕ​
-  اِنِ الۡحُكۡمُ اِلَّا لِلّٰهِ​ؕ عَلَيۡهِ تَوَكَّلۡتُ​ۚ وَعَلَيۡهِ فَلۡيَتَوَكَّلِ
-  الۡمُتَوَكِّلُوۡنَ‏
+arabic_ayat: وَقَالَ يَٰبَنِيَّ لَا تَدۡخُلُواْ مِنۢ بَابٖ وَٰحِدٖ وَٱدۡخُلُواْ مِنۡ
+  أَبۡوَٰبٖ مُّتَفَرِّقَةٖۖ وَمَآ أُغۡنِي عَنكُم مِّنَ ٱللَّهِ مِن شَيۡءٍۖ إِنِ ٱلۡحُكۡمُ
+  إِلَّا لِلَّهِۖ عَلَيۡهِ تَوَكَّلۡتُۖ وَعَلَيۡهِ فَلۡيَتَوَكَّلِ ٱلۡمُتَوَكِّلُونَ
 sentence_translation: He then instructed ˹them˺, “O my sons! Do not enter ˹the city˺
   all through one gate, but through separate gates. I cannot help you against ˹what
   is destined by˺ Allah in the least. It is only Allah Who decides. In Him I put my
@@ -13,7 +12,7 @@ word_by_word:
     translation: And he said
     transliteration: waqāla
   2:
-    arabic: يٰبَنِىَّ
+    arabic: يَٰبَنِيَّ
     translation: O my sons
     transliteration: yābaniyya
   3:
@@ -21,23 +20,23 @@ word_by_word:
     translation: (Do) not
     transliteration: lā
   4:
-    arabic: تَدۡخُلُوۡا
+    arabic: تَدۡخُلُواْ
     translation: enter
     transliteration: tadkhulū
   5:
-    arabic: مِنۡۢ
+    arabic: مِنۢ
     translation: from
     transliteration: min
   6:
-    arabic: بَابٍ
+    arabic: بَابٖ
     translation: one gate
     transliteration: bābin
   7:
-    arabic: وَّاحِدٍ
+    arabic: وَٰحِدٖ
     translation: one gate
     transliteration: wāḥidin
   8:
-    arabic: وَّادۡخُلُوۡا
+    arabic: وَٱدۡخُلُواْ
     translation: but enter
     transliteration: wa-ud'khulū
   9:
@@ -45,23 +44,23 @@ word_by_word:
     translation: from
     transliteration: min
   10:
-    arabic: اَبۡوَابٍ
+    arabic: أَبۡوَٰبٖ
     translation: gates
     transliteration: abwābin
   11:
-    arabic: مُّتَفَرِّقَةٍ​ؕ
+    arabic: مُّتَفَرِّقَةٖۖ
     translation: different
     transliteration: mutafarriqatin
   12:
-    arabic: وَمَاۤ
+    arabic: وَمَآ
     translation: And not
     transliteration: wamā
   13:
-    arabic: اُغۡنِىۡ
+    arabic: أُغۡنِي
     translation: I can avail
     transliteration: ugh'nī
   14:
-    arabic: عَنۡكُمۡ
+    arabic: عَنكُم
     translation: you
     transliteration: ʿankum
   15:
@@ -69,31 +68,31 @@ word_by_word:
     translation: against
     transliteration: mina
   16:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   17:
-    arabic: مِنۡ
+    arabic: مِن
     translation: any
     transliteration: min
   18:
-    arabic: شَىۡءٍؕ​
+    arabic: شَيۡءٍۖ
     translation: thing
     transliteration: shayin
   19:
-    arabic: اِنِ
+    arabic: إِنِ
     translation: Not
     transliteration: ini
   20:
-    arabic: الۡحُكۡمُ
+    arabic: ٱلۡحُكۡمُ
     translation: (is) the decision
     transliteration: l-ḥuk'mu
   21:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   22:
-    arabic: لِلّٰهِ​ؕ
+    arabic: لِلَّهِۖ
     translation: with Allah
     transliteration: lillahi
   23:
@@ -101,7 +100,7 @@ word_by_word:
     translation: upon Him
     transliteration: ʿalayhi
   24:
-    arabic: تَوَكَّلۡتُ​ۚ
+    arabic: تَوَكَّلۡتُۖ
     translation: I put my trust
     transliteration: tawakkaltu
   25:
@@ -113,7 +112,7 @@ word_by_word:
     translation: let put (their) trust
     transliteration: falyatawakkali
   27:
-    arabic: الۡمُتَوَكِّلُوۡنَ‏
+    arabic: ٱلۡمُتَوَكِّلُونَ
     translation: the ones who put trust
     transliteration: l-mutawakilūna
 ---

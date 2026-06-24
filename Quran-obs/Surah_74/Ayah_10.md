@@ -1,5 +1,5 @@
 ---
-arabic_ayat: عَلَى الۡكٰفِرِيۡنَ غَيۡرُ يَسِيۡرٍ‏
+arabic_ayat: عَلَى ٱلۡكَٰفِرِينَ غَيۡرُ يَسِيرٖ
 sentence_translation: far from easy for the disbelievers.
 word_by_word:
   1:
@@ -7,7 +7,7 @@ word_by_word:
     translation: For
     transliteration: ʿalā
   2:
-    arabic: الۡكٰفِرِيۡنَ
+    arabic: ٱلۡكَٰفِرِينَ
     translation: 'the disbelievers '
     transliteration: l-kāfirīna
   3:
@@ -15,7 +15,7 @@ word_by_word:
     translation: not
     transliteration: ghayru
   4:
-    arabic: يَسِيۡرٍ‏
+    arabic: يَسِيرٖ
     translation: easy
     transliteration: yasīrin
 ---

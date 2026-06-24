@@ -1,6 +1,6 @@
 ---
-arabic_ayat: وَمِنَ النَّاسِ مَنۡ يُّعۡجِبُكَ قَوۡلُهٗ فِى الۡحَيٰوةِ الدُّنۡيَا وَيُشۡهِدُ
-  اللّٰهَ عَلٰى مَا فِىۡ قَلۡبِهٖۙ وَهُوَ اَلَدُّ الۡخِصَامِ‏
+arabic_ayat: وَمِنَ ٱلنَّاسِ مَن يُعۡجِبُكَ قَوۡلُهُۥ فِي ٱلۡحَيَوٰةِ ٱلدُّنۡيَا وَيُشۡهِدُ
+  ٱللَّهَ عَلَىٰ مَا فِي قَلۡبِهِۦ وَهُوَ أَلَدُّ ٱلۡخِصَامِ
 sentence_translation: There are some ˹hypocrites˺ who impress you with their views
   regarding worldly affairs and openly call upon Allah to witness what is in their
   hearts, yet they are your worst adversaries.
@@ -10,31 +10,31 @@ word_by_word:
     translation: And of
     transliteration: wamina
   2:
-    arabic: النَّاسِ
+    arabic: ٱلنَّاسِ
     translation: the people
     transliteration: l-nāsi
   3:
-    arabic: مَنۡ
+    arabic: مَن
     translation: (is the one) who
     transliteration: man
   4:
-    arabic: يُّعۡجِبُكَ
+    arabic: يُعۡجِبُكَ
     translation: pleases you
     transliteration: yuʿ'jibuka
   5:
-    arabic: قَوۡلُهٗ
+    arabic: قَوۡلُهُۥ
     translation: (with) his speech
     transliteration: qawluhu
   6:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   7:
-    arabic: الۡحَيٰوةِ
+    arabic: ٱلۡحَيَوٰةِ
     translation: the life
     transliteration: l-ḥayati
   8:
-    arabic: الدُّنۡيَا
+    arabic: ٱلدُّنۡيَا
     translation: (of) the world
     transliteration: l-dun'yā
   9:
@@ -42,11 +42,11 @@ word_by_word:
     translation: and he calls to witness
     transliteration: wayush'hidu
   10:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   11:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: 'on'
     transliteration: ʿalā
   12:
@@ -54,11 +54,11 @@ word_by_word:
     translation: what
     transliteration: mā
   13:
-    arabic: فِىۡ
+    arabic: فِي
     translation: (is) in
     transliteration: fī
   14:
-    arabic: قَلۡبِهٖۙ
+    arabic: قَلۡبِهِۦ
     translation: his heart
     transliteration: qalbihi
   15:
@@ -66,11 +66,11 @@ word_by_word:
     translation: and he
     transliteration: wahuwa
   16:
-    arabic: اَلَدُّ
+    arabic: أَلَدُّ
     translation: (is) the most quarrelsome
     transliteration: aladdu
   17:
-    arabic: الۡخِصَامِ‏
+    arabic: ٱلۡخِصَامِ
     translation: (of) opponents
     transliteration: l-khiṣāmi
 ---

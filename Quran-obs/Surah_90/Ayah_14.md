@@ -1,29 +1,29 @@
 ---
-arabic_ayat: اَوۡ اِطۡعٰمٌ فِىۡ يَوۡمٍ ذِىۡ مَسۡغَبَةٍ ۙ‏
+arabic_ayat: أَوۡ إِطۡعَٰمٞ فِي يَوۡمٖ ذِي مَسۡغَبَةٖ
 sentence_translation: or to give food in times of famine
 word_by_word:
   1:
-    arabic: اَوۡ
+    arabic: أَوۡ
     translation: Or
     transliteration: aw
   2:
-    arabic: اِطۡعٰمٌ
+    arabic: إِطۡعَٰمٞ
     translation: feeding
     transliteration: iṭ'ʿāmun
   3:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   4:
-    arabic: يَوۡمٍ
+    arabic: يَوۡمٖ
     translation: a day
     transliteration: yawmin
   5:
-    arabic: ذِىۡ
+    arabic: ذِي
     translation: of
     transliteration: dhī
   6:
-    arabic: مَسۡغَبَةٍ ۙ‏
+    arabic: مَسۡغَبَةٖ
     translation: severe hunger
     transliteration: masghabatin
 ---

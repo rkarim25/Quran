@@ -1,13 +1,13 @@
 ---
-arabic_ayat: اِنَّ فِرۡعَوۡنَ عَلَا فِى الۡاَرۡضِ وَجَعَلَ اَهۡلَهَا شِيَـعًا يَّسۡتَضۡعِفُ
-  طَآٮِٕفَةً مِّنۡهُمۡ يُذَبِّحُ اَبۡنَآءَهُمۡ وَيَسۡتَحۡىٖ نِسَآءَهُمۡ​ ؕ اِنَّهٗ
-  كَانَ مِنَ الۡمُفۡسِدِيۡنَ‏
+arabic_ayat: إِنَّ فِرۡعَوۡنَ عَلَا فِي ٱلۡأَرۡضِ وَجَعَلَ أَهۡلَهَا شِيَعٗا يَسۡتَضۡعِفُ
+  طَآئِفَةٗ مِّنۡهُمۡ يُذَبِّحُ أَبۡنَآءَهُمۡ وَيَسۡتَحۡيِۦ نِسَآءَهُمۡۚ إِنَّهُۥ
+  كَانَ مِنَ ٱلۡمُفۡسِدِينَ
 sentence_translation: Indeed, Pharaoh ˹arrogantly˺ elevated himself in the land and
   divided its people into ˹subservient˺ groups, one of which he persecuted, slaughtering
   their sons and keeping their women. He was truly one of the corruptors.
 word_by_word:
   1:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   2:
@@ -19,11 +19,11 @@ word_by_word:
     translation: exalted himself
     transliteration: ʿalā
   4:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   5:
-    arabic: الۡاَرۡضِ
+    arabic: ٱلۡأَرۡضِ
     translation: the land
     transliteration: l-arḍi
   6:
@@ -31,19 +31,19 @@ word_by_word:
     translation: and made
     transliteration: wajaʿala
   7:
-    arabic: اَهۡلَهَا
+    arabic: أَهۡلَهَا
     translation: its people
     transliteration: ahlahā
   8:
-    arabic: شِيَـعًا
+    arabic: شِيَعٗا
     translation: (into) sects
     transliteration: shiyaʿan
   9:
-    arabic: يَّسۡتَضۡعِفُ
+    arabic: يَسۡتَضۡعِفُ
     translation: oppressing
     transliteration: yastaḍʿifu
   10:
-    arabic: طَآٮِٕفَةً
+    arabic: طَآئِفَةٗ
     translation: a group
     transliteration: ṭāifatan
   11:
@@ -55,19 +55,19 @@ word_by_word:
     translation: slaughtering
     transliteration: yudhabbiḥu
   13:
-    arabic: اَبۡنَآءَهُمۡ
+    arabic: أَبۡنَآءَهُمۡ
     translation: their sons
     transliteration: abnāahum
   14:
-    arabic: وَيَسۡتَحۡىٖ
+    arabic: وَيَسۡتَحۡيِۦ
     translation: and letting live
     transliteration: wayastaḥyī
   15:
-    arabic: نِسَآءَهُمۡ​ ؕ
+    arabic: نِسَآءَهُمۡۚ
     translation: their women
     transliteration: nisāahum
   16:
-    arabic: اِنَّهٗ
+    arabic: إِنَّهُۥ
     translation: Indeed, he
     transliteration: innahu
   17:
@@ -79,7 +79,7 @@ word_by_word:
     translation: of
     transliteration: mina
   19:
-    arabic: الۡمُفۡسِدِيۡنَ‏
+    arabic: ٱلۡمُفۡسِدِينَ
     translation: the corrupters
     transliteration: l-muf'sidīna
 ---

@@ -1,11 +1,11 @@
 ---
-arabic_ayat: الَّذِىۡ جَعَلَ لَـكُمُ الۡاَرۡضَ مَهۡدًا وَّ جَعَلَ لَكُمۡ فِيۡهَا سُبُلًا
-  لَّعَلَّكُمۡ تَهۡتَدُوۡنَ​ۚ‏
+arabic_ayat: ٱلَّذِي جَعَلَ لَكُمُ ٱلۡأَرۡضَ مَهۡدٗا وَجَعَلَ لَكُمۡ فِيهَا سُبُلٗا
+  لَّعَلَّكُمۡ تَهۡتَدُونَ
 sentence_translation: ˹He is the One˺ Who has laid out the earth for you, and set
   in it pathways for you so that you may find your way.
 word_by_word:
   1:
-    arabic: الَّذِىۡ
+    arabic: ٱلَّذِي
     translation: The One Who
     transliteration: alladhī
   2:
@@ -13,19 +13,19 @@ word_by_word:
     translation: made
     transliteration: jaʿala
   3:
-    arabic: لَـكُمُ
+    arabic: لَكُمُ
     translation: for you
     transliteration: lakumu
   4:
-    arabic: الۡاَرۡضَ
+    arabic: ٱلۡأَرۡضَ
     translation: the earth
     transliteration: l-arḍa
   5:
-    arabic: مَهۡدًا
+    arabic: مَهۡدٗا
     translation: a bed
     transliteration: mahdan
   6:
-    arabic: وَّ جَعَلَ
+    arabic: وَجَعَلَ
     translation: and made
     transliteration: wajaʿala
   7:
@@ -33,11 +33,11 @@ word_by_word:
     translation: for you
     transliteration: lakum
   8:
-    arabic: فِيۡهَا
+    arabic: فِيهَا
     translation: therein
     transliteration: fīhā
   9:
-    arabic: سُبُلًا
+    arabic: سُبُلٗا
     translation: roads
     transliteration: subulan
   10:
@@ -45,7 +45,7 @@ word_by_word:
     translation: so that you may
     transliteration: laʿallakum
   11:
-    arabic: تَهۡتَدُوۡنَ​ۚ‏
+    arabic: تَهۡتَدُونَ
     translation: (be) guided
     transliteration: tahtadūna
 ---

@@ -1,7 +1,7 @@
 ---
-arabic_ayat: وَقَالَ الَّذِيۡنَ كَفَرُوۡا لِرُسُلِهِمۡ لَـنُخۡرِجَنَّكُمۡ مِّنۡ اَرۡضِنَاۤ
-  اَوۡ لَـتَعُوۡدُنَّ فِىۡ مِلَّتِنَا​ ؕ فَاَوۡحٰۤى اِلَيۡهِمۡ رَبُّهُمۡ لَــنُهۡلِكَنَّ
-  الظّٰلِمِيۡنَۙ‏
+arabic_ayat: وَقَالَ ٱلَّذِينَ كَفَرُواْ لِرُسُلِهِمۡ لَنُخۡرِجَنَّكُم مِّنۡ أَرۡضِنَآ
+  أَوۡ لَتَعُودُنَّ فِي مِلَّتِنَاۖ فَأَوۡحَىٰٓ إِلَيۡهِمۡ رَبُّهُمۡ لَنُهۡلِكَنَّ
+  ٱلظَّٰلِمِينَ
 sentence_translation: The disbelievers then threatened their messengers, “We will
   certainly expel you from our land, unless you return to our faith.” So their Lord
   revealed to them, “We will surely destroy the wrongdoers,
@@ -11,11 +11,11 @@ word_by_word:
     translation: And said
     transliteration: waqāla
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   3:
-    arabic: كَفَرُوۡا
+    arabic: كَفَرُواْ
     translation: disbelieved
     transliteration: kafarū
   4:
@@ -23,7 +23,7 @@ word_by_word:
     translation: to their Messengers
     transliteration: lirusulihim
   5:
-    arabic: لَـنُخۡرِجَنَّكُمۡ
+    arabic: لَنُخۡرِجَنَّكُم
     translation: Surely we will drive you out
     transliteration: lanukh'rijannakum
   6:
@@ -31,31 +31,31 @@ word_by_word:
     translation: of
     transliteration: min
   7:
-    arabic: اَرۡضِنَاۤ
+    arabic: أَرۡضِنَآ
     translation: our land
     transliteration: arḍinā
   8:
-    arabic: اَوۡ
+    arabic: أَوۡ
     translation: or
     transliteration: aw
   9:
-    arabic: لَـتَعُوۡدُنَّ
+    arabic: لَتَعُودُنَّ
     translation: surely you should return
     transliteration: lataʿūdunna
   10:
-    arabic: فِىۡ
+    arabic: فِي
     translation: to
     transliteration: fī
   11:
-    arabic: مِلَّتِنَا​ ؕ
+    arabic: مِلَّتِنَاۖ
     translation: our religion
     transliteration: millatinā
   12:
-    arabic: فَاَوۡحٰۤى
+    arabic: فَأَوۡحَىٰٓ
     translation: So inspired
     transliteration: fa-awḥā
   13:
-    arabic: اِلَيۡهِمۡ
+    arabic: إِلَيۡهِمۡ
     translation: to them
     transliteration: ilayhim
   14:
@@ -63,11 +63,11 @@ word_by_word:
     translation: their Lord
     transliteration: rabbuhum
   15:
-    arabic: لَــنُهۡلِكَنَّ
+    arabic: لَنُهۡلِكَنَّ
     translation: We will surely destroy
     transliteration: lanuh'likanna
   16:
-    arabic: الظّٰلِمِيۡنَۙ‏
+    arabic: ٱلظَّٰلِمِينَ
     translation: the wrongdoers
     transliteration: l-ẓālimīna
 ---

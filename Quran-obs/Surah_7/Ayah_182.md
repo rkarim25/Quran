@@ -1,23 +1,23 @@
 ---
-arabic_ayat: وَالَّذِيۡنَ كَذَّبُوۡا بِاٰيٰتِنَا سَنَسۡتَدۡرِجُهُمۡ مِّنۡ حَيۡثُ لَا
-  يَعۡلَمُوۡنَ ​ۖ ​ ۚ‏
+arabic_ayat: وَٱلَّذِينَ كَذَّبُواْ بِـَٔايَٰتِنَا سَنَسۡتَدۡرِجُهُم مِّنۡ حَيۡثُ
+  لَا يَعۡلَمُونَ
 sentence_translation: As for those who deny Our signs, We will gradually draw them
   to destruction in ways they cannot comprehend.
 word_by_word:
   1:
-    arabic: وَالَّذِيۡنَ
+    arabic: وَٱلَّذِينَ
     translation: But those who
     transliteration: wa-alladhīna
   2:
-    arabic: كَذَّبُوۡا
+    arabic: كَذَّبُواْ
     translation: denied
     transliteration: kadhabū
   3:
-    arabic: بِاٰيٰتِنَا
+    arabic: بِـَٔايَٰتِنَا
     translation: Our Signs
     transliteration: biāyātinā
   4:
-    arabic: سَنَسۡتَدۡرِجُهُمۡ
+    arabic: سَنَسۡتَدۡرِجُهُم
     translation: We will gradually lead them
     transliteration: sanastadrijuhum
   5:
@@ -33,7 +33,7 @@ word_by_word:
     translation: not
     transliteration: lā
   8:
-    arabic: يَعۡلَمُوۡنَ ​ۖ ​ ۚ‏
+    arabic: يَعۡلَمُونَ
     translation: they know
     transliteration: yaʿlamūna
 ---

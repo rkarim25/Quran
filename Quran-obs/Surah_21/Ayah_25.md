@@ -1,19 +1,19 @@
 ---
-arabic_ayat: وَمَاۤ اَرۡسَلۡنَا مِنۡ قَبۡلِكَ مِنۡ رَّسُوۡلٍ اِلَّا نُوۡحِىۡۤ اِلَيۡهِ
-  اَنَّهٗ لَاۤ اِلٰهَ اِلَّاۤ اَنَا فَاعۡبُدُوۡنِ‏
+arabic_ayat: وَمَآ أَرۡسَلۡنَا مِن قَبۡلِكَ مِن رَّسُولٍ إِلَّا نُوحِيٓ إِلَيۡهِ
+  أَنَّهُۥ لَآ إِلَٰهَ إِلَّآ أَنَا۠ فَٱعۡبُدُونِ
 sentence_translation: 'We never sent a messenger before you ˹O Prophet˺ without revealing
   to him: “There is no god ˹worthy of worship˺ except Me, so worship Me ˹alone˺.”'
 word_by_word:
   1:
-    arabic: وَمَاۤ
+    arabic: وَمَآ
     translation: And not
     transliteration: wamā
   2:
-    arabic: اَرۡسَلۡنَا
+    arabic: أَرۡسَلۡنَا
     translation: We sent
     transliteration: arsalnā
   3:
-    arabic: مِنۡ
+    arabic: مِن
     translation: before you
     transliteration: min
   4:
@@ -21,47 +21,47 @@ word_by_word:
     translation: before you
     transliteration: qablika
   5:
-    arabic: مِنۡ
+    arabic: مِن
     translation: any
     transliteration: min
   6:
-    arabic: رَّسُوۡلٍ
+    arabic: رَّسُولٍ
     translation: Messenger
     transliteration: rasūlin
   7:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: but
     transliteration: illā
   8:
-    arabic: نُوۡحِىۡۤ
+    arabic: نُوحِيٓ
     translation: We reveal(ed)
     transliteration: nūḥī
   9:
-    arabic: اِلَيۡهِ
+    arabic: إِلَيۡهِ
     translation: to him
     transliteration: ilayhi
   10:
-    arabic: اَنَّهٗ
+    arabic: أَنَّهُۥ
     translation: that [He]
     transliteration: annahu
   11:
-    arabic: لَاۤ
+    arabic: لَآ
     translation: (There is) no
     transliteration: lā
   12:
-    arabic: اِلٰهَ
+    arabic: إِلَٰهَ
     translation: god
     transliteration: ilāha
   13:
-    arabic: اِلَّاۤ
+    arabic: إِلَّآ
     translation: except
     transliteration: illā
   14:
-    arabic: اَنَا
+    arabic: أَنَا۠
     translation: Me
     transliteration: anā
   15:
-    arabic: فَاعۡبُدُوۡنِ‏
+    arabic: فَٱعۡبُدُونِ
     translation: so worship Me
     transliteration: fa-uʿ'budūni
 ---

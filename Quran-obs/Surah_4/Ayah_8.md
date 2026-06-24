@@ -1,12 +1,12 @@
 ---
-arabic_ayat: وَاِذَا حَضَرَ الۡقِسۡمَةَ اُولُوا الۡقُرۡبٰى وَالۡيَتٰمٰى وَالۡمَسٰكِيۡنُ
-  فَارۡزُقُوۡهُمۡ مِّنۡهُ وَقُوۡلُوۡا لَهُمۡ قَوۡلًا مَّعۡرُوۡفًا‏
+arabic_ayat: وَإِذَا حَضَرَ ٱلۡقِسۡمَةَ أُوْلُواْ ٱلۡقُرۡبَىٰ وَٱلۡيَتَٰمَىٰ وَٱلۡمَسَٰكِينُ
+  فَٱرۡزُقُوهُم مِّنۡهُ وَقُولُواْ لَهُمۡ قَوۡلٗا مَّعۡرُوفٗا
 sentence_translation: If ˹non-inheriting˺ relatives, orphans, or the needy are present
   at the time of distribution, offer them a ˹small˺ provision from it and speak to
   them kindly.
 word_by_word:
   1:
-    arabic: وَاِذَا
+    arabic: وَإِذَا
     translation: And when
     transliteration: wa-idhā
   2:
@@ -14,27 +14,27 @@ word_by_word:
     translation: present
     transliteration: ḥaḍara
   3:
-    arabic: الۡقِسۡمَةَ
+    arabic: ٱلۡقِسۡمَةَ
     translation: (at) the (time of) division
     transliteration: l-qis'mata
   4:
-    arabic: اُولُوا
+    arabic: أُوْلُواْ
     translation: (of)
     transliteration: ulū
   5:
-    arabic: الۡقُرۡبٰى
+    arabic: ٱلۡقُرۡبَىٰ
     translation: the relatives
     transliteration: l-qur'bā
   6:
-    arabic: وَالۡيَتٰمٰى
+    arabic: وَٱلۡيَتَٰمَىٰ
     translation: and the orphans
     transliteration: wal-yatāmā
   7:
-    arabic: وَالۡمَسٰكِيۡنُ
+    arabic: وَٱلۡمَسَٰكِينُ
     translation: and the poor
     transliteration: wal-masākīnu
   8:
-    arabic: فَارۡزُقُوۡهُمۡ
+    arabic: فَٱرۡزُقُوهُم
     translation: then provide them
     transliteration: fa-ur'zuqūhum
   9:
@@ -42,7 +42,7 @@ word_by_word:
     translation: from it
     transliteration: min'hu
   10:
-    arabic: وَقُوۡلُوۡا
+    arabic: وَقُولُواْ
     translation: and speak
     transliteration: waqūlū
   11:
@@ -50,11 +50,11 @@ word_by_word:
     translation: to them
     transliteration: lahum
   12:
-    arabic: قَوۡلًا
+    arabic: قَوۡلٗا
     translation: words
     transliteration: qawlan
   13:
-    arabic: مَّعۡرُوۡفًا‏
+    arabic: مَّعۡرُوفٗا
     translation: (of) kindness
     transliteration: maʿrūfan
 ---

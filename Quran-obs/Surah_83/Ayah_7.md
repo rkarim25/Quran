@@ -1,30 +1,30 @@
 ---
-arabic_ayat: كَلَّاۤ اِنَّ كِتٰبَ الۡفُجَّارِ لَفِىۡ سِجِّيۡنٍؕ‏
+arabic_ayat: كـَلَّآ إِنَّ كِتَٰبَ ٱلۡفُجَّارِ لَفِي سِجِّينٖ
 sentence_translation: But no! The wicked are certainly bound for Sijjîn ˹in the depths
   of Hell˺—
 word_by_word:
   1:
-    arabic: كَلَّاۤ
+    arabic: كـَلَّآ
     translation: Nay
     transliteration: kallā
   2:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   3:
-    arabic: كِتٰبَ
+    arabic: كِتَٰبَ
     translation: (the) record
     transliteration: kitāba
   4:
-    arabic: الۡفُجَّارِ
+    arabic: ٱلۡفُجَّارِ
     translation: (of) the wicked
     transliteration: l-fujāri
   5:
-    arabic: لَفِىۡ
+    arabic: لَفِي
     translation: (is) surely in
     transliteration: lafī
   6:
-    arabic: سِجِّيۡنٍؕ‏
+    arabic: سِجِّينٖ
     translation: Sijjin
     transliteration: sijjīnin
 ---

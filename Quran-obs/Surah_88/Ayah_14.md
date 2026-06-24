@@ -1,13 +1,13 @@
 ---
-arabic_ayat: وَّاَكۡوَابٌ مَّوۡضُوۡعَةٌ ۙ‏
+arabic_ayat: وَأَكۡوَابٞ مَّوۡضُوعَةٞ
 sentence_translation: and cups set at hand,
 word_by_word:
   1:
-    arabic: وَّاَكۡوَابٌ
+    arabic: وَأَكۡوَابٞ
     translation: And cups
     transliteration: wa-akwābun
   2:
-    arabic: مَّوۡضُوۡعَةٌ ۙ‏
+    arabic: مَّوۡضُوعَةٞ
     translation: put in place
     transliteration: mawḍūʿatun
 ---

@@ -1,6 +1,6 @@
 ---
-arabic_ayat: هُوَ الۡاَوَّلُ وَالۡاٰخِرُ وَالظَّاهِرُ وَالۡبَاطِنُ​ۚ وَهُوَ بِكُلِّ
-  شَىۡءٍ عَلِيۡمٌ‏
+arabic_ayat: هُوَ ٱلۡأَوَّلُ وَٱلۡأٓخِرُ وَٱلظَّٰهِرُ وَٱلۡبَاطِنُۖ وَهُوَ بِكُلِّ
+  شَيۡءٍ عَلِيمٌ
 sentence_translation: He is the First and the Last, the Most High and Most Near, and
   He has ˹perfect˺ knowledge of all things.
 word_by_word:
@@ -9,19 +9,19 @@ word_by_word:
     translation: He
     transliteration: huwa
   2:
-    arabic: الۡاَوَّلُ
+    arabic: ٱلۡأَوَّلُ
     translation: (is) the First
     transliteration: l-awalu
   3:
-    arabic: وَالۡاٰخِرُ
+    arabic: وَٱلۡأٓخِرُ
     translation: and the Last
     transliteration: wal-ākhiru
   4:
-    arabic: وَالظَّاهِرُ
+    arabic: وَٱلظَّٰهِرُ
     translation: and the Apparent
     transliteration: wal-ẓāhiru
   5:
-    arabic: وَالۡبَاطِنُ​ۚ
+    arabic: وَٱلۡبَاطِنُۖ
     translation: and the Unapparent
     transliteration: wal-bāṭinu
   6:
@@ -33,11 +33,11 @@ word_by_word:
     translation: (is) of every
     transliteration: bikulli
   8:
-    arabic: شَىۡءٍ
+    arabic: شَيۡءٍ
     translation: thing
     transliteration: shayin
   9:
-    arabic: عَلِيۡمٌ‏
+    arabic: عَلِيمٌ
     translation: All-Knower
     transliteration: ʿalīmun
 ---

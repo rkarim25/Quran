@@ -1,15 +1,15 @@
 ---
-arabic_ayat: وَاِنۡ يُّكَذِّبُوۡكَ فَقَدۡ كُذِّبَتۡ رُسُلٌ مِّنۡ قَبۡلِكَؕ وَاِلَى
-  اللّٰهِ تُرۡجَعُ الۡاُمُوۡرُ‏
+arabic_ayat: وَإِن يُكَذِّبُوكَ فَقَدۡ كُذِّبَتۡ رُسُلٞ مِّن قَبۡلِكَۚ وَإِلَى ٱللَّهِ
+  تُرۡجَعُ ٱلۡأُمُورُ
 sentence_translation: If you are rejected by them, so too were messengers before you.
   And to Allah ˹all˺ matters will be returned ˹for judgment˺.
 word_by_word:
   1:
-    arabic: وَاِنۡ
+    arabic: وَإِن
     translation: And if
     transliteration: wa-in
   2:
-    arabic: يُّكَذِّبُوۡكَ
+    arabic: يُكَذِّبُوكَ
     translation: they deny you
     transliteration: yukadhibūka
   3:
@@ -21,23 +21,23 @@ word_by_word:
     translation: were denied
     transliteration: kudhibat
   5:
-    arabic: رُسُلٌ
+    arabic: رُسُلٞ
     translation: Messengers
     transliteration: rusulun
   6:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: before you
     transliteration: min
   7:
-    arabic: قَبۡلِكَؕ
+    arabic: قَبۡلِكَۚ
     translation: before you
     transliteration: qablika
   8:
-    arabic: وَاِلَى
+    arabic: وَإِلَى
     translation: And to
     transliteration: wa-ilā
   9:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   10:
@@ -45,7 +45,7 @@ word_by_word:
     translation: return
     transliteration: tur'jaʿu
   11:
-    arabic: الۡاُمُوۡرُ‏
+    arabic: ٱلۡأُمُورُ
     translation: the matters
     transliteration: l-umūru
 ---

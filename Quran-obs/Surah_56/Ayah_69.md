@@ -1,15 +1,14 @@
 ---
-arabic_ayat: "ءَاَنۡـتُمۡ اَنۡزَلۡـتُمُوۡهُ مِنَ الۡمُزۡنِ اَمۡ نَحۡنُ الۡمُنۡزِلُوۡنَ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: ءَأَنتُمۡ أَنزَلۡتُمُوهُ مِنَ ٱلۡمُزۡنِ أَمۡ نَحۡنُ ٱلۡمُنزِلُونَ
 sentence_translation: Is it you who bring it down from the clouds, or is it We Who
   do so?
 word_by_word:
   1:
-    arabic: ءَاَنۡـتُمۡ
+    arabic: ءَأَنتُمۡ
     translation: Is it you
     transliteration: a-antum
   2:
-    arabic: اَنۡزَلۡـتُمُوۡهُ
+    arabic: أَنزَلۡتُمُوهُ
     translation: who send it down
     transliteration: anzaltumūhu
   3:
@@ -17,11 +16,11 @@ word_by_word:
     translation: from
     transliteration: mina
   4:
-    arabic: الۡمُزۡنِ
+    arabic: ٱلۡمُزۡنِ
     translation: the rain clouds
     transliteration: l-muz'ni
   5:
-    arabic: اَمۡ
+    arabic: أَمۡ
     translation: or
     transliteration: am
   6:
@@ -29,7 +28,7 @@ word_by_word:
     translation: We
     transliteration: naḥnu
   7:
-    arabic: "الۡمُنۡزِلُوۡنَ‏ \uFEFF\uFEFF"
+    arabic: ٱلۡمُنزِلُونَ
     translation: (are) the Ones to send
     transliteration: l-munzilūna
 ---

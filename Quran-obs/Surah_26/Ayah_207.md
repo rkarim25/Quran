@@ -1,17 +1,17 @@
 ---
-arabic_ayat: مَاۤ اَغۡنٰى عَنۡهُمۡ مَّا كَانُوۡا يُمَتَّعُوۡنَؕ‏
+arabic_ayat: مَآ أَغۡنَىٰ عَنۡهُم مَّا كَانُواْ يُمَتَّعُونَ
 sentence_translation: would that enjoyment be of any benefit to them ˹at all˺?
 word_by_word:
   1:
-    arabic: مَاۤ
+    arabic: مَآ
     translation: Not
     transliteration: mā
   2:
-    arabic: اَغۡنٰى
+    arabic: أَغۡنَىٰ
     translation: (will) avail
     transliteration: aghnā
   3:
-    arabic: عَنۡهُمۡ
+    arabic: عَنۡهُم
     translation: them
     transliteration: ʿanhum
   4:
@@ -19,11 +19,11 @@ word_by_word:
     translation: what
     transliteration: mā
   5:
-    arabic: كَانُوۡا
+    arabic: كَانُواْ
     translation: enjoyment they were given
     transliteration: kānū
   6:
-    arabic: يُمَتَّعُوۡنَؕ‏
+    arabic: يُمَتَّعُونَ
     translation: enjoyment they were given
     transliteration: yumattaʿūna
 ---

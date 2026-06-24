@@ -1,9 +1,8 @@
 ---
-arabic_ayat: وَاَمَّا الۡجِدَارُ فَكَانَ لِغُلٰمَيۡنِ يَتِيۡمَيۡنِ فِى الۡمَدِيۡنَةِ
-  وَكَانَ تَحۡتَهٗ كَنۡزٌ لَّهُمَا وَكَانَ اَبُوۡهُمَا صَالِحًـا ۚ فَاَرَادَ رَبُّكَ
-  اَنۡ يَّبۡلُغَاۤ اَشُدَّهُمَا وَيَسۡتَخۡرِجَا كَنۡزَهُمَا ۖ  رَحۡمَةً مِّنۡ رَّبِّكَ​​
-  ۚ وَمَا فَعَلۡتُهٗ عَنۡ اَمۡرِىۡ​ ؕ ذٰ لِكَ تَاۡوِيۡلُ مَا لَمۡ تَسۡطِعْ عَّلَيۡهِ
-  صَبۡرًا ؕ‏
+arabic_ayat: وَأَمَّا ٱلۡجِدَارُ فَكَانَ لِغُلَٰمَيۡنِ يَتِيمَيۡنِ فِي ٱلۡمَدِينَةِ
+  وَكَانَ تَحۡتَهُۥ كَنزٞ لَّهُمَا وَكَانَ أَبُوهُمَا صَٰلِحٗا فَأَرَادَ رَبُّكَ أَن
+  يَبۡلُغَآ أَشُدَّهُمَا وَيَسۡتَخۡرِجَا كَنزَهُمَا رَحۡمَةٗ مِّن رَّبِّكَۚ وَمَا
+  فَعَلۡتُهُۥ عَنۡ أَمۡرِيۚ ذَٰلِكَ تَأۡوِيلُ مَا لَمۡ تَسۡطِع عَّلَيۡهِ صَبۡرٗا
 sentence_translation: “And as for the wall, it belonged to two orphan boys in the
   city, and under the wall was a treasure that belonged to them, and their father
   had been a righteous man. So your Lord willed that these children should come of
@@ -11,11 +10,11 @@ sentence_translation: “And as for the wall, it belonged to two orphan boys in 
   on my own. This is the explanation of what you could not bear patiently.” 
 word_by_word:
   1:
-    arabic: وَاَمَّا
+    arabic: وَأَمَّا
     translation: And as for
     transliteration: wa-ammā
   2:
-    arabic: الۡجِدَارُ
+    arabic: ٱلۡجِدَارُ
     translation: the wall
     transliteration: l-jidāru
   3:
@@ -23,19 +22,19 @@ word_by_word:
     translation: it was
     transliteration: fakāna
   4:
-    arabic: لِغُلٰمَيۡنِ
+    arabic: لِغُلَٰمَيۡنِ
     translation: for two orphan boys
     transliteration: lighulāmayni
   5:
-    arabic: يَتِيۡمَيۡنِ
+    arabic: يَتِيمَيۡنِ
     translation: for two orphan boys
     transliteration: yatīmayni
   6:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   7:
-    arabic: الۡمَدِيۡنَةِ
+    arabic: ٱلۡمَدِينَةِ
     translation: the town
     transliteration: l-madīnati
   8:
@@ -43,11 +42,11 @@ word_by_word:
     translation: and was
     transliteration: wakāna
   9:
-    arabic: تَحۡتَهٗ
+    arabic: تَحۡتَهُۥ
     translation: underneath it
     transliteration: taḥtahu
   10:
-    arabic: كَنۡزٌ
+    arabic: كَنزٞ
     translation: a treasure
     transliteration: kanzun
   11:
@@ -59,15 +58,15 @@ word_by_word:
     translation: and was
     transliteration: wakāna
   13:
-    arabic: اَبُوۡهُمَا
+    arabic: أَبُوهُمَا
     translation: their father
     transliteration: abūhumā
   14:
-    arabic: صَالِحًـا ۚ
+    arabic: صَٰلِحٗا
     translation: righteous
     transliteration: ṣāliḥan
   15:
-    arabic: فَاَرَادَ
+    arabic: فَأَرَادَ
     translation: So intended
     transliteration: fa-arāda
   16:
@@ -75,15 +74,15 @@ word_by_word:
     translation: your Lord
     transliteration: rabbuka
   17:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that
     transliteration: an
   18:
-    arabic: يَّبۡلُغَاۤ
+    arabic: يَبۡلُغَآ
     translation: they reach
     transliteration: yablughā
   19:
-    arabic: اَشُدَّهُمَا
+    arabic: أَشُدَّهُمَا
     translation: their maturity
     transliteration: ashuddahumā
   20:
@@ -91,19 +90,19 @@ word_by_word:
     translation: and bring forth
     transliteration: wayastakhrijā
   21:
-    arabic: كَنۡزَهُمَا ۖ 
+    arabic: كَنزَهُمَا
     translation: their treasure
     transliteration: kanzahumā
   22:
-    arabic: رَحۡمَةً
+    arabic: رَحۡمَةٗ
     translation: (as) a mercy
     transliteration: raḥmatan
   23:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: from
     transliteration: min
   24:
-    arabic: رَّبِّكَ​​ ۚ
+    arabic: رَّبِّكَۚ
     translation: your Lord
     transliteration: rabbika
   25:
@@ -111,7 +110,7 @@ word_by_word:
     translation: And not
     transliteration: wamā
   26:
-    arabic: فَعَلۡتُهٗ
+    arabic: فَعَلۡتُهُۥ
     translation: I did it
     transliteration: faʿaltuhu
   27:
@@ -119,15 +118,15 @@ word_by_word:
     translation: 'on'
     transliteration: ʿan
   28:
-    arabic: اَمۡرِىۡ​ ؕ
+    arabic: أَمۡرِيۚ
     translation: my (own) accord
     transliteration: amrī
   29:
-    arabic: ذٰ لِكَ
+    arabic: ذَٰلِكَ
     translation: That
     transliteration: dhālika
   30:
-    arabic: تَاۡوِيۡلُ
+    arabic: تَأۡوِيلُ
     translation: (is the) interpretation
     transliteration: tawīlu
   31:
@@ -139,7 +138,7 @@ word_by_word:
     translation: not
     transliteration: lam
   33:
-    arabic: تَسۡطِعْ
+    arabic: تَسۡطِع
     translation: you were able
     transliteration: tasṭiʿ
   34:
@@ -147,7 +146,7 @@ word_by_word:
     translation: on it
     transliteration: ʿalayhi
   35:
-    arabic: صَبۡرًا ؕ‏
+    arabic: صَبۡرٗا
     translation: (to have) patience
     transliteration: ṣabran
 ---

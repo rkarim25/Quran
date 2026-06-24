@@ -1,35 +1,35 @@
 ---
-arabic_ayat: اِنَّمَا يَسۡتَجِيۡبُ الَّذِيۡنَ يَسۡمَعُوۡنَ​ ؕ وَالۡمَوۡتٰى يَـبۡعَثُهُمُ
-  اللّٰهُ ثُمَّ اِلَيۡهِ يُرۡجَعُوۡنَ‏
+arabic_ayat: ۞ إِنَّمَا يَسۡتَجِيبُ ٱلَّذِينَ يَسۡمَعُونَۘ وَٱلۡمَوۡتَىٰ يَبۡعَثُهُمُ
+  ٱللَّهُ ثُمَّ إِلَيۡهِ يُرۡجَعُونَ
 sentence_translation: Only the attentive will respond ˹to your call˺. As for the dead,
   Allah will raise them up, then to Him they will ˹all˺ be returned.
 word_by_word:
   1:
-    arabic: ۞ اِنَّمَا
+    arabic: ۞ إِنَّمَا
     translation: Only
     transliteration: innamā
   2:
-    arabic: يَسۡتَجِيۡبُ
+    arabic: يَسۡتَجِيبُ
     translation: respond
     transliteration: yastajību
   3:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   4:
-    arabic: يَسۡمَعُوۡنَ​ ؕ
+    arabic: يَسۡمَعُونَۘ
     translation: listen
     transliteration: yasmaʿūna
   5:
-    arabic: وَالۡمَوۡتٰى
+    arabic: وَٱلۡمَوۡتَىٰ
     translation: 'But the dead '
     transliteration: wal-mawtā
   6:
-    arabic: يَـبۡعَثُهُمُ
+    arabic: يَبۡعَثُهُمُ
     translation: will resurrect them
     transliteration: yabʿathuhumu
   7:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   8:
@@ -37,11 +37,11 @@ word_by_word:
     translation: then
     transliteration: thumma
   9:
-    arabic: اِلَيۡهِ
+    arabic: إِلَيۡهِ
     translation: to Him
     transliteration: ilayhi
   10:
-    arabic: يُرۡجَعُوۡنَ‏
+    arabic: يُرۡجَعُونَ
     translation: they will be returned
     transliteration: yur'jaʿūna
 ---

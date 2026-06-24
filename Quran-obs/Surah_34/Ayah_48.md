@@ -1,5 +1,5 @@
 ---
-arabic_ayat: قُلۡ اِنَّ رَبِّىۡ يَقۡذِفُ بِالۡحَـقِّ​ۚ عَلَّامُ الۡغُيُوۡبِ‏
+arabic_ayat: قُلۡ إِنَّ رَبِّي يَقۡذِفُ بِٱلۡحَقِّ عَلَّٰمُ ٱلۡغُيُوبِ
 sentence_translation: Say, “Surely my Lord hurls the truth ˹against falsehood˺. ˹He
   is˺ the Knower of all unseen.”
 word_by_word:
@@ -8,11 +8,11 @@ word_by_word:
     translation: Say
     transliteration: qul
   2:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   3:
-    arabic: رَبِّىۡ
+    arabic: رَبِّي
     translation: my Lord
     transliteration: rabbī
   4:
@@ -20,15 +20,15 @@ word_by_word:
     translation: projects
     transliteration: yaqdhifu
   5:
-    arabic: بِالۡحَـقِّ​ۚ
+    arabic: بِٱلۡحَقِّ
     translation: the truth
     transliteration: bil-ḥaqi
   6:
-    arabic: عَلَّامُ
+    arabic: عَلَّٰمُ
     translation: (the) All-Knower
     transliteration: ʿallāmu
   7:
-    arabic: الۡغُيُوۡبِ‏
+    arabic: ٱلۡغُيُوبِ
     translation: (of) the unseen
     transliteration: l-ghuyūbi
 ---

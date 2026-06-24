@@ -1,31 +1,31 @@
 ---
-arabic_ayat: يَدۡعُوۡا لَمَنۡ ضَرُّهٗۤ اَقۡرَبُ مِنۡ نَّـفۡعِهٖ​ؕ لَبِئۡسَ الۡمَوۡلٰى
-  وَلَبِئۡسَ الۡعَشِيۡرُ‏
+arabic_ayat: يَدۡعُواْ لَمَن ضَرُّهُۥٓ أَقۡرَبُ مِن نَّفۡعِهِۦۚ لَبِئۡسَ ٱلۡمَوۡلَىٰ
+  وَلَبِئۡسَ ٱلۡعَشِيرُ
 sentence_translation: They invoke those whose worship leads to harm, not benefit.
   What an evil patron and what an evil associate!
 word_by_word:
   1:
-    arabic: يَدۡعُوۡا
+    arabic: يَدۡعُواْ
     translation: He calls
     transliteration: yadʿū
   2:
-    arabic: لَمَنۡ
+    arabic: لَمَن
     translation: '(one) who '
     transliteration: laman
   3:
-    arabic: ضَرُّهٗۤ
+    arabic: ضَرُّهُۥٓ
     translation: his harm
     transliteration: ḍarruhu
   4:
-    arabic: اَقۡرَبُ
+    arabic: أَقۡرَبُ
     translation: (is) closer
     transliteration: aqrabu
   5:
-    arabic: مِنۡ
+    arabic: مِن
     translation: than
     transliteration: min
   6:
-    arabic: نَّـفۡعِهٖ​ؕ
+    arabic: نَّفۡعِهِۦۚ
     translation: his benefit
     transliteration: nafʿihi
   7:
@@ -33,7 +33,7 @@ word_by_word:
     translation: Surely, an evil
     transliteration: labi'sa
   8:
-    arabic: الۡمَوۡلٰى
+    arabic: ٱلۡمَوۡلَىٰ
     translation: protector
     transliteration: l-mawlā
   9:
@@ -41,7 +41,7 @@ word_by_word:
     translation: and surely an evil
     transliteration: walabi'sa
   10:
-    arabic: الۡعَشِيۡرُ‏
+    arabic: ٱلۡعَشِيرُ
     translation: friend
     transliteration: l-ʿashīru
 ---

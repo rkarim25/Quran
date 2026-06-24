@@ -1,10 +1,10 @@
 ---
-arabic_ayat: اِنَّ يَوۡمَ الۡفَصۡلِ مِيۡقَاتُهُمۡ اَجۡمَعِيۡنَۙ‏
+arabic_ayat: إِنَّ يَوۡمَ ٱلۡفَصۡلِ مِيقَٰتُهُمۡ أَجۡمَعِينَ
 sentence_translation: Surely the Day of ˹Final˺ Decision is the time appointed for
   all—
 word_by_word:
   1:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   2:
@@ -12,15 +12,15 @@ word_by_word:
     translation: (the) Day of Judgment
     transliteration: yawma
   3:
-    arabic: الۡفَصۡلِ
+    arabic: ٱلۡفَصۡلِ
     translation: (the) Day of Judgment
     transliteration: l-faṣli
   4:
-    arabic: مِيۡقَاتُهُمۡ
+    arabic: مِيقَٰتُهُمۡ
     translation: (is) an appointed term for them
     transliteration: mīqātuhum
   5:
-    arabic: اَجۡمَعِيۡنَۙ‏
+    arabic: أَجۡمَعِينَ
     translation: all
     transliteration: ajmaʿīna
 ---

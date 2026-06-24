@@ -1,11 +1,11 @@
 ---
-arabic_ayat: اَوۡ تُسۡقِطَ السَّمَآءَ كَمَا زَعَمۡتَ عَلَيۡنَا كِسَفًا اَوۡ تَاۡتِىَ
-  بِاللّٰهِ وَالۡمَلٰۤٮِٕكَةِ قَبِيۡلًا ۙ‏
+arabic_ayat: أَوۡ تُسۡقِطَ ٱلسَّمَآءَ كَمَا زَعَمۡتَ عَلَيۡنَا كِسَفًا أَوۡ تَأۡتِيَ
+  بِٱللَّهِ وَٱلۡمَلَٰٓئِكَةِ قَبِيلًا
 sentence_translation: or cause the sky to fall upon us in pieces, as you have claimed,
   or bring Allah and the angels before us, face to face,
 word_by_word:
   1:
-    arabic: اَوۡ
+    arabic: أَوۡ
     translation: Or
     transliteration: aw
   2:
@@ -13,7 +13,7 @@ word_by_word:
     translation: you cause to fall
     transliteration: tus'qiṭa
   3:
-    arabic: السَّمَآءَ
+    arabic: ٱلسَّمَآءَ
     translation: the sky
     transliteration: l-samāa
   4:
@@ -33,23 +33,23 @@ word_by_word:
     translation: (in) pieces
     transliteration: kisafan
   8:
-    arabic: اَوۡ
+    arabic: أَوۡ
     translation: or
     transliteration: aw
   9:
-    arabic: تَاۡتِىَ
+    arabic: تَأۡتِيَ
     translation: you bring
     transliteration: tatiya
   10:
-    arabic: بِاللّٰهِ
+    arabic: بِٱللَّهِ
     translation: Allah
     transliteration: bil-lahi
   11:
-    arabic: وَالۡمَلٰۤٮِٕكَةِ
+    arabic: وَٱلۡمَلَٰٓئِكَةِ
     translation: and the Angels
     transliteration: wal-malāikati
   12:
-    arabic: قَبِيۡلًا ۙ‏
+    arabic: قَبِيلًا
     translation: before (us)
     transliteration: qabīlan
 ---

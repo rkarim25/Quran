@@ -1,39 +1,39 @@
 ---
-arabic_ayat: وَاَوۡحَيۡنَاۤ اِلٰى مُوۡسٰٓى اَنۡ اَلۡقِ عَصَاكَ​ ۚ فَاِذَا هِىَ تَلۡقَفُ
-  مَا يَاۡفِكُوۡنَ ​ۚ‏
+arabic_ayat: ۞ وَأَوۡحَيۡنَآ إِلَىٰ مُوسَىٰٓ أَنۡ أَلۡقِ عَصَاكَۖ فَإِذَا هِيَ تَلۡقَفُ
+  مَا يَأۡفِكُونَ
 sentence_translation: Then We inspired Moses, “Throw down your staff,” and—behold!—it
   devoured the objects of their illusion!
 word_by_word:
   1:
-    arabic: ۞ وَاَوۡحَيۡنَاۤ
+    arabic: ۞ وَأَوۡحَيۡنَآ
     translation: And We inspired
     transliteration: wa-awḥaynā
   2:
-    arabic: اِلٰى
+    arabic: إِلَىٰ
     translation: to
     transliteration: ilā
   3:
-    arabic: مُوۡسٰٓى
+    arabic: مُوسَىٰٓ
     translation: Musa
     transliteration: mūsā
   4:
-    arabic: اَنۡ
+    arabic: أَنۡ
     translation: that
     transliteration: an
   5:
-    arabic: اَلۡقِ
+    arabic: أَلۡقِ
     translation: Throw
     transliteration: alqi
   6:
-    arabic: عَصَاكَ​ ۚ
+    arabic: عَصَاكَۖ
     translation: your staff
     transliteration: ʿaṣāka
   7:
-    arabic: فَاِذَا
+    arabic: فَإِذَا
     translation: and suddenly
     transliteration: fa-idhā
   8:
-    arabic: هِىَ
+    arabic: هِيَ
     translation: it
     transliteration: hiya
   9:
@@ -45,7 +45,7 @@ word_by_word:
     translation: what
     transliteration: mā
   11:
-    arabic: يَاۡفِكُوۡنَ ​ۚ‏
+    arabic: يَأۡفِكُونَ
     translation: they (were) falsifying
     transliteration: yafikūna
 ---

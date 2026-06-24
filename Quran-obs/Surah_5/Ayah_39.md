@@ -1,12 +1,12 @@
 ---
-arabic_ayat: فَمَنۡ تَابَ مِنۡۢ بَعۡدِ ظُلۡمِهٖ وَاَصۡلَحَ فَاِنَّ اللّٰهَ يَتُوۡبُ
-  عَلَيۡهِؕ اِنَّ اللّٰهَ غَفُوۡرٌ رَّحِيۡمٌ‏
+arabic_ayat: فَمَن تَابَ مِنۢ بَعۡدِ ظُلۡمِهِۦ وَأَصۡلَحَ فَإِنَّ ٱللَّهَ يَتُوبُ
+  عَلَيۡهِۚ إِنَّ ٱللَّهَ غَفُورٞ رَّحِيمٌ
 sentence_translation: But whoever repents after their wrongdoing and mends their ways,
   Allah will surely turn to them in forgiveness. Indeed, Allah is All-Forgiving, Most
   Merciful.
 word_by_word:
   1:
-    arabic: فَمَنۡ
+    arabic: فَمَن
     translation: But whoever
     transliteration: faman
   2:
@@ -14,7 +14,7 @@ word_by_word:
     translation: repented
     transliteration: tāba
   3:
-    arabic: مِنۡۢ
+    arabic: مِنۢ
     translation: from
     transliteration: min
   4:
@@ -22,43 +22,43 @@ word_by_word:
     translation: after
     transliteration: baʿdi
   5:
-    arabic: ظُلۡمِهٖ
+    arabic: ظُلۡمِهِۦ
     translation: his wrongdoing
     transliteration: ẓul'mihi
   6:
-    arabic: وَاَصۡلَحَ
+    arabic: وَأَصۡلَحَ
     translation: and reforms
     transliteration: wa-aṣlaḥa
   7:
-    arabic: فَاِنَّ
+    arabic: فَإِنَّ
     translation: then indeed
     transliteration: fa-inna
   8:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   9:
-    arabic: يَتُوۡبُ
+    arabic: يَتُوبُ
     translation: will turn in forgiveness
     transliteration: yatūbu
   10:
-    arabic: عَلَيۡهِؕ
+    arabic: عَلَيۡهِۚ
     translation: to him
     transliteration: ʿalayhi
   11:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   12:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   13:
-    arabic: غَفُوۡرٌ
+    arabic: غَفُورٞ
     translation: (is) Oft-Forgiving
     transliteration: ghafūrun
   14:
-    arabic: رَّحِيۡمٌ‏
+    arabic: رَّحِيمٌ
     translation: Most Merciful
     transliteration: raḥīmun
 ---

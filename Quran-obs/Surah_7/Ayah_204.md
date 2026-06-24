@@ -1,11 +1,11 @@
 ---
-arabic_ayat: "وَاِذَا قُرِئَ الۡقُرۡاٰنُ فَاسۡتَمِعُوۡا لَهٗ وَاَنۡصِتُوۡا لَعَلَّكُمۡ\
-  \ تُرۡحَمُوۡنَ‏ \uFEFF\uFEFF"
+arabic_ayat: وَإِذَا قُرِئَ ٱلۡقُرۡءَانُ فَٱسۡتَمِعُواْ لَهُۥ وَأَنصِتُواْ لَعَلَّكُمۡ
+  تُرۡحَمُونَ
 sentence_translation: When the Quran is recited, listen to it attentively and be silent,
   so you may be shown mercy.
 word_by_word:
   1:
-    arabic: وَاِذَا
+    arabic: وَإِذَا
     translation: And when
     transliteration: wa-idhā
   2:
@@ -13,19 +13,19 @@ word_by_word:
     translation: is recited
     transliteration: quri-a
   3:
-    arabic: الۡقُرۡاٰنُ
+    arabic: ٱلۡقُرۡءَانُ
     translation: the Quran
     transliteration: l-qur'ānu
   4:
-    arabic: فَاسۡتَمِعُوۡا
+    arabic: فَٱسۡتَمِعُواْ
     translation: then listen
     transliteration: fa-is'tamiʿū
   5:
-    arabic: لَهٗ
+    arabic: لَهُۥ
     translation: to it
     transliteration: lahu
   6:
-    arabic: وَاَنۡصِتُوۡا
+    arabic: وَأَنصِتُواْ
     translation: and pay attention
     transliteration: wa-anṣitū
   7:
@@ -33,7 +33,7 @@ word_by_word:
     translation: so that you may
     transliteration: laʿallakum
   8:
-    arabic: "تُرۡحَمُوۡنَ‏ \uFEFF\uFEFF"
+    arabic: تُرۡحَمُونَ
     translation: receive mercy
     transliteration: tur'ḥamūna
 ---

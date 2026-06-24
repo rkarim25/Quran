@@ -1,6 +1,6 @@
 ---
-arabic_ayat: قَالَ لَهٗ صَاحِبُهٗ وَهُوَ يُحَاوِرُهٗۤ اَكَفَرۡتَ بِالَّذِىۡ خَلَقَكَ
-  مِنۡ تُرَابٍ ثُمَّ مِنۡ نُّـطۡفَةٍ ثُمَّ سَوّٰٮكَ رَجُلًاؕ‏
+arabic_ayat: قَالَ لَهُۥ صَاحِبُهُۥ وَهُوَ يُحَاوِرُهُۥٓ أَكَفَرۡتَ بِٱلَّذِي خَلَقَكَ
+  مِن تُرَابٖ ثُمَّ مِن نُّطۡفَةٖ ثُمَّ سَوَّىٰكَ رَجُلٗا
 sentence_translation: His ˹believing˺ companion replied, while conversing with him,
   “Do you disbelieve in the One Who created you from dust, then ˹developed you˺ from
   a sperm-drop, then formed you into a man?
@@ -10,11 +10,11 @@ word_by_word:
     translation: Said
     transliteration: qāla
   2:
-    arabic: لَهٗ
+    arabic: لَهُۥ
     translation: to him
     transliteration: lahu
   3:
-    arabic: صَاحِبُهٗ
+    arabic: صَاحِبُهُۥ
     translation: his companion
     transliteration: ṣāḥibuhu
   4:
@@ -22,15 +22,15 @@ word_by_word:
     translation: while he
     transliteration: wahuwa
   5:
-    arabic: يُحَاوِرُهٗۤ
+    arabic: يُحَاوِرُهُۥٓ
     translation: was talking to him
     transliteration: yuḥāwiruhu
   6:
-    arabic: اَكَفَرۡتَ
+    arabic: أَكَفَرۡتَ
     translation: Do you disbelieve
     transliteration: akafarta
   7:
-    arabic: بِالَّذِىۡ
+    arabic: بِٱلَّذِي
     translation: in One Who
     transliteration: bi-alladhī
   8:
@@ -38,11 +38,11 @@ word_by_word:
     translation: created you
     transliteration: khalaqaka
   9:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   10:
-    arabic: تُرَابٍ
+    arabic: تُرَابٖ
     translation: dust
     transliteration: turābin
   11:
@@ -50,11 +50,11 @@ word_by_word:
     translation: then
     transliteration: thumma
   12:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   13:
-    arabic: نُّـطۡفَةٍ
+    arabic: نُّطۡفَةٖ
     translation: a minute quantity of semen
     transliteration: nuṭ'fatin
   14:
@@ -62,11 +62,11 @@ word_by_word:
     translation: then
     transliteration: thumma
   15:
-    arabic: سَوّٰٮكَ
+    arabic: سَوَّىٰكَ
     translation: fashioned you
     transliteration: sawwāka
   16:
-    arabic: رَجُلًاؕ‏
+    arabic: رَجُلٗا
     translation: (into) a man
     transliteration: rajulan
 ---

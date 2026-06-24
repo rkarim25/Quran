@@ -1,13 +1,13 @@
 ---
-arabic_ayat: وَلَـقَدۡ مَنَـنَّا عَلَيۡكَ مَرَّةً اُخۡرٰٓىۙ‏
+arabic_ayat: وَلَقَدۡ مَنَنَّا عَلَيۡكَ مَرَّةً أُخۡرَىٰٓ
 sentence_translation: And surely We had shown You favour before,
 word_by_word:
   1:
-    arabic: وَلَـقَدۡ
+    arabic: وَلَقَدۡ
     translation: And indeed
     transliteration: walaqad
   2:
-    arabic: مَنَـنَّا
+    arabic: مَنَنَّا
     translation: We conferred a favor
     transliteration: manannā
   3:
@@ -19,7 +19,7 @@ word_by_word:
     translation: another time
     transliteration: marratan
   5:
-    arabic: اُخۡرٰٓىۙ‏
+    arabic: أُخۡرَىٰٓ
     translation: another time
     transliteration: ukh'rā
 ---

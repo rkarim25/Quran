@@ -1,47 +1,47 @@
 ---
-arabic_ayat: وَّقَدۡ كَفَرُوۡا بِهٖ مِنۡ قَبۡلُۚ وَيَقۡذِفُوۡنَ بِالۡغَيۡبِ مِنۡ مَّكَانٍۢ
-  بَعِيۡدٍ​‏
+arabic_ayat: وَقَدۡ كَفَرُواْ بِهِۦ مِن قَبۡلُۖ وَيَقۡذِفُونَ بِٱلۡغَيۡبِ مِن مَّكَانِۭ
+  بَعِيدٖ
 sentence_translation: while they had already rejected it before, guessing blindly
   from a place ˹equally˺ far-away ˹from the Hereafter˺?
 word_by_word:
   1:
-    arabic: وَّقَدۡ
+    arabic: وَقَدۡ
     translation: And certainly
     transliteration: waqad
   2:
-    arabic: كَفَرُوۡا
+    arabic: كَفَرُواْ
     translation: they disbelieved
     transliteration: kafarū
   3:
-    arabic: بِهٖ
+    arabic: بِهِۦ
     translation: in it
     transliteration: bihi
   4:
-    arabic: مِنۡ
+    arabic: مِن
     translation: before
     transliteration: min
   5:
-    arabic: قَبۡلُۚ
+    arabic: قَبۡلُۖ
     translation: before
     transliteration: qablu
   6:
-    arabic: وَيَقۡذِفُوۡنَ
+    arabic: وَيَقۡذِفُونَ
     translation: And they utter conjectures
     transliteration: wayaqdhifūna
   7:
-    arabic: بِالۡغَيۡبِ
+    arabic: بِٱلۡغَيۡبِ
     translation: about the unseen
     transliteration: bil-ghaybi
   8:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   9:
-    arabic: مَّكَانٍۢ
+    arabic: مَّكَانِۭ
     translation: a place
     transliteration: makānin
   10:
-    arabic: بَعِيۡدٍ​‏
+    arabic: بَعِيدٖ
     translation: far off
     transliteration: baʿīdin
 ---

@@ -1,35 +1,35 @@
 ---
-arabic_ayat: "وَالَّذِيۡنَ اٰمَنُوۡا وَعَمِلُوا الصّٰلِحٰتِ لَـنُدۡخِلَـنَّهُمۡ فِى\
-  \ الصّٰلِحِيۡنَ‏ \uFEFF\uFEFF"
+arabic_ayat: وَٱلَّذِينَ ءَامَنُواْ وَعَمِلُواْ ٱلصَّٰلِحَٰتِ لَنُدۡخِلَنَّهُمۡ فِي
+  ٱلصَّٰلِحِينَ
 sentence_translation: Those who believe and do good will surely be admitted by Us
   into ˹the company of˺ the righteous.
 word_by_word:
   1:
-    arabic: وَالَّذِيۡنَ
+    arabic: وَٱلَّذِينَ ءَ
     translation: And those who
     transliteration: wa-alladhīna
   2:
-    arabic: اٰمَنُوۡا
+    arabic: امَنُواْ
     translation: believe
     transliteration: āmanū
   3:
-    arabic: وَعَمِلُوا
+    arabic: وَعَمِلُواْ
     translation: and do
     transliteration: waʿamilū
   4:
-    arabic: الصّٰلِحٰتِ
+    arabic: ٱلصَّٰلِحَٰتِ
     translation: righteous deeds
     transliteration: l-ṣāliḥāti
   5:
-    arabic: لَـنُدۡخِلَـنَّهُمۡ
+    arabic: لَنُدۡخِلَنَّهُمۡ
     translation: We will surely admit them
     transliteration: lanud'khilannahum
   6:
-    arabic: فِى
+    arabic: فِي
     translation: among
     transliteration: fī
   7:
-    arabic: "الصّٰلِحِيۡنَ‏ \uFEFF\uFEFF"
+    arabic: ٱلصَّٰلِحِينَ
     translation: the righteous
     transliteration: l-ṣāliḥīna
 ---

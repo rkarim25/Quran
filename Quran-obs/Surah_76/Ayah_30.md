@@ -1,6 +1,6 @@
 ---
-arabic_ayat: وَمَا تَشَآءُوۡنَ اِلَّاۤ اَنۡ يَّشَآءَ اللّٰهُ ​ؕ اِنَّ اللّٰهَ كَانَ
-  عَلِيۡمًا حَكِيۡمًا  ۖ‏
+arabic_ayat: وَمَا تَشَآءُونَ إِلَّآ أَن يَشَآءَ ٱللَّهُۚ إِنَّ ٱللَّهَ كَانَ عَلِيمًا
+  حَكِيمٗا
 sentence_translation: But you cannot will ˹to do so˺ unless Allah wills. Indeed, Allah
   is All-Knowing, All-Wise.
 word_by_word:
@@ -9,31 +9,31 @@ word_by_word:
     translation: And not
     transliteration: wamā
   2:
-    arabic: تَشَآءُوۡنَ
+    arabic: تَشَآءُونَ
     translation: you will
     transliteration: tashāūna
   3:
-    arabic: اِلَّاۤ
+    arabic: إِلَّآ
     translation: except
     transliteration: illā
   4:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that
     transliteration: an
   5:
-    arabic: يَّشَآءَ
+    arabic: يَشَآءَ
     translation: wills
     transliteration: yashāa
   6:
-    arabic: اللّٰهُ ​ؕ
+    arabic: ٱللَّهُۚ
     translation: Allah
     transliteration: l-lahu
   7:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   8:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   9:
@@ -41,11 +41,11 @@ word_by_word:
     translation: is
     transliteration: kāna
   10:
-    arabic: عَلِيۡمًا
+    arabic: عَلِيمًا
     translation: All-Knower
     transliteration: ʿalīman
   11:
-    arabic: حَكِيۡمًا  ۖ‏
+    arabic: حَكِيمٗا
     translation: All-Wise
     transliteration: ḥakīman
 ---

@@ -1,17 +1,17 @@
 ---
-arabic_ayat: فَالۡيَوۡمَ الَّذِيۡنَ اٰمَنُوۡا مِنَ الۡكُفَّارِ يَضۡحَكُوۡنَۙ‏
+arabic_ayat: فَٱلۡيَوۡمَ ٱلَّذِينَ ءَامَنُواْ مِنَ ٱلۡكُفَّارِ يَضۡحَكُونَ
 sentence_translation: But on that Day the believers will be laughing at the disbelievers,
 word_by_word:
   1:
-    arabic: فَالۡيَوۡمَ
+    arabic: فَٱلۡيَوۡمَ
     translation: So today
     transliteration: fal-yawma
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ ءَ
     translation: those who
     transliteration: alladhīna
   3:
-    arabic: اٰمَنُوۡا
+    arabic: امَنُواْ
     translation: 'believed '
     transliteration: āmanū
   4:
@@ -19,11 +19,11 @@ word_by_word:
     translation: at
     transliteration: mina
   5:
-    arabic: الۡكُفَّارِ
+    arabic: ٱلۡكُفَّارِ
     translation: the disbelievers
     transliteration: l-kufāri
   6:
-    arabic: يَضۡحَكُوۡنَۙ‏
+    arabic: يَضۡحَكُونَ
     translation: they will laugh
     transliteration: yaḍḥakūna
 ---

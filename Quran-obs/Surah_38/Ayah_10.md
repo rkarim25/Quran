@@ -1,16 +1,16 @@
 ---
-arabic_ayat: اَمۡ لَهُمۡ مُّلۡكُ السَّمٰوٰتِ وَالۡاَرۡضِ وَمَا بَيۡنَهُمَا​فَلۡيَرۡتَقُوۡا
-  فِى الۡاَسۡبَابِ‏
+arabic_ayat: أَمۡ لَهُم مُّلۡكُ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِ وَمَا بَيۡنَهُمَاۖ فَلۡيَرۡتَقُواْ
+  فِي ٱلۡأَسۡبَٰبِ
 sentence_translation: Or ˹is it because˺ the kingdom of the heavens and the earth
   and everything in between belongs to them? Let them then climb their way ˹to heaven,
   if their claim is true˺.
 word_by_word:
   1:
-    arabic: اَمۡ
+    arabic: أَمۡ
     translation: Or
     transliteration: am
   2:
-    arabic: لَهُمۡ
+    arabic: لَهُم
     translation: for them
     transliteration: lahum
   3:
@@ -18,11 +18,11 @@ word_by_word:
     translation: (is the) dominion
     transliteration: mul'ku
   4:
-    arabic: السَّمٰوٰتِ
+    arabic: ٱلسَّمَٰوَٰتِ
     translation: (of) the heavens
     transliteration: l-samāwāti
   5:
-    arabic: وَالۡاَرۡضِ
+    arabic: وَٱلۡأَرۡضِ
     translation: and the earth
     transliteration: wal-arḍi
   6:
@@ -30,19 +30,19 @@ word_by_word:
     translation: and whatever
     transliteration: wamā
   7:
-    arabic: بَيۡنَهُمَا​
+    arabic: بَيۡنَهُمَاۖ
     translation: (is) between them
     transliteration: baynahumā
   8:
-    arabic: فَلۡيَرۡتَقُوۡا
+    arabic: فَلۡيَرۡتَقُواْ
     translation: Then let them ascend
     transliteration: falyartaqū
   9:
-    arabic: فِى
+    arabic: فِي
     translation: by
     transliteration: fī
   10:
-    arabic: الۡاَسۡبَابِ‏
+    arabic: ٱلۡأَسۡبَٰبِ
     translation: the means
     transliteration: l-asbābi
 ---

@@ -1,21 +1,21 @@
 ---
-arabic_ayat: وَّيَنۡقَلِبُ اِلٰٓى اَهۡلِهٖ مَسۡرُوۡرًا ؕ‏
+arabic_ayat: وَيَنقَلِبُ إِلَىٰٓ أَهۡلِهِۦ مَسۡرُورٗا
 sentence_translation: and will return to their people joyfully.
 word_by_word:
   1:
-    arabic: وَّيَنۡقَلِبُ
+    arabic: وَيَنقَلِبُ
     translation: And he will return
     transliteration: wayanqalibu
   2:
-    arabic: اِلٰٓى
+    arabic: إِلَىٰٓ
     translation: to
     transliteration: ilā
   3:
-    arabic: اَهۡلِهٖ
+    arabic: أَهۡلِهِۦ
     translation: his people
     transliteration: ahlihi
   4:
-    arabic: مَسۡرُوۡرًا ؕ‏
+    arabic: مَسۡرُورٗا
     translation: happily
     transliteration: masrūran
 ---

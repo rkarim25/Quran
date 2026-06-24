@@ -1,27 +1,26 @@
 ---
-arabic_ayat: "​وَاِلٰى ثَمُوۡدَ اَخَاهُمۡ صٰلِحًا​ۘ قَالَ يٰقَوۡمِ اعۡبُدُوا اللّٰهَ\
-  \ مَا لَـكُمۡ مِّنۡ اِلٰهٍ غَيۡرُهٗ​ ؕ هُوَ اَنۡشَاَكُمۡ مِّنَ الۡاَرۡضِ وَاسۡتَعۡمَرَكُمۡ\
-  \ فِيۡهَا فَاسۡتَغۡفِرُوۡهُ ثُمَّ تُوۡبُوۡۤا اِلَيۡهِ​ ؕ اِنَّ رَبِّىۡ قَرِيۡبٌ\
-  \ مُّجِيۡبٌ‏ \uFEFF\uFEFF"
+arabic_ayat: ۞ وَإِلَىٰ ثَمُودَ أَخَاهُمۡ صَٰلِحٗاۚ قَالَ يَٰقَوۡمِ ٱعۡبُدُواْ ٱللَّهَ
+  مَا لَكُم مِّنۡ إِلَٰهٍ غَيۡرُهُۥۖ هُوَ أَنشَأَكُم مِّنَ ٱلۡأَرۡضِ وَٱسۡتَعۡمَرَكُمۡ
+  فِيهَا فَٱسۡتَغۡفِرُوهُ ثُمَّ تُوبُوٓاْ إِلَيۡهِۚ إِنَّ رَبِّي قَرِيبٞ مُّجِيبٞ
 sentence_translation: And to the people of Thamûd We sent their brother Ṣâliḥ. He
   said, “O my people! Worship Allah. You have no god other than Him. He ˹is the One
   Who˺ produced you from the earth and settled you on it. So seek His forgiveness
   and turn to Him in repentance. Surely my Lord is Ever Near, All-Responsive ˹to prayers˺.”
 word_by_word:
   1:
-    arabic: ۞ وَاِلٰى
+    arabic: ۞ وَإِلَىٰ
     translation: And to
     transliteration: wa-ilā
   2:
-    arabic: ثَمُوۡدَ
+    arabic: ثَمُودَ
     translation: Thamud
     transliteration: thamūda
   3:
-    arabic: اَخَاهُمۡ
+    arabic: أَخَاهُمۡ
     translation: (We sent) their brother
     transliteration: akhāhum
   4:
-    arabic: صٰلِحًا​ۘ
+    arabic: صَٰلِحٗاۚ
     translation: Salih
     transliteration: ṣāliḥan
   5:
@@ -29,15 +28,15 @@ word_by_word:
     translation: He said
     transliteration: qāla
   6:
-    arabic: يٰقَوۡمِ
+    arabic: يَٰقَوۡمِ
     translation: O my people
     transliteration: yāqawmi
   7:
-    arabic: اعۡبُدُوا
+    arabic: ٱعۡبُدُواْ
     translation: Worship
     transliteration: uʿ'budū
   8:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   9:
@@ -45,7 +44,7 @@ word_by_word:
     translation: not
     transliteration: mā
   10:
-    arabic: لَـكُمۡ
+    arabic: لَكُم
     translation: you have
     transliteration: lakum
   11:
@@ -53,11 +52,11 @@ word_by_word:
     translation: any
     transliteration: min
   12:
-    arabic: اِلٰهٍ
+    arabic: إِلَٰهٍ
     translation: god
     transliteration: ilāhin
   13:
-    arabic: غَيۡرُهٗ​ ؕ
+    arabic: غَيۡرُهُۥۖ
     translation: other than Him
     transliteration: ghayruhu
   14:
@@ -65,7 +64,7 @@ word_by_word:
     translation: He
     transliteration: huwa
   15:
-    arabic: اَنۡشَاَكُمۡ
+    arabic: أَنشَأَكُم
     translation: produced you
     transliteration: ansha-akum
   16:
@@ -73,19 +72,19 @@ word_by_word:
     translation: from
     transliteration: mina
   17:
-    arabic: الۡاَرۡضِ
+    arabic: ٱلۡأَرۡضِ
     translation: the earth
     transliteration: l-arḍi
   18:
-    arabic: وَاسۡتَعۡمَرَكُمۡ
+    arabic: وَٱسۡتَعۡمَرَكُمۡ
     translation: and settled you
     transliteration: wa-is'taʿmarakum
   19:
-    arabic: فِيۡهَا
+    arabic: فِيهَا
     translation: in it
     transliteration: fīhā
   20:
-    arabic: فَاسۡتَغۡفِرُوۡهُ
+    arabic: فَٱسۡتَغۡفِرُوهُ
     translation: So ask forgiveness of Him
     transliteration: fa-is'taghfirūhu
   21:
@@ -93,27 +92,27 @@ word_by_word:
     translation: then
     transliteration: thumma
   22:
-    arabic: تُوۡبُوۡۤا
+    arabic: تُوبُوٓاْ
     translation: turn in repentance
     transliteration: tūbū
   23:
-    arabic: اِلَيۡهِ​ ؕ
+    arabic: إِلَيۡهِۚ
     translation: to Him
     transliteration: ilayhi
   24:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   25:
-    arabic: رَبِّىۡ
+    arabic: رَبِّي
     translation: my Lord
     transliteration: rabbī
   26:
-    arabic: قَرِيۡبٌ
+    arabic: قَرِيبٞ
     translation: (is) near
     transliteration: qarībun
   27:
-    arabic: "مُّجِيۡبٌ‏ \uFEFF\uFEFF"
+    arabic: مُّجِيبٞ
     translation: All-Responsive
     transliteration: mujībun
 ---

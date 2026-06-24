@@ -1,15 +1,15 @@
 ---
-arabic_ayat: وَاِذَا قِيۡلَ لَهُمۡ تَعَالَوۡا اِلٰى مَاۤ اَنۡزَلَ اللّٰهُ وَاِلَى
-  الرَّسُوۡلِ رَاَيۡتَ الۡمُنٰفِقِيۡنَ يَصُدُّوۡنَ عَنۡكَ صُدُوۡدًا​ ۚ‏
+arabic_ayat: وَإِذَا قِيلَ لَهُمۡ تَعَالَوۡاْ إِلَىٰ مَآ أَنزَلَ ٱللَّهُ وَإِلَى
+  ٱلرَّسُولِ رَأَيۡتَ ٱلۡمُنَٰفِقِينَ يَصُدُّونَ عَنكَ صُدُودٗا
 sentence_translation: When it is said to them, “Come to Allah’s revelations and to
   the Messenger,” you see the hypocrites turn away from you stubbornly.
 word_by_word:
   1:
-    arabic: وَاِذَا
+    arabic: وَإِذَا
     translation: And when
     transliteration: wa-idhā
   2:
-    arabic: قِيۡلَ
+    arabic: قِيلَ
     translation: it is said
     transliteration: qīla
   3:
@@ -17,51 +17,51 @@ word_by_word:
     translation: to them
     transliteration: lahum
   4:
-    arabic: تَعَالَوۡا
+    arabic: تَعَالَوۡاْ
     translation: Come
     transliteration: taʿālaw
   5:
-    arabic: اِلٰى
+    arabic: إِلَىٰ
     translation: to
     transliteration: ilā
   6:
-    arabic: مَاۤ
+    arabic: مَآ
     translation: what
     transliteration: mā
   7:
-    arabic: اَنۡزَلَ
+    arabic: أَنزَلَ
     translation: (has) revealed
     transliteration: anzala
   8:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   9:
-    arabic: وَاِلَى
+    arabic: وَإِلَى
     translation: and to
     transliteration: wa-ilā
   10:
-    arabic: الرَّسُوۡلِ
+    arabic: ٱلرَّسُولِ
     translation: the Messenger
     transliteration: l-rasūli
   11:
-    arabic: رَاَيۡتَ
+    arabic: رَأَيۡتَ
     translation: you see
     transliteration: ra-ayta
   12:
-    arabic: الۡمُنٰفِقِيۡنَ
+    arabic: ٱلۡمُنَٰفِقِينَ
     translation: the hypocrites
     transliteration: l-munāfiqīna
   13:
-    arabic: يَصُدُّوۡنَ
+    arabic: يَصُدُّونَ
     translation: turning away
     transliteration: yaṣuddūna
   14:
-    arabic: عَنۡكَ
+    arabic: عَنكَ
     translation: from you
     transliteration: ʿanka
   15:
-    arabic: صُدُوۡدًا​ ۚ‏
+    arabic: صُدُودٗا
     translation: (in) aversion
     transliteration: ṣudūdan
 ---

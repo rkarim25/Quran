@@ -1,8 +1,8 @@
 ---
-arabic_ayat: وَمَا تَكُوۡنُ فِىۡ شَاۡنٍ وَّمَا تَتۡلُوۡا مِنۡهُ مِنۡ قُرۡاٰنٍ وَّلَا
-  تَعۡمَلُوۡنَ مِنۡ عَمَلٍ اِلَّا كُنَّا عَلَيۡكُمۡ شُهُوۡدًا اِذۡ تُفِيۡضُوۡنَ فِيۡهِ​ؕ
-  وَمَا يَعۡزُبُ عَنۡ رَّبِّكَ مِنۡ مِّثۡقَالِ ذَرَّةٍ فِى الۡاَرۡضِ وَلَا فِى السَّمَآءِ
-  وَلَاۤ اَصۡغَرَ مِنۡ ذٰ لِكَ وَلَاۤ اَكۡبَرَ اِلَّا فِىۡ كِتٰبٍ مُّبِيۡنٍ‏
+arabic_ayat: وَمَا تَكُونُ فِي شَأۡنٖ وَمَا تَتۡلُواْ مِنۡهُ مِن قُرۡءَانٖ وَلَا تَعۡمَلُونَ
+  مِنۡ عَمَلٍ إِلَّا كُنَّا عَلَيۡكُمۡ شُهُودًا إِذۡ تُفِيضُونَ فِيهِۚ وَمَا يَعۡزُبُ
+  عَن رَّبِّكَ مِن مِّثۡقَالِ ذَرَّةٖ فِي ٱلۡأَرۡضِ وَلَا فِي ٱلسَّمَآءِ وَلَآ أَصۡغَرَ
+  مِن ذَٰلِكَ وَلَآ أَكۡبَرَ إِلَّا فِي كِتَٰبٖ مُّبِينٍ
 sentence_translation: There is no activity you may be engaged in ˹O Prophet˺ or portion
   of the Quran you may be reciting, nor any deed you ˹all˺ may be doing except that
   We are a Witness over you while doing it. Not ˹even˺ an atom’s weight is hidden
@@ -14,23 +14,23 @@ word_by_word:
     translation: And not
     transliteration: wamā
   2:
-    arabic: تَكُوۡنُ
+    arabic: تَكُونُ
     translation: you are
     transliteration: takūnu
   3:
-    arabic: فِىۡ
+    arabic: فِي
     translation: '[in]'
     transliteration: fī
   4:
-    arabic: شَاۡنٍ
+    arabic: شَأۡنٖ
     translation: any situation
     transliteration: shanin
   5:
-    arabic: وَّمَا
+    arabic: وَمَا
     translation: and not
     transliteration: wamā
   6:
-    arabic: تَتۡلُوۡا
+    arabic: تَتۡلُواْ
     translation: you recite
     transliteration: tatlū
   7:
@@ -38,19 +38,19 @@ word_by_word:
     translation: of it
     transliteration: min'hu
   8:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   9:
-    arabic: قُرۡاٰنٍ
+    arabic: قُرۡءَانٖ
     translation: (the) Quran
     transliteration: qur'ānin
   10:
-    arabic: وَّلَا
+    arabic: وَلَا
     translation: and not
     transliteration: walā
   11:
-    arabic: تَعۡمَلُوۡنَ
+    arabic: تَعۡمَلُونَ
     translation: you do
     transliteration: taʿmalūna
   12:
@@ -62,7 +62,7 @@ word_by_word:
     translation: deed
     transliteration: ʿamalin
   14:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   15:
@@ -74,19 +74,19 @@ word_by_word:
     translation: over you
     transliteration: ʿalaykum
   17:
-    arabic: شُهُوۡدًا
+    arabic: شُهُودًا
     translation: witnesses
     transliteration: shuhūdan
   18:
-    arabic: اِذۡ
+    arabic: إِذۡ
     translation: when
     transliteration: idh
   19:
-    arabic: تُفِيۡضُوۡنَ
+    arabic: تُفِيضُونَ
     translation: you are engaged
     transliteration: tufīḍūna
   20:
-    arabic: فِيۡهِ​ؕ
+    arabic: فِيهِۚ
     translation: in it
     transliteration: fīhi
   21:
@@ -98,7 +98,7 @@ word_by_word:
     translation: escapes
     transliteration: yaʿzubu
   23:
-    arabic: عَنۡ
+    arabic: عَن
     translation: from
     transliteration: ʿan
   24:
@@ -106,7 +106,7 @@ word_by_word:
     translation: your Lord
     transliteration: rabbika
   25:
-    arabic: مِنۡ
+    arabic: مِن
     translation: of
     transliteration: min
   26:
@@ -114,15 +114,15 @@ word_by_word:
     translation: (the) weight
     transliteration: mith'qāli
   27:
-    arabic: ذَرَّةٍ
+    arabic: ذَرَّةٖ
     translation: (of) an atom
     transliteration: dharratin
   28:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   29:
-    arabic: الۡاَرۡضِ
+    arabic: ٱلۡأَرۡضِ
     translation: the earth
     transliteration: l-arḍi
   30:
@@ -130,51 +130,51 @@ word_by_word:
     translation: and not
     transliteration: walā
   31:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   32:
-    arabic: السَّمَآءِ
+    arabic: ٱلسَّمَآءِ
     translation: the heavens
     transliteration: l-samāi
   33:
-    arabic: وَلَاۤ
+    arabic: وَلَآ
     translation: and not
     transliteration: walā
   34:
-    arabic: اَصۡغَرَ
+    arabic: أَصۡغَرَ
     translation: smaller
     transliteration: aṣghara
   35:
-    arabic: مِنۡ
+    arabic: مِن
     translation: than
     transliteration: min
   36:
-    arabic: ذٰ لِكَ
+    arabic: ذَٰلِكَ
     translation: that
     transliteration: dhālika
   37:
-    arabic: وَلَاۤ
+    arabic: وَلَآ
     translation: and not
     transliteration: walā
   38:
-    arabic: اَكۡبَرَ
+    arabic: أَكۡبَرَ
     translation: greater
     transliteration: akbara
   39:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: but
     transliteration: illā
   40:
-    arabic: فِىۡ
+    arabic: فِي
     translation: (is) in
     transliteration: fī
   41:
-    arabic: كِتٰبٍ
+    arabic: كِتَٰبٖ
     translation: a Record
     transliteration: kitābin
   42:
-    arabic: مُّبِيۡنٍ‏
+    arabic: مُّبِينٍ
     translation: clear
     transliteration: mubīnin
 ---

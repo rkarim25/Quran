@@ -1,15 +1,14 @@
 ---
-arabic_ayat: "وَلَبِثُوۡا فِىۡ كَهۡفِهِمۡ ثَلٰثَ مِائَةٍ سِنِيۡنَ وَازۡدَادُوۡا تِسۡعًا‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: وَلَبِثُواْ فِي كَهۡفِهِمۡ ثَلَٰثَ مِاْئَةٖ سِنِينَ وَٱزۡدَادُواْ تِسۡعٗا
 sentence_translation: They had remained in their cave for three hundred years, adding
   nine.
 word_by_word:
   1:
-    arabic: وَلَبِثُوۡا
+    arabic: وَلَبِثُواْ
     translation: And they remained
     transliteration: walabithū
   2:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   3:
@@ -17,23 +16,23 @@ word_by_word:
     translation: their cave
     transliteration: kahfihim
   4:
-    arabic: ثَلٰثَ
+    arabic: ثَلَٰثَ
     translation: (for) three
     transliteration: thalātha
   5:
-    arabic: مِائَةٍ
+    arabic: مِاْئَةٖ
     translation: hundred
     transliteration: mi-atin
   6:
-    arabic: سِنِيۡنَ
+    arabic: سِنِينَ
     translation: years
     transliteration: sinīna
   7:
-    arabic: وَازۡدَادُوۡا
+    arabic: وَٱزۡدَادُواْ
     translation: and add
     transliteration: wa-iz'dādū
   8:
-    arabic: "تِسۡعًا‏ \uFEFF\uFEFF"
+    arabic: تِسۡعٗا
     translation: nine
     transliteration: tis'ʿan
 ---

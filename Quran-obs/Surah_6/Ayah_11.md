@@ -1,6 +1,5 @@
 ---
-arabic_ayat: "قُلۡ سِيۡرُوۡا فِى الۡاَرۡضِ ثُمَّ انْظُرُوۡا كَيۡفَ كَانَ عَاقِبَةُ\
-  \ الۡمُكَذِّبِيۡنَ‏ \uFEFF\uFEFF"
+arabic_ayat: قُلۡ سِيرُواْ فِي ٱلۡأَرۡضِ ثُمَّ ٱنظُرُواْ كَيۡفَ كَانَ عَٰقِبَةُ ٱلۡمُكَذِّبِينَ
 sentence_translation: Say, “Travel throughout the land and see the fate of the deniers.”
 word_by_word:
   1:
@@ -8,15 +7,15 @@ word_by_word:
     translation: Say
     transliteration: qul
   2:
-    arabic: سِيۡرُوۡا
+    arabic: سِيرُواْ
     translation: Travel
     transliteration: sīrū
   3:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   4:
-    arabic: الۡاَرۡضِ
+    arabic: ٱلۡأَرۡضِ
     translation: the earth
     transliteration: l-arḍi
   5:
@@ -24,7 +23,7 @@ word_by_word:
     translation: and
     transliteration: thumma
   6:
-    arabic: انْظُرُوۡا
+    arabic: ٱنظُرُواْ
     translation: see
     transliteration: unẓurū
   7:
@@ -36,11 +35,11 @@ word_by_word:
     translation: was
     transliteration: kāna
   9:
-    arabic: عَاقِبَةُ
+    arabic: عَٰقِبَةُ
     translation: (the) end
     transliteration: ʿāqibatu
   10:
-    arabic: "الۡمُكَذِّبِيۡنَ‏ \uFEFF\uFEFF"
+    arabic: ٱلۡمُكَذِّبِينَ
     translation: (of) the rejecters
     transliteration: l-mukadhibīna
 ---

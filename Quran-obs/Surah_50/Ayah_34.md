@@ -1,17 +1,17 @@
 ---
-arabic_ayat: اۨدۡخُلُوۡهَا بِسَلٰمٍ​ؕ ذٰلِكَ يَوۡمُ الۡخُلُوۡدِ‏
+arabic_ayat: ٱدۡخُلُوهَا بِسَلَٰمٖۖ ذَٰلِكَ يَوۡمُ ٱلۡخُلُودِ
 sentence_translation: Enter it in peace. This is the Day of eternal life!”
 word_by_word:
   1:
-    arabic: اۨدۡخُلُوۡهَا
+    arabic: ٱدۡخُلُوهَا
     translation: Enter it
     transliteration: ud'khulūhā
   2:
-    arabic: بِسَلٰمٍ​ؕ
+    arabic: بِسَلَٰمٖۖ
     translation: in peace
     transliteration: bisalāmin
   3:
-    arabic: ذٰلِكَ
+    arabic: ذَٰلِكَ
     translation: That
     transliteration: dhālika
   4:
@@ -19,7 +19,7 @@ word_by_word:
     translation: (is) a Day
     transliteration: yawmu
   5:
-    arabic: الۡخُلُوۡدِ‏
+    arabic: ٱلۡخُلُودِ
     translation: (of) Eternity
     transliteration: l-khulūdi
 ---

@@ -1,11 +1,11 @@
 ---
-arabic_ayat: ذٰ لِكَ بِاَنَّهُمۡ شَآقُّوا اللّٰهَ وَرَسُوۡلَهٗ​ ۚ وَمَنۡ يُّشَآقِّ
-  اللّٰهَ فَاِنَّ اللّٰهَ شَدِيۡدُ الۡعِقَابِ‏
+arabic_ayat: ذَٰلِكَ بِأَنَّهُمۡ شَآقُّواْ ٱللَّهَ وَرَسُولَهُۥۖ وَمَن يُشَآقِّ
+  ٱللَّهَ فَإِنَّ ٱللَّهَ شَدِيدُ ٱلۡعِقَابِ
 sentence_translation: This is because they defied Allah and His Messenger. And whoever
   defies Allah, then Allah is truly severe in punishment.
 word_by_word:
   1:
-    arabic: ذٰ
+    arabic: ذَٰ
     translation: That
     transliteration: dhālika
   2:
@@ -13,43 +13,43 @@ word_by_word:
     translation: (is) because [they]
     transliteration: bi-annahum
   3:
-    arabic: بِاَنَّهُمۡ
+    arabic: بِأَنَّهُمۡ
     translation: they opposed
     transliteration: shāqqū
   4:
-    arabic: شَآقُّوا
+    arabic: شَآقُّواْ
     translation: Allah
     transliteration: l-laha
   5:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: and His Messenger
     transliteration: warasūlahu
   6:
-    arabic: وَرَسُوۡلَهٗ​ ۚ
+    arabic: وَرَسُولَهُۥۖ
     translation: And whoever
     transliteration: waman
   7:
-    arabic: وَمَنۡ
+    arabic: وَمَن
     translation: opposes
     transliteration: yushāqqi
   8:
-    arabic: يُّشَآقِّ
+    arabic: يُشَآقِّ
     translation: Allah
     transliteration: l-laha
   9:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: then indeed
     transliteration: fa-inna
   10:
-    arabic: فَاِنَّ
+    arabic: فَإِنَّ
     translation: Allah
     transliteration: l-laha
   11:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: (is) severe
     transliteration: shadīdu
   12:
-    arabic: شَدِيۡدُ الۡعِقَابِ‏
+    arabic: شَدِيدُ ٱلۡعِقَابِ
     translation: (in) penalty
     transliteration: l-ʿiqābi
 ---

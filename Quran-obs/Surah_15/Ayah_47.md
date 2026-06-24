@@ -1,6 +1,5 @@
 ---
-arabic_ayat: "وَنَزَعۡنَا مَا فِىۡ صُدُوۡرِهِمۡ مِّنۡ غِلٍّ اِخۡوَانًا عَلٰى سُرُرٍ\
-  \ مُّتَقٰبِلِيۡنَ‏ \uFEFF\uFEFF"
+arabic_ayat: وَنَزَعۡنَا مَا فِي صُدُورِهِم مِّنۡ غِلٍّ إِخۡوَٰنًا عَلَىٰ سُرُرٖ مُّتَقَٰبِلِينَ
 sentence_translation: We will remove whatever bitterness they had in their hearts. In
   a friendly manner, they will be on thrones, facing one another.
 word_by_word:
@@ -13,11 +12,11 @@ word_by_word:
     translation: what
     transliteration: mā
   3:
-    arabic: فِىۡ
+    arabic: فِي
     translation: (is) in
     transliteration: fī
   4:
-    arabic: صُدُوۡرِهِمۡ
+    arabic: صُدُورِهِم
     translation: their breasts
     transliteration: ṣudūrihim
   5:
@@ -29,19 +28,19 @@ word_by_word:
     translation: rancor
     transliteration: ghillin
   7:
-    arabic: اِخۡوَانًا
+    arabic: إِخۡوَٰنًا
     translation: (they will be) brothers
     transliteration: ikh'wānan
   8:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: 'on'
     transliteration: ʿalā
   9:
-    arabic: سُرُرٍ
+    arabic: سُرُرٖ
     translation: thrones
     transliteration: sururin
   10:
-    arabic: "مُّتَقٰبِلِيۡنَ‏ \uFEFF\uFEFF"
+    arabic: مُّتَقَٰبِلِينَ
     translation: facing each other
     transliteration: mutaqābilīna
 ---

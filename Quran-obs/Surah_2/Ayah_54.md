@@ -1,8 +1,8 @@
 ---
-arabic_ayat: وَاِذۡ قَالَ مُوۡسٰى لِقَوۡمِهٖ يٰقَوۡمِ اِنَّكُمۡ ظَلَمۡتُمۡ اَنۡفُسَکُمۡ
-  بِاتِّخَاذِكُمُ الۡعِجۡلَ فَتُوۡبُوۡآ اِلٰى بَارِٮِٕكُمۡ فَاقۡتُلُوۡٓا اَنۡفُسَكُمۡؕ
-  ذٰ لِكُمۡ خَيۡرٌ لَّـكُمۡ عِنۡدَ بَارِٮِٕكُمۡؕ فَتَابَ عَلَيۡكُمۡ​ؕ اِنَّهٗ هُوَ
-  التَّوَّابُ الرَّحِيۡمُ‏
+arabic_ayat: وَإِذۡ قَالَ مُوسَىٰ لِقَوۡمِهِۦ يَٰقَوۡمِ إِنَّكُمۡ ظَلَمۡتُمۡ أَنفُسَكُم
+  بِٱتِّخَاذِكُمُ ٱلۡعِجۡلَ فَتُوبُوٓاْ إِلَىٰ بَارِئِكُمۡ فَٱقۡتُلُوٓاْ أَنفُسَكُمۡ
+  ذَٰلِكُمۡ خَيۡرٞ لَّكُمۡ عِندَ بَارِئِكُمۡ فَتَابَ عَلَيۡكُمۡۚ إِنَّهُۥ هُوَ ٱلتَّوَّابُ
+  ٱلرَّحِيمُ
 sentence_translation: And ˹remember˺ when Moses said to his people, “O my people!
   Surely you have wronged yourselves by worshipping the calf, so turn in repentance
   to your Creator and execute ˹the calf-worshippers among˺ yourselves. That is best
@@ -10,7 +10,7 @@ sentence_translation: And ˹remember˺ when Moses said to his people, “O my pe
   He is the Accepter of Repentance, Most Merciful.
 word_by_word:
   1:
-    arabic: وَاِذۡ
+    arabic: وَإِذۡ
     translation: And when
     transliteration: wa-idh
   2:
@@ -18,19 +18,19 @@ word_by_word:
     translation: said
     transliteration: qāla
   3:
-    arabic: مُوۡسٰى
+    arabic: مُوسَىٰ
     translation: Musa
     transliteration: mūsā
   4:
-    arabic: لِقَوۡمِهٖ
+    arabic: لِقَوۡمِهِۦ
     translation: to his people
     transliteration: liqawmihi
   5:
-    arabic: يٰقَوۡمِ
+    arabic: يَٰقَوۡمِ
     translation: O my people
     transliteration: yāqawmi
   6:
-    arabic: اِنَّكُمۡ
+    arabic: إِنَّكُمۡ
     translation: Indeed, you
     transliteration: innakum
   7:
@@ -38,55 +38,55 @@ word_by_word:
     translation: '[you] have wronged'
     transliteration: ẓalamtum
   8:
-    arabic: اَنۡفُسَکُمۡ
+    arabic: أَنفُسَكُم
     translation: yourselves
     transliteration: anfusakum
   9:
-    arabic: بِاتِّخَاذِكُمُ
+    arabic: بِٱتِّخَاذِكُمُ
     translation: by your taking
     transliteration: bi-ittikhādhikumu
   10:
-    arabic: الۡعِجۡلَ
+    arabic: ٱلۡعِجۡلَ
     translation: the calf
     transliteration: l-ʿij'la
   11:
-    arabic: فَتُوۡبُوۡآ
+    arabic: فَتُوبُوٓاْ
     translation: So turn in repentance
     transliteration: fatūbū
   12:
-    arabic: اِلٰى
+    arabic: إِلَىٰ
     translation: to
     transliteration: ilā
   13:
-    arabic: بَارِٮِٕكُمۡ
+    arabic: بَارِئِكُمۡ
     translation: your Creator
     transliteration: bāri-ikum
   14:
-    arabic: فَاقۡتُلُوۡٓا
+    arabic: فَٱقۡتُلُوٓاْ
     translation: and kill
     transliteration: fa-uq'tulū
   15:
-    arabic: اَنۡفُسَكُمۡؕ
+    arabic: أَنفُسَكُمۡ
     translation: yourselves
     transliteration: anfusakum
   16:
-    arabic: ذٰ لِكُمۡ
+    arabic: ذَٰلِكُمۡ
     translation: That
     transliteration: dhālikum
   17:
-    arabic: خَيۡرٌ
+    arabic: خَيۡرٞ
     translation: (is) better
     transliteration: khayrun
   18:
-    arabic: لَّـكُمۡ
+    arabic: لَّكُمۡ
     translation: for you
     transliteration: lakum
   19:
-    arabic: عِنۡدَ
+    arabic: عِندَ
     translation: with
     transliteration: ʿinda
   20:
-    arabic: بَارِٮِٕكُمۡؕ
+    arabic: بَارِئِكُمۡ
     translation: your Creator
     transliteration: bāri-ikum
   21:
@@ -94,11 +94,11 @@ word_by_word:
     translation: Then He turned
     transliteration: fatāba
   22:
-    arabic: عَلَيۡكُمۡ​ؕ
+    arabic: عَلَيۡكُمۡۚ
     translation: towards you
     transliteration: ʿalaykum
   23:
-    arabic: اِنَّهٗ
+    arabic: إِنَّهُۥ
     translation: Indeed He
     transliteration: innahu
   24:
@@ -106,11 +106,11 @@ word_by_word:
     translation: He
     transliteration: huwa
   25:
-    arabic: التَّوَّابُ
+    arabic: ٱلتَّوَّابُ
     translation: (is) the-returning
     transliteration: l-tawābu
   26:
-    arabic: الرَّحِيۡمُ‏
+    arabic: ٱلرَّحِيمُ
     translation: the Most Merciful
     transliteration: l-raḥīmu
 ---

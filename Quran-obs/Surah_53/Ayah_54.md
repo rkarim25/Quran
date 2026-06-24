@@ -1,9 +1,9 @@
 ---
-arabic_ayat: فَغَشّٰٮهَا مَا غَشّٰى​ۚ‏
+arabic_ayat: فَغَشَّىٰهَا مَا غَشَّىٰ
 sentence_translation: How overwhelming was what covered ˹them˺!
 word_by_word:
   1:
-    arabic: فَغَشّٰٮهَا
+    arabic: فَغَشَّىٰهَا
     translation: So covered them
     transliteration: faghashāhā
   2:
@@ -11,7 +11,7 @@ word_by_word:
     translation: what
     transliteration: mā
   3:
-    arabic: غَشّٰى​ۚ‏
+    arabic: غَشَّىٰ
     translation: covered
     transliteration: ghashā
 ---

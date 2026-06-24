@@ -1,11 +1,11 @@
 ---
-arabic_ayat: وَاِذَا صُرِفَتۡ اَبۡصَارُهُمۡ تِلۡقَآءَ اَصۡحٰبِ النَّارِۙ قَالُوۡا
-  رَبَّنَا لَا تَجۡعَلۡنَا مَعَ الۡقَوۡمِ الظّٰلِمِيۡنَ‏
+arabic_ayat: ۞ وَإِذَا صُرِفَتۡ أَبۡصَٰرُهُمۡ تِلۡقَآءَ أَصۡحَٰبِ ٱلنَّارِ قَالُواْ
+  رَبَّنَا لَا تَجۡعَلۡنَا مَعَ ٱلۡقَوۡمِ ٱلظَّٰلِمِينَ
 sentence_translation: When their eyes will turn towards the residents of Hell, they
   will pray, “Our Lord! Do not join us with the wrongdoing people.”
 word_by_word:
   1:
-    arabic: ۞ وَاِذَا
+    arabic: ۞ وَإِذَا
     translation: And when
     transliteration: wa-idhā
   2:
@@ -13,7 +13,7 @@ word_by_word:
     translation: are turned
     transliteration: ṣurifat
   3:
-    arabic: اَبۡصَارُهُمۡ
+    arabic: أَبۡصَٰرُهُمۡ
     translation: their eyes
     transliteration: abṣāruhum
   4:
@@ -21,15 +21,15 @@ word_by_word:
     translation: towards
     transliteration: til'qāa
   5:
-    arabic: اَصۡحٰبِ
+    arabic: أَصۡحَٰبِ
     translation: (the) companions
     transliteration: aṣḥābi
   6:
-    arabic: النَّارِۙ
+    arabic: ٱلنَّارِ
     translation: (of) the Fire
     transliteration: l-nāri
   7:
-    arabic: قَالُوۡا
+    arabic: قَالُواْ
     translation: they (will) say
     transliteration: qālū
   8:
@@ -49,11 +49,11 @@ word_by_word:
     translation: with
     transliteration: maʿa
   12:
-    arabic: الۡقَوۡمِ
+    arabic: ٱلۡقَوۡمِ
     translation: 'the people '
     transliteration: l-qawmi
   13:
-    arabic: الظّٰلِمِيۡنَ‏
+    arabic: ٱلظَّٰلِمِينَ
     translation: the wrongdoers
     transliteration: l-ẓālimīna
 ---

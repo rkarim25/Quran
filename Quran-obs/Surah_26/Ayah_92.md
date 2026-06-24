@@ -1,9 +1,9 @@
 ---
-arabic_ayat: وَقِيۡلَ لَهُمۡ اَيۡنَمَا كُنۡتُمۡ تَعۡبُدُوۡنَۙ‏
+arabic_ayat: وَقِيلَ لَهُمۡ أَيۡنَ مَا كُنتُمۡ تَعۡبُدُونَ
 sentence_translation: And it will be said to them, “Where are those you used to worship
 word_by_word:
   1:
-    arabic: وَقِيۡلَ
+    arabic: وَقِيلَ
     translation: And it will be said
     transliteration: waqīla
   2:
@@ -11,7 +11,7 @@ word_by_word:
     translation: to them
     transliteration: lahum
   3:
-    arabic: اَيۡنَ
+    arabic: أَيۡنَ
     translation: Where
     transliteration: ayna
   4:
@@ -19,11 +19,11 @@ word_by_word:
     translation: (is) that
     transliteration: mā
   5:
-    arabic: كُنۡتُمۡ
+    arabic: كُنتُمۡ
     translation: you used
     transliteration: kuntum
   6:
-    arabic: تَعۡبُدُوۡنَۙ‏
+    arabic: تَعۡبُدُونَ
     translation: (to) worship
     transliteration: taʿbudūna
 ---

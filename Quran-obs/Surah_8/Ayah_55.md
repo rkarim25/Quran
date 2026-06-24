@@ -1,11 +1,11 @@
 ---
-arabic_ayat: اِنَّ شَرَّ الدَّوَآبِّ عِنۡدَ اللّٰهِ الَّذِيۡنَ كَفَرُوۡا فَهُمۡ لَا
-  يُؤۡمِنُوۡنَ​ ۖ​ ۚ‏
+arabic_ayat: إِنَّ شَرَّ ٱلدَّوَآبِّ عِندَ ٱللَّهِ ٱلَّذِينَ كَفَرُواْ فَهُمۡ لَا
+  يُؤۡمِنُونَ
 sentence_translation: Indeed, the worst of all beings in the sight of Allah are those
   who persist in disbelief, never to have faith—
 word_by_word:
   1:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   2:
@@ -13,23 +13,23 @@ word_by_word:
     translation: (the) worst
     transliteration: sharra
   3:
-    arabic: الدَّوَآبِّ
+    arabic: ٱلدَّوَآبِّ
     translation: (of) the living creatures
     transliteration: l-dawābi
   4:
-    arabic: عِنۡدَ
+    arabic: عِندَ
     translation: near
     transliteration: ʿinda
   5:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   6:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: (are) those who
     transliteration: alladhīna
   7:
-    arabic: كَفَرُوۡا
+    arabic: كَفَرُواْ
     translation: disbelieve
     transliteration: kafarū
   8:
@@ -41,7 +41,7 @@ word_by_word:
     translation: (will) not
     transliteration: lā
   10:
-    arabic: يُؤۡمِنُوۡنَ​ ۖ​ ۚ‏
+    arabic: يُؤۡمِنُونَ
     translation: believe
     transliteration: yu'minūna
 ---

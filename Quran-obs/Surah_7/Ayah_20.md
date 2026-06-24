@@ -1,7 +1,7 @@
 ---
-arabic_ayat: فَوَسۡوَسَ لَهُمَا الشَّيۡطٰنُ لِيُبۡدِىَ لَهُمَا مَا وٗرِىَ عَنۡهُمَا
-  مِنۡ سَوۡاٰتِهِمَا وَقَالَ مَا نَهٰٮكُمَا رَبُّكُمَا عَنۡ هٰذِهِ الشَّجَرَةِ اِلَّاۤ
-  اَنۡ تَكُوۡنَا مَلَـكَيۡنِ اَوۡ تَكُوۡنَا مِنَ الۡخٰلِدِيۡنَ‏
+arabic_ayat: فَوَسۡوَسَ لَهُمَا ٱلشَّيۡطَٰنُ لِيُبۡدِيَ لَهُمَا مَا وُۥرِيَ عَنۡهُمَا
+  مِن سَوۡءَٰتِهِمَا وَقَالَ مَا نَهَىٰكُمَا رَبُّكُمَا عَنۡ هَٰذِهِ ٱلشَّجَرَةِ إِلَّآ
+  أَن تَكُونَا مَلَكَيۡنِ أَوۡ تَكُونَا مِنَ ٱلۡخَٰلِدِينَ
 sentence_translation: Then Satan tempted them in order to expose what was hidden of
   their nakedness. He said, “Your Lord has forbidden this tree to you only to prevent
   you from becoming angels or immortals.”
@@ -15,11 +15,11 @@ word_by_word:
     translation: to both of them
     transliteration: lahumā
   3:
-    arabic: الشَّيۡطٰنُ
+    arabic: ٱلشَّيۡطَٰنُ
     translation: the Shaitaan
     transliteration: l-shayṭānu
   4:
-    arabic: لِيُبۡدِىَ
+    arabic: لِيُبۡدِيَ
     translation: to make apparent
     transliteration: liyub'diya
   5:
@@ -31,7 +31,7 @@ word_by_word:
     translation: what
     transliteration: mā
   7:
-    arabic: وٗرِىَ
+    arabic: وُۥرِيَ
     translation: was concealed
     transliteration: wūriya
   8:
@@ -39,11 +39,11 @@ word_by_word:
     translation: from both of them
     transliteration: ʿanhumā
   9:
-    arabic: مِنۡ
+    arabic: مِن
     translation: of
     transliteration: min
   10:
-    arabic: سَوۡاٰتِهِمَا
+    arabic: سَوۡءَٰتِهِمَا
     translation: their shame
     transliteration: sawātihimā
   11:
@@ -55,7 +55,7 @@ word_by_word:
     translation: (Did) not
     transliteration: mā
   13:
-    arabic: نَهٰٮكُمَا
+    arabic: نَهَىٰكُمَا
     translation: forbid you both
     transliteration: nahākumā
   14:
@@ -67,35 +67,35 @@ word_by_word:
     translation: from
     transliteration: ʿan
   16:
-    arabic: هٰذِهِ
+    arabic: هَٰذِهِ
     translation: this
     transliteration: hādhihi
   17:
-    arabic: الشَّجَرَةِ
+    arabic: ٱلشَّجَرَةِ
     translation: '[the] tree'
     transliteration: l-shajarati
   18:
-    arabic: اِلَّاۤ
+    arabic: إِلَّآ
     translation: except
     transliteration: illā
   19:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that
     transliteration: an
   20:
-    arabic: تَكُوۡنَا
+    arabic: تَكُونَا
     translation: you two become
     transliteration: takūnā
   21:
-    arabic: مَلَـكَيۡنِ
+    arabic: مَلَكَيۡنِ
     translation: Angels
     transliteration: malakayni
   22:
-    arabic: اَوۡ
+    arabic: أَوۡ
     translation: or
     transliteration: aw
   23:
-    arabic: تَكُوۡنَا
+    arabic: تَكُونَا
     translation: you two become
     transliteration: takūnā
   24:
@@ -103,7 +103,7 @@ word_by_word:
     translation: of
     transliteration: mina
   25:
-    arabic: الۡخٰلِدِيۡنَ‏
+    arabic: ٱلۡخَٰلِدِينَ
     translation: the immortals
     transliteration: l-khālidīna
 ---

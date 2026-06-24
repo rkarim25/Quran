@@ -1,17 +1,17 @@
 ---
-arabic_ayat: وَاجۡعَلْ لِّىۡ وَزِيۡرًا مِّنۡ اَهۡلِىْ ۙ‏
+arabic_ayat: وَٱجۡعَل لِّي وَزِيرٗا مِّنۡ أَهۡلِي
 sentence_translation: and grant me a helper from my family,
 word_by_word:
   1:
-    arabic: وَاجۡعَلْ
+    arabic: وَٱجۡعَل
     translation: And appoint
     transliteration: wa-ij'ʿal
   2:
-    arabic: لِّىۡ
+    arabic: لِّي
     translation: for me
     transliteration: lī
   3:
-    arabic: وَزِيۡرًا
+    arabic: وَزِيرٗا
     translation: a minister
     transliteration: wazīran
   4:
@@ -19,7 +19,7 @@ word_by_word:
     translation: from
     transliteration: min
   5:
-    arabic: اَهۡلِىْ ۙ‏
+    arabic: أَهۡلِي
     translation: my family
     transliteration: ahlī
 ---

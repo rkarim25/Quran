@@ -1,7 +1,7 @@
 ---
-arabic_ayat: قُلۡ اَغَيۡرَ اللّٰهِ اَتَّخِذُ وَلِيًّا فَاطِرِ السَّمٰوٰتِ وَالۡاَرۡضِ
-  وَهُوَ يُطۡعِمُ وَلَا يُطۡعَمُ​ؕ قُلۡ اِنِّىۡۤ اُمِرۡتُ اَنۡ اَكُوۡنَ اَوَّلَ مَنۡ
-  اَسۡلَمَ​ وَلَا تَكُوۡنَنَّ مِنَ الۡمُشۡرِكِيۡنَ‏
+arabic_ayat: قُلۡ أَغَيۡرَ ٱللَّهِ أَتَّخِذُ وَلِيّٗا فَاطِرِ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِ
+  وَهُوَ يُطۡعِمُ وَلَا يُطۡعَمُۗ قُلۡ إِنِّيٓ أُمِرۡتُ أَنۡ أَكُونَ أَوَّلَ مَنۡ
+  أَسۡلَمَۖ وَلَا تَكُونَنَّ مِنَ ٱلۡمُشۡرِكِينَ
 sentence_translation: Say, ˹O Prophet,˺ “Will I take any guardian other than Allah,
   the Originator of the heavens and the earth, Who provides for all and is not in
   need of provision?” Say, “I have been commanded to be the first to submit and not
@@ -12,19 +12,19 @@ word_by_word:
     translation: Say
     transliteration: qul
   2:
-    arabic: اَغَيۡرَ
+    arabic: أَغَيۡرَ
     translation: Is it other than
     transliteration: aghayra
   3:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   4:
-    arabic: اَتَّخِذُ
+    arabic: أَتَّخِذُ
     translation: I (should) take
     transliteration: attakhidhu
   5:
-    arabic: وَلِيًّا
+    arabic: وَلِيّٗا
     translation: (as) a protector
     transliteration: waliyyan
   6:
@@ -32,11 +32,11 @@ word_by_word:
     translation: Creator
     transliteration: fāṭiri
   7:
-    arabic: السَّمٰوٰتِ
+    arabic: ٱلسَّمَٰوَٰتِ
     translation: (of) the heavens
     transliteration: l-samāwāti
   8:
-    arabic: وَالۡاَرۡضِ
+    arabic: وَٱلۡأَرۡضِ
     translation: and the earth
     transliteration: wal-arḍi
   9:
@@ -52,7 +52,7 @@ word_by_word:
     translation: and not
     transliteration: walā
   12:
-    arabic: يُطۡعَمُ​ؕ
+    arabic: يُطۡعَمُۗ
     translation: He is fed
     transliteration: yuṭ'ʿamu
   13:
@@ -60,23 +60,23 @@ word_by_word:
     translation: Say
     transliteration: qul
   14:
-    arabic: اِنِّىۡۤ
+    arabic: إِنِّيٓ
     translation: Indeed I
     transliteration: innī
   15:
-    arabic: اُمِرۡتُ
+    arabic: أُمِرۡتُ
     translation: '[I] am commanded'
     transliteration: umir'tu
   16:
-    arabic: اَنۡ
+    arabic: أَنۡ
     translation: that
     transliteration: an
   17:
-    arabic: اَكُوۡنَ
+    arabic: أَكُونَ
     translation: I be
     transliteration: akūna
   18:
-    arabic: اَوَّلَ
+    arabic: أَوَّلَ
     translation: (the) first
     transliteration: awwala
   19:
@@ -84,7 +84,7 @@ word_by_word:
     translation: who
     transliteration: man
   20:
-    arabic: اَسۡلَمَ​
+    arabic: أَسۡلَمَۖ
     translation: submits (to Allah)
     transliteration: aslama
   21:
@@ -92,7 +92,7 @@ word_by_word:
     translation: and not
     transliteration: walā
   22:
-    arabic: تَكُوۡنَنَّ
+    arabic: تَكُونَنَّ
     translation: be
     transliteration: takūnanna
   23:
@@ -100,7 +100,7 @@ word_by_word:
     translation: of
     transliteration: mina
   24:
-    arabic: الۡمُشۡرِكِيۡنَ‏
+    arabic: ٱلۡمُشۡرِكِينَ
     translation: the polytheists
     transliteration: l-mush'rikīna
 ---

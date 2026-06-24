@@ -1,5 +1,5 @@
 ---
-arabic_ayat: قَالَ فِيۡهَا تَحۡيَوۡنَ وَفِيۡهَا تَمُوۡتُوۡنَ وَمِنۡهَا تُخۡرَجُوۡنَ‏
+arabic_ayat: قَالَ فِيهَا تَحۡيَوۡنَ وَفِيهَا تَمُوتُونَ وَمِنۡهَا تُخۡرَجُونَ
 sentence_translation: He added, “There you will live, there you will die, and from
   there you will be resurrected.”
 word_by_word:
@@ -8,7 +8,7 @@ word_by_word:
     translation: He said
     transliteration: qāla
   2:
-    arabic: فِيۡهَا
+    arabic: فِيهَا
     translation: In it
     transliteration: fīhā
   3:
@@ -16,11 +16,11 @@ word_by_word:
     translation: you will live
     transliteration: taḥyawna
   4:
-    arabic: وَفِيۡهَا
+    arabic: وَفِيهَا
     translation: and in it
     transliteration: wafīhā
   5:
-    arabic: تَمُوۡتُوۡنَ
+    arabic: تَمُوتُونَ
     translation: you will die
     transliteration: tamūtūna
   6:
@@ -28,7 +28,7 @@ word_by_word:
     translation: and from it
     transliteration: wamin'hā
   7:
-    arabic: تُخۡرَجُوۡنَ‏
+    arabic: تُخۡرَجُونَ
     translation: you will be brought forth
     transliteration: tukh'rajūna
 ---

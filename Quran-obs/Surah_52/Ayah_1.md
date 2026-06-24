@@ -1,9 +1,9 @@
 ---
-arabic_ayat: وَالطُّوۡرِۙ‏
+arabic_ayat: وَٱلطُّورِ
 sentence_translation: By Mount Ṭûr!
 word_by_word:
   1:
-    arabic: وَالطُّوۡرِۙ‏
+    arabic: وَٱلطُّورِ
     translation: By the Mount
     transliteration: wal-ṭūri
 ---

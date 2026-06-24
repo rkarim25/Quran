@@ -1,17 +1,16 @@
 ---
-arabic_ayat: وَاَ لۡقِ عَصَاكَ​ ؕ فَلَمَّا رَاٰهَا تَهۡتَزُّ كَاَنَّهَا جَآنٌّ وَّلّٰى
-  مُدۡبِرًا وَّلَمۡ يُعَقِّبۡ​ ؕ يٰمُوۡسٰى لَا تَخَفۡ اِنِّىۡ لَا يَخَافُ لَدَىَّ
-  الۡمُرۡسَلُوۡنَ ​ۖ‏
+arabic_ayat: وَأَلۡقِ عَصَاكَۚ فَلَمَّا رَءَاهَا تَهۡتَزُّ كَأَنَّهَا جَآنّٞ وَلَّىٰ
+  مُدۡبِرٗا وَلَمۡ يُعَقِّبۡۚ يَٰمُوسَىٰ لَا تَخَفۡ إِنِّي لَا يَخَافُ لَدَيَّ ٱلۡمُرۡسَلُونَ
 sentence_translation: Now, throw down your staff!” But when he saw it slithering like
   a snake, he ran away without looking back. ˹Allah reassured him,˺ “O Moses! Do not
   be afraid! Messengers should have no fear in My presence.
 word_by_word:
   1:
-    arabic: وَاَ لۡقِ
+    arabic: وَأَلۡقِ
     translation: And, "Throw
     transliteration: wa-alqi
   2:
-    arabic: عَصَاكَ​ ؕ
+    arabic: عَصَاكَۚ
     translation: your staff
     transliteration: ʿaṣāka
   3:
@@ -19,7 +18,7 @@ word_by_word:
     translation: But when
     transliteration: falammā
   4:
-    arabic: رَاٰهَا
+    arabic: رَءَاهَا
     translation: he saw it
     transliteration: raāhā
   5:
@@ -27,31 +26,31 @@ word_by_word:
     translation: moving
     transliteration: tahtazzu
   6:
-    arabic: كَاَنَّهَا
+    arabic: كَأَنَّهَا
     translation: as if it
     transliteration: ka-annahā
   7:
-    arabic: جَآنٌّ
+    arabic: جَآنّٞ
     translation: (were) a snake
     transliteration: jānnun
   8:
-    arabic: وَّلّٰى
+    arabic: وَلَّىٰ
     translation: he turned back
     transliteration: wallā
   9:
-    arabic: مُدۡبِرًا
+    arabic: مُدۡبِرٗا
     translation: (in) flight
     transliteration: mud'biran
   10:
-    arabic: وَّلَمۡ
+    arabic: وَلَمۡ
     translation: and (did) not
     transliteration: walam
   11:
-    arabic: يُعَقِّبۡ​ ؕ
+    arabic: يُعَقِّبۡۚ
     translation: look back
     transliteration: yuʿaqqib
   12:
-    arabic: يٰمُوۡسٰى
+    arabic: يَٰمُوسَىٰ
     translation: O Musa
     transliteration: yāmūsā
   13:
@@ -59,11 +58,11 @@ word_by_word:
     translation: (Do) not
     transliteration: lā
   14:
-    arabic: تَخَفۡ
+    arabic: تَخَفۡ
     translation: fear
     transliteration: takhaf
   15:
-    arabic: اِنِّىۡ
+    arabic: إِنِّي
     translation: Indeed, [I]
     transliteration: innī
   16:
@@ -75,11 +74,11 @@ word_by_word:
     translation: fear
     transliteration: yakhāfu
   18:
-    arabic: لَدَىَّ
+    arabic: لَدَيَّ
     translation: (in) My presence
     transliteration: ladayya
   19:
-    arabic: الۡمُرۡسَلُوۡنَ ​ۖ‏
+    arabic: ٱلۡمُرۡسَلُونَ
     translation: the Messengers
     transliteration: l-mur'salūna
 ---

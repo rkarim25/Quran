@@ -1,5 +1,5 @@
 ---
-arabic_ayat: كَذَّبَ اَصۡحٰبُ لْئَيۡكَةِ الۡمُرۡسَلِيۡنَ ​ۖ​ۚ‏
+arabic_ayat: كَذَّبَ أَصۡحَٰبُ لۡـَٔيۡكَةِ ٱلۡمُرۡسَلِينَ
 sentence_translation: The residents of the Forest rejected the messengers
 word_by_word:
   1:
@@ -7,15 +7,15 @@ word_by_word:
     translation: Denied
     transliteration: kadhaba
   2:
-    arabic: اَصۡحٰبُ
+    arabic: أَصۡحَٰبُ
     translation: (the) companions
     transliteration: aṣḥābu
   3:
-    arabic: لْئَيۡكَةِ
+    arabic: لۡـَٔيۡكَةِ
     translation: (of the) Wood
     transliteration: al'aykati
   4:
-    arabic: الۡمُرۡسَلِيۡنَ ​ۖ​ۚ‏
+    arabic: ٱلۡمُرۡسَلِينَ
     translation: the Messengers
     transliteration: l-mur'salīna
 ---

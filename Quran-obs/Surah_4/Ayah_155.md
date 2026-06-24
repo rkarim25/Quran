@@ -1,7 +1,7 @@
 ---
-arabic_ayat: فَبِمَا نَقۡضِهِمۡ مِّيۡثَاقَهُمۡ وَكُفۡرِهِمۡ بِاٰيٰتِ اللّٰهِ وَقَتۡلِهِمُ
-  الۡاَنۡۢبِيَآءَ بِغَيۡرِ حَقٍّ وَّقَوۡلِهِمۡ قُلُوۡبُنَا غُلۡفٌ ؕ بَلۡ طَبَعَ اللّٰهُ
-  عَلَيۡهَا بِكُفۡرِهِمۡ فَلَا يُؤۡمِنُوۡنَ اِلَّا قَلِيۡلًا‏
+arabic_ayat: فَبِمَا نَقۡضِهِم مِّيثَٰقَهُمۡ وَكُفۡرِهِم بِـَٔايَٰتِ ٱللَّهِ وَقَتۡلِهِمُ
+  ٱلۡأَنۢبِيَآءَ بِغَيۡرِ حَقّٖ وَقَوۡلِهِمۡ قُلُوبُنَا غُلۡفُۢۚ بَلۡ طَبَعَ ٱللَّهُ
+  عَلَيۡهَا بِكُفۡرِهِمۡ فَلَا يُؤۡمِنُونَ إِلَّا قَلِيلٗا
 sentence_translation: ˹They were condemned˺ for breaking their covenant, rejecting
   Allah’s signs, killing the prophets unjustly, and for saying, “Our hearts are unreceptive!”—it
   is Allah Who has sealed their hearts for their disbelief, so they do not believe
@@ -12,23 +12,23 @@ word_by_word:
     translation: Then because of
     transliteration: fabimā
   2:
-    arabic: نَقۡضِهِمۡ
+    arabic: نَقۡضِهِم
     translation: their breaking
     transliteration: naqḍihim
   3:
-    arabic: مِّيۡثَاقَهُمۡ
+    arabic: مِّيثَٰقَهُمۡ
     translation: (of) their covenant
     transliteration: mīthāqahum
   4:
-    arabic: وَكُفۡرِهِمۡ
+    arabic: وَكُفۡرِهِم
     translation: and their disbelief
     transliteration: wakuf'rihim
   5:
-    arabic: بِاٰيٰتِ
+    arabic: بِـَٔايَٰتِ
     translation: in (the) Signs
     transliteration: biāyāti
   6:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (of) Allah
     transliteration: l-lahi
   7:
@@ -36,7 +36,7 @@ word_by_word:
     translation: and their killing
     transliteration: waqatlihimu
   8:
-    arabic: الۡاَنۡۢبِيَآءَ
+    arabic: ٱلۡأَنۢبِيَآءَ
     translation: (of) the Prophets
     transliteration: l-anbiyāa
   9:
@@ -44,19 +44,19 @@ word_by_word:
     translation: without
     transliteration: bighayri
   10:
-    arabic: حَقٍّ
+    arabic: حَقّٖ
     translation: any right
     transliteration: ḥaqqin
   11:
-    arabic: وَّقَوۡلِهِمۡ
+    arabic: وَقَوۡلِهِمۡ
     translation: and their saying
     transliteration: waqawlihim
   12:
-    arabic: قُلُوۡبُنَا
+    arabic: قُلُوبُنَا
     translation: Our hearts
     transliteration: qulūbunā
   13:
-    arabic: غُلۡفٌ ؕ
+    arabic: غُلۡفُۢۚ
     translation: (are) wrapped
     transliteration: ghul'fun
   14:
@@ -68,7 +68,7 @@ word_by_word:
     translation: (has) set a seal
     transliteration: ṭabaʿa
   16:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   17:
@@ -84,15 +84,15 @@ word_by_word:
     translation: so not
     transliteration: falā
   20:
-    arabic: يُؤۡمِنُوۡنَ
+    arabic: يُؤۡمِنُونَ
     translation: they believe
     transliteration: yu'minūna
   21:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   22:
-    arabic: قَلِيۡلًا‏
+    arabic: قَلِيلٗا
     translation: a few
     transliteration: qalīlan
 ---

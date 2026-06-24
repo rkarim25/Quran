@@ -1,6 +1,6 @@
 ---
-arabic_ayat: وَتَحۡمِلُ اَثۡقَالَـكُمۡ اِلٰى بَلَدٍ لَّمۡ تَكُوۡنُوۡا بٰلِغِيۡهِ اِلَّا
-  بِشِقِّ الۡاَنۡفُسِ​ؕ اِنَّ رَبَّكُمۡ لَرَءُوۡفٌ رَّحِيۡمٌۙ‏
+arabic_ayat: وَتَحۡمِلُ أَثۡقَالَكُمۡ إِلَىٰ بَلَدٖ لَّمۡ تَكُونُواْ بَٰلِغِيهِ إِلَّا
+  بِشِقِّ ٱلۡأَنفُسِۚ إِنَّ رَبَّكُمۡ لَرَءُوفٞ رَّحِيمٞ
 sentence_translation: And they carry your loads to ˹distant˺ lands which you could
   not otherwise reach without great hardship. Surely your Lord is Ever Gracious, Most
   Merciful.
@@ -10,15 +10,15 @@ word_by_word:
     translation: And they carry
     transliteration: wataḥmilu
   2:
-    arabic: اَثۡقَالَـكُمۡ
+    arabic: أَثۡقَالَكُمۡ
     translation: your loads
     transliteration: athqālakum
   3:
-    arabic: اِلٰى
+    arabic: إِلَىٰ
     translation: to
     transliteration: ilā
   4:
-    arabic: بَلَدٍ
+    arabic: بَلَدٖ
     translation: a land
     transliteration: baladin
   5:
@@ -26,15 +26,15 @@ word_by_word:
     translation: not
     transliteration: lam
   6:
-    arabic: تَكُوۡنُوۡا
+    arabic: تَكُونُواْ
     translation: you could
     transliteration: takūnū
   7:
-    arabic: بٰلِغِيۡهِ
+    arabic: بَٰلِغِيهِ
     translation: reach it
     transliteration: bālighīhi
   8:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   9:
@@ -42,11 +42,11 @@ word_by_word:
     translation: with great trouble
     transliteration: bishiqqi
   10:
-    arabic: الۡاَنۡفُسِ​ؕ
+    arabic: ٱلۡأَنفُسِۚ
     translation: (to) yourselves
     transliteration: l-anfusi
   11:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   12:
@@ -54,11 +54,11 @@ word_by_word:
     translation: your Lord
     transliteration: rabbakum
   13:
-    arabic: لَرَءُوۡفٌ
+    arabic: لَرَءُوفٞ
     translation: surely is Most Kind
     transliteration: laraūfun
   14:
-    arabic: رَّحِيۡمٌۙ‏
+    arabic: رَّحِيمٞ
     translation: Most Merciful
     transliteration: raḥīmun
 ---

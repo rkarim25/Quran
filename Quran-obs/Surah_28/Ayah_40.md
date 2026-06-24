@@ -1,31 +1,31 @@
 ---
-arabic_ayat: فَاَخَذۡنٰهُ وَجُنُوۡدَهٗ فَنَبَذۡنٰهُمۡ فِى الۡيَمِّ​ۚ فَانْظُرۡ كَيۡفَ
-  كَانَ عَاقِبَةُ الظّٰلِمِيۡنَ‏
+arabic_ayat: فَأَخَذۡنَٰهُ وَجُنُودَهُۥ فَنَبَذۡنَٰهُمۡ فِي ٱلۡيَمِّۖ فَٱنظُرۡ كَيۡفَ
+  كَانَ عَٰقِبَةُ ٱلظَّٰلِمِينَ
 sentence_translation: So We seized him and his soldiers, casting them into the sea.
   See then what was the end of the wrongdoers!
 word_by_word:
   1:
-    arabic: فَاَخَذۡنٰهُ
+    arabic: فَأَخَذۡنَٰهُ
     translation: So We seized him
     transliteration: fa-akhadhnāhu
   2:
-    arabic: وَجُنُوۡدَهٗ
+    arabic: وَجُنُودَهُۥ
     translation: and his hosts
     transliteration: wajunūdahu
   3:
-    arabic: فَنَبَذۡنٰهُمۡ
+    arabic: فَنَبَذۡنَٰهُمۡ
     translation: and We threw them
     transliteration: fanabadhnāhum
   4:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   5:
-    arabic: الۡيَمِّ​ۚ
+    arabic: ٱلۡيَمِّۖ
     translation: the sea
     transliteration: l-yami
   6:
-    arabic: فَانْظُرۡ
+    arabic: فَٱنظُرۡ
     translation: So see
     transliteration: fa-unẓur
   7:
@@ -37,11 +37,11 @@ word_by_word:
     translation: was
     transliteration: kāna
   9:
-    arabic: عَاقِبَةُ
+    arabic: عَٰقِبَةُ
     translation: (the) end
     transliteration: ʿāqibatu
   10:
-    arabic: الظّٰلِمِيۡنَ‏
+    arabic: ٱلظَّٰلِمِينَ
     translation: (of) the wrongdoers
     transliteration: l-ẓālimīna
 ---

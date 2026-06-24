@@ -1,5 +1,5 @@
 ---
-arabic_ayat: وَمَا ظَلَمۡنٰهُمۡ وَ لٰـكِنۡ كَانُوۡا هُمُ الظّٰلِمِيۡنَ‏
+arabic_ayat: وَمَا ظَلَمۡنَٰهُمۡ وَلَٰكِن كَانُواْ هُمُ ٱلظَّٰلِمِينَ
 sentence_translation: We did not wrong them, but it was they who were the wrongdoers.
 word_by_word:
   1:
@@ -7,15 +7,15 @@ word_by_word:
     translation: And not
     transliteration: wamā
   2:
-    arabic: ظَلَمۡنٰهُمۡ
+    arabic: ظَلَمۡنَٰهُمۡ
     translation: We wronged them
     transliteration: ẓalamnāhum
   3:
-    arabic: وَ لٰـكِنۡ
+    arabic: وَلَٰكِن
     translation: but
     transliteration: walākin
   4:
-    arabic: كَانُوۡا
+    arabic: كَانُواْ
     translation: they were
     transliteration: kānū
   5:
@@ -23,7 +23,7 @@ word_by_word:
     translation: themselves
     transliteration: humu
   6:
-    arabic: الظّٰلِمِيۡنَ‏
+    arabic: ٱلظَّٰلِمِينَ
     translation: wrongdoers
     transliteration: l-ẓālimīna
 ---

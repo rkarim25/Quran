@@ -1,13 +1,13 @@
 ---
-arabic_ayat: اَوۡفُوا الۡـكَيۡلَ وَلَا تَكُوۡنُوۡا مِنَ الۡمُخۡسِرِيۡنَ​ۚ‏
+arabic_ayat: ۞ أَوۡفُواْ ٱلۡكَيۡلَ وَلَا تَكُونُواْ مِنَ ٱلۡمُخۡسِرِينَ
 sentence_translation: Give full measure, and cause no loss ˹to others˺.
 word_by_word:
   1:
-    arabic: ۞ اَوۡفُوا
+    arabic: ۞ أَوۡفُواْ
     translation: Give full
     transliteration: awfū
   2:
-    arabic: الۡـكَيۡلَ
+    arabic: ٱلۡكَيۡلَ
     translation: measure
     transliteration: l-kayla
   3:
@@ -15,7 +15,7 @@ word_by_word:
     translation: and (do) not
     transliteration: walā
   4:
-    arabic: تَكُوۡنُوۡا
+    arabic: تَكُونُواْ
     translation: be
     transliteration: takūnū
   5:
@@ -23,7 +23,7 @@ word_by_word:
     translation: of
     transliteration: mina
   6:
-    arabic: الۡمُخۡسِرِيۡنَ​ۚ‏
+    arabic: ٱلۡمُخۡسِرِينَ
     translation: those who cause loss
     transliteration: l-mukh'sirīna
 ---

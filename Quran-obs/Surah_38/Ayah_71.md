@@ -1,11 +1,10 @@
 ---
-arabic_ayat: "اِذۡ قَالَ رَبُّكَ لِلۡمَلٰٓٮِٕكَةِ اِنِّىۡ خَالِـقٌ ۢ بَشَرًا مِّنۡ\
-  \ طِيۡنٍ‏ \uFEFF\uFEFF"
+arabic_ayat: إِذۡ قَالَ رَبُّكَ لِلۡمَلَٰٓئِكَةِ إِنِّي خَٰلِقُۢ بَشَرٗا مِّن طِينٖ
 sentence_translation: ˹Remember, O  Prophet˺ when your Lord said to the angels, “I
   am going to create a human being from clay.
 word_by_word:
   1:
-    arabic: اِذۡ
+    arabic: إِذۡ
     translation: When
     transliteration: idh
   2:
@@ -17,27 +16,27 @@ word_by_word:
     translation: your Lord
     transliteration: rabbuka
   4:
-    arabic: لِلۡمَلٰٓٮِٕكَةِ
+    arabic: لِلۡمَلَٰٓئِكَةِ
     translation: to the Angels
     transliteration: lil'malāikati
   5:
-    arabic: اِنِّىۡ
+    arabic: إِنِّي
     translation: Indeed, I Am
     transliteration: innī
   6:
-    arabic: خَالِـقٌ ۢ
+    arabic: خَٰلِقُۢ
     translation: going to create
     transliteration: khāliqun
   7:
-    arabic: بَشَرًا
+    arabic: بَشَرٗا
     translation: a human being
     transliteration: basharan
   8:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: from
     transliteration: min
   9:
-    arabic: "طِيۡنٍ‏ \uFEFF\uFEFF"
+    arabic: طِينٖ
     translation: clay
     transliteration: ṭīnin
 ---

@@ -1,47 +1,47 @@
 ---
-arabic_ayat: اِنَّ الشَّيۡطٰنَ لَـكُمۡ عَدُوٌّ فَاتَّخِذُوۡهُ عَدُوًّا ؕ اِنَّمَا
-  يَدۡعُوۡا حِزۡبَهٗ لِيَكُوۡنُوۡا مِنۡ اَصۡحٰبِ السَّعِيۡرِؕ‏
+arabic_ayat: إِنَّ ٱلشَّيۡطَٰنَ لَكُمۡ عَدُوّٞ فَٱتَّخِذُوهُ عَدُوًّاۚ إِنَّمَا يَدۡعُواْ
+  حِزۡبَهُۥ لِيَكُونُواْ مِنۡ أَصۡحَٰبِ ٱلسَّعِيرِ
 sentence_translation: Surely Satan is an enemy to you, so take him as an enemy. He
   only invites his followers to become inmates of the Blaze.
 word_by_word:
   1:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   2:
-    arabic: الشَّيۡطٰنَ
+    arabic: ٱلشَّيۡطَٰنَ
     translation: the Shaitaan
     transliteration: l-shayṭāna
   3:
-    arabic: لَـكُمۡ
+    arabic: لَكُمۡ
     translation: (is) to you
     transliteration: lakum
   4:
-    arabic: عَدُوٌّ
+    arabic: عَدُوّٞ
     translation: an enemy
     transliteration: ʿaduwwun
   5:
-    arabic: فَاتَّخِذُوۡهُ
+    arabic: فَٱتَّخِذُوهُ
     translation: so take him
     transliteration: fa-ittakhidhūhu
   6:
-    arabic: عَدُوًّا ؕ
+    arabic: عَدُوًّاۚ
     translation: (as) an enemy
     transliteration: ʿaduwwan
   7:
-    arabic: اِنَّمَا
+    arabic: إِنَّمَا
     translation: Only
     transliteration: innamā
   8:
-    arabic: يَدۡعُوۡا
+    arabic: يَدۡعُواْ
     translation: he invites
     transliteration: yadʿū
   9:
-    arabic: حِزۡبَهٗ
+    arabic: حِزۡبَهُۥ
     translation: his party
     transliteration: ḥiz'bahu
   10:
-    arabic: لِيَكُوۡنُوۡا
+    arabic: لِيَكُونُواْ
     translation: that they may be
     transliteration: liyakūnū
   11:
@@ -49,11 +49,11 @@ word_by_word:
     translation: among
     transliteration: min
   12:
-    arabic: اَصۡحٰبِ
+    arabic: أَصۡحَٰبِ
     translation: (the) companions
     transliteration: aṣḥābi
   13:
-    arabic: السَّعِيۡرِؕ‏
+    arabic: ٱلسَّعِيرِ
     translation: (of) the Blaze
     transliteration: l-saʿīri
 ---

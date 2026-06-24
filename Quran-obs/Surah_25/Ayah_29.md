@@ -1,15 +1,15 @@
 ---
-arabic_ayat: لَقَدۡ اَضَلَّنِىۡ عَنِ الذِّكۡرِ بَعۡدَ اِذۡ جَآءَنِىۡ​ ؕ وَكَانَ الشَّيۡطٰنُ
-  لِلۡاِنۡسَانِ خَذُوۡلًا‏
+arabic_ayat: لَّقَدۡ أَضَلَّنِي عَنِ ٱلذِّكۡرِ بَعۡدَ إِذۡ جَآءَنِيۗ وَكَانَ ٱلشَّيۡطَٰنُ
+  لِلۡإِنسَٰنِ خَذُولٗا
 sentence_translation: It was he who truly made me stray from the Reminder after it
   had reached me.” And Satan has always betrayed humanity.
 word_by_word:
   1:
-    arabic: لَقَدۡ
+    arabic: لَّقَدۡ
     translation: Verily
     transliteration: laqad
   2:
-    arabic: اَضَلَّنِىۡ
+    arabic: أَضَلَّنِي
     translation: he led me astray
     transliteration: aḍallanī
   3:
@@ -17,7 +17,7 @@ word_by_word:
     translation: from
     transliteration: ʿani
   4:
-    arabic: الذِّكۡرِ
+    arabic: ٱلذِّكۡرِ
     translation: the Reminder
     transliteration: l-dhik'ri
   5:
@@ -25,11 +25,11 @@ word_by_word:
     translation: after
     transliteration: baʿda
   6:
-    arabic: اِذۡ
+    arabic: إِذۡ
     translation: '[when]'
     transliteration: idh
   7:
-    arabic: جَآءَنِىۡ​ ؕ
+    arabic: جَآءَنِيۗ
     translation: it (had) come to me
     transliteration: jāanī
   8:
@@ -37,15 +37,15 @@ word_by_word:
     translation: And is
     transliteration: wakāna
   9:
-    arabic: الشَّيۡطٰنُ
+    arabic: ٱلشَّيۡطَٰنُ
     translation: the Shaitaan
     transliteration: l-shayṭānu
   10:
-    arabic: لِلۡاِنۡسَانِ
+    arabic: لِلۡإِنسَٰنِ
     translation: to the man
     transliteration: lil'insāni
   11:
-    arabic: خَذُوۡلًا‏
+    arabic: خَذُولٗا
     translation: a deserter
     transliteration: khadhūlan
 ---

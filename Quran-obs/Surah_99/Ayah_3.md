@@ -1,5 +1,5 @@
 ---
-arabic_ayat: وَقَالَ الۡاِنۡسَانُ مَا لَهَا​ ۚ‏
+arabic_ayat: وَقَالَ ٱلۡإِنسَٰنُ مَا لَهَا
 sentence_translation: and humanity cries, “What is wrong with it?”—
 word_by_word:
   1:
@@ -7,7 +7,7 @@ word_by_word:
     translation: And says
     transliteration: waqāla
   2:
-    arabic: الۡاِنۡسَانُ
+    arabic: ٱلۡإِنسَٰنُ
     translation: man
     transliteration: l-insānu
   3:
@@ -15,7 +15,7 @@ word_by_word:
     translation: What
     transliteration: mā
   4:
-    arabic: لَهَا​ ۚ‏
+    arabic: لَهَا
     translation: (is) with it
     transliteration: lahā
 ---

@@ -1,20 +1,20 @@
 ---
-arabic_ayat: اَمۡ يَحۡسَبُوۡنَ اَنَّا لَا نَسۡمَعُ سِرَّهُمۡ وَنَجۡوٰٮهُمۡ​ؕ بَلٰى
-  وَرُسُلُنَا لَدَيۡهِمۡ يَكۡتُبُوۡنَ‏
+arabic_ayat: أَمۡ يَحۡسَبُونَ أَنَّا لَا نَسۡمَعُ سِرَّهُمۡ وَنَجۡوَىٰهُمۚ بَلَىٰ
+  وَرُسُلُنَا لَدَيۡهِمۡ يَكۡتُبُونَ
 sentence_translation: Or do they think that We do not hear their ˹evil˺ thoughts and
   secret talks? Yes ˹We do˺! And Our messenger-angels are in their presence, recording
   ˹it all˺.
 word_by_word:
   1:
-    arabic: اَمۡ
+    arabic: أَمۡ
     translation: Or
     transliteration: am
   2:
-    arabic: يَحۡسَبُوۡنَ
+    arabic: يَحۡسَبُونَ
     translation: (do) they think
     transliteration: yaḥsabūna
   3:
-    arabic: اَنَّا
+    arabic: أَنَّا
     translation: that We
     transliteration: annā
   4:
@@ -30,11 +30,11 @@ word_by_word:
     translation: their secret(s)
     transliteration: sirrahum
   7:
-    arabic: وَنَجۡوٰٮهُمۡ​ؕ
+    arabic: وَنَجۡوَىٰهُمۚ
     translation: and their private counsel(s)
     transliteration: wanajwāhum
   8:
-    arabic: بَلٰى
+    arabic: بَلَىٰ
     translation: Nay
     transliteration: balā
   9:
@@ -46,7 +46,7 @@ word_by_word:
     translation: with them
     transliteration: ladayhim
   11:
-    arabic: يَكۡتُبُوۡنَ‏
+    arabic: يَكۡتُبُونَ
     translation: are recording
     transliteration: yaktubūna
 ---

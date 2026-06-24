@@ -1,6 +1,6 @@
 ---
-arabic_ayat: قُلۡ هُوَ الرَّحۡمٰنُ اٰمَنَّا بِهٖ وَعَلَيۡهِ تَوَكَّلۡنَا​ۚ فَسَتَعۡلَمُوۡنَ
-  مَنۡ هُوَ فِىۡ ضَلٰلٍ مُّبِيۡنٍ‏
+arabic_ayat: قُلۡ هُوَ ٱلرَّحۡمَٰنُ ءَامَنَّا بِهِۦ وَعَلَيۡهِ تَوَكَّلۡنَاۖ فَسَتَعۡلَمُونَ
+  مَنۡ هُوَ فِي ضَلَٰلٖ مُّبِينٖ
 sentence_translation: Say, “He is the Most Compassionate—in Him ˹alone˺ we believe,
   and in Him ˹alone˺ we trust. You will soon know who is clearly astray.”
 word_by_word:
@@ -13,15 +13,15 @@ word_by_word:
     translation: He
     transliteration: huwa
   3:
-    arabic: الرَّحۡمٰنُ
+    arabic: ٱلرَّحۡمَٰنُ ءَ
     translation: (is) the Most Gracious
     transliteration: l-raḥmānu
   4:
-    arabic: اٰمَنَّا
+    arabic: امَنَّا
     translation: we believe
     transliteration: āmannā
   5:
-    arabic: بِهٖ
+    arabic: بِهِۦ
     translation: in Him
     transliteration: bihi
   6:
@@ -29,11 +29,11 @@ word_by_word:
     translation: and upon Him
     transliteration: waʿalayhi
   7:
-    arabic: تَوَكَّلۡنَا​ۚ
+    arabic: تَوَكَّلۡنَاۖ
     translation: we put (our) trust
     transliteration: tawakkalnā
   8:
-    arabic: فَسَتَعۡلَمُوۡنَ
+    arabic: فَسَتَعۡلَمُونَ
     translation: So you will know
     transliteration: fasataʿlamūna
   9:
@@ -45,15 +45,15 @@ word_by_word:
     translation: (is) it
     transliteration: huwa
   11:
-    arabic: فِىۡ
+    arabic: فِي
     translation: (that is) in
     transliteration: fī
   12:
-    arabic: ضَلٰلٍ
+    arabic: ضَلَٰلٖ
     translation: error
     transliteration: ḍalālin
   13:
-    arabic: مُّبِيۡنٍ‏
+    arabic: مُّبِينٖ
     translation: clear
     transliteration: mubīnin
 ---

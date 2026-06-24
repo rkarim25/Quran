@@ -1,15 +1,15 @@
 ---
-arabic_ayat: يٰۤاَيُّهَا النَّاسُ قَدۡ جَآءَتۡكُمۡ مَّوۡعِظَةٌ مِّنۡ رَّبِّكُمۡ وَشِفَآءٌ
-  لِّمَا فِى الصُّدُوۡرِۙ  وَهُدًى وَّرَحۡمَةٌ لِّـلۡمُؤۡمِنِيۡنَ‏
+arabic_ayat: يَٰٓأَيُّهَا ٱلنَّاسُ قَدۡ جَآءَتۡكُم مَّوۡعِظَةٞ مِّن رَّبِّكُمۡ وَشِفَآءٞ
+  لِّمَا فِي ٱلصُّدُورِ وَهُدٗى وَرَحۡمَةٞ لِّلۡمُؤۡمِنِينَ
 sentence_translation: O humanity! Indeed, there has come to you a warning from your
   Lord, a cure for what is in the hearts, a guide, and a mercy for the believers.
 word_by_word:
   1:
-    arabic: يٰۤاَيُّهَا
+    arabic: يَٰٓأَيُّهَا
     translation: O mankind
     transliteration: yāayyuhā
   2:
-    arabic: النَّاسُ
+    arabic: ٱلنَّاسُ
     translation: O mankind
     transliteration: l-nāsu
   3:
@@ -17,15 +17,15 @@ word_by_word:
     translation: Verily
     transliteration: qad
   4:
-    arabic: جَآءَتۡكُمۡ
+    arabic: جَآءَتۡكُم
     translation: has come to you
     transliteration: jāatkum
   5:
-    arabic: مَّوۡعِظَةٌ
+    arabic: مَّوۡعِظَةٞ
     translation: an instruction
     transliteration: mawʿiẓatun
   6:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: from
     transliteration: min
   7:
@@ -33,7 +33,7 @@ word_by_word:
     translation: your Lord
     transliteration: rabbikum
   8:
-    arabic: وَشِفَآءٌ
+    arabic: وَشِفَآءٞ
     translation: and a healing
     transliteration: washifāon
   9:
@@ -41,23 +41,23 @@ word_by_word:
     translation: for what
     transliteration: limā
   10:
-    arabic: فِى
+    arabic: فِي
     translation: (is) in
     transliteration: fī
   11:
-    arabic: الصُّدُوۡرِۙ 
+    arabic: ٱلصُّدُورِ
     translation: your breasts
     transliteration: l-ṣudūri
   12:
-    arabic: وَهُدًى
+    arabic: وَهُدٗى
     translation: and guidance
     transliteration: wahudan
   13:
-    arabic: وَّرَحۡمَةٌ
+    arabic: وَرَحۡمَةٞ
     translation: and mercy
     transliteration: waraḥmatun
   14:
-    arabic: لِّـلۡمُؤۡمِنِيۡنَ‏
+    arabic: لِّلۡمُؤۡمِنِينَ
     translation: for the believers
     transliteration: lil'mu'minīna
 ---

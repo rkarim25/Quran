@@ -1,10 +1,9 @@
 ---
-arabic_ayat: "قُلۡ مَنۡ رَّبُّ السَّمٰوٰتِ وَالۡاَرۡضِؕ قُلِ اللّٰهُ​ؕ قُلۡ اَفَاتَّخَذۡتُمۡ\
-  \ مِّنۡ دُوۡنِهٖۤ اَوۡلِيَآءَ لَا يَمۡلِكُوۡنَ لِاَنۡفُسِهِمۡ نَفۡعًا وَّلَا ضَرًّا​ؕ\
-  \ قُلۡ هَلۡ يَسۡتَوِى الۡاَعۡمٰى وَالۡبَصِيۡرُ ۙ اَمۡ هَلۡ تَسۡتَوِى الظُّلُمٰتُ\
-  \ وَالنُّوۡرُ ۚ اَمۡ جَعَلُوۡا لِلّٰهِ شُرَكَآءَ خَلَقُوۡا كَخَلۡقِهٖ فَتَشَابَهَ\
-  \ الۡخَـلۡقُ عَلَيۡهِمۡ​ؕ قُلِ اللّٰهُ خَالِـقُ كُلِّ شَىۡءٍ وَّهُوَ الۡوَاحِدُ\
-  \ الۡقَهَّارُ‏ \uFEFF\uFEFF"
+arabic_ayat: قُلۡ مَن رَّبُّ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِ قُلِ ٱللَّهُۚ قُلۡ أَفَٱتَّخَذۡتُم
+  مِّن دُونِهِۦٓ أَوۡلِيَآءَ لَا يَمۡلِكُونَ لِأَنفُسِهِمۡ نَفۡعٗا وَلَا ضَرّٗاۚ
+  قُلۡ هَلۡ يَسۡتَوِي ٱلۡأَعۡمَىٰ وَٱلۡبَصِيرُ أَمۡ هَلۡ تَسۡتَوِي ٱلظُّلُمَٰتُ وَٱلنُّورُۗ
+  أَمۡ جَعَلُواْ لِلَّهِ شُرَكَآءَ خَلَقُواْ كَخَلۡقِهِۦ فَتَشَٰبَهَ ٱلۡخَلۡقُ عَلَيۡهِمۡۚ
+  قُلِ ٱللَّهُ خَٰلِقُ كُلِّ شَيۡءٖ وَهُوَ ٱلۡوَٰحِدُ ٱلۡقَهَّٰرُ
 sentence_translation: Ask ˹them, O  Prophet˺, “Who is the Lord of the heavens and
   the earth?” Say, “Allah!” Ask ˹them˺, “Why ˹then˺ have you taken besides Him lords
   who cannot even benefit or protect themselves?” Say, “Can the blind and the sighted
@@ -18,7 +17,7 @@ word_by_word:
     translation: Say
     transliteration: qul
   2:
-    arabic: مَنۡ
+    arabic: مَن
     translation: Who
     transliteration: man
   3:
@@ -26,11 +25,11 @@ word_by_word:
     translation: (is) the Lord
     transliteration: rabbu
   4:
-    arabic: السَّمٰوٰتِ
+    arabic: ٱلسَّمَٰوَٰتِ
     translation: (of) the heavens
     transliteration: l-samāwāti
   5:
-    arabic: وَالۡاَرۡضِؕ
+    arabic: وَٱلۡأَرۡضِ
     translation: and the earth
     transliteration: wal-arḍi
   6:
@@ -38,7 +37,7 @@ word_by_word:
     translation: Say
     transliteration: quli
   7:
-    arabic: اللّٰهُ​ؕ
+    arabic: ٱللَّهُۚ
     translation: Allah
     transliteration: l-lahu
   8:
@@ -46,19 +45,19 @@ word_by_word:
     translation: Say
     transliteration: qul
   9:
-    arabic: اَفَاتَّخَذۡتُمۡ
+    arabic: أَفَٱتَّخَذۡتُم
     translation: Have you then taken
     transliteration: afa-ittakhadhtum
   10:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: from
     transliteration: min
   11:
-    arabic: دُوۡنِهٖۤ
+    arabic: دُونِهِۦٓ
     translation: besides Him
     transliteration: dūnihi
   12:
-    arabic: اَوۡلِيَآءَ
+    arabic: أَوۡلِيَآءَ
     translation: protectors
     transliteration: awliyāa
   13:
@@ -66,23 +65,23 @@ word_by_word:
     translation: not
     transliteration: lā
   14:
-    arabic: يَمۡلِكُوۡنَ
+    arabic: يَمۡلِكُونَ
     translation: they have power
     transliteration: yamlikūna
   15:
-    arabic: لِاَنۡفُسِهِمۡ
+    arabic: لِأَنفُسِهِمۡ
     translation: for themselves
     transliteration: li-anfusihim
   16:
-    arabic: نَفۡعًا
+    arabic: نَفۡعٗا
     translation: (to) benefit
     transliteration: nafʿan
   17:
-    arabic: وَّلَا
+    arabic: وَلَا
     translation: and not
     transliteration: walā
   18:
-    arabic: ضَرًّا​ؕ
+    arabic: ضَرّٗاۚ
     translation: (to) harm
     transliteration: ḍarran
   19:
@@ -94,19 +93,19 @@ word_by_word:
     translation: Is
     transliteration: hal
   21:
-    arabic: يَسۡتَوِى
+    arabic: يَسۡتَوِي
     translation: equal
     transliteration: yastawī
   22:
-    arabic: الۡاَعۡمٰى
+    arabic: ٱلۡأَعۡمَىٰ
     translation: the blind
     transliteration: l-aʿmā
   23:
-    arabic: وَالۡبَصِيۡرُ ۙ
+    arabic: وَٱلۡبَصِيرُ
     translation: and the seeing
     transliteration: wal-baṣīru
   24:
-    arabic: اَمۡ
+    arabic: أَمۡ
     translation: Or
     transliteration: am
   25:
@@ -114,27 +113,27 @@ word_by_word:
     translation: is
     transliteration: hal
   26:
-    arabic: تَسۡتَوِى
+    arabic: تَسۡتَوِي
     translation: equal
     transliteration: tastawī
   27:
-    arabic: الظُّلُمٰتُ
+    arabic: ٱلظُّلُمَٰتُ
     translation: the darkness[es]
     transliteration: l-ẓulumātu
   28:
-    arabic: وَالنُّوۡرُ ۚ
+    arabic: وَٱلنُّورُۗ
     translation: and the light
     transliteration: wal-nūru
   29:
-    arabic: اَمۡ
+    arabic: أَمۡ
     translation: Or
     transliteration: am
   30:
-    arabic: جَعَلُوۡا
+    arabic: جَعَلُواْ
     translation: they attribute
     transliteration: jaʿalū
   31:
-    arabic: لِلّٰهِ
+    arabic: لِلَّهِ
     translation: to Allah
     transliteration: lillahi
   32:
@@ -142,23 +141,23 @@ word_by_word:
     translation: partners
     transliteration: shurakāa
   33:
-    arabic: خَلَقُوۡا
+    arabic: خَلَقُواْ
     translation: who created
     transliteration: khalaqū
   34:
-    arabic: كَخَلۡقِهٖ
+    arabic: كَخَلۡقِهِۦ
     translation: like His creation
     transliteration: kakhalqihi
   35:
-    arabic: فَتَشَابَهَ
+    arabic: فَتَشَٰبَهَ
     translation: so that seemed alike
     transliteration: fatashābaha
   36:
-    arabic: الۡخَـلۡقُ
+    arabic: ٱلۡخَلۡقُ
     translation: the creation
     transliteration: l-khalqu
   37:
-    arabic: عَلَيۡهِمۡ​ؕ
+    arabic: عَلَيۡهِمۡۚ
     translation: to them
     transliteration: ʿalayhim
   38:
@@ -166,11 +165,11 @@ word_by_word:
     translation: Say
     transliteration: quli
   39:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   40:
-    arabic: خَالِـقُ
+    arabic: خَٰلِقُ
     translation: (is) the Creator
     transliteration: khāliqu
   41:
@@ -178,19 +177,19 @@ word_by_word:
     translation: of all
     transliteration: kulli
   42:
-    arabic: شَىۡءٍ
+    arabic: شَيۡءٖ
     translation: things
     transliteration: shayin
   43:
-    arabic: وَّهُوَ
+    arabic: وَهُوَ
     translation: and He
     transliteration: wahuwa
   44:
-    arabic: الۡوَاحِدُ
+    arabic: ٱلۡوَٰحِدُ
     translation: (is) the One
     transliteration: l-wāḥidu
   45:
-    arabic: "الۡقَهَّارُ‏ \uFEFF\uFEFF"
+    arabic: ٱلۡقَهَّٰرُ
     translation: the Irresistible
     transliteration: l-qahāru
 ---

@@ -1,7 +1,7 @@
 ---
-arabic_ayat: وَيَوۡمَ نَـبۡعَثُ فِىۡ كُلِّ اُمَّةٍ شَهِيۡدًا عَلَيۡهِمۡ مِّنۡ اَنۡفُسِهِمۡ​
-  وَجِئۡنَا بِكَ شَهِيۡدًا عَلٰى هٰٓؤُلَاۤءِ ​ؕ وَنَزَّلۡنَا عَلَيۡكَ الۡـكِتٰبَ تِبۡيَانًا
-  لِّـكُلِّ شَىۡءٍ وَّ هُدًى وَّرَحۡمَةً وَّبُشۡرٰى لِلۡمُسۡلِمِيۡنَ‏
+arabic_ayat: وَيَوۡمَ نَبۡعَثُ فِي كُلِّ أُمَّةٖ شَهِيدًا عَلَيۡهِم مِّنۡ أَنفُسِهِمۡۖ
+  وَجِئۡنَا بِكَ شَهِيدًا عَلَىٰ هَٰٓؤُلَآءِۚ وَنَزَّلۡنَا عَلَيۡكَ ٱلۡكِتَٰبَ تِبۡيَٰنٗا
+  لِّكُلِّ شَيۡءٖ وَهُدٗى وَرَحۡمَةٗ وَبُشۡرَىٰ لِلۡمُسۡلِمِينَ
 sentence_translation: ˹Consider, O  Prophet,˺ the Day We will call against every faith-community
   a witness of their own. And We will call you to be a witness against these ˹people
   of yours˺. We have revealed to you the Book as an explanation of all things, a guide,
@@ -12,11 +12,11 @@ word_by_word:
     translation: And the Day
     transliteration: wayawma
   2:
-    arabic: نَـبۡعَثُ
+    arabic: نَبۡعَثُ
     translation: We will resurrect
     transliteration: nabʿathu
   3:
-    arabic: فِىۡ
+    arabic: فِي
     translation: among
     transliteration: fī
   4:
@@ -24,15 +24,15 @@ word_by_word:
     translation: every
     transliteration: kulli
   5:
-    arabic: اُمَّةٍ
+    arabic: أُمَّةٖ
     translation: nation
     transliteration: ummatin
   6:
-    arabic: شَهِيۡدًا
+    arabic: شَهِيدًا
     translation: a witness
     transliteration: shahīdan
   7:
-    arabic: عَلَيۡهِمۡ
+    arabic: عَلَيۡهِم
     translation: over them
     transliteration: ʿalayhim
   8:
@@ -40,7 +40,7 @@ word_by_word:
     translation: from
     transliteration: min
   9:
-    arabic: اَنۡفُسِهِمۡ​
+    arabic: أَنفُسِهِمۡۖ
     translation: themselves
     transliteration: anfusihim
   10:
@@ -52,15 +52,15 @@ word_by_word:
     translation: you
     transliteration: bika
   12:
-    arabic: شَهِيۡدًا
+    arabic: شَهِيدًا
     translation: (as) a witness
     transliteration: shahīdan
   13:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: over
     transliteration: ʿalā
   14:
-    arabic: هٰٓؤُلَاۤءِ ​ؕ
+    arabic: هَٰٓؤُلَآءِۚ
     translation: these
     transliteration: hāulāi
   15:
@@ -72,35 +72,35 @@ word_by_word:
     translation: to you
     transliteration: ʿalayka
   17:
-    arabic: الۡـكِتٰبَ
+    arabic: ٱلۡكِتَٰبَ
     translation: the Book
     transliteration: l-kitāba
   18:
-    arabic: تِبۡيَانًا
+    arabic: تِبۡيَٰنٗا
     translation: (as) a clarification
     transliteration: tib'yānan
   19:
-    arabic: لِّـكُلِّ
+    arabic: لِّكُلِّ
     translation: of every
     transliteration: likulli
   20:
-    arabic: شَىۡءٍ
+    arabic: شَيۡءٖ
     translation: thing
     transliteration: shayin
   21:
-    arabic: وَّ هُدًى
+    arabic: وَهُدٗى
     translation: and a guidance
     transliteration: wahudan
   22:
-    arabic: وَّرَحۡمَةً
+    arabic: وَرَحۡمَةٗ
     translation: and mercy
     transliteration: waraḥmatan
   23:
-    arabic: وَّبُشۡرٰى
+    arabic: وَبُشۡرَىٰ
     translation: and glad tidings
     transliteration: wabush'rā
   24:
-    arabic: لِلۡمُسۡلِمِيۡنَ‏
+    arabic: لِلۡمُسۡلِمِينَ
     translation: for the Muslims
     transliteration: lil'mus'limīna
 ---

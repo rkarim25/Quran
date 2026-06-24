@@ -1,27 +1,27 @@
 ---
-arabic_ayat: وَاَلۡقَوۡا اِلَى اللّٰهِ يَوۡمَٮِٕذٍ ۨالسَّلَمَ​ وَضَلَّ عَنۡهُمۡ مَّا
-  كَانُوۡا يَفۡتَرُوۡنَ‏
+arabic_ayat: وَأَلۡقَوۡاْ إِلَى ٱللَّهِ يَوۡمَئِذٍ ٱلسَّلَمَۖ وَضَلَّ عَنۡهُم مَّا
+  كَانُواْ يَفۡتَرُونَ
 sentence_translation: They will offer ˹full˺ submission to Allah on that Day, and
   whatever ˹gods˺ they fabricated will fail them.
 word_by_word:
   1:
-    arabic: وَاَلۡقَوۡا
+    arabic: وَأَلۡقَوۡاْ
     translation: And they (will) offer
     transliteration: wa-alqaw
   2:
-    arabic: اِلَى
+    arabic: إِلَى
     translation: to
     transliteration: ilā
   3:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   4:
-    arabic: يَوۡمَٮِٕذٍ
+    arabic: يَوۡمَئِذٍ
     translation: (on) that Day
     transliteration: yawma-idhin
   5:
-    arabic: ۨالسَّلَمَ​
+    arabic: ٱلسَّلَمَۖ
     translation: the submission
     transliteration: l-salama
   6:
@@ -29,7 +29,7 @@ word_by_word:
     translation: and (is) lost
     transliteration: waḍalla
   7:
-    arabic: عَنۡهُمۡ
+    arabic: عَنۡهُم
     translation: from them
     transliteration: ʿanhum
   8:
@@ -37,11 +37,11 @@ word_by_word:
     translation: what
     transliteration: mā
   9:
-    arabic: كَانُوۡا
+    arabic: كَانُواْ
     translation: they used (to)
     transliteration: kānū
   10:
-    arabic: يَفۡتَرُوۡنَ‏
+    arabic: يَفۡتَرُونَ
     translation: invent
     transliteration: yaftarūna
 ---

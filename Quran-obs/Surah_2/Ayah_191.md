@@ -1,15 +1,15 @@
 ---
-arabic_ayat: وَاقۡتُلُوۡهُمۡ حَيۡثُ ثَقِفۡتُمُوۡهُمۡ وَاَخۡرِجُوۡهُمۡ مِّنۡ حَيۡثُ
-  اَخۡرَجُوۡكُمۡ​ وَالۡفِتۡنَةُ اَشَدُّ مِنَ الۡقَتۡلِۚ وَلَا تُقٰتِلُوۡهُمۡ عِنۡدَ
-  الۡمَسۡجِدِ الۡحَـرَامِ حَتّٰى يُقٰتِلُوۡكُمۡ فِيۡهِ​ۚ فَاِنۡ قٰتَلُوۡكُمۡ فَاقۡتُلُوۡهُمۡؕ
-  كَذٰلِكَ جَزَآءُ الۡكٰفِرِيۡنَ‏
+arabic_ayat: وَٱقۡتُلُوهُمۡ حَيۡثُ ثَقِفۡتُمُوهُمۡ وَأَخۡرِجُوهُم مِّنۡ حَيۡثُ أَخۡرَجُوكُمۡۚ
+  وَٱلۡفِتۡنَةُ أَشَدُّ مِنَ ٱلۡقَتۡلِۚ وَلَا تُقَٰتِلُوهُمۡ عِندَ ٱلۡمَسۡجِدِ ٱلۡحَرَامِ
+  حَتَّىٰ يُقَٰتِلُوكُمۡ فِيهِۖ فَإِن قَٰتَلُوكُمۡ فَٱقۡتُلُوهُمۡۗ كَذَٰلِكَ جَزَآءُ
+  ٱلۡكَٰفِرِينَ
 sentence_translation: Kill them wherever you come upon them and drive them out of
   the places from which they have driven you out. For persecution is far worse than
   killing. And do not fight them at the Sacred Mosque unless they attack you there.
   If they do so, then fight them—that is the reward of the disbelievers.
 word_by_word:
   1:
-    arabic: وَاقۡتُلُوۡهُمۡ
+    arabic: وَٱقۡتُلُوهُمۡ
     translation: And kill them
     transliteration: wa-uq'tulūhum
   2:
@@ -17,11 +17,11 @@ word_by_word:
     translation: wherever
     transliteration: ḥaythu
   3:
-    arabic: ثَقِفۡتُمُوۡهُمۡ
+    arabic: ثَقِفۡتُمُوهُمۡ
     translation: you find them
     transliteration: thaqif'tumūhum
   4:
-    arabic: وَاَخۡرِجُوۡهُمۡ
+    arabic: وَأَخۡرِجُوهُم
     translation: and drive them out
     transliteration: wa-akhrijūhum
   5:
@@ -33,15 +33,15 @@ word_by_word:
     translation: wherever
     transliteration: ḥaythu
   7:
-    arabic: اَخۡرَجُوۡكُمۡ​
+    arabic: أَخۡرَجُوكُمۡۚ
     translation: they drove you out
     transliteration: akhrajūkum
   8:
-    arabic: وَالۡفِتۡنَةُ
+    arabic: وَٱلۡفِتۡنَةُ
     translation: and [the] oppression
     transliteration: wal-fit'natu
   9:
-    arabic: اَشَدُّ
+    arabic: أَشَدُّ
     translation: (is) worse
     transliteration: ashaddu
   10:
@@ -49,7 +49,7 @@ word_by_word:
     translation: than
     transliteration: mina
   11:
-    arabic: الۡقَتۡلِۚ
+    arabic: ٱلۡقَتۡلِۚ
     translation: '[the] killing'
     transliteration: l-qatli
   12:
@@ -57,47 +57,47 @@ word_by_word:
     translation: And (do) not
     transliteration: walā
   13:
-    arabic: تُقٰتِلُوۡهُمۡ
+    arabic: تُقَٰتِلُوهُمۡ
     translation: fight them
     transliteration: tuqātilūhum
   14:
-    arabic: عِنۡدَ
+    arabic: عِندَ
     translation: near
     transliteration: ʿinda
   15:
-    arabic: الۡمَسۡجِدِ
+    arabic: ٱلۡمَسۡجِدِ
     translation: Al-Masjid
     transliteration: l-masjidi
   16:
-    arabic: الۡحَـرَامِ
+    arabic: ٱلۡحَرَامِ
     translation: Al-Haraam
     transliteration: l-ḥarāmi
   17:
-    arabic: حَتّٰى
+    arabic: حَتَّىٰ
     translation: until
     transliteration: ḥattā
   18:
-    arabic: يُقٰتِلُوۡكُمۡ
+    arabic: يُقَٰتِلُوكُمۡ
     translation: they fight you
     transliteration: yuqātilūkum
   19:
-    arabic: فِيۡهِ​ۚ
+    arabic: فِيهِۖ
     translation: in it
     transliteration: fīhi
   20:
-    arabic: فَاِنۡ
+    arabic: فَإِن
     translation: Then if
     transliteration: fa-in
   21:
-    arabic: قٰتَلُوۡكُمۡ
+    arabic: قَٰتَلُوكُمۡ
     translation: they fight you
     transliteration: qātalūkum
   22:
-    arabic: فَاقۡتُلُوۡهُمۡؕ
+    arabic: فَٱقۡتُلُوهُمۡۗ
     translation: then kill them
     transliteration: fa-uq'tulūhum
   23:
-    arabic: كَذٰلِكَ
+    arabic: كَذَٰلِكَ
     translation: Such
     transliteration: kadhālika
   24:
@@ -105,7 +105,7 @@ word_by_word:
     translation: (is the) reward
     transliteration: jazāu
   25:
-    arabic: الۡكٰفِرِيۡنَ‏
+    arabic: ٱلۡكَٰفِرِينَ
     translation: (of) the disbelievers
     transliteration: l-kāfirīna
 ---

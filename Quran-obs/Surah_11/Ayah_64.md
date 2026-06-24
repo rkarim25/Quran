@@ -1,16 +1,16 @@
 ---
-arabic_ayat: وَيٰقَوۡمِ هٰذِهٖ نَاقَةُ اللّٰهِ لَـكُمۡ اٰيَةً فَذَرُوۡهَا تَاۡكُلۡ
-  فِىۡۤ اَرۡضِ اللّٰهِ وَلَا تَمَسُّوۡهَا بِسُوۡٓءٍ فَيَاۡخُذَكُمۡ عَذَابٌ قَرِيۡبٌ‏
+arabic_ayat: وَيَٰقَوۡمِ هَٰذِهِۦ نَاقَةُ ٱللَّهِ لَكُمۡ ءَايَةٗۖ فَذَرُوهَا تَأۡكُلۡ
+  فِيٓ أَرۡضِ ٱللَّهِۖ وَلَا تَمَسُّوهَا بِسُوٓءٖ فَيَأۡخُذَكُمۡ عَذَابٞ قَرِيبٞ
 sentence_translation: And O  my people! This she-camel of Allah is a sign for you. So
   leave her to graze ˹freely˺ on Allah’s earth and do her no harm, or a swift punishment
   will overtake you!”
 word_by_word:
   1:
-    arabic: وَيٰقَوۡمِ
+    arabic: وَيَٰقَوۡمِ
     translation: And O my people
     transliteration: wayāqawmi
   2:
-    arabic: هٰذِهٖ
+    arabic: هَٰذِهِۦ
     translation: This
     transliteration: hādhihi
   3:
@@ -18,35 +18,35 @@ word_by_word:
     translation: she-camel
     transliteration: nāqatu
   4:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (of) Allah
     transliteration: l-lahi
   5:
-    arabic: لَـكُمۡ
+    arabic: لَكُمۡ ءَ
     translation: (is) for you
     transliteration: lakum
   6:
-    arabic: اٰيَةً
+    arabic: ايَةٗۖ
     translation: a Sign
     transliteration: āyatan
   7:
-    arabic: فَذَرُوۡهَا
+    arabic: فَذَرُوهَا
     translation: so leave her
     transliteration: fadharūhā
   8:
-    arabic: تَاۡكُلۡ
+    arabic: تَأۡكُلۡ
     translation: to eat
     transliteration: takul
   9:
-    arabic: فِىۡۤ
+    arabic: فِيٓ
     translation: in
     transliteration: fī
   10:
-    arabic: اَرۡضِ
+    arabic: أَرۡضِ
     translation: the earth
     transliteration: arḍi
   11:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِۖ
     translation: (of) Allah
     transliteration: l-lahi
   12:
@@ -54,23 +54,23 @@ word_by_word:
     translation: and (do) not
     transliteration: walā
   13:
-    arabic: تَمَسُّوۡهَا
+    arabic: تَمَسُّوهَا
     translation: touch her
     transliteration: tamassūhā
   14:
-    arabic: بِسُوۡٓءٍ
+    arabic: بِسُوٓءٖ
     translation: with harm
     transliteration: bisūin
   15:
-    arabic: فَيَاۡخُذَكُمۡ
+    arabic: فَيَأۡخُذَكُمۡ
     translation: lest will seize you
     transliteration: fayakhudhakum
   16:
-    arabic: عَذَابٌ
+    arabic: عَذَابٞ
     translation: a punishment
     transliteration: ʿadhābun
   17:
-    arabic: قَرِيۡبٌ‏
+    arabic: قَرِيبٞ
     translation: impending
     transliteration: qarībun
 ---

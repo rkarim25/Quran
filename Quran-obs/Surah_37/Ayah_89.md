@@ -1,5 +1,5 @@
 ---
-arabic_ayat: فَقَالَ اِنِّىۡ سَقِيۡمٌ‏
+arabic_ayat: فَقَالَ إِنِّي سَقِيمٞ
 sentence_translation: then said, “I am really sick.”
 word_by_word:
   1:
@@ -7,11 +7,11 @@ word_by_word:
     translation: And he said
     transliteration: faqāla
   2:
-    arabic: اِنِّىۡ
+    arabic: إِنِّي
     translation: Indeed, I am
     transliteration: innī
   3:
-    arabic: سَقِيۡمٌ‏
+    arabic: سَقِيمٞ
     translation: sick
     transliteration: saqīmun
 ---

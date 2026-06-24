@@ -1,6 +1,6 @@
 ---
-arabic_ayat: وَتِلۡكَ عَادٌ​ جَحَدُوۡا بِاٰيٰتِ رَبِّهِمۡ وَعَصَوۡا رُسُلَهٗ وَاتَّبَعُوۡۤا
-  اَمۡرَ كُلِّ جَبَّارٍ عَنِيۡدٍ‏
+arabic_ayat: وَتِلۡكَ عَادٞۖ جَحَدُواْ بِـَٔايَٰتِ رَبِّهِمۡ وَعَصَوۡاْ رُسُلَهُۥ
+  وَٱتَّبَعُوٓاْ أَمۡرَ كُلِّ جَبَّارٍ عَنِيدٖ
 sentence_translation: That was ’Âd. They denied the signs of their Lord, disobeyed
   His messengers, and followed the command of every stubborn tyrant.
 word_by_word:
@@ -9,15 +9,15 @@ word_by_word:
     translation: And this
     transliteration: watil'ka
   2:
-    arabic: عَادٌ​
+    arabic: عَادٞۖ
     translation: (was) Aad
     transliteration: ʿādun
   3:
-    arabic: جَحَدُوۡا
+    arabic: جَحَدُواْ
     translation: they rejected
     transliteration: jaḥadū
   4:
-    arabic: بِاٰيٰتِ
+    arabic: بِـَٔايَٰتِ
     translation: (the) Signs
     transliteration: biāyāti
   5:
@@ -25,19 +25,19 @@ word_by_word:
     translation: (of) their Lord
     transliteration: rabbihim
   6:
-    arabic: وَعَصَوۡا
+    arabic: وَعَصَوۡاْ
     translation: and disobeyed
     transliteration: waʿaṣaw
   7:
-    arabic: رُسُلَهٗ
+    arabic: رُسُلَهُۥ
     translation: His Messengers
     transliteration: rusulahu
   8:
-    arabic: وَاتَّبَعُوۡۤا
+    arabic: وَٱتَّبَعُوٓاْ
     translation: and followed
     transliteration: wa-ittabaʿū
   9:
-    arabic: اَمۡرَ
+    arabic: أَمۡرَ
     translation: (the) command
     transliteration: amra
   10:
@@ -49,7 +49,7 @@ word_by_word:
     translation: tyrant
     transliteration: jabbārin
   12:
-    arabic: عَنِيۡدٍ‏
+    arabic: عَنِيدٖ
     translation: obstinate
     transliteration: ʿanīdin
 ---

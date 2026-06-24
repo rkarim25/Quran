@@ -1,6 +1,6 @@
 ---
-arabic_ayat: قَالَ رَبِّ بِمَاۤ اَغۡوَيۡتَنِىۡ لَاُزَيِّنَنَّ لَهُمۡ فِى الۡاَرۡضِ
-  وَلَاُغۡوِيَـنَّهُمۡ اَجۡمَعِيۡنَۙ‏
+arabic_ayat: قَالَ رَبِّ بِمَآ أَغۡوَيۡتَنِي لَأُزَيِّنَنَّ لَهُمۡ فِي ٱلۡأَرۡضِ
+  وَلَأُغۡوِيَنَّهُمۡ أَجۡمَعِينَ
 sentence_translation: Satan responded, “My Lord! For allowing me to stray I will surely
   tempt them on earth and mislead them all together,
 word_by_word:
@@ -13,15 +13,15 @@ word_by_word:
     translation: My Lord
     transliteration: rabbi
   3:
-    arabic: بِمَاۤ
+    arabic: بِمَآ
     translation: Because
     transliteration: bimā
   4:
-    arabic: اَغۡوَيۡتَنِىۡ
+    arabic: أَغۡوَيۡتَنِي
     translation: You misled me
     transliteration: aghwaytanī
   5:
-    arabic: لَاُزَيِّنَنَّ
+    arabic: لَأُزَيِّنَنَّ
     translation: surely, I will make (evil) fair-seeming
     transliteration: la-uzayyinanna
   6:
@@ -29,19 +29,19 @@ word_by_word:
     translation: to them
     transliteration: lahum
   7:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   8:
-    arabic: الۡاَرۡضِ
+    arabic: ٱلۡأَرۡضِ
     translation: the earth
     transliteration: l-arḍi
   9:
-    arabic: وَلَاُغۡوِيَـنَّهُمۡ
+    arabic: وَلَأُغۡوِيَنَّهُمۡ
     translation: and I will mislead them
     transliteration: wala-ugh'wiyannahum
   10:
-    arabic: اَجۡمَعِيۡنَۙ‏
+    arabic: أَجۡمَعِينَ
     translation: all
     transliteration: ajmaʿīna
 ---

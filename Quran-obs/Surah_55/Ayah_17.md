@@ -1,5 +1,5 @@
 ---
-arabic_ayat: رَبُّ الۡمَشۡرِقَيۡنِ وَ رَبُّ الۡمَغۡرِبَيۡنِ​ۚ‏
+arabic_ayat: رَبُّ ٱلۡمَشۡرِقَيۡنِ وَرَبُّ ٱلۡمَغۡرِبَيۡنِ
 sentence_translation: ˹He is˺ Lord of the two easts and the two wests.
 word_by_word:
   1:
@@ -7,15 +7,15 @@ word_by_word:
     translation: Lord
     transliteration: rabbu
   2:
-    arabic: الۡمَشۡرِقَيۡنِ
+    arabic: ٱلۡمَشۡرِقَيۡنِ
     translation: (of) the two Easts
     transliteration: l-mashriqayni
   3:
-    arabic: وَ رَبُّ
+    arabic: وَرَبُّ
     translation: and Lord
     transliteration: warabbu
   4:
-    arabic: الۡمَغۡرِبَيۡنِ​ۚ‏
+    arabic: ٱلۡمَغۡرِبَيۡنِ
     translation: (of) the two Wests
     transliteration: l-maghribayni
 ---

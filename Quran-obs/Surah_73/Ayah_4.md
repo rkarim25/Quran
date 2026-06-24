@@ -1,10 +1,10 @@
 ---
-arabic_ayat: اَوۡ زِدۡ عَلَيۡهِ وَرَتِّلِ الۡقُرۡاٰنَ تَرۡتِيۡلًا ؕ‏
+arabic_ayat: أَوۡ زِدۡ عَلَيۡهِ وَرَتِّلِ ٱلۡقُرۡءَانَ تَرۡتِيلًا
 sentence_translation: or a little more—and recite the Quran ˹properly˺ in a measured
   way.
 word_by_word:
   1:
-    arabic: اَوۡ
+    arabic: أَوۡ
     translation: Or
     transliteration: aw
   2:
@@ -20,11 +20,11 @@ word_by_word:
     translation: and recite
     transliteration: warattili
   5:
-    arabic: الۡقُرۡاٰنَ
+    arabic: ٱلۡقُرۡءَانَ
     translation: the Quran
     transliteration: l-qur'āna
   6:
-    arabic: تَرۡتِيۡلًا ؕ‏
+    arabic: تَرۡتِيلًا
     translation: (with) measured rhythmic recitation
     transliteration: tartīlan
 ---

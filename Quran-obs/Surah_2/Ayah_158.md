@@ -1,34 +1,34 @@
 ---
-arabic_ayat: اِنَّ الصَّفَا وَالۡمَرۡوَةَ مِنۡ شَعَآٮِٕرِ اللّٰهِۚ فَمَنۡ حَجَّ الۡبَيۡتَ
-  اَوِ اعۡتَمَرَ فَلَا جُنَاحَ عَلَيۡهِ اَنۡ يَّطَّوَّفَ بِهِمَا ؕ وَمَنۡ تَطَوَّعَ
-  خَيۡرًا ۙ فَاِنَّ اللّٰهَ شَاكِرٌ عَلِيۡمٌ‏
+arabic_ayat: ۞ إِنَّ ٱلصَّفَا وَٱلۡمَرۡوَةَ مِن شَعَآئِرِ ٱللَّهِۖ فَمَنۡ حَجَّ ٱلۡبَيۡتَ
+  أَوِ ٱعۡتَمَرَ فَلَا جُنَاحَ عَلَيۡهِ أَن يَطَّوَّفَ بِهِمَاۚ وَمَن تَطَوَّعَ خَيۡرٗا
+  فَإِنَّ ٱللَّهَ شَاكِرٌ عَلِيمٌ
 sentence_translation: Indeed, ˹the hills of˺ Ṣafa and Marwah are among the symbols
   of Allah. So whoever performs the pilgrimage or minor pilgrimage, let them walk
   between ˹the two hills˺. And whoever does good willingly, Allah is truly Appreciative,
   All-Knowing.
 word_by_word:
   1:
-    arabic: ۞ اِنَّ
+    arabic: ۞ إِنَّ
     translation: Indeed
     transliteration: inna
   2:
-    arabic: الصَّفَا
+    arabic: ٱلصَّفَا
     translation: the Safa
     transliteration: l-ṣafā
   3:
-    arabic: وَالۡمَرۡوَةَ
+    arabic: وَٱلۡمَرۡوَةَ
     translation: and the Marwah
     transliteration: wal-marwata
   4:
-    arabic: مِنۡ
+    arabic: مِن
     translation: (are) from
     transliteration: min
   5:
-    arabic: شَعَآٮِٕرِ
+    arabic: شَعَآئِرِ
     translation: (the) symbols
     transliteration: shaʿāiri
   6:
-    arabic: اللّٰهِۚ
+    arabic: ٱللَّهِۖ
     translation: (of) Allah
     transliteration: l-lahi
   7:
@@ -40,15 +40,15 @@ word_by_word:
     translation: performs Hajj
     transliteration: ḥajja
   9:
-    arabic: الۡبَيۡتَ
+    arabic: ٱلۡبَيۡتَ
     translation: (of) the House
     transliteration: l-bayta
   10:
-    arabic: اَوِ
+    arabic: أَوِ
     translation: or
     transliteration: awi
   11:
-    arabic: اعۡتَمَرَ
+    arabic: ٱعۡتَمَرَ
     translation: performs Umrah
     transliteration: iʿ'tamara
   12:
@@ -64,19 +64,19 @@ word_by_word:
     translation: on him
     transliteration: ʿalayhi
   15:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that
     transliteration: an
   16:
-    arabic: يَّطَّوَّفَ
+    arabic: يَطَّوَّفَ
     translation: he walks
     transliteration: yaṭṭawwafa
   17:
-    arabic: بِهِمَا ؕ
+    arabic: بِهِمَاۚ
     translation: between [both of] them
     transliteration: bihimā
   18:
-    arabic: وَمَنۡ
+    arabic: وَمَن
     translation: And whoever
     transliteration: waman
   19:
@@ -84,15 +84,15 @@ word_by_word:
     translation: voluntarily does
     transliteration: taṭawwaʿa
   20:
-    arabic: خَيۡرًا ۙ
+    arabic: خَيۡرٗا
     translation: good
     transliteration: khayran
   21:
-    arabic: فَاِنَّ
+    arabic: فَإِنَّ
     translation: then indeed
     transliteration: fa-inna
   22:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   23:
@@ -100,7 +100,7 @@ word_by_word:
     translation: (is) All-Appreciative
     transliteration: shākirun
   24:
-    arabic: عَلِيۡمٌ‏
+    arabic: عَلِيمٌ
     translation: All-Knowing
     transliteration: ʿalīmun
 ---

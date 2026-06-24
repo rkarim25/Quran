@@ -1,9 +1,9 @@
 ---
-arabic_ayat: يُّـؤۡفَكُ عَنۡهُ مَنۡ اُفِكَ ؕ‏
+arabic_ayat: يُؤۡفَكُ عَنۡهُ مَنۡ أُفِكَ
 sentence_translation: Only those ˹destined to be˺ deluded are turned away from it.
 word_by_word:
   1:
-    arabic: يُّـؤۡفَكُ
+    arabic: يُؤۡفَكُ
     translation: Deluded away
     transliteration: yu'faku
   2:
@@ -15,7 +15,7 @@ word_by_word:
     translation: (is he) who
     transliteration: man
   4:
-    arabic: اُفِكَ ؕ‏
+    arabic: أُفِكَ
     translation: is deluded
     transliteration: ufika
 ---

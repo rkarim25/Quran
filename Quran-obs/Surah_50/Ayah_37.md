@@ -1,27 +1,27 @@
 ---
-arabic_ayat: اِنَّ فِىۡ ذٰلِكَ لَذِكۡرٰى لِمَنۡ كَانَ لَهٗ قَلۡبٌ اَوۡ اَلۡقَى السَّمۡعَ
-  وَهُوَ شَهِيۡدٌ‏
+arabic_ayat: إِنَّ فِي ذَٰلِكَ لَذِكۡرَىٰ لِمَن كَانَ لَهُۥ قَلۡبٌ أَوۡ أَلۡقَى ٱلسَّمۡعَ
+  وَهُوَ شَهِيدٞ
 sentence_translation: Surely in this is a reminder for whoever has a ˹mindful˺ heart
   and lends an attentive ear.
 word_by_word:
   1:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   2:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   3:
-    arabic: ذٰلِكَ
+    arabic: ذَٰلِكَ
     translation: that
     transliteration: dhālika
   4:
-    arabic: لَذِكۡرٰى
+    arabic: لَذِكۡرَىٰ
     translation: surely, is a reminder
     transliteration: ladhik'rā
   5:
-    arabic: لِمَنۡ
+    arabic: لِمَن
     translation: for (one) who
     transliteration: liman
   6:
@@ -29,7 +29,7 @@ word_by_word:
     translation: 'is '
     transliteration: kāna
   7:
-    arabic: لَهٗ
+    arabic: لَهُۥ
     translation: for him
     transliteration: lahu
   8:
@@ -37,15 +37,15 @@ word_by_word:
     translation: a heart
     transliteration: qalbun
   9:
-    arabic: اَوۡ
+    arabic: أَوۡ
     translation: or
     transliteration: aw
   10:
-    arabic: اَلۡقَى
+    arabic: أَلۡقَى
     translation: (who) gives ear
     transliteration: alqā
   11:
-    arabic: السَّمۡعَ
+    arabic: ٱلسَّمۡعَ
     translation: (who) gives ear
     transliteration: l-samʿa
   12:
@@ -53,7 +53,7 @@ word_by_word:
     translation: while he
     transliteration: wahuwa
   13:
-    arabic: شَهِيۡدٌ‏
+    arabic: شَهِيدٞ
     translation: (is) a witness
     transliteration: shahīdun
 ---

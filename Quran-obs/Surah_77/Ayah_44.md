@@ -1,21 +1,21 @@
 ---
-arabic_ayat: اِنَّا كَذٰلِكَ نَجۡزِى الۡمُحۡسِنِيۡنَ‏
+arabic_ayat: إِنَّا كَذَٰلِكَ نَجۡزِي ٱلۡمُحۡسِنِينَ
 sentence_translation: Surely this is how We reward the good-doers.
 word_by_word:
   1:
-    arabic: اِنَّا
+    arabic: إِنَّا
     translation: Indeed, We
     transliteration: innā
   2:
-    arabic: كَذٰلِكَ
+    arabic: كَذَٰلِكَ
     translation: thus
     transliteration: kadhālika
   3:
-    arabic: نَجۡزِى
+    arabic: نَجۡزِي
     translation: reward
     transliteration: najzī
   4:
-    arabic: الۡمُحۡسِنِيۡنَ‏
+    arabic: ٱلۡمُحۡسِنِينَ
     translation: the good-doers
     transliteration: l-muḥ'sinīna
 ---

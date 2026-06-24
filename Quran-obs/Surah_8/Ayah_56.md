@@ -1,15 +1,15 @@
 ---
-arabic_ayat: اَلَّذِيۡنَ عَاهَدْتَّ مِنۡهُمۡ ثُمَّ يَنۡقُضُوۡنَ عَهۡدَهُمۡ فِىۡ كُلِّ
-  مَرَّةٍ وَّهُمۡ لَا يَـتَّـقُوۡنَ‏
+arabic_ayat: ٱلَّذِينَ عَٰهَدتَّ مِنۡهُمۡ ثُمَّ يَنقُضُونَ عَهۡدَهُمۡ فِي كُلِّ مَرَّةٖ
+  وَهُمۡ لَا يَتَّقُونَ
 sentence_translation: ˹namely˺ those with whom you ˹O Prophet˺ have entered into treaties,
   but they violate them every time, not fearing the consequences.
 word_by_word:
   1:
-    arabic: اَلَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: 'Those who '
     transliteration: alladhīna
   2:
-    arabic: عَاهَدْتَّ
+    arabic: عَٰهَدتَّ
     translation: you made a covenant
     transliteration: ʿāhadtta
   3:
@@ -21,7 +21,7 @@ word_by_word:
     translation: then
     transliteration: thumma
   5:
-    arabic: يَنۡقُضُوۡنَ
+    arabic: يَنقُضُونَ
     translation: they break
     transliteration: yanquḍūna
   6:
@@ -29,7 +29,7 @@ word_by_word:
     translation: their covenant
     transliteration: ʿahdahum
   7:
-    arabic: فِىۡ
+    arabic: فِي
     translation: '[in]'
     transliteration: fī
   8:
@@ -37,11 +37,11 @@ word_by_word:
     translation: every
     transliteration: kulli
   9:
-    arabic: مَرَّةٍ
+    arabic: مَرَّةٖ
     translation: time
     transliteration: marratin
   10:
-    arabic: وَّهُمۡ
+    arabic: وَهُمۡ
     translation: and they
     transliteration: wahum
   11:
@@ -49,7 +49,7 @@ word_by_word:
     translation: (do) not
     transliteration: lā
   12:
-    arabic: يَـتَّـقُوۡنَ‏
+    arabic: يَتَّقُونَ
     translation: fear (Allah)
     transliteration: yattaqūna
 ---

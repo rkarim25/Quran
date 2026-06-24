@@ -1,6 +1,6 @@
 ---
-arabic_ayat: نَزَّلَ عَلَيۡكَ الۡـكِتٰبَ بِالۡحَقِّ مُصَدِّقًا لِّمَا بَيۡنَ يَدَيۡهِ
-  وَاَنۡزَلَ التَّوۡرٰٮةَ وَالۡاِنۡجِيۡلَۙ‏
+arabic_ayat: نَزَّلَ عَلَيۡكَ ٱلۡكِتَٰبَ بِٱلۡحَقِّ مُصَدِّقٗا لِّمَا بَيۡنَ يَدَيۡهِ
+  وَأَنزَلَ ٱلتَّوۡرَىٰةَ وَٱلۡإِنجِيلَ
 sentence_translation: He has revealed to you ˹O Prophet˺ the Book in truth, confirming
   what came before it, as He revealed the Torah and the Gospel
 word_by_word:
@@ -13,15 +13,15 @@ word_by_word:
     translation: to you
     transliteration: ʿalayka
   3:
-    arabic: الۡـكِتٰبَ
+    arabic: ٱلۡكِتَٰبَ
     translation: the Book
     transliteration: l-kitāba
   4:
-    arabic: بِالۡحَقِّ
+    arabic: بِٱلۡحَقِّ
     translation: in [the] truth
     transliteration: bil-ḥaqi
   5:
-    arabic: مُصَدِّقًا
+    arabic: مُصَدِّقٗا
     translation: confirming
     transliteration: muṣaddiqan
   6:
@@ -37,15 +37,15 @@ word_by_word:
     translation: before it
     transliteration: yadayhi
   9:
-    arabic: وَاَنۡزَلَ
+    arabic: وَأَنزَلَ
     translation: and He revealed
     transliteration: wa-anzala
   10:
-    arabic: التَّوۡرٰٮةَ
+    arabic: ٱلتَّوۡرَىٰةَ
     translation: the Taurat
     transliteration: l-tawrāta
   11:
-    arabic: وَالۡاِنۡجِيۡلَۙ‏
+    arabic: وَٱلۡإِنجِيلَ
     translation: and the Injeel
     transliteration: wal-injīla
 ---

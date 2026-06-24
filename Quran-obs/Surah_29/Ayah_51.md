@@ -1,12 +1,12 @@
 ---
-arabic_ayat: اَوَلَمۡ يَكۡفِهِمۡ اَنَّاۤ اَنۡزَلۡنَا عَلَيۡكَ الۡكِتٰبَ يُتۡلٰى عَلَيۡهِمۡ​ؕ
-  اِنَّ فِىۡ ذٰلِكَ لَرَحۡمَةً وَّذِكۡرٰى لِقَوۡمٍ يُّؤۡمِنُوۡنَ‏
+arabic_ayat: أَوَلَمۡ يَكۡفِهِمۡ أَنَّآ أَنزَلۡنَا عَلَيۡكَ ٱلۡكِتَٰبَ يُتۡلَىٰ عَلَيۡهِمۡۚ
+  إِنَّ فِي ذَٰلِكَ لَرَحۡمَةٗ وَذِكۡرَىٰ لِقَوۡمٖ يُؤۡمِنُونَ
 sentence_translation: Is it not enough for them that We have sent down to you the
   Book, ˹which is˺ recited to them. Surely in this ˹Quran˺ is a mercy and reminder
   for people who believe.
 word_by_word:
   1:
-    arabic: اَوَلَمۡ
+    arabic: أَوَلَمۡ
     translation: And is (it) not
     transliteration: awalam
   2:
@@ -14,11 +14,11 @@ word_by_word:
     translation: sufficient for them
     transliteration: yakfihim
   3:
-    arabic: اَنَّاۤ
+    arabic: أَنَّآ
     translation: that We
     transliteration: annā
   4:
-    arabic: اَنۡزَلۡنَا
+    arabic: أَنزَلۡنَا
     translation: revealed
     transliteration: anzalnā
   5:
@@ -26,43 +26,43 @@ word_by_word:
     translation: to you
     transliteration: ʿalayka
   6:
-    arabic: الۡكِتٰبَ
+    arabic: ٱلۡكِتَٰبَ
     translation: the Book
     transliteration: l-kitāba
   7:
-    arabic: يُتۡلٰى
+    arabic: يُتۡلَىٰ
     translation: (which) is recited
     transliteration: yut'lā
   8:
-    arabic: عَلَيۡهِمۡ​ؕ
+    arabic: عَلَيۡهِمۡۚ
     translation: to them
     transliteration: ʿalayhim
   9:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   10:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   11:
-    arabic: ذٰلِكَ
+    arabic: ذَٰلِكَ
     translation: that
     transliteration: dhālika
   12:
-    arabic: لَرَحۡمَةً
+    arabic: لَرَحۡمَةٗ
     translation: surely is a mercy
     transliteration: laraḥmatan
   13:
-    arabic: وَّذِكۡرٰى
+    arabic: وَذِكۡرَىٰ
     translation: and a reminder
     transliteration: wadhik'rā
   14:
-    arabic: لِقَوۡمٍ
+    arabic: لِقَوۡمٖ
     translation: for a people
     transliteration: liqawmin
   15:
-    arabic: يُّؤۡمِنُوۡنَ‏
+    arabic: يُؤۡمِنُونَ
     translation: who believe
     transliteration: yu'minūna
 ---

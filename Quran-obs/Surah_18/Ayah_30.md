@@ -1,31 +1,31 @@
 ---
-arabic_ayat: اِنَّ الَّذِيۡنَ اٰمَنُوۡا وَعَمِلُوا الصّٰلِحٰتِ اِنَّا لَا نُضِيۡعُ
-  اَجۡرَ مَنۡ اَحۡسَنَ عَمَلًا​ ۚ‏
+arabic_ayat: إِنَّ ٱلَّذِينَ ءَامَنُواْ وَعَمِلُواْ ٱلصَّٰلِحَٰتِ إِنَّا لَا نُضِيعُ
+  أَجۡرَ مَنۡ أَحۡسَنَ عَمَلًا
 sentence_translation: As for those who believe and do good, We certainly never deny
   the reward of those who are best in deeds.
 word_by_word:
   1:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ ءَ
     translation: those who
     transliteration: alladhīna
   3:
-    arabic: اٰمَنُوۡا
+    arabic: امَنُواْ
     translation: believed
     transliteration: āmanū
   4:
-    arabic: وَعَمِلُوا
+    arabic: وَعَمِلُواْ
     translation: and did
     transliteration: waʿamilū
   5:
-    arabic: الصّٰلِحٰتِ
+    arabic: ٱلصَّٰلِحَٰتِ
     translation: the good deeds
     transliteration: l-ṣāliḥāti
   6:
-    arabic: اِنَّا
+    arabic: إِنَّا
     translation: indeed, We
     transliteration: innā
   7:
@@ -33,11 +33,11 @@ word_by_word:
     translation: will not let go waste
     transliteration: lā
   8:
-    arabic: نُضِيۡعُ
+    arabic: نُضِيعُ
     translation: will not let go waste
     transliteration: nuḍīʿu
   9:
-    arabic: اَجۡرَ
+    arabic: أَجۡرَ
     translation: (the) reward
     transliteration: ajra
   10:
@@ -45,11 +45,11 @@ word_by_word:
     translation: (of one) who
     transliteration: man
   11:
-    arabic: اَحۡسَنَ
+    arabic: أَحۡسَنَ
     translation: does good
     transliteration: aḥsana
   12:
-    arabic: عَمَلًا​ ۚ‏
+    arabic: عَمَلًا
     translation: deeds
     transliteration: ʿamalan
 ---

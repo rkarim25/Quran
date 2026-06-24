@@ -1,30 +1,30 @@
 ---
-arabic_ayat: وَمَاۤ اَفَآءَ اللّٰهُ عَلٰى رَسُوۡلِهٖ مِنۡهُمۡ فَمَاۤ اَوۡجَفۡتُمۡ
-  عَلَيۡهِ مِنۡ خَيۡلٍ وَّلَا رِكَابٍ وَّلٰڪِنَّ اللّٰهَ يُسَلِّطُ رُسُلَهٗ عَلٰى
-  مَنۡ يَّشَآءُ ​ؕ وَاللّٰهُ عَلٰى كُلِّ شَىۡءٍ قَدِيۡرٌ‏
+arabic_ayat: وَمَآ أَفَآءَ ٱللَّهُ عَلَىٰ رَسُولِهِۦ مِنۡهُمۡ فَمَآ أَوۡجَفۡتُمۡ
+  عَلَيۡهِ مِنۡ خَيۡلٖ وَلَا رِكَابٖ وَلَٰكِنَّ ٱللَّهَ يُسَلِّطُ رُسُلَهُۥ عَلَىٰ
+  مَن يَشَآءُۚ وَٱللَّهُ عَلَىٰ كُلِّ شَيۡءٖ قَدِيرٞ
 sentence_translation: As for the gains Allah has turned over to His Messenger from
   them—you did not ˹even˺ spur on any horse or camel for such gains. But Allah gives
   authority to His messengers over whoever He wills. For Allah is Most Capable of
   everything.
 word_by_word:
   1:
-    arabic: وَمَاۤ
+    arabic: وَمَآ
     translation: And what
     transliteration: wamā
   2:
-    arabic: اَفَآءَ
+    arabic: أَفَآءَ
     translation: (was) restored
     transliteration: afāa
   3:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: (by) Allah
     transliteration: l-lahu
   4:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: to
     transliteration: ʿalā
   5:
-    arabic: رَسُوۡلِهٖ
+    arabic: رَسُولِهِۦ
     translation: His Messenger
     transliteration: rasūlihi
   6:
@@ -32,11 +32,11 @@ word_by_word:
     translation: from them
     transliteration: min'hum
   7:
-    arabic: فَمَاۤ
+    arabic: فَمَآ
     translation: then not
     transliteration: famā
   8:
-    arabic: اَوۡجَفۡتُمۡ
+    arabic: أَوۡجَفۡتُمۡ
     translation: you made expedition
     transliteration: awjaftum
   9:
@@ -48,23 +48,23 @@ word_by_word:
     translation: of
     transliteration: min
   11:
-    arabic: خَيۡلٍ
+    arabic: خَيۡلٖ
     translation: horses
     transliteration: khaylin
   12:
-    arabic: وَّلَا
+    arabic: وَلَا
     translation: and not
     transliteration: walā
   13:
-    arabic: رِكَابٍ
+    arabic: رِكَابٖ
     translation: camels
     transliteration: rikābin
   14:
-    arabic: وَّلٰڪِنَّ
+    arabic: وَلَٰكِنَّ
     translation: but
     transliteration: walākinna
   15:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   16:
@@ -72,27 +72,27 @@ word_by_word:
     translation: gives power
     transliteration: yusalliṭu
   17:
-    arabic: رُسُلَهٗ
+    arabic: رُسُلَهُۥ
     translation: (to) His Messengers
     transliteration: rusulahu
   18:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: over
     transliteration: ʿalā
   19:
-    arabic: مَنۡ
+    arabic: مَن
     translation: whom
     transliteration: man
   20:
-    arabic: يَّشَآءُ ​ؕ
+    arabic: يَشَآءُۚ
     translation: He wills
     transliteration: yashāu
   21:
-    arabic: وَاللّٰهُ
+    arabic: وَٱللَّهُ
     translation: And Allah
     transliteration: wal-lahu
   22:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: (is) on
     transliteration: ʿalā
   23:
@@ -100,11 +100,11 @@ word_by_word:
     translation: every
     transliteration: kulli
   24:
-    arabic: شَىۡءٍ
+    arabic: شَيۡءٖ
     translation: thing
     transliteration: shayin
   25:
-    arabic: قَدِيۡرٌ‏
+    arabic: قَدِيرٞ
     translation: All-Powerful
     transliteration: qadīrun
 ---

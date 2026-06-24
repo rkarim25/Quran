@@ -1,9 +1,8 @@
 ---
-arabic_ayat: "يٰۤـاَيُّهَا الَّذِيۡنَ اٰمَنُوۡا لَا تَكُوۡنُوۡا كَالَّذِيۡنَ كَفَرُوۡا\
-  \ وَقَالُوۡا لِاِخۡوَانِهِمۡ اِذَا ضَرَبُوۡا فِى الۡاَرۡضِ اَوۡ كَانُوۡا غُزًّى\
-  \ لَّوۡ كَانُوۡا عِنۡدَنَا مَا مَاتُوۡا وَمَا قُتِلُوۡا ۚ لِيَجۡعَلَ اللّٰهُ ذٰ\
-  \ لِكَ حَسۡرَةً فِىۡ قُلُوۡبِهِمۡ​ؕ وَاللّٰهُ يُحۡىٖ وَيُمِيۡتُ​ؕ وَ اللّٰهُ بِمَا\
-  \ تَعۡمَلُوۡنَ بَصِيۡرٌ‏ \uFEFF\uFEFF"
+arabic_ayat: يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُواْ لَا تَكُونُواْ كَٱلَّذِينَ كَفَرُواْ
+  وَقَالُواْ لِإِخۡوَٰنِهِمۡ إِذَا ضَرَبُواْ فِي ٱلۡأَرۡضِ أَوۡ كَانُواْ غُزّٗى لَّوۡ
+  كَانُواْ عِندَنَا مَا مَاتُواْ وَمَا قُتِلُواْ لِيَجۡعَلَ ٱللَّهُ ذَٰلِكَ حَسۡرَةٗ
+  فِي قُلُوبِهِمۡۗ وَٱللَّهُ يُحۡيِۦ وَيُمِيتُۗ وَٱللَّهُ بِمَا تَعۡمَلُونَ بَصِيرٞ
 sentence_translation: O believers! Do not be like the unfaithful who say about their
   brothers who travel throughout the land or engage in battle, “If they had stayed
   with us, they would not have died or been killed.” Allah makes such thinking a cause
@@ -11,15 +10,15 @@ sentence_translation: O believers! Do not be like the unfaithful who say about 
   is All-Seeing of what you do.
 word_by_word:
   1:
-    arabic: يٰۤـاَيُّهَا
+    arabic: يَٰٓأَيُّهَا
     translation: O you
     transliteration: yāayyuhā
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ ءَ
     translation: who
     transliteration: alladhīna
   3:
-    arabic: اٰمَنُوۡا
+    arabic: امَنُواْ
     translation: believe[d]
     transliteration: āmanū
   4:
@@ -27,51 +26,51 @@ word_by_word:
     translation: (Do) not
     transliteration: lā
   5:
-    arabic: تَكُوۡنُوۡا
+    arabic: تَكُونُواْ
     translation: be
     transliteration: takūnū
   6:
-    arabic: كَالَّذِيۡنَ
+    arabic: كَٱلَّذِينَ
     translation: like those who
     transliteration: ka-alladhīna
   7:
-    arabic: كَفَرُوۡا
+    arabic: كَفَرُواْ
     translation: disbelieved
     transliteration: kafarū
   8:
-    arabic: وَقَالُوۡا
+    arabic: وَقَالُواْ
     translation: and they said
     transliteration: waqālū
   9:
-    arabic: لِاِخۡوَانِهِمۡ
+    arabic: لِإِخۡوَٰنِهِمۡ
     translation: about their brothers
     transliteration: li-ikh'wānihim
   10:
-    arabic: اِذَا
+    arabic: إِذَا
     translation: when
     transliteration: idhā
   11:
-    arabic: ضَرَبُوۡا
+    arabic: ضَرَبُواْ
     translation: they traveled
     transliteration: ḍarabū
   12:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   13:
-    arabic: الۡاَرۡضِ
+    arabic: ٱلۡأَرۡضِ
     translation: the earth
     transliteration: l-arḍi
   14:
-    arabic: اَوۡ
+    arabic: أَوۡ
     translation: or
     transliteration: aw
   15:
-    arabic: كَانُوۡا
+    arabic: كَانُواْ
     translation: they were
     transliteration: kānū
   16:
-    arabic: غُزًّى
+    arabic: غُزّٗى
     translation: fighting
     transliteration: ghuzzan
   17:
@@ -79,11 +78,11 @@ word_by_word:
     translation: If
     transliteration: law
   18:
-    arabic: كَانُوۡا
+    arabic: كَانُواْ
     translation: they had been
     transliteration: kānū
   19:
-    arabic: عِنۡدَنَا
+    arabic: عِندَنَا
     translation: with us
     transliteration: ʿindanā
   20:
@@ -91,7 +90,7 @@ word_by_word:
     translation: not
     transliteration: mā
   21:
-    arabic: مَاتُوۡا
+    arabic: مَاتُواْ
     translation: they (would have) died
     transliteration: mātū
   22:
@@ -99,7 +98,7 @@ word_by_word:
     translation: and not
     transliteration: wamā
   23:
-    arabic: قُتِلُوۡا ۚ
+    arabic: قُتِلُواْ
     translation: they (would have) been killed
     transliteration: qutilū
   24:
@@ -107,39 +106,39 @@ word_by_word:
     translation: So makes
     transliteration: liyajʿala
   25:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   26:
-    arabic: ذٰ لِكَ
+    arabic: ذَٰلِكَ
     translation: that
     transliteration: dhālika
   27:
-    arabic: حَسۡرَةً
+    arabic: حَسۡرَةٗ
     translation: a regret
     transliteration: ḥasratan
   28:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   29:
-    arabic: قُلُوۡبِهِمۡ​ؕ
+    arabic: قُلُوبِهِمۡۗ
     translation: their hearts
     transliteration: qulūbihim
   30:
-    arabic: وَاللّٰهُ
+    arabic: وَٱللَّهُ
     translation: And Allah
     transliteration: wal-lahu
   31:
-    arabic: يُحۡىٖ
+    arabic: يُحۡيِۦ
     translation: gives life
     transliteration: yuḥ'yī
   32:
-    arabic: وَيُمِيۡتُ​ؕ
+    arabic: وَيُمِيتُۗ
     translation: and causes death
     transliteration: wayumītu
   33:
-    arabic: وَ اللّٰهُ
+    arabic: وَٱللَّهُ
     translation: and Allah
     transliteration: wal-lahu
   34:
@@ -147,11 +146,11 @@ word_by_word:
     translation: of what
     transliteration: bimā
   35:
-    arabic: تَعۡمَلُوۡنَ
+    arabic: تَعۡمَلُونَ
     translation: you do
     transliteration: taʿmalūna
   36:
-    arabic: "بَصِيۡرٌ‏ \uFEFF\uFEFF"
+    arabic: بَصِيرٞ
     translation: (is) All-Seer
     transliteration: baṣīrun
 ---

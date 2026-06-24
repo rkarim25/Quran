@@ -1,21 +1,20 @@
 ---
-arabic_ayat: اِسۡتَجِيۡبُوۡا لِرَبِّكُمۡ مِّنۡ قَبۡلِ اَنۡ يَّاۡتِىَ يَوۡمٌ لَّا مَرَدَّ
-  لَهٗ مِنَ اللّٰهِ​ؕ مَا لَكُمۡ مِّنۡ مَّلۡجَاٍ يَّوۡمَٮِٕذٍ وَّمَا لَكُمۡ مِّنۡ
-  نَّكِيۡرٍ‏
+arabic_ayat: ٱسۡتَجِيبُواْ لِرَبِّكُم مِّن قَبۡلِ أَن يَأۡتِيَ يَوۡمٞ لَّا مَرَدَّ
+  لَهُۥ مِنَ ٱللَّهِۚ مَا لَكُم مِّن مَّلۡجَإٖ يَوۡمَئِذٖ وَمَا لَكُم مِّن نَّكِيرٖ
 sentence_translation: Respond to your Lord before the coming of a Day from Allah that
   cannot be averted. There will be no refuge for you then, nor ˹grounds for˺ denial
   ˹of sins˺.
 word_by_word:
   1:
-    arabic: اِسۡتَجِيۡبُوۡا
+    arabic: ٱسۡتَجِيبُواْ
     translation: Respond
     transliteration: is'tajībū
   2:
-    arabic: لِرَبِّكُمۡ
+    arabic: لِرَبِّكُم
     translation: to your Lord
     transliteration: lirabbikum
   3:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: before
     transliteration: min
   4:
@@ -23,15 +22,15 @@ word_by_word:
     translation: before
     transliteration: qabli
   5:
-    arabic: اَنۡ
+    arabic: أَن
     translation: '[that]'
     transliteration: an
   6:
-    arabic: يَّاۡتِىَ
+    arabic: يَأۡتِيَ
     translation: comes
     transliteration: yatiya
   7:
-    arabic: يَوۡمٌ
+    arabic: يَوۡمٞ
     translation: a Day
     transliteration: yawmun
   8:
@@ -43,7 +42,7 @@ word_by_word:
     translation: averting
     transliteration: maradda
   10:
-    arabic: لَهٗ
+    arabic: لَهُۥ
     translation: for it
     transliteration: lahu
   11:
@@ -51,7 +50,7 @@ word_by_word:
     translation: from
     transliteration: mina
   12:
-    arabic: اللّٰهِ​ؕ
+    arabic: ٱللَّهِۚ
     translation: Allah
     transliteration: l-lahi
   13:
@@ -59,35 +58,35 @@ word_by_word:
     translation: Not
     transliteration: mā
   14:
-    arabic: لَكُمۡ
+    arabic: لَكُم
     translation: (is) for you
     transliteration: lakum
   15:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: any
     transliteration: min
   16:
-    arabic: مَّلۡجَاٍ
+    arabic: مَّلۡجَإٖ
     translation: refuge
     transliteration: malja-in
   17:
-    arabic: يَّوۡمَٮِٕذٍ
+    arabic: يَوۡمَئِذٖ
     translation: (on) that Day
     transliteration: yawma-idhin
   18:
-    arabic: وَّمَا
+    arabic: وَمَا
     translation: and not
     transliteration: wamā
   19:
-    arabic: لَكُمۡ
+    arabic: لَكُم
     translation: for you
     transliteration: lakum
   20:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: any
     transliteration: min
   21:
-    arabic: نَّكِيۡرٍ‏
+    arabic: نَّكِيرٖ
     translation: denial
     transliteration: nakīrin
 ---

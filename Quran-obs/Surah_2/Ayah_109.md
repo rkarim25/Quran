@@ -1,8 +1,8 @@
 ---
-arabic_ayat: وَدَّ کَثِيۡرٌ مِّنۡ اَهۡلِ الۡكِتٰبِ لَوۡ يَرُدُّوۡنَكُمۡ مِّنۡۢ بَعۡدِ
-  اِيۡمَانِكُمۡ كُفَّارًا ۖۚ حَسَدًا مِّنۡ عِنۡدِ اَنۡفُسِهِمۡ مِّنۡۢ بَعۡدِ مَا تَبَيَّنَ
-  لَهُمُ الۡحَـقُّ​ ۚ فَاعۡفُوۡا وَاصۡفَحُوۡا حَتّٰى يَاۡتِىَ اللّٰهُ بِاَمۡرِهٖ ​ؕ
-  اِنَّ اللّٰهَ عَلٰى کُلِّ شَىۡءٍ قَدِيۡرٌ‏
+arabic_ayat: وَدَّ كَثِيرٞ مِّنۡ أَهۡلِ ٱلۡكِتَٰبِ لَوۡ يَرُدُّونَكُم مِّنۢ بَعۡدِ
+  إِيمَٰنِكُمۡ كُفَّارًا حَسَدٗا مِّنۡ عِندِ أَنفُسِهِم مِّنۢ بَعۡدِ مَا تَبَيَّنَ
+  لَهُمُ ٱلۡحَقُّۖ فَٱعۡفُواْ وَٱصۡفَحُواْ حَتَّىٰ يَأۡتِيَ ٱللَّهُ بِأَمۡرِهِۦٓۗ
+  إِنَّ ٱللَّهَ عَلَىٰ كُلِّ شَيۡءٖ قَدِيرٞ
 sentence_translation: Many among the People of the Book wish they could turn you ˹believers˺
   back to disbelief because of their envy, after the truth has been made clear to
   them. Pardon and bear with them until Allah delivers His decision. Surely Allah
@@ -13,7 +13,7 @@ word_by_word:
     translation: Wish[ed]
     transliteration: wadda
   2:
-    arabic: کَثِيۡرٌ
+    arabic: كَثِيرٞ
     translation: many
     transliteration: kathīrun
   3:
@@ -21,11 +21,11 @@ word_by_word:
     translation: from
     transliteration: min
   4:
-    arabic: اَهۡلِ
+    arabic: أَهۡلِ
     translation: (the) People
     transliteration: ahli
   5:
-    arabic: الۡكِتٰبِ
+    arabic: ٱلۡكِتَٰبِ
     translation: (of) the Book
     transliteration: l-kitābi
   6:
@@ -33,11 +33,11 @@ word_by_word:
     translation: if
     transliteration: law
   7:
-    arabic: يَرُدُّوۡنَكُمۡ
+    arabic: يَرُدُّونَكُم
     translation: they could turn you back
     transliteration: yaruddūnakum
   8:
-    arabic: مِّنۡۢ
+    arabic: مِّنۢ
     translation: from
     transliteration: min
   9:
@@ -45,15 +45,15 @@ word_by_word:
     translation: after
     transliteration: baʿdi
   10:
-    arabic: اِيۡمَانِكُمۡ
+    arabic: إِيمَٰنِكُمۡ
     translation: your (having) faith
     transliteration: īmānikum
   11:
-    arabic: كُفَّارًا ۖۚ
+    arabic: كُفَّارًا
     translation: (to) disbelievers
     transliteration: kuffāran
   12:
-    arabic: حَسَدًا
+    arabic: حَسَدٗا
     translation: (out of) jealousy
     transliteration: ḥasadan
   13:
@@ -61,15 +61,15 @@ word_by_word:
     translation: from
     transliteration: min
   14:
-    arabic: عِنۡدِ
+    arabic: عِندِ
     translation: (of)
     transliteration: ʿindi
   15:
-    arabic: اَنۡفُسِهِمۡ
+    arabic: أَنفُسِهِم
     translation: themselves
     transliteration: anfusihim
   16:
-    arabic: مِّنۡۢ
+    arabic: مِّنۢ
     translation: (even) from
     transliteration: min
   17:
@@ -89,55 +89,55 @@ word_by_word:
     translation: to them
     transliteration: lahumu
   21:
-    arabic: الۡحَـقُّ​ ۚ
+    arabic: ٱلۡحَقُّۖ
     translation: the truth
     transliteration: l-ḥaqu
   22:
-    arabic: فَاعۡفُوۡا
+    arabic: فَٱعۡفُواْ
     translation: So forgive
     transliteration: fa-iʿ'fū
   23:
-    arabic: وَاصۡفَحُوۡا
+    arabic: وَٱصۡفَحُواْ
     translation: and overlook
     transliteration: wa-iṣ'faḥū
   24:
-    arabic: حَتّٰى
+    arabic: حَتَّىٰ
     translation: until
     transliteration: ḥattā
   25:
-    arabic: يَاۡتِىَ
+    arabic: يَأۡتِيَ
     translation: brings
     transliteration: yatiya
   26:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   27:
-    arabic: بِاَمۡرِهٖ ​ؕ
+    arabic: بِأَمۡرِهِۦٓۗ
     translation: His Command
     transliteration: bi-amrihi
   28:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   29:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   30:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: 'on'
     transliteration: ʿalā
   31:
-    arabic: کُلِّ
+    arabic: كُلِّ
     translation: every
     transliteration: kulli
   32:
-    arabic: شَىۡءٍ
+    arabic: شَيۡءٖ
     translation: thing
     transliteration: shayin
   33:
-    arabic: قَدِيۡرٌ‏
+    arabic: قَدِيرٞ
     translation: (is) All-Powerful
     transliteration: qadīrun
 ---

@@ -1,11 +1,11 @@
 ---
-arabic_ayat: وَيَدۡرَؤُا عَنۡهَا الۡعَذَابَ اَنۡ تَشۡهَدَ اَرۡبَعَ شَهٰدٰتٍۢ بِاللّٰهِ​ۙ
-  اِنَّهٗ لَمِنَ الۡكٰذِبِيۡنَۙ‏
+arabic_ayat: وَيَدۡرَؤُاْ عَنۡهَا ٱلۡعَذَابَ أَن تَشۡهَدَ أَرۡبَعَ شَهَٰدَٰتِۭ بِٱللَّهِ
+  إِنَّهُۥ لَمِنَ ٱلۡكَٰذِبِينَ
 sentence_translation: For her to be spared the punishment, she must swear four times
   by Allah that he is telling a lie,
 word_by_word:
   1:
-    arabic: وَيَدۡرَؤُا
+    arabic: وَيَدۡرَؤُاْ
     translation: But it would prevent
     transliteration: wayadra-u
   2:
@@ -13,11 +13,11 @@ word_by_word:
     translation: from her
     transliteration: ʿanhā
   3:
-    arabic: الۡعَذَابَ
+    arabic: ٱلۡعَذَابَ
     translation: the punishment
     transliteration: l-ʿadhāba
   4:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that
     transliteration: an
   5:
@@ -25,19 +25,19 @@ word_by_word:
     translation: she bears witness
     transliteration: tashhada
   6:
-    arabic: اَرۡبَعَ
+    arabic: أَرۡبَعَ
     translation: four
     transliteration: arbaʿa
   7:
-    arabic: شَهٰدٰتٍۢ
+    arabic: شَهَٰدَٰتِۭ
     translation: testimonies
     transliteration: shahādātin
   8:
-    arabic: بِاللّٰهِ​ۙ
+    arabic: بِٱللَّهِ
     translation: by Allah
     transliteration: bil-lahi
   9:
-    arabic: اِنَّهٗ
+    arabic: إِنَّهُۥ
     translation: that he
     transliteration: innahu
   10:
@@ -45,7 +45,7 @@ word_by_word:
     translation: (is) surely of
     transliteration: lamina
   11:
-    arabic: الۡكٰذِبِيۡنَۙ‏
+    arabic: ٱلۡكَٰذِبِينَ
     translation: the liars
     transliteration: l-kādhibīna
 ---

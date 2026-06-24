@@ -1,6 +1,6 @@
 ---
-arabic_ayat: "قَالَ اَغَيۡرَ اللّٰهِ اَبۡغِيۡكُمۡ اِلٰهًا وَّهُوَ فَضَّلَـكُمۡ عَلَى\
-  \ الۡعٰلَمِيۡنَ‏ \uFEFF\uFEFF"
+arabic_ayat: قَالَ أَغَيۡرَ ٱللَّهِ أَبۡغِيكُمۡ إِلَٰهٗا وَهُوَ فَضَّلَكُمۡ عَلَى
+  ٱلۡعَٰلَمِينَ
 sentence_translation: He added, “Shall I seek for you a god other than Allah, while
   He has honoured you above the others?”
 word_by_word:
@@ -9,27 +9,27 @@ word_by_word:
     translation: He said
     transliteration: qāla
   2:
-    arabic: اَغَيۡرَ
+    arabic: أَغَيۡرَ
     translation: Should other than
     transliteration: aghayra
   3:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   4:
-    arabic: اَبۡغِيۡكُمۡ
+    arabic: أَبۡغِيكُمۡ
     translation: I seek for you
     transliteration: abghīkum
   5:
-    arabic: اِلٰهًا
+    arabic: إِلَٰهٗا
     translation: a god
     transliteration: ilāhan
   6:
-    arabic: وَّهُوَ
+    arabic: وَهُوَ
     translation: while He
     transliteration: wahuwa
   7:
-    arabic: فَضَّلَـكُمۡ
+    arabic: فَضَّلَكُمۡ
     translation: has preferred you
     transliteration: faḍḍalakum
   8:
@@ -37,7 +37,7 @@ word_by_word:
     translation: over
     transliteration: ʿalā
   9:
-    arabic: "الۡعٰلَمِيۡنَ‏ \uFEFF\uFEFF"
+    arabic: ٱلۡعَٰلَمِينَ
     translation: the worlds
     transliteration: l-ʿālamīna
 ---

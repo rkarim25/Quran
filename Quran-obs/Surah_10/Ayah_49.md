@@ -1,33 +1,33 @@
 ---
-arabic_ayat: قُلْ لَّاۤ اَمۡلِكُ لِنَفۡسِىۡ ضَرًّا وَّلَا نَفۡعًا اِلَّا مَا شَآءَ
-  اللّٰهُؕ لِكُلِّ اُمَّةٍ اَجَلٌ​ؕ اِذَا جَآءَ اَجَلُهُمۡ فَلَا يَسۡتَـاخِرُوۡنَ
-  سَاعَةً​ وَّلَا يَسۡتَقۡدِمُوۡنَ‏
+arabic_ayat: قُل لَّآ أَمۡلِكُ لِنَفۡسِي ضَرّٗا وَلَا نَفۡعًا إِلَّا مَا شَآءَ ٱللَّهُۗ
+  لِكُلِّ أُمَّةٍ أَجَلٌۚ إِذَا جَآءَ أَجَلُهُمۡ فَلَا يَسۡتَـٔۡخِرُونَ سَاعَةٗ وَلَا
+  يَسۡتَقۡدِمُونَ
 sentence_translation: Say, ˹O Prophet,˺ “I have no power to benefit or protect myself,
   except by the Will of Allah.” For each community there is an appointed term. When
   their time arrives, they cannot delay it for a moment, nor could they advance it.
 word_by_word:
   1:
-    arabic: قُلْ
+    arabic: قُل
     translation: Say
     transliteration: qul
   2:
-    arabic: لَّاۤ
+    arabic: لَّآ
     translation: Not
     transliteration: lā
   3:
-    arabic: اَمۡلِكُ
+    arabic: أَمۡلِكُ
     translation: I have power
     transliteration: amliku
   4:
-    arabic: لِنَفۡسِىۡ
+    arabic: لِنَفۡسِي
     translation: for myself
     transliteration: linafsī
   5:
-    arabic: ضَرًّا
+    arabic: ضَرّٗا
     translation: (for) any harm
     transliteration: ḍarran
   6:
-    arabic: وَّلَا
+    arabic: وَلَا
     translation: and not
     transliteration: walā
   7:
@@ -35,7 +35,7 @@ word_by_word:
     translation: (for) any profit
     transliteration: nafʿan
   8:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   9:
@@ -47,7 +47,7 @@ word_by_word:
     translation: Allah wills
     transliteration: shāa
   11:
-    arabic: اللّٰهُؕ
+    arabic: ٱللَّهُۗ
     translation: Allah wills
     transliteration: l-lahu
   12:
@@ -55,15 +55,15 @@ word_by_word:
     translation: For every
     transliteration: likulli
   13:
-    arabic: اُمَّةٍ
+    arabic: أُمَّةٍ
     translation: nation
     transliteration: ummatin
   14:
-    arabic: اَجَلٌ​ؕ
+    arabic: أَجَلٌۚ
     translation: (is) a term
     transliteration: ajalun
   15:
-    arabic: اِذَا
+    arabic: إِذَا
     translation: When
     transliteration: idhā
   16:
@@ -71,7 +71,7 @@ word_by_word:
     translation: comes
     transliteration: jāa
   17:
-    arabic: اَجَلُهُمۡ
+    arabic: أَجَلُهُمۡ
     translation: their term
     transliteration: ajaluhum
   18:
@@ -79,19 +79,19 @@ word_by_word:
     translation: then not
     transliteration: falā
   19:
-    arabic: يَسۡتَـاخِرُوۡنَ
+    arabic: يَسۡتَـٔۡخِرُونَ
     translation: they remain behind
     transliteration: yastakhirūna
   20:
-    arabic: سَاعَةً​
+    arabic: سَاعَةٗ
     translation: an hour
     transliteration: sāʿatan
   21:
-    arabic: وَّلَا
+    arabic: وَلَا
     translation: and not
     transliteration: walā
   22:
-    arabic: يَسۡتَقۡدِمُوۡنَ‏
+    arabic: يَسۡتَقۡدِمُونَ
     translation: they can precede (it)
     transliteration: yastaqdimūna
 ---

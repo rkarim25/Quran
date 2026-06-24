@@ -1,12 +1,12 @@
 ---
-arabic_ayat: وَلَـقَدۡ قَالَ لَهُمۡ هٰرُوۡنُ مِنۡ قَبۡلُ يٰقَوۡمِ اِنَّمَا فُتِنۡتُمۡ
-  بِهٖ​ۚ وَاِنَّ رَبَّكُمُ الرَّحۡمٰنُ فَاتَّبِعُوۡنِىۡ وَاَطِيۡعُوۡۤا اَمۡرِىْ‏
+arabic_ayat: وَلَقَدۡ قَالَ لَهُمۡ هَٰرُونُ مِن قَبۡلُ يَٰقَوۡمِ إِنَّمَا فُتِنتُم
+  بِهِۦۖ وَإِنَّ رَبَّكُمُ ٱلرَّحۡمَٰنُ فَٱتَّبِعُونِي وَأَطِيعُوٓاْ أَمۡرِي
 sentence_translation: Aaron had already warned them beforehand, “O my people! You
   are only being tested by this, for indeed your ˹one true˺ Lord is the Most Compassionate.
   So follow me and obey my orders.”
 word_by_word:
   1:
-    arabic: وَلَـقَدۡ
+    arabic: وَلَقَدۡ
     translation: And verily
     transliteration: walaqad
   2:
@@ -18,11 +18,11 @@ word_by_word:
     translation: to them
     transliteration: lahum
   4:
-    arabic: هٰرُوۡنُ
+    arabic: هَٰرُونُ
     translation: Harun
     transliteration: hārūnu
   5:
-    arabic: مِنۡ
+    arabic: مِن
     translation: before
     transliteration: min
   6:
@@ -30,23 +30,23 @@ word_by_word:
     translation: before
     transliteration: qablu
   7:
-    arabic: يٰقَوۡمِ
+    arabic: يَٰقَوۡمِ
     translation: O my people
     transliteration: yāqawmi
   8:
-    arabic: اِنَّمَا
+    arabic: إِنَّمَا
     translation: Only
     transliteration: innamā
   9:
-    arabic: فُتِنۡتُمۡ
+    arabic: فُتِنتُم
     translation: you are being tested
     transliteration: futintum
   10:
-    arabic: بِهٖ​ۚ
+    arabic: بِهِۦۖ
     translation: by it
     transliteration: bihi
   11:
-    arabic: وَاِنَّ
+    arabic: وَإِنَّ
     translation: and indeed
     transliteration: wa-inna
   12:
@@ -54,19 +54,19 @@ word_by_word:
     translation: your Lord
     transliteration: rabbakumu
   13:
-    arabic: الرَّحۡمٰنُ
+    arabic: ٱلرَّحۡمَٰنُ
     translation: (is) the Most Gracious
     transliteration: l-raḥmānu
   14:
-    arabic: فَاتَّبِعُوۡنِىۡ
+    arabic: فَٱتَّبِعُونِي
     translation: so follow me
     transliteration: fa-ittabiʿūnī
   15:
-    arabic: وَاَطِيۡعُوۡۤا
+    arabic: وَأَطِيعُوٓاْ
     translation: and obey
     transliteration: wa-aṭīʿū
   16:
-    arabic: اَمۡرِىْ‏
+    arabic: أَمۡرِي
     translation: my order
     transliteration: amrī
 ---

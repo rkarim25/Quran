@@ -1,5 +1,5 @@
 ---
-arabic_ayat: قُلۡ تَرَبَّصُوۡا فَاِنِّىۡ مَعَكُمۡ مِّنَ الۡمُتَـرَبِّصِيۡنَ ؕ‏
+arabic_ayat: قُلۡ تَرَبَّصُواْ فَإِنِّي مَعَكُم مِّنَ ٱلۡمُتَرَبِّصِينَ
 sentence_translation: Say, “Keep waiting! I too am waiting with you.”
 word_by_word:
   1:
@@ -7,15 +7,15 @@ word_by_word:
     translation: Say
     transliteration: qul
   2:
-    arabic: تَرَبَّصُوۡا
+    arabic: تَرَبَّصُواْ
     translation: Wait
     transliteration: tarabbaṣū
   3:
-    arabic: فَاِنِّىۡ
+    arabic: فَإِنِّي
     translation: for indeed I am
     transliteration: fa-innī
   4:
-    arabic: مَعَكُمۡ
+    arabic: مَعَكُم
     translation: with you
     transliteration: maʿakum
   5:
@@ -23,7 +23,7 @@ word_by_word:
     translation: among
     transliteration: mina
   6:
-    arabic: الۡمُتَـرَبِّصِيۡنَ ؕ‏
+    arabic: ٱلۡمُتَرَبِّصِينَ
     translation: those who wait
     transliteration: l-mutarabiṣīna
 ---

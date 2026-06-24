@@ -1,6 +1,5 @@
 ---
-arabic_ayat: وَمَا يَفۡعَلُوۡا مِنۡ خَيۡرٍ فَلَنۡ يُّكۡفَرُوۡهُ ​ؕ وَاللّٰهُ عَلِيۡمٌۢ
-  بِالۡمُتَّقِيۡنَ‏
+arabic_ayat: وَمَا يَفۡعَلُواْ مِنۡ خَيۡرٖ فَلَن يُكۡفَرُوهُۗ وَٱللَّهُ عَلِيمُۢ بِٱلۡمُتَّقِينَ
 sentence_translation: They will never be denied the reward for any good they have
   done. And Allah has ˹perfect˺ knowledge of those mindful ˹of Him˺.
 word_by_word:
@@ -9,7 +8,7 @@ word_by_word:
     translation: And whatever
     transliteration: wamā
   2:
-    arabic: يَفۡعَلُوۡا
+    arabic: يَفۡعَلُواْ
     translation: they do
     transliteration: yafʿalū
   3:
@@ -17,27 +16,27 @@ word_by_word:
     translation: of
     transliteration: min
   4:
-    arabic: خَيۡرٍ
+    arabic: خَيۡرٖ
     translation: a good
     transliteration: khayrin
   5:
-    arabic: فَلَنۡ
+    arabic: فَلَن
     translation: then never
     transliteration: falan
   6:
-    arabic: يُّكۡفَرُوۡهُ ​ؕ
+    arabic: يُكۡفَرُوهُۗ
     translation: will they be denied it
     transliteration: yuk'farūhu
   7:
-    arabic: وَاللّٰهُ
+    arabic: وَٱللَّهُ
     translation: And Allah
     transliteration: wal-lahu
   8:
-    arabic: عَلِيۡمٌۢ
+    arabic: عَلِيمُۢ
     translation: (is) All-Knowing
     transliteration: ʿalīmun
   9:
-    arabic: بِالۡمُتَّقِيۡنَ‏
+    arabic: بِٱلۡمُتَّقِينَ
     translation: of the God-fearing
     transliteration: bil-mutaqīna
 ---

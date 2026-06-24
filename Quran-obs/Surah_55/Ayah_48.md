@@ -1,13 +1,13 @@
 ---
-arabic_ayat: ذَوَاتَاۤ اَفۡنَانٍ​ۚ‏
+arabic_ayat: ذَوَاتَآ أَفۡنَانٖ
 sentence_translation: ˹Both will be˺ with lush branches.
 word_by_word:
   1:
-    arabic: ذَوَاتَاۤ
+    arabic: ذَوَاتَآ
     translation: Having
     transliteration: dhawātā
   2:
-    arabic: اَفۡنَانٍ​ۚ‏
+    arabic: أَفۡنَانٖ
     translation: branches
     transliteration: afnānin
 ---

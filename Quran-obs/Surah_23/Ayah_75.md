@@ -1,15 +1,15 @@
 ---
-arabic_ayat: وَلَوۡ رَحِمۡنٰهُمۡ وَكَشَفۡنَا مَا بِهِمۡ مِّنۡ ضُرٍّ لَّـلَجُّوۡا فِىۡ
-  طُغۡيَانِهِمۡ يَعۡمَهُوۡنَ‏
+arabic_ayat: ۞ وَلَوۡ رَحِمۡنَٰهُمۡ وَكَشَفۡنَا مَا بِهِم مِّن ضُرّٖ لَّلَجُّواْ فِي
+  طُغۡيَٰنِهِمۡ يَعۡمَهُونَ
 sentence_translation: ˹Even˺ if We had mercy on them and removed their affliction, they
   would still persist in their transgression, wandering blindly.
 word_by_word:
   1:
-    arabic: ۞ وَلَوۡ
+    arabic: ۞ وَلَوۡ
     translation: And if
     transliteration: walaw
   2:
-    arabic: رَحِمۡنٰهُمۡ
+    arabic: رَحِمۡنَٰهُمۡ
     translation: We had mercy on them
     transliteration: raḥim'nāhum
   3:
@@ -21,31 +21,31 @@ word_by_word:
     translation: what
     transliteration: mā
   5:
-    arabic: بِهِمۡ
+    arabic: بِهِم
     translation: (was) on them
     transliteration: bihim
   6:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: of
     transliteration: min
   7:
-    arabic: ضُرٍّ
+    arabic: ضُرّٖ
     translation: (the) hardship
     transliteration: ḍurrin
   8:
-    arabic: لَّـلَجُّوۡا
+    arabic: لَّلَجُّواْ
     translation: surely they would persist
     transliteration: lalajjū
   9:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   10:
-    arabic: طُغۡيَانِهِمۡ
+    arabic: طُغۡيَٰنِهِمۡ
     translation: their transgression
     transliteration: ṭugh'yānihim
   11:
-    arabic: يَعۡمَهُوۡنَ‏
+    arabic: يَعۡمَهُونَ
     translation: wandering blindly
     transliteration: yaʿmahūna
 ---

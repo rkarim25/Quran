@@ -1,34 +1,34 @@
 ---
-arabic_ayat: ذُوۡقُوۡا فِتۡنَتَكُمۡؕ هٰذَا الَّذِىۡ كُنۡتُمۡ بِهٖ تَسۡتَعۡجِلُوۡنَ‏
+arabic_ayat: ذُوقُواْ فِتۡنَتَكُمۡ هَٰذَا ٱلَّذِي كُنتُم بِهِۦ تَسۡتَعۡجِلُونَ
 sentence_translation: ˹They will be told,˺ “Taste your torment! This is what you sought
   to hasten.”
 word_by_word:
   1:
-    arabic: ذُوۡقُوۡا
+    arabic: ذُوقُواْ
     translation: Taste
     transliteration: dhūqū
   2:
-    arabic: فِتۡنَتَكُمۡؕ
+    arabic: فِتۡنَتَكُمۡ
     translation: your trial
     transliteration: fit'natakum
   3:
-    arabic: هٰذَا
+    arabic: هَٰذَا
     translation: This
     transliteration: hādhā
   4:
-    arabic: الَّذِىۡ
+    arabic: ٱلَّذِي
     translation: (is) what
     transliteration: alladhī
   5:
-    arabic: كُنۡتُمۡ
+    arabic: كُنتُم
     translation: you were
     transliteration: kuntum
   6:
-    arabic: بِهٖ
+    arabic: بِهِۦ
     translation: for it
     transliteration: bihi
   7:
-    arabic: تَسۡتَعۡجِلُوۡنَ‏
+    arabic: تَسۡتَعۡجِلُونَ
     translation: seeking to hasten
     transliteration: tastaʿjilūna
 ---

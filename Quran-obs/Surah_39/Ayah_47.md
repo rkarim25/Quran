@@ -1,7 +1,7 @@
 ---
-arabic_ayat: وَلَوۡ اَنَّ لِلَّذِيۡنَ ظَلَمُوۡا مَا فِى الۡاَرۡضِ جَمِيۡعًا وَّمِثۡلَهٗ
-  مَعَهٗ لَافۡتَدَوۡا بِهٖ مِنۡ سُوۡٓءِ الۡعَذَابِ يَوۡمَ الۡقِيٰمَةِ​ؕ وَبَدَا لَهُمۡ
-  مِّنَ اللّٰهِ مَا لَمۡ يَكُوۡنُوۡا يَحۡتَسِبُوۡنَ‏
+arabic_ayat: وَلَوۡ أَنَّ لِلَّذِينَ ظَلَمُواْ مَا فِي ٱلۡأَرۡضِ جَمِيعٗا وَمِثۡلَهُۥ
+  مَعَهُۥ لَٱفۡتَدَوۡاْ بِهِۦ مِن سُوٓءِ ٱلۡعَذَابِ يَوۡمَ ٱلۡقِيَٰمَةِۚ وَبَدَا لَهُم
+  مِّنَ ٱللَّهِ مَا لَمۡ يَكُونُواْ يَحۡتَسِبُونَ
 sentence_translation: Even if the wrongdoers were to possess everything in the world
   twice over, they would certainly offer it to ransom themselves from the horrible
   punishment on Judgment Day, for they will see from Allah what they had never expected.
@@ -11,15 +11,15 @@ word_by_word:
     translation: And if
     transliteration: walaw
   2:
-    arabic: اَنَّ
+    arabic: أَنَّ
     translation: And if
     transliteration: anna
   3:
-    arabic: لِلَّذِيۡنَ
+    arabic: لِلَّذِينَ
     translation: those who
     transliteration: lilladhīna
   4:
-    arabic: ظَلَمُوۡا
+    arabic: ظَلَمُواْ
     translation: did wrong
     transliteration: ẓalamū
   5:
@@ -27,43 +27,43 @@ word_by_word:
     translation: (had) whatever
     transliteration: mā
   6:
-    arabic: فِى
+    arabic: فِي
     translation: (is) in
     transliteration: fī
   7:
-    arabic: الۡاَرۡضِ
+    arabic: ٱلۡأَرۡضِ
     translation: the earth
     transliteration: l-arḍi
   8:
-    arabic: جَمِيۡعًا
+    arabic: جَمِيعٗا
     translation: all
     transliteration: jamīʿan
   9:
-    arabic: وَّمِثۡلَهٗ
+    arabic: وَمِثۡلَهُۥ
     translation: and (the) like of it
     transliteration: wamith'lahu
   10:
-    arabic: مَعَهٗ
+    arabic: مَعَهُۥ
     translation: with it
     transliteration: maʿahu
   11:
-    arabic: لَافۡتَدَوۡا
+    arabic: لَٱفۡتَدَوۡاْ
     translation: they would ransom
     transliteration: la-if'tadaw
   12:
-    arabic: بِهٖ
+    arabic: بِهِۦ
     translation: with it
     transliteration: bihi
   13:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   14:
-    arabic: سُوۡٓءِ
+    arabic: سُوٓءِ
     translation: (the) evil
     transliteration: sūi
   15:
-    arabic: الۡعَذَابِ
+    arabic: ٱلۡعَذَابِ
     translation: (of) the punishment
     transliteration: l-ʿadhābi
   16:
@@ -71,7 +71,7 @@ word_by_word:
     translation: (on the) Day
     transliteration: yawma
   17:
-    arabic: الۡقِيٰمَةِ​ؕ
+    arabic: ٱلۡقِيَٰمَةِۚ
     translation: (of) the Resurrection
     transliteration: l-qiyāmati
   18:
@@ -79,7 +79,7 @@ word_by_word:
     translation: And (will) appear
     transliteration: wabadā
   19:
-    arabic: لَهُمۡ
+    arabic: لَهُم
     translation: to them
     transliteration: lahum
   20:
@@ -87,7 +87,7 @@ word_by_word:
     translation: from
     transliteration: mina
   21:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   22:
@@ -99,11 +99,11 @@ word_by_word:
     translation: not
     transliteration: lam
   24:
-    arabic: يَكُوۡنُوۡا
+    arabic: يَكُونُواْ
     translation: they had
     transliteration: yakūnū
   25:
-    arabic: يَحۡتَسِبُوۡنَ‏
+    arabic: يَحۡتَسِبُونَ
     translation: taken into account
     transliteration: yaḥtasibūna
 ---

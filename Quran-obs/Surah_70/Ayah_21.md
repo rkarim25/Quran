@@ -1,9 +1,9 @@
 ---
-arabic_ayat: وَاِذَا مَسَّهُ الۡخَيۡرُ مَنُوۡعًا ۙ‏
+arabic_ayat: وَإِذَا مَسَّهُ ٱلۡخَيۡرُ مَنُوعًا
 sentence_translation: and withholding when touched with good—
 word_by_word:
   1:
-    arabic: وَاِذَا
+    arabic: وَإِذَا
     translation: And when
     transliteration: wa-idhā
   2:
@@ -11,11 +11,11 @@ word_by_word:
     translation: touches him
     transliteration: massahu
   3:
-    arabic: الۡخَيۡرُ
+    arabic: ٱلۡخَيۡرُ
     translation: the good
     transliteration: l-khayru
   4:
-    arabic: مَنُوۡعًا ۙ‏
+    arabic: مَنُوعًا
     translation: withholding
     transliteration: manūʿan
 ---

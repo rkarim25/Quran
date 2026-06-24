@@ -1,29 +1,29 @@
 ---
-arabic_ayat: وَالَّذِيۡنَ اٰمَنُوۡا وَعَمِلُوا الصّٰلِحٰتِ وَاٰمَنُوۡا بِمَا نُزِّلَ
-  عَلٰى مُحَمَّدٍ وَّهُوَ الۡحَقُّ مِنۡ رَّبِّهِمۡ​ۙ كَفَّرَ عَنۡهُمۡ سَيِّاٰتِهِمۡ
-  وَاَصۡلَحَ بَالَهُمۡ‏
+arabic_ayat: وَٱلَّذِينَ ءَامَنُواْ وَعَمِلُواْ ٱلصَّٰلِحَٰتِ وَءَامَنُواْ بِمَا نُزِّلَ
+  عَلَىٰ مُحَمَّدٖ وَهُوَ ٱلۡحَقُّ مِن رَّبِّهِمۡ كَفَّرَ عَنۡهُمۡ سَيِّـَٔاتِهِمۡ
+  وَأَصۡلَحَ بَالَهُمۡ
 sentence_translation: As for those who believe, do good, and have faith in what has
   been revealed to Muḥammad—which is the truth from their Lord—He will absolve them
   of their sins and improve their condition.
 word_by_word:
   1:
-    arabic: وَالَّذِيۡنَ
+    arabic: وَٱلَّذِينَ ءَ
     translation: And those who
     transliteration: wa-alladhīna
   2:
-    arabic: اٰمَنُوۡا
+    arabic: امَنُواْ
     translation: believe
     transliteration: āmanū
   3:
-    arabic: وَعَمِلُوا
+    arabic: وَعَمِلُواْ
     translation: and do
     transliteration: waʿamilū
   4:
-    arabic: الصّٰلِحٰتِ
+    arabic: ٱلصَّٰلِحَٰتِ
     translation: righteous deeds
     transliteration: l-ṣāliḥāti
   5:
-    arabic: وَاٰمَنُوۡا
+    arabic: وَءَامَنُواْ
     translation: and believe
     transliteration: waāmanū
   6:
@@ -35,27 +35,27 @@ word_by_word:
     translation: is revealed
     transliteration: nuzzila
   8:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: to
     transliteration: ʿalā
   9:
-    arabic: مُحَمَّدٍ
+    arabic: مُحَمَّدٖ
     translation: Muhammad
     transliteration: muḥammadin
   10:
-    arabic: وَّهُوَ
+    arabic: وَهُوَ
     translation: and it
     transliteration: wahuwa
   11:
-    arabic: الۡحَقُّ
+    arabic: ٱلۡحَقُّ
     translation: (is) the truth
     transliteration: l-ḥaqu
   12:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   13:
-    arabic: رَّبِّهِمۡ​ۙ
+    arabic: رَّبِّهِمۡ
     translation: their Lord
     transliteration: rabbihim
   14:
@@ -67,15 +67,15 @@ word_by_word:
     translation: from them
     transliteration: ʿanhum
   16:
-    arabic: سَيِّاٰتِهِمۡ
+    arabic: سَيِّـَٔاتِهِمۡ
     translation: their misdeeds
     transliteration: sayyiātihim
   17:
-    arabic: وَاَصۡلَحَ
+    arabic: وَأَصۡلَحَ
     translation: and improve
     transliteration: wa-aṣlaḥa
   18:
-    arabic: بَالَهُمۡ‏
+    arabic: بَالَهُمۡ
     translation: their condition
     transliteration: bālahum
 ---

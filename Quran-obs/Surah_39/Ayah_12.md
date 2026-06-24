@@ -1,26 +1,26 @@
 ---
-arabic_ayat: وَاُمِرۡتُ لِاَنۡ اَكُوۡنَ اَوَّلَ الۡمُسۡلِمِيۡنَ‏
+arabic_ayat: وَأُمِرۡتُ لِأَنۡ أَكُونَ أَوَّلَ ٱلۡمُسۡلِمِينَ
 sentence_translation: And I am commanded to be the first of those who submit ˹to His
   Will˺.”
 word_by_word:
   1:
-    arabic: وَاُمِرۡتُ
+    arabic: وَأُمِرۡتُ
     translation: And I am commanded
     transliteration: wa-umir'tu
   2:
-    arabic: لِاَنۡ
+    arabic: لِأَنۡ
     translation: that
     transliteration: li-an
   3:
-    arabic: اَكُوۡنَ
+    arabic: أَكُونَ
     translation: I be
     transliteration: akūna
   4:
-    arabic: اَوَّلَ
+    arabic: أَوَّلَ
     translation: (the) first
     transliteration: awwala
   5:
-    arabic: الۡمُسۡلِمِيۡنَ‏
+    arabic: ٱلۡمُسۡلِمِينَ
     translation: (of) those who submit
     transliteration: l-mus'limīna
 ---

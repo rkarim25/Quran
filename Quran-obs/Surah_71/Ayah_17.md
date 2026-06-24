@@ -1,13 +1,13 @@
 ---
-arabic_ayat: وَاللّٰهُ اَنۡۢبَتَكُمۡ مِّنَ الۡاَرۡضِ نَبَاتًا ۙ‏
+arabic_ayat: وَٱللَّهُ أَنۢبَتَكُم مِّنَ ٱلۡأَرۡضِ نَبَاتٗا
 sentence_translation: Allah ˹alone˺ caused you to grow from the earth like a plant.
 word_by_word:
   1:
-    arabic: وَاللّٰهُ
+    arabic: وَٱللَّهُ
     translation: And Allah
     transliteration: wal-lahu
   2:
-    arabic: اَنۡۢبَتَكُمۡ
+    arabic: أَنۢبَتَكُم
     translation: has caused you to grow
     transliteration: anbatakum
   3:
@@ -15,11 +15,11 @@ word_by_word:
     translation: from
     transliteration: mina
   4:
-    arabic: الۡاَرۡضِ
+    arabic: ٱلۡأَرۡضِ
     translation: the earth
     transliteration: l-arḍi
   5:
-    arabic: نَبَاتًا ۙ‏
+    arabic: نَبَاتٗا
     translation: (as) a growth
     transliteration: nabātan
 ---

@@ -1,13 +1,13 @@
 ---
-arabic_ayat: اِنَّ هٰذَا مَا كُنۡتُمۡ بِهٖ تَمۡتَرُوۡنَ‏
+arabic_ayat: إِنَّ هَٰذَا مَا كُنتُم بِهِۦ تَمۡتَرُونَ
 sentence_translation: This is truly what you ˹all˺ used to doubt.”
 word_by_word:
   1:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   2:
-    arabic: هٰذَا
+    arabic: هَٰذَا
     translation: this
     transliteration: hādhā
   3:
@@ -15,15 +15,15 @@ word_by_word:
     translation: (is) what
     transliteration: mā
   4:
-    arabic: كُنۡتُمۡ
+    arabic: كُنتُم
     translation: you used to
     transliteration: kuntum
   5:
-    arabic: بِهٖ
+    arabic: بِهِۦ
     translation: '[about it]'
     transliteration: bihi
   6:
-    arabic: تَمۡتَرُوۡنَ‏
+    arabic: تَمۡتَرُونَ
     translation: doubt
     transliteration: tamtarūna
 ---

@@ -1,15 +1,14 @@
 ---
-arabic_ayat: "وَاِذۡ جَعَلۡنَا الۡبَيۡتَ مَثَابَةً لِّلنَّاسِ وَاَمۡنًا ؕ وَاتَّخِذُوۡا\
-  \ مِنۡ مَّقَامِ اِبۡرٰهٖمَ مُصَلًّى​ ؕ وَعَهِدۡنَآ اِلٰٓى اِبۡرٰهٖمَ وَاِسۡمٰعِيۡلَ\
-  \ اَنۡ طَهِّرَا بَيۡتِىَ لِلطَّآٮِٕفِيۡنَ وَالۡعٰكِفِيۡنَ وَالرُّکَّعِ السُّجُوۡدِ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: وَإِذۡ جَعَلۡنَا ٱلۡبَيۡتَ مَثَابَةٗ لِّلنَّاسِ وَأَمۡنٗا وَٱتَّخِذُواْ
+  مِن مَّقَامِ إِبۡرَٰهِـۧمَ مُصَلّٗىۖ وَعَهِدۡنَآ إِلَىٰٓ إِبۡرَٰهِـۧمَ وَإِسۡمَٰعِيلَ
+  أَن طَهِّرَا بَيۡتِيَ لِلطَّآئِفِينَ وَٱلۡعَٰكِفِينَ وَٱلرُّكَّعِ ٱلسُّجُودِ
 sentence_translation: And ˹remember˺ when We made the Sacred House a centre and a
   sanctuary for the people ˹saying˺, “˹You may˺ take the standing-place of Abraham as
   a site of prayer.” And We entrusted Abraham and Ishmael to purify My House for those
   who circle it, who meditate in it, and who bow and prostrate themselves ˹in prayer˺.
 word_by_word:
   1:
-    arabic: وَاِذۡ
+    arabic: وَإِذۡ
     translation: And when
     transliteration: wa-idh
   2:
@@ -17,11 +16,11 @@ word_by_word:
     translation: We made
     transliteration: jaʿalnā
   3:
-    arabic: الۡبَيۡتَ
+    arabic: ٱلۡبَيۡتَ
     translation: the House
     transliteration: l-bayta
   4:
-    arabic: مَثَابَةً
+    arabic: مَثَابَةٗ
     translation: a place of return
     transliteration: mathābatan
   5:
@@ -29,15 +28,15 @@ word_by_word:
     translation: for mankind
     transliteration: lilnnāsi
   6:
-    arabic: وَاَمۡنًا ؕ
+    arabic: وَأَمۡنٗا
     translation: and (a place of) security
     transliteration: wa-amnan
   7:
-    arabic: وَاتَّخِذُوۡا
+    arabic: وَٱتَّخِذُواْ
     translation: and (said), "Take
     transliteration: wa-ittakhidhū
   8:
-    arabic: مِنۡ
+    arabic: مِن
     translation: '[from]'
     transliteration: min
   9:
@@ -45,11 +44,11 @@ word_by_word:
     translation: (the) standing place
     transliteration: maqāmi
   10:
-    arabic: اِبۡرٰهٖمَ
+    arabic: إِبۡرَٰهِـۧمَ
     translation: (of) Ibrahim
     transliteration: ib'rāhīma
   11:
-    arabic: مُصَلًّى​ ؕ
+    arabic: مُصَلّٗىۖ
     translation: (as) a place of prayer
     transliteration: muṣallan
   12:
@@ -57,19 +56,19 @@ word_by_word:
     translation: And We made a covenant
     transliteration: waʿahid'nā
   13:
-    arabic: اِلٰٓى
+    arabic: إِلَىٰٓ
     translation: with
     transliteration: ilā
   14:
-    arabic: اِبۡرٰهٖمَ
+    arabic: إِبۡرَٰهِـۧمَ
     translation: Ibrahim
     transliteration: ib'rāhīma
   15:
-    arabic: وَاِسۡمٰعِيۡلَ
+    arabic: وَإِسۡمَٰعِيلَ
     translation: and Ishmael
     transliteration: wa-is'māʿīla
   16:
-    arabic: اَنۡ
+    arabic: أَن
     translation: '[that]'
     transliteration: an
   17:
@@ -77,23 +76,23 @@ word_by_word:
     translation: '[You both] purify'
     transliteration: ṭahhirā
   18:
-    arabic: بَيۡتِىَ
+    arabic: بَيۡتِيَ
     translation: My House
     transliteration: baytiya
   19:
-    arabic: لِلطَّآٮِٕفِيۡنَ
+    arabic: لِلطَّآئِفِينَ
     translation: for those who circumambulate
     transliteration: lilṭṭāifīna
   20:
-    arabic: وَالۡعٰكِفِيۡنَ
+    arabic: وَٱلۡعَٰكِفِينَ
     translation: and those who seclude themselves for devotion and prayer
     transliteration: wal-ʿākifīna
   21:
-    arabic: وَالرُّکَّعِ
+    arabic: وَٱلرُّكَّعِ
     translation: and those who bow down
     transliteration: wal-rukaʿi
   22:
-    arabic: "السُّجُوۡدِ‏ \uFEFF\uFEFF"
+    arabic: ٱلسُّجُودِ
     translation: and those who prostrate
     transliteration: l-sujūdi
 ---

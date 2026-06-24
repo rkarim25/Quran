@@ -1,9 +1,9 @@
 ---
-arabic_ayat: وَ اَغۡطَشَ لَيۡلَهَا وَاَخۡرَجَ ضُحٰٮهَا‏
+arabic_ayat: وَأَغۡطَشَ لَيۡلَهَا وَأَخۡرَجَ ضُحَىٰهَا
 sentence_translation: He dimmed its night, and brought forth its daylight.
 word_by_word:
   1:
-    arabic: وَ اَغۡطَشَ
+    arabic: وَأَغۡطَشَ
     translation: And He darkened
     transliteration: wa-aghṭasha
   2:
@@ -11,11 +11,11 @@ word_by_word:
     translation: its night
     transliteration: laylahā
   3:
-    arabic: وَاَخۡرَجَ
+    arabic: وَأَخۡرَجَ
     translation: and brought out
     transliteration: wa-akhraja
   4:
-    arabic: ضُحٰٮهَا‏
+    arabic: ضُحَىٰهَا
     translation: its brightness
     transliteration: ḍuḥāhā
 ---

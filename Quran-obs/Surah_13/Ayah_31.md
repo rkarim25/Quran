@@ -1,10 +1,10 @@
 ---
-arabic_ayat: وَلَوۡ اَنَّ قُرۡاٰنًا سُيِّرَتۡ بِهِ الۡجِبَالُ اَوۡ قُطِّعَتۡ بِهِ
-  الۡاَرۡضُ اَوۡ كُلِّمَ بِهِ الۡمَوۡتٰى​ ؕ بَلْ لِّلّٰهِ الۡاَمۡرُ جَمِيۡعًا ​ؕ اَفَلَمۡ
-  يَايۡــَٔسِ الَّذِيۡنَ اٰمَنُوۡۤا اَنۡ لَّوۡ يَشَآءُ اللّٰهُ لَهَدَى النَّاسَ جَمِيۡعًا
-  ؕ وَلَا يَزَالُ الَّذِيۡنَ كَفَرُوۡا تُصِيۡبُهُمۡ بِمَا صَنَعُوۡا قَارِعَةٌ اَوۡ
-  تَحُلُّ قَرِيۡبًا مِّنۡ دَارِهِمۡ حَتّٰى يَاۡتِىَ وَعۡدُ اللّٰهِ​ ؕ اِنَّ اللّٰهَ
-  لَا يُخۡلِفُ الۡمِيۡعَادَ‏
+arabic_ayat: وَلَوۡ أَنَّ قُرۡءَانٗا سُيِّرَتۡ بِهِ ٱلۡجِبَالُ أَوۡ قُطِّعَتۡ بِهِ
+  ٱلۡأَرۡضُ أَوۡ كُلِّمَ بِهِ ٱلۡمَوۡتَىٰۗ بَل لِّلَّهِ ٱلۡأَمۡرُ جَمِيعًاۗ أَفَلَمۡ
+  يَاْيۡـَٔسِ ٱلَّذِينَ ءَامَنُوٓاْ أَن لَّوۡ يَشَآءُ ٱللَّهُ لَهَدَى ٱلنَّاسَ جَمِيعٗاۗ
+  وَلَا يَزَالُ ٱلَّذِينَ كَفَرُواْ تُصِيبُهُم بِمَا صَنَعُواْ قَارِعَةٌ أَوۡ تَحُلُّ
+  قَرِيبٗا مِّن دَارِهِمۡ حَتَّىٰ يَأۡتِيَ وَعۡدُ ٱللَّهِۚ إِنَّ ٱللَّهَ لَا يُخۡلِفُ
+  ٱلۡمِيعَادَ
 sentence_translation: If there were a recitation that could cause mountains to move,
   or the earth to split, or the dead to speak, ˹it would have been this Quran˺. But
   all matters are by Allah’s Will. Have the believers not yet realized that had Allah
@@ -17,11 +17,11 @@ word_by_word:
     translation: And if
     transliteration: walaw
   2:
-    arabic: اَنَّ
+    arabic: أَنَّ
     translation: that was
     transliteration: anna
   3:
-    arabic: قُرۡاٰنًا
+    arabic: قُرۡءَانٗا
     translation: any Quran
     transliteration: qur'ānan
   4:
@@ -33,11 +33,11 @@ word_by_word:
     translation: by it
     transliteration: bihi
   6:
-    arabic: الۡجِبَالُ
+    arabic: ٱلۡجِبَالُ
     translation: the mountains
     transliteration: l-jibālu
   7:
-    arabic: اَوۡ
+    arabic: أَوۡ
     translation: or
     transliteration: aw
   8:
@@ -49,11 +49,11 @@ word_by_word:
     translation: by it
     transliteration: bihi
   10:
-    arabic: الۡاَرۡضُ
+    arabic: ٱلۡأَرۡضُ
     translation: the earth
     transliteration: l-arḍu
   11:
-    arabic: اَوۡ
+    arabic: أَوۡ
     translation: or
     transliteration: aw
   12:
@@ -65,43 +65,43 @@ word_by_word:
     translation: by it
     transliteration: bihi
   14:
-    arabic: الۡمَوۡتٰى​ ؕ
+    arabic: ٱلۡمَوۡتَىٰۗ
     translation: the dead
     transliteration: l-mawtā
   15:
-    arabic: بَلْ
+    arabic: بَل
     translation: Nay
     transliteration: bal
   16:
-    arabic: لِّلّٰهِ
+    arabic: لِّلَّهِ
     translation: with Allah
     transliteration: lillahi
   17:
-    arabic: الۡاَمۡرُ
+    arabic: ٱلۡأَمۡرُ
     translation: (is) the command
     transliteration: l-amru
   18:
-    arabic: جَمِيۡعًا ​ؕ
+    arabic: جَمِيعًاۗ
     translation: all
     transliteration: jamīʿan
   19:
-    arabic: اَفَلَمۡ
+    arabic: أَفَلَمۡ
     translation: Then do not
     transliteration: afalam
   20:
-    arabic: يَايۡــَٔسِ
+    arabic: يَاْيۡـَٔسِ
     translation: know
     transliteration: yāy'asi
   21:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ ءَ
     translation: those who
     transliteration: alladhīna
   22:
-    arabic: اٰمَنُوۡۤا
+    arabic: امَنُوٓاْ
     translation: believe
     transliteration: āmanū
   23:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that
     transliteration: an
   24:
@@ -113,7 +113,7 @@ word_by_word:
     translation: had willed
     transliteration: yashāu
   26:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   27:
@@ -121,11 +121,11 @@ word_by_word:
     translation: surely, He would have guided
     transliteration: lahadā
   28:
-    arabic: النَّاسَ
+    arabic: ٱلنَّاسَ
     translation: all
     transliteration: l-nāsa
   29:
-    arabic: جَمِيۡعًا ؕ
+    arabic: جَمِيعٗاۗ
     translation: all of the mankind
     transliteration: jamīʿan
   30:
@@ -137,15 +137,15 @@ word_by_word:
     translation: will cease
     transliteration: yazālu
   32:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   33:
-    arabic: كَفَرُوۡا
+    arabic: كَفَرُواْ
     translation: disbelieve
     transliteration: kafarū
   34:
-    arabic: تُصِيۡبُهُمۡ
+    arabic: تُصِيبُهُم
     translation: to strike them
     transliteration: tuṣībuhum
   35:
@@ -153,7 +153,7 @@ word_by_word:
     translation: for what
     transliteration: bimā
   36:
-    arabic: صَنَعُوۡا
+    arabic: صَنَعُواْ
     translation: they did
     transliteration: ṣanaʿū
   37:
@@ -161,7 +161,7 @@ word_by_word:
     translation: a disaster
     transliteration: qāriʿatun
   38:
-    arabic: اَوۡ
+    arabic: أَوۡ
     translation: or
     transliteration: aw
   39:
@@ -169,11 +169,11 @@ word_by_word:
     translation: it settles
     transliteration: taḥullu
   40:
-    arabic: قَرِيۡبًا
+    arabic: قَرِيبٗا
     translation: close
     transliteration: qarīban
   41:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: from
     transliteration: min
   42:
@@ -181,11 +181,11 @@ word_by_word:
     translation: their homes
     transliteration: dārihim
   43:
-    arabic: حَتّٰى
+    arabic: حَتَّىٰ
     translation: until
     transliteration: ḥattā
   44:
-    arabic: يَاۡتِىَ
+    arabic: يَأۡتِيَ
     translation: comes
     transliteration: yatiya
   45:
@@ -193,15 +193,15 @@ word_by_word:
     translation: (the) promise
     transliteration: waʿdu
   46:
-    arabic: اللّٰهِ​ ؕ
+    arabic: ٱللَّهِۚ
     translation: (of) Allah
     transliteration: l-lahi
   47:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   48:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   49:
@@ -213,7 +213,7 @@ word_by_word:
     translation: fail
     transliteration: yukh'lifu
   51:
-    arabic: الۡمِيۡعَادَ‏
+    arabic: ٱلۡمِيعَادَ
     translation: (in) the Promise
     transliteration: l-mīʿāda
 ---

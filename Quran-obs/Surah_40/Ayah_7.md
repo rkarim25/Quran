@@ -1,8 +1,8 @@
 ---
-arabic_ayat: اَلَّذِيۡنَ يَحۡمِلُوۡنَ الۡعَرۡشَ وَمَنۡ حَوۡلَهٗ يُسَبِّحُوۡنَ بِحَمۡدِ
-  رَبِّهِمۡ وَيُؤۡمِنُوۡنَ بِهٖ وَيَسۡتَغۡفِرُوۡنَ لِلَّذِيۡنَ اٰمَنُوۡا​ ۚ رَبَّنَا
-  وَسِعۡتَ كُلَّ شَىۡءٍ رَّحۡمَةً وَّعِلۡمًا فَاغۡفِرۡ لِلَّذِيۡنَ تَابُوۡا وَاتَّبَعُوۡا
-  سَبِيۡلَكَ وَقِهِمۡ عَذَابَ الۡجَحِيۡمِ‏
+arabic_ayat: ٱلَّذِينَ يَحۡمِلُونَ ٱلۡعَرۡشَ وَمَنۡ حَوۡلَهُۥ يُسَبِّحُونَ بِحَمۡدِ
+  رَبِّهِمۡ وَيُؤۡمِنُونَ بِهِۦ وَيَسۡتَغۡفِرُونَ لِلَّذِينَ ءَامَنُواْۖ رَبَّنَا
+  وَسِعۡتَ كُلَّ شَيۡءٖ رَّحۡمَةٗ وَعِلۡمٗا فَٱغۡفِرۡ لِلَّذِينَ تَابُواْ وَٱتَّبَعُواْ
+  سَبِيلَكَ وَقِهِمۡ عَذَابَ ٱلۡجَحِيمِ
 sentence_translation: Those ˹angels˺ who carry the Throne and those around it glorify
   the praises of their Lord, have faith in Him, and seek forgiveness for the believers,
   ˹praying:˺ “Our Lord! You encompass everything in ˹Your˺ mercy and knowledge. So
@@ -10,15 +10,15 @@ sentence_translation: Those ˹angels˺ who carry the Throne and those around it 
   of the Hellfire.
 word_by_word:
   1:
-    arabic: اَلَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: Those who
     transliteration: alladhīna
   2:
-    arabic: يَحۡمِلُوۡنَ
+    arabic: يَحۡمِلُونَ
     translation: bear
     transliteration: yaḥmilūna
   3:
-    arabic: الۡعَرۡشَ
+    arabic: ٱلۡعَرۡشَ
     translation: the Throne
     transliteration: l-ʿarsha
   4:
@@ -26,11 +26,11 @@ word_by_word:
     translation: and who
     transliteration: waman
   5:
-    arabic: حَوۡلَهٗ
+    arabic: حَوۡلَهُۥ
     translation: (are) around it
     transliteration: ḥawlahu
   6:
-    arabic: يُسَبِّحُوۡنَ
+    arabic: يُسَبِّحُونَ
     translation: glorify
     transliteration: yusabbiḥūna
   7:
@@ -42,23 +42,23 @@ word_by_word:
     translation: (of) their Lord
     transliteration: rabbihim
   9:
-    arabic: وَيُؤۡمِنُوۡنَ
+    arabic: وَيُؤۡمِنُونَ
     translation: and believe
     transliteration: wayu'minūna
   10:
-    arabic: بِهٖ
+    arabic: بِهِۦ
     translation: in Him
     transliteration: bihi
   11:
-    arabic: وَيَسۡتَغۡفِرُوۡنَ
+    arabic: وَيَسۡتَغۡفِرُونَ
     translation: and ask forgiveness
     transliteration: wayastaghfirūna
   12:
-    arabic: لِلَّذِيۡنَ
+    arabic: لِلَّذِينَ ءَ
     translation: for those who
     transliteration: lilladhīna
   13:
-    arabic: اٰمَنُوۡا​ ۚ
+    arabic: امَنُواْۖ
     translation: believe
     transliteration: āmanū
   14:
@@ -74,35 +74,35 @@ word_by_word:
     translation: all
     transliteration: kulla
   17:
-    arabic: شَىۡءٍ
+    arabic: شَيۡءٖ
     translation: things
     transliteration: shayin
   18:
-    arabic: رَّحۡمَةً
+    arabic: رَّحۡمَةٗ
     translation: (by Your) Mercy
     transliteration: raḥmatan
   19:
-    arabic: وَّعِلۡمًا
+    arabic: وَعِلۡمٗا
     translation: and knowledge
     transliteration: waʿil'man
   20:
-    arabic: فَاغۡفِرۡ
+    arabic: فَٱغۡفِرۡ
     translation: so forgive
     transliteration: fa-igh'fir
   21:
-    arabic: لِلَّذِيۡنَ
+    arabic: لِلَّذِينَ
     translation: those who
     transliteration: lilladhīna
   22:
-    arabic: تَابُوۡا
+    arabic: تَابُواْ
     translation: repent
     transliteration: tābū
   23:
-    arabic: وَاتَّبَعُوۡا
+    arabic: وَٱتَّبَعُواْ
     translation: and follow
     transliteration: wa-ittabaʿū
   24:
-    arabic: سَبِيۡلَكَ
+    arabic: سَبِيلَكَ
     translation: Your Way
     transliteration: sabīlaka
   25:
@@ -114,7 +114,7 @@ word_by_word:
     translation: (the) punishment
     transliteration: ʿadhāba
   27:
-    arabic: الۡجَحِيۡمِ‏
+    arabic: ٱلۡجَحِيمِ
     translation: (of) the Hellfire
     transliteration: l-jaḥīmi
 ---

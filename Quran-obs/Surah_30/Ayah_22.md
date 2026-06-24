@@ -1,16 +1,16 @@
 ---
-arabic_ayat: وَمِنۡ اٰيٰتِهٖ خَلۡقُ السَّمٰوٰتِ وَالۡاَرۡضِ وَاخۡتِلَافُ اَلۡسِنَتِكُمۡ
-  وَاَلۡوَانِكُمۡ​ؕ اِنَّ فِىۡ ذٰلِكَ لَاٰيٰتٍ لِّلۡعٰلِمِيۡنَ‏
+arabic_ayat: وَمِنۡ ءَايَٰتِهِۦ خَلۡقُ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِ وَٱخۡتِلَٰفُ أَلۡسِنَتِكُمۡ
+  وَأَلۡوَٰنِكُمۡۚ إِنَّ فِي ذَٰلِكَ لَأٓيَٰتٖ لِّلۡعَٰلِمِينَ
 sentence_translation: And one of His signs is the creation of the heavens and the
   earth, and the diversity of your languages and colours. Surely in this are signs
   for those of ˹sound˺ knowledge.
 word_by_word:
   1:
-    arabic: وَمِنۡ
+    arabic: وَمِنۡ ءَ
     translation: And among
     transliteration: wamin
   2:
-    arabic: اٰيٰتِهٖ
+    arabic: ايَٰتِهِۦ
     translation: His Signs
     transliteration: āyātihi
   3:
@@ -18,43 +18,43 @@ word_by_word:
     translation: (is the) creation
     transliteration: khalqu
   4:
-    arabic: السَّمٰوٰتِ
+    arabic: ٱلسَّمَٰوَٰتِ
     translation: (of) the heavens
     transliteration: l-samāwāti
   5:
-    arabic: وَالۡاَرۡضِ
+    arabic: وَٱلۡأَرۡضِ
     translation: and the earth
     transliteration: wal-arḍi
   6:
-    arabic: وَاخۡتِلَافُ
+    arabic: وَٱخۡتِلَٰفُ
     translation: and the diversity
     transliteration: wa-ikh'tilāfu
   7:
-    arabic: اَلۡسِنَتِكُمۡ
+    arabic: أَلۡسِنَتِكُمۡ
     translation: (of) your languages
     transliteration: alsinatikum
   8:
-    arabic: وَاَلۡوَانِكُمۡ​ؕ
+    arabic: وَأَلۡوَٰنِكُمۡۚ
     translation: and your colors
     transliteration: wa-alwānikum
   9:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   10:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   11:
-    arabic: ذٰلِكَ
+    arabic: ذَٰلِكَ
     translation: that
     transliteration: dhālika
   12:
-    arabic: لَاٰيٰتٍ
+    arabic: لَأٓيَٰتٖ
     translation: surely (are) Signs
     transliteration: laāyātin
   13:
-    arabic: لِّلۡعٰلِمِيۡنَ‏
+    arabic: لِّلۡعَٰلِمِينَ
     translation: for those of knowledge
     transliteration: lil'ʿālimīna
 ---

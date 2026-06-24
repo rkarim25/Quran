@@ -1,13 +1,13 @@
 ---
-arabic_ayat: اَفَمَنۡ شَرَحَ اللّٰهُ صَدۡرَهٗ لِلۡاِسۡلَامِ فَهُوَ عَلٰى نُوۡرٍ مِّنۡ
-  رَّبِّهٖ​ؕ فَوَيۡلٌ لِّلۡقٰسِيَةِ قُلُوۡبُهُمۡ مِّنۡ ذِكۡرِ اللّٰهِ​ؕ اُولٰٓٮِٕكَ
-  فِىۡ ضَلٰلٍ مُّبِيۡنٍ‏
+arabic_ayat: أَفَمَن شَرَحَ ٱللَّهُ صَدۡرَهُۥ لِلۡإِسۡلَٰمِ فَهُوَ عَلَىٰ نُورٖ مِّن
+  رَّبِّهِۦۚ فَوَيۡلٞ لِّلۡقَٰسِيَةِ قُلُوبُهُم مِّن ذِكۡرِ ٱللَّهِۚ أُوْلَٰٓئِكَ
+  فِي ضَلَٰلٖ مُّبِينٍ
 sentence_translation: Can ˹the misguided be like˺ those whose hearts Allah has opened
   to Islam, so they are enlightened by their Lord? So woe to those whose hearts are
   hardened at the remembrance of Allah! It is they who are clearly astray.
 word_by_word:
   1:
-    arabic: اَفَمَنۡ
+    arabic: أَفَمَن
     translation: So is (one for) whom
     transliteration: afaman
   2:
@@ -15,15 +15,15 @@ word_by_word:
     translation: Allah has expanded
     transliteration: sharaḥa
   3:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah has expanded
     transliteration: l-lahu
   4:
-    arabic: صَدۡرَهٗ
+    arabic: صَدۡرَهُۥ
     translation: his breast
     transliteration: ṣadrahu
   5:
-    arabic: لِلۡاِسۡلَامِ
+    arabic: لِلۡإِسۡلَٰمِ
     translation: for Islam
     transliteration: lil'is'lāmi
   6:
@@ -31,35 +31,35 @@ word_by_word:
     translation: so he
     transliteration: fahuwa
   7:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: (is) upon
     transliteration: ʿalā
   8:
-    arabic: نُوۡرٍ
+    arabic: نُورٖ
     translation: a light
     transliteration: nūrin
   9:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: from
     transliteration: min
   10:
-    arabic: رَّبِّهٖ​ؕ
+    arabic: رَّبِّهِۦۚ
     translation: his Lord
     transliteration: rabbihi
   11:
-    arabic: فَوَيۡلٌ
+    arabic: فَوَيۡلٞ
     translation: So woe
     transliteration: fawaylun
   12:
-    arabic: لِّلۡقٰسِيَةِ
+    arabic: لِّلۡقَٰسِيَةِ
     translation: to (those are) hardened
     transliteration: lil'qāsiyati
   13:
-    arabic: قُلُوۡبُهُمۡ
+    arabic: قُلُوبُهُم
     translation: their hearts
     transliteration: qulūbuhum
   14:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: from
     transliteration: min
   15:
@@ -67,23 +67,23 @@ word_by_word:
     translation: (the) remembrance of Allah
     transliteration: dhik'ri
   16:
-    arabic: اللّٰهِ​ؕ
+    arabic: ٱللَّهِۚ
     translation: (the) remembrance of Allah
     transliteration: l-lahi
   17:
-    arabic: اُولٰٓٮِٕكَ
+    arabic: أُوْلَٰٓئِكَ
     translation: Those
     transliteration: ulāika
   18:
-    arabic: فِىۡ
+    arabic: فِي
     translation: (are) in
     transliteration: fī
   19:
-    arabic: ضَلٰلٍ
+    arabic: ضَلَٰلٖ
     translation: error
     transliteration: ḍalālin
   20:
-    arabic: مُّبِيۡنٍ‏
+    arabic: مُّبِينٍ
     translation: clear
     transliteration: mubīnin
 ---

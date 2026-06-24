@@ -1,41 +1,41 @@
 ---
-arabic_ayat: وَاِذَا مَاۤ اُنۡزِلَتۡ سُوۡرَةٌ فَمِنۡهُمۡ مَّنۡ يَّقُوۡلُ اَيُّكُمۡ
-  زَادَتۡهُ هٰذِهٖۤ اِيۡمَانًا​ ۚ فَاَمَّا الَّذِيۡنَ اٰمَنُوۡا فَزَادَتۡهُمۡ اِيۡمَانًا
-  وَّهُمۡ يَسۡتَبۡشِرُوۡنَ‏
+arabic_ayat: وَإِذَا مَآ أُنزِلَتۡ سُورَةٞ فَمِنۡهُم مَّن يَقُولُ أَيُّكُمۡ زَادَتۡهُ
+  هَٰذِهِۦٓ إِيمَٰنٗاۚ فَأَمَّا ٱلَّذِينَ ءَامَنُواْ فَزَادَتۡهُمۡ إِيمَٰنٗا وَهُمۡ
+  يَسۡتَبۡشِرُونَ
 sentence_translation: Whenever a sûrah is revealed, some of them ask ˹mockingly˺,
   “Which of you has this increased in faith?” As for the believers, it has increased
   them in faith and they rejoice.
 word_by_word:
   1:
-    arabic: وَاِذَا
+    arabic: وَإِذَا
     translation: And whenever
     transliteration: wa-idhā
   2:
-    arabic: مَاۤ
+    arabic: مَآ
     translation: And whenever
     transliteration: mā
   3:
-    arabic: اُنۡزِلَتۡ
+    arabic: أُنزِلَتۡ
     translation: is revealed
     transliteration: unzilat
   4:
-    arabic: سُوۡرَةٌ
+    arabic: سُورَةٞ
     translation: a Surah
     transliteration: sūratun
   5:
-    arabic: فَمِنۡهُمۡ
+    arabic: فَمِنۡهُم
     translation: among them
     transliteration: famin'hum
   6:
-    arabic: مَّنۡ
+    arabic: مَّن
     translation: (are some) who
     transliteration: man
   7:
-    arabic: يَّقُوۡلُ
+    arabic: يَقُولُ
     translation: say
     transliteration: yaqūlu
   8:
-    arabic: اَيُّكُمۡ
+    arabic: أَيُّكُمۡ
     translation: Which of you
     transliteration: ayyukum
   9:
@@ -43,23 +43,23 @@ word_by_word:
     translation: (has) increased [it]
     transliteration: zādathu
   10:
-    arabic: هٰذِهٖۤ
+    arabic: هَٰذِهِۦٓ
     translation: (by) this
     transliteration: hādhihi
   11:
-    arabic: اِيۡمَانًا​ ۚ
+    arabic: إِيمَٰنٗاۚ
     translation: (in) faith
     transliteration: īmānan
   12:
-    arabic: فَاَمَّا
+    arabic: فَأَمَّا
     translation: As for
     transliteration: fa-ammā
   13:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ ءَ
     translation: those who
     transliteration: alladhīna
   14:
-    arabic: اٰمَنُوۡا
+    arabic: امَنُواْ
     translation: believe
     transliteration: āmanū
   15:
@@ -67,15 +67,15 @@ word_by_word:
     translation: then it has increased them
     transliteration: fazādathum
   16:
-    arabic: اِيۡمَانًا
+    arabic: إِيمَٰنٗا
     translation: (in) faith
     transliteration: īmānan
   17:
-    arabic: وَّهُمۡ
+    arabic: وَهُمۡ
     translation: and they
     transliteration: wahum
   18:
-    arabic: يَسۡتَبۡشِرُوۡنَ‏
+    arabic: يَسۡتَبۡشِرُونَ
     translation: rejoice
     transliteration: yastabshirūna
 ---

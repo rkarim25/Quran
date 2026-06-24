@@ -1,10 +1,10 @@
 ---
-arabic_ayat: لَا تَجِدُ قَوۡمًا يُّؤۡمِنُوۡنَ بِاللّٰهِ وَالۡيَوۡمِ الۡاٰخِرِ يُوَآدُّوۡنَ
-  مَنۡ حَآدَّ اللّٰهَ وَرَسُوۡلَهٗ وَلَوۡ كَانُوۡۤا اٰبَآءَهُمۡ اَوۡ اَبۡنَآءَهُمۡ
-  اَوۡ اِخۡوَانَهُمۡ اَوۡ عَشِيۡرَتَهُمۡ​ؕ اُولٰٓٮِٕكَ كَتَبَ فِىۡ قُلُوۡبِهِمُ الۡاِيۡمَانَ
-  وَاَيَّدَهُمۡ بِرُوۡحٍ مِّنۡهُ​ ؕ وَيُدۡخِلُهُمۡ جَنّٰتٍ تَجۡرِىۡ مِنۡ تَحۡتِهَا
-  الۡاَنۡهٰرُ خٰلِدِيۡنَ فِيۡهَا​ ؕ رَضِىَ اللّٰهُ عَنۡهُمۡ وَرَضُوۡا عَنۡهُ​ ؕ اُولٰٓٮِٕكَ
-  حِزۡبُ اللّٰهِ​ ؕ اَلَاۤ اِنَّ حِزۡبَ اللّٰهِ هُمُ الۡمُفۡلِحُوۡنَ‏
+arabic_ayat: لَّا تَجِدُ قَوۡمٗا يُؤۡمِنُونَ بِٱللَّهِ وَٱلۡيَوۡمِ ٱلۡأٓخِرِ يُوَآدُّونَ
+  مَنۡ حَآدَّ ٱللَّهَ وَرَسُولَهُۥ وَلَوۡ كَانُوٓاْ ءَابَآءَهُمۡ أَوۡ أَبۡنَآءَهُمۡ
+  أَوۡ إِخۡوَٰنَهُمۡ أَوۡ عَشِيرَتَهُمۡۚ أُوْلَٰٓئِكَ كَتَبَ فِي قُلُوبِهِمُ ٱلۡإِيمَٰنَ
+  وَأَيَّدَهُم بِرُوحٖ مِّنۡهُۖ وَيُدۡخِلُهُمۡ جَنَّٰتٖ تَجۡرِي مِن تَحۡتِهَا ٱلۡأَنۡهَٰرُ
+  خَٰلِدِينَ فِيهَاۚ رَضِيَ ٱللَّهُ عَنۡهُمۡ وَرَضُواْ عَنۡهُۚ أُوْلَٰٓئِكَ حِزۡبُ
+  ٱللَّهِۚ أَلَآ إِنَّ حِزۡبَ ٱللَّهِ هُمُ ٱلۡمُفۡلِحُونَ
 sentence_translation: You will never find a people who ˹truly˺ believe in Allah and
   the Last Day loyal to those who defy Allah and His Messenger, even if they were
   their parents, children, siblings, or extended family. For those ˹believers˺, Allah
@@ -14,7 +14,7 @@ sentence_translation: You will never find a people who ˹truly˺ believe in Alla
   Indeed, Allah’s party is bound to succeed.
 word_by_word:
   1:
-    arabic: لَا
+    arabic: لَّا
     translation: You will not find
     transliteration: lā
   2:
@@ -22,27 +22,27 @@ word_by_word:
     translation: You will not find
     transliteration: tajidu
   3:
-    arabic: قَوۡمًا
+    arabic: قَوۡمٗا
     translation: a people
     transliteration: qawman
   4:
-    arabic: يُّؤۡمِنُوۡنَ
+    arabic: يُؤۡمِنُونَ
     translation: who believe
     transliteration: yu'minūna
   5:
-    arabic: بِاللّٰهِ
+    arabic: بِٱللَّهِ
     translation: in Allah
     transliteration: bil-lahi
   6:
-    arabic: وَالۡيَوۡمِ
+    arabic: وَٱلۡيَوۡمِ
     translation: and the Day
     transliteration: wal-yawmi
   7:
-    arabic: الۡاٰخِرِ
+    arabic: ٱلۡأٓخِرِ
     translation: the Last
     transliteration: l-ākhiri
   8:
-    arabic: يُوَآدُّوۡنَ
+    arabic: يُوَآدُّونَ
     translation: loving
     transliteration: yuwāddūna
   9:
@@ -54,11 +54,11 @@ word_by_word:
     translation: oppose
     transliteration: ḥādda
   11:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   12:
-    arabic: وَرَسُوۡلَهٗ
+    arabic: وَرَسُولَهُۥ
     translation: and His Messenger
     transliteration: warasūlahu
   13:
@@ -66,39 +66,39 @@ word_by_word:
     translation: even if
     transliteration: walaw
   14:
-    arabic: كَانُوۡۤا
+    arabic: كَانُوٓاْ ءَ
     translation: they were
     transliteration: kānū
   15:
-    arabic: اٰبَآءَهُمۡ
+    arabic: ابَآءَهُمۡ
     translation: their fathers
     transliteration: ābāahum
   16:
-    arabic: اَوۡ
+    arabic: أَوۡ
     translation: or
     transliteration: aw
   17:
-    arabic: اَبۡنَآءَهُمۡ
+    arabic: أَبۡنَآءَهُمۡ
     translation: their sons
     transliteration: abnāahum
   18:
-    arabic: اَوۡ
+    arabic: أَوۡ
     translation: or
     transliteration: aw
   19:
-    arabic: اِخۡوَانَهُمۡ
+    arabic: إِخۡوَٰنَهُمۡ
     translation: their brothers
     transliteration: ikh'wānahum
   20:
-    arabic: اَوۡ
+    arabic: أَوۡ
     translation: or
     transliteration: aw
   21:
-    arabic: عَشِيۡرَتَهُمۡ​ؕ
+    arabic: عَشِيرَتَهُمۡۚ
     translation: their kindred
     transliteration: ʿashīratahum
   22:
-    arabic: اُولٰٓٮِٕكَ
+    arabic: أُوْلَٰٓئِكَ
     translation: 'Those '
     transliteration: ulāika
   23:
@@ -106,27 +106,27 @@ word_by_word:
     translation: He has decreed
     transliteration: kataba
   24:
-    arabic: فِىۡ
+    arabic: فِي
     translation: within
     transliteration: fī
   25:
-    arabic: قُلُوۡبِهِمُ
+    arabic: قُلُوبِهِمُ
     translation: their hearts
     transliteration: qulūbihimu
   26:
-    arabic: الۡاِيۡمَانَ
+    arabic: ٱلۡإِيمَٰنَ
     translation: faith
     transliteration: l-īmāna
   27:
-    arabic: وَاَيَّدَهُمۡ
+    arabic: وَأَيَّدَهُم
     translation: and supported them
     transliteration: wa-ayyadahum
   28:
-    arabic: بِرُوۡحٍ
+    arabic: بِرُوحٖ
     translation: with a spirit
     transliteration: birūḥin
   29:
-    arabic: مِّنۡهُ​ ؕ
+    arabic: مِّنۡهُۖ
     translation: from Him
     transliteration: min'hu
   30:
@@ -134,15 +134,15 @@ word_by_word:
     translation: And He will admit them
     transliteration: wayud'khiluhum
   31:
-    arabic: جَنّٰتٍ
+    arabic: جَنَّٰتٖ
     translation: (to) Gardens
     transliteration: jannātin
   32:
-    arabic: تَجۡرِىۡ
+    arabic: تَجۡرِي
     translation: flow
     transliteration: tajrī
   33:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   34:
@@ -150,23 +150,23 @@ word_by_word:
     translation: underneath it
     transliteration: taḥtihā
   35:
-    arabic: الۡاَنۡهٰرُ
+    arabic: ٱلۡأَنۡهَٰرُ
     translation: the rivers
     transliteration: l-anhāru
   36:
-    arabic: خٰلِدِيۡنَ
+    arabic: خَٰلِدِينَ
     translation: will abide forever
     transliteration: khālidīna
   37:
-    arabic: فِيۡهَا​ ؕ
+    arabic: فِيهَاۚ
     translation: in it
     transliteration: fīhā
   38:
-    arabic: رَضِىَ
+    arabic: رَضِيَ
     translation: Allah is pleased
     transliteration: raḍiya
   39:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah is pleased
     transliteration: l-lahu
   40:
@@ -174,15 +174,15 @@ word_by_word:
     translation: with them
     transliteration: ʿanhum
   41:
-    arabic: وَرَضُوۡا
+    arabic: وَرَضُواْ
     translation: and they are pleased
     transliteration: waraḍū
   42:
-    arabic: عَنۡهُ​ ؕ
+    arabic: عَنۡهُۚ
     translation: with Him
     transliteration: ʿanhu
   43:
-    arabic: اُولٰٓٮِٕكَ
+    arabic: أُوْلَٰٓئِكَ
     translation: Those
     transliteration: ulāika
   44:
@@ -190,15 +190,15 @@ word_by_word:
     translation: (are the) party
     transliteration: ḥiz'bu
   45:
-    arabic: اللّٰهِ​ ؕ
+    arabic: ٱللَّهِۚ
     translation: (of) Allah
     transliteration: l-lahi
   46:
-    arabic: اَلَاۤ
+    arabic: أَلَآ
     translation: No doubt
     transliteration: alā
   47:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   48:
@@ -206,7 +206,7 @@ word_by_word:
     translation: (the) party
     transliteration: ḥiz'ba
   49:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (of) Allah
     transliteration: l-lahi
   50:
@@ -214,7 +214,7 @@ word_by_word:
     translation: they
     transliteration: humu
   51:
-    arabic: الۡمُفۡلِحُوۡنَ‏
+    arabic: ٱلۡمُفۡلِحُونَ
     translation: (are) the successful ones
     transliteration: l-muf'liḥūna
 ---

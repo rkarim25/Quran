@@ -1,19 +1,19 @@
 ---
-arabic_ayat: وَ هُوَ الَّذِىۡ خَلَقَ السَّمٰوٰتِ وَالۡاَرۡضَ فِىۡ سِتَّةِ اَ يَّامٍ
-  وَّكَانَ عَرۡشُهٗ عَلَى الۡمَآءِ لِيَبۡلُوَكُمۡ اَيُّكُمۡ اَحۡسَنُ عَمَلًا ؕ وَلَٮِٕنۡ
-  قُلۡتَ اِنَّكُمۡ مَّبۡعُوۡثُوۡنَ مِنۡۢ بَعۡدِ الۡمَوۡتِ لَيَـقُوۡلَنَّ الَّذِيۡنَ
-  كَفَرُوۡۤا اِنۡ هٰذَاۤ اِلَّا سِحۡرٌ مُّبِيۡنٌ‏
+arabic_ayat: وَهُوَ ٱلَّذِي خَلَقَ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضَ فِي سِتَّةِ أَيَّامٖ
+  وَكَانَ عَرۡشُهُۥ عَلَى ٱلۡمَآءِ لِيَبۡلُوَكُمۡ أَيُّكُمۡ أَحۡسَنُ عَمَلٗاۗ وَلَئِن
+  قُلۡتَ إِنَّكُم مَّبۡعُوثُونَ مِنۢ بَعۡدِ ٱلۡمَوۡتِ لَيَقُولَنَّ ٱلَّذِينَ كَفَرُوٓاْ
+  إِنۡ هَٰذَآ إِلَّا سِحۡرٞ مُّبِينٞ
 sentence_translation: He is the One Who created the heavens and the earth in six Days—and
   His Throne was upon the waters—in order to test which of you is best in deeds. And
   if you ˹O Prophet˺ say, “Surely you will ˹all˺ be raised up after death,” the disbelievers
   will certainly say, “That is nothing but pure magic!”
 word_by_word:
   1:
-    arabic: وَ هُوَ
+    arabic: وَهُوَ
     translation: And He
     transliteration: wahuwa
   2:
-    arabic: الَّذِىۡ
+    arabic: ٱلَّذِي
     translation: (is) the One Who
     transliteration: alladhī
   3:
@@ -21,15 +21,15 @@ word_by_word:
     translation: created
     transliteration: khalaqa
   4:
-    arabic: السَّمٰوٰتِ
+    arabic: ٱلسَّمَٰوَٰتِ
     translation: the heavens
     transliteration: l-samāwāti
   5:
-    arabic: وَالۡاَرۡضَ
+    arabic: وَٱلۡأَرۡضَ
     translation: and the earth
     transliteration: wal-arḍa
   6:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   7:
@@ -37,15 +37,15 @@ word_by_word:
     translation: six
     transliteration: sittati
   8:
-    arabic: اَ يَّامٍ
+    arabic: أَيَّامٖ
     translation: epochs
     transliteration: ayyāmin
   9:
-    arabic: وَّكَانَ
+    arabic: وَكَانَ
     translation: and His throne was
     transliteration: wakāna
   10:
-    arabic: عَرۡشُهٗ
+    arabic: عَرۡشُهُۥ
     translation: and His throne was
     transliteration: ʿarshuhu
   11:
@@ -53,7 +53,7 @@ word_by_word:
     translation: 'on'
     transliteration: ʿalā
   12:
-    arabic: الۡمَآءِ
+    arabic: ٱلۡمَآءِ
     translation: the water
     transliteration: l-māi
   13:
@@ -61,19 +61,19 @@ word_by_word:
     translation: that He might test [you]
     transliteration: liyabluwakum
   14:
-    arabic: اَيُّكُمۡ
+    arabic: أَيُّكُمۡ
     translation: which of you
     transliteration: ayyukum
   15:
-    arabic: اَحۡسَنُ
+    arabic: أَحۡسَنُ
     translation: (is) best
     transliteration: aḥsanu
   16:
-    arabic: عَمَلًا ؕ
+    arabic: عَمَلٗاۗ
     translation: (in) deed
     transliteration: ʿamalan
   17:
-    arabic: وَلَٮِٕنۡ
+    arabic: وَلَئِن
     translation: But if
     transliteration: wala-in
   18:
@@ -81,15 +81,15 @@ word_by_word:
     translation: you say
     transliteration: qul'ta
   19:
-    arabic: اِنَّكُمۡ
+    arabic: إِنَّكُم
     translation: Indeed, you
     transliteration: innakum
   20:
-    arabic: مَّبۡعُوۡثُوۡنَ
+    arabic: مَّبۡعُوثُونَ
     translation: (will be) resurrected
     transliteration: mabʿūthūna
   21:
-    arabic: مِنۡۢ
+    arabic: مِنۢ
     translation: after
     transliteration: min
   22:
@@ -97,39 +97,39 @@ word_by_word:
     translation: after
     transliteration: baʿdi
   23:
-    arabic: الۡمَوۡتِ
+    arabic: ٱلۡمَوۡتِ
     translation: '[the] death'
     transliteration: l-mawti
   24:
-    arabic: لَيَـقُوۡلَنَّ
+    arabic: لَيَقُولَنَّ
     translation: surely would say
     transliteration: layaqūlanna
   25:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   26:
-    arabic: كَفَرُوۡۤا
+    arabic: كَفَرُوٓاْ
     translation: disbelieved
     transliteration: kafarū
   27:
-    arabic: اِنۡ
+    arabic: إِنۡ
     translation: This is not
     transliteration: in
   28:
-    arabic: هٰذَاۤ
+    arabic: هَٰذَآ
     translation: This is not
     transliteration: hādhā
   29:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: but
     transliteration: illā
   30:
-    arabic: سِحۡرٌ
+    arabic: سِحۡرٞ
     translation: a magic
     transliteration: siḥ'run
   31:
-    arabic: مُّبِيۡنٌ‏
+    arabic: مُّبِينٞ
     translation: clear
     transliteration: mubīnun
 ---

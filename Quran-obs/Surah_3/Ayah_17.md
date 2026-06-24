@@ -1,31 +1,31 @@
 ---
-arabic_ayat: اَلصّٰــبِرِيۡنَ وَالصّٰدِقِــيۡنَ وَالۡقٰنِتِــيۡنَ وَالۡمُنۡفِقِيۡنَ
-  وَالۡمُسۡتَغۡفِرِيۡنَ بِالۡاَسۡحَارِ‏
+arabic_ayat: ٱلصَّٰبِرِينَ وَٱلصَّٰدِقِينَ وَٱلۡقَٰنِتِينَ وَٱلۡمُنفِقِينَ وَٱلۡمُسۡتَغۡفِرِينَ
+  بِٱلۡأَسۡحَارِ
 sentence_translation: ˹It is they˺ who are patient, sincere, obedient, and charitable,
   and who pray for forgiveness before dawn. 
 word_by_word:
   1:
-    arabic: اَلصّٰــبِرِيۡنَ
+    arabic: ٱلصَّٰبِرِينَ
     translation: The patient
     transliteration: al-ṣābirīna
   2:
-    arabic: وَالصّٰدِقِــيۡنَ
+    arabic: وَٱلصَّٰدِقِينَ
     translation: and the truthful
     transliteration: wal-ṣādiqīna
   3:
-    arabic: وَالۡقٰنِتِــيۡنَ
+    arabic: وَٱلۡقَٰنِتِينَ
     translation: and the obedient
     transliteration: wal-qānitīna
   4:
-    arabic: وَالۡمُنۡفِقِيۡنَ
+    arabic: وَٱلۡمُنفِقِينَ
     translation: and those who spend
     transliteration: wal-munfiqīna
   5:
-    arabic: وَالۡمُسۡتَغۡفِرِيۡنَ
+    arabic: وَٱلۡمُسۡتَغۡفِرِينَ
     translation: and those who seek forgiveness
     transliteration: wal-mus'taghfirīna
   6:
-    arabic: بِالۡاَسۡحَارِ‏
+    arabic: بِٱلۡأَسۡحَارِ
     translation: '[in the] before dawn'
     transliteration: bil-asḥāri
 ---

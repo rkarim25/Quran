@@ -1,9 +1,9 @@
 ---
-arabic_ayat: اَلَمۡ نُهۡلِكِ الۡاَوَّلِيۡنَؕ‏
+arabic_ayat: أَلَمۡ نُهۡلِكِ ٱلۡأَوَّلِينَ
 sentence_translation: Did We not destroy earlier disbelievers?
 word_by_word:
   1:
-    arabic: اَلَمۡ
+    arabic: أَلَمۡ
     translation: Did not
     transliteration: alam
   2:
@@ -11,7 +11,7 @@ word_by_word:
     translation: We destroy
     transliteration: nuh'liki
   3:
-    arabic: الۡاَوَّلِيۡنَؕ‏
+    arabic: ٱلۡأَوَّلِينَ
     translation: the former (people)
     transliteration: l-awalīna
 ---

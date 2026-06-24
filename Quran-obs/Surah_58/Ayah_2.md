@@ -1,30 +1,30 @@
 ---
-arabic_ayat: اَلَّذِيۡنَ يُظٰهِرُوۡنَ مِنۡكُمۡ مِّنۡ نِّسَآٮِٕهِمۡ مَّا هُنَّ اُمَّهٰتِهِمۡ​ؕ
-  اِنۡ اُمَّهٰتُهُمۡ اِلَّا الّٰٓـىِٔۡ وَلَدۡنَهُمۡ​ؕ وَاِنَّهُمۡ لَيَقُوۡلُوۡنَ مُنۡكَرًا
-  مِّنَ الۡقَوۡلِ وَزُوۡرًا​ؕ وَ اِنَّ اللّٰهَ لَعَفُوٌّ غَفُوۡرٌ‏
+arabic_ayat: ٱلَّذِينَ يُظَٰهِرُونَ مِنكُم مِّن نِّسَآئِهِم مَّا هُنَّ أُمَّهَٰتِهِمۡۖ
+  إِنۡ أُمَّهَٰتُهُمۡ إِلَّا ٱلَّٰٓـِٔي وَلَدۡنَهُمۡۚ وَإِنَّهُمۡ لَيَقُولُونَ مُنكَرٗا
+  مِّنَ ٱلۡقَوۡلِ وَزُورٗاۚ وَإِنَّ ٱللَّهَ لَعَفُوٌّ غَفُورٞ
 sentence_translation: Those of you who ˹sinfully˺ divorce their wives by comparing
   them to their mothers ˹should know that˺ their wives are in no way their mothers.
   None can be their mothers except those who gave birth to them. What they say is
   certainly detestable and false. Yet Allah is truly Ever-Pardoning, All-Forgiving.
 word_by_word:
   1:
-    arabic: اَلَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: Those who
     transliteration: alladhīna
   2:
-    arabic: يُظٰهِرُوۡنَ
+    arabic: يُظَٰهِرُونَ
     translation: pronounce zihar
     transliteration: yuẓāhirūna
   3:
-    arabic: مِنۡكُمۡ
+    arabic: مِنكُم
     translation: among you
     transliteration: minkum
   4:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: '[from]'
     transliteration: min
   5:
-    arabic: نِّسَآٮِٕهِمۡ
+    arabic: نِّسَآئِهِم
     translation: (to) their wives
     transliteration: nisāihim
   6:
@@ -36,39 +36,39 @@ word_by_word:
     translation: they
     transliteration: hunna
   8:
-    arabic: اُمَّهٰتِهِمۡ​ؕ
+    arabic: أُمَّهَٰتِهِمۡۖ
     translation: (are) their mothers
     transliteration: ummahātihim
   9:
-    arabic: اِنۡ
+    arabic: إِنۡ
     translation: Not
     transliteration: in
   10:
-    arabic: اُمَّهٰتُهُمۡ
+    arabic: أُمَّهَٰتُهُمۡ
     translation: (are) their mothers
     transliteration: ummahātuhum
   11:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   12:
-    arabic: الّٰٓـىِٔۡ
+    arabic: ٱلَّٰٓـِٔي
     translation: those who
     transliteration: allāī
   13:
-    arabic: وَلَدۡنَهُمۡ​ؕ
+    arabic: وَلَدۡنَهُمۡۚ
     translation: gave them birth
     transliteration: waladnahum
   14:
-    arabic: وَاِنَّهُمۡ
+    arabic: وَإِنَّهُمۡ
     translation: And indeed, they
     transliteration: wa-innahum
   15:
-    arabic: لَيَقُوۡلُوۡنَ
+    arabic: لَيَقُولُونَ
     translation: surely say
     transliteration: layaqūlūna
   16:
-    arabic: مُنۡكَرًا
+    arabic: مُنكَرٗا
     translation: an evil
     transliteration: munkaran
   17:
@@ -76,19 +76,19 @@ word_by_word:
     translation: '[of]'
     transliteration: mina
   18:
-    arabic: الۡقَوۡلِ
+    arabic: ٱلۡقَوۡلِ
     translation: '[the] word'
     transliteration: l-qawli
   19:
-    arabic: وَزُوۡرًا​ؕ
+    arabic: وَزُورٗاۚ
     translation: and a lie
     transliteration: wazūran
   20:
-    arabic: وَ اِنَّ
+    arabic: وَإِنَّ
     translation: But indeed
     transliteration: wa-inna
   21:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   22:
@@ -96,7 +96,7 @@ word_by_word:
     translation: (is) surely, Oft-Pardoning
     transliteration: laʿafuwwun
   23:
-    arabic: غَفُوۡرٌ‏
+    arabic: غَفُورٞ
     translation: Oft-Forgiving
     transliteration: ghafūrun
 ---

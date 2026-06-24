@@ -1,17 +1,17 @@
 ---
-arabic_ayat: اِنَّاۤ اَنۡشَاۡنٰهُنَّ اِنۡشَآءًۙ‏
+arabic_ayat: إِنَّآ أَنشَأۡنَٰهُنَّ إِنشَآءٗ
 sentence_translation: Indeed, We will have perfectly created their mates,
 word_by_word:
   1:
-    arabic: اِنَّاۤ
+    arabic: إِنَّآ
     translation: Indeed, We
     transliteration: innā
   2:
-    arabic: اَنۡشَاۡنٰهُنَّ
+    arabic: أَنشَأۡنَٰهُنَّ
     translation: '[We] have produced them'
     transliteration: anshanāhunna
   3:
-    arabic: اِنۡشَآءًۙ‏
+    arabic: إِنشَآءٗ
     translation: (into) a creation
     transliteration: inshāan
 ---

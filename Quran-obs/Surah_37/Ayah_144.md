@@ -1,5 +1,5 @@
 ---
-arabic_ayat: لَلَبِثَ فِىۡ بَطۡنِهٖۤ اِلٰى يَوۡمِ يُبۡعَثُوۡنَ​ۚ‏
+arabic_ayat: لَلَبِثَ فِي بَطۡنِهِۦٓ إِلَىٰ يَوۡمِ يُبۡعَثُونَ
 sentence_translation: he would have certainly remained in its belly until the Day
   of Resurrection.
 word_by_word:
@@ -8,15 +8,15 @@ word_by_word:
     translation: Certainly, he (would have) remained
     transliteration: lalabitha
   2:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   3:
-    arabic: بَطۡنِهٖۤ
+    arabic: بَطۡنِهِۦٓ
     translation: its belly
     transliteration: baṭnihi
   4:
-    arabic: اِلٰى
+    arabic: إِلَىٰ
     translation: until
     transliteration: ilā
   5:
@@ -24,7 +24,7 @@ word_by_word:
     translation: the Day
     transliteration: yawmi
   6:
-    arabic: يُبۡعَثُوۡنَ​ۚ‏
+    arabic: يُبۡعَثُونَ
     translation: they are resurrected
     transliteration: yub'ʿathūna
 ---

@@ -1,16 +1,16 @@
 ---
-arabic_ayat: وَكَذٰلِكَ نَجزِىۡ مَنۡ اَسۡرَفَ وَلَمۡ يُؤۡمِنۡۢ بِاٰيٰتِ رَبِّهٖ​ؕ
-  وَلَعَذَابُ الۡاٰخِرَةِ اَشَدُّ وَاَبۡقٰى‏
+arabic_ayat: وَكَذَٰلِكَ نَجۡزِي مَنۡ أَسۡرَفَ وَلَمۡ يُؤۡمِنۢ بِـَٔايَٰتِ رَبِّهِۦۚ
+  وَلَعَذَابُ ٱلۡأٓخِرَةِ أَشَدُّ وَأَبۡقَىٰٓ
 sentence_translation: This is how We reward whoever transgresses and does not believe
   in the revelations of their Lord. And the punishment of the Hereafter is far more
   severe and more lasting.
 word_by_word:
   1:
-    arabic: وَكَذٰلِكَ
+    arabic: وَكَذَٰلِكَ
     translation: And thus
     transliteration: wakadhālika
   2:
-    arabic: نَجزِىۡ
+    arabic: نَجۡزِي
     translation: We recompense
     transliteration: najzī
   3:
@@ -18,7 +18,7 @@ word_by_word:
     translation: (he) who
     transliteration: man
   4:
-    arabic: اَسۡرَفَ
+    arabic: أَسۡرَفَ
     translation: transgresses
     transliteration: asrafa
   5:
@@ -26,15 +26,15 @@ word_by_word:
     translation: and not
     transliteration: walam
   6:
-    arabic: يُؤۡمِنۡۢ
+    arabic: يُؤۡمِنۢ
     translation: believes
     transliteration: yu'min
   7:
-    arabic: بِاٰيٰتِ
+    arabic: بِـَٔايَٰتِ
     translation: in (the) Signs
     transliteration: biāyāti
   8:
-    arabic: رَبِّهٖ​ؕ
+    arabic: رَبِّهِۦۚ
     translation: (of) his Lord
     transliteration: rabbihi
   9:
@@ -42,15 +42,15 @@ word_by_word:
     translation: And surely (the) punishment
     transliteration: walaʿadhābu
   10:
-    arabic: الۡاٰخِرَةِ
+    arabic: ٱلۡأٓخِرَةِ
     translation: (of) the Hereafter
     transliteration: l-ākhirati
   11:
-    arabic: اَشَدُّ
+    arabic: أَشَدُّ
     translation: (is) more severe
     transliteration: ashaddu
   12:
-    arabic: وَاَبۡقٰى‏
+    arabic: وَأَبۡقَىٰٓ
     translation: and more lasting
     transliteration: wa-abqā
 ---

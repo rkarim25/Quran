@@ -1,5 +1,5 @@
 ---
-arabic_ayat: فَطَافَ عَلَيۡهَا طَآٮِٕفٌ مِّنۡ رَّبِّكَ وَهُمۡ نَآٮِٕمُوۡنَ‏
+arabic_ayat: فَطَافَ عَلَيۡهَا طَآئِفٞ مِّن رَّبِّكَ وَهُمۡ نَآئِمُونَ
 sentence_translation: Then it was struck by a torment from your Lord while they slept,
 word_by_word:
   1:
@@ -11,11 +11,11 @@ word_by_word:
     translation: upon it
     transliteration: ʿalayhā
   3:
-    arabic: طَآٮِٕفٌ
+    arabic: طَآئِفٞ
     translation: a visitation
     transliteration: ṭāifun
   4:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: from
     transliteration: min
   5:
@@ -27,7 +27,7 @@ word_by_word:
     translation: while they
     transliteration: wahum
   7:
-    arabic: نَآٮِٕمُوۡنَ‏
+    arabic: نَآئِمُونَ
     translation: were asleep
     transliteration: nāimūna
 ---

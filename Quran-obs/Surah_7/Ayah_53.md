@@ -1,9 +1,8 @@
 ---
-arabic_ayat: "هَلۡ يَنۡظُرُوۡنَ اِلَّا تَاۡوِيۡلَهٗ​ؕ يَوۡمَ يَاۡتِىۡ تَاۡوِيۡلُهٗ\
-  \ يَقُوۡلُ الَّذِيۡنَ نَسُوۡهُ مِنۡ قَبۡلُ قَدۡ جَآءَتۡ رُسُلُ رَبِّنَا بِالۡحَـقِّ​ۚ\
-  \ فَهَلْ لَّـنَا مِنۡ شُفَعَآءَ فَيَشۡفَعُوۡا لَـنَاۤ اَوۡ نُرَدُّ فَنَعۡمَلَ غَيۡرَ\
-  \ الَّذِىۡ كُنَّا نَـعۡمَلُ​ؕ قَدۡ خَسِرُوۡۤا اَنۡفُسَهُمۡ وَضَلَّ عَنۡهُمۡ مَّا\
-  \ كَانُوۡا يَفۡتَرُوۡنَ‏ \uFEFF\uFEFF"
+arabic_ayat: هَلۡ يَنظُرُونَ إِلَّا تَأۡوِيلَهُۥۚ يَوۡمَ يَأۡتِي تَأۡوِيلُهُۥ يَقُولُ
+  ٱلَّذِينَ نَسُوهُ مِن قَبۡلُ قَدۡ جَآءَتۡ رُسُلُ رَبِّنَا بِٱلۡحَقِّ فَهَل لَّنَا
+  مِن شُفَعَآءَ فَيَشۡفَعُواْ لَنَآ أَوۡ نُرَدُّ فَنَعۡمَلَ غَيۡرَ ٱلَّذِي كُنَّا
+  نَعۡمَلُۚ قَدۡ خَسِرُوٓاْ أَنفُسَهُمۡ وَضَلَّ عَنۡهُم مَّا كَانُواْ يَفۡتَرُونَ
 sentence_translation: Do they only await the fulfilment ˹of its warning˺? The Day
   it will be fulfilled, those who ignored it before will say, “The messengers of our
   Lord certainly came with the truth. Are there any intercessors who can plead on
@@ -16,15 +15,15 @@ word_by_word:
     translation: Do
     transliteration: hal
   2:
-    arabic: يَنۡظُرُوۡنَ
+    arabic: يَنظُرُونَ
     translation: they wait
     transliteration: yanẓurūna
   3:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   4:
-    arabic: تَاۡوِيۡلَهٗ​ؕ
+    arabic: تَأۡوِيلَهُۥۚ
     translation: (for) its fulfillment
     transliteration: tawīlahu
   5:
@@ -32,27 +31,27 @@ word_by_word:
     translation: (The) Day
     transliteration: yawma
   6:
-    arabic: يَاۡتِىۡ
+    arabic: يَأۡتِي
     translation: (will) come
     transliteration: yatī
   7:
-    arabic: تَاۡوِيۡلُهٗ
+    arabic: تَأۡوِيلُهُۥ
     translation: its fulfillment
     transliteration: tawīluhu
   8:
-    arabic: يَقُوۡلُ
+    arabic: يَقُولُ
     translation: will say
     transliteration: yaqūlu
   9:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   10:
-    arabic: نَسُوۡهُ
+    arabic: نَسُوهُ
     translation: had forgotten it
     transliteration: nasūhu
   11:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   12:
@@ -76,19 +75,19 @@ word_by_word:
     translation: (of) our Lord
     transliteration: rabbinā
   17:
-    arabic: بِالۡحَـقِّ​ۚ
+    arabic: بِٱلۡحَقِّ
     translation: with the truth
     transliteration: bil-ḥaqi
   18:
-    arabic: فَهَلْ
+    arabic: فَهَل
     translation: so are (there)
     transliteration: fahal
   19:
-    arabic: لَّـنَا
+    arabic: لَّنَا
     translation: for us
     transliteration: lanā
   20:
-    arabic: مِنۡ
+    arabic: مِن
     translation: any
     transliteration: min
   21:
@@ -96,15 +95,15 @@ word_by_word:
     translation: intercessors
     transliteration: shufaʿāa
   22:
-    arabic: فَيَشۡفَعُوۡا
+    arabic: فَيَشۡفَعُواْ
     translation: so (that) they intercede
     transliteration: fayashfaʿū
   23:
-    arabic: لَـنَاۤ
+    arabic: لَنَآ
     translation: for us
     transliteration: lanā
   24:
-    arabic: اَوۡ
+    arabic: أَوۡ
     translation: or
     transliteration: aw
   25:
@@ -120,7 +119,7 @@ word_by_word:
     translation: other than
     transliteration: ghayra
   28:
-    arabic: الَّذِىۡ
+    arabic: ٱلَّذِي
     translation: that which
     transliteration: alladhī
   29:
@@ -128,7 +127,7 @@ word_by_word:
     translation: we used to
     transliteration: kunnā
   30:
-    arabic: نَـعۡمَلُ​ؕ
+    arabic: نَعۡمَلُۚ
     translation: do
     transliteration: naʿmalu
   31:
@@ -136,11 +135,11 @@ word_by_word:
     translation: Verily
     transliteration: qad
   32:
-    arabic: خَسِرُوۡۤا
+    arabic: خَسِرُوٓاْ
     translation: they lost
     transliteration: khasirū
   33:
-    arabic: اَنۡفُسَهُمۡ
+    arabic: أَنفُسَهُمۡ
     translation: themselves
     transliteration: anfusahum
   34:
@@ -148,7 +147,7 @@ word_by_word:
     translation: and strayed
     transliteration: waḍalla
   35:
-    arabic: عَنۡهُمۡ
+    arabic: عَنۡهُم
     translation: from them
     transliteration: ʿanhum
   36:
@@ -156,11 +155,11 @@ word_by_word:
     translation: what
     transliteration: mā
   37:
-    arabic: كَانُوۡا
+    arabic: كَانُواْ
     translation: they used to
     transliteration: kānū
   38:
-    arabic: "يَفۡتَرُوۡنَ‏ \uFEFF\uFEFF"
+    arabic: يَفۡتَرُونَ
     translation: invent
     transliteration: yaftarūna
 ---

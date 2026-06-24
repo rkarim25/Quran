@@ -1,11 +1,11 @@
 ---
-arabic_ayat: اِنِّىۡ وَجَّهۡتُ وَجۡهِىَ لِلَّذِىۡ فَطَرَ السَّمٰوٰتِ وَالۡاَرۡضَ حَنِيۡفًا​
-  وَّمَاۤ اَنَا مِنَ الۡمُشۡرِكِيۡنَ​ۚ‏
+arabic_ayat: إِنِّي وَجَّهۡتُ وَجۡهِيَ لِلَّذِي فَطَرَ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضَ حَنِيفٗاۖ
+  وَمَآ أَنَا۠ مِنَ ٱلۡمُشۡرِكِينَ
 sentence_translation: I have turned my face towards the One Who has originated the
   heavens and the earth—being upright—and I am not one of the polytheists.”
 word_by_word:
   1:
-    arabic: اِنِّىۡ
+    arabic: إِنِّي
     translation: Indeed, I
     transliteration: innī
   2:
@@ -13,11 +13,11 @@ word_by_word:
     translation: '[I] have turned'
     transliteration: wajjahtu
   3:
-    arabic: وَجۡهِىَ
+    arabic: وَجۡهِيَ
     translation: my face
     transliteration: wajhiya
   4:
-    arabic: لِلَّذِىۡ
+    arabic: لِلَّذِي
     translation: to the One Who
     transliteration: lilladhī
   5:
@@ -25,23 +25,23 @@ word_by_word:
     translation: created
     transliteration: faṭara
   6:
-    arabic: السَّمٰوٰتِ
+    arabic: ٱلسَّمَٰوَٰتِ
     translation: the heavens
     transliteration: l-samāwāti
   7:
-    arabic: وَالۡاَرۡضَ
+    arabic: وَٱلۡأَرۡضَ
     translation: and the earth
     transliteration: wal-arḍa
   8:
-    arabic: حَنِيۡفًا​
+    arabic: حَنِيفٗاۖ
     translation: (as) a true monotheist
     transliteration: ḥanīfan
   9:
-    arabic: وَّمَاۤ
+    arabic: وَمَآ
     translation: and not
     transliteration: wamā
   10:
-    arabic: اَنَا
+    arabic: أَنَا۠
     translation: I (am)
     transliteration: anā
   11:
@@ -49,7 +49,7 @@ word_by_word:
     translation: of
     transliteration: mina
   12:
-    arabic: الۡمُشۡرِكِيۡنَ​ۚ‏
+    arabic: ٱلۡمُشۡرِكِينَ
     translation: the polytheists
     transliteration: l-mush'rikīna
 ---

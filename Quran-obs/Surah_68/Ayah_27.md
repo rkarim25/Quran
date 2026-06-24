@@ -1,5 +1,5 @@
 ---
-arabic_ayat: بَلۡ نَحۡنُ مَحۡرُوۡمُوۡنَ‏
+arabic_ayat: بَلۡ نَحۡنُ مَحۡرُومُونَ
 sentence_translation: In fact, we have been deprived ˹of our livelihood˺.”
 word_by_word:
   1:
@@ -11,7 +11,7 @@ word_by_word:
     translation: We
     transliteration: naḥnu
   3:
-    arabic: مَحۡرُوۡمُوۡنَ‏
+    arabic: مَحۡرُومُونَ
     translation: (are) deprived
     transliteration: maḥrūmūna
 ---

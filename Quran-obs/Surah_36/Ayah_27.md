@@ -1,5 +1,5 @@
 ---
-arabic_ayat: بِمَا غَفَرَلِىۡ رَبِّىۡ وَجَعَلَنِىۡ مِنَ الۡمُكۡرَمِيۡنَ‏
+arabic_ayat: بِمَا غَفَرَ لِي رَبِّي وَجَعَلَنِي مِنَ ٱلۡمُكۡرَمِينَ
 sentence_translation: of how my Lord has forgiven me, and made me one of the honourable.”
 word_by_word:
   1:
@@ -11,15 +11,15 @@ word_by_word:
     translation: has forgiven
     transliteration: ghafara
   3:
-    arabic: لِىۡ
+    arabic: لِي
     translation: me
     transliteration: lī
   4:
-    arabic: رَبِّىۡ
+    arabic: رَبِّي
     translation: my Lord
     transliteration: rabbī
   5:
-    arabic: وَجَعَلَنِىۡ
+    arabic: وَجَعَلَنِي
     translation: and placed me
     transliteration: wajaʿalanī
   6:
@@ -27,7 +27,7 @@ word_by_word:
     translation: among
     transliteration: mina
   7:
-    arabic: الۡمُكۡرَمِيۡنَ‏
+    arabic: ٱلۡمُكۡرَمِينَ
     translation: the honored ones
     transliteration: l-muk'ramīna
 ---

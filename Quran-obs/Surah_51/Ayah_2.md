@@ -1,13 +1,13 @@
 ---
-arabic_ayat: فَالۡحٰمِلٰتِ وِقۡرًا ۙ‏
+arabic_ayat: فَٱلۡحَٰمِلَٰتِ وِقۡرٗا
 sentence_translation: and ˹the clouds˺ loaded with rain,
 word_by_word:
   1:
-    arabic: فَالۡحٰمِلٰتِ
+    arabic: فَٱلۡحَٰمِلَٰتِ
     translation: And those carrying
     transliteration: fal-ḥāmilāti
   2:
-    arabic: وِقۡرًا ۙ‏
+    arabic: وِقۡرٗا
     translation: a load
     transliteration: wiq'ran
 ---

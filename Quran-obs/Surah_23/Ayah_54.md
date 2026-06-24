@@ -1,5 +1,5 @@
 ---
-arabic_ayat: فَذَرۡهُمۡ فِىۡ غَمۡرَتِهِمۡ حَتّٰى حِيۡنٍ‏
+arabic_ayat: فَذَرۡهُمۡ فِي غَمۡرَتِهِمۡ حَتَّىٰ حِينٍ
 sentence_translation: So leave them ˹O Prophet˺ in their heedlessness for a while.
 word_by_word:
   1:
@@ -7,7 +7,7 @@ word_by_word:
     translation: So leave them
     transliteration: fadharhum
   2:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   3:
@@ -15,11 +15,11 @@ word_by_word:
     translation: their confusion
     transliteration: ghamratihim
   4:
-    arabic: حَتّٰى
+    arabic: حَتَّىٰ
     translation: until
     transliteration: ḥattā
   5:
-    arabic: حِيۡنٍ‏
+    arabic: حِينٍ
     translation: a time
     transliteration: ḥīnin
 ---

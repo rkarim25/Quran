@@ -1,12 +1,12 @@
 ---
-arabic_ayat: فَتَوَلّٰى عَنۡهُمۡ وَقَالَ يٰقَوۡمِ لَقَدۡ اَبۡلَغۡتُكُمۡ رِسَالَةَ
-  رَبِّىۡ وَنَصَحۡتُ لَـكُمۡ وَلٰـكِنۡ لَّا تُحِبُّوۡنَ النّٰصِحِيۡنَ‏
+arabic_ayat: فَتَوَلَّىٰ عَنۡهُمۡ وَقَالَ يَٰقَوۡمِ لَقَدۡ أَبۡلَغۡتُكُمۡ رِسَالَةَ
+  رَبِّي وَنَصَحۡتُ لَكُمۡ وَلَٰكِن لَّا تُحِبُّونَ ٱلنَّٰصِحِينَ
 sentence_translation: So he turned away from them, saying, “O my people! Surely I
   conveyed to you my Lord’s message and gave you ˹sincere˺ advice, but you do not
   like ˹sincere˺ advisors.”
 word_by_word:
   1:
-    arabic: فَتَوَلّٰى
+    arabic: فَتَوَلَّىٰ
     translation: So he turned away
     transliteration: fatawallā
   2:
@@ -18,7 +18,7 @@ word_by_word:
     translation: and he said
     transliteration: waqāla
   4:
-    arabic: يٰقَوۡمِ
+    arabic: يَٰقَوۡمِ
     translation: O my people
     transliteration: yāqawmi
   5:
@@ -26,7 +26,7 @@ word_by_word:
     translation: Verily
     transliteration: laqad
   6:
-    arabic: اَبۡلَغۡتُكُمۡ
+    arabic: أَبۡلَغۡتُكُمۡ
     translation: I have conveyed to you
     transliteration: ablaghtukum
   7:
@@ -34,7 +34,7 @@ word_by_word:
     translation: (the) Message
     transliteration: risālata
   8:
-    arabic: رَبِّىۡ
+    arabic: رَبِّي
     translation: (of) my Lord
     transliteration: rabbī
   9:
@@ -42,11 +42,11 @@ word_by_word:
     translation: and [I] advised
     transliteration: wanaṣaḥtu
   10:
-    arabic: لَـكُمۡ
+    arabic: لَكُمۡ
     translation: '[to] you'
     transliteration: lakum
   11:
-    arabic: وَلٰـكِنۡ
+    arabic: وَلَٰكِن
     translation: but
     transliteration: walākin
   12:
@@ -54,11 +54,11 @@ word_by_word:
     translation: not
     transliteration: lā
   13:
-    arabic: تُحِبُّوۡنَ
+    arabic: تُحِبُّونَ
     translation: you like
     transliteration: tuḥibbūna
   14:
-    arabic: النّٰصِحِيۡنَ‏
+    arabic: ٱلنَّٰصِحِينَ
     translation: the advisers
     transliteration: l-nāṣiḥīna
 ---

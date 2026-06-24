@@ -1,15 +1,15 @@
 ---
-arabic_ayat: يٰۤـاَيُّهَا النَّاسُ قَدۡ جَآءَكُمۡ بُرۡهَانٌ مِّنۡ رَّبِّكُمۡ وَاَنۡزَلۡنَاۤ
-  اِلَيۡكُمۡ نُوۡرًا مُّبِيۡنًا‏
+arabic_ayat: يَٰٓأَيُّهَا ٱلنَّاسُ قَدۡ جَآءَكُم بُرۡهَٰنٞ مِّن رَّبِّكُمۡ وَأَنزَلۡنَآ
+  إِلَيۡكُمۡ نُورٗا مُّبِينٗا
 sentence_translation: O humanity! There has come to you conclusive evidence from your
   Lord. And We have sent down to you a brilliant light.
 word_by_word:
   1:
-    arabic: يٰۤـاَيُّهَا
+    arabic: يَٰٓأَيُّهَا
     translation: O
     transliteration: yāayyuhā
   2:
-    arabic: النَّاسُ
+    arabic: ٱلنَّاسُ
     translation: mankind
     transliteration: l-nāsu
   3:
@@ -17,15 +17,15 @@ word_by_word:
     translation: Surely
     transliteration: qad
   4:
-    arabic: جَآءَكُمۡ
+    arabic: جَآءَكُم
     translation: has come to you
     transliteration: jāakum
   5:
-    arabic: بُرۡهَانٌ
+    arabic: بُرۡهَٰنٞ
     translation: a convincing proof
     transliteration: bur'hānun
   6:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: from
     transliteration: min
   7:
@@ -33,19 +33,19 @@ word_by_word:
     translation: your Lord
     transliteration: rabbikum
   8:
-    arabic: وَاَنۡزَلۡنَاۤ
+    arabic: وَأَنزَلۡنَآ
     translation: and We (have) sent down
     transliteration: wa-anzalnā
   9:
-    arabic: اِلَيۡكُمۡ
+    arabic: إِلَيۡكُمۡ
     translation: to you
     transliteration: ilaykum
   10:
-    arabic: نُوۡرًا
+    arabic: نُورٗا
     translation: a light
     transliteration: nūran
   11:
-    arabic: مُّبِيۡنًا‏
+    arabic: مُّبِينٗا
     translation: clear
     transliteration: mubīnan
 ---

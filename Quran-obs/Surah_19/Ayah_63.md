@@ -1,6 +1,5 @@
 ---
-arabic_ayat: "تِلۡكَ الۡجَـنَّةُ الَّتِىۡ نُوۡرِثُ مِنۡ عِبَادِنَا مَنۡ كَانَ تَقِيًّا‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: تِلۡكَ ٱلۡجَنَّةُ ٱلَّتِي نُورِثُ مِنۡ عِبَادِنَا مَن كَانَ تَقِيّٗا
 sentence_translation: That is Paradise, which We will grant to whoever is devout among
   Our servants.
 word_by_word:
@@ -9,15 +8,15 @@ word_by_word:
     translation: This
     transliteration: til'ka
   2:
-    arabic: الۡجَـنَّةُ
+    arabic: ٱلۡجَنَّةُ
     translation: (is) Paradise
     transliteration: l-janatu
   3:
-    arabic: الَّتِىۡ
+    arabic: ٱلَّتِي
     translation: which
     transliteration: allatī
   4:
-    arabic: نُوۡرِثُ
+    arabic: نُورِثُ
     translation: We give (as) inheritance
     transliteration: nūrithu
   5:
@@ -29,7 +28,7 @@ word_by_word:
     translation: Our slaves
     transliteration: ʿibādinā
   7:
-    arabic: مَنۡ
+    arabic: مَن
     translation: (the one) who
     transliteration: man
   8:
@@ -37,7 +36,7 @@ word_by_word:
     translation: is
     transliteration: kāna
   9:
-    arabic: "تَقِيًّا‏ \uFEFF\uFEFF"
+    arabic: تَقِيّٗا
     translation: righteous
     transliteration: taqiyyan
 ---

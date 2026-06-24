@@ -1,16 +1,16 @@
 ---
-arabic_ayat: وَاتَّقُوۡا يَوۡمًا لَّا تَجۡزِىۡ نَفۡسٌ عَنۡ نَّفۡسٍ شَيۡـًٔـا وَّلَا
-  يُقۡبَلُ مِنۡهَا شَفَاعَةٌ وَّلَا يُؤۡخَذُ مِنۡهَا عَدۡلٌ وَّلَا هُمۡ يُنۡصَرُوۡنَ‏
+arabic_ayat: وَٱتَّقُواْ يَوۡمٗا لَّا تَجۡزِي نَفۡسٌ عَن نَّفۡسٖ شَيۡـٔٗا وَلَا يُقۡبَلُ
+  مِنۡهَا شَفَٰعَةٞ وَلَا يُؤۡخَذُ مِنۡهَا عَدۡلٞ وَلَا هُمۡ يُنصَرُونَ
 sentence_translation: Guard yourselves against the Day on which no soul will be of
   help to another. No intercession will be accepted, no ransom taken, and no help
   will be given.
 word_by_word:
   1:
-    arabic: وَاتَّقُوۡا
+    arabic: وَٱتَّقُواْ
     translation: And fear
     transliteration: wa-ittaqū
   2:
-    arabic: يَوۡمًا
+    arabic: يَوۡمٗا
     translation: a day
     transliteration: yawman
   3:
@@ -18,7 +18,7 @@ word_by_word:
     translation: (will) not
     transliteration: lā
   4:
-    arabic: تَجۡزِىۡ
+    arabic: تَجۡزِي
     translation: avail
     transliteration: tajzī
   5:
@@ -26,19 +26,19 @@ word_by_word:
     translation: any soul
     transliteration: nafsun
   6:
-    arabic: عَنۡ
+    arabic: عَن
     translation: for
     transliteration: ʿan
   7:
-    arabic: نَّفۡسٍ
+    arabic: نَّفۡسٖ
     translation: (another) soul
     transliteration: nafsin
   8:
-    arabic: شَيۡـًٔـا
+    arabic: شَيۡـٔٗا
     translation: anything
     transliteration: shayan
   9:
-    arabic: وَّلَا
+    arabic: وَلَا
     translation: and not
     transliteration: walā
   10:
@@ -50,11 +50,11 @@ word_by_word:
     translation: from it
     transliteration: min'hā
   12:
-    arabic: شَفَاعَةٌ
+    arabic: شَفَٰعَةٞ
     translation: any intercession
     transliteration: shafāʿatun
   13:
-    arabic: وَّلَا
+    arabic: وَلَا
     translation: and not
     transliteration: walā
   14:
@@ -66,11 +66,11 @@ word_by_word:
     translation: from it
     transliteration: min'hā
   16:
-    arabic: عَدۡلٌ
+    arabic: عَدۡلٞ
     translation: a compensation
     transliteration: ʿadlun
   17:
-    arabic: وَّلَا
+    arabic: وَلَا
     translation: and not
     transliteration: walā
   18:
@@ -78,7 +78,7 @@ word_by_word:
     translation: they
     transliteration: hum
   19:
-    arabic: يُنۡصَرُوۡنَ‏
+    arabic: يُنصَرُونَ
     translation: will be helped
     transliteration: yunṣarūna
 ---

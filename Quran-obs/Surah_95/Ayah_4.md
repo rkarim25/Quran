@@ -1,5 +1,5 @@
 ---
-arabic_ayat: لَقَدۡ خَلَقۡنَا الۡاِنۡسَانَ فِىۡۤ اَحۡسَنِ تَقۡوِيۡمٍ‏
+arabic_ayat: لَقَدۡ خَلَقۡنَا ٱلۡإِنسَٰنَ فِيٓ أَحۡسَنِ تَقۡوِيمٖ
 sentence_translation: Indeed, We created humans in the best form.
 word_by_word:
   1:
@@ -11,19 +11,19 @@ word_by_word:
     translation: We created
     transliteration: khalaqnā
   3:
-    arabic: الۡاِنۡسَانَ
+    arabic: ٱلۡإِنسَٰنَ
     translation: man
     transliteration: l-insāna
   4:
-    arabic: فِىۡۤ
+    arabic: فِيٓ
     translation: in
     transliteration: fī
   5:
-    arabic: اَحۡسَنِ
+    arabic: أَحۡسَنِ
     translation: (the) best
     transliteration: aḥsani
   6:
-    arabic: تَقۡوِيۡمٍ‏
+    arabic: تَقۡوِيمٖ
     translation: mould
     transliteration: taqwīmin
 ---

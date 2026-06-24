@@ -1,14 +1,14 @@
 ---
-arabic_ayat: اَمۡ حَسِبۡتُمۡ اَنۡ تُتۡرَكُوۡا وَلَـمَّا يَعۡلَمِ اللّٰهُ الَّذِيۡنَ
-  جَاهَدُوۡا مِنۡكُمۡ وَلَمۡ يَتَّخِذُوۡا مِنۡ دُوۡنِ اللّٰهِ وَلَا رَسُوۡلِهٖ وَلَا
-  الۡمُؤۡمِنِيۡنَ وَلِيۡجَةً​ ؕ وَاللّٰهُ خَبِيۡرٌۢ بِمَا تَعۡمَلُوۡنَ‏
+arabic_ayat: أَمۡ حَسِبۡتُمۡ أَن تُتۡرَكُواْ وَلَمَّا يَعۡلَمِ ٱللَّهُ ٱلَّذِينَ جَٰهَدُواْ
+  مِنكُمۡ وَلَمۡ يَتَّخِذُواْ مِن دُونِ ٱللَّهِ وَلَا رَسُولِهِۦ وَلَا ٱلۡمُؤۡمِنِينَ
+  وَلِيجَةٗۚ وَٱللَّهُ خَبِيرُۢ بِمَا تَعۡمَلُونَ
 sentence_translation: Do you ˹believers˺ think that you will be left without Allah
   proving who among you ˹truly˺ struggles ˹in His cause˺ and never takes trusted allies
   other than Allah, His Messenger, or the believers? And Allah is All-Aware of what
   you do.
 word_by_word:
   1:
-    arabic: اَمۡ
+    arabic: أَمۡ
     translation: Or
     transliteration: am
   2:
@@ -16,15 +16,15 @@ word_by_word:
     translation: (do) you think
     transliteration: ḥasib'tum
   3:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that
     transliteration: an
   4:
-    arabic: تُتۡرَكُوۡا
+    arabic: تُتۡرَكُواْ
     translation: you would be left
     transliteration: tut'rakū
   5:
-    arabic: وَلَـمَّا
+    arabic: وَلَمَّا
     translation: while not
     transliteration: walammā
   6:
@@ -32,19 +32,19 @@ word_by_word:
     translation: Allah made evident
     transliteration: yaʿlami
   7:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah made evident
     transliteration: l-lahu
   8:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   9:
-    arabic: جَاهَدُوۡا
+    arabic: جَٰهَدُواْ
     translation: strive
     transliteration: jāhadū
   10:
-    arabic: مِنۡكُمۡ
+    arabic: مِنكُمۡ
     translation: among you
     transliteration: minkum
   11:
@@ -52,19 +52,19 @@ word_by_word:
     translation: and not
     transliteration: walam
   12:
-    arabic: يَتَّخِذُوۡا
+    arabic: يَتَّخِذُواْ
     translation: take
     transliteration: yattakhidhū
   13:
-    arabic: مِنۡ
+    arabic: مِن
     translation: besides Allah
     transliteration: min
   14:
-    arabic: دُوۡنِ
+    arabic: دُونِ
     translation: besides Allah
     transliteration: dūni
   15:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: besides Allah
     transliteration: l-lahi
   16:
@@ -72,7 +72,7 @@ word_by_word:
     translation: and not
     transliteration: walā
   17:
-    arabic: رَسُوۡلِهٖ
+    arabic: رَسُولِهِۦ
     translation: His Messenger
     transliteration: rasūlihi
   18:
@@ -80,19 +80,19 @@ word_by_word:
     translation: and not
     transliteration: walā
   19:
-    arabic: الۡمُؤۡمِنِيۡنَ
+    arabic: ٱلۡمُؤۡمِنِينَ
     translation: the believers
     transliteration: l-mu'minīna
   20:
-    arabic: وَلِيۡجَةً​ ؕ
+    arabic: وَلِيجَةٗۚ
     translation: (as) intimates
     transliteration: walījatan
   21:
-    arabic: وَاللّٰهُ
+    arabic: وَٱللَّهُ
     translation: And Allah
     transliteration: wal-lahu
   22:
-    arabic: خَبِيۡرٌۢ
+    arabic: خَبِيرُۢ
     translation: (is) All-Aware
     transliteration: khabīrun
   23:
@@ -100,7 +100,7 @@ word_by_word:
     translation: of what
     transliteration: bimā
   24:
-    arabic: تَعۡمَلُوۡنَ‏
+    arabic: تَعۡمَلُونَ
     translation: you do
     transliteration: taʿmalūna
 ---

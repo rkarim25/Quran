@@ -1,36 +1,36 @@
 ---
-arabic_ayat: وَلَوۡ اَرَادُوۡا الۡخُـرُوۡجَ لَاَعَدُّوۡا لَهٗ عُدَّةً وَّلٰـكِنۡ كَرِهَ
-  اللّٰهُ انۢبِعَاثَهُمۡ فَثَبَّطَهُمۡ وَقِيۡلَ اقۡعُدُوۡا مَعَ الۡقٰعِدِيۡنَ‏
+arabic_ayat: ۞ وَلَوۡ أَرَادُواْ ٱلۡخُرُوجَ لَأَعَدُّواْ لَهُۥ عُدَّةٗ وَلَٰكِن كَرِهَ
+  ٱللَّهُ ٱنۢبِعَاثَهُمۡ فَثَبَّطَهُمۡ وَقِيلَ ٱقۡعُدُواْ مَعَ ٱلۡقَٰعِدِينَ
 sentence_translation: Had they ˹really˺ intended to march forth, they would have made
   preparations for it. But Allah disliked that they should go, so He let them lag
   behind, and it was said ˹to them˺, “Stay with those ˹helpless˺ who remain behind.”
 word_by_word:
   1:
-    arabic: ۞ وَلَوۡ
+    arabic: ۞ وَلَوۡ
     translation: And if
     transliteration: walaw
   2:
-    arabic: اَرَادُوۡا
+    arabic: أَرَادُواْ
     translation: they had wished
     transliteration: arādū
   3:
-    arabic: الۡخُـرُوۡجَ
+    arabic: ٱلۡخُرُوجَ
     translation: (to) go forth
     transliteration: l-khurūja
   4:
-    arabic: لَاَعَدُّوۡا
+    arabic: لَأَعَدُّواْ
     translation: surely they (would) have prepared
     transliteration: la-aʿaddū
   5:
-    arabic: لَهٗ
+    arabic: لَهُۥ
     translation: for it
     transliteration: lahu
   6:
-    arabic: عُدَّةً
+    arabic: عُدَّةٗ
     translation: (some) preparation
     transliteration: ʿuddatan
   7:
-    arabic: وَّلٰـكِنۡ
+    arabic: وَلَٰكِن
     translation: But
     transliteration: walākin
   8:
@@ -38,11 +38,11 @@ word_by_word:
     translation: Allah disliked
     transliteration: kariha
   9:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah disliked
     transliteration: l-lahu
   10:
-    arabic: انۢبِعَاثَهُمۡ
+    arabic: ٱنۢبِعَاثَهُمۡ
     translation: their being sent
     transliteration: inbiʿāthahum
   11:
@@ -50,11 +50,11 @@ word_by_word:
     translation: so He made them lag behind
     transliteration: fathabbaṭahum
   12:
-    arabic: وَقِيۡلَ
+    arabic: وَقِيلَ
     translation: and it was said
     transliteration: waqīla
   13:
-    arabic: اقۡعُدُوۡا
+    arabic: ٱقۡعُدُواْ
     translation: Sit
     transliteration: uq'ʿudū
   14:
@@ -62,7 +62,7 @@ word_by_word:
     translation: with
     transliteration: maʿa
   15:
-    arabic: الۡقٰعِدِيۡنَ‏
+    arabic: ٱلۡقَٰعِدِينَ
     translation: those who sit
     transliteration: l-qāʿidīna
 ---

@@ -1,13 +1,13 @@
 ---
-arabic_ayat: وَالۡجِبَالَ اَرۡسٰٮهَا ۙ‏
+arabic_ayat: وَٱلۡجِبَالَ أَرۡسَىٰهَا
 sentence_translation: and setting the mountains firmly ˹upon it˺—
 word_by_word:
   1:
-    arabic: وَالۡجِبَالَ
+    arabic: وَٱلۡجِبَالَ
     translation: And the mountains
     transliteration: wal-jibāla
   2:
-    arabic: اَرۡسٰٮهَا ۙ‏
+    arabic: أَرۡسَىٰهَا
     translation: He made them firm
     transliteration: arsāhā
 ---

@@ -1,5 +1,5 @@
 ---
-arabic_ayat: قَالَ فَمَا خَطۡبُكُمۡ اَيُّهَا الۡمُرۡسَلُوۡنَ‏
+arabic_ayat: قَالَ فَمَا خَطۡبُكُمۡ أَيُّهَا ٱلۡمُرۡسَلُونَ
 sentence_translation: He ˹then˺ added, “What is your mission, O  messenger-angels?”
 word_by_word:
   1:
@@ -15,11 +15,11 @@ word_by_word:
     translation: (is) your business
     transliteration: khaṭbukum
   4:
-    arabic: اَيُّهَا
+    arabic: أَيُّهَا
     translation: O messengers
     transliteration: ayyuhā
   5:
-    arabic: الۡمُرۡسَلُوۡنَ‏
+    arabic: ٱلۡمُرۡسَلُونَ
     translation: O messengers
     transliteration: l-mur'salūna
 ---

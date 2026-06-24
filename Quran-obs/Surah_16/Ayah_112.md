@@ -1,7 +1,7 @@
 ---
-arabic_ayat: وَضَرَبَ اللّٰهُ مَثَلًا قَرۡيَةً كَانَتۡ اٰمِنَةً مُّطۡمَٮِٕنَّةً يَّاۡتِيۡهَا
-  رِزۡقُهَا رَغَدًا مِّنۡ كُلِّ مَكَانٍ فَكَفَرَتۡ بِاَنۡعُمِ اللّٰهِ فَاَذَاقَهَا
-  اللّٰهُ لِبَاسَ الۡجُـوۡعِ وَالۡخَـوۡفِ بِمَا كَانُوۡا يَصۡنَعُوۡنَ‏
+arabic_ayat: وَضَرَبَ ٱللَّهُ مَثَلٗا قَرۡيَةٗ كَانَتۡ ءَامِنَةٗ مُّطۡمَئِنَّةٗ يَأۡتِيهَا
+  رِزۡقُهَا رَغَدٗا مِّن كُلِّ مَكَانٖ فَكَفَرَتۡ بِأَنۡعُمِ ٱللَّهِ فَأَذَٰقَهَا
+  ٱللَّهُ لِبَاسَ ٱلۡجُوعِ وَٱلۡخَوۡفِ بِمَا كَانُواْ يَصۡنَعُونَ
 sentence_translation: And Allah sets forth the example of a society which was safe
   and at ease, receiving its provision in abundance from all directions. But its people
   met Allah’s favours with ingratitude, so Allah made them taste the clutches of hunger
@@ -12,31 +12,31 @@ word_by_word:
     translation: And Allah sets forth
     transliteration: waḍaraba
   2:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: And Allah sets forth
     transliteration: l-lahu
   3:
-    arabic: مَثَلًا
+    arabic: مَثَلٗا
     translation: a similitude
     transliteration: mathalan
   4:
-    arabic: قَرۡيَةً
+    arabic: قَرۡيَةٗ
     translation: (of) a town
     transliteration: qaryatan
   5:
-    arabic: كَانَتۡ
+    arabic: كَانَتۡ ءَ
     translation: (that) was
     transliteration: kānat
   6:
-    arabic: اٰمِنَةً
+    arabic: امِنَةٗ
     translation: secure
     transliteration: āminatan
   7:
-    arabic: مُّطۡمَٮِٕنَّةً
+    arabic: مُّطۡمَئِنَّةٗ
     translation: and content
     transliteration: muṭ'ma-innatan
   8:
-    arabic: يَّاۡتِيۡهَا
+    arabic: يَأۡتِيهَا
     translation: coming to it
     transliteration: yatīhā
   9:
@@ -44,11 +44,11 @@ word_by_word:
     translation: its provision
     transliteration: riz'quhā
   10:
-    arabic: رَغَدًا
+    arabic: رَغَدٗا
     translation: (in) abundance
     transliteration: raghadan
   11:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: from
     transliteration: min
   12:
@@ -56,7 +56,7 @@ word_by_word:
     translation: every
     transliteration: kulli
   13:
-    arabic: مَكَانٍ
+    arabic: مَكَانٖ
     translation: place
     transliteration: makānin
   14:
@@ -64,19 +64,19 @@ word_by_word:
     translation: but it denied
     transliteration: fakafarat
   15:
-    arabic: بِاَنۡعُمِ
+    arabic: بِأَنۡعُمِ
     translation: (the) Favors of Allah
     transliteration: bi-anʿumi
   16:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (the) Favors of Allah
     transliteration: l-lahi
   17:
-    arabic: فَاَذَاقَهَا
+    arabic: فَأَذَٰقَهَا
     translation: so Allah made it taste
     transliteration: fa-adhāqahā
   18:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: so Allah made it taste
     transliteration: l-lahu
   19:
@@ -84,11 +84,11 @@ word_by_word:
     translation: (the) garb
     transliteration: libāsa
   20:
-    arabic: الۡجُـوۡعِ
+    arabic: ٱلۡجُوعِ
     translation: (of) the hunger
     transliteration: l-jūʿi
   21:
-    arabic: وَالۡخَـوۡفِ
+    arabic: وَٱلۡخَوۡفِ
     translation: and the fear
     transliteration: wal-khawfi
   22:
@@ -96,11 +96,11 @@ word_by_word:
     translation: for what
     transliteration: bimā
   23:
-    arabic: كَانُوۡا
+    arabic: كَانُواْ
     translation: they used (to)
     transliteration: kānū
   24:
-    arabic: يَصۡنَعُوۡنَ‏
+    arabic: يَصۡنَعُونَ
     translation: do
     transliteration: yaṣnaʿūna
 ---

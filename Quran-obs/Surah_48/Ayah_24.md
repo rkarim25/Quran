@@ -1,7 +1,7 @@
 ---
-arabic_ayat: وَهُوَ الَّذِىۡ كَفَّ اَيۡدِيَهُمۡ عَنۡكُمۡ وَاَيۡدِيَكُمۡ عَنۡهُمۡ بِبَطۡنِ
-  مَكَّةَ مِنۡۢ بَعۡدِ اَنۡ اَظۡفَرَكُمۡ عَلَيۡهِمۡ​ؕ وَكَانَ اللّٰهُ بِمَا تَعۡمَلُوۡنَ
-  بَصِيۡرًا‏
+arabic_ayat: وَهُوَ ٱلَّذِي كَفَّ أَيۡدِيَهُمۡ عَنكُمۡ وَأَيۡدِيَكُمۡ عَنۡهُم بِبَطۡنِ
+  مَكَّةَ مِنۢ بَعۡدِ أَنۡ أَظۡفَرَكُمۡ عَلَيۡهِمۡۚ وَكَانَ ٱللَّهُ بِمَا تَعۡمَلُونَ
+  بَصِيرًا
 sentence_translation: He is the One Who held back their hands from you and your hands
   from them in the valley of ˹Ḥudaibiyah, near˺ Mecca, after giving you the upper
   hand over ˹a group of˺ them. And Allah is All-Seeing of what you do.
@@ -11,7 +11,7 @@ word_by_word:
     translation: And He
     transliteration: wahuwa
   2:
-    arabic: الَّذِىۡ
+    arabic: ٱلَّذِي
     translation: (is) the One Who
     transliteration: alladhī
   3:
@@ -19,19 +19,19 @@ word_by_word:
     translation: withheld
     transliteration: kaffa
   4:
-    arabic: اَيۡدِيَهُمۡ
+    arabic: أَيۡدِيَهُمۡ
     translation: their hands
     transliteration: aydiyahum
   5:
-    arabic: عَنۡكُمۡ
+    arabic: عَنكُمۡ
     translation: from you
     transliteration: ʿankum
   6:
-    arabic: وَاَيۡدِيَكُمۡ
+    arabic: وَأَيۡدِيَكُمۡ
     translation: and your hands
     transliteration: wa-aydiyakum
   7:
-    arabic: عَنۡهُمۡ
+    arabic: عَنۡهُم
     translation: from them
     transliteration: ʿanhum
   8:
@@ -43,7 +43,7 @@ word_by_word:
     translation: Makkah
     transliteration: makkata
   10:
-    arabic: مِنۡۢ
+    arabic: مِنۢ
     translation: after
     transliteration: min
   11:
@@ -51,15 +51,15 @@ word_by_word:
     translation: after
     transliteration: baʿdi
   12:
-    arabic: اَنۡ
+    arabic: أَنۡ
     translation: that
     transliteration: an
   13:
-    arabic: اَظۡفَرَكُمۡ
+    arabic: أَظۡفَرَكُمۡ
     translation: He gave you victory
     transliteration: aẓfarakum
   14:
-    arabic: عَلَيۡهِمۡ​ؕ
+    arabic: عَلَيۡهِمۡۚ
     translation: over them
     transliteration: ʿalayhim
   15:
@@ -67,7 +67,7 @@ word_by_word:
     translation: And is
     transliteration: wakāna
   16:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   17:
@@ -75,11 +75,11 @@ word_by_word:
     translation: of what
     transliteration: bimā
   18:
-    arabic: تَعۡمَلُوۡنَ
+    arabic: تَعۡمَلُونَ
     translation: you do
     transliteration: taʿmalūna
   19:
-    arabic: بَصِيۡرًا‏
+    arabic: بَصِيرًا
     translation: All-Seer
     transliteration: baṣīran
 ---

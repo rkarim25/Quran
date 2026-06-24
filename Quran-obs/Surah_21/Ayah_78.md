@@ -1,35 +1,35 @@
 ---
-arabic_ayat: وَدَاوٗدَ وَسُلَيۡمٰنَ اِذۡ يَحۡكُمٰنِ فِى الۡحَـرۡثِ اِذۡ نَفَشَتۡ فِيۡهِ
-  غَنَمُ الۡقَوۡمِ​ۚ وَكُنَّا لِحُكۡمِهِمۡ شٰهِدِيۡنَ ۙ‏
+arabic_ayat: وَدَاوُۥدَ وَسُلَيۡمَٰنَ إِذۡ يَحۡكُمَانِ فِي ٱلۡحَرۡثِ إِذۡ نَفَشَتۡ
+  فِيهِ غَنَمُ ٱلۡقَوۡمِ وَكُنَّا لِحُكۡمِهِمۡ شَٰهِدِينَ
 sentence_translation: And ˹remember˺ when David and Solomon passed judgment regarding
   the crops ruined ˹at night˺ by someone’s sheep, and We were witness to their judgments.
 word_by_word:
   1:
-    arabic: وَدَاوٗدَ
+    arabic: وَدَاوُۥدَ
     translation: And Dawud
     transliteration: wadāwūda
   2:
-    arabic: وَسُلَيۡمٰنَ
+    arabic: وَسُلَيۡمَٰنَ
     translation: and Sulaiman
     transliteration: wasulaymāna
   3:
-    arabic: اِذۡ
+    arabic: إِذۡ
     translation: when
     transliteration: idh
   4:
-    arabic: يَحۡكُمٰنِ
+    arabic: يَحۡكُمَانِ
     translation: they judged
     transliteration: yaḥkumāni
   5:
-    arabic: فِى
+    arabic: فِي
     translation: concerning
     transliteration: fī
   6:
-    arabic: الۡحَـرۡثِ
+    arabic: ٱلۡحَرۡثِ
     translation: the field
     transliteration: l-ḥarthi
   7:
-    arabic: اِذۡ
+    arabic: إِذۡ
     translation: when
     transliteration: idh
   8:
@@ -37,7 +37,7 @@ word_by_word:
     translation: pastured
     transliteration: nafashat
   9:
-    arabic: فِيۡهِ
+    arabic: فِيهِ
     translation: in it
     transliteration: fīhi
   10:
@@ -45,7 +45,7 @@ word_by_word:
     translation: sheep
     transliteration: ghanamu
   11:
-    arabic: الۡقَوۡمِ​ۚ
+    arabic: ٱلۡقَوۡمِ
     translation: (of) a people
     transliteration: l-qawmi
   12:
@@ -57,7 +57,7 @@ word_by_word:
     translation: to their judgment
     transliteration: liḥuk'mihim
   14:
-    arabic: شٰهِدِيۡنَ ۙ‏
+    arabic: شَٰهِدِينَ
     translation: witness
     transliteration: shāhidīna
 ---

@@ -1,22 +1,22 @@
 ---
-arabic_ayat: وَاَدۡخَلۡنٰهُمۡ فِىۡ رَحۡمَتِنَا ؕ اِنَّهُمۡ مِّنَ الصّٰلِحِيۡنَ‏
+arabic_ayat: وَأَدۡخَلۡنَٰهُمۡ فِي رَحۡمَتِنَآۖ إِنَّهُم مِّنَ ٱلصَّٰلِحِينَ
 sentence_translation: We admitted them into Our mercy, for they were truly of the
   righteous.
 word_by_word:
   1:
-    arabic: وَاَدۡخَلۡنٰهُمۡ
+    arabic: وَأَدۡخَلۡنَٰهُمۡ
     translation: And We admitted them
     transliteration: wa-adkhalnāhum
   2:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   3:
-    arabic: رَحۡمَتِنَا ؕ
+    arabic: رَحۡمَتِنَآۖ
     translation: Our Mercy
     transliteration: raḥmatinā
   4:
-    arabic: اِنَّهُمۡ
+    arabic: إِنَّهُم
     translation: Indeed, they
     transliteration: innahum
   5:
@@ -24,7 +24,7 @@ word_by_word:
     translation: (were) of
     transliteration: mina
   6:
-    arabic: الصّٰلِحِيۡنَ‏
+    arabic: ٱلصَّٰلِحِينَ
     translation: the righteous
     transliteration: l-ṣāliḥīna
 ---

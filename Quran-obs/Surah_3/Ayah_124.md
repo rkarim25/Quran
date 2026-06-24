@@ -1,48 +1,48 @@
 ---
-arabic_ayat: اِذۡ تَقُوۡلُ لِلۡمُؤۡمِنِيۡنَ اَلَنۡ يَّكۡفِيَكُمۡ اَنۡ يُّمِدَّكُمۡ
-  رَبُّكُمۡ بِثَلٰثَةِ اٰلَافٍ مِّنَ الۡمَلٰٓٮِٕكَةِ مُنۡزَلِيۡنَؕ‏
+arabic_ayat: إِذۡ تَقُولُ لِلۡمُؤۡمِنِينَ أَلَن يَكۡفِيَكُمۡ أَن يُمِدَّكُمۡ رَبُّكُم
+  بِثَلَٰثَةِ ءَالَٰفٖ مِّنَ ٱلۡمَلَٰٓئِكَةِ مُنزَلِينَ
 sentence_translation: ˹Remember, O  Prophet,˺ when you said to the believers, “Is
   it not enough that your Lord will send down a reinforcement of three thousand angels
   for your aid?”
 word_by_word:
   1:
-    arabic: اِذۡ
+    arabic: إِذۡ
     translation: When
     transliteration: idh
   2:
-    arabic: تَقُوۡلُ
+    arabic: تَقُولُ
     translation: you said
     transliteration: taqūlu
   3:
-    arabic: لِلۡمُؤۡمِنِيۡنَ
+    arabic: لِلۡمُؤۡمِنِينَ
     translation: to the believers
     transliteration: lil'mu'minīna
   4:
-    arabic: اَلَنۡ
+    arabic: أَلَن
     translation: Is it not
     transliteration: alan
   5:
-    arabic: يَّكۡفِيَكُمۡ
+    arabic: يَكۡفِيَكُمۡ
     translation: enough for you
     transliteration: yakfiyakum
   6:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that
     transliteration: an
   7:
-    arabic: يُّمِدَّكُمۡ
+    arabic: يُمِدَّكُمۡ
     translation: reinforces you
     transliteration: yumiddakum
   8:
-    arabic: رَبُّكُمۡ
+    arabic: رَبُّكُم
     translation: your Lord
     transliteration: rabbukum
   9:
-    arabic: بِثَلٰثَةِ
+    arabic: بِثَلَٰثَةِ ءَ
     translation: with three
     transliteration: bithalāthati
   10:
-    arabic: اٰلَافٍ
+    arabic: الَٰفٖ
     translation: thousand[s]
     transliteration: ālāfin
   11:
@@ -50,11 +50,11 @@ word_by_word:
     translation: '[of]'
     transliteration: mina
   12:
-    arabic: الۡمَلٰٓٮِٕكَةِ
+    arabic: ٱلۡمَلَٰٓئِكَةِ
     translation: '[the] Angels'
     transliteration: l-malāikati
   13:
-    arabic: مُنۡزَلِيۡنَؕ‏
+    arabic: مُنزَلِينَ
     translation: '[the ones] sent down'
     transliteration: munzalīna
 ---

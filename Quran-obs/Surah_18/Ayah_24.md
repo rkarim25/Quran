@@ -1,28 +1,28 @@
 ---
-arabic_ayat: اِلَّاۤ اَنۡ يَّشَآءَ اللّٰهُ​ وَاذۡكُرْ رَّبَّكَ اِذَا نَسِيۡتَ وَقُلۡ
-  عَسٰٓى اَنۡ يَّهۡدِيَنِ رَبِّىۡ لِاَقۡرَبَ مِنۡ هٰذَا رَشَدًا‏
+arabic_ayat: إِلَّآ أَن يَشَآءَ ٱللَّهُۚ وَٱذۡكُر رَّبَّكَ إِذَا نَسِيتَ وَقُلۡ
+  عَسَىٰٓ أَن يَهۡدِيَنِ رَبِّي لِأَقۡرَبَ مِنۡ هَٰذَا رَشَدٗا
 sentence_translation: without adding, “if Allah so wills!” But if you forget, then
   remember your Lord, and say, “I trust my Lord will guide me to what is more right
   than this.”
 word_by_word:
   1:
-    arabic: اِلَّاۤ
+    arabic: إِلَّآ
     translation: Except
     transliteration: illā
   2:
-    arabic: اَنۡ
+    arabic: أَن
     translation: If
     transliteration: an
   3:
-    arabic: يَّشَآءَ
+    arabic: يَشَآءَ
     translation: Allah wills
     transliteration: yashāa
   4:
-    arabic: اللّٰهُ​
+    arabic: ٱللَّهُۚ
     translation: Allah wills
     transliteration: l-lahu
   5:
-    arabic: وَاذۡكُرْ
+    arabic: وَٱذۡكُر
     translation: And remember
     transliteration: wa-udh'kur
   6:
@@ -30,11 +30,11 @@ word_by_word:
     translation: your Lord
     transliteration: rabbaka
   7:
-    arabic: اِذَا
+    arabic: إِذَا
     translation: when
     transliteration: idhā
   8:
-    arabic: نَسِيۡتَ
+    arabic: نَسِيتَ
     translation: you forget
     transliteration: nasīta
   9:
@@ -42,23 +42,23 @@ word_by_word:
     translation: and say
     transliteration: waqul
   10:
-    arabic: عَسٰٓى
+    arabic: عَسَىٰٓ
     translation: Perhaps
     transliteration: ʿasā
   11:
-    arabic: اَنۡ
+    arabic: أَن
     translation: '[that]'
     transliteration: an
   12:
-    arabic: يَّهۡدِيَنِ
+    arabic: يَهۡدِيَنِ
     translation: will guide me
     transliteration: yahdiyani
   13:
-    arabic: رَبِّىۡ
+    arabic: رَبِّي
     translation: my Lord
     transliteration: rabbī
   14:
-    arabic: لِاَقۡرَبَ
+    arabic: لِأَقۡرَبَ
     translation: to a nearer (way)
     transliteration: li-aqraba
   15:
@@ -66,11 +66,11 @@ word_by_word:
     translation: than
     transliteration: min
   16:
-    arabic: هٰذَا
+    arabic: هَٰذَا
     translation: this
     transliteration: hādhā
   17:
-    arabic: رَشَدًا‏
+    arabic: رَشَدٗا
     translation: right way
     transliteration: rashadan
 ---

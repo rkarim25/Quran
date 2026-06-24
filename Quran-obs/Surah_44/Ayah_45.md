@@ -1,21 +1,21 @@
 ---
-arabic_ayat: كَالۡمُهۡلِ ۛۚ يَغۡلِىۡ فِى الۡبُطُوۡنِۙ‏
+arabic_ayat: كَٱلۡمُهۡلِ يَغۡلِي فِي ٱلۡبُطُونِ
 sentence_translation: Like molten metal, it will boil in the bellies
 word_by_word:
   1:
-    arabic: كَالۡمُهۡلِ ۛۚ
+    arabic: كَٱلۡمُهۡلِ
     translation: Like the murky oil
     transliteration: kal-muh'li
   2:
-    arabic: يَغۡلِىۡ
+    arabic: يَغۡلِي
     translation: it will boil
     transliteration: yaghlī
   3:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   4:
-    arabic: الۡبُطُوۡنِۙ‏
+    arabic: ٱلۡبُطُونِ
     translation: the bellies
     transliteration: l-buṭūni
 ---

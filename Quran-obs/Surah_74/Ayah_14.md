@@ -1,17 +1,17 @@
 ---
-arabic_ayat: وَّمَهَّدتُّ لَهٗ تَمۡهِيۡدًا ۙ‏
+arabic_ayat: وَمَهَّدتُّ لَهُۥ تَمۡهِيدٗا
 sentence_translation: and made life very easy for him.
 word_by_word:
   1:
-    arabic: وَّمَهَّدتُّ
+    arabic: وَمَهَّدتُّ
     translation: And I spread
     transliteration: wamahhadttu
   2:
-    arabic: لَهٗ
+    arabic: لَهُۥ
     translation: for him
     transliteration: lahu
   3:
-    arabic: تَمۡهِيۡدًا ۙ‏
+    arabic: تَمۡهِيدٗا
     translation: ease
     transliteration: tamhīdan
 ---

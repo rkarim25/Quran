@@ -1,11 +1,10 @@
 ---
-arabic_ayat: "وَلَـقَدۡ خَلَقۡنَا الۡاِنۡسَانَ مِنۡ صَلۡصَالٍ مِّنۡ حَمَاٍ مَّسۡنُوۡنٍ​ۚ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: وَلَقَدۡ خَلَقۡنَا ٱلۡإِنسَٰنَ مِن صَلۡصَٰلٖ مِّنۡ حَمَإٖ مَّسۡنُونٖ
 sentence_translation: Indeed, We created man from sounding clay moulded from black
   mud.
 word_by_word:
   1:
-    arabic: وَلَـقَدۡ
+    arabic: وَلَقَدۡ
     translation: And verily
     transliteration: walaqad
   2:
@@ -13,15 +12,15 @@ word_by_word:
     translation: We created
     transliteration: khalaqnā
   3:
-    arabic: الۡاِنۡسَانَ
+    arabic: ٱلۡإِنسَٰنَ
     translation: humankind
     transliteration: l-insāna
   4:
-    arabic: مِنۡ
+    arabic: مِن
     translation: (out) of
     transliteration: min
   5:
-    arabic: صَلۡصَالٍ
+    arabic: صَلۡصَٰلٖ
     translation: sounding clay
     transliteration: ṣalṣālin
   6:
@@ -29,11 +28,11 @@ word_by_word:
     translation: from
     transliteration: min
   7:
-    arabic: حَمَاٍ
+    arabic: حَمَإٖ
     translation: black mud
     transliteration: ḥama-in
   8:
-    arabic: "مَّسۡنُوۡنٍ​ۚ‏ \uFEFF\uFEFF"
+    arabic: مَّسۡنُونٖ
     translation: altered
     transliteration: masnūnin
 ---

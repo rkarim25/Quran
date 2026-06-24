@@ -1,49 +1,49 @@
 ---
-arabic_ayat: اِنَّ الَّذِيۡنَ كَفَرُوۡا يُنۡفِقُوۡنَ اَمۡوَالَهُمۡ لِيَـصُدُّوۡا عَنۡ
-  سَبِيۡلِ اللّٰهِ​ ؕ فَسَيُنۡفِقُوۡنَهَا ثُمَّ تَكُوۡنُ عَلَيۡهِمۡ حَسۡرَةً ثُمَّ
-  يُغۡلَبُوۡنَ ؕ وَالَّذِيۡنَ كَفَرُوۡۤا اِلٰى جَهَـنَّمَ يُحۡشَرُوۡنَۙ‏
+arabic_ayat: إِنَّ ٱلَّذِينَ كَفَرُواْ يُنفِقُونَ أَمۡوَٰلَهُمۡ لِيَصُدُّواْ عَن سَبِيلِ
+  ٱللَّهِۚ فَسَيُنفِقُونَهَا ثُمَّ تَكُونُ عَلَيۡهِمۡ حَسۡرَةٗ ثُمَّ يُغۡلَبُونَۗ
+  وَٱلَّذِينَ كَفَرُوٓاْ إِلَىٰ جَهَنَّمَ يُحۡشَرُونَ
 sentence_translation: Surely the disbelievers spend their wealth to hinder others
   from the Path of Allah. They will continue to spend to the point of regret. Then
   they will be defeated and the disbelievers will be driven into Hell,
 word_by_word:
   1:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   3:
-    arabic: كَفَرُوۡا
+    arabic: كَفَرُواْ
     translation: disbelieve
     transliteration: kafarū
   4:
-    arabic: يُنۡفِقُوۡنَ
+    arabic: يُنفِقُونَ
     translation: they spend
     transliteration: yunfiqūna
   5:
-    arabic: اَمۡوَالَهُمۡ
+    arabic: أَمۡوَٰلَهُمۡ
     translation: their wealth
     transliteration: amwālahum
   6:
-    arabic: لِيَـصُدُّوۡا
+    arabic: لِيَصُدُّواْ
     translation: to hinder (people)
     transliteration: liyaṣuddū
   7:
-    arabic: عَنۡ
+    arabic: عَن
     translation: from
     transliteration: ʿan
   8:
-    arabic: سَبِيۡلِ
+    arabic: سَبِيلِ
     translation: (the) way
     transliteration: sabīli
   9:
-    arabic: اللّٰهِ​ ؕ
+    arabic: ٱللَّهِۚ
     translation: (of) Allah
     transliteration: l-lahi
   10:
-    arabic: فَسَيُنۡفِقُوۡنَهَا
+    arabic: فَسَيُنفِقُونَهَا
     translation: So they will spend it
     transliteration: fasayunfiqūnahā
   11:
@@ -51,7 +51,7 @@ word_by_word:
     translation: then
     transliteration: thumma
   12:
-    arabic: تَكُوۡنُ
+    arabic: تَكُونُ
     translation: it will be
     transliteration: takūnu
   13:
@@ -59,7 +59,7 @@ word_by_word:
     translation: for them
     transliteration: ʿalayhim
   14:
-    arabic: حَسۡرَةً
+    arabic: حَسۡرَةٗ
     translation: a regret
     transliteration: ḥasratan
   15:
@@ -67,27 +67,27 @@ word_by_word:
     translation: then
     transliteration: thumma
   16:
-    arabic: يُغۡلَبُوۡنَ ؕ
+    arabic: يُغۡلَبُونَۗ
     translation: they will be overcome
     transliteration: yugh'labūna
   17:
-    arabic: وَالَّذِيۡنَ
+    arabic: وَٱلَّذِينَ
     translation: And those who
     transliteration: wa-alladhīna
   18:
-    arabic: كَفَرُوۡۤا
+    arabic: كَفَرُوٓاْ
     translation: disbelieve
     transliteration: kafarū
   19:
-    arabic: اِلٰى
+    arabic: إِلَىٰ
     translation: to
     transliteration: ilā
   20:
-    arabic: جَهَـنَّمَ
+    arabic: جَهَنَّمَ
     translation: Hell
     transliteration: jahannama
   21:
-    arabic: يُحۡشَرُوۡنَۙ‏
+    arabic: يُحۡشَرُونَ
     translation: they will be gathered
     transliteration: yuḥ'sharūna
 ---

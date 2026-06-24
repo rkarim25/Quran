@@ -1,6 +1,5 @@
 ---
-arabic_ayat: "لَقَدۡ جِئۡنٰكُمۡ بِالۡحَـقِّ وَلٰـكِنَّ اَكۡثَرَكُمۡ لِلۡحَقِّ كٰرِهُوۡنَ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: لَقَدۡ جِئۡنَٰكُم بِٱلۡحَقِّ وَلَٰكِنَّ أَكۡثَرَكُمۡ لِلۡحَقِّ كَٰرِهُونَ
 sentence_translation: We certainly brought the truth to you, but most of you were
   resentful of the truth.
 word_by_word:
@@ -9,19 +8,19 @@ word_by_word:
     translation: Certainly
     transliteration: laqad
   2:
-    arabic: جِئۡنٰكُمۡ
+    arabic: جِئۡنَٰكُم
     translation: We have brought you
     transliteration: ji'nākum
   3:
-    arabic: بِالۡحَـقِّ
+    arabic: بِٱلۡحَقِّ
     translation: the truth
     transliteration: bil-ḥaqi
   4:
-    arabic: وَلٰـكِنَّ
+    arabic: وَلَٰكِنَّ
     translation: but
     transliteration: walākinna
   5:
-    arabic: اَكۡثَرَكُمۡ
+    arabic: أَكۡثَرَكُمۡ
     translation: most of you
     transliteration: aktharakum
   6:
@@ -29,7 +28,7 @@ word_by_word:
     translation: to the truth
     transliteration: lil'ḥaqqi
   7:
-    arabic: "كٰرِهُوۡنَ‏ \uFEFF\uFEFF"
+    arabic: كَٰرِهُونَ
     translation: (are) averse
     transliteration: kārihūna
 ---

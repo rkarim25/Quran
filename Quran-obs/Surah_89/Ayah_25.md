@@ -1,9 +1,9 @@
 ---
-arabic_ayat: فَيَوۡمَٮِٕذٍ لَّا يُعَذِّبُ عَذَابَهٗۤ اَحَدٌ ۙ‏
+arabic_ayat: فَيَوۡمَئِذٖ لَّا يُعَذِّبُ عَذَابَهُۥٓ أَحَدٞ
 sentence_translation: On that Day He will punish ˹them˺ severely, like no other,
 word_by_word:
   1:
-    arabic: فَيَوۡمَٮِٕذٍ
+    arabic: فَيَوۡمَئِذٖ
     translation: So that Day
     transliteration: fayawma-idhin
   2:
@@ -15,11 +15,11 @@ word_by_word:
     translation: will punish
     transliteration: yuʿadhibu
   4:
-    arabic: عَذَابَهٗۤ
+    arabic: عَذَابَهُۥٓ
     translation: (as) His punishment
     transliteration: ʿadhābahu
   5:
-    arabic: اَحَدٌ ۙ‏
+    arabic: أَحَدٞ
     translation: anyone
     transliteration: aḥadun
 ---

@@ -1,13 +1,13 @@
 ---
-arabic_ayat: اَوَاٰبَآؤُنَا الۡاَوَّلُوۡنَؕ‏
+arabic_ayat: أَوَءَابَآؤُنَا ٱلۡأَوَّلُونَ
 sentence_translation: And our forefathers as well?”
 word_by_word:
   1:
-    arabic: اَوَاٰبَآؤُنَا
+    arabic: أَوَءَابَآؤُنَا
     translation: Or our fathers
     transliteration: awaābāunā
   2:
-    arabic: الۡاَوَّلُوۡنَؕ‏
+    arabic: ٱلۡأَوَّلُونَ
     translation: former
     transliteration: l-awalūna
 ---

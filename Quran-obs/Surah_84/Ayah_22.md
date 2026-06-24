@@ -1,5 +1,5 @@
 ---
-arabic_ayat: بَلِ الَّذِيۡنَ كَفَرُوۡا يُكَذِّبُوۡنَ ۖ‏
+arabic_ayat: بَلِ ٱلَّذِينَ كَفَرُواْ يُكَذِّبُونَ
 sentence_translation: In fact, the disbelievers persist in denial.
 word_by_word:
   1:
@@ -7,15 +7,15 @@ word_by_word:
     translation: Nay
     transliteration: bali
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: Those who
     transliteration: alladhīna
   3:
-    arabic: كَفَرُوۡا
+    arabic: كَفَرُواْ
     translation: disbelieved
     transliteration: kafarū
   4:
-    arabic: يُكَذِّبُوۡنَ ۖ‏
+    arabic: يُكَذِّبُونَ
     translation: deny
     transliteration: yukadhibūna
 ---

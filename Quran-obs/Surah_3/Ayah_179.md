@@ -1,9 +1,8 @@
 ---
-arabic_ayat: "مَا كَانَ اللّٰهُ لِيَذَرَ الۡمُؤۡمِنِيۡنَ عَلٰى مَاۤ اَنۡـتُمۡ عَلَيۡهِ\
-  \ حَتّٰى يَمِيۡزَ الۡخَبِيۡثَ مِنَ الطَّيِّبِ​ؕ وَمَا كَانَ اللّٰهُ لِيُطۡلِعَكُمۡ\
-  \ عَلَى الۡغَيۡبِ وَ لٰكِنَّ اللّٰهَ يَجۡتَبِىۡ مِنۡ رُّسُلِهٖ مَنۡ يَّشَآءُ​\
-  \ فَاٰمِنُوۡا بِاللّٰهِ وَرُسُلِهٖ​ۚ وَاِنۡ تُؤۡمِنُوۡا وَتَتَّقُوۡا فَلَـكُمۡ اَجۡرٌ\
-  \ عَظِيۡمٌ‏ \uFEFF\uFEFF"
+arabic_ayat: مَّا كَانَ ٱللَّهُ لِيَذَرَ ٱلۡمُؤۡمِنِينَ عَلَىٰ مَآ أَنتُمۡ عَلَيۡهِ
+  حَتَّىٰ يَمِيزَ ٱلۡخَبِيثَ مِنَ ٱلطَّيِّبِۗ وَمَا كَانَ ٱللَّهُ لِيُطۡلِعَكُمۡ عَلَى
+  ٱلۡغَيۡبِ وَلَٰكِنَّ ٱللَّهَ يَجۡتَبِي مِن رُّسُلِهِۦ مَن يَشَآءُۖ فَـَٔامِنُواْ
+  بِٱللَّهِ وَرُسُلِهِۦۚ وَإِن تُؤۡمِنُواْ وَتَتَّقُواْ فَلَكُمۡ أَجۡرٌ عَظِيمٞ
 sentence_translation: Allah would not leave the believers in the condition you were
   in, until He distinguished the good from the evil ˹among you˺. Nor would Allah ˹directly˺
   reveal to you the unseen, but He chooses whoever He wills as a messenger. So believe
@@ -11,7 +10,7 @@ sentence_translation: Allah would not leave the believers in the condition you w
   will receive a great reward.
 word_by_word:
   1:
-    arabic: مَا
+    arabic: مَّا
     translation: Not
     transliteration: mā
   2:
@@ -19,7 +18,7 @@ word_by_word:
     translation: is
     transliteration: kāna
   3:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   4:
@@ -27,19 +26,19 @@ word_by_word:
     translation: to leave
     transliteration: liyadhara
   5:
-    arabic: الۡمُؤۡمِنِيۡنَ
+    arabic: ٱلۡمُؤۡمِنِينَ
     translation: the believers
     transliteration: l-mu'minīna
   6:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: 'on'
     transliteration: ʿalā
   7:
-    arabic: مَاۤ
+    arabic: مَآ
     translation: what
     transliteration: mā
   8:
-    arabic: اَنۡـتُمۡ
+    arabic: أَنتُمۡ
     translation: you (are)
     transliteration: antum
   9:
@@ -47,15 +46,15 @@ word_by_word:
     translation: in [it]
     transliteration: ʿalayhi
   10:
-    arabic: حَتّٰى
+    arabic: حَتَّىٰ
     translation: until
     transliteration: ḥattā
   11:
-    arabic: يَمِيۡزَ
+    arabic: يَمِيزَ
     translation: He separates
     transliteration: yamīza
   12:
-    arabic: الۡخَبِيۡثَ
+    arabic: ٱلۡخَبِيثَ
     translation: the evil
     transliteration: l-khabītha
   13:
@@ -63,7 +62,7 @@ word_by_word:
     translation: from
     transliteration: mina
   14:
-    arabic: الطَّيِّبِ​ؕ
+    arabic: ٱلطَّيِّبِۗ
     translation: the good
     transliteration: l-ṭayibi
   15:
@@ -75,7 +74,7 @@ word_by_word:
     translation: is
     transliteration: kāna
   17:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   18:
@@ -87,71 +86,71 @@ word_by_word:
     translation: about
     transliteration: ʿalā
   20:
-    arabic: الۡغَيۡبِ
+    arabic: ٱلۡغَيۡبِ
     translation: the unseen
     transliteration: l-ghaybi
   21:
-    arabic: وَ لٰكِنَّ
+    arabic: وَلَٰكِنَّ
     translation: '[and] but'
     transliteration: walākinna
   22:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   23:
-    arabic: يَجۡتَبِىۡ
+    arabic: يَجۡتَبِي
     translation: chooses
     transliteration: yajtabī
   24:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   25:
-    arabic: رُّسُلِهٖ
+    arabic: رُّسُلِهِۦ
     translation: His Messengers
     transliteration: rusulihi
   26:
-    arabic: مَنۡ
+    arabic: مَن
     translation: whom
     transliteration: man
   27:
-    arabic: يَّشَآءُ​
+    arabic: يَشَآءُۖ
     translation: He wills
     transliteration: yashāu
   28:
-    arabic: فَاٰمِنُوۡا
+    arabic: فَـَٔامِنُواْ
     translation: so believe
     transliteration: faāminū
   29:
-    arabic: بِاللّٰهِ
+    arabic: بِٱللَّهِ
     translation: in Allah
     transliteration: bil-lahi
   30:
-    arabic: وَرُسُلِهٖ​ۚ
+    arabic: وَرُسُلِهِۦۚ
     translation: and His Messengers
     transliteration: warusulihi
   31:
-    arabic: وَاِنۡ
+    arabic: وَإِن
     translation: and if
     transliteration: wa-in
   32:
-    arabic: تُؤۡمِنُوۡا
+    arabic: تُؤۡمِنُواْ
     translation: you believe
     transliteration: tu'minū
   33:
-    arabic: وَتَتَّقُوۡا
+    arabic: وَتَتَّقُواْ
     translation: and fear (Allah)
     transliteration: watattaqū
   34:
-    arabic: فَلَـكُمۡ
+    arabic: فَلَكُمۡ
     translation: then for you
     transliteration: falakum
   35:
-    arabic: اَجۡرٌ
+    arabic: أَجۡرٌ
     translation: (is a) reward
     transliteration: ajrun
   36:
-    arabic: "عَظِيۡمٌ‏ \uFEFF\uFEFF"
+    arabic: عَظِيمٞ
     translation: great
     transliteration: ʿaẓīmun
 ---

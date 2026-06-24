@@ -1,5 +1,5 @@
 ---
-arabic_ayat: قَالَ قَآٮِٕلٌ مِّنۡهُمۡ اِنِّىۡ كَانَ لِىۡ قَرِيۡنٌۙ‏
+arabic_ayat: قَالَ قَآئِلٞ مِّنۡهُمۡ إِنِّي كَانَ لِي قَرِينٞ
 sentence_translation: One of them will say, “I once had a companion ˹in the world˺
 word_by_word:
   1:
@@ -7,7 +7,7 @@ word_by_word:
     translation: Will say
     transliteration: qāla
   2:
-    arabic: قَآٮِٕلٌ
+    arabic: قَآئِلٞ
     translation: a speaker
     transliteration: qāilun
   3:
@@ -15,7 +15,7 @@ word_by_word:
     translation: among them
     transliteration: min'hum
   4:
-    arabic: اِنِّىۡ
+    arabic: إِنِّي
     translation: Indeed, I
     transliteration: innī
   5:
@@ -23,11 +23,11 @@ word_by_word:
     translation: had
     transliteration: kāna
   6:
-    arabic: لِىۡ
+    arabic: لِي
     translation: for me
     transliteration: lī
   7:
-    arabic: قَرِيۡنٌۙ‏
+    arabic: قَرِينٞ
     translation: a companion
     transliteration: qarīnun
 ---

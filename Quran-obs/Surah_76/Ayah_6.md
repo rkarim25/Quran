@@ -1,14 +1,14 @@
 ---
-arabic_ayat: عَيۡنًا يَّشۡرَبُ بِهَا عِبَادُ اللّٰهِ يُفَجِّرُوۡنَهَا تَفۡجِيۡرًا‏
+arabic_ayat: عَيۡنٗا يَشۡرَبُ بِهَا عِبَادُ ٱللَّهِ يُفَجِّرُونَهَا تَفۡجِيرٗا
 sentence_translation: ˹from˺ a spring where Allah’s servants will drink, flowing at
   their will.
 word_by_word:
   1:
-    arabic: عَيۡنًا
+    arabic: عَيۡنٗا
     translation: 'A spring '
     transliteration: ʿaynan
   2:
-    arabic: يَّشۡرَبُ
+    arabic: يَشۡرَبُ
     translation: will drink
     transliteration: yashrabu
   3:
@@ -20,15 +20,15 @@ word_by_word:
     translation: (the) slaves
     transliteration: ʿibādu
   5:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (of) Allah
     transliteration: l-lahi
   6:
-    arabic: يُفَجِّرُوۡنَهَا
+    arabic: يُفَجِّرُونَهَا
     translation: causing it to gush forth
     transliteration: yufajjirūnahā
   7:
-    arabic: تَفۡجِيۡرًا‏
+    arabic: تَفۡجِيرٗا
     translation: abundantly
     transliteration: tafjīran
 ---

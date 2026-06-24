@@ -1,6 +1,6 @@
 ---
-arabic_ayat: "يَوۡمَ يَخۡرُجُوۡنَ مِنَ الۡاَجۡدَاثِ سِرَاعًا كَاَنَّهُمۡ اِلٰى نُصُبٍ\
-  \ يُّوۡفِضُوۡنَۙ‏ \uFEFF\uFEFF"
+arabic_ayat: يَوۡمَ يَخۡرُجُونَ مِنَ ٱلۡأَجۡدَاثِ سِرَاعٗا كَأَنَّهُمۡ إِلَىٰ نُصُبٖ
+  يُوفِضُونَ
 sentence_translation: the Day they will come forth from the graves swiftly, as if
   racing to an idol ˹for a blessing˺,
 word_by_word:
@@ -9,7 +9,7 @@ word_by_word:
     translation: (The) Day
     transliteration: yawma
   2:
-    arabic: يَخۡرُجُوۡنَ
+    arabic: يَخۡرُجُونَ
     translation: they will come out
     transliteration: yakhrujūna
   3:
@@ -17,27 +17,27 @@ word_by_word:
     translation: from
     transliteration: mina
   4:
-    arabic: الۡاَجۡدَاثِ
+    arabic: ٱلۡأَجۡدَاثِ
     translation: the graves
     transliteration: l-ajdāthi
   5:
-    arabic: سِرَاعًا
+    arabic: سِرَاعٗا
     translation: rapidly
     transliteration: sirāʿan
   6:
-    arabic: كَاَنَّهُمۡ
+    arabic: كَأَنَّهُمۡ
     translation: as if they (were)
     transliteration: ka-annahum
   7:
-    arabic: اِلٰى
+    arabic: إِلَىٰ
     translation: to
     transliteration: ilā
   8:
-    arabic: نُصُبٍ
+    arabic: نُصُبٖ
     translation: a goal
     transliteration: nuṣubin
   9:
-    arabic: "يُّوۡفِضُوۡنَۙ‏ \uFEFF\uFEFF"
+    arabic: يُوفِضُونَ
     translation: hastening
     transliteration: yūfiḍūna
 ---

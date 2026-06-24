@@ -1,17 +1,17 @@
 ---
-arabic_ayat: وَالۡتَفَّتِ السَّاقُ بِالسَّاقِۙ‏
+arabic_ayat: وَٱلۡتَفَّتِ ٱلسَّاقُ بِٱلسَّاقِ
 sentence_translation: and ˹then˺ their feet are tied together ˹in a shroud˺.
 word_by_word:
   1:
-    arabic: وَالۡتَفَّتِ
+    arabic: وَٱلۡتَفَّتِ
     translation: And is wound
     transliteration: wal-tafati
   2:
-    arabic: السَّاقُ
+    arabic: ٱلسَّاقُ
     translation: the leg
     transliteration: l-sāqu
   3:
-    arabic: بِالسَّاقِۙ‏
+    arabic: بِٱلسَّاقِ
     translation: about the leg
     transliteration: bil-sāqi
 ---

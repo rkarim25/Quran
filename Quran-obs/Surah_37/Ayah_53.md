@@ -1,10 +1,10 @@
 ---
-arabic_ayat: ءَاِذَا مِتۡنَا وَكُنَّا تُرَابًا وَّعِظَامًا ءَاِنَّا لَمَدِيۡنُوۡنَ‏
+arabic_ayat: أَءِذَا مِتۡنَا وَكُنَّا تُرَابٗا وَعِظَٰمًا أَءِنَّا لَمَدِينُونَ
 sentence_translation: When we are dead and reduced to dust and bones, will we really
   be brought to judgment?’”
 word_by_word:
   1:
-    arabic: ءَاِذَا
+    arabic: أَءِذَا
     translation: Is (it) when
     transliteration: a-idhā
   2:
@@ -16,19 +16,19 @@ word_by_word:
     translation: and become
     transliteration: wakunnā
   4:
-    arabic: تُرَابًا
+    arabic: تُرَابٗا
     translation: dust
     transliteration: turāban
   5:
-    arabic: وَّعِظَامًا
+    arabic: وَعِظَٰمًا أَ
     translation: and bones
     transliteration: waʿiẓāman
   6:
-    arabic: ءَاِنَّا
+    arabic: ءِنَّا
     translation: will we
     transliteration: a-innā
   7:
-    arabic: لَمَدِيۡنُوۡنَ‏
+    arabic: لَمَدِينُونَ
     translation: surely be brought to Judgment
     transliteration: lamadīnūna
 ---

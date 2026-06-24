@@ -1,6 +1,6 @@
 ---
-arabic_ayat: يَعۡلَمُ مَا بَيۡنَ اَيۡدِيۡهِمۡ وَمَا خَلۡفَهُمۡ وَ لَا يَشۡفَعُوۡنَۙ
-  اِلَّا لِمَنِ ارۡتَضٰى وَهُمۡ مِّنۡ خَشۡيَـتِهٖ مُشۡفِقُوۡنَ‏
+arabic_ayat: يَعۡلَمُ مَا بَيۡنَ أَيۡدِيهِمۡ وَمَا خَلۡفَهُمۡ وَلَا يَشۡفَعُونَ إِلَّا
+  لِمَنِ ٱرۡتَضَىٰ وَهُم مِّنۡ خَشۡيَتِهِۦ مُشۡفِقُونَ
 sentence_translation: He ˹fully˺ knows what is ahead of them and what is behind them.
   They do not intercede except for whom He approves, and they tremble in awe of Him.
 word_by_word:
@@ -17,7 +17,7 @@ word_by_word:
     translation: (is) before them
     transliteration: bayna
   4:
-    arabic: اَيۡدِيۡهِمۡ
+    arabic: أَيۡدِيهِمۡ
     translation: (is) before them
     transliteration: aydīhim
   5:
@@ -29,15 +29,15 @@ word_by_word:
     translation: (is) behind them
     transliteration: khalfahum
   7:
-    arabic: وَ لَا
+    arabic: وَلَا
     translation: and not
     transliteration: walā
   8:
-    arabic: يَشۡفَعُوۡنَۙ
+    arabic: يَشۡفَعُونَ
     translation: they (can) intercede
     transliteration: yashfaʿūna
   9:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   10:
@@ -45,11 +45,11 @@ word_by_word:
     translation: for whom
     transliteration: limani
   11:
-    arabic: ارۡتَضٰى
+    arabic: ٱرۡتَضَىٰ
     translation: He approves
     transliteration: ir'taḍā
   12:
-    arabic: وَهُمۡ
+    arabic: وَهُم
     translation: And they
     transliteration: wahum
   13:
@@ -57,11 +57,11 @@ word_by_word:
     translation: from
     transliteration: min
   14:
-    arabic: خَشۡيَـتِهٖ
+    arabic: خَشۡيَتِهِۦ
     translation: fear of Him
     transliteration: khashyatihi
   15:
-    arabic: مُشۡفِقُوۡنَ‏
+    arabic: مُشۡفِقُونَ
     translation: stand in awe
     transliteration: mush'fiqūna
 ---

@@ -1,5 +1,5 @@
 ---
-arabic_ayat: لِّسَعۡيِهَا رَاضِيَةٌ ۙ‏
+arabic_ayat: لِّسَعۡيِهَا رَاضِيَةٞ
 sentence_translation: ˹fully˺ pleased with their striving,
 word_by_word:
   1:
@@ -7,7 +7,7 @@ word_by_word:
     translation: With their effort
     transliteration: lisaʿyihā
   2:
-    arabic: رَاضِيَةٌ ۙ‏
+    arabic: رَاضِيَةٞ
     translation: satisfied
     transliteration: rāḍiyatun
 ---

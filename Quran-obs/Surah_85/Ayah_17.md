@@ -1,5 +1,5 @@
 ---
-arabic_ayat: هَلۡ اَتٰٮكَ حَدِيۡثُ الۡجُـنُوۡدِۙ‏
+arabic_ayat: هَلۡ أَتَىٰكَ حَدِيثُ ٱلۡجُنُودِ
 sentence_translation: Has the story of the ˹destroyed˺ forces reached you ˹O Prophet˺—
 word_by_word:
   1:
@@ -7,15 +7,15 @@ word_by_word:
     translation: Has
     transliteration: hal
   2:
-    arabic: اَتٰٮكَ
+    arabic: أَتَىٰكَ
     translation: come to you
     transliteration: atāka
   3:
-    arabic: حَدِيۡثُ
+    arabic: حَدِيثُ
     translation: (the) story
     transliteration: ḥadīthu
   4:
-    arabic: الۡجُـنُوۡدِۙ‏
+    arabic: ٱلۡجُنُودِ
     translation: (of) the hosts
     transliteration: l-junūdi
 ---

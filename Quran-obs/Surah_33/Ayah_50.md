@@ -1,11 +1,11 @@
 ---
-arabic_ayat: يٰۤاَيُّهَا النَّبِىُّ اِنَّاۤ اَحۡلَلۡنَا لَـكَ اَزۡوَاجَكَ الّٰتِىۡۤ
-  اٰتَيۡتَ اُجُوۡرَهُنَّ وَمَا مَلَـكَتۡ يَمِيۡنُكَ مِمَّاۤ اَفَآءَ اللّٰهُ عَلَيۡكَ
-  وَبَنٰتِ عَمِّكَ وَبَنٰتِ عَمّٰتِكَ وَبَنٰتِ خَالِكَ وَبَنٰتِ خٰلٰتِكَ الّٰتِىۡ
-  هَاجَرۡنَ مَعَكَ وَامۡرَاَةً مُّؤۡمِنَةً اِنۡ وَّهَبَتۡ نَفۡسَهَا لِلنَّبِىِّ اِنۡ
-  اَرَادَ النَّبِىُّ اَنۡ يَّسۡتَـنۡكِحَهَا خَالِصَةً لَّـكَ مِنۡ دُوۡنِ الۡمُؤۡمِنِيۡنَ
-  ؕ قَدۡ عَلِمۡنَا مَا فَرَضۡنَا عَلَيۡهِمۡ فِىۡۤ اَزۡوَاجِهِمۡ وَمَا مَلَـكَتۡ اَيۡمَانُهُمۡ
-  لِكَيۡلَا يَكُوۡنَ عَلَيۡكَ حَرَجٌ ؕ وَكَانَ اللّٰهُ غَفُوۡرًا رَّحِيۡمًا‏
+arabic_ayat: يَٰٓأَيُّهَا ٱلنَّبِيُّ إِنَّآ أَحۡلَلۡنَا لَكَ أَزۡوَٰجَكَ ٱلَّٰتِيٓ
+  ءَاتَيۡتَ أُجُورَهُنَّ وَمَا مَلَكَتۡ يَمِينُكَ مِمَّآ أَفَآءَ ٱللَّهُ عَلَيۡكَ
+  وَبَنَاتِ عَمِّكَ وَبَنَاتِ عَمَّٰتِكَ وَبَنَاتِ خَالِكَ وَبَنَاتِ خَٰلَٰتِكَ ٱلَّٰتِي
+  هَاجَرۡنَ مَعَكَ وَٱمۡرَأَةٗ مُّؤۡمِنَةً إِن وَهَبَتۡ نَفۡسَهَا لِلنَّبِيِّ إِنۡ
+  أَرَادَ ٱلنَّبِيُّ أَن يَسۡتَنكِحَهَا خَالِصَةٗ لَّكَ مِن دُونِ ٱلۡمُؤۡمِنِينَۗ
+  قَدۡ عَلِمۡنَا مَا فَرَضۡنَا عَلَيۡهِمۡ فِيٓ أَزۡوَٰجِهِمۡ وَمَا مَلَكَتۡ أَيۡمَٰنُهُمۡ
+  لِكَيۡلَا يَكُونَ عَلَيۡكَ حَرَجٞۗ وَكَانَ ٱللَّهُ غَفُورٗا رَّحِيمٗا
 sentence_translation: O Prophet! We have made lawful for you your wives to whom you
   have paid their ˹full˺ dowries as well as those ˹bondwomen˺ in your possession,
   whom Allah has granted you. And ˹you are allowed to marry˺ the daughters of your
@@ -18,39 +18,39 @@ sentence_translation: O Prophet! We have made lawful for you your wives to whom 
   Most Merciful.
 word_by_word:
   1:
-    arabic: يٰۤاَيُّهَا
+    arabic: يَٰٓأَيُّهَا
     translation: O Prophet
     transliteration: yāayyuhā
   2:
-    arabic: النَّبِىُّ
+    arabic: ٱلنَّبِيُّ
     translation: O Prophet
     transliteration: l-nabiyu
   3:
-    arabic: اِنَّاۤ
+    arabic: إِنَّآ
     translation: Indeed, We
     transliteration: innā
   4:
-    arabic: اَحۡلَلۡنَا
+    arabic: أَحۡلَلۡنَا
     translation: '[We] have made lawful'
     transliteration: aḥlalnā
   5:
-    arabic: لَـكَ
+    arabic: لَكَ
     translation: to you
     transliteration: laka
   6:
-    arabic: اَزۡوَاجَكَ
+    arabic: أَزۡوَٰجَكَ
     translation: your wives
     transliteration: azwājaka
   7:
-    arabic: الّٰتِىۡۤ
+    arabic: ٱلَّٰتِيٓ ءَ
     translation: (to) whom
     transliteration: allātī
   8:
-    arabic: اٰتَيۡتَ
+    arabic: اتَيۡتَ
     translation: you have given
     transliteration: ātayta
   9:
-    arabic: اُجُوۡرَهُنَّ
+    arabic: أُجُورَهُنَّ
     translation: their bridal money
     transliteration: ujūrahunna
   10:
@@ -58,23 +58,23 @@ word_by_word:
     translation: and whom
     transliteration: wamā
   11:
-    arabic: مَلَـكَتۡ
+    arabic: مَلَكَتۡ
     translation: you rightfully possess
     transliteration: malakat
   12:
-    arabic: يَمِيۡنُكَ
+    arabic: يَمِينُكَ
     translation: you rightfully possess
     transliteration: yamīnuka
   13:
-    arabic: مِمَّاۤ
+    arabic: مِمَّآ
     translation: from those (whom)
     transliteration: mimmā
   14:
-    arabic: اَفَآءَ
+    arabic: أَفَآءَ
     translation: Allah has given
     transliteration: afāa
   15:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah has given
     transliteration: l-lahu
   16:
@@ -82,7 +82,7 @@ word_by_word:
     translation: to you
     transliteration: ʿalayka
   17:
-    arabic: وَبَنٰتِ
+    arabic: وَبَنَاتِ
     translation: and (the) daughters
     transliteration: wabanāti
   18:
@@ -90,15 +90,15 @@ word_by_word:
     translation: (of) your paternal uncles
     transliteration: ʿammika
   19:
-    arabic: وَبَنٰتِ
+    arabic: وَبَنَاتِ
     translation: and (the) daughters
     transliteration: wabanāti
   20:
-    arabic: عَمّٰتِكَ
+    arabic: عَمَّٰتِكَ
     translation: (of) your paternal aunts
     transliteration: ʿammātika
   21:
-    arabic: وَبَنٰتِ
+    arabic: وَبَنَاتِ
     translation: and (the) daughters
     transliteration: wabanāti
   22:
@@ -106,15 +106,15 @@ word_by_word:
     translation: (of) your maternal uncles
     transliteration: khālika
   23:
-    arabic: وَبَنٰتِ
+    arabic: وَبَنَاتِ
     translation: and (the) daughters
     transliteration: wabanāti
   24:
-    arabic: خٰلٰتِكَ
+    arabic: خَٰلَٰتِكَ
     translation: (of) your maternal aunts
     transliteration: khālātika
   25:
-    arabic: الّٰتِىۡ
+    arabic: ٱلَّٰتِي
     translation: who
     transliteration: allātī
   26:
@@ -122,11 +122,11 @@ word_by_word:
     translation: emigrated
     transliteration: hājarna
   27:
-    arabic: مَعَكَ
+    arabic: مَعَكَ
     translation: with you
     transliteration: maʿaka
   28:
-    arabic: وَامۡرَاَةً
+    arabic: وَٱمۡرَأَةٗ
     translation: and a woman
     transliteration: wa-im'ra-atan
   29:
@@ -134,11 +134,11 @@ word_by_word:
     translation: believing
     transliteration: mu'minatan
   30:
-    arabic: اِنۡ
+    arabic: إِن
     translation: if
     transliteration: in
   31:
-    arabic: وَّهَبَتۡ
+    arabic: وَهَبَتۡ
     translation: she gives
     transliteration: wahabat
   32:
@@ -146,47 +146,47 @@ word_by_word:
     translation: herself
     transliteration: nafsahā
   33:
-    arabic: لِلنَّبِىِّ
+    arabic: لِلنَّبِيِّ
     translation: to the Prophet
     transliteration: lilnnabiyyi
   34:
-    arabic: اِنۡ
+    arabic: إِنۡ
     translation: if
     transliteration: in
   35:
-    arabic: اَرَادَ
+    arabic: أَرَادَ
     translation: wishes
     transliteration: arāda
   36:
-    arabic: النَّبِىُّ
+    arabic: ٱلنَّبِيُّ
     translation: the Prophet
     transliteration: l-nabiyu
   37:
-    arabic: اَنۡ
+    arabic: أَن
     translation: to
     transliteration: an
   38:
-    arabic: يَّسۡتَـنۡكِحَهَا
+    arabic: يَسۡتَنكِحَهَا
     translation: 'marry her '
     transliteration: yastankiḥahā
   39:
-    arabic: خَالِصَةً
+    arabic: خَالِصَةٗ
     translation: only
     transliteration: khāliṣatan
   40:
-    arabic: لَّـكَ
+    arabic: لَّكَ
     translation: for you
     transliteration: laka
   41:
-    arabic: مِنۡ
+    arabic: مِن
     translation: excluding
     transliteration: min
   42:
-    arabic: دُوۡنِ
+    arabic: دُونِ
     translation: excluding
     transliteration: dūni
   43:
-    arabic: الۡمُؤۡمِنِيۡنَ ؕ
+    arabic: ٱلۡمُؤۡمِنِينَۗ
     translation: the believers
     transliteration: l-mu'minīna
   44:
@@ -210,11 +210,11 @@ word_by_word:
     translation: upon them
     transliteration: ʿalayhim
   49:
-    arabic: فِىۡۤ
+    arabic: فِيٓ
     translation: concerning
     transliteration: fī
   50:
-    arabic: اَزۡوَاجِهِمۡ
+    arabic: أَزۡوَٰجِهِمۡ
     translation: their wives
     transliteration: azwājihim
   51:
@@ -222,11 +222,11 @@ word_by_word:
     translation: and whom
     transliteration: wamā
   52:
-    arabic: مَلَـكَتۡ
+    arabic: مَلَكَتۡ
     translation: they rightfully possess
     transliteration: malakat
   53:
-    arabic: اَيۡمَانُهُمۡ
+    arabic: أَيۡمَٰنُهُمۡ
     translation: they rightfully possess
     transliteration: aymānuhum
   54:
@@ -234,7 +234,7 @@ word_by_word:
     translation: that not
     transliteration: likaylā
   55:
-    arabic: يَكُوۡنَ
+    arabic: يَكُونَ
     translation: should be
     transliteration: yakūna
   56:
@@ -242,7 +242,7 @@ word_by_word:
     translation: on you
     transliteration: ʿalayka
   57:
-    arabic: حَرَجٌ ؕ
+    arabic: حَرَجٞۗ
     translation: any discomfort
     transliteration: ḥarajun
   58:
@@ -250,15 +250,15 @@ word_by_word:
     translation: And Allah is
     transliteration: wakāna
   59:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: And Allah is
     transliteration: l-lahu
   60:
-    arabic: غَفُوۡرًا
+    arabic: غَفُورٗا
     translation: Oft-Forgiving
     transliteration: ghafūran
   61:
-    arabic: رَّحِيۡمًا‏
+    arabic: رَّحِيمٗا
     translation: Most Merciful
     transliteration: raḥīman
 ---

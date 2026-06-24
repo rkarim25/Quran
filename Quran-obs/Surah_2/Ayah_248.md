@@ -1,8 +1,8 @@
 ---
-arabic_ayat: وَقَالَ لَهُمۡ نَبِيُّهُمۡ اِنَّ اٰيَةَ مُلۡکِهٖۤ اَنۡ يَّاۡتِيَکُمُ
-  التَّابُوۡتُ فِيۡهِ سَکِيۡنَةٌ مِّنۡ رَّبِّکُمۡ وَبَقِيَّةٌ مِّمَّا تَرَكَ اٰلُ
-  مُوۡسٰى وَاٰلُ هٰرُوۡنَ تَحۡمِلُهُ الۡمَلٰٓٮِٕكَةُ​ ؕ اِنَّ فِىۡ ذٰلِكَ لَاٰيَةً
-  لَّـکُمۡ اِنۡ كُنۡتُمۡ مُّؤۡمِنِيۡنَ‏
+arabic_ayat: وَقَالَ لَهُمۡ نَبِيُّهُمۡ إِنَّ ءَايَةَ مُلۡكِهِۦٓ أَن يَأۡتِيَكُمُ
+  ٱلتَّابُوتُ فِيهِ سَكِينَةٞ مِّن رَّبِّكُمۡ وَبَقِيَّةٞ مِّمَّا تَرَكَ ءَالُ مُوسَىٰ
+  وَءَالُ هَٰرُونَ تَحۡمِلُهُ ٱلۡمَلَٰٓئِكَةُۚ إِنَّ فِي ذَٰلِكَ لَأٓيَةٗ لَّكُمۡ
+  إِن كُنتُم مُّؤۡمِنِينَ
 sentence_translation: Their prophet further told them, “The sign of Saul’s kingship
   is that the Ark will come to you—containing reassurance from your Lord and relics
   of the family of Moses and the family of Aaron, which will be carried by the angels.
@@ -21,47 +21,47 @@ word_by_word:
     translation: their Prophet
     transliteration: nabiyyuhum
   4:
-    arabic: اِنَّ
+    arabic: إِنَّ ءَ
     translation: Indeed
     transliteration: inna
   5:
-    arabic: اٰيَةَ
+    arabic: ايَةَ
     translation: a sign
     transliteration: āyata
   6:
-    arabic: مُلۡکِهٖۤ
+    arabic: مُلۡكِهِۦٓ
     translation: (of) his kingship
     transliteration: mul'kihi
   7:
-    arabic: اَنۡ
+    arabic: أَن
     translation: (is) that
     transliteration: an
   8:
-    arabic: يَّاۡتِيَکُمُ
+    arabic: يَأۡتِيَكُمُ
     translation: will come to you
     transliteration: yatiyakumu
   9:
-    arabic: التَّابُوۡتُ
+    arabic: ٱلتَّابُوتُ
     translation: the ark
     transliteration: l-tābūtu
   10:
-    arabic: فِيۡهِ
+    arabic: فِيهِ
     translation: in it
     transliteration: fīhi
   11:
-    arabic: سَکِيۡنَةٌ
+    arabic: سَكِينَةٞ
     translation: (is) tranquility
     transliteration: sakīnatun
   12:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: from
     transliteration: min
   13:
-    arabic: رَّبِّکُمۡ
+    arabic: رَّبِّكُمۡ
     translation: your Lord
     transliteration: rabbikum
   14:
-    arabic: وَبَقِيَّةٌ
+    arabic: وَبَقِيَّةٞ
     translation: and a remnant
     transliteration: wabaqiyyatun
   15:
@@ -69,23 +69,23 @@ word_by_word:
     translation: of what
     transliteration: mimmā
   16:
-    arabic: تَرَكَ
+    arabic: تَرَكَ ءَ
     translation: (was) left
     transliteration: taraka
   17:
-    arabic: اٰلُ
+    arabic: الُ
     translation: (by the) family
     transliteration: ālu
   18:
-    arabic: مُوۡسٰى
+    arabic: مُوسَىٰ
     translation: (of) Musa
     transliteration: mūsā
   19:
-    arabic: وَاٰلُ
+    arabic: وَءَالُ
     translation: and family
     transliteration: waālu
   20:
-    arabic: هٰرُوۡنَ
+    arabic: هَٰرُونَ
     translation: (of) Harun
     transliteration: hārūna
   21:
@@ -93,39 +93,39 @@ word_by_word:
     translation: will carry it
     transliteration: taḥmiluhu
   22:
-    arabic: الۡمَلٰٓٮِٕكَةُ​ ؕ
+    arabic: ٱلۡمَلَٰٓئِكَةُۚ
     translation: the Angels
     transliteration: l-malāikatu
   23:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   24:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   25:
-    arabic: ذٰلِكَ
+    arabic: ذَٰلِكَ
     translation: that
     transliteration: dhālika
   26:
-    arabic: لَاٰيَةً
+    arabic: لَأٓيَةٗ
     translation: (is) surely a sign
     transliteration: laāyatan
   27:
-    arabic: لَّـکُمۡ
+    arabic: لَّكُمۡ
     translation: for you
     transliteration: lakum
   28:
-    arabic: اِنۡ
+    arabic: إِن
     translation: if
     transliteration: in
   29:
-    arabic: كُنۡتُمۡ
+    arabic: كُنتُم
     translation: you are
     transliteration: kuntum
   30:
-    arabic: مُّؤۡمِنِيۡنَ‏
+    arabic: مُّؤۡمِنِينَ
     translation: believers
     transliteration: mu'minīna
 ---

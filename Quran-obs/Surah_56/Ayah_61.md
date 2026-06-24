@@ -1,14 +1,13 @@
 ---
-arabic_ayat: "عَلٰٓى اَنۡ نُّبَدِّلَ اَمۡثَالَـكُمۡ وَنُـنۡشِئَكُمۡ فِىۡ مَا لَا تَعۡلَمُوۡنَ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: عَلَىٰٓ أَن نُّبَدِّلَ أَمۡثَٰلَكُمۡ وَنُنشِئَكُمۡ فِي مَا لَا تَعۡلَمُونَ
 sentence_translation: from transforming and recreating you in forms unknown to you.
 word_by_word:
   1:
-    arabic: عَلٰٓى
+    arabic: عَلَىٰٓ
     translation: In
     transliteration: ʿalā
   2:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that
     transliteration: an
   3:
@@ -16,15 +15,15 @@ word_by_word:
     translation: We (will) change
     transliteration: nubaddila
   4:
-    arabic: اَمۡثَالَـكُمۡ
+    arabic: أَمۡثَٰلَكُمۡ
     translation: your likeness[es]
     transliteration: amthālakum
   5:
-    arabic: وَنُـنۡشِئَكُمۡ
+    arabic: وَنُنشِئَكُمۡ
     translation: and produce you
     transliteration: wanunshi-akum
   6:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   7:
@@ -36,7 +35,7 @@ word_by_word:
     translation: not
     transliteration: lā
   9:
-    arabic: "تَعۡلَمُوۡنَ‏ \uFEFF\uFEFF"
+    arabic: تَعۡلَمُونَ
     translation: you know
     transliteration: taʿlamūna
 ---

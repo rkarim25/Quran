@@ -1,27 +1,27 @@
 ---
-arabic_ayat: "اَلَّذِيۡنَ اٰمَنُوۡا وَعَمِلُوا الصّٰلِحٰتِ طُوۡبٰى لَهُمۡ وَحُسۡنُ\
-  \ مَاٰبٍ‏ \uFEFF\uFEFF"
+arabic_ayat: ٱلَّذِينَ ءَامَنُواْ وَعَمِلُواْ ٱلصَّٰلِحَٰتِ طُوبَىٰ لَهُمۡ وَحُسۡنُ
+  مَـَٔابٖ
 sentence_translation: Those who believe and do good, for them will be bliss and an
   honourable destination.”
 word_by_word:
   1:
-    arabic: اَلَّذِيۡنَ
+    arabic: ٱلَّذِينَ ءَ
     translation: Those who
     transliteration: alladhīna
   2:
-    arabic: اٰمَنُوۡا
+    arabic: امَنُواْ
     translation: believed
     transliteration: āmanū
   3:
-    arabic: وَعَمِلُوا
+    arabic: وَعَمِلُواْ
     translation: and did
     transliteration: waʿamilū
   4:
-    arabic: الصّٰلِحٰتِ
+    arabic: ٱلصَّٰلِحَٰتِ
     translation: righteous deeds
     transliteration: l-ṣāliḥāti
   5:
-    arabic: طُوۡبٰى
+    arabic: طُوبَىٰ
     translation: blessedness
     transliteration: ṭūbā
   6:
@@ -33,7 +33,7 @@ word_by_word:
     translation: and a beautiful
     transliteration: waḥus'nu
   8:
-    arabic: "مَاٰبٍ‏ \uFEFF\uFEFF"
+    arabic: مَـَٔابٖ
     translation: place of return
     transliteration: maābin
 ---

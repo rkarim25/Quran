@@ -1,31 +1,31 @@
 ---
-arabic_ayat: وَاِنۡ تَوَلَّوۡا فَاعۡلَمُوۡۤا اَنَّ اللّٰهَ مَوۡلٰٮكُمۡ​ؕ نِعۡمَ الۡمَوۡلٰى
-  وَنِعۡمَ النَّصِيۡرُ‏
+arabic_ayat: وَإِن تَوَلَّوۡاْ فَٱعۡلَمُوٓاْ أَنَّ ٱللَّهَ مَوۡلَىٰكُمۡۚ نِعۡمَ ٱلۡمَوۡلَىٰ
+  وَنِعۡمَ ٱلنَّصِيرُ
 sentence_translation: And if they do not comply, then know that Allah is your Protector.
   What an excellent Protector, and what an excellent Helper!
 word_by_word:
   1:
-    arabic: وَاِنۡ
+    arabic: وَإِن
     translation: And if
     transliteration: wa-in
   2:
-    arabic: تَوَلَّوۡا
+    arabic: تَوَلَّوۡاْ
     translation: they turn away
     transliteration: tawallaw
   3:
-    arabic: فَاعۡلَمُوۡۤا
+    arabic: فَٱعۡلَمُوٓاْ
     translation: then know
     transliteration: fa-iʿ'lamū
   4:
-    arabic: اَنَّ
+    arabic: أَنَّ
     translation: that
     transliteration: anna
   5:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   6:
-    arabic: مَوۡلٰٮكُمۡ​ؕ
+    arabic: مَوۡلَىٰكُمۡۚ
     translation: (is) your Protector
     transliteration: mawlākum
   7:
@@ -33,7 +33,7 @@ word_by_word:
     translation: Excellent
     transliteration: niʿ'ma
   8:
-    arabic: الۡمَوۡلٰى
+    arabic: ٱلۡمَوۡلَىٰ
     translation: (is) the Protector
     transliteration: l-mawlā
   9:
@@ -41,7 +41,7 @@ word_by_word:
     translation: and Excellent
     transliteration: waniʿ'ma
   10:
-    arabic: النَّصِيۡرُ‏
+    arabic: ٱلنَّصِيرُ
     translation: (is) the Helper
     transliteration: l-naṣīru
 ---

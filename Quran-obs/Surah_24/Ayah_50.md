@@ -1,16 +1,16 @@
 ---
-arabic_ayat: اَفِىۡ قُلُوۡبِهِمۡ مَّرَضٌ اَمِ ارۡتَابُوۡۤا اَمۡ يَخَافُوۡنَ اَنۡ يَّحِيۡفَ
-  اللّٰهُ عَلَيۡهِمۡ وَرَسُوۡلُهٗ​ؕ بَلۡ اُولٰٓٮِٕكَ هُمُ الظّٰلِمُوۡنَ‏
+arabic_ayat: أَفِي قُلُوبِهِم مَّرَضٌ أَمِ ٱرۡتَابُوٓاْ أَمۡ يَخَافُونَ أَن يَحِيفَ
+  ٱللَّهُ عَلَيۡهِمۡ وَرَسُولُهُۥۚ بَلۡ أُوْلَٰٓئِكَ هُمُ ٱلظَّٰلِمُونَ
 sentence_translation: Is there a sickness in their hearts? Or are they in doubt? Or
   do they fear that Allah and His Messenger will be unjust to them? In fact, it is
   they who are the ˹true˺ wrongdoers.
 word_by_word:
   1:
-    arabic: اَفِىۡ
+    arabic: أَفِي
     translation: Is (there) in
     transliteration: afī
   2:
-    arabic: قُلُوۡبِهِمۡ
+    arabic: قُلُوبِهِم
     translation: their hearts
     transliteration: qulūbihim
   3:
@@ -18,31 +18,31 @@ word_by_word:
     translation: a disease
     transliteration: maraḍun
   4:
-    arabic: اَمِ
+    arabic: أَمِ
     translation: or
     transliteration: ami
   5:
-    arabic: ارۡتَابُوۡۤا
+    arabic: ٱرۡتَابُوٓاْ
     translation: do they doubt
     transliteration: ir'tābū
   6:
-    arabic: اَمۡ
+    arabic: أَمۡ
     translation: or
     transliteration: am
   7:
-    arabic: يَخَافُوۡنَ
+    arabic: يَخَافُونَ
     translation: they fear
     transliteration: yakhāfūna
   8:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that
     transliteration: an
   9:
-    arabic: يَّحِيۡفَ
+    arabic: يَحِيفَ
     translation: Allah will be unjust
     transliteration: yaḥīfa
   10:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah will be unjust
     transliteration: l-lahu
   11:
@@ -50,7 +50,7 @@ word_by_word:
     translation: to them
     transliteration: ʿalayhim
   12:
-    arabic: وَرَسُوۡلُهٗ​ؕ
+    arabic: وَرَسُولُهُۥۚ
     translation: and His Messenger
     transliteration: warasūluhu
   13:
@@ -58,7 +58,7 @@ word_by_word:
     translation: Nay
     transliteration: bal
   14:
-    arabic: اُولٰٓٮِٕكَ
+    arabic: أُوْلَٰٓئِكَ
     translation: those
     transliteration: ulāika
   15:
@@ -66,7 +66,7 @@ word_by_word:
     translation: '[they]'
     transliteration: humu
   16:
-    arabic: الظّٰلِمُوۡنَ‏
+    arabic: ٱلظَّٰلِمُونَ
     translation: (are) the wrongdoers
     transliteration: l-ẓālimūna
 ---

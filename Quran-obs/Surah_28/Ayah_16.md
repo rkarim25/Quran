@@ -1,6 +1,6 @@
 ---
-arabic_ayat: قَالَ رَبِّ اِنِّىۡ ظَلَمۡتُ نَفۡسِىۡ فَاغۡفِرۡ لِىۡ فَغَفَرَ لَهٗ​ؕ
-  اِنَّهٗ هُوَ الۡغَفُوۡرُ الرَّحِيۡمُ‏
+arabic_ayat: قَالَ رَبِّ إِنِّي ظَلَمۡتُ نَفۡسِي فَٱغۡفِرۡ لِي فَغَفَرَ لَهُۥٓۚ إِنَّهُۥ
+  هُوَ ٱلۡغَفُورُ ٱلرَّحِيمُ
 sentence_translation: He pleaded, “My Lord! I have definitely wronged my soul, so
   forgive me.” So He forgave him, ˹for˺ He is indeed the All-Forgiving, Most Merciful.
 word_by_word:
@@ -13,7 +13,7 @@ word_by_word:
     translation: My Lord
     transliteration: rabbi
   3:
-    arabic: اِنِّىۡ
+    arabic: إِنِّي
     translation: Indeed, I
     transliteration: innī
   4:
@@ -21,15 +21,15 @@ word_by_word:
     translation: '[I] have wronged'
     transliteration: ẓalamtu
   5:
-    arabic: نَفۡسِىۡ
+    arabic: نَفۡسِي
     translation: my soul
     transliteration: nafsī
   6:
-    arabic: فَاغۡفِرۡ
+    arabic: فَٱغۡفِرۡ
     translation: so forgive
     transliteration: fa-igh'fir
   7:
-    arabic: لِىۡ
+    arabic: لِي
     translation: '[for] me'
     transliteration: lī
   8:
@@ -37,11 +37,11 @@ word_by_word:
     translation: Then He forgave
     transliteration: faghafara
   9:
-    arabic: لَهٗ​ؕ
+    arabic: لَهُۥٓۚ
     translation: '[for] him'
     transliteration: lahu
   10:
-    arabic: اِنَّهٗ
+    arabic: إِنَّهُۥ
     translation: Indeed He
     transliteration: innahu
   11:
@@ -49,11 +49,11 @@ word_by_word:
     translation: He (is)
     transliteration: huwa
   12:
-    arabic: الۡغَفُوۡرُ
+    arabic: ٱلۡغَفُورُ
     translation: the Oft-Forgiving
     transliteration: l-ghafūru
   13:
-    arabic: الرَّحِيۡمُ‏
+    arabic: ٱلرَّحِيمُ
     translation: the Most Merciful
     transliteration: l-raḥīmu
 ---

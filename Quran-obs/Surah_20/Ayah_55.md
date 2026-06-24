@@ -1,23 +1,23 @@
 ---
-arabic_ayat: مِنۡهَا خَلَقۡنٰكُمۡ وَفِيۡهَا نُعِيۡدُكُمۡ وَمِنۡهَا نُخۡرِجُكُمۡ تَارَةً
-  اُخۡرٰى‏
+arabic_ayat: ۞ مِنۡهَا خَلَقۡنَٰكُمۡ وَفِيهَا نُعِيدُكُمۡ وَمِنۡهَا نُخۡرِجُكُمۡ تَارَةً
+  أُخۡرَىٰ
 sentence_translation: From the earth We created you, and into it We will return you,
   and from it We will bring you back again.
 word_by_word:
   1:
-    arabic: ۞ مِنۡهَا
+    arabic: ۞ مِنۡهَا
     translation: From it
     transliteration: min'hā
   2:
-    arabic: خَلَقۡنٰكُمۡ
+    arabic: خَلَقۡنَٰكُمۡ
     translation: We created you
     transliteration: khalaqnākum
   3:
-    arabic: وَفِيۡهَا
+    arabic: وَفِيهَا
     translation: and in it
     transliteration: wafīhā
   4:
-    arabic: نُعِيۡدُكُمۡ
+    arabic: نُعِيدُكُمۡ
     translation: We will return you
     transliteration: nuʿīdukum
   5:
@@ -33,7 +33,7 @@ word_by_word:
     translation: time
     transliteration: tāratan
   8:
-    arabic: اُخۡرٰى‏
+    arabic: أُخۡرَىٰ
     translation: another
     transliteration: ukh'rā
 ---

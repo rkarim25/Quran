@@ -1,18 +1,18 @@
 ---
-arabic_ayat: قَالُوۡا بَشَّرۡنٰكَ بِالۡحَـقِّ فَلَا تَكُنۡ مِّنَ الۡقٰنِطِيۡنَ‏
+arabic_ayat: قَالُواْ بَشَّرۡنَٰكَ بِٱلۡحَقِّ فَلَا تَكُن مِّنَ ٱلۡقَٰنِطِينَ
 sentence_translation: They responded, “We give you good news in all truth, so do not
   be one of those who despair.”
 word_by_word:
   1:
-    arabic: قَالُوۡا
+    arabic: قَالُواْ
     translation: They said
     transliteration: qālū
   2:
-    arabic: بَشَّرۡنٰكَ
+    arabic: بَشَّرۡنَٰكَ
     translation: We give you glad tidings
     transliteration: basharnāka
   3:
-    arabic: بِالۡحَـقِّ
+    arabic: بِٱلۡحَقِّ
     translation: in truth
     transliteration: bil-ḥaqi
   4:
@@ -20,7 +20,7 @@ word_by_word:
     translation: so (do) not
     transliteration: falā
   5:
-    arabic: تَكُنۡ
+    arabic: تَكُن
     translation: be
     transliteration: takun
   6:
@@ -28,7 +28,7 @@ word_by_word:
     translation: of
     transliteration: mina
   7:
-    arabic: الۡقٰنِطِيۡنَ‏
+    arabic: ٱلۡقَٰنِطِينَ
     translation: the despairing
     transliteration: l-qāniṭīna
 ---

@@ -1,13 +1,13 @@
 ---
-arabic_ayat: وَشَاهِدٍ وَّمَشۡهُوۡدٍؕ‏
+arabic_ayat: وَشَاهِدٖ وَمَشۡهُودٖ
 sentence_translation: and the witness and what is witnessed!
 word_by_word:
   1:
-    arabic: وَشَاهِدٍ
+    arabic: وَشَاهِدٖ
     translation: And (the) witness
     transliteration: washāhidin
   2:
-    arabic: وَّمَشۡهُوۡدٍؕ‏
+    arabic: وَمَشۡهُودٖ
     translation: and what is witnessed
     transliteration: wamashhūdin
 ---

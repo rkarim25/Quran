@@ -1,5 +1,5 @@
 ---
-arabic_ayat: بَلۡ هُمۡ فِىۡ شَكٍّ يَّلۡعَبُوۡنَ‏
+arabic_ayat: بَلۡ هُمۡ فِي شَكّٖ يَلۡعَبُونَ
 sentence_translation: In fact, they are in doubt, amusing themselves.
 word_by_word:
   1:
@@ -11,15 +11,15 @@ word_by_word:
     translation: they
     transliteration: hum
   3:
-    arabic: فِىۡ
+    arabic: فِي
     translation: (are) in
     transliteration: fī
   4:
-    arabic: شَكٍّ
+    arabic: شَكّٖ
     translation: 'doubt '
     transliteration: shakkin
   5:
-    arabic: يَّلۡعَبُوۡنَ‏
+    arabic: يَلۡعَبُونَ
     translation: playing
     transliteration: yalʿabūna
 ---

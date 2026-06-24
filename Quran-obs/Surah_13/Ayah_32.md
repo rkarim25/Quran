@@ -1,24 +1,24 @@
 ---
-arabic_ayat: وَلَـقَدِ اسۡتُهۡزِئَ بِرُسُلٍ مِّنۡ قَبۡلِكَ فَاَمۡلَيۡتُ لِلَّذِيۡنَ
-  كَفَرُوۡا ثُمَّ اَخَذۡتُهُمۡ​ فَكَيۡفَ كَانَ عِقَابِ‏
+arabic_ayat: وَلَقَدِ ٱسۡتُهۡزِئَ بِرُسُلٖ مِّن قَبۡلِكَ فَأَمۡلَيۡتُ لِلَّذِينَ كَفَرُواْ
+  ثُمَّ أَخَذۡتُهُمۡۖ فَكَيۡفَ كَانَ عِقَابِ
 sentence_translation: Other messengers had already been ridiculed before you, but
   I delayed the disbelievers ˹for a while˺ then seized them. And how ˹horrible˺ was
   My punishment!
 word_by_word:
   1:
-    arabic: وَلَـقَدِ
+    arabic: وَلَقَدِ
     translation: And certainly
     transliteration: walaqadi
   2:
-    arabic: اسۡتُهۡزِئَ
+    arabic: ٱسۡتُهۡزِئَ
     translation: were mocked
     transliteration: us'tuh'zi-a
   3:
-    arabic: بِرُسُلٍ
+    arabic: بِرُسُلٖ
     translation: Messengers
     transliteration: birusulin
   4:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: from
     transliteration: min
   5:
@@ -26,15 +26,15 @@ word_by_word:
     translation: before you
     transliteration: qablika
   6:
-    arabic: فَاَمۡلَيۡتُ
+    arabic: فَأَمۡلَيۡتُ
     translation: but I granted respite
     transliteration: fa-amlaytu
   7:
-    arabic: لِلَّذِيۡنَ
+    arabic: لِلَّذِينَ
     translation: to those who
     transliteration: lilladhīna
   8:
-    arabic: كَفَرُوۡا
+    arabic: كَفَرُواْ
     translation: disbelieved
     transliteration: kafarū
   9:
@@ -42,7 +42,7 @@ word_by_word:
     translation: then
     transliteration: thumma
   10:
-    arabic: اَخَذۡتُهُمۡ​
+    arabic: أَخَذۡتُهُمۡۖ
     translation: I seized them
     transliteration: akhadhtuhum
   11:
@@ -54,7 +54,7 @@ word_by_word:
     translation: was
     transliteration: kāna
   13:
-    arabic: عِقَابِ‏
+    arabic: عِقَابِ
     translation: My penalty
     transliteration: ʿiqābi
 ---

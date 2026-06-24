@@ -1,13 +1,13 @@
 ---
-arabic_ayat: يَدۡعُوۡنَ فِيۡهَا بِكُلِّ فَاكِهَةٍ اٰمِنِيۡنَۙ‏
+arabic_ayat: يَدۡعُونَ فِيهَا بِكُلِّ فَٰكِهَةٍ ءَامِنِينَ
 sentence_translation: There they will call for every fruit in serenity.
 word_by_word:
   1:
-    arabic: يَدۡعُوۡنَ
+    arabic: يَدۡعُونَ
     translation: They will call
     transliteration: yadʿūna
   2:
-    arabic: فِيۡهَا
+    arabic: فِيهَا
     translation: therein
     transliteration: fīhā
   3:
@@ -15,11 +15,11 @@ word_by_word:
     translation: for every (kind)
     transliteration: bikulli
   4:
-    arabic: فَاكِهَةٍ
+    arabic: فَٰكِهَةٍ ءَ
     translation: (of) fruit
     transliteration: fākihatin
   5:
-    arabic: اٰمِنِيۡنَۙ‏
+    arabic: امِنِينَ
     translation: secure
     transliteration: āminīna
 ---

@@ -1,13 +1,13 @@
 ---
-arabic_ayat: ضَاحِكَةٌ مُّسۡتَبۡشِرَةٌ ۚ‏
+arabic_ayat: ضَاحِكَةٞ مُّسۡتَبۡشِرَةٞ
 sentence_translation: laughing and rejoicing,
 word_by_word:
   1:
-    arabic: ضَاحِكَةٌ
+    arabic: ضَاحِكَةٞ
     translation: Laughing
     transliteration: ḍāḥikatun
   2:
-    arabic: مُّسۡتَبۡشِرَةٌ ۚ‏
+    arabic: مُّسۡتَبۡشِرَةٞ
     translation: rejoicing at good news
     transliteration: mus'tabshiratun
 ---

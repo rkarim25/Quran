@@ -1,17 +1,17 @@
 ---
-arabic_ayat: وَالصُّبۡحِ اِذَاۤ اَسۡفَرَۙ‏
+arabic_ayat: وَٱلصُّبۡحِ إِذَآ أَسۡفَرَ
 sentence_translation: and the day as it breaks!
 word_by_word:
   1:
-    arabic: وَالصُّبۡحِ
+    arabic: وَٱلصُّبۡحِ
     translation: And the morning
     transliteration: wal-ṣub'ḥi
   2:
-    arabic: اِذَاۤ
+    arabic: إِذَآ
     translation: when
     transliteration: idhā
   3:
-    arabic: اَسۡفَرَۙ‏
+    arabic: أَسۡفَرَ
     translation: it brightens
     transliteration: asfara
 ---

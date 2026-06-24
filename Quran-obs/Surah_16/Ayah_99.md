@@ -1,23 +1,23 @@
 ---
-arabic_ayat: اِنَّهٗ لَـيۡسَ لَهٗ سُلۡطٰنٌ عَلَى الَّذِيۡنَ اٰمَنُوۡا وَعَلٰى رَبِّهِمۡ
-  يَتَوَكَّلُوۡنَ‏
+arabic_ayat: إِنَّهُۥ لَيۡسَ لَهُۥ سُلۡطَٰنٌ عَلَى ٱلَّذِينَ ءَامَنُواْ وَعَلَىٰ رَبِّهِمۡ
+  يَتَوَكَّلُونَ
 sentence_translation: He certainly has no authority over those who believe and put
   their trust in their Lord.
 word_by_word:
   1:
-    arabic: اِنَّهٗ
+    arabic: إِنَّهُۥ
     translation: Indeed he
     transliteration: innahu
   2:
-    arabic: لَـيۡسَ
+    arabic: لَيۡسَ
     translation: not
     transliteration: laysa
   3:
-    arabic: لَهٗ
+    arabic: لَهُۥ
     translation: for him
     transliteration: lahu
   4:
-    arabic: سُلۡطٰنٌ
+    arabic: سُلۡطَٰنٌ
     translation: (is) any authority
     transliteration: sul'ṭānun
   5:
@@ -25,15 +25,15 @@ word_by_word:
     translation: 'on'
     transliteration: ʿalā
   6:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ ءَ
     translation: those who
     transliteration: alladhīna
   7:
-    arabic: اٰمَنُوۡا
+    arabic: امَنُواْ
     translation: believe
     transliteration: āmanū
   8:
-    arabic: وَعَلٰى
+    arabic: وَعَلَىٰ
     translation: and upon
     transliteration: waʿalā
   9:
@@ -41,7 +41,7 @@ word_by_word:
     translation: their Lord
     transliteration: rabbihim
   10:
-    arabic: يَتَوَكَّلُوۡنَ‏
+    arabic: يَتَوَكَّلُونَ
     translation: they put their trust
     transliteration: yatawakkalūna
 ---

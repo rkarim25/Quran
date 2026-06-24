@@ -1,9 +1,9 @@
 ---
-arabic_ayat: وَاخۡفِضۡ جَنَاحَكَ لِمَنِ اتَّبَعَكَ مِنَ الۡمُؤۡمِنِيۡنَ​ۚ‏
+arabic_ayat: وَٱخۡفِضۡ جَنَاحَكَ لِمَنِ ٱتَّبَعَكَ مِنَ ٱلۡمُؤۡمِنِينَ
 sentence_translation: and be gracious to the believers who follow you.
 word_by_word:
   1:
-    arabic: وَاخۡفِضۡ
+    arabic: وَٱخۡفِضۡ
     translation: And lower
     transliteration: wa-ikh'fiḍ
   2:
@@ -15,7 +15,7 @@ word_by_word:
     translation: to (those) who
     transliteration: limani
   4:
-    arabic: اتَّبَعَكَ
+    arabic: ٱتَّبَعَكَ
     translation: follow you
     transliteration: ittabaʿaka
   5:
@@ -23,7 +23,7 @@ word_by_word:
     translation: of
     transliteration: mina
   6:
-    arabic: الۡمُؤۡمِنِيۡنَ​ۚ‏
+    arabic: ٱلۡمُؤۡمِنِينَ
     translation: the believers
     transliteration: l-mu'minīna
 ---

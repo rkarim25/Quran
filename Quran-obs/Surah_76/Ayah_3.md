@@ -1,34 +1,34 @@
 ---
-arabic_ayat: اِنَّا هَدَيۡنٰهُ السَّبِيۡلَ اِمَّا شَاكِرًا وَّاِمَّا كَفُوۡرًا‏
+arabic_ayat: إِنَّا هَدَيۡنَٰهُ ٱلسَّبِيلَ إِمَّا شَاكِرٗا وَإِمَّا كَفُورًا
 sentence_translation: We already showed them the Way, whether they ˹choose to˺ be
   grateful or ungrateful.
 word_by_word:
   1:
-    arabic: اِنَّا
+    arabic: إِنَّا
     translation: Indeed, We
     transliteration: innā
   2:
-    arabic: هَدَيۡنٰهُ
+    arabic: هَدَيۡنَٰهُ
     translation: guided him
     transliteration: hadaynāhu
   3:
-    arabic: السَّبِيۡلَ
+    arabic: ٱلسَّبِيلَ
     translation: (to) the way
     transliteration: l-sabīla
   4:
-    arabic: اِمَّا
+    arabic: إِمَّا
     translation: whether
     transliteration: immā
   5:
-    arabic: شَاكِرًا
+    arabic: شَاكِرٗا
     translation: (he) be grateful
     transliteration: shākiran
   6:
-    arabic: وَّاِمَّا
+    arabic: وَإِمَّا
     translation: and whether
     transliteration: wa-immā
   7:
-    arabic: كَفُوۡرًا‏
+    arabic: كَفُورًا
     translation: (he) be ungrateful
     transliteration: kafūran
 ---

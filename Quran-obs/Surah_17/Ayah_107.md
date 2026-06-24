@@ -1,25 +1,24 @@
 ---
-arabic_ayat: قُلۡ اٰمِنُوۡا بِهٖۤ اَوۡ لَا تُؤۡمِنُوۡٓا​ ؕ اِنَّ الَّذِيۡنَ اُوۡتُوا
-  الۡعِلۡمَ مِنۡ قَبۡلِهٖۤ اِذَا يُتۡلٰى عَلَيۡهِمۡ يَخِرُّوۡنَ لِلۡاَذۡقَانِ سُجَّدًا
-  ۙ‏
+arabic_ayat: قُلۡ ءَامِنُواْ بِهِۦٓ أَوۡ لَا تُؤۡمِنُوٓاْۚ إِنَّ ٱلَّذِينَ أُوتُواْ
+  ٱلۡعِلۡمَ مِن قَبۡلِهِۦٓ إِذَا يُتۡلَىٰ عَلَيۡهِمۡ يَخِرُّونَۤ لِلۡأَذۡقَانِۤ سُجَّدٗاۤ
 sentence_translation: Say, ˹O Prophet,˺ “Believe in this ˹Quran˺, or do not. Indeed,
   when it is recited to those who were gifted with knowledge before it ˹was revealed˺,
   they fall upon their faces in prostration,
 word_by_word:
   1:
-    arabic: قُلۡ
+    arabic: قُلۡ ءَ
     translation: Say
     transliteration: qul
   2:
-    arabic: اٰمِنُوۡا
+    arabic: امِنُواْ
     translation: Believe
     transliteration: āminū
   3:
-    arabic: بِهٖۤ
+    arabic: بِهِۦٓ
     translation: in it
     transliteration: bihi
   4:
-    arabic: اَوۡ
+    arabic: أَوۡ
     translation: or
     transliteration: aw
   5:
@@ -27,39 +26,39 @@ word_by_word:
     translation: (do) not
     transliteration: lā
   6:
-    arabic: تُؤۡمِنُوۡٓا​ ؕ
+    arabic: تُؤۡمِنُوٓاْۚ
     translation: believe
     transliteration: tu'minū
   7:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   8:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   9:
-    arabic: اُوۡتُوا
+    arabic: أُوتُواْ
     translation: were given
     transliteration: ūtū
   10:
-    arabic: الۡعِلۡمَ
+    arabic: ٱلۡعِلۡمَ
     translation: the knowledge
     transliteration: l-ʿil'ma
   11:
-    arabic: مِنۡ
+    arabic: مِن
     translation: before it
     transliteration: min
   12:
-    arabic: قَبۡلِهٖۤ
+    arabic: قَبۡلِهِۦٓ
     translation: before it
     transliteration: qablihi
   13:
-    arabic: اِذَا
+    arabic: إِذَا
     translation: when
     transliteration: idhā
   14:
-    arabic: يُتۡلٰى
+    arabic: يُتۡلَىٰ
     translation: it is recited
     transliteration: yut'lā
   15:
@@ -67,15 +66,15 @@ word_by_word:
     translation: to them
     transliteration: ʿalayhim
   16:
-    arabic: يَخِرُّوۡنَ
+    arabic: يَخِرُّونَۤ
     translation: they fall
     transliteration: yakhirrūna
   17:
-    arabic: لِلۡاَذۡقَانِ
+    arabic: لِلۡأَذۡقَانِۤ
     translation: on their faces
     transliteration: lil'adhqāni
   18:
-    arabic: سُجَّدًا ۙ‏
+    arabic: سُجَّدٗاۤ
     translation: (in) prostration
     transliteration: sujjadan
 ---

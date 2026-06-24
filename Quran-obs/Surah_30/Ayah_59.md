@@ -1,10 +1,10 @@
 ---
-arabic_ayat: كَذٰلِكَ يَطۡبَعُ اللّٰهُ عَلٰى قُلُوۡبِ الَّذِيۡنَ لَا يَعۡلَمُوۡنَ‏
+arabic_ayat: كَذَٰلِكَ يَطۡبَعُ ٱللَّهُ عَلَىٰ قُلُوبِ ٱلَّذِينَ لَا يَعۡلَمُونَ
 sentence_translation: This is how Allah seals the hearts of those unwilling to know
   ˹the truth˺.
 word_by_word:
   1:
-    arabic: كَذٰلِكَ
+    arabic: كَذَٰلِكَ
     translation: Thus
     transliteration: kadhālika
   2:
@@ -12,19 +12,19 @@ word_by_word:
     translation: Allah seals
     transliteration: yaṭbaʿu
   3:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah seals
     transliteration: l-lahu
   4:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: '[on]'
     transliteration: ʿalā
   5:
-    arabic: قُلُوۡبِ
+    arabic: قُلُوبِ
     translation: (the) hearts
     transliteration: qulūbi
   6:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: (of) those who
     transliteration: alladhīna
   7:
@@ -32,7 +32,7 @@ word_by_word:
     translation: (do) not
     transliteration: lā
   8:
-    arabic: يَعۡلَمُوۡنَ‏
+    arabic: يَعۡلَمُونَ
     translation: know
     transliteration: yaʿlamūna
 ---

@@ -1,24 +1,24 @@
 ---
-arabic_ayat: اَفَاَمِنُوۡۤا اَنۡ تَاۡتِيَهُمۡ غَاشِيَةٌ مِّنۡ عَذَابِ اللّٰهِ اَوۡ
-  تَاۡتِيَهُمُ السَّاعَةُ بَغۡتَةً وَّ هُمۡ لَا يَشۡعُرُوۡنَ‏
+arabic_ayat: أَفَأَمِنُوٓاْ أَن تَأۡتِيَهُمۡ غَٰشِيَةٞ مِّنۡ عَذَابِ ٱللَّهِ أَوۡ
+  تَأۡتِيَهُمُ ٱلسَّاعَةُ بَغۡتَةٗ وَهُمۡ لَا يَشۡعُرُونَ
 sentence_translation: Do they feel secure that an overwhelming torment from Allah
   will not overtake them, or that the Hour will not take them by surprise when they
   least expect ˹it˺?
 word_by_word:
   1:
-    arabic: اَفَاَمِنُوۡۤا
+    arabic: أَفَأَمِنُوٓاْ
     translation: Do they then feel secure
     transliteration: afa-aminū
   2:
-    arabic: اَنۡ
+    arabic: أَن
     translation: (against) that
     transliteration: an
   3:
-    arabic: تَاۡتِيَهُمۡ
+    arabic: تَأۡتِيَهُمۡ
     translation: comes to them
     transliteration: tatiyahum
   4:
-    arabic: غَاشِيَةٌ
+    arabic: غَٰشِيَةٞ
     translation: an overwhelming
     transliteration: ghāshiyatun
   5:
@@ -30,27 +30,27 @@ word_by_word:
     translation: punishment
     transliteration: ʿadhābi
   7:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (of) Allah
     transliteration: l-lahi
   8:
-    arabic: اَوۡ
+    arabic: أَوۡ
     translation: or
     transliteration: aw
   9:
-    arabic: تَاۡتِيَهُمُ
+    arabic: تَأۡتِيَهُمُ
     translation: comes to them
     transliteration: tatiyahumu
   10:
-    arabic: السَّاعَةُ
+    arabic: ٱلسَّاعَةُ
     translation: the Hour
     transliteration: l-sāʿatu
   11:
-    arabic: بَغۡتَةً
+    arabic: بَغۡتَةٗ
     translation: suddenly
     transliteration: baghtatan
   12:
-    arabic: وَّ هُمۡ
+    arabic: وَهُمۡ
     translation: while they
     transliteration: wahum
   13:
@@ -58,7 +58,7 @@ word_by_word:
     translation: (do) not
     transliteration: lā
   14:
-    arabic: يَشۡعُرُوۡنَ‏
+    arabic: يَشۡعُرُونَ
     translation: perceive
     transliteration: yashʿurūna
 ---

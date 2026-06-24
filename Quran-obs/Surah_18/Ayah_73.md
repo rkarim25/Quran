@@ -1,6 +1,5 @@
 ---
-arabic_ayat: "قَالَ لَا تُؤَاخِذۡنِىۡ بِمَا نَسِيۡتُ وَلَا تُرۡهِقۡنِىۡ مِنۡ اَمۡرِىۡ\
-  \ عُسۡرًا‏ \uFEFF\uFEFF"
+arabic_ayat: قَالَ لَا تُؤَاخِذۡنِي بِمَا نَسِيتُ وَلَا تُرۡهِقۡنِي مِنۡ أَمۡرِي عُسۡرٗا
 sentence_translation: Moses pleaded, “Excuse me for forgetting, and do not be hard
   on me.”
 word_by_word:
@@ -13,7 +12,7 @@ word_by_word:
     translation: (Do) not
     transliteration: lā
   3:
-    arabic: تُؤَاخِذۡنِىۡ
+    arabic: تُؤَاخِذۡنِي
     translation: blame me
     transliteration: tuākhidh'nī
   4:
@@ -21,7 +20,7 @@ word_by_word:
     translation: for what
     transliteration: bimā
   5:
-    arabic: نَسِيۡتُ
+    arabic: نَسِيتُ
     translation: I forgot
     transliteration: nasītu
   6:
@@ -29,7 +28,7 @@ word_by_word:
     translation: and (do) not
     transliteration: walā
   7:
-    arabic: تُرۡهِقۡنِىۡ
+    arabic: تُرۡهِقۡنِي
     translation: be hard (upon) me
     transliteration: tur'hiq'nī
   8:
@@ -37,11 +36,11 @@ word_by_word:
     translation: in
     transliteration: min
   9:
-    arabic: اَمۡرِىۡ
+    arabic: أَمۡرِي
     translation: my affair
     transliteration: amrī
   10:
-    arabic: "عُسۡرًا‏ \uFEFF\uFEFF"
+    arabic: عُسۡرٗا
     translation: (raising) difficulty
     transliteration: ʿus'ran
 ---

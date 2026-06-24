@@ -1,17 +1,17 @@
 ---
-arabic_ayat: اَمِ اتَّخَذُوۡۤا اٰلِهَةً مِّنَ الۡاَرۡضِ هُمۡ يُنۡشِرُوۡنَ‏
+arabic_ayat: أَمِ ٱتَّخَذُوٓاْ ءَالِهَةٗ مِّنَ ٱلۡأَرۡضِ هُمۡ يُنشِرُونَ
 sentence_translation: Or have they taken gods from the earth, who can raise the dead?
 word_by_word:
   1:
-    arabic: اَمِ
+    arabic: أَمِ
     translation: Or
     transliteration: ami
   2:
-    arabic: اتَّخَذُوۡۤا
+    arabic: ٱتَّخَذُوٓاْ ءَ
     translation: (have) they taken
     transliteration: ittakhadhū
   3:
-    arabic: اٰلِهَةً
+    arabic: الِهَةٗ
     translation: gods
     transliteration: ālihatan
   4:
@@ -19,7 +19,7 @@ word_by_word:
     translation: from
     transliteration: mina
   5:
-    arabic: الۡاَرۡضِ
+    arabic: ٱلۡأَرۡضِ
     translation: the earth
     transliteration: l-arḍi
   6:
@@ -27,7 +27,7 @@ word_by_word:
     translation: they
     transliteration: hum
   7:
-    arabic: يُنۡشِرُوۡنَ‏
+    arabic: يُنشِرُونَ
     translation: raise (the dead)
     transliteration: yunshirūna
 ---

@@ -1,7 +1,7 @@
 ---
-arabic_ayat: مَثَلُ الَّذِيۡنَ حُمِّلُوا التَّوۡرٰٮةَ ثُمَّ لَمۡ يَحۡمِلُوۡهَا كَمَثَلِ
-  الۡحِمَارِ يَحۡمِلُ اَسۡفَارًا​ ؕ بِئۡسَ مَثَلُ الۡقَوۡمِ الَّذِيۡنَ كَذَّبُوۡا
-  بِاٰيٰتِ اللّٰهِ ​ؕ وَاللّٰهُ لَا يَهۡدِى الۡقَوۡمَ الظّٰلِمِيۡنَ‏
+arabic_ayat: مَثَلُ ٱلَّذِينَ حُمِّلُواْ ٱلتَّوۡرَىٰةَ ثُمَّ لَمۡ يَحۡمِلُوهَا كَمَثَلِ
+  ٱلۡحِمَارِ يَحۡمِلُ أَسۡفَارَۢاۚ بِئۡسَ مَثَلُ ٱلۡقَوۡمِ ٱلَّذِينَ كَذَّبُواْ بِـَٔايَٰتِ
+  ٱللَّهِۚ وَٱللَّهُ لَا يَهۡدِي ٱلۡقَوۡمَ ٱلظَّٰلِمِينَ
 sentence_translation: The example of those who were entrusted with ˹observing˺ the
   Torah but failed to do so, is that of a donkey carrying books. How evil is the example
   of those who reject Allah’s signs! For Allah does not guide the wrongdoing people.
@@ -11,15 +11,15 @@ word_by_word:
     translation: (The) likeness
     transliteration: mathalu
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: (of) those who
     transliteration: alladhīna
   3:
-    arabic: حُمِّلُوا
+    arabic: حُمِّلُواْ
     translation: were entrusted
     transliteration: ḥummilū
   4:
-    arabic: التَّوۡرٰٮةَ
+    arabic: ٱلتَّوۡرَىٰةَ
     translation: (with) the Taurat
     transliteration: l-tawrāta
   5:
@@ -31,7 +31,7 @@ word_by_word:
     translation: not
     transliteration: lam
   7:
-    arabic: يَحۡمِلُوۡهَا
+    arabic: يَحۡمِلُوهَا
     translation: they bore it
     transliteration: yaḥmilūhā
   8:
@@ -39,7 +39,7 @@ word_by_word:
     translation: (is) like
     transliteration: kamathali
   9:
-    arabic: الۡحِمَارِ
+    arabic: ٱلۡحِمَارِ
     translation: the donkey
     transliteration: l-ḥimāri
   10:
@@ -47,7 +47,7 @@ word_by_word:
     translation: who carries
     transliteration: yaḥmilu
   11:
-    arabic: اَسۡفَارًا​ ؕ
+    arabic: أَسۡفَارَۢاۚ
     translation: books
     transliteration: asfāran
   12:
@@ -59,27 +59,27 @@ word_by_word:
     translation: (the) example
     transliteration: mathalu
   14:
-    arabic: الۡقَوۡمِ
+    arabic: ٱلۡقَوۡمِ
     translation: (of) the people
     transliteration: l-qawmi
   15:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: who
     transliteration: alladhīna
   16:
-    arabic: كَذَّبُوۡا
+    arabic: كَذَّبُواْ
     translation: deny
     transliteration: kadhabū
   17:
-    arabic: بِاٰيٰتِ
+    arabic: بِـَٔايَٰتِ
     translation: (the) Signs
     transliteration: biāyāti
   18:
-    arabic: اللّٰهِ ​ؕ
+    arabic: ٱللَّهِۚ
     translation: (of) Allah
     transliteration: l-lahi
   19:
-    arabic: وَاللّٰهُ
+    arabic: وَٱللَّهُ
     translation: And Allah
     transliteration: wal-lahu
   20:
@@ -87,15 +87,15 @@ word_by_word:
     translation: (does) not
     transliteration: lā
   21:
-    arabic: يَهۡدِى
+    arabic: يَهۡدِي
     translation: guide
     transliteration: yahdī
   22:
-    arabic: الۡقَوۡمَ
+    arabic: ٱلۡقَوۡمَ
     translation: the people
     transliteration: l-qawma
   23:
-    arabic: الظّٰلِمِيۡنَ‏
+    arabic: ٱلظَّٰلِمِينَ
     translation: the wrongdoers
     transliteration: l-ẓālimīna
 ---

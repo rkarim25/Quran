@@ -1,25 +1,25 @@
 ---
-arabic_ayat: وَهٰذَا كِتٰبٌ اَنۡزَلۡنٰهُ مُبٰرَكٌ مُّصَدِّقُ الَّذِىۡ بَيۡنَ يَدَيۡهِ
-  وَلِتُنۡذِرَ اُمَّ الۡقُرٰى وَمَنۡ حَوۡلَهَا​ ؕ وَالَّذِيۡنَ يُؤۡمِنُوۡنَ بِالۡاٰخِرَةِ
-  يُؤۡمِنُوۡنَ بِهٖ​ وَهُمۡ عَلٰى صَلَاتِهِمۡ يُحَافِظُوۡنَ‏
+arabic_ayat: وَهَٰذَا كِتَٰبٌ أَنزَلۡنَٰهُ مُبَارَكٞ مُّصَدِّقُ ٱلَّذِي بَيۡنَ يَدَيۡهِ
+  وَلِتُنذِرَ أُمَّ ٱلۡقُرَىٰ وَمَنۡ حَوۡلَهَاۚ وَٱلَّذِينَ يُؤۡمِنُونَ بِٱلۡأٓخِرَةِ
+  يُؤۡمِنُونَ بِهِۦۖ وَهُمۡ عَلَىٰ صَلَاتِهِمۡ يُحَافِظُونَ
 sentence_translation: This is a blessed Book which We have revealed—confirming what
   came before it—so you may warn the Mother of Cities and everyone around it. Those
   who believe in the Hereafter ˹truly˺ believe in it and guard their prayers.
 word_by_word:
   1:
-    arabic: وَهٰذَا
+    arabic: وَهَٰذَا
     translation: And this
     transliteration: wahādhā
   2:
-    arabic: كِتٰبٌ
+    arabic: كِتَٰبٌ
     translation: (is) a Book
     transliteration: kitābun
   3:
-    arabic: اَنۡزَلۡنٰهُ
+    arabic: أَنزَلۡنَٰهُ
     translation: We have revealed it
     transliteration: anzalnāhu
   4:
-    arabic: مُبٰرَكٌ
+    arabic: مُبَارَكٞ
     translation: blessed
     transliteration: mubārakun
   5:
@@ -27,7 +27,7 @@ word_by_word:
     translation: confirming
     transliteration: muṣaddiqu
   6:
-    arabic: الَّذِىۡ
+    arabic: ٱلَّذِي
     translation: which
     transliteration: alladhī
   7:
@@ -39,15 +39,15 @@ word_by_word:
     translation: its hands
     transliteration: yadayhi
   9:
-    arabic: وَلِتُنۡذِرَ
+    arabic: وَلِتُنذِرَ
     translation: so that you may warn
     transliteration: walitundhira
   10:
-    arabic: اُمَّ
+    arabic: أُمَّ
     translation: (the) mother
     transliteration: umma
   11:
-    arabic: الۡقُرٰى
+    arabic: ٱلۡقُرَىٰ
     translation: (of) the cities
     transliteration: l-qurā
   12:
@@ -55,27 +55,27 @@ word_by_word:
     translation: and who
     transliteration: waman
   13:
-    arabic: حَوۡلَهَا​ ؕ
+    arabic: حَوۡلَهَاۚ
     translation: (are) around it
     transliteration: ḥawlahā
   14:
-    arabic: وَالَّذِيۡنَ
+    arabic: وَٱلَّذِينَ
     translation: And those who
     transliteration: wa-alladhīna
   15:
-    arabic: يُؤۡمِنُوۡنَ
+    arabic: يُؤۡمِنُونَ
     translation: believe
     transliteration: yu'minūna
   16:
-    arabic: بِالۡاٰخِرَةِ
+    arabic: بِٱلۡأٓخِرَةِ
     translation: in the Hereafter
     transliteration: bil-ākhirati
   17:
-    arabic: يُؤۡمِنُوۡنَ
+    arabic: يُؤۡمِنُونَ
     translation: they believe
     transliteration: yu'minūna
   18:
-    arabic: بِهٖ​
+    arabic: بِهِۦۖ
     translation: in it
     transliteration: bihi
   19:
@@ -83,7 +83,7 @@ word_by_word:
     translation: and they
     transliteration: wahum
   20:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: over
     transliteration: ʿalā
   21:
@@ -91,7 +91,7 @@ word_by_word:
     translation: their prayers
     transliteration: ṣalātihim
   22:
-    arabic: يُحَافِظُوۡنَ‏
+    arabic: يُحَافِظُونَ
     translation: (are) guarding
     transliteration: yuḥāfiẓūna
 ---

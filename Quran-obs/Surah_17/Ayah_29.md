@@ -1,6 +1,6 @@
 ---
-arabic_ayat: وَلَا تَجۡعَلۡ يَدَكَ مَغۡلُوۡلَةً اِلٰى عُنُقِكَ وَلَا تَبۡسُطۡهَا كُلَّ
-  الۡبَسۡطِ فَتَقۡعُدَ مَلُوۡمًا مَّحۡسُوۡرًا‏
+arabic_ayat: وَلَا تَجۡعَلۡ يَدَكَ مَغۡلُولَةً إِلَىٰ عُنُقِكَ وَلَا تَبۡسُطۡهَا كُلَّ
+  ٱلۡبَسۡطِ فَتَقۡعُدَ مَلُومٗا مَّحۡسُورًا
 sentence_translation: Do not be so tight-fisted, for you will be blameworthy; nor
   so open-handed, for you will end up in poverty.
 word_by_word:
@@ -17,11 +17,11 @@ word_by_word:
     translation: your hand
     transliteration: yadaka
   4:
-    arabic: مَغۡلُوۡلَةً
+    arabic: مَغۡلُولَةً
     translation: chained
     transliteration: maghlūlatan
   5:
-    arabic: اِلٰى
+    arabic: إِلَىٰ
     translation: to
     transliteration: ilā
   6:
@@ -41,7 +41,7 @@ word_by_word:
     translation: (to its) utmost
     transliteration: kulla
   10:
-    arabic: الۡبَسۡطِ
+    arabic: ٱلۡبَسۡطِ
     translation: reach
     transliteration: l-basṭi
   11:
@@ -49,11 +49,11 @@ word_by_word:
     translation: so that you sit
     transliteration: fataqʿuda
   12:
-    arabic: مَلُوۡمًا
+    arabic: مَلُومٗا
     translation: blameworthy
     transliteration: malūman
   13:
-    arabic: مَّحۡسُوۡرًا‏
+    arabic: مَّحۡسُورًا
     translation: insolvent
     transliteration: maḥsūran
 ---

@@ -1,9 +1,9 @@
 ---
-arabic_ayat: وَاللّٰهُ جَعَلَ لَـكُمُ الۡاَرۡضَ بِسَاطًا ۙ‏
+arabic_ayat: وَٱللَّهُ جَعَلَ لَكُمُ ٱلۡأَرۡضَ بِسَاطٗا
 sentence_translation: And Allah ˹alone˺ spread out the earth for you
 word_by_word:
   1:
-    arabic: وَاللّٰهُ
+    arabic: وَٱللَّهُ
     translation: And Allah
     transliteration: wal-lahu
   2:
@@ -11,15 +11,15 @@ word_by_word:
     translation: made
     transliteration: jaʿala
   3:
-    arabic: لَـكُمُ
+    arabic: لَكُمُ
     translation: for you
     transliteration: lakumu
   4:
-    arabic: الۡاَرۡضَ
+    arabic: ٱلۡأَرۡضَ
     translation: the earth
     transliteration: l-arḍa
   5:
-    arabic: بِسَاطًا ۙ‏
+    arabic: بِسَاطٗا
     translation: an expanse
     transliteration: bisāṭan
 ---

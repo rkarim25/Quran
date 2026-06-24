@@ -1,17 +1,17 @@
 ---
-arabic_ayat: فِيۡهِمَا عَيۡنٰنِ تَجۡرِيٰنِ​ۚ‏
+arabic_ayat: فِيهِمَا عَيۡنَانِ تَجۡرِيَانِ
 sentence_translation: In each ˹Garden˺ will be two flowing springs.
 word_by_word:
   1:
-    arabic: فِيۡهِمَا
+    arabic: فِيهِمَا
     translation: In both of them
     transliteration: fīhimā
   2:
-    arabic: عَيۡنٰنِ
+    arabic: عَيۡنَانِ
     translation: (are) two springs
     transliteration: ʿaynāni
   3:
-    arabic: تَجۡرِيٰنِ​ۚ‏
+    arabic: تَجۡرِيَانِ
     translation: flowing
     transliteration: tajriyāni
 ---

@@ -1,11 +1,11 @@
 ---
-arabic_ayat: اِنۡ تَحۡرِصۡ عَلٰى هُدٰٮهُمۡ فَاِنَّ اللّٰهَ لَا يَهۡدِىۡ مَنۡ يُّضِلُّ​
-  وَمَا لَهُمۡ مِّنۡ نّٰصِرِيۡنَ‏
+arabic_ayat: إِن تَحۡرِصۡ عَلَىٰ هُدَىٰهُمۡ فَإِنَّ ٱللَّهَ لَا يَهۡدِي مَن يُضِلُّۖ
+  وَمَا لَهُم مِّن نَّٰصِرِينَ
 sentence_translation: Even though you ˹O Prophet˺ are keen on their guidance, Allah
   certainly does not guide those He leaves to stray, and they will have no helpers.
 word_by_word:
   1:
-    arabic: اِنۡ
+    arabic: إِن
     translation: If
     transliteration: in
   2:
@@ -13,19 +13,19 @@ word_by_word:
     translation: you desire
     transliteration: taḥriṣ
   3:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: '[for]'
     transliteration: ʿalā
   4:
-    arabic: هُدٰٮهُمۡ
+    arabic: هُدَىٰهُمۡ
     translation: their guidance
     transliteration: hudāhum
   5:
-    arabic: فَاِنَّ
+    arabic: فَإِنَّ
     translation: then indeed
     transliteration: fa-inna
   6:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   7:
@@ -33,15 +33,15 @@ word_by_word:
     translation: (will) not
     transliteration: lā
   8:
-    arabic: يَهۡدِىۡ
+    arabic: يَهۡدِي
     translation: guide
     transliteration: yahdī
   9:
-    arabic: مَنۡ
+    arabic: مَن
     translation: whom
     transliteration: man
   10:
-    arabic: يُّضِلُّ​
+    arabic: يُضِلُّۖ
     translation: He lets go astray
     transliteration: yuḍillu
   11:
@@ -49,15 +49,15 @@ word_by_word:
     translation: and not (are)
     transliteration: wamā
   12:
-    arabic: لَهُمۡ
+    arabic: لَهُم
     translation: for them
     transliteration: lahum
   13:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: any
     transliteration: min
   14:
-    arabic: نّٰصِرِيۡنَ‏
+    arabic: نَّٰصِرِينَ
     translation: helpers
     transliteration: nāṣirīna
 ---

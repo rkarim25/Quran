@@ -1,5 +1,5 @@
 ---
-arabic_ayat: هَلۡ ثُوِّبَ الۡكُفَّارُ مَا كَانُوۡا يَفۡعَلُوۡنَ‏
+arabic_ayat: هَلۡ ثُوِّبَ ٱلۡكُفَّارُ مَا كَانُواْ يَفۡعَلُونَ
 sentence_translation: ˹The believers will be asked,˺ “Have the disbelievers ˹not˺
   been paid back for what they used to do?”
 word_by_word:
@@ -12,7 +12,7 @@ word_by_word:
     translation: been rewarded
     transliteration: thuwwiba
   3:
-    arabic: الۡكُفَّارُ
+    arabic: ٱلۡكُفَّارُ
     translation: the disbelievers
     transliteration: l-kufāru
   4:
@@ -20,11 +20,11 @@ word_by_word:
     translation: (for) what
     transliteration: mā
   5:
-    arabic: كَانُوۡا
+    arabic: كَانُواْ
     translation: they used to
     transliteration: kānū
   6:
-    arabic: يَفۡعَلُوۡنَ‏
+    arabic: يَفۡعَلُونَ
     translation: do
     transliteration: yafʿalūna
 ---

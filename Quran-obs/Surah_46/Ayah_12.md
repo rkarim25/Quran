@@ -1,45 +1,44 @@
 ---
-arabic_ayat: "وَمِنۡ قَبۡلِهٖ كِتٰبُ مُوۡسٰٓى اِمَامًا وَّرَحۡمَةً  ​ ؕ وَهٰذَا كِتٰبٌ\
-  \ مُّصَدِّقٌ لِّسَانًا عَرَبِيًّا لِّيُنۡذِرَ الَّذِيۡنَ ظَلَمُوۡا ​ۖ  وَبُشۡرٰى\
-  \ لِلۡمُحۡسِنِيۡنَ​ۚ‏ \uFEFF\uFEFF"
+arabic_ayat: وَمِن قَبۡلِهِۦ كِتَٰبُ مُوسَىٰٓ إِمَامٗا وَرَحۡمَةٗۚ وَهَٰذَا كِتَٰبٞ
+  مُّصَدِّقٞ لِّسَانًا عَرَبِيّٗا لِّيُنذِرَ ٱلَّذِينَ ظَلَمُواْ وَبُشۡرَىٰ لِلۡمُحۡسِنِينَ
 sentence_translation: And before this ˹Quran˺ the Book of Moses was ˹revealed as˺
   a guide and mercy. And this Book is a confirmation, in the Arabic tongue, to warn
   those who do wrong, and as good news to those who do good.
 word_by_word:
   1:
-    arabic: وَمِنۡ
+    arabic: وَمِن
     translation: And before it
     transliteration: wamin
   2:
-    arabic: قَبۡلِهٖ
+    arabic: قَبۡلِهِۦ
     translation: And before it
     transliteration: qablihi
   3:
-    arabic: كِتٰبُ
+    arabic: كِتَٰبُ
     translation: (was the) Scripture
     transliteration: kitābu
   4:
-    arabic: مُوۡسٰٓى
+    arabic: مُوسَىٰٓ
     translation: (of) Musa
     transliteration: mūsā
   5:
-    arabic: اِمَامًا
+    arabic: إِمَامٗا
     translation: (as) a guide
     transliteration: imāman
   6:
-    arabic: وَّرَحۡمَةً  ​ ؕ
+    arabic: وَرَحۡمَةٗۚ
     translation: and a mercy
     transliteration: waraḥmatan
   7:
-    arabic: وَهٰذَا
+    arabic: وَهَٰذَا
     translation: And this
     transliteration: wahādhā
   8:
-    arabic: كِتٰبٌ
+    arabic: كِتَٰبٞ
     translation: (is) a Book
     transliteration: kitābun
   9:
-    arabic: مُّصَدِّقٌ
+    arabic: مُّصَدِّقٞ
     translation: confirming
     transliteration: muṣaddiqun
   10:
@@ -47,27 +46,27 @@ word_by_word:
     translation: (in) language
     transliteration: lisānan
   11:
-    arabic: عَرَبِيًّا
+    arabic: عَرَبِيّٗا
     translation: Arabic
     transliteration: ʿarabiyyan
   12:
-    arabic: لِّيُنۡذِرَ
+    arabic: لِّيُنذِرَ
     translation: to warn
     transliteration: liyundhira
   13:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   14:
-    arabic: ظَلَمُوۡا ​ۖ 
+    arabic: ظَلَمُواْ
     translation: do wrong
     transliteration: ẓalamū
   15:
-    arabic: وَبُشۡرٰى
+    arabic: وَبُشۡرَىٰ
     translation: and (as) glad tidings
     transliteration: wabush'rā
   16:
-    arabic: "لِلۡمُحۡسِنِيۡنَ​ۚ‏ \uFEFF\uFEFF"
+    arabic: لِلۡمُحۡسِنِينَ
     translation: for the good-doers
     transliteration: lil'muḥ'sinīna
 ---

@@ -1,16 +1,16 @@
 ---
-arabic_ayat: قَالُوا اطَّيَّرۡنَا بِكَ وَبِمَنۡ مَّعَكَ​ ؕ قَالَ طٰٓٮِٕرُكُمۡ عِنۡدَ
-  اللّٰهِ​ بَلۡ اَنۡـتُمۡ قَوۡمٌ تُفۡتَـنُوۡنَ‏
+arabic_ayat: قَالُواْ ٱطَّيَّرۡنَا بِكَ وَبِمَن مَّعَكَۚ قَالَ طَٰٓئِرُكُمۡ عِندَ
+  ٱللَّهِۖ بَلۡ أَنتُمۡ قَوۡمٞ تُفۡتَنُونَ
 sentence_translation: They replied, “You and your followers are a bad omen for us.” He
   responded, “Your omens are destined by Allah. In fact, you are ˹only˺ a people being
   tested.”
 word_by_word:
   1:
-    arabic: قَالُوا
+    arabic: قَالُواْ
     translation: They said
     transliteration: qālū
   2:
-    arabic: اطَّيَّرۡنَا
+    arabic: ٱطَّيَّرۡنَا
     translation: We consider you a bad omen
     transliteration: iṭṭayyarnā
   3:
@@ -18,11 +18,11 @@ word_by_word:
     translation: We consider you a bad omen
     transliteration: bika
   4:
-    arabic: وَبِمَنۡ
+    arabic: وَبِمَن
     translation: and those
     transliteration: wabiman
   5:
-    arabic: مَّعَكَ​ ؕ
+    arabic: مَّعَكَۚ
     translation: with you
     transliteration: maʿaka
   6:
@@ -30,15 +30,15 @@ word_by_word:
     translation: He said
     transliteration: qāla
   7:
-    arabic: طٰٓٮِٕرُكُمۡ
+    arabic: طَٰٓئِرُكُمۡ
     translation: Your bad omen
     transliteration: ṭāirukum
   8:
-    arabic: عِنۡدَ
+    arabic: عِندَ
     translation: (is) with
     transliteration: ʿinda
   9:
-    arabic: اللّٰهِ​
+    arabic: ٱللَّهِۖ
     translation: Allah
     transliteration: l-lahi
   10:
@@ -46,15 +46,15 @@ word_by_word:
     translation: Nay
     transliteration: bal
   11:
-    arabic: اَنۡـتُمۡ
+    arabic: أَنتُمۡ
     translation: you
     transliteration: antum
   12:
-    arabic: قَوۡمٌ
+    arabic: قَوۡمٞ
     translation: (are) a people
     transliteration: qawmun
   13:
-    arabic: تُفۡتَـنُوۡنَ‏
+    arabic: تُفۡتَنُونَ
     translation: being tested
     transliteration: tuf'tanūna
 ---

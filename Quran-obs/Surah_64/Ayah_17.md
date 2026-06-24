@@ -1,19 +1,19 @@
 ---
-arabic_ayat: اِنۡ تُقۡرِضُوا اللّٰهَ قَرۡضًا حَسَنًا يُّضٰعِفۡهُ لَـكُمۡ وَيَغۡفِرۡ
-  لَـكُمۡ​ؕ وَاللّٰهُ شَكُوۡرٌ حَلِيۡمٌۙ‏
+arabic_ayat: إِن تُقۡرِضُواْ ٱللَّهَ قَرۡضًا حَسَنٗا يُضَٰعِفۡهُ لَكُمۡ وَيَغۡفِرۡ
+  لَكُمۡۚ وَٱللَّهُ شَكُورٌ حَلِيمٌ
 sentence_translation: If you lend to Allah a good loan, He will multiply it for you
   and forgive you. For Allah is Most Appreciative, Most Forbearing.
 word_by_word:
   1:
-    arabic: اِنۡ
+    arabic: إِن
     translation: If
     transliteration: in
   2:
-    arabic: تُقۡرِضُوا
+    arabic: تُقۡرِضُواْ
     translation: you loan
     transliteration: tuq'riḍū
   3:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: (to) Allah
     transliteration: l-laha
   4:
@@ -21,15 +21,15 @@ word_by_word:
     translation: a loan
     transliteration: qarḍan
   5:
-    arabic: حَسَنًا
+    arabic: حَسَنٗا
     translation: goodly
     transliteration: ḥasanan
   6:
-    arabic: يُّضٰعِفۡهُ
+    arabic: يُضَٰعِفۡهُ
     translation: He will multiply it
     transliteration: yuḍāʿif'hu
   7:
-    arabic: لَـكُمۡ
+    arabic: لَكُمۡ
     translation: for you
     transliteration: lakum
   8:
@@ -37,19 +37,19 @@ word_by_word:
     translation: and will forgive
     transliteration: wayaghfir
   9:
-    arabic: لَـكُمۡ​ؕ
+    arabic: لَكُمۡۚ
     translation: you
     transliteration: lakum
   10:
-    arabic: وَاللّٰهُ
+    arabic: وَٱللَّهُ
     translation: And Allah
     transliteration: wal-lahu
   11:
-    arabic: شَكُوۡرٌ
+    arabic: شَكُورٌ
     translation: (is) Most Appreciative
     transliteration: shakūrun
   12:
-    arabic: حَلِيۡمٌۙ‏
+    arabic: حَلِيمٌ
     translation: Most Forbearing
     transliteration: ḥalīmun
 ---

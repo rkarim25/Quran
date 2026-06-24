@@ -1,13 +1,13 @@
 ---
-arabic_ayat: اِنَّ هٰذَا لَهُوَ حَقُّ الۡيَـقِيۡنِۚ‏
+arabic_ayat: إِنَّ هَٰذَا لَهُوَ حَقُّ ٱلۡيَقِينِ
 sentence_translation: Indeed, this is the absolute truth.
 word_by_word:
   1:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   2:
-    arabic: هٰذَا
+    arabic: هَٰذَا
     translation: this
     transliteration: hādhā
   3:
@@ -19,7 +19,7 @@ word_by_word:
     translation: (is the) truth
     transliteration: ḥaqqu
   5:
-    arabic: الۡيَـقِيۡنِۚ‏
+    arabic: ٱلۡيَقِينِ
     translation: certain
     transliteration: l-yaqīni
 ---

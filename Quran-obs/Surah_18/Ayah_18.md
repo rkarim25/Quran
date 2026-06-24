@@ -1,31 +1,30 @@
 ---
-arabic_ayat: "وَ تَحۡسَبُهُمۡ اَيۡقَاظًا وَّهُمۡ رُقُوۡدٌ ​​ۖ وَنُـقَلِّبُهُمۡ ذَاتَ\
-  \ الۡيَمِيۡنِ وَ ذَاتَ الشِّمَالِ​​ ۖ وَكَلۡبُهُمۡ بَاسِطٌ ذِرَاعَيۡهِ بِالۡوَصِيۡدِ​\
-  \ ؕ لَوِ اطَّلَعۡتَ عَلَيۡهِمۡ لَوَلَّيۡتَ مِنۡهُمۡ فِرَارًا وَّلَمُلِئۡتَ مِنۡهُمۡ\
-  \ رُعۡبًا‏ \uFEFF\uFEFF"
+arabic_ayat: وَتَحۡسَبُهُمۡ أَيۡقَاظٗا وَهُمۡ رُقُودٞۚ وَنُقَلِّبُهُمۡ ذَاتَ ٱلۡيَمِينِ
+  وَذَاتَ ٱلشِّمَالِۖ وَكَلۡبُهُم بَٰسِطٞ ذِرَاعَيۡهِ بِٱلۡوَصِيدِۚ لَوِ ٱطَّلَعۡتَ
+  عَلَيۡهِمۡ لَوَلَّيۡتَ مِنۡهُمۡ فِرَارٗا وَلَمُلِئۡتَ مِنۡهُمۡ رُعۡبٗا
 sentence_translation: And you would have thought they were awake, though they were
   asleep. We turned them over, to the right and left, while their dog stretched his
   forelegs at the entrance. Had you looked at them, you would have certainly fled
   away from them, filled with horror.
 word_by_word:
   1:
-    arabic: وَ تَحۡسَبُهُمۡ
+    arabic: وَتَحۡسَبُهُمۡ
     translation: And you (would) think them
     transliteration: wataḥsabuhum
   2:
-    arabic: اَيۡقَاظًا
+    arabic: أَيۡقَاظٗا
     translation: awake
     transliteration: ayqāẓan
   3:
-    arabic: وَّهُمۡ
+    arabic: وَهُمۡ
     translation: while they
     transliteration: wahum
   4:
-    arabic: رُقُوۡدٌ ​​ۖ
+    arabic: رُقُودٞۚ
     translation: (were) asleep
     transliteration: ruqūdun
   5:
-    arabic: وَنُـقَلِّبُهُمۡ
+    arabic: وَنُقَلِّبُهُمۡ
     translation: And We turned them
     transliteration: wanuqallibuhum
   6:
@@ -33,23 +32,23 @@ word_by_word:
     translation: to
     transliteration: dhāta
   7:
-    arabic: الۡيَمِيۡنِ
+    arabic: ٱلۡيَمِينِ
     translation: the right
     transliteration: l-yamīni
   8:
-    arabic: وَ ذَاتَ
+    arabic: وَذَاتَ
     translation: and to
     transliteration: wadhāta
   9:
-    arabic: الشِّمَالِ​​ ۖ
+    arabic: ٱلشِّمَالِۖ
     translation: the left
     transliteration: l-shimāli
   10:
-    arabic: وَكَلۡبُهُمۡ
+    arabic: وَكَلۡبُهُم
     translation: while their dog
     transliteration: wakalbuhum
   11:
-    arabic: بَاسِطٌ
+    arabic: بَٰسِطٞ
     translation: stretched
     transliteration: bāsiṭun
   12:
@@ -57,7 +56,7 @@ word_by_word:
     translation: his two forelegs
     transliteration: dhirāʿayhi
   13:
-    arabic: بِالۡوَصِيۡدِ​ ؕ
+    arabic: بِٱلۡوَصِيدِۚ
     translation: at the entrance
     transliteration: bil-waṣīdi
   14:
@@ -65,7 +64,7 @@ word_by_word:
     translation: If
     transliteration: lawi
   15:
-    arabic: اطَّلَعۡتَ
+    arabic: ٱطَّلَعۡتَ
     translation: you had looked
     transliteration: iṭṭalaʿta
   16:
@@ -81,11 +80,11 @@ word_by_word:
     translation: from them
     transliteration: min'hum
   19:
-    arabic: فِرَارًا
+    arabic: فِرَارٗا
     translation: (in) flight
     transliteration: firāran
   20:
-    arabic: وَّلَمُلِئۡتَ
+    arabic: وَلَمُلِئۡتَ
     translation: and surely you would have been filled
     transliteration: walamuli'ta
   21:
@@ -93,7 +92,7 @@ word_by_word:
     translation: by them
     transliteration: min'hum
   22:
-    arabic: "رُعۡبًا‏ \uFEFF\uFEFF"
+    arabic: رُعۡبٗا
     translation: (with) terror
     transliteration: ruʿ'ban
 ---

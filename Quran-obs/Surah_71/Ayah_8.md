@@ -1,5 +1,5 @@
 ---
-arabic_ayat: ثُمَّ اِنِّىۡ دَعَوۡتُهُمۡ جِهَارًا ۙ‏
+arabic_ayat: ثُمَّ إِنِّي دَعَوۡتُهُمۡ جِهَارٗا
 sentence_translation: Then I certainly called them openly,
 word_by_word:
   1:
@@ -7,7 +7,7 @@ word_by_word:
     translation: Then
     transliteration: thumma
   2:
-    arabic: اِنِّىۡ
+    arabic: إِنِّي
     translation: indeed, I
     transliteration: innī
   3:
@@ -15,7 +15,7 @@ word_by_word:
     translation: invited them
     transliteration: daʿawtuhum
   4:
-    arabic: جِهَارًا ۙ‏
+    arabic: جِهَارٗا
     translation: publicly
     transliteration: jihāran
 ---

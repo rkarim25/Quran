@@ -1,27 +1,27 @@
 ---
-arabic_ayat: "فٰكِهِيۡنَ بِمَاۤ اٰتٰٮهُمۡ رَبُّهُمۡ​ۚ وَوَقٰٮهُمۡ رَبُّهُمۡ عَذَابَ\
-  \ الۡجَحِيۡمِ‏ \uFEFF\uFEFF"
+arabic_ayat: فَٰكِهِينَ بِمَآ ءَاتَىٰهُمۡ رَبُّهُمۡ وَوَقَىٰهُمۡ رَبُّهُمۡ عَذَابَ
+  ٱلۡجَحِيمِ
 sentence_translation: enjoying whatever their Lord will have granted them. And their
   Lord will have protected them from the torment of the Hellfire.
 word_by_word:
   1:
-    arabic: فٰكِهِيۡنَ
+    arabic: فَٰكِهِينَ
     translation: Enjoying
     transliteration: fākihīna
   2:
-    arabic: بِمَاۤ
+    arabic: بِمَآ ءَ
     translation: in what
     transliteration: bimā
   3:
-    arabic: اٰتٰٮهُمۡ
+    arabic: اتَىٰهُمۡ
     translation: has given them
     transliteration: ātāhum
   4:
-    arabic: رَبُّهُمۡ​ۚ
+    arabic: رَبُّهُمۡ
     translation: their Lord
     transliteration: rabbuhum
   5:
-    arabic: وَوَقٰٮهُمۡ
+    arabic: وَوَقَىٰهُمۡ
     translation: and protected them
     transliteration: wawaqāhum
   6:
@@ -33,7 +33,7 @@ word_by_word:
     translation: (from the) punishment
     transliteration: ʿadhāba
   8:
-    arabic: "الۡجَحِيۡمِ‏ \uFEFF\uFEFF"
+    arabic: ٱلۡجَحِيمِ
     translation: (of) Hellfire
     transliteration: l-jaḥīmi
 ---

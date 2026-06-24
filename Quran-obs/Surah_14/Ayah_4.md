@@ -1,29 +1,29 @@
 ---
-arabic_ayat: وَمَاۤ اَرۡسَلۡنَا مِنۡ رَّسُوۡلٍ اِلَّا بِلِسَانِ قَوۡمِهٖ لِيُبَيِّنَ
-  لَهُمۡ​ؕ فَيُضِلُّ اللّٰهُ مَنۡ يَّشَآءُ وَيَهۡدِىۡ مَنۡ يَّشَآءُ​ ؕ وَهُوَ الۡعَزِيۡزُ
-  الۡحَكِيۡمُ‏
+arabic_ayat: وَمَآ أَرۡسَلۡنَا مِن رَّسُولٍ إِلَّا بِلِسَانِ قَوۡمِهِۦ لِيُبَيِّنَ
+  لَهُمۡۖ فَيُضِلُّ ٱللَّهُ مَن يَشَآءُ وَيَهۡدِي مَن يَشَآءُۚ وَهُوَ ٱلۡعَزِيزُ
+  ٱلۡحَكِيمُ
 sentence_translation: We have not sent a messenger except in the language of his people
   to clarify ˹the message˺ for them. Then Allah leaves whoever He wills to stray and
   guides whoever He wills. And He is the Almighty, All-Wise.
 word_by_word:
   1:
-    arabic: وَمَاۤ
+    arabic: وَمَآ
     translation: And not
     transliteration: wamā
   2:
-    arabic: اَرۡسَلۡنَا
+    arabic: أَرۡسَلۡنَا
     translation: We sent
     transliteration: arsalnā
   3:
-    arabic: مِنۡ
+    arabic: مِن
     translation: any
     transliteration: min
   4:
-    arabic: رَّسُوۡلٍ
+    arabic: رَّسُولٍ
     translation: Messenger
     transliteration: rasūlin
   5:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   6:
@@ -31,7 +31,7 @@ word_by_word:
     translation: with the language
     transliteration: bilisāni
   7:
-    arabic: قَوۡمِهٖ
+    arabic: قَوۡمِهِۦ
     translation: (of) his people
     transliteration: qawmihi
   8:
@@ -39,7 +39,7 @@ word_by_word:
     translation: so that he might make clear
     transliteration: liyubayyina
   9:
-    arabic: لَهُمۡ​ؕ
+    arabic: لَهُمۡۖ
     translation: for them
     transliteration: lahum
   10:
@@ -47,27 +47,27 @@ word_by_word:
     translation: Then Allah lets go astray
     transliteration: fayuḍillu
   11:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Then Allah lets go astray
     transliteration: l-lahu
   12:
-    arabic: مَنۡ
+    arabic: مَن
     translation: whom
     transliteration: man
   13:
-    arabic: يَّشَآءُ
+    arabic: يَشَآءُ
     translation: He wills
     transliteration: yashāu
   14:
-    arabic: وَيَهۡدِىۡ
+    arabic: وَيَهۡدِي
     translation: and guides
     transliteration: wayahdī
   15:
-    arabic: مَنۡ
+    arabic: مَن
     translation: whom
     transliteration: man
   16:
-    arabic: يَّشَآءُ​ ؕ
+    arabic: يَشَآءُۚ
     translation: He wills
     transliteration: yashāu
   17:
@@ -75,11 +75,11 @@ word_by_word:
     translation: And He
     transliteration: wahuwa
   18:
-    arabic: الۡعَزِيۡزُ
+    arabic: ٱلۡعَزِيزُ
     translation: (is) the All-Mighty
     transliteration: l-ʿazīzu
   19:
-    arabic: الۡحَكِيۡمُ‏
+    arabic: ٱلۡحَكِيمُ
     translation: the All-Wise
     transliteration: l-ḥakīmu
 ---

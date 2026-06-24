@@ -1,6 +1,6 @@
 ---
-arabic_ayat: قَالَ يٰۤاَيُّهَا الۡمَلَؤُا اَيُّكُمۡ يَاۡتِيۡنِىۡ بِعَرۡشِهَا قَبۡلَ
-  اَنۡ يَّاۡتُوۡنِىۡ مُسۡلِمِيۡنَ‏
+arabic_ayat: قَالَ يَٰٓأَيُّهَا ٱلۡمَلَؤُاْ أَيُّكُمۡ يَأۡتِينِي بِعَرۡشِهَا قَبۡلَ
+  أَن يَأۡتُونِي مُسۡلِمِينَ
 sentence_translation: Solomon asked, “O chiefs! Which of you can bring me her throne
   before they come to me in ˹full˺ submission?”
 word_by_word:
@@ -9,19 +9,19 @@ word_by_word:
     translation: He said
     transliteration: qāla
   2:
-    arabic: يٰۤاَيُّهَا
+    arabic: يَٰٓأَيُّهَا
     translation: O
     transliteration: yāayyuhā
   3:
-    arabic: الۡمَلَؤُا
+    arabic: ٱلۡمَلَؤُاْ
     translation: chiefs
     transliteration: l-mala-u
   4:
-    arabic: اَيُّكُمۡ
+    arabic: أَيُّكُمۡ
     translation: Which of you
     transliteration: ayyukum
   5:
-    arabic: يَاۡتِيۡنِىۡ
+    arabic: يَأۡتِينِي
     translation: will bring me
     transliteration: yatīnī
   6:
@@ -33,15 +33,15 @@ word_by_word:
     translation: before
     transliteration: qabla
   8:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that
     transliteration: an
   9:
-    arabic: يَّاۡتُوۡنِىۡ
+    arabic: يَأۡتُونِي
     translation: they come to me
     transliteration: yatūnī
   10:
-    arabic: مُسۡلِمِيۡنَ‏
+    arabic: مُسۡلِمِينَ
     translation: (in) submission
     transliteration: mus'limīna
 ---

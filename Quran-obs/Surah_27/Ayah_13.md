@@ -1,6 +1,5 @@
 ---
-arabic_ayat: "فَلَمَّا جَآءَتۡهُمۡ اٰيٰتُنَا مُبۡصِرَةً قَالُوۡا هٰذَا سِحۡرٌ مُّبِيۡنٌ​ۚ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: فَلَمَّا جَآءَتۡهُمۡ ءَايَٰتُنَا مُبۡصِرَةٗ قَالُواْ هَٰذَا سِحۡرٞ مُّبِينٞ
 sentence_translation: But when Our enlightening signs came to them, they said, “This
   is pure magic.”
 word_by_word:
@@ -9,31 +8,31 @@ word_by_word:
     translation: But when
     transliteration: falammā
   2:
-    arabic: جَآءَتۡهُمۡ
+    arabic: جَآءَتۡهُمۡ ءَ
     translation: came to them
     transliteration: jāathum
   3:
-    arabic: اٰيٰتُنَا
+    arabic: ايَٰتُنَا
     translation: Our Signs
     transliteration: āyātunā
   4:
-    arabic: مُبۡصِرَةً
+    arabic: مُبۡصِرَةٗ
     translation: visible
     transliteration: mub'ṣiratan
   5:
-    arabic: قَالُوۡا
+    arabic: قَالُواْ
     translation: they said
     transliteration: qālū
   6:
-    arabic: هٰذَا
+    arabic: هَٰذَا
     translation: This
     transliteration: hādhā
   7:
-    arabic: سِحۡرٌ
+    arabic: سِحۡرٞ
     translation: (is) a magic
     transliteration: siḥ'run
   8:
-    arabic: "مُّبِيۡنٌ​ۚ‏ \uFEFF\uFEFF"
+    arabic: مُّبِينٞ
     translation: manifest
     transliteration: mubīnun
 ---

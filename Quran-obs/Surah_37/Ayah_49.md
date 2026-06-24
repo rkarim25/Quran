@@ -1,17 +1,17 @@
 ---
-arabic_ayat: كَاَنَّهُنَّ بَيۡضٌ مَّكۡنُوۡنٌ‏
+arabic_ayat: كَأَنَّهُنَّ بَيۡضٞ مَّكۡنُونٞ
 sentence_translation: as if they were pristine pearls. 
 word_by_word:
   1:
-    arabic: كَاَنَّهُنَّ
+    arabic: كَأَنَّهُنَّ
     translation: As if they were
     transliteration: ka-annahunna
   2:
-    arabic: بَيۡضٌ
+    arabic: بَيۡضٞ
     translation: eggs
     transliteration: bayḍun
   3:
-    arabic: مَّكۡنُوۡنٌ‏
+    arabic: مَّكۡنُونٞ
     translation: well protected
     transliteration: maknūnun
 ---

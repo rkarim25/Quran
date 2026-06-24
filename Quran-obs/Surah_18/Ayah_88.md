@@ -1,19 +1,19 @@
 ---
-arabic_ayat: وَاَمَّا مَنۡ اٰمَنَ وَعَمِلَ صَالِحًـا فَلَهٗ جَزَآءَ  ۨالۡحُسۡنٰى​
-  ۚ وَسَنَقُوۡلُ لَهٗ مِنۡ اَمۡرِنَا يُسۡرًا ؕ‏
+arabic_ayat: وَأَمَّا مَنۡ ءَامَنَ وَعَمِلَ صَٰلِحٗا فَلَهُۥ جَزَآءً ٱلۡحُسۡنَىٰۖ
+  وَسَنَقُولُ لَهُۥ مِنۡ أَمۡرِنَا يُسۡرٗا
 sentence_translation: As for those who believe and do good, they will have the finest
   reward, and we will assign them easy commands.”
 word_by_word:
   1:
-    arabic: وَاَمَّا
+    arabic: وَأَمَّا
     translation: But as for
     transliteration: wa-ammā
   2:
-    arabic: مَنۡ
+    arabic: مَنۡ ءَ
     translation: (one) who
     transliteration: man
   3:
-    arabic: اٰمَنَ
+    arabic: امَنَ
     translation: believes
     transliteration: āmana
   4:
@@ -21,27 +21,27 @@ word_by_word:
     translation: and does
     transliteration: waʿamila
   5:
-    arabic: صَالِحًـا
+    arabic: صَٰلِحٗا
     translation: righteous (deeds)
     transliteration: ṣāliḥan
   6:
-    arabic: فَلَهٗ
+    arabic: فَلَهُۥ
     translation: then for him
     transliteration: falahu
   7:
-    arabic: جَزَآءَ  ۨ
+    arabic: جَزَآءً
     translation: (is) a reward
     transliteration: jazāan
   8:
-    arabic: الۡحُسۡنٰى​ ۚ
+    arabic: ٱلۡحُسۡنَىٰۖ
     translation: good
     transliteration: l-ḥus'nā
   9:
-    arabic: وَسَنَقُوۡلُ
+    arabic: وَسَنَقُولُ
     translation: And we will speak
     transliteration: wasanaqūlu
   10:
-    arabic: لَهٗ
+    arabic: لَهُۥ
     translation: to him
     transliteration: lahu
   11:
@@ -49,11 +49,11 @@ word_by_word:
     translation: from
     transliteration: min
   12:
-    arabic: اَمۡرِنَا
+    arabic: أَمۡرِنَا
     translation: our command
     transliteration: amrinā
   13:
-    arabic: يُسۡرًا ؕ‏
+    arabic: يُسۡرٗا
     translation: (with) ease
     transliteration: yus'ran
 ---

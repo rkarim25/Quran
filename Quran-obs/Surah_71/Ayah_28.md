@@ -1,28 +1,28 @@
 ---
-arabic_ayat: رَبِّ اغۡفِرۡلِىۡ وَلِـوَالِدَىَّ وَلِمَنۡ دَخَلَ بَيۡتِىَ مُؤۡمِنًا
-  وَّلِلۡمُؤۡمِنِيۡنَ وَالۡمُؤۡمِنٰتِؕ وَلَا تَزِدِ الظّٰلِمِيۡنَ اِلَّا تَبَارًا‏
+arabic_ayat: رَّبِّ ٱغۡفِرۡ لِي وَلِوَٰلِدَيَّ وَلِمَن دَخَلَ بَيۡتِيَ مُؤۡمِنٗا وَلِلۡمُؤۡمِنِينَ
+  وَٱلۡمُؤۡمِنَٰتِۖ وَلَا تَزِدِ ٱلظَّٰلِمِينَ إِلَّا تَبَارَۢا
 sentence_translation: My Lord! Forgive me, my parents, and whoever enters my house
   in faith, and ˹all˺ believing men and women. And increase the wrongdoers only in
   destruction.”
 word_by_word:
   1:
-    arabic: رَبِّ
+    arabic: رَّبِّ
     translation: My Lord
     transliteration: rabbi
   2:
-    arabic: اغۡفِرۡ
+    arabic: ٱغۡفِرۡ
     translation: Forgive
     transliteration: igh'fir
   3:
-    arabic: لِىۡ
+    arabic: لِي
     translation: me
     transliteration: lī
   4:
-    arabic: وَلِـوَالِدَىَّ
+    arabic: وَلِوَٰلِدَيَّ
     translation: and my parents
     transliteration: waliwālidayya
   5:
-    arabic: وَلِمَنۡ
+    arabic: وَلِمَن
     translation: and whoever
     transliteration: waliman
   6:
@@ -30,19 +30,19 @@ word_by_word:
     translation: enters
     transliteration: dakhala
   7:
-    arabic: بَيۡتِىَ
+    arabic: بَيۡتِيَ
     translation: 'my house '
     transliteration: baytiya
   8:
-    arabic: مُؤۡمِنًا
+    arabic: مُؤۡمِنٗا
     translation: a believer
     transliteration: mu'minan
   9:
-    arabic: وَّلِلۡمُؤۡمِنِيۡنَ
+    arabic: وَلِلۡمُؤۡمِنِينَ
     translation: and the believing men
     transliteration: walil'mu'minīna
   10:
-    arabic: وَالۡمُؤۡمِنٰتِؕ
+    arabic: وَٱلۡمُؤۡمِنَٰتِۖ
     translation: and the believing women
     transliteration: wal-mu'mināti
   11:
@@ -54,15 +54,15 @@ word_by_word:
     translation: increase
     transliteration: tazidi
   13:
-    arabic: الظّٰلِمِيۡنَ
+    arabic: ٱلظَّٰلِمِينَ
     translation: the wrongdoers
     transliteration: l-ẓālimīna
   14:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   15:
-    arabic: تَبَارًا‏
+    arabic: تَبَارَۢا
     translation: (in) destruction
     transliteration: tabāran
 ---

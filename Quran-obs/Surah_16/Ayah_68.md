@@ -1,11 +1,11 @@
 ---
-arabic_ayat: وَاَوۡحٰى رَبُّكَ اِلَى النَّحۡلِ اَنِ اتَّخِذِىۡ مِنَ الۡجِبَالِ بُيُوۡتًا
-  وَّمِنَ الشَّجَرِ وَمِمَّا يَعۡرِشُوۡنَۙ‏
+arabic_ayat: وَأَوۡحَىٰ رَبُّكَ إِلَى ٱلنَّحۡلِ أَنِ ٱتَّخِذِي مِنَ ٱلۡجِبَالِ بُيُوتٗا
+  وَمِنَ ٱلشَّجَرِ وَمِمَّا يَعۡرِشُونَ
 sentence_translation: 'And your Lord inspired the bees: “Make ˹your˺ homes in the
   mountains, the trees, and in what people construct,'
 word_by_word:
   1:
-    arabic: وَاَوۡحٰى
+    arabic: وَأَوۡحَىٰ
     translation: And inspired
     transliteration: wa-awḥā
   2:
@@ -13,19 +13,19 @@ word_by_word:
     translation: your Lord
     transliteration: rabbuka
   3:
-    arabic: اِلَى
+    arabic: إِلَى
     translation: to
     transliteration: ilā
   4:
-    arabic: النَّحۡلِ
+    arabic: ٱلنَّحۡلِ
     translation: the bee
     transliteration: l-naḥli
   5:
-    arabic: اَنِ
+    arabic: أَنِ
     translation: '[that]'
     transliteration: ani
   6:
-    arabic: اتَّخِذِىۡ
+    arabic: ٱتَّخِذِي
     translation: Take
     transliteration: ittakhidhī
   7:
@@ -33,19 +33,19 @@ word_by_word:
     translation: among
     transliteration: mina
   8:
-    arabic: الۡجِبَالِ
+    arabic: ٱلۡجِبَالِ
     translation: the mountains
     transliteration: l-jibāli
   9:
-    arabic: بُيُوۡتًا
+    arabic: بُيُوتٗا
     translation: houses
     transliteration: buyūtan
   10:
-    arabic: وَّمِنَ
+    arabic: وَمِنَ
     translation: and among
     transliteration: wamina
   11:
-    arabic: الشَّجَرِ
+    arabic: ٱلشَّجَرِ
     translation: the trees
     transliteration: l-shajari
   12:
@@ -53,7 +53,7 @@ word_by_word:
     translation: and in what
     transliteration: wamimmā
   13:
-    arabic: يَعۡرِشُوۡنَۙ‏
+    arabic: يَعۡرِشُونَ
     translation: they construct
     transliteration: yaʿrishūna
 ---

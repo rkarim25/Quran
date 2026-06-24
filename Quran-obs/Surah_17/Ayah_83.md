@@ -1,15 +1,15 @@
 ---
-arabic_ayat: وَاِذَاۤ اَنۡعَمۡنَا عَلَى الۡاِنۡسَانِ اَعۡرَضَ وَنَاٰ بِجَانِبِهٖ​ۚ
-  وَاِذَا مَسَّهُ الشَّرُّ كَانَ يَــُٔوۡسًا‏
+arabic_ayat: وَإِذَآ أَنۡعَمۡنَا عَلَى ٱلۡإِنسَٰنِ أَعۡرَضَ وَنَـَٔا بِجَانِبِهِۦ
+  وَإِذَا مَسَّهُ ٱلشَّرُّ كَانَ يَـُٔوسٗا
 sentence_translation: When We grant people Our favours, they turn away, acting arrogantly.
   But when touched with evil, they lose all hope.
 word_by_word:
   1:
-    arabic: وَاِذَاۤ
+    arabic: وَإِذَآ
     translation: And when
     transliteration: wa-idhā
   2:
-    arabic: اَنۡعَمۡنَا
+    arabic: أَنۡعَمۡنَا
     translation: We bestow favor
     transliteration: anʿamnā
   3:
@@ -17,23 +17,23 @@ word_by_word:
     translation: 'on'
     transliteration: ʿalā
   4:
-    arabic: الۡاِنۡسَانِ
+    arabic: ٱلۡإِنسَٰنِ
     translation: man
     transliteration: l-insāni
   5:
-    arabic: اَعۡرَضَ
+    arabic: أَعۡرَضَ
     translation: he turns away
     transliteration: aʿraḍa
   6:
-    arabic: وَنَاٰ
+    arabic: وَنَـَٔا
     translation: and becomes remote
     transliteration: wanaā
   7:
-    arabic: بِجَانِبِهٖ​ۚ
+    arabic: بِجَانِبِهِۦ
     translation: on his side
     transliteration: bijānibihi
   8:
-    arabic: وَاِذَا
+    arabic: وَإِذَا
     translation: And when
     transliteration: wa-idhā
   9:
@@ -41,7 +41,7 @@ word_by_word:
     translation: touches him
     transliteration: massahu
   10:
-    arabic: الشَّرُّ
+    arabic: ٱلشَّرُّ
     translation: the evil
     transliteration: l-sharu
   11:
@@ -49,7 +49,7 @@ word_by_word:
     translation: he is
     transliteration: kāna
   12:
-    arabic: يَــُٔوۡسًا‏
+    arabic: يَـُٔوسٗا
     translation: (in) despair
     transliteration: yaūsan
 ---

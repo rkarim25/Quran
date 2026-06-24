@@ -1,10 +1,9 @@
 ---
-arabic_ayat: وَكَذٰلِكَ جَعَلۡنٰكُمۡ اُمَّةً وَّسَطًا لِّتَکُوۡنُوۡا شُهَدَآءَ عَلَى
-  النَّاسِ وَيَكُوۡنَ الرَّسُوۡلُ عَلَيۡكُمۡ شَهِيۡدًا ؕ وَمَا جَعَلۡنَا الۡقِبۡلَةَ
-  الَّتِىۡ كُنۡتَ عَلَيۡهَآ اِلَّا لِنَعۡلَمَ مَنۡ يَّتَّبِعُ الرَّسُوۡلَ مِمَّنۡ
-  يَّنۡقَلِبُ عَلٰى عَقِبَيۡهِ ​ؕ وَاِنۡ كَانَتۡ لَكَبِيۡرَةً اِلَّا عَلَى الَّذِيۡنَ
-  هَدَى اللّٰهُ ؕ وَمَا كَانَ اللّٰهُ لِيُضِيْعَ اِيۡمَانَكُمۡ​ ؕ اِنَّ اللّٰهَ بِالنَّاسِ
-  لَرَءُوۡفٌ رَّحِيۡمٌ‏
+arabic_ayat: وَكَذَٰلِكَ جَعَلۡنَٰكُمۡ أُمَّةٗ وَسَطٗا لِّتَكُونُواْ شُهَدَآءَ عَلَى
+  ٱلنَّاسِ وَيَكُونَ ٱلرَّسُولُ عَلَيۡكُمۡ شَهِيدٗاۗ وَمَا جَعَلۡنَا ٱلۡقِبۡلَةَ ٱلَّتِي
+  كُنتَ عَلَيۡهَآ إِلَّا لِنَعۡلَمَ مَن يَتَّبِعُ ٱلرَّسُولَ مِمَّن يَنقَلِبُ عَلَىٰ
+  عَقِبَيۡهِۚ وَإِن كَانَتۡ لَكَبِيرَةً إِلَّا عَلَى ٱلَّذِينَ هَدَى ٱللَّهُۗ وَمَا
+  كَانَ ٱللَّهُ لِيُضِيعَ إِيمَٰنَكُمۡۚ إِنَّ ٱللَّهَ بِٱلنَّاسِ لَرَءُوفٞ رَّحِيمٞ
 sentence_translation: And so We have made you ˹believers˺ an upright community so
   that you may be witnesses over humanity and that the Messenger may be a witness
   over you. We assigned your former direction of prayer only to distinguish those
@@ -14,23 +13,23 @@ sentence_translation: And so We have made you ˹believers˺ an upright communit
   and Most Merciful to humanity.
 word_by_word:
   1:
-    arabic: وَكَذٰلِكَ
+    arabic: وَكَذَٰلِكَ
     translation: And thus
     transliteration: wakadhālika
   2:
-    arabic: جَعَلۡنٰكُمۡ
+    arabic: جَعَلۡنَٰكُمۡ
     translation: We made you
     transliteration: jaʿalnākum
   3:
-    arabic: اُمَّةً
+    arabic: أُمَّةٗ
     translation: a community
     transliteration: ummatan
   4:
-    arabic: وَّسَطًا
+    arabic: وَسَطٗا
     translation: (of the) middle way
     transliteration: wasaṭan
   5:
-    arabic: لِّتَکُوۡنُوۡا
+    arabic: لِّتَكُونُواْ
     translation: so that you will be
     transliteration: litakūnū
   6:
@@ -42,15 +41,15 @@ word_by_word:
     translation: over
     transliteration: ʿalā
   8:
-    arabic: النَّاسِ
+    arabic: ٱلنَّاسِ
     translation: the mankind
     transliteration: l-nāsi
   9:
-    arabic: وَيَكُوۡنَ
+    arabic: وَيَكُونَ
     translation: and will be
     transliteration: wayakūna
   10:
-    arabic: الرَّسُوۡلُ
+    arabic: ٱلرَّسُولُ
     translation: the Messenger
     transliteration: l-rasūlu
   11:
@@ -58,7 +57,7 @@ word_by_word:
     translation: on you
     transliteration: ʿalaykum
   12:
-    arabic: شَهِيۡدًا ؕ
+    arabic: شَهِيدٗاۗ
     translation: a witness
     transliteration: shahīdan
   13:
@@ -70,15 +69,15 @@ word_by_word:
     translation: We made
     transliteration: jaʿalnā
   15:
-    arabic: الۡقِبۡلَةَ
+    arabic: ٱلۡقِبۡلَةَ
     translation: the direction of prayer
     transliteration: l-qib'lata
   16:
-    arabic: الَّتِىۡ
+    arabic: ٱلَّتِي
     translation: which
     transliteration: allatī
   17:
-    arabic: كُنۡتَ
+    arabic: كُنتَ
     translation: you were used to
     transliteration: kunta
   18:
@@ -86,7 +85,7 @@ word_by_word:
     translation: '[on it]'
     transliteration: ʿalayhā
   19:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   20:
@@ -94,35 +93,35 @@ word_by_word:
     translation: that We make evident
     transliteration: linaʿlama
   21:
-    arabic: مَنۡ
+    arabic: مَن
     translation: (he) who
     transliteration: man
   22:
-    arabic: يَّتَّبِعُ
+    arabic: يَتَّبِعُ
     translation: follows
     transliteration: yattabiʿu
   23:
-    arabic: الرَّسُوۡلَ
+    arabic: ٱلرَّسُولَ
     translation: the Messenger
     transliteration: l-rasūla
   24:
-    arabic: مِمَّنۡ
+    arabic: مِمَّن
     translation: from (he) who
     transliteration: mimman
   25:
-    arabic: يَّنۡقَلِبُ
+    arabic: يَنقَلِبُ
     translation: turns back
     transliteration: yanqalibu
   26:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: 'on'
     transliteration: ʿalā
   27:
-    arabic: عَقِبَيۡهِ ​ؕ
+    arabic: عَقِبَيۡهِۚ
     translation: his heels
     transliteration: ʿaqibayhi
   28:
-    arabic: وَاِنۡ
+    arabic: وَإِن
     translation: And indeed
     transliteration: wa-in
   29:
@@ -130,11 +129,11 @@ word_by_word:
     translation: it was
     transliteration: kānat
   30:
-    arabic: لَكَبِيۡرَةً
+    arabic: لَكَبِيرَةً
     translation: certainly a great (test)
     transliteration: lakabīratan
   31:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   32:
@@ -142,7 +141,7 @@ word_by_word:
     translation: for
     transliteration: ʿalā
   33:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those whom
     transliteration: alladhīna
   34:
@@ -150,7 +149,7 @@ word_by_word:
     translation: guided
     transliteration: hadā
   35:
-    arabic: اللّٰهُ ؕ
+    arabic: ٱللَّهُۗ
     translation: (by) Allah
     transliteration: l-lahu
   36:
@@ -162,35 +161,35 @@ word_by_word:
     translation: will
     transliteration: kāna
   38:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   39:
-    arabic: لِيُضِيْعَ
+    arabic: لِيُضِيعَ
     translation: let go waste
     transliteration: liyuḍīʿa
   40:
-    arabic: اِيۡمَانَكُمۡ​ ؕ
+    arabic: إِيمَٰنَكُمۡۚ
     translation: your faith
     transliteration: īmānakum
   41:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   42:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   43:
-    arabic: بِالنَّاسِ
+    arabic: بِٱلنَّاسِ
     translation: (is) to [the] mankind
     transliteration: bil-nāsi
   44:
-    arabic: لَرَءُوۡفٌ
+    arabic: لَرَءُوفٞ
     translation: Full of Kindness
     transliteration: laraūfun
   45:
-    arabic: رَّحِيۡمٌ‏
+    arabic: رَّحِيمٞ
     translation: Most Merciful
     transliteration: raḥīmun
 ---

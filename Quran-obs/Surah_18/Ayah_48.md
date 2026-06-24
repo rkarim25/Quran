@@ -1,17 +1,17 @@
 ---
-arabic_ayat: وَعُرِضُوۡا عَلٰى رَبِّكَ صَفًّا ؕ لَقَدۡ جِئۡتُمُوۡنَا كَمَا خَلَقۡنٰكُمۡ
-  اَوَّلَ مَرَّةٍ ۢ  بَلۡ زَعَمۡتُمۡ اَ لَّنۡ نَّجۡعَلَ لَـكُمۡ مَّوۡعِدًا‏
+arabic_ayat: وَعُرِضُواْ عَلَىٰ رَبِّكَ صَفّٗا لَّقَدۡ جِئۡتُمُونَا كَمَا خَلَقۡنَٰكُمۡ
+  أَوَّلَ مَرَّةِۭۚ بَلۡ زَعَمۡتُمۡ أَلَّن نَّجۡعَلَ لَكُم مَّوۡعِدٗا
 sentence_translation: They will be presented before your Lord in rows, ˹and the deniers
   will be told,˺ “You have surely returned to Us ˹all alone˺ as We created you the
   first time, although you ˹always˺ claimed that We would never appoint a time for
   your return.”
 word_by_word:
   1:
-    arabic: وَعُرِضُوۡا
+    arabic: وَعُرِضُواْ
     translation: And they will be presented
     transliteration: waʿuriḍū
   2:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: before
     transliteration: ʿalā
   3:
@@ -19,15 +19,15 @@ word_by_word:
     translation: your Lord
     transliteration: rabbika
   4:
-    arabic: صَفًّا ؕ
+    arabic: صَفّٗا
     translation: (in) rows
     transliteration: ṣaffan
   5:
-    arabic: لَقَدۡ
+    arabic: لَّقَدۡ
     translation: Certainly
     transliteration: laqad
   6:
-    arabic: جِئۡتُمُوۡنَا
+    arabic: جِئۡتُمُونَا
     translation: you have come to Us
     transliteration: ji'tumūnā
   7:
@@ -35,15 +35,15 @@ word_by_word:
     translation: as
     transliteration: kamā
   8:
-    arabic: خَلَقۡنٰكُمۡ
+    arabic: خَلَقۡنَٰكُمۡ
     translation: We created you
     transliteration: khalaqnākum
   9:
-    arabic: اَوَّلَ
+    arabic: أَوَّلَ
     translation: the first
     transliteration: awwala
   10:
-    arabic: مَرَّةٍ ۢ 
+    arabic: مَرَّةِۭۚ
     translation: time
     transliteration: marratin
   11:
@@ -55,7 +55,7 @@ word_by_word:
     translation: you claimed
     transliteration: zaʿamtum
   13:
-    arabic: اَ لَّنۡ
+    arabic: أَلَّن
     translation: that not
     transliteration: allan
   14:
@@ -63,11 +63,11 @@ word_by_word:
     translation: We made
     transliteration: najʿala
   15:
-    arabic: لَـكُمۡ
+    arabic: لَكُم
     translation: for you
     transliteration: lakum
   16:
-    arabic: مَّوۡعِدًا‏
+    arabic: مَّوۡعِدٗا
     translation: an appointment
     transliteration: mawʿidan
 ---

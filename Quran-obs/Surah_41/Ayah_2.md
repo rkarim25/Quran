@@ -1,9 +1,9 @@
 ---
-arabic_ayat: تَنۡزِيۡلٌ مِّنَ الرَّحۡمٰنِ الرَّحِيۡمِ​ۚ‏
+arabic_ayat: تَنزِيلٞ مِّنَ ٱلرَّحۡمَٰنِ ٱلرَّحِيمِ
 sentence_translation: ˹This is˺ a revelation from the Most Compassionate, Most Merciful.
 word_by_word:
   1:
-    arabic: تَنۡزِيۡلٌ
+    arabic: تَنزِيلٞ
     translation: A revelation
     transliteration: tanzīlun
   2:
@@ -11,11 +11,11 @@ word_by_word:
     translation: from
     transliteration: mina
   3:
-    arabic: الرَّحۡمٰنِ
+    arabic: ٱلرَّحۡمَٰنِ
     translation: the Most Gracious
     transliteration: l-raḥmāni
   4:
-    arabic: الرَّحِيۡمِ​ۚ‏
+    arabic: ٱلرَّحِيمِ
     translation: the Most Merciful
     transliteration: l-raḥīmi
 ---

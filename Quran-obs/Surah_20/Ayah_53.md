@@ -1,13 +1,13 @@
 ---
-arabic_ayat: الَّذِىۡ جَعَلَ لَـكُمُ الۡاَرۡضَ مَهۡدًا وَّسَلَكَ لَـكُمۡ فِيۡهَا سُبُلًا
-  وَّ اَنۡزَلَ مِنَ السَّمَآءِ مَآءً ؕ فَاَخۡرَجۡنَا بِهٖۤ اَزۡوَاجًا مِّنۡ نَّبَاتٍ
-  شَتّٰى‏
+arabic_ayat: ٱلَّذِي جَعَلَ لَكُمُ ٱلۡأَرۡضَ مَهۡدٗا وَسَلَكَ لَكُمۡ فِيهَا سُبُلٗا
+  وَأَنزَلَ مِنَ ٱلسَّمَآءِ مَآءٗ فَأَخۡرَجۡنَا بِهِۦٓ أَزۡوَٰجٗا مِّن نَّبَاتٖ
+  شَتَّىٰ
 sentence_translation: ˹He is the One˺ Who has laid out the earth for ˹all of˺ you,
   and set in it pathways for you, and sends down rain from the sky, causing various
   types of plants to grow,
 word_by_word:
   1:
-    arabic: الَّذِىۡ
+    arabic: ٱلَّذِي
     translation: The One Who
     transliteration: alladhī
   2:
@@ -15,35 +15,35 @@ word_by_word:
     translation: made
     transliteration: jaʿala
   3:
-    arabic: لَـكُمُ
+    arabic: لَكُمُ
     translation: for you
     transliteration: lakumu
   4:
-    arabic: الۡاَرۡضَ
+    arabic: ٱلۡأَرۡضَ
     translation: the earth
     transliteration: l-arḍa
   5:
-    arabic: مَهۡدًا
+    arabic: مَهۡدٗا
     translation: (as) a bed
     transliteration: mahdan
   6:
-    arabic: وَّسَلَكَ
+    arabic: وَسَلَكَ
     translation: and inserted
     transliteration: wasalaka
   7:
-    arabic: لَـكُمۡ
+    arabic: لَكُمۡ
     translation: for you
     transliteration: lakum
   8:
-    arabic: فِيۡهَا
+    arabic: فِيهَا
     translation: therein
     transliteration: fīhā
   9:
-    arabic: سُبُلًا
+    arabic: سُبُلٗا
     translation: ways
     transliteration: subulan
   10:
-    arabic: وَّ اَنۡزَلَ
+    arabic: وَأَنزَلَ
     translation: and sent down
     transliteration: wa-anzala
   11:
@@ -51,35 +51,35 @@ word_by_word:
     translation: from
     transliteration: mina
   12:
-    arabic: السَّمَآءِ
+    arabic: ٱلسَّمَآءِ
     translation: the sky
     transliteration: l-samāi
   13:
-    arabic: مَآءً ؕ
+    arabic: مَآءٗ
     translation: water
     transliteration: māan
   14:
-    arabic: فَاَخۡرَجۡنَا
+    arabic: فَأَخۡرَجۡنَا
     translation: then We (have) brought forth
     transliteration: fa-akhrajnā
   15:
-    arabic: بِهٖۤ
+    arabic: بِهِۦٓ
     translation: with it
     transliteration: bihi
   16:
-    arabic: اَزۡوَاجًا
+    arabic: أَزۡوَٰجٗا
     translation: pairs
     transliteration: azwājan
   17:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: of
     transliteration: min
   18:
-    arabic: نَّبَاتٍ
+    arabic: نَّبَاتٖ
     translation: plants
     transliteration: nabātin
   19:
-    arabic: شَتّٰى‏
+    arabic: شَتَّىٰ
     translation: diverse
     transliteration: shattā
 ---

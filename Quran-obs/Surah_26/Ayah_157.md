@@ -1,17 +1,17 @@
 ---
-arabic_ayat: فَعَقَرُوۡهَا فَاَصۡبَحُوۡا نٰدِمِيۡنَۙ‏
+arabic_ayat: فَعَقَرُوهَا فَأَصۡبَحُواْ نَٰدِمِينَ
 sentence_translation: But they killed her, becoming regretful.
 word_by_word:
   1:
-    arabic: فَعَقَرُوۡهَا
+    arabic: فَعَقَرُوهَا
     translation: But they hamstrung her
     transliteration: faʿaqarūhā
   2:
-    arabic: فَاَصۡبَحُوۡا
+    arabic: فَأَصۡبَحُواْ
     translation: then they became
     transliteration: fa-aṣbaḥū
   3:
-    arabic: نٰدِمِيۡنَۙ‏
+    arabic: نَٰدِمِينَ
     translation: regretful
     transliteration: nādimīna
 ---

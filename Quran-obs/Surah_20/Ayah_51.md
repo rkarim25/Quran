@@ -1,5 +1,5 @@
 ---
-arabic_ayat: قَالَ فَمَا بَالُ الۡقُرُوۡنِ الۡاُوۡلٰى‏
+arabic_ayat: قَالَ فَمَا بَالُ ٱلۡقُرُونِ ٱلۡأُولَىٰ
 sentence_translation: Pharaoh asked, “And what about previous peoples?”
 word_by_word:
   1:
@@ -15,11 +15,11 @@ word_by_word:
     translation: (is the) case
     transliteration: bālu
   4:
-    arabic: الۡقُرُوۡنِ
+    arabic: ٱلۡقُرُونِ
     translation: (of) the generations
     transliteration: l-qurūni
   5:
-    arabic: الۡاُوۡلٰى‏
+    arabic: ٱلۡأُولَىٰ
     translation: (of) the former
     transliteration: l-ūlā
 ---

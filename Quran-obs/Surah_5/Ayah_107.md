@@ -1,15 +1,15 @@
 ---
-arabic_ayat: فَاِنۡ عُثِرَ عَلٰٓى اَنَّهُمَا اسۡتَحَقَّاۤ اِثۡمًا فَاٰخَرٰنِ يَقُوۡمٰنِ
-  مَقَامَهُمَا مِنَ الَّذِيۡنَ اسۡتَحَقَّ عَلَيۡهِمُ الۡاَوۡلَيٰنِ فَيُقۡسِمٰنِ بِاللّٰهِ
-  لَشَهَادَتُنَاۤ اَحَقُّ مِنۡ شَهَادَتِهِمَا وَ مَا اعۡتَدَيۡنَاۤ​ ​ۖ  اِنَّاۤ​
-  اِذًا لَّمِنَ الظّٰلِمِيۡنَ‏
+arabic_ayat: فَإِنۡ عُثِرَ عَلَىٰٓ أَنَّهُمَا ٱسۡتَحَقَّآ إِثۡمٗا فَـَٔاخَرَانِ يَقُومَانِ
+  مَقَامَهُمَا مِنَ ٱلَّذِينَ ٱسۡتَحَقَّ عَلَيۡهِمُ ٱلۡأَوۡلَيَٰنِ فَيُقۡسِمَانِ بِٱللَّهِ
+  لَشَهَٰدَتُنَآ أَحَقُّ مِن شَهَٰدَتِهِمَا وَمَا ٱعۡتَدَيۡنَآ إِنَّآ إِذٗا لَّمِنَ
+  ٱلظَّٰلِمِينَ
 sentence_translation: If they are found guilty ˹of false testimony˺, let the deceased’s
   two closest heirs affected by the bequest replace the witnesses and testify under
   oath ˹saying˺, “By Allah! Our testimony is truer than theirs. We have not transgressed.
   Otherwise, we would surely be wrongdoers.”
 word_by_word:
   1:
-    arabic: فَاِنۡ
+    arabic: فَإِنۡ
     translation: Then if
     transliteration: fa-in
   2:
@@ -17,27 +17,27 @@ word_by_word:
     translation: it is discovered
     transliteration: ʿuthira
   3:
-    arabic: عَلٰٓى
+    arabic: عَلَىٰٓ
     translation: (on)
     transliteration: ʿalā
   4:
-    arabic: اَنَّهُمَا
+    arabic: أَنَّهُمَا
     translation: that the two
     transliteration: annahumā
   5:
-    arabic: اسۡتَحَقَّاۤ
+    arabic: ٱسۡتَحَقَّآ
     translation: (were) guilty
     transliteration: is'taḥaqqā
   6:
-    arabic: اِثۡمًا
+    arabic: إِثۡمٗا
     translation: (of) sin
     transliteration: ith'man
   7:
-    arabic: فَاٰخَرٰنِ
+    arabic: فَـَٔاخَرَانِ
     translation: then (let) two others
     transliteration: faākharāni
   8:
-    arabic: يَقُوۡمٰنِ
+    arabic: يَقُومَانِ
     translation: stand
     transliteration: yaqūmāni
   9:
@@ -49,11 +49,11 @@ word_by_word:
     translation: from
     transliteration: mina
   11:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   12:
-    arabic: اسۡتَحَقَّ
+    arabic: ٱسۡتَحَقَّ
     translation: have a lawful right
     transliteration: is'taḥaqqa
   13:
@@ -61,47 +61,47 @@ word_by_word:
     translation: 'over them '
     transliteration: ʿalayhimu
   14:
-    arabic: الۡاَوۡلَيٰنِ
+    arabic: ٱلۡأَوۡلَيَٰنِ
     translation: 'the former two '
     transliteration: l-awlayāni
   15:
-    arabic: فَيُقۡسِمٰنِ
+    arabic: فَيُقۡسِمَانِ
     translation: and let them both swear
     transliteration: fayuq'simāni
   16:
-    arabic: بِاللّٰهِ
+    arabic: بِٱللَّهِ
     translation: by Allah
     transliteration: bil-lahi
   17:
-    arabic: لَشَهَادَتُنَاۤ
+    arabic: لَشَهَٰدَتُنَآ
     translation: Surely our testimony
     transliteration: lashahādatunā
   18:
-    arabic: اَحَقُّ
+    arabic: أَحَقُّ
     translation: (is) truer
     transliteration: aḥaqqu
   19:
-    arabic: مِنۡ
+    arabic: مِن
     translation: than
     transliteration: min
   20:
-    arabic: شَهَادَتِهِمَا
+    arabic: شَهَٰدَتِهِمَا
     translation: testimony of the other two
     transliteration: shahādatihimā
   21:
-    arabic: وَ مَا
+    arabic: وَمَا
     translation: and not
     transliteration: wamā
   22:
-    arabic: اعۡتَدَيۡنَاۤ​ ​ۖ 
+    arabic: ٱعۡتَدَيۡنَآ
     translation: we have transgressed
     transliteration: iʿ'tadaynā
   23:
-    arabic: اِنَّاۤ​
+    arabic: إِنَّآ
     translation: Indeed, we
     transliteration: innā
   24:
-    arabic: اِذًا
+    arabic: إِذٗا
     translation: then
     transliteration: idhan
   25:
@@ -109,7 +109,7 @@ word_by_word:
     translation: (will be) of
     transliteration: lamina
   26:
-    arabic: الظّٰلِمِيۡنَ‏
+    arabic: ٱلظَّٰلِمِينَ
     translation: the wrongdoers
     transliteration: l-ẓālimīna
 ---

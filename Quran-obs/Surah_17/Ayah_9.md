@@ -1,60 +1,59 @@
 ---
-arabic_ayat: اِنَّ هٰذَا الۡقُرۡاٰنَ يَهۡدِىۡ لِلَّتِىۡ هِىَ اَقۡوَمُ وَ يُبَشِّرُ
-  الۡمُؤۡمِنِيۡنَ الَّذِيۡنَ يَعۡمَلُوۡنَ الصّٰلِحٰتِ اَنَّ لَهُمۡ اَجۡرًا كَبِيۡرًا
-  ۙ‏
+arabic_ayat: إِنَّ هَٰذَا ٱلۡقُرۡءَانَ يَهۡدِي لِلَّتِي هِيَ أَقۡوَمُ وَيُبَشِّرُ
+  ٱلۡمُؤۡمِنِينَ ٱلَّذِينَ يَعۡمَلُونَ ٱلصَّٰلِحَٰتِ أَنَّ لَهُمۡ أَجۡرٗا كَبِيرٗا
 sentence_translation: Surely this Quran guides to what is most upright, and gives
   good news to the believers—who do good—that they will have a mighty reward.
 word_by_word:
   1:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   2:
-    arabic: هٰذَا
+    arabic: هَٰذَا
     translation: this
     transliteration: hādhā
   3:
-    arabic: الۡقُرۡاٰنَ
+    arabic: ٱلۡقُرۡءَانَ
     translation: the Quran
     transliteration: l-qur'āna
   4:
-    arabic: يَهۡدِىۡ
+    arabic: يَهۡدِي
     translation: guides
     transliteration: yahdī
   5:
-    arabic: لِلَّتِىۡ
+    arabic: لِلَّتِي
     translation: to that
     transliteration: lillatī
   6:
-    arabic: هِىَ
+    arabic: هِيَ
     translation: which
     transliteration: hiya
   7:
-    arabic: اَقۡوَمُ
+    arabic: أَقۡوَمُ
     translation: (is) most straight
     transliteration: aqwamu
   8:
-    arabic: وَ يُبَشِّرُ
+    arabic: وَيُبَشِّرُ
     translation: and gives glad tidings
     transliteration: wayubashiru
   9:
-    arabic: الۡمُؤۡمِنِيۡنَ
+    arabic: ٱلۡمُؤۡمِنِينَ
     translation: 'to the believers '
     transliteration: l-mu'minīna
   10:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   11:
-    arabic: يَعۡمَلُوۡنَ
+    arabic: يَعۡمَلُونَ
     translation: do
     transliteration: yaʿmalūna
   12:
-    arabic: الصّٰلِحٰتِ
+    arabic: ٱلصَّٰلِحَٰتِ
     translation: the righteous deeds
     transliteration: l-ṣāliḥāti
   13:
-    arabic: اَنَّ
+    arabic: أَنَّ
     translation: that
     transliteration: anna
   14:
@@ -62,11 +61,11 @@ word_by_word:
     translation: for them
     transliteration: lahum
   15:
-    arabic: اَجۡرًا
+    arabic: أَجۡرٗا
     translation: (is) a reward
     transliteration: ajran
   16:
-    arabic: كَبِيۡرًا ۙ‏
+    arabic: كَبِيرٗا
     translation: great
     transliteration: kabīran
 ---

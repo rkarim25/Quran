@@ -1,7 +1,7 @@
 ---
-arabic_ayat: فَلَمَّا نَسُوۡا مَا ذُكِّرُوۡا بِهٖۤ اَنۡجَيۡنَا الَّذِيۡنَ يَنۡهَوۡنَ
-  عَنِ السُّوۡۤءِ وَاَخَذۡنَا الَّذِيۡنَ ظَلَمُوۡا بِعَذَابٍۭ بَـِٕيۡسٍۢ بِمَا كَانُوۡا
-  يَفۡسُقُوۡنَ‏
+arabic_ayat: فَلَمَّا نَسُواْ مَا ذُكِّرُواْ بِهِۦٓ أَنجَيۡنَا ٱلَّذِينَ يَنۡهَوۡنَ
+  عَنِ ٱلسُّوٓءِ وَأَخَذۡنَا ٱلَّذِينَ ظَلَمُواْ بِعَذَابِۭ بَـِٔيسِۭ بِمَا كَانُواْ
+  يَفۡسُقُونَ
 sentence_translation: When they ignored the warning they were given, We rescued those
   who used to warn against evil and overtook the wrongdoers with a dreadful punishment
   for their rebelliousness.
@@ -11,7 +11,7 @@ word_by_word:
     translation: So when
     transliteration: falammā
   2:
-    arabic: نَسُوۡا
+    arabic: نَسُواْ
     translation: they forgot
     transliteration: nasū
   3:
@@ -19,19 +19,19 @@ word_by_word:
     translation: what
     transliteration: mā
   4:
-    arabic: ذُكِّرُوۡا
+    arabic: ذُكِّرُواْ
     translation: they had been reminded
     transliteration: dhukkirū
   5:
-    arabic: بِهٖۤ
+    arabic: بِهِۦٓ
     translation: with [it]
     transliteration: bihi
   6:
-    arabic: اَنۡجَيۡنَا
+    arabic: أَنجَيۡنَا
     translation: We saved
     transliteration: anjaynā
   7:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   8:
@@ -43,27 +43,27 @@ word_by_word:
     translation: '[from]'
     transliteration: ʿani
   10:
-    arabic: السُّوۡۤءِ
+    arabic: ٱلسُّوٓءِ
     translation: the evil
     transliteration: l-sūi
   11:
-    arabic: وَاَخَذۡنَا
+    arabic: وَأَخَذۡنَا
     translation: and We seized
     transliteration: wa-akhadhnā
   12:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   13:
-    arabic: ظَلَمُوۡا
+    arabic: ظَلَمُواْ
     translation: wronged
     transliteration: ẓalamū
   14:
-    arabic: بِعَذَابٍۭ
+    arabic: بِعَذَابِۭ
     translation: with a punishment
     transliteration: biʿadhābin
   15:
-    arabic: بَـِٕيۡسٍۢ
+    arabic: بَـِٔيسِۭ
     translation: wretched
     transliteration: baīsin
   16:
@@ -71,11 +71,11 @@ word_by_word:
     translation: because
     transliteration: bimā
   17:
-    arabic: كَانُوۡا
+    arabic: كَانُواْ
     translation: they were
     transliteration: kānū
   18:
-    arabic: يَفۡسُقُوۡنَ‏
+    arabic: يَفۡسُقُونَ
     translation: defiantly disobeying
     transliteration: yafsuqūna
 ---

@@ -1,17 +1,16 @@
 ---
-arabic_ayat: "وَالۡبَلَدُ الطَّيِّبُ يَخۡرُجُ نَبَاتُهٗ بِاِذۡنِ رَبِّهٖ ​ۚ وَالَّذِىۡ\
-  \ خَبُثَ لَا يَخۡرُجُ اِلَّا نَكِدًا ​ؕ كَذٰلِكَ نُصَرِّفُ الۡاٰيٰتِ لِقَوۡمٍ يَّشۡكُرُوۡنَ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: وَٱلۡبَلَدُ ٱلطَّيِّبُ يَخۡرُجُ نَبَاتُهُۥ بِإِذۡنِ رَبِّهِۦۖ وَٱلَّذِي
+  خَبُثَ لَا يَخۡرُجُ إِلَّا نَكِدٗاۚ كَذَٰلِكَ نُصَرِّفُ ٱلۡأٓيَٰتِ لِقَوۡمٖ يَشۡكُرُونَ
 sentence_translation: The fertile land produces abundantly by the Will of its Lord,
   whereas the infertile land hardly produces anything. This is how We vary ˹Our˺ lessons
   to those who are thankful.
 word_by_word:
   1:
-    arabic: وَالۡبَلَدُ
+    arabic: وَٱلۡبَلَدُ
     translation: 'And the land '
     transliteration: wal-baladu
   2:
-    arabic: الطَّيِّبُ
+    arabic: ٱلطَّيِّبُ
     translation: '[the] pure'
     transliteration: l-ṭayibu
   3:
@@ -19,19 +18,19 @@ word_by_word:
     translation: comes forth
     transliteration: yakhruju
   4:
-    arabic: نَبَاتُهٗ
+    arabic: نَبَاتُهُۥ
     translation: its vegetation
     transliteration: nabātuhu
   5:
-    arabic: بِاِذۡنِ
+    arabic: بِإِذۡنِ
     translation: by (the) permission
     transliteration: bi-idh'ni
   6:
-    arabic: رَبِّهٖ ​ۚ
+    arabic: رَبِّهِۦۖ
     translation: (of) its Lord
     transliteration: rabbihi
   7:
-    arabic: وَالَّذِىۡ
+    arabic: وَٱلَّذِي
     translation: but which
     transliteration: wa-alladhī
   8:
@@ -47,15 +46,15 @@ word_by_word:
     translation: come forth
     transliteration: yakhruju
   11:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   12:
-    arabic: نَكِدًا ​ؕ
+    arabic: نَكِدٗاۚ
     translation: (with) difficulty
     transliteration: nakidan
   13:
-    arabic: كَذٰلِكَ
+    arabic: كَذَٰلِكَ
     translation: Thus
     transliteration: kadhālika
   14:
@@ -63,15 +62,15 @@ word_by_word:
     translation: We explain
     transliteration: nuṣarrifu
   15:
-    arabic: الۡاٰيٰتِ
+    arabic: ٱلۡأٓيَٰتِ
     translation: the Signs
     transliteration: l-āyāti
   16:
-    arabic: لِقَوۡمٍ
+    arabic: لِقَوۡمٖ
     translation: for a people
     transliteration: liqawmin
   17:
-    arabic: "يَّشۡكُرُوۡنَ‏ \uFEFF\uFEFF"
+    arabic: يَشۡكُرُونَ
     translation: who are grateful
     transliteration: yashkurūna
 ---

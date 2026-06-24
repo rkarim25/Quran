@@ -1,20 +1,20 @@
 ---
-arabic_ayat: وَكَاَيِّنۡ مِّنۡ دَآبَّةٍ لَّا تَحۡمِلُ رِزۡقَهَا ۖ اللّٰهُ يَرۡزُقُهَا
-  وَاِيَّاكُمۡ​​ۖ وَهُوَ السَّمِيۡعُ الۡعَلِيۡمُ‏
+arabic_ayat: وَكَأَيِّن مِّن دَآبَّةٖ لَّا تَحۡمِلُ رِزۡقَهَا ٱللَّهُ يَرۡزُقُهَا
+  وَإِيَّاكُمۡۚ وَهُوَ ٱلسَّمِيعُ ٱلۡعَلِيمُ
 sentence_translation: How many are the creatures that cannot secure their provisions!
   ˹It is˺ Allah ˹Who˺ provides for them and you ˹as well˺. He is indeed the All-Hearing,
   All-Knowing.
 word_by_word:
   1:
-    arabic: وَكَاَيِّنۡ
+    arabic: وَكَأَيِّن
     translation: And how many
     transliteration: waka-ayyin
   2:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: of
     transliteration: min
   3:
-    arabic: دَآبَّةٍ
+    arabic: دَآبَّةٖ
     translation: a creature
     transliteration: dābbatin
   4:
@@ -26,11 +26,11 @@ word_by_word:
     translation: carry
     transliteration: taḥmilu
   6:
-    arabic: رِزۡقَهَا ۖ
+    arabic: رِزۡقَهَا
     translation: its provision
     transliteration: riz'qahā
   7:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   8:
@@ -38,7 +38,7 @@ word_by_word:
     translation: provides (for) it
     transliteration: yarzuquhā
   9:
-    arabic: وَاِيَّاكُمۡ​​ۖ
+    arabic: وَإِيَّاكُمۡۚ
     translation: and (for) you
     transliteration: wa-iyyākum
   10:
@@ -46,11 +46,11 @@ word_by_word:
     translation: And He
     transliteration: wahuwa
   11:
-    arabic: السَّمِيۡعُ
+    arabic: ٱلسَّمِيعُ
     translation: (is) the All-Hearer
     transliteration: l-samīʿu
   12:
-    arabic: الۡعَلِيۡمُ‏
+    arabic: ٱلۡعَلِيمُ
     translation: the All-Knower
     transliteration: l-ʿalīmu
 ---

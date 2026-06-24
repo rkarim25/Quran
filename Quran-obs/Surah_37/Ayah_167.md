@@ -1,17 +1,17 @@
 ---
-arabic_ayat: وَاِنۡ كَانُوۡا لَيَقُوۡلُوۡنَۙ‏
+arabic_ayat: وَإِن كَانُواْ لَيَقُولُونَ
 sentence_translation: They certainly used to say,
 word_by_word:
   1:
-    arabic: وَاِنۡ
+    arabic: وَإِن
     translation: And indeed
     transliteration: wa-in
   2:
-    arabic: كَانُوۡا
+    arabic: كَانُواْ
     translation: they used to
     transliteration: kānū
   3:
-    arabic: لَيَقُوۡلُوۡنَۙ‏
+    arabic: لَيَقُولُونَ
     translation: say
     transliteration: layaqūlūna
 ---

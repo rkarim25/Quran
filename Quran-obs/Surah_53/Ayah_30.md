@@ -1,15 +1,15 @@
 ---
-arabic_ayat: ذٰ لِكَ مَبۡلَـغُهُمۡ مِّنَ الۡعِلۡمِ​ ؕ اِنَّ رَبَّكَ هُوَ اَعۡلَمُ
-  بِمَنۡ ضَلَّ عَنۡ سَبِيۡلِهٖ ۙ وَهُوَ اَعۡلَمُ بِمَنِ اهۡتَدٰى‏
+arabic_ayat: ذَٰلِكَ مَبۡلَغُهُم مِّنَ ٱلۡعِلۡمِۚ إِنَّ رَبَّكَ هُوَ أَعۡلَمُ بِمَن
+  ضَلَّ عَن سَبِيلِهِۦ وَهُوَ أَعۡلَمُ بِمَنِ ٱهۡتَدَىٰ
 sentence_translation: This is the extent of their knowledge. Surely your Lord knows
   best who has strayed from His Way and who is ˹rightly˺ guided.
 word_by_word:
   1:
-    arabic: ذٰلِكَ
+    arabic: ذَٰلِكَ
     translation: That
     transliteration: dhālika
   2:
-    arabic: مَبۡلَـغُهُمۡ
+    arabic: مَبۡلَغُهُم
     translation: (is) their sum
     transliteration: mablaghuhum
   3:
@@ -17,11 +17,11 @@ word_by_word:
     translation: of
     transliteration: mina
   4:
-    arabic: الۡعِلۡمِؕ
+    arabic: ٱلۡعِلۡمِۚ
     translation: knowledge
     transliteration: l-ʿil'mi
   5:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   6:
@@ -33,11 +33,11 @@ word_by_word:
     translation: (is) He (Who)
     transliteration: huwa
   8:
-    arabic: اَعۡلَمُ
+    arabic: أَعۡلَمُ
     translation: knows best
     transliteration: aʿlamu
   9:
-    arabic: بِمَنۡ
+    arabic: بِمَن
     translation: (he) who
     transliteration: biman
   10:
@@ -45,11 +45,11 @@ word_by_word:
     translation: strays
     transliteration: ḍalla
   11:
-    arabic: عَنۡ
+    arabic: عَن
     translation: from
     transliteration: ʿan
   12:
-    arabic: سَبِيۡلِهٖ ۙ
+    arabic: سَبِيلِهِۦ
     translation: His Path
     transliteration: sabīlihi
   13:
@@ -57,7 +57,7 @@ word_by_word:
     translation: and He
     transliteration: wahuwa
   14:
-    arabic: اَعۡلَمُ
+    arabic: أَعۡلَمُ
     translation: knows best
     transliteration: aʿlamu
   15:
@@ -65,7 +65,7 @@ word_by_word:
     translation: (he) who
     transliteration: bimani
   16:
-    arabic: اهۡتَدٰى‏
+    arabic: ٱهۡتَدَىٰ
     translation: is guided
     transliteration: ih'tadā
 ---

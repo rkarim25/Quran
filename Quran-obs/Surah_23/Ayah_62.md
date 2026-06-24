@@ -1,6 +1,6 @@
 ---
-arabic_ayat: وَلَا نُـكَلِّفُ نَفۡسًا اِلَّا وُسۡعَهَا​ وَلَدَيۡنَا كِتٰبٌ يَّـنۡطِقُ
-  بِالۡحَـقِّ​ وَهُمۡ لَا يُظۡلَمُوۡنَ‏
+arabic_ayat: وَلَا نُكَلِّفُ نَفۡسًا إِلَّا وُسۡعَهَاۚ وَلَدَيۡنَا كِتَٰبٞ يَنطِقُ
+  بِٱلۡحَقِّ وَهُمۡ لَا يُظۡلَمُونَ
 sentence_translation: We never require of any soul more than what it can afford. And
   with Us is a record which speaks the truth. None will be wronged.
 word_by_word:
@@ -9,7 +9,7 @@ word_by_word:
     translation: And not
     transliteration: walā
   2:
-    arabic: نُـكَلِّفُ
+    arabic: نُكَلِّفُ
     translation: We burden
     transliteration: nukallifu
   3:
@@ -17,11 +17,11 @@ word_by_word:
     translation: any soul
     transliteration: nafsan
   4:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   5:
-    arabic: وُسۡعَهَا​
+    arabic: وُسۡعَهَاۚ
     translation: (to) its capacity
     transliteration: wus'ʿahā
   6:
@@ -29,15 +29,15 @@ word_by_word:
     translation: and with Us
     transliteration: waladaynā
   7:
-    arabic: كِتٰبٌ
+    arabic: كِتَٰبٞ
     translation: (is) a Record
     transliteration: kitābun
   8:
-    arabic: يَّـنۡطِقُ
+    arabic: يَنطِقُ
     translation: (which) speaks
     transliteration: yanṭiqu
   9:
-    arabic: بِالۡحَـقِّ​
+    arabic: بِٱلۡحَقِّ
     translation: with the truth
     transliteration: bil-ḥaqi
   10:
@@ -49,7 +49,7 @@ word_by_word:
     translation: (will) not
     transliteration: lā
   12:
-    arabic: يُظۡلَمُوۡنَ‏
+    arabic: يُظۡلَمُونَ
     translation: be wronged
     transliteration: yuẓ'lamūna
 ---

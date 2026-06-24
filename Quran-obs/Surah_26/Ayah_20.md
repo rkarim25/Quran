@@ -1,5 +1,5 @@
 ---
-arabic_ayat: قَالَ فَعَلۡتُهَاۤ اِذًا وَّاَنَا مِنَ الضَّآلِّيۡنَؕ‏
+arabic_ayat: قَالَ فَعَلۡتُهَآ إِذٗا وَأَنَا۠ مِنَ ٱلضَّآلِّينَ
 sentence_translation: Moses replied, “I did it then, lacking guidance.
 word_by_word:
   1:
@@ -7,15 +7,15 @@ word_by_word:
     translation: He said
     transliteration: qāla
   2:
-    arabic: فَعَلۡتُهَاۤ
+    arabic: فَعَلۡتُهَآ
     translation: I did it
     transliteration: faʿaltuhā
   3:
-    arabic: اِذًا
+    arabic: إِذٗا
     translation: when
     transliteration: idhan
   4:
-    arabic: وَّاَنَا
+    arabic: وَأَنَا۠
     translation: I
     transliteration: wa-anā
   5:
@@ -23,7 +23,7 @@ word_by_word:
     translation: (was) of
     transliteration: mina
   6:
-    arabic: الضَّآلِّيۡنَؕ‏
+    arabic: ٱلضَّآلِّينَ
     translation: those who are astray
     transliteration: l-ḍālīna
 ---

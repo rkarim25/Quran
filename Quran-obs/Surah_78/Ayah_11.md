@@ -1,17 +1,17 @@
 ---
-arabic_ayat: وَّجَعَلۡنَا النَّهَارَ مَعَاشًا‏
+arabic_ayat: وَجَعَلۡنَا ٱلنَّهَارَ مَعَاشٗا
 sentence_translation: and made the day for livelihood,
 word_by_word:
   1:
-    arabic: وَّجَعَلۡنَا
+    arabic: وَجَعَلۡنَا
     translation: And We made
     transliteration: wajaʿalnā
   2:
-    arabic: النَّهَارَ
+    arabic: ٱلنَّهَارَ
     translation: the day
     transliteration: l-nahāra
   3:
-    arabic: مَعَاشًا‏
+    arabic: مَعَاشٗا
     translation: (for) livelihood
     transliteration: maʿāshan
 ---

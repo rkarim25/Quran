@@ -1,37 +1,36 @@
 ---
-arabic_ayat: "يٰۤاَيُّهَا الَّذِيۡنَ اٰمَنُوۡا اتَّقُوا اللّٰهَ وَلۡتَـنۡظُرۡ نَـفۡسٌ\
-  \ مَّا قَدَّمَتۡ لِغَدٍ​ ۚ وَاتَّقُوا اللّٰهَ​ؕ اِنَّ اللّٰهَ خَبِيۡرٌۢ بِمَا تَعۡمَلُوۡنَ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُواْ ٱتَّقُواْ ٱللَّهَ وَلۡتَنظُرۡ نَفۡسٞ
+  مَّا قَدَّمَتۡ لِغَدٖۖ وَٱتَّقُواْ ٱللَّهَۚ إِنَّ ٱللَّهَ خَبِيرُۢ بِمَا تَعۡمَلُونَ
 sentence_translation: O believers! Be mindful of Allah and let every soul look to
   what ˹deeds˺ it has sent forth for tomorrow. And fear Allah, ˹for˺ certainly Allah
   is All-Aware of what you do.
 word_by_word:
   1:
-    arabic: يٰۤاَيُّهَا
+    arabic: يَٰٓأَيُّهَا
     translation: O
     transliteration: yāayyuhā
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ ءَ
     translation: you (who)
     transliteration: alladhīna
   3:
-    arabic: اٰمَنُوۡا
+    arabic: امَنُواْ
     translation: believe
     transliteration: āmanū
   4:
-    arabic: اتَّقُوا
+    arabic: ٱتَّقُواْ
     translation: Fear
     transliteration: ittaqū
   5:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   6:
-    arabic: وَلۡتَـنۡظُرۡ
+    arabic: وَلۡتَنظُرۡ
     translation: and let look
     transliteration: waltanẓur
   7:
-    arabic: نَـفۡسٌ
+    arabic: نَفۡسٞ
     translation: every soul
     transliteration: nafsun
   8:
@@ -43,27 +42,27 @@ word_by_word:
     translation: it has sent forth
     transliteration: qaddamat
   10:
-    arabic: لِغَدٍ​ ۚ
+    arabic: لِغَدٖۖ
     translation: for tomorrow
     transliteration: lighadin
   11:
-    arabic: وَاتَّقُوا
+    arabic: وَٱتَّقُواْ
     translation: and fear
     transliteration: wa-ittaqū
   12:
-    arabic: اللّٰهَ​ؕ
+    arabic: ٱللَّهَۚ
     translation: Allah
     transliteration: l-laha
   13:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   14:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   15:
-    arabic: خَبِيۡرٌۢ
+    arabic: خَبِيرُۢ
     translation: (is) All-Aware
     transliteration: khabīrun
   16:
@@ -71,7 +70,7 @@ word_by_word:
     translation: of what
     transliteration: bimā
   17:
-    arabic: "تَعۡمَلُوۡنَ‏ \uFEFF\uFEFF"
+    arabic: تَعۡمَلُونَ
     translation: you do
     transliteration: taʿmalūna
 ---

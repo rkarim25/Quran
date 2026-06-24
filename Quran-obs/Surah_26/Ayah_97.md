@@ -1,13 +1,13 @@
 ---
-arabic_ayat: تَاللّٰهِ اِنۡ كُنَّا لَفِىۡ ضَلٰلٍ مُّبِيۡنٍۙ‏
+arabic_ayat: تَٱللَّهِ إِن كُنَّا لَفِي ضَلَٰلٖ مُّبِينٍ
 sentence_translation: “By Allah! We were clearly mistaken,
 word_by_word:
   1:
-    arabic: تَاللّٰهِ
+    arabic: تَٱللَّهِ
     translation: By Allah
     transliteration: tal-lahi
   2:
-    arabic: اِنۡ
+    arabic: إِن
     translation: indeed
     transliteration: in
   3:
@@ -15,15 +15,15 @@ word_by_word:
     translation: we were
     transliteration: kunnā
   4:
-    arabic: لَفِىۡ
+    arabic: لَفِي
     translation: surely in
     transliteration: lafī
   5:
-    arabic: ضَلٰلٍ
+    arabic: ضَلَٰلٖ
     translation: error
     transliteration: ḍalālin
   6:
-    arabic: مُّبِيۡنٍۙ‏
+    arabic: مُّبِينٍ
     translation: clear
     transliteration: mubīnin
 ---

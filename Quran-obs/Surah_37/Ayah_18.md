@@ -1,5 +1,5 @@
 ---
-arabic_ayat: قُلۡ نَعَمۡ وَاَنۡـتُمۡ دٰخِرُوۡنَ​ۚ‏
+arabic_ayat: قُلۡ نَعَمۡ وَأَنتُمۡ دَٰخِرُونَ
 sentence_translation: Say, “Yes! And you will be fully humbled.”
 word_by_word:
   1:
@@ -11,11 +11,11 @@ word_by_word:
     translation: 'Yes'
     transliteration: naʿam
   3:
-    arabic: وَاَنۡـتُمۡ
+    arabic: وَأَنتُمۡ
     translation: and you
     transliteration: wa-antum
   4:
-    arabic: دٰخِرُوۡنَ​ۚ‏
+    arabic: دَٰخِرُونَ
     translation: (will be) humiliated
     transliteration: dākhirūna
 ---

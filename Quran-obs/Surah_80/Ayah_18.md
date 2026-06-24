@@ -1,5 +1,5 @@
 ---
-arabic_ayat: مِنۡ اَىِّ شَىۡءٍ خَلَقَهٗؕ‏
+arabic_ayat: مِنۡ أَيِّ شَيۡءٍ خَلَقَهُۥ
 sentence_translation: From what substance did He create them?
 word_by_word:
   1:
@@ -7,15 +7,15 @@ word_by_word:
     translation: From
     transliteration: min
   2:
-    arabic: اَىِّ
+    arabic: أَيِّ
     translation: what
     transliteration: ayyi
   3:
-    arabic: شَىۡءٍ
+    arabic: شَيۡءٍ
     translation: thing
     transliteration: shayin
   4:
-    arabic: خَلَقَهٗؕ‏
+    arabic: خَلَقَهُۥ
     translation: He created him
     transliteration: khalaqahu
 ---

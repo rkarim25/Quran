@@ -1,17 +1,16 @@
 ---
-arabic_ayat: "قَالُوۡۤا اَوَلَمۡ تَكُ تَاۡتِيۡكُمۡ رُسُلُكُمۡ بِالۡبَيِّنٰتِ ؕ قَالُوۡا\
-  \ بَلٰى ؕ قَالُوۡا​ فَادۡعُوۡا ۚ وَمَا دُعٰٓـؤُا الۡكٰفِرِيۡنَ اِلَّا فِىۡ ضَلٰلٍ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: قَالُوٓاْ أَوَلَمۡ تَكُ تَأۡتِيكُمۡ رُسُلُكُم بِٱلۡبَيِّنَٰتِۖ قَالُواْ
+  بَلَىٰۚ قَالُواْ فَٱدۡعُواْۗ وَمَا دُعَٰٓؤُاْ ٱلۡكَٰفِرِينَ إِلَّا فِي ضَلَٰلٍ
 sentence_translation: The keepers will reply, “Did your messengers not ˹constantly˺
   come to you with clear proofs?” They will say, “Yes ˹they did˺.” The keepers will
   say, “Then pray! Though the prayer of the disbelievers is only in vain.”
 word_by_word:
   1:
-    arabic: قَالُوۡۤا
+    arabic: قَالُوٓاْ
     translation: They (will) say
     transliteration: qālū
   2:
-    arabic: اَوَلَمۡ
+    arabic: أَوَلَمۡ
     translation: Did there not
     transliteration: awalam
   3:
@@ -19,31 +18,31 @@ word_by_word:
     translation: Did there not
     transliteration: taku
   4:
-    arabic: تَاۡتِيۡكُمۡ
+    arabic: تَأۡتِيكُمۡ
     translation: come to you
     transliteration: tatīkum
   5:
-    arabic: رُسُلُكُمۡ
+    arabic: رُسُلُكُم
     translation: your Messengers
     transliteration: rusulukum
   6:
-    arabic: بِالۡبَيِّنٰتِ ؕ
+    arabic: بِٱلۡبَيِّنَٰتِۖ
     translation: with clear proofs
     transliteration: bil-bayināti
   7:
-    arabic: قَالُوۡا
+    arabic: قَالُواْ
     translation: They (will) say
     transliteration: qālū
   8:
-    arabic: بَلٰى ؕ
+    arabic: بَلَىٰۚ
     translation: 'Yes'
     transliteration: balā
   9:
-    arabic: قَالُوۡا​
+    arabic: قَالُواْ
     translation: They (will) say
     transliteration: qālū
   10:
-    arabic: فَادۡعُوۡا ۚ
+    arabic: فَٱدۡعُواْۗ
     translation: Then call
     transliteration: fa-id'ʿū
   11:
@@ -51,23 +50,23 @@ word_by_word:
     translation: but not
     transliteration: wamā
   12:
-    arabic: دُعٰٓـؤُا
+    arabic: دُعَٰٓؤُاْ
     translation: (is the) call
     transliteration: duʿāu
   13:
-    arabic: الۡكٰفِرِيۡنَ
+    arabic: ٱلۡكَٰفِرِينَ
     translation: (of) the disbelievers
     transliteration: l-kāfirīna
   14:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   15:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   16:
-    arabic: "ضَلٰلٍ‏ \uFEFF\uFEFF"
+    arabic: ضَلَٰلٍ
     translation: error
     transliteration: ḍalālin
 ---

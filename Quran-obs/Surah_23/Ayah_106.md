@@ -1,11 +1,10 @@
 ---
-arabic_ayat: "قَالُوۡا رَبَّنَا غَلَبَتۡ عَلَيۡنَا شِقۡوَتُنَا وَكُنَّا قَوۡمًا ضَآلِّيۡنَ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: قَالُواْ رَبَّنَا غَلَبَتۡ عَلَيۡنَا شِقۡوَتُنَا وَكُنَّا قَوۡمٗا ضَآلِّينَ
 sentence_translation: They will cry, “Our Lord! Our ill-fate took hold of us, so we
   became a misguided people.
 word_by_word:
   1:
-    arabic: قَالُوۡا
+    arabic: قَالُواْ
     translation: They (will) say
     transliteration: qālū
   2:
@@ -29,11 +28,11 @@ word_by_word:
     translation: and we were
     transliteration: wakunnā
   7:
-    arabic: قَوۡمًا
+    arabic: قَوۡمٗا
     translation: a people
     transliteration: qawman
   8:
-    arabic: "ضَآلِّيۡنَ‏ \uFEFF\uFEFF"
+    arabic: ضَآلِّينَ
     translation: astray
     transliteration: ḍāllīna
 ---

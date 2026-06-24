@@ -1,5 +1,5 @@
 ---
-arabic_ayat: لَمۡ يَطۡمِثۡهُنَّ اِنۡسٌ قَبۡلَهُمۡ وَلَا جَآنٌّ​ۚ‏
+arabic_ayat: لَمۡ يَطۡمِثۡهُنَّ إِنسٞ قَبۡلَهُمۡ وَلَا جَآنّٞ
 sentence_translation: No human or jinn has ever touched these ˹maidens˺ before.
 word_by_word:
   1:
@@ -11,7 +11,7 @@ word_by_word:
     translation: has touched them
     transliteration: yaṭmith'hunna
   3:
-    arabic: اِنۡسٌ
+    arabic: إِنسٞ
     translation: any man
     transliteration: insun
   4:
@@ -23,7 +23,7 @@ word_by_word:
     translation: and not
     transliteration: walā
   6:
-    arabic: جَآنٌّ​ۚ‏
+    arabic: جَآنّٞ
     translation: any jinn
     transliteration: jānnun
 ---

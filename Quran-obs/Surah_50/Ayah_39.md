@@ -1,15 +1,15 @@
 ---
-arabic_ayat: فَاصۡبِرۡ عَلٰى مَا يَقُوۡلُوۡنَ وَسَبِّحۡ بِحَمۡدِ رَبِّكَ قَبۡلَ طُلُوۡعِ
-  الشَّمۡسِ وَقَبۡلَ الۡغُرُوۡبِ​ۚ‏
+arabic_ayat: فَٱصۡبِرۡ عَلَىٰ مَا يَقُولُونَ وَسَبِّحۡ بِحَمۡدِ رَبِّكَ قَبۡلَ طُلُوعِ
+  ٱلشَّمۡسِ وَقَبۡلَ ٱلۡغُرُوبِ
 sentence_translation: So be patient ˹O Prophet˺ with what they say. And glorify the
   praises of your Lord before sunrise and before sunset.
 word_by_word:
   1:
-    arabic: فَاصۡبِرۡ
+    arabic: فَٱصۡبِرۡ
     translation: So be patient
     transliteration: fa-iṣ'bir
   2:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: over
     transliteration: ʿalā
   3:
@@ -17,7 +17,7 @@ word_by_word:
     translation: what
     transliteration: mā
   4:
-    arabic: يَقُوۡلُوۡنَ
+    arabic: يَقُولُونَ
     translation: they say
     transliteration: yaqūlūna
   5:
@@ -37,11 +37,11 @@ word_by_word:
     translation: before
     transliteration: qabla
   9:
-    arabic: طُلُوۡعِ
+    arabic: طُلُوعِ
     translation: (the) rising
     transliteration: ṭulūʿi
   10:
-    arabic: الشَّمۡسِ
+    arabic: ٱلشَّمۡسِ
     translation: (of) the sun
     transliteration: l-shamsi
   11:
@@ -49,7 +49,7 @@ word_by_word:
     translation: and before
     transliteration: waqabla
   12:
-    arabic: الۡغُرُوۡبِ​ۚ‏
+    arabic: ٱلۡغُرُوبِ
     translation: the setting
     transliteration: l-ghurūbi
 ---

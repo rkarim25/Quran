@@ -1,9 +1,9 @@
 ---
-arabic_ayat: وَالَّيۡلِ وَمَا وَسَقَۙ‏
+arabic_ayat: وَٱلَّيۡلِ وَمَا وَسَقَ
 sentence_translation: And by the night and whatever it envelops!
 word_by_word:
   1:
-    arabic: وَالَّيۡلِ
+    arabic: وَٱلَّيۡلِ
     translation: And the night
     transliteration: wa-al-layli
   2:
@@ -11,7 +11,7 @@ word_by_word:
     translation: and what
     transliteration: wamā
   3:
-    arabic: وَسَقَۙ‏
+    arabic: وَسَقَ
     translation: it envelops
     transliteration: wasaqa
 ---

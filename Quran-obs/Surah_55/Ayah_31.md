@@ -1,5 +1,5 @@
 ---
-arabic_ayat: سَنَفۡرُغُ لَـكُمۡ اَيُّهَ الثَّقَلٰنِ​ۚ‏
+arabic_ayat: سَنَفۡرُغُ لَكُمۡ أَيُّهَ ٱلثَّقَلَانِ
 sentence_translation: We will soon attend to you ˹for judgment˺, O  two multitudes
   ˹of jinn and humans˺!
 word_by_word:
@@ -8,15 +8,15 @@ word_by_word:
     translation: Soon We will attend
     transliteration: sanafrughu
   2:
-    arabic: لَـكُمۡ
+    arabic: لَكُمۡ
     translation: to you
     transliteration: lakum
   3:
-    arabic: اَيُّهَ
+    arabic: أَيُّهَ
     translation: O you
     transliteration: ayyuha
   4:
-    arabic: الثَّقَلٰنِ​ۚ‏
+    arabic: ٱلثَّقَلَانِ
     translation: two classes
     transliteration: l-thaqalāni
 ---

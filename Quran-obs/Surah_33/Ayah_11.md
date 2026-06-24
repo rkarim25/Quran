@@ -1,5 +1,5 @@
 ---
-arabic_ayat: هُنَالِكَ ابۡتُلِىَ الۡمُؤۡمِنُوۡنَ وَزُلۡزِلُوۡا زِلۡزَالًا شَدِيۡدًا‏
+arabic_ayat: هُنَالِكَ ٱبۡتُلِيَ ٱلۡمُؤۡمِنُونَ وَزُلۡزِلُواْ زِلۡزَالٗا شَدِيدٗا
 sentence_translation: Then and there the believers were put to the test, and were
   violently shaken.
 word_by_word:
@@ -8,23 +8,23 @@ word_by_word:
     translation: 'There '
     transliteration: hunālika
   2:
-    arabic: ابۡتُلِىَ
+    arabic: ٱبۡتُلِيَ
     translation: were tried
     transliteration: ub'tuliya
   3:
-    arabic: الۡمُؤۡمِنُوۡنَ
+    arabic: ٱلۡمُؤۡمِنُونَ
     translation: the believers
     transliteration: l-mu'minūna
   4:
-    arabic: وَزُلۡزِلُوۡا
+    arabic: وَزُلۡزِلُواْ
     translation: and shaken
     transliteration: wazul'zilū
   5:
-    arabic: زِلۡزَالًا
+    arabic: زِلۡزَالٗا
     translation: (with a) shake
     transliteration: zil'zālan
   6:
-    arabic: شَدِيۡدًا‏
+    arabic: شَدِيدٗا
     translation: severe
     transliteration: shadīdan
 ---

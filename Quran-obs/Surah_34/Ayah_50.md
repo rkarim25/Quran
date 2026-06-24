@@ -1,6 +1,6 @@
 ---
-arabic_ayat: قُلۡ اِنۡ ضَلَلۡتُ فَاِنَّمَاۤ اَضِلُّ عَلٰى نَـفۡسِىۡ ۚ وَاِنِ اهۡتَدَيۡتُ
-  فَبِمَا يُوۡحِىۡۤ اِلَىَّ رَبِّىۡ ؕ اِنَّهٗ سَمِيۡعٌ قَرِيۡبٌ‏
+arabic_ayat: قُلۡ إِن ضَلَلۡتُ فَإِنَّمَآ أَضِلُّ عَلَىٰ نَفۡسِيۖ وَإِنِ ٱهۡتَدَيۡتُ
+  فَبِمَا يُوحِيٓ إِلَيَّ رَبِّيٓۚ إِنَّهُۥ سَمِيعٞ قَرِيبٞ
 sentence_translation: Say, “If I am astray, the loss is only mine. And if I am guided,
   it is ˹only˺ because of what my Lord reveals to me. He is indeed All-Hearing, Ever
   Near.”
@@ -10,7 +10,7 @@ word_by_word:
     translation: Say
     transliteration: qul
   2:
-    arabic: اِنۡ
+    arabic: إِن
     translation: If
     transliteration: in
   3:
@@ -18,27 +18,27 @@ word_by_word:
     translation: I err
     transliteration: ḍalaltu
   4:
-    arabic: فَاِنَّمَاۤ
+    arabic: فَإِنَّمَآ
     translation: then only
     transliteration: fa-innamā
   5:
-    arabic: اَضِلُّ
+    arabic: أَضِلُّ
     translation: I will err
     transliteration: aḍillu
   6:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: against
     transliteration: ʿalā
   7:
-    arabic: نَـفۡسِىۡ ۚ
+    arabic: نَفۡسِيۖ
     translation: myself
     transliteration: nafsī
   8:
-    arabic: وَاِنِ
+    arabic: وَإِنِ
     translation: But if
     transliteration: wa-ini
   9:
-    arabic: اهۡتَدَيۡتُ
+    arabic: ٱهۡتَدَيۡتُ
     translation: I am guided
     transliteration: ih'tadaytu
   10:
@@ -46,27 +46,27 @@ word_by_word:
     translation: then it is by what
     transliteration: fabimā
   11:
-    arabic: يُوۡحِىۡۤ
+    arabic: يُوحِيٓ
     translation: reveals
     transliteration: yūḥī
   12:
-    arabic: اِلَىَّ
+    arabic: إِلَيَّ
     translation: to me
     transliteration: ilayya
   13:
-    arabic: رَبِّىۡ ؕ
+    arabic: رَبِّيٓۚ
     translation: my Lord
     transliteration: rabbī
   14:
-    arabic: اِنَّهٗ
+    arabic: إِنَّهُۥ
     translation: Indeed, He
     transliteration: innahu
   15:
-    arabic: سَمِيۡعٌ
+    arabic: سَمِيعٞ
     translation: (is) All-Hearer
     transliteration: samīʿun
   16:
-    arabic: قَرِيۡبٌ‏
+    arabic: قَرِيبٞ
     translation: Ever-Near
     transliteration: qarībun
 ---

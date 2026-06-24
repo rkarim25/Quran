@@ -1,9 +1,9 @@
 ---
-arabic_ayat: وَاَنَّهٗ هُوَ اَغۡنٰى وَ اَقۡنٰىۙ‏
+arabic_ayat: وَأَنَّهُۥ هُوَ أَغۡنَىٰ وَأَقۡنَىٰ
 sentence_translation: And He is the One Who enriches and impoverishes.
 word_by_word:
   1:
-    arabic: وَاَنَّهٗ
+    arabic: وَأَنَّهُۥ
     translation: And that He
     transliteration: wa-annahu
   2:
@@ -11,11 +11,11 @@ word_by_word:
     translation: '[He]'
     transliteration: huwa
   3:
-    arabic: اَغۡنٰى
+    arabic: أَغۡنَىٰ
     translation: enriches
     transliteration: aghnā
   4:
-    arabic: وَ اَقۡنٰىۙ‏
+    arabic: وَأَقۡنَىٰ
     translation: and suffices
     transliteration: wa-aqnā
 ---

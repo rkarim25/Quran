@@ -1,20 +1,20 @@
 ---
-arabic_ayat: فَمَنۡ اَظۡلَمُ مِمَّنۡ كَذَبَ عَلَى اللّٰهِ وَكَذَّبَ بِالصِّدۡقِ اِذۡ
-  جَآءَهٗ​ ؕ اَ لَيۡسَ فِىۡ جَهَنَّمَ مَثۡـوًى لِّـلۡـكٰفِرِيۡنَ‏
+arabic_ayat: ۞ فَمَنۡ أَظۡلَمُ مِمَّن كَذَبَ عَلَى ٱللَّهِ وَكَذَّبَ بِٱلصِّدۡقِ إِذۡ
+  جَآءَهُۥٓۚ أَلَيۡسَ فِي جَهَنَّمَ مَثۡوٗى لِّلۡكَٰفِرِينَ
 sentence_translation: Who then does more wrong than those who lie about Allah and
   reject the truth after it has reached them? Is Hell not a ˹fitting˺ home for the
   disbelievers?
 word_by_word:
   1:
-    arabic: ۞ فَمَنۡ
+    arabic: ۞ فَمَنۡ
     translation: Then who
     transliteration: faman
   2:
-    arabic: اَظۡلَمُ
+    arabic: أَظۡلَمُ
     translation: (is) more unjust
     transliteration: aẓlamu
   3:
-    arabic: مِمَّنۡ
+    arabic: مِمَّن
     translation: than (one) who
     transliteration: mimman
   4:
@@ -26,7 +26,7 @@ word_by_word:
     translation: against
     transliteration: ʿalā
   6:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   7:
@@ -34,23 +34,23 @@ word_by_word:
     translation: and denies
     transliteration: wakadhaba
   8:
-    arabic: بِالصِّدۡقِ
+    arabic: بِٱلصِّدۡقِ
     translation: the truth
     transliteration: bil-ṣid'qi
   9:
-    arabic: اِذۡ
+    arabic: إِذۡ
     translation: when
     transliteration: idh
   10:
-    arabic: جَآءَهٗ​ ؕ
+    arabic: جَآءَهُۥٓۚ
     translation: it comes to him
     transliteration: jāahu
   11:
-    arabic: اَ لَيۡسَ
+    arabic: أَلَيۡسَ
     translation: Is (there) not
     transliteration: alaysa
   12:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   13:
@@ -58,11 +58,11 @@ word_by_word:
     translation: Hell
     transliteration: jahannama
   14:
-    arabic: مَثۡـوًى
+    arabic: مَثۡوٗى
     translation: an abode
     transliteration: mathwan
   15:
-    arabic: لِّـلۡـكٰفِرِيۡنَ‏
+    arabic: لِّلۡكَٰفِرِينَ
     translation: for the disbelievers
     transliteration: lil'kāfirīna
 ---

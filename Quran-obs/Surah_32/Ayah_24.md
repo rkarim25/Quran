@@ -1,11 +1,11 @@
 ---
-arabic_ayat: وَ جَعَلۡنَا مِنۡهُمۡ اَٮِٕمَّةً يَّهۡدُوۡنَ بِاَمۡرِنَا لَمَّا صَبَرُوۡا​
-  ؕ وَ كَانُوۡا بِاٰيٰتِنَا يُوۡقِنُوۡنَ‏
+arabic_ayat: وَجَعَلۡنَا مِنۡهُمۡ أَئِمَّةٗ يَهۡدُونَ بِأَمۡرِنَا لَمَّا صَبَرُواْۖ
+  وَكَانُواْ بِـَٔايَٰتِنَا يُوقِنُونَ
 sentence_translation: We raised from among them leaders, guiding by Our command, when
   they patiently endured and firmly believed in Our signs.
 word_by_word:
   1:
-    arabic: وَ جَعَلۡنَا
+    arabic: وَجَعَلۡنَا
     translation: And We made
     transliteration: wajaʿalnā
   2:
@@ -13,15 +13,15 @@ word_by_word:
     translation: from them
     transliteration: min'hum
   3:
-    arabic: اَٮِٕمَّةً
+    arabic: أَئِمَّةٗ
     translation: leaders
     transliteration: a-immatan
   4:
-    arabic: يَّهۡدُوۡنَ
+    arabic: يَهۡدُونَ
     translation: guiding
     transliteration: yahdūna
   5:
-    arabic: بِاَمۡرِنَا
+    arabic: بِأَمۡرِنَا
     translation: by Our Command
     transliteration: bi-amrinā
   6:
@@ -29,19 +29,19 @@ word_by_word:
     translation: when
     transliteration: lammā
   7:
-    arabic: صَبَرُوۡا​ ؕ
+    arabic: صَبَرُواْۖ
     translation: they were patient
     transliteration: ṣabarū
   8:
-    arabic: وَ كَانُوۡا
+    arabic: وَكَانُواْ
     translation: and they were
     transliteration: wakānū
   9:
-    arabic: بِاٰيٰتِنَا
+    arabic: بِـَٔايَٰتِنَا
     translation: of Our Verses
     transliteration: biāyātinā
   10:
-    arabic: يُوۡقِنُوۡنَ‏
+    arabic: يُوقِنُونَ
     translation: certain
     transliteration: yūqinūna
 ---

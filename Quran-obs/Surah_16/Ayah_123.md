@@ -1,6 +1,6 @@
 ---
-arabic_ayat: ثُمَّ اَوۡحَيۡنَاۤ اِلَيۡكَ اَنِ اتَّبِعۡ مِلَّةَ اِبۡرٰهِيۡمَ حَنِيۡفًا​
-  ؕ وَمَا كَانَ مِنَ الۡمُشۡرِكِيۡنَ‏
+arabic_ayat: ثُمَّ أَوۡحَيۡنَآ إِلَيۡكَ أَنِ ٱتَّبِعۡ مِلَّةَ إِبۡرَٰهِيمَ حَنِيفٗاۖ
+  وَمَا كَانَ مِنَ ٱلۡمُشۡرِكِينَ
 sentence_translation: 'Then We revealed to you ˹O Prophet, saying˺: “Follow the faith
   of Abraham, the upright, who was not one of the polytheists.”'
 word_by_word:
@@ -9,19 +9,19 @@ word_by_word:
     translation: Then
     transliteration: thumma
   2:
-    arabic: اَوۡحَيۡنَاۤ
+    arabic: أَوۡحَيۡنَآ
     translation: We revealed
     transliteration: awḥaynā
   3:
-    arabic: اِلَيۡكَ
+    arabic: إِلَيۡكَ
     translation: to you
     transliteration: ilayka
   4:
-    arabic: اَنِ
+    arabic: أَنِ
     translation: that
     transliteration: ani
   5:
-    arabic: اتَّبِعۡ
+    arabic: ٱتَّبِعۡ
     translation: You follow
     transliteration: ittabiʿ
   6:
@@ -29,11 +29,11 @@ word_by_word:
     translation: (the) religion
     transliteration: millata
   7:
-    arabic: اِبۡرٰهِيۡمَ
+    arabic: إِبۡرَٰهِيمَ
     translation: (of) Ibrahim
     transliteration: ib'rāhīma
   8:
-    arabic: حَنِيۡفًا​ ؕ
+    arabic: حَنِيفٗاۖ
     translation: upright
     transliteration: ḥanīfan
   9:
@@ -49,7 +49,7 @@ word_by_word:
     translation: of
     transliteration: mina
   12:
-    arabic: الۡمُشۡرِكِيۡنَ‏
+    arabic: ٱلۡمُشۡرِكِينَ
     translation: the polytheists
     transliteration: l-mush'rikīna
 ---

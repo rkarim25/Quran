@@ -1,9 +1,8 @@
 ---
-arabic_ayat: سَيَـقُوۡلُ لَكَ الۡمُخَلَّفُوۡنَ مِنَ الۡاَعۡرَابِ شَغَلَـتۡنَاۤ اَمۡوَالُـنَا
-  وَاَهۡلُوۡنَا فَاسۡتَغۡفِرۡ لَـنَا​ ۚ يَقُوۡلُوۡنَ بِاَلۡسِنَتِهِمۡ مَّا لَـيۡسَ
-  فِىۡ قُلُوۡبِهِمۡ​ؕ قُلۡ فَمَنۡ يَّمۡلِكُ لَـكُمۡ مِّنَ اللّٰهِ شَيۡـًٔــا اِنۡ
-  اَرَادَ بِكُمۡ ضَرًّا اَوۡ اَرَادَ بِكُمۡ نَفۡعًا ​ؕ بَلۡ كَانَ اللّٰهُ بِمَا تَعۡمَلُوۡنَ
-  خَبِيۡرًا‏
+arabic_ayat: سَيَقُولُ لَكَ ٱلۡمُخَلَّفُونَ مِنَ ٱلۡأَعۡرَابِ شَغَلَتۡنَآ أَمۡوَٰلُنَا
+  وَأَهۡلُونَا فَٱسۡتَغۡفِرۡ لَنَاۚ يَقُولُونَ بِأَلۡسِنَتِهِم مَّا لَيۡسَ فِي قُلُوبِهِمۡۚ
+  قُلۡ فَمَن يَمۡلِكُ لَكُم مِّنَ ٱللَّهِ شَيۡـًٔا إِنۡ أَرَادَ بِكُمۡ ضَرًّا أَوۡ
+  أَرَادَ بِكُمۡ نَفۡعَۢاۚ بَلۡ كَانَ ٱللَّهُ بِمَا تَعۡمَلُونَ خَبِيرَۢا
 sentence_translation: The nomadic Arabs, who stayed behind, will say to you ˹O Prophet˺,
   “We were preoccupied with our wealth and families, so ask for forgiveness for us.”
   They say with their tongues what is not in their hearts. Say, “Who then can stand
@@ -11,7 +10,7 @@ sentence_translation: The nomadic Arabs, who stayed behind, will say to you ˹O 
   Allah is All-Aware of what you do.
 word_by_word:
   1:
-    arabic: سَيَـقُوۡلُ
+    arabic: سَيَقُولُ
     translation: Will say
     transliteration: sayaqūlu
   2:
@@ -19,7 +18,7 @@ word_by_word:
     translation: to you
     transliteration: laka
   3:
-    arabic: الۡمُخَلَّفُوۡنَ
+    arabic: ٱلۡمُخَلَّفُونَ
     translation: those who remained behind
     transliteration: l-mukhalafūna
   4:
@@ -27,35 +26,35 @@ word_by_word:
     translation: of
     transliteration: mina
   5:
-    arabic: الۡاَعۡرَابِ
+    arabic: ٱلۡأَعۡرَابِ
     translation: the Bedouins
     transliteration: l-aʿrābi
   6:
-    arabic: شَغَلَـتۡنَاۤ
+    arabic: شَغَلَتۡنَآ
     translation: Kept us busy
     transliteration: shaghalatnā
   7:
-    arabic: اَمۡوَالُـنَا
+    arabic: أَمۡوَٰلُنَا
     translation: our properties
     transliteration: amwālunā
   8:
-    arabic: وَاَهۡلُوۡنَا
+    arabic: وَأَهۡلُونَا
     translation: and our families
     transliteration: wa-ahlūnā
   9:
-    arabic: فَاسۡتَغۡفِرۡ
+    arabic: فَٱسۡتَغۡفِرۡ
     translation: so ask forgiveness
     transliteration: fa-is'taghfir
   10:
-    arabic: لَـنَا​ ۚ
+    arabic: لَنَاۚ
     translation: for us
     transliteration: lanā
   11:
-    arabic: يَقُوۡلُوۡنَ
+    arabic: يَقُولُونَ
     translation: They say
     transliteration: yaqūlūna
   12:
-    arabic: بِاَلۡسِنَتِهِمۡ
+    arabic: بِأَلۡسِنَتِهِم
     translation: with their tongues
     transliteration: bi-alsinatihim
   13:
@@ -63,15 +62,15 @@ word_by_word:
     translation: what
     transliteration: mā
   14:
-    arabic: لَـيۡسَ
+    arabic: لَيۡسَ
     translation: is not
     transliteration: laysa
   15:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   16:
-    arabic: قُلُوۡبِهِمۡ​ؕ
+    arabic: قُلُوبِهِمۡۚ
     translation: their hearts
     transliteration: qulūbihim
   17:
@@ -79,15 +78,15 @@ word_by_word:
     translation: Say
     transliteration: qul
   18:
-    arabic: فَمَنۡ
+    arabic: فَمَن
     translation: Then who
     transliteration: faman
   19:
-    arabic: يَّمۡلِكُ
+    arabic: يَمۡلِكُ
     translation: has power
     transliteration: yamliku
   20:
-    arabic: لَـكُمۡ
+    arabic: لَكُم
     translation: for you
     transliteration: lakum
   21:
@@ -95,19 +94,19 @@ word_by_word:
     translation: against
     transliteration: mina
   22:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   23:
-    arabic: شَيۡـًٔــا
+    arabic: شَيۡـًٔا
     translation: (in) anything
     transliteration: shayan
   24:
-    arabic: اِنۡ
+    arabic: إِنۡ
     translation: if
     transliteration: in
   25:
-    arabic: اَرَادَ
+    arabic: أَرَادَ
     translation: He intends
     transliteration: arāda
   26:
@@ -119,11 +118,11 @@ word_by_word:
     translation: harm
     transliteration: ḍarran
   28:
-    arabic: اَوۡ
+    arabic: أَوۡ
     translation: or
     transliteration: aw
   29:
-    arabic: اَرَادَ
+    arabic: أَرَادَ
     translation: He intends
     transliteration: arāda
   30:
@@ -131,7 +130,7 @@ word_by_word:
     translation: for you
     transliteration: bikum
   31:
-    arabic: نَفۡعًا ​ؕ
+    arabic: نَفۡعَۢاۚ
     translation: a benefit
     transliteration: nafʿan
   32:
@@ -143,7 +142,7 @@ word_by_word:
     translation: is
     transliteration: kāna
   34:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   35:
@@ -151,11 +150,11 @@ word_by_word:
     translation: of what
     transliteration: bimā
   36:
-    arabic: تَعۡمَلُوۡنَ
+    arabic: تَعۡمَلُونَ
     translation: you do
     transliteration: taʿmalūna
   37:
-    arabic: خَبِيۡرًا‏
+    arabic: خَبِيرَۢا
     translation: All-Aware
     transliteration: khabīran
 ---

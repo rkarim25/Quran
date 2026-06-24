@@ -1,39 +1,38 @@
 ---
-arabic_ayat: فَبَـعَثَ اللّٰهُ غُرَابًا يَّبۡحَثُ فِىۡ الۡاَرۡضِ لِيُرِيَهٗ كَيۡفَ
-  يُوَارِىۡ سَوۡءَةَ اَخِيۡهِ​ؕ قَالَ يَاوَيۡلَتٰٓى اَعَجَزۡتُ اَنۡ اَكُوۡنَ مِثۡلَ
-  هٰذَا الۡغُرَابِ فَاُوَارِىَ سَوۡءَةَ اَخِىۡ​ۚ فَاَصۡبَحَ مِنَ النّٰدِمِيۡنَ​​​ۛ
-  ​ۚۙ‏
+arabic_ayat: فَبَعَثَ ٱللَّهُ غُرَابٗا يَبۡحَثُ فِي ٱلۡأَرۡضِ لِيُرِيَهُۥ كَيۡفَ يُوَٰرِي
+  سَوۡءَةَ أَخِيهِۚ قَالَ يَٰوَيۡلَتَىٰٓ أَعَجَزۡتُ أَنۡ أَكُونَ مِثۡلَ هَٰذَا ٱلۡغُرَابِ
+  فَأُوَٰرِيَ سَوۡءَةَ أَخِيۖ فَأَصۡبَحَ مِنَ ٱلنَّٰدِمِينَ
 sentence_translation: Then Allah sent a crow digging ˹a grave˺ in the ground ˹for
   a dead crow˺, in order to show him how to bury the corpse of his brother. He cried,
   “Alas! Have I ˹even˺ failed to be like this crow and bury the corpse of my brother?”
   So he became regretful. 
 word_by_word:
   1:
-    arabic: فَبَـعَثَ
+    arabic: فَبَعَثَ
     translation: Then (was) sent
     transliteration: fabaʿatha
   2:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: (by) Allah
     transliteration: l-lahu
   3:
-    arabic: غُرَابًا
+    arabic: غُرَابٗا
     translation: a crow
     transliteration: ghurāban
   4:
-    arabic: يَّبۡحَثُ
+    arabic: يَبۡحَثُ
     translation: it (was) scratching
     transliteration: yabḥathu
   5:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   6:
-    arabic: الۡاَرۡضِ
+    arabic: ٱلۡأَرۡضِ
     translation: the earth
     transliteration: l-arḍi
   7:
-    arabic: لِيُرِيَهٗ
+    arabic: لِيُرِيَهُۥ
     translation: to show him
     transliteration: liyuriyahu
   8:
@@ -41,7 +40,7 @@ word_by_word:
     translation: how
     transliteration: kayfa
   9:
-    arabic: يُوَارِىۡ
+    arabic: يُوَٰرِي
     translation: to hide
     transliteration: yuwārī
   10:
@@ -49,7 +48,7 @@ word_by_word:
     translation: (the) dead body
     transliteration: sawata
   11:
-    arabic: اَخِيۡهِ​ؕ
+    arabic: أَخِيهِۚ
     translation: (of) his brother
     transliteration: akhīhi
   12:
@@ -57,19 +56,19 @@ word_by_word:
     translation: He said
     transliteration: qāla
   13:
-    arabic: يَاوَيۡلَتٰٓى
+    arabic: يَٰوَيۡلَتَىٰٓ
     translation: Woe to me
     transliteration: yāwaylatā
   14:
-    arabic: اَعَجَزۡتُ
+    arabic: أَعَجَزۡتُ
     translation: Am I unable
     transliteration: aʿajaztu
   15:
-    arabic: اَنۡ
+    arabic: أَنۡ
     translation: that
     transliteration: an
   16:
-    arabic: اَكُوۡنَ
+    arabic: أَكُونَ
     translation: I can be
     transliteration: akūna
   17:
@@ -77,15 +76,15 @@ word_by_word:
     translation: like
     transliteration: mith'la
   18:
-    arabic: هٰذَا
+    arabic: هَٰذَا
     translation: this
     transliteration: hādhā
   19:
-    arabic: الۡغُرَابِ
+    arabic: ٱلۡغُرَابِ
     translation: '[the] crow'
     transliteration: l-ghurābi
   20:
-    arabic: فَاُوَارِىَ
+    arabic: فَأُوَٰرِيَ
     translation: and hide
     transliteration: fa-uwāriya
   21:
@@ -93,11 +92,11 @@ word_by_word:
     translation: (the) dead body
     transliteration: sawata
   22:
-    arabic: اَخِىۡ​ۚ
+    arabic: أَخِيۖ
     translation: (of) my brother
     transliteration: akhī
   23:
-    arabic: فَاَصۡبَحَ
+    arabic: فَأَصۡبَحَ
     translation: Then he became
     transliteration: fa-aṣbaḥa
   24:
@@ -105,7 +104,7 @@ word_by_word:
     translation: of
     transliteration: mina
   25:
-    arabic: النّٰدِمِيۡنَ​​​ۛ ​ۚۙ‏
+    arabic: ٱلنَّٰدِمِينَ
     translation: the regretful
     transliteration: l-nādimīna
 ---

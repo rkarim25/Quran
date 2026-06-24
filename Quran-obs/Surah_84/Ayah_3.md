@@ -1,17 +1,17 @@
 ---
-arabic_ayat: وَاِذَا الۡاَرۡضُ مُدَّتۡؕ‏
+arabic_ayat: وَإِذَا ٱلۡأَرۡضُ مُدَّتۡ
 sentence_translation: and when the earth is flattened out,
 word_by_word:
   1:
-    arabic: وَاِذَا
+    arabic: وَإِذَا
     translation: And when
     transliteration: wa-idhā
   2:
-    arabic: الۡاَرۡضُ
+    arabic: ٱلۡأَرۡضُ
     translation: the earth
     transliteration: l-arḍu
   3:
-    arabic: مُدَّتۡؕ‏
+    arabic: مُدَّتۡ
     translation: is spread
     transliteration: muddat
 ---

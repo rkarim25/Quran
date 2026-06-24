@@ -1,39 +1,39 @@
 ---
-arabic_ayat: اِنَّهٗ مَنۡ يَّاۡتِ رَبَّهٗ مُجۡرِمًا فَاِنَّ لَهٗ جَهَـنَّمَ​ۚ لَا
-  يَمُوۡتُ فِيۡهَا وَ لَا يَحۡيٰى‏
+arabic_ayat: إِنَّهُۥ مَن يَأۡتِ رَبَّهُۥ مُجۡرِمٗا فَإِنَّ لَهُۥ جَهَنَّمَ لَا يَمُوتُ
+  فِيهَا وَلَا يَحۡيَىٰ
 sentence_translation: Whoever comes to their Lord as an evildoer will certainly have
   Hell, where they can neither live nor die.
 word_by_word:
   1:
-    arabic: اِنَّهٗ
+    arabic: إِنَّهُۥ
     translation: Indeed, he
     transliteration: innahu
   2:
-    arabic: مَنۡ
+    arabic: مَن
     translation: who
     transliteration: man
   3:
-    arabic: يَّاۡتِ
+    arabic: يَأۡتِ
     translation: comes
     transliteration: yati
   4:
-    arabic: رَبَّهٗ
+    arabic: رَبَّهُۥ
     translation: (to) his Lord
     transliteration: rabbahu
   5:
-    arabic: مُجۡرِمًا
+    arabic: مُجۡرِمٗا
     translation: (as) a criminal
     transliteration: muj'riman
   6:
-    arabic: فَاِنَّ
+    arabic: فَإِنَّ
     translation: then indeed
     transliteration: fa-inna
   7:
-    arabic: لَهٗ
+    arabic: لَهُۥ
     translation: for him
     transliteration: lahu
   8:
-    arabic: جَهَـنَّمَ​ۚ
+    arabic: جَهَنَّمَ
     translation: (is) Hell
     transliteration: jahannama
   9:
@@ -41,19 +41,19 @@ word_by_word:
     translation: Not
     transliteration: lā
   10:
-    arabic: يَمُوۡتُ
+    arabic: يَمُوتُ
     translation: he will die
     transliteration: yamūtu
   11:
-    arabic: فِيۡهَا
+    arabic: فِيهَا
     translation: in it
     transliteration: fīhā
   12:
-    arabic: وَ لَا
+    arabic: وَلَا
     translation: and not
     transliteration: walā
   13:
-    arabic: يَحۡيٰى‏
+    arabic: يَحۡيَىٰ
     translation: live
     transliteration: yaḥyā
 ---

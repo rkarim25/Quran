@@ -1,6 +1,6 @@
 ---
-arabic_ayat: وَلَا يَزَالُ الَّذِيۡنَ كَفَرُوۡا فِىۡ مِرۡيَةٍ مِّنۡهُ حَتّٰى تَاۡتِيَهُمُ
-  السَّاعَةُ بَغۡتَةً اَوۡ يَاۡتِيَهُمۡ عَذَابُ يَوۡمٍ عَقِيۡمٍ‏
+arabic_ayat: وَلَا يَزَالُ ٱلَّذِينَ كَفَرُواْ فِي مِرۡيَةٖ مِّنۡهُ حَتَّىٰ تَأۡتِيَهُمُ
+  ٱلسَّاعَةُ بَغۡتَةً أَوۡ يَأۡتِيَهُمۡ عَذَابُ يَوۡمٍ عَقِيمٍ
 sentence_translation: Yet the disbelievers will persist in doubt about this ˹revelation˺
   until the Hour takes them by surprise, or the torment of a terminating Day comes
   to them.
@@ -14,19 +14,19 @@ word_by_word:
     translation: will cease
     transliteration: yazālu
   3:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   4:
-    arabic: كَفَرُوۡا
+    arabic: كَفَرُواْ
     translation: disbelieve
     transliteration: kafarū
   5:
-    arabic: فِىۡ
+    arabic: فِي
     translation: (to be) in
     transliteration: fī
   6:
-    arabic: مِرۡيَةٍ
+    arabic: مِرۡيَةٖ
     translation: doubt
     transliteration: mir'yatin
   7:
@@ -34,15 +34,15 @@ word_by_word:
     translation: of it
     transliteration: min'hu
   8:
-    arabic: حَتّٰى
+    arabic: حَتَّىٰ
     translation: until
     transliteration: ḥattā
   9:
-    arabic: تَاۡتِيَهُمُ
+    arabic: تَأۡتِيَهُمُ
     translation: comes to them
     transliteration: tatiyahumu
   10:
-    arabic: السَّاعَةُ
+    arabic: ٱلسَّاعَةُ
     translation: the Hour
     transliteration: l-sāʿatu
   11:
@@ -50,11 +50,11 @@ word_by_word:
     translation: suddenly
     transliteration: baghtatan
   12:
-    arabic: اَوۡ
+    arabic: أَوۡ
     translation: or
     transliteration: aw
   13:
-    arabic: يَاۡتِيَهُمۡ
+    arabic: يَأۡتِيَهُمۡ
     translation: comes to them
     transliteration: yatiyahum
   14:
@@ -66,7 +66,7 @@ word_by_word:
     translation: (of) a Day
     transliteration: yawmin
   16:
-    arabic: عَقِيۡمٍ‏
+    arabic: عَقِيمٍ
     translation: barren
     transliteration: ʿaqīmin
 ---

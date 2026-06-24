@@ -1,6 +1,6 @@
 ---
-arabic_ayat: وَلَا تُصَعِّرۡ خَدَّكَ لِلنَّاسِ وَلَا تَمۡشِ فِى الۡاَرۡضِ مَرَحًا
-  ​ؕ اِنَّ اللّٰهَ لَا يُحِبُّ كُلَّ مُخۡتَالٍ فَخُوۡرٍۚ‏
+arabic_ayat: وَلَا تُصَعِّرۡ خَدَّكَ لِلنَّاسِ وَلَا تَمۡشِ فِي ٱلۡأَرۡضِ مَرَحًاۖ
+  إِنَّ ٱللَّهَ لَا يُحِبُّ كُلَّ مُخۡتَالٖ فَخُورٖ
 sentence_translation: “And do not turn your nose up to people, nor walk pridefully
   upon the earth. Surely Allah does not like whoever is arrogant, boastful.
 word_by_word:
@@ -29,23 +29,23 @@ word_by_word:
     translation: walk
     transliteration: tamshi
   7:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   8:
-    arabic: الۡاَرۡضِ
+    arabic: ٱلۡأَرۡضِ
     translation: the earth
     transliteration: l-arḍi
   9:
-    arabic: مَرَحًا ​ؕ
+    arabic: مَرَحًاۖ
     translation: exultantly
     transliteration: maraḥan
   10:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   11:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   12:
@@ -61,11 +61,11 @@ word_by_word:
     translation: every
     transliteration: kulla
   15:
-    arabic: مُخۡتَالٍ
+    arabic: مُخۡتَالٖ
     translation: self-conceited
     transliteration: mukh'tālin
   16:
-    arabic: فَخُوۡرٍۚ‏
+    arabic: فَخُورٖ
     translation: boaster
     transliteration: fakhūrin
 ---

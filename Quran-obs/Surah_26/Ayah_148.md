@@ -1,13 +1,13 @@
 ---
-arabic_ayat: وَّزُرُوۡعٍ وَّنَخۡلٍ طَلۡعُهَا هَضِيۡمٌ​ۚ‏
+arabic_ayat: وَزُرُوعٖ وَنَخۡلٖ طَلۡعُهَا هَضِيمٞ
 sentence_translation: and ˹various˺ crops, and palm trees ˹loaded˺ with tender fruit;
 word_by_word:
   1:
-    arabic: وَّزُرُوۡعٍ
+    arabic: وَزُرُوعٖ
     translation: And cornfields
     transliteration: wazurūʿin
   2:
-    arabic: وَّنَخۡلٍ
+    arabic: وَنَخۡلٖ
     translation: and date-palms
     transliteration: wanakhlin
   3:
@@ -15,7 +15,7 @@ word_by_word:
     translation: its spadix
     transliteration: ṭalʿuhā
   4:
-    arabic: هَضِيۡمٌ​ۚ‏
+    arabic: هَضِيمٞ
     translation: soft
     transliteration: haḍīmun
 ---

@@ -1,7 +1,6 @@
 ---
-arabic_ayat: "وَهُوَ الۡقَاهِرُ فَوۡقَ عِبَادِهٖ​ وَيُرۡسِلُ عَلَيۡكُمۡ حَفَظَةً \
-  \ ؕ حَتّٰٓى اِذَا جَآءَ اَحَدَكُمُ الۡمَوۡتُ تَوَفَّتۡهُ رُسُلُـنَا وَهُمۡ لَا\
-  \ يُفَرِّطُوۡنَ‏ \uFEFF\uFEFF"
+arabic_ayat: وَهُوَ ٱلۡقَاهِرُ فَوۡقَ عِبَادِهِۦۖ وَيُرۡسِلُ عَلَيۡكُمۡ حَفَظَةً حَتَّىٰٓ
+  إِذَا جَآءَ أَحَدَكُمُ ٱلۡمَوۡتُ تَوَفَّتۡهُ رُسُلُنَا وَهُمۡ لَا يُفَرِّطُونَ
 sentence_translation: He reigns supreme over all of His creation, and sends recording-angels,
   watching over you. When death comes to any of you, Our angels take their soul, never
   neglecting this duty.
@@ -11,7 +10,7 @@ word_by_word:
     translation: And He
     transliteration: wahuwa
   2:
-    arabic: الۡقَاهِرُ
+    arabic: ٱلۡقَاهِرُ
     translation: (is) the Subjugator
     transliteration: l-qāhiru
   3:
@@ -19,7 +18,7 @@ word_by_word:
     translation: over
     transliteration: fawqa
   4:
-    arabic: عِبَادِهٖ​
+    arabic: عِبَادِهِۦۖ
     translation: His slaves
     transliteration: ʿibādihi
   5:
@@ -31,15 +30,15 @@ word_by_word:
     translation: over you
     transliteration: ʿalaykum
   7:
-    arabic: حَفَظَةً  ؕ
+    arabic: حَفَظَةً
     translation: guardians
     transliteration: ḥafaẓatan
   8:
-    arabic: حَتّٰٓى
+    arabic: حَتَّىٰٓ
     translation: until
     transliteration: ḥattā
   9:
-    arabic: اِذَا
+    arabic: إِذَا
     translation: when
     transliteration: idhā
   10:
@@ -47,11 +46,11 @@ word_by_word:
     translation: comes
     transliteration: jāa
   11:
-    arabic: اَحَدَكُمُ
+    arabic: أَحَدَكُمُ
     translation: (to) anyone of you
     transliteration: aḥadakumu
   12:
-    arabic: الۡمَوۡتُ
+    arabic: ٱلۡمَوۡتُ
     translation: the death
     transliteration: l-mawtu
   13:
@@ -59,7 +58,7 @@ word_by_word:
     translation: take him
     transliteration: tawaffathu
   14:
-    arabic: رُسُلُـنَا
+    arabic: رُسُلُنَا
     translation: Our messengers
     transliteration: rusulunā
   15:
@@ -71,7 +70,7 @@ word_by_word:
     translation: (do) not
     transliteration: lā
   17:
-    arabic: "يُفَرِّطُوۡنَ‏ \uFEFF\uFEFF"
+    arabic: يُفَرِّطُونَ
     translation: fail
     transliteration: yufarriṭūna
 ---

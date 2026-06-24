@@ -1,5 +1,5 @@
 ---
-arabic_ayat: نَحۡنُ جَعَلۡنٰهَا تَذۡكِرَةً وَّمَتَاعًا لِّلۡمُقۡوِيۡنَ​ۚ‏
+arabic_ayat: نَحۡنُ جَعَلۡنَٰهَا تَذۡكِرَةٗ وَمَتَٰعٗا لِّلۡمُقۡوِينَ
 sentence_translation: We have made it ˹as˺ a reminder ˹of the Hellfire˺ and a provision
   for the travellers.
 word_by_word:
@@ -8,19 +8,19 @@ word_by_word:
     translation: We
     transliteration: naḥnu
   2:
-    arabic: جَعَلۡنٰهَا
+    arabic: جَعَلۡنَٰهَا
     translation: have made it
     transliteration: jaʿalnāhā
   3:
-    arabic: تَذۡكِرَةً
+    arabic: تَذۡكِرَةٗ
     translation: a reminder
     transliteration: tadhkiratan
   4:
-    arabic: وَّمَتَاعًا
+    arabic: وَمَتَٰعٗا
     translation: and a provision
     transliteration: wamatāʿan
   5:
-    arabic: لِّلۡمُقۡوِيۡنَ​ۚ‏
+    arabic: لِّلۡمُقۡوِينَ
     translation: for the wayfarers in the desert
     transliteration: lil'muq'wīna
 ---

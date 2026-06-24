@@ -1,15 +1,15 @@
 ---
-arabic_ayat: "رَبَّنَاۤ اٰتِهِمۡ ضِعۡفَيۡنِ مِنَ الۡعَذَابِ وَالۡعَنۡهُمۡ لَعۡنًا\
-  \ كَبِيۡرًا‏ \uFEFF\uFEFF"
+arabic_ayat: رَبَّنَآ ءَاتِهِمۡ ضِعۡفَيۡنِ مِنَ ٱلۡعَذَابِ وَٱلۡعَنۡهُمۡ لَعۡنٗا
+  كَبِيرٗا
 sentence_translation: Our Lord! Give them double ˹our˺ punishment, and condemn them
   tremendously.”
 word_by_word:
   1:
-    arabic: رَبَّنَاۤ
+    arabic: رَبَّنَآ ءَ
     translation: Our Lord
     transliteration: rabbanā
   2:
-    arabic: اٰتِهِمۡ
+    arabic: اتِهِمۡ
     translation: Give them
     transliteration: ātihim
   3:
@@ -21,19 +21,19 @@ word_by_word:
     translation: '[of]'
     transliteration: mina
   5:
-    arabic: الۡعَذَابِ
+    arabic: ٱلۡعَذَابِ
     translation: punishment
     transliteration: l-ʿadhābi
   6:
-    arabic: وَالۡعَنۡهُمۡ
+    arabic: وَٱلۡعَنۡهُمۡ
     translation: and curse them
     transliteration: wal-ʿanhum
   7:
-    arabic: لَعۡنًا
+    arabic: لَعۡنٗا
     translation: (with) a curse
     transliteration: laʿnan
   8:
-    arabic: "كَبِيۡرًا‏ \uFEFF\uFEFF"
+    arabic: كَبِيرٗا
     translation: great
     transliteration: kabīran
 ---

@@ -1,6 +1,6 @@
 ---
-arabic_ayat: تَعۡرُجُ الۡمَلٰٓٮِٕكَةُ وَ الرُّوۡحُ اِلَيۡهِ فِىۡ يَوۡمٍ كَانَ مِقۡدَارُهٗ
-  خَمۡسِيۡنَ اَلۡفَ سَنَةٍ​ۚ‏
+arabic_ayat: تَعۡرُجُ ٱلۡمَلَٰٓئِكَةُ وَٱلرُّوحُ إِلَيۡهِ فِي يَوۡمٖ كَانَ مِقۡدَارُهُۥ
+  خَمۡسِينَ أَلۡفَ سَنَةٖ
 sentence_translation: ˹through which˺ the angels and the ˹holy˺ spirit will ascend
   to Him on a Day fifty thousand years in length.
 word_by_word:
@@ -9,23 +9,23 @@ word_by_word:
     translation: Ascend
     transliteration: taʿruju
   2:
-    arabic: الۡمَلٰٓٮِٕكَةُ
+    arabic: ٱلۡمَلَٰٓئِكَةُ
     translation: the Angels
     transliteration: l-malāikatu
   3:
-    arabic: وَ الرُّوۡحُ
+    arabic: وَٱلرُّوحُ
     translation: and the Spirit
     transliteration: wal-rūḥu
   4:
-    arabic: اِلَيۡهِ
+    arabic: إِلَيۡهِ
     translation: to Him
     transliteration: ilayhi
   5:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   6:
-    arabic: يَوۡمٍ
+    arabic: يَوۡمٖ
     translation: a Day
     transliteration: yawmin
   7:
@@ -33,19 +33,19 @@ word_by_word:
     translation: '[is]'
     transliteration: kāna
   8:
-    arabic: مِقۡدَارُهٗ
+    arabic: مِقۡدَارُهُۥ
     translation: its measure
     transliteration: miq'dāruhu
   9:
-    arabic: خَمۡسِيۡنَ
+    arabic: خَمۡسِينَ
     translation: (is) fifty
     transliteration: khamsīna
   10:
-    arabic: اَلۡفَ
+    arabic: أَلۡفَ
     translation: thousand
     transliteration: alfa
   11:
-    arabic: سَنَةٍ​ۚ‏
+    arabic: سَنَةٖ
     translation: year(s)
     transliteration: sanatin
 ---

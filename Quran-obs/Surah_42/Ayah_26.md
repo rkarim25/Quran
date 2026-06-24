@@ -1,44 +1,44 @@
 ---
-arabic_ayat: وَيَسۡتَجِيۡبُ الَّذِيۡنَ اٰمَنُوۡا وَعَمِلُوا الصّٰلِحٰتِ وَيَزِيۡدُهُمۡ
-  مِّنۡ فَضۡلِهٖ​ؕ وَالۡكٰفِرُوۡنَ لَهُمۡ عَذَابٌ شَدِيۡدٌ‏
+arabic_ayat: وَيَسۡتَجِيبُ ٱلَّذِينَ ءَامَنُواْ وَعَمِلُواْ ٱلصَّٰلِحَٰتِ وَيَزِيدُهُم
+  مِّن فَضۡلِهِۦۚ وَٱلۡكَٰفِرُونَ لَهُمۡ عَذَابٞ شَدِيدٞ
 sentence_translation: He responds to those who believe and do good, and increases
   their reward out of His grace. As for the disbelievers, they will suffer a severe
   punishment.
 word_by_word:
   1:
-    arabic: وَيَسۡتَجِيۡبُ
+    arabic: وَيَسۡتَجِيبُ
     translation: And He answers
     transliteration: wayastajību
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ ءَ
     translation: those who
     transliteration: alladhīna
   3:
-    arabic: اٰمَنُوۡا
+    arabic: امَنُواْ
     translation: believe
     transliteration: āmanū
   4:
-    arabic: وَعَمِلُوا
+    arabic: وَعَمِلُواْ
     translation: and do
     transliteration: waʿamilū
   5:
-    arabic: الصّٰلِحٰتِ
+    arabic: ٱلصَّٰلِحَٰتِ
     translation: righteous deeds
     transliteration: l-ṣāliḥāti
   6:
-    arabic: وَيَزِيۡدُهُمۡ
+    arabic: وَيَزِيدُهُم
     translation: and increases (for) them
     transliteration: wayazīduhum
   7:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: from
     transliteration: min
   8:
-    arabic: فَضۡلِهٖ​ؕ
+    arabic: فَضۡلِهِۦۚ
     translation: His Bounty
     transliteration: faḍlihi
   9:
-    arabic: وَالۡكٰفِرُوۡنَ
+    arabic: وَٱلۡكَٰفِرُونَ
     translation: 'And the disbelievers '
     transliteration: wal-kāfirūna
   10:
@@ -46,11 +46,11 @@ word_by_word:
     translation: for them
     transliteration: lahum
   11:
-    arabic: عَذَابٌ
+    arabic: عَذَابٞ
     translation: (will be) a punishment
     transliteration: ʿadhābun
   12:
-    arabic: شَدِيۡدٌ‏
+    arabic: شَدِيدٞ
     translation: severe
     transliteration: shadīdun
 ---

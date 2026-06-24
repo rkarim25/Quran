@@ -1,5 +1,5 @@
 ---
-arabic_ayat: يَخۡرُجُ مِنۡهُمَا اللُّـؤۡلُـؤُ وَالۡمَرۡجَانُ​ۚ‏
+arabic_ayat: يَخۡرُجُ مِنۡهُمَا ٱللُّؤۡلُؤُ وَٱلۡمَرۡجَانُ
 sentence_translation: Out of both ˹waters˺ come forth pearls and coral.
 word_by_word:
   1:
@@ -11,11 +11,11 @@ word_by_word:
     translation: from both of them
     transliteration: min'humā
   3:
-    arabic: اللُّـؤۡلُـؤُ
+    arabic: ٱللُّؤۡلُؤُ
     translation: the pearl
     transliteration: l-lu'lu-u
   4:
-    arabic: وَالۡمَرۡجَانُ​ۚ‏
+    arabic: وَٱلۡمَرۡجَانُ
     translation: and the coral
     transliteration: wal-marjānu
 ---

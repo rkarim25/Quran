@@ -1,41 +1,41 @@
 ---
-arabic_ayat: وَمَاۤ اٰتَيۡتُمۡ مِّنۡ رِّبًا لِّيَرۡبُوَا۟ فِىۡۤ اَمۡوَالِ النَّاسِ
-  فَلَا يَرۡبُوۡا عِنۡدَ اللّٰهِ​ۚ وَمَاۤ اٰتَيۡتُمۡ مِّنۡ زَكٰوةٍ تُرِيۡدُوۡنَ وَجۡهَ
-  اللّٰهِ فَاُولٰٓٮِٕكَ هُمُ الۡمُضۡعِفُوۡنَ‏
+arabic_ayat: وَمَآ ءَاتَيۡتُم مِّن رِّبٗا لِّيَرۡبُوَاْ فِيٓ أَمۡوَٰلِ ٱلنَّاسِ فَلَا
+  يَرۡبُواْ عِندَ ٱللَّهِۖ وَمَآ ءَاتَيۡتُم مِّن زَكَوٰةٖ تُرِيدُونَ وَجۡهَ ٱللَّهِ
+  فَأُوْلَٰٓئِكَ هُمُ ٱلۡمُضۡعِفُونَ
 sentence_translation: Whatever loans you give, ˹only˺ seeking interest at the expense
   of people’s wealth will not increase with Allah. But whatever charity you give,
   ˹only˺ seeking the pleasure of Allah—it is they whose reward will be multiplied.
 word_by_word:
   1:
-    arabic: وَمَاۤ
+    arabic: وَمَآ ءَ
     translation: And what
     transliteration: wamā
   2:
-    arabic: اٰتَيۡتُمۡ
+    arabic: اتَيۡتُم
     translation: you give
     transliteration: ātaytum
   3:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: for
     transliteration: min
   4:
-    arabic: رِّبًا
+    arabic: رِّبٗا
     translation: usury
     transliteration: riban
   5:
-    arabic: لِّيَرۡبُوَا۟
+    arabic: لِّيَرۡبُوَاْ
     translation: to increase
     transliteration: liyarbuwā
   6:
-    arabic: فِىۡۤ
+    arabic: فِيٓ
     translation: in
     transliteration: fī
   7:
-    arabic: اَمۡوَالِ
+    arabic: أَمۡوَٰلِ
     translation: (the) wealth
     transliteration: amwāli
   8:
-    arabic: النَّاسِ
+    arabic: ٱلنَّاسِ
     translation: (of) people
     transliteration: l-nāsi
   9:
@@ -43,35 +43,35 @@ word_by_word:
     translation: not
     transliteration: falā
   10:
-    arabic: يَرۡبُوۡا
+    arabic: يَرۡبُواْ
     translation: (will) increase
     transliteration: yarbū
   11:
-    arabic: عِنۡدَ
+    arabic: عِندَ
     translation: with
     transliteration: ʿinda
   12:
-    arabic: اللّٰهِ​ۚ
+    arabic: ٱللَّهِۖ
     translation: Allah
     transliteration: l-lahi
   13:
-    arabic: وَمَاۤ
+    arabic: وَمَآ ءَ
     translation: But what
     transliteration: wamā
   14:
-    arabic: اٰتَيۡتُمۡ
+    arabic: اتَيۡتُم
     translation: you give
     transliteration: ātaytum
   15:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: of
     transliteration: min
   16:
-    arabic: زَكٰوةٍ
+    arabic: زَكَوٰةٖ
     translation: zakah
     transliteration: zakatin
   17:
-    arabic: تُرِيۡدُوۡنَ
+    arabic: تُرِيدُونَ
     translation: desiring
     transliteration: turīdūna
   18:
@@ -79,11 +79,11 @@ word_by_word:
     translation: (the) Countenance
     transliteration: wajha
   19:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (of) Allah
     transliteration: l-lahi
   20:
-    arabic: فَاُولٰٓٮِٕكَ
+    arabic: فَأُوْلَٰٓئِكَ
     translation: then those
     transliteration: fa-ulāika
   21:
@@ -91,7 +91,7 @@ word_by_word:
     translation: '[they]'
     transliteration: humu
   22:
-    arabic: الۡمُضۡعِفُوۡنَ‏
+    arabic: ٱلۡمُضۡعِفُونَ
     translation: (will) get manifold
     transliteration: l-muḍ'ʿifūna
 ---

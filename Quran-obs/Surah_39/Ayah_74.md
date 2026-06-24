@@ -1,24 +1,24 @@
 ---
-arabic_ayat: وَقَالُوا الۡحَمۡدُ لِلّٰهِ الَّذِىۡ صَدَقَنَا وَعۡدَهٗ وَاَوۡرَثَنَا
-  الۡاَرۡضَ نَتَبَوَّاُ مِنَ الۡجَـنَّةِ حَيۡثُ نَشَآءُ ​ۚ فَنِعۡمَ اَجۡرُ الۡعٰمِلِيۡنَ‏
+arabic_ayat: وَقَالُواْ ٱلۡحَمۡدُ لِلَّهِ ٱلَّذِي صَدَقَنَا وَعۡدَهُۥ وَأَوۡرَثَنَا
+  ٱلۡأَرۡضَ نَتَبَوَّأُ مِنَ ٱلۡجَنَّةِ حَيۡثُ نَشَآءُۖ فَنِعۡمَ أَجۡرُ ٱلۡعَٰمِلِينَ
 sentence_translation: The righteous will say, “Praise be to Allah Who has fulfilled
   His promise to us, and made us inherit the ˹everlasting˺ land to settle in Paradise
   wherever we please.” How excellent is the reward of those who work ˹righteousness˺!
 word_by_word:
   1:
-    arabic: وَقَالُوا
+    arabic: وَقَالُواْ
     translation: And they will say
     transliteration: waqālū
   2:
-    arabic: الۡحَمۡدُ
+    arabic: ٱلۡحَمۡدُ
     translation: All praise
     transliteration: l-ḥamdu
   3:
-    arabic: لِلّٰهِ
+    arabic: لِلَّهِ
     translation: (be) to Allah
     transliteration: lillahi
   4:
-    arabic: الَّذِىۡ
+    arabic: ٱلَّذِي
     translation: Who
     transliteration: alladhī
   5:
@@ -26,19 +26,19 @@ word_by_word:
     translation: has fulfilled for us
     transliteration: ṣadaqanā
   6:
-    arabic: وَعۡدَهٗ
+    arabic: وَعۡدَهُۥ
     translation: His promise
     transliteration: waʿdahu
   7:
-    arabic: وَاَوۡرَثَنَا
+    arabic: وَأَوۡرَثَنَا
     translation: and has made us inherit
     transliteration: wa-awrathanā
   8:
-    arabic: الۡاَرۡضَ
+    arabic: ٱلۡأَرۡضَ
     translation: the earth
     transliteration: l-arḍa
   9:
-    arabic: نَتَبَوَّاُ
+    arabic: نَتَبَوَّأُ
     translation: we may settle
     transliteration: natabawwa-u
   10:
@@ -46,7 +46,7 @@ word_by_word:
     translation: '[from]'
     transliteration: mina
   11:
-    arabic: الۡجَـنَّةِ
+    arabic: ٱلۡجَنَّةِ
     translation: (in) Paradise
     transliteration: l-janati
   12:
@@ -54,7 +54,7 @@ word_by_word:
     translation: wherever
     transliteration: ḥaythu
   13:
-    arabic: نَشَآءُ ​ۚ
+    arabic: نَشَآءُۖ
     translation: we wish
     transliteration: nashāu
   14:
@@ -62,11 +62,11 @@ word_by_word:
     translation: So excellent
     transliteration: faniʿ'ma
   15:
-    arabic: اَجۡرُ
+    arabic: أَجۡرُ
     translation: (is the) reward
     transliteration: ajru
   16:
-    arabic: الۡعٰمِلِيۡنَ‏
+    arabic: ٱلۡعَٰمِلِينَ
     translation: (of) the workers
     transliteration: l-ʿāmilīna
 ---

@@ -1,29 +1,29 @@
 ---
-arabic_ayat: اِنْطَلِقُوۡۤا اِلٰى ظِلٍّ ذِىۡ ثَلٰثِ شُعَبٍۙ‏
+arabic_ayat: ٱنطَلِقُوٓاْ إِلَىٰ ظِلّٖ ذِي ثَلَٰثِ شُعَبٖ
 sentence_translation: Proceed into the shade ˹of smoke˺ which rises in three columns,
 word_by_word:
   1:
-    arabic: اِنْطَلِقُوۡۤا
+    arabic: ٱنطَلِقُوٓاْ
     translation: Proceed
     transliteration: inṭaliqū
   2:
-    arabic: اِلٰى
+    arabic: إِلَىٰ
     translation: to
     transliteration: ilā
   3:
-    arabic: ظِلٍّ
+    arabic: ظِلّٖ
     translation: a shadow
     transliteration: ẓillin
   4:
-    arabic: ذِىۡ
+    arabic: ذِي
     translation: having
     transliteration: dhī
   5:
-    arabic: ثَلٰثِ
+    arabic: ثَلَٰثِ
     translation: three
     transliteration: thalāthi
   6:
-    arabic: شُعَبٍۙ‏
+    arabic: شُعَبٖ
     translation: columns
     transliteration: shuʿabin
 ---

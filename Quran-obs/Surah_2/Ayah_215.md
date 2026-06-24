@@ -1,13 +1,13 @@
 ---
-arabic_ayat: يَسۡـــَٔلُوۡنَكَ مَاذَا يُنۡفِقُوۡنَ ؕ قُلۡ مَآ اَنۡفَقۡتُمۡ مِّنۡ
-  خَيۡرٍ فَلِلۡوَالِدَيۡنِ وَالۡاَقۡرَبِيۡنَ وَالۡيَتٰمٰى وَالۡمَسٰكِيۡنِ وَابۡنِ
-  السَّبِيۡلِ​ؕ وَمَا تَفۡعَلُوۡا مِنۡ خَيۡرٍ فَاِنَّ اللّٰهَ بِهٖ عَلِيۡمٌ‏
+arabic_ayat: يَسۡـَٔلُونَكَ مَاذَا يُنفِقُونَۖ قُلۡ مَآ أَنفَقۡتُم مِّنۡ خَيۡرٖ فَلِلۡوَٰلِدَيۡنِ
+  وَٱلۡأَقۡرَبِينَ وَٱلۡيَتَٰمَىٰ وَٱلۡمَسَٰكِينِ وَٱبۡنِ ٱلسَّبِيلِۗ وَمَا تَفۡعَلُواْ
+  مِنۡ خَيۡرٖ فَإِنَّ ٱللَّهَ بِهِۦ عَلِيمٞ
 sentence_translation: They ask you ˹O Prophet in˺ what ˹way˺ they should donate. Say,
   “Whatever donations you give are for parents, relatives, orphans, the poor, and
   ˹needy˺ travellers. Whatever good you do is certainly well known to Allah.”
 word_by_word:
   1:
-    arabic: يَسۡـــَٔلُوۡنَكَ
+    arabic: يَسۡـَٔلُونَكَ
     translation: They ask you
     transliteration: yasalūnaka
   2:
@@ -15,7 +15,7 @@ word_by_word:
     translation: what
     transliteration: mādhā
   3:
-    arabic: يُنۡفِقُوۡنَ ؕ
+    arabic: يُنفِقُونَۖ
     translation: they (should) spend
     transliteration: yunfiqūna
   4:
@@ -27,7 +27,7 @@ word_by_word:
     translation: Whatever
     transliteration: mā
   6:
-    arabic: اَنۡفَقۡتُمۡ
+    arabic: أَنفَقۡتُم
     translation: you spend
     transliteration: anfaqtum
   7:
@@ -35,31 +35,31 @@ word_by_word:
     translation: of
     transliteration: min
   8:
-    arabic: خَيۡرٍ
+    arabic: خَيۡرٖ
     translation: good
     transliteration: khayrin
   9:
-    arabic: فَلِلۡوَالِدَيۡنِ
+    arabic: فَلِلۡوَٰلِدَيۡنِ
     translation: (is) for parents
     transliteration: falil'wālidayni
   10:
-    arabic: وَالۡاَقۡرَبِيۡنَ
+    arabic: وَٱلۡأَقۡرَبِينَ
     translation: and the relatives
     transliteration: wal-aqrabīna
   11:
-    arabic: وَالۡيَتٰمٰى
+    arabic: وَٱلۡيَتَٰمَىٰ
     translation: and the orphans
     transliteration: wal-yatāmā
   12:
-    arabic: وَالۡمَسٰكِيۡنِ
+    arabic: وَٱلۡمَسَٰكِينِ
     translation: and the needy
     transliteration: wal-masākīni
   13:
-    arabic: وَابۡنِ
+    arabic: وَٱبۡنِ
     translation: and (of)
     transliteration: wa-ib'ni
   14:
-    arabic: السَّبِيۡلِ​ؕ
+    arabic: ٱلسَّبِيلِۗ
     translation: the wayfarer
     transliteration: l-sabīli
   15:
@@ -67,7 +67,7 @@ word_by_word:
     translation: And whatever
     transliteration: wamā
   16:
-    arabic: تَفۡعَلُوۡا
+    arabic: تَفۡعَلُواْ
     translation: you do
     transliteration: tafʿalū
   17:
@@ -75,23 +75,23 @@ word_by_word:
     translation: of
     transliteration: min
   18:
-    arabic: خَيۡرٍ
+    arabic: خَيۡرٖ
     translation: good
     transliteration: khayrin
   19:
-    arabic: فَاِنَّ
+    arabic: فَإِنَّ
     translation: So indeed
     transliteration: fa-inna
   20:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   21:
-    arabic: بِهٖ
+    arabic: بِهِۦ
     translation: of it
     transliteration: bihi
   22:
-    arabic: عَلِيۡمٌ‏
+    arabic: عَلِيمٞ
     translation: (is) All-Aware
     transliteration: ʿalīmun
 ---

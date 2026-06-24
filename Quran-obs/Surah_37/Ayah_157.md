@@ -1,25 +1,25 @@
 ---
-arabic_ayat: فَاۡتُوۡا بِكِتٰبِكُمۡ اِنۡ كُنۡتُمۡ صٰدِقِيۡنَ‏
+arabic_ayat: فَأۡتُواْ بِكِتَٰبِكُمۡ إِن كُنتُمۡ صَٰدِقِينَ
 sentence_translation: Then bring ˹us˺ your scripture, if what you say is true!
 word_by_word:
   1:
-    arabic: فَاۡتُوۡا
+    arabic: فَأۡتُواْ
     translation: Then bring
     transliteration: fatū
   2:
-    arabic: بِكِتٰبِكُمۡ
+    arabic: بِكِتَٰبِكُمۡ
     translation: your book
     transliteration: bikitābikum
   3:
-    arabic: اِنۡ
+    arabic: إِن
     translation: if
     transliteration: in
   4:
-    arabic: كُنۡتُمۡ
+    arabic: كُنتُمۡ
     translation: you are
     transliteration: kuntum
   5:
-    arabic: صٰدِقِيۡنَ‏
+    arabic: صَٰدِقِينَ
     translation: truthful
     transliteration: ṣādiqīna
 ---

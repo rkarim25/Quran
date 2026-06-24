@@ -1,7 +1,7 @@
 ---
-arabic_ayat: هُوَ الَّذِىۡ بَعَثَ فِى الۡاُمِّيّٖنَ رَسُوۡلًا مِّنۡهُمۡ يَتۡلُوۡا
-  عَلَيۡهِمۡ اٰيٰتِهٖ وَيُزَكِّيۡهِمۡ وَيُعَلِّمُهُمُ الۡكِتٰبَ وَالۡحِكۡمَةَ وَاِنۡ
-  كَانُوۡا مِنۡ قَبۡلُ لَفِىۡ ضَلٰلٍ مُّبِيۡنٍۙ‏
+arabic_ayat: هُوَ ٱلَّذِي بَعَثَ فِي ٱلۡأُمِّيِّـۧنَ رَسُولٗا مِّنۡهُمۡ يَتۡلُواْ
+  عَلَيۡهِمۡ ءَايَٰتِهِۦ وَيُزَكِّيهِمۡ وَيُعَلِّمُهُمُ ٱلۡكِتَٰبَ وَٱلۡحِكۡمَةَ وَإِن
+  كَانُواْ مِن قَبۡلُ لَفِي ضَلَٰلٖ مُّبِينٖ
 sentence_translation: He is the One Who raised for the illiterate ˹people˺ a messenger
   from among themselves—reciting to them His revelations, purifying them, and teaching
   them the Book and wisdom, for indeed they had previously been clearly astray—
@@ -11,7 +11,7 @@ word_by_word:
     translation: He
     transliteration: huwa
   2:
-    arabic: الَّذِىۡ
+    arabic: ٱلَّذِي
     translation: (is) the One Who
     transliteration: alladhī
   3:
@@ -19,15 +19,15 @@ word_by_word:
     translation: sent
     transliteration: baʿatha
   4:
-    arabic: فِى
+    arabic: فِي
     translation: among
     transliteration: fī
   5:
-    arabic: الۡاُمِّيّٖنَ
+    arabic: ٱلۡأُمِّيِّـۧنَ
     translation: the unlettered
     transliteration: l-umiyīna
   6:
-    arabic: رَسُوۡلًا
+    arabic: رَسُولٗا
     translation: a Messenger
     transliteration: rasūlan
   7:
@@ -35,19 +35,19 @@ word_by_word:
     translation: from themselves
     transliteration: min'hum
   8:
-    arabic: يَتۡلُوۡا
+    arabic: يَتۡلُواْ
     translation: reciting
     transliteration: yatlū
   9:
-    arabic: عَلَيۡهِمۡ
+    arabic: عَلَيۡهِمۡ ءَ
     translation: to them
     transliteration: ʿalayhim
   10:
-    arabic: اٰيٰتِهٖ
+    arabic: ايَٰتِهِۦ
     translation: His Verses
     transliteration: āyātihi
   11:
-    arabic: وَيُزَكِّيۡهِمۡ
+    arabic: وَيُزَكِّيهِمۡ
     translation: and purifying them
     transliteration: wayuzakkīhim
   12:
@@ -55,23 +55,23 @@ word_by_word:
     translation: and teaching them
     transliteration: wayuʿallimuhumu
   13:
-    arabic: الۡكِتٰبَ
+    arabic: ٱلۡكِتَٰبَ
     translation: the Book
     transliteration: l-kitāba
   14:
-    arabic: وَالۡحِكۡمَةَ
+    arabic: وَٱلۡحِكۡمَةَ
     translation: and the wisdom
     transliteration: wal-ḥik'mata
   15:
-    arabic: وَاِنۡ
+    arabic: وَإِن
     translation: although
     transliteration: wa-in
   16:
-    arabic: كَانُوۡا
+    arabic: كَانُواْ
     translation: they were
     transliteration: kānū
   17:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   18:
@@ -79,15 +79,15 @@ word_by_word:
     translation: before
     transliteration: qablu
   19:
-    arabic: لَفِىۡ
+    arabic: لَفِي
     translation: surely in
     transliteration: lafī
   20:
-    arabic: ضَلٰلٍ
+    arabic: ضَلَٰلٖ
     translation: an error
     transliteration: ḍalālin
   21:
-    arabic: مُّبِيۡنٍۙ‏
+    arabic: مُّبِينٖ
     translation: clear
     transliteration: mubīnin
 ---

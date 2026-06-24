@@ -1,17 +1,17 @@
 ---
-arabic_ayat: وَالۡجَـآنَّ خَلَقۡنٰهُ مِنۡ قَبۡلُ مِنۡ نَّارِ السَّمُوۡمِ‏
+arabic_ayat: وَٱلۡجَآنَّ خَلَقۡنَٰهُ مِن قَبۡلُ مِن نَّارِ ٱلسَّمُومِ
 sentence_translation: As for the jinn, We created them earlier from smokeless fire.
 word_by_word:
   1:
-    arabic: وَالۡجَـآنَّ
+    arabic: وَٱلۡجَآنَّ
     translation: And the jinn
     transliteration: wal-jāna
   2:
-    arabic: خَلَقۡنٰهُ
+    arabic: خَلَقۡنَٰهُ
     translation: We created it
     transliteration: khalaqnāhu
   3:
-    arabic: مِنۡ
+    arabic: مِن
     translation: before
     transliteration: min
   4:
@@ -19,7 +19,7 @@ word_by_word:
     translation: before
     transliteration: qablu
   5:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   6:
@@ -27,7 +27,7 @@ word_by_word:
     translation: fire
     transliteration: nāri
   7:
-    arabic: السَّمُوۡمِ‏
+    arabic: ٱلسَّمُومِ
     translation: scorching
     transliteration: l-samūmi
 ---

@@ -1,29 +1,28 @@
 ---
-arabic_ayat: "وَالَّذِيۡنَ هَاجَرُوۡا فِى اللّٰهِ مِنۡۢ بَعۡدِ مَا ظُلِمُوۡا لَـنُبَوِّئَنَّهُمۡ\
-  \ فِى الدُّنۡيَا حَسَنَةً​  ؕ وَلَاَجۡرُ الۡاٰخِرَةِ اَكۡبَرُ​ۘ لَوۡ كَانُوۡا يَعۡلَمُوۡنَۙ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: وَٱلَّذِينَ هَاجَرُواْ فِي ٱللَّهِ مِنۢ بَعۡدِ مَا ظُلِمُواْ لَنُبَوِّئَنَّهُمۡ
+  فِي ٱلدُّنۡيَا حَسَنَةٗۖ وَلَأَجۡرُ ٱلۡأٓخِرَةِ أَكۡبَرُۚ لَوۡ كَانُواْ يَعۡلَمُونَ
 sentence_translation: As for those who emigrated in ˹the cause of˺ Allah after being
   persecuted, We will surely bless them with a good home in this world. But the reward
   of the Hereafter is far better, if only they knew.
 word_by_word:
   1:
-    arabic: وَالَّذِيۡنَ
+    arabic: وَٱلَّذِينَ
     translation: And those who
     transliteration: wa-alladhīna
   2:
-    arabic: هَاجَرُوۡا
+    arabic: هَاجَرُواْ
     translation: emigrated
     transliteration: hājarū
   3:
-    arabic: فِى
+    arabic: فِي
     translation: in (the way)
     transliteration: fī
   4:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (of) Allah
     transliteration: l-lahi
   5:
-    arabic: مِنۡۢ
+    arabic: مِنۢ
     translation: after
     transliteration: min
   6:
@@ -35,35 +34,35 @@ word_by_word:
     translation: '[what]'
     transliteration: mā
   8:
-    arabic: ظُلِمُوۡا
+    arabic: ظُلِمُواْ
     translation: they were wronged
     transliteration: ẓulimū
   9:
-    arabic: لَـنُبَوِّئَنَّهُمۡ
+    arabic: لَنُبَوِّئَنَّهُمۡ
     translation: surely We will give them position
     transliteration: lanubawwi-annahum
   10:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   11:
-    arabic: الدُّنۡيَا
+    arabic: ٱلدُّنۡيَا
     translation: the world
     transliteration: l-dun'yā
   12:
-    arabic: حَسَنَةً​  ؕ
+    arabic: حَسَنَةٗۖ
     translation: good
     transliteration: ḥasanatan
   13:
-    arabic: وَلَاَجۡرُ
+    arabic: وَلَأَجۡرُ
     translation: but surely the reward
     transliteration: wala-ajru
   14:
-    arabic: الۡاٰخِرَةِ
+    arabic: ٱلۡأٓخِرَةِ
     translation: (of) the Hereafter
     transliteration: l-ākhirati
   15:
-    arabic: اَكۡبَرُ​ۘ
+    arabic: أَكۡبَرُۚ
     translation: (is) greater
     transliteration: akbaru
   16:
@@ -71,11 +70,11 @@ word_by_word:
     translation: if
     transliteration: law
   17:
-    arabic: كَانُوۡا
+    arabic: كَانُواْ
     translation: they
     transliteration: kānū
   18:
-    arabic: "يَعۡلَمُوۡنَۙ‏ \uFEFF\uFEFF"
+    arabic: يَعۡلَمُونَ
     translation: know
     transliteration: yaʿlamūna
 ---

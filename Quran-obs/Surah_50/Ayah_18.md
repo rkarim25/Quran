@@ -1,10 +1,10 @@
 ---
-arabic_ayat: مَا يَلۡفِظُ مِنۡ قَوۡلٍ اِلَّا لَدَيۡهِ رَقِيۡبٌ عَتِيۡدٌ‏
+arabic_ayat: مَّا يَلۡفِظُ مِن قَوۡلٍ إِلَّا لَدَيۡهِ رَقِيبٌ عَتِيدٞ
 sentence_translation: not a word does a person utter without having a ˹vigilant˺ observer
   ready ˹to write it down˺. 
 word_by_word:
   1:
-    arabic: مَا
+    arabic: مَّا
     translation: Not
     transliteration: mā
   2:
@@ -12,7 +12,7 @@ word_by_word:
     translation: he utters
     transliteration: yalfiẓu
   3:
-    arabic: مِنۡ
+    arabic: مِن
     translation: any
     transliteration: min
   4:
@@ -20,7 +20,7 @@ word_by_word:
     translation: word
     transliteration: qawlin
   5:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: but
     transliteration: illā
   6:
@@ -28,11 +28,11 @@ word_by_word:
     translation: with him
     transliteration: ladayhi
   7:
-    arabic: رَقِيۡبٌ
+    arabic: رَقِيبٌ
     translation: (is) an observer
     transliteration: raqībun
   8:
-    arabic: عَتِيۡدٌ‏
+    arabic: عَتِيدٞ
     translation: ready
     transliteration: ʿatīdun
 ---

@@ -1,12 +1,12 @@
 ---
-arabic_ayat: وَاِذۡ يَرۡفَعُ اِبۡرٰهٖمُ الۡقَوَاعِدَ مِنَ الۡبَيۡتِ وَاِسۡمٰعِيۡلُؕ
-  رَبَّنَا تَقَبَّلۡ مِنَّا ​ؕ اِنَّكَ اَنۡتَ السَّمِيۡعُ الۡعَلِيۡمُ‏
+arabic_ayat: وَإِذۡ يَرۡفَعُ إِبۡرَٰهِـۧمُ ٱلۡقَوَاعِدَ مِنَ ٱلۡبَيۡتِ وَإِسۡمَٰعِيلُ
+  رَبَّنَا تَقَبَّلۡ مِنَّآۖ إِنَّكَ أَنتَ ٱلسَّمِيعُ ٱلۡعَلِيمُ
 sentence_translation: And ˹remember˺ when Abraham raised the foundation of the House
   with Ishmael, ˹both praying,˺ “Our Lord! Accept ˹this˺ from us. You are indeed the
   All-Hearing, All-Knowing.
 word_by_word:
   1:
-    arabic: وَاِذۡ
+    arabic: وَإِذۡ
     translation: And when
     transliteration: wa-idh
   2:
@@ -14,11 +14,11 @@ word_by_word:
     translation: (was) raising
     transliteration: yarfaʿu
   3:
-    arabic: اِبۡرٰهٖمُ
+    arabic: إِبۡرَٰهِـۧمُ
     translation: Ibrahim
     transliteration: ib'rāhīmu
   4:
-    arabic: الۡقَوَاعِدَ
+    arabic: ٱلۡقَوَاعِدَ
     translation: the foundations
     transliteration: l-qawāʿida
   5:
@@ -26,11 +26,11 @@ word_by_word:
     translation: of
     transliteration: mina
   6:
-    arabic: الۡبَيۡتِ
+    arabic: ٱلۡبَيۡتِ
     translation: the House
     transliteration: l-bayti
   7:
-    arabic: وَاِسۡمٰعِيۡلُؕ
+    arabic: وَإِسۡمَٰعِيلُ
     translation: and Ishmael
     transliteration: wa-is'māʿīlu
   8:
@@ -42,23 +42,23 @@ word_by_word:
     translation: Accept
     transliteration: taqabbal
   10:
-    arabic: مِنَّا ​ؕ
+    arabic: مِنَّآۖ
     translation: from us
     transliteration: minnā
   11:
-    arabic: اِنَّكَ
+    arabic: إِنَّكَ
     translation: Indeed You
     transliteration: innaka
   12:
-    arabic: اَنۡتَ
+    arabic: أَنتَ
     translation: '[You] (are)'
     transliteration: anta
   13:
-    arabic: السَّمِيۡعُ
+    arabic: ٱلسَّمِيعُ
     translation: the All-Hearing
     transliteration: l-samīʿu
   14:
-    arabic: الۡعَلِيۡمُ‏
+    arabic: ٱلۡعَلِيمُ
     translation: the All-Knowing
     transliteration: l-ʿalīmu
 ---

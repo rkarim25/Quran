@@ -1,21 +1,21 @@
 ---
-arabic_ayat: يٰۤـاَيُّهَا الَّذِيۡنَ اٰمَنُوۡا لَا تَتَّخِذُوا الۡيَهُوۡدَ وَالنَّصٰرٰۤى
-  اَوۡلِيَآءَ ​ۘ بَعۡضُهُمۡ اَوۡلِيَآءُ بَعۡضٍ​ؕ وَمَنۡ يَّتَوَلَّهُمۡ مِّنۡكُمۡ
-  فَاِنَّهٗ مِنۡهُمۡ​ؕ اِنَّ اللّٰهَ لَا يَهۡدِى الۡقَوۡمَ الظّٰلِمِيۡنَ‏
+arabic_ayat: ۞ يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُواْ لَا تَتَّخِذُواْ ٱلۡيَهُودَ وَٱلنَّصَٰرَىٰٓ
+  أَوۡلِيَآءَۘ بَعۡضُهُمۡ أَوۡلِيَآءُ بَعۡضٖۚ وَمَن يَتَوَلَّهُم مِّنكُمۡ فَإِنَّهُۥ
+  مِنۡهُمۡۗ إِنَّ ٱللَّهَ لَا يَهۡدِي ٱلۡقَوۡمَ ٱلظَّٰلِمِينَ
 sentence_translation: O believers! Take neither Jews nor Christians as guardians—they
   are guardians of each other. Whoever does so will be counted as one of them. Surely
   Allah does not guide the wrongdoing people.
 word_by_word:
   1:
-    arabic: ۞ يٰۤـاَيُّهَا
+    arabic: ۞ يَٰٓأَيُّهَا
     translation: O you
     transliteration: yāayyuhā
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ ءَ
     translation: who
     transliteration: alladhīna
   3:
-    arabic: اٰمَنُوۡا
+    arabic: امَنُواْ
     translation: believe
     transliteration: āmanū
   4:
@@ -23,19 +23,19 @@ word_by_word:
     translation: (Do) not
     transliteration: lā
   5:
-    arabic: تَتَّخِذُوا
+    arabic: تَتَّخِذُواْ
     translation: take
     transliteration: tattakhidhū
   6:
-    arabic: الۡيَهُوۡدَ
+    arabic: ٱلۡيَهُودَ
     translation: the Jews
     transliteration: l-yahūda
   7:
-    arabic: وَالنَّصٰرٰۤى
+    arabic: وَٱلنَّصَٰرَىٰٓ
     translation: and the Christians
     transliteration: wal-naṣārā
   8:
-    arabic: اَوۡلِيَآءَ ​ۘ
+    arabic: أَوۡلِيَآءَۘ
     translation: (as) allies
     transliteration: awliyāa
   9:
@@ -43,39 +43,39 @@ word_by_word:
     translation: Some of them
     transliteration: baʿḍuhum
   10:
-    arabic: اَوۡلِيَآءُ
+    arabic: أَوۡلِيَآءُ
     translation: (are) allies
     transliteration: awliyāu
   11:
-    arabic: بَعۡضٍ​ؕ
+    arabic: بَعۡضٖۚ
     translation: (to) others
     transliteration: baʿḍin
   12:
-    arabic: وَمَنۡ
+    arabic: وَمَن
     translation: And whoever
     transliteration: waman
   13:
-    arabic: يَّتَوَلَّهُمۡ
+    arabic: يَتَوَلَّهُم
     translation: takes them as allies
     transliteration: yatawallahum
   14:
-    arabic: مِّنۡكُمۡ
+    arabic: مِّنكُمۡ
     translation: among you
     transliteration: minkum
   15:
-    arabic: فَاِنَّهٗ
+    arabic: فَإِنَّهُۥ
     translation: then indeed, he
     transliteration: fa-innahu
   16:
-    arabic: مِنۡهُمۡ​ؕ
+    arabic: مِنۡهُمۡۗ
     translation: (is) of them
     transliteration: min'hum
   17:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   18:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   19:
@@ -83,15 +83,15 @@ word_by_word:
     translation: (does) not
     transliteration: lā
   20:
-    arabic: يَهۡدِى
+    arabic: يَهۡدِي
     translation: guide
     transliteration: yahdī
   21:
-    arabic: الۡقَوۡمَ
+    arabic: ٱلۡقَوۡمَ
     translation: the people
     transliteration: l-qawma
   22:
-    arabic: الظّٰلِمِيۡنَ‏
+    arabic: ٱلظَّٰلِمِينَ
     translation: the wrongdoing
     transliteration: l-ẓālimīna
 ---

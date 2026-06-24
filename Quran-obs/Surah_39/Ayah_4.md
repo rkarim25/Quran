@@ -1,35 +1,35 @@
 ---
-arabic_ayat: لَوۡ اَرَادَ اللّٰهُ اَنۡ يَّـتَّخِذَ وَلَدًا لَّاصۡطَفٰى مِمَّا يَخۡلُقُ
-  مَا يَشَآءُ​ ۙ سُبۡحٰنَهٗ​ ؕ هُوَ اللّٰهُ الۡوَاحِدُ الۡقَهَّارُ‏
+arabic_ayat: لَّوۡ أَرَادَ ٱللَّهُ أَن يَتَّخِذَ وَلَدٗا لَّٱصۡطَفَىٰ مِمَّا يَخۡلُقُ
+  مَا يَشَآءُۚ سُبۡحَٰنَهُۥۖ هُوَ ٱللَّهُ ٱلۡوَٰحِدُ ٱلۡقَهَّارُ
 sentence_translation: Had it been Allah’s Will to have offspring, He could have chosen
   whatever He willed of His creation. Glory be to Him! He is Allah—the One, the Supreme.
 word_by_word:
   1:
-    arabic: لَوۡ
+    arabic: لَّوۡ
     translation: If
     transliteration: law
   2:
-    arabic: اَرَادَ
+    arabic: أَرَادَ
     translation: Allah (had) intended
     transliteration: arāda
   3:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah (had) intended
     transliteration: l-lahu
   4:
-    arabic: اَنۡ
+    arabic: أَن
     translation: to
     transliteration: an
   5:
-    arabic: يَّـتَّخِذَ
+    arabic: يَتَّخِذَ
     translation: take
     transliteration: yattakhidha
   6:
-    arabic: وَلَدًا
+    arabic: وَلَدٗا
     translation: a son
     transliteration: waladan
   7:
-    arabic: لَّاصۡطَفٰى
+    arabic: لَّٱصۡطَفَىٰ
     translation: surely, He (could) have chosen
     transliteration: la-iṣ'ṭafā
   8:
@@ -45,11 +45,11 @@ word_by_word:
     translation: whatever
     transliteration: mā
   11:
-    arabic: يَشَآءُ​ ۙ
+    arabic: يَشَآءُۚ
     translation: He willed
     transliteration: yashāu
   12:
-    arabic: سُبۡحٰنَهٗ​ ؕ
+    arabic: سُبۡحَٰنَهُۥۖ
     translation: Glory be to Him
     transliteration: sub'ḥānahu
   13:
@@ -57,15 +57,15 @@ word_by_word:
     translation: He
     transliteration: huwa
   14:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: (is) Allah
     transliteration: l-lahu
   15:
-    arabic: الۡوَاحِدُ
+    arabic: ٱلۡوَٰحِدُ
     translation: the One
     transliteration: l-wāḥidu
   16:
-    arabic: الۡقَهَّارُ‏
+    arabic: ٱلۡقَهَّارُ
     translation: the Irresistible
     transliteration: l-qahāru
 ---

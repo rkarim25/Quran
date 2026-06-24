@@ -1,37 +1,36 @@
 ---
-arabic_ayat: "​وَيَقُوۡلُوۡنَ لَوۡلَاۤ اُنۡزِلَ عَلَيۡهِ اٰيَةٌ مِّنۡ رَّبِّهٖ​ ۚ\
-  \ فَقُلۡ اِنَّمَا الۡغَيۡبُ لِلّٰهِ فَانْتَظِرُوۡا​ ۚ اِنِّىۡ مَعَكُمۡ مِّنَ الۡمُنۡتَظِرِيۡنَ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: وَيَقُولُونَ لَوۡلَآ أُنزِلَ عَلَيۡهِ ءَايَةٞ مِّن رَّبِّهِۦۖ فَقُلۡ
+  إِنَّمَا ٱلۡغَيۡبُ لِلَّهِ فَٱنتَظِرُوٓاْ إِنِّي مَعَكُم مِّنَ ٱلۡمُنتَظِرِينَ
 sentence_translation: They ask, “Why has no ˹other˺ sign been sent down to him from
   his Lord?” Say, ˹O Prophet,˺ “˹The knowledge of˺ the unseen is with Allah alone.
   So wait! I too am waiting with you.”
 word_by_word:
   1:
-    arabic: ​وَيَقُوۡلُوۡنَ
+    arabic: وَيَقُولُونَ
     translation: And they say
     transliteration: wayaqūlūna
   2:
-    arabic: لَوۡلَاۤ
+    arabic: لَوۡلَآ
     translation: Why not
     transliteration: lawlā
   3:
-    arabic: اُنۡزِلَ
+    arabic: أُنزِلَ
     translation: is sent down
     transliteration: unzila
   4:
-    arabic: عَلَيۡهِ
+    arabic: عَلَيۡهِ ءَ
     translation: to him
     transliteration: ʿalayhi
   5:
-    arabic: اٰيَةٌ
+    arabic: ايَةٞ
     translation: a Sign
     transliteration: āyatun
   6:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: from
     transliteration: min
   7:
-    arabic: رَّبِّهٖ​ ۚ
+    arabic: رَّبِّهِۦۖ
     translation: his Lord
     transliteration: rabbihi
   8:
@@ -39,27 +38,27 @@ word_by_word:
     translation: So say
     transliteration: faqul
   9:
-    arabic: اِنَّمَا
+    arabic: إِنَّمَا
     translation: Only
     transliteration: innamā
   10:
-    arabic: الۡغَيۡبُ
+    arabic: ٱلۡغَيۡبُ
     translation: the unseen
     transliteration: l-ghaybu
   11:
-    arabic: لِلّٰهِ
+    arabic: لِلَّهِ
     translation: (is) for Allah
     transliteration: lillahi
   12:
-    arabic: فَانْتَظِرُوۡا​ ۚ
+    arabic: فَٱنتَظِرُوٓاْ
     translation: so wait
     transliteration: fa-intaẓirū
   13:
-    arabic: اِنِّىۡ
+    arabic: إِنِّي
     translation: indeed, I am
     transliteration: innī
   14:
-    arabic: مَعَكُمۡ
+    arabic: مَعَكُم
     translation: with you
     transliteration: maʿakum
   15:
@@ -67,7 +66,7 @@ word_by_word:
     translation: among
     transliteration: mina
   16:
-    arabic: "الۡمُنۡتَظِرِيۡنَ‏ \uFEFF\uFEFF"
+    arabic: ٱلۡمُنتَظِرِينَ
     translation: the ones who wait
     transliteration: l-muntaẓirīna
 ---

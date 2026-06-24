@@ -1,6 +1,6 @@
 ---
-arabic_ayat: قُلۡ اَذٰ لِكَ خَيۡرٌ اَمۡ جَنَّةُ الۡخُـلۡدِ الَّتِىۡ وُعِدَ الۡمُتَّقُوۡنَ
-  ​ؕ كَانَتۡ لَهُمۡ جَزَآءً وَّمَصِيۡرًا‏
+arabic_ayat: قُلۡ أَذَٰلِكَ خَيۡرٌ أَمۡ جَنَّةُ ٱلۡخُلۡدِ ٱلَّتِي وُعِدَ ٱلۡمُتَّقُونَۚ
+  كَانَتۡ لَهُمۡ جَزَآءٗ وَمَصِيرٗا
 sentence_translation: Say, ˹O Prophet,˺ “Is this better or the Garden of Eternity
   which the righteous have been promised, as a reward and ˹an ultimate˺ destination?
 word_by_word:
@@ -9,7 +9,7 @@ word_by_word:
     translation: Say
     transliteration: qul
   2:
-    arabic: اَذٰ لِكَ
+    arabic: أَذَٰلِكَ
     translation: Is that
     transliteration: adhālika
   3:
@@ -17,7 +17,7 @@ word_by_word:
     translation: better
     transliteration: khayrun
   4:
-    arabic: اَمۡ
+    arabic: أَمۡ
     translation: or
     transliteration: am
   5:
@@ -25,11 +25,11 @@ word_by_word:
     translation: Garden
     transliteration: jannatu
   6:
-    arabic: الۡخُـلۡدِ
+    arabic: ٱلۡخُلۡدِ
     translation: (of) Eternity
     transliteration: l-khul'di
   7:
-    arabic: الَّتِىۡ
+    arabic: ٱلَّتِي
     translation: which
     transliteration: allatī
   8:
@@ -37,7 +37,7 @@ word_by_word:
     translation: is promised
     transliteration: wuʿida
   9:
-    arabic: الۡمُتَّقُوۡنَ ​ؕ
+    arabic: ٱلۡمُتَّقُونَۚ
     translation: (to) the righteous
     transliteration: l-mutaqūna
   10:
@@ -49,11 +49,11 @@ word_by_word:
     translation: for them
     transliteration: lahum
   12:
-    arabic: جَزَآءً
+    arabic: جَزَآءٗ
     translation: a reward
     transliteration: jazāan
   13:
-    arabic: وَّمَصِيۡرًا‏
+    arabic: وَمَصِيرٗا
     translation: and destination
     transliteration: wamaṣīran
 ---

@@ -1,8 +1,7 @@
 ---
-arabic_ayat: "قُلۡ اَغَيۡرَ اللّٰهِ اَبۡغِىۡ رَبًّا وَّهُوَ رَبُّ كُلِّ شَىۡءٍ​ ؕ\
-  \ وَلَا تَكۡسِبُ كُلُّ نَـفۡسٍ اِلَّا عَلَيۡهَا​ۚ وَلَا تَزِرُ وَازِرَةٌ وِّزۡرَ\
-  \ اُخۡرٰى​ ۚ ثُمَّ اِلٰى رَبِّكُمۡ مَّرۡجِعُكُمۡ فَيُنَبِّئُكُمۡ بِمَا كُنۡـتُمۡ\
-  \ فِيۡهِ تَخۡتَلِفُوۡنَ‏ \uFEFF\uFEFF"
+arabic_ayat: قُلۡ أَغَيۡرَ ٱللَّهِ أَبۡغِي رَبّٗا وَهُوَ رَبُّ كُلِّ شَيۡءٖۚ وَلَا
+  تَكۡسِبُ كُلُّ نَفۡسٍ إِلَّا عَلَيۡهَاۚ وَلَا تَزِرُ وَازِرَةٞ وِزۡرَ أُخۡرَىٰۚ
+  ثُمَّ إِلَىٰ رَبِّكُم مَّرۡجِعُكُمۡ فَيُنَبِّئُكُم بِمَا كُنتُمۡ فِيهِ تَخۡتَلِفُونَ
 sentence_translation: Say, ˹O Prophet,˺ “Should I seek a lord other than Allah while
   He is the Lord of everything?” No one will reap except what they sow. No soul burdened
   with sin will bear the burden of another. Then to your Lord is your return, and
@@ -13,23 +12,23 @@ word_by_word:
     translation: Say
     transliteration: qul
   2:
-    arabic: اَغَيۡرَ
+    arabic: أَغَيۡرَ
     translation: Is (it) other than
     transliteration: aghayra
   3:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   4:
-    arabic: اَبۡغِىۡ
+    arabic: أَبۡغِي
     translation: I (should) seek
     transliteration: abghī
   5:
-    arabic: رَبًّا
+    arabic: رَبّٗا
     translation: (as) a Lord
     transliteration: rabban
   6:
-    arabic: وَّهُوَ
+    arabic: وَهُوَ
     translation: while He
     transliteration: wahuwa
   7:
@@ -41,7 +40,7 @@ word_by_word:
     translation: (of) every
     transliteration: kulli
   9:
-    arabic: شَىۡءٍ​ ؕ
+    arabic: شَيۡءٖۚ
     translation: thing
     transliteration: shayin
   10:
@@ -57,15 +56,15 @@ word_by_word:
     translation: every
     transliteration: kullu
   13:
-    arabic: نَـفۡسٍ
+    arabic: نَفۡسٍ
     translation: soul
     transliteration: nafsin
   14:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   15:
-    arabic: عَلَيۡهَا​ۚ
+    arabic: عَلَيۡهَاۚ
     translation: against itself
     transliteration: ʿalayhā
   16:
@@ -77,15 +76,15 @@ word_by_word:
     translation: bears
     transliteration: taziru
   18:
-    arabic: وَازِرَةٌ
+    arabic: وَازِرَةٞ
     translation: any bearer of burden
     transliteration: wāziratun
   19:
-    arabic: وِّزۡرَ
+    arabic: وِزۡرَ
     translation: burden
     transliteration: wiz'ra
   20:
-    arabic: اُخۡرٰى​ ۚ
+    arabic: أُخۡرَىٰۚ
     translation: (of) another
     transliteration: ukh'rā
   21:
@@ -93,11 +92,11 @@ word_by_word:
     translation: Then
     transliteration: thumma
   22:
-    arabic: اِلٰى
+    arabic: إِلَىٰ
     translation: to
     transliteration: ilā
   23:
-    arabic: رَبِّكُمۡ
+    arabic: رَبِّكُم
     translation: your Lord
     transliteration: rabbikum
   24:
@@ -105,7 +104,7 @@ word_by_word:
     translation: (is) your return
     transliteration: marjiʿukum
   25:
-    arabic: فَيُنَبِّئُكُمۡ
+    arabic: فَيُنَبِّئُكُم
     translation: then He will inform you
     transliteration: fayunabbi-ukum
   26:
@@ -113,15 +112,15 @@ word_by_word:
     translation: about what
     transliteration: bimā
   27:
-    arabic: كُنۡـتُمۡ
+    arabic: كُنتُمۡ
     translation: you were
     transliteration: kuntum
   28:
-    arabic: فِيۡهِ
+    arabic: فِيهِ
     translation: concerning it
     transliteration: fīhi
   29:
-    arabic: "تَخۡتَلِفُوۡنَ‏ \uFEFF\uFEFF"
+    arabic: تَخۡتَلِفُونَ
     translation: differing
     transliteration: takhtalifūna
 ---

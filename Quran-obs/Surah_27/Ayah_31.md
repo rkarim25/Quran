@@ -1,26 +1,26 @@
 ---
-arabic_ayat: اَلَّا تَعۡلُوۡا عَلَىَّ وَاۡتُوۡنِىۡ مُسۡلِمِيۡنَ‏
+arabic_ayat: أَلَّا تَعۡلُواْ عَلَيَّ وَأۡتُونِي مُسۡلِمِينَ
 sentence_translation: Do not be arrogant with me, but come to me, fully submitting
   ˹to Allah˺.’”
 word_by_word:
   1:
-    arabic: اَلَّا
+    arabic: أَلَّا
     translation: That not
     transliteration: allā
   2:
-    arabic: تَعۡلُوۡا
+    arabic: تَعۡلُواْ
     translation: exalt yourselves
     transliteration: taʿlū
   3:
-    arabic: عَلَىَّ
+    arabic: عَلَيَّ
     translation: against me
     transliteration: ʿalayya
   4:
-    arabic: وَاۡتُوۡنِىۡ
+    arabic: وَأۡتُونِي
     translation: but come to me
     transliteration: watūnī
   5:
-    arabic: مُسۡلِمِيۡنَ‏
+    arabic: مُسۡلِمِينَ
     translation: (in) submission
     transliteration: mus'limīna
 ---

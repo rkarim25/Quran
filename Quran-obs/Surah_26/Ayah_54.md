@@ -1,21 +1,21 @@
 ---
-arabic_ayat: اِنَّ هٰٓؤُلَاۤءِ لَشِرۡذِمَةٌ قَلِيۡلُوۡنَۙ‏
+arabic_ayat: إِنَّ هَٰٓؤُلَآءِ لَشِرۡذِمَةٞ قَلِيلُونَ
 sentence_translation: ˹and said,˺ “These ˹outcasts˺ are just a handful of people,
 word_by_word:
   1:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   2:
-    arabic: هٰٓؤُلَاۤءِ
+    arabic: هَٰٓؤُلَآءِ
     translation: these
     transliteration: hāulāi
   3:
-    arabic: لَشِرۡذِمَةٌ
+    arabic: لَشِرۡذِمَةٞ
     translation: (are) certainly a band
     transliteration: lashir'dhimatun
   4:
-    arabic: قَلِيۡلُوۡنَۙ‏
+    arabic: قَلِيلُونَ
     translation: small
     transliteration: qalīlūna
 ---

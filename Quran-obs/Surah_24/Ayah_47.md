@@ -1,29 +1,28 @@
 ---
-arabic_ayat: "وَيَقُوۡلُوۡنَ اٰمَنَّا بِاللّٰهِ وَبِالرَّسُوۡلِ وَاَطَعۡنَا ثُمَّ\
-  \ يَتَوَلّٰى فَرِيۡقٌ مِّنۡهُمۡ مِّنۡۢ بَعۡدِ ذٰلِكَ​ؕ وَمَاۤ اُولٰٓٮِٕكَ بِالۡمُؤۡمِنِيۡنَ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: وَيَقُولُونَ ءَامَنَّا بِٱللَّهِ وَبِٱلرَّسُولِ وَأَطَعۡنَا ثُمَّ يَتَوَلَّىٰ
+  فَرِيقٞ مِّنۡهُم مِّنۢ بَعۡدِ ذَٰلِكَۚ وَمَآ أُوْلَٰٓئِكَ بِٱلۡمُؤۡمِنِينَ
 sentence_translation: And the hypocrites say, “We believe in Allah and the Messenger,
   and we obey.” Then a group of them turns away soon after that. These are not ˹true˺
   believers.
 word_by_word:
   1:
-    arabic: وَيَقُوۡلُوۡنَ
+    arabic: وَيَقُولُونَ ءَ
     translation: And they say
     transliteration: wayaqūlūna
   2:
-    arabic: اٰمَنَّا
+    arabic: امَنَّا
     translation: We believe
     transliteration: āmannā
   3:
-    arabic: بِاللّٰهِ
+    arabic: بِٱللَّهِ
     translation: in Allah
     transliteration: bil-lahi
   4:
-    arabic: وَبِالرَّسُوۡلِ
+    arabic: وَبِٱلرَّسُولِ
     translation: and in the Messenger
     transliteration: wabil-rasūli
   5:
-    arabic: وَاَطَعۡنَا
+    arabic: وَأَطَعۡنَا
     translation: and we obey
     transliteration: wa-aṭaʿnā
   6:
@@ -31,19 +30,19 @@ word_by_word:
     translation: Then
     transliteration: thumma
   7:
-    arabic: يَتَوَلّٰى
+    arabic: يَتَوَلَّىٰ
     translation: turns away
     transliteration: yatawallā
   8:
-    arabic: فَرِيۡقٌ
+    arabic: فَرِيقٞ
     translation: a party
     transliteration: farīqun
   9:
-    arabic: مِّنۡهُمۡ
+    arabic: مِّنۡهُم
     translation: of them
     transliteration: min'hum
   10:
-    arabic: مِّنۡۢ
+    arabic: مِّنۢ
     translation: after
     transliteration: min
   11:
@@ -51,19 +50,19 @@ word_by_word:
     translation: after
     transliteration: baʿdi
   12:
-    arabic: ذٰلِكَ​ؕ
+    arabic: ذَٰلِكَۚ
     translation: that
     transliteration: dhālika
   13:
-    arabic: وَمَاۤ
+    arabic: وَمَآ
     translation: And not
     transliteration: wamā
   14:
-    arabic: اُولٰٓٮِٕكَ
+    arabic: أُوْلَٰٓئِكَ
     translation: those
     transliteration: ulāika
   15:
-    arabic: "بِالۡمُؤۡمِنِيۡنَ‏ \uFEFF\uFEFF"
+    arabic: بِٱلۡمُؤۡمِنِينَ
     translation: (are) believers
     transliteration: bil-mu'minīna
 ---

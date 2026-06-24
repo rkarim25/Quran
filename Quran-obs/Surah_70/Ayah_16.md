@@ -1,13 +1,13 @@
 ---
-arabic_ayat: نَزَّاعَةً لِّلشَّوٰى​ ۖ​ۚ‏
+arabic_ayat: نَزَّاعَةٗ لِّلشَّوَىٰ
 sentence_translation: ripping off scalps.
 word_by_word:
   1:
-    arabic: نَزَّاعَةً
+    arabic: نَزَّاعَةٗ
     translation: A remover
     transliteration: nazzāʿatan
   2:
-    arabic: لِّلشَّوٰى​ ۖ​ۚ‏
+    arabic: لِّلشَّوَىٰ
     translation: of the skin of the head
     transliteration: lilshawā
 ---

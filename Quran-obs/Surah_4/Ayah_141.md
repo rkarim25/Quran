@@ -1,9 +1,9 @@
 ---
-arabic_ayat: الَّذِيۡنَ يَتَرَ بَّصُوۡنَ بِكُمۡ​ ۚ فَاِنۡ كَانَ لَـكُمۡ فَتۡحٌ مِّنَ
-  اللّٰهِ قَالُـوۡۤا اَلَمۡ نَـكُنۡ مَّعَكُمۡ ​ ۖ وَاِنۡ كَانَ لِلۡكٰفِرِيۡنَ نَصِيۡبٌۙ
-  قَالُـوۡۤا اَلَمۡ نَسۡتَحۡوِذۡ عَلَيۡكُمۡ وَنَمۡنَعۡكُمۡ مِّنَ الۡمُؤۡمِنِيۡنَ​
-  ؕ فَاللّٰهُ يَحۡكُمُ بَيۡنَكُمۡ يَوۡمَ الۡقِيٰمَةِ ​ؕ وَلَنۡ يَّجۡعَلَ اللّٰهُ لِلۡكٰفِرِيۡنَ
-  عَلَى الۡمُؤۡمِنِيۡنَ سَبِيۡلًا‏
+arabic_ayat: ٱلَّذِينَ يَتَرَبَّصُونَ بِكُمۡ فَإِن كَانَ لَكُمۡ فَتۡحٞ مِّنَ ٱللَّهِ
+  قَالُوٓاْ أَلَمۡ نَكُن مَّعَكُمۡ وَإِن كَانَ لِلۡكَٰفِرِينَ نَصِيبٞ قَالُوٓاْ أَلَمۡ
+  نَسۡتَحۡوِذۡ عَلَيۡكُمۡ وَنَمۡنَعۡكُم مِّنَ ٱلۡمُؤۡمِنِينَۚ فَٱللَّهُ يَحۡكُمُ بَيۡنَكُمۡ
+  يَوۡمَ ٱلۡقِيَٰمَةِۚ وَلَن يَجۡعَلَ ٱللَّهُ لِلۡكَٰفِرِينَ عَلَى ٱلۡمُؤۡمِنِينَ
+  سَبِيلًا
 sentence_translation: ˹The hypocrites are˺ those who wait to see what happens to you.
   So if Allah grants you victory, they say ˹to you˺, “Were we not on your side?” But
   if the disbelievers have a share ˹of victory˺, they say ˹to them˺, “Did we not have
@@ -12,19 +12,19 @@ sentence_translation: ˹The hypocrites are˺ those who wait to see what happens 
   a way over the believers.
 word_by_word:
   1:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: Those who
     transliteration: alladhīna
   2:
-    arabic: يَتَرَ بَّصُوۡنَ
+    arabic: يَتَرَبَّصُونَ
     translation: are waiting
     transliteration: yatarabbaṣūna
   3:
-    arabic: بِكُمۡ​ ۚ
+    arabic: بِكُمۡ
     translation: for you
     transliteration: bikum
   4:
-    arabic: فَاِنۡ
+    arabic: فَإِن
     translation: Then if
     transliteration: fa-in
   5:
@@ -32,11 +32,11 @@ word_by_word:
     translation: was
     transliteration: kāna
   6:
-    arabic: لَـكُمۡ
+    arabic: لَكُمۡ
     translation: for you
     transliteration: lakum
   7:
-    arabic: فَتۡحٌ
+    arabic: فَتۡحٞ
     translation: a victory
     transliteration: fatḥun
   8:
@@ -44,27 +44,27 @@ word_by_word:
     translation: from
     transliteration: mina
   9:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   10:
-    arabic: قَالُـوۡۤا
+    arabic: قَالُوٓاْ
     translation: they say
     transliteration: qālū
   11:
-    arabic: اَلَمۡ
+    arabic: أَلَمۡ
     translation: Were not
     transliteration: alam
   12:
-    arabic: نَـكُنۡ
+    arabic: نَكُن
     translation: we
     transliteration: nakun
   13:
-    arabic: مَّعَكُمۡ ​ ۖ
+    arabic: مَّعَكُمۡ
     translation: with you
     transliteration: maʿakum
   14:
-    arabic: وَاِنۡ
+    arabic: وَإِن
     translation: But if
     transliteration: wa-in
   15:
@@ -72,19 +72,19 @@ word_by_word:
     translation: (there) was
     transliteration: kāna
   16:
-    arabic: لِلۡكٰفِرِيۡنَ
+    arabic: لِلۡكَٰفِرِينَ
     translation: for the disbelievers
     transliteration: lil'kāfirīna
   17:
-    arabic: نَصِيۡبٌۙ
+    arabic: نَصِيبٞ
     translation: a chance
     transliteration: naṣībun
   18:
-    arabic: قَالُـوۡۤا
+    arabic: قَالُوٓاْ
     translation: they said
     transliteration: qālū
   19:
-    arabic: اَلَمۡ
+    arabic: أَلَمۡ
     translation: Did not
     transliteration: alam
   20:
@@ -96,7 +96,7 @@ word_by_word:
     translation: over you
     transliteration: ʿalaykum
   22:
-    arabic: وَنَمۡنَعۡكُمۡ
+    arabic: وَنَمۡنَعۡكُم
     translation: and we protected you
     transliteration: wanamnaʿkum
   23:
@@ -104,11 +104,11 @@ word_by_word:
     translation: from
     transliteration: mina
   24:
-    arabic: الۡمُؤۡمِنِيۡنَ​ ؕ
+    arabic: ٱلۡمُؤۡمِنِينَۚ
     translation: the believers
     transliteration: l-mu'minīna
   25:
-    arabic: فَاللّٰهُ
+    arabic: فَٱللَّهُ
     translation: And Allah
     transliteration: fal-lahu
   26:
@@ -124,23 +124,23 @@ word_by_word:
     translation: (on the) Day
     transliteration: yawma
   29:
-    arabic: الۡقِيٰمَةِ ​ؕ
+    arabic: ٱلۡقِيَٰمَةِۚ
     translation: (of) the Resurrection
     transliteration: l-qiyāmati
   30:
-    arabic: وَلَنۡ
+    arabic: وَلَن
     translation: and never
     transliteration: walan
   31:
-    arabic: يَّجۡعَلَ
+    arabic: يَجۡعَلَ
     translation: will make
     transliteration: yajʿala
   32:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   33:
-    arabic: لِلۡكٰفِرِيۡنَ
+    arabic: لِلۡكَٰفِرِينَ
     translation: for the disbelievers
     transliteration: lil'kāfirīna
   34:
@@ -148,11 +148,11 @@ word_by_word:
     translation: over
     transliteration: ʿalā
   35:
-    arabic: الۡمُؤۡمِنِيۡنَ
+    arabic: ٱلۡمُؤۡمِنِينَ
     translation: the believers
     transliteration: l-mu'minīna
   36:
-    arabic: سَبِيۡلًا‏
+    arabic: سَبِيلًا
     translation: a way
     transliteration: sabīlan
 ---

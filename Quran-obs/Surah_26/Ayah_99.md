@@ -1,21 +1,21 @@
 ---
-arabic_ayat: وَمَاۤ اَضَلَّنَاۤ اِلَّا الۡمُجۡرِمُوۡنَ‏
+arabic_ayat: وَمَآ أَضَلَّنَآ إِلَّا ٱلۡمُجۡرِمُونَ
 sentence_translation: And none led us astray other than the wicked.
 word_by_word:
   1:
-    arabic: وَمَاۤ
+    arabic: وَمَآ
     translation: And not
     transliteration: wamā
   2:
-    arabic: اَضَلَّنَاۤ
+    arabic: أَضَلَّنَآ
     translation: misguided us
     transliteration: aḍallanā
   3:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   4:
-    arabic: الۡمُجۡرِمُوۡنَ‏
+    arabic: ٱلۡمُجۡرِمُونَ
     translation: the criminals
     transliteration: l-muj'rimūna
 ---

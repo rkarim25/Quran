@@ -1,9 +1,9 @@
 ---
-arabic_ayat: وَّطَعَامًا ذَا غُصَّةٍ وَّعَذَابًا اَلِيۡمًا‏
+arabic_ayat: وَطَعَامٗا ذَا غُصَّةٖ وَعَذَابًا أَلِيمٗا
 sentence_translation: choking food, and a painful punishment ˹in store for them˺
 word_by_word:
   1:
-    arabic: وَّطَعَامًا
+    arabic: وَطَعَامٗا
     translation: And food
     transliteration: waṭaʿāman
   2:
@@ -11,15 +11,15 @@ word_by_word:
     translation: that
     transliteration: dhā
   3:
-    arabic: غُصَّةٍ
+    arabic: غُصَّةٖ
     translation: chokes
     transliteration: ghuṣṣatin
   4:
-    arabic: وَّعَذَابًا
+    arabic: وَعَذَابًا
     translation: and a punishment
     transliteration: waʿadhāban
   5:
-    arabic: اَلِيۡمًا‏
+    arabic: أَلِيمٗا
     translation: painful
     transliteration: alīman
 ---

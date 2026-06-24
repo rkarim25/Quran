@@ -1,5 +1,5 @@
 ---
-arabic_ayat: لَعَمۡرُكَ اِنَّهُمۡ لَفِىۡ سَكۡرَتِهِمۡ يَعۡمَهُوۡنَ‏
+arabic_ayat: لَعَمۡرُكَ إِنَّهُمۡ لَفِي سَكۡرَتِهِمۡ يَعۡمَهُونَ
 sentence_translation: By your life ˹O Prophet˺, they certainly wandered blindly, intoxicated
   ˹by lust˺.
 word_by_word:
@@ -8,11 +8,11 @@ word_by_word:
     translation: By your life
     transliteration: laʿamruka
   2:
-    arabic: اِنَّهُمۡ
+    arabic: إِنَّهُمۡ
     translation: indeed, they
     transliteration: innahum
   3:
-    arabic: لَفِىۡ
+    arabic: لَفِي
     translation: were in
     transliteration: lafī
   4:
@@ -20,7 +20,7 @@ word_by_word:
     translation: their intoxication
     transliteration: sakratihim
   5:
-    arabic: يَعۡمَهُوۡنَ‏
+    arabic: يَعۡمَهُونَ
     translation: wandering blindly
     transliteration: yaʿmahūna
 ---

@@ -1,19 +1,19 @@
 ---
-arabic_ayat: وَمَنۡ يَّعۡشُ عَنۡ ذِكۡرِ الرَّحۡمٰنِ نُقَيِّضۡ لَهٗ شَيۡطٰنًا فَهُوَ
-  لَهٗ قَرِيۡنٌ‏
+arabic_ayat: وَمَن يَعۡشُ عَن ذِكۡرِ ٱلرَّحۡمَٰنِ نُقَيِّضۡ لَهُۥ شَيۡطَٰنٗا فَهُوَ
+  لَهُۥ قَرِينٞ
 sentence_translation: And whoever turns a blind eye to the Reminder of the Most Compassionate,
   We place at the disposal of each a devilish one as their close associate,
 word_by_word:
   1:
-    arabic: وَمَنۡ
+    arabic: وَمَن
     translation: And whoever
     transliteration: waman
   2:
-    arabic: يَّعۡشُ
+    arabic: يَعۡشُ
     translation: turns away
     transliteration: yaʿshu
   3:
-    arabic: عَنۡ
+    arabic: عَن
     translation: from
     transliteration: ʿan
   4:
@@ -21,7 +21,7 @@ word_by_word:
     translation: (the) remembrance
     transliteration: dhik'ri
   5:
-    arabic: الرَّحۡمٰنِ
+    arabic: ٱلرَّحۡمَٰنِ
     translation: (of) the Most Gracious
     transliteration: l-raḥmāni
   6:
@@ -29,11 +29,11 @@ word_by_word:
     translation: We appoint
     transliteration: nuqayyiḍ
   7:
-    arabic: لَهٗ
+    arabic: لَهُۥ
     translation: for him
     transliteration: lahu
   8:
-    arabic: شَيۡطٰنًا
+    arabic: شَيۡطَٰنٗا
     translation: a devil
     transliteration: shayṭānan
   9:
@@ -41,11 +41,11 @@ word_by_word:
     translation: then he
     transliteration: fahuwa
   10:
-    arabic: لَهٗ
+    arabic: لَهُۥ
     translation: (is) to him
     transliteration: lahu
   11:
-    arabic: قَرِيۡنٌ‏
+    arabic: قَرِينٞ
     translation: a companion
     transliteration: qarīnun
 ---

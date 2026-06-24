@@ -1,27 +1,26 @@
 ---
-arabic_ayat: "وَلَنۡ تَرۡضٰى عَنۡكَ الۡيَهُوۡدُ وَلَا النَّصٰرٰى حَتّٰى تَتَّبِعَ\
-  \ مِلَّتَهُمۡ​ؕ قُلۡ اِنَّ هُدَى اللّٰهِ هُوَ الۡهُدٰى​ؕ وَلَٮِٕنِ اتَّبَعۡتَ اَهۡوَآءَهُمۡ\
-  \ بَعۡدَ الَّذِىۡ جَآءَكَ مِنَ الۡعِلۡمِ​ۙ مَا لَـكَ مِنَ اللّٰهِ مِنۡ وَّلِىٍّ\
-  \ وَّلَا نَصِيۡرٍ‏ \uFEFF\uFEFF"
+arabic_ayat: وَلَن تَرۡضَىٰ عَنكَ ٱلۡيَهُودُ وَلَا ٱلنَّصَٰرَىٰ حَتَّىٰ تَتَّبِعَ
+  مِلَّتَهُمۡۗ قُلۡ إِنَّ هُدَى ٱللَّهِ هُوَ ٱلۡهُدَىٰۗ وَلَئِنِ ٱتَّبَعۡتَ أَهۡوَآءَهُم
+  بَعۡدَ ٱلَّذِي جَآءَكَ مِنَ ٱلۡعِلۡمِ مَا لَكَ مِنَ ٱللَّهِ مِن وَلِيّٖ وَلَا نَصِيرٍ
 sentence_translation: Never will the Jews or Christians be pleased with you, until
   you follow their faith. Say, “Allah’s guidance is the only ˹true˺ guidance.” And
   if you were to follow their desires after ˹all˺ the knowledge that has come to you,
   there would be none to protect or help you against Allah.
 word_by_word:
   1:
-    arabic: وَلَنۡ
+    arabic: وَلَن
     translation: And never
     transliteration: walan
   2:
-    arabic: تَرۡضٰى
+    arabic: تَرۡضَىٰ
     translation: will be pleased
     transliteration: tarḍā
   3:
-    arabic: عَنۡكَ
+    arabic: عَنكَ
     translation: with you
     transliteration: ʿanka
   4:
-    arabic: الۡيَهُوۡدُ
+    arabic: ٱلۡيَهُودُ
     translation: the Jews
     transliteration: l-yahūdu
   5:
@@ -29,11 +28,11 @@ word_by_word:
     translation: and [not]
     transliteration: walā
   6:
-    arabic: النَّصٰرٰى
+    arabic: ٱلنَّصَٰرَىٰ
     translation: the Christians
     transliteration: l-naṣārā
   7:
-    arabic: حَتّٰى
+    arabic: حَتَّىٰ
     translation: until
     transliteration: ḥattā
   8:
@@ -41,7 +40,7 @@ word_by_word:
     translation: you follow
     transliteration: tattabiʿa
   9:
-    arabic: مِلَّتَهُمۡ​ؕ
+    arabic: مِلَّتَهُمۡۗ
     translation: their religion
     transliteration: millatahum
   10:
@@ -49,7 +48,7 @@ word_by_word:
     translation: Say
     transliteration: qul
   11:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   12:
@@ -57,7 +56,7 @@ word_by_word:
     translation: (the) Guidance
     transliteration: hudā
   13:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (of) Allah
     transliteration: l-lahi
   14:
@@ -65,19 +64,19 @@ word_by_word:
     translation: it
     transliteration: huwa
   15:
-    arabic: الۡهُدٰى​ؕ
+    arabic: ٱلۡهُدَىٰۗ
     translation: (is) the Guidance
     transliteration: l-hudā
   16:
-    arabic: وَلَٮِٕنِ
+    arabic: وَلَئِنِ
     translation: And if
     transliteration: wala-ini
   17:
-    arabic: اتَّبَعۡتَ
+    arabic: ٱتَّبَعۡتَ
     translation: you follow
     transliteration: ittabaʿta
   18:
-    arabic: اَهۡوَآءَهُمۡ
+    arabic: أَهۡوَآءَهُم
     translation: their desires
     transliteration: ahwāahum
   19:
@@ -85,7 +84,7 @@ word_by_word:
     translation: after
     transliteration: baʿda
   20:
-    arabic: الَّذِىۡ
+    arabic: ٱلَّذِي
     translation: what
     transliteration: alladhī
   21:
@@ -97,7 +96,7 @@ word_by_word:
     translation: of
     transliteration: mina
   23:
-    arabic: الۡعِلۡمِ​ۙ
+    arabic: ٱلۡعِلۡمِ
     translation: the knowledge
     transliteration: l-ʿil'mi
   24:
@@ -105,7 +104,7 @@ word_by_word:
     translation: not
     transliteration: mā
   25:
-    arabic: لَـكَ
+    arabic: لَكَ
     translation: for you
     transliteration: laka
   26:
@@ -113,23 +112,23 @@ word_by_word:
     translation: from
     transliteration: mina
   27:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   28:
-    arabic: مِنۡ
+    arabic: مِن
     translation: any
     transliteration: min
   29:
-    arabic: وَّلِىٍّ
+    arabic: وَلِيّٖ
     translation: protector
     transliteration: waliyyin
   30:
-    arabic: وَّلَا
+    arabic: وَلَا
     translation: and not
     transliteration: walā
   31:
-    arabic: "نَصِيۡرٍ‏ \uFEFF\uFEFF"
+    arabic: نَصِيرٍ
     translation: any helper
     transliteration: naṣīrin
 ---

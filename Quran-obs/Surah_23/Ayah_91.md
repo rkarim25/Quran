@@ -1,7 +1,7 @@
 ---
-arabic_ayat: مَا اتَّخَذَ اللّٰهُ مِنۡ وَّلَدٍ وَّمَا كَانَ مَعَهٗ مِنۡ اِلٰهٍ​ اِذًا
-  لَّذَهَبَ كُلُّ اِلٰهٍۢ بِمَا خَلَقَ وَلَعَلَا بَعۡضُهُمۡ عَلٰى بَعۡضٍ​ؕ سُبۡحٰنَ
-  اللّٰهِ عَمَّا يَصِفُوۡنَۙ‏
+arabic_ayat: مَا ٱتَّخَذَ ٱللَّهُ مِن وَلَدٖ وَمَا كَانَ مَعَهُۥ مِنۡ إِلَٰهٍۚ إِذٗا
+  لَّذَهَبَ كُلُّ إِلَٰهِۭ بِمَا خَلَقَ وَلَعَلَا بَعۡضُهُمۡ عَلَىٰ بَعۡضٖۚ سُبۡحَٰنَ
+  ٱللَّهِ عَمَّا يَصِفُونَ
 sentence_translation: Allah has never had ˹any˺ offspring, nor is there any god besides
   Him. Otherwise, each god would have taken away what he created, and they would have
   tried to dominate one another. Glorified is Allah above what they claim!
@@ -11,23 +11,23 @@ word_by_word:
     translation: Not
     transliteration: mā
   2:
-    arabic: اتَّخَذَ
+    arabic: ٱتَّخَذَ
     translation: Allah has taken
     transliteration: ittakhadha
   3:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah has taken
     transliteration: l-lahu
   4:
-    arabic: مِنۡ
+    arabic: مِن
     translation: any
     transliteration: min
   5:
-    arabic: وَّلَدٍ
+    arabic: وَلَدٖ
     translation: son
     transliteration: waladin
   6:
-    arabic: وَّمَا
+    arabic: وَمَا
     translation: and not
     transliteration: wamā
   7:
@@ -35,7 +35,7 @@ word_by_word:
     translation: is
     transliteration: kāna
   8:
-    arabic: مَعَهٗ
+    arabic: مَعَهُۥ
     translation: with Him
     transliteration: maʿahu
   9:
@@ -43,11 +43,11 @@ word_by_word:
     translation: any
     transliteration: min
   10:
-    arabic: اِلٰهٍ​
+    arabic: إِلَٰهٍۚ
     translation: god
     transliteration: ilāhin
   11:
-    arabic: اِذًا
+    arabic: إِذٗا
     translation: Then
     transliteration: idhan
   12:
@@ -59,7 +59,7 @@ word_by_word:
     translation: each
     transliteration: kullu
   14:
-    arabic: اِلٰهٍۢ
+    arabic: إِلَٰهِۭ
     translation: god
     transliteration: ilāhin
   15:
@@ -79,19 +79,19 @@ word_by_word:
     translation: some of them
     transliteration: baʿḍuhum
   19:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: '[on]'
     transliteration: ʿalā
   20:
-    arabic: بَعۡضٍ​ؕ
+    arabic: بَعۡضٖۚ
     translation: others
     transliteration: baʿḍin
   21:
-    arabic: سُبۡحٰنَ
+    arabic: سُبۡحَٰنَ
     translation: Glory be
     transliteration: sub'ḥāna
   22:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (to) Allah
     transliteration: l-lahi
   23:
@@ -99,7 +99,7 @@ word_by_word:
     translation: above what
     transliteration: ʿammā
   24:
-    arabic: يَصِفُوۡنَۙ‏
+    arabic: يَصِفُونَ
     translation: they attribute
     transliteration: yaṣifūna
 ---

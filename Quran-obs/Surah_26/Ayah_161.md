@@ -1,9 +1,9 @@
 ---
-arabic_ayat: اِذۡ قَالَ لَهُمۡ اَخُوۡهُمۡ لُوۡطٌ اَلَا تَتَّقُوۡنَ​ۚ‏
+arabic_ayat: إِذۡ قَالَ لَهُمۡ أَخُوهُمۡ لُوطٌ أَلَا تَتَّقُونَ
 sentence_translation: when their brother Lot said to them, “Will you not fear ˹Allah˺?
 word_by_word:
   1:
-    arabic: اِذۡ
+    arabic: إِذۡ
     translation: When
     transliteration: idh
   2:
@@ -15,19 +15,19 @@ word_by_word:
     translation: to them
     transliteration: lahum
   4:
-    arabic: اَخُوۡهُمۡ
+    arabic: أَخُوهُمۡ
     translation: their brother
     transliteration: akhūhum
   5:
-    arabic: لُوۡطٌ
+    arabic: لُوطٌ
     translation: Lut
     transliteration: lūṭun
   6:
-    arabic: اَلَا
+    arabic: أَلَا
     translation: Will not
     transliteration: alā
   7:
-    arabic: تَتَّقُوۡنَ​ۚ‏
+    arabic: تَتَّقُونَ
     translation: you fear (Allah)
     transliteration: tattaqūna
 ---

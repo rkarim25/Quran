@@ -1,5 +1,5 @@
 ---
-arabic_ayat: فَكَذَّبَ وَعَصٰى ۖ‏
+arabic_ayat: فَكَذَّبَ وَعَصَىٰ
 sentence_translation: but he denied and disobeyed ˹Allah˺,
 word_by_word:
   1:
@@ -7,7 +7,7 @@ word_by_word:
     translation: But he denied
     transliteration: fakadhaba
   2:
-    arabic: وَعَصٰى ۖ‏
+    arabic: وَعَصَىٰ
     translation: and disobeyed
     transliteration: waʿaṣā
 ---

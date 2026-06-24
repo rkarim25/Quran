@@ -1,20 +1,20 @@
 ---
-arabic_ayat: اَمۡ يَقُوۡلُوۡنَ افۡتَـرٰٮهُ​ ؕ قُلۡ اِنِ افۡتَرَيۡتُهٗ فَعَلَىَّ اِجۡرَامِىۡ
-  وَاَنَا بَرِىۡٓءٌ مِّمَّا تُجۡرِمُوۡنَ‏
+arabic_ayat: أَمۡ يَقُولُونَ ٱفۡتَرَىٰهُۖ قُلۡ إِنِ ٱفۡتَرَيۡتُهُۥ فَعَلَيَّ إِجۡرَامِي
+  وَأَنَا۠ بَرِيٓءٞ مِّمَّا تُجۡرِمُونَ
 sentence_translation: Or do they say, “He has fabricated this ˹Quran˺!”? Say, ˹O Prophet,˺
   “If I have done so, then I bear the burden of that sin! But I am free from your
   sinful accusation.”
 word_by_word:
   1:
-    arabic: اَمۡ
+    arabic: أَمۡ
     translation: Or
     transliteration: am
   2:
-    arabic: يَقُوۡلُوۡنَ
+    arabic: يَقُولُونَ
     translation: (do) they say
     transliteration: yaqūlūna
   3:
-    arabic: افۡتَـرٰٮهُ​ ؕ
+    arabic: ٱفۡتَرَىٰهُۖ
     translation: He has invented it
     transliteration: if'tarāhu
   4:
@@ -22,27 +22,27 @@ word_by_word:
     translation: Say
     transliteration: qul
   5:
-    arabic: اِنِ
+    arabic: إِنِ
     translation: If
     transliteration: ini
   6:
-    arabic: افۡتَرَيۡتُهٗ
+    arabic: ٱفۡتَرَيۡتُهُۥ
     translation: I have invented it
     transliteration: if'taraytuhu
   7:
-    arabic: فَعَلَىَّ
+    arabic: فَعَلَيَّ
     translation: then on me
     transliteration: faʿalayya
   8:
-    arabic: اِجۡرَامِىۡ
+    arabic: إِجۡرَامِي
     translation: (is) my crime
     transliteration: ij'rāmī
   9:
-    arabic: وَاَنَا
+    arabic: وَأَنَا۠
     translation: but I am
     transliteration: wa-anā
   10:
-    arabic: بَرِىۡٓءٌ
+    arabic: بَرِيٓءٞ
     translation: innocent
     transliteration: barīon
   11:
@@ -50,7 +50,7 @@ word_by_word:
     translation: of what
     transliteration: mimmā
   12:
-    arabic: تُجۡرِمُوۡنَ‏
+    arabic: تُجۡرِمُونَ
     translation: crimes you commit
     transliteration: tuj'rimūna
 ---

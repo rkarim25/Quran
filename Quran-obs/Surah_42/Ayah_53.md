@@ -1,23 +1,23 @@
 ---
-arabic_ayat: صِرَاطِ اللّٰهِ الَّذِىۡ لَهٗ مَا فِى السَّمٰوٰتِ وَمَا فِى الۡاَرۡضِ​ؕ
-  اَلَاۤ اِلَى اللّٰهِ تَصِيۡرُ الۡاُمُوۡرُ‏
+arabic_ayat: صِرَٰطِ ٱللَّهِ ٱلَّذِي لَهُۥ مَا فِي ٱلسَّمَٰوَٰتِ وَمَا فِي ٱلۡأَرۡضِۗ
+  أَلَآ إِلَى ٱللَّهِ تَصِيرُ ٱلۡأُمُورُ
 sentence_translation: the Path of Allah, to Whom belongs whatever is in the heavens
   and whatever is on the earth. Surely to Allah all matters will return ˹for judgment˺.
 word_by_word:
   1:
-    arabic: صِرَاطِ
+    arabic: صِرَٰطِ
     translation: (The) path
     transliteration: ṣirāṭi
   2:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (of) Allah
     transliteration: l-lahi
   3:
-    arabic: الَّذِىۡ
+    arabic: ٱلَّذِي
     translation: the One
     transliteration: alladhī
   4:
-    arabic: لَهٗ
+    arabic: لَهُۥ
     translation: to Whom
     transliteration: lahu
   5:
@@ -25,11 +25,11 @@ word_by_word:
     translation: (belongs) whatever
     transliteration: mā
   6:
-    arabic: فِى
+    arabic: فِي
     translation: (is) in
     transliteration: fī
   7:
-    arabic: السَّمٰوٰتِ
+    arabic: ٱلسَّمَٰوَٰتِ
     translation: the heavens
     transliteration: l-samāwāti
   8:
@@ -37,31 +37,31 @@ word_by_word:
     translation: and whatever
     transliteration: wamā
   9:
-    arabic: فِى
+    arabic: فِي
     translation: (is) in
     transliteration: fī
   10:
-    arabic: الۡاَرۡضِ​ؕ
+    arabic: ٱلۡأَرۡضِۗ
     translation: the earth
     transliteration: l-arḍi
   11:
-    arabic: اَلَاۤ
+    arabic: أَلَآ
     translation: Unquestionably
     transliteration: alā
   12:
-    arabic: اِلَى
+    arabic: إِلَى
     translation: To
     transliteration: ilā
   13:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   14:
-    arabic: تَصِيۡرُ
+    arabic: تَصِيرُ
     translation: reach
     transliteration: taṣīru
   15:
-    arabic: الۡاُمُوۡرُ‏
+    arabic: ٱلۡأُمُورُ
     translation: all affairs
     transliteration: l-umūru
 ---

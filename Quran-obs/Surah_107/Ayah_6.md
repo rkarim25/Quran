@@ -1,9 +1,9 @@
 ---
-arabic_ayat: الَّذِيۡنَ هُمۡ يُرَآءُوۡنَۙ‏
+arabic_ayat: ٱلَّذِينَ هُمۡ يُرَآءُونَ
 sentence_translation: those who ˹only˺ show off,
 word_by_word:
   1:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: Those who
     transliteration: alladhīna
   2:
@@ -11,7 +11,7 @@ word_by_word:
     translation: '[they]'
     transliteration: hum
   3:
-    arabic: يُرَآءُوۡنَۙ‏
+    arabic: يُرَآءُونَ
     translation: make show
     transliteration: yurāūna
 ---

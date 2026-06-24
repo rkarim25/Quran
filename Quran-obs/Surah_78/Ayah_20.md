@@ -1,13 +1,13 @@
 ---
-arabic_ayat: وَّ سُيِّرَتِ الۡجِبَالُ فَكَانَتۡ سَرَابًا ؕ‏
+arabic_ayat: وَسُيِّرَتِ ٱلۡجِبَالُ فَكَانَتۡ سَرَابًا
 sentence_translation: and the mountains will be blown away, becoming ˹like˺ a mirage.
 word_by_word:
   1:
-    arabic: وَّ سُيِّرَتِ
+    arabic: وَسُيِّرَتِ
     translation: And are moved
     transliteration: wasuyyirati
   2:
-    arabic: الۡجِبَالُ
+    arabic: ٱلۡجِبَالُ
     translation: the mountains
     transliteration: l-jibālu
   3:
@@ -15,7 +15,7 @@ word_by_word:
     translation: and become
     transliteration: fakānat
   4:
-    arabic: سَرَابًا ؕ‏
+    arabic: سَرَابًا
     translation: a mirage
     transliteration: sarāban
 ---

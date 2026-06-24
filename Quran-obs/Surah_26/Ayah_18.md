@@ -1,6 +1,6 @@
 ---
-arabic_ayat: قَالَ اَلَمۡ نُرَبِّكَ فِيۡنَا وَلِيۡدًا وَّلَبِثۡتَ فِيۡنَا مِنۡ عُمُرِكَ
-  سِنِيۡنَۙ‏
+arabic_ayat: قَالَ أَلَمۡ نُرَبِّكَ فِينَا وَلِيدٗا وَلَبِثۡتَ فِينَا مِنۡ عُمُرِكَ
+  سِنِينَ
 sentence_translation: Pharaoh protested, “Did we not raise you among us as a child,
   and you stayed several years of your life in our care?
 word_by_word:
@@ -9,7 +9,7 @@ word_by_word:
     translation: He said
     transliteration: qāla
   2:
-    arabic: اَلَمۡ
+    arabic: أَلَمۡ
     translation: Did not
     transliteration: alam
   3:
@@ -17,19 +17,19 @@ word_by_word:
     translation: we bring you up
     transliteration: nurabbika
   4:
-    arabic: فِيۡنَا
+    arabic: فِينَا
     translation: among us
     transliteration: fīnā
   5:
-    arabic: وَلِيۡدًا
+    arabic: وَلِيدٗا
     translation: (as) a child
     transliteration: walīdan
   6:
-    arabic: وَّلَبِثۡتَ
+    arabic: وَلَبِثۡتَ
     translation: and you remained
     transliteration: walabith'ta
   7:
-    arabic: فِيۡنَا
+    arabic: فِينَا
     translation: among us
     transliteration: fīnā
   8:
@@ -41,7 +41,7 @@ word_by_word:
     translation: your life
     transliteration: ʿumurika
   10:
-    arabic: سِنِيۡنَۙ‏
+    arabic: سِنِينَ
     translation: years
     transliteration: sinīna
 ---

@@ -1,6 +1,6 @@
 ---
-arabic_ayat: وَعۡدَ اللّٰهِ​ؕ لَا يُخۡلِفُ اللّٰهُ وَعۡدَهٗ وَلٰـكِنَّ اَكۡثَرَ النَّاسِ
-  لَا يَعۡلَمُوۡنَ‏
+arabic_ayat: وَعۡدَ ٱللَّهِۖ لَا يُخۡلِفُ ٱللَّهُ وَعۡدَهُۥ وَلَٰكِنَّ أَكۡثَرَ ٱلنَّاسِ
+  لَا يَعۡلَمُونَ
 sentence_translation: ˹This is˺ the promise of Allah. ˹And˺ Allah never fails in His
   promise. But most people do not know.
 word_by_word:
@@ -9,7 +9,7 @@ word_by_word:
     translation: (It is the) Promise
     transliteration: waʿda
   2:
-    arabic: اللّٰهِ​ؕ
+    arabic: ٱللَّهِۖ
     translation: (of) Allah
     transliteration: l-lahi
   3:
@@ -21,23 +21,23 @@ word_by_word:
     translation: fail
     transliteration: yukh'lifu
   5:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   6:
-    arabic: وَعۡدَهٗ
+    arabic: وَعۡدَهُۥ
     translation: (in) His promise
     transliteration: waʿdahu
   7:
-    arabic: وَلٰـكِنَّ
+    arabic: وَلَٰكِنَّ
     translation: but
     transliteration: walākinna
   8:
-    arabic: اَكۡثَرَ
+    arabic: أَكۡثَرَ
     translation: most (of)
     transliteration: akthara
   9:
-    arabic: النَّاسِ
+    arabic: ٱلنَّاسِ
     translation: '[the] people'
     transliteration: l-nāsi
   10:
@@ -45,7 +45,7 @@ word_by_word:
     translation: (do) not
     transliteration: lā
   11:
-    arabic: يَعۡلَمُوۡنَ‏
+    arabic: يَعۡلَمُونَ
     translation: know
     transliteration: yaʿlamūna
 ---

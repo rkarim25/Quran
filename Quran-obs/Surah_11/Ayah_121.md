@@ -1,15 +1,15 @@
 ---
-arabic_ayat: وَقُلْ لِّـلَّذِيۡنَ لَا يُؤۡمِنُوۡنَ اعۡمَلُوۡا عَلٰى مَكَانَتِكُمۡؕ
-  اِنَّا عٰمِلُوۡنَۙ‏
+arabic_ayat: وَقُل لِّلَّذِينَ لَا يُؤۡمِنُونَ ٱعۡمَلُواْ عَلَىٰ مَكَانَتِكُمۡ إِنَّا
+  عَٰمِلُونَ
 sentence_translation: Say to those who disbelieve, “Persist in your ways; we will
   certainly persist in ours.
 word_by_word:
   1:
-    arabic: وَقُلْ
+    arabic: وَقُل
     translation: And say
     transliteration: waqul
   2:
-    arabic: لِّـلَّذِيۡنَ
+    arabic: لِّلَّذِينَ
     translation: to those who
     transliteration: lilladhīna
   3:
@@ -17,27 +17,27 @@ word_by_word:
     translation: (do) not
     transliteration: lā
   4:
-    arabic: يُؤۡمِنُوۡنَ
+    arabic: يُؤۡمِنُونَ
     translation: believe
     transliteration: yu'minūna
   5:
-    arabic: اعۡمَلُوۡا
+    arabic: ٱعۡمَلُواْ
     translation: Work
     transliteration: iʿ'malū
   6:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: (according) to
     transliteration: ʿalā
   7:
-    arabic: مَكَانَتِكُمۡؕ
+    arabic: مَكَانَتِكُمۡ
     translation: your position
     transliteration: makānatikum
   8:
-    arabic: اِنَّا
+    arabic: إِنَّا
     translation: indeed, we
     transliteration: innā
   9:
-    arabic: عٰمِلُوۡنَۙ‏
+    arabic: عَٰمِلُونَ
     translation: (are also) working
     transliteration: ʿāmilūna
 ---

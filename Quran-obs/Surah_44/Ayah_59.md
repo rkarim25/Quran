@@ -1,17 +1,17 @@
 ---
-arabic_ayat: فَارۡتَقِبۡ اِنَّهُمۡ مُّرۡتَقِبُوۡنَ‏
+arabic_ayat: فَٱرۡتَقِبۡ إِنَّهُم مُّرۡتَقِبُونَ
 sentence_translation: Wait then! They too are certainly waiting.
 word_by_word:
   1:
-    arabic: فَارۡتَقِبۡ
+    arabic: فَٱرۡتَقِبۡ
     translation: So watch
     transliteration: fa-ir'taqib
   2:
-    arabic: اِنَّهُمۡ
+    arabic: إِنَّهُم
     translation: indeed, they
     transliteration: innahum
   3:
-    arabic: مُّرۡتَقِبُوۡنَ‏
+    arabic: مُّرۡتَقِبُونَ
     translation: (too are) watching
     transliteration: mur'taqibūna
 ---

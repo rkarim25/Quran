@@ -1,30 +1,30 @@
 ---
-arabic_ayat: كَلَّاۤ اِنَّ كِتٰبَ الۡاَبۡرَارِ لَفِىۡ عِلِّيِّيۡنَؕ‏
+arabic_ayat: كـَلَّآ إِنَّ كِتَٰبَ ٱلۡأَبۡرَارِ لَفِي عِلِّيِّينَ
 sentence_translation: But no! The virtuous are certainly bound for ’Illiyûn ˹in elevated
   Gardens˺—
 word_by_word:
   1:
-    arabic: كَلَّاۤ
+    arabic: كـَلَّآ
     translation: Nay
     transliteration: kallā
   2:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   3:
-    arabic: كِتٰبَ
+    arabic: كِتَٰبَ
     translation: (the) record
     transliteration: kitāba
   4:
-    arabic: الۡاَبۡرَارِ
+    arabic: ٱلۡأَبۡرَارِ
     translation: (of) the righteous
     transliteration: l-abrāri
   5:
-    arabic: لَفِىۡ
+    arabic: لَفِي
     translation: (will be) surely in
     transliteration: lafī
   6:
-    arabic: عِلِّيِّيۡنَؕ‏
+    arabic: عِلِّيِّينَ
     translation: Illiyin
     transliteration: ʿilliyyīna
 ---

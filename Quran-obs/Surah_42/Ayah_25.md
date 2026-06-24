@@ -1,6 +1,6 @@
 ---
-arabic_ayat: وَهُوَ الَّذِىۡ يَقۡبَلُ التَّوۡبَةَ عَنۡ عِبَادِهٖ وَيَعۡفُوۡا عَنِ
-  السَّيِّاٰتِ وَيَعۡلَمُ مَا تَفۡعَلُوۡنَ ۙ‏
+arabic_ayat: وَهُوَ ٱلَّذِي يَقۡبَلُ ٱلتَّوۡبَةَ عَنۡ عِبَادِهِۦ وَيَعۡفُواْ عَنِ
+  ٱلسَّيِّـَٔاتِ وَيَعۡلَمُ مَا تَفۡعَلُونَ
 sentence_translation: He is the One Who accepts repentance from His servants and pardons
   ˹their˺ sins. And He knows whatever you do.
 word_by_word:
@@ -9,7 +9,7 @@ word_by_word:
     translation: And He
     transliteration: wahuwa
   2:
-    arabic: الَّذِىۡ
+    arabic: ٱلَّذِي
     translation: (is) the One Who
     transliteration: alladhī
   3:
@@ -17,7 +17,7 @@ word_by_word:
     translation: accepts
     transliteration: yaqbalu
   4:
-    arabic: التَّوۡبَةَ
+    arabic: ٱلتَّوۡبَةَ
     translation: the repentance
     transliteration: l-tawbata
   5:
@@ -25,11 +25,11 @@ word_by_word:
     translation: of
     transliteration: ʿan
   6:
-    arabic: عِبَادِهٖ
+    arabic: عِبَادِهِۦ
     translation: His slaves
     transliteration: ʿibādihi
   7:
-    arabic: وَيَعۡفُوۡا
+    arabic: وَيَعۡفُواْ
     translation: and pardons
     transliteration: wayaʿfū
   8:
@@ -37,7 +37,7 @@ word_by_word:
     translation: '[of]'
     transliteration: ʿani
   9:
-    arabic: السَّيِّاٰتِ
+    arabic: ٱلسَّيِّـَٔاتِ
     translation: the evil
     transliteration: l-sayiāti
   10:
@@ -49,7 +49,7 @@ word_by_word:
     translation: what
     transliteration: mā
   12:
-    arabic: تَفۡعَلُوۡنَ ۙ‏
+    arabic: تَفۡعَلُونَ
     translation: you do
     transliteration: tafʿalūna
 ---

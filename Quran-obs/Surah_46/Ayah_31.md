@@ -1,31 +1,31 @@
 ---
-arabic_ayat: يٰقَوۡمَنَاۤ اَجِيۡبُوۡا دَاعِىَ اللّٰهِ وَاٰمِنُوۡا بِهٖ يَغۡفِرۡ لَـكُمۡ
-  مِّنۡ ذُنُوۡبِكُمۡ وَيُجِرۡكُمۡ مِّنۡ عَذَابٍ اَ لِيۡمٍ‏
+arabic_ayat: يَٰقَوۡمَنَآ أَجِيبُواْ دَاعِيَ ٱللَّهِ وَءَامِنُواْ بِهِۦ يَغۡفِرۡ
+  لَكُم مِّن ذُنُوبِكُمۡ وَيُجِرۡكُم مِّنۡ عَذَابٍ أَلِيمٖ
 sentence_translation: O  our fellow jinn! Respond to the caller of Allah and believe
   in him, He will forgive your sins and protect you from a painful punishment.
 word_by_word:
   1:
-    arabic: يٰقَوۡمَنَاۤ
+    arabic: يَٰقَوۡمَنَآ
     translation: O our people
     transliteration: yāqawmanā
   2:
-    arabic: اَجِيۡبُوۡا
+    arabic: أَجِيبُواْ
     translation: Respond
     transliteration: ajībū
   3:
-    arabic: دَاعِىَ
+    arabic: دَاعِيَ
     translation: (to the) caller
     transliteration: dāʿiya
   4:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (of) Allah
     transliteration: l-lahi
   5:
-    arabic: وَاٰمِنُوۡا
+    arabic: وَءَامِنُواْ
     translation: and believe
     transliteration: waāminū
   6:
-    arabic: بِهٖ
+    arabic: بِهِۦ
     translation: in him
     transliteration: bihi
   7:
@@ -33,19 +33,19 @@ word_by_word:
     translation: He will forgive
     transliteration: yaghfir
   8:
-    arabic: لَـكُمۡ
+    arabic: لَكُم
     translation: for you
     transliteration: lakum
   9:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: of
     transliteration: min
   10:
-    arabic: ذُنُوۡبِكُمۡ
+    arabic: ذُنُوبِكُمۡ
     translation: your sins
     transliteration: dhunūbikum
   11:
-    arabic: وَيُجِرۡكُمۡ
+    arabic: وَيُجِرۡكُم
     translation: and will protect you
     transliteration: wayujir'kum
   12:
@@ -57,7 +57,7 @@ word_by_word:
     translation: a punishment
     transliteration: ʿadhābin
   14:
-    arabic: اَ لِيۡمٍ‏
+    arabic: أَلِيمٖ
     translation: painful
     transliteration: alīmin
 ---

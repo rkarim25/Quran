@@ -1,13 +1,13 @@
 ---
-arabic_ayat: وَاجۡعَلْ لِّىۡ لِسَانَ صِدۡقٍ فِى الۡاٰخِرِيۡنَۙ‏
+arabic_ayat: وَٱجۡعَل لِّي لِسَانَ صِدۡقٖ فِي ٱلۡأٓخِرِينَ
 sentence_translation: Bless me with honourable mention among later generations.
 word_by_word:
   1:
-    arabic: وَاجۡعَلْ
+    arabic: وَٱجۡعَل
     translation: And grant
     transliteration: wa-ij'ʿal
   2:
-    arabic: لِّىۡ
+    arabic: لِّي
     translation: '[for] me'
     transliteration: lī
   3:
@@ -15,15 +15,15 @@ word_by_word:
     translation: a mention
     transliteration: lisāna
   4:
-    arabic: صِدۡقٍ
+    arabic: صِدۡقٖ
     translation: (of) honor
     transliteration: ṣid'qin
   5:
-    arabic: فِى
+    arabic: فِي
     translation: among
     transliteration: fī
   6:
-    arabic: الۡاٰخِرِيۡنَۙ‏
+    arabic: ٱلۡأٓخِرِينَ
     translation: the later (generations)
     transliteration: l-ākhirīna
 ---

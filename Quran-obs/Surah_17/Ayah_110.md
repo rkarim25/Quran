@@ -1,7 +1,7 @@
 ---
-arabic_ayat: قُلِ ادۡعُوا اللّٰهَ اَوِ ادۡعُوا الرَّحۡمٰنَ​ ؕ اَ يًّا مَّا تَدۡعُوۡا
-  فَلَهُ الۡاَسۡمَآءُ الۡحُسۡنٰى ​ۚ وَلَا تَجۡهَرۡ بِصَلَاتِكَ وَلَا تُخَافِتۡ بِهَا
-  وَابۡتَغِ بَيۡنَ ذٰ لِكَ سَبِيۡلًا‏
+arabic_ayat: قُلِ ٱدۡعُواْ ٱللَّهَ أَوِ ٱدۡعُواْ ٱلرَّحۡمَٰنَۖ أَيّٗا مَّا تَدۡعُواْ
+  فَلَهُ ٱلۡأَسۡمَآءُ ٱلۡحُسۡنَىٰۚ وَلَا تَجۡهَرۡ بِصَلَاتِكَ وَلَا تُخَافِتۡ بِهَا
+  وَٱبۡتَغِ بَيۡنَ ذَٰلِكَ سَبِيلٗا
 sentence_translation: Say, ˹O Prophet,˺ “Call upon Allah or call upon the Most Compassionate—whichever
   you call, He has the Most Beautiful Names.” Do not recite your prayers too loudly
   or silently, but seek a way between.
@@ -11,27 +11,27 @@ word_by_word:
     translation: Say
     transliteration: quli
   2:
-    arabic: ادۡعُوا
+    arabic: ٱدۡعُواْ
     translation: Invoke
     transliteration: id'ʿū
   3:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   4:
-    arabic: اَوِ
+    arabic: أَوِ
     translation: or
     transliteration: awi
   5:
-    arabic: ادۡعُوا
+    arabic: ٱدۡعُواْ
     translation: invoke
     transliteration: id'ʿū
   6:
-    arabic: الرَّحۡمٰنَ​ ؕ
+    arabic: ٱلرَّحۡمَٰنَۖ
     translation: the Most Gracious
     transliteration: l-raḥmāna
   7:
-    arabic: اَ يًّا
+    arabic: أَيّٗا
     translation: By whatever (name)
     transliteration: ayyan
   8:
@@ -39,7 +39,7 @@ word_by_word:
     translation: By whatever (name)
     transliteration: mā
   9:
-    arabic: تَدۡعُوۡا
+    arabic: تَدۡعُواْ
     translation: you invoke
     transliteration: tadʿū
   10:
@@ -47,11 +47,11 @@ word_by_word:
     translation: to Him (belongs)
     transliteration: falahu
   11:
-    arabic: الۡاَسۡمَآءُ
+    arabic: ٱلۡأَسۡمَآءُ
     translation: the Most Beautiful Names
     transliteration: l-asmāu
   12:
-    arabic: الۡحُسۡنٰى ​ۚ
+    arabic: ٱلۡحُسۡنَىٰۚ
     translation: the Most Beautiful Names
     transliteration: l-ḥus'nā
   13:
@@ -79,7 +79,7 @@ word_by_word:
     translation: therein
     transliteration: bihā
   19:
-    arabic: وَابۡتَغِ
+    arabic: وَٱبۡتَغِ
     translation: but seek
     transliteration: wa-ib'taghi
   20:
@@ -87,11 +87,11 @@ word_by_word:
     translation: between
     transliteration: bayna
   21:
-    arabic: ذٰ لِكَ
+    arabic: ذَٰلِكَ
     translation: that
     transliteration: dhālika
   22:
-    arabic: سَبِيۡلًا‏
+    arabic: سَبِيلٗا
     translation: a way
     transliteration: sabīlan
 ---

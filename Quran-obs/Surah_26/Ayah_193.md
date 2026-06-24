@@ -1,5 +1,5 @@
 ---
-arabic_ayat: نَزَلَ بِهِ الرُّوۡحُ الۡاَمِيۡنُۙ‏
+arabic_ayat: نَزَلَ بِهِ ٱلرُّوحُ ٱلۡأَمِينُ
 sentence_translation: which the trustworthy spirit ˹Gabriel˺ brought down
 word_by_word:
   1:
@@ -11,11 +11,11 @@ word_by_word:
     translation: Has brought it down
     transliteration: bihi
   3:
-    arabic: الرُّوۡحُ
+    arabic: ٱلرُّوحُ
     translation: the Spirit
     transliteration: l-rūḥu
   4:
-    arabic: الۡاَمِيۡنُۙ‏
+    arabic: ٱلۡأَمِينُ
     translation: '[the] Trustworthy'
     transliteration: l-amīnu
 ---

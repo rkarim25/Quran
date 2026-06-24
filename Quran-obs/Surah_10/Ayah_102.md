@@ -1,6 +1,6 @@
 ---
-arabic_ayat: فَهَلۡ يَنۡتَظِرُوۡنَ اِلَّا مِثۡلَ اَيَّامِ الَّذِيۡنَ خَلَوۡا مِنۡ
-  قَبۡلِهِمۡ​ؕ قُلۡ فَانْتَظِرُوۡۤا اِنِّىۡ مَعَكُمۡ مِّنَ الۡمُنۡتَظِرِيۡنَ‏
+arabic_ayat: فَهَلۡ يَنتَظِرُونَ إِلَّا مِثۡلَ أَيَّامِ ٱلَّذِينَ خَلَوۡاْ مِن قَبۡلِهِمۡۚ
+  قُلۡ فَٱنتَظِرُوٓاْ إِنِّي مَعَكُم مِّنَ ٱلۡمُنتَظِرِينَ
 sentence_translation: Are they waiting for ˹anything˺ except the same torments that
   befell those before them? Say, “Keep waiting then! I too am waiting with you.”
 word_by_word:
@@ -9,11 +9,11 @@ word_by_word:
     translation: Then do
     transliteration: fahal
   2:
-    arabic: يَنۡتَظِرُوۡنَ
+    arabic: يَنتَظِرُونَ
     translation: they wait
     transliteration: yantaẓirūna
   3:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   4:
@@ -21,23 +21,23 @@ word_by_word:
     translation: like
     transliteration: mith'la
   5:
-    arabic: اَيَّامِ
+    arabic: أَيَّامِ
     translation: the days
     transliteration: ayyāmi
   6:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: (of) those who
     transliteration: alladhīna
   7:
-    arabic: خَلَوۡا
+    arabic: خَلَوۡاْ
     translation: passed away
     transliteration: khalaw
   8:
-    arabic: مِنۡ
+    arabic: مِن
     translation: before them
     transliteration: min
   9:
-    arabic: قَبۡلِهِمۡ​ؕ
+    arabic: قَبۡلِهِمۡۚ
     translation: before them
     transliteration: qablihim
   10:
@@ -45,15 +45,15 @@ word_by_word:
     translation: Say
     transliteration: qul
   11:
-    arabic: فَانْتَظِرُوۡۤا
+    arabic: فَٱنتَظِرُوٓاْ
     translation: Then wait
     transliteration: fa-intaẓirū
   12:
-    arabic: اِنِّىۡ
+    arabic: إِنِّي
     translation: indeed, I (am)
     transliteration: innī
   13:
-    arabic: مَعَكُمۡ
+    arabic: مَعَكُم
     translation: with you
     transliteration: maʿakum
   14:
@@ -61,7 +61,7 @@ word_by_word:
     translation: among
     transliteration: mina
   15:
-    arabic: الۡمُنۡتَظِرِيۡنَ‏
+    arabic: ٱلۡمُنتَظِرِينَ
     translation: the ones who wait
     transliteration: l-muntaẓirīna
 ---

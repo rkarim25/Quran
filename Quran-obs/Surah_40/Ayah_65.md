@@ -1,6 +1,6 @@
 ---
-arabic_ayat: هُوَ الۡحَىُّ لَاۤ اِلٰهَ اِلَّا هُوَ فَادۡعُوۡهُ مُخۡلِصِيۡنَ لَهُ الدِّيۡنَؕ
-  اَلۡحَمۡدُ لِلّٰهِ رَبِّ الۡعٰلَمِيۡنَ‏
+arabic_ayat: هُوَ ٱلۡحَيُّ لَآ إِلَٰهَ إِلَّا هُوَ فَٱدۡعُوهُ مُخۡلِصِينَ لَهُ ٱلدِّينَۗ
+  ٱلۡحَمۡدُ لِلَّهِ رَبِّ ٱلۡعَٰلَمِينَ
 sentence_translation: He is the Ever-Living. There is no god ˹worthy of worship˺ except
   Him. So call upon Him with sincere devotion, ˹saying,˺ “All praise is for Allah—Lord
   of all worlds.”
@@ -10,19 +10,19 @@ word_by_word:
     translation: He
     transliteration: huwa
   2:
-    arabic: الۡحَىُّ
+    arabic: ٱلۡحَيُّ
     translation: (is) the Ever-Living
     transliteration: l-ḥayu
   3:
-    arabic: لَاۤ
+    arabic: لَآ
     translation: (there is) no
     transliteration: lā
   4:
-    arabic: اِلٰهَ
+    arabic: إِلَٰهَ
     translation: god
     transliteration: ilāha
   5:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: but
     transliteration: illā
   6:
@@ -30,11 +30,11 @@ word_by_word:
     translation: He
     transliteration: huwa
   7:
-    arabic: فَادۡعُوۡهُ
+    arabic: فَٱدۡعُوهُ
     translation: so call Him
     transliteration: fa-id'ʿūhu
   8:
-    arabic: مُخۡلِصِيۡنَ
+    arabic: مُخۡلِصِينَ
     translation: (being) sincere
     transliteration: mukh'liṣīna
   9:
@@ -42,15 +42,15 @@ word_by_word:
     translation: to Him
     transliteration: lahu
   10:
-    arabic: الدِّيۡنَؕ
+    arabic: ٱلدِّينَۗ
     translation: (in) the religion
     transliteration: l-dīna
   11:
-    arabic: اَلۡحَمۡدُ
+    arabic: ٱلۡحَمۡدُ
     translation: All praise (be)
     transliteration: l-ḥamdu
   12:
-    arabic: لِلّٰهِ
+    arabic: لِلَّهِ
     translation: to Allah
     transliteration: lillahi
   13:
@@ -58,7 +58,7 @@ word_by_word:
     translation: (the) Lord
     transliteration: rabbi
   14:
-    arabic: الۡعٰلَمِيۡنَ‏
+    arabic: ٱلۡعَٰلَمِينَ
     translation: (of) the worlds
     transliteration: l-ʿālamīna
 ---

@@ -1,17 +1,17 @@
 ---
-arabic_ayat: الَّذِيۡنَ يَرِثُوۡنَ الۡفِرۡدَوۡسَؕ هُمۡ فِيۡهَا خٰلِدُوۡنَ‏
+arabic_ayat: ٱلَّذِينَ يَرِثُونَ ٱلۡفِرۡدَوۡسَ هُمۡ فِيهَا خَٰلِدُونَ
 sentence_translation: Paradise as their own. They will be there forever.
 word_by_word:
   1:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: Who
     transliteration: alladhīna
   2:
-    arabic: يَرِثُوۡنَ
+    arabic: يَرِثُونَ
     translation: will inherit
     transliteration: yarithūna
   3:
-    arabic: الۡفِرۡدَوۡسَؕ
+    arabic: ٱلۡفِرۡدَوۡسَ
     translation: the Paradise
     transliteration: l-fir'dawsa
   4:
@@ -19,11 +19,11 @@ word_by_word:
     translation: They
     transliteration: hum
   5:
-    arabic: فِيۡهَا
+    arabic: فِيهَا
     translation: therein
     transliteration: fīhā
   6:
-    arabic: خٰلِدُوۡنَ‏
+    arabic: خَٰلِدُونَ
     translation: (will) abide forever
     transliteration: khālidūna
 ---

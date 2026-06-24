@@ -1,12 +1,12 @@
 ---
-arabic_ayat: وَكَذٰلِكَ نُصَرِّفُ الۡاٰيٰتِ وَلِيَقُوۡلُوۡا دَرَسۡتَ وَلِنُبَيِّنَهٗ
-  لِقَوۡمٍ يَّعۡلَمُوۡنَ‏
+arabic_ayat: وَكَذَٰلِكَ نُصَرِّفُ ٱلۡأٓيَٰتِ وَلِيَقُولُواْ دَرَسۡتَ وَلِنُبَيِّنَهُۥ
+  لِقَوۡمٖ يَعۡلَمُونَ
 sentence_translation: And so We vary our signs to the extent that they will say, “You
   have studied ˹previous scriptures˺,” and We make this ˹Quran˺ clear for people who
   know.
 word_by_word:
   1:
-    arabic: وَكَذٰلِكَ
+    arabic: وَكَذَٰلِكَ
     translation: And thus
     transliteration: wakadhālika
   2:
@@ -14,11 +14,11 @@ word_by_word:
     translation: We explain
     transliteration: nuṣarrifu
   3:
-    arabic: الۡاٰيٰتِ
+    arabic: ٱلۡأٓيَٰتِ
     translation: the Signs
     transliteration: l-āyāti
   4:
-    arabic: وَلِيَقُوۡلُوۡا
+    arabic: وَلِيَقُولُواْ
     translation: that they (may) say
     transliteration: waliyaqūlū
   5:
@@ -26,15 +26,15 @@ word_by_word:
     translation: You have studied
     transliteration: darasta
   6:
-    arabic: وَلِنُبَيِّنَهٗ
+    arabic: وَلِنُبَيِّنَهُۥ
     translation: and that We (may) make it clear
     transliteration: walinubayyinahu
   7:
-    arabic: لِقَوۡمٍ
+    arabic: لِقَوۡمٖ
     translation: for a people
     transliteration: liqawmin
   8:
-    arabic: يَّعۡلَمُوۡنَ‏
+    arabic: يَعۡلَمُونَ
     translation: who know
     transliteration: yaʿlamūna
 ---

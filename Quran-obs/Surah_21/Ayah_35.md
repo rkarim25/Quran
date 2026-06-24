@@ -1,6 +1,6 @@
 ---
-arabic_ayat: كُلُّ نَفۡسٍ ذَآٮِٕقَةُ الۡمَوۡتِ​ؕ وَنَبۡلُوۡكُمۡ بِالشَّرِّ وَالۡخَيۡرِ
-  فِتۡنَةً​  ؕ وَاِلَيۡنَا تُرۡجَعُوۡنَ‏
+arabic_ayat: كُلُّ نَفۡسٖ ذَآئِقَةُ ٱلۡمَوۡتِۗ وَنَبۡلُوكُم بِٱلشَّرِّ وَٱلۡخَيۡرِ
+  فِتۡنَةٗۖ وَإِلَيۡنَا تُرۡجَعُونَ
 sentence_translation: Every soul will taste death. And We test you ˹O humanity˺ with
   good and evil as a trial, then to Us you will ˹all˺ be returned.
 word_by_word:
@@ -9,39 +9,39 @@ word_by_word:
     translation: Every
     transliteration: kullu
   2:
-    arabic: نَفۡسٍ
+    arabic: نَفۡسٖ
     translation: soul
     transliteration: nafsin
   3:
-    arabic: ذَآٮِٕقَةُ
+    arabic: ذَآئِقَةُ
     translation: (will) taste
     transliteration: dhāiqatu
   4:
-    arabic: الۡمَوۡتِ​ؕ
+    arabic: ٱلۡمَوۡتِۗ
     translation: '[the] death'
     transliteration: l-mawti
   5:
-    arabic: وَنَبۡلُوۡكُمۡ
+    arabic: وَنَبۡلُوكُم
     translation: And We test you
     transliteration: wanablūkum
   6:
-    arabic: بِالشَّرِّ
+    arabic: بِٱلشَّرِّ
     translation: with [the] bad
     transliteration: bil-shari
   7:
-    arabic: وَالۡخَيۡرِ
+    arabic: وَٱلۡخَيۡرِ
     translation: and [the] good
     transliteration: wal-khayri
   8:
-    arabic: فِتۡنَةً​  ؕ
+    arabic: فِتۡنَةٗۖ
     translation: (as) a trial
     transliteration: fit'natan
   9:
-    arabic: وَاِلَيۡنَا
+    arabic: وَإِلَيۡنَا
     translation: and to Us
     transliteration: wa-ilaynā
   10:
-    arabic: تُرۡجَعُوۡنَ‏
+    arabic: تُرۡجَعُونَ
     translation: you will be returned
     transliteration: tur'jaʿūna
 ---

@@ -1,19 +1,19 @@
 ---
-arabic_ayat: اَلَمۡ يَرَوۡا كَمۡ اَهۡلَـكۡنَا مِنۡ قَبۡلِهِمۡ مِّنۡ قَرۡنٍ مَّكَّنّٰهُمۡ
-  فِى الۡاَرۡضِ مَا لَمۡ نُمَكِّنۡ لَّـكُمۡ وَاَرۡسَلۡنَا السَّمَآءَ عَلَيۡهِمۡ مِّدۡرَارًا
-  وَّجَعَلۡنَا الۡاَنۡهٰرَ تَجۡرِىۡ مِنۡ تَحۡتِهِمۡ فَاَهۡلَكۡنٰهُمۡ بِذُنُوۡبِهِمۡ
-  وَاَنۡشَاۡنَا مِنۡۢ بَعۡدِهِمۡ قَرۡنًا اٰخَرِيۡنَ‏
+arabic_ayat: أَلَمۡ يَرَوۡاْ كَمۡ أَهۡلَكۡنَا مِن قَبۡلِهِم مِّن قَرۡنٖ مَّكَّنَّٰهُمۡ
+  فِي ٱلۡأَرۡضِ مَا لَمۡ نُمَكِّن لَّكُمۡ وَأَرۡسَلۡنَا ٱلسَّمَآءَ عَلَيۡهِم مِّدۡرَارٗا
+  وَجَعَلۡنَا ٱلۡأَنۡهَٰرَ تَجۡرِي مِن تَحۡتِهِمۡ فَأَهۡلَكۡنَٰهُم بِذُنُوبِهِمۡ وَأَنشَأۡنَا
+  مِنۢ بَعۡدِهِمۡ قَرۡنًا ءَاخَرِينَ
 sentence_translation: Have they not seen how many ˹disbelieving˺ peoples We destroyed
   before them? We had made them more established in the land than you. We sent down
   abundant rain for them and made rivers flow at their feet. Then We destroyed them
   for their sins and replaced them with other peoples.
 word_by_word:
   1:
-    arabic: اَلَمۡ
+    arabic: أَلَمۡ
     translation: Did not
     transliteration: alam
   2:
-    arabic: يَرَوۡا
+    arabic: يَرَوۡاْ
     translation: they see
     transliteration: yaraw
   3:
@@ -21,35 +21,35 @@ word_by_word:
     translation: how many
     transliteration: kam
   4:
-    arabic: اَهۡلَـكۡنَا
+    arabic: أَهۡلَكۡنَا
     translation: We destroyed
     transliteration: ahlaknā
   5:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   6:
-    arabic: قَبۡلِهِمۡ
+    arabic: قَبۡلِهِم
     translation: before them
     transliteration: qablihim
   7:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: of
     transliteration: min
   8:
-    arabic: قَرۡنٍ
+    arabic: قَرۡنٖ
     translation: generations
     transliteration: qarnin
   9:
-    arabic: مَّكَّنّٰهُمۡ
+    arabic: مَّكَّنَّٰهُمۡ
     translation: We had established them
     transliteration: makkannāhum
   10:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   11:
-    arabic: الۡاَرۡضِ
+    arabic: ٱلۡأَرۡضِ
     translation: the earth
     transliteration: l-arḍi
   12:
@@ -61,43 +61,43 @@ word_by_word:
     translation: not
     transliteration: lam
   14:
-    arabic: نُمَكِّنۡ
+    arabic: نُمَكِّن
     translation: We (have) established
     transliteration: numakkin
   15:
-    arabic: لَّـكُمۡ
+    arabic: لَّكُمۡ
     translation: for you
     transliteration: lakum
   16:
-    arabic: وَاَرۡسَلۡنَا
+    arabic: وَأَرۡسَلۡنَا
     translation: And We sent
     transliteration: wa-arsalnā
   17:
-    arabic: السَّمَآءَ
+    arabic: ٱلسَّمَآءَ
     translation: (rain from) the sky
     transliteration: l-samāa
   18:
-    arabic: عَلَيۡهِمۡ
+    arabic: عَلَيۡهِم
     translation: upon them
     transliteration: ʿalayhim
   19:
-    arabic: مِّدۡرَارًا
+    arabic: مِّدۡرَارٗا
     translation: showering abundantly
     transliteration: mid'rāran
   20:
-    arabic: وَّجَعَلۡنَا
+    arabic: وَجَعَلۡنَا
     translation: and We made
     transliteration: wajaʿalnā
   21:
-    arabic: الۡاَنۡهٰرَ
+    arabic: ٱلۡأَنۡهَٰرَ
     translation: the rivers
     transliteration: l-anhāra
   22:
-    arabic: تَجۡرِىۡ
+    arabic: تَجۡرِي
     translation: flow
     transliteration: tajrī
   23:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   24:
@@ -105,19 +105,19 @@ word_by_word:
     translation: underneath them
     transliteration: taḥtihim
   25:
-    arabic: فَاَهۡلَكۡنٰهُمۡ
+    arabic: فَأَهۡلَكۡنَٰهُم
     translation: Then We destroyed them
     transliteration: fa-ahlaknāhum
   26:
-    arabic: بِذُنُوۡبِهِمۡ
+    arabic: بِذُنُوبِهِمۡ
     translation: for their sins
     transliteration: bidhunūbihim
   27:
-    arabic: وَاَنۡشَاۡنَا
+    arabic: وَأَنشَأۡنَا
     translation: and We raised
     transliteration: wa-anshanā
   28:
-    arabic: مِنۡۢ
+    arabic: مِنۢ
     translation: from
     transliteration: min
   29:
@@ -125,11 +125,11 @@ word_by_word:
     translation: after them
     transliteration: baʿdihim
   30:
-    arabic: قَرۡنًا
+    arabic: قَرۡنًا ءَ
     translation: generations
     transliteration: qarnan
   31:
-    arabic: اٰخَرِيۡنَ‏
+    arabic: اخَرِينَ
     translation: other
     transliteration: ākharīna
 ---

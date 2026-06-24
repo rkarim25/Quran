@@ -1,35 +1,34 @@
 ---
-arabic_ayat: "فَاسۡتَخَفَّ قَوۡمَهٗ فَاَطَاعُوۡهُ​ؕ اِنَّهُمۡ كَانُوۡا قَوۡمًا فٰسِقِيۡنَ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: فَٱسۡتَخَفَّ قَوۡمَهُۥ فَأَطَاعُوهُۚ إِنَّهُمۡ كَانُواْ قَوۡمٗا فَٰسِقِينَ
 sentence_translation: And so he fooled his people, and they obeyed him. They were
   truly a rebellious people.
 word_by_word:
   1:
-    arabic: فَاسۡتَخَفَّ
+    arabic: فَٱسۡتَخَفَّ
     translation: So he bluffed
     transliteration: fa-is'takhaffa
   2:
-    arabic: قَوۡمَهٗ
+    arabic: قَوۡمَهُۥ
     translation: his people
     transliteration: qawmahu
   3:
-    arabic: فَاَطَاعُوۡهُ​ؕ
+    arabic: فَأَطَاعُوهُۚ
     translation: and they obeyed him
     transliteration: fa-aṭāʿūhu
   4:
-    arabic: اِنَّهُمۡ
+    arabic: إِنَّهُمۡ
     translation: Indeed, they
     transliteration: innahum
   5:
-    arabic: كَانُوۡا
+    arabic: كَانُواْ
     translation: were
     transliteration: kānū
   6:
-    arabic: قَوۡمًا
+    arabic: قَوۡمٗا
     translation: a people
     transliteration: qawman
   7:
-    arabic: "فٰسِقِيۡنَ‏ \uFEFF\uFEFF"
+    arabic: فَٰسِقِينَ
     translation: defiantly disobedient
     transliteration: fāsiqīna
 ---

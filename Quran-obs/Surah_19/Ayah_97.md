@@ -1,16 +1,16 @@
 ---
-arabic_ayat: فَاِنَّمَا يَسَّرۡنٰهُ بِلِسَانِكَ لِتُبَشِّرَ بِهِ الۡمُتَّقِيۡنَ وَتُنۡذِرَ
-  بِهٖ قَوۡمًا لُّدًّا‏
+arabic_ayat: فَإِنَّمَا يَسَّرۡنَٰهُ بِلِسَانِكَ لِتُبَشِّرَ بِهِ ٱلۡمُتَّقِينَ وَتُنذِرَ
+  بِهِۦ قَوۡمٗا لُّدّٗا
 sentence_translation: Indeed, We have made this ˹Quran˺ easy in your own language
   ˹O Prophet˺ so with it you may give good news to the righteous and warn those who
   are contentious.
 word_by_word:
   1:
-    arabic: فَاِنَّمَا
+    arabic: فَإِنَّمَا
     translation: So, only
     transliteration: fa-innamā
   2:
-    arabic: يَسَّرۡنٰهُ
+    arabic: يَسَّرۡنَٰهُ
     translation: We (have) made it easy
     transliteration: yassarnāhu
   3:
@@ -26,23 +26,23 @@ word_by_word:
     translation: with it
     transliteration: bihi
   6:
-    arabic: الۡمُتَّقِيۡنَ
+    arabic: ٱلۡمُتَّقِينَ
     translation: (to) the righteous
     transliteration: l-mutaqīna
   7:
-    arabic: وَتُنۡذِرَ
+    arabic: وَتُنذِرَ
     translation: and warn
     transliteration: watundhira
   8:
-    arabic: بِهٖ
+    arabic: بِهِۦ
     translation: with it
     transliteration: bihi
   9:
-    arabic: قَوۡمًا
+    arabic: قَوۡمٗا
     translation: a people
     transliteration: qawman
   10:
-    arabic: لُّدًّا‏
+    arabic: لُّدّٗا
     translation: hostile
     transliteration: luddan
 ---

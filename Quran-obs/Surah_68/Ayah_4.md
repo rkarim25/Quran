@@ -1,13 +1,13 @@
 ---
-arabic_ayat: وَاِنَّكَ لَعَلٰى خُلُقٍ عَظِيۡمٍ‏
+arabic_ayat: وَإِنَّكَ لَعَلَىٰ خُلُقٍ عَظِيمٖ
 sentence_translation: And you are truly ˹a man˺ of outstanding character.
 word_by_word:
   1:
-    arabic: وَاِنَّكَ
+    arabic: وَإِنَّكَ
     translation: And indeed, you
     transliteration: wa-innaka
   2:
-    arabic: لَعَلٰى
+    arabic: لَعَلَىٰ
     translation: surely (are)
     transliteration: laʿalā
   3:
@@ -15,7 +15,7 @@ word_by_word:
     translation: (of) a moral character
     transliteration: khuluqin
   4:
-    arabic: عَظِيۡمٍ‏
+    arabic: عَظِيمٖ
     translation: great
     transliteration: ʿaẓīmin
 ---

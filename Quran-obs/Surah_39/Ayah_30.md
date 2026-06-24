@@ -1,21 +1,21 @@
 ---
-arabic_ayat: اِنَّكَ مَيِّتٌ وَّاِنَّهُمۡ مَّيِّتُوۡنَ‏
+arabic_ayat: إِنَّكَ مَيِّتٞ وَإِنَّهُم مَّيِّتُونَ
 sentence_translation: You ˹O Prophet˺ will certainly die, and they will die too.
 word_by_word:
   1:
-    arabic: اِنَّكَ
+    arabic: إِنَّكَ
     translation: Indeed, you
     transliteration: innaka
   2:
-    arabic: مَيِّتٌ
+    arabic: مَيِّتٞ
     translation: will die
     transliteration: mayyitun
   3:
-    arabic: وَّاِنَّهُمۡ
+    arabic: وَإِنَّهُم
     translation: and indeed, they
     transliteration: wa-innahum
   4:
-    arabic: مَّيِّتُوۡنَ‏
+    arabic: مَّيِّتُونَ
     translation: (will also) die
     transliteration: mayyitūna
 ---

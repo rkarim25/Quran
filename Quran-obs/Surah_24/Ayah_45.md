@@ -1,14 +1,14 @@
 ---
-arabic_ayat: وَاللّٰهُ خَلَقَ كُلَّ دَآبَّةٍ مِّنۡ مَّآءٍ ​ۚفَمِنۡهُمۡ مَّنۡ يَّمۡشِىۡ
-  عَلٰى بَطۡنِهٖ​ۚ وَمِنۡهُمۡ مَّنۡ يَّمۡشِىۡ عَلٰى رِجۡلَيۡنِ وَمِنۡهُمۡ مَّنۡ يَّمۡشِىۡ
-  عَلٰٓى اَرۡبَعٍ​ؕ يَخۡلُقُ اللّٰهُ مَا يَشَآءُ​ؕ اِنَّ اللّٰهَ عَلٰى كُلِّ شَىۡءٍ
-  قَدِيۡرٌ‏
+arabic_ayat: وَٱللَّهُ خَلَقَ كُلَّ دَآبَّةٖ مِّن مَّآءٖۖ فَمِنۡهُم مَّن يَمۡشِي
+  عَلَىٰ بَطۡنِهِۦ وَمِنۡهُم مَّن يَمۡشِي عَلَىٰ رِجۡلَيۡنِ وَمِنۡهُم مَّن يَمۡشِي
+  عَلَىٰٓ أَرۡبَعٖۚ يَخۡلُقُ ٱللَّهُ مَا يَشَآءُۚ إِنَّ ٱللَّهَ عَلَىٰ كُلِّ شَيۡءٖ
+  قَدِيرٞ
 sentence_translation: And Allah has created from water every living creature. Some
   of them crawl on their bellies, some walk on two legs, and some walk on four. Allah
   creates whatever He wills. Surely Allah is Most Capable of everything.
 word_by_word:
   1:
-    arabic: وَاللّٰهُ
+    arabic: وَٱللَّهُ
     translation: And Allah
     transliteration: wal-lahu
   2:
@@ -20,51 +20,51 @@ word_by_word:
     translation: every
     transliteration: kulla
   4:
-    arabic: دَآبَّةٍ
+    arabic: دَآبَّةٖ
     translation: moving creature
     transliteration: dābbatin
   5:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: from
     transliteration: min
   6:
-    arabic: مَّآءٍ ​ۚ
+    arabic: مَّآءٖۖ
     translation: water
     transliteration: māin
   7:
-    arabic: فَمِنۡهُمۡ
+    arabic: فَمِنۡهُم
     translation: Of them
     transliteration: famin'hum
   8:
-    arabic: مَّنۡ
+    arabic: مَّن
     translation: (is a kind) who
     transliteration: man
   9:
-    arabic: يَّمۡشِىۡ
+    arabic: يَمۡشِي
     translation: walks
     transliteration: yamshī
   10:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: 'on'
     transliteration: ʿalā
   11:
-    arabic: بَطۡنِهٖ​ۚ
+    arabic: بَطۡنِهِۦ
     translation: its belly
     transliteration: baṭnihi
   12:
-    arabic: وَمِنۡهُمۡ
+    arabic: وَمِنۡهُم
     translation: and of them
     transliteration: wamin'hum
   13:
-    arabic: مَّنۡ
+    arabic: مَّن
     translation: (is a kind) who
     transliteration: man
   14:
-    arabic: يَّمۡشِىۡ
+    arabic: يَمۡشِي
     translation: walks
     transliteration: yamshī
   15:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: 'on'
     transliteration: ʿalā
   16:
@@ -72,23 +72,23 @@ word_by_word:
     translation: two legs
     transliteration: rij'layni
   17:
-    arabic: وَمِنۡهُمۡ
+    arabic: وَمِنۡهُم
     translation: and of them
     transliteration: wamin'hum
   18:
-    arabic: مَّنۡ
+    arabic: مَّن
     translation: (is a kind) who
     transliteration: man
   19:
-    arabic: يَّمۡشِىۡ
+    arabic: يَمۡشِي
     translation: walks
     transliteration: yamshī
   20:
-    arabic: عَلٰٓى
+    arabic: عَلَىٰٓ
     translation: 'on'
     transliteration: ʿalā
   21:
-    arabic: اَرۡبَعٍ​ؕ
+    arabic: أَرۡبَعٖۚ
     translation: four
     transliteration: arbaʿin
   22:
@@ -96,7 +96,7 @@ word_by_word:
     translation: Allah creates
     transliteration: yakhluqu
   23:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah creates
     transliteration: l-lahu
   24:
@@ -104,19 +104,19 @@ word_by_word:
     translation: what
     transliteration: mā
   25:
-    arabic: يَشَآءُ​ؕ
+    arabic: يَشَآءُۚ
     translation: He wills
     transliteration: yashāu
   26:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   27:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   28:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: 'on'
     transliteration: ʿalā
   29:
@@ -124,11 +124,11 @@ word_by_word:
     translation: every
     transliteration: kulli
   30:
-    arabic: شَىۡءٍ
+    arabic: شَيۡءٖ
     translation: thing
     transliteration: shayin
   31:
-    arabic: قَدِيۡرٌ‏
+    arabic: قَدِيرٞ
     translation: (is) All-Powerful
     transliteration: qadīrun
 ---

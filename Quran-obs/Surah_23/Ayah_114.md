@@ -1,27 +1,26 @@
 ---
-arabic_ayat: "قٰلَ اِنۡ لَّبِثۡـتُمۡ اِلَّا قَلِيۡلًا لَّوۡ اَنَّكُمۡ كُنۡتُمۡ تَعۡلَمُوۡنَ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: قَٰلَ إِن لَّبِثۡتُمۡ إِلَّا قَلِيلٗاۖ لَّوۡ أَنَّكُمۡ كُنتُمۡ تَعۡلَمُونَ
 sentence_translation: He will say, “You only remained for a little while, if only
   you knew.
 word_by_word:
   1:
-    arabic: قٰلَ
+    arabic: قَٰلَ
     translation: He will say
     transliteration: qāla
   2:
-    arabic: اِنۡ
+    arabic: إِن
     translation: Not
     transliteration: in
   3:
-    arabic: لَّبِثۡـتُمۡ
+    arabic: لَّبِثۡتُمۡ
     translation: you stayed
     transliteration: labith'tum
   4:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: but
     transliteration: illā
   5:
-    arabic: قَلِيۡلًا
+    arabic: قَلِيلٗاۖ
     translation: a little
     transliteration: qalīlan
   6:
@@ -29,15 +28,15 @@ word_by_word:
     translation: if
     transliteration: law
   7:
-    arabic: اَنَّكُمۡ
+    arabic: أَنَّكُمۡ
     translation: only you
     transliteration: annakum
   8:
-    arabic: كُنۡتُمۡ
+    arabic: كُنتُمۡ
     translation: '[you]'
     transliteration: kuntum
   9:
-    arabic: "تَعۡلَمُوۡنَ‏ \uFEFF\uFEFF"
+    arabic: تَعۡلَمُونَ
     translation: knew
     transliteration: taʿlamūna
 ---

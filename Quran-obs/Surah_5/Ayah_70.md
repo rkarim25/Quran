@@ -1,7 +1,7 @@
 ---
-arabic_ayat: لَقَدۡ اَخَذۡنَا مِيۡثَاقَ بَنِىۡۤ اِسۡرَآءِيۡلَ وَاَرۡسَلۡنَاۤ اِلَيۡهِمۡ
-  رُسُلًا ؕ كُلَّمَا جَآءَهُمۡ رَسُوۡلٌ ۢ بِمَا لَا تَهۡوٰٓى اَنۡفُسُهُمۙۡ فَرِيۡقًا
-  كَذَّبُوۡا وَفَرِيۡقًا يَّقۡتُلُوۡنَ‏
+arabic_ayat: لَقَدۡ أَخَذۡنَا مِيثَٰقَ بَنِيٓ إِسۡرَٰٓءِيلَ وَأَرۡسَلۡنَآ إِلَيۡهِمۡ
+  رُسُلٗاۖ كُلَّمَا جَآءَهُمۡ رَسُولُۢ بِمَا لَا تَهۡوَىٰٓ أَنفُسُهُمۡ فَرِيقٗا كَذَّبُواْ
+  وَفَرِيقٗا يَقۡتُلُونَ
 sentence_translation: Indeed, We took a covenant from the Children of Israel and sent
   them messengers. Whenever a messenger came to them with what they did not desire,
   they denied some and killed others.
@@ -11,31 +11,31 @@ word_by_word:
     translation: Certainly
     transliteration: laqad
   2:
-    arabic: اَخَذۡنَا
+    arabic: أَخَذۡنَا
     translation: We took
     transliteration: akhadhnā
   3:
-    arabic: مِيۡثَاقَ
+    arabic: مِيثَٰقَ
     translation: a Covenant
     transliteration: mīthāqa
   4:
-    arabic: بَنِىۡۤ
+    arabic: بَنِيٓ
     translation: (from the) Children
     transliteration: banī
   5:
-    arabic: اِسۡرَآءِيۡلَ
+    arabic: إِسۡرَٰٓءِيلَ
     translation: (of) Israel
     transliteration: is'rāīla
   6:
-    arabic: وَاَرۡسَلۡنَاۤ
+    arabic: وَأَرۡسَلۡنَآ
     translation: and We sent
     transliteration: wa-arsalnā
   7:
-    arabic: اِلَيۡهِمۡ
+    arabic: إِلَيۡهِمۡ
     translation: to them
     transliteration: ilayhim
   8:
-    arabic: رُسُلًا ؕ
+    arabic: رُسُلٗاۖ
     translation: Messengers
     transliteration: rusulan
   9:
@@ -47,7 +47,7 @@ word_by_word:
     translation: came to them
     transliteration: jāahum
   11:
-    arabic: رَسُوۡلٌ ۢ
+    arabic: رَسُولُۢ
     translation: any Messenger
     transliteration: rasūlun
   12:
@@ -59,27 +59,27 @@ word_by_word:
     translation: not
     transliteration: lā
   14:
-    arabic: تَهۡوٰٓى
+    arabic: تَهۡوَىٰٓ
     translation: desired
     transliteration: tahwā
   15:
-    arabic: اَنۡفُسُهُمۙۡ
+    arabic: أَنفُسُهُمۡ
     translation: their souls
     transliteration: anfusuhum
   16:
-    arabic: فَرِيۡقًا
+    arabic: فَرِيقٗا
     translation: a group
     transliteration: farīqan
   17:
-    arabic: كَذَّبُوۡا
+    arabic: كَذَّبُواْ
     translation: they denied
     transliteration: kadhabū
   18:
-    arabic: وَفَرِيۡقًا
+    arabic: وَفَرِيقٗا
     translation: and a group
     transliteration: wafarīqan
   19:
-    arabic: يَّقۡتُلُوۡنَ‏
+    arabic: يَقۡتُلُونَ
     translation: they kill
     transliteration: yaqtulūna
 ---

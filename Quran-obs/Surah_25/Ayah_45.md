@@ -1,11 +1,11 @@
 ---
-arabic_ayat: اَلَمۡ تَرَ اِلٰى رَبِّكَ كَيۡفَ مَدَّ الظِّلَّ​ ۚ وَلَوۡ شَآءَ لَجَـعَلَهٗ
-  سَاكِنًا​ ۚ ثُمَّ جَعَلۡنَا الشَّمۡسَ عَلَيۡهِ دَلِيۡلًا ۙ‏
+arabic_ayat: أَلَمۡ تَرَ إِلَىٰ رَبِّكَ كَيۡفَ مَدَّ ٱلظِّلَّ وَلَوۡ شَآءَ لَجَعَلَهُۥ
+  سَاكِنٗا ثُمَّ جَعَلۡنَا ٱلشَّمۡسَ عَلَيۡهِ دَلِيلٗا
 sentence_translation: Have you not seen how your Lord extends the shade—He could have
   simply made it ˹remain˺ still if He so willed—then We make the sun its guide,
 word_by_word:
   1:
-    arabic: اَلَمۡ
+    arabic: أَلَمۡ
     translation: Do you not
     transliteration: alam
   2:
@@ -13,7 +13,7 @@ word_by_word:
     translation: see
     transliteration: tara
   3:
-    arabic: اِلٰى
+    arabic: إِلَىٰ
     translation: '[to]'
     transliteration: ilā
   4:
@@ -29,7 +29,7 @@ word_by_word:
     translation: He extends
     transliteration: madda
   7:
-    arabic: الظِّلَّ​ ۚ
+    arabic: ٱلظِّلَّ
     translation: the shadow
     transliteration: l-ẓila
   8:
@@ -41,11 +41,11 @@ word_by_word:
     translation: He willed
     transliteration: shāa
   10:
-    arabic: لَجَـعَلَهٗ
+    arabic: لَجَعَلَهُۥ
     translation: surely He (could) have made it
     transliteration: lajaʿalahu
   11:
-    arabic: سَاكِنًا​ ۚ
+    arabic: سَاكِنٗا
     translation: stationary
     transliteration: sākinan
   12:
@@ -57,7 +57,7 @@ word_by_word:
     translation: We made
     transliteration: jaʿalnā
   14:
-    arabic: الشَّمۡسَ
+    arabic: ٱلشَّمۡسَ
     translation: the sun
     transliteration: l-shamsa
   15:
@@ -65,7 +65,7 @@ word_by_word:
     translation: for it
     transliteration: ʿalayhi
   16:
-    arabic: دَلِيۡلًا ۙ‏
+    arabic: دَلِيلٗا
     translation: an indication
     transliteration: dalīlan
 ---

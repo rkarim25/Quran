@@ -1,6 +1,6 @@
 ---
-arabic_ayat: وَلَوۡ اَنَّهُمۡ صَبَرُوۡا حَتّٰى تَخۡرُجَ اِلَيۡهِمۡ لَـكَانَ خَيۡرًا
-  لَّهُمۡ​ؕ وَاللّٰهُ غَفُوۡرٌ رَّحِيۡمٌ‏
+arabic_ayat: وَلَوۡ أَنَّهُمۡ صَبَرُواْ حَتَّىٰ تَخۡرُجَ إِلَيۡهِمۡ لَكَانَ خَيۡرٗا
+  لَّهُمۡۚ وَٱللَّهُ غَفُورٞ رَّحِيمٞ
 sentence_translation: Had they been patient until you could come out to them, it would
   have certainly been better for them. And Allah is All-Forgiving, Most Merciful.
 word_by_word:
@@ -9,15 +9,15 @@ word_by_word:
     translation: And if
     transliteration: walaw
   2:
-    arabic: اَنَّهُمۡ
+    arabic: أَنَّهُمۡ
     translation: they
     transliteration: annahum
   3:
-    arabic: صَبَرُوۡا
+    arabic: صَبَرُواْ
     translation: had been patient
     transliteration: ṣabarū
   4:
-    arabic: حَتّٰى
+    arabic: حَتَّىٰ
     translation: until
     transliteration: ḥattā
   5:
@@ -25,31 +25,31 @@ word_by_word:
     translation: you came out
     transliteration: takhruja
   6:
-    arabic: اِلَيۡهِمۡ
+    arabic: إِلَيۡهِمۡ
     translation: to them
     transliteration: ilayhim
   7:
-    arabic: لَـكَانَ
+    arabic: لَكَانَ
     translation: certainly it would be
     transliteration: lakāna
   8:
-    arabic: خَيۡرًا
+    arabic: خَيۡرٗا
     translation: better
     transliteration: khayran
   9:
-    arabic: لَّهُمۡ​ؕ
+    arabic: لَّهُمۡۚ
     translation: for them
     transliteration: lahum
   10:
-    arabic: وَاللّٰهُ
+    arabic: وَٱللَّهُ
     translation: And Allah
     transliteration: wal-lahu
   11:
-    arabic: غَفُوۡرٌ
+    arabic: غَفُورٞ
     translation: (is) Oft-Forgiving
     transliteration: ghafūrun
   12:
-    arabic: رَّحِيۡمٌ‏
+    arabic: رَّحِيمٞ
     translation: Most Merciful
     transliteration: raḥīmun
 ---

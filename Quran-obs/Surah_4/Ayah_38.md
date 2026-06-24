@@ -1,21 +1,21 @@
 ---
-arabic_ayat: وَالَّذِيۡنَ يُنۡفِقُوۡنَ اَمۡوَالَهُمۡ رِئَآءَ النَّاسِ وَلَا يُؤۡمِنُوۡنَ
-  بِاللّٰهِ وَلَا بِالۡيَوۡمِ الۡاٰخِرِ​ؕ وَمَنۡ يَّكُنِ الشَّيۡطٰنُ لَهٗ قَرِيۡنًا
-  فَسَآءَ قَرِيۡنًا‏
+arabic_ayat: وَٱلَّذِينَ يُنفِقُونَ أَمۡوَٰلَهُمۡ رِئَآءَ ٱلنَّاسِ وَلَا يُؤۡمِنُونَ
+  بِٱللَّهِ وَلَا بِٱلۡيَوۡمِ ٱلۡأٓخِرِۗ وَمَن يَكُنِ ٱلشَّيۡطَٰنُ لَهُۥ قَرِينٗا
+  فَسَآءَ قَرِينٗا
 sentence_translation: Likewise for those who spend their wealth to show off and do
   not believe in Allah or the Last Day. And whoever takes Satan as an associate—what
   an evil associate they have!
 word_by_word:
   1:
-    arabic: وَالَّذِيۡنَ
+    arabic: وَٱلَّذِينَ
     translation: And those who
     transliteration: wa-alladhīna
   2:
-    arabic: يُنۡفِقُوۡنَ
+    arabic: يُنفِقُونَ
     translation: spend
     transliteration: yunfiqūna
   3:
-    arabic: اَمۡوَالَهُمۡ
+    arabic: أَمۡوَٰلَهُمۡ
     translation: their wealth
     transliteration: amwālahum
   4:
@@ -23,7 +23,7 @@ word_by_word:
     translation: to be seen
     transliteration: riāa
   5:
-    arabic: النَّاسِ
+    arabic: ٱلنَّاسِ
     translation: (by) the people
     transliteration: l-nāsi
   6:
@@ -31,11 +31,11 @@ word_by_word:
     translation: and not
     transliteration: walā
   7:
-    arabic: يُؤۡمِنُوۡنَ
+    arabic: يُؤۡمِنُونَ
     translation: they believe
     transliteration: yu'minūna
   8:
-    arabic: بِاللّٰهِ
+    arabic: بِٱللَّهِ
     translation: in Allah
     transliteration: bil-lahi
   9:
@@ -43,31 +43,31 @@ word_by_word:
     translation: and not
     transliteration: walā
   10:
-    arabic: بِالۡيَوۡمِ
+    arabic: بِٱلۡيَوۡمِ
     translation: in the Day
     transliteration: bil-yawmi
   11:
-    arabic: الۡاٰخِرِ​ؕ
+    arabic: ٱلۡأٓخِرِۗ
     translation: the Last
     transliteration: l-ākhiri
   12:
-    arabic: وَمَنۡ
+    arabic: وَمَن
     translation: and whoever
     transliteration: waman
   13:
-    arabic: يَّكُنِ
+    arabic: يَكُنِ
     translation: has
     transliteration: yakuni
   14:
-    arabic: الشَّيۡطٰنُ
+    arabic: ٱلشَّيۡطَٰنُ
     translation: the Shaitaan
     transliteration: l-shayṭānu
   15:
-    arabic: لَهٗ
+    arabic: لَهُۥ
     translation: for him
     transliteration: lahu
   16:
-    arabic: قَرِيۡنًا
+    arabic: قَرِينٗا
     translation: '(as) companion '
     transliteration: qarīnan
   17:
@@ -75,7 +75,7 @@ word_by_word:
     translation: then evil
     transliteration: fasāa
   18:
-    arabic: قَرِيۡنًا‏
+    arabic: قَرِينٗا
     translation: (is he as) a companion
     transliteration: qarīnan
 ---

@@ -1,24 +1,24 @@
 ---
-arabic_ayat: وَاِذَا سَمِعُوا اللَّغۡوَ اَعۡرَضُوۡا عَنۡهُ وَقَالُوۡا لَنَاۤ اَعۡمَالُنَا
-  وَلَـكُمۡ اَعۡمَالُـكُمۡ سَلٰمٌ عَلَيۡكُمۡ لَا نَبۡتَغِى الۡجٰهِلِيۡنَ‏
+arabic_ayat: وَإِذَا سَمِعُواْ ٱللَّغۡوَ أَعۡرَضُواْ عَنۡهُ وَقَالُواْ لَنَآ أَعۡمَٰلُنَا
+  وَلَكُمۡ أَعۡمَٰلُكُمۡ سَلَٰمٌ عَلَيۡكُمۡ لَا نَبۡتَغِي ٱلۡجَٰهِلِينَ
 sentence_translation: When they hear slanderous talk, they turn away from it, saying,
   “We are accountable for our deeds and you for yours. Peace ˹is our only response˺
   to you! We want nothing to do with those who act ignorantly.”
 word_by_word:
   1:
-    arabic: وَاِذَا
+    arabic: وَإِذَا
     translation: And when
     transliteration: wa-idhā
   2:
-    arabic: سَمِعُوا
+    arabic: سَمِعُواْ
     translation: they hear
     transliteration: samiʿū
   3:
-    arabic: اللَّغۡوَ
+    arabic: ٱللَّغۡوَ
     translation: vain talk
     transliteration: l-laghwa
   4:
-    arabic: اَعۡرَضُوۡا
+    arabic: أَعۡرَضُواْ
     translation: they turn away
     transliteration: aʿraḍū
   5:
@@ -26,31 +26,31 @@ word_by_word:
     translation: from it
     transliteration: ʿanhu
   6:
-    arabic: وَقَالُوۡا
+    arabic: وَقَالُواْ
     translation: and say
     transliteration: waqālū
   7:
-    arabic: لَنَاۤ
+    arabic: لَنَآ
     translation: For us
     transliteration: lanā
   8:
-    arabic: اَعۡمَالُنَا
+    arabic: أَعۡمَٰلُنَا
     translation: our deeds
     transliteration: aʿmālunā
   9:
-    arabic: وَلَـكُمۡ
+    arabic: وَلَكُمۡ
     translation: and for you
     transliteration: walakum
   10:
-    arabic: اَعۡمَالُـكُمۡ
+    arabic: أَعۡمَٰلُكُمۡ
     translation: your deeds
     transliteration: aʿmālukum
   11:
-    arabic: سَلٰمٌ
+    arabic: سَلَٰمٌ
     translation: Peace (be)
     transliteration: salāmun
   12:
-    arabic: عَلَيۡكُمۡ
+    arabic: عَلَيۡكُمۡ
     translation: on you
     transliteration: ʿalaykum
   13:
@@ -58,11 +58,11 @@ word_by_word:
     translation: not
     transliteration: lā
   14:
-    arabic: نَبۡتَغِى
+    arabic: نَبۡتَغِي
     translation: we seek
     transliteration: nabtaghī
   15:
-    arabic: الۡجٰهِلِيۡنَ‏
+    arabic: ٱلۡجَٰهِلِينَ
     translation: the ignorant
     transliteration: l-jāhilīna
 ---

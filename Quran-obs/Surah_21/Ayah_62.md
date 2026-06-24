@@ -1,13 +1,13 @@
 ---
-arabic_ayat: قَالُوۡٓا ءَاَنۡتَ فَعَلۡتَ هٰذَا بِاٰلِهَتِنَا يٰۤاِبۡرٰهِيۡمُؕ‏
+arabic_ayat: قَالُوٓاْ ءَأَنتَ فَعَلۡتَ هَٰذَا بِـَٔالِهَتِنَا يَٰٓإِبۡرَٰهِيمُ
 sentence_translation: They asked, “Was it you who did this to our gods, O  Abraham?”
 word_by_word:
   1:
-    arabic: قَالُوۡٓا
+    arabic: قَالُوٓاْ
     translation: They said
     transliteration: qālū
   2:
-    arabic: ءَاَنۡتَ
+    arabic: ءَأَنتَ
     translation: Have you
     transliteration: a-anta
   3:
@@ -15,15 +15,15 @@ word_by_word:
     translation: done
     transliteration: faʿalta
   4:
-    arabic: هٰذَا
+    arabic: هَٰذَا
     translation: this
     transliteration: hādhā
   5:
-    arabic: بِاٰلِهَتِنَا
+    arabic: بِـَٔالِهَتِنَا
     translation: to our gods
     transliteration: biālihatinā
   6:
-    arabic: يٰۤاِبۡرٰهِيۡمُؕ‏
+    arabic: يَٰٓإِبۡرَٰهِيمُ
     translation: O Ibrahim
     transliteration: yāib'rāhīmu
 ---

@@ -1,10 +1,10 @@
 ---
-arabic_ayat: وَاسۡتَمِعۡ يَوۡمَ يُنَادِ الۡمُنَادِ مِنۡ مَّكَانٍ قَرِيۡبٍۙ‏
+arabic_ayat: وَٱسۡتَمِعۡ يَوۡمَ يُنَادِ ٱلۡمُنَادِ مِن مَّكَانٖ قَرِيبٖ
 sentence_translation: And listen! On the Day the caller will call out from a near
   place,
 word_by_word:
   1:
-    arabic: وَاسۡتَمِعۡ
+    arabic: وَٱسۡتَمِعۡ
     translation: And listen
     transliteration: wa-is'tamiʿ
   2:
@@ -16,19 +16,19 @@ word_by_word:
     translation: will call
     transliteration: yunādi
   4:
-    arabic: الۡمُنَادِ
+    arabic: ٱلۡمُنَادِ
     translation: the caller
     transliteration: l-munādi
   5:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   6:
-    arabic: مَّكَانٍ
+    arabic: مَّكَانٖ
     translation: a place
     transliteration: makānin
   7:
-    arabic: قَرِيۡبٍۙ‏
+    arabic: قَرِيبٖ
     translation: near
     transliteration: qarībin
 ---

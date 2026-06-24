@@ -1,35 +1,35 @@
 ---
-arabic_ayat: وَالَّذِيۡنَ كَفَرُوۡا وَكَذَّبُوۡا بِـاٰيٰتِنَآ اُولٰٓٮِٕكَ اَصۡحٰبُ
-  النَّارِ​​ۚ هُمۡ فِيۡهَا خٰلِدُوۡنَ‏
+arabic_ayat: وَٱلَّذِينَ كَفَرُواْ وَكَذَّبُواْ بِـَٔايَٰتِنَآ أُوْلَٰٓئِكَ أَصۡحَٰبُ
+  ٱلنَّارِۖ هُمۡ فِيهَا خَٰلِدُونَ
 sentence_translation: But those who disbelieve and deny Our signs will be the residents
   of the Fire. They will be there forever.”
 word_by_word:
   1:
-    arabic: وَالَّذِيۡنَ
+    arabic: وَٱلَّذِينَ
     translation: And those
     transliteration: wa-alladhīna
   2:
-    arabic: كَفَرُوۡا
+    arabic: كَفَرُواْ
     translation: who disbelieve[d]
     transliteration: kafarū
   3:
-    arabic: وَكَذَّبُوۡا
+    arabic: وَكَذَّبُواْ
     translation: and deny
     transliteration: wakadhabū
   4:
-    arabic: بِـاٰيٰتِنَآ
+    arabic: بِـَٔايَٰتِنَآ
     translation: Our Signs
     transliteration: biāyātinā
   5:
-    arabic: اُولٰٓٮِٕكَ
+    arabic: أُوْلَٰٓئِكَ
     translation: those
     transliteration: ulāika
   6:
-    arabic: اَصۡحٰبُ
+    arabic: أَصۡحَٰبُ
     translation: (are the) companions
     transliteration: aṣḥābu
   7:
-    arabic: النَّارِ​​ۚ
+    arabic: ٱلنَّارِۖ
     translation: (of) the Fire
     transliteration: l-nāri
   8:
@@ -37,11 +37,11 @@ word_by_word:
     translation: they
     transliteration: hum
   9:
-    arabic: فِيۡهَا
+    arabic: فِيهَا
     translation: in it
     transliteration: fīhā
   10:
-    arabic: خٰلِدُوۡنَ‏
+    arabic: خَٰلِدُونَ
     translation: (will) abide forever
     transliteration: khālidūna
 ---

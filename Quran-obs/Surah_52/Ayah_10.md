@@ -1,17 +1,17 @@
 ---
-arabic_ayat: وَّتَسِيۡرُ الۡجِبَالُ سَيۡرًا ؕ‏
+arabic_ayat: وَتَسِيرُ ٱلۡجِبَالُ سَيۡرٗا
 sentence_translation: and the mountains will be blown away entirely.
 word_by_word:
   1:
-    arabic: وَّتَسِيۡرُ
+    arabic: وَتَسِيرُ
     translation: And will move away
     transliteration: watasīru
   2:
-    arabic: الۡجِبَالُ
+    arabic: ٱلۡجِبَالُ
     translation: the mountains
     transliteration: l-jibālu
   3:
-    arabic: سَيۡرًا ؕ‏
+    arabic: سَيۡرٗا
     translation: (with an awful) movement
     transliteration: sayran
 ---

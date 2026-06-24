@@ -1,6 +1,6 @@
 ---
-arabic_ayat: وَعَلَى اللّٰهِ قَصۡدُ السَّبِيۡلِ وَمِنۡهَا جَآٮِٕرٌ​ؕ وَلَوۡ شَآءَ
-  لَهَدٰٮكُمۡ اَجۡمَعِيۡنَ‏
+arabic_ayat: وَعَلَى ٱللَّهِ قَصۡدُ ٱلسَّبِيلِ وَمِنۡهَا جَآئِرٞۚ وَلَوۡ شَآءَ لَهَدَىٰكُمۡ
+  أَجۡمَعِينَ
 sentence_translation: It is upon Allah ˹alone˺ to ˹clearly˺ show the Straight Way.
   Other ways are deviant. Had He willed, He would have easily imposed guidance upon
   all of you.
@@ -10,7 +10,7 @@ word_by_word:
     translation: And upon
     transliteration: waʿalā
   2:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   3:
@@ -18,7 +18,7 @@ word_by_word:
     translation: (is) the direction
     transliteration: qaṣdu
   4:
-    arabic: السَّبِيۡلِ
+    arabic: ٱلسَّبِيلِ
     translation: (of) the way
     transliteration: l-sabīli
   5:
@@ -26,7 +26,7 @@ word_by_word:
     translation: and among them
     transliteration: wamin'hā
   6:
-    arabic: جَآٮِٕرٌ​ؕ
+    arabic: جَآئِرٞۚ
     translation: (are) crooked
     transliteration: jāirun
   7:
@@ -38,11 +38,11 @@ word_by_word:
     translation: He willed
     transliteration: shāa
   9:
-    arabic: لَهَدٰٮكُمۡ
+    arabic: لَهَدَىٰكُمۡ
     translation: surely He would have guided you
     transliteration: lahadākum
   10:
-    arabic: اَجۡمَعِيۡنَ‏
+    arabic: أَجۡمَعِينَ
     translation: all
     transliteration: ajmaʿīna
 ---

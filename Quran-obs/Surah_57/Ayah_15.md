@@ -1,12 +1,12 @@
 ---
-arabic_ayat: فَالۡيَوۡمَ لَا يُؤۡخَذُ مِنۡكُمۡ فِدۡيَةٌ وَّلَا مِنَ الَّذِيۡنَ كَفَرُوۡا​ؕ
-  مَاۡوٰٮكُمُ النَّارُ​ؕ هِىَ مَوۡلٰٮكُمۡ​ؕ وَبِئۡسَ الۡمَصِيۡرُ‏
+arabic_ayat: فَٱلۡيَوۡمَ لَا يُؤۡخَذُ مِنكُمۡ فِدۡيَةٞ وَلَا مِنَ ٱلَّذِينَ كَفَرُواْۚ
+  مَأۡوَىٰكُمُ ٱلنَّارُۖ هِيَ مَوۡلَىٰكُمۡۖ وَبِئۡسَ ٱلۡمَصِيرُ
 sentence_translation: So Today no ransom will be accepted from you ˹hypocrites˺, nor
   from the disbelievers. Your home is the Fire—it is the ˹only˺ fitting place for
   you. What an evil destination!”
 word_by_word:
   1:
-    arabic: فَالۡيَوۡمَ
+    arabic: فَٱلۡيَوۡمَ
     translation: So today
     transliteration: fal-yawma
   2:
@@ -18,15 +18,15 @@ word_by_word:
     translation: will be accepted
     transliteration: yu'khadhu
   4:
-    arabic: مِنۡكُمۡ
+    arabic: مِنكُمۡ
     translation: from you
     transliteration: minkum
   5:
-    arabic: فِدۡيَةٌ
+    arabic: فِدۡيَةٞ
     translation: any ransom
     transliteration: fid'yatun
   6:
-    arabic: وَّلَا
+    arabic: وَلَا
     translation: and not
     transliteration: walā
   7:
@@ -34,27 +34,27 @@ word_by_word:
     translation: from
     transliteration: mina
   8:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   9:
-    arabic: كَفَرُوۡا​ؕ
+    arabic: كَفَرُواْۚ
     translation: disbelieved
     transliteration: kafarū
   10:
-    arabic: مَاۡوٰٮكُمُ
+    arabic: مَأۡوَىٰكُمُ
     translation: Your abode
     transliteration: mawākumu
   11:
-    arabic: النَّارُ​ؕ
+    arabic: ٱلنَّارُۖ
     translation: (is) the Fire
     transliteration: l-nāru
   12:
-    arabic: هِىَ
+    arabic: هِيَ
     translation: it (is)
     transliteration: hiya
   13:
-    arabic: مَوۡلٰٮكُمۡ​ؕ
+    arabic: مَوۡلَىٰكُمۡۖ
     translation: your protector
     transliteration: mawlākum
   14:
@@ -62,7 +62,7 @@ word_by_word:
     translation: and wretched is
     transliteration: wabi'sa
   15:
-    arabic: الۡمَصِيۡرُ‏
+    arabic: ٱلۡمَصِيرُ
     translation: the destination
     transliteration: l-maṣīru
 ---

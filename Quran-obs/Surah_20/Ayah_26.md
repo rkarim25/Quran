@@ -1,5 +1,5 @@
 ---
-arabic_ayat: وَيَسِّرۡ لِىۡۤ اَمۡرِىْ ۙ‏
+arabic_ayat: وَيَسِّرۡ لِيٓ أَمۡرِي
 sentence_translation: and make my task easy,
 word_by_word:
   1:
@@ -7,11 +7,11 @@ word_by_word:
     translation: And ease
     transliteration: wayassir
   2:
-    arabic: لِىۡۤ
+    arabic: لِيٓ
     translation: for me
     transliteration: lī
   3:
-    arabic: اَمۡرِىْ ۙ‏
+    arabic: أَمۡرِي
     translation: my task
     transliteration: amrī
 ---

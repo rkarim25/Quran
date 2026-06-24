@@ -1,14 +1,14 @@
 ---
-arabic_ayat: رُدُّوۡهَا عَلَىَّ ؕ فَطَفِقَ مَسۡحًۢا بِالسُّوۡقِ وَ الۡاَعۡنَاقِ‏
+arabic_ayat: رُدُّوهَا عَلَيَّۖ فَطَفِقَ مَسۡحَۢا بِٱلسُّوقِ وَٱلۡأَعۡنَاقِ
 sentence_translation: ˹He ordered,˺ “Bring them back to me!” Then he began to rub
   down their legs and necks. 
 word_by_word:
   1:
-    arabic: رُدُّوۡهَا
+    arabic: رُدُّوهَا
     translation: Return them
     transliteration: ruddūhā
   2:
-    arabic: عَلَىَّ ؕ
+    arabic: عَلَيَّۖ
     translation: to me
     transliteration: ʿalayya
   3:
@@ -16,15 +16,15 @@ word_by_word:
     translation: Then he began
     transliteration: faṭafiqa
   4:
-    arabic: مَسۡحًۢا
+    arabic: مَسۡحَۢا
     translation: (to) pass (his hand)
     transliteration: masḥan
   5:
-    arabic: بِالسُّوۡقِ
+    arabic: بِٱلسُّوقِ
     translation: over the legs
     transliteration: bil-sūqi
   6:
-    arabic: وَ الۡاَعۡنَاقِ‏
+    arabic: وَٱلۡأَعۡنَاقِ
     translation: and the necks
     transliteration: wal-aʿnāqi
 ---

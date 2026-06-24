@@ -1,6 +1,6 @@
 ---
-arabic_ayat: يَوۡمَ تُوَلُّوۡنَ مُدۡبِرِيۡنَ​ۚ مَا لَكُمۡ مِّنَ اللّٰهِ مِنۡ عَاصِمٍۚ
-  وَمَنۡ يُّضۡلِلِ اللّٰهُ فَمَا لَهٗ مِنۡ هَادٍ‏
+arabic_ayat: يَوۡمَ تُوَلُّونَ مُدۡبِرِينَ مَا لَكُم مِّنَ ٱللَّهِ مِنۡ عَاصِمٖۗ وَمَن
+  يُضۡلِلِ ٱللَّهُ فَمَا لَهُۥ مِنۡ هَادٖ
 sentence_translation: the Day you will ˹try in vain to˺ turn your backs and run away,
   with no one to protect you from Allah. And whoever Allah leaves to stray will be
   left with no guide.
@@ -10,11 +10,11 @@ word_by_word:
     translation: A Day
     transliteration: yawma
   2:
-    arabic: تُوَلُّوۡنَ
+    arabic: تُوَلُّونَ
     translation: you will turn back
     transliteration: tuwallūna
   3:
-    arabic: مُدۡبِرِيۡنَ​ۚ
+    arabic: مُدۡبِرِينَ
     translation: fleeing
     transliteration: mud'birīna
   4:
@@ -22,7 +22,7 @@ word_by_word:
     translation: not
     transliteration: mā
   5:
-    arabic: لَكُمۡ
+    arabic: لَكُم
     translation: for you
     transliteration: lakum
   6:
@@ -30,7 +30,7 @@ word_by_word:
     translation: from
     transliteration: mina
   7:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   8:
@@ -38,19 +38,19 @@ word_by_word:
     translation: any
     transliteration: min
   9:
-    arabic: عَاصِمٍۚ
+    arabic: عَاصِمٖۗ
     translation: protector
     transliteration: ʿāṣimin
   10:
-    arabic: وَمَنۡ
+    arabic: وَمَن
     translation: And whoever
     transliteration: waman
   11:
-    arabic: يُّضۡلِلِ
+    arabic: يُضۡلِلِ
     translation: Allah lets go astray
     transliteration: yuḍ'lili
   12:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah lets go astray
     transliteration: l-lahu
   13:
@@ -58,7 +58,7 @@ word_by_word:
     translation: then not
     transliteration: famā
   14:
-    arabic: لَهٗ
+    arabic: لَهُۥ
     translation: for him
     transliteration: lahu
   15:
@@ -66,7 +66,7 @@ word_by_word:
     translation: any
     transliteration: min
   16:
-    arabic: هَادٍ‏
+    arabic: هَادٖ
     translation: guide
     transliteration: hādin
 ---

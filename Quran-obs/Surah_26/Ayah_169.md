@@ -1,5 +1,5 @@
 ---
-arabic_ayat: رَبِّ نَجِّنِىۡ وَاَهۡلِىۡ مِمَّا يَعۡمَلُوۡنَ‏
+arabic_ayat: رَبِّ نَجِّنِي وَأَهۡلِي مِمَّا يَعۡمَلُونَ
 sentence_translation: My Lord! Save me and my family from ˹the consequences of˺ what
   they do.”
 word_by_word:
@@ -8,11 +8,11 @@ word_by_word:
     translation: My Lord
     transliteration: rabbi
   2:
-    arabic: نَجِّنِىۡ
+    arabic: نَجِّنِي
     translation: Save me
     transliteration: najjinī
   3:
-    arabic: وَاَهۡلِىۡ
+    arabic: وَأَهۡلِي
     translation: and my family
     transliteration: wa-ahlī
   4:
@@ -20,7 +20,7 @@ word_by_word:
     translation: from what
     transliteration: mimmā
   5:
-    arabic: يَعۡمَلُوۡنَ‏
+    arabic: يَعۡمَلُونَ
     translation: they do
     transliteration: yaʿmalūna
 ---

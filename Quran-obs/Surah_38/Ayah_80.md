@@ -1,5 +1,5 @@
 ---
-arabic_ayat: قَالَ فَاِنَّكَ مِنَ الۡمُنۡظَرِيۡنَۙ‏
+arabic_ayat: قَالَ فَإِنَّكَ مِنَ ٱلۡمُنظَرِينَ
 sentence_translation: Allah said, “You will be delayed
 word_by_word:
   1:
@@ -7,7 +7,7 @@ word_by_word:
     translation: He said
     transliteration: qāla
   2:
-    arabic: فَاِنَّكَ
+    arabic: فَإِنَّكَ
     translation: Then indeed, you
     transliteration: fa-innaka
   3:
@@ -15,7 +15,7 @@ word_by_word:
     translation: (are) of
     transliteration: mina
   4:
-    arabic: الۡمُنۡظَرِيۡنَۙ‏
+    arabic: ٱلۡمُنظَرِينَ
     translation: those given respite
     transliteration: l-munẓarīna
 ---

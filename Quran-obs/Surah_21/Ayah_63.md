@@ -1,6 +1,5 @@
 ---
-arabic_ayat: قَالَ بَلۡ فَعَلَهٗ ​​ۖ  كَبِيۡرُهُمۡ هٰذَا فَسۡـــَٔلُوۡهُمۡ اِنۡ كَانُوۡا
-  يَنۡطِقُوۡنَ‏
+arabic_ayat: قَالَ بَلۡ فَعَلَهُۥ كَبِيرُهُمۡ هَٰذَا فَسۡـَٔلُوهُمۡ إِن كَانُواْ يَنطِقُونَ
 sentence_translation: He replied ˹sarcastically˺, “No, this one—the biggest of them—did
   it! So ask them, if they can talk!”
 word_by_word:
@@ -13,31 +12,31 @@ word_by_word:
     translation: Nay
     transliteration: bal
   3:
-    arabic: فَعَلَهٗ ​​ۖ 
+    arabic: فَعَلَهُۥ
     translation: (some doer) did it
     transliteration: faʿalahu
   4:
-    arabic: كَبِيۡرُهُمۡ
+    arabic: كَبِيرُهُمۡ
     translation: Their chief
     transliteration: kabīruhum
   5:
-    arabic: هٰذَا
+    arabic: هَٰذَا
     translation: (is) this
     transliteration: hādhā
   6:
-    arabic: فَسۡـــَٔلُوۡهُمۡ
+    arabic: فَسۡـَٔلُوهُمۡ
     translation: So ask them
     transliteration: fasalūhum
   7:
-    arabic: اِنۡ
+    arabic: إِن
     translation: if
     transliteration: in
   8:
-    arabic: كَانُوۡا
+    arabic: كَانُواْ
     translation: they (can)
     transliteration: kānū
   9:
-    arabic: يَنۡطِقُوۡنَ‏
+    arabic: يَنطِقُونَ
     translation: speak
     transliteration: yanṭiqūna
 ---

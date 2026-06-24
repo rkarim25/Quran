@@ -1,6 +1,6 @@
 ---
-arabic_ayat: لَخَلۡقُ السَّمٰوٰتِ وَالۡاَرۡضِ اَكۡبَرُ مِنۡ خَلۡقِ النَّاسِ وَلٰـكِنَّ
-  اَكۡثَرَ النَّاسِ لَا يَعۡلَمُوۡنَ‏
+arabic_ayat: لَخَلۡقُ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِ أَكۡبَرُ مِنۡ خَلۡقِ ٱلنَّاسِ وَلَٰكِنَّ
+  أَكۡثَرَ ٱلنَّاسِ لَا يَعۡلَمُونَ
 sentence_translation: The creation of the heavens and the earth is certainly greater
   than the re-creation of humankind, but most people do not know.
 word_by_word:
@@ -9,15 +9,15 @@ word_by_word:
     translation: Surely, (the) creation
     transliteration: lakhalqu
   2:
-    arabic: السَّمٰوٰتِ
+    arabic: ٱلسَّمَٰوَٰتِ
     translation: (of) the heavens
     transliteration: l-samāwāti
   3:
-    arabic: وَالۡاَرۡضِ
+    arabic: وَٱلۡأَرۡضِ
     translation: and the earth
     transliteration: wal-arḍi
   4:
-    arabic: اَكۡبَرُ
+    arabic: أَكۡبَرُ
     translation: (is) greater
     transliteration: akbaru
   5:
@@ -29,19 +29,19 @@ word_by_word:
     translation: (the) creation
     transliteration: khalqi
   7:
-    arabic: النَّاسِ
+    arabic: ٱلنَّاسِ
     translation: (of) the mankind
     transliteration: l-nāsi
   8:
-    arabic: وَلٰـكِنَّ
+    arabic: وَلَٰكِنَّ
     translation: but
     transliteration: walākinna
   9:
-    arabic: اَكۡثَرَ
+    arabic: أَكۡثَرَ
     translation: most
     transliteration: akthara
   10:
-    arabic: النَّاسِ
+    arabic: ٱلنَّاسِ
     translation: (of) the people
     transliteration: l-nāsi
   11:
@@ -49,7 +49,7 @@ word_by_word:
     translation: (do) not
     transliteration: lā
   12:
-    arabic: يَعۡلَمُوۡنَ‏
+    arabic: يَعۡلَمُونَ
     translation: know
     transliteration: yaʿlamūna
 ---

@@ -1,27 +1,27 @@
 ---
-arabic_ayat: اِنَّ الَّذِيۡنَ كَفَرُوۡا لَنۡ تُغۡنِىَ عَنۡهُمۡ اَمۡوَالُهُمۡ وَلَاۤ
-  اَوۡلَادُهُمۡ مِّنَ اللّٰهِ شَيۡـــًٔا​ ؕ وَاُولٰٓٮِٕكَ هُمۡ وَقُوۡدُ النَّارِۙ‏
+arabic_ayat: إِنَّ ٱلَّذِينَ كَفَرُواْ لَن تُغۡنِيَ عَنۡهُمۡ أَمۡوَٰلُهُمۡ وَلَآ
+  أَوۡلَٰدُهُم مِّنَ ٱللَّهِ شَيۡـٔٗاۖ وَأُوْلَٰٓئِكَ هُمۡ وَقُودُ ٱلنَّارِ
 sentence_translation: Indeed, neither the wealth nor children of the disbelievers
   will be of any benefit to them against Allah—and they will be the fuel for the Fire.
 word_by_word:
   1:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   3:
-    arabic: كَفَرُوۡا
+    arabic: كَفَرُواْ
     translation: disbelieve[d]
     transliteration: kafarū
   4:
-    arabic: لَنۡ
+    arabic: لَن
     translation: never
     transliteration: lan
   5:
-    arabic: تُغۡنِىَ
+    arabic: تُغۡنِيَ
     translation: will avail
     transliteration: tugh'niya
   6:
@@ -29,15 +29,15 @@ word_by_word:
     translation: '[for] them'
     transliteration: ʿanhum
   7:
-    arabic: اَمۡوَالُهُمۡ
+    arabic: أَمۡوَٰلُهُمۡ
     translation: their wealth
     transliteration: amwāluhum
   8:
-    arabic: وَلَاۤ
+    arabic: وَلَآ
     translation: and not
     transliteration: walā
   9:
-    arabic: اَوۡلَادُهُمۡ
+    arabic: أَوۡلَٰدُهُم
     translation: their children
     transliteration: awlāduhum
   10:
@@ -45,15 +45,15 @@ word_by_word:
     translation: against
     transliteration: mina
   11:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   12:
-    arabic: شَيۡـــًٔا​ ؕ
+    arabic: شَيۡـٔٗاۖ
     translation: anything
     transliteration: shayan
   13:
-    arabic: وَاُولٰٓٮِٕكَ
+    arabic: وَأُوْلَٰٓئِكَ
     translation: 'and those '
     transliteration: wa-ulāika
   14:
@@ -61,11 +61,11 @@ word_by_word:
     translation: they (are)
     transliteration: hum
   15:
-    arabic: وَقُوۡدُ
+    arabic: وَقُودُ
     translation: (the) fuel
     transliteration: waqūdu
   16:
-    arabic: النَّارِۙ‏
+    arabic: ٱلنَّارِ
     translation: (for) the Fire
     transliteration: l-nāri
 ---

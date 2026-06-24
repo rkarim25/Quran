@@ -1,5 +1,5 @@
 ---
-arabic_ayat: ثُمَّ اِنَّكُمۡ اَيُّهَا الضَّآلُّوۡنَ الۡمُكَذِّبُوۡنَۙ‏
+arabic_ayat: ثُمَّ إِنَّكُمۡ أَيُّهَا ٱلضَّآلُّونَ ٱلۡمُكَذِّبُونَ
 sentence_translation: Then you, O  misguided deniers,
 word_by_word:
   1:
@@ -7,19 +7,19 @@ word_by_word:
     translation: Then
     transliteration: thumma
   2:
-    arabic: اِنَّكُمۡ
+    arabic: إِنَّكُمۡ
     translation: indeed you
     transliteration: innakum
   3:
-    arabic: اَيُّهَا
+    arabic: أَيُّهَا
     translation: O those astray
     transliteration: ayyuhā
   4:
-    arabic: الضَّآلُّوۡنَ
+    arabic: ٱلضَّآلُّونَ
     translation: O those astray
     transliteration: l-ḍālūna
   5:
-    arabic: الۡمُكَذِّبُوۡنَۙ‏
+    arabic: ٱلۡمُكَذِّبُونَ
     translation: the deniers
     transliteration: l-mukadhibūna
 ---

@@ -1,10 +1,10 @@
 ---
-arabic_ayat: لَهُمۡ مَّا يَشَآءُوۡنَ فِيۡهَا وَلَدَيۡنَا مَزِيۡدٌ‏
+arabic_ayat: لَهُم مَّا يَشَآءُونَ فِيهَا وَلَدَيۡنَا مَزِيدٞ
 sentence_translation: There they will have whatever they desire, and with Us is ˹even˺
   more. 
 word_by_word:
   1:
-    arabic: لَهُمۡ
+    arabic: لَهُم
     translation: For them
     transliteration: lahum
   2:
@@ -12,11 +12,11 @@ word_by_word:
     translation: whatever
     transliteration: mā
   3:
-    arabic: يَشَآءُوۡنَ
+    arabic: يَشَآءُونَ
     translation: they wish
     transliteration: yashāūna
   4:
-    arabic: فِيۡهَا
+    arabic: فِيهَا
     translation: therein
     transliteration: fīhā
   5:
@@ -24,7 +24,7 @@ word_by_word:
     translation: and with Us
     transliteration: waladaynā
   6:
-    arabic: مَزِيۡدٌ‏
+    arabic: مَزِيدٞ
     translation: (is) more
     transliteration: mazīdun
 ---

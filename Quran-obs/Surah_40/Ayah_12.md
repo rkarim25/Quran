@@ -1,69 +1,69 @@
 ---
-arabic_ayat: ذٰ لِكُمۡ بِاَنَّهٗۤ اِذَا دُعِىَ اللّٰهُ وَحۡدَهٗ كَفَرۡتُمۡ ۚ وَاِنۡ
-  يُّشۡرَكۡ بِهٖ تُؤۡمِنُوۡا ؕ فَالۡحُكۡمُ لِلّٰهِ الۡعَلِىِّ الۡكَبِيۡرِ‏
+arabic_ayat: ذَٰلِكُم بِأَنَّهُۥٓ إِذَا دُعِيَ ٱللَّهُ وَحۡدَهُۥ كَفَرۡتُمۡ وَإِن
+  يُشۡرَكۡ بِهِۦ تُؤۡمِنُواْۚ فَٱلۡحُكۡمُ لِلَّهِ ٱلۡعَلِيِّ ٱلۡكَبِيرِ
 sentence_translation: ˹They will be told,˺ “˹No!˺ This is because when Allah alone
   was invoked, you ˹staunchly˺ disbelieved. But when others were associated with Him
   ˹in worship˺, you ˹readily˺ believed. So ˹Today˺ judgment belongs to Allah ˹alone˺—the
   Most High, All-Great.”
 word_by_word:
   1:
-    arabic: ذٰ لِكُمۡ
+    arabic: ذَٰلِكُم
     translation: That
     transliteration: dhālikum
   2:
-    arabic: بِاَنَّهٗۤ
+    arabic: بِأَنَّهُۥٓ
     translation: (is) because
     transliteration: bi-annahu
   3:
-    arabic: اِذَا
+    arabic: إِذَا
     translation: when
     transliteration: idhā
   4:
-    arabic: دُعِىَ
+    arabic: دُعِيَ
     translation: Allah was invoked
     transliteration: duʿiya
   5:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah was invoked
     transliteration: l-lahu
   6:
-    arabic: وَحۡدَهٗ
+    arabic: وَحۡدَهُۥ
     translation: Alone
     transliteration: waḥdahu
   7:
-    arabic: كَفَرۡتُمۡ ۚ
+    arabic: كَفَرۡتُمۡ
     translation: you disbelieved
     transliteration: kafartum
   8:
-    arabic: وَاِنۡ
+    arabic: وَإِن
     translation: but if
     transliteration: wa-in
   9:
-    arabic: يُّشۡرَكۡ
+    arabic: يُشۡرَكۡ
     translation: (others) were associated
     transliteration: yush'rak
   10:
-    arabic: بِهٖ
+    arabic: بِهِۦ
     translation: with Him
     transliteration: bihi
   11:
-    arabic: تُؤۡمِنُوۡا ؕ
+    arabic: تُؤۡمِنُواْۚ
     translation: you believed
     transliteration: tu'minū
   12:
-    arabic: فَالۡحُكۡمُ
+    arabic: فَٱلۡحُكۡمُ
     translation: So the judgment
     transliteration: fal-ḥuk'mu
   13:
-    arabic: لِلّٰهِ
+    arabic: لِلَّهِ
     translation: (is) with Allah
     transliteration: lillahi
   14:
-    arabic: الۡعَلِىِّ
+    arabic: ٱلۡعَلِيِّ
     translation: the Most High
     transliteration: l-ʿaliyi
   15:
-    arabic: الۡكَبِيۡرِ‏
+    arabic: ٱلۡكَبِيرِ
     translation: the Most Great
     transliteration: l-kabīri
 ---

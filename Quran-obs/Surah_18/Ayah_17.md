@@ -1,8 +1,8 @@
 ---
-arabic_ayat: وَتَرَى الشَّمۡسَ اِذَا طَلَعَتۡ تَّزٰوَرُ عَنۡ كَهۡفِهِمۡ ذَاتَ الۡيَمِيۡنِ
-  وَاِذَا غَرَبَتۡ تَّقۡرِضُهُمۡ ذَاتَ الشِّمَالِ وَهُمۡ فِىۡ فَجۡوَةٍ مِّنۡهُ​ ؕ
-  ذٰ لِكَ مِنۡ اٰيٰتِ اللّٰهِ​ ؕ مَنۡ يَّهۡدِ اللّٰهُ فَهُوَ الۡمُهۡتَدِ ​ۚ وَمَنۡ
-  يُّضۡلِلۡ فَلَنۡ تَجِدَ لَهٗ وَلِيًّا مُّرۡشِدًا‏
+arabic_ayat: ۞ وَتَرَى ٱلشَّمۡسَ إِذَا طَلَعَت تَّزَٰوَرُ عَن كَهۡفِهِمۡ ذَاتَ ٱلۡيَمِينِ
+  وَإِذَا غَرَبَت تَّقۡرِضُهُمۡ ذَاتَ ٱلشِّمَالِ وَهُمۡ فِي فَجۡوَةٖ مِّنۡهُۚ ذَٰلِكَ
+  مِنۡ ءَايَٰتِ ٱللَّهِۗ مَن يَهۡدِ ٱللَّهُ فَهُوَ ٱلۡمُهۡتَدِۖ وَمَن يُضۡلِلۡ فَلَن
+  تَجِدَ لَهُۥ وَلِيّٗا مُّرۡشِدٗا
 sentence_translation: And you would have seen the sun, as it rose, inclining away
   from their cave to the right, and as it set, declining away from them to the left,
   while they lay in its open space. That is one of the signs of Allah. Whoever Allah
@@ -10,27 +10,27 @@ sentence_translation: And you would have seen the sun, as it rose, inclining awa
   them a guiding mentor.
 word_by_word:
   1:
-    arabic: ۞ وَتَرَى
+    arabic: ۞ وَتَرَى
     translation: And you (might) have seen
     transliteration: watarā
   2:
-    arabic: الشَّمۡسَ
+    arabic: ٱلشَّمۡسَ
     translation: the sun
     transliteration: l-shamsa
   3:
-    arabic: اِذَا
+    arabic: إِذَا
     translation: when
     transliteration: idhā
   4:
-    arabic: طَلَعَتۡ
+    arabic: طَلَعَت
     translation: it rose
     transliteration: ṭalaʿat
   5:
-    arabic: تَّزٰوَرُ
+    arabic: تَّزَٰوَرُ
     translation: inclining away
     transliteration: tazāwaru
   6:
-    arabic: عَنۡ
+    arabic: عَن
     translation: from
     transliteration: ʿan
   7:
@@ -42,15 +42,15 @@ word_by_word:
     translation: to
     transliteration: dhāta
   9:
-    arabic: الۡيَمِيۡنِ
+    arabic: ٱلۡيَمِينِ
     translation: the right
     transliteration: l-yamīni
   10:
-    arabic: وَاِذَا
+    arabic: وَإِذَا
     translation: and when
     transliteration: wa-idhā
   11:
-    arabic: غَرَبَتۡ
+    arabic: غَرَبَت
     translation: it set
     transliteration: gharabat
   12:
@@ -62,7 +62,7 @@ word_by_word:
     translation: to
     transliteration: dhāta
   14:
-    arabic: الشِّمَالِ
+    arabic: ٱلشِّمَالِ
     translation: the left
     transliteration: l-shimāli
   15:
@@ -70,43 +70,43 @@ word_by_word:
     translation: while they
     transliteration: wahum
   16:
-    arabic: فِىۡ
+    arabic: فِي
     translation: (lay) in
     transliteration: fī
   17:
-    arabic: فَجۡوَةٍ
+    arabic: فَجۡوَةٖ
     translation: the open space
     transliteration: fajwatin
   18:
-    arabic: مِّنۡهُ​ ؕ
+    arabic: مِّنۡهُۚ
     translation: thereof
     transliteration: min'hu
   19:
-    arabic: ذٰ لِكَ
+    arabic: ذَٰلِكَ
     translation: That
     transliteration: dhālika
   20:
-    arabic: مِنۡ
+    arabic: مِنۡ ءَ
     translation: (was) from
     transliteration: min
   21:
-    arabic: اٰيٰتِ
+    arabic: ايَٰتِ
     translation: (the) Signs
     transliteration: āyāti
   22:
-    arabic: اللّٰهِ​ ؕ
+    arabic: ٱللَّهِۗ
     translation: (of) Allah
     transliteration: l-lahi
   23:
-    arabic: مَنۡ
+    arabic: مَن
     translation: Whoever
     transliteration: man
   24:
-    arabic: يَّهۡدِ
+    arabic: يَهۡدِ
     translation: Allah guides
     transliteration: yahdi
   25:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah guides
     transliteration: l-lahu
   26:
@@ -114,19 +114,19 @@ word_by_word:
     translation: and he
     transliteration: fahuwa
   27:
-    arabic: الۡمُهۡتَدِ ​ۚ
+    arabic: ٱلۡمُهۡتَدِۖ
     translation: (is) the guided one
     transliteration: l-muh'tadi
   28:
-    arabic: وَمَنۡ
+    arabic: وَمَن
     translation: and whoever
     transliteration: waman
   29:
-    arabic: يُّضۡلِلۡ
+    arabic: يُضۡلِلۡ
     translation: He lets go astray
     transliteration: yuḍ'lil
   30:
-    arabic: فَلَنۡ
+    arabic: فَلَن
     translation: then never
     transliteration: falan
   31:
@@ -134,15 +134,15 @@ word_by_word:
     translation: you will find
     transliteration: tajida
   32:
-    arabic: لَهٗ
+    arabic: لَهُۥ
     translation: for him
     transliteration: lahu
   33:
-    arabic: وَلِيًّا
+    arabic: وَلِيّٗا
     translation: a protector
     transliteration: waliyyan
   34:
-    arabic: مُّرۡشِدًا‏
+    arabic: مُّرۡشِدٗا
     translation: a guide
     transliteration: mur'shidan
 ---

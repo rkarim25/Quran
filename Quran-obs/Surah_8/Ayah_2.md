@@ -1,25 +1,25 @@
 ---
-arabic_ayat: اِنَّمَا الۡمُؤۡمِنُوۡنَ الَّذِيۡنَ اِذَا ذُكِرَ اللّٰهُ وَجِلَتۡ قُلُوۡبُهُمۡ
-  وَاِذَا تُلِيَتۡ عَلَيۡهِمۡ اٰيٰتُهٗ زَادَتۡهُمۡ اِيۡمَانًا وَّعَلٰى رَبِّهِمۡ يَتَوَكَّلُوۡنَ
-  ​​ۖ ​ۚ‏
+arabic_ayat: إِنَّمَا ٱلۡمُؤۡمِنُونَ ٱلَّذِينَ إِذَا ذُكِرَ ٱللَّهُ وَجِلَتۡ قُلُوبُهُمۡ
+  وَإِذَا تُلِيَتۡ عَلَيۡهِمۡ ءَايَٰتُهُۥ زَادَتۡهُمۡ إِيمَٰنٗا وَعَلَىٰ رَبِّهِمۡ
+  يَتَوَكَّلُونَ
 sentence_translation: The ˹true˺ believers are only those whose hearts tremble at
   the remembrance of Allah, whose faith increases when His revelations are recited
   to them, and who put their trust in their Lord.
 word_by_word:
   1:
-    arabic: اِنَّمَا
+    arabic: إِنَّمَا
     translation: Only
     transliteration: innamā
   2:
-    arabic: الۡمُؤۡمِنُوۡنَ
+    arabic: ٱلۡمُؤۡمِنُونَ
     translation: the believers
     transliteration: l-mu'minūna
   3:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: (are) those who
     transliteration: alladhīna
   4:
-    arabic: اِذَا
+    arabic: إِذَا
     translation: when
     transliteration: idhā
   5:
@@ -27,7 +27,7 @@ word_by_word:
     translation: is mentioned
     transliteration: dhukira
   6:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   7:
@@ -35,11 +35,11 @@ word_by_word:
     translation: feel fear
     transliteration: wajilat
   8:
-    arabic: قُلُوۡبُهُمۡ
+    arabic: قُلُوبُهُمۡ
     translation: their hearts
     transliteration: qulūbuhum
   9:
-    arabic: وَاِذَا
+    arabic: وَإِذَا
     translation: and when
     transliteration: wa-idhā
   10:
@@ -47,11 +47,11 @@ word_by_word:
     translation: are recited
     transliteration: tuliyat
   11:
-    arabic: عَلَيۡهِمۡ
+    arabic: عَلَيۡهِمۡ ءَ
     translation: to them
     transliteration: ʿalayhim
   12:
-    arabic: اٰيٰتُهٗ
+    arabic: ايَٰتُهُۥ
     translation: His Verses
     transliteration: āyātuhu
   13:
@@ -59,11 +59,11 @@ word_by_word:
     translation: they increase them
     transliteration: zādathum
   14:
-    arabic: اِيۡمَانًا
+    arabic: إِيمَٰنٗا
     translation: (in) faith
     transliteration: īmānan
   15:
-    arabic: وَّعَلٰى
+    arabic: وَعَلَىٰ
     translation: and upon
     transliteration: waʿalā
   16:
@@ -71,7 +71,7 @@ word_by_word:
     translation: their Lord
     transliteration: rabbihim
   17:
-    arabic: يَتَوَكَّلُوۡنَ ​​ۖ ​ۚ‏
+    arabic: يَتَوَكَّلُونَ
     translation: they put their trust
     transliteration: yatawakkalūna
 ---

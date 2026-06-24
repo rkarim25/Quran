@@ -1,5 +1,5 @@
 ---
-arabic_ayat: فَدَعَا رَبَّهٗۤ اَنَّ هٰٓؤُلَاۤءِ قَوۡمٌ مُّجۡرِمُوۡنَ‏
+arabic_ayat: فَدَعَا رَبَّهُۥٓ أَنَّ هَٰٓؤُلَآءِ قَوۡمٞ مُّجۡرِمُونَ
 sentence_translation: Ultimately, he cried out to his Lord, “These are a wicked people!”
 word_by_word:
   1:
@@ -7,23 +7,23 @@ word_by_word:
     translation: So he called
     transliteration: fadaʿā
   2:
-    arabic: رَبَّهٗۤ
+    arabic: رَبَّهُۥٓ
     translation: his Lord
     transliteration: rabbahu
   3:
-    arabic: اَنَّ
+    arabic: أَنَّ
     translation: That
     transliteration: anna
   4:
-    arabic: هٰٓؤُلَاۤءِ
+    arabic: هَٰٓؤُلَآءِ
     translation: these
     transliteration: hāulāi
   5:
-    arabic: قَوۡمٌ
+    arabic: قَوۡمٞ
     translation: (are) a people
     transliteration: qawmun
   6:
-    arabic: مُّجۡرِمُوۡنَ‏
+    arabic: مُّجۡرِمُونَ
     translation: criminals
     transliteration: muj'rimūna
 ---

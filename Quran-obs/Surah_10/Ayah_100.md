@@ -1,6 +1,6 @@
 ---
-arabic_ayat: وَمَا كَانَ لِنَفۡسٍ اَنۡ تُؤۡمِنَ اِلَّا بِاِذۡنِ اللّٰهِ​ؕ وَيَجۡعَلُ
-  الرِّجۡسَ عَلَى الَّذِيۡنَ لَا يَعۡقِلُوۡنَ‏
+arabic_ayat: وَمَا كَانَ لِنَفۡسٍ أَن تُؤۡمِنَ إِلَّا بِإِذۡنِ ٱللَّهِۚ وَيَجۡعَلُ
+  ٱلرِّجۡسَ عَلَى ٱلَّذِينَ لَا يَعۡقِلُونَ
 sentence_translation: It is not for any soul to believe except by Allah’s leave, and
   He will bring His wrath upon those who are unmindful.
 word_by_word:
@@ -17,7 +17,7 @@ word_by_word:
     translation: for a soul
     transliteration: linafsin
   4:
-    arabic: اَنۡ
+    arabic: أَن
     translation: to
     transliteration: an
   5:
@@ -25,15 +25,15 @@ word_by_word:
     translation: believe
     transliteration: tu'mina
   6:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   7:
-    arabic: بِاِذۡنِ
+    arabic: بِإِذۡنِ
     translation: by (the) permission
     transliteration: bi-idh'ni
   8:
-    arabic: اللّٰهِ​ؕ
+    arabic: ٱللَّهِۚ
     translation: (of) Allah
     transliteration: l-lahi
   9:
@@ -41,7 +41,7 @@ word_by_word:
     translation: And He will place
     transliteration: wayajʿalu
   10:
-    arabic: الرِّجۡسَ
+    arabic: ٱلرِّجۡسَ
     translation: the wrath
     transliteration: l-rij'sa
   11:
@@ -49,7 +49,7 @@ word_by_word:
     translation: 'on'
     transliteration: ʿalā
   12:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   13:
@@ -57,7 +57,7 @@ word_by_word:
     translation: (do) not
     transliteration: lā
   14:
-    arabic: يَعۡقِلُوۡنَ‏
+    arabic: يَعۡقِلُونَ
     translation: use reason
     transliteration: yaʿqilūna
 ---

@@ -1,9 +1,9 @@
 ---
-arabic_ayat: وَّجَآءَ رَبُّكَ وَالۡمَلَكُ صَفًّا صَفًّا ۚ‏
+arabic_ayat: وَجَآءَ رَبُّكَ وَٱلۡمَلَكُ صَفّٗا صَفّٗا
 sentence_translation: and your Lord comes ˹to judge˺ with angels, rank upon rank,
 word_by_word:
   1:
-    arabic: وَّجَآءَ
+    arabic: وَجَآءَ
     translation: And comes
     transliteration: wajāa
   2:
@@ -11,15 +11,15 @@ word_by_word:
     translation: your Lord
     transliteration: rabbuka
   3:
-    arabic: وَالۡمَلَكُ
+    arabic: وَٱلۡمَلَكُ
     translation: and the Angels
     transliteration: wal-malaku
   4:
-    arabic: صَفًّا
+    arabic: صَفّٗا
     translation: rank
     transliteration: ṣaffan
   5:
-    arabic: صَفًّا ۚ‏
+    arabic: صَفّٗا
     translation: (upon) rank
     transliteration: ṣaffan
 ---

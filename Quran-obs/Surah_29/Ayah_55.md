@@ -1,6 +1,6 @@
 ---
-arabic_ayat: يَوۡمَ يَغۡشٰٮهُمُ الۡعَذَابُ مِنۡ فَوۡقِهِمۡ وَمِنۡ تَحۡتِ اَرۡجُلِهِمۡ
-  وَيَقُوۡلُ ذُوۡقُوۡا مَا كُنۡتُمۡ تَعۡمَلُوۡنَ‏
+arabic_ayat: يَوۡمَ يَغۡشَىٰهُمُ ٱلۡعَذَابُ مِن فَوۡقِهِمۡ وَمِن تَحۡتِ أَرۡجُلِهِمۡ
+  وَيَقُولُ ذُوقُواْ مَا كُنتُمۡ تَعۡمَلُونَ
 sentence_translation: on the Day the punishment will overwhelm them from above them
   and from below their feet. And it will be said, “Reap what you sowed.”
 word_by_word:
@@ -9,15 +9,15 @@ word_by_word:
     translation: On (the) Day
     transliteration: yawma
   2:
-    arabic: يَغۡشٰٮهُمُ
+    arabic: يَغۡشَىٰهُمُ
     translation: will cover them
     transliteration: yaghshāhumu
   3:
-    arabic: الۡعَذَابُ
+    arabic: ٱلۡعَذَابُ
     translation: the punishment
     transliteration: l-ʿadhābu
   4:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   5:
@@ -25,7 +25,7 @@ word_by_word:
     translation: above them
     transliteration: fawqihim
   6:
-    arabic: وَمِنۡ
+    arabic: وَمِن
     translation: and from
     transliteration: wamin
   7:
@@ -33,15 +33,15 @@ word_by_word:
     translation: below
     transliteration: taḥti
   8:
-    arabic: اَرۡجُلِهِمۡ
+    arabic: أَرۡجُلِهِمۡ
     translation: their feet
     transliteration: arjulihim
   9:
-    arabic: وَيَقُوۡلُ
+    arabic: وَيَقُولُ
     translation: and He will say
     transliteration: wayaqūlu
   10:
-    arabic: ذُوۡقُوۡا
+    arabic: ذُوقُواْ
     translation: Taste
     transliteration: dhūqū
   11:
@@ -49,11 +49,11 @@ word_by_word:
     translation: what
     transliteration: mā
   12:
-    arabic: كُنۡتُمۡ
+    arabic: كُنتُمۡ
     translation: you used
     transliteration: kuntum
   13:
-    arabic: تَعۡمَلُوۡنَ‏
+    arabic: تَعۡمَلُونَ
     translation: (to) do
     transliteration: taʿmalūna
 ---

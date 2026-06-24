@@ -1,13 +1,13 @@
 ---
-arabic_ayat: وَمَاۤ اَدۡرٰٮكَ مَا يَوۡمُ الۡفَصۡلِؕ‏
+arabic_ayat: وَمَآ أَدۡرَىٰكَ مَا يَوۡمُ ٱلۡفَصۡلِ
 sentence_translation: And what will make you realize what the Day of Decision is?
 word_by_word:
   1:
-    arabic: وَمَاۤ
+    arabic: وَمَآ
     translation: And what
     transliteration: wamā
   2:
-    arabic: اَدۡرٰٮكَ
+    arabic: أَدۡرَىٰكَ
     translation: will make you know
     transliteration: adrāka
   3:
@@ -19,7 +19,7 @@ word_by_word:
     translation: (is the) Day
     transliteration: yawmu
   5:
-    arabic: الۡفَصۡلِؕ‏
+    arabic: ٱلۡفَصۡلِ
     translation: (of) the Judgment
     transliteration: l-faṣli
 ---

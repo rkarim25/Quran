@@ -1,9 +1,9 @@
 ---
-arabic_ayat: مَّنَّاعٍ لِّلۡخَيۡرِ مُعۡتَدٍ مُّرِيۡبِ ۙ‏
+arabic_ayat: مَّنَّاعٖ لِّلۡخَيۡرِ مُعۡتَدٖ مُّرِيبٍ
 sentence_translation: withholder of good, transgressor, and doubter,
 word_by_word:
   1:
-    arabic: مَّنَّاعٍ
+    arabic: مَّنَّاعٖ
     translation: Forbidder
     transliteration: mannāʿin
   2:
@@ -11,11 +11,11 @@ word_by_word:
     translation: of good
     transliteration: lil'khayri
   3:
-    arabic: مُعۡتَدٍ
+    arabic: مُعۡتَدٖ
     translation: transgressor
     transliteration: muʿ'tadin
   4:
-    arabic: مُّرِيۡبِ ۙ‏
+    arabic: مُّرِيبٍ
     translation: doubter
     transliteration: murībin
 ---

@@ -1,37 +1,37 @@
 ---
-arabic_ayat: سَنُرِيۡهِمۡ اٰيٰتِنَا فِى الۡاٰفَاقِ وَفِىۡۤ اَنۡفُسِهِمۡ حَتّٰى يَتَبَيَّنَ
-  لَهُمۡ اَنَّهُ الۡحَـقُّ​ ؕ اَوَلَمۡ يَكۡفِ بِرَبِّكَ اَنَّهٗ عَلٰى كُلِّ شَىۡءٍ
-  شَهِيۡدٌ‏
+arabic_ayat: سَنُرِيهِمۡ ءَايَٰتِنَا فِي ٱلۡأٓفَاقِ وَفِيٓ أَنفُسِهِمۡ حَتَّىٰ يَتَبَيَّنَ
+  لَهُمۡ أَنَّهُ ٱلۡحَقُّۗ أَوَلَمۡ يَكۡفِ بِرَبِّكَ أَنَّهُۥ عَلَىٰ كُلِّ شَيۡءٖ
+  شَهِيدٌ
 sentence_translation: We will show them Our signs in the universe and within themselves
   until it becomes clear to them that this ˹Quran˺ is the truth. Is it not enough
   that your Lord is a Witness over all things?
 word_by_word:
   1:
-    arabic: سَنُرِيۡهِمۡ
+    arabic: سَنُرِيهِمۡ ءَ
     translation: Soon We will show them
     transliteration: sanurīhim
   2:
-    arabic: اٰيٰتِنَا
+    arabic: ايَٰتِنَا
     translation: Our Signs
     transliteration: āyātinā
   3:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   4:
-    arabic: الۡاٰفَاقِ
+    arabic: ٱلۡأٓفَاقِ
     translation: the horizons
     transliteration: l-āfāqi
   5:
-    arabic: وَفِىۡۤ
+    arabic: وَفِيٓ
     translation: and in
     transliteration: wafī
   6:
-    arabic: اَنۡفُسِهِمۡ
+    arabic: أَنفُسِهِمۡ
     translation: themselves
     transliteration: anfusihim
   7:
-    arabic: حَتّٰى
+    arabic: حَتَّىٰ
     translation: until
     transliteration: ḥattā
   8:
@@ -43,15 +43,15 @@ word_by_word:
     translation: to them
     transliteration: lahum
   10:
-    arabic: اَنَّهُ
+    arabic: أَنَّهُ
     translation: that it
     transliteration: annahu
   11:
-    arabic: الۡحَـقُّ​ ؕ
+    arabic: ٱلۡحَقُّۗ
     translation: (is) the truth
     transliteration: l-ḥaqu
   12:
-    arabic: اَوَلَمۡ
+    arabic: أَوَلَمۡ
     translation: Is (it) not
     transliteration: awalam
   13:
@@ -63,11 +63,11 @@ word_by_word:
     translation: concerning your Lord
     transliteration: birabbika
   15:
-    arabic: اَنَّهٗ
+    arabic: أَنَّهُۥ
     translation: that He
     transliteration: annahu
   16:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: (is) over
     transliteration: ʿalā
   17:
@@ -75,11 +75,11 @@ word_by_word:
     translation: all
     transliteration: kulli
   18:
-    arabic: شَىۡءٍ
+    arabic: شَيۡءٖ
     translation: things
     transliteration: shayin
   19:
-    arabic: شَهِيۡدٌ‏
+    arabic: شَهِيدٌ
     translation: a Witness
     transliteration: shahīdun
 ---

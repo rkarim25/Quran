@@ -1,26 +1,26 @@
 ---
-arabic_ayat: فَاَخَذۡنٰهُ وَجُنُوۡدَهٗ فَنَبَذۡنٰهُمۡ فِى الۡيَمِّ وَهُوَ مُلِيۡمٌؕ‏
+arabic_ayat: فَأَخَذۡنَٰهُ وَجُنُودَهُۥ فَنَبَذۡنَٰهُمۡ فِي ٱلۡيَمِّ وَهُوَ مُلِيمٞ
 sentence_translation: So We seized him and his soldiers, casting them into the sea
   while he was blameworthy. 
 word_by_word:
   1:
-    arabic: فَاَخَذۡنٰهُ
+    arabic: فَأَخَذۡنَٰهُ
     translation: So We took him
     transliteration: fa-akhadhnāhu
   2:
-    arabic: وَجُنُوۡدَهٗ
+    arabic: وَجُنُودَهُۥ
     translation: and his hosts
     transliteration: wajunūdahu
   3:
-    arabic: فَنَبَذۡنٰهُمۡ
+    arabic: فَنَبَذۡنَٰهُمۡ
     translation: and threw them
     transliteration: fanabadhnāhum
   4:
-    arabic: فِى
+    arabic: فِي
     translation: into
     transliteration: fī
   5:
-    arabic: الۡيَمِّ
+    arabic: ٱلۡيَمِّ
     translation: the sea
     transliteration: l-yami
   6:
@@ -28,7 +28,7 @@ word_by_word:
     translation: while he
     transliteration: wahuwa
   7:
-    arabic: مُلِيۡمٌؕ‏
+    arabic: مُلِيمٞ
     translation: (was) blameworthy
     transliteration: mulīmun
 ---

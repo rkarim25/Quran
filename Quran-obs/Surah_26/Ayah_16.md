@@ -1,10 +1,10 @@
 ---
-arabic_ayat: فَاۡتِيَا فِرۡعَوۡنَ فَقُوۡلَاۤ اِنَّا رَسُوۡلُ رَبِّ الۡعٰلَمِيۡنَۙ‏
+arabic_ayat: فَأۡتِيَا فِرۡعَوۡنَ فَقُولَآ إِنَّا رَسُولُ رَبِّ ٱلۡعَٰلَمِينَ
 sentence_translation: Go to Pharaoh and say, ‘We are messengers from the Lord of all
   worlds,
 word_by_word:
   1:
-    arabic: فَاۡتِيَا
+    arabic: فَأۡتِيَا
     translation: So go both of you
     transliteration: fatiyā
   2:
@@ -12,15 +12,15 @@ word_by_word:
     translation: (to) Firaun
     transliteration: fir'ʿawna
   3:
-    arabic: فَقُوۡلَاۤ
+    arabic: فَقُولَآ
     translation: and say
     transliteration: faqūlā
   4:
-    arabic: اِنَّا
+    arabic: إِنَّا
     translation: '''Indeed, we'
     transliteration: innā
   5:
-    arabic: رَسُوۡلُ
+    arabic: رَسُولُ
     translation: (are the) Messenger
     transliteration: rasūlu
   6:
@@ -28,7 +28,7 @@ word_by_word:
     translation: (of the) Lord
     transliteration: rabbi
   7:
-    arabic: الۡعٰلَمِيۡنَۙ‏
+    arabic: ٱلۡعَٰلَمِينَ
     translation: (of) the worlds
     transliteration: l-ʿālamīna
 ---

@@ -1,23 +1,22 @@
 ---
-arabic_ayat: "فَسُبۡحٰنَ الَّذِىۡ بِيَدِهٖ مَلَـكُوۡتُ كُلِّ شَىۡءٍ وَّاِلَيۡهِ تُرۡجَعُوۡنَ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: فَسُبۡحَٰنَ ٱلَّذِي بِيَدِهِۦ مَلَكُوتُ كُلِّ شَيۡءٖ وَإِلَيۡهِ تُرۡجَعُونَ
 sentence_translation: So glory be to the One in Whose Hands is the authority over
   all things, and to Whom ˹alone˺ you will ˹all˺ be returned.
 word_by_word:
   1:
-    arabic: فَسُبۡحٰنَ
+    arabic: فَسُبۡحَٰنَ
     translation: So glory be
     transliteration: fasub'ḥāna
   2:
-    arabic: الَّذِىۡ
+    arabic: ٱلَّذِي
     translation: (to) the One who
     transliteration: alladhī
   3:
-    arabic: بِيَدِهٖ
+    arabic: بِيَدِهِۦ
     translation: in Whose hand
     transliteration: biyadihi
   4:
-    arabic: مَلَـكُوۡتُ
+    arabic: مَلَكُوتُ
     translation: is (the) dominion
     transliteration: malakūtu
   5:
@@ -25,15 +24,15 @@ word_by_word:
     translation: (of) all
     transliteration: kulli
   6:
-    arabic: شَىۡءٍ
+    arabic: شَيۡءٖ
     translation: things
     transliteration: shayin
   7:
-    arabic: وَّاِلَيۡهِ
+    arabic: وَإِلَيۡهِ
     translation: and to Him
     transliteration: wa-ilayhi
   8:
-    arabic: "تُرۡجَعُوۡنَ‏ \uFEFF\uFEFF"
+    arabic: تُرۡجَعُونَ
     translation: you will be returned
     transliteration: tur'jaʿūna
 ---

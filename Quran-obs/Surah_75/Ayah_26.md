@@ -1,14 +1,14 @@
 ---
-arabic_ayat: كَلَّاۤ اِذَا بَلَغَتِ التَّرَاقِىَۙ‏
+arabic_ayat: كـَلَّآ إِذَا بَلَغَتِ ٱلتَّرَاقِيَ
 sentence_translation: But no! ˹Beware of the day˺ when the soul reaches the collar
   bone ˹as it leaves˺,
 word_by_word:
   1:
-    arabic: كَلَّاۤ
+    arabic: كـَلَّآ
     translation: 'No'
     transliteration: kallā
   2:
-    arabic: اِذَا
+    arabic: إِذَا
     translation: When
     transliteration: idhā
   3:
@@ -16,7 +16,7 @@ word_by_word:
     translation: it reaches
     transliteration: balaghati
   4:
-    arabic: التَّرَاقِىَۙ‏
+    arabic: ٱلتَّرَاقِيَ
     translation: the collar bones
     transliteration: l-tarāqiya
 ---

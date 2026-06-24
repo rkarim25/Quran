@@ -1,5 +1,5 @@
 ---
-arabic_ayat: فَهُمۡ عَلٰٓى اٰثٰرِهِمۡ يُهۡرَعُوۡنَ‏
+arabic_ayat: فَهُمۡ عَلَىٰٓ ءَاثَٰرِهِمۡ يُهۡرَعُونَ
 sentence_translation: so they rushed in their footsteps!
 word_by_word:
   1:
@@ -7,15 +7,15 @@ word_by_word:
     translation: So they
     transliteration: fahum
   2:
-    arabic: عَلٰٓى
+    arabic: عَلَىٰٓ ءَ
     translation: 'on'
     transliteration: ʿalā
   3:
-    arabic: اٰثٰرِهِمۡ
+    arabic: اثَٰرِهِمۡ
     translation: their footsteps
     transliteration: āthārihim
   4:
-    arabic: يُهۡرَعُوۡنَ‏
+    arabic: يُهۡرَعُونَ
     translation: they hastened
     transliteration: yuh'raʿūna
 ---

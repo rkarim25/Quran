@@ -1,6 +1,5 @@
 ---
-arabic_ayat: "وَلَقَد تَّرَكۡنَا مِنۡهَاۤ اٰيَةًۢ بَيِّنَةً لِّـقَوۡمٍ يَّعۡقِلُوۡنَ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: وَلَقَد تَّرَكۡنَا مِنۡهَآ ءَايَةَۢ بَيِّنَةٗ لِّقَوۡمٖ يَعۡقِلُونَ
 sentence_translation: And We did leave ˹some of˺ its ruins as a clear lesson for people
   of understanding.
 word_by_word:
@@ -13,23 +12,23 @@ word_by_word:
     translation: We have left
     transliteration: taraknā
   3:
-    arabic: مِنۡهَاۤ
+    arabic: مِنۡهَآ ءَ
     translation: about it
     transliteration: min'hā
   4:
-    arabic: اٰيَةًۢ
+    arabic: ايَةَۢ
     translation: a sign
     transliteration: āyatan
   5:
-    arabic: بَيِّنَةً
+    arabic: بَيِّنَةٗ
     translation: (as) evidence
     transliteration: bayyinatan
   6:
-    arabic: لِّـقَوۡمٍ
+    arabic: لِّقَوۡمٖ
     translation: for a people
     transliteration: liqawmin
   7:
-    arabic: "يَّعۡقِلُوۡنَ‏ \uFEFF\uFEFF"
+    arabic: يَعۡقِلُونَ
     translation: who use reason
     transliteration: yaʿqilūna
 ---

@@ -1,11 +1,11 @@
 ---
-arabic_ayat: وَتَوَلّٰى عَنۡهُمۡ وَقَالَ يٰۤاَسَفٰى عَلٰى يُوۡسُفَ وَابۡيَـضَّتۡ عَيۡنٰهُ
-  مِنَ الۡحُـزۡنِ فَهُوَ كَظِيۡمٌ‏
+arabic_ayat: وَتَوَلَّىٰ عَنۡهُمۡ وَقَالَ يَٰٓأَسَفَىٰ عَلَىٰ يُوسُفَ وَٱبۡيَضَّتۡ
+  عَيۡنَاهُ مِنَ ٱلۡحُزۡنِ فَهُوَ كَظِيمٞ
 sentence_translation: He turned away from them, lamenting, “Alas, poor Joseph!” And
   his eyes turned white out of the grief he suppressed.
 word_by_word:
   1:
-    arabic: وَتَوَلّٰى
+    arabic: وَتَوَلَّىٰ
     translation: And he turned away
     transliteration: watawallā
   2:
@@ -17,23 +17,23 @@ word_by_word:
     translation: and said
     transliteration: waqāla
   4:
-    arabic: يٰۤاَسَفٰى
+    arabic: يَٰٓأَسَفَىٰ
     translation: Alas, my grief
     transliteration: yāasafā
   5:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: over
     transliteration: ʿalā
   6:
-    arabic: يُوۡسُفَ
+    arabic: يُوسُفَ
     translation: Yusuf
     transliteration: yūsufa
   7:
-    arabic: وَابۡيَـضَّتۡ
+    arabic: وَٱبۡيَضَّتۡ
     translation: And became white
     transliteration: wa-ib'yaḍḍat
   8:
-    arabic: عَيۡنٰهُ
+    arabic: عَيۡنَاهُ
     translation: his eyes
     transliteration: ʿaynāhu
   9:
@@ -41,7 +41,7 @@ word_by_word:
     translation: from
     transliteration: mina
   10:
-    arabic: الۡحُـزۡنِ
+    arabic: ٱلۡحُزۡنِ
     translation: the grief
     transliteration: l-ḥuz'ni
   11:
@@ -49,7 +49,7 @@ word_by_word:
     translation: and he (was)
     transliteration: fahuwa
   12:
-    arabic: كَظِيۡمٌ‏
+    arabic: كَظِيمٞ
     translation: a suppressor
     transliteration: kaẓīmun
 ---

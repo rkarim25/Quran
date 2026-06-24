@@ -1,9 +1,9 @@
 ---
-arabic_ayat: وَلَمَّا جَآءَ مُوۡسٰى لِمِيۡقَاتِنَا وَكَلَّمَهٗ رَبُّهٗ ۙ قَالَ رَبِّ
-  اَرِنِىۡۤ اَنۡظُرۡ اِلَيۡكَ​ ؕ قَالَ لَنۡ تَرٰٮنِىۡ وَلٰـكِنِ انْظُرۡ اِلَى الۡجَـبَلِ
-  فَاِنِ اسۡتَقَرَّ مَكَانَهٗ فَسَوۡفَ تَرٰٮنِىۡ​ ۚ فَلَمَّا تَجَلّٰى رَبُّهٗ لِلۡجَبَلِ
-  جَعَلَهٗ دَكًّا وَّخَرَّ مُوۡسٰى صَعِقًا​ ۚ فَلَمَّاۤ اَفَاقَ قَالَ سُبۡحٰنَكَ تُبۡتُ
-  اِلَيۡكَ وَاَنَا اَوَّلُ الۡمُؤۡمِنِيۡنَ‏
+arabic_ayat: وَلَمَّا جَآءَ مُوسَىٰ لِمِيقَٰتِنَا وَكَلَّمَهُۥ رَبُّهُۥ قَالَ رَبِّ
+  أَرِنِيٓ أَنظُرۡ إِلَيۡكَۚ قَالَ لَن تَرَىٰنِي وَلَٰكِنِ ٱنظُرۡ إِلَى ٱلۡجَبَلِ
+  فَإِنِ ٱسۡتَقَرَّ مَكَانَهُۥ فَسَوۡفَ تَرَىٰنِيۚ فَلَمَّا تَجَلَّىٰ رَبُّهُۥ لِلۡجَبَلِ
+  جَعَلَهُۥ دَكّٗا وَخَرَّ مُوسَىٰ صَعِقٗاۚ فَلَمَّآ أَفَاقَ قَالَ سُبۡحَٰنَكَ تُبۡتُ
+  إِلَيۡكَ وَأَنَا۠ أَوَّلُ ٱلۡمُؤۡمِنِينَ
 sentence_translation: When Moses came at the appointed time and his Lord spoke to
   him, he asked, “My Lord! Reveal Yourself to me so I may see You.” Allah answered,
   “You cannot see Me! But look at the mountain. If it remains firm in its place, only
@@ -20,19 +20,19 @@ word_by_word:
     translation: came
     transliteration: jāa
   3:
-    arabic: مُوۡسٰى
+    arabic: مُوسَىٰ
     translation: Musa
     transliteration: mūsā
   4:
-    arabic: لِمِيۡقَاتِنَا
+    arabic: لِمِيقَٰتِنَا
     translation: to Our appointed place
     transliteration: limīqātinā
   5:
-    arabic: وَكَلَّمَهٗ
+    arabic: وَكَلَّمَهُۥ
     translation: and spoke to him
     transliteration: wakallamahu
   6:
-    arabic: رَبُّهٗ ۙ
+    arabic: رَبُّهُۥ
     translation: his Lord
     transliteration: rabbuhu
   7:
@@ -44,15 +44,15 @@ word_by_word:
     translation: O my Lord
     transliteration: rabbi
   9:
-    arabic: اَرِنِىۡۤ
+    arabic: أَرِنِيٓ
     translation: Show me
     transliteration: arinī
   10:
-    arabic: اَنۡظُرۡ
+    arabic: أَنظُرۡ
     translation: (that) I may look
     transliteration: anẓur
   11:
-    arabic: اِلَيۡكَ​ ؕ
+    arabic: إِلَيۡكَۚ
     translation: at You
     transliteration: ilayka
   12:
@@ -60,39 +60,39 @@ word_by_word:
     translation: He said
     transliteration: qāla
   13:
-    arabic: لَنۡ
+    arabic: لَن
     translation: Never
     transliteration: lan
   14:
-    arabic: تَرٰٮنِىۡ
+    arabic: تَرَىٰنِي
     translation: you (can) see Me
     transliteration: tarānī
   15:
-    arabic: وَلٰـكِنِ
+    arabic: وَلَٰكِنِ
     translation: but
     transliteration: walākini
   16:
-    arabic: انْظُرۡ
+    arabic: ٱنظُرۡ
     translation: look
     transliteration: unẓur
   17:
-    arabic: اِلَى
+    arabic: إِلَى
     translation: at
     transliteration: ilā
   18:
-    arabic: الۡجَـبَلِ
+    arabic: ٱلۡجَبَلِ
     translation: the mountain
     transliteration: l-jabali
   19:
-    arabic: فَاِنِ
+    arabic: فَإِنِ
     translation: '[then] if'
     transliteration: fa-ini
   20:
-    arabic: اسۡتَقَرَّ
+    arabic: ٱسۡتَقَرَّ
     translation: it remains
     transliteration: is'taqarra
   21:
-    arabic: مَكَانَهٗ
+    arabic: مَكَانَهُۥ
     translation: in its place
     transliteration: makānahu
   22:
@@ -100,7 +100,7 @@ word_by_word:
     translation: then
     transliteration: fasawfa
   23:
-    arabic: تَرٰٮنِىۡ​ ۚ
+    arabic: تَرَىٰنِيۚ
     translation: you (will) see Me
     transliteration: tarānī
   24:
@@ -108,11 +108,11 @@ word_by_word:
     translation: But when
     transliteration: falammā
   25:
-    arabic: تَجَلّٰى
+    arabic: تَجَلَّىٰ
     translation: revealed (His) Glory
     transliteration: tajallā
   26:
-    arabic: رَبُّهٗ
+    arabic: رَبُّهُۥ
     translation: his Lord
     transliteration: rabbuhu
   27:
@@ -120,31 +120,31 @@ word_by_word:
     translation: to the mountain
     transliteration: lil'jabali
   28:
-    arabic: جَعَلَهٗ
+    arabic: جَعَلَهُۥ
     translation: He made it
     transliteration: jaʿalahu
   29:
-    arabic: دَكًّا
+    arabic: دَكّٗا
     translation: crumbled to dust
     transliteration: dakkan
   30:
-    arabic: وَّخَرَّ
+    arabic: وَخَرَّ
     translation: and fell down
     transliteration: wakharra
   31:
-    arabic: مُوۡسٰى
+    arabic: مُوسَىٰ
     translation: Musa
     transliteration: mūsā
   32:
-    arabic: صَعِقًا​ ۚ
+    arabic: صَعِقٗاۚ
     translation: unconscious
     transliteration: ṣaʿiqan
   33:
-    arabic: فَلَمَّاۤ
+    arabic: فَلَمَّآ
     translation: And when
     transliteration: falammā
   34:
-    arabic: اَفَاقَ
+    arabic: أَفَاقَ
     translation: he recovered
     transliteration: afāqa
   35:
@@ -152,7 +152,7 @@ word_by_word:
     translation: he said
     transliteration: qāla
   36:
-    arabic: سُبۡحٰنَكَ
+    arabic: سُبۡحَٰنَكَ
     translation: Glory be to You
     transliteration: sub'ḥānaka
   37:
@@ -160,19 +160,19 @@ word_by_word:
     translation: I turn (in repentance)
     transliteration: tub'tu
   38:
-    arabic: اِلَيۡكَ
+    arabic: إِلَيۡكَ
     translation: to you
     transliteration: ilayka
   39:
-    arabic: وَاَنَا
+    arabic: وَأَنَا۠
     translation: and I am
     transliteration: wa-anā
   40:
-    arabic: اَوَّلُ
+    arabic: أَوَّلُ
     translation: (the) first
     transliteration: awwalu
   41:
-    arabic: الۡمُؤۡمِنِيۡنَ‏
+    arabic: ٱلۡمُؤۡمِنِينَ
     translation: (of) the believers
     transliteration: l-mu'minīna
 ---

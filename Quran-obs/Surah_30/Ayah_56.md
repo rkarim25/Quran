@@ -1,7 +1,7 @@
 ---
-arabic_ayat: وَقَالَ الَّذِيۡنَ اُوۡتُوا الۡعِلۡمَ وَ الۡاِيۡمَانَ لَقَدۡ لَبِثۡـتُمۡ
-  فِىۡ كِتٰبِ اللّٰهِ اِلٰى يَوۡمِ الۡبَـعۡثِ فَهٰذَا يَوۡمُ الۡبَـعۡثِ وَلٰـكِنَّكُمۡ
-  كُنۡـتُمۡ لَا تَعۡلَمُوۡنَ‏
+arabic_ayat: وَقَالَ ٱلَّذِينَ أُوتُواْ ٱلۡعِلۡمَ وَٱلۡإِيمَٰنَ لَقَدۡ لَبِثۡتُمۡ
+  فِي كِتَٰبِ ٱللَّهِ إِلَىٰ يَوۡمِ ٱلۡبَعۡثِۖ فَهَٰذَا يَوۡمُ ٱلۡبَعۡثِ وَلَٰكِنَّكُمۡ
+  كُنتُمۡ لَا تَعۡلَمُونَ
 sentence_translation: But those gifted with knowledge and faith will say ˹to them˺,
   “You did actually stay—as destined by Allah—until the Day of Resurrection. So here
   is the Day of Resurrection ˹which you denied˺! But you did not know ˹it was true˺.”
@@ -11,19 +11,19 @@ word_by_word:
     translation: But will say
     transliteration: waqāla
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   3:
-    arabic: اُوۡتُوا
+    arabic: أُوتُواْ
     translation: were given
     transliteration: ūtū
   4:
-    arabic: الۡعِلۡمَ
+    arabic: ٱلۡعِلۡمَ
     translation: the knowledge
     transliteration: l-ʿil'ma
   5:
-    arabic: وَ الۡاِيۡمَانَ
+    arabic: وَٱلۡإِيمَٰنَ
     translation: and the faith
     transliteration: wal-īmāna
   6:
@@ -31,23 +31,23 @@ word_by_word:
     translation: Verily
     transliteration: laqad
   7:
-    arabic: لَبِثۡـتُمۡ
+    arabic: لَبِثۡتُمۡ
     translation: you remained
     transliteration: labith'tum
   8:
-    arabic: فِىۡ
+    arabic: فِي
     translation: by
     transliteration: fī
   9:
-    arabic: كِتٰبِ
+    arabic: كِتَٰبِ
     translation: (the) Decree
     transliteration: kitābi
   10:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (of) Allah
     transliteration: l-lahi
   11:
-    arabic: اِلٰى
+    arabic: إِلَىٰ
     translation: until
     transliteration: ilā
   12:
@@ -55,11 +55,11 @@ word_by_word:
     translation: (the) Day
     transliteration: yawmi
   13:
-    arabic: الۡبَـعۡثِ
+    arabic: ٱلۡبَعۡثِۖ
     translation: (of) Resurrection
     transliteration: l-baʿthi
   14:
-    arabic: فَهٰذَا
+    arabic: فَهَٰذَا
     translation: And this
     transliteration: fahādhā
   15:
@@ -67,15 +67,15 @@ word_by_word:
     translation: (is the) Day
     transliteration: yawmu
   16:
-    arabic: الۡبَـعۡثِ
+    arabic: ٱلۡبَعۡثِ
     translation: (of) the Resurrection
     transliteration: l-baʿthi
   17:
-    arabic: وَلٰـكِنَّكُمۡ
+    arabic: وَلَٰكِنَّكُمۡ
     translation: but you
     transliteration: walākinnakum
   18:
-    arabic: كُنۡـتُمۡ
+    arabic: كُنتُمۡ
     translation: were
     transliteration: kuntum
   19:
@@ -83,7 +83,7 @@ word_by_word:
     translation: not
     transliteration: lā
   20:
-    arabic: تَعۡلَمُوۡنَ‏
+    arabic: تَعۡلَمُونَ
     translation: knowing
     transliteration: taʿlamūna
 ---

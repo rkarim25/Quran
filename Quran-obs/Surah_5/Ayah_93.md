@@ -1,15 +1,14 @@
 ---
-arabic_ayat: "لَـيۡسَ عَلَى الَّذِيۡنَ اٰمَنُوۡا وَعَمِلُوا الصّٰلِحٰتِ جُنَاحٌ فِيۡمَا\
-  \ طَعِمُوۡۤا اِذَا مَا اتَّقَوا وَّاٰمَنُوۡا وَعَمِلُوا الصّٰلِحٰتِ ثُمَّ اتَّقَوا\
-  \ وَّاٰمَنُوۡا ثُمَّ اتَّقَوا وَّاَحۡسَنُوۡا​ ؕ وَاللّٰهُ يُحِبُّ الۡمُحۡسِنِيۡنَ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: لَيۡسَ عَلَى ٱلَّذِينَ ءَامَنُواْ وَعَمِلُواْ ٱلصَّٰلِحَٰتِ جُنَاحٞ فِيمَا
+  طَعِمُوٓاْ إِذَا مَا ٱتَّقَواْ وَّءَامَنُواْ وَعَمِلُواْ ٱلصَّٰلِحَٰتِ ثُمَّ ٱتَّقَواْ
+  وَّءَامَنُواْ ثُمَّ ٱتَّقَواْ وَّأَحۡسَنُواْۚ وَٱللَّهُ يُحِبُّ ٱلۡمُحۡسِنِينَ
 sentence_translation: There is no blame on those who believe and do good for what
   they had consumed before ˹the prohibition˺, as long as they fear Allah, have faith,
   and do what is good; then they believe and act virtuously, then become fully mindful
   ˹of Allah˺ and do righteous deeds. For Allah loves the good-doers.
 word_by_word:
   1:
-    arabic: لَـيۡسَ
+    arabic: لَيۡسَ
     translation: Not
     transliteration: laysa
   2:
@@ -17,35 +16,35 @@ word_by_word:
     translation: 'on'
     transliteration: ʿalā
   3:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ ءَ
     translation: those who
     transliteration: alladhīna
   4:
-    arabic: اٰمَنُوۡا
+    arabic: امَنُواْ
     translation: believe
     transliteration: āmanū
   5:
-    arabic: وَعَمِلُوا
+    arabic: وَعَمِلُواْ
     translation: and do
     transliteration: waʿamilū
   6:
-    arabic: الصّٰلِحٰتِ
+    arabic: ٱلصَّٰلِحَٰتِ
     translation: the good deeds
     transliteration: l-ṣāliḥāti
   7:
-    arabic: جُنَاحٌ
+    arabic: جُنَاحٞ
     translation: any sin
     transliteration: junāḥun
   8:
-    arabic: فِيۡمَا
+    arabic: فِيمَا
     translation: for what
     transliteration: fīmā
   9:
-    arabic: طَعِمُوۡۤا
+    arabic: طَعِمُوٓاْ
     translation: they ate
     transliteration: ṭaʿimū
   10:
-    arabic: اِذَا
+    arabic: إِذَا
     translation: when
     transliteration: idhā
   11:
@@ -53,19 +52,19 @@ word_by_word:
     translation: that
     transliteration: mā
   12:
-    arabic: اتَّقَوا
+    arabic: ٱتَّقَواْ
     translation: they fear (Allah)
     transliteration: ittaqaw
   13:
-    arabic: وَّاٰمَنُوۡا
+    arabic: وَّءَامَنُواْ
     translation: and they believe
     transliteration: waāmanū
   14:
-    arabic: وَعَمِلُوا
+    arabic: وَعَمِلُواْ
     translation: and they do
     transliteration: waʿamilū
   15:
-    arabic: الصّٰلِحٰتِ
+    arabic: ٱلصَّٰلِحَٰتِ
     translation: '[the] good deeds'
     transliteration: l-ṣāliḥāti
   16:
@@ -73,11 +72,11 @@ word_by_word:
     translation: then
     transliteration: thumma
   17:
-    arabic: اتَّقَوا
+    arabic: ٱتَّقَواْ
     translation: they fear (Allah)
     transliteration: ittaqaw
   18:
-    arabic: وَّاٰمَنُوۡا
+    arabic: وَّءَامَنُواْ
     translation: and believe
     transliteration: waāmanū
   19:
@@ -85,15 +84,15 @@ word_by_word:
     translation: then
     transliteration: thumma
   20:
-    arabic: اتَّقَوا
+    arabic: ٱتَّقَواْ
     translation: they fear (Allah)
     transliteration: ittaqaw
   21:
-    arabic: وَّاَحۡسَنُوۡا​ ؕ
+    arabic: وَّأَحۡسَنُواْۚ
     translation: and do good
     transliteration: wa-aḥsanū
   22:
-    arabic: وَاللّٰهُ
+    arabic: وَٱللَّهُ
     translation: and Allah
     transliteration: wal-lahu
   23:
@@ -101,7 +100,7 @@ word_by_word:
     translation: loves
     transliteration: yuḥibbu
   24:
-    arabic: "الۡمُحۡسِنِيۡنَ‏ \uFEFF\uFEFF"
+    arabic: ٱلۡمُحۡسِنِينَ
     translation: the good-doers
     transliteration: l-muḥ'sinīna
 ---

@@ -1,10 +1,10 @@
 ---
-arabic_ayat: اِنَّا نَحۡنُ نُحۡىٖ وَنُمِيۡتُ وَاِلَيۡنَا الۡمَصِيۡرُۙ‏
+arabic_ayat: إِنَّا نَحۡنُ نُحۡيِۦ وَنُمِيتُ وَإِلَيۡنَا ٱلۡمَصِيرُ
 sentence_translation: It is certainly We Who give life and cause death. And to Us
   is the final return.
 word_by_word:
   1:
-    arabic: اِنَّا
+    arabic: إِنَّا
     translation: Indeed, We
     transliteration: innā
   2:
@@ -12,19 +12,19 @@ word_by_word:
     translation: '[We]'
     transliteration: naḥnu
   3:
-    arabic: نُحۡىٖ
+    arabic: نُحۡيِۦ
     translation: '[We] give life'
     transliteration: nuḥ'yī
   4:
-    arabic: وَنُمِيۡتُ
+    arabic: وَنُمِيتُ
     translation: and [We] cause death
     transliteration: wanumītu
   5:
-    arabic: وَاِلَيۡنَا
+    arabic: وَإِلَيۡنَا
     translation: and to Us
     transliteration: wa-ilaynā
   6:
-    arabic: الۡمَصِيۡرُۙ‏
+    arabic: ٱلۡمَصِيرُ
     translation: (is) the final return
     transliteration: l-maṣīru
 ---

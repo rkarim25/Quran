@@ -1,6 +1,6 @@
 ---
-arabic_ayat: وَقَالَ مُوۡسٰٓى اِنِّىۡ عُذۡتُ بِرَبِّىۡ وَرَبِّكُمۡ مِّنۡ كُلِّ مُتَكَبِّرٍ
-  لَّا يُؤۡمِنُ بِيَوۡمِ الۡحِسَابِ‏
+arabic_ayat: وَقَالَ مُوسَىٰٓ إِنِّي عُذۡتُ بِرَبِّي وَرَبِّكُم مِّن كُلِّ مُتَكَبِّرٖ
+  لَّا يُؤۡمِنُ بِيَوۡمِ ٱلۡحِسَابِ
 sentence_translation: Moses replied, “I seek refuge in my Lord and your Lord from
   every arrogant person who does not believe in the Day of Reckoning.”
 word_by_word:
@@ -9,11 +9,11 @@ word_by_word:
     translation: And said
     transliteration: waqāla
   2:
-    arabic: مُوۡسٰٓى
+    arabic: مُوسَىٰٓ
     translation: Musa
     transliteration: mūsā
   3:
-    arabic: اِنِّىۡ
+    arabic: إِنِّي
     translation: Indeed, I
     transliteration: innī
   4:
@@ -21,15 +21,15 @@ word_by_word:
     translation: '[I] seek refuge'
     transliteration: ʿudh'tu
   5:
-    arabic: بِرَبِّىۡ
+    arabic: بِرَبِّي
     translation: in my Lord
     transliteration: birabbī
   6:
-    arabic: وَرَبِّكُمۡ
+    arabic: وَرَبِّكُم
     translation: and your Lord
     transliteration: warabbikum
   7:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: from
     transliteration: min
   8:
@@ -37,7 +37,7 @@ word_by_word:
     translation: every
     transliteration: kulli
   9:
-    arabic: مُتَكَبِّرٍ
+    arabic: مُتَكَبِّرٖ
     translation: arrogant one
     transliteration: mutakabbirin
   10:
@@ -53,7 +53,7 @@ word_by_word:
     translation: (in the) Day
     transliteration: biyawmi
   13:
-    arabic: الۡحِسَابِ‏
+    arabic: ٱلۡحِسَابِ
     translation: (of) the Account
     transliteration: l-ḥisābi
 ---

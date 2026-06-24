@@ -1,7 +1,7 @@
 ---
-arabic_ayat: وَمَنۡ اَظۡلَمُ مِمَّنِ افۡتَـرٰى عَلَى اللّٰهِ كَذِبًا​ ؕ اُولٰٓٮِٕكَ
-  يُعۡرَضُوۡنَ عَلٰى رَبِّهِمۡ وَ يَقُوۡلُ الۡاَشۡهَادُ هٰٓؤُلَاۤءِ الَّذِيۡنَ كَذَبُوۡا
-  عَلٰى رَبِّهِمۡ​ ۚ اَلَا لَـعۡنَةُ اللّٰهِ عَلَى الظّٰلِمِيۡنَۙ‏
+arabic_ayat: وَمَنۡ أَظۡلَمُ مِمَّنِ ٱفۡتَرَىٰ عَلَى ٱللَّهِ كَذِبًاۚ أُوْلَٰٓئِكَ
+  يُعۡرَضُونَ عَلَىٰ رَبِّهِمۡ وَيَقُولُ ٱلۡأَشۡهَٰدُ هَٰٓؤُلَآءِ ٱلَّذِينَ كَذَبُواْ
+  عَلَىٰ رَبِّهِمۡۚ أَلَا لَعۡنَةُ ٱللَّهِ عَلَى ٱلظَّٰلِمِينَ
 sentence_translation: Who does more wrong than those who fabricate lies against Allah?
   They will be brought before their Lord, and the witnesses will say, “These are the
   ones who lied against their Lord.” Surely Allah’s condemnation is upon the wrongdoers,
@@ -11,7 +11,7 @@ word_by_word:
     translation: And who
     transliteration: waman
   2:
-    arabic: اَظۡلَمُ
+    arabic: أَظۡلَمُ
     translation: (is) more unjust
     transliteration: aẓlamu
   3:
@@ -19,7 +19,7 @@ word_by_word:
     translation: than (he) who
     transliteration: mimmani
   4:
-    arabic: افۡتَـرٰى
+    arabic: ٱفۡتَرَىٰ
     translation: invents
     transliteration: if'tarā
   5:
@@ -27,23 +27,23 @@ word_by_word:
     translation: against
     transliteration: ʿalā
   6:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   7:
-    arabic: كَذِبًا​ ؕ
+    arabic: كَذِبًاۚ
     translation: a lie
     transliteration: kadhiban
   8:
-    arabic: اُولٰٓٮِٕكَ
+    arabic: أُوْلَٰٓئِكَ
     translation: Those
     transliteration: ulāika
   9:
-    arabic: يُعۡرَضُوۡنَ
+    arabic: يُعۡرَضُونَ
     translation: will be presented
     transliteration: yuʿ'raḍūna
   10:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: before
     transliteration: ʿalā
   11:
@@ -51,43 +51,43 @@ word_by_word:
     translation: their Lord
     transliteration: rabbihim
   12:
-    arabic: وَ يَقُوۡلُ
+    arabic: وَيَقُولُ
     translation: and will say
     transliteration: wayaqūlu
   13:
-    arabic: الۡاَشۡهَادُ
+    arabic: ٱلۡأَشۡهَٰدُ
     translation: the witnesses
     transliteration: l-ashhādu
   14:
-    arabic: هٰٓؤُلَاۤءِ
+    arabic: هَٰٓؤُلَآءِ
     translation: These (are)
     transliteration: hāulāi
   15:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   16:
-    arabic: كَذَبُوۡا
+    arabic: كَذَبُواْ
     translation: lied
     transliteration: kadhabū
   17:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: against
     transliteration: ʿalā
   18:
-    arabic: رَبِّهِمۡ​ ۚ
+    arabic: رَبِّهِمۡۚ
     translation: their Lord
     transliteration: rabbihim
   19:
-    arabic: اَلَا
+    arabic: أَلَا
     translation: No doubt
     transliteration: alā
   20:
-    arabic: لَـعۡنَةُ
+    arabic: لَعۡنَةُ
     translation: (The) curse of Allah
     transliteration: laʿnatu
   21:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (The) curse of Allah
     transliteration: l-lahi
   22:
@@ -95,7 +95,7 @@ word_by_word:
     translation: (is) on
     transliteration: ʿalā
   23:
-    arabic: الظّٰلِمِيۡنَۙ‏
+    arabic: ٱلظَّٰلِمِينَ
     translation: the wrongdoers
     transliteration: l-ẓālimīna
 ---

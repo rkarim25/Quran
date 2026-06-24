@@ -1,9 +1,8 @@
 ---
-arabic_ayat: "وَاِنۡ طَلَّقۡتُمُوۡهُنَّ مِنۡ قَبۡلِ اَنۡ تَمَسُّوۡهُنَّ وَقَدۡ فَرَضۡتُمۡ\
-  \ لَهُنَّ فَرِيۡضَةً فَنِصۡفُ مَا فَرَضۡتُمۡ اِلَّاۤ اَنۡ يَّعۡفُوۡنَ اَوۡ يَعۡفُوَا\
-  \ الَّذِىۡ بِيَدِهٖ عُقۡدَةُ النِّكَاحِ ​ؕ وَاَنۡ تَعۡفُوۡٓا اَقۡرَبُ لِلتَّقۡوٰى​ؕ\
-  \ وَ لَا تَنۡسَوُا الۡفَضۡلَ بَيۡنَكُمۡ​ؕ اِنَّ اللّٰهَ بِمَا تَعۡمَلُوۡنَ بَصِيۡرٌ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: وَإِن طَلَّقۡتُمُوهُنَّ مِن قَبۡلِ أَن تَمَسُّوهُنَّ وَقَدۡ فَرَضۡتُمۡ
+  لَهُنَّ فَرِيضَةٗ فَنِصۡفُ مَا فَرَضۡتُمۡ إِلَّآ أَن يَعۡفُونَ أَوۡ يَعۡفُوَاْ
+  ٱلَّذِي بِيَدِهِۦ عُقۡدَةُ ٱلنِّكَاحِۚ وَأَن تَعۡفُوٓاْ أَقۡرَبُ لِلتَّقۡوَىٰۚ وَلَا
+  تَنسَوُاْ ٱلۡفَضۡلَ بَيۡنَكُمۡۚ إِنَّ ٱللَّهَ بِمَا تَعۡمَلُونَ بَصِيرٌ
 sentence_translation: And if you divorce them before consummating the marriage but
   after deciding on a dowry, pay half of the dowry, unless the wife graciously waives
   it or the husband graciously pays in full. Graciousness is closer to righteousness.
@@ -11,15 +10,15 @@ sentence_translation: And if you divorce them before consummating the marriage b
   you do.
 word_by_word:
   1:
-    arabic: وَاِنۡ
+    arabic: وَإِن
     translation: And if
     transliteration: wa-in
   2:
-    arabic: طَلَّقۡتُمُوۡهُنَّ
+    arabic: طَلَّقۡتُمُوهُنَّ
     translation: you divorce them
     transliteration: ṭallaqtumūhunna
   3:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   4:
@@ -27,11 +26,11 @@ word_by_word:
     translation: before
     transliteration: qabli
   5:
-    arabic: اَنۡ
+    arabic: أَن
     translation: '[that]'
     transliteration: an
   6:
-    arabic: تَمَسُّوۡهُنَّ
+    arabic: تَمَسُّوهُنَّ
     translation: you (have) touched them
     transliteration: tamassūhunna
   7:
@@ -47,7 +46,7 @@ word_by_word:
     translation: for them
     transliteration: lahunna
   10:
-    arabic: فَرِيۡضَةً
+    arabic: فَرِيضَةٗ
     translation: an obligation (dower)
     transliteration: farīḍatan
   11:
@@ -63,31 +62,31 @@ word_by_word:
     translation: you have specified
     transliteration: faraḍtum
   14:
-    arabic: اِلَّاۤ
+    arabic: إِلَّآ
     translation: unless
     transliteration: illā
   15:
-    arabic: اَنۡ
+    arabic: أَن
     translation: '[that]'
     transliteration: an
   16:
-    arabic: يَّعۡفُوۡنَ
+    arabic: يَعۡفُونَ
     translation: they (women) forgo (it)
     transliteration: yaʿfūna
   17:
-    arabic: اَوۡ
+    arabic: أَوۡ
     translation: or
     transliteration: aw
   18:
-    arabic: يَعۡفُوَا
+    arabic: يَعۡفُوَاْ
     translation: forgoes
     transliteration: yaʿfuwā
   19:
-    arabic: الَّذِىۡ
+    arabic: ٱلَّذِي
     translation: the one
     transliteration: alladhī
   20:
-    arabic: بِيَدِهٖ
+    arabic: بِيَدِهِۦ
     translation: in whose hands
     transliteration: biyadihi
   21:
@@ -95,47 +94,47 @@ word_by_word:
     translation: (is the) knot
     transliteration: ʿuq'datu
   22:
-    arabic: النِّكَاحِ ​ؕ
+    arabic: ٱلنِّكَاحِۚ
     translation: (of) the marriage
     transliteration: l-nikāḥi
   23:
-    arabic: وَاَنۡ
+    arabic: وَأَن
     translation: And that
     transliteration: wa-an
   24:
-    arabic: تَعۡفُوۡٓا
+    arabic: تَعۡفُوٓاْ
     translation: you forgo
     transliteration: taʿfū
   25:
-    arabic: اَقۡرَبُ
+    arabic: أَقۡرَبُ
     translation: (is) nearer
     transliteration: aqrabu
   26:
-    arabic: لِلتَّقۡوٰى​ؕ
+    arabic: لِلتَّقۡوَىٰۚ
     translation: to [the] righteousness
     transliteration: lilttaqwā
   27:
-    arabic: وَ لَا
+    arabic: وَلَا
     translation: And (do) not
     transliteration: walā
   28:
-    arabic: تَنۡسَوُا
+    arabic: تَنسَوُاْ
     translation: forget
     transliteration: tansawū
   29:
-    arabic: الۡفَضۡلَ
+    arabic: ٱلۡفَضۡلَ
     translation: the graciousness
     transliteration: l-faḍla
   30:
-    arabic: بَيۡنَكُمۡ​ؕ
+    arabic: بَيۡنَكُمۡۚ
     translation: among you
     transliteration: baynakum
   31:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   32:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   33:
@@ -143,11 +142,11 @@ word_by_word:
     translation: of what
     transliteration: bimā
   34:
-    arabic: تَعۡمَلُوۡنَ
+    arabic: تَعۡمَلُونَ
     translation: you do
     transliteration: taʿmalūna
   35:
-    arabic: "بَصِيۡرٌ‏ \uFEFF\uFEFF"
+    arabic: بَصِيرٌ
     translation: (is) All-Seer
     transliteration: baṣīrun
 ---

@@ -1,17 +1,17 @@
 ---
-arabic_ayat: وَاِذَا النُّفُوۡسُ زُوِّجَتۡۙ‏
+arabic_ayat: وَإِذَا ٱلنُّفُوسُ زُوِّجَتۡ
 sentence_translation: and when the souls ˹and their bodies˺ are paired ˹once more˺,
 word_by_word:
   1:
-    arabic: وَاِذَا
+    arabic: وَإِذَا
     translation: And when
     transliteration: wa-idhā
   2:
-    arabic: النُّفُوۡسُ
+    arabic: ٱلنُّفُوسُ
     translation: the souls
     transliteration: l-nufūsu
   3:
-    arabic: زُوِّجَتۡۙ‏
+    arabic: زُوِّجَتۡ
     translation: are paired
     transliteration: zuwwijat
 ---

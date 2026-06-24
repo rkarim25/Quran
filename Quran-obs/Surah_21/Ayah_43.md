@@ -1,31 +1,31 @@
 ---
-arabic_ayat: اَمۡ لَهُمۡ اٰلِهَةٌ تَمۡنَعُهُمۡ مِّنۡ دُوۡنِنَا ​ؕ لَا يَسۡتَطِيۡعُوۡنَ
-  نَـصۡرَ اَنۡفُسِهِمۡ وَلَا هُمۡ مِّنَّا يُصۡحَبُوۡنَ‏
+arabic_ayat: أَمۡ لَهُمۡ ءَالِهَةٞ تَمۡنَعُهُم مِّن دُونِنَاۚ لَا يَسۡتَطِيعُونَ نَصۡرَ
+  أَنفُسِهِمۡ وَلَا هُم مِّنَّا يُصۡحَبُونَ
 sentence_translation: Or do they have gods—other than Us—that can protect them? They
   cannot ˹even˺ protect themselves, nor will they be aided against Us.
 word_by_word:
   1:
-    arabic: اَمۡ
+    arabic: أَمۡ
     translation: Or
     transliteration: am
   2:
-    arabic: لَهُمۡ
+    arabic: لَهُمۡ ءَ
     translation: have they
     transliteration: lahum
   3:
-    arabic: اٰلِهَةٌ
+    arabic: الِهَةٞ
     translation: gods
     transliteration: ālihatun
   4:
-    arabic: تَمۡنَعُهُمۡ
+    arabic: تَمۡنَعُهُم
     translation: (to) defend them
     transliteration: tamnaʿuhum
   5:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: from
     transliteration: min
   6:
-    arabic: دُوۡنِنَا ​ؕ
+    arabic: دُونِنَاۚ
     translation: Us
     transliteration: dūninā
   7:
@@ -33,15 +33,15 @@ word_by_word:
     translation: Not
     transliteration: lā
   8:
-    arabic: يَسۡتَطِيۡعُوۡنَ
+    arabic: يَسۡتَطِيعُونَ
     translation: they are able
     transliteration: yastaṭīʿūna
   9:
-    arabic: نَـصۡرَ
+    arabic: نَصۡرَ
     translation: (to) help
     transliteration: naṣra
   10:
-    arabic: اَنۡفُسِهِمۡ
+    arabic: أَنفُسِهِمۡ
     translation: themselves
     transliteration: anfusihim
   11:
@@ -49,7 +49,7 @@ word_by_word:
     translation: and not
     transliteration: walā
   12:
-    arabic: هُمۡ
+    arabic: هُم
     translation: they
     transliteration: hum
   13:
@@ -57,7 +57,7 @@ word_by_word:
     translation: from Us
     transliteration: minnā
   14:
-    arabic: يُصۡحَبُوۡنَ‏
+    arabic: يُصۡحَبُونَ
     translation: can be protected
     transliteration: yuṣ'ḥabūna
 ---

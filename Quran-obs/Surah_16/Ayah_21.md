@@ -1,11 +1,10 @@
 ---
-arabic_ayat: "اَمۡوَاتٌ غَيۡرُ اَحۡيَآءٍ​ ۚ وَمَا يَشۡعُرُوۡنَ اَيَّانَ يُبۡعَثُوۡنَ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: أَمۡوَٰتٌ غَيۡرُ أَحۡيَآءٖۖ وَمَا يَشۡعُرُونَ أَيَّانَ يُبۡعَثُونَ
 sentence_translation: They are dead, not alive—not even knowing when their followers
   will be resurrected.
 word_by_word:
   1:
-    arabic: اَمۡوَاتٌ
+    arabic: أَمۡوَٰتٌ
     translation: (They are) dead
     transliteration: amwātun
   2:
@@ -13,7 +12,7 @@ word_by_word:
     translation: not alive
     transliteration: ghayru
   3:
-    arabic: اَحۡيَآءٍ​ ۚ
+    arabic: أَحۡيَآءٖۖ
     translation: not alive
     transliteration: aḥyāin
   4:
@@ -21,15 +20,15 @@ word_by_word:
     translation: And not
     transliteration: wamā
   5:
-    arabic: يَشۡعُرُوۡنَ
+    arabic: يَشۡعُرُونَ
     translation: they perceive
     transliteration: yashʿurūna
   6:
-    arabic: اَيَّانَ
+    arabic: أَيَّانَ
     translation: when
     transliteration: ayyāna
   7:
-    arabic: "يُبۡعَثُوۡنَ‏ \uFEFF\uFEFF"
+    arabic: يُبۡعَثُونَ
     translation: they will be resurrected
     transliteration: yub'ʿathūna
 ---

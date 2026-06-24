@@ -1,15 +1,14 @@
 ---
-arabic_ayat: لَـقَدْ تَّابَ اللّٰهُ عَلَى النَّبِىِّ وَالۡمُهٰجِرِيۡنَ وَالۡاَنۡصَارِ
-  الَّذِيۡنَ اتَّبَعُوۡهُ فِىۡ سَاعَةِ الۡعُسۡرَةِ مِنۡۢ بَعۡدِ مَا كَادَ يَزِيۡغُ
-  قُلُوۡبُ فَرِيۡقٍ مِّنۡهُمۡ ثُمَّ تَابَ عَلَيۡهِمۡ​ؕ اِنَّهٗ بِهِمۡ رَءُوۡفٌ رَّحِيۡمٌۙ
-  ‏
+arabic_ayat: لَّقَد تَّابَ ٱللَّهُ عَلَى ٱلنَّبِيِّ وَٱلۡمُهَٰجِرِينَ وَٱلۡأَنصَارِ
+  ٱلَّذِينَ ٱتَّبَعُوهُ فِي سَاعَةِ ٱلۡعُسۡرَةِ مِنۢ بَعۡدِ مَا كَادَ يَزِيغُ قُلُوبُ
+  فَرِيقٖ مِّنۡهُمۡ ثُمَّ تَابَ عَلَيۡهِمۡۚ إِنَّهُۥ بِهِمۡ رَءُوفٞ رَّحِيمٞ
 sentence_translation: Allah has certainly turned in mercy to the Prophet as well as
   the Emigrants and the Helpers who stood by him in the time of hardship, after the
   hearts of a group of them had almost faltered. He then accepted their repentance.
   Surely He is Ever Gracious and Most Merciful to them.
 word_by_word:
   1:
-    arabic: لَـقَدْ
+    arabic: لَّقَد
     translation: Verily
     transliteration: laqad
   2:
@@ -17,7 +16,7 @@ word_by_word:
     translation: Allah turned (in mercy)
     transliteration: tāba
   3:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah turned (in mercy)
     transliteration: l-lahu
   4:
@@ -25,27 +24,27 @@ word_by_word:
     translation: to
     transliteration: ʿalā
   5:
-    arabic: النَّبِىِّ
+    arabic: ٱلنَّبِيِّ
     translation: the Prophet
     transliteration: l-nabiyi
   6:
-    arabic: وَالۡمُهٰجِرِيۡنَ
+    arabic: وَٱلۡمُهَٰجِرِينَ
     translation: and the emigrants
     transliteration: wal-muhājirīna
   7:
-    arabic: وَالۡاَنۡصَارِ
+    arabic: وَٱلۡأَنصَارِ
     translation: and the helpers
     transliteration: wal-anṣāri
   8:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: '[those] who'
     transliteration: alladhīna
   9:
-    arabic: اتَّبَعُوۡهُ
+    arabic: ٱتَّبَعُوهُ
     translation: followed him
     transliteration: ittabaʿūhu
   10:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   11:
@@ -53,11 +52,11 @@ word_by_word:
     translation: (the) hour
     transliteration: sāʿati
   12:
-    arabic: الۡعُسۡرَةِ
+    arabic: ٱلۡعُسۡرَةِ
     translation: (of) difficulty
     transliteration: l-ʿus'rati
   13:
-    arabic: مِنۡۢ
+    arabic: مِنۢ
     translation: after
     transliteration: min
   14:
@@ -73,15 +72,15 @@ word_by_word:
     translation: had nearly
     transliteration: kāda
   17:
-    arabic: يَزِيۡغُ
+    arabic: يَزِيغُ
     translation: deviated
     transliteration: yazīghu
   18:
-    arabic: قُلُوۡبُ
+    arabic: قُلُوبُ
     translation: (the) hearts
     transliteration: qulūbu
   19:
-    arabic: فَرِيۡقٍ
+    arabic: فَرِيقٖ
     translation: (of) a party
     transliteration: farīqin
   20:
@@ -97,11 +96,11 @@ word_by_word:
     translation: He turned (in mercy)
     transliteration: tāba
   23:
-    arabic: عَلَيۡهِمۡ​ؕ
+    arabic: عَلَيۡهِمۡۚ
     translation: to them
     transliteration: ʿalayhim
   24:
-    arabic: اِنَّهٗ
+    arabic: إِنَّهُۥ
     translation: Indeed, He
     transliteration: innahu
   25:
@@ -109,11 +108,11 @@ word_by_word:
     translation: to them
     transliteration: bihim
   26:
-    arabic: رَءُوۡفٌ
+    arabic: رَءُوفٞ
     translation: (is) Most Kind
     transliteration: raūfun
   27:
-    arabic: رَّحِيۡمٌۙ ‏
+    arabic: رَّحِيمٞ
     translation: Most Merciful
     transliteration: raḥīmun
 ---

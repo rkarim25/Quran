@@ -1,6 +1,6 @@
 ---
-arabic_ayat: ثُمَّ بَعَثۡنَا مِنۡۢ بَعۡدِهِمۡ مُّوۡسٰى وَهٰرُوۡنَ اِلٰى فِرۡعَوۡنَ
-  وَمَلَاِ۫ ٮِٕهٖ بِاٰيٰتِنَا فَاسۡتَكۡبَرُوۡا وَكَانُوۡا قَوۡمًا مُّجۡرِمِيۡنَ‏
+arabic_ayat: ثُمَّ بَعَثۡنَا مِنۢ بَعۡدِهِم مُّوسَىٰ وَهَٰرُونَ إِلَىٰ فِرۡعَوۡنَ
+  وَمَلَإِيْهِۦ بِـَٔايَٰتِنَا فَٱسۡتَكۡبَرُواْ وَكَانُواْ قَوۡمٗا مُّجۡرِمِينَ
 sentence_translation: Then after these ˹messengers˺ We sent Moses and Aaron to Pharaoh
   and his chiefs with Our signs. But they behaved arrogantly and were a wicked people.
 word_by_word:
@@ -13,23 +13,23 @@ word_by_word:
     translation: We sent
     transliteration: baʿathnā
   3:
-    arabic: مِنۡۢ
+    arabic: مِنۢ
     translation: after them
     transliteration: min
   4:
-    arabic: بَعۡدِهِمۡ
+    arabic: بَعۡدِهِم
     translation: after them
     transliteration: baʿdihim
   5:
-    arabic: مُّوۡسٰى
+    arabic: مُّوسَىٰ
     translation: Musa
     transliteration: mūsā
   6:
-    arabic: وَهٰرُوۡنَ
+    arabic: وَهَٰرُونَ
     translation: and Harun
     transliteration: wahārūna
   7:
-    arabic: اِلٰى
+    arabic: إِلَىٰ
     translation: to
     transliteration: ilā
   8:
@@ -37,27 +37,27 @@ word_by_word:
     translation: Firaun
     transliteration: fir'ʿawna
   9:
-    arabic: وَمَلَاِ۫ ٮِٕهٖ
+    arabic: وَمَلَإِيْهِۦ
     translation: and his chiefs
     transliteration: wamala-ihi
   10:
-    arabic: بِاٰيٰتِنَا
+    arabic: بِـَٔايَٰتِنَا
     translation: with Our Signs
     transliteration: biāyātinā
   11:
-    arabic: فَاسۡتَكۡبَرُوۡا
+    arabic: فَٱسۡتَكۡبَرُواْ
     translation: but they were arrogant
     transliteration: fa-is'takbarū
   12:
-    arabic: وَكَانُوۡا
+    arabic: وَكَانُواْ
     translation: and were
     transliteration: wakānū
   13:
-    arabic: قَوۡمًا
+    arabic: قَوۡمٗا
     translation: a people
     transliteration: qawman
   14:
-    arabic: مُّجۡرِمِيۡنَ‏
+    arabic: مُّجۡرِمِينَ
     translation: criminal
     transliteration: muj'rimīna
 ---

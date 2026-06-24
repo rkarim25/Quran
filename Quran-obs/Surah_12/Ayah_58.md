@@ -1,6 +1,6 @@
 ---
-arabic_ayat: "وَجَآءَ اِخۡوَةُ يُوۡسُفَ فَدَخَلُوۡا عَلَيۡهِ فَعَرَفَهُمۡ وَهُمۡ\
-  \ لَهٗ مُنۡكِرُوۡنَ‏ \uFEFF\uFEFF"
+arabic_ayat: وَجَآءَ إِخۡوَةُ يُوسُفَ فَدَخَلُواْ عَلَيۡهِ فَعَرَفَهُمۡ وَهُمۡ لَهُۥ
+  مُنكِرُونَ
 sentence_translation: And Joseph’s brothers came and entered his presence. He recognized
   them but they were unaware of who he really was.
 word_by_word:
@@ -9,15 +9,15 @@ word_by_word:
     translation: And came
     transliteration: wajāa
   2:
-    arabic: اِخۡوَةُ
+    arabic: إِخۡوَةُ
     translation: (the) brothers
     transliteration: ikh'watu
   3:
-    arabic: يُوۡسُفَ
+    arabic: يُوسُفَ
     translation: (of) Yusuf
     transliteration: yūsufa
   4:
-    arabic: فَدَخَلُوۡا
+    arabic: فَدَخَلُواْ
     translation: and they entered
     transliteration: fadakhalū
   5:
@@ -33,11 +33,11 @@ word_by_word:
     translation: but they
     transliteration: wahum
   8:
-    arabic: لَهٗ
+    arabic: لَهُۥ
     translation: knew him not
     transliteration: lahu
   9:
-    arabic: "مُنۡكِرُوۡنَ‏ \uFEFF\uFEFF"
+    arabic: مُنكِرُونَ
     translation: knew him not
     transliteration: munkirūna
 ---

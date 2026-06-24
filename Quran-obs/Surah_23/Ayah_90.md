@@ -1,5 +1,5 @@
 ---
-arabic_ayat: بَلۡ اَتَيۡنٰهُمۡ بِالۡحَـقِّ وَاِنَّهُمۡ لَكٰذِبُوۡنَ‏
+arabic_ayat: بَلۡ أَتَيۡنَٰهُم بِٱلۡحَقِّ وَإِنَّهُمۡ لَكَٰذِبُونَ
 sentence_translation: In fact, We have brought them the truth, and they are certainly
   liars.
 word_by_word:
@@ -8,19 +8,19 @@ word_by_word:
     translation: Nay
     transliteration: bal
   2:
-    arabic: اَتَيۡنٰهُمۡ
+    arabic: أَتَيۡنَٰهُم
     translation: We (have) brought them
     transliteration: ataynāhum
   3:
-    arabic: بِالۡحَـقِّ
+    arabic: بِٱلۡحَقِّ
     translation: the truth
     transliteration: bil-ḥaqi
   4:
-    arabic: وَاِنَّهُمۡ
+    arabic: وَإِنَّهُمۡ
     translation: but indeed, they
     transliteration: wa-innahum
   5:
-    arabic: لَكٰذِبُوۡنَ‏
+    arabic: لَكَٰذِبُونَ
     translation: surely, (are) liars
     transliteration: lakādhibūna
 ---

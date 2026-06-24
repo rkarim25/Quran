@@ -1,8 +1,8 @@
 ---
-arabic_ayat: وَّعَلَى الثَّلٰثَةِ الَّذِيۡنَ خُلِّفُوۡا ؕ حَتّٰۤى اِذَا ضَاقَتۡ عَلَيۡهِمُ
-  الۡاَرۡضُ بِمَا رَحُبَتۡ وَضَاقَتۡ عَلَيۡهِمۡ اَنۡفُسُهُمۡ وَظَنُّوۡۤا اَنۡ لَّا
-  مَلۡجَاَ مِنَ اللّٰهِ اِلَّاۤ اِلَيۡهِ ؕ ثُمَّ تَابَ عَلَيۡهِمۡ لِيَتُوۡبُوۡا ​
-  ؕ اِنَّ اللّٰهَ هُوَ التَّوَّابُ الرَّحِيۡمُ‏
+arabic_ayat: وَعَلَى ٱلثَّلَٰثَةِ ٱلَّذِينَ خُلِّفُواْ حَتَّىٰٓ إِذَا ضَاقَتۡ عَلَيۡهِمُ
+  ٱلۡأَرۡضُ بِمَا رَحُبَتۡ وَضَاقَتۡ عَلَيۡهِمۡ أَنفُسُهُمۡ وَظَنُّوٓاْ أَن لَّا مَلۡجَأَ
+  مِنَ ٱللَّهِ إِلَّآ إِلَيۡهِ ثُمَّ تَابَ عَلَيۡهِمۡ لِيَتُوبُوٓاْۚ إِنَّ ٱللَّهَ
+  هُوَ ٱلتَّوَّابُ ٱلرَّحِيمُ
 sentence_translation: And ˹Allah has also turned in mercy to˺ the three who had remained
   behind, ˹whose guilt distressed them˺ until the earth, despite its vastness, seemed
   to close in on them, and their souls were torn in anguish. They knew there was no
@@ -10,27 +10,27 @@ sentence_translation: And ˹Allah has also turned in mercy to˺ the three who ha
   repent. Surely Allah ˹alone˺ is the Accepter of Repentance, Most Merciful.
 word_by_word:
   1:
-    arabic: وَّعَلَى
+    arabic: وَعَلَى
     translation: And on
     transliteration: waʿalā
   2:
-    arabic: الثَّلٰثَةِ
+    arabic: ٱلثَّلَٰثَةِ
     translation: the three
     transliteration: l-thalāthati
   3:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: (of) those who
     transliteration: alladhīna
   4:
-    arabic: خُلِّفُوۡا ؕ
+    arabic: خُلِّفُواْ
     translation: were left behind
     transliteration: khullifū
   5:
-    arabic: حَتّٰۤى
+    arabic: حَتَّىٰٓ
     translation: until
     transliteration: ḥattā
   6:
-    arabic: اِذَا
+    arabic: إِذَا
     translation: when
     transliteration: idhā
   7:
@@ -42,7 +42,7 @@ word_by_word:
     translation: for them
     transliteration: ʿalayhimu
   9:
-    arabic: الۡاَرۡضُ
+    arabic: ٱلۡأَرۡضُ
     translation: the earth
     transliteration: l-arḍu
   10:
@@ -62,15 +62,15 @@ word_by_word:
     translation: for them
     transliteration: ʿalayhim
   14:
-    arabic: اَنۡفُسُهُمۡ
+    arabic: أَنفُسُهُمۡ
     translation: their own souls
     transliteration: anfusuhum
   15:
-    arabic: وَظَنُّوۡۤا
+    arabic: وَظَنُّوٓاْ
     translation: and they were certain
     transliteration: waẓannū
   16:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that
     transliteration: an
   17:
@@ -78,7 +78,7 @@ word_by_word:
     translation: (there is) no
     transliteration: lā
   18:
-    arabic: مَلۡجَاَ
+    arabic: مَلۡجَأَ
     translation: refuge
     transliteration: malja-a
   19:
@@ -86,15 +86,15 @@ word_by_word:
     translation: from
     transliteration: mina
   20:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   21:
-    arabic: اِلَّاۤ
+    arabic: إِلَّآ
     translation: except
     transliteration: illā
   22:
-    arabic: اِلَيۡهِ ؕ
+    arabic: إِلَيۡهِ
     translation: to Him
     transliteration: ilayhi
   23:
@@ -110,15 +110,15 @@ word_by_word:
     translation: to them
     transliteration: ʿalayhim
   26:
-    arabic: لِيَتُوۡبُوۡا ​ ؕ
+    arabic: لِيَتُوبُوٓاْۚ
     translation: that they may repent
     transliteration: liyatūbū
   27:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   28:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   29:
@@ -126,11 +126,11 @@ word_by_word:
     translation: He
     transliteration: huwa
   30:
-    arabic: التَّوَّابُ
+    arabic: ٱلتَّوَّابُ
     translation: (is) the Acceptor of repentance
     transliteration: l-tawābu
   31:
-    arabic: الرَّحِيۡمُ‏
+    arabic: ٱلرَّحِيمُ
     translation: the Most Merciful
     transliteration: l-raḥīmu
 ---

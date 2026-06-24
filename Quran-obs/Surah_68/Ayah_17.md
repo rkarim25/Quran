@@ -1,16 +1,16 @@
 ---
-arabic_ayat: اِنَّا بَلَوۡنٰهُمۡ كَمَا بَلَوۡنَاۤ اَصۡحٰبَ الۡجَـنَّةِ​ ۚ اِذۡ اَقۡسَمُوۡا
-  لَيَصۡرِمُنَّهَا مُصۡبِحِيۡنَۙ‏
+arabic_ayat: إِنَّا بَلَوۡنَٰهُمۡ كَمَا بَلَوۡنَآ أَصۡحَٰبَ ٱلۡجَنَّةِ إِذۡ أَقۡسَمُواْ
+  لَيَصۡرِمُنَّهَا مُصۡبِحِينَ
 sentence_translation: Indeed, We have tested those ˹Meccans˺ as We tested the owners
   of the garden—when they swore they would surely harvest ˹all˺ its fruit in the early
   morning,
 word_by_word:
   1:
-    arabic: اِنَّا
+    arabic: إِنَّا
     translation: Indeed, We
     transliteration: innā
   2:
-    arabic: بَلَوۡنٰهُمۡ
+    arabic: بَلَوۡنَٰهُمۡ
     translation: have tried them
     transliteration: balawnāhum
   3:
@@ -18,23 +18,23 @@ word_by_word:
     translation: as
     transliteration: kamā
   4:
-    arabic: بَلَوۡنَاۤ
+    arabic: بَلَوۡنَآ
     translation: We tried
     transliteration: balawnā
   5:
-    arabic: اَصۡحٰبَ
+    arabic: أَصۡحَٰبَ
     translation: (the) companions
     transliteration: aṣḥāba
   6:
-    arabic: الۡجَـنَّةِ​ ۚ
+    arabic: ٱلۡجَنَّةِ
     translation: (of) the garden
     transliteration: l-janati
   7:
-    arabic: اِذۡ
+    arabic: إِذۡ
     translation: when
     transliteration: idh
   8:
-    arabic: اَقۡسَمُوۡا
+    arabic: أَقۡسَمُواْ
     translation: they swore
     transliteration: aqsamū
   9:
@@ -42,7 +42,7 @@ word_by_word:
     translation: to pluck its fruit
     transliteration: layaṣrimunnahā
   10:
-    arabic: مُصۡبِحِيۡنَۙ‏
+    arabic: مُصۡبِحِينَ
     translation: (in the) morning
     transliteration: muṣ'biḥīna
 ---

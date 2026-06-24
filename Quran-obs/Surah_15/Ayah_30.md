@@ -1,5 +1,5 @@
 ---
-arabic_ayat: فَسَجَدَ الۡمَلٰۤٮِٕكَةُ كُلُّهُمۡ اَجۡمَعُوۡنَۙ‏
+arabic_ayat: فَسَجَدَ ٱلۡمَلَٰٓئِكَةُ كُلُّهُمۡ أَجۡمَعُونَ
 sentence_translation: So the angels prostrated all together—
 word_by_word:
   1:
@@ -7,7 +7,7 @@ word_by_word:
     translation: So prostrated
     transliteration: fasajada
   2:
-    arabic: الۡمَلٰۤٮِٕكَةُ
+    arabic: ٱلۡمَلَٰٓئِكَةُ
     translation: the Angels
     transliteration: l-malāikatu
   3:
@@ -15,7 +15,7 @@ word_by_word:
     translation: all of them
     transliteration: kulluhum
   4:
-    arabic: اَجۡمَعُوۡنَۙ‏
+    arabic: أَجۡمَعُونَ
     translation: together
     transliteration: ajmaʿūna
 ---

@@ -1,28 +1,28 @@
 ---
-arabic_ayat: اللّٰهُ لَاۤ اِلٰهَ اِلَّا هُوَ​ؕ لَيَجۡمَعَنَّكُمۡ اِلٰى يَوۡمِ الۡقِيٰمَةِ
-  لَا رَيۡبَ فِيۡهِ​ؕ وَمَنۡ اَصۡدَقُ مِنَ اللّٰهِ حَدِيۡثًا‏
+arabic_ayat: ٱللَّهُ لَآ إِلَٰهَ إِلَّا هُوَۚ لَيَجۡمَعَنَّكُمۡ إِلَىٰ يَوۡمِ ٱلۡقِيَٰمَةِ
+  لَا رَيۡبَ فِيهِۗ وَمَنۡ أَصۡدَقُ مِنَ ٱللَّهِ حَدِيثٗا
 sentence_translation: Allah, there is no god ˹worthy of worship˺ except Him. He will
   certainly gather ˹all of˺ you together on the Day of Judgment—about which there
   is no doubt. And whose word is more truthful than Allah’s?
 word_by_word:
   1:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: 'Allah '
     transliteration: al-lahu
   2:
-    arabic: لَاۤ
+    arabic: لَآ
     translation: (there is) no
     transliteration: lā
   3:
-    arabic: اِلٰهَ
+    arabic: إِلَٰهَ
     translation: god
     transliteration: ilāha
   4:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   5:
-    arabic: هُوَ​ؕ
+    arabic: هُوَۚ
     translation: Him
     transliteration: huwa
   6:
@@ -30,7 +30,7 @@ word_by_word:
     translation: surely He will gather you
     transliteration: layajmaʿannakum
   7:
-    arabic: اِلٰى
+    arabic: إِلَىٰ
     translation: to
     transliteration: ilā
   8:
@@ -38,7 +38,7 @@ word_by_word:
     translation: (the) Day
     transliteration: yawmi
   9:
-    arabic: الۡقِيٰمَةِ
+    arabic: ٱلۡقِيَٰمَةِ
     translation: '(of) Resurrection '
     transliteration: l-qiyāmati
   10:
@@ -50,7 +50,7 @@ word_by_word:
     translation: doubt
     transliteration: rayba
   12:
-    arabic: فِيۡهِ​ؕ
+    arabic: فِيهِۗ
     translation: about it
     transliteration: fīhi
   13:
@@ -58,7 +58,7 @@ word_by_word:
     translation: And who
     transliteration: waman
   14:
-    arabic: اَصۡدَقُ
+    arabic: أَصۡدَقُ
     translation: (is) more truthful
     transliteration: aṣdaqu
   15:
@@ -66,11 +66,11 @@ word_by_word:
     translation: than
     transliteration: mina
   16:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   17:
-    arabic: حَدِيۡثًا‏
+    arabic: حَدِيثٗا
     translation: (in) statement
     transliteration: ḥadīthan
 ---

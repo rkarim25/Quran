@@ -1,25 +1,25 @@
 ---
-arabic_ayat: وَاِذَا فَعَلُوۡا فَاحِشَةً قَالُوۡا وَجَدۡنَا عَلَيۡهَاۤ اٰبَآءَنَا
-  وَاللّٰهُ اَمَرَنَا بِهَا​ ؕ قُلۡ اِنَّ اللّٰهَ لَا يَاۡمُرُ بِالۡفَحۡشَآءِ​ ؕ
-  اَتَقُوۡلُوۡنَ عَلَى اللّٰهِ مَا لَا تَعۡلَمُوۡنَ‏
+arabic_ayat: وَإِذَا فَعَلُواْ فَٰحِشَةٗ قَالُواْ وَجَدۡنَا عَلَيۡهَآ ءَابَآءَنَا
+  وَٱللَّهُ أَمَرَنَا بِهَاۗ قُلۡ إِنَّ ٱللَّهَ لَا يَأۡمُرُ بِٱلۡفَحۡشَآءِۖ أَتَقُولُونَ
+  عَلَى ٱللَّهِ مَا لَا تَعۡلَمُونَ
 sentence_translation: Whenever they commit a shameful deed, they say, “We found our
   forefathers doing it and Allah has commanded us to do it.” Say, “No! Allah never
   commands what is shameful. How can you attribute to Allah what you do not know?”
 word_by_word:
   1:
-    arabic: وَاِذَا
+    arabic: وَإِذَا
     translation: And when
     transliteration: wa-idhā
   2:
-    arabic: فَعَلُوۡا
+    arabic: فَعَلُواْ
     translation: they do
     transliteration: faʿalū
   3:
-    arabic: فَاحِشَةً
+    arabic: فَٰحِشَةٗ
     translation: immorality
     transliteration: fāḥishatan
   4:
-    arabic: قَالُوۡا
+    arabic: قَالُواْ
     translation: they say
     transliteration: qālū
   5:
@@ -27,23 +27,23 @@ word_by_word:
     translation: We found
     transliteration: wajadnā
   6:
-    arabic: عَلَيۡهَاۤ
+    arabic: عَلَيۡهَآ ءَ
     translation: on it
     transliteration: ʿalayhā
   7:
-    arabic: اٰبَآءَنَا
+    arabic: ابَآءَنَا
     translation: our forefathers
     transliteration: ābāanā
   8:
-    arabic: وَاللّٰهُ
+    arabic: وَٱللَّهُ
     translation: and Allah
     transliteration: wal-lahu
   9:
-    arabic: اَمَرَنَا
+    arabic: أَمَرَنَا
     translation: (has) ordered us
     transliteration: amaranā
   10:
-    arabic: بِهَا​ ؕ
+    arabic: بِهَاۗ
     translation: of it
     transliteration: bihā
   11:
@@ -51,11 +51,11 @@ word_by_word:
     translation: Say
     transliteration: qul
   12:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   13:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   14:
@@ -63,15 +63,15 @@ word_by_word:
     translation: (does) not
     transliteration: lā
   15:
-    arabic: يَاۡمُرُ
+    arabic: يَأۡمُرُ
     translation: order
     transliteration: yamuru
   16:
-    arabic: بِالۡفَحۡشَآءِ​ ؕ
+    arabic: بِٱلۡفَحۡشَآءِۖ
     translation: immorality
     transliteration: bil-faḥshāi
   17:
-    arabic: اَتَقُوۡلُوۡنَ
+    arabic: أَتَقُولُونَ
     translation: Do you say
     transliteration: ataqūlūna
   18:
@@ -79,7 +79,7 @@ word_by_word:
     translation: about
     transliteration: ʿalā
   19:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   20:
@@ -91,7 +91,7 @@ word_by_word:
     translation: not
     transliteration: lā
   22:
-    arabic: تَعۡلَمُوۡنَ‏
+    arabic: تَعۡلَمُونَ
     translation: you know
     transliteration: taʿlamūna
 ---

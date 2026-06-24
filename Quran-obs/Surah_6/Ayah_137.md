@@ -1,14 +1,14 @@
 ---
-arabic_ayat: وَكَذٰلِكَ زَيَّنَ لِكَثِيۡرٍ مِّنَ الۡمُشۡرِكِيۡنَ قَـتۡلَ اَوۡلَادِهِمۡ
-  شُرَكَآؤُهُمۡ لِيُرۡدُوۡهُمۡ وَلِيَلۡبِسُوۡا عَلَيۡهِمۡ دِيۡنَهُمۡ​ ۚ وَلَوۡ شَآءَ
-  اللّٰهُ مَا فَعَلُوۡهُ ​ؕ فَذَرۡهُمۡ وَمَا يَفۡتَرُوۡنَ‏
+arabic_ayat: وَكَذَٰلِكَ زَيَّنَ لِكَثِيرٖ مِّنَ ٱلۡمُشۡرِكِينَ قَتۡلَ أَوۡلَٰدِهِمۡ
+  شُرَكَآؤُهُمۡ لِيُرۡدُوهُمۡ وَلِيَلۡبِسُواْ عَلَيۡهِمۡ دِينَهُمۡۖ وَلَوۡ شَآءَ
+  ٱللَّهُ مَا فَعَلُوهُۖ فَذَرۡهُمۡ وَمَا يَفۡتَرُونَ
 sentence_translation: Likewise, the pagans’ evil associates have made it appealing
   to them to kill their own children—only leading to their destruction as well as
   confusion in their faith. Had it been Allah’s Will, they would not have done such
   a thing. So leave them and their falsehood.
 word_by_word:
   1:
-    arabic: وَكَذٰلِكَ
+    arabic: وَكَذَٰلِكَ
     translation: And likewise
     transliteration: wakadhālika
   2:
@@ -16,7 +16,7 @@ word_by_word:
     translation: made pleasing
     transliteration: zayyana
   3:
-    arabic: لِكَثِيۡرٍ
+    arabic: لِكَثِيرٖ
     translation: to many
     transliteration: likathīrin
   4:
@@ -24,15 +24,15 @@ word_by_word:
     translation: of
     transliteration: mina
   5:
-    arabic: الۡمُشۡرِكِيۡنَ
+    arabic: ٱلۡمُشۡرِكِينَ
     translation: 'the polytheists '
     transliteration: l-mush'rikīna
   6:
-    arabic: قَـتۡلَ
+    arabic: قَتۡلَ
     translation: (the) killing
     transliteration: qatla
   7:
-    arabic: اَوۡلَادِهِمۡ
+    arabic: أَوۡلَٰدِهِمۡ
     translation: '(of) their children '
     transliteration: awlādihim
   8:
@@ -40,11 +40,11 @@ word_by_word:
     translation: 'their partners '
     transliteration: shurakāuhum
   9:
-    arabic: لِيُرۡدُوۡهُمۡ
+    arabic: لِيُرۡدُوهُمۡ
     translation: so that they may ruin them
     transliteration: liyur'dūhum
   10:
-    arabic: وَلِيَلۡبِسُوۡا
+    arabic: وَلِيَلۡبِسُواْ
     translation: and that they make confusing
     transliteration: waliyalbisū
   11:
@@ -52,7 +52,7 @@ word_by_word:
     translation: to them
     transliteration: ʿalayhim
   12:
-    arabic: دِيۡنَهُمۡ​ ۚ
+    arabic: دِينَهُمۡۖ
     translation: their religion
     transliteration: dīnahum
   13:
@@ -64,7 +64,7 @@ word_by_word:
     translation: (had) willed
     transliteration: shāa
   15:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   16:
@@ -72,7 +72,7 @@ word_by_word:
     translation: not
     transliteration: mā
   17:
-    arabic: فَعَلُوۡهُ ​ؕ
+    arabic: فَعَلُوهُۖ
     translation: (would) they have done so
     transliteration: faʿalūhu
   18:
@@ -84,7 +84,7 @@ word_by_word:
     translation: and what
     transliteration: wamā
   20:
-    arabic: يَفۡتَرُوۡنَ‏
+    arabic: يَفۡتَرُونَ
     translation: they invent
     transliteration: yaftarūna
 ---

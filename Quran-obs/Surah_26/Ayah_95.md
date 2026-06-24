@@ -1,17 +1,17 @@
 ---
-arabic_ayat: وَجُنُوۡدُ اِبۡلِيۡسَ اَجۡمَعُوۡنَؕ‏
+arabic_ayat: وَجُنُودُ إِبۡلِيسَ أَجۡمَعُونَ
 sentence_translation: and the soldiers of Iblîs, all together.
 word_by_word:
   1:
-    arabic: وَجُنُوۡدُ
+    arabic: وَجُنُودُ
     translation: And (the) hosts
     transliteration: wajunūdu
   2:
-    arabic: اِبۡلِيۡسَ
+    arabic: إِبۡلِيسَ
     translation: (of) Iblis
     transliteration: ib'līsa
   3:
-    arabic: اَجۡمَعُوۡنَؕ‏
+    arabic: أَجۡمَعُونَ
     translation: all together
     transliteration: ajmaʿūna
 ---

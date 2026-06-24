@@ -1,22 +1,22 @@
 ---
-arabic_ayat: رَبِّ قَدۡ اٰتَيۡتَنِىۡ مِنَ الۡمُلۡكِ وَ عَلَّمۡتَنِىۡ مِنۡ تَاۡوِيۡلِ
-  الۡاَحَادِيۡثِ​ ۚ فَاطِرَ السَّمٰوٰتِ وَالۡاَرۡضِ اَنۡتَ وَلِىّٖ فِى الدُّنۡيَا
-  وَالۡاٰخِرَةِ​ ۚ تَوَفَّنِىۡ مُسۡلِمًا وَّاَلۡحِقۡنِىۡ بِالصّٰلِحِيۡنَ‏
+arabic_ayat: ۞ رَبِّ قَدۡ ءَاتَيۡتَنِي مِنَ ٱلۡمُلۡكِ وَعَلَّمۡتَنِي مِن تَأۡوِيلِ
+  ٱلۡأَحَادِيثِۚ فَاطِرَ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِ أَنتَ وَلِيِّۦ فِي ٱلدُّنۡيَا وَٱلۡأٓخِرَةِۖ
+  تَوَفَّنِي مُسۡلِمٗا وَأَلۡحِقۡنِي بِٱلصَّٰلِحِينَ
 sentence_translation: “My Lord! You have surely granted me authority and taught me
   the interpretation of dreams. ˹O˺ Originator of the heavens and the earth! You are
   my Guardian in this world and the Hereafter. Allow me to die as one who submits and
   join me with the righteous.”
 word_by_word:
   1:
-    arabic: ۞ رَبِّ
+    arabic: ۞ رَبِّ
     translation: My Lord
     transliteration: rabbi
   2:
-    arabic: قَدۡ
+    arabic: قَدۡ ءَ
     translation: indeed
     transliteration: qad
   3:
-    arabic: اٰتَيۡتَنِىۡ
+    arabic: اتَيۡتَنِي
     translation: you have given me
     transliteration: ātaytanī
   4:
@@ -24,23 +24,23 @@ word_by_word:
     translation: of
     transliteration: mina
   5:
-    arabic: الۡمُلۡكِ
+    arabic: ٱلۡمُلۡكِ
     translation: the sovereignty
     transliteration: l-mul'ki
   6:
-    arabic: وَ عَلَّمۡتَنِىۡ
+    arabic: وَعَلَّمۡتَنِي
     translation: and taught me
     transliteration: waʿallamtanī
   7:
-    arabic: مِنۡ
+    arabic: مِن
     translation: of
     transliteration: min
   8:
-    arabic: تَاۡوِيۡلِ
+    arabic: تَأۡوِيلِ
     translation: the interpretation
     transliteration: tawīli
   9:
-    arabic: الۡاَحَادِيۡثِ​ ۚ
+    arabic: ٱلۡأَحَادِيثِۚ
     translation: of the events
     transliteration: l-aḥādīthi
   10:
@@ -48,47 +48,47 @@ word_by_word:
     translation: Creator
     transliteration: fāṭira
   11:
-    arabic: السَّمٰوٰتِ
+    arabic: ٱلسَّمَٰوَٰتِ
     translation: (of) the heavens
     transliteration: l-samāwāti
   12:
-    arabic: وَالۡاَرۡضِ
+    arabic: وَٱلۡأَرۡضِ
     translation: and the earth
     transliteration: wal-arḍi
   13:
-    arabic: اَنۡتَ
+    arabic: أَنتَ
     translation: You
     transliteration: anta
   14:
-    arabic: وَلِىّٖ
+    arabic: وَلِيِّۦ
     translation: (are) my Protector
     transliteration: waliyyī
   15:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   16:
-    arabic: الدُّنۡيَا
+    arabic: ٱلدُّنۡيَا
     translation: the world
     transliteration: l-dun'yā
   17:
-    arabic: وَالۡاٰخِرَةِ​ ۚ
+    arabic: وَٱلۡأٓخِرَةِۖ
     translation: and the Hereafter
     transliteration: wal-ākhirati
   18:
-    arabic: تَوَفَّنِىۡ
+    arabic: تَوَفَّنِي
     translation: Cause me to die
     transliteration: tawaffanī
   19:
-    arabic: مُسۡلِمًا
+    arabic: مُسۡلِمٗا
     translation: (as) a Muslim
     transliteration: mus'liman
   20:
-    arabic: وَّاَلۡحِقۡنِىۡ
+    arabic: وَأَلۡحِقۡنِي
     translation: and join me
     transliteration: wa-alḥiq'nī
   21:
-    arabic: بِالصّٰلِحِيۡنَ‏
+    arabic: بِٱلصَّٰلِحِينَ
     translation: with the righteous
     transliteration: bil-ṣāliḥīna
 ---

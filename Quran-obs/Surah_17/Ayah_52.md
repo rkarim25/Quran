@@ -1,6 +1,6 @@
 ---
-arabic_ayat: يَوۡمَ يَدۡعُوۡكُمۡ فَتَسۡتَجِيۡبُوۡنَ بِحَمۡدِهٖ وَتَظُنُّوۡنَ اِنۡ
-  لَّبِثۡتُمۡ اِلَّا قَلِيۡلًا‏
+arabic_ayat: يَوۡمَ يَدۡعُوكُمۡ فَتَسۡتَجِيبُونَ بِحَمۡدِهِۦ وَتَظُنُّونَ إِن لَّبِثۡتُمۡ
+  إِلَّا قَلِيلٗا
 sentence_translation: On the Day He will call you, you will ˹instantly˺ respond by
   praising Him, thinking you had remained ˹in the world˺ only for a little while.
 word_by_word:
@@ -9,23 +9,23 @@ word_by_word:
     translation: (On) the Day
     transliteration: yawma
   2:
-    arabic: يَدۡعُوۡكُمۡ
+    arabic: يَدۡعُوكُمۡ
     translation: He will call you
     transliteration: yadʿūkum
   3:
-    arabic: فَتَسۡتَجِيۡبُوۡنَ
+    arabic: فَتَسۡتَجِيبُونَ
     translation: and you will respond
     transliteration: fatastajībūna
   4:
-    arabic: بِحَمۡدِهٖ
+    arabic: بِحَمۡدِهِۦ
     translation: with His Praise
     transliteration: biḥamdihi
   5:
-    arabic: وَتَظُنُّوۡنَ
+    arabic: وَتَظُنُّونَ
     translation: and you will think
     transliteration: wataẓunnūna
   6:
-    arabic: اِنۡ
+    arabic: إِن
     translation: not
     transliteration: in
   7:
@@ -33,11 +33,11 @@ word_by_word:
     translation: you had remained
     transliteration: labith'tum
   8:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   9:
-    arabic: قَلِيۡلًا‏
+    arabic: قَلِيلٗا
     translation: a little (while)
     transliteration: qalīlan
 ---

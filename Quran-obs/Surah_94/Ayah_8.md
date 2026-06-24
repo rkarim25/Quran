@@ -1,9 +1,9 @@
 ---
-arabic_ayat: وَاِلٰى رَبِّكَ فَارۡغَب‏
+arabic_ayat: وَإِلَىٰ رَبِّكَ فَٱرۡغَب
 sentence_translation: turning to your Lord ˹alone˺ with hope.
 word_by_word:
   1:
-    arabic: وَاِلٰى
+    arabic: وَإِلَىٰ
     translation: And to
     transliteration: wa-ilā
   2:
@@ -11,7 +11,7 @@ word_by_word:
     translation: your Lord
     transliteration: rabbika
   3:
-    arabic: فَارۡغَب‏
+    arabic: فَٱرۡغَب
     translation: turn your attention
     transliteration: fa-ir'ghab
 ---

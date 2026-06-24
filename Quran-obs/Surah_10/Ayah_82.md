@@ -1,5 +1,5 @@
 ---
-arabic_ayat: وَيُحِقُّ اللّٰهُ الۡحَـقَّ بِكَلِمٰتِهٖ وَلَوۡ كَرِهَ الۡمُجۡرِمُوۡنَ‏
+arabic_ayat: وَيُحِقُّ ٱللَّهُ ٱلۡحَقَّ بِكَلِمَٰتِهِۦ وَلَوۡ كَرِهَ ٱلۡمُجۡرِمُونَ
 sentence_translation: And Allah establishes the truth by His Words—even to the dismay
   of the wicked.”
 word_by_word:
@@ -8,15 +8,15 @@ word_by_word:
     translation: And Allah will establish
     transliteration: wayuḥiqqu
   2:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: And Allah will establish
     transliteration: l-lahu
   3:
-    arabic: الۡحَـقَّ
+    arabic: ٱلۡحَقَّ
     translation: the truth
     transliteration: l-ḥaqa
   4:
-    arabic: بِكَلِمٰتِهٖ
+    arabic: بِكَلِمَٰتِهِۦ
     translation: by His words
     transliteration: bikalimātihi
   5:
@@ -28,7 +28,7 @@ word_by_word:
     translation: dislike it
     transliteration: kariha
   7:
-    arabic: الۡمُجۡرِمُوۡنَ‏
+    arabic: ٱلۡمُجۡرِمُونَ
     translation: the criminals
     transliteration: l-muj'rimūna
 ---

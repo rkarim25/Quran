@@ -1,21 +1,21 @@
 ---
-arabic_ayat: اَوۡ يَنۡفَعُوۡنَكُمۡ اَوۡ يَضُرُّوۡنَ‏
+arabic_ayat: أَوۡ يَنفَعُونَكُمۡ أَوۡ يَضُرُّونَ
 sentence_translation: Or can they benefit or harm you?”
 word_by_word:
   1:
-    arabic: اَوۡ
+    arabic: أَوۡ
     translation: Or
     transliteration: aw
   2:
-    arabic: يَنۡفَعُوۡنَكُمۡ
+    arabic: يَنفَعُونَكُمۡ
     translation: (do) they benefit you
     transliteration: yanfaʿūnakum
   3:
-    arabic: اَوۡ
+    arabic: أَوۡ
     translation: or
     transliteration: aw
   4:
-    arabic: يَضُرُّوۡنَ‏
+    arabic: يَضُرُّونَ
     translation: they harm (you)
     transliteration: yaḍurrūna
 ---

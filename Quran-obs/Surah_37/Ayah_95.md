@@ -1,5 +1,5 @@
 ---
-arabic_ayat: قَالَ اَتَعۡبُدُوۡنَ مَا تَنۡحِتُوۡنَۙ‏
+arabic_ayat: قَالَ أَتَعۡبُدُونَ مَا تَنۡحِتُونَ
 sentence_translation: He argued, “How can you worship what you carve ˹with your own
   hands˺,
 word_by_word:
@@ -8,7 +8,7 @@ word_by_word:
     translation: He said
     transliteration: qāla
   2:
-    arabic: اَتَعۡبُدُوۡنَ
+    arabic: أَتَعۡبُدُونَ
     translation: Do you worship
     transliteration: ataʿbudūna
   3:
@@ -16,7 +16,7 @@ word_by_word:
     translation: what
     transliteration: mā
   4:
-    arabic: تَنۡحِتُوۡنَۙ‏
+    arabic: تَنۡحِتُونَ
     translation: you carve
     transliteration: tanḥitūna
 ---

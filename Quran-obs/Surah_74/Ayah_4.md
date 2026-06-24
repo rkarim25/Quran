@@ -1,5 +1,5 @@
 ---
-arabic_ayat: وَثِيَابَكَ فَطَهِّرۡۙ‏
+arabic_ayat: وَثِيَابَكَ فَطَهِّرۡ
 sentence_translation: Purify your garments.
 word_by_word:
   1:
@@ -7,7 +7,7 @@ word_by_word:
     translation: And your clothing
     transliteration: wathiyābaka
   2:
-    arabic: فَطَهِّرۡۙ‏
+    arabic: فَطَهِّرۡ
     translation: purify
     transliteration: faṭahhir
 ---

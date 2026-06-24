@@ -1,35 +1,34 @@
 ---
-arabic_ayat: قَالُوْۤا اَرْجِهْ وَاخَاہُ وَاَرْسِلْ فِی الْمَدَآٮِٕنِ حٰشِرِیْنَ
-  ۙ‏
+arabic_ayat: قَالُوٓاْ أَرۡجِهۡ وَأَخَاهُ وَأَرۡسِلۡ فِي ٱلۡمَدَآئِنِ حَٰشِرِينَ
 sentence_translation: They replied, “Let him and his brother wait and send mobilizers
   to all cities
 word_by_word:
   1:
-    arabic: قَالُوْۤا
+    arabic: قَالُوٓاْ
     translation: They said
     transliteration: qālū
   2:
-    arabic: اَرْجِهْ
+    arabic: أَرۡجِهۡ
     translation: Postpone him
     transliteration: arjih
   3:
-    arabic: وَاخَاہُ
+    arabic: وَأَخَاهُ
     translation: and his brother
     transliteration: wa-akhāhu
   4:
-    arabic: وَاَرْسِلْ
+    arabic: وَأَرۡسِلۡ
     translation: and send
     transliteration: wa-arsil
   5:
-    arabic: فِی
+    arabic: فِي
     translation: in
     transliteration: fī
   6:
-    arabic: الْمَدَآٮِٕنِ
+    arabic: ٱلۡمَدَآئِنِ
     translation: the cities
     transliteration: l-madāini
   7:
-    arabic: حٰشِرِیْنَ ۙ‏
+    arabic: حَٰشِرِينَ
     translation: gatherers
     transliteration: ḥāshirīna
 ---

@@ -1,17 +1,17 @@
 ---
-arabic_ayat: فِيۡهِنَّ خَيۡرٰتٌ حِسَانٌ​ۚ‏
+arabic_ayat: فِيهِنَّ خَيۡرَٰتٌ حِسَانٞ
 sentence_translation: In all Gardens will be noble, pleasant mates.
 word_by_word:
   1:
-    arabic: فِيۡهِنَّ
+    arabic: فِيهِنَّ
     translation: In them
     transliteration: fīhinna
   2:
-    arabic: خَيۡرٰتٌ
+    arabic: خَيۡرَٰتٌ
     translation: (are) good
     transliteration: khayrātun
   3:
-    arabic: حِسَانٌ​ۚ‏
+    arabic: حِسَانٞ
     translation: and beautiful ones
     transliteration: ḥisānun
 ---

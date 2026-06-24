@@ -1,13 +1,13 @@
 ---
-arabic_ayat: وَطُوۡرِ سِيۡنِيۡنَۙ‏
+arabic_ayat: وَطُورِ سِينِينَ
 sentence_translation: and Mount Sinai,
 word_by_word:
   1:
-    arabic: وَطُوۡرِ
+    arabic: وَطُورِ
     translation: And (the) Mount
     transliteration: waṭūri
   2:
-    arabic: سِيۡنِيۡنَۙ‏
+    arabic: سِينِينَ
     translation: Sinai
     transliteration: sīnīna
 ---

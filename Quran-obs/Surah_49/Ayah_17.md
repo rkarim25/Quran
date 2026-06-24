@@ -1,13 +1,12 @@
 ---
-arabic_ayat: "يَمُنُّوۡنَ عَلَيۡكَ اَنۡ اَسۡلَمُوۡا​ ؕ قُلْ لَّا تَمُنُّوۡا عَلَىَّ\
-  \ اِسۡلَامَكُمۡ​ ۚ بَلِ اللّٰهُ يَمُنُّ عَلَيۡكُمۡ اَنۡ هَدٰٮكُمۡ لِلۡاِيۡمَانِ\
-  \ اِنۡ كُنۡـتُمۡ صٰدِقِيۡنَ‏ \uFEFF\uFEFF"
+arabic_ayat: يَمُنُّونَ عَلَيۡكَ أَنۡ أَسۡلَمُواْۖ قُل لَّا تَمُنُّواْ عَلَيَّ إِسۡلَٰمَكُمۖ
+  بَلِ ٱللَّهُ يَمُنُّ عَلَيۡكُمۡ أَنۡ هَدَىٰكُمۡ لِلۡإِيمَٰنِ إِن كُنتُمۡ صَٰدِقِينَ
 sentence_translation: They regard their acceptance of Islam as a favour to you. Tell
   ˹them, O  Prophet˺, “Do not regard your Islam as a favour to me. Rather, it is Allah
   Who has done you a favour by guiding you to the faith, if ˹indeed˺ you are faithful.
 word_by_word:
   1:
-    arabic: يَمُنُّوۡنَ
+    arabic: يَمُنُّونَ
     translation: They consider (it) a favor
     transliteration: yamunnūna
   2:
@@ -15,15 +14,15 @@ word_by_word:
     translation: to you
     transliteration: ʿalayka
   3:
-    arabic: اَنۡ
+    arabic: أَنۡ
     translation: that
     transliteration: an
   4:
-    arabic: اَسۡلَمُوۡا​ ؕ
+    arabic: أَسۡلَمُواْۖ
     translation: they have accepted Islam
     transliteration: aslamū
   5:
-    arabic: قُلْ
+    arabic: قُل
     translation: Say
     transliteration: qul
   6:
@@ -31,15 +30,15 @@ word_by_word:
     translation: (Do) not
     transliteration: lā
   7:
-    arabic: تَمُنُّوۡا
+    arabic: تَمُنُّواْ
     translation: consider a favor
     transliteration: tamunnū
   8:
-    arabic: عَلَىَّ
+    arabic: عَلَيَّ
     translation: 'on me '
     transliteration: ʿalayya
   9:
-    arabic: اِسۡلَامَكُمۡ​ ۚ
+    arabic: إِسۡلَٰمَكُمۖ
     translation: your Islam
     transliteration: is'lāmakum
   10:
@@ -47,7 +46,7 @@ word_by_word:
     translation: Nay
     transliteration: bali
   11:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   12:
@@ -59,27 +58,27 @@ word_by_word:
     translation: upon you
     transliteration: ʿalaykum
   14:
-    arabic: اَنۡ
+    arabic: أَنۡ
     translation: that
     transliteration: an
   15:
-    arabic: هَدٰٮكُمۡ
+    arabic: هَدَىٰكُمۡ
     translation: He has guided you
     transliteration: hadākum
   16:
-    arabic: لِلۡاِيۡمَانِ
+    arabic: لِلۡإِيمَٰنِ
     translation: to the faith
     transliteration: lil'īmāni
   17:
-    arabic: اِنۡ
+    arabic: إِن
     translation: if
     transliteration: in
   18:
-    arabic: كُنۡـتُمۡ
+    arabic: كُنتُمۡ
     translation: you are
     transliteration: kuntum
   19:
-    arabic: "صٰدِقِيۡنَ‏ \uFEFF\uFEFF"
+    arabic: صَٰدِقِينَ
     translation: truthful
     transliteration: ṣādiqīna
 ---

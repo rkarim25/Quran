@@ -1,15 +1,15 @@
 ---
-arabic_ayat: قٰلَ رَبِّىۡ يَعۡلَمُ الۡقَوۡلَ فِى السَّمَآءِ وَالۡاَرۡضِ​ وَهُوَ
-  السَّمِيۡعُ الۡعَلِيۡمُ‏
+arabic_ayat: قَالَ رَبِّي يَعۡلَمُ ٱلۡقَوۡلَ فِي ٱلسَّمَآءِ وَٱلۡأَرۡضِۖ وَهُوَ ٱلسَّمِيعُ
+  ٱلۡعَلِيمُ
 sentence_translation: The Prophet responded, “My Lord ˹fully˺ knows every word spoken
   in the heavens and the earth. For He is the All-Hearing, All-Knowing.”
 word_by_word:
   1:
-    arabic: قٰلَ
+    arabic: قَالَ
     translation: He said
     transliteration: qāla
   2:
-    arabic: رَبِّىۡ
+    arabic: رَبِّي
     translation: My Lord
     transliteration: rabbī
   3:
@@ -17,19 +17,19 @@ word_by_word:
     translation: knows
     transliteration: yaʿlamu
   4:
-    arabic: الۡقَوۡلَ
+    arabic: ٱلۡقَوۡلَ
     translation: the word
     transliteration: l-qawla
   5:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   6:
-    arabic: السَّمَآءِ
+    arabic: ٱلسَّمَآءِ
     translation: the heavens
     transliteration: l-samāi
   7:
-    arabic: وَالۡاَرۡضِ​
+    arabic: وَٱلۡأَرۡضِۖ
     translation: and the earth
     transliteration: wal-arḍi
   8:
@@ -37,11 +37,11 @@ word_by_word:
     translation: And He
     transliteration: wahuwa
   9:
-    arabic: السَّمِيۡعُ
+    arabic: ٱلسَّمِيعُ
     translation: (is) the All-Hearer
     transliteration: l-samīʿu
   10:
-    arabic: الۡعَلِيۡمُ‏
+    arabic: ٱلۡعَلِيمُ
     translation: the All-Knower
     transliteration: l-ʿalīmu
 ---

@@ -1,7 +1,6 @@
 ---
-arabic_ayat: "قُلۡ اَمَرَ رَبِّىۡ بِالۡقِسۡطِ​ وَاَقِيۡمُوۡا وُجُوۡهَكُمۡ عِنۡدَ\
-  \ كُلِّ مَسۡجِدٍ وَّادۡعُوۡهُ مُخۡلِصِيۡنَ لَـهُ الدِّيۡنَ ​   ؕ كَمَا بَدَاَكُمۡ\
-  \ تَعُوۡدُوۡنَؕ‏ \uFEFF\uFEFF"
+arabic_ayat: قُلۡ أَمَرَ رَبِّي بِٱلۡقِسۡطِۖ وَأَقِيمُواْ وُجُوهَكُمۡ عِندَ كُلِّ
+  مَسۡجِدٖ وَٱدۡعُوهُ مُخۡلِصِينَ لَهُ ٱلدِّينَۚ كَمَا بَدَأَكُمۡ تَعُودُونَ
 sentence_translation: Say, ˹O Prophet,˺ “My Lord has commanded uprightness and dedication
   ˹to Him alone˺ in worship, calling upon Him with sincere devotion. Just as He first
   brought you into being, you will be brought to life again.”
@@ -11,27 +10,27 @@ word_by_word:
     translation: Say
     transliteration: qul
   2:
-    arabic: اَمَرَ
+    arabic: أَمَرَ
     translation: (Has been) ordered
     transliteration: amara
   3:
-    arabic: رَبِّىۡ
+    arabic: رَبِّي
     translation: (by) my Lord
     transliteration: rabbī
   4:
-    arabic: بِالۡقِسۡطِ​
+    arabic: بِٱلۡقِسۡطِۖ
     translation: justice
     transliteration: bil-qis'ṭi
   5:
-    arabic: وَاَقِيۡمُوۡا
+    arabic: وَأَقِيمُواْ
     translation: and set
     transliteration: wa-aqīmū
   6:
-    arabic: وُجُوۡهَكُمۡ
+    arabic: وُجُوهَكُمۡ
     translation: your faces
     transliteration: wujūhakum
   7:
-    arabic: عِنۡدَ
+    arabic: عِندَ
     translation: at
     transliteration: ʿinda
   8:
@@ -39,23 +38,23 @@ word_by_word:
     translation: every
     transliteration: kulli
   9:
-    arabic: مَسۡجِدٍ
+    arabic: مَسۡجِدٖ
     translation: masjid
     transliteration: masjidin
   10:
-    arabic: وَّادۡعُوۡهُ
+    arabic: وَٱدۡعُوهُ
     translation: and invoke Him
     transliteration: wa-id'ʿūhu
   11:
-    arabic: مُخۡلِصِيۡنَ
+    arabic: مُخۡلِصِينَ
     translation: (being) sincere
     transliteration: mukh'liṣīna
   12:
-    arabic: لَـهُ
+    arabic: لَهُ
     translation: to Him
     transliteration: lahu
   13:
-    arabic: الدِّيۡنَ ​   ؕ
+    arabic: ٱلدِّينَۚ
     translation: (in) the religion
     transliteration: l-dīna
   14:
@@ -63,11 +62,11 @@ word_by_word:
     translation: As
     transliteration: kamā
   15:
-    arabic: بَدَاَكُمۡ
+    arabic: بَدَأَكُمۡ
     translation: He originated you
     transliteration: bada-akum
   16:
-    arabic: "تَعُوۡدُوۡنَؕ‏ \uFEFF\uFEFF"
+    arabic: تَعُودُونَ
     translation: (so) will you return
     transliteration: taʿūdūna
 ---

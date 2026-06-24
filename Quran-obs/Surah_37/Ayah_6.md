@@ -1,10 +1,10 @@
 ---
-arabic_ayat: اِنَّا زَيَّنَّا السَّمَآءَ الدُّنۡيَا بِزِيۡنَةِ اۨلۡكَوَاكِبِۙ‏
+arabic_ayat: إِنَّا زَيَّنَّا ٱلسَّمَآءَ ٱلدُّنۡيَا بِزِينَةٍ ٱلۡكَوَاكِبِ
 sentence_translation: Indeed, We have adorned the lowest heaven with the stars for
   decoration
 word_by_word:
   1:
-    arabic: اِنَّا
+    arabic: إِنَّا
     translation: Indeed, We
     transliteration: innā
   2:
@@ -12,19 +12,19 @@ word_by_word:
     translation: '[We] adorned'
     transliteration: zayyannā
   3:
-    arabic: السَّمَآءَ
+    arabic: ٱلسَّمَآءَ
     translation: the sky
     transliteration: l-samāa
   4:
-    arabic: الدُّنۡيَا
+    arabic: ٱلدُّنۡيَا
     translation: '[the world]'
     transliteration: l-dun'yā
   5:
-    arabic: بِزِيۡنَةِ
+    arabic: بِزِينَةٍ
     translation: with an adornment
     transliteration: bizīnatin
   6:
-    arabic: اۨلۡكَوَاكِبِۙ‏
+    arabic: ٱلۡكَوَاكِبِ
     translation: (of) the stars
     transliteration: l-kawākibi
 ---

@@ -1,25 +1,25 @@
 ---
-arabic_ayat: فَاۡتُوۡا بِاٰبَآٮِٕنَاۤ اِنۡ كُنۡتُمۡ صٰدِقِيۡنَ‏
+arabic_ayat: فَأۡتُواْ بِـَٔابَآئِنَآ إِن كُنتُمۡ صَٰدِقِينَ
 sentence_translation: Bring ˹back˺ our forefathers, if what you say is true.”
 word_by_word:
   1:
-    arabic: فَاۡتُوۡا
+    arabic: فَأۡتُواْ
     translation: Then bring
     transliteration: fatū
   2:
-    arabic: بِاٰبَآٮِٕنَاۤ
+    arabic: بِـَٔابَآئِنَآ
     translation: our forefathers
     transliteration: biābāinā
   3:
-    arabic: اِنۡ
+    arabic: إِن
     translation: if
     transliteration: in
   4:
-    arabic: كُنۡتُمۡ
+    arabic: كُنتُمۡ
     translation: you are
     transliteration: kuntum
   5:
-    arabic: صٰدِقِيۡنَ‏
+    arabic: صَٰدِقِينَ
     translation: truthful
     transliteration: ṣādiqīna
 ---

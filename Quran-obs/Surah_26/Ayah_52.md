@@ -1,39 +1,38 @@
 ---
-arabic_ayat: "وَاَوۡحَيۡنَاۤ اِلٰى مُوۡسٰٓى اَنۡ اَسۡرِ بِعِبَادِىۡۤ اِنَّكُمۡ مُّتَّبَعُوۡنَ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: ۞ وَأَوۡحَيۡنَآ إِلَىٰ مُوسَىٰٓ أَنۡ أَسۡرِ بِعِبَادِيٓ إِنَّكُم مُّتَّبَعُونَ
 sentence_translation: And We inspired Moses, ˹saying,˺ “Leave with My servants at
   night, for you will surely be pursued.”
 word_by_word:
   1:
-    arabic: ۞ وَاَوۡحَيۡنَاۤ
+    arabic: ۞ وَأَوۡحَيۡنَآ
     translation: And We inspired
     transliteration: wa-awḥaynā
   2:
-    arabic: اِلٰى
+    arabic: إِلَىٰ
     translation: to
     transliteration: ilā
   3:
-    arabic: مُوۡسٰٓى
+    arabic: مُوسَىٰٓ
     translation: Musa
     transliteration: mūsā
   4:
-    arabic: اَنۡ
+    arabic: أَنۡ
     translation: '[that]'
     transliteration: an
   5:
-    arabic: اَسۡرِ
+    arabic: أَسۡرِ
     translation: Travel by night
     transliteration: asri
   6:
-    arabic: بِعِبَادِىۡۤ
+    arabic: بِعِبَادِيٓ
     translation: with My slaves
     transliteration: biʿibādī
   7:
-    arabic: اِنَّكُمۡ
+    arabic: إِنَّكُم
     translation: indeed, you
     transliteration: innakum
   8:
-    arabic: "مُّتَّبَعُوۡنَ‏ \uFEFF\uFEFF"
+    arabic: مُّتَّبَعُونَ
     translation: (will be) followed
     transliteration: muttabaʿūna
 ---

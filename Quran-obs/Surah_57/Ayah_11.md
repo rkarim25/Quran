@@ -1,11 +1,11 @@
 ---
-arabic_ayat: مَنۡ ذَا الَّذِىۡ يُقۡرِضُ اللّٰهَ قَرۡضًا حَسَنًا فَيُضٰعِفَهٗ لَهٗ
-  وَلَهٗۤ اَجۡرٌ كَرِيۡمٌ ۚ‏
+arabic_ayat: مَّن ذَا ٱلَّذِي يُقۡرِضُ ٱللَّهَ قَرۡضًا حَسَنٗا فَيُضَٰعِفَهُۥ لَهُۥ
+  وَلَهُۥٓ أَجۡرٞ كَرِيمٞ
 sentence_translation: Who is it that will lend to Allah a good loan which Allah will
   multiply ˹many times over˺ for them, and they will have an honourable reward?
 word_by_word:
   1:
-    arabic: مَنۡ
+    arabic: مَّن
     translation: Who (is)
     transliteration: man
   2:
@@ -13,7 +13,7 @@ word_by_word:
     translation: the one who
     transliteration: dhā
   3:
-    arabic: الَّذِىۡ
+    arabic: ٱلَّذِي
     translation: the one who
     transliteration: alladhī
   4:
@@ -21,7 +21,7 @@ word_by_word:
     translation: will loan
     transliteration: yuq'riḍu
   5:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: (to) Allah
     transliteration: l-laha
   6:
@@ -29,27 +29,27 @@ word_by_word:
     translation: a loan
     transliteration: qarḍan
   7:
-    arabic: حَسَنًا
+    arabic: حَسَنٗا
     translation: goodly
     transliteration: ḥasanan
   8:
-    arabic: فَيُضٰعِفَهٗ
+    arabic: فَيُضَٰعِفَهُۥ
     translation: so He will multiply it
     transliteration: fayuḍāʿifahu
   9:
-    arabic: لَهٗ
+    arabic: لَهُۥ
     translation: for him
     transliteration: lahu
   10:
-    arabic: وَلَهٗۤ
+    arabic: وَلَهُۥٓ
     translation: and for him
     transliteration: walahu
   11:
-    arabic: اَجۡرٌ
+    arabic: أَجۡرٞ
     translation: (is) a reward
     transliteration: ajrun
   12:
-    arabic: كَرِيۡمٌ ۚ‏
+    arabic: كَرِيمٞ
     translation: noble
     transliteration: karīmun
 ---

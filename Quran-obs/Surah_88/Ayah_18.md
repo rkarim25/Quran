@@ -1,13 +1,13 @@
 ---
-arabic_ayat: وَاِلَى السَّمَآءِ كَيۡفَ رُفِعَتۡ‏
+arabic_ayat: وَإِلَى ٱلسَّمَآءِ كَيۡفَ رُفِعَتۡ
 sentence_translation: and the sky—how it was raised ˹high˺;
 word_by_word:
   1:
-    arabic: وَاِلَى
+    arabic: وَإِلَى
     translation: And towards
     transliteration: wa-ilā
   2:
-    arabic: السَّمَآءِ
+    arabic: ٱلسَّمَآءِ
     translation: the sky
     transliteration: l-samāi
   3:
@@ -15,7 +15,7 @@ word_by_word:
     translation: how
     transliteration: kayfa
   4:
-    arabic: رُفِعَتۡ‏
+    arabic: رُفِعَتۡ
     translation: it is raised
     transliteration: rufiʿat
 ---

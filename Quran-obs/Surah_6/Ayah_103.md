@@ -1,11 +1,11 @@
 ---
-arabic_ayat: لَا تُدۡرِكُهُ الۡاَبۡصَارُ وَهُوَ يُدۡرِكُ الۡاَبۡصَارَ​ۚ وَهُوَ اللَّطِيۡفُ
-  الۡخَبِيۡرُ‏
+arabic_ayat: لَّا تُدۡرِكُهُ ٱلۡأَبۡصَٰرُ وَهُوَ يُدۡرِكُ ٱلۡأَبۡصَٰرَۖ وَهُوَ ٱللَّطِيفُ
+  ٱلۡخَبِيرُ
 sentence_translation: No vision can encompass Him, but He encompasses all vision.
   For He is the Most Subtle, All-Aware. 
 word_by_word:
   1:
-    arabic: لَا
+    arabic: لَّا
     translation: Not (can)
     transliteration: lā
   2:
@@ -13,7 +13,7 @@ word_by_word:
     translation: grasp Him
     transliteration: tud'rikuhu
   3:
-    arabic: الۡاَبۡصَارُ
+    arabic: ٱلۡأَبۡصَٰرُ
     translation: the visions
     transliteration: l-abṣāru
   4:
@@ -25,7 +25,7 @@ word_by_word:
     translation: (can) grasp
     transliteration: yud'riku
   6:
-    arabic: الۡاَبۡصَارَ​ۚ
+    arabic: ٱلۡأَبۡصَٰرَۖ
     translation: (all) the vision
     transliteration: l-abṣāra
   7:
@@ -33,11 +33,11 @@ word_by_word:
     translation: and He (is)
     transliteration: wahuwa
   8:
-    arabic: اللَّطِيۡفُ
+    arabic: ٱللَّطِيفُ
     translation: the All-Subtle
     transliteration: l-laṭīfu
   9:
-    arabic: الۡخَبِيۡرُ‏
+    arabic: ٱلۡخَبِيرُ
     translation: the All-Aware
     transliteration: l-khabīru
 ---

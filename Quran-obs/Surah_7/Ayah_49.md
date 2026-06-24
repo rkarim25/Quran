@@ -1,20 +1,20 @@
 ---
-arabic_ayat: اَهٰٓؤُلَۤاءِ الَّذِيۡنَ اَقۡسَمۡتُمۡ لَا يَنَالُهُمُ اللّٰهُ بِرَحۡمَةٍ
-  ​ؕ اُدۡخُلُوا الۡجَـنَّةَ لَا خَوۡفٌ عَلَيۡكُمۡ وَلَاۤ اَنۡتُمۡ تَحۡزَنُوۡنَ‏
+arabic_ayat: أَهَٰٓؤُلَآءِ ٱلَّذِينَ أَقۡسَمۡتُمۡ لَا يَنَالُهُمُ ٱللَّهُ بِرَحۡمَةٍۚ
+  ٱدۡخُلُواْ ٱلۡجَنَّةَ لَا خَوۡفٌ عَلَيۡكُمۡ وَلَآ أَنتُمۡ تَحۡزَنُونَ
 sentence_translation: Are these ˹humble believers˺ the ones you swore would never
   be shown Allah’s mercy?” ˹Finally, those on the heights will be told:˺ “Enter Paradise!
   There will be no fear for you, nor will you grieve.”
 word_by_word:
   1:
-    arabic: اَهٰٓؤُلَۤاءِ
+    arabic: أَهَٰٓؤُلَآءِ
     translation: Are these
     transliteration: ahāulāi
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: the ones whom
     transliteration: alladhīna
   3:
-    arabic: اَقۡسَمۡتُمۡ
+    arabic: أَقۡسَمۡتُمۡ
     translation: you had sworn
     transliteration: aqsamtum
   4:
@@ -26,19 +26,19 @@ word_by_word:
     translation: (will) grant them
     transliteration: yanāluhumu
   6:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   7:
-    arabic: بِرَحۡمَةٍ ​ؕ
+    arabic: بِرَحۡمَةٍۚ
     translation: Mercy
     transliteration: biraḥmatin
   8:
-    arabic: اُدۡخُلُوا
+    arabic: ٱدۡخُلُواْ
     translation: Enter
     transliteration: ud'khulū
   9:
-    arabic: الۡجَـنَّةَ
+    arabic: ٱلۡجَنَّةَ
     translation: Paradise
     transliteration: l-janata
   10:
@@ -54,15 +54,15 @@ word_by_word:
     translation: upon you
     transliteration: ʿalaykum
   13:
-    arabic: وَلَاۤ
+    arabic: وَلَآ
     translation: and not
     transliteration: walā
   14:
-    arabic: اَنۡتُمۡ
+    arabic: أَنتُمۡ
     translation: you
     transliteration: antum
   15:
-    arabic: تَحۡزَنُوۡنَ‏
+    arabic: تَحۡزَنُونَ
     translation: will grieve
     transliteration: taḥzanūna
 ---

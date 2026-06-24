@@ -1,15 +1,15 @@
 ---
-arabic_ayat: اِنَّمَا سُلۡطٰنُهٗ عَلَى الَّذِيۡنَ يَتَوَلَّوۡنَهٗ وَالَّذِيۡنَ هُمۡ
-  بِهٖ مُشۡرِكُوۡنَ‏
+arabic_ayat: إِنَّمَا سُلۡطَٰنُهُۥ عَلَى ٱلَّذِينَ يَتَوَلَّوۡنَهُۥ وَٱلَّذِينَ هُم
+  بِهِۦ مُشۡرِكُونَ
 sentence_translation: His authority is only over those who take him as a patron and
   who—under his influence—associate ˹others˺ with Allah ˹in worship˺.
 word_by_word:
   1:
-    arabic: اِنَّمَا
+    arabic: إِنَّمَا
     translation: Only
     transliteration: innamā
   2:
-    arabic: سُلۡطٰنُهٗ
+    arabic: سُلۡطَٰنُهُۥ
     translation: his authority
     transliteration: sul'ṭānuhu
   3:
@@ -17,27 +17,27 @@ word_by_word:
     translation: (is) over
     transliteration: ʿalā
   4:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   5:
-    arabic: يَتَوَلَّوۡنَهٗ
+    arabic: يَتَوَلَّوۡنَهُۥ
     translation: take him as an ally
     transliteration: yatawallawnahu
   6:
-    arabic: وَالَّذِيۡنَ
+    arabic: وَٱلَّذِينَ
     translation: and those who
     transliteration: wa-alladhīna
   7:
-    arabic: هُمۡ
+    arabic: هُم
     translation: '[they]'
     transliteration: hum
   8:
-    arabic: بِهٖ
+    arabic: بِهِۦ
     translation: with Him
     transliteration: bihi
   9:
-    arabic: مُشۡرِكُوۡنَ‏
+    arabic: مُشۡرِكُونَ
     translation: associate partners
     transliteration: mush'rikūna
 ---

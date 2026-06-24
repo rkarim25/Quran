@@ -1,25 +1,25 @@
 ---
-arabic_ayat: يَقُوۡلُ الۡاِنۡسَانُ يَوۡمَٮِٕذٍ اَيۡنَ الۡمَفَرُّ​ ۚ‏
+arabic_ayat: يَقُولُ ٱلۡإِنسَٰنُ يَوۡمَئِذٍ أَيۡنَ ٱلۡمَفَرُّ
 sentence_translation: on that Day one will cry, “Where is the escape?”
 word_by_word:
   1:
-    arabic: يَقُوۡلُ
+    arabic: يَقُولُ
     translation: Will say
     transliteration: yaqūlu
   2:
-    arabic: الۡاِنۡسَانُ
+    arabic: ٱلۡإِنسَٰنُ
     translation: '[the] man'
     transliteration: l-insānu
   3:
-    arabic: يَوۡمَٮِٕذٍ
+    arabic: يَوۡمَئِذٍ
     translation: that Day
     transliteration: yawma-idhin
   4:
-    arabic: اَيۡنَ
+    arabic: أَيۡنَ
     translation: Where
     transliteration: ayna
   5:
-    arabic: الۡمَفَرُّ​ ۚ‏
+    arabic: ٱلۡمَفَرُّ
     translation: (is) the escape
     transliteration: l-mafaru
 ---

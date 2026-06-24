@@ -1,9 +1,8 @@
 ---
-arabic_ayat: اۨلَّذِيۡنَ اُخۡرِجُوۡا مِنۡ دِيَارِهِمۡ بِغَيۡرِ حَقٍّ اِلَّاۤ اَنۡ
-  يَّقُوۡلُوۡا رَبُّنَا اللّٰهُ​ ؕ وَلَوۡلَا دَ فۡعُ اللّٰهِ النَّاسَ بَعۡضَهُمۡ بِبَـعۡضٍ
-  لَّهُدِّمَتۡ صَوَامِعُ وَبِيَعٌ وَّصَلٰوتٌ وَّمَسٰجِدُ يُذۡكَرُ فِيۡهَا اسۡمُ اللّٰهِ
-  كَثِيۡرًا​ ؕ وَلَيَنۡصُرَنَّ اللّٰهُ مَنۡ يَّنۡصُرُهٗ ؕ اِنَّ اللّٰهَ لَقَوِىٌّ
-  عَزِيۡزٌ‏
+arabic_ayat: ٱلَّذِينَ أُخۡرِجُواْ مِن دِيَٰرِهِم بِغَيۡرِ حَقٍّ إِلَّآ أَن يَقُولُواْ
+  رَبُّنَا ٱللَّهُۗ وَلَوۡلَا دَفۡعُ ٱللَّهِ ٱلنَّاسَ بَعۡضَهُم بِبَعۡضٖ لَّهُدِّمَتۡ
+  صَوَٰمِعُ وَبِيَعٞ وَصَلَوَٰتٞ وَمَسَٰجِدُ يُذۡكَرُ فِيهَا ٱسۡمُ ٱللَّهِ كَثِيرٗاۗ
+  وَلَيَنصُرَنَّ ٱللَّهُ مَن يَنصُرُهُۥٓۚ إِنَّ ٱللَّهَ لَقَوِيٌّ عَزِيزٌ
 sentence_translation: '˹They are˺ those who have been expelled from their homes for
   no reason other than proclaiming: “Our Lord is Allah.” Had Allah not repelled ˹the
   aggression of˺ some people by means of others, destruction would have surely claimed
@@ -12,19 +11,19 @@ sentence_translation: '˹They are˺ those who have been expelled from their home
   Almighty.'
 word_by_word:
   1:
-    arabic: اۨلَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: Those who
     transliteration: alladhīna
   2:
-    arabic: اُخۡرِجُوۡا
+    arabic: أُخۡرِجُواْ
     translation: have been evicted
     transliteration: ukh'rijū
   3:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   4:
-    arabic: دِيَارِهِمۡ
+    arabic: دِيَٰرِهِم
     translation: their homes
     transliteration: diyārihim
   5:
@@ -36,15 +35,15 @@ word_by_word:
     translation: right
     transliteration: ḥaqqin
   7:
-    arabic: اِلَّاۤ
+    arabic: إِلَّآ
     translation: except
     transliteration: illā
   8:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that
     transliteration: an
   9:
-    arabic: يَّقُوۡلُوۡا
+    arabic: يَقُولُواْ
     translation: they said
     transliteration: yaqūlū
   10:
@@ -52,7 +51,7 @@ word_by_word:
     translation: Our Lord
     transliteration: rabbunā
   11:
-    arabic: اللّٰهُ​ ؕ
+    arabic: ٱللَّهُۗ
     translation: (is) Allah
     transliteration: l-lahu
   12:
@@ -60,23 +59,23 @@ word_by_word:
     translation: And if not
     transliteration: walawlā
   13:
-    arabic: دَ فۡعُ
+    arabic: دَفۡعُ
     translation: Allah checks
     transliteration: dafʿu
   14:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah checks
     transliteration: l-lahi
   15:
-    arabic: النَّاسَ
+    arabic: ٱلنَّاسَ
     translation: the people
     transliteration: l-nāsa
   16:
-    arabic: بَعۡضَهُمۡ
+    arabic: بَعۡضَهُم
     translation: some of them
     transliteration: baʿḍahum
   17:
-    arabic: بِبَـعۡضٍ
+    arabic: بِبَعۡضٖ
     translation: by others
     transliteration: bibaʿḍin
   18:
@@ -84,19 +83,19 @@ word_by_word:
     translation: surely (would) have been demolished
     transliteration: lahuddimat
   19:
-    arabic: صَوَامِعُ
+    arabic: صَوَٰمِعُ
     translation: monasteries
     transliteration: ṣawāmiʿu
   20:
-    arabic: وَبِيَعٌ
+    arabic: وَبِيَعٞ
     translation: and churches
     transliteration: wabiyaʿun
   21:
-    arabic: وَّصَلٰوتٌ
+    arabic: وَصَلَوَٰتٞ
     translation: and synagogues
     transliteration: waṣalawātun
   22:
-    arabic: وَّمَسٰجِدُ
+    arabic: وَمَسَٰجِدُ
     translation: 'and masajid '
     transliteration: wamasājidu
   23:
@@ -104,51 +103,51 @@ word_by_word:
     translation: is mentioned
     transliteration: yudh'karu
   24:
-    arabic: فِيۡهَا
+    arabic: فِيهَا
     translation: in it
     transliteration: fīhā
   25:
-    arabic: اسۡمُ
+    arabic: ٱسۡمُ
     translation: (the) name of Allah
     transliteration: us'mu
   26:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (the) name of Allah
     transliteration: l-lahi
   27:
-    arabic: كَثِيۡرًا​ ؕ
+    arabic: كَثِيرٗاۗ
     translation: much
     transliteration: kathīran
   28:
-    arabic: وَلَيَنۡصُرَنَّ
+    arabic: وَلَيَنصُرَنَّ
     translation: And surely Allah will help
     transliteration: walayanṣuranna
   29:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: And surely Allah will help
     transliteration: l-lahu
   30:
-    arabic: مَنۡ
+    arabic: مَن
     translation: (those) who
     transliteration: man
   31:
-    arabic: يَّنۡصُرُهٗ ؕ
+    arabic: يَنصُرُهُۥٓۚ
     translation: help Him
     transliteration: yanṣuruhu
   32:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   33:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   34:
-    arabic: لَقَوِىٌّ
+    arabic: لَقَوِيٌّ
     translation: (is) surely All-Strong
     transliteration: laqawiyyun
   35:
-    arabic: عَزِيۡزٌ‏
+    arabic: عَزِيزٌ
     translation: All-Mighty
     transliteration: ʿazīzun
 ---

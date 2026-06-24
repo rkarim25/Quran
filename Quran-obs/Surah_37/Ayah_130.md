@@ -1,17 +1,17 @@
 ---
-arabic_ayat: سَلٰمٌ عَلٰٓى اِلۡ يَاسِيۡنَ‏
+arabic_ayat: سَلَٰمٌ عَلَىٰٓ إِلۡ يَاسِينَ
 sentence_translation: “Peace be upon Elias.”
 word_by_word:
   1:
-    arabic: سَلٰمٌ
+    arabic: سَلَٰمٌ
     translation: Peace be
     transliteration: salāmun
   2:
-    arabic: عَلٰٓى
+    arabic: عَلَىٰٓ
     translation: upon
     transliteration: ʿalā
   3:
-    arabic: اِلۡ يَاسِيۡنَ‏
+    arabic: إِلۡ يَاسِينَ
     translation: Elijah
     transliteration: il yāsīna
 ---

@@ -1,5 +1,5 @@
 ---
-arabic_ayat: فَلَيۡسَ لَـهُ الۡيَوۡمَ هٰهُنَا حَمِيۡمٌۙ‏
+arabic_ayat: فَلَيۡسَ لَهُ ٱلۡيَوۡمَ هَٰهُنَا حَمِيمٞ
 sentence_translation: So this Day they will have no close friend here,
 word_by_word:
   1:
@@ -7,19 +7,19 @@ word_by_word:
     translation: So not
     transliteration: falaysa
   2:
-    arabic: لَـهُ
+    arabic: لَهُ
     translation: for him
     transliteration: lahu
   3:
-    arabic: الۡيَوۡمَ
+    arabic: ٱلۡيَوۡمَ
     translation: today
     transliteration: l-yawma
   4:
-    arabic: هٰهُنَا
+    arabic: هَٰهُنَا
     translation: here
     transliteration: hāhunā
   5:
-    arabic: حَمِيۡمٌۙ‏
+    arabic: حَمِيمٞ
     translation: any devoted friend
     transliteration: ḥamīmun
 ---

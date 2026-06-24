@@ -1,55 +1,55 @@
 ---
-arabic_ayat: يٰۤـاَيُّهَا الَّذِيۡنَ اٰمَنُوۡۤا اِنۡ تُطِيۡعُوا الَّذِيۡنَ كَفَرُوۡا
-  يَرُدُّوۡكُمۡ عَلٰٓى اَعۡقَابِكُمۡ فَتَـنۡقَلِبُوۡا خٰسِرِيۡنَ‏
+arabic_ayat: يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓاْ إِن تُطِيعُواْ ٱلَّذِينَ كَفَرُواْ
+  يَرُدُّوكُمۡ عَلَىٰٓ أَعۡقَٰبِكُمۡ فَتَنقَلِبُواْ خَٰسِرِينَ
 sentence_translation: O believers! If you yield to the disbelievers, they will drag
   you back to disbelief—and you will become losers.
 word_by_word:
   1:
-    arabic: يٰۤـاَيُّهَا
+    arabic: يَٰٓأَيُّهَا
     translation: O you
     transliteration: yāayyuhā
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ ءَ
     translation: who
     transliteration: alladhīna
   3:
-    arabic: اٰمَنُوۡۤا
+    arabic: امَنُوٓاْ
     translation: believe
     transliteration: āmanū
   4:
-    arabic: اِنۡ
+    arabic: إِن
     translation: If
     transliteration: in
   5:
-    arabic: تُطِيۡعُوا
+    arabic: تُطِيعُواْ
     translation: you obey
     transliteration: tuṭīʿū
   6:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   7:
-    arabic: كَفَرُوۡا
+    arabic: كَفَرُواْ
     translation: disbelieve
     transliteration: kafarū
   8:
-    arabic: يَرُدُّوۡكُمۡ
+    arabic: يَرُدُّوكُمۡ
     translation: they will turn you back
     transliteration: yaruddūkum
   9:
-    arabic: عَلٰٓى
+    arabic: عَلَىٰٓ
     translation: 'on'
     transliteration: ʿalā
   10:
-    arabic: اَعۡقَابِكُمۡ
+    arabic: أَعۡقَٰبِكُمۡ
     translation: your heels
     transliteration: aʿqābikum
   11:
-    arabic: فَتَـنۡقَلِبُوۡا
+    arabic: فَتَنقَلِبُواْ
     translation: then you will turn back
     transliteration: fatanqalibū
   12:
-    arabic: خٰسِرِيۡنَ‏
+    arabic: خَٰسِرِينَ
     translation: (as) losers
     transliteration: khāsirīna
 ---

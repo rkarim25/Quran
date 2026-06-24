@@ -1,5 +1,5 @@
 ---
-arabic_ayat: فَرَاغَ عَلَيۡهِمۡ ضَرۡبًۢا بِالۡيَمِيۡنِ‏
+arabic_ayat: فَرَاغَ عَلَيۡهِمۡ ضَرۡبَۢا بِٱلۡيَمِينِ
 sentence_translation: Then he swiftly turned on them, striking ˹them˺ with his right
   hand.
 word_by_word:
@@ -12,11 +12,11 @@ word_by_word:
     translation: upon them
     transliteration: ʿalayhim
   3:
-    arabic: ضَرۡبًۢا
+    arabic: ضَرۡبَۢا
     translation: striking
     transliteration: ḍarban
   4:
-    arabic: بِالۡيَمِيۡنِ‏
+    arabic: بِٱلۡيَمِينِ
     translation: with the right hand
     transliteration: bil-yamīni
 ---

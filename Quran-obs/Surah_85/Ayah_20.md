@@ -1,21 +1,21 @@
 ---
-arabic_ayat: وَّاللّٰهُ مِنۡ وَّرَآٮِٕهِمۡ مُّحِيۡطٌۚ‏
+arabic_ayat: وَٱللَّهُ مِن وَرَآئِهِم مُّحِيطُۢ
 sentence_translation: But Allah encompasses them from all sides.
 word_by_word:
   1:
-    arabic: وَّاللّٰهُ
+    arabic: وَٱللَّهُ
     translation: But Allah
     transliteration: wal-lahu
   2:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   3:
-    arabic: وَّرَآٮِٕهِمۡ
+    arabic: وَرَآئِهِم
     translation: behind them
     transliteration: warāihim
   4:
-    arabic: مُّحِيۡطٌۚ‏
+    arabic: مُّحِيطُۢ
     translation: encompasses
     transliteration: muḥīṭun
 ---

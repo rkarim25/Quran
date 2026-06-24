@@ -1,6 +1,6 @@
 ---
-arabic_ayat: وَمَا كَانَ جَوَابَ قَوۡمِهٖۤ اِلَّاۤ اَنۡ قَالُـوۡۤا اَخۡرِجُوۡهُمۡ
-  مِّنۡ قَرۡيَتِكُمۡ​ ۚ اِنَّهُمۡ اُنَاسٌ يَّتَطَهَّرُوۡنَ‏
+arabic_ayat: وَمَا كَانَ جَوَابَ قَوۡمِهِۦٓ إِلَّآ أَن قَالُوٓاْ أَخۡرِجُوهُم مِّن
+  قَرۡيَتِكُمۡۖ إِنَّهُمۡ أُنَاسٞ يَتَطَهَّرُونَ
 sentence_translation: But his people’s only response was to say, “Expel them from
   your land! They are a people who wish to remain chaste!”
 word_by_word:
@@ -17,43 +17,43 @@ word_by_word:
     translation: (the) answer
     transliteration: jawāba
   4:
-    arabic: قَوۡمِهٖۤ
+    arabic: قَوۡمِهِۦٓ
     translation: (of) his people
     transliteration: qawmihi
   5:
-    arabic: اِلَّاۤ
+    arabic: إِلَّآ
     translation: except
     transliteration: illā
   6:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that
     transliteration: an
   7:
-    arabic: قَالُـوۡۤا
+    arabic: قَالُوٓاْ
     translation: they said
     transliteration: qālū
   8:
-    arabic: اَخۡرِجُوۡهُمۡ
+    arabic: أَخۡرِجُوهُم
     translation: Drive them out
     transliteration: akhrijūhum
   9:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: of
     transliteration: min
   10:
-    arabic: قَرۡيَتِكُمۡ​ ۚ
+    arabic: قَرۡيَتِكُمۡۖ
     translation: your town
     transliteration: qaryatikum
   11:
-    arabic: اِنَّهُمۡ
+    arabic: إِنَّهُمۡ
     translation: Indeed, they
     transliteration: innahum
   12:
-    arabic: اُنَاسٌ
+    arabic: أُنَاسٞ
     translation: (are) people
     transliteration: unāsun
   13:
-    arabic: يَّتَطَهَّرُوۡنَ‏
+    arabic: يَتَطَهَّرُونَ
     translation: who keep themselves pure
     transliteration: yataṭahharūna
 ---

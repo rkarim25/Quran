@@ -1,24 +1,24 @@
 ---
-arabic_ayat: لَـقَدِ ابۡتَغَوُا الۡفِتۡنَةَ مِنۡ قَبۡلُ وَقَلَّبُوۡا لَكَ الۡاُمُوۡرَ
-  حَتّٰى جَآءَ الۡحَـقُّ وَظَهَرَ اَمۡرُ اللّٰهِ وَهُمۡ كٰرِهُوۡنَ‏
+arabic_ayat: لَقَدِ ٱبۡتَغَوُاْ ٱلۡفِتۡنَةَ مِن قَبۡلُ وَقَلَّبُواْ لَكَ ٱلۡأُمُورَ
+  حَتَّىٰ جَآءَ ٱلۡحَقُّ وَظَهَرَ أَمۡرُ ٱللَّهِ وَهُمۡ كَٰرِهُونَ
 sentence_translation: They had already sought to spread discord before and devised
   every ˹possible˺ plot against you ˹O Prophet˺, until the truth came and Allah’s
   Will prevailed—much to their dismay.
 word_by_word:
   1:
-    arabic: لَـقَدِ
+    arabic: لَقَدِ
     translation: Verily
     transliteration: laqadi
   2:
-    arabic: ابۡتَغَوُا
+    arabic: ٱبۡتَغَوُاْ
     translation: they had sought
     transliteration: ib'taghawū
   3:
-    arabic: الۡفِتۡنَةَ
+    arabic: ٱلۡفِتۡنَةَ
     translation: dissension
     transliteration: l-fit'nata
   4:
-    arabic: مِنۡ
+    arabic: مِن
     translation: before
     transliteration: min
   5:
@@ -26,7 +26,7 @@ word_by_word:
     translation: before
     transliteration: qablu
   6:
-    arabic: وَقَلَّبُوۡا
+    arabic: وَقَلَّبُواْ
     translation: and had upset
     transliteration: waqallabū
   7:
@@ -34,11 +34,11 @@ word_by_word:
     translation: for you
     transliteration: laka
   8:
-    arabic: الۡاُمُوۡرَ
+    arabic: ٱلۡأُمُورَ
     translation: the matters
     transliteration: l-umūra
   9:
-    arabic: حَتّٰى
+    arabic: حَتَّىٰ
     translation: until
     transliteration: ḥattā
   10:
@@ -46,7 +46,7 @@ word_by_word:
     translation: came
     transliteration: jāa
   11:
-    arabic: الۡحَـقُّ
+    arabic: ٱلۡحَقُّ
     translation: the truth
     transliteration: l-ḥaqu
   12:
@@ -54,11 +54,11 @@ word_by_word:
     translation: and became manifest
     transliteration: waẓahara
   13:
-    arabic: اَمۡرُ
+    arabic: أَمۡرُ
     translation: (the) Order of Allah
     transliteration: amru
   14:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (the) Order of Allah
     transliteration: l-lahi
   15:
@@ -66,7 +66,7 @@ word_by_word:
     translation: while they
     transliteration: wahum
   16:
-    arabic: كٰرِهُوۡنَ‏
+    arabic: كَٰرِهُونَ
     translation: disliked (it)
     transliteration: kārihūna
 ---

@@ -1,15 +1,15 @@
 ---
-arabic_ayat: اِنَّ الَّذِيۡنَ لَا يَرۡجُوۡنَ لِقَآءَنَا وَرَضُوۡا بِالۡحَيٰوةِ الدُّنۡيَا
-  وَاطۡمَاَنُّوۡا بِهَا وَالَّذِيۡنَ هُمۡ عَنۡ اٰيٰتِنَا غٰفِلُوۡنَۙ‏
+arabic_ayat: إِنَّ ٱلَّذِينَ لَا يَرۡجُونَ لِقَآءَنَا وَرَضُواْ بِٱلۡحَيَوٰةِ ٱلدُّنۡيَا
+  وَٱطۡمَأَنُّواْ بِهَا وَٱلَّذِينَ هُمۡ عَنۡ ءَايَٰتِنَا غَٰفِلُونَ
 sentence_translation: Indeed, those who do not expect to meet Us, being pleased and
   content with this worldly life, and who are heedless of Our signs,
 word_by_word:
   1:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   3:
@@ -17,7 +17,7 @@ word_by_word:
     translation: (do) not
     transliteration: lā
   4:
-    arabic: يَرۡجُوۡنَ
+    arabic: يَرۡجُونَ
     translation: expect
     transliteration: yarjūna
   5:
@@ -25,19 +25,19 @@ word_by_word:
     translation: the meeting with Us
     transliteration: liqāanā
   6:
-    arabic: وَرَضُوۡا
+    arabic: وَرَضُواْ
     translation: and are pleased
     transliteration: waraḍū
   7:
-    arabic: بِالۡحَيٰوةِ
+    arabic: بِٱلۡحَيَوٰةِ
     translation: with the life
     transliteration: bil-ḥayati
   8:
-    arabic: الدُّنۡيَا
+    arabic: ٱلدُّنۡيَا
     translation: (of) the world
     transliteration: l-dun'yā
   9:
-    arabic: وَاطۡمَاَنُّوۡا
+    arabic: وَٱطۡمَأَنُّواْ
     translation: and feel satisfied
     transliteration: wa-iṭ'ma-annū
   10:
@@ -45,7 +45,7 @@ word_by_word:
     translation: with it
     transliteration: bihā
   11:
-    arabic: وَالَّذِيۡنَ
+    arabic: وَٱلَّذِينَ
     translation: 'and those '
     transliteration: wa-alladhīna
   12:
@@ -53,15 +53,15 @@ word_by_word:
     translation: they
     transliteration: hum
   13:
-    arabic: عَنۡ
+    arabic: عَنۡ ءَ
     translation: (are) of
     transliteration: ʿan
   14:
-    arabic: اٰيٰتِنَا
+    arabic: ايَٰتِنَا
     translation: Our Signs
     transliteration: āyātinā
   15:
-    arabic: غٰفِلُوۡنَۙ‏
+    arabic: غَٰفِلُونَ
     translation: heedless
     transliteration: ghāfilūna
 ---

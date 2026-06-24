@@ -1,7 +1,7 @@
 ---
-arabic_ayat: وَضَرَبَ اللّٰهُ مَثَلًا لِّـلَّذِيۡنَ اٰمَنُوۡا امۡرَاَتَ فِرۡعَوۡنَ​ۘ
-  اِذۡ قَالَتۡ رَبِّ ابۡنِ لِىۡ عِنۡدَكَ بَيۡتًا فِى الۡجَـنَّةِ وَنَجِّنِىۡ مِنۡ
-  فِرۡعَوۡنَ وَعَمَلِهٖ وَنَجِّنِىۡ مِنَ الۡقَوۡمِ الظّٰلِمِيۡنَۙ‏
+arabic_ayat: وَضَرَبَ ٱللَّهُ مَثَلٗا لِّلَّذِينَ ءَامَنُواْ ٱمۡرَأَتَ فِرۡعَوۡنَ
+  إِذۡ قَالَتۡ رَبِّ ٱبۡنِ لِي عِندَكَ بَيۡتٗا فِي ٱلۡجَنَّةِ وَنَجِّنِي مِن فِرۡعَوۡنَ
+  وَعَمَلِهِۦ وَنَجِّنِي مِنَ ٱلۡقَوۡمِ ٱلظَّٰلِمِينَ
 sentence_translation: 'And Allah sets forth an example for the believers: the wife
   of Pharaoh, who prayed, “My Lord! Build me a house in Paradise near You, deliver
   me from Pharaoh and his ˹evil˺ doing, and save me from the wrongdoing people.”'
@@ -11,31 +11,31 @@ word_by_word:
     translation: And presents
     transliteration: waḍaraba
   2:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   3:
-    arabic: مَثَلًا
+    arabic: مَثَلٗا
     translation: an example
     transliteration: mathalan
   4:
-    arabic: لِّـلَّذِيۡنَ
+    arabic: لِّلَّذِينَ ءَ
     translation: for those who
     transliteration: lilladhīna
   5:
-    arabic: اٰمَنُوۡا
+    arabic: امَنُواْ
     translation: 'believed '
     transliteration: āmanū
   6:
-    arabic: امۡرَاَتَ
+    arabic: ٱمۡرَأَتَ
     translation: (the) wife
     transliteration: im'ra-ata
   7:
-    arabic: فِرۡعَوۡنَ​ۘ
+    arabic: فِرۡعَوۡنَ
     translation: (of) Firaun
     transliteration: fir'ʿawna
   8:
-    arabic: اِذۡ
+    arabic: إِذۡ
     translation: when
     transliteration: idh
   9:
@@ -47,35 +47,35 @@ word_by_word:
     translation: My Lord
     transliteration: rabbi
   11:
-    arabic: ابۡنِ
+    arabic: ٱبۡنِ
     translation: Build
     transliteration: ib'ni
   12:
-    arabic: لِىۡ
+    arabic: لِي
     translation: for me
     transliteration: lī
   13:
-    arabic: عِنۡدَكَ
+    arabic: عِندَكَ
     translation: near You
     transliteration: ʿindaka
   14:
-    arabic: بَيۡتًا
+    arabic: بَيۡتٗا
     translation: a house
     transliteration: baytan
   15:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   16:
-    arabic: الۡجَـنَّةِ
+    arabic: ٱلۡجَنَّةِ
     translation: Paradise
     transliteration: l-janati
   17:
-    arabic: وَنَجِّنِىۡ
+    arabic: وَنَجِّنِي
     translation: and save me
     transliteration: wanajjinī
   18:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   19:
@@ -83,11 +83,11 @@ word_by_word:
     translation: Firaun
     transliteration: fir'ʿawna
   20:
-    arabic: وَعَمَلِهٖ
+    arabic: وَعَمَلِهِۦ
     translation: and his deeds
     transliteration: waʿamalihi
   21:
-    arabic: وَنَجِّنِىۡ
+    arabic: وَنَجِّنِي
     translation: and save me
     transliteration: wanajjinī
   22:
@@ -95,11 +95,11 @@ word_by_word:
     translation: from
     transliteration: mina
   23:
-    arabic: الۡقَوۡمِ
+    arabic: ٱلۡقَوۡمِ
     translation: the people
     transliteration: l-qawmi
   24:
-    arabic: الظّٰلِمِيۡنَۙ‏
+    arabic: ٱلظَّٰلِمِينَ
     translation: the wrongdoers
     transliteration: l-ẓālimīna
 ---

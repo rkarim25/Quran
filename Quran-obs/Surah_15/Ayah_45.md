@@ -1,25 +1,25 @@
 ---
-arabic_ayat: اِنَّ الۡمُتَّقِيۡنَ فِىۡ جَنّٰتٍ وَّعُيُوۡنٍؕ‏
+arabic_ayat: إِنَّ ٱلۡمُتَّقِينَ فِي جَنَّٰتٖ وَعُيُونٍ
 sentence_translation: Indeed, the righteous will be amid Gardens and springs.
 word_by_word:
   1:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   2:
-    arabic: الۡمُتَّقِيۡنَ
+    arabic: ٱلۡمُتَّقِينَ
     translation: the righteous
     transliteration: l-mutaqīna
   3:
-    arabic: فِىۡ
+    arabic: فِي
     translation: (will be) in
     transliteration: fī
   4:
-    arabic: جَنّٰتٍ
+    arabic: جَنَّٰتٖ
     translation: Gardens
     transliteration: jannātin
   5:
-    arabic: وَّعُيُوۡنٍؕ‏
+    arabic: وَعُيُونٍ
     translation: and water springs
     transliteration: waʿuyūnin
 ---

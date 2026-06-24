@@ -1,7 +1,6 @@
 ---
-arabic_ayat: "قَالَ مُوۡسٰى لِقَوۡمِهِ اسۡتَعِيۡنُوۡا بِاللّٰهِ وَاصۡبِرُوۡا​ ۚ اِنَّ\
-  \ الۡاَرۡضَ لِلّٰهِ ۙ يُوۡرِثُهَا مَنۡ يَّشَآءُ مِنۡ عِبَادِهٖ​ ؕ وَالۡعَاقِبَةُ\
-  \ لِلۡمُتَّقِيۡنَ‏ \uFEFF\uFEFF"
+arabic_ayat: قَالَ مُوسَىٰ لِقَوۡمِهِ ٱسۡتَعِينُواْ بِٱللَّهِ وَٱصۡبِرُوٓاْۖ إِنَّ
+  ٱلۡأَرۡضَ لِلَّهِ يُورِثُهَا مَن يَشَآءُ مِنۡ عِبَادِهِۦۖ وَٱلۡعَٰقِبَةُ لِلۡمُتَّقِينَ
 sentence_translation: Moses reassured his people, “Seek Allah’s help and be patient.
   Indeed, the earth belongs to Allah ˹alone˺. He grants it to whoever He chooses of
   His servants. The ultimate outcome belongs ˹only˺ to the righteous.”
@@ -11,7 +10,7 @@ word_by_word:
     translation: Said
     transliteration: qāla
   2:
-    arabic: مُوۡسٰى
+    arabic: مُوسَىٰ
     translation: Musa
     transliteration: mūsā
   3:
@@ -19,39 +18,39 @@ word_by_word:
     translation: to his people
     transliteration: liqawmihi
   4:
-    arabic: اسۡتَعِيۡنُوۡا
+    arabic: ٱسۡتَعِينُواْ
     translation: Seek help
     transliteration: is'taʿīnū
   5:
-    arabic: بِاللّٰهِ
+    arabic: بِٱللَّهِ
     translation: from Allah
     transliteration: bil-lahi
   6:
-    arabic: وَاصۡبِرُوۡا​ ۚ
+    arabic: وَٱصۡبِرُوٓاْۖ
     translation: and be patient
     transliteration: wa-iṣ'birū
   7:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   8:
-    arabic: الۡاَرۡضَ
+    arabic: ٱلۡأَرۡضَ
     translation: the earth
     transliteration: l-arḍa
   9:
-    arabic: لِلّٰهِ ۙ
+    arabic: لِلَّهِ
     translation: (belongs) to Allah
     transliteration: lillahi
   10:
-    arabic: يُوۡرِثُهَا
+    arabic: يُورِثُهَا
     translation: He causes to inherit it
     transliteration: yūrithuhā
   11:
-    arabic: مَنۡ
+    arabic: مَن
     translation: whom
     transliteration: man
   12:
-    arabic: يَّشَآءُ
+    arabic: يَشَآءُ
     translation: He wills
     transliteration: yashāu
   13:
@@ -59,15 +58,15 @@ word_by_word:
     translation: of
     transliteration: min
   14:
-    arabic: عِبَادِهٖ​ ؕ
+    arabic: عِبَادِهِۦۖ
     translation: His servants
     transliteration: ʿibādihi
   15:
-    arabic: وَالۡعَاقِبَةُ
+    arabic: وَٱلۡعَٰقِبَةُ
     translation: And the end
     transliteration: wal-ʿāqibatu
   16:
-    arabic: "لِلۡمُتَّقِيۡنَ‏ \uFEFF\uFEFF"
+    arabic: لِلۡمُتَّقِينَ
     translation: (is) for the righteous
     transliteration: lil'muttaqīna
 ---

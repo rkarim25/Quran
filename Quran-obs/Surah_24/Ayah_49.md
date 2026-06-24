@@ -1,14 +1,14 @@
 ---
-arabic_ayat: وَاِنۡ يَّكُنۡ لَّهُمُ الۡحَـقُّ يَاۡتُوۡۤا اِلَيۡهِ مُذۡعِنِيۡنَؕ‏
+arabic_ayat: وَإِن يَكُن لَّهُمُ ٱلۡحَقُّ يَأۡتُوٓاْ إِلَيۡهِ مُذۡعِنِينَ
 sentence_translation: But if the truth is in their favour, they come to him, fully
   submitting.
 word_by_word:
   1:
-    arabic: وَاِنۡ
+    arabic: وَإِن
     translation: But if
     transliteration: wa-in
   2:
-    arabic: يَّكُنۡ
+    arabic: يَكُن
     translation: is
     transliteration: yakun
   3:
@@ -16,19 +16,19 @@ word_by_word:
     translation: with them
     transliteration: lahumu
   4:
-    arabic: الۡحَـقُّ
+    arabic: ٱلۡحَقُّ
     translation: the truth
     transliteration: l-ḥaqu
   5:
-    arabic: يَاۡتُوۡۤا
+    arabic: يَأۡتُوٓاْ
     translation: they come
     transliteration: yatū
   6:
-    arabic: اِلَيۡهِ
+    arabic: إِلَيۡهِ
     translation: to him
     transliteration: ilayhi
   7:
-    arabic: مُذۡعِنِيۡنَؕ‏
+    arabic: مُذۡعِنِينَ
     translation: (as) promptly obedient
     transliteration: mudh'ʿinīna
 ---

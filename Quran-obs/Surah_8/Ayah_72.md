@@ -1,10 +1,10 @@
 ---
-arabic_ayat: اِنَّ الَّذِيۡنَ اٰمَنُوۡا وَهَاجَرُوۡا وَجَاهَدُوۡا بِاَمۡوَالِهِمۡ
-  وَاَنۡفُسِهِمۡ فِىۡ سَبِيۡلِ اللّٰهِ وَالَّذِيۡنَ اٰوَوْا وَّنَصَرُوۡۤا اُولٰۤٮِٕكَ
-  بَعۡضُهُمۡ اَوۡلِيَآءُ بَعۡضٍ​ؕ وَالَّذِيۡنَ اٰمَنُوۡا وَلَمۡ يُهَاجِرُوۡا مَا
-  لَـكُمۡ مِّنۡ وَّلَايَتِهِمۡ مِّنۡ شَىۡءٍ حَتّٰى يُهَاجِرُوۡا​ ۚ وَاِنِ اسۡتَـنۡصَرُوۡكُمۡ
-  فِى الدِّيۡنِ فَعَلَيۡكُمُ النَّصۡرُ اِلَّا عَلٰى قَوۡمٍۢ بَيۡنَكُمۡ وَبَيۡنَهُمۡ
-  مِّيۡثَاقٌ ؕ وَاللّٰهُ بِمَا تَعۡمَلُوۡنَ بَصِيۡرٌ‏
+arabic_ayat: إِنَّ ٱلَّذِينَ ءَامَنُواْ وَهَاجَرُواْ وَجَٰهَدُواْ بِأَمۡوَٰلِهِمۡ
+  وَأَنفُسِهِمۡ فِي سَبِيلِ ٱللَّهِ وَٱلَّذِينَ ءَاوَواْ وَّنَصَرُوٓاْ أُوْلَٰٓئِكَ
+  بَعۡضُهُمۡ أَوۡلِيَآءُ بَعۡضٖۚ وَٱلَّذِينَ ءَامَنُواْ وَلَمۡ يُهَاجِرُواْ مَا لَكُم
+  مِّن وَلَٰيَتِهِم مِّن شَيۡءٍ حَتَّىٰ يُهَاجِرُواْۚ وَإِنِ ٱسۡتَنصَرُوكُمۡ فِي ٱلدِّينِ
+  فَعَلَيۡكُمُ ٱلنَّصۡرُ إِلَّا عَلَىٰ قَوۡمِۭ بَيۡنَكُمۡ وَبَيۡنَهُم مِّيثَٰقٞۗ وَٱللَّهُ
+  بِمَا تَعۡمَلُونَ بَصِيرٞ
 sentence_translation: Those who believed, emigrated, and strived with their wealth
   and lives in the cause of Allah, as well as those who gave them shelter and help—they
   are truly guardians of one another. As for those who believed but did not emigrate,
@@ -13,59 +13,59 @@ sentence_translation: Those who believed, emigrated, and strived with their weal
   people bound with you in a treaty. Allah is All-Seeing of what you do.
 word_by_word:
   1:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ ءَ
     translation: those who
     transliteration: alladhīna
   3:
-    arabic: اٰمَنُوۡا
+    arabic: امَنُواْ
     translation: believed
     transliteration: āmanū
   4:
-    arabic: وَهَاجَرُوۡا
+    arabic: وَهَاجَرُواْ
     translation: and emigrated
     transliteration: wahājarū
   5:
-    arabic: وَجَاهَدُوۡا
+    arabic: وَجَٰهَدُواْ
     translation: and strove hard
     transliteration: wajāhadū
   6:
-    arabic: بِاَمۡوَالِهِمۡ
+    arabic: بِأَمۡوَٰلِهِمۡ
     translation: with their wealth
     transliteration: bi-amwālihim
   7:
-    arabic: وَاَنۡفُسِهِمۡ
+    arabic: وَأَنفُسِهِمۡ
     translation: and their lives
     transliteration: wa-anfusihim
   8:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   9:
-    arabic: سَبِيۡلِ
+    arabic: سَبِيلِ
     translation: (the) way
     transliteration: sabīli
   10:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (of) Allah
     transliteration: l-lahi
   11:
-    arabic: وَالَّذِيۡنَ
+    arabic: وَٱلَّذِينَ ءَ
     translation: and those who
     transliteration: wa-alladhīna
   12:
-    arabic: اٰوَوْا
+    arabic: اوَواْ
     translation: gave shelter
     transliteration: āwaw
   13:
-    arabic: وَّنَصَرُوۡۤا
+    arabic: وَّنَصَرُوٓاْ
     translation: and helped
     transliteration: wanaṣarū
   14:
-    arabic: اُولٰۤٮِٕكَ
+    arabic: أُوْلَٰٓئِكَ
     translation: 'those '
     transliteration: ulāika
   15:
@@ -73,19 +73,19 @@ word_by_word:
     translation: some of them
     transliteration: baʿḍuhum
   16:
-    arabic: اَوۡلِيَآءُ
+    arabic: أَوۡلِيَآءُ
     translation: (are) allies
     transliteration: awliyāu
   17:
-    arabic: بَعۡضٍ​ؕ
+    arabic: بَعۡضٖۚ
     translation: (of) another
     transliteration: baʿḍin
   18:
-    arabic: وَالَّذِيۡنَ
+    arabic: وَٱلَّذِينَ ءَ
     translation: But those who
     transliteration: wa-alladhīna
   19:
-    arabic: اٰمَنُوۡا
+    arabic: امَنُواْ
     translation: believed
     transliteration: āmanū
   20:
@@ -93,7 +93,7 @@ word_by_word:
     translation: and (did) not
     transliteration: walam
   21:
-    arabic: يُهَاجِرُوۡا
+    arabic: يُهَاجِرُواْ
     translation: emigrate
     transliteration: yuhājirū
   22:
@@ -101,47 +101,47 @@ word_by_word:
     translation: (it is) not
     transliteration: mā
   23:
-    arabic: لَـكُمۡ
+    arabic: لَكُم
     translation: for you
     transliteration: lakum
   24:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: (of)
     transliteration: min
   25:
-    arabic: وَّلَايَتِهِمۡ
+    arabic: وَلَٰيَتِهِم
     translation: their protection
     transliteration: walāyatihim
   26:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: (in)
     transliteration: min
   27:
-    arabic: شَىۡءٍ
+    arabic: شَيۡءٍ
     translation: (in) anything
     transliteration: shayin
   28:
-    arabic: حَتّٰى
+    arabic: حَتَّىٰ
     translation: until
     transliteration: ḥattā
   29:
-    arabic: يُهَاجِرُوۡا​ ۚ
+    arabic: يُهَاجِرُواْۚ
     translation: they emigrate
     transliteration: yuhājirū
   30:
-    arabic: وَاِنِ
+    arabic: وَإِنِ
     translation: And if
     transliteration: wa-ini
   31:
-    arabic: اسۡتَـنۡصَرُوۡكُمۡ
+    arabic: ٱسۡتَنصَرُوكُمۡ
     translation: they seek your help
     transliteration: is'tanṣarūkum
   32:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   33:
-    arabic: الدِّيۡنِ
+    arabic: ٱلدِّينِ
     translation: the religion
     transliteration: l-dīni
   34:
@@ -149,19 +149,19 @@ word_by_word:
     translation: then upon you
     transliteration: faʿalaykumu
   35:
-    arabic: النَّصۡرُ
+    arabic: ٱلنَّصۡرُ
     translation: (is to) help them
     transliteration: l-naṣru
   36:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   37:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: against
     transliteration: ʿalā
   38:
-    arabic: قَوۡمٍۢ
+    arabic: قَوۡمِۭ
     translation: a people
     transliteration: qawmin
   39:
@@ -169,15 +169,15 @@ word_by_word:
     translation: between you
     transliteration: baynakum
   40:
-    arabic: وَبَيۡنَهُمۡ
+    arabic: وَبَيۡنَهُم
     translation: and between them
     transliteration: wabaynahum
   41:
-    arabic: مِّيۡثَاقٌ ؕ
+    arabic: مِّيثَٰقٞۗ
     translation: (is) a treaty
     transliteration: mīthāqun
   42:
-    arabic: وَاللّٰهُ
+    arabic: وَٱللَّهُ
     translation: And Allah
     transliteration: wal-lahu
   43:
@@ -185,11 +185,11 @@ word_by_word:
     translation: of what
     transliteration: bimā
   44:
-    arabic: تَعۡمَلُوۡنَ
+    arabic: تَعۡمَلُونَ
     translation: you do
     transliteration: taʿmalūna
   45:
-    arabic: بَصِيۡرٌ‏
+    arabic: بَصِيرٞ
     translation: (is) All-Seer
     transliteration: baṣīrun
 ---

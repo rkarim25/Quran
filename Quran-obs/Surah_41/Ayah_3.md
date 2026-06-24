@@ -1,34 +1,34 @@
 ---
-arabic_ayat: كِتٰبٌ فُصِّلَتۡ اٰيٰتُهٗ قُرۡاٰنًا عَرَبِيًّا لِّقَوۡمٍ يَّعۡلَمُوۡنَۙ‏
+arabic_ayat: كِتَٰبٞ فُصِّلَتۡ ءَايَٰتُهُۥ قُرۡءَانًا عَرَبِيّٗا لِّقَوۡمٖ يَعۡلَمُونَ
 sentence_translation: ˹It is˺ a Book whose verses are perfectly explained—a Quran
   in Arabic for people who know,
 word_by_word:
   1:
-    arabic: كِتٰبٌ
+    arabic: كِتَٰبٞ
     translation: A Book
     transliteration: kitābun
   2:
-    arabic: فُصِّلَتۡ
+    arabic: فُصِّلَتۡ ءَ
     translation: are detailed
     transliteration: fuṣṣilat
   3:
-    arabic: اٰيٰتُهٗ
+    arabic: ايَٰتُهُۥ
     translation: its Verses
     transliteration: āyātuhu
   4:
-    arabic: قُرۡاٰنًا
+    arabic: قُرۡءَانًا
     translation: a Quran
     transliteration: qur'ānan
   5:
-    arabic: عَرَبِيًّا
+    arabic: عَرَبِيّٗا
     translation: (in) Arabic
     transliteration: ʿarabiyyan
   6:
-    arabic: لِّقَوۡمٍ
+    arabic: لِّقَوۡمٖ
     translation: for a people
     transliteration: liqawmin
   7:
-    arabic: يَّعۡلَمُوۡنَۙ‏
+    arabic: يَعۡلَمُونَ
     translation: (who) know
     transliteration: yaʿlamūna
 ---

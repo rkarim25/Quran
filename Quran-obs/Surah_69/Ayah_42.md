@@ -1,5 +1,5 @@
 ---
-arabic_ayat: وَلَا بِقَوۡلِ كَاهِنٍ​ؕ قَلِيۡلًا مَّا تَذَكَّرُوۡنَؕ‏
+arabic_ayat: وَلَا بِقَوۡلِ كَاهِنٖۚ قَلِيلٗا مَّا تَذَكَّرُونَ
 sentence_translation: Nor is it the mumbling of a fortune-teller, ˹yet˺ you are hardly
   mindful.
 word_by_word:
@@ -12,11 +12,11 @@ word_by_word:
     translation: (it is the) word
     transliteration: biqawli
   3:
-    arabic: كَاهِنٍ​ؕ
+    arabic: كَاهِنٖۚ
     translation: (of) a soothsayer
     transliteration: kāhinin
   4:
-    arabic: قَلِيۡلًا
+    arabic: قَلِيلٗا
     translation: little
     transliteration: qalīlan
   5:
@@ -24,7 +24,7 @@ word_by_word:
     translation: (is) what
     transliteration: mā
   6:
-    arabic: تَذَكَّرُوۡنَؕ‏
+    arabic: تَذَكَّرُونَ
     translation: you take heed
     transliteration: tadhakkarūna
 ---

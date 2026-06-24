@@ -1,15 +1,15 @@
 ---
-arabic_ayat: سُبۡحٰنَ الَّذِىۡ خَلَقَ الۡاَزۡوَاجَ كُلَّهَا مِمَّا تُنۡۢبِتُ الۡاَرۡضُ
-  وَمِنۡ اَنۡفُسِهِمۡ وَمِمَّا لَا يَعۡلَمُوۡنَ‏
+arabic_ayat: سُبۡحَٰنَ ٱلَّذِي خَلَقَ ٱلۡأَزۡوَٰجَ كُلَّهَا مِمَّا تُنۢبِتُ ٱلۡأَرۡضُ
+  وَمِنۡ أَنفُسِهِمۡ وَمِمَّا لَا يَعۡلَمُونَ
 sentence_translation: Glory be to the One Who created all ˹things in˺ pairs—˹be it˺
   what the earth produces, their genders, or what they do not know!
 word_by_word:
   1:
-    arabic: سُبۡحٰنَ
+    arabic: سُبۡحَٰنَ
     translation: Glory be
     transliteration: sub'ḥāna
   2:
-    arabic: الَّذِىۡ
+    arabic: ٱلَّذِي
     translation: (to) the One Who
     transliteration: alladhī
   3:
@@ -17,7 +17,7 @@ word_by_word:
     translation: created
     transliteration: khalaqa
   4:
-    arabic: الۡاَزۡوَاجَ
+    arabic: ٱلۡأَزۡوَٰجَ
     translation: (in) pairs
     transliteration: l-azwāja
   5:
@@ -29,11 +29,11 @@ word_by_word:
     translation: of what
     transliteration: mimmā
   7:
-    arabic: تُنۡۢبِتُ
+    arabic: تُنۢبِتُ
     translation: grows
     transliteration: tunbitu
   8:
-    arabic: الۡاَرۡضُ
+    arabic: ٱلۡأَرۡضُ
     translation: the earth
     transliteration: l-arḍu
   9:
@@ -41,7 +41,7 @@ word_by_word:
     translation: and of
     transliteration: wamin
   10:
-    arabic: اَنۡفُسِهِمۡ
+    arabic: أَنفُسِهِمۡ
     translation: themselves
     transliteration: anfusihim
   11:
@@ -53,7 +53,7 @@ word_by_word:
     translation: not
     transliteration: lā
   13:
-    arabic: يَعۡلَمُوۡنَ‏
+    arabic: يَعۡلَمُونَ
     translation: they know
     transliteration: yaʿlamūna
 ---

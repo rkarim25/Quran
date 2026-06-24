@@ -1,18 +1,18 @@
 ---
-arabic_ayat: فَاِذَا انْشَقَّتِ السَّمَآءُ فَكَانَتۡ وَرۡدَةً كَالدِّهَانِ​ۚ‏
+arabic_ayat: فَإِذَا ٱنشَقَّتِ ٱلسَّمَآءُ فَكَانَتۡ وَرۡدَةٗ كَٱلدِّهَانِ
 sentence_translation: ˹How horrible will it be˺ when the heavens will split apart,
   becoming rose-red like ˹burnt˺ oil!
 word_by_word:
   1:
-    arabic: فَاِذَا
+    arabic: فَإِذَا
     translation: Then when
     transliteration: fa-idhā
   2:
-    arabic: انْشَقَّتِ
+    arabic: ٱنشَقَّتِ
     translation: is split
     transliteration: inshaqqati
   3:
-    arabic: السَّمَآءُ
+    arabic: ٱلسَّمَآءُ
     translation: the heaven
     transliteration: l-samāu
   4:
@@ -20,11 +20,11 @@ word_by_word:
     translation: and it becomes
     transliteration: fakānat
   5:
-    arabic: وَرۡدَةً
+    arabic: وَرۡدَةٗ
     translation: rose-colored
     transliteration: wardatan
   6:
-    arabic: كَالدِّهَانِ​ۚ‏
+    arabic: كَٱلدِّهَانِ
     translation: like murky oil
     transliteration: kal-dihāni
 ---

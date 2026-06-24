@@ -1,9 +1,9 @@
 ---
-arabic_ayat: اِذۡ يَغۡشَى السِّدۡرَةَ مَا يَغۡشٰىۙ‏
+arabic_ayat: إِذۡ يَغۡشَى ٱلسِّدۡرَةَ مَا يَغۡشَىٰ
 sentence_translation: while the Lote Tree was overwhelmed with ˹heavenly˺ splendours!
 word_by_word:
   1:
-    arabic: اِذۡ
+    arabic: إِذۡ
     translation: When
     transliteration: idh
   2:
@@ -11,7 +11,7 @@ word_by_word:
     translation: covered
     transliteration: yaghshā
   3:
-    arabic: السِّدۡرَةَ
+    arabic: ٱلسِّدۡرَةَ
     translation: the Lote Tree
     transliteration: l-sid'rata
   4:
@@ -19,7 +19,7 @@ word_by_word:
     translation: what
     transliteration: mā
   5:
-    arabic: يَغۡشٰىۙ‏
+    arabic: يَغۡشَىٰ
     translation: covers
     transliteration: yaghshā
 ---

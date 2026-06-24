@@ -1,9 +1,9 @@
 ---
-arabic_ayat: اِلَّا مَنۡ هُوَ صَالِ الۡجَحِيۡمِ‏
+arabic_ayat: إِلَّا مَنۡ هُوَ صَالِ ٱلۡجَحِيمِ
 sentence_translation: except those ˹destined˺ to burn in Hell.
 word_by_word:
   1:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: Except
     transliteration: illā
   2:
@@ -19,7 +19,7 @@ word_by_word:
     translation: (is) to burn
     transliteration: ṣāli
   5:
-    arabic: الۡجَحِيۡمِ‏
+    arabic: ٱلۡجَحِيمِ
     translation: (in) the Hellfire
     transliteration: l-jaḥīmi
 ---

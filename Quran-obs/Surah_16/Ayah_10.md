@@ -1,6 +1,6 @@
 ---
-arabic_ayat: هُوَ الَّذِىۡۤ اَنۡزَلَ مِنَ السَّمَآءِ مَآءً​ لَّـكُمۡ مِّنۡهُ شَرَابٌ
-  وَّمِنۡهُ شَجَرٌ فِيۡهِ تُسِيۡمُوۡنَ‏
+arabic_ayat: هُوَ ٱلَّذِيٓ أَنزَلَ مِنَ ٱلسَّمَآءِ مَآءٗۖ لَّكُم مِّنۡهُ شَرَابٞ
+  وَمِنۡهُ شَجَرٞ فِيهِ تُسِيمُونَ
 sentence_translation: He is the One Who sends down rain from the sky, from which you
   drink and by which plants grow for your cattle to graze.
 word_by_word:
@@ -9,11 +9,11 @@ word_by_word:
     translation: He
     transliteration: huwa
   2:
-    arabic: الَّذِىۡۤ
+    arabic: ٱلَّذِيٓ
     translation: (is) the One Who
     transliteration: alladhī
   3:
-    arabic: اَنۡزَلَ
+    arabic: أَنزَلَ
     translation: sends down
     transliteration: anzala
   4:
@@ -21,15 +21,15 @@ word_by_word:
     translation: from
     transliteration: mina
   5:
-    arabic: السَّمَآءِ
+    arabic: ٱلسَّمَآءِ
     translation: the sky
     transliteration: l-samāi
   6:
-    arabic: مَآءً​
+    arabic: مَآءٗۖ
     translation: water
     transliteration: māan
   7:
-    arabic: لَّـكُمۡ
+    arabic: لَّكُم
     translation: for you
     transliteration: lakum
   8:
@@ -37,23 +37,23 @@ word_by_word:
     translation: of it
     transliteration: min'hu
   9:
-    arabic: شَرَابٌ
+    arabic: شَرَابٞ
     translation: (is) drink
     transliteration: sharābun
   10:
-    arabic: وَّمِنۡهُ
+    arabic: وَمِنۡهُ
     translation: and from it
     transliteration: wamin'hu
   11:
-    arabic: شَجَرٌ
+    arabic: شَجَرٞ
     translation: (grows) vegetation
     transliteration: shajarun
   12:
-    arabic: فِيۡهِ
+    arabic: فِيهِ
     translation: in which
     transliteration: fīhi
   13:
-    arabic: تُسِيۡمُوۡنَ‏
+    arabic: تُسِيمُونَ
     translation: you pasture your cattle
     transliteration: tusīmūna
 ---

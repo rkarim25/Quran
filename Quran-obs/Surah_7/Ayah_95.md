@@ -1,7 +1,7 @@
 ---
-arabic_ayat: ثُمَّ بَدَّلۡـنَا مَكَانَ السَّيِّئَةِ الۡحَسَنَةَ حَتّٰى عَفَوْا وَّقَالُوۡا
-  قَدۡ مَسَّ اٰبَآءَنَا الضَّرَّآءُ وَالسَّرَّآءُ فَاَخَذۡنٰهُمۡ بَغۡتَةً وَّهُمۡ
-  لَا يَشۡعُرُوۡنَ‏
+arabic_ayat: ثُمَّ بَدَّلۡنَا مَكَانَ ٱلسَّيِّئَةِ ٱلۡحَسَنَةَ حَتَّىٰ عَفَواْ وَّقَالُواْ
+  قَدۡ مَسَّ ءَابَآءَنَا ٱلضَّرَّآءُ وَٱلسَّرَّآءُ فَأَخَذۡنَٰهُم بَغۡتَةٗ وَهُمۡ
+  لَا يَشۡعُرُونَ
 sentence_translation: Then We changed their adversity to prosperity until they flourished
   and argued ˹falsely˺, “Our forefathers ˹too˺ had been visited by adversity and prosperity.” So
   We seized them by surprise, while they were unaware.
@@ -11,7 +11,7 @@ word_by_word:
     translation: Then
     transliteration: thumma
   2:
-    arabic: بَدَّلۡـنَا
+    arabic: بَدَّلۡنَا
     translation: We changed
     transliteration: baddalnā
   3:
@@ -19,23 +19,23 @@ word_by_word:
     translation: (in) place
     transliteration: makāna
   4:
-    arabic: السَّيِّئَةِ
+    arabic: ٱلسَّيِّئَةِ
     translation: (of) the bad
     transliteration: l-sayi-ati
   5:
-    arabic: الۡحَسَنَةَ
+    arabic: ٱلۡحَسَنَةَ
     translation: the good
     transliteration: l-ḥasanata
   6:
-    arabic: حَتّٰى
+    arabic: حَتَّىٰ
     translation: until
     transliteration: ḥattā
   7:
-    arabic: عَفَوْا
+    arabic: عَفَواْ
     translation: they increased
     transliteration: ʿafaw
   8:
-    arabic: وَّقَالُوۡا
+    arabic: وَّقَالُواْ
     translation: and said
     transliteration: waqālū
   9:
@@ -43,31 +43,31 @@ word_by_word:
     translation: Verily
     transliteration: qad
   10:
-    arabic: مَسَّ
+    arabic: مَسَّ ءَ
     translation: (had) touched
     transliteration: massa
   11:
-    arabic: اٰبَآءَنَا
+    arabic: ابَآءَنَا
     translation: our forefathers
     transliteration: ābāanā
   12:
-    arabic: الضَّرَّآءُ
+    arabic: ٱلضَّرَّآءُ
     translation: the adversity
     transliteration: l-ḍarāu
   13:
-    arabic: وَالسَّرَّآءُ
+    arabic: وَٱلسَّرَّآءُ
     translation: and the ease
     transliteration: wal-sarāu
   14:
-    arabic: فَاَخَذۡنٰهُمۡ
+    arabic: فَأَخَذۡنَٰهُم
     translation: So We seized them
     transliteration: fa-akhadhnāhum
   15:
-    arabic: بَغۡتَةً
+    arabic: بَغۡتَةٗ
     translation: suddenly
     transliteration: baghtatan
   16:
-    arabic: وَّهُمۡ
+    arabic: وَهُمۡ
     translation: while they
     transliteration: wahum
   17:
@@ -75,7 +75,7 @@ word_by_word:
     translation: (did) not
     transliteration: lā
   18:
-    arabic: يَشۡعُرُوۡنَ‏
+    arabic: يَشۡعُرُونَ
     translation: perceive
     transliteration: yashʿurūna
 ---

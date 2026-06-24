@@ -1,11 +1,11 @@
 ---
-arabic_ayat: وَمَنۡ كَانَ فِىۡ هٰذِهٖۤ اَعۡمٰى فَهُوَ فِى الۡاٰخِرَةِ اَعۡمٰى وَاَضَلُّ
-  سَبِيۡلًا‏
+arabic_ayat: وَمَن كَانَ فِي هَٰذِهِۦٓ أَعۡمَىٰ فَهُوَ فِي ٱلۡأٓخِرَةِ أَعۡمَىٰ وَأَضَلُّ
+  سَبِيلٗا
 sentence_translation: But whoever is blind ˹to the truth˺ in this ˹world˺ will be
   blind in the Hereafter, and ˹even˺ far more astray from the ˹Right˺ Way.
 word_by_word:
   1:
-    arabic: وَمَنۡ
+    arabic: وَمَن
     translation: And whoever
     transliteration: waman
   2:
@@ -13,15 +13,15 @@ word_by_word:
     translation: is
     transliteration: kāna
   3:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   4:
-    arabic: هٰذِهٖۤ
+    arabic: هَٰذِهِۦٓ
     translation: this (world)
     transliteration: hādhihi
   5:
-    arabic: اَعۡمٰى
+    arabic: أَعۡمَىٰ
     translation: blind
     transliteration: aʿmā
   6:
@@ -29,23 +29,23 @@ word_by_word:
     translation: then he
     transliteration: fahuwa
   7:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   8:
-    arabic: الۡاٰخِرَةِ
+    arabic: ٱلۡأٓخِرَةِ
     translation: the Hereafter
     transliteration: l-ākhirati
   9:
-    arabic: اَعۡمٰى
+    arabic: أَعۡمَىٰ
     translation: (will be) blind
     transliteration: aʿmā
   10:
-    arabic: وَاَضَلُّ
+    arabic: وَأَضَلُّ
     translation: and more astray
     transliteration: wa-aḍallu
   11:
-    arabic: سَبِيۡلًا‏
+    arabic: سَبِيلٗا
     translation: (from the) path
     transliteration: sabīlan
 ---

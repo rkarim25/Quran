@@ -1,26 +1,26 @@
 ---
-arabic_ayat: اُتۡلُ مَاۤ اُوۡحِىَ اِلَيۡكَ مِنَ الۡكِتٰبِ وَاَقِمِ الصَّلٰوةَ ​ؕ اِنَّ
-  الصَّلٰوةَ تَنۡهٰى عَنِ الۡفَحۡشَآءِ وَالۡمُنۡكَرِ​ؕ وَلَذِكۡرُ اللّٰهِ اَكۡبَرُ
-  ​ؕ وَاللّٰهُ يَعۡلَمُ مَا تَصۡنَعُوۡنَ‏
+arabic_ayat: ٱتۡلُ مَآ أُوحِيَ إِلَيۡكَ مِنَ ٱلۡكِتَٰبِ وَأَقِمِ ٱلصَّلَوٰةَۖ إِنَّ
+  ٱلصَّلَوٰةَ تَنۡهَىٰ عَنِ ٱلۡفَحۡشَآءِ وَٱلۡمُنكَرِۗ وَلَذِكۡرُ ٱللَّهِ أَكۡبَرُۗ
+  وَٱللَّهُ يَعۡلَمُ مَا تَصۡنَعُونَ
 sentence_translation: Recite what has been revealed to you of the Book and establish
   prayer. Indeed, ˹genuine˺ prayer should deter ˹one˺ from indecency and wickedness.
   The remembrance of Allah is ˹an˺ even greater ˹deterrent˺. And Allah ˹fully˺ knows
   what you ˹all˺ do.
 word_by_word:
   1:
-    arabic: اُتۡلُ
+    arabic: ٱتۡلُ
     translation: Recite
     transliteration: ut'lu
   2:
-    arabic: مَاۤ
+    arabic: مَآ
     translation: what
     transliteration: mā
   3:
-    arabic: اُوۡحِىَ
+    arabic: أُوحِيَ
     translation: has been revealed
     transliteration: ūḥiya
   4:
-    arabic: اِلَيۡكَ
+    arabic: إِلَيۡكَ
     translation: to you
     transliteration: ilayka
   5:
@@ -28,27 +28,27 @@ word_by_word:
     translation: of
     transliteration: mina
   6:
-    arabic: الۡكِتٰبِ
+    arabic: ٱلۡكِتَٰبِ
     translation: the Book
     transliteration: l-kitābi
   7:
-    arabic: وَاَقِمِ
+    arabic: وَأَقِمِ
     translation: and establish
     transliteration: wa-aqimi
   8:
-    arabic: الصَّلٰوةَ ​ؕ
+    arabic: ٱلصَّلَوٰةَۖ
     translation: the prayer
     transliteration: l-ṣalata
   9:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   10:
-    arabic: الصَّلٰوةَ
+    arabic: ٱلصَّلَوٰةَ
     translation: the prayer
     transliteration: l-ṣalata
   11:
-    arabic: تَنۡهٰى
+    arabic: تَنۡهَىٰ
     translation: prevents
     transliteration: tanhā
   12:
@@ -56,11 +56,11 @@ word_by_word:
     translation: from
     transliteration: ʿani
   13:
-    arabic: الۡفَحۡشَآءِ
+    arabic: ٱلۡفَحۡشَآءِ
     translation: the immorality
     transliteration: l-faḥshāi
   14:
-    arabic: وَالۡمُنۡكَرِ​ؕ
+    arabic: وَٱلۡمُنكَرِۗ
     translation: and evil deeds
     transliteration: wal-munkari
   15:
@@ -68,15 +68,15 @@ word_by_word:
     translation: and surely (the) remembrance
     transliteration: waladhik'ru
   16:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (of) Allah
     transliteration: l-lahi
   17:
-    arabic: اَكۡبَرُ ​ؕ
+    arabic: أَكۡبَرُۗ
     translation: (is) greatest
     transliteration: akbaru
   18:
-    arabic: وَاللّٰهُ
+    arabic: وَٱللَّهُ
     translation: And Allah
     transliteration: wal-lahu
   19:
@@ -88,7 +88,7 @@ word_by_word:
     translation: what
     transliteration: mā
   21:
-    arabic: تَصۡنَعُوۡنَ‏
+    arabic: تَصۡنَعُونَ
     translation: you do
     transliteration: taṣnaʿūna
 ---

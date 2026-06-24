@@ -1,6 +1,6 @@
 ---
-arabic_ayat: فَخَرَجَ عَلٰى قَوۡمِهٖ مِنَ الۡمِحۡرَابِ فَاَوۡحٰٓى اِلَيۡهِمۡ اَنۡ
-  سَبِّحُوۡا بُكۡرَةً وَّعَشِيًّا‏
+arabic_ayat: فَخَرَجَ عَلَىٰ قَوۡمِهِۦ مِنَ ٱلۡمِحۡرَابِ فَأَوۡحَىٰٓ إِلَيۡهِمۡ أَن
+  سَبِّحُواْ بُكۡرَةٗ وَعَشِيّٗا
 sentence_translation: So he came out to his people from the sanctuary, signalling
   to them to glorify ˹Allah˺ morning and evening.
 word_by_word:
@@ -9,11 +9,11 @@ word_by_word:
     translation: Then he came out
     transliteration: fakharaja
   2:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: to
     transliteration: ʿalā
   3:
-    arabic: قَوۡمِهٖ
+    arabic: قَوۡمِهِۦ
     translation: his people
     transliteration: qawmihi
   4:
@@ -21,31 +21,31 @@ word_by_word:
     translation: from
     transliteration: mina
   5:
-    arabic: الۡمِحۡرَابِ
+    arabic: ٱلۡمِحۡرَابِ
     translation: the prayer chamber
     transliteration: l-miḥ'rābi
   6:
-    arabic: فَاَوۡحٰٓى
+    arabic: فَأَوۡحَىٰٓ
     translation: and he signaled
     transliteration: fa-awḥā
   7:
-    arabic: اِلَيۡهِمۡ
+    arabic: إِلَيۡهِمۡ
     translation: to them
     transliteration: ilayhim
   8:
-    arabic: اَنۡ
+    arabic: أَن
     translation: to
     transliteration: an
   9:
-    arabic: سَبِّحُوۡا
+    arabic: سَبِّحُواْ
     translation: glorify (Allah)
     transliteration: sabbiḥū
   10:
-    arabic: بُكۡرَةً
+    arabic: بُكۡرَةٗ
     translation: (in) the morning
     transliteration: buk'ratan
   11:
-    arabic: وَّعَشِيًّا‏
+    arabic: وَعَشِيّٗا
     translation: and (in) the evening
     transliteration: waʿashiyyan
 ---

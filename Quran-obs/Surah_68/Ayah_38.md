@@ -1,17 +1,17 @@
 ---
-arabic_ayat: اِنَّ لَـكُمۡ فِيۡهِ لَمَا تَخَيَّرُوۡنَ​ۚ‏
+arabic_ayat: إِنَّ لَكُمۡ فِيهِ لَمَا تَخَيَّرُونَ
 sentence_translation: that you will have whatever you choose?
 word_by_word:
   1:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   2:
-    arabic: لَـكُمۡ
+    arabic: لَكُمۡ
     translation: for you
     transliteration: lakum
   3:
-    arabic: فِيۡهِ
+    arabic: فِيهِ
     translation: in it
     transliteration: fīhi
   4:
@@ -19,7 +19,7 @@ word_by_word:
     translation: what
     transliteration: lamā
   5:
-    arabic: تَخَيَّرُوۡنَ​ۚ‏
+    arabic: تَخَيَّرُونَ
     translation: you choose
     transliteration: takhayyarūna
 ---

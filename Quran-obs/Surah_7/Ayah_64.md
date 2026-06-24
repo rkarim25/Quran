@@ -1,55 +1,55 @@
 ---
-arabic_ayat: فَكَذَّبُوۡهُ فَاَنۡجَيۡنٰهُ وَالَّذِيۡنَ مَعَهٗ فِى الۡفُلۡكِ وَاَغۡرَقۡنَا
-  الَّذِيۡنَ كَذَّبُوۡا بِاٰيٰتِنَا​ ؕ اِنَّهُمۡ كَانُوۡا قَوۡمًا عَمِيۡنَ‏
+arabic_ayat: فَكَذَّبُوهُ فَأَنجَيۡنَٰهُ وَٱلَّذِينَ مَعَهُۥ فِي ٱلۡفُلۡكِ وَأَغۡرَقۡنَا
+  ٱلَّذِينَ كَذَّبُواْ بِـَٔايَٰتِنَآۚ إِنَّهُمۡ كَانُواْ قَوۡمًا عَمِينَ
 sentence_translation: But they rejected him, so We saved him and those with him in
   the Ark, and drowned those who rejected Our signs. They were certainly a blind people.
 word_by_word:
   1:
-    arabic: فَكَذَّبُوۡهُ
+    arabic: فَكَذَّبُوهُ
     translation: But they denied him
     transliteration: fakadhabūhu
   2:
-    arabic: فَاَنۡجَيۡنٰهُ
+    arabic: فَأَنجَيۡنَٰهُ
     translation: so We saved him
     transliteration: fa-anjaynāhu
   3:
-    arabic: وَالَّذِيۡنَ
+    arabic: وَٱلَّذِينَ
     translation: and those who
     transliteration: wa-alladhīna
   4:
-    arabic: مَعَهٗ
+    arabic: مَعَهُۥ
     translation: (were) with him
     transliteration: maʿahu
   5:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   6:
-    arabic: الۡفُلۡكِ
+    arabic: ٱلۡفُلۡكِ
     translation: the ship
     transliteration: l-ful'ki
   7:
-    arabic: وَاَغۡرَقۡنَا
+    arabic: وَأَغۡرَقۡنَا
     translation: And We drowned
     transliteration: wa-aghraqnā
   8:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   9:
-    arabic: كَذَّبُوۡا
+    arabic: كَذَّبُواْ
     translation: denied
     transliteration: kadhabū
   10:
-    arabic: بِاٰيٰتِنَا​ ؕ
+    arabic: بِـَٔايَٰتِنَآۚ
     translation: Our Verses
     transliteration: biāyātinā
   11:
-    arabic: اِنَّهُمۡ
+    arabic: إِنَّهُمۡ
     translation: Indeed, they
     transliteration: innahum
   12:
-    arabic: كَانُوۡا
+    arabic: كَانُواْ
     translation: were
     transliteration: kānū
   13:
@@ -57,7 +57,7 @@ word_by_word:
     translation: a people
     transliteration: qawman
   14:
-    arabic: عَمِيۡنَ‏
+    arabic: عَمِينَ
     translation: blind
     transliteration: ʿamīna
 ---

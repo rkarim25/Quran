@@ -1,6 +1,6 @@
 ---
-arabic_ayat: فَمَكَثَ غَيۡرَ بَعِيۡدٍ فَقَالَ اَحَطْتُّ بِمَا لَمۡ تُحِطۡ بِهٖ وَ
-  جِئۡتُكَ مِنۡ سَبَاٍۢ بِنَبَاٍ يَّقِيۡنٍ‏
+arabic_ayat: فَمَكَثَ غَيۡرَ بَعِيدٖ فَقَالَ أَحَطتُ بِمَا لَمۡ تُحِطۡ بِهِۦ وَجِئۡتُكَ
+  مِن سَبَإِۭ بِنَبَإٖ يَقِينٍ
 sentence_translation: It was not long before the bird came and said, “I have found
   out something you do not know. I have just come to you from Sheba with sure news.
 word_by_word:
@@ -13,7 +13,7 @@ word_by_word:
     translation: not
     transliteration: ghayra
   3:
-    arabic: بَعِيۡدٍ
+    arabic: بَعِيدٖ
     translation: long
     transliteration: baʿīdin
   4:
@@ -21,7 +21,7 @@ word_by_word:
     translation: and he said
     transliteration: faqāla
   5:
-    arabic: اَحَطْتُّ
+    arabic: أَحَطتُ
     translation: I have encompassed
     transliteration: aḥaṭtu
   6:
@@ -37,27 +37,27 @@ word_by_word:
     translation: you have encompassed
     transliteration: tuḥiṭ
   9:
-    arabic: بِهٖ
+    arabic: بِهِۦ
     translation: it
     transliteration: bihi
   10:
-    arabic: وَ جِئۡتُكَ
+    arabic: وَجِئۡتُكَ
     translation: and I have come to you
     transliteration: waji'tuka
   11:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   12:
-    arabic: سَبَاٍۢ
+    arabic: سَبَإِۭ
     translation: Saba
     transliteration: saba-in
   13:
-    arabic: بِنَبَاٍ
+    arabic: بِنَبَإٖ
     translation: with news
     transliteration: binaba-in
   14:
-    arabic: يَّقِيۡنٍ‏
+    arabic: يَقِينٍ
     translation: certain
     transliteration: yaqīnin
 ---

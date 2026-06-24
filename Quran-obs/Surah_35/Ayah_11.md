@@ -1,27 +1,27 @@
 ---
-arabic_ayat: وَاللّٰهُ خَلَقَكُمۡ مِّنۡ تُرَابٍ ثُمَّ مِنۡ نُّطۡفَةٍ ثُمَّ جَعَلَـكُمۡ
-  اَزۡوَاجًا ؕ وَمَا تَحۡمِلُ مِنۡ اُنۡثٰى وَلَا تَضَعُ اِلَّا بِعِلۡمِهؕ وَمَا يُعَمَّرُ
-  مِنۡ مُّعَمَّرٍ وَّلَا يُنۡقَصُ مِنۡ عُمُرِهٖۤ اِلَّا فِىۡ كِتٰبٍؕ اِنَّ ذٰلِكَ
-  عَلَى اللّٰهِ يَسِيۡرٌ‏
+arabic_ayat: وَٱللَّهُ خَلَقَكُم مِّن تُرَابٖ ثُمَّ مِن نُّطۡفَةٖ ثُمَّ جَعَلَكُمۡ
+  أَزۡوَٰجٗاۚ وَمَا تَحۡمِلُ مِنۡ أُنثَىٰ وَلَا تَضَعُ إِلَّا بِعِلۡمِهِۦۚ وَمَا يُعَمَّرُ
+  مِن مُّعَمَّرٖ وَلَا يُنقَصُ مِنۡ عُمُرِهِۦٓ إِلَّا فِي كِتَٰبٍۚ إِنَّ ذَٰلِكَ عَلَى
+  ٱللَّهِ يَسِيرٞ
 sentence_translation: And ˹it is˺ Allah ˹Who˺ created you from dust, then ˹developed
   you˺ from a sperm-drop, then made you into pairs. No female ever conceives or delivers
   without His knowledge. And no one’s life is made long or cut short but is ˹written˺
   in a Record. That is certainly easy for Allah.
 word_by_word:
   1:
-    arabic: وَاللّٰهُ
+    arabic: وَٱللَّهُ
     translation: And Allah
     transliteration: wal-lahu
   2:
-    arabic: خَلَقَكُمۡ
+    arabic: خَلَقَكُم
     translation: created you
     transliteration: khalaqakum
   3:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: from
     transliteration: min
   4:
-    arabic: تُرَابٍ
+    arabic: تُرَابٖ
     translation: dust
     transliteration: turābin
   5:
@@ -29,11 +29,11 @@ word_by_word:
     translation: then
     transliteration: thumma
   6:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   7:
-    arabic: نُّطۡفَةٍ
+    arabic: نُّطۡفَةٖ
     translation: a semen-drop
     transliteration: nuṭ'fatin
   8:
@@ -41,11 +41,11 @@ word_by_word:
     translation: then
     transliteration: thumma
   9:
-    arabic: جَعَلَـكُمۡ
+    arabic: جَعَلَكُمۡ
     translation: He made you
     transliteration: jaʿalakum
   10:
-    arabic: اَزۡوَاجًا ؕ
+    arabic: أَزۡوَٰجٗاۚ
     translation: pairs
     transliteration: azwājan
   11:
@@ -61,7 +61,7 @@ word_by_word:
     translation: any
     transliteration: min
   14:
-    arabic: اُنۡثٰى
+    arabic: أُنثَىٰ
     translation: female
     transliteration: unthā
   15:
@@ -73,11 +73,11 @@ word_by_word:
     translation: gives birth
     transliteration: taḍaʿu
   17:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   18:
-    arabic: بِعِلۡمِهؕ
+    arabic: بِعِلۡمِهِۦۚ
     translation: with His knowledge
     transliteration: biʿil'mihi
   19:
@@ -89,19 +89,19 @@ word_by_word:
     translation: is granted life
     transliteration: yuʿammaru
   21:
-    arabic: مِنۡ
+    arabic: مِن
     translation: any
     transliteration: min
   22:
-    arabic: مُّعَمَّرٍ
+    arabic: مُّعَمَّرٖ
     translation: aged person
     transliteration: muʿammarin
   23:
-    arabic: وَّلَا
+    arabic: وَلَا
     translation: and not
     transliteration: walā
   24:
-    arabic: يُنۡقَصُ
+    arabic: يُنقَصُ
     translation: is lessened
     transliteration: yunqaṣu
   25:
@@ -109,27 +109,27 @@ word_by_word:
     translation: from
     transliteration: min
   26:
-    arabic: عُمُرِهٖۤ
+    arabic: عُمُرِهِۦٓ
     translation: his life
     transliteration: ʿumurihi
   27:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: but
     transliteration: illā
   28:
-    arabic: فِىۡ
+    arabic: فِي
     translation: (is) in
     transliteration: fī
   29:
-    arabic: كِتٰبٍؕ
+    arabic: كِتَٰبٍۚ
     translation: a Register
     transliteration: kitābin
   30:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   31:
-    arabic: ذٰلِكَ
+    arabic: ذَٰلِكَ
     translation: that
     transliteration: dhālika
   32:
@@ -137,11 +137,11 @@ word_by_word:
     translation: for
     transliteration: ʿalā
   33:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   34:
-    arabic: يَسِيۡرٌ‏
+    arabic: يَسِيرٞ
     translation: (is) easy
     transliteration: yasīrun
 ---

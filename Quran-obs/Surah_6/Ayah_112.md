@@ -1,14 +1,14 @@
 ---
-arabic_ayat: وَكَذٰلِكَ جَعَلۡنَا لِكُلِّ نَبِىٍّ عَدُوًّا شَيٰطِيۡنَ الۡاِنۡسِ وَالۡجِنِّ
-  يُوۡحِىۡ بَعۡضُهُمۡ اِلٰى بَعۡضٍ زُخۡرُفَ الۡقَوۡلِ غُرُوۡرًا​ ؕ وَلَوۡ شَآءَ رَبُّكَ
-  مَا فَعَلُوۡهُ​ فَذَرۡهُمۡ وَمَا يَفۡتَرُوۡنَ‏
+arabic_ayat: وَكَذَٰلِكَ جَعَلۡنَا لِكُلِّ نَبِيٍّ عَدُوّٗا شَيَٰطِينَ ٱلۡإِنسِ وَٱلۡجِنِّ
+  يُوحِي بَعۡضُهُمۡ إِلَىٰ بَعۡضٖ زُخۡرُفَ ٱلۡقَوۡلِ غُرُورٗاۚ وَلَوۡ شَآءَ رَبُّكَ
+  مَا فَعَلُوهُۖ فَذَرۡهُمۡ وَمَا يَفۡتَرُونَ
 sentence_translation: And so We have made for every prophet enemies—devilish humans
   and jinn—whispering to one another with elegant words of deception. Had it been
   your Lord’s Will, they would not have done such a thing. So leave them and their
   deceit,
 word_by_word:
   1:
-    arabic: وَكَذٰلِكَ
+    arabic: وَكَذَٰلِكَ
     translation: And thus
     transliteration: wakadhālika
   2:
@@ -20,27 +20,27 @@ word_by_word:
     translation: for every
     transliteration: likulli
   4:
-    arabic: نَبِىٍّ
+    arabic: نَبِيٍّ
     translation: Prophet
     transliteration: nabiyyin
   5:
-    arabic: عَدُوًّا
+    arabic: عَدُوّٗا
     translation: 'an enemy '
     transliteration: ʿaduwwan
   6:
-    arabic: شَيٰطِيۡنَ
+    arabic: شَيَٰطِينَ
     translation: devils
     transliteration: shayāṭīna
   7:
-    arabic: الۡاِنۡسِ
+    arabic: ٱلۡإِنسِ
     translation: (from) the mankind
     transliteration: l-insi
   8:
-    arabic: وَالۡجِنِّ
+    arabic: وَٱلۡجِنِّ
     translation: and the jinn
     transliteration: wal-jini
   9:
-    arabic: يُوۡحِىۡ
+    arabic: يُوحِي
     translation: inspiring
     transliteration: yūḥī
   10:
@@ -48,11 +48,11 @@ word_by_word:
     translation: some of them
     transliteration: baʿḍuhum
   11:
-    arabic: اِلٰى
+    arabic: إِلَىٰ
     translation: to
     transliteration: ilā
   12:
-    arabic: بَعۡضٍ
+    arabic: بَعۡضٖ
     translation: others
     transliteration: baʿḍin
   13:
@@ -60,11 +60,11 @@ word_by_word:
     translation: (with) decorative
     transliteration: zukh'rufa
   14:
-    arabic: الۡقَوۡلِ
+    arabic: ٱلۡقَوۡلِ
     translation: '[the] speech'
     transliteration: l-qawli
   15:
-    arabic: غُرُوۡرًا​ ؕ
+    arabic: غُرُورٗاۚ
     translation: (in) deception
     transliteration: ghurūran
   16:
@@ -84,7 +84,7 @@ word_by_word:
     translation: not
     transliteration: mā
   20:
-    arabic: فَعَلُوۡهُ​
+    arabic: فَعَلُوهُۖ
     translation: they (would) have done it
     transliteration: faʿalūhu
   21:
@@ -96,7 +96,7 @@ word_by_word:
     translation: and what
     transliteration: wamā
   23:
-    arabic: يَفۡتَرُوۡنَ‏
+    arabic: يَفۡتَرُونَ
     translation: they invent
     transliteration: yaftarūna
 ---

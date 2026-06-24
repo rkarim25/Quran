@@ -1,32 +1,32 @@
 ---
-arabic_ayat: قَالُوۡا يٰمُوۡسٰٓى اِنَّا لَنۡ نَّدۡخُلَهَاۤ اَبَدًا مَّا دَامُوۡا فِيۡهَا​
-  فَاذۡهَبۡ اَنۡتَ وَرَبُّكَ فَقَاتِلَاۤ اِنَّا هٰهُنَا قَاعِدُوۡنَ‏
+arabic_ayat: قَالُواْ يَٰمُوسَىٰٓ إِنَّا لَن نَّدۡخُلَهَآ أَبَدٗا مَّا دَامُواْ فِيهَا
+  فَٱذۡهَبۡ أَنتَ وَرَبُّكَ فَقَٰتِلَآ إِنَّا هَٰهُنَا قَٰعِدُونَ
 sentence_translation: ˹Yet˺ they said, “O Moses! ˹Still˺ we will never enter as long
   as they remain there. So go—both you and your Lord—and fight; we are staying right
   here!”
 word_by_word:
   1:
-    arabic: قَالُوۡا
+    arabic: قَالُواْ
     translation: They said
     transliteration: qālū
   2:
-    arabic: يٰمُوۡسٰٓى
+    arabic: يَٰمُوسَىٰٓ
     translation: O Musa
     transliteration: yāmūsā
   3:
-    arabic: اِنَّا
+    arabic: إِنَّا
     translation: Indeed, we
     transliteration: innā
   4:
-    arabic: لَنۡ
+    arabic: لَن
     translation: never
     transliteration: lan
   5:
-    arabic: نَّدۡخُلَهَاۤ
+    arabic: نَّدۡخُلَهَآ
     translation: will enter it
     transliteration: nadkhulahā
   6:
-    arabic: اَبَدًا
+    arabic: أَبَدٗا
     translation: ever
     transliteration: abadan
   7:
@@ -34,19 +34,19 @@ word_by_word:
     translation: for
     transliteration: mā
   8:
-    arabic: دَامُوۡا
+    arabic: دَامُواْ
     translation: as long as they are
     transliteration: dāmū
   9:
-    arabic: فِيۡهَا​
+    arabic: فِيهَا
     translation: in it
     transliteration: fīhā
   10:
-    arabic: فَاذۡهَبۡ
+    arabic: فَٱذۡهَبۡ
     translation: So go
     transliteration: fa-idh'hab
   11:
-    arabic: اَنۡتَ
+    arabic: أَنتَ
     translation: you
     transliteration: anta
   12:
@@ -54,19 +54,19 @@ word_by_word:
     translation: and your Lord
     transliteration: warabbuka
   13:
-    arabic: فَقَاتِلَاۤ
+    arabic: فَقَٰتِلَآ
     translation: and you both fight
     transliteration: faqātilā
   14:
-    arabic: اِنَّا
+    arabic: إِنَّا
     translation: Indeed, we
     transliteration: innā
   15:
-    arabic: هٰهُنَا
+    arabic: هَٰهُنَا
     translation: are [here]
     transliteration: hāhunā
   16:
-    arabic: قَاعِدُوۡنَ‏
+    arabic: قَٰعِدُونَ
     translation: sitting
     transliteration: qāʿidūna
 ---

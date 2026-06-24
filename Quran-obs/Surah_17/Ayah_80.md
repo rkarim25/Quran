@@ -1,11 +1,11 @@
 ---
-arabic_ayat: وَقُلْ رَّبِّ اَدۡخِلۡنِىۡ مُدۡخَلَ صِدۡقٍ وَّ اَخۡرِجۡنِىۡ مُخۡرَجَ
-  صِدۡقٍ وَّاجۡعَلْ لِّىۡ مِنۡ لَّدُنۡكَ سُلۡطٰنًا نَّصِيۡرًا‏
+arabic_ayat: وَقُل رَّبِّ أَدۡخِلۡنِي مُدۡخَلَ صِدۡقٖ وَأَخۡرِجۡنِي مُخۡرَجَ صِدۡقٖ
+  وَٱجۡعَل لِّي مِن لَّدُنكَ سُلۡطَٰنٗا نَّصِيرٗا
 sentence_translation: And say, “My Lord! Grant me an honourable entrance and an honourable
   exit and give me a supporting authority from Yourself.”
 word_by_word:
   1:
-    arabic: وَقُلْ
+    arabic: وَقُل
     translation: And say
     transliteration: waqul
   2:
@@ -13,7 +13,7 @@ word_by_word:
     translation: My Lord
     transliteration: rabbi
   3:
-    arabic: اَدۡخِلۡنِىۡ
+    arabic: أَدۡخِلۡنِي
     translation: Cause me to enter
     transliteration: adkhil'nī
   4:
@@ -21,11 +21,11 @@ word_by_word:
     translation: an entrance
     transliteration: mud'khala
   5:
-    arabic: صِدۡقٍ
+    arabic: صِدۡقٖ
     translation: sound
     transliteration: ṣid'qin
   6:
-    arabic: وَّ اَخۡرِجۡنِىۡ
+    arabic: وَأَخۡرِجۡنِي
     translation: and cause me to exit
     transliteration: wa-akhrij'nī
   7:
@@ -33,31 +33,31 @@ word_by_word:
     translation: an exit
     transliteration: mukh'raja
   8:
-    arabic: صِدۡقٍ
+    arabic: صِدۡقٖ
     translation: sound
     transliteration: ṣid'qin
   9:
-    arabic: وَّاجۡعَلْ
+    arabic: وَٱجۡعَل
     translation: and make
     transliteration: wa-ij'ʿal
   10:
-    arabic: لِّىۡ
+    arabic: لِّي
     translation: for me
     transliteration: lī
   11:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   12:
-    arabic: لَّدُنۡكَ
+    arabic: لَّدُنكَ
     translation: near You
     transliteration: ladunka
   13:
-    arabic: سُلۡطٰنًا
+    arabic: سُلۡطَٰنٗا
     translation: an authority
     transliteration: sul'ṭānan
   14:
-    arabic: نَّصِيۡرًا‏
+    arabic: نَّصِيرٗا
     translation: helping
     transliteration: naṣīran
 ---

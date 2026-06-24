@@ -1,13 +1,13 @@
 ---
-arabic_ayat: فَاَقِمۡ وَجۡهَكَ لِلدِّيۡنِ حَنِيۡفًا ​ؕ فِطۡرَتَ اللّٰهِ الَّتِىۡ فَطَرَ
-  النَّاسَ عَلَيۡهَا ​ؕ لَا تَبۡدِيۡلَ لِخَـلۡقِ اللّٰهِ​ ؕ ذٰ لِكَ الدِّيۡنُ الۡقَيِّمُ
-  ۙ  وَلٰـكِنَّ اَكۡثَرَ النَّاسِ لَا يَعۡلَمُوۡنَ ۙ ‏
+arabic_ayat: فَأَقِمۡ وَجۡهَكَ لِلدِّينِ حَنِيفٗاۚ فِطۡرَتَ ٱللَّهِ ٱلَّتِي فَطَرَ
+  ٱلنَّاسَ عَلَيۡهَاۚ لَا تَبۡدِيلَ لِخَلۡقِ ٱللَّهِۚ ذَٰلِكَ ٱلدِّينُ ٱلۡقَيِّمُ
+  وَلَٰكِنَّ أَكۡثَرَ ٱلنَّاسِ لَا يَعۡلَمُونَ
 sentence_translation: So be steadfast in faith in all uprightness ˹O Prophet˺—the
   natural Way of Allah which He has instilled in ˹all˺ people. Let there be no change
   in this creation of Allah. That is the Straight Way, but most people do not know.
 word_by_word:
   1:
-    arabic: فَاَقِمۡ
+    arabic: فَأَقِمۡ
     translation: So set
     transliteration: fa-aqim
   2:
@@ -15,11 +15,11 @@ word_by_word:
     translation: your face
     transliteration: wajhaka
   3:
-    arabic: لِلدِّيۡنِ
+    arabic: لِلدِّينِ
     translation: to the religion
     transliteration: lilddīni
   4:
-    arabic: حَنِيۡفًا ​ؕ
+    arabic: حَنِيفٗاۚ
     translation: upright
     transliteration: ḥanīfan
   5:
@@ -27,11 +27,11 @@ word_by_word:
     translation: Nature
     transliteration: fiṭ'rata
   6:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (made by) Allah
     transliteration: l-lahi
   7:
-    arabic: الَّتِىۡ
+    arabic: ٱلَّتِي
     translation: (upon) which
     transliteration: allatī
   8:
@@ -39,11 +39,11 @@ word_by_word:
     translation: He has created
     transliteration: faṭara
   9:
-    arabic: النَّاسَ
+    arabic: ٱلنَّاسَ
     translation: mankind
     transliteration: l-nāsa
   10:
-    arabic: عَلَيۡهَا ​ؕ
+    arabic: عَلَيۡهَاۚ
     translation: '[on it]'
     transliteration: ʿalayhā
   11:
@@ -51,39 +51,39 @@ word_by_word:
     translation: 'No'
     transliteration: lā
   12:
-    arabic: تَبۡدِيۡلَ
+    arabic: تَبۡدِيلَ
     translation: change
     transliteration: tabdīla
   13:
-    arabic: لِخَـلۡقِ
+    arabic: لِخَلۡقِ
     translation: (should there be) in the creation
     transliteration: likhalqi
   14:
-    arabic: اللّٰهِ​ ؕ
+    arabic: ٱللَّهِۚ
     translation: (of) Allah
     transliteration: l-lahi
   15:
-    arabic: ذٰ لِكَ
+    arabic: ذَٰلِكَ
     translation: That
     transliteration: dhālika
   16:
-    arabic: الدِّيۡنُ
+    arabic: ٱلدِّينُ
     translation: (is) the religion
     transliteration: l-dīnu
   17:
-    arabic: الۡقَيِّمُ ۙ 
+    arabic: ٱلۡقَيِّمُ
     translation: the correct
     transliteration: l-qayimu
   18:
-    arabic: وَلٰـكِنَّ
+    arabic: وَلَٰكِنَّ
     translation: but
     transliteration: walākinna
   19:
-    arabic: اَكۡثَرَ
+    arabic: أَكۡثَرَ
     translation: most
     transliteration: akthara
   20:
-    arabic: النَّاسِ
+    arabic: ٱلنَّاسِ
     translation: men
     transliteration: l-nāsi
   21:
@@ -91,7 +91,7 @@ word_by_word:
     translation: (do) not
     transliteration: lā
   22:
-    arabic: يَعۡلَمُوۡنَ ۙ ‏
+    arabic: يَعۡلَمُونَ
     translation: know
     transliteration: yaʿlamūna
 ---

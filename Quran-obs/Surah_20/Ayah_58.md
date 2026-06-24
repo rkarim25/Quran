@@ -1,23 +1,23 @@
 ---
-arabic_ayat: فَلَنَاۡتِيَنَّكَ بِسِحۡرٍ مِّثۡلِهٖ فَاجۡعَلۡ بَيۡنَنَا وَبَيۡنَكَ مَوۡعِدًا
-  لَّا نُخۡلِفُهٗ نَحۡنُ وَلَاۤ اَنۡتَ مَكَانًـا سُوًى‏
+arabic_ayat: فَلَنَأۡتِيَنَّكَ بِسِحۡرٖ مِّثۡلِهِۦ فَٱجۡعَلۡ بَيۡنَنَا وَبَيۡنَكَ
+  مَوۡعِدٗا لَّا نُخۡلِفُهُۥ نَحۡنُ وَلَآ أَنتَ مَكَانٗا سُوٗى
 sentence_translation: We can surely meet you with similar magic. So set for us an
   appointment that neither of us will fail to keep, in a central place.”
 word_by_word:
   1:
-    arabic: فَلَنَاۡتِيَنَّكَ
+    arabic: فَلَنَأۡتِيَنَّكَ
     translation: Then we will surely produce for you
     transliteration: falanatiyannaka
   2:
-    arabic: بِسِحۡرٍ
+    arabic: بِسِحۡرٖ
     translation: magic
     transliteration: bisiḥ'rin
   3:
-    arabic: مِّثۡلِهٖ
+    arabic: مِّثۡلِهِۦ
     translation: like it
     transliteration: mith'lihi
   4:
-    arabic: فَاجۡعَلۡ
+    arabic: فَٱجۡعَلۡ
     translation: So make
     transliteration: fa-ij'ʿal
   5:
@@ -29,7 +29,7 @@ word_by_word:
     translation: and between you
     transliteration: wabaynaka
   7:
-    arabic: مَوۡعِدًا
+    arabic: مَوۡعِدٗا
     translation: an appointment
     transliteration: mawʿidan
   8:
@@ -37,7 +37,7 @@ word_by_word:
     translation: not
     transliteration: lā
   9:
-    arabic: نُخۡلِفُهٗ
+    arabic: نُخۡلِفُهُۥ
     translation: we will fail it
     transliteration: nukh'lifuhu
   10:
@@ -45,19 +45,19 @@ word_by_word:
     translation: '[we]'
     transliteration: naḥnu
   11:
-    arabic: وَلَاۤ
+    arabic: وَلَآ
     translation: and not
     transliteration: walā
   12:
-    arabic: اَنۡتَ
+    arabic: أَنتَ
     translation: you
     transliteration: anta
   13:
-    arabic: مَكَانًـا
+    arabic: مَكَانٗا
     translation: (in) a place
     transliteration: makānan
   14:
-    arabic: سُوًى‏
+    arabic: سُوٗى
     translation: even
     transliteration: suwan
 ---

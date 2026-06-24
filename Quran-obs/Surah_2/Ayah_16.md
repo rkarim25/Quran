@@ -1,27 +1,27 @@
 ---
-arabic_ayat: اُولٰٓٮِٕكَ الَّذِيۡنَ اشۡتَرَوُا الضَّلٰلَةَ بِالۡهُدٰى فَمَا رَبِحَتۡ
-  تِّجَارَتُهُمۡ وَمَا كَانُوۡا مُهۡتَدِيۡنَ‏
+arabic_ayat: أُوْلَٰٓئِكَ ٱلَّذِينَ ٱشۡتَرَوُاْ ٱلضَّلَٰلَةَ بِٱلۡهُدَىٰ فَمَا رَبِحَت
+  تِّجَٰرَتُهُمۡ وَمَا كَانُواْ مُهۡتَدِينَ
 sentence_translation: They are the ones who trade guidance for misguidance. But this
   trade is profitless, and they are not ˹rightly˺ guided.
 word_by_word:
   1:
-    arabic: اُولٰٓٮِٕكَ
+    arabic: أُوْلَٰٓئِكَ
     translation: Those
     transliteration: ulāika
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: (are) the ones who
     transliteration: alladhīna
   3:
-    arabic: اشۡتَرَوُا
+    arabic: ٱشۡتَرَوُاْ
     translation: bought
     transliteration: ish'tarawū
   4:
-    arabic: الضَّلٰلَةَ
+    arabic: ٱلضَّلَٰلَةَ
     translation: '[the] astraying'
     transliteration: l-ḍalālata
   5:
-    arabic: بِالۡهُدٰى
+    arabic: بِٱلۡهُدَىٰ
     translation: for [the] guidance
     transliteration: bil-hudā
   6:
@@ -29,11 +29,11 @@ word_by_word:
     translation: So not
     transliteration: famā
   7:
-    arabic: رَبِحَتۡ
+    arabic: رَبِحَت
     translation: profited
     transliteration: rabiḥat
   8:
-    arabic: تِّجَارَتُهُمۡ
+    arabic: تِّجَٰرَتُهُمۡ
     translation: their commerce
     transliteration: tijāratuhum
   9:
@@ -41,11 +41,11 @@ word_by_word:
     translation: and not
     transliteration: wamā
   10:
-    arabic: كَانُوۡا
+    arabic: كَانُواْ
     translation: were they
     transliteration: kānū
   11:
-    arabic: مُهۡتَدِيۡنَ‏
+    arabic: مُهۡتَدِينَ
     translation: guided-ones
     transliteration: muh'tadīna
 ---

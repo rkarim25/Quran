@@ -1,82 +1,82 @@
 ---
-arabic_ayat: قُلْ لَّاۤ اَقُوۡلُ لَـكُمۡ عِنۡدِىۡ خَزَآٮِٕنُ اللّٰهِ وَلَاۤ اَعۡلَمُ
-  الۡغَيۡبَ وَلَاۤ اَقُوۡلُ لَـكُمۡ اِنِّىۡ مَلَكٌ​ ۚ اِنۡ اَتَّبِعُ اِلَّا مَا يُوۡحٰٓى
-  اِلَىَّ​ ؕ قُلۡ هَلۡ يَسۡتَوِى الۡاَعۡمٰى وَالۡبَصِيۡرُ​ ؕ اَفَلَا تَتَفَكَّرُوۡنَ‏
+arabic_ayat: قُل لَّآ أَقُولُ لَكُمۡ عِندِي خَزَآئِنُ ٱللَّهِ وَلَآ أَعۡلَمُ ٱلۡغَيۡبَ
+  وَلَآ أَقُولُ لَكُمۡ إِنِّي مَلَكٌۖ إِنۡ أَتَّبِعُ إِلَّا مَا يُوحَىٰٓ إِلَيَّۚ
+  قُلۡ هَلۡ يَسۡتَوِي ٱلۡأَعۡمَىٰ وَٱلۡبَصِيرُۚ أَفَلَا تَتَفَكَّرُونَ
 sentence_translation: Say, ˹O Prophet,˺ “I do not say to you that I possess Allah’s
   treasuries or know the unseen, nor do I claim to be an angel. I only follow what
   is revealed to me.” Say, “Are those blind ˹to the truth˺ equal to those who can
   see? Will you not then reflect?”
 word_by_word:
   1:
-    arabic: قُلْ
+    arabic: قُل
     translation: Say
     transliteration: qul
   2:
-    arabic: لَّاۤ
+    arabic: لَّآ
     translation: Not
     transliteration: lā
   3:
-    arabic: اَقُوۡلُ
+    arabic: أَقُولُ
     translation: (do) I say
     transliteration: aqūlu
   4:
-    arabic: لَـكُمۡ
+    arabic: لَكُمۡ
     translation: to you
     transliteration: lakum
   5:
-    arabic: عِنۡدِىۡ
+    arabic: عِندِي
     translation: (that) with me
     transliteration: ʿindī
   6:
-    arabic: خَزَآٮِٕنُ
+    arabic: خَزَآئِنُ
     translation: (are the) treasures
     transliteration: khazāinu
   7:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (of) Allah
     transliteration: l-lahi
   8:
-    arabic: وَلَاۤ
+    arabic: وَلَآ
     translation: and not
     transliteration: walā
   9:
-    arabic: اَعۡلَمُ
+    arabic: أَعۡلَمُ
     translation: (that) I know
     transliteration: aʿlamu
   10:
-    arabic: الۡغَيۡبَ
+    arabic: ٱلۡغَيۡبَ
     translation: the unseen
     transliteration: l-ghayba
   11:
-    arabic: وَلَاۤ
+    arabic: وَلَآ
     translation: and not
     transliteration: walā
   12:
-    arabic: اَقُوۡلُ
+    arabic: أَقُولُ
     translation: I say
     transliteration: aqūlu
   13:
-    arabic: لَـكُمۡ
+    arabic: لَكُمۡ
     translation: to you
     transliteration: lakum
   14:
-    arabic: اِنِّىۡ
+    arabic: إِنِّي
     translation: that I (am)
     transliteration: innī
   15:
-    arabic: مَلَكٌ​ ۚ
+    arabic: مَلَكٌۖ
     translation: an Angel
     transliteration: malakun
   16:
-    arabic: اِنۡ
+    arabic: إِنۡ
     translation: Not
     transliteration: in
   17:
-    arabic: اَتَّبِعُ
+    arabic: أَتَّبِعُ
     translation: (do) I follow
     transliteration: attabiʿu
   18:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   19:
@@ -84,11 +84,11 @@ word_by_word:
     translation: what
     transliteration: mā
   20:
-    arabic: يُوۡحٰٓى
+    arabic: يُوحَىٰٓ
     translation: is revealed
     transliteration: yūḥā
   21:
-    arabic: اِلَىَّ​ ؕ
+    arabic: إِلَيَّۚ
     translation: to me
     transliteration: ilayya
   22:
@@ -100,23 +100,23 @@ word_by_word:
     translation: Can
     transliteration: hal
   24:
-    arabic: يَسۡتَوِى
+    arabic: يَسۡتَوِي
     translation: be equal
     transliteration: yastawī
   25:
-    arabic: الۡاَعۡمٰى
+    arabic: ٱلۡأَعۡمَىٰ
     translation: the blind
     transliteration: l-aʿmā
   26:
-    arabic: وَالۡبَصِيۡرُ​ ؕ
+    arabic: وَٱلۡبَصِيرُۚ
     translation: and the seeing one
     transliteration: wal-baṣīru
   27:
-    arabic: اَفَلَا
+    arabic: أَفَلَا
     translation: Then will not
     transliteration: afalā
   28:
-    arabic: تَتَفَكَّرُوۡنَ‏
+    arabic: تَتَفَكَّرُونَ
     translation: you give thought
     transliteration: tatafakkarūna
 ---

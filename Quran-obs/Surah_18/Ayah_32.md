@@ -1,20 +1,20 @@
 ---
-arabic_ayat: وَاضۡرِبۡ لَهُمۡ مَّثَلًا رَّجُلَيۡنِ جَعَلۡنَا لِاَحَدِهِمَا جَنَّتَيۡنِ
-  مِنۡ اَعۡنَابٍ وَّحَفَفۡنٰهُمَا بِنَخۡلٍ وَّجَعَلۡنَا بَيۡنَهُمَا زَرۡعًا ؕ‏
+arabic_ayat: ۞ وَٱضۡرِبۡ لَهُم مَّثَلٗا رَّجُلَيۡنِ جَعَلۡنَا لِأَحَدِهِمَا جَنَّتَيۡنِ
+  مِنۡ أَعۡنَٰبٖ وَحَفَفۡنَٰهُمَا بِنَخۡلٖ وَجَعَلۡنَا بَيۡنَهُمَا زَرۡعٗا
 sentence_translation: Give them ˹O Prophet˺ an example of two men. To ˹the disbelieving˺
   one We gave two gardens of grapevines, which We surrounded with palm trees and placed
   ˹various˺ crops in between.
 word_by_word:
   1:
-    arabic: ۞ وَاضۡرِبۡ
+    arabic: ۞ وَٱضۡرِبۡ
     translation: And set forth
     transliteration: wa-iḍ'rib
   2:
-    arabic: لَهُمۡ
+    arabic: لَهُم
     translation: to them
     transliteration: lahum
   3:
-    arabic: مَّثَلًا
+    arabic: مَّثَلٗا
     translation: the example
     transliteration: mathalan
   4:
@@ -26,7 +26,7 @@ word_by_word:
     translation: We provided
     transliteration: jaʿalnā
   6:
-    arabic: لِاَحَدِهِمَا
+    arabic: لِأَحَدِهِمَا
     translation: for one of them
     transliteration: li-aḥadihimā
   7:
@@ -38,19 +38,19 @@ word_by_word:
     translation: of
     transliteration: min
   9:
-    arabic: اَعۡنَابٍ
+    arabic: أَعۡنَٰبٖ
     translation: grapes
     transliteration: aʿnābin
   10:
-    arabic: وَّحَفَفۡنٰهُمَا
+    arabic: وَحَفَفۡنَٰهُمَا
     translation: and We bordered them
     transliteration: waḥafafnāhumā
   11:
-    arabic: بِنَخۡلٍ
+    arabic: بِنَخۡلٖ
     translation: with date-palms
     transliteration: binakhlin
   12:
-    arabic: وَّجَعَلۡنَا
+    arabic: وَجَعَلۡنَا
     translation: and We placed
     transliteration: wajaʿalnā
   13:
@@ -58,7 +58,7 @@ word_by_word:
     translation: between both of them
     transliteration: baynahumā
   14:
-    arabic: زَرۡعًا ؕ‏
+    arabic: زَرۡعٗا
     translation: crops
     transliteration: zarʿan
 ---

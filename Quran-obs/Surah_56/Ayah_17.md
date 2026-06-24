@@ -1,9 +1,9 @@
 ---
-arabic_ayat: يَطُوۡفُ عَلَيۡهِمۡ وِلۡدَانٌ مُّخَلَّدُوۡنَۙ‏
+arabic_ayat: يَطُوفُ عَلَيۡهِمۡ وِلۡدَٰنٞ مُّخَلَّدُونَ
 sentence_translation: They will be waited on by eternal youths
 word_by_word:
   1:
-    arabic: يَطُوۡفُ
+    arabic: يَطُوفُ
     translation: Will circulate
     transliteration: yaṭūfu
   2:
@@ -11,11 +11,11 @@ word_by_word:
     translation: among them
     transliteration: ʿalayhim
   3:
-    arabic: وِلۡدَانٌ
+    arabic: وِلۡدَٰنٞ
     translation: boys
     transliteration: wil'dānun
   4:
-    arabic: مُّخَلَّدُوۡنَۙ‏
+    arabic: مُّخَلَّدُونَ
     translation: immortal
     transliteration: mukhalladūna
 ---

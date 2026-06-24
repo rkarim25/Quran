@@ -1,19 +1,19 @@
 ---
-arabic_ayat: وَ لَنۡ يَّتَمَنَّوۡهُ اَبَدًاۢ بِمَا قَدَّمَتۡ اَيۡدِيۡهِمۡ​ؕ وَاللّٰهُ
-  عَلِيۡمٌۢ بِالظّٰلِمِيۡنَ‏
+arabic_ayat: وَلَن يَتَمَنَّوۡهُ أَبَدَۢا بِمَا قَدَّمَتۡ أَيۡدِيهِمۡۚ وَٱللَّهُ عَلِيمُۢ
+  بِٱلظَّٰلِمِينَ
 sentence_translation: But they will never wish for that because of what their hands
   have done. And Allah has ˹perfect˺ knowledge of the wrongdoers.
 word_by_word:
   1:
-    arabic: وَ لَنۡ
+    arabic: وَلَن
     translation: And never (will)
     transliteration: walan
   2:
-    arabic: يَّتَمَنَّوۡهُ
+    arabic: يَتَمَنَّوۡهُ
     translation: they wish for it
     transliteration: yatamannawhu
   3:
-    arabic: اَبَدًاۢ
+    arabic: أَبَدَۢا
     translation: ever
     transliteration: abadan
   4:
@@ -25,19 +25,19 @@ word_by_word:
     translation: (of what) sent ahead
     transliteration: qaddamat
   6:
-    arabic: اَيۡدِيۡهِمۡ​ؕ
+    arabic: أَيۡدِيهِمۡۚ
     translation: their hands
     transliteration: aydīhim
   7:
-    arabic: وَاللّٰهُ
+    arabic: وَٱللَّهُ
     translation: And Allah
     transliteration: wal-lahu
   8:
-    arabic: عَلِيۡمٌۢ
+    arabic: عَلِيمُۢ
     translation: (is) All-Knower
     transliteration: ʿalīmun
   9:
-    arabic: بِالظّٰلِمِيۡنَ‏
+    arabic: بِٱلظَّٰلِمِينَ
     translation: of the wrongdoers
     transliteration: bil-ẓālimīna
 ---

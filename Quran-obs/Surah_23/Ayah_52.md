@@ -1,31 +1,30 @@
 ---
-arabic_ayat: "وَاِنَّ هٰذِهٖۤ اُمَّتُكُمۡ اُمَّةً وَّاحِدَةً وَّاَنَا رَبُّكُمۡ فَاتَّقُوۡنِ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: وَإِنَّ هَٰذِهِۦٓ أُمَّتُكُمۡ أُمَّةٗ وَٰحِدَةٗ وَأَنَا۠ رَبُّكُمۡ فَٱتَّقُونِ
 sentence_translation: Surely this religion of yours is ˹only˺ one, and I am your Lord,
   so fear Me ˹alone˺.
 word_by_word:
   1:
-    arabic: وَاِنَّ
+    arabic: وَإِنَّ
     translation: And indeed
     transliteration: wa-inna
   2:
-    arabic: هٰذِهٖۤ
+    arabic: هَٰذِهِۦٓ
     translation: this
     transliteration: hādhihi
   3:
-    arabic: اُمَّتُكُمۡ
+    arabic: أُمَّتُكُمۡ
     translation: your religion
     transliteration: ummatukum
   4:
-    arabic: اُمَّةً
+    arabic: أُمَّةٗ
     translation: (is) religion
     transliteration: ummatan
   5:
-    arabic: وَّاحِدَةً
+    arabic: وَٰحِدَةٗ
     translation: one
     transliteration: wāḥidatan
   6:
-    arabic: وَّاَنَا
+    arabic: وَأَنَا۠
     translation: And I Am
     transliteration: wa-anā
   7:
@@ -33,7 +32,7 @@ word_by_word:
     translation: your Lord
     transliteration: rabbukum
   8:
-    arabic: "فَاتَّقُوۡنِ‏ \uFEFF\uFEFF"
+    arabic: فَٱتَّقُونِ
     translation: so fear Me
     transliteration: fa-ittaqūni
 ---

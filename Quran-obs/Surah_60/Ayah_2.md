@@ -1,52 +1,52 @@
 ---
-arabic_ayat: اِنۡ يَّثۡقَفُوۡكُمۡ يَكُوۡنُوۡا لَـكُمۡ اَعۡدَآءً وَّيَبۡسُطُوۡۤا اِلَيۡكُمۡ
-  اَيۡدِيَهُمۡ وَاَلۡسِنَتَهُمۡ بِالسُّوۡٓءِ وَوَدُّوۡا لَوۡ تَكۡفُرُوۡنَؕ‏
+arabic_ayat: إِن يَثۡقَفُوكُمۡ يَكُونُواْ لَكُمۡ أَعۡدَآءٗ وَيَبۡسُطُوٓاْ إِلَيۡكُمۡ
+  أَيۡدِيَهُمۡ وَأَلۡسِنَتَهُم بِٱلسُّوٓءِ وَوَدُّواْ لَوۡ تَكۡفُرُونَ
 sentence_translation: If they gain the upper hand over you, they would be your ˹open˺
   enemies, unleashing their hands and tongues to harm you, and wishing that you would
   abandon faith.
 word_by_word:
   1:
-    arabic: اِنۡ
+    arabic: إِن
     translation: If
     transliteration: in
   2:
-    arabic: يَّثۡقَفُوۡكُمۡ
+    arabic: يَثۡقَفُوكُمۡ
     translation: they gain dominance over you
     transliteration: yathqafūkum
   3:
-    arabic: يَكُوۡنُوۡا
+    arabic: يَكُونُواْ
     translation: they would be
     transliteration: yakūnū
   4:
-    arabic: لَـكُمۡ
+    arabic: لَكُمۡ
     translation: to you
     transliteration: lakum
   5:
-    arabic: اَعۡدَآءً
+    arabic: أَعۡدَآءٗ
     translation: enemies
     transliteration: aʿdāan
   6:
-    arabic: وَّيَبۡسُطُوۡۤا
+    arabic: وَيَبۡسُطُوٓاْ
     translation: and extend
     transliteration: wayabsuṭū
   7:
-    arabic: اِلَيۡكُمۡ
+    arabic: إِلَيۡكُمۡ
     translation: against you
     transliteration: ilaykum
   8:
-    arabic: اَيۡدِيَهُمۡ
+    arabic: أَيۡدِيَهُمۡ
     translation: their hands
     transliteration: aydiyahum
   9:
-    arabic: وَاَلۡسِنَتَهُمۡ
+    arabic: وَأَلۡسِنَتَهُم
     translation: and their tongues
     transliteration: wa-alsinatahum
   10:
-    arabic: بِالسُّوۡٓءِ
+    arabic: بِٱلسُّوٓءِ
     translation: with evil
     transliteration: bil-sūi
   11:
-    arabic: وَوَدُّوۡا
+    arabic: وَوَدُّواْ
     translation: and they desire
     transliteration: wawaddū
   12:
@@ -54,7 +54,7 @@ word_by_word:
     translation: that
     transliteration: law
   13:
-    arabic: تَكۡفُرُوۡنَؕ‏
+    arabic: تَكۡفُرُونَ
     translation: you would disbelieve
     transliteration: takfurūna
 ---

@@ -1,6 +1,6 @@
 ---
-arabic_ayat: وَقَوۡمَ نُوۡحٍ لَّمَّا كَذَّبُوا الرُّسُلَ اَغۡرَقۡنٰهُمۡ وَجَعَلۡنٰهُمۡ
-  لِلنَّاسِ اٰيَةً ​ ؕ وَاَعۡتَدۡنَا لِلظّٰلِمِيۡنَ عَذَابًا اَ لِيۡمًا ​ۖ​ ۚ‏
+arabic_ayat: وَقَوۡمَ نُوحٖ لَّمَّا كَذَّبُواْ ٱلرُّسُلَ أَغۡرَقۡنَٰهُمۡ وَجَعَلۡنَٰهُمۡ
+  لِلنَّاسِ ءَايَةٗۖ وَأَعۡتَدۡنَا لِلظَّٰلِمِينَ عَذَابًا أَلِيمٗا
 sentence_translation: And when the people of Noah rejected the messengers, We drowned
   them, making them an example to humanity. And We have prepared a painful punishment
   for the wrongdoers.
@@ -10,7 +10,7 @@ word_by_word:
     translation: And (the) people
     transliteration: waqawma
   2:
-    arabic: نُوۡحٍ
+    arabic: نُوحٖ
     translation: (of) Nuh
     transliteration: nūḥin
   3:
@@ -18,35 +18,35 @@ word_by_word:
     translation: when
     transliteration: lammā
   4:
-    arabic: كَذَّبُوا
+    arabic: كَذَّبُواْ
     translation: they denied
     transliteration: kadhabū
   5:
-    arabic: الرُّسُلَ
+    arabic: ٱلرُّسُلَ
     translation: the Messengers
     transliteration: l-rusula
   6:
-    arabic: اَغۡرَقۡنٰهُمۡ
+    arabic: أَغۡرَقۡنَٰهُمۡ
     translation: We drowned them
     transliteration: aghraqnāhum
   7:
-    arabic: وَجَعَلۡنٰهُمۡ
+    arabic: وَجَعَلۡنَٰهُمۡ
     translation: and We made them
     transliteration: wajaʿalnāhum
   8:
-    arabic: لِلنَّاسِ
+    arabic: لِلنَّاسِ ءَ
     translation: for mankind
     transliteration: lilnnāsi
   9:
-    arabic: اٰيَةً ​ ؕ
+    arabic: ايَةٗۖ
     translation: a sign
     transliteration: āyatan
   10:
-    arabic: وَاَعۡتَدۡنَا
+    arabic: وَأَعۡتَدۡنَا
     translation: And We have prepared
     transliteration: wa-aʿtadnā
   11:
-    arabic: لِلظّٰلِمِيۡنَ
+    arabic: لِلظَّٰلِمِينَ
     translation: for the wrongdoers
     transliteration: lilẓẓālimīna
   12:
@@ -54,7 +54,7 @@ word_by_word:
     translation: a punishment
     transliteration: ʿadhāban
   13:
-    arabic: اَ لِيۡمًا ​ۖ​ ۚ‏
+    arabic: أَلِيمٗا
     translation: painful
     transliteration: alīman
 ---

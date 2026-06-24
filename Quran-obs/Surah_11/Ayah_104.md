@@ -1,5 +1,5 @@
 ---
-arabic_ayat: وَمَا نُؤَخِّرُهٗۤ اِلَّا لِاَجَلٍ مَّعۡدُوۡدٍؕ‏
+arabic_ayat: وَمَا نُؤَخِّرُهُۥٓ إِلَّا لِأَجَلٖ مَّعۡدُودٖ
 sentence_translation: We only delay it for a fixed term.
 word_by_word:
   1:
@@ -7,19 +7,19 @@ word_by_word:
     translation: And not
     transliteration: wamā
   2:
-    arabic: نُؤَخِّرُهٗۤ
+    arabic: نُؤَخِّرُهُۥٓ
     translation: We delay it
     transliteration: nu-akhiruhu
   3:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   4:
-    arabic: لِاَجَلٍ
+    arabic: لِأَجَلٖ
     translation: for a term
     transliteration: li-ajalin
   5:
-    arabic: مَّعۡدُوۡدٍؕ‏
+    arabic: مَّعۡدُودٖ
     translation: limited
     transliteration: maʿdūdin
 ---

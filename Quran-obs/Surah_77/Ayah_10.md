@@ -1,17 +1,17 @@
 ---
-arabic_ayat: وَاِذَا الۡجِبَالُ نُسِفَتۡۙ‏
+arabic_ayat: وَإِذَا ٱلۡجِبَالُ نُسِفَتۡ
 sentence_translation: and the mountains are blown away,
 word_by_word:
   1:
-    arabic: وَاِذَا
+    arabic: وَإِذَا
     translation: And when
     transliteration: wa-idhā
   2:
-    arabic: الۡجِبَالُ
+    arabic: ٱلۡجِبَالُ
     translation: the mountains
     transliteration: l-jibālu
   3:
-    arabic: نُسِفَتۡۙ‏
+    arabic: نُسِفَتۡ
     translation: are blown away
     transliteration: nusifat
 ---

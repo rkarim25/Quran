@@ -1,8 +1,8 @@
 ---
-arabic_ayat: وَمِنَ النَّاسِ مَنۡ يَّقُوۡلُ اٰمَنَّا بِاللّٰهِ فَاِذَاۤ اُوۡذِىَ فِى
-  اللّٰهِ جَعَلَ فِتۡنَةَ النَّاسِ كَعَذَابِ اللّٰهِؕ وَلَٮِٕنۡ جَآءَ نَـصۡرٌ مِّنۡ
-  رَّبِّكَ لَيَـقُوۡلُنَّ اِنَّا كُنَّا مَعَكُمۡ​ؕ اَوَلَـيۡسَ اللّٰهُ بِاَعۡلَمَ
-  بِمَا فِىۡ صُدُوۡرِ الۡعٰلَمِيۡنَ‏
+arabic_ayat: وَمِنَ ٱلنَّاسِ مَن يَقُولُ ءَامَنَّا بِٱللَّهِ فَإِذَآ أُوذِيَ فِي
+  ٱللَّهِ جَعَلَ فِتۡنَةَ ٱلنَّاسِ كَعَذَابِ ٱللَّهِۖ وَلَئِن جَآءَ نَصۡرٞ مِّن رَّبِّكَ
+  لَيَقُولُنَّ إِنَّا كُنَّا مَعَكُمۡۚ أَوَلَيۡسَ ٱللَّهُ بِأَعۡلَمَ بِمَا فِي صُدُورِ
+  ٱلۡعَٰلَمِينَ
 sentence_translation: There are some who say, “We believe in Allah,” but when they
   suffer in the cause of Allah, they mistake ˹this˺ persecution at the hands of people
   for the punishment of Allah. But when victory comes from your Lord, they surely
@@ -14,39 +14,39 @@ word_by_word:
     translation: And of
     transliteration: wamina
   2:
-    arabic: النَّاسِ
+    arabic: ٱلنَّاسِ
     translation: the people
     transliteration: l-nāsi
   3:
-    arabic: مَنۡ
+    arabic: مَن
     translation: (is he) who
     transliteration: man
   4:
-    arabic: يَّقُوۡلُ
+    arabic: يَقُولُ ءَ
     translation: says
     transliteration: yaqūlu
   5:
-    arabic: اٰمَنَّا
+    arabic: امَنَّا
     translation: We believe
     transliteration: āmannā
   6:
-    arabic: بِاللّٰهِ
+    arabic: بِٱللَّهِ
     translation: in Allah
     transliteration: bil-lahi
   7:
-    arabic: فَاِذَاۤ
+    arabic: فَإِذَآ
     translation: But when
     transliteration: fa-idhā
   8:
-    arabic: اُوۡذِىَ
+    arabic: أُوذِيَ
     translation: he is harmed
     transliteration: ūdhiya
   9:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   10:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (the Way of) Allah
     transliteration: l-lahi
   11:
@@ -58,7 +58,7 @@ word_by_word:
     translation: (the) trial
     transliteration: fit'nata
   13:
-    arabic: النَّاسِ
+    arabic: ٱلنَّاسِ
     translation: (of) the people
     transliteration: l-nāsi
   14:
@@ -66,11 +66,11 @@ word_by_word:
     translation: as (the) punishment
     transliteration: kaʿadhābi
   15:
-    arabic: اللّٰهِؕ
+    arabic: ٱللَّهِۖ
     translation: (of) Allah
     transliteration: l-lahi
   16:
-    arabic: وَلَٮِٕنۡ
+    arabic: وَلَئِن
     translation: But if
     transliteration: wala-in
   17:
@@ -78,11 +78,11 @@ word_by_word:
     translation: comes
     transliteration: jāa
   18:
-    arabic: نَـصۡرٌ
+    arabic: نَصۡرٞ
     translation: victory
     transliteration: naṣrun
   19:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: from
     transliteration: min
   20:
@@ -90,11 +90,11 @@ word_by_word:
     translation: your Lord
     transliteration: rabbika
   21:
-    arabic: لَيَـقُوۡلُنَّ
+    arabic: لَيَقُولُنَّ
     translation: surely they say
     transliteration: layaqūlunna
   22:
-    arabic: اِنَّا
+    arabic: إِنَّا
     translation: Indeed, we
     transliteration: innā
   23:
@@ -102,19 +102,19 @@ word_by_word:
     translation: were
     transliteration: kunnā
   24:
-    arabic: مَعَكُمۡ​ؕ
+    arabic: مَعَكُمۡۚ
     translation: with you
     transliteration: maʿakum
   25:
-    arabic: اَوَلَـيۡسَ
+    arabic: أَوَلَيۡسَ
     translation: Is not
     transliteration: awalaysa
   26:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   27:
-    arabic: بِاَعۡلَمَ
+    arabic: بِأَعۡلَمَ
     translation: most knowing
     transliteration: bi-aʿlama
   28:
@@ -122,15 +122,15 @@ word_by_word:
     translation: of what
     transliteration: bimā
   29:
-    arabic: فِىۡ
+    arabic: فِي
     translation: (is) in
     transliteration: fī
   30:
-    arabic: صُدُوۡرِ
+    arabic: صُدُورِ
     translation: (the) breasts
     transliteration: ṣudūri
   31:
-    arabic: الۡعٰلَمِيۡنَ‏
+    arabic: ٱلۡعَٰلَمِينَ
     translation: (of) the worlds
     transliteration: l-ʿālamīna
 ---

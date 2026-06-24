@@ -1,25 +1,25 @@
 ---
-arabic_ayat: يٰۤـاَيُّهَا الَّذِيۡنَ اٰمَنُوۡۤا اَنۡفِقُوۡا مِمَّا رَزَقۡنٰكُمۡ مِّنۡ
-  قَبۡلِ اَنۡ يَّاۡتِىَ يَوۡمٌ لَّا بَيۡعٌ فِيۡهِ وَلَا خُلَّةٌ وَّلَا شَفَاعَةٌ ​
-  ؕ وَالۡكٰفِرُوۡنَ هُمُ الظّٰلِمُوۡنَ‏
+arabic_ayat: يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓاْ أَنفِقُواْ مِمَّا رَزَقۡنَٰكُم مِّن
+  قَبۡلِ أَن يَأۡتِيَ يَوۡمٞ لَّا بَيۡعٞ فِيهِ وَلَا خُلَّةٞ وَلَا شَفَٰعَةٞۗ وَٱلۡكَٰفِرُونَ
+  هُمُ ٱلظَّٰلِمُونَ
 sentence_translation: O believers! Donate from what We have provided for you before
   the arrival of a Day when there will be no bargaining, friendship, or intercession.
   Those who disbelieve are ˹truly˺ the wrongdoers.
 word_by_word:
   1:
-    arabic: يٰۤـاَيُّهَا
+    arabic: يَٰٓأَيُّهَا
     translation: O you
     transliteration: yāayyuhā
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ ءَ
     translation: who
     transliteration: alladhīna
   3:
-    arabic: اٰمَنُوۡۤا
+    arabic: امَنُوٓاْ
     translation: believe[d]
     transliteration: āmanū
   4:
-    arabic: اَنۡفِقُوۡا
+    arabic: أَنفِقُواْ
     translation: Spend
     transliteration: anfiqū
   5:
@@ -27,11 +27,11 @@ word_by_word:
     translation: of what
     transliteration: mimmā
   6:
-    arabic: رَزَقۡنٰكُمۡ
+    arabic: رَزَقۡنَٰكُم
     translation: We (have) provided you
     transliteration: razaqnākum
   7:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: from
     transliteration: min
   8:
@@ -39,15 +39,15 @@ word_by_word:
     translation: before
     transliteration: qabli
   9:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that
     transliteration: an
   10:
-    arabic: يَّاۡتِىَ
+    arabic: يَأۡتِيَ
     translation: comes
     transliteration: yatiya
   11:
-    arabic: يَوۡمٌ
+    arabic: يَوۡمٞ
     translation: a Day
     transliteration: yawmun
   12:
@@ -55,11 +55,11 @@ word_by_word:
     translation: 'no'
     transliteration: lā
   13:
-    arabic: بَيۡعٌ
+    arabic: بَيۡعٞ
     translation: bargaining
     transliteration: bayʿun
   14:
-    arabic: فِيۡهِ
+    arabic: فِيهِ
     translation: in it
     transliteration: fīhi
   15:
@@ -67,19 +67,19 @@ word_by_word:
     translation: and no
     transliteration: walā
   16:
-    arabic: خُلَّةٌ
+    arabic: خُلَّةٞ
     translation: friendship
     transliteration: khullatun
   17:
-    arabic: وَّلَا
+    arabic: وَلَا
     translation: and no
     transliteration: walā
   18:
-    arabic: شَفَاعَةٌ ​ ؕ
+    arabic: شَفَٰعَةٞۗ
     translation: intercession
     transliteration: shafāʿatun
   19:
-    arabic: وَالۡكٰفِرُوۡنَ
+    arabic: وَٱلۡكَٰفِرُونَ
     translation: 'And the deniers '
     transliteration: wal-kāfirūna
   20:
@@ -87,7 +87,7 @@ word_by_word:
     translation: they
     transliteration: humu
   21:
-    arabic: الظّٰلِمُوۡنَ‏
+    arabic: ٱلظَّٰلِمُونَ
     translation: (are) the wrongdoers
     transliteration: l-ẓālimūna
 ---

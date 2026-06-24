@@ -1,34 +1,34 @@
 ---
-arabic_ayat: وَاِنۡ عَزَمُوا الطَّلَاقَ فَاِنَّ اللّٰهَ سَمِيۡعٌ عَلِيۡمٌ‏
+arabic_ayat: وَإِنۡ عَزَمُواْ ٱلطَّلَٰقَ فَإِنَّ ٱللَّهَ سَمِيعٌ عَلِيمٞ
 sentence_translation: But if they settle on divorce, then Allah is indeed All-Hearing,
   All-Knowing.
 word_by_word:
   1:
-    arabic: وَاِنۡ
+    arabic: وَإِنۡ
     translation: And if
     transliteration: wa-in
   2:
-    arabic: عَزَمُوا
+    arabic: عَزَمُواْ
     translation: they resolve
     transliteration: ʿazamū
   3:
-    arabic: الطَّلَاقَ
+    arabic: ٱلطَّلَٰقَ
     translation: '(on) [the] divorce '
     transliteration: l-ṭalāqa
   4:
-    arabic: فَاِنَّ
+    arabic: فَإِنَّ
     translation: then indeed
     transliteration: fa-inna
   5:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   6:
-    arabic: سَمِيۡعٌ
+    arabic: سَمِيعٌ
     translation: (is) All-Hearing
     transliteration: samīʿun
   7:
-    arabic: عَلِيۡمٌ‏
+    arabic: عَلِيمٞ
     translation: All-Knowing
     transliteration: ʿalīmun
 ---

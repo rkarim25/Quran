@@ -1,7 +1,7 @@
 ---
-arabic_ayat: وَمَا كَانَ قَوۡلَهُمۡ اِلَّاۤ اَنۡ قَالُوۡا رَبَّنَا اغۡفِرۡ لَنَا ذُنُوۡبَنَا
-  وَاِسۡرَافَنَا فِىۡۤ اَمۡرِنَا وَ ثَبِّتۡ اَقۡدَامَنَا وَانۡصُرۡنَا عَلَى الۡقَوۡمِ
-  الۡكٰفِرِيۡنَ‏
+arabic_ayat: وَمَا كَانَ قَوۡلَهُمۡ إِلَّآ أَن قَالُواْ رَبَّنَا ٱغۡفِرۡ لَنَا ذُنُوبَنَا
+  وَإِسۡرَافَنَا فِيٓ أَمۡرِنَا وَثَبِّتۡ أَقۡدَامَنَا وَٱنصُرۡنَا عَلَى ٱلۡقَوۡمِ
+  ٱلۡكَٰفِرِينَ
 sentence_translation: And all they said was, “Our Lord! Forgive our sins and excesses,
   make our steps firm, and grant us victory over the disbelieving people.”
 word_by_word:
@@ -18,15 +18,15 @@ word_by_word:
     translation: their words
     transliteration: qawlahum
   4:
-    arabic: اِلَّاۤ
+    arabic: إِلَّآ
     translation: except
     transliteration: illā
   5:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that
     transliteration: an
   6:
-    arabic: قَالُوۡا
+    arabic: قَالُواْ
     translation: they said
     transliteration: qālū
   7:
@@ -34,7 +34,7 @@ word_by_word:
     translation: Our Lord
     transliteration: rabbanā
   8:
-    arabic: اغۡفِرۡ
+    arabic: ٱغۡفِرۡ
     translation: forgive
     transliteration: igh'fir
   9:
@@ -42,31 +42,31 @@ word_by_word:
     translation: for us
     transliteration: lanā
   10:
-    arabic: ذُنُوۡبَنَا
+    arabic: ذُنُوبَنَا
     translation: our sins
     transliteration: dhunūbanā
   11:
-    arabic: وَاِسۡرَافَنَا
+    arabic: وَإِسۡرَافَنَا
     translation: and our excesses
     transliteration: wa-is'rāfanā
   12:
-    arabic: فِىۡۤ
+    arabic: فِيٓ
     translation: in
     transliteration: fī
   13:
-    arabic: اَمۡرِنَا
+    arabic: أَمۡرِنَا
     translation: our affairs
     transliteration: amrinā
   14:
-    arabic: وَ ثَبِّتۡ
+    arabic: وَثَبِّتۡ
     translation: and make firm
     transliteration: wathabbit
   15:
-    arabic: اَقۡدَامَنَا
+    arabic: أَقۡدَامَنَا
     translation: our feet
     transliteration: aqdāmanā
   16:
-    arabic: وَانۡصُرۡنَا
+    arabic: وَٱنصُرۡنَا
     translation: and give us victory
     transliteration: wa-unṣur'nā
   17:
@@ -74,11 +74,11 @@ word_by_word:
     translation: over
     transliteration: ʿalā
   18:
-    arabic: الۡقَوۡمِ
+    arabic: ٱلۡقَوۡمِ
     translation: '[the people]'
     transliteration: l-qawmi
   19:
-    arabic: الۡكٰفِرِيۡنَ‏
+    arabic: ٱلۡكَٰفِرِينَ
     translation: the disbelievers
     transliteration: l-kāfirīna
 ---

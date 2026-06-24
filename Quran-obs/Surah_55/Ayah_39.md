@@ -1,10 +1,10 @@
 ---
-arabic_ayat: فَيَوۡمَٮِٕذٍ لَّا يُسۡـَٔـلُ عَنۡ ذَنۡۢبِهٖۤ اِنۡسٌ وَّلَا جَآنٌّ​ۚ‏
+arabic_ayat: فَيَوۡمَئِذٖ لَّا يُسۡـَٔلُ عَن ذَنۢبِهِۦٓ إِنسٞ وَلَا جَآنّٞ
 sentence_translation: On that Day there will be no need for any human or jinn to be
   asked about their sins.
 word_by_word:
   1:
-    arabic: فَيَوۡمَٮِٕذٍ
+    arabic: فَيَوۡمَئِذٖ
     translation: Then (on) that Day
     transliteration: fayawma-idhin
   2:
@@ -12,27 +12,27 @@ word_by_word:
     translation: not
     transliteration: lā
   3:
-    arabic: يُسۡـَٔـلُ
+    arabic: يُسۡـَٔلُ
     translation: will be asked
     transliteration: yus'alu
   4:
-    arabic: عَنۡ
+    arabic: عَن
     translation: about
     transliteration: ʿan
   5:
-    arabic: ذَنۡۢبِهٖۤ
+    arabic: ذَنۢبِهِۦٓ
     translation: his sin
     transliteration: dhanbihi
   6:
-    arabic: اِنۡسٌ
+    arabic: إِنسٞ
     translation: any man
     transliteration: insun
   7:
-    arabic: وَّلَا
+    arabic: وَلَا
     translation: and not
     transliteration: walā
   8:
-    arabic: جَآنٌّ​ۚ‏
+    arabic: جَآنّٞ
     translation: any jinn
     transliteration: jānnun
 ---

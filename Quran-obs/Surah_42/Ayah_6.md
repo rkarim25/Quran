@@ -1,55 +1,55 @@
 ---
-arabic_ayat: وَالَّذِيۡنَ اتَّخَذُوۡا مِنۡ دُوۡنِهٖۤ اَوۡلِيَآءَ اللّٰهُ حَفِيۡظٌ
-  عَلَيۡهِمۡ​ۖ وَمَاۤ اَنۡتَ عَلَيۡهِمۡ بِوَكِيۡلٍ‏
+arabic_ayat: وَٱلَّذِينَ ٱتَّخَذُواْ مِن دُونِهِۦٓ أَوۡلِيَآءَ ٱللَّهُ حَفِيظٌ عَلَيۡهِمۡ
+  وَمَآ أَنتَ عَلَيۡهِم بِوَكِيلٖ
 sentence_translation: As for those who take other protectors besides Him, Allah is
   Watchful over them. And you ˹O Prophet˺ are not a keeper over them.
 word_by_word:
   1:
-    arabic: وَالَّذِيۡنَ
+    arabic: وَٱلَّذِينَ
     translation: And those who
     transliteration: wa-alladhīna
   2:
-    arabic: اتَّخَذُوۡا
+    arabic: ٱتَّخَذُواْ
     translation: take
     transliteration: ittakhadhū
   3:
-    arabic: مِنۡ
+    arabic: مِن
     translation: besides
     transliteration: min
   4:
-    arabic: دُوۡنِهٖۤ
+    arabic: دُونِهِۦٓ
     translation: besides
     transliteration: dūnihi
   5:
-    arabic: اَوۡلِيَآءَ
+    arabic: أَوۡلِيَآءَ
     translation: protectors
     transliteration: awliyāa
   6:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   7:
-    arabic: حَفِيۡظٌ
+    arabic: حَفِيظٌ
     translation: (is) a Guardian
     transliteration: ḥafīẓun
   8:
-    arabic: عَلَيۡهِمۡ​ۖ
+    arabic: عَلَيۡهِمۡ
     translation: over them
     transliteration: ʿalayhim
   9:
-    arabic: وَمَاۤ
+    arabic: وَمَآ
     translation: and not
     transliteration: wamā
   10:
-    arabic: اَنۡتَ
+    arabic: أَنتَ
     translation: you
     transliteration: anta
   11:
-    arabic: عَلَيۡهِمۡ
+    arabic: عَلَيۡهِم
     translation: (are) over them
     transliteration: ʿalayhim
   12:
-    arabic: بِوَكِيۡلٍ‏
+    arabic: بِوَكِيلٖ
     translation: a manager
     transliteration: biwakīlin
 ---

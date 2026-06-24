@@ -1,15 +1,15 @@
 ---
-arabic_ayat: حَتّٰٓى اِذَابَلَغَ مَطۡلِعَ الشَّمۡسِ وَجَدَهَا تَطۡلُعُ عَلٰى قَوۡمٍ
-  لَّمۡ نَجۡعَلْ لَّهُمۡ مِّنۡ دُوۡنِهَا سِتۡرًا ۙ‏
+arabic_ayat: حَتَّىٰٓ إِذَا بَلَغَ مَطۡلِعَ ٱلشَّمۡسِ وَجَدَهَا تَطۡلُعُ عَلَىٰ قَوۡمٖ
+  لَّمۡ نَجۡعَل لَّهُم مِّن دُونِهَا سِتۡرٗا
 sentence_translation: until he reached the rising ˹point˺ of the sun. He found it
   rising on a people for whom We had provided no shelter from it.
 word_by_word:
   1:
-    arabic: حَتّٰٓى
+    arabic: حَتَّىٰٓ
     translation: Until
     transliteration: ḥattā
   2:
-    arabic: اِذَا
+    arabic: إِذَا
     translation: when
     transliteration: idhā
   3:
@@ -21,7 +21,7 @@ word_by_word:
     translation: (the) rising place
     transliteration: maṭliʿa
   5:
-    arabic: الشَّمۡسِ
+    arabic: ٱلشَّمۡسِ
     translation: (of) the sun
     transliteration: l-shamsi
   6:
@@ -33,11 +33,11 @@ word_by_word:
     translation: rising
     transliteration: taṭluʿu
   8:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: 'on'
     transliteration: ʿalā
   9:
-    arabic: قَوۡمٍ
+    arabic: قَوۡمٖ
     translation: a community
     transliteration: qawmin
   10:
@@ -45,23 +45,23 @@ word_by_word:
     translation: not
     transliteration: lam
   11:
-    arabic: نَجۡعَلْ
+    arabic: نَجۡعَل
     translation: We made
     transliteration: najʿal
   12:
-    arabic: لَّهُمۡ
+    arabic: لَّهُم
     translation: for them
     transliteration: lahum
   13:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: against it
     transliteration: min
   14:
-    arabic: دُوۡنِهَا
+    arabic: دُونِهَا
     translation: against it
     transliteration: dūnihā
   15:
-    arabic: سِتۡرًا ۙ‏
+    arabic: سِتۡرٗا
     translation: any shelter
     transliteration: sit'ran
 ---

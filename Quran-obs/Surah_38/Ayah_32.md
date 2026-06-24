@@ -1,6 +1,6 @@
 ---
-arabic_ayat: فَقَالَ اِنِّىۡۤ اَحۡبَبۡتُ حُبَّ الۡخَيۡرِ عَنۡ ذِكۡرِ رَبِّىۡ​ۚ حَتّٰى
-  تَوَارَتۡ بِالۡحِجَابِ‏
+arabic_ayat: فَقَالَ إِنِّيٓ أَحۡبَبۡتُ حُبَّ ٱلۡخَيۡرِ عَن ذِكۡرِ رَبِّي حَتَّىٰ
+  تَوَارَتۡ بِٱلۡحِجَابِ
 sentence_translation: He then proclaimed, “I am truly in love with ˹these˺ fine things
   out of remembrance for Allah,” until they went out of sight.
 word_by_word:
@@ -9,11 +9,11 @@ word_by_word:
     translation: And he said
     transliteration: faqāla
   2:
-    arabic: اِنِّىۡۤ
+    arabic: إِنِّيٓ
     translation: Indeed, I
     transliteration: innī
   3:
-    arabic: اَحۡبَبۡتُ
+    arabic: أَحۡبَبۡتُ
     translation: '[I] preferred'
     transliteration: aḥbabtu
   4:
@@ -21,11 +21,11 @@ word_by_word:
     translation: (the) love
     transliteration: ḥubba
   5:
-    arabic: الۡخَيۡرِ
+    arabic: ٱلۡخَيۡرِ
     translation: (of) the good
     transliteration: l-khayri
   6:
-    arabic: عَنۡ
+    arabic: عَن
     translation: over
     transliteration: ʿan
   7:
@@ -33,11 +33,11 @@ word_by_word:
     translation: (the) remembrance
     transliteration: dhik'ri
   8:
-    arabic: رَبِّىۡ​ۚ
+    arabic: رَبِّي
     translation: (of) my Lord
     transliteration: rabbī
   9:
-    arabic: حَتّٰى
+    arabic: حَتَّىٰ
     translation: Until
     transliteration: ḥattā
   10:
@@ -45,7 +45,7 @@ word_by_word:
     translation: they were hidden
     transliteration: tawārat
   11:
-    arabic: بِالۡحِجَابِ‏
+    arabic: بِٱلۡحِجَابِ
     translation: in the veil
     transliteration: bil-ḥijābi
 ---

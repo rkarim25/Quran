@@ -1,26 +1,26 @@
 ---
-arabic_ayat: الَّذِىۡۤ اَطۡعَمَهُمۡ مِّنۡ جُوۡعٍ   ۙ وَّاٰمَنَهُمۡ مِّنۡ خَوۡفٍ‏
+arabic_ayat: ٱلَّذِيٓ أَطۡعَمَهُم مِّن جُوعٖ وَءَامَنَهُم مِّنۡ خَوۡفِۭ
 sentence_translation: Who has fed them against hunger and made them secure against
   fear. 
 word_by_word:
   1:
-    arabic: الَّذِىۡۤ
+    arabic: ٱلَّذِيٓ
     translation: The One Who
     transliteration: alladhī
   2:
-    arabic: اَطۡعَمَهُمۡ
+    arabic: أَطۡعَمَهُم
     translation: feeds them
     transliteration: aṭʿamahum
   3:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: '[from]'
     transliteration: min
   4:
-    arabic: جُوۡعٍ   ۙ
+    arabic: جُوعٖ
     translation: (against) hunger
     transliteration: jūʿin
   5:
-    arabic: وَّاٰمَنَهُمۡ
+    arabic: وَءَامَنَهُم
     translation: and gives them security
     transliteration: waāmanahum
   6:
@@ -28,7 +28,7 @@ word_by_word:
     translation: from
     transliteration: min
   7:
-    arabic: خَوۡفٍ‏
+    arabic: خَوۡفِۭ
     translation: fear
     transliteration: khawfin
 ---

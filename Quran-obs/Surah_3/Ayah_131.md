@@ -1,25 +1,25 @@
 ---
-arabic_ayat: وَاتَّقُوا النَّارَ الَّتِىۡۤ اُعِدَّتۡ لِلۡكٰفِرِيۡنَ​ۚ‏
+arabic_ayat: وَٱتَّقُواْ ٱلنَّارَ ٱلَّتِيٓ أُعِدَّتۡ لِلۡكَٰفِرِينَ
 sentence_translation: Guard yourselves against the Fire prepared for the disbelievers.
 word_by_word:
   1:
-    arabic: وَاتَّقُوا
+    arabic: وَٱتَّقُواْ
     translation: And fear
     transliteration: wa-ittaqū
   2:
-    arabic: النَّارَ
+    arabic: ٱلنَّارَ
     translation: the Fire
     transliteration: l-nāra
   3:
-    arabic: الَّتِىۡۤ
+    arabic: ٱلَّتِيٓ
     translation: which
     transliteration: allatī
   4:
-    arabic: اُعِدَّتۡ
+    arabic: أُعِدَّتۡ
     translation: is prepared
     transliteration: uʿiddat
   5:
-    arabic: لِلۡكٰفِرِيۡنَ​ۚ‏
+    arabic: لِلۡكَٰفِرِينَ
     translation: for the disbelievers
     transliteration: lil'kāfirīna
 ---

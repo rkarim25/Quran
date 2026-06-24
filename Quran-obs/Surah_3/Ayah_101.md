@@ -1,7 +1,6 @@
 ---
-arabic_ayat: "وَكَيۡفَ تَكۡفُرُوۡنَ وَاَنۡـتُمۡ تُتۡلٰى عَلَيۡكُمۡ اٰيٰتُ اللّٰهِ\
-  \ وَفِيۡكُمۡ رَسُوۡلُهٗ ​ؕ وَمَنۡ يَّعۡتَصِمۡ بِاللّٰهِ فَقَدۡ هُدِىَ اِلٰى صِرَاطٍ\
-  \ مُّسۡتَقِيۡمٍ‏ \uFEFF\uFEFF"
+arabic_ayat: وَكَيۡفَ تَكۡفُرُونَ وَأَنتُمۡ تُتۡلَىٰ عَلَيۡكُمۡ ءَايَٰتُ ٱللَّهِ وَفِيكُمۡ
+  رَسُولُهُۥۗ وَمَن يَعۡتَصِم بِٱللَّهِ فَقَدۡ هُدِيَ إِلَىٰ صِرَٰطٖ مُّسۡتَقِيمٖ
 sentence_translation: How can you disbelieve when Allah’s revelations are recited
   to you and His Messenger is in your midst? Whoever holds firmly to Allah is surely
   guided to the Straight Path.
@@ -11,47 +10,47 @@ word_by_word:
     translation: And how (could)
     transliteration: wakayfa
   2:
-    arabic: تَكۡفُرُوۡنَ
+    arabic: تَكۡفُرُونَ
     translation: you disbelieve
     transliteration: takfurūna
   3:
-    arabic: وَاَنۡـتُمۡ
+    arabic: وَأَنتُمۡ
     translation: while [you]
     transliteration: wa-antum
   4:
-    arabic: تُتۡلٰى
+    arabic: تُتۡلَىٰ
     translation: is recited
     transliteration: tut'lā
   5:
-    arabic: عَلَيۡكُمۡ
+    arabic: عَلَيۡكُمۡ ءَ
     translation: upon you
     transliteration: ʿalaykum
   6:
-    arabic: اٰيٰتُ
+    arabic: ايَٰتُ
     translation: (the) Verses
     transliteration: āyātu
   7:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (of) Allah
     transliteration: l-lahi
   8:
-    arabic: وَفِيۡكُمۡ
+    arabic: وَفِيكُمۡ
     translation: and among you
     transliteration: wafīkum
   9:
-    arabic: رَسُوۡلُهٗ ​ؕ
+    arabic: رَسُولُهُۥۗ
     translation: (is) His Messenger
     transliteration: rasūluhu
   10:
-    arabic: وَمَنۡ
+    arabic: وَمَن
     translation: And whoever
     transliteration: waman
   11:
-    arabic: يَّعۡتَصِمۡ
+    arabic: يَعۡتَصِم
     translation: holds firmly
     transliteration: yaʿtaṣim
   12:
-    arabic: بِاللّٰهِ
+    arabic: بِٱللَّهِ
     translation: to Allah
     transliteration: bil-lahi
   13:
@@ -59,19 +58,19 @@ word_by_word:
     translation: then surely
     transliteration: faqad
   14:
-    arabic: هُدِىَ
+    arabic: هُدِيَ
     translation: he is guided
     transliteration: hudiya
   15:
-    arabic: اِلٰى
+    arabic: إِلَىٰ
     translation: to
     transliteration: ilā
   16:
-    arabic: صِرَاطٍ
+    arabic: صِرَٰطٖ
     translation: a path
     transliteration: ṣirāṭin
   17:
-    arabic: "مُّسۡتَقِيۡمٍ‏ \uFEFF\uFEFF"
+    arabic: مُّسۡتَقِيمٖ
     translation: straight
     transliteration: mus'taqīmin
 ---

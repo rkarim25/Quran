@@ -1,10 +1,9 @@
 ---
-arabic_ayat: "اَلَّذِيۡنَ يَاۡكُلُوۡنَ الرِّبٰوا لَا يَقُوۡمُوۡنَ اِلَّا كَمَا يَقُوۡمُ\
-  \ الَّذِىۡ يَتَخَبَّطُهُ الشَّيۡطٰنُ مِنَ الۡمَسِّ​ؕ ذٰ لِكَ بِاَنَّهُمۡ قَالُوۡۤا\
-  \ اِنَّمَا الۡبَيۡعُ مِثۡلُ الرِّبٰوا​ ۘ​ وَاَحَلَّ اللّٰهُ الۡبَيۡعَ وَحَرَّمَ\
-  \ الرِّبٰوا​ ؕ فَمَنۡ جَآءَهٗ مَوۡعِظَةٌ مِّنۡ رَّبِّهٖ فَانۡتَهٰى فَلَهٗ مَا سَلَفَؕ\
-  \ وَاَمۡرُهٗۤ اِلَى اللّٰهِ​ؕ وَمَنۡ عَادَ فَاُولٰٓٮِٕكَ اَصۡحٰبُ النَّارِ​ۚ هُمۡ\
-  \ فِيۡهَا خٰلِدُوۡنَ‏ \uFEFF\uFEFF"
+arabic_ayat: ٱلَّذِينَ يَأۡكُلُونَ ٱلرِّبَوٰاْ لَا يَقُومُونَ إِلَّا كَمَا يَقُومُ
+  ٱلَّذِي يَتَخَبَّطُهُ ٱلشَّيۡطَٰنُ مِنَ ٱلۡمَسِّۚ ذَٰلِكَ بِأَنَّهُمۡ قَالُوٓاْ
+  إِنَّمَا ٱلۡبَيۡعُ مِثۡلُ ٱلرِّبَوٰاْۗ وَأَحَلَّ ٱللَّهُ ٱلۡبَيۡعَ وَحَرَّمَ ٱلرِّبَوٰاْۚ
+  فَمَن جَآءَهُۥ مَوۡعِظَةٞ مِّن رَّبِّهِۦ فَٱنتَهَىٰ فَلَهُۥ مَا سَلَفَ وَأَمۡرُهُۥٓ
+  إِلَى ٱللَّهِۖ وَمَنۡ عَادَ فَأُوْلَٰٓئِكَ أَصۡحَٰبُ ٱلنَّارِۖ هُمۡ فِيهَا خَٰلِدُونَ
 sentence_translation: Those who consume interest will stand ˹on Judgment Day˺ like
   those driven to madness by Satan’s touch. That is because they say, “Trade is no
   different than interest.” But Allah has permitted trading and forbidden interest.
@@ -13,15 +12,15 @@ sentence_translation: Those who consume interest will stand ˹on Judgment Day˺ 
   will be the residents of the Fire. They will be there forever.
 word_by_word:
   1:
-    arabic: اَلَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: Those who
     transliteration: alladhīna
   2:
-    arabic: يَاۡكُلُوۡنَ
+    arabic: يَأۡكُلُونَ
     translation: consume
     transliteration: yakulūna
   3:
-    arabic: الرِّبٰوا
+    arabic: ٱلرِّبَوٰاْ
     translation: '[the] usury'
     transliteration: l-riba
   4:
@@ -29,11 +28,11 @@ word_by_word:
     translation: not
     transliteration: lā
   5:
-    arabic: يَقُوۡمُوۡنَ
+    arabic: يَقُومُونَ
     translation: they can stand
     transliteration: yaqūmūna
   6:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   7:
@@ -41,11 +40,11 @@ word_by_word:
     translation: like
     transliteration: kamā
   8:
-    arabic: يَقُوۡمُ
+    arabic: يَقُومُ
     translation: stands
     transliteration: yaqūmu
   9:
-    arabic: الَّذِىۡ
+    arabic: ٱلَّذِي
     translation: the one who
     transliteration: alladhī
   10:
@@ -53,7 +52,7 @@ word_by_word:
     translation: confounds him
     transliteration: yatakhabbaṭuhu
   11:
-    arabic: الشَّيۡطٰنُ
+    arabic: ٱلشَّيۡطَٰنُ
     translation: the Shaitaan
     transliteration: l-shayṭānu
   12:
@@ -61,27 +60,27 @@ word_by_word:
     translation: with
     transliteration: mina
   13:
-    arabic: الۡمَسِّ​ؕ
+    arabic: ٱلۡمَسِّۚ
     translation: (his) touch
     transliteration: l-masi
   14:
-    arabic: ذٰ لِكَ
+    arabic: ذَٰلِكَ
     translation: That
     transliteration: dhālika
   15:
-    arabic: بِاَنَّهُمۡ
+    arabic: بِأَنَّهُمۡ
     translation: (is) because they
     transliteration: bi-annahum
   16:
-    arabic: قَالُوۡۤا
+    arabic: قَالُوٓاْ
     translation: say
     transliteration: qālū
   17:
-    arabic: اِنَّمَا
+    arabic: إِنَّمَا
     translation: Only
     transliteration: innamā
   18:
-    arabic: الۡبَيۡعُ
+    arabic: ٱلۡبَيۡعُ
     translation: the trade
     transliteration: l-bayʿu
   19:
@@ -89,19 +88,19 @@ word_by_word:
     translation: (is) like
     transliteration: mith'lu
   20:
-    arabic: الرِّبٰوا​ ۘ​
+    arabic: ٱلرِّبَوٰاْۗ
     translation: '[the] usury'
     transliteration: l-riba
   21:
-    arabic: وَاَحَلَّ
+    arabic: وَأَحَلَّ
     translation: While has permitted
     transliteration: wa-aḥalla
   22:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   23:
-    arabic: الۡبَيۡعَ
+    arabic: ٱلۡبَيۡعَ
     translation: '[the] trade'
     transliteration: l-bayʿa
   24:
@@ -109,35 +108,35 @@ word_by_word:
     translation: but (has) forbidden
     transliteration: waḥarrama
   25:
-    arabic: الرِّبٰوا​ ؕ
+    arabic: ٱلرِّبَوٰاْۚ
     translation: '[the] usury'
     transliteration: l-riba
   26:
-    arabic: فَمَنۡ
+    arabic: فَمَن
     translation: 'Then whoever '
     transliteration: faman
   27:
-    arabic: جَآءَهٗ
+    arabic: جَآءَهُۥ
     translation: comes to him
     transliteration: jāahu
   28:
-    arabic: مَوۡعِظَةٌ
+    arabic: مَوۡعِظَةٞ
     translation: (the) admonition
     transliteration: mawʿiẓatun
   29:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: from
     transliteration: min
   30:
-    arabic: رَّبِّهٖ
+    arabic: رَّبِّهِۦ
     translation: His Lord
     transliteration: rabbihi
   31:
-    arabic: فَانۡتَهٰى
+    arabic: فَٱنتَهَىٰ
     translation: and he refrained
     transliteration: fa-intahā
   32:
-    arabic: فَلَهٗ
+    arabic: فَلَهُۥ
     translation: then for him
     transliteration: falahu
   33:
@@ -145,19 +144,19 @@ word_by_word:
     translation: what
     transliteration: mā
   34:
-    arabic: سَلَفَؕ
+    arabic: سَلَفَ
     translation: (has) passed
     transliteration: salafa
   35:
-    arabic: وَاَمۡرُهٗۤ
+    arabic: وَأَمۡرُهُۥٓ
     translation: and his case
     transliteration: wa-amruhu
   36:
-    arabic: اِلَى
+    arabic: إِلَى
     translation: (is) with
     transliteration: ilā
   37:
-    arabic: اللّٰهِ​ؕ
+    arabic: ٱللَّهِۖ
     translation: Allah
     transliteration: l-lahi
   38:
@@ -169,15 +168,15 @@ word_by_word:
     translation: repeated
     transliteration: ʿāda
   40:
-    arabic: فَاُولٰٓٮِٕكَ
+    arabic: فَأُوْلَٰٓئِكَ
     translation: then those
     transliteration: fa-ulāika
   41:
-    arabic: اَصۡحٰبُ
+    arabic: أَصۡحَٰبُ
     translation: (are the) companions
     transliteration: aṣḥābu
   42:
-    arabic: النَّارِ​ۚ
+    arabic: ٱلنَّارِۖ
     translation: (of) the Fire
     transliteration: l-nāri
   43:
@@ -185,11 +184,11 @@ word_by_word:
     translation: they
     transliteration: hum
   44:
-    arabic: فِيۡهَا
+    arabic: فِيهَا
     translation: in it
     transliteration: fīhā
   45:
-    arabic: "خٰلِدُوۡنَ‏ \uFEFF\uFEFF"
+    arabic: خَٰلِدُونَ
     translation: will abide forever
     transliteration: khālidūna
 ---

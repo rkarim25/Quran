@@ -1,22 +1,22 @@
 ---
-arabic_ayat: رَحۡمَةً مِّنۡ رَّبِّكَ​ؕ اِنَّهٗ هُوَ السَّمِيۡعُ الۡعَلِيۡمُۙ‏
+arabic_ayat: رَحۡمَةٗ مِّن رَّبِّكَۚ إِنَّهُۥ هُوَ ٱلسَّمِيعُ ٱلۡعَلِيمُ
 sentence_translation: as a mercy from your Lord. He ˹alone˺ is truly the All-Hearing,
   All-Knowing—
 word_by_word:
   1:
-    arabic: رَحۡمَةً
+    arabic: رَحۡمَةٗ
     translation: As Mercy
     transliteration: raḥmatan
   2:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: from
     transliteration: min
   3:
-    arabic: رَّبِّكَ​ؕ
+    arabic: رَّبِّكَۚ
     translation: your Lord
     transliteration: rabbika
   4:
-    arabic: اِنَّهٗ
+    arabic: إِنَّهُۥ
     translation: Indeed, He
     transliteration: innahu
   5:
@@ -24,11 +24,11 @@ word_by_word:
     translation: '[He]'
     transliteration: huwa
   6:
-    arabic: السَّمِيۡعُ
+    arabic: ٱلسَّمِيعُ
     translation: (is) the All-Hearer
     transliteration: l-samīʿu
   7:
-    arabic: الۡعَلِيۡمُۙ‏
+    arabic: ٱلۡعَلِيمُ
     translation: the All-Knower
     transliteration: l-ʿalīmu
 ---

@@ -1,11 +1,11 @@
 ---
-arabic_ayat: وَاٰتِ ذَا الۡقُرۡبٰى حَقَّهٗ وَالۡمِسۡكِيۡنَ وَابۡنَ السَّبِيۡلِ وَلَا
-  تُبَذِّرۡ تَبۡذِيۡرًا‏
+arabic_ayat: وَءَاتِ ذَا ٱلۡقُرۡبَىٰ حَقَّهُۥ وَٱلۡمِسۡكِينَ وَٱبۡنَ ٱلسَّبِيلِ وَلَا
+  تُبَذِّرۡ تَبۡذِيرًا
 sentence_translation: Give to close relatives their due, as well as the poor and ˹needy˺
   travellers. And do not spend wastefully.
 word_by_word:
   1:
-    arabic: وَاٰتِ
+    arabic: وَءَاتِ
     translation: And give
     transliteration: waāti
   2:
@@ -13,23 +13,23 @@ word_by_word:
     translation: the relatives
     transliteration: dhā
   3:
-    arabic: الۡقُرۡبٰى
+    arabic: ٱلۡقُرۡبَىٰ
     translation: the relatives
     transliteration: l-qur'bā
   4:
-    arabic: حَقَّهٗ
+    arabic: حَقَّهُۥ
     translation: his right
     transliteration: ḥaqqahu
   5:
-    arabic: وَالۡمِسۡكِيۡنَ
+    arabic: وَٱلۡمِسۡكِينَ
     translation: and the needy
     transliteration: wal-mis'kīna
   6:
-    arabic: وَابۡنَ
+    arabic: وَٱبۡنَ
     translation: and the wayfarer
     transliteration: wa-ib'na
   7:
-    arabic: السَّبِيۡلِ
+    arabic: ٱلسَّبِيلِ
     translation: and the wayfarer
     transliteration: l-sabīli
   8:
@@ -41,7 +41,7 @@ word_by_word:
     translation: spend
     transliteration: tubadhir
   10:
-    arabic: تَبۡذِيۡرًا‏
+    arabic: تَبۡذِيرًا
     translation: wastefully
     transliteration: tabdhīran
 ---

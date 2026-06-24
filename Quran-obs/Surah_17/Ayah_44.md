@@ -1,7 +1,7 @@
 ---
-arabic_ayat: تُسَبِّحُ لَهُ السَّمٰوٰتُ السَّبۡعُ وَالۡاَرۡضُ وَمَنۡ فِيۡهِنَّ​ؕ وَاِنۡ
-  مِّنۡ شَىۡءٍ اِلَّا يُسَبِّحُ بِحَمۡدِهٖ وَلٰـكِنۡ لَّا تَفۡقَهُوۡنَ تَسۡبِيۡحَهُمۡ​ؕ
-  اِنَّهٗ كَانَ حَلِيۡمًا غَفُوۡرًا‏
+arabic_ayat: تُسَبِّحُ لَهُ ٱلسَّمَٰوَٰتُ ٱلسَّبۡعُ وَٱلۡأَرۡضُ وَمَن فِيهِنَّۚ وَإِن
+  مِّن شَيۡءٍ إِلَّا يُسَبِّحُ بِحَمۡدِهِۦ وَلَٰكِن لَّا تَفۡقَهُونَ تَسۡبِيحَهُمۡۚ
+  إِنَّهُۥ كَانَ حَلِيمًا غَفُورٗا
 sentence_translation: The seven heavens, the earth, and all those in them glorify
   Him. There is not a single thing that does not glorify His praises—but you ˹simply˺
   cannot comprehend their glorification. He is indeed Most Forbearing, All-Forgiving.
@@ -15,39 +15,39 @@ word_by_word:
     translation: '[to] Him'
     transliteration: lahu
   3:
-    arabic: السَّمٰوٰتُ
+    arabic: ٱلسَّمَٰوَٰتُ
     translation: the seven heavens
     transliteration: l-samāwātu
   4:
-    arabic: السَّبۡعُ
+    arabic: ٱلسَّبۡعُ
     translation: the seven heavens
     transliteration: l-sabʿu
   5:
-    arabic: وَالۡاَرۡضُ
+    arabic: وَٱلۡأَرۡضُ
     translation: and the earth
     transliteration: wal-arḍu
   6:
-    arabic: وَمَنۡ
+    arabic: وَمَن
     translation: and whatever
     transliteration: waman
   7:
-    arabic: فِيۡهِنَّ​ؕ
+    arabic: فِيهِنَّۚ
     translation: (is) in them
     transliteration: fīhinna
   8:
-    arabic: وَاِنۡ
+    arabic: وَإِن
     translation: And (there is) not
     transliteration: wa-in
   9:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: any
     transliteration: min
   10:
-    arabic: شَىۡءٍ
+    arabic: شَيۡءٍ
     translation: thing
     transliteration: shayin
   11:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   12:
@@ -55,11 +55,11 @@ word_by_word:
     translation: glorifies
     transliteration: yusabbiḥu
   13:
-    arabic: بِحَمۡدِهٖ
+    arabic: بِحَمۡدِهِۦ
     translation: His Praise
     transliteration: biḥamdihi
   14:
-    arabic: وَلٰـكِنۡ
+    arabic: وَلَٰكِن
     translation: but
     transliteration: walākin
   15:
@@ -67,15 +67,15 @@ word_by_word:
     translation: not
     transliteration: lā
   16:
-    arabic: تَفۡقَهُوۡنَ
+    arabic: تَفۡقَهُونَ
     translation: you understand
     transliteration: tafqahūna
   17:
-    arabic: تَسۡبِيۡحَهُمۡ​ؕ
+    arabic: تَسۡبِيحَهُمۡۚ
     translation: their glorification
     transliteration: tasbīḥahum
   18:
-    arabic: اِنَّهٗ
+    arabic: إِنَّهُۥ
     translation: Indeed, He
     transliteration: innahu
   19:
@@ -83,11 +83,11 @@ word_by_word:
     translation: is
     transliteration: kāna
   20:
-    arabic: حَلِيۡمًا
+    arabic: حَلِيمًا
     translation: Ever-Forbearing
     transliteration: ḥalīman
   21:
-    arabic: غَفُوۡرًا‏
+    arabic: غَفُورٗا
     translation: Oft-Forgiving
     transliteration: ghafūran
 ---

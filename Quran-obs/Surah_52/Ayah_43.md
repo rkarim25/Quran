@@ -1,11 +1,10 @@
 ---
-arabic_ayat: "اَمۡ لَهُمۡ اِلٰهٌ غَيۡرُ اللّٰهِ​ؕ سُبۡحٰنَ اللّٰهِ عَمَّا يُشۡرِكُوۡنَ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: أَمۡ لَهُمۡ إِلَٰهٌ غَيۡرُ ٱللَّهِۚ سُبۡحَٰنَ ٱللَّهِ عَمَّا يُشۡرِكُونَ
 sentence_translation: Or do they have a god other than Allah? Glorified is Allah far
   above what they associate ˹with Him˺!
 word_by_word:
   1:
-    arabic: اَمۡ
+    arabic: أَمۡ
     translation: Or
     transliteration: am
   2:
@@ -13,7 +12,7 @@ word_by_word:
     translation: for them
     transliteration: lahum
   3:
-    arabic: اِلٰهٌ
+    arabic: إِلَٰهٌ
     translation: a god
     transliteration: ilāhun
   4:
@@ -21,15 +20,15 @@ word_by_word:
     translation: other than
     transliteration: ghayru
   5:
-    arabic: اللّٰهِ​ؕ
+    arabic: ٱللَّهِۚ
     translation: Allah
     transliteration: l-lahi
   6:
-    arabic: سُبۡحٰنَ
+    arabic: سُبۡحَٰنَ
     translation: Glory be
     transliteration: sub'ḥāna
   7:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (to) Allah
     transliteration: l-lahi
   8:
@@ -37,7 +36,7 @@ word_by_word:
     translation: from what
     transliteration: ʿammā
   9:
-    arabic: "يُشۡرِكُوۡنَ‏ \uFEFF\uFEFF"
+    arabic: يُشۡرِكُونَ
     translation: they associate (with Him)
     transliteration: yush'rikūna
 ---

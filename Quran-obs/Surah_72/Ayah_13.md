@@ -1,12 +1,12 @@
 ---
-arabic_ayat: وَّاَنَّا لَمَّا سَمِعۡنَا الۡهُدٰٓى اٰمَنَّا بِهٖ​ ؕ فَمَنۡ يُّؤۡمِنۡۢ
-  بِرَبِّهٖ فَلَا يَخَافُ بَخۡسًا وَّلَا رَهَقًا ۙ‏
+arabic_ayat: وَأَنَّا لَمَّا سَمِعۡنَا ٱلۡهُدَىٰٓ ءَامَنَّا بِهِۦۖ فَمَن يُؤۡمِنۢ
+  بِرَبِّهِۦ فَلَا يَخَافُ بَخۡسٗا وَلَا رَهَقٗا
 sentence_translation: When we heard the guidance ˹of the Quran˺, we ˹readily˺ believed
   in it. For whoever believes in their Lord will have no fear of being denied ˹a reward˺
   or wronged.
 word_by_word:
   1:
-    arabic: وَّاَنَّا
+    arabic: وَأَنَّا
     translation: And that [we]
     transliteration: wa-annā
   2:
@@ -18,27 +18,27 @@ word_by_word:
     translation: we heard
     transliteration: samiʿ'nā
   4:
-    arabic: الۡهُدٰٓى
+    arabic: ٱلۡهُدَىٰٓ ءَ
     translation: the Guidance
     transliteration: l-hudā
   5:
-    arabic: اٰمَنَّا
+    arabic: امَنَّا
     translation: we believed
     transliteration: āmannā
   6:
-    arabic: بِهٖ​ ؕ
+    arabic: بِهِۦۖ
     translation: in it
     transliteration: bihi
   7:
-    arabic: فَمَنۡ
+    arabic: فَمَن
     translation: And whoever
     transliteration: faman
   8:
-    arabic: يُّؤۡمِنۡۢ
+    arabic: يُؤۡمِنۢ
     translation: believes
     transliteration: yu'min
   9:
-    arabic: بِرَبِّهٖ
+    arabic: بِرَبِّهِۦ
     translation: in his Lord
     transliteration: birabbihi
   10:
@@ -50,15 +50,15 @@ word_by_word:
     translation: he will fear
     transliteration: yakhāfu
   12:
-    arabic: بَخۡسًا
+    arabic: بَخۡسٗا
     translation: any loss
     transliteration: bakhsan
   13:
-    arabic: وَّلَا
+    arabic: وَلَا
     translation: and not
     transliteration: walā
   14:
-    arabic: رَهَقًا ۙ‏
+    arabic: رَهَقٗا
     translation: any burden
     transliteration: rahaqan
 ---

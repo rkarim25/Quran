@@ -1,5 +1,5 @@
 ---
-arabic_ayat: قُلۡ اِنۡ كَانَ لِلرَّحۡمٰنِ وَلَدٌ ۖ فَاَنَا اَوَّلُ الۡعٰبِدِيۡنَ‏
+arabic_ayat: قُلۡ إِن كَانَ لِلرَّحۡمَٰنِ وَلَدٞ فَأَنَا۠ أَوَّلُ ٱلۡعَٰبِدِينَ
 sentence_translation: Say, ˹O Prophet,˺ “If the Most Compassionate ˹really˺ had offspring,
   I would be the first worshipper.”
 word_by_word:
@@ -8,7 +8,7 @@ word_by_word:
     translation: Say
     transliteration: qul
   2:
-    arabic: اِنۡ
+    arabic: إِن
     translation: If
     transliteration: in
   3:
@@ -16,23 +16,23 @@ word_by_word:
     translation: had
     transliteration: kāna
   4:
-    arabic: لِلرَّحۡمٰنِ
+    arabic: لِلرَّحۡمَٰنِ
     translation: the Most Gracious
     transliteration: lilrraḥmāni
   5:
-    arabic: وَلَدٌ ۖ
+    arabic: وَلَدٞ
     translation: a son
     transliteration: waladun
   6:
-    arabic: فَاَنَا
+    arabic: فَأَنَا۠
     translation: Then, I
     transliteration: fa-anā
   7:
-    arabic: اَوَّلُ
+    arabic: أَوَّلُ
     translation: (would be the) first
     transliteration: awwalu
   8:
-    arabic: الۡعٰبِدِيۡنَ‏
+    arabic: ٱلۡعَٰبِدِينَ
     translation: (of) the worshippers
     transliteration: l-ʿābidīna
 ---

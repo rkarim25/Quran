@@ -1,8 +1,8 @@
 ---
-arabic_ayat: لَا جُنَاحَ عَلَيۡهِنَّ فِىۡۤ اٰبَآٮِٕهِنَّ وَلَاۤ اَبۡنَآٮِٕهِنَّ
-  وَلَاۤ اِخۡوَانِهِنَّ وَلَاۤ اَبۡنَآءِ اِخۡوَانِهِنَّ وَلَاۤ اَبۡنَآءِ اَخَوٰتِهِنَّ
-  وَلَا نِسَآٮِٕهِنَّ وَلَا مَا مَلَـكَتۡ اَيۡمَانُهُنَّ ۚ وَاتَّقِيۡنَ اللّٰهَ ؕ
-  اِنَّ اللّٰهَ كَانَ عَلٰى كُلِّ شَىۡءٍ شَهِيۡدًا‏
+arabic_ayat: لَّا جُنَاحَ عَلَيۡهِنَّ فِيٓ ءَابَآئِهِنَّ وَلَآ أَبۡنَآئِهِنَّ وَلَآ
+  إِخۡوَٰنِهِنَّ وَلَآ أَبۡنَآءِ إِخۡوَٰنِهِنَّ وَلَآ أَبۡنَآءِ أَخَوَٰتِهِنَّ
+  وَلَا نِسَآئِهِنَّ وَلَا مَا مَلَكَتۡ أَيۡمَٰنُهُنَّۗ وَٱتَّقِينَ ٱللَّهَۚ إِنَّ
+  ٱللَّهَ كَانَ عَلَىٰ كُلِّ شَيۡءٖ شَهِيدًا
 sentence_translation: There is no blame on the Prophet’s wives ˹if they appear unveiled˺
   before their fathers, their sons, their brothers, their brothers’ sons, their sisters’
   sons, their fellow ˹Muslim˺ women, and those ˹bondspeople˺ in their possession.
@@ -10,7 +10,7 @@ sentence_translation: There is no blame on the Prophet’s wives ˹if they appea
   all things.
 word_by_word:
   1:
-    arabic: لَا
+    arabic: لَّا
     translation: (There is) no
     transliteration: lā
   2:
@@ -22,51 +22,51 @@ word_by_word:
     translation: upon them
     transliteration: ʿalayhinna
   4:
-    arabic: فِىۡۤ
+    arabic: فِيٓ ءَ
     translation: concerning
     transliteration: fī
   5:
-    arabic: اٰبَآٮِٕهِنَّ
+    arabic: ابَآئِهِنَّ
     translation: their fathers
     transliteration: ābāihinna
   6:
-    arabic: وَلَاۤ
+    arabic: وَلَآ
     translation: and not
     transliteration: walā
   7:
-    arabic: اَبۡنَآٮِٕهِنَّ
+    arabic: أَبۡنَآئِهِنَّ
     translation: their sons
     transliteration: abnāihinna
   8:
-    arabic: وَلَاۤ
+    arabic: وَلَآ
     translation: and not
     transliteration: walā
   9:
-    arabic: اِخۡوَانِهِنَّ
+    arabic: إِخۡوَٰنِهِنَّ
     translation: their brothers
     transliteration: ikh'wānihinna
   10:
-    arabic: وَلَاۤ
+    arabic: وَلَآ
     translation: and not
     transliteration: walā
   11:
-    arabic: اَبۡنَآءِ
+    arabic: أَبۡنَآءِ
     translation: sons
     transliteration: abnāi
   12:
-    arabic: اِخۡوَانِهِنَّ
+    arabic: إِخۡوَٰنِهِنَّ
     translation: (of) their brothers
     transliteration: ikh'wānihinna
   13:
-    arabic: وَلَاۤ
+    arabic: وَلَآ
     translation: and not
     transliteration: walā
   14:
-    arabic: اَبۡنَآءِ
+    arabic: أَبۡنَآءِ
     translation: sons
     transliteration: abnāi
   15:
-    arabic: اَخَوٰتِهِنَّ
+    arabic: أَخَوَٰتِهِنَّ
     translation: (of) their sisters
     transliteration: akhawātihinna
   16:
@@ -74,7 +74,7 @@ word_by_word:
     translation: and not
     transliteration: walā
   17:
-    arabic: نِسَآٮِٕهِنَّ
+    arabic: نِسَآئِهِنَّ
     translation: their women
     transliteration: nisāihinna
   18:
@@ -86,27 +86,27 @@ word_by_word:
     translation: what
     transliteration: mā
   20:
-    arabic: مَلَـكَتۡ
+    arabic: مَلَكَتۡ
     translation: they rightfully possess
     transliteration: malakat
   21:
-    arabic: اَيۡمَانُهُنَّ ۚ
+    arabic: أَيۡمَٰنُهُنَّۗ
     translation: they rightfully possess
     transliteration: aymānuhunna
   22:
-    arabic: وَاتَّقِيۡنَ
+    arabic: وَٱتَّقِينَ
     translation: And fear
     transliteration: wa-ittaqīna
   23:
-    arabic: اللّٰهَ ؕ
+    arabic: ٱللَّهَۚ
     translation: Allah
     transliteration: l-laha
   24:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   25:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   26:
@@ -114,7 +114,7 @@ word_by_word:
     translation: is
     transliteration: kāna
   27:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: over
     transliteration: ʿalā
   28:
@@ -122,11 +122,11 @@ word_by_word:
     translation: all
     transliteration: kulli
   29:
-    arabic: شَىۡءٍ
+    arabic: شَيۡءٖ
     translation: things
     transliteration: shayin
   30:
-    arabic: شَهِيۡدًا‏
+    arabic: شَهِيدًا
     translation: a Witness
     transliteration: shahīdan
 ---

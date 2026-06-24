@@ -1,5 +1,5 @@
 ---
-arabic_ayat: فَحَقَّ عَلَيۡنَا قَوۡلُ رَبِّنَآ ۖ اِنَّا لَذَآٮِٕقُوۡنَ‏
+arabic_ayat: فَحَقَّ عَلَيۡنَا قَوۡلُ رَبِّنَآۖ إِنَّا لَذَآئِقُونَ
 sentence_translation: 'The decree of our Lord has come to pass against us ˹all˺: we
   will certainly taste ˹the punishment˺.'
 word_by_word:
@@ -16,15 +16,15 @@ word_by_word:
     translation: (the) Word
     transliteration: qawlu
   4:
-    arabic: رَبِّنَآ ۖ
+    arabic: رَبِّنَآۖ
     translation: (of) our Lord
     transliteration: rabbinā
   5:
-    arabic: اِنَّا
+    arabic: إِنَّا
     translation: indeed, we
     transliteration: innā
   6:
-    arabic: لَذَآٮِٕقُوۡنَ‏
+    arabic: لَذَآئِقُونَ
     translation: (will) certainly taste
     transliteration: ladhāiqūna
 ---

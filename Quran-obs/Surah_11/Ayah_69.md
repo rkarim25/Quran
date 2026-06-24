@@ -1,6 +1,6 @@
 ---
-arabic_ayat: وَلَقَدۡ جَآءَتۡ رُسُلُنَاۤ اِبۡرٰهِيۡمَ بِالۡبُشۡرٰى قَالُوۡا سَلٰمًا​
-  ؕ قَالَ سَلٰمٌ​ فَمَا لَبِثَ اَنۡ جَآءَ بِعِجۡلٍ حَنِيۡذٍ‏
+arabic_ayat: وَلَقَدۡ جَآءَتۡ رُسُلُنَآ إِبۡرَٰهِيمَ بِٱلۡبُشۡرَىٰ قَالُواْ سَلَٰمٗاۖ
+  قَالَ سَلَٰمٞۖ فَمَا لَبِثَ أَن جَآءَ بِعِجۡلٍ حَنِيذٖ
 sentence_translation: And surely Our messenger-angels came to Abraham with good news
   ˹of a son˺. They greeted ˹him with˺, “Peace!” And he replied, “Peace ˹be upon you˺!”
   Then it was not long before he brought ˹them˺ a ˹fat,˺ roasted calf.
@@ -14,23 +14,23 @@ word_by_word:
     translation: came
     transliteration: jāat
   3:
-    arabic: رُسُلُنَاۤ
+    arabic: رُسُلُنَآ
     translation: Our messengers
     transliteration: rusulunā
   4:
-    arabic: اِبۡرٰهِيۡمَ
+    arabic: إِبۡرَٰهِيمَ
     translation: (to) Ibrahim
     transliteration: ib'rāhīma
   5:
-    arabic: بِالۡبُشۡرٰى
+    arabic: بِٱلۡبُشۡرَىٰ
     translation: with glad tidings
     transliteration: bil-bush'rā
   6:
-    arabic: قَالُوۡا
+    arabic: قَالُواْ
     translation: they said
     transliteration: qālū
   7:
-    arabic: سَلٰمًا​ ؕ
+    arabic: سَلَٰمٗاۖ
     translation: Peace
     transliteration: salāman
   8:
@@ -38,7 +38,7 @@ word_by_word:
     translation: He said
     transliteration: qāla
   9:
-    arabic: سَلٰمٌ​
+    arabic: سَلَٰمٞۖ
     translation: Peace
     transliteration: salāmun
   10:
@@ -50,7 +50,7 @@ word_by_word:
     translation: and not he delayed
     transliteration: labitha
   12:
-    arabic: اَنۡ
+    arabic: أَن
     translation: to
     transliteration: an
   13:
@@ -62,7 +62,7 @@ word_by_word:
     translation: a calf
     transliteration: biʿij'lin
   15:
-    arabic: حَنِيۡذٍ‏
+    arabic: حَنِيذٖ
     translation: roasted
     transliteration: ḥanīdhin
 ---

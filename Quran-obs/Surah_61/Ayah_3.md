@@ -1,5 +1,5 @@
 ---
-arabic_ayat: كَبُرَ مَقۡتًا عِنۡدَ اللّٰهِ اَنۡ تَقُوۡلُوۡا مَا لَا تَفۡعَلُوۡنَ‏
+arabic_ayat: كَبُرَ مَقۡتًا عِندَ ٱللَّهِ أَن تَقُولُواْ مَا لَا تَفۡعَلُونَ
 sentence_translation: How despicable it is in the sight of Allah that you say what
   you do not do!
 word_by_word:
@@ -12,19 +12,19 @@ word_by_word:
     translation: hatred
     transliteration: maqtan
   3:
-    arabic: عِنۡدَ
+    arabic: عِندَ
     translation: with
     transliteration: ʿinda
   4:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   5:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that
     transliteration: an
   6:
-    arabic: تَقُوۡلُوۡا
+    arabic: تَقُولُواْ
     translation: you say
     transliteration: taqūlū
   7:
@@ -36,7 +36,7 @@ word_by_word:
     translation: not
     transliteration: lā
   9:
-    arabic: تَفۡعَلُوۡنَ‏
+    arabic: تَفۡعَلُونَ
     translation: you do
     transliteration: tafʿalūna
 ---

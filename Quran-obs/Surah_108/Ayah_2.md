@@ -1,5 +1,5 @@
 ---
-arabic_ayat: فَصَلِّ لِرَبِّكَ وَانۡحَرۡ ؕ‏
+arabic_ayat: فَصَلِّ لِرَبِّكَ وَٱنۡحَرۡ
 sentence_translation: So pray and sacrifice to your Lord ˹alone˺.
 word_by_word:
   1:
@@ -11,7 +11,7 @@ word_by_word:
     translation: to your Lord
     transliteration: lirabbika
   3:
-    arabic: وَانۡحَرۡ ؕ‏
+    arabic: وَٱنۡحَرۡ
     translation: and sacrifice
     transliteration: wa-in'ḥar
 ---

@@ -1,15 +1,15 @@
 ---
-arabic_ayat: اِنَّ الَّذِيۡنَ لَا يُؤۡمِنُوۡنَ بِاٰيٰتِ اللّٰهِۙ لَا يَهۡدِيۡهِمُ
-  اللّٰهُ وَلَهُمۡ عَذَابٌ اَلِيۡمٌ‏
+arabic_ayat: إِنَّ ٱلَّذِينَ لَا يُؤۡمِنُونَ بِـَٔايَٰتِ ٱللَّهِ لَا يَهۡدِيهِمُ ٱللَّهُ
+  وَلَهُمۡ عَذَابٌ أَلِيمٌ
 sentence_translation: Surely those who do not believe in Allah’s revelations will
   never be guided by Allah, and they will suffer a painful punishment.
 word_by_word:
   1:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   3:
@@ -17,15 +17,15 @@ word_by_word:
     translation: (do) not
     transliteration: lā
   4:
-    arabic: يُؤۡمِنُوۡنَ
+    arabic: يُؤۡمِنُونَ
     translation: believe
     transliteration: yu'minūna
   5:
-    arabic: بِاٰيٰتِ
+    arabic: بِـَٔايَٰتِ
     translation: in the Verses
     transliteration: biāyāti
   6:
-    arabic: اللّٰهِۙ
+    arabic: ٱللَّهِ
     translation: (of) Allah
     transliteration: l-lahi
   7:
@@ -33,11 +33,11 @@ word_by_word:
     translation: not
     transliteration: lā
   8:
-    arabic: يَهۡدِيۡهِمُ
+    arabic: يَهۡدِيهِمُ
     translation: Allah will guide them
     transliteration: yahdīhimu
   9:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah will guide them
     transliteration: l-lahu
   10:
@@ -49,7 +49,7 @@ word_by_word:
     translation: (is) a punishment
     transliteration: ʿadhābun
   12:
-    arabic: اَلِيۡمٌ‏
+    arabic: أَلِيمٌ
     translation: painful
     transliteration: alīmun
 ---

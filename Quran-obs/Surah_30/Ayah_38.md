@@ -1,13 +1,12 @@
 ---
-arabic_ayat: "فَاٰتِ ذَا الۡقُرۡبٰى حَقَّهٗ وَ الۡمِسۡكِيۡنَ وَابۡنَ السَّبِيۡلِ​ؕ\
-  \ ذٰلِكَ خَيۡرٌ لِّلَّذِيۡنَ يُرِيۡدُوۡنَ وَجۡهَ اللّٰهِ​ وَاُولٰٓٮِٕكَ هُمُ الۡمُفۡلِحُوۡنَ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: فَـَٔاتِ ذَا ٱلۡقُرۡبَىٰ حَقَّهُۥ وَٱلۡمِسۡكِينَ وَٱبۡنَ ٱلسَّبِيلِۚ
+  ذَٰلِكَ خَيۡرٞ لِّلَّذِينَ يُرِيدُونَ وَجۡهَ ٱللَّهِۖ وَأُوْلَٰٓئِكَ هُمُ ٱلۡمُفۡلِحُونَ
 sentence_translation: So give your close relatives their due, as well as the poor
   and the ˹needy˺ traveller. That is best for those who seek the pleasure of Allah, and
   it is they who will be successful.
 word_by_word:
   1:
-    arabic: فَاٰتِ
+    arabic: فَـَٔاتِ
     translation: So give
     transliteration: faāti
   2:
@@ -15,39 +14,39 @@ word_by_word:
     translation: the relative
     transliteration: dhā
   3:
-    arabic: الۡقُرۡبٰى
+    arabic: ٱلۡقُرۡبَىٰ
     translation: the relative
     transliteration: l-qur'bā
   4:
-    arabic: حَقَّهٗ
+    arabic: حَقَّهُۥ
     translation: his right
     transliteration: ḥaqqahu
   5:
-    arabic: وَ الۡمِسۡكِيۡنَ
+    arabic: وَٱلۡمِسۡكِينَ
     translation: and the poor
     transliteration: wal-mis'kīna
   6:
-    arabic: وَابۡنَ
+    arabic: وَٱبۡنَ
     translation: and the wayfarer
     transliteration: wa-ib'na
   7:
-    arabic: السَّبِيۡلِ​ؕ
+    arabic: ٱلسَّبِيلِۚ
     translation: and the wayfarer
     transliteration: l-sabīli
   8:
-    arabic: ذٰلِكَ
+    arabic: ذَٰلِكَ
     translation: That
     transliteration: dhālika
   9:
-    arabic: خَيۡرٌ
+    arabic: خَيۡرٞ
     translation: (is) best
     transliteration: khayrun
   10:
-    arabic: لِّلَّذِيۡنَ
+    arabic: لِّلَّذِينَ
     translation: for those who
     transliteration: lilladhīna
   11:
-    arabic: يُرِيۡدُوۡنَ
+    arabic: يُرِيدُونَ
     translation: desire
     transliteration: yurīdūna
   12:
@@ -55,11 +54,11 @@ word_by_word:
     translation: (the) Countenance
     transliteration: wajha
   13:
-    arabic: اللّٰهِ​
+    arabic: ٱللَّهِۖ
     translation: (of) Allah
     transliteration: l-lahi
   14:
-    arabic: وَاُولٰٓٮِٕكَ
+    arabic: وَأُوْلَٰٓئِكَ
     translation: And those
     transliteration: wa-ulāika
   15:
@@ -67,7 +66,7 @@ word_by_word:
     translation: they
     transliteration: humu
   16:
-    arabic: "الۡمُفۡلِحُوۡنَ‏ \uFEFF\uFEFF"
+    arabic: ٱلۡمُفۡلِحُونَ
     translation: (are) the successful ones
     transliteration: l-muf'liḥūna
 ---

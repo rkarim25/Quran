@@ -1,9 +1,9 @@
 ---
-arabic_ayat: اَلَمۡ يَجِدۡكَ يَتِيۡمًا فَاٰوٰى‏
+arabic_ayat: أَلَمۡ يَجِدۡكَ يَتِيمٗا فَـَٔاوَىٰ
 sentence_translation: Did He not find you as an orphan then sheltered you?
 word_by_word:
   1:
-    arabic: اَلَمۡ
+    arabic: أَلَمۡ
     translation: Did not
     transliteration: alam
   2:
@@ -11,11 +11,11 @@ word_by_word:
     translation: He find you
     transliteration: yajid'ka
   3:
-    arabic: يَتِيۡمًا
+    arabic: يَتِيمٗا
     translation: an orphan
     transliteration: yatīman
   4:
-    arabic: فَاٰوٰى‏
+    arabic: فَـَٔاوَىٰ
     translation: and give shelter
     transliteration: faāwā
 ---

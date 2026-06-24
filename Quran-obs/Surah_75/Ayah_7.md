@@ -1,9 +1,9 @@
 ---
-arabic_ayat: فَاِذَا بَرِقَ الۡبَصَرُۙ‏
+arabic_ayat: فَإِذَا بَرِقَ ٱلۡبَصَرُ
 sentence_translation: But when the sight is stunned,
 word_by_word:
   1:
-    arabic: فَاِذَا
+    arabic: فَإِذَا
     translation: So when
     transliteration: fa-idhā
   2:
@@ -11,7 +11,7 @@ word_by_word:
     translation: is dazzled
     transliteration: bariqa
   3:
-    arabic: الۡبَصَرُۙ‏
+    arabic: ٱلۡبَصَرُ
     translation: the vision
     transliteration: l-baṣaru
 ---

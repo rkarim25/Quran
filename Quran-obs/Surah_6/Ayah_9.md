@@ -1,6 +1,6 @@
 ---
-arabic_ayat: وَلَوۡ جَعَلۡنٰهُ مَلَـكًا لَّـجَـعَلۡنٰهُ رَجُلًا وَّلَـلَبَسۡنَا عَلَيۡهِمۡ
-  مَّا يَلۡبِسُوۡنَ‏
+arabic_ayat: وَلَوۡ جَعَلۡنَٰهُ مَلَكٗا لَّجَعَلۡنَٰهُ رَجُلٗا وَلَلَبَسۡنَا عَلَيۡهِم
+  مَّا يَلۡبِسُونَ
 sentence_translation: And if We had sent an angel, We would have certainly made it
   ˹assume the form of˺ a man—leaving them more confused than they already are.
 word_by_word:
@@ -9,27 +9,27 @@ word_by_word:
     translation: And if
     transliteration: walaw
   2:
-    arabic: جَعَلۡنٰهُ
+    arabic: جَعَلۡنَٰهُ
     translation: We had made him
     transliteration: jaʿalnāhu
   3:
-    arabic: مَلَـكًا
+    arabic: مَلَكٗا
     translation: an Angel
     transliteration: malakan
   4:
-    arabic: لَّـجَـعَلۡنٰهُ
+    arabic: لَّجَعَلۡنَٰهُ
     translation: certainly We (would) have made him
     transliteration: lajaʿalnāhu
   5:
-    arabic: رَجُلًا
+    arabic: رَجُلٗا
     translation: a man
     transliteration: rajulan
   6:
-    arabic: وَّلَـلَبَسۡنَا
+    arabic: وَلَلَبَسۡنَا
     translation: and certainly We (would) have obscured
     transliteration: walalabasnā
   7:
-    arabic: عَلَيۡهِمۡ
+    arabic: عَلَيۡهِم
     translation: to them
     transliteration: ʿalayhim
   8:
@@ -37,7 +37,7 @@ word_by_word:
     translation: what
     transliteration: mā
   9:
-    arabic: يَلۡبِسُوۡنَ‏
+    arabic: يَلۡبِسُونَ
     translation: they are obscuring
     transliteration: yalbisūna
 ---

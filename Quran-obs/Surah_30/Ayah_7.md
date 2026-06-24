@@ -1,15 +1,15 @@
 ---
-arabic_ayat: يَعۡلَمُوۡنَ ظَاهِرًا مِّنَ الۡحَيٰوةِ الدُّنۡيَا ​ۖۚ وَهُمۡ عَنِ الۡاٰخِرَةِ
-  هُمۡ غٰفِلُوۡنَ‏
+arabic_ayat: يَعۡلَمُونَ ظَٰهِرٗا مِّنَ ٱلۡحَيَوٰةِ ٱلدُّنۡيَا وَهُمۡ عَنِ ٱلۡأٓخِرَةِ
+  هُمۡ غَٰفِلُونَ
 sentence_translation: They ˹only˺ know the worldly affairs of this life, but are ˹totally˺
   oblivious to the Hereafter.
 word_by_word:
   1:
-    arabic: يَعۡلَمُوۡنَ
+    arabic: يَعۡلَمُونَ
     translation: They know
     transliteration: yaʿlamūna
   2:
-    arabic: ظَاهِرًا
+    arabic: ظَٰهِرٗا
     translation: (the) apparent
     transliteration: ẓāhiran
   3:
@@ -17,11 +17,11 @@ word_by_word:
     translation: of
     transliteration: mina
   4:
-    arabic: الۡحَيٰوةِ
+    arabic: ٱلۡحَيَوٰةِ
     translation: the life
     transliteration: l-ḥayati
   5:
-    arabic: الدُّنۡيَا ​ۖۚ
+    arabic: ٱلدُّنۡيَا
     translation: (of) the world
     transliteration: l-dun'yā
   6:
@@ -33,7 +33,7 @@ word_by_word:
     translation: about
     transliteration: ʿani
   8:
-    arabic: الۡاٰخِرَةِ
+    arabic: ٱلۡأٓخِرَةِ
     translation: the Hereafter
     transliteration: l-ākhirati
   9:
@@ -41,7 +41,7 @@ word_by_word:
     translation: '[they]'
     transliteration: hum
   10:
-    arabic: غٰفِلُوۡنَ‏
+    arabic: غَٰفِلُونَ
     translation: (are) heedless
     transliteration: ghāfilūna
 ---

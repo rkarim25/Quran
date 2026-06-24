@@ -1,6 +1,6 @@
 ---
-arabic_ayat: قُلۡ فَاۡتُوۡا بِكِتٰبٍ مِّنۡ عِنۡدِ اللّٰهِ هُوَ اَهۡدٰى مِنۡهُمَاۤ
-  اَتَّبِعۡهُ اِنۡ كُنۡتُمۡ صٰدِقِيۡنَ‏
+arabic_ayat: قُلۡ فَأۡتُواْ بِكِتَٰبٖ مِّنۡ عِندِ ٱللَّهِ هُوَ أَهۡدَىٰ مِنۡهُمَآ
+  أَتَّبِعۡهُ إِن كُنتُمۡ صَٰدِقِينَ
 sentence_translation: Say, ˹O Prophet,˺ “Bring then a scripture from Allah which is
   a better guide than these two so I may follow it, if your claim is true.”
 word_by_word:
@@ -9,11 +9,11 @@ word_by_word:
     translation: Say
     transliteration: qul
   2:
-    arabic: فَاۡتُوۡا
+    arabic: فَأۡتُواْ
     translation: Then bring
     transliteration: fatū
   3:
-    arabic: بِكِتٰبٍ
+    arabic: بِكِتَٰبٖ
     translation: a Book
     transliteration: bikitābin
   4:
@@ -21,11 +21,11 @@ word_by_word:
     translation: from Allah
     transliteration: min
   5:
-    arabic: عِنۡدِ
+    arabic: عِندِ
     translation: from Allah
     transliteration: ʿindi
   6:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: from Allah
     transliteration: l-lahi
   7:
@@ -33,27 +33,27 @@ word_by_word:
     translation: which
     transliteration: huwa
   8:
-    arabic: اَهۡدٰى
+    arabic: أَهۡدَىٰ
     translation: (is) a better guide
     transliteration: ahdā
   9:
-    arabic: مِنۡهُمَاۤ
+    arabic: مِنۡهُمَآ
     translation: than both of them
     transliteration: min'humā
   10:
-    arabic: اَتَّبِعۡهُ
+    arabic: أَتَّبِعۡهُ
     translation: that I may follow it
     transliteration: attabiʿ'hu
   11:
-    arabic: اِنۡ
+    arabic: إِن
     translation: if
     transliteration: in
   12:
-    arabic: كُنۡتُمۡ
+    arabic: كُنتُمۡ
     translation: you are
     transliteration: kuntum
   13:
-    arabic: صٰدِقِيۡنَ‏
+    arabic: صَٰدِقِينَ
     translation: truthful
     transliteration: ṣādiqīna
 ---

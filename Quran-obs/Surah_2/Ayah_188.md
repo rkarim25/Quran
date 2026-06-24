@@ -1,7 +1,7 @@
 ---
-arabic_ayat: وَلَا تَاۡكُلُوۡٓا اَمۡوَالَـكُمۡ بَيۡنَكُمۡ بِالۡبَاطِلِ وَتُدۡلُوۡا
-  بِهَآ اِلَى الۡحُـکَّامِ لِتَاۡکُلُوۡا فَرِيۡقًا مِّنۡ اَمۡوَالِ النَّاسِ بِالۡاِثۡمِ
-  وَاَنۡـتُمۡ تَعۡلَمُوۡنَ‏
+arabic_ayat: وَلَا تَأۡكُلُوٓاْ أَمۡوَٰلَكُم بَيۡنَكُم بِٱلۡبَٰطِلِ وَتُدۡلُواْ بِهَآ
+  إِلَى ٱلۡحُكَّامِ لِتَأۡكُلُواْ فَرِيقٗا مِّنۡ أَمۡوَٰلِ ٱلنَّاسِ بِٱلۡإِثۡمِ وَأَنتُمۡ
+  تَعۡلَمُونَ
 sentence_translation: Do not consume one another’s wealth unjustly, nor deliberately
   bribe authorities in order to devour a portion of others’ property, knowing that
   it is a sin.
@@ -11,23 +11,23 @@ word_by_word:
     translation: And (do) not
     transliteration: walā
   2:
-    arabic: تَاۡكُلُوۡٓا
+    arabic: تَأۡكُلُوٓاْ
     translation: eat
     transliteration: takulū
   3:
-    arabic: اَمۡوَالَـكُمۡ
+    arabic: أَمۡوَٰلَكُم
     translation: your properties
     transliteration: amwālakum
   4:
-    arabic: بَيۡنَكُمۡ
+    arabic: بَيۡنَكُم
     translation: among yourselves
     transliteration: baynakum
   5:
-    arabic: بِالۡبَاطِلِ
+    arabic: بِٱلۡبَٰطِلِ
     translation: wrongfully
     transliteration: bil-bāṭili
   6:
-    arabic: وَتُدۡلُوۡا
+    arabic: وَتُدۡلُواْ
     translation: and present
     transliteration: watud'lū
   7:
@@ -35,19 +35,19 @@ word_by_word:
     translation: '[with] it'
     transliteration: bihā
   8:
-    arabic: اِلَى
+    arabic: إِلَى
     translation: to
     transliteration: ilā
   9:
-    arabic: الۡحُـکَّامِ
+    arabic: ٱلۡحُكَّامِ
     translation: the authorities
     transliteration: l-ḥukāmi
   10:
-    arabic: لِتَاۡکُلُوۡا
+    arabic: لِتَأۡكُلُواْ
     translation: so that you may eat
     transliteration: litakulū
   11:
-    arabic: فَرِيۡقًا
+    arabic: فَرِيقٗا
     translation: a portion
     transliteration: farīqan
   12:
@@ -55,23 +55,23 @@ word_by_word:
     translation: from
     transliteration: min
   13:
-    arabic: اَمۡوَالِ
+    arabic: أَمۡوَٰلِ
     translation: (the) wealth
     transliteration: amwāli
   14:
-    arabic: النَّاسِ
+    arabic: ٱلنَّاسِ
     translation: (of) the people
     transliteration: l-nāsi
   15:
-    arabic: بِالۡاِثۡمِ
+    arabic: بِٱلۡإِثۡمِ
     translation: sinfully
     transliteration: bil-ith'mi
   16:
-    arabic: وَاَنۡـتُمۡ
+    arabic: وَأَنتُمۡ
     translation: while you
     transliteration: wa-antum
   17:
-    arabic: تَعۡلَمُوۡنَ‏
+    arabic: تَعۡلَمُونَ
     translation: know
     transliteration: taʿlamūna
 ---

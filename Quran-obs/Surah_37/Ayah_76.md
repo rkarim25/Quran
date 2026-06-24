@@ -1,13 +1,13 @@
 ---
-arabic_ayat: وَنَجَّيۡنٰهُ وَاَهۡلَهٗ مِنَ الۡكَرۡبِ الۡعَظِيۡمِ  ۖ‏
+arabic_ayat: وَنَجَّيۡنَٰهُ وَأَهۡلَهُۥ مِنَ ٱلۡكَرۡبِ ٱلۡعَظِيمِ
 sentence_translation: We delivered him and his family from the great distress,
 word_by_word:
   1:
-    arabic: وَنَجَّيۡنٰهُ
+    arabic: وَنَجَّيۡنَٰهُ
     translation: And We saved him
     transliteration: wanajjaynāhu
   2:
-    arabic: وَاَهۡلَهٗ
+    arabic: وَأَهۡلَهُۥ
     translation: and his family
     transliteration: wa-ahlahu
   3:
@@ -15,11 +15,11 @@ word_by_word:
     translation: from
     transliteration: mina
   4:
-    arabic: الۡكَرۡبِ
+    arabic: ٱلۡكَرۡبِ
     translation: the distress
     transliteration: l-karbi
   5:
-    arabic: الۡعَظِيۡمِ  ۖ‏
+    arabic: ٱلۡعَظِيمِ
     translation: the great
     transliteration: l-ʿaẓīmi
 ---

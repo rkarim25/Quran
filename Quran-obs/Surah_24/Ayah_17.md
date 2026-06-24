@@ -1,6 +1,5 @@
 ---
-arabic_ayat: "يَعِظُكُمُ اللّٰهُ اَنۡ تَعُوۡدُوۡا لِمِثۡلِهٖۤ اَبَدًا اِنۡ كُنۡتُمۡ\
-  \ مُّؤۡمِنِيۡنَ​ۚ‏ \uFEFF\uFEFF"
+arabic_ayat: يَعِظُكُمُ ٱللَّهُ أَن تَعُودُواْ لِمِثۡلِهِۦٓ أَبَدًا إِن كُنتُم مُّؤۡمِنِينَ
 sentence_translation: Allah forbids you from ever doing something like this again,
   if you are ˹true˺ believers.
 word_by_word:
@@ -9,35 +8,35 @@ word_by_word:
     translation: Allah warns you
     transliteration: yaʿiẓukumu
   2:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah warns you
     transliteration: l-lahu
   3:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that
     transliteration: an
   4:
-    arabic: تَعُوۡدُوۡا
+    arabic: تَعُودُواْ
     translation: you return
     transliteration: taʿūdū
   5:
-    arabic: لِمِثۡلِهٖۤ
+    arabic: لِمِثۡلِهِۦٓ
     translation: (to the) like of it
     transliteration: limith'lihi
   6:
-    arabic: اَبَدًا
+    arabic: أَبَدًا
     translation: ever
     transliteration: abadan
   7:
-    arabic: اِنۡ
+    arabic: إِن
     translation: if
     transliteration: in
   8:
-    arabic: كُنۡتُمۡ
+    arabic: كُنتُم
     translation: you are
     transliteration: kuntum
   9:
-    arabic: مُّؤۡمِنِيۡنَ​
+    arabic: مُّؤۡمِنِينَ
     translation: believers
     transliteration: mu'minīna
 ---

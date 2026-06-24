@@ -1,11 +1,11 @@
 ---
-arabic_ayat: "بَلٰى مَنۡ اَوۡفٰى بِعَهۡدِهٖ وَاتَّقٰى فَاِنَّ اللّٰهَ يُحِبُّ الۡمُتَّقِيۡنَ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: بَلَىٰۚ مَنۡ أَوۡفَىٰ بِعَهۡدِهِۦ وَٱتَّقَىٰ فَإِنَّ ٱللَّهَ يُحِبُّ
+  ٱلۡمُتَّقِينَ
 sentence_translation: Absolutely! Those who honour their trusts and shun evil—surely
   Allah loves those who are mindful ˹of Him˺.
 word_by_word:
   1:
-    arabic: بَلٰى
+    arabic: بَلَىٰۚ
     translation: Nay
     transliteration: balā
   2:
@@ -13,23 +13,23 @@ word_by_word:
     translation: whoever
     transliteration: man
   3:
-    arabic: اَوۡفٰى
+    arabic: أَوۡفَىٰ
     translation: fulfills
     transliteration: awfā
   4:
-    arabic: بِعَهۡدِهٖ
+    arabic: بِعَهۡدِهِۦ
     translation: his covenant
     transliteration: biʿahdihi
   5:
-    arabic: وَاتَّقٰى
+    arabic: وَٱتَّقَىٰ
     translation: and fears (Allah)
     transliteration: wa-ittaqā
   6:
-    arabic: فَاِنَّ
+    arabic: فَإِنَّ
     translation: then indeed
     transliteration: fa-inna
   7:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   8:
@@ -37,7 +37,7 @@ word_by_word:
     translation: loves
     transliteration: yuḥibbu
   9:
-    arabic: "الۡمُتَّقِيۡنَ‏ \uFEFF\uFEFF"
+    arabic: ٱلۡمُتَّقِينَ
     translation: those who fear (Him)
     transliteration: l-mutaqīna
 ---

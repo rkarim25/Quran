@@ -1,29 +1,29 @@
 ---
-arabic_ayat: وَيَسۡتَعۡجِلُوۡنَكَ بِالۡعَذَابِ​ؕ وَلَوۡلَاۤ اَجَلٌ مُّسَمًّى لَّجَآءَهُمُ
-  الۡعَذَابُؕ وَلَيَاۡتِيَنَّهُمۡ بَغۡتَةً وَّهُمۡ لَا يَشۡعُرُوۡنَ‏
+arabic_ayat: وَيَسۡتَعۡجِلُونَكَ بِٱلۡعَذَابِ وَلَوۡلَآ أَجَلٞ مُّسَمّٗى لَّجَآءَهُمُ
+  ٱلۡعَذَابُۚ وَلَيَأۡتِيَنَّهُم بَغۡتَةٗ وَهُمۡ لَا يَشۡعُرُونَ
 sentence_translation: They challenge you ˹O Prophet˺ to hasten the punishment. Had
   it not been for a time already set, the punishment would have certainly come to
   them ˹at once˺. But it will definitely take them by surprise when they least expect
   it.
 word_by_word:
   1:
-    arabic: وَيَسۡتَعۡجِلُوۡنَكَ
+    arabic: وَيَسۡتَعۡجِلُونَكَ
     translation: And they ask you to hasten
     transliteration: wayastaʿjilūnaka
   2:
-    arabic: بِالۡعَذَابِ​ؕ
+    arabic: بِٱلۡعَذَابِ
     translation: '[with] the punishment'
     transliteration: bil-ʿadhābi
   3:
-    arabic: وَلَوۡلَاۤ
+    arabic: وَلَوۡلَآ
     translation: And if not
     transliteration: walawlā
   4:
-    arabic: اَجَلٌ
+    arabic: أَجَلٞ
     translation: (for) a term
     transliteration: ajalun
   5:
-    arabic: مُّسَمًّى
+    arabic: مُّسَمّٗى
     translation: appointed
     transliteration: musamman
   6:
@@ -31,19 +31,19 @@ word_by_word:
     translation: surely (would) have come to them
     transliteration: lajāahumu
   7:
-    arabic: الۡعَذَابُؕ
+    arabic: ٱلۡعَذَابُۚ
     translation: the punishment
     transliteration: l-ʿadhābu
   8:
-    arabic: وَلَيَاۡتِيَنَّهُمۡ
+    arabic: وَلَيَأۡتِيَنَّهُم
     translation: But it will surely come to them
     transliteration: walayatiyannahum
   9:
-    arabic: بَغۡتَةً
+    arabic: بَغۡتَةٗ
     translation: suddenly
     transliteration: baghtatan
   10:
-    arabic: وَّهُمۡ
+    arabic: وَهُمۡ
     translation: while they
     transliteration: wahum
   11:
@@ -51,7 +51,7 @@ word_by_word:
     translation: (do) not
     transliteration: lā
   12:
-    arabic: يَشۡعُرُوۡنَ‏
+    arabic: يَشۡعُرُونَ
     translation: perceive
     transliteration: yashʿurūna
 ---

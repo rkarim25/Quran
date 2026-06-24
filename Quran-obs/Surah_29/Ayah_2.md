@@ -1,35 +1,35 @@
 ---
-arabic_ayat: اَحَسِبَ النَّاسُ اَنۡ يُّتۡرَكُوۡۤا اَنۡ يَّقُوۡلُوۡۤا اٰمَنَّا وَهُمۡ
-  لَا يُفۡتَـنُوۡنَ‏
+arabic_ayat: أَحَسِبَ ٱلنَّاسُ أَن يُتۡرَكُوٓاْ أَن يَقُولُوٓاْ ءَامَنَّا وَهُمۡ لَا
+  يُفۡتَنُونَ
 sentence_translation: Do people think once they say, “We believe,” that they will
   be left without being put to the test?
 word_by_word:
   1:
-    arabic: اَحَسِبَ
+    arabic: أَحَسِبَ
     translation: Do think
     transliteration: aḥasiba
   2:
-    arabic: النَّاسُ
+    arabic: ٱلنَّاسُ
     translation: the people
     transliteration: l-nāsu
   3:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that
     transliteration: an
   4:
-    arabic: يُّتۡرَكُوۡۤا
+    arabic: يُتۡرَكُوٓاْ
     translation: they will be left
     transliteration: yut'rakū
   5:
-    arabic: اَنۡ
+    arabic: أَن
     translation: because
     transliteration: an
   6:
-    arabic: يَّقُوۡلُوۡۤا
+    arabic: يَقُولُوٓاْ ءَ
     translation: they say
     transliteration: yaqūlū
   7:
-    arabic: اٰمَنَّا
+    arabic: امَنَّا
     translation: We believe
     transliteration: āmannā
   8:
@@ -41,7 +41,7 @@ word_by_word:
     translation: will not be tested
     transliteration: lā
   10:
-    arabic: يُفۡتَـنُوۡنَ‏
+    arabic: يُفۡتَنُونَ
     translation: will not be tested
     transliteration: yuf'tanūna
 ---

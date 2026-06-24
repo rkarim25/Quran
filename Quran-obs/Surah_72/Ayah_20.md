@@ -1,5 +1,5 @@
 ---
-arabic_ayat: قُلۡ اِنَّمَاۤ اَدۡعُوۡا رَبِّىۡ وَلَاۤ اُشۡرِكُ بِهٖۤ اَحَدًا‏
+arabic_ayat: قُلۡ إِنَّمَآ أَدۡعُواْ رَبِّي وَلَآ أُشۡرِكُ بِهِۦٓ أَحَدٗا
 sentence_translation: Say, ˹O Prophet,˺ “I call only upon my Lord, associating none
   with Him ˹in worship˺.”
 word_by_word:
@@ -8,31 +8,31 @@ word_by_word:
     translation: Say
     transliteration: qul
   2:
-    arabic: اِنَّمَاۤ
+    arabic: إِنَّمَآ
     translation: Only
     transliteration: innamā
   3:
-    arabic: اَدۡعُوۡا
+    arabic: أَدۡعُواْ
     translation: I call upon
     transliteration: adʿū
   4:
-    arabic: رَبِّىۡ
+    arabic: رَبِّي
     translation: my Lord
     transliteration: rabbī
   5:
-    arabic: وَلَاۤ
+    arabic: وَلَآ
     translation: and not
     transliteration: walā
   6:
-    arabic: اُشۡرِكُ
+    arabic: أُشۡرِكُ
     translation: I associate
     transliteration: ush'riku
   7:
-    arabic: بِهٖۤ
+    arabic: بِهِۦٓ
     translation: with Him
     transliteration: bihi
   8:
-    arabic: اَحَدًا‏
+    arabic: أَحَدٗا
     translation: anyone
     transliteration: aḥadan
 ---

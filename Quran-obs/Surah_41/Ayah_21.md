@@ -1,18 +1,18 @@
 ---
-arabic_ayat: وَقَالُوۡا لِجُلُوۡدِهِمۡ لِمَ شَهِدْتُّمۡ عَلَيۡنَا​ ؕ قَالُوۡۤا اَنۡطَقَنَا
-  اللّٰهُ الَّذِىۡۤ اَنۡطَقَ كُلَّ شَىۡءٍ وَّهُوَ خَلَقَكُمۡ اَوَّلَ مَرَّةٍ وَّاِلَيۡهِ
-  تُرۡجَعُوۡنَ‏
+arabic_ayat: وَقَالُواْ لِجُلُودِهِمۡ لِمَ شَهِدتُّمۡ عَلَيۡنَاۖ قَالُوٓاْ أَنطَقَنَا
+  ٱللَّهُ ٱلَّذِيٓ أَنطَقَ كُلَّ شَيۡءٖۚ وَهُوَ خَلَقَكُمۡ أَوَّلَ مَرَّةٖ وَإِلَيۡهِ
+  تُرۡجَعُونَ
 sentence_translation: They will ask their skin ˹furiously˺, “Why have you testified
   against us?” It will say, “We have been made to speak by Allah, Who causes all things
   to speak. He ˹is the One Who˺ created you the first time, and to Him you were bound
   to return.
 word_by_word:
   1:
-    arabic: وَقَالُوۡا
+    arabic: وَقَالُواْ
     translation: And they will say
     transliteration: waqālū
   2:
-    arabic: لِجُلُوۡدِهِمۡ
+    arabic: لِجُلُودِهِمۡ
     translation: to their skins
     transliteration: lijulūdihim
   3:
@@ -20,31 +20,31 @@ word_by_word:
     translation: Why do
     transliteration: lima
   4:
-    arabic: شَهِدْتُّمۡ
+    arabic: شَهِدتُّمۡ
     translation: you testify
     transliteration: shahidttum
   5:
-    arabic: عَلَيۡنَا​ ؕ
+    arabic: عَلَيۡنَاۖ
     translation: against us
     transliteration: ʿalaynā
   6:
-    arabic: قَالُوۡۤا
+    arabic: قَالُوٓاْ
     translation: They will say
     transliteration: qālū
   7:
-    arabic: اَنۡطَقَنَا
+    arabic: أَنطَقَنَا
     translation: Allah made us speak
     transliteration: anṭaqanā
   8:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah made us speak
     transliteration: l-lahu
   9:
-    arabic: الَّذِىۡۤ
+    arabic: ٱلَّذِيٓ
     translation: the One Who
     transliteration: alladhī
   10:
-    arabic: اَنۡطَقَ
+    arabic: أَنطَقَ
     translation: makes speak
     transliteration: anṭaqa
   11:
@@ -52,11 +52,11 @@ word_by_word:
     translation: every
     transliteration: kulla
   12:
-    arabic: شَىۡءٍ
+    arabic: شَيۡءٖۚ
     translation: thing
     transliteration: shayin
   13:
-    arabic: وَّهُوَ
+    arabic: وَهُوَ
     translation: and He
     transliteration: wahuwa
   14:
@@ -64,19 +64,19 @@ word_by_word:
     translation: created you
     transliteration: khalaqakum
   15:
-    arabic: اَوَّلَ
+    arabic: أَوَّلَ
     translation: (the) first
     transliteration: awwala
   16:
-    arabic: مَرَّةٍ
+    arabic: مَرَّةٖ
     translation: time
     transliteration: marratin
   17:
-    arabic: وَّاِلَيۡهِ
+    arabic: وَإِلَيۡهِ
     translation: and to Him
     transliteration: wa-ilayhi
   18:
-    arabic: تُرۡجَعُوۡنَ‏
+    arabic: تُرۡجَعُونَ
     translation: you will be returned
     transliteration: tur'jaʿūna
 ---

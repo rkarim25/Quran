@@ -1,17 +1,17 @@
 ---
-arabic_ayat: فِىۡ صُحُفٍ مُّكَرَّمَةٍۙ‏
+arabic_ayat: فِي صُحُفٖ مُّكَرَّمَةٖ
 sentence_translation: It is ˹written˺ on pages held in honour—
 word_by_word:
   1:
-    arabic: فِىۡ
+    arabic: فِي
     translation: In
     transliteration: fī
   2:
-    arabic: صُحُفٍ
+    arabic: صُحُفٖ
     translation: sheets
     transliteration: ṣuḥufin
   3:
-    arabic: مُّكَرَّمَةٍۙ‏
+    arabic: مُّكَرَّمَةٖ
     translation: honored
     transliteration: mukarramatin
 ---

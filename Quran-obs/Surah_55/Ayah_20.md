@@ -1,5 +1,5 @@
 ---
-arabic_ayat: بَيۡنَهُمَا بَرۡزَخٌ لَّا يَبۡغِيٰنِ​ۚ‏
+arabic_ayat: بَيۡنَهُمَا بَرۡزَخٞ لَّا يَبۡغِيَانِ
 sentence_translation: yet between them is a barrier they never cross.
 word_by_word:
   1:
@@ -7,7 +7,7 @@ word_by_word:
     translation: Between both of them
     transliteration: baynahumā
   2:
-    arabic: بَرۡزَخٌ
+    arabic: بَرۡزَخٞ
     translation: (is) a barrier
     transliteration: barzakhun
   3:
@@ -15,7 +15,7 @@ word_by_word:
     translation: not
     transliteration: lā
   4:
-    arabic: يَبۡغِيٰنِ​ۚ‏
+    arabic: يَبۡغِيَانِ
     translation: they transgress
     transliteration: yabghiyāni
 ---

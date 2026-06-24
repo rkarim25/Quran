@@ -1,27 +1,27 @@
 ---
-arabic_ayat: ذٰ لِكَ بِاَنَّهُمُ اسۡتَحَبُّوا الۡحَيٰوةَ الدُّنۡيَا عَلَى الۡاٰخِرَةِ
-  ۙ وَاَنَّ اللّٰهَ لَا يَهۡدِى الۡقَوۡمَ الۡكٰفِرِيۡنَ‏
+arabic_ayat: ذَٰلِكَ بِأَنَّهُمُ ٱسۡتَحَبُّواْ ٱلۡحَيَوٰةَ ٱلدُّنۡيَا عَلَى ٱلۡأٓخِرَةِ
+  وَأَنَّ ٱللَّهَ لَا يَهۡدِي ٱلۡقَوۡمَ ٱلۡكَٰفِرِينَ
 sentence_translation: This is because they prefer the life of this world over the
   Hereafter. Surely Allah never guides those who ˹choose to˺ disbelieve.
 word_by_word:
   1:
-    arabic: ذٰ لِكَ
+    arabic: ذَٰلِكَ
     translation: That (is)
     transliteration: dhālika
   2:
-    arabic: بِاَنَّهُمُ
+    arabic: بِأَنَّهُمُ
     translation: because
     transliteration: bi-annahumu
   3:
-    arabic: اسۡتَحَبُّوا
+    arabic: ٱسۡتَحَبُّواْ
     translation: they preferred
     transliteration: is'taḥabbū
   4:
-    arabic: الۡحَيٰوةَ
+    arabic: ٱلۡحَيَوٰةَ
     translation: the life
     transliteration: l-ḥayata
   5:
-    arabic: الدُّنۡيَا
+    arabic: ٱلدُّنۡيَا
     translation: (of) the world
     transliteration: l-dun'yā
   6:
@@ -29,15 +29,15 @@ word_by_word:
     translation: over
     transliteration: ʿalā
   7:
-    arabic: الۡاٰخِرَةِ ۙ
+    arabic: ٱلۡأٓخِرَةِ
     translation: the Hereafter
     transliteration: l-ākhirati
   8:
-    arabic: وَاَنَّ
+    arabic: وَأَنَّ
     translation: and that
     transliteration: wa-anna
   9:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   10:
@@ -45,15 +45,15 @@ word_by_word:
     translation: (does) not
     transliteration: lā
   11:
-    arabic: يَهۡدِى
+    arabic: يَهۡدِي
     translation: guide
     transliteration: yahdī
   12:
-    arabic: الۡقَوۡمَ
+    arabic: ٱلۡقَوۡمَ
     translation: the people
     transliteration: l-qawma
   13:
-    arabic: الۡكٰفِرِيۡنَ‏
+    arabic: ٱلۡكَٰفِرِينَ
     translation: the disbelievers
     transliteration: l-kāfirīna
 ---

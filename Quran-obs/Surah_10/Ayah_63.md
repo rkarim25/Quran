@@ -1,21 +1,21 @@
 ---
-arabic_ayat: الَّذِيۡنَ اٰمَنُوۡا وَكَانُوۡا يَتَّقُوۡنَؕ‏
+arabic_ayat: ٱلَّذِينَ ءَامَنُواْ وَكَانُواْ يَتَّقُونَ
 sentence_translation: ˹They are˺ those who are faithful and are mindful ˹of Him˺.
 word_by_word:
   1:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ ءَ
     translation: Those who
     transliteration: alladhīna
   2:
-    arabic: اٰمَنُوۡا
+    arabic: امَنُواْ
     translation: believe
     transliteration: āmanū
   3:
-    arabic: وَكَانُوۡا
+    arabic: وَكَانُواْ
     translation: and are
     transliteration: wakānū
   4:
-    arabic: يَتَّقُوۡنَؕ‏
+    arabic: يَتَّقُونَ
     translation: conscious (of Allah)
     transliteration: yattaqūna
 ---

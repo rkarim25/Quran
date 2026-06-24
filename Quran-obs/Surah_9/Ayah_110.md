@@ -1,6 +1,6 @@
 ---
-arabic_ayat: لَا يَزَالُ بُنۡيَانُهُمُ الَّذِىۡ بَنَوۡا رِيۡبَةً فِىۡ قُلُوۡبِهِمۡ
-  اِلَّاۤ اَنۡ تَقَطَّعَ قُلُوۡبُهُمۡ​ؕ وَاللّٰهُ عَلِيۡمٌ حَكِيۡمٌ‏
+arabic_ayat: لَا يَزَالُ بُنۡيَٰنُهُمُ ٱلَّذِي بَنَوۡاْ رِيبَةٗ فِي قُلُوبِهِمۡ إِلَّآ
+  أَن تَقَطَّعَ قُلُوبُهُمۡۗ وَٱللَّهُ عَلِيمٌ حَكِيمٌ
 sentence_translation: The building which they erected will never cease to fuel hypocrisy
   in their hearts until their hearts are torn apart. And Allah is All-Knowing, All-Wise.
 word_by_word:
@@ -13,35 +13,35 @@ word_by_word:
     translation: (will) cease
     transliteration: yazālu
   3:
-    arabic: بُنۡيَانُهُمُ
+    arabic: بُنۡيَٰنُهُمُ
     translation: their building
     transliteration: bun'yānuhumu
   4:
-    arabic: الَّذِىۡ
+    arabic: ٱلَّذِي
     translation: which
     transliteration: alladhī
   5:
-    arabic: بَنَوۡا
+    arabic: بَنَوۡاْ
     translation: they built
     transliteration: banaw
   6:
-    arabic: رِيۡبَةً
+    arabic: رِيبَةٗ
     translation: a (cause of) doubt
     transliteration: rībatan
   7:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   8:
-    arabic: قُلُوۡبِهِمۡ
+    arabic: قُلُوبِهِمۡ
     translation: their hearts
     transliteration: qulūbihim
   9:
-    arabic: اِلَّاۤ
+    arabic: إِلَّآ
     translation: except
     transliteration: illā
   10:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that
     transliteration: an
   11:
@@ -49,19 +49,19 @@ word_by_word:
     translation: (are) cut into pieces
     transliteration: taqaṭṭaʿa
   12:
-    arabic: قُلُوۡبُهُمۡ​ؕ
+    arabic: قُلُوبُهُمۡۗ
     translation: their hearts
     transliteration: qulūbuhum
   13:
-    arabic: وَاللّٰهُ
+    arabic: وَٱللَّهُ
     translation: And Allah
     transliteration: wal-lahu
   14:
-    arabic: عَلِيۡمٌ
+    arabic: عَلِيمٌ
     translation: (is) All-Knower
     transliteration: ʿalīmun
   15:
-    arabic: حَكِيۡمٌ‏
+    arabic: حَكِيمٌ
     translation: All-Wise
     transliteration: ḥakīmun
 ---

@@ -1,6 +1,6 @@
 ---
-arabic_ayat: وَلَوۡ تَرٰٓى اِذۡ وُقِفُوۡا عَلَى النَّارِ فَقَالُوۡا يٰلَيۡتَنَا نُرَدُّ
-  وَلَا نُكَذِّبَ بِاٰيٰتِ رَبِّنَا وَنَكُوۡنَ مِنَ الۡمُؤۡمِنِيۡنَ‏
+arabic_ayat: وَلَوۡ تَرَىٰٓ إِذۡ وُقِفُواْ عَلَى ٱلنَّارِ فَقَالُواْ يَٰلَيۡتَنَا
+  نُرَدُّ وَلَا نُكَذِّبَ بِـَٔايَٰتِ رَبِّنَا وَنَكُونَ مِنَ ٱلۡمُؤۡمِنِينَ
 sentence_translation: If only you could see when they will be detained before the
   Fire! They will cry, “Oh! If only we could be sent back, we would never deny the
   signs of our Lord and we would ˹surely˺ be of the believers.”
@@ -10,15 +10,15 @@ word_by_word:
     translation: And if
     transliteration: walaw
   2:
-    arabic: تَرٰٓى
+    arabic: تَرَىٰٓ
     translation: you (could) see
     transliteration: tarā
   3:
-    arabic: اِذۡ
+    arabic: إِذۡ
     translation: when
     transliteration: idh
   4:
-    arabic: وُقِفُوۡا
+    arabic: وُقِفُواْ
     translation: they are made to stand
     transliteration: wuqifū
   5:
@@ -26,15 +26,15 @@ word_by_word:
     translation: by
     transliteration: ʿalā
   6:
-    arabic: النَّارِ
+    arabic: ٱلنَّارِ
     translation: the Fire
     transliteration: l-nāri
   7:
-    arabic: فَقَالُوۡا
+    arabic: فَقَالُواْ
     translation: then they (will) say
     transliteration: faqālū
   8:
-    arabic: يٰلَيۡتَنَا
+    arabic: يَٰلَيۡتَنَا
     translation: Oh! Would that we
     transliteration: yālaytanā
   9:
@@ -50,7 +50,7 @@ word_by_word:
     translation: we would deny
     transliteration: nukadhiba
   12:
-    arabic: بِاٰيٰتِ
+    arabic: بِـَٔايَٰتِ
     translation: (the) Signs
     transliteration: biāyāti
   13:
@@ -58,7 +58,7 @@ word_by_word:
     translation: (of) our Lord
     transliteration: rabbinā
   14:
-    arabic: وَنَكُوۡنَ
+    arabic: وَنَكُونَ
     translation: and we would be
     transliteration: wanakūna
   15:
@@ -66,7 +66,7 @@ word_by_word:
     translation: among
     transliteration: mina
   16:
-    arabic: الۡمُؤۡمِنِيۡنَ‏
+    arabic: ٱلۡمُؤۡمِنِينَ
     translation: the believers
     transliteration: l-mu'minīna
 ---

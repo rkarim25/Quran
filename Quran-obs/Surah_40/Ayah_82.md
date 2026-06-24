@@ -1,30 +1,30 @@
 ---
-arabic_ayat: اَفَلَمۡ يَسِيۡرُوۡا فِى الۡاَرۡضِ فَيَنۡظُرُوۡا كَيۡفَ كَانَ عَاقِبَةُ
-  الَّذِيۡنَ مِنۡ قَبۡلِهِمۡؕ كَانُوۡۤا اَكۡثَرَ مِنۡهُمۡ وَاَشَدَّ قُوَّةً وَّ اٰثَارًا
-  فِى الۡاَرۡضِ فَمَاۤ اَغۡنٰى عَنۡهُمۡ مَّا كَانُوۡا يَكۡسِبُوۡنَ‏
+arabic_ayat: أَفَلَمۡ يَسِيرُواْ فِي ٱلۡأَرۡضِ فَيَنظُرُواْ كَيۡفَ كَانَ عَٰقِبَةُ
+  ٱلَّذِينَ مِن قَبۡلِهِمۡۚ كَانُوٓاْ أَكۡثَرَ مِنۡهُمۡ وَأَشَدَّ قُوَّةٗ وَءَاثَارٗا
+  فِي ٱلۡأَرۡضِ فَمَآ أَغۡنَىٰ عَنۡهُم مَّا كَانُواْ يَكۡسِبُونَ
 sentence_translation: Have they not travelled throughout the land to see what was
   the end of those who were ˹destroyed˺ before them? They were far superior in might
   and ˹richer in˺ monuments throughout the land, but their ˹worldly˺ gains were of
   no benefit to them.
 word_by_word:
   1:
-    arabic: اَفَلَمۡ
+    arabic: أَفَلَمۡ
     translation: Do they not
     transliteration: afalam
   2:
-    arabic: يَسِيۡرُوۡا
+    arabic: يَسِيرُواْ
     translation: travel
     transliteration: yasīrū
   3:
-    arabic: فِى
+    arabic: فِي
     translation: through
     transliteration: fī
   4:
-    arabic: الۡاَرۡضِ
+    arabic: ٱلۡأَرۡضِ
     translation: the land
     transliteration: l-arḍi
   5:
-    arabic: فَيَنۡظُرُوۡا
+    arabic: فَيَنظُرُواْ
     translation: and see
     transliteration: fayanẓurū
   6:
@@ -36,27 +36,27 @@ word_by_word:
     translation: was
     transliteration: kāna
   8:
-    arabic: عَاقِبَةُ
+    arabic: عَٰقِبَةُ
     translation: (the) end
     transliteration: ʿāqibatu
   9:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: (of) those who
     transliteration: alladhīna
   10:
-    arabic: مِنۡ
+    arabic: مِن
     translation: (were) before them
     transliteration: min
   11:
-    arabic: قَبۡلِهِمۡؕ
+    arabic: قَبۡلِهِمۡۚ
     translation: (were) before them
     transliteration: qablihim
   12:
-    arabic: كَانُوۡۤا
+    arabic: كَانُوٓاْ
     translation: They were
     transliteration: kānū
   13:
-    arabic: اَكۡثَرَ
+    arabic: أَكۡثَرَ
     translation: more numerous
     transliteration: akthara
   14:
@@ -64,35 +64,35 @@ word_by_word:
     translation: than them
     transliteration: min'hum
   15:
-    arabic: وَاَشَدَّ
+    arabic: وَأَشَدَّ
     translation: and mightier
     transliteration: wa-ashadda
   16:
-    arabic: قُوَّةً
+    arabic: قُوَّةٗ
     translation: (in) strength
     transliteration: quwwatan
   17:
-    arabic: وَّ اٰثَارًا
+    arabic: وَءَاثَارٗا
     translation: and impressions
     transliteration: waāthāran
   18:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   19:
-    arabic: الۡاَرۡضِ
+    arabic: ٱلۡأَرۡضِ
     translation: the land
     transliteration: l-arḍi
   20:
-    arabic: فَمَاۤ
+    arabic: فَمَآ
     translation: but not
     transliteration: famā
   21:
-    arabic: اَغۡنٰى
+    arabic: أَغۡنَىٰ
     translation: availed
     transliteration: aghnā
   22:
-    arabic: عَنۡهُمۡ
+    arabic: عَنۡهُم
     translation: them
     transliteration: ʿanhum
   23:
@@ -100,11 +100,11 @@ word_by_word:
     translation: what
     transliteration: mā
   24:
-    arabic: كَانُوۡا
+    arabic: كَانُواْ
     translation: they used to
     transliteration: kānū
   25:
-    arabic: يَكۡسِبُوۡنَ‏
+    arabic: يَكۡسِبُونَ
     translation: earn
     transliteration: yaksibūna
 ---

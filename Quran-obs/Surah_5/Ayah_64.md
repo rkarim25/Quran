@@ -1,10 +1,10 @@
 ---
-arabic_ayat: وَقَالَتِ الۡيَهُوۡدُ يَدُ اللّٰهِ مَغۡلُوۡلَةٌ​ ؕ غُلَّتۡ اَيۡدِيۡهِمۡ
-  وَلُعِنُوۡا بِمَا قَالُوۡا​ ۘ بَلۡ يَدٰهُ مَبۡسُوۡطَتٰنِ ۙ يُنۡفِقُ كَيۡفَ يَشَآءُ​
-  ؕ وَلَيَزِيۡدَنَّ كَثِيۡرًا مِّنۡهُمۡ مَّاۤ اُنۡزِلَ اِلَيۡكَ مِنۡ رَّبِّكَ طُغۡيَانًا
-  وَّكُفۡرًا​ ؕ وَاَ لۡقَيۡنَا بَيۡنَهُمُ الۡعَدَاوَةَ وَالۡبَغۡضَآءَ اِلٰى يَوۡمِ
-  الۡقِيٰمَةِ​ ؕ كُلَّمَاۤ اَوۡقَدُوۡا نَارًا لِّلۡحَرۡبِ اَطۡفَاَهَا اللّٰهُ​ ۙ وَيَسۡعَوۡنَ
-  فِى الۡاَرۡضِ فَسَادًا​ ؕ وَاللّٰهُ لَا يُحِبُّ الۡمُفۡسِدِيۡنَ‏
+arabic_ayat: وَقَالَتِ ٱلۡيَهُودُ يَدُ ٱللَّهِ مَغۡلُولَةٌۚ غُلَّتۡ أَيۡدِيهِمۡ وَلُعِنُواْ
+  بِمَا قَالُواْۘ بَلۡ يَدَاهُ مَبۡسُوطَتَانِ يُنفِقُ كَيۡفَ يَشَآءُۚ وَلَيَزِيدَنَّ
+  كَثِيرٗا مِّنۡهُم مَّآ أُنزِلَ إِلَيۡكَ مِن رَّبِّكَ طُغۡيَٰنٗا وَكُفۡرٗاۚ وَأَلۡقَيۡنَا
+  بَيۡنَهُمُ ٱلۡعَدَٰوَةَ وَٱلۡبَغۡضَآءَ إِلَىٰ يَوۡمِ ٱلۡقِيَٰمَةِۚ كُلَّمَآ أَوۡقَدُواْ
+  نَارٗا لِّلۡحَرۡبِ أَطۡفَأَهَا ٱللَّهُۚ وَيَسۡعَوۡنَ فِي ٱلۡأَرۡضِ فَسَادٗاۚ وَٱللَّهُ
+  لَا يُحِبُّ ٱلۡمُفۡسِدِينَ
 sentence_translation: ˹Some among˺ the Jews said, “Allah is tight-fisted.” May their
   fists be tied and they be condemned for what they said. Rather, He is open-handed,
   giving freely as He pleases. That which has been revealed to you ˹O Prophet˺ from
@@ -18,7 +18,7 @@ word_by_word:
     translation: And said
     transliteration: waqālati
   2:
-    arabic: الۡيَهُوۡدُ
+    arabic: ٱلۡيَهُودُ
     translation: the Jews
     transliteration: l-yahūdu
   3:
@@ -26,11 +26,11 @@ word_by_word:
     translation: The Hand
     transliteration: yadu
   4:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (of) Allah
     transliteration: l-lahi
   5:
-    arabic: مَغۡلُوۡلَةٌ​ ؕ
+    arabic: مَغۡلُولَةٌۚ
     translation: (is) chained
     transliteration: maghlūlatun
   6:
@@ -38,11 +38,11 @@ word_by_word:
     translation: Are chained
     transliteration: ghullat
   7:
-    arabic: اَيۡدِيۡهِمۡ
+    arabic: أَيۡدِيهِمۡ
     translation: their hands
     transliteration: aydīhim
   8:
-    arabic: وَلُعِنُوۡا
+    arabic: وَلُعِنُواْ
     translation: and they have been cursed
     transliteration: waluʿinū
   9:
@@ -50,7 +50,7 @@ word_by_word:
     translation: for what
     transliteration: bimā
   10:
-    arabic: قَالُوۡا​ ۘ
+    arabic: قَالُواْۘ
     translation: they said
     transliteration: qālū
   11:
@@ -58,15 +58,15 @@ word_by_word:
     translation: Nay
     transliteration: bal
   12:
-    arabic: يَدٰهُ
+    arabic: يَدَاهُ
     translation: His Hands
     transliteration: yadāhu
   13:
-    arabic: مَبۡسُوۡطَتٰنِ ۙ
+    arabic: مَبۡسُوطَتَانِ
     translation: (are) stretched out
     transliteration: mabsūṭatāni
   14:
-    arabic: يُنۡفِقُ
+    arabic: يُنفِقُ
     translation: He spends
     transliteration: yunfiqu
   15:
@@ -74,35 +74,35 @@ word_by_word:
     translation: how
     transliteration: kayfa
   16:
-    arabic: يَشَآءُ​ ؕ
+    arabic: يَشَآءُۚ
     translation: He wills
     transliteration: yashāu
   17:
-    arabic: وَلَيَزِيۡدَنَّ
+    arabic: وَلَيَزِيدَنَّ
     translation: And surely increase
     transliteration: walayazīdanna
   18:
-    arabic: كَثِيۡرًا
+    arabic: كَثِيرٗا
     translation: many
     transliteration: kathīran
   19:
-    arabic: مِّنۡهُمۡ
+    arabic: مِّنۡهُم
     translation: of them
     transliteration: min'hum
   20:
-    arabic: مَّاۤ
+    arabic: مَّآ
     translation: what
     transliteration: mā
   21:
-    arabic: اُنۡزِلَ
+    arabic: أُنزِلَ
     translation: has been revealed
     transliteration: unzila
   22:
-    arabic: اِلَيۡكَ
+    arabic: إِلَيۡكَ
     translation: to you
     transliteration: ilayka
   23:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   24:
@@ -110,15 +110,15 @@ word_by_word:
     translation: your Lord
     transliteration: rabbika
   25:
-    arabic: طُغۡيَانًا
+    arabic: طُغۡيَٰنٗا
     translation: (in) rebellion
     transliteration: ṭugh'yānan
   26:
-    arabic: وَّكُفۡرًا​ ؕ
+    arabic: وَكُفۡرٗاۚ
     translation: and disbelief
     transliteration: wakuf'ran
   27:
-    arabic: وَاَ لۡقَيۡنَا
+    arabic: وَأَلۡقَيۡنَا
     translation: And We have cast
     transliteration: wa-alqaynā
   28:
@@ -126,15 +126,15 @@ word_by_word:
     translation: among them
     transliteration: baynahumu
   29:
-    arabic: الۡعَدَاوَةَ
+    arabic: ٱلۡعَدَٰوَةَ
     translation: '[the] enmity'
     transliteration: l-ʿadāwata
   30:
-    arabic: وَالۡبَغۡضَآءَ
+    arabic: وَٱلۡبَغۡضَآءَ
     translation: and [the] hatred
     transliteration: wal-baghḍāa
   31:
-    arabic: اِلٰى
+    arabic: إِلَىٰ
     translation: till
     transliteration: ilā
   32:
@@ -142,19 +142,19 @@ word_by_word:
     translation: (the) Day
     transliteration: yawmi
   33:
-    arabic: الۡقِيٰمَةِ​ ؕ
+    arabic: ٱلۡقِيَٰمَةِۚ
     translation: (of) the Resurrection
     transliteration: l-qiyāmati
   34:
-    arabic: كُلَّمَاۤ
+    arabic: كُلَّمَآ
     translation: Every time
     transliteration: kullamā
   35:
-    arabic: اَوۡقَدُوۡا
+    arabic: أَوۡقَدُواْ
     translation: they kindled
     transliteration: awqadū
   36:
-    arabic: نَارًا
+    arabic: نَارٗا
     translation: (the) fire
     transliteration: nāran
   37:
@@ -162,11 +162,11 @@ word_by_word:
     translation: of [the] war
     transliteration: lil'ḥarbi
   38:
-    arabic: اَطۡفَاَهَا
+    arabic: أَطۡفَأَهَا
     translation: it (was) extinguished
     transliteration: aṭfa-ahā
   39:
-    arabic: اللّٰهُ​ ۙ
+    arabic: ٱللَّهُۚ
     translation: (by) Allah
     transliteration: l-lahu
   40:
@@ -174,19 +174,19 @@ word_by_word:
     translation: And they strive
     transliteration: wayasʿawna
   41:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   42:
-    arabic: الۡاَرۡضِ
+    arabic: ٱلۡأَرۡضِ
     translation: the earth
     transliteration: l-arḍi
   43:
-    arabic: فَسَادًا​ ؕ
+    arabic: فَسَادٗاۚ
     translation: spreading corruption
     transliteration: fasādan
   44:
-    arabic: وَاللّٰهُ
+    arabic: وَٱللَّهُ
     translation: And Allah
     transliteration: wal-lahu
   45:
@@ -198,7 +198,7 @@ word_by_word:
     translation: love
     transliteration: yuḥibbu
   47:
-    arabic: الۡمُفۡسِدِيۡنَ‏
+    arabic: ٱلۡمُفۡسِدِينَ
     translation: the corrupters
     transliteration: l-muf'sidīna
 ---

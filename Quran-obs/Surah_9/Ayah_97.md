@@ -1,72 +1,72 @@
 ---
-arabic_ayat: اَلۡاَعۡرَابُ اَشَدُّ كُفۡرًا وَّ نِفَاقًا وَّاَجۡدَرُ اَلَّا يَعۡلَمُوۡا
-  حُدُوۡدَ مَاۤ اَنۡزَلَ اللّٰهُ عَلٰى رَسُوۡلِهٖ​ؕ وَاللّٰهُ عَلِيۡمٌ حَكِيۡمٌ‏
+arabic_ayat: ٱلۡأَعۡرَابُ أَشَدُّ كُفۡرٗا وَنِفَاقٗا وَأَجۡدَرُ أَلَّا يَعۡلَمُواْ
+  حُدُودَ مَآ أَنزَلَ ٱللَّهُ عَلَىٰ رَسُولِهِۦۗ وَٱللَّهُ عَلِيمٌ حَكِيمٞ
 sentence_translation: The nomadic Arabs ˹around Medina˺ are far worse in disbelief
   and hypocrisy, and less likely to know the laws revealed by Allah to His Messenger.
   And Allah is All-Knowing, All-Wise.
 word_by_word:
   1:
-    arabic: اَلۡاَعۡرَابُ
+    arabic: ٱلۡأَعۡرَابُ
     translation: The bedouins
     transliteration: al-aʿrābu
   2:
-    arabic: اَشَدُّ
+    arabic: أَشَدُّ
     translation: (are) stronger
     transliteration: ashaddu
   3:
-    arabic: كُفۡرًا
+    arabic: كُفۡرٗا
     translation: (in) disbelief
     transliteration: kuf'ran
   4:
-    arabic: وَّ نِفَاقًا
+    arabic: وَنِفَاقٗا
     translation: and hypocrisy
     transliteration: wanifāqan
   5:
-    arabic: وَّاَجۡدَرُ
+    arabic: وَأَجۡدَرُ
     translation: and more likely
     transliteration: wa-ajdaru
   6:
-    arabic: اَلَّا
+    arabic: أَلَّا
     translation: that not
     transliteration: allā
   7:
-    arabic: يَعۡلَمُوۡا
+    arabic: يَعۡلَمُواْ
     translation: they know
     transliteration: yaʿlamū
   8:
-    arabic: حُدُوۡدَ
+    arabic: حُدُودَ
     translation: (the) limits
     transliteration: ḥudūda
   9:
-    arabic: مَاۤ
+    arabic: مَآ
     translation: (of) what
     transliteration: mā
   10:
-    arabic: اَنۡزَلَ
+    arabic: أَنزَلَ
     translation: Allah (has) revealed
     transliteration: anzala
   11:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah (has) revealed
     transliteration: l-lahu
   12:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: to
     transliteration: ʿalā
   13:
-    arabic: رَسُوۡلِهٖ​ؕ
+    arabic: رَسُولِهِۦۗ
     translation: His Messenger
     transliteration: rasūlihi
   14:
-    arabic: وَاللّٰهُ
+    arabic: وَٱللَّهُ
     translation: And Allah
     transliteration: wal-lahu
   15:
-    arabic: عَلِيۡمٌ
+    arabic: عَلِيمٌ
     translation: (is) All-Knower
     transliteration: ʿalīmun
   16:
-    arabic: حَكِيۡمٌ‏
+    arabic: حَكِيمٞ
     translation: All-Wise
     transliteration: ḥakīmun
 ---

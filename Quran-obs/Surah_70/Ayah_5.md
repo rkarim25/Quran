@@ -1,17 +1,17 @@
 ---
-arabic_ayat: فَاصۡبِرۡ صَبۡرًا جَمِيۡلًا‏
+arabic_ayat: فَٱصۡبِرۡ صَبۡرٗا جَمِيلًا
 sentence_translation: So endure ˹this denial, O  Prophet,˺ with beautiful patience.
 word_by_word:
   1:
-    arabic: فَاصۡبِرۡ
+    arabic: فَٱصۡبِرۡ
     translation: So be patient
     transliteration: fa-iṣ'bir
   2:
-    arabic: صَبۡرًا
+    arabic: صَبۡرٗا
     translation: a patience
     transliteration: ṣabran
   3:
-    arabic: جَمِيۡلًا‏
+    arabic: جَمِيلًا
     translation: good
     transliteration: jamīlan
 ---

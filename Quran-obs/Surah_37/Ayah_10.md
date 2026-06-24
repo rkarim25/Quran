@@ -1,10 +1,10 @@
 ---
-arabic_ayat: اِلَّا مَنۡ خَطِفَ الۡخَطۡفَةَ فَاَتۡبَعَهٗ شِهَابٌ ثَاقِبٌ‏
+arabic_ayat: إِلَّا مَنۡ خَطِفَ ٱلۡخَطۡفَةَ فَأَتۡبَعَهُۥ شِهَابٞ ثَاقِبٞ
 sentence_translation: But whoever manages to stealthily eavesdrop is ˹instantly˺ pursued
   by a piercing flare.
 word_by_word:
   1:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: Except
     transliteration: illā
   2:
@@ -16,19 +16,19 @@ word_by_word:
     translation: snatches
     transliteration: khaṭifa
   4:
-    arabic: الۡخَطۡفَةَ
+    arabic: ٱلۡخَطۡفَةَ
     translation: (by) theft
     transliteration: l-khaṭfata
   5:
-    arabic: فَاَتۡبَعَهٗ
+    arabic: فَأَتۡبَعَهُۥ
     translation: but follows him
     transliteration: fa-atbaʿahu
   6:
-    arabic: شِهَابٌ
+    arabic: شِهَابٞ
     translation: a burning flame
     transliteration: shihābun
   7:
-    arabic: ثَاقِبٌ‏
+    arabic: ثَاقِبٞ
     translation: piercing
     transliteration: thāqibun
 ---

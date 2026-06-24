@@ -1,9 +1,9 @@
 ---
-arabic_ayat: وَّبَنَيۡنَا فَوۡقَكُمۡ سَبۡعًا شِدَادًا ۙ‏
+arabic_ayat: وَبَنَيۡنَا فَوۡقَكُمۡ سَبۡعٗا شِدَادٗا
 sentence_translation: and built above you seven mighty ˹heavens˺,
 word_by_word:
   1:
-    arabic: وَّبَنَيۡنَا
+    arabic: وَبَنَيۡنَا
     translation: And We constructed
     transliteration: wabanaynā
   2:
@@ -11,11 +11,11 @@ word_by_word:
     translation: over you
     transliteration: fawqakum
   3:
-    arabic: سَبۡعًا
+    arabic: سَبۡعٗا
     translation: seven
     transliteration: sabʿan
   4:
-    arabic: شِدَادًا ۙ‏
+    arabic: شِدَادٗا
     translation: strong
     transliteration: shidādan
 ---

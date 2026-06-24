@@ -1,19 +1,18 @@
 ---
-arabic_ayat: "لِيَاۡكُلُوۡا مِنۡ ثَمَرِهٖ ۙ وَمَا عَمِلَـتۡهُ اَيۡدِيۡهِمۡ​ ؕ اَفَلَا\
-  \ يَشۡكُرُوۡنَ‏ \uFEFF\uFEFF"
+arabic_ayat: لِيَأۡكُلُواْ مِن ثَمَرِهِۦ وَمَا عَمِلَتۡهُ أَيۡدِيهِمۡۚ أَفَلَا يَشۡكُرُونَ
 sentence_translation: so that they may eat from its fruit, which they had no hand
   in making. Will they not then give thanks?
 word_by_word:
   1:
-    arabic: لِيَاۡكُلُوۡا
+    arabic: لِيَأۡكُلُواْ
     translation: That they may eat
     transliteration: liyakulū
   2:
-    arabic: مِنۡ
+    arabic: مِن
     translation: of
     transliteration: min
   3:
-    arabic: ثَمَرِهٖ ۙ
+    arabic: ثَمَرِهِۦ
     translation: its fruit
     transliteration: thamarihi
   4:
@@ -21,19 +20,19 @@ word_by_word:
     translation: And not
     transliteration: wamā
   5:
-    arabic: عَمِلَـتۡهُ
+    arabic: عَمِلَتۡهُ
     translation: made it
     transliteration: ʿamilathu
   6:
-    arabic: اَيۡدِيۡهِمۡ​ ؕ
+    arabic: أَيۡدِيهِمۡۚ
     translation: their hands
     transliteration: aydīhim
   7:
-    arabic: اَفَلَا
+    arabic: أَفَلَا
     translation: So will not
     transliteration: afalā
   8:
-    arabic: "يَشۡكُرُوۡنَ‏ \uFEFF\uFEFF"
+    arabic: يَشۡكُرُونَ
     translation: they be grateful
     transliteration: yashkurūna
 ---

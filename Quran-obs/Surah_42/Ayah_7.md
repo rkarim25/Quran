@@ -1,41 +1,41 @@
 ---
-arabic_ayat: وَكَذٰلِكَ اَوۡحَيۡنَاۤ اِلَيۡكَ قُرۡاٰنًا عَرَبِيًّا لِّـتُـنۡذِرَ اُمَّ
-  الۡقُرٰى وَمَنۡ حَوۡلَهَا وَتُنۡذِرَ يَوۡمَ الۡجَمۡعِ لَا رَيۡبَ فِيۡهِ​ؕ فَرِيۡقٌ
-  فِى الۡجَنَّةِ وَفَرِيۡقٌ فِى السَّعِيۡرِ‏
+arabic_ayat: وَكَذَٰلِكَ أَوۡحَيۡنَآ إِلَيۡكَ قُرۡءَانًا عَرَبِيّٗا لِّتُنذِرَ أُمَّ
+  ٱلۡقُرَىٰ وَمَنۡ حَوۡلَهَا وَتُنذِرَ يَوۡمَ ٱلۡجَمۡعِ لَا رَيۡبَ فِيهِۚ فَرِيقٞ
+  فِي ٱلۡجَنَّةِ وَفَرِيقٞ فِي ٱلسَّعِيرِ
 sentence_translation: And so We have revealed to you a Quran in Arabic, so you may
   warn the Mother of Cities and everyone around it, and warn of the Day of Gathering—about
   which there is no doubt—˹when˺ a group will be in Paradise and another in the Blaze.
 word_by_word:
   1:
-    arabic: وَكَذٰلِكَ
+    arabic: وَكَذَٰلِكَ
     translation: And thus
     transliteration: wakadhālika
   2:
-    arabic: اَوۡحَيۡنَاۤ
+    arabic: أَوۡحَيۡنَآ
     translation: We have revealed
     transliteration: awḥaynā
   3:
-    arabic: اِلَيۡكَ
+    arabic: إِلَيۡكَ
     translation: to you
     transliteration: ilayka
   4:
-    arabic: قُرۡاٰنًا
+    arabic: قُرۡءَانًا
     translation: a Quran
     transliteration: qur'ānan
   5:
-    arabic: عَرَبِيًّا
+    arabic: عَرَبِيّٗا
     translation: (in) Arabic
     transliteration: ʿarabiyyan
   6:
-    arabic: لِّـتُـنۡذِرَ
+    arabic: لِّتُنذِرَ
     translation: that you may warn
     transliteration: litundhira
   7:
-    arabic: اُمَّ
+    arabic: أُمَّ
     translation: (the) mother
     transliteration: umma
   8:
-    arabic: الۡقُرٰى
+    arabic: ٱلۡقُرَىٰ
     translation: (of) the towns
     transliteration: l-qurā
   9:
@@ -47,7 +47,7 @@ word_by_word:
     translation: (is) around it
     transliteration: ḥawlahā
   11:
-    arabic: وَتُنۡذِرَ
+    arabic: وَتُنذِرَ
     translation: and warn
     transliteration: watundhira
   12:
@@ -55,7 +55,7 @@ word_by_word:
     translation: (of the) Day
     transliteration: yawma
   13:
-    arabic: الۡجَمۡعِ
+    arabic: ٱلۡجَمۡعِ
     translation: (of) Assembly
     transliteration: l-jamʿi
   14:
@@ -67,31 +67,31 @@ word_by_word:
     translation: doubt
     transliteration: rayba
   16:
-    arabic: فِيۡهِ​ؕ
+    arabic: فِيهِۚ
     translation: in it
     transliteration: fīhi
   17:
-    arabic: فَرِيۡقٌ
+    arabic: فَرِيقٞ
     translation: A party
     transliteration: farīqun
   18:
-    arabic: فِى
+    arabic: فِي
     translation: (will be) in
     transliteration: fī
   19:
-    arabic: الۡجَنَّةِ
+    arabic: ٱلۡجَنَّةِ
     translation: Paradise
     transliteration: l-janati
   20:
-    arabic: وَفَرِيۡقٌ
+    arabic: وَفَرِيقٞ
     translation: and a party
     transliteration: wafarīqun
   21:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   22:
-    arabic: السَّعِيۡرِ‏
+    arabic: ٱلسَّعِيرِ
     translation: the Blazing Fire
     transliteration: l-saʿīri
 ---

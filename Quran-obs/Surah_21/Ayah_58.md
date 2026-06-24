@@ -1,6 +1,5 @@
 ---
-arabic_ayat: "فَجَعَلَهُمۡ جُذٰذًا اِلَّا كَبِيۡرًا لَّهُمۡ لَعَلَّهُمۡ اِلَيۡهِ يَرۡجِعُوۡنَ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: فَجَعَلَهُمۡ جُذَٰذًا إِلَّا كَبِيرٗا لَّهُمۡ لَعَلَّهُمۡ إِلَيۡهِ يَرۡجِعُونَ
 sentence_translation: So he smashed them into pieces, except the biggest of them,
   so they might turn to it ˹for answers˺.
 word_by_word:
@@ -9,15 +8,15 @@ word_by_word:
     translation: So he made them
     transliteration: fajaʿalahum
   2:
-    arabic: جُذٰذًا
+    arabic: جُذَٰذًا
     translation: (into) pieces
     transliteration: judhādhan
   3:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   4:
-    arabic: كَبِيۡرًا
+    arabic: كَبِيرٗا
     translation: a large (one)
     transliteration: kabīran
   5:
@@ -29,11 +28,11 @@ word_by_word:
     translation: so that they may
     transliteration: laʿallahum
   7:
-    arabic: اِلَيۡهِ
+    arabic: إِلَيۡهِ
     translation: to it
     transliteration: ilayhi
   8:
-    arabic: "يَرۡجِعُوۡنَ‏ \uFEFF\uFEFF"
+    arabic: يَرۡجِعُونَ
     translation: return
     transliteration: yarjiʿūna
 ---

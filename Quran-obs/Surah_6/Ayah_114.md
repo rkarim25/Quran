@@ -1,78 +1,78 @@
 ---
-arabic_ayat: اَفَغَيۡرَ اللّٰهِ اَبۡتَغِىۡ حَكَمًا وَّهُوَ الَّذِىۡۤ اَنۡزَلَ اِلَيۡكُمُ
-  الۡـكِتٰبَ مُفَصَّلاً​ ؕ وَالَّذِيۡنَ اٰتَيۡنٰهُمُ الۡـكِتٰبَ يَعۡلَمُوۡنَ اَنَّهٗ
-  مُنَزَّلٌ مِّنۡ رَّبِّكَ بِالۡحَـقِّ​ فَلَا تَكُوۡنَنَّ مِنَ الۡمُمۡتَرِيۡنَ‏
+arabic_ayat: أَفَغَيۡرَ ٱللَّهِ أَبۡتَغِي حَكَمٗا وَهُوَ ٱلَّذِيٓ أَنزَلَ إِلَيۡكُمُ
+  ٱلۡكِتَٰبَ مُفَصَّلٗاۚ وَٱلَّذِينَ ءَاتَيۡنَٰهُمُ ٱلۡكِتَٰبَ يَعۡلَمُونَ أَنَّهُۥ
+  مُنَزَّلٞ مِّن رَّبِّكَ بِٱلۡحَقِّۖ فَلَا تَكُونَنَّ مِنَ ٱلۡمُمۡتَرِينَ
 sentence_translation: ˹Say, O  Prophet,˺ “Should I seek a judge other than Allah while
   He is the One Who has revealed for you the Book ˹with the truth˺ perfectly explained?”
   Those who were given the Scripture know that it has been revealed ˹to you˺ from
   your Lord in truth. So do not be one of those who doubt.
 word_by_word:
   1:
-    arabic: اَفَغَيۡرَ
+    arabic: أَفَغَيۡرَ
     translation: Then is (it) other than
     transliteration: afaghayra
   2:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   3:
-    arabic: اَبۡتَغِىۡ
+    arabic: أَبۡتَغِي
     translation: I seek
     transliteration: abtaghī
   4:
-    arabic: حَكَمًا
+    arabic: حَكَمٗا
     translation: (as) judge
     transliteration: ḥakaman
   5:
-    arabic: وَّهُوَ
+    arabic: وَهُوَ
     translation: while He
     transliteration: wahuwa
   6:
-    arabic: الَّذِىۡۤ
+    arabic: ٱلَّذِيٓ
     translation: (is) the One Who
     transliteration: alladhī
   7:
-    arabic: اَنۡزَلَ
+    arabic: أَنزَلَ
     translation: has revealed
     transliteration: anzala
   8:
-    arabic: اِلَيۡكُمُ
+    arabic: إِلَيۡكُمُ
     translation: to you
     transliteration: ilaykumu
   9:
-    arabic: الۡـكِتٰبَ
+    arabic: ٱلۡكِتَٰبَ
     translation: the Book
     transliteration: l-kitāba
   10:
-    arabic: مُفَصَّلاً​ ؕ
+    arabic: مُفَصَّلٗاۚ
     translation: explained in detail
     transliteration: mufaṣṣalan
   11:
-    arabic: وَالَّذِيۡنَ
+    arabic: وَٱلَّذِينَ ءَ
     translation: And those (to) whom
     transliteration: wa-alladhīna
   12:
-    arabic: اٰتَيۡنٰهُمُ
+    arabic: اتَيۡنَٰهُمُ
     translation: We gave them
     transliteration: ātaynāhumu
   13:
-    arabic: الۡـكِتٰبَ
+    arabic: ٱلۡكِتَٰبَ
     translation: the Book
     transliteration: l-kitāba
   14:
-    arabic: يَعۡلَمُوۡنَ
+    arabic: يَعۡلَمُونَ
     translation: they know
     transliteration: yaʿlamūna
   15:
-    arabic: اَنَّهٗ
+    arabic: أَنَّهُۥ
     translation: that it
     transliteration: annahu
   16:
-    arabic: مُنَزَّلٌ
+    arabic: مُنَزَّلٞ
     translation: (is) sent down
     transliteration: munazzalun
   17:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: from
     transliteration: min
   18:
@@ -80,7 +80,7 @@ word_by_word:
     translation: your Lord
     transliteration: rabbika
   19:
-    arabic: بِالۡحَـقِّ​
+    arabic: بِٱلۡحَقِّۖ
     translation: in truth
     transliteration: bil-ḥaqi
   20:
@@ -88,7 +88,7 @@ word_by_word:
     translation: so (do) not
     transliteration: falā
   21:
-    arabic: تَكُوۡنَنَّ
+    arabic: تَكُونَنَّ
     translation: be
     transliteration: takūnanna
   22:
@@ -96,7 +96,7 @@ word_by_word:
     translation: among
     transliteration: mina
   23:
-    arabic: الۡمُمۡتَرِيۡنَ‏
+    arabic: ٱلۡمُمۡتَرِينَ
     translation: the ones who doubt
     transliteration: l-mum'tarīna
 ---

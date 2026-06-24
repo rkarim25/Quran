@@ -1,6 +1,5 @@
 ---
-arabic_ayat: "كَذَّبَتۡ قَبۡلَهُمۡ قَوۡمُ نُوۡحٍ وَّعَادٌ وَّفِرۡعَوۡنُ ذُو الۡاَوۡتَادِۙ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: كَذَّبَتۡ قَبۡلَهُمۡ قَوۡمُ نُوحٖ وَعَادٞ وَفِرۡعَوۡنُ ذُو ٱلۡأَوۡتَادِ
 sentence_translation: Before them, the people of Noah denied ˹the truth˺, as did ’Âd,
   Pharaoh of the mighty structures,
 word_by_word:
@@ -17,15 +16,15 @@ word_by_word:
     translation: (the) people
     transliteration: qawmu
   4:
-    arabic: نُوۡحٍ
+    arabic: نُوحٖ
     translation: (of) Nuh
     transliteration: nūḥin
   5:
-    arabic: وَّعَادٌ
+    arabic: وَعَادٞ
     translation: and Aad
     transliteration: waʿādun
   6:
-    arabic: وَّفِرۡعَوۡنُ
+    arabic: وَفِرۡعَوۡنُ
     translation: and Firaun
     transliteration: wafir'ʿawnu
   7:
@@ -33,7 +32,7 @@ word_by_word:
     translation: (the) owner
     transliteration: dhū
   8:
-    arabic: "الۡاَوۡتَادِۙ‏ \uFEFF\uFEFF"
+    arabic: ٱلۡأَوۡتَادِ
     translation: (of) the stakes
     transliteration: l-awtādi
 ---

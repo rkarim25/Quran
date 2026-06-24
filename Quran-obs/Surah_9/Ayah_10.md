@@ -1,6 +1,6 @@
 ---
-arabic_ayat: لَا يَرۡقُبُوۡنَ فِىۡ مُؤۡمِنٍ اِلًّا وَّلَا ذِمَّةً​ ؕ وَاُولٰۤٮِٕكَ
-  هُمُ الۡمُعۡتَدُوۡنَ‏
+arabic_ayat: لَا يَرۡقُبُونَ فِي مُؤۡمِنٍ إِلّٗا وَلَا ذِمَّةٗۚ وَأُوْلَٰٓئِكَ هُمُ
+  ٱلۡمُعۡتَدُونَ
 sentence_translation: They do not honour the bonds of kinship or treaties with the
   believers. It is they who are the transgressors.
 word_by_word:
@@ -9,11 +9,11 @@ word_by_word:
     translation: Not
     transliteration: lā
   2:
-    arabic: يَرۡقُبُوۡنَ
+    arabic: يَرۡقُبُونَ
     translation: they respect (the ties)
     transliteration: yarqubūna
   3:
-    arabic: فِىۡ
+    arabic: فِي
     translation: towards
     transliteration: fī
   4:
@@ -21,19 +21,19 @@ word_by_word:
     translation: a believer
     transliteration: mu'minin
   5:
-    arabic: اِلًّا
+    arabic: إِلّٗا
     translation: (of) kinship
     transliteration: illan
   6:
-    arabic: وَّلَا
+    arabic: وَلَا
     translation: and not
     transliteration: walā
   7:
-    arabic: ذِمَّةً​ ؕ
+    arabic: ذِمَّةٗۚ
     translation: covenant of protection
     transliteration: dhimmatan
   8:
-    arabic: وَاُولٰۤٮِٕكَ
+    arabic: وَأُوْلَٰٓئِكَ
     translation: And those
     transliteration: wa-ulāika
   9:
@@ -41,7 +41,7 @@ word_by_word:
     translation: '[they]'
     transliteration: humu
   10:
-    arabic: الۡمُعۡتَدُوۡنَ‏
+    arabic: ٱلۡمُعۡتَدُونَ
     translation: (are) the transgressors
     transliteration: l-muʿ'tadūna
 ---

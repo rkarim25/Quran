@@ -1,27 +1,27 @@
 ---
-arabic_ayat: وَمَاۤ اَنۡـتُمۡ بِمُعۡجِزِيۡنَ فِى الۡاَرۡضِ ۖۚ وَمَا لَـكُمۡ مِّنۡ
-  دُوۡنِ اللّٰهِ مِنۡ وَّلِىٍّ وَّلَا نَصِيۡرٍ‏
+arabic_ayat: وَمَآ أَنتُم بِمُعۡجِزِينَ فِي ٱلۡأَرۡضِۖ وَمَا لَكُم مِّن دُونِ ٱللَّهِ
+  مِن وَلِيّٖ وَلَا نَصِيرٖ
 sentence_translation: You can never escape ˹Him˺ on earth, nor do you have any protector
   or helper besides Allah.
 word_by_word:
   1:
-    arabic: وَمَاۤ
+    arabic: وَمَآ
     translation: And not
     transliteration: wamā
   2:
-    arabic: اَنۡـتُمۡ
+    arabic: أَنتُم
     translation: you
     transliteration: antum
   3:
-    arabic: بِمُعۡجِزِيۡنَ
+    arabic: بِمُعۡجِزِينَ
     translation: (can) escape
     transliteration: bimuʿ'jizīna
   4:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   5:
-    arabic: الۡاَرۡضِ ۖۚ
+    arabic: ٱلۡأَرۡضِۖ
     translation: the earth
     transliteration: l-arḍi
   6:
@@ -29,35 +29,35 @@ word_by_word:
     translation: and not
     transliteration: wamā
   7:
-    arabic: لَـكُمۡ
+    arabic: لَكُم
     translation: for you
     transliteration: lakum
   8:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: besides
     transliteration: min
   9:
-    arabic: دُوۡنِ
+    arabic: دُونِ
     translation: besides
     transliteration: dūni
   10:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   11:
-    arabic: مِنۡ
+    arabic: مِن
     translation: any
     transliteration: min
   12:
-    arabic: وَّلِىٍّ
+    arabic: وَلِيّٖ
     translation: protector
     transliteration: waliyyin
   13:
-    arabic: وَّلَا
+    arabic: وَلَا
     translation: and not
     transliteration: walā
   14:
-    arabic: نَصِيۡرٍ‏
+    arabic: نَصِيرٖ
     translation: any helper
     transliteration: naṣīrin
 ---

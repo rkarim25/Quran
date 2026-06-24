@@ -1,10 +1,10 @@
 ---
-arabic_ayat: قَالُوۡا سَمِعۡنَا فَتًى يَّذۡكُرُهُمۡ يُقَالُ لَهٗۤ اِبۡرٰهِيۡمُ ؕ‏
+arabic_ayat: قَالُواْ سَمِعۡنَا فَتٗى يَذۡكُرُهُمۡ يُقَالُ لَهُۥٓ إِبۡرَٰهِيمُ
 sentence_translation: Some said, “We heard a young man, called Abraham, speaking ˹ill˺
   of them.”
 word_by_word:
   1:
-    arabic: قَالُوۡا
+    arabic: قَالُواْ
     translation: They said
     transliteration: qālū
   2:
@@ -12,11 +12,11 @@ word_by_word:
     translation: We heard
     transliteration: samiʿ'nā
   3:
-    arabic: فَتًى
+    arabic: فَتٗى
     translation: a youth
     transliteration: fatan
   4:
-    arabic: يَّذۡكُرُهُمۡ
+    arabic: يَذۡكُرُهُمۡ
     translation: mention them
     transliteration: yadhkuruhum
   5:
@@ -24,11 +24,11 @@ word_by_word:
     translation: he is called
     transliteration: yuqālu
   6:
-    arabic: لَهٗۤ
+    arabic: لَهُۥٓ
     translation: he is called
     transliteration: lahu
   7:
-    arabic: اِبۡرٰهِيۡمُ ؕ‏
+    arabic: إِبۡرَٰهِيمُ
     translation: Ibrahim
     transliteration: ib'rāhīmu
 ---

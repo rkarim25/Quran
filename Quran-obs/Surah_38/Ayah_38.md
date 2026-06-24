@@ -1,21 +1,21 @@
 ---
-arabic_ayat: وَّاٰخَرِيۡنَ مُقَرَّنِيۡنَ فِىۡ الۡاَصۡفَادِ‏
+arabic_ayat: وَءَاخَرِينَ مُقَرَّنِينَ فِي ٱلۡأَصۡفَادِ
 sentence_translation: and others bound together in chains.
 word_by_word:
   1:
-    arabic: وَّاٰخَرِيۡنَ
+    arabic: وَءَاخَرِينَ
     translation: And others
     transliteration: waākharīna
   2:
-    arabic: مُقَرَّنِيۡنَ
+    arabic: مُقَرَّنِينَ
     translation: bound
     transliteration: muqarranīna
   3:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   4:
-    arabic: الۡاَصۡفَادِ‏
+    arabic: ٱلۡأَصۡفَادِ
     translation: chains
     transliteration: l-aṣfādi
 ---

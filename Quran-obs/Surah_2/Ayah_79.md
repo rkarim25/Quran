@@ -1,29 +1,29 @@
 ---
-arabic_ayat: فَوَيۡلٌ لِّلَّذِيۡنَ يَكۡتُبُوۡنَ الۡكِتٰبَ بِاَيۡدِيۡهِمۡ ثُمَّ يَقُوۡلُوۡنَ
-  هٰذَا مِنۡ عِنۡدِ اللّٰهِ لِيَشۡتَرُوۡا بِهٖ ثَمَنًا قَلِيۡلًا ؕ فَوَيۡلٌ لَّهُمۡ
-  مِّمَّا کَتَبَتۡ اَيۡدِيۡهِمۡ وَوَيۡلٌ لَّهُمۡ مِّمَّا يَكۡسِبُوۡنَ‏
+arabic_ayat: فَوَيۡلٞ لِّلَّذِينَ يَكۡتُبُونَ ٱلۡكِتَٰبَ بِأَيۡدِيهِمۡ ثُمَّ يَقُولُونَ
+  هَٰذَا مِنۡ عِندِ ٱللَّهِ لِيَشۡتَرُواْ بِهِۦ ثَمَنٗا قَلِيلٗاۖ فَوَيۡلٞ لَّهُم
+  مِّمَّا كَتَبَتۡ أَيۡدِيهِمۡ وَوَيۡلٞ لَّهُم مِّمَّا يَكۡسِبُونَ
 sentence_translation: So woe to those who distort the Scripture with their own hands
   then say, “This is from Allah”—seeking a fleeting gain! So woe to them for what
   their hands have written, and woe to them for what they have earned.
 word_by_word:
   1:
-    arabic: فَوَيۡلٌ
+    arabic: فَوَيۡلٞ
     translation: So woe
     transliteration: fawaylun
   2:
-    arabic: لِّلَّذِيۡنَ
+    arabic: لِّلَّذِينَ
     translation: to those who
     transliteration: lilladhīna
   3:
-    arabic: يَكۡتُبُوۡنَ
+    arabic: يَكۡتُبُونَ
     translation: write
     transliteration: yaktubūna
   4:
-    arabic: الۡكِتٰبَ
+    arabic: ٱلۡكِتَٰبَ
     translation: the book
     transliteration: l-kitāba
   5:
-    arabic: بِاَيۡدِيۡهِمۡ
+    arabic: بِأَيۡدِيهِمۡ
     translation: with their (own) hands
     transliteration: bi-aydīhim
   6:
@@ -31,11 +31,11 @@ word_by_word:
     translation: then
     transliteration: thumma
   7:
-    arabic: يَقُوۡلُوۡنَ
+    arabic: يَقُولُونَ
     translation: they say
     transliteration: yaqūlūna
   8:
-    arabic: هٰذَا
+    arabic: هَٰذَا
     translation: This
     transliteration: hādhā
   9:
@@ -43,35 +43,35 @@ word_by_word:
     translation: (is)
     transliteration: min
   10:
-    arabic: عِنۡدِ
+    arabic: عِندِ
     translation: from
     transliteration: ʿindi
   11:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   12:
-    arabic: لِيَشۡتَرُوۡا
+    arabic: لِيَشۡتَرُواْ
     translation: to barter
     transliteration: liyashtarū
   13:
-    arabic: بِهٖ
+    arabic: بِهِۦ
     translation: with it
     transliteration: bihi
   14:
-    arabic: ثَمَنًا
+    arabic: ثَمَنٗا
     translation: (for) a price
     transliteration: thamanan
   15:
-    arabic: قَلِيۡلًا ؕ
+    arabic: قَلِيلٗاۖ
     translation: little
     transliteration: qalīlan
   16:
-    arabic: فَوَيۡلٌ
+    arabic: فَوَيۡلٞ
     translation: So woe
     transliteration: fawaylun
   17:
-    arabic: لَّهُمۡ
+    arabic: لَّهُم
     translation: to them
     transliteration: lahum
   18:
@@ -79,19 +79,19 @@ word_by_word:
     translation: for what
     transliteration: mimmā
   19:
-    arabic: کَتَبَتۡ
+    arabic: كَتَبَتۡ
     translation: have written
     transliteration: katabat
   20:
-    arabic: اَيۡدِيۡهِمۡ
+    arabic: أَيۡدِيهِمۡ
     translation: their hands
     transliteration: aydīhim
   21:
-    arabic: وَوَيۡلٌ
+    arabic: وَوَيۡلٞ
     translation: and woe
     transliteration: wawaylun
   22:
-    arabic: لَّهُمۡ
+    arabic: لَّهُم
     translation: to them
     transliteration: lahum
   23:
@@ -99,7 +99,7 @@ word_by_word:
     translation: for what
     transliteration: mimmā
   24:
-    arabic: يَكۡسِبُوۡنَ‏
+    arabic: يَكۡسِبُونَ
     translation: they earn
     transliteration: yaksibūna
 ---

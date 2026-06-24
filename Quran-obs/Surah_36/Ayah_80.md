@@ -1,11 +1,11 @@
 ---
-arabic_ayat: اۨلَّذِىۡ جَعَلَ لَـكُمۡ مِّنَ الشَّجَرِ الۡاَخۡضَرِ نَارًا فَاِذَاۤ
-  اَنۡـتُمۡ مِّنۡهُ تُوۡقِدُوۡنَ‏
+arabic_ayat: ٱلَّذِي جَعَلَ لَكُم مِّنَ ٱلشَّجَرِ ٱلۡأَخۡضَرِ نَارٗا فَإِذَآ أَنتُم
+  مِّنۡهُ تُوقِدُونَ
 sentence_translation: ˹He is the One˺ Who gives you fire from green trees, and—behold!—you
   kindle ˹fire˺ from them.
 word_by_word:
   1:
-    arabic: اۨلَّذِىۡ
+    arabic: ٱلَّذِي
     translation: The One Who
     transliteration: alladhī
   2:
@@ -13,7 +13,7 @@ word_by_word:
     translation: made
     transliteration: jaʿala
   3:
-    arabic: لَـكُمۡ
+    arabic: لَكُم
     translation: for you
     transliteration: lakum
   4:
@@ -21,23 +21,23 @@ word_by_word:
     translation: from
     transliteration: mina
   5:
-    arabic: الشَّجَرِ
+    arabic: ٱلشَّجَرِ
     translation: the tree
     transliteration: l-shajari
   6:
-    arabic: الۡاَخۡضَرِ
+    arabic: ٱلۡأَخۡضَرِ
     translation: '[the] green '
     transliteration: l-akhḍari
   7:
-    arabic: نَارًا
+    arabic: نَارٗا
     translation: fire
     transliteration: nāran
   8:
-    arabic: فَاِذَاۤ
+    arabic: فَإِذَآ
     translation: and behold
     transliteration: fa-idhā
   9:
-    arabic: اَنۡـتُمۡ
+    arabic: أَنتُم
     translation: You
     transliteration: antum
   10:
@@ -45,7 +45,7 @@ word_by_word:
     translation: from it
     transliteration: min'hu
   11:
-    arabic: تُوۡقِدُوۡنَ‏
+    arabic: تُوقِدُونَ
     translation: ignite
     transliteration: tūqidūna
 ---

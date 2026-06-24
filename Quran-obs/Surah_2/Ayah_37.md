@@ -1,27 +1,27 @@
 ---
-arabic_ayat: فَتَلَقّٰٓى اٰدَمُ مِنۡ رَّبِّهٖ كَلِمٰتٍ فَتَابَ عَلَيۡهِ​ؕ اِنَّهٗ
-  هُوَ التَّوَّابُ الرَّحِيۡمُ‏
+arabic_ayat: فَتَلَقَّىٰٓ ءَادَمُ مِن رَّبِّهِۦ كَلِمَٰتٖ فَتَابَ عَلَيۡهِۚ إِنَّهُۥ
+  هُوَ ٱلتَّوَّابُ ٱلرَّحِيمُ
 sentence_translation: Then Adam was inspired with words ˹of prayer˺ by his Lord, so
   He accepted his repentance. Surely He is the Accepter of Repentance, Most Merciful.
 word_by_word:
   1:
-    arabic: فَتَلَقّٰٓى
+    arabic: فَتَلَقَّىٰٓ ءَ
     translation: Then received
     transliteration: fatalaqqā
   2:
-    arabic: اٰدَمُ
+    arabic: ادَمُ
     translation: Adam
     transliteration: ādamu
   3:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   4:
-    arabic: رَّبِّهٖ
+    arabic: رَّبِّهِۦ
     translation: his Lord
     transliteration: rabbihi
   5:
-    arabic: كَلِمٰتٍ
+    arabic: كَلِمَٰتٖ
     translation: words
     transliteration: kalimātin
   6:
@@ -29,11 +29,11 @@ word_by_word:
     translation: So (his Lord) turned
     transliteration: fatāba
   7:
-    arabic: عَلَيۡهِ​ؕ
+    arabic: عَلَيۡهِۚ
     translation: towards him
     transliteration: ʿalayhi
   8:
-    arabic: اِنَّهٗ
+    arabic: إِنَّهُۥ
     translation: Indeed He
     transliteration: innahu
   9:
@@ -41,11 +41,11 @@ word_by_word:
     translation: He
     transliteration: huwa
   10:
-    arabic: التَّوَّابُ
+    arabic: ٱلتَّوَّابُ
     translation: (is) the Oft-returning (to mercy)
     transliteration: l-tawābu
   11:
-    arabic: الرَّحِيۡمُ‏
+    arabic: ٱلرَّحِيمُ
     translation: the Most Merciful
     transliteration: l-raḥīmu
 ---

@@ -1,28 +1,28 @@
 ---
-arabic_ayat: وَاِذَا تُتۡلٰى عَلَيۡهِمۡ اٰيٰتُنَا قَالُوۡا قَدۡ سَمِعۡنَا لَوۡ نَشَآءُ
-  لَـقُلۡنَا مِثۡلَ هٰذَٓا​ ۙ اِنۡ هٰذَاۤ اِلَّاۤ اَسَاطِيۡرُ الۡاَوَّلِيۡنَ‏
+arabic_ayat: وَإِذَا تُتۡلَىٰ عَلَيۡهِمۡ ءَايَٰتُنَا قَالُواْ قَدۡ سَمِعۡنَا لَوۡ
+  نَشَآءُ لَقُلۡنَا مِثۡلَ هَٰذَآ إِنۡ هَٰذَآ إِلَّآ أَسَٰطِيرُ ٱلۡأَوَّلِينَ
 sentence_translation: Whenever Our revelations are recited to them, they challenge
   ˹you˺, “We have already heard ˹the recitation˺. If we wanted, we could have easily
   produced something similar. This ˹Quran˺ is nothing but ancient fables!”
 word_by_word:
   1:
-    arabic: وَاِذَا
+    arabic: وَإِذَا
     translation: And when
     transliteration: wa-idhā
   2:
-    arabic: تُتۡلٰى
+    arabic: تُتۡلَىٰ
     translation: are recited
     transliteration: tut'lā
   3:
-    arabic: عَلَيۡهِمۡ
+    arabic: عَلَيۡهِمۡ ءَ
     translation: to them
     transliteration: ʿalayhim
   4:
-    arabic: اٰيٰتُنَا
+    arabic: ايَٰتُنَا
     translation: Our Verses
     transliteration: āyātunā
   5:
-    arabic: قَالُوۡا
+    arabic: قَالُواْ
     translation: they say
     transliteration: qālū
   6:
@@ -42,7 +42,7 @@ word_by_word:
     translation: we wish
     transliteration: nashāu
   10:
-    arabic: لَـقُلۡنَا
+    arabic: لَقُلۡنَا
     translation: surely, we could say
     transliteration: laqul'nā
   11:
@@ -50,27 +50,27 @@ word_by_word:
     translation: like
     transliteration: mith'la
   12:
-    arabic: هٰذَٓا​ ۙ
+    arabic: هَٰذَآ
     translation: this
     transliteration: hādhā
   13:
-    arabic: اِنۡ
+    arabic: إِنۡ
     translation: Not
     transliteration: in
   14:
-    arabic: هٰذَاۤ
+    arabic: هَٰذَآ
     translation: is this
     transliteration: hādhā
   15:
-    arabic: اِلَّاۤ
+    arabic: إِلَّآ
     translation: but
     transliteration: illā
   16:
-    arabic: اَسَاطِيۡرُ
+    arabic: أَسَٰطِيرُ
     translation: tales
     transliteration: asāṭīru
   17:
-    arabic: الۡاَوَّلِيۡنَ‏
+    arabic: ٱلۡأَوَّلِينَ
     translation: (of) the former (people)
     transliteration: l-awalīna
 ---

@@ -1,5 +1,5 @@
 ---
-arabic_ayat: وَمَا يُكَذِّبُ بِهٖۤ اِلَّا كُلُّ مُعۡتَدٍ اَثِيۡمٍۙ‏
+arabic_ayat: وَمَا يُكَذِّبُ بِهِۦٓ إِلَّا كُلُّ مُعۡتَدٍ أَثِيمٍ
 sentence_translation: None would deny it except every evildoing transgressor.
 word_by_word:
   1:
@@ -11,11 +11,11 @@ word_by_word:
     translation: can deny
     transliteration: yukadhibu
   3:
-    arabic: بِهٖۤ
+    arabic: بِهِۦٓ
     translation: '[of] it'
     transliteration: bihi
   4:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   5:
@@ -27,7 +27,7 @@ word_by_word:
     translation: transgressor
     transliteration: muʿ'tadin
   7:
-    arabic: اَثِيۡمٍۙ‏
+    arabic: أَثِيمٍ
     translation: sinful
     transliteration: athīmin
 ---

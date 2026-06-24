@@ -1,13 +1,13 @@
 ---
-arabic_ayat: جَزَآءً مِّنۡ رَّبِّكَ عَطَآءً حِسَابًا ۙ‏
+arabic_ayat: جَزَآءٗ مِّن رَّبِّكَ عَطَآءً حِسَابٗا
 sentence_translation: a ˹fitting˺ reward as a generous gift from your Lord,
 word_by_word:
   1:
-    arabic: جَزَآءً
+    arabic: جَزَآءٗ
     translation: (As) a reward
     transliteration: jazāan
   2:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: from
     transliteration: min
   3:
@@ -19,7 +19,7 @@ word_by_word:
     translation: a gift
     transliteration: ʿaṭāan
   5:
-    arabic: حِسَابًا ۙ‏
+    arabic: حِسَابٗا
     translation: (according to) account
     transliteration: ḥisāban
 ---

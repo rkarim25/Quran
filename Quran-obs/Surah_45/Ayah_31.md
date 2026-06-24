@@ -1,35 +1,35 @@
 ---
-arabic_ayat: وَاَمَّا الَّذِيۡنَ كَفَرُوۡۤا اَفَلَمۡ تَكُنۡ اٰيٰتِىۡ تُتۡلٰى عَلَيۡكُمۡ
-  فَاسۡتَكۡبَرۡتُمۡ وَكُنۡتُمۡ قَوۡمًا مُّجۡرِمِيۡنَ‏
+arabic_ayat: وَأَمَّا ٱلَّذِينَ كَفَرُوٓاْ أَفَلَمۡ تَكُنۡ ءَايَٰتِي تُتۡلَىٰ عَلَيۡكُمۡ
+  فَٱسۡتَكۡبَرۡتُمۡ وَكُنتُمۡ قَوۡمٗا مُّجۡرِمِينَ
 sentence_translation: And as for those who disbelieved, ˹they will be told,˺ “Were
   My revelations not recited to you, yet you acted arrogantly and were a wicked people?
 word_by_word:
   1:
-    arabic: وَاَمَّا
+    arabic: وَأَمَّا
     translation: But as for
     transliteration: wa-ammā
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   3:
-    arabic: كَفَرُوۡۤا
+    arabic: كَفَرُوٓاْ
     translation: disbelieved
     transliteration: kafarū
   4:
-    arabic: اَفَلَمۡ
+    arabic: أَفَلَمۡ
     translation: Then were not
     transliteration: afalam
   5:
-    arabic: تَكُنۡ
+    arabic: تَكُنۡ ءَ
     translation: Then were not
     transliteration: takun
   6:
-    arabic: اٰيٰتِىۡ
+    arabic: ايَٰتِي
     translation: My Verses
     transliteration: āyātī
   7:
-    arabic: تُتۡلٰى
+    arabic: تُتۡلَىٰ
     translation: recited
     transliteration: tut'lā
   8:
@@ -37,19 +37,19 @@ word_by_word:
     translation: to you
     transliteration: ʿalaykum
   9:
-    arabic: فَاسۡتَكۡبَرۡتُمۡ
+    arabic: فَٱسۡتَكۡبَرۡتُمۡ
     translation: but you were proud
     transliteration: fa-is'takbartum
   10:
-    arabic: وَكُنۡتُمۡ
+    arabic: وَكُنتُمۡ
     translation: and you became
     transliteration: wakuntum
   11:
-    arabic: قَوۡمًا
+    arabic: قَوۡمٗا
     translation: a people
     transliteration: qawman
   12:
-    arabic: مُّجۡرِمِيۡنَ‏
+    arabic: مُّجۡرِمِينَ
     translation: criminals
     transliteration: muj'rimīna
 ---

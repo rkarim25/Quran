@@ -1,21 +1,21 @@
 ---
-arabic_ayat: فَجَعَلۡنٰهُ فِىۡ قَرَارٍ مَّكِيۡنٍۙ‏
+arabic_ayat: فَجَعَلۡنَٰهُ فِي قَرَارٖ مَّكِينٍ
 sentence_translation: placing it in a secure place
 word_by_word:
   1:
-    arabic: فَجَعَلۡنٰهُ
+    arabic: فَجَعَلۡنَٰهُ
     translation: Then We placed it
     transliteration: fajaʿalnāhu
   2:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   3:
-    arabic: قَرَارٍ
+    arabic: قَرَارٖ
     translation: an abode
     transliteration: qarārin
   4:
-    arabic: مَّكِيۡنٍۙ‏
+    arabic: مَّكِينٍ
     translation: safe
     transliteration: makīnin
 ---

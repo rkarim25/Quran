@@ -1,16 +1,16 @@
 ---
-arabic_ayat: فَاسۡتَجَبۡنَا لَهٗ فَكَشَفۡنَا مَا بِهٖ مِنۡ ضُرٍّ​ وَّاٰتَيۡنٰهُ اَهۡلَهٗ
-  و مِثۡلَهُمۡ مَّعَهُمۡ رَحۡمَةً مِّنۡ عِنۡدِنَا وَذِكۡرٰى لِلۡعٰبِدِيۡنَ‏
+arabic_ayat: فَٱسۡتَجَبۡنَا لَهُۥ فَكَشَفۡنَا مَا بِهِۦ مِن ضُرّٖۖ وَءَاتَيۡنَٰهُ
+  أَهۡلَهُۥ وَمِثۡلَهُم مَّعَهُمۡ رَحۡمَةٗ مِّنۡ عِندِنَا وَذِكۡرَىٰ لِلۡعَٰبِدِينَ
 sentence_translation: So We answered his prayer and removed his adversity, and gave
   him back his family, twice as many, as a mercy from Us and a lesson for the ˹devoted˺
   worshippers.
 word_by_word:
   1:
-    arabic: فَاسۡتَجَبۡنَا
+    arabic: فَٱسۡتَجَبۡنَا
     translation: So We responded
     transliteration: fa-is'tajabnā
   2:
-    arabic: لَهٗ
+    arabic: لَهُۥ
     translation: to him
     transliteration: lahu
   3:
@@ -22,27 +22,27 @@ word_by_word:
     translation: what
     transliteration: mā
   5:
-    arabic: بِهٖ
+    arabic: بِهِۦ
     translation: (was) on him
     transliteration: bihi
   6:
-    arabic: مِنۡ
+    arabic: مِن
     translation: of
     transliteration: min
   7:
-    arabic: ضُرٍّ​
+    arabic: ضُرّٖۖ
     translation: (the) adversity
     transliteration: ḍurrin
   8:
-    arabic: وَّاٰتَيۡنٰهُ
+    arabic: وَءَاتَيۡنَٰهُ
     translation: And We gave him
     transliteration: waātaynāhu
   9:
-    arabic: اَهۡلَهٗ
+    arabic: أَهۡلَهُۥ
     translation: his family
     transliteration: ahlahu
   10:
-    arabic: و مِثۡلَهُمۡ
+    arabic: وَمِثۡلَهُم
     translation: and (the) like thereof
     transliteration: wamith'lahum
   11:
@@ -50,7 +50,7 @@ word_by_word:
     translation: with them
     transliteration: maʿahum
   12:
-    arabic: رَحۡمَةً
+    arabic: رَحۡمَةٗ
     translation: (as) Mercy
     transliteration: raḥmatan
   13:
@@ -58,15 +58,15 @@ word_by_word:
     translation: from Ourselves
     transliteration: min
   14:
-    arabic: عِنۡدِنَا
+    arabic: عِندِنَا
     translation: from Ourselves
     transliteration: ʿindinā
   15:
-    arabic: وَذِكۡرٰى
+    arabic: وَذِكۡرَىٰ
     translation: and a reminder
     transliteration: wadhik'rā
   16:
-    arabic: لِلۡعٰبِدِيۡنَ‏
+    arabic: لِلۡعَٰبِدِينَ
     translation: for the worshippers
     transliteration: lil'ʿābidīna
 ---

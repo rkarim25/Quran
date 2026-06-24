@@ -1,35 +1,35 @@
 ---
-arabic_ayat: يٰۤـاَيُّهَا الَّذِيۡنَ اٰمَنُوۡۤا اِنۡ تَـنۡصُرُوا اللّٰهَ يَنۡصُرۡكُمۡ
-  وَيُثَبِّتۡ اَقۡدَامَكُمۡ‏
+arabic_ayat: يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓاْ إِن تَنصُرُواْ ٱللَّهَ يَنصُرۡكُمۡ
+  وَيُثَبِّتۡ أَقۡدَامَكُمۡ
 sentence_translation: O believers! If you stand up for Allah, He will help you and
   make your steps firm.
 word_by_word:
   1:
-    arabic: يٰۤـاَيُّهَا
+    arabic: يَٰٓأَيُّهَا
     translation: O you who believe
     transliteration: yāayyuhā
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ ءَ
     translation: O you who believe
     transliteration: alladhīna
   3:
-    arabic: اٰمَنُوۡۤا
+    arabic: امَنُوٓاْ
     translation: O you who believe
     transliteration: āmanū
   4:
-    arabic: اِنۡ
+    arabic: إِن
     translation: If
     transliteration: in
   5:
-    arabic: تَـنۡصُرُوا
+    arabic: تَنصُرُواْ
     translation: you help
     transliteration: tanṣurū
   6:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   7:
-    arabic: يَنۡصُرۡكُمۡ
+    arabic: يَنصُرۡكُمۡ
     translation: He will help you
     transliteration: yanṣur'kum
   8:
@@ -37,7 +37,7 @@ word_by_word:
     translation: and make firm
     transliteration: wayuthabbit
   9:
-    arabic: اَقۡدَامَكُمۡ‏
+    arabic: أَقۡدَامَكُمۡ
     translation: your feet
     transliteration: aqdāmakum
 ---

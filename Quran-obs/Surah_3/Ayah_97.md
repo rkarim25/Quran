@@ -1,22 +1,22 @@
 ---
-arabic_ayat: فِيۡهِ اٰيٰتٌ ۢ بَيِّنٰتٌ مَّقَامُ اِبۡرٰهِيۡمَۚ  وَمَنۡ دَخَلَهٗ كَانَ
-  اٰمِنًا ​ؕ وَلِلّٰهِ عَلَى النَّاسِ حِجُّ الۡبَيۡتِ مَنِ اسۡتَطَاعَ اِلَيۡهِ سَبِيۡلًا
-  ​ؕ وَمَنۡ كَفَرَ فَاِنَّ اللّٰهَ غَنِىٌّ عَنِ الۡعٰلَمِيۡنَ‏
+arabic_ayat: فِيهِ ءَايَٰتُۢ بَيِّنَٰتٞ مَّقَامُ إِبۡرَٰهِيمَۖ وَمَن دَخَلَهُۥ كَانَ
+  ءَامِنٗاۗ وَلِلَّهِ عَلَى ٱلنَّاسِ حِجُّ ٱلۡبَيۡتِ مَنِ ٱسۡتَطَاعَ إِلَيۡهِ سَبِيلٗاۚ
+  وَمَن كَفَرَ فَإِنَّ ٱللَّهَ غَنِيٌّ عَنِ ٱلۡعَٰلَمِينَ
 sentence_translation: In it are clear signs and the standing-place of Abraham. Whoever
   enters it should be safe. Pilgrimage to this House is an obligation by Allah upon
   whoever is able among the people. And whoever disbelieves, then surely Allah is
   not in need of ˹any of His˺ creation.
 word_by_word:
   1:
-    arabic: فِيۡهِ
+    arabic: فِيهِ ءَ
     translation: In it
     transliteration: fīhi
   2:
-    arabic: اٰيٰتٌ ۢ
+    arabic: ايَٰتُۢ
     translation: (are) signs
     transliteration: āyātun
   3:
-    arabic: بَيِّنٰتٌ
+    arabic: بَيِّنَٰتٞ
     translation: clear
     transliteration: bayyinātun
   4:
@@ -24,27 +24,27 @@ word_by_word:
     translation: standing place
     transliteration: maqāmu
   5:
-    arabic: اِبۡرٰهِيۡمَۚ  
+    arabic: إِبۡرَٰهِيمَۖ
     translation: (of) Ibrahim
     transliteration: ib'rāhīma
   6:
-    arabic: وَمَنۡ
+    arabic: وَمَن
     translation: and whoever
     transliteration: waman
   7:
-    arabic: دَخَلَهٗ
+    arabic: دَخَلَهُۥ
     translation: 'enters it '
     transliteration: dakhalahu
   8:
-    arabic: كَانَ
+    arabic: كَانَ ءَ
     translation: is
     transliteration: kāna
   9:
-    arabic: اٰمِنًا ​ؕ
+    arabic: امِنٗاۗ
     translation: safe
     transliteration: āminan
   10:
-    arabic: وَلِلّٰهِ
+    arabic: وَلِلَّهِ
     translation: And (due) to Allah
     transliteration: walillahi
   11:
@@ -52,7 +52,7 @@ word_by_word:
     translation: upon
     transliteration: ʿalā
   12:
-    arabic: النَّاسِ
+    arabic: ٱلنَّاسِ
     translation: the mankind
     transliteration: l-nāsi
   13:
@@ -60,7 +60,7 @@ word_by_word:
     translation: (is) pilgrimage
     transliteration: ḥijju
   14:
-    arabic: الۡبَيۡتِ
+    arabic: ٱلۡبَيۡتِ
     translation: (of) the House
     transliteration: l-bayti
   15:
@@ -68,19 +68,19 @@ word_by_word:
     translation: (for one) who
     transliteration: mani
   16:
-    arabic: اسۡتَطَاعَ
+    arabic: ٱسۡتَطَاعَ
     translation: is able
     transliteration: is'taṭāʿa
   17:
-    arabic: اِلَيۡهِ
+    arabic: إِلَيۡهِ
     translation: to [it]
     transliteration: ilayhi
   18:
-    arabic: سَبِيۡلًا ​ؕ
+    arabic: سَبِيلٗاۚ
     translation: (find) a way
     transliteration: sabīlan
   19:
-    arabic: وَمَنۡ
+    arabic: وَمَن
     translation: And whoever
     transliteration: waman
   20:
@@ -88,15 +88,15 @@ word_by_word:
     translation: disbelieved
     transliteration: kafara
   21:
-    arabic: فَاِنَّ
+    arabic: فَإِنَّ
     translation: then indeed
     transliteration: fa-inna
   22:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   23:
-    arabic: غَنِىٌّ
+    arabic: غَنِيٌّ
     translation: (is) free from need
     transliteration: ghaniyyun
   24:
@@ -104,7 +104,7 @@ word_by_word:
     translation: of
     transliteration: ʿani
   25:
-    arabic: الۡعٰلَمِيۡنَ‏
+    arabic: ٱلۡعَٰلَمِينَ
     translation: the universe
     transliteration: l-ʿālamīna
 ---

@@ -1,5 +1,5 @@
 ---
-arabic_ayat: ثُمَّ يُجۡزٰٮهُ الۡجَزَآءَ الۡاَوۡفٰىۙ‏
+arabic_ayat: ثُمَّ يُجۡزَىٰهُ ٱلۡجَزَآءَ ٱلۡأَوۡفَىٰ
 sentence_translation: then they will be fully rewarded,
 word_by_word:
   1:
@@ -7,15 +7,15 @@ word_by_word:
     translation: Then
     transliteration: thumma
   2:
-    arabic: يُجۡزٰٮهُ
+    arabic: يُجۡزَىٰهُ
     translation: he will be recompensed for it
     transliteration: yuj'zāhu
   3:
-    arabic: الۡجَزَآءَ
+    arabic: ٱلۡجَزَآءَ
     translation: the recompense
     transliteration: l-jazāa
   4:
-    arabic: الۡاَوۡفٰىۙ‏
+    arabic: ٱلۡأَوۡفَىٰ
     translation: the fullest
     transliteration: l-awfā
 ---

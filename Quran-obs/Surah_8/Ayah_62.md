@@ -1,28 +1,28 @@
 ---
-arabic_ayat: وَاِنۡ يُّرِيۡدُوۡۤا اَنۡ يَّخۡدَعُوۡكَ فَاِنَّ حَسۡبَكَ اللّٰهُ​ؕ هُوَ
-  الَّذِىۡۤ اَيَّدَكَ بِنَصۡرِهٖ وَبِالۡمُؤۡمِنِيۡنَۙ‏
+arabic_ayat: وَإِن يُرِيدُوٓاْ أَن يَخۡدَعُوكَ فَإِنَّ حَسۡبَكَ ٱللَّهُۚ هُوَ ٱلَّذِيٓ
+  أَيَّدَكَ بِنَصۡرِهِۦ وَبِٱلۡمُؤۡمِنِينَ
 sentence_translation: But if their intention is only to deceive you, then Allah is
   certainly sufficient for you. He is the One Who has supported you with His help
   and with the believers.
 word_by_word:
   1:
-    arabic: وَاِنۡ
+    arabic: وَإِن
     translation: But if
     transliteration: wa-in
   2:
-    arabic: يُّرِيۡدُوۡۤا
+    arabic: يُرِيدُوٓاْ
     translation: they intend
     transliteration: yurīdū
   3:
-    arabic: اَنۡ
+    arabic: أَن
     translation: to
     transliteration: an
   4:
-    arabic: يَّخۡدَعُوۡكَ
+    arabic: يَخۡدَعُوكَ
     translation: deceive you
     transliteration: yakhdaʿūka
   5:
-    arabic: فَاِنَّ
+    arabic: فَإِنَّ
     translation: then indeed
     transliteration: fa-inna
   6:
@@ -30,7 +30,7 @@ word_by_word:
     translation: is sufficient for you
     transliteration: ḥasbaka
   7:
-    arabic: اللّٰهُ​ؕ
+    arabic: ٱللَّهُۚ
     translation: Allah
     transliteration: l-lahu
   8:
@@ -38,19 +38,19 @@ word_by_word:
     translation: He
     transliteration: huwa
   9:
-    arabic: الَّذِىۡۤ
+    arabic: ٱلَّذِيٓ
     translation: (is) the One Who
     transliteration: alladhī
   10:
-    arabic: اَيَّدَكَ
+    arabic: أَيَّدَكَ
     translation: supported you
     transliteration: ayyadaka
   11:
-    arabic: بِنَصۡرِهٖ
+    arabic: بِنَصۡرِهِۦ
     translation: with His help
     transliteration: binaṣrihi
   12:
-    arabic: وَبِالۡمُؤۡمِنِيۡنَۙ‏
+    arabic: وَبِٱلۡمُؤۡمِنِينَ
     translation: and with the believers
     transliteration: wabil-mu'minīna
 ---

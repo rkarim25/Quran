@@ -1,5 +1,5 @@
 ---
-arabic_ayat: فَمَا اسۡطَاعُوۡۤا اَنۡ يَّظۡهَرُوۡهُ وَمَا اسۡتَطَاعُوۡا لَهٗ نَـقۡبًا‏
+arabic_ayat: فَمَا ٱسۡطَٰعُوٓاْ أَن يَظۡهَرُوهُ وَمَا ٱسۡتَطَٰعُواْ لَهُۥ نَقۡبٗا
 sentence_translation: And so the enemies could neither scale nor tunnel through it.
 word_by_word:
   1:
@@ -7,15 +7,15 @@ word_by_word:
     translation: So not
     transliteration: famā
   2:
-    arabic: اسۡطَاعُوۡۤا
+    arabic: ٱسۡطَٰعُوٓاْ
     translation: they were able
     transliteration: is'ṭāʿū
   3:
-    arabic: اَنۡ
+    arabic: أَن
     translation: to
     transliteration: an
   4:
-    arabic: يَّظۡهَرُوۡهُ
+    arabic: يَظۡهَرُوهُ
     translation: scale it
     transliteration: yaẓharūhu
   5:
@@ -23,15 +23,15 @@ word_by_word:
     translation: and not
     transliteration: wamā
   6:
-    arabic: اسۡتَطَاعُوۡا
+    arabic: ٱسۡتَطَٰعُواْ
     translation: they were able
     transliteration: is'taṭāʿū
   7:
-    arabic: لَهٗ
+    arabic: لَهُۥ
     translation: in it
     transliteration: lahu
   8:
-    arabic: نَـقۡبًا‏
+    arabic: نَقۡبٗا
     translation: (to do) any penetration
     transliteration: naqban
 ---

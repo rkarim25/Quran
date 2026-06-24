@@ -1,6 +1,5 @@
 ---
-arabic_ayat: "يَوۡمَ يَسۡمَعُوۡنَ الصَّيۡحَةَ بِالۡحَـقِّ​ ؕ ذٰ لِكَ يَوۡمُ الۡخُـرُوۡجِ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: يَوۡمَ يَسۡمَعُونَ ٱلصَّيۡحَةَ بِٱلۡحَقِّۚ ذَٰلِكَ يَوۡمُ ٱلۡخُرُوجِ
 sentence_translation: the Day all will hear the ˹mighty˺ Blast in ˹all˺ truth, that
   will be the Day of emergence ˹from the graves˺.
 word_by_word:
@@ -9,19 +8,19 @@ word_by_word:
     translation: (The) Day
     transliteration: yawma
   2:
-    arabic: يَسۡمَعُوۡنَ
+    arabic: يَسۡمَعُونَ
     translation: they will hear
     transliteration: yasmaʿūna
   3:
-    arabic: الصَّيۡحَةَ
+    arabic: ٱلصَّيۡحَةَ
     translation: the Blast
     transliteration: l-ṣayḥata
   4:
-    arabic: بِالۡحَـقِّ​ ؕ
+    arabic: بِٱلۡحَقِّۚ
     translation: in truth
     transliteration: bil-ḥaqi
   5:
-    arabic: ذٰ لِكَ
+    arabic: ذَٰلِكَ
     translation: That
     transliteration: dhālika
   6:
@@ -29,7 +28,7 @@ word_by_word:
     translation: (is the) Day
     transliteration: yawmu
   7:
-    arabic: "الۡخُـرُوۡجِ‏ \uFEFF\uFEFF"
+    arabic: ٱلۡخُرُوجِ
     translation: (of) coming forth
     transliteration: l-khurūji
 ---

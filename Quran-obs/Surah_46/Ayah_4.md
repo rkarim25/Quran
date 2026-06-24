@@ -1,7 +1,7 @@
 ---
-arabic_ayat: قُلۡ اَرَءَيۡتُمۡ مَّا تَدۡعُوۡنَ مِنۡ دُوۡنِ اللّٰهِ اَرُوۡنِىۡ مَاذَا
-  خَلَقُوۡا مِنَ الۡاَرۡضِ اَمۡ لَهُمۡ شِرۡكٌ فِى السَّمٰوٰتِ​ؕ اِیْتُوۡنِىۡ بِكِتٰبٍ
-  مِّنۡ قَبۡلِ هٰذَاۤ اَوۡ اَثٰرَةٍ مِّنۡ عِلۡمٍ اِنۡ كُنۡتُمۡ صٰدِقِيۡنَ‏
+arabic_ayat: قُلۡ أَرَءَيۡتُم مَّا تَدۡعُونَ مِن دُونِ ٱللَّهِ أَرُونِي مَاذَا خَلَقُواْ
+  مِنَ ٱلۡأَرۡضِ أَمۡ لَهُمۡ شِرۡكٞ فِي ٱلسَّمَٰوَٰتِۖ ٱئۡتُونِي بِكِتَٰبٖ مِّن قَبۡلِ
+  هَٰذَآ أَوۡ أَثَٰرَةٖ مِّنۡ عِلۡمٍ إِن كُنتُمۡ صَٰدِقِينَ
 sentence_translation: Ask ˹them, O  Prophet˺, “Have you considered whatever ˹idols˺
   you invoke besides Allah? Show me what they have created on earth! Or do they have
   a share in ˹the creation of˺ the heavens? Bring me a scripture ˹revealed˺ before
@@ -12,7 +12,7 @@ word_by_word:
     translation: Say
     transliteration: qul
   2:
-    arabic: اَرَءَيۡتُمۡ
+    arabic: أَرَءَيۡتُم
     translation: Do you see
     transliteration: ara-aytum
   3:
@@ -20,23 +20,23 @@ word_by_word:
     translation: what
     transliteration: mā
   4:
-    arabic: تَدۡعُوۡنَ
+    arabic: تَدۡعُونَ
     translation: you call
     transliteration: tadʿūna
   5:
-    arabic: مِنۡ
+    arabic: مِن
     translation: besides
     transliteration: min
   6:
-    arabic: دُوۡنِ
+    arabic: دُونِ
     translation: besides
     transliteration: dūni
   7:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   8:
-    arabic: اَرُوۡنِىۡ
+    arabic: أَرُونِي
     translation: Show me
     transliteration: arūnī
   9:
@@ -44,7 +44,7 @@ word_by_word:
     translation: what
     transliteration: mādhā
   10:
-    arabic: خَلَقُوۡا
+    arabic: خَلَقُواْ
     translation: they have created
     transliteration: khalaqū
   11:
@@ -52,11 +52,11 @@ word_by_word:
     translation: of
     transliteration: mina
   12:
-    arabic: الۡاَرۡضِ
+    arabic: ٱلۡأَرۡضِ
     translation: the earth
     transliteration: l-arḍi
   13:
-    arabic: اَمۡ
+    arabic: أَمۡ
     translation: or
     transliteration: am
   14:
@@ -64,27 +64,27 @@ word_by_word:
     translation: for them
     transliteration: lahum
   15:
-    arabic: شِرۡكٌ
+    arabic: شِرۡكٞ
     translation: (is) any share
     transliteration: shir'kun
   16:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   17:
-    arabic: السَّمٰوٰتِ​ؕ
+    arabic: ٱلسَّمَٰوَٰتِۖ
     translation: the heavens
     transliteration: l-samāwāti
   18:
-    arabic: اِیْتُوۡنِىۡ
+    arabic: ٱئۡتُونِي
     translation: Bring me
     transliteration: i'tūnī
   19:
-    arabic: بِكِتٰبٍ
+    arabic: بِكِتَٰبٖ
     translation: a book
     transliteration: bikitābin
   20:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: from
     transliteration: min
   21:
@@ -92,15 +92,15 @@ word_by_word:
     translation: before
     transliteration: qabli
   22:
-    arabic: هٰذَاۤ
+    arabic: هَٰذَآ
     translation: this
     transliteration: hādhā
   23:
-    arabic: اَوۡ
+    arabic: أَوۡ
     translation: or
     transliteration: aw
   24:
-    arabic: اَثٰرَةٍ
+    arabic: أَثَٰرَةٖ
     translation: a trace
     transliteration: athāratin
   25:
@@ -112,15 +112,15 @@ word_by_word:
     translation: knowledge
     transliteration: ʿil'min
   27:
-    arabic: اِنۡ
+    arabic: إِن
     translation: if
     transliteration: in
   28:
-    arabic: كُنۡتُمۡ
+    arabic: كُنتُمۡ
     translation: you are
     transliteration: kuntum
   29:
-    arabic: صٰدِقِيۡنَ‏
+    arabic: صَٰدِقِينَ
     translation: truthful
     transliteration: ṣādiqīna
 ---

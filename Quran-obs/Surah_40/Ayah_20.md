@@ -1,35 +1,35 @@
 ---
-arabic_ayat: وَاللّٰهُ يَقۡضِىۡ بِالۡحَقِّؕ وَالَّذِيۡنَ يَدۡعُوۡنَ مِنۡ دُوۡنِهٖ
-  لَا يَقۡضُوۡنَ بِشَىۡءٍؕ اِنَّ اللّٰهَ هُوَ السَّمِيۡعُ الۡبَصِيۡرُ‏
+arabic_ayat: وَٱللَّهُ يَقۡضِي بِٱلۡحَقِّۖ وَٱلَّذِينَ يَدۡعُونَ مِن دُونِهِۦ لَا
+  يَقۡضُونَ بِشَيۡءٍۗ إِنَّ ٱللَّهَ هُوَ ٱلسَّمِيعُ ٱلۡبَصِيرُ
 sentence_translation: And Allah judges with the truth, while those ˹idols˺ they invoke
   besides Him cannot judge at all. Indeed, Allah ˹alone˺ is the All-Hearing, All-Seeing.
 word_by_word:
   1:
-    arabic: وَاللّٰهُ
+    arabic: وَٱللَّهُ
     translation: And Allah
     transliteration: wal-lahu
   2:
-    arabic: يَقۡضِىۡ
+    arabic: يَقۡضِي
     translation: judges
     transliteration: yaqḍī
   3:
-    arabic: بِالۡحَقِّؕ
+    arabic: بِٱلۡحَقِّۖ
     translation: in truth
     transliteration: bil-ḥaqi
   4:
-    arabic: وَالَّذِيۡنَ
+    arabic: وَٱلَّذِينَ
     translation: while those (whom)
     transliteration: wa-alladhīna
   5:
-    arabic: يَدۡعُوۡنَ
+    arabic: يَدۡعُونَ
     translation: they invoke
     transliteration: yadʿūna
   6:
-    arabic: مِنۡ
+    arabic: مِن
     translation: besides Him
     transliteration: min
   7:
-    arabic: دُوۡنِهٖ
+    arabic: دُونِهِۦ
     translation: besides Him
     transliteration: dūnihi
   8:
@@ -37,19 +37,19 @@ word_by_word:
     translation: not
     transliteration: lā
   9:
-    arabic: يَقۡضُوۡنَ
+    arabic: يَقۡضُونَ
     translation: they judge
     transliteration: yaqḍūna
   10:
-    arabic: بِشَىۡءٍؕ
+    arabic: بِشَيۡءٍۗ
     translation: with anything
     transliteration: bishayin
   11:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   12:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: 'Allah '
     transliteration: l-laha
   13:
@@ -57,11 +57,11 @@ word_by_word:
     translation: He
     transliteration: huwa
   14:
-    arabic: السَّمِيۡعُ
+    arabic: ٱلسَّمِيعُ
     translation: (is) the All-Hearer
     transliteration: l-samīʿu
   15:
-    arabic: الۡبَصِيۡرُ‏
+    arabic: ٱلۡبَصِيرُ
     translation: the All-Seer
     transliteration: l-baṣīru
 ---

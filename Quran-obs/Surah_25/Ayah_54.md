@@ -1,6 +1,6 @@
 ---
-arabic_ayat: وَهُوَ الَّذِىۡ خَلَقَ مِنَ الۡمَآءِ بَشَرًا فَجَعَلَهٗ نَسَبًا وَّ
-  صِهۡرًا​ ؕ وَكَانَ رَبُّكَ قَدِيۡرًا‏
+arabic_ayat: وَهُوَ ٱلَّذِي خَلَقَ مِنَ ٱلۡمَآءِ بَشَرٗا فَجَعَلَهُۥ نَسَبٗا وَصِهۡرٗاۗ
+  وَكَانَ رَبُّكَ قَدِيرٗا
 sentence_translation: And He is the One Who creates human beings from a ˹humble˺ liquid, then
   establishes for them bonds of kinship and marriage. For your Lord is Most Capable.
 word_by_word:
@@ -9,7 +9,7 @@ word_by_word:
     translation: And He
     transliteration: wahuwa
   2:
-    arabic: الَّذِىۡ
+    arabic: ٱلَّذِي
     translation: (is) the One Who
     transliteration: alladhī
   3:
@@ -21,23 +21,23 @@ word_by_word:
     translation: from
     transliteration: mina
   5:
-    arabic: الۡمَآءِ
+    arabic: ٱلۡمَآءِ
     translation: the water
     transliteration: l-māi
   6:
-    arabic: بَشَرًا
+    arabic: بَشَرٗا
     translation: human being
     transliteration: basharan
   7:
-    arabic: فَجَعَلَهٗ
+    arabic: فَجَعَلَهُۥ
     translation: and has made (for) him
     transliteration: fajaʿalahu
   8:
-    arabic: نَسَبًا
+    arabic: نَسَبٗا
     translation: blood relationship
     transliteration: nasaban
   9:
-    arabic: وَّ صِهۡرًا​ ؕ
+    arabic: وَصِهۡرٗاۗ
     translation: and marriage relationship
     transliteration: waṣih'ran
   10:
@@ -49,7 +49,7 @@ word_by_word:
     translation: your Lord
     transliteration: rabbuka
   12:
-    arabic: قَدِيۡرًا‏
+    arabic: قَدِيرٗا
     translation: All-Powerful
     transliteration: qadīran
 ---

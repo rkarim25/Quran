@@ -1,8 +1,8 @@
 ---
-arabic_ayat: وَاِنۡ طَآٮِٕفَتٰنِ مِنَ الۡمُؤۡمِنِيۡنَ اقۡتَتَلُوۡا فَاَصۡلِحُوۡا
-  بَيۡنَهُمَا​ۚ فَاِنۡۢ بَغَتۡ اِحۡدٰٮهُمَا عَلَى الۡاُخۡرٰى فَقَاتِلُوا الَّتِىۡ
-  تَبۡغِىۡ حَتّٰى تَفِىۡٓءَ اِلٰٓى اَمۡرِ اللّٰهِ ​ۚ فَاِنۡ فَآءَتۡ فَاَصۡلِحُوۡا
-  بَيۡنَهُمَا بِالۡعَدۡلِ وَاَقۡسِطُوۡا ؕ​ اِنَّ اللّٰهَ يُحِبُّ الۡمُقۡسِطِيۡنَ‏
+arabic_ayat: وَإِن طَآئِفَتَانِ مِنَ ٱلۡمُؤۡمِنِينَ ٱقۡتَتَلُواْ فَأَصۡلِحُواْ بَيۡنَهُمَاۖ
+  فَإِنۢ بَغَتۡ إِحۡدَىٰهُمَا عَلَى ٱلۡأُخۡرَىٰ فَقَٰتِلُواْ ٱلَّتِي تَبۡغِي حَتَّىٰ
+  تَفِيٓءَ إِلَىٰٓ أَمۡرِ ٱللَّهِۚ فَإِن فَآءَتۡ فَأَصۡلِحُواْ بَيۡنَهُمَا بِٱلۡعَدۡلِ
+  وَأَقۡسِطُوٓاْۖ إِنَّ ٱللَّهَ يُحِبُّ ٱلۡمُقۡسِطِينَ
 sentence_translation: And if two groups of believers fight each other, then make peace
   between them. But if one of them transgresses against the other, then fight against
   the transgressing group until they ˹are willing to˺ submit to the rule of Allah.
@@ -10,11 +10,11 @@ sentence_translation: And if two groups of believers fight each other, then make
   Surely Allah loves those who uphold justice.
 word_by_word:
   1:
-    arabic: وَاِنۡ
+    arabic: وَإِن
     translation: And if
     transliteration: wa-in
   2:
-    arabic: طَآٮِٕفَتٰنِ
+    arabic: طَآئِفَتَانِ
     translation: two parties
     transliteration: ṭāifatāni
   3:
@@ -22,23 +22,23 @@ word_by_word:
     translation: among
     transliteration: mina
   4:
-    arabic: الۡمُؤۡمِنِيۡنَ
+    arabic: ٱلۡمُؤۡمِنِينَ
     translation: the believers
     transliteration: l-mu'minīna
   5:
-    arabic: اقۡتَتَلُوۡا
+    arabic: ٱقۡتَتَلُواْ
     translation: fight
     transliteration: iq'tatalū
   6:
-    arabic: فَاَصۡلِحُوۡا
+    arabic: فَأَصۡلِحُواْ
     translation: then make peace
     transliteration: fa-aṣliḥū
   7:
-    arabic: بَيۡنَهُمَا​ۚ
+    arabic: بَيۡنَهُمَاۖ
     translation: between both of them
     transliteration: baynahumā
   8:
-    arabic: فَاِنۡۢ
+    arabic: فَإِنۢ
     translation: But if
     transliteration: fa-in
   9:
@@ -46,7 +46,7 @@ word_by_word:
     translation: oppresses
     transliteration: baghat
   10:
-    arabic: اِحۡدٰٮهُمَا
+    arabic: إِحۡدَىٰهُمَا
     translation: one of them
     transliteration: iḥ'dāhumā
   11:
@@ -54,43 +54,43 @@ word_by_word:
     translation: 'on'
     transliteration: ʿalā
   12:
-    arabic: الۡاُخۡرٰى
+    arabic: ٱلۡأُخۡرَىٰ
     translation: the other
     transliteration: l-ukh'rā
   13:
-    arabic: فَقَاتِلُوا
+    arabic: فَقَٰتِلُواْ
     translation: then fight
     transliteration: faqātilū
   14:
-    arabic: الَّتِىۡ
+    arabic: ٱلَّتِي
     translation: one which
     transliteration: allatī
   15:
-    arabic: تَبۡغِىۡ
+    arabic: تَبۡغِي
     translation: oppresses
     transliteration: tabghī
   16:
-    arabic: حَتّٰى
+    arabic: حَتَّىٰ
     translation: until
     transliteration: ḥattā
   17:
-    arabic: تَفِىۡٓءَ
+    arabic: تَفِيٓءَ
     translation: it returns
     transliteration: tafīa
   18:
-    arabic: اِلٰٓى
+    arabic: إِلَىٰٓ
     translation: to
     transliteration: ilā
   19:
-    arabic: اَمۡرِ
+    arabic: أَمۡرِ
     translation: (the) command
     transliteration: amri
   20:
-    arabic: اللّٰهِ ​ۚ
+    arabic: ٱللَّهِۚ
     translation: (of) Allah
     transliteration: l-lahi
   21:
-    arabic: فَاِنۡ
+    arabic: فَإِن
     translation: Then if
     transliteration: fa-in
   22:
@@ -98,7 +98,7 @@ word_by_word:
     translation: it returns
     transliteration: fāat
   23:
-    arabic: فَاَصۡلِحُوۡا
+    arabic: فَأَصۡلِحُواْ
     translation: then make peace
     transliteration: fa-aṣliḥū
   24:
@@ -106,19 +106,19 @@ word_by_word:
     translation: between them
     transliteration: baynahumā
   25:
-    arabic: بِالۡعَدۡلِ
+    arabic: بِٱلۡعَدۡلِ
     translation: with justice
     transliteration: bil-ʿadli
   26:
-    arabic: وَاَقۡسِطُوۡا ؕ​
+    arabic: وَأَقۡسِطُوٓاْۖ
     translation: and act justly
     transliteration: wa-aqsiṭū
   27:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   28:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   29:
@@ -126,7 +126,7 @@ word_by_word:
     translation: loves
     transliteration: yuḥibbu
   30:
-    arabic: الۡمُقۡسِطِيۡنَ‏
+    arabic: ٱلۡمُقۡسِطِينَ
     translation: those who act justly
     transliteration: l-muq'siṭīna
 ---

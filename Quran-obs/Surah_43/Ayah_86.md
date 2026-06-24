@@ -1,6 +1,6 @@
 ---
-arabic_ayat: وَلَا يَمۡلِكُ الَّذِيۡنَ يَدۡعُوۡنَ مِنۡ دُوۡنِهِ الشَّفَاعَةَ اِلَّا
-  مَنۡ شَهِدَ بِالۡحَـقِّ وَهُمۡ يَعۡلَمُوۡنَ‏
+arabic_ayat: وَلَا يَمۡلِكُ ٱلَّذِينَ يَدۡعُونَ مِن دُونِهِ ٱلشَّفَٰعَةَ إِلَّا مَن
+  شَهِدَ بِٱلۡحَقِّ وَهُمۡ يَعۡلَمُونَ
 sentence_translation: ˹But˺ those ˹objects of worship˺ they invoke besides Him have
   no power to intercede, except those who testify to the truth knowingly.
 word_by_word:
@@ -13,31 +13,31 @@ word_by_word:
     translation: have power
     transliteration: yamliku
   3:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those whom
     transliteration: alladhīna
   4:
-    arabic: يَدۡعُوۡنَ
+    arabic: يَدۡعُونَ
     translation: they invoke
     transliteration: yadʿūna
   5:
-    arabic: مِنۡ
+    arabic: مِن
     translation: besides Him
     transliteration: min
   6:
-    arabic: دُوۡنِهِ
+    arabic: دُونِهِ
     translation: besides Him
     transliteration: dūnihi
   7:
-    arabic: الشَّفَاعَةَ
+    arabic: ٱلشَّفَٰعَةَ
     translation: (for) the intercession
     transliteration: l-shafāʿata
   8:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   9:
-    arabic: مَنۡ
+    arabic: مَن
     translation: who
     transliteration: man
   10:
@@ -45,7 +45,7 @@ word_by_word:
     translation: testifies
     transliteration: shahida
   11:
-    arabic: بِالۡحَـقِّ
+    arabic: بِٱلۡحَقِّ
     translation: to the truth
     transliteration: bil-ḥaqi
   12:
@@ -53,7 +53,7 @@ word_by_word:
     translation: and they
     transliteration: wahum
   13:
-    arabic: يَعۡلَمُوۡنَ‏
+    arabic: يَعۡلَمُونَ
     translation: know
     transliteration: yaʿlamūna
 ---

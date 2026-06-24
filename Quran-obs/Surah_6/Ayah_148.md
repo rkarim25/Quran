@@ -1,8 +1,8 @@
 ---
-arabic_ayat: سَيَـقُوۡلُ الَّذِيۡنَ اَشۡرَكُوۡا لَوۡ شَآءَ اللّٰهُ مَاۤ اَشۡرَكۡنَا
-  وَلَاۤ اٰبَآؤُنَا وَلَا حَرَّمۡنَا مِنۡ شَىۡءٍ​ ؕ كَذٰلِكَ كَذَّبَ الَّذِيۡنَ مِنۡ
-  قَبۡلِهِمۡ حَتّٰى ذَاقُوۡا بَاۡسَنَا​ ؕ قُلۡ هَلۡ عِنۡدَكُمۡ مِّنۡ عِلۡمٍ فَتُخۡرِجُوۡهُ
-  لَـنَا ؕ اِنۡ تَتَّبِعُوۡنَ اِلَّا الظَّنَّ وَاِنۡ اَنۡـتُمۡ اِلَّا تَخۡرُصُوۡنَ‏
+arabic_ayat: سَيَقُولُ ٱلَّذِينَ أَشۡرَكُواْ لَوۡ شَآءَ ٱللَّهُ مَآ أَشۡرَكۡنَا
+  وَلَآ ءَابَآؤُنَا وَلَا حَرَّمۡنَا مِن شَيۡءٖۚ كَذَٰلِكَ كَذَّبَ ٱلَّذِينَ مِن
+  قَبۡلِهِمۡ حَتَّىٰ ذَاقُواْ بَأۡسَنَاۗ قُلۡ هَلۡ عِندَكُم مِّنۡ عِلۡمٖ فَتُخۡرِجُوهُ
+  لَنَآۖ إِن تَتَّبِعُونَ إِلَّا ٱلظَّنَّ وَإِنۡ أَنتُمۡ إِلَّا تَخۡرُصُونَ
 sentence_translation: The polytheists will argue, “Had it been Allah’s Will, neither
   we nor our forefathers would have associated others with Him ˹in worship˺ or made
   anything unlawful.” Likewise, those before them rejected the truth until they tasted
@@ -11,15 +11,15 @@ sentence_translation: The polytheists will argue, “Had it been Allah’s Will,
   but lie.”
 word_by_word:
   1:
-    arabic: سَيَـقُوۡلُ
+    arabic: سَيَقُولُ
     translation: Will say
     transliteration: sayaqūlu
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   3:
-    arabic: اَشۡرَكُوۡا
+    arabic: أَشۡرَكُواْ
     translation: associate partners (with Allah)
     transliteration: ashrakū
   4:
@@ -31,23 +31,23 @@ word_by_word:
     translation: Had willed
     transliteration: shāa
   6:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   7:
-    arabic: مَاۤ
+    arabic: مَآ
     translation: not
     transliteration: mā
   8:
-    arabic: اَشۡرَكۡنَا
+    arabic: أَشۡرَكۡنَا
     translation: we (would) have associated partners (with Allah)
     transliteration: ashraknā
   9:
-    arabic: وَلَاۤ
+    arabic: وَلَآ ءَ
     translation: and not
     transliteration: walā
   10:
-    arabic: اٰبَآؤُنَا
+    arabic: ابَآؤُنَا
     translation: our forefathers
     transliteration: ābāunā
   11:
@@ -59,15 +59,15 @@ word_by_word:
     translation: we (would) have forbidden
     transliteration: ḥarramnā
   13:
-    arabic: مِنۡ
+    arabic: مِن
     translation: '[of]'
     transliteration: min
   14:
-    arabic: شَىۡءٍ​ ؕ
+    arabic: شَيۡءٖۚ
     translation: anything
     transliteration: shayin
   15:
-    arabic: كَذٰلِكَ
+    arabic: كَذَٰلِكَ
     translation: Likewise
     transliteration: kadhālika
   16:
@@ -75,11 +75,11 @@ word_by_word:
     translation: denied
     transliteration: kadhaba
   17:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   18:
-    arabic: مِنۡ
+    arabic: مِن
     translation: (were from)
     transliteration: min
   19:
@@ -87,15 +87,15 @@ word_by_word:
     translation: before them
     transliteration: qablihim
   20:
-    arabic: حَتّٰى
+    arabic: حَتَّىٰ
     translation: until
     transliteration: ḥattā
   21:
-    arabic: ذَاقُوۡا
+    arabic: ذَاقُواْ
     translation: they tasted
     transliteration: dhāqū
   22:
-    arabic: بَاۡسَنَا​ ؕ
+    arabic: بَأۡسَنَاۗ
     translation: Our wrath
     transliteration: basanā
   23:
@@ -107,7 +107,7 @@ word_by_word:
     translation: Is
     transliteration: hal
   25:
-    arabic: عِنۡدَكُمۡ
+    arabic: عِندَكُم
     translation: with you
     transliteration: ʿindakum
   26:
@@ -115,47 +115,47 @@ word_by_word:
     translation: '[of]'
     transliteration: min
   27:
-    arabic: عِلۡمٍ
+    arabic: عِلۡمٖ
     translation: any knowledge
     transliteration: ʿil'min
   28:
-    arabic: فَتُخۡرِجُوۡهُ
+    arabic: فَتُخۡرِجُوهُ
     translation: then produce it
     transliteration: fatukh'rijūhu
   29:
-    arabic: لَـنَا ؕ
+    arabic: لَنَآۖ
     translation: for us
     transliteration: lanā
   30:
-    arabic: اِنۡ
+    arabic: إِن
     translation: Not
     transliteration: in
   31:
-    arabic: تَتَّبِعُوۡنَ
+    arabic: تَتَّبِعُونَ
     translation: you follow
     transliteration: tattabiʿūna
   32:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   33:
-    arabic: الظَّنَّ
+    arabic: ٱلظَّنَّ
     translation: the assumption
     transliteration: l-ẓana
   34:
-    arabic: وَاِنۡ
+    arabic: وَإِنۡ
     translation: and not
     transliteration: wa-in
   35:
-    arabic: اَنۡـتُمۡ
+    arabic: أَنتُمۡ
     translation: you (do)
     transliteration: antum
   36:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: but
     transliteration: illā
   37:
-    arabic: تَخۡرُصُوۡنَ‏
+    arabic: تَخۡرُصُونَ
     translation: guess
     transliteration: takhruṣūna
 ---

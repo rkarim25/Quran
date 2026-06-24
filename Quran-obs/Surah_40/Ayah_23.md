@@ -1,5 +1,5 @@
 ---
-arabic_ayat: وَلَقَدۡ اَرۡسَلۡنَا مُوۡسٰى بِاٰيٰتِنَا وَسُلۡطٰنٍ مُّبِيۡنٍۙ‏
+arabic_ayat: وَلَقَدۡ أَرۡسَلۡنَا مُوسَىٰ بِـَٔايَٰتِنَا وَسُلۡطَٰنٖ مُّبِينٍ
 sentence_translation: Indeed, We sent Moses with Our signs and compelling proof
 word_by_word:
   1:
@@ -7,23 +7,23 @@ word_by_word:
     translation: And certainly
     transliteration: walaqad
   2:
-    arabic: اَرۡسَلۡنَا
+    arabic: أَرۡسَلۡنَا
     translation: We sent
     transliteration: arsalnā
   3:
-    arabic: مُوۡسٰى
+    arabic: مُوسَىٰ
     translation: Musa
     transliteration: mūsā
   4:
-    arabic: بِاٰيٰتِنَا
+    arabic: بِـَٔايَٰتِنَا
     translation: with Our Signs
     transliteration: biāyātinā
   5:
-    arabic: وَسُلۡطٰنٍ
+    arabic: وَسُلۡطَٰنٖ
     translation: and an authority
     transliteration: wasul'ṭānin
   6:
-    arabic: مُّبِيۡنٍۙ‏
+    arabic: مُّبِينٍ
     translation: clear
     transliteration: mubīnin
 ---

@@ -1,5 +1,5 @@
 ---
-arabic_ayat: مَا يُبَدَّلُ الۡقَوۡلُ لَدَىَّ وَمَاۤ اَنَا بِظَلَّامٍ لِّلۡعَبِيۡدِ‏
+arabic_ayat: مَا يُبَدَّلُ ٱلۡقَوۡلُ لَدَيَّ وَمَآ أَنَا۠ بِظَلَّٰمٖ لِّلۡعَبِيدِ
 sentence_translation: My Word cannot be changed, nor am I unjust to ˹My˺ creation.”
 word_by_word:
   1:
@@ -11,27 +11,27 @@ word_by_word:
     translation: will be changed
     transliteration: yubaddalu
   3:
-    arabic: الۡقَوۡلُ
+    arabic: ٱلۡقَوۡلُ
     translation: the word
     transliteration: l-qawlu
   4:
-    arabic: لَدَىَّ
+    arabic: لَدَيَّ
     translation: with Me
     transliteration: ladayya
   5:
-    arabic: وَمَاۤ
+    arabic: وَمَآ
     translation: and not
     transliteration: wamā
   6:
-    arabic: اَنَا
+    arabic: أَنَا۠
     translation: I Am
     transliteration: anā
   7:
-    arabic: بِظَلَّامٍ
+    arabic: بِظَلَّٰمٖ
     translation: unjust
     transliteration: biẓallāmin
   8:
-    arabic: لِّلۡعَبِيۡدِ‏
+    arabic: لِّلۡعَبِيدِ
     translation: to My slaves
     transliteration: lil'ʿabīdi
 ---

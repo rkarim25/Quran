@@ -1,16 +1,16 @@
 ---
-arabic_ayat: وَزُخۡرُفًا​ ؕ وَاِنۡ كُلُّ ذٰ لِكَ لَمَّا مَتَاعُ الۡحَيٰوةِ الدُّنۡيَا​
-  ؕ وَالۡاٰخِرَةُ عِنۡدَ رَبِّكَ لِلۡمُتَّقِيۡنَ‏
+arabic_ayat: وَزُخۡرُفٗاۚ وَإِن كُلُّ ذَٰلِكَ لَمَّا مَتَٰعُ ٱلۡحَيَوٰةِ ٱلدُّنۡيَاۚ
+  وَٱلۡأٓخِرَةُ عِندَ رَبِّكَ لِلۡمُتَّقِينَ
 sentence_translation: and ornaments ˹of gold˺. Yet all this is no more than a ˹fleeting˺
   enjoyment in this worldly life. ˹But˺ the Hereafter with your Lord is ˹only˺ for
   those mindful ˹of Him˺.
 word_by_word:
   1:
-    arabic: وَزُخۡرُفًا​ ؕ
+    arabic: وَزُخۡرُفٗاۚ
     translation: And ornaments of gold
     transliteration: wazukh'rufan
   2:
-    arabic: وَاِنۡ
+    arabic: وَإِن
     translation: And not (is)
     transliteration: wa-in
   3:
@@ -18,7 +18,7 @@ word_by_word:
     translation: all
     transliteration: kullu
   4:
-    arabic: ذٰ لِكَ
+    arabic: ذَٰلِكَ
     translation: that
     transliteration: dhālika
   5:
@@ -26,23 +26,23 @@ word_by_word:
     translation: but
     transliteration: lammā
   6:
-    arabic: مَتَاعُ
+    arabic: مَتَٰعُ
     translation: an enjoyment
     transliteration: matāʿu
   7:
-    arabic: الۡحَيٰوةِ
+    arabic: ٱلۡحَيَوٰةِ
     translation: (of) the life
     transliteration: l-ḥayati
   8:
-    arabic: الدُّنۡيَا​ ؕ
+    arabic: ٱلدُّنۡيَاۚ
     translation: (of) the world
     transliteration: l-dun'yā
   9:
-    arabic: وَالۡاٰخِرَةُ
+    arabic: وَٱلۡأٓخِرَةُ
     translation: And the Hereafter
     transliteration: wal-ākhiratu
   10:
-    arabic: عِنۡدَ
+    arabic: عِندَ
     translation: with
     transliteration: ʿinda
   11:
@@ -50,7 +50,7 @@ word_by_word:
     translation: your Lord
     transliteration: rabbika
   12:
-    arabic: لِلۡمُتَّقِيۡنَ‏
+    arabic: لِلۡمُتَّقِينَ
     translation: (is) for the righteous
     transliteration: lil'muttaqīna
 ---

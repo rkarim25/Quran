@@ -1,35 +1,34 @@
 ---
-arabic_ayat: "قُلْ لَّاۤ اَمۡلِكُ لِنَفۡسِىۡ نَـفۡعًا وَّلَا ضَرًّا اِلَّا مَا شَآءَ\
-  \ اللّٰهُ​ ؕ وَلَوۡ كُنۡتُ اَعۡلَمُ الۡغَيۡبَ لَاسۡتَكۡثَرۡتُ مِنَ الۡخَيۡرِ ۖ ​ۛۚ\
-  \ وَمَا مَسَّنِىَ السُّۤوۡءُ​ ​ۛۚ اِنۡ اَنَا اِلَّا نَذِيۡرٌ وَّبَشِيۡرٌ لِّقَوۡمٍ\
-  \ يُّؤۡمِنُوۡنَ‏ \uFEFF\uFEFF"
+arabic_ayat: قُل لَّآ أَمۡلِكُ لِنَفۡسِي نَفۡعٗا وَلَا ضَرًّا إِلَّا مَا شَآءَ ٱللَّهُۚ
+  وَلَوۡ كُنتُ أَعۡلَمُ ٱلۡغَيۡبَ لَٱسۡتَكۡثَرۡتُ مِنَ ٱلۡخَيۡرِ وَمَا مَسَّنِيَ ٱلسُّوٓءُۚ
+  إِنۡ أَنَا۠ إِلَّا نَذِيرٞ وَبَشِيرٞ لِّقَوۡمٖ يُؤۡمِنُونَ
 sentence_translation: Say, “I have no power to benefit or protect myself, except by
   the Will of Allah. If I had known the unknown, I would have benefited myself enormously,
   and no harm would have ever touched me. I am only a warner and deliverer of good
   news for those who believe.”
 word_by_word:
   1:
-    arabic: قُلْ
+    arabic: قُل
     translation: Say
     transliteration: qul
   2:
-    arabic: لَّاۤ
+    arabic: لَّآ
     translation: Not
     transliteration: lā
   3:
-    arabic: اَمۡلِكُ
+    arabic: أَمۡلِكُ
     translation: I have power
     transliteration: amliku
   4:
-    arabic: لِنَفۡسِىۡ
+    arabic: لِنَفۡسِي
     translation: for myself
     transliteration: linafsī
   5:
-    arabic: نَـفۡعًا
+    arabic: نَفۡعٗا
     translation: (to) benefit
     transliteration: nafʿan
   6:
-    arabic: وَّلَا
+    arabic: وَلَا
     translation: and no
     transliteration: walā
   7:
@@ -37,7 +36,7 @@ word_by_word:
     translation: (power to) harm
     transliteration: ḍarran
   8:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   9:
@@ -49,7 +48,7 @@ word_by_word:
     translation: wills
     transliteration: shāa
   11:
-    arabic: اللّٰهُ​ ؕ
+    arabic: ٱللَّهُۚ
     translation: Allah
     transliteration: l-lahu
   12:
@@ -57,19 +56,19 @@ word_by_word:
     translation: And if
     transliteration: walaw
   13:
-    arabic: كُنۡتُ
+    arabic: كُنتُ
     translation: I would
     transliteration: kuntu
   14:
-    arabic: اَعۡلَمُ
+    arabic: أَعۡلَمُ
     translation: know
     transliteration: aʿlamu
   15:
-    arabic: الۡغَيۡبَ
+    arabic: ٱلۡغَيۡبَ
     translation: (of) the unseen
     transliteration: l-ghayba
   16:
-    arabic: لَاسۡتَكۡثَرۡتُ
+    arabic: لَٱسۡتَكۡثَرۡتُ
     translation: surely I could have multiplied
     transliteration: la-is'takthartu
   17:
@@ -77,7 +76,7 @@ word_by_word:
     translation: of
     transliteration: mina
   18:
-    arabic: الۡخَيۡرِ ۖ ​ۛۚ
+    arabic: ٱلۡخَيۡرِ
     translation: the good
     transliteration: l-khayri
   19:
@@ -85,39 +84,39 @@ word_by_word:
     translation: and not
     transliteration: wamā
   20:
-    arabic: مَسَّنِىَ
+    arabic: مَسَّنِيَ
     translation: (could) have touched me
     transliteration: massaniya
   21:
-    arabic: السُّۤوۡءُ​ ​ۛۚ
+    arabic: ٱلسُّوٓءُۚ
     translation: the evil
     transliteration: l-sūu
   22:
-    arabic: اِنۡ
+    arabic: إِنۡ
     translation: Not
     transliteration: in
   23:
-    arabic: اَنَا
+    arabic: أَنَا۠
     translation: (am) I
     transliteration: anā
   24:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   25:
-    arabic: نَذِيۡرٌ
+    arabic: نَذِيرٞ
     translation: a warner
     transliteration: nadhīrun
   26:
-    arabic: وَّبَشِيۡرٌ
+    arabic: وَبَشِيرٞ
     translation: and a bearer of good tidings
     transliteration: wabashīrun
   27:
-    arabic: لِّقَوۡمٍ
+    arabic: لِّقَوۡمٖ
     translation: to a people
     transliteration: liqawmin
   28:
-    arabic: "يُّؤۡمِنُوۡنَ‏ \uFEFF\uFEFF"
+    arabic: يُؤۡمِنُونَ
     translation: who believe
     transliteration: yu'minūna
 ---

@@ -1,13 +1,13 @@
 ---
-arabic_ayat: وَّزَيۡتُوۡنًا وَّنَخۡلًا ؕ‏
+arabic_ayat: وَزَيۡتُونٗا وَنَخۡلٗا
 sentence_translation: and olives and palm trees,
 word_by_word:
   1:
-    arabic: وَّزَيۡتُوۡنًا
+    arabic: وَزَيۡتُونٗا
     translation: And olive
     transliteration: wazaytūnan
   2:
-    arabic: وَّنَخۡلًا ؕ‏
+    arabic: وَنَخۡلٗا
     translation: and date-palms
     transliteration: wanakhlan
 ---

@@ -1,16 +1,16 @@
 ---
-arabic_ayat: فَاِنۡ تَوَلَّوۡا فَقُلۡ حَسۡبِىَ اللّٰهُ ۖ  لَاۤ اِلٰهَ اِلَّا هُوَ
-  ؕ عَلَيۡهِ تَوَكَّلۡتُ​ ؕ وَهُوَ رَبُّ الۡعَرۡشِ الۡعَظِيۡمِ‏
+arabic_ayat: فَإِن تَوَلَّوۡاْ فَقُلۡ حَسۡبِيَ ٱللَّهُ لَآ إِلَٰهَ إِلَّا هُوَۖ عَلَيۡهِ
+  تَوَكَّلۡتُۖ وَهُوَ رَبُّ ٱلۡعَرۡشِ ٱلۡعَظِيمِ
 sentence_translation: But if they turn away, then say, ˹O Prophet,˺ “Allah is sufficient
   for me. There is no god ˹worthy of worship˺ except Him. In Him I put my trust. And
   He is the Lord of the Mighty Throne.”
 word_by_word:
   1:
-    arabic: فَاِنۡ
+    arabic: فَإِن
     translation: But if
     transliteration: fa-in
   2:
-    arabic: تَوَلَّوۡا
+    arabic: تَوَلَّوۡاْ
     translation: they turn away
     transliteration: tawallaw
   3:
@@ -18,27 +18,27 @@ word_by_word:
     translation: then say
     transliteration: faqul
   4:
-    arabic: حَسۡبِىَ
+    arabic: حَسۡبِيَ
     translation: Sufficient for me
     transliteration: ḥasbiya
   5:
-    arabic: اللّٰهُ ۖ 
+    arabic: ٱللَّهُ
     translation: (is) Allah
     transliteration: l-lahu
   6:
-    arabic: لَاۤ
+    arabic: لَآ
     translation: (There is) no
     transliteration: lā
   7:
-    arabic: اِلٰهَ
+    arabic: إِلَٰهَ
     translation: god
     transliteration: ilāha
   8:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   9:
-    arabic: هُوَ ؕ
+    arabic: هُوَۖ
     translation: Him
     transliteration: huwa
   10:
@@ -46,7 +46,7 @@ word_by_word:
     translation: On Him
     transliteration: ʿalayhi
   11:
-    arabic: تَوَكَّلۡتُ​ ؕ
+    arabic: تَوَكَّلۡتُۖ
     translation: I put my trust
     transliteration: tawakkaltu
   12:
@@ -58,11 +58,11 @@ word_by_word:
     translation: (is the) Lord
     transliteration: rabbu
   14:
-    arabic: الۡعَرۡشِ
+    arabic: ٱلۡعَرۡشِ
     translation: (of) the Throne
     transliteration: l-ʿarshi
   15:
-    arabic: الۡعَظِيۡمِ‏
+    arabic: ٱلۡعَظِيمِ
     translation: the Great
     transliteration: l-ʿaẓīmi
 ---

@@ -1,27 +1,27 @@
 ---
-arabic_ayat: وَقَالُوا اتَّخَذَ اللّٰهُ وَلَدًا ۙ​ سُبۡحٰنَهٗ ​ؕ بَل لَّهٗ مَا فِى
-  السَّمٰوٰتِ وَالۡاَرۡضِ​ؕ كُلٌّ لَّهٗ قَانِتُوۡنَ‏
+arabic_ayat: وَقَالُواْ ٱتَّخَذَ ٱللَّهُ وَلَدٗاۗ سُبۡحَٰنَهُۥۖ بَل لَّهُۥ مَا فِي
+  ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِۖ كُلّٞ لَّهُۥ قَٰنِتُونَ
 sentence_translation: They say, “Allah has offspring.” Glory be to Him! In fact, to
   Him belongs whatever is in the heavens and the earth—all are subject to His Will.
 word_by_word:
   1:
-    arabic: وَقَالُوا
+    arabic: وَقَالُواْ
     translation: And they said
     transliteration: waqālū
   2:
-    arabic: اتَّخَذَ
+    arabic: ٱتَّخَذَ
     translation: has taken
     transliteration: ittakhadha
   3:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   4:
-    arabic: وَلَدًا ۙ​
+    arabic: وَلَدٗاۗ
     translation: a son
     transliteration: waladan
   5:
-    arabic: سُبۡحٰنَهٗ ​ؕ
+    arabic: سُبۡحَٰنَهُۥۖ
     translation: Glory be to Him
     transliteration: sub'ḥānahu
   6:
@@ -29,7 +29,7 @@ word_by_word:
     translation: Nay
     transliteration: bal
   7:
-    arabic: لَّهٗ
+    arabic: لَّهُۥ
     translation: for Him
     transliteration: lahu
   8:
@@ -37,27 +37,27 @@ word_by_word:
     translation: (is) what
     transliteration: mā
   9:
-    arabic: فِى
+    arabic: فِي
     translation: (is) in
     transliteration: fī
   10:
-    arabic: السَّمٰوٰتِ
+    arabic: ٱلسَّمَٰوَٰتِ
     translation: the heavens
     transliteration: l-samāwāti
   11:
-    arabic: وَالۡاَرۡضِ​ؕ
+    arabic: وَٱلۡأَرۡضِۖ
     translation: and the earth
     transliteration: wal-arḍi
   12:
-    arabic: كُلٌّ
+    arabic: كُلّٞ
     translation: All
     transliteration: kullun
   13:
-    arabic: لَّهٗ
+    arabic: لَّهُۥ
     translation: to Him
     transliteration: lahu
   14:
-    arabic: قَانِتُوۡنَ‏
+    arabic: قَٰنِتُونَ
     translation: (are) humbly obedient
     transliteration: qānitūna
 ---

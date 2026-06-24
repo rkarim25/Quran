@@ -1,31 +1,31 @@
 ---
-arabic_ayat: اُبَلِّغُكُمۡ رِسٰلٰتِ رَبِّىۡ وَاَنۡصَحُ لَـكُمۡ وَاَعۡلَمُ مِنَ اللّٰهِ
-  مَا لَا تَعۡلَمُوۡنَ‏
+arabic_ayat: أُبَلِّغُكُمۡ رِسَٰلَٰتِ رَبِّي وَأَنصَحُ لَكُمۡ وَأَعۡلَمُ مِنَ ٱللَّهِ
+  مَا لَا تَعۡلَمُونَ
 sentence_translation: conveying to you my Lord’s messages and giving you ˹sincere˺
   advice. And I know from Allah what you do not know.
 word_by_word:
   1:
-    arabic: اُبَلِّغُكُمۡ
+    arabic: أُبَلِّغُكُمۡ
     translation: I convey to you
     transliteration: uballighukum
   2:
-    arabic: رِسٰلٰتِ
+    arabic: رِسَٰلَٰتِ
     translation: the Messages
     transliteration: risālāti
   3:
-    arabic: رَبِّىۡ
+    arabic: رَبِّي
     translation: (of) my Lord
     transliteration: rabbī
   4:
-    arabic: وَاَنۡصَحُ
+    arabic: وَأَنصَحُ
     translation: and [I] advise
     transliteration: wa-anṣaḥu
   5:
-    arabic: لَـكُمۡ
+    arabic: لَكُمۡ
     translation: '[to] you'
     transliteration: lakum
   6:
-    arabic: وَاَعۡلَمُ
+    arabic: وَأَعۡلَمُ
     translation: and I know
     transliteration: wa-aʿlamu
   7:
@@ -33,7 +33,7 @@ word_by_word:
     translation: from
     transliteration: mina
   8:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   9:
@@ -45,7 +45,7 @@ word_by_word:
     translation: not
     transliteration: lā
   11:
-    arabic: تَعۡلَمُوۡنَ‏
+    arabic: تَعۡلَمُونَ
     translation: you know
     transliteration: taʿlamūna
 ---

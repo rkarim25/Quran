@@ -1,17 +1,17 @@
 ---
-arabic_ayat: لِلرِّجَالِ نَصِيۡبٌ مِّمَّا تَرَكَ الۡوَالِدٰنِ وَالۡاَقۡرَبُوۡنَ وَلِلنِّسَآءِ
-  نَصِيۡبٌ مِّمَّا تَرَكَ الۡوَالِدٰنِ وَالۡاَقۡرَبُوۡنَ مِمَّا قَلَّ مِنۡهُ اَوۡ
-  كَثُرَ ​ؕ نَصِيۡبًا مَّفۡرُوۡضًا‏
+arabic_ayat: لِّلرِّجَالِ نَصِيبٞ مِّمَّا تَرَكَ ٱلۡوَٰلِدَانِ وَٱلۡأَقۡرَبُونَ وَلِلنِّسَآءِ
+  نَصِيبٞ مِّمَّا تَرَكَ ٱلۡوَٰلِدَانِ وَٱلۡأَقۡرَبُونَ مِمَّا قَلَّ مِنۡهُ أَوۡ كَثُرَۚ
+  نَصِيبٗا مَّفۡرُوضٗا
 sentence_translation: For men there is a share in what their parents and close relatives
   leave, and for women there is a share in what their parents and close relatives
   leave—whether it is little or much. ˹These are˺ obligatory shares.
 word_by_word:
   1:
-    arabic: لِلرِّجَالِ
+    arabic: لِّلرِّجَالِ
     translation: For the men
     transliteration: lilrrijāli
   2:
-    arabic: نَصِيۡبٌ
+    arabic: نَصِيبٞ
     translation: a portion
     transliteration: naṣībun
   3:
@@ -23,11 +23,11 @@ word_by_word:
     translation: (is) left
     transliteration: taraka
   5:
-    arabic: الۡوَالِدٰنِ
+    arabic: ٱلۡوَٰلِدَانِ
     translation: (by) the parents
     transliteration: l-wālidāni
   6:
-    arabic: وَالۡاَقۡرَبُوۡنَ
+    arabic: وَٱلۡأَقۡرَبُونَ
     translation: and the near relatives
     transliteration: wal-aqrabūna
   7:
@@ -35,7 +35,7 @@ word_by_word:
     translation: and for the women
     transliteration: walilnnisāi
   8:
-    arabic: نَصِيۡبٌ
+    arabic: نَصِيبٞ
     translation: a portion
     transliteration: naṣībun
   9:
@@ -47,11 +47,11 @@ word_by_word:
     translation: (is) left
     transliteration: taraka
   11:
-    arabic: الۡوَالِدٰنِ
+    arabic: ٱلۡوَٰلِدَانِ
     translation: (by) parents
     transliteration: l-wālidāni
   12:
-    arabic: وَالۡاَقۡرَبُوۡنَ
+    arabic: وَٱلۡأَقۡرَبُونَ
     translation: and the near relatives
     transliteration: wal-aqrabūna
   13:
@@ -67,19 +67,19 @@ word_by_word:
     translation: of it
     transliteration: min'hu
   16:
-    arabic: اَوۡ
+    arabic: أَوۡ
     translation: or
     transliteration: aw
   17:
-    arabic: كَثُرَ ​ؕ
+    arabic: كَثُرَۚ
     translation: 'much '
     transliteration: kathura
   18:
-    arabic: نَصِيۡبًا
+    arabic: نَصِيبٗا
     translation: a portion
     transliteration: naṣīban
   19:
-    arabic: مَّفۡرُوۡضًا‏
+    arabic: مَّفۡرُوضٗا
     translation: obligatory
     transliteration: mafrūḍan
 ---

@@ -1,11 +1,10 @@
 ---
-arabic_ayat: "ءَاِذَا مِتۡنَا وَكُـنَّا تُرَابًا وَّعِظَامًا ءَاِنَّا لَمَبۡعُوۡثُوۡنَۙ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: أَءِذَا مِتۡنَا وَكُنَّا تُرَابٗا وَعِظَٰمًا أَءِنَّا لَمَبۡعُوثُونَ
 sentence_translation: When we are dead and reduced to dust and bones, will we really
   be resurrected?
 word_by_word:
   1:
-    arabic: ءَاِذَا
+    arabic: أَءِذَا
     translation: Is it when
     transliteration: a-idhā
   2:
@@ -13,23 +12,23 @@ word_by_word:
     translation: we are dead
     transliteration: mit'nā
   3:
-    arabic: وَكُـنَّا
+    arabic: وَكُنَّا
     translation: and have become
     transliteration: wakunnā
   4:
-    arabic: تُرَابًا
+    arabic: تُرَابٗا
     translation: dust
     transliteration: turāban
   5:
-    arabic: وَّعِظَامًا
+    arabic: وَعِظَٰمًا أَ
     translation: and bones
     transliteration: waʿiẓāman
   6:
-    arabic: ءَاِنَّا
+    arabic: ءِنَّا
     translation: shall we then
     transliteration: a-innā
   7:
-    arabic: "لَمَبۡعُوۡثُوۡنَۙ‏ \uFEFF\uFEFF"
+    arabic: لَمَبۡعُوثُونَ
     translation: be certainly resurrected
     transliteration: lamabʿūthūna
 ---

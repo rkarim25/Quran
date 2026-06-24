@@ -1,29 +1,29 @@
 ---
-arabic_ayat: اَوۡ يَكُوۡنَ لَـكَ بَيۡتٌ مِّنۡ زُخۡرُفٍ اَوۡ تَرۡقٰى فِى السَّمَآءِ
-  ؕ وَلَنۡ نُّـؤۡمِنَ لِرُقِيِّكَ حَتّٰى تُنَزِّلَ عَلَيۡنَا كِتٰبًا نَّـقۡرَؤُهٗ​
-  ؕ قُلۡ سُبۡحَانَ رَبِّىۡ هَلۡ كُنۡتُ اِلَّا بَشَرًا رَّسُوۡلًا‏
+arabic_ayat: أَوۡ يَكُونَ لَكَ بَيۡتٞ مِّن زُخۡرُفٍ أَوۡ تَرۡقَىٰ فِي ٱلسَّمَآءِ
+  وَلَن نُّؤۡمِنَ لِرُقِيِّكَ حَتَّىٰ تُنَزِّلَ عَلَيۡنَا كِتَٰبٗا نَّقۡرَؤُهُۥۗ قُلۡ
+  سُبۡحَانَ رَبِّي هَلۡ كُنتُ إِلَّا بَشَرٗا رَّسُولٗا
 sentence_translation: or until you have a house of gold, or you ascend into heaven—and
   even then we will not believe in your ascension until you bring down to us a book
   that we can read.” Say, “Glory be to my Lord! Am I not only a human messenger?”
 word_by_word:
   1:
-    arabic: اَوۡ
+    arabic: أَوۡ
     translation: Or
     transliteration: aw
   2:
-    arabic: يَكُوۡنَ
+    arabic: يَكُونَ
     translation: is
     transliteration: yakūna
   3:
-    arabic: لَـكَ
+    arabic: لَكَ
     translation: for you
     transliteration: laka
   4:
-    arabic: بَيۡتٌ
+    arabic: بَيۡتٞ
     translation: a house
     transliteration: baytun
   5:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: of
     transliteration: min
   6:
@@ -31,27 +31,27 @@ word_by_word:
     translation: ornament
     transliteration: zukh'rufin
   7:
-    arabic: اَوۡ
+    arabic: أَوۡ
     translation: or
     transliteration: aw
   8:
-    arabic: تَرۡقٰى
+    arabic: تَرۡقَىٰ
     translation: you ascend
     transliteration: tarqā
   9:
-    arabic: فِى
+    arabic: فِي
     translation: into
     transliteration: fī
   10:
-    arabic: السَّمَآءِ ؕ
+    arabic: ٱلسَّمَآءِ
     translation: the sky
     transliteration: l-samāi
   11:
-    arabic: وَلَنۡ
+    arabic: وَلَن
     translation: And never
     transliteration: walan
   12:
-    arabic: نُّـؤۡمِنَ
+    arabic: نُّؤۡمِنَ
     translation: we will believe
     transliteration: nu'mina
   13:
@@ -59,7 +59,7 @@ word_by_word:
     translation: in your ascension
     transliteration: liruqiyyika
   14:
-    arabic: حَتّٰى
+    arabic: حَتَّىٰ
     translation: until
     transliteration: ḥattā
   15:
@@ -71,11 +71,11 @@ word_by_word:
     translation: to us
     transliteration: ʿalaynā
   17:
-    arabic: كِتٰبًا
+    arabic: كِتَٰبٗا
     translation: a book
     transliteration: kitāban
   18:
-    arabic: نَّـقۡرَؤُهٗ​ ؕ
+    arabic: نَّقۡرَؤُهُۥۗ
     translation: we could read it
     transliteration: naqra-uhu
   19:
@@ -87,7 +87,7 @@ word_by_word:
     translation: Glorified (is)
     transliteration: sub'ḥāna
   21:
-    arabic: رَبِّىۡ
+    arabic: رَبِّي
     translation: my Lord
     transliteration: rabbī
   22:
@@ -95,19 +95,19 @@ word_by_word:
     translation: What
     transliteration: hal
   23:
-    arabic: كُنۡتُ
+    arabic: كُنتُ
     translation: am I
     transliteration: kuntu
   24:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: but
     transliteration: illā
   25:
-    arabic: بَشَرًا
+    arabic: بَشَرٗا
     translation: a human
     transliteration: basharan
   26:
-    arabic: رَّسُوۡلًا‏
+    arabic: رَّسُولٗا
     translation: a Messenger
     transliteration: rasūlan
 ---

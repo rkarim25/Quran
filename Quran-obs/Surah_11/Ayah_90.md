@@ -1,11 +1,11 @@
 ---
-arabic_ayat: وَاسۡتَغۡفِرُوۡا رَبَّكُمۡ ثُمَّ تُوۡبُوۡۤا اِلَيۡهِ​ؕ اِنَّ رَبِّىۡ
-  رَحِيۡمٌ وَّدُوۡدٌ‏
+arabic_ayat: وَٱسۡتَغۡفِرُواْ رَبَّكُمۡ ثُمَّ تُوبُوٓاْ إِلَيۡهِۚ إِنَّ رَبِّي رَحِيمٞ
+  وَدُودٞ
 sentence_translation: So seek your Lord’s forgiveness and turn to Him in repentance.
   Surely my Lord is Most Merciful, All-Loving.”
 word_by_word:
   1:
-    arabic: وَاسۡتَغۡفِرُوۡا
+    arabic: وَٱسۡتَغۡفِرُواْ
     translation: And ask forgiveness
     transliteration: wa-is'taghfirū
   2:
@@ -17,27 +17,27 @@ word_by_word:
     translation: then
     transliteration: thumma
   4:
-    arabic: تُوۡبُوۡۤا
+    arabic: تُوبُوٓاْ
     translation: turn in repentance
     transliteration: tūbū
   5:
-    arabic: اِلَيۡهِ​ؕ
+    arabic: إِلَيۡهِۚ
     translation: to Him
     transliteration: ilayhi
   6:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   7:
-    arabic: رَبِّىۡ
+    arabic: رَبِّي
     translation: my Lord
     transliteration: rabbī
   8:
-    arabic: رَحِيۡمٌ
+    arabic: رَحِيمٞ
     translation: (is) Most Merciful
     transliteration: raḥīmun
   9:
-    arabic: وَّدُوۡدٌ‏
+    arabic: وَدُودٞ
     translation: Most Loving
     transliteration: wadūdun
 ---

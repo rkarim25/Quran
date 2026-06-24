@@ -1,11 +1,11 @@
 ---
-arabic_ayat: اَسۡمِعۡ بِهِمۡ وَاَبۡصِرۡۙ يَوۡمَ يَاۡتُوۡنَنَا​ لٰـكِنِ الظّٰلِمُوۡنَ
-  الۡيَوۡمَ فِىۡ ضَلٰلٍ مُّبِيۡنٍ‏
+arabic_ayat: أَسۡمِعۡ بِهِمۡ وَأَبۡصِرۡ يَوۡمَ يَأۡتُونَنَا لَٰكِنِ ٱلظَّٰلِمُونَ
+  ٱلۡيَوۡمَ فِي ضَلَٰلٖ مُّبِينٖ
 sentence_translation: How clearly will they hear and see on the Day they will come
   to Us! But today the wrongdoers are clearly astray.
 word_by_word:
   1:
-    arabic: اَسۡمِعۡ
+    arabic: أَسۡمِعۡ
     translation: How they will hear
     transliteration: asmiʿ
   2:
@@ -13,7 +13,7 @@ word_by_word:
     translation: How they will hear
     transliteration: bihim
   3:
-    arabic: وَاَبۡصِرۡۙ
+    arabic: وَأَبۡصِرۡ
     translation: and how (they will) see
     transliteration: wa-abṣir
   4:
@@ -21,31 +21,31 @@ word_by_word:
     translation: (the) Day
     transliteration: yawma
   5:
-    arabic: يَاۡتُوۡنَنَا​
+    arabic: يَأۡتُونَنَا
     translation: they will come to Us
     transliteration: yatūnanā
   6:
-    arabic: لٰـكِنِ
+    arabic: لَٰكِنِ
     translation: but
     transliteration: lākini
   7:
-    arabic: الظّٰلِمُوۡنَ
+    arabic: ٱلظَّٰلِمُونَ
     translation: the wrongdoers
     transliteration: l-ẓālimūna
   8:
-    arabic: الۡيَوۡمَ
+    arabic: ٱلۡيَوۡمَ
     translation: today
     transliteration: l-yawma
   9:
-    arabic: فِىۡ
+    arabic: فِي
     translation: (are) in
     transliteration: fī
   10:
-    arabic: ضَلٰلٍ
+    arabic: ضَلَٰلٖ
     translation: error
     transliteration: ḍalālin
   11:
-    arabic: مُّبِيۡنٍ‏
+    arabic: مُّبِينٖ
     translation: clear
     transliteration: mubīnin
 ---

@@ -1,15 +1,15 @@
 ---
-arabic_ayat: حَتّٰٓى اِذَا فَتَحۡنَا عَلَيۡهِمۡ بَابًا ذَا عَذَابٍ شَدِيۡدٍ اِذَا
-  هُمۡ فِيۡهِ مُبۡلِسُوۡنَ‏
+arabic_ayat: حَتَّىٰٓ إِذَا فَتَحۡنَا عَلَيۡهِم بَابٗا ذَا عَذَابٖ شَدِيدٍ إِذَا هُمۡ
+  فِيهِ مُبۡلِسُونَ
 sentence_translation: But as soon as We open for them a gate of severe punishment,
   they will be utterly desperate.
 word_by_word:
   1:
-    arabic: حَتّٰٓى
+    arabic: حَتَّىٰٓ
     translation: Until
     transliteration: ḥattā
   2:
-    arabic: اِذَا
+    arabic: إِذَا
     translation: when
     transliteration: idhā
   3:
@@ -17,11 +17,11 @@ word_by_word:
     translation: We opened
     transliteration: fataḥnā
   4:
-    arabic: عَلَيۡهِمۡ
+    arabic: عَلَيۡهِم
     translation: for them
     transliteration: ʿalayhim
   5:
-    arabic: بَابًا
+    arabic: بَابٗا
     translation: a gate
     transliteration: bāban
   6:
@@ -29,15 +29,15 @@ word_by_word:
     translation: of a punishment
     transliteration: dhā
   7:
-    arabic: عَذَابٍ
+    arabic: عَذَابٖ
     translation: of a punishment
     transliteration: ʿadhābin
   8:
-    arabic: شَدِيۡدٍ
+    arabic: شَدِيدٍ
     translation: severe
     transliteration: shadīdin
   9:
-    arabic: اِذَا
+    arabic: إِذَا
     translation: behold
     transliteration: idhā
   10:
@@ -45,11 +45,11 @@ word_by_word:
     translation: They
     transliteration: hum
   11:
-    arabic: فِيۡهِ
+    arabic: فِيهِ
     translation: in it
     transliteration: fīhi
   12:
-    arabic: مُبۡلِسُوۡنَ‏
+    arabic: مُبۡلِسُونَ
     translation: (will be in) despair
     transliteration: mub'lisūna
 ---

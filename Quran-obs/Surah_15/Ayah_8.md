@@ -1,6 +1,6 @@
 ---
-arabic_ayat: "مَا نُنَزِّلُ الۡمَلٰۤٮِٕكَةَ اِلَّا بِالۡحَـقِّ وَمَا كَانُوۡۤا اِذًا\
-  \ مُّنۡظَرِيۡنَ‏ \uFEFF\uFEFF"
+arabic_ayat: مَا نُنَزِّلُ ٱلۡمَلَٰٓئِكَةَ إِلَّا بِٱلۡحَقِّ وَمَا كَانُوٓاْ إِذٗا
+  مُّنظَرِينَ
 sentence_translation: We do not send the angels down except for a just cause, and
   then ˹the end of˺ the disbelievers will not be delayed.
 word_by_word:
@@ -13,15 +13,15 @@ word_by_word:
     translation: We send down
     transliteration: nunazzilu
   3:
-    arabic: الۡمَلٰۤٮِٕكَةَ
+    arabic: ٱلۡمَلَٰٓئِكَةَ
     translation: the Angels
     transliteration: l-malāikata
   4:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   5:
-    arabic: بِالۡحَـقِّ
+    arabic: بِٱلۡحَقِّ
     translation: with the truth
     transliteration: bil-ḥaqi
   6:
@@ -29,15 +29,15 @@ word_by_word:
     translation: and not
     transliteration: wamā
   7:
-    arabic: كَانُوۡۤا
+    arabic: كَانُوٓاْ
     translation: they would be
     transliteration: kānū
   8:
-    arabic: اِذًا
+    arabic: إِذٗا
     translation: then
     transliteration: idhan
   9:
-    arabic: "مُّنۡظَرِيۡنَ‏ \uFEFF\uFEFF"
+    arabic: مُّنظَرِينَ
     translation: given respite
     transliteration: munẓarīna
 ---

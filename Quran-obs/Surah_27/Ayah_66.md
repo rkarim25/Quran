@@ -1,6 +1,6 @@
 ---
-arabic_ayat: بَلِ ادّٰرَكَ عِلۡمُهُمۡ فِى الۡاٰخِرَةِ​ بَلۡ هُمۡ فِىۡ شَكٍّ مِّنۡهَا
-   بَلۡ هُمۡ مِّنۡهَا عَمُوۡنَ‏
+arabic_ayat: بَلِ ٱدَّٰرَكَ عِلۡمُهُمۡ فِي ٱلۡأٓخِرَةِۚ بَلۡ هُمۡ فِي شَكّٖ مِّنۡهَاۖ
+  بَلۡ هُم مِّنۡهَا عَمُونَ
 sentence_translation: No! Their knowledge of the Hereafter amounts to ignorance. In
   fact, they are in doubt about it. In truth, they are ˹totally˺ blind to it.
 word_by_word:
@@ -9,7 +9,7 @@ word_by_word:
     translation: Nay
     transliteration: bali
   2:
-    arabic: ادّٰرَكَ
+    arabic: ٱدَّٰرَكَ
     translation: is arrested
     transliteration: iddāraka
   3:
@@ -17,11 +17,11 @@ word_by_word:
     translation: their knowledge
     transliteration: ʿil'muhum
   4:
-    arabic: فِى
+    arabic: فِي
     translation: of
     transliteration: fī
   5:
-    arabic: الۡاٰخِرَةِ​
+    arabic: ٱلۡأٓخِرَةِۚ
     translation: the Hereafter
     transliteration: l-ākhirati
   6:
@@ -33,15 +33,15 @@ word_by_word:
     translation: they
     transliteration: hum
   8:
-    arabic: فِىۡ
+    arabic: فِي
     translation: (are) in
     transliteration: fī
   9:
-    arabic: شَكٍّ
+    arabic: شَكّٖ
     translation: doubt
     transliteration: shakkin
   10:
-    arabic: مِّنۡهَا 
+    arabic: مِّنۡهَاۖ
     translation: about it
     transliteration: min'hā
   11:
@@ -49,7 +49,7 @@ word_by_word:
     translation: Nay
     transliteration: bal
   12:
-    arabic: هُمۡ
+    arabic: هُم
     translation: they
     transliteration: hum
   13:
@@ -57,7 +57,7 @@ word_by_word:
     translation: about it
     transliteration: min'hā
   14:
-    arabic: عَمُوۡنَ‏
+    arabic: عَمُونَ
     translation: (are) blind
     transliteration: ʿamūna
 ---

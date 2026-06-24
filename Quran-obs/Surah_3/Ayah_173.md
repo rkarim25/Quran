@@ -1,14 +1,13 @@
 ---
-arabic_ayat: اَلَّذِيۡنَ قَالَ لَهُمُ النَّاسُ اِنَّ النَّاسَ قَدۡ جَمَعُوۡا لَـكُمۡ
-  فَاخۡشَوۡهُمۡ فَزَادَهُمۡ اِيۡمَانًا  ۖ وَّقَالُوۡا حَسۡبُنَا اللّٰهُ وَنِعۡمَ
-  الۡوَكِيۡلُ‏
+arabic_ayat: ٱلَّذِينَ قَالَ لَهُمُ ٱلنَّاسُ إِنَّ ٱلنَّاسَ قَدۡ جَمَعُواْ لَكُمۡ
+  فَٱخۡشَوۡهُمۡ فَزَادَهُمۡ إِيمَٰنٗا وَقَالُواْ حَسۡبُنَا ٱللَّهُ وَنِعۡمَ ٱلۡوَكِيلُ
 sentence_translation: Those who were warned, “Your enemies have mobilized their forces
   against you, so fear them,” the warning only made them grow stronger in faith and
   they replied, “Allah ˹alone˺ is sufficient ˹as an aid˺ for us and ˹He˺ is the best
   Protector.”
 word_by_word:
   1:
-    arabic: اَلَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: Those who
     transliteration: alladhīna
   2:
@@ -20,15 +19,15 @@ word_by_word:
     translation: to them
     transliteration: lahumu
   4:
-    arabic: النَّاسُ
+    arabic: ٱلنَّاسُ
     translation: '[the people]'
     transliteration: l-nāsu
   5:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   6:
-    arabic: النَّاسَ
+    arabic: ٱلنَّاسَ
     translation: the people
     transliteration: l-nāsa
   7:
@@ -36,15 +35,15 @@ word_by_word:
     translation: (have) certainly
     transliteration: qad
   8:
-    arabic: جَمَعُوۡا
+    arabic: جَمَعُواْ
     translation: gathered
     transliteration: jamaʿū
   9:
-    arabic: لَـكُمۡ
+    arabic: لَكُمۡ
     translation: against you
     transliteration: lakum
   10:
-    arabic: فَاخۡشَوۡهُمۡ
+    arabic: فَٱخۡشَوۡهُمۡ
     translation: so fear them
     transliteration: fa-ikh'shawhum
   11:
@@ -52,11 +51,11 @@ word_by_word:
     translation: But it increased them
     transliteration: fazādahum
   12:
-    arabic: اِيۡمَانًا  ۖ
+    arabic: إِيمَٰنٗا
     translation: (in) faith
     transliteration: īmānan
   13:
-    arabic: وَّقَالُوۡا
+    arabic: وَقَالُواْ
     translation: and they said
     transliteration: waqālū
   14:
@@ -64,7 +63,7 @@ word_by_word:
     translation: Sufficient for us
     transliteration: ḥasbunā
   15:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: (is) Allah
     transliteration: l-lahu
   16:
@@ -72,7 +71,7 @@ word_by_word:
     translation: and (He is the) best
     transliteration: waniʿ'ma
   17:
-    arabic: الۡوَكِيۡلُ‏
+    arabic: ٱلۡوَكِيلُ
     translation: '[the] Disposer of affairs'
     transliteration: l-wakīlu
 ---

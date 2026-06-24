@@ -1,13 +1,13 @@
 ---
-arabic_ayat: وَاِنَّهُمۡ عِنۡدَنَا لَمِنَ الۡمُصۡطَفَيۡنَ الۡاَخۡيَارِؕ‏
+arabic_ayat: وَإِنَّهُمۡ عِندَنَا لَمِنَ ٱلۡمُصۡطَفَيۡنَ ٱلۡأَخۡيَارِ
 sentence_translation: And in Our sight they are truly among the chosen and the finest.
 word_by_word:
   1:
-    arabic: وَاِنَّهُمۡ
+    arabic: وَإِنَّهُمۡ
     translation: And indeed, they
     transliteration: wa-innahum
   2:
-    arabic: عِنۡدَنَا
+    arabic: عِندَنَا
     translation: to Us
     transliteration: ʿindanā
   3:
@@ -15,11 +15,11 @@ word_by_word:
     translation: (are) from
     transliteration: lamina
   4:
-    arabic: الۡمُصۡطَفَيۡنَ
+    arabic: ٱلۡمُصۡطَفَيۡنَ
     translation: the chosen ones
     transliteration: l-muṣ'ṭafayna
   5:
-    arabic: الۡاَخۡيَارِؕ‏
+    arabic: ٱلۡأَخۡيَارِ
     translation: the best
     transliteration: l-akhyāri
 ---

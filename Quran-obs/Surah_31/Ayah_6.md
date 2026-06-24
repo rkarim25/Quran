@@ -1,7 +1,6 @@
 ---
-arabic_ayat: وَمِنَ النَّاسِ مَنۡ يَّشۡتَرِىۡ لَهۡوَ الۡحَدِيۡثِ لِيُضِلَّ عَنۡ سَبِيۡلِ
-  اللّٰهِ بِغَيۡرِ عِلۡمٍ​ۖ وَّيَتَّخِذَهَا هُزُوًا ​ؕ اُولٰٓٮِٕكَ لَهُمۡ عَذَابٌ
-  مُّهِيۡنٌ‏
+arabic_ayat: وَمِنَ ٱلنَّاسِ مَن يَشۡتَرِي لَهۡوَ ٱلۡحَدِيثِ لِيُضِلَّ عَن سَبِيلِ
+  ٱللَّهِ بِغَيۡرِ عِلۡمٖ وَيَتَّخِذَهَا هُزُوًاۚ أُوْلَٰٓئِكَ لَهُمۡ عَذَابٞ مُّهِينٞ
 sentence_translation: But there are some who employ theatrics, only to lead others
   away from Allah’s Way—without any knowledge—and to make a mockery of it. They will
   suffer a humiliating punishment.
@@ -11,15 +10,15 @@ word_by_word:
     translation: And of
     transliteration: wamina
   2:
-    arabic: النَّاسِ
+    arabic: ٱلنَّاسِ
     translation: the mankind
     transliteration: l-nāsi
   3:
-    arabic: مَنۡ
+    arabic: مَن
     translation: (is he) who
     transliteration: man
   4:
-    arabic: يَّشۡتَرِىۡ
+    arabic: يَشۡتَرِي
     translation: purchases
     transliteration: yashtarī
   5:
@@ -27,7 +26,7 @@ word_by_word:
     translation: idle tales
     transliteration: lahwa
   6:
-    arabic: الۡحَدِيۡثِ
+    arabic: ٱلۡحَدِيثِ
     translation: idle tales
     transliteration: l-ḥadīthi
   7:
@@ -35,15 +34,15 @@ word_by_word:
     translation: to mislead
     transliteration: liyuḍilla
   8:
-    arabic: عَنۡ
+    arabic: عَن
     translation: from
     transliteration: ʿan
   9:
-    arabic: سَبِيۡلِ
+    arabic: سَبِيلِ
     translation: (the) path
     transliteration: sabīli
   10:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (of) Allah
     transliteration: l-lahi
   11:
@@ -51,19 +50,19 @@ word_by_word:
     translation: without
     transliteration: bighayri
   12:
-    arabic: عِلۡمٍ​ۖ
+    arabic: عِلۡمٖ
     translation: knowledge
     transliteration: ʿil'min
   13:
-    arabic: وَّيَتَّخِذَهَا
+    arabic: وَيَتَّخِذَهَا
     translation: and takes it
     transliteration: wayattakhidhahā
   14:
-    arabic: هُزُوًا ​ؕ
+    arabic: هُزُوًاۚ
     translation: (in) ridicule
     transliteration: huzuwan
   15:
-    arabic: اُولٰٓٮِٕكَ
+    arabic: أُوْلَٰٓئِكَ
     translation: Those
     transliteration: ulāika
   16:
@@ -71,11 +70,11 @@ word_by_word:
     translation: for them
     transliteration: lahum
   17:
-    arabic: عَذَابٌ
+    arabic: عَذَابٞ
     translation: (is) a punishment
     transliteration: ʿadhābun
   18:
-    arabic: مُّهِيۡنٌ‏
+    arabic: مُّهِينٞ
     translation: humiliating
     transliteration: muhīnun
 ---

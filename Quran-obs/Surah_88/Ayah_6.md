@@ -1,9 +1,9 @@
 ---
-arabic_ayat: لَـيۡسَ لَهُمۡ طَعَامٌ اِلَّا مِنۡ ضَرِيۡعٍۙ‏
+arabic_ayat: لَّيۡسَ لَهُمۡ طَعَامٌ إِلَّا مِن ضَرِيعٖ
 sentence_translation: They will have no food except a foul, thorny shrub,
 word_by_word:
   1:
-    arabic: لَـيۡسَ
+    arabic: لَّيۡسَ
     translation: Not is
     transliteration: laysa
   2:
@@ -15,15 +15,15 @@ word_by_word:
     translation: food
     transliteration: ṭaʿāmun
   4:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   5:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   6:
-    arabic: ضَرِيۡعٍۙ‏
+    arabic: ضَرِيعٖ
     translation: a bitter thorny plant
     transliteration: ḍarīʿin
 ---

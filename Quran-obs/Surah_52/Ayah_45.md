@@ -1,5 +1,5 @@
 ---
-arabic_ayat: فَذَرۡهُمۡ حَتّٰى يُلٰقُوۡا يَوۡمَهُمُ الَّذِىۡ فِيۡهِ يُصۡعَقُوۡنَۙ‏
+arabic_ayat: فَذَرۡهُمۡ حَتَّىٰ يُلَٰقُواْ يَوۡمَهُمُ ٱلَّذِي فِيهِ يُصۡعَقُونَ
 sentence_translation: So leave them until they face their Day in which they will be
   struck dead—
 word_by_word:
@@ -8,11 +8,11 @@ word_by_word:
     translation: So leave them
     transliteration: fadharhum
   2:
-    arabic: حَتّٰى
+    arabic: حَتَّىٰ
     translation: until
     transliteration: ḥattā
   3:
-    arabic: يُلٰقُوۡا
+    arabic: يُلَٰقُواْ
     translation: they meet
     transliteration: yulāqū
   4:
@@ -20,15 +20,15 @@ word_by_word:
     translation: their Day
     transliteration: yawmahumu
   5:
-    arabic: الَّذِىۡ
+    arabic: ٱلَّذِي
     translation: which
     transliteration: alladhī
   6:
-    arabic: فِيۡهِ
+    arabic: فِيهِ
     translation: in it
     transliteration: fīhi
   7:
-    arabic: يُصۡعَقُوۡنَۙ‏
+    arabic: يُصۡعَقُونَ
     translation: they will faint
     transliteration: yuṣ'ʿaqūna
 ---

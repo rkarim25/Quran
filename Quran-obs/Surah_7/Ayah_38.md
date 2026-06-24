@@ -1,9 +1,9 @@
 ---
-arabic_ayat: قَالَ ادۡخُلُوۡا فِىۡۤ اُمَمٍ قَدۡ خَلَتۡ مِنۡ قَبۡلِكُمۡ مِّنَ الۡجِنِّ
-  وَالۡاِنۡسِ فِى النَّارِ​ ؕ كُلَّمَا دَخَلَتۡ اُمَّةٌ لَّعَنَتۡ اُخۡتَهَا​ ؕ حَتّٰۤى
-  اِذَا ادَّارَكُوۡا فِيۡهَا جَمِيۡعًا ۙ قَالَتۡ اُخۡرٰٮهُمۡ لِاُوۡلٰٮهُمۡ رَبَّنَا
-  هٰٓؤُلَۤاءِ اَضَلُّوۡنَا فَاٰتِهِمۡ عَذَابًا ضِعۡفًا مِّنَ النَّارِ​  ؕ قَالَ لِكُلٍّ
-  ضِعۡفٌ وَّلٰـكِنۡ لَّا تَعۡلَمُوۡنَ‏
+arabic_ayat: قَالَ ٱدۡخُلُواْ فِيٓ أُمَمٖ قَدۡ خَلَتۡ مِن قَبۡلِكُم مِّنَ ٱلۡجِنِّ
+  وَٱلۡإِنسِ فِي ٱلنَّارِۖ كُلَّمَا دَخَلَتۡ أُمَّةٞ لَّعَنَتۡ أُخۡتَهَاۖ حَتَّىٰٓ
+  إِذَا ٱدَّارَكُواْ فِيهَا جَمِيعٗا قَالَتۡ أُخۡرَىٰهُمۡ لِأُولَىٰهُمۡ رَبَّنَا هَٰٓؤُلَآءِ
+  أَضَلُّونَا فَـَٔاتِهِمۡ عَذَابٗا ضِعۡفٗا مِّنَ ٱلنَّارِۖ قَالَ لِكُلّٖ ضِعۡفٞ وَلَٰكِن
+  لَّا تَعۡلَمُونَ
 sentence_translation: Allah will say, “Enter the Fire along with the ˹evil˺ groups
   of jinn and humans that preceded you.” Whenever a group enters Hell, it will curse
   the preceding one until they are all gathered inside, the followers will say about
@@ -15,15 +15,15 @@ word_by_word:
     translation: He (will) say
     transliteration: qāla
   2:
-    arabic: ادۡخُلُوۡا
+    arabic: ٱدۡخُلُواْ
     translation: Enter
     transliteration: ud'khulū
   3:
-    arabic: فِىۡۤ
+    arabic: فِيٓ
     translation: among
     transliteration: fī
   4:
-    arabic: اُمَمٍ
+    arabic: أُمَمٖ
     translation: (the) nations
     transliteration: umamin
   5:
@@ -35,11 +35,11 @@ word_by_word:
     translation: passed away
     transliteration: khalat
   7:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   8:
-    arabic: قَبۡلِكُمۡ
+    arabic: قَبۡلِكُم
     translation: before you
     transliteration: qablikum
   9:
@@ -47,19 +47,19 @@ word_by_word:
     translation: of
     transliteration: mina
   10:
-    arabic: الۡجِنِّ
+    arabic: ٱلۡجِنِّ
     translation: the jinn
     transliteration: l-jini
   11:
-    arabic: وَالۡاِنۡسِ
+    arabic: وَٱلۡإِنسِ
     translation: and the men
     transliteration: wal-insi
   12:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   13:
-    arabic: النَّارِ​ ؕ
+    arabic: ٱلنَّارِۖ
     translation: the Fire
     transliteration: l-nāri
   14:
@@ -71,7 +71,7 @@ word_by_word:
     translation: entered
     transliteration: dakhalat
   16:
-    arabic: اُمَّةٌ
+    arabic: أُمَّةٞ
     translation: a nation
     transliteration: ummatun
   17:
@@ -79,27 +79,27 @@ word_by_word:
     translation: it cursed
     transliteration: laʿanat
   18:
-    arabic: اُخۡتَهَا​ ؕ
+    arabic: أُخۡتَهَاۖ
     translation: its sister (nation)
     transliteration: ukh'tahā
   19:
-    arabic: حَتّٰۤى
+    arabic: حَتَّىٰٓ
     translation: until
     transliteration: ḥattā
   20:
-    arabic: اِذَا
+    arabic: إِذَا
     translation: when
     transliteration: idhā
   21:
-    arabic: ادَّارَكُوۡا
+    arabic: ٱدَّارَكُواْ
     translation: they had overtaken one another
     transliteration: iddārakū
   22:
-    arabic: فِيۡهَا
+    arabic: فِيهَا
     translation: in it
     transliteration: fīhā
   23:
-    arabic: جَمِيۡعًا ۙ
+    arabic: جَمِيعٗا
     translation: all
     transliteration: jamīʿan
   24:
@@ -107,11 +107,11 @@ word_by_word:
     translation: (will) say
     transliteration: qālat
   25:
-    arabic: اُخۡرٰٮهُمۡ
+    arabic: أُخۡرَىٰهُمۡ
     translation: (the) last of them
     transliteration: ukh'rāhum
   26:
-    arabic: لِاُوۡلٰٮهُمۡ
+    arabic: لِأُولَىٰهُمۡ
     translation: about the first of them
     transliteration: liūlāhum
   27:
@@ -119,23 +119,23 @@ word_by_word:
     translation: Our Lord
     transliteration: rabbanā
   28:
-    arabic: هٰٓؤُلَۤاءِ
+    arabic: هَٰٓؤُلَآءِ
     translation: these
     transliteration: hāulāi
   29:
-    arabic: اَضَلُّوۡنَا
+    arabic: أَضَلُّونَا
     translation: misled us
     transliteration: aḍallūnā
   30:
-    arabic: فَاٰتِهِمۡ
+    arabic: فَـَٔاتِهِمۡ
     translation: so give them
     transliteration: faātihim
   31:
-    arabic: عَذَابًا
+    arabic: عَذَابٗا
     translation: punishment
     transliteration: ʿadhāban
   32:
-    arabic: ضِعۡفًا
+    arabic: ضِعۡفٗا
     translation: double
     transliteration: ḍiʿ'fan
   33:
@@ -143,7 +143,7 @@ word_by_word:
     translation: of
     transliteration: mina
   34:
-    arabic: النَّارِ​  ؕ
+    arabic: ٱلنَّارِۖ
     translation: the Fire
     transliteration: l-nāri
   35:
@@ -151,15 +151,15 @@ word_by_word:
     translation: He (will) say
     transliteration: qāla
   36:
-    arabic: لِكُلٍّ
+    arabic: لِكُلّٖ
     translation: For each
     transliteration: likullin
   37:
-    arabic: ضِعۡفٌ
+    arabic: ضِعۡفٞ
     translation: (is) a double
     transliteration: ḍiʿ'fun
   38:
-    arabic: وَّلٰـكِنۡ
+    arabic: وَلَٰكِن
     translation: '[and] but'
     transliteration: walākin
   39:
@@ -167,7 +167,7 @@ word_by_word:
     translation: not
     transliteration: lā
   40:
-    arabic: تَعۡلَمُوۡنَ‏
+    arabic: تَعۡلَمُونَ
     translation: you know
     transliteration: taʿlamūna
 ---

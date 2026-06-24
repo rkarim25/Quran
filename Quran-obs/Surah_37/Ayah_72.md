@@ -1,5 +1,5 @@
 ---
-arabic_ayat: وَلَقَدۡ اَرۡسَلۡنَا فِيۡهِمۡ مُّنۡذِرِيۡنَ‏
+arabic_ayat: وَلَقَدۡ أَرۡسَلۡنَا فِيهِم مُّنذِرِينَ
 sentence_translation: although We had certainly sent warners among them.
 word_by_word:
   1:
@@ -7,15 +7,15 @@ word_by_word:
     translation: And verily
     transliteration: walaqad
   2:
-    arabic: اَرۡسَلۡنَا
+    arabic: أَرۡسَلۡنَا
     translation: We sent
     transliteration: arsalnā
   3:
-    arabic: فِيۡهِمۡ
+    arabic: فِيهِم
     translation: among them
     transliteration: fīhim
   4:
-    arabic: مُّنۡذِرِيۡنَ‏
+    arabic: مُّنذِرِينَ
     translation: warners
     transliteration: mundhirīna
 ---

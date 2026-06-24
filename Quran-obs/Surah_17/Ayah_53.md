@@ -1,56 +1,55 @@
 ---
-arabic_ayat: "وَقُلْ لِّعِبَادِىۡ يَقُوۡلُوا الَّتِىۡ هِىَ اَحۡسَنُ​ؕ اِنَّ الشَّيۡطٰنَ\
-  \ يَنۡزَغُ بَيۡنَهُمۡ​ؕ اِنَّ الشَّيۡطٰنَ كَانَ لِلۡاِنۡسَانِ عَدُوًّا مُّبِيۡنًا‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: وَقُل لِّعِبَادِي يَقُولُواْ ٱلَّتِي هِيَ أَحۡسَنُۚ إِنَّ ٱلشَّيۡطَٰنَ
+  يَنزَغُ بَيۡنَهُمۡۚ إِنَّ ٱلشَّيۡطَٰنَ كَانَ لِلۡإِنسَٰنِ عَدُوّٗا مُّبِينٗا
 sentence_translation: Tell My ˹believing˺ servants to say only what is best. Satan
   certainly seeks to sow discord among them. Satan is indeed a sworn enemy to humankind.
 word_by_word:
   1:
-    arabic: وَقُلْ
+    arabic: وَقُل
     translation: And say
     transliteration: waqul
   2:
-    arabic: لِّعِبَادِىۡ
+    arabic: لِّعِبَادِي
     translation: to My slaves
     transliteration: liʿibādī
   3:
-    arabic: يَقُوۡلُوا
+    arabic: يَقُولُواْ
     translation: (to) say
     transliteration: yaqūlū
   4:
-    arabic: الَّتِىۡ
+    arabic: ٱلَّتِي
     translation: that
     transliteration: allatī
   5:
-    arabic: هِىَ
+    arabic: هِيَ
     translation: which
     transliteration: hiya
   6:
-    arabic: اَحۡسَنُ​ؕ
+    arabic: أَحۡسَنُۚ
     translation: (is) best
     transliteration: aḥsanu
   7:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   8:
-    arabic: الشَّيۡطٰنَ
+    arabic: ٱلشَّيۡطَٰنَ
     translation: the Shaitaan
     transliteration: l-shayṭāna
   9:
-    arabic: يَنۡزَغُ
+    arabic: يَنزَغُ
     translation: sows discord
     transliteration: yanzaghu
   10:
-    arabic: بَيۡنَهُمۡ​ؕ
+    arabic: بَيۡنَهُمۡۚ
     translation: between them
     transliteration: baynahum
   11:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   12:
-    arabic: الشَّيۡطٰنَ
+    arabic: ٱلشَّيۡطَٰنَ
     translation: the Shaitaan
     transliteration: l-shayṭāna
   13:
@@ -58,15 +57,15 @@ word_by_word:
     translation: is
     transliteration: kāna
   14:
-    arabic: لِلۡاِنۡسَانِ
+    arabic: لِلۡإِنسَٰنِ
     translation: to the man
     transliteration: lil'insāni
   15:
-    arabic: عَدُوًّا
+    arabic: عَدُوّٗا
     translation: an enemy
     transliteration: ʿaduwwan
   16:
-    arabic: "مُّبِيۡنًا‏ \uFEFF\uFEFF"
+    arabic: مُّبِينٗا
     translation: clear
     transliteration: mubīnan
 ---

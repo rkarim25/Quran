@@ -1,5 +1,5 @@
 ---
-arabic_ayat: لَّا مَقۡطُوۡعَةٍ وَّلَا مَمۡنُوۡعَةٍۙ‏
+arabic_ayat: لَّا مَقۡطُوعَةٖ وَلَا مَمۡنُوعَةٖ
 sentence_translation: never out of season nor forbidden—
 word_by_word:
   1:
@@ -7,15 +7,15 @@ word_by_word:
     translation: Not
     transliteration: lā
   2:
-    arabic: مَقۡطُوۡعَةٍ
+    arabic: مَقۡطُوعَةٖ
     translation: limited
     transliteration: maqṭūʿatin
   3:
-    arabic: وَّلَا
+    arabic: وَلَا
     translation: and not
     transliteration: walā
   4:
-    arabic: مَمۡنُوۡعَةٍۙ‏
+    arabic: مَمۡنُوعَةٖ
     translation: forbidden
     transliteration: mamnūʿatin
 ---

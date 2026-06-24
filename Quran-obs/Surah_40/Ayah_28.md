@@ -1,9 +1,8 @@
 ---
-arabic_ayat: "وَقَالَ رَجُلٌ مُّؤۡمِنٌ ​ۖ مِّنۡ اٰلِ فِرۡعَوۡنَ يَكۡتُمُ اِيۡمَانَهٗۤ\
-  \ اَتَقۡتُلُوۡنَ رَجُلًا اَنۡ يَّقُوۡلَ رَبِّىَ اللّٰهُ وَقَدۡ جَآءَكُمۡ بِالۡبَيِّنٰتِ\
-  \ مِنۡ رَّبِّكُمۡ ؕ وَاِنۡ يَّكُ كَاذِبًا فَعَلَيۡهِ كَذِبُهٗ ؕ وَاِنۡ يَّكُ صَادِقًا\
-  \ يُّصِبۡكُمۡ بَعۡضُ الَّذِىۡ يَعِدُكُمۡ ۚ اِنَّ اللّٰهَ لَا يَهۡدِىۡ مَنۡ هُوَ\
-  \ مُسۡرِفٌ كَذَّابٌ‏ \uFEFF\uFEFF"
+arabic_ayat: وَقَالَ رَجُلٞ مُّؤۡمِنٞ مِّنۡ ءَالِ فِرۡعَوۡنَ يَكۡتُمُ إِيمَٰنَهُۥٓ
+  أَتَقۡتُلُونَ رَجُلًا أَن يَقُولَ رَبِّيَ ٱللَّهُ وَقَدۡ جَآءَكُم بِٱلۡبَيِّنَٰتِ
+  مِن رَّبِّكُمۡۖ وَإِن يَكُ كَٰذِبٗا فَعَلَيۡهِ كَذِبُهُۥۖ وَإِن يَكُ صَادِقٗا يُصِبۡكُم
+  بَعۡضُ ٱلَّذِي يَعِدُكُمۡۖ إِنَّ ٱللَّهَ لَا يَهۡدِي مَنۡ هُوَ مُسۡرِفٞ كَذَّابٞ
 sentence_translation: 'A believing man from Pharaoh’s people, who was hiding his faith,
   argued, “Will you kill a man ˹only˺ for saying: ‘My Lord is Allah,’ while he has
   in fact come to you with clear proofs from your Lord? If he is a liar, it will be
@@ -16,19 +15,19 @@ word_by_word:
     translation: And said
     transliteration: waqāla
   2:
-    arabic: رَجُلٌ
+    arabic: رَجُلٞ
     translation: a man
     transliteration: rajulun
   3:
-    arabic: مُّؤۡمِنٌ ​ۖ
+    arabic: مُّؤۡمِنٞ
     translation: believing
     transliteration: mu'minun
   4:
-    arabic: مِّنۡ
+    arabic: مِّنۡ ءَ
     translation: from
     transliteration: min
   5:
-    arabic: اٰلِ
+    arabic: الِ
     translation: (the) family
     transliteration: āli
   6:
@@ -40,11 +39,11 @@ word_by_word:
     translation: who conceal(ed)
     transliteration: yaktumu
   8:
-    arabic: اِيۡمَانَهٗۤ
+    arabic: إِيمَٰنَهُۥٓ
     translation: his faith
     transliteration: īmānahu
   9:
-    arabic: اَتَقۡتُلُوۡنَ
+    arabic: أَتَقۡتُلُونَ
     translation: Will you kill
     transliteration: ataqtulūna
   10:
@@ -52,19 +51,19 @@ word_by_word:
     translation: a man
     transliteration: rajulan
   11:
-    arabic: اَنۡ
+    arabic: أَن
     translation: because
     transliteration: an
   12:
-    arabic: يَّقُوۡلَ
+    arabic: يَقُولَ
     translation: he says
     transliteration: yaqūla
   13:
-    arabic: رَبِّىَ
+    arabic: رَبِّيَ
     translation: My Lord
     transliteration: rabbiya
   14:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: (is) Allah
     transliteration: l-lahu
   15:
@@ -72,31 +71,31 @@ word_by_word:
     translation: and indeed
     transliteration: waqad
   16:
-    arabic: جَآءَكُمۡ
+    arabic: جَآءَكُم
     translation: he has brought you
     transliteration: jāakum
   17:
-    arabic: بِالۡبَيِّنٰتِ
+    arabic: بِٱلۡبَيِّنَٰتِ
     translation: clear proofs
     transliteration: bil-bayināti
   18:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   19:
-    arabic: رَّبِّكُمۡ ؕ
+    arabic: رَّبِّكُمۡۖ
     translation: your Lord
     transliteration: rabbikum
   20:
-    arabic: وَاِنۡ
+    arabic: وَإِن
     translation: And if
     transliteration: wa-in
   21:
-    arabic: يَّكُ
+    arabic: يَكُ
     translation: he is
     transliteration: yaku
   22:
-    arabic: كَاذِبًا
+    arabic: كَٰذِبٗا
     translation: a liar
     transliteration: kādhiban
   23:
@@ -104,23 +103,23 @@ word_by_word:
     translation: then upon him
     transliteration: faʿalayhi
   24:
-    arabic: كَذِبُهٗ ؕ
+    arabic: كَذِبُهُۥۖ
     translation: (is) his lie
     transliteration: kadhibuhu
   25:
-    arabic: وَاِنۡ
+    arabic: وَإِن
     translation: and if
     transliteration: wa-in
   26:
-    arabic: يَّكُ
+    arabic: يَكُ
     translation: he is
     transliteration: yaku
   27:
-    arabic: صَادِقًا
+    arabic: صَادِقٗا
     translation: truthful
     transliteration: ṣādiqan
   28:
-    arabic: يُّصِبۡكُمۡ
+    arabic: يُصِبۡكُم
     translation: (there) will strike you
     transliteration: yuṣib'kum
   29:
@@ -128,19 +127,19 @@ word_by_word:
     translation: some (of)
     transliteration: baʿḍu
   30:
-    arabic: الَّذِىۡ
+    arabic: ٱلَّذِي
     translation: (that) which
     transliteration: alladhī
   31:
-    arabic: يَعِدُكُمۡ ۚ
+    arabic: يَعِدُكُمۡۖ
     translation: he threatens you
     transliteration: yaʿidukum
   32:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   33:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   34:
@@ -148,7 +147,7 @@ word_by_word:
     translation: (does) not
     transliteration: lā
   35:
-    arabic: يَهۡدِىۡ
+    arabic: يَهۡدِي
     translation: guide
     transliteration: yahdī
   36:
@@ -160,11 +159,11 @@ word_by_word:
     translation: '[he]'
     transliteration: huwa
   38:
-    arabic: مُسۡرِفٌ
+    arabic: مُسۡرِفٞ
     translation: (is) a transgressor
     transliteration: mus'rifun
   39:
-    arabic: "كَذَّابٌ‏ \uFEFF\uFEFF"
+    arabic: كَذَّابٞ
     translation: a liar
     transliteration: kadhābun
 ---

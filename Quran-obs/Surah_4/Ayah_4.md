@@ -1,27 +1,27 @@
 ---
-arabic_ayat: وَاٰ تُوا النِّسَآءَ صَدُقٰتِهِنَّ نِحۡلَةً​  ؕ فَاِنۡ طِبۡنَ لَـكُمۡ
-  عَنۡ شَىۡءٍ مِّنۡهُ نَفۡسًا فَكُلُوۡهُ هَنِيۡٓــًٔـا مَّرِیۡٓـــٴًﺎ‏
+arabic_ayat: وَءَاتُواْ ٱلنِّسَآءَ صَدُقَٰتِهِنَّ نِحۡلَةٗۚ فَإِن طِبۡنَ لَكُمۡ عَن
+  شَيۡءٖ مِّنۡهُ نَفۡسٗا فَكُلُوهُ هَنِيٓـٔٗا مَّرِيٓـٔٗا
 sentence_translation: Give women ˹you wed˺ their due dowries graciously. But if they
   waive some of it willingly, then you may enjoy it freely with a clear conscience.
 word_by_word:
   1:
-    arabic: وَاٰ تُوا
+    arabic: وَءَاتُواْ
     translation: And give
     transliteration: waātū
   2:
-    arabic: النِّسَآءَ
+    arabic: ٱلنِّسَآءَ
     translation: the women
     transliteration: l-nisāa
   3:
-    arabic: صَدُقٰتِهِنَّ
+    arabic: صَدُقَٰتِهِنَّ
     translation: their dower
     transliteration: ṣaduqātihinna
   4:
-    arabic: نِحۡلَةً​  ؕ
+    arabic: نِحۡلَةٗۚ
     translation: graciously
     transliteration: niḥ'latan
   5:
-    arabic: فَاِنۡ
+    arabic: فَإِن
     translation: But if
     transliteration: fa-in
   6:
@@ -29,15 +29,15 @@ word_by_word:
     translation: they remit
     transliteration: ṭib'na
   7:
-    arabic: لَـكُمۡ
+    arabic: لَكُمۡ
     translation: to you
     transliteration: lakum
   8:
-    arabic: عَنۡ
+    arabic: عَن
     translation: of
     transliteration: ʿan
   9:
-    arabic: شَىۡءٍ
+    arabic: شَيۡءٖ
     translation: anything
     transliteration: shayin
   10:
@@ -45,19 +45,19 @@ word_by_word:
     translation: of it
     transliteration: min'hu
   11:
-    arabic: نَفۡسًا
+    arabic: نَفۡسٗا
     translation: (on their) own
     transliteration: nafsan
   12:
-    arabic: فَكُلُوۡهُ
+    arabic: فَكُلُوهُ
     translation: then eat it
     transliteration: fakulūhu
   13:
-    arabic: هَنِيۡٓــًٔـا
+    arabic: هَنِيٓـٔٗا
     translation: (in) satisfaction
     transliteration: hanīan
   14:
-    arabic: مَّرِیۡٓـــٴًﺎ‏
+    arabic: مَّرِيٓـٔٗا
     translation: (and) ease
     transliteration: marīan
 ---

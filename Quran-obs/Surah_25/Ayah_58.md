@@ -1,6 +1,6 @@
 ---
-arabic_ayat: وَتَوَكَّلۡ عَلَى الۡحَـىِّ الَّذِىۡ لَا يَمُوۡتُ وَسَبِّحۡ بِحَمۡدِهٖ​
-  ؕ وَكَفٰى بِهٖ بِذُنُوۡبِ عِبَادِهٖ خَبِيۡرَ ا​ ۛۚ ۙ‏
+arabic_ayat: وَتَوَكَّلۡ عَلَى ٱلۡحَيِّ ٱلَّذِي لَا يَمُوتُ وَسَبِّحۡ بِحَمۡدِهِۦۚ
+  وَكَفَىٰ بِهِۦ بِذُنُوبِ عِبَادِهِۦ خَبِيرًا
 sentence_translation: Put your trust in the Ever-Living, Who never dies, and glorify
   His praises. Sufficient is He as All-Aware of the sins of His servants.
 word_by_word:
@@ -13,11 +13,11 @@ word_by_word:
     translation: in
     transliteration: ʿalā
   3:
-    arabic: الۡحَـىِّ
+    arabic: ٱلۡحَيِّ
     translation: the Ever-Living
     transliteration: l-ḥayi
   4:
-    arabic: الَّذِىۡ
+    arabic: ٱلَّذِي
     translation: the One Who
     transliteration: alladhī
   5:
@@ -25,7 +25,7 @@ word_by_word:
     translation: does not die
     transliteration: lā
   6:
-    arabic: يَمُوۡتُ
+    arabic: يَمُوتُ
     translation: does not die
     transliteration: yamūtu
   7:
@@ -33,27 +33,27 @@ word_by_word:
     translation: and glorify
     transliteration: wasabbiḥ
   8:
-    arabic: بِحَمۡدِهٖ​ ؕ
+    arabic: بِحَمۡدِهِۦۚ
     translation: with His Praise
     transliteration: biḥamdihi
   9:
-    arabic: وَكَفٰى
+    arabic: وَكَفَىٰ
     translation: And sufficient is
     transliteration: wakafā
   10:
-    arabic: بِهٖ
+    arabic: بِهِۦ
     translation: He
     transliteration: bihi
   11:
-    arabic: بِذُنُوۡبِ
+    arabic: بِذُنُوبِ
     translation: regarding the sins
     transliteration: bidhunūbi
   12:
-    arabic: عِبَادِهٖ
+    arabic: عِبَادِهِۦ
     translation: (of) His slaves
     transliteration: ʿibādihi
   13:
-    arabic: خَبِيۡرَ ا​ ۛۚ ۙ‏
+    arabic: خَبِيرًا
     translation: All-Aware
     transliteration: khabīran
 ---

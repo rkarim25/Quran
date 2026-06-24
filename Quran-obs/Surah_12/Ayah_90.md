@@ -1,26 +1,26 @@
 ---
-arabic_ayat: قَالُوۡۤا ءَاِنَّكَ لَاَنۡتَ يُوۡسُفُ​ؕ قَالَ اَنَا يُوۡسُفُ وَهٰذَاۤ
-  اَخِىۡ​ قَدۡ مَنَّ اللّٰهُ عَلَيۡنَاؕ اِنَّهٗ مَنۡ يَّتَّقِ وَيَصۡبِرۡ فَاِنَّ
-  اللّٰهَ لَا يُضِيۡعُ اَجۡرَ الۡمُحۡسِنِيۡنَ‏
+arabic_ayat: قَالُوٓاْ أَءِنَّكَ لَأَنتَ يُوسُفُۖ قَالَ أَنَا۠ يُوسُفُ وَهَٰذَآ أَخِيۖ
+  قَدۡ مَنَّ ٱللَّهُ عَلَيۡنَآۖ إِنَّهُۥ مَن يَتَّقِ وَيَصۡبِرۡ فَإِنَّ ٱللَّهَ لَا
+  يُضِيعُ أَجۡرَ ٱلۡمُحۡسِنِينَ
 sentence_translation: They replied ˹in shock˺, “Are you really Joseph?” He said, “I
   am Joseph, and here is my brother ˹Benjamin˺! Allah has truly been gracious to us.
   Surely whoever is mindful ˹of Allah˺ and patient, then certainly Allah never discounts
   the reward of the good-doers.”
 word_by_word:
   1:
-    arabic: قَالُوۡۤا
+    arabic: قَالُوٓاْ أَ
     translation: They said
     transliteration: qālū
   2:
-    arabic: ءَاِنَّكَ
+    arabic: ءِنَّكَ
     translation: Are you indeed
     transliteration: a-innaka
   3:
-    arabic: لَاَنۡتَ
+    arabic: لَأَنتَ
     translation: surely you
     transliteration: la-anta
   4:
-    arabic: يُوۡسُفُ​ؕ
+    arabic: يُوسُفُۖ
     translation: Yusuf
     transliteration: yūsufu
   5:
@@ -28,19 +28,19 @@ word_by_word:
     translation: He said
     transliteration: qāla
   6:
-    arabic: اَنَا
+    arabic: أَنَا۠
     translation: I am
     transliteration: anā
   7:
-    arabic: يُوۡسُفُ
+    arabic: يُوسُفُ
     translation: Yusuf
     transliteration: yūsufu
   8:
-    arabic: وَهٰذَاۤ
+    arabic: وَهَٰذَآ
     translation: and this
     transliteration: wahādhā
   9:
-    arabic: اَخِىۡ​
+    arabic: أَخِيۖ
     translation: (is) my brother
     transliteration: akhī
   10:
@@ -52,23 +52,23 @@ word_by_word:
     translation: Allah has been gracious
     transliteration: manna
   12:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah has been gracious
     transliteration: l-lahu
   13:
-    arabic: عَلَيۡنَاؕ
+    arabic: عَلَيۡنَآۖ
     translation: to us
     transliteration: ʿalaynā
   14:
-    arabic: اِنَّهٗ
+    arabic: إِنَّهُۥ
     translation: Indeed, he
     transliteration: innahu
   15:
-    arabic: مَنۡ
+    arabic: مَن
     translation: who
     transliteration: man
   16:
-    arabic: يَّتَّقِ
+    arabic: يَتَّقِ
     translation: fears Allah
     transliteration: yattaqi
   17:
@@ -76,11 +76,11 @@ word_by_word:
     translation: and (is) patient
     transliteration: wayaṣbir
   18:
-    arabic: فَاِنَّ
+    arabic: فَإِنَّ
     translation: then indeed
     transliteration: fa-inna
   19:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   20:
@@ -88,15 +88,15 @@ word_by_word:
     translation: (does) not
     transliteration: lā
   21:
-    arabic: يُضِيۡعُ
+    arabic: يُضِيعُ
     translation: let go waste
     transliteration: yuḍīʿu
   22:
-    arabic: اَجۡرَ
+    arabic: أَجۡرَ
     translation: (the) reward
     transliteration: ajra
   23:
-    arabic: الۡمُحۡسِنِيۡنَ‏
+    arabic: ٱلۡمُحۡسِنِينَ
     translation: (of) the good-doers
     transliteration: l-muḥ'sinīna
 ---

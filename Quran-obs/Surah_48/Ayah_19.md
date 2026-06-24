@@ -1,19 +1,18 @@
 ---
-arabic_ayat: "وَّمَغَانِمَ كَثِيۡرَةً يَّاۡخُذُوۡنَهَا ​ؕ وَكَانَ اللّٰهُ عَزِيۡزًا\
-  \ حَكِيۡمًا‏ \uFEFF\uFEFF"
+arabic_ayat: وَمَغَانِمَ كَثِيرَةٗ يَأۡخُذُونَهَاۗ وَكَانَ ٱللَّهُ عَزِيزًا حَكِيمٗا
 sentence_translation: and many spoils of war they will gain. For Allah is Almighty,
   All-Wise.
 word_by_word:
   1:
-    arabic: وَّمَغَانِمَ
+    arabic: وَمَغَانِمَ
     translation: And spoils of war
     transliteration: wamaghānima
   2:
-    arabic: كَثِيۡرَةً
+    arabic: كَثِيرَةٗ
     translation: much
     transliteration: kathīratan
   3:
-    arabic: يَّاۡخُذُوۡنَهَا ​ؕ
+    arabic: يَأۡخُذُونَهَاۗ
     translation: that they will take
     transliteration: yakhudhūnahā
   4:
@@ -21,15 +20,15 @@ word_by_word:
     translation: and is
     transliteration: wakāna
   5:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   6:
-    arabic: عَزِيۡزًا
+    arabic: عَزِيزًا
     translation: All-Mighty
     transliteration: ʿazīzan
   7:
-    arabic: "حَكِيۡمًا‏ \uFEFF\uFEFF"
+    arabic: حَكِيمٗا
     translation: All-Wise
     transliteration: ḥakīman
 ---

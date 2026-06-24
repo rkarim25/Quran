@@ -1,9 +1,9 @@
 ---
-arabic_ayat: وَلَقَدۡ صَدَقَكُمُ اللّٰهُ وَعۡدَهٗۤ اِذۡ تَحُسُّوۡنَهُمۡ بِاِذۡنِهٖ​ۚ
-  حَتّٰۤی اِذَا فَشِلۡتُمۡ وَتَـنَازَعۡتُمۡ فِى الۡاَمۡرِ وَعَصَيۡتُمۡ مِّنۡۢ بَعۡدِ
-  مَاۤ اَرٰٮكُمۡ مَّا تُحِبُّوۡنَ​ؕ مِنۡكُمۡ مَّنۡ يُّرِيۡدُ الدُّنۡيَا وَمِنۡكُمۡ
-  مَّنۡ يُّرِيۡدُ الۡاٰخِرَةَ  ​​​ۚ ثُمَّ صَرَفَكُمۡ عَنۡهُمۡ لِيَبۡتَلِيَكُمۡ​ۚ وَلَقَدۡ
-  عَفَا عَنۡكُمۡ​ؕ وَ اللّٰهُ ذُوۡ فَضۡلٍ عَلَى الۡمُؤۡمِنِيۡنَ‏
+arabic_ayat: وَلَقَدۡ صَدَقَكُمُ ٱللَّهُ وَعۡدَهُۥٓ إِذۡ تَحُسُّونَهُم بِإِذۡنِهِۦۖ
+  حَتَّىٰٓ إِذَا فَشِلۡتُمۡ وَتَنَٰزَعۡتُمۡ فِي ٱلۡأَمۡرِ وَعَصَيۡتُم مِّنۢ بَعۡدِ
+  مَآ أَرَىٰكُم مَّا تُحِبُّونَۚ مِنكُم مَّن يُرِيدُ ٱلدُّنۡيَا وَمِنكُم مَّن يُرِيدُ
+  ٱلۡأٓخِرَةَۚ ثُمَّ صَرَفَكُمۡ عَنۡهُمۡ لِيَبۡتَلِيَكُمۡۖ وَلَقَدۡ عَفَا عَنكُمۡۗ
+  وَٱللَّهُ ذُو فَضۡلٍ عَلَى ٱلۡمُؤۡمِنِينَ
 sentence_translation: Indeed, Allah fulfilled His promise to you when you ˹initially˺
   swept them away by His Will, then your courage weakened and you disputed about the
   command and disobeyed, after Allah had brought victory within your reach. Some of
@@ -20,31 +20,31 @@ word_by_word:
     translation: fulfilled to you
     transliteration: ṣadaqakumu
   3:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   4:
-    arabic: وَعۡدَهٗۤ
+    arabic: وَعۡدَهُۥٓ
     translation: His promise
     transliteration: waʿdahu
   5:
-    arabic: اِذۡ
+    arabic: إِذۡ
     translation: when
     transliteration: idh
   6:
-    arabic: تَحُسُّوۡنَهُمۡ
+    arabic: تَحُسُّونَهُم
     translation: you were killing them
     transliteration: taḥussūnahum
   7:
-    arabic: بِاِذۡنِهٖ​ۚ
+    arabic: بِإِذۡنِهِۦۖ
     translation: by His permission
     transliteration: bi-idh'nihi
   8:
-    arabic: حَتّٰۤی
+    arabic: حَتَّىٰٓ
     translation: until
     transliteration: ḥattā
   9:
-    arabic: اِذَا
+    arabic: إِذَا
     translation: when
     transliteration: idhā
   10:
@@ -52,23 +52,23 @@ word_by_word:
     translation: you lost courage
     transliteration: fashil'tum
   11:
-    arabic: وَتَـنَازَعۡتُمۡ
+    arabic: وَتَنَٰزَعۡتُمۡ
     translation: and you fell into dispute
     transliteration: watanāzaʿtum
   12:
-    arabic: فِى
+    arabic: فِي
     translation: concerning
     transliteration: fī
   13:
-    arabic: الۡاَمۡرِ
+    arabic: ٱلۡأَمۡرِ
     translation: the order
     transliteration: l-amri
   14:
-    arabic: وَعَصَيۡتُمۡ
+    arabic: وَعَصَيۡتُم
     translation: and you disobeyed
     transliteration: waʿaṣaytum
   15:
-    arabic: مِّنۡۢ
+    arabic: مِّنۢ
     translation: from
     transliteration: min
   16:
@@ -76,11 +76,11 @@ word_by_word:
     translation: after
     transliteration: baʿdi
   17:
-    arabic: مَاۤ
+    arabic: مَآ
     translation: '[what]'
     transliteration: mā
   18:
-    arabic: اَرٰٮكُمۡ
+    arabic: أَرَىٰكُم
     translation: He (had) shown you
     transliteration: arākum
   19:
@@ -88,39 +88,39 @@ word_by_word:
     translation: what
     transliteration: mā
   20:
-    arabic: تُحِبُّوۡنَ​ؕ
+    arabic: تُحِبُّونَۚ
     translation: you love
     transliteration: tuḥibbūna
   21:
-    arabic: مِنۡكُمۡ
+    arabic: مِنكُم
     translation: Among you
     transliteration: minkum
   22:
-    arabic: مَّنۡ
+    arabic: مَّن
     translation: (are some) who
     transliteration: man
   23:
-    arabic: يُّرِيۡدُ
+    arabic: يُرِيدُ
     translation: desire
     transliteration: yurīdu
   24:
-    arabic: الدُّنۡيَا
+    arabic: ٱلدُّنۡيَا
     translation: the world
     transliteration: l-dun'yā
   25:
-    arabic: وَمِنۡكُمۡ
+    arabic: وَمِنكُم
     translation: and among you
     transliteration: waminkum
   26:
-    arabic: مَّنۡ
+    arabic: مَّن
     translation: (are some) who
     transliteration: man
   27:
-    arabic: يُّرِيۡدُ
+    arabic: يُرِيدُ
     translation: desire
     transliteration: yurīdu
   28:
-    arabic: الۡاٰخِرَةَ  ​​​ۚ
+    arabic: ٱلۡأٓخِرَةَۚ
     translation: the Hereafter
     transliteration: l-ākhirata
   29:
@@ -136,7 +136,7 @@ word_by_word:
     translation: from them
     transliteration: ʿanhum
   32:
-    arabic: لِيَبۡتَلِيَكُمۡ​ۚ
+    arabic: لِيَبۡتَلِيَكُمۡۖ
     translation: so that He may test you
     transliteration: liyabtaliyakum
   33:
@@ -148,15 +148,15 @@ word_by_word:
     translation: He forgave
     transliteration: ʿafā
   35:
-    arabic: عَنۡكُمۡ​ؕ
+    arabic: عَنكُمۡۗ
     translation: you
     transliteration: ʿankum
   36:
-    arabic: وَ اللّٰهُ
+    arabic: وَٱللَّهُ
     translation: And Allah
     transliteration: wal-lahu
   37:
-    arabic: ذُوۡ
+    arabic: ذُو
     translation: (is the) Possessor
     transliteration: dhū
   38:
@@ -168,7 +168,7 @@ word_by_word:
     translation: for
     transliteration: ʿalā
   40:
-    arabic: الۡمُؤۡمِنِيۡنَ‏
+    arabic: ٱلۡمُؤۡمِنِينَ
     translation: the believers
     transliteration: l-mu'minīna
 ---

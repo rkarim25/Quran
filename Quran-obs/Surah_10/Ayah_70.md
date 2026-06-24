@@ -1,19 +1,19 @@
 ---
-arabic_ayat: مَتَاعٌ فِى الدُّنۡيَا ثُمَّ اِلَيۡنَا مَرۡجِعُهُمۡ ثُمَّ نُذِيۡقُهُمُ
-  الۡعَذَابَ الشَّدِيۡدَ بِمَا كَانُوۡا يَكۡفُرُوۡنَ‏
+arabic_ayat: مَتَٰعٞ فِي ٱلدُّنۡيَا ثُمَّ إِلَيۡنَا مَرۡجِعُهُمۡ ثُمَّ نُذِيقُهُمُ
+  ٱلۡعَذَابَ ٱلشَّدِيدَ بِمَا كَانُواْ يَكۡفُرُونَ
 sentence_translation: ˹It is only˺ a brief enjoyment in this world, then to Us is
   their return, then We will make them taste the severe punishment for their disbelief.
 word_by_word:
   1:
-    arabic: مَتَاعٌ
+    arabic: مَتَٰعٞ
     translation: An enjoyment
     transliteration: matāʿun
   2:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   3:
-    arabic: الدُّنۡيَا
+    arabic: ٱلدُّنۡيَا
     translation: the world
     transliteration: l-dun'yā
   4:
@@ -21,7 +21,7 @@ word_by_word:
     translation: then
     transliteration: thumma
   5:
-    arabic: اِلَيۡنَا
+    arabic: إِلَيۡنَا
     translation: to Us
     transliteration: ilaynā
   6:
@@ -33,15 +33,15 @@ word_by_word:
     translation: then
     transliteration: thumma
   8:
-    arabic: نُذِيۡقُهُمُ
+    arabic: نُذِيقُهُمُ
     translation: We will make them taste
     transliteration: nudhīquhumu
   9:
-    arabic: الۡعَذَابَ
+    arabic: ٱلۡعَذَابَ
     translation: the punishment
     transliteration: l-ʿadhāba
   10:
-    arabic: الشَّدِيۡدَ
+    arabic: ٱلشَّدِيدَ
     translation: the severe
     transliteration: l-shadīda
   11:
@@ -49,11 +49,11 @@ word_by_word:
     translation: because
     transliteration: bimā
   12:
-    arabic: كَانُوۡا
+    arabic: كَانُواْ
     translation: they used to
     transliteration: kānū
   13:
-    arabic: يَكۡفُرُوۡنَ‏
+    arabic: يَكۡفُرُونَ
     translation: disbelieve
     transliteration: yakfurūna
 ---

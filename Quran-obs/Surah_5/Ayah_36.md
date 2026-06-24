@@ -1,22 +1,22 @@
 ---
-arabic_ayat: اِنَّ الَّذِيۡنَ كَفَرُوۡا لَوۡ اَنَّ لَهُمۡ مَّا فِى الۡاَرۡضِ جَمِيۡعًا
-  وَّمِثۡلَهٗ مَعَهٗ لِيَـفۡتَدُوۡا بِهٖ مِنۡ عَذَابِ يَوۡمِ الۡقِيٰمَةِ مَا تُقُبِّلَ
-  مِنۡهُمۡ​ۚ وَلَهُمۡ عَذَابٌ اَ لِيۡمٌ‏
+arabic_ayat: إِنَّ ٱلَّذِينَ كَفَرُواْ لَوۡ أَنَّ لَهُم مَّا فِي ٱلۡأَرۡضِ جَمِيعٗا
+  وَمِثۡلَهُۥ مَعَهُۥ لِيَفۡتَدُواْ بِهِۦ مِنۡ عَذَابِ يَوۡمِ ٱلۡقِيَٰمَةِ مَا تُقُبِّلَ
+  مِنۡهُمۡۖ وَلَهُمۡ عَذَابٌ أَلِيمٞ
 sentence_translation: As for the disbelievers, even if they were to possess everything
   in the world twice over ˹and offer it all˺ to ransom themselves from the punishment
   of the Day of Judgment, it would never be accepted from them. And they will suffer
   a painful punishment.
 word_by_word:
   1:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   3:
-    arabic: كَفَرُوۡا
+    arabic: كَفَرُواْ
     translation: disbelieve
     transliteration: kafarū
   4:
@@ -24,11 +24,11 @@ word_by_word:
     translation: if
     transliteration: law
   5:
-    arabic: اَنَّ
+    arabic: أَنَّ
     translation: that
     transliteration: anna
   6:
-    arabic: لَهُمۡ
+    arabic: لَهُم
     translation: for them
     transliteration: lahum
   7:
@@ -36,31 +36,31 @@ word_by_word:
     translation: (is) what
     transliteration: mā
   8:
-    arabic: فِى
+    arabic: فِي
     translation: (is) in
     transliteration: fī
   9:
-    arabic: الۡاَرۡضِ
+    arabic: ٱلۡأَرۡضِ
     translation: the earth
     transliteration: l-arḍi
   10:
-    arabic: جَمِيۡعًا
+    arabic: جَمِيعٗا
     translation: all
     transliteration: jamīʿan
   11:
-    arabic: وَّمِثۡلَهٗ
+    arabic: وَمِثۡلَهُۥ
     translation: and the like of it
     transliteration: wamith'lahu
   12:
-    arabic: مَعَهٗ
+    arabic: مَعَهُۥ
     translation: with it
     transliteration: maʿahu
   13:
-    arabic: لِيَـفۡتَدُوۡا
+    arabic: لِيَفۡتَدُواْ
     translation: to ransom themselves
     transliteration: liyaftadū
   14:
-    arabic: بِهٖ
+    arabic: بِهِۦ
     translation: with it
     transliteration: bihi
   15:
@@ -76,7 +76,7 @@ word_by_word:
     translation: (of the) Day
     transliteration: yawmi
   18:
-    arabic: الۡقِيٰمَةِ
+    arabic: ٱلۡقِيَٰمَةِ
     translation: (of) the Resurrection
     transliteration: l-qiyāmati
   19:
@@ -88,7 +88,7 @@ word_by_word:
     translation: will be accepted
     transliteration: tuqubbila
   21:
-    arabic: مِنۡهُمۡ​ۚ
+    arabic: مِنۡهُمۡۖ
     translation: from them
     transliteration: min'hum
   22:
@@ -100,7 +100,7 @@ word_by_word:
     translation: (is) a punishment
     transliteration: ʿadhābun
   24:
-    arabic: اَ لِيۡمٌ‏
+    arabic: أَلِيمٞ
     translation: painful
     transliteration: alīmun
 ---

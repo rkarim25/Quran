@@ -1,5 +1,5 @@
 ---
-arabic_ayat: قَالَ نَعَمۡ وَاِنَّكُمۡ اِذًا لَّمِنَ الۡمُقَرَّبِيۡنَ‏
+arabic_ayat: قَالَ نَعَمۡ وَإِنَّكُمۡ إِذٗا لَّمِنَ ٱلۡمُقَرَّبِينَ
 sentence_translation: He replied, “Yes, and you will then certainly be among those
   closest to me.”
 word_by_word:
@@ -12,11 +12,11 @@ word_by_word:
     translation: 'Yes'
     transliteration: naʿam
   3:
-    arabic: وَاِنَّكُمۡ
+    arabic: وَإِنَّكُمۡ
     translation: and indeed you
     transliteration: wa-innakum
   4:
-    arabic: اِذًا
+    arabic: إِذٗا
     translation: then
     transliteration: idhan
   5:
@@ -24,7 +24,7 @@ word_by_word:
     translation: surely (will be) of
     transliteration: lamina
   6:
-    arabic: الۡمُقَرَّبِيۡنَ‏
+    arabic: ٱلۡمُقَرَّبِينَ
     translation: the ones who are brought near
     transliteration: l-muqarabīna
 ---

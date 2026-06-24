@@ -1,25 +1,25 @@
 ---
-arabic_ayat: ذُقۡ ۖۚ اِنَّكَ اَنۡتَ الۡعَزِيۡزُ الۡكَرِيۡمُ‏
+arabic_ayat: ذُقۡ إِنَّكَ أَنتَ ٱلۡعَزِيزُ ٱلۡكَرِيمُ
 sentence_translation: ˹The wicked will be told,˺ “Taste this. You mighty, noble one!
 word_by_word:
   1:
-    arabic: ذُقۡ ۖۚ
+    arabic: ذُقۡ
     translation: Taste
     transliteration: dhuq
   2:
-    arabic: اِنَّكَ
+    arabic: إِنَّكَ
     translation: Indeed, you
     transliteration: innaka
   3:
-    arabic: اَنۡتَ
+    arabic: أَنتَ
     translation: '[you] (were)'
     transliteration: anta
   4:
-    arabic: الۡعَزِيۡزُ
+    arabic: ٱلۡعَزِيزُ
     translation: the mighty
     transliteration: l-ʿazīzu
   5:
-    arabic: الۡكَرِيۡمُ‏
+    arabic: ٱلۡكَرِيمُ
     translation: the noble
     transliteration: l-karīmu
 ---

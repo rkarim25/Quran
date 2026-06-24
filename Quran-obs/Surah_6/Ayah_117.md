@@ -1,11 +1,11 @@
 ---
-arabic_ayat: اِنَّ رَبَّكَ هُوَ اَعۡلَمُ مَنۡ يَّضِلُّ عَنۡ سَبِيۡلِهٖ​ۚ وَهُوَ اَعۡلَمُ
-  بِالۡمُهۡتَدِيۡنَ‏
+arabic_ayat: إِنَّ رَبَّكَ هُوَ أَعۡلَمُ مَن يَضِلُّ عَن سَبِيلِهِۦۖ وَهُوَ أَعۡلَمُ
+  بِٱلۡمُهۡتَدِينَ
 sentence_translation: Indeed, your Lord knows best who has strayed from His Way and
   who is ˹rightly˺ guided.
 word_by_word:
   1:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   2:
@@ -17,23 +17,23 @@ word_by_word:
     translation: He
     transliteration: huwa
   4:
-    arabic: اَعۡلَمُ
+    arabic: أَعۡلَمُ
     translation: knows best
     transliteration: aʿlamu
   5:
-    arabic: مَنۡ
+    arabic: مَن
     translation: who
     transliteration: man
   6:
-    arabic: يَّضِلُّ
+    arabic: يَضِلُّ
     translation: strays
     transliteration: yaḍillu
   7:
-    arabic: عَنۡ
+    arabic: عَن
     translation: from
     transliteration: ʿan
   8:
-    arabic: سَبِيۡلِهٖ​ۚ
+    arabic: سَبِيلِهِۦۖ
     translation: His way
     transliteration: sabīlihi
   9:
@@ -41,11 +41,11 @@ word_by_word:
     translation: and He
     transliteration: wahuwa
   10:
-    arabic: اَعۡلَمُ
+    arabic: أَعۡلَمُ
     translation: (is) most knowing
     transliteration: aʿlamu
   11:
-    arabic: بِالۡمُهۡتَدِيۡنَ‏
+    arabic: بِٱلۡمُهۡتَدِينَ
     translation: of the guided-ones
     transliteration: bil-muh'tadīna
 ---

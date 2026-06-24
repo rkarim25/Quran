@@ -1,6 +1,6 @@
 ---
-arabic_ayat: وَلَا تَمۡشِ فِى الۡاَرۡضِ مَرَحًا​ ۚ اِنَّكَ لَنۡ تَخۡرِقَ الۡاَرۡضَ
-  وَلَنۡ تَبۡلُغَ الۡجِبَالَ طُوۡلًا‏
+arabic_ayat: وَلَا تَمۡشِ فِي ٱلۡأَرۡضِ مَرَحًاۖ إِنَّكَ لَن تَخۡرِقَ ٱلۡأَرۡضَ وَلَن
+  تَبۡلُغَ ٱلۡجِبَالَ طُولٗا
 sentence_translation: And do not walk on the earth arrogantly. Surely you can neither
   crack the earth nor stretch to the height of the mountains.
 word_by_word:
@@ -13,23 +13,23 @@ word_by_word:
     translation: walk
     transliteration: tamshi
   3:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   4:
-    arabic: الۡاَرۡضِ
+    arabic: ٱلۡأَرۡضِ
     translation: the earth
     transliteration: l-arḍi
   5:
-    arabic: مَرَحًا​ ۚ
+    arabic: مَرَحًاۖ
     translation: (with) insolence
     transliteration: maraḥan
   6:
-    arabic: اِنَّكَ
+    arabic: إِنَّكَ
     translation: Indeed, you
     transliteration: innaka
   7:
-    arabic: لَنۡ
+    arabic: لَن
     translation: will never
     transliteration: lan
   8:
@@ -37,11 +37,11 @@ word_by_word:
     translation: tear
     transliteration: takhriqa
   9:
-    arabic: الۡاَرۡضَ
+    arabic: ٱلۡأَرۡضَ
     translation: the earth
     transliteration: l-arḍa
   10:
-    arabic: وَلَنۡ
+    arabic: وَلَن
     translation: and will never
     transliteration: walan
   11:
@@ -49,11 +49,11 @@ word_by_word:
     translation: reach
     transliteration: tablugha
   12:
-    arabic: الۡجِبَالَ
+    arabic: ٱلۡجِبَالَ
     translation: the mountains
     transliteration: l-jibāla
   13:
-    arabic: طُوۡلًا‏
+    arabic: طُولٗا
     translation: (in) height
     transliteration: ṭūlan
 ---

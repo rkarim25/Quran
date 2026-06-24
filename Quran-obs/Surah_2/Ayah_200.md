@@ -1,50 +1,50 @@
 ---
-arabic_ayat:  فَاِذَا قَضَيۡتُمۡ مَّنَاسِكَکُمۡ فَاذۡکُرُوا اللّٰهَ كَذِكۡرِكُمۡ اٰبَآءَکُمۡ
-  اَوۡ اَشَدَّ ذِکۡرًا ؕ فَمِنَ النَّاسِ مَنۡ يَّقُوۡلُ رَبَّنَآ اٰتِنَا فِى الدُّنۡيَا
-  وَمَا لَهٗ فِى الۡاٰخِرَةِ مِنۡ خَلَاقٍ‏
+arabic_ayat: فَإِذَا قَضَيۡتُم مَّنَٰسِكَكُمۡ فَٱذۡكُرُواْ ٱللَّهَ كَذِكۡرِكُمۡ ءَابَآءَكُمۡ
+  أَوۡ أَشَدَّ ذِكۡرٗاۗ فَمِنَ ٱلنَّاسِ مَن يَقُولُ رَبَّنَآ ءَاتِنَا فِي ٱلدُّنۡيَا
+  وَمَا لَهُۥ فِي ٱلۡأٓخِرَةِ مِنۡ خَلَٰقٖ
 sentence_translation: When you have fulfilled your sacred rites, praise Allah as you
   used to praise your forefathers ˹before Islam˺, or even more passionately. There
   are some who say, “Our Lord! Grant us ˹Your bounties˺ in this world,” but they will
   have no share in the Hereafter.
 word_by_word:
   1:
-    arabic:  فَاِذَا
+    arabic: فَإِذَا
     translation: Then when
     transliteration: fa-idhā
   2:
-    arabic: قَضَيۡتُمۡ
+    arabic: قَضَيۡتُم
     translation: you complete[d]
     transliteration: qaḍaytum
   3:
-    arabic: مَّنَاسِكَکُمۡ
+    arabic: مَّنَٰسِكَكُمۡ
     translation: your acts of worship
     transliteration: manāsikakum
   4:
-    arabic: فَاذۡکُرُوا
+    arabic: فَٱذۡكُرُواْ
     translation: then remember
     transliteration: fa-udh'kurū
   5:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   6:
-    arabic: كَذِكۡرِكُمۡ
+    arabic: كَذِكۡرِكُمۡ ءَ
     translation: as you remember
     transliteration: kadhik'rikum
   7:
-    arabic: اٰبَآءَکُمۡ
+    arabic: ابَآءَكُمۡ
     translation: your forefathers
     transliteration: ābāakum
   8:
-    arabic: اَوۡ
+    arabic: أَوۡ
     translation: or
     transliteration: aw
   9:
-    arabic: اَشَدَّ
+    arabic: أَشَدَّ
     translation: (with) greater
     transliteration: ashadda
   10:
-    arabic: ذِکۡرًا ؕ
+    arabic: ذِكۡرٗاۗ
     translation: remembrance
     transliteration: dhik'ran
   11:
@@ -52,31 +52,31 @@ word_by_word:
     translation: And from
     transliteration: famina
   12:
-    arabic: النَّاسِ
+    arabic: ٱلنَّاسِ
     translation: the people
     transliteration: l-nāsi
   13:
-    arabic: مَنۡ
+    arabic: مَن
     translation: who
     transliteration: man
   14:
-    arabic: يَّقُوۡلُ
+    arabic: يَقُولُ
     translation: say
     transliteration: yaqūlu
   15:
-    arabic: رَبَّنَآ
+    arabic: رَبَّنَآ ءَ
     translation: Our Lord
     transliteration: rabbanā
   16:
-    arabic: اٰتِنَا
+    arabic: اتِنَا
     translation: Grant us
     transliteration: ātinā
   17:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   18:
-    arabic: الدُّنۡيَا
+    arabic: ٱلدُّنۡيَا
     translation: the world
     transliteration: l-dun'yā
   19:
@@ -84,15 +84,15 @@ word_by_word:
     translation: And not
     transliteration: wamā
   20:
-    arabic: لَهٗ
+    arabic: لَهُۥ
     translation: for him
     transliteration: lahu
   21:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   22:
-    arabic: الۡاٰخِرَةِ
+    arabic: ٱلۡأٓخِرَةِ
     translation: the Hereafter
     transliteration: l-ākhirati
   23:
@@ -100,7 +100,7 @@ word_by_word:
     translation: '[of]'
     transliteration: min
   24:
-    arabic: خَلَاقٍ‏
+    arabic: خَلَٰقٖ
     translation: any share
     transliteration: khalāqin
 ---

@@ -1,19 +1,19 @@
 ---
-arabic_ayat: وَعَلَّمَ اٰدَمَ الۡاَسۡمَآءَ كُلَّهَا ثُمَّ عَرَضَهُمۡ عَلَى الۡمَلٰٓٮِٕكَةِ
-  فَقَالَ اَنۡۢبِــُٔوۡنِىۡ بِاَسۡمَآءِ هٰٓؤُلَآءِ اِنۡ كُنۡتُمۡ صٰدِقِيۡنَ‏
+arabic_ayat: وَعَلَّمَ ءَادَمَ ٱلۡأَسۡمَآءَ كُلَّهَا ثُمَّ عَرَضَهُمۡ عَلَى ٱلۡمَلَٰٓئِكَةِ
+  فَقَالَ أَنۢبِـُٔونِي بِأَسۡمَآءِ هَٰٓؤُلَآءِ إِن كُنتُمۡ صَٰدِقِينَ
 sentence_translation: He taught Adam the names of all things, then He presented them
   to the angels and said, “Tell Me the names of these, if what you say is true?”
 word_by_word:
   1:
-    arabic: وَعَلَّمَ
+    arabic: وَعَلَّمَ ءَ
     translation: And He taught
     transliteration: waʿallama
   2:
-    arabic: اٰدَمَ
+    arabic: ادَمَ
     translation: Adam
     transliteration: ādama
   3:
-    arabic: الۡاَسۡمَآءَ
+    arabic: ٱلۡأَسۡمَآءَ
     translation: 'the names '
     transliteration: l-asmāa
   4:
@@ -33,7 +33,7 @@ word_by_word:
     translation: to
     transliteration: ʿalā
   8:
-    arabic: الۡمَلٰٓٮِٕكَةِ
+    arabic: ٱلۡمَلَٰٓئِكَةِ
     translation: the angels
     transliteration: l-malāikati
   9:
@@ -41,27 +41,27 @@ word_by_word:
     translation: then He said
     transliteration: faqāla
   10:
-    arabic: اَنۡۢبِــُٔوۡنِىۡ
+    arabic: أَنۢبِـُٔونِي
     translation: Inform Me
     transliteration: anbiūnī
   11:
-    arabic: بِاَسۡمَآءِ
+    arabic: بِأَسۡمَآءِ
     translation: of (the) names
     transliteration: bi-asmāi
   12:
-    arabic: هٰٓؤُلَآءِ
+    arabic: هَٰٓؤُلَآءِ
     translation: (of) these
     transliteration: hāulāi
   13:
-    arabic: اِنۡ
+    arabic: إِن
     translation: if
     transliteration: in
   14:
-    arabic: كُنۡتُمۡ
+    arabic: كُنتُمۡ
     translation: you are
     transliteration: kuntum
   15:
-    arabic: صٰدِقِيۡنَ‏
+    arabic: صَٰدِقِينَ
     translation: truthful
     transliteration: ṣādiqīna
 ---

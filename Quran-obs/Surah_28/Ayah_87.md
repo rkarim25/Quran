@@ -1,6 +1,6 @@
 ---
-arabic_ayat: وَلَا يَصُدُّنَّكَ عَنۡ اٰيٰتِ اللّٰهِ بَعۡدَ اِذۡ اُنۡزِلَتۡ اِلَيۡكَ​
-  وَادۡعُ اِلٰى رَبِّكَ​ وَلَا تَكُوۡنَنَّ مِنَ الۡمُشۡرِكِيۡنَ​ۚ‏
+arabic_ayat: وَلَا يَصُدُّنَّكَ عَنۡ ءَايَٰتِ ٱللَّهِ بَعۡدَ إِذۡ أُنزِلَتۡ إِلَيۡكَۖ
+  وَٱدۡعُ إِلَىٰ رَبِّكَۖ وَلَا تَكُونَنَّ مِنَ ٱلۡمُشۡرِكِينَ
 sentence_translation: Do not let them turn you away from the revelations of Allah
   after they have been sent down to you. Rather, invite ˹all˺ to ˹the Way of˺ your
   Lord, and never be one of the polytheists.
@@ -14,15 +14,15 @@ word_by_word:
     translation: avert you
     transliteration: yaṣuddunnaka
   3:
-    arabic: عَنۡ
+    arabic: عَنۡ ءَ
     translation: from
     transliteration: ʿan
   4:
-    arabic: اٰيٰتِ
+    arabic: ايَٰتِ
     translation: (the) Verses
     transliteration: āyāti
   5:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (of) Allah
     transliteration: l-lahi
   6:
@@ -30,27 +30,27 @@ word_by_word:
     translation: after
     transliteration: baʿda
   7:
-    arabic: اِذۡ
+    arabic: إِذۡ
     translation: '[when]'
     transliteration: idh
   8:
-    arabic: اُنۡزِلَتۡ
+    arabic: أُنزِلَتۡ
     translation: they have been revealed
     transliteration: unzilat
   9:
-    arabic: اِلَيۡكَ​
+    arabic: إِلَيۡكَۖ
     translation: to you
     transliteration: ilayka
   10:
-    arabic: وَادۡعُ
+    arabic: وَٱدۡعُ
     translation: And invite (people)
     transliteration: wa-ud'ʿu
   11:
-    arabic: اِلٰى
+    arabic: إِلَىٰ
     translation: to
     transliteration: ilā
   12:
-    arabic: رَبِّكَ​
+    arabic: رَبِّكَۖ
     translation: your Lord
     transliteration: rabbika
   13:
@@ -58,7 +58,7 @@ word_by_word:
     translation: And (do) not
     transliteration: walā
   14:
-    arabic: تَكُوۡنَنَّ
+    arabic: تَكُونَنَّ
     translation: be
     transliteration: takūnanna
   15:
@@ -66,7 +66,7 @@ word_by_word:
     translation: of
     transliteration: mina
   16:
-    arabic: الۡمُشۡرِكِيۡنَ​ۚ‏
+    arabic: ٱلۡمُشۡرِكِينَ
     translation: the polytheists
     transliteration: l-mush'rikīna
 ---

@@ -1,19 +1,19 @@
 ---
-arabic_ayat: فَكَذَّبُوۡهُ فَعَقَرُوۡهَا   ۙفَدَمۡدَمَ عَلَيۡهِمۡ رَبُّهُمۡ بِذَنۡۢبِهِمۡ
-  فَسَوّٰٮهَا  ۙ‏
+arabic_ayat: فَكَذَّبُوهُ فَعَقَرُوهَا فَدَمۡدَمَ عَلَيۡهِمۡ رَبُّهُم بِذَنۢبِهِمۡ
+  فَسَوَّىٰهَا
 sentence_translation: Still they defied him and slaughtered her. So their Lord crushed
   them for their crime, levelling all to the ground.
 word_by_word:
   1:
-    arabic: فَكَذَّبُوۡهُ
+    arabic: فَكَذَّبُوهُ
     translation: But they denied him
     transliteration: fakadhabūhu
   2:
-    arabic: فَعَقَرُوۡهَا  
+    arabic: فَعَقَرُوهَا
     translation: and they hamstrung her
     transliteration: faʿaqarūhā
   3:
-    arabic: ۙفَدَمۡدَمَ
+    arabic: فَدَمۡدَمَ
     translation: So destroyed
     transliteration: fadamdama
   4:
@@ -21,15 +21,15 @@ word_by_word:
     translation: them
     transliteration: ʿalayhim
   5:
-    arabic: رَبُّهُمۡ
+    arabic: رَبُّهُم
     translation: their Lord
     transliteration: rabbuhum
   6:
-    arabic: بِذَنۡۢبِهِمۡ
+    arabic: بِذَنۢبِهِمۡ
     translation: for their sin
     transliteration: bidhanbihim
   7:
-    arabic: فَسَوّٰٮهَا  ۙ‏
+    arabic: فَسَوَّىٰهَا
     translation: and leveled them
     transliteration: fasawwāhā
 ---

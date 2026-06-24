@@ -1,13 +1,13 @@
 ---
-arabic_ayat: اِنَّهُمۡ كَانُوۡا قَبۡلَ ذٰ لِكَ مُتۡرَفِيۡنَۚ  ۖ‏
+arabic_ayat: إِنَّهُمۡ كَانُواْ قَبۡلَ ذَٰلِكَ مُتۡرَفِينَ
 sentence_translation: Indeed, before this ˹torment˺ they were spoiled by luxury,
 word_by_word:
   1:
-    arabic: اِنَّهُمۡ
+    arabic: إِنَّهُمۡ
     translation: Indeed, they
     transliteration: innahum
   2:
-    arabic: كَانُوۡا
+    arabic: كَانُواْ
     translation: were
     transliteration: kānū
   3:
@@ -15,11 +15,11 @@ word_by_word:
     translation: before
     transliteration: qabla
   4:
-    arabic: ذٰ
+    arabic: ذَٰ
     translation: that
     transliteration: dhālika
   5:
-    arabic: لِكَ مُتۡرَفِيۡنَۚ  ۖ‏
+    arabic: لِكَ مُتۡرَفِينَ
     translation: indulging in affluence
     transliteration: mut'rafīna
 ---

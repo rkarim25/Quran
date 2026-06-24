@@ -1,13 +1,13 @@
 ---
-arabic_ayat: لَـقَدۡ كَفَرَ الَّذِيۡنَ قَالُوۡۤا اِنَّ اللّٰهَ ثَالِثُ ثَلٰثَةٍ​ ۘ
-  وَمَا مِنۡ اِلٰهٍ اِلَّاۤ اِلٰـهٌ وَّاحِدٌ  ؕ وَاِنۡ لَّمۡ يَنۡتَهُوۡا عَمَّا يَقُوۡلُوۡنَ
-  لَيَمَسَّنَّ الَّذِيۡنَ كَفَرُوۡا مِنۡهُمۡ عَذَابٌ اَ لِيۡمٌ‏
+arabic_ayat: لَّقَدۡ كَفَرَ ٱلَّذِينَ قَالُوٓاْ إِنَّ ٱللَّهَ ثَالِثُ ثَلَٰثَةٖۘ وَمَا
+  مِنۡ إِلَٰهٍ إِلَّآ إِلَٰهٞ وَٰحِدٞۚ وَإِن لَّمۡ يَنتَهُواْ عَمَّا يَقُولُونَ لَيَمَسَّنَّ
+  ٱلَّذِينَ كَفَرُواْ مِنۡهُمۡ عَذَابٌ أَلِيمٌ
 sentence_translation: Those who say, “Allah is one in a Trinity,” have certainly fallen
   into disbelief. There is only One God. If they do not stop saying this, those who
   disbelieve among them will be afflicted with a painful punishment.
 word_by_word:
   1:
-    arabic: لَـقَدۡ
+    arabic: لَّقَدۡ
     translation: Certainly
     transliteration: laqad
   2:
@@ -15,19 +15,19 @@ word_by_word:
     translation: disbelieved
     transliteration: kafara
   3:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   4:
-    arabic: قَالُوۡۤا
+    arabic: قَالُوٓاْ
     translation: say
     transliteration: qālū
   5:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   6:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   7:
@@ -35,7 +35,7 @@ word_by_word:
     translation: (is the) third
     transliteration: thālithu
   8:
-    arabic: ثَلٰثَةٍ​ ۘ
+    arabic: ثَلَٰثَةٖۘ
     translation: (of) three
     transliteration: thalāthatin
   9:
@@ -47,23 +47,23 @@ word_by_word:
     translation: '[of]'
     transliteration: min
   11:
-    arabic: اِلٰهٍ
+    arabic: إِلَٰهٍ
     translation: god
     transliteration: ilāhin
   12:
-    arabic: اِلَّاۤ
+    arabic: إِلَّآ
     translation: except
     transliteration: illā
   13:
-    arabic: اِلٰـهٌ
+    arabic: إِلَٰهٞ
     translation: (the) God
     transliteration: ilāhun
   14:
-    arabic: وَّاحِدٌ  ؕ
+    arabic: وَٰحِدٞۚ
     translation: (the) One
     transliteration: wāḥidun
   15:
-    arabic: وَاِنۡ
+    arabic: وَإِن
     translation: And if
     transliteration: wa-in
   16:
@@ -71,7 +71,7 @@ word_by_word:
     translation: not
     transliteration: lam
   17:
-    arabic: يَنۡتَهُوۡا
+    arabic: يَنتَهُواْ
     translation: they desist
     transliteration: yantahū
   18:
@@ -79,7 +79,7 @@ word_by_word:
     translation: from what
     transliteration: ʿammā
   19:
-    arabic: يَقُوۡلُوۡنَ
+    arabic: يَقُولُونَ
     translation: they are saying
     transliteration: yaqūlūna
   20:
@@ -87,11 +87,11 @@ word_by_word:
     translation: surely will afflict
     transliteration: layamassanna
   21:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   22:
-    arabic: كَفَرُوۡا
+    arabic: كَفَرُواْ
     translation: disbelieved
     transliteration: kafarū
   23:
@@ -103,7 +103,7 @@ word_by_word:
     translation: a punishment
     transliteration: ʿadhābun
   25:
-    arabic: اَ لِيۡمٌ‏
+    arabic: أَلِيمٌ
     translation: painful
     transliteration: alīmun
 ---

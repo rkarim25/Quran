@@ -1,6 +1,6 @@
 ---
-arabic_ayat: ثُمَّ بَعَثۡنَا مِنۡۢ بَعۡدِهِمۡ مُّوۡسٰى بِاٰيٰتِنَاۤ اِلٰى فِرۡعَوۡنَ
-  وَمَلَا۟ئِهٖ فَظَلَمُوۡا بِهَا​ ۚ فَانْظُرۡ كَيۡفَ كَانَ عَاقِبَةُ الۡمُفۡسِدِيۡنَ‏
+arabic_ayat: ثُمَّ بَعَثۡنَا مِنۢ بَعۡدِهِم مُّوسَىٰ بِـَٔايَٰتِنَآ إِلَىٰ فِرۡعَوۡنَ
+  وَمَلَإِيْهِۦ فَظَلَمُواْ بِهَاۖ فَٱنظُرۡ كَيۡفَ كَانَ عَٰقِبَةُ ٱلۡمُفۡسِدِينَ
 sentence_translation: Then after them We sent Moses with Our signs to Pharaoh and
   his chiefs, but they wrongfully rejected them. See what was the end of the corruptors!
 word_by_word:
@@ -13,23 +13,23 @@ word_by_word:
     translation: We sent
     transliteration: baʿathnā
   3:
-    arabic: مِنۡۢ
+    arabic: مِنۢ
     translation: from
     transliteration: min
   4:
-    arabic: بَعۡدِهِمۡ
+    arabic: بَعۡدِهِم
     translation: after them
     transliteration: baʿdihim
   5:
-    arabic: مُّوۡسٰى
+    arabic: مُّوسَىٰ
     translation: Musa
     transliteration: mūsā
   6:
-    arabic: بِاٰيٰتِنَاۤ
+    arabic: بِـَٔايَٰتِنَآ
     translation: with Our Signs
     transliteration: biāyātinā
   7:
-    arabic: اِلٰى
+    arabic: إِلَىٰ
     translation: to
     transliteration: ilā
   8:
@@ -37,19 +37,19 @@ word_by_word:
     translation: Firaun
     transliteration: fir'ʿawna
   9:
-    arabic: وَمَلَا۟ئِهٖ
+    arabic: وَمَلَإِيْهِۦ
     translation: and his chiefs
     transliteration: wamala-ihi
   10:
-    arabic: فَظَلَمُوۡا
+    arabic: فَظَلَمُواْ
     translation: But they were unjust
     transliteration: faẓalamū
   11:
-    arabic: بِهَا​ ۚ
+    arabic: بِهَاۖ
     translation: to them
     transliteration: bihā
   12:
-    arabic: فَانْظُرۡ
+    arabic: فَٱنظُرۡ
     translation: So see
     transliteration: fa-unẓur
   13:
@@ -61,11 +61,11 @@ word_by_word:
     translation: was
     transliteration: kāna
   15:
-    arabic: عَاقِبَةُ
+    arabic: عَٰقِبَةُ
     translation: (the) end
     transliteration: ʿāqibatu
   16:
-    arabic: الۡمُفۡسِدِيۡنَ‏
+    arabic: ٱلۡمُفۡسِدِينَ
     translation: (of) the corrupters
     transliteration: l-muf'sidīna
 ---

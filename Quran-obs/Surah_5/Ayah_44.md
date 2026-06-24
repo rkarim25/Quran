@@ -1,10 +1,9 @@
 ---
-arabic_ayat: "اِنَّاۤ اَنۡزَلۡنَا التَّوۡرٰٮةَ فِيۡهَا هُدًى وَّنُوۡرٌ​ ۚ يَحۡكُمُ\
-  \ بِهَا النَّبِيُّوۡنَ الَّذِيۡنَ اَسۡلَمُوۡا لِلَّذِيۡنَ هَادُوۡا وَ الرَّبَّانِيُّوۡنَ\
-  \ وَالۡاَحۡبَارُ بِمَا اسۡتُحۡفِظُوۡا مِنۡ كِتٰبِ اللّٰهِ وَكَانُوۡا عَلَيۡهِ شُهَدَآءَ​​\
-  \ ۚ فَلَا تَخۡشَوُا النَّاسَ وَاخۡشَوۡنِ وَلَا تَشۡتَرُوۡا بِاٰيٰتِىۡ ثَمَنًا قَلِيۡلًا​\
-  \ ؕ وَمَنۡ لَّمۡ يَحۡكُمۡ بِمَاۤ اَنۡزَلَ اللّٰهُ فَاُولٰٓٮِٕكَ هُمُ الۡكٰفِرُوۡنَ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: إِنَّآ أَنزَلۡنَا ٱلتَّوۡرَىٰةَ فِيهَا هُدٗى وَنُورٞۚ يَحۡكُمُ بِهَا
+  ٱلنَّبِيُّونَ ٱلَّذِينَ أَسۡلَمُواْ لِلَّذِينَ هَادُواْ وَٱلرَّبَّٰنِيُّونَ وَٱلۡأَحۡبَارُ
+  بِمَا ٱسۡتُحۡفِظُواْ مِن كِتَٰبِ ٱللَّهِ وَكَانُواْ عَلَيۡهِ شُهَدَآءَۚ فَلَا تَخۡشَوُاْ
+  ٱلنَّاسَ وَٱخۡشَوۡنِ وَلَا تَشۡتَرُواْ بِـَٔايَٰتِي ثَمَنٗا قَلِيلٗاۚ وَمَن لَّمۡ
+  يَحۡكُم بِمَآ أَنزَلَ ٱللَّهُ فَأُوْلَٰٓئِكَ هُمُ ٱلۡكَٰفِرُونَ
 sentence_translation: Indeed, We revealed the Torah, containing guidance and light,
   by which the prophets, who submitted themselves to Allah, made judgments for Jews.
   So too did the rabbis and scholars judge according to Allah’s Book, with which they
@@ -13,27 +12,27 @@ sentence_translation: Indeed, We revealed the Torah, containing guidance and lig
   what Allah has revealed are ˹truly˺ the disbelievers.
 word_by_word:
   1:
-    arabic: اِنَّاۤ
+    arabic: إِنَّآ
     translation: Indeed
     transliteration: innā
   2:
-    arabic: اَنۡزَلۡنَا
+    arabic: أَنزَلۡنَا
     translation: We revealed
     transliteration: anzalnā
   3:
-    arabic: التَّوۡرٰٮةَ
+    arabic: ٱلتَّوۡرَىٰةَ
     translation: the Taurat
     transliteration: l-tawrāta
   4:
-    arabic: فِيۡهَا
+    arabic: فِيهَا
     translation: in it
     transliteration: fīhā
   5:
-    arabic: هُدًى
+    arabic: هُدٗى
     translation: (was) Guidance
     transliteration: hudan
   6:
-    arabic: وَّنُوۡرٌ​ ۚ
+    arabic: وَنُورٞۚ
     translation: and light
     transliteration: wanūrun
   7:
@@ -45,31 +44,31 @@ word_by_word:
     translation: by it
     transliteration: bihā
   9:
-    arabic: النَّبِيُّوۡنَ
+    arabic: ٱلنَّبِيُّونَ
     translation: the Prophets
     transliteration: l-nabiyūna
   10:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   11:
-    arabic: اَسۡلَمُوۡا
+    arabic: أَسۡلَمُواْ
     translation: had submitted (to Allah)
     transliteration: aslamū
   12:
-    arabic: لِلَّذِيۡنَ
+    arabic: لِلَّذِينَ
     translation: for those who
     transliteration: lilladhīna
   13:
-    arabic: هَادُوۡا
+    arabic: هَادُواْ
     translation: were Jews
     transliteration: hādū
   14:
-    arabic: وَ الرَّبَّانِيُّوۡنَ
+    arabic: وَٱلرَّبَّٰنِيُّونَ
     translation: and the Rabbis
     transliteration: wal-rabāniyūna
   15:
-    arabic: وَالۡاَحۡبَارُ
+    arabic: وَٱلۡأَحۡبَارُ
     translation: and the scholars
     transliteration: wal-aḥbāru
   16:
@@ -77,23 +76,23 @@ word_by_word:
     translation: with what
     transliteration: bimā
   17:
-    arabic: اسۡتُحۡفِظُوۡا
+    arabic: ٱسۡتُحۡفِظُواْ
     translation: they were entrusted
     transliteration: us'tuḥ'fiẓū
   18:
-    arabic: مِنۡ
+    arabic: مِن
     translation: of
     transliteration: min
   19:
-    arabic: كِتٰبِ
+    arabic: كِتَٰبِ
     translation: (the) Book
     transliteration: kitābi
   20:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (of) Allah
     transliteration: l-lahi
   21:
-    arabic: وَكَانُوۡا
+    arabic: وَكَانُواْ
     translation: and they were
     transliteration: wakānū
   22:
@@ -101,7 +100,7 @@ word_by_word:
     translation: to it
     transliteration: ʿalayhi
   23:
-    arabic: شُهَدَآءَ​​ ۚ
+    arabic: شُهَدَآءَۚ
     translation: witnesses
     transliteration: shuhadāa
   24:
@@ -109,15 +108,15 @@ word_by_word:
     translation: So (do) not
     transliteration: falā
   25:
-    arabic: تَخۡشَوُا
+    arabic: تَخۡشَوُاْ
     translation: fear
     transliteration: takhshawū
   26:
-    arabic: النَّاسَ
+    arabic: ٱلنَّاسَ
     translation: the people
     transliteration: l-nāsa
   27:
-    arabic: وَاخۡشَوۡنِ
+    arabic: وَٱخۡشَوۡنِ
     translation: but fear Me
     transliteration: wa-ikh'shawni
   28:
@@ -125,23 +124,23 @@ word_by_word:
     translation: and (do) not
     transliteration: walā
   29:
-    arabic: تَشۡتَرُوۡا
+    arabic: تَشۡتَرُواْ
     translation: sell
     transliteration: tashtarū
   30:
-    arabic: بِاٰيٰتِىۡ
+    arabic: بِـَٔايَٰتِي
     translation: My Verses
     transliteration: biāyātī
   31:
-    arabic: ثَمَنًا
+    arabic: ثَمَنٗا
     translation: (for) a price
     transliteration: thamanan
   32:
-    arabic: قَلِيۡلًا​ ؕ
+    arabic: قَلِيلٗاۚ
     translation: little
     transliteration: qalīlan
   33:
-    arabic: وَمَنۡ
+    arabic: وَمَن
     translation: And whoever
     transliteration: waman
   34:
@@ -149,23 +148,23 @@ word_by_word:
     translation: (does) not
     transliteration: lam
   35:
-    arabic: يَحۡكُمۡ
+    arabic: يَحۡكُم
     translation: judge
     transliteration: yaḥkum
   36:
-    arabic: بِمَاۤ
+    arabic: بِمَآ
     translation: by what
     transliteration: bimā
   37:
-    arabic: اَنۡزَلَ
+    arabic: أَنزَلَ
     translation: has revealed
     transliteration: anzala
   38:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   39:
-    arabic: فَاُولٰٓٮِٕكَ
+    arabic: فَأُوْلَٰٓئِكَ
     translation: then those
     transliteration: fa-ulāika
   40:
@@ -173,7 +172,7 @@ word_by_word:
     translation: '[they]'
     transliteration: humu
   41:
-    arabic: "الۡكٰفِرُوۡنَ‏ \uFEFF\uFEFF"
+    arabic: ٱلۡكَٰفِرُونَ
     translation: (are) the disbelievers
     transliteration: l-kāfirūna
 ---

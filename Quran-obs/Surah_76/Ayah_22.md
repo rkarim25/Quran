@@ -1,14 +1,14 @@
 ---
-arabic_ayat: اِنَّ هٰذَا كَانَ لَـكُمۡ جَزَآءً وَّكَانَ سَعۡيُكُمۡ مَّشۡكُوۡرًا‏
+arabic_ayat: إِنَّ هَٰذَا كَانَ لَكُمۡ جَزَآءٗ وَكَانَ سَعۡيُكُم مَّشۡكُورًا
 sentence_translation: ˹And they will be told,˺ “All this is surely a reward for you.
   Your striving has been appreciated.”
 word_by_word:
   1:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   2:
-    arabic: هٰذَا
+    arabic: هَٰذَا
     translation: this
     transliteration: hādhā
   3:
@@ -16,23 +16,23 @@ word_by_word:
     translation: is
     transliteration: kāna
   4:
-    arabic: لَـكُمۡ
+    arabic: لَكُمۡ
     translation: for you
     transliteration: lakum
   5:
-    arabic: جَزَآءً
+    arabic: جَزَآءٗ
     translation: a reward
     transliteration: jazāan
   6:
-    arabic: وَّكَانَ
+    arabic: وَكَانَ
     translation: and has been
     transliteration: wakāna
   7:
-    arabic: سَعۡيُكُمۡ
+    arabic: سَعۡيُكُم
     translation: your effort
     transliteration: saʿyukum
   8:
-    arabic: مَّشۡكُوۡرًا‏
+    arabic: مَّشۡكُورًا
     translation: appreciated
     transliteration: mashkūran
 ---

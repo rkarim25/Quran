@@ -1,27 +1,26 @@
 ---
-arabic_ayat: "اَللّٰهُ لَاۤ اِلٰهَ اِلَّا هُوَ​ؕ وَعَلَى اللّٰهِ فَلۡيَتَوَكَّلِ الۡمُؤۡمِنُوۡنَ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: ٱللَّهُ لَآ إِلَٰهَ إِلَّا هُوَۚ وَعَلَى ٱللَّهِ فَلۡيَتَوَكَّلِ ٱلۡمُؤۡمِنُونَ
 sentence_translation: Allah—there is no god ˹worthy of worship˺ except Him. So in
   Allah let the believers put their trust.
 word_by_word:
   1:
-    arabic: اَللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: al-lahu
   2:
-    arabic: لَاۤ
+    arabic: لَآ
     translation: (there is) no
     transliteration: lā
   3:
-    arabic: اِلٰهَ
+    arabic: إِلَٰهَ
     translation: god
     transliteration: ilāha
   4:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   5:
-    arabic: هُوَ​ؕ
+    arabic: هُوَۚ
     translation: Him
     transliteration: huwa
   6:
@@ -29,7 +28,7 @@ word_by_word:
     translation: And upon
     transliteration: waʿalā
   7:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   8:
@@ -37,7 +36,7 @@ word_by_word:
     translation: let put (their) trust
     transliteration: falyatawakkali
   9:
-    arabic: "الۡمُؤۡمِنُوۡنَ‏ \uFEFF\uFEFF"
+    arabic: ٱلۡمُؤۡمِنُونَ
     translation: the believers
     transliteration: l-mu'minūna
 ---

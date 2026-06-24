@@ -1,9 +1,9 @@
 ---
-arabic_ayat: نُزُلًا مِّنۡ غَفُوۡرٍ رَّحِيۡمٍ‏
+arabic_ayat: نُزُلٗا مِّنۡ غَفُورٖ رَّحِيمٖ
 sentence_translation: an accommodation from the All-Forgiving, Most Merciful ˹Lord˺.”
 word_by_word:
   1:
-    arabic: نُزُلًا
+    arabic: نُزُلٗا
     translation: A hospitable gift
     transliteration: nuzulan
   2:
@@ -11,11 +11,11 @@ word_by_word:
     translation: from
     transliteration: min
   3:
-    arabic: غَفُوۡرٍ
+    arabic: غَفُورٖ
     translation: (the) Oft-Forgiving
     transliteration: ghafūrin
   4:
-    arabic: رَّحِيۡمٍ‏
+    arabic: رَّحِيمٖ
     translation: (the) Most Merciful
     transliteration: raḥīmin
 ---

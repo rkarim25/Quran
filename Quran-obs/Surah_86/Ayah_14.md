@@ -1,9 +1,9 @@
 ---
-arabic_ayat: وَّمَا هُوَ بِالۡهَزۡلِؕ‏
+arabic_ayat: وَمَا هُوَ بِٱلۡهَزۡلِ
 sentence_translation: and is not to be taken lightly.
 word_by_word:
   1:
-    arabic: وَّمَا
+    arabic: وَمَا
     translation: And not
     transliteration: wamā
   2:
@@ -11,7 +11,7 @@ word_by_word:
     translation: it
     transliteration: huwa
   3:
-    arabic: بِالۡهَزۡلِؕ‏
+    arabic: بِٱلۡهَزۡلِ
     translation: (is) for amusement
     transliteration: bil-hazli
 ---

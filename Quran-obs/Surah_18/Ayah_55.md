@@ -1,7 +1,7 @@
 ---
-arabic_ayat: وَمَا مَنَعَ النَّاسَ اَنۡ يُّؤۡمِنُوۡۤا اِذۡ جَآءَهُمُ الۡهُدٰى وَيَسۡتَغۡفِرُوۡا
-  رَبَّهُمۡ اِلَّاۤ اَنۡ تَاۡتِيَهُمۡ سُنَّةُ الۡاَوَّلِيۡنَ اَوۡ يَاۡتِيَهُمُ الۡعَذَابُ
-  قُبُلًا‏
+arabic_ayat: وَمَا مَنَعَ ٱلنَّاسَ أَن يُؤۡمِنُوٓاْ إِذۡ جَآءَهُمُ ٱلۡهُدَىٰ وَيَسۡتَغۡفِرُواْ
+  رَبَّهُمۡ إِلَّآ أَن تَأۡتِيَهُمۡ سُنَّةُ ٱلۡأَوَّلِينَ أَوۡ يَأۡتِيَهُمُ ٱلۡعَذَابُ
+  قُبُلٗا
 sentence_translation: And nothing prevents people from believing when guidance comes
   to them and from seeking their Lord’s forgiveness except ˹their demand˺ to meet
   the same fate of earlier deniers or that the torment would confront them face to
@@ -16,19 +16,19 @@ word_by_word:
     translation: prevents
     transliteration: manaʿa
   3:
-    arabic: النَّاسَ
+    arabic: ٱلنَّاسَ
     translation: men
     transliteration: l-nāsa
   4:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that
     transliteration: an
   5:
-    arabic: يُّؤۡمِنُوۡۤا
+    arabic: يُؤۡمِنُوٓاْ
     translation: they believe
     transliteration: yu'minū
   6:
-    arabic: اِذۡ
+    arabic: إِذۡ
     translation: when
     transliteration: idh
   7:
@@ -36,11 +36,11 @@ word_by_word:
     translation: has come to them
     transliteration: jāahumu
   8:
-    arabic: الۡهُدٰى
+    arabic: ٱلۡهُدَىٰ
     translation: the guidance
     transliteration: l-hudā
   9:
-    arabic: وَيَسۡتَغۡفِرُوۡا
+    arabic: وَيَسۡتَغۡفِرُواْ
     translation: and they ask forgiveness
     transliteration: wayastaghfirū
   10:
@@ -48,15 +48,15 @@ word_by_word:
     translation: (of) their Lord
     transliteration: rabbahum
   11:
-    arabic: اِلَّاۤ
+    arabic: إِلَّآ
     translation: except
     transliteration: illā
   12:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that
     transliteration: an
   13:
-    arabic: تَاۡتِيَهُمۡ
+    arabic: تَأۡتِيَهُمۡ
     translation: comes to them
     transliteration: tatiyahum
   14:
@@ -64,23 +64,23 @@ word_by_word:
     translation: (the) way
     transliteration: sunnatu
   15:
-    arabic: الۡاَوَّلِيۡنَ
+    arabic: ٱلۡأَوَّلِينَ
     translation: (of) the former (people)
     transliteration: l-awalīna
   16:
-    arabic: اَوۡ
+    arabic: أَوۡ
     translation: or
     transliteration: aw
   17:
-    arabic: يَاۡتِيَهُمُ
+    arabic: يَأۡتِيَهُمُ
     translation: comes to them
     transliteration: yatiyahumu
   18:
-    arabic: الۡعَذَابُ
+    arabic: ٱلۡعَذَابُ
     translation: the punishment
     transliteration: l-ʿadhābu
   19:
-    arabic: قُبُلًا‏
+    arabic: قُبُلٗا
     translation: before (them)
     transliteration: qubulan
 ---

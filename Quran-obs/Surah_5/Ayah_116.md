@@ -1,9 +1,9 @@
 ---
-arabic_ayat: "وَاِذۡ قَالَ اللّٰهُ يٰعِيۡسَى ابۡنَ مَرۡيَمَ ءَاَنۡتَ قُلۡتَ لِلنَّاسِ\
-  \ اتَّخِذُوۡنِىۡ وَاُمِّىَ اِلٰهَيۡنِ مِنۡ دُوۡنِ اللّٰهِ​ؕ قَالَ سُبۡحٰنَكَ مَا\
-  \ يَكُوۡنُ لِىۡۤ اَنۡ اَقُوۡلَ مَا لَـيۡسَ لِىۡ بِحَقٍّ​ؕ اِنۡ كُنۡتُ قُلۡتُهٗ\
-  \ فَقَدۡ عَلِمۡتَهٗ​ؕ تَعۡلَمُ مَا فِىۡ نَفۡسِىۡ وَلَاۤ اَعۡلَمُ مَا فِىۡ نَفۡسِكَ​ؕ\
-  \ اِنَّكَ اَنۡتَ عَلَّامُ الۡغُيُوۡبِ‏ \uFEFF\uFEFF"
+arabic_ayat: وَإِذۡ قَالَ ٱللَّهُ يَٰعِيسَى ٱبۡنَ مَرۡيَمَ ءَأَنتَ قُلۡتَ لِلنَّاسِ
+  ٱتَّخِذُونِي وَأُمِّيَ إِلَٰهَيۡنِ مِن دُونِ ٱللَّهِۖ قَالَ سُبۡحَٰنَكَ مَا يَكُونُ
+  لِيٓ أَنۡ أَقُولَ مَا لَيۡسَ لِي بِحَقٍّۚ إِن كُنتُ قُلۡتُهُۥ فَقَدۡ عَلِمۡتَهُۥۚ
+  تَعۡلَمُ مَا فِي نَفۡسِي وَلَآ أَعۡلَمُ مَا فِي نَفۡسِكَۚ إِنَّكَ أَنتَ عَلَّٰمُ
+  ٱلۡغُيُوبِ
 sentence_translation: And ˹on Judgment Day˺ Allah will say, “O Jesus, son of Mary!
   Did you ever ask the people to worship you and your mother as gods besides Allah?”
   He will answer, “Glory be to You! How could I ever say what I had no right to say?
@@ -12,7 +12,7 @@ sentence_translation: And ˹on Judgment Day˺ Allah will say, “O Jesus, son of
   the Knower of all unseen.
 word_by_word:
   1:
-    arabic: وَاِذۡ
+    arabic: وَإِذۡ
     translation: And when
     transliteration: wa-idh
   2:
@@ -20,15 +20,15 @@ word_by_word:
     translation: said
     transliteration: qāla
   3:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   4:
-    arabic: يٰعِيۡسَى
+    arabic: يَٰعِيسَى
     translation: O Isa
     transliteration: yāʿīsā
   5:
-    arabic: ابۡنَ
+    arabic: ٱبۡنَ
     translation: son
     transliteration: ib'na
   6:
@@ -36,7 +36,7 @@ word_by_word:
     translation: (of) Maryam
     transliteration: maryama
   7:
-    arabic: ءَاَنۡتَ
+    arabic: ءَأَنتَ
     translation: Did you
     transliteration: a-anta
   8:
@@ -48,27 +48,27 @@ word_by_word:
     translation: to the people
     transliteration: lilnnāsi
   10:
-    arabic: اتَّخِذُوۡنِىۡ
+    arabic: ٱتَّخِذُونِي
     translation: Take me
     transliteration: ittakhidhūnī
   11:
-    arabic: وَاُمِّىَ
+    arabic: وَأُمِّيَ
     translation: and my mother
     transliteration: wa-ummiya
   12:
-    arabic: اِلٰهَيۡنِ
+    arabic: إِلَٰهَيۡنِ
     translation: (as) two gods
     transliteration: ilāhayni
   13:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   14:
-    arabic: دُوۡنِ
+    arabic: دُونِ
     translation: besides
     transliteration: dūni
   15:
-    arabic: اللّٰهِ​ؕ
+    arabic: ٱللَّهِۖ
     translation: Allah
     transliteration: l-lahi
   16:
@@ -76,7 +76,7 @@ word_by_word:
     translation: He said
     transliteration: qāla
   17:
-    arabic: سُبۡحٰنَكَ
+    arabic: سُبۡحَٰنَكَ
     translation: Glory be to You
     transliteration: sub'ḥānaka
   18:
@@ -84,19 +84,19 @@ word_by_word:
     translation: Not
     transliteration: mā
   19:
-    arabic: يَكُوۡنُ
+    arabic: يَكُونُ
     translation: was
     transliteration: yakūnu
   20:
-    arabic: لِىۡۤ
+    arabic: لِيٓ
     translation: for me
     transliteration: lī
   21:
-    arabic: اَنۡ
+    arabic: أَنۡ
     translation: that
     transliteration: an
   22:
-    arabic: اَقُوۡلَ
+    arabic: أَقُولَ
     translation: I say
     transliteration: aqūla
   23:
@@ -104,27 +104,27 @@ word_by_word:
     translation: what
     transliteration: mā
   24:
-    arabic: لَـيۡسَ
+    arabic: لَيۡسَ
     translation: not
     transliteration: laysa
   25:
-    arabic: لِىۡ
+    arabic: لِي
     translation: I
     transliteration: lī
   26:
-    arabic: بِحَقٍّ​ؕ
+    arabic: بِحَقٍّۚ
     translation: (had) right
     transliteration: biḥaqqin
   27:
-    arabic: اِنۡ
+    arabic: إِن
     translation: If
     transliteration: in
   28:
-    arabic: كُنۡتُ
+    arabic: كُنتُ
     translation: I had
     transliteration: kuntu
   29:
-    arabic: قُلۡتُهٗ
+    arabic: قُلۡتُهُۥ
     translation: said it
     transliteration: qul'tuhu
   30:
@@ -132,7 +132,7 @@ word_by_word:
     translation: then surely
     transliteration: faqad
   31:
-    arabic: عَلِمۡتَهٗ​ؕ
+    arabic: عَلِمۡتَهُۥۚ
     translation: You would have known it
     transliteration: ʿalim'tahu
   32:
@@ -144,19 +144,19 @@ word_by_word:
     translation: what
     transliteration: mā
   34:
-    arabic: فِىۡ
+    arabic: فِي
     translation: (is) in
     transliteration: fī
   35:
-    arabic: نَفۡسِىۡ
+    arabic: نَفۡسِي
     translation: myself
     transliteration: nafsī
   36:
-    arabic: وَلَاۤ
+    arabic: وَلَآ
     translation: and not
     transliteration: walā
   37:
-    arabic: اَعۡلَمُ
+    arabic: أَعۡلَمُ
     translation: I know
     transliteration: aʿlamu
   38:
@@ -164,27 +164,27 @@ word_by_word:
     translation: what
     transliteration: mā
   39:
-    arabic: فِىۡ
+    arabic: فِي
     translation: (is) in
     transliteration: fī
   40:
-    arabic: نَفۡسِكَ​ؕ
+    arabic: نَفۡسِكَۚ
     translation: Yourself
     transliteration: nafsika
   41:
-    arabic: اِنَّكَ
+    arabic: إِنَّكَ
     translation: Indeed, You
     transliteration: innaka
   42:
-    arabic: اَنۡتَ
+    arabic: أَنتَ
     translation: You
     transliteration: anta
   43:
-    arabic: عَلَّامُ
+    arabic: عَلَّٰمُ
     translation: (are) All-Knower
     transliteration: ʿallāmu
   44:
-    arabic: "الۡغُيُوۡبِ‏ \uFEFF\uFEFF"
+    arabic: ٱلۡغُيُوبِ
     translation: (of) the unseen
     transliteration: l-ghuyūbi
 ---

@@ -1,6 +1,6 @@
 ---
-arabic_ayat: وَمِنَ النَّاسِ مَنۡ يُّجَادِلُ فِى اللّٰهِ بِغَيۡرِ عِلۡمٍ وَّيَـتَّبِعُ
-  كُلَّ شَيۡطٰنٍ مَّرِيۡدٍ ۙ‏
+arabic_ayat: وَمِنَ ٱلنَّاسِ مَن يُجَٰدِلُ فِي ٱللَّهِ بِغَيۡرِ عِلۡمٖ وَيَتَّبِعُ
+  كُلَّ شَيۡطَٰنٖ مَّرِيدٖ
 sentence_translation: ˹Still˺ there are some who dispute about Allah without knowledge,
   and follow every rebellious devil.
 word_by_word:
@@ -9,23 +9,23 @@ word_by_word:
     translation: And among
     transliteration: wamina
   2:
-    arabic: النَّاسِ
+    arabic: ٱلنَّاسِ
     translation: the mankind
     transliteration: l-nāsi
   3:
-    arabic: مَنۡ
+    arabic: مَن
     translation: (is he) who
     transliteration: man
   4:
-    arabic: يُّجَادِلُ
+    arabic: يُجَٰدِلُ
     translation: disputes
     transliteration: yujādilu
   5:
-    arabic: فِى
+    arabic: فِي
     translation: concerning
     transliteration: fī
   6:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   7:
@@ -33,11 +33,11 @@ word_by_word:
     translation: without
     transliteration: bighayri
   8:
-    arabic: عِلۡمٍ
+    arabic: عِلۡمٖ
     translation: knowledge
     transliteration: ʿil'min
   9:
-    arabic: وَّيَـتَّبِعُ
+    arabic: وَيَتَّبِعُ
     translation: and follows
     transliteration: wayattabiʿu
   10:
@@ -45,11 +45,11 @@ word_by_word:
     translation: every
     transliteration: kulla
   11:
-    arabic: شَيۡطٰنٍ
+    arabic: شَيۡطَٰنٖ
     translation: devil
     transliteration: shayṭānin
   12:
-    arabic: مَّرِيۡدٍ ۙ‏
+    arabic: مَّرِيدٖ
     translation: rebellious
     transliteration: marīdin
 ---

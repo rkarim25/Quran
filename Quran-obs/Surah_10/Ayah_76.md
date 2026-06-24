@@ -1,6 +1,6 @@
 ---
-arabic_ayat: فَلَمَّا جَآءَهُمُ الۡحَـقُّ مِنۡ عِنۡدِنَا قَالُوۡۤا اِنَّ هٰذَا لَسِحۡرٌ
-  مُّبِيۡنٌ‏
+arabic_ayat: فَلَمَّا جَآءَهُمُ ٱلۡحَقُّ مِنۡ عِندِنَا قَالُوٓاْ إِنَّ هَٰذَا لَسِحۡرٞ
+  مُّبِينٞ
 sentence_translation: When the truth came to them from Us, they said, “This is certainly
   pure magic!”
 word_by_word:
@@ -13,7 +13,7 @@ word_by_word:
     translation: came to them
     transliteration: jāahumu
   3:
-    arabic: الۡحَـقُّ
+    arabic: ٱلۡحَقُّ
     translation: the truth
     transliteration: l-ḥaqu
   4:
@@ -21,27 +21,27 @@ word_by_word:
     translation: from Us
     transliteration: min
   5:
-    arabic: عِنۡدِنَا
+    arabic: عِندِنَا
     translation: from Us
     transliteration: ʿindinā
   6:
-    arabic: قَالُوۡۤا
+    arabic: قَالُوٓاْ
     translation: they said
     transliteration: qālū
   7:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   8:
-    arabic: هٰذَا
+    arabic: هَٰذَا
     translation: this
     transliteration: hādhā
   9:
-    arabic: لَسِحۡرٌ
+    arabic: لَسِحۡرٞ
     translation: (is) surely, a magic
     transliteration: lasiḥ'run
   10:
-    arabic: مُّبِيۡنٌ‏
+    arabic: مُّبِينٞ
     translation: clear
     transliteration: mubīnun
 ---

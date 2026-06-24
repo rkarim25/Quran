@@ -1,10 +1,10 @@
 ---
-arabic_ayat: وَاَمَّا مَنۡ اُوۡتِىَ كِتٰبَهٗ وَرَآءَ ظَهۡرِهٖۙ‏
+arabic_ayat: وَأَمَّا مَنۡ أُوتِيَ كِتَٰبَهُۥ وَرَآءَ ظَهۡرِهِۦ
 sentence_translation: And as for those who are given their record ˹in their left hand˺
   from behind their backs,
 word_by_word:
   1:
-    arabic: وَاَمَّا
+    arabic: وَأَمَّا
     translation: But as for
     transliteration: wa-ammā
   2:
@@ -12,11 +12,11 @@ word_by_word:
     translation: (him) who
     transliteration: man
   3:
-    arabic: اُوۡتِىَ
+    arabic: أُوتِيَ
     translation: is given
     transliteration: ūtiya
   4:
-    arabic: كِتٰبَهٗ
+    arabic: كِتَٰبَهُۥ
     translation: his record
     transliteration: kitābahu
   5:
@@ -24,7 +24,7 @@ word_by_word:
     translation: behind
     transliteration: warāa
   6:
-    arabic: ظَهۡرِهٖۙ‏
+    arabic: ظَهۡرِهِۦ
     translation: his back
     transliteration: ẓahrihi
 ---

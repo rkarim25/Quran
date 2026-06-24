@@ -1,5 +1,5 @@
 ---
-arabic_ayat: وَسَيُجَنَّبُهَا الۡاَتۡقَىۙ‏
+arabic_ayat: وَسَيُجَنَّبُهَا ٱلۡأَتۡقَى
 sentence_translation: But the righteous will be spared from it—
 word_by_word:
   1:
@@ -7,7 +7,7 @@ word_by_word:
     translation: But will be removed from it
     transliteration: wasayujannabuhā
   2:
-    arabic: الۡاَتۡقَىۙ‏
+    arabic: ٱلۡأَتۡقَى
     translation: the righteous
     transliteration: l-atqā
 ---

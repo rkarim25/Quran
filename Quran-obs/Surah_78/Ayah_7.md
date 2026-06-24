@@ -1,13 +1,13 @@
 ---
-arabic_ayat: وَّالۡجِبَالَ اَوۡتَادًا ۙ‏
+arabic_ayat: وَٱلۡجِبَالَ أَوۡتَادٗا
 sentence_translation: and ˹made˺ the mountains as ˹its˺ pegs,
 word_by_word:
   1:
-    arabic: وَّالۡجِبَالَ
+    arabic: وَٱلۡجِبَالَ
     translation: And the mountains
     transliteration: wal-jibāla
   2:
-    arabic: اَوۡتَادًا ۙ‏
+    arabic: أَوۡتَادٗا
     translation: (as) pegs
     transliteration: awtādan
 ---

@@ -1,8 +1,8 @@
 ---
-arabic_ayat: اُدۡعُوۡهُمۡ لِاٰبَآٮِٕهِمۡ هُوَ اَقۡسَطُ عِنۡدَ اللّٰهِ​ ۚ فَاِنۡ لَّمۡ
-  تَعۡلَمُوۡۤا اٰبَآءَهُمۡ فَاِخۡوَانُكُمۡ فِى الدِّيۡنِ وَمَوَالِيۡكُمۡ​ؕ وَ لَيۡسَ
-  عَلَيۡكُمۡ جُنَاحٌ فِيۡمَاۤ اَخۡطَاۡ تُمۡ بِهٖۙ وَلٰكِنۡ مَّا تَعَمَّدَتۡ قُلُوۡبُكُمۡ​
-  ؕ وَكَانَ اللّٰهُ غَفُوۡرًا رَّحِيۡمًا‏
+arabic_ayat: ٱدۡعُوهُمۡ لِأٓبَآئِهِمۡ هُوَ أَقۡسَطُ عِندَ ٱللَّهِۚ فَإِن لَّمۡ تَعۡلَمُوٓاْ
+  ءَابَآءَهُمۡ فَإِخۡوَٰنُكُمۡ فِي ٱلدِّينِ وَمَوَٰلِيكُمۡۚ وَلَيۡسَ عَلَيۡكُمۡ جُنَاحٞ
+  فِيمَآ أَخۡطَأۡتُم بِهِۦ وَلَٰكِن مَّا تَعَمَّدَتۡ قُلُوبُكُمۡۚ وَكَانَ ٱللَّهُ
+  غَفُورٗا رَّحِيمًا
 sentence_translation: Let your adopted children keep their family names. That is more
   just in the sight of Allah. But if you do not know their fathers, then they are
   ˹simply˺ your fellow believers and close associates. There is no blame on you for
@@ -10,11 +10,11 @@ sentence_translation: Let your adopted children keep their family names. That is
   Most Merciful.
 word_by_word:
   1:
-    arabic: اُدۡعُوۡهُمۡ
+    arabic: ٱدۡعُوهُمۡ
     translation: Call them
     transliteration: id'ʿūhum
   2:
-    arabic: لِاٰبَآٮِٕهِمۡ
+    arabic: لِأٓبَآئِهِمۡ
     translation: by their fathers
     transliteration: liābāihim
   3:
@@ -22,19 +22,19 @@ word_by_word:
     translation: it
     transliteration: huwa
   4:
-    arabic: اَقۡسَطُ
+    arabic: أَقۡسَطُ
     translation: (is) more just
     transliteration: aqsaṭu
   5:
-    arabic: عِنۡدَ
+    arabic: عِندَ
     translation: near
     transliteration: ʿinda
   6:
-    arabic: اللّٰهِ​ ۚ
+    arabic: ٱللَّهِۚ
     translation: Allah
     transliteration: l-lahi
   7:
-    arabic: فَاِنۡ
+    arabic: فَإِن
     translation: But if
     transliteration: fa-in
   8:
@@ -42,31 +42,31 @@ word_by_word:
     translation: not
     transliteration: lam
   9:
-    arabic: تَعۡلَمُوۡۤا
+    arabic: تَعۡلَمُوٓاْ ءَ
     translation: you know
     transliteration: taʿlamū
   10:
-    arabic: اٰبَآءَهُمۡ
+    arabic: ابَآءَهُمۡ
     translation: 'their fathers '
     transliteration: ābāahum
   11:
-    arabic: فَاِخۡوَانُكُمۡ
+    arabic: فَإِخۡوَٰنُكُمۡ
     translation: then (they are) your brothers
     transliteration: fa-ikh'wānukum
   12:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   13:
-    arabic: الدِّيۡنِ
+    arabic: ٱلدِّينِ
     translation: '[the] religion'
     transliteration: l-dīni
   14:
-    arabic: وَمَوَالِيۡكُمۡ​ؕ
+    arabic: وَمَوَٰلِيكُمۡۚ
     translation: and your friends
     transliteration: wamawālīkum
   15:
-    arabic: وَ لَيۡسَ
+    arabic: وَلَيۡسَ
     translation: But not is
     transliteration: walaysa
   16:
@@ -74,23 +74,23 @@ word_by_word:
     translation: upon you
     transliteration: ʿalaykum
   17:
-    arabic: جُنَاحٌ
+    arabic: جُنَاحٞ
     translation: any blame
     transliteration: junāḥun
   18:
-    arabic: فِيۡمَاۤ
+    arabic: فِيمَآ
     translation: in what
     transliteration: fīmā
   19:
-    arabic: اَخۡطَاۡ تُمۡ
+    arabic: أَخۡطَأۡتُم
     translation: you made a mistake
     transliteration: akhṭatum
   20:
-    arabic: بِهٖۙ
+    arabic: بِهِۦ
     translation: in it
     transliteration: bihi
   21:
-    arabic: وَلٰكِنۡ
+    arabic: وَلَٰكِن
     translation: but
     transliteration: walākin
   22:
@@ -102,7 +102,7 @@ word_by_word:
     translation: intended
     transliteration: taʿammadat
   24:
-    arabic: قُلُوۡبُكُمۡ​ ؕ
+    arabic: قُلُوبُكُمۡۚ
     translation: your hearts
     transliteration: qulūbukum
   25:
@@ -110,15 +110,15 @@ word_by_word:
     translation: And Allah
     transliteration: wakāna
   26:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: And Allah
     transliteration: l-lahu
   27:
-    arabic: غَفُوۡرًا
+    arabic: غَفُورٗا
     translation: (is) Oft-Forgiving
     transliteration: ghafūran
   28:
-    arabic: رَّحِيۡمًا‏
+    arabic: رَّحِيمًا
     translation: Most Merciful
     transliteration: raḥīman
 ---

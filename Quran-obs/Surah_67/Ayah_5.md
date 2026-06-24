@@ -1,44 +1,44 @@
 ---
-arabic_ayat: وَلَـقَدۡ زَيَّـنَّا السَّمَآءَ الدُّنۡيَا بِمَصَابِيۡحَ وَجَعَلۡنٰهَا
-  رُجُوۡمًا لِّلشَّيٰطِيۡنِ​ وَاَعۡتَدۡنَا لَهُمۡ عَذَابَ السَّعِيۡرِ‏
+arabic_ayat: وَلَقَدۡ زَيَّنَّا ٱلسَّمَآءَ ٱلدُّنۡيَا بِمَصَٰبِيحَ وَجَعَلۡنَٰهَا
+  رُجُومٗا لِّلشَّيَٰطِينِۖ وَأَعۡتَدۡنَا لَهُمۡ عَذَابَ ٱلسَّعِيرِ
 sentence_translation: And indeed, We adorned the lowest heaven with ˹stars like˺ lamps,
   and made them ˹as missiles˺ for stoning ˹eavesdropping˺ devils, for whom We have
   also prepared the torment of the Blaze. 
 word_by_word:
   1:
-    arabic: وَلَـقَدۡ
+    arabic: وَلَقَدۡ
     translation: And certainly
     transliteration: walaqad
   2:
-    arabic: زَيَّـنَّا
+    arabic: زَيَّنَّا
     translation: We have beautified
     transliteration: zayyannā
   3:
-    arabic: السَّمَآءَ
+    arabic: ٱلسَّمَآءَ
     translation: the heaven
     transliteration: l-samāa
   4:
-    arabic: الدُّنۡيَا
+    arabic: ٱلدُّنۡيَا
     translation: nearest
     transliteration: l-dun'yā
   5:
-    arabic: بِمَصَابِيۡحَ
+    arabic: بِمَصَٰبِيحَ
     translation: with lamps
     transliteration: bimaṣābīḥa
   6:
-    arabic: وَجَعَلۡنٰهَا
+    arabic: وَجَعَلۡنَٰهَا
     translation: and We have made them
     transliteration: wajaʿalnāhā
   7:
-    arabic: رُجُوۡمًا
+    arabic: رُجُومٗا
     translation: (as) missiles
     transliteration: rujūman
   8:
-    arabic: لِّلشَّيٰطِيۡنِ​
+    arabic: لِّلشَّيَٰطِينِۖ
     translation: for the devils
     transliteration: lilshayāṭīni
   9:
-    arabic: وَاَعۡتَدۡنَا
+    arabic: وَأَعۡتَدۡنَا
     translation: and We have prepared
     transliteration: wa-aʿtadnā
   10:
@@ -50,7 +50,7 @@ word_by_word:
     translation: punishment
     transliteration: ʿadhāba
   12:
-    arabic: السَّعِيۡرِ‏
+    arabic: ٱلسَّعِيرِ
     translation: (of) the Blaze
     transliteration: l-saʿīri
 ---

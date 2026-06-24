@@ -1,6 +1,6 @@
 ---
-arabic_ayat: قَالَ عِفۡرِيۡتٌ مِّنَ الۡجِنِّ اَنَا اٰتِيۡكَ بِهٖ قَبۡلَ اَنۡ تَقُوۡمَ
-  مِنۡ مَّقَامِكَ​ۚ وَاِنِّىۡ عَلَيۡهِ لَـقَوِىٌّ اَمِيۡنٌ‏
+arabic_ayat: قَالَ عِفۡرِيتٞ مِّنَ ٱلۡجِنِّ أَنَا۠ ءَاتِيكَ بِهِۦ قَبۡلَ أَن تَقُومَ
+  مِن مَّقَامِكَۖ وَإِنِّي عَلَيۡهِ لَقَوِيٌّ أَمِينٞ
 sentence_translation: One mighty jinn responded, “I can bring it to you before you
   rise from this council of yours. And I am quite strong and trustworthy for this
   ˹task˺.”
@@ -10,7 +10,7 @@ word_by_word:
     translation: Said
     transliteration: qāla
   2:
-    arabic: عِفۡرِيۡتٌ
+    arabic: عِفۡرِيتٞ
     translation: a strong one
     transliteration: ʿif'rītun
   3:
@@ -18,19 +18,19 @@ word_by_word:
     translation: of
     transliteration: mina
   4:
-    arabic: الۡجِنِّ
+    arabic: ٱلۡجِنِّ
     translation: the jinn
     transliteration: l-jini
   5:
-    arabic: اَنَا
+    arabic: أَنَا۠ ءَ
     translation: I
     transliteration: anā
   6:
-    arabic: اٰتِيۡكَ
+    arabic: اتِيكَ
     translation: will bring it to you
     transliteration: ātīka
   7:
-    arabic: بِهٖ
+    arabic: بِهِۦ
     translation: will bring it to you
     transliteration: bihi
   8:
@@ -38,23 +38,23 @@ word_by_word:
     translation: before
     transliteration: qabla
   9:
-    arabic: اَنۡ
+    arabic: أَن
     translation: '[that]'
     transliteration: an
   10:
-    arabic: تَقُوۡمَ
+    arabic: تَقُومَ
     translation: you rise
     transliteration: taqūma
   11:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   12:
-    arabic: مَّقَامِكَ​ۚ
+    arabic: مَّقَامِكَۖ
     translation: your place
     transliteration: maqāmika
   13:
-    arabic: وَاِنِّىۡ
+    arabic: وَإِنِّي
     translation: And indeed, I am
     transliteration: wa-innī
   14:
@@ -62,11 +62,11 @@ word_by_word:
     translation: for it
     transliteration: ʿalayhi
   15:
-    arabic: لَـقَوِىٌّ
+    arabic: لَقَوِيٌّ
     translation: surely, strong
     transliteration: laqawiyyun
   16:
-    arabic: اَمِيۡنٌ‏
+    arabic: أَمِينٞ
     translation: trustworthy
     transliteration: amīnun
 ---

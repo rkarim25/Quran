@@ -1,33 +1,33 @@
 ---
-arabic_ayat: وَلَـقَدۡ اَرۡسَلۡنَا مُوۡسٰى بِاٰيٰتِنَاۤ اَنۡ اَخۡرِجۡ قَوۡمَكَ مِنَ
-  الظُّلُمٰتِ اِلَى النُّوۡرِ ۙ وَذَكِّرۡهُمۡ بِاَيّٰٮمِ اللّٰهِ​ؕ اِنَّ فِىۡ ذٰ
-  لِكَ لَاٰيٰتٍ لّـِكُلِّ صَبَّارٍ شَكُوۡرٍ‏
+arabic_ayat: وَلَقَدۡ أَرۡسَلۡنَا مُوسَىٰ بِـَٔايَٰتِنَآ أَنۡ أَخۡرِجۡ قَوۡمَكَ مِنَ
+  ٱلظُّلُمَٰتِ إِلَى ٱلنُّورِ وَذَكِّرۡهُم بِأَيَّىٰمِ ٱللَّهِۚ إِنَّ فِي ذَٰلِكَ
+  لَأٓيَٰتٖ لِّكُلِّ صَبَّارٖ شَكُورٖ
 sentence_translation: Indeed, We sent Moses with Our signs, ˹ordering him,˺ “Lead
   your people out of darkness and into light, and remind them of Allah’s days ˹of
   favour˺.” Surely in this are signs for whoever is steadfast, grateful.
 word_by_word:
   1:
-    arabic: وَلَـقَدۡ
+    arabic: وَلَقَدۡ
     translation: And verily
     transliteration: walaqad
   2:
-    arabic: اَرۡسَلۡنَا
+    arabic: أَرۡسَلۡنَا
     translation: We sent
     transliteration: arsalnā
   3:
-    arabic: مُوۡسٰى
+    arabic: مُوسَىٰ
     translation: Musa
     transliteration: mūsā
   4:
-    arabic: بِاٰيٰتِنَاۤ
+    arabic: بِـَٔايَٰتِنَآ
     translation: with Our Signs
     transliteration: biāyātinā
   5:
-    arabic: اَنۡ
+    arabic: أَنۡ
     translation: that
     transliteration: an
   6:
-    arabic: اَخۡرِجۡ
+    arabic: أَخۡرِجۡ
     translation: Bring out
     transliteration: akhrij
   7:
@@ -39,55 +39,55 @@ word_by_word:
     translation: from
     transliteration: mina
   9:
-    arabic: الظُّلُمٰتِ
+    arabic: ٱلظُّلُمَٰتِ
     translation: the darkness[es]
     transliteration: l-ẓulumāti
   10:
-    arabic: اِلَى
+    arabic: إِلَى
     translation: to
     transliteration: ilā
   11:
-    arabic: النُّوۡرِ ۙ
+    arabic: ٱلنُّورِ
     translation: the light
     transliteration: l-nūri
   12:
-    arabic: وَذَكِّرۡهُمۡ
+    arabic: وَذَكِّرۡهُم
     translation: And remind them
     transliteration: wadhakkir'hum
   13:
-    arabic: بِاَيّٰٮمِ
+    arabic: بِأَيَّىٰمِ
     translation: of the days
     transliteration: bi-ayyāmi
   14:
-    arabic: اللّٰهِ​ؕ
+    arabic: ٱللَّهِۚ
     translation: (of) Allah
     transliteration: l-lahi
   15:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   16:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   17:
-    arabic: ذٰ لِكَ
+    arabic: ذَٰلِكَ
     translation: that
     transliteration: dhālika
   18:
-    arabic: لَاٰيٰتٍ
+    arabic: لَأٓيَٰتٖ
     translation: surely (are) the signs
     transliteration: laāyātin
   19:
-    arabic: لّـِكُلِّ
+    arabic: لِّكُلِّ
     translation: for everyone
     transliteration: likulli
   20:
-    arabic: صَبَّارٍ
+    arabic: صَبَّارٖ
     translation: patient
     transliteration: ṣabbārin
   21:
-    arabic: شَكُوۡرٍ‏
+    arabic: شَكُورٖ
     translation: and thankful
     transliteration: shakūrin
 ---

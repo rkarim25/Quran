@@ -1,7 +1,7 @@
 ---
-arabic_ayat: فَلَمَّا جَآءَهُمُ الۡحَـقُّ مِنۡ عِنۡدِنَا قَالُوۡا لَوۡلَاۤ اُوۡتِىَ
-  مِثۡلَ مَاۤ اُوۡتِىَ مُوۡسٰى​ ؕ اَوَلَمۡ يَكۡفُرُوۡا بِمَاۤ اُوۡتِىَ مُوۡسٰى مِنۡ
-  قَبۡلُ ​ۚ قَالُوۡا سِحۡرٰنِ تَظَاهَرَا وَقَالُوۡۤا اِنَّا بِكُلٍّ كٰفِرُوۡنَ‏
+arabic_ayat: فَلَمَّا جَآءَهُمُ ٱلۡحَقُّ مِنۡ عِندِنَا قَالُواْ لَوۡلَآ أُوتِيَ
+  مِثۡلَ مَآ أُوتِيَ مُوسَىٰٓۚ أَوَلَمۡ يَكۡفُرُواْ بِمَآ أُوتِيَ مُوسَىٰ مِن قَبۡلُۖ
+  قَالُواْ سِحۡرَانِ تَظَٰهَرَا وَقَالُوٓاْ إِنَّا بِكُلّٖ كَٰفِرُونَ
 sentence_translation: But when the truth came to them from Us, they said, “If only
   he was given the like of what Moses had been given.” Did they not deny what had
   been given to Moses earlier? They claimed, “Both ˹Scriptures˺ are works of magic,
@@ -16,7 +16,7 @@ word_by_word:
     translation: came to them
     transliteration: jāahumu
   3:
-    arabic: الۡحَـقُّ
+    arabic: ٱلۡحَقُّ
     translation: the truth
     transliteration: l-ḥaqu
   4:
@@ -24,19 +24,19 @@ word_by_word:
     translation: from Us
     transliteration: min
   5:
-    arabic: عِنۡدِنَا
+    arabic: عِندِنَا
     translation: from Us
     transliteration: ʿindinā
   6:
-    arabic: قَالُوۡا
+    arabic: قَالُواْ
     translation: they said
     transliteration: qālū
   7:
-    arabic: لَوۡلَاۤ
+    arabic: لَوۡلَآ
     translation: Why not
     transliteration: lawlā
   8:
-    arabic: اُوۡتِىَ
+    arabic: أُوتِيَ
     translation: he was given
     transliteration: ūtiya
   9:
@@ -44,71 +44,71 @@ word_by_word:
     translation: (the) like
     transliteration: mith'la
   10:
-    arabic: مَاۤ
+    arabic: مَآ
     translation: (of) what
     transliteration: mā
   11:
-    arabic: اُوۡتِىَ
+    arabic: أُوتِيَ
     translation: was given
     transliteration: ūtiya
   12:
-    arabic: مُوۡسٰى​ ؕ
+    arabic: مُوسَىٰٓۚ
     translation: (to) Musa
     transliteration: mūsā
   13:
-    arabic: اَوَلَمۡ
+    arabic: أَوَلَمۡ
     translation: Did not
     transliteration: awalam
   14:
-    arabic: يَكۡفُرُوۡا
+    arabic: يَكۡفُرُواْ
     translation: they disbelieve
     transliteration: yakfurū
   15:
-    arabic: بِمَاۤ
+    arabic: بِمَآ
     translation: in what
     transliteration: bimā
   16:
-    arabic: اُوۡتِىَ
+    arabic: أُوتِيَ
     translation: was given
     transliteration: ūtiya
   17:
-    arabic: مُوۡسٰى
+    arabic: مُوسَىٰ
     translation: (to) Musa
     transliteration: mūsā
   18:
-    arabic: مِنۡ
+    arabic: مِن
     translation: before
     transliteration: min
   19:
-    arabic: قَبۡلُ ​ۚ
+    arabic: قَبۡلُۖ
     translation: before
     transliteration: qablu
   20:
-    arabic: قَالُوۡا
+    arabic: قَالُواْ
     translation: They said
     transliteration: qālū
   21:
-    arabic: سِحۡرٰنِ
+    arabic: سِحۡرَانِ
     translation: Two magic (works)
     transliteration: siḥ'rāni
   22:
-    arabic: تَظَاهَرَا
+    arabic: تَظَٰهَرَا
     translation: supporting each other
     transliteration: taẓāharā
   23:
-    arabic: وَقَالُوۡۤا
+    arabic: وَقَالُوٓاْ
     translation: And they said
     transliteration: waqālū
   24:
-    arabic: اِنَّا
+    arabic: إِنَّا
     translation: Indeed, we
     transliteration: innā
   25:
-    arabic: بِكُلٍّ
+    arabic: بِكُلّٖ
     translation: in all
     transliteration: bikullin
   26:
-    arabic: كٰفِرُوۡنَ‏
+    arabic: كَٰفِرُونَ
     translation: (are) disbelievers
     transliteration: kāfirūna
 ---

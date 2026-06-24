@@ -1,15 +1,14 @@
 ---
-arabic_ayat: لَّـعَنَهُ اللّٰهُ​ ۘ وَقَالَ لَاَ تَّخِذَنَّ مِنۡ عِبَادِكَ نَصِيۡبًا
-  مَّفۡرُوۡضًا ۙ‏
+arabic_ayat: لَّعَنَهُ ٱللَّهُۘ وَقَالَ لَأَتَّخِذَنَّ مِنۡ عِبَادِكَ نَصِيبٗا مَّفۡرُوضٗا
 sentence_translation: cursed by Allah—who said, “I will surely take hold of a certain
   number of Your servants.
 word_by_word:
   1:
-    arabic: لَّـعَنَهُ
+    arabic: لَّعَنَهُ
     translation: He was cursed
     transliteration: laʿanahu
   2:
-    arabic: اللّٰهُ​ ۘ
+    arabic: ٱللَّهُۘ
     translation: by Allah
     transliteration: l-lahu
   3:
@@ -17,7 +16,7 @@ word_by_word:
     translation: and he said
     transliteration: waqāla
   4:
-    arabic: لَاَ تَّخِذَنَّ
+    arabic: لَأَتَّخِذَنَّ
     translation: I will surely take
     transliteration: la-attakhidhanna
   5:
@@ -29,11 +28,11 @@ word_by_word:
     translation: your slaves
     transliteration: ʿibādika
   7:
-    arabic: نَصِيۡبًا
+    arabic: نَصِيبٗا
     translation: a portion
     transliteration: naṣīban
   8:
-    arabic: مَّفۡرُوۡضًا ۙ‏
+    arabic: مَّفۡرُوضٗا
     translation: appointed
     transliteration: mafrūḍan
 ---

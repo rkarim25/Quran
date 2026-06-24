@@ -1,11 +1,11 @@
 ---
-arabic_ayat: وَاِذۡ قَالَ رَبُّكَ لِلۡمَلٰۤٮِٕكَةِ اِنِّىۡ خَالـِقٌۢ بَشَرًا مِّنۡ
-  صَلۡصَالٍ مِّنۡ حَمَاٍ مَّسۡنُوۡنٍ‏
+arabic_ayat: وَإِذۡ قَالَ رَبُّكَ لِلۡمَلَٰٓئِكَةِ إِنِّي خَٰلِقُۢ بَشَرٗا مِّن صَلۡصَٰلٖ
+  مِّنۡ حَمَإٖ مَّسۡنُونٖ
 sentence_translation: ˹Remember, O  Prophet˺ when your Lord said to the angels, “I
   am going to create a human being from sounding clay moulded from black mud.
 word_by_word:
   1:
-    arabic: وَاِذۡ
+    arabic: وَإِذۡ
     translation: And when
     transliteration: wa-idh
   2:
@@ -17,27 +17,27 @@ word_by_word:
     translation: your Lord said
     transliteration: rabbuka
   4:
-    arabic: لِلۡمَلٰۤٮِٕكَةِ
+    arabic: لِلۡمَلَٰٓئِكَةِ
     translation: to the Angels
     transliteration: lil'malāikati
   5:
-    arabic: اِنِّىۡ
+    arabic: إِنِّي
     translation: Indeed, I
     transliteration: innī
   6:
-    arabic: خَالـِقٌۢ
+    arabic: خَٰلِقُۢ
     translation: (will) create
     transliteration: khāliqun
   7:
-    arabic: بَشَرًا
+    arabic: بَشَرٗا
     translation: a human being
     transliteration: basharan
   8:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: (out) of
     transliteration: min
   9:
-    arabic: صَلۡصَالٍ
+    arabic: صَلۡصَٰلٖ
     translation: clay
     transliteration: ṣalṣālin
   10:
@@ -45,11 +45,11 @@ word_by_word:
     translation: from
     transliteration: min
   11:
-    arabic: حَمَاٍ
+    arabic: حَمَإٖ
     translation: black mud
     transliteration: ḥama-in
   12:
-    arabic: مَّسۡنُوۡنٍ‏
+    arabic: مَّسۡنُونٖ
     translation: altered
     transliteration: masnūnin
 ---

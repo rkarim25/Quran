@@ -1,24 +1,24 @@
 ---
-arabic_ayat: وَقَالُوۡا يٰۤاَيُّهَ السَّاحِرُ ادۡعُ لَنَا رَبَّكَ بِمَا عَهِدَ عِنۡدَكَ​ۚ
-  اِنَّنَا لَمُهۡتَدُوۡنَ‏
+arabic_ayat: وَقَالُواْ يَٰٓأَيُّهَ ٱلسَّاحِرُ ٱدۡعُ لَنَا رَبَّكَ بِمَا عَهِدَ عِندَكَ
+  إِنَّنَا لَمُهۡتَدُونَ
 sentence_translation: ˹Then˺ they pleaded, “O ˹mighty˺ magician! Pray to your Lord
   on our behalf, by virtue of the covenant He made with you. We will certainly accept
   guidance.”
 word_by_word:
   1:
-    arabic: وَقَالُوۡا
+    arabic: وَقَالُواْ
     translation: And they said
     transliteration: waqālū
   2:
-    arabic: يٰۤاَيُّهَ
+    arabic: يَٰٓأَيُّهَ
     translation: O
     transliteration: yāayyuha
   3:
-    arabic: السَّاحِرُ
+    arabic: ٱلسَّاحِرُ
     translation: '[the] magician'
     transliteration: l-sāḥiru
   4:
-    arabic: ادۡعُ
+    arabic: ٱدۡعُ
     translation: Invoke
     transliteration: ud'ʿu
   5:
@@ -38,15 +38,15 @@ word_by_word:
     translation: He has made covenant
     transliteration: ʿahida
   9:
-    arabic: عِنۡدَكَ​ۚ
+    arabic: عِندَكَ
     translation: with you
     transliteration: ʿindaka
   10:
-    arabic: اِنَّنَا
+    arabic: إِنَّنَا
     translation: Indeed, we
     transliteration: innanā
   11:
-    arabic: لَمُهۡتَدُوۡنَ‏
+    arabic: لَمُهۡتَدُونَ
     translation: (will) surely be guided
     transliteration: lamuh'tadūna
 ---

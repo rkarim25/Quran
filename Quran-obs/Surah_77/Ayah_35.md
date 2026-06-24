@@ -1,9 +1,9 @@
 ---
-arabic_ayat: هٰذَا يَوۡمُ لَا يَنۡطِقُوۡنَۙ‏
+arabic_ayat: هَٰذَا يَوۡمُ لَا يَنطِقُونَ
 sentence_translation: On that Day they will not ˹be in a position to˺ speak,
 word_by_word:
   1:
-    arabic: هٰذَا
+    arabic: هَٰذَا
     translation: This
     transliteration: hādhā
   2:
@@ -15,7 +15,7 @@ word_by_word:
     translation: not
     transliteration: lā
   4:
-    arabic: يَنۡطِقُوۡنَۙ‏
+    arabic: يَنطِقُونَ
     translation: they will speak
     transliteration: yanṭiqūna
 ---

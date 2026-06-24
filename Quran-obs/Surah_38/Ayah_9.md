@@ -1,18 +1,18 @@
 ---
-arabic_ayat: اَمۡ عِنۡدَهُمۡ خَزَآٮِٕنُ رَحۡمَةِ رَبِّكَ الۡعَزِيۡزِ الۡوَهَّابِ​ۚ‏
+arabic_ayat: أَمۡ عِندَهُمۡ خَزَآئِنُ رَحۡمَةِ رَبِّكَ ٱلۡعَزِيزِ ٱلۡوَهَّابِ
 sentence_translation: Or ˹is it because˺ they possess the treasuries of the mercy
   of your Lord—the Almighty, the Giver ˹of all bounties˺.
 word_by_word:
   1:
-    arabic: اَمۡ
+    arabic: أَمۡ
     translation: Or
     transliteration: am
   2:
-    arabic: عِنۡدَهُمۡ
+    arabic: عِندَهُمۡ
     translation: have they
     transliteration: ʿindahum
   3:
-    arabic: خَزَآٮِٕنُ
+    arabic: خَزَآئِنُ
     translation: (the) treasures
     transliteration: khazāinu
   4:
@@ -24,11 +24,11 @@ word_by_word:
     translation: (of) your Lord
     transliteration: rabbika
   6:
-    arabic: الۡعَزِيۡزِ
+    arabic: ٱلۡعَزِيزِ
     translation: the All-Mighty
     transliteration: l-ʿazīzi
   7:
-    arabic: الۡوَهَّابِ​ۚ‏
+    arabic: ٱلۡوَهَّابِ
     translation: the Bestower
     transliteration: l-wahābi
 ---

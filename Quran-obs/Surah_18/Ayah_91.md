@@ -1,9 +1,9 @@
 ---
-arabic_ayat: كَذٰلِكَؕ وَقَدۡ اَحَطۡنَا بِمَا لَدَيۡهِ خُبۡرًا‏
+arabic_ayat: كَذَٰلِكَۖ وَقَدۡ أَحَطۡنَا بِمَا لَدَيۡهِ خُبۡرٗا
 sentence_translation: So it was. And We truly had full knowledge of him.
 word_by_word:
   1:
-    arabic: كَذٰلِكَؕ
+    arabic: كَذَٰلِكَۖ
     translation: Thus
     transliteration: kadhālika
   2:
@@ -11,7 +11,7 @@ word_by_word:
     translation: And verily
     transliteration: waqad
   3:
-    arabic: اَحَطۡنَا
+    arabic: أَحَطۡنَا
     translation: We encompassed
     transliteration: aḥaṭnā
   4:
@@ -23,7 +23,7 @@ word_by_word:
     translation: (was) with him
     transliteration: ladayhi
   6:
-    arabic: خُبۡرًا‏
+    arabic: خُبۡرٗا
     translation: (of the) information
     transliteration: khub'ran
 ---

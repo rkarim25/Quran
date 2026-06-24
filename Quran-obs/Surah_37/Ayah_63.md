@@ -1,21 +1,21 @@
 ---
-arabic_ayat: اِنَّا جَعَلۡنٰهَا فِتۡنَةً لِّلظّٰلِمِيۡنَ‏
+arabic_ayat: إِنَّا جَعَلۡنَٰهَا فِتۡنَةٗ لِّلظَّٰلِمِينَ
 sentence_translation: We have surely made it a test for the wrongdoers.
 word_by_word:
   1:
-    arabic: اِنَّا
+    arabic: إِنَّا
     translation: Indeed, We
     transliteration: innā
   2:
-    arabic: جَعَلۡنٰهَا
+    arabic: جَعَلۡنَٰهَا
     translation: '[We] have made it'
     transliteration: jaʿalnāhā
   3:
-    arabic: فِتۡنَةً
+    arabic: فِتۡنَةٗ
     translation: a trial
     transliteration: fit'natan
   4:
-    arabic: لِّلظّٰلِمِيۡنَ‏
+    arabic: لِّلظَّٰلِمِينَ
     translation: for the wrongdoers
     transliteration: lilẓẓālimīna
 ---

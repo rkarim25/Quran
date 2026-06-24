@@ -1,5 +1,5 @@
 ---
-arabic_ayat: وَكُلَّ شَىۡءٍ اَحۡصَيۡنٰهُ كِتٰبًا ۙ‏
+arabic_ayat: وَكُلَّ شَيۡءٍ أَحۡصَيۡنَٰهُ كِتَٰبٗا
 sentence_translation: And We have everything recorded precisely.
 word_by_word:
   1:
@@ -7,15 +7,15 @@ word_by_word:
     translation: And every
     transliteration: wakulla
   2:
-    arabic: شَىۡءٍ
+    arabic: شَيۡءٍ
     translation: thing
     transliteration: shayin
   3:
-    arabic: اَحۡصَيۡنٰهُ
+    arabic: أَحۡصَيۡنَٰهُ
     translation: We have enumerated it
     transliteration: aḥṣaynāhu
   4:
-    arabic: كِتٰبًا ۙ‏
+    arabic: كِتَٰبٗا
     translation: (in) a Book
     transliteration: kitāban
 ---

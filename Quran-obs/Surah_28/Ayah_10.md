@@ -1,12 +1,12 @@
 ---
-arabic_ayat: وَاَصۡبَحَ فُؤَادُ اُمِّ مُوۡسٰى فٰرِغًا​ ؕ اِنۡ كَادَتۡ لَـتُبۡدِىۡ
-  بِهٖ لَوۡلَاۤ اَنۡ رَّبَطۡنَا عَلٰى قَلۡبِهَا لِتَكُوۡنَ مِنَ الۡمُؤۡمِنِيۡنَ‏
+arabic_ayat: وَأَصۡبَحَ فُؤَادُ أُمِّ مُوسَىٰ فَٰرِغًاۖ إِن كَادَتۡ لَتُبۡدِي بِهِۦ
+  لَوۡلَآ أَن رَّبَطۡنَا عَلَىٰ قَلۡبِهَا لِتَكُونَ مِنَ ٱلۡمُؤۡمِنِينَ
 sentence_translation: And the heart of Moses’ mother ached so much that she almost
   gave away his identity, had We not reassured her heart in order for her to have
   faith ˹in Allah’s promise˺.
 word_by_word:
   1:
-    arabic: وَاَصۡبَحَ
+    arabic: وَأَصۡبَحَ
     translation: And became
     transliteration: wa-aṣbaḥa
   2:
@@ -14,19 +14,19 @@ word_by_word:
     translation: (the) heart
     transliteration: fuādu
   3:
-    arabic: اُمِّ
+    arabic: أُمِّ
     translation: (of the) mother
     transliteration: ummi
   4:
-    arabic: مُوۡسٰى
+    arabic: مُوسَىٰ
     translation: (of) Musa
     transliteration: mūsā
   5:
-    arabic: فٰرِغًا​ ؕ
+    arabic: فَٰرِغًاۖ
     translation: empty
     transliteration: fārighan
   6:
-    arabic: اِنۡ
+    arabic: إِن
     translation: That
     transliteration: in
   7:
@@ -34,19 +34,19 @@ word_by_word:
     translation: she was near
     transliteration: kādat
   8:
-    arabic: لَـتُبۡدِىۡ
+    arabic: لَتُبۡدِي
     translation: (to) disclosing
     transliteration: latub'dī
   9:
-    arabic: بِهٖ
+    arabic: بِهِۦ
     translation: about him
     transliteration: bihi
   10:
-    arabic: لَوۡلَاۤ
+    arabic: لَوۡلَآ
     translation: if not
     transliteration: lawlā
   11:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that
     transliteration: an
   12:
@@ -54,7 +54,7 @@ word_by_word:
     translation: We strengthened
     transliteration: rabaṭnā
   13:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: '[over]'
     transliteration: ʿalā
   14:
@@ -62,7 +62,7 @@ word_by_word:
     translation: her heart
     transliteration: qalbihā
   15:
-    arabic: لِتَكُوۡنَ
+    arabic: لِتَكُونَ
     translation: so that she would be
     transliteration: litakūna
   16:
@@ -70,7 +70,7 @@ word_by_word:
     translation: of
     transliteration: mina
   17:
-    arabic: الۡمُؤۡمِنِيۡنَ‏
+    arabic: ٱلۡمُؤۡمِنِينَ
     translation: the believers
     transliteration: l-mu'minīna
 ---

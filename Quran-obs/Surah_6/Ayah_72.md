@@ -1,23 +1,22 @@
 ---
-arabic_ayat: "وَاَنۡ اَقِيۡمُوا الصَّلٰوةَ وَ اتَّقُوۡهُ​ ؕ وَهُوَ الَّذِىۡۤ اِلَيۡهِ\
-  \ تُحۡشَرُوۡنَ‏ \uFEFF\uFEFF"
+arabic_ayat: وَأَنۡ أَقِيمُواْ ٱلصَّلَوٰةَ وَٱتَّقُوهُۚ وَهُوَ ٱلَّذِيٓ إِلَيۡهِ تُحۡشَرُونَ
 sentence_translation: establish prayer, and be mindful of Him. To Him you will all
   be gathered together.
 word_by_word:
   1:
-    arabic: وَاَنۡ
+    arabic: وَأَنۡ
     translation: And to
     transliteration: wa-an
   2:
-    arabic: اَقِيۡمُوا
+    arabic: أَقِيمُواْ
     translation: establish
     transliteration: aqīmū
   3:
-    arabic: الصَّلٰوةَ
+    arabic: ٱلصَّلَوٰةَ
     translation: the prayer
     transliteration: l-ṣalata
   4:
-    arabic: وَ اتَّقُوۡهُ​ ؕ
+    arabic: وَٱتَّقُوهُۚ
     translation: and fear Him
     transliteration: wa-ittaqūhu
   5:
@@ -25,15 +24,15 @@ word_by_word:
     translation: And He
     transliteration: wahuwa
   6:
-    arabic: الَّذِىۡۤ
+    arabic: ٱلَّذِيٓ
     translation: (is) the One
     transliteration: alladhī
   7:
-    arabic: اِلَيۡهِ
+    arabic: إِلَيۡهِ
     translation: to Him
     transliteration: ilayhi
   8:
-    arabic: "تُحۡشَرُوۡنَ‏ \uFEFF\uFEFF"
+    arabic: تُحۡشَرُونَ
     translation: you will be gathered
     transliteration: tuḥ'sharūna
 ---

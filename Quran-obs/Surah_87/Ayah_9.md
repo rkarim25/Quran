@@ -1,5 +1,5 @@
 ---
-arabic_ayat: فَذَكِّرۡ اِنۡ نَّفَعَتِ الذِّكۡرٰىؕ‏
+arabic_ayat: فَذَكِّرۡ إِن نَّفَعَتِ ٱلذِّكۡرَىٰ
 sentence_translation: So ˹always˺ remind ˹with the Quran˺—˹even˺ if the reminder is
   beneficial ˹only to some˺.
 word_by_word:
@@ -8,7 +8,7 @@ word_by_word:
     translation: So remind
     transliteration: fadhakkir
   2:
-    arabic: اِنۡ
+    arabic: إِن
     translation: if
     transliteration: in
   3:
@@ -16,7 +16,7 @@ word_by_word:
     translation: benefits
     transliteration: nafaʿati
   4:
-    arabic: الذِّكۡرٰىؕ‏
+    arabic: ٱلذِّكۡرَىٰ
     translation: the reminder
     transliteration: l-dhik'rā
 ---

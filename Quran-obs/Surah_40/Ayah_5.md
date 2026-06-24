@@ -1,7 +1,7 @@
 ---
-arabic_ayat: كَذَّبَتۡ قَبۡلَهُمۡ قَوۡمُ نُوۡحٍ وَّ الۡاَحۡزَابُ مِنۡۢ بَعۡدِهِمۡ
-  وَهَمَّتۡ كُلُّ اُمَّةٍۢ بِرَسُوۡلِهِمۡ لِيَاۡخُذُوۡهُ ؕ وَجَادَلُوۡا بِالۡبَاطِلِ
-  لِيُدۡحِضُوۡا بِهِ الۡحَقَّ فَاَخَذۡتُهُمۡ فَكَيۡفَ كَانَ عِقَابِ‏
+arabic_ayat: كَذَّبَتۡ قَبۡلَهُمۡ قَوۡمُ نُوحٖ وَٱلۡأَحۡزَابُ مِنۢ بَعۡدِهِمۡۖ وَهَمَّتۡ
+  كُلُّ أُمَّةِۭ بِرَسُولِهِمۡ لِيَأۡخُذُوهُۖ وَجَٰدَلُواْ بِٱلۡبَٰطِلِ لِيُدۡحِضُواْ
+  بِهِ ٱلۡحَقَّ فَأَخَذۡتُهُمۡۖ فَكَيۡفَ كَانَ عِقَابِ
 sentence_translation: Before them, the people of Noah denied ˹the truth˺, as did ˹other˺
   enemy forces afterwards. Every community plotted against its prophet to seize him,
   and argued in falsehood, ˹hoping˺ to discredit the truth with it. So I seized them.
@@ -20,19 +20,19 @@ word_by_word:
     translation: (the) people
     transliteration: qawmu
   4:
-    arabic: نُوۡحٍ
+    arabic: نُوحٖ
     translation: (of) Nuh
     transliteration: nūḥin
   5:
-    arabic: وَّ الۡاَحۡزَابُ
+    arabic: وَٱلۡأَحۡزَابُ
     translation: and the factions
     transliteration: wal-aḥzābu
   6:
-    arabic: مِنۡۢ
+    arabic: مِنۢ
     translation: after them
     transliteration: min
   7:
-    arabic: بَعۡدِهِمۡ
+    arabic: بَعۡدِهِمۡۖ
     translation: after them
     transliteration: baʿdihim
   8:
@@ -44,27 +44,27 @@ word_by_word:
     translation: every
     transliteration: kullu
   10:
-    arabic: اُمَّةٍۢ
+    arabic: أُمَّةِۭ
     translation: nation
     transliteration: ummatin
   11:
-    arabic: بِرَسُوۡلِهِمۡ
+    arabic: بِرَسُولِهِمۡ
     translation: against their Messenger
     transliteration: birasūlihim
   12:
-    arabic: لِيَاۡخُذُوۡهُ ؕ
+    arabic: لِيَأۡخُذُوهُۖ
     translation: to seize him
     transliteration: liyakhudhūhu
   13:
-    arabic: وَجَادَلُوۡا
+    arabic: وَجَٰدَلُواْ
     translation: and they disputed
     transliteration: wajādalū
   14:
-    arabic: بِالۡبَاطِلِ
+    arabic: بِٱلۡبَٰطِلِ
     translation: by falsehood
     transliteration: bil-bāṭili
   15:
-    arabic: لِيُدۡحِضُوۡا
+    arabic: لِيُدۡحِضُواْ
     translation: to refute
     transliteration: liyud'ḥiḍū
   16:
@@ -72,11 +72,11 @@ word_by_word:
     translation: thereby
     transliteration: bihi
   17:
-    arabic: الۡحَقَّ
+    arabic: ٱلۡحَقَّ
     translation: the truth
     transliteration: l-ḥaqa
   18:
-    arabic: فَاَخَذۡتُهُمۡ
+    arabic: فَأَخَذۡتُهُمۡۖ
     translation: So I seized them
     transliteration: fa-akhadhtuhum
   19:
@@ -88,7 +88,7 @@ word_by_word:
     translation: was
     transliteration: kāna
   21:
-    arabic: عِقَابِ‏
+    arabic: عِقَابِ
     translation: My penalty
     transliteration: ʿiqābi
 ---

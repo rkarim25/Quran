@@ -1,9 +1,9 @@
 ---
-arabic_ayat: وَعَدَ اللّٰهُ الَّذِيۡنَ اٰمَنُوۡا مِنۡكُمۡ وَ عَمِلُوا الصّٰلِحٰتِ
-  لَـيَسۡتَخۡلِفَـنَّهُمۡ فِى الۡاَرۡضِ كَمَا اسۡتَخۡلَفَ الَّذِيۡنَ مِنۡ قَبۡلِهِمۡ
-  وَلَيُمَكِّنَنَّ لَهُمۡ دِيۡنَهُمُ الَّذِى ارۡتَضٰى لَهُمۡ وَلَـيُبَدِّلَــنَّهُمۡ
-  مِّنۡۢ بَعۡدِ خَوۡفِهِمۡ اَمۡنًا​ ؕ يَعۡبُدُوۡنَنِىۡ لَا يُشۡرِكُوۡنَ بِىۡ شَيۡــًٔــا​
-  ؕ وَمَنۡ كَفَرَ بَعۡدَ ذٰ لِكَ فَاُولٰٓٮِٕكَ هُمُ الۡفٰسِقُوۡنَ‏
+arabic_ayat: وَعَدَ ٱللَّهُ ٱلَّذِينَ ءَامَنُواْ مِنكُمۡ وَعَمِلُواْ ٱلصَّٰلِحَٰتِ
+  لَيَسۡتَخۡلِفَنَّهُمۡ فِي ٱلۡأَرۡضِ كَمَا ٱسۡتَخۡلَفَ ٱلَّذِينَ مِن قَبۡلِهِمۡ وَلَيُمَكِّنَنَّ
+  لَهُمۡ دِينَهُمُ ٱلَّذِي ٱرۡتَضَىٰ لَهُمۡ وَلَيُبَدِّلَنَّهُم مِّنۢ بَعۡدِ خَوۡفِهِمۡ
+  أَمۡنٗاۚ يَعۡبُدُونَنِي لَا يُشۡرِكُونَ بِي شَيۡـٔٗاۚ وَمَن كَفَرَ بَعۡدَ ذَٰلِكَ
+  فَأُوْلَٰٓئِكَ هُمُ ٱلۡفَٰسِقُونَ
 sentence_translation: Allah has promised those of you who believe and do good that
   He will certainly make them successors in the land, as He did with those before
   them; and will surely establish for them their faith which He has chosen for them;
@@ -16,39 +16,39 @@ word_by_word:
     translation: Allah (has) promised
     transliteration: waʿada
   2:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah (has) promised
     transliteration: l-lahu
   3:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ ءَ
     translation: those who
     transliteration: alladhīna
   4:
-    arabic: اٰمَنُوۡا
+    arabic: امَنُواْ
     translation: believe
     transliteration: āmanū
   5:
-    arabic: مِنۡكُمۡ
+    arabic: مِنكُمۡ
     translation: among you
     transliteration: minkum
   6:
-    arabic: وَ عَمِلُوا
+    arabic: وَعَمِلُواْ
     translation: and do
     transliteration: waʿamilū
   7:
-    arabic: الصّٰلِحٰتِ
+    arabic: ٱلصَّٰلِحَٰتِ
     translation: righteous deeds
     transliteration: l-ṣāliḥāti
   8:
-    arabic: لَـيَسۡتَخۡلِفَـنَّهُمۡ
+    arabic: لَيَسۡتَخۡلِفَنَّهُمۡ
     translation: surely He will grant them succession
     transliteration: layastakhlifannahum
   9:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   10:
-    arabic: الۡاَرۡضِ
+    arabic: ٱلۡأَرۡضِ
     translation: the earth
     transliteration: l-arḍi
   11:
@@ -56,19 +56,19 @@ word_by_word:
     translation: as
     transliteration: kamā
   12:
-    arabic: اسۡتَخۡلَفَ
+    arabic: ٱسۡتَخۡلَفَ
     translation: He gave succession
     transliteration: is'takhlafa
   13:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: to those who
     transliteration: alladhīna
   14:
-    arabic: مِنۡ
+    arabic: مِن
     translation: (were) before them
     transliteration: min
   15:
-    arabic: قَبۡلِهِمۡ
+    arabic: قَبۡلِهِمۡ
     translation: (were) before them
     transliteration: qablihim
   16:
@@ -80,15 +80,15 @@ word_by_word:
     translation: for them
     transliteration: lahum
   18:
-    arabic: دِيۡنَهُمُ
+    arabic: دِينَهُمُ
     translation: their religion
     transliteration: dīnahumu
   19:
-    arabic: الَّذِى
+    arabic: ٱلَّذِي
     translation: which
     transliteration: alladhī
   20:
-    arabic: ارۡتَضٰى
+    arabic: ٱرۡتَضَىٰ
     translation: He has approved
     transliteration: ir'taḍā
   21:
@@ -96,11 +96,11 @@ word_by_word:
     translation: for them
     transliteration: lahum
   22:
-    arabic: وَلَـيُبَدِّلَــنَّهُمۡ
+    arabic: وَلَيُبَدِّلَنَّهُم
     translation: and surely He will change for them
     transliteration: walayubaddilannahum
   23:
-    arabic: مِّنۡۢ
+    arabic: مِّنۢ
     translation: after
     transliteration: min
   24:
@@ -112,11 +112,11 @@ word_by_word:
     translation: their fear
     transliteration: khawfihim
   26:
-    arabic: اَمۡنًا​ ؕ
+    arabic: أَمۡنٗاۚ
     translation: security
     transliteration: amnan
   27:
-    arabic: يَعۡبُدُوۡنَنِىۡ
+    arabic: يَعۡبُدُونَنِي
     translation: (for) they worship Me
     transliteration: yaʿbudūnanī
   28:
@@ -124,19 +124,19 @@ word_by_word:
     translation: not
     transliteration: lā
   29:
-    arabic: يُشۡرِكُوۡنَ
+    arabic: يُشۡرِكُونَ
     translation: they associate
     transliteration: yush'rikūna
   30:
-    arabic: بِىۡ
+    arabic: بِي
     translation: with Me
     transliteration: bī
   31:
-    arabic: شَيۡــًٔــا​ ؕ
+    arabic: شَيۡـٔٗاۚ
     translation: anything
     transliteration: shayan
   32:
-    arabic: وَمَنۡ
+    arabic: وَمَن
     translation: But whoever
     transliteration: waman
   33:
@@ -148,11 +148,11 @@ word_by_word:
     translation: after
     transliteration: baʿda
   35:
-    arabic: ذٰ لِكَ
+    arabic: ذَٰلِكَ
     translation: that
     transliteration: dhālika
   36:
-    arabic: فَاُولٰٓٮِٕكَ
+    arabic: فَأُوْلَٰٓئِكَ
     translation: then those
     transliteration: fa-ulāika
   37:
@@ -160,7 +160,7 @@ word_by_word:
     translation: '[they]'
     transliteration: humu
   38:
-    arabic: الۡفٰسِقُوۡنَ‏
+    arabic: ٱلۡفَٰسِقُونَ
     translation: (are) the defiantly disobedient
     transliteration: l-fāsiqūna
 ---

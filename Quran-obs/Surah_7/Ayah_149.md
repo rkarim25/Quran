@@ -1,13 +1,12 @@
 ---
-arabic_ayat: "وَلَـمَّا سُقِطَ فِىۡۤ اَيۡدِيۡهِمۡ وَرَاَوۡا اَنَّهُمۡ قَدۡ ضَلُّوۡا\
-  \ ۙ قَالُوۡا لَٮِٕنۡ لَّمۡ يَرۡحَمۡنَا رَبُّنَا وَيَغۡفِرۡ لَـنَا لَنَكُوۡنَنَّ\
-  \ مِنَ الۡخٰسِرِيۡنَ‏ \uFEFF\uFEFF"
+arabic_ayat: وَلَمَّا سُقِطَ فِيٓ أَيۡدِيهِمۡ وَرَأَوۡاْ أَنَّهُمۡ قَدۡ ضَلُّواْ قَالُواْ
+  لَئِن لَّمۡ يَرۡحَمۡنَا رَبُّنَا وَيَغۡفِرۡ لَنَا لَنَكُونَنَّ مِنَ ٱلۡخَٰسِرِينَ
 sentence_translation: Later, when they were filled with remorse and realized they
   had gone astray, they cried, “If our Lord does not have mercy on us and forgive
   us, we will certainly be losers.”
 word_by_word:
   1:
-    arabic: وَلَـمَّا
+    arabic: وَلَمَّا
     translation: And when
     transliteration: walammā
   2:
@@ -15,19 +14,19 @@ word_by_word:
     translation: (it was made to) fall
     transliteration: suqiṭa
   3:
-    arabic: فِىۡۤ
+    arabic: فِيٓ
     translation: into
     transliteration: fī
   4:
-    arabic: اَيۡدِيۡهِمۡ
+    arabic: أَيۡدِيهِمۡ
     translation: their hands
     transliteration: aydīhim
   5:
-    arabic: وَرَاَوۡا
+    arabic: وَرَأَوۡاْ
     translation: and they saw
     transliteration: wara-aw
   6:
-    arabic: اَنَّهُمۡ
+    arabic: أَنَّهُمۡ
     translation: that they
     transliteration: annahum
   7:
@@ -35,15 +34,15 @@ word_by_word:
     translation: (had) indeed
     transliteration: qad
   8:
-    arabic: ضَلُّوۡا ۙ
+    arabic: ضَلُّواْ
     translation: gone astray
     transliteration: ḍallū
   9:
-    arabic: قَالُوۡا
+    arabic: قَالُواْ
     translation: they said
     transliteration: qālū
   10:
-    arabic: لَٮِٕنۡ
+    arabic: لَئِن
     translation: If
     transliteration: la-in
   11:
@@ -63,11 +62,11 @@ word_by_word:
     translation: and forgive
     transliteration: wayaghfir
   15:
-    arabic: لَـنَا
+    arabic: لَنَا
     translation: '[for] us'
     transliteration: lanā
   16:
-    arabic: لَنَكُوۡنَنَّ
+    arabic: لَنَكُونَنَّ
     translation: we will surely be
     transliteration: lanakūnanna
   17:
@@ -75,7 +74,7 @@ word_by_word:
     translation: among
     transliteration: mina
   18:
-    arabic: "الۡخٰسِرِيۡنَ‏ \uFEFF\uFEFF"
+    arabic: ٱلۡخَٰسِرِينَ
     translation: the losers
     transliteration: l-khāsirīna
 ---

@@ -1,15 +1,15 @@
 ---
-arabic_ayat: الَّذِىۡۤ اَحۡسَنَ كُلَّ شَىۡءٍ خَلَقَهٗ​ وَبَدَاَ خَلۡقَ الۡاِنۡسَانِ
-  مِنۡ طِيۡنٍ​ۚ‏
+arabic_ayat: ٱلَّذِيٓ أَحۡسَنَ كُلَّ شَيۡءٍ خَلَقَهُۥۖ وَبَدَأَ خَلۡقَ ٱلۡإِنسَٰنِ
+  مِن طِينٖ
 sentence_translation: Who has perfected everything He created. And He originated the
   creation of humankind from clay.
 word_by_word:
   1:
-    arabic: الَّذِىۡۤ
+    arabic: ٱلَّذِيٓ
     translation: The One Who
     transliteration: alladhī
   2:
-    arabic: اَحۡسَنَ
+    arabic: أَحۡسَنَ
     translation: made good
     transliteration: aḥsana
   3:
@@ -17,15 +17,15 @@ word_by_word:
     translation: every
     transliteration: kulla
   4:
-    arabic: شَىۡءٍ
+    arabic: شَيۡءٍ
     translation: thing
     transliteration: shayin
   5:
-    arabic: خَلَقَهٗ​
+    arabic: خَلَقَهُۥۖ
     translation: He created
     transliteration: khalaqahu
   6:
-    arabic: وَبَدَاَ
+    arabic: وَبَدَأَ
     translation: and He began
     transliteration: wabada-a
   7:
@@ -33,15 +33,15 @@ word_by_word:
     translation: (the) creation
     transliteration: khalqa
   8:
-    arabic: الۡاِنۡسَانِ
+    arabic: ٱلۡإِنسَٰنِ
     translation: (of) man
     transliteration: l-insāni
   9:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   10:
-    arabic: طِيۡنٍ​ۚ‏
+    arabic: طِينٖ
     translation: clay
     transliteration: ṭīnin
 ---

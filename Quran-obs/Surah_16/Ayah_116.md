@@ -1,7 +1,7 @@
 ---
-arabic_ayat: وَلَا تَقُوۡلُوۡا لِمَا تَصِفُ اَلۡسِنَـتُكُمُ الۡكَذِبَ هٰذَا حَلٰلٌ
-  وَّهٰذَا حَرَامٌ لِّـتَفۡتَرُوۡا عَلَى اللّٰهِ الۡكَذِبَ​ؕ اِنَّ الَّذِيۡنَ يَفۡتَرُوۡنَ
-  عَلَى اللّٰهِ الۡكَذِبَ لَا يُفۡلِحُوۡنَؕ‏
+arabic_ayat: وَلَا تَقُولُواْ لِمَا تَصِفُ أَلۡسِنَتُكُمُ ٱلۡكَذِبَ هَٰذَا حَلَٰلٞ
+  وَهَٰذَا حَرَامٞ لِّتَفۡتَرُواْ عَلَى ٱللَّهِ ٱلۡكَذِبَۚ إِنَّ ٱلَّذِينَ يَفۡتَرُونَ
+  عَلَى ٱللَّهِ ٱلۡكَذِبَ لَا يُفۡلِحُونَ
 sentence_translation: Do not falsely declare with your tongues, “This is lawful, and
   that is unlawful,” ˹only˺ fabricating lies against Allah. Indeed, those who fabricate
   lies against Allah will never succeed.
@@ -11,7 +11,7 @@ word_by_word:
     translation: And (do) not
     transliteration: walā
   2:
-    arabic: تَقُوۡلُوۡا
+    arabic: تَقُولُواْ
     translation: say
     transliteration: taqūlū
   3:
@@ -23,31 +23,31 @@ word_by_word:
     translation: assert
     transliteration: taṣifu
   5:
-    arabic: اَلۡسِنَـتُكُمُ
+    arabic: أَلۡسِنَتُكُمُ
     translation: your tongues
     transliteration: alsinatukumu
   6:
-    arabic: الۡكَذِبَ
+    arabic: ٱلۡكَذِبَ
     translation: the lie
     transliteration: l-kadhiba
   7:
-    arabic: هٰذَا
+    arabic: هَٰذَا
     translation: This
     transliteration: hādhā
   8:
-    arabic: حَلٰلٌ
+    arabic: حَلَٰلٞ
     translation: (is) lawful
     transliteration: ḥalālun
   9:
-    arabic: وَّهٰذَا
+    arabic: وَهَٰذَا
     translation: and this
     transliteration: wahādhā
   10:
-    arabic: حَرَامٌ
+    arabic: حَرَامٞ
     translation: (is) forbidden
     transliteration: ḥarāmun
   11:
-    arabic: لِّـتَفۡتَرُوۡا
+    arabic: لِّتَفۡتَرُواْ
     translation: so that you invent
     transliteration: litaftarū
   12:
@@ -55,23 +55,23 @@ word_by_word:
     translation: about
     transliteration: ʿalā
   13:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   14:
-    arabic: الۡكَذِبَ​ؕ
+    arabic: ٱلۡكَذِبَۚ
     translation: the lie
     transliteration: l-kadhiba
   15:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   16:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   17:
-    arabic: يَفۡتَرُوۡنَ
+    arabic: يَفۡتَرُونَ
     translation: invent
     transliteration: yaftarūna
   18:
@@ -79,11 +79,11 @@ word_by_word:
     translation: about
     transliteration: ʿalā
   19:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   20:
-    arabic: الۡكَذِبَ
+    arabic: ٱلۡكَذِبَ
     translation: the lie
     transliteration: l-kadhiba
   21:
@@ -91,7 +91,7 @@ word_by_word:
     translation: they will not succeed
     transliteration: lā
   22:
-    arabic: يُفۡلِحُوۡنَؕ‏
+    arabic: يُفۡلِحُونَ
     translation: they will not succeed
     transliteration: yuf'liḥūna
 ---

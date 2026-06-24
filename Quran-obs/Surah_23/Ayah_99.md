@@ -1,14 +1,14 @@
 ---
-arabic_ayat: حَتّٰٓى اِذَا جَآءَ اَحَدَهُمُ الۡمَوۡتُ قَالَ رَبِّ ارۡجِعُوۡنِۙ‏
+arabic_ayat: حَتَّىٰٓ إِذَا جَآءَ أَحَدَهُمُ ٱلۡمَوۡتُ قَالَ رَبِّ ٱرۡجِعُونِ
 sentence_translation: When death approaches any of them, they cry, “My Lord! Let me
   go back,
 word_by_word:
   1:
-    arabic: حَتّٰٓى
+    arabic: حَتَّىٰٓ
     translation: Until
     transliteration: ḥattā
   2:
-    arabic: اِذَا
+    arabic: إِذَا
     translation: when
     transliteration: idhā
   3:
@@ -16,11 +16,11 @@ word_by_word:
     translation: comes
     transliteration: jāa
   4:
-    arabic: اَحَدَهُمُ
+    arabic: أَحَدَهُمُ
     translation: (to) one of them
     transliteration: aḥadahumu
   5:
-    arabic: الۡمَوۡتُ
+    arabic: ٱلۡمَوۡتُ
     translation: the death
     transliteration: l-mawtu
   6:
@@ -32,7 +32,7 @@ word_by_word:
     translation: My Lord
     transliteration: rabbi
   8:
-    arabic: ارۡجِعُوۡنِۙ‏
+    arabic: ٱرۡجِعُونِ
     translation: Send me back
     transliteration: ir'jiʿūni
 ---

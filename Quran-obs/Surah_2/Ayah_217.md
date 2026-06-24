@@ -1,11 +1,11 @@
 ---
-arabic_ayat: يَسۡـــَٔلُوۡنَكَ عَنِ الشَّهۡرِ الۡحَـرَامِ قِتَالٍ فِيۡهِ​ؕ قُلۡ قِتَالٌ
-  فِيۡهِ كَبِيۡرٌ ​ؕ وَصَدٌّ عَنۡ سَبِيۡلِ اللّٰهِ وَ کُفۡرٌ ۢ بِهٖ وَالۡمَسۡجِدِ
-  الۡحَـرَامِ وَاِخۡرَاجُ اَهۡلِهٖ مِنۡهُ اَكۡبَرُ عِنۡدَ اللّٰهِ ​​ۚ وَالۡفِتۡنَةُ
-  اَکۡبَرُ مِنَ الۡقَتۡلِ​ؕ وَلَا يَزَالُوۡنَ يُقَاتِلُوۡنَكُمۡ حَتّٰى يَرُدُّوۡكُمۡ
-  عَنۡ دِيۡـنِکُمۡ اِنِ اسۡتَطَاعُوۡا ​ؕ وَمَنۡ يَّرۡتَدِدۡ مِنۡكُمۡ عَنۡ دِيۡـنِهٖ
-  فَيَمُتۡ وَهُوَ کَافِرٌ فَاُولٰٓٮِٕكَ حَبِطَتۡ اَعۡمَالُهُمۡ فِى الدُّنۡيَا وَالۡاٰخِرَةِ ​​ۚ
-  وَاُولٰٓٮِٕكَ اَصۡحٰبُ النَّارِ​​ۚ هُمۡ فِيۡهَا خٰلِدُوۡنَ‏
+arabic_ayat: يَسۡـَٔلُونَكَ عَنِ ٱلشَّهۡرِ ٱلۡحَرَامِ قِتَالٖ فِيهِۖ قُلۡ قِتَالٞ
+  فِيهِ كَبِيرٞۚ وَصَدٌّ عَن سَبِيلِ ٱللَّهِ وَكُفۡرُۢ بِهِۦ وَٱلۡمَسۡجِدِ ٱلۡحَرَامِ
+  وَإِخۡرَاجُ أَهۡلِهِۦ مِنۡهُ أَكۡبَرُ عِندَ ٱللَّهِۚ وَٱلۡفِتۡنَةُ أَكۡبَرُ مِنَ
+  ٱلۡقَتۡلِۗ وَلَا يَزَالُونَ يُقَٰتِلُونَكُمۡ حَتَّىٰ يَرُدُّوكُمۡ عَن دِينِكُمۡ
+  إِنِ ٱسۡتَطَٰعُواْۚ وَمَن يَرۡتَدِدۡ مِنكُمۡ عَن دِينِهِۦ فَيَمُتۡ وَهُوَ كَافِرٞ
+  فَأُوْلَٰٓئِكَ حَبِطَتۡ أَعۡمَٰلُهُمۡ فِي ٱلدُّنۡيَا وَٱلۡأٓخِرَةِۖ وَأُوْلَٰٓئِكَ
+  أَصۡحَٰبُ ٱلنَّارِۖ هُمۡ فِيهَا خَٰلِدُونَ
 sentence_translation: They ask you ˹O Prophet˺ about fighting in the sacred months. Say,
   “Fighting during these months is a great sin. But hindering ˹others˺ from the Path
   of Allah, rejecting Him, and expelling the worshippers from the Sacred Mosque is
@@ -16,7 +16,7 @@ sentence_translation: They ask you ˹O Prophet˺ about fighting in the sacred m
   be the residents of the Fire. They will be there forever.”
 word_by_word:
   1:
-    arabic: يَسۡـــَٔلُوۡنَكَ
+    arabic: يَسۡـَٔلُونَكَ
     translation: They ask you
     transliteration: yasalūnaka
   2:
@@ -24,19 +24,19 @@ word_by_word:
     translation: about
     transliteration: ʿani
   3:
-    arabic: الشَّهۡرِ
+    arabic: ٱلشَّهۡرِ
     translation: the month
     transliteration: l-shahri
   4:
-    arabic: الۡحَـرَامِ
+    arabic: ٱلۡحَرَامِ
     translation: '[the] sacred '
     transliteration: l-ḥarāmi
   5:
-    arabic: قِتَالٍ
+    arabic: قِتَالٖ
     translation: (concerning) fighting
     transliteration: qitālin
   6:
-    arabic: فِيۡهِ​ؕ
+    arabic: فِيهِۖ
     translation: in it
     transliteration: fīhi
   7:
@@ -44,15 +44,15 @@ word_by_word:
     translation: Say
     transliteration: qul
   8:
-    arabic: قِتَالٌ
+    arabic: قِتَالٞ
     translation: Fighting
     transliteration: qitālun
   9:
-    arabic: فِيۡهِ
+    arabic: فِيهِ
     translation: therein
     transliteration: fīhi
   10:
-    arabic: كَبِيۡرٌ ​ؕ
+    arabic: كَبِيرٞۚ
     translation: (is) a great (sin)
     transliteration: kabīrun
   11:
@@ -60,39 +60,39 @@ word_by_word:
     translation: but hindering (people)
     transliteration: waṣaddun
   12:
-    arabic: عَنۡ
+    arabic: عَن
     translation: from
     transliteration: ʿan
   13:
-    arabic: سَبِيۡلِ
+    arabic: سَبِيلِ
     translation: (the) way
     transliteration: sabīli
   14:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (of) Allah
     transliteration: l-lahi
   15:
-    arabic: وَ کُفۡرٌ ۢ
+    arabic: وَكُفۡرُۢ
     translation: and disbelief
     transliteration: wakuf'run
   16:
-    arabic: بِهٖ
+    arabic: بِهِۦ
     translation: in Him
     transliteration: bihi
   17:
-    arabic: وَالۡمَسۡجِدِ
+    arabic: وَٱلۡمَسۡجِدِ
     translation: and (preventing access to) Al-Masjid
     transliteration: wal-masjidi
   18:
-    arabic: الۡحَـرَامِ
+    arabic: ٱلۡحَرَامِ
     translation: Al-Haraam
     transliteration: l-ḥarāmi
   19:
-    arabic: وَاِخۡرَاجُ
+    arabic: وَإِخۡرَاجُ
     translation: and driving out
     transliteration: wa-ikh'rāju
   20:
-    arabic: اَهۡلِهٖ
+    arabic: أَهۡلِهِۦ
     translation: its people
     transliteration: ahlihi
   21:
@@ -100,23 +100,23 @@ word_by_word:
     translation: from it
     transliteration: min'hu
   22:
-    arabic: اَكۡبَرُ
+    arabic: أَكۡبَرُ
     translation: (is) greater (sin)
     transliteration: akbaru
   23:
-    arabic: عِنۡدَ
+    arabic: عِندَ
     translation: near
     transliteration: ʿinda
   24:
-    arabic: اللّٰهِ ​​ۚ
+    arabic: ٱللَّهِۚ
     translation: Allah
     transliteration: l-lahi
   25:
-    arabic: وَالۡفِتۡنَةُ
+    arabic: وَٱلۡفِتۡنَةُ
     translation: And [the] oppression
     transliteration: wal-fit'natu
   26:
-    arabic: اَکۡبَرُ
+    arabic: أَكۡبَرُ
     translation: (is) greater
     transliteration: akbaru
   27:
@@ -124,7 +124,7 @@ word_by_word:
     translation: than
     transliteration: mina
   28:
-    arabic: الۡقَتۡلِ​ؕ
+    arabic: ٱلۡقَتۡلِۗ
     translation: '[the] killing'
     transliteration: l-qatli
   29:
@@ -132,55 +132,55 @@ word_by_word:
     translation: And not
     transliteration: walā
   30:
-    arabic: يَزَالُوۡنَ
+    arabic: يَزَالُونَ
     translation: they will cease
     transliteration: yazālūna
   31:
-    arabic: يُقَاتِلُوۡنَكُمۡ
+    arabic: يُقَٰتِلُونَكُمۡ
     translation: (to) fight with you
     transliteration: yuqātilūnakum
   32:
-    arabic: حَتّٰى
+    arabic: حَتَّىٰ
     translation: until
     transliteration: ḥattā
   33:
-    arabic: يَرُدُّوۡكُمۡ
+    arabic: يَرُدُّوكُمۡ
     translation: they turn you away
     transliteration: yaruddūkum
   34:
-    arabic: عَنۡ
+    arabic: عَن
     translation: from
     transliteration: ʿan
   35:
-    arabic: دِيۡـنِکُمۡ
+    arabic: دِينِكُمۡ
     translation: your religion
     transliteration: dīnikum
   36:
-    arabic: اِنِ
+    arabic: إِنِ
     translation: if
     transliteration: ini
   37:
-    arabic: اسۡتَطَاعُوۡا ​ؕ
+    arabic: ٱسۡتَطَٰعُواْۚ
     translation: they are able
     transliteration: is'taṭāʿū
   38:
-    arabic: وَمَنۡ
+    arabic: وَمَن
     translation: And whoever
     transliteration: waman
   39:
-    arabic: يَّرۡتَدِدۡ
+    arabic: يَرۡتَدِدۡ
     translation: turns away
     transliteration: yartadid
   40:
-    arabic: مِنۡكُمۡ
+    arabic: مِنكُمۡ
     translation: among you
     transliteration: minkum
   41:
-    arabic: عَنۡ
+    arabic: عَن
     translation: from
     transliteration: ʿan
   42:
-    arabic: دِيۡـنِهٖ
+    arabic: دِينِهِۦ
     translation: his religion
     transliteration: dīnihi
   43:
@@ -192,11 +192,11 @@ word_by_word:
     translation: while he
     transliteration: wahuwa
   45:
-    arabic: کَافِرٌ
+    arabic: كَافِرٞ
     translation: (is) a disbeliever
     transliteration: kāfirun
   46:
-    arabic: فَاُولٰٓٮِٕكَ
+    arabic: فَأُوْلَٰٓئِكَ
     translation: for those
     transliteration: fa-ulāika
   47:
@@ -204,31 +204,31 @@ word_by_word:
     translation: became worthless
     transliteration: ḥabiṭat
   48:
-    arabic: اَعۡمَالُهُمۡ
+    arabic: أَعۡمَٰلُهُمۡ
     translation: their deeds
     transliteration: aʿmāluhum
   49:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   50:
-    arabic: الدُّنۡيَا
+    arabic: ٱلدُّنۡيَا
     translation: the world
     transliteration: l-dun'yā
   51:
-    arabic: وَالۡاٰخِرَةِ ​​ۚ
+    arabic: وَٱلۡأٓخِرَةِۖ
     translation: and the Hereafter
     transliteration: wal-ākhirati
   52:
-    arabic: وَاُولٰٓٮِٕكَ
+    arabic: وَأُوْلَٰٓئِكَ
     translation: And those
     transliteration: wa-ulāika
   53:
-    arabic: اَصۡحٰبُ
+    arabic: أَصۡحَٰبُ
     translation: (are) companions
     transliteration: aṣḥābu
   54:
-    arabic: النَّارِ​​ۚ
+    arabic: ٱلنَّارِۖ
     translation: (of) the Fire
     transliteration: l-nāri
   55:
@@ -236,11 +236,11 @@ word_by_word:
     translation: they
     transliteration: hum
   56:
-    arabic: فِيۡهَا
+    arabic: فِيهَا
     translation: in it
     transliteration: fīhā
   57:
-    arabic: خٰلِدُوۡنَ‏
+    arabic: خَٰلِدُونَ
     translation: (will) abide forever
     transliteration: khālidūna
 ---

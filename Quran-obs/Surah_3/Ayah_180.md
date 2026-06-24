@@ -1,8 +1,8 @@
 ---
-arabic_ayat: وَلَا يَحۡسَبَنَّ الَّذِيۡنَ يَبۡخَلُوۡنَ بِمَاۤ اٰتٰٮهُمُ اللّٰهُ مِنۡ
-  فَضۡلِهٖ هُوَ خَيۡـرًا لَّهُمۡ​ؕ بَلۡ هُوَ شَرٌّ لَّهُمۡ​ؕ سَيُطَوَّقُوۡنَ مَا بَخِلُوۡا
-  بِهٖ يَوۡمَ الۡقِيٰمَةِ ​ؕ وَ لِلّٰهِ مِيۡرَاثُ السَّمٰوٰتِ وَالۡاَرۡضِ​ؕ وَاللّٰهُ
-  بِمَا تَعۡمَلُوۡنَ خَبِيۡرٌ‏
+arabic_ayat: وَلَا يَحۡسَبَنَّ ٱلَّذِينَ يَبۡخَلُونَ بِمَآ ءَاتَىٰهُمُ ٱللَّهُ مِن
+  فَضۡلِهِۦ هُوَ خَيۡرٗا لَّهُمۖ بَلۡ هُوَ شَرّٞ لَّهُمۡۖ سَيُطَوَّقُونَ مَا بَخِلُواْ
+  بِهِۦ يَوۡمَ ٱلۡقِيَٰمَةِۗ وَلِلَّهِ مِيرَٰثُ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِۗ وَٱللَّهُ
+  بِمَا تَعۡمَلُونَ خَبِيرٞ
 sentence_translation: And do not let those who ˹greedily˺ withhold Allah’s bounties
   think it is good for them—in fact, it is bad for them! They will be leashed ˹by
   their necks˺ on the Day of Judgment with whatever ˹wealth˺ they used to withhold.
@@ -18,31 +18,31 @@ word_by_word:
     translation: think
     transliteration: yaḥsabanna
   3:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   4:
-    arabic: يَبۡخَلُوۡنَ
+    arabic: يَبۡخَلُونَ
     translation: withhold
     transliteration: yabkhalūna
   5:
-    arabic: بِمَاۤ
+    arabic: بِمَآ ءَ
     translation: of what
     transliteration: bimā
   6:
-    arabic: اٰتٰٮهُمُ
+    arabic: اتَىٰهُمُ
     translation: (has) given them
     transliteration: ātāhumu
   7:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   8:
-    arabic: مِنۡ
+    arabic: مِن
     translation: of
     transliteration: min
   9:
-    arabic: فَضۡلِهٖ
+    arabic: فَضۡلِهِۦ
     translation: His Bounty
     transliteration: faḍlihi
   10:
@@ -50,11 +50,11 @@ word_by_word:
     translation: (that) it
     transliteration: huwa
   11:
-    arabic: خَيۡـرًا
+    arabic: خَيۡرٗا
     translation: (is) good
     transliteration: khayran
   12:
-    arabic: لَّهُمۡ​ؕ
+    arabic: لَّهُمۖ
     translation: for them
     transliteration: lahum
   13:
@@ -66,15 +66,15 @@ word_by_word:
     translation: it
     transliteration: huwa
   15:
-    arabic: شَرٌّ
+    arabic: شَرّٞ
     translation: (is) bad
     transliteration: sharrun
   16:
-    arabic: لَّهُمۡ​ؕ
+    arabic: لَّهُمۡۖ
     translation: for them
     transliteration: lahum
   17:
-    arabic: سَيُطَوَّقُوۡنَ
+    arabic: سَيُطَوَّقُونَ
     translation: Their necks will be encircled
     transliteration: sayuṭawwaqūna
   18:
@@ -82,11 +82,11 @@ word_by_word:
     translation: (with) what
     transliteration: mā
   19:
-    arabic: بَخِلُوۡا
+    arabic: بَخِلُواْ
     translation: they withheld
     transliteration: bakhilū
   20:
-    arabic: بِهٖ
+    arabic: بِهِۦ
     translation: '[with it]'
     transliteration: bihi
   21:
@@ -94,27 +94,27 @@ word_by_word:
     translation: (on the) Day
     transliteration: yawma
   22:
-    arabic: الۡقِيٰمَةِ ​ؕ
+    arabic: ٱلۡقِيَٰمَةِۗ
     translation: (of) [the] Resurrection
     transliteration: l-qiyāmati
   23:
-    arabic: وَ لِلّٰهِ
+    arabic: وَلِلَّهِ
     translation: And for Allah
     transliteration: walillahi
   24:
-    arabic: مِيۡرَاثُ
+    arabic: مِيرَٰثُ
     translation: (is the) heritage
     transliteration: mīrāthu
   25:
-    arabic: السَّمٰوٰتِ
+    arabic: ٱلسَّمَٰوَٰتِ
     translation: (of) the heavens
     transliteration: l-samāwāti
   26:
-    arabic: وَالۡاَرۡضِ​ؕ
+    arabic: وَٱلۡأَرۡضِۗ
     translation: and the earth
     transliteration: wal-arḍi
   27:
-    arabic: وَاللّٰهُ
+    arabic: وَٱللَّهُ
     translation: And Allah
     transliteration: wal-lahu
   28:
@@ -122,11 +122,11 @@ word_by_word:
     translation: with what
     transliteration: bimā
   29:
-    arabic: تَعۡمَلُوۡنَ
+    arabic: تَعۡمَلُونَ
     translation: you do
     transliteration: taʿmalūna
   30:
-    arabic: خَبِيۡرٌ‏
+    arabic: خَبِيرٞ
     translation: (is) All-Aware
     transliteration: khabīrun
 ---

@@ -1,15 +1,15 @@
 ---
-arabic_ayat: "وَلَٮِٕنۡ سَاَلۡـتَهُمۡ مَّنۡ خَلَقَهُمۡ لَيَقُوۡلُنَّ اللّٰهُ​ فَاَنّٰى\
-  \ يُؤۡفَكُوۡنَۙ‏ \uFEFF\uFEFF"
+arabic_ayat: وَلَئِن سَأَلۡتَهُم مَّنۡ خَلَقَهُمۡ لَيَقُولُنَّ ٱللَّهُۖ فَأَنَّىٰ
+  يُؤۡفَكُونَ
 sentence_translation: If you ask them ˹O Prophet˺ who created them, they will certainly
   say, “Allah!” How can they then be deluded ˹from the truth˺?
 word_by_word:
   1:
-    arabic: وَلَٮِٕنۡ
+    arabic: وَلَئِن
     translation: And if
     transliteration: wala-in
   2:
-    arabic: سَاَلۡـتَهُمۡ
+    arabic: سَأَلۡتَهُم
     translation: you ask them
     transliteration: sa-altahum
   3:
@@ -21,19 +21,19 @@ word_by_word:
     translation: created them
     transliteration: khalaqahum
   5:
-    arabic: لَيَقُوۡلُنَّ
+    arabic: لَيَقُولُنَّ
     translation: they will certainly say
     transliteration: layaqūlunna
   6:
-    arabic: اللّٰهُ​
+    arabic: ٱللَّهُۖ
     translation: Allah
     transliteration: l-lahu
   7:
-    arabic: فَاَنّٰى
+    arabic: فَأَنَّىٰ
     translation: Then how
     transliteration: fa-annā
   8:
-    arabic: "يُؤۡفَكُوۡنَۙ‏ \uFEFF\uFEFF"
+    arabic: يُؤۡفَكُونَ
     translation: are they deluded
     transliteration: yu'fakūna
 ---

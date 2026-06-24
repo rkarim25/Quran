@@ -1,35 +1,34 @@
 ---
-arabic_ayat: "فَوَيۡلٌ لِّـلَّذِيۡنَ كَفَرُوۡا مِنۡ يَّوۡمِهِمُ الَّذِىۡ يُوۡعَدُوۡنَ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: فَوَيۡلٞ لِّلَّذِينَ كَفَرُواْ مِن يَوۡمِهِمُ ٱلَّذِي يُوعَدُونَ
 sentence_translation: Woe then to the disbelievers when they face their Day which
   they are warned of!
 word_by_word:
   1:
-    arabic: فَوَيۡلٌ
+    arabic: فَوَيۡلٞ
     translation: Then woe
     transliteration: fawaylun
   2:
-    arabic: لِّـلَّذِيۡنَ
+    arabic: لِّلَّذِينَ
     translation: to those who
     transliteration: lilladhīna
   3:
-    arabic: كَفَرُوۡا
+    arabic: كَفَرُواْ
     translation: disbelieve
     transliteration: kafarū
   4:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   5:
-    arabic: يَّوۡمِهِمُ
+    arabic: يَوۡمِهِمُ
     translation: their Day
     transliteration: yawmihimu
   6:
-    arabic: الَّذِىۡ
+    arabic: ٱلَّذِي
     translation: which
     transliteration: alladhī
   7:
-    arabic: "يُوۡعَدُوۡنَ‏ \uFEFF\uFEFF"
+    arabic: يُوعَدُونَ
     translation: they are promised
     transliteration: yūʿadūna
 ---

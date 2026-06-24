@@ -1,11 +1,11 @@
 ---
-arabic_ayat: وَاِذۡ قَالَ اِبۡرٰهِيۡمُ لِاَبِيۡهِ اٰزَرَ اَتَتَّخِذُ اَصۡنَامًا اٰلِهَةً
-  ​ ۚ اِنِّىۡۤ اَرٰٮكَ وَقَوۡمَكَ فِىۡ ضَلٰلٍ مُّبِيۡنٍ‏
+arabic_ayat: ۞ وَإِذۡ قَالَ إِبۡرَٰهِيمُ لِأَبِيهِ ءَازَرَ أَتَتَّخِذُ أَصۡنَامًا
+  ءَالِهَةً إِنِّيٓ أَرَىٰكَ وَقَوۡمَكَ فِي ضَلَٰلٖ مُّبِينٖ
 sentence_translation: And ˹remember˺ when Abraham said to his father, Ȃzar, “Do you
   take idols as gods? It is clear to me that you and your people are entirely misguided.”
 word_by_word:
   1:
-    arabic: ۞ وَاِذۡ
+    arabic: ۞ وَإِذۡ
     translation: And when
     transliteration: wa-idh
   2:
@@ -13,35 +13,35 @@ word_by_word:
     translation: said
     transliteration: qāla
   3:
-    arabic: اِبۡرٰهِيۡمُ
+    arabic: إِبۡرَٰهِيمُ
     translation: Ibrahim
     transliteration: ib'rāhīmu
   4:
-    arabic: لِاَبِيۡهِ
+    arabic: لِأَبِيهِ ءَ
     translation: to his father
     transliteration: li-abīhi
   5:
-    arabic: اٰزَرَ
+    arabic: ازَرَ
     translation: Azar
     transliteration: āzara
   6:
-    arabic: اَتَتَّخِذُ
+    arabic: أَتَتَّخِذُ
     translation: Do you take
     transliteration: atattakhidhu
   7:
-    arabic: اَصۡنَامًا
+    arabic: أَصۡنَامًا ءَ
     translation: idols
     transliteration: aṣnāman
   8:
-    arabic: اٰلِهَةً ​ ۚ
+    arabic: الِهَةً
     translation: (as) gods
     transliteration: ālihatan
   9:
-    arabic: اِنِّىۡۤ
+    arabic: إِنِّيٓ
     translation: Indeed, I
     transliteration: innī
   10:
-    arabic: اَرٰٮكَ
+    arabic: أَرَىٰكَ
     translation: '[I] see you'
     transliteration: arāka
   11:
@@ -49,15 +49,15 @@ word_by_word:
     translation: and your people
     transliteration: waqawmaka
   12:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   13:
-    arabic: ضَلٰلٍ
+    arabic: ضَلَٰلٖ
     translation: error
     transliteration: ḍalālin
   14:
-    arabic: مُّبِيۡنٍ‏
+    arabic: مُّبِينٖ
     translation: manifest
     transliteration: mubīnin
 ---

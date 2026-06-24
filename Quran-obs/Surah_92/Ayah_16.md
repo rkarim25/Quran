@@ -1,9 +1,9 @@
 ---
-arabic_ayat: الَّذِىۡ كَذَّبَ وَتَوَلّٰىؕ‏
+arabic_ayat: ٱلَّذِي كَذَّبَ وَتَوَلَّىٰ
 sentence_translation: who deny and turn away.
 word_by_word:
   1:
-    arabic: الَّذِىۡ
+    arabic: ٱلَّذِي
     translation: The one who
     transliteration: alladhī
   2:
@@ -11,7 +11,7 @@ word_by_word:
     translation: denied
     transliteration: kadhaba
   3:
-    arabic: وَتَوَلّٰىؕ‏
+    arabic: وَتَوَلَّىٰ
     translation: and turned away
     transliteration: watawallā
 ---

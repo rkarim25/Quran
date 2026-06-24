@@ -1,53 +1,53 @@
 ---
-arabic_ayat: وَالَّذِيۡنَ اٰمَنُوۡا وَهَاجَرُوۡا وَجٰهَدُوۡا فِىۡ سَبِيۡلِ اللّٰهِ
-  وَالَّذِيۡنَ اَاوَوْا وَّنَصَرُوۡۤا اُولٰۤٮِٕكَ هُمُ الۡمُؤۡمِنُوۡنَ حَقًّا​ ؕ لَّهُمۡ
-  مَّغۡفِرَةٌ وَّرِزۡقٌ كَرِيۡمٌ‏
+arabic_ayat: وَٱلَّذِينَ ءَامَنُواْ وَهَاجَرُواْ وَجَٰهَدُواْ فِي سَبِيلِ ٱللَّهِ
+  وَٱلَّذِينَ ءَاوَواْ وَّنَصَرُوٓاْ أُوْلَٰٓئِكَ هُمُ ٱلۡمُؤۡمِنُونَ حَقّٗاۚ لَّهُم
+  مَّغۡفِرَةٞ وَرِزۡقٞ كَرِيمٞ
 sentence_translation: Those who believed, migrated, and struggled in the cause of
   Allah, and those who gave ˹them˺ shelter and help, they are the true believers.
   They will have forgiveness and an honourable provision.
 word_by_word:
   1:
-    arabic: وَالَّذِيۡنَ
+    arabic: وَٱلَّذِينَ ءَ
     translation: And those who
     transliteration: wa-alladhīna
   2:
-    arabic: اٰمَنُوۡا
+    arabic: امَنُواْ
     translation: believed
     transliteration: āmanū
   3:
-    arabic: وَهَاجَرُوۡا
+    arabic: وَهَاجَرُواْ
     translation: and emigrated
     transliteration: wahājarū
   4:
-    arabic: وَجٰهَدُوۡا
+    arabic: وَجَٰهَدُواْ
     translation: and strove hard
     transliteration: wajāhadū
   5:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   6:
-    arabic: سَبِيۡلِ
+    arabic: سَبِيلِ
     translation: (the) way
     transliteration: sabīli
   7:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (of) Allah
     transliteration: l-lahi
   8:
-    arabic: وَالَّذِيۡنَ
+    arabic: وَٱلَّذِينَ
     translation: and those who
     transliteration: wa-alladhīna
   9:
-    arabic: اَاوَوْا
+    arabic: ءَاوَواْ
     translation: gave shelter
     transliteration: āwaw
   10:
-    arabic: وَّنَصَرُوۡۤا
+    arabic: وَّنَصَرُوٓاْ
     translation: and helped
     transliteration: wanaṣarū
   11:
-    arabic: اُولٰۤٮِٕكَ
+    arabic: أُوْلَٰٓئِكَ
     translation: 'those '
     transliteration: ulāika
   12:
@@ -55,27 +55,27 @@ word_by_word:
     translation: they (are)
     transliteration: humu
   13:
-    arabic: الۡمُؤۡمِنُوۡنَ
+    arabic: ٱلۡمُؤۡمِنُونَ
     translation: the believers
     transliteration: l-mu'minūna
   14:
-    arabic: حَقًّا​ ؕ
+    arabic: حَقّٗاۚ
     translation: (in) truth
     transliteration: ḥaqqan
   15:
-    arabic: لَّهُمۡ
+    arabic: لَّهُم
     translation: For them
     transliteration: lahum
   16:
-    arabic: مَّغۡفِرَةٌ
+    arabic: مَّغۡفِرَةٞ
     translation: (is) forgiveness
     transliteration: maghfiratun
   17:
-    arabic: وَّرِزۡقٌ
+    arabic: وَرِزۡقٞ
     translation: and a provision
     transliteration: wariz'qun
   18:
-    arabic: كَرِيۡمٌ‏
+    arabic: كَرِيمٞ
     translation: noble
     transliteration: karīmun
 ---

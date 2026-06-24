@@ -1,6 +1,6 @@
 ---
-arabic_ayat: يَوۡمَ نَـطۡوِىۡ السَّمَآءَ كَطَـىِّ السِّجِلِّ لِلۡكُتُبِ​ ؕ كَمَا
-  بَدَاۡنَاۤ اَوَّلَ خَلۡقٍ نُّعِيۡدُهٗ​ ؕ وَعۡدًا عَلَيۡنَا​ ؕ اِنَّا كُنَّا فٰعِلِيۡنَ‏
+arabic_ayat: يَوۡمَ نَطۡوِي ٱلسَّمَآءَ كَطَيِّ ٱلسِّجِلِّ لِلۡكُتُبِۚ كَمَا بَدَأۡنَآ
+  أَوَّلَ خَلۡقٖ نُّعِيدُهُۥۚ وَعۡدًا عَلَيۡنَآۚ إِنَّا كُنَّا فَٰعِلِينَ
 sentence_translation: On that Day We will roll up the heavens like a scroll of writings.
   Just as We produced the first creation, ˹so˺ shall We reproduce it. That is a promise
   binding on Us. We truly uphold ˹Our promises˺!
@@ -10,23 +10,23 @@ word_by_word:
     translation: (The) Day
     transliteration: yawma
   2:
-    arabic: نَـطۡوِىۡ
+    arabic: نَطۡوِي
     translation: We will fold
     transliteration: naṭwī
   3:
-    arabic: السَّمَآءَ
+    arabic: ٱلسَّمَآءَ
     translation: the heaven
     transliteration: l-samāa
   4:
-    arabic: كَطَـىِّ
+    arabic: كَطَيِّ
     translation: like (the) folding
     transliteration: kaṭayyi
   5:
-    arabic: السِّجِلِّ
+    arabic: ٱلسِّجِلِّ
     translation: (of) a scroll
     transliteration: l-sijili
   6:
-    arabic: لِلۡكُتُبِ​ ؕ
+    arabic: لِلۡكُتُبِۚ
     translation: for records
     transliteration: lil'kutubi
   7:
@@ -34,19 +34,19 @@ word_by_word:
     translation: As
     transliteration: kamā
   8:
-    arabic: بَدَاۡنَاۤ
+    arabic: بَدَأۡنَآ
     translation: We began
     transliteration: badanā
   9:
-    arabic: اَوَّلَ
+    arabic: أَوَّلَ
     translation: (the) first
     transliteration: awwala
   10:
-    arabic: خَلۡقٍ
+    arabic: خَلۡقٖ
     translation: creation
     transliteration: khalqin
   11:
-    arabic: نُّعِيۡدُهٗ​ ؕ
+    arabic: نُّعِيدُهُۥۚ
     translation: We will repeat it
     transliteration: nuʿīduhu
   12:
@@ -54,11 +54,11 @@ word_by_word:
     translation: a promise
     transliteration: waʿdan
   13:
-    arabic: عَلَيۡنَا​ ؕ
+    arabic: عَلَيۡنَآۚ
     translation: upon Us
     transliteration: ʿalaynā
   14:
-    arabic: اِنَّا
+    arabic: إِنَّا
     translation: 'Indeed, We '
     transliteration: innā
   15:
@@ -66,7 +66,7 @@ word_by_word:
     translation: We are
     transliteration: kunnā
   16:
-    arabic: فٰعِلِيۡنَ‏
+    arabic: فَٰعِلِينَ
     translation: (the) Doers
     transliteration: fāʿilīna
 ---

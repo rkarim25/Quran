@@ -1,8 +1,8 @@
 ---
-arabic_ayat: وَلَقَدۡ اَرۡسَلۡنَا رُسُلًا مِّنۡ قَبۡلِكَ مِنۡهُمۡ مَّنۡ قَصَصۡنَا
-  عَلَيۡكَ وَمِنۡهُمۡ مَّنۡ لَّمۡ نَقۡصُصۡ عَلَيۡكَؕ وَمَا كَانَ لِرَسُوۡلٍ اَنۡ يَّاۡتِىَ
-  بِاٰيَةٍ اِلَّا بِاِذۡنِ اللّٰه​ِۚ فَاِذَا جَآءَ اَمۡرُ اللّٰهِ قُضِىَ بِالۡحَقِّ
-  وَخَسِرَ هُنَالِكَ الۡمُبۡطِلُوۡنَ‏
+arabic_ayat: وَلَقَدۡ أَرۡسَلۡنَا رُسُلٗا مِّن قَبۡلِكَ مِنۡهُم مَّن قَصَصۡنَا عَلَيۡكَ
+  وَمِنۡهُم مَّن لَّمۡ نَقۡصُصۡ عَلَيۡكَۗ وَمَا كَانَ لِرَسُولٍ أَن يَأۡتِيَ بِـَٔايَةٍ
+  إِلَّا بِإِذۡنِ ٱللَّهِۚ فَإِذَا جَآءَ أَمۡرُ ٱللَّهِ قُضِيَ بِٱلۡحَقِّ وَخَسِرَ
+  هُنَالِكَ ٱلۡمُبۡطِلُونَ
 sentence_translation: We already sent messengers before you. We have told you the
   stories of some of them, while others We have not. It was not for any messenger
   to bring a sign without Allah’s permission. But when Allah’s decree comes, judgment
@@ -14,15 +14,15 @@ word_by_word:
     translation: And certainly
     transliteration: walaqad
   2:
-    arabic: اَرۡسَلۡنَا
+    arabic: أَرۡسَلۡنَا
     translation: We have sent
     transliteration: arsalnā
   3:
-    arabic: رُسُلًا
+    arabic: رُسُلٗا
     translation: Messengers
     transliteration: rusulan
   4:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: before you
     transliteration: min
   5:
@@ -30,11 +30,11 @@ word_by_word:
     translation: before you
     transliteration: qablika
   6:
-    arabic: مِنۡهُمۡ
+    arabic: مِنۡهُم
     translation: Among them
     transliteration: min'hum
   7:
-    arabic: مَّنۡ
+    arabic: مَّن
     translation: '(are) who '
     transliteration: man
   8:
@@ -46,11 +46,11 @@ word_by_word:
     translation: to you
     transliteration: ʿalayka
   10:
-    arabic: وَمِنۡهُمۡ
+    arabic: وَمِنۡهُم
     translation: and among them
     transliteration: wamin'hum
   11:
-    arabic: مَّنۡ
+    arabic: مَّن
     translation: '(are) who '
     transliteration: man
   12:
@@ -62,7 +62,7 @@ word_by_word:
     translation: We have related
     transliteration: naqṣuṣ
   14:
-    arabic: عَلَيۡكَؕ
+    arabic: عَلَيۡكَۗ
     translation: to you
     transliteration: ʿalayka
   15:
@@ -74,35 +74,35 @@ word_by_word:
     translation: is
     transliteration: kāna
   17:
-    arabic: لِرَسُوۡلٍ
+    arabic: لِرَسُولٍ
     translation: for any Messenger
     transliteration: lirasūlin
   18:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that
     transliteration: an
   19:
-    arabic: يَّاۡتِىَ
+    arabic: يَأۡتِيَ
     translation: he brings
     transliteration: yatiya
   20:
-    arabic: بِاٰيَةٍ
+    arabic: بِـَٔايَةٍ
     translation: a Sign
     transliteration: biāyatin
   21:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   22:
-    arabic: بِاِذۡنِ
+    arabic: بِإِذۡنِ
     translation: by (the) permission
     transliteration: bi-idh'ni
   23:
-    arabic: اللّٰه​ِۚ
+    arabic: ٱللَّهِۚ
     translation: (of) Allah
     transliteration: l-lahi
   24:
-    arabic: فَاِذَا
+    arabic: فَإِذَا
     translation: So when
     transliteration: fa-idhā
   25:
@@ -110,19 +110,19 @@ word_by_word:
     translation: comes
     transliteration: jāa
   26:
-    arabic: اَمۡرُ
+    arabic: أَمۡرُ
     translation: (the) Command
     transliteration: amru
   27:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (of) Allah
     transliteration: l-lahi
   28:
-    arabic: قُضِىَ
+    arabic: قُضِيَ
     translation: it will be decided
     transliteration: quḍiya
   29:
-    arabic: بِالۡحَقِّ
+    arabic: بِٱلۡحَقِّ
     translation: in truth
     transliteration: bil-ḥaqi
   30:
@@ -134,7 +134,7 @@ word_by_word:
     translation: there
     transliteration: hunālika
   32:
-    arabic: الۡمُبۡطِلُوۡنَ‏
+    arabic: ٱلۡمُبۡطِلُونَ
     translation: the falsifiers
     transliteration: l-mub'ṭilūna
 ---

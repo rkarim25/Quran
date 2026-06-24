@@ -1,15 +1,14 @@
 ---
-arabic_ayat: "وَلَـمَّا وَرَدَ مَآءَ مَدۡيَنَ وَجَدَ عَلَيۡهِ اُمَّةً مِّنَ النَّاسِ\
-  \ يَسۡقُوۡنَ  وَوَجَدَ مِنۡ دُوۡنِهِمُ امۡرَاَتَيۡنِ تَذُوۡدٰنِ​ ۚ قَالَ مَا خَطۡبُكُمَا​\
-  \ ؕ قَالَـتَا لَا نَسۡقِىۡ حَتّٰى يُصۡدِرَ الرِّعَآءُ​ وَاَبُوۡنَا شَيۡخٌ كَبِيۡرٌ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: وَلَمَّا وَرَدَ مَآءَ مَدۡيَنَ وَجَدَ عَلَيۡهِ أُمَّةٗ مِّنَ ٱلنَّاسِ
+  يَسۡقُونَ وَوَجَدَ مِن دُونِهِمُ ٱمۡرَأَتَيۡنِ تَذُودَانِۖ قَالَ مَا خَطۡبُكُمَاۖ
+  قَالَتَا لَا نَسۡقِي حَتَّىٰ يُصۡدِرَ ٱلرِّعَآءُۖ وَأَبُونَا شَيۡخٞ كَبِيرٞ
 sentence_translation: When he arrived at the well of Midian, he found a group of people
   watering ˹their herds˺. Apart from them, he noticed two women holding back ˹their
   herd˺. He asked ˹them˺, “What is the problem?” They replied, “We cannot water ˹our
   animals˺ until the ˹other˺ shepherds are done, for our father is a very old man.”
 word_by_word:
   1:
-    arabic: وَلَـمَّا
+    arabic: وَلَمَّا
     translation: And when
     transliteration: walammā
   2:
@@ -33,7 +32,7 @@ word_by_word:
     translation: on it
     transliteration: ʿalayhi
   7:
-    arabic: اُمَّةً
+    arabic: أُمَّةٗ
     translation: a group
     transliteration: ummatan
   8:
@@ -41,11 +40,11 @@ word_by_word:
     translation: of
     transliteration: mina
   9:
-    arabic: النَّاسِ
+    arabic: ٱلنَّاسِ
     translation: men
     transliteration: l-nāsi
   10:
-    arabic: يَسۡقُوۡنَ 
+    arabic: يَسۡقُونَ
     translation: watering
     transliteration: yasqūna
   11:
@@ -53,19 +52,19 @@ word_by_word:
     translation: and he found
     transliteration: wawajada
   12:
-    arabic: مِنۡ
+    arabic: مِن
     translation: besides them
     transliteration: min
   13:
-    arabic: دُوۡنِهِمُ
+    arabic: دُونِهِمُ
     translation: besides them
     transliteration: dūnihimu
   14:
-    arabic: امۡرَاَتَيۡنِ
+    arabic: ٱمۡرَأَتَيۡنِ
     translation: two women
     transliteration: im'ra-atayni
   15:
-    arabic: تَذُوۡدٰنِ​ ۚ
+    arabic: تَذُودَانِۖ
     translation: keeping back
     transliteration: tadhūdāni
   16:
@@ -77,11 +76,11 @@ word_by_word:
     translation: What
     transliteration: mā
   18:
-    arabic: خَطۡبُكُمَا​ ؕ
+    arabic: خَطۡبُكُمَاۖ
     translation: (is the) matter with both of you
     transliteration: khaṭbukumā
   19:
-    arabic: قَالَـتَا
+    arabic: قَالَتَا
     translation: They said
     transliteration: qālatā
   20:
@@ -89,11 +88,11 @@ word_by_word:
     translation: We cannot water
     transliteration: lā
   21:
-    arabic: نَسۡقِىۡ
+    arabic: نَسۡقِي
     translation: We cannot water
     transliteration: nasqī
   22:
-    arabic: حَتّٰى
+    arabic: حَتَّىٰ
     translation: until
     transliteration: ḥattā
   23:
@@ -101,19 +100,19 @@ word_by_word:
     translation: take away
     transliteration: yuṣ'dira
   24:
-    arabic: الرِّعَآءُ​
+    arabic: ٱلرِّعَآءُۖ
     translation: the shepherds
     transliteration: l-riʿāu
   25:
-    arabic: وَاَبُوۡنَا
+    arabic: وَأَبُونَا
     translation: and our father
     transliteration: wa-abūnā
   26:
-    arabic: شَيۡخٌ
+    arabic: شَيۡخٞ
     translation: (is) a very old man
     transliteration: shaykhun
   27:
-    arabic: "كَبِيۡرٌ‏ \uFEFF\uFEFF"
+    arabic: كَبِيرٞ
     translation: (is) a very old man
     transliteration: kabīrun
 ---

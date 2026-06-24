@@ -1,5 +1,5 @@
 ---
-arabic_ayat: ثُمَّ ذَهَبَ اِلٰٓى اَهۡلِهٖ يَتَمَطّٰىؕ‏
+arabic_ayat: ثُمَّ ذَهَبَ إِلَىٰٓ أَهۡلِهِۦ يَتَمَطَّىٰٓ
 sentence_translation: then went to their own people, walking boastfully.
 word_by_word:
   1:
@@ -11,15 +11,15 @@ word_by_word:
     translation: he went
     transliteration: dhahaba
   3:
-    arabic: اِلٰٓى
+    arabic: إِلَىٰٓ
     translation: to
     transliteration: ilā
   4:
-    arabic: اَهۡلِهٖ
+    arabic: أَهۡلِهِۦ
     translation: his family
     transliteration: ahlihi
   5:
-    arabic: يَتَمَطّٰىؕ‏
+    arabic: يَتَمَطَّىٰٓ
     translation: swaggering
     transliteration: yatamaṭṭā
 ---

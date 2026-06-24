@@ -1,14 +1,14 @@
 ---
-arabic_ayat: وَاِذۡ نَادٰى رَبُّكَ مُوۡسٰۤى اَنِ ائۡتِ الۡقَوۡمَ الظّٰلِمِيۡنَۙ‏
+arabic_ayat: وَإِذۡ نَادَىٰ رَبُّكَ مُوسَىٰٓ أَنِ ٱئۡتِ ٱلۡقَوۡمَ ٱلظَّٰلِمِينَ
 sentence_translation: ˹Remember˺ when your Lord called out to Moses, “Go to the wrongdoing
   people—
 word_by_word:
   1:
-    arabic: وَاِذۡ
+    arabic: وَإِذۡ
     translation: And when
     transliteration: wa-idh
   2:
-    arabic: نَادٰى
+    arabic: نَادَىٰ
     translation: your Lord called
     transliteration: nādā
   3:
@@ -16,23 +16,23 @@ word_by_word:
     translation: your Lord called
     transliteration: rabbuka
   4:
-    arabic: مُوۡسٰۤى
+    arabic: مُوسَىٰٓ
     translation: Musa
     transliteration: mūsā
   5:
-    arabic: اَنِ
+    arabic: أَنِ
     translation: '[that]'
     transliteration: ani
   6:
-    arabic: ائۡتِ
+    arabic: ٱئۡتِ
     translation: Go
     transliteration: i'ti
   7:
-    arabic: الۡقَوۡمَ
+    arabic: ٱلۡقَوۡمَ
     translation: (to) the people
     transliteration: l-qawma
   8:
-    arabic: الظّٰلِمِيۡنَۙ‏
+    arabic: ٱلظَّٰلِمِينَ
     translation: (who are) wrongdoers
     transliteration: l-ẓālimīna
 ---

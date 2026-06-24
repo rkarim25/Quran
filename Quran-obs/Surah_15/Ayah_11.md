@@ -1,6 +1,5 @@
 ---
-arabic_ayat: "وَمَا يَاۡتِيۡهِمۡ مِّنۡ رَّسُوۡلٍ اِلَّا كَانُوۡا بِهٖ يَسۡتَهۡزِءُوۡنَ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: وَمَا يَأۡتِيهِم مِّن رَّسُولٍ إِلَّا كَانُواْ بِهِۦ يَسۡتَهۡزِءُونَ
 sentence_translation: but no messenger ever came to them without being mocked.
 word_by_word:
   1:
@@ -8,31 +7,31 @@ word_by_word:
     translation: And not
     transliteration: wamā
   2:
-    arabic: يَاۡتِيۡهِمۡ
+    arabic: يَأۡتِيهِم
     translation: came to them
     transliteration: yatīhim
   3:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: any
     transliteration: min
   4:
-    arabic: رَّسُوۡلٍ
+    arabic: رَّسُولٍ
     translation: Messenger
     transliteration: rasūlin
   5:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: but
     transliteration: illā
   6:
-    arabic: كَانُوۡا
+    arabic: كَانُواْ
     translation: they did
     transliteration: kānū
   7:
-    arabic: بِهٖ
+    arabic: بِهِۦ
     translation: at him
     transliteration: bihi
   8:
-    arabic: "يَسۡتَهۡزِءُوۡنَ‏ \uFEFF\uFEFF"
+    arabic: يَسۡتَهۡزِءُونَ
     translation: mock
     transliteration: yastahziūna
 ---

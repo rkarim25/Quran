@@ -1,19 +1,18 @@
 ---
-arabic_ayat: "اَفَنَضۡرِبُ عَنۡكُمُ الذِّكۡرَ صَفۡحًا اَنۡ كُنۡتُمۡ قَوۡمًا مُّسۡرِفِيۡنَ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: أَفَنَضۡرِبُ عَنكُمُ ٱلذِّكۡرَ صَفۡحًا أَن كُنتُمۡ قَوۡمٗا مُّسۡرِفِينَ
 sentence_translation: Should We then turn the ˹Quranic˺ Reminder away from you ˹simply˺
   because you have been a transgressing people?
 word_by_word:
   1:
-    arabic: اَفَنَضۡرِبُ
+    arabic: أَفَنَضۡرِبُ
     translation: Then should We take away
     transliteration: afanaḍribu
   2:
-    arabic: عَنۡكُمُ
+    arabic: عَنكُمُ
     translation: from you
     transliteration: ʿankumu
   3:
-    arabic: الذِّكۡرَ
+    arabic: ٱلذِّكۡرَ
     translation: the Reminder
     transliteration: l-dhik'ra
   4:
@@ -21,19 +20,19 @@ word_by_word:
     translation: disregarding (you)
     transliteration: ṣafḥan
   5:
-    arabic: اَنۡ
+    arabic: أَن
     translation: because
     transliteration: an
   6:
-    arabic: كُنۡتُمۡ
+    arabic: كُنتُمۡ
     translation: you are
     transliteration: kuntum
   7:
-    arabic: قَوۡمًا
+    arabic: قَوۡمٗا
     translation: a people
     transliteration: qawman
   8:
-    arabic: "مُّسۡرِفِيۡنَ‏ \uFEFF\uFEFF"
+    arabic: مُّسۡرِفِينَ
     translation: transgressing
     transliteration: mus'rifīna
 ---

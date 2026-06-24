@@ -1,15 +1,15 @@
 ---
-arabic_ayat: لَـقَدۡ صَدَقَ اللّٰهُ رَسُوۡلَهُ الرُّءۡيَا بِالۡحَـقِّ​ ۚ لَـتَدۡخُلُنَّ
-  الۡمَسۡجِدَ الۡحَـرَامَ اِنۡ شَآءَ اللّٰهُ اٰمِنِيۡنَۙ مُحَلِّقِيۡنَ رُءُوۡسَكُمۡ
-  وَمُقَصِّرِيۡنَۙ لَا تَخَافُوۡنَ​ؕ فَعَلِمَ مَا لَمۡ تَعۡلَمُوۡا فَجَعَلَ مِنۡ دُوۡنِ
-  ذٰلِكَ فَتۡحًا قَرِيۡبًا‏
+arabic_ayat: لَّقَدۡ صَدَقَ ٱللَّهُ رَسُولَهُ ٱلرُّءۡيَا بِٱلۡحَقِّۖ لَتَدۡخُلُنَّ
+  ٱلۡمَسۡجِدَ ٱلۡحَرَامَ إِن شَآءَ ٱللَّهُ ءَامِنِينَ مُحَلِّقِينَ رُءُوسَكُمۡ وَمُقَصِّرِينَ
+  لَا تَخَافُونَۖ فَعَلِمَ مَا لَمۡ تَعۡلَمُواْ فَجَعَلَ مِن دُونِ ذَٰلِكَ فَتۡحٗا
+  قَرِيبًا
 sentence_translation: 'Indeed, Allah will fulfil His Messenger’s vision in all truth:
   Allah willing, you will surely enter the Sacred Mosque, in security—˹some with˺
   heads shaved and ˹others with˺ hair shortened—without fear. He knew what you did
   not know, so He first granted you the triumph at hand.'
 word_by_word:
   1:
-    arabic: لَـقَدۡ
+    arabic: لَّقَدۡ
     translation: Certainly
     transliteration: laqad
   2:
@@ -17,35 +17,35 @@ word_by_word:
     translation: Allah has fulfilled
     transliteration: ṣadaqa
   3:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah has fulfilled
     transliteration: l-lahu
   4:
-    arabic: رَسُوۡلَهُ
+    arabic: رَسُولَهُ
     translation: His Messenger's
     transliteration: rasūlahu
   5:
-    arabic: الرُّءۡيَا
+    arabic: ٱلرُّءۡيَا
     translation: vision
     transliteration: l-ru'yā
   6:
-    arabic: بِالۡحَـقِّ​ ۚ
+    arabic: بِٱلۡحَقِّۖ
     translation: in truth
     transliteration: bil-ḥaqi
   7:
-    arabic: لَـتَدۡخُلُنَّ
+    arabic: لَتَدۡخُلُنَّ
     translation: Surely, you will enter
     transliteration: latadkhulunna
   8:
-    arabic: الۡمَسۡجِدَ
+    arabic: ٱلۡمَسۡجِدَ
     translation: Al-Masjid Al-Haraam
     transliteration: l-masjida
   9:
-    arabic: الۡحَـرَامَ
+    arabic: ٱلۡحَرَامَ
     translation: Al-Masjid Al-Haraam
     transliteration: l-ḥarāma
   10:
-    arabic: اِنۡ
+    arabic: إِن
     translation: if
     transliteration: in
   11:
@@ -53,23 +53,23 @@ word_by_word:
     translation: Allah wills
     transliteration: shāa
   12:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ ءَ
     translation: Allah wills
     transliteration: l-lahu
   13:
-    arabic: اٰمِنِيۡنَۙ
+    arabic: امِنِينَ
     translation: secure
     transliteration: āminīna
   14:
-    arabic: مُحَلِّقِيۡنَ
+    arabic: مُحَلِّقِينَ
     translation: having shaved
     transliteration: muḥalliqīna
   15:
-    arabic: رُءُوۡسَكُمۡ
+    arabic: رُءُوسَكُمۡ
     translation: your heads
     transliteration: ruūsakum
   16:
-    arabic: وَمُقَصِّرِيۡنَۙ
+    arabic: وَمُقَصِّرِينَ
     translation: and shortened
     transliteration: wamuqaṣṣirīna
   17:
@@ -77,7 +77,7 @@ word_by_word:
     translation: not
     transliteration: lā
   18:
-    arabic: تَخَافُوۡنَ​ؕ
+    arabic: تَخَافُونَۖ
     translation: fearing
     transliteration: takhāfūna
   19:
@@ -93,7 +93,7 @@ word_by_word:
     translation: not
     transliteration: lam
   22:
-    arabic: تَعۡلَمُوۡا
+    arabic: تَعۡلَمُواْ
     translation: you knew
     transliteration: taʿlamū
   23:
@@ -101,23 +101,23 @@ word_by_word:
     translation: and He made
     transliteration: fajaʿala
   24:
-    arabic: مِنۡ
+    arabic: مِن
     translation: besides
     transliteration: min
   25:
-    arabic: دُوۡنِ
+    arabic: دُونِ
     translation: besides
     transliteration: dūni
   26:
-    arabic: ذٰلِكَ
+    arabic: ذَٰلِكَ
     translation: that
     transliteration: dhālika
   27:
-    arabic: فَتۡحًا
+    arabic: فَتۡحٗا
     translation: a victory
     transliteration: fatḥan
   28:
-    arabic: قَرِيۡبًا‏
+    arabic: قَرِيبًا
     translation: near
     transliteration: qarīban
 ---

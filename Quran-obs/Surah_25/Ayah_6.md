@@ -1,6 +1,6 @@
 ---
-arabic_ayat: قُلۡ اَنۡزَلَهُ الَّذِىۡ يَعۡلَمُ السِّرَّ فِى السَّمٰوٰتِ وَالۡاَرۡضِ​ؕ
-  اِنَّهٗ كَانَ غَفُوۡرًا رَّحِيۡمًا‏
+arabic_ayat: قُلۡ أَنزَلَهُ ٱلَّذِي يَعۡلَمُ ٱلسِّرَّ فِي ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِۚ
+  إِنَّهُۥ كَانَ غَفُورٗا رَّحِيمٗا
 sentence_translation: Say, ˹O Prophet,˺ “This ˹Quran˺ has been revealed by the One
   Who knows the secrets of the heavens and the earth. Surely He is All-Forgiving,
   Most Merciful.” 
@@ -10,11 +10,11 @@ word_by_word:
     translation: Say
     transliteration: qul
   2:
-    arabic: اَنۡزَلَهُ
+    arabic: أَنزَلَهُ
     translation: Has sent it down
     transliteration: anzalahu
   3:
-    arabic: الَّذِىۡ
+    arabic: ٱلَّذِي
     translation: the One Who
     transliteration: alladhī
   4:
@@ -22,23 +22,23 @@ word_by_word:
     translation: knows
     transliteration: yaʿlamu
   5:
-    arabic: السِّرَّ
+    arabic: ٱلسِّرَّ
     translation: the secret
     transliteration: l-sira
   6:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   7:
-    arabic: السَّمٰوٰتِ
+    arabic: ٱلسَّمَٰوَٰتِ
     translation: the heavens
     transliteration: l-samāwāti
   8:
-    arabic: وَالۡاَرۡضِ​ؕ
+    arabic: وَٱلۡأَرۡضِۚ
     translation: and the earth
     transliteration: wal-arḍi
   9:
-    arabic: اِنَّهٗ
+    arabic: إِنَّهُۥ
     translation: Indeed, He
     transliteration: innahu
   10:
@@ -46,11 +46,11 @@ word_by_word:
     translation: is
     transliteration: kāna
   11:
-    arabic: غَفُوۡرًا
+    arabic: غَفُورٗا
     translation: Oft-Forgiving
     transliteration: ghafūran
   12:
-    arabic: رَّحِيۡمًا‏
+    arabic: رَّحِيمٗا
     translation: Most Merciful
     transliteration: raḥīman
 ---

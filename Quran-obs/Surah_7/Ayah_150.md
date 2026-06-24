@@ -1,9 +1,9 @@
 ---
-arabic_ayat: وَلَمَّا رَجَعَ مُوۡسٰٓى اِلٰى قَوۡمِهٖ غَضۡبَانَ اَسِفًا ۙ قَالَ بِئۡسَمَا
-  خَلَفۡتُمُوۡنِىۡ مِنۡۢ بَعۡدِىۡ ۚ اَعَجِلۡتُمۡ اَمۡرَ رَبِّكُمۡ​ ۚ وَاَلۡقَى الۡاَلۡوَاحَ
-  وَاَخَذَ بِرَاۡسِ اَخِيۡهِ يَجُرُّهٗۤ اِلَيۡهِ​ؕ قَالَ ابۡنَ اُمَّ اِنَّ الۡـقَوۡمَ
-  اسۡتَضۡعَفُوۡنِىۡ وَكَادُوۡا يَقۡتُلُوۡنَنِىۡ ​ۖ  فَلَا تُشۡمِتۡ بِىَ الۡاَعۡدَآءَ
-  وَ لَا تَجۡعَلۡنِىۡ مَعَ الۡقَوۡمِ الظّٰلِمِيۡنَ‏
+arabic_ayat: وَلَمَّا رَجَعَ مُوسَىٰٓ إِلَىٰ قَوۡمِهِۦ غَضۡبَٰنَ أَسِفٗا قَالَ بِئۡسَمَا
+  خَلَفۡتُمُونِي مِنۢ بَعۡدِيٓۖ أَعَجِلۡتُمۡ أَمۡرَ رَبِّكُمۡۖ وَأَلۡقَى ٱلۡأَلۡوَاحَ
+  وَأَخَذَ بِرَأۡسِ أَخِيهِ يَجُرُّهُۥٓ إِلَيۡهِۚ قَالَ ٱبۡنَ أُمَّ إِنَّ ٱلۡقَوۡمَ
+  ٱسۡتَضۡعَفُونِي وَكَادُواْ يَقۡتُلُونَنِي فَلَا تُشۡمِتۡ بِيَ ٱلۡأَعۡدَآءَ وَلَا
+  تَجۡعَلۡنِي مَعَ ٱلۡقَوۡمِ ٱلظَّٰلِمِينَ
 sentence_translation: Upon Moses’ return to his people, ˹totally˺ furious and sorrowful,
   he said, “What an evil thing you committed in my absence! Did you want to hasten
   your Lord’s torment?” Then he threw down the Tablets and grabbed his brother by
@@ -20,23 +20,23 @@ word_by_word:
     translation: returned
     transliteration: rajaʿa
   3:
-    arabic: مُوۡسٰٓى
+    arabic: مُوسَىٰٓ
     translation: Musa
     transliteration: mūsā
   4:
-    arabic: اِلٰى
+    arabic: إِلَىٰ
     translation: to
     transliteration: ilā
   5:
-    arabic: قَوۡمِهٖ
+    arabic: قَوۡمِهِۦ
     translation: 'his people '
     transliteration: qawmihi
   6:
-    arabic: غَضۡبَانَ
+    arabic: غَضۡبَٰنَ
     translation: angry
     transliteration: ghaḍbāna
   7:
-    arabic: اَسِفًا ۙ
+    arabic: أَسِفٗا
     translation: and grieved
     transliteration: asifan
   8:
@@ -48,55 +48,55 @@ word_by_word:
     translation: Evil is what
     transliteration: bi'samā
   10:
-    arabic: خَلَفۡتُمُوۡنِىۡ
+    arabic: خَلَفۡتُمُونِي
     translation: you have done in my place
     transliteration: khalaftumūnī
   11:
-    arabic: مِنۡۢ
+    arabic: مِنۢ
     translation: from
     transliteration: min
   12:
-    arabic: بَعۡدِىۡ ۚ
+    arabic: بَعۡدِيٓۖ
     translation: after me
     transliteration: baʿdī
   13:
-    arabic: اَعَجِلۡتُمۡ
+    arabic: أَعَجِلۡتُمۡ
     translation: Were you impatient
     transliteration: aʿajil'tum
   14:
-    arabic: اَمۡرَ
+    arabic: أَمۡرَ
     translation: (over the) matter
     transliteration: amra
   15:
-    arabic: رَبِّكُمۡ​ ۚ
+    arabic: رَبِّكُمۡۖ
     translation: (of) your Lord
     transliteration: rabbikum
   16:
-    arabic: وَاَلۡقَى
+    arabic: وَأَلۡقَى
     translation: And he cast down
     transliteration: wa-alqā
   17:
-    arabic: الۡاَلۡوَاحَ
+    arabic: ٱلۡأَلۡوَاحَ
     translation: the tablets
     transliteration: l-alwāḥa
   18:
-    arabic: وَاَخَذَ
+    arabic: وَأَخَذَ
     translation: and seized
     transliteration: wa-akhadha
   19:
-    arabic: بِرَاۡسِ
+    arabic: بِرَأۡسِ
     translation: by head
     transliteration: birasi
   20:
-    arabic: اَخِيۡهِ
+    arabic: أَخِيهِ
     translation: his brother
     transliteration: akhīhi
   21:
-    arabic: يَجُرُّهٗۤ
+    arabic: يَجُرُّهُۥٓ
     translation: dragging him
     transliteration: yajurruhu
   22:
-    arabic: اِلَيۡهِ​ؕ
+    arabic: إِلَيۡهِۚ
     translation: to himself
     transliteration: ilayhi
   23:
@@ -104,31 +104,31 @@ word_by_word:
     translation: He said
     transliteration: qāla
   24:
-    arabic: ابۡنَ
+    arabic: ٱبۡنَ
     translation: O son
     transliteration: ib'na
   25:
-    arabic: اُمَّ
+    arabic: أُمَّ
     translation: (of) my mother
     transliteration: umma
   26:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   27:
-    arabic: الۡـقَوۡمَ
+    arabic: ٱلۡقَوۡمَ
     translation: the people
     transliteration: l-qawma
   28:
-    arabic: اسۡتَضۡعَفُوۡنِىۡ
+    arabic: ٱسۡتَضۡعَفُونِي
     translation: considered me weak
     transliteration: is'taḍʿafūnī
   29:
-    arabic: وَكَادُوۡا
+    arabic: وَكَادُواْ
     translation: and were about to
     transliteration: wakādū
   30:
-    arabic: يَقۡتُلُوۡنَنِىۡ ​ۖ 
+    arabic: يَقۡتُلُونَنِي
     translation: kill me
     transliteration: yaqtulūnanī
   31:
@@ -140,19 +140,19 @@ word_by_word:
     translation: rejoice
     transliteration: tush'mit
   33:
-    arabic: بِىَ
+    arabic: بِيَ
     translation: over me
     transliteration: biya
   34:
-    arabic: الۡاَعۡدَآءَ
+    arabic: ٱلۡأَعۡدَآءَ
     translation: the enemies
     transliteration: l-aʿdāa
   35:
-    arabic: وَ لَا
+    arabic: وَلَا
     translation: and (do) not
     transliteration: walā
   36:
-    arabic: تَجۡعَلۡنِىۡ
+    arabic: تَجۡعَلۡنِي
     translation: place me
     transliteration: tajʿalnī
   37:
@@ -160,11 +160,11 @@ word_by_word:
     translation: with
     transliteration: maʿa
   38:
-    arabic: الۡقَوۡمِ
+    arabic: ٱلۡقَوۡمِ
     translation: the people
     transliteration: l-qawmi
   39:
-    arabic: الظّٰلِمِيۡنَ‏
+    arabic: ٱلظَّٰلِمِينَ
     translation: (who are) wrongdoing
     transliteration: l-ẓālimīna
 ---

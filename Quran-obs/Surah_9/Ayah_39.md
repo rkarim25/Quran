@@ -1,17 +1,16 @@
 ---
-arabic_ayat: اِلَّا تَـنۡفِرُوۡا يُعَذِّبۡكُمۡ عَذَابًا اَلِيۡمًا   ۙ وَّيَسۡتَبۡدِلۡ
-  قَوۡمًا غَيۡرَكُمۡ وَلَا تَضُرُّوۡهُ شَيۡـًٔــا​ ؕ وَاللّٰهُ عَلٰى كُلِّ شَىۡءٍ
-  قَدِيۡرٌ‏
+arabic_ayat: إِلَّا تَنفِرُواْ يُعَذِّبۡكُمۡ عَذَابًا أَلِيمٗا وَيَسۡتَبۡدِلۡ قَوۡمًا
+  غَيۡرَكُمۡ وَلَا تَضُرُّوهُ شَيۡـٔٗاۗ وَٱللَّهُ عَلَىٰ كُلِّ شَيۡءٖ قَدِيرٌ
 sentence_translation: If you do not march forth, He will afflict you with a painful
   torment and replace you with other people. You are not harming Him in the least.
   And Allah is Most Capable of everything.
 word_by_word:
   1:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: If not
     transliteration: illā
   2:
-    arabic: تَـنۡفِرُوۡا
+    arabic: تَنفِرُواْ
     translation: you go forth
     transliteration: tanfirū
   3:
@@ -23,11 +22,11 @@ word_by_word:
     translation: (with) a painful punishment
     transliteration: ʿadhāban
   5:
-    arabic: اَلِيۡمًا   ۙ
+    arabic: أَلِيمٗا
     translation: (with) a painful punishment
     transliteration: alīman
   6:
-    arabic: وَّيَسۡتَبۡدِلۡ
+    arabic: وَيَسۡتَبۡدِلۡ
     translation: and will replace you
     transliteration: wayastabdil
   7:
@@ -43,19 +42,19 @@ word_by_word:
     translation: and not
     transliteration: walā
   10:
-    arabic: تَضُرُّوۡهُ
+    arabic: تَضُرُّوهُ
     translation: you can harm Him
     transliteration: taḍurrūhu
   11:
-    arabic: شَيۡـًٔــا​ ؕ
+    arabic: شَيۡـٔٗاۗ
     translation: (in) anything
     transliteration: shayan
   12:
-    arabic: وَاللّٰهُ
+    arabic: وَٱللَّهُ
     translation: And Allah
     transliteration: wal-lahu
   13:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: (is) on
     transliteration: ʿalā
   14:
@@ -63,11 +62,11 @@ word_by_word:
     translation: every
     transliteration: kulli
   15:
-    arabic: شَىۡءٍ
+    arabic: شَيۡءٖ
     translation: thing
     transliteration: shayin
   16:
-    arabic: قَدِيۡرٌ‏
+    arabic: قَدِيرٌ
     translation: All-Powerful
     transliteration: qadīrun
 ---

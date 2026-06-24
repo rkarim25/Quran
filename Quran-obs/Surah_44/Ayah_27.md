@@ -1,21 +1,21 @@
 ---
-arabic_ayat: وَّنَعۡمَةٍ كَانُوۡا فِيۡهَا فٰكِهِيۡنَۙ‏
+arabic_ayat: وَنَعۡمَةٖ كَانُواْ فِيهَا فَٰكِهِينَ
 sentence_translation: and luxuries which they fully enjoyed.
 word_by_word:
   1:
-    arabic: وَّنَعۡمَةٍ
+    arabic: وَنَعۡمَةٖ
     translation: And pleasant things
     transliteration: wanaʿmatin
   2:
-    arabic: كَانُوۡا
+    arabic: كَانُواْ
     translation: they used to
     transliteration: kānū
   3:
-    arabic: فِيۡهَا
+    arabic: فِيهَا
     translation: therein
     transliteration: fīhā
   4:
-    arabic: فٰكِهِيۡنَۙ‏
+    arabic: فَٰكِهِينَ
     translation: take delight
     transliteration: fākihīna
 ---

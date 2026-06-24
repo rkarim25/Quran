@@ -1,19 +1,19 @@
 ---
-arabic_ayat: فِىۡ قُلُوۡبِهِمۡ مَّرَضٌۙ فَزَادَهُمُ اللّٰهُ مَرَضًا ​ۚ وَّلَهُمۡ عَذَابٌ
-  اَلِيۡمٌۙۢبِمَا كَانُوۡا يَكۡذِبُوۡنَ‏
+arabic_ayat: فِي قُلُوبِهِم مَّرَضٞ فَزَادَهُمُ ٱللَّهُ مَرَضٗاۖ وَلَهُمۡ عَذَابٌ
+  أَلِيمُۢ بِمَا كَانُواْ يَكۡذِبُونَ
 sentence_translation: There is sickness in their hearts, and Allah ˹only˺ lets their
   sickness increase. They will suffer a painful punishment for their lies.
 word_by_word:
   1:
-    arabic: فِىۡ
+    arabic: فِي
     translation: In
     transliteration: fī
   2:
-    arabic: قُلُوۡبِهِمۡ
+    arabic: قُلُوبِهِم
     translation: their hearts
     transliteration: qulūbihim
   3:
-    arabic: مَّرَضٌۙ
+    arabic: مَّرَضٞ
     translation: (is) a disease
     transliteration: maraḍun
   4:
@@ -21,15 +21,15 @@ word_by_word:
     translation: so has increased them
     transliteration: fazādahumu
   5:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   6:
-    arabic: مَرَضًا ​ۚ
+    arabic: مَرَضٗاۖ
     translation: (in) disease
     transliteration: maraḍan
   7:
-    arabic: وَّلَهُمۡ
+    arabic: وَلَهُمۡ
     translation: and for them
     transliteration: walahum
   8:
@@ -37,19 +37,19 @@ word_by_word:
     translation: (is) a punishment
     transliteration: ʿadhābun
   9:
-    arabic: اَلِيۡمٌۢۙ
+    arabic: أَلِيمُۢ
     translation: painful
     transliteration: alīmun
   10:
-    arabic: بِمَا
+    arabic: بِمَا
     translation: because
     transliteration: bimā
   11:
-    arabic: كَانُوۡا
+    arabic: كَانُواْ
     translation: they used to
     transliteration: kānū
   12:
-    arabic: يَكۡذِبُوۡنَ‏
+    arabic: يَكۡذِبُونَ
     translation: '[they] lie'
     transliteration: yakdhibūna
 ---

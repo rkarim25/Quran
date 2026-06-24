@@ -1,40 +1,40 @@
 ---
-arabic_ayat: مَا نَنۡسَخۡ مِنۡ اٰيَةٍ اَوۡ نُنۡسِهَا نَاۡتِ بِخَيۡرٍ مِّنۡهَآ اَوۡ
-  مِثۡلِهَا ​ؕ اَلَمۡ تَعۡلَمۡ اَنَّ اللّٰهَ عَلٰى كُلِّ شَىۡءٍ قَدِيۡرٌ‏
+arabic_ayat: ۞ مَا نَنسَخۡ مِنۡ ءَايَةٍ أَوۡ نُنسِهَا نَأۡتِ بِخَيۡرٖ مِّنۡهَآ أَوۡ
+  مِثۡلِهَآۗ أَلَمۡ تَعۡلَمۡ أَنَّ ٱللَّهَ عَلَىٰ كُلِّ شَيۡءٖ قَدِيرٌ
 sentence_translation: If We ever abrogate a verse or cause it to be forgotten, We
   replace it with a better or similar one. Do you not know that Allah is Most Capable
   of everything?
 word_by_word:
   1:
-    arabic: ۞ مَا
+    arabic: ۞ مَا
     translation: What
     transliteration: mā
   2:
-    arabic: نَنۡسَخۡ
+    arabic: نَنسَخۡ
     translation: We abrogate
     transliteration: nansakh
   3:
-    arabic: مِنۡ
+    arabic: مِنۡ ءَ
     translation: (of)
     transliteration: min
   4:
-    arabic: اٰيَةٍ
+    arabic: ايَةٍ
     translation: a sign
     transliteration: āyatin
   5:
-    arabic: اَوۡ
+    arabic: أَوۡ
     translation: or
     transliteration: aw
   6:
-    arabic: نُنۡسِهَا
+    arabic: نُنسِهَا
     translation: '[We] cause it to be forgotten'
     transliteration: nunsihā
   7:
-    arabic: نَاۡتِ
+    arabic: نَأۡتِ
     translation: We bring
     transliteration: nati
   8:
-    arabic: بِخَيۡرٍ
+    arabic: بِخَيۡرٖ
     translation: better
     transliteration: bikhayrin
   9:
@@ -42,15 +42,15 @@ word_by_word:
     translation: than it
     transliteration: min'hā
   10:
-    arabic: اَوۡ
+    arabic: أَوۡ
     translation: or
     transliteration: aw
   11:
-    arabic: مِثۡلِهَا ​ؕ
+    arabic: مِثۡلِهَآۗ
     translation: similar (to) it
     transliteration: mith'lihā
   12:
-    arabic: اَلَمۡ
+    arabic: أَلَمۡ
     translation: Do not
     transliteration: alam
   13:
@@ -58,15 +58,15 @@ word_by_word:
     translation: you know
     transliteration: taʿlam
   14:
-    arabic: اَنَّ
+    arabic: أَنَّ
     translation: that
     transliteration: anna
   15:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   16:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: over
     transliteration: ʿalā
   17:
@@ -74,11 +74,11 @@ word_by_word:
     translation: every
     transliteration: kulli
   18:
-    arabic: شَىۡءٍ
+    arabic: شَيۡءٖ
     translation: thing
     transliteration: shayin
   19:
-    arabic: قَدِيۡرٌ‏
+    arabic: قَدِيرٌ
     translation: (is) All-Powerful
     transliteration: qadīrun
 ---

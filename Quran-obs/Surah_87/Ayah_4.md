@@ -1,17 +1,17 @@
 ---
-arabic_ayat: وَالَّذِىۡۤ اَخۡرَجَ الۡمَرۡعٰى ۙ‏
+arabic_ayat: وَٱلَّذِيٓ أَخۡرَجَ ٱلۡمَرۡعَىٰ
 sentence_translation: and Who brings forth ˹green˺ pasture,
 word_by_word:
   1:
-    arabic: وَالَّذِىۡۤ
+    arabic: وَٱلَّذِيٓ
     translation: And the One Who
     transliteration: wa-alladhī
   2:
-    arabic: اَخۡرَجَ
+    arabic: أَخۡرَجَ
     translation: brings forth
     transliteration: akhraja
   3:
-    arabic: الۡمَرۡعٰى ۙ‏
+    arabic: ٱلۡمَرۡعَىٰ
     translation: the pasture
     transliteration: l-marʿā
 ---

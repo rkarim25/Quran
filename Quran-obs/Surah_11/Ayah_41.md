@@ -1,19 +1,19 @@
 ---
-arabic_ayat: وَقَالَ ارۡكَبُوۡا فِيۡهَا بِسۡمِ اللّٰهِ مَجْرٖٮٰھَا وَمُرۡسٰٮهَا ​ؕ
-  اِنَّ رَبِّىۡ لَـغَفُوۡرٌ رَّحِيۡمٌ ‏
+arabic_ayat: ۞ وَقَالَ ٱرۡكَبُواْ فِيهَا بِسۡمِ ٱللَّهِ مَجۡر۪ىٰهَا وَمُرۡسَىٰهَآۚ
+  إِنَّ رَبِّي لَغَفُورٞ رَّحِيمٞ
 sentence_translation: And he said, “Board it! In the Name of Allah it will sail and
   cast anchor. Surely my Lord is All-Forgiving, Most Merciful.”
 word_by_word:
   1:
-    arabic: ۞ وَقَالَ
+    arabic: ۞ وَقَالَ
     translation: And he said
     transliteration: waqāla
   2:
-    arabic: ارۡكَبُوۡا
+    arabic: ٱرۡكَبُواْ
     translation: Embark
     transliteration: ir'kabū
   3:
-    arabic: فِيۡهَا
+    arabic: فِيهَا
     translation: in it
     transliteration: fīhā
   4:
@@ -21,31 +21,31 @@ word_by_word:
     translation: in the name
     transliteration: bis'mi
   5:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: of Allah
     transliteration: l-lahi
   6:
-    arabic: مَجْرٖٮٰھَا
+    arabic: مَجۡر۪ىٰهَا
     translation: (is) its course
     transliteration: majrahā
   7:
-    arabic: وَمُرۡسٰٮهَا ​ؕ
+    arabic: وَمُرۡسَىٰهَآۚ
     translation: and its anchorage
     transliteration: wamur'sāhā
   8:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   9:
-    arabic: رَبِّىۡ
+    arabic: رَبِّي
     translation: my Lord
     transliteration: rabbī
   10:
-    arabic: لَـغَفُوۡرٌ
+    arabic: لَغَفُورٞ
     translation: (is) certainly Oft-Forgiving
     transliteration: laghafūrun
   11:
-    arabic: رَّحِيۡمٌ ‏
+    arabic: رَّحِيمٞ
     translation: Most Merciful
     transliteration: raḥīmun
 ---

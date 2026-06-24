@@ -1,30 +1,30 @@
 ---
-arabic_ayat: وَلَوۡ اَنَّـنَا نَزَّلۡنَاۤ اِلَيۡهِمُ الۡمَلٰٓٮِٕكَةَ وَكَلَّمَهُمُ
-  الۡمَوۡتٰى وَ حَشَرۡنَا عَلَيۡهِمۡ كُلَّ شَىۡءٍ قُبُلًا مَّا كَانُوۡا لِيُؤۡمِنُوۡۤا
-  اِلَّاۤ اَنۡ يَّشَآءَ اللّٰهُ وَلٰـكِنَّ اَكۡثَرَهُمۡ يَجۡهَلُوۡنَ‏
+arabic_ayat: ۞ وَلَوۡ أَنَّنَا نَزَّلۡنَآ إِلَيۡهِمُ ٱلۡمَلَٰٓئِكَةَ وَكَلَّمَهُمُ
+  ٱلۡمَوۡتَىٰ وَحَشَرۡنَا عَلَيۡهِمۡ كُلَّ شَيۡءٖ قُبُلٗا مَّا كَانُواْ لِيُؤۡمِنُوٓاْ
+  إِلَّآ أَن يَشَآءَ ٱللَّهُ وَلَٰكِنَّ أَكۡثَرَهُمۡ يَجۡهَلُونَ
 sentence_translation: Even if We had sent them the angels, made the dead speak to
   them, and assembled before their own eyes every sign ˹they demanded˺, they still
   would not have believed—unless Allah so willed. But most of them are ignorant ˹of
   this˺.
 word_by_word:
   1:
-    arabic: ۞ وَلَوۡ
+    arabic: ۞ وَلَوۡ
     translation: And (even) if
     transliteration: walaw
   2:
-    arabic: اَنَّـنَا
+    arabic: أَنَّنَا
     translation: '[that] We (had)'
     transliteration: annanā
   3:
-    arabic: نَزَّلۡنَاۤ
+    arabic: نَزَّلۡنَآ
     translation: '[We] sent down'
     transliteration: nazzalnā
   4:
-    arabic: اِلَيۡهِمُ
+    arabic: إِلَيۡهِمُ
     translation: to them
     transliteration: ilayhimu
   5:
-    arabic: الۡمَلٰٓٮِٕكَةَ
+    arabic: ٱلۡمَلَٰٓئِكَةَ
     translation: the Angels
     transliteration: l-malāikata
   6:
@@ -32,11 +32,11 @@ word_by_word:
     translation: and spoken to them
     transliteration: wakallamahumu
   7:
-    arabic: الۡمَوۡتٰى
+    arabic: ٱلۡمَوۡتَىٰ
     translation: the dead
     transliteration: l-mawtā
   8:
-    arabic: وَ حَشَرۡنَا
+    arabic: وَحَشَرۡنَا
     translation: and We gathered
     transliteration: waḥasharnā
   9:
@@ -48,11 +48,11 @@ word_by_word:
     translation: every
     transliteration: kulla
   11:
-    arabic: شَىۡءٍ
+    arabic: شَيۡءٖ
     translation: thing
     transliteration: shayin
   12:
-    arabic: قُبُلًا
+    arabic: قُبُلٗا
     translation: face to face
     transliteration: qubulan
   13:
@@ -60,39 +60,39 @@ word_by_word:
     translation: not
     transliteration: mā
   14:
-    arabic: كَانُوۡا
+    arabic: كَانُواْ
     translation: they were
     transliteration: kānū
   15:
-    arabic: لِيُؤۡمِنُوۡۤا
+    arabic: لِيُؤۡمِنُوٓاْ
     translation: to believe
     transliteration: liyu'minū
   16:
-    arabic: اِلَّاۤ
+    arabic: إِلَّآ
     translation: unless
     transliteration: illā
   17:
-    arabic: اَنۡ
+    arabic: أَن
     translation: '[that]'
     transliteration: an
   18:
-    arabic: يَّشَآءَ
+    arabic: يَشَآءَ
     translation: wills
     transliteration: yashāa
   19:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   20:
-    arabic: وَلٰـكِنَّ
+    arabic: وَلَٰكِنَّ
     translation: But
     transliteration: walākinna
   21:
-    arabic: اَكۡثَرَهُمۡ
+    arabic: أَكۡثَرَهُمۡ
     translation: most of them
     transliteration: aktharahum
   22:
-    arabic: يَجۡهَلُوۡنَ‏
+    arabic: يَجۡهَلُونَ
     translation: (are) ignorant
     transliteration: yajhalūna
 ---

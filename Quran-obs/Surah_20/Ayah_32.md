@@ -1,17 +1,17 @@
 ---
-arabic_ayat: وَاَشۡرِكۡهُ فِىۡۤ اَمۡرِىْ ۙ‏
+arabic_ayat: وَأَشۡرِكۡهُ فِيٓ أَمۡرِي
 sentence_translation: and let him share my task,
 word_by_word:
   1:
-    arabic: وَاَشۡرِكۡهُ
+    arabic: وَأَشۡرِكۡهُ
     translation: And make him share
     transliteration: wa-ashrik'hu
   2:
-    arabic: فِىۡۤ
+    arabic: فِيٓ
     translation: '[in]'
     transliteration: fī
   3:
-    arabic: اَمۡرِىْ ۙ‏
+    arabic: أَمۡرِي
     translation: my task
     transliteration: amrī
 ---

@@ -1,9 +1,9 @@
 ---
-arabic_ayat: "ضُرِبَتۡ عَلَيۡهِمُ الذِّلَّةُ اَيۡنَ مَا ثُقِفُوۡۤا اِلَّا بِحَبۡلٍ\
-  \ مِّنَ اللّٰهِ وَحَبۡلٍ مِّنَ النَّاسِ وَبَآءُوۡ بِغَضَبٍ مِّنَ اللّٰهِ وَضُرِبَتۡ\
-  \ عَلَيۡهِمُ الۡمَسۡكَنَةُ  ؕ ذٰ لِكَ بِاَنَّهُمۡ كَانُوۡا يَكۡفُرُوۡنَ بِاٰيٰتِ\
-  \ اللّٰهِ وَيَقۡتُلُوۡنَ الۡاَنۡۢبِيَآءَ بِغَيۡرِ حَقٍّ​ؕ ذٰ لِكَ بِمَا عَصَوۡا\
-  \ وَّكَانُوۡا يَعۡتَدُوۡنَ‏ \uFEFF\uFEFF"
+arabic_ayat: ضُرِبَتۡ عَلَيۡهِمُ ٱلذِّلَّةُ أَيۡنَ مَا ثُقِفُوٓاْ إِلَّا بِحَبۡلٖ
+  مِّنَ ٱللَّهِ وَحَبۡلٖ مِّنَ ٱلنَّاسِ وَبَآءُو بِغَضَبٖ مِّنَ ٱللَّهِ وَضُرِبَتۡ
+  عَلَيۡهِمُ ٱلۡمَسۡكَنَةُۚ ذَٰلِكَ بِأَنَّهُمۡ كَانُواْ يَكۡفُرُونَ بِـَٔايَٰتِ ٱللَّهِ
+  وَيَقۡتُلُونَ ٱلۡأَنۢبِيَآءَ بِغَيۡرِ حَقّٖۚ ذَٰلِكَ بِمَا عَصَواْ وَّكَانُواْ
+  يَعۡتَدُونَ
 sentence_translation: They will be stricken with disgrace wherever they go, unless
   they are protected by a covenant with Allah or a treaty with the people. They have
   invited the displeasure of Allah and have been branded with misery for rejecting
@@ -19,11 +19,11 @@ word_by_word:
     translation: on them
     transliteration: ʿalayhimu
   3:
-    arabic: الذِّلَّةُ
+    arabic: ٱلذِّلَّةُ
     translation: the humiliation
     transliteration: l-dhilatu
   4:
-    arabic: اَيۡنَ
+    arabic: أَيۡنَ
     translation: wherever
     transliteration: ayna
   5:
@@ -31,15 +31,15 @@ word_by_word:
     translation: that
     transliteration: mā
   6:
-    arabic: ثُقِفُوۡۤا
+    arabic: ثُقِفُوٓاْ
     translation: they are found
     transliteration: thuqifū
   7:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   8:
-    arabic: بِحَبۡلٍ
+    arabic: بِحَبۡلٖ
     translation: with a rope
     transliteration: biḥablin
   9:
@@ -47,11 +47,11 @@ word_by_word:
     translation: from
     transliteration: mina
   10:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   11:
-    arabic: وَحَبۡلٍ
+    arabic: وَحَبۡلٖ
     translation: and a rope
     transliteration: waḥablin
   12:
@@ -59,15 +59,15 @@ word_by_word:
     translation: from
     transliteration: mina
   13:
-    arabic: النَّاسِ
+    arabic: ٱلنَّاسِ
     translation: the people
     transliteration: l-nāsi
   14:
-    arabic: وَبَآءُوۡ
+    arabic: وَبَآءُو
     translation: And they incurred
     transliteration: wabāū
   15:
-    arabic: بِغَضَبٍ
+    arabic: بِغَضَبٖ
     translation: wrath
     transliteration: bighaḍabin
   16:
@@ -75,7 +75,7 @@ word_by_word:
     translation: from
     transliteration: mina
   17:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   18:
@@ -87,39 +87,39 @@ word_by_word:
     translation: on them
     transliteration: ʿalayhimu
   20:
-    arabic: الۡمَسۡكَنَةُ  ؕ
+    arabic: ٱلۡمَسۡكَنَةُۚ
     translation: the poverty
     transliteration: l-maskanatu
   21:
-    arabic: ذٰ لِكَ
+    arabic: ذَٰلِكَ
     translation: That
     transliteration: dhālika
   22:
-    arabic: بِاَنَّهُمۡ
+    arabic: بِأَنَّهُمۡ
     translation: (is) because
     transliteration: bi-annahum
   23:
-    arabic: كَانُوۡا
+    arabic: كَانُواْ
     translation: they used to
     transliteration: kānū
   24:
-    arabic: يَكۡفُرُوۡنَ
+    arabic: يَكۡفُرُونَ
     translation: disbelieve
     transliteration: yakfurūna
   25:
-    arabic: بِاٰيٰتِ
+    arabic: بِـَٔايَٰتِ
     translation: in (the) Verses
     transliteration: biāyāti
   26:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (of) Allah
     transliteration: l-lahi
   27:
-    arabic: وَيَقۡتُلُوۡنَ
+    arabic: وَيَقۡتُلُونَ
     translation: and they killed
     transliteration: wayaqtulūna
   28:
-    arabic: الۡاَنۡۢبِيَآءَ
+    arabic: ٱلۡأَنۢبِيَآءَ
     translation: the Prophets
     transliteration: l-anbiyāa
   29:
@@ -127,11 +127,11 @@ word_by_word:
     translation: without
     transliteration: bighayri
   30:
-    arabic: حَقٍّ​ؕ
+    arabic: حَقّٖۚ
     translation: right
     transliteration: ḥaqqin
   31:
-    arabic: ذٰ لِكَ
+    arabic: ذَٰلِكَ
     translation: That
     transliteration: dhālika
   32:
@@ -139,15 +139,15 @@ word_by_word:
     translation: (is) because
     transliteration: bimā
   33:
-    arabic: عَصَوۡا
+    arabic: عَصَواْ
     translation: they disobeyed
     transliteration: ʿaṣaw
   34:
-    arabic: وَّكَانُوۡا
+    arabic: وَّكَانُواْ
     translation: and they used to
     transliteration: wakānū
   35:
-    arabic: "يَعۡتَدُوۡنَ‏ \uFEFF\uFEFF"
+    arabic: يَعۡتَدُونَ
     translation: transgress
     transliteration: yaʿtadūna
 ---

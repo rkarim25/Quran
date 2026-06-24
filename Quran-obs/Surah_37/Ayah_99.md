@@ -1,5 +1,5 @@
 ---
-arabic_ayat: وَقَالَ اِنِّىۡ ذَاهِبٌ اِلٰى رَبِّىۡ سَيَهۡدِيۡنِ‏
+arabic_ayat: وَقَالَ إِنِّي ذَاهِبٌ إِلَىٰ رَبِّي سَيَهۡدِينِ
 sentence_translation: He later said, “I am leaving ˹in obedience˺ to my Lord. He will
   guide me.
 word_by_word:
@@ -8,7 +8,7 @@ word_by_word:
     translation: And he said
     transliteration: waqāla
   2:
-    arabic: اِنِّىۡ
+    arabic: إِنِّي
     translation: Indeed, I am
     transliteration: innī
   3:
@@ -16,15 +16,15 @@ word_by_word:
     translation: going
     transliteration: dhāhibun
   4:
-    arabic: اِلٰى
+    arabic: إِلَىٰ
     translation: to
     transliteration: ilā
   5:
-    arabic: رَبِّىۡ
+    arabic: رَبِّي
     translation: my Lord
     transliteration: rabbī
   6:
-    arabic: سَيَهۡدِيۡنِ‏
+    arabic: سَيَهۡدِينِ
     translation: He will guide me
     transliteration: sayahdīni
 ---

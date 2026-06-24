@@ -1,39 +1,38 @@
 ---
-arabic_ayat: "خٰلِدِيۡنَ فِيۡهَاۤ اَبَدًا ۚ لَا يَجِدُوۡنَ وَلِيًّا وَّلَا نَصِيۡرًا\
-  \ ۚ‏ \uFEFF\uFEFF"
+arabic_ayat: خَٰلِدِينَ فِيهَآ أَبَدٗاۖ لَّا يَجِدُونَ وَلِيّٗا وَلَا نَصِيرٗا
 sentence_translation: to stay there for ever and ever—never will they find any protector
   or helper.
 word_by_word:
   1:
-    arabic: خٰلِدِيۡنَ
+    arabic: خَٰلِدِينَ
     translation: Abiding
     transliteration: khālidīna
   2:
-    arabic: فِيۡهَاۤ
+    arabic: فِيهَآ
     translation: therein
     transliteration: fīhā
   3:
-    arabic: اَبَدًا ۚ
+    arabic: أَبَدٗاۖ
     translation: forever
     transliteration: abadan
   4:
-    arabic: لَا
+    arabic: لَّا
     translation: not
     transliteration: lā
   5:
-    arabic: يَجِدُوۡنَ
+    arabic: يَجِدُونَ
     translation: they will find
     transliteration: yajidūna
   6:
-    arabic: وَلِيًّا
+    arabic: وَلِيّٗا
     translation: any protector
     transliteration: waliyyan
   7:
-    arabic: وَّلَا
+    arabic: وَلَا
     translation: and not
     transliteration: walā
   8:
-    arabic: "نَصِيۡرًا ۚ‏ \uFEFF\uFEFF"
+    arabic: نَصِيرٗا
     translation: any helper
     transliteration: naṣīran
 ---

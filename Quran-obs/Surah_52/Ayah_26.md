@@ -1,18 +1,18 @@
 ---
-arabic_ayat: قَالُـوۡۤا اِنَّا كُـنَّا قَبۡلُ فِىۡۤ اَهۡلِنَا مُشۡفِقِيۡنَ‏
+arabic_ayat: قَالُوٓاْ إِنَّا كُنَّا قَبۡلُ فِيٓ أَهۡلِنَا مُشۡفِقِينَ
 sentence_translation: They will say, “Before ˹this reward˺ we used to be in awe ˹of
   Allah˺ in the midst of our people.
 word_by_word:
   1:
-    arabic: قَالُـوۡۤا
+    arabic: قَالُوٓاْ
     translation: They will say
     transliteration: qālū
   2:
-    arabic: اِنَّا
+    arabic: إِنَّا
     translation: Indeed, we
     transliteration: innā
   3:
-    arabic: كُـنَّا
+    arabic: كُنَّا
     translation: '[we] were'
     transliteration: kunnā
   4:
@@ -20,15 +20,15 @@ word_by_word:
     translation: before
     transliteration: qablu
   5:
-    arabic: فِىۡۤ
+    arabic: فِيٓ
     translation: among
     transliteration: fī
   6:
-    arabic: اَهۡلِنَا
+    arabic: أَهۡلِنَا
     translation: our families
     transliteration: ahlinā
   7:
-    arabic: مُشۡفِقِيۡنَ‏
+    arabic: مُشۡفِقِينَ
     translation: fearful
     transliteration: mush'fiqīna
 ---

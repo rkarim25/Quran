@@ -1,13 +1,12 @@
 ---
-arabic_ayat: وَاِنِّىۡ كُلَّمَا دَعَوۡتُهُمۡ لِتَغۡفِرَ لَهُمۡ جَعَلُوۡۤا اَصَابِعَهُمۡ
-  فِىۡۤ اٰذَانِهِمۡ وَاسۡتَغۡشَوۡا ثِيَابَهُمۡ وَاَصَرُّوۡا وَاسۡتَكۡبَرُوا اسۡتِكۡبَارًا​
-  ۚ‏
+arabic_ayat: وَإِنِّي كُلَّمَا دَعَوۡتُهُمۡ لِتَغۡفِرَ لَهُمۡ جَعَلُوٓاْ أَصَٰبِعَهُمۡ
+  فِيٓ ءَاذَانِهِمۡ وَٱسۡتَغۡشَوۡاْ ثِيَابَهُمۡ وَأَصَرُّواْ وَٱسۡتَكۡبَرُواْ ٱسۡتِكۡبَارٗا
 sentence_translation: And whenever I invite them to be forgiven by You, they press
   their fingers into their ears, cover themselves with their clothes, persist ˹in
   denial˺, and act very arrogantly.
 word_by_word:
   1:
-    arabic: وَاِنِّىۡ
+    arabic: وَإِنِّي
     translation: And indeed, I
     transliteration: wa-innī
   2:
@@ -27,23 +26,23 @@ word_by_word:
     translation: them
     transliteration: lahum
   6:
-    arabic: جَعَلُوۡۤا
+    arabic: جَعَلُوٓاْ
     translation: they put
     transliteration: jaʿalū
   7:
-    arabic: اَصَابِعَهُمۡ
+    arabic: أَصَٰبِعَهُمۡ
     translation: their fingers
     transliteration: aṣābiʿahum
   8:
-    arabic: فِىۡۤ
+    arabic: فِيٓ ءَ
     translation: in
     transliteration: fī
   9:
-    arabic: اٰذَانِهِمۡ
+    arabic: اذَانِهِمۡ
     translation: their ears
     transliteration: ādhānihim
   10:
-    arabic: وَاسۡتَغۡشَوۡا
+    arabic: وَٱسۡتَغۡشَوۡاْ
     translation: and covered themselves
     transliteration: wa-is'taghshaw
   11:
@@ -51,15 +50,15 @@ word_by_word:
     translation: (with) their garments
     transliteration: thiyābahum
   12:
-    arabic: وَاَصَرُّوۡا
+    arabic: وَأَصَرُّواْ
     translation: and persisted
     transliteration: wa-aṣarrū
   13:
-    arabic: وَاسۡتَكۡبَرُوا
+    arabic: وَٱسۡتَكۡبَرُواْ
     translation: and were arrogant
     transliteration: wa-is'takbarū
   14:
-    arabic: اسۡتِكۡبَارًا​ ۚ‏
+    arabic: ٱسۡتِكۡبَارٗا
     translation: (with) pride
     transliteration: is'tik'bāran
 ---

@@ -1,21 +1,21 @@
 ---
-arabic_ayat: اَلَّذِيۡنَ يَلۡمِزُوۡنَ الۡمُطَّوِّعِيۡنَ مِنَ الۡمُؤۡمِنِيۡنَ فِى الصَّدَقٰتِ
-  وَالَّذِيۡنَ لَا يَجِدُوۡنَ اِلَّا جُهۡدَهُمۡ فَيَسۡخَرُوۡنَ مِنۡهُمۡؕ سَخِرَ اللّٰهُ
-  مِنۡهُمۡ وَلَهُمۡ عَذَابٌ اَلِيۡمٌ‏
+arabic_ayat: ٱلَّذِينَ يَلۡمِزُونَ ٱلۡمُطَّوِّعِينَ مِنَ ٱلۡمُؤۡمِنِينَ فِي ٱلصَّدَقَٰتِ
+  وَٱلَّذِينَ لَا يَجِدُونَ إِلَّا جُهۡدَهُمۡ فَيَسۡخَرُونَ مِنۡهُمۡ سَخِرَ ٱللَّهُ
+  مِنۡهُمۡ وَلَهُمۡ عَذَابٌ أَلِيمٌ
 sentence_translation: ˹There are˺ those who slander ˹some of˺ the believers for donating
   liberally and mock others for giving only the little they can afford. Allah will
   throw their mockery back at them, and they will suffer a painful punishment.
 word_by_word:
   1:
-    arabic: اَلَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: Those who
     transliteration: alladhīna
   2:
-    arabic: يَلۡمِزُوۡنَ
+    arabic: يَلۡمِزُونَ
     translation: criticize
     transliteration: yalmizūna
   3:
-    arabic: الۡمُطَّوِّعِيۡنَ
+    arabic: ٱلۡمُطَّوِّعِينَ
     translation: the ones who give willingly
     transliteration: l-muṭawiʿīna
   4:
@@ -23,19 +23,19 @@ word_by_word:
     translation: of
     transliteration: mina
   5:
-    arabic: الۡمُؤۡمِنِيۡنَ
+    arabic: ٱلۡمُؤۡمِنِينَ
     translation: the believers
     transliteration: l-mu'minīna
   6:
-    arabic: فِى
+    arabic: فِي
     translation: concerning
     transliteration: fī
   7:
-    arabic: الصَّدَقٰتِ
+    arabic: ٱلصَّدَقَٰتِ
     translation: the charities
     transliteration: l-ṣadaqāti
   8:
-    arabic: وَالَّذِيۡنَ
+    arabic: وَٱلَّذِينَ
     translation: and those who
     transliteration: wa-alladhīna
   9:
@@ -43,11 +43,11 @@ word_by_word:
     translation: not
     transliteration: lā
   10:
-    arabic: يَجِدُوۡنَ
+    arabic: يَجِدُونَ
     translation: find
     transliteration: yajidūna
   11:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   12:
@@ -55,11 +55,11 @@ word_by_word:
     translation: their effort
     transliteration: juh'dahum
   13:
-    arabic: فَيَسۡخَرُوۡنَ
+    arabic: فَيَسۡخَرُونَ
     translation: so they ridicule
     transliteration: fayaskharūna
   14:
-    arabic: مِنۡهُمۡؕ
+    arabic: مِنۡهُمۡ
     translation: them
     transliteration: min'hum
   15:
@@ -67,11 +67,11 @@ word_by_word:
     translation: Allah will ridicule
     transliteration: sakhira
   16:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah will ridicule
     transliteration: l-lahu
   17:
-    arabic: مِنۡهُمۡ
+    arabic: مِنۡهُمۡ
     translation: them
     transliteration: min'hum
   18:
@@ -83,7 +83,7 @@ word_by_word:
     translation: (is) a punishment
     transliteration: ʿadhābun
   20:
-    arabic: اَلِيۡمٌ‏
+    arabic: أَلِيمٌ
     translation: painful
     transliteration: alīmun
 ---

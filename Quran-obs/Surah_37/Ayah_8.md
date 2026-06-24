@@ -1,6 +1,6 @@
 ---
-arabic_ayat: لَّا يَسَّمَّعُوۡنَ اِلَى الۡمَلَاِ الۡاَعۡلٰى وَيُقۡذَفُوۡنَ مِنۡ كُلِّ
-  جَانِبٍۖ ‏
+arabic_ayat: لَّا يَسَّمَّعُونَ إِلَى ٱلۡمَلَإِ ٱلۡأَعۡلَىٰ وَيُقۡذَفُونَ مِن كُلِّ
+  جَانِبٖ
 sentence_translation: They cannot listen to the highest assembly ˹of angels˺ for they
   are pelted from every side,
 word_by_word:
@@ -9,27 +9,27 @@ word_by_word:
     translation: Not
     transliteration: lā
   2:
-    arabic: يَسَّمَّعُوۡنَ
+    arabic: يَسَّمَّعُونَ
     translation: they may listen
     transliteration: yassammaʿūna
   3:
-    arabic: اِلَى
+    arabic: إِلَى
     translation: to
     transliteration: ilā
   4:
-    arabic: الۡمَلَاِ
+    arabic: ٱلۡمَلَإِ
     translation: the assembly
     transliteration: l-mala-i
   5:
-    arabic: الۡاَعۡلٰى
+    arabic: ٱلۡأَعۡلَىٰ
     translation: '[the] exalted'
     transliteration: l-aʿlā
   6:
-    arabic: وَيُقۡذَفُوۡنَ
+    arabic: وَيُقۡذَفُونَ
     translation: are pelted
     transliteration: wayuq'dhafūna
   7:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   8:
@@ -37,7 +37,7 @@ word_by_word:
     translation: every
     transliteration: kulli
   9:
-    arabic: جَانِبٍۖ ‏
+    arabic: جَانِبٖ
     translation: side
     transliteration: jānibin
 ---

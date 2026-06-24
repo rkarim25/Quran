@@ -1,11 +1,11 @@
 ---
-arabic_ayat: لَهٗ مَا فِى السَّمٰوٰتِ وَمَا فِى الۡاَرۡضِ وَمَا بَيۡنَهُمَا وَمَا
-  تَحۡتَ الثَّرٰى‏
+arabic_ayat: لَهُۥ مَا فِي ٱلسَّمَٰوَٰتِ وَمَا فِي ٱلۡأَرۡضِ وَمَا بَيۡنَهُمَا وَمَا
+  تَحۡتَ ٱلثَّرَىٰ
 sentence_translation: To Him belongs whatever is in the heavens and whatever is on
   the earth and whatever is in between and whatever is underground.
 word_by_word:
   1:
-    arabic: لَهٗ
+    arabic: لَهُۥ
     translation: To Him (belongs)
     transliteration: lahu
   2:
@@ -13,11 +13,11 @@ word_by_word:
     translation: whatever
     transliteration: mā
   3:
-    arabic: فِى
+    arabic: فِي
     translation: (is) in
     transliteration: fī
   4:
-    arabic: السَّمٰوٰتِ
+    arabic: ٱلسَّمَٰوَٰتِ
     translation: the heavens
     transliteration: l-samāwāti
   5:
@@ -25,11 +25,11 @@ word_by_word:
     translation: and whatever
     transliteration: wamā
   6:
-    arabic: فِى
+    arabic: فِي
     translation: (is) in
     transliteration: fī
   7:
-    arabic: الۡاَرۡضِ
+    arabic: ٱلۡأَرۡضِ
     translation: the earth
     transliteration: l-arḍi
   8:
@@ -49,7 +49,7 @@ word_by_word:
     translation: (is) under
     transliteration: taḥta
   12:
-    arabic: الثَّرٰى‏
+    arabic: ٱلثَّرَىٰ
     translation: the soil
     transliteration: l-tharā
 ---

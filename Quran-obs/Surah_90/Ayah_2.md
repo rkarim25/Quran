@@ -1,21 +1,21 @@
 ---
-arabic_ayat: وَاَنۡتَ حِلٌّ ۢ بِهٰذَا الۡبَلَدِۙ‏
+arabic_ayat: وَأَنتَ حِلُّۢ بِهَٰذَا ٱلۡبَلَدِ
 sentence_translation: even though you ˹O Prophet˺ are subject to abuse in this city—
 word_by_word:
   1:
-    arabic: وَاَنۡتَ
+    arabic: وَأَنتَ
     translation: And you
     transliteration: wa-anta
   2:
-    arabic: حِلٌّ ۢ
+    arabic: حِلُّۢ
     translation: (are) free (to dwell)
     transliteration: ḥillun
   3:
-    arabic: بِهٰذَا
+    arabic: بِهَٰذَا
     translation: in this
     transliteration: bihādhā
   4:
-    arabic: الۡبَلَدِۙ‏
+    arabic: ٱلۡبَلَدِ
     translation: city
     transliteration: l-baladi
 ---

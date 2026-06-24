@@ -1,13 +1,13 @@
 ---
-arabic_ayat: فَاِذَا قَضَيۡتُمُ الصَّلٰوةَ فَاذۡكُرُوا اللّٰهَ قِيَامًا وَّقُعُوۡدًا
-  وَّعَلٰى جُنُوۡبِكُمۡ ۚؕ فَاِذَا اطۡمَاۡنَنۡتُمۡ فَاَقِيۡمُوا الصَّلٰوةَ​ ۚ اِنَّ
-  الصَّلٰوةَ كَانَتۡ عَلَى الۡمُؤۡمِنِيۡنَ كِتٰبًا مَّوۡقُوۡتًا‏
+arabic_ayat: فَإِذَا قَضَيۡتُمُ ٱلصَّلَوٰةَ فَٱذۡكُرُواْ ٱللَّهَ قِيَٰمٗا وَقُعُودٗا
+  وَعَلَىٰ جُنُوبِكُمۡۚ فَإِذَا ٱطۡمَأۡنَنتُمۡ فَأَقِيمُواْ ٱلصَّلَوٰةَۚ إِنَّ ٱلصَّلَوٰةَ
+  كَانَتۡ عَلَى ٱلۡمُؤۡمِنِينَ كِتَٰبٗا مَّوۡقُوتٗا
 sentence_translation: When the prayers are over, remember Allah—whether you are standing,
   sitting, or lying down. But when you are secure, establish regular prayers. Indeed,
   performing prayers is a duty on the believers at the appointed times.
 word_by_word:
   1:
-    arabic: فَاِذَا
+    arabic: فَإِذَا
     translation: Then when
     transliteration: fa-idhā
   2:
@@ -15,55 +15,55 @@ word_by_word:
     translation: you (have) finished
     transliteration: qaḍaytumu
   3:
-    arabic: الصَّلٰوةَ
+    arabic: ٱلصَّلَوٰةَ
     translation: the prayer
     transliteration: l-ṣalata
   4:
-    arabic: فَاذۡكُرُوا
+    arabic: فَٱذۡكُرُواْ
     translation: then remember
     transliteration: fa-udh'kurū
   5:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   6:
-    arabic: قِيَامًا
+    arabic: قِيَٰمٗا
     translation: standing
     transliteration: qiyāman
   7:
-    arabic: وَّقُعُوۡدًا
+    arabic: وَقُعُودٗا
     translation: and sitting
     transliteration: waquʿūdan
   8:
-    arabic: وَّعَلٰى
+    arabic: وَعَلَىٰ
     translation: and (lying) on
     transliteration: waʿalā
   9:
-    arabic: جُنُوۡبِكُمۡ ۚؕ
+    arabic: جُنُوبِكُمۡۚ
     translation: your sides
     transliteration: junūbikum
   10:
-    arabic: فَاِذَا
+    arabic: فَإِذَا
     translation: But when
     transliteration: fa-idhā
   11:
-    arabic: اطۡمَاۡنَنۡتُمۡ
+    arabic: ٱطۡمَأۡنَنتُمۡ
     translation: you are secure
     transliteration: iṭ'manantum
   12:
-    arabic: فَاَقِيۡمُوا
+    arabic: فَأَقِيمُواْ
     translation: then establish
     transliteration: fa-aqīmū
   13:
-    arabic: الصَّلٰوةَ​ ۚ
+    arabic: ٱلصَّلَوٰةَۚ
     translation: the (regular) prayer
     transliteration: l-ṣalata
   14:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   15:
-    arabic: الصَّلٰوةَ
+    arabic: ٱلصَّلَوٰةَ
     translation: the prayer
     transliteration: l-ṣalata
   16:
@@ -75,15 +75,15 @@ word_by_word:
     translation: 'on'
     transliteration: ʿalā
   18:
-    arabic: الۡمُؤۡمِنِيۡنَ
+    arabic: ٱلۡمُؤۡمِنِينَ
     translation: the believers
     transliteration: l-mu'minīna
   19:
-    arabic: كِتٰبًا
+    arabic: كِتَٰبٗا
     translation: prescribed
     transliteration: kitāban
   20:
-    arabic: مَّوۡقُوۡتًا‏
+    arabic: مَّوۡقُوتٗا
     translation: (at) fixed times
     transliteration: mawqūtan
 ---

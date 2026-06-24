@@ -1,5 +1,5 @@
 ---
-arabic_ayat: ثُمَّ قِيۡلَ لَهُمۡ اَيۡنَ مَا كُنۡتُمۡ تُشۡرِكُوۡنَۙ‏
+arabic_ayat: ثُمَّ قِيلَ لَهُمۡ أَيۡنَ مَا كُنتُمۡ تُشۡرِكُونَ
 sentence_translation: Then they will be asked, “Where are those ˹idols˺ you used to
   associate
 word_by_word:
@@ -8,7 +8,7 @@ word_by_word:
     translation: Then
     transliteration: thumma
   2:
-    arabic: قِيۡلَ
+    arabic: قِيلَ
     translation: it will be said
     transliteration: qīla
   3:
@@ -16,7 +16,7 @@ word_by_word:
     translation: to them
     transliteration: lahum
   4:
-    arabic: اَيۡنَ
+    arabic: أَيۡنَ
     translation: Where
     transliteration: ayna
   5:
@@ -24,11 +24,11 @@ word_by_word:
     translation: (is) that which
     transliteration: mā
   6:
-    arabic: كُنۡتُمۡ
+    arabic: كُنتُمۡ
     translation: you used to
     transliteration: kuntum
   7:
-    arabic: تُشۡرِكُوۡنَۙ‏
+    arabic: تُشۡرِكُونَ
     translation: associate
     transliteration: tush'rikūna
 ---

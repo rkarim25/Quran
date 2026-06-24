@@ -1,9 +1,9 @@
 ---
-arabic_ayat: وَتَجۡعَلُوۡنَ رِزۡقَكُمۡ اَنَّكُمۡ تُكَذِّبُوۡنَ‏
+arabic_ayat: وَتَجۡعَلُونَ رِزۡقَكُمۡ أَنَّكُمۡ تُكَذِّبُونَ
 sentence_translation: and repay ˹Allah for˺ your provisions with denial? 
 word_by_word:
   1:
-    arabic: وَتَجۡعَلُوۡنَ
+    arabic: وَتَجۡعَلُونَ
     translation: And you make
     transliteration: watajʿalūna
   2:
@@ -11,11 +11,11 @@ word_by_word:
     translation: your provision
     transliteration: riz'qakum
   3:
-    arabic: اَنَّكُمۡ
+    arabic: أَنَّكُمۡ
     translation: that you
     transliteration: annakum
   4:
-    arabic: تُكَذِّبُوۡنَ‏
+    arabic: تُكَذِّبُونَ
     translation: deny
     transliteration: tukadhibūna
 ---

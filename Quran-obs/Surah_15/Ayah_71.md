@@ -1,5 +1,5 @@
 ---
-arabic_ayat: قَالَ هٰٓؤُلَاۤءِ بَنٰتِىۡۤ اِنۡ كُنۡـتُمۡ فٰعِلِيۡنَؕ‏
+arabic_ayat: قَالَ هَٰٓؤُلَآءِ بَنَاتِيٓ إِن كُنتُمۡ فَٰعِلِينَ
 sentence_translation: He said, “O my people! Here are my daughters ˹so marry them˺
   if you wish to do so.”
 word_by_word:
@@ -8,23 +8,23 @@ word_by_word:
     translation: He said
     transliteration: qāla
   2:
-    arabic: هٰٓؤُلَاۤءِ
+    arabic: هَٰٓؤُلَآءِ
     translation: These
     transliteration: hāulāi
   3:
-    arabic: بَنٰتِىۡۤ
+    arabic: بَنَاتِيٓ
     translation: (are) my daughters
     transliteration: banātī
   4:
-    arabic: اِنۡ
+    arabic: إِن
     translation: if
     transliteration: in
   5:
-    arabic: كُنۡـتُمۡ
+    arabic: كُنتُمۡ
     translation: you would be
     transliteration: kuntum
   6:
-    arabic: فٰعِلِيۡنَؕ‏
+    arabic: فَٰعِلِينَ
     translation: doers
     transliteration: fāʿilīna
 ---

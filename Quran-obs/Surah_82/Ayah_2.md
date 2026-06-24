@@ -1,17 +1,17 @@
 ---
-arabic_ayat: وَاِذَا الۡكَوَاكِبُ انْتَثَرَتۡۙ‏
+arabic_ayat: وَإِذَا ٱلۡكَوَاكِبُ ٱنتَثَرَتۡ
 sentence_translation: and when the stars fall away,
 word_by_word:
   1:
-    arabic: وَاِذَا
+    arabic: وَإِذَا
     translation: And when
     transliteration: wa-idhā
   2:
-    arabic: الۡكَوَاكِبُ
+    arabic: ٱلۡكَوَاكِبُ
     translation: the stars
     transliteration: l-kawākibu
   3:
-    arabic: انْتَثَرَتۡۙ‏
+    arabic: ٱنتَثَرَتۡ
     translation: scatter
     transliteration: intatharat
 ---

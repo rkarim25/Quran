@@ -1,15 +1,15 @@
 ---
-arabic_ayat: وَهٰذَا صِرَاطُ رَبِّكَ مُسۡتَقِيۡمًا​ ؕ قَدۡ فَصَّلۡنَا الۡاٰيٰتِ لِقَوۡمٍ
-  يَّذَّكَّرُوۡنَ‏
+arabic_ayat: وَهَٰذَا صِرَٰطُ رَبِّكَ مُسۡتَقِيمٗاۗ قَدۡ فَصَّلۡنَا ٱلۡأٓيَٰتِ لِقَوۡمٖ
+  يَذَّكَّرُونَ
 sentence_translation: That is your Lord’s Path—perfectly straight. We have already
   made the signs clear to those who are mindful.
 word_by_word:
   1:
-    arabic: وَهٰذَا
+    arabic: وَهَٰذَا
     translation: And this
     transliteration: wahādhā
   2:
-    arabic: صِرَاطُ
+    arabic: صِرَٰطُ
     translation: (is the) way
     transliteration: ṣirāṭu
   3:
@@ -17,7 +17,7 @@ word_by_word:
     translation: '(of) your Lord '
     transliteration: rabbika
   4:
-    arabic: مُسۡتَقِيۡمًا​ ؕ
+    arabic: مُسۡتَقِيمٗاۗ
     translation: straight
     transliteration: mus'taqīman
   5:
@@ -29,15 +29,15 @@ word_by_word:
     translation: We have detailed
     transliteration: faṣṣalnā
   7:
-    arabic: الۡاٰيٰتِ
+    arabic: ٱلۡأٓيَٰتِ
     translation: the Verses
     transliteration: l-āyāti
   8:
-    arabic: لِقَوۡمٍ
+    arabic: لِقَوۡمٖ
     translation: for a people
     transliteration: liqawmin
   9:
-    arabic: يَّذَّكَّرُوۡنَ‏
+    arabic: يَذَّكَّرُونَ
     translation: who take heed
     transliteration: yadhakkarūna
 ---

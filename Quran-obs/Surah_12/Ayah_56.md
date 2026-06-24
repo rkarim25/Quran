@@ -1,13 +1,12 @@
 ---
-arabic_ayat: "وَكَذٰلِكَ مَكَّنَّا لِيُوۡسُفَ فِى الۡاَرۡضِ​ۚ يَتَبَوَّاُ مِنۡهَا\
-  \ حَيۡثُ يَشَآءُ​ ؕ نُصِيۡبُ بِرَحۡمَتِنَا مَنۡ نَّشَآءُ​ۚ وَلَا نُضِيۡعُ اَجۡرَ\
-  \ الۡمُحۡسِنِيۡنَ‏ \uFEFF\uFEFF"
+arabic_ayat: وَكَذَٰلِكَ مَكَّنَّا لِيُوسُفَ فِي ٱلۡأَرۡضِ يَتَبَوَّأُ مِنۡهَا حَيۡثُ
+  يَشَآءُۚ نُصِيبُ بِرَحۡمَتِنَا مَن نَّشَآءُۖ وَلَا نُضِيعُ أَجۡرَ ٱلۡمُحۡسِنِينَ
 sentence_translation: This is how We established Joseph in the land to settle wherever
   he pleased. We shower Our mercy on whoever We will, and We never discount the reward
   of the good-doers.
 word_by_word:
   1:
-    arabic: وَكَذٰلِكَ
+    arabic: وَكَذَٰلِكَ
     translation: And thus
     transliteration: wakadhālika
   2:
@@ -15,19 +14,19 @@ word_by_word:
     translation: We established
     transliteration: makkannā
   3:
-    arabic: لِيُوۡسُفَ
+    arabic: لِيُوسُفَ
     translation: '[to] Yusuf'
     transliteration: liyūsufa
   4:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   5:
-    arabic: الۡاَرۡضِ​ۚ
+    arabic: ٱلۡأَرۡضِ
     translation: the land
     transliteration: l-arḍi
   6:
-    arabic: يَتَبَوَّاُ
+    arabic: يَتَبَوَّأُ
     translation: to settle
     transliteration: yatabawwa-u
   7:
@@ -39,11 +38,11 @@ word_by_word:
     translation: where ever
     transliteration: ḥaythu
   9:
-    arabic: يَشَآءُ​ ؕ
+    arabic: يَشَآءُۚ
     translation: he willed
     transliteration: yashāu
   10:
-    arabic: نُصِيۡبُ
+    arabic: نُصِيبُ
     translation: We bestow
     transliteration: nuṣību
   11:
@@ -51,11 +50,11 @@ word_by_word:
     translation: Our Mercy
     transliteration: biraḥmatinā
   12:
-    arabic: مَنۡ
+    arabic: مَن
     translation: (on) whom
     transliteration: man
   13:
-    arabic: نَّشَآءُ​ۚ
+    arabic: نَّشَآءُۖ
     translation: We will
     transliteration: nashāu
   14:
@@ -63,15 +62,15 @@ word_by_word:
     translation: And not
     transliteration: walā
   15:
-    arabic: نُضِيۡعُ
+    arabic: نُضِيعُ
     translation: We let go waste
     transliteration: nuḍīʿu
   16:
-    arabic: اَجۡرَ
+    arabic: أَجۡرَ
     translation: (the) reward
     transliteration: ajra
   17:
-    arabic: "الۡمُحۡسِنِيۡنَ‏ \uFEFF\uFEFF"
+    arabic: ٱلۡمُحۡسِنِينَ
     translation: (of) the good-doers
     transliteration: l-muḥ'sinīna
 ---

@@ -1,7 +1,7 @@
 ---
-arabic_ayat: وَلَمَّا رَاَ الۡمُؤۡمِنُوۡنَ الۡاَحۡزَابَ ۙ قَالُوۡا هٰذَا مَا وَعَدَنَا
-  اللّٰهُ وَرَسُوۡلُهٗ وَ صَدَقَ اللّٰهُ وَرَسُوۡلُهٗ وَمَا زَادَهُمۡ اِلَّاۤ اِيۡمَانًـا
-  وَّتَسۡلِيۡمًا ؕ‏
+arabic_ayat: وَلَمَّا رَءَا ٱلۡمُؤۡمِنُونَ ٱلۡأَحۡزَابَ قَالُواْ هَٰذَا مَا وَعَدَنَا
+  ٱللَّهُ وَرَسُولُهُۥ وَصَدَقَ ٱللَّهُ وَرَسُولُهُۥۚ وَمَا زَادَهُمۡ إِلَّآ إِيمَٰنٗا
+  وَتَسۡلِيمٗا
 sentence_translation: When the believers saw the enemy alliance, they said, “This
   is what Allah and His Messenger had promised us. The promise of Allah and His Messenger
   has come true.” And this only increased them in faith and submission.
@@ -11,23 +11,23 @@ word_by_word:
     translation: And when
     transliteration: walammā
   2:
-    arabic: رَاَ
+    arabic: رَءَا
     translation: saw
     transliteration: raā
   3:
-    arabic: الۡمُؤۡمِنُوۡنَ
+    arabic: ٱلۡمُؤۡمِنُونَ
     translation: the believers
     transliteration: l-mu'minūna
   4:
-    arabic: الۡاَحۡزَابَ ۙ
+    arabic: ٱلۡأَحۡزَابَ
     translation: the confederates
     transliteration: l-aḥzāba
   5:
-    arabic: قَالُوۡا
+    arabic: قَالُواْ
     translation: they said
     transliteration: qālū
   6:
-    arabic: هٰذَا
+    arabic: هَٰذَا
     translation: This
     transliteration: hādhā
   7:
@@ -39,23 +39,23 @@ word_by_word:
     translation: Allah promised us
     transliteration: waʿadanā
   9:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah promised us
     transliteration: l-lahu
   10:
-    arabic: وَرَسُوۡلُهٗ
+    arabic: وَرَسُولُهُۥ
     translation: and His Messenger
     transliteration: warasūluhu
   11:
-    arabic: وَ صَدَقَ
+    arabic: وَصَدَقَ
     translation: and Allah spoke the truth
     transliteration: waṣadaqa
   12:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: and Allah spoke the truth
     transliteration: l-lahu
   13:
-    arabic: وَرَسُوۡلُهٗ
+    arabic: وَرَسُولُهُۥۚ
     translation: and His Messenger
     transliteration: warasūluhu
   14:
@@ -67,15 +67,15 @@ word_by_word:
     translation: it increased them
     transliteration: zādahum
   16:
-    arabic: اِلَّاۤ
+    arabic: إِلَّآ
     translation: except
     transliteration: illā
   17:
-    arabic: اِيۡمَانًـا
+    arabic: إِيمَٰنٗا
     translation: (in) faith
     transliteration: īmānan
   18:
-    arabic: وَّتَسۡلِيۡمًا ؕ‏
+    arabic: وَتَسۡلِيمٗا
     translation: and submission
     transliteration: wataslīman
 ---

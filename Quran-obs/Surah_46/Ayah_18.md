@@ -1,15 +1,15 @@
 ---
-arabic_ayat: اُولٰٓٮِٕكَ الَّذِيۡنَ حَقَّ عَلَيۡهِمُ الۡقَوۡلُ فِىۡۤ اُمَمٍ قَدۡ خَلَتۡ
-  مِنۡ قَبۡلِهِمۡ مِّنَ الۡجِنِّ وَالۡاِنۡسِ​ؕ اِنَّهُمۡ كَانُوۡا خٰسِرِيۡنَ‏
+arabic_ayat: أُوْلَٰٓئِكَ ٱلَّذِينَ حَقَّ عَلَيۡهِمُ ٱلۡقَوۡلُ فِيٓ أُمَمٖ قَدۡ خَلَتۡ
+  مِن قَبۡلِهِم مِّنَ ٱلۡجِنِّ وَٱلۡإِنسِۖ إِنَّهُمۡ كَانُواْ خَٰسِرِينَ
 sentence_translation: These are the ones against whom the fate of earlier communities
   of jinn and humans has been justified, ˹for˺ they were truly losers.
 word_by_word:
   1:
-    arabic: اُولٰٓٮِٕكَ
+    arabic: أُوْلَٰٓئِكَ
     translation: 'Those '
     transliteration: ulāika
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: (are) the ones
     transliteration: alladhīna
   3:
@@ -21,15 +21,15 @@ word_by_word:
     translation: against them
     transliteration: ʿalayhimu
   5:
-    arabic: الۡقَوۡلُ
+    arabic: ٱلۡقَوۡلُ
     translation: the word
     transliteration: l-qawlu
   6:
-    arabic: فِىۡۤ
+    arabic: فِيٓ
     translation: among
     transliteration: fī
   7:
-    arabic: اُمَمٍ
+    arabic: أُمَمٖ
     translation: nations
     transliteration: umamin
   8:
@@ -41,11 +41,11 @@ word_by_word:
     translation: (that) already passed away
     transliteration: khalat
   10:
-    arabic: مِنۡ
+    arabic: مِن
     translation: before them
     transliteration: min
   11:
-    arabic: قَبۡلِهِمۡ
+    arabic: قَبۡلِهِم
     translation: before them
     transliteration: qablihim
   12:
@@ -53,23 +53,23 @@ word_by_word:
     translation: of
     transliteration: mina
   13:
-    arabic: الۡجِنِّ
+    arabic: ٱلۡجِنِّ
     translation: (the) jinn
     transliteration: l-jini
   14:
-    arabic: وَالۡاِنۡسِ​ؕ
+    arabic: وَٱلۡإِنسِۖ
     translation: and the men
     transliteration: wal-insi
   15:
-    arabic: اِنَّهُمۡ
+    arabic: إِنَّهُمۡ
     translation: Indeed, they
     transliteration: innahum
   16:
-    arabic: كَانُوۡا
+    arabic: كَانُواْ
     translation: are
     transliteration: kānū
   17:
-    arabic: خٰسِرِيۡنَ‏
+    arabic: خَٰسِرِينَ
     translation: (the) losers
     transliteration: khāsirīna
 ---

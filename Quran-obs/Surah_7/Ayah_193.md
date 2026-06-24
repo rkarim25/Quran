@@ -1,23 +1,23 @@
 ---
-arabic_ayat: وَاِنۡ تَدۡعُوۡهُمۡ اِلَى الۡهُدٰى لَا يَتَّبِعُوۡكُمۡ​ ؕ سَوَآءٌ عَلَيۡكُمۡ
-  اَدَعَوۡتُمُوۡهُمۡ اَمۡ اَنۡـتُمۡ صٰمِتُوۡنَ‏
+arabic_ayat: وَإِن تَدۡعُوهُمۡ إِلَى ٱلۡهُدَىٰ لَا يَتَّبِعُوكُمۡۚ سَوَآءٌ عَلَيۡكُمۡ
+  أَدَعَوۡتُمُوهُمۡ أَمۡ أَنتُمۡ صَٰمِتُونَ
 sentence_translation: And if you ˹idolaters˺ call upon them for guidance, they cannot
   respond to you. It is all the same whether you call them or remain silent.
 word_by_word:
   1:
-    arabic: وَاِنۡ
+    arabic: وَإِن
     translation: And if
     transliteration: wa-in
   2:
-    arabic: تَدۡعُوۡهُمۡ
+    arabic: تَدۡعُوهُمۡ
     translation: you call them
     transliteration: tadʿūhum
   3:
-    arabic: اِلَى
+    arabic: إِلَى
     translation: to
     transliteration: ilā
   4:
-    arabic: الۡهُدٰى
+    arabic: ٱلۡهُدَىٰ
     translation: the guidance
     transliteration: l-hudā
   5:
@@ -25,7 +25,7 @@ word_by_word:
     translation: not
     transliteration: lā
   6:
-    arabic: يَتَّبِعُوۡكُمۡ​ ؕ
+    arabic: يَتَّبِعُوكُمۡۚ
     translation: will they follow you
     transliteration: yattabiʿūkum
   7:
@@ -37,19 +37,19 @@ word_by_word:
     translation: for you
     transliteration: ʿalaykum
   9:
-    arabic: اَدَعَوۡتُمُوۡهُمۡ
+    arabic: أَدَعَوۡتُمُوهُمۡ
     translation: whether you call them
     transliteration: adaʿawtumūhum
   10:
-    arabic: اَمۡ
+    arabic: أَمۡ
     translation: or
     transliteration: am
   11:
-    arabic: اَنۡـتُمۡ
+    arabic: أَنتُمۡ
     translation: you
     transliteration: antum
   12:
-    arabic: صٰمِتُوۡنَ‏
+    arabic: صَٰمِتُونَ
     translation: remain silent
     transliteration: ṣāmitūna
 ---

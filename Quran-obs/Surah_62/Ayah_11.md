@@ -1,46 +1,46 @@
 ---
-arabic_ayat: وَاِذَا رَاَوۡا تِجَارَةً اَوۡ لَهۡوَا۟ اۨنْفَضُّوۡۤا اِلَيۡهَا وَتَرَكُوۡكَ
-  قَآٮِٕمًا​ ؕ قُلۡ مَا عِنۡدَ اللّٰهِ خَيۡرٌ مِّنَ اللَّهۡوِ وَمِنَ التِّجَارَةِ​
-  ؕ وَاللّٰهُ خَيۡرُ الرّٰزِقِيۡنَ‏
+arabic_ayat: وَإِذَا رَأَوۡاْ تِجَٰرَةً أَوۡ لَهۡوًا ٱنفَضُّوٓاْ إِلَيۡهَا وَتَرَكُوكَ
+  قَآئِمٗاۚ قُلۡ مَا عِندَ ٱللَّهِ خَيۡرٞ مِّنَ ٱللَّهۡوِ وَمِنَ ٱلتِّجَٰرَةِۚ وَٱللَّهُ
+  خَيۡرُ ٱلرَّٰزِقِينَ
 sentence_translation: When they saw the fanfare along with the caravan, they ˹almost
   all˺ flocked to it, leaving you ˹O Prophet˺ standing ˹on the pulpit˺. Say, “What
   is with Allah is far better than amusement and merchandise. And Allah is the Best
   Provider.”
 word_by_word:
   1:
-    arabic: وَاِذَا
+    arabic: وَإِذَا
     translation: And when
     transliteration: wa-idhā
   2:
-    arabic: رَاَوۡا
+    arabic: رَأَوۡاْ
     translation: they saw
     transliteration: ra-aw
   3:
-    arabic: تِجَارَةً
+    arabic: تِجَٰرَةً
     translation: a transaction
     transliteration: tijāratan
   4:
-    arabic: اَوۡ
+    arabic: أَوۡ
     translation: or
     transliteration: aw
   5:
-    arabic: لَهۡوَا۟
+    arabic: لَهۡوًا
     translation: a sport
     transliteration: lahwan
   6:
-    arabic: اۨنْفَضُّوۡۤا
+    arabic: ٱنفَضُّوٓاْ
     translation: they rushed
     transliteration: infaḍḍū
   7:
-    arabic: اِلَيۡهَا
+    arabic: إِلَيۡهَا
     translation: to it
     transliteration: ilayhā
   8:
-    arabic: وَتَرَكُوۡكَ
+    arabic: وَتَرَكُوكَ
     translation: and left you
     transliteration: watarakūka
   9:
-    arabic: قَآٮِٕمًا​ ؕ
+    arabic: قَآئِمٗاۚ
     translation: standing
     transliteration: qāiman
   10:
@@ -52,15 +52,15 @@ word_by_word:
     translation: What
     transliteration: mā
   12:
-    arabic: عِنۡدَ
+    arabic: عِندَ
     translation: (is) with
     transliteration: ʿinda
   13:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   14:
-    arabic: خَيۡرٌ
+    arabic: خَيۡرٞ
     translation: (is) better
     transliteration: khayrun
   15:
@@ -68,7 +68,7 @@ word_by_word:
     translation: than
     transliteration: mina
   16:
-    arabic: اللَّهۡوِ
+    arabic: ٱللَّهۡوِ
     translation: the sport
     transliteration: l-lahwi
   17:
@@ -76,11 +76,11 @@ word_by_word:
     translation: and from
     transliteration: wamina
   18:
-    arabic: التِّجَارَةِ​ ؕ
+    arabic: ٱلتِّجَٰرَةِۚ
     translation: (any) transaction
     transliteration: l-tijārati
   19:
-    arabic: وَاللّٰهُ
+    arabic: وَٱللَّهُ
     translation: And Allah
     transliteration: wal-lahu
   20:
@@ -88,7 +88,7 @@ word_by_word:
     translation: (is the) Best
     transliteration: khayru
   21:
-    arabic: الرّٰزِقِيۡنَ‏
+    arabic: ٱلرَّٰزِقِينَ
     translation: (of) the Providers
     transliteration: l-rāziqīna
 ---

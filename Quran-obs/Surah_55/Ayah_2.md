@@ -1,5 +1,5 @@
 ---
-arabic_ayat: عَلَّمَ الۡقُرۡاٰنَؕ‏
+arabic_ayat: عَلَّمَ ٱلۡقُرۡءَانَ
 sentence_translation: taught the Quran,
 word_by_word:
   1:
@@ -7,7 +7,7 @@ word_by_word:
     translation: He taught
     transliteration: ʿallama
   2:
-    arabic: الۡقُرۡاٰنَؕ‏
+    arabic: ٱلۡقُرۡءَانَ
     translation: the Quran
     transliteration: l-qur'āna
 ---

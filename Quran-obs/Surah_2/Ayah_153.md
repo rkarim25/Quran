@@ -1,39 +1,39 @@
 ---
-arabic_ayat: يٰٓاَيُّهَا الَّذِيۡنَ اٰمَنُوا اسۡتَعِيۡنُوۡا بِالصَّبۡرِ وَالصَّلٰوةِ ؕ
-  اِنَّ اللّٰهَ مَعَ الصّٰبِرِيۡنَ‏
+arabic_ayat: يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُواْ ٱسۡتَعِينُواْ بِٱلصَّبۡرِ وَٱلصَّلَوٰةِۚ
+  إِنَّ ٱللَّهَ مَعَ ٱلصَّٰبِرِينَ
 sentence_translation: O believers! Seek comfort in patience and prayer. Allah is truly
   with those who are patient.
 word_by_word:
   1:
-    arabic: يٰٓاَيُّهَا
+    arabic: يَٰٓأَيُّهَا
     translation: O you
     transliteration: yāayyuhā
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ ءَ
     translation: who
     transliteration: alladhīna
   3:
-    arabic: اٰمَنُوا
+    arabic: امَنُواْ
     translation: believe[d]
     transliteration: āmanū
   4:
-    arabic: اسۡتَعِيۡنُوۡا
+    arabic: ٱسۡتَعِينُواْ
     translation: Seek help
     transliteration: is'taʿīnū
   5:
-    arabic: بِالصَّبۡرِ
+    arabic: بِٱلصَّبۡرِ
     translation: through patience
     transliteration: bil-ṣabri
   6:
-    arabic: وَالصَّلٰوةِ ؕ
+    arabic: وَٱلصَّلَوٰةِۚ
     translation: and the prayer
     transliteration: wal-ṣalati
   7:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   8:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   9:
@@ -41,7 +41,7 @@ word_by_word:
     translation: (is) with
     transliteration: maʿa
   10:
-    arabic: الصّٰبِرِيۡنَ‏
+    arabic: ٱلصَّٰبِرِينَ
     translation: the patient ones
     transliteration: l-ṣābirīna
 ---

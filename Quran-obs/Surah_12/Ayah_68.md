@@ -1,8 +1,7 @@
 ---
-arabic_ayat: "وَلَمَّا دَخَلُوۡا مِنۡ حَيۡثُ اَمَرَهُمۡ اَبُوۡهُمۡ ؕمَا كَانَ يُغۡنِىۡ\
-  \ عَنۡهُمۡ مِّنَ اللّٰهِ مِنۡ شَىۡءٍ اِلَّا حَاجَةً فِىۡ نَفۡسِ يَعۡقُوۡبَ قَضٰٮهَا​ؕ\
-  \ وَاِنَّهٗ لَذُوۡ عِلۡمٍ لِّمَا عَلَّمۡنٰهُ وَلٰكِنَّ اَكۡثَرَ النَّاسِ لَا يَعۡلَمُوۡنَ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: وَلَمَّا دَخَلُواْ مِنۡ حَيۡثُ أَمَرَهُمۡ أَبُوهُم مَّا كَانَ يُغۡنِي
+  عَنۡهُم مِّنَ ٱللَّهِ مِن شَيۡءٍ إِلَّا حَاجَةٗ فِي نَفۡسِ يَعۡقُوبَ قَضَىٰهَاۚ
+  وَإِنَّهُۥ لَذُو عِلۡمٖ لِّمَا عَلَّمۡنَٰهُ وَلَٰكِنَّ أَكۡثَرَ ٱلنَّاسِ لَا يَعۡلَمُونَ
 sentence_translation: Then when they entered as their father had instructed them,
   this did not help them against ˹the Will of˺ Allah whatsoever. It was just a desire
   in Jacob’s heart which he satisfied. He was truly blessed with ˹great˺ knowledge
@@ -13,7 +12,7 @@ word_by_word:
     translation: And when
     transliteration: walammā
   2:
-    arabic: دَخَلُوۡا
+    arabic: دَخَلُواْ
     translation: they entered
     transliteration: dakhalū
   3:
@@ -25,15 +24,15 @@ word_by_word:
     translation: where
     transliteration: ḥaythu
   5:
-    arabic: اَمَرَهُمۡ
+    arabic: أَمَرَهُمۡ
     translation: ordered them
     transliteration: amarahum
   6:
-    arabic: اَبُوۡهُمۡ ؕ
+    arabic: أَبُوهُم
     translation: their father
     transliteration: abūhum
   7:
-    arabic: مَا
+    arabic: مَّا
     translation: not
     transliteration: mā
   8:
@@ -41,11 +40,11 @@ word_by_word:
     translation: it
     transliteration: kāna
   9:
-    arabic: يُغۡنِىۡ
+    arabic: يُغۡنِي
     translation: avail(ed)
     transliteration: yugh'nī
   10:
-    arabic: عَنۡهُمۡ
+    arabic: عَنۡهُم
     translation: them
     transliteration: ʿanhum
   11:
@@ -53,27 +52,27 @@ word_by_word:
     translation: against
     transliteration: mina
   12:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   13:
-    arabic: مِنۡ
+    arabic: مِن
     translation: any
     transliteration: min
   14:
-    arabic: شَىۡءٍ
+    arabic: شَيۡءٍ
     translation: thing
     transliteration: shayin
   15:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: but
     transliteration: illā
   16:
-    arabic: حَاجَةً
+    arabic: حَاجَةٗ
     translation: (it was) a need
     transliteration: ḥājatan
   17:
-    arabic: فِىۡ
+    arabic: فِي
     translation: of
     transliteration: fī
   18:
@@ -81,23 +80,23 @@ word_by_word:
     translation: Yaqub's soul
     transliteration: nafsi
   19:
-    arabic: يَعۡقُوۡبَ
+    arabic: يَعۡقُوبَ
     translation: Yaqub's soul
     transliteration: yaʿqūba
   20:
-    arabic: قَضٰٮهَا​ؕ
+    arabic: قَضَىٰهَاۚ
     translation: which he carried out
     transliteration: qaḍāhā
   21:
-    arabic: وَاِنَّهٗ
+    arabic: وَإِنَّهُۥ
     translation: And indeed, he
     transliteration: wa-innahu
   22:
-    arabic: لَذُوۡ
+    arabic: لَذُو
     translation: (was) a possessor
     transliteration: ladhū
   23:
-    arabic: عِلۡمٍ
+    arabic: عِلۡمٖ
     translation: (of) knowledge
     transliteration: ʿil'min
   24:
@@ -105,19 +104,19 @@ word_by_word:
     translation: because
     transliteration: limā
   25:
-    arabic: عَلَّمۡنٰهُ
+    arabic: عَلَّمۡنَٰهُ
     translation: We had taught him
     transliteration: ʿallamnāhu
   26:
-    arabic: وَلٰكِنَّ
+    arabic: وَلَٰكِنَّ
     translation: but
     transliteration: walākinna
   27:
-    arabic: اَكۡثَرَ
+    arabic: أَكۡثَرَ
     translation: most
     transliteration: akthara
   28:
-    arabic: النَّاسِ
+    arabic: ٱلنَّاسِ
     translation: (of) the people
     transliteration: l-nāsi
   29:
@@ -125,7 +124,7 @@ word_by_word:
     translation: (do) not
     transliteration: lā
   30:
-    arabic: "يَعۡلَمُوۡنَ‏ \uFEFF\uFEFF"
+    arabic: يَعۡلَمُونَ
     translation: know
     transliteration: yaʿlamūna
 ---

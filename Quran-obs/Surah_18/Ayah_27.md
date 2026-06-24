@@ -1,27 +1,27 @@
 ---
-arabic_ayat: وَاتۡلُ مَاۤ اُوۡحِىَ اِلَيۡكَ مِنۡ كِتَابِ رَبِّكَ ​ؕ لَا مُبَدِّلَ
-  لِكَلِمٰتِهٖ​ ۚ وَلَنۡ تَجِدَ مِنۡ دُوۡنِهٖ مُلۡتَحَدًا‏
+arabic_ayat: وَٱتۡلُ مَآ أُوحِيَ إِلَيۡكَ مِن كِتَابِ رَبِّكَۖ لَا مُبَدِّلَ لِكَلِمَٰتِهِۦ
+  وَلَن تَجِدَ مِن دُونِهِۦ مُلۡتَحَدٗا
 sentence_translation: Recite what has been revealed to you from the Book of your Lord.
   None can change His Words, nor can you find any refuge besides Him.
 word_by_word:
   1:
-    arabic: وَاتۡلُ
+    arabic: وَٱتۡلُ
     translation: And recite
     transliteration: wa-ut'lu
   2:
-    arabic: مَاۤ
+    arabic: مَآ
     translation: what
     transliteration: mā
   3:
-    arabic: اُوۡحِىَ
+    arabic: أُوحِيَ
     translation: has been revealed
     transliteration: ūḥiya
   4:
-    arabic: اِلَيۡكَ
+    arabic: إِلَيۡكَ
     translation: to you
     transliteration: ilayka
   5:
-    arabic: مِنۡ
+    arabic: مِن
     translation: of
     transliteration: min
   6:
@@ -29,7 +29,7 @@ word_by_word:
     translation: the Book
     transliteration: kitābi
   7:
-    arabic: رَبِّكَ ​ؕ
+    arabic: رَبِّكَۖ
     translation: (of) your Lord
     transliteration: rabbika
   8:
@@ -41,11 +41,11 @@ word_by_word:
     translation: can change
     transliteration: mubaddila
   10:
-    arabic: لِكَلِمٰتِهٖ​ ۚ
+    arabic: لِكَلِمَٰتِهِۦ
     translation: His Words
     transliteration: likalimātihi
   11:
-    arabic: وَلَنۡ
+    arabic: وَلَن
     translation: and never
     transliteration: walan
   12:
@@ -53,15 +53,15 @@ word_by_word:
     translation: you will find
     transliteration: tajida
   13:
-    arabic: مِنۡ
+    arabic: مِن
     translation: besides Him
     transliteration: min
   14:
-    arabic: دُوۡنِهٖ
+    arabic: دُونِهِۦ
     translation: besides Him
     transliteration: dūnihi
   15:
-    arabic: مُلۡتَحَدًا‏
+    arabic: مُلۡتَحَدٗا
     translation: a refuge
     transliteration: mul'taḥadan
 ---

@@ -1,21 +1,21 @@
 ---
-arabic_ayat: فَلَمَّاۤ اَحَسَّ عِيۡسٰى مِنۡهُمُ الۡكُفۡرَ قَالَ مَنۡ اَنۡصَارِىۡۤ
-  اِلَى اللّٰهِ​ؕ قَالَ الۡحَـوَارِيُّوۡنَ نَحۡنُ اَنۡصَارُ اللّٰهِ​ۚ اٰمَنَّا بِاللّٰهِ​ۚ
-  وَاشۡهَدۡ بِاَنَّا مُسۡلِمُوۡنَ‏
+arabic_ayat: ۞ فَلَمَّآ أَحَسَّ عِيسَىٰ مِنۡهُمُ ٱلۡكُفۡرَ قَالَ مَنۡ أَنصَارِيٓ
+  إِلَى ٱللَّهِۖ قَالَ ٱلۡحَوَارِيُّونَ نَحۡنُ أَنصَارُ ٱللَّهِ ءَامَنَّا بِٱللَّهِ
+  وَٱشۡهَدۡ بِأَنَّا مُسۡلِمُونَ
 sentence_translation: When Jesus sensed disbelief from his people, he asked, “Who
   will stand up with me for Allah?” The disciples replied, “We will stand up for Allah.
   We believe in Allah, so bear witness that we have submitted.”
 word_by_word:
   1:
-    arabic: ۞ فَلَمَّاۤ
+    arabic: ۞ فَلَمَّآ
     translation: Then when
     transliteration: falammā
   2:
-    arabic: اَحَسَّ
+    arabic: أَحَسَّ
     translation: perceived
     transliteration: aḥassa
   3:
-    arabic: عِيۡسٰى
+    arabic: عِيسَىٰ
     translation: Isa
     transliteration: ʿīsā
   4:
@@ -23,7 +23,7 @@ word_by_word:
     translation: from them
     transliteration: min'humu
   5:
-    arabic: الۡكُفۡرَ
+    arabic: ٱلۡكُفۡرَ
     translation: '[the] disbelief'
     transliteration: l-kuf'ra
   6:
@@ -35,15 +35,15 @@ word_by_word:
     translation: Who
     transliteration: man
   8:
-    arabic: اَنۡصَارِىۡۤ
+    arabic: أَنصَارِيٓ
     translation: (will be) my helpers
     transliteration: anṣārī
   9:
-    arabic: اِلَى
+    arabic: إِلَى
     translation: to
     transliteration: ilā
   10:
-    arabic: اللّٰهِ​ؕ
+    arabic: ٱللَّهِۖ
     translation: Allah
     transliteration: l-lahi
   11:
@@ -51,7 +51,7 @@ word_by_word:
     translation: Said
     transliteration: qāla
   12:
-    arabic: الۡحَـوَارِيُّوۡنَ
+    arabic: ٱلۡحَوَارِيُّونَ
     translation: the disciples
     transliteration: l-ḥawāriyūna
   13:
@@ -59,31 +59,31 @@ word_by_word:
     translation: We
     transliteration: naḥnu
   14:
-    arabic: اَنۡصَارُ
+    arabic: أَنصَارُ
     translation: (will be the) helpers
     transliteration: anṣāru
   15:
-    arabic: اللّٰهِ​ۚ
+    arabic: ٱللَّهِ ءَ
     translation: (of) Allah
     transliteration: l-lahi
   16:
-    arabic: اٰمَنَّا
+    arabic: امَنَّا
     translation: we believe[d]
     transliteration: āmannā
   17:
-    arabic: بِاللّٰهِ​ۚ
+    arabic: بِٱللَّهِ
     translation: in Allah
     transliteration: bil-lahi
   18:
-    arabic: وَاشۡهَدۡ
+    arabic: وَٱشۡهَدۡ
     translation: and bear witness
     transliteration: wa-ish'had
   19:
-    arabic: بِاَنَّا
+    arabic: بِأَنَّا
     translation: that we
     transliteration: bi-annā
   20:
-    arabic: مُسۡلِمُوۡنَ‏
+    arabic: مُسۡلِمُونَ
     translation: (are) Muslims
     transliteration: mus'limūna
 ---

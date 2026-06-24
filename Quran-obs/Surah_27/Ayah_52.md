@@ -1,6 +1,6 @@
 ---
-arabic_ayat: فَتِلۡكَ بُيُوۡتُهُمۡ خَاوِيَةً ۢ بِمَا ظَلَمُوۡا​ ؕ اِنَّ فِىۡ ذٰ لِكَ
-  لَاٰيَةً لِّـقَوۡمٍ يَّعۡلَمُوۡنَ‏
+arabic_ayat: فَتِلۡكَ بُيُوتُهُمۡ خَاوِيَةَۢ بِمَا ظَلَمُوٓاْۚ إِنَّ فِي ذَٰلِكَ لَأٓيَةٗ
+  لِّقَوۡمٖ يَعۡلَمُونَ
 sentence_translation: So their homes are there, ˹but completely˺ ruined because of
   their wrongdoing. Surely in this is a lesson for people of knowledge.
 word_by_word:
@@ -9,11 +9,11 @@ word_by_word:
     translation: So, these
     transliteration: fatil'ka
   2:
-    arabic: بُيُوۡتُهُمۡ
+    arabic: بُيُوتُهُمۡ
     translation: (are) their houses
     transliteration: buyūtuhum
   3:
-    arabic: خَاوِيَةً ۢ
+    arabic: خَاوِيَةَۢ
     translation: ruined
     transliteration: khāwiyatan
   4:
@@ -21,31 +21,31 @@ word_by_word:
     translation: because
     transliteration: bimā
   5:
-    arabic: ظَلَمُوۡا​ ؕ
+    arabic: ظَلَمُوٓاْۚ
     translation: they wronged
     transliteration: ẓalamū
   6:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   7:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   8:
-    arabic: ذٰ لِكَ
+    arabic: ذَٰلِكَ
     translation: that
     transliteration: dhālika
   9:
-    arabic: لَاٰيَةً
+    arabic: لَأٓيَةٗ
     translation: surely, is a sign
     transliteration: laāyatan
   10:
-    arabic: لِّـقَوۡمٍ
+    arabic: لِّقَوۡمٖ
     translation: for a people
     transliteration: liqawmin
   11:
-    arabic: يَّعۡلَمُوۡنَ‏
+    arabic: يَعۡلَمُونَ
     translation: who know
     transliteration: yaʿlamūna
 ---

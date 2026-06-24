@@ -1,11 +1,11 @@
 ---
-arabic_ayat: اِنَّكَ لَا تُسۡمِعُ الۡمَوۡتٰى وَلَا تُسۡمِعُ الصُّمَّ الدُّعَآءَ اِذَا
-  وَلَّوۡا مُدۡبِرِيۡنَ‏
+arabic_ayat: إِنَّكَ لَا تُسۡمِعُ ٱلۡمَوۡتَىٰ وَلَا تُسۡمِعُ ٱلصُّمَّ ٱلدُّعَآءَ
+  إِذَا وَلَّوۡاْ مُدۡبِرِينَ
 sentence_translation: You certainly cannot make the dead hear ˹the truth˺. Nor can
   you make the deaf hear the call when they turn their backs and walk away.
 word_by_word:
   1:
-    arabic: اِنَّكَ
+    arabic: إِنَّكَ
     translation: Indeed, you
     transliteration: innaka
   2:
@@ -17,7 +17,7 @@ word_by_word:
     translation: cause to hear
     transliteration: tus'miʿu
   4:
-    arabic: الۡمَوۡتٰى
+    arabic: ٱلۡمَوۡتَىٰ
     translation: the dead
     transliteration: l-mawtā
   5:
@@ -29,23 +29,23 @@ word_by_word:
     translation: can you cause to hear
     transliteration: tus'miʿu
   7:
-    arabic: الصُّمَّ
+    arabic: ٱلصُّمَّ
     translation: the deaf
     transliteration: l-ṣuma
   8:
-    arabic: الدُّعَآءَ
+    arabic: ٱلدُّعَآءَ
     translation: the call
     transliteration: l-duʿāa
   9:
-    arabic: اِذَا
+    arabic: إِذَا
     translation: when
     transliteration: idhā
   10:
-    arabic: وَلَّوۡا
+    arabic: وَلَّوۡاْ
     translation: they turn back
     transliteration: wallaw
   11:
-    arabic: مُدۡبِرِيۡنَ‏
+    arabic: مُدۡبِرِينَ
     translation: retreating
     transliteration: mud'birīna
 ---

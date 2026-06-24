@@ -1,5 +1,5 @@
 ---
-arabic_ayat: ثُمَّ لَقَطَعۡنَا مِنۡهُ الۡوَتِيۡنَ  ۖ‏
+arabic_ayat: ثُمَّ لَقَطَعۡنَا مِنۡهُ ٱلۡوَتِينَ
 sentence_translation: then severed his aorta,
 word_by_word:
   1:
@@ -15,7 +15,7 @@ word_by_word:
     translation: from him
     transliteration: min'hu
   4:
-    arabic: الۡوَتِيۡنَ  ۖ‏
+    arabic: ٱلۡوَتِينَ
     translation: the aorta
     transliteration: l-watīna
 ---

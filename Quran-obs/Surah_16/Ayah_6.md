@@ -1,5 +1,5 @@
 ---
-arabic_ayat: وَلَكُمۡ فِيۡهَا جَمَالٌ حِيۡنَ تُرِيۡحُوۡنَ وَحِيۡنَ تَسۡرَحُوۡنَ‏
+arabic_ayat: وَلَكُمۡ فِيهَا جَمَالٌ حِينَ تُرِيحُونَ وَحِينَ تَسۡرَحُونَ
 sentence_translation: They are also pleasing to you when you bring them home and when
   you take them out to graze.
 word_by_word:
@@ -8,7 +8,7 @@ word_by_word:
     translation: And for you
     transliteration: walakum
   2:
-    arabic: فِيۡهَا
+    arabic: فِيهَا
     translation: in them
     transliteration: fīhā
   3:
@@ -16,19 +16,19 @@ word_by_word:
     translation: (is) beauty
     transliteration: jamālun
   4:
-    arabic: حِيۡنَ
+    arabic: حِينَ
     translation: when
     transliteration: ḥīna
   5:
-    arabic: تُرِيۡحُوۡنَ
+    arabic: تُرِيحُونَ
     translation: you bring them in
     transliteration: turīḥūna
   6:
-    arabic: وَحِيۡنَ
+    arabic: وَحِينَ
     translation: and when
     transliteration: waḥīna
   7:
-    arabic: تَسۡرَحُوۡنَ‏
+    arabic: تَسۡرَحُونَ
     translation: you take them out
     transliteration: tasraḥūna
 ---

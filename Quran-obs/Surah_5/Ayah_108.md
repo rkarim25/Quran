@@ -1,49 +1,49 @@
 ---
-arabic_ayat: ذٰ لِكَ اَدۡنٰٓى اَنۡ يَّاۡتُوۡا بِالشَّهَادَةِ عَلٰى وَجۡهِهَاۤ اَوۡ
-  يَخَافُوۡۤا اَنۡ تُرَدَّ اَيۡمَانٌۢ بَعۡدَ اَيۡمَانِهِمۡ​ؕ وَاتَّقُوا اللّٰهَ وَاسۡمَعُوۡا​
-  ؕ وَاللّٰهُ لَا يَهۡدِى الۡقَوۡمَ الۡفٰسِقِيۡنَ‏
+arabic_ayat: ذَٰلِكَ أَدۡنَىٰٓ أَن يَأۡتُواْ بِٱلشَّهَٰدَةِ عَلَىٰ وَجۡهِهَآ أَوۡ
+  يَخَافُوٓاْ أَن تُرَدَّ أَيۡمَٰنُۢ بَعۡدَ أَيۡمَٰنِهِمۡۗ وَٱتَّقُواْ ٱللَّهَ وَٱسۡمَعُواْۗ
+  وَٱللَّهُ لَا يَهۡدِي ٱلۡقَوۡمَ ٱلۡفَٰسِقِينَ
 sentence_translation: In this way it is more likely that witnesses will give true
   testimony or else fear that their oaths could be refuted by those of the heirs.
   Be mindful of Allah and obey. For Allah does not guide the rebellious people.
 word_by_word:
   1:
-    arabic: ذٰ لِكَ
+    arabic: ذَٰلِكَ
     translation: That
     transliteration: dhālika
   2:
-    arabic: اَدۡنٰٓى
+    arabic: أَدۡنَىٰٓ
     translation: (is) closer
     transliteration: adnā
   3:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that
     transliteration: an
   4:
-    arabic: يَّاۡتُوۡا
+    arabic: يَأۡتُواْ
     translation: they will give
     transliteration: yatū
   5:
-    arabic: بِالشَّهَادَةِ
+    arabic: بِٱلشَّهَٰدَةِ
     translation: the testimony
     transliteration: bil-shahādati
   6:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: in
     transliteration: ʿalā
   7:
-    arabic: وَجۡهِهَاۤ
+    arabic: وَجۡهِهَآ
     translation: its (true) form
     transliteration: wajhihā
   8:
-    arabic: اَوۡ
+    arabic: أَوۡ
     translation: or
     transliteration: aw
   9:
-    arabic: يَخَافُوۡۤا
+    arabic: يَخَافُوٓاْ
     translation: they would fear
     transliteration: yakhāfū
   10:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that
     transliteration: an
   11:
@@ -51,7 +51,7 @@ word_by_word:
     translation: will be refuted
     transliteration: turadda
   12:
-    arabic: اَيۡمَانٌۢ
+    arabic: أَيۡمَٰنُۢ
     translation: their oaths
     transliteration: aymānun
   13:
@@ -59,23 +59,23 @@ word_by_word:
     translation: after
     transliteration: baʿda
   14:
-    arabic: اَيۡمَانِهِمۡ​ؕ
+    arabic: أَيۡمَٰنِهِمۡۗ
     translation: their (others) oaths
     transliteration: aymānihim
   15:
-    arabic: وَاتَّقُوا
+    arabic: وَٱتَّقُواْ
     translation: And fear
     transliteration: wa-ittaqū
   16:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   17:
-    arabic: وَاسۡمَعُوۡا​ ؕ
+    arabic: وَٱسۡمَعُواْۗ
     translation: and listen
     transliteration: wa-is'maʿū
   18:
-    arabic: وَاللّٰهُ
+    arabic: وَٱللَّهُ
     translation: and Allah
     transliteration: wal-lahu
   19:
@@ -83,15 +83,15 @@ word_by_word:
     translation: (does) not
     transliteration: lā
   20:
-    arabic: يَهۡدِى
+    arabic: يَهۡدِي
     translation: guide
     transliteration: yahdī
   21:
-    arabic: الۡقَوۡمَ
+    arabic: ٱلۡقَوۡمَ
     translation: the people
     transliteration: l-qawma
   22:
-    arabic: الۡفٰسِقِيۡنَ‏
+    arabic: ٱلۡفَٰسِقِينَ
     translation: the defiantly disobedient
     transliteration: l-fāsiqīna
 ---

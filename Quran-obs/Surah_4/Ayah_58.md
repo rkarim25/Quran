@@ -1,49 +1,49 @@
 ---
-arabic_ayat: اِنَّ اللّٰهَ يَاۡمُرُكُمۡ اَنۡ تُؤَدُّوا الۡاَمٰنٰتِ اِلٰٓى اَهۡلِهَا
-  ۙ وَاِذَا حَكَمۡتُمۡ بَيۡنَ النَّاسِ اَنۡ تَحۡكُمُوۡا بِالۡعَدۡلِ​ ؕ اِنَّ اللّٰهَ
-  نِعِمَّا يَعِظُكُمۡ بِهٖ​ ؕ اِنَّ اللّٰهَ كَانَ سَمِيۡعًۢا بَصِيۡرًا‏
+arabic_ayat: ۞ إِنَّ ٱللَّهَ يَأۡمُرُكُمۡ أَن تُؤَدُّواْ ٱلۡأَمَٰنَٰتِ إِلَىٰٓ أَهۡلِهَا
+  وَإِذَا حَكَمۡتُم بَيۡنَ ٱلنَّاسِ أَن تَحۡكُمُواْ بِٱلۡعَدۡلِۚ إِنَّ ٱللَّهَ نِعِمَّا
+  يَعِظُكُم بِهِۦٓۗ إِنَّ ٱللَّهَ كَانَ سَمِيعَۢا بَصِيرٗا
 sentence_translation: Indeed, Allah commands you to return trusts to their rightful
   owners; and when you judge between people, judge with fairness. What a noble commandment
   from Allah to you! Surely Allah is All-Hearing, All-Seeing.
 word_by_word:
   1:
-    arabic: ۞ اِنَّ
+    arabic: ۞ إِنَّ
     translation: Indeed
     transliteration: inna
   2:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   3:
-    arabic: يَاۡمُرُكُمۡ
+    arabic: يَأۡمُرُكُمۡ
     translation: orders you
     transliteration: yamurukum
   4:
-    arabic: اَنۡ
+    arabic: أَن
     translation: to
     transliteration: an
   5:
-    arabic: تُؤَدُّوا
+    arabic: تُؤَدُّواْ
     translation: render
     transliteration: tu-addū
   6:
-    arabic: الۡاَمٰنٰتِ
+    arabic: ٱلۡأَمَٰنَٰتِ
     translation: the trusts
     transliteration: l-amānāti
   7:
-    arabic: اِلٰٓى
+    arabic: إِلَىٰٓ
     translation: to
     transliteration: ilā
   8:
-    arabic: اَهۡلِهَا ۙ
+    arabic: أَهۡلِهَا
     translation: their owners
     transliteration: ahlihā
   9:
-    arabic: وَاِذَا
+    arabic: وَإِذَا
     translation: and when
     transliteration: wa-idhā
   10:
-    arabic: حَكَمۡتُمۡ
+    arabic: حَكَمۡتُم
     translation: you judge
     transliteration: ḥakamtum
   11:
@@ -51,27 +51,27 @@ word_by_word:
     translation: between
     transliteration: bayna
   12:
-    arabic: النَّاسِ
+    arabic: ٱلنَّاسِ
     translation: the people
     transliteration: l-nāsi
   13:
-    arabic: اَنۡ
+    arabic: أَن
     translation: to
     transliteration: an
   14:
-    arabic: تَحۡكُمُوۡا
+    arabic: تَحۡكُمُواْ
     translation: judge
     transliteration: taḥkumū
   15:
-    arabic: بِالۡعَدۡلِ​ ؕ
+    arabic: بِٱلۡعَدۡلِۚ
     translation: with justice
     transliteration: bil-ʿadli
   16:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   17:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   18:
@@ -79,19 +79,19 @@ word_by_word:
     translation: excellently
     transliteration: niʿimmā
   19:
-    arabic: يَعِظُكُمۡ
+    arabic: يَعِظُكُم
     translation: advises you
     transliteration: yaʿiẓukum
   20:
-    arabic: بِهٖ​ ؕ
+    arabic: بِهِۦٓۗ
     translation: with it
     transliteration: bihi
   21:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   22:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   23:
@@ -99,11 +99,11 @@ word_by_word:
     translation: is
     transliteration: kāna
   24:
-    arabic: سَمِيۡعًۢا
+    arabic: سَمِيعَۢا
     translation: All-Hearing
     transliteration: samīʿan
   25:
-    arabic: بَصِيۡرًا‏
+    arabic: بَصِيرٗا
     translation: All-Seeing
     transliteration: baṣīran
 ---

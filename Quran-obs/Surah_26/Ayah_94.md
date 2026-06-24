@@ -1,14 +1,14 @@
 ---
-arabic_ayat: فَكُبۡكِبُوۡا فِيۡهَا هُمۡ وَالۡغَاوٗنَۙ‏
+arabic_ayat: فَكُبۡكِبُواْ فِيهَا هُمۡ وَٱلۡغَاوُۥنَ
 sentence_translation: Then the idols will be hurled headlong into Hell, along with
   the deviant
 word_by_word:
   1:
-    arabic: فَكُبۡكِبُوۡا
+    arabic: فَكُبۡكِبُواْ
     translation: Then they will be overturned
     transliteration: fakub'kibū
   2:
-    arabic: فِيۡهَا
+    arabic: فِيهَا
     translation: into it
     transliteration: fīhā
   3:
@@ -16,7 +16,7 @@ word_by_word:
     translation: they
     transliteration: hum
   4:
-    arabic: وَالۡغَاوٗنَۙ‏
+    arabic: وَٱلۡغَاوُۥنَ
     translation: and the deviators
     transliteration: wal-ghāwūna
 ---

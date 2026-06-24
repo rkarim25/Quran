@@ -1,18 +1,18 @@
 ---
-arabic_ayat: وَاَعۡطٰى قَلِيۡلًا وَّاَكۡدٰى‏
+arabic_ayat: وَأَعۡطَىٰ قَلِيلٗا وَأَكۡدَىٰٓ
 sentence_translation: and ˹initially˺ paid a little ˹for his salvation˺, and then
   stopped?
 word_by_word:
   1:
-    arabic: وَاَعۡطٰى
+    arabic: وَأَعۡطَىٰ
     translation: And gave
     transliteration: wa-aʿṭā
   2:
-    arabic: قَلِيۡلًا
+    arabic: قَلِيلٗا
     translation: a little
     transliteration: qalīlan
   3:
-    arabic: وَّاَكۡدٰى‏
+    arabic: وَأَكۡدَىٰٓ
     translation: and withheld
     transliteration: wa-akdā
 ---

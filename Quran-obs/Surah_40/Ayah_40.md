@@ -1,7 +1,7 @@
 ---
-arabic_ayat: مَنۡ عَمِلَ سَيِّـئَـةً فَلَا يُجۡزٰٓى اِلَّا مِثۡلَهَا ۚ وَمَنۡ عَمِلَ
-  صَالِحًـا مِّنۡ ذَكَرٍ اَوۡ اُنۡثٰى وَهُوَ مُؤۡمِنٌ فَاُولٰٓٮِٕكَ يَدۡخُلُوۡنَ الۡجَـنَّةَ
-  يُرۡزَقُوۡنَ فِيۡهَا بِغَيۡرِ حِسَابٍ‏
+arabic_ayat: مَنۡ عَمِلَ سَيِّئَةٗ فَلَا يُجۡزَىٰٓ إِلَّا مِثۡلَهَاۖ وَمَنۡ عَمِلَ
+  صَٰلِحٗا مِّن ذَكَرٍ أَوۡ أُنثَىٰ وَهُوَ مُؤۡمِنٞ فَأُوْلَٰٓئِكَ يَدۡخُلُونَ ٱلۡجَنَّةَ
+  يُرۡزَقُونَ فِيهَا بِغَيۡرِ حِسَابٖ
 sentence_translation: Whoever does an evil deed will only be paid back with its equivalent.
   And whoever does good, whether male or female, and is a believer, they will enter
   Paradise, where they will be provided for without limit.
@@ -15,7 +15,7 @@ word_by_word:
     translation: does
     transliteration: ʿamila
   3:
-    arabic: سَيِّـئَـةً
+    arabic: سَيِّئَةٗ
     translation: an evil
     transliteration: sayyi-atan
   4:
@@ -23,15 +23,15 @@ word_by_word:
     translation: then not
     transliteration: falā
   5:
-    arabic: يُجۡزٰٓى
+    arabic: يُجۡزَىٰٓ
     translation: he will be recompensed
     transliteration: yuj'zā
   6:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: but
     transliteration: illā
   7:
-    arabic: مِثۡلَهَا ۚ
+    arabic: مِثۡلَهَاۖ
     translation: (the) like thereof
     transliteration: mith'lahā
   8:
@@ -43,11 +43,11 @@ word_by_word:
     translation: does
     transliteration: ʿamila
   10:
-    arabic: صَالِحًـا
+    arabic: صَٰلِحٗا
     translation: righteous (deeds)
     transliteration: ṣāliḥan
   11:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: of
     transliteration: min
   12:
@@ -55,11 +55,11 @@ word_by_word:
     translation: male
     transliteration: dhakarin
   13:
-    arabic: اَوۡ
+    arabic: أَوۡ
     translation: or
     transliteration: aw
   14:
-    arabic: اُنۡثٰى
+    arabic: أُنثَىٰ
     translation: female
     transliteration: unthā
   15:
@@ -67,27 +67,27 @@ word_by_word:
     translation: while he
     transliteration: wahuwa
   16:
-    arabic: مُؤۡمِنٌ
+    arabic: مُؤۡمِنٞ
     translation: (is) a believer
     transliteration: mu'minun
   17:
-    arabic: فَاُولٰٓٮِٕكَ
+    arabic: فَأُوْلَٰٓئِكَ
     translation: then those
     transliteration: fa-ulāika
   18:
-    arabic: يَدۡخُلُوۡنَ
+    arabic: يَدۡخُلُونَ
     translation: will enter
     transliteration: yadkhulūna
   19:
-    arabic: الۡجَـنَّةَ
+    arabic: ٱلۡجَنَّةَ
     translation: Paradise
     transliteration: l-janata
   20:
-    arabic: يُرۡزَقُوۡنَ
+    arabic: يُرۡزَقُونَ
     translation: they will be given provision
     transliteration: yur'zaqūna
   21:
-    arabic: فِيۡهَا
+    arabic: فِيهَا
     translation: in it
     transliteration: fīhā
   22:
@@ -95,7 +95,7 @@ word_by_word:
     translation: without
     transliteration: bighayri
   23:
-    arabic: حِسَابٍ‏
+    arabic: حِسَابٖ
     translation: account
     transliteration: ḥisābin
 ---

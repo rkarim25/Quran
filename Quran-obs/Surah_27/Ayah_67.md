@@ -1,6 +1,6 @@
 ---
-arabic_ayat: وَقَالَ الَّذِيۡنَ كَفَرُوۡۤا ءَاِذَا كُنَّا تُرٰبًا وَّاٰبَآؤُنَاۤ
-  اَٮِٕنَّا لَمُخۡرَجُوۡنَ‏
+arabic_ayat: وَقَالَ ٱلَّذِينَ كَفَرُوٓاْ أَءِذَا كُنَّا تُرَٰبٗا وَءَابَآؤُنَآ
+  أَئِنَّا لَمُخۡرَجُونَ
 sentence_translation: The disbelievers ask, “When we and our fathers are reduced to
   dust, will we really be brought forth ˹alive˺?
 word_by_word:
@@ -9,15 +9,15 @@ word_by_word:
     translation: And say
     transliteration: waqāla
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   3:
-    arabic: كَفَرُوۡۤا
+    arabic: كَفَرُوٓاْ أَ
     translation: disbelieve
     transliteration: kafarū
   4:
-    arabic: ءَاِذَا
+    arabic: ءِذَا
     translation: What, when
     transliteration: a-idhā
   5:
@@ -25,19 +25,19 @@ word_by_word:
     translation: we have become
     transliteration: kunnā
   6:
-    arabic: تُرٰبًا
+    arabic: تُرَٰبٗا
     translation: dust
     transliteration: turāban
   7:
-    arabic: وَّاٰبَآؤُنَاۤ
+    arabic: وَءَابَآؤُنَآ
     translation: and our forefathers
     transliteration: waābāunā
   8:
-    arabic: اَٮِٕنَّا
+    arabic: أَئِنَّا
     translation: will we
     transliteration: a-innā
   9:
-    arabic: لَمُخۡرَجُوۡنَ‏
+    arabic: لَمُخۡرَجُونَ
     translation: surely be brought out
     transliteration: lamukh'rajūna
 ---

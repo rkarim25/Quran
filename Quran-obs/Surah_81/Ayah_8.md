@@ -1,17 +1,17 @@
 ---
-arabic_ayat: وَاِذَا الۡمَوۡءٗدَةُ سُٮِٕلَتۡۙ‏
+arabic_ayat: وَإِذَا ٱلۡمَوۡءُۥدَةُ سُئِلَتۡ
 sentence_translation: and when baby girls, buried alive, are asked
 word_by_word:
   1:
-    arabic: وَاِذَا
+    arabic: وَإِذَا
     translation: And when
     transliteration: wa-idhā
   2:
-    arabic: الۡمَوۡءٗدَةُ
+    arabic: ٱلۡمَوۡءُۥدَةُ
     translation: the female infant buried alive
     transliteration: l-mawūdatu
   3:
-    arabic: سُٮِٕلَتۡۙ‏
+    arabic: سُئِلَتۡ
     translation: is asked
     transliteration: su-ilat
 ---

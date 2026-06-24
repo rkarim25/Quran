@@ -1,26 +1,26 @@
 ---
-arabic_ayat: عٰلِمُ الۡغَيۡبِ وَالشَّهَادَةِ الۡكَبِيۡرُ الۡمُتَعَالِ‏
+arabic_ayat: عَٰلِمُ ٱلۡغَيۡبِ وَٱلشَّهَٰدَةِ ٱلۡكَبِيرُ ٱلۡمُتَعَالِ
 sentence_translation: ˹He is the˺ Knower of the seen and the unseen—the All-Great,
   Most Exalted.
 word_by_word:
   1:
-    arabic: عٰلِمُ
+    arabic: عَٰلِمُ
     translation: Knower
     transliteration: ʿālimu
   2:
-    arabic: الۡغَيۡبِ
+    arabic: ٱلۡغَيۡبِ
     translation: (of) the unseen
     transliteration: l-ghaybi
   3:
-    arabic: وَالشَّهَادَةِ
+    arabic: وَٱلشَّهَٰدَةِ
     translation: and the witnessed
     transliteration: wal-shahādati
   4:
-    arabic: الۡكَبِيۡرُ
+    arabic: ٱلۡكَبِيرُ
     translation: the Most Great
     transliteration: l-kabīru
   5:
-    arabic: الۡمُتَعَالِ‏
+    arabic: ٱلۡمُتَعَالِ
     translation: the Most High
     transliteration: l-mutaʿāli
 ---

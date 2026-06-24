@@ -1,19 +1,18 @@
 ---
-arabic_ayat: "اِنَّ قَارُوۡنَ كَانَ مِنۡ قَوۡمِ مُوۡسٰى فَبَغٰى عَلَيۡهِمۡ​ وَاٰتَيۡنٰهُ\
-  \ مِنَ الۡكُنُوۡزِ مَاۤ اِنَّ مَفَاتِحَهٗ لَـتَـنُوۡٓاُ بِالۡعُصۡبَةِ اُولِى الۡقُوَّةِ\
-  \ اِذۡ قَالَ لَهٗ قَوۡمُهٗ لَا تَفۡرَحۡ​ اِنَّ اللّٰهَ لَا يُحِبُّ الۡفَرِحِيۡنَ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: ۞ إِنَّ قَٰرُونَ كَانَ مِن قَوۡمِ مُوسَىٰ فَبَغَىٰ عَلَيۡهِمۡۖ وَءَاتَيۡنَٰهُ
+  مِنَ ٱلۡكُنُوزِ مَآ إِنَّ مَفَاتِحَهُۥ لَتَنُوٓأُ بِٱلۡعُصۡبَةِ أُوْلِي ٱلۡقُوَّةِ
+  إِذۡ قَالَ لَهُۥ قَوۡمُهُۥ لَا تَفۡرَحۡۖ إِنَّ ٱللَّهَ لَا يُحِبُّ ٱلۡفَرِحِينَ
 sentence_translation: Indeed, Korah was from the people of Moses, but he behaved arrogantly
   towards them. We had granted him such treasures that even their keys would burden
   a group of strong men. ˹Some of˺ his people advised him, “Do not be prideful! Surely
   Allah does not like the prideful.
 word_by_word:
   1:
-    arabic: ۞ اِنَّ
+    arabic: ۞ إِنَّ
     translation: Indeed
     transliteration: inna
   2:
-    arabic: قَارُوۡنَ
+    arabic: قَٰرُونَ
     translation: Qarun
     transliteration: qārūna
   3:
@@ -21,7 +20,7 @@ word_by_word:
     translation: was
     transliteration: kāna
   4:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   5:
@@ -29,19 +28,19 @@ word_by_word:
     translation: (the) people
     transliteration: qawmi
   6:
-    arabic: مُوۡسٰى
+    arabic: مُوسَىٰ
     translation: (of) Musa
     transliteration: mūsā
   7:
-    arabic: فَبَغٰى
+    arabic: فَبَغَىٰ
     translation: but he oppressed
     transliteration: fabaghā
   8:
-    arabic: عَلَيۡهِمۡ​
+    arabic: عَلَيۡهِمۡۖ
     translation: '[on] them'
     transliteration: ʿalayhim
   9:
-    arabic: وَاٰتَيۡنٰهُ
+    arabic: وَءَاتَيۡنَٰهُ
     translation: And We gave him
     transliteration: waātaynāhu
   10:
@@ -49,39 +48,39 @@ word_by_word:
     translation: of
     transliteration: mina
   11:
-    arabic: الۡكُنُوۡزِ
+    arabic: ٱلۡكُنُوزِ
     translation: the treasures
     transliteration: l-kunūzi
   12:
-    arabic: مَاۤ
+    arabic: مَآ
     translation: which
     transliteration: mā
   13:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: indeed
     transliteration: inna
   14:
-    arabic: مَفَاتِحَهٗ
+    arabic: مَفَاتِحَهُۥ
     translation: (the) keys of it
     transliteration: mafātiḥahu
   15:
-    arabic: لَـتَـنُوۡٓاُ
+    arabic: لَتَنُوٓأُ
     translation: would burden
     transliteration: latanūu
   16:
-    arabic: بِالۡعُصۡبَةِ
+    arabic: بِٱلۡعُصۡبَةِ
     translation: a company (of men)
     transliteration: bil-ʿuṣ'bati
   17:
-    arabic: اُولِى
+    arabic: أُوْلِي
     translation: possessors of great strength
     transliteration: ulī
   18:
-    arabic: الۡقُوَّةِ
+    arabic: ٱلۡقُوَّةِ
     translation: possessors of great strength
     transliteration: l-quwati
   19:
-    arabic: اِذۡ
+    arabic: إِذۡ
     translation: When
     transliteration: idh
   20:
@@ -89,11 +88,11 @@ word_by_word:
     translation: said
     transliteration: qāla
   21:
-    arabic: لَهٗ
+    arabic: لَهُۥ
     translation: to him
     transliteration: lahu
   22:
-    arabic: قَوۡمُهٗ
+    arabic: قَوۡمُهُۥ
     translation: his people
     transliteration: qawmuhu
   23:
@@ -101,15 +100,15 @@ word_by_word:
     translation: (Do) not
     transliteration: lā
   24:
-    arabic: تَفۡرَحۡ​
+    arabic: تَفۡرَحۡۖ
     translation: exult
     transliteration: tafraḥ
   25:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   26:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   27:
@@ -121,7 +120,7 @@ word_by_word:
     translation: love
     transliteration: yuḥibbu
   29:
-    arabic: "الۡفَرِحِيۡنَ‏ \uFEFF\uFEFF"
+    arabic: ٱلۡفَرِحِينَ
     translation: the exultant
     transliteration: l-fariḥīna
 ---

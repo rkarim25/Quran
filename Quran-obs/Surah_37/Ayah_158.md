@@ -1,16 +1,16 @@
 ---
-arabic_ayat: وَجَعَلُوۡا بَيۡنَهٗ وَبَيۡنَ الۡجِنَّةِ نَسَبًا ؕ​ وَلَقَدۡ عَلِمَتِ
-  الۡجِنَّةُ اِنَّهُمۡ لَمُحۡضَرُوۡنَۙ‏
+arabic_ayat: وَجَعَلُواْ بَيۡنَهُۥ وَبَيۡنَ ٱلۡجِنَّةِ نَسَبٗاۚ وَلَقَدۡ عَلِمَتِ
+  ٱلۡجِنَّةُ إِنَّهُمۡ لَمُحۡضَرُونَ
 sentence_translation: They have also established a ˹marital˺ relationship between
   Him and the jinn. Yet the jinn ˹themselves˺ know well that such people will certainly
   be brought ˹for punishment˺.
 word_by_word:
   1:
-    arabic: وَجَعَلُوۡا
+    arabic: وَجَعَلُواْ
     translation: And they have made
     transliteration: wajaʿalū
   2:
-    arabic: بَيۡنَهٗ
+    arabic: بَيۡنَهُۥ
     translation: between Him
     transliteration: baynahu
   3:
@@ -18,11 +18,11 @@ word_by_word:
     translation: and between
     transliteration: wabayna
   4:
-    arabic: الۡجِنَّةِ
+    arabic: ٱلۡجِنَّةِ
     translation: the jinn
     transliteration: l-jinati
   5:
-    arabic: نَسَبًا ؕ​
+    arabic: نَسَبٗاۚ
     translation: a relationship
     transliteration: nasaban
   6:
@@ -34,15 +34,15 @@ word_by_word:
     translation: know
     transliteration: ʿalimati
   8:
-    arabic: الۡجِنَّةُ
+    arabic: ٱلۡجِنَّةُ
     translation: the jinn
     transliteration: l-jinatu
   9:
-    arabic: اِنَّهُمۡ
+    arabic: إِنَّهُمۡ
     translation: that they
     transliteration: innahum
   10:
-    arabic: لَمُحۡضَرُوۡنَۙ‏
+    arabic: لَمُحۡضَرُونَ
     translation: (will) surely be brought
     transliteration: lamuḥ'ḍarūna
 ---

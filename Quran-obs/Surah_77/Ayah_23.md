@@ -1,10 +1,10 @@
 ---
-arabic_ayat: فَقَدَرۡنَا ۖ فَنِعۡمَ الۡقٰدِرُوۡنَ‏
+arabic_ayat: فَقَدَرۡنَا فَنِعۡمَ ٱلۡقَٰدِرُونَ
 sentence_translation: We ˹perfectly˺ ordained ˹its development˺. How excellent are
   We in doing so!
 word_by_word:
   1:
-    arabic: فَقَدَرۡنَا ۖ
+    arabic: فَقَدَرۡنَا
     translation: So We measured
     transliteration: faqadarnā
   2:
@@ -12,7 +12,7 @@ word_by_word:
     translation: and Best
     transliteration: faniʿ'ma
   3:
-    arabic: الۡقٰدِرُوۡنَ‏
+    arabic: ٱلۡقَٰدِرُونَ
     translation: (are We to) measure
     transliteration: l-qādirūna
 ---

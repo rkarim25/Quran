@@ -1,8 +1,8 @@
 ---
-arabic_ayat: وَهُوَ الَّذِىۡ يُرۡسِلُ الرِّيٰحَ بُشۡرًۢا بَيۡنَ يَدَىۡ رَحۡمَتِهٖ
-  ​ؕ حَتّٰۤى اِذَاۤ اَقَلَّتۡ سَحَابًا ثِقَالًا سُقۡنٰهُ لِبَلَدٍ مَّيِّتٍ فَاَنۡزَلۡنَا
-  بِهِ الۡمَآءَ فَاَخۡرَجۡنَا بِهٖ مِنۡ كُلِّ الثَّمَرٰتِ​ؕ كَذٰلِكَ نُخۡرِجُ الۡمَوۡتٰى
-  لَعَلَّكُمۡ تَذَكَّرُوۡنَ‏
+arabic_ayat: وَهُوَ ٱلَّذِي يُرۡسِلُ ٱلرِّيَٰحَ بُشۡرَۢا بَيۡنَ يَدَيۡ رَحۡمَتِهِۦۖ
+  حَتَّىٰٓ إِذَآ أَقَلَّتۡ سَحَابٗا ثِقَالٗا سُقۡنَٰهُ لِبَلَدٖ مَّيِّتٖ فَأَنزَلۡنَا
+  بِهِ ٱلۡمَآءَ فَأَخۡرَجۡنَا بِهِۦ مِن كُلِّ ٱلثَّمَرَٰتِۚ كَذَٰلِكَ نُخۡرِجُ ٱلۡمَوۡتَىٰ
+  لَعَلَّكُمۡ تَذَكَّرُونَ
 sentence_translation: He is the One Who sends the winds ushering in His mercy. When
   they bear heavy clouds, We drive them to a lifeless land and then cause rain to
   fall, producing every type of fruit. Similarly, We will bring the dead to life,
@@ -13,7 +13,7 @@ word_by_word:
     translation: And He
     transliteration: wahuwa
   2:
-    arabic: الَّذِىۡ
+    arabic: ٱلَّذِي
     translation: (is) the One Who
     transliteration: alladhī
   3:
@@ -21,11 +21,11 @@ word_by_word:
     translation: sends
     transliteration: yur'silu
   4:
-    arabic: الرِّيٰحَ
+    arabic: ٱلرِّيَٰحَ
     translation: the winds
     transliteration: l-riyāḥa
   5:
-    arabic: بُشۡرًۢا
+    arabic: بُشۡرَۢا
     translation: (as) glad tidings
     transliteration: bush'ran
   6:
@@ -33,47 +33,47 @@ word_by_word:
     translation: from
     transliteration: bayna
   7:
-    arabic: يَدَىۡ
+    arabic: يَدَيۡ
     translation: before
     transliteration: yaday
   8:
-    arabic: رَحۡمَتِهٖ ​ؕ
+    arabic: رَحۡمَتِهِۦۖ
     translation: His Mercy
     transliteration: raḥmatihi
   9:
-    arabic: حَتّٰۤى
+    arabic: حَتَّىٰٓ
     translation: until
     transliteration: ḥattā
   10:
-    arabic: اِذَاۤ
+    arabic: إِذَآ
     translation: when
     transliteration: idhā
   11:
-    arabic: اَقَلَّتۡ
+    arabic: أَقَلَّتۡ
     translation: they have carried
     transliteration: aqallat
   12:
-    arabic: سَحَابًا
+    arabic: سَحَابٗا
     translation: 'clouds '
     transliteration: saḥāban
   13:
-    arabic: ثِقَالًا
+    arabic: ثِقَالٗا
     translation: heavy
     transliteration: thiqālan
   14:
-    arabic: سُقۡنٰهُ
+    arabic: سُقۡنَٰهُ
     translation: We drive them
     transliteration: suq'nāhu
   15:
-    arabic: لِبَلَدٍ
+    arabic: لِبَلَدٖ
     translation: to a land
     transliteration: libaladin
   16:
-    arabic: مَّيِّتٍ
+    arabic: مَّيِّتٖ
     translation: dead
     transliteration: mayyitin
   17:
-    arabic: فَاَنۡزَلۡنَا
+    arabic: فَأَنزَلۡنَا
     translation: then We send down
     transliteration: fa-anzalnā
   18:
@@ -81,19 +81,19 @@ word_by_word:
     translation: from it
     transliteration: bihi
   19:
-    arabic: الۡمَآءَ
+    arabic: ٱلۡمَآءَ
     translation: the water
     transliteration: l-māa
   20:
-    arabic: فَاَخۡرَجۡنَا
+    arabic: فَأَخۡرَجۡنَا
     translation: then We bring forth
     transliteration: fa-akhrajnā
   21:
-    arabic: بِهٖ
+    arabic: بِهِۦ
     translation: from it
     transliteration: bihi
   22:
-    arabic: مِنۡ
+    arabic: مِن
     translation: (of)
     transliteration: min
   23:
@@ -101,11 +101,11 @@ word_by_word:
     translation: all (kinds)
     transliteration: kulli
   24:
-    arabic: الثَّمَرٰتِ​ؕ
+    arabic: ٱلثَّمَرَٰتِۚ
     translation: (of) fruits
     transliteration: l-thamarāti
   25:
-    arabic: كَذٰلِكَ
+    arabic: كَذَٰلِكَ
     translation: Thus
     transliteration: kadhālika
   26:
@@ -113,7 +113,7 @@ word_by_word:
     translation: We will bring forth
     transliteration: nukh'riju
   27:
-    arabic: الۡمَوۡتٰى
+    arabic: ٱلۡمَوۡتَىٰ
     translation: the dead
     transliteration: l-mawtā
   28:
@@ -121,7 +121,7 @@ word_by_word:
     translation: so that you may
     transliteration: laʿallakum
   29:
-    arabic: تَذَكَّرُوۡنَ‏
+    arabic: تَذَكَّرُونَ
     translation: take heed
     transliteration: tadhakkarūna
 ---

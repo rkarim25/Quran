@@ -1,13 +1,13 @@
 ---
-arabic_ayat: وَّ عِنَبًا وَّقَضۡبًا ۙ‏
+arabic_ayat: وَعِنَبٗا وَقَضۡبٗا
 sentence_translation: as well as grapes and greens,
 word_by_word:
   1:
-    arabic: وَّ عِنَبًا
+    arabic: وَعِنَبٗا
     translation: And grapes
     transliteration: waʿinaban
   2:
-    arabic: وَّقَضۡبًا ۙ‏
+    arabic: وَقَضۡبٗا
     translation: and green fodder
     transliteration: waqaḍban
 ---

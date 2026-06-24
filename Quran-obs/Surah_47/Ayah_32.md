@@ -1,49 +1,49 @@
 ---
-arabic_ayat: اِنَّ الَّذِيۡنَ كَفَرُوۡا وَصَدُّوۡا عَنۡ سَبِيۡلِ اللّٰهِ وَشَآقُّوا
-  الرَّسُوۡلَ مِنۡۢ بَعۡدِ مَا تَبَيَّنَ لَهُمُ الۡهُدٰىۙ لَنۡ يَّضُرُّوا اللّٰهَ
-  شَيۡـــًٔا ؕ وَسَيُحۡبِطُ اَعۡمَالَهُمۡ‏
+arabic_ayat: إِنَّ ٱلَّذِينَ كَفَرُواْ وَصَدُّواْ عَن سَبِيلِ ٱللَّهِ وَشَآقُّواْ
+  ٱلرَّسُولَ مِنۢ بَعۡدِ مَا تَبَيَّنَ لَهُمُ ٱلۡهُدَىٰ لَن يَضُرُّواْ ٱللَّهَ شَيۡـٔٗا
+  وَسَيُحۡبِطُ أَعۡمَٰلَهُمۡ
 sentence_translation: Indeed, those who disbelieve, hinder ˹others˺ from the Way of
   Allah, and defy the Messenger after ˹true˺ guidance has become clear to them; they
   will not harm Allah in the least, but He will render their deeds void.
 word_by_word:
   1:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   3:
-    arabic: كَفَرُوۡا
+    arabic: كَفَرُواْ
     translation: disbelieve
     transliteration: kafarū
   4:
-    arabic: وَصَدُّوۡا
+    arabic: وَصَدُّواْ
     translation: and turn away
     transliteration: waṣaddū
   5:
-    arabic: عَنۡ
+    arabic: عَن
     translation: from
     transliteration: ʿan
   6:
-    arabic: سَبِيۡلِ
+    arabic: سَبِيلِ
     translation: (the) way of Allah
     transliteration: sabīli
   7:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (the) way of Allah
     transliteration: l-lahi
   8:
-    arabic: وَشَآقُّوا
+    arabic: وَشَآقُّواْ
     translation: and oppose
     transliteration: washāqqū
   9:
-    arabic: الرَّسُوۡلَ
+    arabic: ٱلرَّسُولَ
     translation: the Messenger
     transliteration: l-rasūla
   10:
-    arabic: مِنۡۢ
+    arabic: مِنۢ
     translation: after
     transliteration: min
   11:
@@ -63,23 +63,23 @@ word_by_word:
     translation: to them
     transliteration: lahumu
   15:
-    arabic: الۡهُدٰىۙ
+    arabic: ٱلۡهُدَىٰ
     translation: the guidance
     transliteration: l-hudā
   16:
-    arabic: لَنۡ
+    arabic: لَن
     translation: never
     transliteration: lan
   17:
-    arabic: يَّضُرُّوا
+    arabic: يَضُرُّواْ
     translation: will they harm
     transliteration: yaḍurrū
   18:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   19:
-    arabic: شَيۡـــًٔا ؕ
+    arabic: شَيۡـٔٗا
     translation: (in) anything
     transliteration: shayan
   20:
@@ -87,7 +87,7 @@ word_by_word:
     translation: and He will make worthless
     transliteration: wasayuḥ'biṭu
   21:
-    arabic: اَعۡمَالَهُمۡ‏
+    arabic: أَعۡمَٰلَهُمۡ
     translation: their deeds
     transliteration: aʿmālahum
 ---

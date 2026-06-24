@@ -1,33 +1,33 @@
 ---
-arabic_ayat: وَوٰعَدۡنَا مُوۡسٰى ثَلٰثِيۡنَ لَيۡلَةً وَّاَتۡمَمۡنٰهَا بِعَشۡرٍ فَتَمَّ
-  مِيۡقَاتُ رَبِّهٖۤ اَرۡبَعِيۡنَ لَيۡلَةً ​ ۚ وَقَالَ مُوۡسٰى لِاَخِيۡهِ هٰرُوۡنَ
-  اخۡلُفۡنِىۡ فِىۡ قَوۡمِىۡ وَاَصۡلِحۡ وَلَا تَتَّبِعۡ سَبِيۡلَ الۡمُفۡسِدِيۡنَ‏
+arabic_ayat: ۞ وَوَٰعَدۡنَا مُوسَىٰ ثَلَٰثِينَ لَيۡلَةٗ وَأَتۡمَمۡنَٰهَا بِعَشۡرٖ
+  فَتَمَّ مِيقَٰتُ رَبِّهِۦٓ أَرۡبَعِينَ لَيۡلَةٗۚ وَقَالَ مُوسَىٰ لِأَخِيهِ هَٰرُونَ
+  ٱخۡلُفۡنِي فِي قَوۡمِي وَأَصۡلِحۡ وَلَا تَتَّبِعۡ سَبِيلَ ٱلۡمُفۡسِدِينَ
 sentence_translation: We appointed for Moses thirty nights then added another ten—completing
   his Lord’s term of forty nights. Moses commanded his brother Aaron, “Take my place
   among my people, do what is right, and do not follow the way of the corruptors.”
 word_by_word:
   1:
-    arabic: ۞ وَوٰعَدۡنَا
+    arabic: ۞ وَوَٰعَدۡنَا
     translation: And We appointed
     transliteration: wawāʿadnā
   2:
-    arabic: مُوۡسٰى
+    arabic: مُوسَىٰ
     translation: (for) Musa
     transliteration: mūsā
   3:
-    arabic: ثَلٰثِيۡنَ
+    arabic: ثَلَٰثِينَ
     translation: thirty
     transliteration: thalāthīna
   4:
-    arabic: لَيۡلَةً
+    arabic: لَيۡلَةٗ
     translation: nights
     transliteration: laylatan
   5:
-    arabic: وَّاَتۡمَمۡنٰهَا
+    arabic: وَأَتۡمَمۡنَٰهَا
     translation: and We completed them
     transliteration: wa-atmamnāhā
   6:
-    arabic: بِعَشۡرٍ
+    arabic: بِعَشۡرٖ
     translation: with ten (more)
     transliteration: biʿashrin
   7:
@@ -35,19 +35,19 @@ word_by_word:
     translation: so was completed
     transliteration: fatamma
   8:
-    arabic: مِيۡقَاتُ
+    arabic: مِيقَٰتُ
     translation: (the) set term
     transliteration: mīqātu
   9:
-    arabic: رَبِّهٖۤ
+    arabic: رَبِّهِۦٓ
     translation: (of) his Lord
     transliteration: rabbihi
   10:
-    arabic: اَرۡبَعِيۡنَ
+    arabic: أَرۡبَعِينَ
     translation: (of) forty
     transliteration: arbaʿīna
   11:
-    arabic: لَيۡلَةً ​ ۚ
+    arabic: لَيۡلَةٗۚ
     translation: night(s)
     transliteration: laylatan
   12:
@@ -55,31 +55,31 @@ word_by_word:
     translation: And said
     transliteration: waqāla
   13:
-    arabic: مُوۡسٰى
+    arabic: مُوسَىٰ
     translation: Musa
     transliteration: mūsā
   14:
-    arabic: لِاَخِيۡهِ
+    arabic: لِأَخِيهِ
     translation: to his brother
     transliteration: li-akhīhi
   15:
-    arabic: هٰرُوۡنَ
+    arabic: هَٰرُونَ
     translation: Harun
     transliteration: hārūna
   16:
-    arabic: اخۡلُفۡنِىۡ
+    arabic: ٱخۡلُفۡنِي
     translation: Take my place
     transliteration: ukh'luf'nī
   17:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   18:
-    arabic: قَوۡمِىۡ
+    arabic: قَوۡمِي
     translation: my people
     transliteration: qawmī
   19:
-    arabic: وَاَصۡلِحۡ
+    arabic: وَأَصۡلِحۡ
     translation: and do right
     transliteration: wa-aṣliḥ
   20:
@@ -91,11 +91,11 @@ word_by_word:
     translation: follow
     transliteration: tattabiʿ
   22:
-    arabic: سَبِيۡلَ
+    arabic: سَبِيلَ
     translation: (the) way
     transliteration: sabīla
   23:
-    arabic: الۡمُفۡسِدِيۡنَ‏
+    arabic: ٱلۡمُفۡسِدِينَ
     translation: (of) the corrupters
     transliteration: l-muf'sidīna
 ---

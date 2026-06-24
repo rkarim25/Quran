@@ -1,9 +1,9 @@
 ---
-arabic_ayat: لِمَنۡ شَآءَ مِنۡكُمۡ اَنۡ يَّسۡتَقِيۡمَؕ‏
+arabic_ayat: لِمَن شَآءَ مِنكُمۡ أَن يَسۡتَقِيمَ
 sentence_translation: to whoever of you wills to take the Straight Way.
 word_by_word:
   1:
-    arabic: لِمَنۡ
+    arabic: لِمَن
     translation: For whoever
     transliteration: liman
   2:
@@ -11,15 +11,15 @@ word_by_word:
     translation: wills
     transliteration: shāa
   3:
-    arabic: مِنۡكُمۡ
+    arabic: مِنكُمۡ
     translation: among you
     transliteration: minkum
   4:
-    arabic: اَنۡ
+    arabic: أَن
     translation: to
     transliteration: an
   5:
-    arabic: يَّسۡتَقِيۡمَؕ‏
+    arabic: يَسۡتَقِيمَ
     translation: take a straight way
     transliteration: yastaqīma
 ---

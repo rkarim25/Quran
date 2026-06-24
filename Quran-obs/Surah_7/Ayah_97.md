@@ -1,43 +1,43 @@
 ---
-arabic_ayat: اَفَاَمِنَ اَهۡلُ الۡـقُرٰٓى اَنۡ يَّاۡتِيَهُمۡ بَاۡسُنَا بَيَاتًا وَّهُمۡ
-  نَآٮِٕمُوۡنَؕ‏
+arabic_ayat: أَفَأَمِنَ أَهۡلُ ٱلۡقُرَىٰٓ أَن يَأۡتِيَهُم بَأۡسُنَا بَيَٰتٗا وَهُمۡ
+  نَآئِمُونَ
 sentence_translation: Did the people of those societies feel secure that Our punishment
   would not come upon them by night while they were asleep?
 word_by_word:
   1:
-    arabic: اَفَاَمِنَ
+    arabic: أَفَأَمِنَ
     translation: Then did feel secure
     transliteration: afa-amina
   2:
-    arabic: اَهۡلُ
+    arabic: أَهۡلُ
     translation: (the) people
     transliteration: ahlu
   3:
-    arabic: الۡـقُرٰٓى
+    arabic: ٱلۡقُرَىٰٓ
     translation: (of) the cities
     transliteration: l-qurā
   4:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that
     transliteration: an
   5:
-    arabic: يَّاۡتِيَهُمۡ
+    arabic: يَأۡتِيَهُم
     translation: comes to them
     transliteration: yatiyahum
   6:
-    arabic: بَاۡسُنَا
+    arabic: بَأۡسُنَا
     translation: Our punishment
     transliteration: basunā
   7:
-    arabic: بَيَاتًا
+    arabic: بَيَٰتٗا
     translation: (at) night
     transliteration: bayātan
   8:
-    arabic: وَّهُمۡ
+    arabic: وَهُمۡ
     translation: while they
     transliteration: wahum
   9:
-    arabic: نَآٮِٕمُوۡنَؕ‏
+    arabic: نَآئِمُونَ
     translation: (were) asleep
     transliteration: nāimūna
 ---

@@ -1,7 +1,6 @@
 ---
-arabic_ayat: "وَلَوۡ تَرٰٓى اِذِ الۡمُجۡرِمُوۡنَ نَاكِسُوۡا رُءُوۡسِهِمۡ عِنۡدَ رَبِّهِمۡ\
-  \ رَبَّنَاۤ اَبۡصَرۡنَا وَسَمِعۡنَا فَارۡجِعۡنَا نَعۡمَلۡ صَالِحًـا اِنَّا مُوۡقِنُوۡنَ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: وَلَوۡ تَرَىٰٓ إِذِ ٱلۡمُجۡرِمُونَ نَاكِسُواْ رُءُوسِهِمۡ عِندَ رَبِّهِمۡ
+  رَبَّنَآ أَبۡصَرۡنَا وَسَمِعۡنَا فَٱرۡجِعۡنَا نَعۡمَلۡ صَٰلِحًا إِنَّا مُوقِنُونَ
 sentence_translation: If only you could see the wicked hanging their heads ˹in shame˺
   before their Lord, ˹crying:˺ “Our Lord! We have now seen and heard, so send us back
   and we will do good. We truly have sure faith ˹now˺!”
@@ -11,27 +10,27 @@ word_by_word:
     translation: And if
     transliteration: walaw
   2:
-    arabic: تَرٰٓى
+    arabic: تَرَىٰٓ
     translation: you (could) see
     transliteration: tarā
   3:
-    arabic: اِذِ
+    arabic: إِذِ
     translation: when
     transliteration: idhi
   4:
-    arabic: الۡمُجۡرِمُوۡنَ
+    arabic: ٱلۡمُجۡرِمُونَ
     translation: the criminals
     transliteration: l-muj'rimūna
   5:
-    arabic: نَاكِسُوۡا
+    arabic: نَاكِسُواْ
     translation: (will) hang
     transliteration: nākisū
   6:
-    arabic: رُءُوۡسِهِمۡ
+    arabic: رُءُوسِهِمۡ
     translation: their heads
     transliteration: ruūsihim
   7:
-    arabic: عِنۡدَ
+    arabic: عِندَ
     translation: before
     transliteration: ʿinda
   8:
@@ -39,11 +38,11 @@ word_by_word:
     translation: their Lord
     transliteration: rabbihim
   9:
-    arabic: رَبَّنَاۤ
+    arabic: رَبَّنَآ
     translation: Our Lord
     transliteration: rabbanā
   10:
-    arabic: اَبۡصَرۡنَا
+    arabic: أَبۡصَرۡنَا
     translation: we have seen
     transliteration: abṣarnā
   11:
@@ -51,7 +50,7 @@ word_by_word:
     translation: and we have heard
     transliteration: wasamiʿ'nā
   12:
-    arabic: فَارۡجِعۡنَا
+    arabic: فَٱرۡجِعۡنَا
     translation: so return us
     transliteration: fa-ir'jiʿ'nā
   13:
@@ -59,15 +58,15 @@ word_by_word:
     translation: we will do
     transliteration: naʿmal
   14:
-    arabic: صَالِحًـا
+    arabic: صَٰلِحًا
     translation: righteous (deeds)
     transliteration: ṣāliḥan
   15:
-    arabic: اِنَّا
+    arabic: إِنَّا
     translation: Indeed, we
     transliteration: innā
   16:
-    arabic: "مُوۡقِنُوۡنَ‏ \uFEFF\uFEFF"
+    arabic: مُوقِنُونَ
     translation: (are now) certain
     transliteration: mūqinūna
 ---

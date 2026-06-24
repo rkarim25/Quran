@@ -1,14 +1,14 @@
 ---
-arabic_ayat: وَاِنۡ جَادَلُوۡكَ فَقُلِ اللّٰهُ اَعۡلَمُ بِمَا تَعۡمَلُوۡنَ‏
+arabic_ayat: وَإِن جَٰدَلُوكَ فَقُلِ ٱللَّهُ أَعۡلَمُ بِمَا تَعۡمَلُونَ
 sentence_translation: But if they argue with you, then say, “Allah knows best what
   you do.”
 word_by_word:
   1:
-    arabic: وَاِنۡ
+    arabic: وَإِن
     translation: And if
     transliteration: wa-in
   2:
-    arabic: جَادَلُوۡكَ
+    arabic: جَٰدَلُوكَ
     translation: they argue (with) you
     transliteration: jādalūka
   3:
@@ -16,11 +16,11 @@ word_by_word:
     translation: then say
     transliteration: faquli
   4:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   5:
-    arabic: اَعۡلَمُ
+    arabic: أَعۡلَمُ
     translation: (is) most knowing
     transliteration: aʿlamu
   6:
@@ -28,7 +28,7 @@ word_by_word:
     translation: of what
     transliteration: bimā
   7:
-    arabic: تَعۡمَلُوۡنَ‏
+    arabic: تَعۡمَلُونَ
     translation: you do
     transliteration: taʿmalūna
 ---

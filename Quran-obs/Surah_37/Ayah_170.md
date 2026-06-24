@@ -1,13 +1,13 @@
 ---
-arabic_ayat: فَكَفَرُوۡا بِهٖ​ فَسَوۡفَ يَعۡلَمُوۡنَ‏
+arabic_ayat: فَكَفَرُواْ بِهِۦۖ فَسَوۡفَ يَعۡلَمُونَ
 sentence_translation: But ˹now˺ they reject it, so they will soon know.
 word_by_word:
   1:
-    arabic: فَكَفَرُوۡا
+    arabic: فَكَفَرُواْ
     translation: But they disbelieved
     transliteration: fakafarū
   2:
-    arabic: بِهٖ​
+    arabic: بِهِۦۖ
     translation: in it
     transliteration: bihi
   3:
@@ -15,7 +15,7 @@ word_by_word:
     translation: so soon
     transliteration: fasawfa
   4:
-    arabic: يَعۡلَمُوۡنَ‏
+    arabic: يَعۡلَمُونَ
     translation: they will know
     transliteration: yaʿlamūna
 ---

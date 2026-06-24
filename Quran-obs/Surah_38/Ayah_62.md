@@ -1,11 +1,10 @@
 ---
-arabic_ayat: "وَقَالُوۡا مَا لَنَا لَا نَرٰى رِجَالًا كُنَّا نَـعُدُّهُمۡ مِّنَ الۡاَشۡرَارِؕ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: وَقَالُواْ مَا لَنَا لَا نَرَىٰ رِجَالٗا كُنَّا نَعُدُّهُم مِّنَ ٱلۡأَشۡرَارِ
 sentence_translation: The tyrants will ask ˹one another˺, “But why do we not see those
   we considered to be lowly?
 word_by_word:
   1:
-    arabic: وَقَالُوۡا
+    arabic: وَقَالُواْ
     translation: And they (will) say
     transliteration: waqālū
   2:
@@ -21,11 +20,11 @@ word_by_word:
     translation: not
     transliteration: lā
   5:
-    arabic: نَرٰى
+    arabic: نَرَىٰ
     translation: we see
     transliteration: narā
   6:
-    arabic: رِجَالًا
+    arabic: رِجَالٗا
     translation: men
     transliteration: rijālan
   7:
@@ -33,7 +32,7 @@ word_by_word:
     translation: we used to
     transliteration: kunnā
   8:
-    arabic: نَـعُدُّهُمۡ
+    arabic: نَعُدُّهُم
     translation: count them
     transliteration: naʿudduhum
   9:
@@ -41,7 +40,7 @@ word_by_word:
     translation: among
     transliteration: mina
   10:
-    arabic: "الۡاَشۡرَارِؕ‏ \uFEFF\uFEFF"
+    arabic: ٱلۡأَشۡرَارِ
     translation: the bad ones
     transliteration: l-ashrāri
 ---

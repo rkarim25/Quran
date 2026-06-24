@@ -1,6 +1,6 @@
 ---
-arabic_ayat: ثُمَّ كَانَ عَاقِبَةَ الَّذِيۡنَ اَسَآءُوا السُّوۡٓآٰى اَنۡ كَذَّبُوۡا
-  بِاٰيٰتِ اللّٰهِ وَكَانُوۡا بِهَا يَسۡتَهۡزِءُوۡنَ‏
+arabic_ayat: ثُمَّ كَانَ عَٰقِبَةَ ٱلَّذِينَ أَسَٰٓـُٔواْ ٱلسُّوٓأَىٰٓ أَن كَذَّبُواْ
+  بِـَٔايَٰتِ ٱللَّهِ وَكَانُواْ بِهَا يَسۡتَهۡزِءُونَ
 sentence_translation: Then most evil was the end of the evildoers for denying and
   mocking the signs of Allah.
 word_by_word:
@@ -13,39 +13,39 @@ word_by_word:
     translation: was
     transliteration: kāna
   3:
-    arabic: عَاقِبَةَ
+    arabic: عَٰقِبَةَ
     translation: (the) end
     transliteration: ʿāqibata
   4:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: (of) those who
     transliteration: alladhīna
   5:
-    arabic: اَسَآءُوا
+    arabic: أَسَٰٓـُٔواْ
     translation: 'did evil '
     transliteration: asāū
   6:
-    arabic: السُّوۡٓآٰى
+    arabic: ٱلسُّوٓأَىٰٓ
     translation: the evil
     transliteration: l-sūā
   7:
-    arabic: اَنۡ
+    arabic: أَن
     translation: because
     transliteration: an
   8:
-    arabic: كَذَّبُوۡا
+    arabic: كَذَّبُواْ
     translation: they denied
     transliteration: kadhabū
   9:
-    arabic: بِاٰيٰتِ
+    arabic: بِـَٔايَٰتِ
     translation: (the) Signs
     transliteration: biāyāti
   10:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (of) Allah
     transliteration: l-lahi
   11:
-    arabic: وَكَانُوۡا
+    arabic: وَكَانُواْ
     translation: and were
     transliteration: wakānū
   12:
@@ -53,7 +53,7 @@ word_by_word:
     translation: of them
     transliteration: bihā
   13:
-    arabic: يَسۡتَهۡزِءُوۡنَ‏
+    arabic: يَسۡتَهۡزِءُونَ
     translation: making mockery
     transliteration: yastahziūna
 ---

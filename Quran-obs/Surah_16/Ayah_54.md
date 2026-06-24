@@ -1,6 +1,6 @@
 ---
-arabic_ayat: ثُمَّ اِذَا كَشَفَ الضُّرَّ عَنۡكُمۡ اِذَا فَرِيۡقٌ مِّنۡكُمۡ بِرَبِّهِمۡ
-  يُشۡرِكُوۡنَۙ‏
+arabic_ayat: ثُمَّ إِذَا كَشَفَ ٱلضُّرَّ عَنكُمۡ إِذَا فَرِيقٞ مِّنكُم بِرَبِّهِمۡ
+  يُشۡرِكُونَ
 sentence_translation: Then as soon as He removes the hardship from you, a group of
   you associates ˹others˺ with their Lord ˹in worship˺,
 word_by_word:
@@ -9,7 +9,7 @@ word_by_word:
     translation: Then
     transliteration: thumma
   2:
-    arabic: اِذَا
+    arabic: إِذَا
     translation: when
     transliteration: idhā
   3:
@@ -17,23 +17,23 @@ word_by_word:
     translation: He removes
     transliteration: kashafa
   4:
-    arabic: الضُّرَّ
+    arabic: ٱلضُّرَّ
     translation: the adversity
     transliteration: l-ḍura
   5:
-    arabic: عَنۡكُمۡ
+    arabic: عَنكُمۡ
     translation: from you
     transliteration: ʿankum
   6:
-    arabic: اِذَا
+    arabic: إِذَا
     translation: behold
     transliteration: idhā
   7:
-    arabic: فَرِيۡقٌ
+    arabic: فَرِيقٞ
     translation: A group
     transliteration: farīqun
   8:
-    arabic: مِّنۡكُمۡ
+    arabic: مِّنكُم
     translation: of you
     transliteration: minkum
   9:
@@ -41,7 +41,7 @@ word_by_word:
     translation: with their Lord
     transliteration: birabbihim
   10:
-    arabic: يُشۡرِكُوۡنَۙ‏
+    arabic: يُشۡرِكُونَ
     translation: associate others
     transliteration: yush'rikūna
 ---

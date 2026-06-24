@@ -1,15 +1,15 @@
 ---
-arabic_ayat: اَلَمۡ يَرَوۡا كَمۡ اَهۡلَـكۡنَا قَبۡلَهُمۡ مِّنَ الۡقُرُوۡنِ اَنَّهُمۡ
-  اِلَيۡهِمۡ لَا يَرۡجِعُوۡنَؕ‏
+arabic_ayat: أَلَمۡ يَرَوۡاْ كَمۡ أَهۡلَكۡنَا قَبۡلَهُم مِّنَ ٱلۡقُرُونِ أَنَّهُمۡ
+  إِلَيۡهِمۡ لَا يَرۡجِعُونَ
 sentence_translation: Have the deniers not considered how many peoples We destroyed
   before them who never came back to life again?
 word_by_word:
   1:
-    arabic: اَلَمۡ
+    arabic: أَلَمۡ
     translation: Do not
     transliteration: alam
   2:
-    arabic: يَرَوۡا
+    arabic: يَرَوۡاْ
     translation: they see
     transliteration: yaraw
   3:
@@ -17,11 +17,11 @@ word_by_word:
     translation: how many
     transliteration: kam
   4:
-    arabic: اَهۡلَـكۡنَا
+    arabic: أَهۡلَكۡنَا
     translation: We destroyed
     transliteration: ahlaknā
   5:
-    arabic: قَبۡلَهُمۡ
+    arabic: قَبۡلَهُم
     translation: before them
     transliteration: qablahum
   6:
@@ -29,15 +29,15 @@ word_by_word:
     translation: of
     transliteration: mina
   7:
-    arabic: الۡقُرُوۡنِ
+    arabic: ٱلۡقُرُونِ
     translation: the generations
     transliteration: l-qurūni
   8:
-    arabic: اَنَّهُمۡ
+    arabic: أَنَّهُمۡ
     translation: That they
     transliteration: annahum
   9:
-    arabic: اِلَيۡهِمۡ
+    arabic: إِلَيۡهِمۡ
     translation: to them
     transliteration: ilayhim
   10:
@@ -45,7 +45,7 @@ word_by_word:
     translation: will not return
     transliteration: lā
   11:
-    arabic: يَرۡجِعُوۡنَؕ‏
+    arabic: يَرۡجِعُونَ
     translation: will not return
     transliteration: yarjiʿūna
 ---

@@ -1,15 +1,15 @@
 ---
-arabic_ayat: اَمۡ اَنۡزَلۡنَا عَلَيۡهِمۡ سُلۡطٰنًا فَهُوَ يَتَكَلَّمُ بِمَا كَانُوۡا
-  بِهٖ يُشۡرِكُوۡنَ‏
+arabic_ayat: أَمۡ أَنزَلۡنَا عَلَيۡهِمۡ سُلۡطَٰنٗا فَهُوَ يَتَكَلَّمُ بِمَا كَانُواْ
+  بِهِۦ يُشۡرِكُونَ
 sentence_translation: Or have We sent down to them an authority which attests to what
   they associate ˹with Him˺?
 word_by_word:
   1:
-    arabic: اَمۡ
+    arabic: أَمۡ
     translation: Or
     transliteration: am
   2:
-    arabic: اَنۡزَلۡنَا
+    arabic: أَنزَلۡنَا
     translation: have We sent
     transliteration: anzalnā
   3:
@@ -17,7 +17,7 @@ word_by_word:
     translation: to them
     transliteration: ʿalayhim
   4:
-    arabic: سُلۡطٰنًا
+    arabic: سُلۡطَٰنٗا
     translation: an authority
     transliteration: sul'ṭānan
   5:
@@ -33,15 +33,15 @@ word_by_word:
     translation: of what
     transliteration: bimā
   8:
-    arabic: كَانُوۡا
+    arabic: كَانُواْ
     translation: they were
     transliteration: kānū
   9:
-    arabic: بِهٖ
+    arabic: بِهِۦ
     translation: with Him
     transliteration: bihi
   10:
-    arabic: يُشۡرِكُوۡنَ‏
+    arabic: يُشۡرِكُونَ
     translation: associating
     transliteration: yush'rikūna
 ---

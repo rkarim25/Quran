@@ -1,12 +1,12 @@
 ---
-arabic_ayat: وَاِنۡ مِّنۡ اَهۡلِ الۡكِتٰبِ اِلَّا لَيُـؤۡمِنَنَّ بِهٖ قَبۡلَ مَوۡتِهٖ​
-  ۚ وَيَوۡمَ الۡقِيٰمَةِ يَكُوۡنُ عَلَيۡهِمۡ شَهِيۡدًا​ ۚ‏
+arabic_ayat: وَإِن مِّنۡ أَهۡلِ ٱلۡكِتَٰبِ إِلَّا لَيُؤۡمِنَنَّ بِهِۦ قَبۡلَ مَوۡتِهِۦۖ
+  وَيَوۡمَ ٱلۡقِيَٰمَةِ يَكُونُ عَلَيۡهِمۡ شَهِيدٗا
 sentence_translation: Every one of the People of the Book will definitely believe
   in him before his death. And on the Day of Judgment Jesus will be a witness against
   them.
 word_by_word:
   1:
-    arabic: وَاِنۡ
+    arabic: وَإِن
     translation: And (there is) not
     transliteration: wa-in
   2:
@@ -14,23 +14,23 @@ word_by_word:
     translation: from
     transliteration: min
   3:
-    arabic: اَهۡلِ
+    arabic: أَهۡلِ
     translation: (the) People
     transliteration: ahli
   4:
-    arabic: الۡكِتٰبِ
+    arabic: ٱلۡكِتَٰبِ
     translation: (of) the Book
     transliteration: l-kitābi
   5:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: but
     transliteration: illā
   6:
-    arabic: لَيُـؤۡمِنَنَّ
+    arabic: لَيُؤۡمِنَنَّ
     translation: surely he believes
     transliteration: layu'minanna
   7:
-    arabic: بِهٖ
+    arabic: بِهِۦ
     translation: in him
     transliteration: bihi
   8:
@@ -38,7 +38,7 @@ word_by_word:
     translation: before
     transliteration: qabla
   9:
-    arabic: مَوۡتِهٖ​ ۚ
+    arabic: مَوۡتِهِۦۖ
     translation: his death
     transliteration: mawtihi
   10:
@@ -46,11 +46,11 @@ word_by_word:
     translation: And (on the) Day
     transliteration: wayawma
   11:
-    arabic: الۡقِيٰمَةِ
+    arabic: ٱلۡقِيَٰمَةِ
     translation: (of) the Resurrection
     transliteration: l-qiyāmati
   12:
-    arabic: يَكُوۡنُ
+    arabic: يَكُونُ
     translation: he will be
     transliteration: yakūnu
   13:
@@ -58,7 +58,7 @@ word_by_word:
     translation: against them
     transliteration: ʿalayhim
   14:
-    arabic: شَهِيۡدًا​ ۚ‏
+    arabic: شَهِيدٗا
     translation: a witness
     transliteration: shahīdan
 ---

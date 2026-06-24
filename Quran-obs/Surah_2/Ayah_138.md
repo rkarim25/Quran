@@ -1,6 +1,6 @@
 ---
-arabic_ayat: صِبۡغَةَ اللّٰهِ ​ۚ وَمَنۡ اَحۡسَنُ مِنَ اللّٰهِ صِبۡغَةً  وَّنَحۡنُ
-  لَهٗ عٰبِدُوۡنَ‏
+arabic_ayat: صِبۡغَةَ ٱللَّهِ وَمَنۡ أَحۡسَنُ مِنَ ٱللَّهِ صِبۡغَةٗۖ وَنَحۡنُ لَهُۥ
+  عَٰبِدُونَ
 sentence_translation: This is the ˹natural˺ Way of Allah. And who is better than Allah
   in ordaining a way? And we worship ˹none but˺ Him.
 word_by_word:
@@ -9,7 +9,7 @@ word_by_word:
     translation: (The) color (religion)
     transliteration: ṣib'ghata
   2:
-    arabic: اللّٰهِ ​ۚ
+    arabic: ٱللَّهِ
     translation: (of) Allah
     transliteration: l-lahi
   3:
@@ -17,7 +17,7 @@ word_by_word:
     translation: And who
     transliteration: waman
   4:
-    arabic: اَحۡسَنُ
+    arabic: أَحۡسَنُ
     translation: (is) better
     transliteration: aḥsanu
   5:
@@ -25,23 +25,23 @@ word_by_word:
     translation: than
     transliteration: mina
   6:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   7:
-    arabic: صِبۡغَةً 
+    arabic: صِبۡغَةٗۖ
     translation: at coloring
     transliteration: ṣib'ghatan
   8:
-    arabic: وَّنَحۡنُ
+    arabic: وَنَحۡنُ
     translation: And we
     transliteration: wanaḥnu
   9:
-    arabic: لَهٗ
+    arabic: لَهُۥ
     translation: to Him
     transliteration: lahu
   10:
-    arabic: عٰبِدُوۡنَ‏
+    arabic: عَٰبِدُونَ
     translation: (are) worshippers
     transliteration: ʿābidūna
 ---

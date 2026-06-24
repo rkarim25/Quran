@@ -1,6 +1,6 @@
 ---
-arabic_ayat: ثُمَّ لۡيَـقۡضُوۡا تَفَثَهُمۡ وَلۡيُوۡفُوۡا نُذُوۡرَهُمۡ وَلۡيَطَّوَّفُوۡا
-  بِالۡبَيۡتِ الۡعَتِيۡقِ‏
+arabic_ayat: ثُمَّ لۡيَقۡضُواْ تَفَثَهُمۡ وَلۡيُوفُواْ نُذُورَهُمۡ وَلۡيَطَّوَّفُواْ
+  بِٱلۡبَيۡتِ ٱلۡعَتِيقِ
 sentence_translation: Then let them groom themselves, fulfil their vows, and circle
   the Ancient House.”
 word_by_word:
@@ -9,7 +9,7 @@ word_by_word:
     translation: Then
     transliteration: thumma
   2:
-    arabic: لۡيَـقۡضُوۡا
+    arabic: لۡيَقۡضُواْ
     translation: let them end
     transliteration: l'yaqḍū
   3:
@@ -17,23 +17,23 @@ word_by_word:
     translation: their prescribed duties
     transliteration: tafathahum
   4:
-    arabic: وَلۡيُوۡفُوۡا
+    arabic: وَلۡيُوفُواْ
     translation: and fulfil
     transliteration: walyūfū
   5:
-    arabic: نُذُوۡرَهُمۡ
+    arabic: نُذُورَهُمۡ
     translation: their vows
     transliteration: nudhūrahum
   6:
-    arabic: وَلۡيَطَّوَّفُوۡا
+    arabic: وَلۡيَطَّوَّفُواْ
     translation: and circumambulate
     transliteration: walyaṭṭawwafū
   7:
-    arabic: بِالۡبَيۡتِ
+    arabic: بِٱلۡبَيۡتِ
     translation: the House
     transliteration: bil-bayti
   8:
-    arabic: الۡعَتِيۡقِ‏
+    arabic: ٱلۡعَتِيقِ
     translation: '[the] Ancient'
     transliteration: l-ʿatīqi
 ---

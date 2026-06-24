@@ -1,20 +1,20 @@
 ---
-arabic_ayat: لِيَمِيۡزَ اللّٰهُ الۡخَبِيۡثَ مِنَ الطَّيِّبِ وَ يَجۡعَلَ الۡخَبِيۡثَ
-  بَعۡضَهٗ عَلٰى بَعۡضٍ فَيَرۡكُمَهٗ جَمِيۡعًا فَيَجۡعَلَهٗ فِىۡ جَهَـنَّمَ​ؕ اُولٰٓٮِٕكَ
-  هُمُ الۡخٰسِرُوۡنَ‏
+arabic_ayat: لِيَمِيزَ ٱللَّهُ ٱلۡخَبِيثَ مِنَ ٱلطَّيِّبِ وَيَجۡعَلَ ٱلۡخَبِيثَ بَعۡضَهُۥ
+  عَلَىٰ بَعۡضٖ فَيَرۡكُمَهُۥ جَمِيعٗا فَيَجۡعَلَهُۥ فِي جَهَنَّمَۚ أُوْلَٰٓئِكَ هُمُ
+  ٱلۡخَٰسِرُونَ
 sentence_translation: so Allah may separate the evil from the good. He will pile up
   the evil ones all together and then cast them into Hell. They are the ˹true˺ losers.
 word_by_word:
   1:
-    arabic: لِيَمِيۡزَ
+    arabic: لِيَمِيزَ
     translation: That may distinguish
     transliteration: liyamīza
   2:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   3:
-    arabic: الۡخَبِيۡثَ
+    arabic: ٱلۡخَبِيثَ
     translation: the wicked
     transliteration: l-khabītha
   4:
@@ -22,51 +22,51 @@ word_by_word:
     translation: from
     transliteration: mina
   5:
-    arabic: الطَّيِّبِ
+    arabic: ٱلطَّيِّبِ
     translation: the good
     transliteration: l-ṭayibi
   6:
-    arabic: وَ يَجۡعَلَ
+    arabic: وَيَجۡعَلَ
     translation: and place
     transliteration: wayajʿala
   7:
-    arabic: الۡخَبِيۡثَ
+    arabic: ٱلۡخَبِيثَ
     translation: the wicked
     transliteration: l-khabītha
   8:
-    arabic: بَعۡضَهٗ
+    arabic: بَعۡضَهُۥ
     translation: some of them
     transliteration: baʿḍahu
   9:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: 'on'
     transliteration: ʿalā
   10:
-    arabic: بَعۡضٍ
+    arabic: بَعۡضٖ
     translation: others
     transliteration: baʿḍin
   11:
-    arabic: فَيَرۡكُمَهٗ
+    arabic: فَيَرۡكُمَهُۥ
     translation: and heap them
     transliteration: fayarkumahu
   12:
-    arabic: جَمِيۡعًا
+    arabic: جَمِيعٗا
     translation: all together
     transliteration: jamīʿan
   13:
-    arabic: فَيَجۡعَلَهٗ
+    arabic: فَيَجۡعَلَهُۥ
     translation: and put them
     transliteration: fayajʿalahu
   14:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   15:
-    arabic: جَهَـنَّمَ​ؕ
+    arabic: جَهَنَّمَۚ
     translation: Hell
     transliteration: jahannama
   16:
-    arabic: اُولٰٓٮِٕكَ
+    arabic: أُوْلَٰٓئِكَ
     translation: 'Those '
     transliteration: ulāika
   17:
@@ -74,7 +74,7 @@ word_by_word:
     translation: they
     transliteration: humu
   18:
-    arabic: الۡخٰسِرُوۡنَ‏
+    arabic: ٱلۡخَٰسِرُونَ
     translation: (are) the losers
     transliteration: l-khāsirūna
 ---

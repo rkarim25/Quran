@@ -1,17 +1,17 @@
 ---
-arabic_ayat: وَاَخۡرَجَتِ الۡاَرۡضُ اَثۡقَالَهَا ۙ‏
+arabic_ayat: وَأَخۡرَجَتِ ٱلۡأَرۡضُ أَثۡقَالَهَا
 sentence_translation: and when the earth throws out ˹all˺ its contents,
 word_by_word:
   1:
-    arabic: وَاَخۡرَجَتِ
+    arabic: وَأَخۡرَجَتِ
     translation: And brings forth
     transliteration: wa-akhrajati
   2:
-    arabic: الۡاَرۡضُ
+    arabic: ٱلۡأَرۡضُ
     translation: the earth
     transliteration: l-arḍu
   3:
-    arabic: اَثۡقَالَهَا ۙ‏
+    arabic: أَثۡقَالَهَا
     translation: its burdens
     transliteration: athqālahā
 ---

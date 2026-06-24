@@ -1,7 +1,6 @@
 ---
-arabic_ayat: قُلۡ اَرَءَيۡتُمۡ اِنۡ جَعَلَ اللّٰهُ عَلَيۡكُمُ الَّيۡلَ سَرۡمَدًا اِلٰى
-  يَوۡمِ الۡقِيٰمَةِ مَنۡ اِلٰـهٌ غَيۡرُ اللّٰهِ يَاۡتِيۡكُمۡ بِضِيَآءٍ​ؕاَفَلَا
-  تَسۡمَعُوۡنَ‏
+arabic_ayat: قُلۡ أَرَءَيۡتُمۡ إِن جَعَلَ ٱللَّهُ عَلَيۡكُمُ ٱلَّيۡلَ سَرۡمَدًا إِلَىٰ
+  يَوۡمِ ٱلۡقِيَٰمَةِ مَنۡ إِلَٰهٌ غَيۡرُ ٱللَّهِ يَأۡتِيكُم بِضِيَآءٍۚ أَفَلَا تَسۡمَعُونَ
 sentence_translation: Ask ˹them, O  Prophet˺, “Imagine if Allah were to make the night
   perpetual for you until the Day of Judgment, which god other than Allah could bring
   you sunlight? Will you not then listen?”
@@ -11,11 +10,11 @@ word_by_word:
     translation: Say
     transliteration: qul
   2:
-    arabic: اَرَءَيۡتُمۡ
+    arabic: أَرَءَيۡتُمۡ
     translation: Have you seen
     transliteration: ara-aytum
   3:
-    arabic: اِنۡ
+    arabic: إِن
     translation: if
     transliteration: in
   4:
@@ -23,7 +22,7 @@ word_by_word:
     translation: Allah made
     transliteration: jaʿala
   5:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah made
     transliteration: l-lahu
   6:
@@ -31,7 +30,7 @@ word_by_word:
     translation: for you
     transliteration: ʿalaykumu
   7:
-    arabic: الَّيۡلَ
+    arabic: ٱلَّيۡلَ
     translation: the night
     transliteration: al-layla
   8:
@@ -39,7 +38,7 @@ word_by_word:
     translation: continuous
     transliteration: sarmadan
   9:
-    arabic: اِلٰى
+    arabic: إِلَىٰ
     translation: till
     transliteration: ilā
   10:
@@ -47,7 +46,7 @@ word_by_word:
     translation: (the) Day
     transliteration: yawmi
   11:
-    arabic: الۡقِيٰمَةِ
+    arabic: ٱلۡقِيَٰمَةِ
     translation: (of) the Resurrection
     transliteration: l-qiyāmati
   12:
@@ -55,7 +54,7 @@ word_by_word:
     translation: who
     transliteration: man
   13:
-    arabic: اِلٰـهٌ
+    arabic: إِلَٰهٌ
     translation: (is the) god
     transliteration: ilāhun
   14:
@@ -63,23 +62,23 @@ word_by_word:
     translation: besides
     transliteration: ghayru
   15:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   16:
-    arabic: يَاۡتِيۡكُمۡ
+    arabic: يَأۡتِيكُم
     translation: who could bring you
     transliteration: yatīkum
   17:
-    arabic: بِضِيَآءٍ​ؕ
+    arabic: بِضِيَآءٍۚ
     translation: light
     transliteration: biḍiyāin
   18:
-    arabic: اَفَلَا
+    arabic: أَفَلَا
     translation: Then will not
     transliteration: afalā
   19:
-    arabic: تَسۡمَعُوۡنَ‏
+    arabic: تَسۡمَعُونَ
     translation: you hear
     transliteration: tasmaʿūna
 ---

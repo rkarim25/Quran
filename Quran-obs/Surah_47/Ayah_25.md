@@ -1,32 +1,32 @@
 ---
-arabic_ayat: اِنَّ الَّذِيۡنَ ارۡتَدُّوۡا عَلٰٓى اَدۡبَارِهِمۡ مِّنۡۢ بَعۡدِ مَا تَبَيَّنَ
-  لَهُمُ الۡهُدَى​ۙ الشَّيۡطٰنُ سَوَّلَ لَهُمۡ ؕ وَاَمۡلٰى لَهُمۡ‏
+arabic_ayat: إِنَّ ٱلَّذِينَ ٱرۡتَدُّواْ عَلَىٰٓ أَدۡبَٰرِهِم مِّنۢ بَعۡدِ مَا تَبَيَّنَ
+  لَهُمُ ٱلۡهُدَى ٱلشَّيۡطَٰنُ سَوَّلَ لَهُمۡ وَأَمۡلَىٰ لَهُمۡ
 sentence_translation: Indeed, those who relapse ˹into disbelief˺ after ˹true˺ guidance
   has become clear to them, ˹it is˺ Satan ˹that˺ has tempted them, luring them with
   false hopes.
 word_by_word:
   1:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   3:
-    arabic: ارۡتَدُّوۡا
+    arabic: ٱرۡتَدُّواْ
     translation: return
     transliteration: ir'taddū
   4:
-    arabic: عَلٰٓى
+    arabic: عَلَىٰٓ
     translation: 'on'
     transliteration: ʿalā
   5:
-    arabic: اَدۡبَارِهِمۡ
+    arabic: أَدۡبَٰرِهِم
     translation: their backs
     transliteration: adbārihim
   6:
-    arabic: مِّنۡۢ
+    arabic: مِّنۢ
     translation: after
     transliteration: min
   7:
@@ -46,11 +46,11 @@ word_by_word:
     translation: to them
     transliteration: lahumu
   11:
-    arabic: الۡهُدَى​ۙ
+    arabic: ٱلۡهُدَى
     translation: (of) the guidance
     transliteration: l-hudā
   12:
-    arabic: الشَّيۡطٰنُ
+    arabic: ٱلشَّيۡطَٰنُ
     translation: Shaitaan
     transliteration: l-shayṭānu
   13:
@@ -58,15 +58,15 @@ word_by_word:
     translation: enticed
     transliteration: sawwala
   14:
-    arabic: لَهُمۡ ؕ
+    arabic: لَهُمۡ
     translation: '[for] them'
     transliteration: lahum
   15:
-    arabic: وَاَمۡلٰى
+    arabic: وَأَمۡلَىٰ
     translation: and prolonged hope
     transliteration: wa-amlā
   16:
-    arabic: لَهُمۡ‏
+    arabic: لَهُمۡ
     translation: for them
     transliteration: lahum
 ---

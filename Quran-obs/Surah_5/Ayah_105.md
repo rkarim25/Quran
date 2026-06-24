@@ -1,21 +1,21 @@
 ---
-arabic_ayat: يٰۤـاَيُّهَا الَّذِيۡنَ اٰمَنُوۡا عَلَيۡكُمۡ اَنۡفُسَكُمۡ​ۚ لَا يَضُرُّكُمۡ
-  مَّنۡ ضَلَّ اِذَا اهۡتَدَيۡتُمۡ​ ؕ اِلَى اللّٰهِ مَرۡجِعُكُمۡ جَمِيۡعًا فَيُـنَـبِّـئُكُمۡ
-  بِمَا كُنۡتُمۡ تَعۡمَلُوۡنَ‏
+arabic_ayat: يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُواْ عَلَيۡكُمۡ أَنفُسَكُمۡۖ لَا يَضُرُّكُم
+  مَّن ضَلَّ إِذَا ٱهۡتَدَيۡتُمۡۚ إِلَى ٱللَّهِ مَرۡجِعُكُمۡ جَمِيعٗا فَيُنَبِّئُكُم
+  بِمَا كُنتُمۡ تَعۡمَلُونَ
 sentence_translation: O believers! You are accountable only for yourselves. It will
   not harm you if someone chooses to deviate—as long as you are ˹rightly˺ guided.
   To Allah you will all return, and He will inform you of what you used to do.
 word_by_word:
   1:
-    arabic: يٰۤـاَيُّهَا
+    arabic: يَٰٓأَيُّهَا
     translation: O you
     transliteration: yāayyuhā
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ ءَ
     translation: who
     transliteration: alladhīna
   3:
-    arabic: اٰمَنُوۡا
+    arabic: امَنُواْ
     translation: believe
     transliteration: āmanū
   4:
@@ -23,7 +23,7 @@ word_by_word:
     translation: Upon you
     transliteration: ʿalaykum
   5:
-    arabic: اَنۡفُسَكُمۡ​ۚ
+    arabic: أَنفُسَكُمۡۖ
     translation: (is to guard) yourselves
     transliteration: anfusakum
   6:
@@ -31,11 +31,11 @@ word_by_word:
     translation: Not
     transliteration: lā
   7:
-    arabic: يَضُرُّكُمۡ
+    arabic: يَضُرُّكُم
     translation: will harm you
     transliteration: yaḍurrukum
   8:
-    arabic: مَّنۡ
+    arabic: مَّن
     translation: (those) who
     transliteration: man
   9:
@@ -43,19 +43,19 @@ word_by_word:
     translation: (have gone) astray
     transliteration: ḍalla
   10:
-    arabic: اِذَا
+    arabic: إِذَا
     translation: when
     transliteration: idhā
   11:
-    arabic: اهۡتَدَيۡتُمۡ​ ؕ
+    arabic: ٱهۡتَدَيۡتُمۡۚ
     translation: you have been guided
     transliteration: ih'tadaytum
   12:
-    arabic: اِلَى
+    arabic: إِلَى
     translation: To
     transliteration: ilā
   13:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   14:
@@ -63,11 +63,11 @@ word_by_word:
     translation: '(is) your return '
     transliteration: marjiʿukum
   15:
-    arabic: جَمِيۡعًا
+    arabic: جَمِيعٗا
     translation: all
     transliteration: jamīʿan
   16:
-    arabic: فَيُـنَـبِّـئُكُمۡ
+    arabic: فَيُنَبِّئُكُم
     translation: then He will inform you
     transliteration: fayunabbi-ukum
   17:
@@ -75,11 +75,11 @@ word_by_word:
     translation: of what
     transliteration: bimā
   18:
-    arabic: كُنۡتُمۡ
+    arabic: كُنتُمۡ
     translation: you used to
     transliteration: kuntum
   19:
-    arabic: تَعۡمَلُوۡنَ‏
+    arabic: تَعۡمَلُونَ
     translation: do
     transliteration: taʿmalūna
 ---

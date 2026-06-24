@@ -1,5 +1,5 @@
 ---
-arabic_ayat: نَحۡنُ قَدَّرۡنَا بَيۡنَكُمُ الۡمَوۡتَ وَمَا نَحۡنُ بِمَسۡبُوۡقِيۡنَۙ‏
+arabic_ayat: نَحۡنُ قَدَّرۡنَا بَيۡنَكُمُ ٱلۡمَوۡتَ وَمَا نَحۡنُ بِمَسۡبُوقِينَ
 sentence_translation: We have ordained death for ˹all of˺ you, and We cannot be prevented
 word_by_word:
   1:
@@ -15,7 +15,7 @@ word_by_word:
     translation: among you
     transliteration: baynakumu
   4:
-    arabic: الۡمَوۡتَ
+    arabic: ٱلۡمَوۡتَ
     translation: the death
     transliteration: l-mawta
   5:
@@ -27,7 +27,7 @@ word_by_word:
     translation: We
     transliteration: naḥnu
   7:
-    arabic: بِمَسۡبُوۡقِيۡنَۙ‏
+    arabic: بِمَسۡبُوقِينَ
     translation: (are) outrun
     transliteration: bimasbūqīna
 ---

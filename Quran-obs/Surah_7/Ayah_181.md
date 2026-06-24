@@ -1,6 +1,5 @@
 ---
-arabic_ayat: "وَمِمَّنۡ خَلَقۡنَاۤ اُمَّةٌ يَّهۡدُوۡنَ بِالۡحَـقِّ وَبِهٖ يَعۡدِلُوۡنَ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: وَمِمَّنۡ خَلَقۡنَآ أُمَّةٞ يَهۡدُونَ بِٱلۡحَقِّ وَبِهِۦ يَعۡدِلُونَ
 sentence_translation: And among those We created is a group that guides with the truth
   and establishes justice accordingly.
 word_by_word:
@@ -9,27 +8,27 @@ word_by_word:
     translation: And of (those) whom
     transliteration: wamimman
   2:
-    arabic: خَلَقۡنَاۤ
+    arabic: خَلَقۡنَآ
     translation: We have created
     transliteration: khalaqnā
   3:
-    arabic: اُمَّةٌ
+    arabic: أُمَّةٞ
     translation: (is) a nation
     transliteration: ummatun
   4:
-    arabic: يَّهۡدُوۡنَ
+    arabic: يَهۡدُونَ
     translation: who guides
     transliteration: yahdūna
   5:
-    arabic: بِالۡحَـقِّ
+    arabic: بِٱلۡحَقِّ
     translation: with the truth
     transliteration: bil-ḥaqi
   6:
-    arabic: وَبِهٖ
+    arabic: وَبِهِۦ
     translation: and thereby
     transliteration: wabihi
   7:
-    arabic: "يَعۡدِلُوۡنَ‏ \uFEFF\uFEFF"
+    arabic: يَعۡدِلُونَ
     translation: they establish justice
     transliteration: yaʿdilūna
 ---

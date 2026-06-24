@@ -1,6 +1,6 @@
 ---
-arabic_ayat: كَمَثَلِ الشَّيۡطٰنِ اِذۡ قَالَ لِلۡاِنۡسَانِ اكۡفُرۡ​ۚ فَلَمَّا كَفَرَ
-  قَالَ اِنِّىۡ بَرِىۡٓءٌ مِّنۡكَ اِنِّىۡۤ اَخَافُ اللّٰهَ رَبَّ الۡعٰلَمِيۡنَ‏
+arabic_ayat: كَمَثَلِ ٱلشَّيۡطَٰنِ إِذۡ قَالَ لِلۡإِنسَٰنِ ٱكۡفُرۡ فَلَمَّا كَفَرَ
+  قَالَ إِنِّي بَرِيٓءٞ مِّنكَ إِنِّيٓ أَخَافُ ٱللَّهَ رَبَّ ٱلۡعَٰلَمِينَ
 sentence_translation: ˹They are˺ like Satan when he lures someone to disbelieve. Then
   after they have done so, he will say ˹on Judgment Day˺, “I have absolutely nothing
   to do with you. I truly fear Allah—the Lord of all worlds.”
@@ -10,11 +10,11 @@ word_by_word:
     translation: Like (the) example
     transliteration: kamathali
   2:
-    arabic: الشَّيۡطٰنِ
+    arabic: ٱلشَّيۡطَٰنِ
     translation: (of) the Shaitaan
     transliteration: l-shayṭāni
   3:
-    arabic: اِذۡ
+    arabic: إِذۡ
     translation: when
     transliteration: idh
   4:
@@ -22,11 +22,11 @@ word_by_word:
     translation: he says
     transliteration: qāla
   5:
-    arabic: لِلۡاِنۡسَانِ
+    arabic: لِلۡإِنسَٰنِ
     translation: to man
     transliteration: lil'insāni
   6:
-    arabic: اكۡفُرۡ​ۚ
+    arabic: ٱكۡفُرۡ
     translation: Disbelieve
     transliteration: uk'fur
   7:
@@ -42,27 +42,27 @@ word_by_word:
     translation: he says
     transliteration: qāla
   10:
-    arabic: اِنِّىۡ
+    arabic: إِنِّي
     translation: Indeed, I am
     transliteration: innī
   11:
-    arabic: بَرِىۡٓءٌ
+    arabic: بَرِيٓءٞ
     translation: disassociated
     transliteration: barīon
   12:
-    arabic: مِّنۡكَ
+    arabic: مِّنكَ
     translation: from you
     transliteration: minka
   13:
-    arabic: اِنِّىۡۤ
+    arabic: إِنِّيٓ
     translation: Indeed, [I]
     transliteration: innī
   14:
-    arabic: اَخَافُ
+    arabic: أَخَافُ
     translation: I fear
     transliteration: akhāfu
   15:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   16:
@@ -70,7 +70,7 @@ word_by_word:
     translation: (the) Lord
     transliteration: rabba
   17:
-    arabic: الۡعٰلَمِيۡنَ‏
+    arabic: ٱلۡعَٰلَمِينَ
     translation: (of) the worlds
     transliteration: l-ʿālamīna
 ---

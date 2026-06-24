@@ -1,45 +1,45 @@
 ---
-arabic_ayat: اِنَّ الَّذِيۡنَ اٰمَنُوۡا وَعَمِلُوا الصّٰلِحٰتِ وَاَقَامُوا الصَّلٰوةَ
-  وَاٰتَوُا الزَّكٰوةَ لَهُمۡ اَجۡرُهُمۡ عِنۡدَ رَبِّهِمۡ​ۚ وَلَا خَوۡفٌ عَلَيۡهِمۡ
-  وَلَا هُمۡ يَحۡزَنُوۡنَ‏
+arabic_ayat: إِنَّ ٱلَّذِينَ ءَامَنُواْ وَعَمِلُواْ ٱلصَّٰلِحَٰتِ وَأَقَامُواْ ٱلصَّلَوٰةَ
+  وَءَاتَوُاْ ٱلزَّكَوٰةَ لَهُمۡ أَجۡرُهُمۡ عِندَ رَبِّهِمۡ وَلَا خَوۡفٌ عَلَيۡهِمۡ
+  وَلَا هُمۡ يَحۡزَنُونَ
 sentence_translation: Indeed, those who believe, do good, establish prayer, and pay
   alms-tax will receive their reward from their Lord, and there will be no fear for
   them, nor will they grieve.
 word_by_word:
   1:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ ءَ
     translation: those who
     transliteration: alladhīna
   3:
-    arabic: اٰمَنُوۡا
+    arabic: امَنُواْ
     translation: believe[d]
     transliteration: āmanū
   4:
-    arabic: وَعَمِلُوا
+    arabic: وَعَمِلُواْ
     translation: and did
     transliteration: waʿamilū
   5:
-    arabic: الصّٰلِحٰتِ
+    arabic: ٱلصَّٰلِحَٰتِ
     translation: good deeds
     transliteration: l-ṣāliḥāti
   6:
-    arabic: وَاَقَامُوا
+    arabic: وَأَقَامُواْ
     translation: and established
     transliteration: wa-aqāmū
   7:
-    arabic: الصَّلٰوةَ
+    arabic: ٱلصَّلَوٰةَ
     translation: the prayer
     transliteration: l-ṣalata
   8:
-    arabic: وَاٰتَوُا
+    arabic: وَءَاتَوُاْ
     translation: and gave
     transliteration: waātawū
   9:
-    arabic: الزَّكٰوةَ
+    arabic: ٱلزَّكَوٰةَ
     translation: the zakah
     transliteration: l-zakata
   10:
@@ -47,15 +47,15 @@ word_by_word:
     translation: 'for them '
     transliteration: lahum
   11:
-    arabic: اَجۡرُهُمۡ
+    arabic: أَجۡرُهُمۡ
     translation: their reward
     transliteration: ajruhum
   12:
-    arabic: عِنۡدَ
+    arabic: عِندَ
     translation: (is) with
     transliteration: ʿinda
   13:
-    arabic: رَبِّهِمۡ​ۚ
+    arabic: رَبِّهِمۡ
     translation: their Lord
     transliteration: rabbihim
   14:
@@ -79,7 +79,7 @@ word_by_word:
     translation: they
     transliteration: hum
   19:
-    arabic: يَحۡزَنُوۡنَ‏
+    arabic: يَحۡزَنُونَ
     translation: will grieve
     transliteration: yaḥzanūna
 ---

@@ -1,21 +1,21 @@
 ---
-arabic_ayat: اِنَّ الۡاِنۡسَانَ لِرَبِّهٖ لَـكَنُوۡدٌ ۚ‏
+arabic_ayat: إِنَّ ٱلۡإِنسَٰنَ لِرَبِّهِۦ لَكَنُودٞ
 sentence_translation: Surely humankind is ungrateful to their Lord—
 word_by_word:
   1:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   2:
-    arabic: الۡاِنۡسَانَ
+    arabic: ٱلۡإِنسَٰنَ
     translation: mankind
     transliteration: l-insāna
   3:
-    arabic: لِرَبِّهٖ
+    arabic: لِرَبِّهِۦ
     translation: to his Lord
     transliteration: lirabbihi
   4:
-    arabic: لَـكَنُوۡدٌ ۚ‏
+    arabic: لَكَنُودٞ
     translation: (is) surely ungrateful
     transliteration: lakanūdun
 ---

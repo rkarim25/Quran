@@ -1,15 +1,15 @@
 ---
-arabic_ayat: تَبٰـرَكَ الَّذِىۡ نَزَّلَ الۡـفُرۡقَانَ عَلٰى عَبۡدِهٖ لِيَكُوۡنَ لِلۡعٰلَمِيۡنَ
-  نَذِيۡرَا ۙ‏
+arabic_ayat: تَبَارَكَ ٱلَّذِي نَزَّلَ ٱلۡفُرۡقَانَ عَلَىٰ عَبۡدِهِۦ لِيَكُونَ لِلۡعَٰلَمِينَ
+  نَذِيرًا
 sentence_translation: Blessed is the One Who sent down the Standard to His servant, so
   that he may be a warner to the whole world.
 word_by_word:
   1:
-    arabic: تَبٰـرَكَ
+    arabic: تَبَارَكَ
     translation: Blessed is He
     transliteration: tabāraka
   2:
-    arabic: الَّذِىۡ
+    arabic: ٱلَّذِي
     translation: Who
     transliteration: alladhī
   3:
@@ -17,27 +17,27 @@ word_by_word:
     translation: sent down
     transliteration: nazzala
   4:
-    arabic: الۡـفُرۡقَانَ
+    arabic: ٱلۡفُرۡقَانَ
     translation: the Criterion
     transliteration: l-fur'qāna
   5:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: upon
     transliteration: ʿalā
   6:
-    arabic: عَبۡدِهٖ
+    arabic: عَبۡدِهِۦ
     translation: His slave
     transliteration: ʿabdihi
   7:
-    arabic: لِيَكُوۡنَ
+    arabic: لِيَكُونَ
     translation: that he may be
     transliteration: liyakūna
   8:
-    arabic: لِلۡعٰلَمِيۡنَ
+    arabic: لِلۡعَٰلَمِينَ
     translation: to the worlds
     transliteration: lil'ʿālamīna
   9:
-    arabic: نَذِيۡرَا ۙ‏
+    arabic: نَذِيرًا
     translation: 'a warner '
     transliteration: nadhīran
 ---

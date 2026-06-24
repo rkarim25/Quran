@@ -1,10 +1,10 @@
 ---
-arabic_ayat: وَّتَوَكَّلۡ عَلَى اللّٰهِ​ ؕ وَكَفٰى بِاللّٰهِ وَكِيۡلًا‏
+arabic_ayat: وَتَوَكَّلۡ عَلَى ٱللَّهِۚ وَكَفَىٰ بِٱللَّهِ وَكِيلٗا
 sentence_translation: And put your trust in Allah, for Allah is sufficient as a Trustee
   of Affairs.
 word_by_word:
   1:
-    arabic: وَّتَوَكَّلۡ
+    arabic: وَتَوَكَّلۡ
     translation: And put your trust
     transliteration: watawakkal
   2:
@@ -12,19 +12,19 @@ word_by_word:
     translation: in
     transliteration: ʿalā
   3:
-    arabic: اللّٰهِ​ ؕ
+    arabic: ٱللَّهِۚ
     translation: Allah
     transliteration: l-lahi
   4:
-    arabic: وَكَفٰى
+    arabic: وَكَفَىٰ
     translation: And Allah is sufficient
     transliteration: wakafā
   5:
-    arabic: بِاللّٰهِ
+    arabic: بِٱللَّهِ
     translation: And Allah is sufficient
     transliteration: bil-lahi
   6:
-    arabic: وَكِيۡلًا‏
+    arabic: وَكِيلٗا
     translation: (as) Disposer of affairs
     transliteration: wakīlan
 ---

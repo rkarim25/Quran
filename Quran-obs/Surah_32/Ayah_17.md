@@ -1,6 +1,6 @@
 ---
-arabic_ayat: فَلَا تَعۡلَمُ نَفۡسٌ مَّاۤ اُخۡفِىَ لَهُمۡ مِّنۡ قُرَّةِ اَعۡيُنٍ​ۚ
-  جَزَآءًۢ بِمَا كَانُوۡا يَعۡمَلُوۡنَ‏
+arabic_ayat: فَلَا تَعۡلَمُ نَفۡسٞ مَّآ أُخۡفِيَ لَهُم مِّن قُرَّةِ أَعۡيُنٖ جَزَآءَۢ
+  بِمَا كَانُواْ يَعۡمَلُونَ
 sentence_translation: No soul can imagine what delights are kept in store for them
   as a reward for what they used to do.
 word_by_word:
@@ -13,23 +13,23 @@ word_by_word:
     translation: knows
     transliteration: taʿlamu
   3:
-    arabic: نَفۡسٌ
+    arabic: نَفۡسٞ
     translation: a soul
     transliteration: nafsun
   4:
-    arabic: مَّاۤ
+    arabic: مَّآ
     translation: what
     transliteration: mā
   5:
-    arabic: اُخۡفِىَ
+    arabic: أُخۡفِيَ
     translation: is hidden
     transliteration: ukh'fiya
   6:
-    arabic: لَهُمۡ
+    arabic: لَهُم
     translation: for them
     transliteration: lahum
   7:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: of
     transliteration: min
   8:
@@ -37,11 +37,11 @@ word_by_word:
     translation: (the) comfort
     transliteration: qurrati
   9:
-    arabic: اَعۡيُنٍ​ۚ
+    arabic: أَعۡيُنٖ
     translation: (for) the eyes
     transliteration: aʿyunin
   10:
-    arabic: جَزَآءًۢ
+    arabic: جَزَآءَۢ
     translation: (as) a reward
     transliteration: jazāan
   11:
@@ -49,11 +49,11 @@ word_by_word:
     translation: for what
     transliteration: bimā
   12:
-    arabic: كَانُوۡا
+    arabic: كَانُواْ
     translation: they used (to)
     transliteration: kānū
   13:
-    arabic: يَعۡمَلُوۡنَ‏
+    arabic: يَعۡمَلُونَ
     translation: do
     transliteration: yaʿmalūna
 ---

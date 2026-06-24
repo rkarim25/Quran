@@ -1,31 +1,31 @@
 ---
-arabic_ayat: قُلۡ اٰمَنَّا بِاللّٰهِ وَمَاۤ اُنۡزِلَ عَلَيۡنَا وَمَاۤ اُنۡزِلَ عَلٰٓى
-  اِبۡرٰهِيۡمَ وَ اِسۡمٰعِيۡلَ وَاِسۡحٰقَ وَيَعۡقُوۡبَ وَالۡاَسۡبَاطِ وَمَاۤ اُوۡتِىَ
-  مُوۡسٰى وَ عِيۡسٰى وَالنَّبِيُّوۡنَ مِنۡ رَّبِّهِمۡ لَا نُفَرِّقُ بَيۡنَ اَحَدٍ
-  مِّنۡهُمۡ وَنَحۡنُ لَهٗ مُسۡلِمُوۡنَ‏
+arabic_ayat: قُلۡ ءَامَنَّا بِٱللَّهِ وَمَآ أُنزِلَ عَلَيۡنَا وَمَآ أُنزِلَ عَلَىٰٓ
+  إِبۡرَٰهِيمَ وَإِسۡمَٰعِيلَ وَإِسۡحَٰقَ وَيَعۡقُوبَ وَٱلۡأَسۡبَاطِ وَمَآ أُوتِيَ
+  مُوسَىٰ وَعِيسَىٰ وَٱلنَّبِيُّونَ مِن رَّبِّهِمۡ لَا نُفَرِّقُ بَيۡنَ أَحَدٖ مِّنۡهُمۡ
+  وَنَحۡنُ لَهُۥ مُسۡلِمُونَ
 sentence_translation: Say, ˹O Prophet,˺ “We believe in Allah and what has been revealed
   to us and what was revealed to Abraham, Ishmael, Isaac, Jacob, and his descendants;
   and what was given to Moses, Jesus, and other prophets from their Lord—we make no
   distinction between any of them, and to Him we ˹fully˺ submit.”
 word_by_word:
   1:
-    arabic: قُلۡ
+    arabic: قُلۡ ءَ
     translation: Say
     transliteration: qul
   2:
-    arabic: اٰمَنَّا
+    arabic: امَنَّا
     translation: We believed
     transliteration: āmannā
   3:
-    arabic: بِاللّٰهِ
+    arabic: بِٱللَّهِ
     translation: in Allah
     transliteration: bil-lahi
   4:
-    arabic: وَمَاۤ
+    arabic: وَمَآ
     translation: and what
     transliteration: wamā
   5:
-    arabic: اُنۡزِلَ
+    arabic: أُنزِلَ
     translation: (is) revealed
     transliteration: unzila
   6:
@@ -33,63 +33,63 @@ word_by_word:
     translation: on us
     transliteration: ʿalaynā
   7:
-    arabic: وَمَاۤ
+    arabic: وَمَآ
     translation: and what
     transliteration: wamā
   8:
-    arabic: اُنۡزِلَ
+    arabic: أُنزِلَ
     translation: was revealed
     transliteration: unzila
   9:
-    arabic: عَلٰٓى
+    arabic: عَلَىٰٓ
     translation: 'on'
     transliteration: ʿalā
   10:
-    arabic: اِبۡرٰهِيۡمَ
+    arabic: إِبۡرَٰهِيمَ
     translation: Ibrahim
     transliteration: ib'rāhīma
   11:
-    arabic: وَ اِسۡمٰعِيۡلَ
+    arabic: وَإِسۡمَٰعِيلَ
     translation: and Ishmael
     transliteration: wa-is'māʿīla
   12:
-    arabic: وَاِسۡحٰقَ
+    arabic: وَإِسۡحَٰقَ
     translation: and Isaac
     transliteration: wa-is'ḥāqa
   13:
-    arabic: وَيَعۡقُوۡبَ
+    arabic: وَيَعۡقُوبَ
     translation: and Yaqub
     transliteration: wayaʿqūba
   14:
-    arabic: وَالۡاَسۡبَاطِ
+    arabic: وَٱلۡأَسۡبَاطِ
     translation: and the descendents
     transliteration: wal-asbāṭi
   15:
-    arabic: وَمَاۤ
+    arabic: وَمَآ
     translation: and what
     transliteration: wamā
   16:
-    arabic: اُوۡتِىَ
+    arabic: أُوتِيَ
     translation: was given
     transliteration: ūtiya
   17:
-    arabic: مُوۡسٰى
+    arabic: مُوسَىٰ
     translation: (to) Musa
     transliteration: mūsā
   18:
-    arabic: وَ عِيۡسٰى
+    arabic: وَعِيسَىٰ
     translation: and Isa
     transliteration: waʿīsā
   19:
-    arabic: وَالنَّبِيُّوۡنَ
+    arabic: وَٱلنَّبِيُّونَ
     translation: and the Prophets
     transliteration: wal-nabiyūna
   20:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   21:
-    arabic: رَّبِّهِمۡ
+    arabic: رَّبِّهِمۡ
     translation: their Lord
     transliteration: rabbihim
   22:
@@ -105,11 +105,11 @@ word_by_word:
     translation: between
     transliteration: bayna
   25:
-    arabic: اَحَدٍ
+    arabic: أَحَدٖ
     translation: any
     transliteration: aḥadin
   26:
-    arabic: مِّنۡهُمۡ
+    arabic: مِّنۡهُمۡ
     translation: of them
     transliteration: min'hum
   27:
@@ -117,11 +117,11 @@ word_by_word:
     translation: and we
     transliteration: wanaḥnu
   28:
-    arabic: لَهٗ
+    arabic: لَهُۥ
     translation: to Him
     transliteration: lahu
   29:
-    arabic: مُسۡلِمُوۡنَ‏
+    arabic: مُسۡلِمُونَ
     translation: (are) submissive
     transliteration: mus'limūna
 ---

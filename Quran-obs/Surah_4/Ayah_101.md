@@ -1,13 +1,13 @@
 ---
-arabic_ayat: وَاِذَا ضَرَبۡتُمۡ فِى الۡاَرۡضِ فَلَيۡسَ عَلَيۡكُمۡ جُنَاحٌ اَنۡ تَقۡصُرُوۡا
-  مِنَ الصَّلٰوةِ ​ۖ اِنۡ خِفۡتُمۡ اَنۡ يَّفۡتِنَكُمُ الَّذِيۡنَ كَفَرُوۡا​ ؕ اِنَّ
-  الۡـكٰفِرِيۡنَ كَانُوۡا لَـكُمۡ عَدُوًّا مُّبِيۡنًا‏
+arabic_ayat: وَإِذَا ضَرَبۡتُمۡ فِي ٱلۡأَرۡضِ فَلَيۡسَ عَلَيۡكُمۡ جُنَاحٌ أَن تَقۡصُرُواْ
+  مِنَ ٱلصَّلَوٰةِ إِنۡ خِفۡتُمۡ أَن يَفۡتِنَكُمُ ٱلَّذِينَ كَفَرُوٓاْۚ إِنَّ ٱلۡكَٰفِرِينَ
+  كَانُواْ لَكُمۡ عَدُوّٗا مُّبِينٗا
 sentence_translation: When you travel through the land, it is permissible for you
   to shorten the prayer—˹especially˺ if you fear an attack by the disbelievers. Indeed,
   the disbelievers are your sworn enemies.
 word_by_word:
   1:
-    arabic: وَاِذَا
+    arabic: وَإِذَا
     translation: And when
     transliteration: wa-idhā
   2:
@@ -15,11 +15,11 @@ word_by_word:
     translation: you travel
     transliteration: ḍarabtum
   3:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   4:
-    arabic: الۡاَرۡضِ
+    arabic: ٱلۡأَرۡضِ
     translation: the earth
     transliteration: l-arḍi
   5:
@@ -35,11 +35,11 @@ word_by_word:
     translation: (is) any blame
     transliteration: junāḥun
   8:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that
     transliteration: an
   9:
-    arabic: تَقۡصُرُوۡا
+    arabic: تَقۡصُرُواْ
     translation: you shorten
     transliteration: taqṣurū
   10:
@@ -47,11 +47,11 @@ word_by_word:
     translation: '[of]'
     transliteration: mina
   11:
-    arabic: الصَّلٰوةِ ​ۖ 
+    arabic: ٱلصَّلَوٰةِ
     translation: the prayer
     transliteration: l-ṣalati
   12:
-    arabic: اِنۡ
+    arabic: إِنۡ
     translation: if
     transliteration: in
   13:
@@ -59,43 +59,43 @@ word_by_word:
     translation: you fear
     transliteration: khif'tum
   14:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that
     transliteration: an
   15:
-    arabic: يَّفۡتِنَكُمُ
+    arabic: يَفۡتِنَكُمُ
     translation: (may) harm you
     transliteration: yaftinakumu
   16:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   17:
-    arabic: كَفَرُوۡا​ ؕ
+    arabic: كَفَرُوٓاْۚ
     translation: disbelieved
     transliteration: kafarū
   18:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   19:
-    arabic: الۡـكٰفِرِيۡنَ
+    arabic: ٱلۡكَٰفِرِينَ
     translation: the disbelievers
     transliteration: l-kāfirīna
   20:
-    arabic: كَانُوۡا
+    arabic: كَانُواْ
     translation: are
     transliteration: kānū
   21:
-    arabic: لَـكُمۡ
+    arabic: لَكُمۡ
     translation: for you
     transliteration: lakum
   22:
-    arabic: عَدُوًّا
+    arabic: عَدُوّٗا
     translation: an enemy
     transliteration: ʿaduwwan
   23:
-    arabic: مُّبِيۡنًا‏
+    arabic: مُّبِينٗا
     translation: open
     transliteration: mubīnan
 ---

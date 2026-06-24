@@ -1,5 +1,5 @@
 ---
-arabic_ayat: هُمۡ وَاَزۡوَاجُهُمۡ فِىۡ ظِلٰلٍ عَلَى الۡاَرَآٮِٕكِ مُتَّكِـــُٔوۡنَ‏
+arabic_ayat: هُمۡ وَأَزۡوَٰجُهُمۡ فِي ظِلَٰلٍ عَلَى ٱلۡأَرَآئِكِ مُتَّكِـُٔونَ
 sentence_translation: They and their spouses will be in ˹cool˺ shade, reclining on
   ˹canopied˺ couches.
 word_by_word:
@@ -8,15 +8,15 @@ word_by_word:
     translation: They
     transliteration: hum
   2:
-    arabic: وَاَزۡوَاجُهُمۡ
+    arabic: وَأَزۡوَٰجُهُمۡ
     translation: and their spouses
     transliteration: wa-azwājuhum
   3:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   4:
-    arabic: ظِلٰلٍ
+    arabic: ظِلَٰلٍ
     translation: shades
     transliteration: ẓilālin
   5:
@@ -24,11 +24,11 @@ word_by_word:
     translation: 'on'
     transliteration: ʿalā
   6:
-    arabic: الۡاَرَآٮِٕكِ
+    arabic: ٱلۡأَرَآئِكِ
     translation: '[the] couches'
     transliteration: l-arāiki
   7:
-    arabic: مُتَّكِـــُٔوۡنَ‏
+    arabic: مُتَّكِـُٔونَ
     translation: reclining
     transliteration: muttakiūna
 ---

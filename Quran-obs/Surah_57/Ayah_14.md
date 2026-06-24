@@ -1,7 +1,7 @@
 ---
-arabic_ayat: يُنَادُوۡنَهُمۡ اَلَمۡ نَكُنۡ مَّعَكُمۡ​ؕ قَالُوۡا بَلٰى وَلٰـكِنَّكُمۡ
-  فَتَنۡتُمۡ اَنۡفُسَكُمۡ وَ تَرَبَّصۡتُمۡ وَارۡتَبۡتُمۡ وَغَرَّتۡكُمُ الۡاَمَانِىُّ
-  حَتّٰى جَآءَ اَمۡرُ اللّٰهِ وَ غَرَّكُمۡ بِاللّٰهِ الۡغَرُوۡرُ‏
+arabic_ayat: يُنَادُونَهُمۡ أَلَمۡ نَكُن مَّعَكُمۡۖ قَالُواْ بَلَىٰ وَلَٰكِنَّكُمۡ
+  فَتَنتُمۡ أَنفُسَكُمۡ وَتَرَبَّصۡتُمۡ وَٱرۡتَبۡتُمۡ وَغَرَّتۡكُمُ ٱلۡأَمَانِيُّ
+  حَتَّىٰ جَآءَ أَمۡرُ ٱللَّهِ وَغَرَّكُم بِٱللَّهِ ٱلۡغَرُورُ
 sentence_translation: The tormented will cry out to those graced, “Were we not with
   you?” They will reply, “Yes ˹you were˺. But you chose to be tempted ˹by hypocrisy˺,
   ˹eagerly˺ awaited ˹our demise˺, doubted ˹the truth˺, and were deluded by false hopes
@@ -9,47 +9,47 @@ sentence_translation: The tormented will cry out to those graced, “Were we not
   you about Allah.
 word_by_word:
   1:
-    arabic: يُنَادُوۡنَهُمۡ
+    arabic: يُنَادُونَهُمۡ
     translation: They will call them
     transliteration: yunādūnahum
   2:
-    arabic: اَلَمۡ
+    arabic: أَلَمۡ
     translation: Were not
     transliteration: alam
   3:
-    arabic: نَكُنۡ
+    arabic: نَكُن
     translation: we
     transliteration: nakun
   4:
-    arabic: مَّعَكُمۡ​ؕ
+    arabic: مَّعَكُمۡۖ
     translation: with you
     transliteration: maʿakum
   5:
-    arabic: قَالُوۡا
+    arabic: قَالُواْ
     translation: They will say
     transliteration: qālū
   6:
-    arabic: بَلٰى
+    arabic: بَلَىٰ
     translation: 'Yes'
     transliteration: balā
   7:
-    arabic: وَلٰـكِنَّكُمۡ
+    arabic: وَلَٰكِنَّكُمۡ
     translation: but you
     transliteration: walākinnakum
   8:
-    arabic: فَتَنۡتُمۡ
+    arabic: فَتَنتُمۡ
     translation: led to temptation
     transliteration: fatantum
   9:
-    arabic: اَنۡفُسَكُمۡ
+    arabic: أَنفُسَكُمۡ
     translation: yourselves
     transliteration: anfusakum
   10:
-    arabic: وَ تَرَبَّصۡتُمۡ
+    arabic: وَتَرَبَّصۡتُمۡ
     translation: and you awaited
     transliteration: watarabbaṣtum
   11:
-    arabic: وَارۡتَبۡتُمۡ
+    arabic: وَٱرۡتَبۡتُمۡ
     translation: and you doubted
     transliteration: wa-ir'tabtum
   12:
@@ -57,11 +57,11 @@ word_by_word:
     translation: and deceived you
     transliteration: wagharratkumu
   13:
-    arabic: الۡاَمَانِىُّ
+    arabic: ٱلۡأَمَانِيُّ
     translation: the wishful thinking
     transliteration: l-amāniyu
   14:
-    arabic: حَتّٰى
+    arabic: حَتَّىٰ
     translation: until
     transliteration: ḥattā
   15:
@@ -69,23 +69,23 @@ word_by_word:
     translation: came
     transliteration: jāa
   16:
-    arabic: اَمۡرُ
+    arabic: أَمۡرُ
     translation: (the) Command
     transliteration: amru
   17:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (of) Allah
     transliteration: l-lahi
   18:
-    arabic: وَ غَرَّكُمۡ
+    arabic: وَغَرَّكُم
     translation: And deceived you
     transliteration: wagharrakum
   19:
-    arabic: بِاللّٰهِ
+    arabic: بِٱللَّهِ
     translation: about Allah
     transliteration: bil-lahi
   20:
-    arabic: الۡغَرُوۡرُ‏
+    arabic: ٱلۡغَرُورُ
     translation: the deceiver
     transliteration: l-gharūru
 ---

@@ -1,14 +1,14 @@
 ---
-arabic_ayat: وَاللّٰهُ جَعَلَ لَـكُمۡ مِّنۡ اَنۡفُسِكُمۡ اَزۡوَاجًا وَّ جَعَلَ لَـكُمۡ
-  مِّنۡ اَزۡوَاجِكُمۡ بَنِيۡنَ وَحَفَدَةً وَّرَزَقَكُمۡ مِّنَ الطَّيِّبٰتِ​ؕ اَفَبِالۡبَاطِلِ
-  يُؤۡمِنُوۡنَ وَبِنِعۡمَتِ اللّٰهِ هُمۡ يَكۡفُرُوۡنَۙ‏
+arabic_ayat: وَٱللَّهُ جَعَلَ لَكُم مِّنۡ أَنفُسِكُمۡ أَزۡوَٰجٗا وَجَعَلَ لَكُم مِّنۡ
+  أَزۡوَٰجِكُم بَنِينَ وَحَفَدَةٗ وَرَزَقَكُم مِّنَ ٱلطَّيِّبَٰتِۚ أَفَبِٱلۡبَٰطِلِ
+  يُؤۡمِنُونَ وَبِنِعۡمَتِ ٱللَّهِ هُمۡ يَكۡفُرُونَ
 sentence_translation: And Allah has made for you spouses of your own kind, and given
   you through your spouses children and grandchildren. And He has granted you good,
   lawful provisions. Are they then faithful to falsehood and ungrateful for Allah’s
   favours?
 word_by_word:
   1:
-    arabic: وَاللّٰهُ
+    arabic: وَٱللَّهُ
     translation: And Allah
     transliteration: wal-lahu
   2:
@@ -16,7 +16,7 @@ word_by_word:
     translation: (has) made
     transliteration: jaʿala
   3:
-    arabic: لَـكُمۡ
+    arabic: لَكُم
     translation: for you
     transliteration: lakum
   4:
@@ -24,19 +24,19 @@ word_by_word:
     translation: from
     transliteration: min
   5:
-    arabic: اَنۡفُسِكُمۡ
+    arabic: أَنفُسِكُمۡ
     translation: yourselves
     transliteration: anfusikum
   6:
-    arabic: اَزۡوَاجًا
+    arabic: أَزۡوَٰجٗا
     translation: spouses
     transliteration: azwājan
   7:
-    arabic: وَّ جَعَلَ
+    arabic: وَجَعَلَ
     translation: and has made
     transliteration: wajaʿala
   8:
-    arabic: لَـكُمۡ
+    arabic: لَكُم
     translation: for you
     transliteration: lakum
   9:
@@ -44,19 +44,19 @@ word_by_word:
     translation: from
     transliteration: min
   10:
-    arabic: اَزۡوَاجِكُمۡ
+    arabic: أَزۡوَٰجِكُم
     translation: your spouses
     transliteration: azwājikum
   11:
-    arabic: بَنِيۡنَ
+    arabic: بَنِينَ
     translation: sons
     transliteration: banīna
   12:
-    arabic: وَحَفَدَةً
+    arabic: وَحَفَدَةٗ
     translation: and grandsons
     transliteration: waḥafadatan
   13:
-    arabic: وَّرَزَقَكُمۡ
+    arabic: وَرَزَقَكُم
     translation: and has provided for you
     transliteration: warazaqakum
   14:
@@ -64,15 +64,15 @@ word_by_word:
     translation: from
     transliteration: mina
   15:
-    arabic: الطَّيِّبٰتِ​ؕ
+    arabic: ٱلطَّيِّبَٰتِۚ
     translation: the good things
     transliteration: l-ṭayibāti
   16:
-    arabic: اَفَبِالۡبَاطِلِ
+    arabic: أَفَبِٱلۡبَٰطِلِ
     translation: Then in falsehood do
     transliteration: afabil-bāṭili
   17:
-    arabic: يُؤۡمِنُوۡنَ
+    arabic: يُؤۡمِنُونَ
     translation: they believe
     transliteration: yu'minūna
   18:
@@ -80,7 +80,7 @@ word_by_word:
     translation: and the Favor
     transliteration: wabiniʿ'mati
   19:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: of Allah
     transliteration: l-lahi
   20:
@@ -88,7 +88,7 @@ word_by_word:
     translation: they
     transliteration: hum
   21:
-    arabic: يَكۡفُرُوۡنَۙ‏
+    arabic: يَكۡفُرُونَ
     translation: disbelieve
     transliteration: yakfurūna
 ---

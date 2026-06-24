@@ -1,5 +1,5 @@
 ---
-arabic_ayat: وَلَسَوۡفَ يَرۡضٰى‏
+arabic_ayat: وَلَسَوۡفَ يَرۡضَىٰ
 sentence_translation: They will certainly be pleased.
 word_by_word:
   1:
@@ -7,7 +7,7 @@ word_by_word:
     translation: And soon, surely
     transliteration: walasawfa
   2:
-    arabic: يَرۡضٰى‏
+    arabic: يَرۡضَىٰ
     translation: he will be pleased
     transliteration: yarḍā
 ---

@@ -1,29 +1,29 @@
 ---
-arabic_ayat: فَكُلِىۡ وَاشۡرَبِىۡ وَقَرِّىۡ عَيۡنًا​ ۚ فَاِمَّا تَرَيِنَّ مِنَ الۡبَشَرِ
-  اَحَدًا ۙ فَقُوۡلِىۡۤ اِنِّىۡ نَذَرۡتُ لِلرَّحۡمٰنِ صَوۡمًا فَلَنۡ اُكَلِّمَ الۡيَوۡمَ
-  اِنۡسِيًّا ​ۚ‏
+arabic_ayat: فَكُلِي وَٱشۡرَبِي وَقَرِّي عَيۡنٗاۖ فَإِمَّا تَرَيِنَّ مِنَ ٱلۡبَشَرِ
+  أَحَدٗا فَقُولِيٓ إِنِّي نَذَرۡتُ لِلرَّحۡمَٰنِ صَوۡمٗا فَلَنۡ أُكَلِّمَ ٱلۡيَوۡمَ
+  إِنسِيّٗا
 sentence_translation: So eat and drink, and put your heart at ease. But if you see
   any of the people, say, ‘I have vowed silence to the Most Compassionate, so I am
   not talking to anyone today.’”
 word_by_word:
   1:
-    arabic: فَكُلِىۡ
+    arabic: فَكُلِي
     translation: So eat
     transliteration: fakulī
   2:
-    arabic: وَاشۡرَبِىۡ
+    arabic: وَٱشۡرَبِي
     translation: and drink
     transliteration: wa-ish'rabī
   3:
-    arabic: وَقَرِّىۡ
+    arabic: وَقَرِّي
     translation: and cool
     transliteration: waqarrī
   4:
-    arabic: عَيۡنًا​ ۚ
+    arabic: عَيۡنٗاۖ
     translation: (your) eyes
     transliteration: ʿaynan
   5:
-    arabic: فَاِمَّا
+    arabic: فَإِمَّا
     translation: And if
     transliteration: fa-immā
   6:
@@ -35,19 +35,19 @@ word_by_word:
     translation: from
     transliteration: mina
   8:
-    arabic: الۡبَشَرِ
+    arabic: ٱلۡبَشَرِ
     translation: human being
     transliteration: l-bashari
   9:
-    arabic: اَحَدًا ۙ
+    arabic: أَحَدٗا
     translation: anyone
     transliteration: aḥadan
   10:
-    arabic: فَقُوۡلِىۡۤ
+    arabic: فَقُولِيٓ
     translation: then say
     transliteration: faqūlī
   11:
-    arabic: اِنِّىۡ
+    arabic: إِنِّي
     translation: Indeed, I
     transliteration: innī
   12:
@@ -55,11 +55,11 @@ word_by_word:
     translation: '[I] have vowed'
     transliteration: nadhartu
   13:
-    arabic: لِلرَّحۡمٰنِ
+    arabic: لِلرَّحۡمَٰنِ
     translation: to the Most Gracious
     transliteration: lilrraḥmāni
   14:
-    arabic: صَوۡمًا
+    arabic: صَوۡمٗا
     translation: a fast
     transliteration: ṣawman
   15:
@@ -67,15 +67,15 @@ word_by_word:
     translation: so not
     transliteration: falan
   16:
-    arabic: اُكَلِّمَ
+    arabic: أُكَلِّمَ
     translation: I will speak
     transliteration: ukallima
   17:
-    arabic: الۡيَوۡمَ
+    arabic: ٱلۡيَوۡمَ
     translation: today
     transliteration: l-yawma
   18:
-    arabic: اِنۡسِيًّا ​ۚ‏
+    arabic: إِنسِيّٗا
     translation: (to any) human being
     transliteration: insiyyan
 ---

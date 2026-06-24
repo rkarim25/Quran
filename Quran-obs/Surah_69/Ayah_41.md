@@ -1,10 +1,10 @@
 ---
-arabic_ayat: وَّمَا هُوَ بِقَوۡلِ شَاعِرٍ​ؕ قَلِيۡلًا مَّا تُؤۡمِنُوۡنَۙ‏
+arabic_ayat: وَمَا هُوَ بِقَوۡلِ شَاعِرٖۚ قَلِيلٗا مَّا تُؤۡمِنُونَ
 sentence_translation: It is not the prose of a poet ˹as you claim˺, ˹yet˺ you hardly
   have any faith.
 word_by_word:
   1:
-    arabic: وَّمَا
+    arabic: وَمَا
     translation: And not
     transliteration: wamā
   2:
@@ -16,11 +16,11 @@ word_by_word:
     translation: (is the) word
     transliteration: biqawli
   4:
-    arabic: شَاعِرٍ​ؕ
+    arabic: شَاعِرٖۚ
     translation: (of) a poet
     transliteration: shāʿirin
   5:
-    arabic: قَلِيۡلًا
+    arabic: قَلِيلٗا
     translation: little
     transliteration: qalīlan
   6:
@@ -28,7 +28,7 @@ word_by_word:
     translation: (is) what
     transliteration: mā
   7:
-    arabic: تُؤۡمِنُوۡنَۙ‏
+    arabic: تُؤۡمِنُونَ
     translation: you believe
     transliteration: tu'minūna
 ---

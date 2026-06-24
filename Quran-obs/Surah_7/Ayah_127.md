@@ -1,7 +1,7 @@
 ---
-arabic_ayat: وَقَالَ الۡمَلَاُ مِنۡ قَوۡمِ فِرۡعَوۡنَ اَتَذَرُ مُوۡسٰى وَقَوۡمَهٗ
-  لِيُفۡسِدُوۡا فِى الۡاَرۡضِ وَيَذَرَكَ وَاٰلِهَتَكَ​ ؕ قَالَ سَنُقَتِّلُ اَبۡنَآءَهُمۡ
-  وَنَسۡتَحۡىٖ نِسَآءَهُمۡ​ ۚ وَاِنَّا فَوۡقَهُمۡ قَاهِرُوۡنَ‏
+arabic_ayat: وَقَالَ ٱلۡمَلَأُ مِن قَوۡمِ فِرۡعَوۡنَ أَتَذَرُ مُوسَىٰ وَقَوۡمَهُۥ
+  لِيُفۡسِدُواْ فِي ٱلۡأَرۡضِ وَيَذَرَكَ وَءَالِهَتَكَۚ قَالَ سَنُقَتِّلُ أَبۡنَآءَهُمۡ
+  وَنَسۡتَحۡيِۦ نِسَآءَهُمۡ وَإِنَّا فَوۡقَهُمۡ قَٰهِرُونَ
 sentence_translation: The chiefs of Pharaoh’s people protested, “Are you going to
   leave Moses and his people free to spread corruption in the land and abandon you
   and your gods?” He responded, “We will kill their sons and keep their women. We
@@ -12,11 +12,11 @@ word_by_word:
     translation: And said
     transliteration: waqāla
   2:
-    arabic: الۡمَلَاُ
+    arabic: ٱلۡمَلَأُ
     translation: the chiefs
     transliteration: l-mala-u
   3:
-    arabic: مِنۡ
+    arabic: مِن
     translation: of
     transliteration: min
   4:
@@ -28,27 +28,27 @@ word_by_word:
     translation: (of) Firaun
     transliteration: fir'ʿawna
   6:
-    arabic: اَتَذَرُ
+    arabic: أَتَذَرُ
     translation: Will you leave
     transliteration: atadharu
   7:
-    arabic: مُوۡسٰى
+    arabic: مُوسَىٰ
     translation: Musa
     transliteration: mūsā
   8:
-    arabic: وَقَوۡمَهٗ
+    arabic: وَقَوۡمَهُۥ
     translation: and his people
     transliteration: waqawmahu
   9:
-    arabic: لِيُفۡسِدُوۡا
+    arabic: لِيُفۡسِدُواْ
     translation: so that they cause corruption
     transliteration: liyuf'sidū
   10:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   11:
-    arabic: الۡاَرۡضِ
+    arabic: ٱلۡأَرۡضِ
     translation: the earth
     transliteration: l-arḍi
   12:
@@ -56,7 +56,7 @@ word_by_word:
     translation: and forsake you
     transliteration: wayadharaka
   13:
-    arabic: وَاٰلِهَتَكَ​ ؕ
+    arabic: وَءَالِهَتَكَۚ
     translation: and your gods
     transliteration: waālihataka
   14:
@@ -68,19 +68,19 @@ word_by_word:
     translation: We will kill
     transliteration: sanuqattilu
   16:
-    arabic: اَبۡنَآءَهُمۡ
+    arabic: أَبۡنَآءَهُمۡ
     translation: their sons
     transliteration: abnāahum
   17:
-    arabic: وَنَسۡتَحۡىٖ
+    arabic: وَنَسۡتَحۡيِۦ
     translation: and we will let live
     transliteration: wanastaḥyī
   18:
-    arabic: نِسَآءَهُمۡ​ ۚ
+    arabic: نِسَآءَهُمۡ
     translation: their women
     transliteration: nisāahum
   19:
-    arabic: وَاِنَّا
+    arabic: وَإِنَّا
     translation: and indeed, we
     transliteration: wa-innā
   20:
@@ -88,7 +88,7 @@ word_by_word:
     translation: over them
     transliteration: fawqahum
   21:
-    arabic: قَاهِرُوۡنَ‏
+    arabic: قَٰهِرُونَ
     translation: (are) subjugators
     transliteration: qāhirūna
 ---

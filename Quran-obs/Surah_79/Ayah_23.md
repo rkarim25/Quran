@@ -1,5 +1,5 @@
 ---
-arabic_ayat: فَحَشَرَ فَنَادٰىۖ‏
+arabic_ayat: فَحَشَرَ فَنَادَىٰ
 sentence_translation: Then he summoned ˹his people˺ and called out,
 word_by_word:
   1:
@@ -7,7 +7,7 @@ word_by_word:
     translation: And he gathered
     transliteration: faḥashara
   2:
-    arabic: فَنَادٰىۖ‏
+    arabic: فَنَادَىٰ
     translation: and called out
     transliteration: fanādā
 ---

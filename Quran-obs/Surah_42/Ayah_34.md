@@ -1,14 +1,14 @@
 ---
-arabic_ayat: اَوۡ يُوۡبِقۡهُنَّ بِمَا كَسَبُوۡا وَيَعۡفُ عَنۡ كَثِيۡرٍ‏
+arabic_ayat: أَوۡ يُوبِقۡهُنَّ بِمَا كَسَبُواْ وَيَعۡفُ عَن كَثِيرٖ
 sentence_translation: Or He can wreck the ships for what the people have committed—though
   He forgives much—
 word_by_word:
   1:
-    arabic: اَوۡ
+    arabic: أَوۡ
     translation: Or
     transliteration: aw
   2:
-    arabic: يُوۡبِقۡهُنَّ
+    arabic: يُوبِقۡهُنَّ
     translation: He could destroy them
     transliteration: yūbiq'hunna
   3:
@@ -16,7 +16,7 @@ word_by_word:
     translation: for what
     transliteration: bimā
   4:
-    arabic: كَسَبُوۡا
+    arabic: كَسَبُواْ
     translation: they have earned
     transliteration: kasabū
   5:
@@ -24,11 +24,11 @@ word_by_word:
     translation: but He pardons
     transliteration: wayaʿfu
   6:
-    arabic: عَنۡ
+    arabic: عَن
     translation: '[from]'
     transliteration: ʿan
   7:
-    arabic: كَثِيۡرٍ‏
+    arabic: كَثِيرٖ
     translation: much
     transliteration: kathīrin
 ---

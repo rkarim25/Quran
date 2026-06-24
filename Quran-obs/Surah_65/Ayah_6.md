@@ -1,9 +1,8 @@
 ---
-arabic_ayat: اَسۡكِنُوۡهُنَّ مِنۡ حَيۡثُ سَكَنۡـتُمۡ مِّنۡ وُّجۡدِكُمۡ وَلَا تُضَآرُّوۡهُنَّ
-  لِتُضَيِّقُوۡا عَلَيۡهِنَّ​ ؕ وَاِنۡ كُنَّ اُولَاتِ حَمۡلٍ فَاَنۡفِقُوا عَلَيۡهِنَّ
-  حَتّٰى يَضَعۡنَ حَمۡلَهُنَّ​​ ۚ فَاِنۡ اَرۡضَعۡنَ لَـكُمۡ فَاٰ تُوۡهُنَّ اُجُوۡرَهُنَّ​
-  ۚ وَاۡتَمِرُوۡا بَيۡنَكُمۡ بِمَعۡرُوۡفٍ​ۚ وَاِنۡ تَعَاسَرۡتُمۡ فَسَتُرۡضِعُ لَهٗۤ
-  اُخۡرٰى ؕ‏
+arabic_ayat: أَسۡكِنُوهُنَّ مِنۡ حَيۡثُ سَكَنتُم مِّن وُجۡدِكُمۡ وَلَا تُضَآرُّوهُنَّ
+  لِتُضَيِّقُواْ عَلَيۡهِنَّۚ وَإِن كُنَّ أُوْلَٰتِ حَمۡلٖ فَأَنفِقُواْ عَلَيۡهِنَّ
+  حَتَّىٰ يَضَعۡنَ حَمۡلَهُنَّۚ فَإِنۡ أَرۡضَعۡنَ لَكُمۡ فَـَٔاتُوهُنَّ أُجُورَهُنَّ
+  وَأۡتَمِرُواْ بَيۡنَكُم بِمَعۡرُوفٖۖ وَإِن تَعَاسَرۡتُمۡ فَسَتُرۡضِعُ لَهُۥٓ أُخۡرَىٰ
 sentence_translation: Let them live where you live ˹during their waiting period˺,
   according to your means. And do not harass them to make their stay unbearable. If
   they are pregnant, then maintain them until they deliver. And if they nurse your
@@ -11,7 +10,7 @@ sentence_translation: Let them live where you live ˹during their waiting period
   an agreement, then another woman will nurse ˹the child˺ for the father.
 word_by_word:
   1:
-    arabic: اَسۡكِنُوۡهُنَّ
+    arabic: أَسۡكِنُوهُنَّ
     translation: Lodge them
     transliteration: askinūhunna
   2:
@@ -23,15 +22,15 @@ word_by_word:
     translation: where
     transliteration: ḥaythu
   4:
-    arabic: سَكَنۡـتُمۡ
+    arabic: سَكَنتُم
     translation: you dwell
     transliteration: sakantum
   5:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: (out) of
     transliteration: min
   6:
-    arabic: وُّجۡدِكُمۡ
+    arabic: وُجۡدِكُمۡ
     translation: your means
     transliteration: wuj'dikum
   7:
@@ -39,19 +38,19 @@ word_by_word:
     translation: and (do) not
     transliteration: walā
   8:
-    arabic: تُضَآرُّوۡهُنَّ
+    arabic: تُضَآرُّوهُنَّ
     translation: harm them
     transliteration: tuḍārrūhunna
   9:
-    arabic: لِتُضَيِّقُوۡا
+    arabic: لِتُضَيِّقُواْ
     translation: to distress
     transliteration: lituḍayyiqū
   10:
-    arabic: عَلَيۡهِنَّ​ ؕ
+    arabic: عَلَيۡهِنَّۚ
     translation: '[on] them'
     transliteration: ʿalayhinna
   11:
-    arabic: وَاِنۡ
+    arabic: وَإِن
     translation: And if
     transliteration: wa-in
   12:
@@ -59,15 +58,15 @@ word_by_word:
     translation: they are
     transliteration: kunna
   13:
-    arabic: اُولَاتِ
+    arabic: أُوْلَٰتِ
     translation: those (who are)
     transliteration: ulāti
   14:
-    arabic: حَمۡلٍ
+    arabic: حَمۡلٖ
     translation: pregnant
     transliteration: ḥamlin
   15:
-    arabic: فَاَنۡفِقُوا
+    arabic: فَأَنفِقُواْ
     translation: then spend
     transliteration: fa-anfiqū
   16:
@@ -75,7 +74,7 @@ word_by_word:
     translation: on them
     transliteration: ʿalayhinna
   17:
-    arabic: حَتّٰى
+    arabic: حَتَّىٰ
     translation: until
     transliteration: ḥattā
   18:
@@ -83,43 +82,43 @@ word_by_word:
     translation: they deliver
     transliteration: yaḍaʿna
   19:
-    arabic: حَمۡلَهُنَّ​​ ۚ
+    arabic: حَمۡلَهُنَّۚ
     translation: their burden
     transliteration: ḥamlahunna
   20:
-    arabic: فَاِنۡ
+    arabic: فَإِنۡ
     translation: Then if
     transliteration: fa-in
   21:
-    arabic: اَرۡضَعۡنَ
+    arabic: أَرۡضَعۡنَ
     translation: they suckle
     transliteration: arḍaʿna
   22:
-    arabic: لَـكُمۡ
+    arabic: لَكُمۡ
     translation: for you
     transliteration: lakum
   23:
-    arabic: فَاٰ تُوۡهُنَّ
+    arabic: فَـَٔاتُوهُنَّ
     translation: then give them
     transliteration: faātūhunna
   24:
-    arabic: اُجُوۡرَهُنَّ​ ۚ
+    arabic: أُجُورَهُنَّ
     translation: their payment
     transliteration: ujūrahunna
   25:
-    arabic: وَاۡتَمِرُوۡا
+    arabic: وَأۡتَمِرُواْ
     translation: and consult
     transliteration: watamirū
   26:
-    arabic: بَيۡنَكُمۡ
+    arabic: بَيۡنَكُم
     translation: among yourselves
     transliteration: baynakum
   27:
-    arabic: بِمَعۡرُوۡفٍ​ۚ
+    arabic: بِمَعۡرُوفٖۖ
     translation: with kindness
     transliteration: bimaʿrūfin
   28:
-    arabic: وَاِنۡ
+    arabic: وَإِن
     translation: but if
     transliteration: wa-in
   29:
@@ -131,11 +130,11 @@ word_by_word:
     translation: then may suckle
     transliteration: fasatur'ḍiʿu
   31:
-    arabic: لَهٗۤ
+    arabic: لَهُۥٓ
     translation: for him
     transliteration: lahu
   32:
-    arabic: اُخۡرٰى ؕ‏
+    arabic: أُخۡرَىٰ
     translation: another (women)
     transliteration: ukh'rā
 ---

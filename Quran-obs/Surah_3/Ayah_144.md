@@ -1,8 +1,7 @@
 ---
-arabic_ayat: "وَمَا مُحَمَّدٌ اِلَّا رَسُوۡلٌ  ۚ قَدۡ خَلَتۡ مِنۡ قَبۡلِهِ الرُّسُلُ​ؕ\
-  \ اَفَا۟ٮِٕنْ مَّاتَ اَوۡ قُتِلَ انْقَلَبۡتُمۡ عَلٰٓى اَعۡقَابِكُمۡ​ؕ وَمَنۡ يَّنۡقَلِبۡ\
-  \ عَلٰى عَقِبَيۡهِ فَلَنۡ يَّضُرَّ اللّٰهَ شَيۡـــًٔا​ ؕ وَسَيَجۡزِى اللّٰهُ الشّٰكِرِيۡنَ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: وَمَا مُحَمَّدٌ إِلَّا رَسُولٞ قَدۡ خَلَتۡ مِن قَبۡلِهِ ٱلرُّسُلُۚ أَفَإِيْن
+  مَّاتَ أَوۡ قُتِلَ ٱنقَلَبۡتُمۡ عَلَىٰٓ أَعۡقَٰبِكُمۡۚ وَمَن يَنقَلِبۡ عَلَىٰ عَقِبَيۡهِ
+  فَلَن يَضُرَّ ٱللَّهَ شَيۡـٔٗاۚ وَسَيَجۡزِي ٱللَّهُ ٱلشَّٰكِرِينَ
 sentence_translation: Muḥammad is no more than a messenger; other messengers have
   gone before him. If he were to die or to be killed, would you regress into disbelief?
   Those who do so will not harm Allah whatsoever. And Allah will reward those who
@@ -17,11 +16,11 @@ word_by_word:
     translation: '(is) Muhammad '
     transliteration: muḥammadun
   3:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   4:
-    arabic: رَسُوۡلٌ  ۚ
+    arabic: رَسُولٞ
     translation: a Messenger
     transliteration: rasūlun
   5:
@@ -33,7 +32,7 @@ word_by_word:
     translation: passed away
     transliteration: khalat
   7:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   8:
@@ -41,11 +40,11 @@ word_by_word:
     translation: before him
     transliteration: qablihi
   9:
-    arabic: الرُّسُلُ​ؕ
+    arabic: ٱلرُّسُلُۚ
     translation: '[the] (other) Messengers'
     transliteration: l-rusulu
   10:
-    arabic: اَفَا۟ٮِٕنْ
+    arabic: أَفَإِيْن
     translation: So if
     transliteration: afa-in
   11:
@@ -53,7 +52,7 @@ word_by_word:
     translation: he died
     transliteration: māta
   12:
-    arabic: اَوۡ
+    arabic: أَوۡ
     translation: or
     transliteration: aw
   13:
@@ -61,27 +60,27 @@ word_by_word:
     translation: is slain
     transliteration: qutila
   14:
-    arabic: انْقَلَبۡتُمۡ
+    arabic: ٱنقَلَبۡتُمۡ
     translation: will you turn back
     transliteration: inqalabtum
   15:
-    arabic: عَلٰٓى
+    arabic: عَلَىٰٓ
     translation: 'on'
     transliteration: ʿalā
   16:
-    arabic: اَعۡقَابِكُمۡ​ؕ
+    arabic: أَعۡقَٰبِكُمۡۚ
     translation: your heels
     transliteration: aʿqābikum
   17:
-    arabic: وَمَنۡ
+    arabic: وَمَن
     translation: And whoever
     transliteration: waman
   18:
-    arabic: يَّنۡقَلِبۡ
+    arabic: يَنقَلِبۡ
     translation: turns back
     transliteration: yanqalib
   19:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: 'on'
     transliteration: ʿalā
   20:
@@ -89,31 +88,31 @@ word_by_word:
     translation: his heels
     transliteration: ʿaqibayhi
   21:
-    arabic: فَلَنۡ
+    arabic: فَلَن
     translation: then never
     transliteration: falan
   22:
-    arabic: يَّضُرَّ
+    arabic: يَضُرَّ
     translation: will he harm
     transliteration: yaḍurra
   23:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   24:
-    arabic: شَيۡـــًٔا​ ؕ
+    arabic: شَيۡـٔٗاۚ
     translation: (in) anything
     transliteration: shayan
   25:
-    arabic: وَسَيَجۡزِى
+    arabic: وَسَيَجۡزِي
     translation: And will reward
     transliteration: wasayajzī
   26:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   27:
-    arabic: "الشّٰكِرِيۡنَ‏ \uFEFF\uFEFF"
+    arabic: ٱلشَّٰكِرِينَ
     translation: the grateful ones
     transliteration: l-shākirīna
 ---

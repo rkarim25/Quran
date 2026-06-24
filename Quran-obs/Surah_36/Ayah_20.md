@@ -1,6 +1,6 @@
 ---
-arabic_ayat: وَجَآءَ مِنۡ اَقۡصَا الۡمَدِيۡنَةِ رَجُلٌ يَّسۡعٰى قَالَ يٰقَوۡمِ اتَّبِعُوا
-  الۡمُرۡسَلِيۡنَۙ‏
+arabic_ayat: وَجَآءَ مِنۡ أَقۡصَا ٱلۡمَدِينَةِ رَجُلٞ يَسۡعَىٰ قَالَ يَٰقَوۡمِ ٱتَّبِعُواْ
+  ٱلۡمُرۡسَلِينَ
 sentence_translation: Then from the farthest end of the city a man came, rushing.
   He advised, “O my people! Follow the messengers.
 word_by_word:
@@ -13,19 +13,19 @@ word_by_word:
     translation: from
     transliteration: min
   3:
-    arabic: اَقۡصَا
+    arabic: أَقۡصَا
     translation: (the) farthest end
     transliteration: aqṣā
   4:
-    arabic: الۡمَدِيۡنَةِ
+    arabic: ٱلۡمَدِينَةِ
     translation: (of) the city
     transliteration: l-madīnati
   5:
-    arabic: رَجُلٌ
+    arabic: رَجُلٞ
     translation: a man
     transliteration: rajulun
   6:
-    arabic: يَّسۡعٰى
+    arabic: يَسۡعَىٰ
     translation: running
     transliteration: yasʿā
   7:
@@ -33,15 +33,15 @@ word_by_word:
     translation: He said
     transliteration: qāla
   8:
-    arabic: يٰقَوۡمِ
+    arabic: يَٰقَوۡمِ
     translation: O my People
     transliteration: yāqawmi
   9:
-    arabic: اتَّبِعُوا
+    arabic: ٱتَّبِعُواْ
     translation: Follow
     transliteration: ittabiʿū
   10:
-    arabic: الۡمُرۡسَلِيۡنَۙ‏
+    arabic: ٱلۡمُرۡسَلِينَ
     translation: the Messengers
     transliteration: l-mur'salīna
 ---

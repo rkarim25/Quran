@@ -1,7 +1,6 @@
 ---
-arabic_ayat: "وَوَرِثَ سُلَيۡمٰنُ دَاوٗدَ​ وَقَالَ يٰۤاَيُّهَا النَّاسُ عُلِّمۡنَا\
-  \ مَنۡطِقَ الطَّيۡرِ وَاُوۡتِيۡنَا مِنۡ كُلِّ شَىۡءٍؕ​ اِنَّ هٰذَا لَهُوَ الۡفَضۡلُ\
-  \ الۡمُبِيۡنُ‏ \uFEFF\uFEFF"
+arabic_ayat: وَوَرِثَ سُلَيۡمَٰنُ دَاوُۥدَۖ وَقَالَ يَٰٓأَيُّهَا ٱلنَّاسُ عُلِّمۡنَا
+  مَنطِقَ ٱلطَّيۡرِ وَأُوتِينَا مِن كُلِّ شَيۡءٍۖ إِنَّ هَٰذَا لَهُوَ ٱلۡفَضۡلُ ٱلۡمُبِينُ
 sentence_translation: And David was succeeded by Solomon, who said, “O people! We
   have been taught the language of birds, and been given everything ˹we need˺. This
   is indeed a great privilege.”
@@ -11,11 +10,11 @@ word_by_word:
     translation: And inherited
     transliteration: wawaritha
   2:
-    arabic: سُلَيۡمٰنُ
+    arabic: سُلَيۡمَٰنُ
     translation: Sulaiman
     transliteration: sulaymānu
   3:
-    arabic: دَاوٗدَ​
+    arabic: دَاوُۥدَۖ
     translation: Dawood
     transliteration: dāwūda
   4:
@@ -23,11 +22,11 @@ word_by_word:
     translation: And he said
     transliteration: waqāla
   5:
-    arabic: يٰۤاَيُّهَا
+    arabic: يَٰٓأَيُّهَا
     translation: O
     transliteration: yāayyuhā
   6:
-    arabic: النَّاسُ
+    arabic: ٱلنَّاسُ
     translation: people
     transliteration: l-nāsu
   7:
@@ -35,19 +34,19 @@ word_by_word:
     translation: We have been taught
     transliteration: ʿullim'nā
   8:
-    arabic: مَنۡطِقَ
+    arabic: مَنطِقَ
     translation: (the) language
     transliteration: manṭiqa
   9:
-    arabic: الطَّيۡرِ
+    arabic: ٱلطَّيۡرِ
     translation: (of) the birds
     transliteration: l-ṭayri
   10:
-    arabic: وَاُوۡتِيۡنَا
+    arabic: وَأُوتِينَا
     translation: and we have been given
     transliteration: waūtīnā
   11:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   12:
@@ -55,15 +54,15 @@ word_by_word:
     translation: every
     transliteration: kulli
   13:
-    arabic: شَىۡءٍؕ​
+    arabic: شَيۡءٍۖ
     translation: thing
     transliteration: shayin
   14:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   15:
-    arabic: هٰذَا
+    arabic: هَٰذَا
     translation: this
     transliteration: hādhā
   16:
@@ -71,11 +70,11 @@ word_by_word:
     translation: surely, it
     transliteration: lahuwa
   17:
-    arabic: الۡفَضۡلُ
+    arabic: ٱلۡفَضۡلُ
     translation: (is) the favor
     transliteration: l-faḍlu
   18:
-    arabic: "الۡمُبِيۡنُ‏ \uFEFF\uFEFF"
+    arabic: ٱلۡمُبِينُ
     translation: evident
     transliteration: l-mubīnu
 ---

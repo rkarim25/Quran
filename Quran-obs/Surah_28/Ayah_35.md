@@ -1,7 +1,6 @@
 ---
-arabic_ayat: "قَالَ سَنَشُدُّ عَضُدَكَ بِاَخِيۡكَ وَنَجۡعَلُ لَـكُمَا سُلۡطٰنًا فَلَا\
-  \ يَصِلُوۡنَ اِلَيۡكُمَا​​ ۛ ​ۚ بِاٰيٰتِنَاۤ ​ ۛ​ ۚ اَنۡـتُمَا وَمَنِ اتَّبَعَكُمَا\
-  \ الۡغٰلِبُوۡنَ‏ \uFEFF\uFEFF"
+arabic_ayat: قَالَ سَنَشُدُّ عَضُدَكَ بِأَخِيكَ وَنَجۡعَلُ لَكُمَا سُلۡطَٰنٗا فَلَا
+  يَصِلُونَ إِلَيۡكُمَا بِـَٔايَٰتِنَآۚ أَنتُمَا وَمَنِ ٱتَّبَعَكُمَا ٱلۡغَٰلِبُونَ
 sentence_translation: Allah responded, “We will assist you with your brother and grant
   you both authority, so they cannot harm you. With Our signs, you and those who follow
   you will ˹certainly˺ prevail.”
@@ -19,7 +18,7 @@ word_by_word:
     translation: your arm
     transliteration: ʿaḍudaka
   4:
-    arabic: بِاَخِيۡكَ
+    arabic: بِأَخِيكَ
     translation: through your brother
     transliteration: bi-akhīka
   5:
@@ -27,11 +26,11 @@ word_by_word:
     translation: and We will make
     transliteration: wanajʿalu
   6:
-    arabic: لَـكُمَا
+    arabic: لَكُمَا
     translation: for both of you
     transliteration: lakumā
   7:
-    arabic: سُلۡطٰنًا
+    arabic: سُلۡطَٰنٗا
     translation: an authority
     transliteration: sul'ṭānan
   8:
@@ -39,19 +38,19 @@ word_by_word:
     translation: so not
     transliteration: falā
   9:
-    arabic: يَصِلُوۡنَ
+    arabic: يَصِلُونَ
     translation: they will reach
     transliteration: yaṣilūna
   10:
-    arabic: اِلَيۡكُمَا​​ ۛ ​ۚ
+    arabic: إِلَيۡكُمَا
     translation: to both of you
     transliteration: ilaykumā
   11:
-    arabic: بِاٰيٰتِنَاۤ ​ ۛ​ ۚ
+    arabic: بِـَٔايَٰتِنَآۚ
     translation: Through Our Signs
     transliteration: biāyātinā
   12:
-    arabic: اَنۡـتُمَا
+    arabic: أَنتُمَا
     translation: you two
     transliteration: antumā
   13:
@@ -59,11 +58,11 @@ word_by_word:
     translation: and (those) who
     transliteration: wamani
   14:
-    arabic: اتَّبَعَكُمَا
+    arabic: ٱتَّبَعَكُمَا
     translation: follow you
     transliteration: ittabaʿakumā
   15:
-    arabic: "الۡغٰلِبُوۡنَ‏ \uFEFF\uFEFF"
+    arabic: ٱلۡغَٰلِبُونَ
     translation: (will) be the dominant
     transliteration: l-ghālibūna
 ---

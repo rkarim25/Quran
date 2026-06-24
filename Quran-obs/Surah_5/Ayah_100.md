@@ -1,12 +1,12 @@
 ---
-arabic_ayat: قُلْ لَّا يَسۡتَوِى الۡخَبِيۡثُ وَالطَّيِّبُ وَلَوۡ اَعۡجَبَكَ كَثۡرَةُ
-  الۡخَبِيۡثِ​ ۚ فَاتَّقُوا اللّٰهَ يٰۤاُولِى الۡاَ لۡبَابِ لَعَلَّكُمۡ تُفۡلِحُوۡنَ‏
+arabic_ayat: قُل لَّا يَسۡتَوِي ٱلۡخَبِيثُ وَٱلطَّيِّبُ وَلَوۡ أَعۡجَبَكَ كَثۡرَةُ
+  ٱلۡخَبِيثِۚ فَٱتَّقُواْ ٱللَّهَ يَٰٓأُوْلِي ٱلۡأَلۡبَٰبِ لَعَلَّكُمۡ تُفۡلِحُونَ
 sentence_translation: Say, ˹O Prophet,˺ “Good and evil are not equal, though you may
   be dazzled by the abundance of evil. So be mindful of Allah, O  people of reason,
   so you may be successful.”
 word_by_word:
   1:
-    arabic: قُلْ
+    arabic: قُل
     translation: Say
     transliteration: qul
   2:
@@ -14,15 +14,15 @@ word_by_word:
     translation: Not
     transliteration: lā
   3:
-    arabic: يَسۡتَوِى
+    arabic: يَسۡتَوِي
     translation: (are) equal
     transliteration: yastawī
   4:
-    arabic: الۡخَبِيۡثُ
+    arabic: ٱلۡخَبِيثُ
     translation: the evil
     transliteration: l-khabīthu
   5:
-    arabic: وَالطَّيِّبُ
+    arabic: وَٱلطَّيِّبُ
     translation: and the good
     transliteration: wal-ṭayibu
   6:
@@ -30,7 +30,7 @@ word_by_word:
     translation: even if
     transliteration: walaw
   7:
-    arabic: اَعۡجَبَكَ
+    arabic: أَعۡجَبَكَ
     translation: impresses you
     transliteration: aʿjabaka
   8:
@@ -38,23 +38,23 @@ word_by_word:
     translation: abundance
     transliteration: kathratu
   9:
-    arabic: الۡخَبِيۡثِ​ ۚ
+    arabic: ٱلۡخَبِيثِۚ
     translation: (of) the evil
     transliteration: l-khabīthi
   10:
-    arabic: فَاتَّقُوا
+    arabic: فَٱتَّقُواْ
     translation: So fear
     transliteration: fa-ittaqū
   11:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   12:
-    arabic: يٰۤاُولِى
+    arabic: يَٰٓأُوْلِي
     translation: O men
     transliteration: yāulī
   13:
-    arabic: الۡاَ لۡبَابِ
+    arabic: ٱلۡأَلۡبَٰبِ
     translation: (of) understanding
     transliteration: l-albābi
   14:
@@ -62,7 +62,7 @@ word_by_word:
     translation: so that you may
     transliteration: laʿallakum
   15:
-    arabic: تُفۡلِحُوۡنَ‏
+    arabic: تُفۡلِحُونَ
     translation: (be) successful
     transliteration: tuf'liḥūna
 ---

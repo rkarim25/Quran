@@ -1,14 +1,14 @@
 ---
-arabic_ayat: هٰذَا بَصَاٮِٕرُ لِلنَّاسِ وَهُدًى وَّرَحۡمَةٌ لِّقَوۡمٍ يُّوۡقِنُوۡنَ‏
+arabic_ayat: هَٰذَا بَصَٰٓئِرُ لِلنَّاسِ وَهُدٗى وَرَحۡمَةٞ لِّقَوۡمٖ يُوقِنُونَ
 sentence_translation: This ˹Quran˺ is an insight for humanity—a guide and mercy for
   people of sure faith.
 word_by_word:
   1:
-    arabic: هٰذَا
+    arabic: هَٰذَا
     translation: This
     transliteration: hādhā
   2:
-    arabic: بَصَاٮِٕرُ
+    arabic: بَصَٰٓئِرُ
     translation: (is) enlightenment
     transliteration: baṣāiru
   3:
@@ -16,19 +16,19 @@ word_by_word:
     translation: for mankind
     transliteration: lilnnāsi
   4:
-    arabic: وَهُدًى
+    arabic: وَهُدٗى
     translation: and guidance
     transliteration: wahudan
   5:
-    arabic: وَّرَحۡمَةٌ
+    arabic: وَرَحۡمَةٞ
     translation: and mercy
     transliteration: waraḥmatun
   6:
-    arabic: لِّقَوۡمٍ
+    arabic: لِّقَوۡمٖ
     translation: for a people
     transliteration: liqawmin
   7:
-    arabic: يُّوۡقِنُوۡنَ‏
+    arabic: يُوقِنُونَ
     translation: who are certain
     transliteration: yūqinūna
 ---

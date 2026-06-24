@@ -1,9 +1,9 @@
 ---
-arabic_ayat: وَاَنَّ عَلَيۡهِ النَّشۡاَةَ الۡاُخۡرٰىۙ‏
+arabic_ayat: وَأَنَّ عَلَيۡهِ ٱلنَّشۡأَةَ ٱلۡأُخۡرَىٰ
 sentence_translation: And it is upon Him to bring about re-creation.
 word_by_word:
   1:
-    arabic: وَاَنَّ
+    arabic: وَأَنَّ
     translation: And that
     transliteration: wa-anna
   2:
@@ -11,11 +11,11 @@ word_by_word:
     translation: upon Him
     transliteration: ʿalayhi
   3:
-    arabic: النَّشۡاَةَ
+    arabic: ٱلنَّشۡأَةَ
     translation: (is) the bringing forth
     transliteration: l-nashata
   4:
-    arabic: الۡاُخۡرٰىۙ‏
+    arabic: ٱلۡأُخۡرَىٰ
     translation: another
     transliteration: l-ukh'rā
 ---

@@ -1,18 +1,18 @@
 ---
-arabic_ayat: وَاضۡرِبۡ لَهُمۡ مَّثَلَ الۡحَيٰوةِ الدُّنۡيَا كَمَآءٍ اَنۡزَلۡنٰهُ
-  مِنَ السَّمَآءِ فَاخۡتَلَطَ بِهٖ نَبَاتُ الۡاَرۡضِ فَاَصۡبَحَ هَشِيۡمًا تَذۡرُوۡهُ
-  الرِّيٰحُ​ ؕ وَكَانَ اللّٰهُ عَلٰى كُلِّ شَىۡءٍ مُّقۡتَدِرًا‏
+arabic_ayat: وَٱضۡرِبۡ لَهُم مَّثَلَ ٱلۡحَيَوٰةِ ٱلدُّنۡيَا كَمَآءٍ أَنزَلۡنَٰهُ
+  مِنَ ٱلسَّمَآءِ فَٱخۡتَلَطَ بِهِۦ نَبَاتُ ٱلۡأَرۡضِ فَأَصۡبَحَ هَشِيمٗا تَذۡرُوهُ
+  ٱلرِّيَٰحُۗ وَكَانَ ٱللَّهُ عَلَىٰ كُلِّ شَيۡءٖ مُّقۡتَدِرًا
 sentence_translation: And give them a parable of this worldly life. ˹It is˺ like the
   plants of the earth, thriving when sustained by the rain We send down from the sky.
   Then they ˹soon˺ turn into chaff scattered by the wind. And Allah is fully capable
   of ˹doing˺ all things.
 word_by_word:
   1:
-    arabic: وَاضۡرِبۡ
+    arabic: وَٱضۡرِبۡ
     translation: And present
     transliteration: wa-iḍ'rib
   2:
-    arabic: لَهُمۡ
+    arabic: لَهُم
     translation: to them
     transliteration: lahum
   3:
@@ -20,11 +20,11 @@ word_by_word:
     translation: the example
     transliteration: mathala
   4:
-    arabic: الۡحَيٰوةِ
+    arabic: ٱلۡحَيَوٰةِ
     translation: (of) the life
     transliteration: l-ḥayati
   5:
-    arabic: الدُّنۡيَا
+    arabic: ٱلدُّنۡيَا
     translation: (of) the world
     transliteration: l-dun'yā
   6:
@@ -32,7 +32,7 @@ word_by_word:
     translation: like water
     transliteration: kamāin
   7:
-    arabic: اَنۡزَلۡنٰهُ
+    arabic: أَنزَلۡنَٰهُ
     translation: which We send down
     transliteration: anzalnāhu
   8:
@@ -40,15 +40,15 @@ word_by_word:
     translation: from
     transliteration: mina
   9:
-    arabic: السَّمَآءِ
+    arabic: ٱلسَّمَآءِ
     translation: the sky
     transliteration: l-samāi
   10:
-    arabic: فَاخۡتَلَطَ
+    arabic: فَٱخۡتَلَطَ
     translation: then mingles
     transliteration: fa-ikh'talaṭa
   11:
-    arabic: بِهٖ
+    arabic: بِهِۦ
     translation: with it
     transliteration: bihi
   12:
@@ -56,23 +56,23 @@ word_by_word:
     translation: (the) vegetation
     transliteration: nabātu
   13:
-    arabic: الۡاَرۡضِ
+    arabic: ٱلۡأَرۡضِ
     translation: (of) the earth
     transliteration: l-arḍi
   14:
-    arabic: فَاَصۡبَحَ
+    arabic: فَأَصۡبَحَ
     translation: then becomes
     transliteration: fa-aṣbaḥa
   15:
-    arabic: هَشِيۡمًا
+    arabic: هَشِيمٗا
     translation: dry stalks
     transliteration: hashīman
   16:
-    arabic: تَذۡرُوۡهُ
+    arabic: تَذۡرُوهُ
     translation: it (is) scattered
     transliteration: tadhrūhu
   17:
-    arabic: الرِّيٰحُ​ ؕ
+    arabic: ٱلرِّيَٰحُۗ
     translation: (by) the winds
     transliteration: l-riyāḥu
   18:
@@ -80,11 +80,11 @@ word_by_word:
     translation: And Allah
     transliteration: wakāna
   19:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: And Allah
     transliteration: l-lahu
   20:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: over
     transliteration: ʿalā
   21:
@@ -92,11 +92,11 @@ word_by_word:
     translation: every
     transliteration: kulli
   22:
-    arabic: شَىۡءٍ
+    arabic: شَيۡءٖ
     translation: thing
     transliteration: shayin
   23:
-    arabic: مُّقۡتَدِرًا‏
+    arabic: مُّقۡتَدِرًا
     translation: (is) All Able
     transliteration: muq'tadiran
 ---

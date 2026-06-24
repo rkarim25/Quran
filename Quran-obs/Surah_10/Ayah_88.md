@@ -1,31 +1,31 @@
 ---
-arabic_ayat: ​وَقَالَ مُوۡسٰى رَبَّنَاۤ اِنَّكَ اٰتَيۡتَ فِرۡعَوۡنَ وَمَلَاَهٗ زِيۡنَةً
-  وَّاَمۡوَالًا فِى الۡحَيٰوةِ الدُّنۡيَا ۙ رَبَّنَا لِيُضِلُّوۡا عَنۡ سَبِيۡلِكَ​ۚ
-  رَبَّنَا اطۡمِسۡ عَلٰٓى اَمۡوَالِهِمۡ وَاشۡدُدۡ عَلٰى قُلُوۡبِهِمۡ فَلَا يُؤۡمِنُوۡا
-  حَتّٰى يَرَوُا الۡعَذَابَ الۡاَ لِيۡمَ‏
+arabic_ayat: وَقَالَ مُوسَىٰ رَبَّنَآ إِنَّكَ ءَاتَيۡتَ فِرۡعَوۡنَ وَمَلَأَهُۥ زِينَةٗ
+  وَأَمۡوَٰلٗا فِي ٱلۡحَيَوٰةِ ٱلدُّنۡيَا رَبَّنَا لِيُضِلُّواْ عَن سَبِيلِكَۖ رَبَّنَا
+  ٱطۡمِسۡ عَلَىٰٓ أَمۡوَٰلِهِمۡ وَٱشۡدُدۡ عَلَىٰ قُلُوبِهِمۡ فَلَا يُؤۡمِنُواْ حَتَّىٰ
+  يَرَوُاْ ٱلۡعَذَابَ ٱلۡأَلِيمَ
 sentence_translation: Moses prayed, “Our Lord! You have granted Pharaoh and his chiefs
   luxuries and riches in this worldly life, ˹which they abused˺ to lead people astray
   from Your Way! Our Lord, destroy their riches and harden their hearts so that they
   will not believe until they see the painful punishment.”
 word_by_word:
   1:
-    arabic: ​وَقَالَ
+    arabic: وَقَالَ
     translation: And Musa said
     transliteration: waqāla
   2:
-    arabic: مُوۡسٰى
+    arabic: مُوسَىٰ
     translation: And Musa said
     transliteration: mūsā
   3:
-    arabic: رَبَّنَاۤ
+    arabic: رَبَّنَآ
     translation: Our Lord
     transliteration: rabbanā
   4:
-    arabic: اِنَّكَ
+    arabic: إِنَّكَ ءَ
     translation: Indeed, You
     transliteration: innaka
   5:
-    arabic: اٰتَيۡتَ
+    arabic: اتَيۡتَ
     translation: have given
     transliteration: ātayta
   6:
@@ -33,27 +33,27 @@ word_by_word:
     translation: Firaun
     transliteration: fir'ʿawna
   7:
-    arabic: وَمَلَاَهٗ
+    arabic: وَمَلَأَهُۥ
     translation: and his chiefs
     transliteration: wamala-ahu
   8:
-    arabic: زِيۡنَةً
+    arabic: زِينَةٗ
     translation: splendor
     transliteration: zīnatan
   9:
-    arabic: وَّاَمۡوَالًا
+    arabic: وَأَمۡوَٰلٗا
     translation: and wealth
     transliteration: wa-amwālan
   10:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   11:
-    arabic: الۡحَيٰوةِ
+    arabic: ٱلۡحَيَوٰةِ
     translation: the life
     transliteration: l-ḥayati
   12:
-    arabic: الدُّنۡيَا ۙ
+    arabic: ٱلدُّنۡيَا
     translation: (of) the world
     transliteration: l-dun'yā
   13:
@@ -61,15 +61,15 @@ word_by_word:
     translation: Our Lord
     transliteration: rabbanā
   14:
-    arabic: لِيُضِلُّوۡا
+    arabic: لِيُضِلُّواْ
     translation: That they may lead astray
     transliteration: liyuḍillū
   15:
-    arabic: عَنۡ
+    arabic: عَن
     translation: from
     transliteration: ʿan
   16:
-    arabic: سَبِيۡلِكَ​ۚ
+    arabic: سَبِيلِكَۖ
     translation: Your way
     transliteration: sabīlika
   17:
@@ -77,27 +77,27 @@ word_by_word:
     translation: Our Lord
     transliteration: rabbanā
   18:
-    arabic: اطۡمِسۡ
+    arabic: ٱطۡمِسۡ
     translation: Destroy
     transliteration: iṭ'mis
   19:
-    arabic: عَلٰٓى
+    arabic: عَلَىٰٓ
     translation: '[on]'
     transliteration: ʿalā
   20:
-    arabic: اَمۡوَالِهِمۡ
+    arabic: أَمۡوَٰلِهِمۡ
     translation: their wealth
     transliteration: amwālihim
   21:
-    arabic: وَاشۡدُدۡ
+    arabic: وَٱشۡدُدۡ
     translation: and harden
     transliteration: wa-ush'dud
   22:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: '[on]'
     transliteration: ʿalā
   23:
-    arabic: قُلُوۡبِهِمۡ
+    arabic: قُلُوبِهِمۡ
     translation: their hearts
     transliteration: qulūbihim
   24:
@@ -105,23 +105,23 @@ word_by_word:
     translation: so (that) not
     transliteration: falā
   25:
-    arabic: يُؤۡمِنُوۡا
+    arabic: يُؤۡمِنُواْ
     translation: they believe
     transliteration: yu'minū
   26:
-    arabic: حَتّٰى
+    arabic: حَتَّىٰ
     translation: until
     transliteration: ḥattā
   27:
-    arabic: يَرَوُا
+    arabic: يَرَوُاْ
     translation: they see
     transliteration: yarawū
   28:
-    arabic: الۡعَذَابَ
+    arabic: ٱلۡعَذَابَ
     translation: 'the punishment '
     transliteration: l-ʿadhāba
   29:
-    arabic: الۡاَ لِيۡمَ‏
+    arabic: ٱلۡأَلِيمَ
     translation: the painful
     transliteration: l-alīma
 ---

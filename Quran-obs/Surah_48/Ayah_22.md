@@ -1,6 +1,6 @@
 ---
-arabic_ayat: وَلَوۡ قَاتَلَـكُمُ الَّذِيۡنَ كَفَرُوۡا لَوَلَّوُا الۡاَدۡبَارَ ثُمَّ
-  لَا يَجِدُوۡنَ وَلِيًّا وَّلَا نَصِيۡرًا‏
+arabic_ayat: وَلَوۡ قَٰتَلَكُمُ ٱلَّذِينَ كَفَرُواْ لَوَلَّوُاْ ٱلۡأَدۡبَٰرَ ثُمَّ
+  لَا يَجِدُونَ وَلِيّٗا وَلَا نَصِيرٗا
 sentence_translation: If the disbelievers were to fight you, they would certainly
   flee. Then they would never find any protector or helper.
 word_by_word:
@@ -9,23 +9,23 @@ word_by_word:
     translation: And if
     transliteration: walaw
   2:
-    arabic: قَاتَلَـكُمُ
+    arabic: قَٰتَلَكُمُ
     translation: fight you
     transliteration: qātalakumu
   3:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   4:
-    arabic: كَفَرُوۡا
+    arabic: كَفَرُواْ
     translation: disbelieve
     transliteration: kafarū
   5:
-    arabic: لَوَلَّوُا
+    arabic: لَوَلَّوُاْ
     translation: surely they would turn
     transliteration: lawallawū
   6:
-    arabic: الۡاَدۡبَارَ
+    arabic: ٱلۡأَدۡبَٰرَ
     translation: the backs
     transliteration: l-adbāra
   7:
@@ -37,19 +37,19 @@ word_by_word:
     translation: not
     transliteration: lā
   9:
-    arabic: يَجِدُوۡنَ
+    arabic: يَجِدُونَ
     translation: they would find
     transliteration: yajidūna
   10:
-    arabic: وَلِيًّا
+    arabic: وَلِيّٗا
     translation: any protector
     transliteration: waliyyan
   11:
-    arabic: وَّلَا
+    arabic: وَلَا
     translation: and not
     transliteration: walā
   12:
-    arabic: نَصِيۡرًا‏
+    arabic: نَصِيرٗا
     translation: any helper
     transliteration: naṣīran
 ---

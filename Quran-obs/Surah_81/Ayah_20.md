@@ -1,9 +1,9 @@
 ---
-arabic_ayat: ذِىۡ قُوَّةٍ عِنۡدَ ذِى الۡعَرۡشِ مَكِيۡنٍۙ‏
+arabic_ayat: ذِي قُوَّةٍ عِندَ ذِي ٱلۡعَرۡشِ مَكِينٖ
 sentence_translation: full of power, held in honour by the Lord of the Throne,
 word_by_word:
   1:
-    arabic: ذِىۡ
+    arabic: ذِي
     translation: Possessor of
     transliteration: dhī
   2:
@@ -11,19 +11,19 @@ word_by_word:
     translation: power
     transliteration: quwwatin
   3:
-    arabic: عِنۡدَ
+    arabic: عِندَ
     translation: with
     transliteration: ʿinda
   4:
-    arabic: ذِى
+    arabic: ذِي
     translation: (the) Owner of
     transliteration: dhī
   5:
-    arabic: الۡعَرۡشِ
+    arabic: ٱلۡعَرۡشِ
     translation: the Throne
     transliteration: l-ʿarshi
   6:
-    arabic: مَكِيۡنٍۙ‏
+    arabic: مَكِينٖ
     translation: secure
     transliteration: makīnin
 ---

@@ -1,21 +1,20 @@
 ---
-arabic_ayat: "قَالُـوۡۤا اَجِئۡتَـنَا لِتَلۡفِتَـنَا عَمَّا وَجَدۡنَا عَلَيۡهِ اٰبَآءَنَا\
-  \ وَتَكُوۡنَ لَكُمَا الۡكِبۡرِيَآءُ فِى الۡاَرۡضِؕ وَمَا نَحۡنُ لَـكُمَا بِمُؤۡمِنِيۡنَ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: قَالُوٓاْ أَجِئۡتَنَا لِتَلۡفِتَنَا عَمَّا وَجَدۡنَا عَلَيۡهِ ءَابَآءَنَا
+  وَتَكُونَ لَكُمَا ٱلۡكِبۡرِيَآءُ فِي ٱلۡأَرۡضِ وَمَا نَحۡنُ لَكُمَا بِمُؤۡمِنِينَ
 sentence_translation: They argued, “Have you come to turn us away from the faith of
   our forefathers so that the two of you may become supreme in the land? We will never
   believe in you!”
 word_by_word:
   1:
-    arabic: قَالُـوۡۤا
+    arabic: قَالُوٓاْ
     translation: They said
     transliteration: qālū
   2:
-    arabic: اَجِئۡتَـنَا
+    arabic: أَجِئۡتَنَا
     translation: Have you come to us
     transliteration: aji'tanā
   3:
-    arabic: لِتَلۡفِتَـنَا
+    arabic: لِتَلۡفِتَنَا
     translation: to turn us away
     transliteration: litalfitanā
   4:
@@ -27,15 +26,15 @@ word_by_word:
     translation: we found
     transliteration: wajadnā
   6:
-    arabic: عَلَيۡهِ
+    arabic: عَلَيۡهِ ءَ
     translation: on it
     transliteration: ʿalayhi
   7:
-    arabic: اٰبَآءَنَا
+    arabic: ابَآءَنَا
     translation: our forefathers
     transliteration: ābāanā
   8:
-    arabic: وَتَكُوۡنَ
+    arabic: وَتَكُونَ
     translation: and you two (may) have
     transliteration: watakūna
   9:
@@ -43,15 +42,15 @@ word_by_word:
     translation: and you two (may) have
     transliteration: lakumā
   10:
-    arabic: الۡكِبۡرِيَآءُ
+    arabic: ٱلۡكِبۡرِيَآءُ
     translation: the greatness
     transliteration: l-kib'riyāu
   11:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   12:
-    arabic: الۡاَرۡضِؕ
+    arabic: ٱلۡأَرۡضِ
     translation: the land
     transliteration: l-arḍi
   13:
@@ -63,11 +62,11 @@ word_by_word:
     translation: And we (are) not
     transliteration: naḥnu
   15:
-    arabic: لَـكُمَا
+    arabic: لَكُمَا
     translation: (in) you two
     transliteration: lakumā
   16:
-    arabic: "بِمُؤۡمِنِيۡنَ‏ \uFEFF\uFEFF"
+    arabic: بِمُؤۡمِنِينَ
     translation: believers
     transliteration: bimu'minīna
 ---

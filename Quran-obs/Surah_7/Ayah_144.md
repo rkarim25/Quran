@@ -1,6 +1,6 @@
 ---
-arabic_ayat: قَالَ يٰمُوۡسٰٓى اِنِّى اصۡطَفَيۡتُكَ عَلَى النَّاسِ بِرِسٰلٰتِىۡ وَ
-  بِكَلَامِىۡ ​ۖ  فَخُذۡ مَاۤ اٰتَيۡتُكَ وَكُنۡ مِّنَ الشّٰكِرِيۡنَ‏
+arabic_ayat: قَالَ يَٰمُوسَىٰٓ إِنِّي ٱصۡطَفَيۡتُكَ عَلَى ٱلنَّاسِ بِرِسَٰلَٰتِي وَبِكَلَٰمِي
+  فَخُذۡ مَآ ءَاتَيۡتُكَ وَكُن مِّنَ ٱلشَّٰكِرِينَ
 sentence_translation: Allah said, “O Moses! I have ˹already˺ elevated you above all
   others by My messages and speech. So hold firmly to what I have given you and be
   grateful.”
@@ -10,15 +10,15 @@ word_by_word:
     translation: He said
     transliteration: qāla
   2:
-    arabic: يٰمُوۡسٰٓى
+    arabic: يَٰمُوسَىٰٓ
     translation: O Musa
     transliteration: yāmūsā
   3:
-    arabic: اِنِّى
+    arabic: إِنِّي
     translation: Indeed, I
     transliteration: innī
   4:
-    arabic: اصۡطَفَيۡتُكَ
+    arabic: ٱصۡطَفَيۡتُكَ
     translation: have chosen you
     transliteration: iṣ'ṭafaytuka
   5:
@@ -26,15 +26,15 @@ word_by_word:
     translation: over
     transliteration: ʿalā
   6:
-    arabic: النَّاسِ
+    arabic: ٱلنَّاسِ
     translation: the people
     transliteration: l-nāsi
   7:
-    arabic: بِرِسٰلٰتِىۡ
+    arabic: بِرِسَٰلَٰتِي
     translation: with My Messages
     transliteration: birisālātī
   8:
-    arabic: وَ بِكَلَامِىۡ ​ۖ 
+    arabic: وَبِكَلَٰمِي
     translation: and with My words
     transliteration: wabikalāmī
   9:
@@ -42,15 +42,15 @@ word_by_word:
     translation: So take
     transliteration: fakhudh
   10:
-    arabic: مَاۤ
+    arabic: مَآ ءَ
     translation: what
     transliteration: mā
   11:
-    arabic: اٰتَيۡتُكَ
+    arabic: اتَيۡتُكَ
     translation: I have given you
     transliteration: ātaytuka
   12:
-    arabic: وَكُنۡ
+    arabic: وَكُن
     translation: and be
     transliteration: wakun
   13:
@@ -58,7 +58,7 @@ word_by_word:
     translation: among
     transliteration: mina
   14:
-    arabic: الشّٰكِرِيۡنَ‏
+    arabic: ٱلشَّٰكِرِينَ
     translation: the grateful
     transliteration: l-shākirīna
 ---

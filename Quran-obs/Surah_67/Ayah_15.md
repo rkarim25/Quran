@@ -1,6 +1,6 @@
 ---
-arabic_ayat: هُوَ الَّذِىۡ جَعَلَ لَـكُمُ الۡاَرۡضَ ذَلُوۡلًا فَامۡشُوۡا فِىۡ مَنَاكِبِهَا
-  وَكُلُوۡا مِنۡ رِّزۡقِهٖ​ؕ وَاِلَيۡهِ النُّشُوۡرُ‏
+arabic_ayat: هُوَ ٱلَّذِي جَعَلَ لَكُمُ ٱلۡأَرۡضَ ذَلُولٗا فَٱمۡشُواْ فِي مَنَاكِبِهَا
+  وَكُلُواْ مِن رِّزۡقِهِۦۖ وَإِلَيۡهِ ٱلنُّشُورُ
 sentence_translation: He is the One Who smoothed out the earth for you, so move about
   in its regions and eat from His provisions. And to Him is the resurrection ˹of all˺.
 word_by_word:
@@ -9,7 +9,7 @@ word_by_word:
     translation: He
     transliteration: huwa
   2:
-    arabic: الَّذِىۡ
+    arabic: ٱلَّذِي
     translation: (is) the One Who
     transliteration: alladhī
   3:
@@ -17,23 +17,23 @@ word_by_word:
     translation: made
     transliteration: jaʿala
   4:
-    arabic: لَـكُمُ
+    arabic: لَكُمُ
     translation: for you
     transliteration: lakumu
   5:
-    arabic: الۡاَرۡضَ
+    arabic: ٱلۡأَرۡضَ
     translation: the earth
     transliteration: l-arḍa
   6:
-    arabic: ذَلُوۡلًا
+    arabic: ذَلُولٗا
     translation: subservient
     transliteration: dhalūlan
   7:
-    arabic: فَامۡشُوۡا
+    arabic: فَٱمۡشُواْ
     translation: so walk
     transliteration: fa-im'shū
   8:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   9:
@@ -41,23 +41,23 @@ word_by_word:
     translation: (the) paths thereof
     transliteration: manākibihā
   10:
-    arabic: وَكُلُوۡا
+    arabic: وَكُلُواْ
     translation: and eat
     transliteration: wakulū
   11:
-    arabic: مِنۡ
+    arabic: مِن
     translation: of
     transliteration: min
   12:
-    arabic: رِّزۡقِهٖ​ؕ
+    arabic: رِّزۡقِهِۦۖ
     translation: His provision
     transliteration: riz'qihi
   13:
-    arabic: وَاِلَيۡهِ
+    arabic: وَإِلَيۡهِ
     translation: and to Him
     transliteration: wa-ilayhi
   14:
-    arabic: النُّشُوۡرُ‏
+    arabic: ٱلنُّشُورُ
     translation: (is) the Resurrection
     transliteration: l-nushūru
 ---

@@ -1,37 +1,37 @@
 ---
-arabic_ayat: "وَاِذَاۤ اُنۡزِلَتۡ سُوۡرَةٌ اَنۡ اٰمِنُوۡا بِاللّٰهِ وَجَاهِدُوۡا مَعَ\
-  \ رَسُوۡلِهِ اسۡتَـاۡذَنَكَ اُولُوا الطَّوۡلِ مِنۡهُمۡ وَقَالُوۡا ذَرۡنَا نَكُنۡ\
-  \ مَّعَ الۡقٰعِدِيۡنَ‏ \uFEFF\uFEFF"
+arabic_ayat: وَإِذَآ أُنزِلَتۡ سُورَةٌ أَنۡ ءَامِنُواْ بِٱللَّهِ وَجَٰهِدُواْ مَعَ
+  رَسُولِهِ ٱسۡتَـٔۡذَنَكَ أُوْلُواْ ٱلطَّوۡلِ مِنۡهُمۡ وَقَالُواْ ذَرۡنَا نَكُن مَّعَ
+  ٱلۡقَٰعِدِينَ
 sentence_translation: Whenever a sûrah is revealed stating, “Believe in Allah and
   struggle along with His Messenger,” the rich among them would ask to be exempt,
   saying, “Leave us with those who remain behind.”
 word_by_word:
   1:
-    arabic: وَاِذَاۤ
+    arabic: وَإِذَآ
     translation: And when
     transliteration: wa-idhā
   2:
-    arabic: اُنۡزِلَتۡ
+    arabic: أُنزِلَتۡ
     translation: was revealed
     transliteration: unzilat
   3:
-    arabic: سُوۡرَةٌ
+    arabic: سُورَةٌ
     translation: a Surah
     transliteration: sūratun
   4:
-    arabic: اَنۡ
+    arabic: أَنۡ ءَ
     translation: that
     transliteration: an
   5:
-    arabic: اٰمِنُوۡا
+    arabic: امِنُواْ
     translation: believe
     transliteration: āminū
   6:
-    arabic: بِاللّٰهِ
+    arabic: بِٱللَّهِ
     translation: in Allah
     transliteration: bil-lahi
   7:
-    arabic: وَجَاهِدُوۡا
+    arabic: وَجَٰهِدُواْ
     translation: and strive
     transliteration: wajāhidū
   8:
@@ -39,19 +39,19 @@ word_by_word:
     translation: with
     transliteration: maʿa
   9:
-    arabic: رَسُوۡلِهِ
+    arabic: رَسُولِهِ
     translation: His Messenger
     transliteration: rasūlihi
   10:
-    arabic: اسۡتَـاۡذَنَكَ
+    arabic: ٱسۡتَـٔۡذَنَكَ
     translation: ask your permission
     transliteration: is'tadhanaka
   11:
-    arabic: اُولُوا
+    arabic: أُوْلُواْ
     translation: (the) men
     transliteration: ulū
   12:
-    arabic: الطَّوۡلِ
+    arabic: ٱلطَّوۡلِ
     translation: (of) wealth
     transliteration: l-ṭawli
   13:
@@ -59,7 +59,7 @@ word_by_word:
     translation: among them
     transliteration: min'hum
   14:
-    arabic: وَقَالُوۡا
+    arabic: وَقَالُواْ
     translation: and said
     transliteration: waqālū
   15:
@@ -67,7 +67,7 @@ word_by_word:
     translation: Leave us
     transliteration: dharnā
   16:
-    arabic: نَكُنۡ
+    arabic: نَكُن
     translation: (to) be
     transliteration: nakun
   17:
@@ -75,7 +75,7 @@ word_by_word:
     translation: with
     transliteration: maʿa
   18:
-    arabic: "الۡقٰعِدِيۡنَ‏ \uFEFF\uFEFF"
+    arabic: ٱلۡقَٰعِدِينَ
     translation: those who sit
     transliteration: l-qāʿidīna
 ---

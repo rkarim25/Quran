@@ -1,17 +1,17 @@
 ---
-arabic_ayat: كَلَّاۤ اِنَّهٗ تَذۡكِرَةٌ​ ۚ‏
+arabic_ayat: كـَلَّآ إِنَّهُۥ تَذۡكِرَةٞ
 sentence_translation: Enough! Surely this ˹Quran˺ is a reminder.
 word_by_word:
   1:
-    arabic: كَلَّاۤ
+    arabic: كـَلَّآ
     translation: Nay
     transliteration: kallā
   2:
-    arabic: اِنَّهٗ
+    arabic: إِنَّهُۥ
     translation: Indeed, it
     transliteration: innahu
   3:
-    arabic: تَذۡكِرَةٌ​ ۚ‏
+    arabic: تَذۡكِرَةٞ
     translation: (is) a Reminder
     transliteration: tadhkiratun
 ---

@@ -1,30 +1,30 @@
 ---
-arabic_ayat: اَمِ اتَّخَذُوۡا مِنۡ دُوۡنِهٖۤ اٰلِهَةً ​ ؕ قُلۡ هَاتُوۡا بُرۡهَانَكُمۡ​
-  ۚ هٰذَا ذِكۡرُ مَنۡ مَّعِىَ وَذِكۡرُ مَنۡ قَبۡلِىۡ​ ؕ بَلۡ اَكۡثَرُهُمۡ لَا يَعۡلَمُوۡنَ
-  ۙ الۡحَـقَّ​ فَهُمۡ مُّعۡرِضُوۡنَ‏
+arabic_ayat: أَمِ ٱتَّخَذُواْ مِن دُونِهِۦٓ ءَالِهَةٗۖ قُلۡ هَاتُواْ بُرۡهَٰنَكُمۡۖ
+  هَٰذَا ذِكۡرُ مَن مَّعِيَ وَذِكۡرُ مَن قَبۡلِيۚ بَلۡ أَكۡثَرُهُمۡ لَا يَعۡلَمُونَ
+  ٱلۡحَقَّۖ فَهُم مُّعۡرِضُونَ
 sentence_translation: Or have they taken other gods besides Him? Say, ˹O Prophet,˺
   “Show ˹me˺ your proof. Here is ˹the Quran,˺ the Reminder for those with me; along
   with ˹earlier Scriptures,˺ the Reminder for those before me.” But most of them do
   not know the truth, so they turn away.
 word_by_word:
   1:
-    arabic: اَمِ
+    arabic: أَمِ
     translation: Or
     transliteration: ami
   2:
-    arabic: اتَّخَذُوۡا
+    arabic: ٱتَّخَذُواْ
     translation: (have) they taken
     transliteration: ittakhadhū
   3:
-    arabic: مِنۡ
+    arabic: مِن
     translation: besides Him
     transliteration: min
   4:
-    arabic: دُوۡنِهٖۤ
+    arabic: دُونِهِۦٓ ءَ
     translation: besides Him
     transliteration: dūnihi
   5:
-    arabic: اٰلِهَةً ​ ؕ
+    arabic: الِهَةٗۖ
     translation: gods
     transliteration: ālihatan
   6:
@@ -32,15 +32,15 @@ word_by_word:
     translation: Say
     transliteration: qul
   7:
-    arabic: هَاتُوۡا
+    arabic: هَاتُواْ
     translation: Bring
     transliteration: hātū
   8:
-    arabic: بُرۡهَانَكُمۡ​ ۚ
+    arabic: بُرۡهَٰنَكُمۡۖ
     translation: your proof
     transliteration: bur'hānakum
   9:
-    arabic: هٰذَا
+    arabic: هَٰذَا
     translation: This
     transliteration: hādhā
   10:
@@ -48,11 +48,11 @@ word_by_word:
     translation: (is) a Reminder
     transliteration: dhik'ru
   11:
-    arabic: مَنۡ
+    arabic: مَن
     translation: (for those) who
     transliteration: man
   12:
-    arabic: مَّعِىَ
+    arabic: مَّعِيَ
     translation: (are) with me
     transliteration: maʿiya
   13:
@@ -60,11 +60,11 @@ word_by_word:
     translation: and a Reminder
     transliteration: wadhik'ru
   14:
-    arabic: مَنۡ
+    arabic: مَن
     translation: (for those) who
     transliteration: man
   15:
-    arabic: قَبۡلِىۡ​ ؕ
+    arabic: قَبۡلِيۚ
     translation: (were) before me
     transliteration: qablī
   16:
@@ -72,7 +72,7 @@ word_by_word:
     translation: But
     transliteration: bal
   17:
-    arabic: اَكۡثَرُهُمۡ
+    arabic: أَكۡثَرُهُمۡ
     translation: most of them
     transliteration: aktharuhum
   18:
@@ -80,19 +80,19 @@ word_by_word:
     translation: (do) not
     transliteration: lā
   19:
-    arabic: يَعۡلَمُوۡنَ ۙ
+    arabic: يَعۡلَمُونَ
     translation: know
     transliteration: yaʿlamūna
   20:
-    arabic: الۡحَـقَّ​
+    arabic: ٱلۡحَقَّۖ
     translation: the truth
     transliteration: l-ḥaqa
   21:
-    arabic: فَهُمۡ
+    arabic: فَهُم
     translation: so they
     transliteration: fahum
   22:
-    arabic: مُّعۡرِضُوۡنَ‏
+    arabic: مُّعۡرِضُونَ
     translation: (are) averse
     transliteration: muʿ'riḍūna
 ---

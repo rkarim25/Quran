@@ -1,5 +1,5 @@
 ---
-arabic_ayat: رَبِّ مُوۡسٰى وَهٰرُوۡنَ‏
+arabic_ayat: رَبِّ مُوسَىٰ وَهَٰرُونَ
 sentence_translation: the Lord of Moses and Aaron.”
 word_by_word:
   1:
@@ -7,11 +7,11 @@ word_by_word:
     translation: Lord
     transliteration: rabbi
   2:
-    arabic: مُوۡسٰى
+    arabic: مُوسَىٰ
     translation: (of) Musa
     transliteration: mūsā
   3:
-    arabic: وَهٰرُوۡنَ‏
+    arabic: وَهَٰرُونَ
     translation: and Harun
     transliteration: wahārūna
 ---

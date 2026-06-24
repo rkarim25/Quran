@@ -1,7 +1,7 @@
 ---
-arabic_ayat: لِّيُدۡخِلَ الۡمُؤۡمِنِيۡنَ وَالۡمُؤۡمِنٰتِ جَنّٰتٍ تَجۡرِىۡ مِنۡ تَحۡتِهَا
-  الۡاَنۡهٰرُ خٰلِدِيۡنَ فِيۡهَا وَيُكَفِّرَ عَنۡهُمۡ سَيِّاٰتِهِمۡ​ؕ وَكَانَ ذٰ لِكَ
-  عِنۡدَ اللّٰهِ فَوۡزًا عَظِيۡمًا ۙ‏
+arabic_ayat: لِّيُدۡخِلَ ٱلۡمُؤۡمِنِينَ وَٱلۡمُؤۡمِنَٰتِ جَنَّٰتٖ تَجۡرِي مِن تَحۡتِهَا
+  ٱلۡأَنۡهَٰرُ خَٰلِدِينَ فِيهَا وَيُكَفِّرَ عَنۡهُمۡ سَيِّـَٔاتِهِمۡۚ وَكَانَ ذَٰلِكَ
+  عِندَ ٱللَّهِ فَوۡزًا عَظِيمٗا
 sentence_translation: So He may admit believing men and women into Gardens under which
   rivers flow—to stay there forever—and absolve them of their sins. And that is a
   supreme achievement in the sight of Allah.
@@ -11,23 +11,23 @@ word_by_word:
     translation: That He may admit
     transliteration: liyud'khila
   2:
-    arabic: الۡمُؤۡمِنِيۡنَ
+    arabic: ٱلۡمُؤۡمِنِينَ
     translation: the believing men
     transliteration: l-mu'minīna
   3:
-    arabic: وَالۡمُؤۡمِنٰتِ
+    arabic: وَٱلۡمُؤۡمِنَٰتِ
     translation: and the believing women
     transliteration: wal-mu'mināti
   4:
-    arabic: جَنّٰتٍ
+    arabic: جَنَّٰتٖ
     translation: (to) Gardens
     transliteration: jannātin
   5:
-    arabic: تَجۡرِىۡ
+    arabic: تَجۡرِي
     translation: flow
     transliteration: tajrī
   6:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   7:
@@ -35,15 +35,15 @@ word_by_word:
     translation: underneath them
     transliteration: taḥtihā
   8:
-    arabic: الۡاَنۡهٰرُ
+    arabic: ٱلۡأَنۡهَٰرُ
     translation: the rivers
     transliteration: l-anhāru
   9:
-    arabic: خٰلِدِيۡنَ
+    arabic: خَٰلِدِينَ
     translation: (to) abide forever
     transliteration: khālidīna
   10:
-    arabic: فِيۡهَا
+    arabic: فِيهَا
     translation: therein
     transliteration: fīhā
   11:
@@ -55,7 +55,7 @@ word_by_word:
     translation: from them
     transliteration: ʿanhum
   13:
-    arabic: سَيِّاٰتِهِمۡ​ؕ
+    arabic: سَيِّـَٔاتِهِمۡۚ
     translation: their misdeeds
     transliteration: sayyiātihim
   14:
@@ -63,15 +63,15 @@ word_by_word:
     translation: and is
     transliteration: wakāna
   15:
-    arabic: ذٰ لِكَ
+    arabic: ذَٰلِكَ
     translation: that
     transliteration: dhālika
   16:
-    arabic: عِنۡدَ
+    arabic: عِندَ
     translation: with
     transliteration: ʿinda
   17:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   18:
@@ -79,7 +79,7 @@ word_by_word:
     translation: a success
     transliteration: fawzan
   19:
-    arabic: عَظِيۡمًا ۙ‏
+    arabic: عَظِيمٗا
     translation: great
     transliteration: ʿaẓīman
 ---

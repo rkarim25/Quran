@@ -1,7 +1,6 @@
 ---
-arabic_ayat: زَعَمَ الَّذِيۡنَ كَفَرُوۡۤا اَنۡ لَّنۡ يُّبۡـعَـثُـوۡا​ ؕ قُلۡ بَلٰى
-  وَرَبِّىۡ لَـتُبۡـعَـثُـنَّ ثُمَّ لَـتُنَـبَّـؤُنَّ بِمَا عَمِلۡـتُمۡ​ؕ وَذٰ لِكَ
-  عَلَى اللّٰهِ يَسِيۡرٌ‏
+arabic_ayat: زَعَمَ ٱلَّذِينَ كَفَرُوٓاْ أَن لَّن يُبۡعَثُواْۚ قُلۡ بَلَىٰ وَرَبِّي
+  لَتُبۡعَثُنَّ ثُمَّ لَتُنَبَّؤُنَّ بِمَا عَمِلۡتُمۡۚ وَذَٰلِكَ عَلَى ٱللَّهِ يَسِيرٞ
 sentence_translation: The disbelievers claim they will not be resurrected. Say, ˹O
   Prophet,˺ “Yes, by my Lord, you will surely be resurrected, then you will certainly
   be informed of what you have done. And that is easy for Allah.”
@@ -11,23 +10,23 @@ word_by_word:
     translation: Claim
     transliteration: zaʿama
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   3:
-    arabic: كَفَرُوۡۤا
+    arabic: كَفَرُوٓاْ
     translation: disbelieve
     transliteration: kafarū
   4:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that
     transliteration: an
   5:
-    arabic: لَّنۡ
+    arabic: لَّن
     translation: never
     transliteration: lan
   6:
-    arabic: يُّبۡـعَـثُـوۡا​ ؕ
+    arabic: يُبۡعَثُواْۚ
     translation: will they be raised
     transliteration: yub'ʿathū
   7:
@@ -35,15 +34,15 @@ word_by_word:
     translation: Say
     transliteration: qul
   8:
-    arabic: بَلٰى
+    arabic: بَلَىٰ
     translation: 'Yes'
     transliteration: balā
   9:
-    arabic: وَرَبِّىۡ
+    arabic: وَرَبِّي
     translation: by my Lord
     transliteration: warabbī
   10:
-    arabic: لَـتُبۡـعَـثُـنَّ
+    arabic: لَتُبۡعَثُنَّ
     translation: surely you will be raised
     transliteration: latub'ʿathunna
   11:
@@ -51,7 +50,7 @@ word_by_word:
     translation: then
     transliteration: thumma
   12:
-    arabic: لَـتُنَـبَّـؤُنَّ
+    arabic: لَتُنَبَّؤُنَّ
     translation: surely you will be informed
     transliteration: latunabba-unna
   13:
@@ -59,11 +58,11 @@ word_by_word:
     translation: of what
     transliteration: bimā
   14:
-    arabic: عَمِلۡـتُمۡ​ؕ
+    arabic: عَمِلۡتُمۡۚ
     translation: you did
     transliteration: ʿamil'tum
   15:
-    arabic: وَذٰ لِكَ
+    arabic: وَذَٰلِكَ
     translation: And that
     transliteration: wadhālika
   16:
@@ -71,11 +70,11 @@ word_by_word:
     translation: for
     transliteration: ʿalā
   17:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   18:
-    arabic: يَسِيۡرٌ‏
+    arabic: يَسِيرٞ
     translation: (is) easy
     transliteration: yasīrun
 ---

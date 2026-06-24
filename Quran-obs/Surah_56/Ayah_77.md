@@ -1,17 +1,17 @@
 ---
-arabic_ayat: اِنَّهٗ لَـقُرۡاٰنٌ كَرِيۡمٌۙ‏
+arabic_ayat: إِنَّهُۥ لَقُرۡءَانٞ كَرِيمٞ
 sentence_translation: that this is truly a noble Quran,
 word_by_word:
   1:
-    arabic: اِنَّهٗ
+    arabic: إِنَّهُۥ
     translation: Indeed, it
     transliteration: innahu
   2:
-    arabic: لَـقُرۡاٰنٌ
+    arabic: لَقُرۡءَانٞ
     translation: (is) surely, a Quran
     transliteration: laqur'ānun
   3:
-    arabic: كَرِيۡمٌۙ‏
+    arabic: كَرِيمٞ
     translation: noble
     transliteration: karīmun
 ---

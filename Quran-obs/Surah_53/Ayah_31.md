@@ -1,12 +1,12 @@
 ---
-arabic_ayat: وَلِلّٰهِ مَا فِى السَّمٰوٰتِ وَمَا فِى الۡاَرۡضِۙ لِيَجۡزِىَ الَّذِيۡنَ
-  اَسَآءُوۡا بِمَا عَمِلُوۡا وَيَجۡزِىَ الَّذِيۡنَ اَحۡسَنُوۡا بِالۡحُسۡنٰى​ ۚ‏
+arabic_ayat: وَلِلَّهِ مَا فِي ٱلسَّمَٰوَٰتِ وَمَا فِي ٱلۡأَرۡضِ لِيَجۡزِيَ ٱلَّذِينَ
+  أَسَٰٓـُٔواْ بِمَا عَمِلُواْ وَيَجۡزِيَ ٱلَّذِينَ أَحۡسَنُواْ بِٱلۡحُسۡنَى
 sentence_translation: To Allah ˹alone˺ belongs whatever is in the heavens and whatever
   is on the earth so that He may reward the evildoers according to what they did,
   and reward the good-doers with the finest reward—
 word_by_word:
   1:
-    arabic: وَلِلّٰهِ
+    arabic: وَلِلَّهِ
     translation: And for Allah
     transliteration: walillahi
   2:
@@ -14,11 +14,11 @@ word_by_word:
     translation: (is) whatever
     transliteration: mā
   3:
-    arabic: فِى
+    arabic: فِي
     translation: (is) in
     transliteration: fī
   4:
-    arabic: السَّمٰوٰتِ
+    arabic: ٱلسَّمَٰوَٰتِ
     translation: the heavens
     transliteration: l-samāwāti
   5:
@@ -26,23 +26,23 @@ word_by_word:
     translation: and whatever
     transliteration: wamā
   6:
-    arabic: فِى
+    arabic: فِي
     translation: (is) in
     transliteration: fī
   7:
-    arabic: الۡاَرۡضِۙ
+    arabic: ٱلۡأَرۡضِ
     translation: the earth
     transliteration: l-arḍi
   8:
-    arabic: لِيَجۡزِىَ
+    arabic: لِيَجۡزِيَ
     translation: that He may recompense
     transliteration: liyajziya
   9:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   10:
-    arabic: اَسَآءُوۡا
+    arabic: أَسَٰٓـُٔواْ
     translation: do evil
     transliteration: asāū
   11:
@@ -50,23 +50,23 @@ word_by_word:
     translation: with what
     transliteration: bimā
   12:
-    arabic: عَمِلُوۡا
+    arabic: عَمِلُواْ
     translation: they have done
     transliteration: ʿamilū
   13:
-    arabic: وَيَجۡزِىَ
+    arabic: وَيَجۡزِيَ
     translation: and recompense
     transliteration: wayajziya
   14:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   15:
-    arabic: اَحۡسَنُوۡا
+    arabic: أَحۡسَنُواْ
     translation: do good
     transliteration: aḥsanū
   16:
-    arabic: بِالۡحُسۡنٰى​ ۚ‏
+    arabic: بِٱلۡحُسۡنَى
     translation: with the best
     transliteration: bil-ḥus'nā
 ---

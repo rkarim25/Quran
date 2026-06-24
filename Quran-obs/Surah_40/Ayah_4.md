@@ -1,6 +1,6 @@
 ---
-arabic_ayat: مَا يُجَادِلُ فِىۡۤ اٰيٰتِ اللّٰهِ اِلَّا الَّذِيۡنَ كَفَرُوۡا فَلَا
-  يَغۡرُرۡكَ تَقَلُّبُهُمۡ فِى الۡبِلَادِ‏
+arabic_ayat: مَا يُجَٰدِلُ فِيٓ ءَايَٰتِ ٱللَّهِ إِلَّا ٱلَّذِينَ كَفَرُواْ فَلَا
+  يَغۡرُرۡكَ تَقَلُّبُهُمۡ فِي ٱلۡبِلَٰدِ
 sentence_translation: None disputes the signs of Allah except the disbelievers, so
   do not be deceived by their prosperity throughout the land.
 word_by_word:
@@ -9,31 +9,31 @@ word_by_word:
     translation: Not
     transliteration: mā
   2:
-    arabic: يُجَادِلُ
+    arabic: يُجَٰدِلُ
     translation: dispute
     transliteration: yujādilu
   3:
-    arabic: فِىۡۤ
+    arabic: فِيٓ ءَ
     translation: concerning
     transliteration: fī
   4:
-    arabic: اٰيٰتِ
+    arabic: ايَٰتِ
     translation: (the) Verses
     transliteration: āyāti
   5:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (of) Allah
     transliteration: l-lahi
   6:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   7:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   8:
-    arabic: كَفَرُوۡا
+    arabic: كَفَرُواْ
     translation: disbelieve
     transliteration: kafarū
   9:
@@ -49,11 +49,11 @@ word_by_word:
     translation: their movement
     transliteration: taqallubuhum
   12:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   13:
-    arabic: الۡبِلَادِ‏
+    arabic: ٱلۡبِلَٰدِ
     translation: the cities
     transliteration: l-bilādi
 ---

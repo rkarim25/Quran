@@ -1,35 +1,35 @@
 ---
-arabic_ayat: اَٮِٕنَّكُمۡ لَـتَاۡتُوۡنَ الرِّجَالَ شَهۡوَةً مِّنۡ دُوۡنِ النِّسَآءِ​ؕ
-  بَلۡ اَنۡـتُمۡ قَوۡمٌ تَجۡهَلُوۡنَ‏
+arabic_ayat: أَئِنَّكُمۡ لَتَأۡتُونَ ٱلرِّجَالَ شَهۡوَةٗ مِّن دُونِ ٱلنِّسَآءِۚ بَلۡ
+  أَنتُمۡ قَوۡمٞ تَجۡهَلُونَ
 sentence_translation: Do you really lust after men instead of women? In fact, you
   are ˹only˺ a people acting ignorantly.”
 word_by_word:
   1:
-    arabic: اَٮِٕنَّكُمۡ
+    arabic: أَئِنَّكُمۡ
     translation: Why do you
     transliteration: a-innakum
   2:
-    arabic: لَـتَاۡتُوۡنَ
+    arabic: لَتَأۡتُونَ
     translation: approach
     transliteration: latatūna
   3:
-    arabic: الرِّجَالَ
+    arabic: ٱلرِّجَالَ
     translation: the men
     transliteration: l-rijāla
   4:
-    arabic: شَهۡوَةً
+    arabic: شَهۡوَةٗ
     translation: (with) lust
     transliteration: shahwatan
   5:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: instead of
     transliteration: min
   6:
-    arabic: دُوۡنِ
+    arabic: دُونِ
     translation: instead of
     transliteration: dūni
   7:
-    arabic: النِّسَآءِ​ؕ
+    arabic: ٱلنِّسَآءِۚ
     translation: the women
     transliteration: l-nisāi
   8:
@@ -37,15 +37,15 @@ word_by_word:
     translation: Nay
     transliteration: bal
   9:
-    arabic: اَنۡـتُمۡ
+    arabic: أَنتُمۡ
     translation: you
     transliteration: antum
   10:
-    arabic: قَوۡمٌ
+    arabic: قَوۡمٞ
     translation: (are) a people
     transliteration: qawmun
   11:
-    arabic: تَجۡهَلُوۡنَ‏
+    arabic: تَجۡهَلُونَ
     translation: ignorant
     transliteration: tajhalūna
 ---

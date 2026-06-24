@@ -1,6 +1,6 @@
 ---
-arabic_ayat: فَلَمَّا جَهَّزَهُمۡ بِجَهَازِهِمۡ جَعَلَ السِّقَايَةَ فِىۡ رَحۡلِ اَخِيۡهِ
-  ثُمَّ اَذَّنَ مُؤَذِّنٌ اَ يَّـتُهَا الۡعِيۡرُ اِنَّكُمۡ لَسَارِقُوۡنَ‏
+arabic_ayat: فَلَمَّا جَهَّزَهُم بِجَهَازِهِمۡ جَعَلَ ٱلسِّقَايَةَ فِي رَحۡلِ أَخِيهِ
+  ثُمَّ أَذَّنَ مُؤَذِّنٌ أَيَّتُهَا ٱلۡعِيرُ إِنَّكُمۡ لَسَٰرِقُونَ
 sentence_translation: When Joseph had provided them with supplies, he slipped the
   royal cup into his brother’s bag. Then a herald cried, “O people of the caravan!
   You must be thieves!”
@@ -10,7 +10,7 @@ word_by_word:
     translation: So when
     transliteration: falammā
   2:
-    arabic: جَهَّزَهُمۡ
+    arabic: جَهَّزَهُم
     translation: he had furnished them
     transliteration: jahhazahum
   3:
@@ -22,11 +22,11 @@ word_by_word:
     translation: he put
     transliteration: jaʿala
   5:
-    arabic: السِّقَايَةَ
+    arabic: ٱلسِّقَايَةَ
     translation: the drinking cup
     transliteration: l-siqāyata
   6:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   7:
@@ -34,7 +34,7 @@ word_by_word:
     translation: the bag
     transliteration: raḥli
   8:
-    arabic: اَخِيۡهِ
+    arabic: أَخِيهِ
     translation: (of) his brother
     transliteration: akhīhi
   9:
@@ -42,7 +42,7 @@ word_by_word:
     translation: Then
     transliteration: thumma
   10:
-    arabic: اَذَّنَ
+    arabic: أَذَّنَ
     translation: called out
     transliteration: adhana
   11:
@@ -50,19 +50,19 @@ word_by_word:
     translation: an announcer
     transliteration: mu-adhinun
   12:
-    arabic: اَ يَّـتُهَا
+    arabic: أَيَّتُهَا
     translation: O you
     transliteration: ayyatuhā
   13:
-    arabic: الۡعِيۡرُ
+    arabic: ٱلۡعِيرُ
     translation: (in) the caravan
     transliteration: l-ʿīru
   14:
-    arabic: اِنَّكُمۡ
+    arabic: إِنَّكُمۡ
     translation: Indeed, you
     transliteration: innakum
   15:
-    arabic: لَسَارِقُوۡنَ‏
+    arabic: لَسَٰرِقُونَ
     translation: surely (are) thieves
     transliteration: lasāriqūna
 ---

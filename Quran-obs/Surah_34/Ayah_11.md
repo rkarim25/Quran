@@ -1,44 +1,44 @@
 ---
-arabic_ayat: اَنِ اعۡمَلۡ سٰبِغٰتٍ وَّقَدِّرۡ فِى السَّرۡدِ وَاعۡمَلُوۡا صَالِحًـا
-  ؕ اِنِّىۡ بِمَا تَعۡمَلُوۡنَ بَصِيۡرٌ‏
+arabic_ayat: أَنِ ٱعۡمَلۡ سَٰبِغَٰتٖ وَقَدِّرۡ فِي ٱلسَّرۡدِۖ وَٱعۡمَلُواْ صَٰلِحًاۖ
+  إِنِّي بِمَا تَعۡمَلُونَ بَصِيرٞ
 sentence_translation: 'instructing: “Make full-length armour, ˹perfectly˺ balancing
   the links. And work righteousness ˹O family of David!˺. Indeed, I am All-Seeing
   of what you do.”'
 word_by_word:
   1:
-    arabic: اَنِ
+    arabic: أَنِ
     translation: That
     transliteration: ani
   2:
-    arabic: اعۡمَلۡ
+    arabic: ٱعۡمَلۡ
     translation: make
     transliteration: iʿ'mal
   3:
-    arabic: سٰبِغٰتٍ
+    arabic: سَٰبِغَٰتٖ
     translation: full coats of mail
     transliteration: sābighātin
   4:
-    arabic: وَّقَدِّرۡ
+    arabic: وَقَدِّرۡ
     translation: and measure precisely
     transliteration: waqaddir
   5:
-    arabic: فِى
+    arabic: فِي
     translation: '[of]'
     transliteration: fī
   6:
-    arabic: السَّرۡدِ
+    arabic: ٱلسَّرۡدِۖ
     translation: the links (of armor)
     transliteration: l-sardi
   7:
-    arabic: وَاعۡمَلُوۡا
+    arabic: وَٱعۡمَلُواْ
     translation: and work
     transliteration: wa-iʿ'malū
   8:
-    arabic: صَالِحًـا ؕ
+    arabic: صَٰلِحًاۖ
     translation: righteousness
     transliteration: ṣāliḥan
   9:
-    arabic: اِنِّىۡ
+    arabic: إِنِّي
     translation: Indeed, I Am
     transliteration: innī
   10:
@@ -46,11 +46,11 @@ word_by_word:
     translation: of what
     transliteration: bimā
   11:
-    arabic: تَعۡمَلُوۡنَ
+    arabic: تَعۡمَلُونَ
     translation: you do
     transliteration: taʿmalūna
   12:
-    arabic: بَصِيۡرٌ‏
+    arabic: بَصِيرٞ
     translation: All-Seer
     transliteration: baṣīrun
 ---

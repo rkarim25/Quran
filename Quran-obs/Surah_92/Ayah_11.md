@@ -1,5 +1,5 @@
 ---
-arabic_ayat: وَمَا يُغۡنِىۡ عَنۡهُ مَالُهٗۤ اِذَا تَرَدّٰىؕ‏
+arabic_ayat: وَمَا يُغۡنِي عَنۡهُ مَالُهُۥٓ إِذَا تَرَدَّىٰٓ
 sentence_translation: And their wealth will be of no benefit to them when they tumble
   ˹into Hell˺.
 word_by_word:
@@ -8,7 +8,7 @@ word_by_word:
     translation: And not
     transliteration: wamā
   2:
-    arabic: يُغۡنِىۡ
+    arabic: يُغۡنِي
     translation: will avail
     transliteration: yugh'nī
   3:
@@ -16,15 +16,15 @@ word_by_word:
     translation: him
     transliteration: ʿanhu
   4:
-    arabic: مَالُهٗۤ
+    arabic: مَالُهُۥٓ
     translation: his wealth
     transliteration: māluhu
   5:
-    arabic: اِذَا
+    arabic: إِذَا
     translation: when
     transliteration: idhā
   6:
-    arabic: تَرَدّٰىؕ‏
+    arabic: تَرَدَّىٰٓ
     translation: he falls
     transliteration: taraddā
 ---

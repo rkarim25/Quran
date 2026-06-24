@@ -1,47 +1,47 @@
 ---
-arabic_ayat: كَذٰلِكَ مَاۤ اَتَى الَّذِيۡنَ مِنۡ قَبۡلِهِمۡ مِّنۡ رَّسُوۡلٍ اِلَّا
-  قَالُوۡا سَاحِرٌ اَوۡ مَجۡنُوۡنٌ​ۚ‏
+arabic_ayat: كَذَٰلِكَ مَآ أَتَى ٱلَّذِينَ مِن قَبۡلِهِم مِّن رَّسُولٍ إِلَّا قَالُواْ
+  سَاحِرٌ أَوۡ مَجۡنُونٌ
 sentence_translation: 'Similarly, no messenger came to those before them without being
   told: “A magician or a madman!”'
 word_by_word:
   1:
-    arabic: كَذٰلِكَ
+    arabic: كَذَٰلِكَ
     translation: Likewise
     transliteration: kadhālika
   2:
-    arabic: مَاۤ
+    arabic: مَآ
     translation: not
     transliteration: mā
   3:
-    arabic: اَتَى
+    arabic: أَتَى
     translation: came
     transliteration: atā
   4:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: (to) those
     transliteration: alladhīna
   5:
-    arabic: مِنۡ
+    arabic: مِن
     translation: before them
     transliteration: min
   6:
-    arabic: قَبۡلِهِمۡ
+    arabic: قَبۡلِهِم
     translation: before them
     transliteration: qablihim
   7:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: any
     transliteration: min
   8:
-    arabic: رَّسُوۡلٍ
+    arabic: رَّسُولٍ
     translation: Messenger
     transliteration: rasūlin
   9:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: but
     transliteration: illā
   10:
-    arabic: قَالُوۡا
+    arabic: قَالُواْ
     translation: they said
     transliteration: qālū
   11:
@@ -49,11 +49,11 @@ word_by_word:
     translation: A magician
     transliteration: sāḥirun
   12:
-    arabic: اَوۡ
+    arabic: أَوۡ
     translation: or
     transliteration: aw
   13:
-    arabic: مَجۡنُوۡنٌ​ۚ‏
+    arabic: مَجۡنُونٌ
     translation: a madman
     transliteration: majnūnun
 ---

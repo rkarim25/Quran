@@ -1,7 +1,7 @@
 ---
-arabic_ayat: يَوۡمَ تَرَوۡنَهَا تَذۡهَلُ كُلُّ مُرۡضِعَةٍ عَمَّاۤ اَرۡضَعَتۡ وَتَضَعُ
-  كُلُّ ذَاتِ حَمۡلٍ حَمۡلَهَا وَتَرَى النَّاسَ سُكٰرٰى وَمَا هُمۡ بِسُكٰرٰى وَلٰـكِنَّ
-  عَذَابَ اللّٰهِ شَدِيۡدٌ‏
+arabic_ayat: يَوۡمَ تَرَوۡنَهَا تَذۡهَلُ كُلُّ مُرۡضِعَةٍ عَمَّآ أَرۡضَعَتۡ وَتَضَعُ
+  كُلُّ ذَاتِ حَمۡلٍ حَمۡلَهَا وَتَرَى ٱلنَّاسَ سُكَٰرَىٰ وَمَا هُم بِسُكَٰرَىٰ وَلَٰكِنَّ
+  عَذَابَ ٱللَّهِ شَدِيدٞ
 sentence_translation: The Day you see it, every nursing mother will abandon what she
   is nursing, and every pregnant woman will deliver her burden ˹prematurely˺. And
   you will see people ˹as if they were˺ drunk, though they will not be drunk; but
@@ -28,11 +28,11 @@ word_by_word:
     translation: nursing mother
     transliteration: mur'ḍiʿatin
   6:
-    arabic: عَمَّاۤ
+    arabic: عَمَّآ
     translation: that which
     transliteration: ʿammā
   7:
-    arabic: اَرۡضَعَتۡ
+    arabic: أَرۡضَعَتۡ
     translation: she was nursing
     transliteration: arḍaʿat
   8:
@@ -60,11 +60,11 @@ word_by_word:
     translation: and you will see
     transliteration: watarā
   14:
-    arabic: النَّاسَ
+    arabic: ٱلنَّاسَ
     translation: '[the] mankind'
     transliteration: l-nāsa
   15:
-    arabic: سُكٰرٰى
+    arabic: سُكَٰرَىٰ
     translation: intoxicated
     transliteration: sukārā
   16:
@@ -72,15 +72,15 @@ word_by_word:
     translation: while not
     transliteration: wamā
   17:
-    arabic: هُمۡ
+    arabic: هُم
     translation: they
     transliteration: hum
   18:
-    arabic: بِسُكٰرٰى
+    arabic: بِسُكَٰرَىٰ
     translation: (are) intoxicated
     transliteration: bisukārā
   19:
-    arabic: وَلٰـكِنَّ
+    arabic: وَلَٰكِنَّ
     translation: but
     transliteration: walākinna
   20:
@@ -88,11 +88,11 @@ word_by_word:
     translation: (the) punishment
     transliteration: ʿadhāba
   21:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (of) Allah
     transliteration: l-lahi
   22:
-    arabic: شَدِيۡدٌ‏
+    arabic: شَدِيدٞ
     translation: (will be) severe
     transliteration: shadīdun
 ---

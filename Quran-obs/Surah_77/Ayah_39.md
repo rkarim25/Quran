@@ -1,10 +1,10 @@
 ---
-arabic_ayat: فَاِنۡ كَانَ لَـكُمۡ كَيۡدٌ فَكِيۡدُوۡنِ‏
+arabic_ayat: فَإِن كَانَ لَكُمۡ كَيۡدٞ فَكِيدُونِ
 sentence_translation: So if you have a scheme ˹to save yourselves˺, then use it against
   Me.”
 word_by_word:
   1:
-    arabic: فَاِنۡ
+    arabic: فَإِن
     translation: So if
     transliteration: fa-in
   2:
@@ -12,15 +12,15 @@ word_by_word:
     translation: is
     transliteration: kāna
   3:
-    arabic: لَـكُمۡ
+    arabic: لَكُمۡ
     translation: for you
     transliteration: lakum
   4:
-    arabic: كَيۡدٌ
+    arabic: كَيۡدٞ
     translation: a plan
     transliteration: kaydun
   5:
-    arabic: فَكِيۡدُوۡنِ‏
+    arabic: فَكِيدُونِ
     translation: then plan against Me
     transliteration: fakīdūni
 ---

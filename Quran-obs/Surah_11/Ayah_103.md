@@ -1,24 +1,24 @@
 ---
-arabic_ayat: اِنَّ فِىۡ ذٰ لِكَ لَاٰيَةً لِّمَنۡ خَافَ عَذَابَ الۡاٰخِرَةِ​ ؕ ذٰ لِكَ
-  يَوۡمٌ مَّجۡمُوۡعٌ  ۙ  لَّهُ النَّاسُ وَذٰ لِكَ يَوۡمٌ مَّشۡهُوۡدٌ‏
+arabic_ayat: إِنَّ فِي ذَٰلِكَ لَأٓيَةٗ لِّمَنۡ خَافَ عَذَابَ ٱلۡأٓخِرَةِۚ ذَٰلِكَ
+  يَوۡمٞ مَّجۡمُوعٞ لَّهُ ٱلنَّاسُ وَذَٰلِكَ يَوۡمٞ مَّشۡهُودٞ
 sentence_translation: Surely in this is a sign for those who fear the torment of the
   Hereafter. That is a Day for which humanity will be gathered and a Day ˹that will
   be˺ witnessed ˹by all˺.
 word_by_word:
   1:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   2:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   3:
-    arabic: ذٰ لِكَ
+    arabic: ذَٰلِكَ
     translation: that
     transliteration: dhālika
   4:
-    arabic: لَاٰيَةً
+    arabic: لَأٓيَةٗ
     translation: (is) surely a Sign
     transliteration: laāyatan
   5:
@@ -34,19 +34,19 @@ word_by_word:
     translation: (the) punishment
     transliteration: ʿadhāba
   8:
-    arabic: الۡاٰخِرَةِ​ ؕ
+    arabic: ٱلۡأٓخِرَةِۚ
     translation: (of) the Hereafter
     transliteration: l-ākhirati
   9:
-    arabic: ذٰ لِكَ
+    arabic: ذَٰلِكَ
     translation: That
     transliteration: dhālika
   10:
-    arabic: يَوۡمٌ
+    arabic: يَوۡمٞ
     translation: (is) a Day
     transliteration: yawmun
   11:
-    arabic: مَّجۡمُوۡعٌ  ۙ  
+    arabic: مَّجۡمُوعٞ
     translation: (will) be gathered
     transliteration: majmūʿun
   12:
@@ -54,19 +54,19 @@ word_by_word:
     translation: on it
     transliteration: lahu
   13:
-    arabic: النَّاسُ
+    arabic: ٱلنَّاسُ
     translation: the mankind
     transliteration: l-nāsu
   14:
-    arabic: وَذٰ لِكَ
+    arabic: وَذَٰلِكَ
     translation: and that
     transliteration: wadhālika
   15:
-    arabic: يَوۡمٌ
+    arabic: يَوۡمٞ
     translation: (is) a Day
     transliteration: yawmun
   16:
-    arabic: مَّشۡهُوۡدٌ‏
+    arabic: مَّشۡهُودٞ
     translation: witnessed
     transliteration: mashhūdun
 ---

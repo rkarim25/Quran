@@ -1,8 +1,8 @@
 ---
-arabic_ayat: وَ اِنۡ تَعۡجَبۡ فَعَجَبٌ قَوۡلُهُمۡ ءَاِذَا كُنَّا تُرٰبًا ءَاِنَّا
-  لَفِىۡ خَلۡقٍ جَدِيۡدٍ  ؕ اُولٰۤٮِٕكَ الَّذِيۡنَ كَفَرُوۡا بِرَبِّهِمۡ​ۚ وَاُولٰۤٮِٕكَ
-  الۡاَغۡلٰلُ فِىۡۤ اَعۡنَاقِهِمۡ​ۚ وَاُولٰۤٮِٕكَ اَصۡحٰبُ النَّارِ​ۚ هُمۡ فِيۡهَا
-  خٰلِدُوۡنَ‏
+arabic_ayat: ۞ وَإِن تَعۡجَبۡ فَعَجَبٞ قَوۡلُهُمۡ أَءِذَا كُنَّا تُرَٰبًا أَءِنَّا
+  لَفِي خَلۡقٖ جَدِيدٍۗ أُوْلَٰٓئِكَ ٱلَّذِينَ كَفَرُواْ بِرَبِّهِمۡۖ وَأُوْلَٰٓئِكَ
+  ٱلۡأَغۡلَٰلُ فِيٓ أَعۡنَاقِهِمۡۖ وَأُوْلَٰٓئِكَ أَصۡحَٰبُ ٱلنَّارِۖ هُمۡ فِيهَا
+  خَٰلِدُونَ
 sentence_translation: '˹Now,˺ if anything should amaze you ˹O Prophet˺, then it is
   their question: “When we are reduced to dust, will we really be raised as a new
   creation?” It is they who have disbelieved in their Lord. It is they who will have
@@ -10,7 +10,7 @@ sentence_translation: '˹Now,˺ if anything should amaze you ˹O Prophet˺, then
   They will be there forever.'
 word_by_word:
   1:
-    arabic: ۞ وَ اِنۡ
+    arabic: ۞ وَإِن
     translation: And if
     transliteration: wa-in
   2:
@@ -18,15 +18,15 @@ word_by_word:
     translation: you (are) astonished
     transliteration: taʿjab
   3:
-    arabic: فَعَجَبٌ
+    arabic: فَعَجَبٞ
     translation: then astonishing
     transliteration: faʿajabun
   4:
-    arabic: قَوۡلُهُمۡ
+    arabic: قَوۡلُهُمۡ أَ
     translation: (is) their saying
     transliteration: qawluhum
   5:
-    arabic: ءَاِذَا
+    arabic: ءِذَا
     translation: When
     transliteration: a-idhā
   6:
@@ -34,67 +34,67 @@ word_by_word:
     translation: we are
     transliteration: kunnā
   7:
-    arabic: تُرٰبًا
+    arabic: تُرَٰبًا أَ
     translation: dust
     transliteration: turāban
   8:
-    arabic: ءَاِنَّا
+    arabic: ءِنَّا
     translation: will we
     transliteration: a-innā
   9:
-    arabic: لَفِىۡ
+    arabic: لَفِي
     translation: (be) indeed, in
     transliteration: lafī
   10:
-    arabic: خَلۡقٍ
+    arabic: خَلۡقٖ
     translation: a creation
     transliteration: khalqin
   11:
-    arabic: جَدِيۡدٍ  ؕ
+    arabic: جَدِيدٍۗ
     translation: new
     transliteration: jadīdin
   12:
-    arabic: اُولٰۤٮِٕكَ
+    arabic: أُوْلَٰٓئِكَ
     translation: Those
     transliteration: ulāika
   13:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: (are) the ones who
     transliteration: alladhīna
   14:
-    arabic: كَفَرُوۡا
+    arabic: كَفَرُواْ
     translation: disbelieved
     transliteration: kafarū
   15:
-    arabic: بِرَبِّهِمۡ​ۚ
+    arabic: بِرَبِّهِمۡۖ
     translation: in their Lord
     transliteration: birabbihim
   16:
-    arabic: وَاُولٰۤٮِٕكَ
+    arabic: وَأُوْلَٰٓئِكَ
     translation: and those
     transliteration: wa-ulāika
   17:
-    arabic: الۡاَغۡلٰلُ
+    arabic: ٱلۡأَغۡلَٰلُ
     translation: the iron chains
     transliteration: l-aghlālu
   18:
-    arabic: فِىۡۤ
+    arabic: فِيٓ
     translation: (will be) in
     transliteration: fī
   19:
-    arabic: اَعۡنَاقِهِمۡ​ۚ
+    arabic: أَعۡنَاقِهِمۡۖ
     translation: their necks
     transliteration: aʿnāqihim
   20:
-    arabic: وَاُولٰۤٮِٕكَ
+    arabic: وَأُوْلَٰٓئِكَ
     translation: those
     transliteration: wa-ulāika
   21:
-    arabic: اَصۡحٰبُ
+    arabic: أَصۡحَٰبُ
     translation: (are the) companions
     transliteration: aṣḥābu
   22:
-    arabic: النَّارِ​ۚ
+    arabic: ٱلنَّارِۖ
     translation: (of) the Fire
     transliteration: l-nāri
   23:
@@ -102,11 +102,11 @@ word_by_word:
     translation: they
     transliteration: hum
   24:
-    arabic: فِيۡهَا
+    arabic: فِيهَا
     translation: in it
     transliteration: fīhā
   25:
-    arabic: خٰلِدُوۡنَ‏
+    arabic: خَٰلِدُونَ
     translation: (will) abide forever
     transliteration: khālidūna
 ---

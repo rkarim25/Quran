@@ -1,7 +1,6 @@
 ---
-arabic_ayat: "وَلَا تَسۡتَوِى الۡحَسَنَةُ وَ لَا السَّيِّئَةُ ؕ اِدۡفَعۡ بِالَّتِىۡ\
-  \ هِىَ اَحۡسَنُ فَاِذَا الَّذِىۡ بَيۡنَكَ وَبَيۡنَهٗ عَدَاوَةٌ كَاَنَّهٗ وَلِىٌّ\
-  \ حَمِيۡمٌ‏ \uFEFF\uFEFF"
+arabic_ayat: وَلَا تَسۡتَوِي ٱلۡحَسَنَةُ وَلَا ٱلسَّيِّئَةُۚ ٱدۡفَعۡ بِٱلَّتِي هِيَ
+  أَحۡسَنُ فَإِذَا ٱلَّذِي بَيۡنَكَ وَبَيۡنَهُۥ عَدَٰوَةٞ كَأَنَّهُۥ وَلِيٌّ حَمِيمٞ
 sentence_translation: Good and evil cannot be equal. Respond ˹to evil˺ with what is
   best, then the one you are in a feud with will be like a close friend.
 word_by_word:
@@ -10,43 +9,43 @@ word_by_word:
     translation: And not
     transliteration: walā
   2:
-    arabic: تَسۡتَوِى
+    arabic: تَسۡتَوِي
     translation: (are) equal
     transliteration: tastawī
   3:
-    arabic: الۡحَسَنَةُ
+    arabic: ٱلۡحَسَنَةُ
     translation: the good (deed)
     transliteration: l-ḥasanatu
   4:
-    arabic: وَ لَا
+    arabic: وَلَا
     translation: and
     transliteration: walā
   5:
-    arabic: السَّيِّئَةُ ؕ
+    arabic: ٱلسَّيِّئَةُۚ
     translation: the evil (deed)
     transliteration: l-sayi-atu
   6:
-    arabic: اِدۡفَعۡ
+    arabic: ٱدۡفَعۡ
     translation: Repel
     transliteration: id'faʿ
   7:
-    arabic: بِالَّتِىۡ
+    arabic: بِٱلَّتِي
     translation: by (that) which
     transliteration: bi-allatī
   8:
-    arabic: هِىَ
+    arabic: هِيَ
     translation: '[it]'
     transliteration: hiya
   9:
-    arabic: اَحۡسَنُ
+    arabic: أَحۡسَنُ
     translation: (is) better
     transliteration: aḥsanu
   10:
-    arabic: فَاِذَا
+    arabic: فَإِذَا
     translation: then behold
     transliteration: fa-idhā
   11:
-    arabic: الَّذِىۡ
+    arabic: ٱلَّذِي
     translation: One who
     transliteration: alladhī
   12:
@@ -54,23 +53,23 @@ word_by_word:
     translation: between you
     transliteration: baynaka
   13:
-    arabic: وَبَيۡنَهٗ
+    arabic: وَبَيۡنَهُۥ
     translation: and between him
     transliteration: wabaynahu
   14:
-    arabic: عَدَاوَةٌ
+    arabic: عَدَٰوَةٞ
     translation: (was) enmity
     transliteration: ʿadāwatun
   15:
-    arabic: كَاَنَّهٗ
+    arabic: كَأَنَّهُۥ
     translation: (will become) as if he
     transliteration: ka-annahu
   16:
-    arabic: وَلِىٌّ
+    arabic: وَلِيٌّ
     translation: (was) a friend
     transliteration: waliyyun
   17:
-    arabic: "حَمِيۡمٌ‏ \uFEFF\uFEFF"
+    arabic: حَمِيمٞ
     translation: intimate
     transliteration: ḥamīmun
 ---

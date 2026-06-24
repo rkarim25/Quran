@@ -1,13 +1,13 @@
 ---
-arabic_ayat: وَاَمَّا مَنۡۢ بَخِلَ وَاسۡتَغۡنٰىۙ‏
+arabic_ayat: وَأَمَّا مَنۢ بَخِلَ وَٱسۡتَغۡنَىٰ
 sentence_translation: And as for the one who is stingy, indifferent ˹to Allah˺,
 word_by_word:
   1:
-    arabic: وَاَمَّا
+    arabic: وَأَمَّا
     translation: But as for
     transliteration: wa-ammā
   2:
-    arabic: مَنۡۢ
+    arabic: مَنۢ
     translation: (him) who
     transliteration: man
   3:
@@ -15,7 +15,7 @@ word_by_word:
     translation: withholds
     transliteration: bakhila
   4:
-    arabic: وَاسۡتَغۡنٰىۙ‏
+    arabic: وَٱسۡتَغۡنَىٰ
     translation: and considers himself free from need
     transliteration: wa-is'taghnā
 ---

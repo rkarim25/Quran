@@ -1,11 +1,10 @@
 ---
-arabic_ayat: "اِذۡ يَتَلَقَّى الۡمُتَلَقِّيٰنِ عَنِ الۡيَمِيۡنِ وَعَنِ الشِّمَالِ\
-  \ قَعِيۡدٌ‏ \uFEFF\uFEFF"
+arabic_ayat: إِذۡ يَتَلَقَّى ٱلۡمُتَلَقِّيَانِ عَنِ ٱلۡيَمِينِ وَعَنِ ٱلشِّمَالِ قَعِيدٞ
 sentence_translation: As the two recording-angels—˹one˺ sitting to the right, and
   ˹the other to˺ the left—note ˹everything˺,
 word_by_word:
   1:
-    arabic: اِذۡ
+    arabic: إِذۡ
     translation: When
     transliteration: idh
   2:
@@ -13,7 +12,7 @@ word_by_word:
     translation: receive
     transliteration: yatalaqqā
   3:
-    arabic: الۡمُتَلَقِّيٰنِ
+    arabic: ٱلۡمُتَلَقِّيَانِ
     translation: the two receivers
     transliteration: l-mutalaqiyāni
   4:
@@ -21,7 +20,7 @@ word_by_word:
     translation: 'on'
     transliteration: ʿani
   5:
-    arabic: الۡيَمِيۡنِ
+    arabic: ٱلۡيَمِينِ
     translation: the right
     transliteration: l-yamīni
   6:
@@ -29,11 +28,11 @@ word_by_word:
     translation: and on
     transliteration: waʿani
   7:
-    arabic: الشِّمَالِ
+    arabic: ٱلشِّمَالِ
     translation: the left
     transliteration: l-shimāli
   8:
-    arabic: "قَعِيۡدٌ‏ \uFEFF\uFEFF"
+    arabic: قَعِيدٞ
     translation: seated
     transliteration: qaʿīdun
 ---

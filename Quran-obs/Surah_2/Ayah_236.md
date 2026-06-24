@@ -1,15 +1,14 @@
 ---
-arabic_ayat: "لَا جُنَاحَ عَلَيۡكُمۡ اِنۡ طَلَّقۡتُمُ النِّسَآءَ مَا لَمۡ تَمَسُّوۡهُنَّ\
-  \ اَوۡ تَفۡرِضُوۡا لَهُنَّ فَرِيۡضَةً  ۖۚ وَّمَتِّعُوۡهُنَّ ​ۚ عَلَى الۡمُوۡسِعِ\
-  \ قَدَرُهٗ وَ عَلَى الۡمُقۡتِرِ قَدَرُهٗ ​ۚ مَتَاعًا ۢ بِالۡمَعۡرُوۡفِ​​ۚ حَقًّا\
-  \ عَلَى الۡمُحۡسِنِيۡنَ‏ \uFEFF\uFEFF"
+arabic_ayat: لَّا جُنَاحَ عَلَيۡكُمۡ إِن طَلَّقۡتُمُ ٱلنِّسَآءَ مَا لَمۡ تَمَسُّوهُنَّ
+  أَوۡ تَفۡرِضُواْ لَهُنَّ فَرِيضَةٗۚ وَمَتِّعُوهُنَّ عَلَى ٱلۡمُوسِعِ قَدَرُهُۥ وَعَلَى
+  ٱلۡمُقۡتِرِ قَدَرُهُۥ مَتَٰعَۢا بِٱلۡمَعۡرُوفِۖ حَقًّا عَلَى ٱلۡمُحۡسِنِينَ
 sentence_translation: There is no blame if you divorce women before the marriage is
   consummated or the dowry is settled. But give them a ˹suitable˺ compensation—the
   rich according to his means and the poor according to his. A reasonable compensation
   is an obligation on the good-doers.
 word_by_word:
   1:
-    arabic: لَا
+    arabic: لَّا
     translation: (There is) no
     transliteration: lā
   2:
@@ -21,7 +20,7 @@ word_by_word:
     translation: upon you
     transliteration: ʿalaykum
   4:
-    arabic: اِنۡ
+    arabic: إِن
     translation: if
     transliteration: in
   5:
@@ -29,7 +28,7 @@ word_by_word:
     translation: you divorce
     transliteration: ṭallaqtumu
   6:
-    arabic: النِّسَآءَ
+    arabic: ٱلنِّسَآءَ
     translation: '[the] women'
     transliteration: l-nisāa
   7:
@@ -41,15 +40,15 @@ word_by_word:
     translation: not
     transliteration: lam
   9:
-    arabic: تَمَسُّوۡهُنَّ
+    arabic: تَمَسُّوهُنَّ
     translation: you have touched
     transliteration: tamassūhunna
   10:
-    arabic: اَوۡ
+    arabic: أَوۡ
     translation: nor
     transliteration: aw
   11:
-    arabic: تَفۡرِضُوۡا
+    arabic: تَفۡرِضُواْ
     translation: you specified
     transliteration: tafriḍū
   12:
@@ -57,11 +56,11 @@ word_by_word:
     translation: for them
     transliteration: lahunna
   13:
-    arabic: فَرِيۡضَةً  ۖۚ
+    arabic: فَرِيضَةٗۚ
     translation: an obligation (dower)
     transliteration: farīḍatan
   14:
-    arabic: وَّمَتِّعُوۡهُنَّ ​ۚ
+    arabic: وَمَتِّعُوهُنَّ
     translation: 'And make provision for them '
     transliteration: wamattiʿūhunna
   15:
@@ -69,31 +68,31 @@ word_by_word:
     translation: upon
     transliteration: ʿalā
   16:
-    arabic: الۡمُوۡسِعِ
+    arabic: ٱلۡمُوسِعِ
     translation: the wealthy
     transliteration: l-mūsiʿi
   17:
-    arabic: قَدَرُهٗ
+    arabic: قَدَرُهُۥ
     translation: according to his means
     transliteration: qadaruhu
   18:
-    arabic: وَ عَلَى
+    arabic: وَعَلَى
     translation: and upon
     transliteration: waʿalā
   19:
-    arabic: الۡمُقۡتِرِ
+    arabic: ٱلۡمُقۡتِرِ
     translation: the poor
     transliteration: l-muq'tiri
   20:
-    arabic: قَدَرُهٗ ​ۚ
+    arabic: قَدَرُهُۥ
     translation: 'according to his means '
     transliteration: qadaruhu
   21:
-    arabic: مَتَاعًا ۢ
+    arabic: مَتَٰعَۢا
     translation: a provision
     transliteration: matāʿan
   22:
-    arabic: بِالۡمَعۡرُوۡفِ​​ۚ
+    arabic: بِٱلۡمَعۡرُوفِۖ
     translation: in a fair manner
     transliteration: bil-maʿrūfi
   23:
@@ -105,7 +104,7 @@ word_by_word:
     translation: upon
     transliteration: ʿalā
   25:
-    arabic: "الۡمُحۡسِنِيۡنَ‏ \uFEFF\uFEFF"
+    arabic: ٱلۡمُحۡسِنِينَ
     translation: the good-doers
     transliteration: l-muḥ'sinīna
 ---

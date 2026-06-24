@@ -1,17 +1,17 @@
 ---
-arabic_ayat: يٰۤـاَهۡلَ الۡكِتٰبِ قَدۡ جَآءَكُمۡ رَسُوۡلُـنَا يُبَيِّنُ لَـكُمۡ كَثِيۡرًا
-  مِّمَّا كُنۡتُمۡ تُخۡفُوۡنَ مِنَ الۡكِتٰبِ وَيَعۡفُوۡا عَنۡ كَثِيۡرٍ​ ؕ قَدۡ جَآءَكُمۡ
-  مِّنَ اللّٰهِ نُوۡرٌ وَّكِتٰبٌ مُّبِيۡنٌ ۙ‏
+arabic_ayat: يَٰٓأَهۡلَ ٱلۡكِتَٰبِ قَدۡ جَآءَكُمۡ رَسُولُنَا يُبَيِّنُ لَكُمۡ كَثِيرٗا
+  مِّمَّا كُنتُمۡ تُخۡفُونَ مِنَ ٱلۡكِتَٰبِ وَيَعۡفُواْ عَن كَثِيرٖۚ قَدۡ جَآءَكُم
+  مِّنَ ٱللَّهِ نُورٞ وَكِتَٰبٞ مُّبِينٞ
 sentence_translation: O People of the Book! Now Our Messenger has come to you, revealing
   much of what you have hidden of the Scriptures and disregarding much. There certainly
   has come to you from Allah a light and a clear Book
 word_by_word:
   1:
-    arabic: يٰۤـاَهۡلَ
+    arabic: يَٰٓأَهۡلَ
     translation: O People
     transliteration: yāahla
   2:
-    arabic: الۡكِتٰبِ
+    arabic: ٱلۡكِتَٰبِ
     translation: (of) the Book
     transliteration: l-kitābi
   3:
@@ -23,7 +23,7 @@ word_by_word:
     translation: has come to you
     transliteration: jāakum
   5:
-    arabic: رَسُوۡلُـنَا
+    arabic: رَسُولُنَا
     translation: Our Messenger
     transliteration: rasūlunā
   6:
@@ -31,11 +31,11 @@ word_by_word:
     translation: making clear
     transliteration: yubayyinu
   7:
-    arabic: لَـكُمۡ
+    arabic: لَكُمۡ
     translation: to you
     transliteration: lakum
   8:
-    arabic: كَثِيۡرًا
+    arabic: كَثِيرٗا
     translation: much
     transliteration: kathīran
   9:
@@ -43,11 +43,11 @@ word_by_word:
     translation: of what
     transliteration: mimmā
   10:
-    arabic: كُنۡتُمۡ
+    arabic: كُنتُمۡ
     translation: you used to
     transliteration: kuntum
   11:
-    arabic: تُخۡفُوۡنَ
+    arabic: تُخۡفُونَ
     translation: conceal
     transliteration: tukh'fūna
   12:
@@ -55,19 +55,19 @@ word_by_word:
     translation: of
     transliteration: mina
   13:
-    arabic: الۡكِتٰبِ
+    arabic: ٱلۡكِتَٰبِ
     translation: the Scripture
     transliteration: l-kitābi
   14:
-    arabic: وَيَعۡفُوۡا
+    arabic: وَيَعۡفُواْ
     translation: and overlooking
     transliteration: wayaʿfū
   15:
-    arabic: عَنۡ
+    arabic: عَن
     translation: of
     transliteration: ʿan
   16:
-    arabic: كَثِيۡرٍ​ ؕ
+    arabic: كَثِيرٖۚ
     translation: much
     transliteration: kathīrin
   17:
@@ -75,7 +75,7 @@ word_by_word:
     translation: Surely
     transliteration: qad
   18:
-    arabic: جَآءَكُمۡ
+    arabic: جَآءَكُم
     translation: has come to you
     transliteration: jāakum
   19:
@@ -83,19 +83,19 @@ word_by_word:
     translation: from
     transliteration: mina
   20:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   21:
-    arabic: نُوۡرٌ
+    arabic: نُورٞ
     translation: a light
     transliteration: nūrun
   22:
-    arabic: وَّكِتٰبٌ
+    arabic: وَكِتَٰبٞ
     translation: and a Book
     transliteration: wakitābun
   23:
-    arabic: مُّبِيۡنٌ ۙ‏
+    arabic: مُّبِينٞ
     translation: clear
     transliteration: mubīnun
 ---

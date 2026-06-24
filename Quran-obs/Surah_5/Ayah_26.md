@@ -1,16 +1,16 @@
 ---
-arabic_ayat: ​قَالَ فَاِنَّهَا مُحَرَّمَةٌ عَلَيۡهِمۡ​ اَرۡبَعِيۡنَ سَنَةً​​  ۚ يَتِيۡهُوۡنَ
-  فِى الۡاَرۡضِ​ ؕ فَلَا تَاۡسَ عَلَى الۡقَوۡمِ الۡفٰسِقِيۡنَ‏
+arabic_ayat: قَالَ فَإِنَّهَا مُحَرَّمَةٌ عَلَيۡهِمۡۛ أَرۡبَعِينَ سَنَةٗۛ يَتِيهُونَ
+  فِي ٱلۡأَرۡضِۚ فَلَا تَأۡسَ عَلَى ٱلۡقَوۡمِ ٱلۡفَٰسِقِينَ
 sentence_translation: Allah replied, “Then this land is forbidden to them for forty
   years, during which they will wander through the land. So do not grieve for the
   rebellious people.”
 word_by_word:
   1:
-    arabic: ​قَالَ
+    arabic: قَالَ
     translation: (Allah) said
     transliteration: qāla
   2:
-    arabic: فَاِنَّهَا
+    arabic: فَإِنَّهَا
     translation: Then indeed it
     transliteration: fa-innahā
   3:
@@ -18,27 +18,27 @@ word_by_word:
     translation: (will be) forbidden
     transliteration: muḥarramatun
   4:
-    arabic: عَلَيۡهِمۡ​
+    arabic: عَلَيۡهِمۡۛ
     translation: to them
     transliteration: ʿalayhim
   5:
-    arabic: اَرۡبَعِيۡنَ
+    arabic: أَرۡبَعِينَ
     translation: (for) forty
     transliteration: arbaʿīna
   6:
-    arabic: سَنَةً​​  ۚ
+    arabic: سَنَةٗۛ
     translation: years
     transliteration: sanatan
   7:
-    arabic: يَتِيۡهُوۡنَ
+    arabic: يَتِيهُونَ
     translation: they will wander
     transliteration: yatīhūna
   8:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   9:
-    arabic: الۡاَرۡضِ​ ؕ
+    arabic: ٱلۡأَرۡضِۚ
     translation: the earth
     transliteration: l-arḍi
   10:
@@ -46,7 +46,7 @@ word_by_word:
     translation: So (do) not
     transliteration: falā
   11:
-    arabic: تَاۡسَ
+    arabic: تَأۡسَ
     translation: grieve
     transliteration: tasa
   12:
@@ -54,11 +54,11 @@ word_by_word:
     translation: over
     transliteration: ʿalā
   13:
-    arabic: الۡقَوۡمِ
+    arabic: ٱلۡقَوۡمِ
     translation: the people
     transliteration: l-qawmi
   14:
-    arabic: الۡفٰسِقِيۡنَ‏
+    arabic: ٱلۡفَٰسِقِينَ
     translation: the defiantly disobedient
     transliteration: l-fāsiqīna
 ---

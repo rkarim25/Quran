@@ -1,17 +1,17 @@
 ---
-arabic_ayat: فَاَعۡرَضُوۡا فَاَرۡسَلۡنَا عَلَيۡهِمۡ سَيۡلَ الۡعَرِمِ وَبَدَّلۡنٰهُمۡ
-  بِجَنَّتَيۡهِمۡ جَنَّتَيۡنِ ذَوَاتَىۡ اُكُلٍ خَمۡطٍ وَّاَثۡلٍ وَّشَىۡءٍ مِّنۡ سِدۡرٍ
-  قَلِيۡلٍ‏
+arabic_ayat: فَأَعۡرَضُواْ فَأَرۡسَلۡنَا عَلَيۡهِمۡ سَيۡلَ ٱلۡعَرِمِ وَبَدَّلۡنَٰهُم
+  بِجَنَّتَيۡهِمۡ جَنَّتَيۡنِ ذَوَاتَيۡ أُكُلٍ خَمۡطٖ وَأَثۡلٖ وَشَيۡءٖ مِّن سِدۡرٖ
+  قَلِيلٖ
 sentence_translation: But they turned away. So We sent against them a devastating
   flood, and replaced their orchards with two others producing bitter fruit, fruitless
   bushes, and a few ˹sparse˺ thorny trees.
 word_by_word:
   1:
-    arabic: فَاَعۡرَضُوۡا
+    arabic: فَأَعۡرَضُواْ
     translation: But they turned away
     transliteration: fa-aʿraḍū
   2:
-    arabic: فَاَرۡسَلۡنَا
+    arabic: فَأَرۡسَلۡنَا
     translation: so We sent
     transliteration: fa-arsalnā
   3:
@@ -23,11 +23,11 @@ word_by_word:
     translation: (the) flood
     transliteration: sayla
   5:
-    arabic: الۡعَرِمِ
+    arabic: ٱلۡعَرِمِ
     translation: (of) the dam
     transliteration: l-ʿarimi
   6:
-    arabic: وَبَدَّلۡنٰهُمۡ
+    arabic: وَبَدَّلۡنَٰهُم
     translation: and We changed for them
     transliteration: wabaddalnāhum
   7:
@@ -39,35 +39,35 @@ word_by_word:
     translation: (with) two gardens
     transliteration: jannatayni
   9:
-    arabic: ذَوَاتَىۡ
+    arabic: ذَوَاتَيۡ
     translation: producing fruit
     transliteration: dhawātay
   10:
-    arabic: اُكُلٍ
+    arabic: أُكُلٍ
     translation: producing fruit
     transliteration: ukulin
   11:
-    arabic: خَمۡطٍ
+    arabic: خَمۡطٖ
     translation: bitter
     transliteration: khamṭin
   12:
-    arabic: وَّاَثۡلٍ
+    arabic: وَأَثۡلٖ
     translation: and tamarisks
     transliteration: wa-athlin
   13:
-    arabic: وَّشَىۡءٍ
+    arabic: وَشَيۡءٖ
     translation: and (some)thing
     transliteration: washayin
   14:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: of
     transliteration: min
   15:
-    arabic: سِدۡرٍ
+    arabic: سِدۡرٖ
     translation: lote trees
     transliteration: sid'rin
   16:
-    arabic: قَلِيۡلٍ‏
+    arabic: قَلِيلٖ
     translation: few
     transliteration: qalīlin
 ---

@@ -1,17 +1,17 @@
 ---
-arabic_ayat: اِنَّمَا التَّوۡبَةُ عَلَى اللّٰهِ لِلَّذِيۡنَ يَعۡمَلُوۡنَ السُّوۡٓءَ
-  بِجَهَالَةٍ ثُمَّ يَتُوۡبُوۡنَ مِنۡ قَرِيۡبٍ فَاُولٰٓٮِٕكَ يَتُوۡبُ اللّٰهُ عَلَيۡهِمۡ​ؕ
-  وَكَانَ اللّٰهُ عَلِيۡمًا حَكِيۡمًا‏
+arabic_ayat: إِنَّمَا ٱلتَّوۡبَةُ عَلَى ٱللَّهِ لِلَّذِينَ يَعۡمَلُونَ ٱلسُّوٓءَ بِجَهَٰلَةٖ
+  ثُمَّ يَتُوبُونَ مِن قَرِيبٖ فَأُوْلَٰٓئِكَ يَتُوبُ ٱللَّهُ عَلَيۡهِمۡۗ وَكَانَ
+  ٱللَّهُ عَلِيمًا حَكِيمٗا
 sentence_translation: Allah only accepts the repentance of those who commit evil ignorantly
   ˹or recklessly˺ then repent soon after—Allah will pardon them. And Allah is All-Knowing,
   All-Wise.
 word_by_word:
   1:
-    arabic: اِنَّمَا
+    arabic: إِنَّمَا
     translation: Only
     transliteration: innamā
   2:
-    arabic: التَّوۡبَةُ
+    arabic: ٱلتَّوۡبَةُ
     translation: the acceptance of repentance
     transliteration: l-tawbatu
   3:
@@ -19,23 +19,23 @@ word_by_word:
     translation: by
     transliteration: ʿalā
   4:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   5:
-    arabic: لِلَّذِيۡنَ
+    arabic: لِلَّذِينَ
     translation: (is) for those who
     transliteration: lilladhīna
   6:
-    arabic: يَعۡمَلُوۡنَ
+    arabic: يَعۡمَلُونَ
     translation: do
     transliteration: yaʿmalūna
   7:
-    arabic: السُّوۡٓءَ
+    arabic: ٱلسُّوٓءَ
     translation: the evil
     transliteration: l-sūa
   8:
-    arabic: بِجَهَالَةٍ
+    arabic: بِجَهَٰلَةٖ
     translation: in ignorance
     transliteration: bijahālatin
   9:
@@ -43,31 +43,31 @@ word_by_word:
     translation: then
     transliteration: thumma
   10:
-    arabic: يَتُوۡبُوۡنَ
+    arabic: يَتُوبُونَ
     translation: they repent
     transliteration: yatūbūna
   11:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   12:
-    arabic: قَرِيۡبٍ
+    arabic: قَرِيبٖ
     translation: soon after
     transliteration: qarībin
   13:
-    arabic: فَاُولٰٓٮِٕكَ
+    arabic: فَأُوْلَٰٓئِكَ
     translation: Then those
     transliteration: fa-ulāika
   14:
-    arabic: يَتُوۡبُ
+    arabic: يَتُوبُ
     translation: will have forgiveness
     transliteration: yatūbu
   15:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: (from) Allah
     transliteration: l-lahu
   16:
-    arabic: عَلَيۡهِمۡ​ؕ
+    arabic: عَلَيۡهِمۡۗ
     translation: upon them
     transliteration: ʿalayhim
   17:
@@ -75,15 +75,15 @@ word_by_word:
     translation: and is
     transliteration: wakāna
   18:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   19:
-    arabic: عَلِيۡمًا
+    arabic: عَلِيمًا
     translation: All-Knowing
     transliteration: ʿalīman
   20:
-    arabic: حَكِيۡمًا‏
+    arabic: حَكِيمٗا
     translation: All-Wise
     transliteration: ḥakīman
 ---

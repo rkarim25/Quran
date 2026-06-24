@@ -1,5 +1,5 @@
 ---
-arabic_ayat: لَعَلَّكَ بَاخِعٌ نَّـفۡسَكَ اَلَّا يَكُوۡنُوۡا مُؤۡمِنِيۡنَ‏
+arabic_ayat: لَعَلَّكَ بَٰخِعٞ نَّفۡسَكَ أَلَّا يَكُونُواْ مُؤۡمِنِينَ
 sentence_translation: Perhaps you ˹O Prophet˺ will grieve yourself to death over their
   disbelief.
 word_by_word:
@@ -8,23 +8,23 @@ word_by_word:
     translation: Perhaps you
     transliteration: laʿallaka
   2:
-    arabic: بَاخِعٌ
+    arabic: بَٰخِعٞ
     translation: (would) kill
     transliteration: bākhiʿun
   3:
-    arabic: نَّـفۡسَكَ
+    arabic: نَّفۡسَكَ
     translation: yourself
     transliteration: nafsaka
   4:
-    arabic: اَلَّا
+    arabic: أَلَّا
     translation: that not
     transliteration: allā
   5:
-    arabic: يَكُوۡنُوۡا
+    arabic: يَكُونُواْ
     translation: they become
     transliteration: yakūnū
   6:
-    arabic: مُؤۡمِنِيۡنَ‏
+    arabic: مُؤۡمِنِينَ
     translation: believers
     transliteration: mu'minīna
 ---

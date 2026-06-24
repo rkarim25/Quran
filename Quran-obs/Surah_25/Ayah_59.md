@@ -1,12 +1,12 @@
 ---
-arabic_ayat: اۨلَّذِىۡ خَلَقَ السَّمٰوٰتِ وَالۡاَرۡضَ وَمَا بَيۡنَهُمَا فِىۡ سِتَّةِ
-  اَيَّامٍ ثُمَّ اسۡتَوٰى عَلَى الۡعَرۡشِ ​ۛۚ اَلرَّحۡمٰنُ فَسۡـَٔـــلۡ بِهٖ خَبِيۡرًا‏
+arabic_ayat: ٱلَّذِي خَلَقَ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضَ وَمَا بَيۡنَهُمَا فِي سِتَّةِ
+  أَيَّامٖ ثُمَّ ٱسۡتَوَىٰ عَلَى ٱلۡعَرۡشِۖ ٱلرَّحۡمَٰنُ فَسۡـَٔلۡ بِهِۦ خَبِيرٗا
 sentence_translation: ˹He is˺ the One Who created the heavens and the earth and everything
   in between in six Days, then established Himself on the Throne. ˹He is˺ the Most
   Compassionate! Ask ˹none other than˺ the All-Knowledgeable about Himself.
 word_by_word:
   1:
-    arabic: اۨلَّذِىۡ
+    arabic: ٱلَّذِي
     translation: The One Who
     transliteration: alladhī
   2:
@@ -14,11 +14,11 @@ word_by_word:
     translation: created
     transliteration: khalaqa
   3:
-    arabic: السَّمٰوٰتِ
+    arabic: ٱلسَّمَٰوَٰتِ
     translation: the heavens
     transliteration: l-samāwāti
   4:
-    arabic: وَالۡاَرۡضَ
+    arabic: وَٱلۡأَرۡضَ
     translation: and the earth
     transliteration: wal-arḍa
   5:
@@ -30,7 +30,7 @@ word_by_word:
     translation: (is) between them
     transliteration: baynahumā
   7:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   8:
@@ -38,7 +38,7 @@ word_by_word:
     translation: six
     transliteration: sittati
   9:
-    arabic: اَيَّامٍ
+    arabic: أَيَّامٖ
     translation: periods
     transliteration: ayyāmin
   10:
@@ -46,7 +46,7 @@ word_by_word:
     translation: then
     transliteration: thumma
   11:
-    arabic: اسۡتَوٰى
+    arabic: ٱسۡتَوَىٰ
     translation: He established Himself
     transliteration: is'tawā
   12:
@@ -54,23 +54,23 @@ word_by_word:
     translation: over
     transliteration: ʿalā
   13:
-    arabic: الۡعَرۡشِ ​ۛۚ
+    arabic: ٱلۡعَرۡشِۖ
     translation: 'the Throne '
     transliteration: l-ʿarshi
   14:
-    arabic: اَلرَّحۡمٰنُ
+    arabic: ٱلرَّحۡمَٰنُ
     translation: the Most Gracious
     transliteration: l-raḥmānu
   15:
-    arabic: فَسۡـَٔـــلۡ
+    arabic: فَسۡـَٔلۡ
     translation: so ask
     transliteration: fasal
   16:
-    arabic: بِهٖ
+    arabic: بِهِۦ
     translation: Him
     transliteration: bihi
   17:
-    arabic: خَبِيۡرًا‏
+    arabic: خَبِيرٗا
     translation: (as He is) All-Aware
     transliteration: khabīran
 ---

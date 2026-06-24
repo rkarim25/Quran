@@ -1,15 +1,14 @@
 ---
-arabic_ayat: "يَمۡحُوۡا اللّٰهُ مَا يَشَآءُ وَيُثۡبِتُ ​ۖ ​ۚ وَعِنۡدَهٗۤ اُمُّ الۡكِتٰبِ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: يَمۡحُواْ ٱللَّهُ مَا يَشَآءُ وَيُثۡبِتُۖ وَعِندَهُۥٓ أُمُّ ٱلۡكِتَٰبِ
 sentence_translation: Allah eliminates and confirms what He wills, and with Him is
   the Master Record. 
 word_by_word:
   1:
-    arabic: يَمۡحُوۡا
+    arabic: يَمۡحُواْ
     translation: (Is) eliminated
     transliteration: yamḥū
   2:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: (by) Allah
     transliteration: l-lahu
   3:
@@ -21,19 +20,19 @@ word_by_word:
     translation: He wills
     transliteration: yashāu
   5:
-    arabic: وَيُثۡبِتُ ​ۖ ​ۚ
+    arabic: وَيُثۡبِتُۖ
     translation: and confirms
     transliteration: wayuth'bitu
   6:
-    arabic: وَعِنۡدَهٗۤ
+    arabic: وَعِندَهُۥٓ
     translation: and with Him
     transliteration: waʿindahu
   7:
-    arabic: اُمُّ
+    arabic: أُمُّ
     translation: (is) the Mother (of) the Book
     transliteration: ummu
   8:
-    arabic: "الۡكِتٰبِ‏ \uFEFF\uFEFF"
+    arabic: ٱلۡكِتَٰبِ
     translation: (is) the Mother (of) the Book
     transliteration: l-kitābi
 ---

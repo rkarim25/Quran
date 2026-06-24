@@ -1,9 +1,9 @@
 ---
-arabic_ayat: اِنَّ يَوۡمَ الۡفَصۡلِ كَانَ مِيۡقَاتًا ۙ‏
+arabic_ayat: إِنَّ يَوۡمَ ٱلۡفَصۡلِ كَانَ مِيقَٰتٗا
 sentence_translation: Indeed, the Day of ˹Final˺ Decision is an appointed time—
 word_by_word:
   1:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   2:
@@ -11,7 +11,7 @@ word_by_word:
     translation: (the) Day
     transliteration: yawma
   3:
-    arabic: الۡفَصۡلِ
+    arabic: ٱلۡفَصۡلِ
     translation: (of) the Judgment
     transliteration: l-faṣli
   4:
@@ -19,7 +19,7 @@ word_by_word:
     translation: is
     transliteration: kāna
   5:
-    arabic: مِيۡقَاتًا ۙ‏
+    arabic: مِيقَٰتٗا
     translation: an appointed time
     transliteration: mīqātan
 ---

@@ -1,15 +1,15 @@
 ---
-arabic_ayat: اُولٰٓٮِٕكَ الَّذِيۡنَ لَهُمۡ سُوۡٓءُ الۡعَذَابِ وَهُمۡ فِى الۡاٰخِرَةِ
-  هُمُ الۡاَخۡسَرُوۡنَ‏
+arabic_ayat: أُوْلَٰٓئِكَ ٱلَّذِينَ لَهُمۡ سُوٓءُ ٱلۡعَذَابِ وَهُمۡ فِي ٱلۡأٓخِرَةِ
+  هُمُ ٱلۡأَخۡسَرُونَ
 sentence_translation: It is they who will suffer a dreadful torment, and in the Hereafter
   they will ˹truly˺ be the greatest losers.
 word_by_word:
   1:
-    arabic: اُولٰٓٮِٕكَ
+    arabic: أُوْلَٰٓئِكَ
     translation: Those
     transliteration: ulāika
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: (are) the ones
     transliteration: alladhīna
   3:
@@ -17,11 +17,11 @@ word_by_word:
     translation: for them
     transliteration: lahum
   4:
-    arabic: سُوۡٓءُ
+    arabic: سُوٓءُ
     translation: (is) an evil
     transliteration: sūu
   5:
-    arabic: الۡعَذَابِ
+    arabic: ٱلۡعَذَابِ
     translation: '[the] punishment'
     transliteration: l-ʿadhābi
   6:
@@ -29,11 +29,11 @@ word_by_word:
     translation: and they
     transliteration: wahum
   7:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   8:
-    arabic: الۡاٰخِرَةِ
+    arabic: ٱلۡأٓخِرَةِ
     translation: the Hereafter
     transliteration: l-ākhirati
   9:
@@ -41,7 +41,7 @@ word_by_word:
     translation: '[they]'
     transliteration: humu
   10:
-    arabic: الۡاَخۡسَرُوۡنَ‏
+    arabic: ٱلۡأَخۡسَرُونَ
     translation: (will be) the greatest losers
     transliteration: l-akhsarūna
 ---

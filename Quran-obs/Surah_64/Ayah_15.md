@@ -1,39 +1,39 @@
 ---
-arabic_ayat: اِنَّمَاۤ اَمۡوَالُـكُمۡ وَاَوۡلَادُكُمۡ فِتۡنَةٌ ​ؕ وَاللّٰهُ عِنۡدَهٗۤ
-  اَجۡرٌ عَظِيۡمٌ‏
+arabic_ayat: إِنَّمَآ أَمۡوَٰلُكُمۡ وَأَوۡلَٰدُكُمۡ فِتۡنَةٞۚ وَٱللَّهُ عِندَهُۥٓ
+  أَجۡرٌ عَظِيمٞ
 sentence_translation: Your wealth and children are only a test, but Allah ˹alone˺
   has a great reward.
 word_by_word:
   1:
-    arabic: اِنَّمَاۤ
+    arabic: إِنَّمَآ
     translation: Only
     transliteration: innamā
   2:
-    arabic: اَمۡوَالُـكُمۡ
+    arabic: أَمۡوَٰلُكُمۡ
     translation: your wealth
     transliteration: amwālukum
   3:
-    arabic: وَاَوۡلَادُكُمۡ
+    arabic: وَأَوۡلَٰدُكُمۡ
     translation: and your children
     transliteration: wa-awlādukum
   4:
-    arabic: فِتۡنَةٌ ​ؕ
+    arabic: فِتۡنَةٞۚ
     translation: (are) a trial
     transliteration: fit'natun
   5:
-    arabic: وَاللّٰهُ
+    arabic: وَٱللَّهُ
     translation: 'and Allah '
     transliteration: wal-lahu
   6:
-    arabic: عِنۡدَهٗۤ
+    arabic: عِندَهُۥٓ
     translation: with Him
     transliteration: ʿindahu
   7:
-    arabic: اَجۡرٌ
+    arabic: أَجۡرٌ
     translation: (is) a reward
     transliteration: ajrun
   8:
-    arabic: عَظِيۡمٌ‏
+    arabic: عَظِيمٞ
     translation: great
     transliteration: ʿaẓīmun
 ---

@@ -1,13 +1,13 @@
 ---
-arabic_ayat: وَحَدَآٮِٕقَ غُلۡبًا ۙ‏
+arabic_ayat: وَحَدَآئِقَ غُلۡبٗا
 sentence_translation: and dense orchards,
 word_by_word:
   1:
-    arabic: وَحَدَآٮِٕقَ
+    arabic: وَحَدَآئِقَ
     translation: And gardens
     transliteration: waḥadāiqa
   2:
-    arabic: غُلۡبًا ۙ‏
+    arabic: غُلۡبٗا
     translation: (of) thick foliage
     transliteration: ghul'ban
 ---

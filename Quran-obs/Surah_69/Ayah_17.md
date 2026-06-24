@@ -1,19 +1,19 @@
 ---
-arabic_ayat: وَّالۡمَلَكُ عَلٰٓى اَرۡجَآٮِٕهَا ​ؕ وَيَحۡمِلُ عَرۡشَ رَبِّكَ فَوۡقَهُمۡ
-  يَوۡمَٮِٕذٍ ثَمٰنِيَةٌ ؕ‏
+arabic_ayat: وَٱلۡمَلَكُ عَلَىٰٓ أَرۡجَآئِهَاۚ وَيَحۡمِلُ عَرۡشَ رَبِّكَ فَوۡقَهُمۡ
+  يَوۡمَئِذٖ ثَمَٰنِيَةٞ
 sentence_translation: with the angels on its sides. On that Day eight ˹mighty angels˺
   will bear the Throne of your Lord above them.
 word_by_word:
   1:
-    arabic: وَّالۡمَلَكُ
+    arabic: وَٱلۡمَلَكُ
     translation: And the Angels
     transliteration: wal-malaku
   2:
-    arabic: عَلٰٓى
+    arabic: عَلَىٰٓ
     translation: (will be) on
     transliteration: ʿalā
   3:
-    arabic: اَرۡجَآٮِٕهَا ​ؕ
+    arabic: أَرۡجَآئِهَاۚ
     translation: its edges
     transliteration: arjāihā
   4:
@@ -33,11 +33,11 @@ word_by_word:
     translation: above them
     transliteration: fawqahum
   8:
-    arabic: يَوۡمَٮِٕذٍ
+    arabic: يَوۡمَئِذٖ
     translation: that Day
     transliteration: yawma-idhin
   9:
-    arabic: ثَمٰنِيَةٌ ؕ‏
+    arabic: ثَمَٰنِيَةٞ
     translation: eight
     transliteration: thamāniyatun
 ---

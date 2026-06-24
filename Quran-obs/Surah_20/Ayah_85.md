@@ -1,6 +1,5 @@
 ---
-arabic_ayat: "قَالَ فَاِنَّا قَدۡ فَتَـنَّا قَوۡمَكَ مِنۡۢ بَعۡدِكَ وَاَضَلَّهُمُ\
-  \ السَّامِرِىُّ‏ \uFEFF\uFEFF"
+arabic_ayat: قَالَ فَإِنَّا قَدۡ فَتَنَّا قَوۡمَكَ مِنۢ بَعۡدِكَ وَأَضَلَّهُمُ ٱلسَّامِرِيُّ
 sentence_translation: Allah responded, “We have indeed tested your people in your
   absence, and the Sâmiri has led them astray.”
 word_by_word:
@@ -9,7 +8,7 @@ word_by_word:
     translation: He said
     transliteration: qāla
   2:
-    arabic: فَاِنَّا
+    arabic: فَإِنَّا
     translation: But indeed, We
     transliteration: fa-innā
   3:
@@ -17,7 +16,7 @@ word_by_word:
     translation: '[verily]'
     transliteration: qad
   4:
-    arabic: فَتَـنَّا
+    arabic: فَتَنَّا
     translation: We (have) tried
     transliteration: fatannā
   5:
@@ -25,7 +24,7 @@ word_by_word:
     translation: your people
     transliteration: qawmaka
   6:
-    arabic: مِنۡۢ
+    arabic: مِنۢ
     translation: after you
     transliteration: min
   7:
@@ -33,11 +32,11 @@ word_by_word:
     translation: after you
     transliteration: baʿdika
   8:
-    arabic: وَاَضَلَّهُمُ
+    arabic: وَأَضَلَّهُمُ
     translation: and has led them astray
     transliteration: wa-aḍallahumu
   9:
-    arabic: "السَّامِرِىُّ‏ \uFEFF\uFEFF"
+    arabic: ٱلسَّامِرِيُّ
     translation: the Samiri
     transliteration: l-sāmiriyu
 ---

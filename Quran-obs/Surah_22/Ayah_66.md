@@ -1,6 +1,6 @@
 ---
-arabic_ayat: وَهُوَ الَّذِىۡۤ اَحۡيَاكُمۡ ثُمَّ يُمِيۡتُكُمۡ ثُمَّ يُحۡيِيۡكُمۡ​
-  ؕ اِنَّ الۡاِنۡسَانَ لَـكَفُوۡرٌ‏
+arabic_ayat: وَهُوَ ٱلَّذِيٓ أَحۡيَاكُمۡ ثُمَّ يُمِيتُكُمۡ ثُمَّ يُحۡيِيكُمۡۗ إِنَّ
+  ٱلۡإِنسَٰنَ لَكَفُورٞ
 sentence_translation: And He is the One Who gave you life, then will cause you to
   die, and then will bring you back to life. ˹But˺ surely humankind is ever ungrateful.
 word_by_word:
@@ -9,11 +9,11 @@ word_by_word:
     translation: And He
     transliteration: wahuwa
   2:
-    arabic: الَّذِىۡۤ
+    arabic: ٱلَّذِيٓ
     translation: (is) the One Who
     transliteration: alladhī
   3:
-    arabic: اَحۡيَاكُمۡ
+    arabic: أَحۡيَاكُمۡ
     translation: gave you life
     transliteration: aḥyākum
   4:
@@ -21,7 +21,7 @@ word_by_word:
     translation: then
     transliteration: thumma
   5:
-    arabic: يُمِيۡتُكُمۡ
+    arabic: يُمِيتُكُمۡ
     translation: He will cause you to die
     transliteration: yumītukum
   6:
@@ -29,19 +29,19 @@ word_by_word:
     translation: then
     transliteration: thumma
   7:
-    arabic: يُحۡيِيۡكُمۡ​ ؕ
+    arabic: يُحۡيِيكُمۡۗ
     translation: He will give you life (again)
     transliteration: yuḥ'yīkum
   8:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   9:
-    arabic: الۡاِنۡسَانَ
+    arabic: ٱلۡإِنسَٰنَ
     translation: man
     transliteration: l-insāna
   10:
-    arabic: لَـكَفُوۡرٌ‏
+    arabic: لَكَفُورٞ
     translation: (is) surely ungrateful
     transliteration: lakafūrun
 ---

@@ -1,6 +1,6 @@
 ---
-arabic_ayat: قَالَ فَاِنِ اتَّبَعۡتَنِىۡ فَلَا تَسۡـَٔـلۡنِىۡ عَنۡ شَىۡءٍ حَتّٰٓى
-  اُحۡدِثَ لَـكَ مِنۡهُ ذِكۡرًا‏
+arabic_ayat: قَالَ فَإِنِ ٱتَّبَعۡتَنِي فَلَا تَسۡـَٔلۡنِي عَن شَيۡءٍ حَتَّىٰٓ أُحۡدِثَ
+  لَكَ مِنۡهُ ذِكۡرٗا
 sentence_translation: He responded, “Then if you follow me, do not question me about
   anything until I ˹myself˺ clarify it for you.”
 word_by_word:
@@ -9,11 +9,11 @@ word_by_word:
     translation: He said
     transliteration: qāla
   2:
-    arabic: فَاِنِ
+    arabic: فَإِنِ
     translation: Then if
     transliteration: fa-ini
   3:
-    arabic: اتَّبَعۡتَنِىۡ
+    arabic: ٱتَّبَعۡتَنِي
     translation: you follow me
     transliteration: ittabaʿtanī
   4:
@@ -21,27 +21,27 @@ word_by_word:
     translation: (do) not
     transliteration: falā
   5:
-    arabic: تَسۡـَٔـلۡنِىۡ
+    arabic: تَسۡـَٔلۡنِي
     translation: ask me
     transliteration: tasalnī
   6:
-    arabic: عَنۡ
+    arabic: عَن
     translation: about
     transliteration: ʿan
   7:
-    arabic: شَىۡءٍ
+    arabic: شَيۡءٍ
     translation: anything
     transliteration: shayin
   8:
-    arabic: حَتّٰٓى
+    arabic: حَتَّىٰٓ
     translation: until
     transliteration: ḥattā
   9:
-    arabic: اُحۡدِثَ
+    arabic: أُحۡدِثَ
     translation: I present
     transliteration: uḥ'ditha
   10:
-    arabic: لَـكَ
+    arabic: لَكَ
     translation: to you
     transliteration: laka
   11:
@@ -49,7 +49,7 @@ word_by_word:
     translation: of it
     transliteration: min'hu
   12:
-    arabic: ذِكۡرًا‏
+    arabic: ذِكۡرٗا
     translation: a mention
     transliteration: dhik'ran
 ---

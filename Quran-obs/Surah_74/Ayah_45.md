@@ -1,5 +1,5 @@
 ---
-arabic_ayat: وَكُنَّا نَخُوۡضُ مَعَ الۡخَـآٮِٕضِيۡنَۙ‏
+arabic_ayat: وَكُنَّا نَخُوضُ مَعَ ٱلۡخَآئِضِينَ
 sentence_translation: We used to indulge ˹in falsehood˺ along with others,
 word_by_word:
   1:
@@ -7,7 +7,7 @@ word_by_word:
     translation: And we used to
     transliteration: wakunnā
   2:
-    arabic: نَخُوۡضُ
+    arabic: نَخُوضُ
     translation: indulge in vain talk
     transliteration: nakhūḍu
   3:
@@ -15,7 +15,7 @@ word_by_word:
     translation: with
     transliteration: maʿa
   4:
-    arabic: الۡخَـآٮِٕضِيۡنَۙ‏
+    arabic: ٱلۡخَآئِضِينَ
     translation: the vain talkers
     transliteration: l-khāiḍīna
 ---

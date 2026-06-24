@@ -1,6 +1,6 @@
 ---
-arabic_ayat: لَا الشَّمۡسُ يَنۡۢبَغِىۡ لَهَاۤ اَنۡ تُدۡرِكَ الۡقَمَرَ وَلَا الَّيۡلُ
-  سَابِقُ النَّهَارِ​ؕ وَكُلٌّ فِىۡ فَلَكٍ يَّسۡبَحُوۡنَ‏
+arabic_ayat: لَا ٱلشَّمۡسُ يَنۢبَغِي لَهَآ أَن تُدۡرِكَ ٱلۡقَمَرَ وَلَا ٱلَّيۡلُ
+  سَابِقُ ٱلنَّهَارِۚ وَكُلّٞ فِي فَلَكٖ يَسۡبَحُونَ
 sentence_translation: It is not for the sun to catch up with the moon, nor does the
   night outrun the day. Each is travelling in an orbit of their own.
 word_by_word:
@@ -9,19 +9,19 @@ word_by_word:
     translation: Not
     transliteration: lā
   2:
-    arabic: الشَّمۡسُ
+    arabic: ٱلشَّمۡسُ
     translation: the sun
     transliteration: l-shamsu
   3:
-    arabic: يَنۡۢبَغِىۡ
+    arabic: يَنۢبَغِي
     translation: is permitted
     transliteration: yanbaghī
   4:
-    arabic: لَهَاۤ
+    arabic: لَهَآ
     translation: 'for it '
     transliteration: lahā
   5:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that
     transliteration: an
   6:
@@ -29,7 +29,7 @@ word_by_word:
     translation: it overtakes
     transliteration: tud'rika
   7:
-    arabic: الۡقَمَرَ
+    arabic: ٱلۡقَمَرَ
     translation: the moon
     transliteration: l-qamara
   8:
@@ -37,7 +37,7 @@ word_by_word:
     translation: and not
     transliteration: walā
   9:
-    arabic: الَّيۡلُ
+    arabic: ٱلَّيۡلُ
     translation: the night
     transliteration: al-laylu
   10:
@@ -45,23 +45,23 @@ word_by_word:
     translation: (can) outstrip
     transliteration: sābiqu
   11:
-    arabic: النَّهَارِ​ؕ
+    arabic: ٱلنَّهَارِۚ
     translation: the day
     transliteration: l-nahāri
   12:
-    arabic: وَكُلٌّ
+    arabic: وَكُلّٞ
     translation: but all
     transliteration: wakullun
   13:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   14:
-    arabic: فَلَكٍ
+    arabic: فَلَكٖ
     translation: an orbit
     transliteration: falakin
   15:
-    arabic: يَّسۡبَحُوۡنَ‏
+    arabic: يَسۡبَحُونَ
     translation: they are floating
     transliteration: yasbaḥūna
 ---

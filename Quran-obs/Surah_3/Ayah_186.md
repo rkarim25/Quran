@@ -1,30 +1,30 @@
 ---
-arabic_ayat: لَـتُبۡلَوُنَّ فِىۡۤ اَمۡوَالِكُمۡ وَاَنۡفُسِكُمۡ وَلَـتَسۡمَعُنَّ مِنَ
-  الَّذِيۡنَ اُوۡتُوا الۡكِتٰبَ مِنۡ قَبۡلِكُمۡ وَمِنَ الَّذِيۡنَ اَشۡرَكُوۡۤا اَذًى
-  كَثِيۡـرًا​ؕ وَاِنۡ تَصۡبِرُوۡا وَتَتَّقُوۡا فَاِنَّ ذٰلِكَ مِنۡ عَزۡمِ الۡاُمُوۡرِ‏
+arabic_ayat: ۞ لَتُبۡلَوُنَّ فِيٓ أَمۡوَٰلِكُمۡ وَأَنفُسِكُمۡ وَلَتَسۡمَعُنَّ مِنَ
+  ٱلَّذِينَ أُوتُواْ ٱلۡكِتَٰبَ مِن قَبۡلِكُمۡ وَمِنَ ٱلَّذِينَ أَشۡرَكُوٓاْ أَذٗى
+  كَثِيرٗاۚ وَإِن تَصۡبِرُواْ وَتَتَّقُواْ فَإِنَّ ذَٰلِكَ مِنۡ عَزۡمِ ٱلۡأُمُورِ
 sentence_translation: You ˹believers˺ will surely be tested in your wealth and yourselves, and
   you will certainly hear many hurtful words from those who were given the Scripture
   before you and ˹from˺ the polytheists. But if you are patient and mindful ˹of Allah˺—surely
   this is a resolve to aspire to.
 word_by_word:
   1:
-    arabic: ۞ لَـتُبۡلَوُنَّ
+    arabic: ۞ لَتُبۡلَوُنَّ
     translation: You will certainly be tested
     transliteration: latub'lawunna
   2:
-    arabic: فِىۡۤ
+    arabic: فِيٓ
     translation: in
     transliteration: fī
   3:
-    arabic: اَمۡوَالِكُمۡ
+    arabic: أَمۡوَٰلِكُمۡ
     translation: your wealth
     transliteration: amwālikum
   4:
-    arabic: وَاَنۡفُسِكُمۡ
+    arabic: وَأَنفُسِكُمۡ
     translation: and yourselves
     transliteration: wa-anfusikum
   5:
-    arabic: وَلَـتَسۡمَعُنَّ
+    arabic: وَلَتَسۡمَعُنَّ
     translation: And you will certainly hear
     transliteration: walatasmaʿunna
   6:
@@ -32,19 +32,19 @@ word_by_word:
     translation: from
     transliteration: mina
   7:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   8:
-    arabic: اُوۡتُوا
+    arabic: أُوتُواْ
     translation: were given
     transliteration: ūtū
   9:
-    arabic: الۡكِتٰبَ
+    arabic: ٱلۡكِتَٰبَ
     translation: the Book
     transliteration: l-kitāba
   10:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   11:
@@ -56,39 +56,39 @@ word_by_word:
     translation: and from
     transliteration: wamina
   13:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   14:
-    arabic: اَشۡرَكُوۡۤا
+    arabic: أَشۡرَكُوٓاْ
     translation: 'associate partners with Allah '
     transliteration: ashrakū
   15:
-    arabic: اَذًى
+    arabic: أَذٗى
     translation: hurtful things
     transliteration: adhan
   16:
-    arabic: كَثِيۡـرًا​ؕ
+    arabic: كَثِيرٗاۚ
     translation: many
     transliteration: kathīran
   17:
-    arabic: وَاِنۡ
+    arabic: وَإِن
     translation: and if
     transliteration: wa-in
   18:
-    arabic: تَصۡبِرُوۡا
+    arabic: تَصۡبِرُواْ
     translation: you are patient
     transliteration: taṣbirū
   19:
-    arabic: وَتَتَّقُوۡا
+    arabic: وَتَتَّقُواْ
     translation: and fear (Allah)
     transliteration: watattaqū
   20:
-    arabic: فَاِنَّ
+    arabic: فَإِنَّ
     translation: then indeed
     transliteration: fa-inna
   21:
-    arabic: ذٰلِكَ
+    arabic: ذَٰلِكَ
     translation: that
     transliteration: dhālika
   22:
@@ -100,7 +100,7 @@ word_by_word:
     translation: the matters
     transliteration: ʿazmi
   24:
-    arabic: الۡاُمُوۡرِ‏
+    arabic: ٱلۡأُمُورِ
     translation: (of) determination
     transliteration: l-umūri
 ---

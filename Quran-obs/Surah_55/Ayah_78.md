@@ -1,13 +1,13 @@
 ---
-arabic_ayat: تَبٰـرَكَ اسۡمُ رَبِّكَ ذِى الۡجَـلٰلِ وَالۡاِكۡرَامِ‏
+arabic_ayat: تَبَٰرَكَ ٱسۡمُ رَبِّكَ ذِي ٱلۡجَلَٰلِ وَٱلۡإِكۡرَامِ
 sentence_translation: Blessed is the Name of your Lord, full of Majesty and Honour.
 word_by_word:
   1:
-    arabic: تَبٰـرَكَ
+    arabic: تَبَٰرَكَ
     translation: Blessed is
     transliteration: tabāraka
   2:
-    arabic: اسۡمُ
+    arabic: ٱسۡمُ
     translation: (the) name
     transliteration: us'mu
   3:
@@ -15,15 +15,15 @@ word_by_word:
     translation: (of) your Lord
     transliteration: rabbika
   4:
-    arabic: ذِى
+    arabic: ذِي
     translation: Owner
     transliteration: dhī
   5:
-    arabic: الۡجَـلٰلِ
+    arabic: ٱلۡجَلَٰلِ
     translation: (of) Majesty
     transliteration: l-jalāli
   6:
-    arabic: وَالۡاِكۡرَامِ‏
+    arabic: وَٱلۡإِكۡرَامِ
     translation: and Honor
     transliteration: wal-ik'rāmi
 ---

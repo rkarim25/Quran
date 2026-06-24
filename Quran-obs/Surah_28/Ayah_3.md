@@ -1,11 +1,11 @@
 ---
-arabic_ayat: نَـتۡلُوۡا عَلَيۡكَ مِنۡ نَّبَاِ مُوۡسٰى وَفِرۡعَوۡنَ بِالۡحَـقِّ لِقَوۡمٍ
-  يُّؤۡمِنُوۡنَ‏
+arabic_ayat: نَتۡلُواْ عَلَيۡكَ مِن نَّبَإِ مُوسَىٰ وَفِرۡعَوۡنَ بِٱلۡحَقِّ لِقَوۡمٖ
+  يُؤۡمِنُونَ
 sentence_translation: We narrate to you ˹O Prophet˺ part of the story of Moses and
   Pharaoh in truth for people who believe.
 word_by_word:
   1:
-    arabic: نَـتۡلُوۡا
+    arabic: نَتۡلُواْ
     translation: We recite
     transliteration: natlū
   2:
@@ -13,15 +13,15 @@ word_by_word:
     translation: to you
     transliteration: ʿalayka
   3:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   4:
-    arabic: نَّبَاِ
+    arabic: نَّبَإِ
     translation: (the) news
     transliteration: naba-i
   5:
-    arabic: مُوۡسٰى
+    arabic: مُوسَىٰ
     translation: (of) Musa
     transliteration: mūsā
   6:
@@ -29,15 +29,15 @@ word_by_word:
     translation: and Firaun
     transliteration: wafir'ʿawna
   7:
-    arabic: بِالۡحَـقِّ
+    arabic: بِٱلۡحَقِّ
     translation: in truth
     transliteration: bil-ḥaqi
   8:
-    arabic: لِقَوۡمٍ
+    arabic: لِقَوۡمٖ
     translation: for a people
     transliteration: liqawmin
   9:
-    arabic: يُّؤۡمِنُوۡنَ‏
+    arabic: يُؤۡمِنُونَ
     translation: who believe
     transliteration: yu'minūna
 ---

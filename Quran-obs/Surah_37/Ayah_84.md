@@ -1,9 +1,9 @@
 ---
-arabic_ayat: اِذۡ جَآءَ رَبَّهٗ بِقَلۡبٍ سَلِيۡمٍ‏
+arabic_ayat: إِذۡ جَآءَ رَبَّهُۥ بِقَلۡبٖ سَلِيمٍ
 sentence_translation: ˹Remember˺ when he came to his Lord with a pure heart,
 word_by_word:
   1:
-    arabic: اِذۡ
+    arabic: إِذۡ
     translation: When
     transliteration: idh
   2:
@@ -11,15 +11,15 @@ word_by_word:
     translation: he came
     transliteration: jāa
   3:
-    arabic: رَبَّهٗ
+    arabic: رَبَّهُۥ
     translation: (to) his Lord
     transliteration: rabbahu
   4:
-    arabic: بِقَلۡبٍ
+    arabic: بِقَلۡبٖ
     translation: with a heart
     transliteration: biqalbin
   5:
-    arabic: سَلِيۡمٍ‏
+    arabic: سَلِيمٍ
     translation: sound
     transliteration: salīmin
 ---

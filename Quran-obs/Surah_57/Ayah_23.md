@@ -1,20 +1,20 @@
 ---
-arabic_ayat: لِّـكَيۡلَا تَاۡسَوۡا عَلٰى مَا فَاتَكُمۡ وَلَا تَفۡرَحُوۡا بِمَاۤ اٰتٰٮكُمۡ​ؕ
-  وَاللّٰهُ لَا يُحِبُّ كُلَّ مُخۡتَالٍ فَخُوۡرِۙ‏
+arabic_ayat: لِّكَيۡلَا تَأۡسَوۡاْ عَلَىٰ مَا فَاتَكُمۡ وَلَا تَفۡرَحُواْ بِمَآ ءَاتَىٰكُمۡۗ
+  وَٱللَّهُ لَا يُحِبُّ كُلَّ مُخۡتَالٖ فَخُورٍ
 sentence_translation: ˹We let you know this˺ so that you neither grieve over what
   you have missed nor boast over what He has granted you. For Allah does not like
   whoever is arrogant, boastful—
 word_by_word:
   1:
-    arabic: لِّـكَيۡلَا
+    arabic: لِّكَيۡلَا
     translation: So that you may not
     transliteration: likaylā
   2:
-    arabic: تَاۡسَوۡا
+    arabic: تَأۡسَوۡاْ
     translation: grieve
     transliteration: tasaw
   3:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: over
     transliteration: ʿalā
   4:
@@ -30,19 +30,19 @@ word_by_word:
     translation: and (do) not
     transliteration: walā
   7:
-    arabic: تَفۡرَحُوۡا
+    arabic: تَفۡرَحُواْ
     translation: exult
     transliteration: tafraḥū
   8:
-    arabic: بِمَاۤ
+    arabic: بِمَآ ءَ
     translation: at what
     transliteration: bimā
   9:
-    arabic: اٰتٰٮكُمۡ​ؕ
+    arabic: اتَىٰكُمۡۗ
     translation: He has given you
     transliteration: ātākum
   10:
-    arabic: وَاللّٰهُ
+    arabic: وَٱللَّهُ
     translation: And Allah
     transliteration: wal-lahu
   11:
@@ -58,11 +58,11 @@ word_by_word:
     translation: every
     transliteration: kulla
   14:
-    arabic: مُخۡتَالٍ
+    arabic: مُخۡتَالٖ
     translation: self-deluded
     transliteration: mukh'tālin
   15:
-    arabic: فَخُوۡرِۙ‏
+    arabic: فَخُورٍ
     translation: boaster
     transliteration: fakhūrin
 ---

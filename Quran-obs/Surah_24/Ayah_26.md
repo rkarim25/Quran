@@ -1,50 +1,50 @@
 ---
-arabic_ayat: اَلۡخَبِيۡثٰتُ لِلۡخَبِيۡثِيۡنَ وَالۡخَبِيۡثُوۡنَ لِلۡخَبِيۡثٰتِ​ۚ وَالطَّيِّبٰتُ
-  لِلطَّيِّبِيۡنَ وَالطَّيِّبُوۡنَ لِلطَّيِّبٰتِ​ۚ اُولٰٓٮِٕكَ مُبَرَّءُوۡنَ مِمَّا
-  يَقُوۡلُوۡنَ​ؕ لَهُمۡ مَّغۡفِرَةٌ وَّرِزۡقٌ كَرِيۡمٌ‏
+arabic_ayat: ٱلۡخَبِيثَٰتُ لِلۡخَبِيثِينَ وَٱلۡخَبِيثُونَ لِلۡخَبِيثَٰتِۖ وَٱلطَّيِّبَٰتُ
+  لِلطَّيِّبِينَ وَٱلطَّيِّبُونَ لِلطَّيِّبَٰتِۚ أُوْلَٰٓئِكَ مُبَرَّءُونَ مِمَّا
+  يَقُولُونَۖ لَهُم مَّغۡفِرَةٞ وَرِزۡقٞ كَرِيمٞ
 sentence_translation: Wicked women are for wicked men, and wicked men are for wicked
   women. And virtuous women are for virtuous men, and virtuous men are for virtuous
   women. The virtuous are innocent of what the wicked say. They will have forgiveness
   and an honourable provision. 
 word_by_word:
   1:
-    arabic: اَلۡخَبِيۡثٰتُ
+    arabic: ٱلۡخَبِيثَٰتُ
     translation: Evil women
     transliteration: al-khabīthātu
   2:
-    arabic: لِلۡخَبِيۡثِيۡنَ
+    arabic: لِلۡخَبِيثِينَ
     translation: (are) for evil men
     transliteration: lil'khabīthīna
   3:
-    arabic: وَالۡخَبِيۡثُوۡنَ
+    arabic: وَٱلۡخَبِيثُونَ
     translation: and evil men
     transliteration: wal-khabīthūna
   4:
-    arabic: لِلۡخَبِيۡثٰتِ​ۚ
+    arabic: لِلۡخَبِيثَٰتِۖ
     translation: (are) for evil women
     transliteration: lil'khabīthāti
   5:
-    arabic: وَالطَّيِّبٰتُ
+    arabic: وَٱلطَّيِّبَٰتُ
     translation: And good women
     transliteration: wal-ṭayibātu
   6:
-    arabic: لِلطَّيِّبِيۡنَ
+    arabic: لِلطَّيِّبِينَ
     translation: (are) for good men
     transliteration: lilṭṭayyibīna
   7:
-    arabic: وَالطَّيِّبُوۡنَ
+    arabic: وَٱلطَّيِّبُونَ
     translation: and good men
     transliteration: wal-ṭayibūna
   8:
-    arabic: لِلطَّيِّبٰتِ​ۚ
+    arabic: لِلطَّيِّبَٰتِۚ
     translation: (are) for good women
     transliteration: lilṭṭayyibāti
   9:
-    arabic: اُولٰٓٮِٕكَ
+    arabic: أُوْلَٰٓئِكَ
     translation: Those
     transliteration: ulāika
   10:
-    arabic: مُبَرَّءُوۡنَ
+    arabic: مُبَرَّءُونَ
     translation: (are) innocent
     transliteration: mubarraūna
   11:
@@ -52,23 +52,23 @@ word_by_word:
     translation: of what
     transliteration: mimmā
   12:
-    arabic: يَقُوۡلُوۡنَ​ؕ
+    arabic: يَقُولُونَۖ
     translation: they say
     transliteration: yaqūlūna
   13:
-    arabic: لَهُمۡ
+    arabic: لَهُم
     translation: For them
     transliteration: lahum
   14:
-    arabic: مَّغۡفِرَةٌ
+    arabic: مَّغۡفِرَةٞ
     translation: (is) forgiveness
     transliteration: maghfiratun
   15:
-    arabic: وَّرِزۡقٌ
+    arabic: وَرِزۡقٞ
     translation: and a provision
     transliteration: wariz'qun
   16:
-    arabic: كَرِيۡمٌ‏
+    arabic: كَرِيمٞ
     translation: noble
     transliteration: karīmun
 ---

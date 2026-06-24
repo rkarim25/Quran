@@ -1,35 +1,34 @@
 ---
-arabic_ayat: "ذٰلِكَ وَمَنۡ يُّعَظِّمۡ شَعَآٮِٕرَ اللّٰهِ فَاِنَّهَا مِنۡ تَقۡوَى\
-  \ الۡقُلُوۡبِ‏ \uFEFF\uFEFF"
+arabic_ayat: ذَٰلِكَۖ وَمَن يُعَظِّمۡ شَعَٰٓئِرَ ٱللَّهِ فَإِنَّهَا مِن تَقۡوَى ٱلۡقُلُوبِ
 sentence_translation: That is so. And whoever honours the symbols of Allah, it is
   certainly out of the piety of the heart.
 word_by_word:
   1:
-    arabic: ذٰلِكَ
+    arabic: ذَٰلِكَۖ
     translation: That
     transliteration: dhālika
   2:
-    arabic: وَمَنۡ
+    arabic: وَمَن
     translation: and whoever
     transliteration: waman
   3:
-    arabic: يُّعَظِّمۡ
+    arabic: يُعَظِّمۡ
     translation: honors
     transliteration: yuʿaẓẓim
   4:
-    arabic: شَعَآٮِٕرَ
+    arabic: شَعَٰٓئِرَ
     translation: (the) Symbols
     transliteration: shaʿāira
   5:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (of) Allah
     transliteration: l-lahi
   6:
-    arabic: فَاِنَّهَا
+    arabic: فَإِنَّهَا
     translation: then indeed, it
     transliteration: fa-innahā
   7:
-    arabic: مِنۡ
+    arabic: مِن
     translation: (is) from
     transliteration: min
   8:
@@ -37,7 +36,7 @@ word_by_word:
     translation: (the) piety
     transliteration: taqwā
   9:
-    arabic: "الۡقُلُوۡبِ‏ \uFEFF\uFEFF"
+    arabic: ٱلۡقُلُوبِ
     translation: (of) the hearts
     transliteration: l-qulūbi
 ---

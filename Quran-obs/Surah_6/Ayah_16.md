@@ -1,15 +1,15 @@
 ---
-arabic_ayat: مَنۡ يُّصۡرَفۡ عَنۡهُ يَوۡمَٮِٕذٍ فَقَدۡ رَحِمَهٗ​ؕ وَ ذٰ لِكَ الۡـفَوۡزُ
-  الۡمُبِيۡنُ‏
+arabic_ayat: مَّن يُصۡرَفۡ عَنۡهُ يَوۡمَئِذٖ فَقَدۡ رَحِمَهُۥۚ وَذَٰلِكَ ٱلۡفَوۡزُ
+  ٱلۡمُبِينُ
 sentence_translation: Whoever is spared the torment of that Day will have certainly
   been shown Allah’s mercy. And that is the absolute triumph.
 word_by_word:
   1:
-    arabic: مَنۡ
+    arabic: مَّن
     translation: Whoever
     transliteration: man
   2:
-    arabic: يُّصۡرَفۡ
+    arabic: يُصۡرَفۡ
     translation: is averted
     transliteration: yuṣ'raf
   3:
@@ -17,7 +17,7 @@ word_by_word:
     translation: from it
     transliteration: ʿanhu
   4:
-    arabic: يَوۡمَٮِٕذٍ
+    arabic: يَوۡمَئِذٖ
     translation: that Day
     transliteration: yawma-idhin
   5:
@@ -25,19 +25,19 @@ word_by_word:
     translation: then surely
     transliteration: faqad
   6:
-    arabic: رَحِمَهٗ​ؕ
+    arabic: رَحِمَهُۥۚ
     translation: He had Mercy on him
     transliteration: raḥimahu
   7:
-    arabic: وَ ذٰ لِكَ
+    arabic: وَذَٰلِكَ
     translation: And that
     transliteration: wadhālika
   8:
-    arabic: الۡـفَوۡزُ
+    arabic: ٱلۡفَوۡزُ
     translation: (is) the success
     transliteration: l-fawzu
   9:
-    arabic: الۡمُبِيۡنُ‏
+    arabic: ٱلۡمُبِينُ
     translation: (the) clear
     transliteration: l-mubīnu
 ---

@@ -1,6 +1,6 @@
 ---
-arabic_ayat: وَلَقَدۡ فَتَـنَّا الَّذِيۡنَ مِنۡ قَبۡلِهِمۡ​ فَلَيَـعۡلَمَنَّ اللّٰهُ
-  الَّذِيۡنَ صَدَقُوۡا وَلَيَعۡلَمَنَّ الۡكٰذِبِيۡنَ‏
+arabic_ayat: وَلَقَدۡ فَتَنَّا ٱلَّذِينَ مِن قَبۡلِهِمۡۖ فَلَيَعۡلَمَنَّ ٱللَّهُ ٱلَّذِينَ
+  صَدَقُواْ وَلَيَعۡلَمَنَّ ٱلۡكَٰذِبِينَ
 sentence_translation: We certainly tested those before them. And ˹in this way˺ Allah
   will clearly distinguish between those who are truthful and those who are liars.
 word_by_word:
@@ -9,35 +9,35 @@ word_by_word:
     translation: And indeed
     transliteration: walaqad
   2:
-    arabic: فَتَـنَّا
+    arabic: فَتَنَّا
     translation: We tested
     transliteration: fatannā
   3:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   4:
-    arabic: مِنۡ
+    arabic: مِن
     translation: (were) before them
     transliteration: min
   5:
-    arabic: قَبۡلِهِمۡ​
+    arabic: قَبۡلِهِمۡۖ
     translation: (were) before them
     transliteration: qablihim
   6:
-    arabic: فَلَيَـعۡلَمَنَّ
+    arabic: فَلَيَعۡلَمَنَّ
     translation: And Allah will surely make evident
     transliteration: falayaʿlamanna
   7:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: And Allah will surely make evident
     transliteration: l-lahu
   8:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   9:
-    arabic: صَدَقُوۡا
+    arabic: صَدَقُواْ
     translation: (are) truthful
     transliteration: ṣadaqū
   10:
@@ -45,7 +45,7 @@ word_by_word:
     translation: and He will surely make evident
     transliteration: walayaʿlamanna
   11:
-    arabic: الۡكٰذِبِيۡنَ‏
+    arabic: ٱلۡكَٰذِبِينَ
     translation: the liars
     transliteration: l-kādhibīna
 ---

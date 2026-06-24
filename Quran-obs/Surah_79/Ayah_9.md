@@ -1,13 +1,13 @@
 ---
-arabic_ayat: اَبۡصَارُهَا خَاشِعَةٌ​ ۘ‏
+arabic_ayat: أَبۡصَٰرُهَا خَٰشِعَةٞ
 sentence_translation: with their eyes downcast.
 word_by_word:
   1:
-    arabic: اَبۡصَارُهَا
+    arabic: أَبۡصَٰرُهَا
     translation: Their eyes
     transliteration: abṣāruhā
   2:
-    arabic: خَاشِعَةٌ​ ۘ‏
+    arabic: خَٰشِعَةٞ
     translation: humbled
     transliteration: khāshiʿatun
 ---

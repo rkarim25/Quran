@@ -1,5 +1,5 @@
 ---
-arabic_ayat: وَلَوۡ جَآءَتۡهُمۡ كُلُّ اٰيَةٍ حَتّٰى يَرَوُا الۡعَذَابَ الۡاَ لِيۡمَ‏
+arabic_ayat: وَلَوۡ جَآءَتۡهُمۡ كُلُّ ءَايَةٍ حَتَّىٰ يَرَوُاْ ٱلۡعَذَابَ ٱلۡأَلِيمَ
 sentence_translation: even if every sign were to come to them—until they see the painful
   punishment.
 word_by_word:
@@ -12,27 +12,27 @@ word_by_word:
     translation: comes to them
     transliteration: jāathum
   3:
-    arabic: كُلُّ
+    arabic: كُلُّ ءَ
     translation: every
     transliteration: kullu
   4:
-    arabic: اٰيَةٍ
+    arabic: ايَةٍ
     translation: Sign
     transliteration: āyatin
   5:
-    arabic: حَتّٰى
+    arabic: حَتَّىٰ
     translation: until
     transliteration: ḥattā
   6:
-    arabic: يَرَوُا
+    arabic: يَرَوُاْ
     translation: they see
     transliteration: yarawū
   7:
-    arabic: الۡعَذَابَ
+    arabic: ٱلۡعَذَابَ
     translation: 'the punishment '
     transliteration: l-ʿadhāba
   8:
-    arabic: الۡاَ لِيۡمَ‏
+    arabic: ٱلۡأَلِيمَ
     translation: the painful
     transliteration: l-alīma
 ---

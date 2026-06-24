@@ -1,31 +1,31 @@
 ---
-arabic_ayat: يٰۤاَيُّهَا الَّذِيۡنَ اٰمَنُوۡۤا اِنَّ كَثِيۡرًا مِّنَ الۡاَحۡبَارِ
-  وَالرُّهۡبَانِ لَيَاۡكُلُوۡنَ اَمۡوَالَ النَّاسِ بِالۡبَاطِلِ وَيَصُدُّوۡنَ عَنۡ
-  سَبِيۡلِ اللّٰهِ​ؕ وَالَّذِيۡنَ يَكۡنِزُوۡنَ الذَّهَبَ وَالۡفِضَّةَ وَلَا يُنۡفِقُوۡنَهَا
-  فِىۡ سَبِيۡلِ اللّٰهِۙ فَبَشِّرۡهُمۡ بِعَذَابٍ اَلِيۡمٍۙ‏
+arabic_ayat: ۞ يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓاْ إِنَّ كَثِيرٗا مِّنَ ٱلۡأَحۡبَارِ
+  وَٱلرُّهۡبَانِ لَيَأۡكُلُونَ أَمۡوَٰلَ ٱلنَّاسِ بِٱلۡبَٰطِلِ وَيَصُدُّونَ عَن سَبِيلِ
+  ٱللَّهِۗ وَٱلَّذِينَ يَكۡنِزُونَ ٱلذَّهَبَ وَٱلۡفِضَّةَ وَلَا يُنفِقُونَهَا فِي
+  سَبِيلِ ٱللَّهِ فَبَشِّرۡهُم بِعَذَابٍ أَلِيمٖ
 sentence_translation: O believers! Indeed, many rabbis and monks consume people’s
   wealth wrongfully and hinder ˹others˺ from the Way of Allah. Give good news of a
   painful torment to those who hoard gold and silver and do not spend it in Allah’s
   cause.
 word_by_word:
   1:
-    arabic: ۞ يٰۤاَيُّهَا
+    arabic: ۞ يَٰٓأَيُّهَا
     translation: O you who believe
     transliteration: yāayyuhā
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ ءَ
     translation: O you who believe
     transliteration: alladhīna
   3:
-    arabic: اٰمَنُوۡۤا
+    arabic: امَنُوٓاْ
     translation: O you who believe
     transliteration: āmanū
   4:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   5:
-    arabic: كَثِيۡرًا
+    arabic: كَثِيرٗا
     translation: many
     transliteration: kathīran
   6:
@@ -33,59 +33,59 @@ word_by_word:
     translation: of
     transliteration: mina
   7:
-    arabic: الۡاَحۡبَارِ
+    arabic: ٱلۡأَحۡبَارِ
     translation: the rabbis
     transliteration: l-aḥbāri
   8:
-    arabic: وَالرُّهۡبَانِ
+    arabic: وَٱلرُّهۡبَانِ
     translation: and the monks
     transliteration: wal-ruh'bāni
   9:
-    arabic: لَيَاۡكُلُوۡنَ
+    arabic: لَيَأۡكُلُونَ
     translation: surely eat
     transliteration: layakulūna
   10:
-    arabic: اَمۡوَالَ
+    arabic: أَمۡوَٰلَ
     translation: (the) wealth
     transliteration: amwāla
   11:
-    arabic: النَّاسِ
+    arabic: ٱلنَّاسِ
     translation: (of) the people
     transliteration: l-nāsi
   12:
-    arabic: بِالۡبَاطِلِ
+    arabic: بِٱلۡبَٰطِلِ
     translation: in falsehood
     transliteration: bil-bāṭili
   13:
-    arabic: وَيَصُدُّوۡنَ
+    arabic: وَيَصُدُّونَ
     translation: and hinder
     transliteration: wayaṣuddūna
   14:
-    arabic: عَنۡ
+    arabic: عَن
     translation: from
     transliteration: ʿan
   15:
-    arabic: سَبِيۡلِ
+    arabic: سَبِيلِ
     translation: (the) way
     transliteration: sabīli
   16:
-    arabic: اللّٰهِ​ؕ
+    arabic: ٱللَّهِۗ
     translation: (of) Allah
     transliteration: l-lahi
   17:
-    arabic: وَالَّذِيۡنَ
+    arabic: وَٱلَّذِينَ
     translation: And those who
     transliteration: wa-alladhīna
   18:
-    arabic: يَكۡنِزُوۡنَ
+    arabic: يَكۡنِزُونَ
     translation: hoard
     transliteration: yaknizūna
   19:
-    arabic: الذَّهَبَ
+    arabic: ٱلذَّهَبَ
     translation: the gold
     transliteration: l-dhahaba
   20:
-    arabic: وَالۡفِضَّةَ
+    arabic: وَٱلۡفِضَّةَ
     translation: and the silver
     transliteration: wal-fiḍata
   21:
@@ -93,23 +93,23 @@ word_by_word:
     translation: and (do) not
     transliteration: walā
   22:
-    arabic: يُنۡفِقُوۡنَهَا
+    arabic: يُنفِقُونَهَا
     translation: spend it
     transliteration: yunfiqūnahā
   23:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   24:
-    arabic: سَبِيۡلِ
+    arabic: سَبِيلِ
     translation: (the) way
     transliteration: sabīli
   25:
-    arabic: اللّٰهِۙ
+    arabic: ٱللَّهِ
     translation: (of) Allah
     transliteration: l-lahi
   26:
-    arabic: فَبَشِّرۡهُمۡ
+    arabic: فَبَشِّرۡهُم
     translation: '[so] give them tidings'
     transliteration: fabashir'hum
   27:
@@ -117,7 +117,7 @@ word_by_word:
     translation: of a punishment
     transliteration: biʿadhābin
   28:
-    arabic: اَلِيۡمٍۙ‏
+    arabic: أَلِيمٖ
     translation: painful
     transliteration: alīmin
 ---

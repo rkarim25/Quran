@@ -1,11 +1,11 @@
 ---
-arabic_ayat: وَ تَذَرُوۡنَ مَا خَلَقَ لَـكُمۡ رَبُّكُمۡ مِّنۡ اَزۡوَاجِكُمۡ​ؕ بَلۡ
-  اَنۡـتُمۡ قَوۡمٌ عٰدُوۡنَ‏
+arabic_ayat: وَتَذَرُونَ مَا خَلَقَ لَكُمۡ رَبُّكُم مِّنۡ أَزۡوَٰجِكُمۚ بَلۡ أَنتُمۡ
+  قَوۡمٌ عَادُونَ
 sentence_translation: leaving the wives that your Lord has created for you? In fact,
   you are a transgressing people.”
 word_by_word:
   1:
-    arabic: وَ تَذَرُوۡنَ
+    arabic: وَتَذَرُونَ
     translation: And you leave
     transliteration: watadharūna
   2:
@@ -17,11 +17,11 @@ word_by_word:
     translation: created
     transliteration: khalaqa
   4:
-    arabic: لَـكُمۡ
+    arabic: لَكُمۡ
     translation: for you
     transliteration: lakum
   5:
-    arabic: رَبُّكُمۡ
+    arabic: رَبُّكُم
     translation: your Lord
     transliteration: rabbukum
   6:
@@ -29,7 +29,7 @@ word_by_word:
     translation: of
     transliteration: min
   7:
-    arabic: اَزۡوَاجِكُمۡ​ؕ
+    arabic: أَزۡوَٰجِكُمۚ
     translation: your mates
     transliteration: azwājikum
   8:
@@ -37,7 +37,7 @@ word_by_word:
     translation: Nay
     transliteration: bal
   9:
-    arabic: اَنۡـتُمۡ
+    arabic: أَنتُمۡ
     translation: you
     transliteration: antum
   10:
@@ -45,7 +45,7 @@ word_by_word:
     translation: (are) a people
     transliteration: qawmun
   11:
-    arabic: عٰدُوۡنَ‏
+    arabic: عَادُونَ
     translation: transgressing
     transliteration: ʿādūna
 ---

@@ -1,13 +1,13 @@
 ---
-arabic_ayat: لَـيۡسَ عَلَى الضُّعَفَآءِ وَلَا عَلَى الۡمَرۡضٰى وَلَا عَلَى الَّذِيۡنَ
-  لَا يَجِدُوۡنَ مَا يُنۡفِقُوۡنَ حَرَجٌ اِذَا نَصَحُوۡا لِلّٰهِ وَ رَسُوۡلِهٖ​ؕ مَا
-  عَلَى الۡمُحۡسِنِيۡنَ مِنۡ سَبِيۡلٍ​ؕ وَاللّٰهُ غَفُوۡرٌ رَّحِيۡمٌۙ‏
+arabic_ayat: لَّيۡسَ عَلَى ٱلضُّعَفَآءِ وَلَا عَلَى ٱلۡمَرۡضَىٰ وَلَا عَلَى ٱلَّذِينَ
+  لَا يَجِدُونَ مَا يُنفِقُونَ حَرَجٌ إِذَا نَصَحُواْ لِلَّهِ وَرَسُولِهِۦۚ مَا عَلَى
+  ٱلۡمُحۡسِنِينَ مِن سَبِيلٖۚ وَٱللَّهُ غَفُورٞ رَّحِيمٞ
 sentence_translation: There is no blame on the weak, the sick, or those lacking the
   means ˹if they stay behind˺, as long as they are true to Allah and His Messenger.
   There is no blame on the good-doers. And Allah is All-Forgiving, Most Merciful.
 word_by_word:
   1:
-    arabic: لَـيۡسَ
+    arabic: لَّيۡسَ
     translation: Not
     transliteration: laysa
   2:
@@ -15,7 +15,7 @@ word_by_word:
     translation: 'on'
     transliteration: ʿalā
   3:
-    arabic: الضُّعَفَآءِ
+    arabic: ٱلضُّعَفَآءِ
     translation: the weak
     transliteration: l-ḍuʿafāi
   4:
@@ -27,7 +27,7 @@ word_by_word:
     translation: 'on'
     transliteration: ʿalā
   6:
-    arabic: الۡمَرۡضٰى
+    arabic: ٱلۡمَرۡضَىٰ
     translation: the sick
     transliteration: l-marḍā
   7:
@@ -39,7 +39,7 @@ word_by_word:
     translation: 'on'
     transliteration: ʿalā
   9:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   10:
@@ -47,7 +47,7 @@ word_by_word:
     translation: not
     transliteration: lā
   11:
-    arabic: يَجِدُوۡنَ
+    arabic: يَجِدُونَ
     translation: they find
     transliteration: yajidūna
   12:
@@ -55,7 +55,7 @@ word_by_word:
     translation: what
     transliteration: mā
   13:
-    arabic: يُنۡفِقُوۡنَ
+    arabic: يُنفِقُونَ
     translation: they (can) spend
     transliteration: yunfiqūna
   14:
@@ -63,19 +63,19 @@ word_by_word:
     translation: any blame
     transliteration: ḥarajun
   15:
-    arabic: اِذَا
+    arabic: إِذَا
     translation: if
     transliteration: idhā
   16:
-    arabic: نَصَحُوۡا
+    arabic: نَصَحُواْ
     translation: they (are) sincere
     transliteration: naṣaḥū
   17:
-    arabic: لِلّٰهِ
+    arabic: لِلَّهِ
     translation: to Allah
     transliteration: lillahi
   18:
-    arabic: وَ رَسُوۡلِهٖ​ؕ
+    arabic: وَرَسُولِهِۦۚ
     translation: and His Messenger
     transliteration: warasūlihi
   19:
@@ -87,27 +87,27 @@ word_by_word:
     translation: (is) on
     transliteration: ʿalā
   21:
-    arabic: الۡمُحۡسِنِيۡنَ
+    arabic: ٱلۡمُحۡسِنِينَ
     translation: the good-doers
     transliteration: l-muḥ'sinīna
   22:
-    arabic: مِنۡ
+    arabic: مِن
     translation: any
     transliteration: min
   23:
-    arabic: سَبِيۡلٍ​ؕ
+    arabic: سَبِيلٖۚ
     translation: way (for blame)
     transliteration: sabīlin
   24:
-    arabic: وَاللّٰهُ
+    arabic: وَٱللَّهُ
     translation: And Allah
     transliteration: wal-lahu
   25:
-    arabic: غَفُوۡرٌ
+    arabic: غَفُورٞ
     translation: (is) Oft-Forgiving
     transliteration: ghafūrun
   26:
-    arabic: رَّحِيۡمٌۙ‏
+    arabic: رَّحِيمٞ
     translation: Most Merciful
     transliteration: raḥīmun
 ---

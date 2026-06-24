@@ -1,25 +1,25 @@
 ---
-arabic_ayat: وَاِذۡ نَجَّيۡنٰکُمۡ مِّنۡ اٰلِ فِرۡعَوۡنَ يَسُوۡمُوۡنَكُمۡ سُوۡٓءَ الۡعَذَابِ
-  يُذَبِّحُوۡنَ اَبۡنَآءَكُمۡ وَيَسۡتَحۡيُوۡنَ نِسَآءَكُمۡ​ؕ وَفِىۡ ذٰلِكُمۡ بَلَاۤءٌ
-  مِّنۡ رَّبِّكُمۡ عَظِيۡمٌ‏
+arabic_ayat: وَإِذۡ نَجَّيۡنَٰكُم مِّنۡ ءَالِ فِرۡعَوۡنَ يَسُومُونَكُمۡ سُوٓءَ ٱلۡعَذَابِ
+  يُذَبِّحُونَ أَبۡنَآءَكُمۡ وَيَسۡتَحۡيُونَ نِسَآءَكُمۡۚ وَفِي ذَٰلِكُم بَلَآءٞ
+  مِّن رَّبِّكُمۡ عَظِيمٞ
 sentence_translation: ˹Remember˺ how We delivered you from the people of Pharaoh,
   who afflicted you with dreadful torment, slaughtering your sons and keeping your
   women. That was a severe test from your Lord.
 word_by_word:
   1:
-    arabic: وَاِذۡ
+    arabic: وَإِذۡ
     translation: And when
     transliteration: wa-idh
   2:
-    arabic: نَجَّيۡنٰکُمۡ
+    arabic: نَجَّيۡنَٰكُم
     translation: We saved you
     transliteration: najjaynākum
   3:
-    arabic: مِّنۡ
+    arabic: مِّنۡ ءَ
     translation: from
     transliteration: min
   4:
-    arabic: اٰلِ
+    arabic: الِ
     translation: (the) people
     transliteration: āli
   5:
@@ -27,47 +27,47 @@ word_by_word:
     translation: (of) Firaun
     transliteration: fir'ʿawna
   6:
-    arabic: يَسُوۡمُوۡنَكُمۡ
+    arabic: يَسُومُونَكُمۡ
     translation: (who were) afflicting you (with)
     transliteration: yasūmūnakum
   7:
-    arabic: سُوۡٓءَ
+    arabic: سُوٓءَ
     translation: horrible
     transliteration: sūa
   8:
-    arabic: الۡعَذَابِ
+    arabic: ٱلۡعَذَابِ
     translation: torment
     transliteration: l-ʿadhābi
   9:
-    arabic: يُذَبِّحُوۡنَ
+    arabic: يُذَبِّحُونَ
     translation: slaughtering
     transliteration: yudhabbiḥūna
   10:
-    arabic: اَبۡنَآءَكُمۡ
+    arabic: أَبۡنَآءَكُمۡ
     translation: your sons
     transliteration: abnāakum
   11:
-    arabic: وَيَسۡتَحۡيُوۡنَ
+    arabic: وَيَسۡتَحۡيُونَ
     translation: and letting live
     transliteration: wayastaḥyūna
   12:
-    arabic: نِسَآءَكُمۡ​ؕ
+    arabic: نِسَآءَكُمۡۚ
     translation: your women
     transliteration: nisāakum
   13:
-    arabic: وَفِىۡ
+    arabic: وَفِي
     translation: And in
     transliteration: wafī
   14:
-    arabic: ذٰلِكُمۡ
+    arabic: ذَٰلِكُم
     translation: that
     transliteration: dhālikum
   15:
-    arabic: بَلَاۤءٌ
+    arabic: بَلَآءٞ
     translation: (was) a trial
     transliteration: balāon
   16:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: from
     transliteration: min
   17:
@@ -75,7 +75,7 @@ word_by_word:
     translation: your Lord
     transliteration: rabbikum
   18:
-    arabic: عَظِيۡمٌ‏
+    arabic: عَظِيمٞ
     translation: great
     transliteration: ʿaẓīmun
 ---

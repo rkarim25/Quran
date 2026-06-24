@@ -1,6 +1,6 @@
 ---
-arabic_ayat: فَلَمَّا ذَهَبَ عَنۡ اِبۡرٰهِيۡمَ الرَّوۡعُ وَجَآءَتۡهُ الۡبُشۡرٰى يُجَادِلُــنَا
-  فِىۡ قَوۡمِ لُوۡطٍؕ‏
+arabic_ayat: فَلَمَّا ذَهَبَ عَنۡ إِبۡرَٰهِيمَ ٱلرَّوۡعُ وَجَآءَتۡهُ ٱلۡبُشۡرَىٰ
+  يُجَٰدِلُنَا فِي قَوۡمِ لُوطٍ
 sentence_translation: Then after the fear had left Abraham, and the good news had
   reached him, he began to plead with Us for the people of Lot.
 word_by_word:
@@ -17,11 +17,11 @@ word_by_word:
     translation: from
     transliteration: ʿan
   4:
-    arabic: اِبۡرٰهِيۡمَ
+    arabic: إِبۡرَٰهِيمَ
     translation: Ibrahim
     transliteration: ib'rāhīma
   5:
-    arabic: الرَّوۡعُ
+    arabic: ٱلرَّوۡعُ
     translation: the fright
     transliteration: l-rawʿu
   6:
@@ -29,15 +29,15 @@ word_by_word:
     translation: and had reached him
     transliteration: wajāathu
   7:
-    arabic: الۡبُشۡرٰى
+    arabic: ٱلۡبُشۡرَىٰ
     translation: the glad tidings
     transliteration: l-bush'rā
   8:
-    arabic: يُجَادِلُــنَا
+    arabic: يُجَٰدِلُنَا
     translation: he argued with Us
     transliteration: yujādilunā
   9:
-    arabic: فِىۡ
+    arabic: فِي
     translation: concerning
     transliteration: fī
   10:
@@ -45,7 +45,7 @@ word_by_word:
     translation: the people
     transliteration: qawmi
   11:
-    arabic: لُوۡطٍؕ‏
+    arabic: لُوطٍ
     translation: of Lut
     transliteration: lūṭin
 ---

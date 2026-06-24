@@ -1,17 +1,17 @@
 ---
-arabic_ayat: اَللّٰهُ الَّذِىۡ خَلَقَ السَّمٰوٰتِ وَالۡاَرۡضَ وَمَا بَيۡنَهُمَا فِىۡ
-  سِتَّةِ اَيَّامٍ ثُمَّ اسۡتَوٰى عَلَى الۡعَرۡشِ​ؕ مَا لَكُمۡ مِّنۡ دُوۡنِهٖ مِنۡ
-  وَّلِىٍّ وَّلَا شَفِيۡعٍ​ؕ اَفَلَا تَتَذَكَّرُوۡنَ‏
+arabic_ayat: ٱللَّهُ ٱلَّذِي خَلَقَ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضَ وَمَا بَيۡنَهُمَا فِي
+  سِتَّةِ أَيَّامٖ ثُمَّ ٱسۡتَوَىٰ عَلَى ٱلۡعَرۡشِۖ مَا لَكُم مِّن دُونِهِۦ مِن وَلِيّٖ
+  وَلَا شَفِيعٍۚ أَفَلَا تَتَذَكَّرُونَ
 sentence_translation: It is Allah Who has created the heavens and the earth and everything
   in between in six Days, then established Himself on the Throne. You have no protector
   or intercessor besides Him. Will you not then be mindful?
 word_by_word:
   1:
-    arabic: اَللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: al-lahu
   2:
-    arabic: الَّذِىۡ
+    arabic: ٱلَّذِي
     translation: (is) the One Who
     transliteration: alladhī
   3:
@@ -19,11 +19,11 @@ word_by_word:
     translation: created
     transliteration: khalaqa
   4:
-    arabic: السَّمٰوٰتِ
+    arabic: ٱلسَّمَٰوَٰتِ
     translation: the heavens
     transliteration: l-samāwāti
   5:
-    arabic: وَالۡاَرۡضَ
+    arabic: وَٱلۡأَرۡضَ
     translation: and the earth
     transliteration: wal-arḍa
   6:
@@ -35,7 +35,7 @@ word_by_word:
     translation: (is) between them
     transliteration: baynahumā
   8:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   9:
@@ -43,7 +43,7 @@ word_by_word:
     translation: six
     transliteration: sittati
   10:
-    arabic: اَيَّامٍ
+    arabic: أَيَّامٖ
     translation: periods
     transliteration: ayyāmin
   11:
@@ -51,7 +51,7 @@ word_by_word:
     translation: Then
     transliteration: thumma
   12:
-    arabic: اسۡتَوٰى
+    arabic: ٱسۡتَوَىٰ
     translation: established Himself
     transliteration: is'tawā
   13:
@@ -59,7 +59,7 @@ word_by_word:
     translation: 'on'
     transliteration: ʿalā
   14:
-    arabic: الۡعَرۡشِ​ؕ
+    arabic: ٱلۡعَرۡشِۖ
     translation: the Throne
     transliteration: l-ʿarshi
   15:
@@ -67,39 +67,39 @@ word_by_word:
     translation: Not
     transliteration: mā
   16:
-    arabic: لَكُمۡ
+    arabic: لَكُم
     translation: for you
     transliteration: lakum
   17:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: besides Him
     transliteration: min
   18:
-    arabic: دُوۡنِهٖ
+    arabic: دُونِهِۦ
     translation: besides Him
     transliteration: dūnihi
   19:
-    arabic: مِنۡ
+    arabic: مِن
     translation: any
     transliteration: min
   20:
-    arabic: وَّلِىٍّ
+    arabic: وَلِيّٖ
     translation: protector
     transliteration: waliyyin
   21:
-    arabic: وَّلَا
+    arabic: وَلَا
     translation: and not
     transliteration: walā
   22:
-    arabic: شَفِيۡعٍ​ؕ
+    arabic: شَفِيعٍۚ
     translation: any intercessor
     transliteration: shafīʿin
   23:
-    arabic: اَفَلَا
+    arabic: أَفَلَا
     translation: Then will not
     transliteration: afalā
   24:
-    arabic: تَتَذَكَّرُوۡنَ‏
+    arabic: تَتَذَكَّرُونَ
     translation: you take heed
     transliteration: tatadhakkarūna
 ---

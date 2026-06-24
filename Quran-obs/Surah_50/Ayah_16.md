@@ -1,6 +1,6 @@
 ---
-arabic_ayat: وَلَقَدۡ خَلَقۡنَا الۡاِنۡسَانَ وَنَعۡلَمُ مَا تُوَسۡوِسُ بِهٖ نَفۡسُهٗ
-  ۖۚ وَنَحۡنُ اَقۡرَبُ اِلَيۡهِ مِنۡ حَبۡلِ الۡوَرِيۡدِ‏
+arabic_ayat: وَلَقَدۡ خَلَقۡنَا ٱلۡإِنسَٰنَ وَنَعۡلَمُ مَا تُوَسۡوِسُ بِهِۦ نَفۡسُهُۥۖ
+  وَنَحۡنُ أَقۡرَبُ إِلَيۡهِ مِنۡ حَبۡلِ ٱلۡوَرِيدِ
 sentence_translation: Indeed, ˹it is˺ We ˹Who˺ created humankind and ˹fully˺ know
   what their souls whisper to them, and We are closer to them than ˹their˺ jugular
   vein.
@@ -14,7 +14,7 @@ word_by_word:
     translation: We created
     transliteration: khalaqnā
   3:
-    arabic: الۡاِنۡسَانَ
+    arabic: ٱلۡإِنسَٰنَ
     translation: man
     transliteration: l-insāna
   4:
@@ -30,11 +30,11 @@ word_by_word:
     translation: whispers
     transliteration: tuwaswisu
   7:
-    arabic: بِهٖ
+    arabic: بِهِۦ
     translation: to him
     transliteration: bihi
   8:
-    arabic: نَفۡسُهٗ ۖۚ
+    arabic: نَفۡسُهُۥۖ
     translation: his soul
     transliteration: nafsuhu
   9:
@@ -42,11 +42,11 @@ word_by_word:
     translation: and We
     transliteration: wanaḥnu
   10:
-    arabic: اَقۡرَبُ
+    arabic: أَقۡرَبُ
     translation: (are) nearer
     transliteration: aqrabu
   11:
-    arabic: اِلَيۡهِ
+    arabic: إِلَيۡهِ
     translation: to him
     transliteration: ilayhi
   12:
@@ -58,7 +58,7 @@ word_by_word:
     translation: (his) jugular vein
     transliteration: ḥabli
   14:
-    arabic: الۡوَرِيۡدِ‏
+    arabic: ٱلۡوَرِيدِ
     translation: (his) jugular vein
     transliteration: l-warīdi
 ---

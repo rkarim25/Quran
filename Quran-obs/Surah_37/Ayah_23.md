@@ -1,33 +1,33 @@
 ---
-arabic_ayat: مِنۡ دُوۡنِ اللّٰهِ فَاهۡدُوۡهُمۡ اِلٰى صِرَاطِ الۡجَحِيۡمِ‏
+arabic_ayat: مِن دُونِ ٱللَّهِ فَٱهۡدُوهُمۡ إِلَىٰ صِرَٰطِ ٱلۡجَحِيمِ
 sentence_translation: instead of Allah, then lead them ˹all˺ to the path of Hell.
 word_by_word:
   1:
-    arabic: مِنۡ
+    arabic: مِن
     translation: Besides
     transliteration: min
   2:
-    arabic: دُوۡنِ
+    arabic: دُونِ
     translation: Besides
     transliteration: dūni
   3:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   4:
-    arabic: فَاهۡدُوۡهُمۡ
+    arabic: فَٱهۡدُوهُمۡ
     translation: then lead them
     transliteration: fa-ih'dūhum
   5:
-    arabic: اِلٰى
+    arabic: إِلَىٰ
     translation: to
     transliteration: ilā
   6:
-    arabic: صِرَاطِ
+    arabic: صِرَٰطِ
     translation: (the) Path
     transliteration: ṣirāṭi
   7:
-    arabic: الۡجَحِيۡمِ‏
+    arabic: ٱلۡجَحِيمِ
     translation: (of) the Hellfire
     transliteration: l-jaḥīmi
 ---

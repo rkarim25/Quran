@@ -1,10 +1,10 @@
 ---
-arabic_ayat: اَمۡ خَلَقۡنَا الۡمَلٰٓٮِٕكَةَ اِنَاثًا وَّهُمۡ شٰهِدُوۡنَ‏
+arabic_ayat: أَمۡ خَلَقۡنَا ٱلۡمَلَٰٓئِكَةَ إِنَٰثٗا وَهُمۡ شَٰهِدُونَ
 sentence_translation: Or ˹ask them˺ if We created the angels as females right before
   their eyes.
 word_by_word:
   1:
-    arabic: اَمۡ
+    arabic: أَمۡ
     translation: Or
     transliteration: am
   2:
@@ -12,19 +12,19 @@ word_by_word:
     translation: did We create
     transliteration: khalaqnā
   3:
-    arabic: الۡمَلٰٓٮِٕكَةَ
+    arabic: ٱلۡمَلَٰٓئِكَةَ
     translation: the Angels
     transliteration: l-malāikata
   4:
-    arabic: اِنَاثًا
+    arabic: إِنَٰثٗا
     translation: females
     transliteration: ināthan
   5:
-    arabic: وَّهُمۡ
+    arabic: وَهُمۡ
     translation: while they
     transliteration: wahum
   6:
-    arabic: شٰهِدُوۡنَ‏
+    arabic: شَٰهِدُونَ
     translation: (were) witnesses
     transliteration: shāhidūna
 ---

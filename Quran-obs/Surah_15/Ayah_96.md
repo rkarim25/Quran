@@ -1,14 +1,13 @@
 ---
-arabic_ayat: "الَّذِيۡنَ يَجۡعَلُوۡنَ مَعَ اللّٰهِ اِلٰهًا اٰخَرَ​ۚ فَسَوۡفَ يَعۡلَمُوۡنَ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: ٱلَّذِينَ يَجۡعَلُونَ مَعَ ٱللَّهِ إِلَٰهًا ءَاخَرَۚ فَسَوۡفَ يَعۡلَمُونَ
 sentence_translation: who set up ˹other˺ gods with Allah. They will soon come to know.
 word_by_word:
   1:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: Those who
     transliteration: alladhīna
   2:
-    arabic: يَجۡعَلُوۡنَ
+    arabic: يَجۡعَلُونَ
     translation: set up
     transliteration: yajʿalūna
   3:
@@ -16,15 +15,15 @@ word_by_word:
     translation: with
     transliteration: maʿa
   4:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   5:
-    arabic: اِلٰهًا
+    arabic: إِلَٰهًا ءَ
     translation: god
     transliteration: ilāhan
   6:
-    arabic: اٰخَرَ​ۚ
+    arabic: اخَرَۚ
     translation: another
     transliteration: ākhara
   7:
@@ -32,7 +31,7 @@ word_by_word:
     translation: But soon
     transliteration: fasawfa
   8:
-    arabic: "يَعۡلَمُوۡنَ‏ \uFEFF\uFEFF"
+    arabic: يَعۡلَمُونَ
     translation: they will come to know
     transliteration: yaʿlamūna
 ---

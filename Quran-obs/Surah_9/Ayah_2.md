@@ -1,36 +1,36 @@
 ---
-arabic_ayat: فَسِيۡحُوۡا فِى الۡاَرۡضِ اَرۡبَعَةَ اَشۡهُرٍ وَّاعۡلَمُوۡۤا اَنَّكُمۡ
-  غَيۡرُ مُعۡجِزِى اللّٰهِ​ۙ وَاَنَّ اللّٰهَ مُخۡزِى الۡكٰفِرِيۡنَ‏
+arabic_ayat: فَسِيحُواْ فِي ٱلۡأَرۡضِ أَرۡبَعَةَ أَشۡهُرٖ وَٱعۡلَمُوٓاْ أَنَّكُمۡ
+  غَيۡرُ مُعۡجِزِي ٱللَّهِ وَأَنَّ ٱللَّهَ مُخۡزِي ٱلۡكَٰفِرِينَ
 sentence_translation: “You ˹polytheists˺ may travel freely through the land for four
   months, but know that you will have no escape from Allah, and that Allah will disgrace
   the disbelievers.”
 word_by_word:
   1:
-    arabic: فَسِيۡحُوۡا
+    arabic: فَسِيحُواْ
     translation: So move about
     transliteration: fasīḥū
   2:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   3:
-    arabic: الۡاَرۡضِ
+    arabic: ٱلۡأَرۡضِ
     translation: the land
     transliteration: l-arḍi
   4:
-    arabic: اَرۡبَعَةَ
+    arabic: أَرۡبَعَةَ
     translation: (during) four
     transliteration: arbaʿata
   5:
-    arabic: اَشۡهُرٍ
+    arabic: أَشۡهُرٖ
     translation: months
     transliteration: ashhurin
   6:
-    arabic: وَّاعۡلَمُوۡۤا
+    arabic: وَٱعۡلَمُوٓاْ
     translation: but know
     transliteration: wa-iʿ'lamū
   7:
-    arabic: اَنَّكُمۡ
+    arabic: أَنَّكُمۡ
     translation: that you
     transliteration: annakum
   8:
@@ -38,27 +38,27 @@ word_by_word:
     translation: (can) not
     transliteration: ghayru
   9:
-    arabic: مُعۡجِزِى
+    arabic: مُعۡجِزِي
     translation: escape
     transliteration: muʿ'jizī
   10:
-    arabic: اللّٰهِ​ۙ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   11:
-    arabic: وَاَنَّ
+    arabic: وَأَنَّ
     translation: and that
     transliteration: wa-anna
   12:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   13:
-    arabic: مُخۡزِى
+    arabic: مُخۡزِي
     translation: (is) the One Who (will) disgrace
     transliteration: mukh'zī
   14:
-    arabic: الۡكٰفِرِيۡنَ‏
+    arabic: ٱلۡكَٰفِرِينَ
     translation: the disbelievers
     transliteration: l-kāfirīna
 ---

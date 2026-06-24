@@ -1,39 +1,39 @@
 ---
-arabic_ayat: يُوۡلِجُ الَّيۡلَ فِى النَّهَارِ وَيُوۡلِجُ النَّهَارَ فِى الَّيۡلِ​ؕ
-  وَهُوَ عَلِيۡمٌۢ بِذَاتِ الصُّدُوۡرِ‏
+arabic_ayat: يُولِجُ ٱلَّيۡلَ فِي ٱلنَّهَارِ وَيُولِجُ ٱلنَّهَارَ فِي ٱلَّيۡلِۚ وَهُوَ
+  عَلِيمُۢ بِذَاتِ ٱلصُّدُورِ
 sentence_translation: He merges the night into day and the day into night. And He
   knows best what is ˹hidden˺ in the heart.
 word_by_word:
   1:
-    arabic: يُوۡلِجُ
+    arabic: يُولِجُ
     translation: He merges
     transliteration: yūliju
   2:
-    arabic: الَّيۡلَ
+    arabic: ٱلَّيۡلَ
     translation: the night
     transliteration: al-layla
   3:
-    arabic: فِى
+    arabic: فِي
     translation: into
     transliteration: fī
   4:
-    arabic: النَّهَارِ
+    arabic: ٱلنَّهَارِ
     translation: the day
     transliteration: l-nahāri
   5:
-    arabic: وَيُوۡلِجُ
+    arabic: وَيُولِجُ
     translation: and He merges
     transliteration: wayūliju
   6:
-    arabic: النَّهَارَ
+    arabic: ٱلنَّهَارَ
     translation: the day
     transliteration: l-nahāra
   7:
-    arabic: فِى
+    arabic: فِي
     translation: into
     transliteration: fī
   8:
-    arabic: الَّيۡلِ​ؕ
+    arabic: ٱلَّيۡلِۚ
     translation: the night
     transliteration: al-layli
   9:
@@ -41,7 +41,7 @@ word_by_word:
     translation: and He
     transliteration: wahuwa
   10:
-    arabic: عَلِيۡمٌۢ
+    arabic: عَلِيمُۢ
     translation: (is) All-Knower
     transliteration: ʿalīmun
   11:
@@ -49,7 +49,7 @@ word_by_word:
     translation: of what is in the breasts
     transliteration: bidhāti
   12:
-    arabic: الصُّدُوۡرِ‏
+    arabic: ٱلصُّدُورِ
     translation: of what is in the breasts
     transliteration: l-ṣudūri
 ---

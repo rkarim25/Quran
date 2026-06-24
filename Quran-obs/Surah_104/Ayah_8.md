@@ -1,17 +1,17 @@
 ---
-arabic_ayat: اِنَّهَا عَلَيۡهِمۡ مُّؤۡصَدَةٌ ۙ‏
+arabic_ayat: إِنَّهَا عَلَيۡهِم مُّؤۡصَدَةٞ
 sentence_translation: It will be sealed over them,
 word_by_word:
   1:
-    arabic: اِنَّهَا
+    arabic: إِنَّهَا
     translation: Indeed, it
     transliteration: innahā
   2:
-    arabic: عَلَيۡهِمۡ
+    arabic: عَلَيۡهِم
     translation: (will be) upon them
     transliteration: ʿalayhim
   3:
-    arabic: مُّؤۡصَدَةٌ ۙ‏
+    arabic: مُّؤۡصَدَةٞ
     translation: closed over
     transliteration: mu'ṣadatun
 ---

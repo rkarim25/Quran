@@ -1,31 +1,31 @@
 ---
-arabic_ayat: "وَاِلٰهُكُمۡ اِلٰهٌ وَّاحِدٌ  ۚ لَآ اِلٰهَ اِلَّا هُوَ الرَّحۡمٰنُ\
-  \ الرَّحِيۡمُ‏ \uFEFF\uFEFF"
+arabic_ayat: وَإِلَٰهُكُمۡ إِلَٰهٞ وَٰحِدٞۖ لَّآ إِلَٰهَ إِلَّا هُوَ ٱلرَّحۡمَٰنُ
+  ٱلرَّحِيمُ
 sentence_translation: Your God is ˹only˺ One God. There is no god ˹worthy of worship˺
   except Him—the Most Compassionate, Most Merciful.
 word_by_word:
   1:
-    arabic: وَاِلٰهُكُمۡ
+    arabic: وَإِلَٰهُكُمۡ
     translation: And your God
     transliteration: wa-ilāhukum
   2:
-    arabic: اِلٰهٌ
+    arabic: إِلَٰهٞ
     translation: (is) God
     transliteration: ilāhun
   3:
-    arabic: وَّاحِدٌ  ۚ
+    arabic: وَٰحِدٞۖ
     translation: one (only)
     transliteration: wāḥidun
   4:
-    arabic: لَآ
+    arabic: لَّآ
     translation: (there is) no
     transliteration: lā
   5:
-    arabic: اِلٰهَ
+    arabic: إِلَٰهَ
     translation: god
     transliteration: ilāha
   6:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   7:
@@ -33,11 +33,11 @@ word_by_word:
     translation: Him
     transliteration: huwa
   8:
-    arabic: الرَّحۡمٰنُ
+    arabic: ٱلرَّحۡمَٰنُ
     translation: the Most Gracious
     transliteration: l-raḥmānu
   9:
-    arabic: "الرَّحِيۡمُ‏ \uFEFF\uFEFF"
+    arabic: ٱلرَّحِيمُ
     translation: the Most Merciful
     transliteration: l-raḥīmu
 ---

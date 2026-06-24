@@ -1,19 +1,19 @@
 ---
-arabic_ayat: ذٰلِكَ بِاَنَّ اللّٰهَ لَمۡ يَكُ مُغَيِّرًا نِّـعۡمَةً اَنۡعَمَهَا عَلٰى
-  قَوۡمٍ حَتّٰى يُغَيِّرُوۡا مَا بِاَنۡفُسِهِمۡ​ۙ وَاَنَّ اللّٰهَ سَمِيۡعٌ عَلِيۡمٌۙ‏
+arabic_ayat: ذَٰلِكَ بِأَنَّ ٱللَّهَ لَمۡ يَكُ مُغَيِّرٗا نِّعۡمَةً أَنۡعَمَهَا عَلَىٰ
+  قَوۡمٍ حَتَّىٰ يُغَيِّرُواْ مَا بِأَنفُسِهِمۡ وَأَنَّ ٱللَّهَ سَمِيعٌ عَلِيمٞ
 sentence_translation: This is because Allah would never discontinue His favour to
   a people until they discontinue their faith. Surely Allah is All-Hearing, All-Knowing.
 word_by_word:
   1:
-    arabic: ذٰلِكَ
+    arabic: ذَٰلِكَ
     translation: That
     transliteration: dhālika
   2:
-    arabic: بِاَنَّ
+    arabic: بِأَنَّ
     translation: (is) because
     transliteration: bi-anna
   3:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   4:
@@ -25,19 +25,19 @@ word_by_word:
     translation: is
     transliteration: yaku
   6:
-    arabic: مُغَيِّرًا
+    arabic: مُغَيِّرٗا
     translation: One Who changes
     transliteration: mughayyiran
   7:
-    arabic: نِّـعۡمَةً
+    arabic: نِّعۡمَةً
     translation: a favor
     transliteration: niʿ'matan
   8:
-    arabic: اَنۡعَمَهَا
+    arabic: أَنۡعَمَهَا
     translation: which He had bestowed
     transliteration: anʿamahā
   9:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: 'on'
     transliteration: ʿalā
   10:
@@ -45,11 +45,11 @@ word_by_word:
     translation: a people
     transliteration: qawmin
   11:
-    arabic: حَتّٰى
+    arabic: حَتَّىٰ
     translation: until
     transliteration: ḥattā
   12:
-    arabic: يُغَيِّرُوۡا
+    arabic: يُغَيِّرُواْ
     translation: they change
     transliteration: yughayyirū
   13:
@@ -57,23 +57,23 @@ word_by_word:
     translation: what
     transliteration: mā
   14:
-    arabic: بِاَنۡفُسِهِمۡ​ۙ
+    arabic: بِأَنفُسِهِمۡ
     translation: (is) in themselves
     transliteration: bi-anfusihim
   15:
-    arabic: وَاَنَّ
+    arabic: وَأَنَّ
     translation: And indeed
     transliteration: wa-anna
   16:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   17:
-    arabic: سَمِيۡعٌ
+    arabic: سَمِيعٌ
     translation: (is) All-Hearing
     transliteration: samīʿun
   18:
-    arabic: عَلِيۡمٌۙ‏
+    arabic: عَلِيمٞ
     translation: All-Knowing
     transliteration: ʿalīmun
 ---

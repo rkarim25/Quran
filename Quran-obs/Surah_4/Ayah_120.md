@@ -1,6 +1,5 @@
 ---
-arabic_ayat: "يَعِدُهُمۡ وَيُمَنِّيۡهِمۡ​ ؕ وَمَا يَعِدُهُمُ الشَّيۡـطٰنُ اِلَّا غُرُوۡرًا‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: يَعِدُهُمۡ وَيُمَنِّيهِمۡۖ وَمَا يَعِدُهُمُ ٱلشَّيۡطَٰنُ إِلَّا غُرُورًا
 sentence_translation: Satan only makes them ˹false˺ promises and deludes them with
   ˹empty˺ hopes. Truly Satan promises them nothing but delusion.
 word_by_word:
@@ -9,7 +8,7 @@ word_by_word:
     translation: He promises them
     transliteration: yaʿiduhum
   2:
-    arabic: وَيُمَنِّيۡهِمۡ​ ؕ
+    arabic: وَيُمَنِّيهِمۡۖ
     translation: and arouses desires in them
     transliteration: wayumannīhim
   3:
@@ -21,15 +20,15 @@ word_by_word:
     translation: promises them
     transliteration: yaʿiduhumu
   5:
-    arabic: الشَّيۡـطٰنُ
+    arabic: ٱلشَّيۡطَٰنُ
     translation: 'the Shaitaan '
     transliteration: l-shayṭānu
   6:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   7:
-    arabic: "غُرُوۡرًا‏ \uFEFF\uFEFF"
+    arabic: غُرُورًا
     translation: deception
     transliteration: ghurūran
 ---

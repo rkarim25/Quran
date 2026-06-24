@@ -1,5 +1,5 @@
 ---
-arabic_ayat: سَيَذَّكَّرُ مَنۡ يَّخۡشٰىۙ‏
+arabic_ayat: سَيَذَّكَّرُ مَن يَخۡشَىٰ
 sentence_translation: Those in awe ˹of Allah˺ will be mindful ˹of it˺.
 word_by_word:
   1:
@@ -7,11 +7,11 @@ word_by_word:
     translation: 'He will pay heed '
     transliteration: sayadhakkaru
   2:
-    arabic: مَنۡ
+    arabic: مَن
     translation: (one) who
     transliteration: man
   3:
-    arabic: يَّخۡشٰىۙ‏
+    arabic: يَخۡشَىٰ
     translation: fears (Allah)
     transliteration: yakhshā
 ---

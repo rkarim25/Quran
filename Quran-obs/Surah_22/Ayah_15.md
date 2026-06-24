@@ -1,14 +1,14 @@
 ---
-arabic_ayat: مَنۡ كَانَ يَظُنُّ اَنۡ لَّنۡ يَّـنۡصُرَهُ اللّٰهُ فِى الدُّنۡيَا وَالۡاٰخِرَةِ
-  فَلۡيَمۡدُدۡ بِسَبَبٍ اِلَى السَّمَآءِ ثُمَّ لۡيَـقۡطَعۡ فَلۡيَنۡظُرۡ هَلۡ يُذۡهِبَنَّ
-  كَيۡدُهٗ مَا يَغِيۡظُ‏
+arabic_ayat: مَن كَانَ يَظُنُّ أَن لَّن يَنصُرَهُ ٱللَّهُ فِي ٱلدُّنۡيَا وَٱلۡأٓخِرَةِ
+  فَلۡيَمۡدُدۡ بِسَبَبٍ إِلَى ٱلسَّمَآءِ ثُمَّ لۡيَقۡطَعۡ فَلۡيَنظُرۡ هَلۡ يُذۡهِبَنَّ
+  كَيۡدُهُۥ مَا يَغِيظُ
 sentence_translation: Whoever thinks that Allah will not help His Prophet in this
   world and the Hereafter, let them stretch out a rope to the ceiling and strangle
   themselves, then let them see if this plan will do away with ˹the cause of˺ their
   rage. 
 word_by_word:
   1:
-    arabic: مَنۡ
+    arabic: مَن
     translation: Whoever
     transliteration: man
   2:
@@ -20,31 +20,31 @@ word_by_word:
     translation: thinks
     transliteration: yaẓunnu
   4:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that
     transliteration: an
   5:
-    arabic: لَّنۡ
+    arabic: لَّن
     translation: not
     transliteration: lan
   6:
-    arabic: يَّـنۡصُرَهُ
+    arabic: يَنصُرَهُ
     translation: Allah will help him
     transliteration: yanṣurahu
   7:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah will help him
     transliteration: l-lahu
   8:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   9:
-    arabic: الدُّنۡيَا
+    arabic: ٱلدُّنۡيَا
     translation: the world
     transliteration: l-dun'yā
   10:
-    arabic: وَالۡاٰخِرَةِ
+    arabic: وَٱلۡأٓخِرَةِ
     translation: and the Hereafter
     transliteration: wal-ākhirati
   11:
@@ -56,11 +56,11 @@ word_by_word:
     translation: a rope
     transliteration: bisababin
   13:
-    arabic: اِلَى
+    arabic: إِلَى
     translation: to
     transliteration: ilā
   14:
-    arabic: السَّمَآءِ
+    arabic: ٱلسَّمَآءِ
     translation: the sky
     transliteration: l-samāi
   15:
@@ -68,11 +68,11 @@ word_by_word:
     translation: then
     transliteration: thumma
   16:
-    arabic: لۡيَـقۡطَعۡ
+    arabic: لۡيَقۡطَعۡ
     translation: let him cut off
     transliteration: l'yaqṭaʿ
   17:
-    arabic: فَلۡيَنۡظُرۡ
+    arabic: فَلۡيَنظُرۡ
     translation: then let him see
     transliteration: falyanẓur
   18:
@@ -84,7 +84,7 @@ word_by_word:
     translation: will remove
     transliteration: yudh'hibanna
   20:
-    arabic: كَيۡدُهٗ
+    arabic: كَيۡدُهُۥ
     translation: his plan
     transliteration: kayduhu
   21:
@@ -92,7 +92,7 @@ word_by_word:
     translation: what
     transliteration: mā
   22:
-    arabic: يَغِيۡظُ‏
+    arabic: يَغِيظُ
     translation: enrages
     transliteration: yaghīẓu
 ---

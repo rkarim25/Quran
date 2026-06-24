@@ -1,23 +1,22 @@
 ---
-arabic_ayat: "قَالُوۡا لَٮِٕنۡ اَكَلَهُ الذِّئۡبُ وَنَحۡنُ عُصۡبَةٌ اِنَّاۤ اِذًا\
-  \ لَّخٰسِرُوۡنَ‏ \uFEFF\uFEFF"
+arabic_ayat: قَالُواْ لَئِنۡ أَكَلَهُ ٱلذِّئۡبُ وَنَحۡنُ عُصۡبَةٌ إِنَّآ إِذٗا لَّخَٰسِرُونَ
 sentence_translation: They said, “If a wolf were to devour him, despite our strong
   group, then we would certainly be losers!”
 word_by_word:
   1:
-    arabic: قَالُوۡا
+    arabic: قَالُواْ
     translation: They said
     transliteration: qālū
   2:
-    arabic: لَٮِٕنۡ
+    arabic: لَئِنۡ
     translation: If
     transliteration: la-in
   3:
-    arabic: اَكَلَهُ
+    arabic: أَكَلَهُ
     translation: eats him
     transliteration: akalahu
   4:
-    arabic: الذِّئۡبُ
+    arabic: ٱلذِّئۡبُ
     translation: the wolf
     transliteration: l-dhi'bu
   5:
@@ -29,15 +28,15 @@ word_by_word:
     translation: (are) a group
     transliteration: ʿuṣ'batun
   7:
-    arabic: اِنَّاۤ
+    arabic: إِنَّآ
     translation: indeed, we
     transliteration: innā
   8:
-    arabic: اِذًا
+    arabic: إِذٗا
     translation: then
     transliteration: idhan
   9:
-    arabic: "لَّخٰسِرُوۡنَ‏ \uFEFF\uFEFF"
+    arabic: لَّخَٰسِرُونَ
     translation: surely (would be) losers
     transliteration: lakhāsirūna
 ---

@@ -1,37 +1,37 @@
 ---
-arabic_ayat: وَيَقُوۡلُ الَّذِيۡنَ اٰمَنُوۡۤا اَهٰٓؤُلَاۤءِ الَّذِيۡنَ اَقۡسَمُوۡا
-  بِاللّٰهِ جَهۡدَ اَيۡمَانِهِمۡ​ۙ اِنَّهُمۡ لَمَعَكُمۡ​ ؕ حَبِطَتۡ اَعۡمَالُهُمۡ
-  فَاَصۡبَحُوۡا خٰسِرِيۡنَ‏
+arabic_ayat: وَيَقُولُ ٱلَّذِينَ ءَامَنُوٓاْ أَهَٰٓؤُلَآءِ ٱلَّذِينَ أَقۡسَمُواْ
+  بِٱللَّهِ جَهۡدَ أَيۡمَٰنِهِمۡ إِنَّهُمۡ لَمَعَكُمۡۚ حَبِطَتۡ أَعۡمَٰلُهُمۡ فَأَصۡبَحُواْ
+  خَٰسِرِينَ
 sentence_translation: ˹Only then,˺ the believers will ask ˹one another˺, “Are these
   the ones who swore solemn oaths by Allah that they were with you?” Their deeds have
   been in vain, so they have become losers.
 word_by_word:
   1:
-    arabic: وَيَقُوۡلُ
+    arabic: وَيَقُولُ
     translation: And will say
     transliteration: wayaqūlu
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ ءَ
     translation: those who
     transliteration: alladhīna
   3:
-    arabic: اٰمَنُوۡۤا
+    arabic: امَنُوٓاْ
     translation: believe
     transliteration: āmanū
   4:
-    arabic: اَهٰٓؤُلَاۤءِ
+    arabic: أَهَٰٓؤُلَآءِ
     translation: Are these
     transliteration: ahāulāi
   5:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   6:
-    arabic: اَقۡسَمُوۡا
+    arabic: أَقۡسَمُواْ
     translation: swore
     transliteration: aqsamū
   7:
-    arabic: بِاللّٰهِ
+    arabic: بِٱللَّهِ
     translation: by Allah
     transliteration: bil-lahi
   8:
@@ -39,15 +39,15 @@ word_by_word:
     translation: strongest
     transliteration: jahda
   9:
-    arabic: اَيۡمَانِهِمۡ​ۙ
+    arabic: أَيۡمَٰنِهِمۡ
     translation: (of) their oaths
     transliteration: aymānihim
   10:
-    arabic: اِنَّهُمۡ
+    arabic: إِنَّهُمۡ
     translation: indeed, they
     transliteration: innahum
   11:
-    arabic: لَمَعَكُمۡ​ ؕ
+    arabic: لَمَعَكُمۡۚ
     translation: (were) with you
     transliteration: lamaʿakum
   12:
@@ -55,15 +55,15 @@ word_by_word:
     translation: Became worthless
     transliteration: ḥabiṭat
   13:
-    arabic: اَعۡمَالُهُمۡ
+    arabic: أَعۡمَٰلُهُمۡ
     translation: their deeds
     transliteration: aʿmāluhum
   14:
-    arabic: فَاَصۡبَحُوۡا
+    arabic: فَأَصۡبَحُواْ
     translation: and they became
     transliteration: fa-aṣbaḥū
   15:
-    arabic: خٰسِرِيۡنَ‏
+    arabic: خَٰسِرِينَ
     translation: (the) losers
     transliteration: khāsirīna
 ---

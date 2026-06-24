@@ -1,28 +1,28 @@
 ---
-arabic_ayat: بِالۡبَيِّنٰتِ وَالزُّبُرِ​ؕ وَاَنۡزَلۡنَاۤ اِلَيۡكَ الذِّكۡرَ لِتُبَيِّنَ
-  لِلنَّاسِ مَا نُزِّلَ اِلَيۡهِمۡ وَلَعَلَّهُمۡ يَتَفَكَّرُوۡنَ‏
+arabic_ayat: بِٱلۡبَيِّنَٰتِ وَٱلزُّبُرِۗ وَأَنزَلۡنَآ إِلَيۡكَ ٱلذِّكۡرَ لِتُبَيِّنَ
+  لِلنَّاسِ مَا نُزِّلَ إِلَيۡهِمۡ وَلَعَلَّهُمۡ يَتَفَكَّرُونَ
 sentence_translation: ˹We sent them˺ with clear proofs and divine Books. And We have
   sent down to you ˹O Prophet˺ the Reminder, so that you may explain to people what
   has been revealed for them, and perhaps they will reflect.
 word_by_word:
   1:
-    arabic: بِالۡبَيِّنٰتِ
+    arabic: بِٱلۡبَيِّنَٰتِ
     translation: With the clear proofs
     transliteration: bil-bayināti
   2:
-    arabic: وَالزُّبُرِ​ؕ
+    arabic: وَٱلزُّبُرِۗ
     translation: and the Books
     transliteration: wal-zuburi
   3:
-    arabic: وَاَنۡزَلۡنَاۤ
+    arabic: وَأَنزَلۡنَآ
     translation: And We sent down
     transliteration: wa-anzalnā
   4:
-    arabic: اِلَيۡكَ
+    arabic: إِلَيۡكَ
     translation: to you
     transliteration: ilayka
   5:
-    arabic: الذِّكۡرَ
+    arabic: ٱلذِّكۡرَ
     translation: the Remembrance
     transliteration: l-dhik'ra
   6:
@@ -42,7 +42,7 @@ word_by_word:
     translation: has been sent down
     transliteration: nuzzila
   10:
-    arabic: اِلَيۡهِمۡ
+    arabic: إِلَيۡهِمۡ
     translation: to them
     transliteration: ilayhim
   11:
@@ -50,7 +50,7 @@ word_by_word:
     translation: and that they may
     transliteration: walaʿallahum
   12:
-    arabic: يَتَفَكَّرُوۡنَ‏
+    arabic: يَتَفَكَّرُونَ
     translation: reflect
     transliteration: yatafakkarūna
 ---

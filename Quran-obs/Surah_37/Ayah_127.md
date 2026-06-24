@@ -1,18 +1,18 @@
 ---
-arabic_ayat: فَكَذَّبُوۡهُ فَاِنَّهُمۡ لَمُحۡضَرُوۡنَۙ‏
+arabic_ayat: فَكَذَّبُوهُ فَإِنَّهُمۡ لَمُحۡضَرُونَ
 sentence_translation: But they rejected him, so they will certainly be brought ˹for
   punishment˺.
 word_by_word:
   1:
-    arabic: فَكَذَّبُوۡهُ
+    arabic: فَكَذَّبُوهُ
     translation: But they denied him
     transliteration: fakadhabūhu
   2:
-    arabic: فَاِنَّهُمۡ
+    arabic: فَإِنَّهُمۡ
     translation: so indeed, they
     transliteration: fa-innahum
   3:
-    arabic: لَمُحۡضَرُوۡنَۙ‏
+    arabic: لَمُحۡضَرُونَ
     translation: (will) surely be brought
     transliteration: lamuḥ'ḍarūna
 ---

@@ -1,6 +1,6 @@
 ---
-arabic_ayat: سَخَّرَهَا عَلَيۡهِمۡ سَبۡعَ لَيَالٍ وَّثَمٰنِيَةَ اَيَّامٍۙ حُسُوۡمًا
-  ۙ فَتَرَى الۡقَوۡمَ فِيۡهَا صَرۡعٰىۙ كَاَنَّهُمۡ اَعۡجَازُ نَخۡلٍ خَاوِيَةٍ​ ۚ‏
+arabic_ayat: سَخَّرَهَا عَلَيۡهِمۡ سَبۡعَ لَيَالٖ وَثَمَٰنِيَةَ أَيَّامٍ حُسُومٗاۖ
+  فَتَرَى ٱلۡقَوۡمَ فِيهَا صَرۡعَىٰ كَأَنَّهُمۡ أَعۡجَازُ نَخۡلٍ خَاوِيَةٖ
 sentence_translation: which Allah unleashed on them non-stop for seven nights and
   eight days, so that you would have seen its people lying dead like trunks of uprooted
   palm trees.
@@ -18,19 +18,19 @@ word_by_word:
     translation: (for) seven
     transliteration: sabʿa
   4:
-    arabic: لَيَالٍ
+    arabic: لَيَالٖ
     translation: nights
     transliteration: layālin
   5:
-    arabic: وَّثَمٰنِيَةَ
+    arabic: وَثَمَٰنِيَةَ
     translation: and eight
     transliteration: wathamāniyata
   6:
-    arabic: اَيَّامٍۙ
+    arabic: أَيَّامٍ
     translation: days
     transliteration: ayyāmin
   7:
-    arabic: حُسُوۡمًا ۙ
+    arabic: حُسُومٗاۖ
     translation: (in) succession
     transliteration: ḥusūman
   8:
@@ -38,23 +38,23 @@ word_by_word:
     translation: so you would see
     transliteration: fatarā
   9:
-    arabic: الۡقَوۡمَ
+    arabic: ٱلۡقَوۡمَ
     translation: the people
     transliteration: l-qawma
   10:
-    arabic: فِيۡهَا
+    arabic: فِيهَا
     translation: therein
     transliteration: fīhā
   11:
-    arabic: صَرۡعٰىۙ
+    arabic: صَرۡعَىٰ
     translation: fallen
     transliteration: ṣarʿā
   12:
-    arabic: كَاَنَّهُمۡ
+    arabic: كَأَنَّهُمۡ
     translation: as if they were
     transliteration: ka-annahum
   13:
-    arabic: اَعۡجَازُ
+    arabic: أَعۡجَازُ
     translation: trunks
     transliteration: aʿjāzu
   14:
@@ -62,7 +62,7 @@ word_by_word:
     translation: (of) date-palms
     transliteration: nakhlin
   15:
-    arabic: خَاوِيَةٍ​ ۚ‏
+    arabic: خَاوِيَةٖ
     translation: hollow
     transliteration: khāwiyatin
 ---

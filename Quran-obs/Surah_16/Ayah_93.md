@@ -1,7 +1,6 @@
 ---
-arabic_ayat: وَلَوۡ شَآءَ اللّٰهُ لَجَـعَلَكُمۡ اُمَّةً وَّاحِدَةً وَّلٰـكِنۡ يُّضِلُّ
-  مَنۡ يَّشَآءُ وَيَهۡدِىۡ مَنۡ يَّشَآءُ​ ؕ وَلَـتُسۡـــَٔلُنَّ عَمَّا كُنۡتُمۡ
-  تَعۡمَلُوۡنَ‏
+arabic_ayat: وَلَوۡ شَآءَ ٱللَّهُ لَجَعَلَكُمۡ أُمَّةٗ وَٰحِدَةٗ وَلَٰكِن يُضِلُّ
+  مَن يَشَآءُ وَيَهۡدِي مَن يَشَآءُۚ وَلَتُسۡـَٔلُنَّ عَمَّا كُنتُمۡ تَعۡمَلُونَ
 sentence_translation: Had Allah willed, He could have easily made you one community
   ˹of believers˺, but He leaves to stray whoever He wills and guides whoever He wills. And
   you will certainly be questioned about what you used to do.
@@ -15,51 +14,51 @@ word_by_word:
     translation: Allah (had) willed
     transliteration: shāa
   3:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah (had) willed
     transliteration: l-lahu
   4:
-    arabic: لَجَـعَلَكُمۡ
+    arabic: لَجَعَلَكُمۡ
     translation: surely He (could) have made you
     transliteration: lajaʿalakum
   5:
-    arabic: اُمَّةً
+    arabic: أُمَّةٗ
     translation: a nation
     transliteration: ummatan
   6:
-    arabic: وَّاحِدَةً
+    arabic: وَٰحِدَةٗ
     translation: one
     transliteration: wāḥidatan
   7:
-    arabic: وَّلٰـكِنۡ
+    arabic: وَلَٰكِن
     translation: but
     transliteration: walākin
   8:
-    arabic: يُّضِلُّ
+    arabic: يُضِلُّ
     translation: He lets go astray
     transliteration: yuḍillu
   9:
-    arabic: مَنۡ
+    arabic: مَن
     translation: whom
     transliteration: man
   10:
-    arabic: يَّشَآءُ
+    arabic: يَشَآءُ
     translation: He wills
     transliteration: yashāu
   11:
-    arabic: وَيَهۡدِىۡ
+    arabic: وَيَهۡدِي
     translation: and guides
     transliteration: wayahdī
   12:
-    arabic: مَنۡ
+    arabic: مَن
     translation: whom
     transliteration: man
   13:
-    arabic: يَّشَآءُ​ ؕ
+    arabic: يَشَآءُۚ
     translation: He wills
     transliteration: yashāu
   14:
-    arabic: وَلَـتُسۡـــَٔلُنَّ
+    arabic: وَلَتُسۡـَٔلُنَّ
     translation: And surely you will be questioned
     transliteration: walatus'alunna
   15:
@@ -67,11 +66,11 @@ word_by_word:
     translation: about what
     transliteration: ʿammā
   16:
-    arabic: كُنۡتُمۡ
+    arabic: كُنتُمۡ
     translation: you used (to)
     transliteration: kuntum
   17:
-    arabic: تَعۡمَلُوۡنَ‏
+    arabic: تَعۡمَلُونَ
     translation: do
     transliteration: taʿmalūna
 ---

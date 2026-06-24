@@ -1,17 +1,17 @@
 ---
-arabic_ayat: يٰنِسَآءَ النَّبِىِّ لَسۡتُنَّ كَاَحَدٍ مِّنَ النِّسَآءِ اِنِ اتَّقَيۡتُنَّ
-  فَلَا تَخۡضَعۡنَ بِالۡقَوۡلِ فَيَـطۡمَعَ الَّذِىۡ فِىۡ قَلۡبِهٖ مَرَضٌ وَّقُلۡنَ
-  قَوۡلًا مَّعۡرُوۡفًا ۚ‏
+arabic_ayat: يَٰنِسَآءَ ٱلنَّبِيِّ لَسۡتُنَّ كَأَحَدٖ مِّنَ ٱلنِّسَآءِ إِنِ ٱتَّقَيۡتُنَّۚ
+  فَلَا تَخۡضَعۡنَ بِٱلۡقَوۡلِ فَيَطۡمَعَ ٱلَّذِي فِي قَلۡبِهِۦ مَرَضٞ وَقُلۡنَ قَوۡلٗا
+  مَّعۡرُوفٗا
 sentence_translation: 'O wives of the Prophet! You are not like any other women: if
   you are mindful ˹of Allah˺, then do not be overly effeminate in speech ˹with men˺
   or those with sickness in their hearts may be tempted, but speak in a moderate tone.'
 word_by_word:
   1:
-    arabic: يٰنِسَآءَ
+    arabic: يَٰنِسَآءَ
     translation: O wives
     transliteration: yānisāa
   2:
-    arabic: النَّبِىِّ
+    arabic: ٱلنَّبِيِّ
     translation: (of) the Prophet
     transliteration: l-nabiyi
   3:
@@ -19,7 +19,7 @@ word_by_word:
     translation: You are not
     transliteration: lastunna
   4:
-    arabic: كَاَحَدٍ
+    arabic: كَأَحَدٖ
     translation: like anyone
     transliteration: ka-aḥadin
   5:
@@ -27,15 +27,15 @@ word_by_word:
     translation: among
     transliteration: mina
   6:
-    arabic: النِّسَآءِ
+    arabic: ٱلنِّسَآءِ
     translation: the women
     transliteration: l-nisāi
   7:
-    arabic: اِنِ
+    arabic: إِنِ
     translation: If
     transliteration: ini
   8:
-    arabic: اتَّقَيۡتُنَّ
+    arabic: ٱتَّقَيۡتُنَّۚ
     translation: you fear (Allah)
     transliteration: ittaqaytunna
   9:
@@ -47,39 +47,39 @@ word_by_word:
     translation: be soft
     transliteration: takhḍaʿna
   11:
-    arabic: بِالۡقَوۡلِ
+    arabic: بِٱلۡقَوۡلِ
     translation: in speech
     transliteration: bil-qawli
   12:
-    arabic: فَيَـطۡمَعَ
+    arabic: فَيَطۡمَعَ
     translation: lest should be moved with desire
     transliteration: fayaṭmaʿa
   13:
-    arabic: الَّذِىۡ
+    arabic: ٱلَّذِي
     translation: he who
     transliteration: alladhī
   14:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   15:
-    arabic: قَلۡبِهٖ
+    arabic: قَلۡبِهِۦ
     translation: his heart
     transliteration: qalbihi
   16:
-    arabic: مَرَضٌ
+    arabic: مَرَضٞ
     translation: (is) a disease
     transliteration: maraḍun
   17:
-    arabic: وَّقُلۡنَ
+    arabic: وَقُلۡنَ
     translation: but say
     transliteration: waqul'na
   18:
-    arabic: قَوۡلًا
+    arabic: قَوۡلٗا
     translation: a word
     transliteration: qawlan
   19:
-    arabic: مَّعۡرُوۡفًا ۚ‏
+    arabic: مَّعۡرُوفٗا
     translation: appropriate
     transliteration: maʿrūfan
 ---

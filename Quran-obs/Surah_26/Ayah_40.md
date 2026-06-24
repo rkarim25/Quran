@@ -1,5 +1,5 @@
 ---
-arabic_ayat: لَعَلَّنَا نَـتَّبِعُ السَّحَرَةَ اِنۡ كَانُوۡا هُمُ الۡغٰلِبِيۡنَ‏
+arabic_ayat: لَعَلَّنَا نَتَّبِعُ ٱلسَّحَرَةَ إِن كَانُواْ هُمُ ٱلۡغَٰلِبِينَ
 sentence_translation: so that we may follow the magicians if they prevail?”
 word_by_word:
   1:
@@ -7,19 +7,19 @@ word_by_word:
     translation: That we may
     transliteration: laʿallanā
   2:
-    arabic: نَـتَّبِعُ
+    arabic: نَتَّبِعُ
     translation: follow
     transliteration: nattabiʿu
   3:
-    arabic: السَّحَرَةَ
+    arabic: ٱلسَّحَرَةَ
     translation: the magicians
     transliteration: l-saḥarata
   4:
-    arabic: اِنۡ
+    arabic: إِن
     translation: if
     transliteration: in
   5:
-    arabic: كَانُوۡا
+    arabic: كَانُواْ
     translation: they are
     transliteration: kānū
   6:
@@ -27,7 +27,7 @@ word_by_word:
     translation: they are
     transliteration: humu
   7:
-    arabic: الۡغٰلِبِيۡنَ‏
+    arabic: ٱلۡغَٰلِبِينَ
     translation: the victorious
     transliteration: l-ghālibīna
 ---

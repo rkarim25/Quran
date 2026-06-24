@@ -1,15 +1,15 @@
 ---
-arabic_ayat: اَمۡ حَسِبۡتُمۡ اَنۡ تَدۡخُلُوا الۡجَـنَّةَ وَ لَمَّا يَاۡتِكُمۡ مَّثَلُ
-  الَّذِيۡنَ خَلَوۡا مِنۡ قَبۡلِكُمۡؕ مَسَّتۡهُمُ الۡبَاۡسَآءُ وَالضَّرَّآءُ وَزُلۡزِلُوۡا
-  حَتّٰى يَقُوۡلَ الرَّسُوۡلُ وَالَّذِيۡنَ اٰمَنُوۡا مَعَهٗ مَتٰى نَصۡرُ اللّٰهِؕ
-  اَلَاۤ اِنَّ نَصۡرَ اللّٰهِ قَرِيۡبٌ‏
+arabic_ayat: أَمۡ حَسِبۡتُمۡ أَن تَدۡخُلُواْ ٱلۡجَنَّةَ وَلَمَّا يَأۡتِكُم مَّثَلُ
+  ٱلَّذِينَ خَلَوۡاْ مِن قَبۡلِكُمۖ مَّسَّتۡهُمُ ٱلۡبَأۡسَآءُ وَٱلضَّرَّآءُ وَزُلۡزِلُواْ
+  حَتَّىٰ يَقُولَ ٱلرَّسُولُ وَٱلَّذِينَ ءَامَنُواْ مَعَهُۥ مَتَىٰ نَصۡرُ ٱللَّهِۗ
+  أَلَآ إِنَّ نَصۡرَ ٱللَّهِ قَرِيبٞ
 sentence_translation: Do you think you will be admitted into Paradise without being
   tested like those before you? They were afflicted with suffering and adversity and
   were so ˹violently˺ shaken that ˹even˺ the Messenger and the believers with him
   cried out, “When will Allah’s help come?” Indeed, Allah’s help is ˹always˺ near.
 word_by_word:
   1:
-    arabic: اَمۡ
+    arabic: أَمۡ
     translation: Or
     transliteration: am
   2:
@@ -17,23 +17,23 @@ word_by_word:
     translation: (do) you think
     transliteration: ḥasib'tum
   3:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that
     transliteration: an
   4:
-    arabic: تَدۡخُلُوا
+    arabic: تَدۡخُلُواْ
     translation: you will enter
     transliteration: tadkhulū
   5:
-    arabic: الۡجَـنَّةَ
+    arabic: ٱلۡجَنَّةَ
     translation: Paradise
     transliteration: l-janata
   6:
-    arabic: وَ لَمَّا
+    arabic: وَلَمَّا
     translation: while not
     transliteration: walammā
   7:
-    arabic: يَاۡتِكُمۡ
+    arabic: يَأۡتِكُم
     translation: (has) come to you
     transliteration: yatikum
   8:
@@ -41,63 +41,63 @@ word_by_word:
     translation: like (came to)
     transliteration: mathalu
   9:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   10:
-    arabic: خَلَوۡا
+    arabic: خَلَوۡاْ
     translation: passed away
     transliteration: khalaw
   11:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   12:
-    arabic: قَبۡلِكُمۡؕ
+    arabic: قَبۡلِكُمۖ
     translation: before you
     transliteration: qablikum
   13:
-    arabic: مَسَّتۡهُمُ
+    arabic: مَّسَّتۡهُمُ
     translation: Touched them
     transliteration: massathumu
   14:
-    arabic: الۡبَاۡسَآءُ
+    arabic: ٱلۡبَأۡسَآءُ
     translation: '[the] adversity'
     transliteration: l-basāu
   15:
-    arabic: وَالضَّرَّآءُ
+    arabic: وَٱلضَّرَّآءُ
     translation: and [the] hardship
     transliteration: wal-ḍarāu
   16:
-    arabic: وَزُلۡزِلُوۡا
+    arabic: وَزُلۡزِلُواْ
     translation: and they were shaken
     transliteration: wazul'zilū
   17:
-    arabic: حَتّٰى
+    arabic: حَتَّىٰ
     translation: until
     transliteration: ḥattā
   18:
-    arabic: يَقُوۡلَ
+    arabic: يَقُولَ
     translation: said
     transliteration: yaqūla
   19:
-    arabic: الرَّسُوۡلُ
+    arabic: ٱلرَّسُولُ
     translation: the Messenger
     transliteration: l-rasūlu
   20:
-    arabic: وَالَّذِيۡنَ
+    arabic: وَٱلَّذِينَ ءَ
     translation: and those who
     transliteration: wa-alladhīna
   21:
-    arabic: اٰمَنُوۡا
+    arabic: امَنُواْ
     translation: believed
     transliteration: āmanū
   22:
-    arabic: مَعَهٗ
+    arabic: مَعَهُۥ
     translation: with him
     transliteration: maʿahu
   23:
-    arabic: مَتٰى
+    arabic: مَتَىٰ
     translation: When
     transliteration: matā
   24:
@@ -105,15 +105,15 @@ word_by_word:
     translation: '[will] (the) help'
     transliteration: naṣru
   25:
-    arabic: اللّٰهِؕ
+    arabic: ٱللَّهِۗ
     translation: (of) Allah (come)
     transliteration: l-lahi
   26:
-    arabic: اَلَاۤ
+    arabic: أَلَآ
     translation: Unquestionably
     transliteration: alā
   27:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: '[Indeed]'
     transliteration: inna
   28:
@@ -121,11 +121,11 @@ word_by_word:
     translation: help
     transliteration: naṣra
   29:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (of) Allah
     transliteration: l-lahi
   30:
-    arabic: قَرِيۡبٌ‏
+    arabic: قَرِيبٞ
     translation: (is) near
     transliteration: qarībun
 ---

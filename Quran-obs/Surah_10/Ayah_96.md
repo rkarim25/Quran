@@ -1,14 +1,14 @@
 ---
-arabic_ayat: اِنَّ الَّذِيۡنَ حَقَّتۡ عَلَيۡهِمۡ كَلِمَتُ رَبِّكَ لَا يُؤۡمِنُوۡنَۙ‏
+arabic_ayat: إِنَّ ٱلَّذِينَ حَقَّتۡ عَلَيۡهِمۡ كَلِمَتُ رَبِّكَ لَا يُؤۡمِنُونَ
 sentence_translation: Indeed, those against whom Allah’s decree ˹of torment˺ is justified
   will not believe—
 word_by_word:
   1:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those [whom]
     transliteration: alladhīna
   3:
@@ -32,7 +32,7 @@ word_by_word:
     translation: will not
     transliteration: lā
   8:
-    arabic: يُؤۡمِنُوۡنَۙ‏
+    arabic: يُؤۡمِنُونَ
     translation: believe
     transliteration: yu'minūna
 ---

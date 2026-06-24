@@ -1,15 +1,15 @@
 ---
-arabic_ayat: وَالَّتِىۡۤ اَحۡصَنَتۡ فَرۡجَهَا فَـنَفَخۡنَا فِيۡهَا مِنۡ رُّوۡحِنَا
-  وَ جَعَلۡنٰهَا وَابۡنَهَاۤ اٰيَةً لِّـلۡعٰلَمِيۡنَ‏
+arabic_ayat: وَٱلَّتِيٓ أَحۡصَنَتۡ فَرۡجَهَا فَنَفَخۡنَا فِيهَا مِن رُّوحِنَا وَجَعَلۡنَٰهَا
+  وَٱبۡنَهَآ ءَايَةٗ لِّلۡعَٰلَمِينَ
 sentence_translation: And ˹remember˺ the one who guarded her chastity, so We breathed
   into her through Our angel, ˹Gabriel,˺ making her and her son a sign for all peoples.
 word_by_word:
   1:
-    arabic: وَالَّتِىۡۤ
+    arabic: وَٱلَّتِيٓ
     translation: And she who
     transliteration: wa-allatī
   2:
-    arabic: اَحۡصَنَتۡ
+    arabic: أَحۡصَنَتۡ
     translation: guarded
     transliteration: aḥṣanat
   3:
@@ -17,35 +17,35 @@ word_by_word:
     translation: her chastity
     transliteration: farjahā
   4:
-    arabic: فَـنَفَخۡنَا
+    arabic: فَنَفَخۡنَا
     translation: so We breathed
     transliteration: fanafakhnā
   5:
-    arabic: فِيۡهَا
+    arabic: فِيهَا
     translation: into her
     transliteration: fīhā
   6:
-    arabic: مِنۡ
+    arabic: مِن
     translation: of
     transliteration: min
   7:
-    arabic: رُّوۡحِنَا
+    arabic: رُّوحِنَا
     translation: Our Spirit
     transliteration: rūḥinā
   8:
-    arabic: وَ جَعَلۡنٰهَا
+    arabic: وَجَعَلۡنَٰهَا
     translation: and We made her
     transliteration: wajaʿalnāhā
   9:
-    arabic: وَابۡنَهَاۤ
+    arabic: وَٱبۡنَهَآ ءَ
     translation: and her son
     transliteration: wa-ib'nahā
   10:
-    arabic: اٰيَةً
+    arabic: ايَةٗ
     translation: a sign
     transliteration: āyatan
   11:
-    arabic: لِّـلۡعٰلَمِيۡنَ‏
+    arabic: لِّلۡعَٰلَمِينَ
     translation: for the worlds
     transliteration: lil'ʿālamīna
 ---

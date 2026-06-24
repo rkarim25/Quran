@@ -1,5 +1,5 @@
 ---
-arabic_ayat: مَا كَذَبَ الۡفُؤَادُ مَا رَاٰى‏
+arabic_ayat: مَا كَذَبَ ٱلۡفُؤَادُ مَا رَأَىٰٓ
 sentence_translation: The ˹Prophet’s˺ heart did not doubt what he saw.
 word_by_word:
   1:
@@ -11,7 +11,7 @@ word_by_word:
     translation: lied
     transliteration: kadhaba
   3:
-    arabic: الۡفُؤَادُ
+    arabic: ٱلۡفُؤَادُ
     translation: the heart
     transliteration: l-fuādu
   4:
@@ -19,7 +19,7 @@ word_by_word:
     translation: what
     transliteration: mā
   5:
-    arabic: رَاٰى‏
+    arabic: رَأَىٰٓ
     translation: it saw
     transliteration: raā
 ---

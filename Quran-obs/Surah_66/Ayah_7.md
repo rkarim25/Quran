@@ -1,19 +1,19 @@
 ---
-arabic_ayat: يٰۤاَيُّهَا الَّذِيۡنَ كَفَرُوۡا لَا تَعۡتَذِرُوا الۡيَوۡمَ​ؕ اِنَّمَا
-  تُجۡزَوۡنَ مَا كُنۡتُمۡ تَعۡمَلُوۡنَ‏
+arabic_ayat: يَٰٓأَيُّهَا ٱلَّذِينَ كَفَرُواْ لَا تَعۡتَذِرُواْ ٱلۡيَوۡمَۖ إِنَّمَا
+  تُجۡزَوۡنَ مَا كُنتُمۡ تَعۡمَلُونَ
 sentence_translation: ˹The deniers will then be told,˺ “O disbelievers! Make no excuses
   this Day! You are only rewarded for what you used to do.”
 word_by_word:
   1:
-    arabic: يٰۤاَيُّهَا
+    arabic: يَٰٓأَيُّهَا
     translation: O
     transliteration: yāayyuhā
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: (you) who
     transliteration: alladhīna
   3:
-    arabic: كَفَرُوۡا
+    arabic: كَفَرُواْ
     translation: disbelieve
     transliteration: kafarū
   4:
@@ -21,15 +21,15 @@ word_by_word:
     translation: (Do) not
     transliteration: lā
   5:
-    arabic: تَعۡتَذِرُوا
+    arabic: تَعۡتَذِرُواْ
     translation: make excuses
     transliteration: taʿtadhirū
   6:
-    arabic: الۡيَوۡمَ​ؕ
+    arabic: ٱلۡيَوۡمَۖ
     translation: today
     transliteration: l-yawma
   7:
-    arabic: اِنَّمَا
+    arabic: إِنَّمَا
     translation: Only
     transliteration: innamā
   8:
@@ -41,11 +41,11 @@ word_by_word:
     translation: (for) what
     transliteration: mā
   10:
-    arabic: كُنۡتُمۡ
+    arabic: كُنتُمۡ
     translation: you used to
     transliteration: kuntum
   11:
-    arabic: تَعۡمَلُوۡنَ‏
+    arabic: تَعۡمَلُونَ
     translation: do
     transliteration: taʿmalūna
 ---

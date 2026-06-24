@@ -1,6 +1,5 @@
 ---
-arabic_ayat: "يَوۡمَ نَـقُوۡلُ لِجَهَـنَّمَ هَلِ امۡتَلَـئْتِ وَتَقُوۡلُ هَلۡ مِنۡ\
-  \ مَّزِيۡدٍ‏ \uFEFF\uFEFF"
+arabic_ayat: يَوۡمَ نَقُولُ لِجَهَنَّمَ هَلِ ٱمۡتَلَأۡتِ وَتَقُولُ هَلۡ مِن مَّزِيدٖ
 sentence_translation: ˹Beware of˺ the Day We will ask Hell, “Are you full ˹yet˺?”
   And it will respond, “Are there any more?”
 word_by_word:
@@ -9,11 +8,11 @@ word_by_word:
     translation: (The) Day
     transliteration: yawma
   2:
-    arabic: نَـقُوۡلُ
+    arabic: نَقُولُ
     translation: We will say
     transliteration: naqūlu
   3:
-    arabic: لِجَهَـنَّمَ
+    arabic: لِجَهَنَّمَ
     translation: to Hell
     transliteration: lijahannama
   4:
@@ -21,11 +20,11 @@ word_by_word:
     translation: Are
     transliteration: hali
   5:
-    arabic: امۡتَلَـئْتِ
+    arabic: ٱمۡتَلَأۡتِ
     translation: you filled
     transliteration: im'talati
   6:
-    arabic: وَتَقُوۡلُ
+    arabic: وَتَقُولُ
     translation: And it will say
     transliteration: wataqūlu
   7:
@@ -33,11 +32,11 @@ word_by_word:
     translation: Are
     transliteration: hal
   8:
-    arabic: مِنۡ
+    arabic: مِن
     translation: (there) any
     transliteration: min
   9:
-    arabic: "مَّزِيۡدٍ‏ \uFEFF\uFEFF"
+    arabic: مَّزِيدٖ
     translation: more
     transliteration: mazīdin
 ---

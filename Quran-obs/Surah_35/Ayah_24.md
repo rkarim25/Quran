@@ -1,31 +1,31 @@
 ---
-arabic_ayat: اِنَّاۤ اَرۡسَلۡنٰكَ بِالۡحَـقِّ بَشِيۡرًا وَّنَذِيۡرًاؕ وَاِنۡ مِّنۡ
-  اُمَّةٍ اِلَّا خَلَا فِيۡهَا نَذِيۡرٌ‏
+arabic_ayat: إِنَّآ أَرۡسَلۡنَٰكَ بِٱلۡحَقِّ بَشِيرٗا وَنَذِيرٗاۚ وَإِن مِّنۡ أُمَّةٍ
+  إِلَّا خَلَا فِيهَا نَذِيرٞ
 sentence_translation: We have surely sent you with the truth as a deliverer of good
   news and a warner. There is no community that has not had a warner.
 word_by_word:
   1:
-    arabic: اِنَّاۤ
+    arabic: إِنَّآ
     translation: Indeed, We
     transliteration: innā
   2:
-    arabic: اَرۡسَلۡنٰكَ
+    arabic: أَرۡسَلۡنَٰكَ
     translation: '[We] have sent you'
     transliteration: arsalnāka
   3:
-    arabic: بِالۡحَـقِّ
+    arabic: بِٱلۡحَقِّ
     translation: with the truth
     transliteration: bil-ḥaqi
   4:
-    arabic: بَشِيۡرًا
+    arabic: بَشِيرٗا
     translation: (as) a bearer of glad tidings
     transliteration: bashīran
   5:
-    arabic: وَّنَذِيۡرًاؕ
+    arabic: وَنَذِيرٗاۚ
     translation: and (as) a warner
     transliteration: wanadhīran
   6:
-    arabic: وَاِنۡ
+    arabic: وَإِن
     translation: And not
     transliteration: wa-in
   7:
@@ -33,11 +33,11 @@ word_by_word:
     translation: (was) any
     transliteration: min
   8:
-    arabic: اُمَّةٍ
+    arabic: أُمَّةٍ
     translation: nation
     transliteration: ummatin
   9:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: but
     transliteration: illā
   10:
@@ -45,11 +45,11 @@ word_by_word:
     translation: had passed
     transliteration: khalā
   11:
-    arabic: فِيۡهَا
+    arabic: فِيهَا
     translation: within it
     transliteration: fīhā
   12:
-    arabic: نَذِيۡرٌ‏
+    arabic: نَذِيرٞ
     translation: a warner
     transliteration: nadhīrun
 ---

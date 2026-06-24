@@ -1,21 +1,21 @@
 ---
-arabic_ayat: عَيۡنًا فِيۡهَا تُسَمّٰى سَلۡسَبِيۡلًا‏
+arabic_ayat: عَيۡنٗا فِيهَا تُسَمَّىٰ سَلۡسَبِيلٗا
 sentence_translation: from a spring there, called Salsabîl.
 word_by_word:
   1:
-    arabic: عَيۡنًا
+    arabic: عَيۡنٗا
     translation: A spring
     transliteration: ʿaynan
   2:
-    arabic: فِيۡهَا
+    arabic: فِيهَا
     translation: therein
     transliteration: fīhā
   3:
-    arabic: تُسَمّٰى
+    arabic: تُسَمَّىٰ
     translation: named
     transliteration: tusammā
   4:
-    arabic: سَلۡسَبِيۡلًا‏
+    arabic: سَلۡسَبِيلٗا
     translation: Salsabil
     transliteration: salsabīlan
 ---

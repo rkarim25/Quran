@@ -1,7 +1,7 @@
 ---
-arabic_ayat: قَالَ الۡمَلَاُ الَّذِيۡنَ اسۡتَكۡبَرُوۡا مِنۡ قَوۡمِهٖ لِلَّذِيۡنَ اسۡتُضۡعِفُوۡا
-  لِمَنۡ اٰمَنَ مِنۡهُمۡ اَتَعۡلَمُوۡنَ اَنَّ صٰلِحًا مُّرۡسَلٌ مِّنۡ رَّبِّهٖ​ؕ قَالُـوۡۤا
-  اِنَّا بِمَاۤ اُرۡسِلَ بِهٖ مُؤۡمِنُوۡنَ‏
+arabic_ayat: قَالَ ٱلۡمَلَأُ ٱلَّذِينَ ٱسۡتَكۡبَرُواْ مِن قَوۡمِهِۦ لِلَّذِينَ ٱسۡتُضۡعِفُواْ
+  لِمَنۡ ءَامَنَ مِنۡهُمۡ أَتَعۡلَمُونَ أَنَّ صَٰلِحٗا مُّرۡسَلٞ مِّن رَّبِّهِۦۚ قَالُوٓاْ
+  إِنَّا بِمَآ أُرۡسِلَ بِهِۦ مُؤۡمِنُونَ
 sentence_translation: The arrogant chiefs of his people asked the lowly who believed
   among them, “Are you certain that Ṣâliḥ has been sent by his Lord?” They replied,
   “We certainly believe in what he has been sent with.”
@@ -11,39 +11,39 @@ word_by_word:
     translation: Said
     transliteration: qāla
   2:
-    arabic: الۡمَلَاُ
+    arabic: ٱلۡمَلَأُ
     translation: the chiefs
     transliteration: l-mala-u
   3:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: ' those'
     transliteration: alladhīna
   4:
-    arabic: اسۡتَكۡبَرُوۡا
+    arabic: ٱسۡتَكۡبَرُواْ
     translation: (who) were arrogant
     transliteration: is'takbarū
   5:
-    arabic: مِنۡ
+    arabic: مِن
     translation: among
     transliteration: min
   6:
-    arabic: قَوۡمِهٖ
+    arabic: قَوۡمِهِۦ
     translation: his people
     transliteration: qawmihi
   7:
-    arabic: لِلَّذِيۡنَ
+    arabic: لِلَّذِينَ
     translation: to those who
     transliteration: lilladhīna
   8:
-    arabic: اسۡتُضۡعِفُوۡا
+    arabic: ٱسۡتُضۡعِفُواْ
     translation: 'were oppressed '
     transliteration: us'tuḍ'ʿifū
   9:
-    arabic: لِمَنۡ
+    arabic: لِمَنۡ ءَ
     translation: '[to] those who'
     transliteration: liman
   10:
-    arabic: اٰمَنَ
+    arabic: امَنَ
     translation: believed
     transliteration: āmana
   11:
@@ -51,51 +51,51 @@ word_by_word:
     translation: among them
     transliteration: min'hum
   12:
-    arabic: اَتَعۡلَمُوۡنَ
+    arabic: أَتَعۡلَمُونَ
     translation: Do you know
     transliteration: ataʿlamūna
   13:
-    arabic: اَنَّ
+    arabic: أَنَّ
     translation: that
     transliteration: anna
   14:
-    arabic: صٰلِحًا
+    arabic: صَٰلِحٗا
     translation: Salih
     transliteration: ṣāliḥan
   15:
-    arabic: مُّرۡسَلٌ
+    arabic: مُّرۡسَلٞ
     translation: (is the) one sent
     transliteration: mur'salun
   16:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: from
     transliteration: min
   17:
-    arabic: رَّبِّهٖ​ؕ
+    arabic: رَّبِّهِۦۚ
     translation: his Lord
     transliteration: rabbihi
   18:
-    arabic: قَالُـوۡۤا
+    arabic: قَالُوٓاْ
     translation: They said
     transliteration: qālū
   19:
-    arabic: اِنَّا
+    arabic: إِنَّا
     translation: Indeed, we
     transliteration: innā
   20:
-    arabic: بِمَاۤ
+    arabic: بِمَآ
     translation: in what
     transliteration: bimā
   21:
-    arabic: اُرۡسِلَ
+    arabic: أُرۡسِلَ
     translation: he has been sent
     transliteration: ur'sila
   22:
-    arabic: بِهٖ
+    arabic: بِهِۦ
     translation: with [it]
     transliteration: bihi
   23:
-    arabic: مُؤۡمِنُوۡنَ‏
+    arabic: مُؤۡمِنُونَ
     translation: (are) believers
     transliteration: mu'minūna
 ---

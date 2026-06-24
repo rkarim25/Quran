@@ -1,11 +1,11 @@
 ---
-arabic_ayat: اِنَّمَا وَلِيُّكُمُ اللّٰهُ وَرَسُوۡلُهٗ وَالَّذِيۡنَ اٰمَنُوا الَّذِيۡنَ
-  يُقِيۡمُوۡنَ الصَّلٰوةَ وَيُؤۡتُوۡنَ الزَّكٰوةَ وَهُمۡ رَاكِعُوۡنَ‏
+arabic_ayat: إِنَّمَا وَلِيُّكُمُ ٱللَّهُ وَرَسُولُهُۥ وَٱلَّذِينَ ءَامَنُواْ ٱلَّذِينَ
+  يُقِيمُونَ ٱلصَّلَوٰةَ وَيُؤۡتُونَ ٱلزَّكَوٰةَ وَهُمۡ رَٰكِعُونَ
 sentence_translation: Your only guardians are Allah, His Messenger, and fellow believers—who
   establish prayer and pay alms-tax with humility.
 word_by_word:
   1:
-    arabic: اِنَّمَا
+    arabic: إِنَّمَا
     translation: Only
     transliteration: innamā
   2:
@@ -13,39 +13,39 @@ word_by_word:
     translation: your ally
     transliteration: waliyyukumu
   3:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: (is) Allah
     transliteration: l-lahu
   4:
-    arabic: وَرَسُوۡلُهٗ
+    arabic: وَرَسُولُهُۥ
     translation: and His Messenger
     transliteration: warasūluhu
   5:
-    arabic: وَالَّذِيۡنَ
+    arabic: وَٱلَّذِينَ ءَ
     translation: and those who
     transliteration: wa-alladhīna
   6:
-    arabic: اٰمَنُوا
+    arabic: امَنُواْ
     translation: believe
     transliteration: āmanū
   7:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: and those who
     transliteration: alladhīna
   8:
-    arabic: يُقِيۡمُوۡنَ
+    arabic: يُقِيمُونَ
     translation: establish
     transliteration: yuqīmūna
   9:
-    arabic: الصَّلٰوةَ
+    arabic: ٱلصَّلَوٰةَ
     translation: the prayer
     transliteration: l-ṣalata
   10:
-    arabic: وَيُؤۡتُوۡنَ
+    arabic: وَيُؤۡتُونَ
     translation: and give
     transliteration: wayu'tūna
   11:
-    arabic: الزَّكٰوةَ
+    arabic: ٱلزَّكَوٰةَ
     translation: zakah
     transliteration: l-zakata
   12:
@@ -53,7 +53,7 @@ word_by_word:
     translation: and they
     transliteration: wahum
   13:
-    arabic: رَاكِعُوۡنَ‏
+    arabic: رَٰكِعُونَ
     translation: (are) those who bow down
     transliteration: rākiʿūna
 ---

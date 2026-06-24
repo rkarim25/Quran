@@ -1,7 +1,7 @@
 ---
-arabic_ayat: وَلَوۡ اَنَّ لِكُلِّ نَفۡسٍ ظَلَمَتۡ مَا فِى الۡاَرۡضِ لَافۡتَدَتۡ بِهٖ​ؕ
-  وَاَسَرُّوا النَّدَامَةَ لَمَّا رَاَوُا الۡعَذَابَ​ۚ وَقُضِىَ بَيۡنَهُمۡ بِالۡقِسۡطِ​
-  وَهُمۡ لَا يُظۡلَمُوۡنَ‏
+arabic_ayat: وَلَوۡ أَنَّ لِكُلِّ نَفۡسٖ ظَلَمَتۡ مَا فِي ٱلۡأَرۡضِ لَٱفۡتَدَتۡ بِهِۦۗ
+  وَأَسَرُّواْ ٱلنَّدَامَةَ لَمَّا رَأَوُاْ ٱلۡعَذَابَۖ وَقُضِيَ بَيۡنَهُم بِٱلۡقِسۡطِ
+  وَهُمۡ لَا يُظۡلَمُونَ
 sentence_translation: If every wrongdoer were to possess everything in the world,
   they would surely ransom themselves with it. They will hide ˹their˺ remorse when
   they see the torment. And they will be judged in all fairness, and none will be
@@ -12,7 +12,7 @@ word_by_word:
     translation: And if
     transliteration: walaw
   2:
-    arabic: اَنَّ
+    arabic: أَنَّ
     translation: that
     transliteration: anna
   3:
@@ -20,7 +20,7 @@ word_by_word:
     translation: for every
     transliteration: likulli
   4:
-    arabic: نَفۡسٍ
+    arabic: نَفۡسٖ
     translation: soul
     transliteration: nafsin
   5:
@@ -32,27 +32,27 @@ word_by_word:
     translation: whatever
     transliteration: mā
   7:
-    arabic: فِى
+    arabic: فِي
     translation: (is) in
     transliteration: fī
   8:
-    arabic: الۡاَرۡضِ
+    arabic: ٱلۡأَرۡضِ
     translation: the earth
     transliteration: l-arḍi
   9:
-    arabic: لَافۡتَدَتۡ
+    arabic: لَٱفۡتَدَتۡ
     translation: it (would) seek to ransom
     transliteration: la-if'tadat
   10:
-    arabic: بِهٖ​ؕ
+    arabic: بِهِۦۗ
     translation: with it
     transliteration: bihi
   11:
-    arabic: وَاَسَرُّوا
+    arabic: وَأَسَرُّواْ
     translation: and they (will) confide
     transliteration: wa-asarrū
   12:
-    arabic: النَّدَامَةَ
+    arabic: ٱلنَّدَامَةَ
     translation: the regret
     transliteration: l-nadāmata
   13:
@@ -60,23 +60,23 @@ word_by_word:
     translation: when
     transliteration: lammā
   14:
-    arabic: رَاَوُا
+    arabic: رَأَوُاْ
     translation: they see
     transliteration: ra-awū
   15:
-    arabic: الۡعَذَابَ​ۚ
+    arabic: ٱلۡعَذَابَۖ
     translation: the punishment
     transliteration: l-ʿadhāba
   16:
-    arabic: وَقُضِىَ
+    arabic: وَقُضِيَ
     translation: But will be judged
     transliteration: waquḍiya
   17:
-    arabic: بَيۡنَهُمۡ
+    arabic: بَيۡنَهُم
     translation: between them
     transliteration: baynahum
   18:
-    arabic: بِالۡقِسۡطِ​
+    arabic: بِٱلۡقِسۡطِ
     translation: in justice
     transliteration: bil-qis'ṭi
   19:
@@ -88,7 +88,7 @@ word_by_word:
     translation: (will) not
     transliteration: lā
   21:
-    arabic: يُظۡلَمُوۡنَ‏
+    arabic: يُظۡلَمُونَ
     translation: (be) wronged
     transliteration: yuẓ'lamūna
 ---

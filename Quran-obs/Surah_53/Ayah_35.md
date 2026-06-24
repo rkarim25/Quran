@@ -1,10 +1,10 @@
 ---
-arabic_ayat: اَعِنۡدَهٗ عِلۡمُ الۡغَيۡبِ فَهُوَ يَرٰى‏
+arabic_ayat: أَعِندَهُۥ عِلۡمُ ٱلۡغَيۡبِ فَهُوَ يَرَىٰٓ
 sentence_translation: Does he have the knowledge of the unseen so that he sees ˹the
   Hereafter˺?
 word_by_word:
   1:
-    arabic: اَعِنۡدَهٗ
+    arabic: أَعِندَهُۥ
     translation: Is with him
     transliteration: aʿindahu
   2:
@@ -12,7 +12,7 @@ word_by_word:
     translation: (the) knowledge
     transliteration: ʿil'mu
   3:
-    arabic: الۡغَيۡبِ
+    arabic: ٱلۡغَيۡبِ
     translation: (of) the unseen
     transliteration: l-ghaybi
   4:
@@ -20,7 +20,7 @@ word_by_word:
     translation: so he
     transliteration: fahuwa
   5:
-    arabic: يَرٰى‏
+    arabic: يَرَىٰٓ
     translation: sees
     transliteration: yarā
 ---

@@ -1,5 +1,5 @@
 ---
-arabic_ayat: وَلَقَدۡ رَاٰهُ نَزۡلَةً اُخۡرٰىۙ‏
+arabic_ayat: وَلَقَدۡ رَءَاهُ نَزۡلَةً أُخۡرَىٰ
 sentence_translation: And he certainly saw that ˹angel descend˺ a second time
 word_by_word:
   1:
@@ -7,7 +7,7 @@ word_by_word:
     translation: And certainly
     transliteration: walaqad
   2:
-    arabic: رَاٰهُ
+    arabic: رَءَاهُ
     translation: he saw him
     transliteration: raāhu
   3:
@@ -15,7 +15,7 @@ word_by_word:
     translation: (in) descent
     transliteration: nazlatan
   4:
-    arabic: اُخۡرٰىۙ‏
+    arabic: أُخۡرَىٰ
     translation: another
     transliteration: ukh'rā
 ---

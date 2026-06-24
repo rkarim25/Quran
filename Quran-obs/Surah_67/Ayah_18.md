@@ -1,10 +1,10 @@
 ---
-arabic_ayat: وَلَـقَدۡ كَذَّبَ الَّذِيۡنَ مِنۡ قَبۡلِهِمۡ فَكَيۡفَ كَانَ نَكِيۡرِ‏
+arabic_ayat: وَلَقَدۡ كَذَّبَ ٱلَّذِينَ مِن قَبۡلِهِمۡ فَكَيۡفَ كَانَ نَكِيرِ
 sentence_translation: And certainly those before them denied ˹as well˺, then how severe
   was My response!
 word_by_word:
   1:
-    arabic: وَلَـقَدۡ
+    arabic: وَلَقَدۡ
     translation: And indeed
     transliteration: walaqad
   2:
@@ -12,11 +12,11 @@ word_by_word:
     translation: denied
     transliteration: kadhaba
   3:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those
     transliteration: alladhīna
   4:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   5:
@@ -32,7 +32,7 @@ word_by_word:
     translation: was
     transliteration: kāna
   8:
-    arabic: نَكِيۡرِ‏
+    arabic: نَكِيرِ
     translation: My rejection
     transliteration: nakīri
 ---

@@ -1,9 +1,9 @@
 ---
-arabic_ayat: اِنَّهَا سَآءَتۡ مُسۡتَقَرًّا وَّمُقَامًا‏
+arabic_ayat: إِنَّهَا سَآءَتۡ مُسۡتَقَرّٗا وَمُقَامٗا
 sentence_translation: It is certainly an evil place to settle and reside.”
 word_by_word:
   1:
-    arabic: اِنَّهَا
+    arabic: إِنَّهَا
     translation: Indeed, it
     transliteration: innahā
   2:
@@ -11,11 +11,11 @@ word_by_word:
     translation: (is) an evil
     transliteration: sāat
   3:
-    arabic: مُسۡتَقَرًّا
+    arabic: مُسۡتَقَرّٗا
     translation: abode
     transliteration: mus'taqarran
   4:
-    arabic: وَّمُقَامًا‏
+    arabic: وَمُقَامٗا
     translation: and resting place
     transliteration: wamuqāman
 ---

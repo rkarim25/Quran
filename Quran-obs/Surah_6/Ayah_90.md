@@ -1,16 +1,16 @@
 ---
-arabic_ayat: اُولٰٓٮِٕكَ الَّذِيۡنَ هَدَى اللّٰهُ​ فَبِهُدٰٮهُمُ اقۡتَدِهۡ ​ؕ قُلْ
-  لَّاۤ اَسۡــَٔلُكُمۡ عَلَيۡهِ اَجۡرًا​ ؕ اِنۡ هُوَ اِلَّا ذِكۡرٰى لِلۡعٰلَمِيۡنَ‏
+arabic_ayat: أُوْلَٰٓئِكَ ٱلَّذِينَ هَدَى ٱللَّهُۖ فَبِهُدَىٰهُمُ ٱقۡتَدِهۡۗ قُل لَّآ
+  أَسۡـَٔلُكُمۡ عَلَيۡهِ أَجۡرًاۖ إِنۡ هُوَ إِلَّا ذِكۡرَىٰ لِلۡعَٰلَمِينَ
 sentence_translation: These ˹prophets˺ were ˹rightly˺ guided by Allah, so follow their
   guidance. Say, “I ask no reward of you for this ˹Quran˺—it is a reminder to the
   whole world.”
 word_by_word:
   1:
-    arabic: اُولٰٓٮِٕكَ
+    arabic: أُوْلَٰٓئِكَ
     translation: Those
     transliteration: ulāika
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: (are) ones whom
     transliteration: alladhīna
   3:
@@ -18,27 +18,27 @@ word_by_word:
     translation: (have been) guided
     transliteration: hadā
   4:
-    arabic: اللّٰهُ​
+    arabic: ٱللَّهُۖ
     translation: (by) Allah
     transliteration: l-lahu
   5:
-    arabic: فَبِهُدٰٮهُمُ
+    arabic: فَبِهُدَىٰهُمُ
     translation: so of their guidance
     transliteration: fabihudāhumu
   6:
-    arabic: اقۡتَدِهۡ ​ؕ
+    arabic: ٱقۡتَدِهۡۗ
     translation: you follow
     transliteration: iq'tadih
   7:
-    arabic: قُلْ
+    arabic: قُل
     translation: Say
     transliteration: qul
   8:
-    arabic: لَّاۤ
+    arabic: لَّآ
     translation: Not
     transliteration: lā
   9:
-    arabic: اَسۡــَٔلُكُمۡ
+    arabic: أَسۡـَٔلُكُمۡ
     translation: I ask you
     transliteration: asalukum
   10:
@@ -46,11 +46,11 @@ word_by_word:
     translation: for it
     transliteration: ʿalayhi
   11:
-    arabic: اَجۡرًا​ ؕ
+    arabic: أَجۡرًاۖ
     translation: any reward
     transliteration: ajran
   12:
-    arabic: اِنۡ
+    arabic: إِنۡ
     translation: Not
     transliteration: in
   13:
@@ -58,15 +58,15 @@ word_by_word:
     translation: (is) it
     transliteration: huwa
   14:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: but
     transliteration: illā
   15:
-    arabic: ذِكۡرٰى
+    arabic: ذِكۡرَىٰ
     translation: a reminder
     transliteration: dhik'rā
   16:
-    arabic: لِلۡعٰلَمِيۡنَ‏
+    arabic: لِلۡعَٰلَمِينَ
     translation: for the worlds
     transliteration: lil'ʿālamīna
 ---

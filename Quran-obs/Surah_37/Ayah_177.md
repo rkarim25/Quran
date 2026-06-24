@@ -1,10 +1,10 @@
 ---
-arabic_ayat: فَاِذَا نَزَلَ بِسَاحَتِهِمۡ فَسَآءَ صَبَاحُ الۡمُنۡذَرِيۡنَ‏
+arabic_ayat: فَإِذَا نَزَلَ بِسَاحَتِهِمۡ فَسَآءَ صَبَاحُ ٱلۡمُنذَرِينَ
 sentence_translation: Yet when it descends upon them: how evil will that morning be
   for those who had been warned!
 word_by_word:
   1:
-    arabic: فَاِذَا
+    arabic: فَإِذَا
     translation: But when
     transliteration: fa-idhā
   2:
@@ -24,7 +24,7 @@ word_by_word:
     translation: (the) morning
     transliteration: ṣabāḥu
   6:
-    arabic: الۡمُنۡذَرِيۡنَ‏
+    arabic: ٱلۡمُنذَرِينَ
     translation: (for) those who were warned
     transliteration: l-mundharīna
 ---

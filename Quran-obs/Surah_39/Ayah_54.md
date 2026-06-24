@@ -1,15 +1,15 @@
 ---
-arabic_ayat: وَاَنِيۡبُوۡۤا اِلٰى رَبِّكُمۡ وَاَسۡلِمُوۡا لَهٗ مِنۡ قَبۡلِ اَنۡ يَّاۡتِيَكُمُ
-  الۡعَذَابُ ثُمَّ لَا تُنۡصَرُوۡنَ‏
+arabic_ayat: وَأَنِيبُوٓاْ إِلَىٰ رَبِّكُمۡ وَأَسۡلِمُواْ لَهُۥ مِن قَبۡلِ أَن يَأۡتِيَكُمُ
+  ٱلۡعَذَابُ ثُمَّ لَا تُنصَرُونَ
 sentence_translation: Turn to your Lord ˹in repentance˺, and ˹fully˺ submit to Him
   before the punishment reaches you, ˹for˺ then you will not be helped.
 word_by_word:
   1:
-    arabic: وَاَنِيۡبُوۡۤا
+    arabic: وَأَنِيبُوٓاْ
     translation: And turn
     transliteration: wa-anībū
   2:
-    arabic: اِلٰى
+    arabic: إِلَىٰ
     translation: to
     transliteration: ilā
   3:
@@ -17,15 +17,15 @@ word_by_word:
     translation: your Lord
     transliteration: rabbikum
   4:
-    arabic: وَاَسۡلِمُوۡا
+    arabic: وَأَسۡلِمُواْ
     translation: and submit
     transliteration: wa-aslimū
   5:
-    arabic: لَهٗ
+    arabic: لَهُۥ
     translation: to Him
     transliteration: lahu
   6:
-    arabic: مِنۡ
+    arabic: مِن
     translation: before
     transliteration: min
   7:
@@ -33,15 +33,15 @@ word_by_word:
     translation: before
     transliteration: qabli
   8:
-    arabic: اَنۡ
+    arabic: أَن
     translation: '[that]'
     transliteration: an
   9:
-    arabic: يَّاۡتِيَكُمُ
+    arabic: يَأۡتِيَكُمُ
     translation: comes to you
     transliteration: yatiyakumu
   10:
-    arabic: الۡعَذَابُ
+    arabic: ٱلۡعَذَابُ
     translation: the punishment
     transliteration: l-ʿadhābu
   11:
@@ -53,7 +53,7 @@ word_by_word:
     translation: not
     transliteration: lā
   13:
-    arabic: تُنۡصَرُوۡنَ‏
+    arabic: تُنصَرُونَ
     translation: you will be helped
     transliteration: tunṣarūna
 ---

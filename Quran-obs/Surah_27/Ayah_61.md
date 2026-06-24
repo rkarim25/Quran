@@ -1,14 +1,14 @@
 ---
-arabic_ayat: اَمَّنۡ جَعَلَ الۡاَرۡضَ قَرَارًا وَّجَعَلَ خِلٰلَهَاۤ اَنۡهٰرًا وَّجَعَلَ
-  لَهَا رَوَاسِىَ وَجَعَلَ بَيۡنَ الۡبَحۡرَيۡنِ حَاجِزًا​ ؕ ءَاِلٰـهٌ مَّعَ اللّٰهِ​
-  ؕ بَلۡ اَكۡثَرُهُمۡ لَا يَعۡلَمُوۡنَ ؕ‏
+arabic_ayat: أَمَّن جَعَلَ ٱلۡأَرۡضَ قَرَارٗا وَجَعَلَ خِلَٰلَهَآ أَنۡهَٰرٗا وَجَعَلَ
+  لَهَا رَوَٰسِيَ وَجَعَلَ بَيۡنَ ٱلۡبَحۡرَيۡنِ حَاجِزًاۗ أَءِلَٰهٞ مَّعَ ٱللَّهِۚ
+  بَلۡ أَكۡثَرُهُمۡ لَا يَعۡلَمُونَ
 sentence_translation: Or ˹ask them,˺ “Who made the earth a place of settlement, caused
   rivers to flow through it, placed firm mountains upon it, and set a barrier between
   ˹fresh and salt˺ bodies of water? Was it another god besides Allah?” Absolutely
   not! But most of them do not know.
 word_by_word:
   1:
-    arabic: اَمَّنۡ
+    arabic: أَمَّن
     translation: Or Who
     transliteration: amman
   2:
@@ -16,27 +16,27 @@ word_by_word:
     translation: made
     transliteration: jaʿala
   3:
-    arabic: الۡاَرۡضَ
+    arabic: ٱلۡأَرۡضَ
     translation: the earth
     transliteration: l-arḍa
   4:
-    arabic: قَرَارًا
+    arabic: قَرَارٗا
     translation: a firm abode
     transliteration: qarāran
   5:
-    arabic: وَّجَعَلَ
+    arabic: وَجَعَلَ
     translation: and made
     transliteration: wajaʿala
   6:
-    arabic: خِلٰلَهَاۤ
+    arabic: خِلَٰلَهَآ
     translation: (in) its midst
     transliteration: khilālahā
   7:
-    arabic: اَنۡهٰرًا
+    arabic: أَنۡهَٰرٗا
     translation: rivers
     transliteration: anhāran
   8:
-    arabic: وَّجَعَلَ
+    arabic: وَجَعَلَ
     translation: and made
     transliteration: wajaʿala
   9:
@@ -44,7 +44,7 @@ word_by_word:
     translation: for it
     transliteration: lahā
   10:
-    arabic: رَوَاسِىَ
+    arabic: رَوَٰسِيَ
     translation: firm mountains
     transliteration: rawāsiya
   11:
@@ -56,15 +56,15 @@ word_by_word:
     translation: between
     transliteration: bayna
   13:
-    arabic: الۡبَحۡرَيۡنِ
+    arabic: ٱلۡبَحۡرَيۡنِ
     translation: the two seas
     transliteration: l-baḥrayni
   14:
-    arabic: حَاجِزًا​ ؕ
+    arabic: حَاجِزًاۗ أَ
     translation: a barrier
     transliteration: ḥājizan
   15:
-    arabic: ءَاِلٰـهٌ
+    arabic: ءِلَٰهٞ
     translation: Is there any god
     transliteration: a-ilāhun
   16:
@@ -72,7 +72,7 @@ word_by_word:
     translation: with
     transliteration: maʿa
   17:
-    arabic: اللّٰهِ​ ؕ
+    arabic: ٱللَّهِۚ
     translation: Allah
     transliteration: l-lahi
   18:
@@ -80,7 +80,7 @@ word_by_word:
     translation: Nay
     transliteration: bal
   19:
-    arabic: اَكۡثَرُهُمۡ
+    arabic: أَكۡثَرُهُمۡ
     translation: most of them
     transliteration: aktharuhum
   20:
@@ -88,7 +88,7 @@ word_by_word:
     translation: (do) not
     transliteration: lā
   21:
-    arabic: يَعۡلَمُوۡنَ ؕ‏
+    arabic: يَعۡلَمُونَ
     translation: know
     transliteration: yaʿlamūna
 ---

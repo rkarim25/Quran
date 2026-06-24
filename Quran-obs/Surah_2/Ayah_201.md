@@ -1,55 +1,55 @@
 ---
-arabic_ayat: وَمِنۡهُمۡ مَّنۡ يَّقُوۡلُ رَبَّنَآ اٰتِنَا فِى الدُّنۡيَا حَسَنَةً
-  وَّفِى الۡاٰخِرَةِ حَسَنَةً وَّ قِنَا عَذَابَ النَّارِ‏
+arabic_ayat: وَمِنۡهُم مَّن يَقُولُ رَبَّنَآ ءَاتِنَا فِي ٱلدُّنۡيَا حَسَنَةٗ وَفِي
+  ٱلۡأٓخِرَةِ حَسَنَةٗ وَقِنَا عَذَابَ ٱلنَّارِ
 sentence_translation: Yet there are others who say, “Our Lord! Grant us the good of
   this world and the Hereafter, and protect us from the torment of the Fire.”
 word_by_word:
   1:
-    arabic: وَمِنۡهُمۡ
+    arabic: وَمِنۡهُم
     translation: And from those
     transliteration: wamin'hum
   2:
-    arabic: مَّنۡ
+    arabic: مَّن
     translation: who
     transliteration: man
   3:
-    arabic: يَّقُوۡلُ
+    arabic: يَقُولُ
     translation: say
     transliteration: yaqūlu
   4:
-    arabic: رَبَّنَآ
+    arabic: رَبَّنَآ ءَ
     translation: Our Lord
     transliteration: rabbanā
   5:
-    arabic: اٰتِنَا
+    arabic: اتِنَا
     translation: Grant us
     transliteration: ātinā
   6:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   7:
-    arabic: الدُّنۡيَا
+    arabic: ٱلدُّنۡيَا
     translation: the world
     transliteration: l-dun'yā
   8:
-    arabic: حَسَنَةً
+    arabic: حَسَنَةٗ
     translation: good
     transliteration: ḥasanatan
   9:
-    arabic: وَّفِى
+    arabic: وَفِي
     translation: and in
     transliteration: wafī
   10:
-    arabic: الۡاٰخِرَةِ
+    arabic: ٱلۡأٓخِرَةِ
     translation: the Hereafter
     transliteration: l-ākhirati
   11:
-    arabic: حَسَنَةً
+    arabic: حَسَنَةٗ
     translation: good
     transliteration: ḥasanatan
   12:
-    arabic: وَّ قِنَا
+    arabic: وَقِنَا
     translation: and save us
     transliteration: waqinā
   13:
@@ -57,7 +57,7 @@ word_by_word:
     translation: (from the) punishment
     transliteration: ʿadhāba
   14:
-    arabic: النَّارِ‏
+    arabic: ٱلنَّارِ
     translation: (of) the Fire
     transliteration: l-nāri
 ---

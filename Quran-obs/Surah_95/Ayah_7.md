@@ -1,5 +1,5 @@
 ---
-arabic_ayat: فَمَا يُكَذِّبُكَ بَعۡدُ بِالدِّيۡنِ‏
+arabic_ayat: فَمَا يُكَذِّبُكَ بَعۡدُ بِٱلدِّينِ
 sentence_translation: Now, what makes you deny the ˹final˺ Judgment?
 word_by_word:
   1:
@@ -15,7 +15,7 @@ word_by_word:
     translation: after (this)
     transliteration: baʿdu
   4:
-    arabic: بِالدِّيۡنِ‏
+    arabic: بِٱلدِّينِ
     translation: the judgment
     transliteration: bil-dīni
 ---

@@ -1,13 +1,13 @@
 ---
-arabic_ayat: وَمَاۤ اَدۡرٰٮكَ مَا الۡحُطَمَةُ ؕ‏
+arabic_ayat: وَمَآ أَدۡرَىٰكَ مَا ٱلۡحُطَمَةُ
 sentence_translation: And what will make you realize what the Crusher is?
 word_by_word:
   1:
-    arabic: وَمَاۤ
+    arabic: وَمَآ
     translation: And what
     transliteration: wamā
   2:
-    arabic: اَدۡرٰٮكَ
+    arabic: أَدۡرَىٰكَ
     translation: will make you know
     transliteration: adrāka
   3:
@@ -15,7 +15,7 @@ word_by_word:
     translation: what
     transliteration: mā
   4:
-    arabic: الۡحُطَمَةُ ؕ‏
+    arabic: ٱلۡحُطَمَةُ
     translation: the Crusher (is)
     transliteration: l-ḥuṭamatu
 ---

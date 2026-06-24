@@ -1,5 +1,5 @@
 ---
-arabic_ayat: كَذَّبَتۡ ثَمُوۡدُ الۡمُرۡسَلِيۡنَ​ ۖ​ۚ‏
+arabic_ayat: كَذَّبَتۡ ثَمُودُ ٱلۡمُرۡسَلِينَ
 sentence_translation: The people of Thamûd rejected the messengers
 word_by_word:
   1:
@@ -7,11 +7,11 @@ word_by_word:
     translation: Denied
     transliteration: kadhabat
   2:
-    arabic: ثَمُوۡدُ
+    arabic: ثَمُودُ
     translation: Thamud
     transliteration: thamūdu
   3:
-    arabic: الۡمُرۡسَلِيۡنَ​ ۖ​ۚ‏
+    arabic: ٱلۡمُرۡسَلِينَ
     translation: the Messengers
     transliteration: l-mur'salīna
 ---

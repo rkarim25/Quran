@@ -1,7 +1,6 @@
 ---
-arabic_ayat: "وَجَآءَ رَجُلٌ مِّنۡ اَقۡصَا الۡمَدِيۡنَةِ يَسۡعٰى قَالَ يٰمُوۡسٰٓى\
-  \ اِنَّ الۡمَلَاَ يَاۡتَمِرُوۡنَ بِكَ لِيَـقۡتُلُوۡكَ فَاخۡرُجۡ اِنِّىۡ لَـكَ مِنَ\
-  \ النّٰصِحِيۡنَ‏ \uFEFF\uFEFF"
+arabic_ayat: وَجَآءَ رَجُلٞ مِّنۡ أَقۡصَا ٱلۡمَدِينَةِ يَسۡعَىٰ قَالَ يَٰمُوسَىٰٓ
+  إِنَّ ٱلۡمَلَأَ يَأۡتَمِرُونَ بِكَ لِيَقۡتُلُوكَ فَٱخۡرُجۡ إِنِّي لَكَ مِنَ ٱلنَّٰصِحِينَ
 sentence_translation: And there came a man, rushing from the farthest end of the city.
   He said, “O Moses! The chiefs are actually conspiring against you to put you to
   death, so leave ˹the city˺. I really advise you ˹to do so˺.”
@@ -11,7 +10,7 @@ word_by_word:
     translation: And came
     transliteration: wajāa
   2:
-    arabic: رَجُلٌ
+    arabic: رَجُلٞ
     translation: a man
     transliteration: rajulun
   3:
@@ -19,15 +18,15 @@ word_by_word:
     translation: from
     transliteration: min
   4:
-    arabic: اَقۡصَا
+    arabic: أَقۡصَا
     translation: (the) farthest end
     transliteration: aqṣā
   5:
-    arabic: الۡمَدِيۡنَةِ
+    arabic: ٱلۡمَدِينَةِ
     translation: (of) the city
     transliteration: l-madīnati
   6:
-    arabic: يَسۡعٰى
+    arabic: يَسۡعَىٰ
     translation: running
     transliteration: yasʿā
   7:
@@ -35,19 +34,19 @@ word_by_word:
     translation: He said
     transliteration: qāla
   8:
-    arabic: يٰمُوۡسٰٓى
+    arabic: يَٰمُوسَىٰٓ
     translation: O Musa
     transliteration: yāmūsā
   9:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   10:
-    arabic: الۡمَلَاَ
+    arabic: ٱلۡمَلَأَ
     translation: the chiefs
     transliteration: l-mala-a
   11:
-    arabic: يَاۡتَمِرُوۡنَ
+    arabic: يَأۡتَمِرُونَ
     translation: are taking counsel
     transliteration: yatamirūna
   12:
@@ -55,19 +54,19 @@ word_by_word:
     translation: about you
     transliteration: bika
   13:
-    arabic: لِيَـقۡتُلُوۡكَ
+    arabic: لِيَقۡتُلُوكَ
     translation: to kill you
     transliteration: liyaqtulūka
   14:
-    arabic: فَاخۡرُجۡ
+    arabic: فَٱخۡرُجۡ
     translation: so leave
     transliteration: fa-ukh'ruj
   15:
-    arabic: اِنِّىۡ
+    arabic: إِنِّي
     translation: indeed, I am
     transliteration: innī
   16:
-    arabic: لَـكَ
+    arabic: لَكَ
     translation: to you
     transliteration: laka
   17:
@@ -75,7 +74,7 @@ word_by_word:
     translation: of
     transliteration: mina
   18:
-    arabic: "النّٰصِحِيۡنَ‏ \uFEFF\uFEFF"
+    arabic: ٱلنَّٰصِحِينَ
     translation: the sincere advisors
     transliteration: l-nāṣiḥīna
 ---

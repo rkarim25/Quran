@@ -1,27 +1,27 @@
 ---
-arabic_ayat: "وَاِذِ اسۡتَسۡقَىٰ مُوۡسٰى لِقَوۡمِهٖ فَقُلۡنَا اضۡرِب بِّعَصَاكَ الۡحَجَرَ​ؕ\
-  \ فَانۡفَجَرَتۡ مِنۡهُ اثۡنَتَا عَشۡرَةَ عَيۡنًا​ؕ قَدۡ عَلِمَ کُلُّ اُنَاسٍ مَّشۡرَبَهُمۡ​ؕ\
-  \ کُلُوۡا وَاشۡرَبُوۡا مِنۡ رِّزۡقِ اللّٰهِ وَلَا تَعۡثَوۡا فِىۡ الۡاَرۡضِ مُفۡسِدِيۡنَ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: ۞ وَإِذِ ٱسۡتَسۡقَىٰ مُوسَىٰ لِقَوۡمِهِۦ فَقُلۡنَا ٱضۡرِب بِّعَصَاكَ
+  ٱلۡحَجَرَۖ فَٱنفَجَرَتۡ مِنۡهُ ٱثۡنَتَا عَشۡرَةَ عَيۡنٗاۖ قَدۡ عَلِمَ كُلُّ أُنَاسٖ
+  مَّشۡرَبَهُمۡۖ كُلُواْ وَٱشۡرَبُواْ مِن رِّزۡقِ ٱللَّهِ وَلَا تَعۡثَوۡاْ فِي ٱلۡأَرۡضِ
+  مُفۡسِدِينَ
 sentence_translation: And ˹remember˺ when Moses prayed for water for his people, We
   said, “Strike the rock with your staff.” Then twelve springs gushed out, ˹and˺ each
   tribe knew its drinking place. ˹We then said,˺ “Eat and drink of Allah’s provisions,
   and do not go about spreading corruption in the land.”
 word_by_word:
   1:
-    arabic: ۞ وَاِذِ
+    arabic: ۞ وَإِذِ
     translation: And when
     transliteration: wa-idhi
   2:
-    arabic: اسۡتَسۡقَىٰ
+    arabic: ٱسۡتَسۡقَىٰ
     translation: asked (for) water
     transliteration: is'tasqā
   3:
-    arabic: مُوۡسٰى
+    arabic: مُوسَىٰ
     translation: Musa
     transliteration: mūsā
   4:
-    arabic: لِقَوۡمِهٖ
+    arabic: لِقَوۡمِهِۦ
     translation: for his people
     transliteration: liqawmihi
   5:
@@ -29,7 +29,7 @@ word_by_word:
     translation: '[so] We said'
     transliteration: faqul'nā
   6:
-    arabic: اضۡرِب
+    arabic: ٱضۡرِب
     translation: Strike
     transliteration: iḍ'rib
   7:
@@ -37,11 +37,11 @@ word_by_word:
     translation: with your staff
     transliteration: biʿaṣāka
   8:
-    arabic: الۡحَجَرَ​ؕ
+    arabic: ٱلۡحَجَرَۖ
     translation: the stone
     transliteration: l-ḥajara
   9:
-    arabic: فَانۡفَجَرَتۡ
+    arabic: فَٱنفَجَرَتۡ
     translation: Then gushed forth
     transliteration: fa-infajarat
   10:
@@ -49,7 +49,7 @@ word_by_word:
     translation: from it
     transliteration: min'hu
   11:
-    arabic: اثۡنَتَا
+    arabic: ٱثۡنَتَا
     translation: (of)
     transliteration: ith'natā
   12:
@@ -57,7 +57,7 @@ word_by_word:
     translation: twelve
     transliteration: ʿashrata
   13:
-    arabic: عَيۡنًا​ؕ
+    arabic: عَيۡنٗاۖ
     translation: springs
     transliteration: ʿaynan
   14:
@@ -69,27 +69,27 @@ word_by_word:
     translation: knew
     transliteration: ʿalima
   16:
-    arabic: کُلُّ
+    arabic: كُلُّ
     translation: all
     transliteration: kullu
   17:
-    arabic: اُنَاسٍ
+    arabic: أُنَاسٖ
     translation: (the) people
     transliteration: unāsin
   18:
-    arabic: مَّشۡرَبَهُمۡ​ؕ
+    arabic: مَّشۡرَبَهُمۡۖ
     translation: their drinking place
     transliteration: mashrabahum
   19:
-    arabic: کُلُوۡا
+    arabic: كُلُواْ
     translation: Eat
     transliteration: kulū
   20:
-    arabic: وَاشۡرَبُوۡا
+    arabic: وَٱشۡرَبُواْ
     translation: and drink
     transliteration: wa-ish'rabū
   21:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   22:
@@ -97,7 +97,7 @@ word_by_word:
     translation: (the) provision (of)
     transliteration: riz'qi
   23:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   24:
@@ -105,19 +105,19 @@ word_by_word:
     translation: and (do) not
     transliteration: walā
   25:
-    arabic: تَعۡثَوۡا
+    arabic: تَعۡثَوۡاْ
     translation: act wickedly
     transliteration: taʿthaw
   26:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   27:
-    arabic: الۡاَرۡضِ
+    arabic: ٱلۡأَرۡضِ
     translation: the earth
     transliteration: l-arḍi
   28:
-    arabic: "مُفۡسِدِيۡنَ‏ \uFEFF\uFEFF"
+    arabic: مُفۡسِدِينَ
     translation: spreading corruption
     transliteration: muf'sidīna
 ---

@@ -1,6 +1,6 @@
 ---
-arabic_ayat: قُلۡ مَا سَاَ لۡـتُكُمۡ مِّنۡ اَجۡرٍ فَهُوَ لَـكُمۡ ؕ اِنۡ اَجۡرِىَ اِلَّا
-  عَلَى اللّٰهِ ۚ وَهُوَ عَلٰى كُلِّ شَىۡءٍ شَهِيۡدٌ‏
+arabic_ayat: قُلۡ مَا سَأَلۡتُكُم مِّنۡ أَجۡرٖ فَهُوَ لَكُمۡۖ إِنۡ أَجۡرِيَ إِلَّا
+  عَلَى ٱللَّهِۖ وَهُوَ عَلَىٰ كُلِّ شَيۡءٖ شَهِيدٞ
 sentence_translation: Say, “If I had ever asked you for a reward, you could keep it.
   My reward is only from Allah. And He is a Witness over all things.”
 word_by_word:
@@ -13,7 +13,7 @@ word_by_word:
     translation: Not
     transliteration: mā
   3:
-    arabic: سَاَ لۡـتُكُمۡ
+    arabic: سَأَلۡتُكُم
     translation: I ask you
     transliteration: sa-altukum
   4:
@@ -21,7 +21,7 @@ word_by_word:
     translation: for
     transliteration: min
   5:
-    arabic: اَجۡرٍ
+    arabic: أَجۡرٖ
     translation: any payment
     transliteration: ajrin
   6:
@@ -29,19 +29,19 @@ word_by_word:
     translation: but it (is)
     transliteration: fahuwa
   7:
-    arabic: لَـكُمۡ ؕ
+    arabic: لَكُمۡۖ
     translation: for you
     transliteration: lakum
   8:
-    arabic: اِنۡ
+    arabic: إِنۡ
     translation: Not
     transliteration: in
   9:
-    arabic: اَجۡرِىَ
+    arabic: أَجۡرِيَ
     translation: (is) my payment
     transliteration: ajriya
   10:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: but
     transliteration: illā
   11:
@@ -49,7 +49,7 @@ word_by_word:
     translation: from
     transliteration: ʿalā
   12:
-    arabic: اللّٰهِ ۚ
+    arabic: ٱللَّهِۖ
     translation: Allah
     transliteration: l-lahi
   13:
@@ -57,7 +57,7 @@ word_by_word:
     translation: And He
     transliteration: wahuwa
   14:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: (is) over
     transliteration: ʿalā
   15:
@@ -65,11 +65,11 @@ word_by_word:
     translation: all
     transliteration: kulli
   16:
-    arabic: شَىۡءٍ
+    arabic: شَيۡءٖ
     translation: things
     transliteration: shayin
   17:
-    arabic: شَهِيۡدٌ‏
+    arabic: شَهِيدٞ
     translation: a Witness
     transliteration: shahīdun
 ---

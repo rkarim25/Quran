@@ -1,43 +1,42 @@
 ---
-arabic_ayat: يُوۡلِجُ الَّيۡلَ فِى النَّهَارِ وَيُوۡلِجُ النَّهَارَ فِى الَّيۡلِ ۙ
-  وَسَخَّرَ الشَّمۡسَ وَالۡقَمَرَ ​ۖ  كُلٌّ يَّجۡرِىۡ لِاَجَلٍ مُّسَمًّى ؕ ذٰ لِكُمُ
-  اللّٰهُ رَبُّكُمۡ لَـهُ الۡمُلۡكُ ؕ وَالَّذِيۡنَ تَدۡعُوۡنَ مِنۡ دُوۡنِهٖ مَا يَمۡلِكُوۡنَ
-  مِنۡ قِطۡمِيۡرٍؕ‏
+arabic_ayat: يُولِجُ ٱلَّيۡلَ فِي ٱلنَّهَارِ وَيُولِجُ ٱلنَّهَارَ فِي ٱلَّيۡلِ وَسَخَّرَ
+  ٱلشَّمۡسَ وَٱلۡقَمَرَۖ كُلّٞ يَجۡرِي لِأَجَلٖ مُّسَمّٗىۚ ذَٰلِكُمُ ٱللَّهُ رَبُّكُمۡ
+  لَهُ ٱلۡمُلۡكُۚ وَٱلَّذِينَ تَدۡعُونَ مِن دُونِهِۦ مَا يَمۡلِكُونَ مِن قِطۡمِيرٍ
 sentence_translation: He merges the night into the day and the day into the night,
   and has subjected the sun and the moon, each orbiting for an appointed term. That
   is Allah—your Lord! All authority belongs to Him. But those ˹idols˺ you invoke besides
   Him do not possess even the skin of a date stone.
 word_by_word:
   1:
-    arabic: يُوۡلِجُ
+    arabic: يُولِجُ
     translation: He causes to enter
     transliteration: yūliju
   2:
-    arabic: الَّيۡلَ
+    arabic: ٱلَّيۡلَ
     translation: the night
     transliteration: al-layla
   3:
-    arabic: فِى
+    arabic: فِي
     translation: in (to)
     transliteration: fī
   4:
-    arabic: النَّهَارِ
+    arabic: ٱلنَّهَارِ
     translation: the day
     transliteration: l-nahāri
   5:
-    arabic: وَيُوۡلِجُ
+    arabic: وَيُولِجُ
     translation: and He causes to enter
     transliteration: wayūliju
   6:
-    arabic: النَّهَارَ
+    arabic: ٱلنَّهَارَ
     translation: the day
     transliteration: l-nahāra
   7:
-    arabic: فِى
+    arabic: فِي
     translation: in (to)
     transliteration: fī
   8:
-    arabic: الَّيۡلِ ۙ
+    arabic: ٱلَّيۡلِ
     translation: the night
     transliteration: al-layli
   9:
@@ -45,35 +44,35 @@ word_by_word:
     translation: and He has subjected
     transliteration: wasakhara
   10:
-    arabic: الشَّمۡسَ
+    arabic: ٱلشَّمۡسَ
     translation: the sun
     transliteration: l-shamsa
   11:
-    arabic: وَالۡقَمَرَ ​ۖ 
+    arabic: وَٱلۡقَمَرَۖ
     translation: and the moon
     transliteration: wal-qamara
   12:
-    arabic: كُلٌّ
+    arabic: كُلّٞ
     translation: each
     transliteration: kullun
   13:
-    arabic: يَّجۡرِىۡ
+    arabic: يَجۡرِي
     translation: running
     transliteration: yajrī
   14:
-    arabic: لِاَجَلٍ
+    arabic: لِأَجَلٖ
     translation: for a term
     transliteration: li-ajalin
   15:
-    arabic: مُّسَمًّى ؕ
+    arabic: مُّسَمّٗىۚ
     translation: appointed
     transliteration: musamman
   16:
-    arabic: ذٰ لِكُمُ
+    arabic: ذَٰلِكُمُ
     translation: That (is)
     transliteration: dhālikumu
   17:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   18:
@@ -81,27 +80,27 @@ word_by_word:
     translation: your Lord
     transliteration: rabbukum
   19:
-    arabic: لَـهُ
+    arabic: لَهُ
     translation: for Him
     transliteration: lahu
   20:
-    arabic: الۡمُلۡكُ ؕ
+    arabic: ٱلۡمُلۡكُۚ
     translation: (is) the Dominion
     transliteration: l-mul'ku
   21:
-    arabic: وَالَّذِيۡنَ
+    arabic: وَٱلَّذِينَ
     translation: And those whom
     transliteration: wa-alladhīna
   22:
-    arabic: تَدۡعُوۡنَ
+    arabic: تَدۡعُونَ
     translation: you invoke
     transliteration: tadʿūna
   23:
-    arabic: مِنۡ
+    arabic: مِن
     translation: besides Him
     transliteration: min
   24:
-    arabic: دُوۡنِهٖ
+    arabic: دُونِهِۦ
     translation: besides Him
     transliteration: dūnihi
   25:
@@ -109,15 +108,15 @@ word_by_word:
     translation: not
     transliteration: mā
   26:
-    arabic: يَمۡلِكُوۡنَ
+    arabic: يَمۡلِكُونَ
     translation: they possess
     transliteration: yamlikūna
   27:
-    arabic: مِنۡ
+    arabic: مِن
     translation: even
     transliteration: min
   28:
-    arabic: قِطۡمِيۡرٍؕ‏
+    arabic: قِطۡمِيرٍ
     translation: (as much as) the membrane of a date-seed
     transliteration: qiṭ'mīrin
 ---

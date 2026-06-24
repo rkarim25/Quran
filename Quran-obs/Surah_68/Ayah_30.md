@@ -1,9 +1,9 @@
 ---
-arabic_ayat: فَاَقۡبَلَ بَعۡضُهُمۡ عَلٰى بَعۡضٍ يَّتَلَاوَمُوۡنَ‏
+arabic_ayat: فَأَقۡبَلَ بَعۡضُهُمۡ عَلَىٰ بَعۡضٖ يَتَلَٰوَمُونَ
 sentence_translation: Then they turned on each other, throwing blame.
 word_by_word:
   1:
-    arabic: فَاَقۡبَلَ
+    arabic: فَأَقۡبَلَ
     translation: Then approached
     transliteration: fa-aqbala
   2:
@@ -11,15 +11,15 @@ word_by_word:
     translation: some of them
     transliteration: baʿḍuhum
   3:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: to
     transliteration: ʿalā
   4:
-    arabic: بَعۡضٍ
+    arabic: بَعۡضٖ
     translation: others
     transliteration: baʿḍin
   5:
-    arabic: يَّتَلَاوَمُوۡنَ‏
+    arabic: يَتَلَٰوَمُونَ
     translation: blaming each other
     transliteration: yatalāwamūna
 ---

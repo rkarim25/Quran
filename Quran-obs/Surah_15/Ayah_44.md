@@ -1,5 +1,5 @@
 ---
-arabic_ayat: لَهَا سَبۡعَةُ اَبۡوَابٍؕ لِكُلِّ بَابٍ مِّنۡهُمۡ جُزۡءٌ مَّقۡسُوۡمٌ‏
+arabic_ayat: لَهَا سَبۡعَةُ أَبۡوَٰبٖ لِّكُلِّ بَابٖ مِّنۡهُمۡ جُزۡءٞ مَّقۡسُومٌ
 sentence_translation: It has seven gates, to each a group of them is designated.”
 word_by_word:
   1:
@@ -11,15 +11,15 @@ word_by_word:
     translation: (are) seven
     transliteration: sabʿatu
   3:
-    arabic: اَبۡوَابٍؕ
+    arabic: أَبۡوَٰبٖ
     translation: gates
     transliteration: abwābin
   4:
-    arabic: لِكُلِّ
+    arabic: لِّكُلِّ
     translation: for each
     transliteration: likulli
   5:
-    arabic: بَابٍ
+    arabic: بَابٖ
     translation: gate
     transliteration: bābin
   6:
@@ -27,11 +27,11 @@ word_by_word:
     translation: among them
     transliteration: min'hum
   7:
-    arabic: جُزۡءٌ
+    arabic: جُزۡءٞ
     translation: (is) a portion
     transliteration: juz'on
   8:
-    arabic: مَّقۡسُوۡمٌ‏
+    arabic: مَّقۡسُومٌ
     translation: assigned
     transliteration: maqsūmun
 ---

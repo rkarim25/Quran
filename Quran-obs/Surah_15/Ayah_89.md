@@ -1,5 +1,5 @@
 ---
-arabic_ayat: وَقُلۡ اِنِّىۡۤ اَنَا النَّذِيۡرُ الۡمُبِيۡنُ​ۚ‏
+arabic_ayat: وَقُلۡ إِنِّيٓ أَنَا ٱلنَّذِيرُ ٱلۡمُبِينُ
 sentence_translation: And say, “I am truly sent with a clear warning”—
 word_by_word:
   1:
@@ -7,19 +7,19 @@ word_by_word:
     translation: And say
     transliteration: waqul
   2:
-    arabic: اِنِّىۡۤ
+    arabic: إِنِّيٓ
     translation: Indeed, I
     transliteration: innī
   3:
-    arabic: اَنَا
+    arabic: أَنَا
     translation: '[I] am'
     transliteration: anā
   4:
-    arabic: النَّذِيۡرُ
+    arabic: ٱلنَّذِيرُ
     translation: a warner
     transliteration: l-nadhīru
   5:
-    arabic: الۡمُبِيۡنُ​ۚ‏
+    arabic: ٱلۡمُبِينُ
     translation: clear
     transliteration: l-mubīnu
 ---

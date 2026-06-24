@@ -1,15 +1,14 @@
 ---
-arabic_ayat: "وَعِنۡدَهٗ مَفَاتِحُ الۡغَيۡبِ لَا يَعۡلَمُهَاۤ اِلَّا هُوَ​ؕ وَيَعۡلَمُ\
-  \ مَا فِى الۡبَرِّ وَالۡبَحۡرِ​ؕ وَمَا تَسۡقُطُ مِنۡ وَّرَقَةٍ اِلَّا يَعۡلَمُهَا\
-  \ وَلَا حَبَّةٍ فِىۡ ظُلُمٰتِ الۡاَرۡضِ وَلَا رَطۡبٍ وَّلَا يَابِسٍ اِلَّا فِىۡ\
-  \ كِتٰبٍ مُّبِيۡنٍ‏ \uFEFF\uFEFF"
+arabic_ayat: ۞ وَعِندَهُۥ مَفَاتِحُ ٱلۡغَيۡبِ لَا يَعۡلَمُهَآ إِلَّا هُوَۚ وَيَعۡلَمُ
+  مَا فِي ٱلۡبَرِّ وَٱلۡبَحۡرِۚ وَمَا تَسۡقُطُ مِن وَرَقَةٍ إِلَّا يَعۡلَمُهَا وَلَا
+  حَبَّةٖ فِي ظُلُمَٰتِ ٱلۡأَرۡضِ وَلَا رَطۡبٖ وَلَا يَابِسٍ إِلَّا فِي كِتَٰبٖ مُّبِينٖ
 sentence_translation: With Him are the keys of the unseen—no one knows them except
   Him. And He knows what is in the land and sea. Not even a leaf falls without His
   knowledge, nor a grain in the darkness of the earth or anything—green or dry—but
   is ˹written˺ in a perfect Record. 
 word_by_word:
   1:
-    arabic: ۞ وَعِنۡدَهٗ
+    arabic: ۞ وَعِندَهُۥ
     translation: And with Him
     transliteration: waʿindahu
   2:
@@ -17,7 +16,7 @@ word_by_word:
     translation: (are the) keys
     transliteration: mafātiḥu
   3:
-    arabic: الۡغَيۡبِ
+    arabic: ٱلۡغَيۡبِ
     translation: (of) the unseen
     transliteration: l-ghaybi
   4:
@@ -25,15 +24,15 @@ word_by_word:
     translation: no (one)
     transliteration: lā
   5:
-    arabic: يَعۡلَمُهَاۤ
+    arabic: يَعۡلَمُهَآ
     translation: knows them
     transliteration: yaʿlamuhā
   6:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   7:
-    arabic: هُوَ​ؕ
+    arabic: هُوَۚ
     translation: Him
     transliteration: huwa
   8:
@@ -45,15 +44,15 @@ word_by_word:
     translation: what
     transliteration: mā
   10:
-    arabic: فِى
+    arabic: فِي
     translation: (is) in
     transliteration: fī
   11:
-    arabic: الۡبَرِّ
+    arabic: ٱلۡبَرِّ
     translation: the land
     transliteration: l-bari
   12:
-    arabic: وَالۡبَحۡرِ​ؕ
+    arabic: وَٱلۡبَحۡرِۚ
     translation: and in the sea
     transliteration: wal-baḥri
   13:
@@ -65,15 +64,15 @@ word_by_word:
     translation: falls
     transliteration: tasquṭu
   15:
-    arabic: مِنۡ
+    arabic: مِن
     translation: of
     transliteration: min
   16:
-    arabic: وَّرَقَةٍ
+    arabic: وَرَقَةٍ
     translation: any leaf
     transliteration: waraqatin
   17:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: but
     transliteration: illā
   18:
@@ -85,19 +84,19 @@ word_by_word:
     translation: And not
     transliteration: walā
   20:
-    arabic: حَبَّةٍ
+    arabic: حَبَّةٖ
     translation: a grain
     transliteration: ḥabbatin
   21:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   22:
-    arabic: ظُلُمٰتِ
+    arabic: ظُلُمَٰتِ
     translation: the darkness[es]
     transliteration: ẓulumāti
   23:
-    arabic: الۡاَرۡضِ
+    arabic: ٱلۡأَرۡضِ
     translation: (of) the earth
     transliteration: l-arḍi
   24:
@@ -105,11 +104,11 @@ word_by_word:
     translation: and not
     transliteration: walā
   25:
-    arabic: رَطۡبٍ
+    arabic: رَطۡبٖ
     translation: moist
     transliteration: raṭbin
   26:
-    arabic: وَّلَا
+    arabic: وَلَا
     translation: and not
     transliteration: walā
   27:
@@ -117,19 +116,19 @@ word_by_word:
     translation: dry
     transliteration: yābisin
   28:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: but
     transliteration: illā
   29:
-    arabic: فِىۡ
+    arabic: فِي
     translation: (is) in
     transliteration: fī
   30:
-    arabic: كِتٰبٍ
+    arabic: كِتَٰبٖ
     translation: a Record
     transliteration: kitābin
   31:
-    arabic: "مُّبِيۡنٍ‏ \uFEFF\uFEFF"
+    arabic: مُّبِينٖ
     translation: Clear
     transliteration: mubīnin
 ---

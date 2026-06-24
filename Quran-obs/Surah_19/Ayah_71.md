@@ -1,23 +1,22 @@
 ---
-arabic_ayat: وَاِنۡ مِّنْکُمْ اِلَّا وَارِدُهَا ​ؕ كَانَ عَلٰى رَبِّكَ حَتۡمًا مَّقۡضِيًّا​
-  ۚ‏
+arabic_ayat: وَإِن مِّنكُمۡ إِلَّا وَارِدُهَاۚ كَانَ عَلَىٰ رَبِّكَ حَتۡمٗا مَّقۡضِيّٗا
 sentence_translation: There is none of you who will not pass over it. ˹This is˺ a
   decree your Lord must fulfil.
 word_by_word:
   1:
-    arabic: وَاِنۡ
+    arabic: وَإِن
     translation: And (there is) not
     transliteration: wa-in
   2:
-    arabic: مِّنْکُمْ
+    arabic: مِّنكُمۡ
     translation: (any) of you
     transliteration: minkum
   3:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: but
     transliteration: illā
   4:
-    arabic: وَارِدُهَا ​ؕ
+    arabic: وَارِدُهَاۚ
     translation: (will be) passing over it
     transliteration: wāriduhā
   5:
@@ -25,7 +24,7 @@ word_by_word:
     translation: (This) is
     transliteration: kāna
   6:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: upon
     transliteration: ʿalā
   7:
@@ -33,11 +32,11 @@ word_by_word:
     translation: your Lord
     transliteration: rabbika
   8:
-    arabic: حَتۡمًا
+    arabic: حَتۡمٗا
     translation: an inevitability
     transliteration: ḥatman
   9:
-    arabic: مَّقۡضِيًّا​ ۚ‏
+    arabic: مَّقۡضِيّٗا
     translation: decreed
     transliteration: maqḍiyyan
 ---

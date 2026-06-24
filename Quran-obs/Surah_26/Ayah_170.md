@@ -1,17 +1,17 @@
 ---
-arabic_ayat: فَنَجَّيۡنٰهُ وَ اَهۡلَهٗۤ اَجۡمَعِيۡنَۙ‏
+arabic_ayat: فَنَجَّيۡنَٰهُ وَأَهۡلَهُۥٓ أَجۡمَعِينَ
 sentence_translation: So We saved him and all of his family,
 word_by_word:
   1:
-    arabic: فَنَجَّيۡنٰهُ
+    arabic: فَنَجَّيۡنَٰهُ
     translation: So We saved him
     transliteration: fanajjaynāhu
   2:
-    arabic: وَ اَهۡلَهٗۤ
+    arabic: وَأَهۡلَهُۥٓ
     translation: and his family
     transliteration: wa-ahlahu
   3:
-    arabic: اَجۡمَعِيۡنَۙ‏
+    arabic: أَجۡمَعِينَ
     translation: all
     transliteration: ajmaʿīna
 ---

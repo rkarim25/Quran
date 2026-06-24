@@ -1,21 +1,21 @@
 ---
-arabic_ayat: اَلَّا تَطۡغَوۡا فِى الۡمِيۡزَانِ‏
+arabic_ayat: أَلَّا تَطۡغَوۡاْ فِي ٱلۡمِيزَانِ
 sentence_translation: so that you do not defraud the scales.
 word_by_word:
   1:
-    arabic: اَلَّا
+    arabic: أَلَّا
     translation: That not
     transliteration: allā
   2:
-    arabic: تَطۡغَوۡا
+    arabic: تَطۡغَوۡاْ
     translation: you may transgress
     transliteration: taṭghaw
   3:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   4:
-    arabic: الۡمِيۡزَانِ‏
+    arabic: ٱلۡمِيزَانِ
     translation: the balance
     transliteration: l-mīzāni
 ---

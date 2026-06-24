@@ -1,23 +1,23 @@
 ---
-arabic_ayat: وَزَكَرِيَّاۤ اِذۡ نَادٰى رَبَّهٗ رَبِّ لَا تَذَرۡنِىۡ فَرۡدًا وَّاَنۡتَ
-  خَيۡرُ الۡوٰرِثِيۡنَ​ ۖ​ۚ‏
+arabic_ayat: وَزَكَرِيَّآ إِذۡ نَادَىٰ رَبَّهُۥ رَبِّ لَا تَذَرۡنِي فَرۡدٗا وَأَنتَ
+  خَيۡرُ ٱلۡوَٰرِثِينَ
 sentence_translation: And ˹remember˺ when Zachariah cried out to his Lord, “My Lord!
   Do not leave me childless, though You are the Best of Successors.”
 word_by_word:
   1:
-    arabic: وَزَكَرِيَّاۤ
+    arabic: وَزَكَرِيَّآ
     translation: And Zakariya
     transliteration: wazakariyyā
   2:
-    arabic: اِذۡ
+    arabic: إِذۡ
     translation: when
     transliteration: idh
   3:
-    arabic: نَادٰى
+    arabic: نَادَىٰ
     translation: he called
     transliteration: nādā
   4:
-    arabic: رَبَّهٗ
+    arabic: رَبَّهُۥ
     translation: (to) his Lord
     transliteration: rabbahu
   5:
@@ -29,15 +29,15 @@ word_by_word:
     translation: (Do) not
     transliteration: lā
   7:
-    arabic: تَذَرۡنِىۡ
+    arabic: تَذَرۡنِي
     translation: leave me
     transliteration: tadharnī
   8:
-    arabic: فَرۡدًا
+    arabic: فَرۡدٗا
     translation: alone
     transliteration: fardan
   9:
-    arabic: وَّاَنۡتَ
+    arabic: وَأَنتَ
     translation: while You
     transliteration: wa-anta
   10:
@@ -45,7 +45,7 @@ word_by_word:
     translation: (are) [the] Best
     transliteration: khayru
   11:
-    arabic: الۡوٰرِثِيۡنَ​ ۖ​ۚ‏
+    arabic: ٱلۡوَٰرِثِينَ
     translation: (of) the inheritors
     transliteration: l-wārithīna
 ---

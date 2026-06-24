@@ -1,11 +1,11 @@
 ---
-arabic_ayat: "وَلِلّٰهِ مُلۡكُ السَّمٰوٰتِ وَالۡاَرۡضِ​ؕ وَاللّٰهُ عَلٰى كُلِّ شَىۡءٍ\
-  \ قَدِيۡرٌ‏ \uFEFF\uFEFF"
+arabic_ayat: وَلِلَّهِ مُلۡكُ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِۗ وَٱللَّهُ عَلَىٰ كُلِّ شَيۡءٖ
+  قَدِيرٌ
 sentence_translation: To Allah ˹alone˺ belongs the kingdom of the heavens and the
   earth. And Allah is Most Capable of everything.
 word_by_word:
   1:
-    arabic: وَلِلّٰهِ
+    arabic: وَلِلَّهِ
     translation: And for Allah
     transliteration: walillahi
   2:
@@ -13,19 +13,19 @@ word_by_word:
     translation: (is the) dominion
     transliteration: mul'ku
   3:
-    arabic: السَّمٰوٰتِ
+    arabic: ٱلسَّمَٰوَٰتِ
     translation: (of) the heavens
     transliteration: l-samāwāti
   4:
-    arabic: وَالۡاَرۡضِ​ؕ
+    arabic: وَٱلۡأَرۡضِۗ
     translation: and the earth
     transliteration: wal-arḍi
   5:
-    arabic: وَاللّٰهُ
+    arabic: وَٱللَّهُ
     translation: and Allah
     transliteration: wal-lahu
   6:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: (is) on
     transliteration: ʿalā
   7:
@@ -33,11 +33,11 @@ word_by_word:
     translation: every
     transliteration: kulli
   8:
-    arabic: شَىۡءٍ
+    arabic: شَيۡءٖ
     translation: thing
     transliteration: shayin
   9:
-    arabic: "قَدِيۡرٌ‏ \uFEFF\uFEFF"
+    arabic: قَدِيرٌ
     translation: All-Powerful
     transliteration: qadīrun
 ---

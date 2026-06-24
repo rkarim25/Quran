@@ -1,5 +1,5 @@
 ---
-arabic_ayat: ثُمَّ اِذَا شَآءَ اَنۡشَرَهٗؕ‏
+arabic_ayat: ثُمَّ إِذَا شَآءَ أَنشَرَهُۥ
 sentence_translation: Then when He wills, He will resurrect them.
 word_by_word:
   1:
@@ -7,7 +7,7 @@ word_by_word:
     translation: Then
     transliteration: thumma
   2:
-    arabic: اِذَا
+    arabic: إِذَا
     translation: when
     transliteration: idhā
   3:
@@ -15,7 +15,7 @@ word_by_word:
     translation: He wills
     transliteration: shāa
   4:
-    arabic: اَنۡشَرَهٗؕ‏
+    arabic: أَنشَرَهُۥ
     translation: He will resurrect him
     transliteration: ansharahu
 ---

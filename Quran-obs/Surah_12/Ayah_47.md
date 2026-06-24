@@ -1,6 +1,6 @@
 ---
-arabic_ayat: قَالَ تَزۡرَعُوۡنَ سَبۡعَ سِنِيۡنَ دَاَبًا​ۚ فَمَا حَصَدْتُّمۡ فَذَرُوۡهُ
-  فِىۡ سُنۡۢبُلِهٖۤ اِلَّا قَلِيۡلًا مِّمَّا تَاۡكُلُوۡنَ‏
+arabic_ayat: قَالَ تَزۡرَعُونَ سَبۡعَ سِنِينَ دَأَبٗا فَمَا حَصَدتُّمۡ فَذَرُوهُ فِي
+  سُنۢبُلِهِۦٓ إِلَّا قَلِيلٗا مِّمَّا تَأۡكُلُونَ
 sentence_translation: Joseph replied, “You will plant ˹grain˺ for seven consecutive
   years, leaving in the ear whatever you will harvest, except for the little you will
   eat.
@@ -10,7 +10,7 @@ word_by_word:
     translation: He said
     transliteration: qāla
   2:
-    arabic: تَزۡرَعُوۡنَ
+    arabic: تَزۡرَعُونَ
     translation: You will sow
     transliteration: tazraʿūna
   3:
@@ -18,11 +18,11 @@ word_by_word:
     translation: (for) seven
     transliteration: sabʿa
   4:
-    arabic: سِنِيۡنَ
+    arabic: سِنِينَ
     translation: years
     transliteration: sinīna
   5:
-    arabic: دَاَبًا​ۚ
+    arabic: دَأَبٗا
     translation: as usual
     transliteration: da-aban
   6:
@@ -30,27 +30,27 @@ word_by_word:
     translation: and that which
     transliteration: famā
   7:
-    arabic: حَصَدْتُّمۡ
+    arabic: حَصَدتُّمۡ
     translation: you reap
     transliteration: ḥaṣadttum
   8:
-    arabic: فَذَرُوۡهُ
+    arabic: فَذَرُوهُ
     translation: so leave it
     transliteration: fadharūhu
   9:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   10:
-    arabic: سُنۡۢبُلِهٖۤ
+    arabic: سُنۢبُلِهِۦٓ
     translation: its ears
     transliteration: sunbulihi
   11:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   12:
-    arabic: قَلِيۡلًا
+    arabic: قَلِيلٗا
     translation: a little
     transliteration: qalīlan
   13:
@@ -58,7 +58,7 @@ word_by_word:
     translation: from which
     transliteration: mimmā
   14:
-    arabic: تَاۡكُلُوۡنَ‏
+    arabic: تَأۡكُلُونَ
     translation: you (will) eat
     transliteration: takulūna
 ---

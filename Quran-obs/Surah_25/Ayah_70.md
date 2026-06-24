@@ -1,16 +1,16 @@
 ---
-arabic_ayat: اِلَّا مَنۡ تَابَ وَاٰمَنَ وَعَمِلَ عَمَلًاصَالِحًـا فَاُولٰٓٮِٕكَ يُبَدِّلُ
-  اللّٰهُ سَيِّاٰتِهِمۡ حَسَنٰتٍ​ ؕ وَكَانَ اللّٰهُ غَفُوۡرًا رَّحِيۡمًا‏
+arabic_ayat: إِلَّا مَن تَابَ وَءَامَنَ وَعَمِلَ عَمَلٗا صَٰلِحٗا فَأُوْلَٰٓئِكَ يُبَدِّلُ
+  ٱللَّهُ سَيِّـَٔاتِهِمۡ حَسَنَٰتٖۗ وَكَانَ ٱللَّهُ غَفُورٗا رَّحِيمٗا
 sentence_translation: As for those who repent, believe, and do good deeds, they are
   the ones whose evil deeds Allah will change into good deeds. For Allah is All-Forgiving,
   Most Merciful.
 word_by_word:
   1:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: Except
     transliteration: illā
   2:
-    arabic: مَنۡ
+    arabic: مَن
     translation: (he) who
     transliteration: man
   3:
@@ -18,7 +18,7 @@ word_by_word:
     translation: repents
     transliteration: tāba
   4:
-    arabic: وَاٰمَنَ
+    arabic: وَءَامَنَ
     translation: and believes
     transliteration: waāmana
   5:
@@ -26,15 +26,15 @@ word_by_word:
     translation: and does
     transliteration: waʿamila
   6:
-    arabic: عَمَلًا
+    arabic: عَمَلٗا
     translation: righteous deeds
     transliteration: ʿamalan
   7:
-    arabic: صَالِحًـا
+    arabic: صَٰلِحٗا
     translation: righteous deeds
     transliteration: ṣāliḥan
   8:
-    arabic: فَاُولٰٓٮِٕكَ
+    arabic: فَأُوْلَٰٓئِكَ
     translation: then (for) those
     transliteration: fa-ulāika
   9:
@@ -42,15 +42,15 @@ word_by_word:
     translation: Allah will replace
     transliteration: yubaddilu
   10:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah will replace
     transliteration: l-lahu
   11:
-    arabic: سَيِّاٰتِهِمۡ
+    arabic: سَيِّـَٔاتِهِمۡ
     translation: their evil deeds
     transliteration: sayyiātihim
   12:
-    arabic: حَسَنٰتٍ​ ؕ
+    arabic: حَسَنَٰتٖۗ
     translation: (with) good ones
     transliteration: ḥasanātin
   13:
@@ -58,15 +58,15 @@ word_by_word:
     translation: And is
     transliteration: wakāna
   14:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   15:
-    arabic: غَفُوۡرًا
+    arabic: غَفُورٗا
     translation: Oft-Forgiving
     transliteration: ghafūran
   16:
-    arabic: رَّحِيۡمًا‏
+    arabic: رَّحِيمٗا
     translation: Most Merciful
     transliteration: raḥīman
 ---

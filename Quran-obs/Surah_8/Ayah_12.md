@@ -1,17 +1,17 @@
 ---
-arabic_ayat: اِذۡ يُوۡحِىۡ رَبُّكَ اِلَى الۡمَلٰۤٮِٕكَةِ اَنِّىۡ مَعَكُمۡ فَثَبِّتُوا
-  الَّذِيۡنَ اٰمَنُوۡا​ ؕ سَاُلۡقِىۡ فِىۡ قُلُوۡبِ الَّذِيۡنَ كَفَرُوا الرُّعۡبَ فَاضۡرِبُوۡا
-  فَوۡقَ الۡاَعۡنَاقِ وَاضۡرِبُوۡا مِنۡهُمۡ كُلَّ بَنَانٍؕ‏
+arabic_ayat: إِذۡ يُوحِي رَبُّكَ إِلَى ٱلۡمَلَٰٓئِكَةِ أَنِّي مَعَكُمۡ فَثَبِّتُواْ
+  ٱلَّذِينَ ءَامَنُواْۚ سَأُلۡقِي فِي قُلُوبِ ٱلَّذِينَ كَفَرُواْ ٱلرُّعۡبَ فَٱضۡرِبُواْ
+  فَوۡقَ ٱلۡأَعۡنَاقِ وَٱضۡرِبُواْ مِنۡهُمۡ كُلَّ بَنَانٖ
 sentence_translation: ˹Remember, O  Prophet,˺ when your Lord revealed to the angels,
   “I am with you. So make the believers stand firm. I will cast horror into the hearts
   of the disbelievers. So strike their necks and strike their fingertips.”
 word_by_word:
   1:
-    arabic: اِذۡ
+    arabic: إِذۡ
     translation: When
     transliteration: idh
   2:
-    arabic: يُوۡحِىۡ
+    arabic: يُوحِي
     translation: inspired
     transliteration: yūḥī
   3:
@@ -19,15 +19,15 @@ word_by_word:
     translation: your Lord
     transliteration: rabbuka
   4:
-    arabic: اِلَى
+    arabic: إِلَى
     translation: to
     transliteration: ilā
   5:
-    arabic: الۡمَلٰۤٮِٕكَةِ
+    arabic: ٱلۡمَلَٰٓئِكَةِ
     translation: the Angels
     transliteration: l-malāikati
   6:
-    arabic: اَنِّىۡ
+    arabic: أَنِّي
     translation: I am
     transliteration: annī
   7:
@@ -35,43 +35,43 @@ word_by_word:
     translation: with you
     transliteration: maʿakum
   8:
-    arabic: فَثَبِّتُوا
+    arabic: فَثَبِّتُواْ
     translation: so strengthen
     transliteration: fathabbitū
   9:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ ءَ
     translation: those who
     transliteration: alladhīna
   10:
-    arabic: اٰمَنُوۡا​ ؕ
+    arabic: امَنُواْۚ
     translation: believed
     transliteration: āmanū
   11:
-    arabic: سَاُلۡقِىۡ
+    arabic: سَأُلۡقِي
     translation: I will cast
     transliteration: sa-ul'qī
   12:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   13:
-    arabic: قُلُوۡبِ
+    arabic: قُلُوبِ
     translation: (the) hearts
     transliteration: qulūbi
   14:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: (of) those who
     transliteration: alladhīna
   15:
-    arabic: كَفَرُوا
+    arabic: كَفَرُواْ
     translation: 'disbelieved '
     transliteration: kafarū
   16:
-    arabic: الرُّعۡبَ
+    arabic: ٱلرُّعۡبَ
     translation: the terror
     transliteration: l-ruʿ'ba
   17:
-    arabic: فَاضۡرِبُوۡا
+    arabic: فَٱضۡرِبُواْ
     translation: so strike
     transliteration: fa-iḍ'ribū
   18:
@@ -79,11 +79,11 @@ word_by_word:
     translation: above
     transliteration: fawqa
   19:
-    arabic: الۡاَعۡنَاقِ
+    arabic: ٱلۡأَعۡنَاقِ
     translation: the necks
     transliteration: l-aʿnāqi
   20:
-    arabic: وَاضۡرِبُوۡا
+    arabic: وَٱضۡرِبُواْ
     translation: and strike
     transliteration: wa-iḍ'ribū
   21:
@@ -95,7 +95,7 @@ word_by_word:
     translation: every
     transliteration: kulla
   23:
-    arabic: بَنَانٍؕ‏
+    arabic: بَنَانٖ
     translation: fingertip[s]
     transliteration: banānin
 ---

@@ -1,6 +1,6 @@
 ---
-arabic_ayat: "وَوَهَبۡنَا لَهُمۡ مِّنۡ رَّحۡمَتِنَا وَجَعَلۡنَا لَهُمۡ لِسَانَ صِدۡقٍ\
-  \ عَلِيًّا‏ \uFEFF\uFEFF"
+arabic_ayat: وَوَهَبۡنَا لَهُم مِّن رَّحۡمَتِنَا وَجَعَلۡنَا لَهُمۡ لِسَانَ صِدۡقٍ
+  عَلِيّٗا
 sentence_translation: We showered them with Our mercy, and blessed them with honourable
   mention. 
 word_by_word:
@@ -9,11 +9,11 @@ word_by_word:
     translation: And We bestowed
     transliteration: wawahabnā
   2:
-    arabic: لَهُمۡ
+    arabic: لَهُم
     translation: to them
     transliteration: lahum
   3:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: of
     transliteration: min
   4:
@@ -37,7 +37,7 @@ word_by_word:
     translation: a truthful mention
     transliteration: ṣid'qin
   9:
-    arabic: "عَلِيًّا‏ \uFEFF\uFEFF"
+    arabic: عَلِيّٗا
     translation: high
     transliteration: ʿaliyyan
 ---

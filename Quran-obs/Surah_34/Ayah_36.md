@@ -1,6 +1,6 @@
 ---
-arabic_ayat: قُلۡ اِنَّ رَبِّىۡ يَبۡسُطُ الرِّزۡقَ لِمَنۡ يَّشَآءُ وَيَقۡدِرُ وَلٰـكِنَّ
-  اَكۡثَرَ النَّاسِ لَا يَعۡلَمُوۡنَ‏
+arabic_ayat: قُلۡ إِنَّ رَبِّي يَبۡسُطُ ٱلرِّزۡقَ لِمَن يَشَآءُ وَيَقۡدِرُ وَلَٰكِنَّ
+  أَكۡثَرَ ٱلنَّاسِ لَا يَعۡلَمُونَ
 sentence_translation: Say, ˹O Prophet,˺ “Surely ˹it is˺ my Lord ˹Who˺ gives abundant
   or limited provisions to whoever He wills. But most people do not know.”
 word_by_word:
@@ -9,11 +9,11 @@ word_by_word:
     translation: Say
     transliteration: qul
   2:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   3:
-    arabic: رَبِّىۡ
+    arabic: رَبِّي
     translation: my Lord
     transliteration: rabbī
   4:
@@ -21,15 +21,15 @@ word_by_word:
     translation: extends
     transliteration: yabsuṭu
   5:
-    arabic: الرِّزۡقَ
+    arabic: ٱلرِّزۡقَ
     translation: the provision
     transliteration: l-riz'qa
   6:
-    arabic: لِمَنۡ
+    arabic: لِمَن
     translation: for whom
     transliteration: liman
   7:
-    arabic: يَّشَآءُ
+    arabic: يَشَآءُ
     translation: He wills
     transliteration: yashāu
   8:
@@ -37,15 +37,15 @@ word_by_word:
     translation: and restricts
     transliteration: wayaqdiru
   9:
-    arabic: وَلٰـكِنَّ
+    arabic: وَلَٰكِنَّ
     translation: but
     transliteration: walākinna
   10:
-    arabic: اَكۡثَرَ
+    arabic: أَكۡثَرَ
     translation: most
     transliteration: akthara
   11:
-    arabic: النَّاسِ
+    arabic: ٱلنَّاسِ
     translation: '[the] people'
     transliteration: l-nāsi
   12:
@@ -53,7 +53,7 @@ word_by_word:
     translation: (do) not
     transliteration: lā
   13:
-    arabic: يَعۡلَمُوۡنَ‏
+    arabic: يَعۡلَمُونَ
     translation: know
     transliteration: yaʿlamūna
 ---

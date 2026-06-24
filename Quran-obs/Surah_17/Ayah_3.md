@@ -1,5 +1,5 @@
 ---
-arabic_ayat: ذُرِّيَّةَ مَنۡ حَمَلۡنَا مَعَ نُوۡحٍ​ؕ اِنَّهٗ كَانَ عَبۡدًا شَكُوۡرًا‏
+arabic_ayat: ذُرِّيَّةَ مَنۡ حَمَلۡنَا مَعَ نُوحٍۚ إِنَّهُۥ كَانَ عَبۡدٗا شَكُورٗا
 sentence_translation: ˹O˺ descendants of those We carried with Noah ˹in the Ark˺!
   He was indeed a grateful servant.”
 word_by_word:
@@ -20,11 +20,11 @@ word_by_word:
     translation: with
     transliteration: maʿa
   5:
-    arabic: نُوۡحٍ​ؕ
+    arabic: نُوحٍۚ
     translation: Nuh
     transliteration: nūḥin
   6:
-    arabic: اِنَّهٗ
+    arabic: إِنَّهُۥ
     translation: Indeed, he
     transliteration: innahu
   7:
@@ -32,11 +32,11 @@ word_by_word:
     translation: was
     transliteration: kāna
   8:
-    arabic: عَبۡدًا
+    arabic: عَبۡدٗا
     translation: a servant
     transliteration: ʿabdan
   9:
-    arabic: شَكُوۡرًا‏
+    arabic: شَكُورٗا
     translation: grateful
     transliteration: shakūran
 ---

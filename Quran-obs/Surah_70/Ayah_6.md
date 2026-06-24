@@ -1,17 +1,17 @@
 ---
-arabic_ayat: اِنَّهُمۡ يَرَوۡنَهٗ بَعِيۡدًا ۙ‏
+arabic_ayat: إِنَّهُمۡ يَرَوۡنَهُۥ بَعِيدٗا
 sentence_translation: They truly see this ˹Day˺ as impossible,
 word_by_word:
   1:
-    arabic: اِنَّهُمۡ
+    arabic: إِنَّهُمۡ
     translation: Indeed, they
     transliteration: innahum
   2:
-    arabic: يَرَوۡنَهٗ
+    arabic: يَرَوۡنَهُۥ
     translation: see it
     transliteration: yarawnahu
   3:
-    arabic: بَعِيۡدًا ۙ‏
+    arabic: بَعِيدٗا
     translation: (as) far off
     transliteration: baʿīdan
 ---

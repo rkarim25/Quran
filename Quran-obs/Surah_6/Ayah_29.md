@@ -1,23 +1,22 @@
 ---
-arabic_ayat: "وَقَالُوۡۤا اِنۡ هِىَ اِلَّا حَيَاتُنَا الدُّنۡيَا وَمَا نَحۡنُ بِمَبۡعُوۡثِيۡنَ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: وَقَالُوٓاْ إِنۡ هِيَ إِلَّا حَيَاتُنَا ٱلدُّنۡيَا وَمَا نَحۡنُ بِمَبۡعُوثِينَ
 sentence_translation: They insisted, “There is nothing beyond this worldly life and
   we will never be resurrected.”
 word_by_word:
   1:
-    arabic: وَقَالُوۡۤا
+    arabic: وَقَالُوٓاْ
     translation: And they said
     transliteration: waqālū
   2:
-    arabic: اِنۡ
+    arabic: إِنۡ
     translation: Not
     transliteration: in
   3:
-    arabic: هِىَ
+    arabic: هِيَ
     translation: it (is)
     transliteration: hiya
   4:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   5:
@@ -25,7 +24,7 @@ word_by_word:
     translation: our life
     transliteration: ḥayātunā
   6:
-    arabic: الدُّنۡيَا
+    arabic: ٱلدُّنۡيَا
     translation: (of) the world
     transliteration: l-dun'yā
   7:
@@ -37,7 +36,7 @@ word_by_word:
     translation: we
     transliteration: naḥnu
   9:
-    arabic: "بِمَبۡعُوۡثِيۡنَ‏ \uFEFF\uFEFF"
+    arabic: بِمَبۡعُوثِينَ
     translation: (will be) resurrected
     transliteration: bimabʿūthīna
 ---

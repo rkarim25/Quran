@@ -1,21 +1,21 @@
 ---
-arabic_ayat: قَالُوۡا سُبۡحٰنَ رَبِّنَاۤ اِنَّا كُنَّا ظٰلِمِيۡنَ‏
+arabic_ayat: قَالُواْ سُبۡحَٰنَ رَبِّنَآ إِنَّا كُنَّا ظَٰلِمِينَ
 sentence_translation: They replied, “Glory be to our Lord! We have truly been wrongdoers.”
 word_by_word:
   1:
-    arabic: قَالُوۡا
+    arabic: قَالُواْ
     translation: They said
     transliteration: qālū
   2:
-    arabic: سُبۡحٰنَ
+    arabic: سُبۡحَٰنَ
     translation: Glory be
     transliteration: sub'ḥāna
   3:
-    arabic: رَبِّنَاۤ
+    arabic: رَبِّنَآ
     translation: (to) our Lord
     transliteration: rabbinā
   4:
-    arabic: اِنَّا
+    arabic: إِنَّا
     translation: Indeed, we
     transliteration: innā
   5:
@@ -23,7 +23,7 @@ word_by_word:
     translation: '[we] were'
     transliteration: kunnā
   6:
-    arabic: ظٰلِمِيۡنَ‏
+    arabic: ظَٰلِمِينَ
     translation: wrongdoers
     transliteration: ẓālimīna
 ---

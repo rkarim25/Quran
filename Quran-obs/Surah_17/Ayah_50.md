@@ -1,13 +1,13 @@
 ---
-arabic_ayat: قُلۡ كُوۡنُوۡا حِجَارَةً اَوۡ حَدِيۡدًا‏
+arabic_ayat: ۞ قُلۡ كُونُواْ حِجَارَةً أَوۡ حَدِيدًا
 sentence_translation: Say, ˹O Prophet,˺ “˹Yes, even if˺ you become stones, or iron,
 word_by_word:
   1:
-    arabic: ۞ قُلۡ
+    arabic: ۞ قُلۡ
     translation: Say
     transliteration: qul
   2:
-    arabic: كُوۡنُوۡا
+    arabic: كُونُواْ
     translation: Be
     transliteration: kūnū
   3:
@@ -15,11 +15,11 @@ word_by_word:
     translation: stones
     transliteration: ḥijāratan
   4:
-    arabic: اَوۡ
+    arabic: أَوۡ
     translation: or
     transliteration: aw
   5:
-    arabic: حَدِيۡدًا‏
+    arabic: حَدِيدًا
     translation: iron
     transliteration: ḥadīdan
 ---

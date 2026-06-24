@@ -1,5 +1,5 @@
 ---
-arabic_ayat: وَتَوَلَّ عَنۡهُمۡ حَتّٰى حِيۡنٍۙ‏
+arabic_ayat: وَتَوَلَّ عَنۡهُمۡ حَتَّىٰ حِينٖ
 sentence_translation: And turn away from them for a while.
 word_by_word:
   1:
@@ -11,11 +11,11 @@ word_by_word:
     translation: from them
     transliteration: ʿanhum
   3:
-    arabic: حَتّٰى
+    arabic: حَتَّىٰ
     translation: for
     transliteration: ḥattā
   4:
-    arabic: حِيۡنٍۙ‏
+    arabic: حِينٖ
     translation: a time
     transliteration: ḥīnin
 ---

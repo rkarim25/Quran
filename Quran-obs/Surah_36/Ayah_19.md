@@ -1,28 +1,28 @@
 ---
-arabic_ayat: قَالُوۡا طٰۤٮِٕـرُكُمۡ مَّعَكُمۡؕ اَٮِٕنۡ ذُكِّرۡتُمۡ ؕ بَلۡ اَنۡـتُمۡ
-  قَوۡمٌ مُّسۡرِفُوۡنَ‏
+arabic_ayat: قَالُواْ طَٰٓئِرُكُم مَّعَكُمۡ أَئِن ذُكِّرۡتُمۚ بَلۡ أَنتُمۡ قَوۡمٞ
+  مُّسۡرِفُونَ
 sentence_translation: The messengers said, “Your bad omen lies within yourselves.
   Are you saying this because you are reminded ˹of the truth˺? In fact, you are a
   transgressing people.”
 word_by_word:
   1:
-    arabic: قَالُوۡا
+    arabic: قَالُواْ
     translation: They said
     transliteration: qālū
   2:
-    arabic: طٰۤٮِٕـرُكُمۡ
+    arabic: طَٰٓئِرُكُم
     translation: Your evil omen
     transliteration: ṭāirukum
   3:
-    arabic: مَّعَكُمۡؕ
+    arabic: مَّعَكُمۡ
     translation: (be) with you
     transliteration: maʿakum
   4:
-    arabic: اَٮِٕنۡ
+    arabic: أَئِن
     translation: Is it because
     transliteration: a-in
   5:
-    arabic: ذُكِّرۡتُمۡ ؕ
+    arabic: ذُكِّرۡتُمۚ
     translation: you are admonished
     transliteration: dhukkir'tum
   6:
@@ -30,15 +30,15 @@ word_by_word:
     translation: Nay
     transliteration: bal
   7:
-    arabic: اَنۡـتُمۡ
+    arabic: أَنتُمۡ
     translation: you
     transliteration: antum
   8:
-    arabic: قَوۡمٌ
+    arabic: قَوۡمٞ
     translation: (are) a people
     transliteration: qawmun
   9:
-    arabic: مُّسۡرِفُوۡنَ‏
+    arabic: مُّسۡرِفُونَ
     translation: transgressing
     transliteration: mus'rifūna
 ---

@@ -1,6 +1,6 @@
 ---
-arabic_ayat: فَلَمَّا رَجَعُوۡۤا اِلٰٓى اَبِيۡهِمۡ قَالُوۡا يٰۤاَبَانَا مُنِعَ مِنَّا
-  الۡكَيۡلُ فَاَرۡسِلۡ مَعَنَاۤ اَخَانَا نَكۡتَلۡ وَاِنَّا لَهٗ لَحٰـفِظُوۡنَ‏
+arabic_ayat: فَلَمَّا رَجَعُوٓاْ إِلَىٰٓ أَبِيهِمۡ قَالُواْ يَٰٓأَبَانَا مُنِعَ مِنَّا
+  ٱلۡكَيۡلُ فَأَرۡسِلۡ مَعَنَآ أَخَانَا نَكۡتَلۡ وَإِنَّا لَهُۥ لَحَٰفِظُونَ
 sentence_translation: When Joseph’s brothers returned to their father, they pleaded,
   “O our father! We have been denied ˹further˺ supplies. So send our brother with
   us so that we may receive our measure, and we will definitely watch over him.”
@@ -10,23 +10,23 @@ word_by_word:
     translation: So when
     transliteration: falammā
   2:
-    arabic: رَجَعُوۡۤا
+    arabic: رَجَعُوٓاْ
     translation: they returned
     transliteration: rajaʿū
   3:
-    arabic: اِلٰٓى
+    arabic: إِلَىٰٓ
     translation: to
     transliteration: ilā
   4:
-    arabic: اَبِيۡهِمۡ
+    arabic: أَبِيهِمۡ
     translation: their father
     transliteration: abīhim
   5:
-    arabic: قَالُوۡا
+    arabic: قَالُواْ
     translation: they said
     transliteration: qālū
   6:
-    arabic: يٰۤاَبَانَا
+    arabic: يَٰٓأَبَانَا
     translation: O our father
     transliteration: yāabānā
   7:
@@ -38,19 +38,19 @@ word_by_word:
     translation: to us
     transliteration: minnā
   9:
-    arabic: الۡكَيۡلُ
+    arabic: ٱلۡكَيۡلُ
     translation: the measure
     transliteration: l-kaylu
   10:
-    arabic: فَاَرۡسِلۡ
+    arabic: فَأَرۡسِلۡ
     translation: so send
     transliteration: fa-arsil
   11:
-    arabic: مَعَنَاۤ
+    arabic: مَعَنَآ
     translation: with us
     transliteration: maʿanā
   12:
-    arabic: اَخَانَا
+    arabic: أَخَانَا
     translation: our brother
     transliteration: akhānā
   13:
@@ -58,15 +58,15 @@ word_by_word:
     translation: (that) we will get measure
     transliteration: naktal
   14:
-    arabic: وَاِنَّا
+    arabic: وَإِنَّا
     translation: And indeed, we
     transliteration: wa-innā
   15:
-    arabic: لَهٗ
+    arabic: لَهُۥ
     translation: for him
     transliteration: lahu
   16:
-    arabic: لَحٰـفِظُوۡنَ‏
+    arabic: لَحَٰفِظُونَ
     translation: (will) surely (be) guardians
     transliteration: laḥāfiẓūna
 ---

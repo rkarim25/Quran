@@ -1,6 +1,6 @@
 ---
-arabic_ayat: فَقَدۡ كَذَّبُوۡا بِالۡحَـقِّ لَـمَّا جَآءَهُمۡ​ؕ فَسَوۡفَ يَاۡتِيۡهِمۡ
-  اَنۢۡـبٰٓـؤُا مَا كَانُوۡا بِهٖ يَسۡتَهۡزِءُوۡنَ‏
+arabic_ayat: فَقَدۡ كَذَّبُواْ بِٱلۡحَقِّ لَمَّا جَآءَهُمۡ فَسَوۡفَ يَأۡتِيهِمۡ أَنۢبَٰٓؤُاْ
+  مَا كَانُواْ بِهِۦ يَسۡتَهۡزِءُونَ
 sentence_translation: They have indeed rejected the truth when it came to them, so
   they will soon face the consequences of their ridicule.
 word_by_word:
@@ -9,19 +9,19 @@ word_by_word:
     translation: Then indeed
     transliteration: faqad
   2:
-    arabic: كَذَّبُوۡا
+    arabic: كَذَّبُواْ
     translation: they denied
     transliteration: kadhabū
   3:
-    arabic: بِالۡحَـقِّ
+    arabic: بِٱلۡحَقِّ
     translation: the truth
     transliteration: bil-ḥaqi
   4:
-    arabic: لَـمَّا
+    arabic: لَمَّا
     translation: when
     transliteration: lammā
   5:
-    arabic: جَآءَهُمۡ​ؕ
+    arabic: جَآءَهُمۡ
     translation: it came to them
     transliteration: jāahum
   6:
@@ -29,11 +29,11 @@ word_by_word:
     translation: but soon
     transliteration: fasawfa
   7:
-    arabic: يَاۡتِيۡهِمۡ
+    arabic: يَأۡتِيهِمۡ
     translation: will come to them
     transliteration: yatīhim
   8:
-    arabic: اَنۢۡـبٰٓـؤُا
+    arabic: أَنۢبَٰٓؤُاْ
     translation: news
     transliteration: anbāu
   9:
@@ -41,15 +41,15 @@ word_by_word:
     translation: (of) what
     transliteration: mā
   10:
-    arabic: كَانُوۡا
+    arabic: كَانُواْ
     translation: they used to
     transliteration: kānū
   11:
-    arabic: بِهٖ
+    arabic: بِهِۦ
     translation: '[at it]'
     transliteration: bihi
   12:
-    arabic: يَسۡتَهۡزِءُوۡنَ‏
+    arabic: يَسۡتَهۡزِءُونَ
     translation: mock
     transliteration: yastahziūna
 ---

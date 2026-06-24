@@ -1,23 +1,22 @@
 ---
-arabic_ayat: "ذٰ لِكَ عِيۡسَى ابۡنُ مَرۡيَمَ ​ۚ قَوۡلَ الۡحَـقِّ الَّذِىۡ فِيۡهِ يَمۡتَرُوۡنَ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: ذَٰلِكَ عِيسَى ٱبۡنُ مَرۡيَمَۖ قَوۡلَ ٱلۡحَقِّ ٱلَّذِي فِيهِ يَمۡتَرُونَ
 sentence_translation: That is Jesus, son of Mary. ˹And this is˺ a word of truth, about
   which they dispute.
 word_by_word:
   1:
-    arabic: ذٰ لِكَ
+    arabic: ذَٰلِكَ
     translation: That
     transliteration: dhālika
   2:
-    arabic: عِيۡسَى
+    arabic: عِيسَى
     translation: (was) Isa
     transliteration: ʿīsā
   3:
-    arabic: ابۡنُ
+    arabic: ٱبۡنُ
     translation: (the) son
     transliteration: ub'nu
   4:
-    arabic: مَرۡيَمَ ​ۚ
+    arabic: مَرۡيَمَۖ
     translation: (of) Maryam
     transliteration: maryama
   5:
@@ -25,19 +24,19 @@ word_by_word:
     translation: a statement
     transliteration: qawla
   6:
-    arabic: الۡحَـقِّ
+    arabic: ٱلۡحَقِّ
     translation: (of) truth
     transliteration: l-ḥaqi
   7:
-    arabic: الَّذِىۡ
+    arabic: ٱلَّذِي
     translation: that which
     transliteration: alladhī
   8:
-    arabic: فِيۡهِ
+    arabic: فِيهِ
     translation: about it
     transliteration: fīhi
   9:
-    arabic: "يَمۡتَرُوۡنَ‏ \uFEFF\uFEFF"
+    arabic: يَمۡتَرُونَ
     translation: they dispute
     transliteration: yamtarūna
 ---

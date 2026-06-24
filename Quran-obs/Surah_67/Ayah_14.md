@@ -1,10 +1,10 @@
 ---
-arabic_ayat: اَلَا يَعۡلَمُ مَنۡ خَلَقَؕ وَهُوَ اللَّطِيۡفُ الۡخَبِيۡرُ‏
+arabic_ayat: أَلَا يَعۡلَمُ مَنۡ خَلَقَ وَهُوَ ٱللَّطِيفُ ٱلۡخَبِيرُ
 sentence_translation: How could He not know His Own creation? For He ˹alone˺ is the
   Most Subtle, All-Aware.
 word_by_word:
   1:
-    arabic: اَلَا
+    arabic: أَلَا
     translation: Does not
     transliteration: alā
   2:
@@ -16,7 +16,7 @@ word_by_word:
     translation: (the One) Who
     transliteration: man
   4:
-    arabic: خَلَقَؕ
+    arabic: خَلَقَ
     translation: created
     transliteration: khalaqa
   5:
@@ -24,11 +24,11 @@ word_by_word:
     translation: And He
     transliteration: wahuwa
   6:
-    arabic: اللَّطِيۡفُ
+    arabic: ٱللَّطِيفُ
     translation: (is) the Subtle
     transliteration: l-laṭīfu
   7:
-    arabic: الۡخَبِيۡرُ‏
+    arabic: ٱلۡخَبِيرُ
     translation: the All-Aware
     transliteration: l-khabīru
 ---

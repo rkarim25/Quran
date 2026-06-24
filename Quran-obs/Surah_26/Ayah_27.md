@@ -1,5 +1,5 @@
 ---
-arabic_ayat: قَالَ اِنَّ رَسُوۡلَـكُمُ الَّذِىۡۤ اُرۡسِلَ اِلَيۡكُمۡ لَمَجۡنُوۡنٌ‏
+arabic_ayat: قَالَ إِنَّ رَسُولَكُمُ ٱلَّذِيٓ أُرۡسِلَ إِلَيۡكُمۡ لَمَجۡنُونٞ
 sentence_translation: Pharaoh said ˹mockingly˺, “Your messenger, who has been sent
   to you, must be insane.”
 word_by_word:
@@ -8,27 +8,27 @@ word_by_word:
     translation: He said
     transliteration: qāla
   2:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   3:
-    arabic: رَسُوۡلَـكُمُ
+    arabic: رَسُولَكُمُ
     translation: your Messenger
     transliteration: rasūlakumu
   4:
-    arabic: الَّذِىۡۤ
+    arabic: ٱلَّذِيٓ
     translation: who
     transliteration: alladhī
   5:
-    arabic: اُرۡسِلَ
+    arabic: أُرۡسِلَ
     translation: has been sent
     transliteration: ur'sila
   6:
-    arabic: اِلَيۡكُمۡ
+    arabic: إِلَيۡكُمۡ
     translation: to you
     transliteration: ilaykum
   7:
-    arabic: لَمَجۡنُوۡنٌ‏
+    arabic: لَمَجۡنُونٞ
     translation: (is) surely mad
     transliteration: lamajnūnun
 ---

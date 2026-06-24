@@ -1,7 +1,7 @@
 ---
-arabic_ayat: وَمَا كَانَ اسۡتِغۡفَارُ اِبۡرٰهِيۡمَ لِاَبِيۡهِ اِلَّا عَنۡ مَّوۡعِدَةٍ
-  وَّعَدَهَاۤ اِيَّاهُ​ ۚ فَلَمَّا تَبَيَّنَ لَهٗۤ اَنَّهٗ عَدُوٌّ لِّلّٰهِ تَبَرَّاَ
-  مِنۡهُ​ ؕ اِنَّ اِبۡرٰهِيۡمَ لَاَوَّاهٌ حَلِيۡمٌ‏
+arabic_ayat: وَمَا كَانَ ٱسۡتِغۡفَارُ إِبۡرَٰهِيمَ لِأَبِيهِ إِلَّا عَن مَّوۡعِدَةٖ
+  وَعَدَهَآ إِيَّاهُ فَلَمَّا تَبَيَّنَ لَهُۥٓ أَنَّهُۥ عَدُوّٞ لِّلَّهِ تَبَرَّأَ
+  مِنۡهُۚ إِنَّ إِبۡرَٰهِيمَ لَأَوَّٰهٌ حَلِيمٞ
 sentence_translation: As for Abraham’s prayer for his father’s forgiveness, it was
   only in fulfilment of a promise he had made to him. But when it became clear to
   Abraham that his father was an enemy of Allah, he broke ties with him. Abraham was
@@ -16,35 +16,35 @@ word_by_word:
     translation: was
     transliteration: kāna
   3:
-    arabic: اسۡتِغۡفَارُ
+    arabic: ٱسۡتِغۡفَارُ
     translation: (the) asking of forgiveness
     transliteration: is'tigh'fāru
   4:
-    arabic: اِبۡرٰهِيۡمَ
+    arabic: إِبۡرَٰهِيمَ
     translation: (by) Ibrahim
     transliteration: ib'rāhīma
   5:
-    arabic: لِاَبِيۡهِ
+    arabic: لِأَبِيهِ
     translation: for his father
     transliteration: li-abīhi
   6:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   7:
-    arabic: عَنۡ
+    arabic: عَن
     translation: because
     transliteration: ʿan
   8:
-    arabic: مَّوۡعِدَةٍ
+    arabic: مَّوۡعِدَةٖ
     translation: (of) a promise
     transliteration: mawʿidatin
   9:
-    arabic: وَّعَدَهَاۤ
+    arabic: وَعَدَهَآ
     translation: he had promised it
     transliteration: waʿadahā
   10:
-    arabic: اِيَّاهُ​ ۚ
+    arabic: إِيَّاهُ
     translation: (to) him
     transliteration: iyyāhu
   11:
@@ -56,43 +56,43 @@ word_by_word:
     translation: it became clear
     transliteration: tabayyana
   13:
-    arabic: لَهٗۤ
+    arabic: لَهُۥٓ
     translation: to him
     transliteration: lahu
   14:
-    arabic: اَنَّهٗ
+    arabic: أَنَّهُۥ
     translation: that he
     transliteration: annahu
   15:
-    arabic: عَدُوٌّ
+    arabic: عَدُوّٞ
     translation: (was) an enemy
     transliteration: ʿaduwwun
   16:
-    arabic: لِّلّٰهِ
+    arabic: لِّلَّهِ
     translation: to Allah
     transliteration: lillahi
   17:
-    arabic: تَبَرَّاَ
+    arabic: تَبَرَّأَ
     translation: he disassociated
     transliteration: tabarra-a
   18:
-    arabic: مِنۡهُ​ ؕ
+    arabic: مِنۡهُۚ
     translation: from him
     transliteration: min'hu
   19:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   20:
-    arabic: اِبۡرٰهِيۡمَ
+    arabic: إِبۡرَٰهِيمَ
     translation: Ibrahim
     transliteration: ib'rāhīma
   21:
-    arabic: لَاَوَّاهٌ
+    arabic: لَأَوَّٰهٌ
     translation: (was) compassionate
     transliteration: la-awwāhun
   22:
-    arabic: حَلِيۡمٌ‏
+    arabic: حَلِيمٞ
     translation: forbearing
     transliteration: ḥalīmun
 ---

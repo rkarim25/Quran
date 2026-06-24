@@ -1,5 +1,5 @@
 ---
-arabic_ayat: قَالَ اَجِئۡتَنَا لِتُخۡرِجَنَا مِنۡ اَرۡضِنَا بِسِحۡرِكَ يٰمُوۡسٰى‏
+arabic_ayat: قَالَ أَجِئۡتَنَا لِتُخۡرِجَنَا مِنۡ أَرۡضِنَا بِسِحۡرِكَ يَٰمُوسَىٰ
 sentence_translation: He said, “Have you come to drive us out of our land with your
   magic, O  Moses?
 word_by_word:
@@ -8,7 +8,7 @@ word_by_word:
     translation: He said
     transliteration: qāla
   2:
-    arabic: اَجِئۡتَنَا
+    arabic: أَجِئۡتَنَا
     translation: Have you come to us
     transliteration: aji'tanā
   3:
@@ -20,7 +20,7 @@ word_by_word:
     translation: of
     transliteration: min
   5:
-    arabic: اَرۡضِنَا
+    arabic: أَرۡضِنَا
     translation: our land
     transliteration: arḍinā
   6:
@@ -28,7 +28,7 @@ word_by_word:
     translation: with your magic
     transliteration: bisiḥ'rika
   7:
-    arabic: يٰمُوۡسٰى‏
+    arabic: يَٰمُوسَىٰ
     translation: O Musa
     transliteration: yāmūsā
 ---

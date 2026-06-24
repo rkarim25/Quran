@@ -1,35 +1,35 @@
 ---
-arabic_ayat: وَالَّذِيۡنَ اٰمَنُوۡا وَعَمِلُوا الصّٰلِحٰتِ اُولٰٓٮِٕكَ اَصۡحٰبُ الۡجَـنَّةِ ​​ۚ
-  هُمۡ فِيۡهَا خٰلِدُوۡنَ‏
+arabic_ayat: وَٱلَّذِينَ ءَامَنُواْ وَعَمِلُواْ ٱلصَّٰلِحَٰتِ أُوْلَٰٓئِكَ أَصۡحَٰبُ
+  ٱلۡجَنَّةِۖ هُمۡ فِيهَا خَٰلِدُونَ
 sentence_translation: And those who believe and do good will be the residents of Paradise.
   They will be there forever.
 word_by_word:
   1:
-    arabic: وَالَّذِيۡنَ
+    arabic: وَٱلَّذِينَ ءَ
     translation: And those who
     transliteration: wa-alladhīna
   2:
-    arabic: اٰمَنُوۡا
+    arabic: امَنُواْ
     translation: believed
     transliteration: āmanū
   3:
-    arabic: وَعَمِلُوا
+    arabic: وَعَمِلُواْ
     translation: and did
     transliteration: waʿamilū
   4:
-    arabic: الصّٰلِحٰتِ
+    arabic: ٱلصَّٰلِحَٰتِ
     translation: righteous deeds
     transliteration: l-ṣāliḥāti
   5:
-    arabic: اُولٰٓٮِٕكَ
+    arabic: أُوْلَٰٓئِكَ
     translation: those
     transliteration: ulāika
   6:
-    arabic: اَصۡحٰبُ
+    arabic: أَصۡحَٰبُ
     translation: (are the) companions
     transliteration: aṣḥābu
   7:
-    arabic: الۡجَـنَّةِ ​​ۚ
+    arabic: ٱلۡجَنَّةِۖ
     translation: (of) Paradise
     transliteration: l-janati
   8:
@@ -37,11 +37,11 @@ word_by_word:
     translation: they
     transliteration: hum
   9:
-    arabic: فِيۡهَا
+    arabic: فِيهَا
     translation: in it
     transliteration: fīhā
   10:
-    arabic: خٰلِدُوۡنَ‏
+    arabic: خَٰلِدُونَ
     translation: (will) abide forever
     transliteration: khālidūna
 ---

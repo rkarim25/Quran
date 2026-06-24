@@ -1,11 +1,11 @@
 ---
-arabic_ayat: وَّاَنَّهٗ كَانَ رِجَالٌ مِّنَ الۡاِنۡسِ يَعُوۡذُوۡنَ بِرِجَالٍ مِّنَ
-  الۡجِنِّ فَزَادُوۡهُمۡ رَهَقًا ۙ‏
+arabic_ayat: وَأَنَّهُۥ كَانَ رِجَالٞ مِّنَ ٱلۡإِنسِ يَعُوذُونَ بِرِجَالٖ مِّنَ ٱلۡجِنِّ
+  فَزَادُوهُمۡ رَهَقٗا
 sentence_translation: And some men used to seek refuge with some jinn—so they increased
   each other in wickedness.
 word_by_word:
   1:
-    arabic: وَّاَنَّهٗ
+    arabic: وَأَنَّهُۥ
     translation: And that
     transliteration: wa-annahu
   2:
@@ -13,7 +13,7 @@ word_by_word:
     translation: (there) were
     transliteration: kāna
   3:
-    arabic: رِجَالٌ
+    arabic: رِجَالٞ
     translation: men
     transliteration: rijālun
   4:
@@ -21,15 +21,15 @@ word_by_word:
     translation: among
     transliteration: mina
   5:
-    arabic: الۡاِنۡسِ
+    arabic: ٱلۡإِنسِ
     translation: mankind
     transliteration: l-insi
   6:
-    arabic: يَعُوۡذُوۡنَ
+    arabic: يَعُوذُونَ
     translation: who sought refuge
     transliteration: yaʿūdhūna
   7:
-    arabic: بِرِجَالٍ
+    arabic: بِرِجَالٖ
     translation: in (the) men
     transliteration: birijālin
   8:
@@ -37,15 +37,15 @@ word_by_word:
     translation: from
     transliteration: mina
   9:
-    arabic: الۡجِنِّ
+    arabic: ٱلۡجِنِّ
     translation: the jinn
     transliteration: l-jini
   10:
-    arabic: فَزَادُوۡهُمۡ
+    arabic: فَزَادُوهُمۡ
     translation: so they increased them
     transliteration: fazādūhum
   11:
-    arabic: رَهَقًا ۙ‏
+    arabic: رَهَقٗا
     translation: (in) burden
     transliteration: rahaqan
 ---

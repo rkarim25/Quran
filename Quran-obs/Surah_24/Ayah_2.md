@@ -1,23 +1,22 @@
 ---
-arabic_ayat: "اَلزَّانِيَةُ وَالزَّانِىۡ فَاجۡلِدُوۡا كُلَّ وَاحِدٍ مِّنۡهُمَا مِائَةَ\
-  \ جَلۡدَةٍ​وَّلَا تَاۡخُذۡكُمۡ بِهِمَا رَاۡفَةٌ فِىۡ دِيۡنِ اللّٰهِ اِنۡ كُنۡتُمۡ\
-  \ تُؤۡمِنُوۡنَ بِاللّٰهِ وَالۡيَوۡمِ الۡاٰخِرِ​ۚ وَلۡيَشۡهَدۡ عَذَابَهُمَا طَآٮِٕفَةٌ\
-  \ مِّنَ الۡمُؤۡمِنِيۡنَ‏ \uFEFF\uFEFF"
+arabic_ayat: ٱلزَّانِيَةُ وَٱلزَّانِي فَٱجۡلِدُواْ كُلَّ وَٰحِدٖ مِّنۡهُمَا مِاْئَةَ
+  جَلۡدَةٖۖ وَلَا تَأۡخُذۡكُم بِهِمَا رَأۡفَةٞ فِي دِينِ ٱللَّهِ إِن كُنتُمۡ تُؤۡمِنُونَ
+  بِٱللَّهِ وَٱلۡيَوۡمِ ٱلۡأٓخِرِۖ وَلۡيَشۡهَدۡ عَذَابَهُمَا طَآئِفَةٞ مِّنَ ٱلۡمُؤۡمِنِينَ
 sentence_translation: As for female and male fornicators, give each of them one hundred
   lashes, and do not let pity for them make you lenient in ˹enforcing˺ the law of
   Allah, if you ˹truly˺ believe in Allah and the Last Day. And let a number of believers
   witness their punishment.
 word_by_word:
   1:
-    arabic: اَلزَّانِيَةُ
+    arabic: ٱلزَّانِيَةُ
     translation: The fornicatress
     transliteration: al-zāniyatu
   2:
-    arabic: وَالزَّانِىۡ
+    arabic: وَٱلزَّانِي
     translation: and the fornicator
     transliteration: wal-zānī
   3:
-    arabic: فَاجۡلِدُوۡا
+    arabic: فَٱجۡلِدُواْ
     translation: '[then] flog'
     transliteration: fa-ij'lidū
   4:
@@ -25,7 +24,7 @@ word_by_word:
     translation: each
     transliteration: kulla
   5:
-    arabic: وَاحِدٍ
+    arabic: وَٰحِدٖ
     translation: one
     transliteration: wāḥidin
   6:
@@ -33,19 +32,19 @@ word_by_word:
     translation: of them
     transliteration: min'humā
   7:
-    arabic: مِائَةَ
+    arabic: مِاْئَةَ
     translation: (with) hundred
     transliteration: mi-ata
   8:
-    arabic: جَلۡدَةٍ​
+    arabic: جَلۡدَةٖۖ
     translation: lash(es)
     transliteration: jaldatin
   9:
-    arabic: وَّلَا
+    arabic: وَلَا
     translation: And (let) not
     transliteration: walā
   10:
-    arabic: تَاۡخُذۡكُمۡ
+    arabic: تَأۡخُذۡكُم
     translation: withhold you
     transliteration: takhudh'kum
   11:
@@ -53,43 +52,43 @@ word_by_word:
     translation: pity for them
     transliteration: bihimā
   12:
-    arabic: رَاۡفَةٌ
+    arabic: رَأۡفَةٞ
     translation: pity for them
     transliteration: rafatun
   13:
-    arabic: فِىۡ
+    arabic: فِي
     translation: concerning
     transliteration: fī
   14:
-    arabic: دِيۡنِ
+    arabic: دِينِ
     translation: (the) religion of Allah
     transliteration: dīni
   15:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (the) religion of Allah
     transliteration: l-lahi
   16:
-    arabic: اِنۡ
+    arabic: إِن
     translation: if
     transliteration: in
   17:
-    arabic: كُنۡتُمۡ
+    arabic: كُنتُمۡ
     translation: you
     transliteration: kuntum
   18:
-    arabic: تُؤۡمِنُوۡنَ
+    arabic: تُؤۡمِنُونَ
     translation: believe
     transliteration: tu'minūna
   19:
-    arabic: بِاللّٰهِ
+    arabic: بِٱللَّهِ
     translation: in Allah
     transliteration: bil-lahi
   20:
-    arabic: وَالۡيَوۡمِ
+    arabic: وَٱلۡيَوۡمِ
     translation: and the Day
     transliteration: wal-yawmi
   21:
-    arabic: الۡاٰخِرِ​ۚ
+    arabic: ٱلۡأٓخِرِۖ
     translation: the Last
     transliteration: l-ākhiri
   22:
@@ -101,7 +100,7 @@ word_by_word:
     translation: their punishment
     transliteration: ʿadhābahumā
   24:
-    arabic: طَآٮِٕفَةٌ
+    arabic: طَآئِفَةٞ
     translation: a group
     transliteration: ṭāifatun
   25:
@@ -109,7 +108,7 @@ word_by_word:
     translation: of
     transliteration: mina
   26:
-    arabic: "الۡمُؤۡمِنِيۡنَ‏ \uFEFF\uFEFF"
+    arabic: ٱلۡمُؤۡمِنِينَ
     translation: the believers
     transliteration: l-mu'minīna
 ---

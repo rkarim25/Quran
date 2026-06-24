@@ -1,11 +1,11 @@
 ---
-arabic_ayat: لَهٗ مُلۡكُ السَّمٰوٰتِ وَالۡاَرۡضِ​ۚ يُحۡىٖ وَيُمِيۡتُ​ۚ وَهُوَ عَلٰى
-  كُلِّ شَىۡءٍ قَدِيۡرٌ‏
+arabic_ayat: لَهُۥ مُلۡكُ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِۖ يُحۡيِۦ وَيُمِيتُۖ وَهُوَ عَلَىٰ
+  كُلِّ شَيۡءٖ قَدِيرٌ
 sentence_translation: To Him belongs the kingdom of the heavens and the earth. He
   gives life and causes death. And He is Most Capable of everything.
 word_by_word:
   1:
-    arabic: لَهٗ
+    arabic: لَهُۥ
     translation: For Him
     transliteration: lahu
   2:
@@ -13,19 +13,19 @@ word_by_word:
     translation: (is the) dominion
     transliteration: mul'ku
   3:
-    arabic: السَّمٰوٰتِ
+    arabic: ٱلسَّمَٰوَٰتِ
     translation: (of) the heavens
     transliteration: l-samāwāti
   4:
-    arabic: وَالۡاَرۡضِ​ۚ
+    arabic: وَٱلۡأَرۡضِۖ
     translation: and the earth
     transliteration: wal-arḍi
   5:
-    arabic: يُحۡىٖ
+    arabic: يُحۡيِۦ
     translation: He gives life
     transliteration: yuḥ'yī
   6:
-    arabic: وَيُمِيۡتُ​ۚ
+    arabic: وَيُمِيتُۖ
     translation: and causes death
     transliteration: wayumītu
   7:
@@ -33,7 +33,7 @@ word_by_word:
     translation: and He
     transliteration: wahuwa
   8:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: (is) over
     transliteration: ʿalā
   9:
@@ -41,11 +41,11 @@ word_by_word:
     translation: all
     transliteration: kulli
   10:
-    arabic: شَىۡءٍ
+    arabic: شَيۡءٖ
     translation: things
     transliteration: shayin
   11:
-    arabic: قَدِيۡرٌ‏
+    arabic: قَدِيرٌ
     translation: All-Powerful
     transliteration: qadīrun
 ---

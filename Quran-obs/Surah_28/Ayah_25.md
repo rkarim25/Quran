@@ -1,8 +1,7 @@
 ---
-arabic_ayat: "فَجَآءَتۡهُ اِحۡدٰٮہُمَا تَمۡشِىۡ عَلَى اسۡتِحۡيَآءٍ  قَالَتۡ اِنَّ\
-  \ اَبِىۡ يَدۡعُوۡكَ لِيَجۡزِيَكَ اَجۡرَ مَا سَقَيۡتَ لَـنَا​ ؕ فَلَمَّا جَآءَهٗ\
-  \ وَقَصَّ عَلَيۡهِ الۡقَصَصَ ۙ قَالَ لَا تَخَفۡ​ نَجَوۡتَ مِنَ الۡقَوۡمِ الظّٰلِمِيۡنَ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: فَجَآءَتۡهُ إِحۡدَىٰهُمَا تَمۡشِي عَلَى ٱسۡتِحۡيَآءٖ قَالَتۡ إِنَّ
+  أَبِي يَدۡعُوكَ لِيَجۡزِيَكَ أَجۡرَ مَا سَقَيۡتَ لَنَاۚ فَلَمَّا جَآءَهُۥ وَقَصَّ
+  عَلَيۡهِ ٱلۡقَصَصَ قَالَ لَا تَخَفۡۖ نَجَوۡتَ مِنَ ٱلۡقَوۡمِ ٱلظَّٰلِمِينَ
 sentence_translation: Then one of the two women came to him, walking bashfully. She
   said, “My father is inviting you so he may reward you for watering ˹our animals˺
   for us.” When Moses came to him and told him his whole story, the old man said,
@@ -13,11 +12,11 @@ word_by_word:
     translation: Then came to him
     transliteration: fajāathu
   2:
-    arabic: اِحۡدٰٮہُمَا
+    arabic: إِحۡدَىٰهُمَا
     translation: one of the two women
     transliteration: iḥ'dāhumā
   3:
-    arabic: تَمۡشِىۡ
+    arabic: تَمۡشِي
     translation: walking
     transliteration: tamshī
   4:
@@ -25,7 +24,7 @@ word_by_word:
     translation: with
     transliteration: ʿalā
   5:
-    arabic: اسۡتِحۡيَآءٍ 
+    arabic: ٱسۡتِحۡيَآءٖ
     translation: shyness
     transliteration: is'tiḥ'yāin
   6:
@@ -33,15 +32,15 @@ word_by_word:
     translation: She said
     transliteration: qālat
   7:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   8:
-    arabic: اَبِىۡ
+    arabic: أَبِي
     translation: my father
     transliteration: abī
   9:
-    arabic: يَدۡعُوۡكَ
+    arabic: يَدۡعُوكَ
     translation: calls you
     transliteration: yadʿūka
   10:
@@ -49,7 +48,7 @@ word_by_word:
     translation: that he may reward you
     transliteration: liyajziyaka
   11:
-    arabic: اَجۡرَ
+    arabic: أَجۡرَ
     translation: (the) reward
     transliteration: ajra
   12:
@@ -61,7 +60,7 @@ word_by_word:
     translation: you watered
     transliteration: saqayta
   14:
-    arabic: لَـنَا​ ؕ
+    arabic: لَنَاۚ
     translation: for us
     transliteration: lanā
   15:
@@ -69,7 +68,7 @@ word_by_word:
     translation: So when
     transliteration: falammā
   16:
-    arabic: جَآءَهٗ
+    arabic: جَآءَهُۥ
     translation: he came to him
     transliteration: jāahu
   17:
@@ -81,7 +80,7 @@ word_by_word:
     translation: to him
     transliteration: ʿalayhi
   19:
-    arabic: الۡقَصَصَ ۙ
+    arabic: ٱلۡقَصَصَ
     translation: the story
     transliteration: l-qaṣaṣa
   20:
@@ -93,7 +92,7 @@ word_by_word:
     translation: (Do) not
     transliteration: lā
   22:
-    arabic: تَخَفۡ​
+    arabic: تَخَفۡۖ
     translation: fear
     transliteration: takhaf
   23:
@@ -105,11 +104,11 @@ word_by_word:
     translation: from
     transliteration: mina
   25:
-    arabic: الۡقَوۡمِ
+    arabic: ٱلۡقَوۡمِ
     translation: 'the people '
     transliteration: l-qawmi
   26:
-    arabic: "الظّٰلِمِيۡنَ‏ \uFEFF\uFEFF"
+    arabic: ٱلظَّٰلِمِينَ
     translation: the wrongdoers
     transliteration: l-ẓālimīna
 ---

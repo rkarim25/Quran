@@ -1,13 +1,13 @@
 ---
-arabic_ayat: يَسۡـــَٔلُوۡنَكَ عَنِ الۡاَنۡفَالِ​ ؕ قُلِ الۡاَنۡفَالُ لِلّٰهِ وَالرَّسُوۡلِ​
-  ۚ فَاتَّقُوا اللّٰهَ وَاَصۡلِحُوۡا ذَاتَ بَيۡنِكُمۡ​ وَاَطِيۡعُوا اللّٰهَ وَرَسُوۡلَهٗۤ
-  اِنۡ كُنۡتُمۡ مُّؤۡمِنِيۡنَ‏
+arabic_ayat: يَسۡـَٔلُونَكَ عَنِ ٱلۡأَنفَالِۖ قُلِ ٱلۡأَنفَالُ لِلَّهِ وَٱلرَّسُولِۖ
+  فَٱتَّقُواْ ٱللَّهَ وَأَصۡلِحُواْ ذَاتَ بَيۡنِكُمۡۖ وَأَطِيعُواْ ٱللَّهَ وَرَسُولَهُۥٓ
+  إِن كُنتُم مُّؤۡمِنِينَ
 sentence_translation: They ask you ˹O Prophet˺ regarding the spoils of war. Say, “Their
   distribution is decided by Allah and His Messenger. So be mindful of Allah, settle
   your affairs, and obey Allah and His Messenger if you are ˹true˺ believers.”
 word_by_word:
   1:
-    arabic: يَسۡـــَٔلُوۡنَكَ
+    arabic: يَسۡـَٔلُونَكَ
     translation: They ask you
     transliteration: yasalūnaka
   2:
@@ -15,7 +15,7 @@ word_by_word:
     translation: about
     transliteration: ʿani
   3:
-    arabic: الۡاَنۡفَالِ​ ؕ
+    arabic: ٱلۡأَنفَالِۖ
     translation: the spoils of war
     transliteration: l-anfāli
   4:
@@ -23,27 +23,27 @@ word_by_word:
     translation: Say
     transliteration: quli
   5:
-    arabic: الۡاَنۡفَالُ
+    arabic: ٱلۡأَنفَالُ
     translation: The spoils of war
     transliteration: l-anfālu
   6:
-    arabic: لِلّٰهِ
+    arabic: لِلَّهِ
     translation: (are) for Allah
     transliteration: lillahi
   7:
-    arabic: وَالرَّسُوۡلِ​ ۚ
+    arabic: وَٱلرَّسُولِۖ
     translation: and the Messenger
     transliteration: wal-rasūli
   8:
-    arabic: فَاتَّقُوا
+    arabic: فَٱتَّقُواْ
     translation: So fear
     transliteration: fa-ittaqū
   9:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   10:
-    arabic: وَاَصۡلِحُوۡا
+    arabic: وَأَصۡلِحُواْ
     translation: and set right
     transliteration: wa-aṣliḥū
   11:
@@ -51,31 +51,31 @@ word_by_word:
     translation: that
     transliteration: dhāta
   12:
-    arabic: بَيۡنِكُمۡ​
+    arabic: بَيۡنِكُمۡۖ
     translation: (which is) between you
     transliteration: baynikum
   13:
-    arabic: وَاَطِيۡعُوا
+    arabic: وَأَطِيعُواْ
     translation: and obey
     transliteration: wa-aṭīʿū
   14:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   15:
-    arabic: وَرَسُوۡلَهٗۤ
+    arabic: وَرَسُولَهُۥٓ
     translation: and His Messenger
     transliteration: warasūlahu
   16:
-    arabic: اِنۡ
+    arabic: إِن
     translation: if
     transliteration: in
   17:
-    arabic: كُنۡتُمۡ
+    arabic: كُنتُم
     translation: you are
     transliteration: kuntum
   18:
-    arabic: مُّؤۡمِنِيۡنَ‏
+    arabic: مُّؤۡمِنِينَ
     translation: believers
     transliteration: mu'minīna
 ---

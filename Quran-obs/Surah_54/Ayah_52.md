@@ -1,5 +1,5 @@
 ---
-arabic_ayat: وَكُلُّ شَىۡءٍ فَعَلُوۡهُ فِى الزُّبُرِ‏
+arabic_ayat: وَكُلُّ شَيۡءٖ فَعَلُوهُ فِي ٱلزُّبُرِ
 sentence_translation: Everything they have done is ˹listed˺ in ˹their˺ records.
 word_by_word:
   1:
@@ -7,19 +7,19 @@ word_by_word:
     translation: And every
     transliteration: wakullu
   2:
-    arabic: شَىۡءٍ
+    arabic: شَيۡءٖ
     translation: thing
     transliteration: shayin
   3:
-    arabic: فَعَلُوۡهُ
+    arabic: فَعَلُوهُ
     translation: they did
     transliteration: faʿalūhu
   4:
-    arabic: فِى
+    arabic: فِي
     translation: (is) in
     transliteration: fī
   5:
-    arabic: الزُّبُرِ‏
+    arabic: ٱلزُّبُرِ
     translation: the written records
     transliteration: l-zuburi
 ---

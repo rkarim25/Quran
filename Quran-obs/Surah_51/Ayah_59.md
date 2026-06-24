@@ -1,23 +1,23 @@
 ---
-arabic_ayat: فَاِنَّ لِلَّذِيۡنَ ظَلَمُوۡا ذَنُوۡبًا مِّثۡلَ ذَنُوۡبِ اَصۡحٰبِهِمۡ
-  فَلَا يَسۡتَعۡجِلُوۡنِ‏
+arabic_ayat: فَإِنَّ لِلَّذِينَ ظَلَمُواْ ذَنُوبٗا مِّثۡلَ ذَنُوبِ أَصۡحَٰبِهِمۡ فَلَا
+  يَسۡتَعۡجِلُونِ
 sentence_translation: The wrongdoers will certainly have a share ˹of the torment˺
   like that of their predecessors. So do not let them ask Me to hasten ˹it˺.
 word_by_word:
   1:
-    arabic: فَاِنَّ
+    arabic: فَإِنَّ
     translation: So indeed
     transliteration: fa-inna
   2:
-    arabic: لِلَّذِيۡنَ
+    arabic: لِلَّذِينَ
     translation: for those who
     transliteration: lilladhīna
   3:
-    arabic: ظَلَمُوۡا
+    arabic: ظَلَمُواْ
     translation: do wrong
     transliteration: ẓalamū
   4:
-    arabic: ذَنُوۡبًا
+    arabic: ذَنُوبٗا
     translation: (is) a portion
     transliteration: dhanūban
   5:
@@ -25,11 +25,11 @@ word_by_word:
     translation: like
     transliteration: mith'la
   6:
-    arabic: ذَنُوۡبِ
+    arabic: ذَنُوبِ
     translation: (the) portion
     transliteration: dhanūbi
   7:
-    arabic: اَصۡحٰبِهِمۡ
+    arabic: أَصۡحَٰبِهِمۡ
     translation: (of) their companions
     transliteration: aṣḥābihim
   8:
@@ -37,7 +37,7 @@ word_by_word:
     translation: so let them not ask Me to hasten
     transliteration: falā
   9:
-    arabic: يَسۡتَعۡجِلُوۡنِ‏
+    arabic: يَسۡتَعۡجِلُونِ
     translation: so let them not ask Me to hasten
     transliteration: yastaʿjilūni
 ---

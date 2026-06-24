@@ -1,17 +1,17 @@
 ---
-arabic_ayat: يَّوۡمَ يَقُوۡمُ النَّاسُ لِرَبِّ الۡعٰلَمِيۡنَؕ‏
+arabic_ayat: يَوۡمَ يَقُومُ ٱلنَّاسُ لِرَبِّ ٱلۡعَٰلَمِينَ
 sentence_translation: the Day ˹all˺ people will stand before the Lord of all worlds?
 word_by_word:
   1:
-    arabic: يَّوۡمَ
+    arabic: يَوۡمَ
     translation: (The) Day
     transliteration: yawma
   2:
-    arabic: يَقُوۡمُ
+    arabic: يَقُومُ
     translation: will stand
     transliteration: yaqūmu
   3:
-    arabic: النَّاسُ
+    arabic: ٱلنَّاسُ
     translation: mankind
     transliteration: l-nāsu
   4:
@@ -19,7 +19,7 @@ word_by_word:
     translation: before (the) Lord
     transliteration: lirabbi
   5:
-    arabic: الۡعٰلَمِيۡنَؕ‏
+    arabic: ٱلۡعَٰلَمِينَ
     translation: (of) the worlds
     transliteration: l-ʿālamīna
 ---

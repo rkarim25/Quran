@@ -1,57 +1,57 @@
 ---
-arabic_ayat: اِنَّ الَّذِيۡنَ اٰمَنُوۡا وَالَّذِيۡنَ هَادُوۡا وَالنَّصٰرٰى وَالصّٰبِـِٕـيۡنَ
-  مَنۡ اٰمَنَ بِاللّٰهِ وَالۡيَوۡمِ الۡاٰخِرِ وَعَمِلَ صَالِحًـا فَلَهُمۡ اَجۡرُهُمۡ
-  عِنۡدَ رَبِّهِمۡۚ وَلَا خَوۡفٌ عَلَيۡهِمۡ وَلَا هُمۡ يَحۡزَنُوۡنَ‏
+arabic_ayat: إِنَّ ٱلَّذِينَ ءَامَنُواْ وَٱلَّذِينَ هَادُواْ وَٱلنَّصَٰرَىٰ وَٱلصَّٰبِـِٔينَ
+  مَنۡ ءَامَنَ بِٱللَّهِ وَٱلۡيَوۡمِ ٱلۡأٓخِرِ وَعَمِلَ صَٰلِحٗا فَلَهُمۡ أَجۡرُهُمۡ
+  عِندَ رَبِّهِمۡ وَلَا خَوۡفٌ عَلَيۡهِمۡ وَلَا هُمۡ يَحۡزَنُونَ
 sentence_translation: Indeed, the believers, Jews, Christians, and Sabians—whoever
   ˹truly˺ believes in Allah and the Last Day and does good will have their reward
   with their Lord. And there will be no fear for them, nor will they grieve. 
 word_by_word:
   1:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ ءَ
     translation: those who
     transliteration: alladhīna
   3:
-    arabic: اٰمَنُوۡا
+    arabic: امَنُواْ
     translation: believed
     transliteration: āmanū
   4:
-    arabic: وَالَّذِيۡنَ
+    arabic: وَٱلَّذِينَ
     translation: and those who
     transliteration: wa-alladhīna
   5:
-    arabic: هَادُوۡا
+    arabic: هَادُواْ
     translation: became Jews
     transliteration: hādū
   6:
-    arabic: وَالنَّصٰرٰى
+    arabic: وَٱلنَّصَٰرَىٰ
     translation: and the Christians
     transliteration: wal-naṣārā
   7:
-    arabic: وَالصّٰبِـِٕـيۡنَ
+    arabic: وَٱلصَّٰبِـِٔينَ
     translation: 'and the Sabians '
     transliteration: wal-ṣābiīna
   8:
-    arabic: مَنۡ
+    arabic: مَنۡ ءَ
     translation: who
     transliteration: man
   9:
-    arabic: اٰمَنَ
+    arabic: امَنَ
     translation: believed
     transliteration: āmana
   10:
-    arabic: بِاللّٰهِ
+    arabic: بِٱللَّهِ
     translation: in Allah
     transliteration: bil-lahi
   11:
-    arabic: وَالۡيَوۡمِ
+    arabic: وَٱلۡيَوۡمِ
     translation: and the Day
     transliteration: wal-yawmi
   12:
-    arabic: الۡاٰخِرِ
+    arabic: ٱلۡأٓخِرِ
     translation: '[the] Last'
     transliteration: l-ākhiri
   13:
@@ -59,7 +59,7 @@ word_by_word:
     translation: and did
     transliteration: waʿamila
   14:
-    arabic: صَالِحًـا
+    arabic: صَٰلِحٗا
     translation: righteous deeds
     transliteration: ṣāliḥan
   15:
@@ -67,15 +67,15 @@ word_by_word:
     translation: so for them
     transliteration: falahum
   16:
-    arabic: اَجۡرُهُمۡ
+    arabic: أَجۡرُهُمۡ
     translation: their reward
     transliteration: ajruhum
   17:
-    arabic: عِنۡدَ
+    arabic: عِندَ
     translation: (is) with
     transliteration: ʿinda
   18:
-    arabic: رَبِّهِمۡۚ
+    arabic: رَبِّهِمۡ
     translation: their Lord
     transliteration: rabbihim
   19:
@@ -99,7 +99,7 @@ word_by_word:
     translation: they
     transliteration: hum
   24:
-    arabic: يَحۡزَنُوۡنَ‏
+    arabic: يَحۡزَنُونَ
     translation: will grieve
     transliteration: yaḥzanūna
 ---

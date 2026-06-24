@@ -1,19 +1,18 @@
 ---
-arabic_ayat: "وَيٰقَوۡمِ مَنۡ يَّـنۡصُرُنِىۡ مِنَ اللّٰهِ اِنۡ طَرَدتُّهُمۡ​ؕ اَفَلَا\
-  \ تَذَكَّرُوۡنَ‏ \uFEFF\uFEFF"
+arabic_ayat: وَيَٰقَوۡمِ مَن يَنصُرُنِي مِنَ ٱللَّهِ إِن طَرَدتُّهُمۡۚ أَفَلَا تَذَكَّرُونَ
 sentence_translation: O  my people! Who would protect me from Allah if I were to dismiss
   them? Will you not then be mindful?
 word_by_word:
   1:
-    arabic: وَيٰقَوۡمِ
+    arabic: وَيَٰقَوۡمِ
     translation: And O my people
     transliteration: wayāqawmi
   2:
-    arabic: مَنۡ
+    arabic: مَن
     translation: Who
     transliteration: man
   3:
-    arabic: يَّـنۡصُرُنِىۡ
+    arabic: يَنصُرُنِي
     translation: would help me
     transliteration: yanṣurunī
   4:
@@ -21,23 +20,23 @@ word_by_word:
     translation: against
     transliteration: mina
   5:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   6:
-    arabic: اِنۡ
+    arabic: إِن
     translation: if
     transliteration: in
   7:
-    arabic: طَرَدتُّهُمۡ​ؕ
+    arabic: طَرَدتُّهُمۡۚ
     translation: I drove them away
     transliteration: ṭaradttuhum
   8:
-    arabic: اَفَلَا
+    arabic: أَفَلَا
     translation: Then, will not
     transliteration: afalā
   9:
-    arabic: "تَذَكَّرُوۡنَ‏ \uFEFF\uFEFF"
+    arabic: تَذَكَّرُونَ
     translation: you take heed
     transliteration: tadhakkarūna
 ---

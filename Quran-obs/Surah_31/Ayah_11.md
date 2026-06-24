@@ -1,11 +1,11 @@
 ---
-arabic_ayat: هٰذَا خَلۡقُ اللّٰهِ فَاَرُوۡنِىۡ مَاذَا خَلَقَ الَّذِيۡنَ مِنۡ دُوۡنِهٖ​ؕ
-  بَلِ الظّٰلِمُوۡنَ فِىۡ ضَلٰلٍ مُّبِيۡنٍ‏
+arabic_ayat: هَٰذَا خَلۡقُ ٱللَّهِ فَأَرُونِي مَاذَا خَلَقَ ٱلَّذِينَ مِن دُونِهِۦۚ
+  بَلِ ٱلظَّٰلِمُونَ فِي ضَلَٰلٖ مُّبِينٖ
 sentence_translation: This is Allah’s creation. Now show Me what those ˹gods˺ other
   than Him have created. In fact, the wrongdoers are clearly astray.
 word_by_word:
   1:
-    arabic: هٰذَا
+    arabic: هَٰذَا
     translation: This
     transliteration: hādhā
   2:
@@ -13,11 +13,11 @@ word_by_word:
     translation: (is the) creation
     transliteration: khalqu
   3:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (of) Allah
     transliteration: l-lahi
   4:
-    arabic: فَاَرُوۡنِىۡ
+    arabic: فَأَرُونِي
     translation: So show Me
     transliteration: fa-arūnī
   5:
@@ -29,15 +29,15 @@ word_by_word:
     translation: have created
     transliteration: khalaqa
   7:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those
     transliteration: alladhīna
   8:
-    arabic: مِنۡ
+    arabic: مِن
     translation: besides Him
     transliteration: min
   9:
-    arabic: دُوۡنِهٖ​ؕ
+    arabic: دُونِهِۦۚ
     translation: besides Him
     transliteration: dūnihi
   10:
@@ -45,19 +45,19 @@ word_by_word:
     translation: Nay
     transliteration: bali
   11:
-    arabic: الظّٰلِمُوۡنَ
+    arabic: ٱلظَّٰلِمُونَ
     translation: the wrongdoers
     transliteration: l-ẓālimūna
   12:
-    arabic: فِىۡ
+    arabic: فِي
     translation: (are) in
     transliteration: fī
   13:
-    arabic: ضَلٰلٍ
+    arabic: ضَلَٰلٖ
     translation: error
     transliteration: ḍalālin
   14:
-    arabic: مُّبِيۡنٍ‏
+    arabic: مُّبِينٖ
     translation: clear
     transliteration: mubīnin
 ---

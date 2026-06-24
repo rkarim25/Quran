@@ -1,15 +1,15 @@
 ---
-arabic_ayat: قَالُوۡا بَلٰى قَدۡ جَآءَنَا نَذِيۡرٌ  ۙ فَكَذَّبۡنَا وَقُلۡنَا مَا
-  نَزَّلَ اللّٰهُ مِنۡ شَىۡءٍ ۖۚ اِنۡ اَنۡتُمۡ اِلَّا فِىۡ ضَلٰلٍ كَبِيۡرٍ‏
+arabic_ayat: قَالُواْ بَلَىٰ قَدۡ جَآءَنَا نَذِيرٞ فَكَذَّبۡنَا وَقُلۡنَا مَا نَزَّلَ
+  ٱللَّهُ مِن شَيۡءٍ إِنۡ أَنتُمۡ إِلَّا فِي ضَلَٰلٖ كَبِيرٖ
 sentence_translation: They will reply, “Yes, a warner did come to us, but we denied
   and said, ‘Allah has revealed nothing. You are extremely astray.’”
 word_by_word:
   1:
-    arabic: قَالُوۡا
+    arabic: قَالُواْ
     translation: They will say
     transliteration: qālū
   2:
-    arabic: بَلٰى
+    arabic: بَلَىٰ
     translation: 'Yes'
     transliteration: balā
   3:
@@ -21,7 +21,7 @@ word_by_word:
     translation: came to us
     transliteration: jāanā
   5:
-    arabic: نَذِيۡرٌ  ۙ
+    arabic: نَذِيرٞ
     translation: a warner
     transliteration: nadhīrun
   6:
@@ -41,39 +41,39 @@ word_by_word:
     translation: has sent down
     transliteration: nazzala
   10:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   11:
-    arabic: مِنۡ
+    arabic: مِن
     translation: any
     transliteration: min
   12:
-    arabic: شَىۡءٍ ۖۚ
+    arabic: شَيۡءٍ
     translation: thing
     transliteration: shayin
   13:
-    arabic: اِنۡ
+    arabic: إِنۡ
     translation: Not
     transliteration: in
   14:
-    arabic: اَنۡتُمۡ
+    arabic: أَنتُمۡ
     translation: you (are)
     transliteration: antum
   15:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: but
     transliteration: illā
   16:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   17:
-    arabic: ضَلٰلٍ
+    arabic: ضَلَٰلٖ
     translation: error
     transliteration: ḍalālin
   18:
-    arabic: كَبِيۡرٍ‏
+    arabic: كَبِيرٖ
     translation: great
     transliteration: kabīrin
 ---

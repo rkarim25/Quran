@@ -1,21 +1,21 @@
 ---
-arabic_ayat: فَذٰلِكَ يَوۡمَٮِٕذٍ يَّوۡمٌ عَسِيۡرٌۙ‏
+arabic_ayat: فَذَٰلِكَ يَوۡمَئِذٖ يَوۡمٌ عَسِيرٌ
 sentence_translation: that will ˹truly˺ be a difficult Day—
 word_by_word:
   1:
-    arabic: فَذٰلِكَ
+    arabic: فَذَٰلِكَ
     translation: That
     transliteration: fadhālika
   2:
-    arabic: يَوۡمَٮِٕذٍ
+    arabic: يَوۡمَئِذٖ
     translation: Day
     transliteration: yawma-idhin
   3:
-    arabic: يَّوۡمٌ
+    arabic: يَوۡمٌ
     translation: (will be) a Day
     transliteration: yawmun
   4:
-    arabic: عَسِيۡرٌۙ‏
+    arabic: عَسِيرٌ
     translation: difficult
     transliteration: ʿasīrun
 ---

@@ -1,14 +1,14 @@
 ---
-arabic_ayat: اِنْطَلِقُوۡۤا اِلٰى مَا كُنۡتُمۡ بِهٖ تُكَذِّبُوۡنَ​ۚ‏
+arabic_ayat: ٱنطَلِقُوٓاْ إِلَىٰ مَا كُنتُم بِهِۦ تُكَذِّبُونَ
 sentence_translation: ˹The disbelievers will be told,˺ “Proceed into that ˹Fire˺ which
   you used to deny!
 word_by_word:
   1:
-    arabic: اِنْطَلِقُوۡۤا
+    arabic: ٱنطَلِقُوٓاْ
     translation: Proceed
     transliteration: inṭaliqū
   2:
-    arabic: اِلٰى
+    arabic: إِلَىٰ
     translation: to
     transliteration: ilā
   3:
@@ -16,15 +16,15 @@ word_by_word:
     translation: what
     transliteration: mā
   4:
-    arabic: كُنۡتُمۡ
+    arabic: كُنتُم
     translation: you used to
     transliteration: kuntum
   5:
-    arabic: بِهٖ
+    arabic: بِهِۦ
     translation: in it
     transliteration: bihi
   6:
-    arabic: تُكَذِّبُوۡنَ​ۚ‏
+    arabic: تُكَذِّبُونَ
     translation: deny
     transliteration: tukadhibūna
 ---

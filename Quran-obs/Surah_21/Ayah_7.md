@@ -1,16 +1,16 @@
 ---
-arabic_ayat: وَمَاۤ اَرۡسَلۡنَا قَبۡلَكَ اِلَّا رِجَالًا نُّوۡحِىۡۤ اِلَيۡهِمۡ​ فَسۡـــَٔلُوۡۤا
-  اَهۡلَ الذِّكۡرِ اِنۡ كُنۡتُمۡ لَا تَعۡلَمُوۡنَ‏
+arabic_ayat: وَمَآ أَرۡسَلۡنَا قَبۡلَكَ إِلَّا رِجَالٗا نُّوحِيٓ إِلَيۡهِمۡۖ فَسۡـَٔلُوٓاْ
+  أَهۡلَ ٱلذِّكۡرِ إِن كُنتُمۡ لَا تَعۡلَمُونَ
 sentence_translation: We did not send ˹messengers˺ before you ˹O Prophet˺ except mere
   men inspired by Us. If you ˹polytheists˺ do not know ˹this already˺, then ask those
   who have knowledge ˹of the Scriptures˺.
 word_by_word:
   1:
-    arabic: وَمَاۤ
+    arabic: وَمَآ
     translation: And not
     transliteration: wamā
   2:
-    arabic: اَرۡسَلۡنَا
+    arabic: أَرۡسَلۡنَا
     translation: We sent
     transliteration: arsalnā
   3:
@@ -18,39 +18,39 @@ word_by_word:
     translation: before you
     transliteration: qablaka
   4:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   5:
-    arabic: رِجَالًا
+    arabic: رِجَالٗا
     translation: men
     transliteration: rijālan
   6:
-    arabic: نُّوۡحِىۡۤ
+    arabic: نُّوحِيٓ
     translation: We revealed
     transliteration: nūḥī
   7:
-    arabic: اِلَيۡهِمۡ
+    arabic: إِلَيۡهِمۡۖ
     translation: to them
     transliteration: ilayhim
   8:
-    arabic: فَسۡـــَٔلُوۡۤا
+    arabic: فَسۡـَٔلُوٓاْ
     translation: So ask
     transliteration: fasalū
   9:
-    arabic: اَهۡلَ
+    arabic: أَهۡلَ
     translation: (the) people
     transliteration: ahla
   10:
-    arabic: الذِّكۡرِ
+    arabic: ٱلذِّكۡرِ
     translation: (of) the Reminder
     transliteration: l-dhik'ri
   11:
-    arabic: اِنۡ
+    arabic: إِن
     translation: if
     transliteration: in
   12:
-    arabic: كُنۡتُمۡ
+    arabic: كُنتُمۡ
     translation: you
     transliteration: kuntum
   13:
@@ -58,7 +58,7 @@ word_by_word:
     translation: (do) not
     transliteration: lā
   14:
-    arabic: تَعۡلَمُوۡنَ‏
+    arabic: تَعۡلَمُونَ
     translation: know
     transliteration: taʿlamūna
 ---

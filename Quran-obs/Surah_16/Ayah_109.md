@@ -1,5 +1,5 @@
 ---
-arabic_ayat: لَا جَرَمَ اَنَّهُمۡ فِى الۡاٰخِرَةِ هُمُ الۡخٰسِرُوۡنَ‏
+arabic_ayat: لَا جَرَمَ أَنَّهُمۡ فِي ٱلۡأٓخِرَةِ هُمُ ٱلۡخَٰسِرُونَ
 sentence_translation: Without a doubt, they will be the losers in the Hereafter.
 word_by_word:
   1:
@@ -11,15 +11,15 @@ word_by_word:
     translation: doubt
     transliteration: jarama
   3:
-    arabic: اَنَّهُمۡ
+    arabic: أَنَّهُمۡ
     translation: that they
     transliteration: annahum
   4:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   5:
-    arabic: الۡاٰخِرَةِ
+    arabic: ٱلۡأٓخِرَةِ
     translation: the Hereafter
     transliteration: l-ākhirati
   6:
@@ -27,7 +27,7 @@ word_by_word:
     translation: '[they]'
     transliteration: humu
   7:
-    arabic: الۡخٰسِرُوۡنَ‏
+    arabic: ٱلۡخَٰسِرُونَ
     translation: (are) the losers
     transliteration: l-khāsirūna
 ---

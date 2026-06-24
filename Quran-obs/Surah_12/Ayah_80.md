@@ -1,9 +1,8 @@
 ---
-arabic_ayat: "فَلَمَّا اسۡتَايۡــَٔسُوۡا مِنۡهُ خَلَصُوۡا نَجِيًّا​ ؕ قَالَ كَبِيۡرُهُمۡ\
-  \ اَلَمۡ تَعۡلَمُوۡۤا اَنَّ اَبَاكُمۡ قَدۡ اَخَذَ عَلَيۡكُمۡ مَّوۡثِقًا مِّنَ اللّٰهِ\
-  \ وَمِنۡ قَبۡلُ مَا فَرَّطْتُّمۡ فِىۡ يُوۡسُفَ​ ۚ فَلَنۡ اَبۡرَحَ الۡاَرۡضَ حَتّٰى\
-  \ يَاۡذَنَ لِىۡۤ اَبِىۡۤ اَوۡ يَحۡكُمَ اللّٰهُ لِىۡ​ ۚ وَهُوَ خَيۡرُ الۡحٰكِمِيۡنَ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: فَلَمَّا ٱسۡتَيۡـَٔسُواْ مِنۡهُ خَلَصُواْ نَجِيّٗاۖ قَالَ كَبِيرُهُمۡ
+  أَلَمۡ تَعۡلَمُوٓاْ أَنَّ أَبَاكُمۡ قَدۡ أَخَذَ عَلَيۡكُم مَّوۡثِقٗا مِّنَ ٱللَّهِ
+  وَمِن قَبۡلُ مَا فَرَّطتُمۡ فِي يُوسُفَۖ فَلَنۡ أَبۡرَحَ ٱلۡأَرۡضَ حَتَّىٰ يَأۡذَنَ
+  لِيٓ أَبِيٓ أَوۡ يَحۡكُمَ ٱللَّهُ لِيۖ وَهُوَ خَيۡرُ ٱلۡحَٰكِمِينَ
 sentence_translation: When they lost all hope in him, they spoke privately. The eldest
   of them said, “Do you not know that your father had taken a solemn oath by Allah
   from you, nor how you failed him regarding Joseph before? So I am not leaving this
@@ -15,7 +14,7 @@ word_by_word:
     translation: So when
     transliteration: falammā
   2:
-    arabic: اسۡتَايۡــَٔسُوۡا
+    arabic: ٱسۡتَيۡـَٔسُواْ
     translation: they despaired
     transliteration: is'tayasū
   3:
@@ -23,11 +22,11 @@ word_by_word:
     translation: of him
     transliteration: min'hu
   4:
-    arabic: خَلَصُوۡا
+    arabic: خَلَصُواْ
     translation: they secluded themselves
     transliteration: khalaṣū
   5:
-    arabic: نَجِيًّا​ ؕ
+    arabic: نَجِيّٗاۖ
     translation: (in) private consultation
     transliteration: najiyyan
   6:
@@ -35,23 +34,23 @@ word_by_word:
     translation: Said
     transliteration: qāla
   7:
-    arabic: كَبِيۡرُهُمۡ
+    arabic: كَبِيرُهُمۡ
     translation: the eldest among them
     transliteration: kabīruhum
   8:
-    arabic: اَلَمۡ
+    arabic: أَلَمۡ
     translation: Do not
     transliteration: alam
   9:
-    arabic: تَعۡلَمُوۡۤا
+    arabic: تَعۡلَمُوٓاْ
     translation: you know
     transliteration: taʿlamū
   10:
-    arabic: اَنَّ
+    arabic: أَنَّ
     translation: that
     transliteration: anna
   11:
-    arabic: اَبَاكُمۡ
+    arabic: أَبَاكُمۡ
     translation: your father
     transliteration: abākum
   12:
@@ -59,15 +58,15 @@ word_by_word:
     translation: has taken
     transliteration: qad
   13:
-    arabic: اَخَذَ
+    arabic: أَخَذَ
     translation: has taken
     transliteration: akhadha
   14:
-    arabic: عَلَيۡكُمۡ
+    arabic: عَلَيۡكُم
     translation: upon you
     transliteration: ʿalaykum
   15:
-    arabic: مَّوۡثِقًا
+    arabic: مَّوۡثِقٗا
     translation: a promise
     transliteration: mawthiqan
   16:
@@ -75,11 +74,11 @@ word_by_word:
     translation: by
     transliteration: mina
   17:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   18:
-    arabic: وَمِنۡ
+    arabic: وَمِن
     translation: and before
     transliteration: wamin
   19:
@@ -91,15 +90,15 @@ word_by_word:
     translation: that
     transliteration: mā
   21:
-    arabic: فَرَّطْتُّمۡ
+    arabic: فَرَّطتُمۡ
     translation: you failed
     transliteration: farraṭtum
   22:
-    arabic: فِىۡ
+    arabic: فِي
     translation: concerning
     transliteration: fī
   23:
-    arabic: يُوۡسُفَ​ ۚ
+    arabic: يُوسُفَۖ
     translation: Yusuf
     transliteration: yūsufa
   24:
@@ -107,31 +106,31 @@ word_by_word:
     translation: So never
     transliteration: falan
   25:
-    arabic: اَبۡرَحَ
+    arabic: أَبۡرَحَ
     translation: will I leave
     transliteration: abraḥa
   26:
-    arabic: الۡاَرۡضَ
+    arabic: ٱلۡأَرۡضَ
     translation: the land
     transliteration: l-arḍa
   27:
-    arabic: حَتّٰى
+    arabic: حَتَّىٰ
     translation: until
     transliteration: ḥattā
   28:
-    arabic: يَاۡذَنَ
+    arabic: يَأۡذَنَ
     translation: permits
     transliteration: yadhana
   29:
-    arabic: لِىۡۤ
+    arabic: لِيٓ
     translation: me
     transliteration: lī
   30:
-    arabic: اَبِىۡۤ
+    arabic: أَبِيٓ
     translation: my father
     transliteration: abī
   31:
-    arabic: اَوۡ
+    arabic: أَوۡ
     translation: or
     transliteration: aw
   32:
@@ -139,11 +138,11 @@ word_by_word:
     translation: Allah decides
     transliteration: yaḥkuma
   33:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah decides
     transliteration: l-lahu
   34:
-    arabic: لِىۡ​ ۚ
+    arabic: لِيۖ
     translation: for me
     transliteration: lī
   35:
@@ -155,7 +154,7 @@ word_by_word:
     translation: (is) the Best
     transliteration: khayru
   37:
-    arabic: "الۡحٰكِمِيۡنَ‏ \uFEFF\uFEFF"
+    arabic: ٱلۡحَٰكِمِينَ
     translation: (of) the judges
     transliteration: l-ḥākimīna
 ---

@@ -1,5 +1,5 @@
 ---
-arabic_ayat: قَالَ اَلَمۡ اَقُلۡ اِنَّكَ لَنۡ تَسۡتَطِيۡعَ مَعِىَ صَبۡرًا‏
+arabic_ayat: قَالَ أَلَمۡ أَقُلۡ إِنَّكَ لَن تَسۡتَطِيعَ مَعِيَ صَبۡرٗا
 sentence_translation: He replied, “Did I not say that you cannot have patience with
   me?”
 word_by_word:
@@ -8,31 +8,31 @@ word_by_word:
     translation: He said
     transliteration: qāla
   2:
-    arabic: اَلَمۡ
+    arabic: أَلَمۡ
     translation: Did not
     transliteration: alam
   3:
-    arabic: اَقُلۡ
+    arabic: أَقُلۡ
     translation: I say
     transliteration: aqul
   4:
-    arabic: اِنَّكَ
+    arabic: إِنَّكَ
     translation: indeed, you
     transliteration: innaka
   5:
-    arabic: لَنۡ
+    arabic: لَن
     translation: never
     transliteration: lan
   6:
-    arabic: تَسۡتَطِيۡعَ
+    arabic: تَسۡتَطِيعَ
     translation: will be able
     transliteration: tastaṭīʿa
   7:
-    arabic: مَعِىَ
+    arabic: مَعِيَ
     translation: with me
     transliteration: maʿiya
   8:
-    arabic: صَبۡرًا‏
+    arabic: صَبۡرٗا
     translation: (to have) patience
     transliteration: ṣabran
 ---

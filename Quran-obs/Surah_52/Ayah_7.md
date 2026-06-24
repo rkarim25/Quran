@@ -1,9 +1,9 @@
 ---
-arabic_ayat: اِنَّ عَذَابَ رَبِّكَ لوَاقِعٌ ۙ‏
+arabic_ayat: إِنَّ عَذَابَ رَبِّكَ لَوَٰقِعٞ
 sentence_translation: Indeed, the punishment of your Lord will come to pass—
 word_by_word:
   1:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   2:
@@ -15,7 +15,7 @@ word_by_word:
     translation: (of) your Lord
     transliteration: rabbika
   4:
-    arabic: لوَاقِعٌ ۙ‏
+    arabic: لَوَٰقِعٞ
     translation: (will) surely occur
     transliteration: lawāqiʿun
 ---

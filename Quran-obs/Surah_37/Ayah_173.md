@@ -1,13 +1,13 @@
 ---
-arabic_ayat: وَاِنَّ جُنۡدَنَا لَهُمُ الۡغٰلِبُوۡنَ‏
+arabic_ayat: وَإِنَّ جُندَنَا لَهُمُ ٱلۡغَٰلِبُونَ
 sentence_translation: and that Our forces will certainly prevail.
 word_by_word:
   1:
-    arabic: وَاِنَّ
+    arabic: وَإِنَّ
     translation: And indeed
     transliteration: wa-inna
   2:
-    arabic: جُنۡدَنَا
+    arabic: جُندَنَا
     translation: Our host
     transliteration: jundanā
   3:
@@ -15,7 +15,7 @@ word_by_word:
     translation: surely, they
     transliteration: lahumu
   4:
-    arabic: الۡغٰلِبُوۡنَ‏
+    arabic: ٱلۡغَٰلِبُونَ
     translation: (will be) those who overcome
     transliteration: l-ghālibūna
 ---

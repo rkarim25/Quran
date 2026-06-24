@@ -1,5 +1,5 @@
 ---
-arabic_ayat: وَلَا تَحۡزَنۡ عَلَيۡهِمۡ وَلَا تَكُنۡ فِىۡ ضَيۡقٍ مِّمَّا يَمۡكُرُوۡنَ‏
+arabic_ayat: وَلَا تَحۡزَنۡ عَلَيۡهِمۡ وَلَا تَكُن فِي ضَيۡقٖ مِّمَّا يَمۡكُرُونَ
 sentence_translation: Do not grieve for them, nor be distressed by their schemes.
 word_by_word:
   1:
@@ -19,15 +19,15 @@ word_by_word:
     translation: and not
     transliteration: walā
   5:
-    arabic: تَكُنۡ
+    arabic: تَكُن
     translation: be
     transliteration: takun
   6:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   7:
-    arabic: ضَيۡقٍ
+    arabic: ضَيۡقٖ
     translation: distress
     transliteration: ḍayqin
   8:
@@ -35,7 +35,7 @@ word_by_word:
     translation: from what
     transliteration: mimmā
   9:
-    arabic: يَمۡكُرُوۡنَ‏
+    arabic: يَمۡكُرُونَ
     translation: they plot
     transliteration: yamkurūna
 ---

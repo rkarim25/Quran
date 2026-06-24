@@ -1,6 +1,6 @@
 ---
-arabic_ayat: هُوَ الَّذِىۡ يُصَلِّىۡ عَلَيۡكُمۡ وَمَلٰٓٮِٕكَتُهٗ لِيُخۡرِجَكُمۡ مِّنَ
-  الظُّلُمٰتِ اِلَى النُّوۡرِ ؕ وَكَانَ بِالۡمُؤۡمِنِيۡنَ رَحِيۡمًا‏
+arabic_ayat: هُوَ ٱلَّذِي يُصَلِّي عَلَيۡكُمۡ وَمَلَٰٓئِكَتُهُۥ لِيُخۡرِجَكُم مِّنَ
+  ٱلظُّلُمَٰتِ إِلَى ٱلنُّورِۚ وَكَانَ بِٱلۡمُؤۡمِنِينَ رَحِيمٗا
 sentence_translation: He is the One Who showers His blessings upon you—and His angels
   pray for you—so that He may bring you out of darkness and into light. For He is
   ever Merciful to the believers.
@@ -10,11 +10,11 @@ word_by_word:
     translation: He
     transliteration: huwa
   2:
-    arabic: الَّذِىۡ
+    arabic: ٱلَّذِي
     translation: (is) the One Who
     transliteration: alladhī
   3:
-    arabic: يُصَلِّىۡ
+    arabic: يُصَلِّي
     translation: sends His blessings
     transliteration: yuṣallī
   4:
@@ -22,11 +22,11 @@ word_by_word:
     translation: upon you
     transliteration: ʿalaykum
   5:
-    arabic: وَمَلٰٓٮِٕكَتُهٗ
+    arabic: وَمَلَٰٓئِكَتُهُۥ
     translation: and His Angels
     transliteration: wamalāikatuhu
   6:
-    arabic: لِيُخۡرِجَكُمۡ
+    arabic: لِيُخۡرِجَكُم
     translation: so that He may bring you out
     transliteration: liyukh'rijakum
   7:
@@ -34,15 +34,15 @@ word_by_word:
     translation: from
     transliteration: mina
   8:
-    arabic: الظُّلُمٰتِ
+    arabic: ٱلظُّلُمَٰتِ
     translation: the darkness[es]
     transliteration: l-ẓulumāti
   9:
-    arabic: اِلَى
+    arabic: إِلَى
     translation: to
     transliteration: ilā
   10:
-    arabic: النُّوۡرِ ؕ
+    arabic: ٱلنُّورِۚ
     translation: the light
     transliteration: l-nūri
   11:
@@ -50,11 +50,11 @@ word_by_word:
     translation: And He is
     transliteration: wakāna
   12:
-    arabic: بِالۡمُؤۡمِنِيۡنَ
+    arabic: بِٱلۡمُؤۡمِنِينَ
     translation: to the believers
     transliteration: bil-mu'minīna
   13:
-    arabic: رَحِيۡمًا‏
+    arabic: رَحِيمٗا
     translation: Merciful
     transliteration: raḥīman
 ---

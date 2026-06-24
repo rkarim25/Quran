@@ -1,27 +1,26 @@
 ---
-arabic_ayat: "قَالُوۡا تَاللّٰهِ لَقَدۡ اٰثَرَكَ اللّٰهُ عَلَيۡنَا وَاِنۡ كُنَّا لَخٰـطِــِٕيۡنَ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: قَالُواْ تَٱللَّهِ لَقَدۡ ءَاثَرَكَ ٱللَّهُ عَلَيۡنَا وَإِن كُنَّا لَخَٰطِـِٔينَ
 sentence_translation: They admitted, “By Allah! Allah has truly preferred you over
   us, and we have surely been sinful.”
 word_by_word:
   1:
-    arabic: قَالُوۡا
+    arabic: قَالُواْ
     translation: They said
     transliteration: qālū
   2:
-    arabic: تَاللّٰهِ
+    arabic: تَٱللَّهِ
     translation: By Allah
     transliteration: tal-lahi
   3:
-    arabic: لَقَدۡ
+    arabic: لَقَدۡ ءَ
     translation: certainly
     transliteration: laqad
   4:
-    arabic: اٰثَرَكَ
+    arabic: اثَرَكَ
     translation: Allah has preferred you
     transliteration: ātharaka
   5:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah has preferred you
     transliteration: l-lahu
   6:
@@ -29,7 +28,7 @@ word_by_word:
     translation: over us
     transliteration: ʿalaynā
   7:
-    arabic: وَاِنۡ
+    arabic: وَإِن
     translation: and indeed
     transliteration: wa-in
   8:
@@ -37,7 +36,7 @@ word_by_word:
     translation: we have been
     transliteration: kunnā
   9:
-    arabic: "لَخٰـطِــِٕيۡنَ‏ \uFEFF\uFEFF"
+    arabic: لَخَٰطِـِٔينَ
     translation: sinners
     transliteration: lakhāṭiīna
 ---

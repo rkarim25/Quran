@@ -1,31 +1,31 @@
 ---
-arabic_ayat: يٰۤـاَيُّهَا الَّذِيۡنَ اٰمَنُوۡا ارۡكَعُوۡا وَاسۡجُدُوۡا وَ اعۡبُدُوۡا
-  رَبَّكُمۡ وَافۡعَلُوۡا الۡخَيۡرَ لَعَلَّكُمۡ تُفۡلِحُوۡنَ۩ ۚ‏
+arabic_ayat: يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُواْ ٱرۡكَعُواْ وَٱسۡجُدُواْۤ وَٱعۡبُدُواْ
+  رَبَّكُمۡ وَٱفۡعَلُواْ ٱلۡخَيۡرَ لَعَلَّكُمۡ تُفۡلِحُونَ۩
 sentence_translation: O believers! Bow down, prostrate yourselves, worship your Lord,
   and do ˹what is˺ good so that you may be successful.
 word_by_word:
   1:
-    arabic: يٰۤـاَيُّهَا
+    arabic: يَٰٓأَيُّهَا
     translation: O you who believe
     transliteration: yāayyuhā
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ ءَ
     translation: O you who believe
     transliteration: alladhīna
   3:
-    arabic: اٰمَنُوۡا
+    arabic: امَنُواْ
     translation: O you who believe
     transliteration: āmanū
   4:
-    arabic: ارۡكَعُوۡا
+    arabic: ٱرۡكَعُواْ
     translation: Bow
     transliteration: ir'kaʿū
   5:
-    arabic: وَاسۡجُدُوۡا
+    arabic: وَٱسۡجُدُواْۤ
     translation: and prostrate
     transliteration: wa-us'judū
   6:
-    arabic: وَ اعۡبُدُوۡا
+    arabic: وَٱعۡبُدُواْ
     translation: and worship
     transliteration: wa-uʿ'budū
   7:
@@ -33,11 +33,11 @@ word_by_word:
     translation: your Lord
     transliteration: rabbakum
   8:
-    arabic: وَافۡعَلُوۡا
+    arabic: وَٱفۡعَلُواْ
     translation: and do
     transliteration: wa-if'ʿalū
   9:
-    arabic: الۡخَيۡرَ
+    arabic: ٱلۡخَيۡرَ
     translation: '[the] good'
     transliteration: l-khayra
   10:
@@ -45,7 +45,7 @@ word_by_word:
     translation: so that you may
     transliteration: laʿallakum
   11:
-    arabic: تُفۡلِحُوۡنَۚ ۩
+    arabic: تُفۡلِحُونَ۩
     translation: be successful
     transliteration: tuf'liḥūna
 ---

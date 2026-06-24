@@ -1,5 +1,5 @@
 ---
-arabic_ayat: ثُمَّ اجۡتَبٰهُ رَبُّهٗ فَتَابَ عَلَيۡهِ وَهَدٰى‏
+arabic_ayat: ثُمَّ ٱجۡتَبَٰهُ رَبُّهُۥ فَتَابَ عَلَيۡهِ وَهَدَىٰ
 sentence_translation: Then his Lord chose him ˹for His grace˺, accepted his repentance,
   and guided him ˹rightly˺.
 word_by_word:
@@ -8,11 +8,11 @@ word_by_word:
     translation: Then
     transliteration: thumma
   2:
-    arabic: اجۡتَبٰهُ
+    arabic: ٱجۡتَبَٰهُ
     translation: chose him
     transliteration: ij'tabāhu
   3:
-    arabic: رَبُّهٗ
+    arabic: رَبُّهُۥ
     translation: his Lord
     transliteration: rabbuhu
   4:
@@ -24,7 +24,7 @@ word_by_word:
     translation: to him
     transliteration: ʿalayhi
   6:
-    arabic: وَهَدٰى‏
+    arabic: وَهَدَىٰ
     translation: and guided (him)
     transliteration: wahadā
 ---

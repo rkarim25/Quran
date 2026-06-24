@@ -1,7 +1,6 @@
 ---
-arabic_ayat: قَدۡ سَمِعَ اللّٰهُ قَوۡلَ الَّتِىۡ تُجَادِلُكَ فِىۡ زَوۡجِهَا وَ تَشۡتَكِىۡۤ
-  اِلَى اللّٰهِ ​ۖ وَاللّٰهُ يَسۡمَعُ تَحَاوُرَكُمَا​ ؕ اِنَّ اللّٰهَ سَمِيۡعٌ ۢ
-  بَصِيۡرٌ‏
+arabic_ayat: قَدۡ سَمِعَ ٱللَّهُ قَوۡلَ ٱلَّتِي تُجَٰدِلُكَ فِي زَوۡجِهَا وَتَشۡتَكِيٓ
+  إِلَى ٱللَّهِ وَٱللَّهُ يَسۡمَعُ تَحَاوُرَكُمَآۚ إِنَّ ٱللَّهَ سَمِيعُۢ بَصِيرٌ
 sentence_translation: Indeed, Allah has heard the argument of the woman who pleaded
   with you ˹O Prophet˺ concerning her husband, and appealed to Allah. Allah has heard
   your exchange. Surely Allah is All-Hearing, All-Seeing.
@@ -15,7 +14,7 @@ word_by_word:
     translation: Allah has heard
     transliteration: samiʿa
   3:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah has heard
     transliteration: l-lahu
   4:
@@ -23,15 +22,15 @@ word_by_word:
     translation: (the) speech
     transliteration: qawla
   5:
-    arabic: الَّتِىۡ
+    arabic: ٱلَّتِي
     translation: (of one) who
     transliteration: allatī
   6:
-    arabic: تُجَادِلُكَ
+    arabic: تُجَٰدِلُكَ
     translation: disputes with you
     transliteration: tujādiluka
   7:
-    arabic: فِىۡ
+    arabic: فِي
     translation: concerning
     transliteration: fī
   8:
@@ -39,19 +38,19 @@ word_by_word:
     translation: her husband
     transliteration: zawjihā
   9:
-    arabic: وَ تَشۡتَكِىۡۤ
+    arabic: وَتَشۡتَكِيٓ
     translation: and she directs her complaint
     transliteration: watashtakī
   10:
-    arabic: اِلَى
+    arabic: إِلَى
     translation: to
     transliteration: ilā
   11:
-    arabic: اللّٰهِ ​ۖ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   12:
-    arabic: وَاللّٰهُ
+    arabic: وَٱللَّهُ
     translation: And Allah
     transliteration: wal-lahu
   13:
@@ -59,23 +58,23 @@ word_by_word:
     translation: hears
     transliteration: yasmaʿu
   14:
-    arabic: تَحَاوُرَكُمَا​ ؕ
+    arabic: تَحَاوُرَكُمَآۚ
     translation: (the) dialogue of both of you
     transliteration: taḥāwurakumā
   15:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   16:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   17:
-    arabic: سَمِيۡعٌ ۢ
+    arabic: سَمِيعُۢ
     translation: (is) All-Hearer
     transliteration: samīʿun
   18:
-    arabic: بَصِيۡرٌ‏
+    arabic: بَصِيرٌ
     translation: All-Seer
     transliteration: baṣīrun
 ---

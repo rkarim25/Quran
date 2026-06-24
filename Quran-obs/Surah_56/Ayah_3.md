@@ -1,13 +1,13 @@
 ---
-arabic_ayat: خَافِضَةٌ رَّافِعَةٌ ۙ‏
+arabic_ayat: خَافِضَةٞ رَّافِعَةٌ
 sentence_translation: It will debase ˹some˺ and elevate ˹others˺.
 word_by_word:
   1:
-    arabic: خَافِضَةٌ
+    arabic: خَافِضَةٞ
     translation: Bringing down
     transliteration: khāfiḍatun
   2:
-    arabic: رَّافِعَةٌ ۙ‏
+    arabic: رَّافِعَةٌ
     translation: raising up
     transliteration: rāfiʿatun
 ---

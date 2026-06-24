@@ -1,8 +1,8 @@
 ---
-arabic_ayat: هُوَ الَّذِىۡ خَلَقَكُمۡ مِّنۡ نَّـفۡسٍ وَّاحِدَةٍ وَّجَعَلَ مِنۡهَا
-  زَوۡجَهَا لِيَسۡكُنَ اِلَيۡهَا​ ۚ فَلَمَّا تَغَشّٰٮهَا حَمَلَتۡ حَمۡلًا خَفِيۡفًا
-  فَمَرَّتۡ بِهٖ​ ۚ فَلَمَّاۤ اَثۡقَلَتۡ دَّعَوَا اللّٰهَ رَبَّهُمَا لَٮِٕنۡ اٰتَيۡتَـنَا
-  صَالِحًا لَّـنَكُوۡنَنَّ مِنَ الشّٰكِرِيۡنَ‏
+arabic_ayat: ۞ هُوَ ٱلَّذِي خَلَقَكُم مِّن نَّفۡسٖ وَٰحِدَةٖ وَجَعَلَ مِنۡهَا زَوۡجَهَا
+  لِيَسۡكُنَ إِلَيۡهَاۖ فَلَمَّا تَغَشَّىٰهَا حَمَلَتۡ حَمۡلًا خَفِيفٗا فَمَرَّتۡ
+  بِهِۦۖ فَلَمَّآ أَثۡقَلَت دَّعَوَا ٱللَّهَ رَبَّهُمَا لَئِنۡ ءَاتَيۡتَنَا صَٰلِحٗا
+  لَّنَكُونَنَّ مِنَ ٱلشَّٰكِرِينَ
 sentence_translation: He is the One Who created you from a single soul, then from
   it made its spouse so he may find comfort in her. After he had been united with
   her, she carried a light burden that developed gradually. When it grew heavy, they
@@ -10,31 +10,31 @@ sentence_translation: He is the One Who created you from a single soul, then fro
   be grateful.”
 word_by_word:
   1:
-    arabic: ۞ هُوَ
+    arabic: ۞ هُوَ
     translation: He
     transliteration: huwa
   2:
-    arabic: الَّذِىۡ
+    arabic: ٱلَّذِي
     translation: (is) the One Who
     transliteration: alladhī
   3:
-    arabic: خَلَقَكُمۡ
+    arabic: خَلَقَكُم
     translation: created you
     transliteration: khalaqakum
   4:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: from
     transliteration: min
   5:
-    arabic: نَّـفۡسٍ
+    arabic: نَّفۡسٖ
     translation: a soul
     transliteration: nafsin
   6:
-    arabic: وَّاحِدَةٍ
+    arabic: وَٰحِدَةٖ
     translation: single
     transliteration: wāḥidatin
   7:
-    arabic: وَّجَعَلَ
+    arabic: وَجَعَلَ
     translation: and made
     transliteration: wajaʿala
   8:
@@ -50,7 +50,7 @@ word_by_word:
     translation: that he might live
     transliteration: liyaskuna
   11:
-    arabic: اِلَيۡهَا​ ۚ
+    arabic: إِلَيۡهَاۖ
     translation: with her
     transliteration: ilayhā
   12:
@@ -58,7 +58,7 @@ word_by_word:
     translation: And when
     transliteration: falammā
   13:
-    arabic: تَغَشّٰٮهَا
+    arabic: تَغَشَّىٰهَا
     translation: he covers her
     transliteration: taghashāhā
   14:
@@ -70,7 +70,7 @@ word_by_word:
     translation: a burden
     transliteration: ḥamlan
   16:
-    arabic: خَفِيۡفًا
+    arabic: خَفِيفٗا
     translation: light
     transliteration: khafīfan
   17:
@@ -78,15 +78,15 @@ word_by_word:
     translation: and continues
     transliteration: famarrat
   18:
-    arabic: بِهٖ​ ۚ
+    arabic: بِهِۦۖ
     translation: with it
     transliteration: bihi
   19:
-    arabic: فَلَمَّاۤ
+    arabic: فَلَمَّآ
     translation: But when
     transliteration: falammā
   20:
-    arabic: اَثۡقَلَتۡ
+    arabic: أَثۡقَلَت
     translation: she grows heavy
     transliteration: athqalat
   21:
@@ -94,7 +94,7 @@ word_by_word:
     translation: they both invoke
     transliteration: daʿawā
   22:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   23:
@@ -102,19 +102,19 @@ word_by_word:
     translation: their Lord
     transliteration: rabbahumā
   24:
-    arabic: لَٮِٕنۡ
+    arabic: لَئِنۡ ءَ
     translation: If
     transliteration: la-in
   25:
-    arabic: اٰتَيۡتَـنَا
+    arabic: اتَيۡتَنَا
     translation: You give us
     transliteration: ātaytanā
   26:
-    arabic: صَالِحًا
+    arabic: صَٰلِحٗا
     translation: a righteous (child)
     transliteration: ṣāliḥan
   27:
-    arabic: لَّـنَكُوۡنَنَّ
+    arabic: لَّنَكُونَنَّ
     translation: surely we will be
     transliteration: lanakūnanna
   28:
@@ -122,7 +122,7 @@ word_by_word:
     translation: among
     transliteration: mina
   29:
-    arabic: الشّٰكِرِيۡنَ‏
+    arabic: ٱلشَّٰكِرِينَ
     translation: the thankful
     transliteration: l-shākirīna
 ---

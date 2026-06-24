@@ -1,11 +1,10 @@
 ---
-arabic_ayat: "اِنَّا قَدۡ اُوۡحِىَ اِلَـيۡنَاۤ اَنَّ الۡعَذَابَ عَلٰى مَنۡ كَذَّبَ\
-  \ وَتَوَلّٰى‏ \uFEFF\uFEFF"
+arabic_ayat: إِنَّا قَدۡ أُوحِيَ إِلَيۡنَآ أَنَّ ٱلۡعَذَابَ عَلَىٰ مَن كَذَّبَ وَتَوَلَّىٰ
 sentence_translation: It has indeed been revealed to us that the punishment will be
   upon whoever denies ˹the truth˺ and turns away.’”
 word_by_word:
   1:
-    arabic: اِنَّا
+    arabic: إِنَّا
     translation: Indeed, we
     transliteration: innā
   2:
@@ -13,27 +12,27 @@ word_by_word:
     translation: verily
     transliteration: qad
   3:
-    arabic: اُوۡحِىَ
+    arabic: أُوحِيَ
     translation: it has been revealed
     transliteration: ūḥiya
   4:
-    arabic: اِلَـيۡنَاۤ
+    arabic: إِلَيۡنَآ
     translation: to us
     transliteration: ilaynā
   5:
-    arabic: اَنَّ
+    arabic: أَنَّ
     translation: that
     transliteration: anna
   6:
-    arabic: الۡعَذَابَ
+    arabic: ٱلۡعَذَابَ
     translation: the punishment
     transliteration: l-ʿadhāba
   7:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: (will be) on
     transliteration: ʿalā
   8:
-    arabic: مَنۡ
+    arabic: مَن
     translation: (one) who
     transliteration: man
   9:
@@ -41,7 +40,7 @@ word_by_word:
     translation: denies
     transliteration: kadhaba
   10:
-    arabic: "وَتَوَلّٰى‏ \uFEFF\uFEFF"
+    arabic: وَتَوَلَّىٰ
     translation: and turns away
     transliteration: watawallā
 ---

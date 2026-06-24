@@ -1,35 +1,35 @@
 ---
-arabic_ayat: اِنَّ الَّذِيۡنَ كَفَرُوۡا وَ صَدُّوۡا عَنۡ سَبِيۡلِ اللّٰهِ قَدۡ ضَلُّوۡا
-  ضَلٰلًاۢ بَعِيۡدًا‏
+arabic_ayat: إِنَّ ٱلَّذِينَ كَفَرُواْ وَصَدُّواْ عَن سَبِيلِ ٱللَّهِ قَدۡ ضَلُّواْ
+  ضَلَٰلَۢا بَعِيدًا
 sentence_translation: Those who disbelieve and hinder ˹others˺ from the Way of Allah
   have certainly strayed far away.
 word_by_word:
   1:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   3:
-    arabic: كَفَرُوۡا
+    arabic: كَفَرُواْ
     translation: disbelieve
     transliteration: kafarū
   4:
-    arabic: وَ صَدُّوۡا
+    arabic: وَصَدُّواْ
     translation: and hinder
     transliteration: waṣaddū
   5:
-    arabic: عَنۡ
+    arabic: عَن
     translation: from
     transliteration: ʿan
   6:
-    arabic: سَبِيۡلِ
+    arabic: سَبِيلِ
     translation: (the) way
     transliteration: sabīli
   7:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (of) Allah
     transliteration: l-lahi
   8:
@@ -37,15 +37,15 @@ word_by_word:
     translation: surely
     transliteration: qad
   9:
-    arabic: ضَلُّوۡا
+    arabic: ضَلُّواْ
     translation: they have strayed
     transliteration: ḍallū
   10:
-    arabic: ضَلٰلًاۢ
+    arabic: ضَلَٰلَۢا
     translation: straying
     transliteration: ḍalālan
   11:
-    arabic: بَعِيۡدًا‏
+    arabic: بَعِيدًا
     translation: far away
     transliteration: baʿīdan
 ---

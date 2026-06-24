@@ -1,9 +1,9 @@
 ---
-arabic_ayat: اَلرَّحۡمٰنُ عَلَى الۡعَرۡشِ اسۡتَوٰى‏
+arabic_ayat: ٱلرَّحۡمَٰنُ عَلَى ٱلۡعَرۡشِ ٱسۡتَوَىٰ
 sentence_translation: the Most Compassionate, ˹Who is˺ established on the Throne.
 word_by_word:
   1:
-    arabic: اَلرَّحۡمٰنُ
+    arabic: ٱلرَّحۡمَٰنُ
     translation: The Most Gracious
     transliteration: al-raḥmānu
   2:
@@ -11,11 +11,11 @@ word_by_word:
     translation: over
     transliteration: ʿalā
   3:
-    arabic: الۡعَرۡشِ
+    arabic: ٱلۡعَرۡشِ
     translation: the Throne
     transliteration: l-ʿarshi
   4:
-    arabic: اسۡتَوٰى‏
+    arabic: ٱسۡتَوَىٰ
     translation: is established
     transliteration: is'tawā
 ---

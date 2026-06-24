@@ -1,47 +1,47 @@
 ---
-arabic_ayat: الَّذِيۡنَ يَصُدُّوۡنَ عَنۡ سَبِيۡلِ اللّٰهِ وَيَـبۡـغُوۡنَهَا عِوَجًا​
-  ۚ وَهُمۡ بِالۡاٰخِرَةِ كٰفِرُوۡنَ​ۘ‏
+arabic_ayat: ٱلَّذِينَ يَصُدُّونَ عَن سَبِيلِ ٱللَّهِ وَيَبۡغُونَهَا عِوَجٗا وَهُم
+  بِٱلۡأٓخِرَةِ كَٰفِرُونَ
 sentence_translation: those who hindered ˹others˺ from Allah’s Way, strived to make
   it ˹appear˺ crooked, and disbelieved in the Hereafter.”
 word_by_word:
   1:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: Those who
     transliteration: alladhīna
   2:
-    arabic: يَصُدُّوۡنَ
+    arabic: يَصُدُّونَ
     translation: hinder
     transliteration: yaṣuddūna
   3:
-    arabic: عَنۡ
+    arabic: عَن
     translation: from
     transliteration: ʿan
   4:
-    arabic: سَبِيۡلِ
+    arabic: سَبِيلِ
     translation: (the) way
     transliteration: sabīli
   5:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (of) Allah
     transliteration: l-lahi
   6:
-    arabic: وَيَـبۡـغُوۡنَهَا
+    arabic: وَيَبۡغُونَهَا
     translation: and seek in it
     transliteration: wayabghūnahā
   7:
-    arabic: عِوَجًا​ ۚ
+    arabic: عِوَجٗا
     translation: crookedness
     transliteration: ʿiwajan
   8:
-    arabic: وَهُمۡ
+    arabic: وَهُم
     translation: while they (are)
     transliteration: wahum
   9:
-    arabic: بِالۡاٰخِرَةِ
+    arabic: بِٱلۡأٓخِرَةِ
     translation: concerning the Hereafter
     transliteration: bil-ākhirati
   10:
-    arabic: كٰفِرُوۡنَ​ۘ‏
+    arabic: كَٰفِرُونَ
     translation: disbelievers
     transliteration: kāfirūna
 ---

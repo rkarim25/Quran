@@ -1,21 +1,21 @@
 ---
-arabic_ayat: يٰۤاَيُّهَا الَّذِيۡنَ اٰمَنُوۡا لَا تَرۡفَعُوۡۤا اَصۡوَاتَكُمۡ فَوۡقَ
-  صَوۡتِ النَّبِىِّ وَلَا تَجۡهَرُوۡا لَهٗ بِالۡقَوۡلِ كَجَهۡرِ بَعۡضِكُمۡ لِبَعۡضٍ
-  اَنۡ تَحۡبَطَ اَعۡمَالُكُمۡ وَاَنۡـتُمۡ لَا تَشۡعُرُوۡنَ‏
+arabic_ayat: يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُواْ لَا تَرۡفَعُوٓاْ أَصۡوَٰتَكُمۡ فَوۡقَ
+  صَوۡتِ ٱلنَّبِيِّ وَلَا تَجۡهَرُواْ لَهُۥ بِٱلۡقَوۡلِ كَجَهۡرِ بَعۡضِكُمۡ لِبَعۡضٍ
+  أَن تَحۡبَطَ أَعۡمَٰلُكُمۡ وَأَنتُمۡ لَا تَشۡعُرُونَ
 sentence_translation: O believers! Do not raise your voices above the voice of the
   Prophet, nor speak loudly to him as you do to one another, or your deeds will become
   void while you are unaware.
 word_by_word:
   1:
-    arabic: يٰۤاَيُّهَا
+    arabic: يَٰٓأَيُّهَا
     translation: O you who believe
     transliteration: yāayyuhā
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ ءَ
     translation: O you who believe
     transliteration: alladhīna
   3:
-    arabic: اٰمَنُوۡا
+    arabic: امَنُواْ
     translation: O you who believe
     transliteration: āmanū
   4:
@@ -23,11 +23,11 @@ word_by_word:
     translation: (Do) not
     transliteration: lā
   5:
-    arabic: تَرۡفَعُوۡۤا
+    arabic: تَرۡفَعُوٓاْ
     translation: raise
     transliteration: tarfaʿū
   6:
-    arabic: اَصۡوَاتَكُمۡ
+    arabic: أَصۡوَٰتَكُمۡ
     translation: your voices
     transliteration: aṣwātakum
   7:
@@ -39,7 +39,7 @@ word_by_word:
     translation: (the) voice
     transliteration: ṣawti
   9:
-    arabic: النَّبِىِّ
+    arabic: ٱلنَّبِيِّ
     translation: (of) the Prophet
     transliteration: l-nabiyi
   10:
@@ -47,15 +47,15 @@ word_by_word:
     translation: and (do) not
     transliteration: walā
   11:
-    arabic: تَجۡهَرُوۡا
+    arabic: تَجۡهَرُواْ
     translation: be loud
     transliteration: tajharū
   12:
-    arabic: لَهٗ
+    arabic: لَهُۥ
     translation: to him
     transliteration: lahu
   13:
-    arabic: بِالۡقَوۡلِ
+    arabic: بِٱلۡقَوۡلِ
     translation: in speech
     transliteration: bil-qawli
   14:
@@ -71,7 +71,7 @@ word_by_word:
     translation: to others
     transliteration: libaʿḍin
   17:
-    arabic: اَنۡ
+    arabic: أَن
     translation: lest
     transliteration: an
   18:
@@ -79,11 +79,11 @@ word_by_word:
     translation: become worthless
     transliteration: taḥbaṭa
   19:
-    arabic: اَعۡمَالُكُمۡ
+    arabic: أَعۡمَٰلُكُمۡ
     translation: your deeds
     transliteration: aʿmālukum
   20:
-    arabic: وَاَنۡـتُمۡ
+    arabic: وَأَنتُمۡ
     translation: while you
     transliteration: wa-antum
   21:
@@ -91,7 +91,7 @@ word_by_word:
     translation: (do) not
     transliteration: lā
   22:
-    arabic: تَشۡعُرُوۡنَ‏
+    arabic: تَشۡعُرُونَ
     translation: perceive
     transliteration: tashʿurūna
 ---

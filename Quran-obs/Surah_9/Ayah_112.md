@@ -1,46 +1,46 @@
 ---
-arabic_ayat: اَلتَّاۤٮِٕبُوۡنَ الۡعٰبِدُوۡنَ الۡحٰمِدُوۡنَ السّاۤٮِٕحُوۡنَ الرّٰكِعُوۡنَ
-  السّٰجِدُوۡنَ الۡاٰمِرُوۡنَ بِالۡمَعۡرُوۡفِ وَالنَّاهُوۡنَ عَنِ الۡمُنۡكَرِ وَالۡحٰــفِظُوۡنَ
-  لِحُدُوۡدِ اللّٰه ِ​ؕ وَبَشِّرِ الۡمُؤۡمِنِيۡنَ‏
+arabic_ayat: ٱلتَّٰٓئِبُونَ ٱلۡعَٰبِدُونَ ٱلۡحَٰمِدُونَ ٱلسَّٰٓئِحُونَ ٱلرَّٰكِعُونَ
+  ٱلسَّٰجِدُونَ ٱلۡأٓمِرُونَ بِٱلۡمَعۡرُوفِ وَٱلنَّاهُونَ عَنِ ٱلۡمُنكَرِ وَٱلۡحَٰفِظُونَ
+  لِحُدُودِ ٱللَّهِۗ وَبَشِّرِ ٱلۡمُؤۡمِنِينَ
 sentence_translation: ˹It is the believers˺ who repent, who are devoted to worship,
   who praise ˹their Lord˺, who fast, who bow down and prostrate themselves, who encourage
   good and forbid evil, and who observe the limits set by Allah. And give good news
   to the believers.
 word_by_word:
   1:
-    arabic: اَلتَّاۤٮِٕبُوۡنَ
+    arabic: ٱلتَّٰٓئِبُونَ
     translation: Those who turn in repentance
     transliteration: al-tāibūna
   2:
-    arabic: الۡعٰبِدُوۡنَ
+    arabic: ٱلۡعَٰبِدُونَ
     translation: those who worship
     transliteration: l-ʿābidūna
   3:
-    arabic: الۡحٰمِدُوۡنَ
+    arabic: ٱلۡحَٰمِدُونَ
     translation: those who praise
     transliteration: l-ḥāmidūna
   4:
-    arabic: السّاۤٮِٕحُوۡنَ
+    arabic: ٱلسَّٰٓئِحُونَ
     translation: those who go out
     transliteration: l-sāiḥūna
   5:
-    arabic: الرّٰكِعُوۡنَ
+    arabic: ٱلرَّٰكِعُونَ
     translation: those who bow down
     transliteration: l-rākiʿūna
   6:
-    arabic: السّٰجِدُوۡنَ
+    arabic: ٱلسَّٰجِدُونَ
     translation: those who prostrate
     transliteration: l-sājidūna
   7:
-    arabic: الۡاٰمِرُوۡنَ
+    arabic: ٱلۡأٓمِرُونَ
     translation: those who enjoin
     transliteration: l-āmirūna
   8:
-    arabic: بِالۡمَعۡرُوۡفِ
+    arabic: بِٱلۡمَعۡرُوفِ
     translation: the right
     transliteration: bil-maʿrūfi
   9:
-    arabic: وَالنَّاهُوۡنَ
+    arabic: وَٱلنَّاهُونَ
     translation: and those who forbid
     transliteration: wal-nāhūna
   10:
@@ -48,19 +48,19 @@ word_by_word:
     translation: '[on]'
     transliteration: ʿani
   11:
-    arabic: الۡمُنۡكَرِ
+    arabic: ٱلۡمُنكَرِ
     translation: the wrong
     transliteration: l-munkari
   12:
-    arabic: وَالۡحٰــفِظُوۡنَ
+    arabic: وَٱلۡحَٰفِظُونَ
     translation: and those who observe
     transliteration: wal-ḥāfiẓūna
   13:
-    arabic: لِحُدُوۡدِ
+    arabic: لِحُدُودِ
     translation: (the) limits
     transliteration: liḥudūdi
   14:
-    arabic: اللّٰه ِ​ؕ
+    arabic: ٱللَّهِۗ
     translation: (of) Allah
     transliteration: l-lahi
   15:
@@ -68,7 +68,7 @@ word_by_word:
     translation: And give glad tidings
     transliteration: wabashiri
   16:
-    arabic: الۡمُؤۡمِنِيۡنَ‏
+    arabic: ٱلۡمُؤۡمِنِينَ
     translation: (to) the believers
     transliteration: l-mu'minīna
 ---

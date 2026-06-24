@@ -1,14 +1,14 @@
 ---
-arabic_ayat: لَـقَدۡ كَانَ فِىۡ قَصَصِهِمۡ عِبۡرَةٌ لِّاُولِى الۡاَلۡبَابِ​ؕ مَا كَانَ
-  حَدِيۡثًا يُّفۡتَـرٰى وَلٰـكِنۡ تَصۡدِيۡقَ الَّذِىۡ بَيۡنَ يَدَيۡهِ وَتَفۡصِيۡلَ
-  كُلِّ شَىۡءٍ وَّهُدًى وَّرَحۡمَةً لِّـقَوۡمٍ يُّؤۡمِنُوۡنَ‏
+arabic_ayat: لَقَدۡ كَانَ فِي قَصَصِهِمۡ عِبۡرَةٞ لِّأُوْلِي ٱلۡأَلۡبَٰبِۗ مَا كَانَ
+  حَدِيثٗا يُفۡتَرَىٰ وَلَٰكِن تَصۡدِيقَ ٱلَّذِي بَيۡنَ يَدَيۡهِ وَتَفۡصِيلَ كُلِّ
+  شَيۡءٖ وَهُدٗى وَرَحۡمَةٗ لِّقَوۡمٖ يُؤۡمِنُونَ
 sentence_translation: In their stories there is truly a lesson for people of reason.
   This message cannot be a fabrication, rather ˹it is˺ a confirmation of previous
   revelation, a detailed explanation of all things, a guide, and a mercy for people
   of faith.
 word_by_word:
   1:
-    arabic: لَـقَدۡ
+    arabic: لَقَدۡ
     translation: Verily
     transliteration: laqad
   2:
@@ -16,7 +16,7 @@ word_by_word:
     translation: (there) is
     transliteration: kāna
   3:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   4:
@@ -24,15 +24,15 @@ word_by_word:
     translation: their stories
     transliteration: qaṣaṣihim
   5:
-    arabic: عِبۡرَةٌ
+    arabic: عِبۡرَةٞ
     translation: a lesson
     transliteration: ʿib'ratun
   6:
-    arabic: لِّاُولِى
+    arabic: لِّأُوْلِي
     translation: for men
     transliteration: li-ulī
   7:
-    arabic: الۡاَلۡبَابِ​ؕ
+    arabic: ٱلۡأَلۡبَٰبِۗ
     translation: (of) understanding
     transliteration: l-albābi
   8:
@@ -44,23 +44,23 @@ word_by_word:
     translation: (it) is
     transliteration: kāna
   10:
-    arabic: حَدِيۡثًا
+    arabic: حَدِيثٗا
     translation: a narration
     transliteration: ḥadīthan
   11:
-    arabic: يُّفۡتَـرٰى
+    arabic: يُفۡتَرَىٰ
     translation: invented
     transliteration: yuf'tarā
   12:
-    arabic: وَلٰـكِنۡ
+    arabic: وَلَٰكِن
     translation: but
     transliteration: walākin
   13:
-    arabic: تَصۡدِيۡقَ
+    arabic: تَصۡدِيقَ
     translation: a confirmation
     transliteration: taṣdīqa
   14:
-    arabic: الَّذِىۡ
+    arabic: ٱلَّذِي
     translation: (of that) which
     transliteration: alladhī
   15:
@@ -72,7 +72,7 @@ word_by_word:
     translation: (was) before it
     transliteration: yadayhi
   17:
-    arabic: وَتَفۡصِيۡلَ
+    arabic: وَتَفۡصِيلَ
     translation: and a detailed explanation
     transliteration: watafṣīla
   18:
@@ -80,23 +80,23 @@ word_by_word:
     translation: (of) all
     transliteration: kulli
   19:
-    arabic: شَىۡءٍ
+    arabic: شَيۡءٖ
     translation: things
     transliteration: shayin
   20:
-    arabic: وَّهُدًى
+    arabic: وَهُدٗى
     translation: and a guidance
     transliteration: wahudan
   21:
-    arabic: وَّرَحۡمَةً
+    arabic: وَرَحۡمَةٗ
     translation: and mercy
     transliteration: waraḥmatan
   22:
-    arabic: لِّـقَوۡمٍ
+    arabic: لِّقَوۡمٖ
     translation: for a people
     transliteration: liqawmin
   23:
-    arabic: يُّؤۡمِنُوۡنَ‏
+    arabic: يُؤۡمِنُونَ
     translation: who believe
     transliteration: yu'minūna
 ---

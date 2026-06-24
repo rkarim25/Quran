@@ -1,14 +1,14 @@
 ---
-arabic_ayat: اَلۡحَـقُّ مِنۡ رَّبِّكَ فَلَا تَكُنۡ مِّنَ الۡمُمۡتَرِيۡنَ‏
+arabic_ayat: ٱلۡحَقُّ مِن رَّبِّكَ فَلَا تَكُن مِّنَ ٱلۡمُمۡتَرِينَ
 sentence_translation: This is the truth from your Lord, so do not be one of those
   who doubt.
 word_by_word:
   1:
-    arabic: اَلۡحَـقُّ
+    arabic: ٱلۡحَقُّ
     translation: The truth
     transliteration: al-ḥaqu
   2:
-    arabic: مِنۡ
+    arabic: مِن
     translation: (is) from
     transliteration: min
   3:
@@ -20,7 +20,7 @@ word_by_word:
     translation: so (do) not
     transliteration: falā
   5:
-    arabic: تَكُنۡ
+    arabic: تَكُن
     translation: be
     transliteration: takun
   6:
@@ -28,7 +28,7 @@ word_by_word:
     translation: among
     transliteration: mina
   7:
-    arabic: الۡمُمۡتَرِيۡنَ‏
+    arabic: ٱلۡمُمۡتَرِينَ
     translation: the doubters
     transliteration: l-mum'tarīna
 ---

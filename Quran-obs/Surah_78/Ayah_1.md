@@ -1,5 +1,5 @@
 ---
-arabic_ayat: عَمَّ يَتَسَآءَلُوۡنَ​ۚ‏
+arabic_ayat: عَمَّ يَتَسَآءَلُونَ
 sentence_translation: What are they asking one another about?
 word_by_word:
   1:
@@ -7,7 +7,7 @@ word_by_word:
     translation: About what
     transliteration: ʿamma
   2:
-    arabic: يَتَسَآءَلُوۡنَ​ۚ‏
+    arabic: يَتَسَآءَلُونَ
     translation: are they asking one another
     transliteration: yatasāalūna
 ---

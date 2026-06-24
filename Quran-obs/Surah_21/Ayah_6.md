@@ -1,23 +1,22 @@
 ---
-arabic_ayat: "مَاۤ اٰمَنَتۡ قَبۡلَهُمۡ مِّنۡ قَرۡيَةٍ اَهۡلَـكۡنٰهَا​ۚ اَفَهُمۡ يُؤۡمِنُوۡنَ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: مَآ ءَامَنَتۡ قَبۡلَهُم مِّن قَرۡيَةٍ أَهۡلَكۡنَٰهَآۖ أَفَهُمۡ يُؤۡمِنُونَ
 sentence_translation: Not a ˹single˺ society We destroyed before them ever believed
   ˹after receiving the signs˺. Will these ˹pagans˺ then believe?
 word_by_word:
   1:
-    arabic: مَاۤ
+    arabic: مَآ ءَ
     translation: Not
     transliteration: mā
   2:
-    arabic: اٰمَنَتۡ
+    arabic: امَنَتۡ
     translation: believed
     transliteration: āmanat
   3:
-    arabic: قَبۡلَهُمۡ
+    arabic: قَبۡلَهُم
     translation: before them
     transliteration: qablahum
   4:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: any
     transliteration: min
   5:
@@ -25,15 +24,15 @@ word_by_word:
     translation: town
     transliteration: qaryatin
   6:
-    arabic: اَهۡلَـكۡنٰهَا​ۚ
+    arabic: أَهۡلَكۡنَٰهَآۖ
     translation: which We destroyed
     transliteration: ahlaknāhā
   7:
-    arabic: اَفَهُمۡ
+    arabic: أَفَهُمۡ
     translation: so will they
     transliteration: afahum
   8:
-    arabic: "يُؤۡمِنُوۡنَ‏ \uFEFF\uFEFF"
+    arabic: يُؤۡمِنُونَ
     translation: believe
     transliteration: yu'minūna
 ---

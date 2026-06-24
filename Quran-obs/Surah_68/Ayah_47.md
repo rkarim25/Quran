@@ -1,18 +1,18 @@
 ---
-arabic_ayat: اَمۡ عِنۡدَهُمُ الۡغَيۡبُ فَهُمۡ يَكۡتُبُوۡنَ‏
+arabic_ayat: أَمۡ عِندَهُمُ ٱلۡغَيۡبُ فَهُمۡ يَكۡتُبُونَ
 sentence_translation: Or do they have access to ˹the Record in˺ the unseen, so they
   copy it ˹for all to see˺?
 word_by_word:
   1:
-    arabic: اَمۡ
+    arabic: أَمۡ
     translation: Or
     transliteration: am
   2:
-    arabic: عِنۡدَهُمُ
+    arabic: عِندَهُمُ
     translation: (is) with them
     transliteration: ʿindahumu
   3:
-    arabic: الۡغَيۡبُ
+    arabic: ٱلۡغَيۡبُ
     translation: the unseen
     transliteration: l-ghaybu
   4:
@@ -20,7 +20,7 @@ word_by_word:
     translation: so they
     transliteration: fahum
   5:
-    arabic: يَكۡتُبُوۡنَ‏
+    arabic: يَكۡتُبُونَ
     translation: write it
     transliteration: yaktubūna
 ---

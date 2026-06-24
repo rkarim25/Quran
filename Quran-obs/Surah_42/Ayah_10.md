@@ -1,6 +1,6 @@
 ---
-arabic_ayat: وَمَا اخۡتَلَـفۡتُمۡ فِيۡهِ مِنۡ شَىۡءٍ فَحُكۡمُهٗۤ اِلَى اللّٰهِ​ ؕ
-  ذٰ لِكُمُ اللّٰهُ رَبِّىۡ عَلَيۡهِ تَوَكَّلۡتُۖ وَاِلَيۡهِ اُنِيۡبُ‏
+arabic_ayat: وَمَا ٱخۡتَلَفۡتُمۡ فِيهِ مِن شَيۡءٖ فَحُكۡمُهُۥٓ إِلَى ٱللَّهِۚ ذَٰلِكُمُ
+  ٱللَّهُ رَبِّي عَلَيۡهِ تَوَكَّلۡتُ وَإِلَيۡهِ أُنِيبُ
 sentence_translation: ˹Say to the believers, O  Prophet,˺ “Whatever you may differ
   about, its judgment rests with Allah. That is Allah—my Lord. In Him I put my trust,
   and to Him I ˹always˺ turn.”
@@ -10,43 +10,43 @@ word_by_word:
     translation: And whatever
     transliteration: wamā
   2:
-    arabic: اخۡتَلَـفۡتُمۡ
+    arabic: ٱخۡتَلَفۡتُمۡ
     translation: you differ
     transliteration: ikh'talaftum
   3:
-    arabic: فِيۡهِ
+    arabic: فِيهِ
     translation: in it
     transliteration: fīhi
   4:
-    arabic: مِنۡ
+    arabic: مِن
     translation: of
     transliteration: min
   5:
-    arabic: شَىۡءٍ
+    arabic: شَيۡءٖ
     translation: a thing
     transliteration: shayin
   6:
-    arabic: فَحُكۡمُهٗۤ
+    arabic: فَحُكۡمُهُۥٓ
     translation: then its ruling
     transliteration: faḥuk'muhu
   7:
-    arabic: اِلَى
+    arabic: إِلَى
     translation: (is) to
     transliteration: ilā
   8:
-    arabic: اللّٰهِ​ ؕ
+    arabic: ٱللَّهِۚ
     translation: Allah
     transliteration: l-lahi
   9:
-    arabic: ذٰ لِكُمُ
+    arabic: ذَٰلِكُمُ
     translation: That
     transliteration: dhālikumu
   10:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: (is) Allah
     transliteration: l-lahu
   11:
-    arabic: رَبِّىۡ
+    arabic: رَبِّي
     translation: my Lord
     transliteration: rabbī
   12:
@@ -54,15 +54,15 @@ word_by_word:
     translation: upon Him
     transliteration: ʿalayhi
   13:
-    arabic: تَوَكَّلۡتُۖ
+    arabic: تَوَكَّلۡتُ
     translation: I put my trust
     transliteration: tawakkaltu
   14:
-    arabic: وَاِلَيۡهِ
+    arabic: وَإِلَيۡهِ
     translation: and to Him
     transliteration: wa-ilayhi
   15:
-    arabic: اُنِيۡبُ‏
+    arabic: أُنِيبُ
     translation: I turn
     transliteration: unību
 ---

@@ -1,6 +1,6 @@
 ---
-arabic_ayat: وَعِبَادُ الرَّحۡمٰنِ الَّذِيۡنَ يَمۡشُوۡنَ عَلَى الۡاَرۡضِ هَوۡنًا وَّاِذَا
-  خَاطَبَهُمُ الۡجٰهِلُوۡنَ قَالُوۡا سَلٰمًا‏
+arabic_ayat: وَعِبَادُ ٱلرَّحۡمَٰنِ ٱلَّذِينَ يَمۡشُونَ عَلَى ٱلۡأَرۡضِ هَوۡنٗا وَإِذَا
+  خَاطَبَهُمُ ٱلۡجَٰهِلُونَ قَالُواْ سَلَٰمٗا
 sentence_translation: The ˹true˺ servants of the Most Compassionate are those who
   walk on the earth humbly, and when the foolish address them ˹improperly˺, they only
   respond with peace.
@@ -10,15 +10,15 @@ word_by_word:
     translation: And (the) slaves
     transliteration: waʿibādu
   2:
-    arabic: الرَّحۡمٰنِ
+    arabic: ٱلرَّحۡمَٰنِ
     translation: (of) the Most Gracious
     transliteration: l-raḥmāni
   3:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: (are) those who
     transliteration: alladhīna
   4:
-    arabic: يَمۡشُوۡنَ
+    arabic: يَمۡشُونَ
     translation: walk
     transliteration: yamshūna
   5:
@@ -26,15 +26,15 @@ word_by_word:
     translation: 'on'
     transliteration: ʿalā
   6:
-    arabic: الۡاَرۡضِ
+    arabic: ٱلۡأَرۡضِ
     translation: the earth
     transliteration: l-arḍi
   7:
-    arabic: هَوۡنًا
+    arabic: هَوۡنٗا
     translation: (in) humbleness
     transliteration: hawnan
   8:
-    arabic: وَّاِذَا
+    arabic: وَإِذَا
     translation: and when
     transliteration: wa-idhā
   9:
@@ -42,15 +42,15 @@ word_by_word:
     translation: address them
     transliteration: khāṭabahumu
   10:
-    arabic: الۡجٰهِلُوۡنَ
+    arabic: ٱلۡجَٰهِلُونَ
     translation: the ignorant ones
     transliteration: l-jāhilūna
   11:
-    arabic: قَالُوۡا
+    arabic: قَالُواْ
     translation: they say
     transliteration: qālū
   12:
-    arabic: سَلٰمًا‏
+    arabic: سَلَٰمٗا
     translation: Peace
     transliteration: salāman
 ---

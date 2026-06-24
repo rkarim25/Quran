@@ -1,23 +1,23 @@
 ---
-arabic_ayat: يٰۤـاَيُّهَا النَّاسُ اتَّقُوۡا رَبَّكُمُ الَّذِىۡ خَلَقَكُمۡ مِّنۡ نَّفۡسٍ
-  وَّاحِدَةٍ وَّخَلَقَ مِنۡهَا زَوۡجَهَا وَبَثَّ مِنۡهُمَا رِجَالًا كَثِيۡرًا وَّنِسَآءً​
-  ۚ وَاتَّقُوا اللّٰهَ الَّذِىۡ تَسَآءَلُوۡنَ بِهٖ وَالۡاَرۡحَامَ​ ؕ اِنَّ اللّٰهَ
-  كَانَ عَلَيۡكُمۡ رَقِيۡبًا‏
+arabic_ayat: يَٰٓأَيُّهَا ٱلنَّاسُ ٱتَّقُواْ رَبَّكُمُ ٱلَّذِي خَلَقَكُم مِّن نَّفۡسٖ
+  وَٰحِدَةٖ وَخَلَقَ مِنۡهَا زَوۡجَهَا وَبَثَّ مِنۡهُمَا رِجَالٗا كَثِيرٗا وَنِسَآءٗۚ
+  وَٱتَّقُواْ ٱللَّهَ ٱلَّذِي تَسَآءَلُونَ بِهِۦ وَٱلۡأَرۡحَامَۚ إِنَّ ٱللَّهَ كَانَ
+  عَلَيۡكُمۡ رَقِيبٗا
 sentence_translation: O humanity! Be mindful of your Lord Who created you from a single
   soul, and from it He created its mate, and through both He spread countless men
   and women. And be mindful of Allah—in Whose Name you appeal to one another—and ˹honour˺
   family ties. Surely Allah is ever Watchful over you.
 word_by_word:
   1:
-    arabic: يٰۤـاَيُّهَا
+    arabic: يَٰٓأَيُّهَا
     translation: O
     transliteration: yāayyuhā
   2:
-    arabic: النَّاسُ
+    arabic: ٱلنَّاسُ
     translation: mankind
     transliteration: l-nāsu
   3:
-    arabic: اتَّقُوۡا
+    arabic: ٱتَّقُواْ
     translation: Fear
     transliteration: ittaqū
   4:
@@ -25,27 +25,27 @@ word_by_word:
     translation: your Lord
     transliteration: rabbakumu
   5:
-    arabic: الَّذِىۡ
+    arabic: ٱلَّذِي
     translation: the One Who
     transliteration: alladhī
   6:
-    arabic: خَلَقَكُمۡ
+    arabic: خَلَقَكُم
     translation: created you
     transliteration: khalaqakum
   7:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: from
     transliteration: min
   8:
-    arabic: نَّفۡسٍ
+    arabic: نَّفۡسٖ
     translation: a soul
     transliteration: nafsin
   9:
-    arabic: وَّاحِدَةٍ
+    arabic: وَٰحِدَةٖ
     translation: single
     transliteration: wāḥidatin
   10:
-    arabic: وَّخَلَقَ
+    arabic: وَخَلَقَ
     translation: and created
     transliteration: wakhalaqa
   11:
@@ -65,47 +65,47 @@ word_by_word:
     translation: from both of them
     transliteration: min'humā
   15:
-    arabic: رِجَالًا
+    arabic: رِجَالٗا
     translation: men
     transliteration: rijālan
   16:
-    arabic: كَثِيۡرًا
+    arabic: كَثِيرٗا
     translation: many
     transliteration: kathīran
   17:
-    arabic: وَّنِسَآءً​ ۚ
+    arabic: وَنِسَآءٗۚ
     translation: and women
     transliteration: wanisāan
   18:
-    arabic: وَاتَّقُوا
+    arabic: وَٱتَّقُواْ
     translation: And fear
     transliteration: wa-ittaqū
   19:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   20:
-    arabic: الَّذِىۡ
+    arabic: ٱلَّذِي
     translation: (through) Whom
     transliteration: alladhī
   21:
-    arabic: تَسَآءَلُوۡنَ
+    arabic: تَسَآءَلُونَ
     translation: you ask
     transliteration: tasāalūna
   22:
-    arabic: بِهٖ
+    arabic: بِهِۦ
     translation: '[with it]'
     transliteration: bihi
   23:
-    arabic: وَالۡاَرۡحَامَ​ ؕ
+    arabic: وَٱلۡأَرۡحَامَۚ
     translation: and the wombs
     transliteration: wal-arḥāma
   24:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   25:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   26:
@@ -117,7 +117,7 @@ word_by_word:
     translation: over you
     transliteration: ʿalaykum
   28:
-    arabic: رَقِيۡبًا‏
+    arabic: رَقِيبٗا
     translation: Ever-Watchful
     transliteration: raqīban
 ---

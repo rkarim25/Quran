@@ -1,25 +1,25 @@
 ---
-arabic_ayat: اِنۡ اَنَا اِلَّا نَذِيۡرٌ مُّبِيۡنٌؕ‏
+arabic_ayat: إِنۡ أَنَا۠ إِلَّا نَذِيرٞ مُّبِينٞ
 sentence_translation: I am only sent with a clear warning.”
 word_by_word:
   1:
-    arabic: اِنۡ
+    arabic: إِنۡ
     translation: Not
     transliteration: in
   2:
-    arabic: اَنَا
+    arabic: أَنَا۠
     translation: I am
     transliteration: anā
   3:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: but
     transliteration: illā
   4:
-    arabic: نَذِيۡرٌ
+    arabic: نَذِيرٞ
     translation: a warner
     transliteration: nadhīrun
   5:
-    arabic: مُّبِيۡنٌؕ‏
+    arabic: مُّبِينٞ
     translation: clear
     transliteration: mubīnun
 ---

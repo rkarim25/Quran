@@ -1,6 +1,6 @@
 ---
-arabic_ayat: قُلِ ادۡعُوا الَّذِيۡنَ زَعَمۡتُمۡ مِّنۡ دُوۡنِهٖ فَلَا يَمۡلِكُوۡنَ
-  كَشۡفَ الضُّرِّ عَنۡكُمۡ وَلَا تَحۡوِيۡلًا‏
+arabic_ayat: قُلِ ٱدۡعُواْ ٱلَّذِينَ زَعَمۡتُم مِّن دُونِهِۦ فَلَا يَمۡلِكُونَ كَشۡفَ
+  ٱلضُّرِّ عَنكُمۡ وَلَا تَحۡوِيلًا
 sentence_translation: Say, ˹O Prophet,˺ “Invoke those you claim ˹to be divine˺ besides
   Him—they do not have the power to undo harm from you or transfer it ˹to someone
   else˺.”
@@ -10,23 +10,23 @@ word_by_word:
     translation: Say
     transliteration: quli
   2:
-    arabic: ادۡعُوا
+    arabic: ٱدۡعُواْ
     translation: Call
     transliteration: id'ʿū
   3:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those whom
     transliteration: alladhīna
   4:
-    arabic: زَعَمۡتُمۡ
+    arabic: زَعَمۡتُم
     translation: you claimed
     transliteration: zaʿamtum
   5:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: besides Him
     transliteration: min
   6:
-    arabic: دُوۡنِهٖ
+    arabic: دُونِهِۦ
     translation: besides Him
     transliteration: dūnihi
   7:
@@ -34,7 +34,7 @@ word_by_word:
     translation: '[then] not'
     transliteration: falā
   8:
-    arabic: يَمۡلِكُوۡنَ
+    arabic: يَمۡلِكُونَ
     translation: they have power
     transliteration: yamlikūna
   9:
@@ -42,11 +42,11 @@ word_by_word:
     translation: (to) remove
     transliteration: kashfa
   10:
-    arabic: الضُّرِّ
+    arabic: ٱلضُّرِّ
     translation: the misfortunes
     transliteration: l-ḍuri
   11:
-    arabic: عَنۡكُمۡ
+    arabic: عَنكُمۡ
     translation: from you
     transliteration: ʿankum
   12:
@@ -54,7 +54,7 @@ word_by_word:
     translation: and not
     transliteration: walā
   13:
-    arabic: تَحۡوِيۡلًا‏
+    arabic: تَحۡوِيلًا
     translation: (to) transfer (it)
     transliteration: taḥwīlan
 ---

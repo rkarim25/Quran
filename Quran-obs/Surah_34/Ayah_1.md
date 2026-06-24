@@ -1,24 +1,24 @@
 ---
-arabic_ayat: اَلۡحَمۡدُ لِلّٰهِ الَّذِىۡ لَهٗ مَا فِى السَّمٰوٰتِ وَمَا فِى الۡاَرۡضِ
-  وَلَـهُ الۡحَمۡدُ فِى الۡاٰخِرَةِ ؕ وَهُوَ الۡحَكِيۡمُ الۡخَبِيۡرُ‏
+arabic_ayat: ٱلۡحَمۡدُ لِلَّهِ ٱلَّذِي لَهُۥ مَا فِي ٱلسَّمَٰوَٰتِ وَمَا فِي ٱلۡأَرۡضِ
+  وَلَهُ ٱلۡحَمۡدُ فِي ٱلۡأٓخِرَةِۚ وَهُوَ ٱلۡحَكِيمُ ٱلۡخَبِيرُ
 sentence_translation: All praise is for Allah, to Whom belongs whatever is in the
   heavens and whatever is on the earth. And praise be to Him in the Hereafter. He
   is the All-Wise, All-Aware.
 word_by_word:
   1:
-    arabic: اَلۡحَمۡدُ
+    arabic: ٱلۡحَمۡدُ
     translation: All praises
     transliteration: al-ḥamdu
   2:
-    arabic: لِلّٰهِ
+    arabic: لِلَّهِ
     translation: (be) to Allah
     transliteration: lillahi
   3:
-    arabic: الَّذِىۡ
+    arabic: ٱلَّذِي
     translation: the One to Whom belongs
     transliteration: alladhī
   4:
-    arabic: لَهٗ
+    arabic: لَهُۥ
     translation: the One to Whom belongs
     transliteration: lahu
   5:
@@ -26,11 +26,11 @@ word_by_word:
     translation: whatever
     transliteration: mā
   6:
-    arabic: فِى
+    arabic: فِي
     translation: (is) in
     transliteration: fī
   7:
-    arabic: السَّمٰوٰتِ
+    arabic: ٱلسَّمَٰوَٰتِ
     translation: the heavens
     transliteration: l-samāwāti
   8:
@@ -38,27 +38,27 @@ word_by_word:
     translation: and whatever
     transliteration: wamā
   9:
-    arabic: فِى
+    arabic: فِي
     translation: (is) in
     transliteration: fī
   10:
-    arabic: الۡاَرۡضِ
+    arabic: ٱلۡأَرۡضِ
     translation: the earth
     transliteration: l-arḍi
   11:
-    arabic: وَلَـهُ
+    arabic: وَلَهُ
     translation: and for Him
     transliteration: walahu
   12:
-    arabic: الۡحَمۡدُ
+    arabic: ٱلۡحَمۡدُ
     translation: (are) all praises
     transliteration: l-ḥamdu
   13:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   14:
-    arabic: الۡاٰخِرَةِ ؕ
+    arabic: ٱلۡأٓخِرَةِۚ
     translation: the Hereafter
     transliteration: l-ākhirati
   15:
@@ -66,11 +66,11 @@ word_by_word:
     translation: And He
     transliteration: wahuwa
   16:
-    arabic: الۡحَكِيۡمُ
+    arabic: ٱلۡحَكِيمُ
     translation: (is) the All-Wise
     transliteration: l-ḥakīmu
   17:
-    arabic: الۡخَبِيۡرُ‏
+    arabic: ٱلۡخَبِيرُ
     translation: the All-Aware
     transliteration: l-khabīru
 ---

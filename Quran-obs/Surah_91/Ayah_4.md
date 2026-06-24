@@ -1,17 +1,17 @@
 ---
-arabic_ayat: وَالَّيۡلِ اِذَا يَغۡشٰٮهَا ۙ‏
+arabic_ayat: وَٱلَّيۡلِ إِذَا يَغۡشَىٰهَا
 sentence_translation: and the night as it conceals it!
 word_by_word:
   1:
-    arabic: وَالَّيۡلِ
+    arabic: وَٱلَّيۡلِ
     translation: And the night
     transliteration: wa-al-layli
   2:
-    arabic: اِذَا
+    arabic: إِذَا
     translation: when
     transliteration: idhā
   3:
-    arabic: يَغۡشٰٮهَا ۙ‏
+    arabic: يَغۡشَىٰهَا
     translation: it covers it
     transliteration: yaghshāhā
 ---

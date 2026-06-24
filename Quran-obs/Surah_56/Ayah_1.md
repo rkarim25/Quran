@@ -1,9 +1,9 @@
 ---
-arabic_ayat: اِذَا وَقَعَتِ الۡوَاقِعَةُ ۙ‏
+arabic_ayat: إِذَا وَقَعَتِ ٱلۡوَاقِعَةُ
 sentence_translation: When the Inevitable Event takes place,
 word_by_word:
   1:
-    arabic: اِذَا
+    arabic: إِذَا
     translation: When
     transliteration: idhā
   2:
@@ -11,7 +11,7 @@ word_by_word:
     translation: occurs
     transliteration: waqaʿati
   3:
-    arabic: الۡوَاقِعَةُ ۙ‏
+    arabic: ٱلۡوَاقِعَةُ
     translation: the Event
     transliteration: l-wāqiʿatu
 ---

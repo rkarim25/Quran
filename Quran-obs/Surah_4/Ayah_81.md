@@ -1,26 +1,26 @@
 ---
-arabic_ayat: وَيَقُوۡلُوۡنَ طَاعَةٌ فَاِذَا بَرَزُوۡا مِنۡ عِنۡدِكَ بَيَّتَ طَآٮِٕفَةٌ
-  مِّنۡهُمۡ غَيۡرَ الَّذِىۡ تَقُوۡلُ​ ؕ وَاللّٰهُ يَكۡتُبُ مَا يُبَيِّتُوۡنَ​ ۚ فَاَعۡرِضۡ
-  عَنۡهُمۡ وَتَوَكَّلۡ عَلَى اللّٰهِ​ ؕ وَكَفٰى بِاللّٰهِ وَكِيۡلًا‏
+arabic_ayat: وَيَقُولُونَ طَاعَةٞ فَإِذَا بَرَزُواْ مِنۡ عِندِكَ بَيَّتَ طَآئِفَةٞ
+  مِّنۡهُمۡ غَيۡرَ ٱلَّذِي تَقُولُۖ وَٱللَّهُ يَكۡتُبُ مَا يُبَيِّتُونَۖ فَأَعۡرِضۡ
+  عَنۡهُمۡ وَتَوَكَّلۡ عَلَى ٱللَّهِۚ وَكَفَىٰ بِٱللَّهِ وَكِيلًا
 sentence_translation: And they say, “We obey,” but when they leave you, a group of
   them would spend the night contradicting what they said. Allah records all their
   schemes. So turn away from them, and put your trust in Allah. And Allah is sufficient
   as a Trustee of Affairs.
 word_by_word:
   1:
-    arabic: وَيَقُوۡلُوۡنَ
+    arabic: وَيَقُولُونَ
     translation: And they say
     transliteration: wayaqūlūna
   2:
-    arabic: طَاعَةٌ
+    arabic: طَاعَةٞ
     translation: (We pledge) obedience
     transliteration: ṭāʿatun
   3:
-    arabic: فَاِذَا
+    arabic: فَإِذَا
     translation: Then when
     transliteration: fa-idhā
   4:
-    arabic: بَرَزُوۡا
+    arabic: بَرَزُواْ
     translation: they leave
     transliteration: barazū
   5:
@@ -28,7 +28,7 @@ word_by_word:
     translation: from
     transliteration: min
   6:
-    arabic: عِنۡدِكَ
+    arabic: عِندِكَ
     translation: you
     transliteration: ʿindika
   7:
@@ -36,7 +36,7 @@ word_by_word:
     translation: plan by night
     transliteration: bayyata
   8:
-    arabic: طَآٮِٕفَةٌ
+    arabic: طَآئِفَةٞ
     translation: a group
     transliteration: ṭāifatun
   9:
@@ -48,15 +48,15 @@ word_by_word:
     translation: other than
     transliteration: ghayra
   11:
-    arabic: الَّذِىۡ
+    arabic: ٱلَّذِي
     translation: that which
     transliteration: alladhī
   12:
-    arabic: تَقُوۡلُ​ ؕ
+    arabic: تَقُولُۖ
     translation: you say
     transliteration: taqūlu
   13:
-    arabic: وَاللّٰهُ
+    arabic: وَٱللَّهُ
     translation: But Allah
     transliteration: wal-lahu
   14:
@@ -68,11 +68,11 @@ word_by_word:
     translation: what
     transliteration: mā
   16:
-    arabic: يُبَيِّتُوۡنَ​ ۚ
+    arabic: يُبَيِّتُونَۖ
     translation: they plan by night
     transliteration: yubayyitūna
   17:
-    arabic: فَاَعۡرِضۡ
+    arabic: فَأَعۡرِضۡ
     translation: So turn (away)
     transliteration: fa-aʿriḍ
   18:
@@ -88,19 +88,19 @@ word_by_word:
     translation: in
     transliteration: ʿalā
   21:
-    arabic: اللّٰهِ​ ؕ
+    arabic: ٱللَّهِۚ
     translation: Allah
     transliteration: l-lahi
   22:
-    arabic: وَكَفٰى
+    arabic: وَكَفَىٰ
     translation: And sufficient
     transliteration: wakafā
   23:
-    arabic: بِاللّٰهِ
+    arabic: بِٱللَّهِ
     translation: is Allah
     transliteration: bil-lahi
   24:
-    arabic: وَكِيۡلًا‏
+    arabic: وَكِيلًا
     translation: (as) a Trustee
     transliteration: wakīlan
 ---

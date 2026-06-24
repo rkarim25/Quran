@@ -1,45 +1,44 @@
 ---
-arabic_ayat: "يٰبَنِىۡۤ اٰدَمَ اِمَّا يَاۡتِيَنَّكُمۡ رُسُلٌ مِّنۡكُمۡ يَقُصُّوۡنَ\
-  \ عَلَيۡكُمۡ اٰيٰتِىۡ​ۙ فَمَنِ اتَّقٰى وَاَصۡلَحَ فَلَا خَوۡفٌ عَلَيۡهِمۡ وَلَا\
-  \ هُمۡ يَحۡزَنُوۡنَ‏ \uFEFF\uFEFF"
+arabic_ayat: يَٰبَنِيٓ ءَادَمَ إِمَّا يَأۡتِيَنَّكُمۡ رُسُلٞ مِّنكُمۡ يَقُصُّونَ عَلَيۡكُمۡ
+  ءَايَٰتِي فَمَنِ ٱتَّقَىٰ وَأَصۡلَحَ فَلَا خَوۡفٌ عَلَيۡهِمۡ وَلَا هُمۡ يَحۡزَنُونَ
 sentence_translation: O children of Adam! When messengers from among yourselves come
   to you reciting My revelations—whoever shuns evil and mends their ways, there will
   be no fear for them, nor will they grieve.
 word_by_word:
   1:
-    arabic: يٰبَنِىۡۤ
+    arabic: يَٰبَنِيٓ ءَ
     translation: O Children
     transliteration: yābanī
   2:
-    arabic: اٰدَمَ
+    arabic: ادَمَ
     translation: (of) Adam
     transliteration: ādama
   3:
-    arabic: اِمَّا
+    arabic: إِمَّا
     translation: If
     transliteration: immā
   4:
-    arabic: يَاۡتِيَنَّكُمۡ
+    arabic: يَأۡتِيَنَّكُمۡ
     translation: come to you
     transliteration: yatiyannakum
   5:
-    arabic: رُسُلٌ
+    arabic: رُسُلٞ
     translation: Messengers
     transliteration: rusulun
   6:
-    arabic: مِّنۡكُمۡ
+    arabic: مِّنكُمۡ
     translation: from you
     transliteration: minkum
   7:
-    arabic: يَقُصُّوۡنَ
+    arabic: يَقُصُّونَ
     translation: relating
     transliteration: yaquṣṣūna
   8:
-    arabic: عَلَيۡكُمۡ
+    arabic: عَلَيۡكُمۡ ءَ
     translation: to you
     transliteration: ʿalaykum
   9:
-    arabic: اٰيٰتِىۡ​ۙ
+    arabic: ايَٰتِي
     translation: My Verses
     transliteration: āyātī
   10:
@@ -47,11 +46,11 @@ word_by_word:
     translation: then whoever
     transliteration: famani
   11:
-    arabic: اتَّقٰى
+    arabic: ٱتَّقَىٰ
     translation: fears Allah
     transliteration: ittaqā
   12:
-    arabic: وَاَصۡلَحَ
+    arabic: وَأَصۡلَحَ
     translation: and reforms
     transliteration: wa-aṣlaḥa
   13:
@@ -75,7 +74,7 @@ word_by_word:
     translation: they
     transliteration: hum
   18:
-    arabic: "يَحۡزَنُوۡنَ‏ \uFEFF\uFEFF"
+    arabic: يَحۡزَنُونَ
     translation: will grieve
     transliteration: yaḥzanūna
 ---

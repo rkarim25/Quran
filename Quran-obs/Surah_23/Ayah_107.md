@@ -1,14 +1,14 @@
 ---
-arabic_ayat: رَبَّنَاۤ اَخۡرِجۡنَا مِنۡهَا فَاِنۡ عُدۡنَا فَاِنَّا ظٰلِمُوۡنَ‏
+arabic_ayat: رَبَّنَآ أَخۡرِجۡنَا مِنۡهَا فَإِنۡ عُدۡنَا فَإِنَّا ظَٰلِمُونَ
 sentence_translation: Our Lord! Take us out of this ˹Fire˺. Then if we ever return
   ˹to denial˺, we will truly be wrongdoers.”
 word_by_word:
   1:
-    arabic: رَبَّنَاۤ
+    arabic: رَبَّنَآ
     translation: Our Lord
     transliteration: rabbanā
   2:
-    arabic: اَخۡرِجۡنَا
+    arabic: أَخۡرِجۡنَا
     translation: Bring us out
     transliteration: akhrij'nā
   3:
@@ -16,7 +16,7 @@ word_by_word:
     translation: from it
     transliteration: min'hā
   4:
-    arabic: فَاِنۡ
+    arabic: فَإِنۡ
     translation: then if
     transliteration: fa-in
   5:
@@ -24,11 +24,11 @@ word_by_word:
     translation: we return
     transliteration: ʿud'nā
   6:
-    arabic: فَاِنَّا
+    arabic: فَإِنَّا
     translation: then indeed, we
     transliteration: fa-innā
   7:
-    arabic: ظٰلِمُوۡنَ‏
+    arabic: ظَٰلِمُونَ
     translation: (would be) wrongdoers
     transliteration: ẓālimūna
 ---

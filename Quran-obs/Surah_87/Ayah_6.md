@@ -1,5 +1,5 @@
 ---
-arabic_ayat: سَنُقۡرِئُكَ فَلَا تَنۡسٰٓىۙ‏
+arabic_ayat: سَنُقۡرِئُكَ فَلَا تَنسَىٰٓ
 sentence_translation: We will have you recite ˹the Quran, O  Prophet,˺ so you will
   not forget ˹any of it˺,
 word_by_word:
@@ -12,7 +12,7 @@ word_by_word:
     translation: so not
     transliteration: falā
   3:
-    arabic: تَنۡسٰٓىۙ‏
+    arabic: تَنسَىٰٓ
     translation: you will forget
     transliteration: tansā
 ---

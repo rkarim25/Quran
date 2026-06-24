@@ -1,5 +1,5 @@
 ---
-arabic_ayat: ثُمَّ اَغۡرَقۡنَا بَعۡدُ الۡبٰقِيۡنَؕ‏
+arabic_ayat: ثُمَّ أَغۡرَقۡنَا بَعۡدُ ٱلۡبَاقِينَ
 sentence_translation: Then afterwards We drowned the rest.
 word_by_word:
   1:
@@ -7,7 +7,7 @@ word_by_word:
     translation: Then
     transliteration: thumma
   2:
-    arabic: اَغۡرَقۡنَا
+    arabic: أَغۡرَقۡنَا
     translation: We drowned
     transliteration: aghraqnā
   3:
@@ -15,7 +15,7 @@ word_by_word:
     translation: thereafter
     transliteration: baʿdu
   4:
-    arabic: الۡبٰقِيۡنَؕ‏
+    arabic: ٱلۡبَاقِينَ
     translation: the remaining ones
     transliteration: l-bāqīna
 ---

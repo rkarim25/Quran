@@ -1,27 +1,26 @@
 ---
-arabic_ayat: "يَّخۡتَصُّ بِرَحۡمَتِهٖ مَنۡ يَّشَآءُ ​ؕ وَاللّٰهُ ذُو الۡفَضۡلِ الۡعَظِيۡمِ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: يَخۡتَصُّ بِرَحۡمَتِهِۦ مَن يَشَآءُۗ وَٱللَّهُ ذُو ٱلۡفَضۡلِ ٱلۡعَظِيمِ
 sentence_translation: He chooses whoever He wills to receive His mercy. And Allah
   is the Lord of infinite bounty.
 word_by_word:
   1:
-    arabic: يَّخۡتَصُّ
+    arabic: يَخۡتَصُّ
     translation: He chooses
     transliteration: yakhtaṣṣu
   2:
-    arabic: بِرَحۡمَتِهٖ
+    arabic: بِرَحۡمَتِهِۦ
     translation: for His Mercy
     transliteration: biraḥmatihi
   3:
-    arabic: مَنۡ
+    arabic: مَن
     translation: whom
     transliteration: man
   4:
-    arabic: يَّشَآءُ ​ؕ
+    arabic: يَشَآءُۗ
     translation: He wills
     transliteration: yashāu
   5:
-    arabic: وَاللّٰهُ
+    arabic: وَٱللَّهُ
     translation: And Allah
     transliteration: wal-lahu
   6:
@@ -29,11 +28,11 @@ word_by_word:
     translation: (is) the Possessor
     transliteration: dhū
   7:
-    arabic: الۡفَضۡلِ
+    arabic: ٱلۡفَضۡلِ
     translation: '(of) Bounty '
     transliteration: l-faḍli
   8:
-    arabic: "الۡعَظِيۡمِ‏ \uFEFF\uFEFF"
+    arabic: ٱلۡعَظِيمِ
     translation: '[the] great'
     transliteration: l-ʿaẓīmi
 ---

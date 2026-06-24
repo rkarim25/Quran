@@ -1,7 +1,7 @@
 ---
-arabic_ayat: لَا تَقُمۡ فِيۡهِ اَبَدًا ​ؕ لَمَسۡجِدٌ اُسِّسَ عَلَى التَّقۡوٰى مِنۡ
-  اَوَّلِ يَوۡمٍ اَحَقُّ اَنۡ تَقُوۡمَ فِيۡهِ​ؕ فِيۡهِ رِجَالٌ يُّحِبُّوۡنَ اَنۡ يَّتَطَهَّرُوۡا
-  ​ؕ وَاللّٰهُ يُحِبُّ الۡمُطَّهِّرِيۡنَ‏
+arabic_ayat: لَا تَقُمۡ فِيهِ أَبَدٗاۚ لَّمَسۡجِدٌ أُسِّسَ عَلَى ٱلتَّقۡوَىٰ مِنۡ
+  أَوَّلِ يَوۡمٍ أَحَقُّ أَن تَقُومَ فِيهِۚ فِيهِ رِجَالٞ يُحِبُّونَ أَن يَتَطَهَّرُواْۚ
+  وَٱللَّهُ يُحِبُّ ٱلۡمُطَّهِّرِينَ
 sentence_translation: Do not ˹O Prophet˺ ever pray in it. Certainly, a mosque founded
   on righteousness from the first day is more worthy of your prayers. In it are men
   who love to be purified. And Allah loves those who purify themselves.
@@ -15,19 +15,19 @@ word_by_word:
     translation: stand
     transliteration: taqum
   3:
-    arabic: فِيۡهِ
+    arabic: فِيهِ
     translation: in it
     transliteration: fīhi
   4:
-    arabic: اَبَدًا ​ؕ
+    arabic: أَبَدٗاۚ
     translation: ever
     transliteration: abadan
   5:
-    arabic: لَمَسۡجِدٌ
+    arabic: لَّمَسۡجِدٌ
     translation: A masjid
     transliteration: lamasjidun
   6:
-    arabic: اُسِّسَ
+    arabic: أُسِّسَ
     translation: founded
     transliteration: ussisa
   7:
@@ -35,7 +35,7 @@ word_by_word:
     translation: 'on'
     transliteration: ʿalā
   8:
-    arabic: التَّقۡوٰى
+    arabic: ٱلتَّقۡوَىٰ
     translation: the righteousness
     transliteration: l-taqwā
   9:
@@ -43,7 +43,7 @@ word_by_word:
     translation: from
     transliteration: min
   10:
-    arabic: اَوَّلِ
+    arabic: أَوَّلِ
     translation: (the) first
     transliteration: awwali
   11:
@@ -51,43 +51,43 @@ word_by_word:
     translation: day
     transliteration: yawmin
   12:
-    arabic: اَحَقُّ
+    arabic: أَحَقُّ
     translation: (is) more worthy
     transliteration: aḥaqqu
   13:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that
     transliteration: an
   14:
-    arabic: تَقُوۡمَ
+    arabic: تَقُومَ
     translation: you stand
     transliteration: taqūma
   15:
-    arabic: فِيۡهِ​ؕ
+    arabic: فِيهِۚ
     translation: in it
     transliteration: fīhi
   16:
-    arabic: فِيۡهِ
+    arabic: فِيهِ
     translation: Within it
     transliteration: fīhi
   17:
-    arabic: رِجَالٌ
+    arabic: رِجَالٞ
     translation: (are) men
     transliteration: rijālun
   18:
-    arabic: يُّحِبُّوۡنَ
+    arabic: يُحِبُّونَ
     translation: who love
     transliteration: yuḥibbūna
   19:
-    arabic: اَنۡ
+    arabic: أَن
     translation: to
     transliteration: an
   20:
-    arabic: يَّتَطَهَّرُوۡا ​ؕ
+    arabic: يَتَطَهَّرُواْۚ
     translation: purify themselves
     transliteration: yataṭahharū
   21:
-    arabic: وَاللّٰهُ
+    arabic: وَٱللَّهُ
     translation: and Allah
     transliteration: wal-lahu
   22:
@@ -95,7 +95,7 @@ word_by_word:
     translation: loves
     transliteration: yuḥibbu
   23:
-    arabic: الۡمُطَّهِّرِيۡنَ‏
+    arabic: ٱلۡمُطَّهِّرِينَ
     translation: the ones who purify themselves
     transliteration: l-muṭahirīna
 ---

@@ -1,6 +1,6 @@
 ---
-arabic_ayat: وَلَقَدۡ خَلَقۡنَا السَّمٰوٰتِ وَالۡاَرۡضَ وَمَا بَيۡنَهُمَا فِىۡ سِتَّةِ
-  اَيَّامٍ​ۖ وَّمَا مَسَّنَا مِنۡ لُّغُوۡبٍ‏
+arabic_ayat: وَلَقَدۡ خَلَقۡنَا ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضَ وَمَا بَيۡنَهُمَا فِي سِتَّةِ
+  أَيَّامٖ وَمَا مَسَّنَا مِن لُّغُوبٖ
 sentence_translation: Indeed, We created the heavens and the earth and everything
   in between in six Days, and We were not ˹even˺ touched with fatigue.
 word_by_word:
@@ -13,11 +13,11 @@ word_by_word:
     translation: We created
     transliteration: khalaqnā
   3:
-    arabic: السَّمٰوٰتِ
+    arabic: ٱلسَّمَٰوَٰتِ
     translation: the heavens
     transliteration: l-samāwāti
   4:
-    arabic: وَالۡاَرۡضَ
+    arabic: وَٱلۡأَرۡضَ
     translation: and the earth
     transliteration: wal-arḍa
   5:
@@ -29,7 +29,7 @@ word_by_word:
     translation: (is) between both of them
     transliteration: baynahumā
   7:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   8:
@@ -37,11 +37,11 @@ word_by_word:
     translation: six
     transliteration: sittati
   9:
-    arabic: اَيَّامٍ​ۖ
+    arabic: أَيَّامٖ
     translation: periods
     transliteration: ayyāmin
   10:
-    arabic: وَّمَا
+    arabic: وَمَا
     translation: and (did) not
     transliteration: wamā
   11:
@@ -49,11 +49,11 @@ word_by_word:
     translation: touch Us
     transliteration: massanā
   12:
-    arabic: مِنۡ
+    arabic: مِن
     translation: any
     transliteration: min
   13:
-    arabic: لُّغُوۡبٍ‏
+    arabic: لُّغُوبٖ
     translation: fatigue
     transliteration: lughūbin
 ---

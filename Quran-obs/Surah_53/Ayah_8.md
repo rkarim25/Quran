@@ -1,5 +1,5 @@
 ---
-arabic_ayat: ثُمَّ دَنَا فَتَدَلّٰىۙ‏
+arabic_ayat: ثُمَّ دَنَا فَتَدَلَّىٰ
 sentence_translation: then he approached ˹the Prophet˺, coming so close
 word_by_word:
   1:
@@ -11,7 +11,7 @@ word_by_word:
     translation: he approached
     transliteration: danā
   3:
-    arabic: فَتَدَلّٰىۙ‏
+    arabic: فَتَدَلَّىٰ
     translation: and came down
     transliteration: fatadallā
 ---

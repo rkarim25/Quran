@@ -1,16 +1,16 @@
 ---
-arabic_ayat: اَلَيۡسَ اللّٰهُ بِكَافٍ عَبۡدَهٗ​ ؕ وَيُخَوِّفُوۡنَكَ بِالَّذِيۡنَ مِنۡ
-  دُوۡنِهٖ​ ؕ وَمَنۡ يُّضۡلِلِ اللّٰهُ فَمَا لَهٗ مِنۡ هَادٍ​ ۚ‏
+arabic_ayat: أَلَيۡسَ ٱللَّهُ بِكَافٍ عَبۡدَهُۥۖ وَيُخَوِّفُونَكَ بِٱلَّذِينَ مِن
+  دُونِهِۦۚ وَمَن يُضۡلِلِ ٱللَّهُ فَمَا لَهُۥ مِنۡ هَادٖ
 sentence_translation: Is Allah not sufficient for His servant? Yet they threaten you
   with other ˹powerless˺ gods besides Him! Whoever Allah leaves to stray will be left
   with no guide.
 word_by_word:
   1:
-    arabic: اَلَيۡسَ
+    arabic: أَلَيۡسَ
     translation: Is not
     transliteration: alaysa
   2:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   3:
@@ -18,35 +18,35 @@ word_by_word:
     translation: sufficient
     transliteration: bikāfin
   4:
-    arabic: عَبۡدَهٗ​ ؕ
+    arabic: عَبۡدَهُۥۖ
     translation: (for) His slave
     transliteration: ʿabdahu
   5:
-    arabic: وَيُخَوِّفُوۡنَكَ
+    arabic: وَيُخَوِّفُونَكَ
     translation: And they threaten you
     transliteration: wayukhawwifūnaka
   6:
-    arabic: بِالَّذِيۡنَ
+    arabic: بِٱلَّذِينَ
     translation: with those
     transliteration: bi-alladhīna
   7:
-    arabic: مِنۡ
+    arabic: مِن
     translation: besides Him
     transliteration: min
   8:
-    arabic: دُوۡنِهٖ​ ؕ
+    arabic: دُونِهِۦۚ
     translation: besides Him
     transliteration: dūnihi
   9:
-    arabic: وَمَنۡ
+    arabic: وَمَن
     translation: And whoever
     transliteration: waman
   10:
-    arabic: يُّضۡلِلِ
+    arabic: يُضۡلِلِ
     translation: 'Allah lets go astray '
     transliteration: yuḍ'lili
   11:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: 'Allah lets go astray '
     transliteration: l-lahu
   12:
@@ -54,7 +54,7 @@ word_by_word:
     translation: then not
     transliteration: famā
   13:
-    arabic: لَهٗ
+    arabic: لَهُۥ
     translation: for him
     transliteration: lahu
   14:
@@ -62,7 +62,7 @@ word_by_word:
     translation: any
     transliteration: min
   15:
-    arabic: هَادٍ​ ۚ‏
+    arabic: هَادٖ
     translation: guide
     transliteration: hādin
 ---

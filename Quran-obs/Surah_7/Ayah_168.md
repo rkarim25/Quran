@@ -1,33 +1,32 @@
 ---
-arabic_ayat: "وَقَطَّعۡنٰهُمۡ فِى الۡاَرۡضِ اُمَمًا​ ۚ مِنۡهُمُ الصّٰلِحُوۡنَ وَمِنۡهُمۡ\
-  \ دُوۡنَ ذٰ لِكَ​ وَبَلَوۡنٰهُمۡ بِالۡحَسَنٰتِ وَالسَّيِّاٰتِ لَعَلَّهُمۡ يَرۡجِعُوۡنَ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: وَقَطَّعۡنَٰهُمۡ فِي ٱلۡأَرۡضِ أُمَمٗاۖ مِّنۡهُمُ ٱلصَّٰلِحُونَ وَمِنۡهُمۡ
+  دُونَ ذَٰلِكَۖ وَبَلَوۡنَٰهُم بِٱلۡحَسَنَٰتِ وَٱلسَّيِّـَٔاتِ لَعَلَّهُمۡ يَرۡجِعُونَ
 sentence_translation: We dispersed them through the land in groups—some were righteous,
   others were less so. We tested them with prosperity and adversity, so perhaps they
   would return ˹to the Right Path˺.
 word_by_word:
   1:
-    arabic: وَقَطَّعۡنٰهُمۡ
+    arabic: وَقَطَّعۡنَٰهُمۡ
     translation: And We divided them
     transliteration: waqaṭṭaʿnāhum
   2:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   3:
-    arabic: الۡاَرۡضِ
+    arabic: ٱلۡأَرۡضِ
     translation: the earth
     transliteration: l-arḍi
   4:
-    arabic: اُمَمًا​ ۚ
+    arabic: أُمَمٗاۖ
     translation: (as) nations
     transliteration: umaman
   5:
-    arabic: مِنۡهُمُ
+    arabic: مِّنۡهُمُ
     translation: Among them
     transliteration: min'humu
   6:
-    arabic: الصّٰلِحُوۡنَ
+    arabic: ٱلصَّٰلِحُونَ
     translation: (are) the righteous
     transliteration: l-ṣāliḥūna
   7:
@@ -35,23 +34,23 @@ word_by_word:
     translation: and among them
     transliteration: wamin'hum
   8:
-    arabic: دُوۡنَ
+    arabic: دُونَ
     translation: (are) other than
     transliteration: dūna
   9:
-    arabic: ذٰ لِكَ​
+    arabic: ذَٰلِكَۖ
     translation: that
     transliteration: dhālika
   10:
-    arabic: وَبَلَوۡنٰهُمۡ
+    arabic: وَبَلَوۡنَٰهُم
     translation: And We tested them
     transliteration: wabalawnāhum
   11:
-    arabic: بِالۡحَسَنٰتِ
+    arabic: بِٱلۡحَسَنَٰتِ
     translation: with the good
     transliteration: bil-ḥasanāti
   12:
-    arabic: وَالسَّيِّاٰتِ
+    arabic: وَٱلسَّيِّـَٔاتِ
     translation: and the bad
     transliteration: wal-sayiāti
   13:
@@ -59,7 +58,7 @@ word_by_word:
     translation: so that they may
     transliteration: laʿallahum
   14:
-    arabic: "يَرۡجِعُوۡنَ‏ \uFEFF\uFEFF"
+    arabic: يَرۡجِعُونَ
     translation: return
     transliteration: yarjiʿūna
 ---

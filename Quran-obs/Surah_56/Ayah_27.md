@@ -1,25 +1,25 @@
 ---
-arabic_ayat: وَاَصۡحٰبُ الۡيَمِيۡنِ ۙ مَاۤ اَصۡحٰبُ الۡيَمِيۡنِؕ‏
+arabic_ayat: وَأَصۡحَٰبُ ٱلۡيَمِينِ مَآ أَصۡحَٰبُ ٱلۡيَمِينِ
 sentence_translation: And the people of the right—how ˹blessed˺ will they be!
 word_by_word:
   1:
-    arabic: وَاَصۡحٰبُ
+    arabic: وَأَصۡحَٰبُ
     translation: And (the) companions
     transliteration: wa-aṣḥābu
   2:
-    arabic: الۡيَمِيۡنِ ۙ
+    arabic: ٱلۡيَمِينِ
     translation: (of) the right
     transliteration: l-yamīni
   3:
-    arabic: مَاۤ
+    arabic: مَآ
     translation: what
     transliteration: mā
   4:
-    arabic: اَصۡحٰبُ
+    arabic: أَصۡحَٰبُ
     translation: (are the) companions
     transliteration: aṣḥābu
   5:
-    arabic: الۡيَمِيۡنِؕ‏
+    arabic: ٱلۡيَمِينِ
     translation: (of) the right
     transliteration: l-yamīni
 ---

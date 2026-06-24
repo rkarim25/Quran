@@ -1,13 +1,13 @@
 ---
-arabic_ayat: وَاِنۡ خِفۡتُمۡ شِقَاقَ بَيۡنِهِمَا فَابۡعَثُوۡا حَكَمًا مِّنۡ اَهۡلِهٖ
-  وَحَكَمًا مِّنۡ اَهۡلِهَا​ ۚ اِنۡ يُّرِيۡدَاۤ اِصۡلَاحًا يُّوَفِّـقِ اللّٰهُ بَيۡنَهُمَا​
-  ؕ اِنَّ اللّٰهَ كَانَ عَلِيۡمًا خَبِيۡرًا‏
+arabic_ayat: وَإِنۡ خِفۡتُمۡ شِقَاقَ بَيۡنِهِمَا فَٱبۡعَثُواْ حَكَمٗا مِّنۡ أَهۡلِهِۦ
+  وَحَكَمٗا مِّنۡ أَهۡلِهَآ إِن يُرِيدَآ إِصۡلَٰحٗا يُوَفِّقِ ٱللَّهُ بَيۡنَهُمَآۗ
+  إِنَّ ٱللَّهَ كَانَ عَلِيمًا خَبِيرٗا
 sentence_translation: If you anticipate a split between them, appoint a mediator from
   his family and another from hers. If they desire reconciliation, Allah will restore
   harmony between them. Surely Allah is All-Knowing, All-Aware.
 word_by_word:
   1:
-    arabic: وَاِنۡ
+    arabic: وَإِنۡ
     translation: And if
     transliteration: wa-in
   2:
@@ -23,11 +23,11 @@ word_by_word:
     translation: between (the) two of them
     transliteration: baynihimā
   5:
-    arabic: فَابۡعَثُوۡا
+    arabic: فَٱبۡعَثُواْ
     translation: then send
     transliteration: fa-ib'ʿathū
   6:
-    arabic: حَكَمًا
+    arabic: حَكَمٗا
     translation: an arbitrator
     transliteration: ḥakaman
   7:
@@ -35,11 +35,11 @@ word_by_word:
     translation: from
     transliteration: min
   8:
-    arabic: اَهۡلِهٖ
+    arabic: أَهۡلِهِۦ
     translation: his family
     transliteration: ahlihi
   9:
-    arabic: وَحَكَمًا
+    arabic: وَحَكَمٗا
     translation: and an arbitrator
     transliteration: waḥakaman
   10:
@@ -47,39 +47,39 @@ word_by_word:
     translation: from
     transliteration: min
   11:
-    arabic: اَهۡلِهَا​ ۚ
+    arabic: أَهۡلِهَآ
     translation: her family
     transliteration: ahlihā
   12:
-    arabic: اِنۡ
+    arabic: إِن
     translation: If
     transliteration: in
   13:
-    arabic: يُّرِيۡدَاۤ
+    arabic: يُرِيدَآ
     translation: they both wish
     transliteration: yurīdā
   14:
-    arabic: اِصۡلَاحًا
+    arabic: إِصۡلَٰحٗا
     translation: reconciliation
     transliteration: iṣ'lāḥan
   15:
-    arabic: يُّوَفِّـقِ
+    arabic: يُوَفِّقِ
     translation: will cause reconciliation
     transliteration: yuwaffiqi
   16:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   17:
-    arabic: بَيۡنَهُمَا​ ؕ
+    arabic: بَيۡنَهُمَآۗ
     translation: between both of them
     transliteration: baynahumā
   18:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   19:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   20:
@@ -87,11 +87,11 @@ word_by_word:
     translation: is
     transliteration: kāna
   21:
-    arabic: عَلِيۡمًا
+    arabic: عَلِيمًا
     translation: All-Knower
     transliteration: ʿalīman
   22:
-    arabic: خَبِيۡرًا‏
+    arabic: خَبِيرٗا
     translation: All-Aware
     transliteration: khabīran
 ---

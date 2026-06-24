@@ -1,5 +1,5 @@
 ---
-arabic_ayat: عَنِ الۡمُجۡرِمِيۡنَۙ‏
+arabic_ayat: عَنِ ٱلۡمُجۡرِمِينَ
 sentence_translation: 'about the wicked ˹who will then be asked˺:'
 word_by_word:
   1:
@@ -7,7 +7,7 @@ word_by_word:
     translation: About
     transliteration: ʿani
   2:
-    arabic: الۡمُجۡرِمِيۡنَۙ‏
+    arabic: ٱلۡمُجۡرِمِينَ
     translation: the criminals
     transliteration: l-muj'rimīna
 ---

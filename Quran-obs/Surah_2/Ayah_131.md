@@ -1,11 +1,10 @@
 ---
-arabic_ayat: "اِذۡ قَالَ لَهٗ رَبُّهٗۤ اَسۡلِمۡ​ۙ قَالَ اَسۡلَمۡتُ لِرَبِّ الۡعٰلَمِيۡنَ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: إِذۡ قَالَ لَهُۥ رَبُّهُۥٓ أَسۡلِمۡۖ قَالَ أَسۡلَمۡتُ لِرَبِّ ٱلۡعَٰلَمِينَ
 sentence_translation: When his Lord ordered him, “Submit ˹to My Will˺,” he responded,
   “I submit to the Lord of all worlds.”
 word_by_word:
   1:
-    arabic: اِذۡ
+    arabic: إِذۡ
     translation: When
     transliteration: idh
   2:
@@ -13,15 +12,15 @@ word_by_word:
     translation: said
     transliteration: qāla
   3:
-    arabic: لَهٗ
+    arabic: لَهُۥ
     translation: to him
     transliteration: lahu
   4:
-    arabic: رَبُّهٗۤ
+    arabic: رَبُّهُۥٓ
     translation: his Lord
     transliteration: rabbuhu
   5:
-    arabic: اَسۡلِمۡ​ۙ
+    arabic: أَسۡلِمۡۖ
     translation: Submit (yourself)
     transliteration: aslim
   6:
@@ -29,7 +28,7 @@ word_by_word:
     translation: he said
     transliteration: qāla
   7:
-    arabic: اَسۡلَمۡتُ
+    arabic: أَسۡلَمۡتُ
     translation: I (have) submitted (myself)
     transliteration: aslamtu
   8:
@@ -37,7 +36,7 @@ word_by_word:
     translation: to (the) Lord
     transliteration: lirabbi
   9:
-    arabic: "الۡعٰلَمِيۡنَ‏ \uFEFF\uFEFF"
+    arabic: ٱلۡعَٰلَمِينَ
     translation: (of) the worlds
     transliteration: l-ʿālamīna
 ---

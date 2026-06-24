@@ -1,9 +1,9 @@
 ---
-arabic_ayat: وَالسَّمَآءِ ذَاتِ الۡحُـبُكِ ۙ‏
+arabic_ayat: وَٱلسَّمَآءِ ذَاتِ ٱلۡحُبُكِ
 sentence_translation: ˹And˺ by the heavens in their marvellous design!
 word_by_word:
   1:
-    arabic: وَالسَّمَآءِ
+    arabic: وَٱلسَّمَآءِ
     translation: By the heaven
     transliteration: wal-samāi
   2:
@@ -11,7 +11,7 @@ word_by_word:
     translation: full of
     transliteration: dhāti
   3:
-    arabic: الۡحُـبُكِ ۙ‏
+    arabic: ٱلۡحُبُكِ
     translation: pathways
     transliteration: l-ḥubuki
 ---

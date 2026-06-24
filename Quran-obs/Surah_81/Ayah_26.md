@@ -1,13 +1,13 @@
 ---
-arabic_ayat: فَاَيۡنَ تَذۡهَبُوۡنَؕ‏
+arabic_ayat: فَأَيۡنَ تَذۡهَبُونَ
 sentence_translation: So what ˹other˺ path would you take?
 word_by_word:
   1:
-    arabic: فَاَيۡنَ
+    arabic: فَأَيۡنَ
     translation: So where
     transliteration: fa-ayna
   2:
-    arabic: تَذۡهَبُوۡنَؕ‏
+    arabic: تَذۡهَبُونَ
     translation: are you going
     transliteration: tadhhabūna
 ---

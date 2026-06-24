@@ -1,36 +1,36 @@
 ---
-arabic_ayat: وَمَاۤ اَنۡتَ بِهٰدِى الۡعُمۡىِ عَنۡ ضَلٰلَتِهِمۡ​ؕ اِنۡ تُسۡمِعُ اِلَّا
-  مَنۡ يُّؤۡمِنُ بِاٰيٰتِنَا فَهُمۡ مُّسۡلِمُوۡنَ‏
+arabic_ayat: وَمَآ أَنتَ بِهَٰدِي ٱلۡعُمۡيِ عَن ضَلَٰلَتِهِمۡۖ إِن تُسۡمِعُ إِلَّا
+  مَن يُؤۡمِنُ بِـَٔايَٰتِنَا فَهُم مُّسۡلِمُونَ
 sentence_translation: Nor can you lead the blind out of their misguidance. You can
   make none hear ˹the truth˺ except those who believe in Our revelations, ˹fully˺
   submitting ˹to Allah˺.
 word_by_word:
   1:
-    arabic: وَمَاۤ
+    arabic: وَمَآ
     translation: And not
     transliteration: wamā
   2:
-    arabic: اَنۡتَ
+    arabic: أَنتَ
     translation: (can) you
     transliteration: anta
   3:
-    arabic: بِهٰدِى
+    arabic: بِهَٰدِي
     translation: guide
     transliteration: bihādī
   4:
-    arabic: الۡعُمۡىِ
+    arabic: ٱلۡعُمۡيِ
     translation: the blind
     transliteration: l-ʿum'yi
   5:
-    arabic: عَنۡ
+    arabic: عَن
     translation: from
     transliteration: ʿan
   6:
-    arabic: ضَلٰلَتِهِمۡ​ؕ
+    arabic: ضَلَٰلَتِهِمۡۖ
     translation: their error
     transliteration: ḍalālatihim
   7:
-    arabic: اِنۡ
+    arabic: إِن
     translation: Not
     transliteration: in
   8:
@@ -38,27 +38,27 @@ word_by_word:
     translation: you can cause to hear
     transliteration: tus'miʿu
   9:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   10:
-    arabic: مَنۡ
+    arabic: مَن
     translation: (those) who
     transliteration: man
   11:
-    arabic: يُّؤۡمِنُ
+    arabic: يُؤۡمِنُ
     translation: believe
     transliteration: yu'minu
   12:
-    arabic: بِاٰيٰتِنَا
+    arabic: بِـَٔايَٰتِنَا
     translation: in Our Signs
     transliteration: biāyātinā
   13:
-    arabic: فَهُمۡ
+    arabic: فَهُم
     translation: so they
     transliteration: fahum
   14:
-    arabic: مُّسۡلِمُوۡنَ‏
+    arabic: مُّسۡلِمُونَ
     translation: (are) Muslims
     transliteration: mus'limūna
 ---

@@ -1,31 +1,31 @@
 ---
-arabic_ayat: قَالُوۡا جَزَاۤؤُهٗ مَنۡ وُّجِدَ فِىۡ رَحۡلِهٖ فَهُوَ جَزَاۤؤُهٗ​ؕ كَذٰلِكَ
-  نَجۡزِى الظّٰلِمِيۡنَ‏
+arabic_ayat: قَالُواْ جَزَٰٓؤُهُۥ مَن وُجِدَ فِي رَحۡلِهِۦ فَهُوَ جَزَٰٓؤُهُۥۚ كَذَٰلِكَ
+  نَجۡزِي ٱلظَّٰلِمِينَ
 sentence_translation: Joseph’s brothers responded, “The price will be ˹the enslavement
   of˺ the one in whose bag the cup is found. That is how we punish the wrongdoers.”
 word_by_word:
   1:
-    arabic: قَالُوۡا
+    arabic: قَالُواْ
     translation: They said
     transliteration: qālū
   2:
-    arabic: جَزَاۤؤُهٗ
+    arabic: جَزَٰٓؤُهُۥ
     translation: Its recompense
     transliteration: jazāuhu
   3:
-    arabic: مَنۡ
+    arabic: مَن
     translation: (is that one) who
     transliteration: man
   4:
-    arabic: وُّجِدَ
+    arabic: وُجِدَ
     translation: it is found
     transliteration: wujida
   5:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   6:
-    arabic: رَحۡلِهٖ
+    arabic: رَحۡلِهِۦ
     translation: his bag
     transliteration: raḥlihi
   7:
@@ -33,19 +33,19 @@ word_by_word:
     translation: then he
     transliteration: fahuwa
   8:
-    arabic: جَزَاۤؤُهٗ​ؕ
+    arabic: جَزَٰٓؤُهُۥۚ
     translation: (will be) his recompense
     transliteration: jazāuhu
   9:
-    arabic: كَذٰلِكَ
+    arabic: كَذَٰلِكَ
     translation: Thus
     transliteration: kadhālika
   10:
-    arabic: نَجۡزِى
+    arabic: نَجۡزِي
     translation: (do) we recompense
     transliteration: najzī
   11:
-    arabic: الظّٰلِمِيۡنَ‏
+    arabic: ٱلظَّٰلِمِينَ
     translation: the wrongdoers
     transliteration: l-ẓālimīna
 ---

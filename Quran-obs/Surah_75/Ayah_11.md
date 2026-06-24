@@ -1,9 +1,9 @@
 ---
-arabic_ayat: كَلَّا لَا وَزَرَؕ‏
+arabic_ayat: كـَلَّا لَا وَزَرَ
 sentence_translation: But no! There will be no refuge.
 word_by_word:
   1:
-    arabic: كَلَّا
+    arabic: كـَلَّا
     translation: By no means
     transliteration: kallā
   2:
@@ -11,7 +11,7 @@ word_by_word:
     translation: (There is) no
     transliteration: lā
   3:
-    arabic: وَزَرَؕ‏
+    arabic: وَزَرَ
     translation: refuge
     transliteration: wazara
 ---

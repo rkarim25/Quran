@@ -1,5 +1,5 @@
 ---
-arabic_ayat: مَا سَلَـكَكُمۡ فِىۡ سَقَرَ‏
+arabic_ayat: مَا سَلَكَكُمۡ فِي سَقَرَ
 sentence_translation: “What has landed you in Hell?”
 word_by_word:
   1:
@@ -7,15 +7,15 @@ word_by_word:
     translation: What
     transliteration: mā
   2:
-    arabic: سَلَـكَكُمۡ
+    arabic: سَلَكَكُمۡ
     translation: led you
     transliteration: salakakum
   3:
-    arabic: فِىۡ
+    arabic: فِي
     translation: into
     transliteration: fī
   4:
-    arabic: سَقَرَ‏
+    arabic: سَقَرَ
     translation: Hell
     transliteration: saqara
 ---

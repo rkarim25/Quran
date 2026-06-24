@@ -1,6 +1,5 @@
 ---
-arabic_ayat: "قَالَ سَتَجِدُنِىۡۤ اِنۡ شَآءَ اللّٰهُ صَابِرًا وَّلَاۤ اَعۡصِىۡ لَكَ\
-  \ اَمۡرًا‏ \uFEFF\uFEFF"
+arabic_ayat: قَالَ سَتَجِدُنِيٓ إِن شَآءَ ٱللَّهُ صَابِرٗا وَلَآ أَعۡصِي لَكَ أَمۡرٗا
 sentence_translation: Moses assured ˹him˺, “You will find me patient, Allah willing,
   and I will not disobey any of your orders.”
 word_by_word:
@@ -9,11 +8,11 @@ word_by_word:
     translation: He said
     transliteration: qāla
   2:
-    arabic: سَتَجِدُنِىۡۤ
+    arabic: سَتَجِدُنِيٓ
     translation: You will find me
     transliteration: satajidunī
   3:
-    arabic: اِنۡ
+    arabic: إِن
     translation: if
     transliteration: in
   4:
@@ -21,19 +20,19 @@ word_by_word:
     translation: Allah wills
     transliteration: shāa
   5:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah wills
     transliteration: l-lahu
   6:
-    arabic: صَابِرًا
+    arabic: صَابِرٗا
     translation: patient
     transliteration: ṣābiran
   7:
-    arabic: وَّلَاۤ
+    arabic: وَلَآ
     translation: and not
     transliteration: walā
   8:
-    arabic: اَعۡصِىۡ
+    arabic: أَعۡصِي
     translation: I will disobey
     transliteration: aʿṣī
   9:
@@ -41,7 +40,7 @@ word_by_word:
     translation: your
     transliteration: laka
   10:
-    arabic: "اَمۡرًا‏ \uFEFF\uFEFF"
+    arabic: أَمۡرٗا
     translation: order
     transliteration: amran
 ---

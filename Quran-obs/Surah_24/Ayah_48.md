@@ -1,27 +1,27 @@
 ---
-arabic_ayat: وَاِذَا دُعُوۡۤا اِلَى اللّٰهِ وَرَسُوۡلِهٖ لِيَحۡكُمَ بَيۡنَهُمۡ اِذَا
-  فَرِيۡقٌ مِّنۡهُمۡ مُّعۡرِضُوۡنَ‏
+arabic_ayat: وَإِذَا دُعُوٓاْ إِلَى ٱللَّهِ وَرَسُولِهِۦ لِيَحۡكُمَ بَيۡنَهُمۡ إِذَا
+  فَرِيقٞ مِّنۡهُم مُّعۡرِضُونَ
 sentence_translation: And as soon as they are called to Allah and His Messenger so
   he may judge between them, a group of them turns away.
 word_by_word:
   1:
-    arabic: وَاِذَا
+    arabic: وَإِذَا
     translation: And when
     transliteration: wa-idhā
   2:
-    arabic: دُعُوۡۤا
+    arabic: دُعُوٓاْ
     translation: they are called
     transliteration: duʿū
   3:
-    arabic: اِلَى
+    arabic: إِلَى
     translation: to
     transliteration: ilā
   4:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   5:
-    arabic: وَرَسُوۡلِهٖ
+    arabic: وَرَسُولِهِۦ
     translation: and His Messenger
     transliteration: warasūlihi
   6:
@@ -33,19 +33,19 @@ word_by_word:
     translation: between them
     transliteration: baynahum
   8:
-    arabic: اِذَا
+    arabic: إِذَا
     translation: behold
     transliteration: idhā
   9:
-    arabic: فَرِيۡقٌ
+    arabic: فَرِيقٞ
     translation: a party
     transliteration: farīqun
   10:
-    arabic: مِّنۡهُمۡ
+    arabic: مِّنۡهُم
     translation: of them
     transliteration: min'hum
   11:
-    arabic: مُّعۡرِضُوۡنَ‏
+    arabic: مُّعۡرِضُونَ
     translation: (is) averse
     transliteration: muʿ'riḍūna
 ---

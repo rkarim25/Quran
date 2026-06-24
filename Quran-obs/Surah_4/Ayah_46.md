@@ -1,9 +1,9 @@
 ---
-arabic_ayat: مِنَ الَّذِيۡنَ هَادُوۡا يُحَرِّفُوۡنَ الۡـكَلِمَ عَنۡ مَّوَاضِعِهٖ وَ
-  يَقُوۡلُوۡنَ سَمِعۡنَا وَعَصَيۡنَا وَاسۡمَعۡ غَيۡرَ مُسۡمَعٍ وَّرَاعِنَا لَـيًّۢا
-  بِاَ لۡسِنَتِهِمۡ وَطَعۡنًا فِىۡ الدِّيۡنِ​ ؕ وَلَوۡ اَنَّهُمۡ قَالُوۡا سَمِعۡنَا
-  وَاَطَعۡنَا وَاسۡمَعۡ وَانْظُرۡنَا لَـكَانَ خَيۡرًا لَّهُمۡ وَاَقۡوَمَ ۙ وَ لٰـكِنۡ
-  لَّعَنَهُمُ اللّٰهُ بِكُفۡرِهِمۡ فَلَا يُؤۡمِنُوۡنَ اِلَّا قَلِيۡلًا‏
+arabic_ayat: مِّنَ ٱلَّذِينَ هَادُواْ يُحَرِّفُونَ ٱلۡكَلِمَ عَن مَّوَاضِعِهِۦ وَيَقُولُونَ
+  سَمِعۡنَا وَعَصَيۡنَا وَٱسۡمَعۡ غَيۡرَ مُسۡمَعٖ وَرَٰعِنَا لَيَّۢا بِأَلۡسِنَتِهِمۡ
+  وَطَعۡنٗا فِي ٱلدِّينِۚ وَلَوۡ أَنَّهُمۡ قَالُواْ سَمِعۡنَا وَأَطَعۡنَا وَٱسۡمَعۡ
+  وَٱنظُرۡنَا لَكَانَ خَيۡرٗا لَّهُمۡ وَأَقۡوَمَ وَلَٰكِن لَّعَنَهُمُ ٱللَّهُ بِكُفۡرِهِمۡ
+  فَلَا يُؤۡمِنُونَ إِلَّا قَلِيلٗا
 sentence_translation: Some Jews take words out of context and say, “We listen and
   we disobey,” “Hear! May you never hear,” and “Râ’ina!” [Herd us!]—playing with words
   and discrediting the faith. Had they said ˹courteously˺, “We hear and obey,” “Listen
@@ -12,35 +12,35 @@ sentence_translation: Some Jews take words out of context and say, “We listen 
   for a few.
 word_by_word:
   1:
-    arabic: مِنَ
+    arabic: مِّنَ
     translation: Of
     transliteration: mina
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   3:
-    arabic: هَادُوۡا
+    arabic: هَادُواْ
     translation: are Jews
     transliteration: hādū
   4:
-    arabic: يُحَرِّفُوۡنَ
+    arabic: يُحَرِّفُونَ
     translation: they distort
     transliteration: yuḥarrifūna
   5:
-    arabic: الۡـكَلِمَ
+    arabic: ٱلۡكَلِمَ
     translation: the words
     transliteration: l-kalima
   6:
-    arabic: عَنۡ
+    arabic: عَن
     translation: from
     transliteration: ʿan
   7:
-    arabic: مَّوَاضِعِهٖ
+    arabic: مَّوَاضِعِهِۦ
     translation: their places
     transliteration: mawāḍiʿihi
   8:
-    arabic: وَ يَقُوۡلُوۡنَ
+    arabic: وَيَقُولُونَ
     translation: and they say
     transliteration: wayaqūlūna
   9:
@@ -52,7 +52,7 @@ word_by_word:
     translation: and we disobey[ed]
     transliteration: waʿaṣaynā
   11:
-    arabic: وَاسۡمَعۡ
+    arabic: وَٱسۡمَعۡ
     translation: and "Hear
     transliteration: wa-is'maʿ
   12:
@@ -60,31 +60,31 @@ word_by_word:
     translation: not
     transliteration: ghayra
   13:
-    arabic: مُسۡمَعٍ
+    arabic: مُسۡمَعٖ
     translation: to be heard
     transliteration: mus'maʿin
   14:
-    arabic: وَّرَاعِنَا
+    arabic: وَرَٰعِنَا
     translation: and "Raina
     transliteration: warāʿinā
   15:
-    arabic: لَـيًّۢا
+    arabic: لَيَّۢا
     translation: twisting
     transliteration: layyan
   16:
-    arabic: بِاَ لۡسِنَتِهِمۡ
+    arabic: بِأَلۡسِنَتِهِمۡ
     translation: '[with] their tongues'
     transliteration: bi-alsinatihim
   17:
-    arabic: وَطَعۡنًا
+    arabic: وَطَعۡنٗا
     translation: and defaming
     transliteration: waṭaʿnan
   18:
-    arabic: فِىۡ
+    arabic: فِي
     translation: '[in]'
     transliteration: fī
   19:
-    arabic: الدِّيۡنِ​ ؕ
+    arabic: ٱلدِّينِۚ
     translation: the religion
     transliteration: l-dīni
   20:
@@ -92,11 +92,11 @@ word_by_word:
     translation: And if
     transliteration: walaw
   21:
-    arabic: اَنَّهُمۡ
+    arabic: أَنَّهُمۡ
     translation: '[that] they'
     transliteration: annahum
   22:
-    arabic: قَالُوۡا
+    arabic: قَالُواْ
     translation: (had) said
     transliteration: qālū
   23:
@@ -104,23 +104,23 @@ word_by_word:
     translation: We hear[d]
     transliteration: samiʿ'nā
   24:
-    arabic: وَاَطَعۡنَا
+    arabic: وَأَطَعۡنَا
     translation: and we obey[ed]
     transliteration: wa-aṭaʿnā
   25:
-    arabic: وَاسۡمَعۡ
+    arabic: وَٱسۡمَعۡ
     translation: and "Hear
     transliteration: wa-is'maʿ
   26:
-    arabic: وَانْظُرۡنَا
+    arabic: وَٱنظُرۡنَا
     translation: and look (at) us
     transliteration: wa-unẓur'nā
   27:
-    arabic: لَـكَانَ
+    arabic: لَكَانَ
     translation: surely it (would) have been
     transliteration: lakāna
   28:
-    arabic: خَيۡرًا
+    arabic: خَيۡرٗا
     translation: better
     transliteration: khayran
   29:
@@ -128,11 +128,11 @@ word_by_word:
     translation: for them
     transliteration: lahum
   30:
-    arabic: وَاَقۡوَمَ ۙ
+    arabic: وَأَقۡوَمَ
     translation: and more suitable
     transliteration: wa-aqwama
   31:
-    arabic: وَ لٰـكِنۡ
+    arabic: وَلَٰكِن
     translation: '[And] but'
     transliteration: walākin
   32:
@@ -140,7 +140,7 @@ word_by_word:
     translation: cursed them
     transliteration: laʿanahumu
   33:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   34:
@@ -152,15 +152,15 @@ word_by_word:
     translation: so not
     transliteration: falā
   36:
-    arabic: يُؤۡمِنُوۡنَ
+    arabic: يُؤۡمِنُونَ
     translation: they believe
     transliteration: yu'minūna
   37:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   38:
-    arabic: قَلِيۡلًا‏
+    arabic: قَلِيلٗا
     translation: a few
     transliteration: qalīlan
 ---

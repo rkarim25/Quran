@@ -1,11 +1,11 @@
 ---
-arabic_ayat: وَيٰقَوۡمِ مَا لِىۡۤ اَدۡعُوۡكُمۡ اِلَى النَّجٰوةِ وَتَدۡعُوۡنَنِىۡۤ
-  اِلَى النَّارِؕ‏
+arabic_ayat: ۞ وَيَٰقَوۡمِ مَا لِيٓ أَدۡعُوكُمۡ إِلَى ٱلنَّجَوٰةِ وَتَدۡعُونَنِيٓ
+  إِلَى ٱلنَّارِ
 sentence_translation: O  my people! How is it that I invite you to salvation, while
   you invite me to the Fire!
 word_by_word:
   1:
-    arabic: ۞ وَيٰقَوۡمِ
+    arabic: ۞ وَيَٰقَوۡمِ
     translation: And O my people
     transliteration: wayāqawmi
   2:
@@ -13,31 +13,31 @@ word_by_word:
     translation: What (is)
     transliteration: mā
   3:
-    arabic: لِىۡۤ
+    arabic: لِيٓ
     translation: for me
     transliteration: lī
   4:
-    arabic: اَدۡعُوۡكُمۡ
+    arabic: أَدۡعُوكُمۡ
     translation: (that) I call you
     transliteration: adʿūkum
   5:
-    arabic: اِلَى
+    arabic: إِلَى
     translation: to
     transliteration: ilā
   6:
-    arabic: النَّجٰوةِ
+    arabic: ٱلنَّجَوٰةِ
     translation: the salvation
     transliteration: l-najati
   7:
-    arabic: وَتَدۡعُوۡنَنِىۡۤ
+    arabic: وَتَدۡعُونَنِيٓ
     translation: while you call me
     transliteration: watadʿūnanī
   8:
-    arabic: اِلَى
+    arabic: إِلَى
     translation: to
     transliteration: ilā
   9:
-    arabic: النَّارِؕ‏
+    arabic: ٱلنَّارِ
     translation: the Fire
     transliteration: l-nāri
 ---

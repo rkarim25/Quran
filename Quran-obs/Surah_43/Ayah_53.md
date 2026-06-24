@@ -1,15 +1,15 @@
 ---
-arabic_ayat: فَلَوۡلَاۤ اُلۡقِىَ عَلَيۡهِ اَسۡوِرَةٌ مِّنۡ ذَهَبٍ اَوۡ جَآءَ مَعَهُ
-  الۡمَلٰٓٮِٕكَةُ مُقۡتَرِنِيۡنَ‏
+arabic_ayat: فَلَوۡلَآ أُلۡقِيَ عَلَيۡهِ أَسۡوِرَةٞ مِّن ذَهَبٍ أَوۡ جَآءَ مَعَهُ
+  ٱلۡمَلَٰٓئِكَةُ مُقۡتَرِنِينَ
 sentence_translation: Why then have no golden bracelets ˹of kingship˺ been granted
   to him or angels come with him as escorts!”
 word_by_word:
   1:
-    arabic: فَلَوۡلَاۤ
+    arabic: فَلَوۡلَآ
     translation: Then why not
     transliteration: falawlā
   2:
-    arabic: اُلۡقِىَ
+    arabic: أُلۡقِيَ
     translation: are placed
     transliteration: ul'qiya
   3:
@@ -17,11 +17,11 @@ word_by_word:
     translation: on him
     transliteration: ʿalayhi
   4:
-    arabic: اَسۡوِرَةٌ
+    arabic: أَسۡوِرَةٞ
     translation: bracelets
     transliteration: aswiratun
   5:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: of
     transliteration: min
   6:
@@ -29,7 +29,7 @@ word_by_word:
     translation: gold
     transliteration: dhahabin
   7:
-    arabic: اَوۡ
+    arabic: أَوۡ
     translation: or
     transliteration: aw
   8:
@@ -41,11 +41,11 @@ word_by_word:
     translation: with him
     transliteration: maʿahu
   10:
-    arabic: الۡمَلٰٓٮِٕكَةُ
+    arabic: ٱلۡمَلَٰٓئِكَةُ
     translation: the Angels
     transliteration: l-malāikatu
   11:
-    arabic: مُقۡتَرِنِيۡنَ‏
+    arabic: مُقۡتَرِنِينَ
     translation: accompanying (him)
     transliteration: muq'tarinīna
 ---

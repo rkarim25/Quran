@@ -1,16 +1,16 @@
 ---
-arabic_ayat: يٰزَكَرِيَّاۤ اِنَّا نُبَشِّرُكَ بِغُلٰم اۨسۡمُهٗ يَحۡيٰى ۙ لَمۡ نَجۡعَلْ
-  لَّهٗ مِنۡ قَبۡلُ سَمِيًّا‏
+arabic_ayat: يَٰزَكَرِيَّآ إِنَّا نُبَشِّرُكَ بِغُلَٰمٍ ٱسۡمُهُۥ يَحۡيَىٰ لَمۡ نَجۡعَل
+  لَّهُۥ مِن قَبۡلُ سَمِيّٗا
 sentence_translation: ˹The angels announced,˺ “O Zachariah! Indeed, We give you the
   good news of ˹the birth of˺ a son, whose name will be John—a name We have not given
   to anyone before.”
 word_by_word:
   1:
-    arabic: يٰزَكَرِيَّاۤ
+    arabic: يَٰزَكَرِيَّآ
     translation: O Zakariya
     transliteration: yāzakariyyā
   2:
-    arabic: اِنَّا
+    arabic: إِنَّا
     translation: Indeed, We
     transliteration: innā
   3:
@@ -18,15 +18,15 @@ word_by_word:
     translation: '[We] give you glad tidings'
     transliteration: nubashiruka
   4:
-    arabic: بِغُلٰم
+    arabic: بِغُلَٰمٍ
     translation: of a boy
     transliteration: bighulāmin
   5:
-    arabic: اۨسۡمُهٗ
+    arabic: ٱسۡمُهُۥ
     translation: his name
     transliteration: us'muhu
   6:
-    arabic: يَحۡيٰى ۙ
+    arabic: يَحۡيَىٰ
     translation: (will be) Yahya
     transliteration: yaḥyā
   7:
@@ -34,15 +34,15 @@ word_by_word:
     translation: not
     transliteration: lam
   8:
-    arabic: نَجۡعَلْ
+    arabic: نَجۡعَل
     translation: We (have) assigned
     transliteration: najʿal
   9:
-    arabic: لَّهٗ
+    arabic: لَّهُۥ
     translation: '[for] it'
     transliteration: lahu
   10:
-    arabic: مِنۡ
+    arabic: مِن
     translation: before
     transliteration: min
   11:
@@ -50,7 +50,7 @@ word_by_word:
     translation: before
     transliteration: qablu
   12:
-    arabic: سَمِيًّا‏
+    arabic: سَمِيّٗا
     translation: (this) name
     transliteration: samiyyan
 ---

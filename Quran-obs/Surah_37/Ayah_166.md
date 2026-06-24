@@ -1,17 +1,17 @@
 ---
-arabic_ayat: وَاِنَّا لَـنَحۡنُ الۡمُسَبِّحُوۡنَ‏
+arabic_ayat: وَإِنَّا لَنَحۡنُ ٱلۡمُسَبِّحُونَ
 sentence_translation: And we are indeed the ones ˹constantly˺ glorifying ˹His praise˺.”
 word_by_word:
   1:
-    arabic: وَاِنَّا
+    arabic: وَإِنَّا
     translation: And indeed, we
     transliteration: wa-innā
   2:
-    arabic: لَـنَحۡنُ
+    arabic: لَنَحۡنُ
     translation: surely, [we]
     transliteration: lanaḥnu
   3:
-    arabic: الۡمُسَبِّحُوۡنَ‏
+    arabic: ٱلۡمُسَبِّحُونَ
     translation: glorify (Allah)
     transliteration: l-musabiḥūna
 ---

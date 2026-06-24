@@ -1,19 +1,19 @@
 ---
-arabic_ayat: اِنَّ السَّاعَةَ لَاٰتِيَةٌ لَّا رَيۡبَ فِيۡهَا وَلٰـكِنَّ اَكۡثَرَ النَّاسِ
-  لَا يُؤۡمِنُوۡنَ‏
+arabic_ayat: إِنَّ ٱلسَّاعَةَ لَأٓتِيَةٞ لَّا رَيۡبَ فِيهَا وَلَٰكِنَّ أَكۡثَرَ ٱلنَّاسِ
+  لَا يُؤۡمِنُونَ
 sentence_translation: The Hour is certainly coming, there is no doubt about it. But
   most people do not believe.
 word_by_word:
   1:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   2:
-    arabic: السَّاعَةَ
+    arabic: ٱلسَّاعَةَ
     translation: the Hour
     transliteration: l-sāʿata
   3:
-    arabic: لَاٰتِيَةٌ
+    arabic: لَأٓتِيَةٞ
     translation: (is) surely coming
     transliteration: laātiyatun
   4:
@@ -25,19 +25,19 @@ word_by_word:
     translation: doubt
     transliteration: rayba
   6:
-    arabic: فِيۡهَا
+    arabic: فِيهَا
     translation: in it
     transliteration: fīhā
   7:
-    arabic: وَلٰـكِنَّ
+    arabic: وَلَٰكِنَّ
     translation: but
     transliteration: walākinna
   8:
-    arabic: اَكۡثَرَ
+    arabic: أَكۡثَرَ
     translation: most
     transliteration: akthara
   9:
-    arabic: النَّاسِ
+    arabic: ٱلنَّاسِ
     translation: (of) the people
     transliteration: l-nāsi
   10:
@@ -45,7 +45,7 @@ word_by_word:
     translation: (do) not
     transliteration: lā
   11:
-    arabic: يُؤۡمِنُوۡنَ‏
+    arabic: يُؤۡمِنُونَ
     translation: believe
     transliteration: yu'minūna
 ---

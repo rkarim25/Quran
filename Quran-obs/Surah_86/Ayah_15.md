@@ -1,17 +1,17 @@
 ---
-arabic_ayat: اِنَّهُمۡ يَكِيۡدُوۡنَ كَيۡدًا ۙ‏
+arabic_ayat: إِنَّهُمۡ يَكِيدُونَ كَيۡدٗا
 sentence_translation: They are certainly devising ˹evil˺ plans,
 word_by_word:
   1:
-    arabic: اِنَّهُمۡ
+    arabic: إِنَّهُمۡ
     translation: Indeed, they
     transliteration: innahum
   2:
-    arabic: يَكِيۡدُوۡنَ
+    arabic: يَكِيدُونَ
     translation: are plotting
     transliteration: yakīdūna
   3:
-    arabic: كَيۡدًا ۙ‏
+    arabic: كَيۡدٗا
     translation: a plot
     transliteration: kaydan
 ---

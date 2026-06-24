@@ -1,20 +1,20 @@
 ---
-arabic_ayat: فَانْظُرۡ اِلٰٓى اٰثٰرِ رَحۡمَتِ اللّٰهِ كَيۡفَ يُحۡىِ الۡاَرۡضَ بَعۡدَ
-  مَوۡتِهَا ​ؕ اِنَّ ذٰ لِكَ لَمُحۡىِ الۡمَوۡتٰى ​ۚ وَهُوَ عَلٰى كُلِّ شَىۡءٍ قَدِيۡرٌ‏
+arabic_ayat: فَٱنظُرۡ إِلَىٰٓ ءَاثَٰرِ رَحۡمَتِ ٱللَّهِ كَيۡفَ يُحۡيِ ٱلۡأَرۡضَ بَعۡدَ
+  مَوۡتِهَآۚ إِنَّ ذَٰلِكَ لَمُحۡيِ ٱلۡمَوۡتَىٰۖ وَهُوَ عَلَىٰ كُلِّ شَيۡءٖ قَدِيرٞ
 sentence_translation: 'See then the impact of Allah’s mercy: how He gives life to
   the earth after its death! Surely That ˹same God˺ can raise the dead. For He is
   Most Capable of everything.'
 word_by_word:
   1:
-    arabic: فَانْظُرۡ
+    arabic: فَٱنظُرۡ
     translation: So look
     transliteration: fa-unẓur
   2:
-    arabic: اِلٰٓى
+    arabic: إِلَىٰٓ ءَ
     translation: at
     transliteration: ilā
   3:
-    arabic: اٰثٰرِ
+    arabic: اثَٰرِ
     translation: (the) effects
     transliteration: āthāri
   4:
@@ -22,7 +22,7 @@ word_by_word:
     translation: (of the) Mercy
     transliteration: raḥmati
   5:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (of) Allah
     transliteration: l-lahi
   6:
@@ -30,11 +30,11 @@ word_by_word:
     translation: how
     transliteration: kayfa
   7:
-    arabic: يُحۡىِ
+    arabic: يُحۡيِ
     translation: He gives life
     transliteration: yuḥ'yī
   8:
-    arabic: الۡاَرۡضَ
+    arabic: ٱلۡأَرۡضَ
     translation: (to) the earth
     transliteration: l-arḍa
   9:
@@ -42,23 +42,23 @@ word_by_word:
     translation: after
     transliteration: baʿda
   10:
-    arabic: مَوۡتِهَا ​ؕ
+    arabic: مَوۡتِهَآۚ
     translation: its death
     transliteration: mawtihā
   11:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   12:
-    arabic: ذٰ لِكَ
+    arabic: ذَٰلِكَ
     translation: that
     transliteration: dhālika
   13:
-    arabic: لَمُحۡىِ
+    arabic: لَمُحۡيِ
     translation: surely He (will) give life
     transliteration: lamuḥ'yī
   14:
-    arabic: الۡمَوۡتٰى ​ۚ
+    arabic: ٱلۡمَوۡتَىٰۖ
     translation: (to) the dead
     transliteration: l-mawtā
   15:
@@ -66,7 +66,7 @@ word_by_word:
     translation: And He
     transliteration: wahuwa
   16:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: (is) on
     transliteration: ʿalā
   17:
@@ -74,11 +74,11 @@ word_by_word:
     translation: every
     transliteration: kulli
   18:
-    arabic: شَىۡءٍ
+    arabic: شَيۡءٖ
     translation: thing
     transliteration: shayin
   19:
-    arabic: قَدِيۡرٌ‏
+    arabic: قَدِيرٞ
     translation: All-Powerful
     transliteration: qadīrun
 ---

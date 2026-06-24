@@ -1,5 +1,5 @@
 ---
-arabic_ayat: وَلَحۡمِ طَيۡرٍ مِّمَّا يَشۡتَهُوۡنَؕ‏
+arabic_ayat: وَلَحۡمِ طَيۡرٖ مِّمَّا يَشۡتَهُونَ
 sentence_translation: and meat from any bird they desire.
 word_by_word:
   1:
@@ -7,7 +7,7 @@ word_by_word:
     translation: And (the) flesh
     transliteration: walaḥmi
   2:
-    arabic: طَيۡرٍ
+    arabic: طَيۡرٖ
     translation: (of) fowls
     transliteration: ṭayrin
   3:
@@ -15,7 +15,7 @@ word_by_word:
     translation: of what
     transliteration: mimmā
   4:
-    arabic: يَشۡتَهُوۡنَؕ‏
+    arabic: يَشۡتَهُونَ
     translation: they desire
     transliteration: yashtahūna
 ---

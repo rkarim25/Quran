@@ -1,27 +1,26 @@
 ---
-arabic_ayat: "وَكَذٰلِكَ اَوۡحَيۡنَاۤ اِلَيۡكَ رُوۡحًا مِّنۡ اَمۡرِنَا​ ؕ مَا كُنۡتَ\
-  \ تَدۡرِىۡ مَا الۡكِتٰبُ وَلَا الۡاِيۡمَانُ وَلٰـكِنۡ جَعَلۡنٰهُ نُوۡرًا نَّهۡدِىۡ\
-  \ بِهٖ مَنۡ نَّشَآءُ مِنۡ عِبَادِنَا​ ؕ وَاِنَّكَ لَتَهۡدِىۡۤ اِلٰى صِرَاطٍ مُّسۡتَقِيۡمٍۙ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: وَكَذَٰلِكَ أَوۡحَيۡنَآ إِلَيۡكَ رُوحٗا مِّنۡ أَمۡرِنَاۚ مَا كُنتَ تَدۡرِي
+  مَا ٱلۡكِتَٰبُ وَلَا ٱلۡإِيمَٰنُ وَلَٰكِن جَعَلۡنَٰهُ نُورٗا نَّهۡدِي بِهِۦ مَن
+  نَّشَآءُ مِنۡ عِبَادِنَاۚ وَإِنَّكَ لَتَهۡدِيٓ إِلَىٰ صِرَٰطٖ مُّسۡتَقِيمٖ
 sentence_translation: And so We have sent to you ˹O Prophet˺ a revelation by Our command.
   You did not know of ˹this˺ Book and faith ˹before˺. But We have made it a light,
   by which We guide whoever We will of Our servants. And you are truly leading ˹all˺
   to the Straight Path—
 word_by_word:
   1:
-    arabic: وَكَذٰلِكَ
+    arabic: وَكَذَٰلِكَ
     translation: And thus
     transliteration: wakadhālika
   2:
-    arabic: اَوۡحَيۡنَاۤ
+    arabic: أَوۡحَيۡنَآ
     translation: We have revealed
     transliteration: awḥaynā
   3:
-    arabic: اِلَيۡكَ
+    arabic: إِلَيۡكَ
     translation: to you
     transliteration: ilayka
   4:
-    arabic: رُوۡحًا
+    arabic: رُوحٗا
     translation: an inspiration
     transliteration: rūḥan
   5:
@@ -29,7 +28,7 @@ word_by_word:
     translation: by
     transliteration: min
   6:
-    arabic: اَمۡرِنَا​ ؕ
+    arabic: أَمۡرِنَاۚ
     translation: Our Command
     transliteration: amrinā
   7:
@@ -37,11 +36,11 @@ word_by_word:
     translation: Not
     transliteration: mā
   8:
-    arabic: كُنۡتَ
+    arabic: كُنتَ
     translation: (did) you
     transliteration: kunta
   9:
-    arabic: تَدۡرِىۡ
+    arabic: تَدۡرِي
     translation: know
     transliteration: tadrī
   10:
@@ -49,7 +48,7 @@ word_by_word:
     translation: what
     transliteration: mā
   11:
-    arabic: الۡكِتٰبُ
+    arabic: ٱلۡكِتَٰبُ
     translation: the Book (is)
     transliteration: l-kitābu
   12:
@@ -57,31 +56,31 @@ word_by_word:
     translation: and not
     transliteration: walā
   13:
-    arabic: الۡاِيۡمَانُ
+    arabic: ٱلۡإِيمَٰنُ
     translation: the faith
     transliteration: l-īmānu
   14:
-    arabic: وَلٰـكِنۡ
+    arabic: وَلَٰكِن
     translation: But
     transliteration: walākin
   15:
-    arabic: جَعَلۡنٰهُ
+    arabic: جَعَلۡنَٰهُ
     translation: We have made it
     transliteration: jaʿalnāhu
   16:
-    arabic: نُوۡرًا
+    arabic: نُورٗا
     translation: a light
     transliteration: nūran
   17:
-    arabic: نَّهۡدِىۡ
+    arabic: نَّهۡدِي
     translation: We guide
     transliteration: nahdī
   18:
-    arabic: بِهٖ
+    arabic: بِهِۦ
     translation: with it
     transliteration: bihi
   19:
-    arabic: مَنۡ
+    arabic: مَن
     translation: whom
     transliteration: man
   20:
@@ -93,27 +92,27 @@ word_by_word:
     translation: of
     transliteration: min
   22:
-    arabic: عِبَادِنَا​ ؕ
+    arabic: عِبَادِنَاۚ
     translation: Our slaves
     transliteration: ʿibādinā
   23:
-    arabic: وَاِنَّكَ
+    arabic: وَإِنَّكَ
     translation: And indeed, you
     transliteration: wa-innaka
   24:
-    arabic: لَتَهۡدِىۡۤ
+    arabic: لَتَهۡدِيٓ
     translation: surely guide
     transliteration: latahdī
   25:
-    arabic: اِلٰى
+    arabic: إِلَىٰ
     translation: to
     transliteration: ilā
   26:
-    arabic: صِرَاطٍ
+    arabic: صِرَٰطٖ
     translation: (the) Path
     transliteration: ṣirāṭin
   27:
-    arabic: "مُّسۡتَقِيۡمٍۙ‏ \uFEFF\uFEFF"
+    arabic: مُّسۡتَقِيمٖ
     translation: Straight
     transliteration: mus'taqīmin
 ---

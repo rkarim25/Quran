@@ -1,12 +1,12 @@
 ---
-arabic_ayat: وَقَالُوۡا مَالِ هٰذَا الرَّسُوۡلِ يَاۡكُلُ الطَّعَامَ وَيَمۡشِىۡ فِى
-  الۡاَسۡوَاقِ​ ؕ لَوۡلَاۤ اُنۡزِلَ اِلَيۡهِ مَلَكٌ فَيَكُوۡنَ مَعَهٗ نَذِيۡرًا ۙ‏
+arabic_ayat: وَقَالُواْ مَالِ هَٰذَا ٱلرَّسُولِ يَأۡكُلُ ٱلطَّعَامَ وَيَمۡشِي فِي
+  ٱلۡأَسۡوَاقِ لَوۡلَآ أُنزِلَ إِلَيۡهِ مَلَكٞ فَيَكُونَ مَعَهُۥ نَذِيرًا
 sentence_translation: And they say ˹mockingly˺, “What kind of messenger is this who
   eats food and goes about in market-places ˹for a living˺? If only an angel had been
   sent down with him to be his co-warner,
 word_by_word:
   1:
-    arabic: وَقَالُوۡا
+    arabic: وَقَالُواْ
     translation: And they say
     transliteration: waqālū
   2:
@@ -14,59 +14,59 @@ word_by_word:
     translation: Why does
     transliteration: māli
   3:
-    arabic: هٰذَا
+    arabic: هَٰذَا
     translation: this
     transliteration: hādhā
   4:
-    arabic: الرَّسُوۡلِ
+    arabic: ٱلرَّسُولِ
     translation: Messenger
     transliteration: l-rasūli
   5:
-    arabic: يَاۡكُلُ
+    arabic: يَأۡكُلُ
     translation: eat
     transliteration: yakulu
   6:
-    arabic: الطَّعَامَ
+    arabic: ٱلطَّعَامَ
     translation: '[the] food'
     transliteration: l-ṭaʿāma
   7:
-    arabic: وَيَمۡشِىۡ
+    arabic: وَيَمۡشِي
     translation: and walk
     transliteration: wayamshī
   8:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   9:
-    arabic: الۡاَسۡوَاقِ​ ؕ
+    arabic: ٱلۡأَسۡوَاقِ
     translation: the markets
     transliteration: l-aswāqi
   10:
-    arabic: لَوۡلَاۤ
+    arabic: لَوۡلَآ
     translation: Why not
     transliteration: lawlā
   11:
-    arabic: اُنۡزِلَ
+    arabic: أُنزِلَ
     translation: is sent down
     transliteration: unzila
   12:
-    arabic: اِلَيۡهِ
+    arabic: إِلَيۡهِ
     translation: to him
     transliteration: ilayhi
   13:
-    arabic: مَلَكٌ
+    arabic: مَلَكٞ
     translation: an Angel
     transliteration: malakun
   14:
-    arabic: فَيَكُوۡنَ
+    arabic: فَيَكُونَ
     translation: then he be
     transliteration: fayakūna
   15:
-    arabic: مَعَهٗ
+    arabic: مَعَهُۥ
     translation: with him
     transliteration: maʿahu
   16:
-    arabic: نَذِيۡرًا ۙ‏
+    arabic: نَذِيرًا
     translation: a warner
     transliteration: nadhīran
 ---

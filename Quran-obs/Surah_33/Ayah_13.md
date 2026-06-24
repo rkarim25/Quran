@@ -1,23 +1,22 @@
 ---
-arabic_ayat: "وَاِذۡ قَالَتۡ طَّآٮِٕفَةٌ مِّنۡهُمۡ يٰۤـاَهۡلَ يَثۡرِبَ لَا مُقَامَ\
-  \ لَكُمۡ فَارۡجِعُوۡا​ ۚ وَيَسۡتَاۡذِنُ فَرِيۡقٌ مِّنۡهُمُ النَّبِىَّ يَقُوۡلُوۡنَ\
-  \ اِنَّ بُيُوۡتَنَا عَوۡرَة​ٌ  ​ۛؕ وَمَا هِىَ بِعَوۡرَةٍ  ۛۚ اِنۡ يُّرِيۡدُوۡنَ\
-  \ اِلَّا فِرَارًا‏ \uFEFF\uFEFF"
+arabic_ayat: وَإِذۡ قَالَت طَّآئِفَةٞ مِّنۡهُمۡ يَٰٓأَهۡلَ يَثۡرِبَ لَا مُقَامَ لَكُمۡ
+  فَٱرۡجِعُواْۚ وَيَسۡتَـٔۡذِنُ فَرِيقٞ مِّنۡهُمُ ٱلنَّبِيَّ يَقُولُونَ إِنَّ بُيُوتَنَا
+  عَوۡرَةٞ وَمَا هِيَ بِعَوۡرَةٍۖ إِن يُرِيدُونَ إِلَّا فِرَارٗا
 sentence_translation: And ˹remember˺ when a group of them said, “O people of Yathrib! There
   is no point in you staying ˹here˺, so retreat!” Another group of them asked the
   Prophet’s permission ˹to leave˺, saying, “Our homes are vulnerable,” while ˹in fact˺
   they were not vulnerable. They only wished to flee.
 word_by_word:
   1:
-    arabic: وَاِذۡ
+    arabic: وَإِذۡ
     translation: And when
     transliteration: wa-idh
   2:
-    arabic: قَالَتۡ
+    arabic: قَالَت
     translation: said
     transliteration: qālat
   3:
-    arabic: طَّآٮِٕفَةٌ
+    arabic: طَّآئِفَةٞ
     translation: a party
     transliteration: ṭāifatun
   4:
@@ -25,7 +24,7 @@ word_by_word:
     translation: of them
     transliteration: min'hum
   5:
-    arabic: يٰۤـاَهۡلَ
+    arabic: يَٰٓأَهۡلَ
     translation: O People
     transliteration: yāahla
   6:
@@ -45,15 +44,15 @@ word_by_word:
     translation: for you
     transliteration: lakum
   10:
-    arabic: فَارۡجِعُوۡا​ ۚ
+    arabic: فَٱرۡجِعُواْۚ
     translation: so return
     transliteration: fa-ir'jiʿū
   11:
-    arabic: وَيَسۡتَاۡذِنُ
+    arabic: وَيَسۡتَـٔۡذِنُ
     translation: And asked permission
     transliteration: wayastadhinu
   12:
-    arabic: فَرِيۡقٌ
+    arabic: فَرِيقٞ
     translation: a group
     transliteration: farīqun
   13:
@@ -61,23 +60,23 @@ word_by_word:
     translation: of them
     transliteration: min'humu
   14:
-    arabic: النَّبِىَّ
+    arabic: ٱلنَّبِيَّ
     translation: (from) the Prophet
     transliteration: l-nabiya
   15:
-    arabic: يَقُوۡلُوۡنَ
+    arabic: يَقُولُونَ
     translation: saying
     transliteration: yaqūlūna
   16:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   17:
-    arabic: بُيُوۡتَنَا
+    arabic: بُيُوتَنَا
     translation: our houses
     transliteration: buyūtanā
   18:
-    arabic: عَوۡرَة​ٌ  ​ۛؕ
+    arabic: عَوۡرَةٞ
     translation: (are) exposed
     transliteration: ʿawratun
   19:
@@ -85,27 +84,27 @@ word_by_word:
     translation: and not
     transliteration: wamā
   20:
-    arabic: هِىَ
+    arabic: هِيَ
     translation: they
     transliteration: hiya
   21:
-    arabic: بِعَوۡرَةٍ  ۛۚ
+    arabic: بِعَوۡرَةٍۖ
     translation: (were) exposed
     transliteration: biʿawratin
   22:
-    arabic: اِنۡ
+    arabic: إِن
     translation: Not
     transliteration: in
   23:
-    arabic: يُّرِيۡدُوۡنَ
+    arabic: يُرِيدُونَ
     translation: they wished
     transliteration: yurīdūna
   24:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: but
     transliteration: illā
   25:
-    arabic: "فِرَارًا‏ \uFEFF\uFEFF"
+    arabic: فِرَارٗا
     translation: to flee
     transliteration: firāran
 ---

@@ -1,8 +1,8 @@
 ---
-arabic_ayat: تُرۡجِىۡ مَنۡ تَشَآءُ مِنۡهُنَّ وَتُـــْٔوِىۡۤ اِلَيۡكَ مَنۡ تَشَآءُ
-  ؕ وَمَنِ ابۡتَغَيۡتَ مِمَّنۡ عَزَلۡتَ فَلَا جُنَاحَ عَلَيۡكَ ؕ ذٰ لِكَ اَدۡنٰٓى
-  اَنۡ تَقَرَّ اَعۡيُنُهُنَّ وَلَا يَحۡزَنَّ وَيَرۡضَيۡنَ بِمَاۤ اٰتَيۡتَهُنَّ كُلُّهُنَّ
-  ؕ وَاللّٰهُ يَعۡلَمُ مَا فِىۡ قُلُوۡبِكُمۡ ؕ وَكَانَ اللّٰهُ عَلِيۡمًا حَلِيۡمًا‏
+arabic_ayat: ۞ تُرۡجِي مَن تَشَآءُ مِنۡهُنَّ وَتُـٔۡوِيٓ إِلَيۡكَ مَن تَشَآءُۖ وَمَنِ
+  ٱبۡتَغَيۡتَ مِمَّنۡ عَزَلۡتَ فَلَا جُنَاحَ عَلَيۡكَۚ ذَٰلِكَ أَدۡنَىٰٓ أَن تَقَرَّ
+  أَعۡيُنُهُنَّ وَلَا يَحۡزَنَّ وَيَرۡضَيۡنَ بِمَآ ءَاتَيۡتَهُنَّ كُلُّهُنَّۚ وَٱللَّهُ
+  يَعۡلَمُ مَا فِي قُلُوبِكُمۡۚ وَكَانَ ٱللَّهُ عَلِيمًا حَلِيمٗا
 sentence_translation: It is up to you ˹O Prophet˺ to delay or receive whoever you
   please of your wives. There is no blame on you if you call back any of those you
   have set aside. That is more likely that they will be content, not grieved, and
@@ -10,11 +10,11 @@ sentence_translation: It is up to you ˹O Prophet˺ to delay or receive whoever 
   And Allah is All-Knowing, Most Forbearing.
 word_by_word:
   1:
-    arabic: ۞ تُرۡجِىۡ
+    arabic: ۞ تُرۡجِي
     translation: You may defer
     transliteration: tur'jī
   2:
-    arabic: مَنۡ
+    arabic: مَن
     translation: whom
     transliteration: man
   3:
@@ -26,19 +26,19 @@ word_by_word:
     translation: of them
     transliteration: min'hunna
   5:
-    arabic: وَتُـــْٔوِىۡۤ
+    arabic: وَتُـٔۡوِيٓ
     translation: or you may take
     transliteration: watu'wī
   6:
-    arabic: اِلَيۡكَ
+    arabic: إِلَيۡكَ
     translation: to yourself
     transliteration: ilayka
   7:
-    arabic: مَنۡ
+    arabic: مَن
     translation: whom
     transliteration: man
   8:
-    arabic: تَشَآءُ ؕ
+    arabic: تَشَآءُۖ
     translation: you will
     transliteration: tashāu
   9:
@@ -46,7 +46,7 @@ word_by_word:
     translation: And whoever
     transliteration: wamani
   10:
-    arabic: ابۡتَغَيۡتَ
+    arabic: ٱبۡتَغَيۡتَ
     translation: you desire
     transliteration: ib'taghayta
   11:
@@ -66,19 +66,19 @@ word_by_word:
     translation: blame
     transliteration: junāḥa
   15:
-    arabic: عَلَيۡكَ ؕ
+    arabic: عَلَيۡكَۚ
     translation: upon you
     transliteration: ʿalayka
   16:
-    arabic: ذٰ لِكَ
+    arabic: ذَٰلِكَ
     translation: That
     transliteration: dhālika
   17:
-    arabic: اَدۡنٰٓى
+    arabic: أَدۡنَىٰٓ
     translation: (is) more suitable
     transliteration: adnā
   18:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that
     transliteration: an
   19:
@@ -86,7 +86,7 @@ word_by_word:
     translation: may be cooled
     transliteration: taqarra
   20:
-    arabic: اَعۡيُنُهُنَّ
+    arabic: أَعۡيُنُهُنَّ
     translation: their eyes
     transliteration: aʿyunuhunna
   21:
@@ -102,19 +102,19 @@ word_by_word:
     translation: and they may be pleased
     transliteration: wayarḍayna
   24:
-    arabic: بِمَاۤ
+    arabic: بِمَآ ءَ
     translation: with what
     transliteration: bimā
   25:
-    arabic: اٰتَيۡتَهُنَّ
+    arabic: اتَيۡتَهُنَّ
     translation: 'you have given them '
     transliteration: ātaytahunna
   26:
-    arabic: كُلُّهُنَّ ؕ
+    arabic: كُلُّهُنَّۚ
     translation: all of them
     transliteration: kulluhunna
   27:
-    arabic: وَاللّٰهُ
+    arabic: وَٱللَّهُ
     translation: And Allah
     transliteration: wal-lahu
   28:
@@ -126,11 +126,11 @@ word_by_word:
     translation: what
     transliteration: mā
   30:
-    arabic: فِىۡ
+    arabic: فِي
     translation: (is) in
     transliteration: fī
   31:
-    arabic: قُلُوۡبِكُمۡ ؕ
+    arabic: قُلُوبِكُمۡۚ
     translation: your hearts
     transliteration: qulūbikum
   32:
@@ -138,15 +138,15 @@ word_by_word:
     translation: And Allah is
     transliteration: wakāna
   33:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: And Allah is
     transliteration: l-lahu
   34:
-    arabic: عَلِيۡمًا
+    arabic: عَلِيمًا
     translation: All-Knower
     transliteration: ʿalīman
   35:
-    arabic: حَلِيۡمًا‏
+    arabic: حَلِيمٗا
     translation: Most Forbearing
     transliteration: ḥalīman
 ---

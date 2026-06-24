@@ -1,27 +1,27 @@
 ---
-arabic_ayat: "وَلَـقَدۡ اٰتَيۡنَاۤ اِبۡرٰهِيۡمَ رُشۡدَهٗ مِنۡ قَبۡلُ وَ كُنَّا بِهٖ\
-  \ عٰلِمِيۡنَ​ۚ‏ \uFEFF\uFEFF"
+arabic_ayat: ۞ وَلَقَدۡ ءَاتَيۡنَآ إِبۡرَٰهِيمَ رُشۡدَهُۥ مِن قَبۡلُ وَكُنَّا بِهِۦ
+  عَٰلِمِينَ
 sentence_translation: And indeed, We had granted Abraham sound judgment early on,
   for We knew him well ˹to be worthy of it˺.
 word_by_word:
   1:
-    arabic: ۞ وَلَـقَدۡ
+    arabic: ۞ وَلَقَدۡ ءَ
     translation: And verily
     transliteration: walaqad
   2:
-    arabic: اٰتَيۡنَاۤ
+    arabic: اتَيۡنَآ
     translation: We gave
     transliteration: ātaynā
   3:
-    arabic: اِبۡرٰهِيۡمَ
+    arabic: إِبۡرَٰهِيمَ
     translation: Ibrahim
     transliteration: ib'rāhīma
   4:
-    arabic: رُشۡدَهٗ
+    arabic: رُشۡدَهُۥ
     translation: his guidance
     transliteration: rush'dahu
   5:
-    arabic: مِنۡ
+    arabic: مِن
     translation: before
     transliteration: min
   6:
@@ -29,15 +29,15 @@ word_by_word:
     translation: before
     transliteration: qablu
   7:
-    arabic: وَ كُنَّا
+    arabic: وَكُنَّا
     translation: and We were
     transliteration: wakunnā
   8:
-    arabic: بِهٖ
+    arabic: بِهِۦ
     translation: about him
     transliteration: bihi
   9:
-    arabic: "عٰلِمِيۡنَ​ۚ‏ \uFEFF\uFEFF"
+    arabic: عَٰلِمِينَ
     translation: Well-Knowing
     transliteration: ʿālimīna
 ---

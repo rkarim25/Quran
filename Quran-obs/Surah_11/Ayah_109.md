@@ -1,7 +1,7 @@
 ---
-arabic_ayat: فَلَا تَكُ فِىۡ مِرۡيَةٍ مِّمَّا يَعۡبُدُ هٰٓؤُلَاۤءِ ​ؕ مَا يَعۡبُدُوۡنَ
-  اِلَّا كَمَا يَعۡبُدُ اٰبَآؤُهُمۡ مِّنۡ قَبۡلُ​ؕ وَاِنَّا لَمُوَفُّوۡهُمۡ نَصِيۡبَهُمۡ
-  غَيۡرَ مَنۡقُوۡصٍ‏
+arabic_ayat: فَلَا تَكُ فِي مِرۡيَةٖ مِّمَّا يَعۡبُدُ هَٰٓؤُلَآءِۚ مَا يَعۡبُدُونَ
+  إِلَّا كَمَا يَعۡبُدُ ءَابَآؤُهُم مِّن قَبۡلُۚ وَإِنَّا لَمُوَفُّوهُمۡ نَصِيبَهُمۡ
+  غَيۡرَ مَنقُوصٖ
 sentence_translation: So do not be in doubt ˹O Prophet˺ about what those ˹pagans˺
   worship. They worship nothing except what their forefathers worshipped before ˹them˺.
   And We will certainly give them their share ˹of punishment˺ in full, without any
@@ -16,11 +16,11 @@ word_by_word:
     translation: be
     transliteration: taku
   3:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   4:
-    arabic: مِرۡيَةٍ
+    arabic: مِرۡيَةٖ
     translation: doubt
     transliteration: mir'yatin
   5:
@@ -32,7 +32,7 @@ word_by_word:
     translation: worship
     transliteration: yaʿbudu
   7:
-    arabic: هٰٓؤُلَاۤءِ ​ؕ
+    arabic: هَٰٓؤُلَآءِۚ
     translation: these (polytheists)
     transliteration: hāulāi
   8:
@@ -40,11 +40,11 @@ word_by_word:
     translation: Not
     transliteration: mā
   9:
-    arabic: يَعۡبُدُوۡنَ
+    arabic: يَعۡبُدُونَ
     translation: they worship
     transliteration: yaʿbudūna
   10:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   11:
@@ -52,31 +52,31 @@ word_by_word:
     translation: as what
     transliteration: kamā
   12:
-    arabic: يَعۡبُدُ
+    arabic: يَعۡبُدُ ءَ
     translation: worshipped
     transliteration: yaʿbudu
   13:
-    arabic: اٰبَآؤُهُمۡ
+    arabic: ابَآؤُهُم
     translation: their forefathers
     transliteration: ābāuhum
   14:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: before
     transliteration: min
   15:
-    arabic: قَبۡلُ​ؕ
+    arabic: قَبۡلُۚ
     translation: before
     transliteration: qablu
   16:
-    arabic: وَاِنَّا
+    arabic: وَإِنَّا
     translation: And indeed, We
     transliteration: wa-innā
   17:
-    arabic: لَمُوَفُّوۡهُمۡ
+    arabic: لَمُوَفُّوهُمۡ
     translation: will surely pay them in full
     transliteration: lamuwaffūhum
   18:
-    arabic: نَصِيۡبَهُمۡ
+    arabic: نَصِيبَهُمۡ
     translation: their share
     transliteration: naṣībahum
   19:
@@ -84,7 +84,7 @@ word_by_word:
     translation: without
     transliteration: ghayra
   20:
-    arabic: مَنۡقُوۡصٍ‏
+    arabic: مَنقُوصٖ
     translation: being diminished
     transliteration: manqūṣin
 ---

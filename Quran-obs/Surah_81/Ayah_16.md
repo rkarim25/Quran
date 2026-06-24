@@ -1,13 +1,13 @@
 ---
-arabic_ayat: الۡجَوَارِ الۡكُنَّسِۙ‏
+arabic_ayat: ٱلۡجَوَارِ ٱلۡكُنَّسِ
 sentence_translation: which travel and hide,
 word_by_word:
   1:
-    arabic: الۡجَوَارِ
+    arabic: ٱلۡجَوَارِ
     translation: Those that run
     transliteration: al-jawāri
   2:
-    arabic: الۡكُنَّسِۙ‏
+    arabic: ٱلۡكُنَّسِ
     translation: (and) disappear
     transliteration: l-kunasi
 ---

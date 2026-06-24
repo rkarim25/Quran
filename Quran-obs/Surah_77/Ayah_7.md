@@ -1,17 +1,17 @@
 ---
-arabic_ayat: اِنَّمَا تُوۡعَدُوۡنَ لَوَاقِعٌ ؕ‏
+arabic_ayat: إِنَّمَا تُوعَدُونَ لَوَٰقِعٞ
 sentence_translation: Surely, what you are promised will come to pass.
 word_by_word:
   1:
-    arabic: اِنَّمَا
+    arabic: إِنَّمَا
     translation: Indeed, what
     transliteration: innamā
   2:
-    arabic: تُوۡعَدُوۡنَ
+    arabic: تُوعَدُونَ
     translation: you are promised
     transliteration: tūʿadūna
   3:
-    arabic: لَوَاقِعٌ ؕ‏
+    arabic: لَوَٰقِعٞ
     translation: will surely occur
     transliteration: lawāqiʿun
 ---

@@ -1,17 +1,16 @@
 ---
-arabic_ayat: "وَ اَقۡسَمُوۡا بِاللّٰهِ جَهۡدَ اَيۡمَانِهِمۡ​ۙ لَا يَبۡعَثُ اللّٰهُ\
-  \ مَنۡ يَّمُوۡتُ​ؕ بَلٰى وَعۡدًا عَلَيۡهِ حَقًّا وَّلٰـكِنَّ اَكۡثَرَ النَّاسِ لَا\
-  \ يَعۡلَمُوۡنَۙ‏ \uFEFF\uFEFF"
+arabic_ayat: وَأَقۡسَمُواْ بِٱللَّهِ جَهۡدَ أَيۡمَٰنِهِمۡ لَا يَبۡعَثُ ٱللَّهُ مَن
+  يَمُوتُۚ بَلَىٰ وَعۡدًا عَلَيۡهِ حَقّٗا وَلَٰكِنَّ أَكۡثَرَ ٱلنَّاسِ لَا يَعۡلَمُونَ
 sentence_translation: They swear by Allah their most solemn oaths that Allah will
   never raise the dead to life. Yes ˹He will˺! It is a true promise binding on Him,
   but most people do not know.
 word_by_word:
   1:
-    arabic: وَ اَقۡسَمُوۡا
+    arabic: وَأَقۡسَمُواْ
     translation: And they swear
     transliteration: wa-aqsamū
   2:
-    arabic: بِاللّٰهِ
+    arabic: بِٱللَّهِ
     translation: by Allah
     transliteration: bil-lahi
   3:
@@ -19,7 +18,7 @@ word_by_word:
     translation: strongest
     transliteration: jahda
   4:
-    arabic: اَيۡمَانِهِمۡ​ۙ
+    arabic: أَيۡمَٰنِهِمۡ
     translation: (of) their oaths
     transliteration: aymānihim
   5:
@@ -31,19 +30,19 @@ word_by_word:
     translation: Allah will not resurrect
     transliteration: yabʿathu
   7:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah will not resurrect
     transliteration: l-lahu
   8:
-    arabic: مَنۡ
+    arabic: مَن
     translation: (one) who
     transliteration: man
   9:
-    arabic: يَّمُوۡتُ​ؕ
+    arabic: يَمُوتُۚ
     translation: dies
     transliteration: yamūtu
   10:
-    arabic: بَلٰى
+    arabic: بَلَىٰ
     translation: Nay
     transliteration: balā
   11:
@@ -55,19 +54,19 @@ word_by_word:
     translation: upon Him
     transliteration: ʿalayhi
   13:
-    arabic: حَقًّا
+    arabic: حَقّٗا
     translation: (in) truth
     transliteration: ḥaqqan
   14:
-    arabic: وَّلٰـكِنَّ
+    arabic: وَلَٰكِنَّ
     translation: but
     transliteration: walākinna
   15:
-    arabic: اَكۡثَرَ
+    arabic: أَكۡثَرَ
     translation: most
     transliteration: akthara
   16:
-    arabic: النَّاسِ
+    arabic: ٱلنَّاسِ
     translation: (of) the mankind
     transliteration: l-nāsi
   17:
@@ -75,7 +74,7 @@ word_by_word:
     translation: (do) not
     transliteration: lā
   18:
-    arabic: "يَعۡلَمُوۡنَۙ‏ \uFEFF\uFEFF"
+    arabic: يَعۡلَمُونَ
     translation: know
     transliteration: yaʿlamūna
 ---

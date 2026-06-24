@@ -1,20 +1,20 @@
 ---
-arabic_ayat: فَانْطَلَقَا حَتّٰۤى اِذَا رَكِبَا فِى السَّفِيۡنَةِ خَرَقَهَا​ ؕ قَالَ
-  اَخَرَقۡتَهَا لِتُغۡرِقَ اَهۡلَهَا​ ۚ لَقَدۡ جِئۡتَ شَيۡــًٔـا اِمۡرًا‏
+arabic_ayat: فَٱنطَلَقَا حَتَّىٰٓ إِذَا رَكِبَا فِي ٱلسَّفِينَةِ خَرَقَهَاۖ قَالَ
+  أَخَرَقۡتَهَا لِتُغۡرِقَ أَهۡلَهَا لَقَدۡ جِئۡتَ شَيۡـًٔا إِمۡرٗا
 sentence_translation: So they set out, but after they had boarded a ship, the man
   made a hole in it. Moses protested, “Have you done this to drown its people? You
   have certainly done a terrible thing!”
 word_by_word:
   1:
-    arabic: فَانْطَلَقَا
+    arabic: فَٱنطَلَقَا
     translation: So they both set out
     transliteration: fa-inṭalaqā
   2:
-    arabic: حَتّٰۤى
+    arabic: حَتَّىٰٓ
     translation: until
     transliteration: ḥattā
   3:
-    arabic: اِذَا
+    arabic: إِذَا
     translation: when
     transliteration: idhā
   4:
@@ -22,15 +22,15 @@ word_by_word:
     translation: they had embarked
     transliteration: rakibā
   5:
-    arabic: فِى
+    arabic: فِي
     translation: 'on'
     transliteration: fī
   6:
-    arabic: السَّفِيۡنَةِ
+    arabic: ٱلسَّفِينَةِ
     translation: the ship
     transliteration: l-safīnati
   7:
-    arabic: خَرَقَهَا​ ؕ
+    arabic: خَرَقَهَاۖ
     translation: he made a hole in it
     transliteration: kharaqahā
   8:
@@ -38,7 +38,7 @@ word_by_word:
     translation: He said
     transliteration: qāla
   9:
-    arabic: اَخَرَقۡتَهَا
+    arabic: أَخَرَقۡتَهَا
     translation: Have you made a hole in it
     transliteration: akharaqtahā
   10:
@@ -46,7 +46,7 @@ word_by_word:
     translation: to drown
     transliteration: litugh'riqa
   11:
-    arabic: اَهۡلَهَا​ ۚ
+    arabic: أَهۡلَهَا
     translation: its people
     transliteration: ahlahā
   12:
@@ -58,11 +58,11 @@ word_by_word:
     translation: you have done
     transliteration: ji'ta
   14:
-    arabic: شَيۡــًٔـا
+    arabic: شَيۡـًٔا
     translation: a thing
     transliteration: shayan
   15:
-    arabic: اِمۡرًا‏
+    arabic: إِمۡرٗا
     translation: grave
     transliteration: im'ran
 ---

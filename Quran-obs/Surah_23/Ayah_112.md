@@ -1,9 +1,9 @@
 ---
-arabic_ayat: قٰلَ كَمۡ لَبِثۡتُمۡ فِى الۡاَرۡضِ عَدَدَ سِنِيۡنَ‏
+arabic_ayat: قَٰلَ كَمۡ لَبِثۡتُمۡ فِي ٱلۡأَرۡضِ عَدَدَ سِنِينَ
 sentence_translation: He will ask ˹them˺, “How many years did you remain on earth?”
 word_by_word:
   1:
-    arabic: قٰلَ
+    arabic: قَٰلَ
     translation: He will say
     transliteration: qāla
   2:
@@ -15,11 +15,11 @@ word_by_word:
     translation: did you remain
     transliteration: labith'tum
   4:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   5:
-    arabic: الۡاَرۡضِ
+    arabic: ٱلۡأَرۡضِ
     translation: the earth
     transliteration: l-arḍi
   6:
@@ -27,7 +27,7 @@ word_by_word:
     translation: (in) number
     transliteration: ʿadada
   7:
-    arabic: سِنِيۡنَ‏
+    arabic: سِنِينَ
     translation: (of) years
     transliteration: sinīna
 ---

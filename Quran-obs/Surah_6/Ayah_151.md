@@ -1,9 +1,9 @@
 ---
-arabic_ayat: قُلۡ تَعَالَوۡا اَتۡلُ مَا حَرَّمَ رَبُّكُمۡ عَلَيۡكُمۡ​ اَلَّا تُشۡرِكُوۡا
-  بِهٖ شَيۡـًٔـــا وَّبِالۡوَالِدَيۡنِ اِحۡسَانًا​ ۚ وَلَا تَقۡتُلُوۡۤا اَوۡلَادَكُمۡ
-  مِّنۡ اِمۡلَاقٍ​ؕ نَحۡنُ نَرۡزُقُكُمۡ وَاِيَّاهُمۡ​ ۚ وَلَا تَقۡرَبُوا الۡفَوَاحِشَ
-  مَا ظَهَرَ مِنۡهَا وَمَا بَطَنَ​ ۚ وَلَا تَقۡتُلُوا النَّفۡسَ الَّتِىۡ حَرَّمَ اللّٰهُ
-  اِلَّا بِالۡحَـقِّ​ ؕ ذٰ لِكُمۡ وَصّٰٮكُمۡ بِهٖ لَعَلَّكُمۡ تَعۡقِلُوۡنَ‏
+arabic_ayat: ۞ قُلۡ تَعَالَوۡاْ أَتۡلُ مَا حَرَّمَ رَبُّكُمۡ عَلَيۡكُمۡۖ أَلَّا تُشۡرِكُواْ
+  بِهِۦ شَيۡـٔٗاۖ وَبِٱلۡوَٰلِدَيۡنِ إِحۡسَٰنٗاۖ وَلَا تَقۡتُلُوٓاْ أَوۡلَٰدَكُم مِّنۡ
+  إِمۡلَٰقٖ نَّحۡنُ نَرۡزُقُكُمۡ وَإِيَّاهُمۡۖ وَلَا تَقۡرَبُواْ ٱلۡفَوَٰحِشَ مَا
+  ظَهَرَ مِنۡهَا وَمَا بَطَنَۖ وَلَا تَقۡتُلُواْ ٱلنَّفۡسَ ٱلَّتِي حَرَّمَ ٱللَّهُ
+  إِلَّا بِٱلۡحَقِّۚ ذَٰلِكُمۡ وَصَّىٰكُم بِهِۦ لَعَلَّكُمۡ تَعۡقِلُونَ
 sentence_translation: 'Say, ˹O Prophet,˺ “Come! Let me recite to you what your Lord
   has forbidden to you: do not associate others with Him ˹in worship˺. ˹Do not fail
   to˺ honour your parents. Do not kill your children for fear of poverty. We provide
@@ -12,15 +12,15 @@ sentence_translation: 'Say, ˹O Prophet,˺ “Come! Let me recite to you what yo
   commanded you, so perhaps you will understand.'
 word_by_word:
   1:
-    arabic: ۞ قُلۡ
+    arabic: ۞ قُلۡ
     translation: Say
     transliteration: qul
   2:
-    arabic: تَعَالَوۡا
+    arabic: تَعَالَوۡاْ
     translation: Come
     transliteration: taʿālaw
   3:
-    arabic: اَتۡلُ
+    arabic: أَتۡلُ
     translation: I will recite
     transliteration: atlu
   4:
@@ -36,31 +36,31 @@ word_by_word:
     translation: your Lord
     transliteration: rabbukum
   7:
-    arabic: عَلَيۡكُمۡ​
+    arabic: عَلَيۡكُمۡۖ
     translation: to you
     transliteration: ʿalaykum
   8:
-    arabic: اَلَّا
+    arabic: أَلَّا
     translation: That (do) not
     transliteration: allā
   9:
-    arabic: تُشۡرِكُوۡا
+    arabic: تُشۡرِكُواْ
     translation: associate
     transliteration: tush'rikū
   10:
-    arabic: بِهٖ
+    arabic: بِهِۦ
     translation: with Him
     transliteration: bihi
   11:
-    arabic: شَيۡـًٔـــا
+    arabic: شَيۡـٔٗاۖ
     translation: anything
     transliteration: shayan
   12:
-    arabic: وَّبِالۡوَالِدَيۡنِ
+    arabic: وَبِٱلۡوَٰلِدَيۡنِ
     translation: and with the parents
     transliteration: wabil-wālidayni
   13:
-    arabic: اِحۡسَانًا​ ۚ
+    arabic: إِحۡسَٰنٗاۖ
     translation: (be) good
     transliteration: iḥ'sānan
   14:
@@ -68,11 +68,11 @@ word_by_word:
     translation: and (do) not
     transliteration: walā
   15:
-    arabic: تَقۡتُلُوۡۤا
+    arabic: تَقۡتُلُوٓاْ
     translation: kill
     transliteration: taqtulū
   16:
-    arabic: اَوۡلَادَكُمۡ
+    arabic: أَوۡلَٰدَكُم
     translation: your children
     transliteration: awlādakum
   17:
@@ -80,11 +80,11 @@ word_by_word:
     translation: (out) of
     transliteration: min
   18:
-    arabic: اِمۡلَاقٍ​ؕ
+    arabic: إِمۡلَٰقٖ
     translation: poverty
     transliteration: im'lāqin
   19:
-    arabic: نَحۡنُ
+    arabic: نَّحۡنُ
     translation: We
     transliteration: naḥnu
   20:
@@ -92,7 +92,7 @@ word_by_word:
     translation: provide for you
     transliteration: narzuqukum
   21:
-    arabic: وَاِيَّاهُمۡ​ ۚ
+    arabic: وَإِيَّاهُمۡۖ
     translation: and for them
     transliteration: wa-iyyāhum
   22:
@@ -100,11 +100,11 @@ word_by_word:
     translation: And (do) not
     transliteration: walā
   23:
-    arabic: تَقۡرَبُوا
+    arabic: تَقۡرَبُواْ
     translation: go near
     transliteration: taqrabū
   24:
-    arabic: الۡفَوَاحِشَ
+    arabic: ٱلۡفَوَٰحِشَ
     translation: '[the] immoralities'
     transliteration: l-fawāḥisha
   25:
@@ -124,7 +124,7 @@ word_by_word:
     translation: and what
     transliteration: wamā
   29:
-    arabic: بَطَنَ​ ۚ
+    arabic: بَطَنَۖ
     translation: (is) concealed
     transliteration: baṭana
   30:
@@ -132,15 +132,15 @@ word_by_word:
     translation: And (do) not
     transliteration: walā
   31:
-    arabic: تَقۡتُلُوا
+    arabic: تَقۡتُلُواْ
     translation: kill
     transliteration: taqtulū
   32:
-    arabic: النَّفۡسَ
+    arabic: ٱلنَّفۡسَ
     translation: the soul
     transliteration: l-nafsa
   33:
-    arabic: الَّتِىۡ
+    arabic: ٱلَّتِي
     translation: which
     transliteration: allatī
   34:
@@ -148,27 +148,27 @@ word_by_word:
     translation: has (been) forbidden
     transliteration: ḥarrama
   35:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: (by) Allah
     transliteration: l-lahu
   36:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   37:
-    arabic: بِالۡحَـقِّ​ ؕ
+    arabic: بِٱلۡحَقِّۚ
     translation: by (legal) right
     transliteration: bil-ḥaqi
   38:
-    arabic: ذٰ لِكُمۡ
+    arabic: ذَٰلِكُمۡ
     translation: That
     transliteration: dhālikum
   39:
-    arabic: وَصّٰٮكُمۡ
+    arabic: وَصَّىٰكُم
     translation: (He) has enjoined on you
     transliteration: waṣṣākum
   40:
-    arabic: بِهٖ
+    arabic: بِهِۦ
     translation: with it
     transliteration: bihi
   41:
@@ -176,7 +176,7 @@ word_by_word:
     translation: so that you may
     transliteration: laʿallakum
   42:
-    arabic: تَعۡقِلُوۡنَ‏
+    arabic: تَعۡقِلُونَ
     translation: use reason
     transliteration: taʿqilūna
 ---

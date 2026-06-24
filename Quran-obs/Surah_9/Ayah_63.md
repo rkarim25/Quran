@@ -1,43 +1,43 @@
 ---
-arabic_ayat: اَلَمۡ يَعۡلَمُوۡۤا اَنَّهٗ مَنۡ يُّحَادِدِ اللّٰهَ وَرَسُوۡلَهٗ فَاَنَّ
-  لَهٗ نَارَ جَهَـنَّمَ خَالِدًا فِيۡهَا​ ؕ ذٰ لِكَ الۡخِزۡىُ الۡعَظِيۡمُ‏
+arabic_ayat: أَلَمۡ يَعۡلَمُوٓاْ أَنَّهُۥ مَن يُحَادِدِ ٱللَّهَ وَرَسُولَهُۥ فَأَنَّ
+  لَهُۥ نَارَ جَهَنَّمَ خَٰلِدٗا فِيهَاۚ ذَٰلِكَ ٱلۡخِزۡيُ ٱلۡعَظِيمُ
 sentence_translation: Do they not know that whoever opposes Allah and His Messenger
   will be in the Fire of Hell forever? That is the ultimate disgrace.
 word_by_word:
   1:
-    arabic: اَلَمۡ
+    arabic: أَلَمۡ
     translation: Do not
     transliteration: alam
   2:
-    arabic: يَعۡلَمُوۡۤا
+    arabic: يَعۡلَمُوٓاْ
     translation: they know
     transliteration: yaʿlamū
   3:
-    arabic: اَنَّهٗ
+    arabic: أَنَّهُۥ
     translation: that he
     transliteration: annahu
   4:
-    arabic: مَنۡ
+    arabic: مَن
     translation: who
     transliteration: man
   5:
-    arabic: يُّحَادِدِ
+    arabic: يُحَادِدِ
     translation: opposes
     transliteration: yuḥādidi
   6:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   7:
-    arabic: وَرَسُوۡلَهٗ
+    arabic: وَرَسُولَهُۥ
     translation: and His Messenger
     transliteration: warasūlahu
   8:
-    arabic: فَاَنَّ
+    arabic: فَأَنَّ
     translation: '[then] that'
     transliteration: fa-anna
   9:
-    arabic: لَهٗ
+    arabic: لَهُۥ
     translation: for him
     transliteration: lahu
   10:
@@ -45,27 +45,27 @@ word_by_word:
     translation: (is the) Fire
     transliteration: nāra
   11:
-    arabic: جَهَـنَّمَ
+    arabic: جَهَنَّمَ
     translation: (of) Hell
     transliteration: jahannama
   12:
-    arabic: خَالِدًا
+    arabic: خَٰلِدٗا
     translation: (will) abide forever
     transliteration: khālidan
   13:
-    arabic: فِيۡهَا​ ؕ
+    arabic: فِيهَاۚ
     translation: in it
     transliteration: fīhā
   14:
-    arabic: ذٰ لِكَ
+    arabic: ذَٰلِكَ
     translation: That
     transliteration: dhālika
   15:
-    arabic: الۡخِزۡىُ
+    arabic: ٱلۡخِزۡيُ
     translation: (is) the disgrace
     transliteration: l-khiz'yu
   16:
-    arabic: الۡعَظِيۡمُ‏
+    arabic: ٱلۡعَظِيمُ
     translation: the great
     transliteration: l-ʿaẓīmu
 ---

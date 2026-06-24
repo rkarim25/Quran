@@ -1,39 +1,38 @@
 ---
-arabic_ayat: "وَلَـهُ الۡحَمۡدُ فِىۡ السَّمٰوٰتِ وَالۡاَرۡضِ وَعَشِيًّا وَّحِيۡنَ\
-  \ تُظۡهِرُوۡنَ‏ \uFEFF\uFEFF"
+arabic_ayat: وَلَهُ ٱلۡحَمۡدُ فِي ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِ وَعَشِيّٗا وَحِينَ تُظۡهِرُونَ
 sentence_translation: all praise is for Him in the heavens and the earth—as well as
   in the afternoon, and at noon. 
 word_by_word:
   1:
-    arabic: وَلَـهُ
+    arabic: وَلَهُ
     translation: And for Him
     transliteration: walahu
   2:
-    arabic: الۡحَمۡدُ
+    arabic: ٱلۡحَمۡدُ
     translation: (are) all praises
     transliteration: l-ḥamdu
   3:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   4:
-    arabic: السَّمٰوٰتِ
+    arabic: ٱلسَّمَٰوَٰتِ
     translation: the heavens
     transliteration: l-samāwāti
   5:
-    arabic: وَالۡاَرۡضِ
+    arabic: وَٱلۡأَرۡضِ
     translation: and the earth
     transliteration: wal-arḍi
   6:
-    arabic: وَعَشِيًّا
+    arabic: وَعَشِيّٗا
     translation: and (at) night
     transliteration: waʿashiyyan
   7:
-    arabic: وَّحِيۡنَ
+    arabic: وَحِينَ
     translation: and when
     transliteration: waḥīna
   8:
-    arabic: "تُظۡهِرُوۡنَ‏ \uFEFF\uFEFF"
+    arabic: تُظۡهِرُونَ
     translation: you are at noon
     transliteration: tuẓ'hirūna
 ---

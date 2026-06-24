@@ -1,27 +1,26 @@
 ---
-arabic_ayat: وَقَالُوۡا لَنۡ نُّـؤۡمِنَ لَـكَ حَتّٰى تَفۡجُرَ لَنَا مِنَ الۡاَرۡضِ
-  يَنۡۢبُوۡعًا ۙ‏
+arabic_ayat: وَقَالُواْ لَن نُّؤۡمِنَ لَكَ حَتَّىٰ تَفۡجُرَ لَنَا مِنَ ٱلۡأَرۡضِ يَنۢبُوعًا
 sentence_translation: They challenge ˹the Prophet˺, “We will never believe in you
   until you cause a spring to gush forth from the earth for us,
 word_by_word:
   1:
-    arabic: وَقَالُوۡا
+    arabic: وَقَالُواْ
     translation: And they say
     transliteration: waqālū
   2:
-    arabic: لَنۡ
+    arabic: لَن
     translation: Never
     transliteration: lan
   3:
-    arabic: نُّـؤۡمِنَ
+    arabic: نُّؤۡمِنَ
     translation: we will believe
     transliteration: nu'mina
   4:
-    arabic: لَـكَ
+    arabic: لَكَ
     translation: in you
     transliteration: laka
   5:
-    arabic: حَتّٰى
+    arabic: حَتَّىٰ
     translation: until
     transliteration: ḥattā
   6:
@@ -37,11 +36,11 @@ word_by_word:
     translation: from
     transliteration: mina
   9:
-    arabic: الۡاَرۡضِ
+    arabic: ٱلۡأَرۡضِ
     translation: the earth
     transliteration: l-arḍi
   10:
-    arabic: يَنۡۢبُوۡعًا ۙ‏
+    arabic: يَنۢبُوعًا
     translation: a spring
     transliteration: yanbūʿan
 ---

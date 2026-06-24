@@ -1,10 +1,10 @@
 ---
-arabic_ayat: لّٰـكِنَّا۟ هُوَ اللّٰهُ رَبِّىۡ وَلَاۤ اُشۡرِكُ بِرَبِّىۡۤ اَحَدًا‏
+arabic_ayat: لَّٰكِنَّا۠ هُوَ ٱللَّهُ رَبِّي وَلَآ أُشۡرِكُ بِرَبِّيٓ أَحَدٗا
 sentence_translation: 'But as for me: He is Allah, my Lord, and I will never associate
   anyone with my Lord ˹in worship˺.'
 word_by_word:
   1:
-    arabic: لّٰـكِنَّا۟
+    arabic: لَّٰكِنَّا۠
     translation: But as for me
     transliteration: lākinnā
   2:
@@ -12,27 +12,27 @@ word_by_word:
     translation: He
     transliteration: huwa
   3:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: (is) Allah
     transliteration: l-lahu
   4:
-    arabic: رَبِّىۡ
+    arabic: رَبِّي
     translation: my Lord
     transliteration: rabbī
   5:
-    arabic: وَلَاۤ
+    arabic: وَلَآ
     translation: and not
     transliteration: walā
   6:
-    arabic: اُشۡرِكُ
+    arabic: أُشۡرِكُ
     translation: I associate
     transliteration: ush'riku
   7:
-    arabic: بِرَبِّىۡۤ
+    arabic: بِرَبِّيٓ
     translation: with my Lord
     transliteration: birabbī
   8:
-    arabic: اَحَدًا‏
+    arabic: أَحَدٗا
     translation: anyone
     transliteration: aḥadan
 ---

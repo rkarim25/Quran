@@ -1,37 +1,37 @@
 ---
-arabic_ayat: وَمِنۡ اٰيٰتِهٖ يُرِيۡكُمُ الۡبَرۡقَ خَوۡفًا وَّطَمَعًا وَّيُنَزِّلُ
-  مِنَ السَّمَآءِ مَآءً فَيُحۡىٖ بِهِ الۡاَرۡضَ بَعۡدَ مَوۡتِهَا ​ؕ اِنَّ فِىۡ ذٰلِكَ
-  لَاٰيٰتٍ لِّقَوۡمٍ يَّعۡقِلُوۡنَ‏
+arabic_ayat: وَمِنۡ ءَايَٰتِهِۦ يُرِيكُمُ ٱلۡبَرۡقَ خَوۡفٗا وَطَمَعٗا وَيُنَزِّلُ
+  مِنَ ٱلسَّمَآءِ مَآءٗ فَيُحۡيِۦ بِهِ ٱلۡأَرۡضَ بَعۡدَ مَوۡتِهَآۚ إِنَّ فِي ذَٰلِكَ
+  لَأٓيَٰتٖ لِّقَوۡمٖ يَعۡقِلُونَ
 sentence_translation: And one of His signs is that He shows you lightning, inspiring
   ˹you with˺ hope and fear. And He sends down rain from the sky, reviving the earth
   after its death. Surely in this are signs for people who understand.
 word_by_word:
   1:
-    arabic: وَمِنۡ
+    arabic: وَمِنۡ ءَ
     translation: And among
     transliteration: wamin
   2:
-    arabic: اٰيٰتِهٖ
+    arabic: ايَٰتِهِۦ
     translation: His Signs
     transliteration: āyātihi
   3:
-    arabic: يُرِيۡكُمُ
+    arabic: يُرِيكُمُ
     translation: He shows you
     transliteration: yurīkumu
   4:
-    arabic: الۡبَرۡقَ
+    arabic: ٱلۡبَرۡقَ
     translation: the lightning
     transliteration: l-barqa
   5:
-    arabic: خَوۡفًا
+    arabic: خَوۡفٗا
     translation: (causing) fear
     transliteration: khawfan
   6:
-    arabic: وَّطَمَعًا
+    arabic: وَطَمَعٗا
     translation: and hope
     transliteration: waṭamaʿan
   7:
-    arabic: وَّيُنَزِّلُ
+    arabic: وَيُنَزِّلُ
     translation: and He sends down
     transliteration: wayunazzilu
   8:
@@ -39,15 +39,15 @@ word_by_word:
     translation: from
     transliteration: mina
   9:
-    arabic: السَّمَآءِ
+    arabic: ٱلسَّمَآءِ
     translation: the sky
     transliteration: l-samāi
   10:
-    arabic: مَآءً
+    arabic: مَآءٗ
     translation: water
     transliteration: māan
   11:
-    arabic: فَيُحۡىٖ
+    arabic: فَيُحۡيِۦ
     translation: and gives life
     transliteration: fayuḥ'yī
   12:
@@ -55,7 +55,7 @@ word_by_word:
     translation: therewith
     transliteration: bihi
   13:
-    arabic: الۡاَرۡضَ
+    arabic: ٱلۡأَرۡضَ
     translation: (to) the earth
     transliteration: l-arḍa
   14:
@@ -63,31 +63,31 @@ word_by_word:
     translation: after
     transliteration: baʿda
   15:
-    arabic: مَوۡتِهَا ​ؕ
+    arabic: مَوۡتِهَآۚ
     translation: its death
     transliteration: mawtihā
   16:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   17:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   18:
-    arabic: ذٰلِكَ
+    arabic: ذَٰلِكَ
     translation: that
     transliteration: dhālika
   19:
-    arabic: لَاٰيٰتٍ
+    arabic: لَأٓيَٰتٖ
     translation: surely (are) Signs
     transliteration: laāyātin
   20:
-    arabic: لِّقَوۡمٍ
+    arabic: لِّقَوۡمٖ
     translation: for a people
     transliteration: liqawmin
   21:
-    arabic: يَّعۡقِلُوۡنَ‏
+    arabic: يَعۡقِلُونَ
     translation: who use intellect
     transliteration: yaʿqilūna
 ---

@@ -1,26 +1,26 @@
 ---
-arabic_ayat: اِذۡ دَخَلُوۡا عَلٰى دَاوٗدَ فَفَزِعَ مِنۡهُمۡ​ قَالُوۡا لَا تَخَفۡ​ۚ
-  خَصۡمٰنِ بَغٰى بَعۡضُنَا عَلٰى بَعۡضٍ فَاحۡكُمۡ بَيۡنَنَا بِالۡحَقِّ وَلَا تُشۡطِطۡ
-  وَاهۡدِنَاۤ اِلٰى سَوَآءِ الصِّرَاطِ‏
+arabic_ayat: إِذۡ دَخَلُواْ عَلَىٰ دَاوُۥدَ فَفَزِعَ مِنۡهُمۡۖ قَالُواْ لَا تَخَفۡۖ
+  خَصۡمَانِ بَغَىٰ بَعۡضُنَا عَلَىٰ بَعۡضٖ فَٱحۡكُم بَيۡنَنَا بِٱلۡحَقِّ وَلَا تُشۡطِطۡ
+  وَٱهۡدِنَآ إِلَىٰ سَوَآءِ ٱلصِّرَٰطِ
 sentence_translation: 'When they came into David’s presence, he was startled by them.
   They said, “Have no fear. ˹We are merely˺ two in a dispute: one of us has wronged
   the other. So judge between us with truth—do not go beyond ˹it˺—and guide us to
   the right way.'
 word_by_word:
   1:
-    arabic: اِذۡ
+    arabic: إِذۡ
     translation: When
     transliteration: idh
   2:
-    arabic: دَخَلُوۡا
+    arabic: دَخَلُواْ
     translation: they entered
     transliteration: dakhalū
   3:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: upon
     transliteration: ʿalā
   4:
-    arabic: دَاوٗدَ
+    arabic: دَاوُۥدَ
     translation: Dawood
     transliteration: dāwūda
   5:
@@ -28,11 +28,11 @@ word_by_word:
     translation: and he was afraid
     transliteration: fafaziʿa
   6:
-    arabic: مِنۡهُمۡ​
+    arabic: مِنۡهُمۡۖ
     translation: of them
     transliteration: min'hum
   7:
-    arabic: قَالُوۡا
+    arabic: قَالُواْ
     translation: they said
     transliteration: qālū
   8:
@@ -40,15 +40,15 @@ word_by_word:
     translation: (Do) not
     transliteration: lā
   9:
-    arabic: تَخَفۡ​ۚ
+    arabic: تَخَفۡۖ
     translation: fear
     transliteration: takhaf
   10:
-    arabic: خَصۡمٰنِ
+    arabic: خَصۡمَانِ
     translation: (We are) two litigants
     transliteration: khaṣmāni
   11:
-    arabic: بَغٰى
+    arabic: بَغَىٰ
     translation: has wronged
     transliteration: baghā
   12:
@@ -56,15 +56,15 @@ word_by_word:
     translation: one of us
     transliteration: baʿḍunā
   13:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: to
     transliteration: ʿalā
   14:
-    arabic: بَعۡضٍ
+    arabic: بَعۡضٖ
     translation: another
     transliteration: baʿḍin
   15:
-    arabic: فَاحۡكُمۡ
+    arabic: فَٱحۡكُم
     translation: so judge
     transliteration: fa-uḥ'kum
   16:
@@ -72,7 +72,7 @@ word_by_word:
     translation: between us
     transliteration: baynanā
   17:
-    arabic: بِالۡحَقِّ
+    arabic: بِٱلۡحَقِّ
     translation: in truth
     transliteration: bil-ḥaqi
   18:
@@ -84,11 +84,11 @@ word_by_word:
     translation: be unjust
     transliteration: tush'ṭiṭ
   20:
-    arabic: وَاهۡدِنَاۤ
+    arabic: وَٱهۡدِنَآ
     translation: and guide us
     transliteration: wa-ih'dinā
   21:
-    arabic: اِلٰى
+    arabic: إِلَىٰ
     translation: to
     transliteration: ilā
   22:
@@ -96,7 +96,7 @@ word_by_word:
     translation: an even
     transliteration: sawāi
   23:
-    arabic: الصِّرَاطِ‏
+    arabic: ٱلصِّرَٰطِ
     translation: '[the] path'
     transliteration: l-ṣirāṭi
 ---

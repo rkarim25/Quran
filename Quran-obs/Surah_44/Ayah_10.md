@@ -1,10 +1,10 @@
 ---
-arabic_ayat: فَارۡتَقِبۡ يَوۡمَ تَاۡتِى السَّمَآءُ بِدُخَانٍ مُّبِيۡنٍۙ‏
+arabic_ayat: فَٱرۡتَقِبۡ يَوۡمَ تَأۡتِي ٱلسَّمَآءُ بِدُخَانٖ مُّبِينٖ
 sentence_translation: Wait then ˹O Prophet˺ for the day ˹when˺ the sky will be veiled
   in haze, clearly visible,
 word_by_word:
   1:
-    arabic: فَارۡتَقِبۡ
+    arabic: فَٱرۡتَقِبۡ
     translation: Then watch
     transliteration: fa-ir'taqib
   2:
@@ -12,19 +12,19 @@ word_by_word:
     translation: (for the) Day
     transliteration: yawma
   3:
-    arabic: تَاۡتِى
+    arabic: تَأۡتِي
     translation: (when) will bring
     transliteration: tatī
   4:
-    arabic: السَّمَآءُ
+    arabic: ٱلسَّمَآءُ
     translation: the sky
     transliteration: l-samāu
   5:
-    arabic: بِدُخَانٍ
+    arabic: بِدُخَانٖ
     translation: smoke
     transliteration: bidukhānin
   6:
-    arabic: مُّبِيۡنٍۙ‏
+    arabic: مُّبِينٖ
     translation: visible
     transliteration: mubīnin
 ---

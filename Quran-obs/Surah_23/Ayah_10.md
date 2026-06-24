@@ -1,9 +1,9 @@
 ---
-arabic_ayat: اُولٰٓٮِٕكَ هُمُ الۡوَارِثُوۡنَ ۙ‏
+arabic_ayat: أُوْلَٰٓئِكَ هُمُ ٱلۡوَٰرِثُونَ
 sentence_translation: These are the ones who will be awarded
 word_by_word:
   1:
-    arabic: اُولٰٓٮِٕكَ
+    arabic: أُوْلَٰٓئِكَ
     translation: Those
     transliteration: ulāika
   2:
@@ -11,7 +11,7 @@ word_by_word:
     translation: '[they]'
     transliteration: humu
   3:
-    arabic: الۡوَارِثُوۡنَ ۙ‏
+    arabic: ٱلۡوَٰرِثُونَ
     translation: (are) the inheritors
     transliteration: l-wārithūna
 ---

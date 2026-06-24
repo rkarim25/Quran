@@ -1,5 +1,5 @@
 ---
-arabic_ayat: فَلَا تُطِعِ الۡكٰفِرِيۡنَ وَ جَاهِدۡهُمۡ بِهٖ جِهَادًا كَبِيۡرًا‏
+arabic_ayat: فَلَا تُطِعِ ٱلۡكَٰفِرِينَ وَجَٰهِدۡهُم بِهِۦ جِهَادٗا كَبِيرٗا
 sentence_translation: So do not yield to the disbelievers, but strive diligently against
   them with this ˹Quran˺.
 word_by_word:
@@ -12,23 +12,23 @@ word_by_word:
     translation: obey
     transliteration: tuṭiʿi
   3:
-    arabic: الۡكٰفِرِيۡنَ
+    arabic: ٱلۡكَٰفِرِينَ
     translation: the disbelievers
     transliteration: l-kāfirīna
   4:
-    arabic: وَ جَاهِدۡهُمۡ
+    arabic: وَجَٰهِدۡهُم
     translation: and strive (against) them
     transliteration: wajāhid'hum
   5:
-    arabic: بِهٖ
+    arabic: بِهِۦ
     translation: with it
     transliteration: bihi
   6:
-    arabic: جِهَادًا
+    arabic: جِهَادٗا
     translation: a striving
     transliteration: jihādan
   7:
-    arabic: كَبِيۡرًا‏
+    arabic: كَبِيرٗا
     translation: great
     transliteration: kabīran
 ---

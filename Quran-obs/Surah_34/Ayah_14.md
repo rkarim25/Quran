@@ -1,8 +1,7 @@
 ---
-arabic_ayat: فَلَمَّا قَضَيۡنَا عَلَيۡهِ الۡمَوۡتَ مَا دَلَّهُمۡ عَلٰى مَوۡتِهٖۤ اِلَّا
-  دَآ بَّةُ الۡاَرۡضِ تَاۡ كُلُ مِنۡسَاَتَهُ ۚ فَلَمَّا خَرَّ تَبَيَّنَتِ الۡجِنُّ
-  اَنۡ لَّوۡ كَانُوۡا يَعۡلَمُوۡنَ الۡغَيۡبَ مَا لَبِثُوۡا فِى الۡعَذَابِ الۡمُهِيۡنِ
-  ؕ‏
+arabic_ayat: فَلَمَّا قَضَيۡنَا عَلَيۡهِ ٱلۡمَوۡتَ مَا دَلَّهُمۡ عَلَىٰ مَوۡتِهِۦٓ
+  إِلَّا دَآبَّةُ ٱلۡأَرۡضِ تَأۡكُلُ مِنسَأَتَهُۥۖ فَلَمَّا خَرَّ تَبَيَّنَتِ ٱلۡجِنُّ
+  أَن لَّوۡ كَانُواْ يَعۡلَمُونَ ٱلۡغَيۡبَ مَا لَبِثُواْ فِي ٱلۡعَذَابِ ٱلۡمُهِينِ
 sentence_translation: When We decreed Solomon’s death, nothing indicated to the ˹subjected˺
   jinn that he was dead except the termites eating away his staff. So when he collapsed,
   the jinn realized that if they had ˹really˺ known the unseen, they would not have
@@ -21,7 +20,7 @@ word_by_word:
     translation: for him
     transliteration: ʿalayhi
   4:
-    arabic: الۡمَوۡتَ
+    arabic: ٱلۡمَوۡتَ
     translation: the death
     transliteration: l-mawta
   5:
@@ -33,31 +32,31 @@ word_by_word:
     translation: indicated to them
     transliteration: dallahum
   7:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: '[on]'
     transliteration: ʿalā
   8:
-    arabic: مَوۡتِهٖۤ
+    arabic: مَوۡتِهِۦٓ
     translation: his death
     transliteration: mawtihi
   9:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   10:
-    arabic: دَآ بَّةُ
+    arabic: دَآبَّةُ
     translation: a creature
     transliteration: dābbatu
   11:
-    arabic: الۡاَرۡضِ
+    arabic: ٱلۡأَرۡضِ
     translation: (of) the earth
     transliteration: l-arḍi
   12:
-    arabic: تَاۡ كُلُ
+    arabic: تَأۡكُلُ
     translation: eating
     transliteration: takulu
   13:
-    arabic: مِنۡسَاَتَهُ ۚ
+    arabic: مِنسَأَتَهُۥۖ
     translation: his staff
     transliteration: minsa-atahu
   14:
@@ -73,11 +72,11 @@ word_by_word:
     translation: became clear
     transliteration: tabayyanati
   17:
-    arabic: الۡجِنُّ
+    arabic: ٱلۡجِنُّ
     translation: (to) the jinn
     transliteration: l-jinu
   18:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that
     transliteration: an
   19:
@@ -85,15 +84,15 @@ word_by_word:
     translation: if
     transliteration: law
   20:
-    arabic: كَانُوۡا
+    arabic: كَانُواْ
     translation: they had
     transliteration: kānū
   21:
-    arabic: يَعۡلَمُوۡنَ
+    arabic: يَعۡلَمُونَ
     translation: known
     transliteration: yaʿlamūna
   22:
-    arabic: الۡغَيۡبَ
+    arabic: ٱلۡغَيۡبَ
     translation: the unseen
     transliteration: l-ghayba
   23:
@@ -101,19 +100,19 @@ word_by_word:
     translation: not
     transliteration: mā
   24:
-    arabic: لَبِثُوۡا
+    arabic: لَبِثُواْ
     translation: they (would have) remained
     transliteration: labithū
   25:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   26:
-    arabic: الۡعَذَابِ
+    arabic: ٱلۡعَذَابِ
     translation: the punishment
     transliteration: l-ʿadhābi
   27:
-    arabic: الۡمُهِيۡنِ ؕ‏
+    arabic: ٱلۡمُهِينِ
     translation: humiliating
     transliteration: l-muhīni
 ---

@@ -1,15 +1,15 @@
 ---
-arabic_ayat: وَمَاۤ اَنۡزَلۡنَا عَلَيۡكَ الۡـكِتٰبَ اِلَّا لِتُبَيِّنَ لَهُمُ الَّذِى
-  اخۡتَلَـفُوۡا فِيۡهِ​ۙ وَهُدًى وَّرَحۡمَةً لِّـقَوۡمٍ يُّؤۡمِنُوۡنَ‏
+arabic_ayat: وَمَآ أَنزَلۡنَا عَلَيۡكَ ٱلۡكِتَٰبَ إِلَّا لِتُبَيِّنَ لَهُمُ ٱلَّذِي
+  ٱخۡتَلَفُواْ فِيهِ وَهُدٗى وَرَحۡمَةٗ لِّقَوۡمٖ يُؤۡمِنُونَ
 sentence_translation: We have revealed to you the Book only to clarify for them what
   they differed about, and as a guide and mercy for those who believe.
 word_by_word:
   1:
-    arabic: وَمَاۤ
+    arabic: وَمَآ
     translation: And not
     transliteration: wamā
   2:
-    arabic: اَنۡزَلۡنَا
+    arabic: أَنزَلۡنَا
     translation: We revealed
     transliteration: anzalnā
   3:
@@ -17,11 +17,11 @@ word_by_word:
     translation: to you
     transliteration: ʿalayka
   4:
-    arabic: الۡـكِتٰبَ
+    arabic: ٱلۡكِتَٰبَ
     translation: the Book
     transliteration: l-kitāba
   5:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   6:
@@ -33,31 +33,31 @@ word_by_word:
     translation: to them
     transliteration: lahumu
   8:
-    arabic: الَّذِى
+    arabic: ٱلَّذِي
     translation: that which
     transliteration: alladhī
   9:
-    arabic: اخۡتَلَـفُوۡا
+    arabic: ٱخۡتَلَفُواْ
     translation: they differed
     transliteration: ikh'talafū
   10:
-    arabic: فِيۡهِ​ۙ
+    arabic: فِيهِ
     translation: in it
     transliteration: fīhi
   11:
-    arabic: وَهُدًى
+    arabic: وَهُدٗى
     translation: and (as) a guidance
     transliteration: wahudan
   12:
-    arabic: وَّرَحۡمَةً
+    arabic: وَرَحۡمَةٗ
     translation: and mercy
     transliteration: waraḥmatan
   13:
-    arabic: لِّـقَوۡمٍ
+    arabic: لِّقَوۡمٖ
     translation: for a people
     transliteration: liqawmin
   14:
-    arabic: يُّؤۡمِنُوۡنَ‏
+    arabic: يُؤۡمِنُونَ
     translation: who believe
     transliteration: yu'minūna
 ---

@@ -1,5 +1,5 @@
 ---
-arabic_ayat: وَوَجَدَكَ ضَآ لًّا فَهَدٰى‏
+arabic_ayat: وَوَجَدَكَ ضَآلّٗا فَهَدَىٰ
 sentence_translation: Did He not find you unguided then guided you?
 word_by_word:
   1:
@@ -11,7 +11,7 @@ word_by_word:
     translation: lost
     transliteration: ḍāllan
   3:
-    arabic: لًّا فَهَدٰى‏
+    arabic: لّٗا فَهَدَىٰ
     translation: so He guided
     transliteration: fahadā
 ---

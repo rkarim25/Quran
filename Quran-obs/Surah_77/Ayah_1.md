@@ -1,13 +1,13 @@
 ---
-arabic_ayat: وَالۡمُرۡسَلٰتِ عُرۡفًا ۙ‏
+arabic_ayat: وَٱلۡمُرۡسَلَٰتِ عُرۡفٗا
 sentence_translation: By those ˹winds˺ sent forth successively,
 word_by_word:
   1:
-    arabic: وَالۡمُرۡسَلٰتِ
+    arabic: وَٱلۡمُرۡسَلَٰتِ
     translation: By the ones sent forth
     transliteration: wal-mur'salāti
   2:
-    arabic: عُرۡفًا ۙ‏
+    arabic: عُرۡفٗا
     translation: one after another
     transliteration: ʿur'fan
 ---

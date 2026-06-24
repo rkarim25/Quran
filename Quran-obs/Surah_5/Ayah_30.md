@@ -1,6 +1,6 @@
 ---
-arabic_ayat: "فَطَوَّعَتۡ لَهٗ نَفۡسُهٗ قَـتۡلَ اَخِيۡهِ فَقَتَلَهٗ فَاَصۡبَحَ مِنَ\
-  \ الۡخٰسِرِيۡنَ‏ \uFEFF\uFEFF"
+arabic_ayat: فَطَوَّعَتۡ لَهُۥ نَفۡسُهُۥ قَتۡلَ أَخِيهِ فَقَتَلَهُۥ فَأَصۡبَحَ مِنَ
+  ٱلۡخَٰسِرِينَ
 sentence_translation: Yet Cain convinced himself to kill his brother, so he killed
   him—becoming a loser.
 word_by_word:
@@ -9,27 +9,27 @@ word_by_word:
     translation: Then prompted
     transliteration: faṭawwaʿat
   2:
-    arabic: لَهٗ
+    arabic: لَهُۥ
     translation: to him
     transliteration: lahu
   3:
-    arabic: نَفۡسُهٗ
+    arabic: نَفۡسُهُۥ
     translation: his soul
     transliteration: nafsuhu
   4:
-    arabic: قَـتۡلَ
+    arabic: قَتۡلَ
     translation: (to) kill
     transliteration: qatla
   5:
-    arabic: اَخِيۡهِ
+    arabic: أَخِيهِ
     translation: his brother
     transliteration: akhīhi
   6:
-    arabic: فَقَتَلَهٗ
+    arabic: فَقَتَلَهُۥ
     translation: so he killed him
     transliteration: faqatalahu
   7:
-    arabic: فَاَصۡبَحَ
+    arabic: فَأَصۡبَحَ
     translation: and became
     transliteration: fa-aṣbaḥa
   8:
@@ -37,7 +37,7 @@ word_by_word:
     translation: of
     transliteration: mina
   9:
-    arabic: "الۡخٰسِرِيۡنَ‏ \uFEFF\uFEFF"
+    arabic: ٱلۡخَٰسِرِينَ
     translation: the losers
     transliteration: l-khāsirīna
 ---

@@ -1,13 +1,13 @@
 ---
-arabic_ayat: وَّيَصۡلٰى سَعِيۡرًا ؕ‏
+arabic_ayat: وَيَصۡلَىٰ سَعِيرًا
 sentence_translation: and will burn in the blazing Fire.
 word_by_word:
   1:
-    arabic: وَّيَصۡلٰى
+    arabic: وَيَصۡلَىٰ
     translation: And he will burn
     transliteration: wayaṣlā
   2:
-    arabic: سَعِيۡرًا ؕ‏
+    arabic: سَعِيرًا
     translation: (in) a Blaze
     transliteration: saʿīran
 ---

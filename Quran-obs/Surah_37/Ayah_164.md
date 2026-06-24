@@ -1,5 +1,5 @@
 ---
-arabic_ayat: وَمَا مِنَّاۤ اِلَّا لَهٗ مَقَامٌ مَّعۡلُوۡمٌۙ‏
+arabic_ayat: وَمَا مِنَّآ إِلَّا لَهُۥ مَقَامٞ مَّعۡلُومٞ
 sentence_translation: ˹The angels respond,˺ “There is not one of us without an assigned
   station ˹of worship˺.
 word_by_word:
@@ -8,23 +8,23 @@ word_by_word:
     translation: And not
     transliteration: wamā
   2:
-    arabic: مِنَّاۤ
+    arabic: مِنَّآ
     translation: among us
     transliteration: minnā
   3:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   4:
-    arabic: لَهٗ
+    arabic: لَهُۥ
     translation: for him
     transliteration: lahu
   5:
-    arabic: مَقَامٌ
+    arabic: مَقَامٞ
     translation: (is) a position
     transliteration: maqāmun
   6:
-    arabic: مَّعۡلُوۡمٌۙ‏
+    arabic: مَّعۡلُومٞ
     translation: known
     transliteration: maʿlūmun
 ---

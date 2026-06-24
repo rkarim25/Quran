@@ -1,23 +1,23 @@
 ---
-arabic_ayat: وَلَـقَدِ اسۡتُهۡزِئَ بِرُسُلٍ مِّنۡ قَبۡلِكَ فَحَاقَ بِالَّذِيۡنَ سَخِرُوۡا
-  مِنۡهُمۡ مَّا كَانُوۡا بِهٖ يَسۡتَهۡزِءُوۡنَ‏
+arabic_ayat: وَلَقَدِ ٱسۡتُهۡزِئَ بِرُسُلٖ مِّن قَبۡلِكَ فَحَاقَ بِٱلَّذِينَ سَخِرُواْ
+  مِنۡهُم مَّا كَانُواْ بِهِۦ يَسۡتَهۡزِءُونَ
 sentence_translation: ˹Other˺ messengers had already been ridiculed before you ˹O
   Prophet˺, but those who mocked them were overtaken by what they used to ridicule.
 word_by_word:
   1:
-    arabic: وَلَـقَدِ
+    arabic: وَلَقَدِ
     translation: And indeed
     transliteration: walaqadi
   2:
-    arabic: اسۡتُهۡزِئَ
+    arabic: ٱسۡتُهۡزِئَ
     translation: were mocked
     transliteration: us'tuh'zi-a
   3:
-    arabic: بِرُسُلٍ
+    arabic: بِرُسُلٖ
     translation: Messengers
     transliteration: birusulin
   4:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: from
     transliteration: min
   5:
@@ -29,15 +29,15 @@ word_by_word:
     translation: but surrounded
     transliteration: faḥāqa
   7:
-    arabic: بِالَّذِيۡنَ
+    arabic: بِٱلَّذِينَ
     translation: those who
     transliteration: bi-alladhīna
   8:
-    arabic: سَخِرُوۡا
+    arabic: سَخِرُواْ
     translation: scoffed
     transliteration: sakhirū
   9:
-    arabic: مِنۡهُمۡ
+    arabic: مِنۡهُم
     translation: of them
     transliteration: min'hum
   10:
@@ -45,15 +45,15 @@ word_by_word:
     translation: what
     transliteration: mā
   11:
-    arabic: كَانُوۡا
+    arabic: كَانُواْ
     translation: they used to
     transliteration: kānū
   12:
-    arabic: بِهٖ
+    arabic: بِهِۦ
     translation: '[at it]'
     transliteration: bihi
   13:
-    arabic: يَسۡتَهۡزِءُوۡنَ‏
+    arabic: يَسۡتَهۡزِءُونَ
     translation: mock
     transliteration: yastahziūna
 ---

@@ -1,6 +1,6 @@
 ---
-arabic_ayat: يَوۡمَ نَدۡعُوۡا كُلَّ اُنَاسٍۢ بِاِمَامِهِمۡ​ۚ فَمَنۡ اُوۡتِىَ كِتٰبَهٗ
-  بِيَمِيۡنِهٖ فَاُولٰۤٮِٕكَ يَقۡرَءُوۡنَ كِتٰبَهُمۡ وَلَا يُظۡلَمُوۡنَ فَتِيۡلًا‏
+arabic_ayat: يَوۡمَ نَدۡعُواْ كُلَّ أُنَاسِۭ بِإِمَٰمِهِمۡۖ فَمَنۡ أُوتِيَ كِتَٰبَهُۥ
+  بِيَمِينِهِۦ فَأُوْلَٰٓئِكَ يَقۡرَءُونَ كِتَٰبَهُمۡ وَلَا يُظۡلَمُونَ فَتِيلٗا
 sentence_translation: ˹Beware of˺ the Day We will summon every people with their leader. So
   whoever will be given their record in their right hand will read it ˹happily˺ and
   will not be wronged ˹even by the width of˺ the thread of a date stone.
@@ -10,7 +10,7 @@ word_by_word:
     translation: (The) Day
     transliteration: yawma
   2:
-    arabic: نَدۡعُوۡا
+    arabic: نَدۡعُواْ
     translation: We will call
     transliteration: nadʿū
   3:
@@ -18,11 +18,11 @@ word_by_word:
     translation: all
     transliteration: kulla
   4:
-    arabic: اُنَاسٍۢ
+    arabic: أُنَاسِۭ
     translation: human beings
     transliteration: unāsin
   5:
-    arabic: بِاِمَامِهِمۡ​ۚ
+    arabic: بِإِمَٰمِهِمۡۖ
     translation: with their record
     transliteration: bi-imāmihim
   6:
@@ -30,27 +30,27 @@ word_by_word:
     translation: then whoever
     transliteration: faman
   7:
-    arabic: اُوۡتِىَ
+    arabic: أُوتِيَ
     translation: is given
     transliteration: ūtiya
   8:
-    arabic: كِتٰبَهٗ
+    arabic: كِتَٰبَهُۥ
     translation: his record
     transliteration: kitābahu
   9:
-    arabic: بِيَمِيۡنِهٖ
+    arabic: بِيَمِينِهِۦ
     translation: in his right hand
     transliteration: biyamīnihi
   10:
-    arabic: فَاُولٰۤٮِٕكَ
+    arabic: فَأُوْلَٰٓئِكَ
     translation: then those
     transliteration: fa-ulāika
   11:
-    arabic: يَقۡرَءُوۡنَ
+    arabic: يَقۡرَءُونَ
     translation: will read
     transliteration: yaqraūna
   12:
-    arabic: كِتٰبَهُمۡ
+    arabic: كِتَٰبَهُمۡ
     translation: their records
     transliteration: kitābahum
   13:
@@ -58,11 +58,11 @@ word_by_word:
     translation: and not
     transliteration: walā
   14:
-    arabic: يُظۡلَمُوۡنَ
+    arabic: يُظۡلَمُونَ
     translation: they will be wronged
     transliteration: yuẓ'lamūna
   15:
-    arabic: فَتِيۡلًا‏
+    arabic: فَتِيلٗا
     translation: (even as much as) a hair on a date seed
     transliteration: fatīlan
 ---

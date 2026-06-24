@@ -1,6 +1,6 @@
 ---
-arabic_ayat: بَلۡ بَدَا لَهُمۡ مَّا كَانُوۡا يُخۡفُوۡنَ مِنۡ قَبۡلُ​ؕ وَلَوۡ رُدُّوۡا
-  لَعَادُوۡا لِمَا نُهُوۡا عَنۡهُ وَاِنَّهُمۡ لَـكٰذِبُوۡنَ‏
+arabic_ayat: بَلۡ بَدَا لَهُم مَّا كَانُواْ يُخۡفُونَ مِن قَبۡلُۖ وَلَوۡ رُدُّواْ
+  لَعَادُواْ لِمَا نُهُواْ عَنۡهُ وَإِنَّهُمۡ لَكَٰذِبُونَ
 sentence_translation: But no! ˹They only say this˺ because the truth they used to
   hide will become all too clear to them. Even if they were to be sent back, they
   would certainly revert to what they were forbidden. Indeed they are liars!
@@ -14,7 +14,7 @@ word_by_word:
     translation: became manifest
     transliteration: badā
   3:
-    arabic: لَهُمۡ
+    arabic: لَهُم
     translation: for them
     transliteration: lahum
   4:
@@ -22,19 +22,19 @@ word_by_word:
     translation: what
     transliteration: mā
   5:
-    arabic: كَانُوۡا
+    arabic: كَانُواْ
     translation: they used to
     transliteration: kānū
   6:
-    arabic: يُخۡفُوۡنَ
+    arabic: يُخۡفُونَ
     translation: conceal
     transliteration: yukh'fūna
   7:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   8:
-    arabic: قَبۡلُ​ؕ
+    arabic: قَبۡلُۖ
     translation: before
     transliteration: qablu
   9:
@@ -42,11 +42,11 @@ word_by_word:
     translation: And if
     transliteration: walaw
   10:
-    arabic: رُدُّوۡا
+    arabic: رُدُّواْ
     translation: they were sent back
     transliteration: ruddū
   11:
-    arabic: لَعَادُوۡا
+    arabic: لَعَادُواْ
     translation: certainly they (would) return
     transliteration: laʿādū
   12:
@@ -54,7 +54,7 @@ word_by_word:
     translation: to what
     transliteration: limā
   13:
-    arabic: نُهُوۡا
+    arabic: نُهُواْ
     translation: they were forbidden
     transliteration: nuhū
   14:
@@ -62,11 +62,11 @@ word_by_word:
     translation: from it
     transliteration: ʿanhu
   15:
-    arabic: وَاِنَّهُمۡ
+    arabic: وَإِنَّهُمۡ
     translation: and indeed they
     transliteration: wa-innahum
   16:
-    arabic: لَـكٰذِبُوۡنَ‏
+    arabic: لَكَٰذِبُونَ
     translation: certainly are liars
     transliteration: lakādhibūna
 ---

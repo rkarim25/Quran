@@ -1,5 +1,5 @@
 ---
-arabic_ayat: قُمِ الَّيۡلَ اِلَّا قَلِيۡلًا ۙ‏
+arabic_ayat: قُمِ ٱلَّيۡلَ إِلَّا قَلِيلٗا
 sentence_translation: Stand all night ˹in prayer˺ except a little—
 word_by_word:
   1:
@@ -7,15 +7,15 @@ word_by_word:
     translation: Stand
     transliteration: qumi
   2:
-    arabic: الَّيۡلَ
+    arabic: ٱلَّيۡلَ
     translation: (in) the night
     transliteration: al-layla
   3:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   4:
-    arabic: قَلِيۡلًا ۙ‏
+    arabic: قَلِيلٗا
     translation: a little
     transliteration: qalīlan
 ---

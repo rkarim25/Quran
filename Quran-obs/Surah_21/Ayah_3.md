@@ -1,33 +1,32 @@
 ---
-arabic_ayat: "لَاهِيَةً قُلُوۡبُهُمۡ​ ؕ وَاَسَرُّوا النَّجۡوَى​ۖ الَّذِيۡنَ ظَلَمُوۡا\
-  \ ​ۖ  هَلۡ هٰذَاۤ اِلَّا بَشَرٌ مِّثۡلُكُمۡ​ ۚ اَفَتَاۡتُوۡنَ السِّحۡرَ وَاَنۡتُمۡ\
-  \ تُبۡصِرُوۡنَ‏ \uFEFF\uFEFF"
+arabic_ayat: لَاهِيَةٗ قُلُوبُهُمۡۗ وَأَسَرُّواْ ٱلنَّجۡوَى ٱلَّذِينَ ظَلَمُواْ هَلۡ
+  هَٰذَآ إِلَّا بَشَرٞ مِّثۡلُكُمۡۖ أَفَتَأۡتُونَ ٱلسِّحۡرَ وَأَنتُمۡ تُبۡصِرُونَ
 sentence_translation: with their hearts ˹totally˺ distracted. The evildoers would
   converse secretly, ˹saying,˺ “Is this ˹one˺ not human like yourselves? Would you
   fall for ˹this˺ witchcraft, even though you can ˹clearly˺ see?”
 word_by_word:
   1:
-    arabic: لَاهِيَةً
+    arabic: لَاهِيَةٗ
     translation: Distracted
     transliteration: lāhiyatan
   2:
-    arabic: قُلُوۡبُهُمۡ​ ؕ
+    arabic: قُلُوبُهُمۡۗ
     translation: their hearts
     transliteration: qulūbuhum
   3:
-    arabic: وَاَسَرُّوا
+    arabic: وَأَسَرُّواْ
     translation: And they conceal
     transliteration: wa-asarrū
   4:
-    arabic: النَّجۡوَى​ۖ
+    arabic: ٱلنَّجۡوَى
     translation: the private conversation
     transliteration: l-najwā
   5:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   6:
-    arabic: ظَلَمُوۡا ​ۖ 
+    arabic: ظَلَمُواْ
     translation: '[they] wronged'
     transliteration: ẓalamū
   7:
@@ -35,35 +34,35 @@ word_by_word:
     translation: Is
     transliteration: hal
   8:
-    arabic: هٰذَاۤ
+    arabic: هَٰذَآ
     translation: this
     transliteration: hādhā
   9:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   10:
-    arabic: بَشَرٌ
+    arabic: بَشَرٞ
     translation: a human being
     transliteration: basharun
   11:
-    arabic: مِّثۡلُكُمۡ​ ۚ
+    arabic: مِّثۡلُكُمۡۖ
     translation: like you
     transliteration: mith'lukum
   12:
-    arabic: اَفَتَاۡتُوۡنَ
+    arabic: أَفَتَأۡتُونَ
     translation: So would you approach
     transliteration: afatatūna
   13:
-    arabic: السِّحۡرَ
+    arabic: ٱلسِّحۡرَ
     translation: the magic
     transliteration: l-siḥ'ra
   14:
-    arabic: وَاَنۡتُمۡ
+    arabic: وَأَنتُمۡ
     translation: while you
     transliteration: wa-antum
   15:
-    arabic: "تُبۡصِرُوۡنَ‏ \uFEFF\uFEFF"
+    arabic: تُبۡصِرُونَ
     translation: see (it)
     transliteration: tub'ṣirūna
 ---

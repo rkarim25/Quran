@@ -1,21 +1,21 @@
 ---
-arabic_ayat: وَجَآءُوۡۤ اَبَاهُمۡ عِشَآءً يَّبۡكُوۡنَؕ‏
+arabic_ayat: وَجَآءُوٓ أَبَاهُمۡ عِشَآءٗ يَبۡكُونَ
 sentence_translation: Then they returned to their father in the evening, weeping.
 word_by_word:
   1:
-    arabic: وَجَآءُوۡۤ
+    arabic: وَجَآءُوٓ
     translation: And they came
     transliteration: wajāū
   2:
-    arabic: اَبَاهُمۡ
+    arabic: أَبَاهُمۡ
     translation: (to) their father
     transliteration: abāhum
   3:
-    arabic: عِشَآءً
+    arabic: عِشَآءٗ
     translation: early at night
     transliteration: ʿishāan
   4:
-    arabic: يَّبۡكُوۡنَؕ‏
+    arabic: يَبۡكُونَ
     translation: weeping
     transliteration: yabkūna
 ---

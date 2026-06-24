@@ -1,10 +1,10 @@
 ---
-arabic_ayat: اَلَمۡ تَرَ كَيۡفَ فَعَلَ رَبُّكَ بِاَصۡحٰبِ الۡفِيۡلِؕ‏
+arabic_ayat: أَلَمۡ تَرَ كَيۡفَ فَعَلَ رَبُّكَ بِأَصۡحَٰبِ ٱلۡفِيلِ
 sentence_translation: Have you not seen ˹O Prophet˺ how your Lord dealt with the Army
   of the Elephant?
 word_by_word:
   1:
-    arabic: اَلَمۡ
+    arabic: أَلَمۡ
     translation: Have not
     transliteration: alam
   2:
@@ -24,11 +24,11 @@ word_by_word:
     translation: your Lord
     transliteration: rabbuka
   6:
-    arabic: بِاَصۡحٰبِ
+    arabic: بِأَصۡحَٰبِ
     translation: with (the) Companions
     transliteration: bi-aṣḥābi
   7:
-    arabic: الۡفِيۡلِؕ‏
+    arabic: ٱلۡفِيلِ
     translation: (of the) Elephant
     transliteration: l-fīli
 ---

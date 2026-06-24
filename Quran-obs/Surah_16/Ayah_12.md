@@ -1,7 +1,6 @@
 ---
-arabic_ayat: "وَسَخَّرَ لَـكُمُ الَّيۡلَ وَالنَّهَارَۙ وَالشَّمۡسَ وَالۡقَمَرَ​ؕ وَالنُّجُوۡمُ\
-  \ مُسَخَّرٰتٌۢ بِاَمۡرِهٖؕ اِنَّ فِىۡ ذٰ لِكَ لَاٰيٰتٍ لِّـقَوۡمٍ يَّعۡقِلُوۡنَۙ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: وَسَخَّرَ لَكُمُ ٱلَّيۡلَ وَٱلنَّهَارَ وَٱلشَّمۡسَ وَٱلۡقَمَرَۖ وَٱلنُّجُومُ
+  مُسَخَّرَٰتُۢ بِأَمۡرِهِۦٓۚ إِنَّ فِي ذَٰلِكَ لَأٓيَٰتٖ لِّقَوۡمٖ يَعۡقِلُونَ
 sentence_translation: And He has subjected for your benefit the day and the night,
   the sun and the moon. And the stars have been subjected by His command. Surely in
   this are signs for those who understand.
@@ -11,59 +10,59 @@ word_by_word:
     translation: And He has subjected
     transliteration: wasakhara
   2:
-    arabic: لَـكُمُ
+    arabic: لَكُمُ
     translation: for you
     transliteration: lakumu
   3:
-    arabic: الَّيۡلَ
+    arabic: ٱلَّيۡلَ
     translation: the night
     transliteration: al-layla
   4:
-    arabic: وَالنَّهَارَۙ
+    arabic: وَٱلنَّهَارَ
     translation: and the day
     transliteration: wal-nahāra
   5:
-    arabic: وَالشَّمۡسَ
+    arabic: وَٱلشَّمۡسَ
     translation: and the sun
     transliteration: wal-shamsa
   6:
-    arabic: وَالۡقَمَرَ​ؕ
+    arabic: وَٱلۡقَمَرَۖ
     translation: and the moon
     transliteration: wal-qamara
   7:
-    arabic: وَالنُّجُوۡمُ
+    arabic: وَٱلنُّجُومُ
     translation: and the stars
     transliteration: wal-nujūmu
   8:
-    arabic: مُسَخَّرٰتٌۢ
+    arabic: مُسَخَّرَٰتُۢ
     translation: (are) subjected
     transliteration: musakharātun
   9:
-    arabic: بِاَمۡرِهٖؕ
+    arabic: بِأَمۡرِهِۦٓۚ
     translation: by His command
     transliteration: bi-amrihi
   10:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   11:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   12:
-    arabic: ذٰ لِكَ
+    arabic: ذَٰلِكَ
     translation: that
     transliteration: dhālika
   13:
-    arabic: لَاٰيٰتٍ
+    arabic: لَأٓيَٰتٖ
     translation: surely (are) signs
     transliteration: laāyātin
   14:
-    arabic: لِّـقَوۡمٍ
+    arabic: لِّقَوۡمٖ
     translation: for a people
     transliteration: liqawmin
   15:
-    arabic: "يَّعۡقِلُوۡنَۙ‏ \uFEFF\uFEFF"
+    arabic: يَعۡقِلُونَ
     translation: who use reason
     transliteration: yaʿqilūna
 ---

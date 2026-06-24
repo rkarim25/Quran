@@ -1,17 +1,17 @@
 ---
-arabic_ayat: وَاِذَا الۡوُحُوۡشُ حُشِرَتۡۙ‏
+arabic_ayat: وَإِذَا ٱلۡوُحُوشُ حُشِرَتۡ
 sentence_translation: and when wild beasts are gathered together,
 word_by_word:
   1:
-    arabic: وَاِذَا
+    arabic: وَإِذَا
     translation: And when
     transliteration: wa-idhā
   2:
-    arabic: الۡوُحُوۡشُ
+    arabic: ٱلۡوُحُوشُ
     translation: the wild beasts
     transliteration: l-wuḥūshu
   3:
-    arabic: حُشِرَتۡۙ‏
+    arabic: حُشِرَتۡ
     translation: are gathered
     transliteration: ḥushirat
 ---

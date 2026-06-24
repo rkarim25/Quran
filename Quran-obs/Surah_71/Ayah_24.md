@@ -1,6 +1,5 @@
 ---
-arabic_ayat: "وَقَدۡ اَضَلُّوۡا كَثِيۡرًا​ ​ ۚ وَلَا تَزِدِ الظّٰلِمِيۡنَ اِلَّا\
-  \ ضَلٰلًا‏ \uFEFF\uFEFF"
+arabic_ayat: وَقَدۡ أَضَلُّواْ كَثِيرٗاۖ وَلَا تَزِدِ ٱلظَّٰلِمِينَ إِلَّا ضَلَٰلٗا
 sentence_translation: Those ˹elite˺ have already led many astray. So ˹O Lord˺, only
   allow the wrongdoers to stray farther away.”
 word_by_word:
@@ -9,11 +8,11 @@ word_by_word:
     translation: And indeed
     transliteration: waqad
   2:
-    arabic: اَضَلُّوۡا
+    arabic: أَضَلُّواْ
     translation: they have led astray
     transliteration: aḍallū
   3:
-    arabic: كَثِيۡرًا​ ​ ۚ
+    arabic: كَثِيرٗاۖ
     translation: many
     transliteration: kathīran
   4:
@@ -25,15 +24,15 @@ word_by_word:
     translation: increase
     transliteration: tazidi
   6:
-    arabic: الظّٰلِمِيۡنَ
+    arabic: ٱلظَّٰلِمِينَ
     translation: the wrongdoers
     transliteration: l-ẓālimīna
   7:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   8:
-    arabic: "ضَلٰلًا‏ \uFEFF\uFEFF"
+    arabic: ضَلَٰلٗا
     translation: (in) error
     transliteration: ḍalālan
 ---

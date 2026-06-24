@@ -1,6 +1,6 @@
 ---
-arabic_ayat: وَلَوۡ عَلِمَ اللّٰهُ فِيۡهِمۡ خَيۡرًا لَّاَسۡمَعَهُمۡ​ؕ وَلَوۡ اَسۡمَعَهُمۡ
-  لَـتَوَلَّوْا وَّهُمۡ مُّعۡرِضُوۡنَ‏
+arabic_ayat: وَلَوۡ عَلِمَ ٱللَّهُ فِيهِمۡ خَيۡرٗا لَّأَسۡمَعَهُمۡۖ وَلَوۡ أَسۡمَعَهُمۡ
+  لَتَوَلَّواْ وَّهُم مُّعۡرِضُونَ
 sentence_translation: Had Allah known any goodness in them, He would have certainly
   made them hear. ˹But˺ even if He had made them hear, they would have surely turned
   away heedlessly.
@@ -14,19 +14,19 @@ word_by_word:
     translation: (had) known
     transliteration: ʿalima
   3:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   4:
-    arabic: فِيۡهِمۡ
+    arabic: فِيهِمۡ
     translation: in them
     transliteration: fīhim
   5:
-    arabic: خَيۡرًا
+    arabic: خَيۡرٗا
     translation: any good
     transliteration: khayran
   6:
-    arabic: لَّاَسۡمَعَهُمۡ​ؕ
+    arabic: لَّأَسۡمَعَهُمۡۖ
     translation: surely, He (would) have made them hear
     transliteration: la-asmaʿahum
   7:
@@ -34,19 +34,19 @@ word_by_word:
     translation: And if
     transliteration: walaw
   8:
-    arabic: اَسۡمَعَهُمۡ
+    arabic: أَسۡمَعَهُمۡ
     translation: He had made them hear
     transliteration: asmaʿahum
   9:
-    arabic: لَـتَوَلَّوْا
+    arabic: لَتَوَلَّواْ
     translation: surely they would have turned away
     transliteration: latawallaw
   10:
-    arabic: وَّهُمۡ
+    arabic: وَّهُم
     translation: while they
     transliteration: wahum
   11:
-    arabic: مُّعۡرِضُوۡنَ‏
+    arabic: مُّعۡرِضُونَ
     translation: (were) averse
     transliteration: muʿ'riḍūna
 ---

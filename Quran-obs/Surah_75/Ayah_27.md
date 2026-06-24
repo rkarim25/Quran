@@ -1,18 +1,18 @@
 ---
-arabic_ayat: وَقِيۡلَ مَنۡ رَاقٍۙ‏
+arabic_ayat: وَقِيلَ مَنۡۜ رَاقٖ
 sentence_translation: and it will be said, “Is there any healer ˹who can save this
   life˺?”
 word_by_word:
   1:
-    arabic: وَقِيۡلَ
+    arabic: وَقِيلَ
     translation: And it is said
     transliteration: waqīla
   2:
-    arabic: مَنۡ
+    arabic: مَنۡۜ
     translation: Who
     transliteration: man
   3:
-    arabic: رَاقٍۙ‏
+    arabic: رَاقٖ
     translation: (will) cure
     transliteration: rāqin
 ---

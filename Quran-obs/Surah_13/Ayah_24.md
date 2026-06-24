@@ -1,14 +1,14 @@
 ---
-arabic_ayat: سَلٰمٌ عَلَيۡكُمۡ بِمَا صَبَرۡتُمۡ​ فَنِعۡمَ عُقۡبَى الدَّارِؕ‏
+arabic_ayat: سَلَٰمٌ عَلَيۡكُم بِمَا صَبَرۡتُمۡۚ فَنِعۡمَ عُقۡبَى ٱلدَّارِ
 sentence_translation: “Peace be upon you for your perseverance. How excellent is the
   ultimate abode!”
 word_by_word:
   1:
-    arabic: سَلٰمٌ
+    arabic: سَلَٰمٌ
     translation: (Saying), "Peace
     transliteration: salāmun
   2:
-    arabic: عَلَيۡكُمۡ
+    arabic: عَلَيۡكُم
     translation: (be) upon you
     transliteration: ʿalaykum
   3:
@@ -16,7 +16,7 @@ word_by_word:
     translation: for what
     transliteration: bimā
   4:
-    arabic: صَبَرۡتُمۡ​
+    arabic: صَبَرۡتُمۡۚ
     translation: you patiently endured
     transliteration: ṣabartum
   5:
@@ -28,7 +28,7 @@ word_by_word:
     translation: (is) the final attainment
     transliteration: ʿuq'bā
   7:
-    arabic: الدَّارِؕ‏
+    arabic: ٱلدَّارِ
     translation: (of) the Home
     transliteration: l-dāri
 ---

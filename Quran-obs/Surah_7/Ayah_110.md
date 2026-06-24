@@ -1,18 +1,18 @@
 ---
-arabic_ayat: يُّرِيۡدُ اَنۡ يُّخۡرِجَكُمۡ مِّنۡ اَرۡضِكُمۡ​ ۚ فَمَاذَا تَاۡمُرُوۡنَ‏
+arabic_ayat: يُرِيدُ أَن يُخۡرِجَكُم مِّنۡ أَرۡضِكُمۡۖ فَمَاذَا تَأۡمُرُونَ
 sentence_translation: who seeks to drive you from your land.” ˹So Pharaoh asked,˺
   “What do you propose?”
 word_by_word:
   1:
-    arabic: يُّرِيۡدُ
+    arabic: يُرِيدُ
     translation: He wants
     transliteration: yurīdu
   2:
-    arabic: اَنۡ
+    arabic: أَن
     translation: to
     transliteration: an
   3:
-    arabic: يُّخۡرِجَكُمۡ
+    arabic: يُخۡرِجَكُم
     translation: drive you out
     transliteration: yukh'rijakum
   4:
@@ -20,7 +20,7 @@ word_by_word:
     translation: from
     transliteration: min
   5:
-    arabic: اَرۡضِكُمۡ​ ۚ
+    arabic: أَرۡضِكُمۡۖ
     translation: your land
     transliteration: arḍikum
   6:
@@ -28,7 +28,7 @@ word_by_word:
     translation: so what
     transliteration: famādhā
   7:
-    arabic: تَاۡمُرُوۡنَ‏
+    arabic: تَأۡمُرُونَ
     translation: (do) you instruct
     transliteration: tamurūna
 ---

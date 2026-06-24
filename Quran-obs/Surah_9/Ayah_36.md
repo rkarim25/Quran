@@ -1,9 +1,8 @@
 ---
-arabic_ayat: اِنَّ عِدَّةَ الشُّهُوۡرِ عِنۡدَ اللّٰهِ اثۡنَا عَشَرَ شَهۡرًا فِىۡ كِتٰبِ
-  اللّٰهِ يَوۡمَ خَلَقَ السَّمٰوٰتِ وَالۡاَرۡضَ مِنۡهَاۤ اَرۡبَعَةٌ حُرُمٌ​ ؕ ذٰ لِكَ
-  الدِّيۡنُ الۡقَيِّمُ ۙ فَلَا تَظۡلِمُوۡا فِيۡهِنَّ اَنۡفُسَكُمۡ​ ؕ وَقَاتِلُوا
-  الۡمُشۡرِكِيۡنَ كَآفَّةً كَمَا يُقَاتِلُوۡنَكُمۡ كَآفَّةً​  ؕ وَاعۡلَمُوۡۤا اَنَّ
-  اللّٰهَ مَعَ الۡمُتَّقِيۡنَ‏
+arabic_ayat: إِنَّ عِدَّةَ ٱلشُّهُورِ عِندَ ٱللَّهِ ٱثۡنَا عَشَرَ شَهۡرٗا فِي كِتَٰبِ
+  ٱللَّهِ يَوۡمَ خَلَقَ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضَ مِنۡهَآ أَرۡبَعَةٌ حُرُمٞۚ ذَٰلِكَ
+  ٱلدِّينُ ٱلۡقَيِّمُۚ فَلَا تَظۡلِمُواْ فِيهِنَّ أَنفُسَكُمۡۚ وَقَٰتِلُواْ ٱلۡمُشۡرِكِينَ
+  كَآفَّةٗ كَمَا يُقَٰتِلُونَكُمۡ كَآفَّةٗۚ وَٱعۡلَمُوٓاْ أَنَّ ٱللَّهَ مَعَ ٱلۡمُتَّقِينَ
 sentence_translation: Indeed, the number of months ordained by Allah is twelve—in
   Allah’s Record since the day He created the heavens and the earth—of which four
   are sacred. That is the Right Way. So do not wrong one another during these months.
@@ -11,7 +10,7 @@ sentence_translation: Indeed, the number of months ordained by Allah is twelve�
   that Allah is with those mindful ˹of Him˺.
 word_by_word:
   1:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   2:
@@ -19,19 +18,19 @@ word_by_word:
     translation: (the) number
     transliteration: ʿiddata
   3:
-    arabic: الشُّهُوۡرِ
+    arabic: ٱلشُّهُورِ
     translation: (of) the months
     transliteration: l-shuhūri
   4:
-    arabic: عِنۡدَ
+    arabic: عِندَ
     translation: with
     transliteration: ʿinda
   5:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   6:
-    arabic: اثۡنَا
+    arabic: ٱثۡنَا
     translation: (is) twelve
     transliteration: ith'nā
   7:
@@ -39,19 +38,19 @@ word_by_word:
     translation: (is) twelve
     transliteration: ʿashara
   8:
-    arabic: شَهۡرًا
+    arabic: شَهۡرٗا
     translation: months
     transliteration: shahran
   9:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   10:
-    arabic: كِتٰبِ
+    arabic: كِتَٰبِ
     translation: (the) ordinance
     transliteration: kitābi
   11:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (of) Allah
     transliteration: l-lahi
   12:
@@ -63,35 +62,35 @@ word_by_word:
     translation: He created
     transliteration: khalaqa
   14:
-    arabic: السَّمٰوٰتِ
+    arabic: ٱلسَّمَٰوَٰتِ
     translation: the heavens
     transliteration: l-samāwāti
   15:
-    arabic: وَالۡاَرۡضَ
+    arabic: وَٱلۡأَرۡضَ
     translation: and the earth
     transliteration: wal-arḍa
   16:
-    arabic: مِنۡهَاۤ
+    arabic: مِنۡهَآ
     translation: of them
     transliteration: min'hā
   17:
-    arabic: اَرۡبَعَةٌ
+    arabic: أَرۡبَعَةٌ
     translation: four
     transliteration: arbaʿatun
   18:
-    arabic: حُرُمٌ​ ؕ
+    arabic: حُرُمٞۚ
     translation: (are) sacred
     transliteration: ḥurumun
   19:
-    arabic: ذٰ لِكَ
+    arabic: ذَٰلِكَ
     translation: That
     transliteration: dhālika
   20:
-    arabic: الدِّيۡنُ
+    arabic: ٱلدِّينُ
     translation: (is) the religion
     transliteration: l-dīnu
   21:
-    arabic: الۡقَيِّمُ ۙ
+    arabic: ٱلۡقَيِّمُۚ
     translation: the upright
     transliteration: l-qayimu
   22:
@@ -99,27 +98,27 @@ word_by_word:
     translation: so (do) not
     transliteration: falā
   23:
-    arabic: تَظۡلِمُوۡا
+    arabic: تَظۡلِمُواْ
     translation: wrong
     transliteration: taẓlimū
   24:
-    arabic: فِيۡهِنَّ
+    arabic: فِيهِنَّ
     translation: therein
     transliteration: fīhinna
   25:
-    arabic: اَنۡفُسَكُمۡ​ ؕ
+    arabic: أَنفُسَكُمۡۚ
     translation: yourselves
     transliteration: anfusakum
   26:
-    arabic: وَقَاتِلُوا
+    arabic: وَقَٰتِلُواْ
     translation: And fight
     transliteration: waqātilū
   27:
-    arabic: الۡمُشۡرِكِيۡنَ
+    arabic: ٱلۡمُشۡرِكِينَ
     translation: the polytheists
     transliteration: l-mush'rikīna
   28:
-    arabic: كَآفَّةً
+    arabic: كَآفَّةٗ
     translation: all together
     transliteration: kāffatan
   29:
@@ -127,23 +126,23 @@ word_by_word:
     translation: as
     transliteration: kamā
   30:
-    arabic: يُقَاتِلُوۡنَكُمۡ
+    arabic: يُقَٰتِلُونَكُمۡ
     translation: they fight you
     transliteration: yuqātilūnakum
   31:
-    arabic: كَآفَّةً​  ؕ
+    arabic: كَآفَّةٗۚ
     translation: all together
     transliteration: kāffatan
   32:
-    arabic: وَاعۡلَمُوۡۤا
+    arabic: وَٱعۡلَمُوٓاْ
     translation: And know
     transliteration: wa-iʿ'lamū
   33:
-    arabic: اَنَّ
+    arabic: أَنَّ
     translation: that
     transliteration: anna
   34:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   35:
@@ -151,7 +150,7 @@ word_by_word:
     translation: (is) with
     transliteration: maʿa
   36:
-    arabic: الۡمُتَّقِيۡنَ‏
+    arabic: ٱلۡمُتَّقِينَ
     translation: the righteous
     transliteration: l-mutaqīna
 ---

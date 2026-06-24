@@ -1,6 +1,6 @@
 ---
-arabic_ayat: فَقُلۡنَا يٰۤاٰدَمُ اِنَّ هٰذَا عَدُوٌّ لَّكَ وَلِزَوۡجِكَ فَلَا يُخۡرِجَنَّكُمَا
-  مِنَ الۡجَـنَّةِ فَتَشۡقٰى‏
+arabic_ayat: فَقُلۡنَا يَٰٓـَٔادَمُ إِنَّ هَٰذَا عَدُوّٞ لَّكَ وَلِزَوۡجِكَ فَلَا
+  يُخۡرِجَنَّكُمَا مِنَ ٱلۡجَنَّةِ فَتَشۡقَىٰٓ
 sentence_translation: So We cautioned, “O Adam! This is surely an enemy to you and
   to your wife. So do not let him drive you both out of Paradise, for you ˹O Adam˺
   would then suffer ˹hardship˺.
@@ -10,19 +10,19 @@ word_by_word:
     translation: Then We said
     transliteration: faqul'nā
   2:
-    arabic: يٰۤاٰدَمُ
+    arabic: يَٰٓـَٔادَمُ
     translation: O Adam
     transliteration: yāādamu
   3:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   4:
-    arabic: هٰذَا
+    arabic: هَٰذَا
     translation: this
     transliteration: hādhā
   5:
-    arabic: عَدُوٌّ
+    arabic: عَدُوّٞ
     translation: (is) an enemy
     transliteration: ʿaduwwun
   6:
@@ -46,11 +46,11 @@ word_by_word:
     translation: from
     transliteration: mina
   11:
-    arabic: الۡجَـنَّةِ
+    arabic: ٱلۡجَنَّةِ
     translation: Paradise
     transliteration: l-janati
   12:
-    arabic: فَتَشۡقٰى‏
+    arabic: فَتَشۡقَىٰٓ
     translation: so (that) you would suffer
     transliteration: fatashqā
 ---

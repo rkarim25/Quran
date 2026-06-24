@@ -1,17 +1,17 @@
 ---
-arabic_ayat: وَالَّذِيۡنَ هُمۡ بِاٰيٰتِ رَبِّهِمۡ يُؤۡمِنُوۡنَۙ‏
+arabic_ayat: وَٱلَّذِينَ هُم بِـَٔايَٰتِ رَبِّهِمۡ يُؤۡمِنُونَ
 sentence_translation: and who believe in the revelations of their Lord,
 word_by_word:
   1:
-    arabic: وَالَّذِيۡنَ
+    arabic: وَٱلَّذِينَ
     translation: And those
     transliteration: wa-alladhīna
   2:
-    arabic: هُمۡ
+    arabic: هُم
     translation: '[they]'
     transliteration: hum
   3:
-    arabic: بِاٰيٰتِ
+    arabic: بِـَٔايَٰتِ
     translation: in (the) Signs
     transliteration: biāyāti
   4:
@@ -19,7 +19,7 @@ word_by_word:
     translation: (of) their Lord
     transliteration: rabbihim
   5:
-    arabic: يُؤۡمِنُوۡنَۙ‏
+    arabic: يُؤۡمِنُونَ
     translation: believe
     transliteration: yu'minūna
 ---

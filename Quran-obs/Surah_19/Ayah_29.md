@@ -1,19 +1,19 @@
 ---
-arabic_ayat: فَاَشَارَتۡ اِلَيۡهِ​ ؕ قَالُوۡا كَيۡفَ نُـكَلِّمُ مَنۡ كَانَ فِى الۡمَهۡدِ
-  صَبِيًّا‏
+arabic_ayat: فَأَشَارَتۡ إِلَيۡهِۖ قَالُواْ كَيۡفَ نُكَلِّمُ مَن كَانَ فِي ٱلۡمَهۡدِ
+  صَبِيّٗا
 sentence_translation: So she pointed to the baby. They exclaimed, “How can we talk
   to someone who is an infant in the cradle?”
 word_by_word:
   1:
-    arabic: فَاَشَارَتۡ
+    arabic: فَأَشَارَتۡ
     translation: Then she pointed
     transliteration: fa-ashārat
   2:
-    arabic: اِلَيۡهِ​ ؕ
+    arabic: إِلَيۡهِۖ
     translation: to him
     transliteration: ilayhi
   3:
-    arabic: قَالُوۡا
+    arabic: قَالُواْ
     translation: They said
     transliteration: qālū
   4:
@@ -21,11 +21,11 @@ word_by_word:
     translation: How
     transliteration: kayfa
   5:
-    arabic: نُـكَلِّمُ
+    arabic: نُكَلِّمُ
     translation: (can) we speak
     transliteration: nukallimu
   6:
-    arabic: مَنۡ
+    arabic: مَن
     translation: (to one) who
     transliteration: man
   7:
@@ -33,15 +33,15 @@ word_by_word:
     translation: is
     transliteration: kāna
   8:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   9:
-    arabic: الۡمَهۡدِ
+    arabic: ٱلۡمَهۡدِ
     translation: the cradle
     transliteration: l-mahdi
   10:
-    arabic: صَبِيًّا‏
+    arabic: صَبِيّٗا
     translation: a child
     transliteration: ṣabiyyan
 ---

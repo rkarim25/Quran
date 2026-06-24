@@ -1,27 +1,27 @@
 ---
-arabic_ayat: اِتَّبِعُوۡا مَاۤ اُنۡزِلَ اِلَيۡكُمۡ مِّنۡ رَّبِّكُمۡ وَلَا تَتَّبِعُوۡا
-  مِنۡ دُوۡنِهٖۤ اَوۡلِيَآءَ​ ؕ قَلِيۡلًا مَّا تَذَكَّرُوۡنَ‏
+arabic_ayat: ٱتَّبِعُواْ مَآ أُنزِلَ إِلَيۡكُم مِّن رَّبِّكُمۡ وَلَا تَتَّبِعُواْ
+  مِن دُونِهِۦٓ أَوۡلِيَآءَۗ قَلِيلٗا مَّا تَذَكَّرُونَ
 sentence_translation: Follow what has been sent down to you from your Lord, and do
   not take others as guardians besides Him. How seldom are you mindful!
 word_by_word:
   1:
-    arabic: اِتَّبِعُوۡا
+    arabic: ٱتَّبِعُواْ
     translation: Follow
     transliteration: ittabiʿū
   2:
-    arabic: مَاۤ
+    arabic: مَآ
     translation: what
     transliteration: mā
   3:
-    arabic: اُنۡزِلَ
+    arabic: أُنزِلَ
     translation: has been revealed
     transliteration: unzila
   4:
-    arabic: اِلَيۡكُمۡ
+    arabic: إِلَيۡكُم
     translation: to you
     transliteration: ilaykum
   5:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: from
     transliteration: min
   6:
@@ -33,23 +33,23 @@ word_by_word:
     translation: and (do) not
     transliteration: walā
   8:
-    arabic: تَتَّبِعُوۡا
+    arabic: تَتَّبِعُواْ
     translation: follow
     transliteration: tattabiʿū
   9:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   10:
-    arabic: دُوۡنِهٖۤ
+    arabic: دُونِهِۦٓ
     translation: beside Him
     transliteration: dūnihi
   11:
-    arabic: اَوۡلِيَآءَ​ ؕ
+    arabic: أَوۡلِيَآءَۗ
     translation: any allies
     transliteration: awliyāa
   12:
-    arabic: قَلِيۡلًا
+    arabic: قَلِيلٗا
     translation: Little
     transliteration: qalīlan
   13:
@@ -57,7 +57,7 @@ word_by_word:
     translation: (is) what
     transliteration: mā
   14:
-    arabic: تَذَكَّرُوۡنَ‏
+    arabic: تَذَكَّرُونَ
     translation: you remember
     transliteration: tadhakkarūna
 ---

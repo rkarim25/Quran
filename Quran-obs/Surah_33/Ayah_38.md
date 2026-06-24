@@ -1,13 +1,13 @@
 ---
-arabic_ayat: مَا كَانَ عَلَى النَّبِىِّ مِنۡ حَرَجٍ فِيۡمَا فَرَضَ اللّٰهُ لهٗ ؕ سُنَّةَ
-  اللّٰهِ فِى الَّذِيۡنَ خَلَوۡا مِنۡ قَبۡلُ ؕ وَكَانَ اَمۡرُ اللّٰهِ قَدَرًا مَّقۡدُوۡرَا
-   ۙ‏
+arabic_ayat: مَّا كَانَ عَلَى ٱلنَّبِيِّ مِنۡ حَرَجٖ فِيمَا فَرَضَ ٱللَّهُ لَهُۥۖ
+  سُنَّةَ ٱللَّهِ فِي ٱلَّذِينَ خَلَوۡاْ مِن قَبۡلُۚ وَكَانَ أَمۡرُ ٱللَّهِ قَدَرٗا
+  مَّقۡدُورًا
 sentence_translation: There is no blame on the Prophet for doing what Allah has ordained
   for him. That has been the way of Allah with those ˹prophets˺ who had gone before.
   And Allah’s command has been firmly decreed.
 word_by_word:
   1:
-    arabic: مَا
+    arabic: مَّا
     translation: Not
     transliteration: mā
   2:
@@ -19,7 +19,7 @@ word_by_word:
     translation: upon
     transliteration: ʿalā
   4:
-    arabic: النَّبِىِّ
+    arabic: ٱلنَّبِيِّ
     translation: the Prophet
     transliteration: l-nabiyi
   5:
@@ -27,11 +27,11 @@ word_by_word:
     translation: any
     transliteration: min
   6:
-    arabic: حَرَجٍ
+    arabic: حَرَجٖ
     translation: discomfort
     transliteration: ḥarajin
   7:
-    arabic: فِيۡمَا
+    arabic: فِيمَا
     translation: in what
     transliteration: fīmā
   8:
@@ -39,11 +39,11 @@ word_by_word:
     translation: Allah has imposed
     transliteration: faraḍa
   9:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah has imposed
     transliteration: l-lahu
   10:
-    arabic: لهٗ ؕ
+    arabic: لَهُۥۖ
     translation: on him
     transliteration: lahu
   11:
@@ -51,27 +51,27 @@ word_by_word:
     translation: (That is the) Way
     transliteration: sunnata
   12:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (of) Allah
     transliteration: l-lahi
   13:
-    arabic: فِى
+    arabic: فِي
     translation: concerning
     transliteration: fī
   14:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   15:
-    arabic: خَلَوۡا
+    arabic: خَلَوۡاْ
     translation: passed away
     transliteration: khalaw
   16:
-    arabic: مِنۡ
+    arabic: مِن
     translation: before
     transliteration: min
   17:
-    arabic: قَبۡلُ ؕ
+    arabic: قَبۡلُۚ
     translation: before
     transliteration: qablu
   18:
@@ -79,19 +79,19 @@ word_by_word:
     translation: And is
     transliteration: wakāna
   19:
-    arabic: اَمۡرُ
+    arabic: أَمۡرُ
     translation: (the) Command
     transliteration: amru
   20:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (of) Allah
     transliteration: l-lahi
   21:
-    arabic: قَدَرًا
+    arabic: قَدَرٗا
     translation: a decree
     transliteration: qadaran
   22:
-    arabic: مَّقۡدُوۡرَا  ۙ‏
+    arabic: مَّقۡدُورًا
     translation: destined
     transliteration: maqdūran
 ---

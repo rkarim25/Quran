@@ -1,9 +1,9 @@
 ---
-arabic_ayat: قَالُوۡا تِلۡكَ اِذًا كَرَّةٌ خَاسِرَةٌ​ ۘ‏
+arabic_ayat: قَالُواْ تِلۡكَ إِذٗا كَرَّةٌ خَاسِرَةٞ
 sentence_translation: Adding, “Then such a return would be a ˹total˺ loss ˹for us˺!”
 word_by_word:
   1:
-    arabic: قَالُوۡا
+    arabic: قَالُواْ
     translation: They say
     transliteration: qālū
   2:
@@ -11,7 +11,7 @@ word_by_word:
     translation: This
     transliteration: til'ka
   3:
-    arabic: اِذًا
+    arabic: إِذٗا
     translation: then
     transliteration: idhan
   4:
@@ -19,7 +19,7 @@ word_by_word:
     translation: (would be) a return
     transliteration: karratun
   5:
-    arabic: خَاسِرَةٌ​ ۘ‏
+    arabic: خَاسِرَةٞ
     translation: losing
     transliteration: khāsiratun
 ---

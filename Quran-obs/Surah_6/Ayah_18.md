@@ -1,5 +1,5 @@
 ---
-arabic_ayat: وَهُوَ الۡقَاهِرُ فَوۡقَ عِبَادِهٖ​ ؕ وَهُوَ الۡحَكِيۡمُ الۡخَبِيۡرُ‏
+arabic_ayat: وَهُوَ ٱلۡقَاهِرُ فَوۡقَ عِبَادِهِۦۚ وَهُوَ ٱلۡحَكِيمُ ٱلۡخَبِيرُ
 sentence_translation: He reigns supreme over His creation. And He is the All-Wise,
   All-Aware.
 word_by_word:
@@ -8,7 +8,7 @@ word_by_word:
     translation: And He
     transliteration: wahuwa
   2:
-    arabic: الۡقَاهِرُ
+    arabic: ٱلۡقَاهِرُ
     translation: (is) the Subjugator
     transliteration: l-qāhiru
   3:
@@ -16,7 +16,7 @@ word_by_word:
     translation: over
     transliteration: fawqa
   4:
-    arabic: عِبَادِهٖ​ ؕ
+    arabic: عِبَادِهِۦۚ
     translation: His slaves
     transliteration: ʿibādihi
   5:
@@ -24,11 +24,11 @@ word_by_word:
     translation: And He
     transliteration: wahuwa
   6:
-    arabic: الۡحَكِيۡمُ
+    arabic: ٱلۡحَكِيمُ
     translation: (is) the All-Wise
     transliteration: l-ḥakīmu
   7:
-    arabic: الۡخَبِيۡرُ‏
+    arabic: ٱلۡخَبِيرُ
     translation: the All-Aware
     transliteration: l-khabīru
 ---

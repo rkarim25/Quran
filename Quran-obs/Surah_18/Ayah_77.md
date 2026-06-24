@@ -1,54 +1,54 @@
 ---
-arabic_ayat: فَانْطَلَقَا حَتّٰۤى اِذَاۤ اَتَيَاۤ اَهۡلَ قَرۡيَةِ  ۨاسۡتَطۡعَمَاۤ
-  اَهۡلَهَا فَاَبَوۡا اَنۡ يُّضَيِّفُوۡهُمَا فَوَجَدَا فِيۡهَا جِدَارًا يُّرِيۡدُ
-  اَنۡ يَّـنۡقَضَّ فَاَقَامَهٗ​ ؕ قَالَ لَوۡ شِئۡتَ لَـتَّخَذۡتَ عَلَيۡهِ اَجۡرًا‏
+arabic_ayat: فَٱنطَلَقَا حَتَّىٰٓ إِذَآ أَتَيَآ أَهۡلَ قَرۡيَةٍ ٱسۡتَطۡعَمَآ أَهۡلَهَا
+  فَأَبَوۡاْ أَن يُضَيِّفُوهُمَا فَوَجَدَا فِيهَا جِدَارٗا يُرِيدُ أَن يَنقَضَّ فَأَقَامَهُۥۖ
+  قَالَ لَوۡ شِئۡتَ لَتَّخَذۡتَ عَلَيۡهِ أَجۡرٗا
 sentence_translation: So they moved on until they came to the people of a town. They
   asked them for food, but the people refused to give them hospitality. There they
   found a wall ready to collapse, so the man set it right. Moses protested, “If you
   wanted, you could have demanded a fee for this.”
 word_by_word:
   1:
-    arabic: فَانْطَلَقَا
+    arabic: فَٱنطَلَقَا
     translation: So they set out
     transliteration: fa-inṭalaqā
   2:
-    arabic: حَتّٰۤى
+    arabic: حَتَّىٰٓ
     translation: until
     transliteration: ḥattā
   3:
-    arabic: اِذَاۤ
+    arabic: إِذَآ
     translation: when
     transliteration: idhā
   4:
-    arabic: اَتَيَاۤ
+    arabic: أَتَيَآ
     translation: they came
     transliteration: atayā
   5:
-    arabic: اَهۡلَ
+    arabic: أَهۡلَ
     translation: (to the) people
     transliteration: ahla
   6:
-    arabic: قَرۡيَةِ  ۨ
+    arabic: قَرۡيَةٍ
     translation: (of) a town
     transliteration: qaryatin
   7:
-    arabic: اسۡتَطۡعَمَاۤ
+    arabic: ٱسۡتَطۡعَمَآ
     translation: they asked for food
     transliteration: is'taṭʿamā
   8:
-    arabic: اَهۡلَهَا
+    arabic: أَهۡلَهَا
     translation: (from) its people
     transliteration: ahlahā
   9:
-    arabic: فَاَبَوۡا
+    arabic: فَأَبَوۡاْ
     translation: but they refused
     transliteration: fa-abaw
   10:
-    arabic: اَنۡ
+    arabic: أَن
     translation: to
     transliteration: an
   11:
-    arabic: يُّضَيِّفُوۡهُمَا
+    arabic: يُضَيِّفُوهُمَا
     translation: offer them hospitality
     transliteration: yuḍayyifūhumā
   12:
@@ -56,27 +56,27 @@ word_by_word:
     translation: Then they found
     transliteration: fawajadā
   13:
-    arabic: فِيۡهَا
+    arabic: فِيهَا
     translation: in it
     transliteration: fīhā
   14:
-    arabic: جِدَارًا
+    arabic: جِدَارٗا
     translation: a wall
     transliteration: jidāran
   15:
-    arabic: يُّرِيۡدُ
+    arabic: يُرِيدُ
     translation: (that) want(ed)
     transliteration: yurīdu
   16:
-    arabic: اَنۡ
+    arabic: أَن
     translation: to
     transliteration: an
   17:
-    arabic: يَّـنۡقَضَّ
+    arabic: يَنقَضَّ
     translation: collapse
     transliteration: yanqaḍḍa
   18:
-    arabic: فَاَقَامَهٗ​ ؕ
+    arabic: فَأَقَامَهُۥۖ
     translation: so he set it straight
     transliteration: fa-aqāmahu
   19:
@@ -92,7 +92,7 @@ word_by_word:
     translation: you wished
     transliteration: shi'ta
   22:
-    arabic: لَـتَّخَذۡتَ
+    arabic: لَتَّخَذۡتَ
     translation: surely you (could) have taken
     transliteration: lattakhadhta
   23:
@@ -100,7 +100,7 @@ word_by_word:
     translation: for it
     transliteration: ʿalayhi
   24:
-    arabic: اَجۡرًا‏
+    arabic: أَجۡرٗا
     translation: a payment
     transliteration: ajran
 ---

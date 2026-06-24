@@ -1,11 +1,10 @@
 ---
-arabic_ayat: "اَمۡ لَهُمۡ شُرَكَآءُ ۛۚ فَلۡيَاۡتُوۡا بِشُرَكَآٮِٕهِمۡ اِنۡ كَانُوۡا\
-  \ صٰدِقِيۡنَ‏ \uFEFF\uFEFF"
+arabic_ayat: أَمۡ لَهُمۡ شُرَكَآءُ فَلۡيَأۡتُواْ بِشُرَكَآئِهِمۡ إِن كَانُواْ صَٰدِقِينَ
 sentence_translation: Or do they have associate-gods ˹supporting this claim˺? Then
   let them bring forth their associate-gods, if what they say is true.
 word_by_word:
   1:
-    arabic: اَمۡ
+    arabic: أَمۡ
     translation: Or
     transliteration: am
   2:
@@ -13,27 +12,27 @@ word_by_word:
     translation: (are) for them
     transliteration: lahum
   3:
-    arabic: شُرَكَآءُ ۛۚ
+    arabic: شُرَكَآءُ
     translation: partners
     transliteration: shurakāu
   4:
-    arabic: فَلۡيَاۡتُوۡا
+    arabic: فَلۡيَأۡتُواْ
     translation: Then let them bring
     transliteration: falyatū
   5:
-    arabic: بِشُرَكَآٮِٕهِمۡ
+    arabic: بِشُرَكَآئِهِمۡ
     translation: their partners
     transliteration: bishurakāihim
   6:
-    arabic: اِنۡ
+    arabic: إِن
     translation: if
     transliteration: in
   7:
-    arabic: كَانُوۡا
+    arabic: كَانُواْ
     translation: they are
     transliteration: kānū
   8:
-    arabic: "صٰدِقِيۡنَ‏ \uFEFF\uFEFF"
+    arabic: صَٰدِقِينَ
     translation: truthful
     transliteration: ṣādiqīna
 ---

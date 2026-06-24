@@ -1,9 +1,9 @@
 ---
-arabic_ayat: وَّرَفَعۡنٰهُ مَكَانًا عَلِيًّا‏
+arabic_ayat: وَرَفَعۡنَٰهُ مَكَانًا عَلِيًّا
 sentence_translation: And We elevated him to an honourable status. 
 word_by_word:
   1:
-    arabic: وَّرَفَعۡنٰهُ
+    arabic: وَرَفَعۡنَٰهُ
     translation: And We raised him
     transliteration: warafaʿnāhu
   2:
@@ -11,7 +11,7 @@ word_by_word:
     translation: (to) a position
     transliteration: makānan
   3:
-    arabic: عَلِيًّا‏
+    arabic: عَلِيًّا
     translation: high
     transliteration: ʿaliyyan
 ---

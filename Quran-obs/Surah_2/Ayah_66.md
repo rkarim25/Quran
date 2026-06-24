@@ -1,15 +1,15 @@
 ---
-arabic_ayat: فَجَعَلۡنٰهَا نَكٰلاً لِّمَا بَيۡنَ يَدَيۡهَا وَمَا خَلۡفَهَا وَمَوۡعِظَةً
-  لِّلۡمُتَّقِيۡنَ‏
+arabic_ayat: فَجَعَلۡنَٰهَا نَكَٰلٗا لِّمَا بَيۡنَ يَدَيۡهَا وَمَا خَلۡفَهَا وَمَوۡعِظَةٗ
+  لِّلۡمُتَّقِينَ
 sentence_translation: So We made their fate an example to present and future generations,
   and a lesson to the God-fearing.
 word_by_word:
   1:
-    arabic: فَجَعَلۡنٰهَا
+    arabic: فَجَعَلۡنَٰهَا
     translation: So We made it
     transliteration: fajaʿalnāhā
   2:
-    arabic: نَكٰلاً
+    arabic: نَكَٰلٗا
     translation: a deterrent punishment
     transliteration: nakālan
   3:
@@ -33,11 +33,11 @@ word_by_word:
     translation: after them
     transliteration: khalfahā
   8:
-    arabic: وَمَوۡعِظَةً
+    arabic: وَمَوۡعِظَةٗ
     translation: and an admonition
     transliteration: wamawʿiẓatan
   9:
-    arabic: لِّلۡمُتَّقِيۡنَ‏
+    arabic: لِّلۡمُتَّقِينَ
     translation: for those who fear (Allah)
     transliteration: lil'muttaqīna
 ---

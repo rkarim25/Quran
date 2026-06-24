@@ -1,13 +1,13 @@
 ---
-arabic_ayat: فَكَذَّبُوۡهُمَا فَكَانُوۡا مِنَ الۡمُهۡلَـكِيۡنَ‏
+arabic_ayat: فَكَذَّبُوهُمَا فَكَانُواْ مِنَ ٱلۡمُهۡلَكِينَ
 sentence_translation: So they rejected them both, and ˹so˺ were among those destroyed.
 word_by_word:
   1:
-    arabic: فَكَذَّبُوۡهُمَا
+    arabic: فَكَذَّبُوهُمَا
     translation: So they denied them
     transliteration: fakadhabūhumā
   2:
-    arabic: فَكَانُوۡا
+    arabic: فَكَانُواْ
     translation: and they became
     transliteration: fakānū
   3:
@@ -15,7 +15,7 @@ word_by_word:
     translation: of
     transliteration: mina
   4:
-    arabic: الۡمُهۡلَـكِيۡنَ‏
+    arabic: ٱلۡمُهۡلَكِينَ
     translation: those who were destroyed
     transliteration: l-muh'lakīna
 ---

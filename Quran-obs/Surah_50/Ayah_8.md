@@ -1,14 +1,14 @@
 ---
-arabic_ayat: تَبۡصِرَةً وَّذِكۡرٰى لِكُلِّ عَبۡدٍ مُّنِيۡبٍ‏
+arabic_ayat: تَبۡصِرَةٗ وَذِكۡرَىٰ لِكُلِّ عَبۡدٖ مُّنِيبٖ
 sentence_translation: ˹all as˺ an insight and a reminder to every servant who turns
   ˹to Allah˺.
 word_by_word:
   1:
-    arabic: تَبۡصِرَةً
+    arabic: تَبۡصِرَةٗ
     translation: Giving insight
     transliteration: tabṣiratan
   2:
-    arabic: وَّذِكۡرٰى
+    arabic: وَذِكۡرَىٰ
     translation: and a reminder
     transliteration: wadhik'rā
   3:
@@ -16,11 +16,11 @@ word_by_word:
     translation: for every
     transliteration: likulli
   4:
-    arabic: عَبۡدٍ
+    arabic: عَبۡدٖ
     translation: slave
     transliteration: ʿabdin
   5:
-    arabic: مُّنِيۡبٍ‏
+    arabic: مُّنِيبٖ
     translation: who turns
     transliteration: munībin
 ---

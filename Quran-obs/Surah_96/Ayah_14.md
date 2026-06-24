@@ -1,25 +1,25 @@
 ---
-arabic_ayat: اَلَمۡ يَعۡلَمۡ بِاَنَّ اللّٰهَ يَرٰىؕ‏
+arabic_ayat: أَلَمۡ يَعۡلَم بِأَنَّ ٱللَّهَ يَرَىٰ
 sentence_translation: Does he not know that Allah sees ˹all˺?
 word_by_word:
   1:
-    arabic: اَلَمۡ
+    arabic: أَلَمۡ
     translation: Does not
     transliteration: alam
   2:
-    arabic: يَعۡلَمۡ
+    arabic: يَعۡلَم
     translation: he know
     transliteration: yaʿlam
   3:
-    arabic: بِاَنَّ
+    arabic: بِأَنَّ
     translation: that
     transliteration: bi-anna
   4:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   5:
-    arabic: يَرٰىؕ‏
+    arabic: يَرَىٰ
     translation: sees
     transliteration: yarā
 ---

@@ -1,6 +1,5 @@
 ---
-arabic_ayat: "بِنَصۡرِ اللّٰهِ​ؕ يَنۡصُرُ مَنۡ يَّشَآءُ ؕ وَهُوَ الۡعَزِيۡزُ الرَّحِيۡمُۙ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: بِنَصۡرِ ٱللَّهِۚ يَنصُرُ مَن يَشَآءُۖ وَهُوَ ٱلۡعَزِيزُ ٱلرَّحِيمُ
 sentence_translation: at the victory willed by Allah. He gives victory to whoever
   He wills. For He is the Almighty, Most Merciful.
 word_by_word:
@@ -9,19 +8,19 @@ word_by_word:
     translation: With (the) help
     transliteration: binaṣri
   2:
-    arabic: اللّٰهِ​ؕ
+    arabic: ٱللَّهِۚ
     translation: (of) Allah
     transliteration: l-lahi
   3:
-    arabic: يَنۡصُرُ
+    arabic: يَنصُرُ
     translation: He helps
     transliteration: yanṣuru
   4:
-    arabic: مَنۡ
+    arabic: مَن
     translation: whom
     transliteration: man
   5:
-    arabic: يَّشَآءُ ؕ
+    arabic: يَشَآءُۖ
     translation: He wills
     transliteration: yashāu
   6:
@@ -29,11 +28,11 @@ word_by_word:
     translation: And He
     transliteration: wahuwa
   7:
-    arabic: الۡعَزِيۡزُ
+    arabic: ٱلۡعَزِيزُ
     translation: (is) the All-Mighty
     transliteration: l-ʿazīzu
   8:
-    arabic: "الرَّحِيۡمُۙ‏ \uFEFF\uFEFF"
+    arabic: ٱلرَّحِيمُ
     translation: the Most Merciful
     transliteration: l-raḥīmu
 ---

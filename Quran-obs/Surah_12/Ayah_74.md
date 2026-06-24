@@ -1,10 +1,10 @@
 ---
-arabic_ayat: قَالُوۡا فَمَا جَزَاۤؤُهٗۤ اِنۡ كُنۡتُمۡ كٰذِبِيۡنَ‏
+arabic_ayat: قَالُواْ فَمَا جَزَٰٓؤُهُۥٓ إِن كُنتُمۡ كَٰذِبِينَ
 sentence_translation: Joseph’s men asked, “What should be the price for theft, if
   you are lying?”
 word_by_word:
   1:
-    arabic: قَالُوۡا
+    arabic: قَالُواْ
     translation: They said
     transliteration: qālū
   2:
@@ -12,19 +12,19 @@ word_by_word:
     translation: Then what
     transliteration: famā
   3:
-    arabic: جَزَاۤؤُهٗۤ
+    arabic: جَزَٰٓؤُهُۥٓ
     translation: (will be the) recompense (of) it
     transliteration: jazāuhu
   4:
-    arabic: اِنۡ
+    arabic: إِن
     translation: if
     transliteration: in
   5:
-    arabic: كُنۡتُمۡ
+    arabic: كُنتُمۡ
     translation: you are
     transliteration: kuntum
   6:
-    arabic: كٰذِبِيۡنَ‏
+    arabic: كَٰذِبِينَ
     translation: liars
     transliteration: kādhibīna
 ---

@@ -1,20 +1,20 @@
 ---
-arabic_ayat: اِذۡ رَاٰ نَارًا فَقَالَ لِاَهۡلِهِ امۡكُثُوۡۤا اِنِّىۡۤ اٰنَسۡتُ نَارًا
-  لَّعَلِّىۡۤ اٰتِيۡكُمۡ مِّنۡهَا بِقَبَسٍ اَوۡ اَجِدُ عَلَى النَّارِ هُدًى‏
+arabic_ayat: إِذۡ رَءَا نَارٗا فَقَالَ لِأَهۡلِهِ ٱمۡكُثُوٓاْ إِنِّيٓ ءَانَسۡتُ نَارٗا
+  لَّعَلِّيٓ ءَاتِيكُم مِّنۡهَا بِقَبَسٍ أَوۡ أَجِدُ عَلَى ٱلنَّارِ هُدٗى
 sentence_translation: When he saw a fire, he said to his family, “Wait here, ˹for˺
   I have spotted a fire. Perhaps I can bring you a torch from it, or find some guidance
   at the fire.”
 word_by_word:
   1:
-    arabic: اِذۡ
+    arabic: إِذۡ
     translation: When
     transliteration: idh
   2:
-    arabic: رَاٰ
+    arabic: رَءَا
     translation: he saw
     transliteration: raā
   3:
-    arabic: نَارًا
+    arabic: نَارٗا
     translation: a fire
     transliteration: nāran
   4:
@@ -22,31 +22,31 @@ word_by_word:
     translation: then he said
     transliteration: faqāla
   5:
-    arabic: لِاَهۡلِهِ
+    arabic: لِأَهۡلِهِ
     translation: to his family
     transliteration: li-ahlihi
   6:
-    arabic: امۡكُثُوۡۤا
+    arabic: ٱمۡكُثُوٓاْ
     translation: Stay here
     transliteration: um'kuthū
   7:
-    arabic: اِنِّىۡۤ
+    arabic: إِنِّيٓ ءَ
     translation: indeed, I
     transliteration: innī
   8:
-    arabic: اٰنَسۡتُ
+    arabic: انَسۡتُ
     translation: '[I] perceived'
     transliteration: ānastu
   9:
-    arabic: نَارًا
+    arabic: نَارٗا
     translation: a fire
     transliteration: nāran
   10:
-    arabic: لَّعَلِّىۡۤ
+    arabic: لَّعَلِّيٓ ءَ
     translation: perhaps I (can)
     transliteration: laʿallī
   11:
-    arabic: اٰتِيۡكُمۡ
+    arabic: اتِيكُم
     translation: bring you
     transliteration: ātīkum
   12:
@@ -58,11 +58,11 @@ word_by_word:
     translation: a burning brand
     transliteration: biqabasin
   14:
-    arabic: اَوۡ
+    arabic: أَوۡ
     translation: or
     transliteration: aw
   15:
-    arabic: اَجِدُ
+    arabic: أَجِدُ
     translation: I find
     transliteration: ajidu
   16:
@@ -70,11 +70,11 @@ word_by_word:
     translation: at
     transliteration: ʿalā
   17:
-    arabic: النَّارِ
+    arabic: ٱلنَّارِ
     translation: the fire
     transliteration: l-nāri
   18:
-    arabic: هُدًى‏
+    arabic: هُدٗى
     translation: guidance
     transliteration: hudan
 ---

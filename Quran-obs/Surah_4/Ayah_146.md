@@ -1,49 +1,49 @@
 ---
-arabic_ayat: اِلَّا الَّذِيۡنَ تَابُوۡا وَاَصۡلَحُوۡا وَاعۡتَصَمُوۡا بِاللّٰهِ وَاَخۡلَصُوۡا
-  دِيۡنَهُمۡ لِلّٰهِ فَاُولٰٓٮِٕكَ مَعَ الۡمُؤۡمِنِيۡنَ​ ؕ وَسَوۡفَ يُـؤۡتِ اللّٰهُ
-  الۡمُؤۡمِنِيۡنَ اَجۡرًا عَظِيۡمًا‏
+arabic_ayat: إِلَّا ٱلَّذِينَ تَابُواْ وَأَصۡلَحُواْ وَٱعۡتَصَمُواْ بِٱللَّهِ وَأَخۡلَصُواْ
+  دِينَهُمۡ لِلَّهِ فَأُوْلَٰٓئِكَ مَعَ ٱلۡمُؤۡمِنِينَۖ وَسَوۡفَ يُؤۡتِ ٱللَّهُ ٱلۡمُؤۡمِنِينَ
+  أَجۡرًا عَظِيمٗا
 sentence_translation: except those who repent, mend their ways, hold fast to Allah,
   and are sincere in their devotion to Allah; they will be with the believers. And
   Allah will grant the believers a great reward.
 word_by_word:
   1:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: Except
     transliteration: illā
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   3:
-    arabic: تَابُوۡا
+    arabic: تَابُواْ
     translation: repent
     transliteration: tābū
   4:
-    arabic: وَاَصۡلَحُوۡا
+    arabic: وَأَصۡلَحُواْ
     translation: and correct (themselves)
     transliteration: wa-aṣlaḥū
   5:
-    arabic: وَاعۡتَصَمُوۡا
+    arabic: وَٱعۡتَصَمُواْ
     translation: and hold fast
     transliteration: wa-iʿ'taṣamū
   6:
-    arabic: بِاللّٰهِ
+    arabic: بِٱللَّهِ
     translation: to Allah
     transliteration: bil-lahi
   7:
-    arabic: وَاَخۡلَصُوۡا
+    arabic: وَأَخۡلَصُواْ
     translation: and are sincere
     transliteration: wa-akhlaṣū
   8:
-    arabic: دِيۡنَهُمۡ
+    arabic: دِينَهُمۡ
     translation: (in) their religion
     transliteration: dīnahum
   9:
-    arabic: لِلّٰهِ
+    arabic: لِلَّهِ
     translation: for Allah
     transliteration: lillahi
   10:
-    arabic: فَاُولٰٓٮِٕكَ
+    arabic: فَأُوْلَٰٓئِكَ
     translation: then those (will be)
     transliteration: fa-ulāika
   11:
@@ -51,7 +51,7 @@ word_by_word:
     translation: with
     transliteration: maʿa
   12:
-    arabic: الۡمُؤۡمِنِيۡنَ​ ؕ
+    arabic: ٱلۡمُؤۡمِنِينَۖ
     translation: the believers
     transliteration: l-mu'minīna
   13:
@@ -59,23 +59,23 @@ word_by_word:
     translation: And soon
     transliteration: wasawfa
   14:
-    arabic: يُـؤۡتِ
+    arabic: يُؤۡتِ
     translation: will be given
     transliteration: yu'ti
   15:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: (by) Allah
     transliteration: l-lahu
   16:
-    arabic: الۡمُؤۡمِنِيۡنَ
+    arabic: ٱلۡمُؤۡمِنِينَ
     translation: the believers
     transliteration: l-mu'minīna
   17:
-    arabic: اَجۡرًا
+    arabic: أَجۡرًا
     translation: a reward
     transliteration: ajran
   18:
-    arabic: عَظِيۡمًا‏
+    arabic: عَظِيمٗا
     translation: great
     transliteration: ʿaẓīman
 ---

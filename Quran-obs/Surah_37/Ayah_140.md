@@ -1,25 +1,25 @@
 ---
-arabic_ayat: اِذۡ اَبَقَ اِلَى الۡفُلۡكِ الۡمَشۡحُوۡنِۙ‏
+arabic_ayat: إِذۡ أَبَقَ إِلَى ٱلۡفُلۡكِ ٱلۡمَشۡحُونِ
 sentence_translation: ˹Remember˺ when he fled to the overloaded ship.
 word_by_word:
   1:
-    arabic: اِذۡ
+    arabic: إِذۡ
     translation: When
     transliteration: idh
   2:
-    arabic: اَبَقَ
+    arabic: أَبَقَ
     translation: he ran away
     transliteration: abaqa
   3:
-    arabic: اِلَى
+    arabic: إِلَى
     translation: to
     transliteration: ilā
   4:
-    arabic: الۡفُلۡكِ
+    arabic: ٱلۡفُلۡكِ
     translation: the ship
     transliteration: l-ful'ki
   5:
-    arabic: الۡمَشۡحُوۡنِۙ‏
+    arabic: ٱلۡمَشۡحُونِ
     translation: laden
     transliteration: l-mashḥūni
 ---

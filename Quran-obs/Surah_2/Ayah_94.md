@@ -1,6 +1,6 @@
 ---
-arabic_ayat: قُلۡ اِنۡ كَانَتۡ لَـکُمُ الدَّارُ الۡاٰخِرَةُ عِنۡدَ اللّٰهِ خَالِصَةً
-  مِّنۡ دُوۡنِ النَّاسِ فَتَمَنَّوُا الۡمَوۡتَ اِنۡ کُنۡتُمۡ صٰدِقِيۡنَ‏
+arabic_ayat: قُلۡ إِن كَانَتۡ لَكُمُ ٱلدَّارُ ٱلۡأٓخِرَةُ عِندَ ٱللَّهِ خَالِصَةٗ
+  مِّن دُونِ ٱلنَّاسِ فَتَمَنَّوُاْ ٱلۡمَوۡتَ إِن كُنتُمۡ صَٰدِقِينَ
 sentence_translation: Say, ˹O Prophet,˺ “If the ˹eternal˺ Home of the Hereafter with
   Allah is exclusively for you ˹Israelites˺ out of all humanity, then wish for death
   if what you say is true!”
@@ -10,7 +10,7 @@ word_by_word:
     translation: Say
     transliteration: qul
   2:
-    arabic: اِنۡ
+    arabic: إِن
     translation: 'If '
     transliteration: in
   3:
@@ -18,59 +18,59 @@ word_by_word:
     translation: is
     transliteration: kānat
   4:
-    arabic: لَـکُمُ
+    arabic: لَكُمُ
     translation: for you
     transliteration: lakumu
   5:
-    arabic: الدَّارُ
+    arabic: ٱلدَّارُ
     translation: the home
     transliteration: l-dāru
   6:
-    arabic: الۡاٰخِرَةُ
+    arabic: ٱلۡأٓخِرَةُ
     translation: (of) the Hereafter
     transliteration: l-ākhiratu
   7:
-    arabic: عِنۡدَ
+    arabic: عِندَ
     translation: with
     transliteration: ʿinda
   8:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   9:
-    arabic: خَالِصَةً
+    arabic: خَالِصَةٗ
     translation: exclusively
     transliteration: khāliṣatan
   10:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: from
     transliteration: min
   11:
-    arabic: دُوۡنِ
+    arabic: دُونِ
     translation: excluding
     transliteration: dūni
   12:
-    arabic: النَّاسِ
+    arabic: ٱلنَّاسِ
     translation: the mankind
     transliteration: l-nāsi
   13:
-    arabic: فَتَمَنَّوُا
+    arabic: فَتَمَنَّوُاْ
     translation: then wish
     transliteration: fatamannawū
   14:
-    arabic: الۡمَوۡتَ
+    arabic: ٱلۡمَوۡتَ
     translation: (for) [the] death
     transliteration: l-mawta
   15:
-    arabic: اِنۡ
+    arabic: إِن
     translation: if
     transliteration: in
   16:
-    arabic: کُنۡتُمۡ
+    arabic: كُنتُمۡ
     translation: you are
     transliteration: kuntum
   17:
-    arabic: صٰدِقِيۡنَ‏
+    arabic: صَٰدِقِينَ
     translation: truthful
     transliteration: ṣādiqīna
 ---

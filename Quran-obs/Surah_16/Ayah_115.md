@@ -1,14 +1,14 @@
 ---
-arabic_ayat: اِنَّمَا حَرَّمَ عَلَيۡكُمُ الۡمَيۡتَةَ وَ الدَّمَ وَلَحۡمَ الۡخِنۡزِيۡرِ
-  وَمَاۤ اُهِلَّ لِغَيۡرِ اللّٰهِ بِهٖ​ۚ فَمَنِ اضۡطُرَّ غَيۡرَ بَاغٍ وَّلَا عَادٍ
-  فَاِنَّ اللّٰهَ غَفُوۡرٌ رَّحِيۡمٌ‏
+arabic_ayat: إِنَّمَا حَرَّمَ عَلَيۡكُمُ ٱلۡمَيۡتَةَ وَٱلدَّمَ وَلَحۡمَ ٱلۡخِنزِيرِ
+  وَمَآ أُهِلَّ لِغَيۡرِ ٱللَّهِ بِهِۦۖ فَمَنِ ٱضۡطُرَّ غَيۡرَ بَاغٖ وَلَا عَادٖ
+  فَإِنَّ ٱللَّهَ غَفُورٞ رَّحِيمٞ
 sentence_translation: He has only forbidden you ˹to eat˺ carrion, blood, swine, and
   what is slaughtered in the name of any other than Allah. But if someone is compelled
   by necessity—neither driven by desire nor exceeding immediate need—then surely Allah
   is All-Forgiving, Most Merciful.
 word_by_word:
   1:
-    arabic: اِنَّمَا
+    arabic: إِنَّمَا
     translation: Only
     transliteration: innamā
   2:
@@ -20,11 +20,11 @@ word_by_word:
     translation: to you
     transliteration: ʿalaykumu
   4:
-    arabic: الۡمَيۡتَةَ
+    arabic: ٱلۡمَيۡتَةَ
     translation: the dead animal
     transliteration: l-maytata
   5:
-    arabic: وَ الدَّمَ
+    arabic: وَٱلدَّمَ
     translation: and the blood
     transliteration: wal-dama
   6:
@@ -32,15 +32,15 @@ word_by_word:
     translation: and the flesh
     transliteration: walaḥma
   7:
-    arabic: الۡخِنۡزِيۡرِ
+    arabic: ٱلۡخِنزِيرِ
     translation: (of) the swine
     transliteration: l-khinzīri
   8:
-    arabic: وَمَاۤ
+    arabic: وَمَآ
     translation: and what
     transliteration: wamā
   9:
-    arabic: اُهِلَّ
+    arabic: أُهِلَّ
     translation: has been dedicated
     transliteration: uhilla
   10:
@@ -48,11 +48,11 @@ word_by_word:
     translation: to other (than)
     transliteration: lighayri
   11:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   12:
-    arabic: بِهٖ​ۚ
+    arabic: بِهِۦۖ
     translation: '[with it]'
     transliteration: bihi
   13:
@@ -60,7 +60,7 @@ word_by_word:
     translation: But (if) one
     transliteration: famani
   14:
-    arabic: اضۡطُرَّ
+    arabic: ٱضۡطُرَّ
     translation: '(is) forced '
     transliteration: uḍ'ṭurra
   15:
@@ -68,31 +68,31 @@ word_by_word:
     translation: without (being)
     transliteration: ghayra
   16:
-    arabic: بَاغٍ
+    arabic: بَاغٖ
     translation: disobedient
     transliteration: bāghin
   17:
-    arabic: وَّلَا
+    arabic: وَلَا
     translation: and not
     transliteration: walā
   18:
-    arabic: عَادٍ
+    arabic: عَادٖ
     translation: 'a transgressor '
     transliteration: ʿādin
   19:
-    arabic: فَاِنَّ
+    arabic: فَإِنَّ
     translation: then indeed
     transliteration: fa-inna
   20:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   21:
-    arabic: غَفُوۡرٌ
+    arabic: غَفُورٞ
     translation: (is) Oft-Forgiving
     transliteration: ghafūrun
   22:
-    arabic: رَّحِيۡمٌ‏
+    arabic: رَّحِيمٞ
     translation: Most Merciful
     transliteration: raḥīmun
 ---

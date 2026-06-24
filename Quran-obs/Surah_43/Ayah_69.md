@@ -1,26 +1,26 @@
 ---
-arabic_ayat: اَلَّذِيۡنَ اٰمَنُوۡا بِاٰيٰتِنَا وَكَانُوۡا مُسۡلِمِيۡنَ​ۚ‏
+arabic_ayat: ٱلَّذِينَ ءَامَنُواْ بِـَٔايَٰتِنَا وَكَانُواْ مُسۡلِمِينَ
 sentence_translation: ˹those˺ who believed in Our signs and ˹fully˺ submitted ˹to
   Us˺.
 word_by_word:
   1:
-    arabic: اَلَّذِيۡنَ
+    arabic: ٱلَّذِينَ ءَ
     translation: Those who
     transliteration: alladhīna
   2:
-    arabic: اٰمَنُوۡا
+    arabic: امَنُواْ
     translation: believed
     transliteration: āmanū
   3:
-    arabic: بِاٰيٰتِنَا
+    arabic: بِـَٔايَٰتِنَا
     translation: in Our Verses
     transliteration: biāyātinā
   4:
-    arabic: وَكَانُوۡا
+    arabic: وَكَانُواْ
     translation: and were
     transliteration: wakānū
   5:
-    arabic: مُسۡلِمِيۡنَ​ۚ‏
+    arabic: مُسۡلِمِينَ
     translation: submissive
     transliteration: mus'limīna
 ---

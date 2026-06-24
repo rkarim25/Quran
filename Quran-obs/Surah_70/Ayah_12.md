@@ -1,13 +1,13 @@
 ---
-arabic_ayat: وَ صَاحِبَتِهٖ وَاَخِيۡهِۙ‏
+arabic_ayat: وَصَٰحِبَتِهِۦ وَأَخِيهِ
 sentence_translation: their spouses, their siblings,
 word_by_word:
   1:
-    arabic: وَصَاحِبَتِهٖ
+    arabic: وَصَٰحِبَتِهِۦ
     translation: And his spouse
     transliteration: waṣāḥibatihi
   2:
-    arabic: وَاَخِيۡهِۙ‏
+    arabic: وَأَخِيهِ
     translation: and his brother
     transliteration: wa-akhīhi
 ---

@@ -1,41 +1,40 @@
 ---
-arabic_ayat: "وَمَنۡ يَّقۡتُلۡ مُؤۡمِنًا مُّتَعَمِّدًا فَجَزَآؤُهٗ جَهَـنَّمُ خَالِدًا\
-  \ فِيۡهَا وَغَضِبَ اللّٰهُ عَلَيۡهِ وَلَعَنَهٗ وَاَعَدَّ لَهٗ عَذَابًا عَظِيۡمًا‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: وَمَن يَقۡتُلۡ مُؤۡمِنٗا مُّتَعَمِّدٗا فَجَزَآؤُهُۥ جَهَنَّمُ خَٰلِدٗا
+  فِيهَا وَغَضِبَ ٱللَّهُ عَلَيۡهِ وَلَعَنَهُۥ وَأَعَدَّ لَهُۥ عَذَابًا عَظِيمٗا
 sentence_translation: And whoever kills a believer intentionally, their reward will
   be Hell—where they will stay indefinitely. Allah will be displeased with them, condemn
   them, and will prepare for them a tremendous punishment.
 word_by_word:
   1:
-    arabic: وَمَنۡ
+    arabic: وَمَن
     translation: And whoever
     transliteration: waman
   2:
-    arabic: يَّقۡتُلۡ
+    arabic: يَقۡتُلۡ
     translation: kills
     transliteration: yaqtul
   3:
-    arabic: مُؤۡمِنًا
+    arabic: مُؤۡمِنٗا
     translation: a believer
     transliteration: mu'minan
   4:
-    arabic: مُّتَعَمِّدًا
+    arabic: مُّتَعَمِّدٗا
     translation: intentionally
     transliteration: mutaʿammidan
   5:
-    arabic: فَجَزَآؤُهٗ
+    arabic: فَجَزَآؤُهُۥ
     translation: then his recompense
     transliteration: fajazāuhu
   6:
-    arabic: جَهَـنَّمُ
+    arabic: جَهَنَّمُ
     translation: (is) Hell
     transliteration: jahannamu
   7:
-    arabic: خَالِدًا
+    arabic: خَٰلِدٗا
     translation: abiding forever
     transliteration: khālidan
   8:
-    arabic: فِيۡهَا
+    arabic: فِيهَا
     translation: in it
     transliteration: fīhā
   9:
@@ -43,7 +42,7 @@ word_by_word:
     translation: and will fall the wrath
     transliteration: waghaḍiba
   10:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: (of) Allah
     transliteration: l-lahu
   11:
@@ -51,15 +50,15 @@ word_by_word:
     translation: on him
     transliteration: ʿalayhi
   12:
-    arabic: وَلَعَنَهٗ
+    arabic: وَلَعَنَهُۥ
     translation: and He (will) curse him
     transliteration: walaʿanahu
   13:
-    arabic: وَاَعَدَّ
+    arabic: وَأَعَدَّ
     translation: and He has prepared
     transliteration: wa-aʿadda
   14:
-    arabic: لَهٗ
+    arabic: لَهُۥ
     translation: for him
     transliteration: lahu
   15:
@@ -67,7 +66,7 @@ word_by_word:
     translation: a punishment
     transliteration: ʿadhāban
   16:
-    arabic: "عَظِيۡمًا‏ \uFEFF\uFEFF"
+    arabic: عَظِيمٗا
     translation: great
     transliteration: ʿaẓīman
 ---

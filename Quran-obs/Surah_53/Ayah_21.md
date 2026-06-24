@@ -1,13 +1,13 @@
 ---
-arabic_ayat: اَلَـكُمُ الذَّكَرُ وَلَهُ الۡاُنۡثٰى‏
+arabic_ayat: أَلَكُمُ ٱلذَّكَرُ وَلَهُ ٱلۡأُنثَىٰ
 sentence_translation: Do you ˹prefer to˺ have sons while ˹you attribute˺ to Him daughters?
 word_by_word:
   1:
-    arabic: اَلَـكُمُ
+    arabic: أَلَكُمُ
     translation: Is for you
     transliteration: alakumu
   2:
-    arabic: الذَّكَرُ
+    arabic: ٱلذَّكَرُ
     translation: the male
     transliteration: l-dhakaru
   3:
@@ -15,7 +15,7 @@ word_by_word:
     translation: and for Him
     transliteration: walahu
   4:
-    arabic: الۡاُنۡثٰى‏
+    arabic: ٱلۡأُنثَىٰ
     translation: the female
     transliteration: l-unthā
 ---

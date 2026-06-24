@@ -1,9 +1,9 @@
 ---
-arabic_ayat: اِنَّ اللّٰهَ اشۡتَرٰى مِنَ الۡمُؤۡمِنِيۡنَ اَنۡفُسَهُمۡ وَاَمۡوَالَهُمۡ
-  بِاَنَّ لَهُمُ الۡجَــنَّةَ​ ؕ يُقَاتِلُوۡنَ فِىۡ سَبِيۡلِ اللّٰهِ فَيَقۡتُلُوۡنَ
-  وَ يُقۡتَلُوۡنَ​وَعۡدًا عَلَيۡهِ حَقًّا فِى التَّوۡرٰٮةِ وَالۡاِنۡجِيۡلِ وَالۡقُرۡاٰنِ​
-  ؕ وَمَنۡ اَوۡفٰى بِعَهۡدِهٖ مِنَ اللّٰهِ فَاسۡتَـبۡشِرُوۡا بِبَيۡعِكُمُ الَّذِىۡ
-  بَايَعۡتُمۡ بِهٖ​ ؕ وَذٰ لِكَ هُوَ الۡفَوۡزُ الۡعَظِيۡمُ‏
+arabic_ayat: ۞ إِنَّ ٱللَّهَ ٱشۡتَرَىٰ مِنَ ٱلۡمُؤۡمِنِينَ أَنفُسَهُمۡ وَأَمۡوَٰلَهُم
+  بِأَنَّ لَهُمُ ٱلۡجَنَّةَۚ يُقَٰتِلُونَ فِي سَبِيلِ ٱللَّهِ فَيَقۡتُلُونَ وَيُقۡتَلُونَۖ
+  وَعۡدًا عَلَيۡهِ حَقّٗا فِي ٱلتَّوۡرَىٰةِ وَٱلۡإِنجِيلِ وَٱلۡقُرۡءَانِۚ وَمَنۡ أَوۡفَىٰ
+  بِعَهۡدِهِۦ مِنَ ٱللَّهِۚ فَٱسۡتَبۡشِرُواْ بِبَيۡعِكُمُ ٱلَّذِي بَايَعۡتُم بِهِۦۚ
+  وَذَٰلِكَ هُوَ ٱلۡفَوۡزُ ٱلۡعَظِيمُ
 sentence_translation: Allah has indeed purchased from the believers their lives and
   wealth in exchange for Paradise. They fight in the cause of Allah and kill or are
   killed. This is a true promise binding on Him in the Torah, the Gospel, and the
@@ -11,15 +11,15 @@ sentence_translation: Allah has indeed purchased from the believers their lives 
   made with Him. That is ˹truly˺ the ultimate triumph.
 word_by_word:
   1:
-    arabic: ۞ اِنَّ
+    arabic: ۞ إِنَّ
     translation: Indeed
     transliteration: inna
   2:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   3:
-    arabic: اشۡتَرٰى
+    arabic: ٱشۡتَرَىٰ
     translation: (has) purchased
     transliteration: ish'tarā
   4:
@@ -27,19 +27,19 @@ word_by_word:
     translation: from
     transliteration: mina
   5:
-    arabic: الۡمُؤۡمِنِيۡنَ
+    arabic: ٱلۡمُؤۡمِنِينَ
     translation: the believers
     transliteration: l-mu'minīna
   6:
-    arabic: اَنۡفُسَهُمۡ
+    arabic: أَنفُسَهُمۡ
     translation: their lives
     transliteration: anfusahum
   7:
-    arabic: وَاَمۡوَالَهُمۡ
+    arabic: وَأَمۡوَٰلَهُم
     translation: and their wealth
     transliteration: wa-amwālahum
   8:
-    arabic: بِاَنَّ
+    arabic: بِأَنَّ
     translation: because
     transliteration: bi-anna
   9:
@@ -47,31 +47,31 @@ word_by_word:
     translation: for them
     transliteration: lahumu
   10:
-    arabic: الۡجَــنَّةَ​ ؕ
+    arabic: ٱلۡجَنَّةَۚ
     translation: (is) Paradise
     transliteration: l-janata
   11:
-    arabic: يُقَاتِلُوۡنَ
+    arabic: يُقَٰتِلُونَ
     translation: They fight
     transliteration: yuqātilūna
   12:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   13:
-    arabic: سَبِيۡلِ
+    arabic: سَبِيلِ
     translation: (the) way
     transliteration: sabīli
   14:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (of) Allah
     transliteration: l-lahi
   15:
-    arabic: فَيَقۡتُلُوۡنَ
+    arabic: فَيَقۡتُلُونَ
     translation: they slay
     transliteration: fayaqtulūna
   16:
-    arabic: وَ يُقۡتَلُوۡنَ​
+    arabic: وَيُقۡتَلُونَۖ
     translation: and they are slain
     transliteration: wayuq'talūna
   17:
@@ -83,23 +83,23 @@ word_by_word:
     translation: upon Him
     transliteration: ʿalayhi
   19:
-    arabic: حَقًّا
+    arabic: حَقّٗا
     translation: 'true'
     transliteration: ḥaqqan
   20:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   21:
-    arabic: التَّوۡرٰٮةِ
+    arabic: ٱلتَّوۡرَىٰةِ
     translation: the Taurat
     transliteration: l-tawrāti
   22:
-    arabic: وَالۡاِنۡجِيۡلِ
+    arabic: وَٱلۡإِنجِيلِ
     translation: and the Injeel
     transliteration: wal-injīli
   23:
-    arabic: وَالۡقُرۡاٰنِ​ ؕ
+    arabic: وَٱلۡقُرۡءَانِۚ
     translation: and the Quran
     transliteration: wal-qur'āni
   24:
@@ -107,11 +107,11 @@ word_by_word:
     translation: And who
     transliteration: waman
   25:
-    arabic: اَوۡفٰى
+    arabic: أَوۡفَىٰ
     translation: (is) more faithful
     transliteration: awfā
   26:
-    arabic: بِعَهۡدِهٖ
+    arabic: بِعَهۡدِهِۦ
     translation: to his promise
     transliteration: biʿahdihi
   27:
@@ -119,11 +119,11 @@ word_by_word:
     translation: than
     transliteration: mina
   28:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِۚ
     translation: Allah
     transliteration: l-lahi
   29:
-    arabic: فَاسۡتَـبۡشِرُوۡا
+    arabic: فَٱسۡتَبۡشِرُواْ
     translation: So rejoice
     transliteration: fa-is'tabshirū
   30:
@@ -131,19 +131,19 @@ word_by_word:
     translation: in your transaction
     transliteration: bibayʿikumu
   31:
-    arabic: الَّذِىۡ
+    arabic: ٱلَّذِي
     translation: which
     transliteration: alladhī
   32:
-    arabic: بَايَعۡتُمۡ
+    arabic: بَايَعۡتُم
     translation: you have contracted
     transliteration: bāyaʿtum
   33:
-    arabic: بِهٖ​ ؕ
+    arabic: بِهِۦۚ
     translation: '[with it]'
     transliteration: bihi
   34:
-    arabic: وَذٰ لِكَ
+    arabic: وَذَٰلِكَ
     translation: And that
     transliteration: wadhālika
   35:
@@ -151,11 +151,11 @@ word_by_word:
     translation: it
     transliteration: huwa
   36:
-    arabic: الۡفَوۡزُ
+    arabic: ٱلۡفَوۡزُ
     translation: (is) the success
     transliteration: l-fawzu
   37:
-    arabic: الۡعَظِيۡمُ‏
+    arabic: ٱلۡعَظِيمُ
     translation: the great
     transliteration: l-ʿaẓīmu
 ---

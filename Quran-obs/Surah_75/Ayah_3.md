@@ -1,17 +1,17 @@
 ---
-arabic_ayat: اَيَحۡسَبُ الۡاِنۡسَانُ اَلَّنۡ نَّجۡمَعَ عِظَامَهٗؕ‏
+arabic_ayat: أَيَحۡسَبُ ٱلۡإِنسَٰنُ أَلَّن نَّجۡمَعَ عِظَامَهُۥ
 sentence_translation: Do people think We cannot reassemble their bones?
 word_by_word:
   1:
-    arabic: اَيَحۡسَبُ
+    arabic: أَيَحۡسَبُ
     translation: Does think
     transliteration: ayaḥsabu
   2:
-    arabic: الۡاِنۡسَانُ
+    arabic: ٱلۡإِنسَٰنُ
     translation: '[the] man'
     transliteration: l-insānu
   3:
-    arabic: اَلَّنۡ
+    arabic: أَلَّن
     translation: that not
     transliteration: allan
   4:
@@ -19,7 +19,7 @@ word_by_word:
     translation: We will assemble
     transliteration: najmaʿa
   5:
-    arabic: عِظَامَهٗؕ‏
+    arabic: عِظَامَهُۥ
     translation: his bones
     transliteration: ʿiẓāmahu
 ---

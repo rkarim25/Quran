@@ -1,27 +1,27 @@
 ---
-arabic_ayat: لَاَنۡتُمۡ اَشَدُّ رَهۡبَةً فِىۡ صُدُوۡرِهِمۡ مِّنَ اللّٰهِ​ؕ ذٰلِكَ
-  بِاَنَّهُمۡ قَوۡمٌ لَّا يَفۡقَهُوۡنَ‏
+arabic_ayat: لَأَنتُمۡ أَشَدُّ رَهۡبَةٗ فِي صُدُورِهِم مِّنَ ٱللَّهِۚ ذَٰلِكَ بِأَنَّهُمۡ
+  قَوۡمٞ لَّا يَفۡقَهُونَ
 sentence_translation: Indeed, there is more fear in their hearts for you ˹believers˺
   than for Allah. That is because they are a people who do not comprehend.
 word_by_word:
   1:
-    arabic: لَاَنۡتُمۡ
+    arabic: لَأَنتُمۡ
     translation: Certainly you
     transliteration: la-antum
   2:
-    arabic: اَشَدُّ
+    arabic: أَشَدُّ
     translation: (are) more intense
     transliteration: ashaddu
   3:
-    arabic: رَهۡبَةً
+    arabic: رَهۡبَةٗ
     translation: (in) fear
     transliteration: rahbatan
   4:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   5:
-    arabic: صُدُوۡرِهِمۡ
+    arabic: صُدُورِهِم
     translation: their breasts
     transliteration: ṣudūrihim
   6:
@@ -29,19 +29,19 @@ word_by_word:
     translation: than
     transliteration: mina
   7:
-    arabic: اللّٰهِ​ؕ
+    arabic: ٱللَّهِۚ
     translation: Allah
     transliteration: l-lahi
   8:
-    arabic: ذٰلِكَ
+    arabic: ذَٰلِكَ
     translation: That
     transliteration: dhālika
   9:
-    arabic: بِاَنَّهُمۡ
+    arabic: بِأَنَّهُمۡ
     translation: (is) because they
     transliteration: bi-annahum
   10:
-    arabic: قَوۡمٌ
+    arabic: قَوۡمٞ
     translation: (are) a people
     transliteration: qawmun
   11:
@@ -49,7 +49,7 @@ word_by_word:
     translation: (who do) not
     transliteration: lā
   12:
-    arabic: يَفۡقَهُوۡنَ‏
+    arabic: يَفۡقَهُونَ
     translation: understand
     transliteration: yafqahūna
 ---

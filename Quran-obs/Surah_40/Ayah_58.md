@@ -1,6 +1,6 @@
 ---
-arabic_ayat: وَمَا يَسۡتَوِى الۡاَعۡمٰى وَالۡبَصِيۡرُ ۙ وَالَّذِيۡنَ اٰمَنُوۡا وَ
-  عَمِلُوا الصّٰلِحٰتِ وَلَا الۡمُسِىۡٓءُ ؕ قَلِيۡلًا مَّا تَتَذَكَّرُوۡنَ‏
+arabic_ayat: وَمَا يَسۡتَوِي ٱلۡأَعۡمَىٰ وَٱلۡبَصِيرُ وَٱلَّذِينَ ءَامَنُواْ وَعَمِلُواْ
+  ٱلصَّٰلِحَٰتِ وَلَا ٱلۡمُسِيٓءُۚ قَلِيلٗا مَّا تَتَذَكَّرُونَ
 sentence_translation: Those blind ˹to the truth˺ and those who can see are not equal,
   nor are those who believe and do good ˹equal˺ to those who do evil. Yet you are
   hardly mindful.
@@ -10,31 +10,31 @@ word_by_word:
     translation: And not
     transliteration: wamā
   2:
-    arabic: يَسۡتَوِى
+    arabic: يَسۡتَوِي
     translation: (are) equal
     transliteration: yastawī
   3:
-    arabic: الۡاَعۡمٰى
+    arabic: ٱلۡأَعۡمَىٰ
     translation: the blind
     transliteration: l-aʿmā
   4:
-    arabic: وَالۡبَصِيۡرُ ۙ
+    arabic: وَٱلۡبَصِيرُ
     translation: and the seeing
     transliteration: wal-baṣīru
   5:
-    arabic: وَالَّذِيۡنَ
+    arabic: وَٱلَّذِينَ ءَ
     translation: and those who
     transliteration: wa-alladhīna
   6:
-    arabic: اٰمَنُوۡا
+    arabic: امَنُواْ
     translation: believe
     transliteration: āmanū
   7:
-    arabic: وَ عَمِلُوا
+    arabic: وَعَمِلُواْ
     translation: and do
     transliteration: waʿamilū
   8:
-    arabic: الصّٰلِحٰتِ
+    arabic: ٱلصَّٰلِحَٰتِ
     translation: righteous deeds
     transliteration: l-ṣāliḥāti
   9:
@@ -42,11 +42,11 @@ word_by_word:
     translation: and not
     transliteration: walā
   10:
-    arabic: الۡمُسِىۡٓءُ ؕ
+    arabic: ٱلۡمُسِيٓءُۚ
     translation: the evildoer
     transliteration: l-musīu
   11:
-    arabic: قَلِيۡلًا
+    arabic: قَلِيلٗا
     translation: Little
     transliteration: qalīlan
   12:
@@ -54,7 +54,7 @@ word_by_word:
     translation: (is) what
     transliteration: mā
   13:
-    arabic: تَتَذَكَّرُوۡنَ‏
+    arabic: تَتَذَكَّرُونَ
     translation: you take heed
     transliteration: tatadhakkarūna
 ---

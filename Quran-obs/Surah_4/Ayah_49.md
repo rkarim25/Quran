@@ -1,12 +1,12 @@
 ---
-arabic_ayat: اَلَمۡ تَرَ اِلَى الَّذِيۡنَ يُزَكُّوۡنَ اَنۡفُسَهُمۡ​ ؕ بَلِ اللّٰهُ
-  يُزَكِّىۡ مَنۡ يَّشَآءُ وَلَا يُظۡلَمُوۡنَ فَتِيۡلًا‏
+arabic_ayat: أَلَمۡ تَرَ إِلَى ٱلَّذِينَ يُزَكُّونَ أَنفُسَهُمۚ بَلِ ٱللَّهُ يُزَكِّي
+  مَن يَشَآءُ وَلَا يُظۡلَمُونَ فَتِيلًا
 sentence_translation: Have you ˹O Prophet˺ not seen those who ˹falsely˺ elevate themselves?
   It is Allah who elevates whoever He wills. And none will be wronged ˹even by the
   width of˺ the thread of a date stone.
 word_by_word:
   1:
-    arabic: اَلَمۡ
+    arabic: أَلَمۡ
     translation: Do not
     transliteration: alam
   2:
@@ -14,19 +14,19 @@ word_by_word:
     translation: you see
     transliteration: tara
   3:
-    arabic: اِلَى
+    arabic: إِلَى
     translation: '[towards]'
     transliteration: ilā
   4:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   5:
-    arabic: يُزَكُّوۡنَ
+    arabic: يُزَكُّونَ
     translation: claim purity
     transliteration: yuzakkūna
   6:
-    arabic: اَنۡفُسَهُمۡ​ ؕ
+    arabic: أَنفُسَهُمۚ
     translation: (for) themselves
     transliteration: anfusahum
   7:
@@ -34,19 +34,19 @@ word_by_word:
     translation: Nay
     transliteration: bali
   8:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: (it is) Allah
     transliteration: l-lahu
   9:
-    arabic: يُزَكِّىۡ
+    arabic: يُزَكِّي
     translation: He purifies
     transliteration: yuzakkī
   10:
-    arabic: مَنۡ
+    arabic: مَن
     translation: whom
     transliteration: man
   11:
-    arabic: يَّشَآءُ
+    arabic: يَشَآءُ
     translation: He wills
     transliteration: yashāu
   12:
@@ -54,11 +54,11 @@ word_by_word:
     translation: and not
     transliteration: walā
   13:
-    arabic: يُظۡلَمُوۡنَ
+    arabic: يُظۡلَمُونَ
     translation: they will be wronged
     transliteration: yuẓ'lamūna
   14:
-    arabic: فَتِيۡلًا‏
+    arabic: فَتِيلًا
     translation: (even as much as) a hair on a date-seed
     transliteration: fatīlan
 ---

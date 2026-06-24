@@ -1,15 +1,15 @@
 ---
-arabic_ayat: اِنَّ رَبَّكُمُ اللّٰهُ الَّذِىۡ خَلَقَ السَّمٰوٰتِ وَالۡاَرۡضَ فِىۡ
-  سِتَّةِ اَيَّامٍ ثُمَّ اسۡتَوٰى عَلَى الۡعَرۡشِ​ يُدَبِّرُ الۡاَمۡرَ​ؕ مَا مِنۡ
-  شَفِيۡعٍ اِلَّا مِنۡۢ بَعۡدِ اِذۡنِهٖ​ ؕ ذٰ لِكُمُ اللّٰهُ رَبُّكُمۡ فَاعۡبُدُوۡهُ​
-  ؕ اَفَلَا تَذَكَّرُوۡنَ‏
+arabic_ayat: إِنَّ رَبَّكُمُ ٱللَّهُ ٱلَّذِي خَلَقَ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضَ فِي
+  سِتَّةِ أَيَّامٖ ثُمَّ ٱسۡتَوَىٰ عَلَى ٱلۡعَرۡشِۖ يُدَبِّرُ ٱلۡأَمۡرَۖ مَا مِن شَفِيعٍ
+  إِلَّا مِنۢ بَعۡدِ إِذۡنِهِۦۚ ذَٰلِكُمُ ٱللَّهُ رَبُّكُمۡ فَٱعۡبُدُوهُۚ أَفَلَا
+  تَذَكَّرُونَ
 sentence_translation: Surely your Lord is Allah Who created the heavens and the earth
   in six Days, then established Himself on the Throne, conducting every affair. None
   can intercede except by His permission. That is Allah—your Lord, so worship Him
   ˹alone˺. Will you not then be mindful?
 word_by_word:
   1:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   2:
@@ -17,11 +17,11 @@ word_by_word:
     translation: your Lord
     transliteration: rabbakumu
   3:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: (is) Allah
     transliteration: l-lahu
   4:
-    arabic: الَّذِىۡ
+    arabic: ٱلَّذِي
     translation: the One Who
     transliteration: alladhī
   5:
@@ -29,15 +29,15 @@ word_by_word:
     translation: created
     transliteration: khalaqa
   6:
-    arabic: السَّمٰوٰتِ
+    arabic: ٱلسَّمَٰوَٰتِ
     translation: the heavens
     transliteration: l-samāwāti
   7:
-    arabic: وَالۡاَرۡضَ
+    arabic: وَٱلۡأَرۡضَ
     translation: and the earth
     transliteration: wal-arḍa
   8:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   9:
@@ -45,7 +45,7 @@ word_by_word:
     translation: six
     transliteration: sittati
   10:
-    arabic: اَيَّامٍ
+    arabic: أَيَّامٖ
     translation: periods
     transliteration: ayyāmin
   11:
@@ -53,7 +53,7 @@ word_by_word:
     translation: then
     transliteration: thumma
   12:
-    arabic: اسۡتَوٰى
+    arabic: ٱسۡتَوَىٰ
     translation: He established
     transliteration: is'tawā
   13:
@@ -61,7 +61,7 @@ word_by_word:
     translation: 'on'
     transliteration: ʿalā
   14:
-    arabic: الۡعَرۡشِ​
+    arabic: ٱلۡعَرۡشِۖ
     translation: the Throne
     transliteration: l-ʿarshi
   15:
@@ -69,7 +69,7 @@ word_by_word:
     translation: disposing
     transliteration: yudabbiru
   16:
-    arabic: الۡاَمۡرَ​ؕ
+    arabic: ٱلۡأَمۡرَۖ
     translation: the affairs
     transliteration: l-amra
   17:
@@ -77,19 +77,19 @@ word_by_word:
     translation: Not
     transliteration: mā
   18:
-    arabic: مِنۡ
+    arabic: مِن
     translation: (is) any intercessor
     transliteration: min
   19:
-    arabic: شَفِيۡعٍ
+    arabic: شَفِيعٍ
     translation: (is) any intercessor
     transliteration: shafīʿin
   20:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   21:
-    arabic: مِنۡۢ
+    arabic: مِنۢ
     translation: after
     transliteration: min
   22:
@@ -97,15 +97,15 @@ word_by_word:
     translation: after
     transliteration: baʿdi
   23:
-    arabic: اِذۡنِهٖ​ ؕ
+    arabic: إِذۡنِهِۦۚ
     translation: His permission
     transliteration: idh'nihi
   24:
-    arabic: ذٰ لِكُمُ
+    arabic: ذَٰلِكُمُ
     translation: That
     transliteration: dhālikumu
   25:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: (is) Allah
     transliteration: l-lahu
   26:
@@ -113,15 +113,15 @@ word_by_word:
     translation: your Lord
     transliteration: rabbukum
   27:
-    arabic: فَاعۡبُدُوۡهُ​ ؕ
+    arabic: فَٱعۡبُدُوهُۚ
     translation: so worship Him
     transliteration: fa-uʿ'budūhu
   28:
-    arabic: اَفَلَا
+    arabic: أَفَلَا
     translation: Then will not
     transliteration: afalā
   29:
-    arabic: تَذَكَّرُوۡنَ‏
+    arabic: تَذَكَّرُونَ
     translation: you remember
     transliteration: tadhakkarūna
 ---

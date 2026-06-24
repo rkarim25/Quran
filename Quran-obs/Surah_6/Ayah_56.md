@@ -1,7 +1,6 @@
 ---
-arabic_ayat: "قُلۡ اِنِّىۡ نُهِيۡتُ اَنۡ اَعۡبُدَ الَّذِيۡنَ تَدۡعُوۡنَ مِنۡ دُوۡنِ\
-  \ اللّٰهِ​ؕ قُلْ لَّاۤ اَ تَّبِعُ اَهۡوَآءَكُمۡ​ۙ قَدۡ ضَلَلۡتُ اِذًا وَّمَاۤ اَنَا\
-  \ مِنَ الۡمُهۡتَدِيۡنَ‏ \uFEFF\uFEFF"
+arabic_ayat: قُلۡ إِنِّي نُهِيتُ أَنۡ أَعۡبُدَ ٱلَّذِينَ تَدۡعُونَ مِن دُونِ ٱللَّهِۚ
+  قُل لَّآ أَتَّبِعُ أَهۡوَآءَكُمۡ قَدۡ ضَلَلۡتُ إِذٗا وَمَآ أَنَا۠ مِنَ ٱلۡمُهۡتَدِينَ
 sentence_translation: Say, ˹O Prophet,˺ “I have been forbidden to worship those you
   invoke besides Allah.” Say, “I will not follow your desires, for I then would certainly
   be astray and not one of those ˹rightly˺ guided.”
@@ -11,55 +10,55 @@ word_by_word:
     translation: Say
     transliteration: qul
   2:
-    arabic: اِنِّىۡ
+    arabic: إِنِّي
     translation: Indeed I
     transliteration: innī
   3:
-    arabic: نُهِيۡتُ
+    arabic: نُهِيتُ
     translation: '[I] am forbidden'
     transliteration: nuhītu
   4:
-    arabic: اَنۡ
+    arabic: أَنۡ
     translation: that
     transliteration: an
   5:
-    arabic: اَعۡبُدَ
+    arabic: أَعۡبُدَ
     translation: I worship
     transliteration: aʿbuda
   6:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those whom
     transliteration: alladhīna
   7:
-    arabic: تَدۡعُوۡنَ
+    arabic: تَدۡعُونَ
     translation: you call
     transliteration: tadʿūna
   8:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   9:
-    arabic: دُوۡنِ
+    arabic: دُونِ
     translation: besides
     transliteration: dūni
   10:
-    arabic: اللّٰهِ​ؕ
+    arabic: ٱللَّهِۚ
     translation: Allah
     transliteration: l-lahi
   11:
-    arabic: قُلْ
+    arabic: قُل
     translation: Say
     transliteration: qul
   12:
-    arabic: لَّاۤ
+    arabic: لَّآ
     translation: Not
     transliteration: lā
   13:
-    arabic: اَ تَّبِعُ
+    arabic: أَتَّبِعُ
     translation: I follow
     transliteration: attabiʿu
   14:
-    arabic: اَهۡوَآءَكُمۡ​ۙ
+    arabic: أَهۡوَآءَكُمۡ
     translation: your (vain) desires
     transliteration: ahwāakum
   15:
@@ -71,15 +70,15 @@ word_by_word:
     translation: I would go astray
     transliteration: ḍalaltu
   17:
-    arabic: اِذًا
+    arabic: إِذٗا
     translation: then
     transliteration: idhan
   18:
-    arabic: وَّمَاۤ
+    arabic: وَمَآ
     translation: and not
     transliteration: wamā
   19:
-    arabic: اَنَا
+    arabic: أَنَا۠
     translation: I (would be)
     transliteration: anā
   20:
@@ -87,7 +86,7 @@ word_by_word:
     translation: from
     transliteration: mina
   21:
-    arabic: "الۡمُهۡتَدِيۡنَ‏ \uFEFF\uFEFF"
+    arabic: ٱلۡمُهۡتَدِينَ
     translation: the guided-ones
     transliteration: l-muh'tadīna
 ---

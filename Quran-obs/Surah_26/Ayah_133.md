@@ -1,17 +1,17 @@
 ---
-arabic_ayat: اَمَدَّكُمۡ بِاَنۡعَامٍ وَّبَنِيۡنَ ​ۚۙ‏
+arabic_ayat: أَمَدَّكُم بِأَنۡعَٰمٖ وَبَنِينَ
 sentence_translation: He provided you with cattle, and children,
 word_by_word:
   1:
-    arabic: اَمَدَّكُمۡ
+    arabic: أَمَدَّكُم
     translation: He has aided you
     transliteration: amaddakum
   2:
-    arabic: بِاَنۡعَامٍ
+    arabic: بِأَنۡعَٰمٖ
     translation: with cattle
     transliteration: bi-anʿāmin
   3:
-    arabic: وَّبَنِيۡنَ ​ۚۙ‏
+    arabic: وَبَنِينَ
     translation: and children
     transliteration: wabanīna
 ---

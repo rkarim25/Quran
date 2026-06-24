@@ -1,15 +1,14 @@
 ---
-arabic_ayat: وَالَّذِيۡنَ يُتَوَفَّوۡنَ مِنۡکُمۡ وَيَذَرُوۡنَ اَزۡوَاجًا  ۖۚ وَّصِيَّةً
-  لِّاَزۡوَاجِهِمۡ مَّتَاعًا اِلَى الۡحَـوۡلِ غَيۡرَ اِخۡرَاجٍ​​ ۚ فَاِنۡ خَرَجۡنَ
-  فَلَا جُنَاحَ عَلَيۡکُمۡ فِىۡ مَا فَعَلۡنَ فِىۡٓ اَنۡفُسِهِنَّ مِنۡ مَّعۡرُوۡفٍؕ
-  وَاللّٰهُ عَزِيۡزٌ حَکِيۡمٌ‏
+arabic_ayat: وَٱلَّذِينَ يُتَوَفَّوۡنَ مِنكُمۡ وَيَذَرُونَ أَزۡوَٰجٗا وَصِيَّةٗ لِّأَزۡوَٰجِهِم
+  مَّتَٰعًا إِلَى ٱلۡحَوۡلِ غَيۡرَ إِخۡرَاجٖۚ فَإِنۡ خَرَجۡنَ فَلَا جُنَاحَ عَلَيۡكُمۡ
+  فِي مَا فَعَلۡنَ فِيٓ أَنفُسِهِنَّ مِن مَّعۡرُوفٖۗ وَٱللَّهُ عَزِيزٌ حَكِيمٞ
 sentence_translation: Those of you who die leaving widows should bequeath for them
   a year’s maintenance without forcing them out. But if they choose to leave, you
   are not accountable for what they reasonably decide for themselves. And Allah is
   Almighty, All-Wise.
 word_by_word:
   1:
-    arabic: وَالَّذِيۡنَ
+    arabic: وَٱلَّذِينَ
     translation: And those who
     transliteration: wa-alladhīna
   2:
@@ -17,35 +16,35 @@ word_by_word:
     translation: die
     transliteration: yutawaffawna
   3:
-    arabic: مِنۡکُمۡ
+    arabic: مِنكُمۡ
     translation: among you
     transliteration: minkum
   4:
-    arabic: وَيَذَرُوۡنَ
+    arabic: وَيَذَرُونَ
     translation: and leave behind
     transliteration: wayadharūna
   5:
-    arabic: اَزۡوَاجًا  ۖۚ
+    arabic: أَزۡوَٰجٗا
     translation: (their) wives
     transliteration: azwājan
   6:
-    arabic: وَّصِيَّةً
+    arabic: وَصِيَّةٗ
     translation: (should make) a will
     transliteration: waṣiyyatan
   7:
-    arabic: لِّاَزۡوَاجِهِمۡ
+    arabic: لِّأَزۡوَٰجِهِم
     translation: for their wives
     transliteration: li-azwājihim
   8:
-    arabic: مَّتَاعًا
+    arabic: مَّتَٰعًا
     translation: provision
     transliteration: matāʿan
   9:
-    arabic: اِلَى
+    arabic: إِلَى
     translation: for
     transliteration: ilā
   10:
-    arabic: الۡحَـوۡلِ
+    arabic: ٱلۡحَوۡلِ
     translation: the year
     transliteration: l-ḥawli
   11:
@@ -53,11 +52,11 @@ word_by_word:
     translation: without
     transliteration: ghayra
   12:
-    arabic: اِخۡرَاجٍ​​ ۚ
+    arabic: إِخۡرَاجٖۚ
     translation: driving (them) out
     transliteration: ikh'rājin
   13:
-    arabic: فَاِنۡ
+    arabic: فَإِنۡ
     translation: But if
     transliteration: fa-in
   14:
@@ -73,11 +72,11 @@ word_by_word:
     translation: blame
     transliteration: junāḥa
   17:
-    arabic: عَلَيۡکُمۡ
+    arabic: عَلَيۡكُمۡ
     translation: upon you
     transliteration: ʿalaykum
   18:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   19:
@@ -89,31 +88,31 @@ word_by_word:
     translation: they do
     transliteration: faʿalna
   21:
-    arabic: فِىۡٓ
+    arabic: فِيٓ
     translation: concerning
     transliteration: fī
   22:
-    arabic: اَنۡفُسِهِنَّ
+    arabic: أَنفُسِهِنَّ
     translation: themselves
     transliteration: anfusihinna
   23:
-    arabic: مِنۡ
+    arabic: مِن
     translation: '[of]'
     transliteration: min
   24:
-    arabic: مَّعۡرُوۡفٍؕ
+    arabic: مَّعۡرُوفٖۗ
     translation: honorably
     transliteration: maʿrūfin
   25:
-    arabic: وَاللّٰهُ
+    arabic: وَٱللَّهُ
     translation: And Allah
     transliteration: wal-lahu
   26:
-    arabic: عَزِيۡزٌ
+    arabic: عَزِيزٌ
     translation: (is) All-Mighty
     transliteration: ʿazīzun
   27:
-    arabic: حَکِيۡمٌ‏
+    arabic: حَكِيمٞ
     translation: All-Wise
     transliteration: ḥakīmun
 ---

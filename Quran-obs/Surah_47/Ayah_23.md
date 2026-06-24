@@ -1,15 +1,14 @@
 ---
-arabic_ayat: "اُولٰٓٮِٕكَ الَّذِيۡنَ لَعَنَهُمُ اللّٰهُ فَاَصَمَّهُمۡ وَاَعۡمٰٓى اَبۡصَارَهُمۡ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: أُوْلَٰٓئِكَ ٱلَّذِينَ لَعَنَهُمُ ٱللَّهُ فَأَصَمَّهُمۡ وَأَعۡمَىٰٓ أَبۡصَٰرَهُمۡ
 sentence_translation: These are the ones who Allah has condemned, deafening them and
   blinding their eyes.
 word_by_word:
   1:
-    arabic: اُولٰٓٮِٕكَ
+    arabic: أُوْلَٰٓئِكَ
     translation: Those
     transliteration: ulāika
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: (are) the ones
     transliteration: alladhīna
   3:
@@ -17,19 +16,19 @@ word_by_word:
     translation: Allah has cursed them
     transliteration: laʿanahumu
   4:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah has cursed them
     transliteration: l-lahu
   5:
-    arabic: فَاَصَمَّهُمۡ
+    arabic: فَأَصَمَّهُمۡ
     translation: so He made them deaf
     transliteration: fa-aṣammahum
   6:
-    arabic: وَاَعۡمٰٓى
+    arabic: وَأَعۡمَىٰٓ
     translation: and blinded
     transliteration: wa-aʿmā
   7:
-    arabic: "اَبۡصَارَهُمۡ‏ \uFEFF\uFEFF"
+    arabic: أَبۡصَٰرَهُمۡ
     translation: their vision
     transliteration: abṣārahum
 ---

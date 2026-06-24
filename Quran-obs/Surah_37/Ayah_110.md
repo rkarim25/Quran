@@ -1,17 +1,17 @@
 ---
-arabic_ayat: كَذٰلِكَ نَجۡزِى الۡمُحۡسِنِيۡنَ‏
+arabic_ayat: كَذَٰلِكَ نَجۡزِي ٱلۡمُحۡسِنِينَ
 sentence_translation: This is how We reward the good-doers.
 word_by_word:
   1:
-    arabic: كَذٰلِكَ
+    arabic: كَذَٰلِكَ
     translation: Thus
     transliteration: kadhālika
   2:
-    arabic: نَجۡزِى
+    arabic: نَجۡزِي
     translation: We reward
     transliteration: najzī
   3:
-    arabic: الۡمُحۡسِنِيۡنَ‏
+    arabic: ٱلۡمُحۡسِنِينَ
     translation: the good-doers
     transliteration: l-muḥ'sinīna
 ---

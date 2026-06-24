@@ -1,7 +1,6 @@
 ---
-arabic_ayat: فَلَمَّا رَاَوۡهُ عَارِضًا مُّسۡتَقۡبِلَ اَوۡدِيَتِهِمۡ ۙ قَالُوۡا هٰذَا
-  عَارِضٌ مُّمۡطِرُنَا​ ؕ بَلۡ هُوَ مَا اسۡتَعۡجَلۡتُمۡ بِهٖ ​ۚ رِيۡحٌ فِيۡهَا عَذَابٌ
-  اَ لِيۡمٌۙ‏
+arabic_ayat: فَلَمَّا رَأَوۡهُ عَارِضٗا مُّسۡتَقۡبِلَ أَوۡدِيَتِهِمۡ قَالُواْ هَٰذَا
+  عَارِضٞ مُّمۡطِرُنَاۚ بَلۡ هُوَ مَا ٱسۡتَعۡجَلۡتُم بِهِۦۖ رِيحٞ فِيهَا عَذَابٌ أَلِيمٞ
 sentence_translation: 'Then when they saw the torment as a ˹dense˺ cloud approaching
   their valleys, they said ˹happily˺, “This is a cloud bringing us rain.” ˹But Hûd
   replied,˺ “No, it is what you sought to hasten: a ˹fierce˺ wind carrying a painful
@@ -12,11 +11,11 @@ word_by_word:
     translation: Then when
     transliteration: falammā
   2:
-    arabic: رَاَوۡهُ
+    arabic: رَأَوۡهُ
     translation: they saw it
     transliteration: ra-awhu
   3:
-    arabic: عَارِضًا
+    arabic: عَارِضٗا
     translation: (as) a cloud
     transliteration: ʿāriḍan
   4:
@@ -24,23 +23,23 @@ word_by_word:
     translation: approaching
     transliteration: mus'taqbila
   5:
-    arabic: اَوۡدِيَتِهِمۡ ۙ
+    arabic: أَوۡدِيَتِهِمۡ
     translation: their valleys
     transliteration: awdiyatihim
   6:
-    arabic: قَالُوۡا
+    arabic: قَالُواْ
     translation: they said
     transliteration: qālū
   7:
-    arabic: هٰذَا
+    arabic: هَٰذَا
     translation: This
     transliteration: hādhā
   8:
-    arabic: عَارِضٌ
+    arabic: عَارِضٞ
     translation: (is) a cloud
     transliteration: ʿāriḍun
   9:
-    arabic: مُّمۡطِرُنَا​ ؕ
+    arabic: مُّمۡطِرُنَاۚ
     translation: bringing us rain
     transliteration: mum'ṭirunā
   10:
@@ -56,19 +55,19 @@ word_by_word:
     translation: (is) what
     transliteration: mā
   13:
-    arabic: اسۡتَعۡجَلۡتُمۡ
+    arabic: ٱسۡتَعۡجَلۡتُم
     translation: you were asking it to be hastened
     transliteration: is'taʿjaltum
   14:
-    arabic: بِهٖ ​ۚ
+    arabic: بِهِۦۖ
     translation: you were asking it to be hastened
     transliteration: bihi
   15:
-    arabic: رِيۡحٌ
+    arabic: رِيحٞ
     translation: a wind
     transliteration: rīḥun
   16:
-    arabic: فِيۡهَا
+    arabic: فِيهَا
     translation: in it
     transliteration: fīhā
   17:
@@ -76,7 +75,7 @@ word_by_word:
     translation: (is) a punishment
     transliteration: ʿadhābun
   18:
-    arabic: اَ لِيۡمٌۙ‏
+    arabic: أَلِيمٞ
     translation: painful
     transliteration: alīmun
 ---

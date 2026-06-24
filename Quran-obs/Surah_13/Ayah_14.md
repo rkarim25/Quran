@@ -1,14 +1,14 @@
 ---
-arabic_ayat: لَهٗ دَعۡوَةُ الۡحَـقِّ​ؕ وَالَّذِيۡنَ يَدۡعُوۡنَ مِنۡ دُوۡنِهٖ لَا يَسۡتَجِيۡبُوۡنَ
-  لَهُمۡ بِشَىۡءٍ اِلَّا كَبَاسِطِ كَفَّيۡهِ اِلَى الۡمَآءِ لِيَبۡلُغَ فَاهُ وَمَا
-  هُوَ بِبَالِـغِهٖ​ؕ وَمَا دُعَآءُ الۡكٰفِرِيۡنَ اِلَّا فِىۡ ضَلٰلٍ‏
+arabic_ayat: لَهُۥ دَعۡوَةُ ٱلۡحَقِّۚ وَٱلَّذِينَ يَدۡعُونَ مِن دُونِهِۦ لَا يَسۡتَجِيبُونَ
+  لَهُم بِشَيۡءٍ إِلَّا كَبَٰسِطِ كَفَّيۡهِ إِلَى ٱلۡمَآءِ لِيَبۡلُغَ فَاهُ وَمَا
+  هُوَ بِبَٰلِغِهِۦۚ وَمَا دُعَآءُ ٱلۡكَٰفِرِينَ إِلَّا فِي ضَلَٰلٖ
 sentence_translation: Calling upon Him ˹alone˺ is the truth. But those ˹idols˺ the
   pagans invoke besides Him ˹can˺ never respond to them in any way. ˹It is˺ just like
   someone who stretches out their hands to water, ˹asking it˺ to reach their mouths,
   but it can never do so. The calls of the disbelievers are only in vain.
 word_by_word:
   1:
-    arabic: لَهٗ
+    arabic: لَهُۥ
     translation: To Him
     transliteration: lahu
   2:
@@ -16,23 +16,23 @@ word_by_word:
     translation: (is) supplication
     transliteration: daʿwatu
   3:
-    arabic: الۡحَـقِّ​ؕ
+    arabic: ٱلۡحَقِّۚ
     translation: (of) the truth
     transliteration: l-ḥaqi
   4:
-    arabic: وَالَّذِيۡنَ
+    arabic: وَٱلَّذِينَ
     translation: And those whom
     transliteration: wa-alladhīna
   5:
-    arabic: يَدۡعُوۡنَ
+    arabic: يَدۡعُونَ
     translation: they invoke
     transliteration: yadʿūna
   6:
-    arabic: مِنۡ
+    arabic: مِن
     translation: besides Him
     transliteration: min
   7:
-    arabic: دُوۡنِهٖ
+    arabic: دُونِهِۦ
     translation: besides Him
     transliteration: dūnihi
   8:
@@ -40,23 +40,23 @@ word_by_word:
     translation: not
     transliteration: lā
   9:
-    arabic: يَسۡتَجِيۡبُوۡنَ
+    arabic: يَسۡتَجِيبُونَ
     translation: they respond
     transliteration: yastajībūna
   10:
-    arabic: لَهُمۡ
+    arabic: لَهُم
     translation: to them
     transliteration: lahum
   11:
-    arabic: بِشَىۡءٍ
+    arabic: بِشَيۡءٍ
     translation: with a thing
     transliteration: bishayin
   12:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   13:
-    arabic: كَبَاسِطِ
+    arabic: كَبَٰسِطِ
     translation: like one who stretches
     transliteration: kabāsiṭi
   14:
@@ -64,11 +64,11 @@ word_by_word:
     translation: his hands
     transliteration: kaffayhi
   15:
-    arabic: اِلَى
+    arabic: إِلَى
     translation: towards
     transliteration: ilā
   16:
-    arabic: الۡمَآءِ
+    arabic: ٱلۡمَآءِ
     translation: water
     transliteration: l-māi
   17:
@@ -88,7 +88,7 @@ word_by_word:
     translation: it
     transliteration: huwa
   21:
-    arabic: بِبَالِـغِهٖ​ؕ
+    arabic: بِبَٰلِغِهِۦۚ
     translation: reaches it
     transliteration: bibālighihi
   22:
@@ -100,19 +100,19 @@ word_by_word:
     translation: (is) the supplication
     transliteration: duʿāu
   24:
-    arabic: الۡكٰفِرِيۡنَ
+    arabic: ٱلۡكَٰفِرِينَ
     translation: (of) the disbelievers
     transliteration: l-kāfirīna
   25:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: but
     transliteration: illā
   26:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   27:
-    arabic: ضَلٰلٍ‏
+    arabic: ضَلَٰلٖ
     translation: error
     transliteration: ḍalālin
 ---

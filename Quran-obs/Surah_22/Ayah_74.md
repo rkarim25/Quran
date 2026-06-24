@@ -1,5 +1,5 @@
 ---
-arabic_ayat: مَا قَدَرُوا اللّٰهَ حَقَّ قَدۡرِهٖؕ اِنَّ اللّٰهَ لَقَوِىٌّ عَزِيۡزٌ‏
+arabic_ayat: مَا قَدَرُواْ ٱللَّهَ حَقَّ قَدۡرِهِۦٓۚ إِنَّ ٱللَّهَ لَقَوِيٌّ عَزِيزٌ
 sentence_translation: They have not shown Allah the reverence He deserves. Surely
   Allah is All-Powerful, Almighty.
 word_by_word:
@@ -8,11 +8,11 @@ word_by_word:
     translation: Not
     transliteration: mā
   2:
-    arabic: قَدَرُوا
+    arabic: قَدَرُواْ
     translation: they (have) estimated
     transliteration: qadarū
   3:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   4:
@@ -20,23 +20,23 @@ word_by_word:
     translation: (with) due
     transliteration: ḥaqqa
   5:
-    arabic: قَدۡرِهٖؕ
+    arabic: قَدۡرِهِۦٓۚ
     translation: '[His] estimation'
     transliteration: qadrihi
   6:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   7:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   8:
-    arabic: لَقَوِىٌّ
+    arabic: لَقَوِيٌّ
     translation: (is) surely All-Strong
     transliteration: laqawiyyun
   9:
-    arabic: عَزِيۡزٌ‏
+    arabic: عَزِيزٌ
     translation: All-Mighty
     transliteration: ʿazīzun
 ---

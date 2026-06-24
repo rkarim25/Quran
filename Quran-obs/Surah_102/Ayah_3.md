@@ -1,9 +1,9 @@
 ---
-arabic_ayat: كَلَّا سَوۡفَ تَعۡلَمُوۡنَۙ‏
+arabic_ayat: كـَلَّا سَوۡفَ تَعۡلَمُونَ
 sentence_translation: But no! You will soon come to know.
 word_by_word:
   1:
-    arabic: كَلَّا
+    arabic: كـَلَّا
     translation: Nay
     transliteration: kallā
   2:
@@ -11,7 +11,7 @@ word_by_word:
     translation: Soon
     transliteration: sawfa
   3:
-    arabic: تَعۡلَمُوۡنَۙ‏
+    arabic: تَعۡلَمُونَ
     translation: you will know
     transliteration: taʿlamūna
 ---

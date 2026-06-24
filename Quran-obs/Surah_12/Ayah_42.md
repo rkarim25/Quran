@@ -1,7 +1,6 @@
 ---
-arabic_ayat: "وَقَالَ لِلَّذِىۡ ظَنَّ اَنَّهٗ نَاجٍ مِّنۡهُمَا اذۡكُرۡنِىۡ عِنۡدَ\
-  \ رَبِّكَ فَاَنۡسٰٮهُ الشَّيۡطٰنُ ذِكۡرَ رَبِّهٖ فَلَبِثَ فِى السِّجۡنِ بِضۡعَ\
-  \ سِنِيۡنَ‏ \uFEFF\uFEFF"
+arabic_ayat: وَقَالَ لِلَّذِي ظَنَّ أَنَّهُۥ نَاجٖ مِّنۡهُمَا ٱذۡكُرۡنِي عِندَ رَبِّكَ
+  فَأَنسَىٰهُ ٱلشَّيۡطَٰنُ ذِكۡرَ رَبِّهِۦ فَلَبِثَ فِي ٱلسِّجۡنِ بِضۡعَ سِنِينَ
 sentence_translation: Then he said to the one he knew would survive, “Mention me in
   the presence of your master.” But Satan made him forget to mention Joseph to his
   master, so he remained in prison for several years.
@@ -11,7 +10,7 @@ word_by_word:
     translation: And he said
     transliteration: waqāla
   2:
-    arabic: لِلَّذِىۡ
+    arabic: لِلَّذِي
     translation: to the one whom
     transliteration: lilladhī
   3:
@@ -19,11 +18,11 @@ word_by_word:
     translation: he thought
     transliteration: ẓanna
   4:
-    arabic: اَنَّهٗ
+    arabic: أَنَّهُۥ
     translation: that he
     transliteration: annahu
   5:
-    arabic: نَاجٍ
+    arabic: نَاجٖ
     translation: (would be) saved
     transliteration: nājin
   6:
@@ -31,23 +30,23 @@ word_by_word:
     translation: of both of them
     transliteration: min'humā
   7:
-    arabic: اذۡكُرۡنِىۡ
+    arabic: ٱذۡكُرۡنِي
     translation: Mention me
     transliteration: udh'kur'nī
   8:
-    arabic: عِنۡدَ
+    arabic: عِندَ
     translation: to
     transliteration: ʿinda
   9:
-    arabic: رَبِّكَ
+    arabic: رَبِّكَ
     translation: your master
     transliteration: rabbika
   10:
-    arabic: فَاَنۡسٰٮهُ
+    arabic: فَأَنسَىٰهُ
     translation: But made him forget
     transliteration: fa-ansāhu
   11:
-    arabic: الشَّيۡطٰنُ
+    arabic: ٱلشَّيۡطَٰنُ
     translation: the Shaitaan
     transliteration: l-shayṭānu
   12:
@@ -55,7 +54,7 @@ word_by_word:
     translation: (the) mention
     transliteration: dhik'ra
   13:
-    arabic: رَبِّهٖ
+    arabic: رَبِّهِۦ
     translation: (to) his master
     transliteration: rabbihi
   14:
@@ -63,11 +62,11 @@ word_by_word:
     translation: so he remained
     transliteration: falabitha
   15:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   16:
-    arabic: السِّجۡنِ
+    arabic: ٱلسِّجۡنِ
     translation: the prison
     transliteration: l-sij'ni
   17:
@@ -75,7 +74,7 @@ word_by_word:
     translation: several
     transliteration: biḍ'ʿa
   18:
-    arabic: "سِنِيۡنَ‏ \uFEFF\uFEFF"
+    arabic: سِنِينَ
     translation: years
     transliteration: sinīna
 ---

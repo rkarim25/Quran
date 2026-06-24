@@ -1,17 +1,17 @@
 ---
-arabic_ayat: اَ لۡحَمۡدُ لِلّٰهِ فَاطِرِ السَّمٰوٰتِ وَالۡاَرۡضِ جَاعِلِ الۡمَلٰٓٮِٕكَةِ
-  رُسُلًا اُولِىۡۤ اَجۡنِحَةٍ مَّثۡنٰى وَثُلٰثَ وَرُبٰعَ ؕ يَزِيۡدُ فِى الۡخَـلۡقِ
-  مَا يَشَآءُ ؕ اِنَّ اللّٰهَ عَلٰى كُلِّ شَىۡءٍ قَدِيۡرٌ‏
+arabic_ayat: ٱلۡحَمۡدُ لِلَّهِ فَاطِرِ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِ جَاعِلِ ٱلۡمَلَٰٓئِكَةِ
+  رُسُلًا أُوْلِيٓ أَجۡنِحَةٖ مَّثۡنَىٰ وَثُلَٰثَ وَرُبَٰعَۚ يَزِيدُ فِي ٱلۡخَلۡقِ
+  مَا يَشَآءُۚ إِنَّ ٱللَّهَ عَلَىٰ كُلِّ شَيۡءٖ قَدِيرٞ
 sentence_translation: All praise is for Allah, the Originator of the heavens and the
   earth, Who made angels ˹as His˺ messengers with wings—two, three, or four. He increases
   in creation whatever He wills. Surely Allah is Most Capable of everything.
 word_by_word:
   1:
-    arabic: اَ لۡحَمۡدُ
+    arabic: ٱلۡحَمۡدُ
     translation: All praises
     transliteration: al-ḥamdu
   2:
-    arabic: لِلّٰهِ
+    arabic: لِلَّهِ
     translation: (be) to Allah
     transliteration: lillahi
   3:
@@ -19,11 +19,11 @@ word_by_word:
     translation: Originator
     transliteration: fāṭiri
   4:
-    arabic: السَّمٰوٰتِ
+    arabic: ٱلسَّمَٰوَٰتِ
     translation: (of) the heavens
     transliteration: l-samāwāti
   5:
-    arabic: وَالۡاَرۡضِ
+    arabic: وَٱلۡأَرۡضِ
     translation: and the earth
     transliteration: wal-arḍi
   6:
@@ -31,7 +31,7 @@ word_by_word:
     translation: (Who) makes
     transliteration: jāʿili
   7:
-    arabic: الۡمَلٰٓٮِٕكَةِ
+    arabic: ٱلۡمَلَٰٓئِكَةِ
     translation: the Angels
     transliteration: l-malāikati
   8:
@@ -39,35 +39,35 @@ word_by_word:
     translation: messengers
     transliteration: rusulan
   9:
-    arabic: اُولِىۡۤ
+    arabic: أُوْلِيٓ
     translation: having wings
     transliteration: ulī
   10:
-    arabic: اَجۡنِحَةٍ
+    arabic: أَجۡنِحَةٖ
     translation: having wings
     transliteration: ajniḥatin
   11:
-    arabic: مَّثۡنٰى
+    arabic: مَّثۡنَىٰ
     translation: two
     transliteration: mathnā
   12:
-    arabic: وَثُلٰثَ
+    arabic: وَثُلَٰثَ
     translation: or three
     transliteration: wathulātha
   13:
-    arabic: وَرُبٰعَ ؕ
+    arabic: وَرُبَٰعَۚ
     translation: or four
     transliteration: warubāʿa
   14:
-    arabic: يَزِيۡدُ
+    arabic: يَزِيدُ
     translation: He increases
     transliteration: yazīdu
   15:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   16:
-    arabic: الۡخَـلۡقِ
+    arabic: ٱلۡخَلۡقِ
     translation: the creation
     transliteration: l-khalqi
   17:
@@ -75,19 +75,19 @@ word_by_word:
     translation: what
     transliteration: mā
   18:
-    arabic: يَشَآءُ ؕ
+    arabic: يَشَآءُۚ
     translation: He wills
     transliteration: yashāu
   19:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   20:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   21:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: (is) on
     transliteration: ʿalā
   22:
@@ -95,11 +95,11 @@ word_by_word:
     translation: every
     transliteration: kulli
   23:
-    arabic: شَىۡءٍ
+    arabic: شَيۡءٖ
     translation: thing
     transliteration: shayin
   24:
-    arabic: قَدِيۡرٌ‏
+    arabic: قَدِيرٞ
     translation: All-Powerful
     transliteration: qadīrun
 ---

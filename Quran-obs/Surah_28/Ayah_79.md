@@ -1,7 +1,7 @@
 ---
-arabic_ayat: فَخَرَجَ عَلٰى قَوۡمِهٖ فِىۡ زِيۡنَتِهٖ​ؕ قَالَ الَّذِيۡنَ يُرِيۡدُوۡنَ
-  الۡحَيٰوةَ الدُّنۡيَا يٰلَيۡتَ لَـنَا مِثۡلَ مَاۤ اُوۡتِىَ قَارُوۡنُۙ اِنَّهٗ لَذُوۡ
-  حَظٍّ عَظِيۡمٍ‏
+arabic_ayat: فَخَرَجَ عَلَىٰ قَوۡمِهِۦ فِي زِينَتِهِۦۖ قَالَ ٱلَّذِينَ يُرِيدُونَ
+  ٱلۡحَيَوٰةَ ٱلدُّنۡيَا يَٰلَيۡتَ لَنَا مِثۡلَ مَآ أُوتِيَ قَٰرُونُ إِنَّهُۥ لَذُو
+  حَظٍّ عَظِيمٖ
 sentence_translation: Then he came out before his people in all his glamour. Those
   who desired the life of this world wished, “If only we could have something like
   what Korah has been given. He is truly a man of great fortune!”
@@ -11,19 +11,19 @@ word_by_word:
     translation: So he went forth
     transliteration: fakharaja
   2:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: to
     transliteration: ʿalā
   3:
-    arabic: قَوۡمِهٖ
+    arabic: قَوۡمِهِۦ
     translation: his people
     transliteration: qawmihi
   4:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   5:
-    arabic: زِيۡنَتِهٖ​ؕ
+    arabic: زِينَتِهِۦۖ
     translation: his adornment
     transliteration: zīnatihi
   6:
@@ -31,27 +31,27 @@ word_by_word:
     translation: Said
     transliteration: qāla
   7:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   8:
-    arabic: يُرِيۡدُوۡنَ
+    arabic: يُرِيدُونَ
     translation: desire
     transliteration: yurīdūna
   9:
-    arabic: الۡحَيٰوةَ
+    arabic: ٱلۡحَيَوٰةَ
     translation: the life
     transliteration: l-ḥayata
   10:
-    arabic: الدُّنۡيَا
+    arabic: ٱلدُّنۡيَا
     translation: (of) the world
     transliteration: l-dun'yā
   11:
-    arabic: يٰلَيۡتَ
+    arabic: يَٰلَيۡتَ
     translation: O! Would that
     transliteration: yālayta
   12:
-    arabic: لَـنَا
+    arabic: لَنَا
     translation: for us
     transliteration: lanā
   13:
@@ -59,23 +59,23 @@ word_by_word:
     translation: (the) like
     transliteration: mith'la
   14:
-    arabic: مَاۤ
+    arabic: مَآ
     translation: (of) what
     transliteration: mā
   15:
-    arabic: اُوۡتِىَ
+    arabic: أُوتِيَ
     translation: has been given
     transliteration: ūtiya
   16:
-    arabic: قَارُوۡنُۙ
+    arabic: قَٰرُونُ
     translation: (to) Qarun
     transliteration: qārūnu
   17:
-    arabic: اِنَّهٗ
+    arabic: إِنَّهُۥ
     translation: Indeed, he
     transliteration: innahu
   18:
-    arabic: لَذُوۡ
+    arabic: لَذُو
     translation: (is the) owner
     transliteration: ladhū
   19:
@@ -83,7 +83,7 @@ word_by_word:
     translation: (of) fortune
     transliteration: ḥaẓẓin
   20:
-    arabic: عَظِيۡمٍ‏
+    arabic: عَظِيمٖ
     translation: great
     transliteration: ʿaẓīmin
 ---

@@ -1,11 +1,11 @@
 ---
-arabic_ayat: "اَوَلَا يَذۡكُرُ الۡاِنۡسَانُ اَنَّا خَلَقۡنٰهُ مِنۡ قَبۡلُ وَلَمۡ يَكُ\
-  \ شَيۡـًٔـا‏ \uFEFF\uFEFF"
+arabic_ayat: أَوَلَا يَذۡكُرُ ٱلۡإِنسَٰنُ أَنَّا خَلَقۡنَٰهُ مِن قَبۡلُ وَلَمۡ يَكُ
+  شَيۡـٔٗا
 sentence_translation: Do ˹such˺ people not remember that We created them before, when
   they were nothing?
 word_by_word:
   1:
-    arabic: اَوَلَا
+    arabic: أَوَلَا
     translation: Does not
     transliteration: awalā
   2:
@@ -13,19 +13,19 @@ word_by_word:
     translation: remember
     transliteration: yadhkuru
   3:
-    arabic: الۡاِنۡسَانُ
+    arabic: ٱلۡإِنسَٰنُ
     translation: '[the] man'
     transliteration: l-insānu
   4:
-    arabic: اَنَّا
+    arabic: أَنَّا
     translation: that We
     transliteration: annā
   5:
-    arabic: خَلَقۡنٰهُ
+    arabic: خَلَقۡنَٰهُ
     translation: We created him
     transliteration: khalaqnāhu
   6:
-    arabic: مِنۡ
+    arabic: مِن
     translation: before
     transliteration: min
   7:
@@ -41,7 +41,7 @@ word_by_word:
     translation: he was
     transliteration: yaku
   10:
-    arabic: "شَيۡـًٔـا‏ \uFEFF\uFEFF"
+    arabic: شَيۡـٔٗا
     translation: anything
     transliteration: shayan
 ---

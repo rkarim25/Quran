@@ -1,19 +1,19 @@
 ---
-arabic_ayat: وَاِنِ امۡرَاَةٌ خَافَتۡ مِنۡۢ بَعۡلِهَا نُشُوۡزًا اَوۡ اِعۡرَاضًا فَلَا
-  جُنَاحَ عَلَيۡهِمَاۤ اَنۡ يُّصۡلِحَا بَيۡنَهُمَا صُلۡحًا​ ؕ وَالصُّلۡحُ خَيۡرٌ​
-  ؕ وَاُحۡضِرَتِ الۡاَنۡفُسُ الشُّحَّ​ ؕ وَاِنۡ تُحۡسِنُوۡا وَتَتَّقُوۡا فَاِنَّ اللّٰهَ
-  كَانَ بِمَا تَعۡمَلُوۡنَ خَبِيۡرًا‏
+arabic_ayat: وَإِنِ ٱمۡرَأَةٌ خَافَتۡ مِنۢ بَعۡلِهَا نُشُوزًا أَوۡ إِعۡرَاضٗا فَلَا
+  جُنَاحَ عَلَيۡهِمَآ أَن يُصۡلِحَا بَيۡنَهُمَا صُلۡحٗاۚ وَٱلصُّلۡحُ خَيۡرٞۗ وَأُحۡضِرَتِ
+  ٱلۡأَنفُسُ ٱلشُّحَّۚ وَإِن تُحۡسِنُواْ وَتَتَّقُواْ فَإِنَّ ٱللَّهَ كَانَ بِمَا
+  تَعۡمَلُونَ خَبِيرٗا
 sentence_translation: If a woman fears indifference or neglect from her husband, there
   is no blame on either of them if they seek ˹fair˺ settlement, which is best. Humans
   are ever inclined to selfishness. But if you are gracious and mindful ˹of Allah˺,
   surely Allah is All-Aware of what you do.
 word_by_word:
   1:
-    arabic: وَاِنِ
+    arabic: وَإِنِ
     translation: And if
     transliteration: wa-ini
   2:
-    arabic: امۡرَاَةٌ
+    arabic: ٱمۡرَأَةٌ
     translation: a woman
     transliteration: im'ra-atun
   3:
@@ -21,7 +21,7 @@ word_by_word:
     translation: fears
     transliteration: khāfat
   4:
-    arabic: مِنۡۢ
+    arabic: مِنۢ
     translation: from
     transliteration: min
   5:
@@ -29,15 +29,15 @@ word_by_word:
     translation: her husband
     transliteration: baʿlihā
   6:
-    arabic: نُشُوۡزًا
+    arabic: نُشُوزًا
     translation: ill-conduct
     transliteration: nushūzan
   7:
-    arabic: اَوۡ
+    arabic: أَوۡ
     translation: or
     transliteration: aw
   8:
-    arabic: اِعۡرَاضًا
+    arabic: إِعۡرَاضٗا
     translation: desertion
     transliteration: iʿ'rāḍan
   9:
@@ -49,15 +49,15 @@ word_by_word:
     translation: sin
     transliteration: junāḥa
   11:
-    arabic: عَلَيۡهِمَاۤ
+    arabic: عَلَيۡهِمَآ
     translation: on both of them
     transliteration: ʿalayhimā
   12:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that
     transliteration: an
   13:
-    arabic: يُّصۡلِحَا
+    arabic: يُصۡلِحَا
     translation: they make terms of peace
     transliteration: yuṣ'liḥā
   14:
@@ -65,47 +65,47 @@ word_by_word:
     translation: 'between themselves '
     transliteration: baynahumā
   15:
-    arabic: صُلۡحًا​ ؕ
+    arabic: صُلۡحٗاۚ
     translation: a reconciliation
     transliteration: ṣul'ḥan
   16:
-    arabic: وَالصُّلۡحُ
+    arabic: وَٱلصُّلۡحُ
     translation: and [the] reconciliation
     transliteration: wal-ṣul'ḥu
   17:
-    arabic: خَيۡرٌ​ ؕ
+    arabic: خَيۡرٞۗ
     translation: (is) best
     transliteration: khayrun
   18:
-    arabic: وَاُحۡضِرَتِ
+    arabic: وَأُحۡضِرَتِ
     translation: And are swayed
     transliteration: wa-uḥ'ḍirati
   19:
-    arabic: الۡاَنۡفُسُ
+    arabic: ٱلۡأَنفُسُ
     translation: the souls
     transliteration: l-anfusu
   20:
-    arabic: الشُّحَّ​ ؕ
+    arabic: ٱلشُّحَّۚ
     translation: (by) greed
     transliteration: l-shuḥa
   21:
-    arabic: وَاِنۡ
+    arabic: وَإِن
     translation: But if
     transliteration: wa-in
   22:
-    arabic: تُحۡسِنُوۡا
+    arabic: تُحۡسِنُواْ
     translation: you do good
     transliteration: tuḥ'sinū
   23:
-    arabic: وَتَتَّقُوۡا
+    arabic: وَتَتَّقُواْ
     translation: and fear (Allah)
     transliteration: watattaqū
   24:
-    arabic: فَاِنَّ
+    arabic: فَإِنَّ
     translation: then indeed
     transliteration: fa-inna
   25:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   26:
@@ -117,11 +117,11 @@ word_by_word:
     translation: of what
     transliteration: bimā
   28:
-    arabic: تَعۡمَلُوۡنَ
+    arabic: تَعۡمَلُونَ
     translation: you do
     transliteration: taʿmalūna
   29:
-    arabic: خَبِيۡرًا‏
+    arabic: خَبِيرٗا
     translation: All-Aware
     transliteration: khabīran
 ---

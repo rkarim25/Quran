@@ -1,9 +1,9 @@
 ---
-arabic_ayat: فَاَنۡتَ عَنۡهُ تَلَهّٰى​ۚ‏
+arabic_ayat: فَأَنتَ عَنۡهُ تَلَهَّىٰ
 sentence_translation: you were inattentive to him.
 word_by_word:
   1:
-    arabic: فَاَنۡتَ
+    arabic: فَأَنتَ
     translation: But you
     transliteration: fa-anta
   2:
@@ -11,7 +11,7 @@ word_by_word:
     translation: from him
     transliteration: ʿanhu
   3:
-    arabic: تَلَهّٰى​ۚ‏
+    arabic: تَلَهَّىٰ
     translation: (are) distracted
     transliteration: talahhā
 ---

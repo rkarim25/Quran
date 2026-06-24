@@ -1,9 +1,9 @@
 ---
-arabic_ayat: وَاخۡتَارَ مُوۡسٰى قَوۡمَهٗ سَبۡعِيۡنَ رَجُلًا لِّمِيۡقَاتِنَا​ ۚ فَلَمَّاۤ
-  اَخَذَتۡهُمُ الرَّجۡفَةُ قَالَ رَبِّ لَوۡ شِئۡتَ اَهۡلَـكۡتَهُمۡ مِّنۡ قَبۡلُ وَاِيَّاىَ​
-  ؕ اَ تُهۡلِكُنَا بِمَا فَعَلَ السُّفَهَآءُ مِنَّا ۚ اِنۡ هِىَ اِلَّا فِتۡنَـتُكَ
-  ؕ تُضِلُّ بِهَا مَنۡ تَشَآءُ وَتَهۡدِىۡ مَنۡ تَشَآءُ ​ؕ اَنۡتَ وَلِيُّنَا فَاغۡفِرۡ
-  لَـنَا وَارۡحَمۡنَا​ وَاَنۡتَ خَيۡرُ الۡغَافِرِيۡنَ‏
+arabic_ayat: وَٱخۡتَارَ مُوسَىٰ قَوۡمَهُۥ سَبۡعِينَ رَجُلٗا لِّمِيقَٰتِنَاۖ فَلَمَّآ
+  أَخَذَتۡهُمُ ٱلرَّجۡفَةُ قَالَ رَبِّ لَوۡ شِئۡتَ أَهۡلَكۡتَهُم مِّن قَبۡلُ وَإِيَّٰيَۖ
+  أَتُهۡلِكُنَا بِمَا فَعَلَ ٱلسُّفَهَآءُ مِنَّآۖ إِنۡ هِيَ إِلَّا فِتۡنَتُكَ تُضِلُّ
+  بِهَا مَن تَشَآءُ وَتَهۡدِي مَن تَشَآءُۖ أَنتَ وَلِيُّنَا فَٱغۡفِرۡ لَنَا وَٱرۡحَمۡنَاۖ
+  وَأَنتَ خَيۡرُ ٱلۡغَٰفِرِينَ
 sentence_translation: Moses chose seventy men from among his people for Our appointment
   and, when they were seized by an earthquake, he cried, “My Lord! Had You willed,
   You could have destroyed them long ago, and me as well. Will You destroy us for
@@ -12,39 +12,39 @@ sentence_translation: Moses chose seventy men from among his people for Our appo
   us and have mercy on us. You are the best forgiver.
 word_by_word:
   1:
-    arabic: وَاخۡتَارَ
+    arabic: وَٱخۡتَارَ
     translation: And chose
     transliteration: wa-ikh'tāra
   2:
-    arabic: مُوۡسٰى
+    arabic: مُوسَىٰ
     translation: Musa
     transliteration: mūsā
   3:
-    arabic: قَوۡمَهٗ
+    arabic: قَوۡمَهُۥ
     translation: (from) his people
     transliteration: qawmahu
   4:
-    arabic: سَبۡعِيۡنَ
+    arabic: سَبۡعِينَ
     translation: seventy
     transliteration: sabʿīna
   5:
-    arabic: رَجُلًا
+    arabic: رَجُلٗا
     translation: men
     transliteration: rajulan
   6:
-    arabic: لِّمِيۡقَاتِنَا​ ۚ
+    arabic: لِّمِيقَٰتِنَاۖ
     translation: for Our appointment
     transliteration: limīqātinā
   7:
-    arabic: فَلَمَّاۤ
+    arabic: فَلَمَّآ
     translation: Then when
     transliteration: falammā
   8:
-    arabic: اَخَذَتۡهُمُ
+    arabic: أَخَذَتۡهُمُ
     translation: seized them
     transliteration: akhadhathumu
   9:
-    arabic: الرَّجۡفَةُ
+    arabic: ٱلرَّجۡفَةُ
     translation: the earthquake
     transliteration: l-rajfatu
   10:
@@ -64,11 +64,11 @@ word_by_word:
     translation: you (had) willed
     transliteration: shi'ta
   14:
-    arabic: اَهۡلَـكۡتَهُمۡ
+    arabic: أَهۡلَكۡتَهُم
     translation: You (could) have destroyed them
     transliteration: ahlaktahum
   15:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: from
     transliteration: min
   16:
@@ -76,11 +76,11 @@ word_by_word:
     translation: before
     transliteration: qablu
   17:
-    arabic: وَاِيَّاىَ​ ؕ
+    arabic: وَإِيَّٰيَۖ
     translation: and me
     transliteration: wa-iyyāya
   18:
-    arabic: اَ تُهۡلِكُنَا
+    arabic: أَتُهۡلِكُنَا
     translation: Would You destroy us
     transliteration: atuh'likunā
   19:
@@ -92,27 +92,27 @@ word_by_word:
     translation: did
     transliteration: faʿala
   21:
-    arabic: السُّفَهَآءُ
+    arabic: ٱلسُّفَهَآءُ
     translation: the foolish
     transliteration: l-sufahāu
   22:
-    arabic: مِنَّا ۚ
+    arabic: مِنَّآۖ
     translation: among us
     transliteration: minnā
   23:
-    arabic: اِنۡ
+    arabic: إِنۡ
     translation: Not
     transliteration: in
   24:
-    arabic: هِىَ
+    arabic: هِيَ
     translation: it (was)
     transliteration: hiya
   25:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: but
     transliteration: illā
   26:
-    arabic: فِتۡنَـتُكَ ؕ
+    arabic: فِتۡنَتُكَ
     translation: Your trial
     transliteration: fit'natuka
   27:
@@ -124,7 +124,7 @@ word_by_word:
     translation: by it
     transliteration: bihā
   29:
-    arabic: مَنۡ
+    arabic: مَن
     translation: whom
     transliteration: man
   30:
@@ -132,19 +132,19 @@ word_by_word:
     translation: You will
     transliteration: tashāu
   31:
-    arabic: وَتَهۡدِىۡ
+    arabic: وَتَهۡدِي
     translation: and You guide
     transliteration: watahdī
   32:
-    arabic: مَنۡ
+    arabic: مَن
     translation: whom
     transliteration: man
   33:
-    arabic: تَشَآءُ ​ؕ
+    arabic: تَشَآءُۖ
     translation: You will
     transliteration: tashāu
   34:
-    arabic: اَنۡتَ
+    arabic: أَنتَ
     translation: You
     transliteration: anta
   35:
@@ -152,19 +152,19 @@ word_by_word:
     translation: (are) our Protector
     transliteration: waliyyunā
   36:
-    arabic: فَاغۡفِرۡ
+    arabic: فَٱغۡفِرۡ
     translation: so forgive
     transliteration: fa-igh'fir
   37:
-    arabic: لَـنَا
+    arabic: لَنَا
     translation: us
     transliteration: lanā
   38:
-    arabic: وَارۡحَمۡنَا​
+    arabic: وَٱرۡحَمۡنَاۖ
     translation: and have mercy upon us
     transliteration: wa-ir'ḥamnā
   39:
-    arabic: وَاَنۡتَ
+    arabic: وَأَنتَ
     translation: and You
     transliteration: wa-anta
   40:
@@ -172,7 +172,7 @@ word_by_word:
     translation: (are) Best
     transliteration: khayru
   41:
-    arabic: الۡغَافِرِيۡنَ‏
+    arabic: ٱلۡغَٰفِرِينَ
     translation: (of) Forgivers
     transliteration: l-ghāfirīna
 ---

@@ -1,5 +1,5 @@
 ---
-arabic_ayat: يَوۡمَ يَكُوۡنُ النَّاسُ كَالۡفَرَاشِ الۡمَبۡثُوۡثِۙ‏
+arabic_ayat: يَوۡمَ يَكُونُ ٱلنَّاسُ كَٱلۡفَرَاشِ ٱلۡمَبۡثُوثِ
 sentence_translation: ˹It is˺ the Day people will be like scattered moths,
 word_by_word:
   1:
@@ -7,19 +7,19 @@ word_by_word:
     translation: (The) Day
     transliteration: yawma
   2:
-    arabic: يَكُوۡنُ
+    arabic: يَكُونُ
     translation: will be
     transliteration: yakūnu
   3:
-    arabic: النَّاسُ
+    arabic: ٱلنَّاسُ
     translation: the mankind
     transliteration: l-nāsu
   4:
-    arabic: كَالۡفَرَاشِ
+    arabic: كَٱلۡفَرَاشِ
     translation: like moths
     transliteration: kal-farāshi
   5:
-    arabic: الۡمَبۡثُوۡثِۙ‏
+    arabic: ٱلۡمَبۡثُوثِ
     translation: scattered
     transliteration: l-mabthūthi
 ---

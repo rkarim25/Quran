@@ -1,39 +1,39 @@
 ---
-arabic_ayat: يٰنِسَآءَ النَّبِىِّ مَنۡ يَّاۡتِ مِنۡكُنَّ بِفَاحِشَةٍ مُّبَيِّنَةٍ
-  يُّضٰعَفۡ لَهَا الۡعَذَابُ ضِعۡفَيۡنِ ​ؕ وَكَانَ ذٰ لِكَ عَلَى اللّٰهِ يَسِيۡرًا‏
+arabic_ayat: يَٰنِسَآءَ ٱلنَّبِيِّ مَن يَأۡتِ مِنكُنَّ بِفَٰحِشَةٖ مُّبَيِّنَةٖ يُضَٰعَفۡ
+  لَهَا ٱلۡعَذَابُ ضِعۡفَيۡنِۚ وَكَانَ ذَٰلِكَ عَلَى ٱللَّهِ يَسِيرٗا
 sentence_translation: O wives of the Prophet! If any of you were to commit a blatant
   misconduct, the punishment would be doubled for her. And that is easy for Allah.
 word_by_word:
   1:
-    arabic: يٰنِسَآءَ
+    arabic: يَٰنِسَآءَ
     translation: O wives
     transliteration: yānisāa
   2:
-    arabic: النَّبِىِّ
+    arabic: ٱلنَّبِيِّ
     translation: (of) the Prophet
     transliteration: l-nabiyi
   3:
-    arabic: مَنۡ
+    arabic: مَن
     translation: Whoever
     transliteration: man
   4:
-    arabic: يَّاۡتِ
+    arabic: يَأۡتِ
     translation: commits
     transliteration: yati
   5:
-    arabic: مِنۡكُنَّ
+    arabic: مِنكُنَّ
     translation: from you
     transliteration: minkunna
   6:
-    arabic: بِفَاحِشَةٍ
+    arabic: بِفَٰحِشَةٖ
     translation: immorality
     transliteration: bifāḥishatin
   7:
-    arabic: مُّبَيِّنَةٍ
+    arabic: مُّبَيِّنَةٖ
     translation: clear
     transliteration: mubayyinatin
   8:
-    arabic: يُّضٰعَفۡ
+    arabic: يُضَٰعَفۡ
     translation: will be doubled
     transliteration: yuḍāʿaf
   9:
@@ -41,11 +41,11 @@ word_by_word:
     translation: for her
     transliteration: lahā
   10:
-    arabic: الۡعَذَابُ
+    arabic: ٱلۡعَذَابُ
     translation: the punishment
     transliteration: l-ʿadhābu
   11:
-    arabic: ضِعۡفَيۡنِ ​ؕ
+    arabic: ضِعۡفَيۡنِۚ
     translation: two fold
     transliteration: ḍiʿ'fayni
   12:
@@ -53,7 +53,7 @@ word_by_word:
     translation: And that is
     transliteration: wakāna
   13:
-    arabic: ذٰ لِكَ
+    arabic: ذَٰلِكَ
     translation: And that is
     transliteration: dhālika
   14:
@@ -61,11 +61,11 @@ word_by_word:
     translation: for
     transliteration: ʿalā
   15:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   16:
-    arabic: يَسِيۡرًا‏
+    arabic: يَسِيرٗا
     translation: easy
     transliteration: yasīran
 ---

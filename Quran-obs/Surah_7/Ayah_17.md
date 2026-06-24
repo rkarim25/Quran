@@ -1,6 +1,6 @@
 ---
-arabic_ayat: ثُمَّ لَاَتِيَنَّهُمۡ مِّنۡۢ بَيۡنِ اَيۡدِيۡهِمۡ وَمِنۡ خَلۡفِهِمۡ وَعَنۡ
-  اَيۡمَانِهِمۡ وَعَنۡ شَمَآٮِٕلِهِمۡ​ؕ وَلَاٰ تَجِدُ اَكۡثَرَهُمۡ شٰكِرِيۡنَ‏
+arabic_ayat: ثُمَّ لَأٓتِيَنَّهُم مِّنۢ بَيۡنِ أَيۡدِيهِمۡ وَمِنۡ خَلۡفِهِمۡ وَعَنۡ
+  أَيۡمَٰنِهِمۡ وَعَن شَمَآئِلِهِمۡۖ وَلَا تَجِدُ أَكۡثَرَهُمۡ شَٰكِرِينَ
 sentence_translation: I will approach them from their front, their back, their right,
   their left, and then You will find most of them ungrateful.”
 word_by_word:
@@ -9,11 +9,11 @@ word_by_word:
     translation: Then
     transliteration: thumma
   2:
-    arabic: لَاَتِيَنَّهُمۡ
+    arabic: لَأٓتِيَنَّهُم
     translation: surely, I will come to them
     transliteration: laātiyannahum
   3:
-    arabic: مِّنۡۢ
+    arabic: مِّنۢ
     translation: from
     transliteration: min
   4:
@@ -21,7 +21,7 @@ word_by_word:
     translation: before
     transliteration: bayni
   5:
-    arabic: اَيۡدِيۡهِمۡ
+    arabic: أَيۡدِيهِمۡ
     translation: them
     transliteration: aydīhim
   6:
@@ -37,19 +37,19 @@ word_by_word:
     translation: and from
     transliteration: waʿan
   9:
-    arabic: اَيۡمَانِهِمۡ
+    arabic: أَيۡمَٰنِهِمۡ
     translation: their right
     transliteration: aymānihim
   10:
-    arabic: وَعَنۡ
+    arabic: وَعَن
     translation: and from
     transliteration: waʿan
   11:
-    arabic: شَمَآٮِٕلِهِمۡ​ؕ
+    arabic: شَمَآئِلِهِمۡۖ
     translation: their left
     transliteration: shamāilihim
   12:
-    arabic: وَلَاٰ
+    arabic: وَلَا
     translation: and not
     transliteration: walā
   13:
@@ -57,11 +57,11 @@ word_by_word:
     translation: You (will) find
     transliteration: tajidu
   14:
-    arabic: اَكۡثَرَهُمۡ
+    arabic: أَكۡثَرَهُمۡ
     translation: most of them
     transliteration: aktharahum
   15:
-    arabic: شٰكِرِيۡنَ‏
+    arabic: شَٰكِرِينَ
     translation: grateful
     transliteration: shākirīna
 ---

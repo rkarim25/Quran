@@ -1,25 +1,25 @@
 ---
-arabic_ayat: ​يٰۤاَيُّهَا الَّذِيۡنَ اٰمَنُوۡۤا اِنَّ مِنۡ اَزۡوَاجِكُمۡ وَاَوۡلَادِكُمۡ
-  عَدُوًّا لَّكُمۡ فَاحۡذَرُوۡهُمۡ​ۚ وَاِنۡ تَعۡفُوۡا وَتَصۡفَحُوۡا وَتَغۡفِرُوۡا
-  فَاِنَّ اللّٰهَ غَفُوۡرٌ رَّحِيۡمٌ‏
+arabic_ayat: يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓاْ إِنَّ مِنۡ أَزۡوَٰجِكُمۡ وَأَوۡلَٰدِكُمۡ
+  عَدُوّٗا لَّكُمۡ فَٱحۡذَرُوهُمۡۚ وَإِن تَعۡفُواْ وَتَصۡفَحُواْ وَتَغۡفِرُواْ فَإِنَّ
+  ٱللَّهَ غَفُورٞ رَّحِيمٌ
 sentence_translation: O believers! Indeed, some of your spouses and children are enemies
   to you, so beware of them. But if you pardon, overlook, and forgive ˹their faults˺,
   then Allah is truly All-Forgiving, Most Merciful.
 word_by_word:
   1:
-    arabic: ​يٰۤاَيُّهَا
+    arabic: يَٰٓأَيُّهَا
     translation: O
     transliteration: yāayyuhā
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ ءَ
     translation: (you) who
     transliteration: alladhīna
   3:
-    arabic: اٰمَنُوۡۤا
+    arabic: امَنُوٓاْ
     translation: believe
     transliteration: āmanū
   4:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   5:
@@ -27,15 +27,15 @@ word_by_word:
     translation: from
     transliteration: min
   6:
-    arabic: اَزۡوَاجِكُمۡ
+    arabic: أَزۡوَٰجِكُمۡ
     translation: your spouses
     transliteration: azwājikum
   7:
-    arabic: وَاَوۡلَادِكُمۡ
+    arabic: وَأَوۡلَٰدِكُمۡ
     translation: and your children
     transliteration: wa-awlādikum
   8:
-    arabic: عَدُوًّا
+    arabic: عَدُوّٗا
     translation: (are) enemies
     transliteration: ʿaduwwan
   9:
@@ -43,39 +43,39 @@ word_by_word:
     translation: to you
     transliteration: lakum
   10:
-    arabic: فَاحۡذَرُوۡهُمۡ​ۚ
+    arabic: فَٱحۡذَرُوهُمۡۚ
     translation: so beware of them
     transliteration: fa-iḥ'dharūhum
   11:
-    arabic: وَاِنۡ
+    arabic: وَإِن
     translation: But if
     transliteration: wa-in
   12:
-    arabic: تَعۡفُوۡا
+    arabic: تَعۡفُواْ
     translation: you pardon
     transliteration: taʿfū
   13:
-    arabic: وَتَصۡفَحُوۡا
+    arabic: وَتَصۡفَحُواْ
     translation: and overlook
     transliteration: wataṣfaḥū
   14:
-    arabic: وَتَغۡفِرُوۡا
+    arabic: وَتَغۡفِرُواْ
     translation: and forgive
     transliteration: wataghfirū
   15:
-    arabic: فَاِنَّ
+    arabic: فَإِنَّ
     translation: then indeed
     transliteration: fa-inna
   16:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   17:
-    arabic: غَفُوۡرٌ
+    arabic: غَفُورٞ
     translation: (is) Oft-Forgiving
     transliteration: ghafūrun
   18:
-    arabic: رَّحِيۡمٌ‏
+    arabic: رَّحِيمٌ
     translation: Most Merciful
     transliteration: raḥīmun
 ---

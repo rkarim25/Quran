@@ -1,24 +1,24 @@
 ---
-arabic_ayat: وَاِذۡ قَالُوا اللّٰهُمَّ اِنۡ كَانَ هٰذَا هُوَ الۡحَـقَّ مِنۡ عِنۡدِكَ
-  فَاَمۡطِرۡ عَلَيۡنَا حِجَارَةً مِّنَ السَّمَآءِ اَوِ ائۡتِنَا بِعَذَابٍ اَ لِيۡمٍ‏
+arabic_ayat: وَإِذۡ قَالُواْ ٱللَّهُمَّ إِن كَانَ هَٰذَا هُوَ ٱلۡحَقَّ مِنۡ عِندِكَ
+  فَأَمۡطِرۡ عَلَيۡنَا حِجَارَةٗ مِّنَ ٱلسَّمَآءِ أَوِ ٱئۡتِنَا بِعَذَابٍ أَلِيمٖ
 sentence_translation: And ˹remember˺ when they prayed, “O Allah! If this is indeed
   the truth from You, then rain down stones upon us from the sky or overcome us with
   a painful punishment.”
 word_by_word:
   1:
-    arabic: وَاِذۡ
+    arabic: وَإِذۡ
     translation: And when
     transliteration: wa-idh
   2:
-    arabic: قَالُوا
+    arabic: قَالُواْ
     translation: they said
     transliteration: qālū
   3:
-    arabic: اللّٰهُمَّ
+    arabic: ٱللَّهُمَّ
     translation: O Allah
     transliteration: l-lahuma
   4:
-    arabic: اِنۡ
+    arabic: إِن
     translation: If
     transliteration: in
   5:
@@ -26,7 +26,7 @@ word_by_word:
     translation: was
     transliteration: kāna
   6:
-    arabic: هٰذَا
+    arabic: هَٰذَا
     translation: this
     transliteration: hādhā
   7:
@@ -34,7 +34,7 @@ word_by_word:
     translation: '[it]'
     transliteration: huwa
   8:
-    arabic: الۡحَـقَّ
+    arabic: ٱلۡحَقَّ
     translation: the truth
     transliteration: l-ḥaqa
   9:
@@ -42,11 +42,11 @@ word_by_word:
     translation: '[of]'
     transliteration: min
   10:
-    arabic: عِنۡدِكَ
+    arabic: عِندِكَ
     translation: from You
     transliteration: ʿindika
   11:
-    arabic: فَاَمۡطِرۡ
+    arabic: فَأَمۡطِرۡ
     translation: then (send) rain
     transliteration: fa-amṭir
   12:
@@ -54,7 +54,7 @@ word_by_word:
     translation: upon us
     transliteration: ʿalaynā
   13:
-    arabic: حِجَارَةً
+    arabic: حِجَارَةٗ
     translation: (of) stones
     transliteration: ḥijāratan
   14:
@@ -62,15 +62,15 @@ word_by_word:
     translation: from
     transliteration: mina
   15:
-    arabic: السَّمَآءِ
+    arabic: ٱلسَّمَآءِ
     translation: the sky
     transliteration: l-samāi
   16:
-    arabic: اَوِ
+    arabic: أَوِ
     translation: or
     transliteration: awi
   17:
-    arabic: ائۡتِنَا
+    arabic: ٱئۡتِنَا
     translation: bring (upon) us
     transliteration: i'tinā
   18:
@@ -78,7 +78,7 @@ word_by_word:
     translation: a punishment
     transliteration: biʿadhābin
   19:
-    arabic: اَ لِيۡمٍ‏
+    arabic: أَلِيمٖ
     translation: painful
     transliteration: alīmin
 ---

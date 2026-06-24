@@ -1,14 +1,14 @@
 ---
-arabic_ayat: يٰۤاَيُّهَا الۡاِنۡسَانُ مَا غَرَّكَ بِرَبِّكَ الۡكَرِيۡمِۙ‏
+arabic_ayat: يَٰٓأَيُّهَا ٱلۡإِنسَٰنُ مَا غَرَّكَ بِرَبِّكَ ٱلۡكَرِيمِ
 sentence_translation: O humanity! What has emboldened you against your Lord, the Most
   Generous,
 word_by_word:
   1:
-    arabic: يٰۤاَيُّهَا
+    arabic: يَٰٓأَيُّهَا
     translation: O
     transliteration: yāayyuhā
   2:
-    arabic: الۡاِنۡسَانُ
+    arabic: ٱلۡإِنسَٰنُ
     translation: man
     transliteration: l-insānu
   3:
@@ -24,7 +24,7 @@ word_by_word:
     translation: concerning your Lord
     transliteration: birabbika
   6:
-    arabic: الۡكَرِيۡمِۙ‏
+    arabic: ٱلۡكَرِيمِ
     translation: the Most Noble
     transliteration: l-karīmi
 ---

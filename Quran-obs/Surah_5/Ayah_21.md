@@ -1,27 +1,27 @@
 ---
-arabic_ayat: يٰقَوۡمِ ادۡخُلُوا الۡاَرۡضَ الۡمُقَدَّسَةَ الَّتِىۡ كَتَبَ اللّٰهُ لَـكُمۡ
-  وَلَا تَرۡتَدُّوۡا عَلٰٓى اَدۡبَارِكُمۡ فَتَـنۡقَلِبُوۡا خٰسِرِيۡنَ‏
+arabic_ayat: يَٰقَوۡمِ ٱدۡخُلُواْ ٱلۡأَرۡضَ ٱلۡمُقَدَّسَةَ ٱلَّتِي كَتَبَ ٱللَّهُ
+  لَكُمۡ وَلَا تَرۡتَدُّواْ عَلَىٰٓ أَدۡبَارِكُمۡ فَتَنقَلِبُواْ خَٰسِرِينَ
 sentence_translation: O  my people! Enter the Holy Land which Allah has destined for
   you ˹to enter˺. And do not turn back or else you will become losers.”
 word_by_word:
   1:
-    arabic: يٰقَوۡمِ
+    arabic: يَٰقَوۡمِ
     translation: O my people
     transliteration: yāqawmi
   2:
-    arabic: ادۡخُلُوا
+    arabic: ٱدۡخُلُواْ
     translation: Enter
     transliteration: ud'khulū
   3:
-    arabic: الۡاَرۡضَ
+    arabic: ٱلۡأَرۡضَ
     translation: the land
     transliteration: l-arḍa
   4:
-    arabic: الۡمُقَدَّسَةَ
+    arabic: ٱلۡمُقَدَّسَةَ
     translation: the Holy
     transliteration: l-muqadasata
   5:
-    arabic: الَّتِىۡ
+    arabic: ٱلَّتِي
     translation: which
     transliteration: allatī
   6:
@@ -29,11 +29,11 @@ word_by_word:
     translation: (has been) ordained
     transliteration: kataba
   7:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: (by) Allah
     transliteration: l-lahu
   8:
-    arabic: لَـكُمۡ
+    arabic: لَكُمۡ
     translation: for you
     transliteration: lakum
   9:
@@ -41,23 +41,23 @@ word_by_word:
     translation: and (do) not
     transliteration: walā
   10:
-    arabic: تَرۡتَدُّوۡا
+    arabic: تَرۡتَدُّواْ
     translation: turn
     transliteration: tartaddū
   11:
-    arabic: عَلٰٓى
+    arabic: عَلَىٰٓ
     translation: 'on'
     transliteration: ʿalā
   12:
-    arabic: اَدۡبَارِكُمۡ
+    arabic: أَدۡبَارِكُمۡ
     translation: your backs
     transliteration: adbārikum
   13:
-    arabic: فَتَـنۡقَلِبُوۡا
+    arabic: فَتَنقَلِبُواْ
     translation: then you will turn back
     transliteration: fatanqalibū
   14:
-    arabic: خٰسِرِيۡنَ‏
+    arabic: خَٰسِرِينَ
     translation: (as) losers
     transliteration: khāsirīna
 ---

@@ -1,23 +1,23 @@
 ---
-arabic_ayat: وَنُوۡحًا اِذۡ نَادٰى مِنۡ قَبۡلُ فَاسۡتَجَبۡنَا لَهٗ فَنَجَّيۡنٰهُ وَاَهۡلَهٗ
-  مِنَ الۡكَرۡبِ الۡعَظِيۡمِ​ۚ‏
+arabic_ayat: وَنُوحًا إِذۡ نَادَىٰ مِن قَبۡلُ فَٱسۡتَجَبۡنَا لَهُۥ فَنَجَّيۡنَٰهُ
+  وَأَهۡلَهُۥ مِنَ ٱلۡكَرۡبِ ٱلۡعَظِيمِ
 sentence_translation: And ˹remember˺ when Noah had cried out to Us earlier, so We
   responded to him and delivered him and his family from the great distress.
 word_by_word:
   1:
-    arabic: وَنُوۡحًا
+    arabic: وَنُوحًا
     translation: And Nuh
     transliteration: wanūḥan
   2:
-    arabic: اِذۡ
+    arabic: إِذۡ
     translation: when
     transliteration: idh
   3:
-    arabic: نَادٰى
+    arabic: نَادَىٰ
     translation: he called
     transliteration: nādā
   4:
-    arabic: مِنۡ
+    arabic: مِن
     translation: before
     transliteration: min
   5:
@@ -25,19 +25,19 @@ word_by_word:
     translation: before
     transliteration: qablu
   6:
-    arabic: فَاسۡتَجَبۡنَا
+    arabic: فَٱسۡتَجَبۡنَا
     translation: so We responded
     transliteration: fa-is'tajabnā
   7:
-    arabic: لَهٗ
+    arabic: لَهُۥ
     translation: to him
     transliteration: lahu
   8:
-    arabic: فَنَجَّيۡنٰهُ
+    arabic: فَنَجَّيۡنَٰهُ
     translation: and We saved him
     transliteration: fanajjaynāhu
   9:
-    arabic: وَاَهۡلَهٗ
+    arabic: وَأَهۡلَهُۥ
     translation: and his family
     transliteration: wa-ahlahu
   10:
@@ -45,11 +45,11 @@ word_by_word:
     translation: from
     transliteration: mina
   11:
-    arabic: الۡكَرۡبِ
+    arabic: ٱلۡكَرۡبِ
     translation: the affliction
     transliteration: l-karbi
   12:
-    arabic: الۡعَظِيۡمِ​ۚ‏
+    arabic: ٱلۡعَظِيمِ
     translation: '[the] great'
     transliteration: l-ʿaẓīmi
 ---

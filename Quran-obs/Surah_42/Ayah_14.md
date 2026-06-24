@@ -1,8 +1,8 @@
 ---
-arabic_ayat: وَمَا تَفَرَّقُوۡۤا اِلَّا مِنۡۢ بَعۡدِ مَا جَآءَهُمُ الۡعِلۡمُ بَغۡيًاۢ
-  بَيۡنَهُمۡ​ؕ وَلَوۡلَا كَلِمَةٌ سَبَقَتۡ مِنۡ رَّبِّكَ اِلٰٓى اَجَلٍ مُّسَمًّى لَّقُضِىَ
-  بَيۡنَهُمۡ​ؕ وَ اِنَّ الَّذِيۡنَ اُوۡرِثُوا الۡكِتٰبَ مِنۡۢ بَعۡدِهِمۡ لَفِىۡ شَكٍّ
-  مِّنۡهُ مُرِيۡبٍ‏
+arabic_ayat: وَمَا تَفَرَّقُوٓاْ إِلَّا مِنۢ بَعۡدِ مَا جَآءَهُمُ ٱلۡعِلۡمُ بَغۡيَۢا
+  بَيۡنَهُمۡۚ وَلَوۡلَا كَلِمَةٞ سَبَقَتۡ مِن رَّبِّكَ إِلَىٰٓ أَجَلٖ مُّسَمّٗى لَّقُضِيَ
+  بَيۡنَهُمۡۚ وَإِنَّ ٱلَّذِينَ أُورِثُواْ ٱلۡكِتَٰبَ مِنۢ بَعۡدِهِمۡ لَفِي شَكّٖ
+  مِّنۡهُ مُرِيبٖ
 sentence_translation: They did not split ˹into sects˺ out of mutual envy until knowledge
   came to them. Had it not been for a prior decree from your Lord for an appointed
   term, the matter would have certainly been settled between them ˹at once˺. And surely
@@ -14,15 +14,15 @@ word_by_word:
     translation: And not
     transliteration: wamā
   2:
-    arabic: تَفَرَّقُوۡۤا
+    arabic: تَفَرَّقُوٓاْ
     translation: they became divided
     transliteration: tafarraqū
   3:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: until
     transliteration: illā
   4:
-    arabic: مِنۡۢ
+    arabic: مِنۢ
     translation: after
     transliteration: min
   5:
@@ -38,15 +38,15 @@ word_by_word:
     translation: came to them
     transliteration: jāahumu
   8:
-    arabic: الۡعِلۡمُ
+    arabic: ٱلۡعِلۡمُ
     translation: the knowledge
     transliteration: l-ʿil'mu
   9:
-    arabic: بَغۡيًاۢ
+    arabic: بَغۡيَۢا
     translation: (out of) rivalry
     transliteration: baghyan
   10:
-    arabic: بَيۡنَهُمۡ​ؕ
+    arabic: بَيۡنَهُمۡۚ
     translation: among them
     transliteration: baynahum
   11:
@@ -54,7 +54,7 @@ word_by_word:
     translation: And if not
     transliteration: walawlā
   12:
-    arabic: كَلِمَةٌ
+    arabic: كَلِمَةٞ
     translation: (for) a word
     transliteration: kalimatun
   13:
@@ -62,7 +62,7 @@ word_by_word:
     translation: (that) preceded
     transliteration: sabaqat
   14:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   15:
@@ -70,43 +70,43 @@ word_by_word:
     translation: your Lord
     transliteration: rabbika
   16:
-    arabic: اِلٰٓى
+    arabic: إِلَىٰٓ
     translation: for
     transliteration: ilā
   17:
-    arabic: اَجَلٍ
+    arabic: أَجَلٖ
     translation: a term
     transliteration: ajalin
   18:
-    arabic: مُّسَمًّى
+    arabic: مُّسَمّٗى
     translation: specified
     transliteration: musamman
   19:
-    arabic: لَّقُضِىَ
+    arabic: لَّقُضِيَ
     translation: surely, it (would have) been settled
     transliteration: laquḍiya
   20:
-    arabic: بَيۡنَهُمۡ​ؕ
+    arabic: بَيۡنَهُمۡۚ
     translation: between them
     transliteration: baynahum
   21:
-    arabic: وَ اِنَّ
+    arabic: وَإِنَّ
     translation: And indeed
     transliteration: wa-inna
   22:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   23:
-    arabic: اُوۡرِثُوا
+    arabic: أُورِثُواْ
     translation: were made to inherit
     transliteration: ūrithū
   24:
-    arabic: الۡكِتٰبَ
+    arabic: ٱلۡكِتَٰبَ
     translation: the Book
     transliteration: l-kitāba
   25:
-    arabic: مِنۡۢ
+    arabic: مِنۢ
     translation: after them
     transliteration: min
   26:
@@ -114,11 +114,11 @@ word_by_word:
     translation: after them
     transliteration: baʿdihim
   27:
-    arabic: لَفِىۡ
+    arabic: لَفِي
     translation: (are) surely in
     transliteration: lafī
   28:
-    arabic: شَكٍّ
+    arabic: شَكّٖ
     translation: doubt
     transliteration: shakkin
   29:
@@ -126,7 +126,7 @@ word_by_word:
     translation: 'concerning it '
     transliteration: min'hu
   30:
-    arabic: مُرِيۡبٍ‏
+    arabic: مُرِيبٖ
     translation: disquieting
     transliteration: murībin
 ---

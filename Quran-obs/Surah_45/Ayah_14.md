@@ -1,28 +1,28 @@
 ---
-arabic_ayat: قُلْ لِّلَّذِيۡنَ اٰمَنُوۡا يَغۡفِرُوۡا لِلَّذِيۡنَ لَا يَرۡجُوۡنَ اَيَّامَ
-  اللّٰهِ لِيَجۡزِىَ قَوۡمًۢا بِمَا كَانُوۡا يَكۡسِبُوۡنَ‏
+arabic_ayat: قُل لِّلَّذِينَ ءَامَنُواْ يَغۡفِرُواْ لِلَّذِينَ لَا يَرۡجُونَ أَيَّامَ
+  ٱللَّهِ لِيَجۡزِيَ قَوۡمَۢا بِمَا كَانُواْ يَكۡسِبُونَ
 sentence_translation: ˹O Prophet!˺ Tell the believers to forgive those who do not
   fear Allah’s days ˹of torment˺, so that He will reward each group for what they
   used to commit.
 word_by_word:
   1:
-    arabic: قُلْ
+    arabic: قُل
     translation: Say
     transliteration: qul
   2:
-    arabic: لِّلَّذِيۡنَ
+    arabic: لِّلَّذِينَ ءَ
     translation: to those who
     transliteration: lilladhīna
   3:
-    arabic: اٰمَنُوۡا
+    arabic: امَنُواْ
     translation: believe
     transliteration: āmanū
   4:
-    arabic: يَغۡفِرُوۡا
+    arabic: يَغۡفِرُواْ
     translation: (to) forgive
     transliteration: yaghfirū
   5:
-    arabic: لِلَّذِيۡنَ
+    arabic: لِلَّذِينَ
     translation: those who
     transliteration: lilladhīna
   6:
@@ -30,23 +30,23 @@ word_by_word:
     translation: (do) not
     transliteration: lā
   7:
-    arabic: يَرۡجُوۡنَ
+    arabic: يَرۡجُونَ
     translation: hope
     transliteration: yarjūna
   8:
-    arabic: اَيَّامَ
+    arabic: أَيَّامَ
     translation: (for the) days
     transliteration: ayyāma
   9:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (of) Allah
     transliteration: l-lahi
   10:
-    arabic: لِيَجۡزِىَ
+    arabic: لِيَجۡزِيَ
     translation: that He may recompense
     transliteration: liyajziya
   11:
-    arabic: قَوۡمًۢا
+    arabic: قَوۡمَۢا
     translation: a people
     transliteration: qawman
   12:
@@ -54,11 +54,11 @@ word_by_word:
     translation: for what
     transliteration: bimā
   13:
-    arabic: كَانُوۡا
+    arabic: كَانُواْ
     translation: they used to
     transliteration: kānū
   14:
-    arabic: يَكۡسِبُوۡنَ‏
+    arabic: يَكۡسِبُونَ
     translation: earn
     transliteration: yaksibūna
 ---

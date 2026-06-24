@@ -1,11 +1,11 @@
 ---
-arabic_ayat: اِذۡ قَالَ لِاَبِيۡهِ وَقَوۡمِهٖ مَا هٰذِهِ التَّمَاثِيۡلُ الَّتِىۡۤ
-  اَنۡتُمۡ لَهَا عٰكِفُوۡنَ‏
+arabic_ayat: إِذۡ قَالَ لِأَبِيهِ وَقَوۡمِهِۦ مَا هَٰذِهِ ٱلتَّمَاثِيلُ ٱلَّتِيٓ أَنتُمۡ
+  لَهَا عَٰكِفُونَ
 sentence_translation: ˹Remember˺ when he questioned his father and his people, “What
   are these statues to which you are so devoted?”
 word_by_word:
   1:
-    arabic: اِذۡ
+    arabic: إِذۡ
     translation: When
     transliteration: idh
   2:
@@ -13,11 +13,11 @@ word_by_word:
     translation: he said
     transliteration: qāla
   3:
-    arabic: لِاَبِيۡهِ
+    arabic: لِأَبِيهِ
     translation: to his father
     transliteration: li-abīhi
   4:
-    arabic: وَقَوۡمِهٖ
+    arabic: وَقَوۡمِهِۦ
     translation: and his people
     transliteration: waqawmihi
   5:
@@ -25,19 +25,19 @@ word_by_word:
     translation: What
     transliteration: mā
   6:
-    arabic: هٰذِهِ
+    arabic: هَٰذِهِ
     translation: (are) these
     transliteration: hādhihi
   7:
-    arabic: التَّمَاثِيۡلُ
+    arabic: ٱلتَّمَاثِيلُ
     translation: '[the] statues'
     transliteration: l-tamāthīlu
   8:
-    arabic: الَّتِىۡۤ
+    arabic: ٱلَّتِيٓ
     translation: which
     transliteration: allatī
   9:
-    arabic: اَنۡتُمۡ
+    arabic: أَنتُمۡ
     translation: you
     transliteration: antum
   10:
@@ -45,7 +45,7 @@ word_by_word:
     translation: to it
     transliteration: lahā
   11:
-    arabic: عٰكِفُوۡنَ‏
+    arabic: عَٰكِفُونَ
     translation: (are) devoted
     transliteration: ʿākifūna
 ---

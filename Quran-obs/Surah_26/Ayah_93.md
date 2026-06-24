@@ -1,17 +1,17 @@
 ---
-arabic_ayat: مِنۡ دُوۡنِ اللّٰهِؕ هَلۡ يَنۡصُرُوۡنَكُمۡ اَوۡ يَنۡتَصِرُوۡنَؕ‏
+arabic_ayat: مِن دُونِ ٱللَّهِ هَلۡ يَنصُرُونَكُمۡ أَوۡ يَنتَصِرُونَ
 sentence_translation: besides Allah? Can they help you or even help themselves?”
 word_by_word:
   1:
-    arabic: مِنۡ
+    arabic: مِن
     translation: Besides Allah
     transliteration: min
   2:
-    arabic: دُوۡنِ
+    arabic: دُونِ
     translation: Besides Allah
     transliteration: dūni
   3:
-    arabic: اللّٰهِؕ
+    arabic: ٱللَّهِ
     translation: Besides Allah
     transliteration: l-lahi
   4:
@@ -19,15 +19,15 @@ word_by_word:
     translation: Can
     transliteration: hal
   5:
-    arabic: يَنۡصُرُوۡنَكُمۡ
+    arabic: يَنصُرُونَكُمۡ
     translation: they help you
     transliteration: yanṣurūnakum
   6:
-    arabic: اَوۡ
+    arabic: أَوۡ
     translation: or
     transliteration: aw
   7:
-    arabic: يَنۡتَصِرُوۡنَؕ‏
+    arabic: يَنتَصِرُونَ
     translation: help themselves
     transliteration: yantaṣirūna
 ---

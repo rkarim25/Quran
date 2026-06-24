@@ -1,13 +1,13 @@
 ---
-arabic_ayat: الَّذِىۡ جَعَلَ لَـكُمُ الۡاَرۡضَ فِرَاشًا وَّالسَّمَآءَ بِنَآءً وَّاَنۡزَلَ
-  مِنَ السَّمَآءِ مَآءً فَاَخۡرَجَ بِهٖ مِنَ الثَّمَرٰتِ رِزۡقًا لَّـكُمۡ​ۚ فَلَا
-  تَجۡعَلُوۡا لِلّٰهِ اَنۡدَادًا وَّاَنۡـتُمۡ تَعۡلَمُوۡنَ ‏
+arabic_ayat: ٱلَّذِي جَعَلَ لَكُمُ ٱلۡأَرۡضَ فِرَٰشٗا وَٱلسَّمَآءَ بِنَآءٗ وَأَنزَلَ
+  مِنَ ٱلسَّمَآءِ مَآءٗ فَأَخۡرَجَ بِهِۦ مِنَ ٱلثَّمَرَٰتِ رِزۡقٗا لَّكُمۡۖ فَلَا
+  تَجۡعَلُواْ لِلَّهِ أَندَادٗا وَأَنتُمۡ تَعۡلَمُونَ
 sentence_translation: ˹He is the One˺ Who has made the earth a place of settlement
   for you and the sky a canopy; and sends down rain from the sky, causing fruits to
   grow as a provision for you. So do not knowingly set up equals to Allah ˹in worship˺.
 word_by_word:
   1:
-    arabic: الَّذِىۡ
+    arabic: ٱلَّذِي
     translation: The One Who
     transliteration: alladhī
   2:
@@ -15,27 +15,27 @@ word_by_word:
     translation: made
     transliteration: jaʿala
   3:
-    arabic: لَـكُمُ
+    arabic: لَكُمُ
     translation: for you
     transliteration: lakumu
   4:
-    arabic: الۡاَرۡضَ
+    arabic: ٱلۡأَرۡضَ
     translation: the earth
     transliteration: l-arḍa
   5:
-    arabic: فِرَاشًا
+    arabic: فِرَٰشٗا
     translation: a resting place
     transliteration: firāshan
   6:
-    arabic: وَّالسَّمَآءَ
+    arabic: وَٱلسَّمَآءَ
     translation: and the sky
     transliteration: wal-samāa
   7:
-    arabic: بِنَآءً
+    arabic: بِنَآءٗ
     translation: a canopy
     transliteration: bināan
   8:
-    arabic: وَّاَنۡزَلَ
+    arabic: وَأَنزَلَ
     translation: and sent down
     transliteration: wa-anzala
   9:
@@ -43,19 +43,19 @@ word_by_word:
     translation: from
     transliteration: mina
   10:
-    arabic: السَّمَآءِ
+    arabic: ٱلسَّمَآءِ
     translation: the sky
     transliteration: l-samāi
   11:
-    arabic: مَآءً
+    arabic: مَآءٗ
     translation: water
     transliteration: māan
   12:
-    arabic: فَاَخۡرَجَ
+    arabic: فَأَخۡرَجَ
     translation: then brought forth
     transliteration: fa-akhraja
   13:
-    arabic: بِهٖ
+    arabic: بِهِۦ
     translation: therewith
     transliteration: bihi
   14:
@@ -63,15 +63,15 @@ word_by_word:
     translation: '[of]'
     transliteration: mina
   15:
-    arabic: الثَّمَرٰتِ
+    arabic: ٱلثَّمَرَٰتِ
     translation: the fruits
     transliteration: l-thamarāti
   16:
-    arabic: رِزۡقًا
+    arabic: رِزۡقٗا
     translation: (as) provision
     transliteration: riz'qan
   17:
-    arabic: لَّـكُمۡ​ۚ
+    arabic: لَّكُمۡۖ
     translation: for you
     transliteration: lakum
   18:
@@ -79,23 +79,23 @@ word_by_word:
     translation: So (do) not
     transliteration: falā
   19:
-    arabic: تَجۡعَلُوۡا
+    arabic: تَجۡعَلُواْ
     translation: set up
     transliteration: tajʿalū
   20:
-    arabic: لِلّٰهِ
+    arabic: لِلَّهِ
     translation: to Allah
     transliteration: lillahi
   21:
-    arabic: اَنۡدَادًا
+    arabic: أَندَادٗا
     translation: rivals
     transliteration: andādan
   22:
-    arabic: وَّاَنۡـتُمۡ
+    arabic: وَأَنتُمۡ
     translation: while you
     transliteration: wa-antum
   23:
-    arabic: تَعۡلَمُوۡنَ ‏
+    arabic: تَعۡلَمُونَ
     translation: '[you] know'
     transliteration: taʿlamūna
 ---

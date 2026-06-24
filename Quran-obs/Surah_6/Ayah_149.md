@@ -1,6 +1,5 @@
 ---
-arabic_ayat: "قُلۡ فَلِلّٰهِ الۡحُجَّةُ الۡبَالِغَةُ​ ۚ فَلَوۡ شَآءَ لَهَدٰٮكُمۡ\
-  \ اَجۡمَعِيۡنَ‏ \uFEFF\uFEFF"
+arabic_ayat: قُلۡ فَلِلَّهِ ٱلۡحُجَّةُ ٱلۡبَٰلِغَةُۖ فَلَوۡ شَآءَ لَهَدَىٰكُمۡ أَجۡمَعِينَ
 sentence_translation: Say, “Allah has the most conclusive argument. Had it been His
   Will, He would have easily imposed guidance upon all of you.”
 word_by_word:
@@ -9,15 +8,15 @@ word_by_word:
     translation: Say
     transliteration: qul
   2:
-    arabic: فَلِلّٰهِ
+    arabic: فَلِلَّهِ
     translation: With Allah
     transliteration: falillahi
   3:
-    arabic: الۡحُجَّةُ
+    arabic: ٱلۡحُجَّةُ
     translation: '(is) the argument '
     transliteration: l-ḥujatu
   4:
-    arabic: الۡبَالِغَةُ​ ۚ
+    arabic: ٱلۡبَٰلِغَةُۖ
     translation: the conclusive
     transliteration: l-bālighatu
   5:
@@ -29,11 +28,11 @@ word_by_word:
     translation: He (had) willed
     transliteration: shāa
   7:
-    arabic: لَهَدٰٮكُمۡ
+    arabic: لَهَدَىٰكُمۡ
     translation: surely He (would) have guided you
     transliteration: lahadākum
   8:
-    arabic: "اَجۡمَعِيۡنَ‏ \uFEFF\uFEFF"
+    arabic: أَجۡمَعِينَ
     translation: all
     transliteration: ajmaʿīna
 ---

@@ -1,12 +1,12 @@
 ---
-arabic_ayat: وَلِلّٰهِ مَا فِى السَّمٰوٰتِ وَمَا فِى الۡاَرۡضِ​ؕ يَغۡفِرُ لِمَنۡ يَّشَآءُ
-  وَ يُعَذِّبُ مَنۡ يَّشَآءُ​ ؕ وَاللّٰهُ غَفُوۡرٌ رَّحِيۡمٌ‏
+arabic_ayat: وَلِلَّهِ مَا فِي ٱلسَّمَٰوَٰتِ وَمَا فِي ٱلۡأَرۡضِۚ يَغۡفِرُ لِمَن يَشَآءُ
+  وَيُعَذِّبُ مَن يَشَآءُۚ وَٱللَّهُ غَفُورٞ رَّحِيمٞ
 sentence_translation: To Allah ˹alone˺ belongs whatever is in the heavens and whatever
   is on the earth. He forgives whoever He wills, and punishes whoever He wills. And
   Allah is All-Forgiving, Most Merciful.
 word_by_word:
   1:
-    arabic: وَلِلّٰهِ
+    arabic: وَلِلَّهِ
     translation: And to Allah (belongs)
     transliteration: walillahi
   2:
@@ -14,11 +14,11 @@ word_by_word:
     translation: what
     transliteration: mā
   3:
-    arabic: فِى
+    arabic: فِي
     translation: (is) in
     transliteration: fī
   4:
-    arabic: السَّمٰوٰتِ
+    arabic: ٱلسَّمَٰوَٰتِ
     translation: the heavens
     transliteration: l-samāwāti
   5:
@@ -26,11 +26,11 @@ word_by_word:
     translation: and what
     transliteration: wamā
   6:
-    arabic: فِى
+    arabic: فِي
     translation: (is) in
     transliteration: fī
   7:
-    arabic: الۡاَرۡضِ​ؕ
+    arabic: ٱلۡأَرۡضِۚ
     translation: the earth
     transliteration: l-arḍi
   8:
@@ -38,11 +38,11 @@ word_by_word:
     translation: He forgives
     transliteration: yaghfiru
   9:
-    arabic: لِمَنۡ
+    arabic: لِمَن
     translation: '[for] whom'
     transliteration: liman
   10:
-    arabic: يَّشَآءُ وَ
+    arabic: يَشَآءُ وَ
     translation: He wills
     transliteration: yashāu
   11:
@@ -50,23 +50,23 @@ word_by_word:
     translation: and punishes
     transliteration: wayuʿadhibu
   12:
-    arabic: مَنۡ
+    arabic: مَن
     translation: whom
     transliteration: man
   13:
-    arabic: يَّشَآءُ​ ؕ
+    arabic: يَشَآءُۚ
     translation: He wills
     transliteration: yashāu
   14:
-    arabic: وَاللّٰهُ
+    arabic: وَٱللَّهُ
     translation: And Allah
     transliteration: wal-lahu
   15:
-    arabic: غَفُوۡرٌ
+    arabic: غَفُورٞ
     translation: (is) Oft-Forgiving
     transliteration: ghafūrun
   16:
-    arabic: رَّحِيۡمٌ‏
+    arabic: رَّحِيمٞ
     translation: Most Merciful
     transliteration: raḥīmun
 ---

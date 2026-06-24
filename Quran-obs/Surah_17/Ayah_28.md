@@ -1,12 +1,12 @@
 ---
-arabic_ayat: وَاِمَّا تُعۡرِضَنَّ عَنۡهُمُ ابۡتِغَآءَ رَحۡمَةٍ مِّنۡ رَّبِّكَ تَرۡجُوۡهَا
-  فَقُلْ لَّهُمۡ قَوۡلًا مَّيۡسُوۡرًا‏
+arabic_ayat: وَإِمَّا تُعۡرِضَنَّ عَنۡهُمُ ٱبۡتِغَآءَ رَحۡمَةٖ مِّن رَّبِّكَ تَرۡجُوهَا
+  فَقُل لَّهُمۡ قَوۡلٗا مَّيۡسُورٗا
 sentence_translation: But if you must turn them down ˹because you lack the means to
   give˺—while hoping to receive your Lord’s bounty—then ˹at least˺ give them a kind
   word.
 word_by_word:
   1:
-    arabic: وَاِمَّا
+    arabic: وَإِمَّا
     translation: And if
     transliteration: wa-immā
   2:
@@ -18,15 +18,15 @@ word_by_word:
     translation: from them
     transliteration: ʿanhumu
   4:
-    arabic: ابۡتِغَآءَ
+    arabic: ٱبۡتِغَآءَ
     translation: seeking
     transliteration: ib'tighāa
   5:
-    arabic: رَحۡمَةٍ
+    arabic: رَحۡمَةٖ
     translation: mercy
     transliteration: raḥmatin
   6:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: from
     transliteration: min
   7:
@@ -34,11 +34,11 @@ word_by_word:
     translation: your Lord
     transliteration: rabbika
   8:
-    arabic: تَرۡجُوۡهَا
+    arabic: تَرۡجُوهَا
     translation: which you expect
     transliteration: tarjūhā
   9:
-    arabic: فَقُلْ
+    arabic: فَقُل
     translation: then say
     transliteration: faqul
   10:
@@ -46,11 +46,11 @@ word_by_word:
     translation: to them
     transliteration: lahum
   11:
-    arabic: قَوۡلًا
+    arabic: قَوۡلٗا
     translation: a word
     transliteration: qawlan
   12:
-    arabic: مَّيۡسُوۡرًا‏
+    arabic: مَّيۡسُورٗا
     translation: gentle
     transliteration: maysūran
 ---

@@ -1,73 +1,73 @@
 ---
-arabic_ayat: وَالَّذِيۡنَ اِذَا فَعَلُوۡا فَاحِشَةً اَوۡ ظَلَمُوۡۤا اَنۡفُسَهُمۡ ذَكَرُوا
-  اللّٰهَ فَاسۡتَغۡفَرُوۡا لِذُنُوۡبِهِمۡ وَمَنۡ يَّغۡفِرُ الذُّنُوۡبَ اِلَّا اللّٰهُ
-   وَلَمۡ يُصِرُّوۡا عَلٰى مَا فَعَلُوۡا وَهُمۡ يَعۡلَمُوۡنَ‏
+arabic_ayat: وَٱلَّذِينَ إِذَا فَعَلُواْ فَٰحِشَةً أَوۡ ظَلَمُوٓاْ أَنفُسَهُمۡ ذَكَرُواْ
+  ٱللَّهَ فَٱسۡتَغۡفَرُواْ لِذُنُوبِهِمۡ وَمَن يَغۡفِرُ ٱلذُّنُوبَ إِلَّا ٱللَّهُ
+  وَلَمۡ يُصِرُّواْ عَلَىٰ مَا فَعَلُواْ وَهُمۡ يَعۡلَمُونَ
 sentence_translation: ˹They are˺ those who, upon committing an evil deed or wronging
   themselves, remember Allah and seek forgiveness and do not knowingly persist in
   sin—and who forgives sins except Allah?
 word_by_word:
   1:
-    arabic: وَالَّذِيۡنَ
+    arabic: وَٱلَّذِينَ
     translation: And those
     transliteration: wa-alladhīna
   2:
-    arabic: اِذَا
+    arabic: إِذَا
     translation: when
     transliteration: idhā
   3:
-    arabic: فَعَلُوۡا
+    arabic: فَعَلُواْ
     translation: they did
     transliteration: faʿalū
   4:
-    arabic: فَاحِشَةً
+    arabic: فَٰحِشَةً
     translation: immorality
     transliteration: fāḥishatan
   5:
-    arabic: اَوۡ
+    arabic: أَوۡ
     translation: or
     transliteration: aw
   6:
-    arabic: ظَلَمُوۡۤا
+    arabic: ظَلَمُوٓاْ
     translation: wronged
     transliteration: ẓalamū
   7:
-    arabic: اَنۡفُسَهُمۡ
+    arabic: أَنفُسَهُمۡ
     translation: 'themselves '
     transliteration: anfusahum
   8:
-    arabic: ذَكَرُوا
+    arabic: ذَكَرُواْ
     translation: they remember
     transliteration: dhakarū
   9:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   10:
-    arabic: فَاسۡتَغۡفَرُوۡا
+    arabic: فَٱسۡتَغۡفَرُواْ
     translation: then ask forgiveness
     transliteration: fa-is'taghfarū
   11:
-    arabic: لِذُنُوۡبِهِمۡ
+    arabic: لِذُنُوبِهِمۡ
     translation: 'for their sins '
     transliteration: lidhunūbihim
   12:
-    arabic: وَمَنۡ
+    arabic: وَمَن
     translation: and who
     transliteration: waman
   13:
-    arabic: يَّغۡفِرُ
+    arabic: يَغۡفِرُ
     translation: (can) forgive
     transliteration: yaghfiru
   14:
-    arabic: الذُّنُوۡبَ
+    arabic: ٱلذُّنُوبَ
     translation: the sins
     transliteration: l-dhunūba
   15:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   16:
-    arabic: اللّٰهُ 
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   17:
@@ -75,11 +75,11 @@ word_by_word:
     translation: And not
     transliteration: walam
   18:
-    arabic: يُصِرُّوۡا
+    arabic: يُصِرُّواْ
     translation: they persist
     transliteration: yuṣirrū
   19:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: 'on'
     transliteration: ʿalā
   20:
@@ -87,7 +87,7 @@ word_by_word:
     translation: what
     transliteration: mā
   21:
-    arabic: فَعَلُوۡا
+    arabic: فَعَلُواْ
     translation: they did
     transliteration: faʿalū
   22:
@@ -95,7 +95,7 @@ word_by_word:
     translation: while they
     transliteration: wahum
   23:
-    arabic: يَعۡلَمُوۡنَ‏
+    arabic: يَعۡلَمُونَ
     translation: know
     transliteration: yaʿlamūna
 ---

@@ -1,5 +1,5 @@
 ---
-arabic_ayat: وَلَقَدۡ اَنۡذَرَهُمۡ بَطۡشَتَـنَا فَتَمَارَوۡا بِالنُّذُرِ‏
+arabic_ayat: وَلَقَدۡ أَنذَرَهُم بَطۡشَتَنَا فَتَمَارَوۡاْ بِٱلنُّذُرِ
 sentence_translation: He had already warned them of Our ˹crushing˺ blow but they disputed
   the warnings.
 word_by_word:
@@ -8,19 +8,19 @@ word_by_word:
     translation: And certainly
     transliteration: walaqad
   2:
-    arabic: اَنۡذَرَهُمۡ
+    arabic: أَنذَرَهُم
     translation: he warned them
     transliteration: andharahum
   3:
-    arabic: بَطۡشَتَـنَا
+    arabic: بَطۡشَتَنَا
     translation: (of) Our seizure
     transliteration: baṭshatanā
   4:
-    arabic: فَتَمَارَوۡا
+    arabic: فَتَمَارَوۡاْ
     translation: but they disputed
     transliteration: fatamāraw
   5:
-    arabic: بِالنُّذُرِ‏
+    arabic: بِٱلنُّذُرِ
     translation: the warnings
     transliteration: bil-nudhuri
 ---

@@ -1,12 +1,12 @@
 ---
-arabic_ayat: اِنَّهٗ كَانَ فَرِيۡقٌ مِّنۡ عِبَادِىۡ يَقُوۡلُوۡنَ رَبَّنَاۤ اٰمَنَّا
-  فَاغۡفِرۡ لَـنَا وَارۡحَمۡنَا وَاَنۡتَ خَيۡرُ الرّٰحِمِيۡنَ​​ۖ​ۚ‏
+arabic_ayat: إِنَّهُۥ كَانَ فَرِيقٞ مِّنۡ عِبَادِي يَقُولُونَ رَبَّنَآ ءَامَنَّا
+  فَٱغۡفِرۡ لَنَا وَٱرۡحَمۡنَا وَأَنتَ خَيۡرُ ٱلرَّٰحِمِينَ
 sentence_translation: Indeed, there was a group of My servants who used to pray, ‘Our
   Lord! We have believed, so forgive us and have mercy on us, for You are the best
   of those who show mercy,’
 word_by_word:
   1:
-    arabic: اِنَّهٗ
+    arabic: إِنَّهُۥ
     translation: Indeed
     transliteration: innahu
   2:
@@ -14,7 +14,7 @@ word_by_word:
     translation: (there) was
     transliteration: kāna
   3:
-    arabic: فَرِيۡقٌ
+    arabic: فَرِيقٞ
     translation: a party
     transliteration: farīqun
   4:
@@ -22,35 +22,35 @@ word_by_word:
     translation: of
     transliteration: min
   5:
-    arabic: عِبَادِىۡ
+    arabic: عِبَادِي
     translation: My slaves
     transliteration: ʿibādī
   6:
-    arabic: يَقُوۡلُوۡنَ
+    arabic: يَقُولُونَ
     translation: (who) said
     transliteration: yaqūlūna
   7:
-    arabic: رَبَّنَاۤ
+    arabic: رَبَّنَآ ءَ
     translation: Our Lord
     transliteration: rabbanā
   8:
-    arabic: اٰمَنَّا
+    arabic: امَنَّا
     translation: We believe
     transliteration: āmannā
   9:
-    arabic: فَاغۡفِرۡ
+    arabic: فَٱغۡفِرۡ
     translation: so forgive
     transliteration: fa-igh'fir
   10:
-    arabic: لَـنَا
+    arabic: لَنَا
     translation: us
     transliteration: lanā
   11:
-    arabic: وَارۡحَمۡنَا
+    arabic: وَٱرۡحَمۡنَا
     translation: and have mercy on us
     transliteration: wa-ir'ḥamnā
   12:
-    arabic: وَاَنۡتَ
+    arabic: وَأَنتَ
     translation: and You
     transliteration: wa-anta
   13:
@@ -58,7 +58,7 @@ word_by_word:
     translation: (are) best
     transliteration: khayru
   14:
-    arabic: الرّٰحِمِيۡنَ​​ۖ​ۚ‏
+    arabic: ٱلرَّٰحِمِينَ
     translation: (of) those who show mercy
     transliteration: l-rāḥimīna
 ---

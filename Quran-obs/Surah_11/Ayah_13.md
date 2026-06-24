@@ -1,21 +1,20 @@
 ---
-arabic_ayat: اَمۡ يَقُوۡلُوۡنَ افۡتَـرٰٮهُ​ ؕ قُلۡ فَاۡتُوۡا بِعَشۡرِ سُوَرٍ مِّثۡلِهٖ
-  مُفۡتَرَيٰتٍ وَّ ادۡعُوۡا مَنِ اسۡتَطَعۡتُمۡ مِّنۡ دُوۡنِ اللّٰهِ اِنۡ كُنۡتُمۡ
-  صٰدِقِيۡنَ‏
+arabic_ayat: أَمۡ يَقُولُونَ ٱفۡتَرَىٰهُۖ قُلۡ فَأۡتُواْ بِعَشۡرِ سُوَرٖ مِّثۡلِهِۦ
+  مُفۡتَرَيَٰتٖ وَٱدۡعُواْ مَنِ ٱسۡتَطَعۡتُم مِّن دُونِ ٱللَّهِ إِن كُنتُمۡ صَٰدِقِينَ
 sentence_translation: Or do they say, “He has fabricated this ˹Quran˺!”? Say, ˹O Prophet,˺
   “Produce ten fabricated sûrahs like it and seek help from whoever you can—other
   than Allah—if what you say is true!”
 word_by_word:
   1:
-    arabic: اَمۡ
+    arabic: أَمۡ
     translation: Or
     transliteration: am
   2:
-    arabic: يَقُوۡلُوۡنَ
+    arabic: يَقُولُونَ
     translation: they say
     transliteration: yaqūlūna
   3:
-    arabic: افۡتَـرٰٮهُ​ ؕ
+    arabic: ٱفۡتَرَىٰهُۖ
     translation: He has fabricated it
     transliteration: if'tarāhu
   4:
@@ -23,7 +22,7 @@ word_by_word:
     translation: Say
     transliteration: qul
   5:
-    arabic: فَاۡتُوۡا
+    arabic: فَأۡتُواْ
     translation: Then bring
     transliteration: fatū
   6:
@@ -31,19 +30,19 @@ word_by_word:
     translation: ten
     transliteration: biʿashri
   7:
-    arabic: سُوَرٍ
+    arabic: سُوَرٖ
     translation: Surahs
     transliteration: suwarin
   8:
-    arabic: مِّثۡلِهٖ
+    arabic: مِّثۡلِهِۦ
     translation: like it
     transliteration: mith'lihi
   9:
-    arabic: مُفۡتَرَيٰتٍ
+    arabic: مُفۡتَرَيَٰتٖ
     translation: fabricated
     transliteration: muf'tarayātin
   10:
-    arabic: وَّ ادۡعُوۡا
+    arabic: وَٱدۡعُواْ
     translation: and call
     transliteration: wa-id'ʿū
   11:
@@ -51,31 +50,31 @@ word_by_word:
     translation: whoever
     transliteration: mani
   12:
-    arabic: اسۡتَطَعۡتُمۡ
+    arabic: ٱسۡتَطَعۡتُم
     translation: you can
     transliteration: is'taṭaʿtum
   13:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: besides Allah
     transliteration: min
   14:
-    arabic: دُوۡنِ
+    arabic: دُونِ
     translation: besides Allah
     transliteration: dūni
   15:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: besides Allah
     transliteration: l-lahi
   16:
-    arabic: اِنۡ
+    arabic: إِن
     translation: if
     transliteration: in
   17:
-    arabic: كُنۡتُمۡ
+    arabic: كُنتُمۡ
     translation: you are
     transliteration: kuntum
   18:
-    arabic: صٰدِقِيۡنَ‏
+    arabic: صَٰدِقِينَ
     translation: truthful
     transliteration: ṣādiqīna
 ---

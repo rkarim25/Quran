@@ -1,5 +1,5 @@
 ---
-arabic_ayat: فَضَرَبۡنَا عَلٰٓى اٰذَانِهِمۡ فِى الۡـكَهۡفِ سِنِيۡنَ عَدَدًا ۙ‏
+arabic_ayat: فَضَرَبۡنَا عَلَىٰٓ ءَاذَانِهِمۡ فِي ٱلۡكَهۡفِ سِنِينَ عَدَدٗا
 sentence_translation: So We caused them to fall into a dead sleep in the cave for
   many years,
 word_by_word:
@@ -8,27 +8,27 @@ word_by_word:
     translation: So We cast
     transliteration: faḍarabnā
   2:
-    arabic: عَلٰٓى
+    arabic: عَلَىٰٓ ءَ
     translation: over
     transliteration: ʿalā
   3:
-    arabic: اٰذَانِهِمۡ
+    arabic: اذَانِهِمۡ
     translation: their ears
     transliteration: ādhānihim
   4:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   5:
-    arabic: الۡـكَهۡفِ
+    arabic: ٱلۡكَهۡفِ
     translation: the cave
     transliteration: l-kahfi
   6:
-    arabic: سِنِيۡنَ
+    arabic: سِنِينَ
     translation: 'years '
     transliteration: sinīna
   7:
-    arabic: عَدَدًا ۙ‏
+    arabic: عَدَدٗا
     translation: a number
     transliteration: ʿadadan
 ---

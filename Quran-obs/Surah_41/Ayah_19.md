@@ -1,5 +1,5 @@
 ---
-arabic_ayat: وَيَوۡمَ يُحۡشَرُ اَعۡدَآءُ اللّٰهِ اِلَى النَّارِ فَهُمۡ يُوۡزَعُوۡنَ‏
+arabic_ayat: وَيَوۡمَ يُحۡشَرُ أَعۡدَآءُ ٱللَّهِ إِلَى ٱلنَّارِ فَهُمۡ يُوزَعُونَ
 sentence_translation: ˹Consider˺ the Day ˹when˺ the enemies of Allah will be gathered
   for the Fire, all driven in ranks.
 word_by_word:
@@ -12,19 +12,19 @@ word_by_word:
     translation: will be gathered
     transliteration: yuḥ'sharu
   3:
-    arabic: اَعۡدَآءُ
+    arabic: أَعۡدَآءُ
     translation: (the) enemies
     transliteration: aʿdāu
   4:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (of) Allah
     transliteration: l-lahi
   5:
-    arabic: اِلَى
+    arabic: إِلَى
     translation: to
     transliteration: ilā
   6:
-    arabic: النَّارِ
+    arabic: ٱلنَّارِ
     translation: the Fire
     transliteration: l-nāri
   7:
@@ -32,7 +32,7 @@ word_by_word:
     translation: then they
     transliteration: fahum
   8:
-    arabic: يُوۡزَعُوۡنَ‏
+    arabic: يُوزَعُونَ
     translation: will be assembled in rows
     transliteration: yūzaʿūna
 ---

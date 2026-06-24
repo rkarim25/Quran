@@ -1,13 +1,13 @@
 ---
-arabic_ayat: فَسَنُيَسِّرُهٗ لِلۡيُسۡرٰىؕ‏
+arabic_ayat: فَسَنُيَسِّرُهُۥ لِلۡيُسۡرَىٰ
 sentence_translation: We will facilitate for them the Way of Ease.
 word_by_word:
   1:
-    arabic: فَسَنُيَسِّرُهٗ
+    arabic: فَسَنُيَسِّرُهُۥ
     translation: Then We will ease him
     transliteration: fasanuyassiruhu
   2:
-    arabic: لِلۡيُسۡرٰىؕ‏
+    arabic: لِلۡيُسۡرَىٰ
     translation: towards [the] ease
     transliteration: lil'yus'rā
 ---

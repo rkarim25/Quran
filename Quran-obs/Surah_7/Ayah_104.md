@@ -1,31 +1,30 @@
 ---
-arabic_ayat: "وَ قَالَ مُوۡسٰى يٰفِرۡعَوۡنُ اِنِّىۡ رَسُوۡلٌ مِّنۡ رَّبِّ الۡعٰلَمِيۡنَۙ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: وَقَالَ مُوسَىٰ يَٰفِرۡعَوۡنُ إِنِّي رَسُولٞ مِّن رَّبِّ ٱلۡعَٰلَمِينَ
 sentence_translation: And Moses said, “O Pharaoh! I am truly a messenger from the
   Lord of all worlds,
 word_by_word:
   1:
-    arabic: وَ قَالَ
+    arabic: وَقَالَ
     translation: And said
     transliteration: waqāla
   2:
-    arabic: مُوۡسٰى
+    arabic: مُوسَىٰ
     translation: Musa
     transliteration: mūsā
   3:
-    arabic: يٰفِرۡعَوۡنُ
+    arabic: يَٰفِرۡعَوۡنُ
     translation: O Firaun
     transliteration: yāfir'ʿawnu
   4:
-    arabic: اِنِّىۡ
+    arabic: إِنِّي
     translation: Indeed, I am
     transliteration: innī
   5:
-    arabic: رَسُوۡلٌ
+    arabic: رَسُولٞ
     translation: a Messenger
     transliteration: rasūlun
   6:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: from
     transliteration: min
   7:
@@ -33,7 +32,7 @@ word_by_word:
     translation: (the) Lord
     transliteration: rabbi
   8:
-    arabic: "الۡعٰلَمِيۡنَۙ‏ \uFEFF\uFEFF"
+    arabic: ٱلۡعَٰلَمِينَ
     translation: (of) the worlds
     transliteration: l-ʿālamīna
 ---

@@ -1,9 +1,9 @@
 ---
-arabic_ayat: قَالَ فَمَا خَطۡبُكُمۡ اَيُّهَا الۡمُرۡسَلُوۡنَ‏
+arabic_ayat: ۞ قَالَ فَمَا خَطۡبُكُمۡ أَيُّهَا ٱلۡمُرۡسَلُونَ
 sentence_translation: ˹Later,˺ Abraham asked, “What is your mission, O  messengers?”
 word_by_word:
   1:
-    arabic: ۞ قَالَ
+    arabic: ۞ قَالَ
     translation: He said
     transliteration: qāla
   2:
@@ -15,11 +15,11 @@ word_by_word:
     translation: (is) your mission
     transliteration: khaṭbukum
   4:
-    arabic: اَيُّهَا
+    arabic: أَيُّهَا
     translation: O messengers
     transliteration: ayyuhā
   5:
-    arabic: الۡمُرۡسَلُوۡنَ‏
+    arabic: ٱلۡمُرۡسَلُونَ
     translation: O messengers
     transliteration: l-mur'salūna
 ---

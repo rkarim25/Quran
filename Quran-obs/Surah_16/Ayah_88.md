@@ -1,40 +1,40 @@
 ---
-arabic_ayat: اَ لَّذِيۡنَ كَفَرُوۡا وَصَدُّوۡا عَنۡ سَبِيۡلِ اللّٰهِ زِدۡنٰهُمۡ عَذَابًا
-  فَوۡقَ الۡعَذَابِ بِمَا كَانُوۡا يُفۡسِدُوۡنَ‏
+arabic_ayat: ٱلَّذِينَ كَفَرُواْ وَصَدُّواْ عَن سَبِيلِ ٱللَّهِ زِدۡنَٰهُمۡ عَذَابٗا
+  فَوۡقَ ٱلۡعَذَابِ بِمَا كَانُواْ يُفۡسِدُونَ
 sentence_translation: For those who disbelieve and hinder ˹others˺ from the Way of
   Allah, We will add more punishment to their punishment for all the corruption they
   spread.
 word_by_word:
   1:
-    arabic: اَ لَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: And those who
     transliteration: alladhīna
   2:
-    arabic: كَفَرُوۡا
+    arabic: كَفَرُواْ
     translation: disbelieved
     transliteration: kafarū
   3:
-    arabic: وَصَدُّوۡا
+    arabic: وَصَدُّواْ
     translation: and hindered
     transliteration: waṣaddū
   4:
-    arabic: عَنۡ
+    arabic: عَن
     translation: from
     transliteration: ʿan
   5:
-    arabic: سَبِيۡلِ
+    arabic: سَبِيلِ
     translation: (the) way
     transliteration: sabīli
   6:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (of) Allah
     transliteration: l-lahi
   7:
-    arabic: زِدۡنٰهُمۡ
+    arabic: زِدۡنَٰهُمۡ
     translation: We will increase them
     transliteration: zid'nāhum
   8:
-    arabic: عَذَابًا
+    arabic: عَذَابٗا
     translation: (in) punishment
     transliteration: ʿadhāban
   9:
@@ -42,7 +42,7 @@ word_by_word:
     translation: over
     transliteration: fawqa
   10:
-    arabic: الۡعَذَابِ
+    arabic: ٱلۡعَذَابِ
     translation: punishment
     transliteration: l-ʿadhābi
   11:
@@ -50,11 +50,11 @@ word_by_word:
     translation: because
     transliteration: bimā
   12:
-    arabic: كَانُوۡا
+    arabic: كَانُواْ
     translation: they used (to)
     transliteration: kānū
   13:
-    arabic: يُفۡسِدُوۡنَ‏
+    arabic: يُفۡسِدُونَ
     translation: spread corruption
     transliteration: yuf'sidūna
 ---

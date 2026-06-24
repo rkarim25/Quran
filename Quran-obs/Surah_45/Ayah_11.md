@@ -1,27 +1,27 @@
 ---
-arabic_ayat: هٰذَا هُدًى​ ​ۚ وَالَّذِيۡنَ كَفَرُوۡا بِاٰيٰتِ رَبِّهِمۡ لَهُمۡ عَذَابٌ
-  مِّنۡ رِّجۡزٍ اَلِيۡمٌ‏
+arabic_ayat: هَٰذَا هُدٗىۖ وَٱلَّذِينَ كَفَرُواْ بِـَٔايَٰتِ رَبِّهِمۡ لَهُمۡ عَذَابٞ
+  مِّن رِّجۡزٍ أَلِيمٌ
 sentence_translation: This ˹Quran˺ is ˹true˺ guidance. And those who deny their Lord’s
   revelations will suffer the ˹worst˺ torment of agonizing pain.
 word_by_word:
   1:
-    arabic: هٰذَا
+    arabic: هَٰذَا
     translation: This
     transliteration: hādhā
   2:
-    arabic: هُدًى​ ​ۚ
+    arabic: هُدٗىۖ
     translation: (is) guidance
     transliteration: hudan
   3:
-    arabic: وَالَّذِيۡنَ
+    arabic: وَٱلَّذِينَ
     translation: And those who
     transliteration: wa-alladhīna
   4:
-    arabic: كَفَرُوۡا
+    arabic: كَفَرُواْ
     translation: disbelieve
     transliteration: kafarū
   5:
-    arabic: بِاٰيٰتِ
+    arabic: بِـَٔايَٰتِ
     translation: in (the) Verses
     transliteration: biāyāti
   6:
@@ -33,11 +33,11 @@ word_by_word:
     translation: for them
     transliteration: lahum
   8:
-    arabic: عَذَابٌ
+    arabic: عَذَابٞ
     translation: (is) a punishment
     transliteration: ʿadhābun
   9:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: of
     transliteration: min
   10:
@@ -45,7 +45,7 @@ word_by_word:
     translation: filth
     transliteration: rij'zin
   11:
-    arabic: اَلِيۡمٌ‏
+    arabic: أَلِيمٌ
     translation: painful
     transliteration: alīmun
 ---

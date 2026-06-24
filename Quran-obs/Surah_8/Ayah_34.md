@@ -1,7 +1,7 @@
 ---
-arabic_ayat: وَمَا لَهُمۡ اَلَّا يُعَذِّبَهُمُ اللّٰهُ وَهُمۡ يَصُدُّوۡنَ عَنِ الۡمَسۡجِدِ
-  الۡحَـرَامِ وَمَا كَانُوۡۤا اَوۡلِيَآءَهٗ​ ؕ اِنۡ اَوۡلِيَآؤُهٗۤ اِلَّا الۡمُتَّقُوۡنَ
-  وَلٰـكِنَّ اَكۡثَرَهُمۡ لَا يَعۡلَمُوۡنَ‏
+arabic_ayat: وَمَا لَهُمۡ أَلَّا يُعَذِّبَهُمُ ٱللَّهُ وَهُمۡ يَصُدُّونَ عَنِ ٱلۡمَسۡجِدِ
+  ٱلۡحَرَامِ وَمَا كَانُوٓاْ أَوۡلِيَآءَهُۥٓۚ إِنۡ أَوۡلِيَآؤُهُۥٓ إِلَّا ٱلۡمُتَّقُونَ
+  وَلَٰكِنَّ أَكۡثَرَهُمۡ لَا يَعۡلَمُونَ
 sentence_translation: And why should Allah not punish them while they hinder pilgrims
   from the Sacred Mosque, claiming to be its rightful guardians? None has the right
   to guardianship except those mindful ˹of Allah˺, but most pagans do not know.
@@ -15,7 +15,7 @@ word_by_word:
     translation: (is) for them
     transliteration: lahum
   3:
-    arabic: اَلَّا
+    arabic: أَلَّا
     translation: that not
     transliteration: allā
   4:
@@ -23,7 +23,7 @@ word_by_word:
     translation: (should) punish them
     transliteration: yuʿadhibahumu
   5:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   6:
@@ -31,7 +31,7 @@ word_by_word:
     translation: while they
     transliteration: wahum
   7:
-    arabic: يَصُدُّوۡنَ
+    arabic: يَصُدُّونَ
     translation: hinder (people)
     transliteration: yaṣuddūna
   8:
@@ -39,11 +39,11 @@ word_by_word:
     translation: from
     transliteration: ʿani
   9:
-    arabic: الۡمَسۡجِدِ
+    arabic: ٱلۡمَسۡجِدِ
     translation: Al-Masjid
     transliteration: l-masjidi
   10:
-    arabic: الۡحَـرَامِ
+    arabic: ٱلۡحَرَامِ
     translation: Al-Haraam
     transliteration: l-ḥarāmi
   11:
@@ -51,35 +51,35 @@ word_by_word:
     translation: while not
     transliteration: wamā
   12:
-    arabic: كَانُوۡۤا
+    arabic: كَانُوٓاْ
     translation: they are
     transliteration: kānū
   13:
-    arabic: اَوۡلِيَآءَهٗ​ ؕ
+    arabic: أَوۡلِيَآءَهُۥٓۚ
     translation: its guardians
     transliteration: awliyāahu
   14:
-    arabic: اِنۡ
+    arabic: إِنۡ
     translation: Not (can be)
     transliteration: in
   15:
-    arabic: اَوۡلِيَآؤُهٗۤ
+    arabic: أَوۡلِيَآؤُهُۥٓ
     translation: its guardians
     transliteration: awliyāuhu
   16:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   17:
-    arabic: الۡمُتَّقُوۡنَ
+    arabic: ٱلۡمُتَّقُونَ
     translation: the ones who fear Allah
     transliteration: l-mutaqūna
   18:
-    arabic: وَلٰـكِنَّ
+    arabic: وَلَٰكِنَّ
     translation: but
     transliteration: walākinna
   19:
-    arabic: اَكۡثَرَهُمۡ
+    arabic: أَكۡثَرَهُمۡ
     translation: most of them
     transliteration: aktharahum
   20:
@@ -87,7 +87,7 @@ word_by_word:
     translation: (do) not
     transliteration: lā
   21:
-    arabic: يَعۡلَمُوۡنَ‏
+    arabic: يَعۡلَمُونَ
     translation: know
     transliteration: yaʿlamūna
 ---

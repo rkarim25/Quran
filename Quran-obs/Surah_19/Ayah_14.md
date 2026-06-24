@@ -1,13 +1,13 @@
 ---
-arabic_ayat: وَّبَرًّۢا بِوَالِدَيۡهِ وَلَمۡ يَكُنۡ جَبَّارًا عَصِيًّا‏
+arabic_ayat: وَبَرَّۢا بِوَٰلِدَيۡهِ وَلَمۡ يَكُن جَبَّارًا عَصِيّٗا
 sentence_translation: and kind to his parents. He was neither arrogant nor disobedient.
 word_by_word:
   1:
-    arabic: وَّبَرًّۢا
+    arabic: وَبَرَّۢا
     translation: And dutiful
     transliteration: wabarran
   2:
-    arabic: بِوَالِدَيۡهِ
+    arabic: بِوَٰلِدَيۡهِ
     translation: to his parents
     transliteration: biwālidayhi
   3:
@@ -15,7 +15,7 @@ word_by_word:
     translation: and not
     transliteration: walam
   4:
-    arabic: يَكُنۡ
+    arabic: يَكُن
     translation: he was
     transliteration: yakun
   5:
@@ -23,7 +23,7 @@ word_by_word:
     translation: a tyrant
     transliteration: jabbāran
   6:
-    arabic: عَصِيًّا‏
+    arabic: عَصِيّٗا
     translation: disobedient
     transliteration: ʿaṣiyyan
 ---

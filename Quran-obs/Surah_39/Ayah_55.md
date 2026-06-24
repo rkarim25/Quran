@@ -1,39 +1,39 @@
 ---
-arabic_ayat: وَاتَّبِعُوۡۤا اَحۡسَنَ مَاۤ اُنۡزِلَ اِلَيۡكُمۡ مِّنۡ رَّبِّكُمۡ مِّنۡ
-  قَبۡلِ اَنۡ يَّاۡتِيَكُمُ الۡعَذَابُ بَغۡتَةً وَّاَنۡتُمۡ لَا تَشۡعُرُوۡنَۙ‏
+arabic_ayat: وَٱتَّبِعُوٓاْ أَحۡسَنَ مَآ أُنزِلَ إِلَيۡكُم مِّن رَّبِّكُم مِّن قَبۡلِ
+  أَن يَأۡتِيَكُمُ ٱلۡعَذَابُ بَغۡتَةٗ وَأَنتُمۡ لَا تَشۡعُرُونَ
 sentence_translation: Follow ˹the Quran,˺ the best of what has been revealed to you
   from your Lord, before the punishment takes you by surprise while you are unaware,
 word_by_word:
   1:
-    arabic: وَاتَّبِعُوۡۤا
+    arabic: وَٱتَّبِعُوٓاْ
     translation: And follow
     transliteration: wa-ittabiʿū
   2:
-    arabic: اَحۡسَنَ
+    arabic: أَحۡسَنَ
     translation: (the) best
     transliteration: aḥsana
   3:
-    arabic: مَاۤ
+    arabic: مَآ
     translation: (of) what
     transliteration: mā
   4:
-    arabic: اُنۡزِلَ
+    arabic: أُنزِلَ
     translation: is revealed
     transliteration: unzila
   5:
-    arabic: اِلَيۡكُمۡ
+    arabic: إِلَيۡكُم
     translation: to you
     transliteration: ilaykum
   6:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: from
     transliteration: min
   7:
-    arabic: رَّبِّكُمۡ
+    arabic: رَّبِّكُم
     translation: your Lord
     transliteration: rabbikum
   8:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: before
     transliteration: min
   9:
@@ -41,23 +41,23 @@ word_by_word:
     translation: before
     transliteration: qabli
   10:
-    arabic: اَنۡ
+    arabic: أَن
     translation: '[that]'
     transliteration: an
   11:
-    arabic: يَّاۡتِيَكُمُ
+    arabic: يَأۡتِيَكُمُ
     translation: comes to you
     transliteration: yatiyakumu
   12:
-    arabic: الۡعَذَابُ
+    arabic: ٱلۡعَذَابُ
     translation: the punishment
     transliteration: l-ʿadhābu
   13:
-    arabic: بَغۡتَةً
+    arabic: بَغۡتَةٗ
     translation: suddenly
     transliteration: baghtatan
   14:
-    arabic: وَّاَنۡتُمۡ
+    arabic: وَأَنتُمۡ
     translation: while you
     transliteration: wa-antum
   15:
@@ -65,7 +65,7 @@ word_by_word:
     translation: (do) not
     transliteration: lā
   16:
-    arabic: تَشۡعُرُوۡنَۙ‏
+    arabic: تَشۡعُرُونَ
     translation: perceive
     transliteration: tashʿurūna
 ---

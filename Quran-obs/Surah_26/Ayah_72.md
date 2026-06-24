@@ -1,5 +1,5 @@
 ---
-arabic_ayat: قَالَ هَلۡ يَسۡمَعُوۡنَكُمۡ اِذۡ تَدۡعُوۡنَۙ‏
+arabic_ayat: قَالَ هَلۡ يَسۡمَعُونَكُمۡ إِذۡ تَدۡعُونَ
 sentence_translation: Abraham asked, “Can they hear you when you call upon them?
 word_by_word:
   1:
@@ -11,15 +11,15 @@ word_by_word:
     translation: Do
     transliteration: hal
   3:
-    arabic: يَسۡمَعُوۡنَكُمۡ
+    arabic: يَسۡمَعُونَكُمۡ
     translation: they hear you
     transliteration: yasmaʿūnakum
   4:
-    arabic: اِذۡ
+    arabic: إِذۡ
     translation: when
     transliteration: idh
   5:
-    arabic: تَدۡعُوۡنَۙ‏
+    arabic: تَدۡعُونَ
     translation: you call
     transliteration: tadʿūna
 ---

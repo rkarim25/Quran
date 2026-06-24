@@ -1,51 +1,51 @@
 ---
-arabic_ayat: اِنۡ يَّدۡعُوۡنَ مِنۡ دُوۡنِهٖۤ اِلَّاۤ اِنٰـثًـا​ ۚ وَاِنۡ يَّدۡعُوۡنَ
-  اِلَّا شَيۡـطٰنًا مَّرِيۡدًا ۙ‏
+arabic_ayat: إِن يَدۡعُونَ مِن دُونِهِۦٓ إِلَّآ إِنَٰثٗا وَإِن يَدۡعُونَ إِلَّا شَيۡطَٰنٗا
+  مَّرِيدٗا
 sentence_translation: Instead of Allah, they only invoke female gods and they ˹actually˺
   invoke none but a rebellious Satan—
 word_by_word:
   1:
-    arabic: اِنۡ
+    arabic: إِن
     translation: Not
     transliteration: in
   2:
-    arabic: يَّدۡعُوۡنَ
+    arabic: يَدۡعُونَ
     translation: they invoke
     transliteration: yadʿūna
   3:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   4:
-    arabic: دُوۡنِهٖۤ
+    arabic: دُونِهِۦٓ
     translation: besides Him
     transliteration: dūnihi
   5:
-    arabic: اِلَّاۤ
+    arabic: إِلَّآ
     translation: but
     transliteration: illā
   6:
-    arabic: اِنٰـثًـا​ ۚ
+    arabic: إِنَٰثٗا
     translation: female (deities)
     transliteration: ināthan
   7:
-    arabic: وَاِنۡ
+    arabic: وَإِن
     translation: and not
     transliteration: wa-in
   8:
-    arabic: يَّدۡعُوۡنَ
+    arabic: يَدۡعُونَ
     translation: they invoke
     transliteration: yadʿūna
   9:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   10:
-    arabic: شَيۡـطٰنًا
+    arabic: شَيۡطَٰنٗا
     translation: 'Shaitaan '
     transliteration: shayṭānan
   11:
-    arabic: مَّرِيۡدًا ۙ‏
+    arabic: مَّرِيدٗا
     translation: rebellious
     transliteration: marīdan
 ---

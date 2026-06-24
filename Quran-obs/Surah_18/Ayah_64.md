@@ -1,6 +1,5 @@
 ---
-arabic_ayat: قَالَ ذٰ لِكَ مَا كُنَّا نَبۡغِ ​​ۖ  فَارۡتَدَّا عَلٰٓى اٰثَارِهِمَا
-  قَصَصًا ۙ‏
+arabic_ayat: قَالَ ذَٰلِكَ مَا كُنَّا نَبۡغِۚ فَٱرۡتَدَّا عَلَىٰٓ ءَاثَارِهِمَا قَصَصٗا
 sentence_translation: Moses responded, “That is ˹exactly˺ what we were looking for.” So
   they returned, retracing their footsteps.
 word_by_word:
@@ -9,7 +8,7 @@ word_by_word:
     translation: He said
     transliteration: qāla
   2:
-    arabic: ذٰ لِكَ
+    arabic: ذَٰلِكَ
     translation: That
     transliteration: dhālika
   3:
@@ -21,23 +20,23 @@ word_by_word:
     translation: we were
     transliteration: kunnā
   5:
-    arabic: نَبۡغِ ​​ۖ 
+    arabic: نَبۡغِۚ
     translation: seeking
     transliteration: nabghi
   6:
-    arabic: فَارۡتَدَّا
+    arabic: فَٱرۡتَدَّا
     translation: So they returned
     transliteration: fa-ir'taddā
   7:
-    arabic: عَلٰٓى
+    arabic: عَلَىٰٓ ءَ
     translation: 'on'
     transliteration: ʿalā
   8:
-    arabic: اٰثَارِهِمَا
+    arabic: اثَارِهِمَا
     translation: their footprints
     transliteration: āthārihimā
   9:
-    arabic: قَصَصًا ۙ‏
+    arabic: قَصَصٗا
     translation: retracing
     transliteration: qaṣaṣan
 ---

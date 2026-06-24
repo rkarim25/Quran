@@ -1,13 +1,13 @@
 ---
-arabic_ayat: نٓ​ وَالۡقَلَمِ وَمَا يَسۡطُرُوۡنَۙ‏
+arabic_ayat: نٓۚ وَٱلۡقَلَمِ وَمَا يَسۡطُرُونَ
 sentence_translation: Nũn. By the pen and what everyone writes!
 word_by_word:
   1:
-    arabic: نٓ​
+    arabic: نٓۚ
     translation: Nun
     transliteration: noon
   2:
-    arabic: وَالۡقَلَمِ
+    arabic: وَٱلۡقَلَمِ
     translation: By the pen
     transliteration: wal-qalami
   3:
@@ -15,7 +15,7 @@ word_by_word:
     translation: and what
     transliteration: wamā
   4:
-    arabic: يَسۡطُرُوۡنَۙ‏
+    arabic: يَسۡطُرُونَ
     translation: they write
     transliteration: yasṭurūna
 ---

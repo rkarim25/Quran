@@ -1,13 +1,12 @@
 ---
-arabic_ayat: "اِنِّىۡ تَوَكَّلۡتُ عَلَى اللّٰهِ رَبِّىۡ وَرَبِّكُمۡ ​ؕ مَا مِنۡ دَآبَّةٍ\
-  \ اِلَّا هُوَ اٰخِذٌ ۢ بِنَاصِيَتِهَا ؕ اِنَّ رَبِّىۡ عَلٰى صِرَاطٍ مُّسۡتَقِيۡمٍ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: إِنِّي تَوَكَّلۡتُ عَلَى ٱللَّهِ رَبِّي وَرَبِّكُمۚ مَّا مِن دَآبَّةٍ
+  إِلَّا هُوَ ءَاخِذُۢ بِنَاصِيَتِهَآۚ إِنَّ رَبِّي عَلَىٰ صِرَٰطٖ مُّسۡتَقِيمٖ
 sentence_translation: I have put my trust in Allah—my Lord and your Lord. There is
   no living creature that is not completely under His control. Surely my Lord’s Way
   is perfect justice.
 word_by_word:
   1:
-    arabic: اِنِّىۡ
+    arabic: إِنِّي
     translation: Indeed, I
     transliteration: innī
   2:
@@ -19,23 +18,23 @@ word_by_word:
     translation: upon
     transliteration: ʿalā
   4:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   5:
-    arabic: رَبِّىۡ
+    arabic: رَبِّي
     translation: my Lord
     transliteration: rabbī
   6:
-    arabic: وَرَبِّكُمۡ ​ؕ
+    arabic: وَرَبِّكُمۚ
     translation: and your Lord
     transliteration: warabbikum
   7:
-    arabic: مَا
+    arabic: مَّا
     translation: (There is) not
     transliteration: mā
   8:
-    arabic: مِنۡ
+    arabic: مِن
     translation: of a moving creature
     transliteration: min
   9:
@@ -43,39 +42,39 @@ word_by_word:
     translation: of a moving creature
     transliteration: dābbatin
   10:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: but
     transliteration: illā
   11:
-    arabic: هُوَ
+    arabic: هُوَ ءَ
     translation: He
     transliteration: huwa
   12:
-    arabic: اٰخِذٌ ۢ
+    arabic: اخِذُۢ
     translation: has grasp
     transliteration: ākhidhun
   13:
-    arabic: بِنَاصِيَتِهَا ؕ
+    arabic: بِنَاصِيَتِهَآۚ
     translation: of its forelock
     transliteration: bināṣiyatihā
   14:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   15:
-    arabic: رَبِّىۡ
+    arabic: رَبِّي
     translation: my Lord
     transliteration: rabbī
   16:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: (is) on
     transliteration: ʿalā
   17:
-    arabic: صِرَاطٍ
+    arabic: صِرَٰطٖ
     translation: a path
     transliteration: ṣirāṭin
   18:
-    arabic: "مُّسۡتَقِيۡمٍ‏ \uFEFF\uFEFF"
+    arabic: مُّسۡتَقِيمٖ
     translation: straight
     transliteration: mus'taqīmin
 ---

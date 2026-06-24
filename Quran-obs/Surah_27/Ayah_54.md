@@ -1,15 +1,14 @@
 ---
-arabic_ayat: "وَلُوۡطًا اِذۡ قَالَ لِقَوۡمِهٖۤ اَتَاۡتُوۡنَ الۡـفَاحِشَةَ وَاَنۡـتُمۡ\
-  \ تُبۡصِرُوۡنَ‏ \uFEFF\uFEFF"
+arabic_ayat: وَلُوطًا إِذۡ قَالَ لِقَوۡمِهِۦٓ أَتَأۡتُونَ ٱلۡفَٰحِشَةَ وَأَنتُمۡ تُبۡصِرُونَ
 sentence_translation: And ˹remember˺ Lot, when he rebuked ˹the men of˺ his people,
   “Do you commit that shameful deed while you can see ˹one another˺?
 word_by_word:
   1:
-    arabic: وَلُوۡطًا
+    arabic: وَلُوطًا
     translation: And Lut
     transliteration: walūṭan
   2:
-    arabic: اِذۡ
+    arabic: إِذۡ
     translation: when
     transliteration: idh
   3:
@@ -17,23 +16,23 @@ word_by_word:
     translation: he said
     transliteration: qāla
   4:
-    arabic: لِقَوۡمِهٖۤ
+    arabic: لِقَوۡمِهِۦٓ
     translation: to his people
     transliteration: liqawmihi
   5:
-    arabic: اَتَاۡتُوۡنَ
+    arabic: أَتَأۡتُونَ
     translation: Do you commit
     transliteration: atatūna
   6:
-    arabic: الۡـفَاحِشَةَ
+    arabic: ٱلۡفَٰحِشَةَ
     translation: '[the] immorality'
     transliteration: l-fāḥishata
   7:
-    arabic: وَاَنۡـتُمۡ
+    arabic: وَأَنتُمۡ
     translation: while you
     transliteration: wa-antum
   8:
-    arabic: "تُبۡصِرُوۡنَ‏ \uFEFF\uFEFF"
+    arabic: تُبۡصِرُونَ
     translation: see
     transliteration: tub'ṣirūna
 ---

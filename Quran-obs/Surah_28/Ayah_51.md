@@ -1,10 +1,10 @@
 ---
-arabic_ayat: وَلَقَدۡ وَصَّلۡنَا لَهُمُ الۡقَوۡلَ لَعَلَّهُمۡ يَتَذَكَّرُوۡنَؕ‏
+arabic_ayat: ۞ وَلَقَدۡ وَصَّلۡنَا لَهُمُ ٱلۡقَوۡلَ لَعَلَّهُمۡ يَتَذَكَّرُونَ
 sentence_translation: Indeed, We have steadily delivered the Word ˹of Allah˺ to the
   people so they may be mindful.
 word_by_word:
   1:
-    arabic: ۞ وَلَقَدۡ
+    arabic: ۞ وَلَقَدۡ
     translation: And indeed
     transliteration: walaqad
   2:
@@ -16,7 +16,7 @@ word_by_word:
     translation: to them
     transliteration: lahumu
   4:
-    arabic: الۡقَوۡلَ
+    arabic: ٱلۡقَوۡلَ
     translation: the Word
     transliteration: l-qawla
   5:
@@ -24,7 +24,7 @@ word_by_word:
     translation: so that they may
     transliteration: laʿallahum
   6:
-    arabic: يَتَذَكَّرُوۡنَؕ‏
+    arabic: يَتَذَكَّرُونَ
     translation: remember
     transliteration: yatadhakkarūna
 ---

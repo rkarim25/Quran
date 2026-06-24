@@ -1,13 +1,13 @@
 ---
-arabic_ayat: وَالَّذِيۡنَ هُمۡ مِّنۡ عَذَابِ رَبِّهِمۡ مُّشۡفِقُوۡنَ​ۚ‏
+arabic_ayat: وَٱلَّذِينَ هُم مِّنۡ عَذَابِ رَبِّهِم مُّشۡفِقُونَ
 sentence_translation: and those who fear the punishment of their Lord—
 word_by_word:
   1:
-    arabic: وَالَّذِيۡنَ
+    arabic: وَٱلَّذِينَ
     translation: And those who
     transliteration: wa-alladhīna
   2:
-    arabic: هُمۡ
+    arabic: هُم
     translation: '[they]'
     transliteration: hum
   3:
@@ -19,11 +19,11 @@ word_by_word:
     translation: (the) punishment
     transliteration: ʿadhābi
   5:
-    arabic: رَبِّهِمۡ
+    arabic: رَبِّهِم
     translation: (of) their Lord
     transliteration: rabbihim
   6:
-    arabic: مُّشۡفِقُوۡنَ​ۚ‏
+    arabic: مُّشۡفِقُونَ
     translation: '(are) fearful '
     transliteration: mush'fiqūna
 ---

@@ -1,20 +1,20 @@
 ---
-arabic_ayat: وَالَّذِيۡنَ كَذَّبُوۡا بِاٰيٰتِنَا وَلِقَآءِ الۡاٰخِرَةِ حَبِطَتۡ اَعۡمَالُهُمۡ​ؕ
-  هَلۡ يُجۡزَوۡنَ اِلَّا مَا كَانُوۡا يَعۡمَلُوۡنَ‏
+arabic_ayat: وَٱلَّذِينَ كَذَّبُواْ بِـَٔايَٰتِنَا وَلِقَآءِ ٱلۡأٓخِرَةِ حَبِطَتۡ
+  أَعۡمَٰلُهُمۡۚ هَلۡ يُجۡزَوۡنَ إِلَّا مَا كَانُواْ يَعۡمَلُونَ
 sentence_translation: The deeds of those who deny Our signs and the meeting ˹with
   Allah˺ in the Hereafter will be in vain. Will they be rewarded except for what they
   have done?”
 word_by_word:
   1:
-    arabic: وَالَّذِيۡنَ
+    arabic: وَٱلَّذِينَ
     translation: And those who
     transliteration: wa-alladhīna
   2:
-    arabic: كَذَّبُوۡا
+    arabic: كَذَّبُواْ
     translation: denied
     transliteration: kadhabū
   3:
-    arabic: بِاٰيٰتِنَا
+    arabic: بِـَٔايَٰتِنَا
     translation: Our Signs
     transliteration: biāyātinā
   4:
@@ -22,7 +22,7 @@ word_by_word:
     translation: and (the) meeting
     transliteration: waliqāi
   5:
-    arabic: الۡاٰخِرَةِ
+    arabic: ٱلۡأٓخِرَةِ
     translation: '(of) the Hereafter '
     transliteration: l-ākhirati
   6:
@@ -30,7 +30,7 @@ word_by_word:
     translation: worthless
     transliteration: ḥabiṭat
   7:
-    arabic: اَعۡمَالُهُمۡ​ؕ
+    arabic: أَعۡمَٰلُهُمۡۚ
     translation: (are) their deeds
     transliteration: aʿmāluhum
   8:
@@ -42,7 +42,7 @@ word_by_word:
     translation: they be recompensed
     transliteration: yuj'zawna
   10:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   11:
@@ -50,11 +50,11 @@ word_by_word:
     translation: (for) what
     transliteration: mā
   12:
-    arabic: كَانُوۡا
+    arabic: كَانُواْ
     translation: they used to
     transliteration: kānū
   13:
-    arabic: يَعۡمَلُوۡنَ‏
+    arabic: يَعۡمَلُونَ
     translation: do
     transliteration: yaʿmalūna
 ---

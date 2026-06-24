@@ -1,13 +1,12 @@
 ---
-arabic_ayat: "فَاِنۡ لَّمۡ تَفۡعَلُوۡا فَاۡذَنُوۡا بِحَرۡبٍ مِّنَ اللّٰهِ وَرَسُوۡلِهٖ​ۚ\
-  \ وَاِنۡ تُبۡتُمۡ فَلَـكُمۡ رُءُوۡسُ اَمۡوَالِكُمۡ​ۚ لَا تَظۡلِمُوۡنَ وَلَا تُظۡلَمُوۡنَ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: فَإِن لَّمۡ تَفۡعَلُواْ فَأۡذَنُواْ بِحَرۡبٖ مِّنَ ٱللَّهِ وَرَسُولِهِۦۖ
+  وَإِن تُبۡتُمۡ فَلَكُمۡ رُءُوسُ أَمۡوَٰلِكُمۡ لَا تَظۡلِمُونَ وَلَا تُظۡلَمُونَ
 sentence_translation: If you do not, then beware of a war with Allah and His Messenger!
   But if you repent, you may retain your principal—neither inflicting nor suffering
   harm.
 word_by_word:
   1:
-    arabic: فَاِنۡ
+    arabic: فَإِن
     translation: And if
     transliteration: fa-in
   2:
@@ -15,15 +14,15 @@ word_by_word:
     translation: not
     transliteration: lam
   3:
-    arabic: تَفۡعَلُوۡا
+    arabic: تَفۡعَلُواْ
     translation: you do
     transliteration: tafʿalū
   4:
-    arabic: فَاۡذَنُوۡا
+    arabic: فَأۡذَنُواْ
     translation: then be informed
     transliteration: fadhanū
   5:
-    arabic: بِحَرۡبٍ
+    arabic: بِحَرۡبٖ
     translation: of a war
     transliteration: biḥarbin
   6:
@@ -31,15 +30,15 @@ word_by_word:
     translation: from
     transliteration: mina
   7:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   8:
-    arabic: وَرَسُوۡلِهٖ​ۚ
+    arabic: وَرَسُولِهِۦۖ
     translation: and His Messenger
     transliteration: warasūlihi
   9:
-    arabic: وَاِنۡ
+    arabic: وَإِن
     translation: And if
     transliteration: wa-in
   10:
@@ -47,15 +46,15 @@ word_by_word:
     translation: you repent
     transliteration: tub'tum
   11:
-    arabic: فَلَـكُمۡ
+    arabic: فَلَكُمۡ
     translation: then for you
     transliteration: falakum
   12:
-    arabic: رُءُوۡسُ
+    arabic: رُءُوسُ
     translation: (is)
     transliteration: ruūsu
   13:
-    arabic: اَمۡوَالِكُمۡ​ۚ
+    arabic: أَمۡوَٰلِكُمۡ
     translation: 'your capital '
     transliteration: amwālikum
   14:
@@ -63,7 +62,7 @@ word_by_word:
     translation: (do) not
     transliteration: lā
   15:
-    arabic: تَظۡلِمُوۡنَ
+    arabic: تَظۡلِمُونَ
     translation: wrong
     transliteration: taẓlimūna
   16:
@@ -71,7 +70,7 @@ word_by_word:
     translation: and not
     transliteration: walā
   17:
-    arabic: "تُظۡلَمُوۡنَ‏ \uFEFF\uFEFF"
+    arabic: تُظۡلَمُونَ
     translation: you will be wronged
     transliteration: tuẓ'lamūna
 ---

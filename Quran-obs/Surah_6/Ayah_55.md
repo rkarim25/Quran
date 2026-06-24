@@ -1,11 +1,10 @@
 ---
-arabic_ayat: "وَكَذٰلِكَ نُفَصِّلُ الۡاٰيٰتِ وَلِتَسۡتَبِيۡنَ سَبِيۡلُ الۡمُجۡرِمِيۡنَ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: وَكَذَٰلِكَ نُفَصِّلُ ٱلۡأٓيَٰتِ وَلِتَسۡتَبِينَ سَبِيلُ ٱلۡمُجۡرِمِينَ
 sentence_translation: This is how We make Our signs clear, so the way of the wicked
   may become distinct.
 word_by_word:
   1:
-    arabic: وَكَذٰلِكَ
+    arabic: وَكَذَٰلِكَ
     translation: And thus
     transliteration: wakadhālika
   2:
@@ -13,19 +12,19 @@ word_by_word:
     translation: We explain
     transliteration: nufaṣṣilu
   3:
-    arabic: الۡاٰيٰتِ
+    arabic: ٱلۡأٓيَٰتِ
     translation: the Verses
     transliteration: l-āyāti
   4:
-    arabic: وَلِتَسۡتَبِيۡنَ
+    arabic: وَلِتَسۡتَبِينَ
     translation: so that becomes manifest
     transliteration: walitastabīna
   5:
-    arabic: سَبِيۡلُ
+    arabic: سَبِيلُ
     translation: (the) way
     transliteration: sabīlu
   6:
-    arabic: "الۡمُجۡرِمِيۡنَ‏ \uFEFF\uFEFF"
+    arabic: ٱلۡمُجۡرِمِينَ
     translation: (of) the criminals
     transliteration: l-muj'rimīna
 ---

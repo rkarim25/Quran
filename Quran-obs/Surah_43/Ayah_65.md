@@ -1,35 +1,35 @@
 ---
-arabic_ayat: فَاخۡتَلَفَ الۡاَحۡزَابُ مِنۡۢ بَيۡنِهِمۡ​ۚ فَوَيۡلٌ لِّلَّذِيۡنَ ظَلَمُوۡا
-  مِنۡ عَذَابِ يَوۡمٍ اَلِيۡمٍ‏
+arabic_ayat: فَٱخۡتَلَفَ ٱلۡأَحۡزَابُ مِنۢ بَيۡنِهِمۡۖ فَوَيۡلٞ لِّلَّذِينَ ظَلَمُواْ
+  مِنۡ عَذَابِ يَوۡمٍ أَلِيمٍ
 sentence_translation: Yet their ˹various˺ groups have differed among themselves ˹about
   him˺, so woe to the wrongdoers when they face the torment of a painful Day!
 word_by_word:
   1:
-    arabic: فَاخۡتَلَفَ
+    arabic: فَٱخۡتَلَفَ
     translation: But differed
     transliteration: fa-ikh'talafa
   2:
-    arabic: الۡاَحۡزَابُ
+    arabic: ٱلۡأَحۡزَابُ
     translation: the factions
     transliteration: l-aḥzābu
   3:
-    arabic: مِنۡۢ
+    arabic: مِنۢ
     translation: from
     transliteration: min
   4:
-    arabic: بَيۡنِهِمۡ​ۚ
+    arabic: بَيۡنِهِمۡۖ
     translation: among them
     transliteration: baynihim
   5:
-    arabic: فَوَيۡلٌ
+    arabic: فَوَيۡلٞ
     translation: so woe
     transliteration: fawaylun
   6:
-    arabic: لِّلَّذِيۡنَ
+    arabic: لِّلَّذِينَ
     translation: to those who
     transliteration: lilladhīna
   7:
-    arabic: ظَلَمُوۡا
+    arabic: ظَلَمُواْ
     translation: wronged
     transliteration: ẓalamū
   8:
@@ -45,7 +45,7 @@ word_by_word:
     translation: (of the) Day
     transliteration: yawmin
   11:
-    arabic: اَلِيۡمٍ‏
+    arabic: أَلِيمٍ
     translation: painful
     transliteration: alīmin
 ---

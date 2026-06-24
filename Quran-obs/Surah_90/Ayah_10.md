@@ -1,13 +1,13 @@
 ---
-arabic_ayat: وَهَدَيۡنٰهُ النَّجۡدَيۡنِ​ۚ‏
+arabic_ayat: وَهَدَيۡنَٰهُ ٱلنَّجۡدَيۡنِ
 sentence_translation: and shown them the two ways ˹of right and wrong˺?
 word_by_word:
   1:
-    arabic: وَهَدَيۡنٰهُ
+    arabic: وَهَدَيۡنَٰهُ
     translation: And shown him
     transliteration: wahadaynāhu
   2:
-    arabic: النَّجۡدَيۡنِ​ۚ‏
+    arabic: ٱلنَّجۡدَيۡنِ
     translation: the two ways
     transliteration: l-najdayni
 ---

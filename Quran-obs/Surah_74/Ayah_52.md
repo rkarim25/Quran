@@ -1,6 +1,5 @@
 ---
-arabic_ayat: "بَلۡ يُرِيۡدُ كُلُّ امۡرِىٴٍ مِّنۡهُمۡ اَنۡ يُّؤۡتٰى صُحُفًا مُّنَشَّرَةً ۙ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: بَلۡ يُرِيدُ كُلُّ ٱمۡرِيٕٖ مِّنۡهُمۡ أَن يُؤۡتَىٰ صُحُفٗا مُّنَشَّرَةٗ
 sentence_translation: In fact, each one of them wishes to be given a ˹personal˺ letter
   ˹from Allah˺ for all ˹to read˺.
 word_by_word:
@@ -9,7 +8,7 @@ word_by_word:
     translation: Nay
     transliteration: bal
   2:
-    arabic: يُرِيۡدُ
+    arabic: يُرِيدُ
     translation: Desires
     transliteration: yurīdu
   3:
@@ -17,7 +16,7 @@ word_by_word:
     translation: every
     transliteration: kullu
   4:
-    arabic: امۡرِىٴٍ
+    arabic: ٱمۡرِيٕٖ
     translation: person
     transliteration: im'ri-in
   5:
@@ -25,19 +24,19 @@ word_by_word:
     translation: of them
     transliteration: min'hum
   6:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that
     transliteration: an
   7:
-    arabic: يُّؤۡتٰى
+    arabic: يُؤۡتَىٰ
     translation: he may be given
     transliteration: yu'tā
   8:
-    arabic: صُحُفًا
+    arabic: صُحُفٗا
     translation: pages
     transliteration: ṣuḥufan
   9:
-    arabic: "مُّنَشَّرَةً ۙ‏ \uFEFF\uFEFF"
+    arabic: مُّنَشَّرَةٗ
     translation: spread out
     transliteration: munasharatan
 ---

@@ -1,11 +1,11 @@
 ---
-arabic_ayat: وَلَهٗ مَا فِى السَّمٰوٰتِ وَ الۡاَرۡضِ وَلَهُ الدِّيۡنُ وَاصِبًا​ ؕ
-  اَفَغَيۡرَ اللّٰهِ تَـتَّـقُوۡنَ‏
+arabic_ayat: وَلَهُۥ مَا فِي ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِ وَلَهُ ٱلدِّينُ وَاصِبًاۚ أَفَغَيۡرَ
+  ٱللَّهِ تَتَّقُونَ
 sentence_translation: To Him belongs whatever is in the heavens and the earth, and
   to Him ˹alone˺ is the everlasting devotion. Will you then fear any other than Allah?
 word_by_word:
   1:
-    arabic: وَلَهٗ
+    arabic: وَلَهُۥ
     translation: And to Him (belongs)
     transliteration: walahu
   2:
@@ -13,15 +13,15 @@ word_by_word:
     translation: whatever
     transliteration: mā
   3:
-    arabic: فِى
+    arabic: فِي
     translation: (is) in
     transliteration: fī
   4:
-    arabic: السَّمٰوٰتِ
+    arabic: ٱلسَّمَٰوَٰتِ
     translation: the heavens
     transliteration: l-samāwāti
   5:
-    arabic: وَ الۡاَرۡضِ
+    arabic: وَٱلۡأَرۡضِ
     translation: and the earth
     transliteration: wal-arḍi
   6:
@@ -29,23 +29,23 @@ word_by_word:
     translation: and to Him
     transliteration: walahu
   7:
-    arabic: الدِّيۡنُ
+    arabic: ٱلدِّينُ
     translation: (is due) the worship
     transliteration: l-dīnu
   8:
-    arabic: وَاصِبًا​ ؕ
+    arabic: وَاصِبًاۚ
     translation: constantly
     transliteration: wāṣiban
   9:
-    arabic: اَفَغَيۡرَ
+    arabic: أَفَغَيۡرَ
     translation: Then is it other (than)
     transliteration: afaghayra
   10:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   11:
-    arabic: تَـتَّـقُوۡنَ‏
+    arabic: تَتَّقُونَ
     translation: you fear
     transliteration: tattaqūna
 ---

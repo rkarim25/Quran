@@ -1,11 +1,11 @@
 ---
-arabic_ayat: فَاَجۡمِعُوۡا كَيۡدَكُمۡ ثُمَّ ائۡتُوۡا صَفًّا​ ۚ وَقَدۡ اَفۡلَحَ الۡيَوۡمَ
-  مَنِ اسۡتَعۡلٰى‏
+arabic_ayat: فَأَجۡمِعُواْ كَيۡدَكُمۡ ثُمَّ ٱئۡتُواْ صَفّٗاۚ وَقَدۡ أَفۡلَحَ ٱلۡيَوۡمَ
+  مَنِ ٱسۡتَعۡلَىٰ
 sentence_translation: So orchestrate your plan, then come forward in ˹perfect˺ ranks.
   And whoever prevails today will certainly be successful.”
 word_by_word:
   1:
-    arabic: فَاَجۡمِعُوۡا
+    arabic: فَأَجۡمِعُواْ
     translation: So put together
     transliteration: fa-ajmiʿū
   2:
@@ -17,11 +17,11 @@ word_by_word:
     translation: then
     transliteration: thumma
   4:
-    arabic: ائۡتُوۡا
+    arabic: ٱئۡتُواْ
     translation: come
     transliteration: i'tū
   5:
-    arabic: صَفًّا​ ۚ
+    arabic: صَفّٗاۚ
     translation: (in) a line
     transliteration: ṣaffan
   6:
@@ -29,11 +29,11 @@ word_by_word:
     translation: And verily
     transliteration: waqad
   7:
-    arabic: اَفۡلَحَ
+    arabic: أَفۡلَحَ
     translation: (will be) successful
     transliteration: aflaḥa
   8:
-    arabic: الۡيَوۡمَ
+    arabic: ٱلۡيَوۡمَ
     translation: today
     transliteration: l-yawma
   9:
@@ -41,7 +41,7 @@ word_by_word:
     translation: who
     transliteration: mani
   10:
-    arabic: اسۡتَعۡلٰى‏
+    arabic: ٱسۡتَعۡلَىٰ
     translation: overcomes
     transliteration: is'taʿlā
 ---

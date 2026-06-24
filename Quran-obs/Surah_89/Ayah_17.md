@@ -1,14 +1,14 @@
 ---
-arabic_ayat: كَلَّا​ بَلۡ لَّا تُكۡرِمُوۡنَ الۡيَتِيۡمَۙ‏
+arabic_ayat: كـَلَّاۖ بَل لَّا تُكۡرِمُونَ ٱلۡيَتِيمَ
 sentence_translation: Absolutely not! In fact, you are not ˹even˺ gracious to the
   orphan,
 word_by_word:
   1:
-    arabic: كَلَّا​
+    arabic: كـَلَّاۖ
     translation: Nay
     transliteration: kallā
   2:
-    arabic: بَلۡ
+    arabic: بَل
     translation: But
     transliteration: bal
   3:
@@ -16,11 +16,11 @@ word_by_word:
     translation: not
     transliteration: lā
   4:
-    arabic: تُكۡرِمُوۡنَ
+    arabic: تُكۡرِمُونَ
     translation: you honor
     transliteration: tuk'rimūna
   5:
-    arabic: الۡيَتِيۡمَۙ‏
+    arabic: ٱلۡيَتِيمَ
     translation: the orphan
     transliteration: l-yatīma
 ---

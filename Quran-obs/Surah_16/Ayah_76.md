@@ -1,8 +1,7 @@
 ---
-arabic_ayat: "وَضَرَبَ اللّٰهُ مَثَلاً رَّجُلَيۡنِ اَحَدُهُمَاۤ اَبۡكَمُ لَا يَقۡدِرُ\
-  \ عَلٰى شَىۡءٍ وَّهُوَ كَلٌّ عَلٰى مَوۡلٰٮهُۙ اَيۡنَمَا يُوَجِّههُّ لَا يَاۡتِ بِخَيۡرٍ​ؕ\
-  \ هَلۡ يَسۡتَوِىۡ هُوَۙ وَمَنۡ يَّاۡمُرُ بِالۡعَدۡلِ​ۙ وَهُوَ عَلٰى صِرَاطٍ مُّسۡتَقِيۡمٍ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: وَضَرَبَ ٱللَّهُ مَثَلٗا رَّجُلَيۡنِ أَحَدُهُمَآ أَبۡكَمُ لَا يَقۡدِرُ
+  عَلَىٰ شَيۡءٖ وَهُوَ كَلٌّ عَلَىٰ مَوۡلَىٰهُ أَيۡنَمَا يُوَجِّههُّ لَا يَأۡتِ بِخَيۡرٍ
+  هَلۡ يَسۡتَوِي هُوَ وَمَن يَأۡمُرُ بِٱلۡعَدۡلِ وَهُوَ عَلَىٰ صِرَٰطٖ مُّسۡتَقِيمٖ
 sentence_translation: 'And Allah sets forth a parable of two men: one of them is dumb,
   incapable of anything. He is a burden on his master. Wherever he is sent, he brings
   no good. Can such a person be equal to the one who commands justice and is on the
@@ -13,11 +12,11 @@ word_by_word:
     translation: And Allah sets forth
     transliteration: waḍaraba
   2:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: And Allah sets forth
     transliteration: l-lahu
   3:
-    arabic: مَثَلاً
+    arabic: مَثَلٗا
     translation: an example
     transliteration: mathalan
   4:
@@ -25,11 +24,11 @@ word_by_word:
     translation: (of) two men
     transliteration: rajulayni
   5:
-    arabic: اَحَدُهُمَاۤ
+    arabic: أَحَدُهُمَآ
     translation: one of them
     transliteration: aḥaduhumā
   6:
-    arabic: اَبۡكَمُ
+    arabic: أَبۡكَمُ
     translation: (is) dumb
     transliteration: abkamu
   7:
@@ -41,15 +40,15 @@ word_by_word:
     translation: he has power
     transliteration: yaqdiru
   9:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: 'on'
     transliteration: ʿalā
   10:
-    arabic: شَىۡءٍ
+    arabic: شَيۡءٖ
     translation: anything
     transliteration: shayin
   11:
-    arabic: وَّهُوَ
+    arabic: وَهُوَ
     translation: while he
     transliteration: wahuwa
   12:
@@ -57,15 +56,15 @@ word_by_word:
     translation: (is) a burden
     transliteration: kallun
   13:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: 'on'
     transliteration: ʿalā
   14:
-    arabic: مَوۡلٰٮهُۙ
+    arabic: مَوۡلَىٰهُ
     translation: his master
     transliteration: mawlāhu
   15:
-    arabic: اَيۡنَمَا
+    arabic: أَيۡنَمَا
     translation: Wherever
     transliteration: aynamā
   16:
@@ -77,11 +76,11 @@ word_by_word:
     translation: not
     transliteration: lā
   18:
-    arabic: يَاۡتِ
+    arabic: يَأۡتِ
     translation: he comes
     transliteration: yati
   19:
-    arabic: بِخَيۡرٍ​ؕ
+    arabic: بِخَيۡرٍ
     translation: with any good
     transliteration: bikhayrin
   20:
@@ -89,23 +88,23 @@ word_by_word:
     translation: Is
     transliteration: hal
   21:
-    arabic: يَسۡتَوِىۡ
+    arabic: يَسۡتَوِي
     translation: equal
     transliteration: yastawī
   22:
-    arabic: هُوَۙ
+    arabic: هُوَ
     translation: he
     transliteration: huwa
   23:
-    arabic: وَمَنۡ
+    arabic: وَمَن
     translation: and (the one) who
     transliteration: waman
   24:
-    arabic: يَّاۡمُرُ
+    arabic: يَأۡمُرُ
     translation: commands
     transliteration: yamuru
   25:
-    arabic: بِالۡعَدۡلِ​ۙ
+    arabic: بِٱلۡعَدۡلِ
     translation: '[of] justice'
     transliteration: bil-ʿadli
   26:
@@ -113,15 +112,15 @@ word_by_word:
     translation: and he
     transliteration: wahuwa
   27:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: (is) on
     transliteration: ʿalā
   28:
-    arabic: صِرَاطٍ
+    arabic: صِرَٰطٖ
     translation: a path
     transliteration: ṣirāṭin
   29:
-    arabic: "مُّسۡتَقِيۡمٍ‏ \uFEFF\uFEFF"
+    arabic: مُّسۡتَقِيمٖ
     translation: straight
     transliteration: mus'taqīmin
 ---

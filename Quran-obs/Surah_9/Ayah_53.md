@@ -1,6 +1,6 @@
 ---
-arabic_ayat: قُلۡ اَنۡفِقُوۡا طَوۡعًا اَوۡ كَرۡهًا لَّنۡ يُّتَقَبَّلَ مِنۡكُمۡ​ؕ اِنَّكُمۡ
-  كُنۡتُمۡ قَوۡمًا فٰسِقِيۡنَ‏
+arabic_ayat: قُلۡ أَنفِقُواْ طَوۡعًا أَوۡ كَرۡهٗا لَّن يُتَقَبَّلَ مِنكُمۡ إِنَّكُمۡ
+  كُنتُمۡ قَوۡمٗا فَٰسِقِينَ
 sentence_translation: Say, ˹O Prophet,˺ “˹Whether you˺ donate willingly or unwillingly,
   it will never be accepted from you, for you have been a rebellious people.”
 word_by_word:
@@ -9,7 +9,7 @@ word_by_word:
     translation: Say
     transliteration: qul
   2:
-    arabic: اَنۡفِقُوۡا
+    arabic: أَنفِقُواْ
     translation: Spend
     transliteration: anfiqū
   3:
@@ -17,39 +17,39 @@ word_by_word:
     translation: willingly
     transliteration: ṭawʿan
   4:
-    arabic: اَوۡ
+    arabic: أَوۡ
     translation: or
     transliteration: aw
   5:
-    arabic: كَرۡهًا
+    arabic: كَرۡهٗا
     translation: unwillingly
     transliteration: karhan
   6:
-    arabic: لَّنۡ
+    arabic: لَّن
     translation: never
     transliteration: lan
   7:
-    arabic: يُّتَقَبَّلَ
+    arabic: يُتَقَبَّلَ
     translation: will be accepted
     transliteration: yutaqabbala
   8:
-    arabic: مِنۡكُمۡ​ؕ
+    arabic: مِنكُمۡ
     translation: from you
     transliteration: minkum
   9:
-    arabic: اِنَّكُمۡ
+    arabic: إِنَّكُمۡ
     translation: Indeed, you
     transliteration: innakum
   10:
-    arabic: كُنۡتُمۡ
+    arabic: كُنتُمۡ
     translation: '[you] are'
     transliteration: kuntum
   11:
-    arabic: قَوۡمًا
+    arabic: قَوۡمٗا
     translation: a people
     transliteration: qawman
   12:
-    arabic: فٰسِقِيۡنَ‏
+    arabic: فَٰسِقِينَ
     translation: defiantly disobedient
     transliteration: fāsiqīna
 ---

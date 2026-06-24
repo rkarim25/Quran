@@ -1,5 +1,5 @@
 ---
-arabic_ayat: لَا تَجۡـــَٔرُوا الۡيَوۡمَ​ اِنَّكُمۡ مِّنَّا لَا تُنۡصَرُوۡنَ‏
+arabic_ayat: لَا تَجۡـَٔرُواْ ٱلۡيَوۡمَۖ إِنَّكُم مِّنَّا لَا تُنصَرُونَ
 sentence_translation: ˹They will be told,˺ “Do not cry for help today. Surely you
   will never be saved from Us.
 word_by_word:
@@ -8,15 +8,15 @@ word_by_word:
     translation: (Do) not
     transliteration: lā
   2:
-    arabic: تَجۡـــَٔرُوا
+    arabic: تَجۡـَٔرُواْ
     translation: cry for help
     transliteration: tajarū
   3:
-    arabic: الۡيَوۡمَ​
+    arabic: ٱلۡيَوۡمَۖ
     translation: today
     transliteration: l-yawma
   4:
-    arabic: اِنَّكُمۡ
+    arabic: إِنَّكُم
     translation: Indeed, you
     transliteration: innakum
   5:
@@ -28,7 +28,7 @@ word_by_word:
     translation: not
     transliteration: lā
   7:
-    arabic: تُنۡصَرُوۡنَ‏
+    arabic: تُنصَرُونَ
     translation: will be helped
     transliteration: tunṣarūna
 ---

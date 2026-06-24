@@ -1,5 +1,5 @@
 ---
-arabic_ayat: فَمَنَّ اللّٰهُ عَلَيۡنَا وَوَقٰٮنَا عَذَابَ السَّمُوۡمِ‏
+arabic_ayat: فَمَنَّ ٱللَّهُ عَلَيۡنَا وَوَقَىٰنَا عَذَابَ ٱلسَّمُومِ
 sentence_translation: So Allah has graced us and protected us from the torment of
   ˹Hell’s˺ scorching heat.
 word_by_word:
@@ -8,7 +8,7 @@ word_by_word:
     translation: But Allah conferred favor
     transliteration: famanna
   2:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: But Allah conferred favor
     transliteration: l-lahu
   3:
@@ -16,7 +16,7 @@ word_by_word:
     translation: upon us
     transliteration: ʿalaynā
   4:
-    arabic: وَوَقٰٮنَا
+    arabic: وَوَقَىٰنَا
     translation: and protected us
     transliteration: wawaqānā
   5:
@@ -24,7 +24,7 @@ word_by_word:
     translation: (from the) punishment
     transliteration: ʿadhāba
   6:
-    arabic: السَّمُوۡمِ‏
+    arabic: ٱلسَّمُومِ
     translation: (of) the Scorching Fire
     transliteration: l-samūmi
 ---

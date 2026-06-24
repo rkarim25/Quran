@@ -1,15 +1,15 @@
 ---
-arabic_ayat: فَكَذَّبُوۡهُ فَاَخَذَهُمۡ عَذَابُ يَوۡمِ الظُّلَّةِ​ؕ اِنَّهٗ كَانَ
-  عَذَابَ يَوۡمٍ عَظِيۡمٍ‏
+arabic_ayat: فَكَذَّبُوهُ فَأَخَذَهُمۡ عَذَابُ يَوۡمِ ٱلظُّلَّةِۚ إِنَّهُۥ كَانَ عَذَابَ
+  يَوۡمٍ عَظِيمٍ
 sentence_translation: So they rejected him, and ˹so˺ were overtaken by the torment
   of the day of the ˹deadly˺ cloud. That was really a torment of a tremendous day.
 word_by_word:
   1:
-    arabic: فَكَذَّبُوۡهُ
+    arabic: فَكَذَّبُوهُ
     translation: But they denied him
     transliteration: fakadhabūhu
   2:
-    arabic: فَاَخَذَهُمۡ
+    arabic: فَأَخَذَهُمۡ
     translation: so seized them
     transliteration: fa-akhadhahum
   3:
@@ -21,11 +21,11 @@ word_by_word:
     translation: (of the) day
     transliteration: yawmi
   5:
-    arabic: الظُّلَّةِ​ؕ
+    arabic: ٱلظُّلَّةِۚ
     translation: (of) the shadow
     transliteration: l-ẓulati
   6:
-    arabic: اِنَّهٗ
+    arabic: إِنَّهُۥ
     translation: Indeed, it
     transliteration: innahu
   7:
@@ -41,7 +41,7 @@ word_by_word:
     translation: (of) a Day
     transliteration: yawmin
   10:
-    arabic: عَظِيۡمٍ‏
+    arabic: عَظِيمٍ
     translation: Great
     transliteration: ʿaẓīmin
 ---

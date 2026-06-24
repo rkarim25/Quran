@@ -1,6 +1,6 @@
 ---
-arabic_ayat: وَقَالَ الۡمَلَاُ الَّذِيۡنَ كَفَرُوۡا مِنۡ قَوۡمِهٖ لَٮِٕنِ اتَّبَعۡتُمۡ
-  شُعَيۡبًا اِنَّكُمۡ اِذًا لَّخٰسِرُوۡنَ‏
+arabic_ayat: وَقَالَ ٱلۡمَلَأُ ٱلَّذِينَ كَفَرُواْ مِن قَوۡمِهِۦ لَئِنِ ٱتَّبَعۡتُمۡ
+  شُعَيۡبًا إِنَّكُمۡ إِذٗا لَّخَٰسِرُونَ
 sentence_translation: The disbelieving chiefs of his people threatened, “If you follow
   Shu’aib, you will surely be losers!”
 word_by_word:
@@ -9,31 +9,31 @@ word_by_word:
     translation: And said
     transliteration: waqāla
   2:
-    arabic: الۡمَلَاُ
+    arabic: ٱلۡمَلَأُ
     translation: the chiefs
     transliteration: l-mala-u
   3:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: (of) those who
     transliteration: alladhīna
   4:
-    arabic: كَفَرُوۡا
+    arabic: كَفَرُواْ
     translation: disbelieved
     transliteration: kafarū
   5:
-    arabic: مِنۡ
+    arabic: مِن
     translation: among
     transliteration: min
   6:
-    arabic: قَوۡمِهٖ
+    arabic: قَوۡمِهِۦ
     translation: his people
     transliteration: qawmihi
   7:
-    arabic: لَٮِٕنِ
+    arabic: لَئِنِ
     translation: If
     transliteration: la-ini
   8:
-    arabic: اتَّبَعۡتُمۡ
+    arabic: ٱتَّبَعۡتُمۡ
     translation: you follow
     transliteration: ittabaʿtum
   9:
@@ -41,15 +41,15 @@ word_by_word:
     translation: Shuaib
     transliteration: shuʿayban
   10:
-    arabic: اِنَّكُمۡ
+    arabic: إِنَّكُمۡ
     translation: indeed, you
     transliteration: innakum
   11:
-    arabic: اِذًا
+    arabic: إِذٗا
     translation: then
     transliteration: idhan
   12:
-    arabic: لَّخٰسِرُوۡنَ‏
+    arabic: لَّخَٰسِرُونَ
     translation: (will be) certainly losers
     transliteration: lakhāsirūna
 ---

@@ -1,15 +1,14 @@
 ---
-arabic_ayat: "وَنَادَوۡا يٰمٰلِكُ لِيَقۡضِ عَلَيۡنَا رَبُّكَ​ؕ قَالَ اِنَّكُمۡ مّٰكِثُوۡنَ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: وَنَادَوۡاْ يَٰمَٰلِكُ لِيَقۡضِ عَلَيۡنَا رَبُّكَۖ قَالَ إِنَّكُم مَّٰكِثُونَ
 sentence_translation: They will cry, “O Mâlik! Let your Lord finish us off.” He will
   answer, “You are definitely here to stay.”
 word_by_word:
   1:
-    arabic: وَنَادَوۡا
+    arabic: وَنَادَوۡاْ
     translation: And they will call
     transliteration: wanādaw
   2:
-    arabic: يٰمٰلِكُ
+    arabic: يَٰمَٰلِكُ
     translation: O Malik
     transliteration: yāmāliku
   3:
@@ -21,7 +20,7 @@ word_by_word:
     translation: to us
     transliteration: ʿalaynā
   5:
-    arabic: رَبُّكَ​ؕ
+    arabic: رَبُّكَۖ
     translation: your Lord
     transliteration: rabbuka
   6:
@@ -29,11 +28,11 @@ word_by_word:
     translation: He (will) say
     transliteration: qāla
   7:
-    arabic: اِنَّكُمۡ
+    arabic: إِنَّكُم
     translation: Indeed, you
     transliteration: innakum
   8:
-    arabic: "مّٰكِثُوۡنَ‏ \uFEFF\uFEFF"
+    arabic: مَّٰكِثُونَ
     translation: (will) remain
     transliteration: mākithūna
 ---

@@ -1,14 +1,14 @@
 ---
-arabic_ayat: وَاتۡلُ عَلَيۡهِمۡ نَبَاَ ابۡنَىۡ اٰدَمَ بِالۡحَـقِّ​ۘ اِذۡ قَرَّبَا
-  قُرۡبَانًا فَتُقُبِّلَ مِنۡ اَحَدِهِمَا وَلَمۡ يُتَقَبَّلۡ مِنَ الۡاٰخَرِؕ قَالَ
-  لَاَقۡتُلَـنَّكَ​ؕ قَالَ اِنَّمَا يَتَقَبَّلُ اللّٰهُ مِنَ الۡمُتَّقِيۡنَ‏
+arabic_ayat: ۞ وَٱتۡلُ عَلَيۡهِمۡ نَبَأَ ٱبۡنَيۡ ءَادَمَ بِٱلۡحَقِّ إِذۡ قَرَّبَا
+  قُرۡبَانٗا فَتُقُبِّلَ مِنۡ أَحَدِهِمَا وَلَمۡ يُتَقَبَّلۡ مِنَ ٱلۡأٓخَرِ قَالَ
+  لَأَقۡتُلَنَّكَۖ قَالَ إِنَّمَا يَتَقَبَّلُ ٱللَّهُ مِنَ ٱلۡمُتَّقِينَ
 sentence_translation: 'Relate to them in truth ˹O Prophet˺ the story of Adam’s two
   sons—how each offered a sacrifice: Abel’s offering was accepted while Cain’s was
   not. So Cain threatened, “I will kill you!” His brother replied, “Allah only accepts
   ˹the offering˺ of the sincerely devout.'
 word_by_word:
   1:
-    arabic: ۞ وَاتۡلُ
+    arabic: ۞ وَٱتۡلُ
     translation: And recite
     transliteration: wa-ut'lu
   2:
@@ -16,23 +16,23 @@ word_by_word:
     translation: to them
     transliteration: ʿalayhim
   3:
-    arabic: نَبَاَ
+    arabic: نَبَأَ
     translation: the story
     transliteration: naba-a
   4:
-    arabic: ابۡنَىۡ
+    arabic: ٱبۡنَيۡ ءَ
     translation: (of) two sons
     transliteration: ib'nay
   5:
-    arabic: اٰدَمَ
+    arabic: ادَمَ
     translation: (of) Adam
     transliteration: ādama
   6:
-    arabic: بِالۡحَـقِّ​ۘ
+    arabic: بِٱلۡحَقِّ
     translation: in truth
     transliteration: bil-ḥaqi
   7:
-    arabic: اِذۡ
+    arabic: إِذۡ
     translation: when
     transliteration: idh
   8:
@@ -40,7 +40,7 @@ word_by_word:
     translation: both offered
     transliteration: qarrabā
   9:
-    arabic: قُرۡبَانًا
+    arabic: قُرۡبَانٗا
     translation: a sacrifice
     transliteration: qur'bānan
   10:
@@ -52,7 +52,7 @@ word_by_word:
     translation: from
     transliteration: min
   12:
-    arabic: اَحَدِهِمَا
+    arabic: أَحَدِهِمَا
     translation: one of them
     transliteration: aḥadihimā
   13:
@@ -68,7 +68,7 @@ word_by_word:
     translation: from
     transliteration: mina
   16:
-    arabic: الۡاٰخَرِؕ
+    arabic: ٱلۡأٓخَرِ
     translation: the other
     transliteration: l-ākhari
   17:
@@ -76,7 +76,7 @@ word_by_word:
     translation: Said (the latter)
     transliteration: qāla
   18:
-    arabic: لَاَقۡتُلَـنَّكَ​ؕ
+    arabic: لَأَقۡتُلَنَّكَۖ
     translation: Surely I will kill you
     transliteration: la-aqtulannaka
   19:
@@ -84,7 +84,7 @@ word_by_word:
     translation: Said (the former)
     transliteration: qāla
   20:
-    arabic: اِنَّمَا
+    arabic: إِنَّمَا
     translation: Only
     transliteration: innamā
   21:
@@ -92,7 +92,7 @@ word_by_word:
     translation: accepts
     transliteration: yataqabbalu
   22:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: (does) Allah
     transliteration: l-lahu
   23:
@@ -100,7 +100,7 @@ word_by_word:
     translation: from
     transliteration: mina
   24:
-    arabic: الۡمُتَّقِيۡنَ‏
+    arabic: ٱلۡمُتَّقِينَ
     translation: the God fearing
     transliteration: l-mutaqīna
 ---

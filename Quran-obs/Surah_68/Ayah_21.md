@@ -1,13 +1,13 @@
 ---
-arabic_ayat: فَتَـنَادَوۡا مُصۡبِحِيۡنَۙ‏
+arabic_ayat: فَتَنَادَوۡاْ مُصۡبِحِينَ
 sentence_translation: Then by daybreak they called out to each other,
 word_by_word:
   1:
-    arabic: فَتَـنَادَوۡا
+    arabic: فَتَنَادَوۡاْ
     translation: And they called one another
     transliteration: fatanādaw
   2:
-    arabic: مُصۡبِحِيۡنَۙ‏
+    arabic: مُصۡبِحِينَ
     translation: (at) morning
     transliteration: muṣ'biḥīna
 ---

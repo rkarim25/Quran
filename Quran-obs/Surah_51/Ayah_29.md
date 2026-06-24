@@ -1,23 +1,23 @@
 ---
-arabic_ayat: فَاَقۡبَلَتِ امۡرَاَتُهٗ فِىۡ صَرَّةٍ فَصَكَّتۡ وَجۡهَهَا وَقَالَتۡ عَجُوۡزٌ
-  عَقِيۡمٌ‏
+arabic_ayat: فَأَقۡبَلَتِ ٱمۡرَأَتُهُۥ فِي صَرَّةٖ فَصَكَّتۡ وَجۡهَهَا وَقَالَتۡ عَجُوزٌ
+  عَقِيمٞ
 sentence_translation: Then his wife came forward with a cry, clasping her forehead
   ˹in astonishment˺, exclaiming, “˹A baby from˺ a barren, old woman!”
 word_by_word:
   1:
-    arabic: فَاَقۡبَلَتِ
+    arabic: فَأَقۡبَلَتِ
     translation: Then came forward
     transliteration: fa-aqbalati
   2:
-    arabic: امۡرَاَتُهٗ
+    arabic: ٱمۡرَأَتُهُۥ
     translation: his wife
     transliteration: im'ra-atuhu
   3:
-    arabic: فِىۡ
+    arabic: فِي
     translation: with
     transliteration: fī
   4:
-    arabic: صَرَّةٍ
+    arabic: صَرَّةٖ
     translation: a loud voice
     transliteration: ṣarratin
   5:
@@ -33,11 +33,11 @@ word_by_word:
     translation: and she said
     transliteration: waqālat
   8:
-    arabic: عَجُوۡزٌ
+    arabic: عَجُوزٌ
     translation: An old woman
     transliteration: ʿajūzun
   9:
-    arabic: عَقِيۡمٌ‏
+    arabic: عَقِيمٞ
     translation: barren
     transliteration: ʿaqīmun
 ---

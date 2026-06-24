@@ -1,17 +1,17 @@
 ---
-arabic_ayat: وَاِذَا الۡبِحَارُ سُجِّرَتۡۙ‏
+arabic_ayat: وَإِذَا ٱلۡبِحَارُ سُجِّرَتۡ
 sentence_translation: and when the seas are set on fire,
 word_by_word:
   1:
-    arabic: وَاِذَا
+    arabic: وَإِذَا
     translation: And when
     transliteration: wa-idhā
   2:
-    arabic: الۡبِحَارُ
+    arabic: ٱلۡبِحَارُ
     translation: the seas
     transliteration: l-biḥāru
   3:
-    arabic: سُجِّرَتۡۙ‏
+    arabic: سُجِّرَتۡ
     translation: are made to overflow
     transliteration: sujjirat
 ---

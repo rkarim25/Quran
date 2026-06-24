@@ -1,41 +1,41 @@
 ---
-arabic_ayat: اُولٰٓٮِٕكَ الَّذِيۡنَ اٰتَيۡنٰهُمُ الۡـكِتٰبَ وَالۡحُكۡمَ وَالنُّبُوَّةَ​
-  ؕ فَاِنۡ يَّكۡفُرۡ بِهَا هٰٓؤُلَۤاءِ فَقَدۡ وَكَّلۡنَا بِهَا قَوۡمًا لَّيۡسُوۡا
-  بِهَا بِكٰفِرِيۡنَ‏
+arabic_ayat: أُوْلَٰٓئِكَ ٱلَّذِينَ ءَاتَيۡنَٰهُمُ ٱلۡكِتَٰبَ وَٱلۡحُكۡمَ وَٱلنُّبُوَّةَۚ
+  فَإِن يَكۡفُرۡ بِهَا هَٰٓؤُلَآءِ فَقَدۡ وَكَّلۡنَا بِهَا قَوۡمٗا لَّيۡسُواْ بِهَا
+  بِكَٰفِرِينَ
 sentence_translation: Those were the ones to whom We gave the Scripture, wisdom, and
   prophethood. But if these ˹pagans˺ disbelieve in this ˹message˺, then We have already
   entrusted it to a people who will never disbelieve in it.
 word_by_word:
   1:
-    arabic: اُولٰٓٮِٕكَ
+    arabic: أُوْلَٰٓئِكَ
     translation: 'Those '
     transliteration: ulāika
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ ءَ
     translation: (are) ones whom
     transliteration: alladhīna
   3:
-    arabic: اٰتَيۡنٰهُمُ
+    arabic: اتَيۡنَٰهُمُ
     translation: We gave them
     transliteration: ātaynāhumu
   4:
-    arabic: الۡـكِتٰبَ
+    arabic: ٱلۡكِتَٰبَ
     translation: the Book
     transliteration: l-kitāba
   5:
-    arabic: وَالۡحُكۡمَ
+    arabic: وَٱلۡحُكۡمَ
     translation: and the judgment
     transliteration: wal-ḥuk'ma
   6:
-    arabic: وَالنُّبُوَّةَ​ ؕ
+    arabic: وَٱلنُّبُوَّةَۚ
     translation: and the Prophethood
     transliteration: wal-nubuwata
   7:
-    arabic: فَاِنۡ
+    arabic: فَإِن
     translation: But if
     transliteration: fa-in
   8:
-    arabic: يَّكۡفُرۡ
+    arabic: يَكۡفُرۡ
     translation: disbelieve
     transliteration: yakfur
   9:
@@ -43,7 +43,7 @@ word_by_word:
     translation: in it
     transliteration: bihā
   10:
-    arabic: هٰٓؤُلَۤاءِ
+    arabic: هَٰٓؤُلَآءِ
     translation: these
     transliteration: hāulāi
   11:
@@ -59,11 +59,11 @@ word_by_word:
     translation: it
     transliteration: bihā
   14:
-    arabic: قَوۡمًا
+    arabic: قَوۡمٗا
     translation: (to) a people
     transliteration: qawman
   15:
-    arabic: لَّيۡسُوۡا
+    arabic: لَّيۡسُواْ
     translation: who are not
     transliteration: laysū
   16:
@@ -71,7 +71,7 @@ word_by_word:
     translation: therein
     transliteration: bihā
   17:
-    arabic: بِكٰفِرِيۡنَ‏
+    arabic: بِكَٰفِرِينَ
     translation: disbelievers
     transliteration: bikāfirīna
 ---

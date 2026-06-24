@@ -1,5 +1,5 @@
 ---
-arabic_ayat: وَلَا تُطِيۡعُوۡۤا اَمۡرَ الۡمُسۡرِفِيۡنَۙ‏
+arabic_ayat: وَلَا تُطِيعُوٓاْ أَمۡرَ ٱلۡمُسۡرِفِينَ
 sentence_translation: And do not follow the command of the transgressors,
 word_by_word:
   1:
@@ -7,15 +7,15 @@ word_by_word:
     translation: And (do) not
     transliteration: walā
   2:
-    arabic: تُطِيۡعُوۡۤا
+    arabic: تُطِيعُوٓاْ
     translation: obey
     transliteration: tuṭīʿū
   3:
-    arabic: اَمۡرَ
+    arabic: أَمۡرَ
     translation: (the) command
     transliteration: amra
   4:
-    arabic: الۡمُسۡرِفِيۡنَۙ‏
+    arabic: ٱلۡمُسۡرِفِينَ
     translation: (of) the transgressors
     transliteration: l-mus'rifīna
 ---

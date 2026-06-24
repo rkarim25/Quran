@@ -1,19 +1,19 @@
 ---
-arabic_ayat: وَمَاۤ اَنۡفَقۡتُمۡ مِّنۡ نَّفَقَةٍ اَوۡ نَذَرۡتُمۡ مِّنۡ نَّذۡرٍ فَاِنَّ
-  اللّٰهَ يَعۡلَمُهٗ ؕ وَمَا لِلظّٰلِمِيۡنَ مِنۡ اَنۡصَارٍ‏
+arabic_ayat: وَمَآ أَنفَقۡتُم مِّن نَّفَقَةٍ أَوۡ نَذَرۡتُم مِّن نَّذۡرٖ فَإِنَّ
+  ٱللَّهَ يَعۡلَمُهُۥۗ وَمَا لِلظَّٰلِمِينَ مِنۡ أَنصَارٍ
 sentence_translation: Whatever charities you give or vows you make are surely known
   to Allah. And the wrongdoers will have no helpers.
 word_by_word:
   1:
-    arabic: وَمَاۤ
+    arabic: وَمَآ
     translation: And whatever
     transliteration: wamā
   2:
-    arabic: اَنۡفَقۡتُمۡ
+    arabic: أَنفَقۡتُم
     translation: you spend
     transliteration: anfaqtum
   3:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: (out) of
     transliteration: min
   4:
@@ -21,31 +21,31 @@ word_by_word:
     translation: (your) expenditures
     transliteration: nafaqatin
   5:
-    arabic: اَوۡ
+    arabic: أَوۡ
     translation: or
     transliteration: aw
   6:
-    arabic: نَذَرۡتُمۡ
+    arabic: نَذَرۡتُم
     translation: you vow
     transliteration: nadhartum
   7:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: of
     transliteration: min
   8:
-    arabic: نَّذۡرٍ
+    arabic: نَّذۡرٖ
     translation: vow(s)
     transliteration: nadhrin
   9:
-    arabic: فَاِنَّ
+    arabic: فَإِنَّ
     translation: then indeed
     transliteration: fa-inna
   10:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   11:
-    arabic: يَعۡلَمُهٗ ؕ
+    arabic: يَعۡلَمُهُۥۗ
     translation: knows it
     transliteration: yaʿlamuhu
   12:
@@ -53,7 +53,7 @@ word_by_word:
     translation: and not
     transliteration: wamā
   13:
-    arabic: لِلظّٰلِمِيۡنَ
+    arabic: لِلظَّٰلِمِينَ
     translation: for the wrongdoers
     transliteration: lilẓẓālimīna
   14:
@@ -61,7 +61,7 @@ word_by_word:
     translation: any
     transliteration: min
   15:
-    arabic: اَنۡصَارٍ‏
+    arabic: أَنصَارٍ
     translation: helpers
     transliteration: anṣārin
 ---

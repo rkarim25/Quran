@@ -1,15 +1,14 @@
 ---
-arabic_ayat: "اِنۡ يَّسۡـَٔــلۡكُمُوۡهَا فَيُحۡفِكُمۡ تَبۡخَلُوۡا وَيُخۡرِجۡ اَضۡغَانَكُمۡ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: إِن يَسۡـَٔلۡكُمُوهَا فَيُحۡفِكُمۡ تَبۡخَلُواْ وَيُخۡرِجۡ أَضۡغَٰنَكُمۡ
 sentence_translation: If He were to do so and pressure you, you would withhold and
   He would bring out your resentment.
 word_by_word:
   1:
-    arabic: اِنۡ
+    arabic: إِن
     translation: If
     transliteration: in
   2:
-    arabic: يَّسۡـَٔــلۡكُمُوۡهَا
+    arabic: يَسۡـَٔلۡكُمُوهَا
     translation: He were to ask you for it
     transliteration: yasalkumūhā
   3:
@@ -17,7 +16,7 @@ word_by_word:
     translation: and press you
     transliteration: fayuḥ'fikum
   4:
-    arabic: تَبۡخَلُوۡا
+    arabic: تَبۡخَلُواْ
     translation: you will withhold
     transliteration: tabkhalū
   5:
@@ -25,7 +24,7 @@ word_by_word:
     translation: and He will bring forth
     transliteration: wayukh'rij
   6:
-    arabic: "اَضۡغَانَكُمۡ‏ \uFEFF\uFEFF"
+    arabic: أَضۡغَٰنَكُمۡ
     translation: your hatred
     transliteration: aḍghānakum
 ---

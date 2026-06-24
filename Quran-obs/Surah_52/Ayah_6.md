@@ -1,13 +1,13 @@
 ---
-arabic_ayat: وَالۡبَحۡرِ الۡمَسۡجُوۡرِۙ‏
+arabic_ayat: وَٱلۡبَحۡرِ ٱلۡمَسۡجُورِ
 sentence_translation: And by the seas set on fire!
 word_by_word:
   1:
-    arabic: وَالۡبَحۡرِ
+    arabic: وَٱلۡبَحۡرِ
     translation: By the sea
     transliteration: wal-baḥri
   2:
-    arabic: الۡمَسۡجُوۡرِۙ‏
+    arabic: ٱلۡمَسۡجُورِ
     translation: filled
     transliteration: l-masjūri
 ---

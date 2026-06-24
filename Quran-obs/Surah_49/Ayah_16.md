@@ -1,6 +1,6 @@
 ---
-arabic_ayat: قُلۡ اَ تُعَلِّمُوۡنَ اللّٰهَ بِدِيۡـنِكُمۡ ؕ وَاللّٰهُ يَعۡلَمُ مَا
-  فِى السَّمٰوٰتِ وَمَا فِى الۡاَرۡضِ​ؕ وَاللّٰهُ بِكُلِّ شَىۡءٍ عَلِيۡمٌ‏
+arabic_ayat: قُلۡ أَتُعَلِّمُونَ ٱللَّهَ بِدِينِكُمۡ وَٱللَّهُ يَعۡلَمُ مَا فِي ٱلسَّمَٰوَٰتِ
+  وَمَا فِي ٱلۡأَرۡضِۚ وَٱللَّهُ بِكُلِّ شَيۡءٍ عَلِيمٞ
 sentence_translation: Say, “Do you inform Allah of your faith, when Allah ˹already˺
   knows whatever is in the heavens and whatever is on the earth? And Allah has ˹perfect˺
   knowledge of all things.”
@@ -10,19 +10,19 @@ word_by_word:
     translation: Say
     transliteration: qul
   2:
-    arabic: اَ تُعَلِّمُوۡنَ
+    arabic: أَتُعَلِّمُونَ
     translation: Will you acquaint
     transliteration: atuʿallimūna
   3:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   4:
-    arabic: بِدِيۡـنِكُمۡ ؕ
+    arabic: بِدِينِكُمۡ
     translation: with your religion
     transliteration: bidīnikum
   5:
-    arabic: وَاللّٰهُ
+    arabic: وَٱللَّهُ
     translation: while Allah
     transliteration: wal-lahu
   6:
@@ -34,11 +34,11 @@ word_by_word:
     translation: what
     transliteration: mā
   8:
-    arabic: فِى
+    arabic: فِي
     translation: (is) in
     transliteration: fī
   9:
-    arabic: السَّمٰوٰتِ
+    arabic: ٱلسَّمَٰوَٰتِ
     translation: the heavens
     transliteration: l-samāwāti
   10:
@@ -46,15 +46,15 @@ word_by_word:
     translation: and what
     transliteration: wamā
   11:
-    arabic: فِى
+    arabic: فِي
     translation: (is) in
     transliteration: fī
   12:
-    arabic: الۡاَرۡضِ​ؕ
+    arabic: ٱلۡأَرۡضِۚ
     translation: the earth
     transliteration: l-arḍi
   13:
-    arabic: وَاللّٰهُ
+    arabic: وَٱللَّهُ
     translation: And Allah
     transliteration: wal-lahu
   14:
@@ -62,11 +62,11 @@ word_by_word:
     translation: of every
     transliteration: bikulli
   15:
-    arabic: شَىۡءٍ
+    arabic: شَيۡءٍ
     translation: thing
     transliteration: shayin
   16:
-    arabic: عَلِيۡمٌ‏
+    arabic: عَلِيمٞ
     translation: (is) All-Knower
     transliteration: ʿalīmun
 ---

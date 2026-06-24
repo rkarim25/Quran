@@ -1,5 +1,5 @@
 ---
-arabic_ayat: عَلَّمَ الۡاِنۡسَانَ مَا لَمۡ يَعۡلَمۡؕ‏
+arabic_ayat: عَلَّمَ ٱلۡإِنسَٰنَ مَا لَمۡ يَعۡلَمۡ
 sentence_translation: taught humanity what they knew not. 
 word_by_word:
   1:
@@ -7,7 +7,7 @@ word_by_word:
     translation: Taught
     transliteration: ʿallama
   2:
-    arabic: الۡاِنۡسَانَ
+    arabic: ٱلۡإِنسَٰنَ
     translation: man
     transliteration: l-insāna
   3:
@@ -19,7 +19,7 @@ word_by_word:
     translation: not
     transliteration: lam
   5:
-    arabic: يَعۡلَمۡؕ‏
+    arabic: يَعۡلَمۡ
     translation: he knew
     transliteration: yaʿlam
 ---

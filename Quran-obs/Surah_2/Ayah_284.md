@@ -1,14 +1,14 @@
 ---
-arabic_ayat: لِلّٰهِ مَا فِى السَّمٰوٰتِ وَمَا فِى الۡاَرۡضِ​ؕ وَاِنۡ تُبۡدُوۡا مَا
-  فِىۡۤ اَنۡفُسِكُمۡ اَوۡ تُخۡفُوۡهُ يُحَاسِبۡكُمۡ بِهِ اللّٰهُ​ؕ فَيَـغۡفِرُ لِمَنۡ
-  يَّشَآءُ وَيُعَذِّبُ مَنۡ يَّشَآءُ​ ؕ وَاللّٰهُ عَلٰى كُلِّ شَىۡءٍ قَدِيۡرٌ‏
+arabic_ayat: لِّلَّهِ مَا فِي ٱلسَّمَٰوَٰتِ وَمَا فِي ٱلۡأَرۡضِۗ وَإِن تُبۡدُواْ مَا
+  فِيٓ أَنفُسِكُمۡ أَوۡ تُخۡفُوهُ يُحَاسِبۡكُم بِهِ ٱللَّهُۖ فَيَغۡفِرُ لِمَن يَشَآءُ
+  وَيُعَذِّبُ مَن يَشَآءُۗ وَٱللَّهُ عَلَىٰ كُلِّ شَيۡءٖ قَدِيرٌ
 sentence_translation: To Allah ˹alone˺ belongs whatever is in the heavens and whatever
   is on the earth. Whether you reveal what is in your hearts or conceal it, Allah
   will call you to account for it. He forgives whoever He wills, and punishes whoever
   He wills. And Allah is Most Capable of everything.
 word_by_word:
   1:
-    arabic: لِلّٰهِ
+    arabic: لِّلَّهِ
     translation: To Allah (belongs)
     transliteration: lillahi
   2:
@@ -16,11 +16,11 @@ word_by_word:
     translation: whatever
     transliteration: mā
   3:
-    arabic: فِى
+    arabic: فِي
     translation: (is) in
     transliteration: fī
   4:
-    arabic: السَّمٰوٰتِ
+    arabic: ٱلسَّمَٰوَٰتِ
     translation: the heavens
     transliteration: l-samāwāti
   5:
@@ -28,19 +28,19 @@ word_by_word:
     translation: and whatever
     transliteration: wamā
   6:
-    arabic: فِى
+    arabic: فِي
     translation: (is) in
     transliteration: fī
   7:
-    arabic: الۡاَرۡضِ​ؕ
+    arabic: ٱلۡأَرۡضِۗ
     translation: the earth
     transliteration: l-arḍi
   8:
-    arabic: وَاِنۡ
+    arabic: وَإِن
     translation: And if
     transliteration: wa-in
   9:
-    arabic: تُبۡدُوۡا
+    arabic: تُبۡدُواْ
     translation: you disclose
     transliteration: tub'dū
   10:
@@ -48,23 +48,23 @@ word_by_word:
     translation: what
     transliteration: mā
   11:
-    arabic: فِىۡۤ
+    arabic: فِيٓ
     translation: (is) in
     transliteration: fī
   12:
-    arabic: اَنۡفُسِكُمۡ
+    arabic: أَنفُسِكُمۡ
     translation: yourselves
     transliteration: anfusikum
   13:
-    arabic: اَوۡ
+    arabic: أَوۡ
     translation: or
     transliteration: aw
   14:
-    arabic: تُخۡفُوۡهُ
+    arabic: تُخۡفُوهُ
     translation: you conceal it
     transliteration: tukh'fūhu
   15:
-    arabic: يُحَاسِبۡكُمۡ
+    arabic: يُحَاسِبۡكُم
     translation: will call you to account
     transliteration: yuḥāsib'kum
   16:
@@ -72,19 +72,19 @@ word_by_word:
     translation: for it
     transliteration: bihi
   17:
-    arabic: اللّٰهُ​ؕ
+    arabic: ٱللَّهُۖ
     translation: Allah
     transliteration: l-lahu
   18:
-    arabic: فَيَـغۡفِرُ
+    arabic: فَيَغۡفِرُ
     translation: Then, He will forgive
     transliteration: fayaghfiru
   19:
-    arabic: لِمَنۡ
+    arabic: لِمَن
     translation: '[to] whom'
     transliteration: liman
   20:
-    arabic: يَّشَآءُ
+    arabic: يَشَآءُ
     translation: He wills
     transliteration: yashāu
   21:
@@ -92,19 +92,19 @@ word_by_word:
     translation: and He will punish
     transliteration: wayuʿadhibu
   22:
-    arabic: مَنۡ
+    arabic: مَن
     translation: whom
     transliteration: man
   23:
-    arabic: يَّشَآءُ​ ؕ
+    arabic: يَشَآءُۗ
     translation: He wills
     transliteration: yashāu
   24:
-    arabic: وَاللّٰهُ
+    arabic: وَٱللَّهُ
     translation: And Allah
     transliteration: wal-lahu
   25:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: 'on'
     transliteration: ʿalā
   26:
@@ -112,11 +112,11 @@ word_by_word:
     translation: every
     transliteration: kulli
   27:
-    arabic: شَىۡءٍ
+    arabic: شَيۡءٖ
     translation: thing
     transliteration: shayin
   28:
-    arabic: قَدِيۡرٌ‏
+    arabic: قَدِيرٌ
     translation: (is) All-Powerful
     transliteration: qadīrun
 ---

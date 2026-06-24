@@ -1,13 +1,13 @@
 ---
-arabic_ayat: رِجَالٌ ۙ لَّا تُلۡهِيۡهِمۡ تِجَارَةٌ وَّلَا بَيۡعٌ عَنۡ ذِكۡرِ اللّٰهِ
-  وَاِقَامِ الصَّلٰوةِ وَ اِيۡتَآءِ الزَّكٰوةِ​ ۙ يَخَافُوۡنَ يَوۡمًا تَتَقَلَّبُ
-  فِيۡهِ الۡقُلُوۡبُ وَالۡاَبۡصَارُ ۙ‏
+arabic_ayat: رِجَالٞ لَّا تُلۡهِيهِمۡ تِجَٰرَةٞ وَلَا بَيۡعٌ عَن ذِكۡرِ ٱللَّهِ وَإِقَامِ
+  ٱلصَّلَوٰةِ وَإِيتَآءِ ٱلزَّكَوٰةِ يَخَافُونَ يَوۡمٗا تَتَقَلَّبُ فِيهِ ٱلۡقُلُوبُ
+  وَٱلۡأَبۡصَٰرُ
 sentence_translation: by men who are not distracted—either by buying or selling—from
   Allah’s remembrance, or performing prayer, or paying alms-tax. They fear a Day when
   hearts and eyes will tremble,
 word_by_word:
   1:
-    arabic: رِجَالٌ ۙ
+    arabic: رِجَالٞ
     translation: 'Men '
     transliteration: rijālun
   2:
@@ -15,15 +15,15 @@ word_by_word:
     translation: not
     transliteration: lā
   3:
-    arabic: تُلۡهِيۡهِمۡ
+    arabic: تُلۡهِيهِمۡ
     translation: distracts them
     transliteration: tul'hīhim
   4:
-    arabic: تِجَارَةٌ
+    arabic: تِجَٰرَةٞ
     translation: trade
     transliteration: tijāratun
   5:
-    arabic: وَّلَا
+    arabic: وَلَا
     translation: and not
     transliteration: walā
   6:
@@ -31,7 +31,7 @@ word_by_word:
     translation: sale
     transliteration: bayʿun
   7:
-    arabic: عَنۡ
+    arabic: عَن
     translation: from
     transliteration: ʿan
   8:
@@ -39,31 +39,31 @@ word_by_word:
     translation: (the) remembrance of Allah
     transliteration: dhik'ri
   9:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (the) remembrance of Allah
     transliteration: l-lahi
   10:
-    arabic: وَاِقَامِ
+    arabic: وَإِقَامِ
     translation: and (from) establishing
     transliteration: wa-iqāmi
   11:
-    arabic: الصَّلٰوةِ
+    arabic: ٱلصَّلَوٰةِ
     translation: the prayer
     transliteration: l-ṣalati
   12:
-    arabic: وَ اِيۡتَآءِ
+    arabic: وَإِيتَآءِ
     translation: and giving
     transliteration: waītāi
   13:
-    arabic: الزَّكٰوةِ​ ۙ
+    arabic: ٱلزَّكَوٰةِ
     translation: zakah
     transliteration: l-zakati
   14:
-    arabic: يَخَافُوۡنَ
+    arabic: يَخَافُونَ
     translation: They fear
     transliteration: yakhāfūna
   15:
-    arabic: يَوۡمًا
+    arabic: يَوۡمٗا
     translation: a Day
     transliteration: yawman
   16:
@@ -71,15 +71,15 @@ word_by_word:
     translation: will turn about
     transliteration: tataqallabu
   17:
-    arabic: فِيۡهِ
+    arabic: فِيهِ
     translation: therein
     transliteration: fīhi
   18:
-    arabic: الۡقُلُوۡبُ
+    arabic: ٱلۡقُلُوبُ
     translation: the hearts
     transliteration: l-qulūbu
   19:
-    arabic: وَالۡاَبۡصَارُ ۙ‏
+    arabic: وَٱلۡأَبۡصَٰرُ
     translation: and the eyes
     transliteration: wal-abṣāru
 ---

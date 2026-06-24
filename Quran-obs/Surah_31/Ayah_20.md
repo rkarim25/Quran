@@ -1,27 +1,26 @@
 ---
-arabic_ayat: "اَلَمۡ تَرَوۡا اَنَّ اللّٰهَ سَخَّرَ لَكُمۡ مَّا فِى السَّمٰوٰتِ وَمَا\
-  \ فِى الۡاَرۡضِ وَاَسۡبَغَ عَلَيۡكُمۡ نِعَمَهٗ ظَاهِرَةً وَّبَاطِنَةً ​ؕ وَمِنَ\
-  \ النَّاسِ مَنۡ يُّجَادِلُ فِى اللّٰهِ بِغَيۡرِ عِلۡمٍ وَّلَا هُدًى وَّلَا كِتٰبٍ\
-  \ مُّنِيۡرٍ‏ \uFEFF\uFEFF"
+arabic_ayat: أَلَمۡ تَرَوۡاْ أَنَّ ٱللَّهَ سَخَّرَ لَكُم مَّا فِي ٱلسَّمَٰوَٰتِ وَمَا
+  فِي ٱلۡأَرۡضِ وَأَسۡبَغَ عَلَيۡكُمۡ نِعَمَهُۥ ظَٰهِرَةٗ وَبَاطِنَةٗۗ وَمِنَ ٱلنَّاسِ
+  مَن يُجَٰدِلُ فِي ٱللَّهِ بِغَيۡرِ عِلۡمٖ وَلَا هُدٗى وَلَا كِتَٰبٖ مُّنِيرٖ
 sentence_translation: Have you not seen that Allah has subjected for you whatever
   is in the heavens and whatever is on the earth, and has lavished His favours upon
   you, both seen and unseen? ˹Still˺ there are some who dispute about Allah without
   knowledge, or guidance, or an enlightening scripture.
 word_by_word:
   1:
-    arabic: اَلَمۡ
+    arabic: أَلَمۡ
     translation: Do not
     transliteration: alam
   2:
-    arabic: تَرَوۡا
+    arabic: تَرَوۡاْ
     translation: you see
     transliteration: taraw
   3:
-    arabic: اَنَّ
+    arabic: أَنَّ
     translation: that
     transliteration: anna
   4:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   5:
@@ -29,7 +28,7 @@ word_by_word:
     translation: has subjected
     transliteration: sakhara
   6:
-    arabic: لَكُمۡ
+    arabic: لَكُم
     translation: to you
     transliteration: lakum
   7:
@@ -37,11 +36,11 @@ word_by_word:
     translation: whatever
     transliteration: mā
   8:
-    arabic: فِى
+    arabic: فِي
     translation: (is) in
     transliteration: fī
   9:
-    arabic: السَّمٰوٰتِ
+    arabic: ٱلسَّمَٰوَٰتِ
     translation: the heavens
     transliteration: l-samāwāti
   10:
@@ -49,15 +48,15 @@ word_by_word:
     translation: and whatever
     transliteration: wamā
   11:
-    arabic: فِى
+    arabic: فِي
     translation: (is) in
     transliteration: fī
   12:
-    arabic: الۡاَرۡضِ
+    arabic: ٱلۡأَرۡضِ
     translation: the earth
     transliteration: l-arḍi
   13:
-    arabic: وَاَسۡبَغَ
+    arabic: وَأَسۡبَغَ
     translation: and amply bestowed
     transliteration: wa-asbagha
   14:
@@ -65,15 +64,15 @@ word_by_word:
     translation: upon you
     transliteration: ʿalaykum
   15:
-    arabic: نِعَمَهٗ
+    arabic: نِعَمَهُۥ
     translation: His Bounties
     transliteration: niʿamahu
   16:
-    arabic: ظَاهِرَةً
+    arabic: ظَٰهِرَةٗ
     translation: apparent
     transliteration: ẓāhiratan
   17:
-    arabic: وَّبَاطِنَةً ​ؕ
+    arabic: وَبَاطِنَةٗۗ
     translation: and hidden
     transliteration: wabāṭinatan
   18:
@@ -81,23 +80,23 @@ word_by_word:
     translation: But of
     transliteration: wamina
   19:
-    arabic: النَّاسِ
+    arabic: ٱلنَّاسِ
     translation: the people
     transliteration: l-nāsi
   20:
-    arabic: مَنۡ
+    arabic: مَن
     translation: (is he) who
     transliteration: man
   21:
-    arabic: يُّجَادِلُ
+    arabic: يُجَٰدِلُ
     translation: disputes
     transliteration: yujādilu
   22:
-    arabic: فِى
+    arabic: فِي
     translation: about
     transliteration: fī
   23:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   24:
@@ -105,27 +104,27 @@ word_by_word:
     translation: without
     transliteration: bighayri
   25:
-    arabic: عِلۡمٍ
+    arabic: عِلۡمٖ
     translation: knowledge
     transliteration: ʿil'min
   26:
-    arabic: وَّلَا
+    arabic: وَلَا
     translation: and not
     transliteration: walā
   27:
-    arabic: هُدًى
+    arabic: هُدٗى
     translation: guidance
     transliteration: hudan
   28:
-    arabic: وَّلَا
+    arabic: وَلَا
     translation: and not
     transliteration: walā
   29:
-    arabic: كِتٰبٍ
+    arabic: كِتَٰبٖ
     translation: a book
     transliteration: kitābin
   30:
-    arabic: "مُّنِيۡرٍ‏ \uFEFF\uFEFF"
+    arabic: مُّنِيرٖ
     translation: enlightening
     transliteration: munīrin
 ---

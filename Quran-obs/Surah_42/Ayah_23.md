@@ -1,19 +1,19 @@
 ---
-arabic_ayat: ذٰ لِكَ الَّذِىۡ يُبَشِّرُ اللّٰهُ عِبَادَهُ الَّذِيۡنَ اٰمَنُوۡا وَعَمِلُوا
-  الصّٰلِحٰتِ​ؕ قُلْ لَّاۤ اَسۡـَٔـــلُـكُمۡ عَلَيۡهِ اَجۡرًا اِلَّا الۡمَوَدَّةَ
-  فِى الۡقُرۡبٰى​ؕ وَمَنۡ يَّقۡتَرِفۡ حَسَنَةً نَّزِدۡ لَهٗ فِيۡهَا حُسۡنًا​ ؕ اِنَّ
-  اللّٰهَ غَفُوۡرٌ شَكُوۡرٌ‏
+arabic_ayat: ذَٰلِكَ ٱلَّذِي يُبَشِّرُ ٱللَّهُ عِبَادَهُ ٱلَّذِينَ ءَامَنُواْ وَعَمِلُواْ
+  ٱلصَّٰلِحَٰتِۗ قُل لَّآ أَسۡـَٔلُكُمۡ عَلَيۡهِ أَجۡرًا إِلَّا ٱلۡمَوَدَّةَ فِي
+  ٱلۡقُرۡبَىٰۗ وَمَن يَقۡتَرِفۡ حَسَنَةٗ نَّزِدۡ لَهُۥ فِيهَا حُسۡنًاۚ إِنَّ ٱللَّهَ
+  غَفُورٞ شَكُورٌ
 sentence_translation: That ˹reward˺ is the good news which Allah gives to His servants
   who believe and do good. Say, ˹O Prophet,˺ “I do not ask you for a reward for this
   ˹message˺—only honour for ˹our˺ kinship.” Whoever earns a good deed, We will increase
   it in goodness for them. Surely Allah is All-Forgiving, Most Appreciative.
 word_by_word:
   1:
-    arabic: ذٰ لِكَ
+    arabic: ذَٰلِكَ
     translation: That
     transliteration: dhālika
   2:
-    arabic: الَّذِىۡ
+    arabic: ٱلَّذِي
     translation: (is of) which
     transliteration: alladhī
   3:
@@ -21,7 +21,7 @@ word_by_word:
     translation: Allah gives glad tidings
     transliteration: yubashiru
   4:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah gives glad tidings
     transliteration: l-lahu
   5:
@@ -29,31 +29,31 @@ word_by_word:
     translation: '(to) His slaves '
     transliteration: ʿibādahu
   6:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ ءَ
     translation: those who
     transliteration: alladhīna
   7:
-    arabic: اٰمَنُوۡا
+    arabic: امَنُواْ
     translation: believe
     transliteration: āmanū
   8:
-    arabic: وَعَمِلُوا
+    arabic: وَعَمِلُواْ
     translation: and do
     transliteration: waʿamilū
   9:
-    arabic: الصّٰلِحٰتِ​ؕ
+    arabic: ٱلصَّٰلِحَٰتِۗ
     translation: righteous deeds
     transliteration: l-ṣāliḥāti
   10:
-    arabic: قُلْ
+    arabic: قُل
     translation: Say
     transliteration: qul
   11:
-    arabic: لَّاۤ
+    arabic: لَّآ
     translation: Not
     transliteration: lā
   12:
-    arabic: اَسۡـَٔـــلُـكُمۡ
+    arabic: أَسۡـَٔلُكُمۡ
     translation: I ask you
     transliteration: asalukum
   13:
@@ -61,35 +61,35 @@ word_by_word:
     translation: for it
     transliteration: ʿalayhi
   14:
-    arabic: اَجۡرًا
+    arabic: أَجۡرًا
     translation: any payment
     transliteration: ajran
   15:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   16:
-    arabic: الۡمَوَدَّةَ
+    arabic: ٱلۡمَوَدَّةَ
     translation: the love
     transliteration: l-mawadata
   17:
-    arabic: فِى
+    arabic: فِي
     translation: among
     transliteration: fī
   18:
-    arabic: الۡقُرۡبٰى​ؕ
+    arabic: ٱلۡقُرۡبَىٰۗ
     translation: the relatives
     transliteration: l-qur'bā
   19:
-    arabic: وَمَنۡ
+    arabic: وَمَن
     translation: And whoever
     transliteration: waman
   20:
-    arabic: يَّقۡتَرِفۡ
+    arabic: يَقۡتَرِفۡ
     translation: earns
     transliteration: yaqtarif
   21:
-    arabic: حَسَنَةً
+    arabic: حَسَنَةٗ
     translation: any good
     transliteration: ḥasanatan
   22:
@@ -97,31 +97,31 @@ word_by_word:
     translation: We increase
     transliteration: nazid
   23:
-    arabic: لَهٗ
+    arabic: لَهُۥ
     translation: for him
     transliteration: lahu
   24:
-    arabic: فِيۡهَا
+    arabic: فِيهَا
     translation: therein
     transliteration: fīhā
   25:
-    arabic: حُسۡنًا​ ؕ
+    arabic: حُسۡنًاۚ
     translation: good
     transliteration: ḥus'nan
   26:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   27:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   28:
-    arabic: غَفُوۡرٌ
+    arabic: غَفُورٞ
     translation: (is) Oft-Forgiving
     transliteration: ghafūrun
   29:
-    arabic: شَكُوۡرٌ‏
+    arabic: شَكُورٌ
     translation: All-Appreciative
     transliteration: shakūrun
 ---

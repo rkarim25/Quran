@@ -1,19 +1,19 @@
 ---
-arabic_ayat: وَالَّذِيۡنَ اِذَاۤ اَنۡفَقُوۡا لَمۡ يُسۡرِفُوۡا وَلَمۡ يَقۡتُرُوۡا وَكَانَ
-  بَيۡنَ ذٰلِكَ قَوَامًا‏
+arabic_ayat: وَٱلَّذِينَ إِذَآ أَنفَقُواْ لَمۡ يُسۡرِفُواْ وَلَمۡ يَقۡتُرُواْ وَكَانَ
+  بَيۡنَ ذَٰلِكَ قَوَامٗا
 sentence_translation: ˹They are˺ those who spend neither wastefully nor stingily,
   but moderately in between.
 word_by_word:
   1:
-    arabic: وَالَّذِيۡنَ
+    arabic: وَٱلَّذِينَ
     translation: And those who
     transliteration: wa-alladhīna
   2:
-    arabic: اِذَاۤ
+    arabic: إِذَآ
     translation: when
     transliteration: idhā
   3:
-    arabic: اَنۡفَقُوۡا
+    arabic: أَنفَقُواْ
     translation: they spend
     transliteration: anfaqū
   4:
@@ -21,7 +21,7 @@ word_by_word:
     translation: (are) not extravagant
     transliteration: lam
   5:
-    arabic: يُسۡرِفُوۡا
+    arabic: يُسۡرِفُواْ
     translation: (are) not extravagant
     transliteration: yus'rifū
   6:
@@ -29,7 +29,7 @@ word_by_word:
     translation: and are not stingy
     transliteration: walam
   7:
-    arabic: يَقۡتُرُوۡا
+    arabic: يَقۡتُرُواْ
     translation: and are not stingy
     transliteration: yaqturū
   8:
@@ -41,11 +41,11 @@ word_by_word:
     translation: between
     transliteration: bayna
   10:
-    arabic: ذٰلِكَ
+    arabic: ذَٰلِكَ
     translation: 'that '
     transliteration: dhālika
   11:
-    arabic: قَوَامًا‏
+    arabic: قَوَامٗا
     translation: moderate
     transliteration: qawāman
 ---

@@ -1,11 +1,11 @@
 ---
-arabic_ayat: مَنۡ جَآءَ بِالۡحَسَنَةِ فَلَهٗ خَيۡرٌ مِّنۡهَا​ۚ وَهُمۡ مِّنۡ فَزَعٍ
-  يَّوۡمَٮِٕذٍ اٰمِنُوۡنَ‏
+arabic_ayat: مَن جَآءَ بِٱلۡحَسَنَةِ فَلَهُۥ خَيۡرٞ مِّنۡهَا وَهُم مِّن فَزَعٖ يَوۡمَئِذٍ
+  ءَامِنُونَ
 sentence_translation: Whoever comes with a good deed will be rewarded with what is
   better, and they will be secure from the horror on that Day.
 word_by_word:
   1:
-    arabic: مَنۡ
+    arabic: مَن
     translation: Whoever
     transliteration: man
   2:
@@ -13,39 +13,39 @@ word_by_word:
     translation: comes
     transliteration: jāa
   3:
-    arabic: بِالۡحَسَنَةِ
+    arabic: بِٱلۡحَسَنَةِ
     translation: with the good
     transliteration: bil-ḥasanati
   4:
-    arabic: فَلَهٗ
+    arabic: فَلَهُۥ
     translation: then for him
     transliteration: falahu
   5:
-    arabic: خَيۡرٌ
+    arabic: خَيۡرٞ
     translation: (will be) better
     transliteration: khayrun
   6:
-    arabic: مِّنۡهَا​ۚ
+    arabic: مِّنۡهَا
     translation: than it
     transliteration: min'hā
   7:
-    arabic: وَهُمۡ
+    arabic: وَهُم
     translation: and they
     transliteration: wahum
   8:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: from
     transliteration: min
   9:
-    arabic: فَزَعٍ
+    arabic: فَزَعٖ
     translation: (the) terror
     transliteration: fazaʿin
   10:
-    arabic: يَّوۡمَٮِٕذٍ
+    arabic: يَوۡمَئِذٍ ءَ
     translation: (of) that Day
     transliteration: yawma-idhin
   11:
-    arabic: اٰمِنُوۡنَ‏
+    arabic: امِنُونَ
     translation: (will be) safe
     transliteration: āminūna
 ---

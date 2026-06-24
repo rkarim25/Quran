@@ -1,8 +1,7 @@
 ---
-arabic_ayat: وَلَوۡ اَنَّا كَتَبۡنَا عَلَيۡهِمۡ اَنِ اقۡتُلُوۡۤا اَنۡفُسَكُمۡ اَوِ
-  اخۡرُجُوۡا مِنۡ دِيَارِكُمۡ مَّا فَعَلُوۡهُ اِلَّا قَلِيۡلٌ مِّنۡهُمۡ​ ؕ وَلَوۡ
-  اَنَّهُمۡ فَعَلُوۡا مَا يُوۡعَظُوۡنَ بِهٖ لَـكَانَ خَيۡرًا لَّهُمۡ وَاَشَدَّ تَثۡبِيۡتًا
-  ۙ‏
+arabic_ayat: وَلَوۡ أَنَّا كَتَبۡنَا عَلَيۡهِمۡ أَنِ ٱقۡتُلُوٓاْ أَنفُسَكُمۡ أَوِ
+  ٱخۡرُجُواْ مِن دِيَٰرِكُم مَّا فَعَلُوهُ إِلَّا قَلِيلٞ مِّنۡهُمۡۖ وَلَوۡ أَنَّهُمۡ
+  فَعَلُواْ مَا يُوعَظُونَ بِهِۦ لَكَانَ خَيۡرٗا لَّهُمۡ وَأَشَدَّ تَثۡبِيتٗا
 sentence_translation: If We had commanded them to sacrifice themselves or abandon
   their homes, none would have obeyed except for a few. Had they done what they were
   advised to do, it would have certainly been far better for them and more reassuring,
@@ -12,7 +11,7 @@ word_by_word:
     translation: And if
     transliteration: walaw
   2:
-    arabic: اَنَّا
+    arabic: أَنَّا
     translation: '[that] We'
     transliteration: annā
   3:
@@ -24,31 +23,31 @@ word_by_word:
     translation: on them
     transliteration: ʿalayhim
   5:
-    arabic: اَنِ
+    arabic: أَنِ
     translation: that
     transliteration: ani
   6:
-    arabic: اقۡتُلُوۡۤا
+    arabic: ٱقۡتُلُوٓاْ
     translation: Kill
     transliteration: uq'tulū
   7:
-    arabic: اَنۡفُسَكُمۡ
+    arabic: أَنفُسَكُمۡ
     translation: yourselves
     transliteration: anfusakum
   8:
-    arabic: اَوِ
+    arabic: أَوِ
     translation: or
     transliteration: awi
   9:
-    arabic: اخۡرُجُوۡا
+    arabic: ٱخۡرُجُواْ
     translation: Go forth
     transliteration: ukh'rujū
   10:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   11:
-    arabic: دِيَارِكُمۡ
+    arabic: دِيَٰرِكُم
     translation: your homes
     transliteration: diyārikum
   12:
@@ -56,19 +55,19 @@ word_by_word:
     translation: not
     transliteration: mā
   13:
-    arabic: فَعَلُوۡهُ
+    arabic: فَعَلُوهُ
     translation: they would have done it
     transliteration: faʿalūhu
   14:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   15:
-    arabic: قَلِيۡلٌ
+    arabic: قَلِيلٞ
     translation: a few
     transliteration: qalīlun
   16:
-    arabic: مِّنۡهُمۡ​ ؕ
+    arabic: مِّنۡهُمۡۖ
     translation: of them
     transliteration: min'hum
   17:
@@ -76,11 +75,11 @@ word_by_word:
     translation: But if
     transliteration: walaw
   18:
-    arabic: اَنَّهُمۡ
+    arabic: أَنَّهُمۡ
     translation: '[that] they'
     transliteration: annahum
   19:
-    arabic: فَعَلُوۡا
+    arabic: فَعَلُواْ
     translation: had done
     transliteration: faʿalū
   20:
@@ -88,19 +87,19 @@ word_by_word:
     translation: what
     transliteration: mā
   21:
-    arabic: يُوۡعَظُوۡنَ
+    arabic: يُوعَظُونَ
     translation: they were advised
     transliteration: yūʿaẓūna
   22:
-    arabic: بِهٖ
+    arabic: بِهِۦ
     translation: with [it]
     transliteration: bihi
   23:
-    arabic: لَـكَانَ
+    arabic: لَكَانَ
     translation: surely (it) would have been
     transliteration: lakāna
   24:
-    arabic: خَيۡرًا
+    arabic: خَيۡرٗا
     translation: better
     transliteration: khayran
   25:
@@ -108,11 +107,11 @@ word_by_word:
     translation: for them
     transliteration: lahum
   26:
-    arabic: وَاَشَدَّ
+    arabic: وَأَشَدَّ
     translation: and stronger
     transliteration: wa-ashadda
   27:
-    arabic: تَثۡبِيۡتًا ۙ‏
+    arabic: تَثۡبِيتٗا
     translation: strengthen(ing)
     transliteration: tathbītan
 ---

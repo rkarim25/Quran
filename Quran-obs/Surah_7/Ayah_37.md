@@ -1,9 +1,9 @@
 ---
-arabic_ayat: فَمَنۡ اَظۡلَمُ مِمَّنِ افۡتَـرٰى عَلَى اللّٰهِ كَذِبًا اَوۡ كَذَّبَ
-  بِاٰيٰتِهٖ ؕ اُولٰۤٮِٕكَ يَنَالُهُمۡ نَصِيۡبُهُمۡ مِّنَ الۡـكِتٰبِ​ؕ حَتّٰٓى اِذَا
-  جَآءَتۡهُمۡ رُسُلُـنَا يَتَوَفَّوۡنَهُمۡ ۙ قَالُوۡۤا اَيۡنَ مَا كُنۡتُمۡ تَدۡعُوۡنَ
-  مِنۡ دُوۡنِ اللّٰهِ​ ؕ قَالُوۡا ضَلُّوۡا عَنَّا وَشَهِدُوۡا عَلٰٓى اَنۡفُسِهِمۡ
-  اَنَّهُمۡ كَانُوۡا كٰفِرِيۡنَ‏
+arabic_ayat: فَمَنۡ أَظۡلَمُ مِمَّنِ ٱفۡتَرَىٰ عَلَى ٱللَّهِ كَذِبًا أَوۡ كَذَّبَ
+  بِـَٔايَٰتِهِۦٓۚ أُوْلَٰٓئِكَ يَنَالُهُمۡ نَصِيبُهُم مِّنَ ٱلۡكِتَٰبِۖ حَتَّىٰٓ
+  إِذَا جَآءَتۡهُمۡ رُسُلُنَا يَتَوَفَّوۡنَهُمۡ قَالُوٓاْ أَيۡنَ مَا كُنتُمۡ تَدۡعُونَ
+  مِن دُونِ ٱللَّهِۖ قَالُواْ ضَلُّواْ عَنَّا وَشَهِدُواْ عَلَىٰٓ أَنفُسِهِمۡ أَنَّهُمۡ
+  كَانُواْ كَٰفِرِينَ
 sentence_translation: Who does more wrong than those who fabricate lies against Allah
   or deny His revelations? They will receive what is destined for them, until Our
   messenger-angels arrive to take their souls, asking them, “Where are those ˹false
@@ -15,7 +15,7 @@ word_by_word:
     translation: Then who
     transliteration: faman
   2:
-    arabic: اَظۡلَمُ
+    arabic: أَظۡلَمُ
     translation: (is) more unjust
     transliteration: aẓlamu
   3:
@@ -23,7 +23,7 @@ word_by_word:
     translation: than (one) who
     transliteration: mimmani
   4:
-    arabic: افۡتَـرٰى
+    arabic: ٱفۡتَرَىٰ
     translation: invented
     transliteration: if'tarā
   5:
@@ -31,7 +31,7 @@ word_by_word:
     translation: against
     transliteration: ʿalā
   6:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   7:
@@ -39,7 +39,7 @@ word_by_word:
     translation: a lie
     transliteration: kadhiban
   8:
-    arabic: اَوۡ
+    arabic: أَوۡ
     translation: or
     transliteration: aw
   9:
@@ -47,11 +47,11 @@ word_by_word:
     translation: denies
     transliteration: kadhaba
   10:
-    arabic: بِاٰيٰتِهٖ ؕ
+    arabic: بِـَٔايَٰتِهِۦٓۚ
     translation: His Verses
     transliteration: biāyātihi
   11:
-    arabic: اُولٰۤٮِٕكَ
+    arabic: أُوْلَٰٓئِكَ
     translation: 'Those '
     transliteration: ulāika
   12:
@@ -59,7 +59,7 @@ word_by_word:
     translation: will reach them
     transliteration: yanāluhum
   13:
-    arabic: نَصِيۡبُهُمۡ
+    arabic: نَصِيبُهُم
     translation: their portion
     transliteration: naṣībuhum
   14:
@@ -67,15 +67,15 @@ word_by_word:
     translation: from
     transliteration: mina
   15:
-    arabic: الۡـكِتٰبِ​ؕ
+    arabic: ٱلۡكِتَٰبِۖ
     translation: the Book
     transliteration: l-kitābi
   16:
-    arabic: حَتّٰٓى
+    arabic: حَتَّىٰٓ
     translation: until
     transliteration: ḥattā
   17:
-    arabic: اِذَا
+    arabic: إِذَا
     translation: when
     transliteration: idhā
   18:
@@ -83,19 +83,19 @@ word_by_word:
     translation: comes to them
     transliteration: jāathum
   19:
-    arabic: رُسُلُـنَا
+    arabic: رُسُلُنَا
     translation: Our messengers (Angels)
     transliteration: rusulunā
   20:
-    arabic: يَتَوَفَّوۡنَهُمۡ ۙ
+    arabic: يَتَوَفَّوۡنَهُمۡ
     translation: (to) take them in death
     transliteration: yatawaffawnahum
   21:
-    arabic: قَالُوۡۤا
+    arabic: قَالُوٓاْ
     translation: they say
     transliteration: qālū
   22:
-    arabic: اَيۡنَ
+    arabic: أَيۡنَ
     translation: Where are
     transliteration: ayna
   23:
@@ -103,31 +103,31 @@ word_by_word:
     translation: those (whom)
     transliteration: mā
   24:
-    arabic: كُنۡتُمۡ
+    arabic: كُنتُمۡ
     translation: you used to
     transliteration: kuntum
   25:
-    arabic: تَدۡعُوۡنَ
+    arabic: تَدۡعُونَ
     translation: invoke
     transliteration: tadʿūna
   26:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   27:
-    arabic: دُوۡنِ
+    arabic: دُونِ
     translation: besides
     transliteration: dūni
   28:
-    arabic: اللّٰهِ​ ؕ
+    arabic: ٱللَّهِۖ
     translation: Allah
     transliteration: l-lahi
   29:
-    arabic: قَالُوۡا
+    arabic: قَالُواْ
     translation: They say
     transliteration: qālū
   30:
-    arabic: ضَلُّوۡا
+    arabic: ضَلُّواْ
     translation: They strayed
     transliteration: ḍallū
   31:
@@ -135,27 +135,27 @@ word_by_word:
     translation: from us
     transliteration: ʿannā
   32:
-    arabic: وَشَهِدُوۡا
+    arabic: وَشَهِدُواْ
     translation: and they (will) testify
     transliteration: washahidū
   33:
-    arabic: عَلٰٓى
+    arabic: عَلَىٰٓ
     translation: against
     transliteration: ʿalā
   34:
-    arabic: اَنۡفُسِهِمۡ
+    arabic: أَنفُسِهِمۡ
     translation: themselves
     transliteration: anfusihim
   35:
-    arabic: اَنَّهُمۡ
+    arabic: أَنَّهُمۡ
     translation: that they
     transliteration: annahum
   36:
-    arabic: كَانُوۡا
+    arabic: كَانُواْ
     translation: were
     transliteration: kānū
   37:
-    arabic: كٰفِرِيۡنَ‏
+    arabic: كَٰفِرِينَ
     translation: disbelievers
     transliteration: kāfirīna
 ---

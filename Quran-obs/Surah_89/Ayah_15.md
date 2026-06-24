@@ -1,19 +1,19 @@
 ---
-arabic_ayat: فَاَمَّا الۡاِنۡسَانُ اِذَا مَا ابۡتَلٰٮهُ رَبُّهٗ فَاَكۡرَمَهٗ وَنَعَّمَهٗ 
-  ۙ فَيَقُوۡلُ رَبِّىۡۤ اَكۡرَمَنِؕ‏
+arabic_ayat: فَأَمَّا ٱلۡإِنسَٰنُ إِذَا مَا ٱبۡتَلَىٰهُ رَبُّهُۥ فَأَكۡرَمَهُۥ وَنَعَّمَهُۥ
+  فَيَقُولُ رَبِّيٓ أَكۡرَمَنِ
 sentence_translation: Now, whenever a human being is tested by their Lord through
   ˹His˺ generosity and blessings, they boast, “My Lord has ˹deservedly˺ honoured me!”
 word_by_word:
   1:
-    arabic: فَاَمَّا
+    arabic: فَأَمَّا
     translation: And as for
     transliteration: fa-ammā
   2:
-    arabic: الۡاِنۡسَانُ
+    arabic: ٱلۡإِنسَٰنُ
     translation: man
     transliteration: l-insānu
   3:
-    arabic: اِذَا
+    arabic: إِذَا
     translation: when
     transliteration: idhā
   4:
@@ -21,31 +21,31 @@ word_by_word:
     translation: does
     transliteration: mā
   5:
-    arabic: ابۡتَلٰٮهُ
+    arabic: ٱبۡتَلَىٰهُ
     translation: try him
     transliteration: ib'talāhu
   6:
-    arabic: رَبُّهٗ
+    arabic: رَبُّهُۥ
     translation: his Lord
     transliteration: rabbuhu
   7:
-    arabic: فَاَكۡرَمَهٗ
+    arabic: فَأَكۡرَمَهُۥ
     translation: and is generous to him
     transliteration: fa-akramahu
   8:
-    arabic: وَنَعَّمَهٗ  ۙ
+    arabic: وَنَعَّمَهُۥ
     translation: and favors him
     transliteration: wanaʿʿamahu
   9:
-    arabic: فَيَقُوۡلُ
+    arabic: فَيَقُولُ
     translation: he says
     transliteration: fayaqūlu
   10:
-    arabic: رَبِّىۡۤ
+    arabic: رَبِّيٓ
     translation: My Lord
     transliteration: rabbī
   11:
-    arabic: اَكۡرَمَنِؕ‏
+    arabic: أَكۡرَمَنِ
     translation: has honored me
     transliteration: akramani
 ---

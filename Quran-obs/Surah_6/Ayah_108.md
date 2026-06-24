@@ -1,7 +1,7 @@
 ---
-arabic_ayat: وَلَا تَسُبُّوا الَّذِيۡنَ يَدۡعُوۡنَ مِنۡ دُوۡنِ اللّٰهِ فَيَسُبُّوا
-  اللّٰهَ عَدۡوًاۢ بِغَيۡرِ عِلۡمٍ ​ؕ كَذٰلِكَ زَيَّنَّا لِكُلِّ اُمَّةٍ عَمَلَهُمۡ
-  ثُمَّ اِلٰى رَبِّهِمۡ مَّرۡجِعُهُمۡ فَيُنَبِّئُهُمۡ بِمَا كَانُوۡا يَعۡمَلُوۡنَ‏
+arabic_ayat: وَلَا تَسُبُّواْ ٱلَّذِينَ يَدۡعُونَ مِن دُونِ ٱللَّهِ فَيَسُبُّواْ ٱللَّهَ
+  عَدۡوَۢا بِغَيۡرِ عِلۡمٖۗ كَذَٰلِكَ زَيَّنَّا لِكُلِّ أُمَّةٍ عَمَلَهُمۡ ثُمَّ إِلَىٰ
+  رَبِّهِم مَّرۡجِعُهُمۡ فَيُنَبِّئُهُم بِمَا كَانُواْ يَعۡمَلُونَ
 sentence_translation: ˹O believers!˺ Do not insult what they invoke besides Allah
   or they will insult Allah spitefully out of ignorance. This is how We have made
   each people’s deeds appealing to them. Then to their Lord is their return, and He
@@ -12,39 +12,39 @@ word_by_word:
     translation: And (do) not
     transliteration: walā
   2:
-    arabic: تَسُبُّوا
+    arabic: تَسُبُّواْ
     translation: insult
     transliteration: tasubbū
   3:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those whom
     transliteration: alladhīna
   4:
-    arabic: يَدۡعُوۡنَ
+    arabic: يَدۡعُونَ
     translation: they invoke
     transliteration: yadʿūna
   5:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   6:
-    arabic: دُوۡنِ
+    arabic: دُونِ
     translation: other than
     transliteration: dūni
   7:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   8:
-    arabic: فَيَسُبُّوا
+    arabic: فَيَسُبُّواْ
     translation: lest they insult
     transliteration: fayasubbū
   9:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   10:
-    arabic: عَدۡوًاۢ
+    arabic: عَدۡوَۢا
     translation: (in) enmity
     transliteration: ʿadwan
   11:
@@ -52,11 +52,11 @@ word_by_word:
     translation: without
     transliteration: bighayri
   12:
-    arabic: عِلۡمٍ ​ؕ
+    arabic: عِلۡمٖۗ
     translation: knowledge
     transliteration: ʿil'min
   13:
-    arabic: كَذٰلِكَ
+    arabic: كَذَٰلِكَ
     translation: Thus
     transliteration: kadhālika
   14:
@@ -68,11 +68,11 @@ word_by_word:
     translation: to every
     transliteration: likulli
   16:
-    arabic: اُمَّةٍ
+    arabic: أُمَّةٍ
     translation: community
     transliteration: ummatin
   17:
-    arabic: عَمَلَهُمۡ
+    arabic: عَمَلَهُمۡ
     translation: their deed
     transliteration: ʿamalahum
   18:
@@ -80,11 +80,11 @@ word_by_word:
     translation: Then
     transliteration: thumma
   19:
-    arabic: اِلٰى
+    arabic: إِلَىٰ
     translation: to
     transliteration: ilā
   20:
-    arabic: رَبِّهِمۡ
+    arabic: رَبِّهِم
     translation: their Lord
     transliteration: rabbihim
   21:
@@ -92,7 +92,7 @@ word_by_word:
     translation: (is) their return
     transliteration: marjiʿuhum
   22:
-    arabic: فَيُنَبِّئُهُمۡ
+    arabic: فَيُنَبِّئُهُم
     translation: then He will inform them
     transliteration: fayunabbi-uhum
   23:
@@ -100,11 +100,11 @@ word_by_word:
     translation: about what
     transliteration: bimā
   24:
-    arabic: كَانُوۡا
+    arabic: كَانُواْ
     translation: they used to
     transliteration: kānū
   25:
-    arabic: يَعۡمَلُوۡنَ‏
+    arabic: يَعۡمَلُونَ
     translation: do
     transliteration: yaʿmalūna
 ---

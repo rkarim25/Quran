@@ -1,13 +1,12 @@
 ---
-arabic_ayat: وَ لَمَّا جَآءَ عِيۡسٰى بِالۡبَيِّنٰتِ قَالَ قَدۡ جِئۡتُكُمۡ بِالۡحِكۡمَةِ
-  وَلِاُبَيِّنَ لَكُمۡ بَعۡضَ الَّذِىۡ تَخۡتَلِفُوۡنَ فِيۡهِ​ ۚ فَاتَّقُوا اللّٰهَ
-  وَاَطِيۡعُوۡنِ‏
+arabic_ayat: وَلَمَّا جَآءَ عِيسَىٰ بِٱلۡبَيِّنَٰتِ قَالَ قَدۡ جِئۡتُكُم بِٱلۡحِكۡمَةِ
+  وَلِأُبَيِّنَ لَكُم بَعۡضَ ٱلَّذِي تَخۡتَلِفُونَ فِيهِۖ فَٱتَّقُواْ ٱللَّهَ وَأَطِيعُونِ
 sentence_translation: When Jesus came with clear proofs, he declared, “I have come
   to you with wisdom, and to clarify to you some of what you differ about. So fear
   Allah, and obey me.
 word_by_word:
   1:
-    arabic: وَ لَمَّا
+    arabic: وَلَمَّا
     translation: And when
     transliteration: walammā
   2:
@@ -15,11 +14,11 @@ word_by_word:
     translation: came
     transliteration: jāa
   3:
-    arabic: عِيۡسٰى
+    arabic: عِيسَىٰ
     translation: Isa
     transliteration: ʿīsā
   4:
-    arabic: بِالۡبَيِّنٰتِ
+    arabic: بِٱلۡبَيِّنَٰتِ
     translation: with clear proofs
     transliteration: bil-bayināti
   5:
@@ -31,19 +30,19 @@ word_by_word:
     translation: Verily
     transliteration: qad
   7:
-    arabic: جِئۡتُكُمۡ
+    arabic: جِئۡتُكُم
     translation: I have come to you
     transliteration: ji'tukum
   8:
-    arabic: بِالۡحِكۡمَةِ
+    arabic: بِٱلۡحِكۡمَةِ
     translation: with wisdom
     transliteration: bil-ḥik'mati
   9:
-    arabic: وَلِاُبَيِّنَ
+    arabic: وَلِأُبَيِّنَ
     translation: and that I make clear
     transliteration: wali-ubayyina
   10:
-    arabic: لَكُمۡ
+    arabic: لَكُم
     translation: to you
     transliteration: lakum
   11:
@@ -51,27 +50,27 @@ word_by_word:
     translation: some
     transliteration: baʿḍa
   12:
-    arabic: الَّذِىۡ
+    arabic: ٱلَّذِي
     translation: (of) that which
     transliteration: alladhī
   13:
-    arabic: تَخۡتَلِفُوۡنَ
+    arabic: تَخۡتَلِفُونَ
     translation: you differ
     transliteration: takhtalifūna
   14:
-    arabic: فِيۡهِ​ ۚ
+    arabic: فِيهِۖ
     translation: in it
     transliteration: fīhi
   15:
-    arabic: فَاتَّقُوا
+    arabic: فَٱتَّقُواْ
     translation: So fear
     transliteration: fa-ittaqū
   16:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   17:
-    arabic: وَاَطِيۡعُوۡنِ‏
+    arabic: وَأَطِيعُونِ
     translation: and obey me
     transliteration: wa-aṭīʿūni
 ---

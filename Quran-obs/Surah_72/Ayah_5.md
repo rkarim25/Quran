@@ -1,35 +1,35 @@
 ---
-arabic_ayat: وَّاَنَّا ظَنَنَّاۤ اَنۡ لَّنۡ تَقُوۡلَ الۡاِنۡسُ وَالۡجِنُّ عَلَى اللّٰهِ
-  كَذِبًا ۙ‏
+arabic_ayat: وَأَنَّا ظَنَنَّآ أَن لَّن تَقُولَ ٱلۡإِنسُ وَٱلۡجِنُّ عَلَى ٱللَّهِ
+  كَذِبٗا
 sentence_translation: We certainly thought that humans and jinn would never speak
   lies about Allah.
 word_by_word:
   1:
-    arabic: وَّاَنَّا
+    arabic: وَأَنَّا
     translation: And that we
     transliteration: wa-annā
   2:
-    arabic: ظَنَنَّاۤ
+    arabic: ظَنَنَّآ
     translation: thought
     transliteration: ẓanannā
   3:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that
     transliteration: an
   4:
-    arabic: لَّنۡ
+    arabic: لَّن
     translation: never
     transliteration: lan
   5:
-    arabic: تَقُوۡلَ
+    arabic: تَقُولَ
     translation: will say
     transliteration: taqūla
   6:
-    arabic: الۡاِنۡسُ
+    arabic: ٱلۡإِنسُ
     translation: the men
     transliteration: l-insu
   7:
-    arabic: وَالۡجِنُّ
+    arabic: وَٱلۡجِنُّ
     translation: and the jinn
     transliteration: wal-jinu
   8:
@@ -37,11 +37,11 @@ word_by_word:
     translation: against
     transliteration: ʿalā
   9:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   10:
-    arabic: كَذِبًا ۙ‏
+    arabic: كَذِبٗا
     translation: any lie
     transliteration: kadhiban
 ---

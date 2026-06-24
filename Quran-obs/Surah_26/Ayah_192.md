@@ -1,13 +1,13 @@
 ---
-arabic_ayat: وَاِنَّهٗ لَـتَنۡزِيۡلُ رَبِّ الۡعٰلَمِيۡنَؕ‏
+arabic_ayat: وَإِنَّهُۥ لَتَنزِيلُ رَبِّ ٱلۡعَٰلَمِينَ
 sentence_translation: This is certainly a revelation from the Lord of all worlds,
 word_by_word:
   1:
-    arabic: وَاِنَّهٗ
+    arabic: وَإِنَّهُۥ
     translation: And indeed, it
     transliteration: wa-innahu
   2:
-    arabic: لَـتَنۡزِيۡلُ
+    arabic: لَتَنزِيلُ
     translation: surely, is a Revelation
     transliteration: latanzīlu
   3:
@@ -15,7 +15,7 @@ word_by_word:
     translation: (of the) Lord
     transliteration: rabbi
   4:
-    arabic: الۡعٰلَمِيۡنَؕ‏
+    arabic: ٱلۡعَٰلَمِينَ
     translation: (of) the worlds
     transliteration: l-ʿālamīna
 ---

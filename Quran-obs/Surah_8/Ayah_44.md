@@ -1,61 +1,61 @@
 ---
-arabic_ayat: وَ اِذۡ يُرِيۡكُمُوۡهُمۡ اِذِ الۡتَقَيۡتُمۡ فِىۡۤ اَعۡيُنِكُمۡ قَلِيۡلًا
-  وَّيُقَلِّلُكُمۡ فِىۡۤ اَعۡيُنِهِمۡ لِيَـقۡضِىَ اللّٰهُ اَمۡرًا كَانَ مَفۡعُوۡلًا
-  ؕ وَاِلَى اللّٰهِ تُرۡجَعُ الۡاُمُوۡرُ‏
+arabic_ayat: وَإِذۡ يُرِيكُمُوهُمۡ إِذِ ٱلۡتَقَيۡتُمۡ فِيٓ أَعۡيُنِكُمۡ قَلِيلٗا وَيُقَلِّلُكُمۡ
+  فِيٓ أَعۡيُنِهِمۡ لِيَقۡضِيَ ٱللَّهُ أَمۡرٗا كَانَ مَفۡعُولٗاۗ وَإِلَى ٱللَّهِ تُرۡجَعُ
+  ٱلۡأُمُورُ
 sentence_translation: Then when your armies met, Allah made them appear as few in
   your eyes, and made you appear as few in theirs, so Allah may establish what He
   had destined. And to Allah ˹all˺ matters will be returned ˹for judgment˺.
 word_by_word:
   1:
-    arabic: وَ اِذۡ
+    arabic: وَإِذۡ
     translation: And when
     transliteration: wa-idh
   2:
-    arabic: يُرِيۡكُمُوۡهُمۡ
+    arabic: يُرِيكُمُوهُمۡ
     translation: He showed them to you
     transliteration: yurīkumūhum
   3:
-    arabic: اِذِ
+    arabic: إِذِ
     translation: when
     transliteration: idhi
   4:
-    arabic: الۡتَقَيۡتُمۡ
+    arabic: ٱلۡتَقَيۡتُمۡ
     translation: 'you met '
     transliteration: l-taqaytum
   5:
-    arabic: فِىۡۤ
+    arabic: فِيٓ
     translation: in
     transliteration: fī
   6:
-    arabic: اَعۡيُنِكُمۡ
+    arabic: أَعۡيُنِكُمۡ
     translation: your eyes
     transliteration: aʿyunikum
   7:
-    arabic: قَلِيۡلًا
+    arabic: قَلِيلٗا
     translation: (as) few
     transliteration: qalīlan
   8:
-    arabic: وَّيُقَلِّلُكُمۡ
+    arabic: وَيُقَلِّلُكُمۡ
     translation: and He made you (appear) as few
     transliteration: wayuqallilukum
   9:
-    arabic: فِىۡۤ
+    arabic: فِيٓ
     translation: in
     transliteration: fī
   10:
-    arabic: اَعۡيُنِهِمۡ
+    arabic: أَعۡيُنِهِمۡ
     translation: their eyes
     transliteration: aʿyunihim
   11:
-    arabic: لِيَـقۡضِىَ
+    arabic: لِيَقۡضِيَ
     translation: that might accomplish
     transliteration: liyaqḍiya
   12:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah might accomplish
     transliteration: l-lahu
   13:
-    arabic: اَمۡرًا
+    arabic: أَمۡرٗا
     translation: a matter
     transliteration: amran
   14:
@@ -63,15 +63,15 @@ word_by_word:
     translation: (that) was
     transliteration: kāna
   15:
-    arabic: مَفۡعُوۡلًا ؕ
+    arabic: مَفۡعُولٗاۗ
     translation: (already) destined
     transliteration: mafʿūlan
   16:
-    arabic: وَاِلَى
+    arabic: وَإِلَى
     translation: And to
     transliteration: wa-ilā
   17:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   18:
@@ -79,7 +79,7 @@ word_by_word:
     translation: return
     transliteration: tur'jaʿu
   19:
-    arabic: الۡاُمُوۡرُ‏
+    arabic: ٱلۡأُمُورُ
     translation: (all) the matters
     transliteration: l-umūru
 ---

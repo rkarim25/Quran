@@ -1,13 +1,13 @@
 ---
-arabic_ayat: سَيَصۡلٰى نَارًا ذَاتَ لَهَبٍ ۖۚ‏
+arabic_ayat: سَيَصۡلَىٰ نَارٗا ذَاتَ لَهَبٖ
 sentence_translation: He will burn in a flaming Fire,
 word_by_word:
   1:
-    arabic: سَيَصۡلٰى
+    arabic: سَيَصۡلَىٰ
     translation: He will be burnt
     transliteration: sayaṣlā
   2:
-    arabic: نَارًا
+    arabic: نَارٗا
     translation: (in) a Fire
     transliteration: nāran
   3:
@@ -15,7 +15,7 @@ word_by_word:
     translation: of
     transliteration: dhāta
   4:
-    arabic: لَهَبٍ ۖۚ‏
+    arabic: لَهَبٖ
     translation: Blazing Flames
     transliteration: lahabin
 ---

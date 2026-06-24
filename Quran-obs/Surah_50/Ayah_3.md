@@ -1,10 +1,10 @@
 ---
-arabic_ayat: ءَاِذَا مِتۡنَا وَكُنَّا تُرَابًا ​ۚ ذٰ لِكَ رَجۡعٌ ۢ بَعِيۡدٌ‏
+arabic_ayat: أَءِذَا مِتۡنَا وَكُنَّا تُرَابٗاۖ ذَٰلِكَ رَجۡعُۢ بَعِيدٞ
 sentence_translation: ˹Will we be returned to life,˺ when we are dead and reduced
   to dust? Such a return is impossible.”
 word_by_word:
   1:
-    arabic: ءَاِذَا
+    arabic: أَءِذَا
     translation: What! When
     transliteration: a-idhā
   2:
@@ -16,19 +16,19 @@ word_by_word:
     translation: and have become
     transliteration: wakunnā
   4:
-    arabic: تُرَابًا ​ۚ
+    arabic: تُرَابٗاۖ
     translation: dust
     transliteration: turāban
   5:
-    arabic: ذٰ لِكَ
+    arabic: ذَٰلِكَ
     translation: That
     transliteration: dhālika
   6:
-    arabic: رَجۡعٌ ۢ
+    arabic: رَجۡعُۢ
     translation: (is) a return
     transliteration: rajʿun
   7:
-    arabic: بَعِيۡدٌ‏
+    arabic: بَعِيدٞ
     translation: far
     transliteration: baʿīdun
 ---

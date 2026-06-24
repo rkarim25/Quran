@@ -1,6 +1,6 @@
 ---
-arabic_ayat: فَلَمَّا اعۡتَزَلَهُمۡ وَمَا يَعۡبُدُوۡنَ مِنۡ دُوۡنِ اللّٰهِ ۙ وَهَبۡنَا
-  لَهٗۤ اِسۡحٰقَ وَيَعۡقُوۡبَ​ ؕ وَكُلًّا جَعَلۡنَا نَبِيًّا‏
+arabic_ayat: فَلَمَّا ٱعۡتَزَلَهُمۡ وَمَا يَعۡبُدُونَ مِن دُونِ ٱللَّهِ وَهَبۡنَا
+  لَهُۥٓ إِسۡحَٰقَ وَيَعۡقُوبَۖ وَكُلّٗا جَعَلۡنَا نَبِيّٗا
 sentence_translation: So after he had left them and what they worshipped besides Allah,
   We granted him Isaac and Jacob, and made each of them a prophet.
 word_by_word:
@@ -9,7 +9,7 @@ word_by_word:
     translation: So when
     transliteration: falammā
   2:
-    arabic: اعۡتَزَلَهُمۡ
+    arabic: ٱعۡتَزَلَهُمۡ
     translation: he left them
     transliteration: iʿ'tazalahum
   3:
@@ -17,19 +17,19 @@ word_by_word:
     translation: and what
     transliteration: wamā
   4:
-    arabic: يَعۡبُدُوۡنَ
+    arabic: يَعۡبُدُونَ
     translation: they worshipped
     transliteration: yaʿbudūna
   5:
-    arabic: مِنۡ
+    arabic: مِن
     translation: besides Allah
     transliteration: min
   6:
-    arabic: دُوۡنِ
+    arabic: دُونِ
     translation: besides Allah
     transliteration: dūni
   7:
-    arabic: اللّٰهِ ۙ
+    arabic: ٱللَّهِ
     translation: besides Allah
     transliteration: l-lahi
   8:
@@ -37,19 +37,19 @@ word_by_word:
     translation: '[and] We bestowed'
     transliteration: wahabnā
   9:
-    arabic: لَهٗۤ
+    arabic: لَهُۥٓ
     translation: '[to] him'
     transliteration: lahu
   10:
-    arabic: اِسۡحٰقَ
+    arabic: إِسۡحَٰقَ
     translation: Isaac
     transliteration: is'ḥāqa
   11:
-    arabic: وَيَعۡقُوۡبَ​ ؕ
+    arabic: وَيَعۡقُوبَۖ
     translation: and Yaqub
     transliteration: wayaʿqūba
   12:
-    arabic: وَكُلًّا
+    arabic: وَكُلّٗا
     translation: and each (of them)
     transliteration: wakullan
   13:
@@ -57,7 +57,7 @@ word_by_word:
     translation: We made
     transliteration: jaʿalnā
   14:
-    arabic: نَبِيًّا‏
+    arabic: نَبِيّٗا
     translation: a Prophet
     transliteration: nabiyyan
 ---

@@ -1,9 +1,9 @@
 ---
-arabic_ayat: اِذۡ قَالَ لِاَبِيۡهِ وَقَوۡمِهٖ مَاذَا تَعۡبُدُوۡنَ​ۚ‏
+arabic_ayat: إِذۡ قَالَ لِأَبِيهِ وَقَوۡمِهِۦ مَاذَا تَعۡبُدُونَ
 sentence_translation: and said to his father and his people, “What are you worshipping?
 word_by_word:
   1:
-    arabic: اِذۡ
+    arabic: إِذۡ
     translation: When
     transliteration: idh
   2:
@@ -11,11 +11,11 @@ word_by_word:
     translation: he said
     transliteration: qāla
   3:
-    arabic: لِاَبِيۡهِ
+    arabic: لِأَبِيهِ
     translation: to his father
     transliteration: li-abīhi
   4:
-    arabic: وَقَوۡمِهٖ
+    arabic: وَقَوۡمِهِۦ
     translation: and his people
     transliteration: waqawmihi
   5:
@@ -23,7 +23,7 @@ word_by_word:
     translation: What is it
     transliteration: mādhā
   6:
-    arabic: تَعۡبُدُوۡنَ​ۚ‏
+    arabic: تَعۡبُدُونَ
     translation: you worship
     transliteration: taʿbudūna
 ---

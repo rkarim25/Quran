@@ -1,16 +1,16 @@
 ---
-arabic_ayat: وَاِمَّا نُرِيَـنَّكَ بَعۡضَ الَّذِىۡ نَعِدُهُمۡ اَوۡ نَـتَوَفَّيَنَّكَ
-  فَاِلَيۡنَا مَرۡجِعُهُمۡ ثُمَّ اللّٰهُ شَهِيۡدٌ عَلٰى مَا يَفۡعَلُوۡنَ‏
+arabic_ayat: وَإِمَّا نُرِيَنَّكَ بَعۡضَ ٱلَّذِي نَعِدُهُمۡ أَوۡ نَتَوَفَّيَنَّكَ
+  فَإِلَيۡنَا مَرۡجِعُهُمۡ ثُمَّ ٱللَّهُ شَهِيدٌ عَلَىٰ مَا يَفۡعَلُونَ
 sentence_translation: Whether We show you ˹O Prophet˺ some of what We threaten them
   with, or cause you to die ˹before that˺, to Us is their return and Allah is a Witness
   over what they do.
 word_by_word:
   1:
-    arabic: وَاِمَّا
+    arabic: وَإِمَّا
     translation: And whether
     transliteration: wa-immā
   2:
-    arabic: نُرِيَـنَّكَ
+    arabic: نُرِيَنَّكَ
     translation: We show you
     transliteration: nuriyannaka
   3:
@@ -18,7 +18,7 @@ word_by_word:
     translation: some
     transliteration: baʿḍa
   4:
-    arabic: الَّذِىۡ
+    arabic: ٱلَّذِي
     translation: (of) that which
     transliteration: alladhī
   5:
@@ -26,15 +26,15 @@ word_by_word:
     translation: We promised them
     transliteration: naʿiduhum
   6:
-    arabic: اَوۡ
+    arabic: أَوۡ
     translation: or
     transliteration: aw
   7:
-    arabic: نَـتَوَفَّيَنَّكَ
+    arabic: نَتَوَفَّيَنَّكَ
     translation: We cause you to die
     transliteration: natawaffayannaka
   8:
-    arabic: فَاِلَيۡنَا
+    arabic: فَإِلَيۡنَا
     translation: then to Us
     transliteration: fa-ilaynā
   9:
@@ -46,15 +46,15 @@ word_by_word:
     translation: then
     transliteration: thumma
   11:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   12:
-    arabic: شَهِيۡدٌ
+    arabic: شَهِيدٌ
     translation: (is) a Witness
     transliteration: shahīdun
   13:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: over
     transliteration: ʿalā
   14:
@@ -62,7 +62,7 @@ word_by_word:
     translation: what
     transliteration: mā
   15:
-    arabic: يَفۡعَلُوۡنَ‏
+    arabic: يَفۡعَلُونَ
     translation: they do
     transliteration: yafʿalūna
 ---

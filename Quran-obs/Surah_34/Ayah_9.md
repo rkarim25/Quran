@@ -1,22 +1,22 @@
 ---
-arabic_ayat: اَفَلَمۡ يَرَوۡا اِلٰى مَا بَيۡنَ اَيۡدِيۡهِمۡ وَمَا خَلۡفَهُمۡ مِّنَ
-  السَّمَآءِ وَالۡاَرۡضِ ؕ اِنۡ نَّشَاۡ نَخۡسِفۡ بِهِمُ الۡاَرۡضَ اَوۡ نُسۡقِطۡ عَلَيۡهِمۡ
-  كِسَفًا مِّنَ السَّمَآءِ ؕ اِنَّ فِىۡ ذٰ لِكَ لَاٰيَةً لِّكُلِّ عَبۡدٍ مُّنِيۡبٍ‏
+arabic_ayat: أَفَلَمۡ يَرَوۡاْ إِلَىٰ مَا بَيۡنَ أَيۡدِيهِمۡ وَمَا خَلۡفَهُم مِّنَ
+  ٱلسَّمَآءِ وَٱلۡأَرۡضِۚ إِن نَّشَأۡ نَخۡسِفۡ بِهِمُ ٱلۡأَرۡضَ أَوۡ نُسۡقِطۡ عَلَيۡهِمۡ
+  كِسَفٗا مِّنَ ٱلسَّمَآءِۚ إِنَّ فِي ذَٰلِكَ لَأٓيَةٗ لِّكُلِّ عَبۡدٖ مُّنِيبٖ
 sentence_translation: Have they not then seen all that surrounds them of the heavens
   and the earth? If We willed, We could cause the earth to swallow them up, or cause
   ˹deadly˺ pieces of the sky to fall upon them. Surely in this is a sign for every
   servant who turns ˹to Allah˺.
 word_by_word:
   1:
-    arabic: اَفَلَمۡ
+    arabic: أَفَلَمۡ
     translation: Then, do not
     transliteration: afalam
   2:
-    arabic: يَرَوۡا
+    arabic: يَرَوۡاْ
     translation: they see
     transliteration: yaraw
   3:
-    arabic: اِلٰى
+    arabic: إِلَىٰ
     translation: towards
     transliteration: ilā
   4:
@@ -28,7 +28,7 @@ word_by_word:
     translation: (is) before them
     transliteration: bayna
   6:
-    arabic: اَيۡدِيۡهِمۡ
+    arabic: أَيۡدِيهِمۡ
     translation: (is) before them
     transliteration: aydīhim
   7:
@@ -36,7 +36,7 @@ word_by_word:
     translation: and what
     transliteration: wamā
   8:
-    arabic: خَلۡفَهُمۡ
+    arabic: خَلۡفَهُم
     translation: (is) behind them
     transliteration: khalfahum
   9:
@@ -44,19 +44,19 @@ word_by_word:
     translation: of
     transliteration: mina
   10:
-    arabic: السَّمَآءِ
+    arabic: ٱلسَّمَآءِ
     translation: the heaven
     transliteration: l-samāi
   11:
-    arabic: وَالۡاَرۡضِ ؕ
+    arabic: وَٱلۡأَرۡضِۚ
     translation: and the earth
     transliteration: wal-arḍi
   12:
-    arabic: اِنۡ
+    arabic: إِن
     translation: If
     transliteration: in
   13:
-    arabic: نَّشَاۡ
+    arabic: نَّشَأۡ
     translation: We will
     transliteration: nasha
   14:
@@ -68,11 +68,11 @@ word_by_word:
     translation: We (could) cause to swallow them
     transliteration: bihimu
   16:
-    arabic: الۡاَرۡضَ
+    arabic: ٱلۡأَرۡضَ
     translation: the earth
     transliteration: l-arḍa
   17:
-    arabic: اَوۡ
+    arabic: أَوۡ
     translation: or
     transliteration: aw
   18:
@@ -84,7 +84,7 @@ word_by_word:
     translation: upon them
     transliteration: ʿalayhim
   20:
-    arabic: كِسَفًا
+    arabic: كِسَفٗا
     translation: fragments
     transliteration: kisafan
   21:
@@ -92,23 +92,23 @@ word_by_word:
     translation: from
     transliteration: mina
   22:
-    arabic: السَّمَآءِ ؕ
+    arabic: ٱلسَّمَآءِۚ
     translation: the sky
     transliteration: l-samāi
   23:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   24:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   25:
-    arabic: ذٰ لِكَ
+    arabic: ذَٰلِكَ
     translation: that
     transliteration: dhālika
   26:
-    arabic: لَاٰيَةً
+    arabic: لَأٓيَةٗ
     translation: surely, is a Sign
     transliteration: laāyatan
   27:
@@ -116,11 +116,11 @@ word_by_word:
     translation: for every
     transliteration: likulli
   28:
-    arabic: عَبۡدٍ
+    arabic: عَبۡدٖ
     translation: slave
     transliteration: ʿabdin
   29:
-    arabic: مُّنِيۡبٍ‏
+    arabic: مُّنِيبٖ
     translation: who turns (to Allah)
     transliteration: munībin
 ---

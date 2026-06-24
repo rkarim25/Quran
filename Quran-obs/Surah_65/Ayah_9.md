@@ -1,5 +1,5 @@
 ---
-arabic_ayat: فَذَاقَتۡ وَبَالَ اَمۡرِهَا وَكَانَ عَاقِبَةُ اَمۡرِهَا خُسۡرًا‏
+arabic_ayat: فَذَاقَتۡ وَبَالَ أَمۡرِهَا وَكَانَ عَٰقِبَةُ أَمۡرِهَا خُسۡرًا
 sentence_translation: So they tasted the evil consequences of their doings, and the
   outcome of their doings was ˹total˺ loss.
 word_by_word:
@@ -12,7 +12,7 @@ word_by_word:
     translation: (the bad) consequence
     transliteration: wabāla
   3:
-    arabic: اَمۡرِهَا
+    arabic: أَمۡرِهَا
     translation: (of) its affair
     transliteration: amrihā
   4:
@@ -20,15 +20,15 @@ word_by_word:
     translation: and was
     transliteration: wakāna
   5:
-    arabic: عَاقِبَةُ
+    arabic: عَٰقِبَةُ
     translation: (the) end
     transliteration: ʿāqibatu
   6:
-    arabic: اَمۡرِهَا
+    arabic: أَمۡرِهَا
     translation: (of) its affair
     transliteration: amrihā
   7:
-    arabic: خُسۡرًا‏
+    arabic: خُسۡرًا
     translation: loss
     transliteration: khus'ran
 ---

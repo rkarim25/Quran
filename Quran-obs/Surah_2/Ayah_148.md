@@ -1,17 +1,17 @@
 ---
-arabic_ayat: وَلِكُلٍّ وِّجۡهَةٌ هُوَ مُوَلِّيۡهَا ​ۚ فَاسۡتَبِقُوا الۡخَيۡرٰتِؕ اَيۡنَ
-  مَا تَكُوۡنُوۡا يَاۡتِ بِكُمُ اللّٰهُ جَمِيۡعًا ؕ اِنَّ اللّٰهَ عَلٰى كُلِّ شَىۡءٍ
-  قَدِيۡرٌ‏
+arabic_ayat: وَلِكُلّٖ وِجۡهَةٌ هُوَ مُوَلِّيهَاۖ فَٱسۡتَبِقُواْ ٱلۡخَيۡرَٰتِۚ أَيۡنَ
+  مَا تَكُونُواْ يَأۡتِ بِكُمُ ٱللَّهُ جَمِيعًاۚ إِنَّ ٱللَّهَ عَلَىٰ كُلِّ شَيۡءٖ
+  قَدِيرٞ
 sentence_translation: Everyone turns to their own direction ˹of prayer˺. So compete
   with one another in doing good. Wherever you are, Allah will bring you all together
   ˹for judgment˺. Surely Allah is Most Capable of everything.
 word_by_word:
   1:
-    arabic: وَلِكُلٍّ
+    arabic: وَلِكُلّٖ
     translation: And for everyone
     transliteration: walikullin
   2:
-    arabic: وِّجۡهَةٌ
+    arabic: وِجۡهَةٌ
     translation: '(is) a direction '
     transliteration: wij'hatun
   3:
@@ -19,19 +19,19 @@ word_by_word:
     translation: he
     transliteration: huwa
   4:
-    arabic: مُوَلِّيۡهَا ​ۚ
+    arabic: مُوَلِّيهَاۖ
     translation: turns towards it
     transliteration: muwallīhā
   5:
-    arabic: فَاسۡتَبِقُوا
+    arabic: فَٱسۡتَبِقُواْ
     translation: so race
     transliteration: fa-is'tabiqū
   6:
-    arabic: الۡخَيۡرٰتِؕ
+    arabic: ٱلۡخَيۡرَٰتِۚ
     translation: (to) the good
     transliteration: l-khayrāti
   7:
-    arabic: اَيۡنَ
+    arabic: أَيۡنَ
     translation: Wherever
     transliteration: ayna
   8:
@@ -39,11 +39,11 @@ word_by_word:
     translation: that
     transliteration: mā
   9:
-    arabic: تَكُوۡنُوۡا
+    arabic: تَكُونُواْ
     translation: you will be
     transliteration: takūnū
   10:
-    arabic: يَاۡتِ
+    arabic: يَأۡتِ
     translation: will bring
     transliteration: yati
   11:
@@ -51,23 +51,23 @@ word_by_word:
     translation: you
     transliteration: bikumu
   12:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: (by) Allah
     transliteration: l-lahu
   13:
-    arabic: جَمِيۡعًا ؕ
+    arabic: جَمِيعًاۚ
     translation: together
     transliteration: jamīʿan
   14:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   15:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   16:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: (is) on
     transliteration: ʿalā
   17:
@@ -75,11 +75,11 @@ word_by_word:
     translation: every
     transliteration: kulli
   18:
-    arabic: شَىۡءٍ
+    arabic: شَيۡءٖ
     translation: thing
     transliteration: shayin
   19:
-    arabic: قَدِيۡرٌ‏
+    arabic: قَدِيرٞ
     translation: All-Powerful
     transliteration: qadīrun
 ---

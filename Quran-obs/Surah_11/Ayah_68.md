@@ -1,11 +1,11 @@
 ---
-arabic_ayat: كَاَنۡ لَّمۡ يَغۡنَوۡا فِيۡهَا​ ؕ اَلَاۤ اِنَّ ثَمُوۡدَا۟ كَفَرُوۡا رَبَّهُمۡ​ؕ
-  اَلَا بُعۡدًا لِّـثَمُوۡدَ‏
+arabic_ayat: كَأَن لَّمۡ يَغۡنَوۡاْ فِيهَآۗ أَلَآ إِنَّ ثَمُودَاْ كَفَرُواْ رَبَّهُمۡۗ
+  أَلَا بُعۡدٗا لِّثَمُودَ
 sentence_translation: as if they had never lived there. Surely Thamûd denied their
   Lord, so away with Thamûd!
 word_by_word:
   1:
-    arabic: كَاَنۡ
+    arabic: كَأَن
     translation: As if
     transliteration: ka-an
   2:
@@ -13,43 +13,43 @@ word_by_word:
     translation: not
     transliteration: lam
   3:
-    arabic: يَغۡنَوۡا
+    arabic: يَغۡنَوۡاْ
     translation: they (had) prospered
     transliteration: yaghnaw
   4:
-    arabic: فِيۡهَا​ ؕ
+    arabic: فِيهَآۗ
     translation: therein
     transliteration: fīhā
   5:
-    arabic: اَلَاۤ
+    arabic: أَلَآ
     translation: No doubt
     transliteration: alā
   6:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: indeed
     transliteration: inna
   7:
-    arabic: ثَمُوۡدَا۟
+    arabic: ثَمُودَاْ
     translation: Thamud
     transliteration: thamūdā
   8:
-    arabic: كَفَرُوۡا
+    arabic: كَفَرُواْ
     translation: disbelieved
     transliteration: kafarū
   9:
-    arabic: رَبَّهُمۡ​ؕ
+    arabic: رَبَّهُمۡۗ
     translation: (in) their Lord
     transliteration: rabbahum
   10:
-    arabic: اَلَا
+    arabic: أَلَا
     translation: so
     transliteration: alā
   11:
-    arabic: بُعۡدًا
+    arabic: بُعۡدٗا
     translation: away
     transliteration: buʿ'dan
   12:
-    arabic: لِّـثَمُوۡدَ‏
+    arabic: لِّثَمُودَ
     translation: with Thamud
     transliteration: lithamūda
 ---

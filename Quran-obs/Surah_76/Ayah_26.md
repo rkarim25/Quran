@@ -1,5 +1,5 @@
 ---
-arabic_ayat: وَمِنَ الَّيۡلِ فَاسۡجُدۡ لَهٗ وَسَبِّحۡهُ لَيۡلًا طَوِيۡلًا‏
+arabic_ayat: وَمِنَ ٱلَّيۡلِ فَٱسۡجُدۡ لَهُۥ وَسَبِّحۡهُ لَيۡلٗا طَوِيلًا
 sentence_translation: and prostrate before Him during part of the night, and glorify
   Him long at night. 
 word_by_word:
@@ -8,15 +8,15 @@ word_by_word:
     translation: And of
     transliteration: wamina
   2:
-    arabic: الَّيۡلِ
+    arabic: ٱلَّيۡلِ
     translation: the night
     transliteration: al-layli
   3:
-    arabic: فَاسۡجُدۡ
+    arabic: فَٱسۡجُدۡ
     translation: prostrate
     transliteration: fa-us'jud
   4:
-    arabic: لَهٗ
+    arabic: لَهُۥ
     translation: to Him
     transliteration: lahu
   5:
@@ -24,11 +24,11 @@ word_by_word:
     translation: and glorify Him
     transliteration: wasabbiḥ'hu
   6:
-    arabic: لَيۡلًا
+    arabic: لَيۡلٗا
     translation: a night
     transliteration: laylan
   7:
-    arabic: طَوِيۡلًا‏
+    arabic: طَوِيلًا
     translation: long
     transliteration: ṭawīlan
 ---

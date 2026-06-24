@@ -1,6 +1,6 @@
 ---
-arabic_ayat: وَقَالَ رَبُّكُمُ ادۡعُوۡنِىۡۤ اَسۡتَجِبۡ لَـكُمۡؕ اِنَّ الَّذِيۡنَ يَسۡتَكۡبِرُوۡنَ
-  عَنۡ عِبَادَتِىۡ سَيَدۡخُلُوۡنَ جَهَنَّمَ دَاخِرِيۡنَ‏
+arabic_ayat: وَقَالَ رَبُّكُمُ ٱدۡعُونِيٓ أَسۡتَجِبۡ لَكُمۡۚ إِنَّ ٱلَّذِينَ يَسۡتَكۡبِرُونَ
+  عَنۡ عِبَادَتِي سَيَدۡخُلُونَ جَهَنَّمَ دَاخِرِينَ
 sentence_translation: Your Lord has proclaimed, “Call upon Me, I will respond to you.
   Surely those who are too proud to worship Me will enter Hell, fully humbled.”
 word_by_word:
@@ -13,27 +13,27 @@ word_by_word:
     translation: your Lord
     transliteration: rabbukumu
   3:
-    arabic: ادۡعُوۡنِىۡۤ
+    arabic: ٱدۡعُونِيٓ
     translation: Call upon Me
     transliteration: id'ʿūnī
   4:
-    arabic: اَسۡتَجِبۡ
+    arabic: أَسۡتَجِبۡ
     translation: I will respond
     transliteration: astajib
   5:
-    arabic: لَـكُمۡؕ
+    arabic: لَكُمۡۚ
     translation: to you
     transliteration: lakum
   6:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   7:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   8:
-    arabic: يَسۡتَكۡبِرُوۡنَ
+    arabic: يَسۡتَكۡبِرُونَ
     translation: (are) proud
     transliteration: yastakbirūna
   9:
@@ -41,11 +41,11 @@ word_by_word:
     translation: to
     transliteration: ʿan
   10:
-    arabic: عِبَادَتِىۡ
+    arabic: عِبَادَتِي
     translation: worship Me
     transliteration: ʿibādatī
   11:
-    arabic: سَيَدۡخُلُوۡنَ
+    arabic: سَيَدۡخُلُونَ
     translation: will enter
     transliteration: sayadkhulūna
   12:
@@ -53,7 +53,7 @@ word_by_word:
     translation: Hell
     transliteration: jahannama
   13:
-    arabic: دَاخِرِيۡنَ‏
+    arabic: دَاخِرِينَ
     translation: (in) humiliation
     transliteration: dākhirīna
 ---

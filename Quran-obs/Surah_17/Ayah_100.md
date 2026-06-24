@@ -1,12 +1,12 @@
 ---
-arabic_ayat: قُلْ لَّوۡ اَنۡـتُمۡ تَمۡلِكُوۡنَ خَزَآٮِٕنَ رَحۡمَةِ رَبِّىۡۤ اِذًا
-  لَّاَمۡسَكۡتُمۡ خَشۡيَةَ الۡاِنۡفَاقِ​ ؕ وَكَانَ الۡاِنۡسَانُ قَتُوۡرًا‏
+arabic_ayat: قُل لَّوۡ أَنتُمۡ تَمۡلِكُونَ خَزَآئِنَ رَحۡمَةِ رَبِّيٓ إِذٗا لَّأَمۡسَكۡتُمۡ
+  خَشۡيَةَ ٱلۡإِنفَاقِۚ وَكَانَ ٱلۡإِنسَٰنُ قَتُورٗا
 sentence_translation: Say ˹to them, O  Prophet˺, “Even if you were to possess the
   ˹infinite˺ treasuries of my Lord’s mercy, then you would certainly withhold ˹them˺,
   fearing they would run out—for humankind is ever stingy!”
 word_by_word:
   1:
-    arabic: قُلْ
+    arabic: قُل
     translation: Say
     transliteration: qul
   2:
@@ -14,15 +14,15 @@ word_by_word:
     translation: If
     transliteration: law
   3:
-    arabic: اَنۡـتُمۡ
+    arabic: أَنتُمۡ
     translation: you
     transliteration: antum
   4:
-    arabic: تَمۡلِكُوۡنَ
+    arabic: تَمۡلِكُونَ
     translation: possess
     transliteration: tamlikūna
   5:
-    arabic: خَزَآٮِٕنَ
+    arabic: خَزَآئِنَ
     translation: the treasures
     transliteration: khazāina
   6:
@@ -30,15 +30,15 @@ word_by_word:
     translation: (of) the Mercy
     transliteration: raḥmati
   7:
-    arabic: رَبِّىۡۤ
+    arabic: رَبِّيٓ
     translation: (of) my Lord
     transliteration: rabbī
   8:
-    arabic: اِذًا
+    arabic: إِذٗا
     translation: then
     transliteration: idhan
   9:
-    arabic: لَّاَمۡسَكۡتُمۡ
+    arabic: لَّأَمۡسَكۡتُمۡ
     translation: surely you would withhold
     transliteration: la-amsaktum
   10:
@@ -46,7 +46,7 @@ word_by_word:
     translation: (out of) fear
     transliteration: khashyata
   11:
-    arabic: الۡاِنۡفَاقِ​ ؕ
+    arabic: ٱلۡإِنفَاقِۚ
     translation: (of) spending
     transliteration: l-infāqi
   12:
@@ -54,11 +54,11 @@ word_by_word:
     translation: And is
     transliteration: wakāna
   13:
-    arabic: الۡاِنۡسَانُ
+    arabic: ٱلۡإِنسَٰنُ
     translation: man
     transliteration: l-insānu
   14:
-    arabic: قَتُوۡرًا‏
+    arabic: قَتُورٗا
     translation: stingy
     transliteration: qatūran
 ---

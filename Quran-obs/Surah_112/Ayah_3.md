@@ -1,5 +1,5 @@
 ---
-arabic_ayat: لَمۡ يَلِدۡ   ۙ وَلَمۡ يُوۡلَدۡ ۙ‏
+arabic_ayat: لَمۡ يَلِدۡ وَلَمۡ يُولَدۡ
 sentence_translation: He has never had offspring, nor was He born.
 word_by_word:
   1:
@@ -7,7 +7,7 @@ word_by_word:
     translation: Not
     transliteration: lam
   2:
-    arabic: يَلِدۡ   ۙ
+    arabic: يَلِدۡ
     translation: He begets
     transliteration: yalid
   3:
@@ -15,7 +15,7 @@ word_by_word:
     translation: and not
     transliteration: walam
   4:
-    arabic: يُوۡلَدۡ ۙ‏
+    arabic: يُولَدۡ
     translation: He is begotten
     transliteration: yūlad
 ---

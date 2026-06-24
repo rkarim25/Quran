@@ -1,10 +1,10 @@
 ---
-arabic_ayat: لَقَدۡ كَانَ فِىۡ يُوۡسُفَ وَاِخۡوَتِهٖۤ اٰيٰتٌ لِّـلسَّآٮِٕلِيۡنَ‏
+arabic_ayat: ۞ لَّقَدۡ كَانَ فِي يُوسُفَ وَإِخۡوَتِهِۦٓ ءَايَٰتٞ لِّلسَّآئِلِينَ
 sentence_translation: Indeed, in the story of Joseph and his brothers there are lessons
   for all who ask.
 word_by_word:
   1:
-    arabic: ۞ لَقَدۡ
+    arabic: ۞ لَّقَدۡ
     translation: Certainly
     transliteration: laqad
   2:
@@ -12,23 +12,23 @@ word_by_word:
     translation: were
     transliteration: kāna
   3:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   4:
-    arabic: يُوۡسُفَ
+    arabic: يُوسُفَ
     translation: Yusuf
     transliteration: yūsufa
   5:
-    arabic: وَاِخۡوَتِهٖۤ
+    arabic: وَإِخۡوَتِهِۦٓ ءَ
     translation: and his brothers
     transliteration: wa-ikh'watihi
   6:
-    arabic: اٰيٰتٌ
+    arabic: ايَٰتٞ
     translation: signs
     transliteration: āyātun
   7:
-    arabic: لِّـلسَّآٮِٕلِيۡنَ‏
+    arabic: لِّلسَّآئِلِينَ
     translation: for those who ask
     transliteration: lilssāilīna
 ---

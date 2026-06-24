@@ -1,17 +1,17 @@
 ---
-arabic_ayat: وَاِبۡرٰهِيۡمَ الَّذِىۡ وَفّٰىٓ  ۙ‏
+arabic_ayat: وَإِبۡرَٰهِيمَ ٱلَّذِي وَفَّىٰٓ
 sentence_translation: and ˹that of˺ Abraham, who ˹perfectly˺ fulfilled ˹his covenant˺?
 word_by_word:
   1:
-    arabic: وَاِبۡرٰهِيۡمَ
+    arabic: وَإِبۡرَٰهِيمَ
     translation: And Ibrahim
     transliteration: wa-ib'rāhīma
   2:
-    arabic: الَّذِىۡ
+    arabic: ٱلَّذِي
     translation: who
     transliteration: alladhī
   3:
-    arabic: وَفّٰىٓ  ۙ‏
+    arabic: وَفَّىٰٓ
     translation: fulfilled
     transliteration: waffā
 ---

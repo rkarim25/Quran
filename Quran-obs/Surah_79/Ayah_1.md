@@ -1,13 +1,13 @@
 ---
-arabic_ayat: وَالنّٰزِعٰتِ غَرۡقًا ۙ‏
+arabic_ayat: وَٱلنَّٰزِعَٰتِ غَرۡقٗا
 sentence_translation: By those ˹angels˺ stripping out ˹evil souls˺ harshly,
 word_by_word:
   1:
-    arabic: وَالنّٰزِعٰتِ
+    arabic: وَٱلنَّٰزِعَٰتِ
     translation: By those who extract
     transliteration: wal-nāziʿāti
   2:
-    arabic: غَرۡقًا ۙ‏
+    arabic: غَرۡقٗا
     translation: violently
     transliteration: gharqan
 ---

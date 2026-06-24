@@ -1,43 +1,43 @@
 ---
-arabic_ayat: وَاِذَا جَآءَتۡهُمۡ اٰيَةٌ قَالُوۡا لَنۡ نُّـؤۡمِنَ حَتّٰى نُؤۡتٰى مِثۡلَ
-  مَاۤ اُوۡتِىَ رُسُلُ اللّٰهِؔ​ۘؕ اَللّٰهُ اَعۡلَمُ حَيۡثُ يَجۡعَلُ رِسٰلَـتَهٗ​
-  ؕ سَيُصِيۡبُ الَّذِيۡنَ اَجۡرَمُوۡا صَغَارٌ عِنۡدَ اللّٰهِ وَعَذَابٌ شَدِيۡدٌۢ بِمَا
-  كَانُوۡا يَمۡكُرُوۡنَ‏
+arabic_ayat: وَإِذَا جَآءَتۡهُمۡ ءَايَةٞ قَالُواْ لَن نُّؤۡمِنَ حَتَّىٰ نُؤۡتَىٰ
+  مِثۡلَ مَآ أُوتِيَ رُسُلُ ٱللَّهِۘ ٱللَّهُ أَعۡلَمُ حَيۡثُ يَجۡعَلُ رِسَالَتَهُۥۗ
+  سَيُصِيبُ ٱلَّذِينَ أَجۡرَمُواْ صَغَارٌ عِندَ ٱللَّهِ وَعَذَابٞ شَدِيدُۢ بِمَا كَانُواْ
+  يَمۡكُرُونَ
 sentence_translation: Whenever a sign comes to them, they say, “We will never believe
   until we receive what Allah’s messengers received.” Allah knows best where to place
   His message. The wicked will soon be overwhelmed by humiliation from Allah and a
   severe punishment for their evil plots.
 word_by_word:
   1:
-    arabic: وَاِذَا
+    arabic: وَإِذَا
     translation: And when
     transliteration: wa-idhā
   2:
-    arabic: جَآءَتۡهُمۡ
+    arabic: جَآءَتۡهُمۡ ءَ
     translation: comes to them
     transliteration: jāathum
   3:
-    arabic: اٰيَةٌ
+    arabic: ايَةٞ
     translation: a Sign
     transliteration: āyatun
   4:
-    arabic: قَالُوۡا
+    arabic: قَالُواْ
     translation: they say
     transliteration: qālū
   5:
-    arabic: لَنۡ
+    arabic: لَن
     translation: Never
     transliteration: lan
   6:
-    arabic: نُّـؤۡمِنَ
+    arabic: نُّؤۡمِنَ
     translation: we will believe
     transliteration: nu'mina
   7:
-    arabic: حَتّٰى
+    arabic: حَتَّىٰ
     translation: until
     transliteration: ḥattā
   8:
-    arabic: نُؤۡتٰى
+    arabic: نُؤۡتَىٰ
     translation: we are given
     transliteration: nu'tā
   9:
@@ -45,11 +45,11 @@ word_by_word:
     translation: like
     transliteration: mith'la
   10:
-    arabic: مَاۤ
+    arabic: مَآ
     translation: what
     transliteration: mā
   11:
-    arabic: اُوۡتِىَ
+    arabic: أُوتِيَ
     translation: was given
     transliteration: ūtiya
   12:
@@ -57,15 +57,15 @@ word_by_word:
     translation: (to the) Messengers
     transliteration: rusulu
   13:
-    arabic: اللّٰهِؔ​ۘؕ
+    arabic: ٱللَّهِۘ
     translation: (of) Allah
     transliteration: l-lahi
   14:
-    arabic: اَللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   15:
-    arabic: اَعۡلَمُ
+    arabic: أَعۡلَمُ
     translation: knows best
     transliteration: aʿlamu
   16:
@@ -77,19 +77,19 @@ word_by_word:
     translation: He places
     transliteration: yajʿalu
   18:
-    arabic: رِسٰلَـتَهٗ​ ؕ
+    arabic: رِسَالَتَهُۥۗ
     translation: His Message
     transliteration: risālatahu
   19:
-    arabic: سَيُصِيۡبُ
+    arabic: سَيُصِيبُ
     translation: Will afflict
     transliteration: sayuṣību
   20:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   21:
-    arabic: اَجۡرَمُوۡا
+    arabic: أَجۡرَمُواْ
     translation: committed crimes
     transliteration: ajramū
   22:
@@ -97,19 +97,19 @@ word_by_word:
     translation: a humiliation
     transliteration: ṣaghārun
   23:
-    arabic: عِنۡدَ
+    arabic: عِندَ
     translation: from
     transliteration: ʿinda
   24:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   25:
-    arabic: وَعَذَابٌ
+    arabic: وَعَذَابٞ
     translation: and a punishment
     transliteration: waʿadhābun
   26:
-    arabic: شَدِيۡدٌۢ
+    arabic: شَدِيدُۢ
     translation: severe
     transliteration: shadīdun
   27:
@@ -117,11 +117,11 @@ word_by_word:
     translation: for what
     transliteration: bimā
   28:
-    arabic: كَانُوۡا
+    arabic: كَانُواْ
     translation: they used to
     transliteration: kānū
   29:
-    arabic: يَمۡكُرُوۡنَ‏
+    arabic: يَمۡكُرُونَ
     translation: plot
     transliteration: yamkurūna
 ---

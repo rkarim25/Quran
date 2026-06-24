@@ -1,13 +1,13 @@
 ---
-arabic_ayat: وَلِسَانًا وَّشَفَتَيۡنِۙ‏
+arabic_ayat: وَلِسَانٗا وَشَفَتَيۡنِ
 sentence_translation: a tongue, and two lips;
 word_by_word:
   1:
-    arabic: وَلِسَانًا
+    arabic: وَلِسَانٗا
     translation: And a tongue
     transliteration: walisānan
   2:
-    arabic: وَّشَفَتَيۡنِۙ‏
+    arabic: وَشَفَتَيۡنِ
     translation: and two lips
     transliteration: washafatayni
 ---

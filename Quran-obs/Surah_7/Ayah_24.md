@@ -1,6 +1,6 @@
 ---
-arabic_ayat: قَالَ اهۡبِطُوۡا بَعۡضُكُمۡ لِبَـعۡضٍ عَدُوٌّ​ ۚ وَلَـكُمۡ فِى الۡاَرۡضِ
-  مُسۡتَقَرٌّ وَّمَتَاعٌ اِلٰى حِيۡنٍ‏
+arabic_ayat: قَالَ ٱهۡبِطُواْ بَعۡضُكُمۡ لِبَعۡضٍ عَدُوّٞۖ وَلَكُمۡ فِي ٱلۡأَرۡضِ
+  مُسۡتَقَرّٞ وَمَتَٰعٌ إِلَىٰ حِينٖ
 sentence_translation: Allah said, “Descend as enemies to each other. You will find
   in the earth a residence and provision for your appointed stay.”
 word_by_word:
@@ -9,7 +9,7 @@ word_by_word:
     translation: (Allah) said
     transliteration: qāla
   2:
-    arabic: اهۡبِطُوۡا
+    arabic: ٱهۡبِطُواْ
     translation: Get down
     transliteration: ih'biṭū
   3:
@@ -17,39 +17,39 @@ word_by_word:
     translation: some of you
     transliteration: baʿḍukum
   4:
-    arabic: لِبَـعۡضٍ
+    arabic: لِبَعۡضٍ
     translation: to some others
     transliteration: libaʿḍin
   5:
-    arabic: عَدُوٌّ​ ۚ
+    arabic: عَدُوّٞۖ
     translation: (as) enemy
     transliteration: ʿaduwwun
   6:
-    arabic: وَلَـكُمۡ
+    arabic: وَلَكُمۡ
     translation: And for you
     transliteration: walakum
   7:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   8:
-    arabic: الۡاَرۡضِ
+    arabic: ٱلۡأَرۡضِ
     translation: the earth
     transliteration: l-arḍi
   9:
-    arabic: مُسۡتَقَرٌّ
+    arabic: مُسۡتَقَرّٞ
     translation: (is) a dwelling place
     transliteration: mus'taqarrun
   10:
-    arabic: وَّمَتَاعٌ
+    arabic: وَمَتَٰعٌ
     translation: and livelihood
     transliteration: wamatāʿun
   11:
-    arabic: اِلٰى
+    arabic: إِلَىٰ
     translation: for
     transliteration: ilā
   12:
-    arabic: حِيۡنٍ‏
+    arabic: حِينٖ
     translation: a time
     transliteration: ḥīnin
 ---

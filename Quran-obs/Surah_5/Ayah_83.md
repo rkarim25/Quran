@@ -1,45 +1,45 @@
 ---
-arabic_ayat: وَاِذَا سَمِعُوۡا مَاۤ اُنۡزِلَ اِلَى الرَّسُوۡلِ تَرٰٓى اَعۡيُنَهُمۡ
-  تَفِيۡضُ مِنَ الدَّمۡعِ مِمَّا عَرَفُوۡا مِنَ الۡحَـقِّ​ۚ يَقُوۡلُوۡنَ رَبَّنَاۤ
-  اٰمَنَّا فَاكۡتُبۡنَا مَعَ الشّٰهِدِيۡنَ‏
+arabic_ayat: وَإِذَا سَمِعُواْ مَآ أُنزِلَ إِلَى ٱلرَّسُولِ تَرَىٰٓ أَعۡيُنَهُمۡ
+  تَفِيضُ مِنَ ٱلدَّمۡعِ مِمَّا عَرَفُواْ مِنَ ٱلۡحَقِّۖ يَقُولُونَ رَبَّنَآ ءَامَنَّا
+  فَٱكۡتُبۡنَا مَعَ ٱلشَّٰهِدِينَ
 sentence_translation: When they listen to what has been revealed to the Messenger,
   you see their eyes overflowing with tears for recognizing the truth. They say, “Our
   Lord! We believe, so count us among the witnesses.
 word_by_word:
   1:
-    arabic: وَاِذَا
+    arabic: وَإِذَا
     translation: And when
     transliteration: wa-idhā
   2:
-    arabic: سَمِعُوۡا
+    arabic: سَمِعُواْ
     translation: they listen
     transliteration: samiʿū
   3:
-    arabic: مَاۤ
+    arabic: مَآ
     translation: (to) what
     transliteration: mā
   4:
-    arabic: اُنۡزِلَ
+    arabic: أُنزِلَ
     translation: has been revealed
     transliteration: unzila
   5:
-    arabic: اِلَى
+    arabic: إِلَى
     translation: to
     transliteration: ilā
   6:
-    arabic: الرَّسُوۡلِ
+    arabic: ٱلرَّسُولِ
     translation: the Messenger
     transliteration: l-rasūli
   7:
-    arabic: تَرٰٓى
+    arabic: تَرَىٰٓ
     translation: you see
     transliteration: tarā
   8:
-    arabic: اَعۡيُنَهُمۡ
+    arabic: أَعۡيُنَهُمۡ
     translation: their eyes
     transliteration: aʿyunahum
   9:
-    arabic: تَفِيۡضُ
+    arabic: تَفِيضُ
     translation: overflowing
     transliteration: tafīḍu
   10:
@@ -47,7 +47,7 @@ word_by_word:
     translation: with
     transliteration: mina
   11:
-    arabic: الدَّمۡعِ
+    arabic: ٱلدَّمۡعِ
     translation: the tears
     transliteration: l-damʿi
   12:
@@ -55,7 +55,7 @@ word_by_word:
     translation: for what
     transliteration: mimmā
   13:
-    arabic: عَرَفُوۡا
+    arabic: عَرَفُواْ
     translation: they recognized
     transliteration: ʿarafū
   14:
@@ -63,23 +63,23 @@ word_by_word:
     translation: of
     transliteration: mina
   15:
-    arabic: الۡحَـقِّ​ۚ
+    arabic: ٱلۡحَقِّۖ
     translation: the truth
     transliteration: l-ḥaqi
   16:
-    arabic: يَقُوۡلُوۡنَ
+    arabic: يَقُولُونَ
     translation: They say
     transliteration: yaqūlūna
   17:
-    arabic: رَبَّنَاۤ
+    arabic: رَبَّنَآ ءَ
     translation: Our Lord
     transliteration: rabbanā
   18:
-    arabic: اٰمَنَّا
+    arabic: امَنَّا
     translation: we have believed
     transliteration: āmannā
   19:
-    arabic: فَاكۡتُبۡنَا
+    arabic: فَٱكۡتُبۡنَا
     translation: so write us
     transliteration: fa-uk'tub'nā
   20:
@@ -87,7 +87,7 @@ word_by_word:
     translation: with
     transliteration: maʿa
   21:
-    arabic: الشّٰهِدِيۡنَ‏
+    arabic: ٱلشَّٰهِدِينَ
     translation: the witnesses
     transliteration: l-shāhidīna
 ---

@@ -1,9 +1,9 @@
 ---
-arabic_ayat: وَ الَّذِىۡ هُوَ يُطۡعِمُنِىۡ وَيَسۡقِيۡنِۙ‏
+arabic_ayat: وَٱلَّذِي هُوَ يُطۡعِمُنِي وَيَسۡقِينِ
 sentence_translation: ˹He is˺ the One Who provides me with food and drink.
 word_by_word:
   1:
-    arabic: وَ الَّذِىۡ
+    arabic: وَٱلَّذِي
     translation: And the One Who
     transliteration: wa-alladhī
   2:
@@ -11,11 +11,11 @@ word_by_word:
     translation: '[He]'
     transliteration: huwa
   3:
-    arabic: يُطۡعِمُنِىۡ
+    arabic: يُطۡعِمُنِي
     translation: gives me food
     transliteration: yuṭ'ʿimunī
   4:
-    arabic: وَيَسۡقِيۡنِۙ‏
+    arabic: وَيَسۡقِينِ
     translation: and gives me drink
     transliteration: wayasqīni
 ---

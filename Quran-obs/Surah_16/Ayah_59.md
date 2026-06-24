@@ -1,12 +1,12 @@
 ---
-arabic_ayat: يَتَوَارٰى مِنَ الۡقَوۡمِ مِنۡ سُوۡۤءِ مَا بُشِّرَ بِهٖ ؕ اَيُمۡسِكُهٗ
-  عَلٰى هُوۡنٍ اَمۡ يَدُسُّهٗ فِى التُّـرَابِ​ ؕ اَلَا سَآءَ مَا يَحۡكُمُوۡنَ‏
+arabic_ayat: يَتَوَٰرَىٰ مِنَ ٱلۡقَوۡمِ مِن سُوٓءِ مَا بُشِّرَ بِهِۦٓۚ أَيُمۡسِكُهُۥ
+  عَلَىٰ هُونٍ أَمۡ يَدُسُّهُۥ فِي ٱلتُّرَابِۗ أَلَا سَآءَ مَا يَحۡكُمُونَ
 sentence_translation: He hides himself from the people because of the bad news he
   has received. Should he keep her in disgrace, or bury her ˹alive˺ in the ground?
   Evil indeed is their judgment!
 word_by_word:
   1:
-    arabic: يَتَوَارٰى
+    arabic: يَتَوَٰرَىٰ
     translation: He hides himself
     transliteration: yatawārā
   2:
@@ -14,15 +14,15 @@ word_by_word:
     translation: from
     transliteration: mina
   3:
-    arabic: الۡقَوۡمِ
+    arabic: ٱلۡقَوۡمِ
     translation: the people
     transliteration: l-qawmi
   4:
-    arabic: مِنۡ
+    arabic: مِن
     translation: (because) of
     transliteration: min
   5:
-    arabic: سُوۡۤءِ
+    arabic: سُوٓءِ
     translation: the evil
     transliteration: sūi
   6:
@@ -34,39 +34,39 @@ word_by_word:
     translation: he has been given good news
     transliteration: bushira
   8:
-    arabic: بِهٖ ؕ
+    arabic: بِهِۦٓۚ
     translation: about
     transliteration: bihi
   9:
-    arabic: اَيُمۡسِكُهٗ
+    arabic: أَيُمۡسِكُهُۥ
     translation: Should he keep it
     transliteration: ayum'sikuhu
   10:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: in
     transliteration: ʿalā
   11:
-    arabic: هُوۡنٍ
+    arabic: هُونٍ
     translation: humiliation
     transliteration: hūnin
   12:
-    arabic: اَمۡ
+    arabic: أَمۡ
     translation: or
     transliteration: am
   13:
-    arabic: يَدُسُّهٗ
+    arabic: يَدُسُّهُۥ
     translation: bury it
     transliteration: yadussuhu
   14:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   15:
-    arabic: التُّـرَابِ​ ؕ
+    arabic: ٱلتُّرَابِۗ
     translation: the dust
     transliteration: l-turābi
   16:
-    arabic: اَلَا
+    arabic: أَلَا
     translation: Unquestionably
     transliteration: alā
   17:
@@ -78,7 +78,7 @@ word_by_word:
     translation: (is) what
     transliteration: mā
   19:
-    arabic: يَحۡكُمُوۡنَ‏
+    arabic: يَحۡكُمُونَ
     translation: they decide
     transliteration: yaḥkumūna
 ---

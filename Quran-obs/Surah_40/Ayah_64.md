@@ -1,18 +1,18 @@
 ---
-arabic_ayat: اَللّٰهُ الَّذِىۡ جَعَلَ لَـكُمُ الۡاَرۡضَ قَرَارًا وَّالسَّمَآءَ بِنَآءً
-  وَّصَوَّرَكُمۡ فَاَحۡسَنَ صُوَرَكُمۡ وَرَزَقَكُمۡ مِّنَ الطَّيِّبٰتِ ؕ ذٰ لِكُمُ
-  اللّٰهُ رَبُّكُمۡ ​ ۖۚ فَتَبٰـرَكَ اللّٰهُ رَبُّ الۡعٰلَمِيۡنَ‏
+arabic_ayat: ٱللَّهُ ٱلَّذِي جَعَلَ لَكُمُ ٱلۡأَرۡضَ قَرَارٗا وَٱلسَّمَآءَ بِنَآءٗ
+  وَصَوَّرَكُمۡ فَأَحۡسَنَ صُوَرَكُمۡ وَرَزَقَكُم مِّنَ ٱلطَّيِّبَٰتِۚ ذَٰلِكُمُ ٱللَّهُ
+  رَبُّكُمۡۖ فَتَبَارَكَ ٱللَّهُ رَبُّ ٱلۡعَٰلَمِينَ
 sentence_translation: It is Allah Who made the earth a place of settlement for you
   and the sky a canopy. He shaped you ˹in the womb˺, perfecting your form. And He
   has provided you with what is good and lawful. That is Allah—your Lord. So Blessed
   is Allah, Lord of all worlds.
 word_by_word:
   1:
-    arabic: اَللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: al-lahu
   2:
-    arabic: الَّذِىۡ
+    arabic: ٱلَّذِي
     translation: (is) the One Who
     transliteration: alladhī
   3:
@@ -20,31 +20,31 @@ word_by_word:
     translation: made
     transliteration: jaʿala
   4:
-    arabic: لَـكُمُ
+    arabic: لَكُمُ
     translation: for you
     transliteration: lakumu
   5:
-    arabic: الۡاَرۡضَ
+    arabic: ٱلۡأَرۡضَ
     translation: the earth
     transliteration: l-arḍa
   6:
-    arabic: قَرَارًا
+    arabic: قَرَارٗا
     translation: a place of settlement
     transliteration: qarāran
   7:
-    arabic: وَّالسَّمَآءَ
+    arabic: وَٱلسَّمَآءَ
     translation: and the sky
     transliteration: wal-samāa
   8:
-    arabic: بِنَآءً
+    arabic: بِنَآءٗ
     translation: a canopy
     transliteration: bināan
   9:
-    arabic: وَّصَوَّرَكُمۡ
+    arabic: وَصَوَّرَكُمۡ
     translation: and He formed you
     transliteration: waṣawwarakum
   10:
-    arabic: فَاَحۡسَنَ
+    arabic: فَأَحۡسَنَ
     translation: and perfected
     transliteration: fa-aḥsana
   11:
@@ -52,7 +52,7 @@ word_by_word:
     translation: your forms
     transliteration: ṣuwarakum
   12:
-    arabic: وَرَزَقَكُمۡ
+    arabic: وَرَزَقَكُم
     translation: and provided you
     transliteration: warazaqakum
   13:
@@ -60,27 +60,27 @@ word_by_word:
     translation: of
     transliteration: mina
   14:
-    arabic: الطَّيِّبٰتِ ؕ
+    arabic: ٱلطَّيِّبَٰتِۚ
     translation: the good things
     transliteration: l-ṭayibāti
   15:
-    arabic: ذٰ لِكُمُ
+    arabic: ذَٰلِكُمُ
     translation: That
     transliteration: dhālikumu
   16:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: (is) Allah
     transliteration: l-lahu
   17:
-    arabic: رَبُّكُمۡ ​ ۖۚ
+    arabic: رَبُّكُمۡۖ
     translation: your Lord
     transliteration: rabbukum
   18:
-    arabic: فَتَبٰـرَكَ
+    arabic: فَتَبَارَكَ
     translation: Then blessed (is)
     transliteration: fatabāraka
   19:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   20:
@@ -88,7 +88,7 @@ word_by_word:
     translation: (the) Lord
     transliteration: rabbu
   21:
-    arabic: الۡعٰلَمِيۡنَ‏
+    arabic: ٱلۡعَٰلَمِينَ
     translation: (of) the worlds
     transliteration: l-ʿālamīna
 ---

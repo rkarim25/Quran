@@ -1,21 +1,20 @@
 ---
-arabic_ayat: "وَعَادًا وَّثَمُوۡدَا۟ وَقَدْ تَّبَيَّنَ لَـكُمۡ مِّنۡ مَّسٰكِنِهِمۡ​\
-  \ وَزَيَّنَ لَهُمُ الشَّيۡطٰنُ اَعۡمَالَهُمۡ فَصَدَّهُمۡ عَنِ السَّبِيۡلِ وَكَانُوۡا\
-  \ مُسۡتَـبۡصِرِيۡنَۙ‏ \uFEFF\uFEFF"
+arabic_ayat: وَعَادٗا وَثَمُودَاْ وَقَد تَّبَيَّنَ لَكُم مِّن مَّسَٰكِنِهِمۡۖ وَزَيَّنَ
+  لَهُمُ ٱلشَّيۡطَٰنُ أَعۡمَٰلَهُمۡ فَصَدَّهُمۡ عَنِ ٱلسَّبِيلِ وَكَانُواْ مُسۡتَبۡصِرِينَ
 sentence_translation: And the people of ’Ȃd and Thamûd ˹met a similar fate˺, which
   must be clear to you ˹Meccans˺ from their ruins. Satan made their ˹evil˺ deeds appealing
   to them, hindering them from the ˹Right˺ Way, although they were capable of reasoning.
 word_by_word:
   1:
-    arabic: وَعَادًا
+    arabic: وَعَادٗا
     translation: And Aad
     transliteration: waʿādan
   2:
-    arabic: وَّثَمُوۡدَا۟
+    arabic: وَثَمُودَاْ
     translation: and Thamud
     transliteration: wathamūdā
   3:
-    arabic: وَقَدْ
+    arabic: وَقَد
     translation: and verily
     transliteration: waqad
   4:
@@ -23,15 +22,15 @@ word_by_word:
     translation: (has) become clear
     transliteration: tabayyana
   5:
-    arabic: لَـكُمۡ
+    arabic: لَكُم
     translation: to you
     transliteration: lakum
   6:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: from
     transliteration: min
   7:
-    arabic: مَّسٰكِنِهِمۡ​
+    arabic: مَّسَٰكِنِهِمۡۖ
     translation: their dwellings
     transliteration: masākinihim
   8:
@@ -43,11 +42,11 @@ word_by_word:
     translation: to them
     transliteration: lahumu
   10:
-    arabic: الشَّيۡطٰنُ
+    arabic: ٱلشَّيۡطَٰنُ
     translation: the Shaitaan
     transliteration: l-shayṭānu
   11:
-    arabic: اَعۡمَالَهُمۡ
+    arabic: أَعۡمَٰلَهُمۡ
     translation: their deeds
     transliteration: aʿmālahum
   12:
@@ -59,15 +58,15 @@ word_by_word:
     translation: from
     transliteration: ʿani
   14:
-    arabic: السَّبِيۡلِ
+    arabic: ٱلسَّبِيلِ
     translation: the Way
     transliteration: l-sabīli
   15:
-    arabic: وَكَانُوۡا
+    arabic: وَكَانُواْ
     translation: though they were
     transliteration: wakānū
   16:
-    arabic: "مُسۡتَـبۡصِرِيۡنَۙ‏ \uFEFF\uFEFF"
+    arabic: مُسۡتَبۡصِرِينَ
     translation: endowed with insight
     transliteration: mus'tabṣirīna
 ---

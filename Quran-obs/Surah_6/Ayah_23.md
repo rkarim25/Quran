@@ -1,6 +1,6 @@
 ---
-arabic_ayat: ثُمَّ لَمۡ تَكُنۡ فِتۡـنَـتُهُمۡ اِلَّاۤ اَنۡ قَالُوۡا وَاللّٰهِ رَبِّنَا
-  مَا كُنَّا مُشۡرِكِيۡنَ‏
+arabic_ayat: ثُمَّ لَمۡ تَكُن فِتۡنَتُهُمۡ إِلَّآ أَن قَالُواْ وَٱللَّهِ رَبِّنَا
+  مَا كُنَّا مُشۡرِكِينَ
 sentence_translation: 'Their only argument will be: “By Allah, our Lord! We were never
   polytheists.”'
 word_by_word:
@@ -13,27 +13,27 @@ word_by_word:
     translation: not
     transliteration: lam
   3:
-    arabic: تَكُنۡ
+    arabic: تَكُن
     translation: will be
     transliteration: takun
   4:
-    arabic: فِتۡـنَـتُهُمۡ
+    arabic: فِتۡنَتُهُمۡ
     translation: (for) them a plea
     transliteration: fit'natuhum
   5:
-    arabic: اِلَّاۤ
+    arabic: إِلَّآ
     translation: except
     transliteration: illā
   6:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that
     transliteration: an
   7:
-    arabic: قَالُوۡا
+    arabic: قَالُواْ
     translation: they say
     transliteration: qālū
   8:
-    arabic: وَاللّٰهِ
+    arabic: وَٱللَّهِ
     translation: By Allah
     transliteration: wal-lahi
   9:
@@ -49,7 +49,7 @@ word_by_word:
     translation: we were
     transliteration: kunnā
   12:
-    arabic: مُشۡرِكِيۡنَ‏
+    arabic: مُشۡرِكِينَ
     translation: those who associated others (with Allah)
     transliteration: mush'rikīna
 ---

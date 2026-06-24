@@ -1,23 +1,23 @@
 ---
-arabic_ayat: يَدۡعُوۡا مِنۡ دُوۡنِ اللّٰهِ مَا لَا يَضُرُّهٗ وَمَا لَا يَنۡفَعُهٗ
-  ​ؕ ذٰ لِكَ هُوَ الضَّلٰلُ الۡبَعِيۡدُ​ ۚ‏
+arabic_ayat: يَدۡعُواْ مِن دُونِ ٱللَّهِ مَا لَا يَضُرُّهُۥ وَمَا لَا يَنفَعُهُۥۚ
+  ذَٰلِكَ هُوَ ٱلضَّلَٰلُ ٱلۡبَعِيدُ
 sentence_translation: They call besides Allah what can neither harm nor benefit them.
   That is ˹truly˺ the farthest one can stray.
 word_by_word:
   1:
-    arabic: يَدۡعُوۡا
+    arabic: يَدۡعُواْ
     translation: He calls
     transliteration: yadʿū
   2:
-    arabic: مِنۡ
+    arabic: مِن
     translation: besides
     transliteration: min
   3:
-    arabic: دُوۡنِ
+    arabic: دُونِ
     translation: besides
     transliteration: dūni
   4:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   5:
@@ -29,7 +29,7 @@ word_by_word:
     translation: not
     transliteration: lā
   7:
-    arabic: يَضُرُّهٗ
+    arabic: يَضُرُّهُۥ
     translation: harms him
     transliteration: yaḍurruhu
   8:
@@ -41,11 +41,11 @@ word_by_word:
     translation: not
     transliteration: lā
   10:
-    arabic: يَنۡفَعُهٗ ​ؕ
+    arabic: يَنفَعُهُۥۚ
     translation: benefits him
     transliteration: yanfaʿuhu
   11:
-    arabic: ذٰ لِكَ
+    arabic: ذَٰلِكَ
     translation: That
     transliteration: dhālika
   12:
@@ -53,11 +53,11 @@ word_by_word:
     translation: '[it]'
     transliteration: huwa
   13:
-    arabic: الضَّلٰلُ
+    arabic: ٱلضَّلَٰلُ
     translation: (is) the straying
     transliteration: l-ḍalālu
   14:
-    arabic: الۡبَعِيۡدُ​ ۚ‏
+    arabic: ٱلۡبَعِيدُ
     translation: far away
     transliteration: l-baʿīdu
 ---

@@ -1,13 +1,13 @@
 ---
-arabic_ayat: يَسۡـَٔـلُ اَيَّانَ يَوۡمُ الۡقِيٰمَةِؕ‏
+arabic_ayat: يَسۡـَٔلُ أَيَّانَ يَوۡمُ ٱلۡقِيَٰمَةِ
 sentence_translation: asking ˹mockingly˺, “When is this Day of Judgment?”
 word_by_word:
   1:
-    arabic: يَسۡـَٔـلُ
+    arabic: يَسۡـَٔلُ
     translation: He asks
     transliteration: yasalu
   2:
-    arabic: اَيَّانَ
+    arabic: أَيَّانَ
     translation: When
     transliteration: ayyāna
   3:
@@ -15,7 +15,7 @@ word_by_word:
     translation: (is the) Day
     transliteration: yawmu
   4:
-    arabic: الۡقِيٰمَةِؕ‏
+    arabic: ٱلۡقِيَٰمَةِ
     translation: (of) the Resurrection
     transliteration: l-qiyāmati
 ---

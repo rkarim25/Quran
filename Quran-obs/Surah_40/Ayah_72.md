@@ -1,13 +1,13 @@
 ---
-arabic_ayat: فِى الۡحَمِيۡمِ ۙ ثُمَّ فِى النَّارِ يُسۡجَرُوۡنَ​ ۚ‏
+arabic_ayat: فِي ٱلۡحَمِيمِ ثُمَّ فِي ٱلنَّارِ يُسۡجَرُونَ
 sentence_translation: through boiling water, then burned in the Fire ˹as fuel˺.
 word_by_word:
   1:
-    arabic: فِى
+    arabic: فِي
     translation: In
     transliteration: fī
   2:
-    arabic: الۡحَمِيۡمِ ۙ
+    arabic: ٱلۡحَمِيمِ
     translation: the boiling water
     transliteration: l-ḥamīmi
   3:
@@ -15,15 +15,15 @@ word_by_word:
     translation: then
     transliteration: thumma
   4:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   5:
-    arabic: النَّارِ
+    arabic: ٱلنَّارِ
     translation: the Fire
     transliteration: l-nāri
   6:
-    arabic: يُسۡجَرُوۡنَ​ ۚ‏
+    arabic: يُسۡجَرُونَ
     translation: they will be burned
     transliteration: yus'jarūna
 ---

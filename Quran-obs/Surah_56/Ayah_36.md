@@ -1,13 +1,13 @@
 ---
-arabic_ayat: فَجَعَلۡنٰهُنَّ اَبۡكَارًاۙ‏
+arabic_ayat: فَجَعَلۡنَٰهُنَّ أَبۡكَارًا
 sentence_translation: making them virgins,
 word_by_word:
   1:
-    arabic: فَجَعَلۡنٰهُنَّ
+    arabic: فَجَعَلۡنَٰهُنَّ
     translation: And We have made them
     transliteration: fajaʿalnāhunna
   2:
-    arabic: اَبۡكَارًاۙ‏
+    arabic: أَبۡكَارًا
     translation: virgins
     transliteration: abkāran
 ---

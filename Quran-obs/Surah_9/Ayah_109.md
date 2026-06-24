@@ -1,30 +1,30 @@
 ---
-arabic_ayat: اَفَمَنۡ اَسَّسَ بُنۡيَانَهٗ عَلٰى تَقۡوٰى مِنَ اللّٰهِ وَرِضۡوَانٍ خَيۡرٌ
-  اَمۡ مَّنۡ اَسَّسَ بُنۡيَانَهٗ عَلٰى شَفَا جُرُفٍ هَارٍ فَانۡهَارَ بِهٖ فِىۡ نَارِ
-  جَهَـنَّمَ​ؕ وَاللّٰهُ لَا يَهۡدِى الۡقَوۡمَ الظّٰلِمِيۡنَ‏
+arabic_ayat: أَفَمَنۡ أَسَّسَ بُنۡيَٰنَهُۥ عَلَىٰ تَقۡوَىٰ مِنَ ٱللَّهِ وَرِضۡوَٰنٍ
+  خَيۡرٌ أَم مَّنۡ أَسَّسَ بُنۡيَٰنَهُۥ عَلَىٰ شَفَا جُرُفٍ هَارٖ فَٱنۡهَارَ بِهِۦ
+  فِي نَارِ جَهَنَّمَۗ وَٱللَّهُ لَا يَهۡدِي ٱلۡقَوۡمَ ٱلظَّٰلِمِينَ
 sentence_translation: 'Which is better: those who laid the foundation of their building
   on the fear and pleasure of Allah, or those who did so on the edge of a crumbling
   cliff that tumbled down with them into the Fire of Hell? And Allah does not guide
   the wrongdoing people.'
 word_by_word:
   1:
-    arabic: اَفَمَنۡ
+    arabic: أَفَمَنۡ
     translation: Then is (one) who
     transliteration: afaman
   2:
-    arabic: اَسَّسَ
+    arabic: أَسَّسَ
     translation: founded
     transliteration: assasa
   3:
-    arabic: بُنۡيَانَهٗ
+    arabic: بُنۡيَٰنَهُۥ
     translation: his building
     transliteration: bun'yānahu
   4:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: 'on'
     transliteration: ʿalā
   5:
-    arabic: تَقۡوٰى
+    arabic: تَقۡوَىٰ
     translation: righteousness
     transliteration: taqwā
   6:
@@ -32,11 +32,11 @@ word_by_word:
     translation: from
     transliteration: mina
   7:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   8:
-    arabic: وَرِضۡوَانٍ
+    arabic: وَرِضۡوَٰنٍ
     translation: and (His) pleasure
     transliteration: wariḍ'wānin
   9:
@@ -44,7 +44,7 @@ word_by_word:
     translation: better
     transliteration: khayrun
   10:
-    arabic: اَمۡ
+    arabic: أَم
     translation: or
     transliteration: am
   11:
@@ -52,15 +52,15 @@ word_by_word:
     translation: (one) who
     transliteration: man
   12:
-    arabic: اَسَّسَ
+    arabic: أَسَّسَ
     translation: founded
     transliteration: assasa
   13:
-    arabic: بُنۡيَانَهٗ
+    arabic: بُنۡيَٰنَهُۥ
     translation: his building
     transliteration: bun'yānahu
   14:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: 'on'
     transliteration: ʿalā
   15:
@@ -72,19 +72,19 @@ word_by_word:
     translation: (of) a cliff
     transliteration: jurufin
   17:
-    arabic: هَارٍ
+    arabic: هَارٖ
     translation: (about to) collapse
     transliteration: hārin
   18:
-    arabic: فَانۡهَارَ
+    arabic: فَٱنۡهَارَ
     translation: so it collapsed
     transliteration: fa-in'hāra
   19:
-    arabic: بِهٖ
+    arabic: بِهِۦ
     translation: with him
     transliteration: bihi
   20:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   21:
@@ -92,11 +92,11 @@ word_by_word:
     translation: (the) Fire
     transliteration: nāri
   22:
-    arabic: جَهَـنَّمَ​ؕ
+    arabic: جَهَنَّمَۗ
     translation: (of) Hell
     transliteration: jahannama
   23:
-    arabic: وَاللّٰهُ
+    arabic: وَٱللَّهُ
     translation: And Allah
     transliteration: wal-lahu
   24:
@@ -104,15 +104,15 @@ word_by_word:
     translation: (does) not
     transliteration: lā
   25:
-    arabic: يَهۡدِى
+    arabic: يَهۡدِي
     translation: guide
     transliteration: yahdī
   26:
-    arabic: الۡقَوۡمَ
+    arabic: ٱلۡقَوۡمَ
     translation: the wrongdoing people
     transliteration: l-qawma
   27:
-    arabic: الظّٰلِمِيۡنَ‏
+    arabic: ٱلظَّٰلِمِينَ
     translation: the wrongdoing people
     transliteration: l-ẓālimīna
 ---

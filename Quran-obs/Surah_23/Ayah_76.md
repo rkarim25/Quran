@@ -1,6 +1,6 @@
 ---
-arabic_ayat: "وَلَقَدۡ اَخَذۡنٰهُمۡ بِالۡعَذَابِ فَمَا اسۡتَكَانُوۡا لِرَبِّهِمۡ وَمَا\
-  \ يَتَضَرَّعُوۡنَ‏ \uFEFF\uFEFF"
+arabic_ayat: وَلَقَدۡ أَخَذۡنَٰهُم بِٱلۡعَذَابِ فَمَا ٱسۡتَكَانُواْ لِرَبِّهِمۡ وَمَا
+  يَتَضَرَّعُونَ
 sentence_translation: And We have already seized them with torment, but they never
   humbled themselves to their Lord, nor did they ˹submissively˺ appeal ˹to Him˺.
 word_by_word:
@@ -9,11 +9,11 @@ word_by_word:
     translation: And verily
     transliteration: walaqad
   2:
-    arabic: اَخَذۡنٰهُمۡ
+    arabic: أَخَذۡنَٰهُم
     translation: We seized them
     transliteration: akhadhnāhum
   3:
-    arabic: بِالۡعَذَابِ
+    arabic: بِٱلۡعَذَابِ
     translation: with the punishment
     transliteration: bil-ʿadhābi
   4:
@@ -21,7 +21,7 @@ word_by_word:
     translation: but not
     transliteration: famā
   5:
-    arabic: اسۡتَكَانُوۡا
+    arabic: ٱسۡتَكَانُواْ
     translation: they submit
     transliteration: is'takānū
   6:
@@ -33,7 +33,7 @@ word_by_word:
     translation: and not
     transliteration: wamā
   8:
-    arabic: "يَتَضَرَّعُوۡنَ‏ \uFEFF\uFEFF"
+    arabic: يَتَضَرَّعُونَ
     translation: they supplicate humbly
     transliteration: yataḍarraʿūna
 ---

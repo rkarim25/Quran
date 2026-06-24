@@ -1,19 +1,19 @@
 ---
-arabic_ayat: وَالَّذِيۡنَ جَاهَدُوۡا فِيۡنَا لَنَهۡدِيَنَّهُمۡ سُبُلَنَا ​ؕ وَاِنَّ
-  اللّٰهَ لَمَعَ الۡمُحۡسِنِيۡنَ‏
+arabic_ayat: وَٱلَّذِينَ جَٰهَدُواْ فِينَا لَنَهۡدِيَنَّهُمۡ سُبُلَنَاۚ وَإِنَّ ٱللَّهَ
+  لَمَعَ ٱلۡمُحۡسِنِينَ
 sentence_translation: As for those who struggle in Our cause, We will surely guide
   them along Our Way. And Allah is certainly with the good-doers.
 word_by_word:
   1:
-    arabic: وَالَّذِيۡنَ
+    arabic: وَٱلَّذِينَ
     translation: And those who
     transliteration: wa-alladhīna
   2:
-    arabic: جَاهَدُوۡا
+    arabic: جَٰهَدُواْ
     translation: strive
     transliteration: jāhadū
   3:
-    arabic: فِيۡنَا
+    arabic: فِينَا
     translation: for Us
     transliteration: fīnā
   4:
@@ -21,15 +21,15 @@ word_by_word:
     translation: We will surely, guide them
     transliteration: lanahdiyannahum
   5:
-    arabic: سُبُلَنَا ​ؕ
+    arabic: سُبُلَنَاۚ
     translation: (to) Our ways
     transliteration: subulanā
   6:
-    arabic: وَاِنَّ
+    arabic: وَإِنَّ
     translation: And indeed
     transliteration: wa-inna
   7:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   8:
@@ -37,7 +37,7 @@ word_by_word:
     translation: surely (is) with
     transliteration: lamaʿa
   9:
-    arabic: الۡمُحۡسِنِيۡنَ‏
+    arabic: ٱلۡمُحۡسِنِينَ
     translation: the good-doers
     transliteration: l-muḥ'sinīna
 ---

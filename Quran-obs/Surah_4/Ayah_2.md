@@ -1,21 +1,21 @@
 ---
-arabic_ayat: "وَاٰ تُوا الۡيَتٰمٰٓى اَمۡوَالَهُمۡ​ وَلَا تَتَبَدَّلُوا الۡخَبِيۡثَ\
-  \ بِالطَّيِّبِ وَلَا تَاۡكُلُوۡۤا اَمۡوَالَهُمۡ​ اِلٰٓى اَمۡوَالِكُمۡ​ؕ اِنَّهٗ\
-  \ كَانَ حُوۡبًا كَبِيۡرًا‏‏ \uFEFF\uFEFF"
+arabic_ayat: وَءَاتُواْ ٱلۡيَتَٰمَىٰٓ أَمۡوَٰلَهُمۡۖ وَلَا تَتَبَدَّلُواْ ٱلۡخَبِيثَ
+  بِٱلطَّيِّبِۖ وَلَا تَأۡكُلُوٓاْ أَمۡوَٰلَهُمۡ إِلَىٰٓ أَمۡوَٰلِكُمۡۚ إِنَّهُۥ كَانَ
+  حُوبٗا كَبِيرٗا
 sentence_translation: Give orphans their wealth ˹when they reach maturity˺, and do
   not exchange your worthless possessions for their valuables, nor cheat them by mixing
   their wealth with your own. For this would indeed be a great sin.
 word_by_word:
   1:
-    arabic: وَاٰ تُوا
+    arabic: وَءَاتُواْ
     translation: And give
     transliteration: waātū
   2:
-    arabic: الۡيَتٰمٰٓى
+    arabic: ٱلۡيَتَٰمَىٰٓ
     translation: (to) the orphans
     transliteration: l-yatāmā
   3:
-    arabic: اَمۡوَالَهُمۡ​
+    arabic: أَمۡوَٰلَهُمۡۖ
     translation: their wealth
     transliteration: amwālahum
   4:
@@ -23,15 +23,15 @@ word_by_word:
     translation: and (do) not
     transliteration: walā
   5:
-    arabic: تَتَبَدَّلُوا
+    arabic: تَتَبَدَّلُواْ
     translation: exchange
     transliteration: tatabaddalū
   6:
-    arabic: الۡخَبِيۡثَ
+    arabic: ٱلۡخَبِيثَ
     translation: the bad
     transliteration: l-khabītha
   7:
-    arabic: بِالطَّيِّبِ
+    arabic: بِٱلطَّيِّبِۖ
     translation: with the good
     transliteration: bil-ṭayibi
   8:
@@ -39,23 +39,23 @@ word_by_word:
     translation: and (do) not
     transliteration: walā
   9:
-    arabic: تَاۡكُلُوۡۤا
+    arabic: تَأۡكُلُوٓاْ
     translation: consume
     transliteration: takulū
   10:
-    arabic: اَمۡوَالَهُمۡ​
+    arabic: أَمۡوَٰلَهُمۡ
     translation: their wealth
     transliteration: amwālahum
   11:
-    arabic: اِلٰٓى
+    arabic: إِلَىٰٓ
     translation: with
     transliteration: ilā
   12:
-    arabic: اَمۡوَالِكُمۡ​ؕ
+    arabic: أَمۡوَٰلِكُمۡۚ
     translation: your wealth
     transliteration: amwālikum
   13:
-    arabic: اِنَّهٗ
+    arabic: إِنَّهُۥ
     translation: Indeed, it
     transliteration: innahu
   14:
@@ -63,11 +63,11 @@ word_by_word:
     translation: is
     transliteration: kāna
   15:
-    arabic: حُوۡبًا
+    arabic: حُوبٗا
     translation: a sin
     transliteration: ḥūban
   16:
-    arabic: "كَبِيۡرًا‏‏ \uFEFF\uFEFF"
+    arabic: كَبِيرٗا
     translation: great
     transliteration: kabīran
 ---

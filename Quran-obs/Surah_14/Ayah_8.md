@@ -1,6 +1,6 @@
 ---
-arabic_ayat: وَقَالَ مُوۡسٰٓى اِنۡ تَكۡفُرُوۡۤا اَنۡـتُمۡ وَمَنۡ فِى الۡاَرۡضِ جَمِيۡعًا
-  ۙ فَاِنَّ اللّٰهَ لَـغَنِىٌّ حَمِيۡدٌ‏
+arabic_ayat: وَقَالَ مُوسَىٰٓ إِن تَكۡفُرُوٓاْ أَنتُمۡ وَمَن فِي ٱلۡأَرۡضِ جَمِيعٗا
+  فَإِنَّ ٱللَّهَ لَغَنِيٌّ حَمِيدٌ
 sentence_translation: Moses added, “If you along with everyone on earth were to be
   ungrateful, then ˹know that˺ Allah is indeed Self-Sufficient, Praiseworthy.”
 word_by_word:
@@ -9,51 +9,51 @@ word_by_word:
     translation: And said
     transliteration: waqāla
   2:
-    arabic: مُوۡسٰٓى
+    arabic: مُوسَىٰٓ
     translation: Musa
     transliteration: mūsā
   3:
-    arabic: اِنۡ
+    arabic: إِن
     translation: If
     transliteration: in
   4:
-    arabic: تَكۡفُرُوۡۤا
+    arabic: تَكۡفُرُوٓاْ
     translation: you disbelieve
     transliteration: takfurū
   5:
-    arabic: اَنۡـتُمۡ
+    arabic: أَنتُمۡ
     translation: you
     transliteration: antum
   6:
-    arabic: وَمَنۡ
+    arabic: وَمَن
     translation: and whoever
     transliteration: waman
   7:
-    arabic: فِى
+    arabic: فِي
     translation: (is) in
     transliteration: fī
   8:
-    arabic: الۡاَرۡضِ
+    arabic: ٱلۡأَرۡضِ
     translation: the earth
     transliteration: l-arḍi
   9:
-    arabic: جَمِيۡعًا ۙ
+    arabic: جَمِيعٗا
     translation: all
     transliteration: jamīʿan
   10:
-    arabic: فَاِنَّ
+    arabic: فَإِنَّ
     translation: then indeed
     transliteration: fa-inna
   11:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   12:
-    arabic: لَـغَنِىٌّ
+    arabic: لَغَنِيٌّ
     translation: certainly (is) Free of need
     transliteration: laghaniyyun
   13:
-    arabic: حَمِيۡدٌ‏
+    arabic: حَمِيدٌ
     translation: Praiseworthy
     transliteration: ḥamīdun
 ---

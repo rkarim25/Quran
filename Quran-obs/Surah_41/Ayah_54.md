@@ -1,27 +1,27 @@
 ---
-arabic_ayat: اَلَاۤ اِنَّهُمۡ فِىۡ مِرۡيَةٍ مِّنۡ لِّقَآءِ رَبِّهِمۡ​ؕ اَلَاۤ اِنَّهٗ
-  بِكُلِّ شَىۡءٍ مُّحِيۡطٌ‏
+arabic_ayat: أَلَآ إِنَّهُمۡ فِي مِرۡيَةٖ مِّن لِّقَآءِ رَبِّهِمۡۗ أَلَآ إِنَّهُۥ
+  بِكُلِّ شَيۡءٖ مُّحِيطُۢ
 sentence_translation: They are truly in doubt of the meeting with their Lord! ˹But˺
   He is indeed Fully Aware of everything.
 word_by_word:
   1:
-    arabic: اَلَاۤ
+    arabic: أَلَآ
     translation: Unquestionably
     transliteration: alā
   2:
-    arabic: اِنَّهُمۡ
+    arabic: إِنَّهُمۡ
     translation: they
     transliteration: innahum
   3:
-    arabic: فِىۡ
+    arabic: فِي
     translation: (are) in
     transliteration: fī
   4:
-    arabic: مِرۡيَةٍ
+    arabic: مِرۡيَةٖ
     translation: doubt
     transliteration: mir'yatin
   5:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: about
     transliteration: min
   6:
@@ -29,15 +29,15 @@ word_by_word:
     translation: (the) meeting
     transliteration: liqāi
   7:
-    arabic: رَبِّهِمۡ​ؕ
+    arabic: رَبِّهِمۡۗ
     translation: (with) their Lord
     transliteration: rabbihim
   8:
-    arabic: اَلَاۤ
+    arabic: أَلَآ
     translation: Unquestionably
     transliteration: alā
   9:
-    arabic: اِنَّهٗ
+    arabic: إِنَّهُۥ
     translation: indeed, He
     transliteration: innahu
   10:
@@ -45,11 +45,11 @@ word_by_word:
     translation: (is) of all
     transliteration: bikulli
   11:
-    arabic: شَىۡءٍ
+    arabic: شَيۡءٖ
     translation: things
     transliteration: shayin
   12:
-    arabic: مُّحِيۡطٌ‏
+    arabic: مُّحِيطُۢ
     translation: encompassing
     transliteration: muḥīṭun
 ---

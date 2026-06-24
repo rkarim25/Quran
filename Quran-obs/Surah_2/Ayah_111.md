@@ -1,32 +1,32 @@
 ---
-arabic_ayat: وَقَالُوۡا لَنۡ يَّدۡخُلَ الۡجَـنَّةَ اِلَّا مَنۡ كَانَ هُوۡدًا اَوۡ
-  نَصٰرٰى​ؕ تِلۡكَ اَمَانِيُّهُمۡ​ؕ قُلۡ هَاتُوۡا بُرۡهَانَکُمۡ اِنۡ کُنۡتُمۡ صٰدِقِيۡنَ‏
+arabic_ayat: وَقَالُواْ لَن يَدۡخُلَ ٱلۡجَنَّةَ إِلَّا مَن كَانَ هُودًا أَوۡ نَصَٰرَىٰۗ
+  تِلۡكَ أَمَانِيُّهُمۡۗ قُلۡ هَاتُواْ بُرۡهَٰنَكُمۡ إِن كُنتُمۡ صَٰدِقِينَ
 sentence_translation: The Jews and Christians each claim that none will enter Paradise
   except those of their own faith. These are their desires. Reply, ˹O Prophet,˺ “Show
   ˹me˺ your proof if what you say is true.”
 word_by_word:
   1:
-    arabic: وَقَالُوۡا
+    arabic: وَقَالُواْ
     translation: And they said
     transliteration: waqālū
   2:
-    arabic: لَنۡ
+    arabic: لَن
     translation: Never
     transliteration: lan
   3:
-    arabic: يَّدۡخُلَ
+    arabic: يَدۡخُلَ
     translation: will enter
     transliteration: yadkhula
   4:
-    arabic: الۡجَـنَّةَ
+    arabic: ٱلۡجَنَّةَ
     translation: the Paradise
     transliteration: l-janata
   5:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   6:
-    arabic: مَنۡ
+    arabic: مَن
     translation: who
     transliteration: man
   7:
@@ -34,15 +34,15 @@ word_by_word:
     translation: is
     transliteration: kāna
   8:
-    arabic: هُوۡدًا
+    arabic: هُودًا
     translation: (a) Jew[s]
     transliteration: hūdan
   9:
-    arabic: اَوۡ
+    arabic: أَوۡ
     translation: or
     transliteration: aw
   10:
-    arabic: نَصٰرٰى​ؕ
+    arabic: نَصَٰرَىٰۗ
     translation: (a) Christian[s]
     transliteration: naṣārā
   11:
@@ -50,7 +50,7 @@ word_by_word:
     translation: That
     transliteration: til'ka
   12:
-    arabic: اَمَانِيُّهُمۡ​ؕ
+    arabic: أَمَانِيُّهُمۡۗ
     translation: (is) their wishful thinking
     transliteration: amāniyyuhum
   13:
@@ -58,23 +58,23 @@ word_by_word:
     translation: Say
     transliteration: qul
   14:
-    arabic: هَاتُوۡا
+    arabic: هَاتُواْ
     translation: Bring
     transliteration: hātū
   15:
-    arabic: بُرۡهَانَکُمۡ
+    arabic: بُرۡهَٰنَكُمۡ
     translation: your proof
     transliteration: bur'hānakum
   16:
-    arabic: اِنۡ
+    arabic: إِن
     translation: if
     transliteration: in
   17:
-    arabic: کُنۡتُمۡ
+    arabic: كُنتُمۡ
     translation: you are
     transliteration: kuntum
   18:
-    arabic: صٰدِقِيۡنَ‏
+    arabic: صَٰدِقِينَ
     translation: '[those who are] truthful'
     transliteration: ṣādiqīna
 ---

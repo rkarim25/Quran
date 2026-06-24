@@ -1,6 +1,6 @@
 ---
-arabic_ayat: يَعۡلَمُ مَا يَلِجُ فِى الۡاَرۡضِ وَمَا يَخۡرُجُ مِنۡهَا وَمَا يَنۡزِلُ
-  مِنَ السَّمَآءِ وَمَا يَعۡرُجُ فِيۡهَا ؕ وَهُوَ الرَّحِيۡمُ الۡغَفُوۡرُ‏
+arabic_ayat: يَعۡلَمُ مَا يَلِجُ فِي ٱلۡأَرۡضِ وَمَا يَخۡرُجُ مِنۡهَا وَمَا يَنزِلُ
+  مِنَ ٱلسَّمَآءِ وَمَا يَعۡرُجُ فِيهَاۚ وَهُوَ ٱلرَّحِيمُ ٱلۡغَفُورُ
 sentence_translation: He knows whatever goes into the earth and whatever comes out
   of it, and whatever descends from the sky and whatever ascends into it. And He is
   the Most Merciful, All-Forgiving.
@@ -18,11 +18,11 @@ word_by_word:
     translation: penetrates
     transliteration: yaliju
   4:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   5:
-    arabic: الۡاَرۡضِ
+    arabic: ٱلۡأَرۡضِ
     translation: the earth
     transliteration: l-arḍi
   6:
@@ -42,7 +42,7 @@ word_by_word:
     translation: and what
     transliteration: wamā
   10:
-    arabic: يَنۡزِلُ
+    arabic: يَنزِلُ
     translation: descends
     transliteration: yanzilu
   11:
@@ -50,7 +50,7 @@ word_by_word:
     translation: from
     transliteration: mina
   12:
-    arabic: السَّمَآءِ
+    arabic: ٱلسَّمَآءِ
     translation: the heaven
     transliteration: l-samāi
   13:
@@ -62,7 +62,7 @@ word_by_word:
     translation: ascends
     transliteration: yaʿruju
   15:
-    arabic: فِيۡهَا ؕ
+    arabic: فِيهَاۚ
     translation: therein
     transliteration: fīhā
   16:
@@ -70,11 +70,11 @@ word_by_word:
     translation: And He
     transliteration: wahuwa
   17:
-    arabic: الرَّحِيۡمُ
+    arabic: ٱلرَّحِيمُ
     translation: (is) the Most Merciful
     transliteration: l-raḥīmu
   18:
-    arabic: الۡغَفُوۡرُ‏
+    arabic: ٱلۡغَفُورُ
     translation: the Oft-Forgiving
     transliteration: l-ghafūru
 ---

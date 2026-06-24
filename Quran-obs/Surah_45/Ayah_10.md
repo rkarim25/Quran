@@ -1,21 +1,20 @@
 ---
-arabic_ayat: "مِنۡ وَّرَآٮِٕهِمۡ جَهَنَّمُۚ وَلَا يُغۡنِىۡ عَنۡهُمۡ مَّا كَسَبُوۡا\
-  \ شَيۡــًٔـا وَّلَا مَا اتَّخَذُوۡا مِنۡ دُوۡنِ اللّٰهِ اَوۡلِيَآءَ​ ۚ وَلَهُمۡ\
-  \ عَذَابٌ عَظِيۡمٌؕ‏ \uFEFF\uFEFF"
+arabic_ayat: مِّن وَرَآئِهِمۡ جَهَنَّمُۖ وَلَا يُغۡنِي عَنۡهُم مَّا كَسَبُواْ شَيۡـٔٗا
+  وَلَا مَا ٱتَّخَذُواْ مِن دُونِ ٱللَّهِ أَوۡلِيَآءَۖ وَلَهُمۡ عَذَابٌ عَظِيمٌ
 sentence_translation: Awaiting them is Hell. Their ˹worldly˺ gains will not be of
   any benefit to them whatsoever, nor will those protectors they have taken besides
   Allah. And they will suffer a tremendous punishment.
 word_by_word:
   1:
-    arabic: مِنۡ
+    arabic: مِّن
     translation: Before them
     transliteration: min
   2:
-    arabic: وَّرَآٮِٕهِمۡ
+    arabic: وَرَآئِهِمۡ
     translation: Before them
     transliteration: warāihim
   3:
-    arabic: جَهَنَّمُۚ
+    arabic: جَهَنَّمُۖ
     translation: (is) Hell
     transliteration: jahannamu
   4:
@@ -23,11 +22,11 @@ word_by_word:
     translation: and not
     transliteration: walā
   5:
-    arabic: يُغۡنِىۡ
+    arabic: يُغۡنِي
     translation: will avail
     transliteration: yugh'nī
   6:
-    arabic: عَنۡهُمۡ
+    arabic: عَنۡهُم
     translation: them
     transliteration: ʿanhum
   7:
@@ -35,15 +34,15 @@ word_by_word:
     translation: what
     transliteration: mā
   8:
-    arabic: كَسَبُوۡا
+    arabic: كَسَبُواْ
     translation: they had earned
     transliteration: kasabū
   9:
-    arabic: شَيۡــًٔـا
+    arabic: شَيۡـٔٗا
     translation: anything
     transliteration: shayan
   10:
-    arabic: وَّلَا
+    arabic: وَلَا
     translation: and not
     transliteration: walā
   11:
@@ -51,23 +50,23 @@ word_by_word:
     translation: what
     transliteration: mā
   12:
-    arabic: اتَّخَذُوۡا
+    arabic: ٱتَّخَذُواْ
     translation: they had taken
     transliteration: ittakhadhū
   13:
-    arabic: مِنۡ
+    arabic: مِن
     translation: besides
     transliteration: min
   14:
-    arabic: دُوۡنِ
+    arabic: دُونِ
     translation: besides
     transliteration: dūni
   15:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   16:
-    arabic: اَوۡلِيَآءَ​ ۚ
+    arabic: أَوۡلِيَآءَۖ
     translation: (as) protectors
     transliteration: awliyāa
   17:
@@ -79,7 +78,7 @@ word_by_word:
     translation: (is) a punishment
     transliteration: ʿadhābun
   19:
-    arabic: "عَظِيۡمٌؕ‏ \uFEFF\uFEFF"
+    arabic: عَظِيمٌ
     translation: great
     transliteration: ʿaẓīmun
 ---

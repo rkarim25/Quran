@@ -1,17 +1,17 @@
 ---
-arabic_ayat: وَاِنَّهَا لَبِسَبِيۡلٍ مُّقِيۡمٍ‏
+arabic_ayat: وَإِنَّهَا لَبِسَبِيلٖ مُّقِيمٍ
 sentence_translation: Their ruins still lie along a known route.
 word_by_word:
   1:
-    arabic: وَاِنَّهَا
+    arabic: وَإِنَّهَا
     translation: And indeed, it
     transliteration: wa-innahā
   2:
-    arabic: لَبِسَبِيۡلٍ
+    arabic: لَبِسَبِيلٖ
     translation: (is) on a road
     transliteration: labisabīlin
   3:
-    arabic: مُّقِيۡمٍ‏
+    arabic: مُّقِيمٍ
     translation: established
     transliteration: muqīmin
 ---

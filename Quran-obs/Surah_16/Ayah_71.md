@@ -1,13 +1,13 @@
 ---
-arabic_ayat: وَاللّٰهُ فَضَّلَ بَعۡضَكُمۡ عَلٰى بَعۡضٍ فِى الرِّزۡقِ​ۚ فَمَا الَّذِيۡنَ
-  فُضِّلُوۡا بِرَآدِّىۡ رِزۡقِهِمۡ عَلٰى مَا مَلَـكَتۡ اَيۡمَانُهُمۡ فَهُمۡ فِيۡهِ
-  سَوَآءٌ​ ؕ اَفَبِنِعۡمَةِ اللّٰهِ يَجۡحَدُوۡنَ‏
+arabic_ayat: وَٱللَّهُ فَضَّلَ بَعۡضَكُمۡ عَلَىٰ بَعۡضٖ فِي ٱلرِّزۡقِۚ فَمَا ٱلَّذِينَ
+  فُضِّلُواْ بِرَآدِّي رِزۡقِهِمۡ عَلَىٰ مَا مَلَكَتۡ أَيۡمَٰنُهُمۡ فَهُمۡ فِيهِ
+  سَوَآءٌۚ أَفَبِنِعۡمَةِ ٱللَّهِ يَجۡحَدُونَ
 sentence_translation: And Allah has favoured some of you over others in provision.
   But those who have been much favoured would not share their wealth with those ˹bondspeople˺
   in their possession, making them their equals. Do they then deny Allah’s favours?
 word_by_word:
   1:
-    arabic: وَاللّٰهُ
+    arabic: وَٱللَّهُ
     translation: And Allah
     transliteration: wal-lahu
   2:
@@ -19,19 +19,19 @@ word_by_word:
     translation: some of you
     transliteration: baʿḍakum
   4:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: over
     transliteration: ʿalā
   5:
-    arabic: بَعۡضٍ
+    arabic: بَعۡضٖ
     translation: others
     transliteration: baʿḍin
   6:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   7:
-    arabic: الرِّزۡقِ​ۚ
+    arabic: ٱلرِّزۡقِۚ
     translation: '[the] provision'
     transliteration: l-riz'qi
   8:
@@ -39,15 +39,15 @@ word_by_word:
     translation: But not
     transliteration: famā
   9:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   10:
-    arabic: فُضِّلُوۡا
+    arabic: فُضِّلُواْ
     translation: were favored
     transliteration: fuḍḍilū
   11:
-    arabic: بِرَآدِّىۡ
+    arabic: بِرَآدِّي
     translation: would hand over
     transliteration: birāddī
   12:
@@ -55,7 +55,7 @@ word_by_word:
     translation: their provision
     transliteration: riz'qihim
   13:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: to
     transliteration: ʿalā
   14:
@@ -63,11 +63,11 @@ word_by_word:
     translation: whom
     transliteration: mā
   15:
-    arabic: مَلَـكَتۡ
+    arabic: مَلَكَتۡ
     translation: possess
     transliteration: malakat
   16:
-    arabic: اَيۡمَانُهُمۡ
+    arabic: أَيۡمَٰنُهُمۡ
     translation: their right hands
     transliteration: aymānuhum
   17:
@@ -75,23 +75,23 @@ word_by_word:
     translation: so (that) they
     transliteration: fahum
   18:
-    arabic: فِيۡهِ
+    arabic: فِيهِ
     translation: (are) in it
     transliteration: fīhi
   19:
-    arabic: سَوَآءٌ​ ؕ
+    arabic: سَوَآءٌۚ
     translation: equal
     transliteration: sawāon
   20:
-    arabic: اَفَبِنِعۡمَةِ
+    arabic: أَفَبِنِعۡمَةِ
     translation: Then is it the Favor
     transliteration: afabiniʿ'mati
   21:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: of Allah
     transliteration: l-lahi
   22:
-    arabic: يَجۡحَدُوۡنَ‏
+    arabic: يَجۡحَدُونَ
     translation: they reject
     transliteration: yajḥadūna
 ---

@@ -1,16 +1,16 @@
 ---
-arabic_ayat: اِنَّ اللّٰهَ لَا يَظۡلِمُ مِثۡقَالَ ذَرَّةٍ​ ۚ وَاِنۡ تَكُ حَسَنَةً
-  يُّضٰعِفۡهَا وَيُؤۡتِ مِنۡ لَّدُنۡهُ اَجۡرًا عَظِيۡمًا‏
+arabic_ayat: إِنَّ ٱللَّهَ لَا يَظۡلِمُ مِثۡقَالَ ذَرَّةٖۖ وَإِن تَكُ حَسَنَةٗ يُضَٰعِفۡهَا
+  وَيُؤۡتِ مِن لَّدُنۡهُ أَجۡرًا عَظِيمٗا
 sentence_translation: Indeed, Allah never wrongs ˹anyone˺—even by an atom’s weight. And
   if it is a good deed, He will multiply it many times over and will give a great
   reward out of His grace.
 word_by_word:
   1:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   2:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   3:
@@ -26,11 +26,11 @@ word_by_word:
     translation: (as much as) weight
     transliteration: mith'qāla
   6:
-    arabic: ذَرَّةٍ​ ۚ
+    arabic: ذَرَّةٖۖ
     translation: (of) an atom
     transliteration: dharratin
   7:
-    arabic: وَاِنۡ
+    arabic: وَإِن
     translation: And if
     transliteration: wa-in
   8:
@@ -38,11 +38,11 @@ word_by_word:
     translation: there is
     transliteration: taku
   9:
-    arabic: حَسَنَةً
+    arabic: حَسَنَةٗ
     translation: a good
     transliteration: ḥasanatan
   10:
-    arabic: يُّضٰعِفۡهَا
+    arabic: يُضَٰعِفۡهَا
     translation: He doubles it
     transliteration: yuḍāʿif'hā
   11:
@@ -50,7 +50,7 @@ word_by_word:
     translation: and gives
     transliteration: wayu'ti
   12:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   13:
@@ -58,11 +58,11 @@ word_by_word:
     translation: near Him
     transliteration: ladun'hu
   14:
-    arabic: اَجۡرًا
+    arabic: أَجۡرًا
     translation: a reward
     transliteration: ajran
   15:
-    arabic: عَظِيۡمًا‏
+    arabic: عَظِيمٗا
     translation: great
     transliteration: ʿaẓīman
 ---

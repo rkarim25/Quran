@@ -1,21 +1,21 @@
 ---
-arabic_ayat: وَاِنَّ الۡفُجَّارَ لَفِىۡ جَحِيۡمٍ ۚۖ‏
+arabic_ayat: وَإِنَّ ٱلۡفُجَّارَ لَفِي جَحِيمٖ
 sentence_translation: and the wicked will be in Hell,
 word_by_word:
   1:
-    arabic: وَاِنَّ
+    arabic: وَإِنَّ
     translation: And indeed
     transliteration: wa-inna
   2:
-    arabic: الۡفُجَّارَ
+    arabic: ٱلۡفُجَّارَ
     translation: the wicked
     transliteration: l-fujāra
   3:
-    arabic: لَفِىۡ
+    arabic: لَفِي
     translation: (will be) surely in
     transliteration: lafī
   4:
-    arabic: جَحِيۡمٍ ۚۖ‏
+    arabic: جَحِيمٖ
     translation: Hellfire
     transliteration: jaḥīmin
 ---

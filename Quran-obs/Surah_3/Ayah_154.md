@@ -1,13 +1,12 @@
 ---
-arabic_ayat: ثُمَّ اَنۡزَلَ عَلَيۡكُمۡ مِّنۡۢ بَعۡدِ الۡغَمِّ اَمَنَةً نُّعَاسًا يَّغۡشٰى
-  طَآٮِٕفَةً مِّنۡكُمۡ​ۙ وَطَآٮِٕفَةٌ قَدۡ اَهَمَّتۡهُمۡ اَنۡفُسُهُمۡ يَظُنُّوۡنَ
-  بِاللّٰهِ غَيۡرَ الۡحَـقِّ ظَنَّ الۡجَـاهِلِيَّةِ​ؕ يَقُوۡلُوۡنَ هَلۡ لَّنَا مِنَ
-  الۡاَمۡرِ مِنۡ شَىۡءٍ​ؕ قُلۡ اِنَّ الۡاَمۡرَ كُلَّهٗ لِلّٰهِ​ؕ يُخۡفُوۡنَ فِىۡۤ
-  اَنۡفُسِهِمۡ مَّا لَا يُبۡدُوۡنَ لَكَ​ؕ يَقُوۡلُوۡنَ لَوۡ كَانَ لَنَا مِنَ الۡاَمۡرِ
-  شَىۡءٌ مَّا قُتِلۡنَا هٰهُنَا ​ؕ قُلۡ لَّوۡ كُنۡتُمۡ فِىۡ بُيُوۡتِكُمۡ لَبَرَزَ
-  الَّذِيۡنَ كُتِبَ عَلَيۡهِمُ الۡقَتۡلُ اِلٰى مَضَاجِعِهِمۡ​ۚ وَلِيَبۡتَلِىَ اللّٰهُ
-  مَا فِىۡ صُدُوۡرِكُمۡ وَلِيُمَحِّصَ مَا فِىۡ قُلُوۡبِكُمۡ​ؕ وَاللّٰهُ عَلِيۡمٌۢ
-  بِذَاتِ الصُّدُوۡرِ‏
+arabic_ayat: ثُمَّ أَنزَلَ عَلَيۡكُم مِّنۢ بَعۡدِ ٱلۡغَمِّ أَمَنَةٗ نُّعَاسٗا يَغۡشَىٰ
+  طَآئِفَةٗ مِّنكُمۡۖ وَطَآئِفَةٞ قَدۡ أَهَمَّتۡهُمۡ أَنفُسُهُمۡ يَظُنُّونَ بِٱللَّهِ
+  غَيۡرَ ٱلۡحَقِّ ظَنَّ ٱلۡجَٰهِلِيَّةِۖ يَقُولُونَ هَل لَّنَا مِنَ ٱلۡأَمۡرِ مِن
+  شَيۡءٖۗ قُلۡ إِنَّ ٱلۡأَمۡرَ كُلَّهُۥ لِلَّهِۗ يُخۡفُونَ فِيٓ أَنفُسِهِم مَّا لَا
+  يُبۡدُونَ لَكَۖ يَقُولُونَ لَوۡ كَانَ لَنَا مِنَ ٱلۡأَمۡرِ شَيۡءٞ مَّا قُتِلۡنَا
+  هَٰهُنَاۗ قُل لَّوۡ كُنتُمۡ فِي بُيُوتِكُمۡ لَبَرَزَ ٱلَّذِينَ كُتِبَ عَلَيۡهِمُ
+  ٱلۡقَتۡلُ إِلَىٰ مَضَاجِعِهِمۡۖ وَلِيَبۡتَلِيَ ٱللَّهُ مَا فِي صُدُورِكُمۡ وَلِيُمَحِّصَ
+  مَا فِي قُلُوبِكُمۡۚ وَٱللَّهُ عَلِيمُۢ بِذَاتِ ٱلصُّدُورِ
 sentence_translation: Then after distress, He sent down serenity in the form of drowsiness
   overcoming some of you, while others were disturbed by evil thoughts about Allah—the
   thoughts of ˹pre-Islamic˺ ignorance. They ask, “Do we have a say in the matter?”
@@ -23,15 +22,15 @@ word_by_word:
     translation: Then
     transliteration: thumma
   2:
-    arabic: اَنۡزَلَ
+    arabic: أَنزَلَ
     translation: He sent down
     transliteration: anzala
   3:
-    arabic: عَلَيۡكُمۡ
+    arabic: عَلَيۡكُم
     translation: upon you
     transliteration: ʿalaykum
   4:
-    arabic: مِّنۡۢ
+    arabic: مِّنۢ
     translation: from
     transliteration: min
   5:
@@ -39,31 +38,31 @@ word_by_word:
     translation: after
     transliteration: baʿdi
   6:
-    arabic: الۡغَمِّ
+    arabic: ٱلۡغَمِّ
     translation: the distress
     transliteration: l-ghami
   7:
-    arabic: اَمَنَةً
+    arabic: أَمَنَةٗ
     translation: 'security '
     transliteration: amanatan
   8:
-    arabic: نُّعَاسًا
+    arabic: نُّعَاسٗا
     translation: slumber
     transliteration: nuʿāsan
   9:
-    arabic: يَّغۡشٰى
+    arabic: يَغۡشَىٰ
     translation: overcoming
     transliteration: yaghshā
   10:
-    arabic: طَآٮِٕفَةً
+    arabic: طَآئِفَةٗ
     translation: a group
     transliteration: ṭāifatan
   11:
-    arabic: مِّنۡكُمۡ​ۙ
+    arabic: مِّنكُمۡۖ
     translation: of you
     transliteration: minkum
   12:
-    arabic: وَطَآٮِٕفَةٌ
+    arabic: وَطَآئِفَةٞ
     translation: while a group
     transliteration: waṭāifatun
   13:
@@ -71,19 +70,19 @@ word_by_word:
     translation: certainly
     transliteration: qad
   14:
-    arabic: اَهَمَّتۡهُمۡ
+    arabic: أَهَمَّتۡهُمۡ
     translation: worried [them]
     transliteration: ahammathum
   15:
-    arabic: اَنۡفُسُهُمۡ
+    arabic: أَنفُسُهُمۡ
     translation: (about) themselves
     transliteration: anfusuhum
   16:
-    arabic: يَظُنُّوۡنَ
+    arabic: يَظُنُّونَ
     translation: thinking
     transliteration: yaẓunnūna
   17:
-    arabic: بِاللّٰهِ
+    arabic: بِٱللَّهِ
     translation: about Allah
     transliteration: bil-lahi
   18:
@@ -91,7 +90,7 @@ word_by_word:
     translation: other than
     transliteration: ghayra
   19:
-    arabic: الۡحَـقِّ
+    arabic: ٱلۡحَقِّ
     translation: 'the truth '
     transliteration: l-ḥaqi
   20:
@@ -99,15 +98,15 @@ word_by_word:
     translation: (the) thought
     transliteration: ẓanna
   21:
-    arabic: الۡجَـاهِلِيَّةِ​ؕ
+    arabic: ٱلۡجَٰهِلِيَّةِۖ
     translation: (of) [the] ignorance
     transliteration: l-jāhiliyati
   22:
-    arabic: يَقُوۡلُوۡنَ
+    arabic: يَقُولُونَ
     translation: saying
     transliteration: yaqūlūna
   23:
-    arabic: هَلۡ
+    arabic: هَل
     translation: Is (there)
     transliteration: hal
   24:
@@ -119,15 +118,15 @@ word_by_word:
     translation: from
     transliteration: mina
   26:
-    arabic: الۡاَمۡرِ
+    arabic: ٱلۡأَمۡرِ
     translation: the matter
     transliteration: l-amri
   27:
-    arabic: مِنۡ
+    arabic: مِن
     translation: any
     transliteration: min
   28:
-    arabic: شَىۡءٍ​ؕ
+    arabic: شَيۡءٖۗ
     translation: thing
     transliteration: shayin
   29:
@@ -135,31 +134,31 @@ word_by_word:
     translation: Say
     transliteration: qul
   30:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   31:
-    arabic: الۡاَمۡرَ
+    arabic: ٱلۡأَمۡرَ
     translation: the matter
     transliteration: l-amra
   32:
-    arabic: كُلَّهٗ
+    arabic: كُلَّهُۥ
     translation: all (of) it
     transliteration: kullahu
   33:
-    arabic: لِلّٰهِ​ؕ
+    arabic: لِلَّهِۗ
     translation: (is) for Allah
     transliteration: lillahi
   34:
-    arabic: يُخۡفُوۡنَ
+    arabic: يُخۡفُونَ
     translation: They hide
     transliteration: yukh'fūna
   35:
-    arabic: فِىۡۤ
+    arabic: فِيٓ
     translation: in
     transliteration: fī
   36:
-    arabic: اَنۡفُسِهِمۡ
+    arabic: أَنفُسِهِم
     translation: themselves
     transliteration: anfusihim
   37:
@@ -171,15 +170,15 @@ word_by_word:
     translation: not
     transliteration: lā
   39:
-    arabic: يُبۡدُوۡنَ
+    arabic: يُبۡدُونَ
     translation: they reveal
     transliteration: yub'dūna
   40:
-    arabic: لَكَ​ؕ
+    arabic: لَكَۖ
     translation: to you
     transliteration: laka
   41:
-    arabic: يَقُوۡلُوۡنَ
+    arabic: يَقُولُونَ
     translation: They say
     transliteration: yaqūlūna
   42:
@@ -199,11 +198,11 @@ word_by_word:
     translation: from
     transliteration: mina
   46:
-    arabic: الۡاَمۡرِ
+    arabic: ٱلۡأَمۡرِ
     translation: the matter
     transliteration: l-amri
   47:
-    arabic: شَىۡءٌ
+    arabic: شَيۡءٞ
     translation: anything
     transliteration: shayon
   48:
@@ -215,11 +214,11 @@ word_by_word:
     translation: we would have been killed
     transliteration: qutil'nā
   50:
-    arabic: هٰهُنَا ​ؕ
+    arabic: هَٰهُنَاۗ
     translation: here
     transliteration: hāhunā
   51:
-    arabic: قُلۡ
+    arabic: قُل
     translation: Say
     transliteration: qul
   52:
@@ -227,15 +226,15 @@ word_by_word:
     translation: If
     transliteration: law
   53:
-    arabic: كُنۡتُمۡ
+    arabic: كُنتُمۡ
     translation: you were
     transliteration: kuntum
   54:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   55:
-    arabic: بُيُوۡتِكُمۡ
+    arabic: بُيُوتِكُمۡ
     translation: your houses
     transliteration: buyūtikum
   56:
@@ -243,7 +242,7 @@ word_by_word:
     translation: surely (would have) come out
     transliteration: labaraza
   57:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: 'those who '
     transliteration: alladhīna
   58:
@@ -255,23 +254,23 @@ word_by_word:
     translation: upon them
     transliteration: ʿalayhimu
   60:
-    arabic: الۡقَتۡلُ
+    arabic: ٱلۡقَتۡلُ
     translation: '[the] death'
     transliteration: l-qatlu
   61:
-    arabic: اِلٰى
+    arabic: إِلَىٰ
     translation: towards
     transliteration: ilā
   62:
-    arabic: مَضَاجِعِهِمۡ​ۚ
+    arabic: مَضَاجِعِهِمۡۖ
     translation: their places of death
     transliteration: maḍājiʿihim
   63:
-    arabic: وَلِيَبۡتَلِىَ
+    arabic: وَلِيَبۡتَلِيَ
     translation: And that might test
     transliteration: waliyabtaliya
   64:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   65:
@@ -279,11 +278,11 @@ word_by_word:
     translation: what
     transliteration: mā
   66:
-    arabic: فِىۡ
+    arabic: فِي
     translation: (is) in
     transliteration: fī
   67:
-    arabic: صُدُوۡرِكُمۡ
+    arabic: صُدُورِكُمۡ
     translation: your breasts
     transliteration: ṣudūrikum
   68:
@@ -295,19 +294,19 @@ word_by_word:
     translation: what
     transliteration: mā
   70:
-    arabic: فِىۡ
+    arabic: فِي
     translation: (is) in
     transliteration: fī
   71:
-    arabic: قُلُوۡبِكُمۡ​ؕ
+    arabic: قُلُوبِكُمۡۚ
     translation: your hearts
     transliteration: qulūbikum
   72:
-    arabic: وَاللّٰهُ
+    arabic: وَٱللَّهُ
     translation: And Allah
     transliteration: wal-lahu
   73:
-    arabic: عَلِيۡمٌۢ
+    arabic: عَلِيمُۢ
     translation: (is) All-Aware
     transliteration: ʿalīmun
   74:
@@ -315,7 +314,7 @@ word_by_word:
     translation: of what
     transliteration: bidhāti
   75:
-    arabic: الصُّدُوۡرِ‏
+    arabic: ٱلصُّدُورِ
     translation: (is in) the breasts
     transliteration: l-ṣudūri
 ---

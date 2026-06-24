@@ -1,27 +1,27 @@
 ---
-arabic_ayat: اَ لۡحَمۡدُ لِلّٰهِ الَّذِىۡۤ اَنۡزَلَ عَلٰى عَبۡدِهِ الۡكِتٰبَ وَلَمۡ
-  يَجۡعَلْ لَّهٗ عِوَجًا  ؕ‏
+arabic_ayat: ٱلۡحَمۡدُ لِلَّهِ ٱلَّذِيٓ أَنزَلَ عَلَىٰ عَبۡدِهِ ٱلۡكِتَٰبَ وَلَمۡ
+  يَجۡعَل لَّهُۥ عِوَجَاۜ
 sentence_translation: All praise is for Allah Who has revealed the Book to His servant, allowing
   no crookedness in it,
 word_by_word:
   1:
-    arabic: اَ لۡحَمۡدُ
+    arabic: ٱلۡحَمۡدُ
     translation: All Praise
     transliteration: al-ḥamdu
   2:
-    arabic: لِلّٰهِ
+    arabic: لِلَّهِ
     translation: (is) for Allah
     transliteration: lillahi
   3:
-    arabic: الَّذِىۡۤ
+    arabic: ٱلَّذِيٓ
     translation: the One Who
     transliteration: alladhī
   4:
-    arabic: اَنۡزَلَ
+    arabic: أَنزَلَ
     translation: (has) revealed
     transliteration: anzala
   5:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: to
     transliteration: ʿalā
   6:
@@ -29,7 +29,7 @@ word_by_word:
     translation: His slave
     transliteration: ʿabdihi
   7:
-    arabic: الۡكِتٰبَ
+    arabic: ٱلۡكِتَٰبَ
     translation: the Book
     transliteration: l-kitāba
   8:
@@ -37,15 +37,15 @@ word_by_word:
     translation: and not
     transliteration: walam
   9:
-    arabic: يَجۡعَلْ
+    arabic: يَجۡعَل
     translation: (has) made
     transliteration: yajʿal
   10:
-    arabic: لَّهٗ
+    arabic: لَّهُۥ
     translation: in it
     transliteration: lahu
   11:
-    arabic: عِوَجًا  ؕ‏
+    arabic: عِوَجَاۜ
     translation: any crookedness
     transliteration: ʿiwajā
 ---

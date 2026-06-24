@@ -1,24 +1,24 @@
 ---
-arabic_ayat: فَتَعٰلَى اللّٰهُ الۡمَلِكُ الۡحَـقُّ​ ۚ وَلَا تَعۡجَلۡ بِالۡقُرۡاٰنِ
-  مِنۡ قَبۡلِ اَنۡ يُّقۡضٰٓى اِلَيۡكَ وَحۡيُهٗ​ وَقُلْ رَّبِّ زِدۡنِىۡ عِلۡمًا‏
+arabic_ayat: فَتَعَٰلَى ٱللَّهُ ٱلۡمَلِكُ ٱلۡحَقُّۗ وَلَا تَعۡجَلۡ بِٱلۡقُرۡءَانِ
+  مِن قَبۡلِ أَن يُقۡضَىٰٓ إِلَيۡكَ وَحۡيُهُۥۖ وَقُل رَّبِّ زِدۡنِي عِلۡمٗا
 sentence_translation: Exalted is Allah, the True King! Do not rush to recite ˹a revelation
   of˺ the Quran ˹O Prophet˺ before it is ˹properly˺ conveyed to you, and pray, “My
   Lord! Increase me in knowledge.”
 word_by_word:
   1:
-    arabic: فَتَعٰلَى
+    arabic: فَتَعَٰلَى
     translation: So high (above all)
     transliteration: fataʿālā
   2:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: (is) Allah
     transliteration: l-lahu
   3:
-    arabic: الۡمَلِكُ
+    arabic: ٱلۡمَلِكُ
     translation: the King
     transliteration: l-maliku
   4:
-    arabic: الۡحَـقُّ​ ۚ
+    arabic: ٱلۡحَقُّۗ
     translation: the True
     transliteration: l-ḥaqu
   5:
@@ -30,11 +30,11 @@ word_by_word:
     translation: hasten
     transliteration: taʿjal
   7:
-    arabic: بِالۡقُرۡاٰنِ
+    arabic: بِٱلۡقُرۡءَانِ
     translation: with the Quran
     transliteration: bil-qur'āni
   8:
-    arabic: مِنۡ
+    arabic: مِن
     translation: before
     transliteration: min
   9:
@@ -42,23 +42,23 @@ word_by_word:
     translation: before
     transliteration: qabli
   10:
-    arabic: اَنۡ
+    arabic: أَن
     translation: '[that]'
     transliteration: an
   11:
-    arabic: يُّقۡضٰٓى
+    arabic: يُقۡضَىٰٓ
     translation: is completed
     transliteration: yuq'ḍā
   12:
-    arabic: اِلَيۡكَ
+    arabic: إِلَيۡكَ
     translation: to you
     transliteration: ilayka
   13:
-    arabic: وَحۡيُهٗ​
+    arabic: وَحۡيُهُۥۖ
     translation: its revelation
     transliteration: waḥyuhu
   14:
-    arabic: وَقُلْ
+    arabic: وَقُل
     translation: and say
     transliteration: waqul
   15:
@@ -66,11 +66,11 @@ word_by_word:
     translation: My Lord
     transliteration: rabbi
   16:
-    arabic: زِدۡنِىۡ
+    arabic: زِدۡنِي
     translation: Increase me
     transliteration: zid'nī
   17:
-    arabic: عِلۡمًا‏
+    arabic: عِلۡمٗا
     translation: (in) knowledge
     transliteration: ʿil'man
 ---

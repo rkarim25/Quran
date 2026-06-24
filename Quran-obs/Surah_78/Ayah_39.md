@@ -1,23 +1,22 @@
 ---
-arabic_ayat: "ذٰلِكَ الۡيَوۡمُ الۡحَـقُّ​ ۚ فَمَنۡ شَآءَ اتَّخَذَ اِلٰى رَبِّهٖ مَاٰبًا‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: ذَٰلِكَ ٱلۡيَوۡمُ ٱلۡحَقُّۖ فَمَن شَآءَ ٱتَّخَذَ إِلَىٰ رَبِّهِۦ مَـَٔابًا
 sentence_translation: That Day is the ˹ultimate˺ truth. So let whoever wills take
   the path leading back to their Lord.
 word_by_word:
   1:
-    arabic: ذٰلِكَ
+    arabic: ذَٰلِكَ
     translation: That
     transliteration: dhālika
   2:
-    arabic: الۡيَوۡمُ
+    arabic: ٱلۡيَوۡمُ
     translation: (is) the Day
     transliteration: l-yawmu
   3:
-    arabic: الۡحَـقُّ​ ۚ
+    arabic: ٱلۡحَقُّۖ
     translation: the True
     transliteration: l-ḥaqu
   4:
-    arabic: فَمَنۡ
+    arabic: فَمَن
     translation: So whoever
     transliteration: faman
   5:
@@ -25,19 +24,19 @@ word_by_word:
     translation: wills
     transliteration: shāa
   6:
-    arabic: اتَّخَذَ
+    arabic: ٱتَّخَذَ
     translation: let him take
     transliteration: ittakhadha
   7:
-    arabic: اِلٰى
+    arabic: إِلَىٰ
     translation: towards
     transliteration: ilā
   8:
-    arabic: رَبِّهٖ
+    arabic: رَبِّهِۦ
     translation: his Lord
     transliteration: rabbihi
   9:
-    arabic: "مَاٰبًا‏ \uFEFF\uFEFF"
+    arabic: مَـَٔابًا
     translation: a return
     transliteration: maāban
 ---

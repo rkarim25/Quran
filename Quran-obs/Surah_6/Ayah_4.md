@@ -1,6 +1,6 @@
 ---
-arabic_ayat: وَمَا تَاۡتِيۡهِمۡ مِّنۡ اٰيَةٍ مِّنۡ اٰيٰتِ رَبِّهِمۡ اِلَّا كَانُوۡا
-  عَنۡهَا مُعۡرِضِيۡنَ‏
+arabic_ayat: وَمَا تَأۡتِيهِم مِّنۡ ءَايَةٖ مِّنۡ ءَايَٰتِ رَبِّهِمۡ إِلَّا كَانُواْ
+  عَنۡهَا مُعۡرِضِينَ
 sentence_translation: Whenever a sign comes to them from their Lord, they turn away
   from it.
 word_by_word:
@@ -9,23 +9,23 @@ word_by_word:
     translation: And not
     transliteration: wamā
   2:
-    arabic: تَاۡتِيۡهِمۡ
+    arabic: تَأۡتِيهِم
     translation: comes to them
     transliteration: tatīhim
   3:
-    arabic: مِّنۡ
+    arabic: مِّنۡ ءَ
     translation: '[of]'
     transliteration: min
   4:
-    arabic: اٰيَةٍ
+    arabic: ايَةٖ
     translation: any sign
     transliteration: āyatin
   5:
-    arabic: مِّنۡ
+    arabic: مِّنۡ ءَ
     translation: from
     transliteration: min
   6:
-    arabic: اٰيٰتِ
+    arabic: ايَٰتِ
     translation: (the) Signs
     transliteration: āyāti
   7:
@@ -33,11 +33,11 @@ word_by_word:
     translation: (of) their Lord
     transliteration: rabbihim
   8:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: but
     transliteration: illā
   9:
-    arabic: كَانُوۡا
+    arabic: كَانُواْ
     translation: they are
     transliteration: kānū
   10:
@@ -45,7 +45,7 @@ word_by_word:
     translation: from it
     transliteration: ʿanhā
   11:
-    arabic: مُعۡرِضِيۡنَ‏
+    arabic: مُعۡرِضِينَ
     translation: turning away
     transliteration: muʿ'riḍīna
 ---

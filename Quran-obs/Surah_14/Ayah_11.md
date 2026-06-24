@@ -1,8 +1,7 @@
 ---
-arabic_ayat: "قَالَتۡ لَهُمۡ رُسُلُهُمۡ اِنۡ نَّحۡنُ اِلَّا بَشَرٌ مِّثۡلُكُمۡ وَلٰـكِنَّ\
-  \ اللّٰهَ يَمُنُّ عَلٰى مَنۡ يَّشَآءُ مِنۡ عِبَادِهٖ​ؕ وَمَا كَانَ لَنَاۤ اَنۡ\
-  \ نَّاۡتِيَكُمۡ بِسُلۡطٰنٍ اِلَّا بِاِذۡنِ اللّٰهِ​ؕ وَعَلَى اللّٰهِ فَلۡيَتَوَكَّلِ\
-  \ الۡمُؤۡمِنُوۡنَ‏ \uFEFF\uFEFF"
+arabic_ayat: قَالَتۡ لَهُمۡ رُسُلُهُمۡ إِن نَّحۡنُ إِلَّا بَشَرٞ مِّثۡلُكُمۡ وَلَٰكِنَّ
+  ٱللَّهَ يَمُنُّ عَلَىٰ مَن يَشَآءُ مِنۡ عِبَادِهِۦۖ وَمَا كَانَ لَنَآ أَن نَّأۡتِيَكُم
+  بِسُلۡطَٰنٍ إِلَّا بِإِذۡنِ ٱللَّهِۚ وَعَلَى ٱللَّهِ فَلۡيَتَوَكَّلِ ٱلۡمُؤۡمِنُونَ
 sentence_translation: Their messengers said to them, “We are ˹indeed˺ only humans
   like you, but Allah favours whoever He chooses of His servants. It is not for us
   to bring you any proof without Allah’s permission. And in Allah let the believers
@@ -21,7 +20,7 @@ word_by_word:
     translation: their Messengers
     transliteration: rusuluhum
   4:
-    arabic: اِنۡ
+    arabic: إِن
     translation: Not
     transliteration: in
   5:
@@ -29,11 +28,11 @@ word_by_word:
     translation: we (are)
     transliteration: naḥnu
   6:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: but
     transliteration: illā
   7:
-    arabic: بَشَرٌ
+    arabic: بَشَرٞ
     translation: a human
     transliteration: basharun
   8:
@@ -41,11 +40,11 @@ word_by_word:
     translation: like you
     transliteration: mith'lukum
   9:
-    arabic: وَلٰـكِنَّ
+    arabic: وَلَٰكِنَّ
     translation: but
     transliteration: walākinna
   10:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   11:
@@ -53,15 +52,15 @@ word_by_word:
     translation: bestows His Grace
     transliteration: yamunnu
   12:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: 'on'
     transliteration: ʿalā
   13:
-    arabic: مَنۡ
+    arabic: مَن
     translation: whom
     transliteration: man
   14:
-    arabic: يَّشَآءُ
+    arabic: يَشَآءُ
     translation: He wills
     transliteration: yashāu
   15:
@@ -69,7 +68,7 @@ word_by_word:
     translation: of
     transliteration: min
   16:
-    arabic: عِبَادِهٖ​ؕ
+    arabic: عِبَادِهِۦۖ
     translation: His slaves
     transliteration: ʿibādihi
   17:
@@ -81,31 +80,31 @@ word_by_word:
     translation: is
     transliteration: kāna
   19:
-    arabic: لَنَاۤ
+    arabic: لَنَآ
     translation: for us
     transliteration: lanā
   20:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that
     transliteration: an
   21:
-    arabic: نَّاۡتِيَكُمۡ
+    arabic: نَّأۡتِيَكُم
     translation: we bring you
     transliteration: natiyakum
   22:
-    arabic: بِسُلۡطٰنٍ
+    arabic: بِسُلۡطَٰنٍ
     translation: an authority
     transliteration: bisul'ṭānin
   23:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   24:
-    arabic: بِاِذۡنِ
+    arabic: بِإِذۡنِ
     translation: by the permission of Allah
     transliteration: bi-idh'ni
   25:
-    arabic: اللّٰهِ​ؕ
+    arabic: ٱللَّهِۚ
     translation: by the permission of Allah
     transliteration: l-lahi
   26:
@@ -113,7 +112,7 @@ word_by_word:
     translation: And upon
     transliteration: waʿalā
   27:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   28:
@@ -121,7 +120,7 @@ word_by_word:
     translation: so let put (their) trust
     transliteration: falyatawakkali
   29:
-    arabic: "الۡمُؤۡمِنُوۡنَ‏ \uFEFF\uFEFF"
+    arabic: ٱلۡمُؤۡمِنُونَ
     translation: the believers
     transliteration: l-mu'minūna
 ---

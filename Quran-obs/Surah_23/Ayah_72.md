@@ -1,23 +1,22 @@
 ---
-arabic_ayat: اَمۡ تَسۡــَٔـلُهُمۡ خَرۡجًا فَخَرٰجُ رَبِّكَ خَيۡرٌ​ ​ۖ  وَّهُوَ خَيۡرُ
-  الرّٰزِقِيۡنَ‏
+arabic_ayat: أَمۡ تَسۡـَٔلُهُمۡ خَرۡجٗا فَخَرَاجُ رَبِّكَ خَيۡرٞۖ وَهُوَ خَيۡرُ ٱلرَّٰزِقِينَ
 sentence_translation: Or ˹is it because˺ you ˹O Prophet˺ are asking them for tribute?
   But the reward of your Lord is best, for He is the Best Provider.
 word_by_word:
   1:
-    arabic: اَمۡ
+    arabic: أَمۡ
     translation: Or
     transliteration: am
   2:
-    arabic: تَسۡــَٔـلُهُمۡ
+    arabic: تَسۡـَٔلُهُمۡ
     translation: you ask them
     transliteration: tasaluhum
   3:
-    arabic: خَرۡجًا
+    arabic: خَرۡجٗا
     translation: (for) a payment
     transliteration: kharjan
   4:
-    arabic: فَخَرٰجُ
+    arabic: فَخَرَاجُ
     translation: But the payment
     transliteration: fakharāju
   5:
@@ -25,11 +24,11 @@ word_by_word:
     translation: (of) your Lord
     transliteration: rabbika
   6:
-    arabic: خَيۡرٌ​ ​ۖ 
+    arabic: خَيۡرٞۖ
     translation: (is) best
     transliteration: khayrun
   7:
-    arabic: وَّهُوَ
+    arabic: وَهُوَ
     translation: and He
     transliteration: wahuwa
   8:
@@ -37,7 +36,7 @@ word_by_word:
     translation: (is) the Best
     transliteration: khayru
   9:
-    arabic: الرّٰزِقِيۡنَ‏
+    arabic: ٱلرَّٰزِقِينَ
     translation: (of) the Providers
     transliteration: l-rāziqīna
 ---

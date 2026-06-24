@@ -1,47 +1,47 @@
 ---
-arabic_ayat: فَلَـنُذِيۡقَنَّ الَّذِيۡنَ كَفَرُوۡا عَذَابًا شَدِيۡدًاۙ وَّلَنَجۡزِيَنَّهُمۡ
-  اَسۡوَاَ الَّذِىۡ كَانُوۡا يَعۡمَلُوۡنَ‏
+arabic_ayat: فَلَنُذِيقَنَّ ٱلَّذِينَ كَفَرُواْ عَذَابٗا شَدِيدٗا وَلَنَجۡزِيَنَّهُمۡ
+  أَسۡوَأَ ٱلَّذِي كَانُواْ يَعۡمَلُونَ
 sentence_translation: So We will certainly make the disbelievers taste a severe punishment,
   and We will surely repay them according to the worst of their deeds.
 word_by_word:
   1:
-    arabic: فَلَـنُذِيۡقَنَّ
+    arabic: فَلَنُذِيقَنَّ
     translation: But surely We will cause to taste
     transliteration: falanudhīqanna
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   3:
-    arabic: كَفَرُوۡا
+    arabic: كَفَرُواْ
     translation: disbelieve
     transliteration: kafarū
   4:
-    arabic: عَذَابًا
+    arabic: عَذَابٗا
     translation: a punishment
     transliteration: ʿadhāban
   5:
-    arabic: شَدِيۡدًاۙ
+    arabic: شَدِيدٗا
     translation: severe
     transliteration: shadīdan
   6:
-    arabic: وَّلَنَجۡزِيَنَّهُمۡ
+    arabic: وَلَنَجۡزِيَنَّهُمۡ
     translation: and surely We will recompense them
     transliteration: walanajziyannahum
   7:
-    arabic: اَسۡوَاَ
+    arabic: أَسۡوَأَ
     translation: (the) worst
     transliteration: aswa-a
   8:
-    arabic: الَّذِىۡ
+    arabic: ٱلَّذِي
     translation: (of) what
     transliteration: alladhī
   9:
-    arabic: كَانُوۡا
+    arabic: كَانُواْ
     translation: they used to
     transliteration: kānū
   10:
-    arabic: يَعۡمَلُوۡنَ‏
+    arabic: يَعۡمَلُونَ
     translation: do
     transliteration: yaʿmalūna
 ---

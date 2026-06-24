@@ -1,7 +1,7 @@
 ---
-arabic_ayat: "فَلَمَّا جَآءَ اَمۡرُنَا نَجَّيۡنَا صٰلِحًـا وَّالَّذِيۡنَ اٰمَنُوۡا\
-  \ مَعَهٗ بِرَحۡمَةٍ مِّنَّا وَمِنۡ خِزۡىِ يَوۡمِٮِٕذٍ​ؕ اِنَّ رَبَّكَ هُوَ الۡقَوِىُّ\
-  \ الۡعَزِيۡزُ‏ \uFEFF\uFEFF"
+arabic_ayat: فَلَمَّا جَآءَ أَمۡرُنَا نَجَّيۡنَا صَٰلِحٗا وَٱلَّذِينَ ءَامَنُواْ
+  مَعَهُۥ بِرَحۡمَةٖ مِّنَّا وَمِنۡ خِزۡيِ يَوۡمِئِذٍۚ إِنَّ رَبَّكَ هُوَ ٱلۡقَوِيُّ
+  ٱلۡعَزِيزُ
 sentence_translation: When Our command came, We saved Ṣâliḥ and those who believed
   with him by a mercy from Us and spared them the disgrace of that Day. Surely your
   Lord ˹alone˺ is the All-Powerful, Almighty.
@@ -15,7 +15,7 @@ word_by_word:
     translation: came
     transliteration: jāa
   3:
-    arabic: اَمۡرُنَا
+    arabic: أَمۡرُنَا
     translation: Our command
     transliteration: amrunā
   4:
@@ -23,23 +23,23 @@ word_by_word:
     translation: We saved
     transliteration: najjaynā
   5:
-    arabic: صٰلِحًـا
+    arabic: صَٰلِحٗا
     translation: Salih
     transliteration: ṣāliḥan
   6:
-    arabic: وَّالَّذِيۡنَ
+    arabic: وَٱلَّذِينَ ءَ
     translation: and those who
     transliteration: wa-alladhīna
   7:
-    arabic: اٰمَنُوۡا
+    arabic: امَنُواْ
     translation: believed
     transliteration: āmanū
   8:
-    arabic: مَعَهٗ
+    arabic: مَعَهُۥ
     translation: with him
     transliteration: maʿahu
   9:
-    arabic: بِرَحۡمَةٍ
+    arabic: بِرَحۡمَةٖ
     translation: by a Mercy
     transliteration: biraḥmatin
   10:
@@ -51,15 +51,15 @@ word_by_word:
     translation: and from
     transliteration: wamin
   12:
-    arabic: خِزۡىِ
+    arabic: خِزۡيِ
     translation: (the) disgrace
     transliteration: khiz'yi
   13:
-    arabic: يَوۡمِٮِٕذٍ​ؕ
+    arabic: يَوۡمِئِذٍۚ
     translation: (of) that Day
     transliteration: yawmi-idhin
   14:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   15:
@@ -71,11 +71,11 @@ word_by_word:
     translation: He
     transliteration: huwa
   17:
-    arabic: الۡقَوِىُّ
+    arabic: ٱلۡقَوِيُّ
     translation: (is) All-Strong
     transliteration: l-qawiyu
   18:
-    arabic: "الۡعَزِيۡزُ‏ \uFEFF\uFEFF"
+    arabic: ٱلۡعَزِيزُ
     translation: All-Mighty
     transliteration: l-ʿazīzu
 ---

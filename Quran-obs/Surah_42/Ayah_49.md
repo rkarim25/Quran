@@ -1,12 +1,12 @@
 ---
-arabic_ayat: لِّـلَّـهِ مُلۡكُ السَّمٰوٰتِ وَالۡاَرۡضِ ​ؕ يَخۡلُقُ مَا يَشَآءُ​ ؕ
-  يَهَبُ لِمَنۡ يَّشَآءُ اِنَاثًا وَّيَهَبُ لِمَنۡ يَّشَآءُ الذُّكُوۡرَ ۙ‏
+arabic_ayat: لِّلَّهِ مُلۡكُ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِۚ يَخۡلُقُ مَا يَشَآءُۚ يَهَبُ
+  لِمَن يَشَآءُ إِنَٰثٗا وَيَهَبُ لِمَن يَشَآءُ ٱلذُّكُورَ
 sentence_translation: To Allah ˹alone˺ belongs the kingdom of the heavens and the
   earth. He creates whatever He wills. He blesses whoever He wills with daughters,
   and blesses whoever He wills with sons,
 word_by_word:
   1:
-    arabic: لِّـلَّـهِ
+    arabic: لِّلَّهِ
     translation: To Allah
     transliteration: lillahi
   2:
@@ -14,11 +14,11 @@ word_by_word:
     translation: (belongs the) dominion
     transliteration: mul'ku
   3:
-    arabic: السَّمٰوٰتِ
+    arabic: ٱلسَّمَٰوَٰتِ
     translation: (of) the heavens
     transliteration: l-samāwāti
   4:
-    arabic: وَالۡاَرۡضِ ​ؕ
+    arabic: وَٱلۡأَرۡضِۚ
     translation: and the earth
     transliteration: wal-arḍi
   5:
@@ -30,7 +30,7 @@ word_by_word:
     translation: what
     transliteration: mā
   7:
-    arabic: يَشَآءُ​ ؕ
+    arabic: يَشَآءُۚ
     translation: He wills
     transliteration: yashāu
   8:
@@ -38,31 +38,31 @@ word_by_word:
     translation: He grants
     transliteration: yahabu
   9:
-    arabic: لِمَنۡ
+    arabic: لِمَن
     translation: to whom
     transliteration: liman
   10:
-    arabic: يَّشَآءُ
+    arabic: يَشَآءُ
     translation: He wills
     transliteration: yashāu
   11:
-    arabic: اِنَاثًا
+    arabic: إِنَٰثٗا
     translation: females
     transliteration: ināthan
   12:
-    arabic: وَّيَهَبُ
+    arabic: وَيَهَبُ
     translation: and He grants
     transliteration: wayahabu
   13:
-    arabic: لِمَنۡ
+    arabic: لِمَن
     translation: to whom
     transliteration: liman
   14:
-    arabic: يَّشَآءُ
+    arabic: يَشَآءُ
     translation: He wills
     transliteration: yashāu
   15:
-    arabic: الذُّكُوۡرَ ۙ‏
+    arabic: ٱلذُّكُورَ
     translation: '[the] males'
     transliteration: l-dhukūra
 ---

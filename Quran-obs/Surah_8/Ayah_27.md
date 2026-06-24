@@ -1,19 +1,19 @@
 ---
-arabic_ayat: يٰۤـاَيُّهَا الَّذِيۡنَ اٰمَنُوۡا لَا تَخُوۡنُوا اللّٰهَ وَالرَّسُوۡلَ
-  وَتَخُوۡنُوۡۤا اَمٰنٰتِكُمۡ وَاَنۡـتُمۡ تَعۡلَمُوۡنَ‏
+arabic_ayat: يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُواْ لَا تَخُونُواْ ٱللَّهَ وَٱلرَّسُولَ
+  وَتَخُونُوٓاْ أَمَٰنَٰتِكُمۡ وَأَنتُمۡ تَعۡلَمُونَ
 sentence_translation: O believers! Do not betray Allah and the Messenger, nor betray
   your trusts knowingly.
 word_by_word:
   1:
-    arabic: يٰۤـاَيُّهَا
+    arabic: يَٰٓأَيُّهَا
     translation: O you
     transliteration: yāayyuhā
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ ءَ
     translation: who
     transliteration: alladhīna
   3:
-    arabic: اٰمَنُوۡا
+    arabic: امَنُواْ
     translation: believe
     transliteration: āmanū
   4:
@@ -21,31 +21,31 @@ word_by_word:
     translation: (Do) not
     transliteration: lā
   5:
-    arabic: تَخُوۡنُوا
+    arabic: تَخُونُواْ
     translation: betray
     transliteration: takhūnū
   6:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   7:
-    arabic: وَالرَّسُوۡلَ
+    arabic: وَٱلرَّسُولَ
     translation: and the Messenger
     transliteration: wal-rasūla
   8:
-    arabic: وَتَخُوۡنُوۡۤا
+    arabic: وَتَخُونُوٓاْ
     translation: or betray
     transliteration: watakhūnū
   9:
-    arabic: اَمٰنٰتِكُمۡ
+    arabic: أَمَٰنَٰتِكُمۡ
     translation: your trusts
     transliteration: amānātikum
   10:
-    arabic: وَاَنۡـتُمۡ
+    arabic: وَأَنتُمۡ
     translation: while you
     transliteration: wa-antum
   11:
-    arabic: تَعۡلَمُوۡنَ‏
+    arabic: تَعۡلَمُونَ
     translation: know
     transliteration: taʿlamūna
 ---

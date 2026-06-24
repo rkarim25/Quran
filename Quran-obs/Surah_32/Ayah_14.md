@@ -1,12 +1,12 @@
 ---
-arabic_ayat: فَذُوۡقُوۡا بِمَا نَسِيۡتُمۡ لِقَآءَ يَوۡمِكُمۡ هٰذَا​ ۚ اِنَّا نَسِيۡنٰكُمۡ​
-  وَذُوۡقُوۡا عَذَابَ الۡخُلۡدِ بِمَا كُنۡتُمۡ تَعۡمَلُوۡنَ‏
+arabic_ayat: فَذُوقُواْ بِمَا نَسِيتُمۡ لِقَآءَ يَوۡمِكُمۡ هَٰذَآ إِنَّا نَسِينَٰكُمۡۖ
+  وَذُوقُواْ عَذَابَ ٱلۡخُلۡدِ بِمَا كُنتُمۡ تَعۡمَلُونَ
 sentence_translation: So taste ˹the punishment˺ for neglecting the meeting of this
   Day of yours. We ˹too˺ will certainly neglect you. And taste the torment of eternity
   for what you used to do!
 word_by_word:
   1:
-    arabic: فَذُوۡقُوۡا
+    arabic: فَذُوقُواْ
     translation: So taste
     transliteration: fadhūqū
   2:
@@ -14,7 +14,7 @@ word_by_word:
     translation: because
     transliteration: bimā
   3:
-    arabic: نَسِيۡتُمۡ
+    arabic: نَسِيتُمۡ
     translation: you forgot
     transliteration: nasītum
   4:
@@ -26,19 +26,19 @@ word_by_word:
     translation: (of) this Day of yours
     transliteration: yawmikum
   6:
-    arabic: هٰذَا​ ۚ
+    arabic: هَٰذَآ
     translation: (of) this Day of yours
     transliteration: hādhā
   7:
-    arabic: اِنَّا
+    arabic: إِنَّا
     translation: Indeed, We
     transliteration: innā
   8:
-    arabic: نَسِيۡنٰكُمۡ​
+    arabic: نَسِينَٰكُمۡۖ
     translation: have forgotten you
     transliteration: nasīnākum
   9:
-    arabic: وَذُوۡقُوۡا
+    arabic: وَذُوقُواْ
     translation: And taste
     transliteration: wadhūqū
   10:
@@ -46,7 +46,7 @@ word_by_word:
     translation: (the) punishment
     transliteration: ʿadhāba
   11:
-    arabic: الۡخُلۡدِ
+    arabic: ٱلۡخُلۡدِ
     translation: (of) eternity
     transliteration: l-khul'di
   12:
@@ -54,11 +54,11 @@ word_by_word:
     translation: for what
     transliteration: bimā
   13:
-    arabic: كُنۡتُمۡ
+    arabic: كُنتُمۡ
     translation: you used (to)
     transliteration: kuntum
   14:
-    arabic: تَعۡمَلُوۡنَ‏
+    arabic: تَعۡمَلُونَ
     translation: do
     transliteration: taʿmalūna
 ---

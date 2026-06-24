@@ -1,21 +1,21 @@
 ---
-arabic_ayat: اِلَّا مَنۡ تَوَلّٰى وَكَفَرَۙ‏
+arabic_ayat: إِلَّا مَن تَوَلَّىٰ وَكَفَرَ
 sentence_translation: But whoever turns away, persisting in disbelief,
 word_by_word:
   1:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: But
     transliteration: illā
   2:
-    arabic: مَنۡ
+    arabic: مَن
     translation: whoever
     transliteration: man
   3:
-    arabic: تَوَلّٰى
+    arabic: تَوَلَّىٰ
     translation: turns away
     transliteration: tawallā
   4:
-    arabic: وَكَفَرَۙ‏
+    arabic: وَكَفَرَ
     translation: and disbelieves
     transliteration: wakafara
 ---

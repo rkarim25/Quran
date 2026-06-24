@@ -1,39 +1,39 @@
 ---
-arabic_ayat: رِّزۡقًا لِّلۡعِبَادِ​ ۙ وَاَحۡيَيۡنَا بِهٖ بَلۡدَةً مَّيۡـتًا​ ؕ كَذٰلِكَ
-  الۡخُـرُوۡجُ‏
+arabic_ayat: رِّزۡقٗا لِّلۡعِبَادِۖ وَأَحۡيَيۡنَا بِهِۦ بَلۡدَةٗ مَّيۡتٗاۚ كَذَٰلِكَ
+  ٱلۡخُرُوجُ
 sentence_translation: ˹as˺ a provision for ˹Our˺ servants. And with this ˹rain˺ We
   revive a lifeless land. Similar is the emergence ˹from the graves˺.
 word_by_word:
   1:
-    arabic: رِّزۡقًا
+    arabic: رِّزۡقٗا
     translation: A provision
     transliteration: riz'qan
   2:
-    arabic: لِّلۡعِبَادِ​ ۙ
+    arabic: لِّلۡعِبَادِۖ
     translation: for the slaves
     transliteration: lil'ʿibādi
   3:
-    arabic: وَاَحۡيَيۡنَا
+    arabic: وَأَحۡيَيۡنَا
     translation: and We give life
     transliteration: wa-aḥyaynā
   4:
-    arabic: بِهٖ
+    arabic: بِهِۦ
     translation: therewith
     transliteration: bihi
   5:
-    arabic: بَلۡدَةً
+    arabic: بَلۡدَةٗ
     translation: (to) a land
     transliteration: baldatan
   6:
-    arabic: مَّيۡـتًا​ ؕ
+    arabic: مَّيۡتٗاۚ
     translation: dead
     transliteration: maytan
   7:
-    arabic: كَذٰلِكَ
+    arabic: كَذَٰلِكَ
     translation: Thus
     transliteration: kadhālika
   8:
-    arabic: الۡخُـرُوۡجُ‏
+    arabic: ٱلۡخُرُوجُ
     translation: (will be) the coming forth
     transliteration: l-khurūju
 ---

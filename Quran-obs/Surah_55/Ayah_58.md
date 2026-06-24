@@ -1,17 +1,17 @@
 ---
-arabic_ayat: كَاَنَّهُنَّ الۡيَاقُوۡتُ وَالۡمَرۡجَانُ​ۚ‏
+arabic_ayat: كَأَنَّهُنَّ ٱلۡيَاقُوتُ وَٱلۡمَرۡجَانُ
 sentence_translation: Those ˹maidens˺ will be ˹as elegant˺ as rubies and coral.
 word_by_word:
   1:
-    arabic: كَاَنَّهُنَّ
+    arabic: كَأَنَّهُنَّ
     translation: As if they were
     transliteration: ka-annahunna
   2:
-    arabic: الۡيَاقُوۡتُ
+    arabic: ٱلۡيَاقُوتُ
     translation: rubies
     transliteration: l-yāqūtu
   3:
-    arabic: وَالۡمَرۡجَانُ​ۚ‏
+    arabic: وَٱلۡمَرۡجَانُ
     translation: and coral
     transliteration: wal-marjānu
 ---

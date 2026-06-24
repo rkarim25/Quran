@@ -1,7 +1,6 @@
 ---
-arabic_ayat: "وَمَا ظَنُّ الَّذِيۡنَ يَفۡتَرُوۡنَ عَلَى اللّٰهِ الۡكَذِبَ يَوۡمَ الۡقِيٰمَةِ​ؕ\
-  \ اِنَّ اللّٰهَ لَذُوۡ فَضۡلٍ عَلَى النَّاسِ وَلٰـكِنَّ اَكۡثَرَهُمۡ لَا يَشۡكُرُوۡنَ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: وَمَا ظَنُّ ٱلَّذِينَ يَفۡتَرُونَ عَلَى ٱللَّهِ ٱلۡكَذِبَ يَوۡمَ ٱلۡقِيَٰمَةِۗ
+  إِنَّ ٱللَّهَ لَذُو فَضۡلٍ عَلَى ٱلنَّاسِ وَلَٰكِنَّ أَكۡثَرَهُمۡ لَا يَشۡكُرُونَ
 sentence_translation: What do those who fabricate lies against Allah expect on Judgment
   Day? Surely Allah is ever Bountiful to humanity, but most of them are ungrateful.
 word_by_word:
@@ -14,11 +13,11 @@ word_by_word:
     translation: (will be the) assumption
     transliteration: ẓannu
   3:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: (of) those who
     transliteration: alladhīna
   4:
-    arabic: يَفۡتَرُوۡنَ
+    arabic: يَفۡتَرُونَ
     translation: invent
     transliteration: yaftarūna
   5:
@@ -26,11 +25,11 @@ word_by_word:
     translation: against
     transliteration: ʿalā
   6:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   7:
-    arabic: الۡكَذِبَ
+    arabic: ٱلۡكَذِبَ
     translation: the lie
     transliteration: l-kadhiba
   8:
@@ -38,19 +37,19 @@ word_by_word:
     translation: (on) the Day
     transliteration: yawma
   9:
-    arabic: الۡقِيٰمَةِ​ؕ
+    arabic: ٱلۡقِيَٰمَةِۗ
     translation: (of) the Judgment
     transliteration: l-qiyāmati
   10:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   11:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   12:
-    arabic: لَذُوۡ
+    arabic: لَذُو
     translation: (is) surely Full (of) Bounty
     transliteration: ladhū
   13:
@@ -62,15 +61,15 @@ word_by_word:
     translation: to
     transliteration: ʿalā
   15:
-    arabic: النَّاسِ
+    arabic: ٱلنَّاسِ
     translation: the mankind
     transliteration: l-nāsi
   16:
-    arabic: وَلٰـكِنَّ
+    arabic: وَلَٰكِنَّ
     translation: but
     transliteration: walākinna
   17:
-    arabic: اَكۡثَرَهُمۡ
+    arabic: أَكۡثَرَهُمۡ
     translation: most of them
     transliteration: aktharahum
   18:
@@ -78,7 +77,7 @@ word_by_word:
     translation: (are) not
     transliteration: lā
   19:
-    arabic: "يَشۡكُرُوۡنَ‏ \uFEFF\uFEFF"
+    arabic: يَشۡكُرُونَ
     translation: grateful
     transliteration: yashkurūna
 ---

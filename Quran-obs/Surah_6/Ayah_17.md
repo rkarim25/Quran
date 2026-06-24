@@ -1,23 +1,23 @@
 ---
-arabic_ayat: وَاِنۡ يَّمۡسَسۡكَ اللّٰهُ بِضُرٍّ فَلَا كَاشِفَ لَهٗۤ اِلَّا هُوَ​ؕ
-  وَاِنۡ يَّمۡسَسۡكَ بِخَيۡرٍ فَهُوَ عَلٰى كُلِّ شَىۡءٍ قَدِيۡرٌ‏
+arabic_ayat: وَإِن يَمۡسَسۡكَ ٱللَّهُ بِضُرّٖ فَلَا كَاشِفَ لَهُۥٓ إِلَّا هُوَۖ وَإِن
+  يَمۡسَسۡكَ بِخَيۡرٖ فَهُوَ عَلَىٰ كُلِّ شَيۡءٖ قَدِيرٞ
 sentence_translation: If Allah touches you with harm, none can undo it except Him.
   And if He touches you with a blessing, He is Most Capable of everything.
 word_by_word:
   1:
-    arabic: وَاِنۡ
+    arabic: وَإِن
     translation: And if
     transliteration: wa-in
   2:
-    arabic: يَّمۡسَسۡكَ
+    arabic: يَمۡسَسۡكَ
     translation: touches you
     transliteration: yamsaska
   3:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   4:
-    arabic: بِضُرٍّ
+    arabic: بِضُرّٖ
     translation: with affliction
     transliteration: biḍurrin
   5:
@@ -29,27 +29,27 @@ word_by_word:
     translation: remover
     transliteration: kāshifa
   7:
-    arabic: لَهٗۤ
+    arabic: لَهُۥٓ
     translation: of it
     transliteration: lahu
   8:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   9:
-    arabic: هُوَ​ؕ
+    arabic: هُوَۖ
     translation: Him
     transliteration: huwa
   10:
-    arabic: وَاِنۡ
+    arabic: وَإِن
     translation: And if
     transliteration: wa-in
   11:
-    arabic: يَّمۡسَسۡكَ
+    arabic: يَمۡسَسۡكَ
     translation: He touches you
     transliteration: yamsaska
   12:
-    arabic: بِخَيۡرٍ
+    arabic: بِخَيۡرٖ
     translation: with good
     transliteration: bikhayrin
   13:
@@ -57,7 +57,7 @@ word_by_word:
     translation: then He
     transliteration: fahuwa
   14:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: (is) on
     transliteration: ʿalā
   15:
@@ -65,11 +65,11 @@ word_by_word:
     translation: every
     transliteration: kulli
   16:
-    arabic: شَىۡءٍ
+    arabic: شَيۡءٖ
     translation: thing
     transliteration: shayin
   17:
-    arabic: قَدِيۡرٌ‏
+    arabic: قَدِيرٞ
     translation: All-Powerful
     transliteration: qadīrun
 ---

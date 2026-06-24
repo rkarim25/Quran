@@ -1,13 +1,13 @@
 ---
-arabic_ayat: وَاِذۡ قَالَ مُوۡسٰى لِقَوۡمِهٖ يٰقَوۡمِ اذۡكُرُوۡا نِعۡمَةَ اللّٰهِ
-  عَلَيۡكُمۡ اِذۡ جَعَلَ فِيۡكُمۡ اَنۡۢـبِيَآءَ وَجَعَلَـكُمۡ مُّلُوۡكًا  ۖ  وَّاٰتٰٮكُمۡ
-  مَّا لَمۡ يُؤۡتِ اَحَدًا مِّنَ الۡعٰلَمِيۡنَ‏
+arabic_ayat: وَإِذۡ قَالَ مُوسَىٰ لِقَوۡمِهِۦ يَٰقَوۡمِ ٱذۡكُرُواْ نِعۡمَةَ ٱللَّهِ
+  عَلَيۡكُمۡ إِذۡ جَعَلَ فِيكُمۡ أَنۢبِيَآءَ وَجَعَلَكُم مُّلُوكٗا وَءَاتَىٰكُم مَّا
+  لَمۡ يُؤۡتِ أَحَدٗا مِّنَ ٱلۡعَٰلَمِينَ
 sentence_translation: And ˹remember˺ when Moses said to his people, “O my people!
   Remember Allah’s favours upon you when He raised prophets from among you, made you
   sovereign, and gave you what He had never given anyone in the world.
 word_by_word:
   1:
-    arabic: وَاِذۡ
+    arabic: وَإِذۡ
     translation: And when
     transliteration: wa-idh
   2:
@@ -15,19 +15,19 @@ word_by_word:
     translation: said
     transliteration: qāla
   3:
-    arabic: مُوۡسٰى
+    arabic: مُوسَىٰ
     translation: Musa
     transliteration: mūsā
   4:
-    arabic: لِقَوۡمِهٖ
+    arabic: لِقَوۡمِهِۦ
     translation: to his people
     transliteration: liqawmihi
   5:
-    arabic: يٰقَوۡمِ
+    arabic: يَٰقَوۡمِ
     translation: O my people
     transliteration: yāqawmi
   6:
-    arabic: اذۡكُرُوۡا
+    arabic: ٱذۡكُرُواْ
     translation: remember
     transliteration: udh'kurū
   7:
@@ -35,7 +35,7 @@ word_by_word:
     translation: (the) Favor
     transliteration: niʿ'mata
   8:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (of) Allah
     transliteration: l-lahi
   9:
@@ -43,7 +43,7 @@ word_by_word:
     translation: upon you
     transliteration: ʿalaykum
   10:
-    arabic: اِذۡ
+    arabic: إِذۡ
     translation: when
     transliteration: idh
   11:
@@ -51,23 +51,23 @@ word_by_word:
     translation: He placed
     transliteration: jaʿala
   12:
-    arabic: فِيۡكُمۡ
+    arabic: فِيكُمۡ
     translation: among you
     transliteration: fīkum
   13:
-    arabic: اَنۡۢـبِيَآءَ
+    arabic: أَنۢبِيَآءَ
     translation: Prophets
     transliteration: anbiyāa
   14:
-    arabic: وَجَعَلَـكُمۡ
+    arabic: وَجَعَلَكُم
     translation: and made you
     transliteration: wajaʿalakum
   15:
-    arabic: مُّلُوۡكًا  ۖ 
+    arabic: مُّلُوكٗا
     translation: kings
     transliteration: mulūkan
   16:
-    arabic: وَّاٰتٰٮكُمۡ
+    arabic: وَءَاتَىٰكُم
     translation: and He gave you
     transliteration: waātākum
   17:
@@ -83,7 +83,7 @@ word_by_word:
     translation: He (had) given
     transliteration: yu'ti
   20:
-    arabic: اَحَدًا
+    arabic: أَحَدٗا
     translation: (to) anyone
     transliteration: aḥadan
   21:
@@ -91,7 +91,7 @@ word_by_word:
     translation: from
     transliteration: mina
   22:
-    arabic: الۡعٰلَمِيۡنَ‏
+    arabic: ٱلۡعَٰلَمِينَ
     translation: the worlds
     transliteration: l-ʿālamīna
 ---

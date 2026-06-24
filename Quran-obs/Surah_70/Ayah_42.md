@@ -1,6 +1,6 @@
 ---
-arabic_ayat: فَذَرۡهُمۡ يَخُوۡضُوۡا وَيَلۡعَبُوۡا حَتّٰى يُلٰقُوۡا يَوۡمَهُمُ الَّذِىۡ
-  يُوۡعَدُوۡنَۙ‏
+arabic_ayat: فَذَرۡهُمۡ يَخُوضُواْ وَيَلۡعَبُواْ حَتَّىٰ يُلَٰقُواْ يَوۡمَهُمُ ٱلَّذِي
+  يُوعَدُونَ
 sentence_translation: So let them indulge ˹in falsehood˺ and amuse ˹themselves˺ until
   they face their Day, which they have been threatened with—
 word_by_word:
@@ -9,19 +9,19 @@ word_by_word:
     translation: So leave them
     transliteration: fadharhum
   2:
-    arabic: يَخُوۡضُوۡا
+    arabic: يَخُوضُواْ
     translation: (to) converse vainly
     transliteration: yakhūḍū
   3:
-    arabic: وَيَلۡعَبُوۡا
+    arabic: وَيَلۡعَبُواْ
     translation: and amuse themselves
     transliteration: wayalʿabū
   4:
-    arabic: حَتّٰى
+    arabic: حَتَّىٰ
     translation: until
     transliteration: ḥattā
   5:
-    arabic: يُلٰقُوۡا
+    arabic: يُلَٰقُواْ
     translation: they meet
     transliteration: yulāqū
   6:
@@ -29,11 +29,11 @@ word_by_word:
     translation: their Day
     transliteration: yawmahumu
   7:
-    arabic: الَّذِىۡ
+    arabic: ٱلَّذِي
     translation: which
     transliteration: alladhī
   8:
-    arabic: يُوۡعَدُوۡنَۙ‏
+    arabic: يُوعَدُونَ
     translation: they are promised
     transliteration: yūʿadūna
 ---

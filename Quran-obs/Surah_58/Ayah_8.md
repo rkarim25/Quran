@@ -1,9 +1,9 @@
 ---
-arabic_ayat: اَلَمۡ تَرَ اِلَى الَّذِيۡنَ نُهُوۡا عَنِ النَّجۡوٰى ثُمَّ يَعُوۡدُوۡنَ
-  لِمَا نُهُوۡا عَنۡهُ وَيَتَنٰجَوۡنَ بِالۡاِثۡمِ وَالۡعُدۡوَانِ وَمَعۡصِيَتِ الرَّسُوۡلِ
-  وَاِذَا جَآءُوۡكَ حَيَّوۡكَ بِمَا لَمۡ يُحَيِّكَ بِهِ اللّٰهُۙ وَيَقُوۡلُوۡنَ فِىۡۤ
-  اَنۡفُسِهِمۡ لَوۡلَا يُعَذِّبُنَا اللّٰهُ بِمَا نَقُوۡلُ​ؕ حَسۡبُهُمۡ جَهَنَّمُ​ۚ
-  يَصۡلَوۡنَهَا​ۚ فَبِئۡسَ الۡمَصِيۡرُ‏
+arabic_ayat: أَلَمۡ تَرَ إِلَى ٱلَّذِينَ نُهُواْ عَنِ ٱلنَّجۡوَىٰ ثُمَّ يَعُودُونَ
+  لِمَا نُهُواْ عَنۡهُ وَيَتَنَٰجَوۡنَ بِٱلۡإِثۡمِ وَٱلۡعُدۡوَٰنِ وَمَعۡصِيَتِ ٱلرَّسُولِۖ
+  وَإِذَا جَآءُوكَ حَيَّوۡكَ بِمَا لَمۡ يُحَيِّكَ بِهِ ٱللَّهُ وَيَقُولُونَ فِيٓ
+  أَنفُسِهِمۡ لَوۡلَا يُعَذِّبُنَا ٱللَّهُ بِمَا نَقُولُۚ حَسۡبُهُمۡ جَهَنَّمُ يَصۡلَوۡنَهَاۖ
+  فَبِئۡسَ ٱلۡمَصِيرُ
 sentence_translation: Have you not seen those who were forbidden from secret talks,
   yet they ˹always˺ return to what they were forbidden from, conspiring in sin, aggression,
   and disobedience to the Messenger? And when they come to you ˹O Prophet˺, they greet
@@ -12,7 +12,7 @@ sentence_translation: Have you not seen those who were forbidden from secret tal
   destination!
 word_by_word:
   1:
-    arabic: اَلَمۡ
+    arabic: أَلَمۡ
     translation: Do not
     transliteration: alam
   2:
@@ -20,15 +20,15 @@ word_by_word:
     translation: you see
     transliteration: tara
   3:
-    arabic: اِلَى
+    arabic: إِلَى
     translation: '[to]'
     transliteration: ilā
   4:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   5:
-    arabic: نُهُوۡا
+    arabic: نُهُواْ
     translation: were forbidden
     transliteration: nuhū
   6:
@@ -36,7 +36,7 @@ word_by_word:
     translation: from
     transliteration: ʿani
   7:
-    arabic: النَّجۡوٰى
+    arabic: ٱلنَّجۡوَىٰ
     translation: secret counsels
     transliteration: l-najwā
   8:
@@ -44,7 +44,7 @@ word_by_word:
     translation: then
     transliteration: thumma
   9:
-    arabic: يَعُوۡدُوۡنَ
+    arabic: يَعُودُونَ
     translation: they return
     transliteration: yaʿūdūna
   10:
@@ -52,7 +52,7 @@ word_by_word:
     translation: to what
     transliteration: limā
   11:
-    arabic: نُهُوۡا
+    arabic: نُهُواْ
     translation: they were forbidden
     transliteration: nuhū
   12:
@@ -60,15 +60,15 @@ word_by_word:
     translation: from [it]
     transliteration: ʿanhu
   13:
-    arabic: وَيَتَنٰجَوۡنَ
+    arabic: وَيَتَنَٰجَوۡنَ
     translation: and they hold secret counsels
     transliteration: wayatanājawna
   14:
-    arabic: بِالۡاِثۡمِ
+    arabic: بِٱلۡإِثۡمِ
     translation: for sin
     transliteration: bil-ith'mi
   15:
-    arabic: وَالۡعُدۡوَانِ
+    arabic: وَٱلۡعُدۡوَٰنِ
     translation: and aggression
     transliteration: wal-ʿud'wāni
   16:
@@ -76,15 +76,15 @@ word_by_word:
     translation: and disobedience
     transliteration: wamaʿṣiyati
   17:
-    arabic: الرَّسُوۡلِ
+    arabic: ٱلرَّسُولِۖ
     translation: (to) the Messenger
     transliteration: l-rasūli
   18:
-    arabic: وَاِذَا
+    arabic: وَإِذَا
     translation: And when
     transliteration: wa-idhā
   19:
-    arabic: جَآءُوۡكَ
+    arabic: جَآءُوكَ
     translation: they come to you
     transliteration: jāūka
   20:
@@ -108,19 +108,19 @@ word_by_word:
     translation: therewith
     transliteration: bihi
   25:
-    arabic: اللّٰهُۙ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   26:
-    arabic: وَيَقُوۡلُوۡنَ
+    arabic: وَيَقُولُونَ
     translation: and they say
     transliteration: wayaqūlūna
   27:
-    arabic: فِىۡۤ
+    arabic: فِيٓ
     translation: among
     transliteration: fī
   28:
-    arabic: اَنۡفُسِهِمۡ
+    arabic: أَنفُسِهِمۡ
     translation: themselves
     transliteration: anfusihim
   29:
@@ -132,7 +132,7 @@ word_by_word:
     translation: Allah punish us
     transliteration: yuʿadhibunā
   31:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah punish us
     transliteration: l-lahu
   32:
@@ -140,7 +140,7 @@ word_by_word:
     translation: for what
     transliteration: bimā
   33:
-    arabic: نَقُوۡلُ​ؕ
+    arabic: نَقُولُۚ
     translation: we say
     transliteration: naqūlu
   34:
@@ -148,11 +148,11 @@ word_by_word:
     translation: Sufficient (for) them
     transliteration: ḥasbuhum
   35:
-    arabic: جَهَنَّمُ​ۚ
+    arabic: جَهَنَّمُ
     translation: (is) Hell
     transliteration: jahannamu
   36:
-    arabic: يَصۡلَوۡنَهَا​ۚ
+    arabic: يَصۡلَوۡنَهَاۖ
     translation: they will burn in it
     transliteration: yaṣlawnahā
   37:
@@ -160,7 +160,7 @@ word_by_word:
     translation: and worst is
     transliteration: fabi'sa
   38:
-    arabic: الۡمَصِيۡرُ‏
+    arabic: ٱلۡمَصِيرُ
     translation: the destination
     transliteration: l-maṣīru
 ---

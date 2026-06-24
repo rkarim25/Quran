@@ -1,7 +1,7 @@
 ---
-arabic_ayat: وَلَقَدۡ اَرۡسَلۡنَا رُسُلًا مِّنۡ قَبۡلِكَ وَ جَعَلۡنَا لَهُمۡ اَزۡوَاجًا
-  وَّذُرِّيَّةً ​ ؕ وَمَا كَانَ لِرَسُوۡلٍ اَنۡ يَّاۡتِىَ بِاٰيَةٍ اِلَّا بِاِذۡنِ
-  اللّٰهِ​ ؕ لِكُلِّ اَجَلٍ كِتَابٌ‏
+arabic_ayat: وَلَقَدۡ أَرۡسَلۡنَا رُسُلٗا مِّن قَبۡلِكَ وَجَعَلۡنَا لَهُمۡ أَزۡوَٰجٗا
+  وَذُرِّيَّةٗۚ وَمَا كَانَ لِرَسُولٍ أَن يَأۡتِيَ بِـَٔايَةٍ إِلَّا بِإِذۡنِ ٱللَّهِۗ
+  لِكُلِّ أَجَلٖ كِتَابٞ
 sentence_translation: We have certainly sent messengers before you ˹O Prophet˺ and
   blessed them with wives and offspring. It was not for any messenger to bring a sign
   without Allah’s permission. Every destined matter has a ˹set˺ time.
@@ -11,15 +11,15 @@ word_by_word:
     translation: And certainly
     transliteration: walaqad
   2:
-    arabic: اَرۡسَلۡنَا
+    arabic: أَرۡسَلۡنَا
     translation: We sent
     transliteration: arsalnā
   3:
-    arabic: رُسُلًا
+    arabic: رُسُلٗا
     translation: Messengers
     transliteration: rusulan
   4:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: from
     transliteration: min
   5:
@@ -27,7 +27,7 @@ word_by_word:
     translation: before you
     transliteration: qablika
   6:
-    arabic: وَ جَعَلۡنَا
+    arabic: وَجَعَلۡنَا
     translation: and We made
     transliteration: wajaʿalnā
   7:
@@ -35,11 +35,11 @@ word_by_word:
     translation: for them
     transliteration: lahum
   8:
-    arabic: اَزۡوَاجًا
+    arabic: أَزۡوَٰجٗا
     translation: wives
     transliteration: azwājan
   9:
-    arabic: وَّذُرِّيَّةً ​ ؕ
+    arabic: وَذُرِّيَّةٗۚ
     translation: and offspring
     transliteration: wadhurriyyatan
   10:
@@ -51,31 +51,31 @@ word_by_word:
     translation: was
     transliteration: kāna
   12:
-    arabic: لِرَسُوۡلٍ
+    arabic: لِرَسُولٍ
     translation: for a Messenger
     transliteration: lirasūlin
   13:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that
     transliteration: an
   14:
-    arabic: يَّاۡتِىَ
+    arabic: يَأۡتِيَ
     translation: he comes
     transliteration: yatiya
   15:
-    arabic: بِاٰيَةٍ
+    arabic: بِـَٔايَةٍ
     translation: with a sign
     transliteration: biāyatin
   16:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   17:
-    arabic: بِاِذۡنِ
+    arabic: بِإِذۡنِ
     translation: by the leave
     transliteration: bi-idh'ni
   18:
-    arabic: اللّٰهِ​ ؕ
+    arabic: ٱللَّهِۗ
     translation: (of) Allah
     transliteration: l-lahi
   19:
@@ -83,11 +83,11 @@ word_by_word:
     translation: For everything
     transliteration: likulli
   20:
-    arabic: اَجَلٍ
+    arabic: أَجَلٖ
     translation: (is) a time
     transliteration: ajalin
   21:
-    arabic: كِتَابٌ‏
+    arabic: كِتَابٞ
     translation: prescribed
     transliteration: kitābun
 ---

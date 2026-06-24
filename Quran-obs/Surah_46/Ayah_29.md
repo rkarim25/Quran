@@ -1,25 +1,25 @@
 ---
-arabic_ayat: وَاِذۡ صَرَفۡنَاۤ اِلَيۡكَ نَفَرًا مِّنَ الۡجِنِّ يَسۡتَمِعُوۡنَ الۡقُرۡاٰنَ​ۚ
-  فَلَمَّا حَضَرُوۡهُ قَالُوۡۤا اَنۡصِتُوۡا​ۚ فَلَمَّا قُضِىَ وَلَّوۡا اِلٰى قَوۡمِهِمۡ
-  مُّنۡذِرِيۡنَ‏
+arabic_ayat: وَإِذۡ صَرَفۡنَآ إِلَيۡكَ نَفَرٗا مِّنَ ٱلۡجِنِّ يَسۡتَمِعُونَ ٱلۡقُرۡءَانَ
+  فَلَمَّا حَضَرُوهُ قَالُوٓاْ أَنصِتُواْۖ فَلَمَّا قُضِيَ وَلَّوۡاْ إِلَىٰ قَوۡمِهِم
+  مُّنذِرِينَ
 sentence_translation: ˹Remember, O  Prophet,˺ when We sent a group of jinn your way
   to listen to the Quran. Then, upon hearing it, they said ˹to one another˺, “Listen
   quietly!” Then when it was over, they returned to their fellow jinn as warners.
 word_by_word:
   1:
-    arabic: وَاِذۡ
+    arabic: وَإِذۡ
     translation: And when
     transliteration: wa-idh
   2:
-    arabic: صَرَفۡنَاۤ
+    arabic: صَرَفۡنَآ
     translation: We directed
     transliteration: ṣarafnā
   3:
-    arabic: اِلَيۡكَ
+    arabic: إِلَيۡكَ
     translation: to you
     transliteration: ilayka
   4:
-    arabic: نَفَرًا
+    arabic: نَفَرٗا
     translation: a party
     transliteration: nafaran
   5:
@@ -27,15 +27,15 @@ word_by_word:
     translation: of
     transliteration: mina
   6:
-    arabic: الۡجِنِّ
+    arabic: ٱلۡجِنِّ
     translation: the jinn
     transliteration: l-jini
   7:
-    arabic: يَسۡتَمِعُوۡنَ
+    arabic: يَسۡتَمِعُونَ
     translation: listening
     transliteration: yastamiʿūna
   8:
-    arabic: الۡقُرۡاٰنَ​ۚ
+    arabic: ٱلۡقُرۡءَانَ
     translation: (to) the Quran
     transliteration: l-qur'āna
   9:
@@ -43,15 +43,15 @@ word_by_word:
     translation: And when
     transliteration: falammā
   10:
-    arabic: حَضَرُوۡهُ
+    arabic: حَضَرُوهُ
     translation: they attended it
     transliteration: ḥaḍarūhu
   11:
-    arabic: قَالُوۡۤا
+    arabic: قَالُوٓاْ
     translation: they said
     transliteration: qālū
   12:
-    arabic: اَنۡصِتُوۡا​ۚ
+    arabic: أَنصِتُواْۖ
     translation: Listen quietly
     transliteration: anṣitū
   13:
@@ -59,23 +59,23 @@ word_by_word:
     translation: And when
     transliteration: falammā
   14:
-    arabic: قُضِىَ
+    arabic: قُضِيَ
     translation: it was concluded
     transliteration: quḍiya
   15:
-    arabic: وَلَّوۡا
+    arabic: وَلَّوۡاْ
     translation: they turned back
     transliteration: wallaw
   16:
-    arabic: اِلٰى
+    arabic: إِلَىٰ
     translation: to
     transliteration: ilā
   17:
-    arabic: قَوۡمِهِمۡ
+    arabic: قَوۡمِهِم
     translation: their people
     transliteration: qawmihim
   18:
-    arabic: مُّنۡذِرِيۡنَ‏
+    arabic: مُّنذِرِينَ
     translation: (as) warners
     transliteration: mundhirīna
 ---

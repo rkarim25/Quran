@@ -1,35 +1,35 @@
 ---
-arabic_ayat: فَكَذَّبُوۡهُ فَاَهۡلَـكۡنٰهُمۡ​ؕ اِنَّ فِىۡ ذٰلِكَ لَاَيَةً​ ؕ وَ مَا
-  كَانَ اَكۡثَرُهُمۡ مُّؤۡمِنِيۡنَ‏
+arabic_ayat: فَكَذَّبُوهُ فَأَهۡلَكۡنَٰهُمۡۚ إِنَّ فِي ذَٰلِكَ لَأٓيَةٗۖ وَمَا كَانَ
+  أَكۡثَرُهُم مُّؤۡمِنِينَ
 sentence_translation: So they rejected him, and ˹so˺ We destroyed them. Surely in
   this is a sign. Yet most of them would not believe.
 word_by_word:
   1:
-    arabic: فَكَذَّبُوۡهُ
+    arabic: فَكَذَّبُوهُ
     translation: So they denied him
     transliteration: fakadhabūhu
   2:
-    arabic: فَاَهۡلَـكۡنٰهُمۡ​ؕ
+    arabic: فَأَهۡلَكۡنَٰهُمۡۚ
     translation: then We destroyed them
     transliteration: fa-ahlaknāhum
   3:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   4:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   5:
-    arabic: ذٰلِكَ
+    arabic: ذَٰلِكَ
     translation: that
     transliteration: dhālika
   6:
-    arabic: لَاَيَةً​ ؕ
+    arabic: لَأٓيَةٗۖ
     translation: surely, is a sign
     transliteration: laāyatan
   7:
-    arabic: وَ مَا
+    arabic: وَمَا
     translation: but not
     transliteration: wamā
   8:
@@ -37,11 +37,11 @@ word_by_word:
     translation: are
     transliteration: kāna
   9:
-    arabic: اَكۡثَرُهُمۡ
+    arabic: أَكۡثَرُهُم
     translation: most of them
     transliteration: aktharuhum
   10:
-    arabic: مُّؤۡمِنِيۡنَ‏
+    arabic: مُّؤۡمِنِينَ
     translation: believers
     transliteration: mu'minīna
 ---

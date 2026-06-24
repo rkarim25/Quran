@@ -1,25 +1,24 @@
 ---
-arabic_ayat: "لِلَّذِيۡنَ اَحۡسَنُوا الۡحُسۡنٰى وَزِيَادَةٌ ؕ وَلَا يَرۡهَقُ وُجُوۡهَهُمۡ\
-  \ قَتَرٌ وَّلَا ذِلَّـةٌ ​ ؕ اُولٰٓٮِٕكَ اَصۡحٰبُ الۡجَـنَّةِ​ ۚ هُمۡ فِيۡهَا خٰلِدُوۡنَ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: ۞ لِّلَّذِينَ أَحۡسَنُواْ ٱلۡحُسۡنَىٰ وَزِيَادَةٞۖ وَلَا يَرۡهَقُ وُجُوهَهُمۡ
+  قَتَرٞ وَلَا ذِلَّةٌۚ أُوْلَٰٓئِكَ أَصۡحَٰبُ ٱلۡجَنَّةِۖ هُمۡ فِيهَا خَٰلِدُونَ
 sentence_translation: Those who do good will have the finest reward and ˹even˺ more. Neither
   gloom nor disgrace will cover their faces. It is they who will be the residents
   of Paradise. They will be there forever.
 word_by_word:
   1:
-    arabic: ۞ لِلَّذِيۡنَ
+    arabic: ۞ لِّلَّذِينَ
     translation: For those who
     transliteration: lilladhīna
   2:
-    arabic: اَحۡسَنُوا
+    arabic: أَحۡسَنُواْ
     translation: do good
     transliteration: aḥsanū
   3:
-    arabic: الۡحُسۡنٰى
+    arabic: ٱلۡحُسۡنَىٰ
     translation: (is) the best
     transliteration: l-ḥus'nā
   4:
-    arabic: وَزِيَادَةٌ ؕ
+    arabic: وَزِيَادَةٞۖ
     translation: and more
     transliteration: waziyādatun
   5:
@@ -31,31 +30,31 @@ word_by_word:
     translation: (will) cover
     transliteration: yarhaqu
   7:
-    arabic: وُجُوۡهَهُمۡ
+    arabic: وُجُوهَهُمۡ
     translation: their faces
     transliteration: wujūhahum
   8:
-    arabic: قَتَرٌ
+    arabic: قَتَرٞ
     translation: dust
     transliteration: qatarun
   9:
-    arabic: وَّلَا
+    arabic: وَلَا
     translation: and not
     transliteration: walā
   10:
-    arabic: ذِلَّـةٌ ​ ؕ
+    arabic: ذِلَّةٌۚ
     translation: humiliation
     transliteration: dhillatun
   11:
-    arabic: اُولٰٓٮِٕكَ
+    arabic: أُوْلَٰٓئِكَ
     translation: Those
     transliteration: ulāika
   12:
-    arabic: اَصۡحٰبُ
+    arabic: أَصۡحَٰبُ
     translation: (are the) companions
     transliteration: aṣḥābu
   13:
-    arabic: الۡجَـنَّةِ​ ۚ
+    arabic: ٱلۡجَنَّةِۖ
     translation: (of) Paradise
     transliteration: l-janati
   14:
@@ -63,11 +62,11 @@ word_by_word:
     translation: they
     transliteration: hum
   15:
-    arabic: فِيۡهَا
+    arabic: فِيهَا
     translation: in it
     transliteration: fīhā
   16:
-    arabic: "خٰلِدُوۡنَ‏ \uFEFF\uFEFF"
+    arabic: خَٰلِدُونَ
     translation: (will) abide forever
     transliteration: khālidūna
 ---

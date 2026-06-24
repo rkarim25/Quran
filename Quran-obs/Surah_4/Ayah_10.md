@@ -1,28 +1,28 @@
 ---
-arabic_ayat: اِنَّ الَّذِيۡنَ يَاۡكُلُوۡنَ اَمۡوَالَ الۡيَتٰمٰى ظُلۡمًا اِنَّمَا يَاۡكُلُوۡنَ
-  فِىۡ بُطُوۡنِهِمۡ نَارًا​ ؕ وَسَيَـصۡلَوۡنَ سَعِيۡرًا‏
+arabic_ayat: إِنَّ ٱلَّذِينَ يَأۡكُلُونَ أَمۡوَٰلَ ٱلۡيَتَٰمَىٰ ظُلۡمًا إِنَّمَا يَأۡكُلُونَ
+  فِي بُطُونِهِمۡ نَارٗاۖ وَسَيَصۡلَوۡنَ سَعِيرٗا
 sentence_translation: Indeed, those who unjustly consume orphans’ wealth ˹in fact˺
   consume nothing but fire into their bellies. And they will be burned in a blazing
   Hell!
 word_by_word:
   1:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   3:
-    arabic: يَاۡكُلُوۡنَ
+    arabic: يَأۡكُلُونَ
     translation: consume
     transliteration: yakulūna
   4:
-    arabic: اَمۡوَالَ
+    arabic: أَمۡوَٰلَ
     translation: wealth
     transliteration: amwāla
   5:
-    arabic: الۡيَتٰمٰى
+    arabic: ٱلۡيَتَٰمَىٰ
     translation: (of) the orphans
     transliteration: l-yatāmā
   6:
@@ -30,31 +30,31 @@ word_by_word:
     translation: wrongfully
     transliteration: ẓul'man
   7:
-    arabic: اِنَّمَا
+    arabic: إِنَّمَا
     translation: only
     transliteration: innamā
   8:
-    arabic: يَاۡكُلُوۡنَ
+    arabic: يَأۡكُلُونَ
     translation: they consume
     transliteration: yakulūna
   9:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   10:
-    arabic: بُطُوۡنِهِمۡ
+    arabic: بُطُونِهِمۡ
     translation: their bellies
     transliteration: buṭūnihim
   11:
-    arabic: نَارًا​ ؕ
+    arabic: نَارٗاۖ
     translation: fire
     transliteration: nāran
   12:
-    arabic: وَسَيَـصۡلَوۡنَ
+    arabic: وَسَيَصۡلَوۡنَ
     translation: and they will be burned
     transliteration: wasayaṣlawna
   13:
-    arabic: سَعِيۡرًا‏
+    arabic: سَعِيرٗا
     translation: (in) a Blazing Fire
     transliteration: saʿīran
 ---

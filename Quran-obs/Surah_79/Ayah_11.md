@@ -1,9 +1,9 @@
 ---
-arabic_ayat: ءَاِذَا كُنَّا عِظَامًا نَّخِرَةً ؕ‏
+arabic_ayat: أَءِذَا كُنَّا عِظَٰمٗا نَّخِرَةٗ
 sentence_translation: even after we have been reduced to decayed bones?”
 word_by_word:
   1:
-    arabic: ءَاِذَا
+    arabic: أَءِذَا
     translation: What! When
     transliteration: a-idhā
   2:
@@ -11,11 +11,11 @@ word_by_word:
     translation: we are
     transliteration: kunnā
   3:
-    arabic: عِظَامًا
+    arabic: عِظَٰمٗا
     translation: bones
     transliteration: ʿiẓāman
   4:
-    arabic: نَّخِرَةً ؕ‏
+    arabic: نَّخِرَةٗ
     translation: decayed
     transliteration: nakhiratan
 ---

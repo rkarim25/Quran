@@ -1,5 +1,5 @@
 ---
-arabic_ayat: فَمَا تَنۡفَعُهُمۡ شَفَاعَةُ الشّٰفِعِيۡنَؕ‏
+arabic_ayat: فَمَا تَنفَعُهُمۡ شَفَٰعَةُ ٱلشَّٰفِعِينَ
 sentence_translation: So the pleas of intercessors will be of no benefit to them.
 word_by_word:
   1:
@@ -7,15 +7,15 @@ word_by_word:
     translation: Then not
     transliteration: famā
   2:
-    arabic: تَنۡفَعُهُمۡ
+    arabic: تَنفَعُهُمۡ
     translation: will benefit them
     transliteration: tanfaʿuhum
   3:
-    arabic: شَفَاعَةُ
+    arabic: شَفَٰعَةُ
     translation: intercession
     transliteration: shafāʿatu
   4:
-    arabic: الشّٰفِعِيۡنَؕ‏
+    arabic: ٱلشَّٰفِعِينَ
     translation: (of) the intercessors
     transliteration: l-shāfiʿīna
 ---

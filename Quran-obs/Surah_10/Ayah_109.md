@@ -1,11 +1,11 @@
 ---
-arabic_ayat: وَاتَّبِعۡ مَا يُوۡحٰۤى اِلَيۡكَ وَاصۡبِرۡ حَتّٰى يَحۡكُمَ اللّٰهُ​​
-  ۖۚ وَهُوَ خَيۡرُ الۡحٰكِمِيۡنَ‏
+arabic_ayat: وَٱتَّبِعۡ مَا يُوحَىٰٓ إِلَيۡكَ وَٱصۡبِرۡ حَتَّىٰ يَحۡكُمَ ٱللَّهُۚ
+  وَهُوَ خَيۡرُ ٱلۡحَٰكِمِينَ
 sentence_translation: And follow what is revealed to you, and be patient until Allah
   passes His judgment. For He is the Best of Judges.
 word_by_word:
   1:
-    arabic: وَاتَّبِعۡ
+    arabic: وَٱتَّبِعۡ
     translation: And follow
     transliteration: wa-ittabiʿ
   2:
@@ -13,19 +13,19 @@ word_by_word:
     translation: what
     transliteration: mā
   3:
-    arabic: يُوۡحٰۤى
+    arabic: يُوحَىٰٓ
     translation: is revealed
     transliteration: yūḥā
   4:
-    arabic: اِلَيۡكَ
+    arabic: إِلَيۡكَ
     translation: to you
     transliteration: ilayka
   5:
-    arabic: وَاصۡبِرۡ
+    arabic: وَٱصۡبِرۡ
     translation: and be patient
     transliteration: wa-iṣ'bir
   6:
-    arabic: حَتّٰى
+    arabic: حَتَّىٰ
     translation: until
     transliteration: ḥattā
   7:
@@ -33,7 +33,7 @@ word_by_word:
     translation: Allah gives judgment
     transliteration: yaḥkuma
   8:
-    arabic: اللّٰهُ​​ ۖۚ
+    arabic: ٱللَّهُۚ
     translation: Allah gives judgment
     transliteration: l-lahu
   9:
@@ -45,7 +45,7 @@ word_by_word:
     translation: (is) the Best
     transliteration: khayru
   11:
-    arabic: الۡحٰكِمِيۡنَ‏
+    arabic: ٱلۡحَٰكِمِينَ
     translation: (of) the Judges
     transliteration: l-ḥākimīna
 ---

@@ -1,9 +1,9 @@
 ---
-arabic_ayat: "وَدَخَلَ الۡمَدِيۡنَةَ عَلٰى حِيۡنِ غَفۡلَةٍ مِّنۡ اَهۡلِهَا فَوَجَدَ\
-  \ فِيۡهَا رَجُلَيۡنِ يَقۡتَتِلٰنِ  هٰذَا مِنۡ شِيۡعَتِهٖ وَهٰذَا مِنۡ عَدُوِّهٖ​ۚ\
-  \ فَاسۡتَغَاثَهُ الَّذِىۡ مِنۡ شِيۡعَتِهٖ عَلَى الَّذِىۡ مِنۡ عَدُوِّهٖۙ فَوَكَزَهٗ\
-  \ مُوۡسٰى فَقَضٰى عَلَيۡهِ​  قَالَ هٰذَا مِنۡ عَمَلِ الشَّيۡطٰنِ​ ؕ اِنَّهٗ عَدُوٌّ\
-  \ مُّضِلٌّ مُّبِيۡنٌ‏ \uFEFF\uFEFF"
+arabic_ayat: وَدَخَلَ ٱلۡمَدِينَةَ عَلَىٰ حِينِ غَفۡلَةٖ مِّنۡ أَهۡلِهَا فَوَجَدَ
+  فِيهَا رَجُلَيۡنِ يَقۡتَتِلَانِ هَٰذَا مِن شِيعَتِهِۦ وَهَٰذَا مِنۡ عَدُوِّهِۦۖ
+  فَٱسۡتَغَٰثَهُ ٱلَّذِي مِن شِيعَتِهِۦ عَلَى ٱلَّذِي مِنۡ عَدُوِّهِۦ فَوَكَزَهُۥ
+  مُوسَىٰ فَقَضَىٰ عَلَيۡهِۖ قَالَ هَٰذَا مِنۡ عَمَلِ ٱلشَّيۡطَٰنِۖ إِنَّهُۥ عَدُوّٞ
+  مُّضِلّٞ مُّبِينٞ
 sentence_translation: '˹One day˺ he entered the city unnoticed by its people. There
   he found two men fighting: one of his own people, and the other of his enemies.
   The man from his people called to him for help against his foe. So Moses punched
@@ -15,19 +15,19 @@ word_by_word:
     translation: And he entered
     transliteration: wadakhala
   2:
-    arabic: الۡمَدِيۡنَةَ
+    arabic: ٱلۡمَدِينَةَ
     translation: the city
     transliteration: l-madīnata
   3:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: at
     transliteration: ʿalā
   4:
-    arabic: حِيۡنِ
+    arabic: حِينِ
     translation: a time
     transliteration: ḥīni
   5:
-    arabic: غَفۡلَةٍ
+    arabic: غَفۡلَةٖ
     translation: (of) inattention
     transliteration: ghaflatin
   6:
@@ -35,7 +35,7 @@ word_by_word:
     translation: of
     transliteration: min
   7:
-    arabic: اَهۡلِهَا
+    arabic: أَهۡلِهَا
     translation: its people
     transliteration: ahlihā
   8:
@@ -43,7 +43,7 @@ word_by_word:
     translation: and found
     transliteration: fawajada
   9:
-    arabic: فِيۡهَا
+    arabic: فِيهَا
     translation: therein
     transliteration: fīhā
   10:
@@ -51,23 +51,23 @@ word_by_word:
     translation: two men
     transliteration: rajulayni
   11:
-    arabic: يَقۡتَتِلٰنِ 
+    arabic: يَقۡتَتِلَانِ
     translation: fighting each other
     transliteration: yaqtatilāni
   12:
-    arabic: هٰذَا
+    arabic: هَٰذَا
     translation: this
     transliteration: hādhā
   13:
-    arabic: مِنۡ
+    arabic: مِن
     translation: of
     transliteration: min
   14:
-    arabic: شِيۡعَتِهٖ
+    arabic: شِيعَتِهِۦ
     translation: his party
     transliteration: shīʿatihi
   15:
-    arabic: وَهٰذَا
+    arabic: وَهَٰذَا
     translation: and this
     transliteration: wahādhā
   16:
@@ -75,23 +75,23 @@ word_by_word:
     translation: of
     transliteration: min
   17:
-    arabic: عَدُوِّهٖ​ۚ
+    arabic: عَدُوِّهِۦۖ
     translation: his enemy
     transliteration: ʿaduwwihi
   18:
-    arabic: فَاسۡتَغَاثَهُ
+    arabic: فَٱسۡتَغَٰثَهُ
     translation: And called him for help
     transliteration: fa-is'taghāthahu
   19:
-    arabic: الَّذِىۡ
+    arabic: ٱلَّذِي
     translation: the one who
     transliteration: alladhī
   20:
-    arabic: مِنۡ
+    arabic: مِن
     translation: (was) from
     transliteration: min
   21:
-    arabic: شِيۡعَتِهٖ
+    arabic: شِيعَتِهِۦ
     translation: his party
     transliteration: shīʿatihi
   22:
@@ -99,7 +99,7 @@ word_by_word:
     translation: against
     transliteration: ʿalā
   23:
-    arabic: الَّذِىۡ
+    arabic: ٱلَّذِي
     translation: the one who
     transliteration: alladhī
   24:
@@ -107,23 +107,23 @@ word_by_word:
     translation: (was) from
     transliteration: min
   25:
-    arabic: عَدُوِّهٖۙ
+    arabic: عَدُوِّهِۦ
     translation: his enemy
     transliteration: ʿaduwwihi
   26:
-    arabic: فَوَكَزَهٗ
+    arabic: فَوَكَزَهُۥ
     translation: so Musa struck him with his fist
     transliteration: fawakazahu
   27:
-    arabic: مُوۡسٰى
+    arabic: مُوسَىٰ
     translation: so Musa struck him with his fist
     transliteration: mūsā
   28:
-    arabic: فَقَضٰى
+    arabic: فَقَضَىٰ
     translation: and killed him
     transliteration: faqaḍā
   29:
-    arabic: عَلَيۡهِ​ 
+    arabic: عَلَيۡهِۖ
     translation: and killed him
     transliteration: ʿalayhi
   30:
@@ -131,7 +131,7 @@ word_by_word:
     translation: He said
     transliteration: qāla
   31:
-    arabic: هٰذَا
+    arabic: هَٰذَا
     translation: This (is)
     transliteration: hādhā
   32:
@@ -143,23 +143,23 @@ word_by_word:
     translation: (the) deed
     transliteration: ʿamali
   34:
-    arabic: الشَّيۡطٰنِ​ ؕ
+    arabic: ٱلشَّيۡطَٰنِۖ
     translation: (of) Shaitaan
     transliteration: l-shayṭāni
   35:
-    arabic: اِنَّهٗ
+    arabic: إِنَّهُۥ
     translation: Indeed, he
     transliteration: innahu
   36:
-    arabic: عَدُوٌّ
+    arabic: عَدُوّٞ
     translation: '(is) an enemy '
     transliteration: ʿaduwwun
   37:
-    arabic: مُّضِلٌّ
+    arabic: مُّضِلّٞ
     translation: one who misleads
     transliteration: muḍillun
   38:
-    arabic: "مُّبِيۡنٌ‏ \uFEFF\uFEFF"
+    arabic: مُّبِينٞ
     translation: clearly
     transliteration: mubīnun
 ---

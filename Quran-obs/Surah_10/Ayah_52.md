@@ -1,6 +1,6 @@
 ---
-arabic_ayat: ثُمَّ قِيۡلَ لِلَّذِيۡنَ ظَلَمُوۡا ذُوۡقُوۡا عَذَابَ الۡخُـلۡدِ​ۚ هَلۡ
-  تُجۡزَوۡنَ اِلَّا بِمَا كُنۡتُمۡ تَكۡسِبُوۡنَ‏
+arabic_ayat: ثُمَّ قِيلَ لِلَّذِينَ ظَلَمُواْ ذُوقُواْ عَذَابَ ٱلۡخُلۡدِ هَلۡ تُجۡزَوۡنَ
+  إِلَّا بِمَا كُنتُمۡ تَكۡسِبُونَ
 sentence_translation: Then the wrongdoers will be told, “Taste the torment of eternity!
   Are you not rewarded except for what you used to commit?”
 word_by_word:
@@ -9,19 +9,19 @@ word_by_word:
     translation: Then
     transliteration: thumma
   2:
-    arabic: قِيۡلَ
+    arabic: قِيلَ
     translation: it will be said
     transliteration: qīla
   3:
-    arabic: لِلَّذِيۡنَ
+    arabic: لِلَّذِينَ
     translation: to those who
     transliteration: lilladhīna
   4:
-    arabic: ظَلَمُوۡا
+    arabic: ظَلَمُواْ
     translation: wronged
     transliteration: ẓalamū
   5:
-    arabic: ذُوۡقُوۡا
+    arabic: ذُوقُواْ
     translation: Taste
     transliteration: dhūqū
   6:
@@ -29,7 +29,7 @@ word_by_word:
     translation: punishment
     transliteration: ʿadhāba
   7:
-    arabic: الۡخُـلۡدِ​ۚ
+    arabic: ٱلۡخُلۡدِ
     translation: the everlasting
     transliteration: l-khul'di
   8:
@@ -41,7 +41,7 @@ word_by_word:
     translation: Are you (being) recompensed
     transliteration: tuj'zawna
   10:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   11:
@@ -49,11 +49,11 @@ word_by_word:
     translation: for what
     transliteration: bimā
   12:
-    arabic: كُنۡتُمۡ
+    arabic: كُنتُمۡ
     translation: you used (to)
     transliteration: kuntum
   13:
-    arabic: تَكۡسِبُوۡنَ‏
+    arabic: تَكۡسِبُونَ
     translation: earn
     transliteration: taksibūna
 ---

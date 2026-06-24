@@ -1,29 +1,29 @@
 ---
-arabic_ayat: قَالُوۡا يٰشُعَيۡبُ اَصَلٰوتُكَ تَاۡمُرُكَ اَنۡ نَّتۡرُكَ مَا يَعۡبُدُ
-  اٰبَآؤُنَاۤ اَوۡ اَنۡ نَّـفۡعَلَ فِىۡۤ اَمۡوَالِنَا مَا نَشٰٓؤُا​ ؕ اِنَّكَ لَاَنۡتَ
-  الۡحَـلِيۡمُ الرَّشِيۡدُ‏
+arabic_ayat: قَالُواْ يَٰشُعَيۡبُ أَصَلَوٰتُكَ تَأۡمُرُكَ أَن نَّتۡرُكَ مَا يَعۡبُدُ
+  ءَابَآؤُنَآ أَوۡ أَن نَّفۡعَلَ فِيٓ أَمۡوَٰلِنَا مَا نَشَٰٓؤُاْۖ إِنَّكَ لَأَنتَ
+  ٱلۡحَلِيمُ ٱلرَّشِيدُ
 sentence_translation: They asked ˹sarcastically˺, “O Shu’aib! Does your prayer command
   you that we should abandon what our forefathers worshipped or give up managing our
   wealth as we please? Indeed, you are such a tolerant, sensible man!”
 word_by_word:
   1:
-    arabic: قَالُوۡا
+    arabic: قَالُواْ
     translation: They said
     transliteration: qālū
   2:
-    arabic: يٰشُعَيۡبُ
+    arabic: يَٰشُعَيۡبُ
     translation: O Shuaib
     transliteration: yāshuʿaybu
   3:
-    arabic: اَصَلٰوتُكَ
+    arabic: أَصَلَوٰتُكَ
     translation: Does your prayer
     transliteration: aṣalatuka
   4:
-    arabic: تَاۡمُرُكَ
+    arabic: تَأۡمُرُكَ
     translation: command you
     transliteration: tamuruka
   5:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that
     transliteration: an
   6:
@@ -35,31 +35,31 @@ word_by_word:
     translation: what
     transliteration: mā
   8:
-    arabic: يَعۡبُدُ
+    arabic: يَعۡبُدُ ءَ
     translation: worship
     transliteration: yaʿbudu
   9:
-    arabic: اٰبَآؤُنَاۤ
+    arabic: ابَآؤُنَآ
     translation: our forefathers
     transliteration: ābāunā
   10:
-    arabic: اَوۡ
+    arabic: أَوۡ
     translation: or
     transliteration: aw
   11:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that
     transliteration: an
   12:
-    arabic: نَّـفۡعَلَ
+    arabic: نَّفۡعَلَ
     translation: we do
     transliteration: nafʿala
   13:
-    arabic: فِىۡۤ
+    arabic: فِيٓ
     translation: concerning
     transliteration: fī
   14:
-    arabic: اَمۡوَالِنَا
+    arabic: أَمۡوَٰلِنَا
     translation: our wealth
     transliteration: amwālinā
   15:
@@ -67,23 +67,23 @@ word_by_word:
     translation: what
     transliteration: mā
   16:
-    arabic: نَشٰٓؤُا​ ؕ
+    arabic: نَشَٰٓؤُاْۖ
     translation: we will
     transliteration: nashāu
   17:
-    arabic: اِنَّكَ
+    arabic: إِنَّكَ
     translation: Indeed you
     transliteration: innaka
   18:
-    arabic: لَاَنۡتَ
+    arabic: لَأَنتَ
     translation: surely you
     transliteration: la-anta
   19:
-    arabic: الۡحَـلِيۡمُ
+    arabic: ٱلۡحَلِيمُ
     translation: (are) the forbearing
     transliteration: l-ḥalīmu
   20:
-    arabic: الرَّشِيۡدُ‏
+    arabic: ٱلرَّشِيدُ
     translation: the right-minded
     transliteration: l-rashīdu
 ---

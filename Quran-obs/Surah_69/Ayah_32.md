@@ -1,5 +1,5 @@
 ---
-arabic_ayat: ثُمَّ فِىۡ سِلۡسِلَةٍ ذَرۡعُهَا سَبۡعُوۡنَ ذِرَاعًا فَاسۡلُكُوۡهُ ؕ‏
+arabic_ayat: ثُمَّ فِي سِلۡسِلَةٖ ذَرۡعُهَا سَبۡعُونَ ذِرَاعٗا فَٱسۡلُكُوهُ
 sentence_translation: then tie them up with chains seventy arms long.
 word_by_word:
   1:
@@ -7,11 +7,11 @@ word_by_word:
     translation: Then
     transliteration: thumma
   2:
-    arabic: فِىۡ
+    arabic: فِي
     translation: into
     transliteration: fī
   3:
-    arabic: سِلۡسِلَةٍ
+    arabic: سِلۡسِلَةٖ
     translation: a chain
     transliteration: sil'silatin
   4:
@@ -19,15 +19,15 @@ word_by_word:
     translation: its length
     transliteration: dharʿuhā
   5:
-    arabic: سَبۡعُوۡنَ
+    arabic: سَبۡعُونَ
     translation: (is) seventy
     transliteration: sabʿūna
   6:
-    arabic: ذِرَاعًا
+    arabic: ذِرَاعٗا
     translation: cubits
     transliteration: dhirāʿan
   7:
-    arabic: فَاسۡلُكُوۡهُ ؕ‏
+    arabic: فَٱسۡلُكُوهُ
     translation: insert him
     transliteration: fa-us'lukūhu
 ---

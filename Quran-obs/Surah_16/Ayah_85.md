@@ -1,27 +1,27 @@
 ---
-arabic_ayat: وَاِذَا رَاَ الَّذِيۡنَ ظَلَمُوا الۡعَذَابَ فَلَا يُخَفَّفُ عَنۡهُمۡ
-  وَلَا هُمۡ يُنۡظَرُوۡنَ‏
+arabic_ayat: وَإِذَا رَءَا ٱلَّذِينَ ظَلَمُواْ ٱلۡعَذَابَ فَلَا يُخَفَّفُ عَنۡهُمۡ
+  وَلَا هُمۡ يُنظَرُونَ
 sentence_translation: And when the wrongdoers face the punishment, it will not be
   lightened for them, nor will they be delayed ˹from it˺.
 word_by_word:
   1:
-    arabic: وَاِذَا
+    arabic: وَإِذَا
     translation: And when
     transliteration: wa-idhā
   2:
-    arabic: رَاَ
+    arabic: رَءَا
     translation: (will) see
     transliteration: raā
   3:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   4:
-    arabic: ظَلَمُوا
+    arabic: ظَلَمُواْ
     translation: wronged
     transliteration: ẓalamū
   5:
-    arabic: الۡعَذَابَ
+    arabic: ٱلۡعَذَابَ
     translation: the punishment
     transliteration: l-ʿadhāba
   6:
@@ -45,7 +45,7 @@ word_by_word:
     translation: they
     transliteration: hum
   11:
-    arabic: يُنۡظَرُوۡنَ‏
+    arabic: يُنظَرُونَ
     translation: will be given respite
     transliteration: yunẓarūna
 ---

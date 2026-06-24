@@ -1,15 +1,15 @@
 ---
-arabic_ayat: اُولٰۤٮِٕكَ لَهُمۡ جَنّٰتُ عَدۡنٍ تَجۡرِىۡ مِنۡ تَحۡتِهِمُ الۡاَنۡهٰرُ
-  يُحَلَّوۡنَ فِيۡهَا مِنۡ اَسَاوِرَ مِنۡ ذَهَبٍ وَّ يَلۡبَسُوۡنَ ثِيَابًا خُضۡرًا
-  مِّنۡ سُنۡدُسٍ وَّاِسۡتَبۡرَقٍ مُّتَّكِــِٕيۡنَ فِيۡهَا عَلَى الۡاَرَآٮِٕكِ​ؕ نِعۡمَ
-  الثَّوَابُ ؕ وَحَسُنَتۡ مُرۡتَفَقًا‏
+arabic_ayat: أُوْلَٰٓئِكَ لَهُمۡ جَنَّٰتُ عَدۡنٖ تَجۡرِي مِن تَحۡتِهِمُ ٱلۡأَنۡهَٰرُ
+  يُحَلَّوۡنَ فِيهَا مِنۡ أَسَاوِرَ مِن ذَهَبٖ وَيَلۡبَسُونَ ثِيَابًا خُضۡرٗا مِّن
+  سُندُسٖ وَإِسۡتَبۡرَقٖ مُّتَّكِـِٔينَ فِيهَا عَلَى ٱلۡأَرَآئِكِۚ نِعۡمَ ٱلثَّوَابُ
+  وَحَسُنَتۡ مُرۡتَفَقٗا
 sentence_translation: It is they who will have the Gardens of Eternity, with rivers
   flowing under their feet. There they will be adorned with bracelets of gold, and
   wear green garments of fine silk and rich brocade, reclining there on ˹canopied˺
   couches. What a marvellous reward! And what a fabulous place to rest!
 word_by_word:
   1:
-    arabic: اُولٰۤٮِٕكَ
+    arabic: أُوْلَٰٓئِكَ
     translation: Those
     transliteration: ulāika
   2:
@@ -17,19 +17,19 @@ word_by_word:
     translation: for them
     transliteration: lahum
   3:
-    arabic: جَنّٰتُ
+    arabic: جَنَّٰتُ
     translation: (are) Gardens
     transliteration: jannātu
   4:
-    arabic: عَدۡنٍ
+    arabic: عَدۡنٖ
     translation: of Eden
     transliteration: ʿadnin
   5:
-    arabic: تَجۡرِىۡ
+    arabic: تَجۡرِي
     translation: flows
     transliteration: tajrī
   6:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   7:
@@ -37,7 +37,7 @@ word_by_word:
     translation: underneath them
     transliteration: taḥtihimu
   8:
-    arabic: الۡاَنۡهٰرُ
+    arabic: ٱلۡأَنۡهَٰرُ
     translation: the rivers
     transliteration: l-anhāru
   9:
@@ -45,7 +45,7 @@ word_by_word:
     translation: They will be adorned
     transliteration: yuḥallawna
   10:
-    arabic: فِيۡهَا
+    arabic: فِيهَا
     translation: therein
     transliteration: fīhā
   11:
@@ -53,19 +53,19 @@ word_by_word:
     translation: '[of] (with)'
     transliteration: min
   12:
-    arabic: اَسَاوِرَ
+    arabic: أَسَاوِرَ
     translation: bracelets
     transliteration: asāwira
   13:
-    arabic: مِنۡ
+    arabic: مِن
     translation: of
     transliteration: min
   14:
-    arabic: ذَهَبٍ
+    arabic: ذَهَبٖ
     translation: gold
     transliteration: dhahabin
   15:
-    arabic: وَّ يَلۡبَسُوۡنَ
+    arabic: وَيَلۡبَسُونَ
     translation: and will wear
     transliteration: wayalbasūna
   16:
@@ -73,27 +73,27 @@ word_by_word:
     translation: garments
     transliteration: thiyāban
   17:
-    arabic: خُضۡرًا
+    arabic: خُضۡرٗا
     translation: green
     transliteration: khuḍ'ran
   18:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: of
     transliteration: min
   19:
-    arabic: سُنۡدُسٍ
+    arabic: سُندُسٖ
     translation: fine silk
     transliteration: sundusin
   20:
-    arabic: وَّاِسۡتَبۡرَقٍ
+    arabic: وَإِسۡتَبۡرَقٖ
     translation: and heavy brocade
     transliteration: wa-is'tabraqin
   21:
-    arabic: مُّتَّكِــِٕيۡنَ
+    arabic: مُّتَّكِـِٔينَ
     translation: reclining
     transliteration: muttakiīna
   22:
-    arabic: فِيۡهَا
+    arabic: فِيهَا
     translation: therein
     transliteration: fīhā
   23:
@@ -101,7 +101,7 @@ word_by_word:
     translation: 'on'
     transliteration: ʿalā
   24:
-    arabic: الۡاَرَآٮِٕكِ​ؕ
+    arabic: ٱلۡأَرَآئِكِۚ
     translation: adorned couches
     transliteration: l-arāiki
   25:
@@ -109,7 +109,7 @@ word_by_word:
     translation: Excellent
     transliteration: niʿ'ma
   26:
-    arabic: الثَّوَابُ ؕ
+    arabic: ٱلثَّوَابُ
     translation: (is) the reward
     transliteration: l-thawābu
   27:
@@ -117,7 +117,7 @@ word_by_word:
     translation: and good
     transliteration: waḥasunat
   28:
-    arabic: مُرۡتَفَقًا‏
+    arabic: مُرۡتَفَقٗا
     translation: (is) the resting place
     transliteration: mur'tafaqan
 ---

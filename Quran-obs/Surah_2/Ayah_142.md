@@ -1,17 +1,17 @@
 ---
-arabic_ayat: سَيَقُوۡلُ السُّفَهَآءُ مِنَ النَّاسِ مَا وَلّٰٮهُمۡ عَنۡ قِبۡلَتِهِمُ
-  الَّتِىۡ كَانُوۡا عَلَيۡهَا ​ؕ قُل لِّلّٰهِ الۡمَشۡرِقُ وَالۡمَغۡرِبُ ؕ يَهۡدِىۡ
-  مَنۡ يَّشَآءُ اِلٰى صِراطٍ مُّسۡتَقِيۡمٍ‏
+arabic_ayat: ۞ سَيَقُولُ ٱلسُّفَهَآءُ مِنَ ٱلنَّاسِ مَا وَلَّىٰهُمۡ عَن قِبۡلَتِهِمُ
+  ٱلَّتِي كَانُواْ عَلَيۡهَاۚ قُل لِّلَّهِ ٱلۡمَشۡرِقُ وَٱلۡمَغۡرِبُۚ يَهۡدِي مَن
+  يَشَآءُ إِلَىٰ صِرَٰطٖ مُّسۡتَقِيمٖ
 sentence_translation: The foolish among the people will ask, “Why did they turn away
   from the direction of prayer they used to face?” Say, ˹O Prophet,˺ “The east and
   west belong ˹only˺ to Allah. He guides whoever He wills to the Straight Path.”
 word_by_word:
   1:
-    arabic: ۞ سَيَقُوۡلُ
+    arabic: ۞ سَيَقُولُ
     translation: Will say
     transliteration: sayaqūlu
   2:
-    arabic: السُّفَهَآءُ
+    arabic: ٱلسُّفَهَآءُ
     translation: the foolish ones
     transliteration: l-sufahāu
   3:
@@ -19,7 +19,7 @@ word_by_word:
     translation: from
     transliteration: mina
   4:
-    arabic: النَّاسِ
+    arabic: ٱلنَّاسِ
     translation: the people
     transliteration: l-nāsi
   5:
@@ -27,11 +27,11 @@ word_by_word:
     translation: What
     transliteration: mā
   6:
-    arabic: وَلّٰٮهُمۡ
+    arabic: وَلَّىٰهُمۡ
     translation: (has) turned them
     transliteration: wallāhum
   7:
-    arabic: عَنۡ
+    arabic: عَن
     translation: from
     transliteration: ʿan
   8:
@@ -39,15 +39,15 @@ word_by_word:
     translation: their direction of prayer
     transliteration: qib'latihimu
   9:
-    arabic: الَّتِىۡ
+    arabic: ٱلَّتِي
     translation: which
     transliteration: allatī
   10:
-    arabic: كَانُوۡا
+    arabic: كَانُواْ
     translation: they were used to
     transliteration: kānū
   11:
-    arabic: عَلَيۡهَا ​ؕ
+    arabic: عَلَيۡهَاۚ
     translation: '[on it]'
     transliteration: ʿalayhā
   12:
@@ -55,39 +55,39 @@ word_by_word:
     translation: Say
     transliteration: qul
   13:
-    arabic: لِّلّٰهِ
+    arabic: لِّلَّهِ
     translation: For Allah
     transliteration: lillahi
   14:
-    arabic: الۡمَشۡرِقُ
+    arabic: ٱلۡمَشۡرِقُ
     translation: (is) the east
     transliteration: l-mashriqu
   15:
-    arabic: وَالۡمَغۡرِبُ ؕ
+    arabic: وَٱلۡمَغۡرِبُۚ
     translation: and the west
     transliteration: wal-maghribu
   16:
-    arabic: يَهۡدِىۡ
+    arabic: يَهۡدِي
     translation: He guides
     transliteration: yahdī
   17:
-    arabic: مَنۡ
+    arabic: مَن
     translation: whom
     transliteration: man
   18:
-    arabic: يَّشَآءُ
+    arabic: يَشَآءُ
     translation: He wills
     transliteration: yashāu
   19:
-    arabic: اِلٰى
+    arabic: إِلَىٰ
     translation: to
     transliteration: ilā
   20:
-    arabic: صِراطٍ
+    arabic: صِرَٰطٖ
     translation: a path
     transliteration: ṣirāṭin
   21:
-    arabic: مُّسۡتَقِيۡمٍ‏
+    arabic: مُّسۡتَقِيمٖ
     translation: straight
     transliteration: mus'taqīmin
 ---

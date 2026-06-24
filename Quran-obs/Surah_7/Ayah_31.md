@@ -1,27 +1,27 @@
 ---
-arabic_ayat: يٰبَنِىۡۤ اٰدَمَ خُذُوۡا زِيۡنَتَكُمۡ عِنۡدَ كُلِّ مَسۡجِدٍ وَّكُلُوۡا
-  وَاشۡرَبُوۡا وَلَا تُسۡرِفُوۡا​ ۚ اِنَّهٗ لَا يُحِبُّ الۡمُسۡرِفِيۡنَ‏
+arabic_ayat: ۞ يَٰبَنِيٓ ءَادَمَ خُذُواْ زِينَتَكُمۡ عِندَ كُلِّ مَسۡجِدٖ وَكُلُواْ
+  وَٱشۡرَبُواْ وَلَا تُسۡرِفُوٓاْۚ إِنَّهُۥ لَا يُحِبُّ ٱلۡمُسۡرِفِينَ
 sentence_translation: O Children of Adam! Dress properly whenever you are at worship.
   Eat and drink, but do not waste. Surely He does not like the wasteful.
 word_by_word:
   1:
-    arabic: ۞ يٰبَنِىۡۤ
+    arabic: ۞ يَٰبَنِيٓ ءَ
     translation: O Children
     transliteration: yābanī
   2:
-    arabic: اٰدَمَ
+    arabic: ادَمَ
     translation: (of) Adam
     transliteration: ādama
   3:
-    arabic: خُذُوۡا
+    arabic: خُذُواْ
     translation: Take
     transliteration: khudhū
   4:
-    arabic: زِيۡنَتَكُمۡ
+    arabic: زِينَتَكُمۡ
     translation: your adornment
     transliteration: zīnatakum
   5:
-    arabic: عِنۡدَ
+    arabic: عِندَ
     translation: at
     transliteration: ʿinda
   6:
@@ -29,15 +29,15 @@ word_by_word:
     translation: every
     transliteration: kulli
   7:
-    arabic: مَسۡجِدٍ
+    arabic: مَسۡجِدٖ
     translation: masjid
     transliteration: masjidin
   8:
-    arabic: وَّكُلُوۡا
+    arabic: وَكُلُواْ
     translation: and eat
     transliteration: wakulū
   9:
-    arabic: وَاشۡرَبُوۡا
+    arabic: وَٱشۡرَبُواْ
     translation: and drink
     transliteration: wa-ish'rabū
   10:
@@ -45,11 +45,11 @@ word_by_word:
     translation: but (do) not
     transliteration: walā
   11:
-    arabic: تُسۡرِفُوۡا​ ۚ
+    arabic: تُسۡرِفُوٓاْۚ
     translation: be extravagant
     transliteration: tus'rifū
   12:
-    arabic: اِنَّهٗ
+    arabic: إِنَّهُۥ
     translation: Indeed, He
     transliteration: innahu
   13:
@@ -61,7 +61,7 @@ word_by_word:
     translation: love
     transliteration: yuḥibbu
   15:
-    arabic: الۡمُسۡرِفِيۡنَ‏
+    arabic: ٱلۡمُسۡرِفِينَ
     translation: the extravagant ones
     transliteration: l-mus'rifīna
 ---

@@ -1,23 +1,22 @@
 ---
-arabic_ayat: "اَوَمَنۡ يُّنَشَّؤُا فِى الۡحِلۡيَةِ وَهُوَ فِى الۡخِصَامِ غَيۡرُ مُبِيۡنٍ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: أَوَمَن يُنَشَّؤُاْ فِي ٱلۡحِلۡيَةِ وَهُوَ فِي ٱلۡخِصَامِ غَيۡرُ مُبِينٖ
 sentence_translation: ˹Do they attribute to Him˺ those who are brought up in fineries
   and are not commanding in disputes?
 word_by_word:
   1:
-    arabic: اَوَمَنۡ
+    arabic: أَوَمَن
     translation: Then (is one) who
     transliteration: awaman
   2:
-    arabic: يُّنَشَّؤُا
+    arabic: يُنَشَّؤُاْ
     translation: is brought up
     transliteration: yunasha-u
   3:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   4:
-    arabic: الۡحِلۡيَةِ
+    arabic: ٱلۡحِلۡيَةِ
     translation: ornaments
     transliteration: l-ḥil'yati
   5:
@@ -25,11 +24,11 @@ word_by_word:
     translation: and he
     transliteration: wahuwa
   6:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   7:
-    arabic: الۡخِصَامِ
+    arabic: ٱلۡخِصَامِ
     translation: the dispute
     transliteration: l-khiṣāmi
   8:
@@ -37,7 +36,7 @@ word_by_word:
     translation: (is) not
     transliteration: ghayru
   9:
-    arabic: "مُبِيۡنٍ‏ \uFEFF\uFEFF"
+    arabic: مُبِينٖ
     translation: clear
     transliteration: mubīnin
 ---

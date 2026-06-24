@@ -1,23 +1,23 @@
 ---
-arabic_ayat: وَالَّذِيۡنَ تَدۡعُوۡنَ مِنۡ دُوۡنِهٖ لَا يَسۡتَطِيۡعُوۡنَ نَـصۡرَكُمۡ
-  وَلَاۤ اَنۡفُسَهُمۡ يَنۡصُرُوۡنَ‏
+arabic_ayat: وَٱلَّذِينَ تَدۡعُونَ مِن دُونِهِۦ لَا يَسۡتَطِيعُونَ نَصۡرَكُمۡ وَلَآ
+  أَنفُسَهُمۡ يَنصُرُونَ
 sentence_translation: But those ˹false gods˺ you call besides Him can neither help
   you nor even themselves.”
 word_by_word:
   1:
-    arabic: وَالَّذِيۡنَ
+    arabic: وَٱلَّذِينَ
     translation: And those whom
     transliteration: wa-alladhīna
   2:
-    arabic: تَدۡعُوۡنَ
+    arabic: تَدۡعُونَ
     translation: you invoke
     transliteration: tadʿūna
   3:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   4:
-    arabic: دُوۡنِهٖ
+    arabic: دُونِهِۦ
     translation: besides Him
     transliteration: dūnihi
   5:
@@ -25,23 +25,23 @@ word_by_word:
     translation: not
     transliteration: lā
   6:
-    arabic: يَسۡتَطِيۡعُوۡنَ
+    arabic: يَسۡتَطِيعُونَ
     translation: they are able
     transliteration: yastaṭīʿūna
   7:
-    arabic: نَـصۡرَكُمۡ
+    arabic: نَصۡرَكُمۡ
     translation: (to) help you
     transliteration: naṣrakum
   8:
-    arabic: وَلَاۤ
+    arabic: وَلَآ
     translation: and not
     transliteration: walā
   9:
-    arabic: اَنۡفُسَهُمۡ
+    arabic: أَنفُسَهُمۡ
     translation: themselves
     transliteration: anfusahum
   10:
-    arabic: يَنۡصُرُوۡنَ‏
+    arabic: يَنصُرُونَ
     translation: can they help
     transliteration: yanṣurūna
 ---

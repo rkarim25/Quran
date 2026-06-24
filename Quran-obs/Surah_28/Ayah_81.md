@@ -1,6 +1,6 @@
 ---
-arabic_ayat: فَخَسَفۡنَا بِهٖ وَبِدَارِهِ الۡاَرۡضَ فَمَا كَانَ لَهٗ مِنۡ فِئَةٍ
-  يَّـنۡصُرُوۡنَهٗ مِنۡ دُوۡنِ اللّٰهِ وَمَا كَانَ مِنَ الۡمُنۡتَصِرِيۡنَ‏
+arabic_ayat: فَخَسَفۡنَا بِهِۦ وَبِدَارِهِ ٱلۡأَرۡضَ فَمَا كَانَ لَهُۥ مِن فِئَةٖ
+  يَنصُرُونَهُۥ مِن دُونِ ٱللَّهِ وَمَا كَانَ مِنَ ٱلۡمُنتَصِرِينَ
 sentence_translation: Then We caused the earth to swallow him up, along with his home.
   There was no one to help him against Allah, nor could he even help himself.
 word_by_word:
@@ -9,7 +9,7 @@ word_by_word:
     translation: Then We caused to swallow up
     transliteration: fakhasafnā
   2:
-    arabic: بِهٖ
+    arabic: بِهِۦ
     translation: him
     transliteration: bihi
   3:
@@ -17,7 +17,7 @@ word_by_word:
     translation: and his home
     transliteration: wabidārihi
   4:
-    arabic: الۡاَرۡضَ
+    arabic: ٱلۡأَرۡضَ
     translation: the earth
     transliteration: l-arḍa
   5:
@@ -29,31 +29,31 @@ word_by_word:
     translation: was
     transliteration: kāna
   7:
-    arabic: لَهٗ
+    arabic: لَهُۥ
     translation: for him
     transliteration: lahu
   8:
-    arabic: مِنۡ
+    arabic: مِن
     translation: any
     transliteration: min
   9:
-    arabic: فِئَةٍ
+    arabic: فِئَةٖ
     translation: group
     transliteration: fi-atin
   10:
-    arabic: يَّـنۡصُرُوۡنَهٗ
+    arabic: يَنصُرُونَهُۥ
     translation: (to) help him
     transliteration: yanṣurūnahu
   11:
-    arabic: مِنۡ
+    arabic: مِن
     translation: besides
     transliteration: min
   12:
-    arabic: دُوۡنِ
+    arabic: دُونِ
     translation: besides
     transliteration: dūni
   13:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   14:
@@ -69,7 +69,7 @@ word_by_word:
     translation: (he) of
     transliteration: mina
   17:
-    arabic: الۡمُنۡتَصِرِيۡنَ‏
+    arabic: ٱلۡمُنتَصِرِينَ
     translation: those who (could) defend themselves
     transliteration: l-muntaṣirīna
 ---

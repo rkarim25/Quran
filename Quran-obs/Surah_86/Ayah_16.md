@@ -1,13 +1,13 @@
 ---
-arabic_ayat: وَّاَكِيۡدُ كَيۡدًا ۚۖ‏
+arabic_ayat: وَأَكِيدُ كَيۡدٗا
 sentence_translation: but I too am planning.
 word_by_word:
   1:
-    arabic: وَّاَكِيۡدُ
+    arabic: وَأَكِيدُ
     translation: But I am planning
     transliteration: wa-akīdu
   2:
-    arabic: كَيۡدًا ۚۖ‏
+    arabic: كَيۡدٗا
     translation: a plan
     transliteration: kaydan
 ---

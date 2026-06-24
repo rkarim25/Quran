@@ -1,47 +1,47 @@
 ---
-arabic_ayat: يٰۤاَيُّهَا الَّذِيۡنَ اٰمَنُوۡۤا اِذَا لَقِيۡتُمۡ فِئَةً فَاثۡبُتُوۡا
-  وَاذۡكُرُوا اللّٰهَ كَثِيۡرًا لَّعَلَّكُمۡ تُفۡلِحُوۡنَ​ۚ‏
+arabic_ayat: يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓاْ إِذَا لَقِيتُمۡ فِئَةٗ فَٱثۡبُتُواْ
+  وَٱذۡكُرُواْ ٱللَّهَ كَثِيرٗا لَّعَلَّكُمۡ تُفۡلِحُونَ
 sentence_translation: O believers! When you face an enemy, stand firm and remember
   Allah often so you may triumph.
 word_by_word:
   1:
-    arabic: يٰۤاَيُّهَا
+    arabic: يَٰٓأَيُّهَا
     translation: O you
     transliteration: yāayyuhā
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ ءَ
     translation: who
     transliteration: alladhīna
   3:
-    arabic: اٰمَنُوۡۤا
+    arabic: امَنُوٓاْ
     translation: believe
     transliteration: āmanū
   4:
-    arabic: اِذَا
+    arabic: إِذَا
     translation: When
     transliteration: idhā
   5:
-    arabic: لَقِيۡتُمۡ
+    arabic: لَقِيتُمۡ
     translation: you meet
     transliteration: laqītum
   6:
-    arabic: فِئَةً
+    arabic: فِئَةٗ
     translation: a force
     transliteration: fi-atan
   7:
-    arabic: فَاثۡبُتُوۡا
+    arabic: فَٱثۡبُتُواْ
     translation: then be firm
     transliteration: fa-uth'butū
   8:
-    arabic: وَاذۡكُرُوا
+    arabic: وَٱذۡكُرُواْ
     translation: and remember
     transliteration: wa-udh'kurū
   9:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   10:
-    arabic: كَثِيۡرًا
+    arabic: كَثِيرٗا
     translation: much
     transliteration: kathīran
   11:
@@ -49,7 +49,7 @@ word_by_word:
     translation: so that you may
     transliteration: laʿallakum
   12:
-    arabic: تُفۡلِحُوۡنَ​ۚ‏
+    arabic: تُفۡلِحُونَ
     translation: (be) successful
     transliteration: tuf'liḥūna
 ---

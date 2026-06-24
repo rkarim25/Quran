@@ -1,18 +1,18 @@
 ---
-arabic_ayat: اَوۡ يَاۡخُذَهُمۡ فِىۡ تَقَلُّبِهِمۡ فَمَا هُمۡ بِمُعۡجِزِيۡنَۙ‏
+arabic_ayat: أَوۡ يَأۡخُذَهُمۡ فِي تَقَلُّبِهِمۡ فَمَا هُم بِمُعۡجِزِينَ
 sentence_translation: Or that He will not seize them while they go about ˹their day˺,
   for then they will have no escape?
 word_by_word:
   1:
-    arabic: اَوۡ
+    arabic: أَوۡ
     translation: Or
     transliteration: aw
   2:
-    arabic: يَاۡخُذَهُمۡ
+    arabic: يَأۡخُذَهُمۡ
     translation: that He may seize them
     transliteration: yakhudhahum
   3:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   4:
@@ -24,11 +24,11 @@ word_by_word:
     translation: then not
     transliteration: famā
   6:
-    arabic: هُمۡ
+    arabic: هُم
     translation: they
     transliteration: hum
   7:
-    arabic: بِمُعۡجِزِيۡنَۙ‏
+    arabic: بِمُعۡجِزِينَ
     translation: will be able to escape
     transliteration: bimuʿ'jizīna
 ---

@@ -1,47 +1,47 @@
 ---
-arabic_ayat: اِنَّ هٰذَاۤ اَخِىۡ لَهٗ تِسۡعٌ وَّتِسۡعُوۡنَ نَعۡجَةً وَّلِىَ نَعۡجَةٌ
-  وَّاحِدَةٌ فَقَالَ اَكۡفِلۡنِيۡهَا وَعَزَّنِىۡ فِى الۡخِطَابِ‏
+arabic_ayat: إِنَّ هَٰذَآ أَخِي لَهُۥ تِسۡعٞ وَتِسۡعُونَ نَعۡجَةٗ وَلِيَ نَعۡجَةٞ
+  وَٰحِدَةٞ فَقَالَ أَكۡفِلۡنِيهَا وَعَزَّنِي فِي ٱلۡخِطَابِ
 sentence_translation: This is my brother. He has ninety-nine sheep while I have ˹only˺
   one. ˹Still˺ he asked me to give it up to him, overwhelming me with ˹his˺ argument.”
 word_by_word:
   1:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   2:
-    arabic: هٰذَاۤ
+    arabic: هَٰذَآ
     translation: this
     transliteration: hādhā
   3:
-    arabic: اَخِىۡ
+    arabic: أَخِي
     translation: (is) my brother
     transliteration: akhī
   4:
-    arabic: لَهٗ
+    arabic: لَهُۥ
     translation: he has
     transliteration: lahu
   5:
-    arabic: تِسۡعٌ
+    arabic: تِسۡعٞ
     translation: ninety-nine
     transliteration: tis'ʿun
   6:
-    arabic: وَّتِسۡعُوۡنَ
+    arabic: وَتِسۡعُونَ
     translation: ninety-nine
     transliteration: watis'ʿūna
   7:
-    arabic: نَعۡجَةً
+    arabic: نَعۡجَةٗ
     translation: ewe(s)
     transliteration: naʿjatan
   8:
-    arabic: وَّلِىَ
+    arabic: وَلِيَ
     translation: while I have
     transliteration: waliya
   9:
-    arabic: نَعۡجَةٌ
+    arabic: نَعۡجَةٞ
     translation: ewe
     transliteration: naʿjatun
   10:
-    arabic: وَّاحِدَةٌ
+    arabic: وَٰحِدَةٞ
     translation: one
     transliteration: wāḥidatun
   11:
@@ -49,19 +49,19 @@ word_by_word:
     translation: so he said
     transliteration: faqāla
   12:
-    arabic: اَكۡفِلۡنِيۡهَا
+    arabic: أَكۡفِلۡنِيهَا
     translation: Entrust her to me
     transliteration: akfil'nīhā
   13:
-    arabic: وَعَزَّنِىۡ
+    arabic: وَعَزَّنِي
     translation: and he overpowered me
     transliteration: waʿazzanī
   14:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   15:
-    arabic: الۡخِطَابِ‏
+    arabic: ٱلۡخِطَابِ
     translation: '[the] speech'
     transliteration: l-khiṭābi
 ---

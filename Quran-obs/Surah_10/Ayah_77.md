@@ -1,6 +1,6 @@
 ---
-arabic_ayat: قَالَ مُوۡسٰٓى اَتَقُوۡلُوۡنَ لِلۡحَقِّ لَمَّا جَآءَكُمۡ​ ؕ اَسِحۡرٌ
-  هٰذَا ؕ وَلَا يُفۡلِحُ السَّاحِرُوۡنَ‏
+arabic_ayat: قَالَ مُوسَىٰٓ أَتَقُولُونَ لِلۡحَقِّ لَمَّا جَآءَكُمۡۖ أَسِحۡرٌ هَٰذَا
+  وَلَا يُفۡلِحُ ٱلسَّٰحِرُونَ
 sentence_translation: Moses responded, “Is this what you say about the truth when
   it has come to you? Is this magic? Magicians will never succeed.”
 word_by_word:
@@ -9,11 +9,11 @@ word_by_word:
     translation: Musa said
     transliteration: qāla
   2:
-    arabic: مُوۡسٰٓى
+    arabic: مُوسَىٰٓ
     translation: Musa said
     transliteration: mūsā
   3:
-    arabic: اَتَقُوۡلُوۡنَ
+    arabic: أَتَقُولُونَ
     translation: Do you say
     transliteration: ataqūlūna
   4:
@@ -25,15 +25,15 @@ word_by_word:
     translation: when
     transliteration: lammā
   6:
-    arabic: جَآءَكُمۡ​ ؕ
+    arabic: جَآءَكُمۡۖ
     translation: it has come to you
     transliteration: jāakum
   7:
-    arabic: اَسِحۡرٌ
+    arabic: أَسِحۡرٌ
     translation: Is this magic
     transliteration: asiḥ'run
   8:
-    arabic: هٰذَا ؕ
+    arabic: هَٰذَا
     translation: Is this magic
     transliteration: hādhā
   9:
@@ -45,7 +45,7 @@ word_by_word:
     translation: succeed
     transliteration: yuf'liḥu
   11:
-    arabic: السَّاحِرُوۡنَ‏
+    arabic: ٱلسَّٰحِرُونَ
     translation: the magicians
     transliteration: l-sāḥirūna
 ---

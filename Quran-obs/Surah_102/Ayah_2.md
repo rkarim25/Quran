@@ -1,9 +1,9 @@
 ---
-arabic_ayat: حَتّٰى زُرۡتُمُ الۡمَقَابِرَؕ‏
+arabic_ayat: حَتَّىٰ زُرۡتُمُ ٱلۡمَقَابِرَ
 sentence_translation: until you end up in ˹your˺ graves.
 word_by_word:
   1:
-    arabic: حَتّٰى
+    arabic: حَتَّىٰ
     translation: Until
     transliteration: ḥattā
   2:
@@ -11,7 +11,7 @@ word_by_word:
     translation: you visit
     transliteration: zur'tumu
   3:
-    arabic: الۡمَقَابِرَؕ‏
+    arabic: ٱلۡمَقَابِرَ
     translation: the graves
     transliteration: l-maqābira
 ---

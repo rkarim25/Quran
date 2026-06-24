@@ -1,29 +1,29 @@
 ---
-arabic_ayat: وَقَالُوۡۤا اِنۡ هٰذَاۤ اِلَّا سِحۡرٌ مُّبِيۡنٌ​ ۖ​ۚ‏
+arabic_ayat: وَقَالُوٓاْ إِنۡ هَٰذَآ إِلَّا سِحۡرٞ مُّبِينٌ
 sentence_translation: saying, “This is nothing but pure magic.
 word_by_word:
   1:
-    arabic: وَقَالُوۡۤا
+    arabic: وَقَالُوٓاْ
     translation: And they say
     transliteration: waqālū
   2:
-    arabic: اِنۡ
+    arabic: إِنۡ
     translation: Not
     transliteration: in
   3:
-    arabic: هٰذَاۤ
+    arabic: هَٰذَآ
     translation: (is) this
     transliteration: hādhā
   4:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   5:
-    arabic: سِحۡرٌ
+    arabic: سِحۡرٞ
     translation: a magic
     transliteration: siḥ'run
   6:
-    arabic: مُّبِيۡنٌ​ ۖ​ۚ‏
+    arabic: مُّبِينٌ
     translation: clear
     transliteration: mubīnun
 ---

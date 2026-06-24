@@ -1,6 +1,6 @@
 ---
-arabic_ayat: سُنَّةَ اللّٰهِ الَّتِىۡ قَدۡ خَلَتۡ مِنۡ قَبۡلُ ۖۚ وَلَنۡ تَجِدَ لِسُنَّةِ
-  اللّٰهِ تَبۡدِيۡلًا‏
+arabic_ayat: سُنَّةَ ٱللَّهِ ٱلَّتِي قَدۡ خَلَتۡ مِن قَبۡلُۖ وَلَن تَجِدَ لِسُنَّةِ
+  ٱللَّهِ تَبۡدِيلٗا
 sentence_translation: ˹This is˺ Allah’s way, already long established ˹in the past˺.
   And you will find no change in Allah’s way.
 word_by_word:
@@ -9,11 +9,11 @@ word_by_word:
     translation: (The established) way
     transliteration: sunnata
   2:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (of) Allah
     transliteration: l-lahi
   3:
-    arabic: الَّتِىۡ
+    arabic: ٱلَّتِي
     translation: which
     transliteration: allatī
   4:
@@ -25,15 +25,15 @@ word_by_word:
     translation: passed away
     transliteration: khalat
   6:
-    arabic: مِنۡ
+    arabic: مِن
     translation: before
     transliteration: min
   7:
-    arabic: قَبۡلُ ۖۚ
+    arabic: قَبۡلُۖ
     translation: before
     transliteration: qablu
   8:
-    arabic: وَلَنۡ
+    arabic: وَلَن
     translation: and never
     transliteration: walan
   9:
@@ -45,11 +45,11 @@ word_by_word:
     translation: in (the) way of Allah
     transliteration: lisunnati
   11:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: in (the) way of Allah
     transliteration: l-lahi
   12:
-    arabic: تَبۡدِيۡلًا‏
+    arabic: تَبۡدِيلٗا
     translation: any change
     transliteration: tabdīlan
 ---

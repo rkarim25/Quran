@@ -1,7 +1,7 @@
 ---
-arabic_ayat: قُلۡ اَرَءَيۡتُمۡ اِنۡ جَعَلَ اللّٰهُ عَلَيۡكُمُ النَّهَارَ سَرۡمَدًا
-  اِلٰى يَوۡمِ الۡقِيٰمَةِ مَنۡ اِلٰـهٌ غَيۡرُ اللّٰهِ يَاۡتِيۡكُمۡ بِلَيۡلٍ تَسۡكُنُوۡنَ
-  فِيۡهِ​ؕ اَفَلَا تُبۡصِرُوۡنَ‏
+arabic_ayat: قُلۡ أَرَءَيۡتُمۡ إِن جَعَلَ ٱللَّهُ عَلَيۡكُمُ ٱلنَّهَارَ سَرۡمَدًا
+  إِلَىٰ يَوۡمِ ٱلۡقِيَٰمَةِ مَنۡ إِلَٰهٌ غَيۡرُ ٱللَّهِ يَأۡتِيكُم بِلَيۡلٖ تَسۡكُنُونَ
+  فِيهِۚ أَفَلَا تُبۡصِرُونَ
 sentence_translation: Ask ˹them also˺, “Imagine if Allah were to make the day perpetual
   for you until the Day of Judgment, which god other than Allah could bring you night
   to rest in? Will you not then see?”
@@ -11,11 +11,11 @@ word_by_word:
     translation: Say
     transliteration: qul
   2:
-    arabic: اَرَءَيۡتُمۡ
+    arabic: أَرَءَيۡتُمۡ
     translation: Have you seen
     transliteration: ara-aytum
   3:
-    arabic: اِنۡ
+    arabic: إِن
     translation: if
     transliteration: in
   4:
@@ -23,7 +23,7 @@ word_by_word:
     translation: Allah made
     transliteration: jaʿala
   5:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah made
     transliteration: l-lahu
   6:
@@ -31,7 +31,7 @@ word_by_word:
     translation: for you
     transliteration: ʿalaykumu
   7:
-    arabic: النَّهَارَ
+    arabic: ٱلنَّهَارَ
     translation: the day
     transliteration: l-nahāra
   8:
@@ -39,7 +39,7 @@ word_by_word:
     translation: continuous
     transliteration: sarmadan
   9:
-    arabic: اِلٰى
+    arabic: إِلَىٰ
     translation: till
     transliteration: ilā
   10:
@@ -47,7 +47,7 @@ word_by_word:
     translation: (the) Day
     transliteration: yawmi
   11:
-    arabic: الۡقِيٰمَةِ
+    arabic: ٱلۡقِيَٰمَةِ
     translation: (of) the Resurrection
     transliteration: l-qiyāmati
   12:
@@ -55,7 +55,7 @@ word_by_word:
     translation: who
     transliteration: man
   13:
-    arabic: اِلٰـهٌ
+    arabic: إِلَٰهٌ
     translation: (is the) god
     transliteration: ilāhun
   14:
@@ -63,31 +63,31 @@ word_by_word:
     translation: besides
     transliteration: ghayru
   15:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   16:
-    arabic: يَاۡتِيۡكُمۡ
+    arabic: يَأۡتِيكُم
     translation: who could bring you
     transliteration: yatīkum
   17:
-    arabic: بِلَيۡلٍ
+    arabic: بِلَيۡلٖ
     translation: night
     transliteration: bilaylin
   18:
-    arabic: تَسۡكُنُوۡنَ
+    arabic: تَسۡكُنُونَ
     translation: (for) you (to) rest
     transliteration: taskunūna
   19:
-    arabic: فِيۡهِ​ؕ
+    arabic: فِيهِۚ
     translation: in it
     transliteration: fīhi
   20:
-    arabic: اَفَلَا
+    arabic: أَفَلَا
     translation: Then will not
     transliteration: afalā
   21:
-    arabic: تُبۡصِرُوۡنَ‏
+    arabic: تُبۡصِرُونَ
     translation: you see
     transliteration: tub'ṣirūna
 ---

@@ -1,36 +1,36 @@
 ---
-arabic_ayat: اِنَّاۤ اَرۡسَلۡنٰكَ بِالۡحَـقِّ بَشِيۡرًا وَّنَذِيۡرًا ۙ​ وَّلَا تُسۡـَٔـلُ
-  عَنۡ اَصۡحٰبِ الۡجَحِيۡمِ‏
+arabic_ayat: إِنَّآ أَرۡسَلۡنَٰكَ بِٱلۡحَقِّ بَشِيرٗا وَنَذِيرٗاۖ وَلَا تُسۡـَٔلُ
+  عَنۡ أَصۡحَٰبِ ٱلۡجَحِيمِ
 sentence_translation: We have surely sent you with the truth ˹O Prophet˺ as a deliverer
   of good news and a warner. And you will not be accountable for the residents of
   the Hellfire.
 word_by_word:
   1:
-    arabic: اِنَّاۤ
+    arabic: إِنَّآ
     translation: Indeed We
     transliteration: innā
   2:
-    arabic: اَرۡسَلۡنٰكَ
+    arabic: أَرۡسَلۡنَٰكَ
     translation: '[We] have sent you'
     transliteration: arsalnāka
   3:
-    arabic: بِالۡحَـقِّ
+    arabic: بِٱلۡحَقِّ
     translation: with the truth
     transliteration: bil-ḥaqi
   4:
-    arabic: بَشِيۡرًا
+    arabic: بَشِيرٗا
     translation: (as) a bearer of good news
     transliteration: bashīran
   5:
-    arabic: وَّنَذِيۡرًا ۙ​
+    arabic: وَنَذِيرٗاۖ
     translation: and (as) a warner
     transliteration: wanadhīran
   6:
-    arabic: وَّلَا
+    arabic: وَلَا
     translation: And not
     transliteration: walā
   7:
-    arabic: تُسۡـَٔـلُ
+    arabic: تُسۡـَٔلُ
     translation: you will be asked
     transliteration: tus'alu
   8:
@@ -38,11 +38,11 @@ word_by_word:
     translation: about
     transliteration: ʿan
   9:
-    arabic: اَصۡحٰبِ
+    arabic: أَصۡحَٰبِ
     translation: (the) companions
     transliteration: aṣḥābi
   10:
-    arabic: الۡجَحِيۡمِ‏
+    arabic: ٱلۡجَحِيمِ
     translation: (of) the blazing Fire
     transliteration: l-jaḥīmi
 ---

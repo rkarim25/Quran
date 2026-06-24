@@ -1,10 +1,10 @@
 ---
-arabic_ayat: اِذَا جَآءَ نَصۡرُ اللّٰهِ وَالۡفَتۡحُۙ‏
+arabic_ayat: إِذَا جَآءَ نَصۡرُ ٱللَّهِ وَٱلۡفَتۡحُ
 sentence_translation: When Allah’s ˹ultimate˺ help comes and the victory ˹over Mecca
   is achieved˺,
 word_by_word:
   1:
-    arabic: اِذَا
+    arabic: إِذَا
     translation: When
     transliteration: idhā
   2:
@@ -16,11 +16,11 @@ word_by_word:
     translation: (the) Help
     transliteration: naṣru
   4:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (of) Allah
     transliteration: l-lahi
   5:
-    arabic: وَالۡفَتۡحُۙ‏
+    arabic: وَٱلۡفَتۡحُ
     translation: and the Victory
     transliteration: wal-fatḥu
 ---

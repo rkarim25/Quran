@@ -1,27 +1,26 @@
 ---
-arabic_ayat: "اِنَّ الۡاَبۡرَارَ يَشۡرَبُوۡنَ مِنۡ كَاۡسٍ كَانَ مِزَاجُهَا كَافُوۡرًا​ۚ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: إِنَّ ٱلۡأَبۡرَارَ يَشۡرَبُونَ مِن كَأۡسٖ كَانَ مِزَاجُهَا كَافُورًا
 sentence_translation: Indeed, the virtuous will have a drink ˹of pure wine˺—flavoured
   with camphor—
 word_by_word:
   1:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   2:
-    arabic: الۡاَبۡرَارَ
+    arabic: ٱلۡأَبۡرَارَ
     translation: the righteous
     transliteration: l-abrāra
   3:
-    arabic: يَشۡرَبُوۡنَ
+    arabic: يَشۡرَبُونَ
     translation: will drink
     transliteration: yashrabūna
   4:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   5:
-    arabic: كَاۡسٍ
+    arabic: كَأۡسٖ
     translation: a cup
     transliteration: kasin
   6:
@@ -33,7 +32,7 @@ word_by_word:
     translation: its mixture
     transliteration: mizājuhā
   8:
-    arabic: "كَافُوۡرًا​ۚ‏ \uFEFF\uFEFF"
+    arabic: كَافُورًا
     translation: (of) Kafur
     transliteration: kāfūran
 ---

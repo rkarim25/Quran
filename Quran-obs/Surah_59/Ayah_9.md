@@ -1,8 +1,8 @@
 ---
-arabic_ayat: وَالَّذِيۡنَ تَبَوَّؤُ الدَّارَ وَالۡاِيۡمَانَ مِنۡ قَبۡلِهِمۡ يُحِبُّوۡنَ
-  مَنۡ هَاجَرَ اِلَيۡهِمۡ وَلَا يَجِدُوۡنَ فِىۡ صُدُوۡرِهِمۡ حَاجَةً مِّمَّاۤ اُوۡتُوۡا
-  وَيُـؤۡثِرُوۡنَ عَلٰٓى اَنۡفُسِهِمۡ وَلَوۡ كَانَ بِهِمۡ خَصَاصَةٌ ؕ وَمَنۡ يُّوۡقَ
-  شُحَّ نَـفۡسِهٖ فَاُولٰٓٮِٕكَ هُمُ الۡمُفۡلِحُوۡنَ​ۚ‏
+arabic_ayat: وَٱلَّذِينَ تَبَوَّءُو ٱلدَّارَ وَٱلۡإِيمَٰنَ مِن قَبۡلِهِمۡ يُحِبُّونَ
+  مَنۡ هَاجَرَ إِلَيۡهِمۡ وَلَا يَجِدُونَ فِي صُدُورِهِمۡ حَاجَةٗ مِّمَّآ أُوتُواْ
+  وَيُؤۡثِرُونَ عَلَىٰٓ أَنفُسِهِمۡ وَلَوۡ كَانَ بِهِمۡ خَصَاصَةٞۚ وَمَن يُوقَ شُحَّ
+  نَفۡسِهِۦ فَأُوْلَٰٓئِكَ هُمُ ٱلۡمُفۡلِحُونَ
 sentence_translation: As for those who had settled in the city and ˹embraced˺ the
   faith before ˹the arrival of˺ the emigrants, they love whoever immigrates to them,
   never having a desire in their hearts for whatever ˹of the gains˺ is given to the
@@ -11,23 +11,23 @@ sentence_translation: As for those who had settled in the city and ˹embraced˺ 
   is they who are ˹truly˺ successful.
 word_by_word:
   1:
-    arabic: وَالَّذِيۡنَ
+    arabic: وَٱلَّذِينَ
     translation: And those who
     transliteration: wa-alladhīna
   2:
-    arabic: تَبَوَّؤُ
+    arabic: تَبَوَّءُو
     translation: settled
     transliteration: tabawwaū
   3:
-    arabic: الدَّارَ
+    arabic: ٱلدَّارَ
     translation: (in) the home
     transliteration: l-dāra
   4:
-    arabic: وَالۡاِيۡمَانَ
+    arabic: وَٱلۡإِيمَٰنَ
     translation: and (accepted) faith
     transliteration: wal-īmāna
   5:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   6:
@@ -35,7 +35,7 @@ word_by_word:
     translation: before them
     transliteration: qablihim
   7:
-    arabic: يُحِبُّوۡنَ
+    arabic: يُحِبُّونَ
     translation: love
     transliteration: yuḥibbūna
   8:
@@ -47,7 +47,7 @@ word_by_word:
     translation: emigrated
     transliteration: hājara
   10:
-    arabic: اِلَيۡهِمۡ
+    arabic: إِلَيۡهِمۡ
     translation: to them
     transliteration: ilayhim
   11:
@@ -55,39 +55,39 @@ word_by_word:
     translation: and not
     transliteration: walā
   12:
-    arabic: يَجِدُوۡنَ
+    arabic: يَجِدُونَ
     translation: they find
     transliteration: yajidūna
   13:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   14:
-    arabic: صُدُوۡرِهِمۡ
+    arabic: صُدُورِهِمۡ
     translation: their breasts
     transliteration: ṣudūrihim
   15:
-    arabic: حَاجَةً
+    arabic: حَاجَةٗ
     translation: any want
     transliteration: ḥājatan
   16:
-    arabic: مِّمَّاۤ
+    arabic: مِّمَّآ
     translation: of what
     transliteration: mimmā
   17:
-    arabic: اُوۡتُوۡا
+    arabic: أُوتُواْ
     translation: they were given
     transliteration: ūtū
   18:
-    arabic: وَيُـؤۡثِرُوۡنَ
+    arabic: وَيُؤۡثِرُونَ
     translation: but prefer
     transliteration: wayu'thirūna
   19:
-    arabic: عَلٰٓى
+    arabic: عَلَىٰٓ
     translation: over
     transliteration: ʿalā
   20:
-    arabic: اَنۡفُسِهِمۡ
+    arabic: أَنفُسِهِمۡ
     translation: themselves
     transliteration: anfusihim
   21:
@@ -103,15 +103,15 @@ word_by_word:
     translation: with them
     transliteration: bihim
   24:
-    arabic: خَصَاصَةٌ ؕ
+    arabic: خَصَاصَةٞۚ
     translation: poverty
     transliteration: khaṣāṣatun
   25:
-    arabic: وَمَنۡ
+    arabic: وَمَن
     translation: And whoever
     transliteration: waman
   26:
-    arabic: يُّوۡقَ
+    arabic: يُوقَ
     translation: is saved
     transliteration: yūqa
   27:
@@ -119,11 +119,11 @@ word_by_word:
     translation: (from) stinginess
     transliteration: shuḥḥa
   28:
-    arabic: نَـفۡسِهٖ
+    arabic: نَفۡسِهِۦ
     translation: (of) his soul
     transliteration: nafsihi
   29:
-    arabic: فَاُولٰٓٮِٕكَ
+    arabic: فَأُوْلَٰٓئِكَ
     translation: then those
     transliteration: fa-ulāika
   30:
@@ -131,7 +131,7 @@ word_by_word:
     translation: '[they]'
     transliteration: humu
   31:
-    arabic: الۡمُفۡلِحُوۡنَ​ۚ‏
+    arabic: ٱلۡمُفۡلِحُونَ
     translation: (are) the successful ones
     transliteration: l-muf'liḥūna
 ---

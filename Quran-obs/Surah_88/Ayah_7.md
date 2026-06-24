@@ -1,5 +1,5 @@
 ---
-arabic_ayat: لَّا يُسۡمِنُ وَلَا يُغۡنِىۡ مِنۡ جُوۡعٍؕ‏
+arabic_ayat: لَّا يُسۡمِنُ وَلَا يُغۡنِي مِن جُوعٖ
 sentence_translation: neither nourishing nor satisfying hunger.
 word_by_word:
   1:
@@ -15,15 +15,15 @@ word_by_word:
     translation: and not
     transliteration: walā
   4:
-    arabic: يُغۡنِىۡ
+    arabic: يُغۡنِي
     translation: it avails
     transliteration: yugh'nī
   5:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   6:
-    arabic: جُوۡعٍؕ‏
+    arabic: جُوعٖ
     translation: hunger
     transliteration: jūʿin
 ---

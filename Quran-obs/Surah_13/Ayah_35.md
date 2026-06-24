@@ -1,22 +1,22 @@
 ---
-arabic_ayat: مَثَلُ الۡجَـنَّةِ الَّتِىۡ وُعِدَ الۡمُتَّقُوۡنَ​ ؕ تَجۡرِىۡ مِنۡ تَحۡتِهَا
-  الۡاَنۡهٰرُ​ ؕ اُكُلُهَا دَآٮِٕمٌ وَّظِلُّهَا​ ؕ تِلۡكَ عُقۡبَى الَّذِيۡنَ اتَّقَوْا​
-  ​ۖ  وَّعُقۡبَى الۡكٰفِرِيۡنَ النَّارُ‏
+arabic_ayat: ۞ مَّثَلُ ٱلۡجَنَّةِ ٱلَّتِي وُعِدَ ٱلۡمُتَّقُونَۖ تَجۡرِي مِن تَحۡتِهَا
+  ٱلۡأَنۡهَٰرُۖ أُكُلُهَا دَآئِمٞ وَظِلُّهَاۚ تِلۡكَ عُقۡبَى ٱلَّذِينَ ٱتَّقَواْۚ
+  وَّعُقۡبَى ٱلۡكَٰفِرِينَ ٱلنَّارُ
 sentence_translation: The description of the Paradise promised to the righteous is
   that under it rivers flow; eternal is its fruit as well as its shade. That is the
   ˹ultimate˺ outcome for the righteous. But the outcome for the disbelievers is the
   Fire!
 word_by_word:
   1:
-    arabic: ۞ مَثَلُ
+    arabic: ۞ مَّثَلُ
     translation: The example
     transliteration: mathalu
   2:
-    arabic: الۡجَـنَّةِ
+    arabic: ٱلۡجَنَّةِ
     translation: of Paradise
     transliteration: l-janati
   3:
-    arabic: الَّتِىۡ
+    arabic: ٱلَّتِي
     translation: which
     transliteration: allatī
   4:
@@ -24,15 +24,15 @@ word_by_word:
     translation: (is) promised
     transliteration: wuʿida
   5:
-    arabic: الۡمُتَّقُوۡنَ​ ؕ
+    arabic: ٱلۡمُتَّقُونَۖ
     translation: (to) the righteous
     transliteration: l-mutaqūna
   6:
-    arabic: تَجۡرِىۡ
+    arabic: تَجۡرِي
     translation: flows
     transliteration: tajrī
   7:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   8:
@@ -40,19 +40,19 @@ word_by_word:
     translation: underneath it
     transliteration: taḥtihā
   9:
-    arabic: الۡاَنۡهٰرُ​ ؕ
+    arabic: ٱلۡأَنۡهَٰرُۖ
     translation: the rivers
     transliteration: l-anhāru
   10:
-    arabic: اُكُلُهَا
+    arabic: أُكُلُهَا
     translation: Its food
     transliteration: ukuluhā
   11:
-    arabic: دَآٮِٕمٌ
+    arabic: دَآئِمٞ
     translation: (is) everlasting
     transliteration: dāimun
   12:
-    arabic: وَّظِلُّهَا​ ؕ
+    arabic: وَظِلُّهَاۚ
     translation: and its shade
     transliteration: waẓilluhā
   13:
@@ -64,11 +64,11 @@ word_by_word:
     translation: (is the) end
     transliteration: ʿuq'bā
   15:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: of those who
     transliteration: alladhīna
   16:
-    arabic: اتَّقَوْا​ ​ۖ 
+    arabic: ٱتَّقَواْۚ
     translation: (are) righteous
     transliteration: ittaqaw
   17:
@@ -76,11 +76,11 @@ word_by_word:
     translation: and (the) end
     transliteration: waʿuq'bā
   18:
-    arabic: الۡكٰفِرِيۡنَ
+    arabic: ٱلۡكَٰفِرِينَ
     translation: (of) the disbelievers
     transliteration: l-kāfirīna
   19:
-    arabic: النَّارُ‏
+    arabic: ٱلنَّارُ
     translation: (is) the Fire
     transliteration: l-nāru
 ---

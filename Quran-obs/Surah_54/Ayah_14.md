@@ -1,22 +1,22 @@
 ---
-arabic_ayat: تَجۡرِىۡ بِاَعۡيُنِنَا​ۚ جَزَآءً لِّمَنۡ كَانَ كُفِرَ‏
+arabic_ayat: تَجۡرِي بِأَعۡيُنِنَا جَزَآءٗ لِّمَن كَانَ كُفِرَ
 sentence_translation: sailing under Our ˹watchful˺ Eyes—a ˹fair˺ punishment on behalf
   of the one ˹they˺ denied.
 word_by_word:
   1:
-    arabic: تَجۡرِىۡ
+    arabic: تَجۡرِي
     translation: Sailing
     transliteration: tajrī
   2:
-    arabic: بِاَعۡيُنِنَا​ۚ
+    arabic: بِأَعۡيُنِنَا
     translation: before Our eyes
     transliteration: bi-aʿyuninā
   3:
-    arabic: جَزَآءً
+    arabic: جَزَآءٗ
     translation: a reward
     transliteration: jazāan
   4:
-    arabic: لِّمَنۡ
+    arabic: لِّمَن
     translation: for (he) who
     transliteration: liman
   5:
@@ -24,7 +24,7 @@ word_by_word:
     translation: was
     transliteration: kāna
   6:
-    arabic: كُفِرَ‏
+    arabic: كُفِرَ
     translation: denied
     transliteration: kufira
 ---

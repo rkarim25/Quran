@@ -1,26 +1,26 @@
 ---
-arabic_ayat: اَمۡ اَبۡرَمُوۡۤا اَمۡرًا فَاِنَّا مُبۡرِمُوۡنَ​ۚ‏
+arabic_ayat: أَمۡ أَبۡرَمُوٓاْ أَمۡرٗا فَإِنَّا مُبۡرِمُونَ
 sentence_translation: Or have they mastered some ˹evil˺ plan? Then We ˹too˺ are surely
   planning.
 word_by_word:
   1:
-    arabic: اَمۡ
+    arabic: أَمۡ
     translation: Or
     transliteration: am
   2:
-    arabic: اَبۡرَمُوۡۤا
+    arabic: أَبۡرَمُوٓاْ
     translation: have they determined
     transliteration: abramū
   3:
-    arabic: اَمۡرًا
+    arabic: أَمۡرٗا
     translation: an affair
     transliteration: amran
   4:
-    arabic: فَاِنَّا
+    arabic: فَإِنَّا
     translation: Then indeed, We
     transliteration: fa-innā
   5:
-    arabic: مُبۡرِمُوۡنَ​ۚ‏
+    arabic: مُبۡرِمُونَ
     translation: (are) determined
     transliteration: mub'rimūna
 ---

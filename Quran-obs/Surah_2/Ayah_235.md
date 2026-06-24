@@ -1,10 +1,10 @@
 ---
-arabic_ayat: وَلَا جُنَاحَ عَلَيۡكُمۡ فِيۡمَا عَرَّضۡتُمۡ بِهٖ مِنۡ خِطۡبَةِ النِّسَآءِ
-  اَوۡ اَکۡنَنۡتُمۡ فِىۡٓ اَنۡفُسِكُمۡ​ؕ عَلِمَ اللّٰهُ اَنَّكُمۡ سَتَذۡكُرُوۡنَهُنَّ
-  وَلٰـكِنۡ لَّا تُوَاعِدُوۡهُنَّ سِرًّا اِلَّاۤ اَنۡ تَقُوۡلُوۡا قَوۡلًا مَّعۡرُوۡفًا ​ؕ
-  وَلَا تَعۡزِمُوۡا عُقۡدَةَ النِّکَاحِ حَتّٰى يَبۡلُغَ الۡكِتٰبُ اَجَلَهٗ ​ؕ وَاعۡلَمُوۡٓا
-  اَنَّ اللّٰهَ يَعۡلَمُ مَا فِىۡٓ اَنۡفُسِكُمۡ فَاحۡذَرُوۡهُ ​ؕ وَاعۡلَمُوۡٓا اَنَّ
-  اللّٰهَ غَفُوۡرٌ حَلِيۡمٌ‏
+arabic_ayat: وَلَا جُنَاحَ عَلَيۡكُمۡ فِيمَا عَرَّضۡتُم بِهِۦ مِنۡ خِطۡبَةِ ٱلنِّسَآءِ
+  أَوۡ أَكۡنَنتُمۡ فِيٓ أَنفُسِكُمۡۚ عَلِمَ ٱللَّهُ أَنَّكُمۡ سَتَذۡكُرُونَهُنَّ وَلَٰكِن
+  لَّا تُوَاعِدُوهُنَّ سِرًّا إِلَّآ أَن تَقُولُواْ قَوۡلٗا مَّعۡرُوفٗاۚ وَلَا تَعۡزِمُواْ
+  عُقۡدَةَ ٱلنِّكَاحِ حَتَّىٰ يَبۡلُغَ ٱلۡكِتَٰبُ أَجَلَهُۥۚ وَٱعۡلَمُوٓاْ أَنَّ ٱللَّهَ
+  يَعۡلَمُ مَا فِيٓ أَنفُسِكُمۡ فَٱحۡذَرُوهُۚ وَٱعۡلَمُوٓاْ أَنَّ ٱللَّهَ غَفُورٌ
+  حَلِيمٞ
 sentence_translation: There is no blame on you for subtly showing interest in ˹divorced
   or widowed˺ women or for hiding ˹the intention˺ in your hearts. Allah knows that
   you are considering them ˹for marriage˺. But do not make a secret commitment with
@@ -25,15 +25,15 @@ word_by_word:
     translation: upon you
     transliteration: ʿalaykum
   4:
-    arabic: فِيۡمَا
+    arabic: فِيمَا
     translation: in what
     transliteration: fīmā
   5:
-    arabic: عَرَّضۡتُمۡ
+    arabic: عَرَّضۡتُم
     translation: you hint
     transliteration: ʿarraḍtum
   6:
-    arabic: بِهٖ
+    arabic: بِهِۦ
     translation: '[with it]'
     transliteration: bihi
   7:
@@ -45,23 +45,23 @@ word_by_word:
     translation: marriage proposal
     transliteration: khiṭ'bati
   9:
-    arabic: النِّسَآءِ
+    arabic: ٱلنِّسَآءِ
     translation: '[to] the women'
     transliteration: l-nisāi
   10:
-    arabic: اَوۡ
+    arabic: أَوۡ
     translation: or
     transliteration: aw
   11:
-    arabic: اَکۡنَنۡتُمۡ
+    arabic: أَكۡنَنتُمۡ
     translation: you conceal it
     transliteration: aknantum
   12:
-    arabic: فِىۡٓ
+    arabic: فِيٓ
     translation: in
     transliteration: fī
   13:
-    arabic: اَنۡفُسِكُمۡ​ؕ
+    arabic: أَنفُسِكُمۡۚ
     translation: yourselves
     transliteration: anfusikum
   14:
@@ -69,19 +69,19 @@ word_by_word:
     translation: Knows
     transliteration: ʿalima
   15:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   16:
-    arabic: اَنَّكُمۡ
+    arabic: أَنَّكُمۡ
     translation: that you
     transliteration: annakum
   17:
-    arabic: سَتَذۡكُرُوۡنَهُنَّ
+    arabic: سَتَذۡكُرُونَهُنَّ
     translation: will mention them
     transliteration: satadhkurūnahunna
   18:
-    arabic: وَلٰـكِنۡ
+    arabic: وَلَٰكِن
     translation: '[and] but'
     transliteration: walākin
   19:
@@ -89,7 +89,7 @@ word_by_word:
     translation: (do) not
     transliteration: lā
   20:
-    arabic: تُوَاعِدُوۡهُنَّ
+    arabic: تُوَاعِدُوهُنَّ
     translation: promise them (widows)
     transliteration: tuwāʿidūhunna
   21:
@@ -97,23 +97,23 @@ word_by_word:
     translation: secretly
     transliteration: sirran
   22:
-    arabic: اِلَّاۤ
+    arabic: إِلَّآ
     translation: except
     transliteration: illā
   23:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that
     transliteration: an
   24:
-    arabic: تَقُوۡلُوۡا
+    arabic: تَقُولُواْ
     translation: you say
     transliteration: taqūlū
   25:
-    arabic: قَوۡلًا
+    arabic: قَوۡلٗا
     translation: a saying
     transliteration: qawlan
   26:
-    arabic: مَّعۡرُوۡفًا ​ؕ
+    arabic: مَّعۡرُوفٗاۚ
     translation: honorable
     transliteration: maʿrūfan
   27:
@@ -121,7 +121,7 @@ word_by_word:
     translation: And (do) not
     transliteration: walā
   28:
-    arabic: تَعۡزِمُوۡا
+    arabic: تَعۡزِمُواْ
     translation: resolve (on)
     transliteration: taʿzimū
   29:
@@ -129,11 +129,11 @@ word_by_word:
     translation: the knot
     transliteration: ʿuq'data
   30:
-    arabic: النِّکَاحِ
+    arabic: ٱلنِّكَاحِ
     translation: (of) marriage
     transliteration: l-nikāḥi
   31:
-    arabic: حَتّٰى
+    arabic: حَتَّىٰ
     translation: until
     transliteration: ḥattā
   32:
@@ -141,23 +141,23 @@ word_by_word:
     translation: reaches
     transliteration: yablugha
   33:
-    arabic: الۡكِتٰبُ
+    arabic: ٱلۡكِتَٰبُ
     translation: the prescribed term
     transliteration: l-kitābu
   34:
-    arabic: اَجَلَهٗ ​ؕ
+    arabic: أَجَلَهُۥۚ
     translation: its end
     transliteration: ajalahu
   35:
-    arabic: وَاعۡلَمُوۡٓا
+    arabic: وَٱعۡلَمُوٓاْ
     translation: And know
     transliteration: wa-iʿ'lamū
   36:
-    arabic: اَنَّ
+    arabic: أَنَّ
     translation: that
     transliteration: anna
   37:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   38:
@@ -169,35 +169,35 @@ word_by_word:
     translation: what
     transliteration: mā
   40:
-    arabic: فِىۡٓ
+    arabic: فِيٓ
     translation: (is) within
     transliteration: fī
   41:
-    arabic: اَنۡفُسِكُمۡ
+    arabic: أَنفُسِكُمۡ
     translation: yourselves
     transliteration: anfusikum
   42:
-    arabic: فَاحۡذَرُوۡهُ ​ؕ
+    arabic: فَٱحۡذَرُوهُۚ
     translation: so beware of Him
     transliteration: fa-iḥ'dharūhu
   43:
-    arabic: وَاعۡلَمُوۡٓا
+    arabic: وَٱعۡلَمُوٓاْ
     translation: And know
     transliteration: wa-iʿ'lamū
   44:
-    arabic: اَنَّ
+    arabic: أَنَّ
     translation: that
     transliteration: anna
   45:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   46:
-    arabic: غَفُوۡرٌ
+    arabic: غَفُورٌ
     translation: (is) Oft-Forgiving
     transliteration: ghafūrun
   47:
-    arabic: حَلِيۡمٌ‏
+    arabic: حَلِيمٞ
     translation: Most Forbearing
     transliteration: ḥalīmun
 ---

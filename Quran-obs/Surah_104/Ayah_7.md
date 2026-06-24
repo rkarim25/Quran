@@ -1,9 +1,9 @@
 ---
-arabic_ayat: الَّتِىۡ تَطَّلِعُ عَلَى الۡاَفۡـــِٕدَةِ ؕ‏
+arabic_ayat: ٱلَّتِي تَطَّلِعُ عَلَى ٱلۡأَفۡـِٔدَةِ
 sentence_translation: which rages over the hearts.
 word_by_word:
   1:
-    arabic: الَّتِىۡ
+    arabic: ٱلَّتِي
     translation: Which
     transliteration: allatī
   2:
@@ -15,7 +15,7 @@ word_by_word:
     translation: to
     transliteration: ʿalā
   4:
-    arabic: الۡاَفۡـــِٕدَةِ ؕ‏
+    arabic: ٱلۡأَفۡـِٔدَةِ
     translation: the hearts
     transliteration: l-afidati
 ---

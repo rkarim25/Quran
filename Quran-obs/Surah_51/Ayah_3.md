@@ -1,13 +1,13 @@
 ---
-arabic_ayat: فَالۡجٰرِيٰتِ يُسۡرًا ۙ‏
+arabic_ayat: فَٱلۡجَٰرِيَٰتِ يُسۡرٗا
 sentence_translation: and ˹the ships˺ gliding with ease,
 word_by_word:
   1:
-    arabic: فَالۡجٰرِيٰتِ
+    arabic: فَٱلۡجَٰرِيَٰتِ
     translation: And those sailing
     transliteration: fal-jāriyāti
   2:
-    arabic: يُسۡرًا ۙ‏
+    arabic: يُسۡرٗا
     translation: (with) ease
     transliteration: yus'ran
 ---

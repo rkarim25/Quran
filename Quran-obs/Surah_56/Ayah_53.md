@@ -1,9 +1,9 @@
 ---
-arabic_ayat: فَمٰلِــُٔوۡنَ مِنۡهَا الۡبُطُوۡنَ​ۚ‏
+arabic_ayat: فَمَالِـُٔونَ مِنۡهَا ٱلۡبُطُونَ
 sentence_translation: filling up ˹your˺ bellies with it.
 word_by_word:
   1:
-    arabic: فَمٰلِــُٔوۡنَ
+    arabic: فَمَالِـُٔونَ
     translation: Then will fill
     transliteration: famāliūna
   2:
@@ -11,7 +11,7 @@ word_by_word:
     translation: with it
     transliteration: min'hā
   3:
-    arabic: الۡبُطُوۡنَ​ۚ‏
+    arabic: ٱلۡبُطُونَ
     translation: the bellies
     transliteration: l-buṭūna
 ---

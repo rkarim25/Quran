@@ -1,6 +1,6 @@
 ---
-arabic_ayat: قَالَ بَصُرۡتُ بِمَا لَمۡ يَـبۡصُرُوۡا بِهٖ فَقَبَـضۡتُ قَبۡضَةً مِّنۡ
-  اَثَرِ الرَّسُوۡلِ فَنَبَذۡتُهَا وَكَذٰلِكَ سَوَّلَتۡ لِىۡ نَفۡسِى‏
+arabic_ayat: قَالَ بَصُرۡتُ بِمَا لَمۡ يَبۡصُرُواْ بِهِۦ فَقَبَضۡتُ قَبۡضَةٗ مِّنۡ
+  أَثَرِ ٱلرَّسُولِ فَنَبَذۡتُهَا وَكَذَٰلِكَ سَوَّلَتۡ لِي نَفۡسِي
 sentence_translation: He said, “I saw what they did not see, so I took a handful ˹of
   dust˺ from the hoof-prints of ˹the horse of˺ the messenger-angel ˹Gabriel˺ then
   cast it ˹on the moulded calf˺. This is what my lower-self tempted me into.”
@@ -22,19 +22,19 @@ word_by_word:
     translation: not
     transliteration: lam
   5:
-    arabic: يَـبۡصُرُوۡا
+    arabic: يَبۡصُرُواْ
     translation: they perceive
     transliteration: yabṣurū
   6:
-    arabic: بِهٖ
+    arabic: بِهِۦ
     translation: in it
     transliteration: bihi
   7:
-    arabic: فَقَبَـضۡتُ
+    arabic: فَقَبَضۡتُ
     translation: so I took
     transliteration: faqabaḍtu
   8:
-    arabic: قَبۡضَةً
+    arabic: قَبۡضَةٗ
     translation: a handful
     transliteration: qabḍatan
   9:
@@ -42,11 +42,11 @@ word_by_word:
     translation: from
     transliteration: min
   10:
-    arabic: اَثَرِ
+    arabic: أَثَرِ
     translation: (the) track
     transliteration: athari
   11:
-    arabic: الرَّسُوۡلِ
+    arabic: ٱلرَّسُولِ
     translation: (of) the Messenger
     transliteration: l-rasūli
   12:
@@ -54,7 +54,7 @@ word_by_word:
     translation: then threw it
     transliteration: fanabadhtuhā
   13:
-    arabic: وَكَذٰلِكَ
+    arabic: وَكَذَٰلِكَ
     translation: and thus
     transliteration: wakadhālika
   14:
@@ -62,11 +62,11 @@ word_by_word:
     translation: suggested
     transliteration: sawwalat
   15:
-    arabic: لِىۡ
+    arabic: لِي
     translation: to me
     transliteration: lī
   16:
-    arabic: نَفۡسِى‏
+    arabic: نَفۡسِي
     translation: my soul
     transliteration: nafsī
 ---

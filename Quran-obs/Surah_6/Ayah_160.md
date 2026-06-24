@@ -1,11 +1,11 @@
 ---
-arabic_ayat: مَنۡ جَآءَ بِالۡحَسَنَةِ فَلَهٗ عَشۡرُ اَمۡثَالِهَا​ ۚ وَمَنۡ جَآءَ
-  بِالسَّيِّئَةِ فَلَا يُجۡزٰٓى اِلَّا مِثۡلَهَا وَهُمۡ لَا يُظۡلَمُوۡنَ‏
+arabic_ayat: مَن جَآءَ بِٱلۡحَسَنَةِ فَلَهُۥ عَشۡرُ أَمۡثَالِهَاۖ وَمَن جَآءَ بِٱلسَّيِّئَةِ
+  فَلَا يُجۡزَىٰٓ إِلَّا مِثۡلَهَا وَهُمۡ لَا يُظۡلَمُونَ
 sentence_translation: Whoever comes with a good deed will be rewarded tenfold. But
   whoever comes with a bad deed will be punished for only one. None will be wronged.
 word_by_word:
   1:
-    arabic: مَنۡ
+    arabic: مَن
     translation: Whoever
     transliteration: man
   2:
@@ -13,11 +13,11 @@ word_by_word:
     translation: came
     transliteration: jāa
   3:
-    arabic: بِالۡحَسَنَةِ
+    arabic: بِٱلۡحَسَنَةِ
     translation: with a good deed
     transliteration: bil-ḥasanati
   4:
-    arabic: فَلَهٗ
+    arabic: فَلَهُۥ
     translation: then for him
     transliteration: falahu
   5:
@@ -25,11 +25,11 @@ word_by_word:
     translation: (is) ten (times)
     transliteration: ʿashru
   6:
-    arabic: اَمۡثَالِهَا​ ۚ
+    arabic: أَمۡثَالِهَاۖ
     translation: the like of it
     transliteration: amthālihā
   7:
-    arabic: وَمَنۡ
+    arabic: وَمَن
     translation: And whoever
     transliteration: waman
   8:
@@ -37,7 +37,7 @@ word_by_word:
     translation: came
     transliteration: jāa
   9:
-    arabic: بِالسَّيِّئَةِ
+    arabic: بِٱلسَّيِّئَةِ
     translation: with an evil deed
     transliteration: bil-sayi-ati
   10:
@@ -45,11 +45,11 @@ word_by_word:
     translation: then not
     transliteration: falā
   11:
-    arabic: يُجۡزٰٓى
+    arabic: يُجۡزَىٰٓ
     translation: he will be recompensed
     transliteration: yuj'zā
   12:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   13:
@@ -65,7 +65,7 @@ word_by_word:
     translation: will not
     transliteration: lā
   16:
-    arabic: يُظۡلَمُوۡنَ‏
+    arabic: يُظۡلَمُونَ
     translation: (be) wronged
     transliteration: yuẓ'lamūna
 ---

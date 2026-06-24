@@ -1,19 +1,19 @@
 ---
-arabic_ayat: ذٰلِكَ بِاَنَّهُمۡ اٰمَنُوۡا ثُمَّ كَفَرُوۡا فَطُبِعَ عَلٰى قُلُوۡبِهِمۡ
-  فَهُمۡ لَا يَفۡقَهُوۡنَ‏
+arabic_ayat: ذَٰلِكَ بِأَنَّهُمۡ ءَامَنُواْ ثُمَّ كَفَرُواْ فَطُبِعَ عَلَىٰ قُلُوبِهِمۡ
+  فَهُمۡ لَا يَفۡقَهُونَ
 sentence_translation: This is because they believed and then abandoned faith. Therefore,
   their hearts have been sealed, so they do not comprehend.
 word_by_word:
   1:
-    arabic: ذٰلِكَ
+    arabic: ذَٰلِكَ
     translation: That
     transliteration: dhālika
   2:
-    arabic: بِاَنَّهُمۡ
+    arabic: بِأَنَّهُمۡ ءَ
     translation: (is) because
     transliteration: bi-annahum
   3:
-    arabic: اٰمَنُوۡا
+    arabic: امَنُواْ
     translation: they believed
     transliteration: āmanū
   4:
@@ -21,7 +21,7 @@ word_by_word:
     translation: then
     transliteration: thumma
   5:
-    arabic: كَفَرُوۡا
+    arabic: كَفَرُواْ
     translation: they disbelieved
     transliteration: kafarū
   6:
@@ -29,11 +29,11 @@ word_by_word:
     translation: so were sealed
     transliteration: faṭubiʿa
   7:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: '[upon]'
     transliteration: ʿalā
   8:
-    arabic: قُلُوۡبِهِمۡ
+    arabic: قُلُوبِهِمۡ
     translation: their hearts
     transliteration: qulūbihim
   9:
@@ -45,7 +45,7 @@ word_by_word:
     translation: (do) not
     transliteration: lā
   11:
-    arabic: يَفۡقَهُوۡنَ‏
+    arabic: يَفۡقَهُونَ
     translation: understand
     transliteration: yafqahūna
 ---

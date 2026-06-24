@@ -1,9 +1,9 @@
 ---
-arabic_ayat: النَّارِ ذَاتِ الۡوَقُوۡدِۙ‏
+arabic_ayat: ٱلنَّارِ ذَاتِ ٱلۡوَقُودِ
 sentence_translation: the fire ˹pit˺, filled with fuel—
 word_by_word:
   1:
-    arabic: النَّارِ
+    arabic: ٱلنَّارِ
     translation: (Of) the fire
     transliteration: al-nāri
   2:
@@ -11,7 +11,7 @@ word_by_word:
     translation: full
     transliteration: dhāti
   3:
-    arabic: الۡوَقُوۡدِۙ‏
+    arabic: ٱلۡوَقُودِ
     translation: (of) the fuel
     transliteration: l-waqūdi
 ---

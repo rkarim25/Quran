@@ -1,14 +1,14 @@
 ---
-arabic_ayat: قَالُوۡا سَنُرَاوِدُ عَنۡهُ اَبَاهُ وَاِنَّا لَفَاعِلُوۡنَ‏
+arabic_ayat: قَالُواْ سَنُرَٰوِدُ عَنۡهُ أَبَاهُ وَإِنَّا لَفَٰعِلُونَ
 sentence_translation: They promised, “We will try to convince his father to let him
   come. We will certainly do ˹our best˺.”
 word_by_word:
   1:
-    arabic: قَالُوۡا
+    arabic: قَالُواْ
     translation: They said
     transliteration: qālū
   2:
-    arabic: سَنُرَاوِدُ
+    arabic: سَنُرَٰوِدُ
     translation: We will try to get permission
     transliteration: sanurāwidu
   3:
@@ -16,15 +16,15 @@ word_by_word:
     translation: for him
     transliteration: ʿanhu
   4:
-    arabic: اَبَاهُ
+    arabic: أَبَاهُ
     translation: (from) his father
     transliteration: abāhu
   5:
-    arabic: وَاِنَّا
+    arabic: وَإِنَّا
     translation: and indeed we
     transliteration: wa-innā
   6:
-    arabic: لَفَاعِلُوۡنَ‏
+    arabic: لَفَٰعِلُونَ
     translation: surely will do
     transliteration: lafāʿilūna
 ---

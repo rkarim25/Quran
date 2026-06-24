@@ -1,5 +1,5 @@
 ---
-arabic_ayat: يَوۡمَ تَرۡجُفُ الرَّاجِفَةُ ۙ‏
+arabic_ayat: يَوۡمَ تَرۡجُفُ ٱلرَّاجِفَةُ
 sentence_translation: ˹Consider˺ the Day ˹when˺ the quaking Blast will come to pass,
 word_by_word:
   1:
@@ -11,7 +11,7 @@ word_by_word:
     translation: will quake
     transliteration: tarjufu
   3:
-    arabic: الرَّاجِفَةُ ۙ‏
+    arabic: ٱلرَّاجِفَةُ
     translation: the quaking one
     transliteration: l-rājifatu
 ---

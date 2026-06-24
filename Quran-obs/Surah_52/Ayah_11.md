@@ -1,17 +1,17 @@
 ---
-arabic_ayat: فَوَيۡلٌ يَّوۡمَٮِٕذٍ لِّـلۡمُكَذِّبِيۡنَۙ‏
+arabic_ayat: فَوَيۡلٞ يَوۡمَئِذٖ لِّلۡمُكَذِّبِينَ
 sentence_translation: Then woe on that Day to the deniers—
 word_by_word:
   1:
-    arabic: فَوَيۡلٌ
+    arabic: فَوَيۡلٞ
     translation: Then woe
     transliteration: fawaylun
   2:
-    arabic: يَّوۡمَٮِٕذٍ
+    arabic: يَوۡمَئِذٖ
     translation: that Day
     transliteration: yawma-idhin
   3:
-    arabic: لِّـلۡمُكَذِّبِيۡنَۙ‏
+    arabic: لِّلۡمُكَذِّبِينَ
     translation: to the deniers
     transliteration: lil'mukadhibīna
 ---

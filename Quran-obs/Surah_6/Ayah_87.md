@@ -1,43 +1,43 @@
 ---
-arabic_ayat: وَمِنۡ اٰبَآٮِٕهِمۡ وَذُرِّيّٰتِهِمۡ وَاِخۡوَانِهِمۡ​ۚ وَاجۡتَبَيۡنٰهُمۡ
-  وَهَدَيۡنٰهُمۡ اِلٰى صِرَاطٍ مُّسۡتَقِيۡمٍ‏
+arabic_ayat: وَمِنۡ ءَابَآئِهِمۡ وَذُرِّيَّٰتِهِمۡ وَإِخۡوَٰنِهِمۡۖ وَٱجۡتَبَيۡنَٰهُمۡ
+  وَهَدَيۡنَٰهُمۡ إِلَىٰ صِرَٰطٖ مُّسۡتَقِيمٖ
 sentence_translation: And ˹We favoured˺ some of their forefathers, their descendants,
   and their brothers. We chose them and guided them to the Straight Path.
 word_by_word:
   1:
-    arabic: وَمِنۡ
+    arabic: وَمِنۡ ءَ
     translation: And from
     transliteration: wamin
   2:
-    arabic: اٰبَآٮِٕهِمۡ
+    arabic: ابَآئِهِمۡ
     translation: their fathers
     transliteration: ābāihim
   3:
-    arabic: وَذُرِّيّٰتِهِمۡ
+    arabic: وَذُرِّيَّٰتِهِمۡ
     translation: and their descendents
     transliteration: wadhurriyyātihim
   4:
-    arabic: وَاِخۡوَانِهِمۡ​ۚ
+    arabic: وَإِخۡوَٰنِهِمۡۖ
     translation: 'and their brothers '
     transliteration: wa-ikh'wānihim
   5:
-    arabic: وَاجۡتَبَيۡنٰهُمۡ
+    arabic: وَٱجۡتَبَيۡنَٰهُمۡ
     translation: and We chose them
     transliteration: wa-ij'tabaynāhum
   6:
-    arabic: وَهَدَيۡنٰهُمۡ
+    arabic: وَهَدَيۡنَٰهُمۡ
     translation: and We guided them
     transliteration: wahadaynāhum
   7:
-    arabic: اِلٰى
+    arabic: إِلَىٰ
     translation: to
     transliteration: ilā
   8:
-    arabic: صِرَاطٍ
+    arabic: صِرَٰطٖ
     translation: a path
     transliteration: ṣirāṭin
   9:
-    arabic: مُّسۡتَقِيۡمٍ‏
+    arabic: مُّسۡتَقِيمٖ
     translation: straight
     transliteration: mus'taqīmin
 ---

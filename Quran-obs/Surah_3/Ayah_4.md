@@ -1,13 +1,12 @@
 ---
-arabic_ayat: "مِنۡ قَبۡلُ هُدًى لِّلنَّاسِ وَاَنۡزَلَ الۡفُرۡقَانَ  ؕ​ اِنَّ الَّذِيۡنَ\
-  \ كَفَرُوۡا بِاٰيٰتِ اللّٰهِ لَهُمۡ عَذَابٌ شَدِيۡدٌ  ​ؕ وَاللّٰهُ عَزِيۡزٌ ذُو\
-  \ انۡتِقَامٍؕ‏ \uFEFF\uFEFF"
+arabic_ayat: مِن قَبۡلُ هُدٗى لِّلنَّاسِ وَأَنزَلَ ٱلۡفُرۡقَانَۗ إِنَّ ٱلَّذِينَ كَفَرُواْ
+  بِـَٔايَٰتِ ٱللَّهِ لَهُمۡ عَذَابٞ شَدِيدٞۗ وَٱللَّهُ عَزِيزٞ ذُو ٱنتِقَامٍ
 sentence_translation: previously, as a guide for people, and ˹also˺ revealed the Standard
   ˹to distinguish between right and wrong˺. Surely those who reject Allah’s revelations
   will suffer a severe torment. For Allah is Almighty, capable of punishment.
 word_by_word:
   1:
-    arabic: مِنۡ
+    arabic: مِن
     translation: From
     transliteration: min
   2:
@@ -15,7 +14,7 @@ word_by_word:
     translation: before (this)
     transliteration: qablu
   3:
-    arabic: هُدًى
+    arabic: هُدٗى
     translation: (as) guidance
     transliteration: hudan
   4:
@@ -23,31 +22,31 @@ word_by_word:
     translation: for the mankind
     transliteration: lilnnāsi
   5:
-    arabic: وَاَنۡزَلَ
+    arabic: وَأَنزَلَ
     translation: And (He) revealed
     transliteration: wa-anzala
   6:
-    arabic: الۡفُرۡقَانَ  ؕ​
+    arabic: ٱلۡفُرۡقَانَۗ
     translation: the Criterion
     transliteration: l-fur'qāna
   7:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Verily
     transliteration: inna
   8:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   9:
-    arabic: كَفَرُوۡا
+    arabic: كَفَرُواْ
     translation: disbelieve[d]
     transliteration: kafarū
   10:
-    arabic: بِاٰيٰتِ
+    arabic: بِـَٔايَٰتِ
     translation: in (the) Verses
     transliteration: biāyāti
   11:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (of) Allah
     transliteration: l-lahi
   12:
@@ -55,19 +54,19 @@ word_by_word:
     translation: for them
     transliteration: lahum
   13:
-    arabic: عَذَابٌ
+    arabic: عَذَابٞ
     translation: (is) a punishment
     transliteration: ʿadhābun
   14:
-    arabic: شَدِيۡدٌ  ​ؕ
+    arabic: شَدِيدٞۗ
     translation: severe
     transliteration: shadīdun
   15:
-    arabic: وَاللّٰهُ
+    arabic: وَٱللَّهُ
     translation: And Allah
     transliteration: wal-lahu
   16:
-    arabic: عَزِيۡزٌ
+    arabic: عَزِيزٞ
     translation: (is) All-Mighty
     transliteration: ʿazīzun
   17:
@@ -75,7 +74,7 @@ word_by_word:
     translation: All-Able
     transliteration: dhū
   18:
-    arabic: "انۡتِقَامٍؕ‏ \uFEFF\uFEFF"
+    arabic: ٱنتِقَامٍ
     translation: (of) retribution
     transliteration: intiqāmin
 ---

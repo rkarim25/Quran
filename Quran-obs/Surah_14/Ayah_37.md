@@ -1,31 +1,30 @@
 ---
-arabic_ayat: رَبَّنَاۤ اِنِّىۡۤ اَسۡكَنۡتُ مِنۡ ذُرِّيَّتِىۡ بِوَادٍ غَيۡرِ ذِىۡ زَرۡعٍ
-  عِنۡدَ بَيۡتِكَ الۡمُحَرَّمِۙ رَبَّنَا لِيُقِيۡمُوۡا الصَّلٰوةَ فَاجۡعَلۡ اَ فۡـٮِٕدَةً
-  مِّنَ النَّاسِ تَهۡوِىۡۤ اِلَيۡهِمۡ وَارۡزُقۡهُمۡ مِّنَ الثَّمَرٰتِ لَعَلَّهُمۡ
-  يَشۡكُرُوۡنَ‏
+arabic_ayat: رَّبَّنَآ إِنِّيٓ أَسۡكَنتُ مِن ذُرِّيَّتِي بِوَادٍ غَيۡرِ ذِي زَرۡعٍ
+  عِندَ بَيۡتِكَ ٱلۡمُحَرَّمِ رَبَّنَا لِيُقِيمُواْ ٱلصَّلَوٰةَ فَٱجۡعَلۡ أَفۡـِٔدَةٗ
+  مِّنَ ٱلنَّاسِ تَهۡوِيٓ إِلَيۡهِمۡ وَٱرۡزُقۡهُم مِّنَ ٱلثَّمَرَٰتِ لَعَلَّهُمۡ يَشۡكُرُونَ
 sentence_translation: Our Lord! I have settled some of my offspring in a barren valley,
   near Your Sacred House, our Lord, so that they may establish prayer. So make the
   hearts of ˹believing˺ people incline towards them and provide them with fruits,
   so perhaps they will be thankful.
 word_by_word:
   1:
-    arabic: رَبَّنَاۤ
+    arabic: رَّبَّنَآ
     translation: Our Lord
     transliteration: rabbanā
   2:
-    arabic: اِنِّىۡۤ
+    arabic: إِنِّيٓ
     translation: Indeed, I
     transliteration: innī
   3:
-    arabic: اَسۡكَنۡتُ
+    arabic: أَسۡكَنتُ
     translation: '[I] have settled'
     transliteration: askantu
   4:
-    arabic: مِنۡ
+    arabic: مِن
     translation: (some) of
     transliteration: min
   5:
-    arabic: ذُرِّيَّتِىۡ
+    arabic: ذُرِّيَّتِي
     translation: my offsprings
     transliteration: dhurriyyatī
   6:
@@ -37,7 +36,7 @@ word_by_word:
     translation: not
     transliteration: ghayri
   8:
-    arabic: ذِىۡ
+    arabic: ذِي
     translation: with
     transliteration: dhī
   9:
@@ -45,7 +44,7 @@ word_by_word:
     translation: cultivation
     transliteration: zarʿin
   10:
-    arabic: عِنۡدَ
+    arabic: عِندَ
     translation: near
     transliteration: ʿinda
   11:
@@ -53,7 +52,7 @@ word_by_word:
     translation: Your Sacred House
     transliteration: baytika
   12:
-    arabic: الۡمُحَرَّمِۙ
+    arabic: ٱلۡمُحَرَّمِ
     translation: Your Sacred House
     transliteration: l-muḥarami
   13:
@@ -61,19 +60,19 @@ word_by_word:
     translation: our Lord
     transliteration: rabbanā
   14:
-    arabic: لِيُقِيۡمُوۡا
+    arabic: لِيُقِيمُواْ
     translation: That they may establish
     transliteration: liyuqīmū
   15:
-    arabic: الصَّلٰوةَ
+    arabic: ٱلصَّلَوٰةَ
     translation: the prayers
     transliteration: l-ṣalata
   16:
-    arabic: فَاجۡعَلۡ
+    arabic: فَٱجۡعَلۡ
     translation: So make
     transliteration: fa-ij'ʿal
   17:
-    arabic: اَ فۡـٮِٕدَةً
+    arabic: أَفۡـِٔدَةٗ
     translation: hearts
     transliteration: afidatan
   18:
@@ -81,19 +80,19 @@ word_by_word:
     translation: of
     transliteration: mina
   19:
-    arabic: النَّاسِ
+    arabic: ٱلنَّاسِ
     translation: the men
     transliteration: l-nāsi
   20:
-    arabic: تَهۡوِىۡۤ
+    arabic: تَهۡوِيٓ
     translation: incline
     transliteration: tahwī
   21:
-    arabic: اِلَيۡهِمۡ
+    arabic: إِلَيۡهِمۡ
     translation: towards them
     transliteration: ilayhim
   22:
-    arabic: وَارۡزُقۡهُمۡ
+    arabic: وَٱرۡزُقۡهُم
     translation: and provide them
     transliteration: wa-ur'zuq'hum
   23:
@@ -101,7 +100,7 @@ word_by_word:
     translation: with
     transliteration: mina
   24:
-    arabic: الثَّمَرٰتِ
+    arabic: ٱلثَّمَرَٰتِ
     translation: the fruits
     transliteration: l-thamarāti
   25:
@@ -109,7 +108,7 @@ word_by_word:
     translation: so that they may
     transliteration: laʿallahum
   26:
-    arabic: يَشۡكُرُوۡنَ‏
+    arabic: يَشۡكُرُونَ
     translation: be grateful
     transliteration: yashkurūna
 ---

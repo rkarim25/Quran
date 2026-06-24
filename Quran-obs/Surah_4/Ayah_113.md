@@ -1,8 +1,8 @@
 ---
-arabic_ayat: وَلَوۡلَا فَضۡلُ اللّٰهِ عَلَيۡكَ وَرَحۡمَتُهٗ لَهَمَّتۡ طَّآٮِٕفَةٌ
-  مِّنۡهُمۡ اَنۡ يُّضِلُّوۡكَ ؕ وَمَا يُضِلُّوۡنَ اِلَّاۤ اَنۡفُسَهُمۡ​ وَمَا يَضُرُّوۡنَكَ
-  مِنۡ شَىۡءٍ ​ؕ وَاَنۡزَلَ اللّٰهُ عَلَيۡكَ الۡكِتٰبَ وَالۡحِكۡمَةَ وَعَلَّمَكَ مَا
-  لَمۡ تَكُنۡ تَعۡلَمُ​ؕ وَكَانَ فَضۡلُ اللّٰهِ عَلَيۡكَ عَظِيۡمًا‏
+arabic_ayat: وَلَوۡلَا فَضۡلُ ٱللَّهِ عَلَيۡكَ وَرَحۡمَتُهُۥ لَهَمَّت طَّآئِفَةٞ
+  مِّنۡهُمۡ أَن يُضِلُّوكَ وَمَا يُضِلُّونَ إِلَّآ أَنفُسَهُمۡۖ وَمَا يَضُرُّونَكَ
+  مِن شَيۡءٖۚ وَأَنزَلَ ٱللَّهُ عَلَيۡكَ ٱلۡكِتَٰبَ وَٱلۡحِكۡمَةَ وَعَلَّمَكَ مَا
+  لَمۡ تَكُن تَعۡلَمُۚ وَكَانَ فَضۡلُ ٱللَّهِ عَلَيۡكَ عَظِيمٗا
 sentence_translation: Had it not been for Allah’s grace and mercy, a group of them
   would have sought to deceive you ˹O Prophet˺. Yet they would deceive none but themselves,
   nor can they harm you in the least. Allah has revealed to you the Book and wisdom
@@ -17,7 +17,7 @@ word_by_word:
     translation: (for the) Grace
     transliteration: faḍlu
   3:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (of) Allah
     transliteration: l-lahi
   4:
@@ -25,15 +25,15 @@ word_by_word:
     translation: upon you
     transliteration: ʿalayka
   5:
-    arabic: وَرَحۡمَتُهٗ
+    arabic: وَرَحۡمَتُهُۥ
     translation: 'and His Mercy '
     transliteration: waraḥmatuhu
   6:
-    arabic: لَهَمَّتۡ
+    arabic: لَهَمَّت
     translation: surely (had) resolved
     transliteration: lahammat
   7:
-    arabic: طَّآٮِٕفَةٌ
+    arabic: طَّآئِفَةٞ
     translation: a group
     transliteration: ṭāifatun
   8:
@@ -41,11 +41,11 @@ word_by_word:
     translation: of them
     transliteration: min'hum
   9:
-    arabic: اَنۡ
+    arabic: أَن
     translation: to
     transliteration: an
   10:
-    arabic: يُّضِلُّوۡكَ ؕ
+    arabic: يُضِلُّوكَ
     translation: mislead you
     transliteration: yuḍillūka
   11:
@@ -53,15 +53,15 @@ word_by_word:
     translation: But not
     transliteration: wamā
   12:
-    arabic: يُضِلُّوۡنَ
+    arabic: يُضِلُّونَ
     translation: they mislead
     transliteration: yuḍillūna
   13:
-    arabic: اِلَّاۤ
+    arabic: إِلَّآ
     translation: except
     transliteration: illā
   14:
-    arabic: اَنۡفُسَهُمۡ​
+    arabic: أَنفُسَهُمۡۖ
     translation: themselves
     transliteration: anfusahum
   15:
@@ -69,23 +69,23 @@ word_by_word:
     translation: and not
     transliteration: wamā
   16:
-    arabic: يَضُرُّوۡنَكَ
+    arabic: يَضُرُّونَكَ
     translation: they will harm you
     transliteration: yaḍurrūnaka
   17:
-    arabic: مِنۡ
+    arabic: مِن
     translation: in
     transliteration: min
   18:
-    arabic: شَىۡءٍ ​ؕ
+    arabic: شَيۡءٖۚ
     translation: anything
     transliteration: shayin
   19:
-    arabic: وَاَنۡزَلَ
+    arabic: وَأَنزَلَ
     translation: And has sent down
     transliteration: wa-anzala
   20:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   21:
@@ -93,11 +93,11 @@ word_by_word:
     translation: to you
     transliteration: ʿalayka
   22:
-    arabic: الۡكِتٰبَ
+    arabic: ٱلۡكِتَٰبَ
     translation: the Book
     transliteration: l-kitāba
   23:
-    arabic: وَالۡحِكۡمَةَ
+    arabic: وَٱلۡحِكۡمَةَ
     translation: and [the] Wisdom
     transliteration: wal-ḥik'mata
   24:
@@ -113,11 +113,11 @@ word_by_word:
     translation: not
     transliteration: lam
   27:
-    arabic: تَكُنۡ
+    arabic: تَكُن
     translation: you did
     transliteration: takun
   28:
-    arabic: تَعۡلَمُ​ؕ
+    arabic: تَعۡلَمُۚ
     translation: know
     transliteration: taʿlamu
   29:
@@ -129,7 +129,7 @@ word_by_word:
     translation: (the) Grace
     transliteration: faḍlu
   31:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (of) Allah
     transliteration: l-lahi
   32:
@@ -137,7 +137,7 @@ word_by_word:
     translation: upon you
     transliteration: ʿalayka
   33:
-    arabic: عَظِيۡمًا‏
+    arabic: عَظِيمٗا
     translation: great
     transliteration: ʿaẓīman
 ---

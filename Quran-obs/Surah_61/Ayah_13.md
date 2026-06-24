@@ -1,19 +1,19 @@
 ---
-arabic_ayat: وَاُخۡرٰى تُحِبُّوۡنَهَا​ ؕ نَصۡرٌ مِّنَ اللّٰهِ وَفَـتۡحٌ قَرِيۡبٌ​ ؕ
-  وَبَشِّرِ الۡمُؤۡمِنِيۡنَ‏
+arabic_ayat: وَأُخۡرَىٰ تُحِبُّونَهَاۖ نَصۡرٞ مِّنَ ٱللَّهِ وَفَتۡحٞ قَرِيبٞۗ وَبَشِّرِ
+  ٱلۡمُؤۡمِنِينَ
 sentence_translation: '˹He will also give you˺ another favour that you long for: help
   from Allah and an imminent victory. ˹So˺ give good news ˹O Prophet˺ to the believers.'
 word_by_word:
   1:
-    arabic: وَاُخۡرٰى
+    arabic: وَأُخۡرَىٰ
     translation: And another
     transliteration: wa-ukh'rā
   2:
-    arabic: تُحِبُّوۡنَهَا​ ؕ
+    arabic: تُحِبُّونَهَاۖ
     translation: 'that you love '
     transliteration: tuḥibbūnahā
   3:
-    arabic: نَصۡرٌ
+    arabic: نَصۡرٞ
     translation: a help
     transliteration: naṣrun
   4:
@@ -21,15 +21,15 @@ word_by_word:
     translation: from
     transliteration: mina
   5:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   6:
-    arabic: وَفَـتۡحٌ
+    arabic: وَفَتۡحٞ
     translation: and a victory
     transliteration: wafatḥun
   7:
-    arabic: قَرِيۡبٌ​ ؕ
+    arabic: قَرِيبٞۗ
     translation: near
     transliteration: qarībun
   8:
@@ -37,7 +37,7 @@ word_by_word:
     translation: and give glad tidings
     transliteration: wabashiri
   9:
-    arabic: الۡمُؤۡمِنِيۡنَ‏
+    arabic: ٱلۡمُؤۡمِنِينَ
     translation: (to) the believers
     transliteration: l-mu'minīna
 ---

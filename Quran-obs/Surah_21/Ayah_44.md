@@ -1,7 +1,7 @@
 ---
-arabic_ayat: بَلۡ مَتَّـعۡنَا هٰٓؤُلَاۤءِ وَ اٰبَآءَهُمۡ حَتّٰى طَالَ عَلَيۡهِمُ
-  الۡعُمُرُ ​ؕ اَفَلَا يَرَوۡنَ اَنَّا نَاۡتِى الۡاَرۡضَ نَـنۡقُصُهَا مِنۡ اَطۡرَافِهَا
-  ؕ​ اَفَهُمُ الۡغٰلِبُوۡنَ‏
+arabic_ayat: بَلۡ مَتَّعۡنَا هَٰٓؤُلَآءِ وَءَابَآءَهُمۡ حَتَّىٰ طَالَ عَلَيۡهِمُ
+  ٱلۡعُمُرُۗ أَفَلَا يَرَوۡنَ أَنَّا نَأۡتِي ٱلۡأَرۡضَ نَنقُصُهَا مِنۡ أَطۡرَافِهَآۚ
+  أَفَهُمُ ٱلۡغَٰلِبُونَ
 sentence_translation: In fact, We have allowed enjoyment for these ˹Meccans˺ and their
   forefathers for such a long time ˹that they took it for granted˺. Do they not see
   that We gradually reduce ˹their˺ land from its borders? Is it they who will then
@@ -12,19 +12,19 @@ word_by_word:
     translation: Nay
     transliteration: bal
   2:
-    arabic: مَتَّـعۡنَا
+    arabic: مَتَّعۡنَا
     translation: We gave provision
     transliteration: mattaʿnā
   3:
-    arabic: هٰٓؤُلَاۤءِ
+    arabic: هَٰٓؤُلَآءِ
     translation: (to) these
     transliteration: hāulāi
   4:
-    arabic: وَ اٰبَآءَهُمۡ
+    arabic: وَءَابَآءَهُمۡ
     translation: and their fathers
     transliteration: waābāahum
   5:
-    arabic: حَتّٰى
+    arabic: حَتَّىٰ
     translation: until
     transliteration: ḥattā
   6:
@@ -36,11 +36,11 @@ word_by_word:
     translation: for them
     transliteration: ʿalayhimu
   8:
-    arabic: الۡعُمُرُ ​ؕ
+    arabic: ٱلۡعُمُرُۗ
     translation: the life
     transliteration: l-ʿumuru
   9:
-    arabic: اَفَلَا
+    arabic: أَفَلَا
     translation: Then do not
     transliteration: afalā
   10:
@@ -48,19 +48,19 @@ word_by_word:
     translation: they see
     transliteration: yarawna
   11:
-    arabic: اَنَّا
+    arabic: أَنَّا
     translation: that We
     transliteration: annā
   12:
-    arabic: نَاۡتِى
+    arabic: نَأۡتِي
     translation: We come
     transliteration: natī
   13:
-    arabic: الۡاَرۡضَ
+    arabic: ٱلۡأَرۡضَ
     translation: (to) the land
     transliteration: l-arḍa
   14:
-    arabic: نَـنۡقُصُهَا
+    arabic: نَنقُصُهَا
     translation: We reduce it
     transliteration: nanquṣuhā
   15:
@@ -68,15 +68,15 @@ word_by_word:
     translation: from
     transliteration: min
   16:
-    arabic: اَطۡرَافِهَا ؕ​
+    arabic: أَطۡرَافِهَآۚ
     translation: its borders
     transliteration: aṭrāfihā
   17:
-    arabic: اَفَهُمُ
+    arabic: أَفَهُمُ
     translation: So is (it) they
     transliteration: afahumu
   18:
-    arabic: الۡغٰلِبُوۡنَ‏
+    arabic: ٱلۡغَٰلِبُونَ
     translation: (who will be) overcoming
     transliteration: l-ghālibūna
 ---

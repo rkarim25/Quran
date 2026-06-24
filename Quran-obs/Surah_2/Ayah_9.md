@@ -1,23 +1,23 @@
 ---
-arabic_ayat: يُخٰدِعُوۡنَ اللّٰهَ وَالَّذِيۡنَ اٰمَنُوۡا ​ۚ وَمَا يَخۡدَعُوۡنَ اِلَّاۤ
-  اَنۡفُسَهُمۡ وَمَا يَشۡعُرُوۡنَؕ‏
+arabic_ayat: يُخَٰدِعُونَ ٱللَّهَ وَٱلَّذِينَ ءَامَنُواْ وَمَا يَخۡدَعُونَ إِلَّآ
+  أَنفُسَهُمۡ وَمَا يَشۡعُرُونَ
 sentence_translation: They seek to deceive Allah and the believers, yet they only
   deceive themselves, but they fail to perceive it.
 word_by_word:
   1:
-    arabic: يُخٰدِعُوۡنَ
+    arabic: يُخَٰدِعُونَ
     translation: They seek to deceive
     transliteration: yukhādiʿūna
   2:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   3:
-    arabic: وَالَّذِيۡنَ
+    arabic: وَٱلَّذِينَ ءَ
     translation: and those who
     transliteration: wa-alladhīna
   4:
-    arabic: اٰمَنُوۡا ​ۚ
+    arabic: امَنُواْ
     translation: believe[d]
     transliteration: āmanū
   5:
@@ -25,15 +25,15 @@ word_by_word:
     translation: and not
     transliteration: wamā
   6:
-    arabic: يَخۡدَعُوۡنَ
+    arabic: يَخۡدَعُونَ
     translation: they deceive
     transliteration: yakhdaʿūna
   7:
-    arabic: اِلَّاۤ
+    arabic: إِلَّآ
     translation: except
     transliteration: illā
   8:
-    arabic: اَنۡفُسَهُمۡ
+    arabic: أَنفُسَهُمۡ
     translation: themselves
     transliteration: anfusahum
   9:
@@ -41,7 +41,7 @@ word_by_word:
     translation: and not
     transliteration: wamā
   10:
-    arabic: يَشۡعُرُوۡنَؕ‏
+    arabic: يَشۡعُرُونَ
     translation: they realize (it)
     transliteration: yashʿurūna
 ---

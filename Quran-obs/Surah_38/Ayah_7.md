@@ -1,6 +1,6 @@
 ---
-arabic_ayat: مَا سَمِعۡنَا بِهٰذَا فِى الۡمِلَّةِ الۡاٰخِرَةِ ۖۚ اِنۡ هٰذَاۤ اِلَّا
-  اخۡتِلَاقٌ ​ ۖ​ۚ‏
+arabic_ayat: مَا سَمِعۡنَا بِهَٰذَا فِي ٱلۡمِلَّةِ ٱلۡأٓخِرَةِ إِنۡ هَٰذَآ إِلَّا
+  ٱخۡتِلَٰقٌ
 sentence_translation: We have never heard of this in the previous faith. This is nothing
   but a fabrication.
 word_by_word:
@@ -13,35 +13,35 @@ word_by_word:
     translation: we heard
     transliteration: samiʿ'nā
   3:
-    arabic: بِهٰذَا
+    arabic: بِهَٰذَا
     translation: of this
     transliteration: bihādhā
   4:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   5:
-    arabic: الۡمِلَّةِ
+    arabic: ٱلۡمِلَّةِ
     translation: the religion
     transliteration: l-milati
   6:
-    arabic: الۡاٰخِرَةِ ۖۚ
+    arabic: ٱلۡأٓخِرَةِ
     translation: the last
     transliteration: l-ākhirati
   7:
-    arabic: اِنۡ
+    arabic: إِنۡ
     translation: Not
     transliteration: in
   8:
-    arabic: هٰذَاۤ
+    arabic: هَٰذَآ
     translation: (is) this
     transliteration: hādhā
   9:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: but
     transliteration: illā
   10:
-    arabic: اخۡتِلَاقٌ ​ ۖ​ۚ‏
+    arabic: ٱخۡتِلَٰقٌ
     translation: a fabrication
     transliteration: ikh'tilāqun
 ---

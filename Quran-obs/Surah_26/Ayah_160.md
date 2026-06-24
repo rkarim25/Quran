@@ -1,5 +1,5 @@
 ---
-arabic_ayat: كَذَّبَتۡ قَوۡمُ لُوۡطٍ اۨلۡمُرۡسَلِيۡنَ​ ۖ ​ۚ‏
+arabic_ayat: كَذَّبَتۡ قَوۡمُ لُوطٍ ٱلۡمُرۡسَلِينَ
 sentence_translation: The people of Lot rejected the messengers
 word_by_word:
   1:
@@ -11,11 +11,11 @@ word_by_word:
     translation: (the) people
     transliteration: qawmu
   3:
-    arabic: لُوۡطٍ
+    arabic: لُوطٍ
     translation: (of) Lut
     transliteration: lūṭin
   4:
-    arabic: اۨلۡمُرۡسَلِيۡنَ​ ۖ ​ۚ‏
+    arabic: ٱلۡمُرۡسَلِينَ
     translation: the Messengers
     transliteration: l-mur'salīna
 ---

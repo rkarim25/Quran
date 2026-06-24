@@ -1,6 +1,5 @@
 ---
-arabic_ayat: "يَوۡمَ لَا يُغۡنِىۡ عَنۡهُمۡ كَيۡدُهُمۡ شَيۡـًٔـا وَّلَا هُمۡ يُنۡصَرُوۡنَؕ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: يَوۡمَ لَا يُغۡنِي عَنۡهُمۡ كَيۡدُهُمۡ شَيۡـٔٗا وَلَا هُمۡ يُنصَرُونَ
 sentence_translation: the Day their scheming will be of no benefit to them whatsoever,
   nor will they be helped.
 word_by_word:
@@ -13,7 +12,7 @@ word_by_word:
     translation: not
     transliteration: lā
   3:
-    arabic: يُغۡنِىۡ
+    arabic: يُغۡنِي
     translation: will avail
     transliteration: yugh'nī
   4:
@@ -25,11 +24,11 @@ word_by_word:
     translation: their plotting
     transliteration: kayduhum
   6:
-    arabic: شَيۡـًٔـا
+    arabic: شَيۡـٔٗا
     translation: (in) anything
     transliteration: shayan
   7:
-    arabic: وَّلَا
+    arabic: وَلَا
     translation: and not
     transliteration: walā
   8:
@@ -37,7 +36,7 @@ word_by_word:
     translation: they
     transliteration: hum
   9:
-    arabic: "يُنۡصَرُوۡنَؕ‏ \uFEFF\uFEFF"
+    arabic: يُنصَرُونَ
     translation: will be helped
     transliteration: yunṣarūna
 ---

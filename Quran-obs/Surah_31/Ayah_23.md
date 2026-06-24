@@ -1,12 +1,12 @@
 ---
-arabic_ayat: وَمَنۡ كَفَرَ فَلَا يَحۡزُنۡكَ كُفۡرُهٗ ؕ اِلَيۡنَا مَرۡجِعُهُمۡ فَنُنَبِّئُهُمۡ
-  بِمَا عَمِلُوۡا ​ؕ اِنَّ اللّٰهَ عَلِيۡمٌۢ بِذَاتِ الصُّدُوۡرِ‏
+arabic_ayat: وَمَن كَفَرَ فَلَا يَحۡزُنكَ كُفۡرُهُۥٓۚ إِلَيۡنَا مَرۡجِعُهُمۡ فَنُنَبِّئُهُم
+  بِمَا عَمِلُوٓاْۚ إِنَّ ٱللَّهَ عَلِيمُۢ بِذَاتِ ٱلصُّدُورِ
 sentence_translation: But whoever disbelieves, do not let their disbelief grieve you
   ˹O Prophet˺. To Us is their return, and We will inform them of all they did. Surely
   Allah knows best what is ˹hidden˺ in the heart.
 word_by_word:
   1:
-    arabic: وَمَنۡ
+    arabic: وَمَن
     translation: And whoever
     transliteration: waman
   2:
@@ -18,15 +18,15 @@ word_by_word:
     translation: let not
     transliteration: falā
   4:
-    arabic: يَحۡزُنۡكَ
+    arabic: يَحۡزُنكَ
     translation: grieve you
     transliteration: yaḥzunka
   5:
-    arabic: كُفۡرُهٗ ؕ
+    arabic: كُفۡرُهُۥٓۚ
     translation: his disbelief
     transliteration: kuf'ruhu
   6:
-    arabic: اِلَيۡنَا
+    arabic: إِلَيۡنَا
     translation: To Us
     transliteration: ilaynā
   7:
@@ -34,7 +34,7 @@ word_by_word:
     translation: (is) their return
     transliteration: marjiʿuhum
   8:
-    arabic: فَنُنَبِّئُهُمۡ
+    arabic: فَنُنَبِّئُهُم
     translation: then We will inform them
     transliteration: fanunabbi-uhum
   9:
@@ -42,19 +42,19 @@ word_by_word:
     translation: of what
     transliteration: bimā
   10:
-    arabic: عَمِلُوۡا ​ؕ
+    arabic: عَمِلُوٓاْۚ
     translation: they did
     transliteration: ʿamilū
   11:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   12:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   13:
-    arabic: عَلِيۡمٌۢ
+    arabic: عَلِيمُۢ
     translation: (is) the All-Knower
     transliteration: ʿalīmun
   14:
@@ -62,7 +62,7 @@ word_by_word:
     translation: of what
     transliteration: bidhāti
   15:
-    arabic: الصُّدُوۡرِ‏
+    arabic: ٱلصُّدُورِ
     translation: (is in) the breasts
     transliteration: l-ṣudūri
 ---

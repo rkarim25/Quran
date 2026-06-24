@@ -1,19 +1,19 @@
 ---
-arabic_ayat: اَمَّنۡ هٰذَا الَّذِىۡ هُوَ جُنۡدٌ لَّكُمۡ يَنۡصُرُكُمۡ مِّنۡ دُوۡنِ
-  الرَّحۡمٰنِ​ؕ اِنِ الۡكٰفِرُوۡنَ اِلَّا فِىۡ غُرُوۡرٍ​ۚ‏
+arabic_ayat: أَمَّنۡ هَٰذَا ٱلَّذِي هُوَ جُندٞ لَّكُمۡ يَنصُرُكُم مِّن دُونِ ٱلرَّحۡمَٰنِۚ
+  إِنِ ٱلۡكَٰفِرُونَ إِلَّا فِي غُرُورٍ
 sentence_translation: Also, which ˹powerless˺ force will come to your help instead
   of the Most Compassionate? Indeed, the disbelievers are only ˹lost˺ in delusion.
 word_by_word:
   1:
-    arabic: اَمَّنۡ
+    arabic: أَمَّنۡ
     translation: Who is
     transliteration: amman
   2:
-    arabic: هٰذَا
+    arabic: هَٰذَا
     translation: this
     transliteration: hādhā
   3:
-    arabic: الَّذِىۡ
+    arabic: ٱلَّذِي
     translation: the one
     transliteration: alladhī
   4:
@@ -21,7 +21,7 @@ word_by_word:
     translation: he
     transliteration: huwa
   5:
-    arabic: جُنۡدٌ
+    arabic: جُندٞ
     translation: (is) an army
     transliteration: jundun
   6:
@@ -29,39 +29,39 @@ word_by_word:
     translation: for you
     transliteration: lakum
   7:
-    arabic: يَنۡصُرُكُمۡ
+    arabic: يَنصُرُكُم
     translation: to help you
     transliteration: yanṣurukum
   8:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: from
     transliteration: min
   9:
-    arabic: دُوۡنِ
+    arabic: دُونِ
     translation: besides
     transliteration: dūni
   10:
-    arabic: الرَّحۡمٰنِ​ؕ
+    arabic: ٱلرَّحۡمَٰنِۚ
     translation: the Most Gracious
     transliteration: l-raḥmāni
   11:
-    arabic: اِنِ
+    arabic: إِنِ
     translation: Not
     transliteration: ini
   12:
-    arabic: الۡكٰفِرُوۡنَ
+    arabic: ٱلۡكَٰفِرُونَ
     translation: (are) the disbelievers
     transliteration: l-kāfirūna
   13:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: but
     transliteration: illā
   14:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   15:
-    arabic: غُرُوۡرٍ​ۚ‏
+    arabic: غُرُورٍ
     translation: delusion
     transliteration: ghurūrin
 ---

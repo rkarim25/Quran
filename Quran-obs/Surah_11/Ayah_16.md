@@ -1,19 +1,19 @@
 ---
-arabic_ayat: اُولٰٓٮِٕكَ الَّذِيۡنَ لَـيۡسَ لَهُمۡ فِىۡ الۡاٰخِرَةِ اِلَّا النَّارُ​
-  ​ۖ  وَحَبِطَ مَا صَنَعُوۡا فِيۡهَا وَبٰطِلٌ مَّا كَانُوۡا يَعۡمَلُوۡنَ‏
+arabic_ayat: أُوْلَٰٓئِكَ ٱلَّذِينَ لَيۡسَ لَهُمۡ فِي ٱلۡأٓخِرَةِ إِلَّا ٱلنَّارُۖ
+  وَحَبِطَ مَا صَنَعُواْ فِيهَا وَبَٰطِلٞ مَّا كَانُواْ يَعۡمَلُونَ
 sentence_translation: It is they who will have nothing in the Hereafter except the
   Fire. Their efforts in this life will be fruitless and their deeds will be useless.
 word_by_word:
   1:
-    arabic: اُولٰٓٮِٕكَ
+    arabic: أُوْلَٰٓئِكَ
     translation: Those
     transliteration: ulāika
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: '(are) the ones who '
     transliteration: alladhīna
   3:
-    arabic: لَـيۡسَ
+    arabic: لَيۡسَ
     translation: (is) not
     transliteration: laysa
   4:
@@ -21,19 +21,19 @@ word_by_word:
     translation: for them
     transliteration: lahum
   5:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   6:
-    arabic: الۡاٰخِرَةِ
+    arabic: ٱلۡأٓخِرَةِ
     translation: the Hereafter
     transliteration: l-ākhirati
   7:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   8:
-    arabic: النَّارُ​ ​ۖ 
+    arabic: ٱلنَّارُۖ
     translation: the Fire
     transliteration: l-nāru
   9:
@@ -45,15 +45,15 @@ word_by_word:
     translation: what
     transliteration: mā
   11:
-    arabic: صَنَعُوۡا
+    arabic: صَنَعُواْ
     translation: they did
     transliteration: ṣanaʿū
   12:
-    arabic: فِيۡهَا
+    arabic: فِيهَا
     translation: therein
     transliteration: fīhā
   13:
-    arabic: وَبٰطِلٌ
+    arabic: وَبَٰطِلٞ
     translation: and (is) worthless
     transliteration: wabāṭilun
   14:
@@ -61,11 +61,11 @@ word_by_word:
     translation: what
     transliteration: mā
   15:
-    arabic: كَانُوۡا
+    arabic: كَانُواْ
     translation: they used (to)
     transliteration: kānū
   16:
-    arabic: يَعۡمَلُوۡنَ‏
+    arabic: يَعۡمَلُونَ
     translation: do
     transliteration: yaʿmalūna
 ---

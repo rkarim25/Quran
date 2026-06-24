@@ -1,16 +1,16 @@
 ---
-arabic_ayat: فَالۡيَوۡمَ نُـنَجِّيۡكَ بِبَدَنِكَ لِتَكُوۡنَ لِمَنۡ خَلۡفَكَ اٰيَةً 
-  ؕ وَاِنَّ كَثِيۡرًا مِّنَ النَّاسِ عَنۡ اٰيٰتِنَا لَغٰفِلُوۡنَ‏
+arabic_ayat: فَٱلۡيَوۡمَ نُنَجِّيكَ بِبَدَنِكَ لِتَكُونَ لِمَنۡ خَلۡفَكَ ءَايَةٗۚ
+  وَإِنَّ كَثِيرٗا مِّنَ ٱلنَّاسِ عَنۡ ءَايَٰتِنَا لَغَٰفِلُونَ
 sentence_translation: Today We will preserve your corpse so that you may become an
   example for those who come after you. And surely most people are heedless of Our
   examples!”
 word_by_word:
   1:
-    arabic: فَالۡيَوۡمَ
+    arabic: فَٱلۡيَوۡمَ
     translation: So today
     transliteration: fal-yawma
   2:
-    arabic: نُـنَجِّيۡكَ
+    arabic: نُنَجِّيكَ
     translation: We will save you
     transliteration: nunajjīka
   3:
@@ -18,7 +18,7 @@ word_by_word:
     translation: in your body
     transliteration: bibadanika
   4:
-    arabic: لِتَكُوۡنَ
+    arabic: لِتَكُونَ
     translation: that you may be
     transliteration: litakūna
   5:
@@ -26,19 +26,19 @@ word_by_word:
     translation: for (those) who
     transliteration: liman
   6:
-    arabic: خَلۡفَكَ
+    arabic: خَلۡفَكَ ءَ
     translation: succeed you
     transliteration: khalfaka
   7:
-    arabic: اٰيَةً  ؕ
+    arabic: ايَةٗۚ
     translation: a sign
     transliteration: āyatan
   8:
-    arabic: وَاِنَّ
+    arabic: وَإِنَّ
     translation: And indeed
     transliteration: wa-inna
   9:
-    arabic: كَثِيۡرًا
+    arabic: كَثِيرٗا
     translation: many
     transliteration: kathīran
   10:
@@ -46,19 +46,19 @@ word_by_word:
     translation: among
     transliteration: mina
   11:
-    arabic: النَّاسِ
+    arabic: ٱلنَّاسِ
     translation: the mankind
     transliteration: l-nāsi
   12:
-    arabic: عَنۡ
+    arabic: عَنۡ ءَ
     translation: of
     transliteration: ʿan
   13:
-    arabic: اٰيٰتِنَا
+    arabic: ايَٰتِنَا
     translation: Our Signs
     transliteration: āyātinā
   14:
-    arabic: لَغٰفِلُوۡنَ‏
+    arabic: لَغَٰفِلُونَ
     translation: (are) surely heedless
     transliteration: laghāfilūna
 ---

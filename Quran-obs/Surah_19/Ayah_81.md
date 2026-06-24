@@ -1,31 +1,30 @@
 ---
-arabic_ayat: "وَاتَّخَذُوۡا مِنۡ دُوۡنِ اللّٰهِ اٰلِهَةً لِّيَكُوۡنُوۡا لَهُمۡ عِزًّا\
-  \ ۙ‏ \uFEFF\uFEFF"
+arabic_ayat: وَٱتَّخَذُواْ مِن دُونِ ٱللَّهِ ءَالِهَةٗ لِّيَكُونُواْ لَهُمۡ عِزّٗا
 sentence_translation: They have taken other gods, instead of Allah, seeking strength
   ˹and protection˺ through them.
 word_by_word:
   1:
-    arabic: وَاتَّخَذُوۡا
+    arabic: وَٱتَّخَذُواْ
     translation: And they have taken
     transliteration: wa-ittakhadhū
   2:
-    arabic: مِنۡ
+    arabic: مِن
     translation: besides Allah
     transliteration: min
   3:
-    arabic: دُوۡنِ
+    arabic: دُونِ
     translation: besides Allah
     transliteration: dūni
   4:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ ءَ
     translation: besides Allah
     transliteration: l-lahi
   5:
-    arabic: اٰلِهَةً
+    arabic: الِهَةٗ
     translation: gods
     transliteration: ālihatan
   6:
-    arabic: لِّيَكُوۡنُوۡا
+    arabic: لِّيَكُونُواْ
     translation: that they may be
     transliteration: liyakūnū
   7:
@@ -33,7 +32,7 @@ word_by_word:
     translation: for them
     transliteration: lahum
   8:
-    arabic: "عِزًّا ۙ‏ \uFEFF\uFEFF"
+    arabic: عِزّٗا
     translation: an honor
     transliteration: ʿizzan
 ---

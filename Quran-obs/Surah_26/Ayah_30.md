@@ -1,5 +1,5 @@
 ---
-arabic_ayat: قَالَ اَوَلَوۡ جِئۡتُكَ بِشَىۡءٍ مُّبِيۡنٍ​ۚ‏
+arabic_ayat: قَالَ أَوَلَوۡ جِئۡتُكَ بِشَيۡءٖ مُّبِينٖ
 sentence_translation: Moses responded, “Even if I bring you a clear proof?”
 word_by_word:
   1:
@@ -7,7 +7,7 @@ word_by_word:
     translation: He said
     transliteration: qāla
   2:
-    arabic: اَوَلَوۡ
+    arabic: أَوَلَوۡ
     translation: Even if
     transliteration: awalaw
   3:
@@ -15,11 +15,11 @@ word_by_word:
     translation: I bring you
     transliteration: ji'tuka
   4:
-    arabic: بِشَىۡءٍ
+    arabic: بِشَيۡءٖ
     translation: something
     transliteration: bishayin
   5:
-    arabic: مُّبِيۡنٍ​ۚ‏
+    arabic: مُّبِينٖ
     translation: manifest
     transliteration: mubīnin
 ---

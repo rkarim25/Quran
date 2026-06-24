@@ -1,31 +1,31 @@
 ---
-arabic_ayat: اِنَّ السَّاعَةَ اٰتِيَـةٌ اَكَادُ اُخۡفِيۡهَا لِتُجۡزٰى كُلُّ نَفۡسٍۢ
-  بِمَا تَسۡعٰى‏
+arabic_ayat: إِنَّ ٱلسَّاعَةَ ءَاتِيَةٌ أَكَادُ أُخۡفِيهَا لِتُجۡزَىٰ كُلُّ نَفۡسِۭ
+  بِمَا تَسۡعَىٰ
 sentence_translation: The Hour is sure to come. My Will is to keep it hidden, so that
   every soul may be rewarded according to their efforts.
 word_by_word:
   1:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   2:
-    arabic: السَّاعَةَ
+    arabic: ٱلسَّاعَةَ ءَ
     translation: the Hour
     transliteration: l-sāʿata
   3:
-    arabic: اٰتِيَـةٌ
+    arabic: اتِيَةٌ
     translation: (will be) coming
     transliteration: ātiyatun
   4:
-    arabic: اَكَادُ
+    arabic: أَكَادُ
     translation: I almost
     transliteration: akādu
   5:
-    arabic: اُخۡفِيۡهَا
+    arabic: أُخۡفِيهَا
     translation: '[I] hide it'
     transliteration: ukh'fīhā
   6:
-    arabic: لِتُجۡزٰى
+    arabic: لِتُجۡزَىٰ
     translation: that may be recompensed
     transliteration: lituj'zā
   7:
@@ -33,7 +33,7 @@ word_by_word:
     translation: every
     transliteration: kullu
   8:
-    arabic: نَفۡسٍۢ
+    arabic: نَفۡسِۭ
     translation: soul
     transliteration: nafsin
   9:
@@ -41,7 +41,7 @@ word_by_word:
     translation: for what
     transliteration: bimā
   10:
-    arabic: تَسۡعٰى‏
+    arabic: تَسۡعَىٰ
     translation: it strives
     transliteration: tasʿā
 ---

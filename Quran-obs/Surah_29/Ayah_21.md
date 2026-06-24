@@ -1,6 +1,5 @@
 ---
-arabic_ayat: "يُعَذِّبُ مَنۡ يَّشَآءُ وَيَرۡحَمُ مَنۡ يَّشَآءُ ​ۚ وَاِلَيۡهِ تُقۡلَبُوۡنَ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: يُعَذِّبُ مَن يَشَآءُ وَيَرۡحَمُ مَن يَشَآءُۖ وَإِلَيۡهِ تُقۡلَبُونَ
 sentence_translation: He punishes whoever He wills, and shows mercy to whoever He
   wills. And you will ˹all˺ be returned to Him.
 word_by_word:
@@ -9,11 +8,11 @@ word_by_word:
     translation: He punishes
     transliteration: yuʿadhibu
   2:
-    arabic: مَنۡ
+    arabic: مَن
     translation: whom
     transliteration: man
   3:
-    arabic: يَّشَآءُ
+    arabic: يَشَآءُ
     translation: He wills
     transliteration: yashāu
   4:
@@ -21,19 +20,19 @@ word_by_word:
     translation: and has mercy
     transliteration: wayarḥamu
   5:
-    arabic: مَنۡ
+    arabic: مَن
     translation: (on) whom
     transliteration: man
   6:
-    arabic: يَّشَآءُ ​ۚ
+    arabic: يَشَآءُۖ
     translation: He wills
     transliteration: yashāu
   7:
-    arabic: وَاِلَيۡهِ
+    arabic: وَإِلَيۡهِ
     translation: and to Him
     transliteration: wa-ilayhi
   8:
-    arabic: "تُقۡلَبُوۡنَ‏ \uFEFF\uFEFF"
+    arabic: تُقۡلَبُونَ
     translation: you will be returned
     transliteration: tuq'labūna
 ---

@@ -1,29 +1,29 @@
 ---
-arabic_ayat: وَّاِذًا لَّاٰتَيۡنٰهُمۡ مِّنۡ لَّدُنَّاۤ اَجۡرًا عَظِيۡمًا ۙ‏
+arabic_ayat: وَإِذٗا لَّأٓتَيۡنَٰهُم مِّن لَّدُنَّآ أَجۡرًا عَظِيمٗا
 sentence_translation: and We would have granted them a great reward by Our grace
 word_by_word:
   1:
-    arabic: وَّاِذًا
+    arabic: وَإِذٗا
     translation: And then
     transliteration: wa-idhan
   2:
-    arabic: لَّاٰتَيۡنٰهُمۡ
+    arabic: لَّأٓتَيۡنَٰهُم
     translation: We would (have) given them
     transliteration: laātaynāhum
   3:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: from
     transliteration: min
   4:
-    arabic: لَّدُنَّاۤ
+    arabic: لَّدُنَّآ
     translation: Ourselves
     transliteration: ladunnā
   5:
-    arabic: اَجۡرًا
+    arabic: أَجۡرًا
     translation: a reward
     transliteration: ajran
   6:
-    arabic: عَظِيۡمًا ۙ‏
+    arabic: عَظِيمٗا
     translation: great
     transliteration: ʿaẓīman
 ---

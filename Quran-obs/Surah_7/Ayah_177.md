@@ -1,6 +1,6 @@
 ---
-arabic_ayat: سَآءَ مَثَلَاْ ۨالۡقَوۡمُ الَّذِيۡنَ كَذَّبُوۡا بِاٰيٰتِنَا وَاَنۡفُسَهُمۡ
-  كَانُوۡا يَظۡلِمُوۡنَ‏
+arabic_ayat: سَآءَ مَثَلًا ٱلۡقَوۡمُ ٱلَّذِينَ كَذَّبُواْ بِـَٔايَٰتِنَا وَأَنفُسَهُمۡ
+  كَانُواْ يَظۡلِمُونَ
 sentence_translation: What an evil example of those who denied Our signs! They ˹only˺
   wronged their own souls.
 word_by_word:
@@ -9,35 +9,35 @@ word_by_word:
     translation: Evil
     transliteration: sāa
   2:
-    arabic: مَثَلَاْ
+    arabic: مَثَلًا
     translation: (as) an example
     transliteration: mathalan
   3:
-    arabic: ۨالۡقَوۡمُ
+    arabic: ٱلۡقَوۡمُ
     translation: (are) the people
     transliteration: l-qawmu
   4:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   5:
-    arabic: كَذَّبُوۡا
+    arabic: كَذَّبُواْ
     translation: denied
     transliteration: kadhabū
   6:
-    arabic: بِاٰيٰتِنَا
+    arabic: بِـَٔايَٰتِنَا
     translation: Our Signs
     transliteration: biāyātinā
   7:
-    arabic: وَاَنۡفُسَهُمۡ
+    arabic: وَأَنفُسَهُمۡ
     translation: and themselves
     transliteration: wa-anfusahum
   8:
-    arabic: كَانُوۡا
+    arabic: كَانُواْ
     translation: they used to
     transliteration: kānū
   9:
-    arabic: يَظۡلِمُوۡنَ‏
+    arabic: يَظۡلِمُونَ
     translation: wrong
     transliteration: yaẓlimūna
 ---

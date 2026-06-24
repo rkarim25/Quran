@@ -1,11 +1,11 @@
 ---
-arabic_ayat: اَ لَّذِيۡنَ ضَلَّ سَعۡيُهُمۡ فِى الۡحَيٰوةِ الدُّنۡيَا وَهُمۡ يَحۡسَبُوۡنَ
-  اَنَّهُمۡ يُحۡسِنُوۡنَ صُنۡعًا‏
+arabic_ayat: ٱلَّذِينَ ضَلَّ سَعۡيُهُمۡ فِي ٱلۡحَيَوٰةِ ٱلدُّنۡيَا وَهُمۡ يَحۡسَبُونَ
+  أَنَّهُمۡ يُحۡسِنُونَ صُنۡعًا
 sentence_translation: ˹They are˺ those whose efforts are in vain in this worldly life,
   while they think they are doing good!”
 word_by_word:
   1:
-    arabic: اَ لَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: 'Those '
     transliteration: alladhīna
   2:
@@ -17,15 +17,15 @@ word_by_word:
     translation: their effort
     transliteration: saʿyuhum
   4:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   5:
-    arabic: الۡحَيٰوةِ
+    arabic: ٱلۡحَيَوٰةِ
     translation: the life
     transliteration: l-ḥayati
   6:
-    arabic: الدُّنۡيَا
+    arabic: ٱلدُّنۡيَا
     translation: (of) the world
     transliteration: l-dun'yā
   7:
@@ -33,19 +33,19 @@ word_by_word:
     translation: while they
     transliteration: wahum
   8:
-    arabic: يَحۡسَبُوۡنَ
+    arabic: يَحۡسَبُونَ
     translation: think
     transliteration: yaḥsabūna
   9:
-    arabic: اَنَّهُمۡ
+    arabic: أَنَّهُمۡ
     translation: that they
     transliteration: annahum
   10:
-    arabic: يُحۡسِنُوۡنَ
+    arabic: يُحۡسِنُونَ
     translation: (were) acquiring good
     transliteration: yuḥ'sinūna
   11:
-    arabic: صُنۡعًا‏
+    arabic: صُنۡعًا
     translation: (in) work
     transliteration: ṣun'ʿan
 ---

@@ -1,31 +1,31 @@
 ---
-arabic_ayat: "اٰخِذِيۡنَ مَاۤ اٰتٰٮهُمۡ رَبُّهُمۡ​ؕ اِنَّهُمۡ كَانُوۡا قَبۡلَ ذٰلِكَ\
-  \ مُحۡسِنِيۡنَؕ‏ \uFEFF\uFEFF"
+arabic_ayat: ءَاخِذِينَ مَآ ءَاتَىٰهُمۡ رَبُّهُمۡۚ إِنَّهُمۡ كَانُواْ قَبۡلَ ذَٰلِكَ
+  مُحۡسِنِينَ
 sentence_translation: '˹joyfully˺ receiving what their Lord will grant them. Before
   this ˹reward˺ they were truly good-doers ˹in the world˺:'
 word_by_word:
   1:
-    arabic: اٰخِذِيۡنَ
+    arabic: ءَاخِذِينَ
     translation: Taking
     transliteration: ākhidhīna
   2:
-    arabic: مَاۤ
+    arabic: مَآ ءَ
     translation: what
     transliteration: mā
   3:
-    arabic: اٰتٰٮهُمۡ
+    arabic: اتَىٰهُمۡ
     translation: their Lord has given them
     transliteration: ātāhum
   4:
-    arabic: رَبُّهُمۡ​ؕ
+    arabic: رَبُّهُمۡۚ
     translation: their Lord has given them
     transliteration: rabbuhum
   5:
-    arabic: اِنَّهُمۡ
+    arabic: إِنَّهُمۡ
     translation: Indeed, they
     transliteration: innahum
   6:
-    arabic: كَانُوۡا
+    arabic: كَانُواْ
     translation: were
     transliteration: kānū
   7:
@@ -33,11 +33,11 @@ word_by_word:
     translation: before
     transliteration: qabla
   8:
-    arabic: ذٰلِكَ
+    arabic: ذَٰلِكَ
     translation: that
     transliteration: dhālika
   9:
-    arabic: "مُحۡسِنِيۡنَؕ‏ \uFEFF\uFEFF"
+    arabic: مُحۡسِنِينَ
     translation: good-doers
     transliteration: muḥ'sinīna
 ---

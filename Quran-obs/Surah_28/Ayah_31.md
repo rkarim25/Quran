@@ -1,21 +1,21 @@
 ---
-arabic_ayat: وَاَنۡ اَ لۡقِ عَصَاكَ​ ؕ فَلَمَّا رَاٰهَا تَهۡتَزُّ كَاَنَّهَا جَآنٌّ
-  وَّلّٰى مُدۡبِرًا وَّلَمۡ يُعَقِّبۡ​ ؕ يٰمُوۡسٰٓى اَ قۡبِلۡ وَلَا تَخَفۡ​ اِنَّكَ
-  مِنَ الۡاٰمِنِيۡنَ‏
+arabic_ayat: وَأَنۡ أَلۡقِ عَصَاكَۚ فَلَمَّا رَءَاهَا تَهۡتَزُّ كَأَنَّهَا جَآنّٞ
+  وَلَّىٰ مُدۡبِرٗا وَلَمۡ يُعَقِّبۡۚ يَٰمُوسَىٰٓ أَقۡبِلۡ وَلَا تَخَفۡۖ إِنَّكَ مِنَ
+  ٱلۡأٓمِنِينَ
 sentence_translation: Now, throw down your staff!” But when he saw it slithering like
   a snake, he ran away without looking back. ˹Allah reassured him,˺ “O Moses! Draw
   near, and have no fear. You are perfectly secure.
 word_by_word:
   1:
-    arabic: وَاَنۡ
+    arabic: وَأَنۡ
     translation: And [that]
     transliteration: wa-an
   2:
-    arabic: اَ لۡقِ
+    arabic: أَلۡقِ
     translation: throw
     transliteration: alqi
   3:
-    arabic: عَصَاكَ​ ؕ
+    arabic: عَصَاكَۚ
     translation: your staff
     transliteration: ʿaṣāka
   4:
@@ -23,7 +23,7 @@ word_by_word:
     translation: But when
     transliteration: falammā
   5:
-    arabic: رَاٰهَا
+    arabic: رَءَاهَا
     translation: he saw it
     transliteration: raāhā
   6:
@@ -31,35 +31,35 @@ word_by_word:
     translation: moving
     transliteration: tahtazzu
   7:
-    arabic: كَاَنَّهَا
+    arabic: كَأَنَّهَا
     translation: as if it
     transliteration: ka-annahā
   8:
-    arabic: جَآنٌّ
+    arabic: جَآنّٞ
     translation: (were) a snake
     transliteration: jānnun
   9:
-    arabic: وَّلّٰى
+    arabic: وَلَّىٰ
     translation: he turned
     transliteration: wallā
   10:
-    arabic: مُدۡبِرًا
+    arabic: مُدۡبِرٗا
     translation: (in) flight
     transliteration: mud'biran
   11:
-    arabic: وَّلَمۡ
+    arabic: وَلَمۡ
     translation: and (did) not
     transliteration: walam
   12:
-    arabic: يُعَقِّبۡ​ ؕ
+    arabic: يُعَقِّبۡۚ
     translation: return
     transliteration: yuʿaqqib
   13:
-    arabic: يٰمُوۡسٰٓى
+    arabic: يَٰمُوسَىٰٓ
     translation: O Musa
     transliteration: yāmūsā
   14:
-    arabic: اَ قۡبِلۡ
+    arabic: أَقۡبِلۡ
     translation: Draw near
     transliteration: aqbil
   15:
@@ -67,11 +67,11 @@ word_by_word:
     translation: and (do) not
     transliteration: walā
   16:
-    arabic: تَخَفۡ​
+    arabic: تَخَفۡۖ
     translation: fear
     transliteration: takhaf
   17:
-    arabic: اِنَّكَ
+    arabic: إِنَّكَ
     translation: Indeed, you
     transliteration: innaka
   18:
@@ -79,7 +79,7 @@ word_by_word:
     translation: (are) of
     transliteration: mina
   19:
-    arabic: الۡاٰمِنِيۡنَ‏
+    arabic: ٱلۡأٓمِنِينَ
     translation: the secure
     transliteration: l-āminīna
 ---

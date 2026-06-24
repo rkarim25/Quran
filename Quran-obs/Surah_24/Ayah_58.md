@@ -1,11 +1,10 @@
 ---
-arabic_ayat: "يٰۤـاَيُّهَا الَّذِيۡنَ اٰمَنُوۡا لِيَسۡتَـاْذِنۡكُمُ الَّذِيۡنَ مَلَكَتۡ\
-  \ اَيۡمَانُكُمۡ وَالَّذِيۡنَ لَمۡ يَـبۡلُغُوا الۡحُـلُمَ مِنۡكُمۡ ثَلٰثَ مَرّٰتٍ​ؕ\
-  \ مِنۡ قَبۡلِ صَلٰوةِ الۡفَجۡرِ وَحِيۡنَ تَضَعُوۡنَ ثِيَابَكُمۡ مِّنَ الظَّهِيۡرَةِ\
-  \ وَمِنۡۢ بَعۡدِ صَلٰوةِ الۡعِشَآءِ ​ؕ  ثَلٰثُ عَوۡرٰتٍ لَّـكُمۡ​ ؕ لَـيۡسَ عَلَيۡكُمۡ\
-  \ وَ لَا عَلَيۡهِمۡ جُنَاحٌۢ بَعۡدَهُنَّ​ ؕ طَوّٰفُوۡنَ عَلَيۡكُمۡ بَعۡضُكُمۡ عَلٰى\
-  \ بَعۡضٍ​ ؕ كَذٰلِكَ يُبَيِّنُ اللّٰهُ لَـكُمُ الۡاٰيٰتِ​ ؕ وَاللّٰهُ عَلِيۡمٌ حَكِيۡمٌ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُواْ لِيَسۡتَـٔۡذِنكُمُ ٱلَّذِينَ مَلَكَتۡ
+  أَيۡمَٰنُكُمۡ وَٱلَّذِينَ لَمۡ يَبۡلُغُواْ ٱلۡحُلُمَ مِنكُمۡ ثَلَٰثَ مَرَّٰتٖۚ مِّن
+  قَبۡلِ صَلَوٰةِ ٱلۡفَجۡرِ وَحِينَ تَضَعُونَ ثِيَابَكُم مِّنَ ٱلظَّهِيرَةِ وَمِنۢ
+  بَعۡدِ صَلَوٰةِ ٱلۡعِشَآءِۚ ثَلَٰثُ عَوۡرَٰتٖ لَّكُمۡۚ لَيۡسَ عَلَيۡكُمۡ وَلَا
+  عَلَيۡهِمۡ جُنَاحُۢ بَعۡدَهُنَّۚ طَوَّٰفُونَ عَلَيۡكُم بَعۡضُكُمۡ عَلَىٰ بَعۡضٖۚ
+  كَذَٰلِكَ يُبَيِّنُ ٱللَّهُ لَكُمُ ٱلۡأٓيَٰتِۗ وَٱللَّهُ عَلِيمٌ حَكِيمٞ
 sentence_translation: 'O believers! Let those ˹bondspeople˺ in your possession and
   those of you who are still under age ask for your permission ˹to come in˺ at three
   times: before dawn prayer, when you take off your ˹outer˺ clothes at noon, and after
@@ -15,23 +14,23 @@ sentence_translation: 'O believers! Let those ˹bondspeople˺ in your possession
   All-Wise.'
 word_by_word:
   1:
-    arabic: يٰۤـاَيُّهَا
+    arabic: يَٰٓأَيُّهَا
     translation: O you who believe
     transliteration: yāayyuhā
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ ءَ
     translation: O you who believe
     transliteration: alladhīna
   3:
-    arabic: اٰمَنُوۡا
+    arabic: امَنُواْ
     translation: O you who believe
     transliteration: āmanū
   4:
-    arabic: لِيَسۡتَـاْذِنۡكُمُ
+    arabic: لِيَسۡتَـٔۡذِنكُمُ
     translation: Let ask your permission
     transliteration: liyastadhinkumu
   5:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those whom
     transliteration: alladhīna
   6:
@@ -39,11 +38,11 @@ word_by_word:
     translation: possess
     transliteration: malakat
   7:
-    arabic: اَيۡمَانُكُمۡ
+    arabic: أَيۡمَٰنُكُمۡ
     translation: your right hands
     transliteration: aymānukum
   8:
-    arabic: وَالَّذِيۡنَ
+    arabic: وَٱلَّذِينَ
     translation: and those who
     transliteration: wa-alladhīna
   9:
@@ -51,27 +50,27 @@ word_by_word:
     translation: (have) not
     transliteration: lam
   10:
-    arabic: يَـبۡلُغُوا
+    arabic: يَبۡلُغُواْ
     translation: reached
     transliteration: yablughū
   11:
-    arabic: الۡحُـلُمَ
+    arabic: ٱلۡحُلُمَ
     translation: puberty
     transliteration: l-ḥuluma
   12:
-    arabic: مِنۡكُمۡ
+    arabic: مِنكُمۡ
     translation: among you
     transliteration: minkum
   13:
-    arabic: ثَلٰثَ
+    arabic: ثَلَٰثَ
     translation: (at) three
     transliteration: thalātha
   14:
-    arabic: مَرّٰتٍ​ؕ
+    arabic: مَرَّٰتٖۚ
     translation: times
     transliteration: marrātin
   15:
-    arabic: مِنۡ
+    arabic: مِّن
     translation: before
     transliteration: min
   16:
@@ -79,23 +78,23 @@ word_by_word:
     translation: before
     transliteration: qabli
   17:
-    arabic: صَلٰوةِ
+    arabic: صَلَوٰةِ
     translation: (the) prayer
     transliteration: ṣalati
   18:
-    arabic: الۡفَجۡرِ
+    arabic: ٱلۡفَجۡرِ
     translation: (of) dawn
     transliteration: l-fajri
   19:
-    arabic: وَحِيۡنَ
+    arabic: وَحِينَ
     translation: and when
     transliteration: waḥīna
   20:
-    arabic: تَضَعُوۡنَ
+    arabic: تَضَعُونَ
     translation: you put aside
     transliteration: taḍaʿūna
   21:
-    arabic: ثِيَابَكُمۡ
+    arabic: ثِيَابَكُم
     translation: your garments
     transliteration: thiyābakum
   22:
@@ -103,11 +102,11 @@ word_by_word:
     translation: at
     transliteration: mina
   23:
-    arabic: الظَّهِيۡرَةِ
+    arabic: ٱلظَّهِيرَةِ
     translation: noon
     transliteration: l-ẓahīrati
   24:
-    arabic: وَمِنۡۢ
+    arabic: وَمِنۢ
     translation: and after
     transliteration: wamin
   25:
@@ -115,27 +114,27 @@ word_by_word:
     translation: and after
     transliteration: baʿdi
   26:
-    arabic: صَلٰوةِ
+    arabic: صَلَوٰةِ
     translation: (the) prayer
     transliteration: ṣalati
   27:
-    arabic: الۡعِشَآءِ ​ؕ 
+    arabic: ٱلۡعِشَآءِۚ
     translation: (of) night
     transliteration: l-ʿishāi
   28:
-    arabic: ثَلٰثُ
+    arabic: ثَلَٰثُ
     translation: (These) three
     transliteration: thalāthu
   29:
-    arabic: عَوۡرٰتٍ
+    arabic: عَوۡرَٰتٖ
     translation: (are) times of privacy
     transliteration: ʿawrātin
   30:
-    arabic: لَّـكُمۡ​ ؕ
+    arabic: لَّكُمۡۚ
     translation: for you
     transliteration: lakum
   31:
-    arabic: لَـيۡسَ
+    arabic: لَيۡسَ
     translation: Not
     transliteration: laysa
   32:
@@ -143,7 +142,7 @@ word_by_word:
     translation: on you
     transliteration: ʿalaykum
   33:
-    arabic: وَ لَا
+    arabic: وَلَا
     translation: and not
     transliteration: walā
   34:
@@ -151,19 +150,19 @@ word_by_word:
     translation: on them
     transliteration: ʿalayhim
   35:
-    arabic: جُنَاحٌۢ
+    arabic: جُنَاحُۢ
     translation: any blame
     transliteration: junāḥun
   36:
-    arabic: بَعۡدَهُنَّ​ ؕ
+    arabic: بَعۡدَهُنَّۚ
     translation: after that
     transliteration: baʿdahunna
   37:
-    arabic: طَوّٰفُوۡنَ
+    arabic: طَوَّٰفُونَ
     translation: (as) moving about
     transliteration: ṭawwāfūna
   38:
-    arabic: عَلَيۡكُمۡ
+    arabic: عَلَيۡكُم
     translation: among you
     transliteration: ʿalaykum
   39:
@@ -171,15 +170,15 @@ word_by_word:
     translation: some of you
     transliteration: baʿḍukum
   40:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: among
     transliteration: ʿalā
   41:
-    arabic: بَعۡضٍ​ ؕ
+    arabic: بَعۡضٖۚ
     translation: others
     transliteration: baʿḍin
   42:
-    arabic: كَذٰلِكَ
+    arabic: كَذَٰلِكَ
     translation: Thus
     transliteration: kadhālika
   43:
@@ -187,27 +186,27 @@ word_by_word:
     translation: Allah makes clear
     transliteration: yubayyinu
   44:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah makes clear
     transliteration: l-lahu
   45:
-    arabic: لَـكُمُ
+    arabic: لَكُمُ
     translation: for you
     transliteration: lakumu
   46:
-    arabic: الۡاٰيٰتِ​ ؕ
+    arabic: ٱلۡأٓيَٰتِۗ
     translation: the Verses
     transliteration: l-āyāti
   47:
-    arabic: وَاللّٰهُ
+    arabic: وَٱللَّهُ
     translation: and Allah
     transliteration: wal-lahu
   48:
-    arabic: عَلِيۡمٌ
+    arabic: عَلِيمٌ
     translation: (is) All-Knower
     transliteration: ʿalīmun
   49:
-    arabic: "حَكِيۡمٌ‏ \uFEFF\uFEFF"
+    arabic: حَكِيمٞ
     translation: All-Wise
     transliteration: ḥakīmun
 ---

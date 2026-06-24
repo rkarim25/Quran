@@ -1,25 +1,25 @@
 ---
-arabic_ayat: فِىۡ جِيۡدِهَا حَبۡلٌ مِّنۡ مَّسَدٍ‏
+arabic_ayat: فِي جِيدِهَا حَبۡلٞ مِّن مَّسَدِۭ
 sentence_translation: around her neck will be a rope of palm-fibre.
 word_by_word:
   1:
-    arabic: فِىۡ
+    arabic: فِي
     translation: In
     transliteration: fī
   2:
-    arabic: جِيۡدِهَا
+    arabic: جِيدِهَا
     translation: her neck
     transliteration: jīdihā
   3:
-    arabic: حَبۡلٌ
+    arabic: حَبۡلٞ
     translation: (will be) a rope
     transliteration: ḥablun
   4:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: of
     transliteration: min
   5:
-    arabic: مَّسَدٍ‏
+    arabic: مَّسَدِۭ
     translation: palm-fiber
     transliteration: masadin
 ---

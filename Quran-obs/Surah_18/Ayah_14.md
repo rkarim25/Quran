@@ -1,33 +1,33 @@
 ---
-arabic_ayat: "وَّرَبَطۡنَا عَلٰى قُلُوۡبِهِمۡ اِذۡ قَامُوۡا فَقَالُوۡا رَبُّنَا رَبُّ\
-  \ السَّمٰوٰتِ وَالۡاَرۡضِ لَنۡ نَّدۡعُوَا۫ مِنۡ دُوۡنِهٖۤ اِلٰهًـا​ لَّـقَدۡ قُلۡنَاۤ\
-  \ اِذًا شَطَطًا‏ \uFEFF\uFEFF"
+arabic_ayat: وَرَبَطۡنَا عَلَىٰ قُلُوبِهِمۡ إِذۡ قَامُواْ فَقَالُواْ رَبُّنَا رَبُّ
+  ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِ لَن نَّدۡعُوَاْ مِن دُونِهِۦٓ إِلَٰهٗاۖ لَّقَدۡ قُلۡنَآ
+  إِذٗا شَطَطًا
 sentence_translation: And We strengthened their hearts when they stood up and declared,
   “Our Lord is the Lord of the heavens and the earth. We will never call upon any
   god besides Him, or we would truly be uttering an outrageous lie.”
 word_by_word:
   1:
-    arabic: وَّرَبَطۡنَا
+    arabic: وَرَبَطۡنَا
     translation: And We made firm
     transliteration: warabaṭnā
   2:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: '[on]'
     transliteration: ʿalā
   3:
-    arabic: قُلُوۡبِهِمۡ
+    arabic: قُلُوبِهِمۡ
     translation: their hearts
     transliteration: qulūbihim
   4:
-    arabic: اِذۡ
+    arabic: إِذۡ
     translation: when
     transliteration: idh
   5:
-    arabic: قَامُوۡا
+    arabic: قَامُواْ
     translation: they stood up
     transliteration: qāmū
   6:
-    arabic: فَقَالُوۡا
+    arabic: فَقَالُواْ
     translation: and said
     transliteration: faqālū
   7:
@@ -39,47 +39,47 @@ word_by_word:
     translation: (is) the Lord
     transliteration: rabbu
   9:
-    arabic: السَّمٰوٰتِ
+    arabic: ٱلسَّمَٰوَٰتِ
     translation: (of) the heavens
     transliteration: l-samāwāti
   10:
-    arabic: وَالۡاَرۡضِ
+    arabic: وَٱلۡأَرۡضِ
     translation: and the earth
     transliteration: wal-arḍi
   11:
-    arabic: لَنۡ
+    arabic: لَن
     translation: Never
     transliteration: lan
   12:
-    arabic: نَّدۡعُوَا۫
+    arabic: نَّدۡعُوَاْ
     translation: we will invoke
     transliteration: nadʿuwā
   13:
-    arabic: مِنۡ
+    arabic: مِن
     translation: besides Him
     transliteration: min
   14:
-    arabic: دُوۡنِهٖۤ
+    arabic: دُونِهِۦٓ
     translation: besides Him
     transliteration: dūnihi
   15:
-    arabic: اِلٰهًـا​
+    arabic: إِلَٰهٗاۖ
     translation: any god
     transliteration: ilāhan
   16:
-    arabic: لَّـقَدۡ
+    arabic: لَّقَدۡ
     translation: Certainly
     transliteration: laqad
   17:
-    arabic: قُلۡنَاۤ
+    arabic: قُلۡنَآ
     translation: we would have said
     transliteration: qul'nā
   18:
-    arabic: اِذًا
+    arabic: إِذٗا
     translation: then
     transliteration: idhan
   19:
-    arabic: "شَطَطًا‏ \uFEFF\uFEFF"
+    arabic: شَطَطًا
     translation: an enormity
     transliteration: shaṭaṭan
 ---

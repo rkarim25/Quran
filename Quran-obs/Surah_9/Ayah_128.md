@@ -1,12 +1,12 @@
 ---
-arabic_ayat: لَـقَدۡ جَآءَكُمۡ رَسُوۡلٌ مِّنۡ اَنۡفُسِكُمۡ عَزِيۡزٌ عَلَيۡهِ مَا
-  عَنِتُّمۡ حَرِيۡصٌ عَلَيۡكُمۡ بِالۡمُؤۡمِنِيۡنَ رَءُوۡفٌ رَّحِيۡمٌ‏
+arabic_ayat: لَقَدۡ جَآءَكُمۡ رَسُولٞ مِّنۡ أَنفُسِكُمۡ عَزِيزٌ عَلَيۡهِ مَا عَنِتُّمۡ
+  حَرِيصٌ عَلَيۡكُم بِٱلۡمُؤۡمِنِينَ رَءُوفٞ رَّحِيمٞ
 sentence_translation: There certainly has come to you a messenger from among yourselves.
   He is concerned by your suffering, anxious for your well-being, and gracious and
   merciful to the believers.
 word_by_word:
   1:
-    arabic: لَـقَدۡ
+    arabic: لَقَدۡ
     translation: Certainly
     transliteration: laqad
   2:
@@ -14,7 +14,7 @@ word_by_word:
     translation: (has) come to you
     transliteration: jāakum
   3:
-    arabic: رَسُوۡلٌ
+    arabic: رَسُولٞ
     translation: a Messenger
     transliteration: rasūlun
   4:
@@ -22,11 +22,11 @@ word_by_word:
     translation: from
     transliteration: min
   5:
-    arabic: اَنۡفُسِكُمۡ
+    arabic: أَنفُسِكُمۡ
     translation: yourselves
     transliteration: anfusikum
   6:
-    arabic: عَزِيۡزٌ
+    arabic: عَزِيزٌ
     translation: Grievous
     transliteration: ʿazīzun
   7:
@@ -42,23 +42,23 @@ word_by_word:
     translation: you suffer
     transliteration: ʿanittum
   10:
-    arabic: حَرِيۡصٌ
+    arabic: حَرِيصٌ
     translation: (he is) concerned
     transliteration: ḥarīṣun
   11:
-    arabic: عَلَيۡكُمۡ
+    arabic: عَلَيۡكُم
     translation: over you
     transliteration: ʿalaykum
   12:
-    arabic: بِالۡمُؤۡمِنِيۡنَ
+    arabic: بِٱلۡمُؤۡمِنِينَ
     translation: to the believers
     transliteration: bil-mu'minīna
   13:
-    arabic: رَءُوۡفٌ
+    arabic: رَءُوفٞ
     translation: (he is) kind
     transliteration: raūfun
   14:
-    arabic: رَّحِيۡمٌ‏
+    arabic: رَّحِيمٞ
     translation: (and) merciful
     transliteration: raḥīmun
 ---

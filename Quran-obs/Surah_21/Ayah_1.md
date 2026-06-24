@@ -1,10 +1,10 @@
 ---
-arabic_ayat: اِقۡتَرَبَ لِلنَّاسِ حِسَابُهُمۡ وَهُمۡ فِىۡ غَفۡلَةٍ مُّعۡرِضُوۡنَ​ۚ‏
+arabic_ayat: ٱقۡتَرَبَ لِلنَّاسِ حِسَابُهُمۡ وَهُمۡ فِي غَفۡلَةٖ مُّعۡرِضُونَ
 sentence_translation: ˹The time of˺ people’s judgment has drawn near, yet they are
   heedlessly turning away.
 word_by_word:
   1:
-    arabic: اِقۡتَرَبَ
+    arabic: ٱقۡتَرَبَ
     translation: (Has) approached
     transliteration: iq'taraba
   2:
@@ -20,15 +20,15 @@ word_by_word:
     translation: while they
     transliteration: wahum
   5:
-    arabic: فِىۡ
+    arabic: فِي
     translation: (are) in
     transliteration: fī
   6:
-    arabic: غَفۡلَةٍ
+    arabic: غَفۡلَةٖ
     translation: heedlessness
     transliteration: ghaflatin
   7:
-    arabic: مُّعۡرِضُوۡنَ​ۚ‏
+    arabic: مُّعۡرِضُونَ
     translation: turning away
     transliteration: muʿ'riḍūna
 ---

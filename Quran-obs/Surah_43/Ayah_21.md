@@ -1,38 +1,38 @@
 ---
-arabic_ayat: اَمۡ اٰتَيۡنٰهُمۡ كِتٰبًا مِّنۡ قَبۡلِهٖ فَهُمۡ بِهٖ مُسۡتَمۡسِكُوۡنَ‏
+arabic_ayat: أَمۡ ءَاتَيۡنَٰهُمۡ كِتَٰبٗا مِّن قَبۡلِهِۦ فَهُم بِهِۦ مُسۡتَمۡسِكُونَ
 sentence_translation: Or have We given them a Book ˹for proof˺, before this ˹Quran˺,
   to which they are holding firm?
 word_by_word:
   1:
-    arabic: اَمۡ
+    arabic: أَمۡ ءَ
     translation: Or
     transliteration: am
   2:
-    arabic: اٰتَيۡنٰهُمۡ
+    arabic: اتَيۡنَٰهُمۡ
     translation: have We given them
     transliteration: ātaynāhum
   3:
-    arabic: كِتٰبًا
+    arabic: كِتَٰبٗا
     translation: a book
     transliteration: kitāban
   4:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: before it
     transliteration: min
   5:
-    arabic: قَبۡلِهٖ
+    arabic: قَبۡلِهِۦ
     translation: before it
     transliteration: qablihi
   6:
-    arabic: فَهُمۡ
+    arabic: فَهُم
     translation: so they
     transliteration: fahum
   7:
-    arabic: بِهٖ
+    arabic: بِهِۦ
     translation: to it
     transliteration: bihi
   8:
-    arabic: مُسۡتَمۡسِكُوۡنَ‏
+    arabic: مُسۡتَمۡسِكُونَ
     translation: (are) holding fast
     transliteration: mus'tamsikūna
 ---

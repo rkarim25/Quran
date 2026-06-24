@@ -1,23 +1,23 @@
 ---
-arabic_ayat: اِنَّ الَّذِيۡنَ كَفَرُوۡا بِالذِّكۡرِ لَمَّا جَآءَهُمۡ​ۚ وَاِنَّهٗ
-  لَـكِتٰبٌ عَزِيۡزٌۙ‏
+arabic_ayat: إِنَّ ٱلَّذِينَ كَفَرُواْ بِٱلذِّكۡرِ لَمَّا جَآءَهُمۡۖ وَإِنَّهُۥ لَكِتَٰبٌ
+  عَزِيزٞ
 sentence_translation: Indeed, those who deny the Reminder after it has come to them
   ˹are doomed˺, for it is truly a mighty Book.
 word_by_word:
   1:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   3:
-    arabic: كَفَرُوۡا
+    arabic: كَفَرُواْ
     translation: disbelieve
     transliteration: kafarū
   4:
-    arabic: بِالذِّكۡرِ
+    arabic: بِٱلذِّكۡرِ
     translation: in the Reminder
     transliteration: bil-dhik'ri
   5:
@@ -25,19 +25,19 @@ word_by_word:
     translation: when
     transliteration: lammā
   6:
-    arabic: جَآءَهُمۡ​ۚ
+    arabic: جَآءَهُمۡۖ
     translation: it comes to them
     transliteration: jāahum
   7:
-    arabic: وَاِنَّهٗ
+    arabic: وَإِنَّهُۥ
     translation: And indeed, it
     transliteration: wa-innahu
   8:
-    arabic: لَـكِتٰبٌ
+    arabic: لَكِتَٰبٌ
     translation: (is) surely a Book
     transliteration: lakitābun
   9:
-    arabic: عَزِيۡزٌۙ‏
+    arabic: عَزِيزٞ
     translation: mighty
     transliteration: ʿazīzun
 ---

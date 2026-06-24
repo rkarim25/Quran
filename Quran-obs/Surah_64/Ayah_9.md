@@ -1,8 +1,8 @@
 ---
-arabic_ayat: يَوۡمَ يَجۡمَعُكُمۡ لِيَوۡمِ الۡجَمۡعِ​ ذٰ لِكَ يَوۡمُ التَّغَابُنِ​
-  ؕ وَمَنۡ يُّؤۡمِنۡۢ بِاللّٰهِ وَيَعۡمَلۡ صَالِحًـا يُّكَفِّرۡ عَنۡهُ سَيِّاٰتِهٖ
-  وَيُدۡخِلۡهُ جَنّٰتٍ تَجۡرِىۡ مِنۡ تَحۡتِهَا الۡاَنۡهٰرُ خٰلِدِيۡنَ فِيۡهَاۤ اَبَدًا​
-  ؕ ذٰ لِكَ الۡفَوۡزُ الۡعَظِیْمُ‏
+arabic_ayat: يَوۡمَ يَجۡمَعُكُمۡ لِيَوۡمِ ٱلۡجَمۡعِۖ ذَٰلِكَ يَوۡمُ ٱلتَّغَابُنِۗ
+  وَمَن يُؤۡمِنۢ بِٱللَّهِ وَيَعۡمَلۡ صَٰلِحٗا يُكَفِّرۡ عَنۡهُ سَيِّـَٔاتِهِۦ وَيُدۡخِلۡهُ
+  جَنَّٰتٖ تَجۡرِي مِن تَحۡتِهَا ٱلۡأَنۡهَٰرُ خَٰلِدِينَ فِيهَآ أَبَدٗاۚ ذَٰلِكَ
+  ٱلۡفَوۡزُ ٱلۡعَظِيمُ
 sentence_translation: ˹Consider˺ the Day He will gather you ˹all˺ for the Day of Gathering—that
   will be the Day of mutual loss and gain. So whoever believes in Allah and does good,
   He will absolve them of their sins and admit them into Gardens under which rivers
@@ -21,11 +21,11 @@ word_by_word:
     translation: for (the) Day
     transliteration: liyawmi
   4:
-    arabic: الۡجَمۡعِ​
+    arabic: ٱلۡجَمۡعِۖ
     translation: (of) the Assembly
     transliteration: l-jamʿi
   5:
-    arabic: ذٰ لِكَ
+    arabic: ذَٰلِكَ
     translation: that
     transliteration: dhālika
   6:
@@ -33,19 +33,19 @@ word_by_word:
     translation: (will be the) Day
     transliteration: yawmu
   7:
-    arabic: التَّغَابُنِ​ ؕ
+    arabic: ٱلتَّغَابُنِۗ
     translation: (of) mutual loss and gain
     transliteration: l-taghābuni
   8:
-    arabic: وَمَنۡ
+    arabic: وَمَن
     translation: And whoever
     transliteration: waman
   9:
-    arabic: يُّؤۡمِنۡۢ
+    arabic: يُؤۡمِنۢ
     translation: believes
     transliteration: yu'min
   10:
-    arabic: بِاللّٰهِ
+    arabic: بِٱللَّهِ
     translation: in Allah
     transliteration: bil-lahi
   11:
@@ -53,11 +53,11 @@ word_by_word:
     translation: and does
     transliteration: wayaʿmal
   12:
-    arabic: صَالِحًـا
+    arabic: صَٰلِحٗا
     translation: righteous deeds
     transliteration: ṣāliḥan
   13:
-    arabic: يُّكَفِّرۡ
+    arabic: يُكَفِّرۡ
     translation: He will remove
     transliteration: yukaffir
   14:
@@ -65,7 +65,7 @@ word_by_word:
     translation: from him
     transliteration: ʿanhu
   15:
-    arabic: سَيِّاٰتِهٖ
+    arabic: سَيِّـَٔاتِهِۦ
     translation: his evil deeds
     transliteration: sayyiātihi
   16:
@@ -73,15 +73,15 @@ word_by_word:
     translation: and He will admit him
     transliteration: wayud'khil'hu
   17:
-    arabic: جَنّٰتٍ
+    arabic: جَنَّٰتٖ
     translation: (to) Gardens
     transliteration: jannātin
   18:
-    arabic: تَجۡرِىۡ
+    arabic: تَجۡرِي
     translation: flow
     transliteration: tajrī
   19:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   20:
@@ -89,31 +89,31 @@ word_by_word:
     translation: underneath it
     transliteration: taḥtihā
   21:
-    arabic: الۡاَنۡهٰرُ
+    arabic: ٱلۡأَنۡهَٰرُ
     translation: the rivers
     transliteration: l-anhāru
   22:
-    arabic: خٰلِدِيۡنَ
+    arabic: خَٰلِدِينَ
     translation: abiding
     transliteration: khālidīna
   23:
-    arabic: فِيۡهَاۤ
+    arabic: فِيهَآ
     translation: therein
     transliteration: fīhā
   24:
-    arabic: اَبَدًا​ ؕ
+    arabic: أَبَدٗاۚ
     translation: forever
     transliteration: abadan
   25:
-    arabic: ذٰ لِكَ
+    arabic: ذَٰلِكَ
     translation: That
     transliteration: dhālika
   26:
-    arabic: الۡفَوۡزُ
+    arabic: ٱلۡفَوۡزُ
     translation: (is) the success
     transliteration: l-fawzu
   27:
-    arabic: الۡعَظِیْمُ‏
+    arabic: ٱلۡعَظِيمُ
     translation: the great
     transliteration: l-ʿaẓīmu
 ---

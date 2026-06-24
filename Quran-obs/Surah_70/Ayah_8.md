@@ -1,5 +1,5 @@
 ---
-arabic_ayat: يَوۡمَ تَكُوۡنُ السَّمَآءُ كَالۡمُهۡلِۙ‏
+arabic_ayat: يَوۡمَ تَكُونُ ٱلسَّمَآءُ كَٱلۡمُهۡلِ
 sentence_translation: On that Day the sky will be like molten brass
 word_by_word:
   1:
@@ -7,15 +7,15 @@ word_by_word:
     translation: '(The) Day '
     transliteration: yawma
   2:
-    arabic: تَكُوۡنُ
+    arabic: تَكُونُ
     translation: will be
     transliteration: takūnu
   3:
-    arabic: السَّمَآءُ
+    arabic: ٱلسَّمَآءُ
     translation: the sky
     transliteration: l-samāu
   4:
-    arabic: كَالۡمُهۡلِۙ‏
+    arabic: كَٱلۡمُهۡلِ
     translation: like molten copper
     transliteration: kal-muh'li
 ---

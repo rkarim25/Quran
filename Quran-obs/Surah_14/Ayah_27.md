@@ -1,7 +1,7 @@
 ---
-arabic_ayat: يُثَبِّتُ اللّٰهُ الَّذِيۡنَ اٰمَنُوۡا بِالۡقَوۡلِ الثَّابِتِ فِى الۡحَيٰوةِ
-  الدُّنۡيَا وَفِى الۡاٰخِرَةِ​ ۚ وَيُضِلُّ اللّٰهُ الظّٰلِمِيۡنَ​ ۙ وَيَفۡعَلُ اللّٰهُ
-  مَا يَشَآءُ‏
+arabic_ayat: يُثَبِّتُ ٱللَّهُ ٱلَّذِينَ ءَامَنُواْ بِٱلۡقَوۡلِ ٱلثَّابِتِ فِي ٱلۡحَيَوٰةِ
+  ٱلدُّنۡيَا وَفِي ٱلۡأٓخِرَةِۖ وَيُضِلُّ ٱللَّهُ ٱلظَّٰلِمِينَۚ وَيَفۡعَلُ ٱللَّهُ
+  مَا يَشَآءُ
 sentence_translation: Allah makes the believers steadfast with the firm Word ˹of faith˺ in
   this worldly life and the Hereafter. And Allah leaves the wrongdoers to stray. For
   Allah does what He wills.
@@ -11,43 +11,43 @@ word_by_word:
     translation: Allah keeps firm
     transliteration: yuthabbitu
   2:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah keeps firm
     transliteration: l-lahu
   3:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ ءَ
     translation: those who
     transliteration: alladhīna
   4:
-    arabic: اٰمَنُوۡا
+    arabic: امَنُواْ
     translation: believe
     transliteration: āmanū
   5:
-    arabic: بِالۡقَوۡلِ
+    arabic: بِٱلۡقَوۡلِ
     translation: with the firm word
     transliteration: bil-qawli
   6:
-    arabic: الثَّابِتِ
+    arabic: ٱلثَّابِتِ
     translation: with the firm word
     transliteration: l-thābiti
   7:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   8:
-    arabic: الۡحَيٰوةِ
+    arabic: ٱلۡحَيَوٰةِ
     translation: the life
     transliteration: l-ḥayati
   9:
-    arabic: الدُّنۡيَا
+    arabic: ٱلدُّنۡيَا
     translation: (of) the world
     transliteration: l-dun'yā
   10:
-    arabic: وَفِى
+    arabic: وَفِي
     translation: and in
     transliteration: wafī
   11:
-    arabic: الۡاٰخِرَةِ​ ۚ
+    arabic: ٱلۡأٓخِرَةِۖ
     translation: the Hereafter
     transliteration: l-ākhirati
   12:
@@ -55,11 +55,11 @@ word_by_word:
     translation: And Allah lets go astray
     transliteration: wayuḍillu
   13:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: And Allah lets go astray
     transliteration: l-lahu
   14:
-    arabic: الظّٰلِمِيۡنَ​ ۙ
+    arabic: ٱلظَّٰلِمِينَۚ
     translation: the wrongdoers
     transliteration: l-ẓālimīna
   15:
@@ -67,7 +67,7 @@ word_by_word:
     translation: And Allah does
     transliteration: wayafʿalu
   16:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: And Allah does
     transliteration: l-lahu
   17:
@@ -75,7 +75,7 @@ word_by_word:
     translation: what
     transliteration: mā
   18:
-    arabic: يَشَآءُ‏
+    arabic: يَشَآءُ
     translation: He wills
     transliteration: yashāu
 ---

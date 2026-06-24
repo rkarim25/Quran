@@ -1,18 +1,18 @@
 ---
-arabic_ayat: اِنَّاۤ اَنۡزَلۡنَا عَلَيۡكَ الۡكِتٰبَ لِلنَّاسِ بِالۡحَقِّ​ ۚ فَمَنِ
-  اهۡتَدٰى فَلِنَفۡسِهٖ​ ۚ وَمَنۡ ضَلَّ فَاِنَّمَا يَضِلُّ عَلَيۡهَا​ ۚ وَمَاۤ اَنۡتَ
-  عَلَيۡهِمۡ بِوَكِيۡلٍ‏
+arabic_ayat: إِنَّآ أَنزَلۡنَا عَلَيۡكَ ٱلۡكِتَٰبَ لِلنَّاسِ بِٱلۡحَقِّۖ فَمَنِ ٱهۡتَدَىٰ
+  فَلِنَفۡسِهِۦۖ وَمَن ضَلَّ فَإِنَّمَا يَضِلُّ عَلَيۡهَاۖ وَمَآ أَنتَ عَلَيۡهِم
+  بِوَكِيلٍ
 sentence_translation: Surely We have revealed to you the Book ˹O Prophet˺ with the
   truth for humanity. So whoever chooses to be guided, it is for their own good. And
   whoever chooses to stray, it is only to their own loss. You are not a keeper over
   them.
 word_by_word:
   1:
-    arabic: اِنَّاۤ
+    arabic: إِنَّآ
     translation: Indeed We
     transliteration: innā
   2:
-    arabic: اَنۡزَلۡنَا
+    arabic: أَنزَلۡنَا
     translation: We revealed
     transliteration: anzalnā
   3:
@@ -20,7 +20,7 @@ word_by_word:
     translation: to you
     transliteration: ʿalayka
   4:
-    arabic: الۡكِتٰبَ
+    arabic: ٱلۡكِتَٰبَ
     translation: the Book
     transliteration: l-kitāba
   5:
@@ -28,7 +28,7 @@ word_by_word:
     translation: for [the] mankind
     transliteration: lilnnāsi
   6:
-    arabic: بِالۡحَقِّ​ ۚ
+    arabic: بِٱلۡحَقِّۖ
     translation: in truth
     transliteration: bil-ḥaqi
   7:
@@ -36,15 +36,15 @@ word_by_word:
     translation: So whoever
     transliteration: famani
   8:
-    arabic: اهۡتَدٰى
+    arabic: ٱهۡتَدَىٰ
     translation: accepts guidance
     transliteration: ih'tadā
   9:
-    arabic: فَلِنَفۡسِهٖ​ ۚ
+    arabic: فَلِنَفۡسِهِۦۖ
     translation: then (it is) for his soul
     transliteration: falinafsihi
   10:
-    arabic: وَمَنۡ
+    arabic: وَمَن
     translation: and whoever
     transliteration: waman
   11:
@@ -52,7 +52,7 @@ word_by_word:
     translation: goes astray
     transliteration: ḍalla
   12:
-    arabic: فَاِنَّمَا
+    arabic: فَإِنَّمَا
     translation: then only
     transliteration: fa-innamā
   13:
@@ -60,23 +60,23 @@ word_by_word:
     translation: he strays
     transliteration: yaḍillu
   14:
-    arabic: عَلَيۡهَا​ ۚ
+    arabic: عَلَيۡهَاۖ
     translation: against his (soul)
     transliteration: ʿalayhā
   15:
-    arabic: وَمَاۤ
+    arabic: وَمَآ
     translation: And not
     transliteration: wamā
   16:
-    arabic: اَنۡتَ
+    arabic: أَنتَ
     translation: you
     transliteration: anta
   17:
-    arabic: عَلَيۡهِمۡ
+    arabic: عَلَيۡهِم
     translation: (are) over them
     transliteration: ʿalayhim
   18:
-    arabic: بِوَكِيۡلٍ‏
+    arabic: بِوَكِيلٍ
     translation: a manager
     transliteration: biwakīlin
 ---

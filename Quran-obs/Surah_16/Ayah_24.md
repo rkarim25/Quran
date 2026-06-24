@@ -1,43 +1,42 @@
 ---
-arabic_ayat: وَاِذَا قِيۡلَ لَهُمۡ مَّاذَاۤ اَنۡزَلَ رَبُّكُمۡ​ۙ قَالُـوۡۤا اَسَاطِيۡرُ
-  الۡاَوَّلِيۡنَۙ‏
+arabic_ayat: وَإِذَا قِيلَ لَهُم مَّاذَآ أَنزَلَ رَبُّكُمۡ قَالُوٓاْ أَسَٰطِيرُ ٱلۡأَوَّلِينَ
 sentence_translation: And when it is said to them, “What has your Lord revealed?”
   They say, “Ancient fables!”
 word_by_word:
   1:
-    arabic: وَاِذَا
+    arabic: وَإِذَا
     translation: And when
     transliteration: wa-idhā
   2:
-    arabic: قِيۡلَ
+    arabic: قِيلَ
     translation: it is said
     transliteration: qīla
   3:
-    arabic: لَهُمۡ
+    arabic: لَهُم
     translation: to them
     transliteration: lahum
   4:
-    arabic: مَّاذَاۤ
+    arabic: مَّاذَآ
     translation: What
     transliteration: mādhā
   5:
-    arabic: اَنۡزَلَ
+    arabic: أَنزَلَ
     translation: has your Lord sent down
     transliteration: anzala
   6:
-    arabic: رَبُّكُمۡ​ۙ
+    arabic: رَبُّكُمۡ
     translation: has your Lord sent down
     transliteration: rabbukum
   7:
-    arabic: قَالُـوۡۤا
+    arabic: قَالُوٓاْ
     translation: They say
     transliteration: qālū
   8:
-    arabic: اَسَاطِيۡرُ
+    arabic: أَسَٰطِيرُ
     translation: Tales
     transliteration: asāṭīru
   9:
-    arabic: الۡاَوَّلِيۡنَۙ‏
+    arabic: ٱلۡأَوَّلِينَ
     translation: (of) the ancient
     transliteration: l-awalīna
 ---

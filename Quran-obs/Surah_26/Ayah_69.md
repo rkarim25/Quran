@@ -1,9 +1,9 @@
 ---
-arabic_ayat: وَاتۡلُ عَلَيۡهِمۡ نَبَاَ اِبۡرٰهِيۡمَ​ۘ‏
+arabic_ayat: وَٱتۡلُ عَلَيۡهِمۡ نَبَأَ إِبۡرَٰهِيمَ
 sentence_translation: Relate to them ˹O Prophet˺ the story of Abraham,
 word_by_word:
   1:
-    arabic: وَاتۡلُ
+    arabic: وَٱتۡلُ
     translation: And recite
     transliteration: wa-ut'lu
   2:
@@ -11,11 +11,11 @@ word_by_word:
     translation: to them
     transliteration: ʿalayhim
   3:
-    arabic: نَبَاَ
+    arabic: نَبَأَ
     translation: (the) news
     transliteration: naba-a
   4:
-    arabic: اِبۡرٰهِيۡمَ​ۘ‏
+    arabic: إِبۡرَٰهِيمَ
     translation: (of) Ibrahim
     transliteration: ib'rāhīma
 ---

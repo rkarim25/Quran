@@ -1,10 +1,10 @@
 ---
-arabic_ayat: لَا يُؤَاخِذُكُمُ اللّٰهُ بِاللَّغۡوِ فِىۡۤ اَيۡمَانِكُمۡ وَلٰـكِنۡ يُّؤَاخِذُكُمۡ
-  بِمَا عَقَّدْتُّمُ الۡاَيۡمَانَ​ ۚ فَكَفَّارَتُهٗۤ اِطۡعَامُ عَشَرَةِ مَسٰكِيۡنَ
-  مِنۡ اَوۡسَطِ مَا تُطۡعِمُوۡنَ اَهۡلِيۡكُمۡ اَوۡ كِسۡوَتُهُمۡ اَوۡ تَحۡرِيۡرُ رَقَبَةٍ​
-  ؕ فَمَنۡ لَّمۡ يَجِدۡ فَصِيَامُ ثَلٰثَةِ اَيَّامٍ​ ؕ ذٰ لِكَ كَفَّارَةُ اَيۡمَانِكُمۡ
-  اِذَا حَلَفۡتُمۡ​ ؕ وَاحۡفَظُوۡۤا اَيۡمَانَكُمۡ​ ؕ كَذٰلِكَ يُبَيِّنُ اللّٰهُ لَـكُمۡ
-  اٰيٰتِهٖ لَعَلَّكُمۡ تَشۡكُرُوۡنَ‏
+arabic_ayat: لَا يُؤَاخِذُكُمُ ٱللَّهُ بِٱللَّغۡوِ فِيٓ أَيۡمَٰنِكُمۡ وَلَٰكِن يُؤَاخِذُكُم
+  بِمَا عَقَّدتُّمُ ٱلۡأَيۡمَٰنَۖ فَكَفَّٰرَتُهُۥٓ إِطۡعَامُ عَشَرَةِ مَسَٰكِينَ مِنۡ
+  أَوۡسَطِ مَا تُطۡعِمُونَ أَهۡلِيكُمۡ أَوۡ كِسۡوَتُهُمۡ أَوۡ تَحۡرِيرُ رَقَبَةٖۖ
+  فَمَن لَّمۡ يَجِدۡ فَصِيَامُ ثَلَٰثَةِ أَيَّامٖۚ ذَٰلِكَ كَفَّٰرَةُ أَيۡمَٰنِكُمۡ
+  إِذَا حَلَفۡتُمۡۚ وَٱحۡفَظُوٓاْ أَيۡمَٰنَكُمۡۚ كَذَٰلِكَ يُبَيِّنُ ٱللَّهُ لَكُمۡ
+  ءَايَٰتِهِۦ لَعَلَّكُمۡ تَشۡكُرُونَ
 sentence_translation: Allah will not call you to account for your thoughtless oaths,
   but He will hold you accountable for deliberate oaths. The penalty for a broken
   oath is to feed ten poor people from what you normally feed your own family, or
@@ -22,27 +22,27 @@ word_by_word:
     translation: will call you to account
     transliteration: yuākhidhukumu
   3:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   4:
-    arabic: بِاللَّغۡوِ
+    arabic: بِٱللَّغۡوِ
     translation: for the thoughtless utterances
     transliteration: bil-laghwi
   5:
-    arabic: فِىۡۤ
+    arabic: فِيٓ
     translation: in
     transliteration: fī
   6:
-    arabic: اَيۡمَانِكُمۡ
+    arabic: أَيۡمَٰنِكُمۡ
     translation: your oaths
     transliteration: aymānikum
   7:
-    arabic: وَلٰـكِنۡ
+    arabic: وَلَٰكِن
     translation: but
     transliteration: walākin
   8:
-    arabic: يُّؤَاخِذُكُمۡ
+    arabic: يُؤَاخِذُكُم
     translation: He will call you to account
     transliteration: yuākhidhukum
   9:
@@ -50,19 +50,19 @@ word_by_word:
     translation: for what
     transliteration: bimā
   10:
-    arabic: عَقَّدْتُّمُ
+    arabic: عَقَّدتُّمُ
     translation: you contracted
     transliteration: ʿaqqadttumu
   11:
-    arabic: الۡاَيۡمَانَ​ ۚ
+    arabic: ٱلۡأَيۡمَٰنَۖ
     translation: (of) the oath
     transliteration: l-aymāna
   12:
-    arabic: فَكَفَّارَتُهٗۤ
+    arabic: فَكَفَّٰرَتُهُۥٓ
     translation: So its expiation
     transliteration: fakaffāratuhu
   13:
-    arabic: اِطۡعَامُ
+    arabic: إِطۡعَامُ
     translation: (is) feeding
     transliteration: iṭ'ʿāmu
   14:
@@ -70,7 +70,7 @@ word_by_word:
     translation: (of) ten
     transliteration: ʿasharati
   15:
-    arabic: مَسٰكِيۡنَ
+    arabic: مَسَٰكِينَ
     translation: needy people
     transliteration: masākīna
   16:
@@ -78,7 +78,7 @@ word_by_word:
     translation: of
     transliteration: min
   17:
-    arabic: اَوۡسَطِ
+    arabic: أَوۡسَطِ
     translation: average
     transliteration: awsaṭi
   18:
@@ -86,15 +86,15 @@ word_by_word:
     translation: (of) what
     transliteration: mā
   19:
-    arabic: تُطۡعِمُوۡنَ
+    arabic: تُطۡعِمُونَ
     translation: you feed
     transliteration: tuṭ'ʿimūna
   20:
-    arabic: اَهۡلِيۡكُمۡ
+    arabic: أَهۡلِيكُمۡ
     translation: your families
     transliteration: ahlīkum
   21:
-    arabic: اَوۡ
+    arabic: أَوۡ
     translation: or
     transliteration: aw
   22:
@@ -102,19 +102,19 @@ word_by_word:
     translation: clothing them
     transliteration: kis'watuhum
   23:
-    arabic: اَوۡ
+    arabic: أَوۡ
     translation: or
     transliteration: aw
   24:
-    arabic: تَحۡرِيۡرُ
+    arabic: تَحۡرِيرُ
     translation: freeing
     transliteration: taḥrīru
   25:
-    arabic: رَقَبَةٍ​ ؕ
+    arabic: رَقَبَةٖۖ
     translation: a slave
     transliteration: raqabatin
   26:
-    arabic: فَمَنۡ
+    arabic: فَمَن
     translation: But whoever
     transliteration: faman
   27:
@@ -130,43 +130,43 @@ word_by_word:
     translation: (that), then fasting
     transliteration: faṣiyāmu
   30:
-    arabic: ثَلٰثَةِ
+    arabic: ثَلَٰثَةِ
     translation: (for) three
     transliteration: thalāthati
   31:
-    arabic: اَيَّامٍ​ ؕ
+    arabic: أَيَّامٖۚ
     translation: days
     transliteration: ayyāmin
   32:
-    arabic: ذٰ لِكَ
+    arabic: ذَٰلِكَ
     translation: That
     transliteration: dhālika
   33:
-    arabic: كَفَّارَةُ
+    arabic: كَفَّٰرَةُ
     translation: (is the) expiation
     transliteration: kaffāratu
   34:
-    arabic: اَيۡمَانِكُمۡ
+    arabic: أَيۡمَٰنِكُمۡ
     translation: (of) your oaths
     transliteration: aymānikum
   35:
-    arabic: اِذَا
+    arabic: إِذَا
     translation: when
     transliteration: idhā
   36:
-    arabic: حَلَفۡتُمۡ​ ؕ
+    arabic: حَلَفۡتُمۡۚ
     translation: you have sworn
     transliteration: ḥalaftum
   37:
-    arabic: وَاحۡفَظُوۡۤا
+    arabic: وَٱحۡفَظُوٓاْ
     translation: And guard
     transliteration: wa-iḥ'faẓū
   38:
-    arabic: اَيۡمَانَكُمۡ​ ؕ
+    arabic: أَيۡمَٰنَكُمۡۚ
     translation: your oaths
     transliteration: aymānakum
   39:
-    arabic: كَذٰلِكَ
+    arabic: كَذَٰلِكَ
     translation: Thus
     transliteration: kadhālika
   40:
@@ -174,15 +174,15 @@ word_by_word:
     translation: makes clear
     transliteration: yubayyinu
   41:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   42:
-    arabic: لَـكُمۡ
+    arabic: لَكُمۡ ءَ
     translation: to you
     transliteration: lakum
   43:
-    arabic: اٰيٰتِهٖ
+    arabic: ايَٰتِهِۦ
     translation: His Verses
     transliteration: āyātihi
   44:
@@ -190,7 +190,7 @@ word_by_word:
     translation: so that you may
     transliteration: laʿallakum
   45:
-    arabic: تَشۡكُرُوۡنَ‏
+    arabic: تَشۡكُرُونَ
     translation: (be) grateful
     transliteration: tashkurūna
 ---

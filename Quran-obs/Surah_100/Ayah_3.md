@@ -1,13 +1,13 @@
 ---
-arabic_ayat: فَالۡمُغِيۡرٰتِ صُبۡحًا ۙ‏
+arabic_ayat: فَٱلۡمُغِيرَٰتِ صُبۡحٗا
 sentence_translation: launching raids at dawn,
 word_by_word:
   1:
-    arabic: فَالۡمُغِيۡرٰتِ
+    arabic: فَٱلۡمُغِيرَٰتِ
     translation: And the chargers
     transliteration: fal-mughīrāti
   2:
-    arabic: صُبۡحًا ۙ‏
+    arabic: صُبۡحٗا
     translation: (at) dawn
     transliteration: ṣub'ḥan
 ---

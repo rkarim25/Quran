@@ -1,24 +1,24 @@
 ---
-arabic_ayat: حَتّٰٓى اِذَاۤ اَتَوۡا عَلٰى وَادِ النَّمۡلِۙ قَالَتۡ نَمۡلَةٌ يّٰۤاَيُّهَا
-  النَّمۡلُ ادۡخُلُوۡا مَسٰكِنَكُمۡ​ۚ لَا يَحۡطِمَنَّكُمۡ سُلَيۡمٰنُ وَجُنُوۡدُهٗۙ
-  وَهُمۡ لَا يَشۡعُرُوۡنَ‏
+arabic_ayat: حَتَّىٰٓ إِذَآ أَتَوۡاْ عَلَىٰ وَادِ ٱلنَّمۡلِ قَالَتۡ نَمۡلَةٞ يَٰٓأَيُّهَا
+  ٱلنَّمۡلُ ٱدۡخُلُواْ مَسَٰكِنَكُمۡ لَا يَحۡطِمَنَّكُمۡ سُلَيۡمَٰنُ وَجُنُودُهُۥ
+  وَهُمۡ لَا يَشۡعُرُونَ
 sentence_translation: And when they came across a valley of ants, an ant warned, “O
   ants! Go quickly into your homes so Solomon and his armies do not crush you, unknowingly.”
 word_by_word:
   1:
-    arabic: حَتّٰٓى
+    arabic: حَتَّىٰٓ
     translation: Until
     transliteration: ḥattā
   2:
-    arabic: اِذَاۤ
+    arabic: إِذَآ
     translation: when
     transliteration: idhā
   3:
-    arabic: اَتَوۡا
+    arabic: أَتَوۡاْ
     translation: they came
     transliteration: ataw
   4:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: to
     transliteration: ʿalā
   5:
@@ -26,7 +26,7 @@ word_by_word:
     translation: (the) valley
     transliteration: wādi
   6:
-    arabic: النَّمۡلِۙ
+    arabic: ٱلنَّمۡلِ
     translation: (of) the ants
     transliteration: l-namli
   7:
@@ -34,23 +34,23 @@ word_by_word:
     translation: said
     transliteration: qālat
   8:
-    arabic: نَمۡلَةٌ
+    arabic: نَمۡلَةٞ
     translation: an ant
     transliteration: namlatun
   9:
-    arabic: يّٰۤاَيُّهَا
+    arabic: يَٰٓأَيُّهَا
     translation: O
     transliteration: yāayyuhā
   10:
-    arabic: النَّمۡلُ
+    arabic: ٱلنَّمۡلُ
     translation: ants
     transliteration: l-namlu
   11:
-    arabic: ادۡخُلُوۡا
+    arabic: ٱدۡخُلُواْ
     translation: Enter
     transliteration: ud'khulū
   12:
-    arabic: مَسٰكِنَكُمۡ​ۚ
+    arabic: مَسَٰكِنَكُمۡ
     translation: your dwellings
     transliteration: masākinakum
   13:
@@ -62,11 +62,11 @@ word_by_word:
     translation: lest not crush you
     transliteration: yaḥṭimannakum
   15:
-    arabic: سُلَيۡمٰنُ
+    arabic: سُلَيۡمَٰنُ
     translation: Sulaiman
     transliteration: sulaymānu
   16:
-    arabic: وَجُنُوۡدُهٗۙ
+    arabic: وَجُنُودُهُۥ
     translation: and his hosts
     transliteration: wajunūduhu
   17:
@@ -78,7 +78,7 @@ word_by_word:
     translation: (do) not perceive
     transliteration: lā
   19:
-    arabic: يَشۡعُرُوۡنَ‏
+    arabic: يَشۡعُرُونَ
     translation: (do) not perceive
     transliteration: yashʿurūna
 ---

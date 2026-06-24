@@ -1,46 +1,46 @@
 ---
-arabic_ayat: الَّذِيۡنَ يَذۡكُرُوۡنَ اللّٰهَ قِيَامًا وَّقُعُوۡدًا وَّعَلٰى جُنُوۡبِهِمۡ
-  وَيَتَفَكَّرُوۡنَ فِىۡ خَلۡقِ السَّمٰوٰتِ وَالۡاَرۡضِ​ۚ رَبَّنَا مَا خَلَقۡتَ هٰذَا
-  بَاطِلًا ۚ سُبۡحٰنَكَ فَقِنَا عَذَابَ النَّارِ‏
+arabic_ayat: ٱلَّذِينَ يَذۡكُرُونَ ٱللَّهَ قِيَٰمٗا وَقُعُودٗا وَعَلَىٰ جُنُوبِهِمۡ
+  وَيَتَفَكَّرُونَ فِي خَلۡقِ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِ رَبَّنَا مَا خَلَقۡتَ هَٰذَا
+  بَٰطِلٗا سُبۡحَٰنَكَ فَقِنَا عَذَابَ ٱلنَّارِ
 sentence_translation: ˹They are˺ those who remember Allah while standing, sitting,
   and lying on their sides, and reflect on the creation of the heavens and the earth
   ˹and pray˺, “Our Lord! You have not created ˹all of˺ this without purpose. Glory
   be to You! Protect us from the torment of the Fire.
 word_by_word:
   1:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: Those who
     transliteration: alladhīna
   2:
-    arabic: يَذۡكُرُوۡنَ
+    arabic: يَذۡكُرُونَ
     translation: remember
     transliteration: yadhkurūna
   3:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   4:
-    arabic: قِيَامًا
+    arabic: قِيَٰمٗا
     translation: standing
     transliteration: qiyāman
   5:
-    arabic: وَّقُعُوۡدًا
+    arabic: وَقُعُودٗا
     translation: and sitting
     transliteration: waquʿūdan
   6:
-    arabic: وَّعَلٰى
+    arabic: وَعَلَىٰ
     translation: and on
     transliteration: waʿalā
   7:
-    arabic: جُنُوۡبِهِمۡ
+    arabic: جُنُوبِهِمۡ
     translation: their sides
     transliteration: junūbihim
   8:
-    arabic: وَيَتَفَكَّرُوۡنَ
+    arabic: وَيَتَفَكَّرُونَ
     translation: and they reflect
     transliteration: wayatafakkarūna
   9:
-    arabic: فِىۡ
+    arabic: فِي
     translation: 'on'
     transliteration: fī
   10:
@@ -48,11 +48,11 @@ word_by_word:
     translation: (the) creation
     transliteration: khalqi
   11:
-    arabic: السَّمٰوٰتِ
+    arabic: ٱلسَّمَٰوَٰتِ
     translation: (of) the heavens
     transliteration: l-samāwāti
   12:
-    arabic: وَالۡاَرۡضِ​ۚ
+    arabic: وَٱلۡأَرۡضِ
     translation: and the earth
     transliteration: wal-arḍi
   13:
@@ -68,15 +68,15 @@ word_by_word:
     translation: You have created
     transliteration: khalaqta
   16:
-    arabic: هٰذَا
+    arabic: هَٰذَا
     translation: this
     transliteration: hādhā
   17:
-    arabic: بَاطِلًا ۚ
+    arabic: بَٰطِلٗا
     translation: (in) vain
     transliteration: bāṭilan
   18:
-    arabic: سُبۡحٰنَكَ
+    arabic: سُبۡحَٰنَكَ
     translation: Glory be to You
     transliteration: sub'ḥānaka
   19:
@@ -88,7 +88,7 @@ word_by_word:
     translation: (from the) punishment
     transliteration: ʿadhāba
   21:
-    arabic: النَّارِ‏
+    arabic: ٱلنَّارِ
     translation: (of) the Fire
     transliteration: l-nāri
 ---

@@ -1,20 +1,20 @@
 ---
-arabic_ayat: اَلۡحَمۡدُ لِلّٰهِ الَّذِىۡ خَلَقَ السَّمٰوٰتِ وَالۡاَرۡضَ وَجَعَلَ الظُّلُمٰتِ
-  وَالنُّوۡرَ  ؕ ثُمَّ الَّذِيۡنَ كَفَرُوۡا بِرَبِّهِمۡ يَعۡدِلُوۡنَ‏
+arabic_ayat: ٱلۡحَمۡدُ لِلَّهِ ٱلَّذِي خَلَقَ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضَ وَجَعَلَ ٱلظُّلُمَٰتِ
+  وَٱلنُّورَۖ ثُمَّ ٱلَّذِينَ كَفَرُواْ بِرَبِّهِمۡ يَعۡدِلُونَ
 sentence_translation: All praise is for Allah Who created the heavens and the earth
   and made darkness and light. Yet the disbelievers set up equals to their Lord ˹in
   worship˺.
 word_by_word:
   1:
-    arabic: اَلۡحَمۡدُ
+    arabic: ٱلۡحَمۡدُ
     translation: (All) the praises and thanks
     transliteration: al-ḥamdu
   2:
-    arabic: لِلّٰهِ
+    arabic: لِلَّهِ
     translation: (be) to Allah
     transliteration: lillahi
   3:
-    arabic: الَّذِىۡ
+    arabic: ٱلَّذِي
     translation: the One Who
     transliteration: alladhī
   4:
@@ -22,11 +22,11 @@ word_by_word:
     translation: created
     transliteration: khalaqa
   5:
-    arabic: السَّمٰوٰتِ
+    arabic: ٱلسَّمَٰوَٰتِ
     translation: the heavens
     transliteration: l-samāwāti
   6:
-    arabic: وَالۡاَرۡضَ
+    arabic: وَٱلۡأَرۡضَ
     translation: and the earth
     transliteration: wal-arḍa
   7:
@@ -34,11 +34,11 @@ word_by_word:
     translation: and made
     transliteration: wajaʿala
   8:
-    arabic: الظُّلُمٰتِ
+    arabic: ٱلظُّلُمَٰتِ
     translation: the darkness[es]
     transliteration: l-ẓulumāti
   9:
-    arabic: وَالنُّوۡرَ  ؕ
+    arabic: وَٱلنُّورَۖ
     translation: and the light
     transliteration: wal-nūra
   10:
@@ -46,11 +46,11 @@ word_by_word:
     translation: Then
     transliteration: thumma
   11:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   12:
-    arabic: كَفَرُوۡا
+    arabic: كَفَرُواْ
     translation: disbelieved
     transliteration: kafarū
   13:
@@ -58,7 +58,7 @@ word_by_word:
     translation: in their Lord
     transliteration: birabbihim
   14:
-    arabic: يَعۡدِلُوۡنَ‏
+    arabic: يَعۡدِلُونَ
     translation: equate others with Him
     transliteration: yaʿdilūna
 ---

@@ -1,21 +1,21 @@
 ---
-arabic_ayat: لٰـكِنِ الَّذِيۡنَ اتَّقَوۡا رَبَّهُمۡ لَهُمۡ غُرَفٌ مِّنۡ فَوۡقِهَا
-  غُرَفٌ مَّبۡنِيَّةٌ ۙ تَجۡرِىۡ مِنۡ تَحۡتِهَا الۡاَنۡهٰرُ ؕوَعۡدَ اللّٰهِ​ ؕ لَا
-  يُخۡلِفُ اللّٰهُ الۡمِيۡعَادَ‏
+arabic_ayat: لَٰكِنِ ٱلَّذِينَ ٱتَّقَوۡاْ رَبَّهُمۡ لَهُمۡ غُرَفٞ مِّن فَوۡقِهَا غُرَفٞ
+  مَّبۡنِيَّةٞ تَجۡرِي مِن تَحۡتِهَا ٱلۡأَنۡهَٰرُۖ وَعۡدَ ٱللَّهِ لَا يُخۡلِفُ ٱللَّهُ
+  ٱلۡمِيعَادَ
 sentence_translation: But those mindful of their Lord will have ˹elevated˺ mansions,
   built one above the other, under which rivers flow. ˹That is˺ the promise of Allah.
   ˹And˺ Allah never fails in ˹His˺ promise.
 word_by_word:
   1:
-    arabic: لٰـكِنِ
+    arabic: لَٰكِنِ
     translation: But
     transliteration: lākini
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   3:
-    arabic: اتَّقَوۡا
+    arabic: ٱتَّقَوۡاْ
     translation: fear
     transliteration: ittaqaw
   4:
@@ -27,11 +27,11 @@ word_by_word:
     translation: for them
     transliteration: lahum
   6:
-    arabic: غُرَفٌ
+    arabic: غُرَفٞ
     translation: (are) lofty mansions
     transliteration: ghurafun
   7:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: above them
     transliteration: min
   8:
@@ -39,19 +39,19 @@ word_by_word:
     translation: above them
     transliteration: fawqihā
   9:
-    arabic: غُرَفٌ
+    arabic: غُرَفٞ
     translation: lofty mansions
     transliteration: ghurafun
   10:
-    arabic: مَّبۡنِيَّةٌ ۙ
+    arabic: مَّبۡنِيَّةٞ
     translation: built high
     transliteration: mabniyyatun
   11:
-    arabic: تَجۡرِىۡ
+    arabic: تَجۡرِي
     translation: flow
     transliteration: tajrī
   12:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   13:
@@ -59,7 +59,7 @@ word_by_word:
     translation: beneath it
     transliteration: taḥtihā
   14:
-    arabic: الۡاَنۡهٰرُ ؕ
+    arabic: ٱلۡأَنۡهَٰرُۖ
     translation: the rivers
     transliteration: l-anhāru
   15:
@@ -67,7 +67,7 @@ word_by_word:
     translation: (The) Promise
     transliteration: waʿda
   16:
-    arabic: اللّٰهِ​ ؕ
+    arabic: ٱللَّهِ
     translation: (of) Allah
     transliteration: l-lahi
   17:
@@ -79,11 +79,11 @@ word_by_word:
     translation: Allah fails
     transliteration: yukh'lifu
   19:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah fails
     transliteration: l-lahu
   20:
-    arabic: الۡمِيۡعَادَ‏
+    arabic: ٱلۡمِيعَادَ
     translation: (in His) promise
     transliteration: l-mīʿāda
 ---

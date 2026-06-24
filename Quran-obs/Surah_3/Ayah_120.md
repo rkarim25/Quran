@@ -1,14 +1,14 @@
 ---
-arabic_ayat: اِنۡ تَمۡسَسۡكُمۡ حَسَنَةٌ تَسُؤۡهُمۡ وَاِنۡ تُصِبۡكُمۡ سَيِّئَةٌ يَّفۡرَحُوۡا
-  بِهَا ​ۚ وَاِنۡ تَصۡبِرُوۡا وَتَتَّقُوۡا لَا يَضُرُّكُمۡ كَيۡدُهُمۡ شَيۡـــًٔا ؕ
-  اِنَّ اللّٰهَ بِمَا يَعۡمَلُوۡنَ مُحِيۡطٌ‏
+arabic_ayat: إِن تَمۡسَسۡكُمۡ حَسَنَةٞ تَسُؤۡهُمۡ وَإِن تُصِبۡكُمۡ سَيِّئَةٞ يَفۡرَحُواْ
+  بِهَاۖ وَإِن تَصۡبِرُواْ وَتَتَّقُواْ لَا يَضُرُّكُمۡ كَيۡدُهُمۡ شَيۡـًٔاۗ إِنَّ
+  ٱللَّهَ بِمَا يَعۡمَلُونَ مُحِيطٞ
 sentence_translation: When you ˹believers˺ are touched with good, they grieve; but
   when you are afflicted with evil, they rejoice. ˹Yet,˺ if you are patient and mindful
   ˹of Allah˺, their schemes will not harm you in the least. Surely Allah is Fully
   Aware of what they do.
 word_by_word:
   1:
-    arabic: اِنۡ
+    arabic: إِن
     translation: If
     transliteration: in
   2:
@@ -16,15 +16,15 @@ word_by_word:
     translation: touches you
     transliteration: tamsaskum
   3:
-    arabic: حَسَنَةٌ
+    arabic: حَسَنَةٞ
     translation: a good
     transliteration: ḥasanatun
   4:
-    arabic: تَسُؤۡهُمۡ
+    arabic: تَسُؤۡهُمۡ
     translation: it grieves them
     transliteration: tasu'hum
   5:
-    arabic: وَاِنۡ
+    arabic: وَإِن
     translation: and if
     transliteration: wa-in
   6:
@@ -32,27 +32,27 @@ word_by_word:
     translation: strikes you
     transliteration: tuṣib'kum
   7:
-    arabic: سَيِّئَةٌ
+    arabic: سَيِّئَةٞ
     translation: misfortune
     transliteration: sayyi-atun
   8:
-    arabic: يَّفۡرَحُوۡا
+    arabic: يَفۡرَحُواْ
     translation: they rejoice
     transliteration: yafraḥū
   9:
-    arabic: بِهَا ​ۚ
+    arabic: بِهَاۖ
     translation: at it
     transliteration: bihā
   10:
-    arabic: وَاِنۡ
+    arabic: وَإِن
     translation: And if
     transliteration: wa-in
   11:
-    arabic: تَصۡبِرُوۡا
+    arabic: تَصۡبِرُواْ
     translation: you are patient
     transliteration: taṣbirū
   12:
-    arabic: وَتَتَّقُوۡا
+    arabic: وَتَتَّقُواْ
     translation: and fear (Allah)
     transliteration: watattaqū
   13:
@@ -68,15 +68,15 @@ word_by_word:
     translation: their plot
     transliteration: kayduhum
   16:
-    arabic: شَيۡـــًٔا ؕ
+    arabic: شَيۡـًٔاۗ
     translation: (in) anything
     transliteration: shayan
   17:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   18:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   19:
@@ -84,11 +84,11 @@ word_by_word:
     translation: of what
     transliteration: bimā
   20:
-    arabic: يَعۡمَلُوۡنَ
+    arabic: يَعۡمَلُونَ
     translation: they do
     transliteration: yaʿmalūna
   21:
-    arabic: مُحِيۡطٌ‏
+    arabic: مُحِيطٞ
     translation: (is) All-Encompassing
     transliteration: muḥīṭun
 ---

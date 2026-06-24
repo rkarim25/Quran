@@ -1,24 +1,24 @@
 ---
-arabic_ayat: يَّسۡمَعُ اٰيٰتِ اللّٰهِ تُتۡلٰى عَلَيۡهِ ثُمَّ يُصِرُّ مُسۡتَكۡبِرًا
-  كَاَنۡ لَّمۡ يَسۡمَعۡهَا​ ۚ فَبَشِّرۡهُ بِعَذَابٍ اَ لِيۡمٍ‏
+arabic_ayat: يَسۡمَعُ ءَايَٰتِ ٱللَّهِ تُتۡلَىٰ عَلَيۡهِ ثُمَّ يُصِرُّ مُسۡتَكۡبِرٗا
+  كَأَن لَّمۡ يَسۡمَعۡهَاۖ فَبَشِّرۡهُ بِعَذَابٍ أَلِيمٖ
 sentence_translation: They hear Allah’s revelations recited to them, then persist
   ˹in denial˺ arrogantly as if they did not hear them. So give them good news of a
   painful punishment.
 word_by_word:
   1:
-    arabic: يَّسۡمَعُ
+    arabic: يَسۡمَعُ ءَ
     translation: Who hears
     transliteration: yasmaʿu
   2:
-    arabic: اٰيٰتِ
+    arabic: ايَٰتِ
     translation: (the) Verses
     transliteration: āyāti
   3:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (of) Allah
     transliteration: l-lahi
   4:
-    arabic: تُتۡلٰى
+    arabic: تُتۡلَىٰ
     translation: recited
     transliteration: tut'lā
   5:
@@ -34,11 +34,11 @@ word_by_word:
     translation: persists
     transliteration: yuṣirru
   8:
-    arabic: مُسۡتَكۡبِرًا
+    arabic: مُسۡتَكۡبِرٗا
     translation: arrogantly
     transliteration: mus'takbiran
   9:
-    arabic: كَاَنۡ
+    arabic: كَأَن
     translation: as if
     transliteration: ka-an
   10:
@@ -46,7 +46,7 @@ word_by_word:
     translation: not
     transliteration: lam
   11:
-    arabic: يَسۡمَعۡهَا​ ۚ
+    arabic: يَسۡمَعۡهَاۖ
     translation: he heard them
     transliteration: yasmaʿhā
   12:
@@ -58,7 +58,7 @@ word_by_word:
     translation: (of) a punishment
     transliteration: biʿadhābin
   14:
-    arabic: اَ لِيۡمٍ‏
+    arabic: أَلِيمٖ
     translation: painful
     transliteration: alīmin
 ---

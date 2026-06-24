@@ -1,31 +1,31 @@
 ---
-arabic_ayat: وَمَنۡ يُّهَاجِرۡ فِىۡ سَبِيۡلِ اللّٰهِ يَجِدۡ فِى الۡاَرۡضِ مُرٰغَمًا
-  كَثِيۡرًا وَّسَعَةً​ ؕ وَمَنۡ يَّخۡرُجۡ مِنۡۢ بَيۡتِهٖ مُهَاجِرًا اِلَى اللّٰهِ
-  وَرَسُوۡلِهٖ ثُمَّ يُدۡرِكۡهُ الۡمَوۡتُ فَقَدۡ وَقَعَ اَجۡرُهٗ عَلَى اللّٰهِ​ ؕ
-  وَكَانَ اللّٰهُ غَفُوۡرًا رَّحِيۡمًا‏
+arabic_ayat: ۞ وَمَن يُهَاجِرۡ فِي سَبِيلِ ٱللَّهِ يَجِدۡ فِي ٱلۡأَرۡضِ مُرَٰغَمٗا
+  كَثِيرٗا وَسَعَةٗۚ وَمَن يَخۡرُجۡ مِنۢ بَيۡتِهِۦ مُهَاجِرًا إِلَى ٱللَّهِ وَرَسُولِهِۦ
+  ثُمَّ يُدۡرِكۡهُ ٱلۡمَوۡتُ فَقَدۡ وَقَعَ أَجۡرُهُۥ عَلَى ٱللَّهِۗ وَكَانَ ٱللَّهُ
+  غَفُورٗا رَّحِيمٗا
 sentence_translation: Whoever emigrates in the cause of Allah will find many safe
   havens and bountiful resources throughout the earth. Those who leave their homes
   and die while emigrating to Allah and His Messenger—their reward has already been
   secured with Allah. And Allah is All-Forgiving, Most Merciful.
 word_by_word:
   1:
-    arabic: ۞ وَمَنۡ
+    arabic: ۞ وَمَن
     translation: And whoever
     transliteration: waman
   2:
-    arabic: يُّهَاجِرۡ
+    arabic: يُهَاجِرۡ
     translation: emigrates
     transliteration: yuhājir
   3:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   4:
-    arabic: سَبِيۡلِ
+    arabic: سَبِيلِ
     translation: (the) way
     transliteration: sabīli
   5:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (of) Allah
     transliteration: l-lahi
   6:
@@ -33,39 +33,39 @@ word_by_word:
     translation: will find
     transliteration: yajid
   7:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   8:
-    arabic: الۡاَرۡضِ
+    arabic: ٱلۡأَرۡضِ
     translation: the earth
     transliteration: l-arḍi
   9:
-    arabic: مُرٰغَمًا
+    arabic: مُرَٰغَمٗا
     translation: 'place(s) of refuge '
     transliteration: murāghaman
   10:
-    arabic: كَثِيۡرًا
+    arabic: كَثِيرٗا
     translation: many
     transliteration: kathīran
   11:
-    arabic: وَّسَعَةً​ ؕ
+    arabic: وَسَعَةٗۚ
     translation: and abundance
     transliteration: wasaʿatan
   12:
-    arabic: وَمَنۡ
+    arabic: وَمَن
     translation: And whoever
     transliteration: waman
   13:
-    arabic: يَّخۡرُجۡ
+    arabic: يَخۡرُجۡ
     translation: leaves
     transliteration: yakhruj
   14:
-    arabic: مِنۡۢ
+    arabic: مِنۢ
     translation: from
     transliteration: min
   15:
-    arabic: بَيۡتِهٖ
+    arabic: بَيۡتِهِۦ
     translation: his home
     transliteration: baytihi
   16:
@@ -73,15 +73,15 @@ word_by_word:
     translation: (as) an emigrant
     transliteration: muhājiran
   17:
-    arabic: اِلَى
+    arabic: إِلَى
     translation: to
     transliteration: ilā
   18:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   19:
-    arabic: وَرَسُوۡلِهٖ
+    arabic: وَرَسُولِهِۦ
     translation: and His Messenger
     transliteration: warasūlihi
   20:
@@ -93,7 +93,7 @@ word_by_word:
     translation: overtakes him
     transliteration: yud'rik'hu
   22:
-    arabic: الۡمَوۡتُ
+    arabic: ٱلۡمَوۡتُ
     translation: '[the] death'
     transliteration: l-mawtu
   23:
@@ -105,7 +105,7 @@ word_by_word:
     translation: (became) incumbent
     transliteration: waqaʿa
   25:
-    arabic: اَجۡرُهٗ
+    arabic: أَجۡرُهُۥ
     translation: his reward
     transliteration: ajruhu
   26:
@@ -113,7 +113,7 @@ word_by_word:
     translation: 'on'
     transliteration: ʿalā
   27:
-    arabic: اللّٰهِ​ ؕ
+    arabic: ٱللَّهِۗ
     translation: Allah
     transliteration: l-lahi
   28:
@@ -121,15 +121,15 @@ word_by_word:
     translation: And is
     transliteration: wakāna
   29:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   30:
-    arabic: غَفُوۡرًا
+    arabic: غَفُورٗا
     translation: Oft-Forgiving
     transliteration: ghafūran
   31:
-    arabic: رَّحِيۡمًا‏
+    arabic: رَّحِيمٗا
     translation: Most Merciful
     transliteration: raḥīman
 ---

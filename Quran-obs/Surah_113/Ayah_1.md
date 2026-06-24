@@ -1,5 +1,5 @@
 ---
-arabic_ayat: قُلۡ اَعُوۡذُ بِرَبِّ الۡفَلَقِۙ‏
+arabic_ayat: قُلۡ أَعُوذُ بِرَبِّ ٱلۡفَلَقِ
 sentence_translation: Say, ˹O Prophet,˺ “I seek refuge in the Lord of the daybreak
 word_by_word:
   1:
@@ -7,7 +7,7 @@ word_by_word:
     translation: Say
     transliteration: qul
   2:
-    arabic: اَعُوۡذُ
+    arabic: أَعُوذُ
     translation: I seek refuge
     transliteration: aʿūdhu
   3:
@@ -15,7 +15,7 @@ word_by_word:
     translation: in (the) Lord
     transliteration: birabbi
   4:
-    arabic: الۡفَلَقِۙ‏
+    arabic: ٱلۡفَلَقِ
     translation: (of) the dawn
     transliteration: l-falaqi
 ---

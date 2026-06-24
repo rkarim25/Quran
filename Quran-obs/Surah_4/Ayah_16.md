@@ -1,28 +1,28 @@
 ---
-arabic_ayat: وَالَّذٰنِ يَاۡتِيٰنِهَا مِنۡكُمۡ فَاٰذُوۡهُمَا​ ۚ فَاِنۡ تَابَا وَاَصۡلَحَا
-  فَاَعۡرِضُوۡا عَنۡهُمَا​ ؕ اِنَّ اللّٰهَ كَانَ تَوَّابًا رَّحِيۡمًا‏
+arabic_ayat: وَٱلَّذَانِ يَأۡتِيَٰنِهَا مِنكُمۡ فَـَٔاذُوهُمَاۖ فَإِن تَابَا وَأَصۡلَحَا
+  فَأَعۡرِضُواْ عَنۡهُمَآۗ إِنَّ ٱللَّهَ كَانَ تَوَّابٗا رَّحِيمًا
 sentence_translation: And the two among you who commit this sin—discipline them. If
   they repent and mend their ways, relieve them. Surely Allah is ever Accepting of
   Repentance, Most Merciful.
 word_by_word:
   1:
-    arabic: وَالَّذٰنِ
+    arabic: وَٱلَّذَانِ
     translation: And the two who
     transliteration: wa-alladhāni
   2:
-    arabic: يَاۡتِيٰنِهَا
+    arabic: يَأۡتِيَٰنِهَا
     translation: commit it
     transliteration: yatiyānihā
   3:
-    arabic: مِنۡكُمۡ
+    arabic: مِنكُمۡ
     translation: among you
     transliteration: minkum
   4:
-    arabic: فَاٰذُوۡهُمَا​ ۚ
+    arabic: فَـَٔاذُوهُمَاۖ
     translation: then punish both of them
     transliteration: faādhūhumā
   5:
-    arabic: فَاِنۡ
+    arabic: فَإِن
     translation: But if
     transliteration: fa-in
   6:
@@ -30,23 +30,23 @@ word_by_word:
     translation: they repent
     transliteration: tābā
   7:
-    arabic: وَاَصۡلَحَا
+    arabic: وَأَصۡلَحَا
     translation: and correct themselves
     transliteration: wa-aṣlaḥā
   8:
-    arabic: فَاَعۡرِضُوۡا
+    arabic: فَأَعۡرِضُواْ
     translation: then turn away
     transliteration: fa-aʿriḍū
   9:
-    arabic: عَنۡهُمَا​ ؕ
+    arabic: عَنۡهُمَآۗ
     translation: from both of them
     transliteration: ʿanhumā
   10:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   11:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   12:
@@ -54,11 +54,11 @@ word_by_word:
     translation: is
     transliteration: kāna
   13:
-    arabic: تَوَّابًا
+    arabic: تَوَّابٗا
     translation: Oft-Forgiving
     transliteration: tawwāban
   14:
-    arabic: رَّحِيۡمًا‏
+    arabic: رَّحِيمًا
     translation: Most-Merciful
     transliteration: raḥīman
 ---

@@ -1,9 +1,9 @@
 ---
-arabic_ayat: اَمۡرًا مِّنۡ عِنۡدِنَا​ؕ اِنَّا كُنَّا مُرۡسِلِيۡنَ​ۚ‏
+arabic_ayat: أَمۡرٗا مِّنۡ عِندِنَآۚ إِنَّا كُنَّا مُرۡسِلِينَ
 sentence_translation: by a command from Us, for We have always sent ˹messengers˺
 word_by_word:
   1:
-    arabic: اَمۡرًا
+    arabic: أَمۡرٗا
     translation: A command
     transliteration: amran
   2:
@@ -11,11 +11,11 @@ word_by_word:
     translation: from
     transliteration: min
   3:
-    arabic: عِنۡدِنَا​ؕ
+    arabic: عِندِنَآۚ
     translation: Us
     transliteration: ʿindinā
   4:
-    arabic: اِنَّا
+    arabic: إِنَّا
     translation: Indeed, We
     transliteration: innā
   5:
@@ -23,7 +23,7 @@ word_by_word:
     translation: '[We] are'
     transliteration: kunnā
   6:
-    arabic: مُرۡسِلِيۡنَ​ۚ‏
+    arabic: مُرۡسِلِينَ
     translation: (ever) sending
     transliteration: mur'silīna
 ---

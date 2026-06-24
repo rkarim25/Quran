@@ -1,5 +1,5 @@
 ---
-arabic_ayat: لَا يَسۡتَطِيۡعُوۡنَ نَصۡرَهُمۡۙ وَهُمۡ لَهُمۡ جُنۡدٌ مُّحۡضَرُوۡنَ‏
+arabic_ayat: لَا يَسۡتَطِيعُونَ نَصۡرَهُمۡ وَهُمۡ لَهُمۡ جُندٞ مُّحۡضَرُونَ
 sentence_translation: They cannot help the pagans, even though they serve the idols
   as dedicated guards.
 word_by_word:
@@ -8,11 +8,11 @@ word_by_word:
     translation: Not
     transliteration: lā
   2:
-    arabic: يَسۡتَطِيۡعُوۡنَ
+    arabic: يَسۡتَطِيعُونَ
     translation: they are able
     transliteration: yastaṭīʿūna
   3:
-    arabic: نَصۡرَهُمۡۙ
+    arabic: نَصۡرَهُمۡ
     translation: to help them
     transliteration: naṣrahum
   4:
@@ -24,11 +24,11 @@ word_by_word:
     translation: for them
     transliteration: lahum
   6:
-    arabic: جُنۡدٌ
+    arabic: جُندٞ
     translation: (are) hosts
     transliteration: jundun
   7:
-    arabic: مُّحۡضَرُوۡنَ‏
+    arabic: مُّحۡضَرُونَ
     translation: (who will) be brought
     transliteration: muḥ'ḍarūna
 ---

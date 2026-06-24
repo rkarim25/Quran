@@ -1,7 +1,7 @@
 ---
-arabic_ayat: ثُمَّ بَعَثۡنَا مِنۡۢ بَعۡدِهٖ رُسُلًا اِلٰى قَوۡمِهِمۡ فَجَآءُوۡهُمۡ
-  بِالۡبَيِّنٰتِ فَمَا كَانُوۡا لِيُؤۡمِنُوۡا بِمَا كَذَّبُوۡا بِهٖ مِنۡ قَبۡلُ​ ؕ
-  كَذٰلِكَ نَطۡبَعُ عَلٰى قُلُوۡبِ الۡمُعۡتَدِيۡنَ‏
+arabic_ayat: ثُمَّ بَعَثۡنَا مِنۢ بَعۡدِهِۦ رُسُلًا إِلَىٰ قَوۡمِهِمۡ فَجَآءُوهُم
+  بِٱلۡبَيِّنَٰتِ فَمَا كَانُواْ لِيُؤۡمِنُواْ بِمَا كَذَّبُواْ بِهِۦ مِن قَبۡلُۚ
+  كَذَٰلِكَ نَطۡبَعُ عَلَىٰ قُلُوبِ ٱلۡمُعۡتَدِينَ
 sentence_translation: Then after him We sent ˹other˺ messengers to their ˹own˺ people
   and they came to them with clear proofs. But they would not believe in what they
   had rejected before. This is how We seal the hearts of the transgressors.
@@ -15,11 +15,11 @@ word_by_word:
     translation: We sent
     transliteration: baʿathnā
   3:
-    arabic: مِنۡۢ
+    arabic: مِنۢ
     translation: after him
     transliteration: min
   4:
-    arabic: بَعۡدِهٖ
+    arabic: بَعۡدِهِۦ
     translation: after him
     transliteration: baʿdihi
   5:
@@ -27,7 +27,7 @@ word_by_word:
     translation: Messengers
     transliteration: rusulan
   6:
-    arabic: اِلٰى
+    arabic: إِلَىٰ
     translation: to
     transliteration: ilā
   7:
@@ -35,11 +35,11 @@ word_by_word:
     translation: their people
     transliteration: qawmihim
   8:
-    arabic: فَجَآءُوۡهُمۡ
+    arabic: فَجَآءُوهُم
     translation: and they came to them
     transliteration: fajāūhum
   9:
-    arabic: بِالۡبَيِّنٰتِ
+    arabic: بِٱلۡبَيِّنَٰتِ
     translation: with clear proofs
     transliteration: bil-bayināti
   10:
@@ -47,11 +47,11 @@ word_by_word:
     translation: But not
     transliteration: famā
   11:
-    arabic: كَانُوۡا
+    arabic: كَانُواْ
     translation: they were
     transliteration: kānū
   12:
-    arabic: لِيُؤۡمِنُوۡا
+    arabic: لِيُؤۡمِنُواْ
     translation: to believe
     transliteration: liyu'minū
   13:
@@ -59,23 +59,23 @@ word_by_word:
     translation: what
     transliteration: bimā
   14:
-    arabic: كَذَّبُوۡا
+    arabic: كَذَّبُواْ
     translation: they had denied
     transliteration: kadhabū
   15:
-    arabic: بِهٖ
+    arabic: بِهِۦ
     translation: '[it]'
     transliteration: bihi
   16:
-    arabic: مِنۡ
+    arabic: مِن
     translation: before
     transliteration: min
   17:
-    arabic: قَبۡلُ​ ؕ
+    arabic: قَبۡلُۚ
     translation: before
     transliteration: qablu
   18:
-    arabic: كَذٰلِكَ
+    arabic: كَذَٰلِكَ
     translation: Thus
     transliteration: kadhālika
   19:
@@ -83,15 +83,15 @@ word_by_word:
     translation: We seal
     transliteration: naṭbaʿu
   20:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: '[on]'
     transliteration: ʿalā
   21:
-    arabic: قُلُوۡبِ
+    arabic: قُلُوبِ
     translation: the hearts
     transliteration: qulūbi
   22:
-    arabic: الۡمُعۡتَدِيۡنَ‏
+    arabic: ٱلۡمُعۡتَدِينَ
     translation: (of) the transgressors
     transliteration: l-muʿ'tadīna
 ---

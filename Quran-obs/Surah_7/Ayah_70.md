@@ -1,16 +1,16 @@
 ---
-arabic_ayat: قَالُـوۡۤا اَجِئۡتَنَا لِنَعۡبُدَ اللّٰهَ وَحۡدَهٗ وَنَذَرَ مَا كَانَ
-  يَعۡبُدُ اٰبَآؤُنَا​ ۚ فَاۡتِنَا بِمَا تَعِدُنَاۤ اِنۡ كُنۡتَ مِنَ الصّٰدِقِيۡنَ‏
+arabic_ayat: قَالُوٓاْ أَجِئۡتَنَا لِنَعۡبُدَ ٱللَّهَ وَحۡدَهُۥ وَنَذَرَ مَا كَانَ
+  يَعۡبُدُ ءَابَآؤُنَا فَأۡتِنَا بِمَا تَعِدُنَآ إِن كُنتَ مِنَ ٱلصَّٰدِقِينَ
 sentence_translation: They said, “Have you come to us so that we would worship Allah
   alone and abandon what our forefathers used to worship? Then bring us what you threaten
   us with, if what you say is true!”
 word_by_word:
   1:
-    arabic: قَالُـوۡۤا
+    arabic: قَالُوٓاْ
     translation: They said
     transliteration: qālū
   2:
-    arabic: اَجِئۡتَنَا
+    arabic: أَجِئۡتَنَا
     translation: Have you come to us
     transliteration: aji'tanā
   3:
@@ -18,11 +18,11 @@ word_by_word:
     translation: that we (should) worship
     transliteration: linaʿbuda
   4:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   5:
-    arabic: وَحۡدَهٗ
+    arabic: وَحۡدَهُۥ
     translation: Alone
     transliteration: waḥdahu
   6:
@@ -38,15 +38,15 @@ word_by_word:
     translation: used to
     transliteration: kāna
   9:
-    arabic: يَعۡبُدُ
+    arabic: يَعۡبُدُ ءَ
     translation: worship
     transliteration: yaʿbudu
   10:
-    arabic: اٰبَآؤُنَا​ ۚ
+    arabic: ابَآؤُنَا
     translation: our forefathers
     transliteration: ābāunā
   11:
-    arabic: فَاۡتِنَا
+    arabic: فَأۡتِنَا
     translation: Then bring us
     transliteration: fatinā
   12:
@@ -54,15 +54,15 @@ word_by_word:
     translation: of what
     transliteration: bimā
   13:
-    arabic: تَعِدُنَاۤ
+    arabic: تَعِدُنَآ
     translation: you promise us
     transliteration: taʿidunā
   14:
-    arabic: اِنۡ
+    arabic: إِن
     translation: if
     transliteration: in
   15:
-    arabic: كُنۡتَ
+    arabic: كُنتَ
     translation: you are
     transliteration: kunta
   16:
@@ -70,7 +70,7 @@ word_by_word:
     translation: of
     transliteration: mina
   17:
-    arabic: الصّٰدِقِيۡنَ‏
+    arabic: ٱلصَّٰدِقِينَ
     translation: the truthful
     transliteration: l-ṣādiqīna
 ---

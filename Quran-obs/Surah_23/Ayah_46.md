@@ -1,11 +1,10 @@
 ---
-arabic_ayat: اِلٰى فِرۡعَوۡنَ وَمَلَا۟ٮِٕهٖ فَاسۡتَكۡبَرُوۡا وَكَانُوۡا قَوۡمًا عٰلِيۡنَ​
-  ۚ‏
+arabic_ayat: إِلَىٰ فِرۡعَوۡنَ وَمَلَإِيْهِۦ فَٱسۡتَكۡبَرُواْ وَكَانُواْ قَوۡمًا عَالِينَ
 sentence_translation: to Pharaoh and his chiefs, but they behaved arrogantly and were
   a tyrannical people.
 word_by_word:
   1:
-    arabic: اِلٰى
+    arabic: إِلَىٰ
     translation: To
     transliteration: ilā
   2:
@@ -13,15 +12,15 @@ word_by_word:
     translation: Firaun
     transliteration: fir'ʿawna
   3:
-    arabic: وَمَلَا۟ٮِٕهٖ
+    arabic: وَمَلَإِيْهِۦ
     translation: and his chiefs
     transliteration: wamala-ihi
   4:
-    arabic: فَاسۡتَكۡبَرُوۡا
+    arabic: فَٱسۡتَكۡبَرُواْ
     translation: but they behaved arrogantly
     transliteration: fa-is'takbarū
   5:
-    arabic: وَكَانُوۡا
+    arabic: وَكَانُواْ
     translation: and they were
     transliteration: wakānū
   6:
@@ -29,7 +28,7 @@ word_by_word:
     translation: a people
     transliteration: qawman
   7:
-    arabic: عٰلِيۡنَ​ ۚ‏
+    arabic: عَالِينَ
     translation: haughty
     transliteration: ʿālīna
 ---

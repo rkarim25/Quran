@@ -1,6 +1,6 @@
 ---
-arabic_ayat: وَقَدۡ مَكَرُوۡا مَكۡرَهُمۡ وَعِنۡدَ اللّٰهِ مَكۡرُهُمۡؕ وَاِنۡ كَانَ
-  مَكۡرُهُمۡ لِتَزُوۡلَ مِنۡهُ الۡجِبَالُ‏
+arabic_ayat: وَقَدۡ مَكَرُواْ مَكۡرَهُمۡ وَعِندَ ٱللَّهِ مَكۡرُهُمۡ وَإِن كَانَ مَكۡرُهُمۡ
+  لِتَزُولَ مِنۡهُ ٱلۡجِبَالُ
 sentence_translation: They devised every plot, which was fully known to Allah, but
   their plotting was not enough to ˹even˺ overpower mountains ˹let alone Allah˺.
 word_by_word:
@@ -9,7 +9,7 @@ word_by_word:
     translation: And indeed
     transliteration: waqad
   2:
-    arabic: مَكَرُوۡا
+    arabic: مَكَرُواْ
     translation: they planned
     transliteration: makarū
   3:
@@ -17,19 +17,19 @@ word_by_word:
     translation: their plan
     transliteration: makrahum
   4:
-    arabic: وَعِنۡدَ
+    arabic: وَعِندَ
     translation: but with
     transliteration: waʿinda
   5:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   6:
-    arabic: مَكۡرُهُمۡؕ
+    arabic: مَكۡرُهُمۡ
     translation: (was) their plan
     transliteration: makruhum
   7:
-    arabic: وَاِنۡ
+    arabic: وَإِن
     translation: even if
     transliteration: wa-in
   8:
@@ -41,7 +41,7 @@ word_by_word:
     translation: their plan
     transliteration: makruhum
   10:
-    arabic: لِتَزُوۡلَ
+    arabic: لِتَزُولَ
     translation: that should be moved
     transliteration: litazūla
   11:
@@ -49,7 +49,7 @@ word_by_word:
     translation: by it
     transliteration: min'hu
   12:
-    arabic: الۡجِبَالُ‏
+    arabic: ٱلۡجِبَالُ
     translation: the mountains
     transliteration: l-jibālu
 ---

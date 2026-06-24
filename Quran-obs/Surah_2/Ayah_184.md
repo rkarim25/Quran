@@ -1,8 +1,8 @@
 ---
-arabic_ayat: اَيَّامًا مَّعۡدُوۡدٰتٍؕ فَمَنۡ كَانَ مِنۡكُمۡ مَّرِيۡضًا اَوۡ عَلٰى
-  سَفَرٍ فَعِدَّةٌ مِّنۡ اَيَّامٍ اُخَرَ​ؕ وَعَلَى الَّذِيۡنَ يُطِيۡقُوۡنَهٗ فِدۡيَةٌ
-  طَعَامُ مِسۡكِيۡنٍؕ فَمَنۡ تَطَوَّعَ خَيۡرًا فَهُوَ خَيۡرٌ لَّهٗ ؕ وَاَنۡ تَصُوۡمُوۡا
-  خَيۡرٌ لَّـکُمۡ اِنۡ كُنۡتُمۡ تَعۡلَمُوۡنَ‏
+arabic_ayat: أَيَّامٗا مَّعۡدُودَٰتٖۚ فَمَن كَانَ مِنكُم مَّرِيضًا أَوۡ عَلَىٰ سَفَرٖ
+  فَعِدَّةٞ مِّنۡ أَيَّامٍ أُخَرَۚ وَعَلَى ٱلَّذِينَ يُطِيقُونَهُۥ فِدۡيَةٞ طَعَامُ
+  مِسۡكِينٖۖ فَمَن تَطَوَّعَ خَيۡرٗا فَهُوَ خَيۡرٞ لَّهُۥۚ وَأَن تَصُومُواْ خَيۡرٞ
+  لَّكُمۡ إِن كُنتُمۡ تَعۡلَمُونَ
 sentence_translation: ˹Fast a˺ prescribed number of days. But whoever of you is ill
   or on a journey, then ˹let them fast˺ an equal number of days ˹after Ramaḍân˺. For
   those who can only fast with extreme difficulty, compensation can be made by feeding
@@ -10,15 +10,15 @@ sentence_translation: ˹Fast a˺ prescribed number of days. But whoever of you 
   it is better for them. And to fast is better for you, if only you knew.
 word_by_word:
   1:
-    arabic: اَيَّامًا
+    arabic: أَيَّامٗا
     translation: (Fasting for) days
     transliteration: ayyāman
   2:
-    arabic: مَّعۡدُوۡدٰتٍؕ
+    arabic: مَّعۡدُودَٰتٖۚ
     translation: numbered
     transliteration: maʿdūdātin
   3:
-    arabic: فَمَنۡ
+    arabic: فَمَن
     translation: So whoever
     transliteration: faman
   4:
@@ -26,27 +26,27 @@ word_by_word:
     translation: is
     transliteration: kāna
   5:
-    arabic: مِنۡكُمۡ
+    arabic: مِنكُم
     translation: among you
     transliteration: minkum
   6:
-    arabic: مَّرِيۡضًا
+    arabic: مَّرِيضًا
     translation: sick
     transliteration: marīḍan
   7:
-    arabic: اَوۡ
+    arabic: أَوۡ
     translation: or
     transliteration: aw
   8:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: 'on'
     transliteration: ʿalā
   9:
-    arabic: سَفَرٍ
+    arabic: سَفَرٖ
     translation: a journey
     transliteration: safarin
   10:
-    arabic: فَعِدَّةٌ
+    arabic: فَعِدَّةٞ
     translation: then a prescribed number
     transliteration: faʿiddatun
   11:
@@ -54,11 +54,11 @@ word_by_word:
     translation: of
     transliteration: min
   12:
-    arabic: اَيَّامٍ
+    arabic: أَيَّامٍ
     translation: days
     transliteration: ayyāmin
   13:
-    arabic: اُخَرَ​ؕ
+    arabic: أُخَرَۚ
     translation: other
     transliteration: ukhara
   14:
@@ -66,15 +66,15 @@ word_by_word:
     translation: And on
     transliteration: waʿalā
   15:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   16:
-    arabic: يُطِيۡقُوۡنَهٗ
+    arabic: يُطِيقُونَهُۥ
     translation: can afford it
     transliteration: yuṭīqūnahu
   17:
-    arabic: فِدۡيَةٌ
+    arabic: فِدۡيَةٞ
     translation: a ransom
     transliteration: fid'yatun
   18:
@@ -82,11 +82,11 @@ word_by_word:
     translation: (of) feeding
     transliteration: ṭaʿāmu
   19:
-    arabic: مِسۡكِيۡنٍؕ
+    arabic: مِسۡكِينٖۖ
     translation: a poor
     transliteration: mis'kīnin
   20:
-    arabic: فَمَنۡ
+    arabic: فَمَن
     translation: And whoever
     transliteration: faman
   21:
@@ -94,7 +94,7 @@ word_by_word:
     translation: volunteers
     transliteration: taṭawwaʿa
   22:
-    arabic: خَيۡرًا
+    arabic: خَيۡرٗا
     translation: good
     transliteration: khayran
   23:
@@ -102,39 +102,39 @@ word_by_word:
     translation: then it
     transliteration: fahuwa
   24:
-    arabic: خَيۡرٌ
+    arabic: خَيۡرٞ
     translation: (is) better
     transliteration: khayrun
   25:
-    arabic: لَّهٗ ؕ
+    arabic: لَّهُۥۚ
     translation: for him
     transliteration: lahu
   26:
-    arabic: وَاَنۡ
+    arabic: وَأَن
     translation: And to
     transliteration: wa-an
   27:
-    arabic: تَصُوۡمُوۡا
+    arabic: تَصُومُواْ
     translation: fast
     transliteration: taṣūmū
   28:
-    arabic: خَيۡرٌ
+    arabic: خَيۡرٞ
     translation: (is) better
     transliteration: khayrun
   29:
-    arabic: لَّـکُمۡ
+    arabic: لَّكُمۡ
     translation: for you
     transliteration: lakum
   30:
-    arabic: اِنۡ
+    arabic: إِن
     translation: if
     transliteration: in
   31:
-    arabic: كُنۡتُمۡ
+    arabic: كُنتُمۡ
     translation: you
     transliteration: kuntum
   32:
-    arabic: تَعۡلَمُوۡنَ‏
+    arabic: تَعۡلَمُونَ
     translation: know
     transliteration: taʿlamūna
 ---

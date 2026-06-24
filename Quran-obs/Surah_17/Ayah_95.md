@@ -1,12 +1,12 @@
 ---
-arabic_ayat: قُلْ لَّوۡ كَانَ فِى الۡاَرۡضِ مَلٰۤٮِٕكَةٌ يَّمۡشُوۡنَ مُطۡمَٮِٕنِّيۡنَ
-  لَـنَزَّلۡنَا عَلَيۡهِمۡ مِّنَ السَّمَآءِ مَلَـكًا رَّسُوۡلًا‏
+arabic_ayat: قُل لَّوۡ كَانَ فِي ٱلۡأَرۡضِ مَلَٰٓئِكَةٞ يَمۡشُونَ مُطۡمَئِنِّينَ لَنَزَّلۡنَا
+  عَلَيۡهِم مِّنَ ٱلسَّمَآءِ مَلَكٗا رَّسُولٗا
 sentence_translation: Say, ˹O Prophet,˺ “Had there been angels walking the earth,
   well settled, We would have surely sent down for them an angel from heaven as a
   messenger.”
 word_by_word:
   1:
-    arabic: قُلْ
+    arabic: قُل
     translation: Say
     transliteration: qul
   2:
@@ -18,31 +18,31 @@ word_by_word:
     translation: (there) were
     transliteration: kāna
   4:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   5:
-    arabic: الۡاَرۡضِ
+    arabic: ٱلۡأَرۡضِ
     translation: the earth
     transliteration: l-arḍi
   6:
-    arabic: مَلٰۤٮِٕكَةٌ
+    arabic: مَلَٰٓئِكَةٞ
     translation: Angels
     transliteration: malāikatun
   7:
-    arabic: يَّمۡشُوۡنَ
+    arabic: يَمۡشُونَ
     translation: walking
     transliteration: yamshūna
   8:
-    arabic: مُطۡمَٮِٕنِّيۡنَ
+    arabic: مُطۡمَئِنِّينَ
     translation: securely
     transliteration: muṭ'ma-innīna
   9:
-    arabic: لَـنَزَّلۡنَا
+    arabic: لَنَزَّلۡنَا
     translation: surely We (would) have sent down
     transliteration: lanazzalnā
   10:
-    arabic: عَلَيۡهِمۡ
+    arabic: عَلَيۡهِم
     translation: to them
     transliteration: ʿalayhim
   11:
@@ -50,15 +50,15 @@ word_by_word:
     translation: from
     transliteration: mina
   12:
-    arabic: السَّمَآءِ
+    arabic: ٱلسَّمَآءِ
     translation: the heaven
     transliteration: l-samāi
   13:
-    arabic: مَلَـكًا
+    arabic: مَلَكٗا
     translation: an Angel
     transliteration: malakan
   14:
-    arabic: رَّسُوۡلًا‏
+    arabic: رَّسُولٗا
     translation: (as) a Messenger
     transliteration: rasūlan
 ---

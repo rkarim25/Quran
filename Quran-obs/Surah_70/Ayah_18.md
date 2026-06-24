@@ -1,5 +1,5 @@
 ---
-arabic_ayat: وَجَمَعَ فَاَوۡعٰى‏
+arabic_ayat: وَجَمَعَ فَأَوۡعَىٰٓ
 sentence_translation: and gathered and hoarded ˹wealth˺.
 word_by_word:
   1:
@@ -7,7 +7,7 @@ word_by_word:
     translation: And collected
     transliteration: wajamaʿa
   2:
-    arabic: فَاَوۡعٰى‏
+    arabic: فَأَوۡعَىٰٓ
     translation: and hoarded
     transliteration: fa-awʿā
 ---

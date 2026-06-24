@@ -1,5 +1,5 @@
 ---
-arabic_ayat: قَالَ رَبِّ اِنِّىۡۤ اَخَافُ اَنۡ يُّكَذِّبُوۡنِؕ‏
+arabic_ayat: قَالَ رَبِّ إِنِّيٓ أَخَافُ أَن يُكَذِّبُونِ
 sentence_translation: He replied, “My Lord! I fear that they will reject me.
 word_by_word:
   1:
@@ -11,19 +11,19 @@ word_by_word:
     translation: My Lord
     transliteration: rabbi
   3:
-    arabic: اِنِّىۡۤ
+    arabic: إِنِّيٓ
     translation: Indeed, I
     transliteration: innī
   4:
-    arabic: اَخَافُ
+    arabic: أَخَافُ
     translation: '[I] fear'
     transliteration: akhāfu
   5:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that
     transliteration: an
   6:
-    arabic: يُّكَذِّبُوۡنِؕ‏
+    arabic: يُكَذِّبُونِ
     translation: they will deny me
     transliteration: yukadhibūni
 ---

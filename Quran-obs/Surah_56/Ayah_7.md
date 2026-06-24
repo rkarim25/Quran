@@ -1,17 +1,17 @@
 ---
-arabic_ayat: وَّكُنۡـتُمۡ اَزۡوَاجًا ثَلٰـثَـةً ؕ‏
+arabic_ayat: وَكُنتُمۡ أَزۡوَٰجٗا ثَلَٰثَةٗ
 sentence_translation: 'you will ˹all˺ be ˹divided into˺ three groups:'
 word_by_word:
   1:
-    arabic: وَّكُنۡـتُمۡ
+    arabic: وَكُنتُمۡ
     translation: And you will become
     transliteration: wakuntum
   2:
-    arabic: اَزۡوَاجًا
+    arabic: أَزۡوَٰجٗا
     translation: kinds
     transliteration: azwājan
   3:
-    arabic: ثَلٰـثَـةً ؕ‏
+    arabic: ثَلَٰثَةٗ
     translation: three
     transliteration: thalāthatan
 ---

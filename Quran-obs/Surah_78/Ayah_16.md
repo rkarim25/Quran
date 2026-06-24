@@ -1,13 +1,13 @@
 ---
-arabic_ayat: وَّجَنّٰتٍ اَلۡفَافًا ؕ‏
+arabic_ayat: وَجَنَّٰتٍ أَلۡفَافًا
 sentence_translation: and dense orchards?
 word_by_word:
   1:
-    arabic: وَّجَنّٰتٍ
+    arabic: وَجَنَّٰتٍ
     translation: And gardens
     transliteration: wajannātin
   2:
-    arabic: اَلۡفَافًا ؕ‏
+    arabic: أَلۡفَافًا
     translation: (of) thick foliage
     transliteration: alfāfan
 ---

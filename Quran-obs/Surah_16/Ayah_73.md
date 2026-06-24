@@ -1,23 +1,23 @@
 ---
-arabic_ayat: وَيَعۡبُدُوۡنَ مِنۡ دُوۡنِ اللّٰهِ مَا لَا يَمۡلِكُ لَهُمۡ رِزۡقًا مِّنَ
-  السَّمٰوٰتِ وَالۡاَرۡضِ شَيۡــًٔا وَّلَا يَسۡتَطِيۡعُوۡنَ​ۚ‏
+arabic_ayat: وَيَعۡبُدُونَ مِن دُونِ ٱللَّهِ مَا لَا يَمۡلِكُ لَهُمۡ رِزۡقٗا مِّنَ
+  ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِ شَيۡـٔٗا وَلَا يَسۡتَطِيعُونَ
 sentence_translation: Yet they worship besides Allah those ˹idols˺ who do not afford
   them any provision from the heavens and the earth, nor do they have the power to.
 word_by_word:
   1:
-    arabic: وَيَعۡبُدُوۡنَ
+    arabic: وَيَعۡبُدُونَ
     translation: And they worship
     transliteration: wayaʿbudūna
   2:
-    arabic: مِنۡ
+    arabic: مِن
     translation: other than
     transliteration: min
   3:
-    arabic: دُوۡنِ
+    arabic: دُونِ
     translation: other than
     transliteration: dūni
   4:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   5:
@@ -37,7 +37,7 @@ word_by_word:
     translation: for them
     transliteration: lahum
   9:
-    arabic: رِزۡقًا
+    arabic: رِزۡقٗا
     translation: any provision
     transliteration: riz'qan
   10:
@@ -45,23 +45,23 @@ word_by_word:
     translation: from
     transliteration: mina
   11:
-    arabic: السَّمٰوٰتِ
+    arabic: ٱلسَّمَٰوَٰتِ
     translation: the heavens
     transliteration: l-samāwāti
   12:
-    arabic: وَالۡاَرۡضِ
+    arabic: وَٱلۡأَرۡضِ
     translation: and the earth
     transliteration: wal-arḍi
   13:
-    arabic: شَيۡــًٔا
+    arabic: شَيۡـٔٗا
     translation: '[anything]'
     transliteration: shayan
   14:
-    arabic: وَّلَا
+    arabic: وَلَا
     translation: and not
     transliteration: walā
   15:
-    arabic: يَسۡتَطِيۡعُوۡنَ​ۚ‏
+    arabic: يَسۡتَطِيعُونَ
     translation: they are able
     transliteration: yastaṭīʿūna
 ---

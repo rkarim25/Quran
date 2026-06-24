@@ -1,18 +1,18 @@
 ---
-arabic_ayat: كُلُوۡا وَاشۡرَبُوۡا هَنِيْٓئًا ۢ بِمَا كُنۡتُمۡ تَعۡمَلُوۡنَ‏
+arabic_ayat: كُلُواْ وَٱشۡرَبُواْ هَنِيٓـَٔۢا بِمَا كُنتُمۡ تَعۡمَلُونَ
 sentence_translation: ˹They will be told,˺ “Eat and drink happily for what you used
   to do.”
 word_by_word:
   1:
-    arabic: كُلُوۡا
+    arabic: كُلُواْ
     translation: Eat
     transliteration: kulū
   2:
-    arabic: وَاشۡرَبُوۡا
+    arabic: وَٱشۡرَبُواْ
     translation: and drink
     transliteration: wa-ish'rabū
   3:
-    arabic: هَنِيْٓئًا ۢ
+    arabic: هَنِيٓـَٔۢا
     translation: (in) satisfaction
     transliteration: hanīan
   4:
@@ -20,11 +20,11 @@ word_by_word:
     translation: for what
     transliteration: bimā
   5:
-    arabic: كُنۡتُمۡ
+    arabic: كُنتُمۡ
     translation: you used to
     transliteration: kuntum
   6:
-    arabic: تَعۡمَلُوۡنَ‏
+    arabic: تَعۡمَلُونَ
     translation: do
     transliteration: taʿmalūna
 ---

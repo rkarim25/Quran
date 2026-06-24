@@ -1,31 +1,31 @@
 ---
-arabic_ayat: يٰٓاَ يُّهَا الَّذِيۡنَ اٰمَنُوۡا کُلُوۡا مِنۡ طَيِّبٰتِ مَا رَزَقۡنٰكُمۡ
-  وَاشۡكُرُوۡا لِلّٰهِ اِنۡ کُنۡتُمۡ اِيَّاهُ تَعۡبُدُوۡنَ‏
+arabic_ayat: يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُواْ كُلُواْ مِن طَيِّبَٰتِ مَا رَزَقۡنَٰكُمۡ
+  وَٱشۡكُرُواْ لِلَّهِ إِن كُنتُمۡ إِيَّاهُ تَعۡبُدُونَ
 sentence_translation: O believers! Eat from the good things We have provided for you.
   And give thanks to Allah if you ˹truly˺ worship Him ˹alone˺.
 word_by_word:
   1:
-    arabic: يٰٓاَ يُّهَا
+    arabic: يَٰٓأَيُّهَا
     translation: O you
     transliteration: yāayyuhā
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ ءَ
     translation: who
     transliteration: alladhīna
   3:
-    arabic: اٰمَنُوۡا
+    arabic: امَنُواْ
     translation: believe[d]
     transliteration: āmanū
   4:
-    arabic: کُلُوۡا
+    arabic: كُلُواْ
     translation: Eat
     transliteration: kulū
   5:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   6:
-    arabic: طَيِّبٰتِ
+    arabic: طَيِّبَٰتِ
     translation: (the) good
     transliteration: ṭayyibāti
   7:
@@ -33,31 +33,31 @@ word_by_word:
     translation: (of) what
     transliteration: mā
   8:
-    arabic: رَزَقۡنٰكُمۡ
+    arabic: رَزَقۡنَٰكُمۡ
     translation: We have provided you
     transliteration: razaqnākum
   9:
-    arabic: وَاشۡكُرُوۡا
+    arabic: وَٱشۡكُرُواْ
     translation: and be grateful
     transliteration: wa-ush'kurū
   10:
-    arabic: لِلّٰهِ
+    arabic: لِلَّهِ
     translation: to Allah
     transliteration: lillahi
   11:
-    arabic: اِنۡ
+    arabic: إِن
     translation: if
     transliteration: in
   12:
-    arabic: کُنۡتُمۡ
+    arabic: كُنتُمۡ
     translation: you
     transliteration: kuntum
   13:
-    arabic: اِيَّاهُ
+    arabic: إِيَّاهُ
     translation: alone
     transliteration: iyyāhu
   14:
-    arabic: تَعۡبُدُوۡنَ‏
+    arabic: تَعۡبُدُونَ
     translation: worship Him
     transliteration: taʿbudūna
 ---

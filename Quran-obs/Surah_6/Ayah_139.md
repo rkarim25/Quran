@@ -1,13 +1,13 @@
 ---
-arabic_ayat: وَقَالُوۡا مَا فِىۡ بُطُوۡنِ هٰذِهِ الۡاَنۡعَامِ خَالِصَةٌ لِّذُكُوۡرِنَا
-  وَمُحَرَّمٌ عَلٰٓى اَزۡوَاجِنَا ​ۚ وَاِنۡ يَّكُنۡ مَّيۡتَةً فَهُمۡ فِيۡهِ شُرَكَآءُ
-  ​ؕ سَيَجۡزِيۡهِمۡ وَصۡفَهُمۡ​ ؕ اِنَّهٗ حَكِيۡمٌ عَلِيۡمٌ‏
+arabic_ayat: وَقَالُواْ مَا فِي بُطُونِ هَٰذِهِ ٱلۡأَنۡعَٰمِ خَالِصَةٞ لِّذُكُورِنَا
+  وَمُحَرَّمٌ عَلَىٰٓ أَزۡوَٰجِنَاۖ وَإِن يَكُن مَّيۡتَةٗ فَهُمۡ فِيهِ شُرَكَآءُۚ
+  سَيَجۡزِيهِمۡ وَصۡفَهُمۡۚ إِنَّهُۥ حَكِيمٌ عَلِيمٞ
 sentence_translation: They ˹also˺ say, “The offspring of this cattle is reserved for
   our males and forbidden to our females; but if it is stillborn, they may all share
   it.” He will repay them for their falsehood. Surely He is All-Wise, All-Knowing.
 word_by_word:
   1:
-    arabic: وَقَالُوۡا
+    arabic: وَقَالُواْ
     translation: And they say
     transliteration: waqālū
   2:
@@ -15,27 +15,27 @@ word_by_word:
     translation: What
     transliteration: mā
   3:
-    arabic: فِىۡ
+    arabic: فِي
     translation: (is) in
     transliteration: fī
   4:
-    arabic: بُطُوۡنِ
+    arabic: بُطُونِ
     translation: (the) wombs
     transliteration: buṭūni
   5:
-    arabic: هٰذِهِ
+    arabic: هَٰذِهِ
     translation: (of) these
     transliteration: hādhihi
   6:
-    arabic: الۡاَنۡعَامِ
+    arabic: ٱلۡأَنۡعَٰمِ
     translation: cattle
     transliteration: l-anʿāmi
   7:
-    arabic: خَالِصَةٌ
+    arabic: خَالِصَةٞ
     translation: (is) exclusively
     transliteration: khāliṣatun
   8:
-    arabic: لِّذُكُوۡرِنَا
+    arabic: لِّذُكُورِنَا
     translation: for our males
     transliteration: lidhukūrinā
   9:
@@ -43,23 +43,23 @@ word_by_word:
     translation: and forbidden
     transliteration: wamuḥarramun
   10:
-    arabic: عَلٰٓى
+    arabic: عَلَىٰٓ
     translation: 'on'
     transliteration: ʿalā
   11:
-    arabic: اَزۡوَاجِنَا ​ۚ
+    arabic: أَزۡوَٰجِنَاۖ
     translation: our spouses
     transliteration: azwājinā
   12:
-    arabic: وَاِنۡ
+    arabic: وَإِن
     translation: But if
     transliteration: wa-in
   13:
-    arabic: يَّكُنۡ
+    arabic: يَكُن
     translation: is
     transliteration: yakun
   14:
-    arabic: مَّيۡتَةً
+    arabic: مَّيۡتَةٗ
     translation: (born) dead
     transliteration: maytatan
   15:
@@ -67,31 +67,31 @@ word_by_word:
     translation: then they (all)
     transliteration: fahum
   16:
-    arabic: فِيۡهِ
+    arabic: فِيهِ
     translation: in it
     transliteration: fīhi
   17:
-    arabic: شُرَكَآءُ ​ؕ
+    arabic: شُرَكَآءُۚ
     translation: (are) partners
     transliteration: shurakāu
   18:
-    arabic: سَيَجۡزِيۡهِمۡ
+    arabic: سَيَجۡزِيهِمۡ
     translation: He will recompense them
     transliteration: sayajzīhim
   19:
-    arabic: وَصۡفَهُمۡ​ ؕ
+    arabic: وَصۡفَهُمۡۚ
     translation: (for) their attribution
     transliteration: waṣfahum
   20:
-    arabic: اِنَّهٗ
+    arabic: إِنَّهُۥ
     translation: Indeed, He
     transliteration: innahu
   21:
-    arabic: حَكِيۡمٌ
+    arabic: حَكِيمٌ
     translation: (is) All-Wise
     transliteration: ḥakīmun
   22:
-    arabic: عَلِيۡمٌ‏
+    arabic: عَلِيمٞ
     translation: All-Knowing
     transliteration: ʿalīmun
 ---

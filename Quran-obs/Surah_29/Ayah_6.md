@@ -1,39 +1,39 @@
 ---
-arabic_ayat: وَمَنۡ جَاهَدَ فَاِنَّمَا يُجَاهِدُ لِنَفۡسِهٖؕ اِنَّ اللّٰهَ لَـغَنِىٌّ
-  عَنِ الۡعٰلَمِيۡنَ‏
+arabic_ayat: وَمَن جَٰهَدَ فَإِنَّمَا يُجَٰهِدُ لِنَفۡسِهِۦٓۚ إِنَّ ٱللَّهَ لَغَنِيٌّ
+  عَنِ ٱلۡعَٰلَمِينَ
 sentence_translation: And whoever strives ˹in Allah’s cause˺, only does so for their
   own good. Surely Allah is not in need of ˹any of˺ His creation.
 word_by_word:
   1:
-    arabic: وَمَنۡ
+    arabic: وَمَن
     translation: And whoever
     transliteration: waman
   2:
-    arabic: جَاهَدَ
+    arabic: جَٰهَدَ
     translation: strives
     transliteration: jāhada
   3:
-    arabic: فَاِنَّمَا
+    arabic: فَإِنَّمَا
     translation: then only
     transliteration: fa-innamā
   4:
-    arabic: يُجَاهِدُ
+    arabic: يُجَٰهِدُ
     translation: he strives
     transliteration: yujāhidu
   5:
-    arabic: لِنَفۡسِهٖؕ
+    arabic: لِنَفۡسِهِۦٓۚ
     translation: for himself
     transliteration: linafsihi
   6:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   7:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   8:
-    arabic: لَـغَنِىٌّ
+    arabic: لَغَنِيٌّ
     translation: (is) Free from need
     transliteration: laghaniyyun
   9:
@@ -41,7 +41,7 @@ word_by_word:
     translation: of
     transliteration: ʿani
   10:
-    arabic: الۡعٰلَمِيۡنَ‏
+    arabic: ٱلۡعَٰلَمِينَ
     translation: the worlds
     transliteration: l-ʿālamīna
 ---

@@ -1,9 +1,9 @@
 ---
-arabic_ayat: وَاَلۡقَتۡ مَا فِيۡهَا وَتَخَلَّتۡۙ‏
+arabic_ayat: وَأَلۡقَتۡ مَا فِيهَا وَتَخَلَّتۡ
 sentence_translation: and ejects ˹all˺ its contents and becomes empty,
 word_by_word:
   1:
-    arabic: وَاَلۡقَتۡ
+    arabic: وَأَلۡقَتۡ
     translation: And has cast out
     transliteration: wa-alqat
   2:
@@ -11,11 +11,11 @@ word_by_word:
     translation: what
     transliteration: mā
   3:
-    arabic: فِيۡهَا
+    arabic: فِيهَا
     translation: (is) in it
     transliteration: fīhā
   4:
-    arabic: وَتَخَلَّتۡۙ‏
+    arabic: وَتَخَلَّتۡ
     translation: and becomes empty
     transliteration: watakhallat
 ---

@@ -1,7 +1,6 @@
 ---
-arabic_ayat: "وَقَالَ فِرۡعَوۡنُ ذَرُوۡنِىۡۤ اَقۡتُلۡ مُوۡسٰى وَلۡيَدۡعُ رَبَّهٗ​ۚ\
-  \ اِنِّىۡۤ اَخَافُ اَنۡ يُّبَدِّلَ دِيۡنَكُمۡ اَوۡ اَنۡ يُّظۡهِرَ فِى الۡاَرۡضِ\
-  \ الۡفَسَادَ‏ \uFEFF\uFEFF"
+arabic_ayat: وَقَالَ فِرۡعَوۡنُ ذَرُونِيٓ أَقۡتُلۡ مُوسَىٰ وَلۡيَدۡعُ رَبَّهُۥٓۖ إِنِّيٓ
+  أَخَافُ أَن يُبَدِّلَ دِينَكُمۡ أَوۡ أَن يُظۡهِرَ فِي ٱلۡأَرۡضِ ٱلۡفَسَادَ
 sentence_translation: And Pharaoh said, “Let me kill Moses, and let him call upon
   his Lord! I truly fear that he may change your traditions or cause mischief in the
   land.”
@@ -15,15 +14,15 @@ word_by_word:
     translation: Firaun
     transliteration: fir'ʿawnu
   3:
-    arabic: ذَرُوۡنِىۡۤ
+    arabic: ذَرُونِيٓ
     translation: Leave me
     transliteration: dharūnī
   4:
-    arabic: اَقۡتُلۡ
+    arabic: أَقۡتُلۡ
     translation: (so that) I kill
     transliteration: aqtul
   5:
-    arabic: مُوۡسٰى
+    arabic: مُوسَىٰ
     translation: Musa
     transliteration: mūsā
   6:
@@ -31,51 +30,51 @@ word_by_word:
     translation: and let him call
     transliteration: walyadʿu
   7:
-    arabic: رَبَّهٗ​ۚ
+    arabic: رَبَّهُۥٓۖ
     translation: his Lord
     transliteration: rabbahu
   8:
-    arabic: اِنِّىۡۤ
+    arabic: إِنِّيٓ
     translation: Indeed, I
     transliteration: innī
   9:
-    arabic: اَخَافُ
+    arabic: أَخَافُ
     translation: '[I] fear'
     transliteration: akhāfu
   10:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that
     transliteration: an
   11:
-    arabic: يُّبَدِّلَ
+    arabic: يُبَدِّلَ
     translation: he will change
     transliteration: yubaddila
   12:
-    arabic: دِيۡنَكُمۡ
+    arabic: دِينَكُمۡ
     translation: your religion
     transliteration: dīnakum
   13:
-    arabic: اَوۡ
+    arabic: أَوۡ
     translation: or
     transliteration: aw
   14:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that
     transliteration: an
   15:
-    arabic: يُّظۡهِرَ
+    arabic: يُظۡهِرَ
     translation: he may cause to appear
     transliteration: yuẓ'hira
   16:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   17:
-    arabic: الۡاَرۡضِ
+    arabic: ٱلۡأَرۡضِ
     translation: the land
     transliteration: l-arḍi
   18:
-    arabic: "الۡفَسَادَ‏ \uFEFF\uFEFF"
+    arabic: ٱلۡفَسَادَ
     translation: the corruption
     transliteration: l-fasāda
 ---

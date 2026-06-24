@@ -1,17 +1,17 @@
 ---
-arabic_ayat: لّٰبِثِيۡنَ فِيۡهَاۤ اَحۡقَابًا​ ۚ‏
+arabic_ayat: لَّٰبِثِينَ فِيهَآ أَحۡقَابٗا
 sentence_translation: where they will remain for ˹endless˺ ages.
 word_by_word:
   1:
-    arabic: لّٰبِثِيۡنَ
+    arabic: لَّٰبِثِينَ
     translation: (They will) be remaining
     transliteration: lābithīna
   2:
-    arabic: فِيۡهَاۤ
+    arabic: فِيهَآ
     translation: therein
     transliteration: fīhā
   3:
-    arabic: اَحۡقَابًا​ ۚ‏
+    arabic: أَحۡقَابٗا
     translation: (for) ages
     transliteration: aḥqāban
 ---

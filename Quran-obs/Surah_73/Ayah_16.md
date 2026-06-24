@@ -1,10 +1,10 @@
 ---
-arabic_ayat: فَعَصٰى فِرۡعَوۡنُ الرَّسُوۡلَ فَاَخَذۡنٰهُ اَخۡذًا وَّبِيۡلًا‏
+arabic_ayat: فَعَصَىٰ فِرۡعَوۡنُ ٱلرَّسُولَ فَأَخَذۡنَٰهُ أَخۡذٗا وَبِيلٗا
 sentence_translation: But Pharaoh disobeyed the messenger, so We seized him with a
   stern grip.
 word_by_word:
   1:
-    arabic: فَعَصٰى
+    arabic: فَعَصَىٰ
     translation: But disobeyed
     transliteration: faʿaṣā
   2:
@@ -12,19 +12,19 @@ word_by_word:
     translation: Firaun
     transliteration: fir'ʿawnu
   3:
-    arabic: الرَّسُوۡلَ
+    arabic: ٱلرَّسُولَ
     translation: the Messenger
     transliteration: l-rasūla
   4:
-    arabic: فَاَخَذۡنٰهُ
+    arabic: فَأَخَذۡنَٰهُ
     translation: so We seized him
     transliteration: fa-akhadhnāhu
   5:
-    arabic: اَخۡذًا
+    arabic: أَخۡذٗا
     translation: (with) a seizure
     transliteration: akhdhan
   6:
-    arabic: وَّبِيۡلًا‏
+    arabic: وَبِيلٗا
     translation: ruinous
     transliteration: wabīlan
 ---

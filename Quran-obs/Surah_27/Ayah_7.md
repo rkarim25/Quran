@@ -1,12 +1,12 @@
 ---
-arabic_ayat: اِذۡ قَالَ مُوۡسٰى لِاَهۡلِهٖۤ اِنِّىۡۤ اٰنَسۡتُ نَارًاؕ سَاٰتِيۡكُمۡ
-  مِّنۡهَا بِخَبَرٍ اَوۡ اٰتِيۡكُمۡ بِشِهَابٍ قَبَسٍ لَّعَلَّكُمۡ تَصۡطَلُوۡنَ‏
+arabic_ayat: إِذۡ قَالَ مُوسَىٰ لِأَهۡلِهِۦٓ إِنِّيٓ ءَانَسۡتُ نَارٗا سَـَٔاتِيكُم
+  مِّنۡهَا بِخَبَرٍ أَوۡ ءَاتِيكُم بِشِهَابٖ قَبَسٖ لَّعَلَّكُمۡ تَصۡطَلُونَ
 sentence_translation: ˹Remember˺ when Moses said to his family, “I have spotted a
   fire. I will either bring you some directions from there, or a burning torch so
   you may warm yourselves.”
 word_by_word:
   1:
-    arabic: اِذۡ
+    arabic: إِذۡ
     translation: When
     transliteration: idh
   2:
@@ -14,27 +14,27 @@ word_by_word:
     translation: said
     transliteration: qāla
   3:
-    arabic: مُوۡسٰى
+    arabic: مُوسَىٰ
     translation: Musa
     transliteration: mūsā
   4:
-    arabic: لِاَهۡلِهٖۤ
+    arabic: لِأَهۡلِهِۦٓ
     translation: to his family
     transliteration: li-ahlihi
   5:
-    arabic: اِنِّىۡۤ
+    arabic: إِنِّيٓ ءَ
     translation: Indeed, I
     transliteration: innī
   6:
-    arabic: اٰنَسۡتُ
+    arabic: انَسۡتُ
     translation: perceive
     transliteration: ānastu
   7:
-    arabic: نَارًاؕ
+    arabic: نَارٗا
     translation: a fire
     transliteration: nāran
   8:
-    arabic: سَاٰتِيۡكُمۡ
+    arabic: سَـَٔاتِيكُم
     translation: I will bring you
     transliteration: saātīkum
   9:
@@ -46,19 +46,19 @@ word_by_word:
     translation: some information
     transliteration: bikhabarin
   11:
-    arabic: اَوۡ
+    arabic: أَوۡ ءَ
     translation: or
     transliteration: aw
   12:
-    arabic: اٰتِيۡكُمۡ
+    arabic: اتِيكُم
     translation: I will bring you
     transliteration: ātīkum
   13:
-    arabic: بِشِهَابٍ
+    arabic: بِشِهَابٖ
     translation: a torch
     transliteration: bishihābin
   14:
-    arabic: قَبَسٍ
+    arabic: قَبَسٖ
     translation: burning
     transliteration: qabasin
   15:
@@ -66,7 +66,7 @@ word_by_word:
     translation: so that you may
     transliteration: laʿallakum
   16:
-    arabic: تَصۡطَلُوۡنَ‏
+    arabic: تَصۡطَلُونَ
     translation: warm yourselves
     transliteration: taṣṭalūna
 ---

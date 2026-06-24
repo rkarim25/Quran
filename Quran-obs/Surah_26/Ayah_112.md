@@ -1,5 +1,5 @@
 ---
-arabic_ayat: قَالَ وَمَا عِلۡمِىۡ بِمَا كَانُوۡا يَعۡمَلُوۡنَ​ۚ‏
+arabic_ayat: قَالَ وَمَا عِلۡمِي بِمَا كَانُواْ يَعۡمَلُونَ
 sentence_translation: He responded, “And what knowledge do I have of what they do?
 word_by_word:
   1:
@@ -11,7 +11,7 @@ word_by_word:
     translation: And what
     transliteration: wamā
   3:
-    arabic: عِلۡمِىۡ
+    arabic: عِلۡمِي
     translation: (do) I know
     transliteration: ʿil'mī
   4:
@@ -19,11 +19,11 @@ word_by_word:
     translation: of what
     transliteration: bimā
   5:
-    arabic: كَانُوۡا
+    arabic: كَانُواْ
     translation: they used
     transliteration: kānū
   6:
-    arabic: يَعۡمَلُوۡنَ​ۚ‏
+    arabic: يَعۡمَلُونَ
     translation: (to) do
     transliteration: yaʿmalūna
 ---

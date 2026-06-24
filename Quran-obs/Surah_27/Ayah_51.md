@@ -1,11 +1,11 @@
 ---
-arabic_ayat: فَانْظُرۡ كَيۡفَ كَانَ عَاقِبَةُ مَكۡرِهِمۡۙ اَنَّا دَمَّرۡنٰهُمۡ وَقَوۡمَهُمۡ
-  اَجۡمَعِيۡنَ‏
+arabic_ayat: فَٱنظُرۡ كَيۡفَ كَانَ عَٰقِبَةُ مَكۡرِهِمۡ أَنَّا دَمَّرۡنَٰهُمۡ وَقَوۡمَهُمۡ
+  أَجۡمَعِينَ
 sentence_translation: 'See then what the consequences of their plan were: We ˹utterly˺
   destroyed them and their people all together.'
 word_by_word:
   1:
-    arabic: فَانْظُرۡ
+    arabic: فَٱنظُرۡ
     translation: Then see
     transliteration: fa-unẓur
   2:
@@ -17,19 +17,19 @@ word_by_word:
     translation: was
     transliteration: kāna
   4:
-    arabic: عَاقِبَةُ
+    arabic: عَٰقِبَةُ
     translation: (the) end
     transliteration: ʿāqibatu
   5:
-    arabic: مَكۡرِهِمۡۙ
+    arabic: مَكۡرِهِمۡ
     translation: (of) their plot
     transliteration: makrihim
   6:
-    arabic: اَنَّا
+    arabic: أَنَّا
     translation: that We
     transliteration: annā
   7:
-    arabic: دَمَّرۡنٰهُمۡ
+    arabic: دَمَّرۡنَٰهُمۡ
     translation: destroyed them
     transliteration: dammarnāhum
   8:
@@ -37,7 +37,7 @@ word_by_word:
     translation: and their people
     transliteration: waqawmahum
   9:
-    arabic: اَجۡمَعِيۡنَ‏
+    arabic: أَجۡمَعِينَ
     translation: all
     transliteration: ajmaʿīna
 ---

@@ -1,38 +1,38 @@
 ---
-arabic_ayat: وَالَّذِيۡنَ اٰتَيۡنٰهُمُ الۡكِتٰبَ يَفۡرَحُوۡنَ بِمَاۤ اُنۡزِلَ اِلَيۡكَ​
-  وَمِنَ الۡاَحۡزَابِ مَنۡ يُّـنۡكِرُ بَعۡضَهٗ​ؕ قُلۡ اِنَّمَاۤ اُمِرۡتُ اَنۡ اَعۡبُدَ
-  اللّٰهَ وَلَاۤ اُشۡرِكَ بِهٖؕ اِلَيۡهِ اَدۡعُوۡا وَاِلَيۡهِ مَاٰبِ‏
+arabic_ayat: وَٱلَّذِينَ ءَاتَيۡنَٰهُمُ ٱلۡكِتَٰبَ يَفۡرَحُونَ بِمَآ أُنزِلَ إِلَيۡكَۖ
+  وَمِنَ ٱلۡأَحۡزَابِ مَن يُنكِرُ بَعۡضَهُۥۚ قُلۡ إِنَّمَآ أُمِرۡتُ أَنۡ أَعۡبُدَ
+  ٱللَّهَ وَلَآ أُشۡرِكَ بِهِۦٓۚ إِلَيۡهِ أَدۡعُواْ وَإِلَيۡهِ مَـَٔابِ
 sentence_translation: ˹The believers among˺ those who were given the Scripture rejoice
   at what has been revealed to you ˹O Prophet˺, while some ˹disbelieving˺ factions
   deny a portion of it. Say, “I have only been commanded to worship Allah, associating
   none with Him ˹in worship˺. To Him I invite ˹all˺, and to Him is my return.”
 word_by_word:
   1:
-    arabic: وَالَّذِيۡنَ
+    arabic: وَٱلَّذِينَ ءَ
     translation: And those (to) whom
     transliteration: wa-alladhīna
   2:
-    arabic: اٰتَيۡنٰهُمُ
+    arabic: اتَيۡنَٰهُمُ
     translation: We have given them
     transliteration: ātaynāhumu
   3:
-    arabic: الۡكِتٰبَ
+    arabic: ٱلۡكِتَٰبَ
     translation: the Book
     transliteration: l-kitāba
   4:
-    arabic: يَفۡرَحُوۡنَ
+    arabic: يَفۡرَحُونَ
     translation: rejoice
     transliteration: yafraḥūna
   5:
-    arabic: بِمَاۤ
+    arabic: بِمَآ
     translation: at what
     transliteration: bimā
   6:
-    arabic: اُنۡزِلَ
+    arabic: أُنزِلَ
     translation: has been revealed
     transliteration: unzila
   7:
-    arabic: اِلَيۡكَ​
+    arabic: إِلَيۡكَۖ
     translation: to you
     transliteration: ilayka
   8:
@@ -40,19 +40,19 @@ word_by_word:
     translation: but among
     transliteration: wamina
   9:
-    arabic: الۡاَحۡزَابِ
+    arabic: ٱلۡأَحۡزَابِ
     translation: the groups
     transliteration: l-aḥzābi
   10:
-    arabic: مَنۡ
+    arabic: مَن
     translation: (those) who
     transliteration: man
   11:
-    arabic: يُّـنۡكِرُ
+    arabic: يُنكِرُ
     translation: deny
     transliteration: yunkiru
   12:
-    arabic: بَعۡضَهٗ​ؕ
+    arabic: بَعۡضَهُۥۚ
     translation: a part of it
     transliteration: baʿḍahu
   13:
@@ -60,51 +60,51 @@ word_by_word:
     translation: Say
     transliteration: qul
   14:
-    arabic: اِنَّمَاۤ
+    arabic: إِنَّمَآ
     translation: Only
     transliteration: innamā
   15:
-    arabic: اُمِرۡتُ
+    arabic: أُمِرۡتُ
     translation: I have been commanded
     transliteration: umir'tu
   16:
-    arabic: اَنۡ
+    arabic: أَنۡ
     translation: that
     transliteration: an
   17:
-    arabic: اَعۡبُدَ
+    arabic: أَعۡبُدَ
     translation: I worship
     transliteration: aʿbuda
   18:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   19:
-    arabic: وَلَاۤ
+    arabic: وَلَآ
     translation: and not
     transliteration: walā
   20:
-    arabic: اُشۡرِكَ
+    arabic: أُشۡرِكَ
     translation: I associate partners
     transliteration: ush'rika
   21:
-    arabic: بِهٖؕ
+    arabic: بِهِۦٓۚ
     translation: with Him
     transliteration: bihi
   22:
-    arabic: اِلَيۡهِ
+    arabic: إِلَيۡهِ
     translation: To Him
     transliteration: ilayhi
   23:
-    arabic: اَدۡعُوۡا
+    arabic: أَدۡعُواْ
     translation: I call
     transliteration: adʿū
   24:
-    arabic: وَاِلَيۡهِ
+    arabic: وَإِلَيۡهِ
     translation: and to Him
     transliteration: wa-ilayhi
   25:
-    arabic: مَاٰبِ‏
+    arabic: مَـَٔابِ
     translation: (is) my return
     transliteration: maābi
 ---

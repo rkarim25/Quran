@@ -1,9 +1,9 @@
 ---
-arabic_ayat: هُوَ الَّذِىۡۤ اَخۡرَجَ الَّذِيۡنَ كَفَرُوۡا مِنۡ اَهۡلِ الۡكِتٰبِ مِنۡ
-  دِيَارِهِمۡ لِاَوَّلِ الۡحَشۡرِ​ؔؕ مَا ظَنَنۡـتُمۡ اَنۡ يَّخۡرُجُوۡا​ وَظَنُّوۡۤا
-  اَنَّهُمۡ مَّانِعَتُهُمۡ حُصُوۡنُهُمۡ مِّنَ اللّٰهِ فَاَتٰٮهُمُ اللّٰهُ مِنۡ حَيۡثُ
-  لَمۡ يَحۡتَسِبُوۡا وَقَذَفَ فِىۡ قُلُوۡبِهِمُ الرُّعۡبَ يُخۡرِبُوۡنَ بُيُوۡتَهُمۡ
-  بِاَيۡدِيۡهِمۡ وَاَيۡدِى الۡمُؤۡمِنِيۡنَ فَاعۡتَبِـرُوۡا يٰۤاُولِى الۡاَبۡصَارِ​‏
+arabic_ayat: هُوَ ٱلَّذِيٓ أَخۡرَجَ ٱلَّذِينَ كَفَرُواْ مِنۡ أَهۡلِ ٱلۡكِتَٰبِ مِن
+  دِيَٰرِهِمۡ لِأَوَّلِ ٱلۡحَشۡرِۚ مَا ظَنَنتُمۡ أَن يَخۡرُجُواْۖ وَظَنُّوٓاْ أَنَّهُم
+  مَّانِعَتُهُمۡ حُصُونُهُم مِّنَ ٱللَّهِ فَأَتَىٰهُمُ ٱللَّهُ مِنۡ حَيۡثُ لَمۡ يَحۡتَسِبُواْۖ
+  وَقَذَفَ فِي قُلُوبِهِمُ ٱلرُّعۡبَۚ يُخۡرِبُونَ بُيُوتَهُم بِأَيۡدِيهِمۡ وَأَيۡدِي
+  ٱلۡمُؤۡمِنِينَ فَٱعۡتَبِرُواْ يَٰٓأُوْلِي ٱلۡأَبۡصَٰرِ
 sentence_translation: He is the One Who expelled the disbelievers of the People of
   the Book from their homes for ˹their˺ first banishment ˹ever˺. You never thought
   they would go. And they thought their strongholds would put them out of Allah’s
@@ -17,19 +17,19 @@ word_by_word:
     translation: He
     transliteration: huwa
   2:
-    arabic: الَّذِىۡۤ
+    arabic: ٱلَّذِيٓ
     translation: (is) the One Who
     transliteration: alladhī
   3:
-    arabic: اَخۡرَجَ
+    arabic: أَخۡرَجَ
     translation: expelled
     transliteration: akhraja
   4:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   5:
-    arabic: كَفَرُوۡا
+    arabic: كَفَرُواْ
     translation: disbelieved
     transliteration: kafarū
   6:
@@ -37,27 +37,27 @@ word_by_word:
     translation: from
     transliteration: min
   7:
-    arabic: اَهۡلِ
+    arabic: أَهۡلِ
     translation: (the) People
     transliteration: ahli
   8:
-    arabic: الۡكِتٰبِ
+    arabic: ٱلۡكِتَٰبِ
     translation: (of) the Scripture
     transliteration: l-kitābi
   9:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   10:
-    arabic: دِيَارِهِمۡ
+    arabic: دِيَٰرِهِمۡ
     translation: their homes
     transliteration: diyārihim
   11:
-    arabic: لِاَوَّلِ
+    arabic: لِأَوَّلِ
     translation: at (the) first
     transliteration: li-awwali
   12:
-    arabic: الۡحَشۡرِ​ؔؕ
+    arabic: ٱلۡحَشۡرِۚ
     translation: gathering
     transliteration: l-ḥashri
   13:
@@ -65,23 +65,23 @@ word_by_word:
     translation: Not
     transliteration: mā
   14:
-    arabic: ظَنَنۡـتُمۡ
+    arabic: ظَنَنتُمۡ
     translation: you think
     transliteration: ẓanantum
   15:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that
     transliteration: an
   16:
-    arabic: يَّخۡرُجُوۡا​
+    arabic: يَخۡرُجُواْۖ
     translation: they would leave
     transliteration: yakhrujū
   17:
-    arabic: وَظَنُّوۡۤا
+    arabic: وَظَنُّوٓاْ
     translation: and they thought
     transliteration: waẓannū
   18:
-    arabic: اَنَّهُمۡ
+    arabic: أَنَّهُم
     translation: that [they]
     transliteration: annahum
   19:
@@ -89,7 +89,7 @@ word_by_word:
     translation: would defend them
     transliteration: māniʿatuhum
   20:
-    arabic: حُصُوۡنُهُمۡ
+    arabic: حُصُونُهُم
     translation: their fortresses
     transliteration: ḥuṣūnuhum
   21:
@@ -97,15 +97,15 @@ word_by_word:
     translation: against
     transliteration: mina
   22:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   23:
-    arabic: فَاَتٰٮهُمُ
+    arabic: فَأَتَىٰهُمُ
     translation: But came to them
     transliteration: fa-atāhumu
   24:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   25:
@@ -121,7 +121,7 @@ word_by_word:
     translation: not
     transliteration: lam
   28:
-    arabic: يَحۡتَسِبُوۡا
+    arabic: يَحۡتَسِبُواْۖ
     translation: they expected
     transliteration: yaḥtasibū
   29:
@@ -129,47 +129,47 @@ word_by_word:
     translation: and He cast
     transliteration: waqadhafa
   30:
-    arabic: فِىۡ
+    arabic: فِي
     translation: into
     transliteration: fī
   31:
-    arabic: قُلُوۡبِهِمُ
+    arabic: قُلُوبِهِمُ
     translation: their hearts
     transliteration: qulūbihimu
   32:
-    arabic: الرُّعۡبَ
+    arabic: ٱلرُّعۡبَۚ
     translation: '[the] terror'
     transliteration: l-ruʿ'ba
   33:
-    arabic: يُخۡرِبُوۡنَ
+    arabic: يُخۡرِبُونَ
     translation: they destroyed
     transliteration: yukh'ribūna
   34:
-    arabic: بُيُوۡتَهُمۡ
+    arabic: بُيُوتَهُم
     translation: their houses
     transliteration: buyūtahum
   35:
-    arabic: بِاَيۡدِيۡهِمۡ
+    arabic: بِأَيۡدِيهِمۡ
     translation: with their hands
     transliteration: bi-aydīhim
   36:
-    arabic: وَاَيۡدِى
+    arabic: وَأَيۡدِي
     translation: and the hands
     transliteration: wa-aydī
   37:
-    arabic: الۡمُؤۡمِنِيۡنَ
+    arabic: ٱلۡمُؤۡمِنِينَ
     translation: (of) the believers
     transliteration: l-mu'minīna
   38:
-    arabic: فَاعۡتَبِـرُوۡا
+    arabic: فَٱعۡتَبِرُواْ
     translation: So take a lesson
     transliteration: fa-iʿ'tabirū
   39:
-    arabic: يٰۤاُولِى
+    arabic: يَٰٓأُوْلِي
     translation: O those endowed
     transliteration: yāulī
   40:
-    arabic: الۡاَبۡصَارِ​‏
+    arabic: ٱلۡأَبۡصَٰرِ
     translation: (with) insight
     transliteration: l-abṣāri
 ---

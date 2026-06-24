@@ -1,6 +1,6 @@
 ---
-arabic_ayat: كَمَثَلِ الَّذِيۡنَ مِنۡ قَبۡلِهِمۡ قَرِيۡبًا​ ذَاقُوۡا وَبَالَ اَمۡرِهِمۡ​ۚ
-  وَلَهُمۡ عَذَابٌ اَلِيۡمٌ​ۚ‏
+arabic_ayat: كَمَثَلِ ٱلَّذِينَ مِن قَبۡلِهِمۡ قَرِيبٗاۖ ذَاقُواْ وَبَالَ أَمۡرِهِمۡ
+  وَلَهُمۡ عَذَابٌ أَلِيمٞ
 sentence_translation: They are ˹both just˺ like those who recently went down before
   them: they tasted the evil consequences of their doings. And they will suffer a
   painful punishment.
@@ -10,11 +10,11 @@ word_by_word:
     translation: Like (the) example
     transliteration: kamathali
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: (of) those
     transliteration: alladhīna
   3:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   4:
@@ -22,11 +22,11 @@ word_by_word:
     translation: before them
     transliteration: qablihim
   5:
-    arabic: قَرِيۡبًا​
+    arabic: قَرِيبٗاۖ
     translation: shortly
     transliteration: qarīban
   6:
-    arabic: ذَاقُوۡا
+    arabic: ذَاقُواْ
     translation: they tasted
     transliteration: dhāqū
   7:
@@ -34,7 +34,7 @@ word_by_word:
     translation: (the) evil result
     transliteration: wabāla
   8:
-    arabic: اَمۡرِهِمۡ​ۚ
+    arabic: أَمۡرِهِمۡ
     translation: (of) their affair
     transliteration: amrihim
   9:
@@ -46,7 +46,7 @@ word_by_word:
     translation: (is) a punishment
     transliteration: ʿadhābun
   11:
-    arabic: اَلِيۡمٌ​ۚ‏
+    arabic: أَلِيمٞ
     translation: painful
     transliteration: alīmun
 ---

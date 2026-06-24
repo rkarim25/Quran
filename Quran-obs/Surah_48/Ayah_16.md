@@ -1,19 +1,19 @@
 ---
-arabic_ayat: قُلْ لِّلۡمُخَلَّفِيۡنَ مِنَ الۡاَعۡرَابِ سَتُدۡعَوۡنَ اِلٰى قَوۡمٍ اُولِىۡ
-  بَاۡسٍ شَدِيۡدٍ تُقَاتِلُوۡنَهُمۡ اَوۡ يُسۡلِمُوۡنَ​ ۚ فَاِنۡ تُطِيۡـعُوۡا يُـؤۡتِكُمُ
-  اللّٰهُ اَجۡرًا حَسَنًا​ ۚ وَاِنۡ تَتَـوَلَّوۡا كَمَا تَوَلَّيۡـتُمۡ مِّنۡ قَبۡلُ
-  يُعَذِّبۡكُمۡ عَذَابًا اَ لِيۡمًا‏
+arabic_ayat: قُل لِّلۡمُخَلَّفِينَ مِنَ ٱلۡأَعۡرَابِ سَتُدۡعَوۡنَ إِلَىٰ قَوۡمٍ أُوْلِي
+  بَأۡسٖ شَدِيدٖ تُقَٰتِلُونَهُمۡ أَوۡ يُسۡلِمُونَۖ فَإِن تُطِيعُواْ يُؤۡتِكُمُ ٱللَّهُ
+  أَجۡرًا حَسَنٗاۖ وَإِن تَتَوَلَّوۡاْ كَمَا تَوَلَّيۡتُم مِّن قَبۡلُ يُعَذِّبۡكُمۡ
+  عَذَابًا أَلِيمٗا
 sentence_translation: Say to nomadic Arabs, who stayed behind, “You will be called
   ˹to fight˺ against a people of great might, who you will fight unless they submit.
   If you then obey, Allah will grant you a fine reward. But if you turn away as you
   did before, He will inflict upon you a painful punishment.”
 word_by_word:
   1:
-    arabic: قُلْ
+    arabic: قُل
     translation: Say
     transliteration: qul
   2:
-    arabic: لِّلۡمُخَلَّفِيۡنَ
+    arabic: لِّلۡمُخَلَّفِينَ
     translation: to those who remained behind
     transliteration: lil'mukhallafīna
   3:
@@ -21,7 +21,7 @@ word_by_word:
     translation: of
     transliteration: mina
   4:
-    arabic: الۡاَعۡرَابِ
+    arabic: ٱلۡأَعۡرَابِ
     translation: the Bedouins
     transliteration: l-aʿrābi
   5:
@@ -29,7 +29,7 @@ word_by_word:
     translation: You will be called
     transliteration: satud'ʿawna
   6:
-    arabic: اِلٰى
+    arabic: إِلَىٰ
     translation: to
     transliteration: ilā
   7:
@@ -37,59 +37,59 @@ word_by_word:
     translation: a people
     transliteration: qawmin
   8:
-    arabic: اُولِىۡ
+    arabic: أُوْلِي
     translation: possessors of military might
     transliteration: ulī
   9:
-    arabic: بَاۡسٍ
+    arabic: بَأۡسٖ
     translation: possessors of military might
     transliteration: basin
   10:
-    arabic: شَدِيۡدٍ
+    arabic: شَدِيدٖ
     translation: great
     transliteration: shadīdin
   11:
-    arabic: تُقَاتِلُوۡنَهُمۡ
+    arabic: تُقَٰتِلُونَهُمۡ
     translation: you will fight them
     transliteration: tuqātilūnahum
   12:
-    arabic: اَوۡ
+    arabic: أَوۡ
     translation: or
     transliteration: aw
   13:
-    arabic: يُسۡلِمُوۡنَ​ ۚ
+    arabic: يُسۡلِمُونَۖ
     translation: they will submit
     transliteration: yus'limūna
   14:
-    arabic: فَاِنۡ
+    arabic: فَإِن
     translation: Then if
     transliteration: fa-in
   15:
-    arabic: تُطِيۡـعُوۡا
+    arabic: تُطِيعُواْ
     translation: you obey
     transliteration: tuṭīʿū
   16:
-    arabic: يُـؤۡتِكُمُ
+    arabic: يُؤۡتِكُمُ
     translation: Allah will give you
     transliteration: yu'tikumu
   17:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah will give you
     transliteration: l-lahu
   18:
-    arabic: اَجۡرًا
+    arabic: أَجۡرًا
     translation: a reward
     transliteration: ajran
   19:
-    arabic: حَسَنًا​ ۚ
+    arabic: حَسَنٗاۖ
     translation: good
     transliteration: ḥasanan
   20:
-    arabic: وَاِنۡ
+    arabic: وَإِن
     translation: but if
     transliteration: wa-in
   21:
-    arabic: تَتَـوَلَّوۡا
+    arabic: تَتَوَلَّوۡاْ
     translation: you turn away
     transliteration: tatawallaw
   22:
@@ -97,11 +97,11 @@ word_by_word:
     translation: as
     transliteration: kamā
   23:
-    arabic: تَوَلَّيۡـتُمۡ
+    arabic: تَوَلَّيۡتُم
     translation: you turned away
     transliteration: tawallaytum
   24:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: before
     transliteration: min
   25:
@@ -117,7 +117,7 @@ word_by_word:
     translation: (with) a punishment
     transliteration: ʿadhāban
   28:
-    arabic: اَ لِيۡمًا‏
+    arabic: أَلِيمٗا
     translation: painful
     transliteration: alīman
 ---

@@ -1,7 +1,7 @@
 ---
-arabic_ayat: "ثُمَّ اِنَّ رَبَّكَ لِلَّذِيۡنَ عَمِلُوا السُّوۡۤءَ بِجَهَالَةٍ ثُمَّ\
-  \ تَابُوۡا مِنۡۢ بَعۡدِ ذٰ لِكَ وَاَصۡلَحُوۡۤا ۙ اِنَّ رَبَّكَ مِنۡۢ بَعۡدِهَا لَغَفُوۡرٌ\
-  \ رَّحِيۡمٌ‏ \uFEFF\uFEFF"
+arabic_ayat: ثُمَّ إِنَّ رَبَّكَ لِلَّذِينَ عَمِلُواْ ٱلسُّوٓءَ بِجَهَٰلَةٖ ثُمَّ
+  تَابُواْ مِنۢ بَعۡدِ ذَٰلِكَ وَأَصۡلَحُوٓاْ إِنَّ رَبَّكَ مِنۢ بَعۡدِهَا لَغَفُورٞ
+  رَّحِيمٌ
 sentence_translation: As for those who commit evil ignorantly ˹or recklessly˺, then
   repent afterwards and mend their ways, then your Lord is surely All-Forgiving, Most
   Merciful.
@@ -11,7 +11,7 @@ word_by_word:
     translation: Then
     transliteration: thumma
   2:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: indeed
     transliteration: inna
   3:
@@ -19,19 +19,19 @@ word_by_word:
     translation: your Lord
     transliteration: rabbaka
   4:
-    arabic: لِلَّذِيۡنَ
+    arabic: لِلَّذِينَ
     translation: to those who
     transliteration: lilladhīna
   5:
-    arabic: عَمِلُوا
+    arabic: عَمِلُواْ
     translation: did
     transliteration: ʿamilū
   6:
-    arabic: السُّوۡۤءَ
+    arabic: ٱلسُّوٓءَ
     translation: evil
     transliteration: l-sūa
   7:
-    arabic: بِجَهَالَةٍ
+    arabic: بِجَهَٰلَةٖ
     translation: in ignorance
     transliteration: bijahālatin
   8:
@@ -39,11 +39,11 @@ word_by_word:
     translation: then
     transliteration: thumma
   9:
-    arabic: تَابُوۡا
+    arabic: تَابُواْ
     translation: repented
     transliteration: tābū
   10:
-    arabic: مِنۡۢ
+    arabic: مِنۢ
     translation: after
     transliteration: min
   11:
@@ -51,15 +51,15 @@ word_by_word:
     translation: after
     transliteration: baʿdi
   12:
-    arabic: ذٰ لِكَ
+    arabic: ذَٰلِكَ
     translation: that
     transliteration: dhālika
   13:
-    arabic: وَاَصۡلَحُوۡۤا ۙ
+    arabic: وَأَصۡلَحُوٓاْ
     translation: 'and corrected themselves '
     transliteration: wa-aṣlaḥū
   14:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: indeed
     transliteration: inna
   15:
@@ -67,7 +67,7 @@ word_by_word:
     translation: your Lord
     transliteration: rabbaka
   16:
-    arabic: مِنۡۢ
+    arabic: مِنۢ
     translation: after that
     transliteration: min
   17:
@@ -75,11 +75,11 @@ word_by_word:
     translation: after that
     transliteration: baʿdihā
   18:
-    arabic: لَغَفُوۡرٌ
+    arabic: لَغَفُورٞ
     translation: (is) surely Oft-Forgiving
     transliteration: laghafūrun
   19:
-    arabic: "رَّحِيۡمٌ‏ \uFEFF\uFEFF"
+    arabic: رَّحِيمٌ
     translation: Most Merciful
     transliteration: raḥīmun
 ---

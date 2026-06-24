@@ -1,64 +1,64 @@
 ---
-arabic_ayat: الَّذِيۡنَ يَتَّخِذُوۡنَ الۡـكٰفِرِيۡنَ اَوۡلِيَآءَ مِنۡ دُوۡنِ الۡمُؤۡمِنِيۡنَ​
-  ؕ اَيَبۡتَغُوۡنَ عِنۡدَهُمُ الۡعِزَّةَ فَاِنَّ الۡعِزَّةَ لِلّٰهِ جَمِيۡعًا ؕ‏
+arabic_ayat: ٱلَّذِينَ يَتَّخِذُونَ ٱلۡكَٰفِرِينَ أَوۡلِيَآءَ مِن دُونِ ٱلۡمُؤۡمِنِينَۚ
+  أَيَبۡتَغُونَ عِندَهُمُ ٱلۡعِزَّةَ فَإِنَّ ٱلۡعِزَّةَ لِلَّهِ جَمِيعٗا
 sentence_translation: who choose disbelievers as allies instead of the believers.
   Do they seek honour and power through that company? Surely all honour and power
   belongs to Allah.
 word_by_word:
   1:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: Those who
     transliteration: alladhīna
   2:
-    arabic: يَتَّخِذُوۡنَ
+    arabic: يَتَّخِذُونَ
     translation: take
     transliteration: yattakhidhūna
   3:
-    arabic: الۡـكٰفِرِيۡنَ
+    arabic: ٱلۡكَٰفِرِينَ
     translation: the disbelievers
     transliteration: l-kāfirīna
   4:
-    arabic: اَوۡلِيَآءَ
+    arabic: أَوۡلِيَآءَ
     translation: (as) allies
     transliteration: awliyāa
   5:
-    arabic: مِنۡ
+    arabic: مِن
     translation: (from)
     transliteration: min
   6:
-    arabic: دُوۡنِ
+    arabic: دُونِ
     translation: instead of
     transliteration: dūni
   7:
-    arabic: الۡمُؤۡمِنِيۡنَ​ ؕ
+    arabic: ٱلۡمُؤۡمِنِينَۚ
     translation: the believers
     transliteration: l-mu'minīna
   8:
-    arabic: اَيَبۡتَغُوۡنَ
+    arabic: أَيَبۡتَغُونَ
     translation: Do they seek
     transliteration: ayabtaghūna
   9:
-    arabic: عِنۡدَهُمُ
+    arabic: عِندَهُمُ
     translation: with them
     transliteration: ʿindahumu
   10:
-    arabic: الۡعِزَّةَ
+    arabic: ٱلۡعِزَّةَ
     translation: the honor
     transliteration: l-ʿizata
   11:
-    arabic: فَاِنَّ
+    arabic: فَإِنَّ
     translation: But indeed
     transliteration: fa-inna
   12:
-    arabic: الۡعِزَّةَ
+    arabic: ٱلۡعِزَّةَ
     translation: the honor
     transliteration: l-ʿizata
   13:
-    arabic: لِلّٰهِ
+    arabic: لِلَّهِ
     translation: (is) for Allah
     transliteration: lillahi
   14:
-    arabic: جَمِيۡعًا ؕ‏
+    arabic: جَمِيعٗا
     translation: all
     transliteration: jamīʿan
 ---

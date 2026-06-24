@@ -1,18 +1,18 @@
 ---
-arabic_ayat: ​ ​ وَيُسۡقَوۡنَ فِيۡهَا كَاۡسًا كَانَ مِزَاجُهَا زَنۡجَبِيۡلًا ۚ‏
+arabic_ayat: وَيُسۡقَوۡنَ فِيهَا كَأۡسٗا كَانَ مِزَاجُهَا زَنجَبِيلًا
 sentence_translation: And they will be given a drink ˹of pure wine˺ flavoured with
   ginger
 word_by_word:
   1:
-    arabic: ​ ​ وَيُسۡقَوۡنَ
+    arabic: وَيُسۡقَوۡنَ
     translation: And they will be given to drink
     transliteration: wayus'qawna
   2:
-    arabic: فِيۡهَا
+    arabic: فِيهَا
     translation: therein
     transliteration: fīhā
   3:
-    arabic: كَاۡسًا
+    arabic: كَأۡسٗا
     translation: 'a cup '
     transliteration: kasan
   4:
@@ -24,7 +24,7 @@ word_by_word:
     translation: its mixture
     transliteration: mizājuhā
   6:
-    arabic: زَنۡجَبِيۡلًا ۚ‏
+    arabic: زَنجَبِيلًا
     translation: (of) Zanjabil
     transliteration: zanjabīlan
 ---

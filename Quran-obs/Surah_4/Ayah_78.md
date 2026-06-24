@@ -1,9 +1,8 @@
 ---
-arabic_ayat: "اَيۡنَ مَا تَكُوۡنُوۡا يُدۡرِكْكُّمُ الۡمَوۡتُ وَلَوۡ كُنۡتُمۡ فِىۡ\
-  \ بُرُوۡجٍ مُّشَيَّدَةٍ​ ؕ وَاِنۡ تُصِبۡهُمۡ حَسَنَةٌ يَّقُوۡلُوۡا هٰذِهٖ مِنۡ عِنۡدِ\
-  \ اللّٰهِ​ ۚ وَاِنۡ تُصِبۡهُمۡ سَيِّئَةٌ يَّقُوۡلُوۡا هٰذِهٖ مِنۡ عِنۡدِكَ​ ؕ قُلۡ\
-  \ كُلٌّ مِّنۡ عِنۡدِ اللّٰهِ​ ؕ فَمَالِ ھٰٓؤُلَۤاءِ الۡقَوۡمِ لَا يَكَادُوۡنَ يَفۡقَهُوۡنَ\
-  \ حَدِيۡثًا‏ \uFEFF\uFEFF"
+arabic_ayat: أَيۡنَمَا تَكُونُواْ يُدۡرِككُّمُ ٱلۡمَوۡتُ وَلَوۡ كُنتُمۡ فِي بُرُوجٖ
+  مُّشَيَّدَةٖۗ وَإِن تُصِبۡهُمۡ حَسَنَةٞ يَقُولُواْ هَٰذِهِۦ مِنۡ عِندِ ٱللَّهِۖ
+  وَإِن تُصِبۡهُمۡ سَيِّئَةٞ يَقُولُواْ هَٰذِهِۦ مِنۡ عِندِكَۚ قُلۡ كُلّٞ مِّنۡ عِندِ
+  ٱللَّهِۖ فَمَالِ هَٰٓؤُلَآءِ ٱلۡقَوۡمِ لَا يَكَادُونَ يَفۡقَهُونَ حَدِيثٗا
 sentence_translation: Wherever you may be, death will overcome you—even if you were
   in fortified towers.” When something good befalls them, they say, “This is from
   Allah,” but when something evil befalls them, they say, “This is from you.” Say,
@@ -11,19 +10,19 @@ sentence_translation: Wherever you may be, death will overcome you—even if you
   people? They can hardly comprehend anything!
 word_by_word:
   1:
-    arabic: اَيۡنَ مَا
+    arabic: أَيۡنَمَا
     translation: Wherever
     transliteration: aynamā
   2:
-    arabic: تَكُوۡنُوۡا
+    arabic: تَكُونُواْ
     translation: you be
     transliteration: takūnū
   3:
-    arabic: يُدۡرِكْكُّمُ
+    arabic: يُدۡرِككُّمُ
     translation: will overtake you
     transliteration: yud'rikkumu
   4:
-    arabic: الۡمَوۡتُ
+    arabic: ٱلۡمَوۡتُ
     translation: '[the] death'
     transliteration: l-mawtu
   5:
@@ -31,23 +30,23 @@ word_by_word:
     translation: even if
     transliteration: walaw
   6:
-    arabic: كُنۡتُمۡ
+    arabic: كُنتُمۡ
     translation: you are
     transliteration: kuntum
   7:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   8:
-    arabic: بُرُوۡجٍ
+    arabic: بُرُوجٖ
     translation: towers
     transliteration: burūjin
   9:
-    arabic: مُّشَيَّدَةٍ​ ؕ
+    arabic: مُّشَيَّدَةٖۗ
     translation: lofty
     transliteration: mushayyadatin
   10:
-    arabic: وَاِنۡ
+    arabic: وَإِن
     translation: And if
     transliteration: wa-in
   11:
@@ -55,15 +54,15 @@ word_by_word:
     translation: befalls them
     transliteration: tuṣib'hum
   12:
-    arabic: حَسَنَةٌ
+    arabic: حَسَنَةٞ
     translation: any good
     transliteration: ḥasanatun
   13:
-    arabic: يَّقُوۡلُوۡا
+    arabic: يَقُولُواْ
     translation: they say
     transliteration: yaqūlū
   14:
-    arabic: هٰذِهٖ
+    arabic: هَٰذِهِۦ
     translation: This
     transliteration: hādhihi
   15:
@@ -71,15 +70,15 @@ word_by_word:
     translation: (is)
     transliteration: min
   16:
-    arabic: عِنۡدِ
+    arabic: عِندِ
     translation: from
     transliteration: ʿindi
   17:
-    arabic: اللّٰهِ​ ۚ
+    arabic: ٱللَّهِۖ
     translation: Allah
     transliteration: l-lahi
   18:
-    arabic: وَاِنۡ
+    arabic: وَإِن
     translation: And if
     transliteration: wa-in
   19:
@@ -87,15 +86,15 @@ word_by_word:
     translation: befalls them
     transliteration: tuṣib'hum
   20:
-    arabic: سَيِّئَةٌ
+    arabic: سَيِّئَةٞ
     translation: any evil
     transliteration: sayyi-atun
   21:
-    arabic: يَّقُوۡلُوۡا
+    arabic: يَقُولُواْ
     translation: they say
     transliteration: yaqūlū
   22:
-    arabic: هٰذِهٖ
+    arabic: هَٰذِهِۦ
     translation: This
     transliteration: hādhihi
   23:
@@ -103,7 +102,7 @@ word_by_word:
     translation: (is)
     transliteration: min
   24:
-    arabic: عِنۡدِكَ​ ؕ
+    arabic: عِندِكَۚ
     translation: (from) you
     transliteration: ʿindika
   25:
@@ -111,7 +110,7 @@ word_by_word:
     translation: Say
     transliteration: qul
   26:
-    arabic: كُلٌّ
+    arabic: كُلّٞ
     translation: All
     transliteration: kullun
   27:
@@ -119,11 +118,11 @@ word_by_word:
     translation: (is)
     transliteration: min
   28:
-    arabic: عِنۡدِ
+    arabic: عِندِ
     translation: from
     transliteration: ʿindi
   29:
-    arabic: اللّٰهِ​ ؕ
+    arabic: ٱللَّهِۖ
     translation: Allah
     transliteration: l-lahi
   30:
@@ -131,11 +130,11 @@ word_by_word:
     translation: So what (is wrong)
     transliteration: famāli
   31:
-    arabic: ھٰٓؤُلَۤاءِ
+    arabic: هَٰٓؤُلَآءِ
     translation: (with) these
     transliteration: hāulāi
   32:
-    arabic: الۡقَوۡمِ
+    arabic: ٱلۡقَوۡمِ
     translation: '[the] people'
     transliteration: l-qawmi
   33:
@@ -143,15 +142,15 @@ word_by_word:
     translation: not
     transliteration: lā
   34:
-    arabic: يَكَادُوۡنَ
+    arabic: يَكَادُونَ
     translation: do they seem
     transliteration: yakādūna
   35:
-    arabic: يَفۡقَهُوۡنَ
+    arabic: يَفۡقَهُونَ
     translation: (to) understand
     transliteration: yafqahūna
   36:
-    arabic: "حَدِيۡثًا‏ \uFEFF\uFEFF"
+    arabic: حَدِيثٗا
     translation: any statement
     transliteration: ḥadīthan
 ---

@@ -1,12 +1,12 @@
 ---
-arabic_ayat: اَفَمَنۡ كَانَ عَلٰى بَيِّنَةٍ مِّنۡ رَّبِّهٖ كَمَنۡ زُيِّنَ لَهٗ سُوۡٓءُ
-  عَمَلِهٖ وَاتَّبَعُوۡۤا اَهۡوَآءَهُمۡ‏
+arabic_ayat: أَفَمَن كَانَ عَلَىٰ بَيِّنَةٖ مِّن رَّبِّهِۦ كَمَن زُيِّنَ لَهُۥ سُوٓءُ
+  عَمَلِهِۦ وَٱتَّبَعُوٓاْ أَهۡوَآءَهُم
 sentence_translation: Can those ˹believers˺ who stand on clear proof from their Lord
   be like those whose evil deeds are made appealing to them and ˹only˺ follow their
   desires?
 word_by_word:
   1:
-    arabic: اَفَمَنۡ
+    arabic: أَفَمَن
     translation: Then is (he) who
     transliteration: afaman
   2:
@@ -14,23 +14,23 @@ word_by_word:
     translation: is
     transliteration: kāna
   3:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: 'on'
     transliteration: ʿalā
   4:
-    arabic: بَيِّنَةٍ
+    arabic: بَيِّنَةٖ
     translation: a clear proof
     transliteration: bayyinatin
   5:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: from
     transliteration: min
   6:
-    arabic: رَّبِّهٖ
+    arabic: رَّبِّهِۦ
     translation: his Lord
     transliteration: rabbihi
   7:
-    arabic: كَمَنۡ
+    arabic: كَمَن
     translation: like (he) who
     transliteration: kaman
   8:
@@ -38,23 +38,23 @@ word_by_word:
     translation: is made attractive
     transliteration: zuyyina
   9:
-    arabic: لَهٗ
+    arabic: لَهُۥ
     translation: to him
     transliteration: lahu
   10:
-    arabic: سُوۡٓءُ
+    arabic: سُوٓءُ
     translation: (the) evil
     transliteration: sūu
   11:
-    arabic: عَمَلِهٖ
+    arabic: عَمَلِهِۦ
     translation: (of) his deeds
     transliteration: ʿamalihi
   12:
-    arabic: وَاتَّبَعُوۡۤا
+    arabic: وَٱتَّبَعُوٓاْ
     translation: while they follow
     transliteration: wa-ittabaʿū
   13:
-    arabic: اَهۡوَآءَهُمۡ‏
+    arabic: أَهۡوَآءَهُم
     translation: their desires
     transliteration: ahwāahum
 ---

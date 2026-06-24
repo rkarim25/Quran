@@ -1,19 +1,19 @@
 ---
-arabic_ayat: يٰۤـاَيُّهَا النَّاسُ اِنَّ وَعۡدَ اللّٰهِ حَقٌّ فَلَا تَغُرَّنَّكُمُ
-  الۡحَيٰوةُ الدُّنۡيَاوَلَا يَغُرَّنَّكُمۡ بِاللّٰهِ الۡغَرُوۡرُ‏
+arabic_ayat: يَٰٓأَيُّهَا ٱلنَّاسُ إِنَّ وَعۡدَ ٱللَّهِ حَقّٞۖ فَلَا تَغُرَّنَّكُمُ
+  ٱلۡحَيَوٰةُ ٱلدُّنۡيَا وَلَا يَغُرَّنَّكُم بِٱللَّهِ ٱلۡغَرُورُ
 sentence_translation: O humanity! Indeed, Allah’s promise is true. So do not let the
   life of this world deceive you, nor let the Chief Deceiver deceive you about Allah.
 word_by_word:
   1:
-    arabic: يٰۤـاَيُّهَا
+    arabic: يَٰٓأَيُّهَا
     translation: O
     transliteration: yāayyuhā
   2:
-    arabic: النَّاسُ
+    arabic: ٱلنَّاسُ
     translation: mankind
     transliteration: l-nāsu
   3:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   4:
@@ -21,11 +21,11 @@ word_by_word:
     translation: (the) promise
     transliteration: waʿda
   5:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (of) Allah
     transliteration: l-lahi
   6:
-    arabic: حَقٌّ
+    arabic: حَقّٞۖ
     translation: (is) true
     transliteration: ḥaqqun
   7:
@@ -37,11 +37,11 @@ word_by_word:
     translation: deceive you
     transliteration: taghurrannakumu
   9:
-    arabic: الۡحَيٰوةُ
+    arabic: ٱلۡحَيَوٰةُ
     translation: the life
     transliteration: l-ḥayatu
   10:
-    arabic: الدُّنۡيَا
+    arabic: ٱلدُّنۡيَا
     translation: (of) the world
     transliteration: l-dun'yā
   11:
@@ -49,15 +49,15 @@ word_by_word:
     translation: and (let) not
     transliteration: walā
   12:
-    arabic: يَغُرَّنَّكُمۡ
+    arabic: يَغُرَّنَّكُم
     translation: deceive you
     transliteration: yaghurrannakum
   13:
-    arabic: بِاللّٰهِ
+    arabic: بِٱللَّهِ
     translation: about Allah
     transliteration: bil-lahi
   14:
-    arabic: الۡغَرُوۡرُ‏
+    arabic: ٱلۡغَرُورُ
     translation: the Deceiver
     transliteration: l-gharūru
 ---

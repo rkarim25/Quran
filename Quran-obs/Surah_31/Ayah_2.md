@@ -1,21 +1,21 @@
 ---
-arabic_ayat: تِلۡكَ اٰيٰتُ الۡكِتٰبِ الۡحَكِيۡمِۙ‏
+arabic_ayat: تِلۡكَ ءَايَٰتُ ٱلۡكِتَٰبِ ٱلۡحَكِيمِ
 sentence_translation: These are the verses of the Book, rich in wisdom.
 word_by_word:
   1:
-    arabic: تِلۡكَ
+    arabic: تِلۡكَ ءَ
     translation: These
     transliteration: til'ka
   2:
-    arabic: اٰيٰتُ
+    arabic: ايَٰتُ
     translation: (are) Verses
     transliteration: āyātu
   3:
-    arabic: الۡكِتٰبِ
+    arabic: ٱلۡكِتَٰبِ
     translation: (of) the Book
     transliteration: l-kitābi
   4:
-    arabic: الۡحَكِيۡمِۙ‏
+    arabic: ٱلۡحَكِيمِ
     translation: the Wise
     transliteration: l-ḥakīmi
 ---

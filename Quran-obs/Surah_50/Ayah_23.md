@@ -1,5 +1,5 @@
 ---
-arabic_ayat: وَقَالَ قَرِيۡـنُهٗ هٰذَا مَا لَدَىَّ عَتِيۡدٌ ؕ‏
+arabic_ayat: وَقَالَ قَرِينُهُۥ هَٰذَا مَا لَدَيَّ عَتِيدٌ
 sentence_translation: And one’s accompanying-angel will say, “Here is the record ready
   with me.”
 word_by_word:
@@ -8,11 +8,11 @@ word_by_word:
     translation: And (will) say
     transliteration: waqāla
   2:
-    arabic: قَرِيۡـنُهٗ
+    arabic: قَرِينُهُۥ
     translation: his companion
     transliteration: qarīnuhu
   3:
-    arabic: هٰذَا
+    arabic: هَٰذَا
     translation: This
     transliteration: hādhā
   4:
@@ -20,11 +20,11 @@ word_by_word:
     translation: (is) what
     transliteration: mā
   5:
-    arabic: لَدَىَّ
+    arabic: لَدَيَّ
     translation: (is) with me
     transliteration: ladayya
   6:
-    arabic: عَتِيۡدٌ ؕ‏
+    arabic: عَتِيدٌ
     translation: ready
     transliteration: ʿatīdun
 ---

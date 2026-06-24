@@ -1,13 +1,13 @@
 ---
-arabic_ayat: وَّفَاكِهَةٍ كَثِيۡرَةٍۙ‏
+arabic_ayat: وَفَٰكِهَةٖ كَثِيرَةٖ
 sentence_translation: abundant fruit—
 word_by_word:
   1:
-    arabic: وَّفَاكِهَةٍ
+    arabic: وَفَٰكِهَةٖ
     translation: And fruit
     transliteration: wafākihatin
   2:
-    arabic: كَثِيۡرَةٍۙ‏
+    arabic: كَثِيرَةٖ
     translation: abundant
     transliteration: kathīratin
 ---

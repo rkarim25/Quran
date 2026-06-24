@@ -1,19 +1,19 @@
 ---
-arabic_ayat: يٰقَوۡمِ لَاۤ اَسۡـــَٔلُكُمۡ عَلَيۡهِ اَجۡرًا​ ؕ اِنۡ اَجۡرِىَ اِلَّا
-  عَلَى الَّذِىۡ فَطَرَنِىۡ ؕ اَفَلَا تَعۡقِلُوۡنَ‏
+arabic_ayat: يَٰقَوۡمِ لَآ أَسۡـَٔلُكُمۡ عَلَيۡهِ أَجۡرًاۖ إِنۡ أَجۡرِيَ إِلَّا عَلَى
+  ٱلَّذِي فَطَرَنِيٓۚ أَفَلَا تَعۡقِلُونَ
 sentence_translation: O  my people! I do not ask you for any reward for this ˹message˺.
   My reward is only from the One Who created me. Will you not then understand?
 word_by_word:
   1:
-    arabic: يٰقَوۡمِ
+    arabic: يَٰقَوۡمِ
     translation: O my people
     transliteration: yāqawmi
   2:
-    arabic: لَاۤ
+    arabic: لَآ
     translation: Not
     transliteration: lā
   3:
-    arabic: اَسۡـــَٔلُكُمۡ
+    arabic: أَسۡـَٔلُكُمۡ
     translation: I ask you
     transliteration: asalukum
   4:
@@ -21,19 +21,19 @@ word_by_word:
     translation: for it
     transliteration: ʿalayhi
   5:
-    arabic: اَجۡرًا​ ؕ
+    arabic: أَجۡرًاۖ
     translation: any reward
     transliteration: ajran
   6:
-    arabic: اِنۡ
+    arabic: إِنۡ
     translation: Not
     transliteration: in
   7:
-    arabic: اَجۡرِىَ
+    arabic: أَجۡرِيَ
     translation: (is) my reward
     transliteration: ajriya
   8:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   9:
@@ -41,19 +41,19 @@ word_by_word:
     translation: from
     transliteration: ʿalā
   10:
-    arabic: الَّذِىۡ
+    arabic: ٱلَّذِي
     translation: the One Who
     transliteration: alladhī
   11:
-    arabic: فَطَرَنِىۡ ؕ
+    arabic: فَطَرَنِيٓۚ
     translation: created me
     transliteration: faṭaranī
   12:
-    arabic: اَفَلَا
+    arabic: أَفَلَا
     translation: Then will not
     transliteration: afalā
   13:
-    arabic: تَعۡقِلُوۡنَ‏
+    arabic: تَعۡقِلُونَ
     translation: you use reason
     transliteration: taʿqilūna
 ---

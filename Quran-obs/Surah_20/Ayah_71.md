@@ -1,23 +1,23 @@
 ---
-arabic_ayat: قَالَ اٰمَنۡتُمۡ لَهٗ قَبۡلَ اَنۡ اٰذَنَ لَـكُمۡ​ؕ اِنَّهٗ لَـكَبِيۡرُكُمُ
-  الَّذِىۡ عَلَّمَكُمُ السِّحۡرَ​ۚ فَلَاُقَطِّعَنَّ اَيۡدِيَكُمۡ وَاَرۡجُلَكُمۡ مِّنۡ
-  خِلَافٍ وَّلَاُصَلِّبَـنَّكُمۡ فِىۡ جُذُوۡعِ النَّخۡلِ وَلَـتَعۡلَمُنَّ اَيُّنَاۤ
-  اَشَدُّ عَذَابًا وَّاَبۡقٰى‏
+arabic_ayat: قَالَ ءَامَنتُمۡ لَهُۥ قَبۡلَ أَنۡ ءَاذَنَ لَكُمۡۖ إِنَّهُۥ لَكَبِيرُكُمُ
+  ٱلَّذِي عَلَّمَكُمُ ٱلسِّحۡرَۖ فَلَأُقَطِّعَنَّ أَيۡدِيَكُمۡ وَأَرۡجُلَكُم مِّنۡ
+  خِلَٰفٖ وَلَأُصَلِّبَنَّكُمۡ فِي جُذُوعِ ٱلنَّخۡلِ وَلَتَعۡلَمُنَّ أَيُّنَآ أَشَدُّ
+  عَذَابٗا وَأَبۡقَىٰ
 sentence_translation: Pharaoh threatened, “How dare you believe in him before I give
   you permission? He must be your master who taught you magic. I will certainly cut
   off your hands and feet on opposite sides, and crucify you on the trunks of palm
   trees. You will really see whose punishment is more severe and more lasting.”
 word_by_word:
   1:
-    arabic: قَالَ
+    arabic: قَالَ ءَ
     translation: He said
     transliteration: qāla
   2:
-    arabic: اٰمَنۡتُمۡ
+    arabic: امَنتُمۡ
     translation: You believe
     transliteration: āmantum
   3:
-    arabic: لَهٗ
+    arabic: لَهُۥ
     translation: '[to] him'
     transliteration: lahu
   4:
@@ -25,27 +25,27 @@ word_by_word:
     translation: before
     transliteration: qabla
   5:
-    arabic: اَنۡ
+    arabic: أَنۡ ءَ
     translation: '[that]'
     transliteration: an
   6:
-    arabic: اٰذَنَ
+    arabic: اذَنَ
     translation: I gave permission
     transliteration: ādhana
   7:
-    arabic: لَـكُمۡ​ؕ
+    arabic: لَكُمۡۖ
     translation: to you
     transliteration: lakum
   8:
-    arabic: اِنَّهٗ
+    arabic: إِنَّهُۥ
     translation: Indeed, he
     transliteration: innahu
   9:
-    arabic: لَـكَبِيۡرُكُمُ
+    arabic: لَكَبِيرُكُمُ
     translation: (is) your chief
     transliteration: lakabīrukumu
   10:
-    arabic: الَّذِىۡ
+    arabic: ٱلَّذِي
     translation: the one who
     transliteration: alladhī
   11:
@@ -53,19 +53,19 @@ word_by_word:
     translation: taught you
     transliteration: ʿallamakumu
   12:
-    arabic: السِّحۡرَ​ۚ
+    arabic: ٱلسِّحۡرَۖ
     translation: the magic
     transliteration: l-siḥ'ra
   13:
-    arabic: فَلَاُقَطِّعَنَّ
+    arabic: فَلَأُقَطِّعَنَّ
     translation: So surely I will cut off
     transliteration: fala-uqaṭṭiʿanna
   14:
-    arabic: اَيۡدِيَكُمۡ
+    arabic: أَيۡدِيَكُمۡ
     translation: your hands
     transliteration: aydiyakum
   15:
-    arabic: وَاَرۡجُلَكُمۡ
+    arabic: وَأَرۡجُلَكُم
     translation: and your feet
     transliteration: wa-arjulakum
   16:
@@ -73,43 +73,43 @@ word_by_word:
     translation: of
     transliteration: min
   17:
-    arabic: خِلَافٍ
+    arabic: خِلَٰفٖ
     translation: opposite sides
     transliteration: khilāfin
   18:
-    arabic: وَّلَاُصَلِّبَـنَّكُمۡ
+    arabic: وَلَأُصَلِّبَنَّكُمۡ
     translation: and surely I will crucify you
     transliteration: wala-uṣallibannakum
   19:
-    arabic: فِىۡ
+    arabic: فِي
     translation: 'on'
     transliteration: fī
   20:
-    arabic: جُذُوۡعِ
+    arabic: جُذُوعِ
     translation: (the) trunks
     transliteration: judhūʿi
   21:
-    arabic: النَّخۡلِ
+    arabic: ٱلنَّخۡلِ
     translation: (of) date-palms
     transliteration: l-nakhli
   22:
-    arabic: وَلَـتَعۡلَمُنَّ
+    arabic: وَلَتَعۡلَمُنَّ
     translation: and surely you will know
     transliteration: walataʿlamunna
   23:
-    arabic: اَيُّنَاۤ
+    arabic: أَيُّنَآ
     translation: which of us
     transliteration: ayyunā
   24:
-    arabic: اَشَدُّ
+    arabic: أَشَدُّ
     translation: (is) more severe
     transliteration: ashaddu
   25:
-    arabic: عَذَابًا
+    arabic: عَذَابٗا
     translation: (in) punishment
     transliteration: ʿadhāban
   26:
-    arabic: وَّاَبۡقٰى‏
+    arabic: وَأَبۡقَىٰ
     translation: and more lasting
     transliteration: wa-abqā
 ---

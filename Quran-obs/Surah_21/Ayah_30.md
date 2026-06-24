@@ -1,13 +1,13 @@
 ---
-arabic_ayat: اَوَلَمۡ يَرَ الَّذِيۡنَ كَفَرُوۡۤا اَنَّ السَّمٰوٰتِ وَالۡاَرۡضَ كَانَـتَا
-  رَتۡقًا فَفَتَقۡنٰهُمَا​ ؕ وَجَعَلۡنَا مِنَ الۡمَآءِ كُلَّ شَىۡءٍ حَىٍّ​ ؕ اَفَلَا
-  يُؤۡمِنُوۡنَ‏
+arabic_ayat: أَوَلَمۡ يَرَ ٱلَّذِينَ كَفَرُوٓاْ أَنَّ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضَ كَانَتَا
+  رَتۡقٗا فَفَتَقۡنَٰهُمَاۖ وَجَعَلۡنَا مِنَ ٱلۡمَآءِ كُلَّ شَيۡءٍ حَيٍّۚ أَفَلَا
+  يُؤۡمِنُونَ
 sentence_translation: Do the disbelievers not realize that the heavens and earth were
   ˹once˺ one mass then We split them apart? And We created from water every living
   thing. Will they not then believe?
 word_by_word:
   1:
-    arabic: اَوَلَمۡ
+    arabic: أَوَلَمۡ
     translation: Do not
     transliteration: awalam
   2:
@@ -15,35 +15,35 @@ word_by_word:
     translation: see
     transliteration: yara
   3:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   4:
-    arabic: كَفَرُوۡۤا
+    arabic: كَفَرُوٓاْ
     translation: disbelieved
     transliteration: kafarū
   5:
-    arabic: اَنَّ
+    arabic: أَنَّ
     translation: that
     transliteration: anna
   6:
-    arabic: السَّمٰوٰتِ
+    arabic: ٱلسَّمَٰوَٰتِ
     translation: the heavens
     transliteration: l-samāwāti
   7:
-    arabic: وَالۡاَرۡضَ
+    arabic: وَٱلۡأَرۡضَ
     translation: and the earth
     transliteration: wal-arḍa
   8:
-    arabic: كَانَـتَا
+    arabic: كَانَتَا
     translation: were
     transliteration: kānatā
   9:
-    arabic: رَتۡقًا
+    arabic: رَتۡقٗا
     translation: a joined entity
     transliteration: ratqan
   10:
-    arabic: فَفَتَقۡنٰهُمَا​ ؕ
+    arabic: فَفَتَقۡنَٰهُمَاۖ
     translation: then We parted them
     transliteration: fafataqnāhumā
   11:
@@ -55,7 +55,7 @@ word_by_word:
     translation: from
     transliteration: mina
   13:
-    arabic: الۡمَآءِ
+    arabic: ٱلۡمَآءِ
     translation: '[the] water'
     transliteration: l-māi
   14:
@@ -63,19 +63,19 @@ word_by_word:
     translation: every
     transliteration: kulla
   15:
-    arabic: شَىۡءٍ
+    arabic: شَيۡءٍ
     translation: living thing
     transliteration: shayin
   16:
-    arabic: حَىٍّ​ ؕ
+    arabic: حَيٍّۚ
     translation: living thing
     transliteration: ḥayyin
   17:
-    arabic: اَفَلَا
+    arabic: أَفَلَا
     translation: Then will not
     transliteration: afalā
   18:
-    arabic: يُؤۡمِنُوۡنَ‏
+    arabic: يُؤۡمِنُونَ
     translation: they believe
     transliteration: yu'minūna
 ---

@@ -1,20 +1,20 @@
 ---
-arabic_ayat: وَاِذَاۤ اَرَدۡنَاۤ اَنۡ نُّهۡلِكَ قَرۡيَةً اَمَرۡنَا مُتۡرَفِيۡهَا فَفَسَقُوۡا
-  فِيۡهَا فَحَقَّ عَلَيۡهَا الۡقَوۡلُ فَدَمَّرۡنٰهَا تَدۡمِيۡرًا‏
+arabic_ayat: وَإِذَآ أَرَدۡنَآ أَن نُّهۡلِكَ قَرۡيَةً أَمَرۡنَا مُتۡرَفِيهَا فَفَسَقُواْ
+  فِيهَا فَحَقَّ عَلَيۡهَا ٱلۡقَوۡلُ فَدَمَّرۡنَٰهَا تَدۡمِيرٗا
 sentence_translation: Whenever We intend to destroy a society, We command its elite
   ˹to obey Allah˺ but they act rebelliously in it. So the decree ˹of punishment˺ is
   justified, and We destroy it utterly.
 word_by_word:
   1:
-    arabic: وَاِذَاۤ
+    arabic: وَإِذَآ
     translation: And when
     transliteration: wa-idhā
   2:
-    arabic: اَرَدۡنَاۤ
+    arabic: أَرَدۡنَآ
     translation: We intend
     transliteration: aradnā
   3:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that
     transliteration: an
   4:
@@ -26,19 +26,19 @@ word_by_word:
     translation: a town
     transliteration: qaryatan
   6:
-    arabic: اَمَرۡنَا
+    arabic: أَمَرۡنَا
     translation: We order
     transliteration: amarnā
   7:
-    arabic: مُتۡرَفِيۡهَا
+    arabic: مُتۡرَفِيهَا
     translation: its wealthy people
     transliteration: mut'rafīhā
   8:
-    arabic: فَفَسَقُوۡا
+    arabic: فَفَسَقُواْ
     translation: but they defiantly disobey
     transliteration: fafasaqū
   9:
-    arabic: فِيۡهَا
+    arabic: فِيهَا
     translation: therein
     transliteration: fīhā
   10:
@@ -50,15 +50,15 @@ word_by_word:
     translation: against it
     transliteration: ʿalayhā
   12:
-    arabic: الۡقَوۡلُ
+    arabic: ٱلۡقَوۡلُ
     translation: the word
     transliteration: l-qawlu
   13:
-    arabic: فَدَمَّرۡنٰهَا
+    arabic: فَدَمَّرۡنَٰهَا
     translation: and We destroy it
     transliteration: fadammarnāhā
   14:
-    arabic: تَدۡمِيۡرًا‏
+    arabic: تَدۡمِيرٗا
     translation: (with) destruction
     transliteration: tadmīran
 ---

@@ -1,17 +1,17 @@
 ---
-arabic_ayat: وَوَالِدٍ وَّمَا وَلَدَ ۙ‏
+arabic_ayat: وَوَالِدٖ وَمَا وَلَدَ
 sentence_translation: and by every parent and ˹their˺ child!
 word_by_word:
   1:
-    arabic: وَوَالِدٍ
+    arabic: وَوَالِدٖ
     translation: And the begetter
     transliteration: wawālidin
   2:
-    arabic: وَّمَا
+    arabic: وَمَا
     translation: and what
     transliteration: wamā
   3:
-    arabic: وَلَدَ ۙ‏
+    arabic: وَلَدَ
     translation: he begot
     transliteration: walada
 ---

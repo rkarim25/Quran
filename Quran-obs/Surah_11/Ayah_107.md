@@ -1,15 +1,15 @@
 ---
-arabic_ayat: خٰلِدِيۡنَ فِيۡهَا مَا دَامَتِ السَّمٰوٰتُ وَالۡاَرۡضُ اِلَّا مَا شَآءَ
-  رَبُّكَ​ ؕ اِنَّ رَبَّكَ فَعَّالٌ لِّمَا يُرِيۡدُ‏
+arabic_ayat: خَٰلِدِينَ فِيهَا مَا دَامَتِ ٱلسَّمَٰوَٰتُ وَٱلۡأَرۡضُ إِلَّا مَا شَآءَ
+  رَبُّكَۚ إِنَّ رَبَّكَ فَعَّالٞ لِّمَا يُرِيدُ
 sentence_translation: staying there forever, as long as the heavens and the earth
   will endure, except what your Lord wills. Surely your Lord does what He intends.
 word_by_word:
   1:
-    arabic: خٰلِدِيۡنَ
+    arabic: خَٰلِدِينَ
     translation: (Will be) abiding
     transliteration: khālidīna
   2:
-    arabic: فِيۡهَا
+    arabic: فِيهَا
     translation: therein
     transliteration: fīhā
   3:
@@ -21,15 +21,15 @@ word_by_word:
     translation: as long as remain
     transliteration: dāmati
   5:
-    arabic: السَّمٰوٰتُ
+    arabic: ٱلسَّمَٰوَٰتُ
     translation: the heavens
     transliteration: l-samāwātu
   6:
-    arabic: وَالۡاَرۡضُ
+    arabic: وَٱلۡأَرۡضُ
     translation: and the earth
     transliteration: wal-arḍu
   7:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   8:
@@ -41,11 +41,11 @@ word_by_word:
     translation: what your Lord wills
     transliteration: shāa
   10:
-    arabic: رَبُّكَ​ ؕ
+    arabic: رَبُّكَۚ
     translation: what your Lord wills
     transliteration: rabbuka
   11:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   12:
@@ -53,7 +53,7 @@ word_by_word:
     translation: your Lord
     transliteration: rabbaka
   13:
-    arabic: فَعَّالٌ
+    arabic: فَعَّالٞ
     translation: (is) All-Accomplisher
     transliteration: faʿʿālun
   14:
@@ -61,7 +61,7 @@ word_by_word:
     translation: of what
     transliteration: limā
   15:
-    arabic: يُرِيۡدُ‏
+    arabic: يُرِيدُ
     translation: He intends
     transliteration: yurīdu
 ---

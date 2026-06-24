@@ -1,23 +1,22 @@
 ---
-arabic_ayat: "اِنَّ هٰذِهٖ تَذۡكِرَةٌ ​ ۚ فَمَنۡ شَآءَ اتَّخَذَ اِلٰى رَبِّهٖ سَبِيۡلًا‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: إِنَّ هَٰذِهِۦ تَذۡكِرَةٞۖ فَمَن شَآءَ ٱتَّخَذَ إِلَىٰ رَبِّهِۦ سَبِيلًا
 sentence_translation: Surely this is a reminder. So let whoever wills take the ˹Right˺
   Way to their Lord.
 word_by_word:
   1:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   2:
-    arabic: هٰذِهٖ
+    arabic: هَٰذِهِۦ
     translation: this
     transliteration: hādhihi
   3:
-    arabic: تَذۡكِرَةٌ ​ ۚ
+    arabic: تَذۡكِرَةٞۖ
     translation: (is) a Reminder
     transliteration: tadhkiratun
   4:
-    arabic: فَمَنۡ
+    arabic: فَمَن
     translation: then whoever
     transliteration: faman
   5:
@@ -25,19 +24,19 @@ word_by_word:
     translation: wills
     transliteration: shāa
   6:
-    arabic: اتَّخَذَ
+    arabic: ٱتَّخَذَ
     translation: (let him) take
     transliteration: ittakhadha
   7:
-    arabic: اِلٰى
+    arabic: إِلَىٰ
     translation: to
     transliteration: ilā
   8:
-    arabic: رَبِّهٖ
+    arabic: رَبِّهِۦ
     translation: his Lord
     transliteration: rabbihi
   9:
-    arabic: "سَبِيۡلًا‏ \uFEFF\uFEFF"
+    arabic: سَبِيلًا
     translation: a way
     transliteration: sabīlan
 ---

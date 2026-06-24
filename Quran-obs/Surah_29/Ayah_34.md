@@ -1,35 +1,35 @@
 ---
-arabic_ayat: اِنَّا مُنۡزِلُوۡنَ عَلٰٓى اَهۡلِ هٰذِهِ الۡقَرۡيَةِ رِجۡزًا مِّنَ السَّمَآءِ
-  بِمَا كَانُوۡا يَفۡسُقُوۡنَ‏
+arabic_ayat: إِنَّا مُنزِلُونَ عَلَىٰٓ أَهۡلِ هَٰذِهِ ٱلۡقَرۡيَةِ رِجۡزٗا مِّنَ ٱلسَّمَآءِ
+  بِمَا كَانُواْ يَفۡسُقُونَ
 sentence_translation: We are certainly bringing down a punishment from heaven upon
   the people of this city for their rebelliousness.”
 word_by_word:
   1:
-    arabic: اِنَّا
+    arabic: إِنَّا
     translation: Indeed, we
     transliteration: innā
   2:
-    arabic: مُنۡزِلُوۡنَ
+    arabic: مُنزِلُونَ
     translation: (will) bring down
     transliteration: munzilūna
   3:
-    arabic: عَلٰٓى
+    arabic: عَلَىٰٓ
     translation: 'on'
     transliteration: ʿalā
   4:
-    arabic: اَهۡلِ
+    arabic: أَهۡلِ
     translation: (the) people
     transliteration: ahli
   5:
-    arabic: هٰذِهِ
+    arabic: هَٰذِهِ
     translation: (of) this
     transliteration: hādhihi
   6:
-    arabic: الۡقَرۡيَةِ
+    arabic: ٱلۡقَرۡيَةِ
     translation: town
     transliteration: l-qaryati
   7:
-    arabic: رِجۡزًا
+    arabic: رِجۡزٗا
     translation: a punishment
     transliteration: rij'zan
   8:
@@ -37,7 +37,7 @@ word_by_word:
     translation: from
     transliteration: mina
   9:
-    arabic: السَّمَآءِ
+    arabic: ٱلسَّمَآءِ
     translation: (the) sky
     transliteration: l-samāi
   10:
@@ -45,11 +45,11 @@ word_by_word:
     translation: because
     transliteration: bimā
   11:
-    arabic: كَانُوۡا
+    arabic: كَانُواْ
     translation: they have been
     transliteration: kānū
   12:
-    arabic: يَفۡسُقُوۡنَ‏
+    arabic: يَفۡسُقُونَ
     translation: defiantly disobedient
     transliteration: yafsuqūna
 ---

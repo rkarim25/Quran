@@ -1,24 +1,24 @@
 ---
-arabic_ayat: عَسَى اللّٰهُ اَنۡ يَّجۡعَلَ بَيۡنَكُمۡ وَبَيۡنَ الَّذِيۡنَ عَادَيۡتُمۡ
-  مِّنۡهُمۡ مَّوَدَّةً ؕ وَاللّٰهُ قَدِيۡرٌ​ؕ وَاللّٰهُ غَفُوۡرٌ رَّحِيۡمٌ‏
+arabic_ayat: ۞ عَسَى ٱللَّهُ أَن يَجۡعَلَ بَيۡنَكُمۡ وَبَيۡنَ ٱلَّذِينَ عَادَيۡتُم
+  مِّنۡهُم مَّوَدَّةٗۚ وَٱللَّهُ قَدِيرٞۚ وَٱللَّهُ غَفُورٞ رَّحِيمٞ
 sentence_translation: ˹In time,˺ Allah may bring about goodwill between you and those
   of them you ˹now˺ hold as enemies. For Allah is Most Capable. And Allah is All-Forgiving,
   Most Merciful.
 word_by_word:
   1:
-    arabic: ۞ عَسَى
+    arabic: ۞ عَسَى
     translation: Perhaps
     transliteration: ʿasā
   2:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   3:
-    arabic: اَنۡ
+    arabic: أَن
     translation: '[that]'
     transliteration: an
   4:
-    arabic: يَّجۡعَلَ
+    arabic: يَجۡعَلَ
     translation: will put
     transliteration: yajʿala
   5:
@@ -30,39 +30,39 @@ word_by_word:
     translation: and between
     transliteration: wabayna
   7:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those (to) whom
     transliteration: alladhīna
   8:
-    arabic: عَادَيۡتُمۡ
+    arabic: عَادَيۡتُم
     translation: you have been enemies
     transliteration: ʿādaytum
   9:
-    arabic: مِّنۡهُمۡ
+    arabic: مِّنۡهُم
     translation: among them
     transliteration: min'hum
   10:
-    arabic: مَّوَدَّةً ؕ
+    arabic: مَّوَدَّةٗۚ
     translation: love
     transliteration: mawaddatan
   11:
-    arabic: وَاللّٰهُ
+    arabic: وَٱللَّهُ
     translation: And Allah
     transliteration: wal-lahu
   12:
-    arabic: قَدِيۡرٌ​ؕ
+    arabic: قَدِيرٞۚ
     translation: (is) All-Powerful
     transliteration: qadīrun
   13:
-    arabic: وَاللّٰهُ
+    arabic: وَٱللَّهُ
     translation: And Allah
     transliteration: wal-lahu
   14:
-    arabic: غَفُوۡرٌ
+    arabic: غَفُورٞ
     translation: (is) Oft-Forgiving
     transliteration: ghafūrun
   15:
-    arabic: رَّحِيۡمٌ‏
+    arabic: رَّحِيمٞ
     translation: Most Merciful
     transliteration: raḥīmun
 ---

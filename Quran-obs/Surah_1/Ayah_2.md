@@ -1,13 +1,13 @@
 ---
-arabic_ayat: اَلۡحَمۡدُ لِلّٰهِ رَبِّ الۡعٰلَمِيۡنَۙ‏
+arabic_ayat: ٱلۡحَمۡدُ لِلَّهِ رَبِّ ٱلۡعَٰلَمِينَ
 sentence_translation: All praise is for Allah—Lord of all worlds,
 word_by_word:
   1:
-    arabic: اَلۡحَمۡدُ
+    arabic: ٱلۡحَمۡدُ
     translation: All praises and thanks
     transliteration: al-ḥamdu
   2:
-    arabic: لِلّٰهِ
+    arabic: لِلَّهِ
     translation: (be) to Allah
     transliteration: lillahi
   3:
@@ -15,7 +15,7 @@ word_by_word:
     translation: the Lord
     transliteration: rabbi
   4:
-    arabic: الۡعٰلَمِيۡنَۙ‏
+    arabic: ٱلۡعَٰلَمِينَ
     translation: of the universe
     transliteration: l-ʿālamīna
 ---

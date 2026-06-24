@@ -1,11 +1,10 @@
 ---
-arabic_ayat: "وَيَسۡـــَٔلُوۡنَكَ عَنِ الۡجِبَالِ فَقُلۡ يَنۡسِفُهَا رَبِّىۡ نَسۡفًا\
-  \ ۙ‏ \uFEFF\uFEFF"
+arabic_ayat: وَيَسۡـَٔلُونَكَ عَنِ ٱلۡجِبَالِ فَقُلۡ يَنسِفُهَا رَبِّي نَسۡفٗا
 sentence_translation: And ˹if˺ they ask you ˹O Prophet˺ about the mountains, ˹then˺
   say, “My Lord will wipe them out completely,
 word_by_word:
   1:
-    arabic: وَيَسۡـــَٔلُوۡنَكَ
+    arabic: وَيَسۡـَٔلُونَكَ
     translation: And they ask you
     transliteration: wayasalūnaka
   2:
@@ -13,7 +12,7 @@ word_by_word:
     translation: about
     transliteration: ʿani
   3:
-    arabic: الۡجِبَالِ
+    arabic: ٱلۡجِبَالِ
     translation: the mountains
     transliteration: l-jibāli
   4:
@@ -21,15 +20,15 @@ word_by_word:
     translation: so say
     transliteration: faqul
   5:
-    arabic: يَنۡسِفُهَا
+    arabic: يَنسِفُهَا
     translation: Will blast them
     transliteration: yansifuhā
   6:
-    arabic: رَبِّىۡ
+    arabic: رَبِّي
     translation: my Lord
     transliteration: rabbī
   7:
-    arabic: "نَسۡفًا ۙ‏ \uFEFF\uFEFF"
+    arabic: نَسۡفٗا
     translation: (into) particles
     transliteration: nasfan
 ---

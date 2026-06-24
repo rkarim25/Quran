@@ -1,6 +1,6 @@
 ---
-arabic_ayat: وَلَا تَدۡعُ مَعَ اللّٰهِ اِلٰهًا اٰخَرَ​ۘ لَاۤ اِلٰهَ اِلَّا هُوَ​
-  كُلُّ شَىۡءٍ هَالِكٌ اِلَّا وَجۡهَهٗ​ؕ لَـهُ الۡحُكۡمُ وَاِلَيۡهِ تُرۡجَعُوۡنَ‏
+arabic_ayat: وَلَا تَدۡعُ مَعَ ٱللَّهِ إِلَٰهًا ءَاخَرَۘ لَآ إِلَٰهَ إِلَّا هُوَۚ
+  كُلُّ شَيۡءٍ هَالِكٌ إِلَّا وَجۡهَهُۥۚ لَهُ ٱلۡحُكۡمُ وَإِلَيۡهِ تُرۡجَعُونَ
 sentence_translation: And do not invoke any other god with Allah. There is no god
   ˹worthy of worship˺ except Him. Everything is bound to perish except He Himself. All
   authority belongs to Him. And to Him you will ˹all˺ be returned.
@@ -18,31 +18,31 @@ word_by_word:
     translation: with
     transliteration: maʿa
   4:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   5:
-    arabic: اِلٰهًا
+    arabic: إِلَٰهًا ءَ
     translation: god
     transliteration: ilāhan
   6:
-    arabic: اٰخَرَ​ۘ
+    arabic: اخَرَۘ
     translation: other
     transliteration: ākhara
   7:
-    arabic: لَاۤ
+    arabic: لَآ
     translation: (There is) no
     transliteration: lā
   8:
-    arabic: اِلٰهَ
+    arabic: إِلَٰهَ
     translation: god
     transliteration: ilāha
   9:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   10:
-    arabic: هُوَ​
+    arabic: هُوَۚ
     translation: Him
     transliteration: huwa
   11:
@@ -50,7 +50,7 @@ word_by_word:
     translation: Every
     transliteration: kullu
   12:
-    arabic: شَىۡءٍ
+    arabic: شَيۡءٍ
     translation: thing
     transliteration: shayin
   13:
@@ -58,27 +58,27 @@ word_by_word:
     translation: (will be) destroyed
     transliteration: hālikun
   14:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   15:
-    arabic: وَجۡهَهٗ​ؕ
+    arabic: وَجۡهَهُۥۚ
     translation: His Face
     transliteration: wajhahu
   16:
-    arabic: لَـهُ
+    arabic: لَهُ
     translation: To Him
     transliteration: lahu
   17:
-    arabic: الۡحُكۡمُ
+    arabic: ٱلۡحُكۡمُ
     translation: (is) the Decision
     transliteration: l-ḥuk'mu
   18:
-    arabic: وَاِلَيۡهِ
+    arabic: وَإِلَيۡهِ
     translation: and to Him
     transliteration: wa-ilayhi
   19:
-    arabic: تُرۡجَعُوۡنَ‏
+    arabic: تُرۡجَعُونَ
     translation: you will be returned
     transliteration: tur'jaʿūna
 ---

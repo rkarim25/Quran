@@ -1,17 +1,17 @@
 ---
-arabic_ayat: اِذِ انۡۢبَعَثَ اَشۡقٰٮهَا  ۙ‏
+arabic_ayat: إِذِ ٱنۢبَعَثَ أَشۡقَىٰهَا
 sentence_translation: when the most wicked of them was roused ˹to kill the she-camel˺.
 word_by_word:
   1:
-    arabic: اِذِ
+    arabic: إِذِ
     translation: When
     transliteration: idhi
   2:
-    arabic: انۡۢبَعَثَ
+    arabic: ٱنۢبَعَثَ
     translation: (was) sent forth
     transliteration: inbaʿatha
   3:
-    arabic: اَشۡقٰٮهَا  ۙ‏
+    arabic: أَشۡقَىٰهَا
     translation: (the) most wicked of them
     transliteration: ashqāhā
 ---

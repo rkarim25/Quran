@@ -1,6 +1,6 @@
 ---
-arabic_ayat: وَمَا هٰذِهِ الۡحَيٰوةُ الدُّنۡيَاۤ اِلَّا لَهۡوٌ وَّلَعِبٌ​ؕ وَاِنَّ
-  الدَّارَ الۡاٰخِرَةَ لَهِىَ الۡحَـيَوَانُ​ۘ لَوۡ كَانُوۡا يَعۡلَمُوۡنَ‏
+arabic_ayat: وَمَا هَٰذِهِ ٱلۡحَيَوٰةُ ٱلدُّنۡيَآ إِلَّا لَهۡوٞ وَلَعِبٞۚ وَإِنَّ
+  ٱلدَّارَ ٱلۡأٓخِرَةَ لَهِيَ ٱلۡحَيَوَانُۚ لَوۡ كَانُواْ يَعۡلَمُونَ
 sentence_translation: This worldly life is no more than play and amusement. But the
   Hereafter is indeed the real life, if only they knew.
 word_by_word:
@@ -9,47 +9,47 @@ word_by_word:
     translation: And not
     transliteration: wamā
   2:
-    arabic: هٰذِهِ
+    arabic: هَٰذِهِ
     translation: (is) this
     transliteration: hādhihi
   3:
-    arabic: الۡحَيٰوةُ
+    arabic: ٱلۡحَيَوٰةُ
     translation: life
     transliteration: l-ḥayatu
   4:
-    arabic: الدُّنۡيَاۤ
+    arabic: ٱلدُّنۡيَآ
     translation: (of) the world
     transliteration: l-dun'yā
   5:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: but
     transliteration: illā
   6:
-    arabic: لَهۡوٌ
+    arabic: لَهۡوٞ
     translation: amusement
     transliteration: lahwun
   7:
-    arabic: وَّلَعِبٌ​ؕ
+    arabic: وَلَعِبٞۚ
     translation: and play
     transliteration: walaʿibun
   8:
-    arabic: وَاِنَّ
+    arabic: وَإِنَّ
     translation: And indeed
     transliteration: wa-inna
   9:
-    arabic: الدَّارَ
+    arabic: ٱلدَّارَ
     translation: the Home
     transliteration: l-dāra
   10:
-    arabic: الۡاٰخِرَةَ
+    arabic: ٱلۡأٓخِرَةَ
     translation: '(of) the Hereafter '
     transliteration: l-ākhirata
   11:
-    arabic: لَهِىَ
+    arabic: لَهِيَ
     translation: surely, it
     transliteration: lahiya
   12:
-    arabic: الۡحَـيَوَانُ​ۘ
+    arabic: ٱلۡحَيَوَانُۚ
     translation: (is) the life
     transliteration: l-ḥayawānu
   13:
@@ -57,11 +57,11 @@ word_by_word:
     translation: if only
     transliteration: law
   14:
-    arabic: كَانُوۡا
+    arabic: كَانُواْ
     translation: they
     transliteration: kānū
   15:
-    arabic: يَعۡلَمُوۡنَ‏
+    arabic: يَعۡلَمُونَ
     translation: know
     transliteration: yaʿlamūna
 ---

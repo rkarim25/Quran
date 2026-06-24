@@ -1,15 +1,15 @@
 ---
-arabic_ayat: يَسۡتَبۡشِرُوۡنَ بِنِعۡمَةٍ مِّنَ اللّٰهِ وَفَضۡلٍۙ وَّاَنَّ اللّٰهَ
-  لَا يُضِيۡعُ اَجۡرَ الۡمُؤۡمِنِيۡنَ  ۛۚ‏
+arabic_ayat: ۞ يَسۡتَبۡشِرُونَ بِنِعۡمَةٖ مِّنَ ٱللَّهِ وَفَضۡلٖ وَأَنَّ ٱللَّهَ لَا
+  يُضِيعُ أَجۡرَ ٱلۡمُؤۡمِنِينَ
 sentence_translation: They are joyful for receiving Allah’s grace and bounty, and
   that Allah does not deny the reward of the believers.
 word_by_word:
   1:
-    arabic: ۞ يَسۡتَبۡشِرُوۡنَ
+    arabic: ۞ يَسۡتَبۡشِرُونَ
     translation: They receive good tidings
     transliteration: yastabshirūna
   2:
-    arabic: بِنِعۡمَةٍ
+    arabic: بِنِعۡمَةٖ
     translation: of Favor
     transliteration: biniʿ'matin
   3:
@@ -17,19 +17,19 @@ word_by_word:
     translation: from
     transliteration: mina
   4:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   5:
-    arabic: وَفَضۡلٍۙ
+    arabic: وَفَضۡلٖ
     translation: and Bounty
     transliteration: wafaḍlin
   6:
-    arabic: وَّاَنَّ
+    arabic: وَأَنَّ
     translation: and that
     transliteration: wa-anna
   7:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   8:
@@ -37,15 +37,15 @@ word_by_word:
     translation: (does) not
     transliteration: lā
   9:
-    arabic: يُضِيۡعُ
+    arabic: يُضِيعُ
     translation: let go waste
     transliteration: yuḍīʿu
   10:
-    arabic: اَجۡرَ
+    arabic: أَجۡرَ
     translation: (the) reward
     transliteration: ajra
   11:
-    arabic: الۡمُؤۡمِنِيۡنَ  ۛۚ‏
+    arabic: ٱلۡمُؤۡمِنِينَ
     translation: (of) the believers
     transliteration: l-mu'minīna
 ---

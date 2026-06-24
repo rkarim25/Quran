@@ -1,11 +1,11 @@
 ---
-arabic_ayat: اُولٰۤٮِٕكَ هُمُ الۡمُؤۡمِنُوۡنَ حَقًّا ​ؕ لَهُمۡ دَرَجٰتٌ عِنۡدَ رَبِّهِمۡ
-  وَمَغۡفِرَةٌ وَّرِزۡقٌ كَرِيۡمٌ​ۚ‏
+arabic_ayat: أُوْلَٰٓئِكَ هُمُ ٱلۡمُؤۡمِنُونَ حَقّٗاۚ لَّهُمۡ دَرَجَٰتٌ عِندَ رَبِّهِمۡ
+  وَمَغۡفِرَةٞ وَرِزۡقٞ كَرِيمٞ
 sentence_translation: It is they who are the true believers. They will have elevated
   ranks, forgiveness, and an honourable provision from their Lord.
 word_by_word:
   1:
-    arabic: اُولٰۤٮِٕكَ
+    arabic: أُوْلَٰٓئِكَ
     translation: 'Those '
     transliteration: ulāika
   2:
@@ -13,23 +13,23 @@ word_by_word:
     translation: they are
     transliteration: humu
   3:
-    arabic: الۡمُؤۡمِنُوۡنَ
+    arabic: ٱلۡمُؤۡمِنُونَ
     translation: the believers
     transliteration: l-mu'minūna
   4:
-    arabic: حَقًّا ​ؕ
+    arabic: حَقّٗاۚ
     translation: (in) truth
     transliteration: ḥaqqan
   5:
-    arabic: لَهُمۡ
+    arabic: لَّهُمۡ
     translation: For them
     transliteration: lahum
   6:
-    arabic: دَرَجٰتٌ
+    arabic: دَرَجَٰتٌ
     translation: (are) ranks
     transliteration: darajātun
   7:
-    arabic: عِنۡدَ
+    arabic: عِندَ
     translation: with
     transliteration: ʿinda
   8:
@@ -37,15 +37,15 @@ word_by_word:
     translation: their Lord
     transliteration: rabbihim
   9:
-    arabic: وَمَغۡفِرَةٌ
+    arabic: وَمَغۡفِرَةٞ
     translation: and forgiveness
     transliteration: wamaghfiratun
   10:
-    arabic: وَّرِزۡقٌ
+    arabic: وَرِزۡقٞ
     translation: and a provision
     transliteration: wariz'qun
   11:
-    arabic: كَرِيۡمٌ​ۚ‏
+    arabic: كَرِيمٞ
     translation: noble
     transliteration: karīmun
 ---

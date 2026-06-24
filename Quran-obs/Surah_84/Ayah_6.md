@@ -1,19 +1,18 @@
 ---
-arabic_ayat: "يٰۤاَيُّهَا الۡاِنۡسَانُ اِنَّكَ كَادِحٌ اِلٰى رَبِّكَ كَدۡحًا فَمُلٰقِيۡهِ​ۚ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: يَٰٓأَيُّهَا ٱلۡإِنسَٰنُ إِنَّكَ كَادِحٌ إِلَىٰ رَبِّكَ كَدۡحٗا فَمُلَٰقِيهِ
 sentence_translation: O humanity! Indeed, you are labouring restlessly towards your
   Lord, and will ˹eventually˺ meet the consequences.
 word_by_word:
   1:
-    arabic: يٰۤاَيُّهَا
+    arabic: يَٰٓأَيُّهَا
     translation: O
     transliteration: yāayyuhā
   2:
-    arabic: الۡاِنۡسَانُ
+    arabic: ٱلۡإِنسَٰنُ
     translation: mankind
     transliteration: l-insānu
   3:
-    arabic: اِنَّكَ
+    arabic: إِنَّكَ
     translation: Indeed, you
     transliteration: innaka
   4:
@@ -21,7 +20,7 @@ word_by_word:
     translation: (are) laboring
     transliteration: kādiḥun
   5:
-    arabic: اِلٰى
+    arabic: إِلَىٰ
     translation: to
     transliteration: ilā
   6:
@@ -29,11 +28,11 @@ word_by_word:
     translation: your Lord
     transliteration: rabbika
   7:
-    arabic: كَدۡحًا
+    arabic: كَدۡحٗا
     translation: (with) exertion
     transliteration: kadḥan
   8:
-    arabic: "فَمُلٰقِيۡهِ​ۚ‏ \uFEFF\uFEFF"
+    arabic: فَمُلَٰقِيهِ
     translation: and you (will) meet Him
     transliteration: famulāqīhi
 ---

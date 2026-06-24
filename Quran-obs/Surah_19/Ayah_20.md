@@ -1,6 +1,6 @@
 ---
-arabic_ayat: قَالَتۡ اَنّٰى يَكُوۡنُ لِىۡ غُلٰمٌ وَّلَمۡ يَمۡسَسۡنِىۡ بَشَرٌ وَّلَمۡ
-  اَكُ بَغِيًّا‏
+arabic_ayat: قَالَتۡ أَنَّىٰ يَكُونُ لِي غُلَٰمٞ وَلَمۡ يَمۡسَسۡنِي بَشَرٞ وَلَمۡ
+  أَكُ بَغِيّٗا
 sentence_translation: She wondered, “How can I have a son when no man has ever touched
   me, nor am I unchaste?”
 word_by_word:
@@ -9,43 +9,43 @@ word_by_word:
     translation: She said
     transliteration: qālat
   2:
-    arabic: اَنّٰى
+    arabic: أَنَّىٰ
     translation: How
     transliteration: annā
   3:
-    arabic: يَكُوۡنُ
+    arabic: يَكُونُ
     translation: can be
     transliteration: yakūnu
   4:
-    arabic: لِىۡ
+    arabic: لِي
     translation: for me
     transliteration: lī
   5:
-    arabic: غُلٰمٌ
+    arabic: غُلَٰمٞ
     translation: a son
     transliteration: ghulāmun
   6:
-    arabic: وَّلَمۡ
+    arabic: وَلَمۡ
     translation: when not
     transliteration: walam
   7:
-    arabic: يَمۡسَسۡنِىۡ
+    arabic: يَمۡسَسۡنِي
     translation: has touched me
     transliteration: yamsasnī
   8:
-    arabic: بَشَرٌ
+    arabic: بَشَرٞ
     translation: a man
     transliteration: basharun
   9:
-    arabic: وَّلَمۡ
+    arabic: وَلَمۡ
     translation: and not
     transliteration: walam
   10:
-    arabic: اَكُ
+    arabic: أَكُ
     translation: I am
     transliteration: aku
   11:
-    arabic: بَغِيًّا‏
+    arabic: بَغِيّٗا
     translation: unchaste
     transliteration: baghiyyan
 ---

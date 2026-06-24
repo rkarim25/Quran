@@ -1,9 +1,9 @@
 ---
-arabic_ayat: وَاعۡتَصِمُوۡا بِحَبۡلِ اللّٰهِ جَمِيۡعًا وَّلَا تَفَرَّقُوۡا​ وَاذۡكُرُوۡا
-  نِعۡمَتَ اللّٰهِ عَلَيۡكُمۡ اِذۡ كُنۡتُمۡ اَعۡدَآءً فَاَ لَّفَ بَيۡنَ قُلُوۡبِكُمۡ
-  فَاَصۡبَحۡتُمۡ بِنِعۡمَتِهٖۤ اِخۡوَانًا ۚ وَكُنۡتُمۡ عَلٰى شَفَا حُفۡرَةٍ مِّنَ
-  النَّارِ فَاَنۡقَذَكُمۡ مِّنۡهَا ​ؕ كَذٰلِكَ يُبَيِّنُ اللّٰهُ لَـكُمۡ اٰيٰتِهٖ
-  لَعَلَّكُمۡ تَهۡتَدُوۡنَ‏
+arabic_ayat: وَٱعۡتَصِمُواْ بِحَبۡلِ ٱللَّهِ جَمِيعٗا وَلَا تَفَرَّقُواْۚ وَٱذۡكُرُواْ
+  نِعۡمَتَ ٱللَّهِ عَلَيۡكُمۡ إِذۡ كُنتُمۡ أَعۡدَآءٗ فَأَلَّفَ بَيۡنَ قُلُوبِكُمۡ
+  فَأَصۡبَحۡتُم بِنِعۡمَتِهِۦٓ إِخۡوَٰنٗا وَكُنتُمۡ عَلَىٰ شَفَا حُفۡرَةٖ مِّنَ ٱلنَّارِ
+  فَأَنقَذَكُم مِّنۡهَاۗ كَذَٰلِكَ يُبَيِّنُ ٱللَّهُ لَكُمۡ ءَايَٰتِهِۦ لَعَلَّكُمۡ
+  تَهۡتَدُونَ
 sentence_translation: And hold firmly to the rope of Allah and do not be divided.
   Remember Allah’s favour upon you when you were enemies, then He united your hearts,
   so you—by His grace—became brothers. And you were at the brink of a fiery pit and
@@ -11,7 +11,7 @@ sentence_translation: And hold firmly to the rope of Allah and do not be divide
   you may be ˹rightly˺ guided.
 word_by_word:
   1:
-    arabic: وَاعۡتَصِمُوۡا
+    arabic: وَٱعۡتَصِمُواْ
     translation: And hold firmly
     transliteration: wa-iʿ'taṣimū
   2:
@@ -19,23 +19,23 @@ word_by_word:
     translation: to (the) rope
     transliteration: biḥabli
   3:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (of) Allah
     transliteration: l-lahi
   4:
-    arabic: جَمِيۡعًا
+    arabic: جَمِيعٗا
     translation: all together
     transliteration: jamīʿan
   5:
-    arabic: وَّلَا
+    arabic: وَلَا
     translation: and (do) not
     transliteration: walā
   6:
-    arabic: تَفَرَّقُوۡا​
+    arabic: تَفَرَّقُواْۚ
     translation: be divided
     transliteration: tafarraqū
   7:
-    arabic: وَاذۡكُرُوۡا
+    arabic: وَٱذۡكُرُواْ
     translation: And remember
     transliteration: wa-udh'kurū
   8:
@@ -43,7 +43,7 @@ word_by_word:
     translation: (the) Favor
     transliteration: niʿ'mata
   9:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (of) Allah
     transliteration: l-lahi
   10:
@@ -51,19 +51,19 @@ word_by_word:
     translation: on you
     transliteration: ʿalaykum
   11:
-    arabic: اِذۡ
+    arabic: إِذۡ
     translation: when
     transliteration: idh
   12:
-    arabic: كُنۡتُمۡ
+    arabic: كُنتُمۡ
     translation: you were
     transliteration: kuntum
   13:
-    arabic: اَعۡدَآءً
+    arabic: أَعۡدَآءٗ
     translation: enemies
     transliteration: aʿdāan
   14:
-    arabic: فَاَ لَّفَ
+    arabic: فَأَلَّفَ
     translation: then He made friendship
     transliteration: fa-allafa
   15:
@@ -71,27 +71,27 @@ word_by_word:
     translation: between
     transliteration: bayna
   16:
-    arabic: قُلُوۡبِكُمۡ
+    arabic: قُلُوبِكُمۡ
     translation: your hearts
     transliteration: qulūbikum
   17:
-    arabic: فَاَصۡبَحۡتُمۡ
+    arabic: فَأَصۡبَحۡتُم
     translation: then you became
     transliteration: fa-aṣbaḥtum
   18:
-    arabic: بِنِعۡمَتِهٖۤ
+    arabic: بِنِعۡمَتِهِۦٓ
     translation: by His Favor
     transliteration: biniʿ'matihi
   19:
-    arabic: اِخۡوَانًا ۚ
+    arabic: إِخۡوَٰنٗا
     translation: brothers
     transliteration: ikh'wānan
   20:
-    arabic: وَكُنۡتُمۡ
+    arabic: وَكُنتُمۡ
     translation: And you were
     transliteration: wakuntum
   21:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: 'on'
     transliteration: ʿalā
   22:
@@ -99,7 +99,7 @@ word_by_word:
     translation: (the) brink
     transliteration: shafā
   23:
-    arabic: حُفۡرَةٍ
+    arabic: حُفۡرَةٖ
     translation: (of) pit
     transliteration: ḥuf'ratin
   24:
@@ -107,19 +107,19 @@ word_by_word:
     translation: of
     transliteration: mina
   25:
-    arabic: النَّارِ
+    arabic: ٱلنَّارِ
     translation: the Fire
     transliteration: l-nāri
   26:
-    arabic: فَاَنۡقَذَكُمۡ
+    arabic: فَأَنقَذَكُم
     translation: then He saved you
     transliteration: fa-anqadhakum
   27:
-    arabic: مِّنۡهَا ​ؕ
+    arabic: مِّنۡهَاۗ
     translation: from it
     transliteration: min'hā
   28:
-    arabic: كَذٰلِكَ
+    arabic: كَذَٰلِكَ
     translation: Thus
     transliteration: kadhālika
   29:
@@ -127,15 +127,15 @@ word_by_word:
     translation: makes clear
     transliteration: yubayyinu
   30:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   31:
-    arabic: لَـكُمۡ
+    arabic: لَكُمۡ ءَ
     translation: for you
     transliteration: lakum
   32:
-    arabic: اٰيٰتِهٖ
+    arabic: ايَٰتِهِۦ
     translation: His Verses
     transliteration: āyātihi
   33:
@@ -143,7 +143,7 @@ word_by_word:
     translation: so that you may
     transliteration: laʿallakum
   34:
-    arabic: تَهۡتَدُوۡنَ‏
+    arabic: تَهۡتَدُونَ
     translation: (be) guided
     transliteration: tahtadūna
 ---

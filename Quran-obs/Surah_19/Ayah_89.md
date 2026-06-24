@@ -1,9 +1,9 @@
 ---
-arabic_ayat: لَـقَدۡ جِئۡتُمۡ شَيۡــًٔـا اِدًّا ۙ‏
+arabic_ayat: لَّقَدۡ جِئۡتُمۡ شَيۡـًٔا إِدّٗا
 sentence_translation: You have certainly made an outrageous claim,
 word_by_word:
   1:
-    arabic: لَـقَدۡ
+    arabic: لَّقَدۡ
     translation: Verily
     transliteration: laqad
   2:
@@ -11,11 +11,11 @@ word_by_word:
     translation: you have put forth
     transliteration: ji'tum
   3:
-    arabic: شَيۡــًٔـا
+    arabic: شَيۡـًٔا
     translation: a thing
     transliteration: shayan
   4:
-    arabic: اِدًّا ۙ‏
+    arabic: إِدّٗا
     translation: atrocious
     transliteration: iddan
 ---

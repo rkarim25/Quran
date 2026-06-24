@@ -1,8 +1,7 @@
 ---
-arabic_ayat: فَمَنۡ لَّمۡ يَجِدۡ فَصِيَامُ شَهۡرَيۡنِ مُتَتَابِعَيۡنِ مِنۡ قَبۡلِ
-  اَنۡ يَّتَمَآسَّاؕ فَمَنۡ لَّمۡ يَسۡتَطِعۡ فَاِطۡعَامُ سِتِّيۡنَ مِسۡكِيۡنًا​ؕ
-  ذٰلِكَ لِتُؤۡمِنُوۡا بِاللّٰهِ وَرَسُوۡلِهٖ​ؕ وَتِلۡكَ حُدُوۡدُ اللّٰهِ​ؕ وَلِلۡكٰفِرِيۡنَ
-  عَذَابٌ اَلِیْمٌ‏
+arabic_ayat: فَمَن لَّمۡ يَجِدۡ فَصِيَامُ شَهۡرَيۡنِ مُتَتَابِعَيۡنِ مِن قَبۡلِ أَن
+  يَتَمَآسَّاۖ فَمَن لَّمۡ يَسۡتَطِعۡ فَإِطۡعَامُ سِتِّينَ مِسۡكِينٗاۚ ذَٰلِكَ لِتُؤۡمِنُواْ
+  بِٱللَّهِ وَرَسُولِهِۦۚ وَتِلۡكَ حُدُودُ ٱللَّهِۗ وَلِلۡكَٰفِرِينَ عَذَابٌ أَلِيمٌ
 sentence_translation: But if the husband cannot afford this, let him then fast two
   consecutive months before the couple touch each other. But if he is unable ˹to fast˺,
   then let him feed sixty poor people. This is to re-affirm your faith in Allah and
@@ -10,7 +9,7 @@ sentence_translation: But if the husband cannot afford this, let him then fast t
   a painful punishment.
 word_by_word:
   1:
-    arabic: فَمَنۡ
+    arabic: فَمَن
     translation: Then whoever
     transliteration: faman
   2:
@@ -34,7 +33,7 @@ word_by_word:
     translation: consecutively
     transliteration: mutatābiʿayni
   7:
-    arabic: مِنۡ
+    arabic: مِن
     translation: before
     transliteration: min
   8:
@@ -42,15 +41,15 @@ word_by_word:
     translation: before
     transliteration: qabli
   9:
-    arabic: اَنۡ
+    arabic: أَن
     translation: '[that]'
     transliteration: an
   10:
-    arabic: يَّتَمَآسَّاؕ
+    arabic: يَتَمَآسَّاۖ
     translation: they both touch each other
     transliteration: yatamāssā
   11:
-    arabic: فَمَنۡ
+    arabic: فَمَن
     translation: But (he) who
     transliteration: faman
   12:
@@ -62,31 +61,31 @@ word_by_word:
     translation: is able
     transliteration: yastaṭiʿ
   14:
-    arabic: فَاِطۡعَامُ
+    arabic: فَإِطۡعَامُ
     translation: then (the) feeding
     transliteration: fa-iṭ'ʿāmu
   15:
-    arabic: سِتِّيۡنَ
+    arabic: سِتِّينَ
     translation: (of) sixty
     transliteration: sittīna
   16:
-    arabic: مِسۡكِيۡنًا​ؕ
+    arabic: مِسۡكِينٗاۚ
     translation: needy one(s)
     transliteration: mis'kīnan
   17:
-    arabic: ذٰلِكَ
+    arabic: ذَٰلِكَ
     translation: 'That '
     transliteration: dhālika
   18:
-    arabic: لِتُؤۡمِنُوۡا
+    arabic: لِتُؤۡمِنُواْ
     translation: so that you may believe
     transliteration: litu'minū
   19:
-    arabic: بِاللّٰهِ
+    arabic: بِٱللَّهِ
     translation: in Allah
     transliteration: bil-lahi
   20:
-    arabic: وَرَسُوۡلِهٖ​ؕ
+    arabic: وَرَسُولِهِۦۚ
     translation: and His Messenger
     transliteration: warasūlihi
   21:
@@ -94,15 +93,15 @@ word_by_word:
     translation: and these
     transliteration: watil'ka
   22:
-    arabic: حُدُوۡدُ
+    arabic: حُدُودُ
     translation: (are the) limits
     transliteration: ḥudūdu
   23:
-    arabic: اللّٰهِ​ؕ
+    arabic: ٱللَّهِۗ
     translation: (of) Allah
     transliteration: l-lahi
   24:
-    arabic: وَلِلۡكٰفِرِيۡنَ
+    arabic: وَلِلۡكَٰفِرِينَ
     translation: and for the disbelievers
     transliteration: walil'kāfirīna
   25:
@@ -110,7 +109,7 @@ word_by_word:
     translation: (is) a punishment
     transliteration: ʿadhābun
   26:
-    arabic: اَلِیْمٌ‏
+    arabic: أَلِيمٌ
     translation: painful
     transliteration: alīmun
 ---

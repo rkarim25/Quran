@@ -1,13 +1,13 @@
 ---
-arabic_ayat: اَصۡطَفَى الۡبَنَاتِ عَلَى الۡبَنِيۡنَؕ‏
+arabic_ayat: أَصۡطَفَى ٱلۡبَنَاتِ عَلَى ٱلۡبَنِينَ
 sentence_translation: Has He chosen daughters over sons?
 word_by_word:
   1:
-    arabic: اَصۡطَفَى
+    arabic: أَصۡطَفَى
     translation: Has He chosen
     transliteration: aṣṭafā
   2:
-    arabic: الۡبَنَاتِ
+    arabic: ٱلۡبَنَاتِ
     translation: '[the] daughters'
     transliteration: l-banāti
   3:
@@ -15,7 +15,7 @@ word_by_word:
     translation: over
     transliteration: ʿalā
   4:
-    arabic: الۡبَنِيۡنَؕ‏
+    arabic: ٱلۡبَنِينَ
     translation: sons
     transliteration: l-banīna
 ---

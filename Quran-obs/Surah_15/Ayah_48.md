@@ -1,5 +1,5 @@
 ---
-arabic_ayat: لَا يَمَسُّهُمۡ فِيۡهَا نَـصَبٌ وَّمَا هُمۡ مِّنۡهَا بِمُخۡرَجِيۡنَ‏
+arabic_ayat: لَا يَمَسُّهُمۡ فِيهَا نَصَبٞ وَمَا هُم مِّنۡهَا بِمُخۡرَجِينَ
 sentence_translation: No fatigue will touch them there, nor will they ever be asked
   to leave.
 word_by_word:
@@ -12,19 +12,19 @@ word_by_word:
     translation: will touch them
     transliteration: yamassuhum
   3:
-    arabic: فِيۡهَا
+    arabic: فِيهَا
     translation: therein
     transliteration: fīhā
   4:
-    arabic: نَـصَبٌ
+    arabic: نَصَبٞ
     translation: fatigue
     transliteration: naṣabun
   5:
-    arabic: وَّمَا
+    arabic: وَمَا
     translation: and not
     transliteration: wamā
   6:
-    arabic: هُمۡ
+    arabic: هُم
     translation: they
     transliteration: hum
   7:
@@ -32,7 +32,7 @@ word_by_word:
     translation: from it
     transliteration: min'hā
   8:
-    arabic: بِمُخۡرَجِيۡنَ‏
+    arabic: بِمُخۡرَجِينَ
     translation: will be removed
     transliteration: bimukh'rajīna
 ---

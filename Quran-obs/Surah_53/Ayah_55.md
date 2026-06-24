@@ -1,13 +1,13 @@
 ---
-arabic_ayat: فَبِاَىِّ اٰلَاۤءِ رَبِّكَ تَتَمَارٰى‏
+arabic_ayat: فَبِأَيِّ ءَالَآءِ رَبِّكَ تَتَمَارَىٰ
 sentence_translation: Now, which of your Lord’s favours will you dispute?
 word_by_word:
   1:
-    arabic: فَبِاَىِّ
+    arabic: فَبِأَيِّ ءَ
     translation: Then which (of)
     transliteration: fabi-ayyi
   2:
-    arabic: اٰلَاۤءِ
+    arabic: الَآءِ
     translation: the Favors
     transliteration: ālāi
   3:
@@ -15,7 +15,7 @@ word_by_word:
     translation: (of) your Lord
     transliteration: rabbika
   4:
-    arabic: تَتَمَارٰى‏
+    arabic: تَتَمَارَىٰ
     translation: will you doubt
     transliteration: tatamārā
 ---

@@ -1,7 +1,7 @@
 ---
-arabic_ayat: جَزَآؤُهُمۡ عِنۡدَ رَبِّهِمۡ جَنّٰتُ عَدۡنٍ تَجۡرِىۡ مِنۡ تَحۡتِهَا
-  الۡاَنۡهٰرُ خٰلِدِيۡنَ فِيۡهَاۤ اَبَدًا ​ؕ رَضِىَ اللّٰهُ عَنۡهُمۡ وَرَضُوۡا عَنۡهُ
-  ​ؕ ذٰلِكَ لِمَنۡ خَشِىَ رَبَّهٗ‏
+arabic_ayat: جَزَآؤُهُمۡ عِندَ رَبِّهِمۡ جَنَّٰتُ عَدۡنٖ تَجۡرِي مِن تَحۡتِهَا ٱلۡأَنۡهَٰرُ
+  خَٰلِدِينَ فِيهَآ أَبَدٗاۖ رَّضِيَ ٱللَّهُ عَنۡهُمۡ وَرَضُواْ عَنۡهُۚ ذَٰلِكَ لِمَنۡ
+  خَشِيَ رَبَّهُۥ
 sentence_translation: Their reward with their Lord will be Gardens of Eternity, under
   which rivers flow, to stay there for ever and ever. Allah is pleased with them and
   they are pleased with Him. This is ˹only˺ for those in awe of their Lord.
@@ -11,7 +11,7 @@ word_by_word:
     translation: Their reward
     transliteration: jazāuhum
   2:
-    arabic: عِنۡدَ
+    arabic: عِندَ
     translation: (is) with
     transliteration: ʿinda
   3:
@@ -19,19 +19,19 @@ word_by_word:
     translation: 'their Lord '
     transliteration: rabbihim
   4:
-    arabic: جَنّٰتُ
+    arabic: جَنَّٰتُ
     translation: Gardens
     transliteration: jannātu
   5:
-    arabic: عَدۡنٍ
+    arabic: عَدۡنٖ
     translation: (of) Eternity
     transliteration: ʿadnin
   6:
-    arabic: تَجۡرِىۡ
+    arabic: تَجۡرِي
     translation: flow
     transliteration: tajrī
   7:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   8:
@@ -39,27 +39,27 @@ word_by_word:
     translation: underneath them
     transliteration: taḥtihā
   9:
-    arabic: الۡاَنۡهٰرُ
+    arabic: ٱلۡأَنۡهَٰرُ
     translation: the rivers
     transliteration: l-anhāru
   10:
-    arabic: خٰلِدِيۡنَ
+    arabic: خَٰلِدِينَ
     translation: will abide
     transliteration: khālidīna
   11:
-    arabic: فِيۡهَاۤ
+    arabic: فِيهَآ
     translation: therein
     transliteration: fīhā
   12:
-    arabic: اَبَدًا ​ؕ
+    arabic: أَبَدٗاۖ
     translation: forever
     transliteration: abadan
   13:
-    arabic: رَضِىَ
+    arabic: رَّضِيَ
     translation: (will be) pleased
     transliteration: raḍiya
   14:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   15:
@@ -67,15 +67,15 @@ word_by_word:
     translation: with them
     transliteration: ʿanhum
   16:
-    arabic: وَرَضُوۡا
+    arabic: وَرَضُواْ
     translation: and they (will be) pleased
     transliteration: waraḍū
   17:
-    arabic: عَنۡهُ ​ؕ
+    arabic: عَنۡهُۚ
     translation: with Him
     transliteration: ʿanhu
   18:
-    arabic: ذٰلِكَ
+    arabic: ذَٰلِكَ
     translation: That
     transliteration: dhālika
   19:
@@ -83,11 +83,11 @@ word_by_word:
     translation: (is) for whoever
     transliteration: liman
   20:
-    arabic: خَشِىَ
+    arabic: خَشِيَ
     translation: feared
     transliteration: khashiya
   21:
-    arabic: رَبَّهٗ‏
+    arabic: رَبَّهُۥ
     translation: his Lord
     transliteration: rabbahu
 ---

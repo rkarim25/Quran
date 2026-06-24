@@ -1,5 +1,5 @@
 ---
-arabic_ayat: وَلَقَدۡ خَلَقۡنَا الۡاِنۡسَانَ مِنۡ سُلٰلَةٍ مِّنۡ طِيۡنٍ​ ۚ‏
+arabic_ayat: وَلَقَدۡ خَلَقۡنَا ٱلۡإِنسَٰنَ مِن سُلَٰلَةٖ مِّن طِينٖ
 sentence_translation: And indeed, We created humankind from an extract of clay,
 word_by_word:
   1:
@@ -11,23 +11,23 @@ word_by_word:
     translation: We created
     transliteration: khalaqnā
   3:
-    arabic: الۡاِنۡسَانَ
+    arabic: ٱلۡإِنسَٰنَ
     translation: the humankind
     transliteration: l-insāna
   4:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   5:
-    arabic: سُلٰلَةٍ
+    arabic: سُلَٰلَةٖ
     translation: an essence
     transliteration: sulālatin
   6:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: of
     transliteration: min
   7:
-    arabic: طِيۡنٍ​ ۚ‏
+    arabic: طِينٖ
     translation: clay
     transliteration: ṭīnin
 ---

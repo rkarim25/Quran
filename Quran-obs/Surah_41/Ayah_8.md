@@ -1,27 +1,27 @@
 ---
-arabic_ayat: "اِنَّ الَّذِيۡنَ اٰمَنُوۡا وَعَمِلُوا الصّٰلِحٰتِ لَهُمۡ اَجۡرٌ غَيۡرُ\
-  \ مَمۡنُوۡنٍ‏ \uFEFF\uFEFF"
+arabic_ayat: إِنَّ ٱلَّذِينَ ءَامَنُواْ وَعَمِلُواْ ٱلصَّٰلِحَٰتِ لَهُمۡ أَجۡرٌ غَيۡرُ
+  مَمۡنُونٖ
 sentence_translation: ˹But˺ those who believe and do good will certainly have a never-ending
   reward.
 word_by_word:
   1:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ ءَ
     translation: those who
     transliteration: alladhīna
   3:
-    arabic: اٰمَنُوۡا
+    arabic: امَنُواْ
     translation: believe
     transliteration: āmanū
   4:
-    arabic: وَعَمِلُوا
+    arabic: وَعَمِلُواْ
     translation: and do
     transliteration: waʿamilū
   5:
-    arabic: الصّٰلِحٰتِ
+    arabic: ٱلصَّٰلِحَٰتِ
     translation: righteous deeds
     transliteration: l-ṣāliḥāti
   6:
@@ -29,7 +29,7 @@ word_by_word:
     translation: for them
     transliteration: lahum
   7:
-    arabic: اَجۡرٌ
+    arabic: أَجۡرٌ
     translation: (is) a reward
     transliteration: ajrun
   8:
@@ -37,7 +37,7 @@ word_by_word:
     translation: never ending
     transliteration: ghayru
   9:
-    arabic: "مَمۡنُوۡنٍ‏ \uFEFF\uFEFF"
+    arabic: مَمۡنُونٖ
     translation: never ending
     transliteration: mamnūnin
 ---

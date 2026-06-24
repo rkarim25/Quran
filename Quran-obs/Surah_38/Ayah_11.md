@@ -1,9 +1,9 @@
 ---
-arabic_ayat: جُنۡدٌ مَّا هُنَالِكَ مَهۡزُوۡمٌ مِّنَ الۡاَحۡزَابِ‏
+arabic_ayat: جُندٞ مَّا هُنَالِكَ مَهۡزُومٞ مِّنَ ٱلۡأَحۡزَابِ
 sentence_translation: This is just another ˹enemy˺ force bound for defeat out there.
 word_by_word:
   1:
-    arabic: جُنۡدٌ
+    arabic: جُندٞ
     translation: 'Soldiers '
     transliteration: jundun
   2:
@@ -15,7 +15,7 @@ word_by_word:
     translation: there
     transliteration: hunālika
   4:
-    arabic: مَهۡزُوۡمٌ
+    arabic: مَهۡزُومٞ
     translation: (they will be) defeated
     transliteration: mahzūmun
   5:
@@ -23,7 +23,7 @@ word_by_word:
     translation: among
     transliteration: mina
   6:
-    arabic: الۡاَحۡزَابِ‏
+    arabic: ٱلۡأَحۡزَابِ
     translation: the companies
     transliteration: l-aḥzābi
 ---

@@ -1,17 +1,17 @@
 ---
-arabic_ayat: نِّصۡفَهٗۤ اَوِ انْقُصۡ مِنۡهُ قَلِيۡلًا ۙ‏
+arabic_ayat: نِّصۡفَهُۥٓ أَوِ ٱنقُصۡ مِنۡهُ قَلِيلًا
 sentence_translation: ˹pray˺ half the night, or a little less,
 word_by_word:
   1:
-    arabic: نِّصۡفَهٗۤ
+    arabic: نِّصۡفَهُۥٓ
     translation: Half of it
     transliteration: niṣ'fahu
   2:
-    arabic: اَوِ
+    arabic: أَوِ
     translation: or
     transliteration: awi
   3:
-    arabic: انْقُصۡ
+    arabic: ٱنقُصۡ
     translation: lessen
     transliteration: unquṣ
   4:
@@ -19,7 +19,7 @@ word_by_word:
     translation: from it
     transliteration: min'hu
   5:
-    arabic: قَلِيۡلًا ۙ‏
+    arabic: قَلِيلًا
     translation: a little
     transliteration: qalīlan
 ---

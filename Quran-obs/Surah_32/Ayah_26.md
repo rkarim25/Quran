@@ -1,13 +1,12 @@
 ---
-arabic_ayat: "اَوَلَمۡ يَهۡدِ لَهُمۡ كَمۡ اَهۡلَكۡنَا مِنۡ قَبۡلِهِمۡ مِّنَ الۡقُرُوۡنِ\
-  \ يَمۡشُوۡنَ فِىۡ مَسٰكِنِهِمۡ​ ؕ اِنَّ فِىۡ ذٰ لِكَ لَاٰيٰتٍ ؕ اَفَلَا يَسۡمَعُوۡنَ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: أَوَلَمۡ يَهۡدِ لَهُمۡ كَمۡ أَهۡلَكۡنَا مِن قَبۡلِهِم مِّنَ ٱلۡقُرُونِ
+  يَمۡشُونَ فِي مَسَٰكِنِهِمۡۚ إِنَّ فِي ذَٰلِكَ لَأٓيَٰتٍۚ أَفَلَا يَسۡمَعُونَ
 sentence_translation: Is it not yet clear to them how many peoples We destroyed before
   them, whose ruins they still pass by? Surely in this are signs. Will they not then
   listen?
 word_by_word:
   1:
-    arabic: اَوَلَمۡ
+    arabic: أَوَلَمۡ
     translation: Does it not
     transliteration: awalam
   2:
@@ -23,15 +22,15 @@ word_by_word:
     translation: (that) how many
     transliteration: kam
   5:
-    arabic: اَهۡلَكۡنَا
+    arabic: أَهۡلَكۡنَا
     translation: We have destroyed
     transliteration: ahlaknā
   6:
-    arabic: مِنۡ
+    arabic: مِن
     translation: before them
     transliteration: min
   7:
-    arabic: قَبۡلِهِمۡ
+    arabic: قَبۡلِهِم
     translation: before them
     transliteration: qablihim
   8:
@@ -39,43 +38,43 @@ word_by_word:
     translation: of
     transliteration: mina
   9:
-    arabic: الۡقُرُوۡنِ
+    arabic: ٱلۡقُرُونِ
     translation: the generations
     transliteration: l-qurūni
   10:
-    arabic: يَمۡشُوۡنَ
+    arabic: يَمۡشُونَ
     translation: they walk about
     transliteration: yamshūna
   11:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   12:
-    arabic: مَسٰكِنِهِمۡ​ ؕ
+    arabic: مَسَٰكِنِهِمۡۚ
     translation: their dwellings
     transliteration: masākinihim
   13:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   14:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   15:
-    arabic: ذٰ لِكَ
+    arabic: ذَٰلِكَ
     translation: that
     transliteration: dhālika
   16:
-    arabic: لَاٰيٰتٍ ؕ
+    arabic: لَأٓيَٰتٍۚ
     translation: surely, are Signs
     transliteration: laāyātin
   17:
-    arabic: اَفَلَا
+    arabic: أَفَلَا
     translation: Then do not
     transliteration: afalā
   18:
-    arabic: "يَسۡمَعُوۡنَ‏ \uFEFF\uFEFF"
+    arabic: يَسۡمَعُونَ
     translation: they hear
     transliteration: yasmaʿūna
 ---

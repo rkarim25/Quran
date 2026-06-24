@@ -1,6 +1,6 @@
 ---
-arabic_ayat: يُدَبِّرُ الۡاَمۡرَ مِنَ السَّمَآءِ اِلَى الۡاَرۡضِ ثُمَّ يَعۡرُجُ اِلَيۡهِ
-  فِىۡ يَوۡمٍ كَانَ مِقۡدَارُهٗۤ اَلۡفَ سَنَةٍ مِّمَّا تَعُدُّوۡنَ‏
+arabic_ayat: يُدَبِّرُ ٱلۡأَمۡرَ مِنَ ٱلسَّمَآءِ إِلَى ٱلۡأَرۡضِ ثُمَّ يَعۡرُجُ إِلَيۡهِ
+  فِي يَوۡمٖ كَانَ مِقۡدَارُهُۥٓ أَلۡفَ سَنَةٖ مِّمَّا تَعُدُّونَ
 sentence_translation: He conducts every affair from the heavens to the earth, then
   it all ascends to Him on a Day whose length is a thousand years by your counting.
 word_by_word:
@@ -9,7 +9,7 @@ word_by_word:
     translation: He regulates
     transliteration: yudabbiru
   2:
-    arabic: الۡاَمۡرَ
+    arabic: ٱلۡأَمۡرَ
     translation: the affair
     transliteration: l-amra
   3:
@@ -17,15 +17,15 @@ word_by_word:
     translation: of
     transliteration: mina
   4:
-    arabic: السَّمَآءِ
+    arabic: ٱلسَّمَآءِ
     translation: the heaven
     transliteration: l-samāi
   5:
-    arabic: اِلَى
+    arabic: إِلَى
     translation: to
     transliteration: ilā
   6:
-    arabic: الۡاَرۡضِ
+    arabic: ٱلۡأَرۡضِ
     translation: the earth
     transliteration: l-arḍi
   7:
@@ -37,15 +37,15 @@ word_by_word:
     translation: it will ascend
     transliteration: yaʿruju
   9:
-    arabic: اِلَيۡهِ
+    arabic: إِلَيۡهِ
     translation: to Him
     transliteration: ilayhi
   10:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   11:
-    arabic: يَوۡمٍ
+    arabic: يَوۡمٖ
     translation: a Day
     transliteration: yawmin
   12:
@@ -53,15 +53,15 @@ word_by_word:
     translation: (the) measure of which is
     transliteration: kāna
   13:
-    arabic: مِقۡدَارُهٗۤ
+    arabic: مِقۡدَارُهُۥٓ
     translation: (the) measure of which is
     transliteration: miq'dāruhu
   14:
-    arabic: اَلۡفَ
+    arabic: أَلۡفَ
     translation: a thousand
     transliteration: alfa
   15:
-    arabic: سَنَةٍ
+    arabic: سَنَةٖ
     translation: years
     transliteration: sanatin
   16:
@@ -69,7 +69,7 @@ word_by_word:
     translation: of what
     transliteration: mimmā
   17:
-    arabic: تَعُدُّوۡنَ‏
+    arabic: تَعُدُّونَ
     translation: you count
     transliteration: taʿuddūna
 ---

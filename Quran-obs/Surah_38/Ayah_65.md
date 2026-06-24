@@ -1,6 +1,6 @@
 ---
-arabic_ayat: قُلۡ اِنَّمَاۤ اَنَا مُنۡذِرٌ ​​ۖ  وَّمَا مِنۡ اِلٰهٍ اِلَّا اللّٰهُ
-  الۡوَاحِدُ الۡقَهَّارُ​ ۚ‏
+arabic_ayat: قُلۡ إِنَّمَآ أَنَا۠ مُنذِرٞۖ وَمَا مِنۡ إِلَٰهٍ إِلَّا ٱللَّهُ ٱلۡوَٰحِدُ
+  ٱلۡقَهَّارُ
 sentence_translation: Say, ˹O Prophet,˺ “I am only a warner. And there is no god ˹worthy
   of worship˺ except Allah—the One, the Supreme.
 word_by_word:
@@ -9,19 +9,19 @@ word_by_word:
     translation: Say
     transliteration: qul
   2:
-    arabic: اِنَّمَاۤ
+    arabic: إِنَّمَآ
     translation: Only
     transliteration: innamā
   3:
-    arabic: اَنَا
+    arabic: أَنَا۠
     translation: I am
     transliteration: anā
   4:
-    arabic: مُنۡذِرٌ ​​ۖ 
+    arabic: مُنذِرٞۖ
     translation: a warner
     transliteration: mundhirun
   5:
-    arabic: وَّمَا
+    arabic: وَمَا
     translation: and not
     transliteration: wamā
   6:
@@ -29,23 +29,23 @@ word_by_word:
     translation: (is there) any
     transliteration: min
   7:
-    arabic: اِلٰهٍ
+    arabic: إِلَٰهٍ
     translation: god
     transliteration: ilāhin
   8:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   9:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   10:
-    arabic: الۡوَاحِدُ
+    arabic: ٱلۡوَٰحِدُ
     translation: the One
     transliteration: l-wāḥidu
   11:
-    arabic: الۡقَهَّارُ​ ۚ‏
+    arabic: ٱلۡقَهَّارُ
     translation: the Irresistible
     transliteration: l-qahāru
 ---

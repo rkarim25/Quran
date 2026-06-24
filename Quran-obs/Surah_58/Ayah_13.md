@@ -1,23 +1,22 @@
 ---
-arabic_ayat: ءَاَشۡفَقۡتُمۡ اَنۡ تُقَدِّمُوۡا بَيۡنَ يَدَىۡ نَجۡوٰٮكُمۡ صَدَقٰتٍ​
-  ؕ فَاِذۡ لَمۡ تَفۡعَلُوۡا وَتَابَ اللّٰهُ عَلَيۡكُمۡ فَاَقِيۡمُوا الصَّلٰوةَ وَ
-  اٰتُوا الزَّكٰوةَ وَاَطِيۡعُوا اللّٰهَ وَرَسُوۡلَهٗ​ ؕ وَاللّٰهُ خَبِيۡرٌۢ بِمَا
-  تَعۡمَلُوۡنَ‏
+arabic_ayat: ءَأَشۡفَقۡتُمۡ أَن تُقَدِّمُواْ بَيۡنَ يَدَيۡ نَجۡوَىٰكُمۡ صَدَقَٰتٖۚ
+  فَإِذۡ لَمۡ تَفۡعَلُواْ وَتَابَ ٱللَّهُ عَلَيۡكُمۡ فَأَقِيمُواْ ٱلصَّلَوٰةَ وَءَاتُواْ
+  ٱلزَّكَوٰةَ وَأَطِيعُواْ ٱللَّهَ وَرَسُولَهُۥۚ وَٱللَّهُ خَبِيرُۢ بِمَا تَعۡمَلُونَ
 sentence_translation: Are you afraid of spending in charity before your private consultations
   ˹with him˺? Since you are unable to do so, and Allah has turned to you in mercy,
   then ˹continue to˺ establish prayer, pay alms-tax, and obey Allah and His Messenger.
   And Allah is All-Aware of what you do.
 word_by_word:
   1:
-    arabic: ءَاَشۡفَقۡتُمۡ
+    arabic: ءَأَشۡفَقۡتُمۡ
     translation: Are you afraid
     transliteration: a-ashfaqtum
   2:
-    arabic: اَنۡ
+    arabic: أَن
     translation: to
     transliteration: an
   3:
-    arabic: تُقَدِّمُوۡا
+    arabic: تُقَدِّمُواْ
     translation: offer
     transliteration: tuqaddimū
   4:
@@ -25,19 +24,19 @@ word_by_word:
     translation: before
     transliteration: bayna
   5:
-    arabic: يَدَىۡ
+    arabic: يَدَيۡ
     translation: before
     transliteration: yaday
   6:
-    arabic: نَجۡوٰٮكُمۡ
+    arabic: نَجۡوَىٰكُمۡ
     translation: your private consultation
     transliteration: najwākum
   7:
-    arabic: صَدَقٰتٍ​ ؕ
+    arabic: صَدَقَٰتٖۚ
     translation: charities
     transliteration: ṣadaqātin
   8:
-    arabic: فَاِذۡ
+    arabic: فَإِذۡ
     translation: Then when
     transliteration: fa-idh
   9:
@@ -45,7 +44,7 @@ word_by_word:
     translation: you do not
     transliteration: lam
   10:
-    arabic: تَفۡعَلُوۡا
+    arabic: تَفۡعَلُواْ
     translation: you do not
     transliteration: tafʿalū
   11:
@@ -53,7 +52,7 @@ word_by_word:
     translation: and Allah has forgiven
     transliteration: watāba
   12:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: and Allah has forgiven
     transliteration: l-lahu
   13:
@@ -61,39 +60,39 @@ word_by_word:
     translation: you
     transliteration: ʿalaykum
   14:
-    arabic: فَاَقِيۡمُوا
+    arabic: فَأَقِيمُواْ
     translation: then establish
     transliteration: fa-aqīmū
   15:
-    arabic: الصَّلٰوةَ
+    arabic: ٱلصَّلَوٰةَ
     translation: the prayer
     transliteration: l-ṣalata
   16:
-    arabic: وَ اٰتُوا
+    arabic: وَءَاتُواْ
     translation: and give
     transliteration: waātū
   17:
-    arabic: الزَّكٰوةَ
+    arabic: ٱلزَّكَوٰةَ
     translation: the zakah
     transliteration: l-zakata
   18:
-    arabic: وَاَطِيۡعُوا
+    arabic: وَأَطِيعُواْ
     translation: and obey
     transliteration: wa-aṭīʿū
   19:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   20:
-    arabic: وَرَسُوۡلَهٗ​ ؕ
+    arabic: وَرَسُولَهُۥۚ
     translation: and His Messenger
     transliteration: warasūlahu
   21:
-    arabic: وَاللّٰهُ
+    arabic: وَٱللَّهُ
     translation: And Allah
     transliteration: wal-lahu
   22:
-    arabic: خَبِيۡرٌۢ
+    arabic: خَبِيرُۢ
     translation: (is) All-Aware
     transliteration: khabīrun
   23:
@@ -101,7 +100,7 @@ word_by_word:
     translation: of what
     transliteration: bimā
   24:
-    arabic: تَعۡمَلُوۡنَ‏
+    arabic: تَعۡمَلُونَ
     translation: you do
     transliteration: taʿmalūna
 ---

@@ -1,12 +1,12 @@
 ---
-arabic_ayat: فَاِذَا جَآءَ وَعۡدُ اُوۡلٰٮهُمَا بَعَثۡنَا عَلَيۡكُمۡ عِبَادًا لَّنَاۤ
-  اُولِىۡ بَاۡسٍ شَدِيۡدٍ فَجَاسُوۡا خِلٰلَ الدِّيَارِ ​ؕ وَكَانَ وَعۡدًا مَّفۡعُوۡلًا‏
+arabic_ayat: فَإِذَا جَآءَ وَعۡدُ أُولَىٰهُمَا بَعَثۡنَا عَلَيۡكُمۡ عِبَادٗا لَّنَآ
+  أُوْلِي بَأۡسٖ شَدِيدٖ فَجَاسُواْ خِلَٰلَ ٱلدِّيَارِۚ وَكَانَ وَعۡدٗا مَّفۡعُولٗا
 sentence_translation: When the first of the two warnings would come to pass, We would
   send against you some of Our servants of great might, who would ravage your homes.
   This would be a warning fulfilled.
 word_by_word:
   1:
-    arabic: فَاِذَا
+    arabic: فَإِذَا
     translation: So when
     transliteration: fa-idhā
   2:
@@ -18,7 +18,7 @@ word_by_word:
     translation: (the) promise
     transliteration: waʿdu
   4:
-    arabic: اُوۡلٰٮهُمَا
+    arabic: أُولَىٰهُمَا
     translation: (for) the first of the two
     transliteration: ūlāhumā
   5:
@@ -30,35 +30,35 @@ word_by_word:
     translation: against you
     transliteration: ʿalaykum
   7:
-    arabic: عِبَادًا
+    arabic: عِبَادٗا
     translation: servants
     transliteration: ʿibādan
   8:
-    arabic: لَّنَاۤ
+    arabic: لَّنَآ
     translation: of Ours
     transliteration: lanā
   9:
-    arabic: اُولِىۡ
+    arabic: أُوْلِي
     translation: those of great military might
     transliteration: ulī
   10:
-    arabic: بَاۡسٍ
+    arabic: بَأۡسٖ
     translation: those of great military might
     transliteration: basin
   11:
-    arabic: شَدِيۡدٍ
+    arabic: شَدِيدٖ
     translation: those of great military might
     transliteration: shadīdin
   12:
-    arabic: فَجَاسُوۡا
+    arabic: فَجَاسُواْ
     translation: and they entered
     transliteration: fajāsū
   13:
-    arabic: خِلٰلَ
+    arabic: خِلَٰلَ
     translation: the inner most part
     transliteration: khilāla
   14:
-    arabic: الدِّيَارِ ​ؕ
+    arabic: ٱلدِّيَارِۚ
     translation: (of) the homes
     transliteration: l-diyāri
   15:
@@ -66,11 +66,11 @@ word_by_word:
     translation: and (it) was
     transliteration: wakāna
   16:
-    arabic: وَعۡدًا
+    arabic: وَعۡدٗا
     translation: a promise
     transliteration: waʿdan
   17:
-    arabic: مَّفۡعُوۡلًا‏
+    arabic: مَّفۡعُولٗا
     translation: fulfilled
     transliteration: mafʿūlan
 ---

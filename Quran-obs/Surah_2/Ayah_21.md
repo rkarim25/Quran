@@ -1,19 +1,19 @@
 ---
-arabic_ayat: يٰۤاَيُّهَا النَّاسُ اعۡبُدُوۡا رَبَّكُمُ الَّذِىۡ خَلَقَكُمۡ وَالَّذِيۡنَ
-  مِنۡ قَبۡلِكُمۡ لَعَلَّكُمۡ تَتَّقُوۡنَ ۙ‏
+arabic_ayat: يَٰٓأَيُّهَا ٱلنَّاسُ ٱعۡبُدُواْ رَبَّكُمُ ٱلَّذِي خَلَقَكُمۡ وَٱلَّذِينَ
+  مِن قَبۡلِكُمۡ لَعَلَّكُمۡ تَتَّقُونَ
 sentence_translation: O humanity! Worship your Lord, Who created you and those before
   you, so that you may become mindful ˹of Him˺.
 word_by_word:
   1:
-    arabic: يٰۤاَيُّهَا
+    arabic: يَٰٓأَيُّهَا
     translation: O
     transliteration: yāayyuhā
   2:
-    arabic: النَّاسُ
+    arabic: ٱلنَّاسُ
     translation: mankind
     transliteration: l-nāsu
   3:
-    arabic: اعۡبُدُوۡا
+    arabic: ٱعۡبُدُواْ
     translation: worship
     transliteration: uʿ'budū
   4:
@@ -21,7 +21,7 @@ word_by_word:
     translation: your Lord
     transliteration: rabbakumu
   5:
-    arabic: الَّذِىۡ
+    arabic: ٱلَّذِي
     translation: the One Who
     transliteration: alladhī
   6:
@@ -29,11 +29,11 @@ word_by_word:
     translation: created you
     transliteration: khalaqakum
   7:
-    arabic: وَالَّذِيۡنَ
+    arabic: وَٱلَّذِينَ
     translation: and those
     transliteration: wa-alladhīna
   8:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   9:
@@ -45,7 +45,7 @@ word_by_word:
     translation: so that you may
     transliteration: laʿallakum
   11:
-    arabic: تَتَّقُوۡنَ ۙ‏
+    arabic: تَتَّقُونَ
     translation: become righteous
     transliteration: tattaqūna
 ---

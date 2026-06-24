@@ -1,6 +1,5 @@
 ---
-arabic_ayat: "فَلَمَّا تَرَآءَ الۡجَمۡعٰنِ قَالَ اَصۡحٰبُ مُوۡسٰٓى اِنَّا لَمُدۡرَكُوۡنَ​ۚ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: فَلَمَّا تَرَٰٓءَا ٱلۡجَمۡعَانِ قَالَ أَصۡحَٰبُ مُوسَىٰٓ إِنَّا لَمُدۡرَكُونَ
 sentence_translation: When the two groups came face to face, the companions of Moses
   cried out, “We are overtaken for sure.”
 word_by_word:
@@ -9,11 +8,11 @@ word_by_word:
     translation: Then when
     transliteration: falammā
   2:
-    arabic: تَرَآءَ
+    arabic: تَرَٰٓءَا
     translation: saw each other
     transliteration: tarāā
   3:
-    arabic: الۡجَمۡعٰنِ
+    arabic: ٱلۡجَمۡعَانِ
     translation: the two hosts
     transliteration: l-jamʿāni
   4:
@@ -21,19 +20,19 @@ word_by_word:
     translation: said
     transliteration: qāla
   5:
-    arabic: اَصۡحٰبُ
+    arabic: أَصۡحَٰبُ
     translation: (the) companions
     transliteration: aṣḥābu
   6:
-    arabic: مُوۡسٰٓى
+    arabic: مُوسَىٰٓ
     translation: (of) Musa
     transliteration: mūsā
   7:
-    arabic: اِنَّا
+    arabic: إِنَّا
     translation: Indeed, we
     transliteration: innā
   8:
-    arabic: "لَمُدۡرَكُوۡنَ​ۚ‏ \uFEFF\uFEFF"
+    arabic: لَمُدۡرَكُونَ
     translation: (are) surely to be overtaken
     transliteration: lamud'rakūna
 ---

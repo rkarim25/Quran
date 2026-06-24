@@ -1,10 +1,10 @@
 ---
-arabic_ayat: كَلَّا لَوۡ تَعۡلَمُوۡنَ عِلۡمَ الۡيَقِيۡنِؕ‏
+arabic_ayat: كـَلَّا لَوۡ تَعۡلَمُونَ عِلۡمَ ٱلۡيَقِينِ
 sentence_translation: Indeed, if you were to know ˹your fate˺ with certainty, ˹you
   would have acted differently˺.
 word_by_word:
   1:
-    arabic: كَلَّا
+    arabic: كـَلَّا
     translation: Nay
     transliteration: kallā
   2:
@@ -12,7 +12,7 @@ word_by_word:
     translation: If
     transliteration: law
   3:
-    arabic: تَعۡلَمُوۡنَ
+    arabic: تَعۡلَمُونَ
     translation: you know
     transliteration: taʿlamūna
   4:
@@ -20,7 +20,7 @@ word_by_word:
     translation: (with) a knowledge
     transliteration: ʿil'ma
   5:
-    arabic: الۡيَقِيۡنِؕ‏
+    arabic: ٱلۡيَقِينِ
     translation: (of) certainty
     transliteration: l-yaqīni
 ---

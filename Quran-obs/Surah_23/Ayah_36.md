@@ -1,9 +1,9 @@
 ---
-arabic_ayat: هَيۡهَاتَ هَيۡهَاتَ لِمَا تُوۡعَدُوۡنَ ۙ‏
+arabic_ayat: ۞ هَيۡهَاتَ هَيۡهَاتَ لِمَا تُوعَدُونَ
 sentence_translation: Impossible, simply impossible is what you are promised!
 word_by_word:
   1:
-    arabic: ۞ هَيۡهَاتَ
+    arabic: ۞ هَيۡهَاتَ
     translation: Far-(fetched)
     transliteration: hayhāta
   2:
@@ -15,7 +15,7 @@ word_by_word:
     translation: is what
     transliteration: limā
   4:
-    arabic: تُوۡعَدُوۡنَ ۙ‏
+    arabic: تُوعَدُونَ
     translation: you are promised
     transliteration: tūʿadūna
 ---

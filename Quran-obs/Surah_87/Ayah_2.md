@@ -1,9 +1,9 @@
 ---
-arabic_ayat: الَّذِىۡ خَلَقَ فَسَوّٰى ۙ‏
+arabic_ayat: ٱلَّذِي خَلَقَ فَسَوَّىٰ
 sentence_translation: Who created and ˹perfectly˺ fashioned ˹all˺,
 word_by_word:
   1:
-    arabic: الَّذِىۡ
+    arabic: ٱلَّذِي
     translation: The One Who
     transliteration: alladhī
   2:
@@ -11,7 +11,7 @@ word_by_word:
     translation: created
     transliteration: khalaqa
   3:
-    arabic: فَسَوّٰى ۙ‏
+    arabic: فَسَوَّىٰ
     translation: then proportioned
     transliteration: fasawwā
 ---

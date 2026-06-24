@@ -1,8 +1,8 @@
 ---
-arabic_ayat: خَلَقَكُمۡ مِّنۡ نَّفۡسٍ وَّاحِدَةٍ ثُمَّ جَعَلَ مِنۡهَا زَوۡجَهَا وَاَنۡزَلَ
-  لَـكُمۡ مِّنَ الۡاَنۡعَامِ ثَمٰنِيَةَ اَزۡوَاجٍ​ ؕ يَخۡلُقُكُمۡ فِىۡ بُطُوۡنِ اُمَّهٰتِكُمۡ
-  خَلۡقًا مِّنۡۢ بَعۡدِ خَلۡقٍ فِىۡ ظُلُمٰتٍ ثَلٰثٍ​ ؕ ذٰ لِكُمُ اللّٰهُ رَبُّكُمۡ
-  لَهُ الۡمُلۡكُ​ ؕ لَاۤ اِلٰهَ اِلَّا هُوَ​ ۚ فَاَ نّٰى تُصۡرَفُوۡنَ‏
+arabic_ayat: خَلَقَكُم مِّن نَّفۡسٖ وَٰحِدَةٖ ثُمَّ جَعَلَ مِنۡهَا زَوۡجَهَا وَأَنزَلَ
+  لَكُم مِّنَ ٱلۡأَنۡعَٰمِ ثَمَٰنِيَةَ أَزۡوَٰجٖۚ يَخۡلُقُكُمۡ فِي بُطُونِ أُمَّهَٰتِكُمۡ
+  خَلۡقٗا مِّنۢ بَعۡدِ خَلۡقٖ فِي ظُلُمَٰتٖ ثَلَٰثٖۚ ذَٰلِكُمُ ٱللَّهُ رَبُّكُمۡ لَهُ
+  ٱلۡمُلۡكُۖ لَآ إِلَٰهَ إِلَّا هُوَۖ فَأَنَّىٰ تُصۡرَفُونَ
 sentence_translation: He created you ˹all˺ from a single soul, then from it He made
   its mate. And He produced for you four pairs of cattle. He creates you in the wombs
   of your mothers ˹in stages˺, one development after another, in three layers of darkness. That
@@ -10,19 +10,19 @@ sentence_translation: He created you ˹all˺ from a single soul, then from it H
   except Him. How can you then be turned away?
 word_by_word:
   1:
-    arabic: خَلَقَكُمۡ
+    arabic: خَلَقَكُم
     translation: He created you
     transliteration: khalaqakum
   2:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: from
     transliteration: min
   3:
-    arabic: نَّفۡسٍ
+    arabic: نَّفۡسٖ
     translation: a soul
     transliteration: nafsin
   4:
-    arabic: وَّاحِدَةٍ
+    arabic: وَٰحِدَةٖ
     translation: single
     transliteration: wāḥidatin
   5:
@@ -42,11 +42,11 @@ word_by_word:
     translation: its mate
     transliteration: zawjahā
   9:
-    arabic: وَاَنۡزَلَ
+    arabic: وَأَنزَلَ
     translation: And He sent down
     transliteration: wa-anzala
   10:
-    arabic: لَـكُمۡ
+    arabic: لَكُم
     translation: for you
     transliteration: lakum
   11:
@@ -54,15 +54,15 @@ word_by_word:
     translation: of
     transliteration: mina
   12:
-    arabic: الۡاَنۡعَامِ
+    arabic: ٱلۡأَنۡعَٰمِ
     translation: the cattle
     transliteration: l-anʿāmi
   13:
-    arabic: ثَمٰنِيَةَ
+    arabic: ثَمَٰنِيَةَ
     translation: eight
     transliteration: thamāniyata
   14:
-    arabic: اَزۡوَاجٍ​ ؕ
+    arabic: أَزۡوَٰجٖۚ
     translation: kinds
     transliteration: azwājin
   15:
@@ -70,23 +70,23 @@ word_by_word:
     translation: He creates you
     transliteration: yakhluqukum
   16:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   17:
-    arabic: بُطُوۡنِ
+    arabic: بُطُونِ
     translation: (the) wombs
     transliteration: buṭūni
   18:
-    arabic: اُمَّهٰتِكُمۡ
+    arabic: أُمَّهَٰتِكُمۡ
     translation: (of) your mothers
     transliteration: ummahātikum
   19:
-    arabic: خَلۡقًا
+    arabic: خَلۡقٗا
     translation: creation
     transliteration: khalqan
   20:
-    arabic: مِّنۡۢ
+    arabic: مِّنۢ
     translation: after
     transliteration: min
   21:
@@ -94,27 +94,27 @@ word_by_word:
     translation: after
     transliteration: baʿdi
   22:
-    arabic: خَلۡقٍ
+    arabic: خَلۡقٖ
     translation: creation
     transliteration: khalqin
   23:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   24:
-    arabic: ظُلُمٰتٍ
+    arabic: ظُلُمَٰتٖ
     translation: darkness[es]
     transliteration: ẓulumātin
   25:
-    arabic: ثَلٰثٍ​ ؕ
+    arabic: ثَلَٰثٖۚ
     translation: three
     transliteration: thalāthin
   26:
-    arabic: ذٰ لِكُمُ
+    arabic: ذَٰلِكُمُ
     translation: That
     transliteration: dhālikumu
   27:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: (is) Allah
     transliteration: l-lahu
   28:
@@ -126,31 +126,31 @@ word_by_word:
     translation: for Him
     transliteration: lahu
   30:
-    arabic: الۡمُلۡكُ​ ؕ
+    arabic: ٱلۡمُلۡكُۖ
     translation: (is) the dominion
     transliteration: l-mul'ku
   31:
-    arabic: لَاۤ
+    arabic: لَآ
     translation: (There is) no
     transliteration: lā
   32:
-    arabic: اِلٰهَ
+    arabic: إِلَٰهَ
     translation: god
     transliteration: ilāha
   33:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   34:
-    arabic: هُوَ​ ۚ
+    arabic: هُوَۖ
     translation: He
     transliteration: huwa
   35:
-    arabic: فَاَ نّٰى
+    arabic: فَأَنَّىٰ
     translation: Then how
     transliteration: fa-annā
   36:
-    arabic: تُصۡرَفُوۡنَ‏
+    arabic: تُصۡرَفُونَ
     translation: are you turning away
     transliteration: tuṣ'rafūna
 ---

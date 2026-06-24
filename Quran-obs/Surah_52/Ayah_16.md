@@ -1,19 +1,19 @@
 ---
-arabic_ayat: اِصۡلَوۡهَا فَاصۡبِرُوۡۤا اَوۡ لَا تَصۡبِرُوۡا​ۚ سَوَآءٌ عَلَيۡكُمۡ​ؕ
-  اِنَّمَا تُجۡزَوۡنَ مَا كُنۡتُمۡ تَعۡمَلُوۡنَ‏
+arabic_ayat: ٱصۡلَوۡهَا فَٱصۡبِرُوٓاْ أَوۡ لَا تَصۡبِرُواْ سَوَآءٌ عَلَيۡكُمۡۖ إِنَّمَا
+  تُجۡزَوۡنَ مَا كُنتُمۡ تَعۡمَلُونَ
 sentence_translation: Burn in it! It is the same whether you endure ˹it˺ patiently
   or not. You are only rewarded for what you used to do.”
 word_by_word:
   1:
-    arabic: اِصۡلَوۡهَا
+    arabic: ٱصۡلَوۡهَا
     translation: Burn in it
     transliteration: iṣ'lawhā
   2:
-    arabic: فَاصۡبِرُوۡۤا
+    arabic: فَٱصۡبِرُوٓاْ
     translation: then be patient
     transliteration: fa-iṣ'birū
   3:
-    arabic: اَوۡ
+    arabic: أَوۡ
     translation: or
     transliteration: aw
   4:
@@ -21,7 +21,7 @@ word_by_word:
     translation: (do) not
     transliteration: lā
   5:
-    arabic: تَصۡبِرُوۡا​ۚ
+    arabic: تَصۡبِرُواْ
     translation: be patient
     transliteration: taṣbirū
   6:
@@ -29,11 +29,11 @@ word_by_word:
     translation: (it is) same
     transliteration: sawāon
   7:
-    arabic: عَلَيۡكُمۡ​ؕ
+    arabic: عَلَيۡكُمۡۖ
     translation: for you
     transliteration: ʿalaykum
   8:
-    arabic: اِنَّمَا
+    arabic: إِنَّمَا
     translation: Only
     transliteration: innamā
   9:
@@ -45,11 +45,11 @@ word_by_word:
     translation: (for) what
     transliteration: mā
   11:
-    arabic: كُنۡتُمۡ
+    arabic: كُنتُمۡ
     translation: you used to
     transliteration: kuntum
   12:
-    arabic: تَعۡمَلُوۡنَ‏
+    arabic: تَعۡمَلُونَ
     translation: do
     transliteration: taʿmalūna
 ---

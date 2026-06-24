@@ -1,6 +1,6 @@
 ---
-arabic_ayat: مَا قَطَعۡتُمۡ مِّنۡ لِّيۡنَةٍ اَوۡ تَرَكۡتُمُوۡهَا قَآٮِٕمَةً عَلٰٓى
-  اُصُوۡلِهَا فَبِاِذۡنِ اللّٰهِ وَلِيُخۡزِىَ الۡفٰسِقِيۡنَ‏
+arabic_ayat: مَا قَطَعۡتُم مِّن لِّينَةٍ أَوۡ تَرَكۡتُمُوهَا قَآئِمَةً عَلَىٰٓ أُصُولِهَا
+  فَبِإِذۡنِ ٱللَّهِ وَلِيُخۡزِيَ ٱلۡفَٰسِقِينَ
 sentence_translation: Whatever palm trees you ˹believers˺ cut down or left standing
   intact, it was ˹all˺ by Allah’s Will, so that He might disgrace the rebellious.
 word_by_word:
@@ -9,51 +9,51 @@ word_by_word:
     translation: Whatever
     transliteration: mā
   2:
-    arabic: قَطَعۡتُمۡ
+    arabic: قَطَعۡتُم
     translation: you cut down
     transliteration: qaṭaʿtum
   3:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: of
     transliteration: min
   4:
-    arabic: لِّيۡنَةٍ
+    arabic: لِّينَةٍ
     translation: (the) palm-trees
     transliteration: līnatin
   5:
-    arabic: اَوۡ
+    arabic: أَوۡ
     translation: or
     transliteration: aw
   6:
-    arabic: تَرَكۡتُمُوۡهَا
+    arabic: تَرَكۡتُمُوهَا
     translation: you left them
     transliteration: taraktumūhā
   7:
-    arabic: قَآٮِٕمَةً
+    arabic: قَآئِمَةً
     translation: standing
     transliteration: qāimatan
   8:
-    arabic: عَلٰٓى
+    arabic: عَلَىٰٓ
     translation: 'on'
     transliteration: ʿalā
   9:
-    arabic: اُصُوۡلِهَا
+    arabic: أُصُولِهَا
     translation: their roots
     transliteration: uṣūlihā
   10:
-    arabic: فَبِاِذۡنِ
+    arabic: فَبِإِذۡنِ
     translation: it (was) by the permission
     transliteration: fabi-idh'ni
   11:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (of) Allah
     transliteration: l-lahi
   12:
-    arabic: وَلِيُخۡزِىَ
+    arabic: وَلِيُخۡزِيَ
     translation: and that He may disgrace
     transliteration: waliyukh'ziya
   13:
-    arabic: الۡفٰسِقِيۡنَ‏
+    arabic: ٱلۡفَٰسِقِينَ
     translation: the defiantly disobedient
     transliteration: l-fāsiqīna
 ---

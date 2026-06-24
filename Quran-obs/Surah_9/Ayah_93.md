@@ -1,17 +1,17 @@
 ---
-arabic_ayat: اِنَّمَا السَّبِيۡلُ عَلَى الَّذِيۡنَ يَسۡتَاْذِنُوۡنَكَ وَهُمۡ اَغۡنِيَآءُ​ۚ
-  رَضُوۡا بِاَنۡ يَّكُوۡنُوۡا مَعَ الۡخَـوَالِفِۙ وَطَبَعَ اللّٰهُ عَلٰى قُلُوۡبِهِمۡ
-  فَهُمۡ لَا يَعۡلَمُوۡنَ‏
+arabic_ayat: ۞ إِنَّمَا ٱلسَّبِيلُ عَلَى ٱلَّذِينَ يَسۡتَـٔۡذِنُونَكَ وَهُمۡ أَغۡنِيَآءُۚ
+  رَضُواْ بِأَن يَكُونُواْ مَعَ ٱلۡخَوَالِفِ وَطَبَعَ ٱللَّهُ عَلَىٰ قُلُوبِهِمۡ فَهُمۡ
+  لَا يَعۡلَمُونَ
 sentence_translation: Blame is only on those who seek exemption from you although
   they have the means. They preferred to stay behind with the helpless, and Allah
   has sealed their hearts so they do not realize ˹the consequences˺.
 word_by_word:
   1:
-    arabic: ۞ اِنَّمَا
+    arabic: ۞ إِنَّمَا
     translation: Only
     transliteration: innamā
   2:
-    arabic: السَّبِيۡلُ
+    arabic: ٱلسَّبِيلُ
     translation: the way (blame)
     transliteration: l-sabīlu
   3:
@@ -19,11 +19,11 @@ word_by_word:
     translation: (is) on
     transliteration: ʿalā
   4:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   5:
-    arabic: يَسۡتَاْذِنُوۡنَكَ
+    arabic: يَسۡتَـٔۡذِنُونَكَ
     translation: ask your permission
     transliteration: yastadhinūnaka
   6:
@@ -31,19 +31,19 @@ word_by_word:
     translation: while they
     transliteration: wahum
   7:
-    arabic: اَغۡنِيَآءُ​ۚ
+    arabic: أَغۡنِيَآءُۚ
     translation: (are) rich
     transliteration: aghniyāu
   8:
-    arabic: رَضُوۡا
+    arabic: رَضُواْ
     translation: They (are) satisfied
     transliteration: raḍū
   9:
-    arabic: بِاَنۡ
+    arabic: بِأَن
     translation: to
     transliteration: bi-an
   10:
-    arabic: يَّكُوۡنُوۡا
+    arabic: يَكُونُواْ
     translation: be
     transliteration: yakūnū
   11:
@@ -51,7 +51,7 @@ word_by_word:
     translation: with
     transliteration: maʿa
   12:
-    arabic: الۡخَـوَالِفِۙ
+    arabic: ٱلۡخَوَالِفِ
     translation: those who stay behind
     transliteration: l-khawālifi
   13:
@@ -59,15 +59,15 @@ word_by_word:
     translation: and Allah sealed
     transliteration: waṭabaʿa
   14:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: and Allah sealed
     transliteration: l-lahu
   15:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: '[on]'
     transliteration: ʿalā
   16:
-    arabic: قُلُوۡبِهِمۡ
+    arabic: قُلُوبِهِمۡ
     translation: their hearts
     transliteration: qulūbihim
   17:
@@ -79,7 +79,7 @@ word_by_word:
     translation: (do) not
     transliteration: lā
   19:
-    arabic: يَعۡلَمُوۡنَ‏
+    arabic: يَعۡلَمُونَ
     translation: know
     transliteration: yaʿlamūna
 ---

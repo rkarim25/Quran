@@ -1,34 +1,33 @@
 ---
-arabic_ayat: "مُتَّكِـــِٕيۡنَ فِيۡهَا يَدۡعُوۡنَ فِيۡهَا بِفَاكِهَةٍ كَثِيۡرَةٍ وَّشَرَابٍ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: مُتَّكِـِٔينَ فِيهَا يَدۡعُونَ فِيهَا بِفَٰكِهَةٖ كَثِيرَةٖ وَشَرَابٖ
 sentence_translation: There they will recline, calling for abundant fruit and drink.
 word_by_word:
   1:
-    arabic: مُتَّكِـــِٕيۡنَ
+    arabic: مُتَّكِـِٔينَ
     translation: Reclining
     transliteration: muttakiīna
   2:
-    arabic: فِيۡهَا
+    arabic: فِيهَا
     translation: therein
     transliteration: fīhā
   3:
-    arabic: يَدۡعُوۡنَ
+    arabic: يَدۡعُونَ
     translation: they will call
     transliteration: yadʿūna
   4:
-    arabic: فِيۡهَا
+    arabic: فِيهَا
     translation: therein
     transliteration: fīhā
   5:
-    arabic: بِفَاكِهَةٍ
+    arabic: بِفَٰكِهَةٖ
     translation: for fruit
     transliteration: bifākihatin
   6:
-    arabic: كَثِيۡرَةٍ
+    arabic: كَثِيرَةٖ
     translation: many
     transliteration: kathīratin
   7:
-    arabic: "وَّشَرَابٍ‏ \uFEFF\uFEFF"
+    arabic: وَشَرَابٖ
     translation: and drink
     transliteration: washarābin
 ---

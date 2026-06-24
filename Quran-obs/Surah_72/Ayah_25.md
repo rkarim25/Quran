@@ -1,6 +1,6 @@
 ---
-arabic_ayat: قُلۡ اِنۡ اَدۡرِىۡۤ اَقَرِيۡبٌ مَّا تُوۡعَدُوۡنَ اَمۡ يَجۡعَلُ لَهٗ رَبِّىۡۤ
-  اَمَدًا‏
+arabic_ayat: قُلۡ إِنۡ أَدۡرِيٓ أَقَرِيبٞ مَّا تُوعَدُونَ أَمۡ يَجۡعَلُ لَهُۥ رَبِّيٓ
+  أَمَدًا
 sentence_translation: Say, “I do not know if what you are promised is near or my Lord
   has set a distant time for it.
 word_by_word:
@@ -9,15 +9,15 @@ word_by_word:
     translation: Say
     transliteration: qul
   2:
-    arabic: اِنۡ
+    arabic: إِنۡ
     translation: Not
     transliteration: in
   3:
-    arabic: اَدۡرِىۡۤ
+    arabic: أَدۡرِيٓ
     translation: I know
     transliteration: adrī
   4:
-    arabic: اَقَرِيۡبٌ
+    arabic: أَقَرِيبٞ
     translation: whether is near
     transliteration: aqarībun
   5:
@@ -25,11 +25,11 @@ word_by_word:
     translation: what
     transliteration: mā
   6:
-    arabic: تُوۡعَدُوۡنَ
+    arabic: تُوعَدُونَ
     translation: you are promised
     transliteration: tūʿadūna
   7:
-    arabic: اَمۡ
+    arabic: أَمۡ
     translation: or (whether)
     transliteration: am
   8:
@@ -37,15 +37,15 @@ word_by_word:
     translation: will appoint
     transliteration: yajʿalu
   9:
-    arabic: لَهٗ
+    arabic: لَهُۥ
     translation: for it
     transliteration: lahu
   10:
-    arabic: رَبِّىۡۤ
+    arabic: رَبِّيٓ
     translation: my Lord
     transliteration: rabbī
   11:
-    arabic: اَمَدًا‏
+    arabic: أَمَدًا
     translation: a (distant) term
     transliteration: amadan
 ---

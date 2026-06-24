@@ -1,13 +1,13 @@
 ---
-arabic_ayat: وَّحَنَانًـا مِّنۡ لَّدُنَّا وَزَكٰوةً  ​ؕ وَّكَانَ تَقِيًّا ۙ‏
+arabic_ayat: وَحَنَانٗا مِّن لَّدُنَّا وَزَكَوٰةٗۖ وَكَانَ تَقِيّٗا
 sentence_translation: as well as purity and compassion from Us. And he was God-fearing,
 word_by_word:
   1:
-    arabic: وَّحَنَانًـا
+    arabic: وَحَنَانٗا
     translation: And affection
     transliteration: waḥanānan
   2:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: from
     transliteration: min
   3:
@@ -15,15 +15,15 @@ word_by_word:
     translation: Us
     transliteration: ladunnā
   4:
-    arabic: وَزَكٰوةً  ​ؕ
+    arabic: وَزَكَوٰةٗۖ
     translation: and purity
     transliteration: wazakatan
   5:
-    arabic: وَّكَانَ
+    arabic: وَكَانَ
     translation: and he was
     transliteration: wakāna
   6:
-    arabic: تَقِيًّا ۙ‏
+    arabic: تَقِيّٗا
     translation: righteous
     transliteration: taqiyyan
 ---

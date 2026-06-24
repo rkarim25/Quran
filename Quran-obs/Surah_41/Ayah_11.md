@@ -1,6 +1,6 @@
 ---
-arabic_ayat: ثُمَّ اسۡتَـوٰۤى اِلَى السَّمَآءِ وَهِىَ دُخَانٌ فَقَالَ لَهَا وَلِلۡاَرۡضِ
-  ائۡتِيَا طَوۡعًا اَوۡ كَرۡهًا ؕ قَالَتَاۤ اَتَيۡنَا طَآٮِٕعِيۡنَ‏
+arabic_ayat: ثُمَّ ٱسۡتَوَىٰٓ إِلَى ٱلسَّمَآءِ وَهِيَ دُخَانٞ فَقَالَ لَهَا وَلِلۡأَرۡضِ
+  ٱئۡتِيَا طَوۡعًا أَوۡ كَرۡهٗا قَالَتَآ أَتَيۡنَا طَآئِعِينَ
 sentence_translation: Then He turned towards the heaven when it was ˹still like˺ smoke,
   saying to it and to the earth, ‘Submit, willingly or unwillingly.’ They both responded,
   ‘We submit willingly.’
@@ -10,23 +10,23 @@ word_by_word:
     translation: Then
     transliteration: thumma
   2:
-    arabic: اسۡتَـوٰۤى
+    arabic: ٱسۡتَوَىٰٓ
     translation: He directed (Himself)
     transliteration: is'tawā
   3:
-    arabic: اِلَى
+    arabic: إِلَى
     translation: towards
     transliteration: ilā
   4:
-    arabic: السَّمَآءِ
+    arabic: ٱلسَّمَآءِ
     translation: the heaven
     transliteration: l-samāi
   5:
-    arabic: وَهِىَ
+    arabic: وَهِيَ
     translation: while it (was)
     transliteration: wahiya
   6:
-    arabic: دُخَانٌ
+    arabic: دُخَانٞ
     translation: smoke
     transliteration: dukhānun
   7:
@@ -38,11 +38,11 @@ word_by_word:
     translation: to it
     transliteration: lahā
   9:
-    arabic: وَلِلۡاَرۡضِ
+    arabic: وَلِلۡأَرۡضِ
     translation: and to the earth
     transliteration: walil'arḍi
   10:
-    arabic: ائۡتِيَا
+    arabic: ٱئۡتِيَا
     translation: Come both of you
     transliteration: i'tiyā
   11:
@@ -50,23 +50,23 @@ word_by_word:
     translation: willingly
     transliteration: ṭawʿan
   12:
-    arabic: اَوۡ
+    arabic: أَوۡ
     translation: or
     transliteration: aw
   13:
-    arabic: كَرۡهًا ؕ
+    arabic: كَرۡهٗا
     translation: unwillingly
     transliteration: karhan
   14:
-    arabic: قَالَتَاۤ
+    arabic: قَالَتَآ
     translation: They both said
     transliteration: qālatā
   15:
-    arabic: اَتَيۡنَا
+    arabic: أَتَيۡنَا
     translation: We come
     transliteration: ataynā
   16:
-    arabic: طَآٮِٕعِيۡنَ‏
+    arabic: طَآئِعِينَ
     translation: willingly
     transliteration: ṭāiʿīna
 ---

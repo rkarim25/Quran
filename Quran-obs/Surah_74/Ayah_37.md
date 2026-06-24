@@ -1,9 +1,9 @@
 ---
-arabic_ayat: لِمَنۡ شَآءَ مِنۡكُمۡ اَنۡ يَّتَقَدَّمَ اَوۡ يَتَاَخَّرَؕ‏
+arabic_ayat: لِمَن شَآءَ مِنكُمۡ أَن يَتَقَدَّمَ أَوۡ يَتَأَخَّرَ
 sentence_translation: to whichever of you chooses to take the lead or lag behind.
 word_by_word:
   1:
-    arabic: لِمَنۡ
+    arabic: لِمَن
     translation: To whoever
     transliteration: liman
   2:
@@ -11,23 +11,23 @@ word_by_word:
     translation: wills
     transliteration: shāa
   3:
-    arabic: مِنۡكُمۡ
+    arabic: مِنكُمۡ
     translation: among you
     transliteration: minkum
   4:
-    arabic: اَنۡ
+    arabic: أَن
     translation: to
     transliteration: an
   5:
-    arabic: يَّتَقَدَّمَ
+    arabic: يَتَقَدَّمَ
     translation: proceed
     transliteration: yataqaddama
   6:
-    arabic: اَوۡ
+    arabic: أَوۡ
     translation: or
     transliteration: aw
   7:
-    arabic: يَتَاَخَّرَؕ‏
+    arabic: يَتَأَخَّرَ
     translation: stay behind
     transliteration: yata-akhara
 ---

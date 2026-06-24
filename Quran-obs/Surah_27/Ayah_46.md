@@ -1,6 +1,6 @@
 ---
-arabic_ayat: قَالَ يٰقَوۡمِ لِمَ تَسۡتَعۡجِلُوۡنَ بِالسَّيِّئَةِ قَبۡلَ الۡحَسَنَةِ​​ۚ
-  لَوۡلَا تَسۡتَغۡفِرُوۡنَ اللّٰهَ لَعَلَّكُمۡ تُرۡحَمُوۡنَ‏
+arabic_ayat: قَالَ يَٰقَوۡمِ لِمَ تَسۡتَعۡجِلُونَ بِٱلسَّيِّئَةِ قَبۡلَ ٱلۡحَسَنَةِۖ
+  لَوۡلَا تَسۡتَغۡفِرُونَ ٱللَّهَ لَعَلَّكُمۡ تُرۡحَمُونَ
 sentence_translation: He urged ˹the disbelieving group˺, “O my people! Why do you
   ˹seek to˺ hasten the torment rather than grace? If only you sought Allah’s forgiveness
   so you may be shown mercy!”
@@ -10,7 +10,7 @@ word_by_word:
     translation: He said
     transliteration: qāla
   2:
-    arabic: يٰقَوۡمِ
+    arabic: يَٰقَوۡمِ
     translation: O my people
     transliteration: yāqawmi
   3:
@@ -18,11 +18,11 @@ word_by_word:
     translation: Why
     transliteration: lima
   4:
-    arabic: تَسۡتَعۡجِلُوۡنَ
+    arabic: تَسۡتَعۡجِلُونَ
     translation: (do) you seek to hasten
     transliteration: tastaʿjilūna
   5:
-    arabic: بِالسَّيِّئَةِ
+    arabic: بِٱلسَّيِّئَةِ
     translation: the evil
     transliteration: bil-sayi-ati
   6:
@@ -30,7 +30,7 @@ word_by_word:
     translation: before
     transliteration: qabla
   7:
-    arabic: الۡحَسَنَةِ​​ۚ
+    arabic: ٱلۡحَسَنَةِۖ
     translation: the good
     transliteration: l-ḥasanati
   8:
@@ -38,11 +38,11 @@ word_by_word:
     translation: Why not
     transliteration: lawlā
   9:
-    arabic: تَسۡتَغۡفِرُوۡنَ
+    arabic: تَسۡتَغۡفِرُونَ
     translation: you ask forgiveness
     transliteration: tastaghfirūna
   10:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: (of) Allah
     transliteration: l-laha
   11:
@@ -50,7 +50,7 @@ word_by_word:
     translation: so that you may
     transliteration: laʿallakum
   12:
-    arabic: تُرۡحَمُوۡنَ‏
+    arabic: تُرۡحَمُونَ
     translation: receive mercy
     transliteration: tur'ḥamūna
 ---

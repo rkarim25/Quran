@@ -1,5 +1,5 @@
 ---
-arabic_ayat: بَلۡ عَجِبۡتَ وَيَسۡخَرُوۡنَ‏
+arabic_ayat: بَلۡ عَجِبۡتَ وَيَسۡخَرُونَ
 sentence_translation: In fact, you are astonished ˹by their denial˺, while they ridicule
   ˹you˺.
 word_by_word:
@@ -12,7 +12,7 @@ word_by_word:
     translation: you wonder
     transliteration: ʿajib'ta
   3:
-    arabic: وَيَسۡخَرُوۡنَ‏
+    arabic: وَيَسۡخَرُونَ
     translation: while they mock
     transliteration: wayaskharūna
 ---

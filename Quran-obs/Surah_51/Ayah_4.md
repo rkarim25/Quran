@@ -1,13 +1,13 @@
 ---
-arabic_ayat: فَالۡمُقَسِّمٰتِ اَمۡرًا ۙ‏
+arabic_ayat: فَٱلۡمُقَسِّمَٰتِ أَمۡرًا
 sentence_translation: and ˹the angels˺ administering affairs by ˹Allah’s˺ command!
 word_by_word:
   1:
-    arabic: فَالۡمُقَسِّمٰتِ
+    arabic: فَٱلۡمُقَسِّمَٰتِ
     translation: And those distributing
     transliteration: fal-muqasimāti
   2:
-    arabic: اَمۡرًا ۙ‏
+    arabic: أَمۡرًا
     translation: Command
     transliteration: amran
 ---

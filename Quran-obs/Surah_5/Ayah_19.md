@@ -1,8 +1,7 @@
 ---
-arabic_ayat: "يٰۤـاَهۡلَ الۡـكِتٰبِ قَدۡ جَآءَكُمۡ رَسُوۡلُـنَا يُبَيِّنُ لَـكُمۡ\
-  \ عَلٰى فَتۡرَةٍ مِّنَ الرُّسُلِ اَنۡ تَقُوۡلُوۡا مَا جَآءَنَا مِنۡۢ بَشِيۡرٍ وَّلَا\
-  \ نَذِيۡرٍ​ فَقَدۡ جَآءَكُمۡ بَشِيۡرٌ وَّنَذِيۡرٌ​ؕ وَاللّٰهُ عَلٰى كُلِّ شَىۡءٍ\
-  \ قَدِيۡرٌ‏ \uFEFF\uFEFF"
+arabic_ayat: يَٰٓأَهۡلَ ٱلۡكِتَٰبِ قَدۡ جَآءَكُمۡ رَسُولُنَا يُبَيِّنُ لَكُمۡ عَلَىٰ
+  فَتۡرَةٖ مِّنَ ٱلرُّسُلِ أَن تَقُولُواْ مَا جَآءَنَا مِنۢ بَشِيرٖ وَلَا نَذِيرٖۖ
+  فَقَدۡ جَآءَكُم بَشِيرٞ وَنَذِيرٞۗ وَٱللَّهُ عَلَىٰ كُلِّ شَيۡءٖ قَدِيرٞ
 sentence_translation: O People of the Book! Our Messenger has indeed come to you,
   making things clear to you after an interval between the messengers so you do not
   say, “There has never come to us a deliverer of good news or a warner.” Now there
@@ -10,11 +9,11 @@ sentence_translation: O People of the Book! Our Messenger has indeed come to you
   of everything.
 word_by_word:
   1:
-    arabic: يٰۤـاَهۡلَ
+    arabic: يَٰٓأَهۡلَ
     translation: O People
     transliteration: yāahla
   2:
-    arabic: الۡـكِتٰبِ
+    arabic: ٱلۡكِتَٰبِ
     translation: (of) the Book
     transliteration: l-kitābi
   3:
@@ -26,7 +25,7 @@ word_by_word:
     translation: has come to you
     transliteration: jāakum
   5:
-    arabic: رَسُوۡلُـنَا
+    arabic: رَسُولُنَا
     translation: Our Messenger
     transliteration: rasūlunā
   6:
@@ -34,15 +33,15 @@ word_by_word:
     translation: he makes clear
     transliteration: yubayyinu
   7:
-    arabic: لَـكُمۡ
+    arabic: لَكُمۡ
     translation: to you
     transliteration: lakum
   8:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: '[on]'
     transliteration: ʿalā
   9:
-    arabic: فَتۡرَةٍ
+    arabic: فَتۡرَةٖ
     translation: (after) an interval (of cessation)
     transliteration: fatratin
   10:
@@ -50,15 +49,15 @@ word_by_word:
     translation: of
     transliteration: mina
   11:
-    arabic: الرُّسُلِ
+    arabic: ٱلرُّسُلِ
     translation: the Messengers
     transliteration: l-rusuli
   12:
-    arabic: اَنۡ
+    arabic: أَن
     translation: lest
     transliteration: an
   13:
-    arabic: تَقُوۡلُوۡا
+    arabic: تَقُولُواْ
     translation: you say
     transliteration: taqūlū
   14:
@@ -70,19 +69,19 @@ word_by_word:
     translation: (has) come to us
     transliteration: jāanā
   16:
-    arabic: مِنۡۢ
+    arabic: مِنۢ
     translation: any
     transliteration: min
   17:
-    arabic: بَشِيۡرٍ
+    arabic: بَشِيرٖ
     translation: bearer of glad tidings
     transliteration: bashīrin
   18:
-    arabic: وَّلَا
+    arabic: وَلَا
     translation: and not
     transliteration: walā
   19:
-    arabic: نَذِيۡرٍ​
+    arabic: نَذِيرٖۖ
     translation: a warner
     transliteration: nadhīrin
   20:
@@ -90,23 +89,23 @@ word_by_word:
     translation: But surely
     transliteration: faqad
   21:
-    arabic: جَآءَكُمۡ
+    arabic: جَآءَكُم
     translation: has come to you
     transliteration: jāakum
   22:
-    arabic: بَشِيۡرٌ
+    arabic: بَشِيرٞ
     translation: a bearer of glad tidings
     transliteration: bashīrun
   23:
-    arabic: وَّنَذِيۡرٌ​ؕ
+    arabic: وَنَذِيرٞۗ
     translation: and a warner
     transliteration: wanadhīrun
   24:
-    arabic: وَاللّٰهُ
+    arabic: وَٱللَّهُ
     translation: And Allah
     transliteration: wal-lahu
   25:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: (is) on
     transliteration: ʿalā
   26:
@@ -114,11 +113,11 @@ word_by_word:
     translation: every
     transliteration: kulli
   27:
-    arabic: شَىۡءٍ
+    arabic: شَيۡءٖ
     translation: thing
     transliteration: shayin
   28:
-    arabic: "قَدِيۡرٌ‏ \uFEFF\uFEFF"
+    arabic: قَدِيرٞ
     translation: All-Powerful
     transliteration: qadīrun
 ---

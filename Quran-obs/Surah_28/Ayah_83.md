@@ -1,6 +1,6 @@
 ---
-arabic_ayat: تِلۡكَ الدَّارُ الۡاٰخِرَةُ نَجۡعَلُهَا لِلَّذِيۡنَ لَا يُرِيۡدُوۡنَ
-  عُلُوًّا فِى الۡاَرۡضِ وَلَا فَسَادًا​ ؕ وَالۡعَاقِبَةُ لِلۡمُتَّقِيۡنَ‏
+arabic_ayat: تِلۡكَ ٱلدَّارُ ٱلۡأٓخِرَةُ نَجۡعَلُهَا لِلَّذِينَ لَا يُرِيدُونَ عُلُوّٗا
+  فِي ٱلۡأَرۡضِ وَلَا فَسَادٗاۚ وَٱلۡعَٰقِبَةُ لِلۡمُتَّقِينَ
 sentence_translation: That ˹eternal˺ Home in the Hereafter We reserve ˹only˺ for those
   who seek neither tyranny nor corruption on the earth. The ultimate outcome belongs
   ˹only˺ to the righteous.
@@ -10,11 +10,11 @@ word_by_word:
     translation: That
     transliteration: til'ka
   2:
-    arabic: الدَّارُ
+    arabic: ٱلدَّارُ
     translation: the Home
     transliteration: l-dāru
   3:
-    arabic: الۡاٰخِرَةُ
+    arabic: ٱلۡأٓخِرَةُ
     translation: (of) the Hereafter
     transliteration: l-ākhiratu
   4:
@@ -22,7 +22,7 @@ word_by_word:
     translation: We assign it
     transliteration: najʿaluhā
   5:
-    arabic: لِلَّذِيۡنَ
+    arabic: لِلَّذِينَ
     translation: to those who
     transliteration: lilladhīna
   6:
@@ -30,19 +30,19 @@ word_by_word:
     translation: (do) not
     transliteration: lā
   7:
-    arabic: يُرِيۡدُوۡنَ
+    arabic: يُرِيدُونَ
     translation: desire
     transliteration: yurīdūna
   8:
-    arabic: عُلُوًّا
+    arabic: عُلُوّٗا
     translation: exaltedness
     transliteration: ʿuluwwan
   9:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   10:
-    arabic: الۡاَرۡضِ
+    arabic: ٱلۡأَرۡضِ
     translation: the earth
     transliteration: l-arḍi
   11:
@@ -50,15 +50,15 @@ word_by_word:
     translation: and not
     transliteration: walā
   12:
-    arabic: فَسَادًا​ ؕ
+    arabic: فَسَادٗاۚ
     translation: corruption
     transliteration: fasādan
   13:
-    arabic: وَالۡعَاقِبَةُ
+    arabic: وَٱلۡعَٰقِبَةُ
     translation: And the good end
     transliteration: wal-ʿāqibatu
   14:
-    arabic: لِلۡمُتَّقِيۡنَ‏
+    arabic: لِلۡمُتَّقِينَ
     translation: (is) for the righteous
     transliteration: lil'muttaqīna
 ---

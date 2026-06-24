@@ -1,16 +1,16 @@
 ---
-arabic_ayat: وَاِذَا يُتۡلٰى عَلَيۡهِمۡ قَالُوۡۤا اٰمَنَّا بِهٖۤ اِنَّهُ الۡحَـقُّ
-  مِنۡ رَّبِّنَاۤ اِنَّا كُنَّا مِنۡ قَبۡلِهٖ مُسۡلِمِيۡنَ‏
+arabic_ayat: وَإِذَا يُتۡلَىٰ عَلَيۡهِمۡ قَالُوٓاْ ءَامَنَّا بِهِۦٓ إِنَّهُ ٱلۡحَقُّ
+  مِن رَّبِّنَآ إِنَّا كُنَّا مِن قَبۡلِهِۦ مُسۡلِمِينَ
 sentence_translation: When it is recited to them, they declare, “We believe in it.
   This is definitely the truth from our Lord. We had already submitted ˹even˺ before
   this.”
 word_by_word:
   1:
-    arabic: وَاِذَا
+    arabic: وَإِذَا
     translation: And when
     transliteration: wa-idhā
   2:
-    arabic: يُتۡلٰى
+    arabic: يُتۡلَىٰ
     translation: it is recited
     transliteration: yut'lā
   3:
@@ -18,35 +18,35 @@ word_by_word:
     translation: to them
     transliteration: ʿalayhim
   4:
-    arabic: قَالُوۡۤا
+    arabic: قَالُوٓاْ ءَ
     translation: they say
     transliteration: qālū
   5:
-    arabic: اٰمَنَّا
+    arabic: امَنَّا
     translation: We believe
     transliteration: āmannā
   6:
-    arabic: بِهٖۤ
+    arabic: بِهِۦٓ
     translation: in it
     transliteration: bihi
   7:
-    arabic: اِنَّهُ
+    arabic: إِنَّهُ
     translation: Indeed, it
     transliteration: innahu
   8:
-    arabic: الۡحَـقُّ
+    arabic: ٱلۡحَقُّ
     translation: (is) the truth
     transliteration: l-ḥaqu
   9:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   10:
-    arabic: رَّبِّنَاۤ
+    arabic: رَّبِّنَآ
     translation: our Lord
     transliteration: rabbinā
   11:
-    arabic: اِنَّا
+    arabic: إِنَّا
     translation: Indeed, we
     transliteration: innā
   12:
@@ -54,15 +54,15 @@ word_by_word:
     translation: '[we] were'
     transliteration: kunnā
   13:
-    arabic: مِنۡ
+    arabic: مِن
     translation: before it
     transliteration: min
   14:
-    arabic: قَبۡلِهٖ
+    arabic: قَبۡلِهِۦ
     translation: before it
     transliteration: qablihi
   15:
-    arabic: مُسۡلِمِيۡنَ‏
+    arabic: مُسۡلِمِينَ
     translation: Muslims
     transliteration: mus'limīna
 ---

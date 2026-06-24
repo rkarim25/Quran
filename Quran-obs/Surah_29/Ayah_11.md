@@ -1,31 +1,30 @@
 ---
-arabic_ayat: "وَلَيَـعۡلَمَنَّ اللّٰهُ الَّذِيۡنَ اٰمَنُوۡا وَلَيَـعۡلَمَنَّ الۡمُنٰفِقِيۡنَ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: وَلَيَعۡلَمَنَّ ٱللَّهُ ٱلَّذِينَ ءَامَنُواْ وَلَيَعۡلَمَنَّ ٱلۡمُنَٰفِقِينَ
 sentence_translation: Allah will certainly distinguish between those who have ˹sure˺
   faith and the hypocrites.
 word_by_word:
   1:
-    arabic: وَلَيَـعۡلَمَنَّ
+    arabic: وَلَيَعۡلَمَنَّ
     translation: And Allah will surely make evident
     transliteration: walayaʿlamanna
   2:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: And Allah will surely make evident
     transliteration: l-lahu
   3:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ ءَ
     translation: those who
     transliteration: alladhīna
   4:
-    arabic: اٰمَنُوۡا
+    arabic: امَنُواْ
     translation: believe
     transliteration: āmanū
   5:
-    arabic: وَلَيَـعۡلَمَنَّ
+    arabic: وَلَيَعۡلَمَنَّ
     translation: And He will surely make evident
     transliteration: walayaʿlamanna
   6:
-    arabic: "الۡمُنٰفِقِيۡنَ‏ \uFEFF\uFEFF"
+    arabic: ٱلۡمُنَٰفِقِينَ
     translation: the hypocrites
     transliteration: l-munāfiqīna
 ---

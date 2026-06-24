@@ -1,69 +1,69 @@
 ---
-arabic_ayat: وَلَوۡلَاۤ اَنۡ يَّكُوۡنَ النَّاسُ اُمَّةً وَّاحِدَةً لَّجَـعَلۡنَا لِمَنۡ
-  يَّكۡفُرُ بِالرَّحۡمٰنِ لِبُيُوۡتِهِمۡ سُقُفًا مِّنۡ فِضَّةٍ وَّمَعَارِجَ عَلَيۡهَا
-  يَظۡهَرُوۡنَۙ‏
+arabic_ayat: وَلَوۡلَآ أَن يَكُونَ ٱلنَّاسُ أُمَّةٗ وَٰحِدَةٗ لَّجَعَلۡنَا لِمَن
+  يَكۡفُرُ بِٱلرَّحۡمَٰنِ لِبُيُوتِهِمۡ سُقُفٗا مِّن فِضَّةٖ وَمَعَارِجَ عَلَيۡهَا
+  يَظۡهَرُونَ
 sentence_translation: Were it not that people might ˹be tempted to˺ become one community
   ˹of disbelievers˺, We would have supplied the homes of ˹only˺ those who disbelieve
   in the Most Compassionate with silver roofs and ˹silver˺ stairways to ascend,
 word_by_word:
   1:
-    arabic: وَلَوۡلَاۤ
+    arabic: وَلَوۡلَآ
     translation: And if not
     transliteration: walawlā
   2:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that
     transliteration: an
   3:
-    arabic: يَّكُوۡنَ
+    arabic: يَكُونَ
     translation: (would) become
     transliteration: yakūna
   4:
-    arabic: النَّاسُ
+    arabic: ٱلنَّاسُ
     translation: '[the] mankind'
     transliteration: l-nāsu
   5:
-    arabic: اُمَّةً
+    arabic: أُمَّةٗ
     translation: a community
     transliteration: ummatan
   6:
-    arabic: وَّاحِدَةً
+    arabic: وَٰحِدَةٗ
     translation: one
     transliteration: wāḥidatan
   7:
-    arabic: لَّجَـعَلۡنَا
+    arabic: لَّجَعَلۡنَا
     translation: We (would have) made
     transliteration: lajaʿalnā
   8:
-    arabic: لِمَنۡ
+    arabic: لِمَن
     translation: for (one) who
     transliteration: liman
   9:
-    arabic: يَّكۡفُرُ
+    arabic: يَكۡفُرُ
     translation: disbelieves
     transliteration: yakfuru
   10:
-    arabic: بِالرَّحۡمٰنِ
+    arabic: بِٱلرَّحۡمَٰنِ
     translation: in the Most Gracious
     transliteration: bil-raḥmāni
   11:
-    arabic: لِبُيُوۡتِهِمۡ
+    arabic: لِبُيُوتِهِمۡ
     translation: for their houses
     transliteration: libuyūtihim
   12:
-    arabic: سُقُفًا
+    arabic: سُقُفٗا
     translation: roofs
     transliteration: suqufan
   13:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: of
     transliteration: min
   14:
-    arabic: فِضَّةٍ
+    arabic: فِضَّةٖ
     translation: silver
     transliteration: fiḍḍatin
   15:
-    arabic: وَّمَعَارِجَ
+    arabic: وَمَعَارِجَ
     translation: and stairways
     transliteration: wamaʿārija
   16:
@@ -71,7 +71,7 @@ word_by_word:
     translation: upon which
     transliteration: ʿalayhā
   17:
-    arabic: يَظۡهَرُوۡنَۙ‏
+    arabic: يَظۡهَرُونَ
     translation: they mount
     transliteration: yaẓharūna
 ---

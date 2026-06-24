@@ -1,26 +1,26 @@
 ---
-arabic_ayat: يَقُوۡلُوۡنَ ءَاِنَّا لَمَرۡدُوۡدُوۡنَ فِى الۡحَـافِرَةِ ؕ‏
+arabic_ayat: يَقُولُونَ أَءِنَّا لَمَرۡدُودُونَ فِي ٱلۡحَافِرَةِ
 sentence_translation: ˹But now˺ they ask ˹mockingly˺, “Will we really be restored
   to our former state,
 word_by_word:
   1:
-    arabic: يَقُوۡلُوۡنَ
+    arabic: يَقُولُونَ أَ
     translation: They say
     transliteration: yaqūlūna
   2:
-    arabic: ءَاِنَّا
+    arabic: ءِنَّا
     translation: Will we
     transliteration: a-innā
   3:
-    arabic: لَمَرۡدُوۡدُوۡنَ
+    arabic: لَمَرۡدُودُونَ
     translation: indeed be returned
     transliteration: lamardūdūna
   4:
-    arabic: فِى
+    arabic: فِي
     translation: to
     transliteration: fī
   5:
-    arabic: الۡحَـافِرَةِ ؕ‏
+    arabic: ٱلۡحَافِرَةِ
     translation: the former state
     transliteration: l-ḥāfirati
 ---

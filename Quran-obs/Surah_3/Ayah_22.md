@@ -1,15 +1,15 @@
 ---
-arabic_ayat: اُولٰٓٮِٕكَ الَّذِيۡنَ حَبِطَتۡ اَعۡمَالُهُمۡ فِى الدُّنۡيَا وَالۡاٰخِرَةِ
-  وَمَا لَهُمۡ مِّنۡ نّٰصِرِيۡنَ‏
+arabic_ayat: أُوْلَٰٓئِكَ ٱلَّذِينَ حَبِطَتۡ أَعۡمَٰلُهُمۡ فِي ٱلدُّنۡيَا وَٱلۡأٓخِرَةِ
+  وَمَا لَهُم مِّن نَّٰصِرِينَ
 sentence_translation: They are the ones whose deeds are wasted in this world and the
   Hereafter. And they will have no helpers.
 word_by_word:
   1:
-    arabic: اُولٰٓٮِٕكَ
+    arabic: أُوْلَٰٓئِكَ
     translation: Those
     transliteration: ulāika
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: '(are) the ones who '
     transliteration: alladhīna
   3:
@@ -17,19 +17,19 @@ word_by_word:
     translation: became worthless
     transliteration: ḥabiṭat
   4:
-    arabic: اَعۡمَالُهُمۡ
+    arabic: أَعۡمَٰلُهُمۡ
     translation: their deeds
     transliteration: aʿmāluhum
   5:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   6:
-    arabic: الدُّنۡيَا
+    arabic: ٱلدُّنۡيَا
     translation: the world
     transliteration: l-dun'yā
   7:
-    arabic: وَالۡاٰخِرَةِ
+    arabic: وَٱلۡأٓخِرَةِ
     translation: and (in) the Hereafter
     transliteration: wal-ākhirati
   8:
@@ -37,15 +37,15 @@ word_by_word:
     translation: And not
     transliteration: wamā
   9:
-    arabic: لَهُمۡ
+    arabic: لَهُم
     translation: (will be) for them
     transliteration: lahum
   10:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: any
     transliteration: min
   11:
-    arabic: نّٰصِرِيۡنَ‏
+    arabic: نَّٰصِرِينَ
     translation: helpers
     transliteration: nāṣirīna
 ---

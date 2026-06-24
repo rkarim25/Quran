@@ -1,7 +1,7 @@
 ---
-arabic_ayat: يَوۡمَ تَجِدُ كُلُّ نَفۡسٍ مَّا عَمِلَتۡ مِنۡ خَيۡرٍ مُّحۡضَرًا ۖۚ ۛ وَّمَا
-  عَمِلَتۡ مِنۡ سُوۡٓءٍ ۚۛ  تَوَدُّ لَوۡ اَنَّ بَيۡنَهَا وَبَيۡنَهٗۤ اَمَدًاۢ بَعِيۡدًا ​ؕ
-  وَيُحَذِّرُكُمُ اللّٰهُ نَفۡسَهٗ​ؕ وَاللّٰهُ رَءُوۡفٌۢ بِالۡعِبَادِ ‏
+arabic_ayat: يَوۡمَ تَجِدُ كُلُّ نَفۡسٖ مَّا عَمِلَتۡ مِنۡ خَيۡرٖ مُّحۡضَرٗا وَمَا
+  عَمِلَتۡ مِن سُوٓءٖ تَوَدُّ لَوۡ أَنَّ بَيۡنَهَا وَبَيۡنَهُۥٓ أَمَدَۢا بَعِيدٗاۗ
+  وَيُحَذِّرُكُمُ ٱللَّهُ نَفۡسَهُۥۗ وَٱللَّهُ رَءُوفُۢ بِٱلۡعِبَادِ
 sentence_translation: ˹Watch for˺ the Day when every soul will be presented with whatever
   good it has done. And it will wish that its misdeeds were far off. And Allah warns
   you about Himself. And Allah is Ever Gracious to ˹His˺ servants.
@@ -19,7 +19,7 @@ word_by_word:
     translation: every
     transliteration: kullu
   4:
-    arabic: نَفۡسٍ
+    arabic: نَفۡسٖ
     translation: soul
     transliteration: nafsin
   5:
@@ -35,15 +35,15 @@ word_by_word:
     translation: of
     transliteration: min
   8:
-    arabic: خَيۡرٍ
+    arabic: خَيۡرٖ
     translation: 'good '
     transliteration: khayrin
   9:
-    arabic: مُّحۡضَرًا ۖۚ ۛ 
+    arabic: مُّحۡضَرٗا
     translation: presented
     transliteration: muḥ'ḍaran
   10:
-    arabic: وَّمَا
+    arabic: وَمَا
     translation: and what
     transliteration: wamā
   11:
@@ -51,11 +51,11 @@ word_by_word:
     translation: it did
     transliteration: ʿamilat
   12:
-    arabic: مِنۡ
+    arabic: مِن
     translation: of
     transliteration: min
   13:
-    arabic: سُوۡٓءٍ ۚۛ 
+    arabic: سُوٓءٖ
     translation: evil
     transliteration: sūin
   14:
@@ -67,7 +67,7 @@ word_by_word:
     translation: '[if]'
     transliteration: law
   16:
-    arabic: اَنَّ
+    arabic: أَنَّ
     translation: that
     transliteration: anna
   17:
@@ -75,15 +75,15 @@ word_by_word:
     translation: between itself
     transliteration: baynahā
   18:
-    arabic: وَبَيۡنَهٗۤ
+    arabic: وَبَيۡنَهُۥٓ
     translation: and between it (evil)
     transliteration: wabaynahu
   19:
-    arabic: اَمَدًاۢ
+    arabic: أَمَدَۢا
     translation: (was) a distance
     transliteration: amadan
   20:
-    arabic: بَعِيۡدًا ​ؕ
+    arabic: بَعِيدٗاۗ
     translation: great
     transliteration: baʿīdan
   21:
@@ -91,23 +91,23 @@ word_by_word:
     translation: And warns you
     transliteration: wayuḥadhirukumu
   22:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   23:
-    arabic: نَفۡسَهٗ​ؕ
+    arabic: نَفۡسَهُۥۗ
     translation: (against) Himself
     transliteration: nafsahu
   24:
-    arabic: وَاللّٰهُ
+    arabic: وَٱللَّهُ
     translation: and Allah
     transliteration: wal-lahu
   25:
-    arabic: رَءُوۡفٌۢ
+    arabic: رَءُوفُۢ
     translation: (is) Most Kind
     transliteration: raūfun
   26:
-    arabic: بِالۡعِبَادِ ‏
+    arabic: بِٱلۡعِبَادِ
     translation: to (His) [the] slaves
     transliteration: bil-ʿibādi
 ---

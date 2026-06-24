@@ -1,16 +1,16 @@
 ---
-arabic_ayat: رَفِيۡعُ الدَّرَجٰتِ ذُو الۡعَرۡشِ​ ۚ يُلۡقِى الرُّوۡحَ مِنۡ اَمۡرِهٖ
-  عَلٰى مَنۡ يَّشَآءُ مِنۡ عِبَادِهٖ لِيُنۡذِرَ يَوۡمَ التَّلَاقِ ۙ‏
+arabic_ayat: رَفِيعُ ٱلدَّرَجَٰتِ ذُو ٱلۡعَرۡشِ يُلۡقِي ٱلرُّوحَ مِنۡ أَمۡرِهِۦ عَلَىٰ
+  مَن يَشَآءُ مِنۡ عِبَادِهِۦ لِيُنذِرَ يَوۡمَ ٱلتَّلَاقِ
 sentence_translation: ˹He is˺ Highly Exalted in rank, Lord of the Throne. He sends
   down the revelation by His command to whoever He wills of His servants to warn ˹all˺
   of the Day of Meeting—
 word_by_word:
   1:
-    arabic: رَفِيۡعُ
+    arabic: رَفِيعُ
     translation: Possessor of the Highest Ranks
     transliteration: rafīʿu
   2:
-    arabic: الدَّرَجٰتِ
+    arabic: ٱلدَّرَجَٰتِ
     translation: Possessor of the Highest Ranks
     transliteration: l-darajāti
   3:
@@ -18,15 +18,15 @@ word_by_word:
     translation: Owner (of) the Throne
     transliteration: dhū
   4:
-    arabic: الۡعَرۡشِ​ ۚ
+    arabic: ٱلۡعَرۡشِ
     translation: Owner (of) the Throne
     transliteration: l-ʿarshi
   5:
-    arabic: يُلۡقِى
+    arabic: يُلۡقِي
     translation: He places
     transliteration: yul'qī
   6:
-    arabic: الرُّوۡحَ
+    arabic: ٱلرُّوحَ
     translation: the inspiration
     transliteration: l-rūḥa
   7:
@@ -34,19 +34,19 @@ word_by_word:
     translation: of
     transliteration: min
   8:
-    arabic: اَمۡرِهٖ
+    arabic: أَمۡرِهِۦ
     translation: His Command
     transliteration: amrihi
   9:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: upon
     transliteration: ʿalā
   10:
-    arabic: مَنۡ
+    arabic: مَن
     translation: whom
     transliteration: man
   11:
-    arabic: يَّشَآءُ
+    arabic: يَشَآءُ
     translation: He wills
     transliteration: yashāu
   12:
@@ -54,11 +54,11 @@ word_by_word:
     translation: of
     transliteration: min
   13:
-    arabic: عِبَادِهٖ
+    arabic: عِبَادِهِۦ
     translation: His slaves
     transliteration: ʿibādihi
   14:
-    arabic: لِيُنۡذِرَ
+    arabic: لِيُنذِرَ
     translation: to warn
     transliteration: liyundhira
   15:
@@ -66,7 +66,7 @@ word_by_word:
     translation: (of the) Day
     transliteration: yawma
   16:
-    arabic: التَّلَاقِ ۙ‏
+    arabic: ٱلتَّلَاقِ
     translation: (of) the Meeting
     transliteration: l-talāqi
 ---

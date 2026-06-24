@@ -1,6 +1,6 @@
 ---
-arabic_ayat: وَكَانَ لَهٗ ثَمَرٌ​ ۚ فَقَالَ لِصَاحِبِهٖ وَهُوَ يُحَاوِرُهٗۤ اَنَا
-  اَكۡثَرُ مِنۡكَ مَالًا وَّاَعَزُّ نَفَرًا‏
+arabic_ayat: وَكَانَ لَهُۥ ثَمَرٞ فَقَالَ لِصَٰحِبِهِۦ وَهُوَ يُحَاوِرُهُۥٓ أَنَا۠
+  أَكۡثَرُ مِنكَ مَالٗا وَأَعَزُّ نَفَرٗا
 sentence_translation: And he had other resources ˹as well˺. So he boasted to a ˹poor˺
   companion of his, while conversing with him, “I am greater than you in wealth and
   superior in manpower.”
@@ -10,11 +10,11 @@ word_by_word:
     translation: And was
     transliteration: wakāna
   2:
-    arabic: لَهٗ
+    arabic: لَهُۥ
     translation: for him
     transliteration: lahu
   3:
-    arabic: ثَمَرٌ​ ۚ
+    arabic: ثَمَرٞ
     translation: fruit
     transliteration: thamarun
   4:
@@ -22,7 +22,7 @@ word_by_word:
     translation: so he said
     transliteration: faqāla
   5:
-    arabic: لِصَاحِبِهٖ
+    arabic: لِصَٰحِبِهِۦ
     translation: to his companion
     transliteration: liṣāḥibihi
   6:
@@ -30,31 +30,31 @@ word_by_word:
     translation: while he
     transliteration: wahuwa
   7:
-    arabic: يُحَاوِرُهٗۤ
+    arabic: يُحَاوِرُهُۥٓ
     translation: (was) talking with him
     transliteration: yuḥāwiruhu
   8:
-    arabic: اَنَا
+    arabic: أَنَا۠
     translation: I am
     transliteration: anā
   9:
-    arabic: اَكۡثَرُ
+    arabic: أَكۡثَرُ
     translation: greater
     transliteration: aktharu
   10:
-    arabic: مِنۡكَ
+    arabic: مِنكَ
     translation: than you
     transliteration: minka
   11:
-    arabic: مَالًا
+    arabic: مَالٗا
     translation: (in) wealth
     transliteration: mālan
   12:
-    arabic: وَّاَعَزُّ
+    arabic: وَأَعَزُّ
     translation: and stronger
     transliteration: wa-aʿazzu
   13:
-    arabic: نَفَرًا‏
+    arabic: نَفَرٗا
     translation: (in) men
     transliteration: nafaran
 ---

@@ -1,12 +1,12 @@
 ---
-arabic_ayat: وَاِنۡ كَانَ ذُوۡ عُسۡرَةٍ فَنَظِرَةٌ اِلٰى مَيۡسَرَةٍ ​ؕ وَاَنۡ تَصَدَّقُوۡا
-  خَيۡرٌ لَّـكُمۡ​ اِنۡ كُنۡتُمۡ تَعۡلَمُوۡنَ‏
+arabic_ayat: وَإِن كَانَ ذُو عُسۡرَةٖ فَنَظِرَةٌ إِلَىٰ مَيۡسَرَةٖۚ وَأَن تَصَدَّقُواْ
+  خَيۡرٞ لَّكُمۡ إِن كُنتُمۡ تَعۡلَمُونَ
 sentence_translation: If it is difficult for someone to repay a debt, postpone it
   until a time of ease. And if you waive it as an act of charity, it will be better
   for you, if only you knew.
 word_by_word:
   1:
-    arabic: وَاِنۡ
+    arabic: وَإِن
     translation: And if
     transliteration: wa-in
   2:
@@ -14,11 +14,11 @@ word_by_word:
     translation: is
     transliteration: kāna
   3:
-    arabic: ذُوۡ
+    arabic: ذُو
     translation: the (debtor)
     transliteration: dhū
   4:
-    arabic: عُسۡرَةٍ
+    arabic: عُسۡرَةٖ
     translation: in difficulty
     transliteration: ʿus'ratin
   5:
@@ -26,39 +26,39 @@ word_by_word:
     translation: then postponement
     transliteration: fanaẓiratun
   6:
-    arabic: اِلٰى
+    arabic: إِلَىٰ
     translation: until
     transliteration: ilā
   7:
-    arabic: مَيۡسَرَةٍ ​ؕ
+    arabic: مَيۡسَرَةٖۚ
     translation: ease
     transliteration: maysaratin
   8:
-    arabic: وَاَنۡ
+    arabic: وَأَن
     translation: And if
     transliteration: wa-an
   9:
-    arabic: تَصَدَّقُوۡا
+    arabic: تَصَدَّقُواْ
     translation: you remit as charity
     transliteration: taṣaddaqū
   10:
-    arabic: خَيۡرٌ
+    arabic: خَيۡرٞ
     translation: (it is) better
     transliteration: khayrun
   11:
-    arabic: لَّـكُمۡ​
+    arabic: لَّكُمۡ
     translation: for you
     transliteration: lakum
   12:
-    arabic: اِنۡ
+    arabic: إِن
     translation: If
     transliteration: in
   13:
-    arabic: كُنۡتُمۡ
+    arabic: كُنتُمۡ
     translation: you
     transliteration: kuntum
   14:
-    arabic: تَعۡلَمُوۡنَ‏
+    arabic: تَعۡلَمُونَ
     translation: know
     transliteration: taʿlamūna
 ---

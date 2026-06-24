@@ -1,9 +1,8 @@
 ---
-arabic_ayat: "فَلِذٰلِكَ فَادۡعُ​ ۚ وَاسۡتَقِمۡ كَمَاۤ اُمِرۡتَ​ۚ وَلَا تَتَّبِعۡ\
-  \ اَهۡوَآءَهُمۡ​ۚ وَقُلۡ اٰمَنۡتُ بِمَاۤ اَنۡزَلَ اللّٰهُ مِنۡ كِتٰبٍ​​ۚ وَاُمِرۡتُ\
-  \ لِاَعۡدِلَ بَيۡنَكُمُ​ؕ اَللّٰهُ رَبُّنَا وَرَبُّكُمۡ​ؕ لَـنَاۤ اَعۡمَالُـنَا\
-  \ وَلَـكُمۡ اَعۡمَالُكُمۡ​ۚ لَا حُجَّةَ بَيۡنَنَا وَبَيۡنَكُمُ​ؕ اَللّٰهُ يَجۡمَعُ\
-  \ بَيۡنَنَا​ۚ وَاِلَيۡهِ الۡمَصِيۡرُؕ‏ \uFEFF\uFEFF"
+arabic_ayat: فَلِذَٰلِكَ فَٱدۡعُۖ وَٱسۡتَقِمۡ كَمَآ أُمِرۡتَۖ وَلَا تَتَّبِعۡ أَهۡوَآءَهُمۡۖ
+  وَقُلۡ ءَامَنتُ بِمَآ أَنزَلَ ٱللَّهُ مِن كِتَٰبٖۖ وَأُمِرۡتُ لِأَعۡدِلَ بَيۡنَكُمُۖ
+  ٱللَّهُ رَبُّنَا وَرَبُّكُمۡۖ لَنَآ أَعۡمَٰلُنَا وَلَكُمۡ أَعۡمَٰلُكُمۡۖ لَا حُجَّةَ
+  بَيۡنَنَا وَبَيۡنَكُمُۖ ٱللَّهُ يَجۡمَعُ بَيۡنَنَاۖ وَإِلَيۡهِ ٱلۡمَصِيرُ
 sentence_translation: Because of that, you ˹O Prophet˺ will invite ˹all˺. Be steadfast
   as you are commanded, and do not follow their desires. And say, “I believe in every
   Scripture Allah has revealed. And I am commanded to judge fairly among you. Allah
@@ -12,23 +11,23 @@ sentence_translation: Because of that, you ˹O Prophet˺ will invite ˹all˺. Be
   judgment˺. And to Him is the final return.”
 word_by_word:
   1:
-    arabic: فَلِذٰلِكَ
+    arabic: فَلِذَٰلِكَ
     translation: So to that
     transliteration: falidhālika
   2:
-    arabic: فَادۡعُ​ ۚ
+    arabic: فَٱدۡعُۖ
     translation: then invite
     transliteration: fa-ud'ʿu
   3:
-    arabic: وَاسۡتَقِمۡ
+    arabic: وَٱسۡتَقِمۡ
     translation: and stand firm
     transliteration: wa-is'taqim
   4:
-    arabic: كَمَاۤ
+    arabic: كَمَآ
     translation: as
     transliteration: kamā
   5:
-    arabic: اُمِرۡتَ​ۚ
+    arabic: أُمِرۡتَۖ
     translation: you are commanded
     transliteration: umir'ta
   6:
@@ -40,51 +39,51 @@ word_by_word:
     translation: follow
     transliteration: tattabiʿ
   8:
-    arabic: اَهۡوَآءَهُمۡ​ۚ
+    arabic: أَهۡوَآءَهُمۡۖ
     translation: their desires
     transliteration: ahwāahum
   9:
-    arabic: وَقُلۡ
+    arabic: وَقُلۡ ءَ
     translation: but say
     transliteration: waqul
   10:
-    arabic: اٰمَنۡتُ
+    arabic: امَنتُ
     translation: I believe
     transliteration: āmantu
   11:
-    arabic: بِمَاۤ
+    arabic: بِمَآ
     translation: in what
     transliteration: bimā
   12:
-    arabic: اَنۡزَلَ
+    arabic: أَنزَلَ
     translation: Allah has sent down
     transliteration: anzala
   13:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah has sent down
     transliteration: l-lahu
   14:
-    arabic: مِنۡ
+    arabic: مِن
     translation: of
     transliteration: min
   15:
-    arabic: كِتٰبٍ​​ۚ
+    arabic: كِتَٰبٖۖ
     translation: (the) Book
     transliteration: kitābin
   16:
-    arabic: وَاُمِرۡتُ
+    arabic: وَأُمِرۡتُ
     translation: and I am commanded
     transliteration: wa-umir'tu
   17:
-    arabic: لِاَعۡدِلَ
+    arabic: لِأَعۡدِلَ
     translation: that I do justice
     transliteration: li-aʿdila
   18:
-    arabic: بَيۡنَكُمُ​ؕ
+    arabic: بَيۡنَكُمُۖ
     translation: between you
     transliteration: baynakumu
   19:
-    arabic: اَللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   20:
@@ -92,23 +91,23 @@ word_by_word:
     translation: (is) our Lord
     transliteration: rabbunā
   21:
-    arabic: وَرَبُّكُمۡ​ؕ
+    arabic: وَرَبُّكُمۡۖ
     translation: and your Lord
     transliteration: warabbukum
   22:
-    arabic: لَـنَاۤ
+    arabic: لَنَآ
     translation: For us
     transliteration: lanā
   23:
-    arabic: اَعۡمَالُـنَا
+    arabic: أَعۡمَٰلُنَا
     translation: our deeds
     transliteration: aʿmālunā
   24:
-    arabic: وَلَـكُمۡ
+    arabic: وَلَكُمۡ
     translation: and for you
     transliteration: walakum
   25:
-    arabic: اَعۡمَالُكُمۡ​ۚ
+    arabic: أَعۡمَٰلُكُمۡۖ
     translation: your deeds
     transliteration: aʿmālukum
   26:
@@ -124,11 +123,11 @@ word_by_word:
     translation: between us
     transliteration: baynanā
   29:
-    arabic: وَبَيۡنَكُمُ​ؕ
+    arabic: وَبَيۡنَكُمُۖ
     translation: and between you
     transliteration: wabaynakumu
   30:
-    arabic: اَللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   31:
@@ -136,15 +135,15 @@ word_by_word:
     translation: will assemble
     transliteration: yajmaʿu
   32:
-    arabic: بَيۡنَنَا​ۚ
+    arabic: بَيۡنَنَاۖ
     translation: '[between] us'
     transliteration: baynanā
   33:
-    arabic: وَاِلَيۡهِ
+    arabic: وَإِلَيۡهِ
     translation: and to Him
     transliteration: wa-ilayhi
   34:
-    arabic: "الۡمَصِيۡرُؕ‏ \uFEFF\uFEFF"
+    arabic: ٱلۡمَصِيرُ
     translation: (is) the final return
     transliteration: l-maṣīru
 ---

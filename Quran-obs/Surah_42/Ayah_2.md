@@ -1,9 +1,9 @@
 ---
-arabic_ayat: عٓسٓقٓ‏
+arabic_ayat: عٓسٓقٓ
 sentence_translation: ’Aĩn-Sĩn-Qãf.
 word_by_word:
   1:
-    arabic: عٓسٓقٓ‏
+    arabic: عٓسٓقٓ
     translation: Ayn Seen Qaaf
     transliteration: ain-seen-qaf
 ---

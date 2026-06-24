@@ -1,27 +1,27 @@
 ---
-arabic_ayat: اِنَّ هٰٓؤُلَاۤءِ يُحِبُّوۡنَ الۡعَاجِلَةَ وَيَذَرُوۡنَ وَرَآءَهُمۡ
-  يَوۡمًا ثَقِيۡلًا‏
+arabic_ayat: إِنَّ هَٰٓؤُلَآءِ يُحِبُّونَ ٱلۡعَاجِلَةَ وَيَذَرُونَ وَرَآءَهُمۡ يَوۡمٗا
+  ثَقِيلٗا
 sentence_translation: Surely those ˹pagans˺ love this fleeting world, ˹totally˺ neglecting
   a weighty Day ahead of them.
 word_by_word:
   1:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   2:
-    arabic: هٰٓؤُلَاۤءِ
+    arabic: هَٰٓؤُلَآءِ
     translation: these
     transliteration: hāulāi
   3:
-    arabic: يُحِبُّوۡنَ
+    arabic: يُحِبُّونَ
     translation: love
     transliteration: yuḥibbūna
   4:
-    arabic: الۡعَاجِلَةَ
+    arabic: ٱلۡعَاجِلَةَ
     translation: the immediate
     transliteration: l-ʿājilata
   5:
-    arabic: وَيَذَرُوۡنَ
+    arabic: وَيَذَرُونَ
     translation: and leave
     transliteration: wayadharūna
   6:
@@ -29,11 +29,11 @@ word_by_word:
     translation: behind them
     transliteration: warāahum
   7:
-    arabic: يَوۡمًا
+    arabic: يَوۡمٗا
     translation: a Day
     transliteration: yawman
   8:
-    arabic: ثَقِيۡلًا‏
+    arabic: ثَقِيلٗا
     translation: grave
     transliteration: thaqīlan
 ---

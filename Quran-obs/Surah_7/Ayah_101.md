@@ -1,7 +1,7 @@
 ---
-arabic_ayat: تِلۡكَ الۡقُرٰى نَقُصُّ عَلَيۡكَ مِنۡ اَنۡۢبَآٮِٕهَا​ ۚ وَلَقَدۡ جَآءَتۡهُمۡ
-  رُسُلُهُمۡ بِالۡبَيِّنٰتِ​ ۚ فَمَا كَانُوۡا لِيُؤۡمِنُوۡا بِمَا كَذَّبُوۡا مِنۡ
-  قَبۡلُ​ ؕ كَذٰلِكَ يَطۡبَعُ اللّٰهُ عَلٰى قُلُوۡبِ الۡكٰفِرِيۡنَ‏
+arabic_ayat: تِلۡكَ ٱلۡقُرَىٰ نَقُصُّ عَلَيۡكَ مِنۡ أَنۢبَآئِهَاۚ وَلَقَدۡ جَآءَتۡهُمۡ
+  رُسُلُهُم بِٱلۡبَيِّنَٰتِ فَمَا كَانُواْ لِيُؤۡمِنُواْ بِمَا كَذَّبُواْ مِن قَبۡلُۚ
+  كَذَٰلِكَ يَطۡبَعُ ٱللَّهُ عَلَىٰ قُلُوبِ ٱلۡكَٰفِرِينَ
 sentence_translation: We have narrated to you ˹O Prophet˺ some of the stories of those
   societies. Surely, their messengers came to them with clear proofs, but still they
   would not believe in what they had already denied. This is how Allah seals the hearts
@@ -12,7 +12,7 @@ word_by_word:
     translation: These
     transliteration: til'ka
   2:
-    arabic: الۡقُرٰى
+    arabic: ٱلۡقُرَىٰ
     translation: '(were) the cities '
     transliteration: l-qurā
   3:
@@ -28,7 +28,7 @@ word_by_word:
     translation: of
     transliteration: min
   6:
-    arabic: اَنۡۢبَآٮِٕهَا​ ۚ
+    arabic: أَنۢبَآئِهَاۚ
     translation: their news
     transliteration: anbāihā
   7:
@@ -40,11 +40,11 @@ word_by_word:
     translation: came to them
     transliteration: jāathum
   9:
-    arabic: رُسُلُهُمۡ
+    arabic: رُسُلُهُم
     translation: their Messengers
     transliteration: rusuluhum
   10:
-    arabic: بِالۡبَيِّنٰتِ​ ۚ
+    arabic: بِٱلۡبَيِّنَٰتِ
     translation: with clear proofs
     transliteration: bil-bayināti
   11:
@@ -52,11 +52,11 @@ word_by_word:
     translation: but not
     transliteration: famā
   12:
-    arabic: كَانُوۡا
+    arabic: كَانُواْ
     translation: they were
     transliteration: kānū
   13:
-    arabic: لِيُؤۡمِنُوۡا
+    arabic: لِيُؤۡمِنُواْ
     translation: to believe
     transliteration: liyu'minū
   14:
@@ -64,19 +64,19 @@ word_by_word:
     translation: in what
     transliteration: bimā
   15:
-    arabic: كَذَّبُوۡا
+    arabic: كَذَّبُواْ
     translation: they (had) denied
     transliteration: kadhabū
   16:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   17:
-    arabic: قَبۡلُ​ ؕ
+    arabic: قَبۡلُۚ
     translation: before
     transliteration: qablu
   18:
-    arabic: كَذٰلِكَ
+    arabic: كَذَٰلِكَ
     translation: Thus
     transliteration: kadhālika
   19:
@@ -84,19 +84,19 @@ word_by_word:
     translation: (has been) put a seal
     transliteration: yaṭbaʿu
   20:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: (by) Allah
     transliteration: l-lahu
   21:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: 'on'
     transliteration: ʿalā
   22:
-    arabic: قُلُوۡبِ
+    arabic: قُلُوبِ
     translation: (the) hearts
     transliteration: qulūbi
   23:
-    arabic: الۡكٰفِرِيۡنَ‏
+    arabic: ٱلۡكَٰفِرِينَ
     translation: (of) the disbelievers
     transliteration: l-kāfirīna
 ---

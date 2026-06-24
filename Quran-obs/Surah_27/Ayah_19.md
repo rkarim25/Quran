@@ -1,7 +1,7 @@
 ---
-arabic_ayat: فَتَبَسَّمَ ضَاحِكًا مِّنۡ قَوۡلِهَا وَقَالَ رَبِّ اَوۡزِعۡنِىۡۤ اَنۡ
-  اَشۡكُرَ نِعۡمَتَكَ الَّتِىۡۤ اَنۡعَمۡتَ عَلَىَّ وَعَلٰى وَالِدَىَّ وَاَنۡ اَعۡمَلَ
-  صَالِحًـا تَرۡضٰٮهُ وَاَدۡخِلۡنِىۡ بِرَحۡمَتِكَ فِىۡ عِبَادِكَ الصّٰلِحِيۡنَ‏
+arabic_ayat: فَتَبَسَّمَ ضَاحِكٗا مِّن قَوۡلِهَا وَقَالَ رَبِّ أَوۡزِعۡنِيٓ أَنۡ أَشۡكُرَ
+  نِعۡمَتَكَ ٱلَّتِيٓ أَنۡعَمۡتَ عَلَيَّ وَعَلَىٰ وَٰلِدَيَّ وَأَنۡ أَعۡمَلَ صَٰلِحٗا
+  تَرۡضَىٰهُ وَأَدۡخِلۡنِي بِرَحۡمَتِكَ فِي عِبَادِكَ ٱلصَّٰلِحِينَ
 sentence_translation: So Solomon smiled in amusement at her words, and prayed, “My
   Lord! Inspire me to ˹always˺ be thankful for Your favours which You have blessed
   me and my parents with, and to do good deeds that please you. Admit me, by Your
@@ -12,11 +12,11 @@ word_by_word:
     translation: 'So he smiled '
     transliteration: fatabassama
   2:
-    arabic: ضَاحِكًا
+    arabic: ضَاحِكٗا
     translation: laughing
     transliteration: ḍāḥikan
   3:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: at
     transliteration: min
   4:
@@ -32,15 +32,15 @@ word_by_word:
     translation: My Lord
     transliteration: rabbi
   7:
-    arabic: اَوۡزِعۡنِىۡۤ
+    arabic: أَوۡزِعۡنِيٓ
     translation: Grant me (the) power
     transliteration: awziʿ'nī
   8:
-    arabic: اَنۡ
+    arabic: أَنۡ
     translation: that
     transliteration: an
   9:
-    arabic: اَشۡكُرَ
+    arabic: أَشۡكُرَ
     translation: I may thank You
     transliteration: ashkura
   10:
@@ -48,43 +48,43 @@ word_by_word:
     translation: (for) Your Favor
     transliteration: niʿ'mataka
   11:
-    arabic: الَّتِىۡۤ
+    arabic: ٱلَّتِيٓ
     translation: which
     transliteration: allatī
   12:
-    arabic: اَنۡعَمۡتَ
+    arabic: أَنۡعَمۡتَ
     translation: You have bestowed
     transliteration: anʿamta
   13:
-    arabic: عَلَىَّ
+    arabic: عَلَيَّ
     translation: on me
     transliteration: ʿalayya
   14:
-    arabic: وَعَلٰى
+    arabic: وَعَلَىٰ
     translation: and on
     transliteration: waʿalā
   15:
-    arabic: وَالِدَىَّ
+    arabic: وَٰلِدَيَّ
     translation: my parents
     transliteration: wālidayya
   16:
-    arabic: وَاَنۡ
+    arabic: وَأَنۡ
     translation: and that
     transliteration: wa-an
   17:
-    arabic: اَعۡمَلَ
+    arabic: أَعۡمَلَ
     translation: I may do
     transliteration: aʿmala
   18:
-    arabic: صَالِحًـا
+    arabic: صَٰلِحٗا
     translation: righteous (deeds)
     transliteration: ṣāliḥan
   19:
-    arabic: تَرۡضٰٮهُ
+    arabic: تَرۡضَىٰهُ
     translation: that will please You
     transliteration: tarḍāhu
   20:
-    arabic: وَاَدۡخِلۡنِىۡ
+    arabic: وَأَدۡخِلۡنِي
     translation: And admit me
     transliteration: wa-adkhil'nī
   21:
@@ -92,7 +92,7 @@ word_by_word:
     translation: by Your Mercy
     transliteration: biraḥmatika
   22:
-    arabic: فِىۡ
+    arabic: فِي
     translation: among
     transliteration: fī
   23:
@@ -100,7 +100,7 @@ word_by_word:
     translation: Your slaves
     transliteration: ʿibādika
   24:
-    arabic: الصّٰلِحِيۡنَ‏
+    arabic: ٱلصَّٰلِحِينَ
     translation: righteous
     transliteration: l-ṣāliḥīna
 ---

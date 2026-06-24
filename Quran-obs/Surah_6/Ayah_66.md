@@ -1,6 +1,5 @@
 ---
-arabic_ayat: "وَكَذَّبَ بِهٖ قَوۡمُكَ وَهُوَ الۡحَـقُّ​ ؕ قُلْ لَّسۡتُ عَلَيۡكُمۡ\
-  \ بِوَكِيۡلٍؕ‏ \uFEFF\uFEFF"
+arabic_ayat: وَكَذَّبَ بِهِۦ قَوۡمُكَ وَهُوَ ٱلۡحَقُّۚ قُل لَّسۡتُ عَلَيۡكُم بِوَكِيلٖ
 sentence_translation: Still your people ˹O Prophet˺ have rejected this ˹Quran˺, although
   it is the truth. Say, “I am not a keeper over you.”
 word_by_word:
@@ -9,7 +8,7 @@ word_by_word:
     translation: But denied
     transliteration: wakadhaba
   2:
-    arabic: بِهٖ
+    arabic: بِهِۦ
     translation: 'it '
     transliteration: bihi
   3:
@@ -21,11 +20,11 @@ word_by_word:
     translation: while it
     transliteration: wahuwa
   5:
-    arabic: الۡحَـقُّ​ ؕ
+    arabic: ٱلۡحَقُّۚ
     translation: (is) the truth
     transliteration: l-ḥaqu
   6:
-    arabic: قُلْ
+    arabic: قُل
     translation: Say
     transliteration: qul
   7:
@@ -33,11 +32,11 @@ word_by_word:
     translation: I am not
     transliteration: lastu
   8:
-    arabic: عَلَيۡكُمۡ
+    arabic: عَلَيۡكُم
     translation: over you
     transliteration: ʿalaykum
   9:
-    arabic: "بِوَكِيۡلٍؕ‏ \uFEFF\uFEFF"
+    arabic: بِوَكِيلٖ
     translation: a manager
     transliteration: biwakīlin
 ---

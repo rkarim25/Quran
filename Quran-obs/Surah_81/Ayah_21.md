@@ -1,9 +1,9 @@
 ---
-arabic_ayat: مُّطَاعٍ ثَمَّ اَمِيۡنٍؕ‏
+arabic_ayat: مُّطَاعٖ ثَمَّ أَمِينٖ
 sentence_translation: obeyed there ˹in heaven˺, and trustworthy.
 word_by_word:
   1:
-    arabic: مُّطَاعٍ
+    arabic: مُّطَاعٖ
     translation: One to be obeyed
     transliteration: muṭāʿin
   2:
@@ -11,7 +11,7 @@ word_by_word:
     translation: and
     transliteration: thamma
   3:
-    arabic: اَمِيۡنٍؕ‏
+    arabic: أَمِينٖ
     translation: trustworthy
     transliteration: amīnin
 ---

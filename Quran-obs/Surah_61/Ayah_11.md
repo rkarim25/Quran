@@ -1,69 +1,68 @@
 ---
-arabic_ayat: "تُؤۡمِنُوۡنَ بِاللّٰهِ وَرَسُوۡلِهٖ وَتُجَاهِدُوۡنَ فِىۡ سَبِيۡلِ اللّٰهِ\
-  \ بِاَمۡوَالِكُمۡ وَاَنۡفُسِكُمۡ​ؕ ذٰلِكُمۡ خَيۡرٌ لَّـكُمۡ اِنۡ كُنۡتُمۡ تَعۡلَمُوۡنَۙ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: تُؤۡمِنُونَ بِٱللَّهِ وَرَسُولِهِۦ وَتُجَٰهِدُونَ فِي سَبِيلِ ٱللَّهِ
+  بِأَمۡوَٰلِكُمۡ وَأَنفُسِكُمۡۚ ذَٰلِكُمۡ خَيۡرٞ لَّكُمۡ إِن كُنتُمۡ تَعۡلَمُونَ
 sentence_translation: ˹It is to˺ have faith in Allah and His Messenger, and strive
   in the cause of Allah with your wealth and your lives. That is best for you, if
   only you knew.
 word_by_word:
   1:
-    arabic: تُؤۡمِنُوۡنَ
+    arabic: تُؤۡمِنُونَ
     translation: Believe
     transliteration: tu'minūna
   2:
-    arabic: بِاللّٰهِ
+    arabic: بِٱللَّهِ
     translation: in Allah
     transliteration: bil-lahi
   3:
-    arabic: وَرَسُوۡلِهٖ
+    arabic: وَرَسُولِهِۦ
     translation: and His Messenger
     transliteration: warasūlihi
   4:
-    arabic: وَتُجَاهِدُوۡنَ
+    arabic: وَتُجَٰهِدُونَ
     translation: and strive
     transliteration: watujāhidūna
   5:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   6:
-    arabic: سَبِيۡلِ
+    arabic: سَبِيلِ
     translation: (the) way
     transliteration: sabīli
   7:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (of) Allah
     transliteration: l-lahi
   8:
-    arabic: بِاَمۡوَالِكُمۡ
+    arabic: بِأَمۡوَٰلِكُمۡ
     translation: with your wealth
     transliteration: bi-amwālikum
   9:
-    arabic: وَاَنۡفُسِكُمۡ​ؕ
+    arabic: وَأَنفُسِكُمۡۚ
     translation: and your lives
     transliteration: wa-anfusikum
   10:
-    arabic: ذٰلِكُمۡ
+    arabic: ذَٰلِكُمۡ
     translation: That
     transliteration: dhālikum
   11:
-    arabic: خَيۡرٌ
+    arabic: خَيۡرٞ
     translation: (is) better
     transliteration: khayrun
   12:
-    arabic: لَّـكُمۡ
+    arabic: لَّكُمۡ
     translation: for you
     transliteration: lakum
   13:
-    arabic: اِنۡ
+    arabic: إِن
     translation: if
     transliteration: in
   14:
-    arabic: كُنۡتُمۡ
+    arabic: كُنتُمۡ
     translation: you
     transliteration: kuntum
   15:
-    arabic: "تَعۡلَمُوۡنَۙ‏ \uFEFF\uFEFF"
+    arabic: تَعۡلَمُونَ
     translation: know
     transliteration: taʿlamūna
 ---

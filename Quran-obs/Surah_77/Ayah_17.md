@@ -1,5 +1,5 @@
 ---
-arabic_ayat: ثُمَّ نُتۡبِعُهُمُ الۡاٰخِرِيۡنَ‏
+arabic_ayat: ثُمَّ نُتۡبِعُهُمُ ٱلۡأٓخِرِينَ
 sentence_translation: And We will make the later disbelievers follow them.
 word_by_word:
   1:
@@ -11,7 +11,7 @@ word_by_word:
     translation: We follow them up
     transliteration: nut'biʿuhumu
   3:
-    arabic: الۡاٰخِرِيۡنَ‏
+    arabic: ٱلۡأٓخِرِينَ
     translation: (with) the later ones
     transliteration: l-ākhirīna
 ---

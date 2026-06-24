@@ -1,7 +1,7 @@
 ---
-arabic_ayat: قَالَ رَبِّ اجۡعَلۡ لِّىۡۤ اٰيَةً ​ؕ قَالَ اٰيَتُكَ اَلَّا تُكَلِّمَ
-  النَّاسَ ثَلٰثَةَ اَيَّامٍ اِلَّا رَمۡزًا ؕ​ وَاذۡكُرْ رَّبَّكَ كَثِيۡرًا وَّسَبِّحۡ
-  بِالۡعَشِىِّ وَالۡاِبۡكَارِ‏
+arabic_ayat: قَالَ رَبِّ ٱجۡعَل لِّيٓ ءَايَةٗۖ قَالَ ءَايَتُكَ أَلَّا تُكَلِّمَ ٱلنَّاسَ
+  ثَلَٰثَةَ أَيَّامٍ إِلَّا رَمۡزٗاۗ وَٱذۡكُر رَّبَّكَ كَثِيرٗا وَسَبِّحۡ بِٱلۡعَشِيِّ
+  وَٱلۡإِبۡكَٰرِ
 sentence_translation: Zachariah said, “My Lord! Grant me a sign.” He said, “Your sign
   is that you will not ˹be able to˺ speak to people for three days except through
   gestures. Remember your Lord often and glorify ˹Him˺ morning and evening.”
@@ -15,27 +15,27 @@ word_by_word:
     translation: My Lord
     transliteration: rabbi
   3:
-    arabic: اجۡعَلۡ
+    arabic: ٱجۡعَل
     translation: make
     transliteration: ij'ʿal
   4:
-    arabic: لِّىۡۤ
+    arabic: لِّيٓ ءَ
     translation: for me
     transliteration: lī
   5:
-    arabic: اٰيَةً ​ؕ
+    arabic: ايَةٗۖ
     translation: a sign
     transliteration: āyatan
   6:
-    arabic: قَالَ
+    arabic: قَالَ ءَ
     translation: He said
     transliteration: qāla
   7:
-    arabic: اٰيَتُكَ
+    arabic: ايَتُكَ
     translation: your sign
     transliteration: āyatuka
   8:
-    arabic: اَلَّا
+    arabic: أَلَّا
     translation: (is) that not
     transliteration: allā
   9:
@@ -43,27 +43,27 @@ word_by_word:
     translation: you will speak
     transliteration: tukallima
   10:
-    arabic: النَّاسَ
+    arabic: ٱلنَّاسَ
     translation: (to) the people
     transliteration: l-nāsa
   11:
-    arabic: ثَلٰثَةَ
+    arabic: ثَلَٰثَةَ
     translation: (for) three
     transliteration: thalāthata
   12:
-    arabic: اَيَّامٍ
+    arabic: أَيَّامٍ
     translation: days
     transliteration: ayyāmin
   13:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   14:
-    arabic: رَمۡزًا ؕ​
+    arabic: رَمۡزٗاۗ
     translation: (with) gestures
     transliteration: ramzan
   15:
-    arabic: وَاذۡكُرْ
+    arabic: وَٱذۡكُر
     translation: And remember
     transliteration: wa-udh'kur
   16:
@@ -71,19 +71,19 @@ word_by_word:
     translation: your Lord
     transliteration: rabbaka
   17:
-    arabic: كَثِيۡرًا
+    arabic: كَثِيرٗا
     translation: much
     transliteration: kathīran
   18:
-    arabic: وَّسَبِّحۡ
+    arabic: وَسَبِّحۡ
     translation: and glorify (Him)
     transliteration: wasabbiḥ
   19:
-    arabic: بِالۡعَشِىِّ
+    arabic: بِٱلۡعَشِيِّ
     translation: in the evening
     transliteration: bil-ʿashiyi
   20:
-    arabic: وَالۡاِبۡكَارِ‏
+    arabic: وَٱلۡإِبۡكَٰرِ
     translation: and (in) the morning
     transliteration: wal-ib'kāri
 ---

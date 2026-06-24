@@ -1,32 +1,32 @@
 ---
-arabic_ayat: بَلٰٓى ۙ اِنۡ تَصۡبِرُوۡا وَتَتَّقُوۡا وَيَاۡتُوۡكُمۡ مِّنۡ فَوۡرِهِمۡ
-  هٰذَا يُمۡدِدۡكُمۡ رَبُّكُمۡ بِخَمۡسَةِ اٰلَافٍ مِّنَ الۡمَلٰٓٮِٕكَةِ مُسَوِّمِيۡنَ‏
+arabic_ayat: بَلَىٰٓۚ إِن تَصۡبِرُواْ وَتَتَّقُواْ وَيَأۡتُوكُم مِّن فَوۡرِهِمۡ هَٰذَا
+  يُمۡدِدۡكُمۡ رَبُّكُم بِخَمۡسَةِ ءَالَٰفٖ مِّنَ ٱلۡمَلَٰٓئِكَةِ مُسَوِّمِينَ
 sentence_translation: Most certainly, if you ˹believers˺ are firm and mindful ˹of
   Allah˺ and the enemy launches a sudden attack on you, Allah will reinforce you with
   five thousand angels designated ˹for battle˺.
 word_by_word:
   1:
-    arabic: بَلٰٓى ۙ
+    arabic: بَلَىٰٓۚ
     translation: 'Yes'
     transliteration: balā
   2:
-    arabic: اِنۡ
+    arabic: إِن
     translation: if
     transliteration: in
   3:
-    arabic: تَصۡبِرُوۡا
+    arabic: تَصۡبِرُواْ
     translation: you are patient
     transliteration: taṣbirū
   4:
-    arabic: وَتَتَّقُوۡا
+    arabic: وَتَتَّقُواْ
     translation: and fear (Allah)
     transliteration: watattaqū
   5:
-    arabic: وَيَاۡتُوۡكُمۡ
+    arabic: وَيَأۡتُوكُم
     translation: and they come upon you
     transliteration: wayatūkum
   6:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: '[of]'
     transliteration: min
   7:
@@ -34,7 +34,7 @@ word_by_word:
     translation: suddenly
     transliteration: fawrihim
   8:
-    arabic: هٰذَا
+    arabic: هَٰذَا
     translation: '[this]'
     transliteration: hādhā
   9:
@@ -42,15 +42,15 @@ word_by_word:
     translation: will reinforce you
     transliteration: yum'did'kum
   10:
-    arabic: رَبُّكُمۡ
+    arabic: رَبُّكُم
     translation: your Lord
     transliteration: rabbukum
   11:
-    arabic: بِخَمۡسَةِ
+    arabic: بِخَمۡسَةِ ءَ
     translation: with five
     transliteration: bikhamsati
   12:
-    arabic: اٰلَافٍ
+    arabic: الَٰفٖ
     translation: thousand[s]
     transliteration: ālāfin
   13:
@@ -58,11 +58,11 @@ word_by_word:
     translation: '[of]'
     transliteration: mina
   14:
-    arabic: الۡمَلٰٓٮِٕكَةِ
+    arabic: ٱلۡمَلَٰٓئِكَةِ
     translation: '[the] Angels'
     transliteration: l-malāikati
   15:
-    arabic: مُسَوِّمِيۡنَ‏
+    arabic: مُسَوِّمِينَ
     translation: '[the ones] having marks'
     transliteration: musawwimīna
 ---

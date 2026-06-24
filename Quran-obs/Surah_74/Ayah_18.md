@@ -1,10 +1,10 @@
 ---
-arabic_ayat: اِنَّهٗ فَكَّرَ وَقَدَّرَۙ‏
+arabic_ayat: إِنَّهُۥ فَكَّرَ وَقَدَّرَ
 sentence_translation: for he contemplated and determined ˹a degrading label for the
   Quran˺.
 word_by_word:
   1:
-    arabic: اِنَّهٗ
+    arabic: إِنَّهُۥ
     translation: Indeed, he
     transliteration: innahu
   2:
@@ -12,7 +12,7 @@ word_by_word:
     translation: thought
     transliteration: fakkara
   3:
-    arabic: وَقَدَّرَۙ‏
+    arabic: وَقَدَّرَ
     translation: and plotted
     transliteration: waqaddara
 ---

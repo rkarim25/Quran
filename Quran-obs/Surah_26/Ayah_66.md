@@ -1,5 +1,5 @@
 ---
-arabic_ayat: ثُمَّ اَغۡرَقۡنَا الۡاٰخَرِيۡنَ​ؕ‏
+arabic_ayat: ثُمَّ أَغۡرَقۡنَا ٱلۡأٓخَرِينَ
 sentence_translation: Then We drowned the others.
 word_by_word:
   1:
@@ -7,11 +7,11 @@ word_by_word:
     translation: Then
     transliteration: thumma
   2:
-    arabic: اَغۡرَقۡنَا
+    arabic: أَغۡرَقۡنَا
     translation: We drowned
     transliteration: aghraqnā
   3:
-    arabic: الۡاٰخَرِيۡنَ​ؕ‏
+    arabic: ٱلۡأٓخَرِينَ
     translation: the others
     transliteration: l-ākharīna
 ---

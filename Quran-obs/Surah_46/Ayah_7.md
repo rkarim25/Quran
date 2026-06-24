@@ -1,27 +1,27 @@
 ---
-arabic_ayat: وَاِذَا تُتۡلٰى عَلَيۡهِمۡ اٰيٰتُنَا بَيِّنٰتٍ قَالَ الَّذِيۡنَ كَفَرُوۡا
-  لِلۡحَقِّ لَـمَّا جَآءَهُمۡۙ هٰذَا سِحۡرٌ مُّبِيۡنٌؕ‏
+arabic_ayat: وَإِذَا تُتۡلَىٰ عَلَيۡهِمۡ ءَايَٰتُنَا بَيِّنَٰتٖ قَالَ ٱلَّذِينَ كَفَرُواْ
+  لِلۡحَقِّ لَمَّا جَآءَهُمۡ هَٰذَا سِحۡرٞ مُّبِينٌ
 sentence_translation: Whenever Our clear revelations are recited to them, the disbelievers
   say of the truth when it has come to them, “This is pure magic.”
 word_by_word:
   1:
-    arabic: وَاِذَا
+    arabic: وَإِذَا
     translation: And when
     transliteration: wa-idhā
   2:
-    arabic: تُتۡلٰى
+    arabic: تُتۡلَىٰ
     translation: are recited
     transliteration: tut'lā
   3:
-    arabic: عَلَيۡهِمۡ
+    arabic: عَلَيۡهِمۡ ءَ
     translation: to them
     transliteration: ʿalayhim
   4:
-    arabic: اٰيٰتُنَا
+    arabic: ايَٰتُنَا
     translation: Our Verses
     transliteration: āyātunā
   5:
-    arabic: بَيِّنٰتٍ
+    arabic: بَيِّنَٰتٖ
     translation: clear
     transliteration: bayyinātin
   6:
@@ -29,11 +29,11 @@ word_by_word:
     translation: say
     transliteration: qāla
   7:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   8:
-    arabic: كَفَرُوۡا
+    arabic: كَفَرُواْ
     translation: disbelieve
     transliteration: kafarū
   9:
@@ -41,23 +41,23 @@ word_by_word:
     translation: of the truth
     transliteration: lil'ḥaqqi
   10:
-    arabic: لَـمَّا
+    arabic: لَمَّا
     translation: when
     transliteration: lammā
   11:
-    arabic: جَآءَهُمۡۙ
+    arabic: جَآءَهُمۡ
     translation: it comes to them
     transliteration: jāahum
   12:
-    arabic: هٰذَا
+    arabic: هَٰذَا
     translation: This
     transliteration: hādhā
   13:
-    arabic: سِحۡرٌ
+    arabic: سِحۡرٞ
     translation: (is) a magic
     transliteration: siḥ'run
   14:
-    arabic: مُّبِيۡنٌؕ‏
+    arabic: مُّبِينٌ
     translation: clear
     transliteration: mubīnun
 ---

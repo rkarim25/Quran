@@ -1,15 +1,15 @@
 ---
-arabic_ayat: وَاقۡصِدۡ فِىۡ مَشۡيِكَ وَاغۡضُضۡ مِنۡ صَوۡتِكَ​ؕ اِنَّ اَنۡكَرَ الۡاَصۡوَاتِ
-  لَصَوۡتُ الۡحَمِيۡرِ‏
+arabic_ayat: وَٱقۡصِدۡ فِي مَشۡيِكَ وَٱغۡضُضۡ مِن صَوۡتِكَۚ إِنَّ أَنكَرَ ٱلۡأَصۡوَٰتِ
+  لَصَوۡتُ ٱلۡحَمِيرِ
 sentence_translation: Be moderate in your pace. And lower your voice, for the ugliest
   of all voices is certainly the braying of donkeys.”
 word_by_word:
   1:
-    arabic: وَاقۡصِدۡ
+    arabic: وَٱقۡصِدۡ
     translation: And be moderate
     transliteration: wa-iq'ṣid
   2:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   3:
@@ -17,27 +17,27 @@ word_by_word:
     translation: your pace
     transliteration: mashyika
   4:
-    arabic: وَاغۡضُضۡ
+    arabic: وَٱغۡضُضۡ
     translation: and lower
     transliteration: wa-ugh'ḍuḍ
   5:
-    arabic: مِنۡ
+    arabic: مِن
     translation: '[of]'
     transliteration: min
   6:
-    arabic: صَوۡتِكَ​ؕ
+    arabic: صَوۡتِكَۚ
     translation: your voice
     transliteration: ṣawtika
   7:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   8:
-    arabic: اَنۡكَرَ
+    arabic: أَنكَرَ
     translation: (the) harshest
     transliteration: ankara
   9:
-    arabic: الۡاَصۡوَاتِ
+    arabic: ٱلۡأَصۡوَٰتِ
     translation: (of all) sounds
     transliteration: l-aṣwāti
   10:
@@ -45,7 +45,7 @@ word_by_word:
     translation: (is) surely (the) voice
     transliteration: laṣawtu
   11:
-    arabic: الۡحَمِيۡرِ‏
+    arabic: ٱلۡحَمِيرِ
     translation: (of) the donkeys
     transliteration: l-ḥamīri
 ---

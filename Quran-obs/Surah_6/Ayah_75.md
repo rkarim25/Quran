@@ -1,35 +1,35 @@
 ---
-arabic_ayat: وَكَذٰلِكَ نُرِىۡۤ اِبۡرٰهِيۡمَ مَلَـكُوۡتَ السَّمٰوٰتِ وَالۡاَرۡضِ وَلِيَكُوۡنَ
-  مِنَ الۡمُوۡقِـنِيۡنَ‏
+arabic_ayat: وَكَذَٰلِكَ نُرِيٓ إِبۡرَٰهِيمَ مَلَكُوتَ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِ وَلِيَكُونَ
+  مِنَ ٱلۡمُوقِنِينَ
 sentence_translation: We also showed Abraham the wonders of the heavens and the earth,
   so he would be sure in faith.
 word_by_word:
   1:
-    arabic: وَكَذٰلِكَ
+    arabic: وَكَذَٰلِكَ
     translation: And thus
     transliteration: wakadhālika
   2:
-    arabic: نُرِىۡۤ
+    arabic: نُرِيٓ
     translation: We show(ed)
     transliteration: nurī
   3:
-    arabic: اِبۡرٰهِيۡمَ
+    arabic: إِبۡرَٰهِيمَ
     translation: Ibrahim
     transliteration: ib'rāhīma
   4:
-    arabic: مَلَـكُوۡتَ
+    arabic: مَلَكُوتَ
     translation: the kingdom
     transliteration: malakūta
   5:
-    arabic: السَّمٰوٰتِ
+    arabic: ٱلسَّمَٰوَٰتِ
     translation: (of) the heavens
     transliteration: l-samāwāti
   6:
-    arabic: وَالۡاَرۡضِ
+    arabic: وَٱلۡأَرۡضِ
     translation: and the earth
     transliteration: wal-arḍi
   7:
-    arabic: وَلِيَكُوۡنَ
+    arabic: وَلِيَكُونَ
     translation: so that he would be
     transliteration: waliyakūna
   8:
@@ -37,7 +37,7 @@ word_by_word:
     translation: among
     transliteration: mina
   9:
-    arabic: الۡمُوۡقِـنِيۡنَ‏
+    arabic: ٱلۡمُوقِنِينَ
     translation: the ones who are certain
     transliteration: l-mūqinīna
 ---

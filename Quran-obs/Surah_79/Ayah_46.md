@@ -1,11 +1,11 @@
 ---
-arabic_ayat: "كَاَنَّهُمۡ يَوۡمَ يَرَوۡنَهَا لَمۡ يَلۡبَثُوۡۤا اِلَّا عَشِيَّةً اَوۡ\
-  \ ضُحٰٮهَا‏ \uFEFF\uFEFF"
+arabic_ayat: كَأَنَّهُمۡ يَوۡمَ يَرَوۡنَهَا لَمۡ يَلۡبَثُوٓاْ إِلَّا عَشِيَّةً أَوۡ
+  ضُحَىٰهَا
 sentence_translation: On the Day they see it, it will be as if they had stayed ˹in
   the world˺ no more than one evening or its morning.
 word_by_word:
   1:
-    arabic: كَاَنَّهُمۡ
+    arabic: كَأَنَّهُمۡ
     translation: As though they
     transliteration: ka-annahum
   2:
@@ -21,11 +21,11 @@ word_by_word:
     translation: not
     transliteration: lam
   5:
-    arabic: يَلۡبَثُوۡۤا
+    arabic: يَلۡبَثُوٓاْ
     translation: they had remained
     transliteration: yalbathū
   6:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   7:
@@ -33,11 +33,11 @@ word_by_word:
     translation: an evening
     transliteration: ʿashiyyatan
   8:
-    arabic: اَوۡ
+    arabic: أَوۡ
     translation: or
     transliteration: aw
   9:
-    arabic: "ضُحٰٮهَا‏ \uFEFF\uFEFF"
+    arabic: ضُحَىٰهَا
     translation: a morning thereof
     transliteration: ḍuḥāhā
 ---

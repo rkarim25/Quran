@@ -1,13 +1,13 @@
 ---
-arabic_ayat: اِنۡ يَّشَاۡ يُذۡهِبۡكُمۡ وَيَاۡتِ بِخَلۡقٍ جَدِيۡدٍۚ‏
+arabic_ayat: إِن يَشَأۡ يُذۡهِبۡكُمۡ وَيَأۡتِ بِخَلۡقٖ جَدِيدٖ
 sentence_translation: If He willed, He could eliminate you and produce a new creation.
 word_by_word:
   1:
-    arabic: اِنۡ
+    arabic: إِن
     translation: If
     transliteration: in
   2:
-    arabic: يَّشَاۡ
+    arabic: يَشَأۡ
     translation: He wills
     transliteration: yasha
   3:
@@ -15,15 +15,15 @@ word_by_word:
     translation: He (can) do away with you
     transliteration: yudh'hib'kum
   4:
-    arabic: وَيَاۡتِ
+    arabic: وَيَأۡتِ
     translation: and bring
     transliteration: wayati
   5:
-    arabic: بِخَلۡقٍ
+    arabic: بِخَلۡقٖ
     translation: in a creation
     transliteration: bikhalqin
   6:
-    arabic: جَدِيۡدٍۚ‏
+    arabic: جَدِيدٖ
     translation: new
     transliteration: jadīdin
 ---

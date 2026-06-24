@@ -1,6 +1,6 @@
 ---
-arabic_ayat: وَلَقَدۡ صَرَّفۡنَا لِلنَّاسِ فِىۡ هٰذَا الۡقُرۡاٰنِ مِنۡ كُلِّ مَثَلٍ
-  فَاَبٰٓى اَكۡثَرُ النَّاسِ اِلَّا كُفُوۡرًا‏
+arabic_ayat: وَلَقَدۡ صَرَّفۡنَا لِلنَّاسِ فِي هَٰذَا ٱلۡقُرۡءَانِ مِن كُلِّ مَثَلٖ
+  فَأَبَىٰٓ أَكۡثَرُ ٱلنَّاسِ إِلَّا كُفُورٗا
 sentence_translation: And We have truly set forth every ˹kind of˺ lesson for humanity
   in this Quran, yet most people persist in disbelief.
 word_by_word:
@@ -17,19 +17,19 @@ word_by_word:
     translation: to mankind
     transliteration: lilnnāsi
   4:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   5:
-    arabic: هٰذَا
+    arabic: هَٰذَا
     translation: this
     transliteration: hādhā
   6:
-    arabic: الۡقُرۡاٰنِ
+    arabic: ٱلۡقُرۡءَانِ
     translation: Quran
     transliteration: l-qur'āni
   7:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   8:
@@ -37,27 +37,27 @@ word_by_word:
     translation: every
     transliteration: kulli
   9:
-    arabic: مَثَلٍ
+    arabic: مَثَلٖ
     translation: example
     transliteration: mathalin
   10:
-    arabic: فَاَبٰٓى
+    arabic: فَأَبَىٰٓ
     translation: but refused
     transliteration: fa-abā
   11:
-    arabic: اَكۡثَرُ
+    arabic: أَكۡثَرُ
     translation: most
     transliteration: aktharu
   12:
-    arabic: النَّاسِ
+    arabic: ٱلنَّاسِ
     translation: (of) the mankind
     transliteration: l-nāsi
   13:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   14:
-    arabic: كُفُوۡرًا‏
+    arabic: كُفُورٗا
     translation: disbelief
     transliteration: kufūran
 ---

@@ -1,15 +1,15 @@
 ---
-arabic_ayat: وَلِكُلٍّ دَرَجٰتٌ مِّمَّا عَمِلُوۡا​ ۚ وَلِيُوَفِّيَهُمۡ اَعۡمَالَهُمۡ
-  وَهُمۡ لَا يُظۡلَمُوۡنَ‏
+arabic_ayat: وَلِكُلّٖ دَرَجَٰتٞ مِّمَّا عَمِلُواْۖ وَلِيُوَفِّيَهُمۡ أَعۡمَٰلَهُمۡ
+  وَهُمۡ لَا يُظۡلَمُونَ
 sentence_translation: Each ˹of the two groups˺ will be ranked according to what they
   have done so He may fully reward all. And none will be wronged.
 word_by_word:
   1:
-    arabic: وَلِكُلٍّ
+    arabic: وَلِكُلّٖ
     translation: And for all
     transliteration: walikullin
   2:
-    arabic: دَرَجٰتٌ
+    arabic: دَرَجَٰتٞ
     translation: (are) degrees
     transliteration: darajātun
   3:
@@ -17,7 +17,7 @@ word_by_word:
     translation: for what
     transliteration: mimmā
   4:
-    arabic: عَمِلُوۡا​ ۚ
+    arabic: عَمِلُواْۖ
     translation: they did
     transliteration: ʿamilū
   5:
@@ -25,7 +25,7 @@ word_by_word:
     translation: and that He may fully compensate them
     transliteration: waliyuwaffiyahum
   6:
-    arabic: اَعۡمَالَهُمۡ
+    arabic: أَعۡمَٰلَهُمۡ
     translation: (for) their deeds
     transliteration: aʿmālahum
   7:
@@ -37,7 +37,7 @@ word_by_word:
     translation: will not be wronged
     transliteration: lā
   9:
-    arabic: يُظۡلَمُوۡنَ‏
+    arabic: يُظۡلَمُونَ
     translation: will not be wronged
     transliteration: yuẓ'lamūna
 ---

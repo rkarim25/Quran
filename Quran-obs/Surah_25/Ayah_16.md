@@ -1,6 +1,6 @@
 ---
-arabic_ayat: لَّهُمۡ فِيۡهَا مَا يَشَآءُوۡنَ خٰلِدِيۡنَ​ ؕ كَانَ عَلٰى رَبِّكَ وَعۡدًا
-  مَّسۡـــُٔوۡلًا‏
+arabic_ayat: لَّهُمۡ فِيهَا مَا يَشَآءُونَ خَٰلِدِينَۚ كَانَ عَلَىٰ رَبِّكَ وَعۡدٗا
+  مَّسۡـُٔولٗا
 sentence_translation: There they will have whatever they wish for, forever. That is
   a promise ˹to be sought after˺, binding on your Lord.”
 word_by_word:
@@ -9,7 +9,7 @@ word_by_word:
     translation: For them
     transliteration: lahum
   2:
-    arabic: فِيۡهَا
+    arabic: فِيهَا
     translation: therein
     transliteration: fīhā
   3:
@@ -17,11 +17,11 @@ word_by_word:
     translation: (is) whatever
     transliteration: mā
   4:
-    arabic: يَشَآءُوۡنَ
+    arabic: يَشَآءُونَ
     translation: they wish
     transliteration: yashāūna
   5:
-    arabic: خٰلِدِيۡنَ​ ؕ
+    arabic: خَٰلِدِينَۚ
     translation: they will abide forever
     transliteration: khālidīna
   6:
@@ -29,7 +29,7 @@ word_by_word:
     translation: It is
     transliteration: kāna
   7:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: 'on'
     transliteration: ʿalā
   8:
@@ -37,11 +37,11 @@ word_by_word:
     translation: your Lord
     transliteration: rabbika
   9:
-    arabic: وَعۡدًا
+    arabic: وَعۡدٗا
     translation: a promise
     transliteration: waʿdan
   10:
-    arabic: مَّسۡـــُٔوۡلًا‏
+    arabic: مَّسۡـُٔولٗا
     translation: requested
     transliteration: masūlan
 ---

@@ -1,15 +1,15 @@
 ---
-arabic_ayat: وَكَذٰلِكَ اَخۡذُ رَبِّكَ اِذَاۤ اَخَذَ الۡقُرٰى وَهِىَ ظَالِمَةٌ​ ؕ
-  اِنَّ اَخۡذَهٗۤ اَلِيۡمٌ شَدِيۡدٌ‏
+arabic_ayat: وَكَذَٰلِكَ أَخۡذُ رَبِّكَ إِذَآ أَخَذَ ٱلۡقُرَىٰ وَهِيَ ظَٰلِمَةٌۚ
+  إِنَّ أَخۡذَهُۥٓ أَلِيمٞ شَدِيدٌ
 sentence_translation: Such is the ˹crushing˺ grip of your Lord when He seizes the
   societies entrenched in wrongdoing. Indeed, His grip is ˹terribly˺ painful and severe.
 word_by_word:
   1:
-    arabic: وَكَذٰلِكَ
+    arabic: وَكَذَٰلِكَ
     translation: And thus
     transliteration: wakadhālika
   2:
-    arabic: اَخۡذُ
+    arabic: أَخۡذُ
     translation: (is) the seizure (of) your Lord
     transliteration: akhdhu
   3:
@@ -17,39 +17,39 @@ word_by_word:
     translation: (is) the seizure (of) your Lord
     transliteration: rabbika
   4:
-    arabic: اِذَاۤ
+    arabic: إِذَآ
     translation: when
     transliteration: idhā
   5:
-    arabic: اَخَذَ
+    arabic: أَخَذَ
     translation: He seizes
     transliteration: akhadha
   6:
-    arabic: الۡقُرٰى
+    arabic: ٱلۡقُرَىٰ
     translation: the cities
     transliteration: l-qurā
   7:
-    arabic: وَهِىَ
+    arabic: وَهِيَ
     translation: while they
     transliteration: wahiya
   8:
-    arabic: ظَالِمَةٌ​ ؕ
+    arabic: ظَٰلِمَةٌۚ
     translation: (are) doing wrong
     transliteration: ẓālimatun
   9:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   10:
-    arabic: اَخۡذَهٗۤ
+    arabic: أَخۡذَهُۥٓ
     translation: His seizure
     transliteration: akhdhahu
   11:
-    arabic: اَلِيۡمٌ
+    arabic: أَلِيمٞ
     translation: (is) painful
     transliteration: alīmun
   12:
-    arabic: شَدِيۡدٌ‏
+    arabic: شَدِيدٌ
     translation: (and) severe
     transliteration: shadīdun
 ---

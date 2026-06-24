@@ -1,14 +1,14 @@
 ---
-arabic_ayat: تَنۡزِيۡلُ الۡكِتٰبِ لَا رَيۡبَ فِيۡهِ مِنۡ رَّبِّ الۡعٰلَمِيۡنَؕ‏
+arabic_ayat: تَنزِيلُ ٱلۡكِتَٰبِ لَا رَيۡبَ فِيهِ مِن رَّبِّ ٱلۡعَٰلَمِينَ
 sentence_translation: The revelation of this Book is—beyond doubt—from the Lord of
   all worlds.
 word_by_word:
   1:
-    arabic: تَنۡزِيۡلُ
+    arabic: تَنزِيلُ
     translation: (The) revelation
     transliteration: tanzīlu
   2:
-    arabic: الۡكِتٰبِ
+    arabic: ٱلۡكِتَٰبِ
     translation: (of) the Book
     transliteration: l-kitābi
   3:
@@ -20,11 +20,11 @@ word_by_word:
     translation: doubt
     transliteration: rayba
   5:
-    arabic: فِيۡهِ
+    arabic: فِيهِ
     translation: about it
     transliteration: fīhi
   6:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   7:
@@ -32,7 +32,7 @@ word_by_word:
     translation: (the) Lord
     transliteration: rabbi
   8:
-    arabic: الۡعٰلَمِيۡنَؕ‏
+    arabic: ٱلۡعَٰلَمِينَ
     translation: (of) the worlds
     transliteration: l-ʿālamīna
 ---

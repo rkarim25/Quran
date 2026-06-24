@@ -1,33 +1,33 @@
 ---
-arabic_ayat: وَمِنۡ اٰيٰتِهِ الَّيۡلُ وَالنَّهَارُ وَالشَّمۡسُ وَالۡقَمَرُ​ؕ لَا تَسۡجُدُوۡا
-  لِلشَّمۡسِ وَلَا لِلۡقَمَرِ وَاسۡجُدُوۡا لِلّٰهِ الَّذِىۡ خَلَقَهُنَّ اِنۡ كُنۡتُمۡ
-  اِيَّاهُ تَعۡبُدُوۡنَ‏
+arabic_ayat: وَمِنۡ ءَايَٰتِهِ ٱلَّيۡلُ وَٱلنَّهَارُ وَٱلشَّمۡسُ وَٱلۡقَمَرُۚ لَا
+  تَسۡجُدُواْ لِلشَّمۡسِ وَلَا لِلۡقَمَرِ وَٱسۡجُدُواْۤ لِلَّهِۤ ٱلَّذِي خَلَقَهُنَّ
+  إِن كُنتُمۡ إِيَّاهُ تَعۡبُدُونَ
 sentence_translation: Among His signs are the day and the night, the sun and the moon.
   Do not prostrate to the sun or the moon, but prostrate to Allah, Who created them
   ˹all˺, if you ˹truly˺ worship Him ˹alone˺.
 word_by_word:
   1:
-    arabic: وَمِنۡ
+    arabic: وَمِنۡ ءَ
     translation: And of
     transliteration: wamin
   2:
-    arabic: اٰيٰتِهِ
+    arabic: ايَٰتِهِ
     translation: His Signs
     transliteration: āyātihi
   3:
-    arabic: الَّيۡلُ
+    arabic: ٱلَّيۡلُ
     translation: (are) the night
     transliteration: al-laylu
   4:
-    arabic: وَالنَّهَارُ
+    arabic: وَٱلنَّهَارُ
     translation: and the day
     transliteration: wal-nahāru
   5:
-    arabic: وَالشَّمۡسُ
+    arabic: وَٱلشَّمۡسُ
     translation: and the sun
     transliteration: wal-shamsu
   6:
-    arabic: وَالۡقَمَرُ​ؕ
+    arabic: وَٱلۡقَمَرُۚ
     translation: and the moon
     transliteration: wal-qamaru
   7:
@@ -35,7 +35,7 @@ word_by_word:
     translation: (Do) not
     transliteration: lā
   8:
-    arabic: تَسۡجُدُوۡا
+    arabic: تَسۡجُدُواْ
     translation: prostrate
     transliteration: tasjudū
   9:
@@ -51,15 +51,15 @@ word_by_word:
     translation: to the moon
     transliteration: lil'qamari
   12:
-    arabic: وَاسۡجُدُوۡا
+    arabic: وَٱسۡجُدُواْۤ
     translation: but prostrate
     transliteration: wa-us'judū
   13:
-    arabic: لِلّٰهِ
+    arabic: لِلَّهِۤ
     translation: to Allah
     transliteration: lillahi
   14:
-    arabic: الَّذِىۡ
+    arabic: ٱلَّذِي
     translation: the One Who
     transliteration: alladhī
   15:
@@ -67,19 +67,19 @@ word_by_word:
     translation: created them
     transliteration: khalaqahunna
   16:
-    arabic: اِنۡ
+    arabic: إِن
     translation: if
     transliteration: in
   17:
-    arabic: كُنۡتُمۡ
+    arabic: كُنتُمۡ
     translation: you
     transliteration: kuntum
   18:
-    arabic: اِيَّاهُ
+    arabic: إِيَّاهُ
     translation: Him alone
     transliteration: iyyāhu
   19:
-    arabic: تَعۡبُدُوۡنَ‏
+    arabic: تَعۡبُدُونَ
     translation: worship
     transliteration: taʿbudūna
 ---

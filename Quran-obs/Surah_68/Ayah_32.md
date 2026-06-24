@@ -1,39 +1,39 @@
 ---
-arabic_ayat: عَسٰى رَبُّنَاۤ اَنۡ يُّبۡدِلَـنَا خَيۡرًا مِّنۡهَاۤ اِنَّاۤ اِلٰى رَبِّنَا
-  رٰغِبُوۡنَ‏
+arabic_ayat: عَسَىٰ رَبُّنَآ أَن يُبۡدِلَنَا خَيۡرٗا مِّنۡهَآ إِنَّآ إِلَىٰ رَبِّنَا
+  رَٰغِبُونَ
 sentence_translation: We trust our Lord will give us a better garden than this, ˹for˺
   we are indeed turning to our Lord with hope.”
 word_by_word:
   1:
-    arabic: عَسٰى
+    arabic: عَسَىٰ
     translation: Perhaps
     transliteration: ʿasā
   2:
-    arabic: رَبُّنَاۤ
+    arabic: رَبُّنَآ
     translation: our Lord
     transliteration: rabbunā
   3:
-    arabic: اَنۡ
+    arabic: أَن
     translation: '[that]'
     transliteration: an
   4:
-    arabic: يُّبۡدِلَـنَا
+    arabic: يُبۡدِلَنَا
     translation: will substitute for us
     transliteration: yub'dilanā
   5:
-    arabic: خَيۡرًا
+    arabic: خَيۡرٗا
     translation: a better
     transliteration: khayran
   6:
-    arabic: مِّنۡهَاۤ
+    arabic: مِّنۡهَآ
     translation: than it
     transliteration: min'hā
   7:
-    arabic: اِنَّاۤ
+    arabic: إِنَّآ
     translation: Indeed, we
     transliteration: innā
   8:
-    arabic: اِلٰى
+    arabic: إِلَىٰ
     translation: to
     transliteration: ilā
   9:
@@ -41,7 +41,7 @@ word_by_word:
     translation: our Lord
     transliteration: rabbinā
   10:
-    arabic: رٰغِبُوۡنَ‏
+    arabic: رَٰغِبُونَ
     translation: turn devoutly
     transliteration: rāghibūna
 ---

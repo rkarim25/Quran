@@ -1,26 +1,26 @@
 ---
-arabic_ayat: وَلَنۡ تَسۡتَطِيۡعُوۡۤا اَنۡ تَعۡدِلُوۡا بَيۡنَ النِّسَآءِ وَلَوۡ حَرَصۡتُمۡ​
-  فَلَا تَمِيۡلُوۡا كُلَّ الۡمَيۡلِ فَتَذَرُوۡهَا كَالۡمُعَلَّقَةِ​ ؕ وَاِنۡ تُصۡلِحُوۡا
-  وَتَتَّقُوۡا فَاِنَّ اللّٰهَ كَانَ غَفُوۡرًا رَّحِيۡمًا‏
+arabic_ayat: وَلَن تَسۡتَطِيعُوٓاْ أَن تَعۡدِلُواْ بَيۡنَ ٱلنِّسَآءِ وَلَوۡ حَرَصۡتُمۡۖ
+  فَلَا تَمِيلُواْ كُلَّ ٱلۡمَيۡلِ فَتَذَرُوهَا كَٱلۡمُعَلَّقَةِۚ وَإِن تُصۡلِحُواْ
+  وَتَتَّقُواْ فَإِنَّ ٱللَّهَ كَانَ غَفُورٗا رَّحِيمٗا
 sentence_translation: You will never be able to maintain ˹emotional˺ justice between
   your wives—no matter how keen you are. So do not totally incline towards one leaving
   the other in suspense. And if you do what is right and are mindful ˹of Allah˺, surely
   Allah is All-Forgiving, Most Merciful.
 word_by_word:
   1:
-    arabic: وَلَنۡ
+    arabic: وَلَن
     translation: And never
     transliteration: walan
   2:
-    arabic: تَسۡتَطِيۡعُوۡۤا
+    arabic: تَسۡتَطِيعُوٓاْ
     translation: will you be able
     transliteration: tastaṭīʿū
   3:
-    arabic: اَنۡ
+    arabic: أَن
     translation: to
     transliteration: an
   4:
-    arabic: تَعۡدِلُوۡا
+    arabic: تَعۡدِلُواْ
     translation: deal justly
     transliteration: taʿdilū
   5:
@@ -28,7 +28,7 @@ word_by_word:
     translation: between
     transliteration: bayna
   6:
-    arabic: النِّسَآءِ
+    arabic: ٱلنِّسَآءِ
     translation: '[the] women'
     transliteration: l-nisāi
   7:
@@ -36,7 +36,7 @@ word_by_word:
     translation: even if
     transliteration: walaw
   8:
-    arabic: حَرَصۡتُمۡ​
+    arabic: حَرَصۡتُمۡۖ
     translation: you desired
     transliteration: ḥaraṣtum
   9:
@@ -44,7 +44,7 @@ word_by_word:
     translation: but (do) not
     transliteration: falā
   10:
-    arabic: تَمِيۡلُوۡا
+    arabic: تَمِيلُواْ
     translation: incline
     transliteration: tamīlū
   11:
@@ -52,35 +52,35 @@ word_by_word:
     translation: (with) all
     transliteration: kulla
   12:
-    arabic: الۡمَيۡلِ
+    arabic: ٱلۡمَيۡلِ
     translation: the inclination
     transliteration: l-mayli
   13:
-    arabic: فَتَذَرُوۡهَا
+    arabic: فَتَذَرُوهَا
     translation: and leave her (the other)
     transliteration: fatadharūhā
   14:
-    arabic: كَالۡمُعَلَّقَةِ​ ؕ
+    arabic: كَٱلۡمُعَلَّقَةِۚ
     translation: like the suspended one
     transliteration: kal-muʿalaqati
   15:
-    arabic: وَاِنۡ
+    arabic: وَإِن
     translation: And if
     transliteration: wa-in
   16:
-    arabic: تُصۡلِحُوۡا
+    arabic: تُصۡلِحُواْ
     translation: you reconcile
     transliteration: tuṣ'liḥū
   17:
-    arabic: وَتَتَّقُوۡا
+    arabic: وَتَتَّقُواْ
     translation: and fear (Allah)
     transliteration: watattaqū
   18:
-    arabic: فَاِنَّ
+    arabic: فَإِنَّ
     translation: then indeed
     transliteration: fa-inna
   19:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   20:
@@ -88,11 +88,11 @@ word_by_word:
     translation: is
     transliteration: kāna
   21:
-    arabic: غَفُوۡرًا
+    arabic: غَفُورٗا
     translation: Oft-Forgiving
     transliteration: ghafūran
   22:
-    arabic: رَّحِيۡمًا‏
+    arabic: رَّحِيمٗا
     translation: Most Merciful
     transliteration: raḥīman
 ---

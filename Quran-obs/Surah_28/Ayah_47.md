@@ -1,25 +1,25 @@
 ---
-arabic_ayat: وَلَوۡلَاۤ اَنۡ تُصِيۡبَـهُمۡ مُّصِيۡبَةٌۢ بِمَا قَدَّمَتۡ اَيۡدِيۡهِمۡ
-  فَيَقُوۡلُوۡا رَبَّنَا لَوۡلَاۤ اَرۡسَلۡتَ اِلَـيۡنَا رَسُوۡلًا فَنَـتَّبِعَ اٰيٰتِكَ
-  وَنَـكُوۡنَ مِنَ الۡمُؤۡمِنِيۡنَ‏
+arabic_ayat: وَلَوۡلَآ أَن تُصِيبَهُم مُّصِيبَةُۢ بِمَا قَدَّمَتۡ أَيۡدِيهِمۡ فَيَقُولُواْ
+  رَبَّنَا لَوۡلَآ أَرۡسَلۡتَ إِلَيۡنَا رَسُولٗا فَنَتَّبِعَ ءَايَٰتِكَ وَنَكُونَ
+  مِنَ ٱلۡمُؤۡمِنِينَ
 sentence_translation: 'Also so they would not say, if struck by an affliction for
   what their hands have done: “Our Lord! If only You had sent us a messenger, we would
   have followed Your revelations and become believers.”'
 word_by_word:
   1:
-    arabic: وَلَوۡلَاۤ
+    arabic: وَلَوۡلَآ
     translation: And if not
     transliteration: walawlā
   2:
-    arabic: اَنۡ
+    arabic: أَن
     translation: '[that]'
     transliteration: an
   3:
-    arabic: تُصِيۡبَـهُمۡ
+    arabic: تُصِيبَهُم
     translation: struck them
     transliteration: tuṣībahum
   4:
-    arabic: مُّصِيۡبَةٌۢ
+    arabic: مُّصِيبَةُۢ
     translation: a disaster
     transliteration: muṣībatun
   5:
@@ -31,11 +31,11 @@ word_by_word:
     translation: had sent forth
     transliteration: qaddamat
   7:
-    arabic: اَيۡدِيۡهِمۡ
+    arabic: أَيۡدِيهِمۡ
     translation: their hands
     transliteration: aydīhim
   8:
-    arabic: فَيَقُوۡلُوۡا
+    arabic: فَيَقُولُواْ
     translation: and they would say
     transliteration: fayaqūlū
   9:
@@ -43,31 +43,31 @@ word_by_word:
     translation: Our Lord
     transliteration: rabbanā
   10:
-    arabic: لَوۡلَاۤ
+    arabic: لَوۡلَآ
     translation: Why not
     transliteration: lawlā
   11:
-    arabic: اَرۡسَلۡتَ
+    arabic: أَرۡسَلۡتَ
     translation: You sent
     transliteration: arsalta
   12:
-    arabic: اِلَـيۡنَا
+    arabic: إِلَيۡنَا
     translation: to us
     transliteration: ilaynā
   13:
-    arabic: رَسُوۡلًا
+    arabic: رَسُولٗا
     translation: a Messenger
     transliteration: rasūlan
   14:
-    arabic: فَنَـتَّبِعَ
+    arabic: فَنَتَّبِعَ ءَ
     translation: so we (could have) followed
     transliteration: fanattabiʿa
   15:
-    arabic: اٰيٰتِكَ
+    arabic: ايَٰتِكَ
     translation: Your Verses
     transliteration: āyātika
   16:
-    arabic: وَنَـكُوۡنَ
+    arabic: وَنَكُونَ
     translation: and we (would) have been
     transliteration: wanakūna
   17:
@@ -75,7 +75,7 @@ word_by_word:
     translation: of
     transliteration: mina
   18:
-    arabic: الۡمُؤۡمِنِيۡنَ‏
+    arabic: ٱلۡمُؤۡمِنِينَ
     translation: the believers
     transliteration: l-mu'minīna
 ---

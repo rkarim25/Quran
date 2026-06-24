@@ -1,8 +1,8 @@
 ---
-arabic_ayat: يَعۡتَذِرُوۡنَ اِلَيۡكُمۡ اِذَا رَجَعۡتُمۡ اِلَيۡهِمۡ​ ؕ قُلْ لَّا تَعۡتَذِرُوۡا
-  لَنۡ نُّـؤۡمِنَ لَـكُمۡ قَدۡ نَـبَّاَنَا اللّٰهُ مِنۡ اَخۡبَارِكُمۡ​ ؕ وَ سَيَرَى
-  اللّٰهُ عَمَلَـكُمۡ وَرَسُوۡلُهٗ ثُمَّ تُرَدُّوۡنَ اِلٰى عٰلِمِ الۡغَيۡبِ وَالشَّهَادَةِ
-  فَيُنَبِّئُكُمۡ بِمَا كُنۡتُمۡ تَعۡمَلُوۡنَ‏
+arabic_ayat: يَعۡتَذِرُونَ إِلَيۡكُمۡ إِذَا رَجَعۡتُمۡ إِلَيۡهِمۡۚ قُل لَّا تَعۡتَذِرُواْ
+  لَن نُّؤۡمِنَ لَكُمۡ قَدۡ نَبَّأَنَا ٱللَّهُ مِنۡ أَخۡبَارِكُمۡۚ وَسَيَرَى ٱللَّهُ
+  عَمَلَكُمۡ وَرَسُولُهُۥ ثُمَّ تُرَدُّونَ إِلَىٰ عَٰلِمِ ٱلۡغَيۡبِ وَٱلشَّهَٰدَةِ
+  فَيُنَبِّئُكُم بِمَا كُنتُمۡ تَعۡمَلُونَ
 sentence_translation: They will make excuses to you ˹believers˺ when you return to
   them. Say, “Make no excuses, ˹for˺ we will not believe you. Allah has already informed
   us about your ˹true˺ state ˹of faith˺. Your ˹future˺ deeds will be observed by Allah
@@ -10,15 +10,15 @@ sentence_translation: They will make excuses to you ˹believers˺ when you retur
   unseen, then He will inform you of what you used to do.”
 word_by_word:
   1:
-    arabic: يَعۡتَذِرُوۡنَ
+    arabic: يَعۡتَذِرُونَ
     translation: They will make excuses
     transliteration: yaʿtadhirūna
   2:
-    arabic: اِلَيۡكُمۡ
+    arabic: إِلَيۡكُمۡ
     translation: to you
     transliteration: ilaykum
   3:
-    arabic: اِذَا
+    arabic: إِذَا
     translation: when
     transliteration: idhā
   4:
@@ -26,11 +26,11 @@ word_by_word:
     translation: you (have) returned
     transliteration: rajaʿtum
   5:
-    arabic: اِلَيۡهِمۡ​ ؕ
+    arabic: إِلَيۡهِمۡۚ
     translation: to them
     transliteration: ilayhim
   6:
-    arabic: قُلْ
+    arabic: قُل
     translation: Say
     transliteration: qul
   7:
@@ -38,19 +38,19 @@ word_by_word:
     translation: (Do) not
     transliteration: lā
   8:
-    arabic: تَعۡتَذِرُوۡا
+    arabic: تَعۡتَذِرُواْ
     translation: make excuse
     transliteration: taʿtadhirū
   9:
-    arabic: لَنۡ
+    arabic: لَن
     translation: never
     transliteration: lan
   10:
-    arabic: نُّـؤۡمِنَ
+    arabic: نُّؤۡمِنَ
     translation: we will believe
     transliteration: nu'mina
   11:
-    arabic: لَـكُمۡ
+    arabic: لَكُمۡ
     translation: you
     transliteration: lakum
   12:
@@ -58,11 +58,11 @@ word_by_word:
     translation: Verily
     transliteration: qad
   13:
-    arabic: نَـبَّاَنَا
+    arabic: نَبَّأَنَا
     translation: Allah (has) informed us
     transliteration: nabba-anā
   14:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah (has) informed us
     transliteration: l-lahu
   15:
@@ -70,23 +70,23 @@ word_by_word:
     translation: of
     transliteration: min
   16:
-    arabic: اَخۡبَارِكُمۡ​ ؕ
+    arabic: أَخۡبَارِكُمۡۚ
     translation: your news
     transliteration: akhbārikum
   17:
-    arabic: وَ سَيَرَى
+    arabic: وَسَيَرَى
     translation: and Allah will see
     transliteration: wasayarā
   18:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: and Allah will see
     transliteration: l-lahu
   19:
-    arabic: عَمَلَـكُمۡ
+    arabic: عَمَلَكُمۡ
     translation: your deeds
     transliteration: ʿamalakum
   20:
-    arabic: وَرَسُوۡلُهٗ
+    arabic: وَرَسُولُهُۥ
     translation: and His Messenger
     transliteration: warasūluhu
   21:
@@ -94,27 +94,27 @@ word_by_word:
     translation: Then
     transliteration: thumma
   22:
-    arabic: تُرَدُّوۡنَ
+    arabic: تُرَدُّونَ
     translation: you will be brought back
     transliteration: turaddūna
   23:
-    arabic: اِلٰى
+    arabic: إِلَىٰ
     translation: to
     transliteration: ilā
   24:
-    arabic: عٰلِمِ
+    arabic: عَٰلِمِ
     translation: (the) Knower
     transliteration: ʿālimi
   25:
-    arabic: الۡغَيۡبِ
+    arabic: ٱلۡغَيۡبِ
     translation: (of) the unseen
     transliteration: l-ghaybi
   26:
-    arabic: وَالشَّهَادَةِ
+    arabic: وَٱلشَّهَٰدَةِ
     translation: and the seen
     transliteration: wal-shahādati
   27:
-    arabic: فَيُنَبِّئُكُمۡ
+    arabic: فَيُنَبِّئُكُم
     translation: then He will inform you
     transliteration: fayunabbi-ukum
   28:
@@ -122,11 +122,11 @@ word_by_word:
     translation: of what
     transliteration: bimā
   29:
-    arabic: كُنۡتُمۡ
+    arabic: كُنتُمۡ
     translation: you used (to)
     transliteration: kuntum
   30:
-    arabic: تَعۡمَلُوۡنَ‏
+    arabic: تَعۡمَلُونَ
     translation: do
     transliteration: taʿmalūna
 ---

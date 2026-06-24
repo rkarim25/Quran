@@ -1,12 +1,12 @@
 ---
-arabic_ayat: يَوۡمَٮِٕذٍ لَّا تَنۡفَعُ الشَّفَاعَةُ اِلَّا مَنۡ اَذِنَ لَـهُ الرَّحۡمٰنُ
-  وَرَضِىَ لَـهٗ قَوۡلًا‏
+arabic_ayat: يَوۡمَئِذٖ لَّا تَنفَعُ ٱلشَّفَٰعَةُ إِلَّا مَنۡ أَذِنَ لَهُ ٱلرَّحۡمَٰنُ
+  وَرَضِيَ لَهُۥ قَوۡلٗا
 sentence_translation: On that Day no intercession will be of any benefit, except by
   those granted permission by the Most Compassionate and whose words are agreeable
   to Him.
 word_by_word:
   1:
-    arabic: يَوۡمَٮِٕذٍ
+    arabic: يَوۡمَئِذٖ
     translation: (On) that Day
     transliteration: yawma-idhin
   2:
@@ -14,15 +14,15 @@ word_by_word:
     translation: not
     transliteration: lā
   3:
-    arabic: تَنۡفَعُ
+    arabic: تَنفَعُ
     translation: will benefit
     transliteration: tanfaʿu
   4:
-    arabic: الشَّفَاعَةُ
+    arabic: ٱلشَّفَٰعَةُ
     translation: the intercession
     transliteration: l-shafāʿatu
   5:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   6:
@@ -30,27 +30,27 @@ word_by_word:
     translation: (to) whom
     transliteration: man
   7:
-    arabic: اَذِنَ
+    arabic: أَذِنَ
     translation: has given permission
     transliteration: adhina
   8:
-    arabic: لَـهُ
+    arabic: لَهُ
     translation: '[to him]'
     transliteration: lahu
   9:
-    arabic: الرَّحۡمٰنُ
+    arabic: ٱلرَّحۡمَٰنُ
     translation: the Most Gracious
     transliteration: l-raḥmānu
   10:
-    arabic: وَرَضِىَ
+    arabic: وَرَضِيَ
     translation: and He has accepted
     transliteration: waraḍiya
   11:
-    arabic: لَـهٗ
+    arabic: لَهُۥ
     translation: for him
     transliteration: lahu
   12:
-    arabic: قَوۡلًا‏
+    arabic: قَوۡلٗا
     translation: a word
     transliteration: qawlan
 ---

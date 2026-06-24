@@ -1,7 +1,6 @@
 ---
-arabic_ayat: "وَتَرَى الۡجِبَالَ تَحۡسَبُهَا جَامِدَةً وَّهِىَ تَمُرُّ مَرَّ السَّحَابِ​ؕ\
-  \ صُنۡعَ اللّٰهِ الَّذِىۡۤ اَتۡقَنَ كُلَّ شَىۡءٍ​ؕ اِنَّهٗ خَبِيۡرٌۢ بِمَا تَفۡعَلُوۡنَ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: وَتَرَى ٱلۡجِبَالَ تَحۡسَبُهَا جَامِدَةٗ وَهِيَ تَمُرُّ مَرَّ ٱلسَّحَابِۚ
+  صُنۡعَ ٱللَّهِ ٱلَّذِيٓ أَتۡقَنَ كُلَّ شَيۡءٍۚ إِنَّهُۥ خَبِيرُۢ بِمَا تَفۡعَلُونَ
 sentence_translation: Now you see the mountains, thinking they are firmly fixed, but
   they are travelling ˹just˺ like clouds. ˹That is˺ the design of Allah, Who has perfected
   everything. Surely He is All-Aware of what you do.
@@ -11,7 +10,7 @@ word_by_word:
     translation: And you see
     transliteration: watarā
   2:
-    arabic: الۡجِبَالَ
+    arabic: ٱلۡجِبَالَ
     translation: the mountains
     transliteration: l-jibāla
   3:
@@ -19,11 +18,11 @@ word_by_word:
     translation: thinking them
     transliteration: taḥsabuhā
   4:
-    arabic: جَامِدَةً
+    arabic: جَامِدَةٗ
     translation: firmly fixed
     transliteration: jāmidatan
   5:
-    arabic: وَّهِىَ
+    arabic: وَهِيَ
     translation: while they
     transliteration: wahiya
   6:
@@ -35,7 +34,7 @@ word_by_word:
     translation: (as the) passing
     transliteration: marra
   8:
-    arabic: السَّحَابِ​ؕ
+    arabic: ٱلسَّحَابِۚ
     translation: (of) the clouds
     transliteration: l-saḥābi
   9:
@@ -43,15 +42,15 @@ word_by_word:
     translation: (The) Work
     transliteration: ṣun'ʿa
   10:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (of) Allah
     transliteration: l-lahi
   11:
-    arabic: الَّذِىۡۤ
+    arabic: ٱلَّذِيٓ
     translation: Who
     transliteration: alladhī
   12:
-    arabic: اَتۡقَنَ
+    arabic: أَتۡقَنَ
     translation: perfected
     transliteration: atqana
   13:
@@ -59,15 +58,15 @@ word_by_word:
     translation: all
     transliteration: kulla
   14:
-    arabic: شَىۡءٍ​ؕ
+    arabic: شَيۡءٍۚ
     translation: things
     transliteration: shayin
   15:
-    arabic: اِنَّهٗ
+    arabic: إِنَّهُۥ
     translation: Indeed, He
     transliteration: innahu
   16:
-    arabic: خَبِيۡرٌۢ
+    arabic: خَبِيرُۢ
     translation: (is) All-Aware
     transliteration: khabīrun
   17:
@@ -75,7 +74,7 @@ word_by_word:
     translation: of what
     transliteration: bimā
   18:
-    arabic: "تَفۡعَلُوۡنَ‏ \uFEFF\uFEFF"
+    arabic: تَفۡعَلُونَ
     translation: you do
     transliteration: tafʿalūna
 ---

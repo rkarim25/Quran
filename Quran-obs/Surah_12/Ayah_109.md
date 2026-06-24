@@ -1,8 +1,8 @@
 ---
-arabic_ayat: وَمَاۤ اَرۡسَلۡنَا مِنۡ قَبۡلِكَ اِلَّا رِجَالًا نُّوۡحِىۡۤ اِلَيۡهِمۡ
-  مِّنۡ اَهۡلِ الۡقُرٰى​ؕ اَفَلَمۡ يَسِيۡرُوۡا فِى الۡاَرۡضِ فَيَنۡظُرُوۡا كَيۡفَ
-  كَانَ عَاقِبَةُ الَّذِيۡنَ مِنۡ قَبۡلِهِمۡؕ وَلَدَارُ الۡاٰخِرَةِ خَيۡرٌ لِّـلَّذِيۡنَ
-  اتَّقَوۡا ​ؕ اَفَلَا تَعۡقِلُوۡنَ‏
+arabic_ayat: وَمَآ أَرۡسَلۡنَا مِن قَبۡلِكَ إِلَّا رِجَالٗا نُّوحِيٓ إِلَيۡهِم مِّنۡ
+  أَهۡلِ ٱلۡقُرَىٰٓۗ أَفَلَمۡ يَسِيرُواْ فِي ٱلۡأَرۡضِ فَيَنظُرُواْ كَيۡفَ كَانَ عَٰقِبَةُ
+  ٱلَّذِينَ مِن قَبۡلِهِمۡۗ وَلَدَارُ ٱلۡأٓخِرَةِ خَيۡرٞ لِّلَّذِينَ ٱتَّقَوۡاْۚ أَفَلَا
+  تَعۡقِلُونَ
 sentence_translation: We only sent before you ˹O Prophet˺ men inspired by Us from
   among the people of each society. Have the deniers not travelled through the land
   to see what was the end of those ˹destroyed˺ before them? And surely the ˹eternal˺
@@ -10,15 +10,15 @@ sentence_translation: We only sent before you ˹O Prophet˺ men inspired by Us f
   understand?
 word_by_word:
   1:
-    arabic: وَمَاۤ
+    arabic: وَمَآ
     translation: And not
     transliteration: wamā
   2:
-    arabic: اَرۡسَلۡنَا
+    arabic: أَرۡسَلۡنَا
     translation: We sent
     transliteration: arsalnā
   3:
-    arabic: مِنۡ
+    arabic: مِن
     translation: before you
     transliteration: min
   4:
@@ -26,19 +26,19 @@ word_by_word:
     translation: before you
     transliteration: qablika
   5:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: but
     transliteration: illā
   6:
-    arabic: رِجَالًا
+    arabic: رِجَالٗا
     translation: men
     transliteration: rijālan
   7:
-    arabic: نُّوۡحِىۡۤ
+    arabic: نُّوحِيٓ
     translation: We revealed
     transliteration: nūḥī
   8:
-    arabic: اِلَيۡهِمۡ
+    arabic: إِلَيۡهِم
     translation: to them
     transliteration: ilayhim
   9:
@@ -46,31 +46,31 @@ word_by_word:
     translation: from (among)
     transliteration: min
   10:
-    arabic: اَهۡلِ
+    arabic: أَهۡلِ
     translation: (the) people
     transliteration: ahli
   11:
-    arabic: الۡقُرٰى​ؕ
+    arabic: ٱلۡقُرَىٰٓۗ
     translation: (of) the townships
     transliteration: l-qurā
   12:
-    arabic: اَفَلَمۡ
+    arabic: أَفَلَمۡ
     translation: So have not
     transliteration: afalam
   13:
-    arabic: يَسِيۡرُوۡا
+    arabic: يَسِيرُواْ
     translation: they traveled
     transliteration: yasīrū
   14:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   15:
-    arabic: الۡاَرۡضِ
+    arabic: ٱلۡأَرۡضِ
     translation: the earth
     transliteration: l-arḍi
   16:
-    arabic: فَيَنۡظُرُوۡا
+    arabic: فَيَنظُرُواْ
     translation: and seen
     transliteration: fayanẓurū
   17:
@@ -82,19 +82,19 @@ word_by_word:
     translation: was
     transliteration: kāna
   19:
-    arabic: عَاقِبَةُ
+    arabic: عَٰقِبَةُ
     translation: (the) end
     transliteration: ʿāqibatu
   20:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: (of) those who
     transliteration: alladhīna
   21:
-    arabic: مِنۡ
+    arabic: مِن
     translation: (were) before them
     transliteration: min
   22:
-    arabic: قَبۡلِهِمۡؕ
+    arabic: قَبۡلِهِمۡۗ
     translation: (were) before them
     transliteration: qablihim
   23:
@@ -102,27 +102,27 @@ word_by_word:
     translation: And surely the home
     transliteration: waladāru
   24:
-    arabic: الۡاٰخِرَةِ
+    arabic: ٱلۡأٓخِرَةِ
     translation: (of) the Hereafter
     transliteration: l-ākhirati
   25:
-    arabic: خَيۡرٌ
+    arabic: خَيۡرٞ
     translation: (is) best
     transliteration: khayrun
   26:
-    arabic: لِّـلَّذِيۡنَ
+    arabic: لِّلَّذِينَ
     translation: for those who
     transliteration: lilladhīna
   27:
-    arabic: اتَّقَوۡا ​ؕ
+    arabic: ٱتَّقَوۡاْۚ
     translation: fear Allah
     transliteration: ittaqaw
   28:
-    arabic: اَفَلَا
+    arabic: أَفَلَا
     translation: Then will not
     transliteration: afalā
   29:
-    arabic: تَعۡقِلُوۡنَ‏
+    arabic: تَعۡقِلُونَ
     translation: you use reason
     transliteration: taʿqilūna
 ---

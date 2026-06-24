@@ -1,23 +1,23 @@
 ---
-arabic_ayat: "وَعَنَتِ الۡوُجُوۡهُ لِلۡحَىِّ الۡقَيُّوۡمِ​ؕ وَقَدۡ خَابَ مَنۡ حَمَلَ\
-  \ ظُلۡمًا‏ \uFEFF\uFEFF"
+arabic_ayat: ۞ وَعَنَتِ ٱلۡوُجُوهُ لِلۡحَيِّ ٱلۡقَيُّومِۖ وَقَدۡ خَابَ مَنۡ حَمَلَ
+  ظُلۡمٗا
 sentence_translation: And all faces will be humbled before the Ever-Living, All-Sustaining.
   And those burdened with wrongdoing will be in loss.
 word_by_word:
   1:
-    arabic: ۞ وَعَنَتِ
+    arabic: ۞ وَعَنَتِ
     translation: And (will be) humbled
     transliteration: waʿanati
   2:
-    arabic: الۡوُجُوۡهُ
+    arabic: ٱلۡوُجُوهُ
     translation: the faces
     transliteration: l-wujūhu
   3:
-    arabic: لِلۡحَىِّ
+    arabic: لِلۡحَيِّ
     translation: before the Ever-Living
     transliteration: lil'ḥayyi
   4:
-    arabic: الۡقَيُّوۡمِ​ؕ
+    arabic: ٱلۡقَيُّومِۖ
     translation: the Self-Subsisting
     transliteration: l-qayūmi
   5:
@@ -37,7 +37,7 @@ word_by_word:
     translation: carried
     transliteration: ḥamala
   9:
-    arabic: "ظُلۡمًا‏ \uFEFF\uFEFF"
+    arabic: ظُلۡمٗا
     translation: wrongdoing
     transliteration: ẓul'man
 ---

@@ -1,19 +1,19 @@
 ---
-arabic_ayat: وَقُرۡاٰنًا فَرَقۡنٰهُ لِتَقۡرَاَهٗ عَلَى النَّاسِ عَلٰى مُكۡثٍ وَّنَزَّلۡنٰهُ
-  تَنۡزِيۡلًا‏
+arabic_ayat: وَقُرۡءَانٗا فَرَقۡنَٰهُ لِتَقۡرَأَهُۥ عَلَى ٱلنَّاسِ عَلَىٰ مُكۡثٖ وَنَزَّلۡنَٰهُ
+  تَنزِيلٗا
 sentence_translation: ˹It is˺ a Quran We have revealed in stages so that you may recite
   it to people at a deliberate pace. And We have sent it down in successive revelations.
 word_by_word:
   1:
-    arabic: وَقُرۡاٰنًا
+    arabic: وَقُرۡءَانٗا
     translation: And the Quran
     transliteration: waqur'ānan
   2:
-    arabic: فَرَقۡنٰهُ
+    arabic: فَرَقۡنَٰهُ
     translation: We have divided
     transliteration: faraqnāhu
   3:
-    arabic: لِتَقۡرَاَهٗ
+    arabic: لِتَقۡرَأَهُۥ
     translation: that you might recite it
     transliteration: litaqra-ahu
   4:
@@ -21,23 +21,23 @@ word_by_word:
     translation: to
     transliteration: ʿalā
   5:
-    arabic: النَّاسِ
+    arabic: ٱلنَّاسِ
     translation: the people
     transliteration: l-nāsi
   6:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: at
     transliteration: ʿalā
   7:
-    arabic: مُكۡثٍ
+    arabic: مُكۡثٖ
     translation: intervals
     transliteration: muk'thin
   8:
-    arabic: وَّنَزَّلۡنٰهُ
+    arabic: وَنَزَّلۡنَٰهُ
     translation: And We have revealed it
     transliteration: wanazzalnāhu
   9:
-    arabic: تَنۡزِيۡلًا‏
+    arabic: تَنزِيلٗا
     translation: (in) stages
     transliteration: tanzīlan
 ---

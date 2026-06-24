@@ -1,13 +1,13 @@
 ---
-arabic_ayat: فَنَبَذۡنٰهُ بِالۡعَرَآءِ وَهُوَ سَقِيۡمٌ​ۚ‏
+arabic_ayat: ۞ فَنَبَذۡنَٰهُ بِٱلۡعَرَآءِ وَهُوَ سَقِيمٞ
 sentence_translation: But We cast him onto the open ˹shore˺, ˹totally˺ worn out,
 word_by_word:
   1:
-    arabic: ۞ فَنَبَذۡنٰهُ
+    arabic: ۞ فَنَبَذۡنَٰهُ
     translation: But We cast him
     transliteration: fanabadhnāhu
   2:
-    arabic: بِالۡعَرَآءِ
+    arabic: بِٱلۡعَرَآءِ
     translation: onto the open shore
     transliteration: bil-ʿarāi
   3:
@@ -15,7 +15,7 @@ word_by_word:
     translation: while he
     transliteration: wahuwa
   4:
-    arabic: سَقِيۡمٌ​ۚ‏
+    arabic: سَقِيمٞ
     translation: (was) ill
     transliteration: saqīmun
 ---

@@ -1,17 +1,17 @@
 ---
-arabic_ayat: وَقِفُوۡهُمۡ​ اِنَّهُمۡ مَّسْـُٔـوۡلُوۡنَۙ‏
+arabic_ayat: وَقِفُوهُمۡۖ إِنَّهُم مَّسۡـُٔولُونَ
 sentence_translation: And detain them, for they must be questioned.”
 word_by_word:
   1:
-    arabic: وَقِفُوۡهُمۡ​
+    arabic: وَقِفُوهُمۡۖ
     translation: And stop them
     transliteration: waqifūhum
   2:
-    arabic: اِنَّهُمۡ
+    arabic: إِنَّهُم
     translation: indeed, they
     transliteration: innahum
   3:
-    arabic: مَّسْـُٔـوۡلُوۡنَۙ‏
+    arabic: مَّسۡـُٔولُونَ
     translation: (are) to be questioned
     transliteration: masūlūna
 ---

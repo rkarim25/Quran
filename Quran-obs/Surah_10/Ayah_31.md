@@ -1,8 +1,7 @@
 ---
-arabic_ayat: قُلۡ مَنۡ يَّرۡزُقُكُمۡ مِّنَ السَّمَآءِ وَالۡاَرۡضِ اَمَّنۡ يَّمۡلِكُ
-  السَّمۡعَ وَالۡاَبۡصَارَ وَ مَنۡ يُّخۡرِجُ الۡحَـىَّ مِنَ الۡمَيِّتِ وَيُخۡرِجُ
-  الۡمَيِّتَ مِنَ الۡحَـىِّ وَمَنۡ يُّدَبِّرُ الۡاَمۡرَ​ؕ فَسَيَـقُوۡلُوۡنَ اللّٰهُ​ۚ
-  فَقُلۡ اَفَلَا تَتَّقُوۡنَ‏
+arabic_ayat: قُلۡ مَن يَرۡزُقُكُم مِّنَ ٱلسَّمَآءِ وَٱلۡأَرۡضِ أَمَّن يَمۡلِكُ ٱلسَّمۡعَ
+  وَٱلۡأَبۡصَٰرَ وَمَن يُخۡرِجُ ٱلۡحَيَّ مِنَ ٱلۡمَيِّتِ وَيُخۡرِجُ ٱلۡمَيِّتَ مِنَ
+  ٱلۡحَيِّ وَمَن يُدَبِّرُ ٱلۡأَمۡرَۚ فَسَيَقُولُونَ ٱللَّهُۚ فَقُلۡ أَفَلَا تَتَّقُونَ
 sentence_translation: Ask ˹them, O  Prophet˺, “Who provides for you from heaven and
   earth? Who owns ˹your˺ hearing and sight? Who brings forth the living from the dead
   and the dead from the living? And who conducts every affair?” They will ˹surely˺
@@ -13,11 +12,11 @@ word_by_word:
     translation: Say
     transliteration: qul
   2:
-    arabic: مَنۡ
+    arabic: مَن
     translation: Who
     transliteration: man
   3:
-    arabic: يَّرۡزُقُكُمۡ
+    arabic: يَرۡزُقُكُم
     translation: provides for you
     transliteration: yarzuqukum
   4:
@@ -25,39 +24,39 @@ word_by_word:
     translation: from
     transliteration: mina
   5:
-    arabic: السَّمَآءِ
+    arabic: ٱلسَّمَآءِ
     translation: the sky
     transliteration: l-samāi
   6:
-    arabic: وَالۡاَرۡضِ
+    arabic: وَٱلۡأَرۡضِ
     translation: and the earth
     transliteration: wal-arḍi
   7:
-    arabic: اَمَّنۡ
+    arabic: أَمَّن
     translation: Or who
     transliteration: amman
   8:
-    arabic: يَّمۡلِكُ
+    arabic: يَمۡلِكُ
     translation: controls
     transliteration: yamliku
   9:
-    arabic: السَّمۡعَ
+    arabic: ٱلسَّمۡعَ
     translation: the hearing
     transliteration: l-samʿa
   10:
-    arabic: وَالۡاَبۡصَارَ
+    arabic: وَٱلۡأَبۡصَٰرَ
     translation: and the sight
     transliteration: wal-abṣāra
   11:
-    arabic: وَ مَنۡ
+    arabic: وَمَن
     translation: And who
     transliteration: waman
   12:
-    arabic: يُّخۡرِجُ
+    arabic: يُخۡرِجُ
     translation: brings out
     transliteration: yukh'riju
   13:
-    arabic: الۡحَـىَّ
+    arabic: ٱلۡحَيَّ
     translation: the living
     transliteration: l-ḥaya
   14:
@@ -65,7 +64,7 @@ word_by_word:
     translation: from
     transliteration: mina
   15:
-    arabic: الۡمَيِّتِ
+    arabic: ٱلۡمَيِّتِ
     translation: the dead
     transliteration: l-mayiti
   16:
@@ -73,7 +72,7 @@ word_by_word:
     translation: and brings forth
     transliteration: wayukh'riju
   17:
-    arabic: الۡمَيِّتَ
+    arabic: ٱلۡمَيِّتَ
     translation: the dead
     transliteration: l-mayita
   18:
@@ -81,27 +80,27 @@ word_by_word:
     translation: from
     transliteration: mina
   19:
-    arabic: الۡحَـىِّ
+    arabic: ٱلۡحَيِّ
     translation: the living
     transliteration: l-ḥayi
   20:
-    arabic: وَمَنۡ
+    arabic: وَمَن
     translation: And who
     transliteration: waman
   21:
-    arabic: يُّدَبِّرُ
+    arabic: يُدَبِّرُ
     translation: disposes
     transliteration: yudabbiru
   22:
-    arabic: الۡاَمۡرَ​ؕ
+    arabic: ٱلۡأَمۡرَۚ
     translation: the affairs
     transliteration: l-amra
   23:
-    arabic: فَسَيَـقُوۡلُوۡنَ
+    arabic: فَسَيَقُولُونَ
     translation: Then they will say
     transliteration: fasayaqūlūna
   24:
-    arabic: اللّٰهُ​ۚ
+    arabic: ٱللَّهُۚ
     translation: Allah
     transliteration: l-lahu
   25:
@@ -109,11 +108,11 @@ word_by_word:
     translation: Then say
     transliteration: faqul
   26:
-    arabic: اَفَلَا
+    arabic: أَفَلَا
     translation: Then will not
     transliteration: afalā
   27:
-    arabic: تَتَّقُوۡنَ‏
+    arabic: تَتَّقُونَ
     translation: you fear (Him)
     transliteration: tattaqūna
 ---

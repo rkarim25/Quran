@@ -1,12 +1,12 @@
 ---
-arabic_ayat: وَكُلًّا نَّقُصُّ عَلَيۡكَ مِنۡ اَنۡۢبَآءِ الرُّسُلِ مَا نُثَبِّتُ بِهٖ
-  فُؤَادَكَ​ ۚ وَجَآءَكَ فِىۡ هٰذِهِ الۡحَـقُّ وَمَوۡعِظَةٌ وَّذِكۡرٰى لِلۡمُؤۡمِنِيۡنَ‏
+arabic_ayat: وَكُلّٗا نَّقُصُّ عَلَيۡكَ مِنۡ أَنۢبَآءِ ٱلرُّسُلِ مَا نُثَبِّتُ بِهِۦ
+  فُؤَادَكَۚ وَجَآءَكَ فِي هَٰذِهِ ٱلۡحَقُّ وَمَوۡعِظَةٞ وَذِكۡرَىٰ لِلۡمُؤۡمِنِينَ
 sentence_translation: And We relate to you ˹O Prophet˺ the stories of the messengers
   to reassure your heart. And there has come to you in this ˹sûrah˺ the truth, a warning
   ˹to the disbelievers˺, and a reminder to the believers.
 word_by_word:
   1:
-    arabic: وَكُلًّا
+    arabic: وَكُلّٗا
     translation: And each
     transliteration: wakullan
   2:
@@ -22,11 +22,11 @@ word_by_word:
     translation: of
     transliteration: min
   5:
-    arabic: اَنۡۢبَآءِ
+    arabic: أَنۢبَآءِ
     translation: (the) news
     transliteration: anbāi
   6:
-    arabic: الرُّسُلِ
+    arabic: ٱلرُّسُلِ
     translation: (of) the Messengers
     transliteration: l-rusuli
   7:
@@ -38,11 +38,11 @@ word_by_word:
     translation: We may make firm
     transliteration: nuthabbitu
   9:
-    arabic: بِهٖ
+    arabic: بِهِۦ
     translation: with it
     transliteration: bihi
   10:
-    arabic: فُؤَادَكَ​ ۚ
+    arabic: فُؤَادَكَۚ
     translation: your heart
     transliteration: fuādaka
   11:
@@ -50,27 +50,27 @@ word_by_word:
     translation: And has come to you
     transliteration: wajāaka
   12:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   13:
-    arabic: هٰذِهِ
+    arabic: هَٰذِهِ
     translation: this
     transliteration: hādhihi
   14:
-    arabic: الۡحَـقُّ
+    arabic: ٱلۡحَقُّ
     translation: the truth
     transliteration: l-ḥaqu
   15:
-    arabic: وَمَوۡعِظَةٌ
+    arabic: وَمَوۡعِظَةٞ
     translation: and an admonition
     transliteration: wamawʿiẓatun
   16:
-    arabic: وَّذِكۡرٰى
+    arabic: وَذِكۡرَىٰ
     translation: and a reminder
     transliteration: wadhik'rā
   17:
-    arabic: لِلۡمُؤۡمِنِيۡنَ‏
+    arabic: لِلۡمُؤۡمِنِينَ
     translation: for the believers
     transliteration: lil'mu'minīna
 ---

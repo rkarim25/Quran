@@ -1,43 +1,43 @@
 ---
-arabic_ayat: وَاللّٰهُ اَعۡلَمُ بِاَعۡدَآٮِٕكُمۡ​ؕ وَكَفٰى بِاللّٰهِ وَلِيًّا وَّكَفٰى
-  بِاللّٰهِ نَصِيۡرًا‏
+arabic_ayat: وَٱللَّهُ أَعۡلَمُ بِأَعۡدَآئِكُمۡۚ وَكَفَىٰ بِٱللَّهِ وَلِيّٗا وَكَفَىٰ
+  بِٱللَّهِ نَصِيرٗا
 sentence_translation: Allah knows best who your enemies are! And Allah is sufficient
   as a Guardian, and He is sufficient as a Helper.
 word_by_word:
   1:
-    arabic: وَاللّٰهُ
+    arabic: وَٱللَّهُ
     translation: And Allah
     transliteration: wal-lahu
   2:
-    arabic: اَعۡلَمُ
+    arabic: أَعۡلَمُ
     translation: knows better
     transliteration: aʿlamu
   3:
-    arabic: بِاَعۡدَآٮِٕكُمۡ​ؕ
+    arabic: بِأَعۡدَآئِكُمۡۚ
     translation: about your enemies
     transliteration: bi-aʿdāikum
   4:
-    arabic: وَكَفٰى
+    arabic: وَكَفَىٰ
     translation: and (is) sufficient
     transliteration: wakafā
   5:
-    arabic: بِاللّٰهِ
+    arabic: بِٱللَّهِ
     translation: Allah
     transliteration: bil-lahi
   6:
-    arabic: وَلِيًّا
+    arabic: وَلِيّٗا
     translation: (as) a Protector
     transliteration: waliyyan
   7:
-    arabic: وَّكَفٰى
+    arabic: وَكَفَىٰ
     translation: and sufficient
     transliteration: wakafā
   8:
-    arabic: بِاللّٰهِ
+    arabic: بِٱللَّهِ
     translation: (is) Allah
     transliteration: bil-lahi
   9:
-    arabic: نَصِيۡرًا‏
+    arabic: نَصِيرٗا
     translation: (as) a Helper
     transliteration: naṣīran
 ---

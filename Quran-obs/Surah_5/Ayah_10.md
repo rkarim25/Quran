@@ -1,35 +1,35 @@
 ---
-arabic_ayat: "وَالَّذِيۡنَ كَفَرُوۡا وَكَذَّبُوۡا بِاٰيٰتِنَاۤ اُولٰٓٮِٕكَ اَصۡحٰبُ\
-  \ الۡجَحِيۡمِ‏ \uFEFF\uFEFF"
+arabic_ayat: وَٱلَّذِينَ كَفَرُواْ وَكَذَّبُواْ بِـَٔايَٰتِنَآ أُوْلَٰٓئِكَ أَصۡحَٰبُ
+  ٱلۡجَحِيمِ
 sentence_translation: As for those who disbelieve and deny Our signs, they are the
   residents of the Hellfire.
 word_by_word:
   1:
-    arabic: وَالَّذِيۡنَ
+    arabic: وَٱلَّذِينَ
     translation: And those who
     transliteration: wa-alladhīna
   2:
-    arabic: كَفَرُوۡا
+    arabic: كَفَرُواْ
     translation: disbelieve
     transliteration: kafarū
   3:
-    arabic: وَكَذَّبُوۡا
+    arabic: وَكَذَّبُواْ
     translation: and deny
     transliteration: wakadhabū
   4:
-    arabic: بِاٰيٰتِنَاۤ
+    arabic: بِـَٔايَٰتِنَآ
     translation: 'Our Signs '
     transliteration: biāyātinā
   5:
-    arabic: اُولٰٓٮِٕكَ
+    arabic: أُوْلَٰٓئِكَ
     translation: those
     transliteration: ulāika
   6:
-    arabic: اَصۡحٰبُ
+    arabic: أَصۡحَٰبُ
     translation: (are the) companions
     transliteration: aṣḥābu
   7:
-    arabic: "الۡجَحِيۡمِ‏ \uFEFF\uFEFF"
+    arabic: ٱلۡجَحِيمِ
     translation: (of) the Hellfire
     transliteration: l-jaḥīmi
 ---

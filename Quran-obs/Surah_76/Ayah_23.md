@@ -1,10 +1,10 @@
 ---
-arabic_ayat: اِنَّا نَحۡنُ نَزَّلۡنَا عَلَيۡكَ الۡقُرۡاٰنَ تَنۡزِيۡلًا ۚ‏
+arabic_ayat: إِنَّا نَحۡنُ نَزَّلۡنَا عَلَيۡكَ ٱلۡقُرۡءَانَ تَنزِيلٗا
 sentence_translation: Indeed, it is We Who have revealed the Quran to you ˹O Prophet˺
   in stages.
 word_by_word:
   1:
-    arabic: اِنَّا
+    arabic: إِنَّا
     translation: Indeed, We
     transliteration: innā
   2:
@@ -20,11 +20,11 @@ word_by_word:
     translation: to you
     transliteration: ʿalayka
   5:
-    arabic: الۡقُرۡاٰنَ
+    arabic: ٱلۡقُرۡءَانَ
     translation: the Quran
     transliteration: l-qur'āna
   6:
-    arabic: تَنۡزِيۡلًا ۚ‏
+    arabic: تَنزِيلٗا
     translation: progressively
     transliteration: tanzīlan
 ---

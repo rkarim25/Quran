@@ -1,9 +1,9 @@
 ---
-arabic_ayat: اِنَّهٗ كَانَ فِىۡۤ اَهۡلِهٖ مَسۡرُوۡرًا ؕ‏
+arabic_ayat: إِنَّهُۥ كَانَ فِيٓ أَهۡلِهِۦ مَسۡرُورًا
 sentence_translation: For they used to be prideful among their people,
 word_by_word:
   1:
-    arabic: اِنَّهٗ
+    arabic: إِنَّهُۥ
     translation: Indeed, he
     transliteration: innahu
   2:
@@ -11,15 +11,15 @@ word_by_word:
     translation: had been
     transliteration: kāna
   3:
-    arabic: فِىۡۤ
+    arabic: فِيٓ
     translation: among
     transliteration: fī
   4:
-    arabic: اَهۡلِهٖ
+    arabic: أَهۡلِهِۦ
     translation: his people
     transliteration: ahlihi
   5:
-    arabic: مَسۡرُوۡرًا ؕ‏
+    arabic: مَسۡرُورًا
     translation: happy
     transliteration: masrūran
 ---

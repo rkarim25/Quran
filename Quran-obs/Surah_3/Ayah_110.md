@@ -1,14 +1,13 @@
 ---
-arabic_ayat: "كُنۡتُمۡ خَيۡرَ اُمَّةٍ اُخۡرِجَتۡ لِلنَّاسِ تَاۡمُرُوۡنَ بِالۡمَعۡرُوۡفِ\
-  \ وَتَنۡهَوۡنَ عَنِ الۡمُنۡكَرِ وَتُؤۡمِنُوۡنَ بِاللّٰهِ​ؕ وَلَوۡ اٰمَنَ اَهۡلُ\
-  \ الۡكِتٰبِ لَڪَانَ خَيۡرًا لَّهُمۡ​ؕ مِنۡهُمُ الۡمُؤۡمِنُوۡنَ وَاَكۡثَرُهُمُ الۡفٰسِقُوۡنَ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: كُنتُمۡ خَيۡرَ أُمَّةٍ أُخۡرِجَتۡ لِلنَّاسِ تَأۡمُرُونَ بِٱلۡمَعۡرُوفِ
+  وَتَنۡهَوۡنَ عَنِ ٱلۡمُنكَرِ وَتُؤۡمِنُونَ بِٱللَّهِۗ وَلَوۡ ءَامَنَ أَهۡلُ ٱلۡكِتَٰبِ
+  لَكَانَ خَيۡرٗا لَّهُمۚ مِّنۡهُمُ ٱلۡمُؤۡمِنُونَ وَأَكۡثَرُهُمُ ٱلۡفَٰسِقُونَ
 sentence_translation: You are the best community ever raised for humanity—you encourage
   good, forbid evil, and believe in Allah. Had the People of the Book believed, it
   would have been better for them. Some of them are faithful, but most are rebellious.
 word_by_word:
   1:
-    arabic: كُنۡتُمۡ
+    arabic: كُنتُمۡ
     translation: You are
     transliteration: kuntum
   2:
@@ -16,11 +15,11 @@ word_by_word:
     translation: (the) best
     transliteration: khayra
   3:
-    arabic: اُمَّةٍ
+    arabic: أُمَّةٍ
     translation: (of) people
     transliteration: ummatin
   4:
-    arabic: اُخۡرِجَتۡ
+    arabic: أُخۡرِجَتۡ
     translation: raised
     transliteration: ukh'rijat
   5:
@@ -28,11 +27,11 @@ word_by_word:
     translation: 'for the mankind '
     transliteration: lilnnāsi
   6:
-    arabic: تَاۡمُرُوۡنَ
+    arabic: تَأۡمُرُونَ
     translation: enjoining
     transliteration: tamurūna
   7:
-    arabic: بِالۡمَعۡرُوۡفِ
+    arabic: بِٱلۡمَعۡرُوفِ
     translation: the right
     transliteration: bil-maʿrūfi
   8:
@@ -44,59 +43,59 @@ word_by_word:
     translation: '[from]'
     transliteration: ʿani
   10:
-    arabic: الۡمُنۡكَرِ
+    arabic: ٱلۡمُنكَرِ
     translation: the wrong
     transliteration: l-munkari
   11:
-    arabic: وَتُؤۡمِنُوۡنَ
+    arabic: وَتُؤۡمِنُونَ
     translation: and believing
     transliteration: watu'minūna
   12:
-    arabic: بِاللّٰهِ​ؕ
+    arabic: بِٱللَّهِۗ
     translation: in Allah
     transliteration: bil-lahi
   13:
-    arabic: وَلَوۡ
+    arabic: وَلَوۡ ءَ
     translation: And if
     transliteration: walaw
   14:
-    arabic: اٰمَنَ
+    arabic: امَنَ
     translation: believed
     transliteration: āmana
   15:
-    arabic: اَهۡلُ
+    arabic: أَهۡلُ
     translation: (the) People
     transliteration: ahlu
   16:
-    arabic: الۡكِتٰبِ
+    arabic: ٱلۡكِتَٰبِ
     translation: (of) the Book
     transliteration: l-kitābi
   17:
-    arabic: لَڪَانَ
+    arabic: لَكَانَ
     translation: surely would have been
     transliteration: lakāna
   18:
-    arabic: خَيۡرًا
+    arabic: خَيۡرٗا
     translation: good
     transliteration: khayran
   19:
-    arabic: لَّهُمۡ​ؕ
+    arabic: لَّهُمۚ
     translation: for them
     transliteration: lahum
   20:
-    arabic: مِنۡهُمُ
+    arabic: مِّنۡهُمُ
     translation: Among them
     transliteration: min'humu
   21:
-    arabic: الۡمُؤۡمِنُوۡنَ
+    arabic: ٱلۡمُؤۡمِنُونَ
     translation: (are) [the] believers
     transliteration: l-mu'minūna
   22:
-    arabic: وَاَكۡثَرُهُمُ
+    arabic: وَأَكۡثَرُهُمُ
     translation: but most of them
     transliteration: wa-aktharuhumu
   23:
-    arabic: "الۡفٰسِقُوۡنَ‏ \uFEFF\uFEFF"
+    arabic: ٱلۡفَٰسِقُونَ
     translation: (are) defiantly disobedient
     transliteration: l-fāsiqūna
 ---

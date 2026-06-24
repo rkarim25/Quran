@@ -1,7 +1,6 @@
 ---
-arabic_ayat: "فَلَوۡلَا نَصَرَهُمُ الَّذِيۡنَ اتَّخَذُوۡا مِنۡ دُوۡنِ اللّٰهِ قُرۡبَانًا\
-  \ اٰلِهَةً ؕ بَلۡ ضَلُّوۡا عَنۡهُمۡ​ۚ وَذٰلِكَ اِفۡكُهُمۡ وَمَا كَانُوۡا يَفۡتَرُوۡنَ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: فَلَوۡلَا نَصَرَهُمُ ٱلَّذِينَ ٱتَّخَذُواْ مِن دُونِ ٱللَّهِ قُرۡبَانًا
+  ءَالِهَةَۢۖ بَلۡ ضَلُّواْ عَنۡهُمۡۚ وَذَٰلِكَ إِفۡكُهُمۡ وَمَا كَانُواْ يَفۡتَرُونَ
 sentence_translation: Why then did those ˹idols˺ they took as gods—hoping to get closer
   ˹to Him˺—not come to their aid? Instead, they failed them. That is ˹the result of˺
   their lies and their fabrications.
@@ -15,31 +14,31 @@ word_by_word:
     translation: help them
     transliteration: naṣarahumu
   3:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those whom
     transliteration: alladhīna
   4:
-    arabic: اتَّخَذُوۡا
+    arabic: ٱتَّخَذُواْ
     translation: they had taken
     transliteration: ittakhadhū
   5:
-    arabic: مِنۡ
+    arabic: مِن
     translation: besides
     transliteration: min
   6:
-    arabic: دُوۡنِ
+    arabic: دُونِ
     translation: besides
     transliteration: dūni
   7:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   8:
-    arabic: قُرۡبَانًا
+    arabic: قُرۡبَانًا ءَ
     translation: gods as a way of approach
     transliteration: qur'bānan
   9:
-    arabic: اٰلِهَةً ؕ
+    arabic: الِهَةَۢۖ
     translation: gods as a way of approach
     transliteration: ālihatan
   10:
@@ -47,19 +46,19 @@ word_by_word:
     translation: Nay
     transliteration: bal
   11:
-    arabic: ضَلُّوۡا
+    arabic: ضَلُّواْ
     translation: they were lost
     transliteration: ḍallū
   12:
-    arabic: عَنۡهُمۡ​ۚ
+    arabic: عَنۡهُمۡۚ
     translation: from them
     transliteration: ʿanhum
   13:
-    arabic: وَذٰلِكَ
+    arabic: وَذَٰلِكَ
     translation: And that
     transliteration: wadhālika
   14:
-    arabic: اِفۡكُهُمۡ
+    arabic: إِفۡكُهُمۡ
     translation: (was) their falsehood
     transliteration: if'kuhum
   15:
@@ -67,11 +66,11 @@ word_by_word:
     translation: and what
     transliteration: wamā
   16:
-    arabic: كَانُوۡا
+    arabic: كَانُواْ
     translation: they were
     transliteration: kānū
   17:
-    arabic: "يَفۡتَرُوۡنَ‏ \uFEFF\uFEFF"
+    arabic: يَفۡتَرُونَ
     translation: inventing
     transliteration: yaftarūna
 ---

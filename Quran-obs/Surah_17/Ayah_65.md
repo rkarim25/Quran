@@ -1,23 +1,22 @@
 ---
-arabic_ayat: "اِنَّ عِبَادِىۡ لَـيۡسَ لَـكَ عَلَيۡهِمۡ سُلۡطٰنٌ​ ؕ وَكَفٰى بِرَبِّكَ\
-  \ وَكِيۡلًا‏ \uFEFF\uFEFF"
+arabic_ayat: إِنَّ عِبَادِي لَيۡسَ لَكَ عَلَيۡهِمۡ سُلۡطَٰنٞۚ وَكَفَىٰ بِرَبِّكَ وَكِيلٗا
 sentence_translation: ˹Allah added,˺ “You will truly have no authority over My ˹faithful˺
   servants.” And sufficient is your Lord as a Guardian.
 word_by_word:
   1:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   2:
-    arabic: عِبَادِىۡ
+    arabic: عِبَادِي
     translation: My slaves
     transliteration: ʿibādī
   3:
-    arabic: لَـيۡسَ
+    arabic: لَيۡسَ
     translation: not
     transliteration: laysa
   4:
-    arabic: لَـكَ
+    arabic: لَكَ
     translation: for you
     transliteration: laka
   5:
@@ -25,11 +24,11 @@ word_by_word:
     translation: over them
     transliteration: ʿalayhim
   6:
-    arabic: سُلۡطٰنٌ​ ؕ
+    arabic: سُلۡطَٰنٞۚ
     translation: any authority
     transliteration: sul'ṭānun
   7:
-    arabic: وَكَفٰى
+    arabic: وَكَفَىٰ
     translation: And sufficient
     transliteration: wakafā
   8:
@@ -37,7 +36,7 @@ word_by_word:
     translation: (is) your Lord
     transliteration: birabbika
   9:
-    arabic: "وَكِيۡلًا‏ \uFEFF\uFEFF"
+    arabic: وَكِيلٗا
     translation: (as) a Guardian
     transliteration: wakīlan
 ---

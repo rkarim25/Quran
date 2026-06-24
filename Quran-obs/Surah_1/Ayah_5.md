@@ -1,9 +1,9 @@
 ---
-arabic_ayat: اِيَّاكَ نَعۡبُدُ وَاِيَّاكَ نَسۡتَعِيۡنُؕ‏
+arabic_ayat: إِيَّاكَ نَعۡبُدُ وَإِيَّاكَ نَسۡتَعِينُ
 sentence_translation: You ˹alone˺ we worship and You ˹alone˺ we ask for help.
 word_by_word:
   1:
-    arabic: اِيَّاكَ
+    arabic: إِيَّاكَ
     translation: You Alone
     transliteration: iyyāka
   2:
@@ -11,11 +11,11 @@ word_by_word:
     translation: we worship
     transliteration: naʿbudu
   3:
-    arabic: وَاِيَّاكَ
+    arabic: وَإِيَّاكَ
     translation: and You Alone
     transliteration: wa-iyyāka
   4:
-    arabic: نَسۡتَعِيۡنُؕ‏
+    arabic: نَسۡتَعِينُ
     translation: we ask for help
     transliteration: nastaʿīnu
 ---

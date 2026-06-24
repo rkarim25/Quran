@@ -1,6 +1,6 @@
 ---
-arabic_ayat: قُلۡ اِنَّنِىۡ هَدٰٮنِىۡ رَبِّىۡۤ اِلٰى صِرَاطٍ مُّسۡتَقِيۡمٍۚ دِيۡنًا
-  قِيَمًا مِّلَّةَ اِبۡرٰهِيۡمَ حَنِيۡفًا​ ۚ وَمَا كَانَ مِنَ الۡمُشۡرِكِيۡنَ‏
+arabic_ayat: قُلۡ إِنَّنِي هَدَىٰنِي رَبِّيٓ إِلَىٰ صِرَٰطٖ مُّسۡتَقِيمٖ دِينٗا قِيَمٗا
+  مِّلَّةَ إِبۡرَٰهِيمَ حَنِيفٗاۚ وَمَا كَانَ مِنَ ٱلۡمُشۡرِكِينَ
 sentence_translation: Say, ˹O Prophet,˺ “Surely my Lord has guided me to the Straight
   Path, a perfect way, the faith of Abraham, the upright, who was not one of the polytheists.”
 word_by_word:
@@ -9,35 +9,35 @@ word_by_word:
     translation: Say
     transliteration: qul
   2:
-    arabic: اِنَّنِىۡ
+    arabic: إِنَّنِي
     translation: Indeed (as for) me
     transliteration: innanī
   3:
-    arabic: هَدٰٮنِىۡ
+    arabic: هَدَىٰنِي
     translation: has guided me
     transliteration: hadānī
   4:
-    arabic: رَبِّىۡۤ
+    arabic: رَبِّيٓ
     translation: my Lord
     transliteration: rabbī
   5:
-    arabic: اِلٰى
+    arabic: إِلَىٰ
     translation: to
     transliteration: ilā
   6:
-    arabic: صِرَاطٍ
+    arabic: صِرَٰطٖ
     translation: a path
     transliteration: ṣirāṭin
   7:
-    arabic: مُّسۡتَقِيۡمٍۚ
+    arabic: مُّسۡتَقِيمٖ
     translation: 'straight '
     transliteration: mus'taqīmin
   8:
-    arabic: دِيۡنًا
+    arabic: دِينٗا
     translation: a religion
     transliteration: dīnan
   9:
-    arabic: قِيَمًا
+    arabic: قِيَمٗا
     translation: right
     transliteration: qiyaman
   10:
@@ -45,11 +45,11 @@ word_by_word:
     translation: religion
     transliteration: millata
   11:
-    arabic: اِبۡرٰهِيۡمَ
+    arabic: إِبۡرَٰهِيمَ
     translation: '(of) Ibrahim '
     transliteration: ib'rāhīma
   12:
-    arabic: حَنِيۡفًا​ ۚ
+    arabic: حَنِيفٗاۚ
     translation: a true monotheist
     transliteration: ḥanīfan
   13:
@@ -65,7 +65,7 @@ word_by_word:
     translation: from
     transliteration: mina
   16:
-    arabic: الۡمُشۡرِكِيۡنَ‏
+    arabic: ٱلۡمُشۡرِكِينَ
     translation: the polytheists
     transliteration: l-mush'rikīna
 ---

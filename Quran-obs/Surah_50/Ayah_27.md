@@ -1,15 +1,15 @@
 ---
-arabic_ayat: "قَالَ قَرِيۡنُهٗ رَبَّنَا مَاۤ اَطۡغَيۡتُهٗ وَلٰـكِنۡ كَانَ فِىۡ ضَلٰلٍۢ\
-  \ بَعِيۡدٍ‏ \uFEFF\uFEFF"
+arabic_ayat: ۞ قَالَ قَرِينُهُۥ رَبَّنَا مَآ أَطۡغَيۡتُهُۥ وَلَٰكِن كَانَ فِي ضَلَٰلِۭ
+  بَعِيدٖ
 sentence_translation: One’s ˹devilish˺ associate will say, “Our Lord! I did not make
   them transgress. Rather, they were far astray ˹on their own˺.”
 word_by_word:
   1:
-    arabic: ۞ قَالَ
+    arabic: ۞ قَالَ
     translation: Will say
     transliteration: qāla
   2:
-    arabic: قَرِيۡنُهٗ
+    arabic: قَرِينُهُۥ
     translation: his companion
     transliteration: qarīnuhu
   3:
@@ -17,15 +17,15 @@ word_by_word:
     translation: Our Lord
     transliteration: rabbanā
   4:
-    arabic: مَاۤ
+    arabic: مَآ
     translation: not
     transliteration: mā
   5:
-    arabic: اَطۡغَيۡتُهٗ
+    arabic: أَطۡغَيۡتُهُۥ
     translation: I made him transgress
     transliteration: aṭghaytuhu
   6:
-    arabic: وَلٰـكِنۡ
+    arabic: وَلَٰكِن
     translation: but
     transliteration: walākin
   7:
@@ -33,15 +33,15 @@ word_by_word:
     translation: he was
     transliteration: kāna
   8:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   9:
-    arabic: ضَلٰلٍۢ
+    arabic: ضَلَٰلِۭ
     translation: error
     transliteration: ḍalālin
   10:
-    arabic: "بَعِيۡدٍ‏ \uFEFF\uFEFF"
+    arabic: بَعِيدٖ
     translation: far
     transliteration: baʿīdin
 ---

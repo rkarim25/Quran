@@ -1,5 +1,5 @@
 ---
-arabic_ayat: وَلَمۡ يَكُنۡ لَّهٗ كُفُوًا اَحَدٌ‏
+arabic_ayat: وَلَمۡ يَكُن لَّهُۥ كُفُوًا أَحَدُۢ
 sentence_translation: And there is none comparable to Him.”
 word_by_word:
   1:
@@ -7,11 +7,11 @@ word_by_word:
     translation: And not
     transliteration: walam
   2:
-    arabic: يَكُنۡ
+    arabic: يَكُن
     translation: is
     transliteration: yakun
   3:
-    arabic: لَّهٗ
+    arabic: لَّهُۥ
     translation: for Him
     transliteration: lahu
   4:
@@ -19,7 +19,7 @@ word_by_word:
     translation: equivalent
     transliteration: kufuwan
   5:
-    arabic: اَحَدٌ‏
+    arabic: أَحَدُۢ
     translation: any [one]
     transliteration: aḥadun
 ---

@@ -1,17 +1,16 @@
 ---
-arabic_ayat: "اِنَّ اللّٰهَ فَالِقُ الۡحَبِّ وَالنَّوٰى​ؕ يُخۡرِجُ الۡحَىَّ مِنَ الۡمَيِّتِ\
-  \ وَمُخۡرِجُ الۡمَيِّتِ مِنَ الۡحَىِّ ​ؕ ذٰ لِكُمُ اللّٰهُ​ فَاَنّٰى تُؤۡفَكُوۡنَ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: ۞ إِنَّ ٱللَّهَ فَالِقُ ٱلۡحَبِّ وَٱلنَّوَىٰۖ يُخۡرِجُ ٱلۡحَيَّ مِنَ
+  ٱلۡمَيِّتِ وَمُخۡرِجُ ٱلۡمَيِّتِ مِنَ ٱلۡحَيِّۚ ذَٰلِكُمُ ٱللَّهُۖ فَأَنَّىٰ تُؤۡفَكُونَ
 sentence_translation: Indeed, Allah is the One Who causes seeds and fruit stones to
   sprout. He brings forth the living from the dead and the dead from the living. That
   is Allah! How can you then be deluded ˹from the truth˺?
 word_by_word:
   1:
-    arabic: ۞ اِنَّ
+    arabic: ۞ إِنَّ
     translation: Indeed
     transliteration: inna
   2:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   3:
@@ -19,11 +18,11 @@ word_by_word:
     translation: (is the) Cleaver
     transliteration: fāliqu
   4:
-    arabic: الۡحَبِّ
+    arabic: ٱلۡحَبِّ
     translation: (of) the grain
     transliteration: l-ḥabi
   5:
-    arabic: وَالنَّوٰى​ؕ
+    arabic: وَٱلنَّوَىٰۖ
     translation: and the date-seed
     transliteration: wal-nawā
   6:
@@ -31,7 +30,7 @@ word_by_word:
     translation: He brings forth
     transliteration: yukh'riju
   7:
-    arabic: الۡحَىَّ
+    arabic: ٱلۡحَيَّ
     translation: the living
     transliteration: l-ḥaya
   8:
@@ -39,7 +38,7 @@ word_by_word:
     translation: from
     transliteration: mina
   9:
-    arabic: الۡمَيِّتِ
+    arabic: ٱلۡمَيِّتِ
     translation: the dead
     transliteration: l-mayiti
   10:
@@ -47,7 +46,7 @@ word_by_word:
     translation: and brings forth
     transliteration: wamukh'riju
   11:
-    arabic: الۡمَيِّتِ
+    arabic: ٱلۡمَيِّتِ
     translation: the dead
     transliteration: l-mayiti
   12:
@@ -55,23 +54,23 @@ word_by_word:
     translation: from
     transliteration: mina
   13:
-    arabic: الۡحَىِّ ​ؕ
+    arabic: ٱلۡحَيِّۚ
     translation: the living
     transliteration: l-ḥayi
   14:
-    arabic: ذٰ لِكُمُ
+    arabic: ذَٰلِكُمُ
     translation: That
     transliteration: dhālikumu
   15:
-    arabic: اللّٰهُ​
+    arabic: ٱللَّهُۖ
     translation: (is) Allah
     transliteration: l-lahu
   16:
-    arabic: فَاَنّٰى
+    arabic: فَأَنَّىٰ
     translation: so how
     transliteration: fa-annā
   17:
-    arabic: "تُؤۡفَكُوۡنَ‏ \uFEFF\uFEFF"
+    arabic: تُؤۡفَكُونَ
     translation: are you deluded
     transliteration: tu'fakūna
 ---

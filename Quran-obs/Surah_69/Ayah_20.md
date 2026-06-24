@@ -1,25 +1,25 @@
 ---
-arabic_ayat: اِنِّىۡ ظَنَنۡتُ اَنِّىۡ مُلٰقٍ حِسَابِيَهۡ​ۚ‏
+arabic_ayat: إِنِّي ظَنَنتُ أَنِّي مُلَٰقٍ حِسَابِيَهۡ
 sentence_translation: I surely knew I would face my reckoning.”
 word_by_word:
   1:
-    arabic: اِنِّىۡ
+    arabic: إِنِّي
     translation: Indeed, I
     transliteration: innī
   2:
-    arabic: ظَنَنۡتُ
+    arabic: ظَنَنتُ
     translation: was certain
     transliteration: ẓanantu
   3:
-    arabic: اَنِّىۡ
+    arabic: أَنِّي
     translation: that I
     transliteration: annī
   4:
-    arabic: مُلٰقٍ
+    arabic: مُلَٰقٍ
     translation: (will) meet
     transliteration: mulāqin
   5:
-    arabic: حِسَابِيَهۡ​ۚ‏
+    arabic: حِسَابِيَهۡ
     translation: my account
     transliteration: ḥisābiyah
 ---

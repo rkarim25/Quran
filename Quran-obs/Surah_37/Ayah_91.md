@@ -1,5 +1,5 @@
 ---
-arabic_ayat: فَرَاغَ اِلٰٓى اٰلِهَتِهِمۡ فَقَالَ اَلَا تَاۡكُلُوۡنَ​ۚ‏
+arabic_ayat: فَرَاغَ إِلَىٰٓ ءَالِهَتِهِمۡ فَقَالَ أَلَا تَأۡكُلُونَ
 sentence_translation: Then he ˹stealthily˺ advanced towards their gods, and said ˹mockingly˺,
   “Will you not eat ˹your offerings˺?
 word_by_word:
@@ -8,11 +8,11 @@ word_by_word:
     translation: Then he turned
     transliteration: farāgha
   2:
-    arabic: اِلٰٓى
+    arabic: إِلَىٰٓ ءَ
     translation: to
     transliteration: ilā
   3:
-    arabic: اٰلِهَتِهِمۡ
+    arabic: الِهَتِهِمۡ
     translation: their gods
     transliteration: ālihatihim
   4:
@@ -20,11 +20,11 @@ word_by_word:
     translation: and said
     transliteration: faqāla
   5:
-    arabic: اَلَا
+    arabic: أَلَا
     translation: Do not
     transliteration: alā
   6:
-    arabic: تَاۡكُلُوۡنَ​ۚ‏
+    arabic: تَأۡكُلُونَ
     translation: you eat
     transliteration: takulūna
 ---

@@ -1,16 +1,16 @@
 ---
-arabic_ayat: اِنَّمَا تُنۡذِرُ مَنِ اتَّبَعَ الذِّكۡرَ وَخَشِىَ الرَّحۡمٰنَ بِالۡغَيۡبِۚ
-  فَبَشِّرۡهُ بِمَغۡفِرَةٍ وَّاَجۡرٍ كَرِيۡمٍ‏
+arabic_ayat: إِنَّمَا تُنذِرُ مَنِ ٱتَّبَعَ ٱلذِّكۡرَ وَخَشِيَ ٱلرَّحۡمَٰنَ بِٱلۡغَيۡبِۖ
+  فَبَشِّرۡهُ بِمَغۡفِرَةٖ وَأَجۡرٖ كَرِيمٍ
 sentence_translation: You can only warn those who follow the Reminder and are in awe
   of the Most Compassionate without seeing Him. So give them good news of forgiveness
   and an honourable reward.
 word_by_word:
   1:
-    arabic: اِنَّمَا
+    arabic: إِنَّمَا
     translation: Only
     transliteration: innamā
   2:
-    arabic: تُنۡذِرُ
+    arabic: تُنذِرُ
     translation: you (can) warn
     transliteration: tundhiru
   3:
@@ -18,23 +18,23 @@ word_by_word:
     translation: (him) who
     transliteration: mani
   4:
-    arabic: اتَّبَعَ
+    arabic: ٱتَّبَعَ
     translation: follows
     transliteration: ittabaʿa
   5:
-    arabic: الذِّكۡرَ
+    arabic: ٱلذِّكۡرَ
     translation: the Reminder
     transliteration: l-dhik'ra
   6:
-    arabic: وَخَشِىَ
+    arabic: وَخَشِيَ
     translation: and fears
     transliteration: wakhashiya
   7:
-    arabic: الرَّحۡمٰنَ
+    arabic: ٱلرَّحۡمَٰنَ
     translation: the Most Gracious
     transliteration: l-raḥmāna
   8:
-    arabic: بِالۡغَيۡبِۚ
+    arabic: بِٱلۡغَيۡبِۖ
     translation: in the unseen
     transliteration: bil-ghaybi
   9:
@@ -42,15 +42,15 @@ word_by_word:
     translation: So give him glad tidings
     transliteration: fabashir'hu
   10:
-    arabic: بِمَغۡفِرَةٍ
+    arabic: بِمَغۡفِرَةٖ
     translation: of forgiveness
     transliteration: bimaghfiratin
   11:
-    arabic: وَّاَجۡرٍ
+    arabic: وَأَجۡرٖ
     translation: and a reward
     transliteration: wa-ajrin
   12:
-    arabic: كَرِيۡمٍ‏
+    arabic: كَرِيمٍ
     translation: noble
     transliteration: karīmin
 ---

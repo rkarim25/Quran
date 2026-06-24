@@ -1,51 +1,51 @@
 ---
-arabic_ayat: اِنَّ الَّذِيۡنَ اٰمَنُوۡا وَعَمِلُوا الصّٰلِحٰتِ وَاَخۡبَـتُوۡۤا اِلٰى
-  رَبِّهِمۡۙ اُولٰٓٮِٕكَ اَصۡحٰبُ الۡجَـنَّةِ​ؕ هُمۡ فِيۡهَا خٰلِدُوۡنَ‏
+arabic_ayat: إِنَّ ٱلَّذِينَ ءَامَنُواْ وَعَمِلُواْ ٱلصَّٰلِحَٰتِ وَأَخۡبَتُوٓاْ إِلَىٰ
+  رَبِّهِمۡ أُوْلَٰٓئِكَ أَصۡحَٰبُ ٱلۡجَنَّةِۖ هُمۡ فِيهَا خَٰلِدُونَ
 sentence_translation: Surely those who believe, do good, and humble themselves before
   their Lord will be the residents of Paradise. They will be there forever.
 word_by_word:
   1:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ ءَ
     translation: those who
     transliteration: alladhīna
   3:
-    arabic: اٰمَنُوۡا
+    arabic: امَنُواْ
     translation: believe
     transliteration: āmanū
   4:
-    arabic: وَعَمِلُوا
+    arabic: وَعَمِلُواْ
     translation: and do
     transliteration: waʿamilū
   5:
-    arabic: الصّٰلِحٰتِ
+    arabic: ٱلصَّٰلِحَٰتِ
     translation: good deeds
     transliteration: l-ṣāliḥāti
   6:
-    arabic: وَاَخۡبَـتُوۡۤا
+    arabic: وَأَخۡبَتُوٓاْ
     translation: and humble themselves
     transliteration: wa-akhbatū
   7:
-    arabic: اِلٰى
+    arabic: إِلَىٰ
     translation: before
     transliteration: ilā
   8:
-    arabic: رَبِّهِمۡۙ
+    arabic: رَبِّهِمۡ
     translation: their Lord
     transliteration: rabbihim
   9:
-    arabic: اُولٰٓٮِٕكَ
+    arabic: أُوْلَٰٓئِكَ
     translation: those
     transliteration: ulāika
   10:
-    arabic: اَصۡحٰبُ
+    arabic: أَصۡحَٰبُ
     translation: (are the) companions
     transliteration: aṣḥābu
   11:
-    arabic: الۡجَـنَّةِ​ؕ
+    arabic: ٱلۡجَنَّةِۖ
     translation: (of) Paradise
     transliteration: l-janati
   12:
@@ -53,11 +53,11 @@ word_by_word:
     translation: they
     transliteration: hum
   13:
-    arabic: فِيۡهَا
+    arabic: فِيهَا
     translation: in it
     transliteration: fīhā
   14:
-    arabic: خٰلِدُوۡنَ‏
+    arabic: خَٰلِدُونَ
     translation: (will) abide forever
     transliteration: khālidūna
 ---

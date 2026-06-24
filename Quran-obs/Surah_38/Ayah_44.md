@@ -1,6 +1,6 @@
 ---
-arabic_ayat: وَخُذۡ بِيَدِكَ ضِغۡثًا فَاضۡرِبْ بِّهٖ وَلَا تَحۡنَثۡ​ؕ اِنَّا وَجَدۡنٰهُ
-  صَابِرًا​ ؕ نِعۡمَ الۡعَبۡدُ​ ؕ اِنَّـهٗۤ اَوَّابٌ‏
+arabic_ayat: وَخُذۡ بِيَدِكَ ضِغۡثٗا فَٱضۡرِب بِّهِۦ وَلَا تَحۡنَثۡۗ إِنَّا وَجَدۡنَٰهُ
+  صَابِرٗاۚ نِّعۡمَ ٱلۡعَبۡدُ إِنَّهُۥٓ أَوَّابٞ
 sentence_translation: ˹And We said to him,˺ “Take in your hand a bundle of grass,
   and strike ˹your wife˺ with it, and do not break your oath.” We truly found him
   patient. What an excellent servant ˹he was˺! Indeed, he ˹constantly˺ turned ˹to
@@ -15,15 +15,15 @@ word_by_word:
     translation: in your hand
     transliteration: biyadika
   3:
-    arabic: ضِغۡثًا
+    arabic: ضِغۡثٗا
     translation: a bunch
     transliteration: ḍigh'than
   4:
-    arabic: فَاضۡرِبْ
+    arabic: فَٱضۡرِب
     translation: and strike
     transliteration: fa-iḍ'rib
   5:
-    arabic: بِّهٖ
+    arabic: بِّهِۦ
     translation: with it
     transliteration: bihi
   6:
@@ -31,35 +31,35 @@ word_by_word:
     translation: and (do) not
     transliteration: walā
   7:
-    arabic: تَحۡنَثۡ​ؕ
+    arabic: تَحۡنَثۡۗ
     translation: break (your) oath
     transliteration: taḥnath
   8:
-    arabic: اِنَّا
+    arabic: إِنَّا
     translation: Indeed, We
     transliteration: innā
   9:
-    arabic: وَجَدۡنٰهُ
+    arabic: وَجَدۡنَٰهُ
     translation: '[We] found him'
     transliteration: wajadnāhu
   10:
-    arabic: صَابِرًا​ ؕ
+    arabic: صَابِرٗاۚ
     translation: patient
     transliteration: ṣābiran
   11:
-    arabic: نِعۡمَ
+    arabic: نِّعۡمَ
     translation: an excellent
     transliteration: niʿ'ma
   12:
-    arabic: الۡعَبۡدُ​ ؕ
+    arabic: ٱلۡعَبۡدُ
     translation: slave
     transliteration: l-ʿabdu
   13:
-    arabic: اِنَّـهٗۤ
+    arabic: إِنَّهُۥٓ
     translation: Indeed, he
     transliteration: innahu
   14:
-    arabic: اَوَّابٌ‏
+    arabic: أَوَّابٞ
     translation: repeatedly turned
     transliteration: awwābun
 ---

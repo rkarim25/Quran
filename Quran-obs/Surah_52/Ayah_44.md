@@ -1,19 +1,19 @@
 ---
-arabic_ayat: "وَاِنۡ يَّرَوۡا كِسۡفًا مِّنَ السَّمَآءِ سَاقِطًا يَّقُوۡلُوۡا سَحَابٌ\
-  \ مَّرۡكُوۡمٌ‏ \uFEFF\uFEFF"
+arabic_ayat: وَإِن يَرَوۡاْ كِسۡفٗا مِّنَ ٱلسَّمَآءِ سَاقِطٗا يَقُولُواْ سَحَابٞ
+  مَّرۡكُومٞ
 sentence_translation: If they were to see a ˹deadly˺ piece of the sky fall down ˹upon
   them˺, still they would say, “˹This is just˺ a pile of clouds.”
 word_by_word:
   1:
-    arabic: وَاِنۡ
+    arabic: وَإِن
     translation: And if
     transliteration: wa-in
   2:
-    arabic: يَّرَوۡا
+    arabic: يَرَوۡاْ
     translation: they were to see
     transliteration: yaraw
   3:
-    arabic: كِسۡفًا
+    arabic: كِسۡفٗا
     translation: a portion
     transliteration: kis'fan
   4:
@@ -21,23 +21,23 @@ word_by_word:
     translation: from
     transliteration: mina
   5:
-    arabic: السَّمَآءِ
+    arabic: ٱلسَّمَآءِ
     translation: the sky
     transliteration: l-samāi
   6:
-    arabic: سَاقِطًا
+    arabic: سَاقِطٗا
     translation: falling
     transliteration: sāqiṭan
   7:
-    arabic: يَّقُوۡلُوۡا
+    arabic: يَقُولُواْ
     translation: they will say
     transliteration: yaqūlū
   8:
-    arabic: سَحَابٌ
+    arabic: سَحَابٞ
     translation: Clouds
     transliteration: saḥābun
   9:
-    arabic: "مَّرۡكُوۡمٌ‏ \uFEFF\uFEFF"
+    arabic: مَّرۡكُومٞ
     translation: heaped up
     transliteration: markūmun
 ---

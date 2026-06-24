@@ -1,11 +1,11 @@
 ---
-arabic_ayat: اَوۡ يُزَوِّجُهُمۡ ذُكۡرَانًا وَّاِنَاثًا​ ۚ وَيَجۡعَلُ مَنۡ يَّشَآءُ
-  عَقِيۡمًا​ؕ اِنَّهٗ عَلِيۡمٌ قَدِيۡرٌ‏
+arabic_ayat: أَوۡ يُزَوِّجُهُمۡ ذُكۡرَانٗا وَإِنَٰثٗاۖ وَيَجۡعَلُ مَن يَشَآءُ عَقِيمًاۚ
+  إِنَّهُۥ عَلِيمٞ قَدِيرٞ
 sentence_translation: or grants both, sons and daughters, ˹to whoever He wills˺, and
   leaves whoever He wills infertile. He is indeed All-Knowing, Most Capable.
 word_by_word:
   1:
-    arabic: اَوۡ
+    arabic: أَوۡ
     translation: Or
     transliteration: aw
   2:
@@ -13,11 +13,11 @@ word_by_word:
     translation: He grants them
     transliteration: yuzawwijuhum
   3:
-    arabic: ذُكۡرَانًا
+    arabic: ذُكۡرَانٗا
     translation: males
     transliteration: dhuk'rānan
   4:
-    arabic: وَّاِنَاثًا​ ۚ
+    arabic: وَإِنَٰثٗاۖ
     translation: and females
     transliteration: wa-ināthan
   5:
@@ -25,27 +25,27 @@ word_by_word:
     translation: and He makes
     transliteration: wayajʿalu
   6:
-    arabic: مَنۡ
+    arabic: مَن
     translation: whom
     transliteration: man
   7:
-    arabic: يَّشَآءُ
+    arabic: يَشَآءُ
     translation: He wills
     transliteration: yashāu
   8:
-    arabic: عَقِيۡمًا​ؕ
+    arabic: عَقِيمًاۚ
     translation: barren
     transliteration: ʿaqīman
   9:
-    arabic: اِنَّهٗ
+    arabic: إِنَّهُۥ
     translation: Indeed, He
     transliteration: innahu
   10:
-    arabic: عَلِيۡمٌ
+    arabic: عَلِيمٞ
     translation: (is) All-Knower
     transliteration: ʿalīmun
   11:
-    arabic: قَدِيۡرٌ‏
+    arabic: قَدِيرٞ
     translation: All-Powerful
     transliteration: qadīrun
 ---

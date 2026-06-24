@@ -1,10 +1,10 @@
 ---
-arabic_ayat: فَاصۡفَحۡ عَنۡهُمۡ وَقُلۡ سَلٰمٌ​ؕ فَسَوۡفَ يَعۡلَمُوۡنَ‏
+arabic_ayat: فَٱصۡفَحۡ عَنۡهُمۡ وَقُلۡ سَلَٰمٞۚ فَسَوۡفَ يَعۡلَمُونَ
 sentence_translation: So bear with them and respond with peace. They will soon come
   to know.
 word_by_word:
   1:
-    arabic: فَاصۡفَحۡ
+    arabic: فَٱصۡفَحۡ
     translation: So turn away
     transliteration: fa-iṣ'faḥ
   2:
@@ -16,7 +16,7 @@ word_by_word:
     translation: and say
     transliteration: waqul
   4:
-    arabic: سَلٰمٌ​ؕ
+    arabic: سَلَٰمٞۚ
     translation: Peace
     transliteration: salāmun
   5:
@@ -24,7 +24,7 @@ word_by_word:
     translation: But soon
     transliteration: fasawfa
   6:
-    arabic: يَعۡلَمُوۡنَ‏
+    arabic: يَعۡلَمُونَ
     translation: they will know
     transliteration: yaʿlamūna
 ---

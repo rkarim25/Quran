@@ -1,8 +1,7 @@
 ---
-arabic_ayat: "بِئۡسَمَا اشۡتَرَوۡا بِهٖۤ اَنۡفُسَهُمۡ اَنۡ يَّڪۡفُرُوۡا بِمَآ اَنۡزَلَ\
-  \ اللّٰهُ بَغۡيًا اَنۡ يُّنَزِّلَ اللّٰهُ مِنۡ فَضۡلِهٖ عَلٰى مَنۡ يَّشَآءُ مِنۡ\
-  \ عِبَادِهٖ​ۚ فَبَآءُوۡ بِغَضَبٍ عَلٰى غَضَبٍ​ؕ وَلِلۡكٰفِرِيۡنَ عَذَابٌ مُّهِيۡنٌ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: بِئۡسَمَا ٱشۡتَرَوۡاْ بِهِۦٓ أَنفُسَهُمۡ أَن يَكۡفُرُواْ بِمَآ أَنزَلَ
+  ٱللَّهُ بَغۡيًا أَن يُنَزِّلَ ٱللَّهُ مِن فَضۡلِهِۦ عَلَىٰ مَن يَشَآءُ مِنۡ عِبَادِهِۦۖ
+  فَبَآءُو بِغَضَبٍ عَلَىٰ غَضَبٖۚ وَلِلۡكَٰفِرِينَ عَذَابٞ مُّهِينٞ
 sentence_translation: Miserable is the price they have sold their souls for—denying
   Allah’s revelation and resenting Allah for granting His grace to whoever He wills
   of His servants! They have earned wrath upon wrath. And such disbelievers will suffer
@@ -13,23 +12,23 @@ word_by_word:
     translation: Evil (is) that
     transliteration: bi'samā
   2:
-    arabic: اشۡتَرَوۡا
+    arabic: ٱشۡتَرَوۡاْ
     translation: (for) which they have sold
     transliteration: ish'taraw
   3:
-    arabic: بِهٖۤ
+    arabic: بِهِۦٓ
     translation: with
     transliteration: bihi
   4:
-    arabic: اَنۡفُسَهُمۡ
+    arabic: أَنفُسَهُمۡ
     translation: themselves
     transliteration: anfusahum
   5:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that
     transliteration: an
   6:
-    arabic: يَّڪۡفُرُوۡا
+    arabic: يَكۡفُرُواْ
     translation: they disbelieve
     transliteration: yakfurū
   7:
@@ -37,11 +36,11 @@ word_by_word:
     translation: in what
     transliteration: bimā
   8:
-    arabic: اَنۡزَلَ
+    arabic: أَنزَلَ
     translation: has revealed
     transliteration: anzala
   9:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   10:
@@ -49,35 +48,35 @@ word_by_word:
     translation: grudging
     transliteration: baghyan
   11:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that
     transliteration: an
   12:
-    arabic: يُّنَزِّلَ
+    arabic: يُنَزِّلَ
     translation: sends down
     transliteration: yunazzila
   13:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   14:
-    arabic: مِنۡ
+    arabic: مِن
     translation: of
     transliteration: min
   15:
-    arabic: فَضۡلِهٖ
+    arabic: فَضۡلِهِۦ
     translation: His Grace
     transliteration: faḍlihi
   16:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: 'on'
     transliteration: ʿalā
   17:
-    arabic: مَنۡ
+    arabic: مَن
     translation: whom
     transliteration: man
   18:
-    arabic: يَّشَآءُ
+    arabic: يَشَآءُ
     translation: He wills
     transliteration: yashāu
   19:
@@ -85,11 +84,11 @@ word_by_word:
     translation: from
     transliteration: min
   20:
-    arabic: عِبَادِهٖ​ۚ
+    arabic: عِبَادِهِۦۖ
     translation: His servants
     transliteration: ʿibādihi
   21:
-    arabic: فَبَآءُوۡ
+    arabic: فَبَآءُو
     translation: So they have drawn (on themselves)
     transliteration: fabāū
   22:
@@ -97,23 +96,23 @@ word_by_word:
     translation: wrath
     transliteration: bighaḍabin
   23:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: upon
     transliteration: ʿalā
   24:
-    arabic: غَضَبٍ​ؕ
+    arabic: غَضَبٖۚ
     translation: wrath
     transliteration: ghaḍabin
   25:
-    arabic: وَلِلۡكٰفِرِيۡنَ
+    arabic: وَلِلۡكَٰفِرِينَ
     translation: And for the disbelievers
     transliteration: walil'kāfirīna
   26:
-    arabic: عَذَابٌ
+    arabic: عَذَابٞ
     translation: (is) a punishment
     transliteration: ʿadhābun
   27:
-    arabic: "مُّهِيۡنٌ‏ \uFEFF\uFEFF"
+    arabic: مُّهِينٞ
     translation: humiliating
     transliteration: muhīnun
 ---

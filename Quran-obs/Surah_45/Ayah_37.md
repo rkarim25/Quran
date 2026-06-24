@@ -1,6 +1,6 @@
 ---
-arabic_ayat: "وَلَهُ الۡكِبۡرِيَآءُ فِى السَّمٰوٰتِ وَالۡاَرۡضِ​ وَهُوَ الۡعَزِيۡزُ\
-  \ الۡحَكِيۡمُ‏ \uFEFF\uFEFF"
+arabic_ayat: وَلَهُ ٱلۡكِبۡرِيَآءُ فِي ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِۖ وَهُوَ ٱلۡعَزِيزُ
+  ٱلۡحَكِيمُ
 sentence_translation: To Him belongs ˹all˺ Majesty in the heavens and the earth. And
   He is the Almighty, All-Wise.
 word_by_word:
@@ -9,19 +9,19 @@ word_by_word:
     translation: And for Him
     transliteration: walahu
   2:
-    arabic: الۡكِبۡرِيَآءُ
+    arabic: ٱلۡكِبۡرِيَآءُ
     translation: (is) the greatness
     transliteration: l-kib'riyāu
   3:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   4:
-    arabic: السَّمٰوٰتِ
+    arabic: ٱلسَّمَٰوَٰتِ
     translation: the heavens
     transliteration: l-samāwāti
   5:
-    arabic: وَالۡاَرۡضِ​
+    arabic: وَٱلۡأَرۡضِۖ
     translation: and the earth
     transliteration: wal-arḍi
   6:
@@ -29,11 +29,11 @@ word_by_word:
     translation: and He
     transliteration: wahuwa
   7:
-    arabic: الۡعَزِيۡزُ
+    arabic: ٱلۡعَزِيزُ
     translation: (is) the All-Mighty
     transliteration: l-ʿazīzu
   8:
-    arabic: "الۡحَكِيۡمُ‏ \uFEFF\uFEFF"
+    arabic: ٱلۡحَكِيمُ
     translation: the All-Wise
     transliteration: l-ḥakīmu
 ---

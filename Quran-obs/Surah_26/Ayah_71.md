@@ -1,17 +1,17 @@
 ---
-arabic_ayat: قَالُوۡا نَـعۡبُدُ اَصۡنَامًا فَنَظَلُّ لَهَا عٰكِفِيۡنَ‏
+arabic_ayat: قَالُواْ نَعۡبُدُ أَصۡنَامٗا فَنَظَلُّ لَهَا عَٰكِفِينَ
 sentence_translation: They replied, “We worship idols, to which we are fully devoted.”
 word_by_word:
   1:
-    arabic: قَالُوۡا
+    arabic: قَالُواْ
     translation: They said
     transliteration: qālū
   2:
-    arabic: نَـعۡبُدُ
+    arabic: نَعۡبُدُ
     translation: We worship
     transliteration: naʿbudu
   3:
-    arabic: اَصۡنَامًا
+    arabic: أَصۡنَامٗا
     translation: idols
     transliteration: aṣnāman
   4:
@@ -23,7 +23,7 @@ word_by_word:
     translation: to them
     transliteration: lahā
   6:
-    arabic: عٰكِفِيۡنَ‏
+    arabic: عَٰكِفِينَ
     translation: devoted
     transliteration: ʿākifīna
 ---

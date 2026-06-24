@@ -1,49 +1,48 @@
 ---
-arabic_ayat: "وَلَقَدۡ اٰتَيۡنَا لُقۡمٰنَ الۡحِكۡمَةَ اَنِ اشۡكُرۡ لِلّٰهِ​ؕ وَمَنۡ\
-  \ يَّشۡكُرۡ فَاِنَّمَا يَشۡكُرُ لِنَفۡسِهٖ​ۚ وَمَنۡ كَفَرَ فَاِنَّ اللّٰهَ غَنِىٌّ\
-  \ حَمِيۡدٌ‏ \uFEFF\uFEFF"
+arabic_ayat: وَلَقَدۡ ءَاتَيۡنَا لُقۡمَٰنَ ٱلۡحِكۡمَةَ أَنِ ٱشۡكُرۡ لِلَّهِۚ وَمَن
+  يَشۡكُرۡ فَإِنَّمَا يَشۡكُرُ لِنَفۡسِهِۦۖ وَمَن كَفَرَ فَإِنَّ ٱللَّهَ غَنِيٌّ حَمِيدٞ
 sentence_translation: Indeed, We blessed Luqmân with wisdom, ˹saying˺, “Be grateful
   to Allah, for whoever is grateful, it is only for their own good. And whoever is
   ungrateful, then surely Allah is Self-Sufficient, Praiseworthy.”
 word_by_word:
   1:
-    arabic: وَلَقَدۡ
+    arabic: وَلَقَدۡ ءَ
     translation: And verily
     transliteration: walaqad
   2:
-    arabic: اٰتَيۡنَا
+    arabic: اتَيۡنَا
     translation: We gave
     transliteration: ātaynā
   3:
-    arabic: لُقۡمٰنَ
+    arabic: لُقۡمَٰنَ
     translation: Luqman
     transliteration: luq'māna
   4:
-    arabic: الۡحِكۡمَةَ
+    arabic: ٱلۡحِكۡمَةَ
     translation: the wisdom
     transliteration: l-ḥik'mata
   5:
-    arabic: اَنِ
+    arabic: أَنِ
     translation: that
     transliteration: ani
   6:
-    arabic: اشۡكُرۡ
+    arabic: ٱشۡكُرۡ
     translation: Be grateful
     transliteration: ush'kur
   7:
-    arabic: لِلّٰهِ​ؕ
+    arabic: لِلَّهِۚ
     translation: to Allah
     transliteration: lillahi
   8:
-    arabic: وَمَنۡ
+    arabic: وَمَن
     translation: And whoever
     transliteration: waman
   9:
-    arabic: يَّشۡكُرۡ
+    arabic: يَشۡكُرۡ
     translation: (is) grateful
     transliteration: yashkur
   10:
-    arabic: فَاِنَّمَا
+    arabic: فَإِنَّمَا
     translation: then only
     transliteration: fa-innamā
   11:
@@ -51,11 +50,11 @@ word_by_word:
     translation: he is grateful
     transliteration: yashkuru
   12:
-    arabic: لِنَفۡسِهٖ​ۚ
+    arabic: لِنَفۡسِهِۦۖ
     translation: for himself
     transliteration: linafsihi
   13:
-    arabic: وَمَنۡ
+    arabic: وَمَن
     translation: And whoever
     transliteration: waman
   14:
@@ -63,19 +62,19 @@ word_by_word:
     translation: (is) ungrateful
     transliteration: kafara
   15:
-    arabic: فَاِنَّ
+    arabic: فَإِنَّ
     translation: then indeed
     transliteration: fa-inna
   16:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   17:
-    arabic: غَنِىٌّ
+    arabic: غَنِيٌّ
     translation: (is) Free of need
     transliteration: ghaniyyun
   18:
-    arabic: "حَمِيۡدٌ‏ \uFEFF\uFEFF"
+    arabic: حَمِيدٞ
     translation: Praiseworthy
     transliteration: ḥamīdun
 ---

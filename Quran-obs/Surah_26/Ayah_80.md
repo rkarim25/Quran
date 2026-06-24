@@ -1,9 +1,9 @@
 ---
-arabic_ayat: وَاِذَا مَرِضۡتُ فَهُوَ يَشۡفِيۡنِ ۙ‏
+arabic_ayat: وَإِذَا مَرِضۡتُ فَهُوَ يَشۡفِينِ
 sentence_translation: And He ˹alone˺ heals me when I am sick.
 word_by_word:
   1:
-    arabic: وَاِذَا
+    arabic: وَإِذَا
     translation: And when
     transliteration: wa-idhā
   2:
@@ -15,7 +15,7 @@ word_by_word:
     translation: then He
     transliteration: fahuwa
   4:
-    arabic: يَشۡفِيۡنِ ۙ‏
+    arabic: يَشۡفِينِ
     translation: cures me
     transliteration: yashfīni
 ---

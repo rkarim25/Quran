@@ -1,12 +1,12 @@
 ---
-arabic_ayat: وَاِذَا كُنۡتَ فِيۡهِمۡ فَاَقَمۡتَ لَهُمُ الصَّلٰوةَ فَلۡتَقُمۡ طَآٮِٕفَةٌ
-  مِّنۡهُمۡ مَّعَكَ وَلۡيَاۡخُذُوۡۤا اَسۡلِحَتَهُمۡ فَاِذَا سَجَدُوۡا فَلۡيَكُوۡنُوۡا
-  مِنۡ وَّرَآٮِٕكُمۡ وَلۡتَاۡتِ طَآٮِٕفَةٌ اُخۡرٰى لَمۡ يُصَلُّوۡا فَلۡيُصَلُّوۡا
-  مَعَكَ وَلۡيَاۡخُذُوۡا حِذۡرَهُمۡ وَاَسۡلِحَتَهُمۡ​ ۚ وَدَّ الَّذِيۡنَ كَفَرُوۡا
-  لَوۡ تَغۡفُلُوۡنَ عَنۡ اَسۡلِحَتِكُمۡ وَاَمۡتِعَتِكُمۡ فَيَمِيۡلُوۡنَ عَلَيۡكُمۡ
-  مَّيۡلَةً وَّاحِدَةً​ ؕ وَلَا جُنَاحَ عَلَيۡكُمۡ اِنۡ كَانَ بِكُمۡ اَ ذًى مِّنۡ
-  مَّطَرٍ اَوۡ كُنۡـتُمۡ مَّرۡضٰۤى اَنۡ تَضَعُوۡۤا اَسۡلِحَتَكُمۡ​ ۚ وَ خُذُوۡا حِذۡرَكُمۡ​
-  ؕ اِنَّ اللّٰهَ اَعَدَّ لِلۡكٰفِرِيۡنَ عَذَابًا مُّهِيۡنًا‏
+arabic_ayat: وَإِذَا كُنتَ فِيهِمۡ فَأَقَمۡتَ لَهُمُ ٱلصَّلَوٰةَ فَلۡتَقُمۡ طَآئِفَةٞ
+  مِّنۡهُم مَّعَكَ وَلۡيَأۡخُذُوٓاْ أَسۡلِحَتَهُمۡۖ فَإِذَا سَجَدُواْ فَلۡيَكُونُواْ
+  مِن وَرَآئِكُمۡ وَلۡتَأۡتِ طَآئِفَةٌ أُخۡرَىٰ لَمۡ يُصَلُّواْ فَلۡيُصَلُّواْ مَعَكَ
+  وَلۡيَأۡخُذُواْ حِذۡرَهُمۡ وَأَسۡلِحَتَهُمۡۗ وَدَّ ٱلَّذِينَ كَفَرُواْ لَوۡ تَغۡفُلُونَ
+  عَنۡ أَسۡلِحَتِكُمۡ وَأَمۡتِعَتِكُمۡ فَيَمِيلُونَ عَلَيۡكُم مَّيۡلَةٗ وَٰحِدَةٗۚ
+  وَلَا جُنَاحَ عَلَيۡكُمۡ إِن كَانَ بِكُمۡ أَذٗى مِّن مَّطَرٍ أَوۡ كُنتُم مَّرۡضَىٰٓ
+  أَن تَضَعُوٓاْ أَسۡلِحَتَكُمۡۖ وَخُذُواْ حِذۡرَكُمۡۗ إِنَّ ٱللَّهَ أَعَدَّ لِلۡكَٰفِرِينَ
+  عَذَابٗا مُّهِينٗا
 sentence_translation: When you ˹O Prophet˺ are ˹campaigning˺ with them and you lead
   them in prayer, let one group of them pray with you—while armed. When they prostrate
   themselves, let the other group stand guard behind them. Then the group that has
@@ -17,19 +17,19 @@ sentence_translation: When you ˹O Prophet˺ are ˹campaigning˺ with them and y
   has prepared a humiliating punishment for the disbelievers.
 word_by_word:
   1:
-    arabic: وَاِذَا
+    arabic: وَإِذَا
     translation: And when
     transliteration: wa-idhā
   2:
-    arabic: كُنۡتَ
+    arabic: كُنتَ
     translation: you are
     transliteration: kunta
   3:
-    arabic: فِيۡهِمۡ
+    arabic: فِيهِمۡ
     translation: among them
     transliteration: fīhim
   4:
-    arabic: فَاَقَمۡتَ
+    arabic: فَأَقَمۡتَ
     translation: and you lead
     transliteration: fa-aqamta
   5:
@@ -37,7 +37,7 @@ word_by_word:
     translation: for them
     transliteration: lahumu
   6:
-    arabic: الصَّلٰوةَ
+    arabic: ٱلصَّلَوٰةَ
     translation: the prayer
     transliteration: l-ṣalata
   7:
@@ -45,11 +45,11 @@ word_by_word:
     translation: then let stand
     transliteration: faltaqum
   8:
-    arabic: طَآٮِٕفَةٌ
+    arabic: طَآئِفَةٞ
     translation: a group
     transliteration: ṭāifatun
   9:
-    arabic: مِّنۡهُمۡ
+    arabic: مِّنۡهُم
     translation: of them
     transliteration: min'hum
   10:
@@ -57,43 +57,43 @@ word_by_word:
     translation: with you
     transliteration: maʿaka
   11:
-    arabic: وَلۡيَاۡخُذُوۡۤا
+    arabic: وَلۡيَأۡخُذُوٓاْ
     translation: and let them take
     transliteration: walyakhudhū
   12:
-    arabic: اَسۡلِحَتَهُمۡ
+    arabic: أَسۡلِحَتَهُمۡۖ
     translation: their arms
     transliteration: asliḥatahum
   13:
-    arabic: فَاِذَا
+    arabic: فَإِذَا
     translation: Then when
     transliteration: fa-idhā
   14:
-    arabic: سَجَدُوۡا
+    arabic: سَجَدُواْ
     translation: they have prostrated
     transliteration: sajadū
   15:
-    arabic: فَلۡيَكُوۡنُوۡا
+    arabic: فَلۡيَكُونُواْ
     translation: then let them be
     transliteration: falyakūnū
   16:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   17:
-    arabic: وَّرَآٮِٕكُمۡ
+    arabic: وَرَآئِكُمۡ
     translation: behind you
     transliteration: warāikum
   18:
-    arabic: وَلۡتَاۡتِ
+    arabic: وَلۡتَأۡتِ
     translation: and let come (forward)
     transliteration: waltati
   19:
-    arabic: طَآٮِٕفَةٌ
+    arabic: طَآئِفَةٌ
     translation: 'a group '
     transliteration: ṭāifatun
   20:
-    arabic: اُخۡرٰى
+    arabic: أُخۡرَىٰ
     translation: other
     transliteration: ukh'rā
   21:
@@ -101,11 +101,11 @@ word_by_word:
     translation: (which has) not
     transliteration: lam
   22:
-    arabic: يُصَلُّوۡا
+    arabic: يُصَلُّواْ
     translation: prayed
     transliteration: yuṣallū
   23:
-    arabic: فَلۡيُصَلُّوۡا
+    arabic: فَلۡيُصَلُّواْ
     translation: and let them pray
     transliteration: falyuṣallū
   24:
@@ -113,7 +113,7 @@ word_by_word:
     translation: with you
     transliteration: maʿaka
   25:
-    arabic: وَلۡيَاۡخُذُوۡا
+    arabic: وَلۡيَأۡخُذُواْ
     translation: and let them take
     transliteration: walyakhudhū
   26:
@@ -121,7 +121,7 @@ word_by_word:
     translation: their precautions
     transliteration: ḥidh'rahum
   27:
-    arabic: وَاَسۡلِحَتَهُمۡ​ ۚ
+    arabic: وَأَسۡلِحَتَهُمۡۗ
     translation: and their arms
     transliteration: wa-asliḥatahum
   28:
@@ -129,11 +129,11 @@ word_by_word:
     translation: Wished
     transliteration: wadda
   29:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   30:
-    arabic: كَفَرُوۡا
+    arabic: كَفَرُواْ
     translation: disbelieved
     transliteration: kafarū
   31:
@@ -141,7 +141,7 @@ word_by_word:
     translation: if
     transliteration: law
   32:
-    arabic: تَغۡفُلُوۡنَ
+    arabic: تَغۡفُلُونَ
     translation: you neglect
     transliteration: taghfulūna
   33:
@@ -149,27 +149,27 @@ word_by_word:
     translation: '[about]'
     transliteration: ʿan
   34:
-    arabic: اَسۡلِحَتِكُمۡ
+    arabic: أَسۡلِحَتِكُمۡ
     translation: your arms
     transliteration: asliḥatikum
   35:
-    arabic: وَاَمۡتِعَتِكُمۡ
+    arabic: وَأَمۡتِعَتِكُمۡ
     translation: and your baggage
     transliteration: wa-amtiʿatikum
   36:
-    arabic: فَيَمِيۡلُوۡنَ
+    arabic: فَيَمِيلُونَ
     translation: so (that) they (can) assault
     transliteration: fayamīlūna
   37:
-    arabic: عَلَيۡكُمۡ
+    arabic: عَلَيۡكُم
     translation: '[upon] you'
     transliteration: ʿalaykum
   38:
-    arabic: مَّيۡلَةً
+    arabic: مَّيۡلَةٗ
     translation: (in) an attack
     transliteration: maylatan
   39:
-    arabic: وَّاحِدَةً​ ؕ
+    arabic: وَٰحِدَةٗۚ
     translation: single
     transliteration: wāḥidatan
   40:
@@ -185,7 +185,7 @@ word_by_word:
     translation: upon you
     transliteration: ʿalaykum
   43:
-    arabic: اِنۡ
+    arabic: إِن
     translation: if
     transliteration: in
   44:
@@ -197,11 +197,11 @@ word_by_word:
     translation: with you
     transliteration: bikum
   46:
-    arabic: اَ ذًى
+    arabic: أَذٗى
     translation: any trouble
     transliteration: adhan
   47:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: (because) of
     transliteration: min
   48:
@@ -209,59 +209,59 @@ word_by_word:
     translation: rain
     transliteration: maṭarin
   49:
-    arabic: اَوۡ
+    arabic: أَوۡ
     translation: or
     transliteration: aw
   50:
-    arabic: كُنۡـتُمۡ
+    arabic: كُنتُم
     translation: you are
     transliteration: kuntum
   51:
-    arabic: مَّرۡضٰۤى
+    arabic: مَّرۡضَىٰٓ
     translation: sick
     transliteration: marḍā
   52:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that
     transliteration: an
   53:
-    arabic: تَضَعُوۡۤا
+    arabic: تَضَعُوٓاْ
     translation: you lay down
     transliteration: taḍaʿū
   54:
-    arabic: اَسۡلِحَتَكُمۡ​ ۚ
+    arabic: أَسۡلِحَتَكُمۡۖ
     translation: your arms
     transliteration: asliḥatakum
   55:
-    arabic: وَ خُذُوۡا
+    arabic: وَخُذُواْ
     translation: but take
     transliteration: wakhudhū
   56:
-    arabic: حِذۡرَكُمۡ​ ؕ
+    arabic: حِذۡرَكُمۡۗ
     translation: your precautions
     transliteration: ḥidh'rakum
   57:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   58:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   59:
-    arabic: اَعَدَّ
+    arabic: أَعَدَّ
     translation: has prepared
     transliteration: aʿadda
   60:
-    arabic: لِلۡكٰفِرِيۡنَ
+    arabic: لِلۡكَٰفِرِينَ
     translation: for the disbelievers
     transliteration: lil'kāfirīna
   61:
-    arabic: عَذَابًا
+    arabic: عَذَابٗا
     translation: a punishment
     transliteration: ʿadhāban
   62:
-    arabic: مُّهِيۡنًا‏
+    arabic: مُّهِينٗا
     translation: humiliating
     transliteration: muhīnan
 ---

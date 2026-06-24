@@ -1,19 +1,19 @@
 ---
-arabic_ayat: اِنَّهُمۡ اِنۡ يَّظۡهَرُوۡا عَلَيۡكُمۡ يَرۡجُمُوۡكُمۡ اَوۡ يُعِيۡدُوۡكُمۡ
-  فِىۡ مِلَّتِهِمۡ وَلَنۡ تُفۡلِحُوۡۤا اِذًا اَبَدًا‏
+arabic_ayat: إِنَّهُمۡ إِن يَظۡهَرُواْ عَلَيۡكُمۡ يَرۡجُمُوكُمۡ أَوۡ يُعِيدُوكُمۡ
+  فِي مِلَّتِهِمۡ وَلَن تُفۡلِحُوٓاْ إِذًا أَبَدٗا
 sentence_translation: For, indeed, if they find out about you, they will stone you
   ˹to death˺, or force you back into their faith, and then you will never succeed.”
 word_by_word:
   1:
-    arabic: اِنَّهُمۡ
+    arabic: إِنَّهُمۡ
     translation: Indeed, [they]
     transliteration: innahum
   2:
-    arabic: اِنۡ
+    arabic: إِن
     translation: if
     transliteration: in
   3:
-    arabic: يَّظۡهَرُوۡا
+    arabic: يَظۡهَرُواْ
     translation: they come to know
     transliteration: yaẓharū
   4:
@@ -21,19 +21,19 @@ word_by_word:
     translation: about you
     transliteration: ʿalaykum
   5:
-    arabic: يَرۡجُمُوۡكُمۡ
+    arabic: يَرۡجُمُوكُمۡ
     translation: they will stone you
     transliteration: yarjumūkum
   6:
-    arabic: اَوۡ
+    arabic: أَوۡ
     translation: or
     transliteration: aw
   7:
-    arabic: يُعِيۡدُوۡكُمۡ
+    arabic: يُعِيدُوكُمۡ
     translation: return you
     transliteration: yuʿīdūkum
   8:
-    arabic: فِىۡ
+    arabic: فِي
     translation: to
     transliteration: fī
   9:
@@ -41,19 +41,19 @@ word_by_word:
     translation: their religion
     transliteration: millatihim
   10:
-    arabic: وَلَنۡ
+    arabic: وَلَن
     translation: And never
     transliteration: walan
   11:
-    arabic: تُفۡلِحُوۡۤا
+    arabic: تُفۡلِحُوٓاْ
     translation: will you succeed
     transliteration: tuf'liḥū
   12:
-    arabic: اِذًا
+    arabic: إِذًا
     translation: 'then '
     transliteration: idhan
   13:
-    arabic: اَبَدًا‏
+    arabic: أَبَدٗا
     translation: ever
     transliteration: abadan
 ---

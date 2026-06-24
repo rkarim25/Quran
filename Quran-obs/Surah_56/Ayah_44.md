@@ -1,5 +1,5 @@
 ---
-arabic_ayat: لَّا بَارِدٍ وَّلَا كَرِيۡمٍ‏
+arabic_ayat: لَّا بَارِدٖ وَلَا كَرِيمٍ
 sentence_translation: neither cool nor refreshing.
 word_by_word:
   1:
@@ -7,15 +7,15 @@ word_by_word:
     translation: Not
     transliteration: lā
   2:
-    arabic: بَارِدٍ
+    arabic: بَارِدٖ
     translation: cool
     transliteration: bāridin
   3:
-    arabic: وَّلَا
+    arabic: وَلَا
     translation: and not
     transliteration: walā
   4:
-    arabic: كَرِيۡمٍ‏
+    arabic: كَرِيمٍ
     translation: pleasant
     transliteration: karīmin
 ---

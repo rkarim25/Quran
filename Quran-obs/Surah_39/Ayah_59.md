@@ -1,11 +1,11 @@
 ---
-arabic_ayat: بَلٰى قَدۡ جَآءَتۡكَ اٰيٰتِىۡ فَكَذَّبۡتَ بِهَا وَاسۡتَكۡبَرۡتَ وَكُنۡتَ
-  مِنَ الۡكٰفِرِيۡنَ‏
+arabic_ayat: بَلَىٰ قَدۡ جَآءَتۡكَ ءَايَٰتِي فَكَذَّبۡتَ بِهَا وَٱسۡتَكۡبَرۡتَ وَكُنتَ
+  مِنَ ٱلۡكَٰفِرِينَ
 sentence_translation: Not at all! My revelations had already come to you, but you
   rejected them, acted arrogantly, and were one of the disbelievers.”
 word_by_word:
   1:
-    arabic: بَلٰى
+    arabic: بَلَىٰ
     translation: 'Yes'
     transliteration: balā
   2:
@@ -13,11 +13,11 @@ word_by_word:
     translation: verily
     transliteration: qad
   3:
-    arabic: جَآءَتۡكَ
+    arabic: جَآءَتۡكَ ءَ
     translation: came to you
     transliteration: jāatka
   4:
-    arabic: اٰيٰتِىۡ
+    arabic: ايَٰتِي
     translation: My Verses
     transliteration: āyātī
   5:
@@ -29,11 +29,11 @@ word_by_word:
     translation: them
     transliteration: bihā
   7:
-    arabic: وَاسۡتَكۡبَرۡتَ
+    arabic: وَٱسۡتَكۡبَرۡتَ
     translation: and were arrogant
     transliteration: wa-is'takbarta
   8:
-    arabic: وَكُنۡتَ
+    arabic: وَكُنتَ
     translation: and you were
     transliteration: wakunta
   9:
@@ -41,7 +41,7 @@ word_by_word:
     translation: among
     transliteration: mina
   10:
-    arabic: الۡكٰفِرِيۡنَ‏
+    arabic: ٱلۡكَٰفِرِينَ
     translation: the disbelievers
     transliteration: l-kāfirīna
 ---

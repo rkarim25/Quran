@@ -1,9 +1,9 @@
 ---
-arabic_ayat: فَاَرۡسَلَ فِرۡعَوۡنُ فِى الۡمَدَآٮِٕنِ حٰشِرِيۡنَ​ۚ‏
+arabic_ayat: فَأَرۡسَلَ فِرۡعَوۡنُ فِي ٱلۡمَدَآئِنِ حَٰشِرِينَ
 sentence_translation: Then Pharaoh sent mobilizers to all cities,
 word_by_word:
   1:
-    arabic: فَاَرۡسَلَ
+    arabic: فَأَرۡسَلَ
     translation: Then sent
     transliteration: fa-arsala
   2:
@@ -11,15 +11,15 @@ word_by_word:
     translation: Firaun
     transliteration: fir'ʿawnu
   3:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   4:
-    arabic: الۡمَدَآٮِٕنِ
+    arabic: ٱلۡمَدَآئِنِ
     translation: the cities
     transliteration: l-madāini
   5:
-    arabic: حٰشِرِيۡنَ​ۚ‏
+    arabic: حَٰشِرِينَ
     translation: gatherers
     transliteration: ḥāshirīna
 ---

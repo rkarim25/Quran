@@ -1,21 +1,21 @@
 ---
-arabic_ayat: الَّذِىۡ يَرٰٮكَ حِيۡنَ تَقُوۡمُۙ‏
+arabic_ayat: ٱلَّذِي يَرَىٰكَ حِينَ تَقُومُ
 sentence_translation: Who sees you when you rise ˹for prayer at night˺,
 word_by_word:
   1:
-    arabic: الَّذِىۡ
+    arabic: ٱلَّذِي
     translation: The One Who
     transliteration: alladhī
   2:
-    arabic: يَرٰٮكَ
+    arabic: يَرَىٰكَ
     translation: sees you
     transliteration: yarāka
   3:
-    arabic: حِيۡنَ
+    arabic: حِينَ
     translation: when
     transliteration: ḥīna
   4:
-    arabic: تَقُوۡمُۙ‏
+    arabic: تَقُومُ
     translation: you stand up
     transliteration: taqūmu
 ---

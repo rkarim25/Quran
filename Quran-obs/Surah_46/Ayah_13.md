@@ -1,19 +1,19 @@
 ---
-arabic_ayat: اِنَّ الَّذِيۡنَ قَالُوۡا رَبُّنَا اللّٰهُ ثُمَّ اسۡتَقَامُوۡا فَلَا
-  خَوۡفٌ عَلَيۡهِمۡ وَلَا هُمۡ يَحۡزَنُوۡنَ​ۚ‏
+arabic_ayat: إِنَّ ٱلَّذِينَ قَالُواْ رَبُّنَا ٱللَّهُ ثُمَّ ٱسۡتَقَٰمُواْ فَلَا خَوۡفٌ
+  عَلَيۡهِمۡ وَلَا هُمۡ يَحۡزَنُونَ
 sentence_translation: Surely those who say, “Our Lord is Allah,” and then remain steadfast—there
   will be no fear for them, nor will they grieve.
 word_by_word:
   1:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   3:
-    arabic: قَالُوۡا
+    arabic: قَالُواْ
     translation: say
     transliteration: qālū
   4:
@@ -21,7 +21,7 @@ word_by_word:
     translation: Our Lord
     transliteration: rabbunā
   5:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: (is) Allah
     transliteration: l-lahu
   6:
@@ -29,7 +29,7 @@ word_by_word:
     translation: then
     transliteration: thumma
   7:
-    arabic: اسۡتَقَامُوۡا
+    arabic: ٱسۡتَقَٰمُواْ
     translation: remain firm
     transliteration: is'taqāmū
   8:
@@ -53,7 +53,7 @@ word_by_word:
     translation: they
     transliteration: hum
   13:
-    arabic: يَحۡزَنُوۡنَ​ۚ‏
+    arabic: يَحۡزَنُونَ
     translation: will grieve
     transliteration: yaḥzanūna
 ---

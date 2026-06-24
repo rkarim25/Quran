@@ -1,17 +1,17 @@
 ---
-arabic_ayat: اِنَّ هٰٓؤُلَاۤءِ لَيَقُوۡلُوۡنَۙ‏
+arabic_ayat: إِنَّ هَٰٓؤُلَآءِ لَيَقُولُونَ
 sentence_translation: Indeed, these ˹Meccans˺ say,
 word_by_word:
   1:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   2:
-    arabic: هٰٓؤُلَاۤءِ
+    arabic: هَٰٓؤُلَآءِ
     translation: these
     transliteration: hāulāi
   3:
-    arabic: لَيَقُوۡلُوۡنَۙ‏
+    arabic: لَيَقُولُونَ
     translation: surely, they say
     transliteration: layaqūlūna
 ---

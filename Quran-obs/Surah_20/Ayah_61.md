@@ -1,6 +1,6 @@
 ---
-arabic_ayat: قَالَ لَهُمۡ مُّوۡسٰى وَيۡلَكُمۡ لَا تَفۡتَرُوۡا عَلَى اللّٰهِ كَذِبًا
-  فَيُسۡحِتَكُمۡ بِعَذَابٍ​ۚ وَقَدۡ خَابَ مَنِ افۡتَرٰى‏
+arabic_ayat: قَالَ لَهُم مُّوسَىٰ وَيۡلَكُمۡ لَا تَفۡتَرُواْ عَلَى ٱللَّهِ كَذِبٗا
+  فَيُسۡحِتَكُم بِعَذَابٖۖ وَقَدۡ خَابَ مَنِ ٱفۡتَرَىٰ
 sentence_translation: Moses warned the magicians, “Woe to you! Do not fabricate a
   lie against Allah, or He will wipe you out with a torment. Whoever fabricates ˹lies˺
   is bound to fail.”
@@ -10,11 +10,11 @@ word_by_word:
     translation: Said
     transliteration: qāla
   2:
-    arabic: لَهُمۡ
+    arabic: لَهُم
     translation: to them
     transliteration: lahum
   3:
-    arabic: مُّوۡسٰى
+    arabic: مُّوسَىٰ
     translation: Musa
     transliteration: mūsā
   4:
@@ -26,7 +26,7 @@ word_by_word:
     translation: (Do) not
     transliteration: lā
   6:
-    arabic: تَفۡتَرُوۡا
+    arabic: تَفۡتَرُواْ
     translation: invent
     transliteration: taftarū
   7:
@@ -34,19 +34,19 @@ word_by_word:
     translation: against
     transliteration: ʿalā
   8:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   9:
-    arabic: كَذِبًا
+    arabic: كَذِبٗا
     translation: a lie
     transliteration: kadhiban
   10:
-    arabic: فَيُسۡحِتَكُمۡ
+    arabic: فَيُسۡحِتَكُم
     translation: lest He will destroy you
     transliteration: fayus'ḥitakum
   11:
-    arabic: بِعَذَابٍ​ۚ
+    arabic: بِعَذَابٖۖ
     translation: with a punishment
     transliteration: biʿadhābin
   12:
@@ -62,7 +62,7 @@ word_by_word:
     translation: who
     transliteration: mani
   15:
-    arabic: افۡتَرٰى‏
+    arabic: ٱفۡتَرَىٰ
     translation: invented
     transliteration: if'tarā
 ---

@@ -1,13 +1,13 @@
 ---
-arabic_ayat: وَاَنَّ عَذَابِىۡ هُوَ الۡعَذَابُ الۡاَلِيۡمُ‏
+arabic_ayat: وَأَنَّ عَذَابِي هُوَ ٱلۡعَذَابُ ٱلۡأَلِيمُ
 sentence_translation: and that My torment is indeed the most painful.
 word_by_word:
   1:
-    arabic: وَاَنَّ
+    arabic: وَأَنَّ
     translation: And that
     transliteration: wa-anna
   2:
-    arabic: عَذَابِىۡ
+    arabic: عَذَابِي
     translation: My punishment
     transliteration: ʿadhābī
   3:
@@ -15,11 +15,11 @@ word_by_word:
     translation: it
     transliteration: huwa
   4:
-    arabic: الۡعَذَابُ
+    arabic: ٱلۡعَذَابُ
     translation: (is) the punishment
     transliteration: l-ʿadhābu
   5:
-    arabic: الۡاَلِيۡمُ‏
+    arabic: ٱلۡأَلِيمُ
     translation: the most painful
     transliteration: l-alīmu
 ---

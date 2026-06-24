@@ -1,9 +1,9 @@
 ---
-arabic_ayat: اِنَّ شَجَرَتَ الزَّقُّوۡمِۙ‏
+arabic_ayat: إِنَّ شَجَرَتَ ٱلزَّقُّومِ
 sentence_translation: Surely ˹the fruit of˺ the tree of Zaqqûm
 word_by_word:
   1:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   2:
@@ -11,7 +11,7 @@ word_by_word:
     translation: (the) tree
     transliteration: shajarata
   3:
-    arabic: الزَّقُّوۡمِۙ‏
+    arabic: ٱلزَّقُّومِ
     translation: (of) Zaqqum
     transliteration: l-zaqūmi
 ---

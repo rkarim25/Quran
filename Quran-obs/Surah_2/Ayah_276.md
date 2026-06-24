@@ -1,6 +1,6 @@
 ---
-arabic_ayat: يَمۡحَقُ اللّٰهُ الرِّبٰوا وَيُرۡبِى الصَّدَقٰتِ​ؕ وَاللّٰهُ لَا يُحِبُّ
-  كُلَّ كَفَّارٍ اَثِيۡمٍ‏
+arabic_ayat: يَمۡحَقُ ٱللَّهُ ٱلرِّبَوٰاْ وَيُرۡبِي ٱلصَّدَقَٰتِۗ وَٱللَّهُ لَا يُحِبُّ
+  كُلَّ كَفَّارٍ أَثِيمٍ
 sentence_translation: Allah has made interest fruitless and charity fruitful. And
   Allah does not like any ungrateful evildoer.
 word_by_word:
@@ -9,23 +9,23 @@ word_by_word:
     translation: Destroys
     transliteration: yamḥaqu
   2:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   3:
-    arabic: الرِّبٰوا
+    arabic: ٱلرِّبَوٰاْ
     translation: the usury
     transliteration: l-riba
   4:
-    arabic: وَيُرۡبِى
+    arabic: وَيُرۡبِي
     translation: and (gives) increase
     transliteration: wayur'bī
   5:
-    arabic: الصَّدَقٰتِ​ؕ
+    arabic: ٱلصَّدَقَٰتِۗ
     translation: (for) the charities
     transliteration: l-ṣadaqāti
   6:
-    arabic: وَاللّٰهُ
+    arabic: وَٱللَّهُ
     translation: And Allah
     transliteration: wal-lahu
   7:
@@ -45,7 +45,7 @@ word_by_word:
     translation: ungrateful
     transliteration: kaffārin
   11:
-    arabic: اَثِيۡمٍ‏
+    arabic: أَثِيمٍ
     translation: sinner
     transliteration: athīmin
 ---

@@ -1,5 +1,5 @@
 ---
-arabic_ayat: وَلَا تُطِعۡ كُلَّ حَلَّافٍ مَّهِيۡنٍۙ‏
+arabic_ayat: وَلَا تُطِعۡ كُلَّ حَلَّافٖ مَّهِينٍ
 sentence_translation: And do not obey the despicable, vain oath-taker,
 word_by_word:
   1:
@@ -15,11 +15,11 @@ word_by_word:
     translation: every
     transliteration: kulla
   4:
-    arabic: حَلَّافٍ
+    arabic: حَلَّافٖ
     translation: habitual swearer
     transliteration: ḥallāfin
   5:
-    arabic: مَّهِيۡنٍۙ‏
+    arabic: مَّهِينٍ
     translation: worthless
     transliteration: mahīnin
 ---

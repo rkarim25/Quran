@@ -1,6 +1,6 @@
 ---
-arabic_ayat: وَلَقَدۡ اَنۡزَلۡنَاۤ اِلَيۡكُمۡ اٰيٰتٍ مُّبَيِّنٰتٍ وَّمَثَلًا مِّنَ
-  الَّذِيۡنَ خَلَوۡا مِنۡ قَبۡلِكُمۡ وَمَوۡعِظَةً لِّـلۡمُتَّقِيۡنَ‏
+arabic_ayat: وَلَقَدۡ أَنزَلۡنَآ إِلَيۡكُمۡ ءَايَٰتٖ مُّبَيِّنَٰتٖ وَمَثَلٗا مِّنَ
+  ٱلَّذِينَ خَلَوۡاْ مِن قَبۡلِكُمۡ وَمَوۡعِظَةٗ لِّلۡمُتَّقِينَ
 sentence_translation: Indeed, We have sent down to you clear revelations, along with
   examples of those who had gone before you, and a lesson to the God-fearing.
 word_by_word:
@@ -9,23 +9,23 @@ word_by_word:
     translation: And verily
     transliteration: walaqad
   2:
-    arabic: اَنۡزَلۡنَاۤ
+    arabic: أَنزَلۡنَآ
     translation: We have sent down
     transliteration: anzalnā
   3:
-    arabic: اِلَيۡكُمۡ
+    arabic: إِلَيۡكُمۡ ءَ
     translation: to you
     transliteration: ilaykum
   4:
-    arabic: اٰيٰتٍ
+    arabic: ايَٰتٖ
     translation: Verses
     transliteration: āyātin
   5:
-    arabic: مُّبَيِّنٰتٍ
+    arabic: مُّبَيِّنَٰتٖ
     translation: clear
     transliteration: mubayyinātin
   6:
-    arabic: وَّمَثَلًا
+    arabic: وَمَثَلٗا
     translation: and an example
     transliteration: wamathalan
   7:
@@ -33,15 +33,15 @@ word_by_word:
     translation: of
     transliteration: mina
   8:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   9:
-    arabic: خَلَوۡا
+    arabic: خَلَوۡاْ
     translation: passed away
     transliteration: khalaw
   10:
-    arabic: مِنۡ
+    arabic: مِن
     translation: before you
     transliteration: min
   11:
@@ -49,11 +49,11 @@ word_by_word:
     translation: before you
     transliteration: qablikum
   12:
-    arabic: وَمَوۡعِظَةً
+    arabic: وَمَوۡعِظَةٗ
     translation: and an admonition
     transliteration: wamawʿiẓatan
   13:
-    arabic: لِّـلۡمُتَّقِيۡنَ‏
+    arabic: لِّلۡمُتَّقِينَ
     translation: for those who fear (Allah)
     transliteration: lil'muttaqīna
 ---

@@ -1,14 +1,14 @@
 ---
-arabic_ayat: وَاِذَا رَاَيۡتَ ثَمَّ رَاَيۡتَ نَعِيۡمًا وَّمُلۡكًا كَبِيۡرًا‏
+arabic_ayat: وَإِذَا رَأَيۡتَ ثَمَّ رَأَيۡتَ نَعِيمٗا وَمُلۡكٗا كَبِيرًا
 sentence_translation: And if you looked around, you would see ˹indescribable˺ bliss
   and a vast kingdom.
 word_by_word:
   1:
-    arabic: وَاِذَا
+    arabic: وَإِذَا
     translation: And when
     transliteration: wa-idhā
   2:
-    arabic: رَاَيۡتَ
+    arabic: رَأَيۡتَ
     translation: you look
     transliteration: ra-ayta
   3:
@@ -16,19 +16,19 @@ word_by_word:
     translation: then
     transliteration: thamma
   4:
-    arabic: رَاَيۡتَ
+    arabic: رَأَيۡتَ
     translation: you will see
     transliteration: ra-ayta
   5:
-    arabic: نَعِيۡمًا
+    arabic: نَعِيمٗا
     translation: blessings
     transliteration: naʿīman
   6:
-    arabic: وَّمُلۡكًا
+    arabic: وَمُلۡكٗا
     translation: and a kingdom
     transliteration: wamul'kan
   7:
-    arabic: كَبِيۡرًا‏
+    arabic: كَبِيرًا
     translation: great
     transliteration: kabīran
 ---

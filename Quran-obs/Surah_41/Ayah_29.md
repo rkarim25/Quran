@@ -1,7 +1,6 @@
 ---
-arabic_ayat: "وَقَالَ الَّذِيۡنَ كَفَرُوۡا رَبَّنَاۤ اَرِنَا الَّذَيۡنِ اَضَلّٰنَا\
-  \ مِنَ الۡجِنِّ وَالۡاِنۡسِ نَجۡعَلۡهُمَا تَحۡتَ اَقۡدَامِنَا لِيَكُوۡنَا مِنَ الۡاَسۡفَلِيۡنَ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: وَقَالَ ٱلَّذِينَ كَفَرُواْ رَبَّنَآ أَرِنَا ٱلَّذَيۡنِ أَضَلَّانَا
+  مِنَ ٱلۡجِنِّ وَٱلۡإِنسِ نَجۡعَلۡهُمَا تَحۡتَ أَقۡدَامِنَا لِيَكُونَا مِنَ ٱلۡأَسۡفَلِينَ
 sentence_translation: 'The disbelievers will ˹then˺ cry, “Our Lord! Show us those
   jinn and humans who led us astray: we will put them under our feet so that they
   will be among the lowest ˹in Hell˺.”'
@@ -11,27 +10,27 @@ word_by_word:
     translation: And (will) say
     transliteration: waqāla
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   3:
-    arabic: كَفَرُوۡا
+    arabic: كَفَرُواْ
     translation: disbelieve
     transliteration: kafarū
   4:
-    arabic: رَبَّنَاۤ
+    arabic: رَبَّنَآ
     translation: Our Lord
     transliteration: rabbanā
   5:
-    arabic: اَرِنَا
+    arabic: أَرِنَا
     translation: Show us
     transliteration: arinā
   6:
-    arabic: الَّذَيۡنِ
+    arabic: ٱلَّذَيۡنِ
     translation: those who
     transliteration: alladhayni
   7:
-    arabic: اَضَلّٰنَا
+    arabic: أَضَلَّانَا
     translation: misled us
     transliteration: aḍallānā
   8:
@@ -39,11 +38,11 @@ word_by_word:
     translation: of
     transliteration: mina
   9:
-    arabic: الۡجِنِّ
+    arabic: ٱلۡجِنِّ
     translation: the jinn
     transliteration: l-jini
   10:
-    arabic: وَالۡاِنۡسِ
+    arabic: وَٱلۡإِنسِ
     translation: and the men
     transliteration: wal-insi
   11:
@@ -55,11 +54,11 @@ word_by_word:
     translation: under
     transliteration: taḥta
   13:
-    arabic: اَقۡدَامِنَا
+    arabic: أَقۡدَامِنَا
     translation: our feet
     transliteration: aqdāminā
   14:
-    arabic: لِيَكُوۡنَا
+    arabic: لِيَكُونَا
     translation: that they be
     transliteration: liyakūnā
   15:
@@ -67,7 +66,7 @@ word_by_word:
     translation: of
     transliteration: mina
   16:
-    arabic: "الۡاَسۡفَلِيۡنَ‏ \uFEFF\uFEFF"
+    arabic: ٱلۡأَسۡفَلِينَ
     translation: the lowest
     transliteration: l-asfalīna
 ---

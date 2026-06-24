@@ -1,5 +1,5 @@
 ---
-arabic_ayat: رَبِّ هَبۡ لِىۡ مِنَ الصّٰلِحِيۡنَ‏
+arabic_ayat: رَبِّ هَبۡ لِي مِنَ ٱلصَّٰلِحِينَ
 sentence_translation: My Lord! Bless me with righteous offspring.”
 word_by_word:
   1:
@@ -11,7 +11,7 @@ word_by_word:
     translation: grant
     transliteration: hab
   3:
-    arabic: لِىۡ
+    arabic: لِي
     translation: me
     transliteration: lī
   4:
@@ -19,7 +19,7 @@ word_by_word:
     translation: of
     transliteration: mina
   5:
-    arabic: الصّٰلِحِيۡنَ‏
+    arabic: ٱلصَّٰلِحِينَ
     translation: the righteous
     transliteration: l-ṣāliḥīna
 ---

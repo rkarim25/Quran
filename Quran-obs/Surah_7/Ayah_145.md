@@ -1,7 +1,7 @@
 ---
-arabic_ayat: وَكَتَبۡنَا لَهٗ فِى الۡاَلۡوَاحِ مِنۡ كُلِّ شَىۡءٍ مَّوۡعِظَةً وَّتَفۡصِيۡلًا
-  لِّـكُلِّ شَىۡءٍ​ ۚ فَخُذۡهَا بِقُوَّةٍ وَّاۡمُرۡ قَوۡمَكَ يَاۡخُذُوۡا بِاَحۡسَنِهَا​
-  ؕ سَاُورِيۡكُمۡ دَارَ الۡفٰسِقِيۡنَ‏
+arabic_ayat: وَكَتَبۡنَا لَهُۥ فِي ٱلۡأَلۡوَاحِ مِن كُلِّ شَيۡءٖ مَّوۡعِظَةٗ وَتَفۡصِيلٗا
+  لِّكُلِّ شَيۡءٖ فَخُذۡهَا بِقُوَّةٖ وَأۡمُرۡ قَوۡمَكَ يَأۡخُذُواْ بِأَحۡسَنِهَاۚ
+  سَأُوْرِيكُمۡ دَارَ ٱلۡفَٰسِقِينَ
 sentence_translation: We wrote for him on the Tablets ˹the fundamentals˺ of everything;
   commandments and explanations of all things. ˹We commanded,˺ “Hold to this firmly
   and ask your people to take the best of it. I will soon show ˹all of˺ you the home
@@ -12,19 +12,19 @@ word_by_word:
     translation: And We ordained (laws)
     transliteration: wakatabnā
   2:
-    arabic: لَهٗ
+    arabic: لَهُۥ
     translation: for him
     transliteration: lahu
   3:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   4:
-    arabic: الۡاَلۡوَاحِ
+    arabic: ٱلۡأَلۡوَاحِ
     translation: 'the tablets '
     transliteration: l-alwāḥi
   5:
-    arabic: مِنۡ
+    arabic: مِن
     translation: of
     transliteration: min
   6:
@@ -32,23 +32,23 @@ word_by_word:
     translation: every
     transliteration: kulli
   7:
-    arabic: شَىۡءٍ
+    arabic: شَيۡءٖ
     translation: thing
     transliteration: shayin
   8:
-    arabic: مَّوۡعِظَةً
+    arabic: مَّوۡعِظَةٗ
     translation: an instruction
     transliteration: mawʿiẓatan
   9:
-    arabic: وَّتَفۡصِيۡلًا
+    arabic: وَتَفۡصِيلٗا
     translation: and explanation
     transliteration: watafṣīlan
   10:
-    arabic: لِّـكُلِّ
+    arabic: لِّكُلِّ
     translation: for every
     transliteration: likulli
   11:
-    arabic: شَىۡءٍ​ ۚ
+    arabic: شَيۡءٖ
     translation: thing
     transliteration: shayin
   12:
@@ -56,11 +56,11 @@ word_by_word:
     translation: So take them
     transliteration: fakhudh'hā
   13:
-    arabic: بِقُوَّةٍ
+    arabic: بِقُوَّةٖ
     translation: with firmness
     transliteration: biquwwatin
   14:
-    arabic: وَّاۡمُرۡ
+    arabic: وَأۡمُرۡ
     translation: and order
     transliteration: wamur
   15:
@@ -68,15 +68,15 @@ word_by_word:
     translation: your people
     transliteration: qawmaka
   16:
-    arabic: يَاۡخُذُوۡا
+    arabic: يَأۡخُذُواْ
     translation: (to) take
     transliteration: yakhudhū
   17:
-    arabic: بِاَحۡسَنِهَا​ ؕ
+    arabic: بِأَحۡسَنِهَاۚ
     translation: (the) best of it
     transliteration: bi-aḥsanihā
   18:
-    arabic: سَاُورِيۡكُمۡ
+    arabic: سَأُوْرِيكُمۡ
     translation: I will show you
     transliteration: sa-urīkum
   19:
@@ -84,7 +84,7 @@ word_by_word:
     translation: (the) home
     transliteration: dāra
   20:
-    arabic: الۡفٰسِقِيۡنَ‏
+    arabic: ٱلۡفَٰسِقِينَ
     translation: (of) the defiantly disobedient
     transliteration: l-fāsiqīna
 ---

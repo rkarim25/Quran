@@ -1,6 +1,6 @@
 ---
-arabic_ayat: قَالَ الَّذِيۡنَ اسۡتَكۡبَرُوۡۤا اِنَّا كُلٌّ فِيۡهَاۤ ۙاِنَّ اللّٰهَ
-  قَدۡ حَكَمَ بَيۡنَ الۡعِبَادِ‏
+arabic_ayat: قَالَ ٱلَّذِينَ ٱسۡتَكۡبَرُوٓاْ إِنَّا كُلّٞ فِيهَآ إِنَّ ٱللَّهَ قَدۡ
+  حَكَمَ بَيۡنَ ٱلۡعِبَادِ
 sentence_translation: The arrogant will say, “We are all in it! ˹For˺ Allah has already
   passed judgment over ˹His˺ servants.”
 word_by_word:
@@ -9,31 +9,31 @@ word_by_word:
     translation: Will say
     transliteration: qāla
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   3:
-    arabic: اسۡتَكۡبَرُوۡۤا
+    arabic: ٱسۡتَكۡبَرُوٓاْ
     translation: (were) arrogant
     transliteration: is'takbarū
   4:
-    arabic: اِنَّا
+    arabic: إِنَّا
     translation: Indeed, we
     transliteration: innā
   5:
-    arabic: كُلٌّ
+    arabic: كُلّٞ
     translation: all
     transliteration: kullun
   6:
-    arabic: فِيۡهَاۤ
+    arabic: فِيهَآ
     translation: (are) in it
     transliteration: fīhā
   7:
-    arabic: ۙاِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   8:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   9:
@@ -49,7 +49,7 @@ word_by_word:
     translation: between
     transliteration: bayna
   12:
-    arabic: الۡعِبَادِ‏
+    arabic: ٱلۡعِبَادِ
     translation: (His) slaves
     transliteration: l-ʿibādi
 ---

@@ -1,6 +1,6 @@
 ---
-arabic_ayat: هُنَالِكَ دَعَا زَكَرِيَّا رَبَّهٗ​ ​ۚ قَالَ رَبِّ هَبۡ لِىۡ مِنۡ لَّدُنۡكَ
-  ذُرِّيَّةً طَيِّبَةً​ ​ ۚ اِنَّكَ سَمِيۡعُ الدُّعَآءِ‏
+arabic_ayat: هُنَالِكَ دَعَا زَكَرِيَّا رَبَّهُۥۖ قَالَ رَبِّ هَبۡ لِي مِن لَّدُنكَ
+  ذُرِّيَّةٗ طَيِّبَةًۖ إِنَّكَ سَمِيعُ ٱلدُّعَآءِ
 sentence_translation: Then and there Zachariah prayed to his Lord, saying, “My Lord!
   Grant me—by your grace—righteous offspring. You are certainly the Hearer of ˹all˺
   prayers.”
@@ -18,7 +18,7 @@ word_by_word:
     translation: Zakariya
     transliteration: zakariyyā
   4:
-    arabic: رَبَّهٗ​ ​ۚ
+    arabic: رَبَّهُۥۖ
     translation: his Lord
     transliteration: rabbahu
   5:
@@ -34,35 +34,35 @@ word_by_word:
     translation: grant
     transliteration: hab
   8:
-    arabic: لِىۡ
+    arabic: لِي
     translation: '[for] me'
     transliteration: lī
   9:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   10:
-    arabic: لَّدُنۡكَ
+    arabic: لَّدُنكَ
     translation: Yourself
     transliteration: ladunka
   11:
-    arabic: ذُرِّيَّةً
+    arabic: ذُرِّيَّةٗ
     translation: offspring
     transliteration: dhurriyyatan
   12:
-    arabic: طَيِّبَةً​ ​ ۚ
+    arabic: طَيِّبَةًۖ
     translation: pure
     transliteration: ṭayyibatan
   13:
-    arabic: اِنَّكَ
+    arabic: إِنَّكَ
     translation: Indeed, You
     transliteration: innaka
   14:
-    arabic: سَمِيۡعُ
+    arabic: سَمِيعُ
     translation: (are) All-Hearer
     transliteration: samīʿu
   15:
-    arabic: الدُّعَآءِ‏
+    arabic: ٱلدُّعَآءِ
     translation: (of) the prayer
     transliteration: l-duʿāi
 ---

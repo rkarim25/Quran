@@ -1,51 +1,51 @@
 ---
-arabic_ayat: لَـقَدۡ اَنۡزَلۡنَاۤ اٰيٰتٍ مُّبَيِّنٰتٍ​ؕ وَ اللّٰهُ يَهۡدِىۡ مَنۡ يَّشَآءُ
-  اِلٰى صِرَاطٍ مُّسۡتَقِيۡمٍ‏
+arabic_ayat: لَّقَدۡ أَنزَلۡنَآ ءَايَٰتٖ مُّبَيِّنَٰتٖۚ وَٱللَّهُ يَهۡدِي مَن يَشَآءُ
+  إِلَىٰ صِرَٰطٖ مُّسۡتَقِيمٖ
 sentence_translation: We have indeed sent down revelations clarifying ˹the truth˺.
   But Allah ˹only˺ guides whoever He wills to the Straight Path.
 word_by_word:
   1:
-    arabic: لَـقَدۡ
+    arabic: لَّقَدۡ
     translation: Verily
     transliteration: laqad
   2:
-    arabic: اَنۡزَلۡنَاۤ
+    arabic: أَنزَلۡنَآ ءَ
     translation: We have sent down
     transliteration: anzalnā
   3:
-    arabic: اٰيٰتٍ
+    arabic: ايَٰتٖ
     translation: Verses
     transliteration: āyātin
   4:
-    arabic: مُّبَيِّنٰتٍ​ؕ
+    arabic: مُّبَيِّنَٰتٖۚ
     translation: clear
     transliteration: mubayyinātin
   5:
-    arabic: وَ اللّٰهُ
+    arabic: وَٱللَّهُ
     translation: And Allah
     transliteration: wal-lahu
   6:
-    arabic: يَهۡدِىۡ
+    arabic: يَهۡدِي
     translation: guides
     transliteration: yahdī
   7:
-    arabic: مَنۡ
+    arabic: مَن
     translation: whom
     transliteration: man
   8:
-    arabic: يَّشَآءُ
+    arabic: يَشَآءُ
     translation: He wills
     transliteration: yashāu
   9:
-    arabic: اِلٰى
+    arabic: إِلَىٰ
     translation: to
     transliteration: ilā
   10:
-    arabic: صِرَاطٍ
+    arabic: صِرَٰطٖ
     translation: a path
     transliteration: ṣirāṭin
   11:
-    arabic: مُّسۡتَقِيۡمٍ‏
+    arabic: مُّسۡتَقِيمٖ
     translation: straight
     transliteration: mus'taqīmin
 ---

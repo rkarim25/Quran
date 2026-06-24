@@ -1,21 +1,21 @@
 ---
-arabic_ayat: وَيۡلٌ لِّـكُلِّ اَفَّاكٍ اَثِيۡمٍۙ‏
+arabic_ayat: وَيۡلٞ لِّكُلِّ أَفَّاكٍ أَثِيمٖ
 sentence_translation: Woe to every sinful liar.
 word_by_word:
   1:
-    arabic: وَيۡلٌ
+    arabic: وَيۡلٞ
     translation: Woe
     transliteration: waylun
   2:
-    arabic: لِّـكُلِّ
+    arabic: لِّكُلِّ
     translation: to every
     transliteration: likulli
   3:
-    arabic: اَفَّاكٍ
+    arabic: أَفَّاكٍ
     translation: liar
     transliteration: affākin
   4:
-    arabic: اَثِيۡمٍۙ‏
+    arabic: أَثِيمٖ
     translation: sinful
     transliteration: athīmin
 ---

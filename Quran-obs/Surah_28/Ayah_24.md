@@ -1,12 +1,12 @@
 ---
-arabic_ayat: فَسَقٰى لَهُمَا ثُمَّ تَوَلّٰٓى اِلَى الظِّلِّ فَقَالَ رَبِّ اِنِّىۡ
-  لِمَاۤ اَنۡزَلۡتَ اِلَىَّ مِنۡ خَيۡرٍ فَقِيۡرٌ‏
+arabic_ayat: فَسَقَىٰ لَهُمَا ثُمَّ تَوَلَّىٰٓ إِلَى ٱلظِّلِّ فَقَالَ رَبِّ إِنِّي
+  لِمَآ أَنزَلۡتَ إِلَيَّ مِنۡ خَيۡرٖ فَقِيرٞ
 sentence_translation: So he watered ˹their herd˺ for them, then withdrew to the shade
   and prayed, “My Lord! I am truly in ˹desperate˺ need of whatever provision You may
   have in store for me.” 
 word_by_word:
   1:
-    arabic: فَسَقٰى
+    arabic: فَسَقَىٰ
     translation: So he watered
     transliteration: fasaqā
   2:
@@ -18,15 +18,15 @@ word_by_word:
     translation: Then
     transliteration: thumma
   4:
-    arabic: تَوَلّٰٓى
+    arabic: تَوَلَّىٰٓ
     translation: he turned back
     transliteration: tawallā
   5:
-    arabic: اِلَى
+    arabic: إِلَى
     translation: to
     transliteration: ilā
   6:
-    arabic: الظِّلِّ
+    arabic: ٱلظِّلِّ
     translation: the shade
     transliteration: l-ẓili
   7:
@@ -38,19 +38,19 @@ word_by_word:
     translation: My Lord
     transliteration: rabbi
   9:
-    arabic: اِنِّىۡ
+    arabic: إِنِّي
     translation: Indeed, I am
     transliteration: innī
   10:
-    arabic: لِمَاۤ
+    arabic: لِمَآ
     translation: of whatever
     transliteration: limā
   11:
-    arabic: اَنۡزَلۡتَ
+    arabic: أَنزَلۡتَ
     translation: You send
     transliteration: anzalta
   12:
-    arabic: اِلَىَّ
+    arabic: إِلَيَّ
     translation: to me
     transliteration: ilayya
   13:
@@ -58,11 +58,11 @@ word_by_word:
     translation: of
     transliteration: min
   14:
-    arabic: خَيۡرٍ
+    arabic: خَيۡرٖ
     translation: good
     transliteration: khayrin
   15:
-    arabic: فَقِيۡرٌ‏
+    arabic: فَقِيرٞ
     translation: (in) need
     transliteration: faqīrun
 ---

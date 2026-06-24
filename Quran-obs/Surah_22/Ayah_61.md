@@ -1,67 +1,67 @@
 ---
-arabic_ayat: ذٰ لِكَ بِاَنَّ اللّٰهَ يُوۡلِجُ الَّيۡلَ فِى النَّهَارِ وَيُوۡلِجُ النَّهَارَ
-  فِى الَّيۡلِ وَاَنَّ اللّٰهَ سَمِيۡعٌۢ بَصِيۡرٌ‏
+arabic_ayat: ذَٰلِكَ بِأَنَّ ٱللَّهَ يُولِجُ ٱلَّيۡلَ فِي ٱلنَّهَارِ وَيُولِجُ ٱلنَّهَارَ
+  فِي ٱلَّيۡلِ وَأَنَّ ٱللَّهَ سَمِيعُۢ بَصِيرٞ
 sentence_translation: That is because Allah causes the night to merge into the day,
   and the day into the night. Indeed, Allah is All-Hearing, All-Seeing.
 word_by_word:
   1:
-    arabic: ذٰ لِكَ
+    arabic: ذَٰلِكَ
     translation: That
     transliteration: dhālika
   2:
-    arabic: بِاَنَّ
+    arabic: بِأَنَّ
     translation: (is) because
     transliteration: bi-anna
   3:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   4:
-    arabic: يُوۡلِجُ
+    arabic: يُولِجُ
     translation: causes to enter
     transliteration: yūliju
   5:
-    arabic: الَّيۡلَ
+    arabic: ٱلَّيۡلَ
     translation: the night
     transliteration: al-layla
   6:
-    arabic: فِى
+    arabic: فِي
     translation: in (to)
     transliteration: fī
   7:
-    arabic: النَّهَارِ
+    arabic: ٱلنَّهَارِ
     translation: the day
     transliteration: l-nahāri
   8:
-    arabic: وَيُوۡلِجُ
+    arabic: وَيُولِجُ
     translation: and causes to enter
     transliteration: wayūliju
   9:
-    arabic: النَّهَارَ
+    arabic: ٱلنَّهَارَ
     translation: the day
     transliteration: l-nahāra
   10:
-    arabic: فِى
+    arabic: فِي
     translation: in (to)
     transliteration: fī
   11:
-    arabic: الَّيۡلِ
+    arabic: ٱلَّيۡلِ
     translation: the night
     transliteration: al-layli
   12:
-    arabic: وَاَنَّ
+    arabic: وَأَنَّ
     translation: And indeed
     transliteration: wa-anna
   13:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   14:
-    arabic: سَمِيۡعٌۢ
+    arabic: سَمِيعُۢ
     translation: (is) All-Hearer
     transliteration: samīʿun
   15:
-    arabic: بَصِيۡرٌ‏
+    arabic: بَصِيرٞ
     translation: All-Seer
     transliteration: baṣīrun
 ---

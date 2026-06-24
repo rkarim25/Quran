@@ -1,23 +1,23 @@
 ---
-arabic_ayat: وَ لَوۡلَاۤ اِذۡ سَمِعۡتُمُوۡهُ قُلۡتُمۡ مَّا يَكُوۡنُ لَـنَاۤ اَنۡ نَّـتَكَلَّمَ
-  بِهٰذَ ا ​ۖ  سُبۡحٰنَكَ هٰذَا بُهۡتَانٌ عَظِيۡمٌ‏
+arabic_ayat: وَلَوۡلَآ إِذۡ سَمِعۡتُمُوهُ قُلۡتُم مَّا يَكُونُ لَنَآ أَن نَّتَكَلَّمَ
+  بِهَٰذَا سُبۡحَٰنَكَ هَٰذَا بُهۡتَٰنٌ عَظِيمٞ
 sentence_translation: If only you had said upon hearing it, “How can we speak about
   such a thing! Glory be to You ˹O Lord˺! This is a heinous slander!”
 word_by_word:
   1:
-    arabic: وَ لَوۡلَاۤ
+    arabic: وَلَوۡلَآ
     translation: And why not
     transliteration: walawlā
   2:
-    arabic: اِذۡ
+    arabic: إِذۡ
     translation: when
     transliteration: idh
   3:
-    arabic: سَمِعۡتُمُوۡهُ
+    arabic: سَمِعۡتُمُوهُ
     translation: you heard it
     transliteration: samiʿ'tumūhu
   4:
-    arabic: قُلۡتُمۡ
+    arabic: قُلۡتُم
     translation: you said
     transliteration: qul'tum
   5:
@@ -25,39 +25,39 @@ word_by_word:
     translation: Not
     transliteration: mā
   6:
-    arabic: يَكُوۡنُ
+    arabic: يَكُونُ
     translation: it is
     transliteration: yakūnu
   7:
-    arabic: لَـنَاۤ
+    arabic: لَنَآ
     translation: for us
     transliteration: lanā
   8:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that
     transliteration: an
   9:
-    arabic: نَّـتَكَلَّمَ
+    arabic: نَّتَكَلَّمَ
     translation: we speak
     transliteration: natakallama
   10:
-    arabic: بِهٰذَ ا ​ۖ 
+    arabic: بِهَٰذَا
     translation: of this
     transliteration: bihādhā
   11:
-    arabic: سُبۡحٰنَكَ
+    arabic: سُبۡحَٰنَكَ
     translation: Glory be to You
     transliteration: sub'ḥānaka
   12:
-    arabic: هٰذَا
+    arabic: هَٰذَا
     translation: This
     transliteration: hādhā
   13:
-    arabic: بُهۡتَانٌ
+    arabic: بُهۡتَٰنٌ
     translation: (is) a slander
     transliteration: buh'tānun
   14:
-    arabic: عَظِيۡمٌ‏
+    arabic: عَظِيمٞ
     translation: great
     transliteration: ʿaẓīmun
 ---

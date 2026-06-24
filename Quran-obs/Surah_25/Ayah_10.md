@@ -1,19 +1,19 @@
 ---
-arabic_ayat: تَبٰـرَكَ الَّذِىۡۤ اِنۡ شَآءَ جَعَلَ لَكَ خَيۡرًا مِّنۡ ذٰ لِكَ جَنّٰتٍ
-  تَجۡرِىۡ مِنۡ تَحۡتِهَا الۡاَنۡهٰرُ ۙ وَيَجۡعَلْ لَّكَ قُصُوۡرًا‏
+arabic_ayat: تَبَارَكَ ٱلَّذِيٓ إِن شَآءَ جَعَلَ لَكَ خَيۡرٗا مِّن ذَٰلِكَ جَنَّٰتٖ
+  تَجۡرِي مِن تَحۡتِهَا ٱلۡأَنۡهَٰرُ وَيَجۡعَل لَّكَ قُصُورَۢا
 sentence_translation: 'Blessed is the One Who—if He wills—can give you far better
   than ˹all˺ that: gardens under which rivers flow, and palaces as well.'
 word_by_word:
   1:
-    arabic: تَبٰـرَكَ
+    arabic: تَبَارَكَ
     translation: Blessed is He
     transliteration: tabāraka
   2:
-    arabic: الَّذِىۡۤ
+    arabic: ٱلَّذِيٓ
     translation: Who
     transliteration: alladhī
   3:
-    arabic: اِنۡ
+    arabic: إِن
     translation: if
     transliteration: in
   4:
@@ -29,27 +29,27 @@ word_by_word:
     translation: for you
     transliteration: laka
   7:
-    arabic: خَيۡرًا
+    arabic: خَيۡرٗا
     translation: better
     transliteration: khayran
   8:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: than
     transliteration: min
   9:
-    arabic: ذٰ لِكَ
+    arabic: ذَٰلِكَ
     translation: 'that '
     transliteration: dhālika
   10:
-    arabic: جَنّٰتٍ
+    arabic: جَنَّٰتٖ
     translation: 'gardens '
     transliteration: jannātin
   11:
-    arabic: تَجۡرِىۡ
+    arabic: تَجۡرِي
     translation: flow
     transliteration: tajrī
   12:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   13:
@@ -57,11 +57,11 @@ word_by_word:
     translation: underneath it
     transliteration: taḥtihā
   14:
-    arabic: الۡاَنۡهٰرُ ۙ
+    arabic: ٱلۡأَنۡهَٰرُ
     translation: the rivers
     transliteration: l-anhāru
   15:
-    arabic: وَيَجۡعَلْ
+    arabic: وَيَجۡعَل
     translation: and He (could) make
     transliteration: wayajʿal
   16:
@@ -69,7 +69,7 @@ word_by_word:
     translation: for you
     transliteration: laka
   17:
-    arabic: قُصُوۡرًا‏
+    arabic: قُصُورَۢا
     translation: palaces
     transliteration: quṣūran
 ---

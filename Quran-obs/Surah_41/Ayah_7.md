@@ -1,10 +1,9 @@
 ---
-arabic_ayat: "الَّذِيۡنَ لَا يُؤۡتُوۡنَ الزَّكٰوةَ وَهُمۡ بِالۡاٰخِرَةِ هُمۡ كٰفِرُوۡنَ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: ٱلَّذِينَ لَا يُؤۡتُونَ ٱلزَّكَوٰةَ وَهُم بِٱلۡأٓخِرَةِ هُمۡ كَٰفِرُونَ
 sentence_translation: those who do not pay alms-tax and are in denial of the Hereafter.
 word_by_word:
   1:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: Those who
     transliteration: alladhīna
   2:
@@ -12,19 +11,19 @@ word_by_word:
     translation: (do) not
     transliteration: lā
   3:
-    arabic: يُؤۡتُوۡنَ
+    arabic: يُؤۡتُونَ
     translation: give
     transliteration: yu'tūna
   4:
-    arabic: الزَّكٰوةَ
+    arabic: ٱلزَّكَوٰةَ
     translation: the zakah
     transliteration: l-zakata
   5:
-    arabic: وَهُمۡ
+    arabic: وَهُم
     translation: and they
     transliteration: wahum
   6:
-    arabic: بِالۡاٰخِرَةِ
+    arabic: بِٱلۡأٓخِرَةِ
     translation: in the Hereafter
     transliteration: bil-ākhirati
   7:
@@ -32,7 +31,7 @@ word_by_word:
     translation: they
     transliteration: hum
   8:
-    arabic: "كٰفِرُوۡنَ‏ \uFEFF\uFEFF"
+    arabic: كَٰفِرُونَ
     translation: (are) disbelievers
     transliteration: kāfirūna
 ---

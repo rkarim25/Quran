@@ -1,13 +1,13 @@
 ---
-arabic_ayat: وَاِنۡ فَاتَكُمۡ شَىۡءٌ مِّنۡ اَزۡوَاجِكُمۡ اِلَى الۡكُفَّارِ فَعَاقَبۡتُمۡ
-  فَاٰ تُوا الَّذِيۡنَ ذَهَبَتۡ اَزۡوَاجُهُمۡ مِّثۡلَ مَاۤ اَنۡفَقُوۡا​ ؕ وَاتَّقُوا
-  اللّٰهَ الَّذِىۡۤ اَنۡـتُمۡ بِهٖ مُؤۡمِنُوۡنَ‏
+arabic_ayat: وَإِن فَاتَكُمۡ شَيۡءٞ مِّنۡ أَزۡوَٰجِكُمۡ إِلَى ٱلۡكُفَّارِ فَعَاقَبۡتُمۡ
+  فَـَٔاتُواْ ٱلَّذِينَ ذَهَبَتۡ أَزۡوَٰجُهُم مِّثۡلَ مَآ أَنفَقُواْۚ وَٱتَّقُواْ
+  ٱللَّهَ ٱلَّذِيٓ أَنتُم بِهِۦ مُؤۡمِنُونَ
 sentence_translation: And if any of your wives desert you to the disbelievers, and
   later you take spoils from them, then pay those whose wives have gone, the equivalent
   of whatever ˹dowry˺ they had paid. And be mindful of Allah, in Whom you believe.
 word_by_word:
   1:
-    arabic: وَاِنۡ
+    arabic: وَإِن
     translation: And if
     transliteration: wa-in
   2:
@@ -15,7 +15,7 @@ word_by_word:
     translation: have gone from you
     transliteration: fātakum
   3:
-    arabic: شَىۡءٌ
+    arabic: شَيۡءٞ
     translation: any
     transliteration: shayon
   4:
@@ -23,15 +23,15 @@ word_by_word:
     translation: of
     transliteration: min
   5:
-    arabic: اَزۡوَاجِكُمۡ
+    arabic: أَزۡوَٰجِكُمۡ
     translation: your wives
     transliteration: azwājikum
   6:
-    arabic: اِلَى
+    arabic: إِلَى
     translation: to
     transliteration: ilā
   7:
-    arabic: الۡكُفَّارِ
+    arabic: ٱلۡكُفَّارِ
     translation: the disbelievers
     transliteration: l-kufāri
   8:
@@ -39,11 +39,11 @@ word_by_word:
     translation: then your turn comes
     transliteration: faʿāqabtum
   9:
-    arabic: فَاٰ تُوا
+    arabic: فَـَٔاتُواْ
     translation: then give
     transliteration: faātū
   10:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: (to) those who
     transliteration: alladhīna
   11:
@@ -51,7 +51,7 @@ word_by_word:
     translation: have gone
     transliteration: dhahabat
   12:
-    arabic: اَزۡوَاجُهُمۡ
+    arabic: أَزۡوَٰجُهُم
     translation: their wives
     transliteration: azwājuhum
   13:
@@ -59,35 +59,35 @@ word_by_word:
     translation: (the) like
     transliteration: mith'la
   14:
-    arabic: مَاۤ
+    arabic: مَآ
     translation: (of) what
     transliteration: mā
   15:
-    arabic: اَنۡفَقُوۡا​ ؕ
+    arabic: أَنفَقُواْۚ
     translation: they had spent
     transliteration: anfaqū
   16:
-    arabic: وَاتَّقُوا
+    arabic: وَٱتَّقُواْ
     translation: And fear
     transliteration: wa-ittaqū
   17:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   18:
-    arabic: الَّذِىۡۤ
+    arabic: ٱلَّذِيٓ
     translation: (in) Whom
     transliteration: alladhī
   19:
-    arabic: اَنۡـتُمۡ
+    arabic: أَنتُم
     translation: you
     transliteration: antum
   20:
-    arabic: بِهٖ
+    arabic: بِهِۦ
     translation: '[in Him]'
     transliteration: bihi
   21:
-    arabic: مُؤۡمِنُوۡنَ‏
+    arabic: مُؤۡمِنُونَ
     translation: (are) believers
     transliteration: mu'minūna
 ---

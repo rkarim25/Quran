@@ -1,23 +1,23 @@
 ---
-arabic_ayat: اِنَّ وَلىِّۦَ اللّٰهُ الَّذِىۡ نَزَّلَ الۡـكِتٰبَ ​ۖ  وَهُوَ يَتَوَلَّى
-  الصّٰلِحِيۡنَ‏
+arabic_ayat: إِنَّ وَلِـِّۧيَ ٱللَّهُ ٱلَّذِي نَزَّلَ ٱلۡكِتَٰبَۖ وَهُوَ يَتَوَلَّى
+  ٱلصَّٰلِحِينَ
 sentence_translation: “Indeed, my Protector is Allah Who has revealed this Book. For
   He ˹alone˺ protects the righteous.
 word_by_word:
   1:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   2:
-    arabic: وَلىِّۦَ
+    arabic: وَلِـِّۧيَ
     translation: my protector
     transliteration: waliyyiya
   3:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: (is) Allah
     transliteration: l-lahu
   4:
-    arabic: الَّذِىۡ
+    arabic: ٱلَّذِي
     translation: the One Who
     transliteration: alladhī
   5:
@@ -25,7 +25,7 @@ word_by_word:
     translation: revealed
     transliteration: nazzala
   6:
-    arabic: الۡـكِتٰبَ ​ۖ 
+    arabic: ٱلۡكِتَٰبَۖ
     translation: the Book
     transliteration: l-kitāba
   7:
@@ -37,7 +37,7 @@ word_by_word:
     translation: protects
     transliteration: yatawallā
   9:
-    arabic: الصّٰلِحِيۡنَ‏
+    arabic: ٱلصَّٰلِحِينَ
     translation: the righteous
     transliteration: l-ṣāliḥīna
 ---

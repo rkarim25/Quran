@@ -1,50 +1,50 @@
 ---
-arabic_ayat: اِنۡ هِىَ اِلَّاۤ اَسۡمَآءٌ سَمَّيۡتُمُوۡهَاۤ اَنۡتُمۡ وَاٰبَآؤُكُمۡ
-  مَّاۤ اَنۡزَلَ اللّٰهُ بِهَا مِنۡ سُلۡطٰنٍ​ؕ اِنۡ يَّتَّبِعُوۡنَ اِلَّا الظَّنَّ
-  وَمَا تَهۡوَى الۡاَنۡفُسُ​ۚ وَلَقَدۡ جَآءَهُمۡ مِّنۡ رَّبِّهِمُ الۡهُدٰىؕ‏
+arabic_ayat: إِنۡ هِيَ إِلَّآ أَسۡمَآءٞ سَمَّيۡتُمُوهَآ أَنتُمۡ وَءَابَآؤُكُم
+  مَّآ أَنزَلَ ٱللَّهُ بِهَا مِن سُلۡطَٰنٍۚ إِن يَتَّبِعُونَ إِلَّا ٱلظَّنَّ وَمَا
+  تَهۡوَى ٱلۡأَنفُسُۖ وَلَقَدۡ جَآءَهُم مِّن رَّبِّهِمُ ٱلۡهُدَىٰٓ
 sentence_translation: These ˹idols˺ are mere names that you and your forefathers have
   made up—a practice Allah has never authorized. They follow nothing but ˹inherited˺
   assumptions and whatever ˹their˺ souls desire, although ˹true˺ guidance has already
   come to them from their Lord.
 word_by_word:
   1:
-    arabic: اِنۡ
+    arabic: إِنۡ
     translation: Not
     transliteration: in
   2:
-    arabic: هِىَ
+    arabic: هِيَ
     translation: they
     transliteration: hiya
   3:
-    arabic: اِلَّاۤ
+    arabic: إِلَّآ
     translation: (are) except
     transliteration: illā
   4:
-    arabic: اَسۡمَآءٌ
+    arabic: أَسۡمَآءٞ
     translation: names
     transliteration: asmāon
   5:
-    arabic: سَمَّيۡتُمُوۡهَاۤ
+    arabic: سَمَّيۡتُمُوهَآ
     translation: you have named them
     transliteration: sammaytumūhā
   6:
-    arabic: اَنۡتُمۡ
+    arabic: أَنتُمۡ
     translation: you
     transliteration: antum
   7:
-    arabic: وَاٰبَآؤُكُمۡ
+    arabic: وَءَابَآؤُكُم
     translation: and your forefathers
     transliteration: waābāukum
   8:
-    arabic: مَّاۤ
+    arabic: مَّآ
     translation: not
     transliteration: mā
   9:
-    arabic: اَنۡزَلَ
+    arabic: أَنزَلَ
     translation: has Allah sent down
     transliteration: anzala
   10:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: has Allah sent down
     transliteration: l-lahu
   11:
@@ -52,27 +52,27 @@ word_by_word:
     translation: for it
     transliteration: bihā
   12:
-    arabic: مِنۡ
+    arabic: مِن
     translation: any
     transliteration: min
   13:
-    arabic: سُلۡطٰنٍ​ؕ
+    arabic: سُلۡطَٰنٍۚ
     translation: authority
     transliteration: sul'ṭānin
   14:
-    arabic: اِنۡ
+    arabic: إِن
     translation: Not
     transliteration: in
   15:
-    arabic: يَّتَّبِعُوۡنَ
+    arabic: يَتَّبِعُونَ
     translation: they follow
     transliteration: yattabiʿūna
   16:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   17:
-    arabic: الظَّنَّ
+    arabic: ٱلظَّنَّ
     translation: assumption
     transliteration: l-ẓana
   18:
@@ -84,7 +84,7 @@ word_by_word:
     translation: desire
     transliteration: tahwā
   20:
-    arabic: الۡاَنۡفُسُ​ۚ
+    arabic: ٱلۡأَنفُسُۖ
     translation: the(ir) souls
     transliteration: l-anfusu
   21:
@@ -92,11 +92,11 @@ word_by_word:
     translation: And certainly
     transliteration: walaqad
   22:
-    arabic: جَآءَهُمۡ
+    arabic: جَآءَهُم
     translation: has come to them
     transliteration: jāahum
   23:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: from
     transliteration: min
   24:
@@ -104,7 +104,7 @@ word_by_word:
     translation: their Lord
     transliteration: rabbihimu
   25:
-    arabic: الۡهُدٰىؕ‏
+    arabic: ٱلۡهُدَىٰٓ
     translation: the guidance
     transliteration: l-hudā
 ---

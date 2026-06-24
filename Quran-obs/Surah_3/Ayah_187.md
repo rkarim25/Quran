@@ -1,41 +1,41 @@
 ---
-arabic_ayat: وَاِذۡ اَخَذَ اللّٰهُ مِيۡثَاقَ الَّذِيۡنَ اُوۡتُوۡا الۡكِتٰبَ لَتُبَيِّنُنَّهٗ
-  لِلنَّاسِ وَلَا تَكۡتُمُوۡنَهٗ فَنَبَذُوۡهُ وَرَآءَ ظُهُوۡرِهِمۡ وَ اشۡتَرَوۡا
-  بِهٖ ثَمَنًا قَلِيۡلًاؕ فَبِئۡسَ مَا يَشۡتَرُوۡنَ‏
+arabic_ayat: وَإِذۡ أَخَذَ ٱللَّهُ مِيثَٰقَ ٱلَّذِينَ أُوتُواْ ٱلۡكِتَٰبَ لَتُبَيِّنُنَّهُۥ
+  لِلنَّاسِ وَلَا تَكۡتُمُونَهُۥ فَنَبَذُوهُ وَرَآءَ ظُهُورِهِمۡ وَٱشۡتَرَوۡاْ بِهِۦ
+  ثَمَنٗا قَلِيلٗاۖ فَبِئۡسَ مَا يَشۡتَرُونَ
 sentence_translation: ˹Remember, O  Prophet,˺ when Allah took the covenant of those
   who were given the Scripture to make it known to people and not hide it, yet they
   cast it behind their backs and traded it for a fleeting gain. What a miserable profit!
 word_by_word:
   1:
-    arabic: وَاِذۡ
+    arabic: وَإِذۡ
     translation: And when
     transliteration: wa-idh
   2:
-    arabic: اَخَذَ
+    arabic: أَخَذَ
     translation: took
     transliteration: akhadha
   3:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   4:
-    arabic: مِيۡثَاقَ
+    arabic: مِيثَٰقَ
     translation: a Covenant
     transliteration: mīthāqa
   5:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: (from) those who
     transliteration: alladhīna
   6:
-    arabic: اُوۡتُوۡا
+    arabic: أُوتُواْ
     translation: were given
     transliteration: ūtū
   7:
-    arabic: الۡكِتٰبَ
+    arabic: ٱلۡكِتَٰبَ
     translation: the Book
     transliteration: l-kitāba
   8:
-    arabic: لَتُبَيِّنُنَّهٗ
+    arabic: لَتُبَيِّنُنَّهُۥ
     translation: You certainly make it clear
     transliteration: latubayyinunnahu
   9:
@@ -47,11 +47,11 @@ word_by_word:
     translation: and (do) not
     transliteration: walā
   11:
-    arabic: تَكۡتُمُوۡنَهٗ
+    arabic: تَكۡتُمُونَهُۥ
     translation: conceal it
     transliteration: taktumūnahu
   12:
-    arabic: فَنَبَذُوۡهُ
+    arabic: فَنَبَذُوهُ
     translation: Then they threw it
     transliteration: fanabadhūhu
   13:
@@ -59,23 +59,23 @@ word_by_word:
     translation: behind
     transliteration: warāa
   14:
-    arabic: ظُهُوۡرِهِمۡ
+    arabic: ظُهُورِهِمۡ
     translation: their backs
     transliteration: ẓuhūrihim
   15:
-    arabic: وَ اشۡتَرَوۡا
+    arabic: وَٱشۡتَرَوۡاْ
     translation: and they exchanged
     transliteration: wa-ish'taraw
   16:
-    arabic: بِهٖ
+    arabic: بِهِۦ
     translation: '[with] it'
     transliteration: bihi
   17:
-    arabic: ثَمَنًا
+    arabic: ثَمَنٗا
     translation: (for) a price
     transliteration: thamanan
   18:
-    arabic: قَلِيۡلًاؕ
+    arabic: قَلِيلٗاۖ
     translation: little
     transliteration: qalīlan
   19:
@@ -87,7 +87,7 @@ word_by_word:
     translation: (is) what
     transliteration: mā
   21:
-    arabic: يَشۡتَرُوۡنَ‏
+    arabic: يَشۡتَرُونَ
     translation: they purchase
     transliteration: yashtarūna
 ---

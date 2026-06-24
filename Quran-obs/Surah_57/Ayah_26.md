@@ -1,7 +1,6 @@
 ---
-arabic_ayat: "وَلَقَدۡ اَرۡسَلۡنَا نُوۡحًا وَّ اِبۡرٰهِيۡمَ وَجَعَلۡنَا فِىۡ ذُرِّيَّتِهِمَا\
-  \ النُّبُوَّةَ وَالۡـكِتٰبَ​ فَمِنۡهُمۡ مُّهۡتَدٍ​ۚ وَكَثِيۡرٌ مِّنۡهُمۡ فٰسِقُوۡنَ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: وَلَقَدۡ أَرۡسَلۡنَا نُوحٗا وَإِبۡرَٰهِيمَ وَجَعَلۡنَا فِي ذُرِّيَّتِهِمَا
+  ٱلنُّبُوَّةَ وَٱلۡكِتَٰبَۖ فَمِنۡهُم مُّهۡتَدٖۖ وَكَثِيرٞ مِّنۡهُمۡ فَٰسِقُونَ
 sentence_translation: And indeed, We sent Noah and Abraham and reserved prophethood
   and revelation for their descendants. Some of them are ˹rightly˺ guided, while most
   are rebellious.
@@ -11,15 +10,15 @@ word_by_word:
     translation: And certainly
     transliteration: walaqad
   2:
-    arabic: اَرۡسَلۡنَا
+    arabic: أَرۡسَلۡنَا
     translation: We sent
     transliteration: arsalnā
   3:
-    arabic: نُوۡحًا
+    arabic: نُوحٗا
     translation: Nuh
     transliteration: nūḥan
   4:
-    arabic: وَّ اِبۡرٰهِيۡمَ
+    arabic: وَإِبۡرَٰهِيمَ
     translation: and Ibrahim
     transliteration: wa-ib'rāhīma
   5:
@@ -27,7 +26,7 @@ word_by_word:
     translation: and We placed
     transliteration: wajaʿalnā
   6:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   7:
@@ -35,23 +34,23 @@ word_by_word:
     translation: their offspring
     transliteration: dhurriyyatihimā
   8:
-    arabic: النُّبُوَّةَ
+    arabic: ٱلنُّبُوَّةَ
     translation: Prophethood
     transliteration: l-nubuwata
   9:
-    arabic: وَالۡـكِتٰبَ​
+    arabic: وَٱلۡكِتَٰبَۖ
     translation: and the Scripture
     transliteration: wal-kitāba
   10:
-    arabic: فَمِنۡهُمۡ
+    arabic: فَمِنۡهُم
     translation: and among them
     transliteration: famin'hum
   11:
-    arabic: مُّهۡتَدٍ​ۚ
+    arabic: مُّهۡتَدٖۖ
     translation: (is) a guided one
     transliteration: muh'tadin
   12:
-    arabic: وَكَثِيۡرٌ
+    arabic: وَكَثِيرٞ
     translation: but most
     transliteration: wakathīrun
   13:
@@ -59,7 +58,7 @@ word_by_word:
     translation: of them
     transliteration: min'hum
   14:
-    arabic: "فٰسِقُوۡنَ‏ \uFEFF\uFEFF"
+    arabic: فَٰسِقُونَ
     translation: (are) defiantly disobediently
     transliteration: fāsiqūna
 ---

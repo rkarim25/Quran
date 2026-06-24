@@ -1,48 +1,48 @@
 ---
-arabic_ayat: وَالَّذِيۡنَ كَفَرُوۡا بِاٰيٰتِ اللّٰهِ وَلِقَآٮِٕهٖۤ اُولٰٓٮِٕكَ يَٮِٕسُوۡا
-  مِنۡ رَّحۡمَتِىۡ وَاُولٰٓٮِٕكَ لَهُمۡ عَذَابٌ اَلِيۡمٌ‏
+arabic_ayat: وَٱلَّذِينَ كَفَرُواْ بِـَٔايَٰتِ ٱللَّهِ وَلِقَآئِهِۦٓ أُوْلَٰٓئِكَ
+  يَئِسُواْ مِن رَّحۡمَتِي وَأُوْلَٰٓئِكَ لَهُمۡ عَذَابٌ أَلِيمٞ
 sentence_translation: As for those who disbelieve in Allah’s signs and the meeting
   with Him, it is they who will have no hope in His mercy. And it is they who will
   suffer a painful punishment.
 word_by_word:
   1:
-    arabic: وَالَّذِيۡنَ
+    arabic: وَٱلَّذِينَ
     translation: And those who
     transliteration: wa-alladhīna
   2:
-    arabic: كَفَرُوۡا
+    arabic: كَفَرُواْ
     translation: disbelieve
     transliteration: kafarū
   3:
-    arabic: بِاٰيٰتِ
+    arabic: بِـَٔايَٰتِ
     translation: in (the) Signs
     transliteration: biāyāti
   4:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (of) Allah
     transliteration: l-lahi
   5:
-    arabic: وَلِقَآٮِٕهٖۤ
+    arabic: وَلِقَآئِهِۦٓ
     translation: and (the) meeting (with) Him
     transliteration: waliqāihi
   6:
-    arabic: اُولٰٓٮِٕكَ
+    arabic: أُوْلَٰٓئِكَ
     translation: those
     transliteration: ulāika
   7:
-    arabic: يَٮِٕسُوۡا
+    arabic: يَئِسُواْ
     translation: (have) despaired
     transliteration: ya-isū
   8:
-    arabic: مِنۡ
+    arabic: مِن
     translation: of
     transliteration: min
   9:
-    arabic: رَّحۡمَتِىۡ
+    arabic: رَّحۡمَتِي
     translation: My Mercy
     transliteration: raḥmatī
   10:
-    arabic: وَاُولٰٓٮِٕكَ
+    arabic: وَأُوْلَٰٓئِكَ
     translation: And those
     transliteration: wa-ulāika
   11:
@@ -54,7 +54,7 @@ word_by_word:
     translation: (is) a punishment
     transliteration: ʿadhābun
   13:
-    arabic: اَلِيۡمٌ‏
+    arabic: أَلِيمٞ
     translation: painful
     transliteration: alīmun
 ---

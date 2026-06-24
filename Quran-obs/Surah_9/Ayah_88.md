@@ -1,45 +1,44 @@
 ---
-arabic_ayat: "لٰـكِنِ الرَّسُوۡلُ وَالَّذِيۡنَ اٰمَنُوۡا مَعَهٗ جَاهَدُوۡا بِاَمۡوَالِهِمۡ\
-  \ وَاَنۡفُسِهِمۡ​ؕ وَاُولٰۤٮِٕكَ لَهُمُ الۡخَيۡـرٰتُ​ وَاُولٰۤٮِٕكَ هُمُ الۡمُفۡلِحُوۡنَ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: لَٰكِنِ ٱلرَّسُولُ وَٱلَّذِينَ ءَامَنُواْ مَعَهُۥ جَٰهَدُواْ بِأَمۡوَٰلِهِمۡ
+  وَأَنفُسِهِمۡۚ وَأُوْلَٰٓئِكَ لَهُمُ ٱلۡخَيۡرَٰتُۖ وَأُوْلَٰٓئِكَ هُمُ ٱلۡمُفۡلِحُونَ
 sentence_translation: But the Messenger and the believers with him strived with their
   wealth and their lives. They will have all the best, and it is they who will be
   successful.
 word_by_word:
   1:
-    arabic: لٰـكِنِ
+    arabic: لَٰكِنِ
     translation: But
     transliteration: lākini
   2:
-    arabic: الرَّسُوۡلُ
+    arabic: ٱلرَّسُولُ
     translation: the Messenger
     transliteration: l-rasūlu
   3:
-    arabic: وَالَّذِيۡنَ
+    arabic: وَٱلَّذِينَ ءَ
     translation: and those who
     transliteration: wa-alladhīna
   4:
-    arabic: اٰمَنُوۡا
+    arabic: امَنُواْ
     translation: believed
     transliteration: āmanū
   5:
-    arabic: مَعَهٗ
+    arabic: مَعَهُۥ
     translation: with him
     transliteration: maʿahu
   6:
-    arabic: جَاهَدُوۡا
+    arabic: جَٰهَدُواْ
     translation: strove
     transliteration: jāhadū
   7:
-    arabic: بِاَمۡوَالِهِمۡ
+    arabic: بِأَمۡوَٰلِهِمۡ
     translation: with their wealth
     transliteration: bi-amwālihim
   8:
-    arabic: وَاَنۡفُسِهِمۡ​ؕ
+    arabic: وَأَنفُسِهِمۡۚ
     translation: and their lives
     transliteration: wa-anfusihim
   9:
-    arabic: وَاُولٰۤٮِٕكَ
+    arabic: وَأُوْلَٰٓئِكَ
     translation: And those
     transliteration: wa-ulāika
   10:
@@ -47,11 +46,11 @@ word_by_word:
     translation: for them
     transliteration: lahumu
   11:
-    arabic: الۡخَيۡـرٰتُ​
+    arabic: ٱلۡخَيۡرَٰتُۖ
     translation: (are) the good things
     transliteration: l-khayrātu
   12:
-    arabic: وَاُولٰۤٮِٕكَ
+    arabic: وَأُوْلَٰٓئِكَ
     translation: 'and those '
     transliteration: wa-ulāika
   13:
@@ -59,7 +58,7 @@ word_by_word:
     translation: they
     transliteration: humu
   14:
-    arabic: "الۡمُفۡلِحُوۡنَ‏ \uFEFF\uFEFF"
+    arabic: ٱلۡمُفۡلِحُونَ
     translation: (are) the successful ones
     transliteration: l-muf'liḥūna
 ---

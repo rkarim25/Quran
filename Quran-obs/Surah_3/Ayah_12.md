@@ -1,35 +1,35 @@
 ---
-arabic_ayat: قُلۡ لِّلَّذِيۡنَ كَفَرُوۡا سَتُغۡلَبُوۡنَ وَتُحۡشَرُوۡنَ اِلٰى جَهَنَّمَ​ؕ
-  وَبِئۡسَ الۡمِهَادُ‏
+arabic_ayat: قُل لِّلَّذِينَ كَفَرُواْ سَتُغۡلَبُونَ وَتُحۡشَرُونَ إِلَىٰ جَهَنَّمَۖ
+  وَبِئۡسَ ٱلۡمِهَادُ
 sentence_translation: ˹O Prophet!˺ Tell the disbelievers, “Soon you will be overpowered
   and driven to Hell—what an evil place to rest!”
 word_by_word:
   1:
-    arabic: قُلۡ
+    arabic: قُل
     translation: Say
     transliteration: qul
   2:
-    arabic: لِّلَّذِيۡنَ
+    arabic: لِّلَّذِينَ
     translation: to those who
     transliteration: lilladhīna
   3:
-    arabic: كَفَرُوۡا
+    arabic: كَفَرُواْ
     translation: disbelieve[d]
     transliteration: kafarū
   4:
-    arabic: سَتُغۡلَبُوۡنَ
+    arabic: سَتُغۡلَبُونَ
     translation: You will be overcome
     transliteration: satugh'labūna
   5:
-    arabic: وَتُحۡشَرُوۡنَ
+    arabic: وَتُحۡشَرُونَ
     translation: and you will be gathered
     transliteration: watuḥ'sharūna
   6:
-    arabic: اِلٰى
+    arabic: إِلَىٰ
     translation: to
     transliteration: ilā
   7:
-    arabic: جَهَنَّمَ​ؕ
+    arabic: جَهَنَّمَۖ
     translation: Hell
     transliteration: jahannama
   8:
@@ -37,7 +37,7 @@ word_by_word:
     translation: '[and] an evil'
     transliteration: wabi'sa
   9:
-    arabic: الۡمِهَادُ‏
+    arabic: ٱلۡمِهَادُ
     translation: '[the] resting place'
     transliteration: l-mihādu
 ---

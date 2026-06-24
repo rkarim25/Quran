@@ -1,11 +1,11 @@
 ---
-arabic_ayat: اُنْظُرۡ كَيۡفَ كَذَبُوۡا عَلٰٓى اَنۡفُسِهِمۡ​ وَضَلَّ عَنۡهُمۡ مَّا
-  كَانُوۡا يَفۡتَرُوۡنَ‏
+arabic_ayat: ٱنظُرۡ كَيۡفَ كَذَبُواْ عَلَىٰٓ أَنفُسِهِمۡۚ وَضَلَّ عَنۡهُم مَّا كَانُواْ
+  يَفۡتَرُونَ
 sentence_translation: See how they will lie about themselves and how those ˹gods˺
   they fabricated will fail them!
 word_by_word:
   1:
-    arabic: اُنْظُرۡ
+    arabic: ٱنظُرۡ
     translation: Look
     transliteration: unẓur
   2:
@@ -13,15 +13,15 @@ word_by_word:
     translation: how
     transliteration: kayfa
   3:
-    arabic: كَذَبُوۡا
+    arabic: كَذَبُواْ
     translation: they lied
     transliteration: kadhabū
   4:
-    arabic: عَلٰٓى
+    arabic: عَلَىٰٓ
     translation: against
     transliteration: ʿalā
   5:
-    arabic: اَنۡفُسِهِمۡ​
+    arabic: أَنفُسِهِمۡۚ
     translation: themselves
     transliteration: anfusihim
   6:
@@ -29,7 +29,7 @@ word_by_word:
     translation: And lost
     transliteration: waḍalla
   7:
-    arabic: عَنۡهُمۡ
+    arabic: عَنۡهُم
     translation: from them
     transliteration: ʿanhum
   8:
@@ -37,11 +37,11 @@ word_by_word:
     translation: what
     transliteration: mā
   9:
-    arabic: كَانُوۡا
+    arabic: كَانُواْ
     translation: they used to
     transliteration: kānū
   10:
-    arabic: يَفۡتَرُوۡنَ‏
+    arabic: يَفۡتَرُونَ
     translation: invent
     transliteration: yaftarūna
 ---

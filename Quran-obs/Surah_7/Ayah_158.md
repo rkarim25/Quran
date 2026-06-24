@@ -1,8 +1,8 @@
 ---
-arabic_ayat: قُلۡ يٰۤاَيُّهَا النَّاسُ اِنِّىۡ رَسُوۡلُ اللّٰهِ اِلَيۡكُمۡ جَمِيۡعَاْ
-  ۨالَّذِىۡ لَهٗ مُلۡكُ السَّمٰوٰتِ وَالۡاَرۡضِ​ۚ لَاۤ اِلٰهَ اِلَّا هُوَ يُحۡىٖ وَيُمِيۡتُ​
-  فَاٰمِنُوۡا بِاللّٰهِ وَرَسُوۡلِهِ النَّبِىِّ الۡاُمِّىِّ الَّذِىۡ يُؤۡمِنُ بِاللّٰهِ
-  وَكَلِمٰتِهٖ وَاتَّبِعُوۡهُ لَعَلَّكُمۡ تَهۡتَدُوۡنَ‏
+arabic_ayat: قُلۡ يَٰٓأَيُّهَا ٱلنَّاسُ إِنِّي رَسُولُ ٱللَّهِ إِلَيۡكُمۡ جَمِيعًا
+  ٱلَّذِي لَهُۥ مُلۡكُ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِۖ لَآ إِلَٰهَ إِلَّا هُوَ يُحۡيِۦ
+  وَيُمِيتُۖ فَـَٔامِنُواْ بِٱللَّهِ وَرَسُولِهِ ٱلنَّبِيِّ ٱلۡأُمِّيِّ ٱلَّذِي يُؤۡمِنُ
+  بِٱللَّهِ وَكَلِمَٰتِهِۦ وَٱتَّبِعُوهُ لَعَلَّكُمۡ تَهۡتَدُونَ
 sentence_translation: Say, ˹O Prophet,˺ “O humanity! I am Allah’s Messenger to you
   all. To Him ˹alone˺ belongs the kingdom of the heavens and the earth. There is no
   god ˹worthy of worship˺ except Him. He gives life and causes death.” So believe
@@ -14,39 +14,39 @@ word_by_word:
     translation: Say
     transliteration: qul
   2:
-    arabic: يٰۤاَيُّهَا
+    arabic: يَٰٓأَيُّهَا
     translation: O
     transliteration: yāayyuhā
   3:
-    arabic: النَّاسُ
+    arabic: ٱلنَّاسُ
     translation: mankind
     transliteration: l-nāsu
   4:
-    arabic: اِنِّىۡ
+    arabic: إِنِّي
     translation: Indeed I am
     transliteration: innī
   5:
-    arabic: رَسُوۡلُ
+    arabic: رَسُولُ
     translation: (the) Messenger
     transliteration: rasūlu
   6:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (of) Allah
     transliteration: l-lahi
   7:
-    arabic: اِلَيۡكُمۡ
+    arabic: إِلَيۡكُمۡ
     translation: to you
     transliteration: ilaykum
   8:
-    arabic: جَمِيۡعَاْ ۨ
+    arabic: جَمِيعًا
     translation: all
     transliteration: jamīʿan
   9:
-    arabic: الَّذِىۡ
+    arabic: ٱلَّذِي
     translation: the One
     transliteration: alladhī
   10:
-    arabic: لَهٗ
+    arabic: لَهُۥ
     translation: for Whom
     transliteration: lahu
   11:
@@ -54,23 +54,23 @@ word_by_word:
     translation: (is the) dominion
     transliteration: mul'ku
   12:
-    arabic: السَّمٰوٰتِ
+    arabic: ٱلسَّمَٰوَٰتِ
     translation: (of) the heavens
     transliteration: l-samāwāti
   13:
-    arabic: وَالۡاَرۡضِ​ۚ
+    arabic: وَٱلۡأَرۡضِۖ
     translation: and the earth
     transliteration: wal-arḍi
   14:
-    arabic: لَاۤ
+    arabic: لَآ
     translation: (There is) no
     transliteration: lā
   15:
-    arabic: اِلٰهَ
+    arabic: إِلَٰهَ
     translation: god
     transliteration: ilāha
   16:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   17:
@@ -78,35 +78,35 @@ word_by_word:
     translation: Him
     transliteration: huwa
   18:
-    arabic: يُحۡىٖ
+    arabic: يُحۡيِۦ
     translation: He gives life
     transliteration: yuḥ'yī
   19:
-    arabic: وَيُمِيۡتُ​
+    arabic: وَيُمِيتُۖ
     translation: and causes death
     transliteration: wayumītu
   20:
-    arabic: فَاٰمِنُوۡا
+    arabic: فَـَٔامِنُواْ
     translation: So believe
     transliteration: faāminū
   21:
-    arabic: بِاللّٰهِ
+    arabic: بِٱللَّهِ
     translation: in Allah
     transliteration: bil-lahi
   22:
-    arabic: وَرَسُوۡلِهِ
+    arabic: وَرَسُولِهِ
     translation: and His Messenger
     transliteration: warasūlihi
   23:
-    arabic: النَّبِىِّ
+    arabic: ٱلنَّبِيِّ
     translation: the Prophet
     transliteration: l-nabiyi
   24:
-    arabic: الۡاُمِّىِّ
+    arabic: ٱلۡأُمِّيِّ
     translation: the unlettered
     transliteration: l-umiyi
   25:
-    arabic: الَّذِىۡ
+    arabic: ٱلَّذِي
     translation: the one who
     transliteration: alladhī
   26:
@@ -114,15 +114,15 @@ word_by_word:
     translation: believes
     transliteration: yu'minu
   27:
-    arabic: بِاللّٰهِ
+    arabic: بِٱللَّهِ
     translation: in Allah
     transliteration: bil-lahi
   28:
-    arabic: وَكَلِمٰتِهٖ
+    arabic: وَكَلِمَٰتِهِۦ
     translation: and His Words
     transliteration: wakalimātihi
   29:
-    arabic: وَاتَّبِعُوۡهُ
+    arabic: وَٱتَّبِعُوهُ
     translation: and follow him
     transliteration: wa-ittabiʿūhu
   30:
@@ -130,7 +130,7 @@ word_by_word:
     translation: so that you may
     transliteration: laʿallakum
   31:
-    arabic: تَهۡتَدُوۡنَ‏
+    arabic: تَهۡتَدُونَ
     translation: (be) guided
     transliteration: tahtadūna
 ---

@@ -1,5 +1,5 @@
 ---
-arabic_ayat: وَنُيَسِّرُكَ لِلۡيُسۡرٰى ​ۖ​ۚ‏
+arabic_ayat: وَنُيَسِّرُكَ لِلۡيُسۡرَىٰ
 sentence_translation: We will facilitate for you the Way of Ease.
 word_by_word:
   1:
@@ -7,7 +7,7 @@ word_by_word:
     translation: And We will ease you
     transliteration: wanuyassiruka
   2:
-    arabic: لِلۡيُسۡرٰى ​ۖ​ۚ‏
+    arabic: لِلۡيُسۡرَىٰ
     translation: to the ease
     transliteration: lil'yus'rā
 ---

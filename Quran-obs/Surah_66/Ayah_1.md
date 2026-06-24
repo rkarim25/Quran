@@ -1,16 +1,16 @@
 ---
-arabic_ayat: يٰۤاَيُّهَا النَّبِىُّ لِمَ تُحَرِّمُ مَاۤ اَحَلَّ اللّٰهُ لَـكَ​ۚ تَبۡتَغِىۡ
-  مَرۡضَاتَ اَزۡوَاجِكَ​ؕ وَاللّٰهُ غَفُوۡرٌ رَّحِيۡمٌ‏
+arabic_ayat: يَٰٓأَيُّهَا ٱلنَّبِيُّ لِمَ تُحَرِّمُ مَآ أَحَلَّ ٱللَّهُ لَكَۖ تَبۡتَغِي
+  مَرۡضَاتَ أَزۡوَٰجِكَۚ وَٱللَّهُ غَفُورٞ رَّحِيمٞ
 sentence_translation: O Prophet! Why do you prohibit ˹yourself˺ from what Allah has
   made lawful to you, seeking to please your wives? And Allah is All-Forgiving, Most
   Merciful.
 word_by_word:
   1:
-    arabic: يٰۤاَيُّهَا
+    arabic: يَٰٓأَيُّهَا
     translation: O
     transliteration: yāayyuhā
   2:
-    arabic: النَّبِىُّ
+    arabic: ٱلنَّبِيُّ
     translation: Prophet
     transliteration: l-nabiyu
   3:
@@ -22,23 +22,23 @@ word_by_word:
     translation: you prohibit
     transliteration: tuḥarrimu
   5:
-    arabic: مَاۤ
+    arabic: مَآ
     translation: what
     transliteration: mā
   6:
-    arabic: اَحَلَّ
+    arabic: أَحَلَّ
     translation: has made lawful
     transliteration: aḥalla
   7:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   8:
-    arabic: لَـكَ​ۚ
+    arabic: لَكَۖ
     translation: for you
     transliteration: laka
   9:
-    arabic: تَبۡتَغِىۡ
+    arabic: تَبۡتَغِي
     translation: seeking
     transliteration: tabtaghī
   10:
@@ -46,19 +46,19 @@ word_by_word:
     translation: (to) please
     transliteration: marḍāta
   11:
-    arabic: اَزۡوَاجِكَ​ؕ
+    arabic: أَزۡوَٰجِكَۚ
     translation: your wives
     transliteration: azwājika
   12:
-    arabic: وَاللّٰهُ
+    arabic: وَٱللَّهُ
     translation: And Allah
     transliteration: wal-lahu
   13:
-    arabic: غَفُوۡرٌ
+    arabic: غَفُورٞ
     translation: (is) Oft-Forgiving
     transliteration: ghafūrun
   14:
-    arabic: رَّحِيۡمٌ‏
+    arabic: رَّحِيمٞ
     translation: Most Merciful
     transliteration: raḥīmun
 ---

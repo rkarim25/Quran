@@ -1,5 +1,5 @@
 ---
-arabic_ayat: وَمَا لِىَ لَاۤ اَعۡبُدُ الَّذِىۡ فَطَرَنِىۡ وَاِلَيۡهِ تُرۡجَعُوۡنَ‏
+arabic_ayat: وَمَالِيَ لَآ أَعۡبُدُ ٱلَّذِي فَطَرَنِي وَإِلَيۡهِ تُرۡجَعُونَ
 sentence_translation: And why should I not worship the One Who has originated me,
   and to Whom you will be returned.
 word_by_word:
@@ -8,31 +8,31 @@ word_by_word:
     translation: And what
     transliteration: wamā
   2:
-    arabic: لِىَ
+    arabic: لِيَ
     translation: (is) for me
     transliteration: liya
   3:
-    arabic: لَاۤ
+    arabic: لَآ
     translation: (that) not
     transliteration: lā
   4:
-    arabic: اَعۡبُدُ
+    arabic: أَعۡبُدُ
     translation: I worship
     transliteration: aʿbudu
   5:
-    arabic: الَّذِىۡ
+    arabic: ٱلَّذِي
     translation: the One Who
     transliteration: alladhī
   6:
-    arabic: فَطَرَنِىۡ
+    arabic: فَطَرَنِي
     translation: created me
     transliteration: faṭaranī
   7:
-    arabic: وَاِلَيۡهِ
+    arabic: وَإِلَيۡهِ
     translation: and to Whom
     transliteration: wa-ilayhi
   8:
-    arabic: تُرۡجَعُوۡنَ‏
+    arabic: تُرۡجَعُونَ
     translation: you will be returned
     transliteration: tur'jaʿūna
 ---

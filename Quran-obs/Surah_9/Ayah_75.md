@@ -1,11 +1,11 @@
 ---
-arabic_ayat: وَمِنۡهُمۡ مَّنۡ عَاهَدَ اللّٰهَ لَٮِٕنۡ اٰتٰٮنَا مِنۡ فَضۡلِهٖ لَـنَصَّدَّقَنَّ
-  وَلَنَكُوۡنَنَّ مِنَ الصّٰلِحِيۡنَ‏
+arabic_ayat: ۞ وَمِنۡهُم مَّنۡ عَٰهَدَ ٱللَّهَ لَئِنۡ ءَاتَىٰنَا مِن فَضۡلِهِۦ لَنَصَّدَّقَنَّ
+  وَلَنَكُونَنَّ مِنَ ٱلصَّٰلِحِينَ
 sentence_translation: 'And there are some who had made a vow to Allah: “If He gives
   us from His bounty, we will surely spend in charity and be of the righteous.”'
 word_by_word:
   1:
-    arabic: ۞ وَمِنۡهُمۡ
+    arabic: ۞ وَمِنۡهُم
     translation: And among them
     transliteration: wamin'hum
   2:
@@ -13,35 +13,35 @@ word_by_word:
     translation: (is he) who
     transliteration: man
   3:
-    arabic: عَاهَدَ
+    arabic: عَٰهَدَ
     translation: made a covenant
     transliteration: ʿāhada
   4:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: (with) Allah
     transliteration: l-laha
   5:
-    arabic: لَٮِٕنۡ
+    arabic: لَئِنۡ ءَ
     translation: If
     transliteration: la-in
   6:
-    arabic: اٰتٰٮنَا
+    arabic: اتَىٰنَا
     translation: He gives us
     transliteration: ātānā
   7:
-    arabic: مِنۡ
+    arabic: مِن
     translation: of
     transliteration: min
   8:
-    arabic: فَضۡلِهٖ
+    arabic: فَضۡلِهِۦ
     translation: His bounty
     transliteration: faḍlihi
   9:
-    arabic: لَـنَصَّدَّقَنَّ
+    arabic: لَنَصَّدَّقَنَّ
     translation: surely we will give charity
     transliteration: lanaṣṣaddaqanna
   10:
-    arabic: وَلَنَكُوۡنَنَّ
+    arabic: وَلَنَكُونَنَّ
     translation: and surely we will be
     transliteration: walanakūnanna
   11:
@@ -49,7 +49,7 @@ word_by_word:
     translation: among
     transliteration: mina
   12:
-    arabic: الصّٰلِحِيۡنَ‏
+    arabic: ٱلصَّٰلِحِينَ
     translation: the righteous
     transliteration: l-ṣāliḥīna
 ---

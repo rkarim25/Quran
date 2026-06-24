@@ -1,16 +1,16 @@
 ---
-arabic_ayat: وَالَّذِيۡنَ كَفَرُوۡا بَعۡضُهُمۡ اَوۡلِيَآءُ بَعۡضٍ​ؕ اِلَّا تَفۡعَلُوۡهُ
-  تَكُنۡ فِتۡنَةٌ فِى الۡاَرۡضِ وَفَسَادٌ كَبِيۡرٌؕ‏
+arabic_ayat: وَٱلَّذِينَ كَفَرُواْ بَعۡضُهُمۡ أَوۡلِيَآءُ بَعۡضٍۚ إِلَّا تَفۡعَلُوهُ
+  تَكُن فِتۡنَةٞ فِي ٱلۡأَرۡضِ وَفَسَادٞ كَبِيرٞ
 sentence_translation: As for the disbelievers, they are guardians of one another.
   And unless you ˹believers˺ act likewise, there will be great oppression and corruption
   in the land.
 word_by_word:
   1:
-    arabic: وَالَّذِيۡنَ
+    arabic: وَٱلَّذِينَ
     translation: And those who
     transliteration: wa-alladhīna
   2:
-    arabic: كَفَرُوۡا
+    arabic: كَفَرُواْ
     translation: disbelieve
     transliteration: kafarū
   3:
@@ -18,43 +18,43 @@ word_by_word:
     translation: some of them
     transliteration: baʿḍuhum
   4:
-    arabic: اَوۡلِيَآءُ
+    arabic: أَوۡلِيَآءُ
     translation: (are) allies
     transliteration: awliyāu
   5:
-    arabic: بَعۡضٍ​ؕ
+    arabic: بَعۡضٍۚ
     translation: (to) another
     transliteration: baʿḍin
   6:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: If not
     transliteration: illā
   7:
-    arabic: تَفۡعَلُوۡهُ
+    arabic: تَفۡعَلُوهُ
     translation: you do it
     transliteration: tafʿalūhu
   8:
-    arabic: تَكُنۡ
+    arabic: تَكُن
     translation: (there) will be
     transliteration: takun
   9:
-    arabic: فِتۡنَةٌ
+    arabic: فِتۡنَةٞ
     translation: oppression
     transliteration: fit'natun
   10:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   11:
-    arabic: الۡاَرۡضِ
+    arabic: ٱلۡأَرۡضِ
     translation: the earth
     transliteration: l-arḍi
   12:
-    arabic: وَفَسَادٌ
+    arabic: وَفَسَادٞ
     translation: and corruption
     transliteration: wafasādun
   13:
-    arabic: كَبِيۡرٌؕ‏
+    arabic: كَبِيرٞ
     translation: great
     transliteration: kabīrun
 ---

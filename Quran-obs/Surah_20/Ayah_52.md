@@ -1,6 +1,5 @@
 ---
-arabic_ayat: "قَالَ عِلۡمُهَا عِنۡدَ رَبِّىۡ فِىۡ كِتٰبٍ​​ۚ لَا يَضِلُّ رَبِّىۡ وَلَا\
-  \ يَنۡسَى‏ \uFEFF\uFEFF"
+arabic_ayat: قَالَ عِلۡمُهَا عِندَ رَبِّي فِي كِتَٰبٖۖ لَّا يَضِلُّ رَبِّي وَلَا يَنسَى
 sentence_translation: He replied, “That knowledge is with my Lord in a Record. My
   Lord neither falters nor forgets ˹anything˺.”
 word_by_word:
@@ -13,23 +12,23 @@ word_by_word:
     translation: Its knowledge
     transliteration: ʿil'muhā
   3:
-    arabic: عِنۡدَ
+    arabic: عِندَ
     translation: (is) with
     transliteration: ʿinda
   4:
-    arabic: رَبِّىۡ
+    arabic: رَبِّي
     translation: my Lord
     transliteration: rabbī
   5:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   6:
-    arabic: كِتٰبٍ​​ۚ
+    arabic: كِتَٰبٖۖ
     translation: a Record
     transliteration: kitābin
   7:
-    arabic: لَا
+    arabic: لَّا
     translation: Not
     transliteration: lā
   8:
@@ -37,7 +36,7 @@ word_by_word:
     translation: errs
     transliteration: yaḍillu
   9:
-    arabic: رَبِّىۡ
+    arabic: رَبِّي
     translation: my Lord
     transliteration: rabbī
   10:
@@ -45,7 +44,7 @@ word_by_word:
     translation: and not
     transliteration: walā
   11:
-    arabic: "يَنۡسَى‏ \uFEFF\uFEFF"
+    arabic: يَنسَى
     translation: forgets
     transliteration: yansā
 ---

@@ -1,11 +1,11 @@
 ---
-arabic_ayat: "لِلّٰهِ مَا فِى السَّمٰوٰتِ وَالۡاَرۡضِ​ؕ اِنَّ اللّٰهَ هُوَ الۡغَنِىُّ\
-  \ الۡحَمِيۡدُ‏ \uFEFF\uFEFF"
+arabic_ayat: لِلَّهِ مَا فِي ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِۚ إِنَّ ٱللَّهَ هُوَ ٱلۡغَنِيُّ
+  ٱلۡحَمِيدُ
 sentence_translation: To Allah belongs whatever is in the heavens and the earth. Allah
   is truly the Self-Sufficient, Praiseworthy.
 word_by_word:
   1:
-    arabic: لِلّٰهِ
+    arabic: لِلَّهِ
     translation: To Allah (belongs)
     transliteration: lillahi
   2:
@@ -13,23 +13,23 @@ word_by_word:
     translation: whatever
     transliteration: mā
   3:
-    arabic: فِى
+    arabic: فِي
     translation: (is) in
     transliteration: fī
   4:
-    arabic: السَّمٰوٰتِ
+    arabic: ٱلسَّمَٰوَٰتِ
     translation: the heavens
     transliteration: l-samāwāti
   5:
-    arabic: وَالۡاَرۡضِ​ؕ
+    arabic: وَٱلۡأَرۡضِۚ
     translation: and the earth
     transliteration: wal-arḍi
   6:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   7:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   8:
@@ -37,11 +37,11 @@ word_by_word:
     translation: He
     transliteration: huwa
   9:
-    arabic: الۡغَنِىُّ
+    arabic: ٱلۡغَنِيُّ
     translation: (is) Free of need
     transliteration: l-ghaniyu
   10:
-    arabic: "الۡحَمِيۡدُ‏ \uFEFF\uFEFF"
+    arabic: ٱلۡحَمِيدُ
     translation: the Praiseworthy
     transliteration: l-ḥamīdu
 ---

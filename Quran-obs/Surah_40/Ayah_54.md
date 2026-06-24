@@ -1,21 +1,21 @@
 ---
-arabic_ayat: هُدًى وَّذِكۡرٰى لِاُولِى الۡاَلۡبَابِ‏
+arabic_ayat: هُدٗى وَذِكۡرَىٰ لِأُوْلِي ٱلۡأَلۡبَٰبِ
 sentence_translation: a guide and a reminder to people of reason.
 word_by_word:
   1:
-    arabic: هُدًى
+    arabic: هُدٗى
     translation: A guide
     transliteration: hudan
   2:
-    arabic: وَّذِكۡرٰى
+    arabic: وَذِكۡرَىٰ
     translation: and a reminder
     transliteration: wadhik'rā
   3:
-    arabic: لِاُولِى
+    arabic: لِأُوْلِي
     translation: for those
     transliteration: li-ulī
   4:
-    arabic: الۡاَلۡبَابِ‏
+    arabic: ٱلۡأَلۡبَٰبِ
     translation: (of) understanding
     transliteration: l-albābi
 ---

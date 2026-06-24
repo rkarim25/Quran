@@ -1,5 +1,5 @@
 ---
-arabic_ayat: وَوَجَدَكَ عَآٮِٕلًا فَاَغۡنٰىؕ‏
+arabic_ayat: وَوَجَدَكَ عَآئِلٗا فَأَغۡنَىٰ
 sentence_translation: And did He not find you needy then satisfied your needs?
 word_by_word:
   1:
@@ -7,11 +7,11 @@ word_by_word:
     translation: And He found you
     transliteration: wawajadaka
   2:
-    arabic: عَآٮِٕلًا
+    arabic: عَآئِلٗا
     translation: in need
     transliteration: ʿāilan
   3:
-    arabic: فَاَغۡنٰىؕ‏
+    arabic: فَأَغۡنَىٰ
     translation: so He made self-sufficient
     transliteration: fa-aghnā
 ---

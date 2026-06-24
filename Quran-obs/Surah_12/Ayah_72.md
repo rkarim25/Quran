@@ -1,12 +1,12 @@
 ---
-arabic_ayat: قَالُوۡا نَفۡقِدُ صُوَاعَ الۡمَلِكِ وَلِمَنۡ جَآءَ بِهٖ حِمۡلُ بَعِيۡرٍ
-  وَّاَنَا بِهٖ زَعِيۡمٌ‏
+arabic_ayat: قَالُواْ نَفۡقِدُ صُوَاعَ ٱلۡمَلِكِ وَلِمَن جَآءَ بِهِۦ حِمۡلُ بَعِيرٖ
+  وَأَنَا۠ بِهِۦ زَعِيمٞ
 sentence_translation: The herald ˹along with the guards˺ replied, “We have lost the
   King’s measuring cup. And whoever brings it will be awarded a camel-load ˹of grain˺.
   I guarantee it.”
 word_by_word:
   1:
-    arabic: قَالُوۡا
+    arabic: قَالُواْ
     translation: They said
     transliteration: qālū
   2:
@@ -18,11 +18,11 @@ word_by_word:
     translation: (the) cup
     transliteration: ṣuwāʿa
   4:
-    arabic: الۡمَلِكِ
+    arabic: ٱلۡمَلِكِ
     translation: (of) the king
     transliteration: l-maliki
   5:
-    arabic: وَلِمَنۡ
+    arabic: وَلِمَن
     translation: And for (one) who
     transliteration: waliman
   6:
@@ -30,7 +30,7 @@ word_by_word:
     translation: brings
     transliteration: jāa
   7:
-    arabic: بِهٖ
+    arabic: بِهِۦ
     translation: it
     transliteration: bihi
   8:
@@ -38,19 +38,19 @@ word_by_word:
     translation: (is) a load
     transliteration: ḥim'lu
   9:
-    arabic: بَعِيۡرٍ
+    arabic: بَعِيرٖ
     translation: (of) a camel
     transliteration: baʿīrin
   10:
-    arabic: وَّاَنَا
+    arabic: وَأَنَا۠
     translation: and I
     transliteration: wa-anā
   11:
-    arabic: بِهٖ
+    arabic: بِهِۦ
     translation: for it
     transliteration: bihi
   12:
-    arabic: زَعِيۡمٌ‏
+    arabic: زَعِيمٞ
     translation: (is) responsible
     transliteration: zaʿīmun
 ---

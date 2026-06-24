@@ -1,5 +1,5 @@
 ---
-arabic_ayat: فَتَوَلَّ عَنۡهُمۡ حَتّٰى حِيۡنٍۙ‏
+arabic_ayat: فَتَوَلَّ عَنۡهُمۡ حَتَّىٰ حِينٖ
 sentence_translation: So turn away from the deniers for a while ˹O Prophet˺.
 word_by_word:
   1:
@@ -11,11 +11,11 @@ word_by_word:
     translation: from them
     transliteration: ʿanhum
   3:
-    arabic: حَتّٰى
+    arabic: حَتَّىٰ
     translation: until
     transliteration: ḥattā
   4:
-    arabic: حِيۡنٍۙ‏
+    arabic: حِينٖ
     translation: a time
     transliteration: ḥīnin
 ---

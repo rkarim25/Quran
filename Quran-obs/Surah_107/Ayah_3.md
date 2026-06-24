@@ -1,5 +1,5 @@
 ---
-arabic_ayat: وَ لَا يَحُضُّ عَلٰى طَعَامِ الۡمِسۡكِيۡنِؕ‏
+arabic_ayat: وَلَا يَحُضُّ عَلَىٰ طَعَامِ ٱلۡمِسۡكِينِ
 sentence_translation: and does not encourage the feeding of the poor.
 word_by_word:
   1:
@@ -15,11 +15,11 @@ word_by_word:
     translation: to
     transliteration: ʿalā
   4:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: feed
     transliteration: ṭaʿāmi
   5:
-    arabic: طَعَامِ الۡمِسۡكِيۡنِؕ‏
+    arabic: طَعَامِ ٱلۡمِسۡكِينِ
     translation: the poor
     transliteration: l-mis'kīni
 ---

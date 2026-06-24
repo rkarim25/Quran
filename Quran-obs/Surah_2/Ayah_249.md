@@ -1,11 +1,11 @@
 ---
-arabic_ayat: فَلَمَّا فَصَلَ طَالُوۡتُ بِالۡجُـنُوۡدِۙ قَالَ اِنَّ اللّٰهَ مُبۡتَلِيۡکُمۡ
-  بِنَهَرٍ​ۚ فَمَنۡ شَرِبَ مِنۡهُ فَلَيۡسَ مِنِّىۡ​ۚ وَمَنۡ لَّمۡ يَطۡعَمۡهُ فَاِنَّهٗ
-  مِنِّىۡٓ اِلَّا مَنِ اغۡتَرَفَ غُرۡفَةً ۢ بِيَدِهٖ​​ۚ فَشَرِبُوۡا مِنۡهُ اِلَّا
-  قَلِيۡلًا مِّنۡهُمۡ​ؕ فَلَمَّا جَاوَزَهٗ هُوَ وَالَّذِيۡنَ اٰمَنُوۡا مَعَهٗ ۙ قَالُوۡا
-  لَا طَاقَةَ لَنَا الۡيَوۡمَ بِجَالُوۡتَ وَجُنُوۡدِهٖ​ؕ قَالَ الَّذِيۡنَ يَظُنُّوۡنَ
-  اَنَّهُمۡ مُّلٰقُوا اللّٰهِۙ کَمۡ مِّنۡ فِئَةٍ قَلِيۡلَةٍ غَلَبَتۡ فِئَةً کَثِيۡرَةً
-  ۢ بِاِذۡنِ اللّٰهِ​ؕ وَاللّٰهُ مَعَ الصّٰبِرِيۡنَ‏
+arabic_ayat: فَلَمَّا فَصَلَ طَالُوتُ بِٱلۡجُنُودِ قَالَ إِنَّ ٱللَّهَ مُبۡتَلِيكُم
+  بِنَهَرٖ فَمَن شَرِبَ مِنۡهُ فَلَيۡسَ مِنِّي وَمَن لَّمۡ يَطۡعَمۡهُ فَإِنَّهُۥ مِنِّيٓ
+  إِلَّا مَنِ ٱغۡتَرَفَ غُرۡفَةَۢ بِيَدِهِۦۚ فَشَرِبُواْ مِنۡهُ إِلَّا قَلِيلٗا مِّنۡهُمۡۚ
+  فَلَمَّا جَاوَزَهُۥ هُوَ وَٱلَّذِينَ ءَامَنُواْ مَعَهُۥ قَالُواْ لَا طَاقَةَ لَنَا
+  ٱلۡيَوۡمَ بِجَالُوتَ وَجُنُودِهِۦۚ قَالَ ٱلَّذِينَ يَظُنُّونَ أَنَّهُم مُّلَٰقُواْ
+  ٱللَّهِ كَم مِّن فِئَةٖ قَلِيلَةٍ غَلَبَتۡ فِئَةٗ كَثِيرَةَۢ بِإِذۡنِ ٱللَّهِۗ وَٱللَّهُ
+  مَعَ ٱلصَّٰبِرِينَ
 sentence_translation: 'When Saul marched forth with his army, he cautioned: “Allah
   will test you with a river. So whoever drinks ˹his fill˺ from it is not with me,
   and whoever does not taste it—except a sip from the hollow of his hands—is definitely
@@ -24,11 +24,11 @@ word_by_word:
     translation: set out
     transliteration: faṣala
   3:
-    arabic: طَالُوۡتُ
+    arabic: طَالُوتُ
     translation: Talut
     transliteration: ṭālūtu
   4:
-    arabic: بِالۡجُـنُوۡدِۙ
+    arabic: بِٱلۡجُنُودِ
     translation: with the forces
     transliteration: bil-junūdi
   5:
@@ -36,23 +36,23 @@ word_by_word:
     translation: he said
     transliteration: qāla
   6:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   7:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   8:
-    arabic: مُبۡتَلِيۡکُمۡ
+    arabic: مُبۡتَلِيكُم
     translation: will test you
     transliteration: mub'talīkum
   9:
-    arabic: بِنَهَرٍ​ۚ
+    arabic: بِنَهَرٖ
     translation: with a river
     transliteration: binaharin
   10:
-    arabic: فَمَنۡ
+    arabic: فَمَن
     translation: So whoever
     transliteration: faman
   11:
@@ -68,11 +68,11 @@ word_by_word:
     translation: then he is not
     transliteration: falaysa
   14:
-    arabic: مِنِّىۡ​ۚ
+    arabic: مِنِّي
     translation: from me
     transliteration: minnī
   15:
-    arabic: وَمَنۡ
+    arabic: وَمَن
     translation: and whoever
     transliteration: waman
   16:
@@ -84,15 +84,15 @@ word_by_word:
     translation: taste it
     transliteration: yaṭʿamhu
   18:
-    arabic: فَاِنَّهٗ
+    arabic: فَإِنَّهُۥ
     translation: then indeed, he
     transliteration: fa-innahu
   19:
-    arabic: مِنِّىۡٓ
+    arabic: مِنِّيٓ
     translation: (is) from me
     transliteration: minnī
   20:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   21:
@@ -100,19 +100,19 @@ word_by_word:
     translation: whoever
     transliteration: mani
   22:
-    arabic: اغۡتَرَفَ
+    arabic: ٱغۡتَرَفَ
     translation: takes
     transliteration: igh'tarafa
   23:
-    arabic: غُرۡفَةً ۢ
+    arabic: غُرۡفَةَۢ
     translation: (in the) hollow
     transliteration: ghur'fatan
   24:
-    arabic: بِيَدِهٖ​​ۚ
+    arabic: بِيَدِهِۦۚ
     translation: (of) his hand
     transliteration: biyadihi
   25:
-    arabic: فَشَرِبُوۡا
+    arabic: فَشَرِبُواْ
     translation: Then they drank
     transliteration: fasharibū
   26:
@@ -120,15 +120,15 @@ word_by_word:
     translation: from it
     transliteration: min'hu
   27:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   28:
-    arabic: قَلِيۡلًا
+    arabic: قَلِيلٗا
     translation: a few
     transliteration: qalīlan
   29:
-    arabic: مِّنۡهُمۡ​ؕ
+    arabic: مِّنۡهُمۡۚ
     translation: of them
     transliteration: min'hum
   30:
@@ -136,7 +136,7 @@ word_by_word:
     translation: Then when
     transliteration: falammā
   31:
-    arabic: جَاوَزَهٗ
+    arabic: جَاوَزَهُۥ
     translation: he crossed it
     transliteration: jāwazahu
   32:
@@ -144,19 +144,19 @@ word_by_word:
     translation: he
     transliteration: huwa
   33:
-    arabic: وَالَّذِيۡنَ
+    arabic: وَٱلَّذِينَ ءَ
     translation: and those who
     transliteration: wa-alladhīna
   34:
-    arabic: اٰمَنُوۡا
+    arabic: امَنُواْ
     translation: believed
     transliteration: āmanū
   35:
-    arabic: مَعَهٗ ۙ
+    arabic: مَعَهُۥ
     translation: with him
     transliteration: maʿahu
   36:
-    arabic: قَالُوۡا
+    arabic: قَالُواْ
     translation: they said
     transliteration: qālū
   37:
@@ -172,15 +172,15 @@ word_by_word:
     translation: for us
     transliteration: lanā
   40:
-    arabic: الۡيَوۡمَ
+    arabic: ٱلۡيَوۡمَ
     translation: today
     transliteration: l-yawma
   41:
-    arabic: بِجَالُوۡتَ
+    arabic: بِجَالُوتَ
     translation: against Jalut
     transliteration: bijālūta
   42:
-    arabic: وَجُنُوۡدِهٖ​ؕ
+    arabic: وَجُنُودِهِۦۚ
     translation: and his troops
     transliteration: wajunūdihi
   43:
@@ -188,39 +188,39 @@ word_by_word:
     translation: Said
     transliteration: qāla
   44:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   45:
-    arabic: يَظُنُّوۡنَ
+    arabic: يَظُنُّونَ
     translation: were certain
     transliteration: yaẓunnūna
   46:
-    arabic: اَنَّهُمۡ
+    arabic: أَنَّهُم
     translation: that they
     transliteration: annahum
   47:
-    arabic: مُّلٰقُوا
+    arabic: مُّلَٰقُواْ
     translation: (would) meet
     transliteration: mulāqū
   48:
-    arabic: اللّٰهِۙ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   49:
-    arabic: کَمۡ
+    arabic: كَم
     translation: How many
     transliteration: kam
   50:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: of
     transliteration: min
   51:
-    arabic: فِئَةٍ
+    arabic: فِئَةٖ
     translation: a company
     transliteration: fi-atin
   52:
-    arabic: قَلِيۡلَةٍ
+    arabic: قَلِيلَةٍ
     translation: small
     transliteration: qalīlatin
   53:
@@ -228,23 +228,23 @@ word_by_word:
     translation: overcame
     transliteration: ghalabat
   54:
-    arabic: فِئَةً
+    arabic: فِئَةٗ
     translation: a company
     transliteration: fi-atan
   55:
-    arabic: کَثِيۡرَةً ۢ
+    arabic: كَثِيرَةَۢ
     translation: large
     transliteration: kathīratan
   56:
-    arabic: بِاِذۡنِ
+    arabic: بِإِذۡنِ
     translation: by (the) permission
     transliteration: bi-idh'ni
   57:
-    arabic: اللّٰهِ​ؕ
+    arabic: ٱللَّهِۗ
     translation: (of) Allah
     transliteration: l-lahi
   58:
-    arabic: وَاللّٰهُ
+    arabic: وَٱللَّهُ
     translation: And Allah
     transliteration: wal-lahu
   59:
@@ -252,7 +252,7 @@ word_by_word:
     translation: (is) with
     transliteration: maʿa
   60:
-    arabic: الصّٰبِرِيۡنَ‏
+    arabic: ٱلصَّٰبِرِينَ
     translation: the patient ones
     transliteration: l-ṣābirīna
 ---

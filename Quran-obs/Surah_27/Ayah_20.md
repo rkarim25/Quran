@@ -1,6 +1,6 @@
 ---
-arabic_ayat: وَتَفَقَّدَ الطَّيۡرَ فَقَالَ مَا لِىَ لَاۤ اَرَى الۡهُدۡهُدَ ​ۖ  اَمۡ
-  كَانَ مِنَ الۡغَآٮِٕبِيۡنَ‏
+arabic_ayat: وَتَفَقَّدَ ٱلطَّيۡرَ فَقَالَ مَالِيَ لَآ أَرَى ٱلۡهُدۡهُدَ أَمۡ كَانَ
+  مِنَ ٱلۡغَآئِبِينَ
 sentence_translation: ˹One day˺ he inspected the birds, and wondered, “Why is it that
   I cannot see the hoopoe? Or could he be absent?
 word_by_word:
@@ -9,7 +9,7 @@ word_by_word:
     translation: And he inspected
     transliteration: watafaqqada
   2:
-    arabic: الطَّيۡرَ
+    arabic: ٱلطَّيۡرَ
     translation: the birds
     transliteration: l-ṭayra
   3:
@@ -21,23 +21,23 @@ word_by_word:
     translation: Why
     transliteration: mā
   5:
-    arabic: لِىَ
+    arabic: لِيَ
     translation: Why
     transliteration: liya
   6:
-    arabic: لَاۤ
+    arabic: لَآ
     translation: not
     transliteration: lā
   7:
-    arabic: اَرَى
+    arabic: أَرَى
     translation: I see
     transliteration: arā
   8:
-    arabic: الۡهُدۡهُدَ ​ۖ 
+    arabic: ٱلۡهُدۡهُدَ
     translation: the hoopoe
     transliteration: l-hud'huda
   9:
-    arabic: اَمۡ
+    arabic: أَمۡ
     translation: or
     transliteration: am
   10:
@@ -49,7 +49,7 @@ word_by_word:
     translation: from
     transliteration: mina
   12:
-    arabic: الۡغَآٮِٕبِيۡنَ‏
+    arabic: ٱلۡغَآئِبِينَ
     translation: the absent
     transliteration: l-ghāibīna
 ---

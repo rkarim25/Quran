@@ -1,6 +1,6 @@
 ---
-arabic_ayat: قَالَ اَنَا خَيۡرٌ مِّنۡهُ​ ؕ خَلَقۡتَنِىۡ مِنۡ نَّارٍ وَّخَلَقۡتَهٗ
-  مِنۡ طِيۡنٍ‏
+arabic_ayat: قَالَ أَنَا۠ خَيۡرٞ مِّنۡهُ خَلَقۡتَنِي مِن نَّارٖ وَخَلَقۡتَهُۥ مِن
+  طِينٖ
 sentence_translation: 'He replied, “I am better than he is: You created me from fire
   and him from clay.”'
 word_by_word:
@@ -9,39 +9,39 @@ word_by_word:
     translation: He said
     transliteration: qāla
   2:
-    arabic: اَنَا
+    arabic: أَنَا۠
     translation: I am
     transliteration: anā
   3:
-    arabic: خَيۡرٌ
+    arabic: خَيۡرٞ
     translation: better
     transliteration: khayrun
   4:
-    arabic: مِّنۡهُ​ ؕ
+    arabic: مِّنۡهُ
     translation: than him
     transliteration: min'hu
   5:
-    arabic: خَلَقۡتَنِىۡ
+    arabic: خَلَقۡتَنِي
     translation: You created me
     transliteration: khalaqtanī
   6:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   7:
-    arabic: نَّارٍ
+    arabic: نَّارٖ
     translation: fire
     transliteration: nārin
   8:
-    arabic: وَّخَلَقۡتَهٗ
+    arabic: وَخَلَقۡتَهُۥ
     translation: and You created him
     transliteration: wakhalaqtahu
   9:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   10:
-    arabic: طِيۡنٍ‏
+    arabic: طِينٖ
     translation: clay
     transliteration: ṭīnin
 ---

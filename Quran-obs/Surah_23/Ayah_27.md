@@ -1,8 +1,8 @@
 ---
-arabic_ayat: فَاَوۡحَيۡنَاۤ اِلَيۡهِ اَنِ اصۡنَعِ الۡفُلۡكَ بِاَعۡيُنِنَا وَ وَحۡيِنَا
-  فَاِذَا جَآءَ اَمۡرُنَا وَفَارَ التَّـنُّوۡرُ​ۙ فَاسۡلُكۡ فِيۡهَا مِنۡ كُلٍّ زَوۡجَيۡنِ
-  اثۡنَيۡنِ وَاَهۡلَكَ اِلَّا مَنۡ سَبَقَ عَلَيۡهِ الۡقَوۡلُ مِنۡهُمۡ​ۚ وَلَا تُخَاطِبۡنِىۡ
-  فِى الَّذِيۡنَ ظَلَمُوۡا​ۚ اِنَّهُمۡ مُّغۡرَقُوۡنَ‏
+arabic_ayat: فَأَوۡحَيۡنَآ إِلَيۡهِ أَنِ ٱصۡنَعِ ٱلۡفُلۡكَ بِأَعۡيُنِنَا وَوَحۡيِنَا
+  فَإِذَا جَآءَ أَمۡرُنَا وَفَارَ ٱلتَّنُّورُ فَٱسۡلُكۡ فِيهَا مِن كُلّٖ زَوۡجَيۡنِ
+  ٱثۡنَيۡنِ وَأَهۡلَكَ إِلَّا مَن سَبَقَ عَلَيۡهِ ٱلۡقَوۡلُ مِنۡهُمۡۖ وَلَا تُخَٰطِبۡنِي
+  فِي ٱلَّذِينَ ظَلَمُوٓاْ إِنَّهُم مُّغۡرَقُونَ
 sentence_translation: 'So We inspired him: “Build the Ark under Our ˹watchful˺ Eyes
   and directions. Then when Our command comes and the oven bursts ˹with water˺, take
   on board a pair from every species along with your family—except those against whom
@@ -10,35 +10,35 @@ sentence_translation: 'So We inspired him: “Build the Ark under Our ˹watchful
   who have done wrong, for they will surely be drowned.”'
 word_by_word:
   1:
-    arabic: فَاَوۡحَيۡنَاۤ
+    arabic: فَأَوۡحَيۡنَآ
     translation: So We inspired
     transliteration: fa-awḥaynā
   2:
-    arabic: اِلَيۡهِ
+    arabic: إِلَيۡهِ
     translation: to him
     transliteration: ilayhi
   3:
-    arabic: اَنِ
+    arabic: أَنِ
     translation: That
     transliteration: ani
   4:
-    arabic: اصۡنَعِ
+    arabic: ٱصۡنَعِ
     translation: construct
     transliteration: iṣ'naʿi
   5:
-    arabic: الۡفُلۡكَ
+    arabic: ٱلۡفُلۡكَ
     translation: the ship
     transliteration: l-ful'ka
   6:
-    arabic: بِاَعۡيُنِنَا
+    arabic: بِأَعۡيُنِنَا
     translation: under Our eyes
     transliteration: bi-aʿyuninā
   7:
-    arabic: وَ وَحۡيِنَا
+    arabic: وَوَحۡيِنَا
     translation: and Our inspiration
     transliteration: wawaḥyinā
   8:
-    arabic: فَاِذَا
+    arabic: فَإِذَا
     translation: then when
     transliteration: fa-idhā
   9:
@@ -46,7 +46,7 @@ word_by_word:
     translation: comes
     transliteration: jāa
   10:
-    arabic: اَمۡرُنَا
+    arabic: أَمۡرُنَا
     translation: Our Command
     transliteration: amrunā
   11:
@@ -54,23 +54,23 @@ word_by_word:
     translation: and gushes forth
     transliteration: wafāra
   12:
-    arabic: التَّـنُّوۡرُ​ۙ
+    arabic: ٱلتَّنُّورُ
     translation: the oven
     transliteration: l-tanūru
   13:
-    arabic: فَاسۡلُكۡ
+    arabic: فَٱسۡلُكۡ
     translation: then put
     transliteration: fa-us'luk
   14:
-    arabic: فِيۡهَا
+    arabic: فِيهَا
     translation: into it
     transliteration: fīhā
   15:
-    arabic: مِنۡ
+    arabic: مِن
     translation: of
     transliteration: min
   16:
-    arabic: كُلٍّ
+    arabic: كُلّٖ
     translation: every (kind)
     transliteration: kullin
   17:
@@ -78,19 +78,19 @@ word_by_word:
     translation: (of) mates
     transliteration: zawjayni
   18:
-    arabic: اثۡنَيۡنِ
+    arabic: ٱثۡنَيۡنِ
     translation: two
     transliteration: ith'nayni
   19:
-    arabic: وَاَهۡلَكَ
+    arabic: وَأَهۡلَكَ
     translation: and your family
     transliteration: wa-ahlaka
   20:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   21:
-    arabic: مَنۡ
+    arabic: مَن
     translation: those
     transliteration: man
   22:
@@ -102,11 +102,11 @@ word_by_word:
     translation: against whom
     transliteration: ʿalayhi
   24:
-    arabic: الۡقَوۡلُ
+    arabic: ٱلۡقَوۡلُ
     translation: the Word
     transliteration: l-qawlu
   25:
-    arabic: مِنۡهُمۡ​ۚ
+    arabic: مِنۡهُمۡۖ
     translation: thereof
     transliteration: min'hum
   26:
@@ -114,27 +114,27 @@ word_by_word:
     translation: And (do) not
     transliteration: walā
   27:
-    arabic: تُخَاطِبۡنِىۡ
+    arabic: تُخَٰطِبۡنِي
     translation: address Me
     transliteration: tukhāṭib'nī
   28:
-    arabic: فِى
+    arabic: فِي
     translation: concerning
     transliteration: fī
   29:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   30:
-    arabic: ظَلَمُوۡا​ۚ
+    arabic: ظَلَمُوٓاْ
     translation: wronged
     transliteration: ẓalamū
   31:
-    arabic: اِنَّهُمۡ
+    arabic: إِنَّهُم
     translation: indeed, they
     transliteration: innahum
   32:
-    arabic: مُّغۡرَقُوۡنَ‏
+    arabic: مُّغۡرَقُونَ
     translation: (are) the ones to be drowned
     transliteration: mugh'raqūna
 ---

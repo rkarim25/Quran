@@ -1,9 +1,9 @@
 ---
-arabic_ayat: اِذۡ قَالَ لِقَوۡمِهٖۤ اَلَا تَتَّقُوۡنَ‏
+arabic_ayat: إِذۡ قَالَ لِقَوۡمِهِۦٓ أَلَا تَتَّقُونَ
 sentence_translation: ˹Remember˺ when he said to his people, “Will you not fear ˹Allah˺?
 word_by_word:
   1:
-    arabic: اِذۡ
+    arabic: إِذۡ
     translation: When
     transliteration: idh
   2:
@@ -11,15 +11,15 @@ word_by_word:
     translation: he said
     transliteration: qāla
   3:
-    arabic: لِقَوۡمِهٖۤ
+    arabic: لِقَوۡمِهِۦٓ
     translation: to his people
     transliteration: liqawmihi
   4:
-    arabic: اَلَا
+    arabic: أَلَا
     translation: Will not
     transliteration: alā
   5:
-    arabic: تَتَّقُوۡنَ‏
+    arabic: تَتَّقُونَ
     translation: you fear
     transliteration: tattaqūna
 ---

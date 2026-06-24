@@ -1,43 +1,43 @@
 ---
-arabic_ayat: يٰۤاَيُّهَا النَّبِىُّ جَاهِدِ الۡـكُفَّارَ وَالۡمُنٰفِقِيۡنَ وَاغۡلُظۡ
-  عَلَيۡهِمۡ​ؕ وَ مَاۡوٰٮهُمۡ جَهَـنَّمُ​ؕ وَبِئۡسَ الۡمَصِيۡرُ‏
+arabic_ayat: يَٰٓأَيُّهَا ٱلنَّبِيُّ جَٰهِدِ ٱلۡكُفَّارَ وَٱلۡمُنَٰفِقِينَ وَٱغۡلُظۡ
+  عَلَيۡهِمۡۚ وَمَأۡوَىٰهُمۡ جَهَنَّمُۖ وَبِئۡسَ ٱلۡمَصِيرُ
 sentence_translation: O Prophet! Struggle against the disbelievers and the hypocrites,
   and be firm with them. Hell will be their home. What an evil destination!
 word_by_word:
   1:
-    arabic: يٰۤاَيُّهَا
+    arabic: يَٰٓأَيُّهَا
     translation: O Prophet
     transliteration: yāayyuhā
   2:
-    arabic: النَّبِىُّ
+    arabic: ٱلنَّبِيُّ
     translation: O Prophet
     transliteration: l-nabiyu
   3:
-    arabic: جَاهِدِ
+    arabic: جَٰهِدِ
     translation: Strive (against)
     transliteration: jāhidi
   4:
-    arabic: الۡـكُفَّارَ
+    arabic: ٱلۡكُفَّارَ
     translation: the disbelievers
     transliteration: l-kufāra
   5:
-    arabic: وَالۡمُنٰفِقِيۡنَ
+    arabic: وَٱلۡمُنَٰفِقِينَ
     translation: and the hypocrites
     transliteration: wal-munāfiqīna
   6:
-    arabic: وَاغۡلُظۡ
+    arabic: وَٱغۡلُظۡ
     translation: and be stern
     transliteration: wa-ugh'luẓ
   7:
-    arabic: عَلَيۡهِمۡ​ؕ
+    arabic: عَلَيۡهِمۡۚ
     translation: with them
     transliteration: ʿalayhim
   8:
-    arabic: وَ مَاۡوٰٮهُمۡ
+    arabic: وَمَأۡوَىٰهُمۡ
     translation: And their abode
     transliteration: wamawāhum
   9:
-    arabic: جَهَـنَّمُ​ؕ
+    arabic: جَهَنَّمُۖ
     translation: (is) Hell
     transliteration: jahannamu
   10:
@@ -45,7 +45,7 @@ word_by_word:
     translation: and wretched
     transliteration: wabi'sa
   11:
-    arabic: الۡمَصِيۡرُ‏
+    arabic: ٱلۡمَصِيرُ
     translation: (is) the destination
     transliteration: l-maṣīru
 ---

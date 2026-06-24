@@ -1,5 +1,5 @@
 ---
-arabic_ayat: قَالَ اَوۡسَطُهُمۡ اَلَمۡ اَقُلۡ لَّكُمۡ لَوۡلَا تُسَبِّحُوۡنَ‏
+arabic_ayat: قَالَ أَوۡسَطُهُمۡ أَلَمۡ أَقُل لَّكُمۡ لَوۡلَا تُسَبِّحُونَ
 sentence_translation: The most sensible of them said, “Did I not urge you to say,
   ‘Allah willing.’?”
 word_by_word:
@@ -8,15 +8,15 @@ word_by_word:
     translation: Said
     transliteration: qāla
   2:
-    arabic: اَوۡسَطُهُمۡ
+    arabic: أَوۡسَطُهُمۡ
     translation: (the) most moderate of them
     transliteration: awsaṭuhum
   3:
-    arabic: اَلَمۡ
+    arabic: أَلَمۡ
     translation: Did not
     transliteration: alam
   4:
-    arabic: اَقُلۡ
+    arabic: أَقُل
     translation: I tell
     transliteration: aqul
   5:
@@ -28,7 +28,7 @@ word_by_word:
     translation: '''Why not'
     transliteration: lawlā
   7:
-    arabic: تُسَبِّحُوۡنَ‏
+    arabic: تُسَبِّحُونَ
     translation: you glorify (Allah)?'
     transliteration: tusabbiḥūna
 ---

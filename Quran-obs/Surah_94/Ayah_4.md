@@ -1,5 +1,5 @@
 ---
-arabic_ayat: وَرَفَعۡنَا لَـكَ ذِكۡرَكَؕ‏
+arabic_ayat: وَرَفَعۡنَا لَكَ ذِكۡرَكَ
 sentence_translation: and elevated your renown for you?
 word_by_word:
   1:
@@ -7,11 +7,11 @@ word_by_word:
     translation: And We raised high
     transliteration: warafaʿnā
   2:
-    arabic: لَـكَ
+    arabic: لَكَ
     translation: for you
     transliteration: laka
   3:
-    arabic: ذِكۡرَكَؕ‏
+    arabic: ذِكۡرَكَ
     translation: your reputation
     transliteration: dhik'raka
 ---

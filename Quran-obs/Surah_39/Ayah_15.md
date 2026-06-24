@@ -1,13 +1,13 @@
 ---
-arabic_ayat: فَاعۡبُدُوۡا مَا شِئۡتُمۡ مِّنۡ دُوۡنِهٖ​ ؕ قُلۡ اِنَّ الۡخٰسِرِيۡنَ
-  الَّذِيۡنَ خَسِرُوۡۤا اَنۡـفُسَهُمۡ وَ اَهۡلِيۡهِمۡ يَوۡمَ الۡقِيٰمَةِ​ ؕ اَلَا
-  ذٰ لِكَ هُوَ الۡخُسۡرَانُ الۡمُبِيۡنُ‏
+arabic_ayat: فَٱعۡبُدُواْ مَا شِئۡتُم مِّن دُونِهِۦۗ قُلۡ إِنَّ ٱلۡخَٰسِرِينَ ٱلَّذِينَ
+  خَسِرُوٓاْ أَنفُسَهُمۡ وَأَهۡلِيهِمۡ يَوۡمَ ٱلۡقِيَٰمَةِۗ أَلَا ذَٰلِكَ هُوَ ٱلۡخُسۡرَانُ
+  ٱلۡمُبِينُ
 sentence_translation: Worship then whatever ˹gods˺ you want instead of Him.” Say,
   “The ˹true˺ losers are those who will lose themselves and their families on Judgment
   Day. That is indeed the clearest loss.”
 word_by_word:
   1:
-    arabic: فَاعۡبُدُوۡا
+    arabic: فَٱعۡبُدُواْ
     translation: So worship
     transliteration: fa-uʿ'budū
   2:
@@ -15,15 +15,15 @@ word_by_word:
     translation: what
     transliteration: mā
   3:
-    arabic: شِئۡتُمۡ
+    arabic: شِئۡتُم
     translation: you will
     transliteration: shi'tum
   4:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: besides Him
     transliteration: min
   5:
-    arabic: دُوۡنِهٖ​ ؕ
+    arabic: دُونِهِۦۗ
     translation: besides Him
     transliteration: dūnihi
   6:
@@ -31,27 +31,27 @@ word_by_word:
     translation: Say
     transliteration: qul
   7:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   8:
-    arabic: الۡخٰسِرِيۡنَ
+    arabic: ٱلۡخَٰسِرِينَ
     translation: the losers
     transliteration: l-khāsirīna
   9:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: (are) those who
     transliteration: alladhīna
   10:
-    arabic: خَسِرُوۡۤا
+    arabic: خَسِرُوٓاْ
     translation: (will) lose
     transliteration: khasirū
   11:
-    arabic: اَنۡـفُسَهُمۡ
+    arabic: أَنفُسَهُمۡ
     translation: themselves
     transliteration: anfusahum
   12:
-    arabic: وَ اَهۡلِيۡهِمۡ
+    arabic: وَأَهۡلِيهِمۡ
     translation: and their families
     transliteration: wa-ahlīhim
   13:
@@ -59,15 +59,15 @@ word_by_word:
     translation: (on the) Day
     transliteration: yawma
   14:
-    arabic: الۡقِيٰمَةِ​ ؕ
+    arabic: ٱلۡقِيَٰمَةِۗ
     translation: (of) the Resurrection
     transliteration: l-qiyāmati
   15:
-    arabic: اَلَا
+    arabic: أَلَا
     translation: Unquestionably
     transliteration: alā
   16:
-    arabic: ذٰ لِكَ
+    arabic: ذَٰلِكَ
     translation: 'that '
     transliteration: dhālika
   17:
@@ -75,11 +75,11 @@ word_by_word:
     translation: it
     transliteration: huwa
   18:
-    arabic: الۡخُسۡرَانُ
+    arabic: ٱلۡخُسۡرَانُ
     translation: (is) the loss
     transliteration: l-khus'rānu
   19:
-    arabic: الۡمُبِيۡنُ‏
+    arabic: ٱلۡمُبِينُ
     translation: the clear
     transliteration: l-mubīnu
 ---

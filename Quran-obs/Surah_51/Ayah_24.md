@@ -1,5 +1,5 @@
 ---
-arabic_ayat: هَلۡ اَتٰٮكَ حَدِيۡثُ ضَيۡفِ اِبۡرٰهِيۡمَ الۡمُكۡرَمِيۡنَ​ۘ‏
+arabic_ayat: هَلۡ أَتَىٰكَ حَدِيثُ ضَيۡفِ إِبۡرَٰهِيمَ ٱلۡمُكۡرَمِينَ
 sentence_translation: Has the story of Abraham’s honoured guests reached you ˹O Prophet˺?
 word_by_word:
   1:
@@ -7,11 +7,11 @@ word_by_word:
     translation: Has
     transliteration: hal
   2:
-    arabic: اَتٰٮكَ
+    arabic: أَتَىٰكَ
     translation: reached you
     transliteration: atāka
   3:
-    arabic: حَدِيۡثُ
+    arabic: حَدِيثُ
     translation: (the) narration
     transliteration: ḥadīthu
   4:
@@ -19,11 +19,11 @@ word_by_word:
     translation: (of the) guests
     transliteration: ḍayfi
   5:
-    arabic: اِبۡرٰهِيۡمَ
+    arabic: إِبۡرَٰهِيمَ
     translation: (of) Ibrahim
     transliteration: ib'rāhīma
   6:
-    arabic: الۡمُكۡرَمِيۡنَ​ۘ‏
+    arabic: ٱلۡمُكۡرَمِينَ
     translation: the honored
     transliteration: l-muk'ramīna
 ---

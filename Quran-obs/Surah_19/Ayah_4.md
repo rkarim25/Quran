@@ -1,6 +1,6 @@
 ---
-arabic_ayat: قَالَ رَبِّ اِنِّىۡ وَهَنَ الۡعَظۡمُ مِنِّىۡ وَاشۡتَعَلَ الرَّاۡسُ شَيۡبًا
-  وَّلَمۡ اَكُنۡۢ بِدُعَآٮِٕكَ رَبِّ شَقِيًّا‏
+arabic_ayat: قَالَ رَبِّ إِنِّي وَهَنَ ٱلۡعَظۡمُ مِنِّي وَٱشۡتَعَلَ ٱلرَّأۡسُ شَيۡبٗا
+  وَلَمۡ أَكُنۢ بِدُعَآئِكَ رَبِّ شَقِيّٗا
 sentence_translation: saying, “My Lord! Surely my bones have become brittle, and grey
   hair has spread across my head, but I have never been disappointed in my prayer
   to You, my Lord!
@@ -14,7 +14,7 @@ word_by_word:
     translation: My Lord
     transliteration: rabbi
   3:
-    arabic: اِنِّىۡ
+    arabic: إِنِّي
     translation: Indeed, [I]
     transliteration: innī
   4:
@@ -22,35 +22,35 @@ word_by_word:
     translation: (have) weakened
     transliteration: wahana
   5:
-    arabic: الۡعَظۡمُ
+    arabic: ٱلۡعَظۡمُ
     translation: my bones
     transliteration: l-ʿaẓmu
   6:
-    arabic: مِنِّىۡ
+    arabic: مِنِّي
     translation: my bones
     transliteration: minnī
   7:
-    arabic: وَاشۡتَعَلَ
+    arabic: وَٱشۡتَعَلَ
     translation: and flared
     transliteration: wa-ish'taʿala
   8:
-    arabic: الرَّاۡسُ
+    arabic: ٱلرَّأۡسُ
     translation: (my) head
     transliteration: l-rasu
   9:
-    arabic: شَيۡبًا
+    arabic: شَيۡبٗا
     translation: (with) white
     transliteration: shayban
   10:
-    arabic: وَّلَمۡ
+    arabic: وَلَمۡ
     translation: and not
     transliteration: walam
   11:
-    arabic: اَكُنۡۢ
+    arabic: أَكُنۢ
     translation: I have been
     transliteration: akun
   12:
-    arabic: بِدُعَآٮِٕكَ
+    arabic: بِدُعَآئِكَ
     translation: in (my) supplication (to) You
     transliteration: biduʿāika
   13:
@@ -58,7 +58,7 @@ word_by_word:
     translation: my Lord
     transliteration: rabbi
   14:
-    arabic: شَقِيًّا‏
+    arabic: شَقِيّٗا
     translation: unblessed
     transliteration: shaqiyyan
 ---

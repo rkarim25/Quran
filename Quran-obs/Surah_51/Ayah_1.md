@@ -1,13 +1,13 @@
 ---
-arabic_ayat: وَالذّٰرِيٰتِ ذَرۡوًا ۙ‏
+arabic_ayat: وَٱلذَّٰرِيَٰتِ ذَرۡوٗا
 sentence_translation: By the winds scattering ˹dust˺,
 word_by_word:
   1:
-    arabic: وَالذّٰرِيٰتِ
+    arabic: وَٱلذَّٰرِيَٰتِ
     translation: By those scattering
     transliteration: wal-dhāriyāti
   2:
-    arabic: ذَرۡوًا ۙ‏
+    arabic: ذَرۡوٗا
     translation: dispersing
     transliteration: dharwan
 ---

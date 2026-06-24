@@ -1,21 +1,21 @@
 ---
-arabic_ayat: وَعِنۡدَهُمۡ قٰصِرٰتُ الطَّرۡفِ عِيۡنٌۙ‏
+arabic_ayat: وَعِندَهُمۡ قَٰصِرَٰتُ ٱلطَّرۡفِ عِينٞ
 sentence_translation: And with them will be maidens of modest gaze and gorgeous eyes,
 word_by_word:
   1:
-    arabic: وَعِنۡدَهُمۡ
+    arabic: وَعِندَهُمۡ
     translation: And with them
     transliteration: waʿindahum
   2:
-    arabic: قٰصِرٰتُ
+    arabic: قَٰصِرَٰتُ
     translation: (will be) companions of modest gaze
     transliteration: qāṣirātu
   3:
-    arabic: الطَّرۡفِ
+    arabic: ٱلطَّرۡفِ
     translation: (will be) companions of modest gaze
     transliteration: l-ṭarfi
   4:
-    arabic: عِيۡنٌۙ‏
+    arabic: عِينٞ
     translation: (having) beautiful eyes
     transliteration: ʿīnun
 ---

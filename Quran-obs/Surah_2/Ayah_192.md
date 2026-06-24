@@ -1,30 +1,30 @@
 ---
-arabic_ayat: فَاِنِ انۡـتَهَوۡا فَاِنَّ اللّٰهَ غَفُوۡرٌ رَّحِيۡمٌ‏
+arabic_ayat: فَإِنِ ٱنتَهَوۡاْ فَإِنَّ ٱللَّهَ غَفُورٞ رَّحِيمٞ
 sentence_translation: But if they cease, then surely Allah is All-Forgiving, Most
   Merciful.
 word_by_word:
   1:
-    arabic: فَاِنِ
+    arabic: فَإِنِ
     translation: Then if
     transliteration: fa-ini
   2:
-    arabic: انۡـتَهَوۡا
+    arabic: ٱنتَهَوۡاْ
     translation: they cease
     transliteration: intahaw
   3:
-    arabic: فَاِنَّ
+    arabic: فَإِنَّ
     translation: then indeed
     transliteration: fa-inna
   4:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   5:
-    arabic: غَفُوۡرٌ
+    arabic: غَفُورٞ
     translation: (is) Oft-Forgiving
     transliteration: ghafūrun
   6:
-    arabic: رَّحِيۡمٌ‏
+    arabic: رَّحِيمٞ
     translation: Most Merciful
     transliteration: raḥīmun
 ---

@@ -1,13 +1,13 @@
 ---
-arabic_ayat: وَالصّٰٓفّٰتِ صَفًّا ۙ‏
+arabic_ayat: وَٱلصَّٰٓفَّٰتِ صَفّٗا
 sentence_translation: By those ˹angels˺ lined up in ranks,
 word_by_word:
   1:
-    arabic: وَالصّٰٓفّٰتِ
+    arabic: وَٱلصَّٰٓفَّٰتِ
     translation: By those lined
     transliteration: wal-ṣāfāti
   2:
-    arabic: صَفًّا ۙ‏
+    arabic: صَفّٗا
     translation: (in) rows
     transliteration: ṣaffan
 ---

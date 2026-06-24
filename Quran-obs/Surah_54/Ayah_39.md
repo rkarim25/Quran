@@ -1,17 +1,17 @@
 ---
-arabic_ayat: فَذُوۡقُوۡا عَذَابِىۡ وَنُذُرِ‏
+arabic_ayat: فَذُوقُواْ عَذَابِي وَنُذُرِ
 sentence_translation: ˹Again they were told,˺ “Taste now My punishment and warnings!”
 word_by_word:
   1:
-    arabic: فَذُوۡقُوۡا
+    arabic: فَذُوقُواْ
     translation: So taste
     transliteration: fadhūqū
   2:
-    arabic: عَذَابِىۡ
+    arabic: عَذَابِي
     translation: My punishment
     transliteration: ʿadhābī
   3:
-    arabic: وَنُذُرِ‏
+    arabic: وَنُذُرِ
     translation: and My warnings
     transliteration: wanudhuri
 ---

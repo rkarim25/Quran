@@ -1,15 +1,15 @@
 ---
-arabic_ayat: اُولٰٓٮِٕكَ الَّذِيۡنَ لَعَنَهُمُ اللّٰهُ​ ؕ وَمَنۡ يَّلۡعَنِ اللّٰهُ
-  فَلَنۡ تَجِدَ لَهٗ نَصِيۡرًا ؕ‏
+arabic_ayat: أُوْلَٰٓئِكَ ٱلَّذِينَ لَعَنَهُمُ ٱللَّهُۖ وَمَن يَلۡعَنِ ٱللَّهُ فَلَن
+  تَجِدَ لَهُۥ نَصِيرًا
 sentence_translation: It is they who have been condemned by Allah. And whoever is
   condemned by Allah will have no helper.
 word_by_word:
   1:
-    arabic: اُولٰٓٮِٕكَ
+    arabic: أُوْلَٰٓئِكَ
     translation: Those
     transliteration: ulāika
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: (are) the ones
     transliteration: alladhīna
   3:
@@ -17,23 +17,23 @@ word_by_word:
     translation: (who have been) cursed
     transliteration: laʿanahumu
   4:
-    arabic: اللّٰهُ​ ؕ
+    arabic: ٱللَّهُۖ
     translation: (by) Allah
     transliteration: l-lahu
   5:
-    arabic: وَمَنۡ
+    arabic: وَمَن
     translation: and whoever
     transliteration: waman
   6:
-    arabic: يَّلۡعَنِ
+    arabic: يَلۡعَنِ
     translation: (is) cursed
     transliteration: yalʿani
   7:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: (by) Allah
     transliteration: l-lahu
   8:
-    arabic: فَلَنۡ
+    arabic: فَلَن
     translation: then never
     transliteration: falan
   9:
@@ -41,11 +41,11 @@ word_by_word:
     translation: will you find
     transliteration: tajida
   10:
-    arabic: لَهٗ
+    arabic: لَهُۥ
     translation: for him
     transliteration: lahu
   11:
-    arabic: نَصِيۡرًا ؕ‏
+    arabic: نَصِيرًا
     translation: (any) helper
     transliteration: naṣīran
 ---

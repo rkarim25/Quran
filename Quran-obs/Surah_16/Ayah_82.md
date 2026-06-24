@@ -1,18 +1,18 @@
 ---
-arabic_ayat: فَاِنۡ تَوَلَّوۡا فَاِنَّمَا عَلَيۡكَ الۡبَلٰغُ الۡمُبِيۡنُ‏
+arabic_ayat: فَإِن تَوَلَّوۡاْ فَإِنَّمَا عَلَيۡكَ ٱلۡبَلَٰغُ ٱلۡمُبِينُ
 sentence_translation: But if they turn away, then your duty ˹O Prophet˺ is only to
   deliver ˹the message˺ clearly.
 word_by_word:
   1:
-    arabic: فَاِنۡ
+    arabic: فَإِن
     translation: Then, if
     transliteration: fa-in
   2:
-    arabic: تَوَلَّوۡا
+    arabic: تَوَلَّوۡاْ
     translation: they turn away
     transliteration: tawallaw
   3:
-    arabic: فَاِنَّمَا
+    arabic: فَإِنَّمَا
     translation: then only
     transliteration: fa-innamā
   4:
@@ -20,11 +20,11 @@ word_by_word:
     translation: upon you
     transliteration: ʿalayka
   5:
-    arabic: الۡبَلٰغُ
+    arabic: ٱلۡبَلَٰغُ
     translation: (is) the conveyance
     transliteration: l-balāghu
   6:
-    arabic: الۡمُبِيۡنُ‏
+    arabic: ٱلۡمُبِينُ
     translation: the clear
     transliteration: l-mubīnu
 ---

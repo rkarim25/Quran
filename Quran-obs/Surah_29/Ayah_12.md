@@ -1,7 +1,7 @@
 ---
-arabic_ayat: وَقَالَ الَّذِيۡنَ كَفَرُوۡا لِلَّذِيۡنَ اٰمَنُوا اتَّبِعُوۡا سَبِيۡلَـنَا
-  وَلۡـنَحۡمِلۡ خَطٰيٰكُمۡ ؕ وَمَا هُمۡ بِحٰمِلِيۡنَ مِنۡ خَطٰيٰهُمۡ مِّنۡ شَىۡءٍ​ؕ
-  اِنَّهُمۡ لَـكٰذِبُوۡنَ‏
+arabic_ayat: وَقَالَ ٱلَّذِينَ كَفَرُواْ لِلَّذِينَ ءَامَنُواْ ٱتَّبِعُواْ سَبِيلَنَا
+  وَلۡنَحۡمِلۡ خَطَٰيَٰكُمۡ وَمَا هُم بِحَٰمِلِينَ مِنۡ خَطَٰيَٰهُم مِّن شَيۡءٍۖ إِنَّهُمۡ
+  لَكَٰذِبُونَ
 sentence_translation: The disbelievers say to the believers, “˹Just˺ follow our way,
   and we will bear ˹the burden of˺ your sins.” But they would never ˹want to˺ bear
   any of the believers’ sins. They are simply lying.
@@ -11,35 +11,35 @@ word_by_word:
     translation: And said
     transliteration: waqāla
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   3:
-    arabic: كَفَرُوۡا
+    arabic: كَفَرُواْ
     translation: disbelieve
     transliteration: kafarū
   4:
-    arabic: لِلَّذِيۡنَ
+    arabic: لِلَّذِينَ ءَ
     translation: to those who
     transliteration: lilladhīna
   5:
-    arabic: اٰمَنُوا
+    arabic: امَنُواْ
     translation: believe
     transliteration: āmanū
   6:
-    arabic: اتَّبِعُوۡا
+    arabic: ٱتَّبِعُواْ
     translation: Follow
     transliteration: ittabiʿū
   7:
-    arabic: سَبِيۡلَـنَا
+    arabic: سَبِيلَنَا
     translation: our way
     transliteration: sabīlanā
   8:
-    arabic: وَلۡـنَحۡمِلۡ
+    arabic: وَلۡنَحۡمِلۡ
     translation: and we will carry
     transliteration: walnaḥmil
   9:
-    arabic: خَطٰيٰكُمۡ ؕ
+    arabic: خَطَٰيَٰكُمۡ
     translation: your sins
     transliteration: khaṭāyākum
   10:
@@ -47,11 +47,11 @@ word_by_word:
     translation: But not
     transliteration: wamā
   11:
-    arabic: هُمۡ
+    arabic: هُم
     translation: they
     transliteration: hum
   12:
-    arabic: بِحٰمِلِيۡنَ
+    arabic: بِحَٰمِلِينَ
     translation: (are) going to carry
     transliteration: biḥāmilīna
   13:
@@ -59,23 +59,23 @@ word_by_word:
     translation: of
     transliteration: min
   14:
-    arabic: خَطٰيٰهُمۡ
+    arabic: خَطَٰيَٰهُم
     translation: their sins
     transliteration: khaṭāyāhum
   15:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: any
     transliteration: min
   16:
-    arabic: شَىۡءٍ​ؕ
+    arabic: شَيۡءٍۖ
     translation: thing
     transliteration: shayin
   17:
-    arabic: اِنَّهُمۡ
+    arabic: إِنَّهُمۡ
     translation: Indeed, they
     transliteration: innahum
   18:
-    arabic: لَـكٰذِبُوۡنَ‏
+    arabic: لَكَٰذِبُونَ
     translation: (are) surely liars
     transliteration: lakādhibūna
 ---

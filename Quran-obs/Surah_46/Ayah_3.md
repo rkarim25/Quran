@@ -1,6 +1,6 @@
 ---
-arabic_ayat: مَا خَلَقۡنَا السَّمٰوٰتِ وَالۡاَرۡضَ وَمَا بَيۡنَهُمَاۤ اِلَّا بِالۡحَقِّ
-  وَاَجَلٍ مُّسَمًّى​ؕ وَالَّذِيۡنَ كَفَرُوۡا عَمَّاۤ اُنۡذِرُوۡا مُعۡرِضُوۡنَ‏
+arabic_ayat: مَا خَلَقۡنَا ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضَ وَمَا بَيۡنَهُمَآ إِلَّا بِٱلۡحَقِّ
+  وَأَجَلٖ مُّسَمّٗىۚ وَٱلَّذِينَ كَفَرُواْ عَمَّآ أُنذِرُواْ مُعۡرِضُونَ
 sentence_translation: We only created the heavens and the earth and everything in
   between for a purpose and an appointed term. Yet the disbelievers are turning away
   from what they have been warned about.
@@ -14,11 +14,11 @@ word_by_word:
     translation: We created
     transliteration: khalaqnā
   3:
-    arabic: السَّمٰوٰتِ
+    arabic: ٱلسَّمَٰوَٰتِ
     translation: the heavens
     transliteration: l-samāwāti
   4:
-    arabic: وَالۡاَرۡضَ
+    arabic: وَٱلۡأَرۡضَ
     translation: and the earth
     transliteration: wal-arḍa
   5:
@@ -26,43 +26,43 @@ word_by_word:
     translation: and what
     transliteration: wamā
   6:
-    arabic: بَيۡنَهُمَاۤ
+    arabic: بَيۡنَهُمَآ
     translation: (is) between both of them
     transliteration: baynahumā
   7:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   8:
-    arabic: بِالۡحَقِّ
+    arabic: بِٱلۡحَقِّ
     translation: in truth
     transliteration: bil-ḥaqi
   9:
-    arabic: وَاَجَلٍ
+    arabic: وَأَجَلٖ
     translation: and (for) a term
     transliteration: wa-ajalin
   10:
-    arabic: مُّسَمًّى​ؕ
+    arabic: مُّسَمّٗىۚ
     translation: appointed
     transliteration: musamman
   11:
-    arabic: وَالَّذِيۡنَ
+    arabic: وَٱلَّذِينَ
     translation: But those who
     transliteration: wa-alladhīna
   12:
-    arabic: كَفَرُوۡا
+    arabic: كَفَرُواْ
     translation: disbelieve
     transliteration: kafarū
   13:
-    arabic: عَمَّاۤ
+    arabic: عَمَّآ
     translation: from what
     transliteration: ʿammā
   14:
-    arabic: اُنۡذِرُوۡا
+    arabic: أُنذِرُواْ
     translation: they are warned
     transliteration: undhirū
   15:
-    arabic: مُعۡرِضُوۡنَ‏
+    arabic: مُعۡرِضُونَ
     translation: (are) turning away
     transliteration: muʿ'riḍūna
 ---

@@ -1,13 +1,13 @@
 ---
-arabic_ayat: لَـقَدۡ اَحۡصٰٮهُمۡ وَعَدَّهُمۡ عَدًّا‏
+arabic_ayat: لَّقَدۡ أَحۡصَىٰهُمۡ وَعَدَّهُمۡ عَدّٗا
 sentence_translation: Indeed, He fully knows them and has counted them precisely.
 word_by_word:
   1:
-    arabic: لَـقَدۡ
+    arabic: لَّقَدۡ
     translation: Verily
     transliteration: laqad
   2:
-    arabic: اَحۡصٰٮهُمۡ
+    arabic: أَحۡصَىٰهُمۡ
     translation: He has enumerated them
     transliteration: aḥṣāhum
   3:
@@ -15,7 +15,7 @@ word_by_word:
     translation: and counted them
     transliteration: waʿaddahum
   4:
-    arabic: عَدًّا‏
+    arabic: عَدّٗا
     translation: a counting
     transliteration: ʿaddan
 ---

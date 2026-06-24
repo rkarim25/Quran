@@ -1,14 +1,14 @@
 ---
-arabic_ayat: كَمَاۤ اَنۡزَلۡنَا عَلَى الۡمُقۡتَسِمِيۡنَۙ‏
+arabic_ayat: كَمَآ أَنزَلۡنَا عَلَى ٱلۡمُقۡتَسِمِينَ
 sentence_translation: ˹a warning˺ similar to what We sent to those who divided ˹the
   Scriptures˺,
 word_by_word:
   1:
-    arabic: كَمَاۤ
+    arabic: كَمَآ
     translation: As
     transliteration: kamā
   2:
-    arabic: اَنۡزَلۡنَا
+    arabic: أَنزَلۡنَا
     translation: We sent down
     transliteration: anzalnā
   3:
@@ -16,7 +16,7 @@ word_by_word:
     translation: 'on'
     transliteration: ʿalā
   4:
-    arabic: الۡمُقۡتَسِمِيۡنَۙ‏
+    arabic: ٱلۡمُقۡتَسِمِينَ
     translation: those who divided
     transliteration: l-muq'tasimīna
 ---

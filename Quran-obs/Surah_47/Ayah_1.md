@@ -1,39 +1,38 @@
 ---
-arabic_ayat: "اَلَّذِيۡنَ كَفَرُوۡا وَصَدُّوۡا عَنۡ سَبِيۡلِ اللّٰهِ اَضَلَّ اَعۡمَالَهُمۡ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: ٱلَّذِينَ كَفَرُواْ وَصَدُّواْ عَن سَبِيلِ ٱللَّهِ أَضَلَّ أَعۡمَٰلَهُمۡ
 sentence_translation: Those who disbelieve and hinder ˹others˺ from the Way of Allah,
   He will render their deeds void.
 word_by_word:
   1:
-    arabic: اَلَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: Those who
     transliteration: alladhīna
   2:
-    arabic: كَفَرُوۡا
+    arabic: كَفَرُواْ
     translation: disbelieve
     transliteration: kafarū
   3:
-    arabic: وَصَدُّوۡا
+    arabic: وَصَدُّواْ
     translation: and turn away
     transliteration: waṣaddū
   4:
-    arabic: عَنۡ
+    arabic: عَن
     translation: from
     transliteration: ʿan
   5:
-    arabic: سَبِيۡلِ
+    arabic: سَبِيلِ
     translation: (the) way of Allah
     transliteration: sabīli
   6:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (the) way of Allah
     transliteration: l-lahi
   7:
-    arabic: اَضَلَّ
+    arabic: أَضَلَّ
     translation: He will cause to be lost
     transliteration: aḍalla
   8:
-    arabic: "اَعۡمَالَهُمۡ‏ \uFEFF\uFEFF"
+    arabic: أَعۡمَٰلَهُمۡ
     translation: their deeds
     transliteration: aʿmālahum
 ---

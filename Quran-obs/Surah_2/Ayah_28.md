@@ -1,6 +1,6 @@
 ---
-arabic_ayat: كَيۡفَ تَكۡفُرُوۡنَ بِاللّٰهِ وَڪُنۡتُمۡ اَمۡوَاتًا فَاَحۡيَاکُمۡ​ۚ ثُمَّ
-  يُمِيۡتُكُمۡ ثُمَّ يُحۡيِيۡكُمۡ ثُمَّ اِلَيۡهِ تُرۡجَعُوۡنَ‏
+arabic_ayat: كَيۡفَ تَكۡفُرُونَ بِٱللَّهِ وَكُنتُمۡ أَمۡوَٰتٗا فَأَحۡيَٰكُمۡۖ ثُمَّ
+  يُمِيتُكُمۡ ثُمَّ يُحۡيِيكُمۡ ثُمَّ إِلَيۡهِ تُرۡجَعُونَ
 sentence_translation: How can you deny Allah? You were lifeless and He gave you life,
   then He will cause you to die and again bring you to life, and then to Him you will
   ˹all˺ be returned.
@@ -10,23 +10,23 @@ word_by_word:
     translation: How
     transliteration: kayfa
   2:
-    arabic: تَكۡفُرُوۡنَ
+    arabic: تَكۡفُرُونَ
     translation: (can) you disbelieve
     transliteration: takfurūna
   3:
-    arabic: بِاللّٰهِ
+    arabic: بِٱللَّهِ
     translation: in Allah
     transliteration: bil-lahi
   4:
-    arabic: وَڪُنۡتُمۡ
+    arabic: وَكُنتُمۡ
     translation: While you were
     transliteration: wakuntum
   5:
-    arabic: اَمۡوَاتًا
+    arabic: أَمۡوَٰتٗا
     translation: dead
     transliteration: amwātan
   6:
-    arabic: فَاَحۡيَاکُمۡ​ۚ
+    arabic: فَأَحۡيَٰكُمۡۖ
     translation: then He gave you life
     transliteration: fa-aḥyākum
   7:
@@ -34,7 +34,7 @@ word_by_word:
     translation: then
     transliteration: thumma
   8:
-    arabic: يُمِيۡتُكُمۡ
+    arabic: يُمِيتُكُمۡ
     translation: He will cause you to die
     transliteration: yumītukum
   9:
@@ -42,7 +42,7 @@ word_by_word:
     translation: then
     transliteration: thumma
   10:
-    arabic: يُحۡيِيۡكُمۡ
+    arabic: يُحۡيِيكُمۡ
     translation: He will give you life
     transliteration: yuḥ'yīkum
   11:
@@ -50,11 +50,11 @@ word_by_word:
     translation: then
     transliteration: thumma
   12:
-    arabic: اِلَيۡهِ
+    arabic: إِلَيۡهِ
     translation: to Him
     transliteration: ilayhi
   13:
-    arabic: تُرۡجَعُوۡنَ‏
+    arabic: تُرۡجَعُونَ
     translation: you will be returned
     transliteration: tur'jaʿūna
 ---

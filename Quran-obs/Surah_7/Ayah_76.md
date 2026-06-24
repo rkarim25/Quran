@@ -1,6 +1,5 @@
 ---
-arabic_ayat: "قَالَ الَّذِيۡنَ اسۡتَكۡبَرُوۡۤا اِنَّا بِالَّذِىۡۤ اٰمَنۡتُمۡ بِهٖ\
-  \ كٰفِرُوۡنَ‏ \uFEFF\uFEFF"
+arabic_ayat: قَالَ ٱلَّذِينَ ٱسۡتَكۡبَرُوٓاْ إِنَّا بِٱلَّذِيٓ ءَامَنتُم بِهِۦ كَٰفِرُونَ
 sentence_translation: The arrogant said, “We surely reject what you believe in.”
 word_by_word:
   1:
@@ -8,31 +7,31 @@ word_by_word:
     translation: Said
     transliteration: qāla
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   3:
-    arabic: اسۡتَكۡبَرُوۡۤا
+    arabic: ٱسۡتَكۡبَرُوٓاْ
     translation: were arrogant
     transliteration: is'takbarū
   4:
-    arabic: اِنَّا
+    arabic: إِنَّا
     translation: Indeed we
     transliteration: innā
   5:
-    arabic: بِالَّذِىۡۤ
+    arabic: بِٱلَّذِيٓ ءَ
     translation: in that which
     transliteration: bi-alladhī
   6:
-    arabic: اٰمَنۡتُمۡ
+    arabic: امَنتُم
     translation: you believe
     transliteration: āmantum
   7:
-    arabic: بِهٖ
+    arabic: بِهِۦ
     translation: in it
     transliteration: bihi
   8:
-    arabic: "كٰفِرُوۡنَ‏ \uFEFF\uFEFF"
+    arabic: كَٰفِرُونَ
     translation: (are) disbelievers
     transliteration: kāfirūna
 ---

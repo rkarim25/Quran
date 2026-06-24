@@ -1,6 +1,6 @@
 ---
-arabic_ayat: قُلۡ اِنۡ كُنۡتُمۡ تُحِبُّوۡنَ اللّٰهَ فَاتَّبِعُوۡنِىۡ يُحۡبِبۡكُمُ
-  اللّٰهُ وَيَغۡفِرۡ لَـكُمۡ ذُنُوۡبَكُمۡؕ​ وَاللّٰهُ غَفُوۡرٌ رَّحِيۡمٌ‏
+arabic_ayat: قُلۡ إِن كُنتُمۡ تُحِبُّونَ ٱللَّهَ فَٱتَّبِعُونِي يُحۡبِبۡكُمُ ٱللَّهُ
+  وَيَغۡفِرۡ لَكُمۡ ذُنُوبَكُمۡۚ وَٱللَّهُ غَفُورٞ رَّحِيمٞ
 sentence_translation: Say, ˹O Prophet,˺ “If you ˹sincerely˺ love Allah, then follow
   me; Allah will love you and forgive your sins. For Allah is All-Forgiving, Most
   Merciful.”
@@ -10,23 +10,23 @@ word_by_word:
     translation: Say
     transliteration: qul
   2:
-    arabic: اِنۡ
+    arabic: إِن
     translation: If
     transliteration: in
   3:
-    arabic: كُنۡتُمۡ
+    arabic: كُنتُمۡ
     translation: you
     transliteration: kuntum
   4:
-    arabic: تُحِبُّوۡنَ
+    arabic: تُحِبُّونَ
     translation: love
     transliteration: tuḥibbūna
   5:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   6:
-    arabic: فَاتَّبِعُوۡنِىۡ
+    arabic: فَٱتَّبِعُونِي
     translation: then follow me
     transliteration: fa-ittabiʿūnī
   7:
@@ -34,7 +34,7 @@ word_by_word:
     translation: will love you
     transliteration: yuḥ'bib'kumu
   8:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   9:
@@ -42,23 +42,23 @@ word_by_word:
     translation: and He will forgive
     transliteration: wayaghfir
   10:
-    arabic: لَـكُمۡ
+    arabic: لَكُمۡ
     translation: for you
     transliteration: lakum
   11:
-    arabic: ذُنُوۡبَكُمۡؕ​
+    arabic: ذُنُوبَكُمۡۚ
     translation: your sins
     transliteration: dhunūbakum
   12:
-    arabic: وَاللّٰهُ
+    arabic: وَٱللَّهُ
     translation: And Allah
     transliteration: wal-lahu
   13:
-    arabic: غَفُوۡرٌ
+    arabic: غَفُورٞ
     translation: (is) Oft-Forgiving
     transliteration: ghafūrun
   14:
-    arabic: رَّحِيۡمٌ‏
+    arabic: رَّحِيمٞ
     translation: Most Merciful
     transliteration: raḥīmun
 ---

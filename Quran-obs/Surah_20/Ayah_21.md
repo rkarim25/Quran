@@ -1,5 +1,5 @@
 ---
-arabic_ayat: قَالَ خُذۡهَا وَلَا تَخَفۡ​ سَنُعِيۡدُهَا سِيۡرَتَهَا الۡاُوۡلٰى‏
+arabic_ayat: قَالَ خُذۡهَا وَلَا تَخَفۡۖ سَنُعِيدُهَا سِيرَتَهَا ٱلۡأُولَىٰ
 sentence_translation: Allah said, “Take it, and have no fear. We will return it to
   its former state.
 word_by_word:
@@ -16,19 +16,19 @@ word_by_word:
     translation: and (do) not
     transliteration: walā
   4:
-    arabic: تَخَفۡ​
+    arabic: تَخَفۡۖ
     translation: fear
     transliteration: takhaf
   5:
-    arabic: سَنُعِيۡدُهَا
+    arabic: سَنُعِيدُهَا
     translation: We will return it
     transliteration: sanuʿīduhā
   6:
-    arabic: سِيۡرَتَهَا
+    arabic: سِيرَتَهَا
     translation: (to) its state
     transliteration: sīratahā
   7:
-    arabic: الۡاُوۡلٰى‏
+    arabic: ٱلۡأُولَىٰ
     translation: the former
     transliteration: l-ūlā
 ---

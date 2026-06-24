@@ -1,28 +1,28 @@
 ---
-arabic_ayat: وَاَوۡرَثَكُمۡ اَرۡضَهُمۡ وَدِيَارَهُمۡ وَ اَمۡوَالَهُمۡ وَاَرۡضًا لَّمۡ
-  تَطَـــُٔوۡهَا​ ؕ وَكَانَ اللّٰهُ عَلٰى كُلِّ شَىۡءٍ قَدِيۡرًا‏
+arabic_ayat: وَأَوۡرَثَكُمۡ أَرۡضَهُمۡ وَدِيَٰرَهُمۡ وَأَمۡوَٰلَهُمۡ وَأَرۡضٗا لَّمۡ
+  تَطَـُٔوهَاۚ وَكَانَ ٱللَّهُ عَلَىٰ كُلِّ شَيۡءٖ قَدِيرٗا
 sentence_translation: He has also caused you to take over their lands, homes, and
   wealth, as well as lands you have not yet set foot on. And Allah is Most Capable
   of everything.
 word_by_word:
   1:
-    arabic: وَاَوۡرَثَكُمۡ
+    arabic: وَأَوۡرَثَكُمۡ
     translation: And He caused you to inherit
     transliteration: wa-awrathakum
   2:
-    arabic: اَرۡضَهُمۡ
+    arabic: أَرۡضَهُمۡ
     translation: their land
     transliteration: arḍahum
   3:
-    arabic: وَدِيَارَهُمۡ
+    arabic: وَدِيَٰرَهُمۡ
     translation: and their houses
     transliteration: wadiyārahum
   4:
-    arabic: وَ اَمۡوَالَهُمۡ
+    arabic: وَأَمۡوَٰلَهُمۡ
     translation: and their properties
     transliteration: wa-amwālahum
   5:
-    arabic: وَاَرۡضًا
+    arabic: وَأَرۡضٗا
     translation: and a land
     transliteration: wa-arḍan
   6:
@@ -30,7 +30,7 @@ word_by_word:
     translation: not
     transliteration: lam
   7:
-    arabic: تَطَـــُٔوۡهَا​ ؕ
+    arabic: تَطَـُٔوهَاۚ
     translation: you (had) trodden
     transliteration: taṭaūhā
   8:
@@ -38,11 +38,11 @@ word_by_word:
     translation: And Allah is
     transliteration: wakāna
   9:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: And Allah is
     transliteration: l-lahu
   10:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: 'on'
     transliteration: ʿalā
   11:
@@ -50,11 +50,11 @@ word_by_word:
     translation: every
     transliteration: kulli
   12:
-    arabic: شَىۡءٍ
+    arabic: شَيۡءٖ
     translation: thing
     transliteration: shayin
   13:
-    arabic: قَدِيۡرًا‏
+    arabic: قَدِيرٗا
     translation: All-Powerful
     transliteration: qadīran
 ---

@@ -1,17 +1,17 @@
 ---
-arabic_ayat: تَرٰى كَثِيۡرًا مِّنۡهُمۡ يَتَوَلَّوۡنَ الَّذِيۡنَ كَفَرُوۡا​ؕ لَبِئۡسَ
-  مَا قَدَّمَتۡ لَهُمۡ اَنۡفُسُهُمۡ اَنۡ سَخِطَ اللّٰهُ عَلَيۡهِمۡ وَفِى الۡعَذَابِ
-  هُمۡ خٰلِدُوۡنَ‏
+arabic_ayat: تَرَىٰ كَثِيرٗا مِّنۡهُمۡ يَتَوَلَّوۡنَ ٱلَّذِينَ كَفَرُواْۚ لَبِئۡسَ
+  مَا قَدَّمَتۡ لَهُمۡ أَنفُسُهُمۡ أَن سَخِطَ ٱللَّهُ عَلَيۡهِمۡ وَفِي ٱلۡعَذَابِ
+  هُمۡ خَٰلِدُونَ
 sentence_translation: You see many of them taking the disbelievers as allies. Truly
   wicked are their misdeeds, which have earned them Allah’s wrath. And they will be
   in everlasting torment.
 word_by_word:
   1:
-    arabic: تَرٰى
+    arabic: تَرَىٰ
     translation: You see
     transliteration: tarā
   2:
-    arabic: كَثِيۡرًا
+    arabic: كَثِيرٗا
     translation: many
     transliteration: kathīran
   3:
@@ -23,11 +23,11 @@ word_by_word:
     translation: taking as allies
     transliteration: yatawallawna
   5:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   6:
-    arabic: كَفَرُوۡا​ؕ
+    arabic: كَفَرُواْۚ
     translation: disbelieved
     transliteration: kafarū
   7:
@@ -47,11 +47,11 @@ word_by_word:
     translation: for them
     transliteration: lahum
   11:
-    arabic: اَنۡفُسُهُمۡ
+    arabic: أَنفُسُهُمۡ
     translation: their souls
     transliteration: anfusuhum
   12:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that
     transliteration: an
   13:
@@ -59,7 +59,7 @@ word_by_word:
     translation: became angry
     transliteration: sakhiṭa
   14:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   15:
@@ -67,11 +67,11 @@ word_by_word:
     translation: with them
     transliteration: ʿalayhim
   16:
-    arabic: وَفِى
+    arabic: وَفِي
     translation: and in
     transliteration: wafī
   17:
-    arabic: الۡعَذَابِ
+    arabic: ٱلۡعَذَابِ
     translation: the punishment
     transliteration: l-ʿadhābi
   18:
@@ -79,7 +79,7 @@ word_by_word:
     translation: they
     transliteration: hum
   19:
-    arabic: خٰلِدُوۡنَ‏
+    arabic: خَٰلِدُونَ
     translation: (will) abide forever
     transliteration: khālidūna
 ---

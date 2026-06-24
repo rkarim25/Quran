@@ -1,19 +1,19 @@
 ---
-arabic_ayat: وَسۡــَٔلِ الۡقَرۡيَةَ الَّتِىۡ كُنَّا فِيۡهَا وَالۡعِيۡرَ الَّتِىۡ اَقۡبَلۡنَا
-  فِيۡهَا​ؕ وَاِنَّا لَصٰدِقُوۡنَ‏
+arabic_ayat: وَسۡـَٔلِ ٱلۡقَرۡيَةَ ٱلَّتِي كُنَّا فِيهَا وَٱلۡعِيرَ ٱلَّتِيٓ أَقۡبَلۡنَا
+  فِيهَاۖ وَإِنَّا لَصَٰدِقُونَ
 sentence_translation: Ask ˹the people of˺ the land where we were and the caravan we
   travelled with. We are certainly telling the truth.’”
 word_by_word:
   1:
-    arabic: وَسۡــَٔلِ
+    arabic: وَسۡـَٔلِ
     translation: And ask
     transliteration: wasali
   2:
-    arabic: الۡقَرۡيَةَ
+    arabic: ٱلۡقَرۡيَةَ
     translation: the town
     transliteration: l-qaryata
   3:
-    arabic: الَّتِىۡ
+    arabic: ٱلَّتِي
     translation: where
     transliteration: allatī
   4:
@@ -21,31 +21,31 @@ word_by_word:
     translation: we were
     transliteration: kunnā
   5:
-    arabic: فِيۡهَا
+    arabic: فِيهَا
     translation: '[in it]'
     transliteration: fīhā
   6:
-    arabic: وَالۡعِيۡرَ
+    arabic: وَٱلۡعِيرَ
     translation: and the caravan
     transliteration: wal-ʿīra
   7:
-    arabic: الَّتِىۡ
+    arabic: ٱلَّتِيٓ
     translation: which
     transliteration: allatī
   8:
-    arabic: اَقۡبَلۡنَا
+    arabic: أَقۡبَلۡنَا
     translation: we returned
     transliteration: aqbalnā
   9:
-    arabic: فِيۡهَا​ؕ
+    arabic: فِيهَاۖ
     translation: '[in it]'
     transliteration: fīhā
   10:
-    arabic: وَاِنَّا
+    arabic: وَإِنَّا
     translation: And indeed, we
     transliteration: wa-innā
   11:
-    arabic: لَصٰدِقُوۡنَ‏
+    arabic: لَصَٰدِقُونَ
     translation: surely (are) truthful.'
     transliteration: laṣādiqūna
 ---

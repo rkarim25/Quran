@@ -1,8 +1,8 @@
 ---
-arabic_ayat: فَتَقَبَّلَهَا رَبُّهَا بِقَبُوۡلٍ حَسَنٍ وَّاَنۡۢبَتَهَا نَبَاتًا حَسَنًا
-  ۙ وَّكَفَّلَهَا زَكَرِيَّا ​ؕ كُلَّمَا دَخَلَ عَلَيۡهَا زَكَرِيَّا الۡمِحۡرَابَۙ
-  وَجَدَ عِنۡدَهَا رِزۡقًا ​ۚ​ قَالَ يٰمَرۡيَمُ اَنّٰى لَـكِ هٰذَا ؕ​ قَالَتۡ هُوَ
-  مِنۡ عِنۡدِ اللّٰهِ​ؕ اِنَّ اللّٰهَ يَرۡزُقُ مَنۡ يَّشَآءُ بِغَيۡرِ حِسَابٍ‏
+arabic_ayat: فَتَقَبَّلَهَا رَبُّهَا بِقَبُولٍ حَسَنٖ وَأَنۢبَتَهَا نَبَاتًا حَسَنٗا
+  وَكَفَّلَهَا زَكَرِيَّاۖ كُلَّمَا دَخَلَ عَلَيۡهَا زَكَرِيَّا ٱلۡمِحۡرَابَ وَجَدَ
+  عِندَهَا رِزۡقٗاۖ قَالَ يَٰمَرۡيَمُ أَنَّىٰ لَكِ هَٰذَاۖ قَالَتۡ هُوَ مِنۡ عِندِ
+  ٱللَّهِۖ إِنَّ ٱللَّهَ يَرۡزُقُ مَن يَشَآءُ بِغَيۡرِ حِسَابٍ
 sentence_translation: So her Lord accepted her graciously and blessed her with a pleasant
   upbringing—entrusting her to the care of Zachariah. Whenever Zachariah visited her
   in the sanctuary, he found her supplied with provisions. He exclaimed, “O Mary!
@@ -18,15 +18,15 @@ word_by_word:
     translation: her Lord
     transliteration: rabbuhā
   3:
-    arabic: بِقَبُوۡلٍ
+    arabic: بِقَبُولٍ
     translation: with acceptance
     transliteration: biqabūlin
   4:
-    arabic: حَسَنٍ
+    arabic: حَسَنٖ
     translation: good
     transliteration: ḥasanin
   5:
-    arabic: وَّاَنۡۢبَتَهَا
+    arabic: وَأَنۢبَتَهَا
     translation: 'and reared her '
     transliteration: wa-anbatahā
   6:
@@ -34,15 +34,15 @@ word_by_word:
     translation: a rearing
     transliteration: nabātan
   7:
-    arabic: حَسَنًا ۙ
+    arabic: حَسَنٗا
     translation: good
     transliteration: ḥasanan
   8:
-    arabic: وَّكَفَّلَهَا
+    arabic: وَكَفَّلَهَا
     translation: and put her in (the) care
     transliteration: wakaffalahā
   9:
-    arabic: زَكَرِيَّا ​ؕ
+    arabic: زَكَرِيَّاۖ
     translation: (of) Zakariya
     transliteration: zakariyyā
   10:
@@ -62,7 +62,7 @@ word_by_word:
     translation: Zakariya
     transliteration: zakariyyā
   14:
-    arabic: الۡمِحۡرَابَۙ
+    arabic: ٱلۡمِحۡرَابَ
     translation: '[the] prayer chamber'
     transliteration: l-miḥ'rāba
   15:
@@ -70,11 +70,11 @@ word_by_word:
     translation: he found
     transliteration: wajada
   16:
-    arabic: عِنۡدَهَا
+    arabic: عِندَهَا
     translation: with her
     transliteration: ʿindahā
   17:
-    arabic: رِزۡقًا ​ۚ​
+    arabic: رِزۡقٗاۖ
     translation: provision
     transliteration: riz'qan
   18:
@@ -82,19 +82,19 @@ word_by_word:
     translation: He said
     transliteration: qāla
   19:
-    arabic: يٰمَرۡيَمُ
+    arabic: يَٰمَرۡيَمُ
     translation: O Maryam
     transliteration: yāmaryamu
   20:
-    arabic: اَنّٰى
+    arabic: أَنَّىٰ
     translation: From where
     transliteration: annā
   21:
-    arabic: لَـكِ
+    arabic: لَكِ
     translation: for you
     transliteration: laki
   22:
-    arabic: هٰذَا ؕ​
+    arabic: هَٰذَاۖ
     translation: (is) this
     transliteration: hādhā
   23:
@@ -110,19 +110,19 @@ word_by_word:
     translation: (is)
     transliteration: min
   26:
-    arabic: عِنۡدِ
+    arabic: عِندِ
     translation: from
     transliteration: ʿindi
   27:
-    arabic: اللّٰهِ​ؕ
+    arabic: ٱللَّهِۖ
     translation: Allah
     transliteration: l-lahi
   28:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   29:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   30:
@@ -130,11 +130,11 @@ word_by_word:
     translation: gives provision
     transliteration: yarzuqu
   31:
-    arabic: مَنۡ
+    arabic: مَن
     translation: (to) whom
     transliteration: man
   32:
-    arabic: يَّشَآءُ
+    arabic: يَشَآءُ
     translation: He wills
     transliteration: yashāu
   33:
@@ -142,7 +142,7 @@ word_by_word:
     translation: without
     transliteration: bighayri
   34:
-    arabic: حِسَابٍ‏
+    arabic: حِسَابٍ
     translation: measure
     transliteration: ḥisābin
 ---

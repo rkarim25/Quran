@@ -1,8 +1,7 @@
 ---
-arabic_ayat: لَوۡ كَانَ عَرَضًا قَرِيۡبًا وَّسَفَرًا قَاصِدًا لَّاتَّبَعُوۡكَ وَلٰـكِنۡۢ
-  بَعُدَتۡ عَلَيۡهِمُ الشُّقَّةُ ​ ؕ وَسَيَحۡلِفُوۡنَ بِاللّٰهِ لَوِ اسۡتَطَعۡنَا
-  لَخَـرَجۡنَا مَعَكُمۡ ۚ يُهۡلِكُوۡنَ اَنۡفُسَهُمۡ​ ۚ وَاللّٰهُ يَعۡلَمُ اِنَّهُمۡ
-  لَـكٰذِبُوۡنَ‏
+arabic_ayat: لَوۡ كَانَ عَرَضٗا قَرِيبٗا وَسَفَرٗا قَاصِدٗا لَّٱتَّبَعُوكَ وَلَٰكِنۢ
+  بَعُدَتۡ عَلَيۡهِمُ ٱلشُّقَّةُۚ وَسَيَحۡلِفُونَ بِٱللَّهِ لَوِ ٱسۡتَطَعۡنَا لَخَرَجۡنَا
+  مَعَكُمۡ يُهۡلِكُونَ أَنفُسَهُمۡ وَٱللَّهُ يَعۡلَمُ إِنَّهُمۡ لَكَٰذِبُونَ
 sentence_translation: Had the gain been within reach and the journey shorter, they
   would have followed you, but the distance seemed too long for them. And they will
   swear by Allah, “Had we been able, we would have certainly joined you.” They are
@@ -17,27 +16,27 @@ word_by_word:
     translation: it had been
     transliteration: kāna
   3:
-    arabic: عَرَضًا
+    arabic: عَرَضٗا
     translation: a gain
     transliteration: ʿaraḍan
   4:
-    arabic: قَرِيۡبًا
+    arabic: قَرِيبٗا
     translation: near
     transliteration: qarīban
   5:
-    arabic: وَّسَفَرًا
+    arabic: وَسَفَرٗا
     translation: and a journey
     transliteration: wasafaran
   6:
-    arabic: قَاصِدًا
+    arabic: قَاصِدٗا
     translation: easy
     transliteration: qāṣidan
   7:
-    arabic: لَّاتَّبَعُوۡكَ
+    arabic: لَّٱتَّبَعُوكَ
     translation: surely they (would) have followed you
     transliteration: la-ittabaʿūka
   8:
-    arabic: وَلٰـكِنۡۢ
+    arabic: وَلَٰكِنۢ
     translation: but
     transliteration: walākin
   9:
@@ -49,15 +48,15 @@ word_by_word:
     translation: for them
     transliteration: ʿalayhimu
   11:
-    arabic: الشُّقَّةُ ​ ؕ
+    arabic: ٱلشُّقَّةُۚ
     translation: the distance
     transliteration: l-shuqatu
   12:
-    arabic: وَسَيَحۡلِفُوۡنَ
+    arabic: وَسَيَحۡلِفُونَ
     translation: And they will swear
     transliteration: wasayaḥlifūna
   13:
-    arabic: بِاللّٰهِ
+    arabic: بِٱللَّهِ
     translation: by Allah
     transliteration: bil-lahi
   14:
@@ -65,27 +64,27 @@ word_by_word:
     translation: If
     transliteration: lawi
   15:
-    arabic: اسۡتَطَعۡنَا
+    arabic: ٱسۡتَطَعۡنَا
     translation: we were able
     transliteration: is'taṭaʿnā
   16:
-    arabic: لَخَـرَجۡنَا
+    arabic: لَخَرَجۡنَا
     translation: certainly we (would) have come forth
     transliteration: lakharajnā
   17:
-    arabic: مَعَكُمۡ ۚ
+    arabic: مَعَكُمۡ
     translation: with you
     transliteration: maʿakum
   18:
-    arabic: يُهۡلِكُوۡنَ
+    arabic: يُهۡلِكُونَ
     translation: They destroy
     transliteration: yuh'likūna
   19:
-    arabic: اَنۡفُسَهُمۡ​ ۚ
+    arabic: أَنفُسَهُمۡ
     translation: their own selves
     transliteration: anfusahum
   20:
-    arabic: وَاللّٰهُ
+    arabic: وَٱللَّهُ
     translation: and Allah
     transliteration: wal-lahu
   21:
@@ -93,11 +92,11 @@ word_by_word:
     translation: knows
     transliteration: yaʿlamu
   22:
-    arabic: اِنَّهُمۡ
+    arabic: إِنَّهُمۡ
     translation: (that) indeed, they
     transliteration: innahum
   23:
-    arabic: لَـكٰذِبُوۡنَ‏
+    arabic: لَكَٰذِبُونَ
     translation: (are) surely liars
     transliteration: lakādhibūna
 ---

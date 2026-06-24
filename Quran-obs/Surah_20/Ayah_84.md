@@ -1,6 +1,5 @@
 ---
-arabic_ayat: "قَالَ هُمۡ اُولَاۤءِ عَلٰٓى اَثَرِىۡ وَ عَجِلۡتُ اِلَيۡكَ رَبِّ لِتَرۡضٰى‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: قَالَ هُمۡ أُوْلَآءِ عَلَىٰٓ أَثَرِي وَعَجِلۡتُ إِلَيۡكَ رَبِّ لِتَرۡضَىٰ
 sentence_translation: He replied, “They are close on my tracks. And I have hastened
   to You, my Lord, so You will be pleased.”
 word_by_word:
@@ -13,23 +12,23 @@ word_by_word:
     translation: They
     transliteration: hum
   3:
-    arabic: اُولَاۤءِ
+    arabic: أُوْلَآءِ
     translation: (are) close
     transliteration: ulāi
   4:
-    arabic: عَلٰٓى
+    arabic: عَلَىٰٓ
     translation: upon
     transliteration: ʿalā
   5:
-    arabic: اَثَرِىۡ
+    arabic: أَثَرِي
     translation: my tracks
     transliteration: atharī
   6:
-    arabic: وَ عَجِلۡتُ
+    arabic: وَعَجِلۡتُ
     translation: and I hastened
     transliteration: waʿajil'tu
   7:
-    arabic: اِلَيۡكَ
+    arabic: إِلَيۡكَ
     translation: to you
     transliteration: ilayka
   8:
@@ -37,7 +36,7 @@ word_by_word:
     translation: my Lord
     transliteration: rabbi
   9:
-    arabic: "لِتَرۡضٰى‏ \uFEFF\uFEFF"
+    arabic: لِتَرۡضَىٰ
     translation: that You be pleased
     transliteration: litarḍā
 ---

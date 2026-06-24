@@ -1,21 +1,21 @@
 ---
-arabic_ayat: وَاَنَّهٗۤ اَهۡلَكَ عَادَا۟ اۨلۡـٮُٔـوْلٰى ۙ‏
+arabic_ayat: وَأَنَّهُۥٓ أَهۡلَكَ عَادًا ٱلۡأُولَىٰ
 sentence_translation: And He destroyed the first ˹people of˺ ’Ȃd,
 word_by_word:
   1:
-    arabic: وَاَنَّهٗۤ
+    arabic: وَأَنَّهُۥٓ
     translation: And that He
     transliteration: wa-annahu
   2:
-    arabic: اَهۡلَكَ
+    arabic: أَهۡلَكَ
     translation: destroyed
     transliteration: ahlaka
   3:
-    arabic: عَادَا۟
+    arabic: عَادًا
     translation: Aad
     transliteration: ʿādan
   4:
-    arabic: اۨلۡـٮُٔـوْلٰى ۙ‏
+    arabic: ٱلۡأُولَىٰ
     translation: the first
     transliteration: l-ūlā
 ---

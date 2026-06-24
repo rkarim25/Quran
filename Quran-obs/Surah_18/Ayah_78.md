@@ -1,6 +1,6 @@
 ---
-arabic_ayat: قَالَ هٰذَا فِرَاقُ بَيۡنِىۡ وَبَيۡنِكَ​​ ۚ سَاُنَـبِّئُكَ بِتَاۡوِيۡلِ
-  مَا لَمۡ تَسۡتَطِعْ عَّلَيۡهِ صَبۡرًا‏
+arabic_ayat: قَالَ هَٰذَا فِرَاقُ بَيۡنِي وَبَيۡنِكَۚ سَأُنَبِّئُكَ بِتَأۡوِيلِ مَا
+  لَمۡ تَسۡتَطِع عَّلَيۡهِ صَبۡرًا
 sentence_translation: He replied, “This is the parting of our ways. I will explain
   to you what you could not bear patiently.
 word_by_word:
@@ -9,7 +9,7 @@ word_by_word:
     translation: He said
     transliteration: qāla
   2:
-    arabic: هٰذَا
+    arabic: هَٰذَا
     translation: This
     transliteration: hādhā
   3:
@@ -17,19 +17,19 @@ word_by_word:
     translation: (is) parting
     transliteration: firāqu
   4:
-    arabic: بَيۡنِىۡ
+    arabic: بَيۡنِي
     translation: between me
     transliteration: baynī
   5:
-    arabic: وَبَيۡنِكَ​​ ۚ
+    arabic: وَبَيۡنِكَۚ
     translation: and between you
     transliteration: wabaynika
   6:
-    arabic: سَاُنَـبِّئُكَ
+    arabic: سَأُنَبِّئُكَ
     translation: I will inform you
     transliteration: sa-unabbi-uka
   7:
-    arabic: بِتَاۡوِيۡلِ
+    arabic: بِتَأۡوِيلِ
     translation: of (the) interpretation
     transliteration: bitawīli
   8:
@@ -41,7 +41,7 @@ word_by_word:
     translation: not
     transliteration: lam
   10:
-    arabic: تَسۡتَطِعْ
+    arabic: تَسۡتَطِع
     translation: you were able
     transliteration: tastaṭiʿ
   11:
@@ -49,7 +49,7 @@ word_by_word:
     translation: on it
     transliteration: ʿalayhi
   12:
-    arabic: صَبۡرًا‏
+    arabic: صَبۡرًا
     translation: (to have) patience
     transliteration: ṣabran
 ---

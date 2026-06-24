@@ -1,39 +1,39 @@
 ---
-arabic_ayat: يٰۤـاَيُّهَا الَّذِيۡنَ اٰمَنُوۡۤا اِذَا لَقِيۡتُمُ الَّذِيۡنَ كَفَرُوۡا
-  زَحۡفًا فَلَا تُوَلُّوۡهُمُ الۡاَدۡبَارَ​ۚ‏
+arabic_ayat: يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓاْ إِذَا لَقِيتُمُ ٱلَّذِينَ كَفَرُواْ
+  زَحۡفٗا فَلَا تُوَلُّوهُمُ ٱلۡأَدۡبَارَ
 sentence_translation: O believers! When you face the disbelievers in battle, never
   turn your backs to them.
 word_by_word:
   1:
-    arabic: يٰۤـاَيُّهَا
+    arabic: يَٰٓأَيُّهَا
     translation: O you
     transliteration: yāayyuhā
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ ءَ
     translation: who
     transliteration: alladhīna
   3:
-    arabic: اٰمَنُوۡۤا
+    arabic: امَنُوٓاْ
     translation: believe
     transliteration: āmanū
   4:
-    arabic: اِذَا
+    arabic: إِذَا
     translation: When
     transliteration: idhā
   5:
-    arabic: لَقِيۡتُمُ
+    arabic: لَقِيتُمُ
     translation: you meet
     transliteration: laqītumu
   6:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   7:
-    arabic: كَفَرُوۡا
+    arabic: كَفَرُواْ
     translation: disbelieve
     transliteration: kafarū
   8:
-    arabic: زَحۡفًا
+    arabic: زَحۡفٗا
     translation: advancing
     transliteration: zaḥfan
   9:
@@ -41,11 +41,11 @@ word_by_word:
     translation: then (do) not
     transliteration: falā
   10:
-    arabic: تُوَلُّوۡهُمُ
+    arabic: تُوَلُّوهُمُ
     translation: turn to them
     transliteration: tuwallūhumu
   11:
-    arabic: الۡاَدۡبَارَ​ۚ‏
+    arabic: ٱلۡأَدۡبَارَ
     translation: the backs
     transliteration: l-adbāra
 ---

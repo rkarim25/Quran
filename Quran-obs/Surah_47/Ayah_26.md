@@ -1,28 +1,28 @@
 ---
-arabic_ayat: ذٰلِكَ بِاَنَّهُمۡ قَالُوۡا لِلَّذِيۡنَ كَرِهُوۡا مَا نَزَّلَ اللّٰهُ
-  سَنُطِيۡعُكُمۡ فِىۡ بَعۡضِ الۡاَمۡرِ ۖۚ وَاللّٰهُ يَعۡلَمُ اِسۡرَارَهُمۡ‏
+arabic_ayat: ذَٰلِكَ بِأَنَّهُمۡ قَالُواْ لِلَّذِينَ كَرِهُواْ مَا نَزَّلَ ٱللَّهُ
+  سَنُطِيعُكُمۡ فِي بَعۡضِ ٱلۡأَمۡرِۖ وَٱللَّهُ يَعۡلَمُ إِسۡرَارَهُمۡ
 sentence_translation: That is because they said ˹privately˺ to those who ˹also˺ detest
   what Allah has revealed, “We will obey you in some matters.” But Allah ˹fully˺ knows
   what they are hiding.
 word_by_word:
   1:
-    arabic: ذٰلِكَ
+    arabic: ذَٰلِكَ
     translation: That
     transliteration: dhālika
   2:
-    arabic: بِاَنَّهُمۡ
+    arabic: بِأَنَّهُمۡ
     translation: (is) because they
     transliteration: bi-annahum
   3:
-    arabic: قَالُوۡا
+    arabic: قَالُواْ
     translation: '[they] said'
     transliteration: qālū
   4:
-    arabic: لِلَّذِيۡنَ
+    arabic: لِلَّذِينَ
     translation: to those who
     transliteration: lilladhīna
   5:
-    arabic: كَرِهُوۡا
+    arabic: كَرِهُواْ
     translation: hate
     transliteration: karihū
   6:
@@ -34,15 +34,15 @@ word_by_word:
     translation: Allah has revealed
     transliteration: nazzala
   8:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah has revealed
     transliteration: l-lahu
   9:
-    arabic: سَنُطِيۡعُكُمۡ
+    arabic: سَنُطِيعُكُمۡ
     translation: We will obey you
     transliteration: sanuṭīʿukum
   10:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   11:
@@ -50,11 +50,11 @@ word_by_word:
     translation: part
     transliteration: baʿḍi
   12:
-    arabic: الۡاَمۡرِ ۖۚ
+    arabic: ٱلۡأَمۡرِۖ
     translation: (of) the matter
     transliteration: l-amri
   13:
-    arabic: وَاللّٰهُ
+    arabic: وَٱللَّهُ
     translation: But Allah
     transliteration: wal-lahu
   14:
@@ -62,7 +62,7 @@ word_by_word:
     translation: knows
     transliteration: yaʿlamu
   15:
-    arabic: اِسۡرَارَهُمۡ‏
+    arabic: إِسۡرَارَهُمۡ
     translation: their secrets
     transliteration: is'rārahum
 ---

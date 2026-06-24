@@ -1,21 +1,21 @@
 ---
-arabic_ayat: وَالَّذِيۡنَ اٰمَنُوۡا مِنۡۢ بَعۡدُ وَهَاجَرُوۡا وَجَاهَدُوۡا مَعَكُمۡ
-  فَاُولٰۤٮِٕكَ مِنۡكُمۡ​ؕ وَاُولُوا الۡاَرۡحَامِ بَعۡضُهُمۡ اَوۡلٰى بِبَعۡضٍ فِىۡ
-  كِتٰبِ اللّٰهِ​ؕ اِنَّ اللّٰهَ بِكُلِّ شَىۡءٍ عَلِيۡمٌ‏
+arabic_ayat: وَٱلَّذِينَ ءَامَنُواْ مِنۢ بَعۡدُ وَهَاجَرُواْ وَجَٰهَدُواْ مَعَكُمۡ
+  فَأُوْلَٰٓئِكَ مِنكُمۡۚ وَأُوْلُواْ ٱلۡأَرۡحَامِ بَعۡضُهُمۡ أَوۡلَىٰ بِبَعۡضٖ فِي
+  كِتَٰبِ ٱللَّهِۚ إِنَّ ٱللَّهَ بِكُلِّ شَيۡءٍ عَلِيمُۢ
 sentence_translation: And those who later believed, migrated, and struggled alongside
   you, they are also with you. But only blood relatives are now entitled to inherit
   from one another, as ordained by Allah. Surely Allah has ˹full˺ knowledge of everything.
 word_by_word:
   1:
-    arabic: وَالَّذِيۡنَ
+    arabic: وَٱلَّذِينَ ءَ
     translation: And those who
     transliteration: wa-alladhīna
   2:
-    arabic: اٰمَنُوۡا
+    arabic: امَنُواْ
     translation: believed
     transliteration: āmanū
   3:
-    arabic: مِنۡۢ
+    arabic: مِنۢ
     translation: from
     transliteration: min
   4:
@@ -23,11 +23,11 @@ word_by_word:
     translation: afterwards
     transliteration: baʿdu
   5:
-    arabic: وَهَاجَرُوۡا
+    arabic: وَهَاجَرُواْ
     translation: and emigrated
     transliteration: wahājarū
   6:
-    arabic: وَجَاهَدُوۡا
+    arabic: وَجَٰهَدُواْ
     translation: and strove hard
     transliteration: wajāhadū
   7:
@@ -35,19 +35,19 @@ word_by_word:
     translation: with you
     transliteration: maʿakum
   8:
-    arabic: فَاُولٰۤٮِٕكَ
+    arabic: فَأُوْلَٰٓئِكَ
     translation: then those
     transliteration: fa-ulāika
   9:
-    arabic: مِنۡكُمۡ​ؕ
+    arabic: مِنكُمۡۚ
     translation: (are) of you
     transliteration: minkum
   10:
-    arabic: وَاُولُوا
+    arabic: وَأُوْلُواْ
     translation: But those
     transliteration: wa-ulū
   11:
-    arabic: الۡاَرۡحَامِ
+    arabic: ٱلۡأَرۡحَامِ
     translation: (of) blood relationship
     transliteration: l-arḥāmi
   12:
@@ -55,31 +55,31 @@ word_by_word:
     translation: some of them
     transliteration: baʿḍuhum
   13:
-    arabic: اَوۡلٰى
+    arabic: أَوۡلَىٰ
     translation: (are) nearer
     transliteration: awlā
   14:
-    arabic: بِبَعۡضٍ
+    arabic: بِبَعۡضٖ
     translation: to another
     transliteration: bibaʿḍin
   15:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   16:
-    arabic: كِتٰبِ
+    arabic: كِتَٰبِ
     translation: (the) Book
     transliteration: kitābi
   17:
-    arabic: اللّٰهِ​ؕ
+    arabic: ٱللَّهِۚ
     translation: (of) Allah
     transliteration: l-lahi
   18:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   19:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   20:
@@ -87,11 +87,11 @@ word_by_word:
     translation: of every
     transliteration: bikulli
   21:
-    arabic: شَىۡءٍ
+    arabic: شَيۡءٍ
     translation: thing
     transliteration: shayin
   22:
-    arabic: عَلِيۡمٌ‏
+    arabic: عَلِيمُۢ
     translation: (is) All-Knower
     transliteration: ʿalīmun
 ---

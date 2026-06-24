@@ -1,16 +1,16 @@
 ---
-arabic_ayat: وَمِنۡ رَّحۡمَتِهٖ جَعَلَ لَـكُمُ الَّيۡلَ وَالنَّهَارَ لِتَسۡكُنُوۡا
-  فِيۡهِ وَلِتَبۡتَغُوۡا مِنۡ فَضۡلِهٖ وَلَعَلَّكُمۡ تَشۡكُرُوۡنَ‏
+arabic_ayat: وَمِن رَّحۡمَتِهِۦ جَعَلَ لَكُمُ ٱلَّيۡلَ وَٱلنَّهَارَ لِتَسۡكُنُواْ
+  فِيهِ وَلِتَبۡتَغُواْ مِن فَضۡلِهِۦ وَلَعَلَّكُمۡ تَشۡكُرُونَ
 sentence_translation: It is out of His mercy that He has made for you the day and
   night so that you may rest ˹in the latter˺ and seek His bounty ˹in the former˺,
   and perhaps you will be grateful.
 word_by_word:
   1:
-    arabic: وَمِنۡ
+    arabic: وَمِن
     translation: And from
     transliteration: wamin
   2:
-    arabic: رَّحۡمَتِهٖ
+    arabic: رَّحۡمَتِهِۦ
     translation: His Mercy
     transliteration: raḥmatihi
   3:
@@ -18,35 +18,35 @@ word_by_word:
     translation: He made
     transliteration: jaʿala
   4:
-    arabic: لَـكُمُ
+    arabic: لَكُمُ
     translation: for you
     transliteration: lakumu
   5:
-    arabic: الَّيۡلَ
+    arabic: ٱلَّيۡلَ
     translation: the night
     transliteration: al-layla
   6:
-    arabic: وَالنَّهَارَ
+    arabic: وَٱلنَّهَارَ
     translation: and the day
     transliteration: wal-nahāra
   7:
-    arabic: لِتَسۡكُنُوۡا
+    arabic: لِتَسۡكُنُواْ
     translation: that you may rest
     transliteration: litaskunū
   8:
-    arabic: فِيۡهِ
+    arabic: فِيهِ
     translation: therein
     transliteration: fīhi
   9:
-    arabic: وَلِتَبۡتَغُوۡا
+    arabic: وَلِتَبۡتَغُواْ
     translation: and that you may seek
     transliteration: walitabtaghū
   10:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   11:
-    arabic: فَضۡلِهٖ
+    arabic: فَضۡلِهِۦ
     translation: His Bounty
     transliteration: faḍlihi
   12:
@@ -54,7 +54,7 @@ word_by_word:
     translation: and so that you may
     transliteration: walaʿallakum
   13:
-    arabic: تَشۡكُرُوۡنَ‏
+    arabic: تَشۡكُرُونَ
     translation: be grateful
     transliteration: tashkurūna
 ---

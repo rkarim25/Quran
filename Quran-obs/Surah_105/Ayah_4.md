@@ -1,21 +1,21 @@
 ---
-arabic_ayat: تَرۡمِيۡهِمۡ بِحِجَارَةٍ مِّنۡ سِجِّيۡلٍۙ‏
+arabic_ayat: تَرۡمِيهِم بِحِجَارَةٖ مِّن سِجِّيلٖ
 sentence_translation: that pelted them with stones of baked clay,
 word_by_word:
   1:
-    arabic: تَرۡمِيۡهِمۡ
+    arabic: تَرۡمِيهِم
     translation: Striking them
     transliteration: tarmīhim
   2:
-    arabic: بِحِجَارَةٍ
+    arabic: بِحِجَارَةٖ
     translation: with stones
     transliteration: biḥijāratin
   3:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: of
     transliteration: min
   4:
-    arabic: سِجِّيۡلٍۙ‏
+    arabic: سِجِّيلٖ
     translation: baked clay
     transliteration: sijjīlin
 ---

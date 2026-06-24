@@ -1,6 +1,6 @@
 ---
-arabic_ayat: ثُمَّ بَعَثۡنٰهُمۡ لِنَعۡلَمَ اَىُّ الۡحِزۡبَيۡنِ اَحۡصٰى لِمَا لَبِثُوۡۤا
-  اَمَدًا‏
+arabic_ayat: ثُمَّ بَعَثۡنَٰهُمۡ لِنَعۡلَمَ أَيُّ ٱلۡحِزۡبَيۡنِ أَحۡصَىٰ لِمَا لَبِثُوٓاْ
+  أَمَدٗا
 sentence_translation: then We raised them so We may show which of the two groups would
   make a better estimation of the length of their stay. 
 word_by_word:
@@ -9,7 +9,7 @@ word_by_word:
     translation: Then
     transliteration: thumma
   2:
-    arabic: بَعَثۡنٰهُمۡ
+    arabic: بَعَثۡنَٰهُمۡ
     translation: We raised them up
     transliteration: baʿathnāhum
   3:
@@ -17,15 +17,15 @@ word_by_word:
     translation: that We make evident
     transliteration: linaʿlama
   4:
-    arabic: اَىُّ
+    arabic: أَيُّ
     translation: which
     transliteration: ayyu
   5:
-    arabic: الۡحِزۡبَيۡنِ
+    arabic: ٱلۡحِزۡبَيۡنِ
     translation: (of) the two parties
     transliteration: l-ḥiz'bayni
   6:
-    arabic: اَحۡصٰى
+    arabic: أَحۡصَىٰ
     translation: best calculated
     transliteration: aḥṣā
   7:
@@ -33,11 +33,11 @@ word_by_word:
     translation: for what
     transliteration: limā
   8:
-    arabic: لَبِثُوۡۤا
+    arabic: لَبِثُوٓاْ
     translation: (they had) remained
     transliteration: labithū
   9:
-    arabic: اَمَدًا‏
+    arabic: أَمَدٗا
     translation: (in) time
     transliteration: amadan
 ---

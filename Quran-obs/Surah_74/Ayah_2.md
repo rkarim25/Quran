@@ -1,5 +1,5 @@
 ---
-arabic_ayat: قُمۡ فَاَنۡذِرۡۙ‏
+arabic_ayat: قُمۡ فَأَنذِرۡ
 sentence_translation: Arise and warn ˹all˺.
 word_by_word:
   1:
@@ -7,7 +7,7 @@ word_by_word:
     translation: Stand up
     transliteration: qum
   2:
-    arabic: فَاَنۡذِرۡۙ‏
+    arabic: فَأَنذِرۡ
     translation: and warn
     transliteration: fa-andhir
 ---

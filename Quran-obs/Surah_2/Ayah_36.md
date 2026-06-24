@@ -1,18 +1,18 @@
 ---
-arabic_ayat: فَاَزَلَّهُمَا الشَّيۡطٰنُ عَنۡهَا فَاَخۡرَجَهُمَا مِمَّا كَانَا فِيۡهِ​
-  وَقُلۡنَا اهۡبِطُوۡا بَعۡضُكُمۡ لِبَعۡضٍ عَدُوٌّ ۚ وَلَـكُمۡ فِى الۡاَرۡضِ مُسۡتَقَرٌّ
-  وَّمَتَاعٌ اِلٰى حِيۡنٍ‏
+arabic_ayat: فَأَزَلَّهُمَا ٱلشَّيۡطَٰنُ عَنۡهَا فَأَخۡرَجَهُمَا مِمَّا كَانَا فِيهِۖ
+  وَقُلۡنَا ٱهۡبِطُواْ بَعۡضُكُمۡ لِبَعۡضٍ عَدُوّٞۖ وَلَكُمۡ فِي ٱلۡأَرۡضِ مُسۡتَقَرّٞ
+  وَمَتَٰعٌ إِلَىٰ حِينٖ
 sentence_translation: But Satan deceived them—leading to their fall from the ˹blissful˺
   state they were in, and We said, “Descend from the heavens ˹to the earth˺ as enemies
   to each other. You will find in the earth a residence and provision for your appointed
   stay.”
 word_by_word:
   1:
-    arabic: فَاَزَلَّهُمَا
+    arabic: فَأَزَلَّهُمَا
     translation: Then made [both of] them slip
     transliteration: fa-azallahumā
   2:
-    arabic: الشَّيۡطٰنُ
+    arabic: ٱلشَّيۡطَٰنُ
     translation: the Shaitaan
     transliteration: l-shayṭānu
   3:
@@ -20,7 +20,7 @@ word_by_word:
     translation: from it
     transliteration: ʿanhā
   4:
-    arabic: فَاَخۡرَجَهُمَا
+    arabic: فَأَخۡرَجَهُمَا
     translation: and he got [both of] them out
     transliteration: fa-akhrajahumā
   5:
@@ -32,7 +32,7 @@ word_by_word:
     translation: they [both] were
     transliteration: kānā
   7:
-    arabic: فِيۡهِ​
+    arabic: فِيهِۖ
     translation: in [it]
     transliteration: fīhi
   8:
@@ -40,7 +40,7 @@ word_by_word:
     translation: And We said
     transliteration: waqul'nā
   9:
-    arabic: اهۡبِطُوۡا
+    arabic: ٱهۡبِطُواْ
     translation: Go down (all of you)
     transliteration: ih'biṭū
   10:
@@ -52,35 +52,35 @@ word_by_word:
     translation: to others
     transliteration: libaʿḍin
   12:
-    arabic: عَدُوٌّ ۚ
+    arabic: عَدُوّٞۖ
     translation: (as) enemy
     transliteration: ʿaduwwun
   13:
-    arabic: وَلَـكُمۡ
+    arabic: وَلَكُمۡ
     translation: and for you
     transliteration: walakum
   14:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   15:
-    arabic: الۡاَرۡضِ
+    arabic: ٱلۡأَرۡضِ
     translation: the earth
     transliteration: l-arḍi
   16:
-    arabic: مُسۡتَقَرٌّ
+    arabic: مُسۡتَقَرّٞ
     translation: (is) a dwelling place
     transliteration: mus'taqarrun
   17:
-    arabic: وَّمَتَاعٌ
+    arabic: وَمَتَٰعٌ
     translation: and a provision
     transliteration: wamatāʿun
   18:
-    arabic: اِلٰى
+    arabic: إِلَىٰ
     translation: for
     transliteration: ilā
   19:
-    arabic: حِيۡنٍ‏
+    arabic: حِينٖ
     translation: a period
     transliteration: ḥīnin
 ---

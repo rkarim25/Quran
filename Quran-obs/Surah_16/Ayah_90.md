@@ -1,45 +1,45 @@
 ---
-arabic_ayat: اِنَّ اللّٰهَ يَاۡمُرُ بِالۡعَدۡلِ وَالۡاِحۡسَانِ وَاِيۡتَآىِٕ ذِى الۡقُرۡبٰى
-  وَيَنۡهٰى عَنِ الۡفَحۡشَآءِ وَالۡمُنۡكَرِ وَالۡبَغۡىِ​ۚ يَعِظُكُمۡ لَعَلَّكُمۡ
-  تَذَكَّرُوۡنَ‏
+arabic_ayat: ۞ إِنَّ ٱللَّهَ يَأۡمُرُ بِٱلۡعَدۡلِ وَٱلۡإِحۡسَٰنِ وَإِيتَآيِٕ ذِي
+  ٱلۡقُرۡبَىٰ وَيَنۡهَىٰ عَنِ ٱلۡفَحۡشَآءِ وَٱلۡمُنكَرِ وَٱلۡبَغۡيِۚ يَعِظُكُمۡ لَعَلَّكُمۡ
+  تَذَكَّرُونَ
 sentence_translation: Indeed, Allah commands justice, grace, as well as courtesy to
   close relatives. He forbids indecency, wickedness, and aggression. He instructs
   you so perhaps you will be mindful.
 word_by_word:
   1:
-    arabic: ۞ اِنَّ
+    arabic: ۞ إِنَّ
     translation: Indeed
     transliteration: inna
   2:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   3:
-    arabic: يَاۡمُرُ
+    arabic: يَأۡمُرُ
     translation: commands
     transliteration: yamuru
   4:
-    arabic: بِالۡعَدۡلِ
+    arabic: بِٱلۡعَدۡلِ
     translation: justice
     transliteration: bil-ʿadli
   5:
-    arabic: وَالۡاِحۡسَانِ
+    arabic: وَٱلۡإِحۡسَٰنِ
     translation: and the good
     transliteration: wal-iḥ'sāni
   6:
-    arabic: وَاِيۡتَآىِٕ
+    arabic: وَإِيتَآيِٕ
     translation: and giving
     transliteration: waītāi
   7:
-    arabic: ذِى
+    arabic: ذِي
     translation: (to) relatives
     transliteration: dhī
   8:
-    arabic: الۡقُرۡبٰى
+    arabic: ٱلۡقُرۡبَىٰ
     translation: (to) relatives
     transliteration: l-qur'bā
   9:
-    arabic: وَيَنۡهٰى
+    arabic: وَيَنۡهَىٰ
     translation: and forbids
     transliteration: wayanhā
   10:
@@ -47,15 +47,15 @@ word_by_word:
     translation: '[from]'
     transliteration: ʿani
   11:
-    arabic: الۡفَحۡشَآءِ
+    arabic: ٱلۡفَحۡشَآءِ
     translation: the immorality
     transliteration: l-faḥshāi
   12:
-    arabic: وَالۡمُنۡكَرِ
+    arabic: وَٱلۡمُنكَرِ
     translation: and the bad
     transliteration: wal-munkari
   13:
-    arabic: وَالۡبَغۡىِ​ۚ
+    arabic: وَٱلۡبَغۡيِۚ
     translation: and the oppression
     transliteration: wal-baghyi
   14:
@@ -67,7 +67,7 @@ word_by_word:
     translation: so that you may
     transliteration: laʿallakum
   16:
-    arabic: تَذَكَّرُوۡنَ‏
+    arabic: تَذَكَّرُونَ
     translation: take heed
     transliteration: tadhakkarūna
 ---

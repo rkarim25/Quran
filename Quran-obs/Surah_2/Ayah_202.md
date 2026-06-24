@@ -1,11 +1,10 @@
 ---
-arabic_ayat: "اُولٰٓٮِٕكَ لَهُمۡ نَصِيۡبٌ مِّمَّا كَسَبُوۡا ​ؕ وَاللّٰهُ سَرِيۡعُ\
-  \ الۡحِسَابِ‏ \uFEFF\uFEFF"
+arabic_ayat: أُوْلَٰٓئِكَ لَهُمۡ نَصِيبٞ مِّمَّا كَسَبُواْۚ وَٱللَّهُ سَرِيعُ ٱلۡحِسَابِ
 sentence_translation: It is they who will receive a ˹heavenly˺ reward for the good
   they have done. Surely Allah is swift in reckoning. 
 word_by_word:
   1:
-    arabic: اُولٰٓٮِٕكَ
+    arabic: أُوْلَٰٓئِكَ
     translation: 'Those '
     transliteration: ulāika
   2:
@@ -13,7 +12,7 @@ word_by_word:
     translation: for them
     transliteration: lahum
   3:
-    arabic: نَصِيۡبٌ
+    arabic: نَصِيبٞ
     translation: (is) a share
     transliteration: naṣībun
   4:
@@ -21,19 +20,19 @@ word_by_word:
     translation: of what
     transliteration: mimmā
   5:
-    arabic: كَسَبُوۡا ​ؕ
+    arabic: كَسَبُواْۚ
     translation: they earned
     transliteration: kasabū
   6:
-    arabic: وَاللّٰهُ
+    arabic: وَٱللَّهُ
     translation: and Allah
     transliteration: wal-lahu
   7:
-    arabic: سَرِيۡعُ
+    arabic: سَرِيعُ
     translation: (is) swift
     transliteration: sarīʿu
   8:
-    arabic: "الۡحِسَابِ‏ \uFEFF\uFEFF"
+    arabic: ٱلۡحِسَابِ
     translation: (in taking) account
     transliteration: l-ḥisābi
 ---

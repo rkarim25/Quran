@@ -1,13 +1,13 @@
 ---
-arabic_ayat: اِنَّا عَرَضۡنَا الۡاَمَانَةَ عَلَى السَّمٰوٰتِ وَالۡاَرۡضِ وَالۡجِبَالِ
-  فَاَبَيۡنَ اَنۡ يَّحۡمِلۡنَهَا وَاَشۡفَقۡنَ مِنۡهَا وَ حَمَلَهَا الۡاِنۡسَانُؕ اِنَّهٗ
-  كَانَ ظَلُوۡمًا جَهُوۡلًا ۙ‏
+arabic_ayat: إِنَّا عَرَضۡنَا ٱلۡأَمَانَةَ عَلَى ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِ وَٱلۡجِبَالِ
+  فَأَبَيۡنَ أَن يَحۡمِلۡنَهَا وَأَشۡفَقۡنَ مِنۡهَا وَحَمَلَهَا ٱلۡإِنسَٰنُۖ إِنَّهُۥ
+  كَانَ ظَلُومٗا جَهُولٗا
 sentence_translation: Indeed, We offered the trust to the heavens and the earth and
   the mountains, but they ˹all˺ declined to bear it, being fearful of it. But humanity
   assumed it, ˹for˺ they are truly wrongful ˹to themselves˺ and ignorant ˹of the consequences˺,
 word_by_word:
   1:
-    arabic: اِنَّا
+    arabic: إِنَّا
     translation: Indeed, We
     transliteration: innā
   2:
@@ -15,7 +15,7 @@ word_by_word:
     translation: '[We] offered'
     transliteration: ʿaraḍnā
   3:
-    arabic: الۡاَمَانَةَ
+    arabic: ٱلۡأَمَانَةَ
     translation: the Trust
     transliteration: l-amānata
   4:
@@ -23,31 +23,31 @@ word_by_word:
     translation: to
     transliteration: ʿalā
   5:
-    arabic: السَّمٰوٰتِ
+    arabic: ٱلسَّمَٰوَٰتِ
     translation: the heavens
     transliteration: l-samāwāti
   6:
-    arabic: وَالۡاَرۡضِ
+    arabic: وَٱلۡأَرۡضِ
     translation: and the earth
     transliteration: wal-arḍi
   7:
-    arabic: وَالۡجِبَالِ
+    arabic: وَٱلۡجِبَالِ
     translation: and the mountains
     transliteration: wal-jibāli
   8:
-    arabic: فَاَبَيۡنَ
+    arabic: فَأَبَيۡنَ
     translation: but they refused
     transliteration: fa-abayna
   9:
-    arabic: اَنۡ
+    arabic: أَن
     translation: to
     transliteration: an
   10:
-    arabic: يَّحۡمِلۡنَهَا
+    arabic: يَحۡمِلۡنَهَا
     translation: bear it
     transliteration: yaḥmil'nahā
   11:
-    arabic: وَاَشۡفَقۡنَ
+    arabic: وَأَشۡفَقۡنَ
     translation: and they feared
     transliteration: wa-ashfaqna
   12:
@@ -55,15 +55,15 @@ word_by_word:
     translation: from it
     transliteration: min'hā
   13:
-    arabic: وَ حَمَلَهَا
+    arabic: وَحَمَلَهَا
     translation: but bore it
     transliteration: waḥamalahā
   14:
-    arabic: الۡاِنۡسَانُؕ
+    arabic: ٱلۡإِنسَٰنُۖ
     translation: the man
     transliteration: l-insānu
   15:
-    arabic: اِنَّهٗ
+    arabic: إِنَّهُۥ
     translation: Indeed, he
     transliteration: innahu
   16:
@@ -71,11 +71,11 @@ word_by_word:
     translation: was
     transliteration: kāna
   17:
-    arabic: ظَلُوۡمًا
+    arabic: ظَلُومٗا
     translation: unjust
     transliteration: ẓalūman
   18:
-    arabic: جَهُوۡلًا ۙ‏
+    arabic: جَهُولٗا
     translation: ignorant
     transliteration: jahūlan
 ---

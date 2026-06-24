@@ -1,17 +1,17 @@
 ---
-arabic_ayat: وَقَالَ الَّذِيۡنَ لَا يَرۡجُوۡنَ لِقَآءَنَا لَوۡلَاۤ اُنۡزِلَ عَلَيۡنَا
-  الۡمَلٰٓٮِٕكَةُ اَوۡ نَرٰى رَبَّنَا ؕ لَـقَدِ اسۡتَكۡبَرُوۡا فِىۡۤ اَنۡفُسِهِمۡ
-  وَعَتَوۡ عُتُوًّا كَبِيۡرًا‏
+arabic_ayat: ۞ وَقَالَ ٱلَّذِينَ لَا يَرۡجُونَ لِقَآءَنَا لَوۡلَآ أُنزِلَ عَلَيۡنَا
+  ٱلۡمَلَٰٓئِكَةُ أَوۡ نَرَىٰ رَبَّنَاۗ لَقَدِ ٱسۡتَكۡبَرُواْ فِيٓ أَنفُسِهِمۡ وَعَتَوۡ
+  عُتُوّٗا كَبِيرٗا
 sentence_translation: Those who do not expect to meet Us say, “If only the angels
   were sent down to us, or we could see our Lord!” They have certainly been carried
   away by their arrogance and have entirely exceeded all limits.
 word_by_word:
   1:
-    arabic: ۞ وَقَالَ
+    arabic: ۞ وَقَالَ
     translation: And said
     transliteration: waqāla
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   3:
@@ -19,7 +19,7 @@ word_by_word:
     translation: (do) not
     transliteration: lā
   4:
-    arabic: يَرۡجُوۡنَ
+    arabic: يَرۡجُونَ
     translation: expect
     transliteration: yarjūna
   5:
@@ -27,11 +27,11 @@ word_by_word:
     translation: (the) meeting with Us
     transliteration: liqāanā
   6:
-    arabic: لَوۡلَاۤ
+    arabic: لَوۡلَآ
     translation: Why not
     transliteration: lawlā
   7:
-    arabic: اُنۡزِلَ
+    arabic: أُنزِلَ
     translation: are sent down
     transliteration: unzila
   8:
@@ -39,35 +39,35 @@ word_by_word:
     translation: to us
     transliteration: ʿalaynā
   9:
-    arabic: الۡمَلٰٓٮِٕكَةُ
+    arabic: ٱلۡمَلَٰٓئِكَةُ
     translation: the Angels
     transliteration: l-malāikatu
   10:
-    arabic: اَوۡ
+    arabic: أَوۡ
     translation: or
     transliteration: aw
   11:
-    arabic: نَرٰى
+    arabic: نَرَىٰ
     translation: we see
     transliteration: narā
   12:
-    arabic: رَبَّنَا ؕ
+    arabic: رَبَّنَاۗ
     translation: our Lord
     transliteration: rabbanā
   13:
-    arabic: لَـقَدِ
+    arabic: لَقَدِ
     translation: Indeed
     transliteration: laqadi
   14:
-    arabic: اسۡتَكۡبَرُوۡا
+    arabic: ٱسۡتَكۡبَرُواْ
     translation: they have become arrogant
     transliteration: is'takbarū
   15:
-    arabic: فِىۡۤ
+    arabic: فِيٓ
     translation: within
     transliteration: fī
   16:
-    arabic: اَنۡفُسِهِمۡ
+    arabic: أَنفُسِهِمۡ
     translation: themselves
     transliteration: anfusihim
   17:
@@ -75,11 +75,11 @@ word_by_word:
     translation: and (become) insolent
     transliteration: waʿataw
   18:
-    arabic: عُتُوًّا
+    arabic: عُتُوّٗا
     translation: (with) insolence
     transliteration: ʿutuwwan
   19:
-    arabic: كَبِيۡرًا‏
+    arabic: كَبِيرٗا
     translation: great
     transliteration: kabīran
 ---

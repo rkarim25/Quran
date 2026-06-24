@@ -1,7 +1,7 @@
 ---
-arabic_ayat: وَهُوَ الَّذِىۡ سَخَّرَ الۡبَحۡرَ لِتَاۡكُلُوۡا مِنۡهُ لَحۡمًا طَرِيًّا
-  وَّتَسۡتَخۡرِجُوۡا مِنۡهُ حِلۡيَةً تَلۡبَسُوۡنَهَا​ۚ وَتَرَى الۡـفُلۡكَ مَوَاخِرَ
-  فِيۡهِ وَلِتَبۡتَغُوۡا مِنۡ فَضۡلِهٖ وَلَعَلَّكُمۡ تَشۡكُرُوۡنَ‏
+arabic_ayat: وَهُوَ ٱلَّذِي سَخَّرَ ٱلۡبَحۡرَ لِتَأۡكُلُواْ مِنۡهُ لَحۡمٗا طَرِيّٗا
+  وَتَسۡتَخۡرِجُواْ مِنۡهُ حِلۡيَةٗ تَلۡبَسُونَهَاۖ وَتَرَى ٱلۡفُلۡكَ مَوَاخِرَ فِيهِ
+  وَلِتَبۡتَغُواْ مِن فَضۡلِهِۦ وَلَعَلَّكُمۡ تَشۡكُرُونَ
 sentence_translation: And He is the One Who has subjected the sea, so from it you
   may eat tender seafood and extract ornaments to wear. And you see the ships ploughing
   their way through it, so you may seek His bounty and give thanks ˹to Him˺.
@@ -11,7 +11,7 @@ word_by_word:
     translation: And He
     transliteration: wahuwa
   2:
-    arabic: الَّذِىۡ
+    arabic: ٱلَّذِي
     translation: (is) the One Who
     transliteration: alladhī
   3:
@@ -19,11 +19,11 @@ word_by_word:
     translation: subjected
     transliteration: sakhara
   4:
-    arabic: الۡبَحۡرَ
+    arabic: ٱلۡبَحۡرَ
     translation: the sea
     transliteration: l-baḥra
   5:
-    arabic: لِتَاۡكُلُوۡا
+    arabic: لِتَأۡكُلُواْ
     translation: for you to eat
     transliteration: litakulū
   6:
@@ -31,15 +31,15 @@ word_by_word:
     translation: from it
     transliteration: min'hu
   7:
-    arabic: لَحۡمًا
+    arabic: لَحۡمٗا
     translation: meat
     transliteration: laḥman
   8:
-    arabic: طَرِيًّا
+    arabic: طَرِيّٗا
     translation: fresh
     transliteration: ṭariyyan
   9:
-    arabic: وَّتَسۡتَخۡرِجُوۡا
+    arabic: وَتَسۡتَخۡرِجُواْ
     translation: and that you bring forth
     transliteration: watastakhrijū
   10:
@@ -47,11 +47,11 @@ word_by_word:
     translation: from it
     transliteration: min'hu
   11:
-    arabic: حِلۡيَةً
+    arabic: حِلۡيَةٗ
     translation: ornaments
     transliteration: ḥil'yatan
   12:
-    arabic: تَلۡبَسُوۡنَهَا​ۚ
+    arabic: تَلۡبَسُونَهَاۖ
     translation: (that) you wear them
     transliteration: talbasūnahā
   13:
@@ -59,7 +59,7 @@ word_by_word:
     translation: And you see
     transliteration: watarā
   14:
-    arabic: الۡـفُلۡكَ
+    arabic: ٱلۡفُلۡكَ
     translation: the ships
     transliteration: l-ful'ka
   15:
@@ -67,19 +67,19 @@ word_by_word:
     translation: ploughing
     transliteration: mawākhira
   16:
-    arabic: فِيۡهِ
+    arabic: فِيهِ
     translation: through it
     transliteration: fīhi
   17:
-    arabic: وَلِتَبۡتَغُوۡا
+    arabic: وَلِتَبۡتَغُواْ
     translation: and that you may seek
     transliteration: walitabtaghū
   18:
-    arabic: مِنۡ
+    arabic: مِن
     translation: of
     transliteration: min
   19:
-    arabic: فَضۡلِهٖ
+    arabic: فَضۡلِهِۦ
     translation: His Bounty
     transliteration: faḍlihi
   20:
@@ -87,7 +87,7 @@ word_by_word:
     translation: and that you may
     transliteration: walaʿallakum
   21:
-    arabic: تَشۡكُرُوۡنَ‏
+    arabic: تَشۡكُرُونَ
     translation: (be) grateful
     transliteration: tashkurūna
 ---

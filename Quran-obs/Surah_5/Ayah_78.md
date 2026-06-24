@@ -1,6 +1,6 @@
 ---
-arabic_ayat: لُعِنَ الَّذِيۡنَ كَفَرُوۡا مِنۡۢ بَنِىۡۤ اِسۡرَآءِيۡلَ عَلٰى لِسَانِ
-  دَاوٗدَ وَعِيۡسَى ابۡنِ مَرۡيَمَ​ ؕ ذٰ لِكَ بِمَا عَصَوْا وَّكَانُوۡا يَعۡتَدُوۡنَ‏
+arabic_ayat: لُعِنَ ٱلَّذِينَ كَفَرُواْ مِنۢ بَنِيٓ إِسۡرَٰٓءِيلَ عَلَىٰ لِسَانِ دَاوُۥدَ
+  وَعِيسَى ٱبۡنِ مَرۡيَمَۚ ذَٰلِكَ بِمَا عَصَواْ وَّكَانُواْ يَعۡتَدُونَ
 sentence_translation: The disbelievers among the Children of Israel were condemned
   in the revelations of David and Jesus, son of Mary. That was for their disobedience
   and violations.
@@ -10,27 +10,27 @@ word_by_word:
     translation: Were cursed
     transliteration: luʿina
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   3:
-    arabic: كَفَرُوۡا
+    arabic: كَفَرُواْ
     translation: disbelieved
     transliteration: kafarū
   4:
-    arabic: مِنۡۢ
+    arabic: مِنۢ
     translation: from
     transliteration: min
   5:
-    arabic: بَنِىۡۤ
+    arabic: بَنِيٓ
     translation: (the) Children
     transliteration: banī
   6:
-    arabic: اِسۡرَآءِيۡلَ
+    arabic: إِسۡرَٰٓءِيلَ
     translation: (of) Israel
     transliteration: is'rāīla
   7:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: by
     transliteration: ʿalā
   8:
@@ -38,23 +38,23 @@ word_by_word:
     translation: (the) tongue
     transliteration: lisāni
   9:
-    arabic: دَاوٗدَ
+    arabic: دَاوُۥدَ
     translation: (of) Dawood
     transliteration: dāwūda
   10:
-    arabic: وَعِيۡسَى
+    arabic: وَعِيسَى
     translation: and Isa
     transliteration: waʿīsā
   11:
-    arabic: ابۡنِ
+    arabic: ٱبۡنِ
     translation: son
     transliteration: ib'ni
   12:
-    arabic: مَرۡيَمَ​ ؕ
+    arabic: مَرۡيَمَۚ
     translation: (of) Maryam
     transliteration: maryama
   13:
-    arabic: ذٰ لِكَ
+    arabic: ذَٰلِكَ
     translation: that (was)
     transliteration: dhālika
   14:
@@ -62,15 +62,15 @@ word_by_word:
     translation: because
     transliteration: bimā
   15:
-    arabic: عَصَوْا
+    arabic: عَصَواْ
     translation: they disobeyed
     transliteration: ʿaṣaw
   16:
-    arabic: وَّكَانُوۡا
+    arabic: وَّكَانُواْ
     translation: and they were
     transliteration: wakānū
   17:
-    arabic: يَعۡتَدُوۡنَ‏
+    arabic: يَعۡتَدُونَ
     translation: transgressing
     transliteration: yaʿtadūna
 ---

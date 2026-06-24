@@ -1,6 +1,6 @@
 ---
-arabic_ayat: "وَلَمَنِ انْتَصَرَ بَعۡدَ ظُلۡمِهٖ فَاُولٰٓٮِٕكَ مَا عَلَيۡهِمۡ مِّنۡ\
-  \ سَبِيۡلٍؕ‏ \uFEFF\uFEFF"
+arabic_ayat: وَلَمَنِ ٱنتَصَرَ بَعۡدَ ظُلۡمِهِۦ فَأُوْلَٰٓئِكَ مَا عَلَيۡهِم مِّن
+  سَبِيلٍ
 sentence_translation: There is no blame on those who enforce justice after being wronged.
 word_by_word:
   1:
@@ -8,7 +8,7 @@ word_by_word:
     translation: And surely whosoever
     transliteration: walamani
   2:
-    arabic: انْتَصَرَ
+    arabic: ٱنتَصَرَ
     translation: defends himself
     transliteration: intaṣara
   3:
@@ -16,11 +16,11 @@ word_by_word:
     translation: after
     transliteration: baʿda
   4:
-    arabic: ظُلۡمِهٖ
+    arabic: ظُلۡمِهِۦ
     translation: he has been wronged
     transliteration: ẓul'mihi
   5:
-    arabic: فَاُولٰٓٮِٕكَ
+    arabic: فَأُوْلَٰٓئِكَ
     translation: then those
     transliteration: fa-ulāika
   6:
@@ -28,15 +28,15 @@ word_by_word:
     translation: not
     transliteration: mā
   7:
-    arabic: عَلَيۡهِمۡ
+    arabic: عَلَيۡهِم
     translation: (is) against them
     transliteration: ʿalayhim
   8:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: any
     transliteration: min
   9:
-    arabic: "سَبِيۡلٍؕ‏ \uFEFF\uFEFF"
+    arabic: سَبِيلٍ
     translation: way
     transliteration: sabīlin
 ---

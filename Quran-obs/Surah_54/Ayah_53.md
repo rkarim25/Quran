@@ -1,21 +1,21 @@
 ---
-arabic_ayat: وَ كُلُّ صَغِيۡرٍ وَّكَبِيۡرٍ مُّسۡتَطَرٌ‏
+arabic_ayat: وَكُلُّ صَغِيرٖ وَكَبِيرٖ مُّسۡتَطَرٌ
 sentence_translation: Every matter, small and large, is written ˹precisely˺.
 word_by_word:
   1:
-    arabic: وَ كُلُّ
+    arabic: وَكُلُّ
     translation: And every
     transliteration: wakullu
   2:
-    arabic: صَغِيۡرٍ
+    arabic: صَغِيرٖ
     translation: small
     transliteration: ṣaghīrin
   3:
-    arabic: وَّكَبِيۡرٍ
+    arabic: وَكَبِيرٖ
     translation: and big
     transliteration: wakabīrin
   4:
-    arabic: مُّسۡتَطَرٌ‏
+    arabic: مُّسۡتَطَرٌ
     translation: (is) written down
     transliteration: mus'taṭarun
 ---

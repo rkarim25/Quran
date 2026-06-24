@@ -1,16 +1,16 @@
 ---
-arabic_ayat: وَلَوۡلَاۤ اِذۡ دَخَلۡتَ جَنَّتَكَ قُلۡتَ مَا شَآءَ اللّٰهُ ۙ لَا قُوَّةَ
-  اِلَّا بِاللّٰهِ​ ۚ اِنۡ تَرَنِ اَنَا اَقَلَّ مِنۡكَ مَالًا وَّوَلَدًا​ ۚ‏
+arabic_ayat: وَلَوۡلَآ إِذۡ دَخَلۡتَ جَنَّتَكَ قُلۡتَ مَا شَآءَ ٱللَّهُ لَا قُوَّةَ
+  إِلَّا بِٱللَّهِۚ إِن تَرَنِ أَنَا۠ أَقَلَّ مِنكَ مَالٗا وَوَلَدٗا
 sentence_translation: If only you had said, upon entering your property, ‘This is
   what Allah has willed! There is no power except with Allah!’ Even though you see
   me inferior to you in wealth and offspring,
 word_by_word:
   1:
-    arabic: وَلَوۡلَاۤ
+    arabic: وَلَوۡلَآ
     translation: And why (did you) not
     transliteration: walawlā
   2:
-    arabic: اِذۡ
+    arabic: إِذۡ
     translation: when
     transliteration: idh
   3:
@@ -34,7 +34,7 @@ word_by_word:
     translation: wills
     transliteration: shāa
   8:
-    arabic: اللّٰهُ ۙ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   9:
@@ -46,15 +46,15 @@ word_by_word:
     translation: power
     transliteration: quwwata
   11:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   12:
-    arabic: بِاللّٰهِ​ ۚ
+    arabic: بِٱللَّهِۚ
     translation: with Allah
     transliteration: bil-lahi
   13:
-    arabic: اِنۡ
+    arabic: إِن
     translation: If
     transliteration: in
   14:
@@ -62,23 +62,23 @@ word_by_word:
     translation: you see me
     transliteration: tarani
   15:
-    arabic: اَنَا
+    arabic: أَنَا۠
     translation: (me)
     transliteration: anā
   16:
-    arabic: اَقَلَّ
+    arabic: أَقَلَّ
     translation: lesser
     transliteration: aqalla
   17:
-    arabic: مِنۡكَ
+    arabic: مِنكَ
     translation: than you
     transliteration: minka
   18:
-    arabic: مَالًا
+    arabic: مَالٗا
     translation: (in) wealth
     transliteration: mālan
   19:
-    arabic: وَّوَلَدًا​ ۚ‏
+    arabic: وَوَلَدٗا
     translation: and children
     transliteration: wawaladan
 ---

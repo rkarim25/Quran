@@ -1,19 +1,19 @@
 ---
-arabic_ayat: حَتّٰٓى اِذَا رَاَوۡا مَا يُوۡعَدُوۡنَ فَسَيَعۡلَمُوۡنَ مَنۡ اَضۡعَفُ
-  نَاصِرًا وَّاَقَلُّ عَدَدًا‏
+arabic_ayat: حَتَّىٰٓ إِذَا رَأَوۡاْ مَا يُوعَدُونَ فَسَيَعۡلَمُونَ مَنۡ أَضۡعَفُ
+  نَاصِرٗا وَأَقَلُّ عَدَدٗا
 sentence_translation: Only when they see what they have been threatened with will
   they know who is weaker in helpers and inferior in manpower.
 word_by_word:
   1:
-    arabic: حَتّٰٓى
+    arabic: حَتَّىٰٓ
     translation: Until
     transliteration: ḥattā
   2:
-    arabic: اِذَا
+    arabic: إِذَا
     translation: when
     transliteration: idhā
   3:
-    arabic: رَاَوۡا
+    arabic: رَأَوۡاْ
     translation: they see
     transliteration: ra-aw
   4:
@@ -21,11 +21,11 @@ word_by_word:
     translation: what
     transliteration: mā
   5:
-    arabic: يُوۡعَدُوۡنَ
+    arabic: يُوعَدُونَ
     translation: they are promised
     transliteration: yūʿadūna
   6:
-    arabic: فَسَيَعۡلَمُوۡنَ
+    arabic: فَسَيَعۡلَمُونَ
     translation: then they will know
     transliteration: fasayaʿlamūna
   7:
@@ -33,19 +33,19 @@ word_by_word:
     translation: who
     transliteration: man
   8:
-    arabic: اَضۡعَفُ
+    arabic: أَضۡعَفُ
     translation: (is) weaker
     transliteration: aḍʿafu
   9:
-    arabic: نَاصِرًا
+    arabic: نَاصِرٗا
     translation: (in) helpers
     transliteration: nāṣiran
   10:
-    arabic: وَّاَقَلُّ
+    arabic: وَأَقَلُّ
     translation: and fewer
     transliteration: wa-aqallu
   11:
-    arabic: عَدَدًا‏
+    arabic: عَدَدٗا
     translation: (in) number
     transliteration: ʿadadan
 ---

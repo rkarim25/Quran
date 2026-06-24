@@ -1,25 +1,24 @@
 ---
-arabic_ayat: "جَنّٰتُ عَدۡنٍ يَّدۡخُلُوۡنَهَا وَمَنۡ صَلَحَ مِنۡ اٰبَآٮِٕهِمۡ وَاَزۡوَاجِهِمۡ\
-  \ وَذُرِّيّٰتِهِمۡ​ وَالۡمَلٰٓٮِٕكَةُ يَدۡخُلُوۡنَ عَلَيۡهِمۡ مِّنۡ كُلِّ بَابٍ​ۚ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: جَنَّٰتُ عَدۡنٖ يَدۡخُلُونَهَا وَمَن صَلَحَ مِنۡ ءَابَآئِهِمۡ وَأَزۡوَٰجِهِمۡ
+  وَذُرِّيَّٰتِهِمۡۖ وَٱلۡمَلَٰٓئِكَةُ يَدۡخُلُونَ عَلَيۡهِم مِّن كُلِّ بَابٖ
 sentence_translation: the Gardens of Eternity, which they will enter along with the
   righteous among their parents, spouses, and descendants. And the angels will enter
   upon them from every gate, ˹saying,˺
 word_by_word:
   1:
-    arabic: جَنّٰتُ
+    arabic: جَنَّٰتُ
     translation: Gardens
     transliteration: jannātu
   2:
-    arabic: عَدۡنٍ
+    arabic: عَدۡنٖ
     translation: of Eden
     transliteration: ʿadnin
   3:
-    arabic: يَّدۡخُلُوۡنَهَا
+    arabic: يَدۡخُلُونَهَا
     translation: they will enter them
     transliteration: yadkhulūnahā
   4:
-    arabic: وَمَنۡ
+    arabic: وَمَن
     translation: and whoever
     transliteration: waman
   5:
@@ -27,35 +26,35 @@ word_by_word:
     translation: (were) righteous
     transliteration: ṣalaḥa
   6:
-    arabic: مِنۡ
+    arabic: مِنۡ ءَ
     translation: among
     transliteration: min
   7:
-    arabic: اٰبَآٮِٕهِمۡ
+    arabic: ابَآئِهِمۡ
     translation: their fathers
     transliteration: ābāihim
   8:
-    arabic: وَاَزۡوَاجِهِمۡ
+    arabic: وَأَزۡوَٰجِهِمۡ
     translation: and their spouses
     transliteration: wa-azwājihim
   9:
-    arabic: وَذُرِّيّٰتِهِمۡ​
+    arabic: وَذُرِّيَّٰتِهِمۡۖ
     translation: and their offsprings
     transliteration: wadhurriyyātihim
   10:
-    arabic: وَالۡمَلٰٓٮِٕكَةُ
+    arabic: وَٱلۡمَلَٰٓئِكَةُ
     translation: And the Angels
     transliteration: wal-malāikatu
   11:
-    arabic: يَدۡخُلُوۡنَ
+    arabic: يَدۡخُلُونَ
     translation: will enter
     transliteration: yadkhulūna
   12:
-    arabic: عَلَيۡهِمۡ
+    arabic: عَلَيۡهِم
     translation: upon them
     transliteration: ʿalayhim
   13:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: from
     transliteration: min
   14:
@@ -63,7 +62,7 @@ word_by_word:
     translation: every
     transliteration: kulli
   15:
-    arabic: "بَابٍ​ۚ‏ \uFEFF\uFEFF"
+    arabic: بَابٖ
     translation: gate
     transliteration: bābin
 ---

@@ -1,22 +1,22 @@
 ---
-arabic_ayat: وَامۡتَازُوا الۡيَوۡمَ اَيُّهَا الۡمُجۡرِمُوۡنَ‏
+arabic_ayat: وَٱمۡتَٰزُواْ ٱلۡيَوۡمَ أَيُّهَا ٱلۡمُجۡرِمُونَ
 sentence_translation: ˹Then the disbelievers will be told,˺ “Step away ˹from the believers˺
   this Day, O  wicked ones!
 word_by_word:
   1:
-    arabic: وَامۡتَازُوا
+    arabic: وَٱمۡتَٰزُواْ
     translation: But stand apart
     transliteration: wa-im'tāzū
   2:
-    arabic: الۡيَوۡمَ
+    arabic: ٱلۡيَوۡمَ
     translation: today
     transliteration: l-yawma
   3:
-    arabic: اَيُّهَا
+    arabic: أَيُّهَا
     translation: O criminals
     transliteration: ayyuhā
   4:
-    arabic: الۡمُجۡرِمُوۡنَ‏
+    arabic: ٱلۡمُجۡرِمُونَ
     translation: O criminals
     transliteration: l-muj'rimūna
 ---

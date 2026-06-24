@@ -1,38 +1,38 @@
 ---
-arabic_ayat: فَمَا لَـكُمۡ فِىۡ الۡمُنٰفِقِيۡنَ فِئَـتَيۡنِ وَاللّٰهُ اَرۡكَسَهُمۡ
-  بِمَا كَسَبُوۡا​ؕ اَ تُرِيۡدُوۡنَ اَنۡ تَهۡدُوۡا مَنۡ اَضَلَّ اللّٰهُ​ ؕ وَمَنۡ
-  يُّضۡلِلِ اللّٰهُ فَلَنۡ تَجِدَ لَهٗ سَبِيۡلًا‏
+arabic_ayat: ۞ فَمَا لَكُمۡ فِي ٱلۡمُنَٰفِقِينَ فِئَتَيۡنِ وَٱللَّهُ أَرۡكَسَهُم بِمَا
+  كَسَبُوٓاْۚ أَتُرِيدُونَ أَن تَهۡدُواْ مَنۡ أَضَلَّ ٱللَّهُۖ وَمَن يُضۡلِلِ ٱللَّهُ
+  فَلَن تَجِدَ لَهُۥ سَبِيلٗا
 sentence_translation: Why are you ˹believers˺ divided into two groups regarding the
   hypocrites while Allah allowed them to regress ˹to disbelief˺ because of their misdeeds?
   Do you wish to guide those left by Allah to stray? And whoever Allah leaves to stray,
   you will never find for them a way.
 word_by_word:
   1:
-    arabic: ۞ فَمَا
+    arabic: ۞ فَمَا
     translation: So what
     transliteration: famā
   2:
-    arabic: لَـكُمۡ
+    arabic: لَكُمۡ
     translation: (is the matter) with you
     transliteration: lakum
   3:
-    arabic: فِىۡ
+    arabic: فِي
     translation: concerning
     transliteration: fī
   4:
-    arabic: الۡمُنٰفِقِيۡنَ
+    arabic: ٱلۡمُنَٰفِقِينَ
     translation: the hypocrites (that)
     transliteration: l-munāfiqīna
   5:
-    arabic: فِئَـتَيۡنِ
+    arabic: فِئَتَيۡنِ
     translation: (you have become) two parties
     transliteration: fi-atayni
   6:
-    arabic: وَاللّٰهُ
+    arabic: وَٱللَّهُ
     translation: While Allah
     transliteration: wal-lahu
   7:
-    arabic: اَرۡكَسَهُمۡ
+    arabic: أَرۡكَسَهُم
     translation: cast them back
     transliteration: arkasahum
   8:
@@ -40,19 +40,19 @@ word_by_word:
     translation: for what
     transliteration: bimā
   9:
-    arabic: كَسَبُوۡا​ؕ
+    arabic: كَسَبُوٓاْۚ
     translation: they earned
     transliteration: kasabū
   10:
-    arabic: اَ تُرِيۡدُوۡنَ
+    arabic: أَتُرِيدُونَ
     translation: Do you wish
     transliteration: aturīdūna
   11:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that
     transliteration: an
   12:
-    arabic: تَهۡدُوۡا
+    arabic: تَهۡدُواْ
     translation: you guide
     transliteration: tahdū
   13:
@@ -60,27 +60,27 @@ word_by_word:
     translation: whom
     transliteration: man
   14:
-    arabic: اَضَلَّ
+    arabic: أَضَلَّ
     translation: is let astray
     transliteration: aḍalla
   15:
-    arabic: اللّٰهُ​ ؕ
+    arabic: ٱللَّهُۖ
     translation: (by) Allah
     transliteration: l-lahu
   16:
-    arabic: وَمَنۡ
+    arabic: وَمَن
     translation: And whoever
     transliteration: waman
   17:
-    arabic: يُّضۡلِلِ
+    arabic: يُضۡلِلِ
     translation: is let astray
     transliteration: yuḍ'lili
   18:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: (by) Allah
     transliteration: l-lahu
   19:
-    arabic: فَلَنۡ
+    arabic: فَلَن
     translation: then never
     transliteration: falan
   20:
@@ -88,11 +88,11 @@ word_by_word:
     translation: will you find
     transliteration: tajida
   21:
-    arabic: لَهٗ
+    arabic: لَهُۥ
     translation: for him
     transliteration: lahu
   22:
-    arabic: سَبِيۡلًا‏
+    arabic: سَبِيلٗا
     translation: a way
     transliteration: sabīlan
 ---

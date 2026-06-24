@@ -1,20 +1,20 @@
 ---
-arabic_ayat: وَاِذۡ اَخَذۡنَا مِيۡثَاقَكُمۡ لَا تَسۡفِكُوۡنَ دِمَآءَكُمۡ وَلَا تُخۡرِجُوۡنَ
-  اَنۡفُسَكُمۡ مِّنۡ دِيَارِكُمۡ ثُمَّ اَقۡرَرۡتُمۡ وَاَنۡـتُمۡ تَشۡهَدُوۡنَ‏
+arabic_ayat: وَإِذۡ أَخَذۡنَا مِيثَٰقَكُمۡ لَا تَسۡفِكُونَ دِمَآءَكُمۡ وَلَا تُخۡرِجُونَ
+  أَنفُسَكُم مِّن دِيَٰرِكُمۡ ثُمَّ أَقۡرَرۡتُمۡ وَأَنتُمۡ تَشۡهَدُونَ
 sentence_translation: And ˹remember˺ when We took your covenant that you would neither
   shed each other’s blood nor expel each other from their homes, you gave your pledge
   and bore witness.
 word_by_word:
   1:
-    arabic: وَاِذۡ
+    arabic: وَإِذۡ
     translation: And when
     transliteration: wa-idh
   2:
-    arabic: اَخَذۡنَا
+    arabic: أَخَذۡنَا
     translation: We took
     transliteration: akhadhnā
   3:
-    arabic: مِيۡثَاقَكُمۡ
+    arabic: مِيثَٰقَكُمۡ
     translation: your covenant
     transliteration: mīthāqakum
   4:
@@ -22,7 +22,7 @@ word_by_word:
     translation: Not
     transliteration: lā
   5:
-    arabic: تَسۡفِكُوۡنَ
+    arabic: تَسۡفِكُونَ
     translation: will you shed
     transliteration: tasfikūna
   6:
@@ -34,19 +34,19 @@ word_by_word:
     translation: and not
     transliteration: walā
   8:
-    arabic: تُخۡرِجُوۡنَ
+    arabic: تُخۡرِجُونَ
     translation: (will) evict
     transliteration: tukh'rijūna
   9:
-    arabic: اَنۡفُسَكُمۡ
+    arabic: أَنفُسَكُم
     translation: yourselves
     transliteration: anfusakum
   10:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: from
     transliteration: min
   11:
-    arabic: دِيَارِكُمۡ
+    arabic: دِيَٰرِكُمۡ
     translation: your homes
     transliteration: diyārikum
   12:
@@ -54,15 +54,15 @@ word_by_word:
     translation: then
     transliteration: thumma
   13:
-    arabic: اَقۡرَرۡتُمۡ
+    arabic: أَقۡرَرۡتُمۡ
     translation: you ratified
     transliteration: aqrartum
   14:
-    arabic: وَاَنۡـتُمۡ
+    arabic: وَأَنتُمۡ
     translation: while you
     transliteration: wa-antum
   15:
-    arabic: تَشۡهَدُوۡنَ‏
+    arabic: تَشۡهَدُونَ
     translation: (were) witnessing
     transliteration: tashhadūna
 ---

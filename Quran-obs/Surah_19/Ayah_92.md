@@ -1,5 +1,5 @@
 ---
-arabic_ayat: وَمَا يَنۡۢبَـغِىۡ لِلرَّحۡمٰنِ اَنۡ يَّتَّخِذَ وَلَدًا ؕ‏
+arabic_ayat: وَمَا يَنۢبَغِي لِلرَّحۡمَٰنِ أَن يَتَّخِذَ وَلَدًا
 sentence_translation: It does not befit ˹the majesty of˺ the Most Compassionate to
   have children.
 word_by_word:
@@ -8,23 +8,23 @@ word_by_word:
     translation: And not
     transliteration: wamā
   2:
-    arabic: يَنۡۢبَـغِىۡ
+    arabic: يَنۢبَغِي
     translation: is appropriate
     transliteration: yanbaghī
   3:
-    arabic: لِلرَّحۡمٰنِ
+    arabic: لِلرَّحۡمَٰنِ
     translation: for the Most Gracious
     transliteration: lilrraḥmāni
   4:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that
     transliteration: an
   5:
-    arabic: يَّتَّخِذَ
+    arabic: يَتَّخِذَ
     translation: He should take
     transliteration: yattakhidha
   6:
-    arabic: وَلَدًا ؕ‏
+    arabic: وَلَدًا
     translation: a son
     transliteration: waladan
 ---

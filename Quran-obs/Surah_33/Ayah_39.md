@@ -1,28 +1,28 @@
 ---
-arabic_ayat: اۨلَّذِيۡنَ يُبَـلِّـغُوۡنَ رِسٰلٰتِ اللّٰهِ وَيَخۡشَوۡنَهٗ وَلَا يَخۡشَوۡنَ
-  اَحَدًا اِلَّا اللّٰهَ ؕ وَكَفٰى بِاللّٰهِ حَسِيۡبًا‏
+arabic_ayat: ٱلَّذِينَ يُبَلِّغُونَ رِسَٰلَٰتِ ٱللَّهِ وَيَخۡشَوۡنَهُۥ وَلَا يَخۡشَوۡنَ
+  أَحَدًا إِلَّا ٱللَّهَۗ وَكَفَىٰ بِٱللَّهِ حَسِيبٗا
 sentence_translation: ˹That is His way with˺ those ˹prophets˺ who deliver the messages
   of Allah, and consider Him, and none but Allah. And sufficient is Allah as a ˹vigilant˺
   Reckoner.
 word_by_word:
   1:
-    arabic: اۨلَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: Those who
     transliteration: alladhīna
   2:
-    arabic: يُبَـلِّـغُوۡنَ
+    arabic: يُبَلِّغُونَ
     translation: convey
     transliteration: yuballighūna
   3:
-    arabic: رِسٰلٰتِ
+    arabic: رِسَٰلَٰتِ
     translation: (the) Messages
     transliteration: risālāti
   4:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (of) Allah
     transliteration: l-lahi
   5:
-    arabic: وَيَخۡشَوۡنَهٗ
+    arabic: وَيَخۡشَوۡنَهُۥ
     translation: and fear Him
     transliteration: wayakhshawnahu
   6:
@@ -34,27 +34,27 @@ word_by_word:
     translation: fear
     transliteration: yakhshawna
   8:
-    arabic: اَحَدًا
+    arabic: أَحَدًا
     translation: anyone
     transliteration: aḥadan
   9:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   10:
-    arabic: اللّٰهَ ؕ
+    arabic: ٱللَّهَۗ
     translation: Allah
     transliteration: l-laha
   11:
-    arabic: وَكَفٰى
+    arabic: وَكَفَىٰ
     translation: And sufficient is Allah
     transliteration: wakafā
   12:
-    arabic: بِاللّٰهِ
+    arabic: بِٱللَّهِ
     translation: And sufficient is Allah
     transliteration: bil-lahi
   13:
-    arabic: حَسِيۡبًا‏
+    arabic: حَسِيبٗا
     translation: (as) a Reckoner
     transliteration: ḥasīban
 ---

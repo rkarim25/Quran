@@ -1,7 +1,7 @@
 ---
-arabic_ayat: قُلۡ اِنَّ الۡمَوۡتَ الَّذِىۡ تَفِرُّوۡنَ مِنۡهُ فَاِنَّهٗ مُلٰقِيۡكُمۡ​
-  ثُمَّ تُرَدُّوۡنَ اِلٰى عٰلِمِ الۡغَيۡبِ وَالشَّهَادَةِ فَيُنَبِّئُكُمۡ بِمَا كُنۡتُمۡ
-  تَعۡمَلُوۡنَ‏
+arabic_ayat: قُلۡ إِنَّ ٱلۡمَوۡتَ ٱلَّذِي تَفِرُّونَ مِنۡهُ فَإِنَّهُۥ مُلَٰقِيكُمۡۖ
+  ثُمَّ تُرَدُّونَ إِلَىٰ عَٰلِمِ ٱلۡغَيۡبِ وَٱلشَّهَٰدَةِ فَيُنَبِّئُكُم بِمَا كُنتُمۡ
+  تَعۡمَلُونَ
 sentence_translation: Say, “The death you are running away from will inevitably come
   to you. Then you will be returned to the Knower of the seen and unseen, and He will
   inform you of what you used to do.”
@@ -11,19 +11,19 @@ word_by_word:
     translation: Say
     transliteration: qul
   2:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   3:
-    arabic: الۡمَوۡتَ
+    arabic: ٱلۡمَوۡتَ
     translation: the death
     transliteration: l-mawta
   4:
-    arabic: الَّذِىۡ
+    arabic: ٱلَّذِي
     translation: which
     transliteration: alladhī
   5:
-    arabic: تَفِرُّوۡنَ
+    arabic: تَفِرُّونَ
     translation: you flee
     transliteration: tafirrūna
   6:
@@ -31,11 +31,11 @@ word_by_word:
     translation: from it
     transliteration: min'hu
   7:
-    arabic: فَاِنَّهٗ
+    arabic: فَإِنَّهُۥ
     translation: then surely it
     transliteration: fa-innahu
   8:
-    arabic: مُلٰقِيۡكُمۡ​
+    arabic: مُلَٰقِيكُمۡۖ
     translation: (will) meet you
     transliteration: mulāqīkum
   9:
@@ -43,27 +43,27 @@ word_by_word:
     translation: Then
     transliteration: thumma
   10:
-    arabic: تُرَدُّوۡنَ
+    arabic: تُرَدُّونَ
     translation: you will be sent back
     transliteration: turaddūna
   11:
-    arabic: اِلٰى
+    arabic: إِلَىٰ
     translation: to
     transliteration: ilā
   12:
-    arabic: عٰلِمِ
+    arabic: عَٰلِمِ
     translation: (the) All-Knower
     transliteration: ʿālimi
   13:
-    arabic: الۡغَيۡبِ
+    arabic: ٱلۡغَيۡبِ
     translation: (of) the unseen
     transliteration: l-ghaybi
   14:
-    arabic: وَالشَّهَادَةِ
+    arabic: وَٱلشَّهَٰدَةِ
     translation: and the witnessed
     transliteration: wal-shahādati
   15:
-    arabic: فَيُنَبِّئُكُمۡ
+    arabic: فَيُنَبِّئُكُم
     translation: and He will inform you
     transliteration: fayunabbi-ukum
   16:
@@ -71,11 +71,11 @@ word_by_word:
     translation: '[of] what'
     transliteration: bimā
   17:
-    arabic: كُنۡتُمۡ
+    arabic: كُنتُمۡ
     translation: you used to
     transliteration: kuntum
   18:
-    arabic: تَعۡمَلُوۡنَ‏
+    arabic: تَعۡمَلُونَ
     translation: do
     transliteration: taʿmalūna
 ---

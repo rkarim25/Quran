@@ -1,9 +1,9 @@
 ---
-arabic_ayat: اِلَّا عِبَادَ اللّٰهِ الۡمُخۡلَصِيۡنَ‏
+arabic_ayat: إِلَّا عِبَادَ ٱللَّهِ ٱلۡمُخۡلَصِينَ
 sentence_translation: But not the chosen servants of Allah.
 word_by_word:
   1:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: Except
     transliteration: illā
   2:
@@ -11,11 +11,11 @@ word_by_word:
     translation: (the) slaves
     transliteration: ʿibāda
   3:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (of) Allah
     transliteration: l-lahi
   4:
-    arabic: الۡمُخۡلَصِيۡنَ‏
+    arabic: ٱلۡمُخۡلَصِينَ
     translation: the chosen
     transliteration: l-mukh'laṣīna
 ---

@@ -1,27 +1,27 @@
 ---
-arabic_ayat: فَاَمَّا الَّذِيۡنَ اٰمَنُوۡا وَعَمِلُوا الصّٰلِحٰتِ فَيُدۡخِلُهُمۡ رَبُّهُمۡ
-  فِىۡ رَحۡمَتِهٖ​ ؕ ذٰ لِكَ هُوَ الۡفَوۡزُ الۡمُبِيۡنُ‏
+arabic_ayat: فَأَمَّا ٱلَّذِينَ ءَامَنُواْ وَعَمِلُواْ ٱلصَّٰلِحَٰتِ فَيُدۡخِلُهُمۡ
+  رَبُّهُمۡ فِي رَحۡمَتِهِۦۚ ذَٰلِكَ هُوَ ٱلۡفَوۡزُ ٱلۡمُبِينُ
 sentence_translation: As for those who believed and did good, their Lord will admit
   them into His mercy. That is ˹truly˺ the absolute triumph.
 word_by_word:
   1:
-    arabic: فَاَمَّا
+    arabic: فَأَمَّا
     translation: Then as for
     transliteration: fa-ammā
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ ءَ
     translation: those who
     transliteration: alladhīna
   3:
-    arabic: اٰمَنُوۡا
+    arabic: امَنُواْ
     translation: believed
     transliteration: āmanū
   4:
-    arabic: وَعَمِلُوا
+    arabic: وَعَمِلُواْ
     translation: and did
     transliteration: waʿamilū
   5:
-    arabic: الصّٰلِحٰتِ
+    arabic: ٱلصَّٰلِحَٰتِ
     translation: '[the] righteous deeds'
     transliteration: l-ṣāliḥāti
   6:
@@ -33,15 +33,15 @@ word_by_word:
     translation: their Lord
     transliteration: rabbuhum
   8:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in(to)
     transliteration: fī
   9:
-    arabic: رَحۡمَتِهٖ​ ؕ
+    arabic: رَحۡمَتِهِۦۚ
     translation: His mercy
     transliteration: raḥmatihi
   10:
-    arabic: ذٰ لِكَ
+    arabic: ذَٰلِكَ
     translation: That
     transliteration: dhālika
   11:
@@ -49,11 +49,11 @@ word_by_word:
     translation: '[it]'
     transliteration: huwa
   12:
-    arabic: الۡفَوۡزُ
+    arabic: ٱلۡفَوۡزُ
     translation: (is) the success
     transliteration: l-fawzu
   13:
-    arabic: الۡمُبِيۡنُ‏
+    arabic: ٱلۡمُبِينُ
     translation: clear
     transliteration: l-mubīnu
 ---

@@ -1,11 +1,11 @@
 ---
-arabic_ayat: فَمَا كَانَ جَوَابَ قَوۡمِهٖۤ اِلَّاۤ اَنۡ قَالُـوۡۤا اَخۡرِجُوۡۤا اٰلَ
-  لُوۡطٍ مِّنۡ قَرۡيَتِكُمۡ​ۚ اِنَّهُمۡ اُنَاسٌ يَّتَطَهَّرُوۡنَ‏
+arabic_ayat: ۞ فَمَا كَانَ جَوَابَ قَوۡمِهِۦٓ إِلَّآ أَن قَالُوٓاْ أَخۡرِجُوٓاْ ءَالَ
+  لُوطٖ مِّن قَرۡيَتِكُمۡۖ إِنَّهُمۡ أُنَاسٞ يَتَطَهَّرُونَ
 sentence_translation: But his people’s only response was to say, “Expel Lot’s followers
   from your land! They are a people who wish to remain chaste!”
 word_by_word:
   1:
-    arabic: ۞ فَمَا
+    arabic: ۞ فَمَا
     translation: But not
     transliteration: famā
   2:
@@ -17,51 +17,51 @@ word_by_word:
     translation: (the) answer
     transliteration: jawāba
   4:
-    arabic: قَوۡمِهٖۤ
+    arabic: قَوۡمِهِۦٓ
     translation: (of) his people
     transliteration: qawmihi
   5:
-    arabic: اِلَّاۤ
+    arabic: إِلَّآ
     translation: except
     transliteration: illā
   6:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that
     transliteration: an
   7:
-    arabic: قَالُـوۡۤا
+    arabic: قَالُوٓاْ
     translation: they said
     transliteration: qālū
   8:
-    arabic: اَخۡرِجُوۡۤا
+    arabic: أَخۡرِجُوٓاْ ءَ
     translation: Drive out
     transliteration: akhrijū
   9:
-    arabic: اٰلَ
+    arabic: الَ
     translation: (the) family
     transliteration: āla
   10:
-    arabic: لُوۡطٍ
+    arabic: لُوطٖ
     translation: (of) Lut
     transliteration: lūṭin
   11:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: from
     transliteration: min
   12:
-    arabic: قَرۡيَتِكُمۡ​ۚ
+    arabic: قَرۡيَتِكُمۡۖ
     translation: your town
     transliteration: qaryatikum
   13:
-    arabic: اِنَّهُمۡ
+    arabic: إِنَّهُمۡ
     translation: Indeed, they
     transliteration: innahum
   14:
-    arabic: اُنَاسٌ
+    arabic: أُنَاسٞ
     translation: (are) people
     transliteration: unāsun
   15:
-    arabic: يَّتَطَهَّرُوۡنَ‏
+    arabic: يَتَطَهَّرُونَ
     translation: who keep clean and pure
     transliteration: yataṭahharūna
 ---

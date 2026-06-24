@@ -1,12 +1,12 @@
 ---
-arabic_ayat: وَلَٮِٕنۡ شِئۡنَا لَنَذۡهَبَنَّ بِالَّذِىۡۤ اَوۡحَيۡنَاۤ اِلَيۡكَ ثُمَّ
-  لَا تَجِدُ لَـكَ بِهٖ عَلَيۡنَا وَكِيۡلًا ۙ‏
+arabic_ayat: وَلَئِن شِئۡنَا لَنَذۡهَبَنَّ بِٱلَّذِيٓ أَوۡحَيۡنَآ إِلَيۡكَ ثُمَّ
+  لَا تَجِدُ لَكَ بِهِۦ عَلَيۡنَا وَكِيلًا
 sentence_translation: If We willed, We could have certainly taken away what We have
   revealed to you ˹O Prophet˺—then you would find none to guarantee its return from
   Us—
 word_by_word:
   1:
-    arabic: وَلَٮِٕنۡ
+    arabic: وَلَئِن
     translation: And if
     transliteration: wala-in
   2:
@@ -18,15 +18,15 @@ word_by_word:
     translation: We (would) have surely taken away
     transliteration: lanadhhabanna
   4:
-    arabic: بِالَّذِىۡۤ
+    arabic: بِٱلَّذِيٓ
     translation: that which
     transliteration: bi-alladhī
   5:
-    arabic: اَوۡحَيۡنَاۤ
+    arabic: أَوۡحَيۡنَآ
     translation: We have revealed
     transliteration: awḥaynā
   6:
-    arabic: اِلَيۡكَ
+    arabic: إِلَيۡكَ
     translation: to you
     transliteration: ilayka
   7:
@@ -42,11 +42,11 @@ word_by_word:
     translation: you would find
     transliteration: tajidu
   10:
-    arabic: لَـكَ
+    arabic: لَكَ
     translation: for you
     transliteration: laka
   11:
-    arabic: بِهٖ
+    arabic: بِهِۦ
     translation: concerning it
     transliteration: bihi
   12:
@@ -54,7 +54,7 @@ word_by_word:
     translation: against Us
     transliteration: ʿalaynā
   13:
-    arabic: وَكِيۡلًا ۙ‏
+    arabic: وَكِيلًا
     translation: any advocate
     transliteration: wakīlan
 ---

@@ -1,9 +1,9 @@
 ---
-arabic_ayat: الَّذِىۡ عَلَّمَ بِالۡقَلَمِۙ‏
+arabic_ayat: ٱلَّذِي عَلَّمَ بِٱلۡقَلَمِ
 sentence_translation: Who taught by the pen—
 word_by_word:
   1:
-    arabic: الَّذِىۡ
+    arabic: ٱلَّذِي
     translation: The One Who
     transliteration: alladhī
   2:
@@ -11,7 +11,7 @@ word_by_word:
     translation: taught
     transliteration: ʿallama
   3:
-    arabic: بِالۡقَلَمِۙ‏
+    arabic: بِٱلۡقَلَمِ
     translation: by the pen
     transliteration: bil-qalami
 ---

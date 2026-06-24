@@ -1,8 +1,8 @@
 ---
-arabic_ayat: قَالَتۡ رُسُلُهُمۡ اَفِى اللّٰهِ شَكٌّ فَاطِرِ السَّمٰوٰتِ وَالۡاَرۡضِ​ؕ
-  يَدۡعُوۡكُمۡ لِيَـغۡفِرَ لَـكُمۡ مِّنۡ ذُنُوۡبِكُمۡ وَيُؤَخِّرَكُمۡ اِلٰٓى اَجَلٍ
-  مُّسَمًّى​ؕ قَالُوۡۤا اِنۡ اَنۡتُمۡ اِلَّا بَشَرٌ مِّثۡلُنَاؕ تُرِيۡدُوۡنَ اَنۡ
-  تَصُدُّوۡنَا عَمَّا كَانَ يَعۡبُدُ اٰبَآؤُنَا فَاۡتُوۡنَا بِسُلۡطٰنٍ مُّبِيۡنٍ‏
+arabic_ayat: ۞ قَالَتۡ رُسُلُهُمۡ أَفِي ٱللَّهِ شَكّٞ فَاطِرِ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِۖ
+  يَدۡعُوكُمۡ لِيَغۡفِرَ لَكُم مِّن ذُنُوبِكُمۡ وَيُؤَخِّرَكُمۡ إِلَىٰٓ أَجَلٖ مُّسَمّٗىۚ
+  قَالُوٓاْ إِنۡ أَنتُمۡ إِلَّا بَشَرٞ مِّثۡلُنَا تُرِيدُونَ أَن تَصُدُّونَا عَمَّا
+  كَانَ يَعۡبُدُ ءَابَآؤُنَا فَأۡتُونَا بِسُلۡطَٰنٖ مُّبِينٖ
 sentence_translation: Their messengers asked ˹them˺, “Is there any doubt about Allah,
   the Originator of the heavens and the earth? He is inviting you in order to forgive
   your sins, and delay your end until your appointed term.” They argued, “You are
@@ -10,7 +10,7 @@ sentence_translation: Their messengers asked ˹them˺, “Is there any doubt abo
   worshipped. So bring us some compelling proof.”
 word_by_word:
   1:
-    arabic: ۞ قَالَتۡ
+    arabic: ۞ قَالَتۡ
     translation: Said
     transliteration: qālat
   2:
@@ -18,15 +18,15 @@ word_by_word:
     translation: their Messengers
     transliteration: rusuluhum
   3:
-    arabic: اَفِى
+    arabic: أَفِي
     translation: Can (there) be about
     transliteration: afī
   4:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   5:
-    arabic: شَكٌّ
+    arabic: شَكّٞ
     translation: any doubt
     transliteration: shakkun
   6:
@@ -34,31 +34,31 @@ word_by_word:
     translation: (the) Creator
     transliteration: fāṭiri
   7:
-    arabic: السَّمٰوٰتِ
+    arabic: ٱلسَّمَٰوَٰتِ
     translation: (of) the heavens
     transliteration: l-samāwāti
   8:
-    arabic: وَالۡاَرۡضِ​ؕ
+    arabic: وَٱلۡأَرۡضِۖ
     translation: and the earth
     transliteration: wal-arḍi
   9:
-    arabic: يَدۡعُوۡكُمۡ
+    arabic: يَدۡعُوكُمۡ
     translation: He invites you
     transliteration: yadʿūkum
   10:
-    arabic: لِيَـغۡفِرَ
+    arabic: لِيَغۡفِرَ
     translation: so that He may forgive
     transliteration: liyaghfira
   11:
-    arabic: لَـكُمۡ
+    arabic: لَكُم
     translation: for you
     transliteration: lakum
   12:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: '[of]'
     transliteration: min
   13:
-    arabic: ذُنُوۡبِكُمۡ
+    arabic: ذُنُوبِكُمۡ
     translation: your sins
     transliteration: dhunūbikum
   14:
@@ -66,51 +66,51 @@ word_by_word:
     translation: and give you respite
     transliteration: wayu-akhirakum
   15:
-    arabic: اِلٰٓى
+    arabic: إِلَىٰٓ
     translation: for
     transliteration: ilā
   16:
-    arabic: اَجَلٍ
+    arabic: أَجَلٖ
     translation: a term
     transliteration: ajalin
   17:
-    arabic: مُّسَمًّى​ؕ
+    arabic: مُّسَمّٗىۚ
     translation: appointed
     transliteration: musamman
   18:
-    arabic: قَالُوۡۤا
+    arabic: قَالُوٓاْ
     translation: They said
     transliteration: qālū
   19:
-    arabic: اِنۡ
+    arabic: إِنۡ
     translation: Not
     transliteration: in
   20:
-    arabic: اَنۡتُمۡ
+    arabic: أَنتُمۡ
     translation: you
     transliteration: antum
   21:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: (are) but
     transliteration: illā
   22:
-    arabic: بَشَرٌ
+    arabic: بَشَرٞ
     translation: a human
     transliteration: basharun
   23:
-    arabic: مِّثۡلُنَاؕ
+    arabic: مِّثۡلُنَا
     translation: like us
     transliteration: mith'lunā
   24:
-    arabic: تُرِيۡدُوۡنَ
+    arabic: تُرِيدُونَ
     translation: you wish
     transliteration: turīdūna
   25:
-    arabic: اَنۡ
+    arabic: أَن
     translation: to
     transliteration: an
   26:
-    arabic: تَصُدُّوۡنَا
+    arabic: تَصُدُّونَا
     translation: hinder us
     transliteration: taṣuddūnā
   27:
@@ -122,23 +122,23 @@ word_by_word:
     translation: used to
     transliteration: kāna
   29:
-    arabic: يَعۡبُدُ
+    arabic: يَعۡبُدُ ءَ
     translation: worship
     transliteration: yaʿbudu
   30:
-    arabic: اٰبَآؤُنَا
+    arabic: ابَآؤُنَا
     translation: our forefathers
     transliteration: ābāunā
   31:
-    arabic: فَاۡتُوۡنَا
+    arabic: فَأۡتُونَا
     translation: So bring us
     transliteration: fatūnā
   32:
-    arabic: بِسُلۡطٰنٍ
+    arabic: بِسُلۡطَٰنٖ
     translation: an authority
     transliteration: bisul'ṭānin
   33:
-    arabic: مُّبِيۡنٍ‏
+    arabic: مُّبِينٖ
     translation: clear
     transliteration: mubīnin
 ---

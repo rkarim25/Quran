@@ -1,23 +1,23 @@
 ---
-arabic_ayat: صِرَاطَ الَّذِيۡنَ اَنۡعَمۡتَ عَلَيۡهِمۡ ۙ‏ غَيۡرِ الۡمَغۡضُوۡبِ عَلَيۡهِمۡ
-  وَلَا الضَّآلِّيۡنَ‏
+arabic_ayat: صِرَٰطَ ٱلَّذِينَ أَنۡعَمۡتَ عَلَيۡهِمۡ غَيۡرِ ٱلۡمَغۡضُوبِ عَلَيۡهِمۡ
+  وَلَا ٱلضَّآلِّينَ
 sentence_translation: the Path of those You have blessed—not those You are displeased
   with, or those who are astray. 
 word_by_word:
   1:
-    arabic: صِرَاطَ
+    arabic: صِرَٰطَ
     translation: (The) path
     transliteration: ṣirāṭa
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: (of) those
     transliteration: alladhīna
   3:
-    arabic: اَنۡعَمۡتَ
+    arabic: أَنۡعَمۡتَ
     translation: You have bestowed (Your) Favors
     transliteration: anʿamta
   4:
-    arabic: عَلَيۡهِمۡ ۙ‏
+    arabic: عَلَيۡهِمۡ
     translation: on them
     transliteration: ʿalayhim
   5:
@@ -25,7 +25,7 @@ word_by_word:
     translation: not (of)
     transliteration: ghayri
   6:
-    arabic: الۡمَغۡضُوۡبِ
+    arabic: ٱلۡمَغۡضُوبِ
     translation: those who earned (Your) wrath
     transliteration: l-maghḍūbi
   7:
@@ -37,7 +37,7 @@ word_by_word:
     translation: and not
     transliteration: walā
   9:
-    arabic: الضَّآلِّيۡنَ‏
+    arabic: ٱلضَّآلِّينَ
     translation: (of) those who go astray
     transliteration: l-ḍālīna
 ---

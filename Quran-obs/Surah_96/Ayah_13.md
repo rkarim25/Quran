@@ -1,13 +1,13 @@
 ---
-arabic_ayat: اَرَءَيۡتَ اِنۡ كَذَّبَ وَتَوَلّٰىؕ‏
+arabic_ayat: أَرَءَيۡتَ إِن كَذَّبَ وَتَوَلَّىٰٓ
 sentence_translation: What if that ˹man˺ persists in denial and turns away?
 word_by_word:
   1:
-    arabic: اَرَءَيۡتَ
+    arabic: أَرَءَيۡتَ
     translation: Have you seen
     transliteration: ara-ayta
   2:
-    arabic: اِنۡ
+    arabic: إِن
     translation: if
     transliteration: in
   3:
@@ -15,7 +15,7 @@ word_by_word:
     translation: he denies
     transliteration: kadhaba
   4:
-    arabic: وَتَوَلّٰىؕ‏
+    arabic: وَتَوَلَّىٰٓ
     translation: and turns away
     transliteration: watawallā
 ---

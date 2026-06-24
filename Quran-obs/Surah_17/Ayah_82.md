@@ -1,6 +1,6 @@
 ---
-arabic_ayat: وَنُنَزِّلُ مِنَ الۡـقُرۡاٰنِ مَا هُوَ شِفَآءٌ وَّرَحۡمَةٌ لِّـلۡمُؤۡمِنِيۡنَ​ۙ
-  وَلَا يَزِيۡدُ الظّٰلِمِيۡنَ اِلَّا خَسَارًا‏
+arabic_ayat: وَنُنَزِّلُ مِنَ ٱلۡقُرۡءَانِ مَا هُوَ شِفَآءٞ وَرَحۡمَةٞ لِّلۡمُؤۡمِنِينَ
+  وَلَا يَزِيدُ ٱلظَّٰلِمِينَ إِلَّا خَسَارٗا
 sentence_translation: We send down the Quran as a healing and mercy for the believers,
   but it only increases the wrongdoers in loss.
 word_by_word:
@@ -13,7 +13,7 @@ word_by_word:
     translation: from
     transliteration: mina
   3:
-    arabic: الۡـقُرۡاٰنِ
+    arabic: ٱلۡقُرۡءَانِ
     translation: the Quran
     transliteration: l-qur'āni
   4:
@@ -25,15 +25,15 @@ word_by_word:
     translation: it
     transliteration: huwa
   6:
-    arabic: شِفَآءٌ
+    arabic: شِفَآءٞ
     translation: (is) a healing
     transliteration: shifāon
   7:
-    arabic: وَّرَحۡمَةٌ
+    arabic: وَرَحۡمَةٞ
     translation: and a mercy
     transliteration: waraḥmatun
   8:
-    arabic: لِّـلۡمُؤۡمِنِيۡنَ​ۙ
+    arabic: لِّلۡمُؤۡمِنِينَ
     translation: for the believers
     transliteration: lil'mu'minīna
   9:
@@ -41,19 +41,19 @@ word_by_word:
     translation: but not
     transliteration: walā
   10:
-    arabic: يَزِيۡدُ
+    arabic: يَزِيدُ
     translation: it increases
     transliteration: yazīdu
   11:
-    arabic: الظّٰلِمِيۡنَ
+    arabic: ٱلظَّٰلِمِينَ
     translation: the wrongdoers
     transliteration: l-ẓālimīna
   12:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   13:
-    arabic: خَسَارًا‏
+    arabic: خَسَارٗا
     translation: (in) loss
     transliteration: khasāran
 ---

@@ -1,19 +1,19 @@
 ---
-arabic_ayat: مَنۡ يُّطِعِ الرَّسُوۡلَ فَقَدۡ اَطَاعَ اللّٰهَ ​ۚ وَمَنۡ تَوَلّٰى فَمَاۤ
-  اَرۡسَلۡنٰكَ عَلَيۡهِمۡ حَفِيۡظًا ؕ‏
+arabic_ayat: مَّن يُطِعِ ٱلرَّسُولَ فَقَدۡ أَطَاعَ ٱللَّهَۖ وَمَن تَوَلَّىٰ فَمَآ
+  أَرۡسَلۡنَٰكَ عَلَيۡهِمۡ حَفِيظٗا
 sentence_translation: Whoever obeys the Messenger has truly obeyed Allah. But whoever
   turns away, then ˹know that˺ We have not sent you ˹O Prophet˺ as a keeper over them.
 word_by_word:
   1:
-    arabic: مَنۡ
+    arabic: مَّن
     translation: (He) who
     transliteration: man
   2:
-    arabic: يُّطِعِ
+    arabic: يُطِعِ
     translation: obeys
     transliteration: yuṭiʿi
   3:
-    arabic: الرَّسُوۡلَ
+    arabic: ٱلرَّسُولَ
     translation: the Messenger
     transliteration: l-rasūla
   4:
@@ -21,27 +21,27 @@ word_by_word:
     translation: then surely
     transliteration: faqad
   5:
-    arabic: اَطَاعَ
+    arabic: أَطَاعَ
     translation: he obeyed
     transliteration: aṭāʿa
   6:
-    arabic: اللّٰهَ ​ۚ
+    arabic: ٱللَّهَۖ
     translation: Allah
     transliteration: l-laha
   7:
-    arabic: وَمَنۡ
+    arabic: وَمَن
     translation: and whoever
     transliteration: waman
   8:
-    arabic: تَوَلّٰى
+    arabic: تَوَلَّىٰ
     translation: 'turns away '
     transliteration: tawallā
   9:
-    arabic: فَمَاۤ
+    arabic: فَمَآ
     translation: then not
     transliteration: famā
   10:
-    arabic: اَرۡسَلۡنٰكَ
+    arabic: أَرۡسَلۡنَٰكَ
     translation: We (have) sent you
     transliteration: arsalnāka
   11:
@@ -49,7 +49,7 @@ word_by_word:
     translation: over them
     transliteration: ʿalayhim
   12:
-    arabic: حَفِيۡظًا ؕ‏
+    arabic: حَفِيظٗا
     translation: (as) a guardian
     transliteration: ḥafīẓan
 ---

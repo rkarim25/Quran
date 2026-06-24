@@ -1,7 +1,7 @@
 ---
-arabic_ayat: وَوَهَبۡنَا لَهٗۤ اِسۡحٰقَ وَيَعۡقُوۡبَ​ؕ كُلًّا هَدَيۡنَا ​ۚ وَنُوۡحًا
-  هَدَيۡنَا مِنۡ قَبۡلُ​ وَمِنۡ ذُرِّيَّتِهٖ دَاوٗدَ وَسُلَيۡمٰنَ وَاَيُّوۡبَ وَيُوۡسُفَ
-  وَمُوۡسٰى وَ هٰرُوۡنَ​ؕ وَكَذٰلِكَ نَجۡزِى الۡمُحۡسِنِيۡنَۙ‏
+arabic_ayat: وَوَهَبۡنَا لَهُۥٓ إِسۡحَٰقَ وَيَعۡقُوبَۚ كُلًّا هَدَيۡنَاۚ وَنُوحًا
+  هَدَيۡنَا مِن قَبۡلُۖ وَمِن ذُرِّيَّتِهِۦ دَاوُۥدَ وَسُلَيۡمَٰنَ وَأَيُّوبَ وَيُوسُفَ
+  وَمُوسَىٰ وَهَٰرُونَۚ وَكَذَٰلِكَ نَجۡزِي ٱلۡمُحۡسِنِينَ
 sentence_translation: 'And We blessed him with Isaac and Jacob. We guided them all
   as We previously guided Noah and those among his descendants: David, Solomon, Job,
   Joseph, Moses, and Aaron. This is how We reward the good-doers.'
@@ -11,15 +11,15 @@ word_by_word:
     translation: And We bestowed
     transliteration: wawahabnā
   2:
-    arabic: لَهٗۤ
+    arabic: لَهُۥٓ
     translation: to him
     transliteration: lahu
   3:
-    arabic: اِسۡحٰقَ
+    arabic: إِسۡحَٰقَ
     translation: Isaac
     transliteration: is'ḥāqa
   4:
-    arabic: وَيَعۡقُوۡبَ​ؕ
+    arabic: وَيَعۡقُوبَۚ
     translation: and Yaqub
     transliteration: wayaʿqūba
   5:
@@ -27,11 +27,11 @@ word_by_word:
     translation: all
     transliteration: kullan
   6:
-    arabic: هَدَيۡنَا ​ۚ
+    arabic: هَدَيۡنَاۚ
     translation: We guided
     transliteration: hadaynā
   7:
-    arabic: وَنُوۡحًا
+    arabic: وَنُوحًا
     translation: And Nuh
     transliteration: wanūḥan
   8:
@@ -39,55 +39,55 @@ word_by_word:
     translation: We guided
     transliteration: hadaynā
   9:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   10:
-    arabic: قَبۡلُ​
+    arabic: قَبۡلُۖ
     translation: before
     transliteration: qablu
   11:
-    arabic: وَمِنۡ
+    arabic: وَمِن
     translation: and of
     transliteration: wamin
   12:
-    arabic: ذُرِّيَّتِهٖ
+    arabic: ذُرِّيَّتِهِۦ
     translation: his descendents
     transliteration: dhurriyyatihi
   13:
-    arabic: دَاوٗدَ
+    arabic: دَاوُۥدَ
     translation: Dawood
     transliteration: dāwūda
   14:
-    arabic: وَسُلَيۡمٰنَ
+    arabic: وَسُلَيۡمَٰنَ
     translation: and Sulaiman
     transliteration: wasulaymāna
   15:
-    arabic: وَاَيُّوۡبَ
+    arabic: وَأَيُّوبَ
     translation: and Ayyub
     transliteration: wa-ayyūba
   16:
-    arabic: وَيُوۡسُفَ
+    arabic: وَيُوسُفَ
     translation: and Yusuf
     transliteration: wayūsufa
   17:
-    arabic: وَمُوۡسٰى
+    arabic: وَمُوسَىٰ
     translation: and Musa
     transliteration: wamūsā
   18:
-    arabic: وَ هٰرُوۡنَ​ؕ
+    arabic: وَهَٰرُونَۚ
     translation: and Harun
     transliteration: wahārūna
   19:
-    arabic: وَكَذٰلِكَ
+    arabic: وَكَذَٰلِكَ
     translation: And thus
     transliteration: wakadhālika
   20:
-    arabic: نَجۡزِى
+    arabic: نَجۡزِي
     translation: We reward
     transliteration: najzī
   21:
-    arabic: الۡمُحۡسِنِيۡنَۙ‏
+    arabic: ٱلۡمُحۡسِنِينَ
     translation: the good-doers
     transliteration: l-muḥ'sinīna
 ---

@@ -1,7 +1,7 @@
 ---
-arabic_ayat: وَلَوۡ اَنَّهُمۡ اَقَامُوا التَّوۡرٰٮةَ وَالۡاِنۡجِيۡلَ وَمَاۤ اُنۡزِلَ
-  اِلَيۡهِمۡ مِّنۡ رَّبِّهِمۡ لَاَ كَلُوۡا مِنۡ فَوۡقِهِمۡ وَمِنۡ تَحۡتِ اَرۡجُلِهِمۡ​ؕ
-  مِنۡهُمۡ اُمَّةٌ مُّقۡتَصِدَةٌ​  ؕ وَكَثِيۡرٌ مِّنۡهُمۡ سَآءَ مَا يَعۡمَلُوۡنَ‏
+arabic_ayat: وَلَوۡ أَنَّهُمۡ أَقَامُواْ ٱلتَّوۡرَىٰةَ وَٱلۡإِنجِيلَ وَمَآ أُنزِلَ
+  إِلَيۡهِم مِّن رَّبِّهِمۡ لَأَكَلُواْ مِن فَوۡقِهِمۡ وَمِن تَحۡتِ أَرۡجُلِهِمۚ مِّنۡهُمۡ
+  أُمَّةٞ مُّقۡتَصِدَةٞۖ وَكَثِيرٞ مِّنۡهُمۡ سَآءَ مَا يَعۡمَلُونَ
 sentence_translation: And had they observed the Torah, the Gospel, and what has been
   revealed to them from their Lord, they would have been overwhelmed with provisions
   from above and below. Some among them are upright, yet many do nothing but evil.
@@ -11,35 +11,35 @@ word_by_word:
     translation: And if
     transliteration: walaw
   2:
-    arabic: اَنَّهُمۡ
+    arabic: أَنَّهُمۡ
     translation: that they
     transliteration: annahum
   3:
-    arabic: اَقَامُوا
+    arabic: أَقَامُواْ
     translation: had stood firmly
     transliteration: aqāmū
   4:
-    arabic: التَّوۡرٰٮةَ
+    arabic: ٱلتَّوۡرَىٰةَ
     translation: (by) the Taurat
     transliteration: l-tawrāta
   5:
-    arabic: وَالۡاِنۡجِيۡلَ
+    arabic: وَٱلۡإِنجِيلَ
     translation: and the Injeel
     transliteration: wal-injīla
   6:
-    arabic: وَمَاۤ
+    arabic: وَمَآ
     translation: and what
     transliteration: wamā
   7:
-    arabic: اُنۡزِلَ
+    arabic: أُنزِلَ
     translation: was revealed
     transliteration: unzila
   8:
-    arabic: اِلَيۡهِمۡ
+    arabic: إِلَيۡهِم
     translation: to them
     transliteration: ilayhim
   9:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: from
     transliteration: min
   10:
@@ -47,11 +47,11 @@ word_by_word:
     translation: their Lord
     transliteration: rabbihim
   11:
-    arabic: لَاَ كَلُوۡا
+    arabic: لَأَكَلُواْ
     translation: surely they (would have) eaten
     transliteration: la-akalū
   12:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   13:
@@ -59,7 +59,7 @@ word_by_word:
     translation: above them
     transliteration: fawqihim
   14:
-    arabic: وَمِنۡ
+    arabic: وَمِن
     translation: and from
     transliteration: wamin
   15:
@@ -67,23 +67,23 @@ word_by_word:
     translation: beneath
     transliteration: taḥti
   16:
-    arabic: اَرۡجُلِهِمۡ​ؕ
+    arabic: أَرۡجُلِهِمۚ
     translation: their feet
     transliteration: arjulihim
   17:
-    arabic: مِنۡهُمۡ
+    arabic: مِّنۡهُمۡ
     translation: Among them
     transliteration: min'hum
   18:
-    arabic: اُمَّةٌ
+    arabic: أُمَّةٞ
     translation: (is) a community
     transliteration: ummatun
   19:
-    arabic: مُّقۡتَصِدَةٌ​  ؕ
+    arabic: مُّقۡتَصِدَةٞۖ
     translation: moderate
     transliteration: muq'taṣidatun
   20:
-    arabic: وَكَثِيۡرٌ
+    arabic: وَكَثِيرٞ
     translation: but many
     transliteration: wakathīrun
   21:
@@ -99,7 +99,7 @@ word_by_word:
     translation: (is) what
     transliteration: mā
   24:
-    arabic: يَعۡمَلُوۡنَ‏
+    arabic: يَعۡمَلُونَ
     translation: they do
     transliteration: yaʿmalūna
 ---

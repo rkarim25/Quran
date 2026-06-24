@@ -1,14 +1,14 @@
 ---
-arabic_ayat: اِلَيۡهِ يُرَدُّ عِلۡمُ السَّاعَةِ​ؕ وَمَا تَخۡرُجُ مِنۡ ثَمَرٰتٍ مِّنۡ
-  اَكۡمَامِهَا وَمَا تَحۡمِلُ مِنۡ اُنۡثٰى وَلَا تَضَعُ اِلَّا بِعِلۡمِهٖ​ؕ وَيَوۡمَ
-  يُنَادِيۡهِمۡ اَيۡنَ شُرَكَآءِىۡۙ قَالُـوۡۤا اٰذَنّٰكَۙ مَا مِنَّا مِنۡ شَهِيۡدٍ​ۚ‏
+arabic_ayat: ۞ إِلَيۡهِ يُرَدُّ عِلۡمُ ٱلسَّاعَةِۚ وَمَا تَخۡرُجُ مِن ثَمَرَٰتٖ مِّنۡ
+  أَكۡمَامِهَا وَمَا تَحۡمِلُ مِنۡ أُنثَىٰ وَلَا تَضَعُ إِلَّا بِعِلۡمِهِۦۚ وَيَوۡمَ
+  يُنَادِيهِمۡ أَيۡنَ شُرَكَآءِي قَالُوٓاْ ءَاذَنَّٰكَ مَا مِنَّا مِن شَهِيدٖ
 sentence_translation: With Him ˹alone˺ is the knowledge of the Hour. No fruit comes
   out of its husk, nor does a female conceive or deliver without His knowledge. And
   ˹consider˺ the Day He will call to them, “Where are My ˹so-called˺ associate-gods?”
   They will cry, “We declare before you that none of us testifies to that ˹any longer˺.”
 word_by_word:
   1:
-    arabic: ۞ اِلَيۡهِ
+    arabic: ۞ إِلَيۡهِ
     translation: To Him
     transliteration: ilayhi
   2:
@@ -20,7 +20,7 @@ word_by_word:
     translation: (the) knowledge
     transliteration: ʿil'mu
   4:
-    arabic: السَّاعَةِ​ؕ
+    arabic: ٱلسَّاعَةِۚ
     translation: (of) the Hour
     transliteration: l-sāʿati
   5:
@@ -32,11 +32,11 @@ word_by_word:
     translation: comes out
     transliteration: takhruju
   7:
-    arabic: مِنۡ
+    arabic: مِن
     translation: any
     transliteration: min
   8:
-    arabic: ثَمَرٰتٍ
+    arabic: ثَمَرَٰتٖ
     translation: fruits
     transliteration: thamarātin
   9:
@@ -44,7 +44,7 @@ word_by_word:
     translation: from
     transliteration: min
   10:
-    arabic: اَكۡمَامِهَا
+    arabic: أَكۡمَامِهَا
     translation: their coverings
     transliteration: akmāmihā
   11:
@@ -60,7 +60,7 @@ word_by_word:
     translation: any
     transliteration: min
   14:
-    arabic: اُنۡثٰى
+    arabic: أُنثَىٰ
     translation: female
     transliteration: unthā
   15:
@@ -72,11 +72,11 @@ word_by_word:
     translation: gives birth
     transliteration: taḍaʿu
   17:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   18:
-    arabic: بِعِلۡمِهٖ​ؕ
+    arabic: بِعِلۡمِهِۦۚ
     translation: with His knowledge
     transliteration: biʿil'mihi
   19:
@@ -84,23 +84,23 @@ word_by_word:
     translation: And (the) Day
     transliteration: wayawma
   20:
-    arabic: يُنَادِيۡهِمۡ
+    arabic: يُنَادِيهِمۡ
     translation: He will call them
     transliteration: yunādīhim
   21:
-    arabic: اَيۡنَ
+    arabic: أَيۡنَ
     translation: Where (are)
     transliteration: ayna
   22:
-    arabic: شُرَكَآءِىۡۙ
+    arabic: شُرَكَآءِي
     translation: My partners
     transliteration: shurakāī
   23:
-    arabic: قَالُـوۡۤا
+    arabic: قَالُوٓاْ ءَ
     translation: They will say
     transliteration: qālū
   24:
-    arabic: اٰذَنّٰكَۙ
+    arabic: اذَنَّٰكَ
     translation: We announce (to) You
     transliteration: ādhannāka
   25:
@@ -112,11 +112,11 @@ word_by_word:
     translation: among us
     transliteration: minnā
   27:
-    arabic: مِنۡ
+    arabic: مِن
     translation: any
     transliteration: min
   28:
-    arabic: شَهِيۡدٍ​ۚ‏
+    arabic: شَهِيدٖ
     translation: witness
     transliteration: shahīdin
 ---

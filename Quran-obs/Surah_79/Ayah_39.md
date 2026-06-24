@@ -1,21 +1,21 @@
 ---
-arabic_ayat: فَاِنَّ الۡجَحِيۡمَ هِىَ الۡمَاۡوٰىؕ‏
+arabic_ayat: فَإِنَّ ٱلۡجَحِيمَ هِيَ ٱلۡمَأۡوَىٰ
 sentence_translation: the Hellfire will certainly be ˹their˺ home.
 word_by_word:
   1:
-    arabic: فَاِنَّ
+    arabic: فَإِنَّ
     translation: Then indeed
     transliteration: fa-inna
   2:
-    arabic: الۡجَحِيۡمَ
+    arabic: ٱلۡجَحِيمَ
     translation: the Hellfire
     transliteration: l-jaḥīma
   3:
-    arabic: هِىَ
+    arabic: هِيَ
     translation: it
     transliteration: hiya
   4:
-    arabic: الۡمَاۡوٰىؕ‏
+    arabic: ٱلۡمَأۡوَىٰ
     translation: (is) the refuge
     transliteration: l-mawā
 ---

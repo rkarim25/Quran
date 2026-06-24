@@ -1,15 +1,15 @@
 ---
-arabic_ayat: فَاَتَتۡ بِهٖ قَوۡمَهَا تَحۡمِلُهٗ​ؕ قَالُوۡا يٰمَرۡيَمُ لَقَدۡ جِئۡتِ
-  شَيۡـًٔـا فَرِيًّا‏
+arabic_ayat: فَأَتَتۡ بِهِۦ قَوۡمَهَا تَحۡمِلُهُۥۖ قَالُواْ يَٰمَرۡيَمُ لَقَدۡ جِئۡتِ
+  شَيۡـٔٗا فَرِيّٗا
 sentence_translation: Then she returned to her people, carrying him. They said ˹in
   shock˺, “O Mary! You have certainly done a horrible thing!
 word_by_word:
   1:
-    arabic: فَاَتَتۡ
+    arabic: فَأَتَتۡ
     translation: Then she came
     transliteration: fa-atat
   2:
-    arabic: بِهٖ
+    arabic: بِهِۦ
     translation: with him
     transliteration: bihi
   3:
@@ -17,15 +17,15 @@ word_by_word:
     translation: (to) her people
     transliteration: qawmahā
   4:
-    arabic: تَحۡمِلُهٗ​ؕ
+    arabic: تَحۡمِلُهُۥۖ
     translation: carrying him
     transliteration: taḥmiluhu
   5:
-    arabic: قَالُوۡا
+    arabic: قَالُواْ
     translation: They said
     transliteration: qālū
   6:
-    arabic: يٰمَرۡيَمُ
+    arabic: يَٰمَرۡيَمُ
     translation: O Maryam
     transliteration: yāmaryamu
   7:
@@ -37,11 +37,11 @@ word_by_word:
     translation: you (have) brought
     transliteration: ji'ti
   9:
-    arabic: شَيۡـًٔـا
+    arabic: شَيۡـٔٗا
     translation: an amazing thing
     transliteration: shayan
   10:
-    arabic: فَرِيًّا‏
+    arabic: فَرِيّٗا
     translation: an amazing thing
     transliteration: fariyyan
 ---

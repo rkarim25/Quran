@@ -1,10 +1,10 @@
 ---
-arabic_ayat: اِلٰى فِرۡعَوۡنَ وَ هَامٰنَ وَقَارُوۡنَ فَقَالُوۡا سٰحِرٌ كَذَّابٌ‏
+arabic_ayat: إِلَىٰ فِرۡعَوۡنَ وَهَٰمَٰنَ وَقَٰرُونَ فَقَالُواْ سَٰحِرٞ كَذَّابٞ
 sentence_translation: 'to Pharaoh, Hamân, and Korah. But they responded: “Magician!
   Total liar!”'
 word_by_word:
   1:
-    arabic: اِلٰى
+    arabic: إِلَىٰ
     translation: To
     transliteration: ilā
   2:
@@ -12,23 +12,23 @@ word_by_word:
     translation: Firaun
     transliteration: fir'ʿawna
   3:
-    arabic: وَ هَامٰنَ
+    arabic: وَهَٰمَٰنَ
     translation: Haman
     transliteration: wahāmāna
   4:
-    arabic: وَقَارُوۡنَ
+    arabic: وَقَٰرُونَ
     translation: and Qarun
     transliteration: waqārūna
   5:
-    arabic: فَقَالُوۡا
+    arabic: فَقَالُواْ
     translation: but they said
     transliteration: faqālū
   6:
-    arabic: سٰحِرٌ
+    arabic: سَٰحِرٞ
     translation: A magician
     transliteration: sāḥirun
   7:
-    arabic: كَذَّابٌ‏
+    arabic: كَذَّابٞ
     translation: a liar
     transliteration: kadhābun
 ---

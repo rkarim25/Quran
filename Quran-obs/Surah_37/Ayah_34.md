@@ -1,13 +1,13 @@
 ---
-arabic_ayat: اِنَّا كَذٰلِكَ نَفۡعَلُ بِالۡمُجۡرِمِيۡنَ‏
+arabic_ayat: إِنَّا كَذَٰلِكَ نَفۡعَلُ بِٱلۡمُجۡرِمِينَ
 sentence_translation: That is certainly how We deal with the wicked.
 word_by_word:
   1:
-    arabic: اِنَّا
+    arabic: إِنَّا
     translation: Indeed, We
     transliteration: innā
   2:
-    arabic: كَذٰلِكَ
+    arabic: كَذَٰلِكَ
     translation: thus
     transliteration: kadhālika
   3:
@@ -15,7 +15,7 @@ word_by_word:
     translation: We deal
     transliteration: nafʿalu
   4:
-    arabic: بِالۡمُجۡرِمِيۡنَ‏
+    arabic: بِٱلۡمُجۡرِمِينَ
     translation: with the criminals
     transliteration: bil-muj'rimīna
 ---

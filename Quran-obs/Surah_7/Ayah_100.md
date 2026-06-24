@@ -1,13 +1,13 @@
 ---
-arabic_ayat: اَوَلَمۡ يَهۡدِ لِلَّذِيۡنَ يَرِثُوۡنَ الۡاَرۡضَ مِنۡۢ بَعۡدِ اَهۡلِهَاۤ
-  اَنۡ لَّوۡ نَشَآءُ اَصَبۡنٰهُمۡ بِذُنُوۡبِهِمۡ​ ۚ وَنَطۡبَعُ عَلٰى قُلُوۡبِهِمۡ
-  فَهُمۡ لَا يَسۡمَعُوۡنَ‏
+arabic_ayat: أَوَلَمۡ يَهۡدِ لِلَّذِينَ يَرِثُونَ ٱلۡأَرۡضَ مِنۢ بَعۡدِ أَهۡلِهَآ
+  أَن لَّوۡ نَشَآءُ أَصَبۡنَٰهُم بِذُنُوبِهِمۡۚ وَنَطۡبَعُ عَلَىٰ قُلُوبِهِمۡ فَهُمۡ
+  لَا يَسۡمَعُونَ
 sentence_translation: Is it not clear to those who take over the land after ˹the destruction
   of˺ its former residents that—if We will—We can punish them ˹too˺ for their sins
   and seal their hearts so they will not hear ˹the truth˺?
 word_by_word:
   1:
-    arabic: اَوَلَمۡ
+    arabic: أَوَلَمۡ
     translation: Would it not
     transliteration: awalam
   2:
@@ -15,19 +15,19 @@ word_by_word:
     translation: guide
     transliteration: yahdi
   3:
-    arabic: لِلَّذِيۡنَ
+    arabic: لِلَّذِينَ
     translation: '[for] those who'
     transliteration: lilladhīna
   4:
-    arabic: يَرِثُوۡنَ
+    arabic: يَرِثُونَ
     translation: inherit
     transliteration: yarithūna
   5:
-    arabic: الۡاَرۡضَ
+    arabic: ٱلۡأَرۡضَ
     translation: the land
     transliteration: l-arḍa
   6:
-    arabic: مِنۡۢ
+    arabic: مِنۢ
     translation: from
     transliteration: min
   7:
@@ -35,11 +35,11 @@ word_by_word:
     translation: after
     transliteration: baʿdi
   8:
-    arabic: اَهۡلِهَاۤ
+    arabic: أَهۡلِهَآ
     translation: its people
     transliteration: ahlihā
   9:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that
     transliteration: an
   10:
@@ -51,11 +51,11 @@ word_by_word:
     translation: We willed
     transliteration: nashāu
   12:
-    arabic: اَصَبۡنٰهُمۡ
+    arabic: أَصَبۡنَٰهُم
     translation: We (could) afflict them
     transliteration: aṣabnāhum
   13:
-    arabic: بِذُنُوۡبِهِمۡ​ ۚ
+    arabic: بِذُنُوبِهِمۡۚ
     translation: for their sins
     transliteration: bidhunūbihim
   14:
@@ -63,11 +63,11 @@ word_by_word:
     translation: and We put a seal
     transliteration: wanaṭbaʿu
   15:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: over
     transliteration: ʿalā
   16:
-    arabic: قُلُوۡبِهِمۡ
+    arabic: قُلُوبِهِمۡ
     translation: their hearts
     transliteration: qulūbihim
   17:
@@ -79,7 +79,7 @@ word_by_word:
     translation: (do) not
     transliteration: lā
   19:
-    arabic: يَسۡمَعُوۡنَ‏
+    arabic: يَسۡمَعُونَ
     translation: hear
     transliteration: yasmaʿūna
 ---

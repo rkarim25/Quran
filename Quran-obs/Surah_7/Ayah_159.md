@@ -1,11 +1,10 @@
 ---
-arabic_ayat: "وَ مِنۡ قَوۡمِ مُوۡسٰٓى اُمَّةٌ يَّهۡدُوۡنَ بِالۡحَـقِّ وَبِهٖ يَعۡدِلُوۡنَ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: وَمِن قَوۡمِ مُوسَىٰٓ أُمَّةٞ يَهۡدُونَ بِٱلۡحَقِّ وَبِهِۦ يَعۡدِلُونَ
 sentence_translation: There are some among the people of Moses who guide with the
   truth and establish justice accordingly.
 word_by_word:
   1:
-    arabic: وَ مِنۡ
+    arabic: وَمِن
     translation: And among
     transliteration: wamin
   2:
@@ -13,27 +12,27 @@ word_by_word:
     translation: (the) people
     transliteration: qawmi
   3:
-    arabic: مُوۡسٰٓى
+    arabic: مُوسَىٰٓ
     translation: (of) Musa
     transliteration: mūsā
   4:
-    arabic: اُمَّةٌ
+    arabic: أُمَّةٞ
     translation: (is) a community
     transliteration: ummatun
   5:
-    arabic: يَّهۡدُوۡنَ
+    arabic: يَهۡدُونَ
     translation: (which) guides
     transliteration: yahdūna
   6:
-    arabic: بِالۡحَـقِّ
+    arabic: بِٱلۡحَقِّ
     translation: with truth
     transliteration: bil-ḥaqi
   7:
-    arabic: وَبِهٖ
+    arabic: وَبِهِۦ
     translation: and by it
     transliteration: wabihi
   8:
-    arabic: "يَعۡدِلُوۡنَ‏ \uFEFF\uFEFF"
+    arabic: يَعۡدِلُونَ
     translation: establishes justice
     transliteration: yaʿdilūna
 ---

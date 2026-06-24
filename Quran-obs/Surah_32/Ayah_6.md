@@ -1,30 +1,30 @@
 ---
-arabic_ayat: ذٰلِكَ عٰلِمُ الۡغَيۡبِ وَالشَّهَادَةِ الۡعَزِيۡزُ الرَّحِيۡمُۙ‏
+arabic_ayat: ذَٰلِكَ عَٰلِمُ ٱلۡغَيۡبِ وَٱلشَّهَٰدَةِ ٱلۡعَزِيزُ ٱلرَّحِيمُ
 sentence_translation: That is the Knower of the seen and unseen—the Almighty, Most
   Merciful,
 word_by_word:
   1:
-    arabic: ذٰلِكَ
+    arabic: ذَٰلِكَ
     translation: That
     transliteration: dhālika
   2:
-    arabic: عٰلِمُ
+    arabic: عَٰلِمُ
     translation: (is the) Knower
     transliteration: ʿālimu
   3:
-    arabic: الۡغَيۡبِ
+    arabic: ٱلۡغَيۡبِ
     translation: (of) the hidden
     transliteration: l-ghaybi
   4:
-    arabic: وَالشَّهَادَةِ
+    arabic: وَٱلشَّهَٰدَةِ
     translation: and the witnessed
     transliteration: wal-shahādati
   5:
-    arabic: الۡعَزِيۡزُ
+    arabic: ٱلۡعَزِيزُ
     translation: the All-Mighty
     transliteration: l-ʿazīzu
   6:
-    arabic: الرَّحِيۡمُۙ‏
+    arabic: ٱلرَّحِيمُ
     translation: the Most Merciful
     transliteration: l-raḥīmu
 ---

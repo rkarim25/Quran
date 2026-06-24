@@ -1,13 +1,13 @@
 ---
-arabic_ayat: فَالۡمُلۡقِيٰتِ ذِكۡرًا ۙ‏
+arabic_ayat: فَٱلۡمُلۡقِيَٰتِ ذِكۡرًا
 sentence_translation: and those delivering revelation,
 word_by_word:
   1:
-    arabic: فَالۡمُلۡقِيٰتِ
+    arabic: فَٱلۡمُلۡقِيَٰتِ
     translation: And those who bring down
     transliteration: fal-mul'qiyāti
   2:
-    arabic: ذِكۡرًا ۙ‏
+    arabic: ذِكۡرًا
     translation: (the) Reminder
     transliteration: dhik'ran
 ---

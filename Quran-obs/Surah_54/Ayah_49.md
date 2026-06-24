@@ -1,9 +1,9 @@
 ---
-arabic_ayat: اِنَّا كُلَّ شَىۡءٍ خَلَقۡنٰهُ بِقَدَرٍ‏
+arabic_ayat: إِنَّا كُلَّ شَيۡءٍ خَلَقۡنَٰهُ بِقَدَرٖ
 sentence_translation: Indeed, We have created everything, perfectly preordained.
 word_by_word:
   1:
-    arabic: اِنَّا
+    arabic: إِنَّا
     translation: Indeed, [We]
     transliteration: innā
   2:
@@ -11,15 +11,15 @@ word_by_word:
     translation: every
     transliteration: kulla
   3:
-    arabic: شَىۡءٍ
+    arabic: شَيۡءٍ
     translation: thing
     transliteration: shayin
   4:
-    arabic: خَلَقۡنٰهُ
+    arabic: خَلَقۡنَٰهُ
     translation: We created it
     transliteration: khalaqnāhu
   5:
-    arabic: بِقَدَرٍ‏
+    arabic: بِقَدَرٖ
     translation: by a measure
     transliteration: biqadarin
 ---

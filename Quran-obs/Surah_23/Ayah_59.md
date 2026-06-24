@@ -1,13 +1,13 @@
 ---
-arabic_ayat: وَالَّذِيۡنَ هُمۡ بِرَبِّهِمۡ لَا يُشۡرِكُوۡنَۙ‏
+arabic_ayat: وَٱلَّذِينَ هُم بِرَبِّهِمۡ لَا يُشۡرِكُونَ
 sentence_translation: and who associate none with their Lord,
 word_by_word:
   1:
-    arabic: وَالَّذِيۡنَ
+    arabic: وَٱلَّذِينَ
     translation: And those
     transliteration: wa-alladhīna
   2:
-    arabic: هُمۡ
+    arabic: هُم
     translation: '[they]'
     transliteration: hum
   3:
@@ -19,7 +19,7 @@ word_by_word:
     translation: (do) not
     transliteration: lā
   5:
-    arabic: يُشۡرِكُوۡنَۙ‏
+    arabic: يُشۡرِكُونَ
     translation: associate partners
     transliteration: yush'rikūna
 ---

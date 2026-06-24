@@ -1,14 +1,14 @@
 ---
-arabic_ayat: لَا يَحِلُّ لَـكَ النِّسَآءُ مِنۡۢ بَعۡدُ وَلَاۤ اَنۡ تَبَدَّلَ بِهِنَّ
-  مِنۡ اَزۡوَاجٍ وَّلَوۡ اَعۡجَبَكَ حُسۡنُهُنَّ اِلَّا مَا مَلَـكَتۡ يَمِيۡنُكَ​ؕ
-  وَكَانَ اللّٰهُ عَلٰى كُلِّ شَىۡءٍ رَّقِيۡبًا‏
+arabic_ayat: لَّا يَحِلُّ لَكَ ٱلنِّسَآءُ مِنۢ بَعۡدُ وَلَآ أَن تَبَدَّلَ بِهِنَّ
+  مِنۡ أَزۡوَٰجٖ وَلَوۡ أَعۡجَبَكَ حُسۡنُهُنَّ إِلَّا مَا مَلَكَتۡ يَمِينُكَۗ وَكَانَ
+  ٱللَّهُ عَلَىٰ كُلِّ شَيۡءٖ رَّقِيبٗا
 sentence_translation: It is not lawful for you ˹O Prophet˺ to marry more women after
   this, nor can you replace any of your present wives with another, even if her beauty
   may attract you—except those ˹bondwomen˺ in your possession. And Allah is ever Watchful
   over all things.
 word_by_word:
   1:
-    arabic: لَا
+    arabic: لَّا
     translation: (It is) not
     transliteration: lā
   2:
@@ -16,15 +16,15 @@ word_by_word:
     translation: lawful
     transliteration: yaḥillu
   3:
-    arabic: لَـكَ
+    arabic: لَكَ
     translation: for you
     transliteration: laka
   4:
-    arabic: النِّسَآءُ
+    arabic: ٱلنِّسَآءُ
     translation: (to marry) women
     transliteration: l-nisāu
   5:
-    arabic: مِنۡۢ
+    arabic: مِنۢ
     translation: after (this)
     transliteration: min
   6:
@@ -32,11 +32,11 @@ word_by_word:
     translation: after (this)
     transliteration: baʿdu
   7:
-    arabic: وَلَاۤ
+    arabic: وَلَآ
     translation: and not
     transliteration: walā
   8:
-    arabic: اَنۡ
+    arabic: أَن
     translation: to
     transliteration: an
   9:
@@ -52,15 +52,15 @@ word_by_word:
     translation: for
     transliteration: min
   12:
-    arabic: اَزۡوَاجٍ
+    arabic: أَزۡوَٰجٖ
     translation: (other) wives
     transliteration: azwājin
   13:
-    arabic: وَّلَوۡ
+    arabic: وَلَوۡ
     translation: even if
     transliteration: walaw
   14:
-    arabic: اَعۡجَبَكَ
+    arabic: أَعۡجَبَكَ
     translation: pleases you
     transliteration: aʿjabaka
   15:
@@ -68,7 +68,7 @@ word_by_word:
     translation: their beauty
     transliteration: ḥus'nuhunna
   16:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   17:
@@ -76,11 +76,11 @@ word_by_word:
     translation: whom
     transliteration: mā
   18:
-    arabic: مَلَـكَتۡ
+    arabic: مَلَكَتۡ
     translation: you rightfully possess
     transliteration: malakat
   19:
-    arabic: يَمِيۡنُكَ​ؕ
+    arabic: يَمِينُكَۗ
     translation: you rightfully possess
     transliteration: yamīnuka
   20:
@@ -88,11 +88,11 @@ word_by_word:
     translation: And Allah is
     transliteration: wakāna
   21:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: And Allah is
     transliteration: l-lahu
   22:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: over
     transliteration: ʿalā
   23:
@@ -100,11 +100,11 @@ word_by_word:
     translation: all
     transliteration: kulli
   24:
-    arabic: شَىۡءٍ
+    arabic: شَيۡءٖ
     translation: things
     transliteration: shayin
   25:
-    arabic: رَّقِيۡبًا‏
+    arabic: رَّقِيبٗا
     translation: an Observer
     transliteration: raqīban
 ---

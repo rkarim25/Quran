@@ -1,6 +1,6 @@
 ---
-arabic_ayat: "فَغَفَرۡنَا لَهٗ ذٰ لِكَ​ ؕ وَاِنَّ لَهٗ عِنۡدَنَا لَزُلۡفٰى وَحُسۡنَ\
-  \ مَاٰبٍ‏ \uFEFF\uFEFF"
+arabic_ayat: فَغَفَرۡنَا لَهُۥ ذَٰلِكَۖ وَإِنَّ لَهُۥ عِندَنَا لَزُلۡفَىٰ وَحُسۡنَ
+  مَـَٔابٖ
 sentence_translation: So We forgave that for him. And he will indeed have ˹a status
   of˺ closeness to Us and an honourable destination!
 word_by_word:
@@ -9,27 +9,27 @@ word_by_word:
     translation: So We forgave
     transliteration: faghafarnā
   2:
-    arabic: لَهٗ
+    arabic: لَهُۥ
     translation: for him
     transliteration: lahu
   3:
-    arabic: ذٰ لِكَ​ ؕ
+    arabic: ذَٰلِكَۖ
     translation: that
     transliteration: dhālika
   4:
-    arabic: وَاِنَّ
+    arabic: وَإِنَّ
     translation: And indeed
     transliteration: wa-inna
   5:
-    arabic: لَهٗ
+    arabic: لَهُۥ
     translation: for him
     transliteration: lahu
   6:
-    arabic: عِنۡدَنَا
+    arabic: عِندَنَا
     translation: with Us
     transliteration: ʿindanā
   7:
-    arabic: لَزُلۡفٰى
+    arabic: لَزُلۡفَىٰ
     translation: surely is a near access
     transliteration: lazul'fā
   8:
@@ -37,7 +37,7 @@ word_by_word:
     translation: and a good
     transliteration: waḥus'na
   9:
-    arabic: "مَاٰبٍ‏ \uFEFF\uFEFF"
+    arabic: مَـَٔابٖ
     translation: place of return
     transliteration: maābin
 ---

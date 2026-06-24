@@ -1,6 +1,6 @@
 ---
-arabic_ayat: وَيَوۡمَ يَقُوۡلُ نَادُوۡا شُرَكَآءِىَ الَّذِيۡنَ زَعَمۡتُمۡ فَدَعَوۡهُمۡ
-  فَلَمۡ يَسۡتَجِيۡبُوۡا لَهُمۡ وَجَعَلۡنَا بَيۡنَهُمۡ مَّوۡبِقًا‏
+arabic_ayat: وَيَوۡمَ يَقُولُ نَادُواْ شُرَكَآءِيَ ٱلَّذِينَ زَعَمۡتُمۡ فَدَعَوۡهُمۡ
+  فَلَمۡ يَسۡتَجِيبُواْ لَهُمۡ وَجَعَلۡنَا بَيۡنَهُم مَّوۡبِقٗا
 sentence_translation: And ˹beware of˺ the Day He will say, “Call upon those you claimed
   were My associate-gods.” So they will call them, but will receive no response. And
   We will make them ˹all˺ share in the same doom.
@@ -10,19 +10,19 @@ word_by_word:
     translation: And the Day
     transliteration: wayawma
   2:
-    arabic: يَقُوۡلُ
+    arabic: يَقُولُ
     translation: He will say
     transliteration: yaqūlu
   3:
-    arabic: نَادُوۡا
+    arabic: نَادُواْ
     translation: Call
     transliteration: nādū
   4:
-    arabic: شُرَكَآءِىَ
+    arabic: شُرَكَآءِيَ
     translation: My partners
     transliteration: shurakāiya
   5:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   6:
@@ -38,7 +38,7 @@ word_by_word:
     translation: but not
     transliteration: falam
   9:
-    arabic: يَسۡتَجِيۡبُوۡا
+    arabic: يَسۡتَجِيبُواْ
     translation: they will respond
     transliteration: yastajībū
   10:
@@ -50,11 +50,11 @@ word_by_word:
     translation: And We will make
     transliteration: wajaʿalnā
   12:
-    arabic: بَيۡنَهُمۡ
+    arabic: بَيۡنَهُم
     translation: between them
     transliteration: baynahum
   13:
-    arabic: مَّوۡبِقًا‏
+    arabic: مَّوۡبِقٗا
     translation: a barrier
     transliteration: mawbiqan
 ---

@@ -1,29 +1,29 @@
 ---
-arabic_ayat: قَالُوۡا اتَّخَذَ اللّٰهُ وَلَدًا​ سُبۡحٰنَهٗ​ ؕ هُوَ الۡـغَنِىُّ​ ؕ
-  لَهٗ مَا فِى السَّمٰوٰتِ وَمَا فِى الۡاَرۡضِ ​ؕ اِنۡ عِنۡدَكُمۡ مِّنۡ سُلۡطٰنٍۢ
-  بِهٰذَا ؕ اَتَقُوۡلُوۡنَ عَلَى اللّٰهِ مَا لَا تَعۡلَمُوۡنَ‏
+arabic_ayat: قَالُواْ ٱتَّخَذَ ٱللَّهُ وَلَدٗاۗ سُبۡحَٰنَهُۥۖ هُوَ ٱلۡغَنِيُّۖ لَهُۥ
+  مَا فِي ٱلسَّمَٰوَٰتِ وَمَا فِي ٱلۡأَرۡضِۚ إِنۡ عِندَكُم مِّن سُلۡطَٰنِۭ بِهَٰذَآۚ
+  أَتَقُولُونَ عَلَى ٱللَّهِ مَا لَا تَعۡلَمُونَ
 sentence_translation: They say, “Allah has offspring.” Glory be to Him! He is the
   Self-Sufficient. To Him belongs whatever is in the heavens and whatever is on the
   earth. You have no proof of this! Do you say about Allah what you do not know?
 word_by_word:
   1:
-    arabic: قَالُوۡا
+    arabic: قَالُواْ
     translation: They say
     transliteration: qālū
   2:
-    arabic: اتَّخَذَ
+    arabic: ٱتَّخَذَ
     translation: Allah has taken
     transliteration: ittakhadha
   3:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah has taken
     transliteration: l-lahu
   4:
-    arabic: وَلَدًا​
+    arabic: وَلَدٗاۗ
     translation: a son
     transliteration: waladan
   5:
-    arabic: سُبۡحٰنَهٗ​ ؕ
+    arabic: سُبۡحَٰنَهُۥۖ
     translation: Glory be to Him
     transliteration: sub'ḥānahu
   6:
@@ -31,11 +31,11 @@ word_by_word:
     translation: He
     transliteration: huwa
   7:
-    arabic: الۡـغَنِىُّ​ ؕ
+    arabic: ٱلۡغَنِيُّۖ
     translation: (is) the Self-sufficient
     transliteration: l-ghaniyu
   8:
-    arabic: لَهٗ
+    arabic: لَهُۥ
     translation: To Him (belongs)
     transliteration: lahu
   9:
@@ -43,11 +43,11 @@ word_by_word:
     translation: whatever
     transliteration: mā
   10:
-    arabic: فِى
+    arabic: فِي
     translation: (is) in
     transliteration: fī
   11:
-    arabic: السَّمٰوٰتِ
+    arabic: ٱلسَّمَٰوَٰتِ
     translation: the heavens
     transliteration: l-samāwāti
   12:
@@ -55,35 +55,35 @@ word_by_word:
     translation: and whatever
     transliteration: wamā
   13:
-    arabic: فِى
+    arabic: فِي
     translation: (is) in
     transliteration: fī
   14:
-    arabic: الۡاَرۡضِ ​ؕ
+    arabic: ٱلۡأَرۡضِۚ
     translation: the earth
     transliteration: l-arḍi
   15:
-    arabic: اِنۡ
+    arabic: إِنۡ
     translation: Not
     transliteration: in
   16:
-    arabic: عِنۡدَكُمۡ
+    arabic: عِندَكُم
     translation: you have
     transliteration: ʿindakum
   17:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: any
     transliteration: min
   18:
-    arabic: سُلۡطٰنٍۢ
+    arabic: سُلۡطَٰنِۭ
     translation: authority
     transliteration: sul'ṭānin
   19:
-    arabic: بِهٰذَا ؕ
+    arabic: بِهَٰذَآۚ
     translation: for this
     transliteration: bihādhā
   20:
-    arabic: اَتَقُوۡلُوۡنَ
+    arabic: أَتَقُولُونَ
     translation: Do you say
     transliteration: ataqūlūna
   21:
@@ -91,7 +91,7 @@ word_by_word:
     translation: about
     transliteration: ʿalā
   22:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   23:
@@ -103,7 +103,7 @@ word_by_word:
     translation: not
     transliteration: lā
   25:
-    arabic: تَعۡلَمُوۡنَ‏
+    arabic: تَعۡلَمُونَ
     translation: you know
     transliteration: taʿlamūna
 ---

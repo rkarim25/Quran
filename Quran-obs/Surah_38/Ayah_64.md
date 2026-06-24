@@ -1,18 +1,18 @@
 ---
-arabic_ayat: اِنَّ ذٰ لِكَ لَحَقّ ٌ تَخَاصُمُ اَهۡلِ النَّارِ‏
+arabic_ayat: إِنَّ ذَٰلِكَ لَحَقّٞ تَخَاصُمُ أَهۡلِ ٱلنَّارِ
 sentence_translation: This dispute between the residents of the Fire will certainly
   come to pass.
 word_by_word:
   1:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   2:
-    arabic: ذٰ لِكَ
+    arabic: ذَٰلِكَ
     translation: that
     transliteration: dhālika
   3:
-    arabic: لَحَقّ ٌ
+    arabic: لَحَقّٞ
     translation: '(is) surely (the) truth '
     transliteration: laḥaqqun
   4:
@@ -20,11 +20,11 @@ word_by_word:
     translation: (the) quarreling
     transliteration: takhāṣumu
   5:
-    arabic: اَهۡلِ
+    arabic: أَهۡلِ
     translation: (of the) people
     transliteration: ahli
   6:
-    arabic: النَّارِ‏
+    arabic: ٱلنَّارِ
     translation: (of) the Fire
     transliteration: l-nāri
 ---

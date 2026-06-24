@@ -1,7 +1,7 @@
 ---
-arabic_ayat: قَالَ اِنَّهٗ يَقُوۡلُ اِنَّهَا بَقَرَةٌ لَّا ذَلُوۡلٌ تُثِيۡرُ الۡاَرۡضَ
-  وَلَا تَسۡقِى الۡحَـرۡثَ ​ۚ مُسَلَّمَةٌ لَّا شِيَةَ فِيۡهَا ​ؕ قَالُوا الۡـٰٔـنَ
-  جِئۡتَ بِالۡحَـقِّ​ؕ فَذَبَحُوۡهَا وَمَا كَادُوۡا يَفۡعَلُوۡنَ‏
+arabic_ayat: قَالَ إِنَّهُۥ يَقُولُ إِنَّهَا بَقَرَةٞ لَّا ذَلُولٞ تُثِيرُ ٱلۡأَرۡضَ
+  وَلَا تَسۡقِي ٱلۡحَرۡثَ مُسَلَّمَةٞ لَّا شِيَةَ فِيهَاۚ قَالُواْ ٱلۡـَٰٔنَ جِئۡتَ
+  بِٱلۡحَقِّۚ فَذَبَحُوهَا وَمَا كَادُواْ يَفۡعَلُونَ
 sentence_translation: He replied, “Allah says, ‘It should have been used neither to
   till the soil nor water the fields; wholesome and without blemish.’” They said,
   “Now you have come with the truth.” Yet they still slaughtered it hesitantly!
@@ -11,19 +11,19 @@ word_by_word:
     translation: He said
     transliteration: qāla
   2:
-    arabic: اِنَّهٗ
+    arabic: إِنَّهُۥ
     translation: Indeed, He
     transliteration: innahu
   3:
-    arabic: يَقُوۡلُ
+    arabic: يَقُولُ
     translation: says
     transliteration: yaqūlu
   4:
-    arabic: اِنَّهَا
+    arabic: إِنَّهَا
     translation: '[Indeed] it'
     transliteration: innahā
   5:
-    arabic: بَقَرَةٌ
+    arabic: بَقَرَةٞ
     translation: (is) a cow
     transliteration: baqaratun
   6:
@@ -31,15 +31,15 @@ word_by_word:
     translation: not
     transliteration: lā
   7:
-    arabic: ذَلُوۡلٌ
+    arabic: ذَلُولٞ
     translation: trained
     transliteration: dhalūlun
   8:
-    arabic: تُثِيۡرُ
+    arabic: تُثِيرُ
     translation: to plough
     transliteration: tuthīru
   9:
-    arabic: الۡاَرۡضَ
+    arabic: ٱلۡأَرۡضَ
     translation: the earth
     transliteration: l-arḍa
   10:
@@ -47,15 +47,15 @@ word_by_word:
     translation: and not
     transliteration: walā
   11:
-    arabic: تَسۡقِى
+    arabic: تَسۡقِي
     translation: water
     transliteration: tasqī
   12:
-    arabic: الۡحَـرۡثَ ​ۚ
+    arabic: ٱلۡحَرۡثَ
     translation: the field
     transliteration: l-ḥartha
   13:
-    arabic: مُسَلَّمَةٌ
+    arabic: مُسَلَّمَةٞ
     translation: sound
     transliteration: musallamatun
   14:
@@ -67,15 +67,15 @@ word_by_word:
     translation: blemish
     transliteration: shiyata
   16:
-    arabic: فِيۡهَا ​ؕ
+    arabic: فِيهَاۚ
     translation: in it
     transliteration: fīhā
   17:
-    arabic: قَالُوا
+    arabic: قَالُواْ
     translation: They said
     transliteration: qālū
   18:
-    arabic: الۡـٰٔـنَ
+    arabic: ٱلۡـَٰٔنَ
     translation: Now
     transliteration: l-āna
   19:
@@ -83,11 +83,11 @@ word_by_word:
     translation: you have come
     transliteration: ji'ta
   20:
-    arabic: بِالۡحَـقِّ​ؕ
+    arabic: بِٱلۡحَقِّۚ
     translation: with the truth
     transliteration: bil-ḥaqi
   21:
-    arabic: فَذَبَحُوۡهَا
+    arabic: فَذَبَحُوهَا
     translation: So they slaughtered it
     transliteration: fadhabaḥūhā
   22:
@@ -95,11 +95,11 @@ word_by_word:
     translation: and not
     transliteration: wamā
   23:
-    arabic: كَادُوۡا
+    arabic: كَادُواْ
     translation: they were near
     transliteration: kādū
   24:
-    arabic: يَفۡعَلُوۡنَ‏
+    arabic: يَفۡعَلُونَ
     translation: (to) doing (it)
     transliteration: yafʿalūna
 ---

@@ -1,6 +1,6 @@
 ---
-arabic_ayat: "وَنُفِخَ فِى الصُّوۡرِ فَاِذَا هُمۡ مِّنَ الۡاَجۡدَاثِ اِلٰى رَبِّهِمۡ\
-  \ يَنۡسِلُوۡنَ‏ \uFEFF\uFEFF"
+arabic_ayat: وَنُفِخَ فِي ٱلصُّورِ فَإِذَا هُم مِّنَ ٱلۡأَجۡدَاثِ إِلَىٰ رَبِّهِمۡ
+  يَنسِلُونَ
 sentence_translation: The Trumpet will be blown ˹a second time˺, then—behold!—they
   will rush from the graves to their Lord.
 word_by_word:
@@ -9,19 +9,19 @@ word_by_word:
     translation: And will be blown
     transliteration: wanufikha
   2:
-    arabic: فِى
+    arabic: فِي
     translation: '[in]'
     transliteration: fī
   3:
-    arabic: الصُّوۡرِ
+    arabic: ٱلصُّورِ
     translation: the trumpet
     transliteration: l-ṣūri
   4:
-    arabic: فَاِذَا
+    arabic: فَإِذَا
     translation: and behold
     transliteration: fa-idhā
   5:
-    arabic: هُمۡ
+    arabic: هُم
     translation: They
     transliteration: hum
   6:
@@ -29,11 +29,11 @@ word_by_word:
     translation: from
     transliteration: mina
   7:
-    arabic: الۡاَجۡدَاثِ
+    arabic: ٱلۡأَجۡدَاثِ
     translation: the graves
     transliteration: l-ajdāthi
   8:
-    arabic: اِلٰى
+    arabic: إِلَىٰ
     translation: to
     transliteration: ilā
   9:
@@ -41,7 +41,7 @@ word_by_word:
     translation: their Lord
     transliteration: rabbihim
   10:
-    arabic: "يَنۡسِلُوۡنَ‏ \uFEFF\uFEFF"
+    arabic: يَنسِلُونَ
     translation: '[they] will hasten'
     transliteration: yansilūna
 ---

@@ -1,8 +1,8 @@
 ---
-arabic_ayat: ثُمَّ قَسَتۡ قُلُوۡبُكُمۡ مِّنۡۢ بَعۡدِ ذٰلِكَ فَهِىَ كَالۡحِجَارَةِ
-  اَوۡ اَشَدُّ قَسۡوَةً ​ ؕ وَاِنَّ مِنَ الۡحِجَارَةِ لَمَا يَتَفَجَّرُ مِنۡهُ الۡاَنۡهٰرُ​ؕ
-  وَاِنَّ مِنۡهَا لَمَا يَشَّقَّقُ فَيَخۡرُجُ مِنۡهُ الۡمَآءُ​ؕ وَاِنَّ مِنۡهَا لَمَا
-  يَهۡبِطُ مِنۡ خَشۡيَةِ اللّٰهِ​ؕ وَمَا اللّٰهُ بِغَافِلٍ عَمَّا تَعۡمَلُوۡنَ‏
+arabic_ayat: ثُمَّ قَسَتۡ قُلُوبُكُم مِّنۢ بَعۡدِ ذَٰلِكَ فَهِيَ كَٱلۡحِجَارَةِ أَوۡ
+  أَشَدُّ قَسۡوَةٗۚ وَإِنَّ مِنَ ٱلۡحِجَارَةِ لَمَا يَتَفَجَّرُ مِنۡهُ ٱلۡأَنۡهَٰرُۚ
+  وَإِنَّ مِنۡهَا لَمَا يَشَّقَّقُ فَيَخۡرُجُ مِنۡهُ ٱلۡمَآءُۚ وَإِنَّ مِنۡهَا لَمَا
+  يَهۡبِطُ مِنۡ خَشۡيَةِ ٱللَّهِۗ وَمَا ٱللَّهُ بِغَٰفِلٍ عَمَّا تَعۡمَلُونَ
 sentence_translation: Even then your hearts became hardened like a rock or even harder,
   for some rocks gush rivers; others split, spilling water; while others are humbled
   in awe of Allah. And Allah is never unaware of what you do.
@@ -16,11 +16,11 @@ word_by_word:
     translation: hardened
     transliteration: qasat
   3:
-    arabic: قُلُوۡبُكُمۡ
+    arabic: قُلُوبُكُم
     translation: your hearts
     transliteration: qulūbukum
   4:
-    arabic: مِّنۡۢ
+    arabic: مِّنۢ
     translation: from
     transliteration: min
   5:
@@ -28,31 +28,31 @@ word_by_word:
     translation: after
     transliteration: baʿdi
   6:
-    arabic: ذٰلِكَ
+    arabic: ذَٰلِكَ
     translation: that
     transliteration: dhālika
   7:
-    arabic: فَهِىَ
+    arabic: فَهِيَ
     translation: so they
     transliteration: fahiya
   8:
-    arabic: كَالۡحِجَارَةِ
+    arabic: كَٱلۡحِجَارَةِ
     translation: (became) like [the] stones
     transliteration: kal-ḥijārati
   9:
-    arabic: اَوۡ
+    arabic: أَوۡ
     translation: or
     transliteration: aw
   10:
-    arabic: اَشَدُّ
+    arabic: أَشَدُّ
     translation: stronger
     transliteration: ashaddu
   11:
-    arabic: قَسۡوَةً ​ ؕ
+    arabic: قَسۡوَةٗۚ
     translation: (in) hardness
     transliteration: qaswatan
   12:
-    arabic: وَاِنَّ
+    arabic: وَإِنَّ
     translation: And indeed
     transliteration: wa-inna
   13:
@@ -60,7 +60,7 @@ word_by_word:
     translation: from
     transliteration: mina
   14:
-    arabic: الۡحِجَارَةِ
+    arabic: ٱلۡحِجَارَةِ
     translation: the stones
     transliteration: l-ḥijārati
   15:
@@ -76,11 +76,11 @@ word_by_word:
     translation: from it
     transliteration: min'hu
   18:
-    arabic: الۡاَنۡهٰرُ​ؕ
+    arabic: ٱلۡأَنۡهَٰرُۚ
     translation: '[the] rivers'
     transliteration: l-anhāru
   19:
-    arabic: وَاِنَّ
+    arabic: وَإِنَّ
     translation: and indeed
     transliteration: wa-inna
   20:
@@ -104,11 +104,11 @@ word_by_word:
     translation: from it
     transliteration: min'hu
   25:
-    arabic: الۡمَآءُ​ؕ
+    arabic: ٱلۡمَآءُۚ
     translation: '[the] water'
     transliteration: l-māu
   26:
-    arabic: وَاِنَّ
+    arabic: وَإِنَّ
     translation: and indeed
     transliteration: wa-inna
   27:
@@ -132,7 +132,7 @@ word_by_word:
     translation: fear
     transliteration: khashyati
   32:
-    arabic: اللّٰهِ​ؕ
+    arabic: ٱللَّهِۗ
     translation: (of) Allah
     transliteration: l-lahi
   33:
@@ -140,11 +140,11 @@ word_by_word:
     translation: And not
     transliteration: wamā
   34:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: (is) Allah
     transliteration: l-lahu
   35:
-    arabic: بِغَافِلٍ
+    arabic: بِغَٰفِلٍ
     translation: unaware
     transliteration: bighāfilin
   36:
@@ -152,7 +152,7 @@ word_by_word:
     translation: of what
     transliteration: ʿammā
   37:
-    arabic: تَعۡمَلُوۡنَ‏
+    arabic: تَعۡمَلُونَ
     translation: you do
     transliteration: taʿmalūna
 ---

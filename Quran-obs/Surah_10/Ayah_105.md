@@ -1,15 +1,14 @@
 ---
-arabic_ayat: "وَاَنۡ اَقِمۡ وَجۡهَكَ لِلدِّيۡنِ حَنِيۡفًا​ ۚ وَلَا تَكُوۡنَنَّ مِنَ\
-  \ الۡمُشۡرِكِيۡنَ‏ \uFEFF\uFEFF"
+arabic_ayat: وَأَنۡ أَقِمۡ وَجۡهَكَ لِلدِّينِ حَنِيفٗا وَلَا تَكُونَنَّ مِنَ ٱلۡمُشۡرِكِينَ
 sentence_translation: and, ‘Be steadfast in faith in all uprightness, and do not be
   one of the polytheists,’
 word_by_word:
   1:
-    arabic: وَاَنۡ
+    arabic: وَأَنۡ
     translation: And that
     transliteration: wa-an
   2:
-    arabic: اَقِمۡ
+    arabic: أَقِمۡ
     translation: Direct
     transliteration: aqim
   3:
@@ -17,11 +16,11 @@ word_by_word:
     translation: your face
     transliteration: wajhaka
   4:
-    arabic: لِلدِّيۡنِ
+    arabic: لِلدِّينِ
     translation: to the religion
     transliteration: lilddīni
   5:
-    arabic: حَنِيۡفًا​ ۚ
+    arabic: حَنِيفٗا
     translation: upright
     transliteration: ḥanīfan
   6:
@@ -29,7 +28,7 @@ word_by_word:
     translation: and (do) not
     transliteration: walā
   7:
-    arabic: تَكُوۡنَنَّ
+    arabic: تَكُونَنَّ
     translation: be
     transliteration: takūnanna
   8:
@@ -37,7 +36,7 @@ word_by_word:
     translation: of
     transliteration: mina
   9:
-    arabic: "الۡمُشۡرِكِيۡنَ‏ \uFEFF\uFEFF"
+    arabic: ٱلۡمُشۡرِكِينَ
     translation: the polytheists
     transliteration: l-mush'rikīna
 ---

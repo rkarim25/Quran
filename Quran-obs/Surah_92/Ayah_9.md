@@ -1,5 +1,5 @@
 ---
-arabic_ayat: وَكَذَّبَ بِالۡحُسۡنٰىۙ‏
+arabic_ayat: وَكَذَّبَ بِٱلۡحُسۡنَىٰ
 sentence_translation: and ˹staunchly˺ denies the finest reward,
 word_by_word:
   1:
@@ -7,7 +7,7 @@ word_by_word:
     translation: And denies
     transliteration: wakadhaba
   2:
-    arabic: بِالۡحُسۡنٰىۙ‏
+    arabic: بِٱلۡحُسۡنَىٰ
     translation: the best
     transliteration: bil-ḥus'nā
 ---

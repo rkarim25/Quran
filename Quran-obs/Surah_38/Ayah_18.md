@@ -1,11 +1,10 @@
 ---
-arabic_ayat: "اِنَّا سَخَّرۡنَا الۡجِبَالَ مَعَهٗ يُسَبِّحۡنَ بِالۡعَشِىِّ وَالۡاِشۡرَاقِۙ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: إِنَّا سَخَّرۡنَا ٱلۡجِبَالَ مَعَهُۥ يُسَبِّحۡنَ بِٱلۡعَشِيِّ وَٱلۡإِشۡرَاقِ
 sentence_translation: We truly subjected the mountains to hymn ˹Our praises˺ along
   with him in the evening and after sunrise.
 word_by_word:
   1:
-    arabic: اِنَّا
+    arabic: إِنَّا
     translation: Indeed, We
     transliteration: innā
   2:
@@ -13,11 +12,11 @@ word_by_word:
     translation: subjected
     transliteration: sakharnā
   3:
-    arabic: الۡجِبَالَ
+    arabic: ٱلۡجِبَالَ
     translation: the mountains
     transliteration: l-jibāla
   4:
-    arabic: مَعَهٗ
+    arabic: مَعَهُۥ
     translation: with him
     transliteration: maʿahu
   5:
@@ -25,11 +24,11 @@ word_by_word:
     translation: glorifying
     transliteration: yusabbiḥ'na
   6:
-    arabic: بِالۡعَشِىِّ
+    arabic: بِٱلۡعَشِيِّ
     translation: in the evening
     transliteration: bil-ʿashiyi
   7:
-    arabic: "وَالۡاِشۡرَاقِۙ‏ \uFEFF\uFEFF"
+    arabic: وَٱلۡإِشۡرَاقِ
     translation: and [the] sunrise
     transliteration: wal-ish'rāqi
 ---

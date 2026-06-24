@@ -1,6 +1,6 @@
 ---
-arabic_ayat: مَا كَانَ لِلّٰهِ اَنۡ يَّتَّخِذَ مِنۡ وَّلَدٍ​ۙ سُبۡحٰنَهٗ​ؕ اِذَا قَضٰٓى
-  اَمۡرًا فَاِنَّمَا يَقُوۡلُ لَهٗ كُنۡ فَيَكُوۡنُؕ‏
+arabic_ayat: مَا كَانَ لِلَّهِ أَن يَتَّخِذَ مِن وَلَدٖۖ سُبۡحَٰنَهُۥٓۚ إِذَا قَضَىٰٓ
+  أَمۡرٗا فَإِنَّمَا يَقُولُ لَهُۥ كُن فَيَكُونُ
 sentence_translation: It is not for Allah to take a son! Glory be to Him. When He
   decrees a matter, He simply tells it, “Be!” And it is!
 word_by_word:
@@ -13,59 +13,59 @@ word_by_word:
     translation: (it) is
     transliteration: kāna
   3:
-    arabic: لِلّٰهِ
+    arabic: لِلَّهِ
     translation: for Allah
     transliteration: lillahi
   4:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that
     transliteration: an
   5:
-    arabic: يَّتَّخِذَ
+    arabic: يَتَّخِذَ
     translation: He should take
     transliteration: yattakhidha
   6:
-    arabic: مِنۡ
+    arabic: مِن
     translation: any son
     transliteration: min
   7:
-    arabic: وَّلَدٍ​ۙ
+    arabic: وَلَدٖۖ
     translation: any son
     transliteration: waladin
   8:
-    arabic: سُبۡحٰنَهٗ​ؕ
+    arabic: سُبۡحَٰنَهُۥٓۚ
     translation: Glory be to Him
     transliteration: sub'ḥānahu
   9:
-    arabic: اِذَا
+    arabic: إِذَا
     translation: When
     transliteration: idhā
   10:
-    arabic: قَضٰٓى
+    arabic: قَضَىٰٓ
     translation: He decrees
     transliteration: qaḍā
   11:
-    arabic: اَمۡرًا
+    arabic: أَمۡرٗا
     translation: a matter
     transliteration: amran
   12:
-    arabic: فَاِنَّمَا
+    arabic: فَإِنَّمَا
     translation: then only
     transliteration: fa-innamā
   13:
-    arabic: يَقُوۡلُ
+    arabic: يَقُولُ
     translation: He says
     transliteration: yaqūlu
   14:
-    arabic: لَهٗ
+    arabic: لَهُۥ
     translation: to it
     transliteration: lahu
   15:
-    arabic: كُنۡ
+    arabic: كُن
     translation: Be
     transliteration: kun
   16:
-    arabic: فَيَكُوۡنُؕ‏
+    arabic: فَيَكُونُ
     translation: and it is
     transliteration: fayakūnu
 ---

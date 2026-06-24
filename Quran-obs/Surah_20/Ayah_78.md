@@ -1,11 +1,11 @@
 ---
-arabic_ayat: "فَاَتۡبَعَهُمۡ فِرۡعَوۡنُ بِجُنُوۡدِهٖ فَغَشِيَهُمۡ مِّنَ الۡيَمِّ مَا\
-  \ غَشِيَهُمۡؕ‏ \uFEFF\uFEFF"
+arabic_ayat: فَأَتۡبَعَهُمۡ فِرۡعَوۡنُ بِجُنُودِهِۦ فَغَشِيَهُم مِّنَ ٱلۡيَمِّ مَا
+  غَشِيَهُمۡ
 sentence_translation: Then Pharaoh pursued them with his soldiers—but how overwhelming
   were the waters that submerged them!
 word_by_word:
   1:
-    arabic: فَاَتۡبَعَهُمۡ
+    arabic: فَأَتۡبَعَهُمۡ
     translation: Then followed them
     transliteration: fa-atbaʿahum
   2:
@@ -13,11 +13,11 @@ word_by_word:
     translation: Firaun
     transliteration: fir'ʿawnu
   3:
-    arabic: بِجُنُوۡدِهٖ
+    arabic: بِجُنُودِهِۦ
     translation: with his forces
     transliteration: bijunūdihi
   4:
-    arabic: فَغَشِيَهُمۡ
+    arabic: فَغَشِيَهُم
     translation: but covered them
     transliteration: faghashiyahum
   5:
@@ -25,7 +25,7 @@ word_by_word:
     translation: from
     transliteration: mina
   6:
-    arabic: الۡيَمِّ
+    arabic: ٱلۡيَمِّ
     translation: the sea
     transliteration: l-yami
   7:
@@ -33,7 +33,7 @@ word_by_word:
     translation: what
     transliteration: mā
   8:
-    arabic: "غَشِيَهُمۡؕ‏ \uFEFF\uFEFF"
+    arabic: غَشِيَهُمۡ
     translation: covered them
     transliteration: ghashiyahum
 ---

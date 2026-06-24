@@ -1,5 +1,5 @@
 ---
-arabic_ayat: لَقَدۡ رَاٰى مِنۡ اٰيٰتِ رَبِّهِ الۡكُبۡرٰى‏
+arabic_ayat: لَقَدۡ رَأَىٰ مِنۡ ءَايَٰتِ رَبِّهِ ٱلۡكُبۡرَىٰٓ
 sentence_translation: He certainly saw some of his Lord’s greatest signs. 
 word_by_word:
   1:
@@ -7,15 +7,15 @@ word_by_word:
     translation: Certainly
     transliteration: laqad
   2:
-    arabic: رَاٰى
+    arabic: رَأَىٰ
     translation: he saw
     transliteration: raā
   3:
-    arabic: مِنۡ
+    arabic: مِنۡ ءَ
     translation: of
     transliteration: min
   4:
-    arabic: اٰيٰتِ
+    arabic: ايَٰتِ
     translation: (the) Signs
     transliteration: āyāti
   5:
@@ -23,7 +23,7 @@ word_by_word:
     translation: (of) his Lord
     transliteration: rabbihi
   6:
-    arabic: الۡكُبۡرٰى‏
+    arabic: ٱلۡكُبۡرَىٰٓ
     translation: the Greatest
     transliteration: l-kub'rā
 ---

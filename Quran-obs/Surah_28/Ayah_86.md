@@ -1,6 +1,6 @@
 ---
-arabic_ayat: وَمَا كُنۡتَ تَرۡجُوۡۤا اَنۡ يُّلۡقٰٓى اِلَيۡكَ الۡكِتٰبُ اِلَّا رَحۡمَةً
-  مِّنۡ رَّبِّكَ​ فَلَا تَكُوۡنَنَّ ظَهِيۡرًا لِّـلۡكٰفِرِيۡنَ‏
+arabic_ayat: وَمَا كُنتَ تَرۡجُوٓاْ أَن يُلۡقَىٰٓ إِلَيۡكَ ٱلۡكِتَٰبُ إِلَّا رَحۡمَةٗ
+  مِّن رَّبِّكَۖ فَلَا تَكُونَنَّ ظَهِيرٗا لِّلۡكَٰفِرِينَ
 sentence_translation: You never expected this Book to be revealed to you, but ˹it
   came˺ only ˹as˺ a mercy from your Lord. So never side with the disbelievers ˹in
   their disbelief˺.
@@ -10,43 +10,43 @@ word_by_word:
     translation: And not
     transliteration: wamā
   2:
-    arabic: كُنۡتَ
+    arabic: كُنتَ
     translation: you were
     transliteration: kunta
   3:
-    arabic: تَرۡجُوۡۤا
+    arabic: تَرۡجُوٓاْ
     translation: expecting
     transliteration: tarjū
   4:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that
     transliteration: an
   5:
-    arabic: يُّلۡقٰٓى
+    arabic: يُلۡقَىٰٓ
     translation: would be sent down
     transliteration: yul'qā
   6:
-    arabic: اِلَيۡكَ
+    arabic: إِلَيۡكَ
     translation: to you
     transliteration: ilayka
   7:
-    arabic: الۡكِتٰبُ
+    arabic: ٱلۡكِتَٰبُ
     translation: the Book
     transliteration: l-kitābu
   8:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   9:
-    arabic: رَحۡمَةً
+    arabic: رَحۡمَةٗ
     translation: (as) a mercy
     transliteration: raḥmatan
   10:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: from
     transliteration: min
   11:
-    arabic: رَّبِّكَ​
+    arabic: رَّبِّكَۖ
     translation: your Lord
     transliteration: rabbika
   12:
@@ -54,15 +54,15 @@ word_by_word:
     translation: So (do) not
     transliteration: falā
   13:
-    arabic: تَكُوۡنَنَّ
+    arabic: تَكُونَنَّ
     translation: be
     transliteration: takūnanna
   14:
-    arabic: ظَهِيۡرًا
+    arabic: ظَهِيرٗا
     translation: an assistant
     transliteration: ẓahīran
   15:
-    arabic: لِّـلۡكٰفِرِيۡنَ‏
+    arabic: لِّلۡكَٰفِرِينَ
     translation: to the disbelievers
     transliteration: lil'kāfirīna
 ---

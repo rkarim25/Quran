@@ -1,27 +1,26 @@
 ---
-arabic_ayat: "وَّيَعۡلَمَ الَّذِيۡنَ يُجَادِلُوۡنَ فِىۡۤ اٰيٰتِنَا ؕ مَا لَهُمۡ مِّنۡ\
-  \ مَّحِيۡصٍ‏ \uFEFF\uFEFF"
+arabic_ayat: وَيَعۡلَمَ ٱلَّذِينَ يُجَٰدِلُونَ فِيٓ ءَايَٰتِنَا مَا لَهُم مِّن مَّحِيصٖ
 sentence_translation: so those who dispute about Our signs may know that they have
   no refuge.
 word_by_word:
   1:
-    arabic: وَّيَعۡلَمَ
+    arabic: وَيَعۡلَمَ
     translation: And may know
     transliteration: wayaʿlama
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   3:
-    arabic: يُجَادِلُوۡنَ
+    arabic: يُجَٰدِلُونَ
     translation: dispute
     transliteration: yujādilūna
   4:
-    arabic: فِىۡۤ
+    arabic: فِيٓ ءَ
     translation: concerning
     transliteration: fī
   5:
-    arabic: اٰيٰتِنَا ؕ
+    arabic: ايَٰتِنَا
     translation: Our Signs
     transliteration: āyātinā
   6:
@@ -29,15 +28,15 @@ word_by_word:
     translation: (that) not
     transliteration: mā
   7:
-    arabic: لَهُمۡ
+    arabic: لَهُم
     translation: for them
     transliteration: lahum
   8:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: any
     transliteration: min
   9:
-    arabic: "مَّحِيۡصٍ‏ \uFEFF\uFEFF"
+    arabic: مَّحِيصٖ
     translation: place of refuge
     transliteration: maḥīṣin
 ---

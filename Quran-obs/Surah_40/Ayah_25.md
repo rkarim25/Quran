@@ -1,7 +1,7 @@
 ---
-arabic_ayat: فَلَمَّا جَآءَهُمۡ بِالۡحَقِّ مِنۡ عِنۡدِنَا قَالُوۡا اقۡتُلُوۡۤا اَبۡنَآءَ
-  الَّذِيۡنَ اٰمَنُوۡا مَعَهٗ وَاسۡتَحۡيُوۡا نِسَآءَهُمۡؕ وَمَا كَيۡدُ الۡكٰفِرِيۡنَ
-  اِلَّا فِىۡ ضَلٰلٍ‏
+arabic_ayat: فَلَمَّا جَآءَهُم بِٱلۡحَقِّ مِنۡ عِندِنَا قَالُواْ ٱقۡتُلُوٓاْ أَبۡنَآءَ
+  ٱلَّذِينَ ءَامَنُواْ مَعَهُۥ وَٱسۡتَحۡيُواْ نِسَآءَهُمۡۚ وَمَا كَيۡدُ ٱلۡكَٰفِرِينَ
+  إِلَّا فِي ضَلَٰلٖ
 sentence_translation: Then, when he came to them with the truth from Us, they said,
   “Kill the sons of those who believe with him and keep their women.” But the plotting
   of the disbelievers was only in vain.
@@ -11,11 +11,11 @@ word_by_word:
     translation: Then when
     transliteration: falammā
   2:
-    arabic: جَآءَهُمۡ
+    arabic: جَآءَهُم
     translation: he brought to them
     transliteration: jāahum
   3:
-    arabic: بِالۡحَقِّ
+    arabic: بِٱلۡحَقِّ
     translation: the truth
     transliteration: bil-ḥaqi
   4:
@@ -23,39 +23,39 @@ word_by_word:
     translation: from
     transliteration: min
   5:
-    arabic: عِنۡدِنَا
+    arabic: عِندِنَا
     translation: Us
     transliteration: ʿindinā
   6:
-    arabic: قَالُوۡا
+    arabic: قَالُواْ
     translation: they said
     transliteration: qālū
   7:
-    arabic: اقۡتُلُوۡۤا
+    arabic: ٱقۡتُلُوٓاْ
     translation: Kill
     transliteration: uq'tulū
   8:
-    arabic: اَبۡنَآءَ
+    arabic: أَبۡنَآءَ
     translation: (the) sons
     transliteration: abnāa
   9:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ ءَ
     translation: (of) those who
     transliteration: alladhīna
   10:
-    arabic: اٰمَنُوۡا
+    arabic: امَنُواْ
     translation: believe
     transliteration: āmanū
   11:
-    arabic: مَعَهٗ
+    arabic: مَعَهُۥ
     translation: with him
     transliteration: maʿahu
   12:
-    arabic: وَاسۡتَحۡيُوۡا
+    arabic: وَٱسۡتَحۡيُواْ
     translation: and let live
     transliteration: wa-is'taḥyū
   13:
-    arabic: نِسَآءَهُمۡؕ
+    arabic: نِسَآءَهُمۡۚ
     translation: their women
     transliteration: nisāahum
   14:
@@ -67,19 +67,19 @@ word_by_word:
     translation: (is the) plot
     transliteration: kaydu
   16:
-    arabic: الۡكٰفِرِيۡنَ
+    arabic: ٱلۡكَٰفِرِينَ
     translation: (of) the disbelievers
     transliteration: l-kāfirīna
   17:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: but
     transliteration: illā
   18:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   19:
-    arabic: ضَلٰلٍ‏
+    arabic: ضَلَٰلٖ
     translation: error
     transliteration: ḍalālin
 ---

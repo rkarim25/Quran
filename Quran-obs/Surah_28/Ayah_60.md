@@ -1,40 +1,40 @@
 ---
-arabic_ayat: وَمَاۤ اُوۡتِيۡتُمۡ مِّنۡ شَىۡءٍ فَمَتَاعُ الۡحَيٰوةِ الدُّنۡيَا وَزِيۡنَـتُهَا​
-  ۚ وَمَا عِنۡدَ اللّٰهِ خَيۡرٌ وَّاَبۡقٰى​ ؕ اَفَلَا تَعۡقِلُوۡنَ‏
+arabic_ayat: وَمَآ أُوتِيتُم مِّن شَيۡءٖ فَمَتَٰعُ ٱلۡحَيَوٰةِ ٱلدُّنۡيَا وَزِينَتُهَاۚ
+  وَمَا عِندَ ٱللَّهِ خَيۡرٞ وَأَبۡقَىٰٓۚ أَفَلَا تَعۡقِلُونَ
 sentence_translation: Whatever ˹pleasure˺ you have been given is no more than ˹a fleeting˺
   enjoyment and adornment of this worldly life. But what is with Allah is far better
   and more lasting. Will you not then understand?
 word_by_word:
   1:
-    arabic: وَمَاۤ
+    arabic: وَمَآ
     translation: And whatever
     transliteration: wamā
   2:
-    arabic: اُوۡتِيۡتُمۡ
+    arabic: أُوتِيتُم
     translation: you have been given
     transliteration: ūtītum
   3:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: from
     transliteration: min
   4:
-    arabic: شَىۡءٍ
+    arabic: شَيۡءٖ
     translation: things
     transliteration: shayin
   5:
-    arabic: فَمَتَاعُ
+    arabic: فَمَتَٰعُ
     translation: (is) an enjoyment
     transliteration: famatāʿu
   6:
-    arabic: الۡحَيٰوةِ
+    arabic: ٱلۡحَيَوٰةِ
     translation: (of the) life
     transliteration: l-ḥayati
   7:
-    arabic: الدُّنۡيَا
+    arabic: ٱلدُّنۡيَا
     translation: (of) the world
     transliteration: l-dun'yā
   8:
-    arabic: وَزِيۡنَـتُهَا​ ۚ
+    arabic: وَزِينَتُهَاۚ
     translation: and its adornment
     transliteration: wazīnatuhā
   9:
@@ -42,27 +42,27 @@ word_by_word:
     translation: And what
     transliteration: wamā
   10:
-    arabic: عِنۡدَ
+    arabic: عِندَ
     translation: (is) with
     transliteration: ʿinda
   11:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   12:
-    arabic: خَيۡرٌ
+    arabic: خَيۡرٞ
     translation: (is) better
     transliteration: khayrun
   13:
-    arabic: وَّاَبۡقٰى​ ؕ
+    arabic: وَأَبۡقَىٰٓۚ
     translation: and more lasting
     transliteration: wa-abqā
   14:
-    arabic: اَفَلَا
+    arabic: أَفَلَا
     translation: So (will) not
     transliteration: afalā
   15:
-    arabic: تَعۡقِلُوۡنَ‏
+    arabic: تَعۡقِلُونَ
     translation: you use intellect
     transliteration: taʿqilūna
 ---

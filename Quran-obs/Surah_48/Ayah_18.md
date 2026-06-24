@@ -1,21 +1,21 @@
 ---
-arabic_ayat: لَـقَدۡ رَضِىَ اللّٰهُ عَنِ الۡمُؤۡمِنِيۡنَ اِذۡ يُبَايِعُوۡنَكَ تَحۡتَ
-  الشَّجَرَةِ فَعَلِمَ مَا فِىۡ قُلُوۡبِهِمۡ فَاَنۡزَلَ السَّكِيۡنَةَ عَلَيۡهِمۡ وَاَثَابَهُمۡ
-  فَتۡحًا قَرِيۡبًا ۙ‏
+arabic_ayat: ۞ لَّقَدۡ رَضِيَ ٱللَّهُ عَنِ ٱلۡمُؤۡمِنِينَ إِذۡ يُبَايِعُونَكَ تَحۡتَ
+  ٱلشَّجَرَةِ فَعَلِمَ مَا فِي قُلُوبِهِمۡ فَأَنزَلَ ٱلسَّكِينَةَ عَلَيۡهِمۡ وَأَثَٰبَهُمۡ
+  فَتۡحٗا قَرِيبٗا
 sentence_translation: Indeed, Allah was pleased with the believers when they pledged
   allegiance to you ˹O Prophet˺ under the tree. He knew what was in their hearts,
   so He sent down serenity upon them and rewarded them with a victory at hand,
 word_by_word:
   1:
-    arabic: ۞ لَـقَدۡ
+    arabic: ۞ لَّقَدۡ
     translation: Certainly
     transliteration: laqad
   2:
-    arabic: رَضِىَ
+    arabic: رَضِيَ
     translation: Allah was pleased
     transliteration: raḍiya
   3:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah was pleased
     transliteration: l-lahu
   4:
@@ -23,15 +23,15 @@ word_by_word:
     translation: with
     transliteration: ʿani
   5:
-    arabic: الۡمُؤۡمِنِيۡنَ
+    arabic: ٱلۡمُؤۡمِنِينَ
     translation: the believers
     transliteration: l-mu'minīna
   6:
-    arabic: اِذۡ
+    arabic: إِذۡ
     translation: when
     transliteration: idh
   7:
-    arabic: يُبَايِعُوۡنَكَ
+    arabic: يُبَايِعُونَكَ
     translation: they pledged allegiance to you
     transliteration: yubāyiʿūnaka
   8:
@@ -39,7 +39,7 @@ word_by_word:
     translation: under
     transliteration: taḥta
   9:
-    arabic: الشَّجَرَةِ
+    arabic: ٱلشَّجَرَةِ
     translation: the tree
     transliteration: l-shajarati
   10:
@@ -51,19 +51,19 @@ word_by_word:
     translation: what
     transliteration: mā
   12:
-    arabic: فِىۡ
+    arabic: فِي
     translation: (was) in
     transliteration: fī
   13:
-    arabic: قُلُوۡبِهِمۡ
+    arabic: قُلُوبِهِمۡ
     translation: their hearts
     transliteration: qulūbihim
   14:
-    arabic: فَاَنۡزَلَ
+    arabic: فَأَنزَلَ
     translation: so He sent down
     transliteration: fa-anzala
   15:
-    arabic: السَّكِيۡنَةَ
+    arabic: ٱلسَّكِينَةَ
     translation: the tranquility
     transliteration: l-sakīnata
   16:
@@ -71,15 +71,15 @@ word_by_word:
     translation: upon them
     transliteration: ʿalayhim
   17:
-    arabic: وَاَثَابَهُمۡ
+    arabic: وَأَثَٰبَهُمۡ
     translation: and rewarded them
     transliteration: wa-athābahum
   18:
-    arabic: فَتۡحًا
+    arabic: فَتۡحٗا
     translation: (with) a victory
     transliteration: fatḥan
   19:
-    arabic: قَرِيۡبًا ۙ‏
+    arabic: قَرِيبٗا
     translation: near
     transliteration: qarīban
 ---

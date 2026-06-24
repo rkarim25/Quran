@@ -1,31 +1,31 @@
 ---
-arabic_ayat: "يٰۤـاَيُّهَا الَّذِيۡنَ اُوۡتُوا الۡكِتٰبَ اٰمِنُوۡا بِمَا نَزَّلۡنَا\
-  \ مُصَدِّقًا لِّمَا مَعَكُمۡ مِّنۡ قَبۡلِ اَنۡ نَّـطۡمِسَ وُجُوۡهًا فَنَرُدَّهَا\
-  \ عَلٰٓى اَدۡبَارِهَاۤ اَوۡ نَلۡعَنَهُمۡ كَمَا لَعَنَّاۤ اَصۡحٰبَ السَّبۡتِ​ؕ وَكَانَ\
-  \ اَمۡرُ اللّٰهِ مَفۡعُوۡلًا‏ \uFEFF\uFEFF"
+arabic_ayat: يَٰٓأَيُّهَا ٱلَّذِينَ أُوتُواْ ٱلۡكِتَٰبَ ءَامِنُواْ بِمَا نَزَّلۡنَا
+  مُصَدِّقٗا لِّمَا مَعَكُم مِّن قَبۡلِ أَن نَّطۡمِسَ وُجُوهٗا فَنَرُدَّهَا عَلَىٰٓ
+  أَدۡبَارِهَآ أَوۡ نَلۡعَنَهُمۡ كَمَا لَعَنَّآ أَصۡحَٰبَ ٱلسَّبۡتِۚ وَكَانَ أَمۡرُ
+  ٱللَّهِ مَفۡعُولًا
 sentence_translation: O you who were given the Book! Believe in what We have revealed—confirming
   your own Scriptures—before We wipe out ˹your˺ faces, turning them backwards, or
   We condemn the defiant as We did to the Sabbath-breakers. And Allah’s command is
   always executed!
 word_by_word:
   1:
-    arabic: يٰۤـاَيُّهَا
+    arabic: يَٰٓأَيُّهَا
     translation: O you
     transliteration: yāayyuhā
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: who
     transliteration: alladhīna
   3:
-    arabic: اُوۡتُوا
+    arabic: أُوتُواْ
     translation: (have) been given
     transliteration: ūtū
   4:
-    arabic: الۡكِتٰبَ
+    arabic: ٱلۡكِتَٰبَ ءَ
     translation: the Book
     transliteration: l-kitāba
   5:
-    arabic: اٰمِنُوۡا
+    arabic: امِنُواْ
     translation: believe
     transliteration: āminū
   6:
@@ -37,7 +37,7 @@ word_by_word:
     translation: We (have) revealed
     transliteration: nazzalnā
   8:
-    arabic: مُصَدِّقًا
+    arabic: مُصَدِّقٗا
     translation: confirming
     transliteration: muṣaddiqan
   9:
@@ -45,11 +45,11 @@ word_by_word:
     translation: what is
     transliteration: limā
   10:
-    arabic: مَعَكُمۡ
+    arabic: مَعَكُم
     translation: with you
     transliteration: maʿakum
   11:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: from
     transliteration: min
   12:
@@ -57,15 +57,15 @@ word_by_word:
     translation: before
     transliteration: qabli
   13:
-    arabic: اَنۡ
+    arabic: أَن
     translation: '[that]'
     transliteration: an
   14:
-    arabic: نَّـطۡمِسَ
+    arabic: نَّطۡمِسَ
     translation: We efface
     transliteration: naṭmisa
   15:
-    arabic: وُجُوۡهًا
+    arabic: وُجُوهٗا
     translation: faces
     transliteration: wujūhan
   16:
@@ -73,15 +73,15 @@ word_by_word:
     translation: and turn them
     transliteration: fanaruddahā
   17:
-    arabic: عَلٰٓى
+    arabic: عَلَىٰٓ
     translation: 'on'
     transliteration: ʿalā
   18:
-    arabic: اَدۡبَارِهَاۤ
+    arabic: أَدۡبَارِهَآ
     translation: their backs
     transliteration: adbārihā
   19:
-    arabic: اَوۡ
+    arabic: أَوۡ
     translation: or
     transliteration: aw
   20:
@@ -93,15 +93,15 @@ word_by_word:
     translation: as
     transliteration: kamā
   22:
-    arabic: لَعَنَّاۤ
+    arabic: لَعَنَّآ
     translation: We cursed
     transliteration: laʿannā
   23:
-    arabic: اَصۡحٰبَ
+    arabic: أَصۡحَٰبَ
     translation: companions
     transliteration: aṣḥāba
   24:
-    arabic: السَّبۡتِ​ؕ
+    arabic: ٱلسَّبۡتِۚ
     translation: (of) the Sabbath
     transliteration: l-sabti
   25:
@@ -109,15 +109,15 @@ word_by_word:
     translation: And is
     transliteration: wakāna
   26:
-    arabic: اَمۡرُ
+    arabic: أَمۡرُ
     translation: (the) command
     transliteration: amru
   27:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (of) Allah
     transliteration: l-lahi
   28:
-    arabic: "مَفۡعُوۡلًا‏ \uFEFF\uFEFF"
+    arabic: مَفۡعُولًا
     translation: (always) executed
     transliteration: mafʿūlan
 ---

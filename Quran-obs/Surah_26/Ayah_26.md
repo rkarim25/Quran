@@ -1,5 +1,5 @@
 ---
-arabic_ayat: قَالَ رَبُّكُمۡ وَرَبُّ اٰبَآٮِٕكُمُ الۡاَوَّلِيۡنَ‏
+arabic_ayat: قَالَ رَبُّكُمۡ وَرَبُّ ءَابَآئِكُمُ ٱلۡأَوَّلِينَ
 sentence_translation: Moses added, “˹He is˺ your Lord and the Lord of your forefathers.”
 word_by_word:
   1:
@@ -11,15 +11,15 @@ word_by_word:
     translation: Your Lord
     transliteration: rabbukum
   3:
-    arabic: وَرَبُّ
+    arabic: وَرَبُّ ءَ
     translation: and (the) Lord
     transliteration: warabbu
   4:
-    arabic: اٰبَآٮِٕكُمُ
+    arabic: ابَآئِكُمُ
     translation: (of) your forefathers
     transliteration: ābāikumu
   5:
-    arabic: الۡاَوَّلِيۡنَ‏
+    arabic: ٱلۡأَوَّلِينَ
     translation: (of) your forefathers
     transliteration: l-awalīna
 ---

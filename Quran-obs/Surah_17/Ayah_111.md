@@ -1,7 +1,7 @@
 ---
-arabic_ayat: "وَقُلِ الۡحَمۡدُ لِلّٰهِ الَّذِىۡ لَمۡ يَتَّخِذۡ وَلَدًا وَّلَمۡ يَكُنۡ\
-  \ لَّهٗ شَرِيۡكٌ فِى الۡمُلۡكِ وَلَمۡ يَكُنۡ لَّهٗ وَلِىٌّ مِّنَ الذُّلِّ​ وَكَبِّرۡهُ\
-  \ تَكۡبِيۡرًا‏ \uFEFF\uFEFF"
+arabic_ayat: وَقُلِ ٱلۡحَمۡدُ لِلَّهِ ٱلَّذِي لَمۡ يَتَّخِذۡ وَلَدٗا وَلَمۡ يَكُن
+  لَّهُۥ شَرِيكٞ فِي ٱلۡمُلۡكِ وَلَمۡ يَكُن لَّهُۥ وَلِيّٞ مِّنَ ٱلذُّلِّۖ وَكَبِّرۡهُ
+  تَكۡبِيرَۢا
 sentence_translation: And say, “All praise is for Allah, Who has never had ˹any˺ offspring; nor
   does He have a partner in ˹governing˺ the kingdom; nor is He pathetic, needing a
   protector. And revere Him immensely.”
@@ -11,15 +11,15 @@ word_by_word:
     translation: And say
     transliteration: waquli
   2:
-    arabic: الۡحَمۡدُ
+    arabic: ٱلۡحَمۡدُ
     translation: All Praise
     transliteration: l-ḥamdu
   3:
-    arabic: لِلّٰهِ
+    arabic: لِلَّهِ
     translation: (is) for Allah
     transliteration: lillahi
   4:
-    arabic: الَّذِىۡ
+    arabic: ٱلَّذِي
     translation: the One Who
     transliteration: alladhī
   5:
@@ -31,31 +31,31 @@ word_by_word:
     translation: has not taken
     transliteration: yattakhidh
   7:
-    arabic: وَلَدًا
+    arabic: وَلَدٗا
     translation: a son
     transliteration: waladan
   8:
-    arabic: وَّلَمۡ
+    arabic: وَلَمۡ
     translation: and not
     transliteration: walam
   9:
-    arabic: يَكُنۡ
+    arabic: يَكُن
     translation: is
     transliteration: yakun
   10:
-    arabic: لَّهٗ
+    arabic: لَّهُۥ
     translation: for Him
     transliteration: lahu
   11:
-    arabic: شَرِيۡكٌ
+    arabic: شَرِيكٞ
     translation: a partner
     transliteration: sharīkun
   12:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   13:
-    arabic: الۡمُلۡكِ
+    arabic: ٱلۡمُلۡكِ
     translation: the dominion
     transliteration: l-mul'ki
   14:
@@ -63,15 +63,15 @@ word_by_word:
     translation: and not
     transliteration: walam
   15:
-    arabic: يَكُنۡ
+    arabic: يَكُن
     translation: is
     transliteration: yakun
   16:
-    arabic: لَّهٗ
+    arabic: لَّهُۥ
     translation: for Him
     transliteration: lahu
   17:
-    arabic: وَلِىٌّ
+    arabic: وَلِيّٞ
     translation: any protector
     transliteration: waliyyun
   18:
@@ -79,7 +79,7 @@ word_by_word:
     translation: out of
     transliteration: mina
   19:
-    arabic: الذُّلِّ​
+    arabic: ٱلذُّلِّۖ
     translation: weakness
     transliteration: l-dhuli
   20:
@@ -87,7 +87,7 @@ word_by_word:
     translation: And magnify Him
     transliteration: wakabbir'hu
   21:
-    arabic: "تَكۡبِيۡرًا‏ \uFEFF\uFEFF"
+    arabic: تَكۡبِيرَۢا
     translation: (with all) magnificence
     transliteration: takbīran
 ---

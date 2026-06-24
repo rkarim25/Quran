@@ -1,17 +1,17 @@
 ---
-arabic_ayat: اُحِلَّ لَـكُمۡ صَيۡدُ الۡبَحۡرِ وَطَعَامُهٗ مَتَاعًا لَّـكُمۡ وَلِلسَّيَّارَةِ​
-  ۚ وَحُرِّمَ عَلَيۡكُمۡ صَيۡدُ الۡبَـرِّ مَا دُمۡتُمۡ حُرُمًا​ ؕ وَاتَّقُوا اللّٰهَ
-  الَّذِىۡۤ اِلَيۡهِ تُحۡشَرُوۡنَ‏
+arabic_ayat: أُحِلَّ لَكُمۡ صَيۡدُ ٱلۡبَحۡرِ وَطَعَامُهُۥ مَتَٰعٗا لَّكُمۡ وَلِلسَّيَّارَةِۖ
+  وَحُرِّمَ عَلَيۡكُمۡ صَيۡدُ ٱلۡبَرِّ مَا دُمۡتُمۡ حُرُمٗاۗ وَٱتَّقُواْ ٱللَّهَ ٱلَّذِيٓ
+  إِلَيۡهِ تُحۡشَرُونَ
 sentence_translation: It is lawful for you to hunt and eat seafood, as a provision
   for you and for travellers. But hunting on land is forbidden to you while on pilgrimage.
   Be mindful of Allah to Whom you all will be gathered.
 word_by_word:
   1:
-    arabic: اُحِلَّ
+    arabic: أُحِلَّ
     translation: Is made lawful
     transliteration: uḥilla
   2:
-    arabic: لَـكُمۡ
+    arabic: لَكُمۡ
     translation: for you
     transliteration: lakum
   3:
@@ -19,23 +19,23 @@ word_by_word:
     translation: game
     transliteration: ṣaydu
   4:
-    arabic: الۡبَحۡرِ
+    arabic: ٱلۡبَحۡرِ
     translation: (of) the sea
     transliteration: l-baḥri
   5:
-    arabic: وَطَعَامُهٗ
+    arabic: وَطَعَامُهُۥ
     translation: and its food
     transliteration: waṭaʿāmuhu
   6:
-    arabic: مَتَاعًا
+    arabic: مَتَٰعٗا
     translation: (as) provision
     transliteration: matāʿan
   7:
-    arabic: لَّـكُمۡ
+    arabic: لَّكُمۡ
     translation: for you
     transliteration: lakum
   8:
-    arabic: وَلِلسَّيَّارَةِ​ ۚ
+    arabic: وَلِلسَّيَّارَةِۖ
     translation: and for the travelers
     transliteration: walilssayyārati
   9:
@@ -51,7 +51,7 @@ word_by_word:
     translation: game
     transliteration: ṣaydu
   12:
-    arabic: الۡبَـرِّ
+    arabic: ٱلۡبَرِّ
     translation: (of) the land
     transliteration: l-bari
   13:
@@ -63,27 +63,27 @@ word_by_word:
     translation: long as you
     transliteration: dum'tum
   15:
-    arabic: حُرُمًا​ ؕ
+    arabic: حُرُمٗاۗ
     translation: (are in) Ihram
     transliteration: ḥuruman
   16:
-    arabic: وَاتَّقُوا
+    arabic: وَٱتَّقُواْ
     translation: And be conscious
     transliteration: wa-ittaqū
   17:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: (of) Allah
     transliteration: l-laha
   18:
-    arabic: الَّذِىۡۤ
+    arabic: ٱلَّذِيٓ
     translation: the One
     transliteration: alladhī
   19:
-    arabic: اِلَيۡهِ
+    arabic: إِلَيۡهِ
     translation: to Him
     transliteration: ilayhi
   20:
-    arabic: تُحۡشَرُوۡنَ‏
+    arabic: تُحۡشَرُونَ
     translation: you will be gathered
     transliteration: tuḥ'sharūna
 ---

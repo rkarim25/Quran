@@ -1,9 +1,9 @@
 ---
-arabic_ayat: لَوۡ مَا تَاۡتِيۡنَا بِالۡمَلٰۤٮِٕكَةِ اِنۡ كُنۡتَ مِنَ الصّٰدِقِيۡنَ‏
+arabic_ayat: لَّوۡمَا تَأۡتِينَا بِٱلۡمَلَٰٓئِكَةِ إِن كُنتَ مِنَ ٱلصَّٰدِقِينَ
 sentence_translation: Why do you not bring us the angels, if what you say is true?”
 word_by_word:
   1:
-    arabic: لَوۡ
+    arabic: لَّوۡ
     translation: Why
     transliteration: law
   2:
@@ -11,19 +11,19 @@ word_by_word:
     translation: not
     transliteration: mā
   3:
-    arabic: تَاۡتِيۡنَا
+    arabic: تَأۡتِينَا
     translation: you bring to us
     transliteration: tatīnā
   4:
-    arabic: بِالۡمَلٰۤٮِٕكَةِ
+    arabic: بِٱلۡمَلَٰٓئِكَةِ
     translation: the Angels
     transliteration: bil-malāikati
   5:
-    arabic: اِنۡ
+    arabic: إِن
     translation: if
     transliteration: in
   6:
-    arabic: كُنۡتَ
+    arabic: كُنتَ
     translation: you are
     transliteration: kunta
   7:
@@ -31,7 +31,7 @@ word_by_word:
     translation: of
     transliteration: mina
   8:
-    arabic: الصّٰدِقِيۡنَ‏
+    arabic: ٱلصَّٰدِقِينَ
     translation: the truthful
     transliteration: l-ṣādiqīna
 ---

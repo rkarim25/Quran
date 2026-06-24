@@ -1,19 +1,19 @@
 ---
-arabic_ayat: "اَللّٰهُ الَّذِىۡ رَفَعَ السَّمٰوٰتِ بِغَيۡرِ عَمَدٍ تَرَوۡنَهَا​ ثُمَّ\
-  \ اسۡتَوٰى عَلَى الۡعَرۡشِ​ وَسَخَّرَ الشَّمۡسَ وَالۡقَمَرَ​ؕ كُلٌّ يَّجۡرِىۡ لِاَجَلٍ\
-  \ مُّسَمًّى​ؕ يُدَبِّرُ الۡاَمۡرَ يُفَصِّلُ الۡاٰيٰتِ لَعَلَّكُمۡ بِلِقَآءِ رَبِّكُمۡ\
-  \ تُوۡقِنُوۡنَ‏ \uFEFF\uFEFF"
+arabic_ayat: ٱللَّهُ ٱلَّذِي رَفَعَ ٱلسَّمَٰوَٰتِ بِغَيۡرِ عَمَدٖ تَرَوۡنَهَاۖ ثُمَّ
+  ٱسۡتَوَىٰ عَلَى ٱلۡعَرۡشِۖ وَسَخَّرَ ٱلشَّمۡسَ وَٱلۡقَمَرَۖ كُلّٞ يَجۡرِي لِأَجَلٖ
+  مُّسَمّٗىۚ يُدَبِّرُ ٱلۡأَمۡرَ يُفَصِّلُ ٱلۡأٓيَٰتِ لَعَلَّكُم بِلِقَآءِ رَبِّكُمۡ
+  تُوقِنُونَ
 sentence_translation: It is Allah Who has raised the heavens without pillars—as you
   can see—then established Himself on the Throne. He has subjected the sun and the
   moon, each orbiting for an appointed term. He conducts the whole affair. He makes
   the signs clear so that you may be certain of the meeting with your Lord.
 word_by_word:
   1:
-    arabic: اَللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: al-lahu
   2:
-    arabic: الَّذِىۡ
+    arabic: ٱلَّذِي
     translation: (is) the One Who
     transliteration: alladhī
   3:
@@ -21,7 +21,7 @@ word_by_word:
     translation: raised
     transliteration: rafaʿa
   4:
-    arabic: السَّمٰوٰتِ
+    arabic: ٱلسَّمَٰوَٰتِ
     translation: the heavens
     transliteration: l-samāwāti
   5:
@@ -29,11 +29,11 @@ word_by_word:
     translation: without
     transliteration: bighayri
   6:
-    arabic: عَمَدٍ
+    arabic: عَمَدٖ
     translation: pillars
     transliteration: ʿamadin
   7:
-    arabic: تَرَوۡنَهَا​
+    arabic: تَرَوۡنَهَاۖ
     translation: that you see
     transliteration: tarawnahā
   8:
@@ -41,7 +41,7 @@ word_by_word:
     translation: then
     transliteration: thumma
   9:
-    arabic: اسۡتَوٰى
+    arabic: ٱسۡتَوَىٰ
     translation: He established
     transliteration: is'tawā
   10:
@@ -49,7 +49,7 @@ word_by_word:
     translation: 'on'
     transliteration: ʿalā
   11:
-    arabic: الۡعَرۡشِ​
+    arabic: ٱلۡعَرۡشِۖ
     translation: the Throne
     transliteration: l-ʿarshi
   12:
@@ -57,27 +57,27 @@ word_by_word:
     translation: and subjected
     transliteration: wasakhara
   13:
-    arabic: الشَّمۡسَ
+    arabic: ٱلشَّمۡسَ
     translation: the sun
     transliteration: l-shamsa
   14:
-    arabic: وَالۡقَمَرَ​ؕ
+    arabic: وَٱلۡقَمَرَۖ
     translation: and the moon
     transliteration: wal-qamara
   15:
-    arabic: كُلٌّ
+    arabic: كُلّٞ
     translation: each
     transliteration: kullun
   16:
-    arabic: يَّجۡرِىۡ
+    arabic: يَجۡرِي
     translation: running
     transliteration: yajrī
   17:
-    arabic: لِاَجَلٍ
+    arabic: لِأَجَلٖ
     translation: for a term
     transliteration: li-ajalin
   18:
-    arabic: مُّسَمًّى​ؕ
+    arabic: مُّسَمّٗىۚ
     translation: appointed
     transliteration: musamman
   19:
@@ -85,7 +85,7 @@ word_by_word:
     translation: He arranges
     transliteration: yudabbiru
   20:
-    arabic: الۡاَمۡرَ
+    arabic: ٱلۡأَمۡرَ
     translation: the matter
     transliteration: l-amra
   21:
@@ -93,11 +93,11 @@ word_by_word:
     translation: He details
     transliteration: yufaṣṣilu
   22:
-    arabic: الۡاٰيٰتِ
+    arabic: ٱلۡأٓيَٰتِ
     translation: the Signs
     transliteration: l-āyāti
   23:
-    arabic: لَعَلَّكُمۡ
+    arabic: لَعَلَّكُم
     translation: so that you may
     transliteration: laʿallakum
   24:
@@ -109,7 +109,7 @@ word_by_word:
     translation: (with) your Lord
     transliteration: rabbikum
   26:
-    arabic: "تُوۡقِنُوۡنَ‏ \uFEFF\uFEFF"
+    arabic: تُوقِنُونَ
     translation: believe with certainty
     transliteration: tūqinūna
 ---

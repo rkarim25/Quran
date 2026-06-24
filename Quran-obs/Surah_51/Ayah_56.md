@@ -1,5 +1,5 @@
 ---
-arabic_ayat: وَمَا خَلَقۡتُ الۡجِنَّ وَالۡاِنۡسَ اِلَّا لِيَعۡبُدُوۡنِ‏
+arabic_ayat: وَمَا خَلَقۡتُ ٱلۡجِنَّ وَٱلۡإِنسَ إِلَّا لِيَعۡبُدُونِ
 sentence_translation: I did not create jinn and humans except to worship Me.
 word_by_word:
   1:
@@ -11,19 +11,19 @@ word_by_word:
     translation: I have created
     transliteration: khalaqtu
   3:
-    arabic: الۡجِنَّ
+    arabic: ٱلۡجِنَّ
     translation: the jinn
     transliteration: l-jina
   4:
-    arabic: وَالۡاِنۡسَ
+    arabic: وَٱلۡإِنسَ
     translation: and the mankind
     transliteration: wal-insa
   5:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   6:
-    arabic: لِيَعۡبُدُوۡنِ‏
+    arabic: لِيَعۡبُدُونِ
     translation: that they worship Me
     transliteration: liyaʿbudūni
 ---

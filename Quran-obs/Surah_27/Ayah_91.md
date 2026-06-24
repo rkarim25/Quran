@@ -1,24 +1,24 @@
 ---
-arabic_ayat: اِنَّمَاۤ اُمِرۡتُ اَنۡ اَعۡبُدَ رَبَّ هٰذِهِ الۡبَلۡدَةِ الَّذِىۡ حَرَّمَهَا
-  وَلَهٗ كُلُّ شَىۡءٍ​ وَّاُمِرۡتُ اَنۡ اَكُوۡنَ مِنَ الۡمُسۡلِمِيۡنَۙ‏
+arabic_ayat: إِنَّمَآ أُمِرۡتُ أَنۡ أَعۡبُدَ رَبَّ هَٰذِهِ ٱلۡبَلۡدَةِ ٱلَّذِي حَرَّمَهَا
+  وَلَهُۥ كُلُّ شَيۡءٖۖ وَأُمِرۡتُ أَنۡ أَكُونَ مِنَ ٱلۡمُسۡلِمِينَ
 sentence_translation: Say, ˹O Prophet,˺ “I have only been commanded to worship the
   Lord of this city ˹of Mecca˺, Who has made it sacred, and to Him belongs everything.
   And I am commanded to be one of those who ˹fully˺ submit ˹to Him˺,
 word_by_word:
   1:
-    arabic: اِنَّمَاۤ
+    arabic: إِنَّمَآ
     translation: Only
     transliteration: innamā
   2:
-    arabic: اُمِرۡتُ
+    arabic: أُمِرۡتُ
     translation: I am commanded
     transliteration: umir'tu
   3:
-    arabic: اَنۡ
+    arabic: أَنۡ
     translation: that
     transliteration: an
   4:
-    arabic: اَعۡبُدَ
+    arabic: أَعۡبُدَ
     translation: I worship
     transliteration: aʿbuda
   5:
@@ -26,15 +26,15 @@ word_by_word:
     translation: (the) Lord
     transliteration: rabba
   6:
-    arabic: هٰذِهِ
+    arabic: هَٰذِهِ
     translation: (of) this
     transliteration: hādhihi
   7:
-    arabic: الۡبَلۡدَةِ
+    arabic: ٱلۡبَلۡدَةِ
     translation: city
     transliteration: l-baldati
   8:
-    arabic: الَّذِىۡ
+    arabic: ٱلَّذِي
     translation: the One Who
     transliteration: alladhī
   9:
@@ -42,7 +42,7 @@ word_by_word:
     translation: made it sacred
     transliteration: ḥarramahā
   10:
-    arabic: وَلَهٗ
+    arabic: وَلَهُۥ
     translation: and to Him (belongs)
     transliteration: walahu
   11:
@@ -50,19 +50,19 @@ word_by_word:
     translation: all
     transliteration: kullu
   12:
-    arabic: شَىۡءٍ​
+    arabic: شَيۡءٖۖ
     translation: things
     transliteration: shayin
   13:
-    arabic: وَّاُمِرۡتُ
+    arabic: وَأُمِرۡتُ
     translation: And I am commanded
     transliteration: wa-umir'tu
   14:
-    arabic: اَنۡ
+    arabic: أَنۡ
     translation: that
     transliteration: an
   15:
-    arabic: اَكُوۡنَ
+    arabic: أَكُونَ
     translation: I be
     transliteration: akūna
   16:
@@ -70,7 +70,7 @@ word_by_word:
     translation: of
     transliteration: mina
   17:
-    arabic: الۡمُسۡلِمِيۡنَۙ‏
+    arabic: ٱلۡمُسۡلِمِينَ
     translation: the Muslims
     transliteration: l-mus'limīna
 ---

@@ -1,21 +1,21 @@
 ---
-arabic_ayat: اِذۡ نَجَّيۡنٰهُ وَاَهۡلَهٗۤ اَجۡمَعِيۡنَۙ‏
+arabic_ayat: إِذۡ نَجَّيۡنَٰهُ وَأَهۡلَهُۥٓ أَجۡمَعِينَ
 sentence_translation: ˹Remember˺ when We delivered him and all of his family,
 word_by_word:
   1:
-    arabic: اِذۡ
+    arabic: إِذۡ
     translation: When
     transliteration: idh
   2:
-    arabic: نَجَّيۡنٰهُ
+    arabic: نَجَّيۡنَٰهُ
     translation: We saved him
     transliteration: najjaynāhu
   3:
-    arabic: وَاَهۡلَهٗۤ
+    arabic: وَأَهۡلَهُۥٓ
     translation: and his family
     transliteration: wa-ahlahu
   4:
-    arabic: اَجۡمَعِيۡنَۙ‏
+    arabic: أَجۡمَعِينَ
     translation: all
     transliteration: ajmaʿīna
 ---

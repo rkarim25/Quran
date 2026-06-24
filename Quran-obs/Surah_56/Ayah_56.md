@@ -1,9 +1,9 @@
 ---
-arabic_ayat: هٰذَا نُزُلُهُمۡ يَوۡمَ الدِّيۡنِؕ‏
+arabic_ayat: هَٰذَا نُزُلُهُمۡ يَوۡمَ ٱلدِّينِ
 sentence_translation: This will be their accommodation on the Day of Judgment.
 word_by_word:
   1:
-    arabic: هٰذَا
+    arabic: هَٰذَا
     translation: This
     transliteration: hādhā
   2:
@@ -15,7 +15,7 @@ word_by_word:
     translation: (on the) Day
     transliteration: yawma
   4:
-    arabic: الدِّيۡنِؕ‏
+    arabic: ٱلدِّينِ
     translation: (of) Judgment
     transliteration: l-dīni
 ---

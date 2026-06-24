@@ -1,14 +1,14 @@
 ---
-arabic_ayat: فَاَخۡرَجۡنَا مَنۡ كَانَ فِيۡهَا مِنَ الۡمُؤۡمِنِيۡنَ​ۚ‏
+arabic_ayat: فَأَخۡرَجۡنَا مَن كَانَ فِيهَا مِنَ ٱلۡمُؤۡمِنِينَ
 sentence_translation: Then ˹before the torment˺ We evacuated the believers from the
   city.
 word_by_word:
   1:
-    arabic: فَاَخۡرَجۡنَا
+    arabic: فَأَخۡرَجۡنَا
     translation: Then We brought out
     transliteration: fa-akhrajnā
   2:
-    arabic: مَنۡ
+    arabic: مَن
     translation: (those) who
     transliteration: man
   3:
@@ -16,7 +16,7 @@ word_by_word:
     translation: were
     transliteration: kāna
   4:
-    arabic: فِيۡهَا
+    arabic: فِيهَا
     translation: therein
     transliteration: fīhā
   5:
@@ -24,7 +24,7 @@ word_by_word:
     translation: of
     transliteration: mina
   6:
-    arabic: الۡمُؤۡمِنِيۡنَ​ۚ‏
+    arabic: ٱلۡمُؤۡمِنِينَ
     translation: the believers
     transliteration: l-mu'minīna
 ---

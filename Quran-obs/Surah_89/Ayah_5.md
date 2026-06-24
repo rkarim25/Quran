@@ -1,5 +1,5 @@
 ---
-arabic_ayat: هَلۡ فِىۡ ذٰلِكَ قَسَمٌ لِّذِىۡ حِجۡرٍؕ‏
+arabic_ayat: هَلۡ فِي ذَٰلِكَ قَسَمٞ لِّذِي حِجۡرٍ
 sentence_translation: Is all this ˹not˺ a sufficient oath for those who have sense?
 word_by_word:
   1:
@@ -7,23 +7,23 @@ word_by_word:
     translation: Is
     transliteration: hal
   2:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   3:
-    arabic: ذٰلِكَ
+    arabic: ذَٰلِكَ
     translation: that
     transliteration: dhālika
   4:
-    arabic: قَسَمٌ
+    arabic: قَسَمٞ
     translation: (not) an oath
     transliteration: qasamun
   5:
-    arabic: لِّذِىۡ
+    arabic: لِّذِي
     translation: for those
     transliteration: lidhī
   6:
-    arabic: حِجۡرٍؕ‏
+    arabic: حِجۡرٍ
     translation: who understand
     transliteration: ḥij'rin
 ---

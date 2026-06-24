@@ -1,6 +1,6 @@
 ---
-arabic_ayat: قُلۡ اِنِّىۡ لَنۡ يُّجِيۡرَنِىۡ مِنَ اللّٰهِ اَحَدٌ  ۙ وَّلَنۡ اَجِدَ
-  مِنۡ دُوۡنِهٖ مُلۡتَحَدًا ۙ‏
+arabic_ayat: قُلۡ إِنِّي لَن يُجِيرَنِي مِنَ ٱللَّهِ أَحَدٞ وَلَنۡ أَجِدَ مِن دُونِهِۦ
+  مُلۡتَحَدًا
 sentence_translation: Say, “No one can protect me from Allah ˹if I were to disobey
   Him˺, nor can I find any refuge other than Him.
 word_by_word:
@@ -9,15 +9,15 @@ word_by_word:
     translation: Say
     transliteration: qul
   2:
-    arabic: اِنِّىۡ
+    arabic: إِنِّي
     translation: Indeed I
     transliteration: innī
   3:
-    arabic: لَنۡ
+    arabic: لَن
     translation: never
     transliteration: lan
   4:
-    arabic: يُّجِيۡرَنِىۡ
+    arabic: يُجِيرَنِي
     translation: can protect me
     transliteration: yujīranī
   5:
@@ -25,31 +25,31 @@ word_by_word:
     translation: from
     transliteration: mina
   6:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   7:
-    arabic: اَحَدٌ  ۙ
+    arabic: أَحَدٞ
     translation: anyone
     transliteration: aḥadun
   8:
-    arabic: وَّلَنۡ
+    arabic: وَلَنۡ
     translation: and never
     transliteration: walan
   9:
-    arabic: اَجِدَ
+    arabic: أَجِدَ
     translation: can I find
     transliteration: ajida
   10:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   11:
-    arabic: دُوۡنِهٖ
+    arabic: دُونِهِۦ
     translation: besides Him
     transliteration: dūnihi
   12:
-    arabic: مُلۡتَحَدًا ۙ‏
+    arabic: مُلۡتَحَدًا
     translation: any refuge
     transliteration: mul'taḥadan
 ---

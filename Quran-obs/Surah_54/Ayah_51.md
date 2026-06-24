@@ -1,5 +1,5 @@
 ---
-arabic_ayat: وَلَقَدۡ اَهۡلَـكۡنَاۤ اَشۡيَاعَكُمۡ فَهَلۡ مِنۡ مُّدَّكِرٍ‏
+arabic_ayat: وَلَقَدۡ أَهۡلَكۡنَآ أَشۡيَاعَكُمۡ فَهَلۡ مِن مُّدَّكِرٖ
 sentence_translation: We have already destroyed the likes of you. So will any ˹of
   you˺ be mindful?
 word_by_word:
@@ -8,11 +8,11 @@ word_by_word:
     translation: And certainly
     transliteration: walaqad
   2:
-    arabic: اَهۡلَـكۡنَاۤ
+    arabic: أَهۡلَكۡنَآ
     translation: We destroyed
     transliteration: ahlaknā
   3:
-    arabic: اَشۡيَاعَكُمۡ
+    arabic: أَشۡيَاعَكُمۡ
     translation: your kinds
     transliteration: ashyāʿakum
   4:
@@ -20,11 +20,11 @@ word_by_word:
     translation: so is (there)
     transliteration: fahal
   5:
-    arabic: مِنۡ
+    arabic: مِن
     translation: any
     transliteration: min
   6:
-    arabic: مُّدَّكِرٍ‏
+    arabic: مُّدَّكِرٖ
     translation: who will receive admonition
     transliteration: muddakirin
 ---

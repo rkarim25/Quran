@@ -1,11 +1,11 @@
 ---
-arabic_ayat: اِنۡ هُوَ اِلَّا رَجُلُ اۨفۡتَـرٰى عَلَى اللّٰهِ كَذِبًا وَّمَا نَحۡنُ
-  لَهٗ بِمُؤۡمِنِيۡنَ‏
+arabic_ayat: إِنۡ هُوَ إِلَّا رَجُلٌ ٱفۡتَرَىٰ عَلَى ٱللَّهِ كَذِبٗا وَمَا نَحۡنُ
+  لَهُۥ بِمُؤۡمِنِينَ
 sentence_translation: He is no more than a man who has fabricated a lie about Allah,
   and we will never believe in him.”
 word_by_word:
   1:
-    arabic: اِنۡ
+    arabic: إِنۡ
     translation: Not
     transliteration: in
   2:
@@ -13,15 +13,15 @@ word_by_word:
     translation: (is) he
     transliteration: huwa
   3:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: but
     transliteration: illā
   4:
-    arabic: رَجُلُ
+    arabic: رَجُلٌ
     translation: a man
     transliteration: rajulun
   5:
-    arabic: اۨفۡتَـرٰى
+    arabic: ٱفۡتَرَىٰ
     translation: who (has) invented
     transliteration: if'tarā
   6:
@@ -29,15 +29,15 @@ word_by_word:
     translation: about
     transliteration: ʿalā
   7:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   8:
-    arabic: كَذِبًا
+    arabic: كَذِبٗا
     translation: a lie
     transliteration: kadhiban
   9:
-    arabic: وَّمَا
+    arabic: وَمَا
     translation: and not
     transliteration: wamā
   10:
@@ -45,11 +45,11 @@ word_by_word:
     translation: we
     transliteration: naḥnu
   11:
-    arabic: لَهٗ
+    arabic: لَهُۥ
     translation: (in) him
     transliteration: lahu
   12:
-    arabic: بِمُؤۡمِنِيۡنَ‏
+    arabic: بِمُؤۡمِنِينَ
     translation: (are) believers
     transliteration: bimu'minīna
 ---

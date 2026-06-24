@@ -1,25 +1,25 @@
 ---
-arabic_ayat: وَاِذَا مَاۤ اُنۡزِلَتۡ سُوۡرَةٌ نَّظَرَ بَعۡضُهُمۡ اِلٰى بَعۡضٍؕ هَلۡ
-  يَرٰٮكُمۡ مِّنۡ اَحَدٍ ثُمَّ انْصَرَفُوۡا​ ؕ صَرَفَ اللّٰهُ قُلُوۡبَهُمۡ بِاَنَّهُمۡ
-  قَوۡمٌ لَّا يَفۡقَهُوۡنَ‏
+arabic_ayat: وَإِذَا مَآ أُنزِلَتۡ سُورَةٞ نَّظَرَ بَعۡضُهُمۡ إِلَىٰ بَعۡضٍ هَلۡ
+  يَرَىٰكُم مِّنۡ أَحَدٖ ثُمَّ ٱنصَرَفُواْۚ صَرَفَ ٱللَّهُ قُلُوبَهُم بِأَنَّهُمۡ
+  قَوۡمٞ لَّا يَفۡقَهُونَ
 sentence_translation: Whenever a sûrah is revealed, they look at one another, ˹saying,˺
   “Is anyone watching you?” Then they slip away. ˹It is˺ Allah ˹Who˺ has turned their
   hearts away because they are a people who do not comprehend.
 word_by_word:
   1:
-    arabic: وَاِذَا
+    arabic: وَإِذَا
     translation: And whenever
     transliteration: wa-idhā
   2:
-    arabic: مَاۤ
+    arabic: مَآ
     translation: And whenever
     transliteration: mā
   3:
-    arabic: اُنۡزِلَتۡ
+    arabic: أُنزِلَتۡ
     translation: is revealed
     transliteration: unzilat
   4:
-    arabic: سُوۡرَةٌ
+    arabic: سُورَةٞ
     translation: a Surah
     transliteration: sūratun
   5:
@@ -31,11 +31,11 @@ word_by_word:
     translation: some of them
     transliteration: baʿḍuhum
   7:
-    arabic: اِلٰى
+    arabic: إِلَىٰ
     translation: to
     transliteration: ilā
   8:
-    arabic: بَعۡضٍؕ
+    arabic: بَعۡضٍ
     translation: others
     transliteration: baʿḍin
   9:
@@ -43,7 +43,7 @@ word_by_word:
     translation: Does
     transliteration: hal
   10:
-    arabic: يَرٰٮكُمۡ
+    arabic: يَرَىٰكُم
     translation: see you
     transliteration: yarākum
   11:
@@ -51,7 +51,7 @@ word_by_word:
     translation: any
     transliteration: min
   12:
-    arabic: اَحَدٍ
+    arabic: أَحَدٖ
     translation: one
     transliteration: aḥadin
   13:
@@ -59,7 +59,7 @@ word_by_word:
     translation: Then
     transliteration: thumma
   14:
-    arabic: انْصَرَفُوۡا​ ؕ
+    arabic: ٱنصَرَفُواْۚ
     translation: they turn away
     transliteration: inṣarafū
   15:
@@ -67,19 +67,19 @@ word_by_word:
     translation: Allah has turned away
     transliteration: ṣarafa
   16:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah has turned away
     transliteration: l-lahu
   17:
-    arabic: قُلُوۡبَهُمۡ
+    arabic: قُلُوبَهُم
     translation: their hearts
     transliteration: qulūbahum
   18:
-    arabic: بِاَنَّهُمۡ
+    arabic: بِأَنَّهُمۡ
     translation: because they
     transliteration: bi-annahum
   19:
-    arabic: قَوۡمٌ
+    arabic: قَوۡمٞ
     translation: (are) a people
     transliteration: qawmun
   20:
@@ -87,7 +87,7 @@ word_by_word:
     translation: not
     transliteration: lā
   21:
-    arabic: يَفۡقَهُوۡنَ‏
+    arabic: يَفۡقَهُونَ
     translation: they understand
     transliteration: yafqahūna
 ---

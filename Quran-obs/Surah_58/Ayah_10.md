@@ -1,17 +1,17 @@
 ---
-arabic_ayat: اِنَّمَا النَّجۡوٰى مِنَ الشَّيۡطٰنِ لِيَحۡزُنَ الَّذِيۡنَ اٰمَنُوۡا
-  وَلَيۡسَ بِضَآرِّهِمۡ شَيۡـًٔـا اِلَّا بِاِذۡنِ اللّٰهِ​ؕ وَعَلَى اللّٰهِ فَلۡيَتَوَكَّلِ
-  الۡمُؤۡمِنُوۡنَ‏
+arabic_ayat: إِنَّمَا ٱلنَّجۡوَىٰ مِنَ ٱلشَّيۡطَٰنِ لِيَحۡزُنَ ٱلَّذِينَ ءَامَنُواْ
+  وَلَيۡسَ بِضَآرِّهِمۡ شَيۡـًٔا إِلَّا بِإِذۡنِ ٱللَّهِۚ وَعَلَى ٱللَّهِ فَلۡيَتَوَكَّلِ
+  ٱلۡمُؤۡمِنُونَ
 sentence_translation: Secret talks are only inspired by Satan to grieve the believers.
   Yet he cannot harm them whatsoever except by Allah’s Will. So in Allah let the believers
   put their trust.
 word_by_word:
   1:
-    arabic: اِنَّمَا
+    arabic: إِنَّمَا
     translation: Only
     transliteration: innamā
   2:
-    arabic: النَّجۡوٰى
+    arabic: ٱلنَّجۡوَىٰ
     translation: the secret counsels
     transliteration: l-najwā
   3:
@@ -19,7 +19,7 @@ word_by_word:
     translation: (are) from
     transliteration: mina
   4:
-    arabic: الشَّيۡطٰنِ
+    arabic: ٱلشَّيۡطَٰنِ
     translation: the Shaitaan
     transliteration: l-shayṭāni
   5:
@@ -27,11 +27,11 @@ word_by_word:
     translation: that he may grieve
     transliteration: liyaḥzuna
   6:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ ءَ
     translation: those who
     transliteration: alladhīna
   7:
-    arabic: اٰمَنُوۡا
+    arabic: امَنُواْ
     translation: believe
     transliteration: āmanū
   8:
@@ -43,19 +43,19 @@ word_by_word:
     translation: he (can) harm them
     transliteration: biḍārrihim
   10:
-    arabic: شَيۡـًٔـا
+    arabic: شَيۡـًٔا
     translation: (in) anything
     transliteration: shayan
   11:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   12:
-    arabic: بِاِذۡنِ
+    arabic: بِإِذۡنِ
     translation: by Allah's permission
     transliteration: bi-idh'ni
   13:
-    arabic: اللّٰهِ​ؕ
+    arabic: ٱللَّهِۚ
     translation: by Allah's permission
     transliteration: l-lahi
   14:
@@ -63,7 +63,7 @@ word_by_word:
     translation: And upon
     transliteration: waʿalā
   15:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   16:
@@ -71,7 +71,7 @@ word_by_word:
     translation: let put (their) trust
     transliteration: falyatawakkali
   17:
-    arabic: الۡمُؤۡمِنُوۡنَ‏
+    arabic: ٱلۡمُؤۡمِنُونَ
     translation: the believers
     transliteration: l-mu'minūna
 ---

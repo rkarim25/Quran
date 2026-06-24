@@ -1,14 +1,14 @@
 ---
-arabic_ayat: رَبَّنَا اكۡشِفۡ عَنَّا الۡعَذَابَ اِنَّا مُؤۡمِنُوۡنَ‏
+arabic_ayat: رَّبَّنَا ٱكۡشِفۡ عَنَّا ٱلۡعَذَابَ إِنَّا مُؤۡمِنُونَ
 sentence_translation: Our Lord! Remove ˹this˺ torment from us, ˹and˺ we will certainly
   believe.”
 word_by_word:
   1:
-    arabic: رَبَّنَا
+    arabic: رَّبَّنَا
     translation: Our Lord
     transliteration: rabbanā
   2:
-    arabic: اكۡشِفۡ
+    arabic: ٱكۡشِفۡ
     translation: Remove
     transliteration: ik'shif
   3:
@@ -16,15 +16,15 @@ word_by_word:
     translation: from us
     transliteration: ʿannā
   4:
-    arabic: الۡعَذَابَ
+    arabic: ٱلۡعَذَابَ
     translation: the punishment
     transliteration: l-ʿadhāba
   5:
-    arabic: اِنَّا
+    arabic: إِنَّا
     translation: indeed, we
     transliteration: innā
   6:
-    arabic: مُؤۡمِنُوۡنَ‏
+    arabic: مُؤۡمِنُونَ
     translation: (are) believers
     transliteration: mu'minūna
 ---

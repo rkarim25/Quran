@@ -1,9 +1,9 @@
 ---
-arabic_ayat: اَشِحَّةً عَلَيۡكُمۡ ​​ۖۚ فَاِذَا جَآءَ الۡخَوۡفُ رَاَيۡتَهُمۡ يَنۡظُرُوۡنَ
-  اِلَيۡكَ تَدُوۡرُ اَعۡيُنُهُمۡ كَالَّذِىۡ يُغۡشٰى عَلَيۡهِ مِنَ الۡمَوۡتِ​ ۚ فَاِذَا
-  ذَهَبَ الۡخَـوۡفُ سَلَقُوۡكُمۡ بِاَ لۡسِنَةٍ حِدَادٍ اَشِحَّةً عَلَى الۡخَيۡـرِ​
-  ؕ اُولٰٓٮِٕكَ لَمۡ يُؤۡمِنُوۡا فَاَحۡبَطَ اللّٰهُ اَعۡمَالَهُمۡ​ ؕ وَكَانَ ذٰ لِكَ
-  عَلَى اللّٰهِ يَسِيۡرًا‏
+arabic_ayat: أَشِحَّةً عَلَيۡكُمۡۖ فَإِذَا جَآءَ ٱلۡخَوۡفُ رَأَيۡتَهُمۡ يَنظُرُونَ
+  إِلَيۡكَ تَدُورُ أَعۡيُنُهُمۡ كَٱلَّذِي يُغۡشَىٰ عَلَيۡهِ مِنَ ٱلۡمَوۡتِۖ فَإِذَا
+  ذَهَبَ ٱلۡخَوۡفُ سَلَقُوكُم بِأَلۡسِنَةٍ حِدَادٍ أَشِحَّةً عَلَى ٱلۡخَيۡرِۚ أُوْلَٰٓئِكَ
+  لَمۡ يُؤۡمِنُواْ فَأَحۡبَطَ ٱللَّهُ أَعۡمَٰلَهُمۡۚ وَكَانَ ذَٰلِكَ عَلَى ٱللَّهِ
+  يَسِيرٗا
 sentence_translation: ˹They are˺ totally unwilling to assist you. When danger comes,
   you see them staring at you with their eyes rolling like someone in the throes of
   death. But once the danger is over, they slash you with razor-sharp tongues, ravenous
@@ -11,15 +11,15 @@ sentence_translation: ˹They are˺ totally unwilling to assist you. When danger 
   their deeds void. And that is easy for Allah.
 word_by_word:
   1:
-    arabic: اَشِحَّةً
+    arabic: أَشِحَّةً
     translation: Miserly
     transliteration: ashiḥḥatan
   2:
-    arabic: عَلَيۡكُمۡ ​​ۖۚ
+    arabic: عَلَيۡكُمۡۖ
     translation: towards you
     transliteration: ʿalaykum
   3:
-    arabic: فَاِذَا
+    arabic: فَإِذَا
     translation: But when
     transliteration: fa-idhā
   4:
@@ -27,35 +27,35 @@ word_by_word:
     translation: comes
     transliteration: jāa
   5:
-    arabic: الۡخَوۡفُ
+    arabic: ٱلۡخَوۡفُ
     translation: the fear
     transliteration: l-khawfu
   6:
-    arabic: رَاَيۡتَهُمۡ
+    arabic: رَأَيۡتَهُمۡ
     translation: you see them
     transliteration: ra-aytahum
   7:
-    arabic: يَنۡظُرُوۡنَ
+    arabic: يَنظُرُونَ
     translation: looking
     transliteration: yanẓurūna
   8:
-    arabic: اِلَيۡكَ
+    arabic: إِلَيۡكَ
     translation: at you
     transliteration: ilayka
   9:
-    arabic: تَدُوۡرُ
+    arabic: تَدُورُ
     translation: revolving
     transliteration: tadūru
   10:
-    arabic: اَعۡيُنُهُمۡ
+    arabic: أَعۡيُنُهُمۡ
     translation: their eyes
     transliteration: aʿyunuhum
   11:
-    arabic: كَالَّذِىۡ
+    arabic: كَٱلَّذِي
     translation: like one who
     transliteration: ka-alladhī
   12:
-    arabic: يُغۡشٰى
+    arabic: يُغۡشَىٰ
     translation: faints
     transliteration: yugh'shā
   13:
@@ -67,11 +67,11 @@ word_by_word:
     translation: from
     transliteration: mina
   15:
-    arabic: الۡمَوۡتِ​ ۚ
+    arabic: ٱلۡمَوۡتِۖ
     translation: '[the] death'
     transliteration: l-mawti
   16:
-    arabic: فَاِذَا
+    arabic: فَإِذَا
     translation: But when
     transliteration: fa-idhā
   17:
@@ -79,15 +79,15 @@ word_by_word:
     translation: departs
     transliteration: dhahaba
   18:
-    arabic: الۡخَـوۡفُ
+    arabic: ٱلۡخَوۡفُ
     translation: the fear
     transliteration: l-khawfu
   19:
-    arabic: سَلَقُوۡكُمۡ
+    arabic: سَلَقُوكُم
     translation: they smite you
     transliteration: salaqūkum
   20:
-    arabic: بِاَ لۡسِنَةٍ
+    arabic: بِأَلۡسِنَةٍ
     translation: with tongues
     transliteration: bi-alsinatin
   21:
@@ -95,7 +95,7 @@ word_by_word:
     translation: sharp
     transliteration: ḥidādin
   22:
-    arabic: اَشِحَّةً
+    arabic: أَشِحَّةً
     translation: miserly
     transliteration: ashiḥḥatan
   23:
@@ -103,11 +103,11 @@ word_by_word:
     translation: towards
     transliteration: ʿalā
   24:
-    arabic: الۡخَيۡـرِ​ ؕ
+    arabic: ٱلۡخَيۡرِۚ
     translation: the good
     transliteration: l-khayri
   25:
-    arabic: اُولٰٓٮِٕكَ
+    arabic: أُوْلَٰٓئِكَ
     translation: 'Those '
     transliteration: ulāika
   26:
@@ -115,19 +115,19 @@ word_by_word:
     translation: not
     transliteration: lam
   27:
-    arabic: يُؤۡمِنُوۡا
+    arabic: يُؤۡمِنُواْ
     translation: they have believed
     transliteration: yu'minū
   28:
-    arabic: فَاَحۡبَطَ
+    arabic: فَأَحۡبَطَ
     translation: so Allah made worthless
     transliteration: fa-aḥbaṭa
   29:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: so Allah made worthless
     transliteration: l-lahu
   30:
-    arabic: اَعۡمَالَهُمۡ​ ؕ
+    arabic: أَعۡمَٰلَهُمۡۚ
     translation: their deeds
     transliteration: aʿmālahum
   31:
@@ -135,7 +135,7 @@ word_by_word:
     translation: And is
     transliteration: wakāna
   32:
-    arabic: ذٰ لِكَ
+    arabic: ذَٰلِكَ
     translation: that
     transliteration: dhālika
   33:
@@ -143,11 +143,11 @@ word_by_word:
     translation: for
     transliteration: ʿalā
   34:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   35:
-    arabic: يَسِيۡرًا‏
+    arabic: يَسِيرٗا
     translation: easy
     transliteration: yasīran
 ---

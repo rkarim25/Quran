@@ -1,6 +1,6 @@
 ---
-arabic_ayat: وَمَا كَانَ لَهُمۡ مِّنۡ اَوۡلِيَآءَ يَنۡصُرُوۡنَهُمۡ مِّنۡ دُوۡنِ اللّٰهِ​ؕ
-  وَمَنۡ يُّضۡلِلِ اللّٰهُ فَمَا لَهٗ مِنۡ سَبِيۡلٍؕ‏
+arabic_ayat: وَمَا كَانَ لَهُم مِّنۡ أَوۡلِيَآءَ يَنصُرُونَهُم مِّن دُونِ ٱللَّهِۗ
+  وَمَن يُضۡلِلِ ٱللَّهُ فَمَا لَهُۥ مِن سَبِيلٍ
 sentence_translation: They will have no protectors to help them against Allah. And
   whoever Allah leaves to stray, for them there is no way.
 word_by_word:
@@ -13,7 +13,7 @@ word_by_word:
     translation: will be
     transliteration: kāna
   3:
-    arabic: لَهُمۡ
+    arabic: لَهُم
     translation: for them
     transliteration: lahum
   4:
@@ -21,35 +21,35 @@ word_by_word:
     translation: any
     transliteration: min
   5:
-    arabic: اَوۡلِيَآءَ
+    arabic: أَوۡلِيَآءَ
     translation: protector
     transliteration: awliyāa
   6:
-    arabic: يَنۡصُرُوۡنَهُمۡ
+    arabic: يَنصُرُونَهُم
     translation: (who) will help them
     transliteration: yanṣurūnahum
   7:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: besides
     transliteration: min
   8:
-    arabic: دُوۡنِ
+    arabic: دُونِ
     translation: besides
     transliteration: dūni
   9:
-    arabic: اللّٰهِ​ؕ
+    arabic: ٱللَّهِۗ
     translation: Allah
     transliteration: l-lahi
   10:
-    arabic: وَمَنۡ
+    arabic: وَمَن
     translation: And whom
     transliteration: waman
   11:
-    arabic: يُّضۡلِلِ
+    arabic: يُضۡلِلِ
     translation: Allah lets go astray
     transliteration: yuḍ'lili
   12:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah lets go astray
     transliteration: l-lahu
   13:
@@ -57,15 +57,15 @@ word_by_word:
     translation: then not
     transliteration: famā
   14:
-    arabic: لَهٗ
+    arabic: لَهُۥ
     translation: for him
     transliteration: lahu
   15:
-    arabic: مِنۡ
+    arabic: مِن
     translation: any
     transliteration: min
   16:
-    arabic: سَبِيۡلٍؕ‏
+    arabic: سَبِيلٍ
     translation: way
     transliteration: sabīlin
 ---

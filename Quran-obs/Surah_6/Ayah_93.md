@@ -1,10 +1,9 @@
 ---
-arabic_ayat: وَمَنۡ اَظۡلَمُ مِمَّنِ افۡتَـرٰى عَلَى اللّٰهِ كَذِبًا اَوۡ قَالَ اُوۡحِىَ
-  اِلَىَّ وَلَمۡ يُوۡحَ اِلَيۡهِ شَىۡءٌ وَّمَنۡ قَالَ سَاُنۡزِلُ مِثۡلَ مَاۤ اَنۡزَلَ
-  اللّٰهُ​ؕ وَلَوۡ تَرٰٓى اِذِ الظّٰلِمُوۡنَ فِىۡ غَمَرٰتِ الۡمَوۡتِ وَالۡمَلٰٓٮِٕكَةُ
-  بَاسِطُوۡۤا اَيۡدِيۡهِمۡ​ۚ اَخۡرِجُوۡۤا اَنۡفُسَكُمُ​ؕ اَلۡيَوۡمَ تُجۡزَوۡنَ عَذَابَ
-  الۡهُوۡنِ بِمَا كُنۡتُمۡ تَقُوۡلُوۡنَ عَلَى اللّٰهِ غَيۡرَ الۡحَـقِّ وَكُنۡتُمۡ
-  عَنۡ اٰيٰتِهٖ تَسۡتَكۡبِرُوۡنَ‏
+arabic_ayat: وَمَنۡ أَظۡلَمُ مِمَّنِ ٱفۡتَرَىٰ عَلَى ٱللَّهِ كَذِبًا أَوۡ قَالَ أُوحِيَ
+  إِلَيَّ وَلَمۡ يُوحَ إِلَيۡهِ شَيۡءٞ وَمَن قَالَ سَأُنزِلُ مِثۡلَ مَآ أَنزَلَ ٱللَّهُۗ
+  وَلَوۡ تَرَىٰٓ إِذِ ٱلظَّٰلِمُونَ فِي غَمَرَٰتِ ٱلۡمَوۡتِ وَٱلۡمَلَٰٓئِكَةُ بَاسِطُوٓاْ
+  أَيۡدِيهِمۡ أَخۡرِجُوٓاْ أَنفُسَكُمُۖ ٱلۡيَوۡمَ تُجۡزَوۡنَ عَذَابَ ٱلۡهُونِ بِمَا
+  كُنتُمۡ تَقُولُونَ عَلَى ٱللَّهِ غَيۡرَ ٱلۡحَقِّ وَكُنتُمۡ عَنۡ ءَايَٰتِهِۦ تَسۡتَكۡبِرُونَ
 sentence_translation: Who does more wrong than the one who fabricates lies against
   Allah or claims, “I have received revelations!”—although nothing was revealed to
   them—or the one who says, “I can reveal the like of Allah’s revelations!”? If you
@@ -18,7 +17,7 @@ word_by_word:
     translation: And who
     transliteration: waman
   2:
-    arabic: اَظۡلَمُ
+    arabic: أَظۡلَمُ
     translation: (is) more unjust
     transliteration: aẓlamu
   3:
@@ -26,7 +25,7 @@ word_by_word:
     translation: than (one) who
     transliteration: mimmani
   4:
-    arabic: افۡتَـرٰى
+    arabic: ٱفۡتَرَىٰ
     translation: invents
     transliteration: if'tarā
   5:
@@ -34,7 +33,7 @@ word_by_word:
     translation: about
     transliteration: ʿalā
   6:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   7:
@@ -42,7 +41,7 @@ word_by_word:
     translation: a lie
     transliteration: kadhiban
   8:
-    arabic: اَوۡ
+    arabic: أَوۡ
     translation: or
     transliteration: aw
   9:
@@ -50,11 +49,11 @@ word_by_word:
     translation: said
     transliteration: qāla
   10:
-    arabic: اُوۡحِىَ
+    arabic: أُوحِيَ
     translation: It has been inspired
     transliteration: ūḥiya
   11:
-    arabic: اِلَىَّ
+    arabic: إِلَيَّ
     translation: to me
     transliteration: ilayya
   12:
@@ -62,19 +61,19 @@ word_by_word:
     translation: while not
     transliteration: walam
   13:
-    arabic: يُوۡحَ
+    arabic: يُوحَ
     translation: it was inspired
     transliteration: yūḥa
   14:
-    arabic: اِلَيۡهِ
+    arabic: إِلَيۡهِ
     translation: to him
     transliteration: ilayhi
   15:
-    arabic: شَىۡءٌ
+    arabic: شَيۡءٞ
     translation: anything
     transliteration: shayon
   16:
-    arabic: وَّمَنۡ
+    arabic: وَمَن
     translation: and (one) who
     transliteration: waman
   17:
@@ -82,7 +81,7 @@ word_by_word:
     translation: said
     transliteration: qāla
   18:
-    arabic: سَاُنۡزِلُ
+    arabic: سَأُنزِلُ
     translation: I will reveal
     transliteration: sa-unzilu
   19:
@@ -90,15 +89,15 @@ word_by_word:
     translation: like
     transliteration: mith'la
   20:
-    arabic: مَاۤ
+    arabic: مَآ
     translation: what
     transliteration: mā
   21:
-    arabic: اَنۡزَلَ
+    arabic: أَنزَلَ
     translation: (has been) revealed
     transliteration: anzala
   22:
-    arabic: اللّٰهُ​ؕ
+    arabic: ٱللَّهُۗ
     translation: (by) Allah
     transliteration: l-lahu
   23:
@@ -106,51 +105,51 @@ word_by_word:
     translation: And if
     transliteration: walaw
   24:
-    arabic: تَرٰٓى
+    arabic: تَرَىٰٓ
     translation: you (could) see
     transliteration: tarā
   25:
-    arabic: اِذِ
+    arabic: إِذِ
     translation: when
     transliteration: idhi
   26:
-    arabic: الظّٰلِمُوۡنَ
+    arabic: ٱلظَّٰلِمُونَ
     translation: the wrongdoers
     transliteration: l-ẓālimūna
   27:
-    arabic: فِىۡ
+    arabic: فِي
     translation: (are) in
     transliteration: fī
   28:
-    arabic: غَمَرٰتِ
+    arabic: غَمَرَٰتِ
     translation: agonies
     transliteration: ghamarāti
   29:
-    arabic: الۡمَوۡتِ
+    arabic: ٱلۡمَوۡتِ
     translation: (of) [the] death
     transliteration: l-mawti
   30:
-    arabic: وَالۡمَلٰٓٮِٕكَةُ
+    arabic: وَٱلۡمَلَٰٓئِكَةُ
     translation: while the Angels
     transliteration: wal-malāikatu
   31:
-    arabic: بَاسِطُوۡۤا
+    arabic: بَاسِطُوٓاْ
     translation: (are) stretching out
     transliteration: bāsiṭū
   32:
-    arabic: اَيۡدِيۡهِمۡ​ۚ
+    arabic: أَيۡدِيهِمۡ
     translation: their hands (saying)
     transliteration: aydīhim
   33:
-    arabic: اَخۡرِجُوۡۤا
+    arabic: أَخۡرِجُوٓاْ
     translation: Discharge
     transliteration: akhrijū
   34:
-    arabic: اَنۡفُسَكُمُ​ؕ
+    arabic: أَنفُسَكُمُۖ
     translation: your souls
     transliteration: anfusakumu
   35:
-    arabic: اَلۡيَوۡمَ
+    arabic: ٱلۡيَوۡمَ
     translation: Today
     transliteration: l-yawma
   36:
@@ -162,7 +161,7 @@ word_by_word:
     translation: (with) punishment
     transliteration: ʿadhāba
   38:
-    arabic: الۡهُوۡنِ
+    arabic: ٱلۡهُونِ
     translation: humiliating
     transliteration: l-hūni
   39:
@@ -170,11 +169,11 @@ word_by_word:
     translation: because
     transliteration: bimā
   40:
-    arabic: كُنۡتُمۡ
+    arabic: كُنتُمۡ
     translation: you used to
     transliteration: kuntum
   41:
-    arabic: تَقُوۡلُوۡنَ
+    arabic: تَقُولُونَ
     translation: say
     transliteration: taqūlūna
   42:
@@ -182,7 +181,7 @@ word_by_word:
     translation: against
     transliteration: ʿalā
   43:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   44:
@@ -190,23 +189,23 @@ word_by_word:
     translation: other than
     transliteration: ghayra
   45:
-    arabic: الۡحَـقِّ
+    arabic: ٱلۡحَقِّ
     translation: the truth
     transliteration: l-ḥaqi
   46:
-    arabic: وَكُنۡتُمۡ
+    arabic: وَكُنتُمۡ
     translation: and you were
     transliteration: wakuntum
   47:
-    arabic: عَنۡ
+    arabic: عَنۡ ءَ
     translation: towards
     transliteration: ʿan
   48:
-    arabic: اٰيٰتِهٖ
+    arabic: ايَٰتِهِۦ
     translation: His Verses
     transliteration: āyātihi
   49:
-    arabic: تَسۡتَكۡبِرُوۡنَ‏
+    arabic: تَسۡتَكۡبِرُونَ
     translation: being arrogant
     transliteration: tastakbirūna
 ---

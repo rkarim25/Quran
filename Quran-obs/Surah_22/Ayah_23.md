@@ -1,17 +1,17 @@
 ---
-arabic_ayat: اِنَّ اللّٰهَ يُدۡخِلُ الَّذِيۡنَ اٰمَنُوۡا وَعَمِلُوا الصّٰلِحٰتِ جَنّٰتٍ
-  تَجۡرِىۡ مِنۡ تَحۡتِهَا الۡاَنۡهٰرُ يُحَلَّوۡنَ فِيۡهَا مِنۡ اَسَاوِرَ مِنۡ ذَهَبٍ
-  وَّلُـؤۡلُـؤًا ​ؕ وَلِبَاسُهُمۡ فِيۡهَا حَرِيۡرٌ‏
+arabic_ayat: إِنَّ ٱللَّهَ يُدۡخِلُ ٱلَّذِينَ ءَامَنُواْ وَعَمِلُواْ ٱلصَّٰلِحَٰتِ
+  جَنَّٰتٖ تَجۡرِي مِن تَحۡتِهَا ٱلۡأَنۡهَٰرُ يُحَلَّوۡنَ فِيهَا مِنۡ أَسَاوِرَ مِن
+  ذَهَبٖ وَلُؤۡلُؤٗاۖ وَلِبَاسُهُمۡ فِيهَا حَرِيرٞ
 sentence_translation: ˹But˺ Allah will surely admit those who believe and do good
   into Gardens, under which rivers flow, where they will be adorned with bracelets
   of gold and pearls, and their clothing will be silk,
 word_by_word:
   1:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   2:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   3:
@@ -19,31 +19,31 @@ word_by_word:
     translation: will admit
     transliteration: yud'khilu
   4:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ ءَ
     translation: those who
     transliteration: alladhīna
   5:
-    arabic: اٰمَنُوۡا
+    arabic: امَنُواْ
     translation: believe
     transliteration: āmanū
   6:
-    arabic: وَعَمِلُوا
+    arabic: وَعَمِلُواْ
     translation: and do
     transliteration: waʿamilū
   7:
-    arabic: الصّٰلِحٰتِ
+    arabic: ٱلصَّٰلِحَٰتِ
     translation: the righteous deeds
     transliteration: l-ṣāliḥāti
   8:
-    arabic: جَنّٰتٍ
+    arabic: جَنَّٰتٖ
     translation: (to) Gardens
     transliteration: jannātin
   9:
-    arabic: تَجۡرِىۡ
+    arabic: تَجۡرِي
     translation: flow
     transliteration: tajrī
   10:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   11:
@@ -51,7 +51,7 @@ word_by_word:
     translation: underneath it
     transliteration: taḥtihā
   12:
-    arabic: الۡاَنۡهٰرُ
+    arabic: ٱلۡأَنۡهَٰرُ
     translation: the rivers
     transliteration: l-anhāru
   13:
@@ -59,7 +59,7 @@ word_by_word:
     translation: They will be adorned
     transliteration: yuḥallawna
   14:
-    arabic: فِيۡهَا
+    arabic: فِيهَا
     translation: therein
     transliteration: fīhā
   15:
@@ -67,19 +67,19 @@ word_by_word:
     translation: with
     transliteration: min
   16:
-    arabic: اَسَاوِرَ
+    arabic: أَسَاوِرَ
     translation: bracelets
     transliteration: asāwira
   17:
-    arabic: مِنۡ
+    arabic: مِن
     translation: of
     transliteration: min
   18:
-    arabic: ذَهَبٍ
+    arabic: ذَهَبٖ
     translation: gold
     transliteration: dhahabin
   19:
-    arabic: وَّلُـؤۡلُـؤًا ​ؕ
+    arabic: وَلُؤۡلُؤٗاۖ
     translation: and pearl
     transliteration: walu'lu-an
   20:
@@ -87,11 +87,11 @@ word_by_word:
     translation: and their garments
     transliteration: walibāsuhum
   21:
-    arabic: فِيۡهَا
+    arabic: فِيهَا
     translation: therein
     transliteration: fīhā
   22:
-    arabic: حَرِيۡرٌ‏
+    arabic: حَرِيرٞ
     translation: (will be of) silk
     transliteration: ḥarīrun
 ---

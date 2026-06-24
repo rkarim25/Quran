@@ -1,26 +1,26 @@
 ---
-arabic_ayat: لِّـكُلِّ نَبَاٍ مُّسۡتَقَرٌّ​ وَّسَوۡفَ تَعۡلَمُوۡنَ‏
+arabic_ayat: لِّكُلِّ نَبَإٖ مُّسۡتَقَرّٞۚ وَسَوۡفَ تَعۡلَمُونَ
 sentence_translation: Every ˹destined˺ matter has a ˹set˺ time to transpire. And you
   will soon come to know.
 word_by_word:
   1:
-    arabic: لِّـكُلِّ
+    arabic: لِّكُلِّ
     translation: For every
     transliteration: likulli
   2:
-    arabic: نَبَاٍ
+    arabic: نَبَإٖ
     translation: news
     transliteration: naba-in
   3:
-    arabic: مُّسۡتَقَرٌّ​
+    arabic: مُّسۡتَقَرّٞۚ
     translation: (is) a fixed time
     transliteration: mus'taqarrun
   4:
-    arabic: وَّسَوۡفَ
+    arabic: وَسَوۡفَ
     translation: and soon
     transliteration: wasawfa
   5:
-    arabic: تَعۡلَمُوۡنَ‏
+    arabic: تَعۡلَمُونَ
     translation: you will know
     transliteration: taʿlamūna
 ---

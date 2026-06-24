@@ -1,11 +1,11 @@
 ---
-arabic_ayat: وَّاَنَّا مِنَّا الصّٰلِحُوۡنَ وَمِنَّا دُوۡنَ ذٰلِكَ​ؕ كُنَّا طَرَآٮِٕقَ
-  قِدَدًا ۙ‏
+arabic_ayat: وَأَنَّا مِنَّا ٱلصَّٰلِحُونَ وَمِنَّا دُونَ ذَٰلِكَۖ كُنَّا طَرَآئِقَ
+  قِدَدٗا
 sentence_translation: Among us are those who are righteous and those who are less
   so. We have been of different factions.
 word_by_word:
   1:
-    arabic: وَّاَنَّا
+    arabic: وَأَنَّا
     translation: And that [we]
     transliteration: wa-annā
   2:
@@ -13,7 +13,7 @@ word_by_word:
     translation: among us
     transliteration: minnā
   3:
-    arabic: الصّٰلِحُوۡنَ
+    arabic: ٱلصَّٰلِحُونَ
     translation: (are) the righteous
     transliteration: l-ṣāliḥūna
   4:
@@ -21,11 +21,11 @@ word_by_word:
     translation: and among us
     transliteration: waminnā
   5:
-    arabic: دُوۡنَ
+    arabic: دُونَ
     translation: (are) other than
     transliteration: dūna
   6:
-    arabic: ذٰلِكَ​ؕ
+    arabic: ذَٰلِكَۖ
     translation: that
     transliteration: dhālika
   7:
@@ -33,11 +33,11 @@ word_by_word:
     translation: We
     transliteration: kunnā
   8:
-    arabic: طَرَآٮِٕقَ
+    arabic: طَرَآئِقَ
     translation: (are on) ways
     transliteration: ṭarāiqa
   9:
-    arabic: قِدَدًا ۙ‏
+    arabic: قِدَدٗا
     translation: different
     transliteration: qidadan
 ---

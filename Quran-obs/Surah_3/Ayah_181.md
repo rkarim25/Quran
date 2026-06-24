@@ -1,13 +1,13 @@
 ---
-arabic_ayat: لَقَدۡ سَمِعَ اللّٰهُ قَوۡلَ الَّذِيۡنَ قَالُوۡۤا اِنَّ اللّٰهَ فَقِيۡرٌ
-  وَّنَحۡنُ اَغۡنِيَآءُ ​ۘ سَنَكۡتُبُ مَا قَالُوۡا وَقَتۡلَهُمُ الۡاَنۡۢبِيَآءَ
-  بِغَيۡرِ حَقٍّ ۙۚ وَّنَقُوۡلُ ذُوۡقُوۡا عَذَابَ الۡحَرِيۡقِ‏
+arabic_ayat: لَّقَدۡ سَمِعَ ٱللَّهُ قَوۡلَ ٱلَّذِينَ قَالُوٓاْ إِنَّ ٱللَّهَ فَقِيرٞ
+  وَنَحۡنُ أَغۡنِيَآءُۘ سَنَكۡتُبُ مَا قَالُواْ وَقَتۡلَهُمُ ٱلۡأَنۢبِيَآءَ بِغَيۡرِ
+  حَقّٖ وَنَقُولُ ذُوقُواْ عَذَابَ ٱلۡحَرِيقِ
 sentence_translation: Indeed, Allah has heard those ˹among the Jews˺ who said, “Allah
   is poor; we are rich!” We have certainly recorded their slurs and their killing
   of prophets unjustly. Then We will say, “Taste the torment of burning!
 word_by_word:
   1:
-    arabic: لَقَدۡ
+    arabic: لَّقَدۡ
     translation: Certainly
     transliteration: laqad
   2:
@@ -15,7 +15,7 @@ word_by_word:
     translation: heard
     transliteration: samiʿa
   3:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   4:
@@ -23,31 +23,31 @@ word_by_word:
     translation: (the) saying
     transliteration: qawla
   5:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: (of) those who
     transliteration: alladhīna
   6:
-    arabic: قَالُوۡۤا
+    arabic: قَالُوٓاْ
     translation: said
     transliteration: qālū
   7:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   8:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   9:
-    arabic: فَقِيۡرٌ
+    arabic: فَقِيرٞ
     translation: (is) poor
     transliteration: faqīrun
   10:
-    arabic: وَّنَحۡنُ
+    arabic: وَنَحۡنُ
     translation: while we
     transliteration: wanaḥnu
   11:
-    arabic: اَغۡنِيَآءُ ​ۘ
+    arabic: أَغۡنِيَآءُۘ
     translation: (are) rich
     transliteration: aghniyāu
   12:
@@ -59,7 +59,7 @@ word_by_word:
     translation: what
     transliteration: mā
   14:
-    arabic: قَالُوۡا
+    arabic: قَالُواْ
     translation: they said
     transliteration: qālū
   15:
@@ -67,7 +67,7 @@ word_by_word:
     translation: and their killing
     transliteration: waqatlahumu
   16:
-    arabic: الۡاَنۡۢبِيَآءَ
+    arabic: ٱلۡأَنۢبِيَآءَ
     translation: the Prophets
     transliteration: l-anbiyāa
   17:
@@ -75,15 +75,15 @@ word_by_word:
     translation: without
     transliteration: bighayri
   18:
-    arabic: حَقٍّ ۙۚ
+    arabic: حَقّٖ
     translation: (any) right
     transliteration: ḥaqqin
   19:
-    arabic: وَّنَقُوۡلُ
+    arabic: وَنَقُولُ
     translation: and We will say
     transliteration: wanaqūlu
   20:
-    arabic: ذُوۡقُوۡا
+    arabic: ذُوقُواْ
     translation: Taste
     transliteration: dhūqū
   21:
@@ -91,7 +91,7 @@ word_by_word:
     translation: (the) punishment
     transliteration: ʿadhāba
   22:
-    arabic: الۡحَرِيۡقِ‏
+    arabic: ٱلۡحَرِيقِ
     translation: (of) the Burning Fire
     transliteration: l-ḥarīqi
 ---

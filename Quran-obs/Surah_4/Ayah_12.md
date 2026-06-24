@@ -1,13 +1,13 @@
 ---
-arabic_ayat: وَلَـكُمۡ نِصۡفُ مَا تَرَكَ اَزۡوَاجُكُمۡ اِنۡ لَّمۡ يَكُنۡ لَّهُنَّ
-  وَلَدٌ ۚ فَاِنۡ كَانَ لَهُنَّ وَلَدٌ فَلَـكُمُ الرُّبُعُ مِمَّا تَرَكۡنَ​ مِنۡۢ
-  بَعۡدِ وَصِيَّةٍ يُّوۡصِيۡنَ بِهَاۤ اَوۡ دَ يۡنٍ​ ؕ وَلَهُنَّ الرُّبُعُ مِمَّا تَرَكۡتُمۡ
-  اِنۡ لَّمۡ يَكُنۡ لَّكُمۡ وَلَدٌ ۚ فَاِنۡ كَانَ لَـكُمۡ وَلَدٌ فَلَهُنَّ الثُّمُنُ
-  مِمَّا تَرَكۡتُمۡ​ مِّنۡۢ بَعۡدِ وَصِيَّةٍ تُوۡصُوۡنَ بِهَاۤ اَوۡ دَ يۡنٍ​ ؕ وَاِنۡ
-  كَانَ رَجُلٌ يُّوۡرَثُ كَلٰلَةً اَوِ امۡرَاَةٌ وَّلَهٗۤ اَخٌ اَوۡ اُخۡتٌ فَلِكُلِّ
-  وَاحِدٍ مِّنۡهُمَا السُّدُسُ​ ۚ فَاِنۡ كَانُوۡۤا اَكۡثَرَ مِنۡ ذٰ لِكَ فَهُمۡ شُرَكَآءُ
-  فِى الثُّلُثِ مِنۡۢ بَعۡدِ وَصِيَّةٍ يُّوۡصٰى بِهَاۤ اَوۡ دَ يۡنٍ ۙ غَيۡرَ مُضَآرٍّ​
-  ۚ وَصِيَّةً مِّنَ اللّٰهِ​ ؕ وَاللّٰهُ عَلِيۡمٌ حَلِيۡمٌ ؕ‏
+arabic_ayat: ۞ وَلَكُمۡ نِصۡفُ مَا تَرَكَ أَزۡوَٰجُكُمۡ إِن لَّمۡ يَكُن لَّهُنَّ وَلَدٞۚ
+  فَإِن كَانَ لَهُنَّ وَلَدٞ فَلَكُمُ ٱلرُّبُعُ مِمَّا تَرَكۡنَۚ مِنۢ بَعۡدِ وَصِيَّةٖ
+  يُوصِينَ بِهَآ أَوۡ دَيۡنٖۚ وَلَهُنَّ ٱلرُّبُعُ مِمَّا تَرَكۡتُمۡ إِن لَّمۡ يَكُن
+  لَّكُمۡ وَلَدٞۚ فَإِن كَانَ لَكُمۡ وَلَدٞ فَلَهُنَّ ٱلثُّمُنُ مِمَّا تَرَكۡتُمۚ
+  مِّنۢ بَعۡدِ وَصِيَّةٖ تُوصُونَ بِهَآ أَوۡ دَيۡنٖۗ وَإِن كَانَ رَجُلٞ يُورَثُ كَلَٰلَةً
+  أَوِ ٱمۡرَأَةٞ وَلَهُۥٓ أَخٌ أَوۡ أُخۡتٞ فَلِكُلِّ وَٰحِدٖ مِّنۡهُمَا ٱلسُّدُسُۚ
+  فَإِن كَانُوٓاْ أَكۡثَرَ مِن ذَٰلِكَ فَهُمۡ شُرَكَآءُ فِي ٱلثُّلُثِۚ مِنۢ بَعۡدِ
+  وَصِيَّةٖ يُوصَىٰ بِهَآ أَوۡ دَيۡنٍ غَيۡرَ مُضَآرّٖۚ وَصِيَّةٗ مِّنَ ٱللَّهِۗ
+  وَٱللَّهُ عَلِيمٌ حَلِيمٞ
 sentence_translation: You will inherit half of what your wives leave if they are childless.
   But if they have children, then ˹your share is˺ one-fourth of the estate—after the
   fulfilment of bequests and debts. And your wives will inherit one-fourth of what
@@ -20,7 +20,7 @@ sentence_translation: You will inherit half of what your wives leave if they are
   is All-Knowing, Most Forbearing.
 word_by_word:
   1:
-    arabic: ۞ وَلَـكُمۡ
+    arabic: ۞ وَلَكُمۡ
     translation: And for you
     transliteration: walakum
   2:
@@ -36,11 +36,11 @@ word_by_word:
     translation: (is) left
     transliteration: taraka
   5:
-    arabic: اَزۡوَاجُكُمۡ
+    arabic: أَزۡوَٰجُكُمۡ
     translation: by your wives
     transliteration: azwājukum
   6:
-    arabic: اِنۡ
+    arabic: إِن
     translation: if
     transliteration: in
   7:
@@ -48,7 +48,7 @@ word_by_word:
     translation: not
     transliteration: lam
   8:
-    arabic: يَكُنۡ
+    arabic: يَكُن
     translation: is
     transliteration: yakun
   9:
@@ -56,11 +56,11 @@ word_by_word:
     translation: for them
     transliteration: lahunna
   10:
-    arabic: وَلَدٌ ۚ
+    arabic: وَلَدٞۚ
     translation: a child
     transliteration: waladun
   11:
-    arabic: فَاِنۡ
+    arabic: فَإِن
     translation: But if
     transliteration: fa-in
   12:
@@ -72,15 +72,15 @@ word_by_word:
     translation: for them
     transliteration: lahunna
   14:
-    arabic: وَلَدٌ
+    arabic: وَلَدٞ
     translation: a child
     transliteration: waladun
   15:
-    arabic: فَلَـكُمُ
+    arabic: فَلَكُمُ
     translation: then for you
     transliteration: falakumu
   16:
-    arabic: الرُّبُعُ
+    arabic: ٱلرُّبُعُ
     translation: (is) the fourth
     transliteration: l-rubuʿu
   17:
@@ -88,11 +88,11 @@ word_by_word:
     translation: of what
     transliteration: mimmā
   18:
-    arabic: تَرَكۡنَ​
+    arabic: تَرَكۡنَۚ
     translation: they left
     transliteration: tarakna
   19:
-    arabic: مِنۡۢ
+    arabic: مِنۢ
     translation: from
     transliteration: min
   20:
@@ -100,23 +100,23 @@ word_by_word:
     translation: after
     transliteration: baʿdi
   21:
-    arabic: وَصِيَّةٍ
+    arabic: وَصِيَّةٖ
     translation: any will
     transliteration: waṣiyyatin
   22:
-    arabic: يُّوۡصِيۡنَ
+    arabic: يُوصِينَ
     translation: they have made
     transliteration: yūṣīna
   23:
-    arabic: بِهَاۤ
+    arabic: بِهَآ
     translation: '[for which]'
     transliteration: bihā
   24:
-    arabic: اَوۡ
+    arabic: أَوۡ
     translation: or
     transliteration: aw
   25:
-    arabic: دَ يۡنٍ​ ؕ
+    arabic: دَيۡنٖۚ
     translation: any debt
     transliteration: daynin
   26:
@@ -124,7 +124,7 @@ word_by_word:
     translation: And for them
     transliteration: walahunna
   27:
-    arabic: الرُّبُعُ
+    arabic: ٱلرُّبُعُ
     translation: (is) the fourth
     transliteration: l-rubuʿu
   28:
@@ -136,7 +136,7 @@ word_by_word:
     translation: you left
     transliteration: taraktum
   30:
-    arabic: اِنۡ
+    arabic: إِن
     translation: if
     transliteration: in
   31:
@@ -144,7 +144,7 @@ word_by_word:
     translation: not
     transliteration: lam
   32:
-    arabic: يَكُنۡ
+    arabic: يَكُن
     translation: is
     transliteration: yakun
   33:
@@ -152,11 +152,11 @@ word_by_word:
     translation: for you
     transliteration: lakum
   34:
-    arabic: وَلَدٌ ۚ
+    arabic: وَلَدٞۚ
     translation: a child
     transliteration: waladun
   35:
-    arabic: فَاِنۡ
+    arabic: فَإِن
     translation: But if
     transliteration: fa-in
   36:
@@ -164,11 +164,11 @@ word_by_word:
     translation: is
     transliteration: kāna
   37:
-    arabic: لَـكُمۡ
+    arabic: لَكُمۡ
     translation: for you
     transliteration: lakum
   38:
-    arabic: وَلَدٌ
+    arabic: وَلَدٞ
     translation: a child
     transliteration: waladun
   39:
@@ -176,7 +176,7 @@ word_by_word:
     translation: then for them
     transliteration: falahunna
   40:
-    arabic: الثُّمُنُ
+    arabic: ٱلثُّمُنُ
     translation: (is) the eighth
     transliteration: l-thumunu
   41:
@@ -184,11 +184,11 @@ word_by_word:
     translation: of what
     transliteration: mimmā
   42:
-    arabic: تَرَكۡتُمۡ​
+    arabic: تَرَكۡتُمۚ
     translation: you left
     transliteration: taraktum
   43:
-    arabic: مِّنۡۢ
+    arabic: مِّنۢ
     translation: from
     transliteration: min
   44:
@@ -196,27 +196,27 @@ word_by_word:
     translation: after
     transliteration: baʿdi
   45:
-    arabic: وَصِيَّةٍ
+    arabic: وَصِيَّةٖ
     translation: any will
     transliteration: waṣiyyatin
   46:
-    arabic: تُوۡصُوۡنَ
+    arabic: تُوصُونَ
     translation: you have made
     transliteration: tūṣūna
   47:
-    arabic: بِهَاۤ
+    arabic: بِهَآ
     translation: '[for which]'
     transliteration: bihā
   48:
-    arabic: اَوۡ
+    arabic: أَوۡ
     translation: or
     transliteration: aw
   49:
-    arabic: دَ يۡنٍ​ ؕ
+    arabic: دَيۡنٖۗ
     translation: any debt
     transliteration: daynin
   50:
-    arabic: وَاِنۡ
+    arabic: وَإِن
     translation: And if
     transliteration: wa-in
   51:
@@ -224,39 +224,39 @@ word_by_word:
     translation: '[is]'
     transliteration: kāna
   52:
-    arabic: رَجُلٌ
+    arabic: رَجُلٞ
     translation: a man
     transliteration: rajulun
   53:
-    arabic: يُّوۡرَثُ
+    arabic: يُورَثُ
     translation: (whose wealth) is to be inherited
     transliteration: yūrathu
   54:
-    arabic: كَلٰلَةً
+    arabic: كَلَٰلَةً
     translation: (has) no parent or child
     transliteration: kalālatan
   55:
-    arabic: اَوِ
+    arabic: أَوِ
     translation: or
     transliteration: awi
   56:
-    arabic: امۡرَاَةٌ
+    arabic: ٱمۡرَأَةٞ
     translation: a women
     transliteration: im'ra-atun
   57:
-    arabic: وَّلَهٗۤ
+    arabic: وَلَهُۥٓ
     translation: and for him
     transliteration: walahu
   58:
-    arabic: اَخٌ
+    arabic: أَخٌ
     translation: (is) a brother
     transliteration: akhun
   59:
-    arabic: اَوۡ
+    arabic: أَوۡ
     translation: or
     transliteration: aw
   60:
-    arabic: اُخۡتٌ
+    arabic: أُخۡتٞ
     translation: a sister
     transliteration: ukh'tun
   61:
@@ -264,7 +264,7 @@ word_by_word:
     translation: then for each
     transliteration: falikulli
   62:
-    arabic: وَاحِدٍ
+    arabic: وَٰحِدٖ
     translation: one
     transliteration: wāḥidin
   63:
@@ -272,27 +272,27 @@ word_by_word:
     translation: of (the) two
     transliteration: min'humā
   64:
-    arabic: السُّدُسُ​ ۚ
+    arabic: ٱلسُّدُسُۚ
     translation: (is) the sixth
     transliteration: l-sudusu
   65:
-    arabic: فَاِنۡ
+    arabic: فَإِن
     translation: But if
     transliteration: fa-in
   66:
-    arabic: كَانُوۡۤا
+    arabic: كَانُوٓاْ
     translation: they are
     transliteration: kānū
   67:
-    arabic: اَكۡثَرَ
+    arabic: أَكۡثَرَ
     translation: more
     transliteration: akthara
   68:
-    arabic: مِنۡ
+    arabic: مِن
     translation: than
     transliteration: min
   69:
-    arabic: ذٰ لِكَ
+    arabic: ذَٰلِكَ
     translation: that
     transliteration: dhālika
   70:
@@ -304,15 +304,15 @@ word_by_word:
     translation: (are) partners
     transliteration: shurakāu
   72:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   73:
-    arabic: الثُّلُثِ
+    arabic: ٱلثُّلُثِۚ
     translation: the third
     transliteration: l-thuluthi
   74:
-    arabic: مِنۡۢ
+    arabic: مِنۢ
     translation: from
     transliteration: min
   75:
@@ -320,23 +320,23 @@ word_by_word:
     translation: after
     transliteration: baʿdi
   76:
-    arabic: وَصِيَّةٍ
+    arabic: وَصِيَّةٖ
     translation: any will
     transliteration: waṣiyyatin
   77:
-    arabic: يُّوۡصٰى
+    arabic: يُوصَىٰ
     translation: was made
     transliteration: yūṣā
   78:
-    arabic: بِهَاۤ
+    arabic: بِهَآ
     translation: '[for which]'
     transliteration: bihā
   79:
-    arabic: اَوۡ
+    arabic: أَوۡ
     translation: or
     transliteration: aw
   80:
-    arabic: دَ يۡنٍ ۙ
+    arabic: دَيۡنٍ
     translation: any debt
     transliteration: daynin
   81:
@@ -344,11 +344,11 @@ word_by_word:
     translation: without
     transliteration: ghayra
   82:
-    arabic: مُضَآرٍّ​ ۚ
+    arabic: مُضَآرّٖۚ
     translation: (being) harmful
     transliteration: muḍārrin
   83:
-    arabic: وَصِيَّةً
+    arabic: وَصِيَّةٗ
     translation: An ordinance
     transliteration: waṣiyyatan
   84:
@@ -356,19 +356,19 @@ word_by_word:
     translation: from
     transliteration: mina
   85:
-    arabic: اللّٰهِ​ ؕ
+    arabic: ٱللَّهِۗ
     translation: Allah
     transliteration: l-lahi
   86:
-    arabic: وَاللّٰهُ
+    arabic: وَٱللَّهُ
     translation: And Allah
     transliteration: wal-lahu
   87:
-    arabic: عَلِيۡمٌ
+    arabic: عَلِيمٌ
     translation: (is) All-Knowing
     transliteration: ʿalīmun
   88:
-    arabic: حَلِيۡمٌ ؕ‏
+    arabic: حَلِيمٞ
     translation: All-Forbearing
     transliteration: ḥalīmun
 ---

@@ -1,8 +1,8 @@
 ---
-arabic_ayat: اَوۡ تَقُوۡلُوۡا لَوۡ اَنَّاۤ اُنۡزِلَ عَلَيۡنَا الۡـكِتٰبُ لَـكُنَّاۤ
-  اَهۡدٰى مِنۡهُمۡ​ ۚ فَقَدۡ جَآءَكُمۡ بَيِّنَةٌ مِّنۡ رَّبِّكُمۡ وَهُدًى وَرَحۡمَةٌ​ 
-  ۚ فَمَنۡ اَظۡلَمُ مِمَّنۡ كَذَّبَ بِاٰيٰتِ اللّٰهِ وَصَدَفَ عَنۡهَا​ ؕ سَنَجۡزِى
-  الَّذِيۡنَ يَصۡدِفُوۡنَ عَنۡ اٰيٰتِنَا سُوۡٓءَ الۡعَذَابِ بِمَا كَانُوۡا يَصۡدِفُوۡنَ‏
+arabic_ayat: أَوۡ تَقُولُواْ لَوۡ أَنَّآ أُنزِلَ عَلَيۡنَا ٱلۡكِتَٰبُ لَكُنَّآ أَهۡدَىٰ
+  مِنۡهُمۡۚ فَقَدۡ جَآءَكُم بَيِّنَةٞ مِّن رَّبِّكُمۡ وَهُدٗى وَرَحۡمَةٞۚ فَمَنۡ
+  أَظۡلَمُ مِمَّن كَذَّبَ بِـَٔايَٰتِ ٱللَّهِ وَصَدَفَ عَنۡهَاۗ سَنَجۡزِي ٱلَّذِينَ
+  يَصۡدِفُونَ عَنۡ ءَايَٰتِنَا سُوٓءَ ٱلۡعَذَابِ بِمَا كَانُواْ يَصۡدِفُونَ
 sentence_translation: Nor can you say, “If only the Scriptures had been revealed to
   us, we would have been better guided than they.” Now there has come to you from
   your Lord a clear proof—a guide and mercy. Who then does more wrong than those who
@@ -10,11 +10,11 @@ sentence_translation: Nor can you say, “If only the Scriptures had been reveal
   away from Our revelations with a dreadful punishment for turning away.
 word_by_word:
   1:
-    arabic: اَوۡ
+    arabic: أَوۡ
     translation: Or
     transliteration: aw
   2:
-    arabic: تَقُوۡلُوۡا
+    arabic: تَقُولُواْ
     translation: you say
     transliteration: taqūlū
   3:
@@ -22,11 +22,11 @@ word_by_word:
     translation: If
     transliteration: law
   4:
-    arabic: اَنَّاۤ
+    arabic: أَنَّآ
     translation: '[that]'
     transliteration: annā
   5:
-    arabic: اُنۡزِلَ
+    arabic: أُنزِلَ
     translation: was revealed
     transliteration: unzila
   6:
@@ -34,19 +34,19 @@ word_by_word:
     translation: to us
     transliteration: ʿalaynā
   7:
-    arabic: الۡـكِتٰبُ
+    arabic: ٱلۡكِتَٰبُ
     translation: the Book
     transliteration: l-kitābu
   8:
-    arabic: لَـكُنَّاۤ
+    arabic: لَكُنَّآ
     translation: surely we (would) have been
     transliteration: lakunnā
   9:
-    arabic: اَهۡدٰى
+    arabic: أَهۡدَىٰ
     translation: better guided
     transliteration: ahdā
   10:
-    arabic: مِنۡهُمۡ​ ۚ
+    arabic: مِنۡهُمۡۚ
     translation: than them
     transliteration: min'hum
   11:
@@ -54,15 +54,15 @@ word_by_word:
     translation: So verily
     transliteration: faqad
   12:
-    arabic: جَآءَكُمۡ
+    arabic: جَآءَكُم
     translation: has come to you
     transliteration: jāakum
   13:
-    arabic: بَيِّنَةٌ
+    arabic: بَيِّنَةٞ
     translation: clear proofs
     transliteration: bayyinatun
   14:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: from
     transliteration: min
   15:
@@ -70,11 +70,11 @@ word_by_word:
     translation: your Lord
     transliteration: rabbikum
   16:
-    arabic: وَهُدًى
+    arabic: وَهُدٗى
     translation: and a Guidance
     transliteration: wahudan
   17:
-    arabic: وَرَحۡمَةٌ​  ۚ
+    arabic: وَرَحۡمَةٞۚ
     translation: and a Mercy
     transliteration: waraḥmatun
   18:
@@ -82,11 +82,11 @@ word_by_word:
     translation: Then who
     transliteration: faman
   19:
-    arabic: اَظۡلَمُ
+    arabic: أَظۡلَمُ
     translation: (is) more unjust
     transliteration: aẓlamu
   20:
-    arabic: مِمَّنۡ
+    arabic: مِمَّن
     translation: than (he) who
     transliteration: mimman
   21:
@@ -94,11 +94,11 @@ word_by_word:
     translation: denies
     transliteration: kadhaba
   22:
-    arabic: بِاٰيٰتِ
+    arabic: بِـَٔايَٰتِ
     translation: '[with] (the) Verses'
     transliteration: biāyāti
   23:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (of) Allah
     transliteration: l-lahi
   24:
@@ -106,35 +106,35 @@ word_by_word:
     translation: and turns away
     transliteration: waṣadafa
   25:
-    arabic: عَنۡهَا​ ؕ
+    arabic: عَنۡهَاۗ
     translation: from them
     transliteration: ʿanhā
   26:
-    arabic: سَنَجۡزِى
+    arabic: سَنَجۡزِي
     translation: We will recompense
     transliteration: sanajzī
   27:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   28:
-    arabic: يَصۡدِفُوۡنَ
+    arabic: يَصۡدِفُونَ
     translation: turn away
     transliteration: yaṣdifūna
   29:
-    arabic: عَنۡ
+    arabic: عَنۡ ءَ
     translation: from
     transliteration: ʿan
   30:
-    arabic: اٰيٰتِنَا
+    arabic: ايَٰتِنَا
     translation: Our Signs
     transliteration: āyātinā
   31:
-    arabic: سُوۡٓءَ
+    arabic: سُوٓءَ
     translation: (with) an evil
     transliteration: sūa
   32:
-    arabic: الۡعَذَابِ
+    arabic: ٱلۡعَذَابِ
     translation: punishment
     transliteration: l-ʿadhābi
   33:
@@ -142,11 +142,11 @@ word_by_word:
     translation: because
     transliteration: bimā
   34:
-    arabic: كَانُوۡا
+    arabic: كَانُواْ
     translation: they used to
     transliteration: kānū
   35:
-    arabic: يَصۡدِفُوۡنَ‏
+    arabic: يَصۡدِفُونَ
     translation: turn away
     transliteration: yaṣdifūna
 ---

@@ -1,17 +1,16 @@
 ---
-arabic_ayat: "فَاتَّقُوا اللّٰهَ مَا اسۡتَطَعۡتُمۡ وَاسۡمَعُوۡا وَاَطِيۡعُوۡا وَاَنۡفِقُوۡا\
-  \ خَيۡرًا لِّاَنۡفُسِكُمۡ​ؕ وَمَنۡ يُّوۡقَ شُحَّ نَفۡسِهٖ فَاُولٰٓٮِٕكَ هُمُ الۡمُفۡلِحُوۡنَ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: فَٱتَّقُواْ ٱللَّهَ مَا ٱسۡتَطَعۡتُمۡ وَٱسۡمَعُواْ وَأَطِيعُواْ وَأَنفِقُواْ
+  خَيۡرٗا لِّأَنفُسِكُمۡۗ وَمَن يُوقَ شُحَّ نَفۡسِهِۦ فَأُوْلَٰٓئِكَ هُمُ ٱلۡمُفۡلِحُونَ
 sentence_translation: So be mindful of Allah to the best of your ability, hear and
   obey, and spend in charity—that will be best for you. And whoever is saved from
   the selfishness of their own souls, it is they who are ˹truly˺ successful.
 word_by_word:
   1:
-    arabic: فَاتَّقُوا
+    arabic: فَٱتَّقُواْ
     translation: So fear
     transliteration: fa-ittaqū
   2:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   3:
@@ -19,35 +18,35 @@ word_by_word:
     translation: what
     transliteration: mā
   4:
-    arabic: اسۡتَطَعۡتُمۡ
+    arabic: ٱسۡتَطَعۡتُمۡ
     translation: you are able
     transliteration: is'taṭaʿtum
   5:
-    arabic: وَاسۡمَعُوۡا
+    arabic: وَٱسۡمَعُواْ
     translation: and listen
     transliteration: wa-is'maʿū
   6:
-    arabic: وَاَطِيۡعُوۡا
+    arabic: وَأَطِيعُواْ
     translation: and obey
     transliteration: wa-aṭīʿū
   7:
-    arabic: وَاَنۡفِقُوۡا
+    arabic: وَأَنفِقُواْ
     translation: and spend
     transliteration: wa-anfiqū
   8:
-    arabic: خَيۡرًا
+    arabic: خَيۡرٗا
     translation: (it is) better
     transliteration: khayran
   9:
-    arabic: لِّاَنۡفُسِكُمۡ​ؕ
+    arabic: لِّأَنفُسِكُمۡۗ
     translation: for yourselves
     transliteration: li-anfusikum
   10:
-    arabic: وَمَنۡ
+    arabic: وَمَن
     translation: And whoever
     transliteration: waman
   11:
-    arabic: يُّوۡقَ
+    arabic: يُوقَ
     translation: is saved
     transliteration: yūqa
   12:
@@ -55,11 +54,11 @@ word_by_word:
     translation: (from the) greediness
     transliteration: shuḥḥa
   13:
-    arabic: نَفۡسِهٖ
+    arabic: نَفۡسِهِۦ
     translation: (of) his soul
     transliteration: nafsihi
   14:
-    arabic: فَاُولٰٓٮِٕكَ
+    arabic: فَأُوْلَٰٓئِكَ
     translation: then those
     transliteration: fa-ulāika
   15:
@@ -67,7 +66,7 @@ word_by_word:
     translation: '[they]'
     transliteration: humu
   16:
-    arabic: "الۡمُفۡلِحُوۡنَ‏ \uFEFF\uFEFF"
+    arabic: ٱلۡمُفۡلِحُونَ
     translation: (are) the successful ones
     transliteration: l-muf'liḥūna
 ---

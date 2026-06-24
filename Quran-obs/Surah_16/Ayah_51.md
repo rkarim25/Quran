@@ -1,15 +1,15 @@
 ---
-arabic_ayat: وَقَالَ اللّٰهُ لَا تَـتَّخِذُوۡۤا اِلٰهَيۡنِ اثۡنَيۡنِ​ۚ اِنَّمَا هُوَ
-  اِلٰـهٌ وَّاحِدٌ​ ۚ فَاِيَّاىَ فَارۡهَبُوۡنِ‏
+arabic_ayat: ۞ وَقَالَ ٱللَّهُ لَا تَتَّخِذُوٓاْ إِلَٰهَيۡنِ ٱثۡنَيۡنِۖ إِنَّمَا هُوَ
+  إِلَٰهٞ وَٰحِدٞ فَإِيَّٰيَ فَٱرۡهَبُونِ
 sentence_translation: And Allah has said, “Do not take two gods. There is only One
   God. So be in awe of Me ˹alone˺.”
 word_by_word:
   1:
-    arabic: ۞ وَقَالَ
+    arabic: ۞ وَقَالَ
     translation: And Allah has said
     transliteration: waqāla
   2:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: And Allah has said
     transliteration: l-lahu
   3:
@@ -17,19 +17,19 @@ word_by_word:
     translation: (Do) not
     transliteration: lā
   4:
-    arabic: تَـتَّخِذُوۡۤا
+    arabic: تَتَّخِذُوٓاْ
     translation: take
     transliteration: tattakhidhū
   5:
-    arabic: اِلٰهَيۡنِ
+    arabic: إِلَٰهَيۡنِ
     translation: '[two] gods'
     transliteration: ilāhayni
   6:
-    arabic: اثۡنَيۡنِ​ۚ
+    arabic: ٱثۡنَيۡنِۖ
     translation: two
     transliteration: ith'nayni
   7:
-    arabic: اِنَّمَا
+    arabic: إِنَّمَا
     translation: only
     transliteration: innamā
   8:
@@ -37,19 +37,19 @@ word_by_word:
     translation: He
     transliteration: huwa
   9:
-    arabic: اِلٰـهٌ
+    arabic: إِلَٰهٞ
     translation: (is) God
     transliteration: ilāhun
   10:
-    arabic: وَّاحِدٌ​ ۚ
+    arabic: وَٰحِدٞ
     translation: One
     transliteration: wāḥidun
   11:
-    arabic: فَاِيَّاىَ
+    arabic: فَإِيَّٰيَ
     translation: so Me Alone
     transliteration: fa-iyyāya
   12:
-    arabic: فَارۡهَبُوۡنِ‏
+    arabic: فَٱرۡهَبُونِ
     translation: you fear [Me]
     transliteration: fa-ir'habūni
 ---

@@ -1,21 +1,21 @@
 ---
-arabic_ayat: اِنَّكُمۡ لَذَآٮِٕقُوا الۡعَذَابِ الۡاَلِيۡمِ​ۚ‏
+arabic_ayat: إِنَّكُمۡ لَذَآئِقُواْ ٱلۡعَذَابِ ٱلۡأَلِيمِ
 sentence_translation: You will certainly taste the painful torment,
 word_by_word:
   1:
-    arabic: اِنَّكُمۡ
+    arabic: إِنَّكُمۡ
     translation: Indeed, you
     transliteration: innakum
   2:
-    arabic: لَذَآٮِٕقُوا
+    arabic: لَذَآئِقُواْ
     translation: (will) surely taste
     transliteration: ladhāiqū
   3:
-    arabic: الۡعَذَابِ
+    arabic: ٱلۡعَذَابِ
     translation: the punishment
     transliteration: l-ʿadhābi
   4:
-    arabic: الۡاَلِيۡمِ​ۚ‏
+    arabic: ٱلۡأَلِيمِ
     translation: painful
     transliteration: l-alīmi
 ---

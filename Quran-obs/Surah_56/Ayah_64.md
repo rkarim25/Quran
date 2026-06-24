@@ -1,17 +1,17 @@
 ---
-arabic_ayat: ءَاَنۡتُمۡ تَزۡرَعُوۡنَهٗۤ اَمۡ نَحۡنُ الزّٰرِعُوۡنَ‏
+arabic_ayat: ءَأَنتُمۡ تَزۡرَعُونَهُۥٓ أَمۡ نَحۡنُ ٱلزَّٰرِعُونَ
 sentence_translation: Is it you who cause it to grow, or is it We Who do so?
 word_by_word:
   1:
-    arabic: ءَاَنۡتُمۡ
+    arabic: ءَأَنتُمۡ
     translation: Is it you (who)
     transliteration: a-antum
   2:
-    arabic: تَزۡرَعُوۡنَهٗۤ
+    arabic: تَزۡرَعُونَهُۥٓ
     translation: cause it to grow
     transliteration: tazraʿūnahu
   3:
-    arabic: اَمۡ
+    arabic: أَمۡ
     translation: or
     transliteration: am
   4:
@@ -19,7 +19,7 @@ word_by_word:
     translation: (are) We
     transliteration: naḥnu
   5:
-    arabic: الزّٰرِعُوۡنَ‏
+    arabic: ٱلزَّٰرِعُونَ
     translation: the Ones Who grow
     transliteration: l-zāriʿūna
 ---

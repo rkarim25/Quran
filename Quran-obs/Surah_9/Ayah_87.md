@@ -1,19 +1,19 @@
 ---
-arabic_ayat: رَضُوۡا بِاَنۡ يَّكُوۡنُوۡا مَعَ الۡخَوَالِفِ وَطُبِعَ عَلٰى قُلُوۡبِهِمۡ
-  فَهُمۡ لَا يَفۡقَهُوۡنَ‏
+arabic_ayat: رَضُواْ بِأَن يَكُونُواْ مَعَ ٱلۡخَوَالِفِ وَطُبِعَ عَلَىٰ قُلُوبِهِمۡ
+  فَهُمۡ لَا يَفۡقَهُونَ
 sentence_translation: They preferred to stay behind with the helpless, and their hearts
   have been sealed so they do not comprehend.
 word_by_word:
   1:
-    arabic: رَضُوۡا
+    arabic: رَضُواْ
     translation: They (were) satisfied
     transliteration: raḍū
   2:
-    arabic: بِاَنۡ
+    arabic: بِأَن
     translation: to
     transliteration: bi-an
   3:
-    arabic: يَّكُوۡنُوۡا
+    arabic: يَكُونُواْ
     translation: be
     transliteration: yakūnū
   4:
@@ -21,7 +21,7 @@ word_by_word:
     translation: with
     transliteration: maʿa
   5:
-    arabic: الۡخَوَالِفِ
+    arabic: ٱلۡخَوَالِفِ
     translation: those who stay behind
     transliteration: l-khawālifi
   6:
@@ -29,11 +29,11 @@ word_by_word:
     translation: and were sealed
     transliteration: waṭubiʿa
   7:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: '[on]'
     transliteration: ʿalā
   8:
-    arabic: قُلُوۡبِهِمۡ
+    arabic: قُلُوبِهِمۡ
     translation: their hearts
     transliteration: qulūbihim
   9:
@@ -45,7 +45,7 @@ word_by_word:
     translation: (do) not
     transliteration: lā
   11:
-    arabic: يَفۡقَهُوۡنَ‏
+    arabic: يَفۡقَهُونَ
     translation: understand
     transliteration: yafqahūna
 ---

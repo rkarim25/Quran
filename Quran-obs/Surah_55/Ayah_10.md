@@ -1,9 +1,9 @@
 ---
-arabic_ayat: وَالۡاَرۡضَ وَضَعَهَا لِلۡاَنَامِۙ‏
+arabic_ayat: وَٱلۡأَرۡضَ وَضَعَهَا لِلۡأَنَامِ
 sentence_translation: He laid out the earth for all beings.
 word_by_word:
   1:
-    arabic: وَالۡاَرۡضَ
+    arabic: وَٱلۡأَرۡضَ
     translation: And the earth
     transliteration: wal-arḍa
   2:
@@ -11,7 +11,7 @@ word_by_word:
     translation: He laid it
     transliteration: waḍaʿahā
   3:
-    arabic: لِلۡاَنَامِۙ‏
+    arabic: لِلۡأَنَامِ
     translation: for the creatures
     transliteration: lil'anāmi
 ---

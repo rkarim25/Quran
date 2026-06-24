@@ -1,18 +1,18 @@
 ---
-arabic_ayat: قِيۡلَ ادۡخُلِ الۡجَـنَّةَ ؕ قَالَ يٰلَيۡتَ قَوۡمِىۡ يَعۡلَمُوۡنَۙ‏
+arabic_ayat: قِيلَ ٱدۡخُلِ ٱلۡجَنَّةَۖ قَالَ يَٰلَيۡتَ قَوۡمِي يَعۡلَمُونَ
 sentence_translation: ˹But they killed him, then˺ he was told ˹by the angels˺, “Enter
   Paradise!” He said, “If only my people knew
 word_by_word:
   1:
-    arabic: قِيۡلَ
+    arabic: قِيلَ
     translation: It was said
     transliteration: qīla
   2:
-    arabic: ادۡخُلِ
+    arabic: ٱدۡخُلِ
     translation: Enter
     transliteration: ud'khuli
   3:
-    arabic: الۡجَـنَّةَ ؕ
+    arabic: ٱلۡجَنَّةَۖ
     translation: Paradise
     transliteration: l-janata
   4:
@@ -20,15 +20,15 @@ word_by_word:
     translation: He said
     transliteration: qāla
   5:
-    arabic: يٰلَيۡتَ
+    arabic: يَٰلَيۡتَ
     translation: I wish
     transliteration: yālayta
   6:
-    arabic: قَوۡمِىۡ
+    arabic: قَوۡمِي
     translation: my people
     transliteration: qawmī
   7:
-    arabic: يَعۡلَمُوۡنَۙ‏
+    arabic: يَعۡلَمُونَ
     translation: knew
     transliteration: yaʿlamūna
 ---

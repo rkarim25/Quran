@@ -1,5 +1,5 @@
 ---
-arabic_ayat: بَلِ اللّٰهَ فَاعۡبُدۡ وَكُنۡ مِّنَ الشّٰكِرِيۡنَ‏
+arabic_ayat: بَلِ ٱللَّهَ فَٱعۡبُدۡ وَكُن مِّنَ ٱلشَّٰكِرِينَ
 sentence_translation: Rather, worship Allah ˹alone˺ and be one of the grateful.
 word_by_word:
   1:
@@ -7,15 +7,15 @@ word_by_word:
     translation: Nay
     transliteration: bali
   2:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: But worship Allah
     transliteration: l-laha
   3:
-    arabic: فَاعۡبُدۡ
+    arabic: فَٱعۡبُدۡ
     translation: But worship Allah
     transliteration: fa-uʿ'bud
   4:
-    arabic: وَكُنۡ
+    arabic: وَكُن
     translation: and be
     transliteration: wakun
   5:
@@ -23,7 +23,7 @@ word_by_word:
     translation: among
     transliteration: mina
   6:
-    arabic: الشّٰكِرِيۡنَ‏
+    arabic: ٱلشَّٰكِرِينَ
     translation: the thankful ones
     transliteration: l-shākirīna
 ---

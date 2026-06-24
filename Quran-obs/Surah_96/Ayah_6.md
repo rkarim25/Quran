@@ -1,21 +1,21 @@
 ---
-arabic_ayat: كَلَّاۤ اِنَّ الۡاِنۡسَانَ لَيَطۡغٰٓىۙ‏
+arabic_ayat: كـَلَّآ إِنَّ ٱلۡإِنسَٰنَ لَيَطۡغَىٰٓ
 sentence_translation: Most certainly, one exceeds all bounds
 word_by_word:
   1:
-    arabic: كَلَّاۤ
+    arabic: كـَلَّآ
     translation: Nay
     transliteration: kallā
   2:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   3:
-    arabic: الۡاِنۡسَانَ
+    arabic: ٱلۡإِنسَٰنَ
     translation: man
     transliteration: l-insāna
   4:
-    arabic: لَيَطۡغٰٓىۙ‏
+    arabic: لَيَطۡغَىٰٓ
     translation: surely transgresses
     transliteration: layaṭghā
 ---

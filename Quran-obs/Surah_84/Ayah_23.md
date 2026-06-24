@@ -1,13 +1,13 @@
 ---
-arabic_ayat: وَاللّٰهُ اَعۡلَمُ بِمَا يُوۡعُوۡنَ ۖ‏
+arabic_ayat: وَٱللَّهُ أَعۡلَمُ بِمَا يُوعُونَ
 sentence_translation: But Allah knows best whatever they hide.
 word_by_word:
   1:
-    arabic: وَاللّٰهُ
+    arabic: وَٱللَّهُ
     translation: And Allah
     transliteration: wal-lahu
   2:
-    arabic: اَعۡلَمُ
+    arabic: أَعۡلَمُ
     translation: (is) most knowing
     transliteration: aʿlamu
   3:
@@ -15,7 +15,7 @@ word_by_word:
     translation: of what
     transliteration: bimā
   4:
-    arabic: يُوۡعُوۡنَ ۖ‏
+    arabic: يُوعُونَ
     translation: they keep within themselves
     transliteration: yūʿūna
 ---

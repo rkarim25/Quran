@@ -1,36 +1,36 @@
 ---
-arabic_ayat: اِنَّاۤ اَنۡذَرۡنٰـكُمۡ عَذَابًا قَرِيۡبًا ۖۚ  يَّوۡمَ يَنۡظُرُ الۡمَرۡءُ
-  مَا قَدَّمَتۡ يَدٰهُ وَيَقُوۡلُ الۡـكٰفِرُ يٰلَيۡتَنِىۡ كُنۡتُ تُرٰبًا‏
+arabic_ayat: إِنَّآ أَنذَرۡنَٰكُمۡ عَذَابٗا قَرِيبٗا يَوۡمَ يَنظُرُ ٱلۡمَرۡءُ مَا
+  قَدَّمَتۡ يَدَاهُ وَيَقُولُ ٱلۡكَافِرُ يَٰلَيۡتَنِي كُنتُ تُرَٰبَۢا
 sentence_translation: Indeed, We have warned you of an imminent punishment—the Day
   every person will see ˹the consequences of˺ what their hands have done, and the
   disbelievers will cry, “I wish I were dust.”
 word_by_word:
   1:
-    arabic: اِنَّاۤ
+    arabic: إِنَّآ
     translation: Indeed We
     transliteration: innā
   2:
-    arabic: اَنۡذَرۡنٰـكُمۡ
+    arabic: أَنذَرۡنَٰكُمۡ
     translation: '[We] have warned you'
     transliteration: andharnākum
   3:
-    arabic: عَذَابًا
+    arabic: عَذَابٗا
     translation: (of) a punishment
     transliteration: ʿadhāban
   4:
-    arabic: قَرِيۡبًا ۖۚ 
+    arabic: قَرِيبٗا
     translation: near
     transliteration: qarīban
   5:
-    arabic: يَّوۡمَ
+    arabic: يَوۡمَ
     translation: (the) Day
     transliteration: yawma
   6:
-    arabic: يَنۡظُرُ
+    arabic: يَنظُرُ
     translation: will see
     transliteration: yanẓuru
   7:
-    arabic: الۡمَرۡءُ
+    arabic: ٱلۡمَرۡءُ
     translation: the man
     transliteration: l-maru
   8:
@@ -42,27 +42,27 @@ word_by_word:
     translation: have sent forth
     transliteration: qaddamat
   10:
-    arabic: يَدٰهُ
+    arabic: يَدَاهُ
     translation: his hands
     transliteration: yadāhu
   11:
-    arabic: وَيَقُوۡلُ
+    arabic: وَيَقُولُ
     translation: and will say
     transliteration: wayaqūlu
   12:
-    arabic: الۡـكٰفِرُ
+    arabic: ٱلۡكَافِرُ
     translation: the disbeliever
     transliteration: l-kāfiru
   13:
-    arabic: يٰلَيۡتَنِىۡ
+    arabic: يَٰلَيۡتَنِي
     translation: O I wish
     transliteration: yālaytanī
   14:
-    arabic: كُنۡتُ
+    arabic: كُنتُ
     translation: I were
     transliteration: kuntu
   15:
-    arabic: تُرٰبًا‏
+    arabic: تُرَٰبَۢا
     translation: dust
     transliteration: turāban
 ---

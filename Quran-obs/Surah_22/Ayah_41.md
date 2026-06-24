@@ -1,57 +1,57 @@
 ---
-arabic_ayat: اَ لَّذِيۡنَ اِنۡ مَّكَّنّٰهُمۡ فِى الۡاَرۡضِ اَقَامُوا الصَّلٰوةَ وَاٰتَوُا
-  الزَّكٰوةَ وَاَمَرُوۡا بِالۡمَعۡرُوۡفِ وَنَهَوۡا عَنِ الۡمُنۡكَرِ​ ؕ وَلِلّٰهِ عَاقِبَةُ
-  الۡاُمُوۡرِ‏
+arabic_ayat: ٱلَّذِينَ إِن مَّكَّنَّٰهُمۡ فِي ٱلۡأَرۡضِ أَقَامُواْ ٱلصَّلَوٰةَ وَءَاتَوُاْ
+  ٱلزَّكَوٰةَ وَأَمَرُواْ بِٱلۡمَعۡرُوفِ وَنَهَوۡاْ عَنِ ٱلۡمُنكَرِۗ وَلِلَّهِ عَٰقِبَةُ
+  ٱلۡأُمُورِ
 sentence_translation: ˹They are˺ those who, if established in the land by Us, would
   perform prayer, pay alms-tax, encourage what is good, and forbid what is evil. And
   with Allah rests the outcome of all affairs.
 word_by_word:
   1:
-    arabic: اَ لَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: Those who
     transliteration: alladhīna
   2:
-    arabic: اِنۡ
+    arabic: إِن
     translation: if
     transliteration: in
   3:
-    arabic: مَّكَّنّٰهُمۡ
+    arabic: مَّكَّنَّٰهُمۡ
     translation: We establish them
     transliteration: makkannāhum
   4:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   5:
-    arabic: الۡاَرۡضِ
+    arabic: ٱلۡأَرۡضِ
     translation: the land
     transliteration: l-arḍi
   6:
-    arabic: اَقَامُوا
+    arabic: أَقَامُواْ
     translation: they establish
     transliteration: aqāmū
   7:
-    arabic: الصَّلٰوةَ
+    arabic: ٱلصَّلَوٰةَ
     translation: the prayer
     transliteration: l-ṣalata
   8:
-    arabic: وَاٰتَوُا
+    arabic: وَءَاتَوُاْ
     translation: and they give
     transliteration: waātawū
   9:
-    arabic: الزَّكٰوةَ
+    arabic: ٱلزَّكَوٰةَ
     translation: zakah
     transliteration: l-zakata
   10:
-    arabic: وَاَمَرُوۡا
+    arabic: وَأَمَرُواْ
     translation: and they enjoin
     transliteration: wa-amarū
   11:
-    arabic: بِالۡمَعۡرُوۡفِ
+    arabic: بِٱلۡمَعۡرُوفِ
     translation: the right
     transliteration: bil-maʿrūfi
   12:
-    arabic: وَنَهَوۡا
+    arabic: وَنَهَوۡاْ
     translation: and forbid
     transliteration: wanahaw
   13:
@@ -59,19 +59,19 @@ word_by_word:
     translation: from
     transliteration: ʿani
   14:
-    arabic: الۡمُنۡكَرِ​ ؕ
+    arabic: ٱلۡمُنكَرِۗ
     translation: the wrong
     transliteration: l-munkari
   15:
-    arabic: وَلِلّٰهِ
+    arabic: وَلِلَّهِ
     translation: And for Allah
     transliteration: walillahi
   16:
-    arabic: عَاقِبَةُ
+    arabic: عَٰقِبَةُ
     translation: (is the) end
     transliteration: ʿāqibatu
   17:
-    arabic: الۡاُمُوۡرِ‏
+    arabic: ٱلۡأُمُورِ
     translation: (of) the matters
     transliteration: l-umūri
 ---

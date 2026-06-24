@@ -1,11 +1,11 @@
 ---
-arabic_ayat: فَعَقَرُوۡهَا فَقَالَ تَمَتَّعُوۡا فِىۡ دَارِكُمۡ ثَلٰثَةَ اَ يَّامٍ
-  ​ؕذٰ لِكَ وَعۡدٌ غَيۡرُ مَكۡذُوۡبٍ‏
+arabic_ayat: فَعَقَرُوهَا فَقَالَ تَمَتَّعُواْ فِي دَارِكُمۡ ثَلَٰثَةَ أَيَّامٖۖ ذَٰلِكَ
+  وَعۡدٌ غَيۡرُ مَكۡذُوبٖ
 sentence_translation: But they killed her, so he warned ˹them˺, “You have ˹only˺ three
   ˹more˺ days to enjoy life in your homes—this is an unfailing promise!”
 word_by_word:
   1:
-    arabic: فَعَقَرُوۡهَا
+    arabic: فَعَقَرُوهَا
     translation: But they hamstrung her
     transliteration: faʿaqarūhā
   2:
@@ -13,11 +13,11 @@ word_by_word:
     translation: So he said
     transliteration: faqāla
   3:
-    arabic: تَمَتَّعُوۡا
+    arabic: تَمَتَّعُواْ
     translation: Enjoy (yourselves)
     transliteration: tamattaʿū
   4:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   5:
@@ -25,15 +25,15 @@ word_by_word:
     translation: your home(s)
     transliteration: dārikum
   6:
-    arabic: ثَلٰثَةَ
+    arabic: ثَلَٰثَةَ
     translation: (for) three
     transliteration: thalāthata
   7:
-    arabic: اَ يَّامٍ ​ؕ
+    arabic: أَيَّامٖۖ
     translation: days
     transliteration: ayyāmin
   8:
-    arabic: ذٰ لِكَ
+    arabic: ذَٰلِكَ
     translation: That
     transliteration: dhālika
   9:
@@ -45,7 +45,7 @@ word_by_word:
     translation: not
     transliteration: ghayru
   11:
-    arabic: مَكۡذُوۡبٍ‏
+    arabic: مَكۡذُوبٖ
     translation: (to) be belied
     transliteration: makdhūbin
 ---

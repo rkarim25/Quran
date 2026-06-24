@@ -1,17 +1,17 @@
 ---
-arabic_ayat: وَالَّيۡلِ اِذَا يَسۡرِ​ۚ‏
+arabic_ayat: وَٱلَّيۡلِ إِذَا يَسۡرِ
 sentence_translation: and the night when it passes!
 word_by_word:
   1:
-    arabic: وَالَّيۡلِ
+    arabic: وَٱلَّيۡلِ
     translation: And the night
     transliteration: wa-al-layli
   2:
-    arabic: اِذَا
+    arabic: إِذَا
     translation: when
     transliteration: idhā
   3:
-    arabic: يَسۡرِ​ۚ‏
+    arabic: يَسۡرِ
     translation: it passes
     transliteration: yasri
 ---

@@ -1,7 +1,7 @@
 ---
-arabic_ayat: قَالَ فَاذۡهَبۡ فَاِنَّ لَـكَ فِى الۡحَيٰوةِ اَنۡ تَقُوۡلَ لَا مِسَاسَ​
-  وَاِنَّ لَـكَ مَوۡعِدًا لَّنۡ تُخۡلَفَهٗ​ ۚ وَانْظُرۡ اِلٰٓى اِلٰهِكَ الَّذِىۡ ظَلۡتَ
-  عَلَيۡهِ عَاكِفًا​ ؕ لَّـنُحَرِّقَنَّهٗ ثُمَّ لَـنَنۡسِفَنَّهٗ فِى الۡيَمِّ نَسۡفًا‏
+arabic_ayat: قَالَ فَٱذۡهَبۡ فَإِنَّ لَكَ فِي ٱلۡحَيَوٰةِ أَن تَقُولَ لَا مِسَاسَۖ
+  وَإِنَّ لَكَ مَوۡعِدٗا لَّن تُخۡلَفَهُۥۖ وَٱنظُرۡ إِلَىٰٓ إِلَٰهِكَ ٱلَّذِي ظَلۡتَ
+  عَلَيۡهِ عَاكِفٗاۖ لَّنُحَرِّقَنَّهُۥ ثُمَّ لَنَنسِفَنَّهُۥ فِي ٱلۡيَمِّ نَسۡفًا
 sentence_translation: 'Moses said, “Go away then! And for ˹the rest of your˺ life
   you will surely be crying, ‘Do not touch ˹me˺!’ Then you will certainly have a fate that
   you cannot escape. Now look at your god to which you have been devoted: we will
@@ -12,31 +12,31 @@ word_by_word:
     translation: He said
     transliteration: qāla
   2:
-    arabic: فَاذۡهَبۡ
+    arabic: فَٱذۡهَبۡ
     translation: Then go
     transliteration: fa-idh'hab
   3:
-    arabic: فَاِنَّ
+    arabic: فَإِنَّ
     translation: And indeed
     transliteration: fa-inna
   4:
-    arabic: لَـكَ
+    arabic: لَكَ
     translation: for you
     transliteration: laka
   5:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   6:
-    arabic: الۡحَيٰوةِ
+    arabic: ٱلۡحَيَوٰةِ
     translation: the life
     transliteration: l-ḥayati
   7:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that
     transliteration: an
   8:
-    arabic: تَقُوۡلَ
+    arabic: تَقُولَ
     translation: you will say
     transliteration: taqūla
   9:
@@ -44,43 +44,43 @@ word_by_word:
     translation: (Do) not
     transliteration: lā
   10:
-    arabic: مِسَاسَ​
+    arabic: مِسَاسَۖ
     translation: touch
     transliteration: misāsa
   11:
-    arabic: وَاِنَّ
+    arabic: وَإِنَّ
     translation: And indeed
     transliteration: wa-inna
   12:
-    arabic: لَـكَ
+    arabic: لَكَ
     translation: for you
     transliteration: laka
   13:
-    arabic: مَوۡعِدًا
+    arabic: مَوۡعِدٗا
     translation: (is) an appointment
     transliteration: mawʿidan
   14:
-    arabic: لَّنۡ
+    arabic: لَّن
     translation: never
     transliteration: lan
   15:
-    arabic: تُخۡلَفَهٗ​ ۚ
+    arabic: تُخۡلَفَهُۥۖ
     translation: you will fail to (keep) it
     transliteration: tukh'lafahu
   16:
-    arabic: وَانْظُرۡ
+    arabic: وَٱنظُرۡ
     translation: And look
     transliteration: wa-unẓur
   17:
-    arabic: اِلٰٓى
+    arabic: إِلَىٰٓ
     translation: at
     transliteration: ilā
   18:
-    arabic: اِلٰهِكَ
+    arabic: إِلَٰهِكَ
     translation: your god
     transliteration: ilāhika
   19:
-    arabic: الَّذِىۡ
+    arabic: ٱلَّذِي
     translation: that which
     transliteration: alladhī
   20:
@@ -92,11 +92,11 @@ word_by_word:
     translation: to it
     transliteration: ʿalayhi
   22:
-    arabic: عَاكِفًا​ ؕ
+    arabic: عَاكِفٗاۖ
     translation: devoted
     transliteration: ʿākifan
   23:
-    arabic: لَّـنُحَرِّقَنَّهٗ
+    arabic: لَّنُحَرِّقَنَّهُۥ
     translation: Surely we will burn it
     transliteration: lanuḥarriqannahu
   24:
@@ -104,19 +104,19 @@ word_by_word:
     translation: then
     transliteration: thumma
   25:
-    arabic: لَـنَنۡسِفَنَّهٗ
+    arabic: لَنَنسِفَنَّهُۥ
     translation: certainly we will scatter it
     transliteration: lanansifannahu
   26:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   27:
-    arabic: الۡيَمِّ
+    arabic: ٱلۡيَمِّ
     translation: the sea
     transliteration: l-yami
   28:
-    arabic: نَسۡفًا‏
+    arabic: نَسۡفًا
     translation: (in) particles
     transliteration: nasfan
 ---

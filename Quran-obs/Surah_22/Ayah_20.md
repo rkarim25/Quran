@@ -1,5 +1,5 @@
 ---
-arabic_ayat: يُصۡهَرُ بِهٖ مَا فِىۡ بُطُوۡنِهِمۡ وَالۡجُلُوۡدُؕ‏
+arabic_ayat: يُصۡهَرُ بِهِۦ مَا فِي بُطُونِهِمۡ وَٱلۡجُلُودُ
 sentence_translation: melting whatever is in their bellies, along with their skin.
 word_by_word:
   1:
@@ -7,7 +7,7 @@ word_by_word:
     translation: Will be melted
     transliteration: yuṣ'haru
   2:
-    arabic: بِهٖ
+    arabic: بِهِۦ
     translation: with it
     transliteration: bihi
   3:
@@ -15,15 +15,15 @@ word_by_word:
     translation: what
     transliteration: mā
   4:
-    arabic: فِىۡ
+    arabic: فِي
     translation: (is) in
     transliteration: fī
   5:
-    arabic: بُطُوۡنِهِمۡ
+    arabic: بُطُونِهِمۡ
     translation: their bellies
     transliteration: buṭūnihim
   6:
-    arabic: وَالۡجُلُوۡدُؕ‏
+    arabic: وَٱلۡجُلُودُ
     translation: and the skins
     transliteration: wal-julūdu
 ---

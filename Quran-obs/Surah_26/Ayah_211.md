@@ -1,5 +1,5 @@
 ---
-arabic_ayat: وَمَا يَنۡۢبَغِىۡ لَهُمۡ وَمَا يَسۡتَطِيۡعُوۡنَؕ‏
+arabic_ayat: وَمَا يَنۢبَغِي لَهُمۡ وَمَا يَسۡتَطِيعُونَ
 sentence_translation: it is not for them ˹to do so˺, nor can they,
 word_by_word:
   1:
@@ -7,7 +7,7 @@ word_by_word:
     translation: And not
     transliteration: wamā
   2:
-    arabic: يَنۡۢبَغِىۡ
+    arabic: يَنۢبَغِي
     translation: (it) suits
     transliteration: yanbaghī
   3:
@@ -19,7 +19,7 @@ word_by_word:
     translation: and not
     transliteration: wamā
   5:
-    arabic: يَسۡتَطِيۡعُوۡنَؕ‏
+    arabic: يَسۡتَطِيعُونَ
     translation: they are able
     transliteration: yastaṭīʿūna
 ---

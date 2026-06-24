@@ -1,23 +1,22 @@
 ---
-arabic_ayat: "اِنَّهٗ مِنۡ سُلَيۡمٰنَ وَاِنَّهٗ بِسۡمِ اللّٰهِ الرَّحۡمٰنِ الرَّحِيۡمِۙ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: إِنَّهُۥ مِن سُلَيۡمَٰنَ وَإِنَّهُۥ بِسۡمِ ٱللَّهِ ٱلرَّحۡمَٰنِ ٱلرَّحِيمِ
 sentence_translation: 'It is from Solomon, and it reads: ‘In the Name of Allah—the
   Most Compassionate, Most Merciful.'
 word_by_word:
   1:
-    arabic: اِنَّهٗ
+    arabic: إِنَّهُۥ
     translation: Indeed, it
     transliteration: innahu
   2:
-    arabic: مِنۡ
+    arabic: مِن
     translation: (is) from
     transliteration: min
   3:
-    arabic: سُلَيۡمٰنَ
+    arabic: سُلَيۡمَٰنَ
     translation: Sulaiman
     transliteration: sulaymāna
   4:
-    arabic: وَاِنَّهٗ
+    arabic: وَإِنَّهُۥ
     translation: and indeed it (is)
     transliteration: wa-innahu
   5:
@@ -25,15 +24,15 @@ word_by_word:
     translation: In the name
     transliteration: bis'mi
   6:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (of) Allah
     transliteration: l-lahi
   7:
-    arabic: الرَّحۡمٰنِ
+    arabic: ٱلرَّحۡمَٰنِ
     translation: the Most Gracious
     transliteration: l-raḥmāni
   8:
-    arabic: "الرَّحِيۡمِۙ‏ \uFEFF\uFEFF"
+    arabic: ٱلرَّحِيمِ
     translation: the Most Merciful
     transliteration: l-raḥīmi
 ---

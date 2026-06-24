@@ -1,15 +1,14 @@
 ---
-arabic_ayat: وَاِنَّ مِنۡهُمۡ لَـفَرِيۡقًا يَّلۡوٗنَ اَلۡسِنَتَهُمۡ بِالۡكِتٰبِ لِتَحۡسَبُوۡهُ
-  مِنَ الۡكِتٰبِ​ وَمَا هُوَ مِنَ الۡكِتٰبِۚ وَيَقُوۡلُوۡنَ هُوَ مِنۡ عِنۡدِ اللّٰهِ
-  وَمَا هُوَ مِنۡ عِنۡدِ اللّٰهِ​ۚ وَيَقُوۡلُوۡنَ عَلَى اللّٰهِ الۡكَذِبَ وَ هُمۡ
-  يَعۡلَمُوۡنَ‏
+arabic_ayat: وَإِنَّ مِنۡهُمۡ لَفَرِيقٗا يَلۡوُۥنَ أَلۡسِنَتَهُم بِٱلۡكِتَٰبِ لِتَحۡسَبُوهُ
+  مِنَ ٱلۡكِتَٰبِ وَمَا هُوَ مِنَ ٱلۡكِتَٰبِ وَيَقُولُونَ هُوَ مِنۡ عِندِ ٱللَّهِ
+  وَمَا هُوَ مِنۡ عِندِ ٱللَّهِۖ وَيَقُولُونَ عَلَى ٱللَّهِ ٱلۡكَذِبَ وَهُمۡ يَعۡلَمُونَ
 sentence_translation: There are some among them who distort the Book with their tongues
   to make you think this ˹distortion˺ is from the Book—but it is not what the Book
   says. They say, “It is from Allah”—but it is not from Allah. And ˹so˺ they attribute
   lies to Allah knowingly.
 word_by_word:
   1:
-    arabic: وَاِنَّ
+    arabic: وَإِنَّ
     translation: And indeed
     transliteration: wa-inna
   2:
@@ -17,23 +16,23 @@ word_by_word:
     translation: among them
     transliteration: min'hum
   3:
-    arabic: لَـفَرِيۡقًا
+    arabic: لَفَرِيقٗا
     translation: 'surely (is) a group '
     transliteration: lafarīqan
   4:
-    arabic: يَّلۡوٗنَ
+    arabic: يَلۡوُۥنَ
     translation: they distort
     transliteration: yalwūna
   5:
-    arabic: اَلۡسِنَتَهُمۡ
+    arabic: أَلۡسِنَتَهُم
     translation: their tongues
     transliteration: alsinatahum
   6:
-    arabic: بِالۡكِتٰبِ
+    arabic: بِٱلۡكِتَٰبِ
     translation: in (reciting) the Book
     transliteration: bil-kitābi
   7:
-    arabic: لِتَحۡسَبُوۡهُ
+    arabic: لِتَحۡسَبُوهُ
     translation: so that you may think it
     transliteration: litaḥsabūhu
   8:
@@ -41,7 +40,7 @@ word_by_word:
     translation: (is) from
     transliteration: mina
   9:
-    arabic: الۡكِتٰبِ​
+    arabic: ٱلۡكِتَٰبِ
     translation: the Book
     transliteration: l-kitābi
   10:
@@ -57,11 +56,11 @@ word_by_word:
     translation: (is) from
     transliteration: mina
   13:
-    arabic: الۡكِتٰبِۚ
+    arabic: ٱلۡكِتَٰبِ
     translation: the Book
     transliteration: l-kitābi
   14:
-    arabic: وَيَقُوۡلُوۡنَ
+    arabic: وَيَقُولُونَ
     translation: And they say
     transliteration: wayaqūlūna
   15:
@@ -73,11 +72,11 @@ word_by_word:
     translation: (is)
     transliteration: min
   17:
-    arabic: عِنۡدِ
+    arabic: عِندِ
     translation: from
     transliteration: ʿindi
   18:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   19:
@@ -93,15 +92,15 @@ word_by_word:
     translation: (is)
     transliteration: min
   22:
-    arabic: عِنۡدِ
+    arabic: عِندِ
     translation: from
     transliteration: ʿindi
   23:
-    arabic: اللّٰهِ​ۚ
+    arabic: ٱللَّهِۖ
     translation: Allah
     transliteration: l-lahi
   24:
-    arabic: وَيَقُوۡلُوۡنَ
+    arabic: وَيَقُولُونَ
     translation: And they say
     transliteration: wayaqūlūna
   25:
@@ -109,19 +108,19 @@ word_by_word:
     translation: about
     transliteration: ʿalā
   26:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   27:
-    arabic: الۡكَذِبَ
+    arabic: ٱلۡكَذِبَ
     translation: the lie
     transliteration: l-kadhiba
   28:
-    arabic: وَ هُمۡ
+    arabic: وَهُمۡ
     translation: while they
     transliteration: wahum
   29:
-    arabic: يَعۡلَمُوۡنَ‏
+    arabic: يَعۡلَمُونَ
     translation: know
     transliteration: yaʿlamūna
 ---

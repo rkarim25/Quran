@@ -1,14 +1,14 @@
 ---
-arabic_ayat: اَجَعَلۡتُمۡ سِقَايَةَ الۡحَـآجِّ وَعِمَارَةَ الۡمَسۡجِدِ الۡحَـرَامِ
-  كَمَنۡ اٰمَنَ بِاللّٰهِ وَالۡيَوۡمِ الۡاٰخِرِ وَجَاهَدَ فِىۡ سَبِيۡلِ اللّٰهِ​ ؕ
-  لَا يَسۡتَوٗنَ عِنۡدَ اللّٰهِ ​ؕ وَ اللّٰهُ لَا يَهۡدِى الۡقَوۡمَ الظّٰلِمِيۡنَ​ۘ‏
+arabic_ayat: ۞ أَجَعَلۡتُمۡ سِقَايَةَ ٱلۡحَآجِّ وَعِمَارَةَ ٱلۡمَسۡجِدِ ٱلۡحَرَامِ
+  كَمَنۡ ءَامَنَ بِٱللَّهِ وَٱلۡيَوۡمِ ٱلۡأٓخِرِ وَجَٰهَدَ فِي سَبِيلِ ٱللَّهِۚ لَا
+  يَسۡتَوُۥنَ عِندَ ٱللَّهِۗ وَٱللَّهُ لَا يَهۡدِي ٱلۡقَوۡمَ ٱلظَّٰلِمِينَ
 sentence_translation: Do you ˹pagans˺ consider providing the pilgrims with water and
   maintaining the Sacred Mosque as equal to believing in Allah and the Last Day and
   struggling in the cause of Allah? They are not equal in Allah’s sight. And Allah
   does not guide the wrongdoing people.
 word_by_word:
   1:
-    arabic: ۞ اَجَعَلۡتُمۡ
+    arabic: ۞ أَجَعَلۡتُمۡ
     translation: Do you make
     transliteration: ajaʿaltum
   2:
@@ -16,7 +16,7 @@ word_by_word:
     translation: the providing of water
     transliteration: siqāyata
   3:
-    arabic: الۡحَـآجِّ
+    arabic: ٱلۡحَآجِّ
     translation: (to) the pilgrims
     transliteration: l-ḥāji
   4:
@@ -24,47 +24,47 @@ word_by_word:
     translation: and (the) maintenance
     transliteration: waʿimārata
   5:
-    arabic: الۡمَسۡجِدِ
+    arabic: ٱلۡمَسۡجِدِ
     translation: (of) Al-Masjid Al-Haraam
     transliteration: l-masjidi
   6:
-    arabic: الۡحَـرَامِ
+    arabic: ٱلۡحَرَامِ
     translation: (of) Al-Masjid Al-Haraam
     transliteration: l-ḥarāmi
   7:
-    arabic: كَمَنۡ
+    arabic: كَمَنۡ ءَ
     translation: like (the one) who
     transliteration: kaman
   8:
-    arabic: اٰمَنَ
+    arabic: امَنَ
     translation: believes
     transliteration: āmana
   9:
-    arabic: بِاللّٰهِ
+    arabic: بِٱللَّهِ
     translation: in Allah
     transliteration: bil-lahi
   10:
-    arabic: وَالۡيَوۡمِ
+    arabic: وَٱلۡيَوۡمِ
     translation: and the Day
     transliteration: wal-yawmi
   11:
-    arabic: الۡاٰخِرِ
+    arabic: ٱلۡأٓخِرِ
     translation: the Last
     transliteration: l-ākhiri
   12:
-    arabic: وَجَاهَدَ
+    arabic: وَجَٰهَدَ
     translation: and strives
     transliteration: wajāhada
   13:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   14:
-    arabic: سَبِيۡلِ
+    arabic: سَبِيلِ
     translation: (the) way
     transliteration: sabīli
   15:
-    arabic: اللّٰهِ​ ؕ
+    arabic: ٱللَّهِۚ
     translation: (of) Allah
     transliteration: l-lahi
   16:
@@ -72,19 +72,19 @@ word_by_word:
     translation: They are not equal
     transliteration: lā
   17:
-    arabic: يَسۡتَوٗنَ
+    arabic: يَسۡتَوُۥنَ
     translation: They are not equal
     transliteration: yastawūna
   18:
-    arabic: عِنۡدَ
+    arabic: عِندَ
     translation: near
     transliteration: ʿinda
   19:
-    arabic: اللّٰهِ ​ؕ
+    arabic: ٱللَّهِۗ
     translation: Allah
     transliteration: l-lahi
   20:
-    arabic: وَ اللّٰهُ
+    arabic: وَٱللَّهُ
     translation: And Allah
     transliteration: wal-lahu
   21:
@@ -92,15 +92,15 @@ word_by_word:
     translation: (does) not
     transliteration: lā
   22:
-    arabic: يَهۡدِى
+    arabic: يَهۡدِي
     translation: guide
     transliteration: yahdī
   23:
-    arabic: الۡقَوۡمَ
+    arabic: ٱلۡقَوۡمَ
     translation: 'the people '
     transliteration: l-qawma
   24:
-    arabic: الظّٰلِمِيۡنَ​ۘ‏
+    arabic: ٱلظَّٰلِمِينَ
     translation: the wrongdoers
     transliteration: l-ẓālimīna
 ---

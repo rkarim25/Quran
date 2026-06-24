@@ -1,29 +1,29 @@
 ---
-arabic_ayat: اَللّٰهُ الَّذِىۡ خَلَقَكُمۡ مِّنۡ ضُعۡفٍ ثُمَّ جَعَلَ مِنۡۢ بَعۡدِ ضُعۡفٍ
-  قُوَّةً ثُمَّ جَعَلَ مِنۡۢ بَعۡدِ قُوَّةٍ ضُعۡفًا وَّشَيۡبَةً  ​ؕ يَخۡلُقُ مَا يَشَآءُ
-  ​ۚ وَهُوَ الۡعَلِيۡمُ الۡقَدِيۡرُ‏
+arabic_ayat: ۞ ٱللَّهُ ٱلَّذِي خَلَقَكُم مِّن ضَعۡفٖ ثُمَّ جَعَلَ مِنۢ بَعۡدِ ضَعۡفٖ
+  قُوَّةٗ ثُمَّ جَعَلَ مِنۢ بَعۡدِ قُوَّةٖ ضَعۡفٗا وَشَيۡبَةٗۚ يَخۡلُقُ مَا يَشَآءُۚ
+  وَهُوَ ٱلۡعَلِيمُ ٱلۡقَدِيرُ
 sentence_translation: It is Allah Who created you in a state of weakness, then developed
   ˹your˺ weakness into strength, then developed ˹your˺ strength into weakness and
   old age. He creates whatever He wills. For He is the All-Knowing, Most Capable.
 word_by_word:
   1:
-    arabic: ۞ اَللّٰهُ
+    arabic: ۞ ٱللَّهُ
     translation: Allah
     transliteration: al-lahu
   2:
-    arabic: الَّذِىۡ
+    arabic: ٱلَّذِي
     translation: (is) the One Who
     transliteration: alladhī
   3:
-    arabic: خَلَقَكُمۡ
+    arabic: خَلَقَكُم
     translation: created you
     transliteration: khalaqakum
   4:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: from
     transliteration: min
   5:
-    arabic: ضُعۡفٍ
+    arabic: ضَعۡفٖ
     translation: weakness
     transliteration: ḍaʿfin
   6:
@@ -35,7 +35,7 @@ word_by_word:
     translation: made
     transliteration: jaʿala
   8:
-    arabic: مِنۡۢ
+    arabic: مِنۢ
     translation: after
     transliteration: min
   9:
@@ -43,11 +43,11 @@ word_by_word:
     translation: after
     transliteration: baʿdi
   10:
-    arabic: ضُعۡفٍ
+    arabic: ضَعۡفٖ
     translation: weakness
     transliteration: ḍaʿfin
   11:
-    arabic: قُوَّةً
+    arabic: قُوَّةٗ
     translation: strength
     transliteration: quwwatan
   12:
@@ -59,7 +59,7 @@ word_by_word:
     translation: made
     transliteration: jaʿala
   14:
-    arabic: مِنۡۢ
+    arabic: مِنۢ
     translation: after
     transliteration: min
   15:
@@ -67,15 +67,15 @@ word_by_word:
     translation: after
     transliteration: baʿdi
   16:
-    arabic: قُوَّةٍ
+    arabic: قُوَّةٖ
     translation: strength
     transliteration: quwwatin
   17:
-    arabic: ضُعۡفًا
+    arabic: ضَعۡفٗا
     translation: weakness
     transliteration: ḍaʿfan
   18:
-    arabic: وَّشَيۡبَةً  ​ؕ
+    arabic: وَشَيۡبَةٗۚ
     translation: and gray hair
     transliteration: washaybatan
   19:
@@ -87,7 +87,7 @@ word_by_word:
     translation: what
     transliteration: mā
   21:
-    arabic: يَشَآءُ ​ۚ
+    arabic: يَشَآءُۚ
     translation: He wills
     transliteration: yashāu
   22:
@@ -95,11 +95,11 @@ word_by_word:
     translation: and He
     transliteration: wahuwa
   23:
-    arabic: الۡعَلِيۡمُ
+    arabic: ٱلۡعَلِيمُ
     translation: (is) the All-Knower
     transliteration: l-ʿalīmu
   24:
-    arabic: الۡقَدِيۡرُ‏
+    arabic: ٱلۡقَدِيرُ
     translation: the All-Powerful
     transliteration: l-qadīru
 ---

@@ -1,5 +1,5 @@
 ---
-arabic_ayat: فَمَا لَهُمۡ لَا يُؤۡمِنُوۡنَۙ‏
+arabic_ayat: فَمَا لَهُمۡ لَا يُؤۡمِنُونَ
 sentence_translation: So what is the matter with them that they do not believe,
 word_by_word:
   1:
@@ -15,7 +15,7 @@ word_by_word:
     translation: not
     transliteration: lā
   4:
-    arabic: يُؤۡمِنُوۡنَۙ‏
+    arabic: يُؤۡمِنُونَ
     translation: they believe
     transliteration: yu'minūna
 ---

@@ -1,9 +1,9 @@
 ---
-arabic_ayat: ثُمَّ قَفَّيۡنَا عَلٰٓى اٰثَارِهِمۡ بِرُسُلِنَا وَقَفَّيۡنَا بِعِيۡسَى
-  ابۡنِ مَرۡيَمَ وَاٰتَيۡنٰهُ الۡاِنۡجِيۡلَ ۙ وَجَعَلۡنَا فِىۡ قُلُوۡبِ الَّذِيۡنَ
-  اتَّبَعُوۡهُ رَاۡفَةً وَّرَحۡمَةً  ؕ وَرَهۡبَانِيَّةَ اۨبۡتَدَعُوۡهَا مَا كَتَبۡنٰهَا
-  عَلَيۡهِمۡ اِلَّا ابۡتِغَآءَ رِضۡوَانِ اللّٰهِ فَمَا رَعَوۡهَا حَقَّ رِعَايَتِهَا​
-  ۚ فَاٰتَيۡنَا الَّذِيۡنَ اٰمَنُوۡا مِنۡهُمۡ اَجۡرَهُمۡ​ۚ وَكَثِيۡرٌ مِّنۡهُمۡ فٰسِقُوۡنَ‏
+arabic_ayat: ثُمَّ قَفَّيۡنَا عَلَىٰٓ ءَاثَٰرِهِم بِرُسُلِنَا وَقَفَّيۡنَا بِعِيسَى
+  ٱبۡنِ مَرۡيَمَ وَءَاتَيۡنَٰهُ ٱلۡإِنجِيلَۖ وَجَعَلۡنَا فِي قُلُوبِ ٱلَّذِينَ ٱتَّبَعُوهُ
+  رَأۡفَةٗ وَرَحۡمَةٗۚ وَرَهۡبَانِيَّةً ٱبۡتَدَعُوهَا مَا كَتَبۡنَٰهَا عَلَيۡهِمۡ
+  إِلَّا ٱبۡتِغَآءَ رِضۡوَٰنِ ٱللَّهِ فَمَا رَعَوۡهَا حَقَّ رِعَايَتِهَاۖ فَـَٔاتَيۡنَا
+  ٱلَّذِينَ ءَامَنُواْ مِنۡهُمۡ أَجۡرَهُمۡۖ وَكَثِيرٞ مِّنۡهُمۡ فَٰسِقُونَ
 sentence_translation: Then in the footsteps of these ˹prophets˺, We sent Our messengers,
   and ˹after them˺ We sent Jesus, son of Mary, and granted him the Gospel, and instilled
   compassion and mercy into the hearts of his followers. As for monasticism, they
@@ -20,11 +20,11 @@ word_by_word:
     translation: We sent
     transliteration: qaffaynā
   3:
-    arabic: عَلٰٓى
+    arabic: عَلَىٰٓ ءَ
     translation: 'on'
     transliteration: ʿalā
   4:
-    arabic: اٰثَارِهِمۡ
+    arabic: اثَٰرِهِم
     translation: their footsteps
     transliteration: āthārihim
   5:
@@ -36,11 +36,11 @@ word_by_word:
     translation: and We followed
     transliteration: waqaffaynā
   7:
-    arabic: بِعِيۡسَى
+    arabic: بِعِيسَى
     translation: with Isa
     transliteration: biʿīsā
   8:
-    arabic: ابۡنِ
+    arabic: ٱبۡنِ
     translation: son
     transliteration: ib'ni
   9:
@@ -48,11 +48,11 @@ word_by_word:
     translation: (of) Maryam
     transliteration: maryama
   10:
-    arabic: وَاٰتَيۡنٰهُ
+    arabic: وَءَاتَيۡنَٰهُ
     translation: and We gave him
     transliteration: waātaynāhu
   11:
-    arabic: الۡاِنۡجِيۡلَ ۙ
+    arabic: ٱلۡإِنجِيلَۖ
     translation: the Injeel
     transliteration: l-injīla
   12:
@@ -60,35 +60,35 @@ word_by_word:
     translation: And We placed
     transliteration: wajaʿalnā
   13:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   14:
-    arabic: قُلُوۡبِ
+    arabic: قُلُوبِ
     translation: (the) hearts
     transliteration: qulūbi
   15:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: (of) those who
     transliteration: alladhīna
   16:
-    arabic: اتَّبَعُوۡهُ
+    arabic: ٱتَّبَعُوهُ
     translation: followed him
     transliteration: ittabaʿūhu
   17:
-    arabic: رَاۡفَةً
+    arabic: رَأۡفَةٗ
     translation: compassion
     transliteration: rafatan
   18:
-    arabic: وَّرَحۡمَةً  ؕ
+    arabic: وَرَحۡمَةٗۚ
     translation: and mercy
     transliteration: waraḥmatan
   19:
-    arabic: وَرَهۡبَانِيَّةَ
+    arabic: وَرَهۡبَانِيَّةً
     translation: But monasticism
     transliteration: warahbāniyyatan
   20:
-    arabic: اۨبۡتَدَعُوۡهَا
+    arabic: ٱبۡتَدَعُوهَا
     translation: 'they innovated '
     transliteration: ib'tadaʿūhā
   21:
@@ -96,7 +96,7 @@ word_by_word:
     translation: not
     transliteration: mā
   22:
-    arabic: كَتَبۡنٰهَا
+    arabic: كَتَبۡنَٰهَا
     translation: We prescribed it
     transliteration: katabnāhā
   23:
@@ -104,19 +104,19 @@ word_by_word:
     translation: 'for them '
     transliteration: ʿalayhim
   24:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: only
     transliteration: illā
   25:
-    arabic: ابۡتِغَآءَ
+    arabic: ٱبۡتِغَآءَ
     translation: seeking
     transliteration: ib'tighāa
   26:
-    arabic: رِضۡوَانِ
+    arabic: رِضۡوَٰنِ
     translation: (the) pleasure
     transliteration: riḍ'wāni
   27:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (of) Allah
     transliteration: l-lahi
   28:
@@ -132,19 +132,19 @@ word_by_word:
     translation: (with) right
     transliteration: ḥaqqa
   31:
-    arabic: رِعَايَتِهَا​ ۚ
+    arabic: رِعَايَتِهَاۖ
     translation: observance
     transliteration: riʿāyatihā
   32:
-    arabic: فَاٰتَيۡنَا
+    arabic: فَـَٔاتَيۡنَا
     translation: So We gave
     transliteration: faātaynā
   33:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ ءَ
     translation: those who
     transliteration: alladhīna
   34:
-    arabic: اٰمَنُوۡا
+    arabic: امَنُواْ
     translation: believed
     transliteration: āmanū
   35:
@@ -152,11 +152,11 @@ word_by_word:
     translation: among them
     transliteration: min'hum
   36:
-    arabic: اَجۡرَهُمۡ​ۚ
+    arabic: أَجۡرَهُمۡۖ
     translation: their reward
     transliteration: ajrahum
   37:
-    arabic: وَكَثِيۡرٌ
+    arabic: وَكَثِيرٞ
     translation: but most
     transliteration: wakathīrun
   38:
@@ -164,7 +164,7 @@ word_by_word:
     translation: of them
     transliteration: min'hum
   39:
-    arabic: فٰسِقُوۡنَ‏
+    arabic: فَٰسِقُونَ
     translation: (are) defiantly disobediently
     transliteration: fāsiqūna
 ---

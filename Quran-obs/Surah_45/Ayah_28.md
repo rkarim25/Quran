@@ -1,12 +1,12 @@
 ---
-arabic_ayat: وَتَرٰى كُلَّ اُمَّةٍ جَاثِيَةً​ كُلُّ اُمَّةٍ تُدۡعٰۤى اِلٰى كِتٰبِهَا
-  ؕ اَلۡيَوۡمَ تُجۡزَوۡنَ مَا كُنۡتُمۡ تَعۡمَلُوۡنَ‏
+arabic_ayat: وَتَرَىٰ كُلَّ أُمَّةٖ جَاثِيَةٗۚ كُلُّ أُمَّةٖ تُدۡعَىٰٓ إِلَىٰ كِتَٰبِهَا
+  ٱلۡيَوۡمَ تُجۡزَوۡنَ مَا كُنتُمۡ تَعۡمَلُونَ
 sentence_translation: And you will see every faith-community on its knees. Every community
   will be summoned to its record ˹of deeds˺. ˹They all will be told,˺ “This Day you
   will be rewarded for what you used to do.
 word_by_word:
   1:
-    arabic: وَتَرٰى
+    arabic: وَتَرَىٰ
     translation: And you will see
     transliteration: watarā
   2:
@@ -14,11 +14,11 @@ word_by_word:
     translation: every
     transliteration: kulla
   3:
-    arabic: اُمَّةٍ
+    arabic: أُمَّةٖ
     translation: nation
     transliteration: ummatin
   4:
-    arabic: جَاثِيَةً​
+    arabic: جَاثِيَةٗۚ
     translation: kneeling
     transliteration: jāthiyatan
   5:
@@ -26,23 +26,23 @@ word_by_word:
     translation: Every
     transliteration: kullu
   6:
-    arabic: اُمَّةٍ
+    arabic: أُمَّةٖ
     translation: nation
     transliteration: ummatin
   7:
-    arabic: تُدۡعٰۤى
+    arabic: تُدۡعَىٰٓ
     translation: will be called
     transliteration: tud'ʿā
   8:
-    arabic: اِلٰى
+    arabic: إِلَىٰ
     translation: to
     transliteration: ilā
   9:
-    arabic: كِتٰبِهَا ؕ
+    arabic: كِتَٰبِهَا
     translation: its record
     transliteration: kitābihā
   10:
-    arabic: اَلۡيَوۡمَ
+    arabic: ٱلۡيَوۡمَ
     translation: Today
     transliteration: l-yawma
   11:
@@ -54,11 +54,11 @@ word_by_word:
     translation: (for) what
     transliteration: mā
   13:
-    arabic: كُنۡتُمۡ
+    arabic: كُنتُمۡ
     translation: you used to
     transliteration: kuntum
   14:
-    arabic: تَعۡمَلُوۡنَ‏
+    arabic: تَعۡمَلُونَ
     translation: do
     transliteration: taʿmalūna
 ---

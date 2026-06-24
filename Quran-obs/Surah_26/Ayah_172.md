@@ -1,5 +1,5 @@
 ---
-arabic_ayat: ثُمَّ دَمَّرۡنَا الۡاٰخَرِيۡنَ​ۚ‏
+arabic_ayat: ثُمَّ دَمَّرۡنَا ٱلۡأٓخَرِينَ
 sentence_translation: Then We utterly destroyed the rest,
 word_by_word:
   1:
@@ -11,7 +11,7 @@ word_by_word:
     translation: We destroyed
     transliteration: dammarnā
   3:
-    arabic: الۡاٰخَرِيۡنَ​ۚ‏
+    arabic: ٱلۡأٓخَرِينَ
     translation: the others
     transliteration: l-ākharīna
 ---

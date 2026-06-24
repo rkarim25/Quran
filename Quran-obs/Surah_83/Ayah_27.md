@@ -1,17 +1,17 @@
 ---
-arabic_ayat: وَ مِزَاجُهٗ مِنۡ تَسۡنِيۡمٍۙ‏
+arabic_ayat: وَمِزَاجُهُۥ مِن تَسۡنِيمٍ
 sentence_translation: And this drink’s flavour will come from Tasnîm—
 word_by_word:
   1:
-    arabic: وَ مِزَاجُهٗ
+    arabic: وَمِزَاجُهُۥ
     translation: And its mixture
     transliteration: wamizājuhu
   2:
-    arabic: مِنۡ
+    arabic: مِن
     translation: (is) of
     transliteration: min
   3:
-    arabic: تَسۡنِيۡمٍۙ‏
+    arabic: تَسۡنِيمٍ
     translation: Tasneem
     transliteration: tasnīmin
 ---

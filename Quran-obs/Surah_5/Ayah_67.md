@@ -1,17 +1,17 @@
 ---
-arabic_ayat: يٰۤـاَيُّهَا الرَّسُوۡلُ بَلِّغۡ مَاۤ اُنۡزِلَ اِلَيۡكَ مِنۡ رَّبِّكَ​
-  ؕ وَاِنۡ لَّمۡ تَفۡعَلۡ فَمَا بَلَّغۡتَ رِسٰلَـتَهٗ​ ؕ وَاللّٰهُ يَعۡصِمُكَ مِنَ
-  النَّاسِ​ ؕ اِنَّ اللّٰهَ لَا يَهۡدِى الۡقَوۡمَ الۡـكٰفِرِيۡنَ‏
+arabic_ayat: ۞ يَٰٓأَيُّهَا ٱلرَّسُولُ بَلِّغۡ مَآ أُنزِلَ إِلَيۡكَ مِن رَّبِّكَۖ
+  وَإِن لَّمۡ تَفۡعَلۡ فَمَا بَلَّغۡتَ رِسَالَتَهُۥۚ وَٱللَّهُ يَعۡصِمُكَ مِنَ ٱلنَّاسِۗ
+  إِنَّ ٱللَّهَ لَا يَهۡدِي ٱلۡقَوۡمَ ٱلۡكَٰفِرِينَ
 sentence_translation: O Messenger! Convey everything revealed to you from your Lord.
   If you do not, then you have not delivered His message. Allah will ˹certainly˺ protect
   you from the people. Indeed, Allah does not guide the people who disbelieve.
 word_by_word:
   1:
-    arabic: ۞ يٰۤـاَيُّهَا
+    arabic: ۞ يَٰٓأَيُّهَا
     translation: O
     transliteration: yāayyuhā
   2:
-    arabic: الرَّسُوۡلُ
+    arabic: ٱلرَّسُولُ
     translation: Messenger
     transliteration: l-rasūlu
   3:
@@ -19,27 +19,27 @@ word_by_word:
     translation: Convey
     transliteration: balligh
   4:
-    arabic: مَاۤ
+    arabic: مَآ
     translation: what
     transliteration: mā
   5:
-    arabic: اُنۡزِلَ
+    arabic: أُنزِلَ
     translation: has been revealed
     transliteration: unzila
   6:
-    arabic: اِلَيۡكَ
+    arabic: إِلَيۡكَ
     translation: to you
     transliteration: ilayka
   7:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   8:
-    arabic: رَّبِّكَ​ ؕ
+    arabic: رَّبِّكَۖ
     translation: your Lord
     transliteration: rabbika
   9:
-    arabic: وَاِنۡ
+    arabic: وَإِن
     translation: and if
     transliteration: wa-in
   10:
@@ -59,11 +59,11 @@ word_by_word:
     translation: you (have) conveyed
     transliteration: ballaghta
   14:
-    arabic: رِسٰلَـتَهٗ​ ؕ
+    arabic: رِسَالَتَهُۥۚ
     translation: His Message
     transliteration: risālatahu
   15:
-    arabic: وَاللّٰهُ
+    arabic: وَٱللَّهُ
     translation: And Allah
     transliteration: wal-lahu
   16:
@@ -75,15 +75,15 @@ word_by_word:
     translation: from
     transliteration: mina
   18:
-    arabic: النَّاسِ​ ؕ
+    arabic: ٱلنَّاسِۗ
     translation: the people
     transliteration: l-nāsi
   19:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   20:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   21:
@@ -91,15 +91,15 @@ word_by_word:
     translation: (does) not
     transliteration: lā
   22:
-    arabic: يَهۡدِى
+    arabic: يَهۡدِي
     translation: guide
     transliteration: yahdī
   23:
-    arabic: الۡقَوۡمَ
+    arabic: ٱلۡقَوۡمَ
     translation: the people
     transliteration: l-qawma
   24:
-    arabic: الۡـكٰفِرِيۡنَ‏
+    arabic: ٱلۡكَٰفِرِينَ
     translation: the disbelieving
     transliteration: l-kāfirīna
 ---

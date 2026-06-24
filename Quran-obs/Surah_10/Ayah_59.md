@@ -1,7 +1,6 @@
 ---
-arabic_ayat: قُلۡ اَرَءَيۡتُمۡ مَّاۤ اَنۡزَلَ اللّٰهُ لَـكُمۡ مِّنۡ رِّزۡقٍ فَجَعَلۡتُمۡ
-  مِّنۡهُ حَرَامًا وَّحَلٰلًا ؕ قُلۡ آٰللّٰهُ اَذِنَ لَـكُمۡ​ اَمۡ عَلَى اللّٰهِ
-  تَفۡتَرُوۡنَ‏
+arabic_ayat: قُلۡ أَرَءَيۡتُم مَّآ أَنزَلَ ٱللَّهُ لَكُم مِّن رِّزۡقٖ فَجَعَلۡتُم
+  مِّنۡهُ حَرَامٗا وَحَلَٰلٗا قُلۡ ءَآللَّهُ أَذِنَ لَكُمۡۖ أَمۡ عَلَى ٱللَّهِ تَفۡتَرُونَ
 sentence_translation: Ask ˹the pagans, O  Prophet˺, “Have you seen that which Allah
   has sent down for you as a provision, of which you have made some lawful and some
   unlawful?” Say, “Has Allah given you authorization, or are you fabricating lies
@@ -12,35 +11,35 @@ word_by_word:
     translation: Say
     transliteration: qul
   2:
-    arabic: اَرَءَيۡتُمۡ
+    arabic: أَرَءَيۡتُم
     translation: Have you seen
     transliteration: ara-aytum
   3:
-    arabic: مَّاۤ
+    arabic: مَّآ
     translation: what
     transliteration: mā
   4:
-    arabic: اَنۡزَلَ
+    arabic: أَنزَلَ
     translation: (has been) sent down
     transliteration: anzala
   5:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: (by) Allah
     transliteration: l-lahu
   6:
-    arabic: لَـكُمۡ
+    arabic: لَكُم
     translation: for you
     transliteration: lakum
   7:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: of
     transliteration: min
   8:
-    arabic: رِّزۡقٍ
+    arabic: رِّزۡقٖ
     translation: (the) provision
     transliteration: riz'qin
   9:
-    arabic: فَجَعَلۡتُمۡ
+    arabic: فَجَعَلۡتُم
     translation: and you have made
     transliteration: fajaʿaltum
   10:
@@ -48,31 +47,31 @@ word_by_word:
     translation: of it
     transliteration: min'hu
   11:
-    arabic: حَرَامًا
+    arabic: حَرَامٗا
     translation: unlawful
     transliteration: ḥarāman
   12:
-    arabic: وَّحَلٰلًا ؕ
+    arabic: وَحَلَٰلٗا
     translation: and lawful
     transliteration: waḥalālan
   13:
-    arabic: قُلۡ
+    arabic: قُلۡ ءَ
     translation: Say
     transliteration: qul
   14:
-    arabic: آٰللّٰهُ
+    arabic: آللَّهُ
     translation: Has Allah
     transliteration: āllahu
   15:
-    arabic: اَذِنَ
+    arabic: أَذِنَ
     translation: permitted
     transliteration: adhina
   16:
-    arabic: لَـكُمۡ​
+    arabic: لَكُمۡۖ
     translation: '[to] you'
     transliteration: lakum
   17:
-    arabic: اَمۡ
+    arabic: أَمۡ
     translation: or
     transliteration: am
   18:
@@ -80,11 +79,11 @@ word_by_word:
     translation: about
     transliteration: ʿalā
   19:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   20:
-    arabic: تَفۡتَرُوۡنَ‏
+    arabic: تَفۡتَرُونَ
     translation: you invent (lies)
     transliteration: taftarūna
 ---

@@ -1,6 +1,6 @@
 ---
-arabic_ayat: لَهُمُ الۡبُشۡرٰى فِى الۡحَيٰوةِ الدُّنۡيَا وَفِى الۡاٰخِرَةِ​ؕ لَا تَبۡدِيۡلَ
-  لِـكَلِمٰتِ اللّٰهِ​ؕ ذٰلِكَ هُوَ الۡفَوۡزُ الۡعَظِيۡمُؕ‏
+arabic_ayat: لَهُمُ ٱلۡبُشۡرَىٰ فِي ٱلۡحَيَوٰةِ ٱلدُّنۡيَا وَفِي ٱلۡأٓخِرَةِۚ لَا
+  تَبۡدِيلَ لِكَلِمَٰتِ ٱللَّهِۚ ذَٰلِكَ هُوَ ٱلۡفَوۡزُ ٱلۡعَظِيمُ
 sentence_translation: For them is good news in this worldly life and the Hereafter.
   There is no change in the promise of Allah. That is ˹truly˺ the ultimate triumph.
 word_by_word:
@@ -9,27 +9,27 @@ word_by_word:
     translation: For them
     transliteration: lahumu
   2:
-    arabic: الۡبُشۡرٰى
+    arabic: ٱلۡبُشۡرَىٰ
     translation: (are) the glad tidings
     transliteration: l-bush'rā
   3:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   4:
-    arabic: الۡحَيٰوةِ
+    arabic: ٱلۡحَيَوٰةِ
     translation: the life
     transliteration: l-ḥayati
   5:
-    arabic: الدُّنۡيَا
+    arabic: ٱلدُّنۡيَا
     translation: (of) the world
     transliteration: l-dun'yā
   6:
-    arabic: وَفِى
+    arabic: وَفِي
     translation: and in
     transliteration: wafī
   7:
-    arabic: الۡاٰخِرَةِ​ؕ
+    arabic: ٱلۡأٓخِرَةِۚ
     translation: the Hereafter
     transliteration: l-ākhirati
   8:
@@ -37,19 +37,19 @@ word_by_word:
     translation: 'No'
     transliteration: lā
   9:
-    arabic: تَبۡدِيۡلَ
+    arabic: تَبۡدِيلَ
     translation: change
     transliteration: tabdīla
   10:
-    arabic: لِـكَلِمٰتِ
+    arabic: لِكَلِمَٰتِ
     translation: (is there) in the Words
     transliteration: likalimāti
   11:
-    arabic: اللّٰهِ​ؕ
+    arabic: ٱللَّهِۚ
     translation: (of) Allah
     transliteration: l-lahi
   12:
-    arabic: ذٰلِكَ
+    arabic: ذَٰلِكَ
     translation: That
     transliteration: dhālika
   13:
@@ -57,11 +57,11 @@ word_by_word:
     translation: is
     transliteration: huwa
   14:
-    arabic: الۡفَوۡزُ
+    arabic: ٱلۡفَوۡزُ
     translation: the success
     transliteration: l-fawzu
   15:
-    arabic: الۡعَظِيۡمُؕ‏
+    arabic: ٱلۡعَظِيمُ
     translation: the great
     transliteration: l-ʿaẓīmu
 ---

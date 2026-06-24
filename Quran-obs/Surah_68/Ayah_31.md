@@ -1,17 +1,17 @@
 ---
-arabic_ayat: قَالُوۡا يٰوَيۡلَنَاۤ اِنَّا كُنَّا طٰغِيۡنَ‏
+arabic_ayat: قَالُواْ يَٰوَيۡلَنَآ إِنَّا كُنَّا طَٰغِينَ
 sentence_translation: They said, “Woe to us! We have certainly been transgressors.
 word_by_word:
   1:
-    arabic: قَالُوۡا
+    arabic: قَالُواْ
     translation: They said
     transliteration: qālū
   2:
-    arabic: يٰوَيۡلَنَاۤ
+    arabic: يَٰوَيۡلَنَآ
     translation: O woe to us
     transliteration: yāwaylanā
   3:
-    arabic: اِنَّا
+    arabic: إِنَّا
     translation: Indeed, we
     transliteration: innā
   4:
@@ -19,7 +19,7 @@ word_by_word:
     translation: '[we] were'
     transliteration: kunnā
   5:
-    arabic: طٰغِيۡنَ‏
+    arabic: طَٰغِينَ
     translation: transgressors
     transliteration: ṭāghīna
 ---

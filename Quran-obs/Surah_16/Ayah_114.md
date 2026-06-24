@@ -1,11 +1,11 @@
 ---
-arabic_ayat: فَكُلُوۡا مِمَّا رَزَقَكُمُ اللّٰهُ حَلٰلًا طَيِّبًا وَّاشۡكُرُوۡا نِعۡمَتَ
-  اللّٰهِ اِنۡ كُنۡـتُمۡ اِيَّاهُ تَعۡبُدُوۡنَ‏
+arabic_ayat: فَكُلُواْ مِمَّا رَزَقَكُمُ ٱللَّهُ حَلَٰلٗا طَيِّبٗا وَٱشۡكُرُواْ نِعۡمَتَ
+  ٱللَّهِ إِن كُنتُمۡ إِيَّاهُ تَعۡبُدُونَ
 sentence_translation: So eat from the good, lawful things which Allah has provided
   for you, and be grateful for Allah’s favours, if you ˹truly˺ worship Him ˹alone˺.
 word_by_word:
   1:
-    arabic: فَكُلُوۡا
+    arabic: فَكُلُواْ
     translation: So eat
     transliteration: fakulū
   2:
@@ -17,19 +17,19 @@ word_by_word:
     translation: 'Allah has provided you '
     transliteration: razaqakumu
   4:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: 'Allah has provided you '
     transliteration: l-lahu
   5:
-    arabic: حَلٰلًا
+    arabic: حَلَٰلٗا
     translation: lawful
     transliteration: ḥalālan
   6:
-    arabic: طَيِّبًا
+    arabic: طَيِّبٗا
     translation: and good
     transliteration: ṭayyiban
   7:
-    arabic: وَّاشۡكُرُوۡا
+    arabic: وَٱشۡكُرُواْ
     translation: And be grateful
     transliteration: wa-ush'kurū
   8:
@@ -37,23 +37,23 @@ word_by_word:
     translation: (for the) Favor
     transliteration: niʿ'mata
   9:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (of) Allah
     transliteration: l-lahi
   10:
-    arabic: اِنۡ
+    arabic: إِن
     translation: if
     transliteration: in
   11:
-    arabic: كُنۡـتُمۡ
+    arabic: كُنتُمۡ
     translation: '[you]'
     transliteration: kuntum
   12:
-    arabic: اِيَّاهُ
+    arabic: إِيَّاهُ
     translation: Him Alone
     transliteration: iyyāhu
   13:
-    arabic: تَعۡبُدُوۡنَ‏
+    arabic: تَعۡبُدُونَ
     translation: you worship
     transliteration: taʿbudūna
 ---

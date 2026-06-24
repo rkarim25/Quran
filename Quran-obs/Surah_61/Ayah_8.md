@@ -1,31 +1,31 @@
 ---
-arabic_ayat: يُرِيۡدُوۡنَ لِيُطۡفِــُٔـوۡا نُوۡرَ اللّٰهِ بِاَ فۡوَاهِهِمْ وَاللّٰهُ
-  مُتِمُّ نُوۡرِهٖ وَلَوۡ كَرِهَ الۡكٰفِرُوۡنَ‏
+arabic_ayat: يُرِيدُونَ لِيُطۡفِـُٔواْ نُورَ ٱللَّهِ بِأَفۡوَٰهِهِمۡ وَٱللَّهُ مُتِمُّ
+  نُورِهِۦ وَلَوۡ كَرِهَ ٱلۡكَٰفِرُونَ
 sentence_translation: They wish to extinguish Allah’s light with their mouths, but
   Allah will ˹certainly˺ perfect His light, even to the dismay of the disbelievers.
 word_by_word:
   1:
-    arabic: يُرِيۡدُوۡنَ
+    arabic: يُرِيدُونَ
     translation: They intend
     transliteration: yurīdūna
   2:
-    arabic: لِيُطۡفِــُٔـوۡا
+    arabic: لِيُطۡفِـُٔواْ
     translation: to put out
     transliteration: liyuṭ'fiū
   3:
-    arabic: نُوۡرَ
+    arabic: نُورَ
     translation: (the) light
     transliteration: nūra
   4:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (of) Allah
     transliteration: l-lahi
   5:
-    arabic: بِاَ فۡوَاهِهِمْ
+    arabic: بِأَفۡوَٰهِهِمۡ
     translation: with their mouths
     transliteration: bi-afwāhihim
   6:
-    arabic: وَاللّٰهُ
+    arabic: وَٱللَّهُ
     translation: but Allah
     transliteration: wal-lahu
   7:
@@ -33,7 +33,7 @@ word_by_word:
     translation: will perfect
     transliteration: mutimmu
   8:
-    arabic: نُوۡرِهٖ
+    arabic: نُورِهِۦ
     translation: His Light
     transliteration: nūrihi
   9:
@@ -45,7 +45,7 @@ word_by_word:
     translation: dislike
     transliteration: kariha
   11:
-    arabic: الۡكٰفِرُوۡنَ‏
+    arabic: ٱلۡكَٰفِرُونَ
     translation: the disbelievers
     transliteration: l-kāfirūna
 ---

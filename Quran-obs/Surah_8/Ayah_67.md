@@ -1,7 +1,7 @@
 ---
-arabic_ayat: مَا كَانَ لِنَبِىٍّ اَنۡ يَّكُوۡنَ لَهٗۤ اَسۡرٰى حَتّٰى يُثۡخِنَ فِى
-  الۡاَرۡضِ​ؕ تُرِيۡدُوۡنَ عَرَضَ الدُّنۡيَا ۖ  وَاللّٰهُ يُرِيۡدُ الۡاٰخِرَةَ​ ؕ
-  وَاللّٰهُ عَزِيۡزٌ حَكِيۡمٌ‏
+arabic_ayat: مَا كَانَ لِنَبِيٍّ أَن يَكُونَ لَهُۥٓ أَسۡرَىٰ حَتَّىٰ يُثۡخِنَ فِي
+  ٱلۡأَرۡضِۚ تُرِيدُونَ عَرَضَ ٱلدُّنۡيَا وَٱللَّهُ يُرِيدُ ٱلۡأٓخِرَةَۗ وَٱللَّهُ
+  عَزِيزٌ حَكِيمٞ
 sentence_translation: It is not fit for a prophet that he should take captives until
   he has thoroughly subdued the land. You ˹believers˺ settled with the fleeting gains
   of this world, while Allah’s aim ˹for you˺ is the Hereafter. Allah is Almighty,
@@ -16,27 +16,27 @@ word_by_word:
     translation: is
     transliteration: kāna
   3:
-    arabic: لِنَبِىٍّ
+    arabic: لِنَبِيٍّ
     translation: for a Prophet
     transliteration: linabiyyin
   4:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that
     transliteration: an
   5:
-    arabic: يَّكُوۡنَ
+    arabic: يَكُونَ
     translation: (there) should be
     transliteration: yakūna
   6:
-    arabic: لَهٗۤ
+    arabic: لَهُۥٓ
     translation: for him
     transliteration: lahu
   7:
-    arabic: اَسۡرٰى
+    arabic: أَسۡرَىٰ
     translation: prisoners of war
     transliteration: asrā
   8:
-    arabic: حَتّٰى
+    arabic: حَتَّىٰ
     translation: until
     transliteration: ḥattā
   9:
@@ -44,15 +44,15 @@ word_by_word:
     translation: he has battled strenuously
     transliteration: yuth'khina
   10:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   11:
-    arabic: الۡاَرۡضِ​ؕ
+    arabic: ٱلۡأَرۡضِۚ
     translation: the land
     transliteration: l-arḍi
   12:
-    arabic: تُرِيۡدُوۡنَ
+    arabic: تُرِيدُونَ
     translation: You desire
     transliteration: turīdūna
   13:
@@ -60,31 +60,31 @@ word_by_word:
     translation: (the) commodities
     transliteration: ʿaraḍa
   14:
-    arabic: الدُّنۡيَا ۖ 
+    arabic: ٱلدُّنۡيَا
     translation: (of) the world
     transliteration: l-dun'yā
   15:
-    arabic: وَاللّٰهُ
+    arabic: وَٱللَّهُ
     translation: but Allah
     transliteration: wal-lahu
   16:
-    arabic: يُرِيۡدُ
+    arabic: يُرِيدُ
     translation: desires
     transliteration: yurīdu
   17:
-    arabic: الۡاٰخِرَةَ​ ؕ
+    arabic: ٱلۡأٓخِرَةَۗ
     translation: (for you) the Hereafter
     transliteration: l-ākhirata
   18:
-    arabic: وَاللّٰهُ
+    arabic: وَٱللَّهُ
     translation: And Allah
     transliteration: wal-lahu
   19:
-    arabic: عَزِيۡزٌ
+    arabic: عَزِيزٌ
     translation: (is) All-Mighty
     transliteration: ʿazīzun
   20:
-    arabic: حَكِيۡمٌ‏
+    arabic: حَكِيمٞ
     translation: All-Wise
     transliteration: ḥakīmun
 ---

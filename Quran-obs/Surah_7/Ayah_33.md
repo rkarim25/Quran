@@ -1,8 +1,7 @@
 ---
-arabic_ayat: "قُلۡ اِنَّمَا حَرَّمَ رَبِّىَ الۡـفَوَاحِشَ مَا ظَهَرَ مِنۡهَا وَمَا\
-  \ بَطَنَ وَ الۡاِثۡمَ وَالۡبَـغۡىَ بِغَيۡرِ الۡحَـقِّ وَاَنۡ تُشۡرِكُوۡا بِاللّٰهِ\
-  \ مَا لَمۡ يُنَزِّلۡ بِهٖ سُلۡطٰنًا وَّاَنۡ تَقُوۡلُوۡا عَلَى اللّٰهِ مَا لَا تَعۡلَمُوۡنَ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: قُلۡ إِنَّمَا حَرَّمَ رَبِّيَ ٱلۡفَوَٰحِشَ مَا ظَهَرَ مِنۡهَا وَمَا بَطَنَ
+  وَٱلۡإِثۡمَ وَٱلۡبَغۡيَ بِغَيۡرِ ٱلۡحَقِّ وَأَن تُشۡرِكُواْ بِٱللَّهِ مَا لَمۡ يُنَزِّلۡ
+  بِهِۦ سُلۡطَٰنٗا وَأَن تَقُولُواْ عَلَى ٱللَّهِ مَا لَا تَعۡلَمُونَ
 sentence_translation: Say, “My Lord has only forbidden open and secret indecencies,
   sinfulness, unjust aggression, associating ˹others˺ with Allah ˹in worship˺—a practice
   He has never authorized—and attributing to Allah what you do not know.”
@@ -12,7 +11,7 @@ word_by_word:
     translation: Say
     transliteration: qul
   2:
-    arabic: اِنَّمَا
+    arabic: إِنَّمَا
     translation: Only
     transliteration: innamā
   3:
@@ -20,11 +19,11 @@ word_by_word:
     translation: (had) forbidden
     transliteration: ḥarrama
   4:
-    arabic: رَبِّىَ
+    arabic: رَبِّيَ
     translation: my Lord
     transliteration: rabbiya
   5:
-    arabic: الۡـفَوَاحِشَ
+    arabic: ٱلۡفَوَٰحِشَ
     translation: the shameful deeds
     transliteration: l-fawāḥisha
   6:
@@ -48,11 +47,11 @@ word_by_word:
     translation: is concealed
     transliteration: baṭana
   11:
-    arabic: وَ الۡاِثۡمَ
+    arabic: وَٱلۡإِثۡمَ
     translation: and the sin
     transliteration: wal-ith'ma
   12:
-    arabic: وَالۡبَـغۡىَ
+    arabic: وَٱلۡبَغۡيَ
     translation: and the oppression
     transliteration: wal-baghya
   13:
@@ -60,19 +59,19 @@ word_by_word:
     translation: without
     transliteration: bighayri
   14:
-    arabic: الۡحَـقِّ
+    arabic: ٱلۡحَقِّ
     translation: '[the] right'
     transliteration: l-ḥaqi
   15:
-    arabic: وَاَنۡ
+    arabic: وَأَن
     translation: and that
     transliteration: wa-an
   16:
-    arabic: تُشۡرِكُوۡا
+    arabic: تُشۡرِكُواْ
     translation: you associate (others)
     transliteration: tush'rikū
   17:
-    arabic: بِاللّٰهِ
+    arabic: بِٱللَّهِ
     translation: with Allah
     transliteration: bil-lahi
   18:
@@ -88,19 +87,19 @@ word_by_word:
     translation: He (has) sent down
     transliteration: yunazzil
   21:
-    arabic: بِهٖ
+    arabic: بِهِۦ
     translation: of it
     transliteration: bihi
   22:
-    arabic: سُلۡطٰنًا
+    arabic: سُلۡطَٰنٗا
     translation: any authority
     transliteration: sul'ṭānan
   23:
-    arabic: وَّاَنۡ
+    arabic: وَأَن
     translation: and that
     transliteration: wa-an
   24:
-    arabic: تَقُوۡلُوۡا
+    arabic: تَقُولُواْ
     translation: you say
     transliteration: taqūlū
   25:
@@ -108,7 +107,7 @@ word_by_word:
     translation: about
     transliteration: ʿalā
   26:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   27:
@@ -120,7 +119,7 @@ word_by_word:
     translation: not
     transliteration: lā
   29:
-    arabic: "تَعۡلَمُوۡنَ‏ \uFEFF\uFEFF"
+    arabic: تَعۡلَمُونَ
     translation: you know
     transliteration: taʿlamūna
 ---

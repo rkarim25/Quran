@@ -1,33 +1,32 @@
 ---
-arabic_ayat: مَاۤ اَصَابَ مِنۡ مُّصِيۡبَةٍ فِى الۡاَرۡضِ وَلَا فِىۡۤ اَنۡفُسِكُمۡ
-  اِلَّا فِىۡ كِتٰبٍ مِّنۡ قَبۡلِ اَنۡ نَّبۡـرَاَهَا ؕ اِنَّ ذٰ لِكَ عَلَى اللّٰهِ
-  يَسِيۡرٌۚ  ۖ‏
+arabic_ayat: مَآ أَصَابَ مِن مُّصِيبَةٖ فِي ٱلۡأَرۡضِ وَلَا فِيٓ أَنفُسِكُمۡ إِلَّا
+  فِي كِتَٰبٖ مِّن قَبۡلِ أَن نَّبۡرَأَهَآۚ إِنَّ ذَٰلِكَ عَلَى ٱللَّهِ يَسِيرٞ
 sentence_translation: No calamity ˹or blessing˺ occurs on earth or in yourselves without
   being ˹written˺ in a Record before We bring it into being. This is certainly easy
   for Allah.
 word_by_word:
   1:
-    arabic: مَاۤ
+    arabic: مَآ
     translation: Not
     transliteration: mā
   2:
-    arabic: اَصَابَ
+    arabic: أَصَابَ
     translation: strikes
     transliteration: aṣāba
   3:
-    arabic: مِنۡ
+    arabic: مِن
     translation: any
     transliteration: min
   4:
-    arabic: مُّصِيۡبَةٍ
+    arabic: مُّصِيبَةٖ
     translation: disaster
     transliteration: muṣībatin
   5:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   6:
-    arabic: الۡاَرۡضِ
+    arabic: ٱلۡأَرۡضِ
     translation: the earth
     transliteration: l-arḍi
   7:
@@ -35,27 +34,27 @@ word_by_word:
     translation: and not
     transliteration: walā
   8:
-    arabic: فِىۡۤ
+    arabic: فِيٓ
     translation: in
     transliteration: fī
   9:
-    arabic: اَنۡفُسِكُمۡ
+    arabic: أَنفُسِكُمۡ
     translation: yourselves
     transliteration: anfusikum
   10:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: but
     transliteration: illā
   11:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   12:
-    arabic: كِتٰبٍ
+    arabic: كِتَٰبٖ
     translation: a Register
     transliteration: kitābin
   13:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: before
     transliteration: min
   14:
@@ -63,19 +62,19 @@ word_by_word:
     translation: before
     transliteration: qabli
   15:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that
     transliteration: an
   16:
-    arabic: نَّبۡـرَاَهَا ؕ
+    arabic: نَّبۡرَأَهَآۚ
     translation: We bring it into existence
     transliteration: nabra-ahā
   17:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   18:
-    arabic: ذٰ لِكَ
+    arabic: ذَٰلِكَ
     translation: that
     transliteration: dhālika
   19:
@@ -83,11 +82,11 @@ word_by_word:
     translation: for
     transliteration: ʿalā
   20:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   21:
-    arabic: يَسِيۡرٌۚ  ۖ‏
+    arabic: يَسِيرٞ
     translation: (is) easy
     transliteration: yasīrun
 ---

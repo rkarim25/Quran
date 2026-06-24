@@ -1,7 +1,7 @@
 ---
-arabic_ayat: "وَلَقَدۡ ضَرَبۡنَا لِلنَّاسِ فِىۡ هٰذَا الۡقُرۡاٰنِ مِنۡ كُلِّ مَثَلٍ​ؕ\
-  \ وَلَٮِٕنۡ جِئۡتَهُمۡ بِاٰيَةٍ لَّيَقُوۡلَنَّ الَّذِيۡنَ كَفَرُوۡۤا اِنۡ اَنۡتُمۡ\
-  \ اِلَّا مُبۡطِلُوۡنَ‏ \uFEFF\uFEFF"
+arabic_ayat: وَلَقَدۡ ضَرَبۡنَا لِلنَّاسِ فِي هَٰذَا ٱلۡقُرۡءَانِ مِن كُلِّ مَثَلٖۚ
+  وَلَئِن جِئۡتَهُم بِـَٔايَةٖ لَّيَقُولَنَّ ٱلَّذِينَ كَفَرُوٓاْ إِنۡ أَنتُمۡ إِلَّا
+  مُبۡطِلُونَ
 sentence_translation: We have certainly set forth every ˹kind of˺ lesson for people
   in this Quran. And no matter what sign you bring to them ˹O Prophet˺, the disbelievers
   will definitely say ˹to the believers˺, “You are only a people of falsehood.”
@@ -19,19 +19,19 @@ word_by_word:
     translation: for mankind
     transliteration: lilnnāsi
   4:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   5:
-    arabic: هٰذَا
+    arabic: هَٰذَا
     translation: 'this '
     transliteration: hādhā
   6:
-    arabic: الۡقُرۡاٰنِ
+    arabic: ٱلۡقُرۡءَانِ
     translation: '[the] Quran'
     transliteration: l-qur'āni
   7:
-    arabic: مِنۡ
+    arabic: مِن
     translation: of
     transliteration: min
   8:
@@ -39,47 +39,47 @@ word_by_word:
     translation: every
     transliteration: kulli
   9:
-    arabic: مَثَلٍ​ؕ
+    arabic: مَثَلٖۚ
     translation: example
     transliteration: mathalin
   10:
-    arabic: وَلَٮِٕنۡ
+    arabic: وَلَئِن
     translation: But if
     transliteration: wala-in
   11:
-    arabic: جِئۡتَهُمۡ
+    arabic: جِئۡتَهُم
     translation: you bring them
     transliteration: ji'tahum
   12:
-    arabic: بِاٰيَةٍ
+    arabic: بِـَٔايَةٖ
     translation: a sign
     transliteration: biāyatin
   13:
-    arabic: لَّيَقُوۡلَنَّ
+    arabic: لَّيَقُولَنَّ
     translation: surely will say
     transliteration: layaqūlanna
   14:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   15:
-    arabic: كَفَرُوۡۤا
+    arabic: كَفَرُوٓاْ
     translation: disbelieve
     transliteration: kafarū
   16:
-    arabic: اِنۡ
+    arabic: إِنۡ
     translation: Not
     transliteration: in
   17:
-    arabic: اَنۡتُمۡ
+    arabic: أَنتُمۡ
     translation: you
     transliteration: antum
   18:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: (are) except
     transliteration: illā
   19:
-    arabic: "مُبۡطِلُوۡنَ‏ \uFEFF\uFEFF"
+    arabic: مُبۡطِلُونَ
     translation: falsifiers
     transliteration: mub'ṭilūna
 ---

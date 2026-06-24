@@ -1,18 +1,17 @@
 ---
-arabic_ayat: وَاَقۡسَمُوۡا بِاللّٰهِ جَهۡدَ اَيۡمَانِهِمۡ لَٮِٕنۡ اَمَرۡتَهُمۡ لَيَخۡرُجُنَّ​
-  ۚ قُلْ لَّا تُقۡسِمُوۡا​ ۚ طَاعَةٌ مَّعۡرُوۡفَةٌ​  ؕ اِنَّ اللّٰهَ خَبِيۡرٌۢ بِمَا
-  تَعۡمَلُوۡنَ‏
+arabic_ayat: ۞ وَأَقۡسَمُواْ بِٱللَّهِ جَهۡدَ أَيۡمَٰنِهِمۡ لَئِنۡ أَمَرۡتَهُمۡ لَيَخۡرُجُنَّۖ
+  قُل لَّا تُقۡسِمُواْۖ طَاعَةٞ مَّعۡرُوفَةٌۚ إِنَّ ٱللَّهَ خَبِيرُۢ بِمَا تَعۡمَلُونَ
 sentence_translation: They swear by Allah their most solemn oaths that if you ˹O Prophet˺
   were to command them, they would certainly march forth ˹in Allah’s cause˺. Say,
   “˹You˺ do not ˹have to˺ swear; your obedience is well known!” Surely Allah is All-Aware
   of what you do.”
 word_by_word:
   1:
-    arabic: ۞ وَاَقۡسَمُوۡا
+    arabic: ۞ وَأَقۡسَمُواْ
     translation: And they swear
     transliteration: wa-aqsamū
   2:
-    arabic: بِاللّٰهِ
+    arabic: بِٱللَّهِ
     translation: by Allah
     transliteration: bil-lahi
   3:
@@ -20,23 +19,23 @@ word_by_word:
     translation: strong
     transliteration: jahda
   4:
-    arabic: اَيۡمَانِهِمۡ
+    arabic: أَيۡمَٰنِهِمۡ
     translation: their oaths
     transliteration: aymānihim
   5:
-    arabic: لَٮِٕنۡ
+    arabic: لَئِنۡ
     translation: that if
     transliteration: la-in
   6:
-    arabic: اَمَرۡتَهُمۡ
+    arabic: أَمَرۡتَهُمۡ
     translation: you ordered them
     transliteration: amartahum
   7:
-    arabic: لَيَخۡرُجُنَّ​ ۚ
+    arabic: لَيَخۡرُجُنَّۖ
     translation: surely they (would) go forth
     transliteration: layakhrujunna
   8:
-    arabic: قُلْ
+    arabic: قُل
     translation: Say
     transliteration: qul
   9:
@@ -44,27 +43,27 @@ word_by_word:
     translation: (Do) not
     transliteration: lā
   10:
-    arabic: تُقۡسِمُوۡا​ ۚ
+    arabic: تُقۡسِمُواْۖ
     translation: swear
     transliteration: tuq'simū
   11:
-    arabic: طَاعَةٌ
+    arabic: طَاعَةٞ
     translation: Obedience
     transliteration: ṭāʿatun
   12:
-    arabic: مَّعۡرُوۡفَةٌ​  ؕ
+    arabic: مَّعۡرُوفَةٌۚ
     translation: (is) known
     transliteration: maʿrūfatun
   13:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   14:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   15:
-    arabic: خَبِيۡرٌۢ
+    arabic: خَبِيرُۢ
     translation: (is) All-Aware
     transliteration: khabīrun
   16:
@@ -72,7 +71,7 @@ word_by_word:
     translation: of what
     transliteration: bimā
   17:
-    arabic: تَعۡمَلُوۡنَ‏
+    arabic: تَعۡمَلُونَ
     translation: you do
     transliteration: taʿmalūna
 ---

@@ -1,31 +1,30 @@
 ---
-arabic_ayat: اَللّٰهُ وَلِىُّ الَّذِيۡنَ اٰمَنُوۡا يُخۡرِجُهُمۡ مِّنَ الظُّلُمٰتِ
-  اِلَى النُّوۡرِ​ؕ  وَالَّذِيۡنَ كَفَرُوۡۤا اَوۡلِيٰٓـــُٔهُمُ الطَّاغُوۡتُۙ يُخۡرِجُوۡنَهُمۡ
-  مِّنَ النُّوۡرِ اِلَى الظُّلُمٰتِ​ؕ اُولٰٓٮِٕكَ اَصۡحٰبُ النَّارِ​​ۚ هُمۡ فِيۡهَا
-  خٰلِدُوۡنَ‏
+arabic_ayat: ٱللَّهُ وَلِيُّ ٱلَّذِينَ ءَامَنُواْ يُخۡرِجُهُم مِّنَ ٱلظُّلُمَٰتِ إِلَى
+  ٱلنُّورِۖ وَٱلَّذِينَ كَفَرُوٓاْ أَوۡلِيَآؤُهُمُ ٱلطَّٰغُوتُ يُخۡرِجُونَهُم مِّنَ
+  ٱلنُّورِ إِلَى ٱلظُّلُمَٰتِۗ أُوْلَٰٓئِكَ أَصۡحَٰبُ ٱلنَّارِۖ هُمۡ فِيهَا خَٰلِدُونَ
 sentence_translation: Allah is the Guardian of the believers—He brings them out of
   darkness and into light. As for the disbelievers, their guardians are false gods
   who lead them out of light and into darkness. It is they who will be the residents
   of the Fire. They will be there forever.
 word_by_word:
   1:
-    arabic: اَللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: al-lahu
   2:
-    arabic: وَلِىُّ
+    arabic: وَلِيُّ
     translation: (is the) Protecting Guardian
     transliteration: waliyyu
   3:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ ءَ
     translation: (of) those who
     transliteration: alladhīna
   4:
-    arabic: اٰمَنُوۡا
+    arabic: امَنُواْ
     translation: believe[d]
     transliteration: āmanū
   5:
-    arabic: يُخۡرِجُهُمۡ
+    arabic: يُخۡرِجُهُم
     translation: He brings them out
     transliteration: yukh'rijuhum
   6:
@@ -33,35 +32,35 @@ word_by_word:
     translation: from
     transliteration: mina
   7:
-    arabic: الظُّلُمٰتِ
+    arabic: ٱلظُّلُمَٰتِ
     translation: '[the] darkness'
     transliteration: l-ẓulumāti
   8:
-    arabic: اِلَى
+    arabic: إِلَى
     translation: towards
     transliteration: ilā
   9:
-    arabic: النُّوۡرِ​ؕ
+    arabic: ٱلنُّورِۖ
     translation: '[the] light'
     transliteration: l-nūri
   10:
-    arabic:  وَالَّذِيۡنَ
+    arabic: وَٱلَّذِينَ
     translation: And those who
     transliteration: wa-alladhīna
   11:
-    arabic: كَفَرُوۡۤا
+    arabic: كَفَرُوٓاْ
     translation: disbelieve(d)
     transliteration: kafarū
   12:
-    arabic: اَوۡلِيٰٓـــُٔهُمُ
+    arabic: أَوۡلِيَآؤُهُمُ
     translation: their guardians
     transliteration: awliyāuhumu
   13:
-    arabic: الطَّاغُوۡتُۙ
+    arabic: ٱلطَّٰغُوتُ
     translation: (are) the evil ones
     transliteration: l-ṭāghūtu
   14:
-    arabic: يُخۡرِجُوۡنَهُمۡ
+    arabic: يُخۡرِجُونَهُم
     translation: they bring them out
     transliteration: yukh'rijūnahum
   15:
@@ -69,27 +68,27 @@ word_by_word:
     translation: from
     transliteration: mina
   16:
-    arabic: النُّوۡرِ
+    arabic: ٱلنُّورِ
     translation: the light
     transliteration: l-nūri
   17:
-    arabic: اِلَى
+    arabic: إِلَى
     translation: towards
     transliteration: ilā
   18:
-    arabic: الظُّلُمٰتِ​ؕ
+    arabic: ٱلظُّلُمَٰتِۗ
     translation: '[the] darkness'
     transliteration: l-ẓulumāti
   19:
-    arabic: اُولٰٓٮِٕكَ
+    arabic: أُوْلَٰٓئِكَ
     translation: Those
     transliteration: ulāika
   20:
-    arabic: اَصۡحٰبُ
+    arabic: أَصۡحَٰبُ
     translation: (are the) companions
     transliteration: aṣḥābu
   21:
-    arabic: النَّارِ​​ۚ
+    arabic: ٱلنَّارِۖ
     translation: (of) the Fire
     transliteration: l-nāri
   22:
@@ -97,11 +96,11 @@ word_by_word:
     translation: they
     transliteration: hum
   23:
-    arabic: فِيۡهَا
+    arabic: فِيهَا
     translation: in it
     transliteration: fīhā
   24:
-    arabic: خٰلِدُوۡنَ‏
+    arabic: خَٰلِدُونَ
     translation: will abide forever
     transliteration: khālidūna
 ---

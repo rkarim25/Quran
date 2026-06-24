@@ -1,5 +1,5 @@
 ---
-arabic_ayat: قَدۡ اَفۡلَحَ مَنۡ تَزَكّٰىۙ‏
+arabic_ayat: قَدۡ أَفۡلَحَ مَن تَزَكَّىٰ
 sentence_translation: Successful indeed are those who purify themselves,
 word_by_word:
   1:
@@ -7,15 +7,15 @@ word_by_word:
     translation: Certainly
     transliteration: qad
   2:
-    arabic: اَفۡلَحَ
+    arabic: أَفۡلَحَ
     translation: has succeeded
     transliteration: aflaḥa
   3:
-    arabic: مَنۡ
+    arabic: مَن
     translation: (one) who
     transliteration: man
   4:
-    arabic: تَزَكّٰىۙ‏
+    arabic: تَزَكَّىٰ
     translation: purifies (himself)
     transliteration: tazakkā
 ---

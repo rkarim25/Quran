@@ -1,17 +1,17 @@
 ---
-arabic_ayat: فَاصۡبِرۡ عَلٰى مَا يَقُوۡلُوۡنَ وَسَبِّحۡ بِحَمۡدِ رَبِّكَ قَبۡلَ طُلُوۡعِ
-  الشَّمۡسِ وَقَبۡلَ غُرُوۡبِهَا​ ۚ وَمِنۡ اٰنَآىٴِ الَّيۡلِ فَسَبِّحۡ وَاَطۡرَافَ
-  النَّهَارِ لَعَلَّكَ تَرۡضٰى‏
+arabic_ayat: فَٱصۡبِرۡ عَلَىٰ مَا يَقُولُونَ وَسَبِّحۡ بِحَمۡدِ رَبِّكَ قَبۡلَ طُلُوعِ
+  ٱلشَّمۡسِ وَقَبۡلَ غُرُوبِهَاۖ وَمِنۡ ءَانَآيِٕ ٱلَّيۡلِ فَسَبِّحۡ وَأَطۡرَافَ
+  ٱلنَّهَارِ لَعَلَّكَ تَرۡضَىٰ
 sentence_translation: So be patient ˹O Prophet˺ with what they say. And glorify the
   praises of your Lord before sunrise and before sunset, and glorify Him in the hours
   of the night and at both ends of the day, so that you may be pleased ˹with the reward˺.
 word_by_word:
   1:
-    arabic: فَاصۡبِرۡ
+    arabic: فَٱصۡبِرۡ
     translation: So be patient
     transliteration: fa-iṣ'bir
   2:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: over
     transliteration: ʿalā
   3:
@@ -19,7 +19,7 @@ word_by_word:
     translation: what
     transliteration: mā
   4:
-    arabic: يَقُوۡلُوۡنَ
+    arabic: يَقُولُونَ
     translation: they say
     transliteration: yaqūlūna
   5:
@@ -39,11 +39,11 @@ word_by_word:
     translation: before
     transliteration: qabla
   9:
-    arabic: طُلُوۡعِ
+    arabic: طُلُوعِ
     translation: (the) rising
     transliteration: ṭulūʿi
   10:
-    arabic: الشَّمۡسِ
+    arabic: ٱلشَّمۡسِ
     translation: (of) the sun
     transliteration: l-shamsi
   11:
@@ -51,19 +51,19 @@ word_by_word:
     translation: and before
     transliteration: waqabla
   12:
-    arabic: غُرُوۡبِهَا​ ۚ
+    arabic: غُرُوبِهَاۖ
     translation: its setting
     transliteration: ghurūbihā
   13:
-    arabic: وَمِنۡ
+    arabic: وَمِنۡ ءَ
     translation: and from
     transliteration: wamin
   14:
-    arabic: اٰنَآىٴِ
+    arabic: انَآيِٕ
     translation: (the) hours
     transliteration: ānāi
   15:
-    arabic: الَّيۡلِ
+    arabic: ٱلَّيۡلِ
     translation: (of) the night
     transliteration: al-layli
   16:
@@ -71,11 +71,11 @@ word_by_word:
     translation: and glorify
     transliteration: fasabbiḥ
   17:
-    arabic: وَاَطۡرَافَ
+    arabic: وَأَطۡرَافَ
     translation: (at the) ends
     transliteration: wa-aṭrāfa
   18:
-    arabic: النَّهَارِ
+    arabic: ٱلنَّهَارِ
     translation: (of) the day
     transliteration: l-nahāri
   19:
@@ -83,7 +83,7 @@ word_by_word:
     translation: so that you may
     transliteration: laʿallaka
   20:
-    arabic: تَرۡضٰى‏
+    arabic: تَرۡضَىٰ
     translation: be satisfied
     transliteration: tarḍā
 ---

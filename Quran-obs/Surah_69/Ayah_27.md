@@ -1,9 +1,9 @@
 ---
-arabic_ayat: يٰلَيۡتَهَا كَانَتِ الۡقَاضِيَةَ​ ۚ‏
+arabic_ayat: يَٰلَيۡتَهَا كَانَتِ ٱلۡقَاضِيَةَ
 sentence_translation: I wish death was the end!
 word_by_word:
   1:
-    arabic: يٰلَيۡتَهَا
+    arabic: يَٰلَيۡتَهَا
     translation: O! I wish it
     transliteration: yālaytahā
   2:
@@ -11,7 +11,7 @@ word_by_word:
     translation: had been
     transliteration: kānati
   3:
-    arabic: الۡقَاضِيَةَ​ ۚ‏
+    arabic: ٱلۡقَاضِيَةَ
     translation: the end
     transliteration: l-qāḍiyata
 ---

@@ -1,11 +1,11 @@
 ---
-arabic_ayat: وَبٰرَكۡنَا عَلَيۡهِ وَعَلٰٓى اِسۡحٰقَ​ؕ وَ مِنۡ ذُرِّيَّتِهِمَا مُحۡسِنٌ
-  وَّظَالِمٌ لِّنَفۡسِهٖ مُبِيۡنٌ​‏
+arabic_ayat: وَبَٰرَكۡنَا عَلَيۡهِ وَعَلَىٰٓ إِسۡحَٰقَۚ وَمِن ذُرِّيَّتِهِمَا مُحۡسِنٞ
+  وَظَالِمٞ لِّنَفۡسِهِۦ مُبِينٞ
 sentence_translation: We blessed him and Isaac as well. Some of their descendants
   did good, while others clearly wronged themselves.
 word_by_word:
   1:
-    arabic: وَبٰرَكۡنَا
+    arabic: وَبَٰرَكۡنَا
     translation: And We blessed
     transliteration: wabāraknā
   2:
@@ -13,15 +13,15 @@ word_by_word:
     translation: him
     transliteration: ʿalayhi
   3:
-    arabic: وَعَلٰٓى
+    arabic: وَعَلَىٰٓ
     translation: and [on]
     transliteration: waʿalā
   4:
-    arabic: اِسۡحٰقَ​ؕ
+    arabic: إِسۡحَٰقَۚ
     translation: Isaac
     transliteration: is'ḥāqa
   5:
-    arabic: وَ مِنۡ
+    arabic: وَمِن
     translation: And of
     transliteration: wamin
   6:
@@ -29,19 +29,19 @@ word_by_word:
     translation: their offspring
     transliteration: dhurriyyatihimā
   7:
-    arabic: مُحۡسِنٌ
+    arabic: مُحۡسِنٞ
     translation: (are) good-doers
     transliteration: muḥ'sinun
   8:
-    arabic: وَّظَالِمٌ
+    arabic: وَظَالِمٞ
     translation: and unjust
     transliteration: waẓālimun
   9:
-    arabic: لِّنَفۡسِهٖ
+    arabic: لِّنَفۡسِهِۦ
     translation: to himself
     transliteration: linafsihi
   10:
-    arabic: مُبِيۡنٌ​‏
+    arabic: مُبِينٞ
     translation: clear
     transliteration: mubīnun
 ---

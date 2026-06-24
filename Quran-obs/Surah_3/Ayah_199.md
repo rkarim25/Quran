@@ -1,15 +1,15 @@
 ---
-arabic_ayat: وَاِنَّ مِنۡ اَهۡلِ الۡكِتٰبِ لَمَنۡ يُّؤۡمِنُ بِاللّٰهِ وَمَاۤ اُنۡزِلَ
-  اِلَيۡكُمۡ وَمَاۤ اُنۡزِلَ اِلَيۡهِمۡ خٰشِعِيۡنَ لِلّٰهِ ۙ لَا يَشۡتَرُوۡنَ بِاٰيٰتِ
-  اللّٰهِ ثَمَنًا قَلِيۡلًا ​ؕ اُولٰٓٮِٕكَ لَهُمۡ اَجۡرُهُمۡ عِنۡدَ رَبِّهِمۡ​ؕ اِنَّ
-  اللّٰهَ سَرِيۡعُ الۡحِسَابِ‏
+arabic_ayat: وَإِنَّ مِنۡ أَهۡلِ ٱلۡكِتَٰبِ لَمَن يُؤۡمِنُ بِٱللَّهِ وَمَآ أُنزِلَ
+  إِلَيۡكُمۡ وَمَآ أُنزِلَ إِلَيۡهِمۡ خَٰشِعِينَ لِلَّهِ لَا يَشۡتَرُونَ بِـَٔايَٰتِ
+  ٱللَّهِ ثَمَنٗا قَلِيلًاۚ أُوْلَٰٓئِكَ لَهُمۡ أَجۡرُهُمۡ عِندَ رَبِّهِمۡۗ إِنَّ
+  ٱللَّهَ سَرِيعُ ٱلۡحِسَابِ
 sentence_translation: Indeed, there are some among the People of the Book who truly
   believe in Allah and what has been revealed to you ˹believers˺ and what was revealed
   to them. They humble themselves before Allah—never trading Allah’s revelations for
   a fleeting gain. Their reward is with their Lord. Surely Allah is swift in reckoning.
 word_by_word:
   1:
-    arabic: وَاِنَّ
+    arabic: وَإِنَّ
     translation: And indeed
     transliteration: wa-inna
   2:
@@ -17,55 +17,55 @@ word_by_word:
     translation: among
     transliteration: min
   3:
-    arabic: اَهۡلِ
+    arabic: أَهۡلِ
     translation: (the) People
     transliteration: ahli
   4:
-    arabic: الۡكِتٰبِ
+    arabic: ٱلۡكِتَٰبِ
     translation: (of) the Book
     transliteration: l-kitābi
   5:
-    arabic: لَمَنۡ
+    arabic: لَمَن
     translation: (are those) who
     transliteration: laman
   6:
-    arabic: يُّؤۡمِنُ
+    arabic: يُؤۡمِنُ
     translation: believe
     transliteration: yu'minu
   7:
-    arabic: بِاللّٰهِ
+    arabic: بِٱللَّهِ
     translation: in Allah
     transliteration: bil-lahi
   8:
-    arabic: وَمَاۤ
+    arabic: وَمَآ
     translation: and what
     transliteration: wamā
   9:
-    arabic: اُنۡزِلَ
+    arabic: أُنزِلَ
     translation: was revealed
     transliteration: unzila
   10:
-    arabic: اِلَيۡكُمۡ
+    arabic: إِلَيۡكُمۡ
     translation: to you
     transliteration: ilaykum
   11:
-    arabic: وَمَاۤ
+    arabic: وَمَآ
     translation: and what
     transliteration: wamā
   12:
-    arabic: اُنۡزِلَ
+    arabic: أُنزِلَ
     translation: was revealed
     transliteration: unzila
   13:
-    arabic: اِلَيۡهِمۡ
+    arabic: إِلَيۡهِمۡ
     translation: 'to them '
     transliteration: ilayhim
   14:
-    arabic: خٰشِعِيۡنَ
+    arabic: خَٰشِعِينَ
     translation: humbly submissive
     transliteration: khāshiʿīna
   15:
-    arabic: لِلّٰهِ ۙ
+    arabic: لِلَّهِ
     translation: to Allah
     transliteration: lillahi
   16:
@@ -73,27 +73,27 @@ word_by_word:
     translation: Not
     transliteration: lā
   17:
-    arabic: يَشۡتَرُوۡنَ
+    arabic: يَشۡتَرُونَ
     translation: (do) they exchange
     transliteration: yashtarūna
   18:
-    arabic: بِاٰيٰتِ
+    arabic: بِـَٔايَٰتِ
     translation: '[with] (the) Verses'
     transliteration: biāyāti
   19:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (of) Allah
     transliteration: l-lahi
   20:
-    arabic: ثَمَنًا
+    arabic: ثَمَنٗا
     translation: (for) a price
     transliteration: thamanan
   21:
-    arabic: قَلِيۡلًا ​ؕ
+    arabic: قَلِيلًاۚ
     translation: little
     transliteration: qalīlan
   22:
-    arabic: اُولٰٓٮِٕكَ
+    arabic: أُوْلَٰٓئِكَ
     translation: Those
     transliteration: ulāika
   23:
@@ -101,31 +101,31 @@ word_by_word:
     translation: for them
     transliteration: lahum
   24:
-    arabic: اَجۡرُهُمۡ
+    arabic: أَجۡرُهُمۡ
     translation: their reward
     transliteration: ajruhum
   25:
-    arabic: عِنۡدَ
+    arabic: عِندَ
     translation: (is) with
     transliteration: ʿinda
   26:
-    arabic: رَبِّهِمۡ​ؕ
+    arabic: رَبِّهِمۡۗ
     translation: their Lord
     transliteration: rabbihim
   27:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   28:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   29:
-    arabic: سَرِيۡعُ
+    arabic: سَرِيعُ
     translation: (is) swift
     transliteration: sarīʿu
   30:
-    arabic: الۡحِسَابِ‏
+    arabic: ٱلۡحِسَابِ
     translation: (in taking) the account
     transliteration: l-ḥisābi
 ---

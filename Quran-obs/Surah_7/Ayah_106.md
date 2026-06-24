@@ -1,6 +1,5 @@
 ---
-arabic_ayat: "قَالَ اِنۡ كُنۡتَ جِئۡتَ بِاٰيَةٍ فَاۡتِ بِهَاۤ اِنۡ كُنۡتَ مِنَ الصّٰدِقِيۡنَ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: قَالَ إِن كُنتَ جِئۡتَ بِـَٔايَةٖ فَأۡتِ بِهَآ إِن كُنتَ مِنَ ٱلصَّٰدِقِينَ
 sentence_translation: Pharaoh said, “If you have come with a sign, then bring it if
   what you say is true.”
 word_by_word:
@@ -9,11 +8,11 @@ word_by_word:
     translation: He said
     transliteration: qāla
   2:
-    arabic: اِنۡ
+    arabic: إِن
     translation: If
     transliteration: in
   3:
-    arabic: كُنۡتَ
+    arabic: كُنتَ
     translation: you have
     transliteration: kunta
   4:
@@ -21,23 +20,23 @@ word_by_word:
     translation: come
     transliteration: ji'ta
   5:
-    arabic: بِاٰيَةٍ
+    arabic: بِـَٔايَةٖ
     translation: with a Sign
     transliteration: biāyatin
   6:
-    arabic: فَاۡتِ
+    arabic: فَأۡتِ
     translation: then bring
     transliteration: fati
   7:
-    arabic: بِهَاۤ
+    arabic: بِهَآ
     translation: it
     transliteration: bihā
   8:
-    arabic: اِنۡ
+    arabic: إِن
     translation: if
     transliteration: in
   9:
-    arabic: كُنۡتَ
+    arabic: كُنتَ
     translation: you are
     transliteration: kunta
   10:
@@ -45,7 +44,7 @@ word_by_word:
     translation: of
     transliteration: mina
   11:
-    arabic: "الصّٰدِقِيۡنَ‏ \uFEFF\uFEFF"
+    arabic: ٱلصَّٰدِقِينَ
     translation: the truthful
     transliteration: l-ṣādiqīna
 ---

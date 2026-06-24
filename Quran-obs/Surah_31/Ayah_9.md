@@ -1,15 +1,14 @@
 ---
-arabic_ayat: "خٰلِدِيۡنَ فِيۡهَا ؕ وَعۡدَ اللّٰهِ حَقًّا ​ؕ وَهُوَ الۡعَزِيۡزُ الۡحَكِيۡمُ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: خَٰلِدِينَ فِيهَاۖ وَعۡدَ ٱللَّهِ حَقّٗاۚ وَهُوَ ٱلۡعَزِيزُ ٱلۡحَكِيمُ
 sentence_translation: staying there forever. Allah’s promise is true. And He is the
   Almighty, All-Wise.
 word_by_word:
   1:
-    arabic: خٰلِدِيۡنَ
+    arabic: خَٰلِدِينَ
     translation: (To) abide forever
     transliteration: khālidīna
   2:
-    arabic: فِيۡهَا ؕ
+    arabic: فِيهَاۖ
     translation: in it
     transliteration: fīhā
   3:
@@ -17,11 +16,11 @@ word_by_word:
     translation: (The) Promise of Allah
     transliteration: waʿda
   4:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (The) Promise of Allah
     transliteration: l-lahi
   5:
-    arabic: حَقًّا ​ؕ
+    arabic: حَقّٗاۚ
     translation: (is) true
     transliteration: ḥaqqan
   6:
@@ -29,11 +28,11 @@ word_by_word:
     translation: And He
     transliteration: wahuwa
   7:
-    arabic: الۡعَزِيۡزُ
+    arabic: ٱلۡعَزِيزُ
     translation: (is) the All-Mighty
     transliteration: l-ʿazīzu
   8:
-    arabic: "الۡحَكِيۡمُ‏ \uFEFF\uFEFF"
+    arabic: ٱلۡحَكِيمُ
     translation: the All-Wise
     transliteration: l-ḥakīmu
 ---

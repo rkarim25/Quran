@@ -1,51 +1,51 @@
 ---
-arabic_ayat: قَوۡلٌ مَّعۡرُوۡفٌ وَّمَغۡفِرَةٌ خَيۡرٌ مِّنۡ صَدَقَةٍ يَّتۡبَعُهَاۤ
-  اَذًى​ؕ وَاللّٰهُ غَنِىٌّ حَلِيۡمٌ‏
+arabic_ayat: ۞ قَوۡلٞ مَّعۡرُوفٞ وَمَغۡفِرَةٌ خَيۡرٞ مِّن صَدَقَةٖ يَتۡبَعُهَآ أَذٗىۗ
+  وَٱللَّهُ غَنِيٌّ حَلِيمٞ
 sentence_translation: Kind words and forgiveness are better than charity followed
   by injury. And Allah is Self-Sufficient, Most Forbearing.
 word_by_word:
   1:
-    arabic: ۞ قَوۡلٌ
+    arabic: ۞ قَوۡلٞ
     translation: A word
     transliteration: qawlun
   2:
-    arabic: مَّعۡرُوۡفٌ
+    arabic: مَّعۡرُوفٞ
     translation: kind
     transliteration: maʿrūfun
   3:
-    arabic: وَّمَغۡفِرَةٌ
+    arabic: وَمَغۡفِرَةٌ
     translation: and (seeking) forgiveness
     transliteration: wamaghfiratun
   4:
-    arabic: خَيۡرٌ
+    arabic: خَيۡرٞ
     translation: (are) better
     transliteration: khayrun
   5:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: than
     transliteration: min
   6:
-    arabic: صَدَقَةٍ
+    arabic: صَدَقَةٖ
     translation: a charity
     transliteration: ṣadaqatin
   7:
-    arabic: يَّتۡبَعُهَاۤ
+    arabic: يَتۡبَعُهَآ
     translation: followed [it]
     transliteration: yatbaʿuhā
   8:
-    arabic: اَذًى​ؕ
+    arabic: أَذٗىۗ
     translation: (by) hurt
     transliteration: adhan
   9:
-    arabic: وَاللّٰهُ
+    arabic: وَٱللَّهُ
     translation: And Allah
     transliteration: wal-lahu
   10:
-    arabic: غَنِىٌّ
+    arabic: غَنِيٌّ
     translation: (is) All-Sufficient
     transliteration: ghaniyyun
   11:
-    arabic: حَلِيۡمٌ‏
+    arabic: حَلِيمٞ
     translation: All-Forbearing
     transliteration: ḥalīmun
 ---

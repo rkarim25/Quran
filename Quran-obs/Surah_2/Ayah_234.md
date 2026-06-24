@@ -1,15 +1,15 @@
 ---
-arabic_ayat: وَالَّذِيۡنَ يُتَوَفَّوۡنَ مِنۡكُمۡ وَيَذَرُوۡنَ اَزۡوَاجًا يَّتَرَبَّصۡنَ
-  بِاَنۡفُسِهِنَّ اَرۡبَعَةَ اَشۡهُرٍ وَّعَشۡرًا ​​ۚ فَاِذَا بَلَغۡنَ اَجَلَهُنَّ
-  فَلَا جُنَاحَ عَلَيۡكُمۡ فِيۡمَا فَعَلۡنَ فِىۡٓ اَنۡفُسِهِنَّ بِالۡمَعۡرُوۡفِؕ وَاللّٰهُ
-  بِمَا تَعۡمَلُوۡنَ خَبِيۡرٌ‏
+arabic_ayat: وَٱلَّذِينَ يُتَوَفَّوۡنَ مِنكُمۡ وَيَذَرُونَ أَزۡوَٰجٗا يَتَرَبَّصۡنَ
+  بِأَنفُسِهِنَّ أَرۡبَعَةَ أَشۡهُرٖ وَعَشۡرٗاۖ فَإِذَا بَلَغۡنَ أَجَلَهُنَّ فَلَا
+  جُنَاحَ عَلَيۡكُمۡ فِيمَا فَعَلۡنَ فِيٓ أَنفُسِهِنَّ بِٱلۡمَعۡرُوفِۗ وَٱللَّهُ بِمَا
+  تَعۡمَلُونَ خَبِيرٞ
 sentence_translation: As for those of you who die and leave widows behind, let them
   observe a waiting period of four months and ten days. When they have reached the
   end of this period, then you are not accountable for what they decide for themselves
   in a reasonable manner. And Allah is All-Aware of what you do.
 word_by_word:
   1:
-    arabic: وَالَّذِيۡنَ
+    arabic: وَٱلَّذِينَ
     translation: And those who
     transliteration: wa-alladhīna
   2:
@@ -17,39 +17,39 @@ word_by_word:
     translation: pass away
     transliteration: yutawaffawna
   3:
-    arabic: مِنۡكُمۡ
+    arabic: مِنكُمۡ
     translation: among you
     transliteration: minkum
   4:
-    arabic: وَيَذَرُوۡنَ
+    arabic: وَيَذَرُونَ
     translation: and leave behind
     transliteration: wayadharūna
   5:
-    arabic: اَزۡوَاجًا
+    arabic: أَزۡوَٰجٗا
     translation: wives
     transliteration: azwājan
   6:
-    arabic: يَّتَرَبَّصۡنَ
+    arabic: يَتَرَبَّصۡنَ
     translation: (the widows) should wait
     transliteration: yatarabbaṣna
   7:
-    arabic: بِاَنۡفُسِهِنَّ
+    arabic: بِأَنفُسِهِنَّ
     translation: for themselves
     transliteration: bi-anfusihinna
   8:
-    arabic: اَرۡبَعَةَ
+    arabic: أَرۡبَعَةَ
     translation: (for) four
     transliteration: arbaʿata
   9:
-    arabic: اَشۡهُرٍ
+    arabic: أَشۡهُرٖ
     translation: months
     transliteration: ashhurin
   10:
-    arabic: وَّعَشۡرًا ​​ۚ
+    arabic: وَعَشۡرٗاۖ
     translation: and ten (days)
     transliteration: waʿashran
   11:
-    arabic: فَاِذَا
+    arabic: فَإِذَا
     translation: Then when
     transliteration: fa-idhā
   12:
@@ -57,7 +57,7 @@ word_by_word:
     translation: they reach
     transliteration: balaghna
   13:
-    arabic: اَجَلَهُنَّ
+    arabic: أَجَلَهُنَّ
     translation: their (specified) term
     transliteration: ajalahunna
   14:
@@ -73,7 +73,7 @@ word_by_word:
     translation: upon you
     transliteration: ʿalaykum
   17:
-    arabic: فِيۡمَا
+    arabic: فِيمَا
     translation: for what
     transliteration: fīmā
   18:
@@ -81,19 +81,19 @@ word_by_word:
     translation: they do
     transliteration: faʿalna
   19:
-    arabic: فِىۡٓ
+    arabic: فِيٓ
     translation: concerning
     transliteration: fī
   20:
-    arabic: اَنۡفُسِهِنَّ
+    arabic: أَنفُسِهِنَّ
     translation: themselves
     transliteration: anfusihinna
   21:
-    arabic: بِالۡمَعۡرُوۡفِؕ
+    arabic: بِٱلۡمَعۡرُوفِۗ
     translation: in a fair manner
     transliteration: bil-maʿrūfi
   22:
-    arabic: وَاللّٰهُ
+    arabic: وَٱللَّهُ
     translation: And Allah
     transliteration: wal-lahu
   23:
@@ -101,11 +101,11 @@ word_by_word:
     translation: of what
     transliteration: bimā
   24:
-    arabic: تَعۡمَلُوۡنَ
+    arabic: تَعۡمَلُونَ
     translation: you do
     transliteration: taʿmalūna
   25:
-    arabic: خَبِيۡرٌ‏
+    arabic: خَبِيرٞ
     translation: (is) All-Aware
     transliteration: khabīrun
 ---

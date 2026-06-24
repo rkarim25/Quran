@@ -1,8 +1,7 @@
 ---
-arabic_ayat: فَاِنۡ طَلَّقَهَا فَلَا تَحِلُّ لَهٗ مِنۡۢ بَعۡدُ حَتّٰى تَنۡكِحَ زَوۡجًا
-  غَيۡرَهٗ ​ؕ فَاِنۡ طَلَّقَهَا فَلَا جُنَاحَ عَلَيۡهِمَآ اَنۡ يَّتَرَاجَعَآ اِنۡ
-  ظَنَّآ اَنۡ يُّقِيۡمَا حُدُوۡدَ اللّٰهِ​ؕ وَتِلۡكَ حُدُوۡدُ اللّٰهِ يُبَيِّنُهَا
-  لِقَوۡمٍ يَّعۡلَمُوۡنَ‏
+arabic_ayat: فَإِن طَلَّقَهَا فَلَا تَحِلُّ لَهُۥ مِنۢ بَعۡدُ حَتَّىٰ تَنكِحَ زَوۡجًا
+  غَيۡرَهُۥۗ فَإِن طَلَّقَهَا فَلَا جُنَاحَ عَلَيۡهِمَآ أَن يَتَرَاجَعَآ إِن ظَنَّآ
+  أَن يُقِيمَا حُدُودَ ٱللَّهِۗ وَتِلۡكَ حُدُودُ ٱللَّهِ يُبَيِّنُهَا لِقَوۡمٖ يَعۡلَمُونَ
 sentence_translation: So if a husband divorces his wife ˹three times˺, then it is
   not lawful for him to remarry her until after she has married another man and then
   is divorced. Then it is permissible for them to reunite, as long as they feel they
@@ -10,7 +9,7 @@ sentence_translation: So if a husband divorces his wife ˹three times˺, then it
   He makes clear for people of knowledge.
 word_by_word:
   1:
-    arabic: فَاِنۡ
+    arabic: فَإِن
     translation: Then if
     transliteration: fa-in
   2:
@@ -26,11 +25,11 @@ word_by_word:
     translation: lawful
     transliteration: taḥillu
   5:
-    arabic: لَهٗ
+    arabic: لَهُۥ
     translation: for him
     transliteration: lahu
   6:
-    arabic: مِنۡۢ
+    arabic: مِنۢ
     translation: from
     transliteration: min
   7:
@@ -38,11 +37,11 @@ word_by_word:
     translation: after (that)
     transliteration: baʿdu
   8:
-    arabic: حَتّٰى
+    arabic: حَتَّىٰ
     translation: until
     transliteration: ḥattā
   9:
-    arabic: تَنۡكِحَ
+    arabic: تَنكِحَ
     translation: she marries
     transliteration: tankiḥa
   10:
@@ -50,11 +49,11 @@ word_by_word:
     translation: a spouse
     transliteration: zawjan
   11:
-    arabic: غَيۡرَهٗ ​ؕ
+    arabic: غَيۡرَهُۥۗ
     translation: other than him
     transliteration: ghayrahu
   12:
-    arabic: فَاِنۡ
+    arabic: فَإِن
     translation: Then if
     transliteration: fa-in
   13:
@@ -74,15 +73,15 @@ word_by_word:
     translation: on them
     transliteration: ʿalayhimā
   17:
-    arabic: اَنۡ
+    arabic: أَن
     translation: if
     transliteration: an
   18:
-    arabic: يَّتَرَاجَعَآ
+    arabic: يَتَرَاجَعَآ
     translation: they return to each other
     transliteration: yatarājaʿā
   19:
-    arabic: اِنۡ
+    arabic: إِن
     translation: if
     transliteration: in
   20:
@@ -90,19 +89,19 @@ word_by_word:
     translation: they believe
     transliteration: ẓannā
   21:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that
     transliteration: an
   22:
-    arabic: يُّقِيۡمَا
+    arabic: يُقِيمَا
     translation: they (will be able to) keep
     transliteration: yuqīmā
   23:
-    arabic: حُدُوۡدَ
+    arabic: حُدُودَ
     translation: (the) limits
     transliteration: ḥudūda
   24:
-    arabic: اللّٰهِ​ؕ
+    arabic: ٱللَّهِۗ
     translation: (of) Allah
     transliteration: l-lahi
   25:
@@ -110,11 +109,11 @@ word_by_word:
     translation: And these
     transliteration: watil'ka
   26:
-    arabic: حُدُوۡدُ
+    arabic: حُدُودُ
     translation: (are the) limits
     transliteration: ḥudūdu
   27:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (of) Allah
     transliteration: l-lahi
   28:
@@ -122,11 +121,11 @@ word_by_word:
     translation: He makes them clear
     transliteration: yubayyinuhā
   29:
-    arabic: لِقَوۡمٍ
+    arabic: لِقَوۡمٖ
     translation: to a people
     transliteration: liqawmin
   30:
-    arabic: يَّعۡلَمُوۡنَ‏
+    arabic: يَعۡلَمُونَ
     translation: who know
     transliteration: yaʿlamūna
 ---

@@ -1,6 +1,6 @@
 ---
-arabic_ayat: خَلَقَ السَّمٰوٰتِ وَالۡاَرۡضَ بِالۡحَـقِّ وَصَوَّرَكُمۡ​ فَاَحۡسَنَ
-  صُوَرَكُمۡۚ​ وَاِلَيۡهِ الۡمَصِيۡرُ‏
+arabic_ayat: خَلَقَ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضَ بِٱلۡحَقِّ وَصَوَّرَكُمۡ فَأَحۡسَنَ
+  صُوَرَكُمۡۖ وَإِلَيۡهِ ٱلۡمَصِيرُ
 sentence_translation: He created the heavens and the earth for a purpose. He shaped
   you ˹in the womb˺, perfecting your form. And to Him is the final return.
 word_by_word:
@@ -9,35 +9,35 @@ word_by_word:
     translation: He created
     transliteration: khalaqa
   2:
-    arabic: السَّمٰوٰتِ
+    arabic: ٱلسَّمَٰوَٰتِ
     translation: the heavens
     transliteration: l-samāwāti
   3:
-    arabic: وَالۡاَرۡضَ
+    arabic: وَٱلۡأَرۡضَ
     translation: and the earth
     transliteration: wal-arḍa
   4:
-    arabic: بِالۡحَـقِّ
+    arabic: بِٱلۡحَقِّ
     translation: with truth
     transliteration: bil-ḥaqi
   5:
-    arabic: وَصَوَّرَكُمۡ​
+    arabic: وَصَوَّرَكُمۡ
     translation: and He formed you
     transliteration: waṣawwarakum
   6:
-    arabic: فَاَحۡسَنَ
+    arabic: فَأَحۡسَنَ
     translation: and made good
     transliteration: fa-aḥsana
   7:
-    arabic: صُوَرَكُمۡۚ​
+    arabic: صُوَرَكُمۡۖ
     translation: your forms
     transliteration: ṣuwarakum
   8:
-    arabic: وَاِلَيۡهِ
+    arabic: وَإِلَيۡهِ
     translation: and to Him
     transliteration: wa-ilayhi
   9:
-    arabic: الۡمَصِيۡرُ‏
+    arabic: ٱلۡمَصِيرُ
     translation: (is) the final return
     transliteration: l-maṣīru
 ---

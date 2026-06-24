@@ -1,5 +1,5 @@
 ---
-arabic_ayat: وَلَقَدۡ مَنَنَّا عَلٰى مُوۡسٰى وَهٰرُوۡنَ​ۚ‏
+arabic_ayat: وَلَقَدۡ مَنَنَّا عَلَىٰ مُوسَىٰ وَهَٰرُونَ
 sentence_translation: And We certainly showed favour to Moses and Aaron,
 word_by_word:
   1:
@@ -11,15 +11,15 @@ word_by_word:
     translation: We conferred Favor
     transliteration: manannā
   3:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: upon
     transliteration: ʿalā
   4:
-    arabic: مُوۡسٰى
+    arabic: مُوسَىٰ
     translation: Musa
     transliteration: mūsā
   5:
-    arabic: وَهٰرُوۡنَ​ۚ‏
+    arabic: وَهَٰرُونَ
     translation: and Harun
     transliteration: wahārūna
 ---

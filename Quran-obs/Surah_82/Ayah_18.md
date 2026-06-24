@@ -1,5 +1,5 @@
 ---
-arabic_ayat: ثُمَّ مَاۤ اَدۡرٰٮكَ مَا يَوۡمُ الدِّيۡنِؕ‏
+arabic_ayat: ثُمَّ مَآ أَدۡرَىٰكَ مَا يَوۡمُ ٱلدِّينِ
 sentence_translation: Again, what will make you realize what Judgment Day is?
 word_by_word:
   1:
@@ -7,11 +7,11 @@ word_by_word:
     translation: Then
     transliteration: thumma
   2:
-    arabic: مَاۤ
+    arabic: مَآ
     translation: what
     transliteration: mā
   3:
-    arabic: اَدۡرٰٮكَ
+    arabic: أَدۡرَىٰكَ
     translation: can make you know
     transliteration: adrāka
   4:
@@ -23,7 +23,7 @@ word_by_word:
     translation: (is the) Day
     transliteration: yawmu
   6:
-    arabic: الدِّيۡنِؕ‏
+    arabic: ٱلدِّينِ
     translation: (of) the Judgment
     transliteration: l-dīni
 ---

@@ -1,17 +1,17 @@
 ---
-arabic_ayat: وَاَطِيۡعُوا اللّٰهَ وَالرَّسُوۡلَ لَعَلَّكُمۡ تُرۡحَمُوۡنَ​ۚ‏
+arabic_ayat: وَأَطِيعُواْ ٱللَّهَ وَٱلرَّسُولَ لَعَلَّكُمۡ تُرۡحَمُونَ
 sentence_translation: Obey Allah and the Messenger, so you may be shown mercy.
 word_by_word:
   1:
-    arabic: وَاَطِيۡعُوا
+    arabic: وَأَطِيعُواْ
     translation: And obey
     transliteration: wa-aṭīʿū
   2:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   3:
-    arabic: وَالرَّسُوۡلَ
+    arabic: وَٱلرَّسُولَ
     translation: and the Messenger
     transliteration: wal-rasūla
   4:
@@ -19,7 +19,7 @@ word_by_word:
     translation: so that you may
     transliteration: laʿallakum
   5:
-    arabic: تُرۡحَمُوۡنَ​ۚ‏
+    arabic: تُرۡحَمُونَ
     translation: receive mercy
     transliteration: tur'ḥamūna
 ---

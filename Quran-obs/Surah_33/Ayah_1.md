@@ -1,23 +1,23 @@
 ---
-arabic_ayat: يٰۤـاَيُّهَا النَّبِىُّ اتَّقِ اللّٰهَ وَلَا تُطِعِ الۡكٰفِرِيۡنَ وَالۡمُنٰفِقِيۡنَ​
-  ؕ اِنَّ اللّٰهَ كَانَ عَلِيۡمًا حَكِيۡمًا ۙ‏
+arabic_ayat: يَٰٓأَيُّهَا ٱلنَّبِيُّ ٱتَّقِ ٱللَّهَ وَلَا تُطِعِ ٱلۡكَٰفِرِينَ وَٱلۡمُنَٰفِقِينَۚ
+  إِنَّ ٱللَّهَ كَانَ عَلِيمًا حَكِيمٗا
 sentence_translation: O Prophet! ˹Always˺ be mindful of Allah, and do not yield to
   the disbelievers and the hypocrites. Indeed, Allah is All-Knowing, All-Wise.
 word_by_word:
   1:
-    arabic: يٰۤـاَيُّهَا
+    arabic: يَٰٓأَيُّهَا
     translation: O Prophet
     transliteration: yāayyuhā
   2:
-    arabic: النَّبِىُّ
+    arabic: ٱلنَّبِيُّ
     translation: O Prophet
     transliteration: l-nabiyu
   3:
-    arabic: اتَّقِ
+    arabic: ٱتَّقِ
     translation: Fear
     transliteration: ittaqi
   4:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   5:
@@ -29,19 +29,19 @@ word_by_word:
     translation: obey
     transliteration: tuṭiʿi
   7:
-    arabic: الۡكٰفِرِيۡنَ
+    arabic: ٱلۡكَٰفِرِينَ
     translation: the disbelievers
     transliteration: l-kāfirīna
   8:
-    arabic: وَالۡمُنٰفِقِيۡنَ​ ؕ
+    arabic: وَٱلۡمُنَٰفِقِينَۚ
     translation: and the hypocrites
     transliteration: wal-munāfiqīna
   9:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   10:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   11:
@@ -49,11 +49,11 @@ word_by_word:
     translation: is
     transliteration: kāna
   12:
-    arabic: عَلِيۡمًا
+    arabic: عَلِيمًا
     translation: All-Knower
     transliteration: ʿalīman
   13:
-    arabic: حَكِيۡمًا ۙ‏
+    arabic: حَكِيمٗا
     translation: All-Wise
     transliteration: ḥakīman
 ---

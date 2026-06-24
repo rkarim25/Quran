@@ -1,19 +1,18 @@
 ---
-arabic_ayat: "اَمۡ كُنۡتُمۡ شُهَدَآءَ اِذۡ حَضَرَ يَعۡقُوۡبَ الۡمَوۡتُۙ اِذۡ قَالَ\
-  \ لِبَنِيۡهِ مَا تَعۡبُدُوۡنَ مِنۡۢ بَعۡدِىۡؕ قَالُوۡا نَعۡبُدُ اِلٰهَكَ وَاِلٰهَ\
-  \ اٰبَآٮِٕكَ اِبۡرٰهٖمَ وَاِسۡمٰعِيۡلَ وَاِسۡحٰقَ اِلٰهًا وَّاحِدًا ۖۚ وَّنَحۡنُ\
-  \ لَهٗ مُسۡلِمُوۡنَ‏ \uFEFF\uFEFF"
+arabic_ayat: أَمۡ كُنتُمۡ شُهَدَآءَ إِذۡ حَضَرَ يَعۡقُوبَ ٱلۡمَوۡتُ إِذۡ قَالَ لِبَنِيهِ
+  مَا تَعۡبُدُونَ مِنۢ بَعۡدِيۖ قَالُواْ نَعۡبُدُ إِلَٰهَكَ وَإِلَٰهَ ءَابَآئِكَ
+  إِبۡرَٰهِـۧمَ وَإِسۡمَٰعِيلَ وَإِسۡحَٰقَ إِلَٰهٗا وَٰحِدٗا وَنَحۡنُ لَهُۥ مُسۡلِمُونَ
 sentence_translation: Or did you witness when death came to Jacob? He asked his children,
   “Who will you worship after my passing?” They replied, “We will ˹continue to˺ worship
   your God, the God of your forefathers—Abraham, Ishmael, and Isaac—the One God. And
   to Him we ˹all˺ submit.”
 word_by_word:
   1:
-    arabic: اَمۡ
+    arabic: أَمۡ
     translation: Or
     transliteration: am
   2:
-    arabic: كُنۡتُمۡ
+    arabic: كُنتُمۡ
     translation: were you
     transliteration: kuntum
   3:
@@ -21,7 +20,7 @@ word_by_word:
     translation: witnesses
     transliteration: shuhadāa
   4:
-    arabic: اِذۡ
+    arabic: إِذۡ
     translation: when
     transliteration: idh
   5:
@@ -29,15 +28,15 @@ word_by_word:
     translation: came to
     transliteration: ḥaḍara
   6:
-    arabic: يَعۡقُوۡبَ
+    arabic: يَعۡقُوبَ
     translation: Yaqub
     transliteration: yaʿqūba
   7:
-    arabic: الۡمَوۡتُۙ
+    arabic: ٱلۡمَوۡتُ
     translation: '[the] death'
     transliteration: l-mawtu
   8:
-    arabic: اِذۡ
+    arabic: إِذۡ
     translation: when
     transliteration: idh
   9:
@@ -45,7 +44,7 @@ word_by_word:
     translation: he said
     transliteration: qāla
   10:
-    arabic: لِبَنِيۡهِ
+    arabic: لِبَنِيهِ
     translation: to his sons
     transliteration: libanīhi
   11:
@@ -53,19 +52,19 @@ word_by_word:
     translation: What
     transliteration: mā
   12:
-    arabic: تَعۡبُدُوۡنَ
+    arabic: تَعۡبُدُونَ
     translation: will you worship
     transliteration: taʿbudūna
   13:
-    arabic: مِنۡۢ
+    arabic: مِنۢ
     translation: from
     transliteration: min
   14:
-    arabic: بَعۡدِىۡؕ
+    arabic: بَعۡدِيۖ
     translation: after me
     transliteration: baʿdī
   15:
-    arabic: قَالُوۡا
+    arabic: قَالُواْ
     translation: They said
     transliteration: qālū
   16:
@@ -73,47 +72,47 @@ word_by_word:
     translation: We will worship
     transliteration: naʿbudu
   17:
-    arabic: اِلٰهَكَ
+    arabic: إِلَٰهَكَ
     translation: your God
     transliteration: ilāhaka
   18:
-    arabic: وَاِلٰهَ
+    arabic: وَإِلَٰهَ ءَ
     translation: and (the) God
     transliteration: wa-ilāha
   19:
-    arabic: اٰبَآٮِٕكَ
+    arabic: ابَآئِكَ
     translation: (of) your forefathers
     transliteration: ābāika
   20:
-    arabic: اِبۡرٰهٖمَ
+    arabic: إِبۡرَٰهِـۧمَ
     translation: Ibrahim
     transliteration: ib'rāhīma
   21:
-    arabic: وَاِسۡمٰعِيۡلَ
+    arabic: وَإِسۡمَٰعِيلَ
     translation: and Ishmael
     transliteration: wa-is'māʿīla
   22:
-    arabic: وَاِسۡحٰقَ
+    arabic: وَإِسۡحَٰقَ
     translation: 'and Isaac '
     transliteration: wa-is'ḥāqa
   23:
-    arabic: اِلٰهًا
+    arabic: إِلَٰهٗا
     translation: God
     transliteration: ilāhan
   24:
-    arabic: وَّاحِدًا ۖۚ
+    arabic: وَٰحِدٗا
     translation: One
     transliteration: wāḥidan
   25:
-    arabic: وَّنَحۡنُ
+    arabic: وَنَحۡنُ
     translation: And we
     transliteration: wanaḥnu
   26:
-    arabic: لَهٗ
+    arabic: لَهُۥ
     translation: to Him
     transliteration: lahu
   27:
-    arabic: "مُسۡلِمُوۡنَ‏ \uFEFF\uFEFF"
+    arabic: مُسۡلِمُونَ
     translation: (are) submissive
     transliteration: mus'limūna
 ---

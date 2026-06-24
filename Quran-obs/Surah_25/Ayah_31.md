@@ -1,11 +1,11 @@
 ---
-arabic_ayat: وَكَذٰلِكَ جَعَلۡنَا لِكُلِّ نَبِىٍّ عَدُوًّا مِّنَ الۡمُجۡرِمِيۡنَ​ؕ
-  وَكَفٰى بِرَبِّكَ هَادِيًا وَّنَصِيۡرًا‏
+arabic_ayat: وَكَذَٰلِكَ جَعَلۡنَا لِكُلِّ نَبِيٍّ عَدُوّٗا مِّنَ ٱلۡمُجۡرِمِينَۗ
+  وَكَفَىٰ بِرَبِّكَ هَادِيٗا وَنَصِيرٗا
 sentence_translation: Similarly, We made enemies for every prophet from among the
   wicked, but sufficient is your Lord as a Guide and Helper.
 word_by_word:
   1:
-    arabic: وَكَذٰلِكَ
+    arabic: وَكَذَٰلِكَ
     translation: And thus
     transliteration: wakadhālika
   2:
@@ -17,11 +17,11 @@ word_by_word:
     translation: for every
     transliteration: likulli
   4:
-    arabic: نَبِىٍّ
+    arabic: نَبِيٍّ
     translation: Prophet
     transliteration: nabiyyin
   5:
-    arabic: عَدُوًّا
+    arabic: عَدُوّٗا
     translation: an enemy
     transliteration: ʿaduwwan
   6:
@@ -29,11 +29,11 @@ word_by_word:
     translation: among
     transliteration: mina
   7:
-    arabic: الۡمُجۡرِمِيۡنَ​ؕ
+    arabic: ٱلۡمُجۡرِمِينَۗ
     translation: the criminals
     transliteration: l-muj'rimīna
   8:
-    arabic: وَكَفٰى
+    arabic: وَكَفَىٰ
     translation: But sufficient is
     transliteration: wakafā
   9:
@@ -41,11 +41,11 @@ word_by_word:
     translation: your Lord
     transliteration: birabbika
   10:
-    arabic: هَادِيًا
+    arabic: هَادِيٗا
     translation: (as) a Guide
     transliteration: hādiyan
   11:
-    arabic: وَّنَصِيۡرًا‏
+    arabic: وَنَصِيرٗا
     translation: and a Helper
     transliteration: wanaṣīran
 ---

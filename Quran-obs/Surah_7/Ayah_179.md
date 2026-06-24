@@ -1,27 +1,27 @@
 ---
-arabic_ayat: وَلَـقَدۡ ذَرَاۡنَا لِجَـهَنَّمَ كَثِيۡرًا مِّنَ الۡجِنِّ وَالۡاِنۡسِ​
-  ​ۖ  لَهُمۡ قُلُوۡبٌ لَّا يَفۡقَهُوۡنَ بِهَا  وَلَهُمۡ اَعۡيُنٌ لَّا يُبۡصِرُوۡنَ
-  بِهَا  وَلَهُمۡ اٰذَانٌ لَّا يَسۡمَعُوۡنَ بِهَا ؕ اُولٰۤٮِٕكَ كَالۡاَنۡعَامِ بَلۡ
-  هُمۡ اَضَلُّ​ ؕ اُولٰۤٮِٕكَ هُمُ الۡغٰفِلُوۡنَ‏
+arabic_ayat: وَلَقَدۡ ذَرَأۡنَا لِجَهَنَّمَ كَثِيرٗا مِّنَ ٱلۡجِنِّ وَٱلۡإِنسِۖ لَهُمۡ
+  قُلُوبٞ لَّا يَفۡقَهُونَ بِهَا وَلَهُمۡ أَعۡيُنٞ لَّا يُبۡصِرُونَ بِهَا وَلَهُمۡ
+  ءَاذَانٞ لَّا يَسۡمَعُونَ بِهَآۚ أُوْلَٰٓئِكَ كَٱلۡأَنۡعَٰمِ بَلۡ هُمۡ أَضَلُّۚ
+  أُوْلَٰٓئِكَ هُمُ ٱلۡغَٰفِلُونَ
 sentence_translation: Indeed, We have destined many jinn and humans for Hell. They
   have hearts they do not understand with, eyes they do not see with, and ears they
   do not hear with. They are like cattle. In fact, they are even less guided! Such
   ˹people˺ are ˹entirely˺ heedless.
 word_by_word:
   1:
-    arabic: وَلَـقَدۡ
+    arabic: وَلَقَدۡ
     translation: And certainly
     transliteration: walaqad
   2:
-    arabic: ذَرَاۡنَا
+    arabic: ذَرَأۡنَا
     translation: We have created
     transliteration: dharanā
   3:
-    arabic: لِجَـهَنَّمَ
+    arabic: لِجَهَنَّمَ
     translation: for Hell
     transliteration: lijahannama
   4:
-    arabic: كَثِيۡرًا
+    arabic: كَثِيرٗا
     translation: many
     transliteration: kathīran
   5:
@@ -29,11 +29,11 @@ word_by_word:
     translation: of
     transliteration: mina
   6:
-    arabic: الۡجِنِّ
+    arabic: ٱلۡجِنِّ
     translation: the jinn
     transliteration: l-jini
   7:
-    arabic: وَالۡاِنۡسِ​ ​ۖ 
+    arabic: وَٱلۡإِنسِۖ
     translation: and men
     transliteration: wal-insi
   8:
@@ -41,7 +41,7 @@ word_by_word:
     translation: For them
     transliteration: lahum
   9:
-    arabic: قُلُوۡبٌ
+    arabic: قُلُوبٞ
     translation: (are) hearts
     transliteration: qulūbun
   10:
@@ -49,11 +49,11 @@ word_by_word:
     translation: (but) not
     transliteration: lā
   11:
-    arabic: يَفۡقَهُوۡنَ
+    arabic: يَفۡقَهُونَ
     translation: they understand
     transliteration: yafqahūna
   12:
-    arabic: بِهَا 
+    arabic: بِهَا
     translation: with them
     transliteration: bihā
   13:
@@ -61,7 +61,7 @@ word_by_word:
     translation: and for them
     transliteration: walahum
   14:
-    arabic: اَعۡيُنٌ
+    arabic: أَعۡيُنٞ
     translation: (are) eyes
     transliteration: aʿyunun
   15:
@@ -69,19 +69,19 @@ word_by_word:
     translation: (but) not
     transliteration: lā
   16:
-    arabic: يُبۡصِرُوۡنَ
+    arabic: يُبۡصِرُونَ
     translation: they see
     transliteration: yub'ṣirūna
   17:
-    arabic: بِهَا 
+    arabic: بِهَا
     translation: with them
     transliteration: bihā
   18:
-    arabic: وَلَهُمۡ
+    arabic: وَلَهُمۡ ءَ
     translation: and for them
     transliteration: walahum
   19:
-    arabic: اٰذَانٌ
+    arabic: اذَانٞ
     translation: (are) ears
     transliteration: ādhānun
   20:
@@ -89,19 +89,19 @@ word_by_word:
     translation: (but) not
     transliteration: lā
   21:
-    arabic: يَسۡمَعُوۡنَ
+    arabic: يَسۡمَعُونَ
     translation: they hear
     transliteration: yasmaʿūna
   22:
-    arabic: بِهَا ؕ
+    arabic: بِهَآۚ
     translation: with them
     transliteration: bihā
   23:
-    arabic: اُولٰۤٮِٕكَ
+    arabic: أُوْلَٰٓئِكَ
     translation: Those
     transliteration: ulāika
   24:
-    arabic: كَالۡاَنۡعَامِ
+    arabic: كَٱلۡأَنۡعَٰمِ
     translation: (are) like cattle
     transliteration: kal-anʿāmi
   25:
@@ -113,11 +113,11 @@ word_by_word:
     translation: they
     transliteration: hum
   27:
-    arabic: اَضَلُّ​ ؕ
+    arabic: أَضَلُّۚ
     translation: (are) more astray
     transliteration: aḍallu
   28:
-    arabic: اُولٰۤٮِٕكَ
+    arabic: أُوْلَٰٓئِكَ
     translation: 'Those '
     transliteration: ulāika
   29:
@@ -125,7 +125,7 @@ word_by_word:
     translation: they
     transliteration: humu
   30:
-    arabic: الۡغٰفِلُوۡنَ‏
+    arabic: ٱلۡغَٰفِلُونَ
     translation: (are) the heedless
     transliteration: l-ghāfilūna
 ---

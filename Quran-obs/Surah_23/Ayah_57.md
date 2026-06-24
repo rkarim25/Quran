@@ -1,17 +1,17 @@
 ---
-arabic_ayat: اِنَّ الَّذِيۡنَ هُمۡ مِّنۡ خَشۡيَةِ رَبِّهِمۡ مُّشۡفِقُوۡنَۙ‏
+arabic_ayat: إِنَّ ٱلَّذِينَ هُم مِّنۡ خَشۡيَةِ رَبِّهِم مُّشۡفِقُونَ
 sentence_translation: Surely those who tremble in awe of their Lord,
 word_by_word:
   1:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   3:
-    arabic: هُمۡ
+    arabic: هُم
     translation: '[they]'
     transliteration: hum
   4:
@@ -23,11 +23,11 @@ word_by_word:
     translation: (the) fear
     transliteration: khashyati
   6:
-    arabic: رَبِّهِمۡ
+    arabic: رَبِّهِم
     translation: (of) their Lord
     transliteration: rabbihim
   7:
-    arabic: مُّشۡفِقُوۡنَۙ‏
+    arabic: مُّشۡفِقُونَ
     translation: (are) cautious
     transliteration: mush'fiqūna
 ---

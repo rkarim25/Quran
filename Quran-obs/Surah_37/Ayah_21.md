@@ -1,10 +1,10 @@
 ---
-arabic_ayat: هٰذَا يَوۡمُ الۡفَصۡلِ الَّذِىۡ كُنۡتُمۡ بِهٖ تُكَذِّبُوۡنَ‏
+arabic_ayat: هَٰذَا يَوۡمُ ٱلۡفَصۡلِ ٱلَّذِي كُنتُم بِهِۦ تُكَذِّبُونَ
 sentence_translation: ˹They will be told,˺ “This is the Day of ˹Final˺ Decision which
   you used to deny.”
 word_by_word:
   1:
-    arabic: هٰذَا
+    arabic: هَٰذَا
     translation: This
     transliteration: hādhā
   2:
@@ -12,23 +12,23 @@ word_by_word:
     translation: (is the) Day
     transliteration: yawmu
   3:
-    arabic: الۡفَصۡلِ
+    arabic: ٱلۡفَصۡلِ
     translation: (of) Judgment
     transliteration: l-faṣli
   4:
-    arabic: الَّذِىۡ
+    arabic: ٱلَّذِي
     translation: which
     transliteration: alladhī
   5:
-    arabic: كُنۡتُمۡ
+    arabic: كُنتُم
     translation: you used to
     transliteration: kuntum
   6:
-    arabic: بِهٖ
+    arabic: بِهِۦ
     translation: '[of it]'
     transliteration: bihi
   7:
-    arabic: تُكَذِّبُوۡنَ‏
+    arabic: تُكَذِّبُونَ
     translation: deny
     transliteration: tukadhibūna
 ---

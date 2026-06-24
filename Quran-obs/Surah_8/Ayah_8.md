@@ -1,6 +1,5 @@
 ---
-arabic_ayat: "لِيُحِقَّ الۡحَـقَّ وَيُبۡطِلَ الۡبَاطِلَ وَلَوۡ كَرِهَ الۡمُجۡرِمُوۡنَ​ۚ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: لِيُحِقَّ ٱلۡحَقَّ وَيُبۡطِلَ ٱلۡبَٰطِلَ وَلَوۡ كَرِهَ ٱلۡمُجۡرِمُونَ
 sentence_translation: to firmly establish the truth and wipe out falsehood—even to
   the dismay of the wicked.
 word_by_word:
@@ -9,7 +8,7 @@ word_by_word:
     translation: That He might justify
     transliteration: liyuḥiqqa
   2:
-    arabic: الۡحَـقَّ
+    arabic: ٱلۡحَقَّ
     translation: the truth
     transliteration: l-ḥaqa
   3:
@@ -17,7 +16,7 @@ word_by_word:
     translation: and prove false
     transliteration: wayub'ṭila
   4:
-    arabic: الۡبَاطِلَ
+    arabic: ٱلۡبَٰطِلَ
     translation: the falsehood
     transliteration: l-bāṭila
   5:
@@ -29,7 +28,7 @@ word_by_word:
     translation: disliked (it)
     transliteration: kariha
   7:
-    arabic: "الۡمُجۡرِمُوۡنَ​ۚ‏ \uFEFF\uFEFF"
+    arabic: ٱلۡمُجۡرِمُونَ
     translation: the criminals
     transliteration: l-muj'rimūna
 ---

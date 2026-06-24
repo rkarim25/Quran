@@ -1,17 +1,17 @@
 ---
-arabic_ayat: اَفَنَجۡعَلُ الۡمُسۡلِمِيۡنَ كَالۡمُجۡرِمِيۡنَؕ‏
+arabic_ayat: أَفَنَجۡعَلُ ٱلۡمُسۡلِمِينَ كَٱلۡمُجۡرِمِينَ
 sentence_translation: Should We then treat those who have submitted like the wicked?
 word_by_word:
   1:
-    arabic: اَفَنَجۡعَلُ
+    arabic: أَفَنَجۡعَلُ
     translation: Then will We treat
     transliteration: afanajʿalu
   2:
-    arabic: الۡمُسۡلِمِيۡنَ
+    arabic: ٱلۡمُسۡلِمِينَ
     translation: the Muslims
     transliteration: l-mus'limīna
   3:
-    arabic: كَالۡمُجۡرِمِيۡنَؕ‏
+    arabic: كَٱلۡمُجۡرِمِينَ
     translation: like the criminals
     transliteration: kal-muj'rimīna
 ---

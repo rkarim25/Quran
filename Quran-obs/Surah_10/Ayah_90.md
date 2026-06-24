@@ -1,31 +1,31 @@
 ---
-arabic_ayat: وَجَاوَزۡنَا بِبَنِىۡۤ اِسۡرَآءِيۡلَ الۡبَحۡرَ فَاَتۡبـَعَهُمۡ فِرۡعَوۡنُ
-  وَجُنُوۡدُهٗ بَغۡيًا وَّعَدۡوًا​ ؕ حَتّٰۤى اِذَاۤ اَدۡرَكَهُ الۡغَرَقُ قَالَ اٰمَنۡتُ
-  اَنَّهٗ لَاۤ اِلٰهَ اِلَّا الَّذِىۡۤ اٰمَنَتۡ بِهٖ بَنُوۡۤا اِسۡرَآءِيۡلَ وَ اَنَا
-  مِنَ الۡمُسۡلِمِيۡنَ‏
+arabic_ayat: ۞ وَجَٰوَزۡنَا بِبَنِيٓ إِسۡرَٰٓءِيلَ ٱلۡبَحۡرَ فَأَتۡبَعَهُمۡ فِرۡعَوۡنُ
+  وَجُنُودُهُۥ بَغۡيٗا وَعَدۡوًاۖ حَتَّىٰٓ إِذَآ أَدۡرَكَهُ ٱلۡغَرَقُ قَالَ ءَامَنتُ
+  أَنَّهُۥ لَآ إِلَٰهَ إِلَّا ٱلَّذِيٓ ءَامَنَتۡ بِهِۦ بَنُوٓاْ إِسۡرَٰٓءِيلَ وَأَنَا۠
+  مِنَ ٱلۡمُسۡلِمِينَ
 sentence_translation: We brought the Children of Israel across the sea. Then Pharaoh
   and his soldiers pursued them unjustly and oppressively. But as Pharaoh was drowning,
   he cried out, “I believe that there is no god except that in whom the Children of
   Israel believe, and I am ˹now˺ one of those who submit.”
 word_by_word:
   1:
-    arabic: ۞ وَجَاوَزۡنَا
+    arabic: ۞ وَجَٰوَزۡنَا
     translation: And We took across
     transliteration: wajāwaznā
   2:
-    arabic: بِبَنِىۡۤ
+    arabic: بِبَنِيٓ
     translation: (the) Children
     transliteration: bibanī
   3:
-    arabic: اِسۡرَآءِيۡلَ
+    arabic: إِسۡرَٰٓءِيلَ
     translation: '(of) Israel '
     transliteration: is'rāīla
   4:
-    arabic: الۡبَحۡرَ
+    arabic: ٱلۡبَحۡرَ
     translation: the sea
     transliteration: l-baḥra
   5:
-    arabic: فَاَتۡبـَعَهُمۡ
+    arabic: فَأَتۡبَعَهُمۡ
     translation: and followed them
     transliteration: fa-atbaʿahum
   6:
@@ -33,79 +33,79 @@ word_by_word:
     translation: Firaun
     transliteration: fir'ʿawnu
   7:
-    arabic: وَجُنُوۡدُهٗ
+    arabic: وَجُنُودُهُۥ
     translation: and his hosts
     transliteration: wajunūduhu
   8:
-    arabic: بَغۡيًا
+    arabic: بَغۡيٗا
     translation: (in) rebellion
     transliteration: baghyan
   9:
-    arabic: وَّعَدۡوًا​ ؕ
+    arabic: وَعَدۡوًاۖ
     translation: and enmity
     transliteration: waʿadwan
   10:
-    arabic: حَتّٰۤى
+    arabic: حَتَّىٰٓ
     translation: until
     transliteration: ḥattā
   11:
-    arabic: اِذَاۤ
+    arabic: إِذَآ
     translation: when
     transliteration: idhā
   12:
-    arabic: اَدۡرَكَهُ
+    arabic: أَدۡرَكَهُ
     translation: overtook him
     transliteration: adrakahu
   13:
-    arabic: الۡغَرَقُ
+    arabic: ٱلۡغَرَقُ
     translation: the drowning
     transliteration: l-gharaqu
   14:
-    arabic: قَالَ
+    arabic: قَالَ ءَ
     translation: he said
     transliteration: qāla
   15:
-    arabic: اٰمَنۡتُ
+    arabic: امَنتُ
     translation: I believe
     transliteration: āmantu
   16:
-    arabic: اَنَّهٗ
+    arabic: أَنَّهُۥ
     translation: that
     transliteration: annahu
   17:
-    arabic: لَاۤ
+    arabic: لَآ
     translation: (there is) no
     transliteration: lā
   18:
-    arabic: اِلٰهَ
+    arabic: إِلَٰهَ
     translation: god
     transliteration: ilāha
   19:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   20:
-    arabic: الَّذِىۡۤ
+    arabic: ٱلَّذِيٓ ءَ
     translation: the One
     transliteration: alladhī
   21:
-    arabic: اٰمَنَتۡ
+    arabic: امَنَتۡ
     translation: in Whom believe
     transliteration: āmanat
   22:
-    arabic: بِهٖ
+    arabic: بِهِۦ
     translation: in Whom believe
     transliteration: bihi
   23:
-    arabic: بَنُوۡۤا
+    arabic: بَنُوٓاْ
     translation: the Children of Israel
     transliteration: banū
   24:
-    arabic: اِسۡرَآءِيۡلَ
+    arabic: إِسۡرَٰٓءِيلَ
     translation: the Children of Israel
     transliteration: is'rāīla
   25:
-    arabic: وَ اَنَا
+    arabic: وَأَنَا۠
     translation: and I am
     transliteration: wa-anā
   26:
@@ -113,7 +113,7 @@ word_by_word:
     translation: of
     transliteration: mina
   27:
-    arabic: الۡمُسۡلِمِيۡنَ‏
+    arabic: ٱلۡمُسۡلِمِينَ
     translation: the Muslims
     transliteration: l-mus'limīna
 ---

@@ -1,17 +1,16 @@
 ---
-arabic_ayat: "اِنَّ اللّٰهَ لَا يَغۡفِرُ اَنۡ يُّشۡرَكَ بِهٖ وَيَغۡفِرُ مَا دُوۡنَ\
-  \ ذٰ لِكَ لِمَنۡ يَّشَآءُ​ ۚ وَمَنۡ يُّشۡرِكۡ بِاللّٰهِ فَقَدِ افۡتَـرٰۤى اِثۡمًا\
-  \ عَظِيۡمًا‏ \uFEFF\uFEFF"
+arabic_ayat: إِنَّ ٱللَّهَ لَا يَغۡفِرُ أَن يُشۡرَكَ بِهِۦ وَيَغۡفِرُ مَا دُونَ ذَٰلِكَ
+  لِمَن يَشَآءُۚ وَمَن يُشۡرِكۡ بِٱللَّهِ فَقَدِ ٱفۡتَرَىٰٓ إِثۡمًا عَظِيمًا
 sentence_translation: Indeed, Allah does not forgive associating others with Him ˹in
   worship˺, but forgives anything else of whoever He wills. And whoever associates
   others with Allah has indeed committed a grave sin.
 word_by_word:
   1:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   2:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   3:
@@ -23,15 +22,15 @@ word_by_word:
     translation: forgive
     transliteration: yaghfiru
   5:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that
     transliteration: an
   6:
-    arabic: يُّشۡرَكَ
+    arabic: يُشۡرَكَ
     translation: partners be associated
     transliteration: yush'raka
   7:
-    arabic: بِهٖ
+    arabic: بِهِۦ
     translation: with Him
     transliteration: bihi
   8:
@@ -43,31 +42,31 @@ word_by_word:
     translation: from
     transliteration: mā
   10:
-    arabic: دُوۡنَ
+    arabic: دُونَ
     translation: other than
     transliteration: dūna
   11:
-    arabic: ذٰ لِكَ
+    arabic: ذَٰلِكَ
     translation: that
     transliteration: dhālika
   12:
-    arabic: لِمَنۡ
+    arabic: لِمَن
     translation: for whom
     transliteration: liman
   13:
-    arabic: يَّشَآءُ​ ۚ
+    arabic: يَشَآءُۚ
     translation: He wills
     transliteration: yashāu
   14:
-    arabic: وَمَنۡ
+    arabic: وَمَن
     translation: And whoever
     transliteration: waman
   15:
-    arabic: يُّشۡرِكۡ
+    arabic: يُشۡرِكۡ
     translation: associates partners
     transliteration: yush'rik
   16:
-    arabic: بِاللّٰهِ
+    arabic: بِٱللَّهِ
     translation: with Allah
     transliteration: bil-lahi
   17:
@@ -75,15 +74,15 @@ word_by_word:
     translation: then surely
     transliteration: faqadi
   18:
-    arabic: افۡتَـرٰۤى
+    arabic: ٱفۡتَرَىٰٓ
     translation: he has fabricated
     transliteration: if'tarā
   19:
-    arabic: اِثۡمًا
+    arabic: إِثۡمًا
     translation: 'a sin '
     transliteration: ith'man
   20:
-    arabic: "عَظِيۡمًا‏ \uFEFF\uFEFF"
+    arabic: عَظِيمًا
     translation: tremendous
     transliteration: ʿaẓīman
 ---

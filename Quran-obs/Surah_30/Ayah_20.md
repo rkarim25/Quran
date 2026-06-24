@@ -1,31 +1,31 @@
 ---
-arabic_ayat: وَمِنۡ اٰيٰتِهٖۤ اَنۡ خَلَقَكُمۡ مِّنۡ تُرَابٍ ثُمَّ اِذَاۤ اَنۡتُمۡ
-  بَشَرٌ تَنۡتَشِرُوۡنَ‏
+arabic_ayat: وَمِنۡ ءَايَٰتِهِۦٓ أَنۡ خَلَقَكُم مِّن تُرَابٖ ثُمَّ إِذَآ أَنتُم بَشَرٞ
+  تَنتَشِرُونَ
 sentence_translation: One of His signs is that He created you from dust, then—behold!—you
   are human beings spreading over ˹the earth˺.
 word_by_word:
   1:
-    arabic: وَمِنۡ
+    arabic: وَمِنۡ ءَ
     translation: And among
     transliteration: wamin
   2:
-    arabic: اٰيٰتِهٖۤ
+    arabic: ايَٰتِهِۦٓ
     translation: His Signs
     transliteration: āyātihi
   3:
-    arabic: اَنۡ
+    arabic: أَنۡ
     translation: (is) that
     transliteration: an
   4:
-    arabic: خَلَقَكُمۡ
+    arabic: خَلَقَكُم
     translation: He created you
     transliteration: khalaqakum
   5:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: from
     transliteration: min
   6:
-    arabic: تُرَابٍ
+    arabic: تُرَابٖ
     translation: dust
     transliteration: turābin
   7:
@@ -33,19 +33,19 @@ word_by_word:
     translation: then
     transliteration: thumma
   8:
-    arabic: اِذَاۤ
+    arabic: إِذَآ
     translation: behold
     transliteration: idhā
   9:
-    arabic: اَنۡتُمۡ
+    arabic: أَنتُم
     translation: You
     transliteration: antum
   10:
-    arabic: بَشَرٌ
+    arabic: بَشَرٞ
     translation: (are) human beings
     transliteration: basharun
   11:
-    arabic: تَنۡتَشِرُوۡنَ‏
+    arabic: تَنتَشِرُونَ
     translation: dispersing
     transliteration: tantashirūna
 ---

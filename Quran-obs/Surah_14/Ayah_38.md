@@ -1,15 +1,15 @@
 ---
-arabic_ayat: رَبَّنَاۤ اِنَّكَ تَعۡلَمُ مَا نُخۡفِىۡ وَمَا نُعۡلِنُ​ ؕ وَمَا يَخۡفٰى
-  عَلَى اللّٰهِ مِنۡ شَىۡءٍ فِى الۡاَرۡضِ وَلَا فِى السَّمَآءِ‏
+arabic_ayat: رَبَّنَآ إِنَّكَ تَعۡلَمُ مَا نُخۡفِي وَمَا نُعۡلِنُۗ وَمَا يَخۡفَىٰ
+  عَلَى ٱللَّهِ مِن شَيۡءٖ فِي ٱلۡأَرۡضِ وَلَا فِي ٱلسَّمَآءِ
 sentence_translation: Our Lord! You certainly know what we conceal and what we reveal.
   Nothing on earth or in heaven is hidden from Allah.
 word_by_word:
   1:
-    arabic: رَبَّنَاۤ
+    arabic: رَبَّنَآ
     translation: Our Lord
     transliteration: rabbanā
   2:
-    arabic: اِنَّكَ
+    arabic: إِنَّكَ
     translation: Indeed, You
     transliteration: innaka
   3:
@@ -21,7 +21,7 @@ word_by_word:
     translation: what
     transliteration: mā
   5:
-    arabic: نُخۡفِىۡ
+    arabic: نُخۡفِي
     translation: we conceal
     transliteration: nukh'fī
   6:
@@ -29,7 +29,7 @@ word_by_word:
     translation: and what
     transliteration: wamā
   7:
-    arabic: نُعۡلِنُ​ ؕ
+    arabic: نُعۡلِنُۗ
     translation: we proclaim
     transliteration: nuʿ'linu
   8:
@@ -37,7 +37,7 @@ word_by_word:
     translation: And not
     transliteration: wamā
   9:
-    arabic: يَخۡفٰى
+    arabic: يَخۡفَىٰ
     translation: (is) hidden
     transliteration: yakhfā
   10:
@@ -45,23 +45,23 @@ word_by_word:
     translation: from
     transliteration: ʿalā
   11:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   12:
-    arabic: مِنۡ
+    arabic: مِن
     translation: any
     transliteration: min
   13:
-    arabic: شَىۡءٍ
+    arabic: شَيۡءٖ
     translation: thing
     transliteration: shayin
   14:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   15:
-    arabic: الۡاَرۡضِ
+    arabic: ٱلۡأَرۡضِ
     translation: the earth
     transliteration: l-arḍi
   16:
@@ -69,11 +69,11 @@ word_by_word:
     translation: and not
     transliteration: walā
   17:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   18:
-    arabic: السَّمَآءِ‏
+    arabic: ٱلسَّمَآءِ
     translation: the heaven
     transliteration: l-samāi
 ---

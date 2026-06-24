@@ -1,42 +1,42 @@
 ---
-arabic_ayat: وَمَاۤ اَرۡسَلۡنَا مِنۡ رَّسُوۡلٍ اِلَّا لِـيُـطَاعَ بِاِذۡنِ اللّٰهِ
-  ​ؕ وَلَوۡ اَنَّهُمۡ اِذْ ظَّلَمُوۡۤا اَنۡفُسَهُمۡ جَآءُوۡكَ فَاسۡتَغۡفَرُوا اللّٰهَ
-  وَاسۡتَغۡفَرَ لَـهُمُ الرَّسُوۡلُ لَوَجَدُوا اللّٰهَ تَوَّابًا رَّحِيۡمًا‏
+arabic_ayat: وَمَآ أَرۡسَلۡنَا مِن رَّسُولٍ إِلَّا لِيُطَاعَ بِإِذۡنِ ٱللَّهِۚ وَلَوۡ
+  أَنَّهُمۡ إِذ ظَّلَمُوٓاْ أَنفُسَهُمۡ جَآءُوكَ فَٱسۡتَغۡفَرُواْ ٱللَّهَ وَٱسۡتَغۡفَرَ
+  لَهُمُ ٱلرَّسُولُ لَوَجَدُواْ ٱللَّهَ تَوَّابٗا رَّحِيمٗا
 sentence_translation: We only sent messengers to be obeyed by Allah’s Will. If only
   those ˹hypocrites˺ came to you ˹O Prophet˺—after wronging themselves—seeking Allah’s
   forgiveness and the Messenger prayed for their forgiveness, they would have certainly
   found Allah ever Accepting of Repentance, Most Merciful.
 word_by_word:
   1:
-    arabic: وَمَاۤ
+    arabic: وَمَآ
     translation: And not
     transliteration: wamā
   2:
-    arabic: اَرۡسَلۡنَا
+    arabic: أَرۡسَلۡنَا
     translation: We sent
     transliteration: arsalnā
   3:
-    arabic: مِنۡ
+    arabic: مِن
     translation: any
     transliteration: min
   4:
-    arabic: رَّسُوۡلٍ
+    arabic: رَّسُولٍ
     translation: Messenger
     transliteration: rasūlin
   5:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   6:
-    arabic: لِـيُـطَاعَ
+    arabic: لِيُطَاعَ
     translation: to be obeyed
     transliteration: liyuṭāʿa
   7:
-    arabic: بِاِذۡنِ
+    arabic: بِإِذۡنِ
     translation: by (the) permission
     transliteration: bi-idh'ni
   8:
-    arabic: اللّٰهِ ​ؕ
+    arabic: ٱللَّهِۚ
     translation: (of) Allah
     transliteration: l-lahi
   9:
@@ -44,59 +44,59 @@ word_by_word:
     translation: And if
     transliteration: walaw
   10:
-    arabic: اَنَّهُمۡ
+    arabic: أَنَّهُمۡ
     translation: '[that] they'
     transliteration: annahum
   11:
-    arabic: اِذْ
+    arabic: إِذ
     translation: when
     transliteration: idh
   12:
-    arabic: ظَّلَمُوۡۤا
+    arabic: ظَّلَمُوٓاْ
     translation: they wronged
     transliteration: ẓalamū
   13:
-    arabic: اَنۡفُسَهُمۡ
+    arabic: أَنفُسَهُمۡ
     translation: themselves
     transliteration: anfusahum
   14:
-    arabic: جَآءُوۡكَ
+    arabic: جَآءُوكَ
     translation: (had) come to you
     transliteration: jāūka
   15:
-    arabic: فَاسۡتَغۡفَرُوا
+    arabic: فَٱسۡتَغۡفَرُواْ
     translation: and asked forgiveness
     transliteration: fa-is'taghfarū
   16:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: (of) Allah
     transliteration: l-laha
   17:
-    arabic: وَاسۡتَغۡفَرَ
+    arabic: وَٱسۡتَغۡفَرَ
     translation: and asked forgiveness
     transliteration: wa-is'taghfara
   18:
-    arabic: لَـهُمُ
+    arabic: لَهُمُ
     translation: for them
     transliteration: lahumu
   19:
-    arabic: الرَّسُوۡلُ
+    arabic: ٱلرَّسُولُ
     translation: the Messenger
     transliteration: l-rasūlu
   20:
-    arabic: لَوَجَدُوا
+    arabic: لَوَجَدُواْ
     translation: surely they would have found
     transliteration: lawajadū
   21:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   22:
-    arabic: تَوَّابًا
+    arabic: تَوَّابٗا
     translation: Oft-Forgiving
     transliteration: tawwāban
   23:
-    arabic: رَّحِيۡمًا‏
+    arabic: رَّحِيمٗا
     translation: Most Merciful
     transliteration: raḥīman
 ---

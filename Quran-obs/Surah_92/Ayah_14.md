@@ -1,17 +1,17 @@
 ---
-arabic_ayat: فَاَنۡذَرۡتُكُمۡ نَارًا تَلَظّٰى​ۚ‏
+arabic_ayat: فَأَنذَرۡتُكُمۡ نَارٗا تَلَظَّىٰ
 sentence_translation: And so I have warned you of a raging Fire,
 word_by_word:
   1:
-    arabic: فَاَنۡذَرۡتُكُمۡ
+    arabic: فَأَنذَرۡتُكُمۡ
     translation: So I warn you
     transliteration: fa-andhartukum
   2:
-    arabic: نَارًا
+    arabic: نَارٗا
     translation: (of) a Fire
     transliteration: nāran
   3:
-    arabic: تَلَظّٰى​ۚ‏
+    arabic: تَلَظَّىٰ
     translation: blazing
     transliteration: talaẓẓā
 ---

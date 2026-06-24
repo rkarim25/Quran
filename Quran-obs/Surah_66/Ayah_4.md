@@ -1,26 +1,26 @@
 ---
-arabic_ayat: اِنۡ تَتُوۡبَاۤ اِلَى اللّٰهِ فَقَدۡ صَغَتۡ قُلُوۡبُكُمَا​ۚ وَاِنۡ تَظٰهَرَا
-  عَلَيۡهِ فَاِنَّ اللّٰهَ هُوَ مَوۡلٰٮهُ وَجِبۡرِيۡلُ وَصَالِحُ الۡمُؤۡمِنِيۡنَ​ۚ
-  وَالۡمَلٰٓٮِٕكَةُ بَعۡدَ ذٰلِكَ ظَهِيۡرٌ‏
+arabic_ayat: إِن تَتُوبَآ إِلَى ٱللَّهِ فَقَدۡ صَغَتۡ قُلُوبُكُمَاۖ وَإِن تَظَٰهَرَا
+  عَلَيۡهِ فَإِنَّ ٱللَّهَ هُوَ مَوۡلَىٰهُ وَجِبۡرِيلُ وَصَٰلِحُ ٱلۡمُؤۡمِنِينَۖ وَٱلۡمَلَٰٓئِكَةُ
+  بَعۡدَ ذَٰلِكَ ظَهِيرٌ
 sentence_translation: ˹It will be better˺ if you ˹wives˺ both turn to Allah in repentance,
   for your hearts have certainly faltered. But if you ˹continue to˺ collaborate against
   him, then ˹know that˺ Allah Himself is his Guardian. And Gabriel, the righteous
   believers, and the angels are ˹all˺ his supporters as well.
 word_by_word:
   1:
-    arabic: اِنۡ
+    arabic: إِن
     translation: If
     transliteration: in
   2:
-    arabic: تَتُوۡبَاۤ
+    arabic: تَتُوبَآ
     translation: you both turn
     transliteration: tatūbā
   3:
-    arabic: اِلَى
+    arabic: إِلَى
     translation: to
     transliteration: ilā
   4:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   5:
@@ -32,15 +32,15 @@ word_by_word:
     translation: (are) inclined
     transliteration: ṣaghat
   7:
-    arabic: قُلُوۡبُكُمَا​ۚ
+    arabic: قُلُوبُكُمَاۖ
     translation: your hearts
     transliteration: qulūbukumā
   8:
-    arabic: وَاِنۡ
+    arabic: وَإِن
     translation: but if
     transliteration: wa-in
   9:
-    arabic: تَظٰهَرَا
+    arabic: تَظَٰهَرَا
     translation: you backup each other
     transliteration: taẓāharā
   10:
@@ -48,11 +48,11 @@ word_by_word:
     translation: against him
     transliteration: ʿalayhi
   11:
-    arabic: فَاِنَّ
+    arabic: فَإِنَّ
     translation: then indeed
     transliteration: fa-inna
   12:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   13:
@@ -60,23 +60,23 @@ word_by_word:
     translation: He
     transliteration: huwa
   14:
-    arabic: مَوۡلٰٮهُ
+    arabic: مَوۡلَىٰهُ
     translation: (is) his Protector
     transliteration: mawlāhu
   15:
-    arabic: وَجِبۡرِيۡلُ
+    arabic: وَجِبۡرِيلُ
     translation: and Jibreel
     transliteration: wajib'rīlu
   16:
-    arabic: وَصَالِحُ
+    arabic: وَصَٰلِحُ
     translation: and (the) righteous
     transliteration: waṣāliḥu
   17:
-    arabic: الۡمُؤۡمِنِيۡنَ​ۚ
+    arabic: ٱلۡمُؤۡمِنِينَۖ
     translation: believers
     transliteration: l-mu'minīna
   18:
-    arabic: وَالۡمَلٰٓٮِٕكَةُ
+    arabic: وَٱلۡمَلَٰٓئِكَةُ
     translation: and the Angels
     transliteration: wal-malāikatu
   19:
@@ -84,11 +84,11 @@ word_by_word:
     translation: after
     transliteration: baʿda
   20:
-    arabic: ذٰلِكَ
+    arabic: ذَٰلِكَ
     translation: that
     transliteration: dhālika
   21:
-    arabic: ظَهِيۡرٌ‏
+    arabic: ظَهِيرٌ
     translation: (are his) assistants
     transliteration: ẓahīrun
 ---

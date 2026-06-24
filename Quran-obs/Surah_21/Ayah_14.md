@@ -1,17 +1,17 @@
 ---
-arabic_ayat: قَالُوۡا يٰوَيۡلَنَاۤ اِنَّا كُنَّا ظٰلِمِيۡنَ‏
+arabic_ayat: قَالُواْ يَٰوَيۡلَنَآ إِنَّا كُنَّا ظَٰلِمِينَ
 sentence_translation: They cried, “Woe to us! We have surely been wrongdoers.”
 word_by_word:
   1:
-    arabic: قَالُوۡا
+    arabic: قَالُواْ
     translation: They said
     transliteration: qālū
   2:
-    arabic: يٰوَيۡلَنَاۤ
+    arabic: يَٰوَيۡلَنَآ
     translation: O woe to us
     transliteration: yāwaylanā
   3:
-    arabic: اِنَّا
+    arabic: إِنَّا
     translation: Indeed, [we]
     transliteration: innā
   4:
@@ -19,7 +19,7 @@ word_by_word:
     translation: we were
     transliteration: kunnā
   5:
-    arabic: ظٰلِمِيۡنَ‏
+    arabic: ظَٰلِمِينَ
     translation: wrongdoers
     transliteration: ẓālimīna
 ---

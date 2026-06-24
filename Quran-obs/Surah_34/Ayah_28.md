@@ -1,23 +1,23 @@
 ---
-arabic_ayat: وَمَاۤ اَرۡسَلۡنٰكَ اِلَّا كَآفَّةً لِّلنَّاسِ بَشِيۡرًا وَّنَذِيۡرًا
-  وَّلٰـكِنَّ اَكۡثَرَ النَّاسِ لَا يَعۡلَمُوۡنَ‏
+arabic_ayat: وَمَآ أَرۡسَلۡنَٰكَ إِلَّا كَآفَّةٗ لِّلنَّاسِ بَشِيرٗا وَنَذِيرٗا
+  وَلَٰكِنَّ أَكۡثَرَ ٱلنَّاسِ لَا يَعۡلَمُونَ
 sentence_translation: We have sent you ˹O Prophet˺ only as a deliverer of good news
   and a warner to all of humanity, but most people do not know.
 word_by_word:
   1:
-    arabic: وَمَاۤ
+    arabic: وَمَآ
     translation: And not
     transliteration: wamā
   2:
-    arabic: اَرۡسَلۡنٰكَ
+    arabic: أَرۡسَلۡنَٰكَ
     translation: We have sent you
     transliteration: arsalnāka
   3:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   4:
-    arabic: كَآفَّةً
+    arabic: كَآفَّةٗ
     translation: comprehensively
     transliteration: kāffatan
   5:
@@ -25,23 +25,23 @@ word_by_word:
     translation: to mankind
     transliteration: lilnnāsi
   6:
-    arabic: بَشِيۡرًا
+    arabic: بَشِيرٗا
     translation: (as) a giver of glad tidings
     transliteration: bashīran
   7:
-    arabic: وَّنَذِيۡرًا
+    arabic: وَنَذِيرٗا
     translation: and (as) a warner
     transliteration: wanadhīran
   8:
-    arabic: وَّلٰـكِنَّ
+    arabic: وَلَٰكِنَّ
     translation: But
     transliteration: walākinna
   9:
-    arabic: اَكۡثَرَ
+    arabic: أَكۡثَرَ
     translation: most
     transliteration: akthara
   10:
-    arabic: النَّاسِ
+    arabic: ٱلنَّاسِ
     translation: '[the] people'
     transliteration: l-nāsi
   11:
@@ -49,7 +49,7 @@ word_by_word:
     translation: (do) not
     transliteration: lā
   12:
-    arabic: يَعۡلَمُوۡنَ‏
+    arabic: يَعۡلَمُونَ
     translation: know
     transliteration: yaʿlamūna
 ---

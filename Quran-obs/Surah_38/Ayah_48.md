@@ -1,19 +1,18 @@
 ---
-arabic_ayat: "وَاذۡكُرۡ اِسۡمٰعِيۡلَ وَ الۡيَسَعَ وَذَا الۡكِفۡلِ​ؕ وَكُلٌّ مِّنَ\
-  \ الۡاَخۡيَارِؕ‏ \uFEFF\uFEFF"
+arabic_ayat: وَٱذۡكُرۡ إِسۡمَٰعِيلَ وَٱلۡيَسَعَ وَذَا ٱلۡكِفۡلِۖ وَكُلّٞ مِّنَ ٱلۡأَخۡيَارِ
 sentence_translation: Also remember Ishmael, Elisha, and Ⱬul-Kifl. All are among the
   best.
 word_by_word:
   1:
-    arabic: وَاذۡكُرۡ
+    arabic: وَٱذۡكُرۡ
     translation: And remember
     transliteration: wa-udh'kur
   2:
-    arabic: اِسۡمٰعِيۡلَ
+    arabic: إِسۡمَٰعِيلَ
     translation: Ishmael
     transliteration: is'māʿīla
   3:
-    arabic: وَ الۡيَسَعَ
+    arabic: وَٱلۡيَسَعَ
     translation: and Elisha
     transliteration: wal-yasaʿa
   4:
@@ -21,11 +20,11 @@ word_by_word:
     translation: and Dhul-kifl
     transliteration: wadhā
   5:
-    arabic: الۡكِفۡلِ​ؕ
+    arabic: ٱلۡكِفۡلِۖ
     translation: and Dhul-kifl
     transliteration: l-kif'li
   6:
-    arabic: وَكُلٌّ
+    arabic: وَكُلّٞ
     translation: and all
     transliteration: wakullun
   7:
@@ -33,7 +32,7 @@ word_by_word:
     translation: (are) from
     transliteration: mina
   8:
-    arabic: "الۡاَخۡيَارِؕ‏ \uFEFF\uFEFF"
+    arabic: ٱلۡأَخۡيَارِ
     translation: the best
     transliteration: l-akhyāri
 ---

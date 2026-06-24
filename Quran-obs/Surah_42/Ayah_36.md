@@ -1,37 +1,36 @@
 ---
-arabic_ayat: "فَمَاۤ اُوۡتِيۡتُمۡ مِّنۡ شَىۡءٍ فَمَتَاعُ الۡحَيٰوةِ الدُّنۡيَا​ۚ وَمَا\
-  \ عِنۡدَ اللّٰهِ خَيۡرٌ وَّاَبۡقٰى لِلَّذِيۡنَ اٰمَنُوۡا وَعَلٰى رَبِّهِمۡ يَتَوَكَّلُوۡنَۚ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: فَمَآ أُوتِيتُم مِّن شَيۡءٖ فَمَتَٰعُ ٱلۡحَيَوٰةِ ٱلدُّنۡيَاۚ وَمَا
+  عِندَ ٱللَّهِ خَيۡرٞ وَأَبۡقَىٰ لِلَّذِينَ ءَامَنُواْ وَعَلَىٰ رَبِّهِمۡ يَتَوَكَّلُونَ
 sentence_translation: Whatever ˹pleasure˺ you have been given is ˹no more than a fleeting˺
   enjoyment of this worldly life. But what is with Allah is far better and more lasting
   for those who believe and put their trust in their Lord;
 word_by_word:
   1:
-    arabic: فَمَاۤ
+    arabic: فَمَآ
     translation: So whatever
     transliteration: famā
   2:
-    arabic: اُوۡتِيۡتُمۡ
+    arabic: أُوتِيتُم
     translation: you are given
     transliteration: ūtītum
   3:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: of
     transliteration: min
   4:
-    arabic: شَىۡءٍ
+    arabic: شَيۡءٖ
     translation: a thing
     transliteration: shayin
   5:
-    arabic: فَمَتَاعُ
+    arabic: فَمَتَٰعُ
     translation: (is) but a passing enjoyment
     transliteration: famatāʿu
   6:
-    arabic: الۡحَيٰوةِ
+    arabic: ٱلۡحَيَوٰةِ
     translation: (for) the life
     transliteration: l-ḥayati
   7:
-    arabic: الدُّنۡيَا​ۚ
+    arabic: ٱلدُّنۡيَاۚ
     translation: (of) the world
     transliteration: l-dun'yā
   8:
@@ -39,31 +38,31 @@ word_by_word:
     translation: But what
     transliteration: wamā
   9:
-    arabic: عِنۡدَ
+    arabic: عِندَ
     translation: (is) with
     transliteration: ʿinda
   10:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   11:
-    arabic: خَيۡرٌ
+    arabic: خَيۡرٞ
     translation: (is) better
     transliteration: khayrun
   12:
-    arabic: وَّاَبۡقٰى
+    arabic: وَأَبۡقَىٰ
     translation: and more lasting
     transliteration: wa-abqā
   13:
-    arabic: لِلَّذِيۡنَ
+    arabic: لِلَّذِينَ ءَ
     translation: for those who
     transliteration: lilladhīna
   14:
-    arabic: اٰمَنُوۡا
+    arabic: امَنُواْ
     translation: believe
     transliteration: āmanū
   15:
-    arabic: وَعَلٰى
+    arabic: وَعَلَىٰ
     translation: and upon
     transliteration: waʿalā
   16:
@@ -71,7 +70,7 @@ word_by_word:
     translation: their Lord
     transliteration: rabbihim
   17:
-    arabic: "يَتَوَكَّلُوۡنَۚ‏ \uFEFF\uFEFF"
+    arabic: يَتَوَكَّلُونَ
     translation: put (their) trust
     transliteration: yatawakkalūna
 ---

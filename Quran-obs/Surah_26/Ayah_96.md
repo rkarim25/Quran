@@ -1,9 +1,9 @@
 ---
-arabic_ayat: قَالُوۡا وَهُمۡ فِيۡهَا يَخۡتَصِمُوۡنَۙ‏
+arabic_ayat: قَالُواْ وَهُمۡ فِيهَا يَخۡتَصِمُونَ
 sentence_translation: There the deviant will cry while disputing with their idols,
 word_by_word:
   1:
-    arabic: قَالُوۡا
+    arabic: قَالُواْ
     translation: They (will) say
     transliteration: qālū
   2:
@@ -11,11 +11,11 @@ word_by_word:
     translation: while they
     transliteration: wahum
   3:
-    arabic: فِيۡهَا
+    arabic: فِيهَا
     translation: in it
     transliteration: fīhā
   4:
-    arabic: يَخۡتَصِمُوۡنَۙ‏
+    arabic: يَخۡتَصِمُونَ
     translation: (are) disputing
     transliteration: yakhtaṣimūna
 ---

@@ -1,8 +1,8 @@
 ---
-arabic_ayat: لِلۡفُقَرَآءِ الَّذِيۡنَ اُحۡصِرُوۡا فِىۡ سَبِيۡلِ اللّٰهِ لَا يَسۡتَطِيۡعُوۡنَ
-  ضَرۡبًا فِى الۡاَرۡضِ يَحۡسَبُهُمُ الۡجَاهِلُ اَغۡنِيَآءَ مِنَ التَّعَفُّفِ​ۚ
-  تَعۡرِفُهُمۡ بِسِيۡمٰهُمۡ​ۚ لَا يَسۡـــَٔلُوۡنَ النَّاسَ اِلۡحَــافًا ​ؕ وَمَا تُنۡفِقُوۡا
-  مِنۡ خَيۡرٍ فَاِنَّ اللّٰهَ بِهٖ عَلِيۡمٌ‏
+arabic_ayat: لِلۡفُقَرَآءِ ٱلَّذِينَ أُحۡصِرُواْ فِي سَبِيلِ ٱللَّهِ لَا يَسۡتَطِيعُونَ
+  ضَرۡبٗا فِي ٱلۡأَرۡضِ يَحۡسَبُهُمُ ٱلۡجَاهِلُ أَغۡنِيَآءَ مِنَ ٱلتَّعَفُّفِ تَعۡرِفُهُم
+  بِسِيمَٰهُمۡ لَا يَسۡـَٔلُونَ ٱلنَّاسَ إِلۡحَافٗاۗ وَمَا تُنفِقُواْ مِنۡ خَيۡرٖ
+  فَإِنَّ ٱللَّهَ بِهِۦ عَلِيمٌ
 sentence_translation: ˹Charity is˺ for the needy who are too engaged in the cause
   of Allah to move about in the land ˹for work˺. Those unfamiliar with their situation
   will think they are not in need ˹of charity˺ because they do not beg. You can recognize
@@ -14,23 +14,23 @@ word_by_word:
     translation: For the poor
     transliteration: lil'fuqarāi
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   3:
-    arabic: اُحۡصِرُوۡا
+    arabic: أُحۡصِرُواْ
     translation: are wrapped up
     transliteration: uḥ'ṣirū
   4:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   5:
-    arabic: سَبِيۡلِ
+    arabic: سَبِيلِ
     translation: (the) way
     transliteration: sabīli
   6:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (of) Allah
     transliteration: l-lahi
   7:
@@ -38,19 +38,19 @@ word_by_word:
     translation: not
     transliteration: lā
   8:
-    arabic: يَسۡتَطِيۡعُوۡنَ
+    arabic: يَسۡتَطِيعُونَ
     translation: they are able
     transliteration: yastaṭīʿūna
   9:
-    arabic: ضَرۡبًا
+    arabic: ضَرۡبٗا
     translation: (to) move about
     transliteration: ḍarban
   10:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   11:
-    arabic: الۡاَرۡضِ
+    arabic: ٱلۡأَرۡضِ
     translation: the earth
     transliteration: l-arḍi
   12:
@@ -58,11 +58,11 @@ word_by_word:
     translation: Think (about) them
     transliteration: yaḥsabuhumu
   13:
-    arabic: الۡجَاهِلُ
+    arabic: ٱلۡجَاهِلُ
     translation: the ignorant one
     transliteration: l-jāhilu
   14:
-    arabic: اَغۡنِيَآءَ
+    arabic: أَغۡنِيَآءَ
     translation: (that they are) self-sufficient
     transliteration: aghniyāa
   15:
@@ -70,15 +70,15 @@ word_by_word:
     translation: (because) of
     transliteration: mina
   16:
-    arabic: التَّعَفُّفِ​ۚ
+    arabic: ٱلتَّعَفُّفِ
     translation: (their) restraint
     transliteration: l-taʿafufi
   17:
-    arabic: تَعۡرِفُهُمۡ
+    arabic: تَعۡرِفُهُم
     translation: you recognize them
     transliteration: taʿrifuhum
   18:
-    arabic: بِسِيۡمٰهُمۡ​ۚ
+    arabic: بِسِيمَٰهُمۡ
     translation: by their mark
     transliteration: bisīmāhum
   19:
@@ -86,15 +86,15 @@ word_by_word:
     translation: Not
     transliteration: lā
   20:
-    arabic: يَسۡـــَٔلُوۡنَ
+    arabic: يَسۡـَٔلُونَ
     translation: (do) they ask
     transliteration: yasalūna
   21:
-    arabic: النَّاسَ
+    arabic: ٱلنَّاسَ
     translation: the people
     transliteration: l-nāsa
   22:
-    arabic: اِلۡحَــافًا ​ؕ
+    arabic: إِلۡحَافٗاۗ
     translation: with importunity
     transliteration: il'ḥāfan
   23:
@@ -102,7 +102,7 @@ word_by_word:
     translation: And whatever
     transliteration: wamā
   24:
-    arabic: تُنۡفِقُوۡا
+    arabic: تُنفِقُواْ
     translation: you spend
     transliteration: tunfiqū
   25:
@@ -110,23 +110,23 @@ word_by_word:
     translation: of
     transliteration: min
   26:
-    arabic: خَيۡرٍ
+    arabic: خَيۡرٖ
     translation: good
     transliteration: khayrin
   27:
-    arabic: فَاِنَّ
+    arabic: فَإِنَّ
     translation: then indeed
     transliteration: fa-inna
   28:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   29:
-    arabic: بِهٖ
+    arabic: بِهِۦ
     translation: of it
     transliteration: bihi
   30:
-    arabic: عَلِيۡمٌ‏
+    arabic: عَلِيمٌ
     translation: (is) All-Knower
     transliteration: ʿalīmun
 ---

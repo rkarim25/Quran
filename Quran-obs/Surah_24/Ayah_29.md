@@ -1,12 +1,11 @@
 ---
-arabic_ayat: "لَـيۡسَ عَلَيۡكُمۡ جُنَاحٌ اَنۡ تَدۡخُلُوۡا بُيُوۡتًا غَيۡرَ مَسۡكُوۡنَةٍ\
-  \ فِيۡهَا مَتَاعٌ لَّـكُمۡ​ ؕ وَاللّٰهُ يَعۡلَمُ مَا تُبۡدُوۡنَ وَمَا تَكۡتُمُوۡنَ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: لَّيۡسَ عَلَيۡكُمۡ جُنَاحٌ أَن تَدۡخُلُواْ بُيُوتًا غَيۡرَ مَسۡكُونَةٖ
+  فِيهَا مَتَٰعٞ لَّكُمۡۚ وَٱللَّهُ يَعۡلَمُ مَا تُبۡدُونَ وَمَا تَكۡتُمُونَ
 sentence_translation: There is no blame on you if you enter public places where there
   is something of benefit for you. And Allah knows what you reveal and what you conceal.
 word_by_word:
   1:
-    arabic: لَـيۡسَ
+    arabic: لَّيۡسَ
     translation: Not
     transliteration: laysa
   2:
@@ -18,15 +17,15 @@ word_by_word:
     translation: (is) any blame
     transliteration: junāḥun
   4:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that
     transliteration: an
   5:
-    arabic: تَدۡخُلُوۡا
+    arabic: تَدۡخُلُواْ
     translation: you enter
     transliteration: tadkhulū
   6:
-    arabic: بُيُوۡتًا
+    arabic: بُيُوتًا
     translation: houses
     transliteration: buyūtan
   7:
@@ -34,23 +33,23 @@ word_by_word:
     translation: not
     transliteration: ghayra
   8:
-    arabic: مَسۡكُوۡنَةٍ
+    arabic: مَسۡكُونَةٖ
     translation: inhabited
     transliteration: maskūnatin
   9:
-    arabic: فِيۡهَا
+    arabic: فِيهَا
     translation: in it
     transliteration: fīhā
   10:
-    arabic: مَتَاعٌ
+    arabic: مَتَٰعٞ
     translation: (is) a provision
     transliteration: matāʿun
   11:
-    arabic: لَّـكُمۡ​ ؕ
+    arabic: لَّكُمۡۚ
     translation: for you
     transliteration: lakum
   12:
-    arabic: وَاللّٰهُ
+    arabic: وَٱللَّهُ
     translation: And Allah
     transliteration: wal-lahu
   13:
@@ -62,7 +61,7 @@ word_by_word:
     translation: what
     transliteration: mā
   15:
-    arabic: تُبۡدُوۡنَ
+    arabic: تُبۡدُونَ
     translation: you reveal
     transliteration: tub'dūna
   16:
@@ -70,7 +69,7 @@ word_by_word:
     translation: and what
     transliteration: wamā
   17:
-    arabic: "تَكۡتُمُوۡنَ‏ \uFEFF\uFEFF"
+    arabic: تَكۡتُمُونَ
     translation: you conceal
     transliteration: taktumūna
 ---

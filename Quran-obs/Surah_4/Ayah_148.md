@@ -1,11 +1,11 @@
 ---
-arabic_ayat: لَا يُحِبُّ اللّٰهُ الۡجَــهۡرَ بِالسُّوۡٓءِ مِنَ الۡقَوۡلِ اِلَّا مَنۡ
-  ظُلِمَ​ؕ وَكَانَ اللّٰهُ سَمِيۡعًا عَلِيۡمًا‏
+arabic_ayat: ۞ لَّا يُحِبُّ ٱللَّهُ ٱلۡجَهۡرَ بِٱلسُّوٓءِ مِنَ ٱلۡقَوۡلِ إِلَّا مَن
+  ظُلِمَۚ وَكَانَ ٱللَّهُ سَمِيعًا عَلِيمًا
 sentence_translation: Allah does not like negative thoughts to be voiced—except by
   those who have been wronged. Allah is All-Hearing, All-Knowing.
 word_by_word:
   1:
-    arabic: ۞ لَا
+    arabic: ۞ لَّا
     translation: (Does) not
     transliteration: lā
   2:
@@ -13,15 +13,15 @@ word_by_word:
     translation: love
     transliteration: yuḥibbu
   3:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   4:
-    arabic: الۡجَــهۡرَ
+    arabic: ٱلۡجَهۡرَ
     translation: the public mention
     transliteration: l-jahra
   5:
-    arabic: بِالسُّوۡٓءِ
+    arabic: بِٱلسُّوٓءِ
     translation: of [the] evil
     transliteration: bil-sūi
   6:
@@ -29,19 +29,19 @@ word_by_word:
     translation: '[of]'
     transliteration: mina
   7:
-    arabic: الۡقَوۡلِ
+    arabic: ٱلۡقَوۡلِ
     translation: '[the] words'
     transliteration: l-qawli
   8:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   9:
-    arabic: مَنۡ
+    arabic: مَن
     translation: (by the one) who
     transliteration: man
   10:
-    arabic: ظُلِمَ​ؕ
+    arabic: ظُلِمَۚ
     translation: has been wronged
     transliteration: ẓulima
   11:
@@ -49,15 +49,15 @@ word_by_word:
     translation: And is
     transliteration: wakāna
   12:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   13:
-    arabic: سَمِيۡعًا
+    arabic: سَمِيعًا
     translation: All-Hearing
     transliteration: samīʿan
   14:
-    arabic: عَلِيۡمًا‏
+    arabic: عَلِيمًا
     translation: All-Knowing
     transliteration: ʿalīman
 ---

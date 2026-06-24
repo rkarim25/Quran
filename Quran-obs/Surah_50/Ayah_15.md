@@ -1,19 +1,19 @@
 ---
-arabic_ayat: اَفَعَيِيۡنَا بِالۡخَـلۡقِ الۡاَوَّلِ​ؕ بَلۡ هُمۡ فِىۡ لَبۡسٍ مِّنۡ خَلۡقٍ
-  جَدِيۡدٍ‏
+arabic_ayat: أَفَعَيِينَا بِٱلۡخَلۡقِ ٱلۡأَوَّلِۚ بَلۡ هُمۡ فِي لَبۡسٖ مِّنۡ خَلۡقٖ
+  جَدِيدٖ
 sentence_translation: Were We incapable of creating ˹them˺ the first time? In fact,
   they are in doubt about ˹their˺ re-creation.
 word_by_word:
   1:
-    arabic: اَفَعَيِيۡنَا
+    arabic: أَفَعَيِينَا
     translation: Were We then tired
     transliteration: afaʿayīnā
   2:
-    arabic: بِالۡخَـلۡقِ
+    arabic: بِٱلۡخَلۡقِ
     translation: with the creation
     transliteration: bil-khalqi
   3:
-    arabic: الۡاَوَّلِ​ؕ
+    arabic: ٱلۡأَوَّلِۚ
     translation: the first
     transliteration: l-awali
   4:
@@ -25,11 +25,11 @@ word_by_word:
     translation: they
     transliteration: hum
   6:
-    arabic: فِىۡ
+    arabic: فِي
     translation: (are) in
     transliteration: fī
   7:
-    arabic: لَبۡسٍ
+    arabic: لَبۡسٖ
     translation: doubt
     transliteration: labsin
   8:
@@ -37,11 +37,11 @@ word_by_word:
     translation: about
     transliteration: min
   9:
-    arabic: خَلۡقٍ
+    arabic: خَلۡقٖ
     translation: a creation
     transliteration: khalqin
   10:
-    arabic: جَدِيۡدٍ‏
+    arabic: جَدِيدٖ
     translation: new
     transliteration: jadīdin
 ---

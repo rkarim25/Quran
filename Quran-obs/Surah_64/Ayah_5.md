@@ -1,40 +1,40 @@
 ---
-arabic_ayat: اَلَمۡ يَاۡتِكُمۡ نَبَـؤُا الَّذِيۡنَ كَفَرُوۡا مِنۡ قَبۡلُ فَذَاقُوۡا
-  وَبَالَ اَمۡرِهِمۡ وَلَهُمۡ عَذَابٌ اَلِيۡمٌ‏
+arabic_ayat: أَلَمۡ يَأۡتِكُمۡ نَبَؤُاْ ٱلَّذِينَ كَفَرُواْ مِن قَبۡلُ فَذَاقُواْ
+  وَبَالَ أَمۡرِهِمۡ وَلَهُمۡ عَذَابٌ أَلِيمٞ
 sentence_translation: Have the stories of those who disbelieved before not reached
   you ˹pagans˺? They tasted the evil consequences of their doings, and they will suffer
   a painful punishment.
 word_by_word:
   1:
-    arabic: اَلَمۡ
+    arabic: أَلَمۡ
     translation: Has not
     transliteration: alam
   2:
-    arabic: يَاۡتِكُمۡ
+    arabic: يَأۡتِكُمۡ
     translation: come to you
     transliteration: yatikum
   3:
-    arabic: نَبَـؤُا
+    arabic: نَبَؤُاْ
     translation: (the) news
     transliteration: naba-u
   4:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: (of) those who
     transliteration: alladhīna
   5:
-    arabic: كَفَرُوۡا
+    arabic: كَفَرُواْ
     translation: disbelieved
     transliteration: kafarū
   6:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   7:
-    arabic: قَبۡلُ
+    arabic: قَبۡلُ
     translation: before
     transliteration: qablu
   8:
-    arabic: فَذَاقُوۡا
+    arabic: فَذَاقُواْ
     translation: So they tasted
     transliteration: fadhāqū
   9:
@@ -42,7 +42,7 @@ word_by_word:
     translation: (the bad) consequence
     transliteration: wabāla
   10:
-    arabic: اَمۡرِهِمۡ
+    arabic: أَمۡرِهِمۡ
     translation: (of) their affair
     transliteration: amrihim
   11:
@@ -54,7 +54,7 @@ word_by_word:
     translation: (is) a punishment
     transliteration: ʿadhābun
   13:
-    arabic: اَلِيۡمٌ‏
+    arabic: أَلِيمٞ
     translation: painful
     transliteration: alīmun
 ---

@@ -1,11 +1,11 @@
 ---
-arabic_ayat: اَوَلَا يَرَوۡنَ اَنَّهُمۡ يُفۡتَـنُوۡنَ فِىۡ كُلِّ عَامٍ مَّرَّةً اَوۡ
-  مَرَّتَيۡنِ ثُمَّ لَا يَتُوۡبُوۡنَ وَلَا هُمۡ يَذَّكَّرُوۡنَ‏
+arabic_ayat: أَوَلَا يَرَوۡنَ أَنَّهُمۡ يُفۡتَنُونَ فِي كُلِّ عَامٖ مَّرَّةً أَوۡ
+  مَرَّتَيۡنِ ثُمَّ لَا يَتُوبُونَ وَلَا هُمۡ يَذَّكَّرُونَ
 sentence_translation: Do they not see that they are tried once or twice every year? Yet
   they neither repent nor do they learn a lesson.
 word_by_word:
   1:
-    arabic: اَوَلَا
+    arabic: أَوَلَا
     translation: Do not
     transliteration: awalā
   2:
@@ -13,15 +13,15 @@ word_by_word:
     translation: they see
     transliteration: yarawna
   3:
-    arabic: اَنَّهُمۡ
+    arabic: أَنَّهُمۡ
     translation: that they
     transliteration: annahum
   4:
-    arabic: يُفۡتَـنُوۡنَ
+    arabic: يُفۡتَنُونَ
     translation: are tried
     transliteration: yuf'tanūna
   5:
-    arabic: فِىۡ
+    arabic: فِي
     translation: '[in]'
     transliteration: fī
   6:
@@ -29,7 +29,7 @@ word_by_word:
     translation: every
     transliteration: kulli
   7:
-    arabic: عَامٍ
+    arabic: عَامٖ
     translation: year
     transliteration: ʿāmin
   8:
@@ -37,7 +37,7 @@ word_by_word:
     translation: once
     transliteration: marratan
   9:
-    arabic: اَوۡ
+    arabic: أَوۡ
     translation: or
     transliteration: aw
   10:
@@ -53,7 +53,7 @@ word_by_word:
     translation: not
     transliteration: lā
   13:
-    arabic: يَتُوۡبُوۡنَ
+    arabic: يَتُوبُونَ
     translation: they turn (in repentance)
     transliteration: yatūbūna
   14:
@@ -65,7 +65,7 @@ word_by_word:
     translation: they
     transliteration: hum
   16:
-    arabic: يَذَّكَّرُوۡنَ‏
+    arabic: يَذَّكَّرُونَ
     translation: pay heed
     transliteration: yadhakkarūna
 ---

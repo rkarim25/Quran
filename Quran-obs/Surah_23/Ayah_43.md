@@ -1,5 +1,5 @@
 ---
-arabic_ayat: مَا تَسۡبِقُ مِنۡ اُمَّةٍ اَجَلَهَا وَمَا يَسۡتَـاۡخِرُوۡنَؕ‏
+arabic_ayat: مَا تَسۡبِقُ مِنۡ أُمَّةٍ أَجَلَهَا وَمَا يَسۡتَـٔۡخِرُونَ
 sentence_translation: No people can advance their doom, nor can they delay it.
 word_by_word:
   1:
@@ -15,11 +15,11 @@ word_by_word:
     translation: any
     transliteration: min
   4:
-    arabic: اُمَّةٍ
+    arabic: أُمَّةٍ
     translation: nation
     transliteration: ummatin
   5:
-    arabic: اَجَلَهَا
+    arabic: أَجَلَهَا
     translation: its term
     transliteration: ajalahā
   6:
@@ -27,7 +27,7 @@ word_by_word:
     translation: and not
     transliteration: wamā
   7:
-    arabic: يَسۡتَـاۡخِرُوۡنَؕ‏
+    arabic: يَسۡتَـٔۡخِرُونَ
     translation: they (can) delay (it)
     transliteration: yastakhirūna
 ---

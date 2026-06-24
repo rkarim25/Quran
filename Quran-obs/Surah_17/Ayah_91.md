@@ -1,35 +1,35 @@
 ---
-arabic_ayat: اَوۡ تَكُوۡنَ لَـكَ جَنَّةٌ مِّنۡ نَّخِيۡلٍ وَّعِنَبٍ فَتُفَجِّرَ الۡاَنۡهٰرَ
-  خِلٰلَهَا تَفۡجِيۡرًا ۙ‏
+arabic_ayat: أَوۡ تَكُونَ لَكَ جَنَّةٞ مِّن نَّخِيلٖ وَعِنَبٖ فَتُفَجِّرَ ٱلۡأَنۡهَٰرَ
+  خِلَٰلَهَا تَفۡجِيرًا
 sentence_translation: or until you have a garden of palm trees and vineyards, and
   cause rivers to flow abundantly in it,
 word_by_word:
   1:
-    arabic: اَوۡ
+    arabic: أَوۡ
     translation: Or
     transliteration: aw
   2:
-    arabic: تَكُوۡنَ
+    arabic: تَكُونَ
     translation: you have
     transliteration: takūna
   3:
-    arabic: لَـكَ
+    arabic: لَكَ
     translation: for you
     transliteration: laka
   4:
-    arabic: جَنَّةٌ
+    arabic: جَنَّةٞ
     translation: a garden
     transliteration: jannatun
   5:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: of
     transliteration: min
   6:
-    arabic: نَّخِيۡلٍ
+    arabic: نَّخِيلٖ
     translation: date-palms
     transliteration: nakhīlin
   7:
-    arabic: وَّعِنَبٍ
+    arabic: وَعِنَبٖ
     translation: and grapes
     transliteration: waʿinabin
   8:
@@ -37,15 +37,15 @@ word_by_word:
     translation: and cause to gush forth
     transliteration: fatufajjira
   9:
-    arabic: الۡاَنۡهٰرَ
+    arabic: ٱلۡأَنۡهَٰرَ
     translation: the rivers
     transliteration: l-anhāra
   10:
-    arabic: خِلٰلَهَا
+    arabic: خِلَٰلَهَا
     translation: within them
     transliteration: khilālahā
   11:
-    arabic: تَفۡجِيۡرًا ۙ‏
+    arabic: تَفۡجِيرًا
     translation: abundantly
     transliteration: tafjīran
 ---

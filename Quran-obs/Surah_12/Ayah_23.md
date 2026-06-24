@@ -1,18 +1,18 @@
 ---
-arabic_ayat: وَرَاوَدَتۡهُ الَّتِىۡ هُوَ فِىۡ بَيۡتِهَا عَنۡ نَّـفۡسِهٖ وَغَلَّقَتِ
-  الۡاَبۡوَابَ وَقَالَتۡ هَيۡتَ لَـكَ​ؕ قَالَ مَعَاذَ اللّٰهِ​ اِنَّهٗ رَبِّىۡۤ اَحۡسَنَ
-  مَثۡوَاىَ​ؕ اِنَّهٗ لَا يُفۡلِحُ الظّٰلِمُوۡنَ‏
+arabic_ayat: وَرَٰوَدَتۡهُ ٱلَّتِي هُوَ فِي بَيۡتِهَا عَن نَّفۡسِهِۦ وَغَلَّقَتِ ٱلۡأَبۡوَٰبَ
+  وَقَالَتۡ هَيۡتَ لَكَۚ قَالَ مَعَاذَ ٱللَّهِۖ إِنَّهُۥ رَبِّيٓ أَحۡسَنَ مَثۡوَايَۖ
+  إِنَّهُۥ لَا يُفۡلِحُ ٱلظَّٰلِمُونَ
 sentence_translation: And the lady, in whose house he lived, tried to seduce him.
   She locked the doors ˹firmly˺ and said, “Come to me!” He replied, “Allah is my refuge!
   It is ˹not right to betray˺ my master, who has taken good care of me. Indeed, the
   wrongdoers never succeed.”
 word_by_word:
   1:
-    arabic: وَرَاوَدَتۡهُ
+    arabic: وَرَٰوَدَتۡهُ
     translation: And sought to seduce him
     transliteration: warāwadathu
   2:
-    arabic: الَّتِىۡ
+    arabic: ٱلَّتِي
     translation: she who
     transliteration: allatī
   3:
@@ -20,7 +20,7 @@ word_by_word:
     translation: he (was)
     transliteration: huwa
   4:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   5:
@@ -28,11 +28,11 @@ word_by_word:
     translation: her house
     transliteration: baytihā
   6:
-    arabic: عَنۡ
+    arabic: عَن
     translation: from
     transliteration: ʿan
   7:
-    arabic: نَّـفۡسِهٖ
+    arabic: نَّفۡسِهِۦ
     translation: his self
     transliteration: nafsihi
   8:
@@ -40,7 +40,7 @@ word_by_word:
     translation: And she closed
     transliteration: waghallaqati
   9:
-    arabic: الۡاَبۡوَابَ
+    arabic: ٱلۡأَبۡوَٰبَ
     translation: the doors
     transliteration: l-abwāba
   10:
@@ -52,7 +52,7 @@ word_by_word:
     translation: Come on
     transliteration: hayta
   12:
-    arabic: لَـكَ​ؕ
+    arabic: لَكَۚ
     translation: you
     transliteration: laka
   13:
@@ -64,27 +64,27 @@ word_by_word:
     translation: I seek refuge in Allah
     transliteration: maʿādha
   15:
-    arabic: اللّٰهِ​
+    arabic: ٱللَّهِۖ
     translation: I seek refuge in Allah
     transliteration: l-lahi
   16:
-    arabic: اِنَّهٗ
+    arabic: إِنَّهُۥ
     translation: Indeed, he
     transliteration: innahu
   17:
-    arabic: رَبِّىۡۤ
+    arabic: رَبِّيٓ
     translation: (is) my lord
     transliteration: rabbī
   18:
-    arabic: اَحۡسَنَ
+    arabic: أَحۡسَنَ
     translation: (who has) made good
     transliteration: aḥsana
   19:
-    arabic: مَثۡوَاىَ​ؕ
+    arabic: مَثۡوَايَۖ
     translation: my stay
     transliteration: mathwāya
   20:
-    arabic: اِنَّهٗ
+    arabic: إِنَّهُۥ
     translation: Indeed
     transliteration: innahu
   21:
@@ -96,7 +96,7 @@ word_by_word:
     translation: will succeed
     transliteration: yuf'liḥu
   23:
-    arabic: الظّٰلِمُوۡنَ‏
+    arabic: ٱلظَّٰلِمُونَ
     translation: the wrongdoers
     transliteration: l-ẓālimūna
 ---

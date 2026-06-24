@@ -1,6 +1,6 @@
 ---
-arabic_ayat: قَالَ رَبِّ اَنّٰى يَكُوۡنُ لِىۡ غُلٰمٌ وَّقَدۡ بَلَغَنِىَ الۡكِبَرُ
-  وَامۡرَاَتِىۡ عَاقِرٌ​ؕ قَالَ كَذٰلِكَ اللّٰهُ يَفۡعَلُ مَا يَشَآءُ‏
+arabic_ayat: قَالَ رَبِّ أَنَّىٰ يَكُونُ لِي غُلَٰمٞ وَقَدۡ بَلَغَنِيَ ٱلۡكِبَرُ وَٱمۡرَأَتِي
+  عَاقِرٞۖ قَالَ كَذَٰلِكَ ٱللَّهُ يَفۡعَلُ مَا يَشَآءُ
 sentence_translation: Zachariah exclaimed, “My Lord! How can I have a son when I am
   very old and my wife is barren?” He replied, “So will it be. Allah does what He
   wills.”
@@ -14,39 +14,39 @@ word_by_word:
     translation: My Lord
     transliteration: rabbi
   3:
-    arabic: اَنّٰى
+    arabic: أَنَّىٰ
     translation: how
     transliteration: annā
   4:
-    arabic: يَكُوۡنُ
+    arabic: يَكُونُ
     translation: can (there) be
     transliteration: yakūnu
   5:
-    arabic: لِىۡ
+    arabic: لِي
     translation: for me
     transliteration: lī
   6:
-    arabic: غُلٰمٌ
+    arabic: غُلَٰمٞ
     translation: a son
     transliteration: ghulāmun
   7:
-    arabic: وَّقَدۡ
+    arabic: وَقَدۡ
     translation: and verily
     transliteration: waqad
   8:
-    arabic: بَلَغَنِىَ
+    arabic: بَلَغَنِيَ
     translation: has reached me
     transliteration: balaghaniya
   9:
-    arabic: الۡكِبَرُ
+    arabic: ٱلۡكِبَرُ
     translation: '[the] old age'
     transliteration: l-kibaru
   10:
-    arabic: وَامۡرَاَتِىۡ
+    arabic: وَٱمۡرَأَتِي
     translation: and my wife
     transliteration: wa-im'ra-atī
   11:
-    arabic: عَاقِرٌ​ؕ
+    arabic: عَاقِرٞۖ
     translation: (is) [a] barren
     transliteration: ʿāqirun
   12:
@@ -54,11 +54,11 @@ word_by_word:
     translation: He said
     transliteration: qāla
   13:
-    arabic: كَذٰلِكَ
+    arabic: كَذَٰلِكَ
     translation: Thus
     transliteration: kadhālika
   14:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   15:
@@ -70,7 +70,7 @@ word_by_word:
     translation: what
     transliteration: mā
   17:
-    arabic: يَشَآءُ‏
+    arabic: يَشَآءُ
     translation: He wills
     transliteration: yashāu
 ---

@@ -1,6 +1,6 @@
 ---
-arabic_ayat: وَمَنۡ اَظۡلَمُ مِمَّنِ افۡتَرٰى عَلَى اللّٰهِ كَذِبًا اَوۡ كَذَّبَ بِالۡحَـقِّ
-  لَـمَّا جَآءَهٗ​ؕ اَلَيۡسَ فِىۡ جَهَـنَّمَ مَثۡوًى لِّلۡكٰفِرِيۡنَ‏
+arabic_ayat: وَمَنۡ أَظۡلَمُ مِمَّنِ ٱفۡتَرَىٰ عَلَى ٱللَّهِ كَذِبًا أَوۡ كَذَّبَ
+  بِٱلۡحَقِّ لَمَّا جَآءَهُۥٓۚ أَلَيۡسَ فِي جَهَنَّمَ مَثۡوٗى لِّلۡكَٰفِرِينَ
 sentence_translation: And who does more wrong than those who fabricate lies against
   Allah or reject the truth after it has reached them? Is Hell not a ˹fitting˺ home
   for the disbelievers?
@@ -10,7 +10,7 @@ word_by_word:
     translation: And who
     transliteration: waman
   2:
-    arabic: اَظۡلَمُ
+    arabic: أَظۡلَمُ
     translation: (is) more unjust
     transliteration: aẓlamu
   3:
@@ -18,7 +18,7 @@ word_by_word:
     translation: than (he) who
     transliteration: mimmani
   4:
-    arabic: افۡتَرٰى
+    arabic: ٱفۡتَرَىٰ
     translation: invents
     transliteration: if'tarā
   5:
@@ -26,7 +26,7 @@ word_by_word:
     translation: against
     transliteration: ʿalā
   6:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   7:
@@ -34,7 +34,7 @@ word_by_word:
     translation: a lie
     transliteration: kadhiban
   8:
-    arabic: اَوۡ
+    arabic: أَوۡ
     translation: or
     transliteration: aw
   9:
@@ -42,35 +42,35 @@ word_by_word:
     translation: denies
     transliteration: kadhaba
   10:
-    arabic: بِالۡحَـقِّ
+    arabic: بِٱلۡحَقِّ
     translation: the truth
     transliteration: bil-ḥaqi
   11:
-    arabic: لَـمَّا
+    arabic: لَمَّا
     translation: when
     transliteration: lammā
   12:
-    arabic: جَآءَهٗ​ؕ
+    arabic: جَآءَهُۥٓۚ
     translation: it has come to him
     transliteration: jāahu
   13:
-    arabic: اَلَيۡسَ
+    arabic: أَلَيۡسَ
     translation: Is there not
     transliteration: alaysa
   14:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   15:
-    arabic: جَهَـنَّمَ
+    arabic: جَهَنَّمَ
     translation: Hell
     transliteration: jahannama
   16:
-    arabic: مَثۡوًى
+    arabic: مَثۡوٗى
     translation: an abode
     transliteration: mathwan
   17:
-    arabic: لِّلۡكٰفِرِيۡنَ‏
+    arabic: لِّلۡكَٰفِرِينَ
     translation: for the disbelievers
     transliteration: lil'kāfirīna
 ---

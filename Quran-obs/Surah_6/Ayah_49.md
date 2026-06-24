@@ -1,19 +1,19 @@
 ---
-arabic_ayat: وَالَّذِيۡنَ كَذَّبُوۡا بِاٰيٰتِنَا يَمَسُّهُمُ الۡعَذَابُ بِمَا كَانُوۡا
-  يَفۡسُقُوۡنَ‏
+arabic_ayat: وَٱلَّذِينَ كَذَّبُواْ بِـَٔايَٰتِنَا يَمَسُّهُمُ ٱلۡعَذَابُ بِمَا كَانُواْ
+  يَفۡسُقُونَ
 sentence_translation: But those who deny Our signs will be afflicted with punishment
   for their rebelliousness.
 word_by_word:
   1:
-    arabic: وَالَّذِيۡنَ
+    arabic: وَٱلَّذِينَ
     translation: And those who
     transliteration: wa-alladhīna
   2:
-    arabic: كَذَّبُوۡا
+    arabic: كَذَّبُواْ
     translation: denied
     transliteration: kadhabū
   3:
-    arabic: بِاٰيٰتِنَا
+    arabic: بِـَٔايَٰتِنَا
     translation: '[in] Our Verses'
     transliteration: biāyātinā
   4:
@@ -21,7 +21,7 @@ word_by_word:
     translation: will touch them
     transliteration: yamassuhumu
   5:
-    arabic: الۡعَذَابُ
+    arabic: ٱلۡعَذَابُ
     translation: the punishment
     transliteration: l-ʿadhābu
   6:
@@ -29,11 +29,11 @@ word_by_word:
     translation: for what
     transliteration: bimā
   7:
-    arabic: كَانُوۡا
+    arabic: كَانُواْ
     translation: they used to
     transliteration: kānū
   8:
-    arabic: يَفۡسُقُوۡنَ‏
+    arabic: يَفۡسُقُونَ
     translation: defiantly disobey
     transliteration: yafsuqūna
 ---

@@ -1,9 +1,9 @@
 ---
-arabic_ayat: كَىۡ نُسَبِّحَكَ كَثِيۡرًا ۙ‏
+arabic_ayat: كَيۡ نُسَبِّحَكَ كَثِيرٗا
 sentence_translation: so that we may glorify You much
 word_by_word:
   1:
-    arabic: كَىۡ
+    arabic: كَيۡ
     translation: That
     transliteration: kay
   2:
@@ -11,7 +11,7 @@ word_by_word:
     translation: we may glorify You
     transliteration: nusabbiḥaka
   3:
-    arabic: كَثِيۡرًا ۙ‏
+    arabic: كَثِيرٗا
     translation: much
     transliteration: kathīran
 ---

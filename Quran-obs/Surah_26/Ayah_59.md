@@ -1,21 +1,21 @@
 ---
-arabic_ayat: كَذٰلِكَؕ وَاَوۡرَثۡنٰهَا بَنِىۡۤ اِسۡرَآءِيۡلَؕ‏
+arabic_ayat: كَذَٰلِكَۖ وَأَوۡرَثۡنَٰهَا بَنِيٓ إِسۡرَٰٓءِيلَ
 sentence_translation: So it was. And We awarded it ˹all˺ to the Children of Israel.
 word_by_word:
   1:
-    arabic: كَذٰلِكَؕ
+    arabic: كَذَٰلِكَۖ
     translation: Thus
     transliteration: kadhālika
   2:
-    arabic: وَاَوۡرَثۡنٰهَا
+    arabic: وَأَوۡرَثۡنَٰهَا
     translation: And We caused to inherit them
     transliteration: wa-awrathnāhā
   3:
-    arabic: بَنِىۡۤ
+    arabic: بَنِيٓ
     translation: (the) Children of Israel
     transliteration: banī
   4:
-    arabic: اِسۡرَآءِيۡلَؕ‏
+    arabic: إِسۡرَٰٓءِيلَ
     translation: (the) Children of Israel
     transliteration: is'rāīla
 ---

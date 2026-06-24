@@ -1,15 +1,15 @@
 ---
-arabic_ayat: وَاَمَّا الۡغُلٰمُ فَكَانَ اَبَوٰهُ مُؤۡمِنَيۡنِ فَخَشِيۡنَاۤ اَنۡ يُّرۡهِقَهُمَا
-  طُغۡيَانًا وَّكُفۡرًا​ۚ‏
+arabic_ayat: وَأَمَّا ٱلۡغُلَٰمُ فَكَانَ أَبَوَاهُ مُؤۡمِنَيۡنِ فَخَشِينَآ أَن يُرۡهِقَهُمَا
+  طُغۡيَٰنٗا وَكُفۡرٗا
 sentence_translation: “And as for the boy, his parents were ˹true˺ believers, and
   we feared that he would pressure them into defiance and disbelief.
 word_by_word:
   1:
-    arabic: وَاَمَّا
+    arabic: وَأَمَّا
     translation: And as for
     transliteration: wa-ammā
   2:
-    arabic: الۡغُلٰمُ
+    arabic: ٱلۡغُلَٰمُ
     translation: the boy
     transliteration: l-ghulāmu
   3:
@@ -17,7 +17,7 @@ word_by_word:
     translation: his parents were
     transliteration: fakāna
   4:
-    arabic: اَبَوٰهُ
+    arabic: أَبَوَاهُ
     translation: his parents were
     transliteration: abawāhu
   5:
@@ -25,23 +25,23 @@ word_by_word:
     translation: believers
     transliteration: mu'minayni
   6:
-    arabic: فَخَشِيۡنَاۤ
+    arabic: فَخَشِينَآ
     translation: and we feared
     transliteration: fakhashīnā
   7:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that
     transliteration: an
   8:
-    arabic: يُّرۡهِقَهُمَا
+    arabic: يُرۡهِقَهُمَا
     translation: he would overburden them
     transliteration: yur'hiqahumā
   9:
-    arabic: طُغۡيَانًا
+    arabic: طُغۡيَٰنٗا
     translation: (by) transgression
     transliteration: ṭugh'yānan
   10:
-    arabic: وَّكُفۡرًا​ۚ‏
+    arabic: وَكُفۡرٗا
     translation: and disbelief
     transliteration: wakuf'ran
 ---

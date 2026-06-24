@@ -1,12 +1,12 @@
 ---
-arabic_ayat: ​اِذۡ قَالَ اللّٰهُ يٰعِيۡسَى ابۡنَ مَرۡيَمَ اذۡكُرۡ نِعۡمَتِىۡ عَلَيۡكَ
-  وَعَلٰى وَالِدَتِكَ​ ۘ اِذۡ اَيَّدتُّكَ بِرُوۡحِ الۡقُدُسِ تُكَلِّمُ النَّاسَ فِىۡ
-  الۡمَهۡدِ وَكَهۡلًا ​ ۚوَاِذۡ عَلَّمۡتُكَ الۡـكِتٰبَ وَالۡحِكۡمَةَ وَالتَّوۡرٰٮةَ
-  وَالۡاِنۡجِيۡلَ​ ۚ وَاِذۡ تَخۡلُقُ مِنَ الطِّيۡنِ كَهَيۡــَٔـةِ الطَّيۡرِ بِاِذۡنِىۡ
-  فَتَـنۡفُخُ فِيۡهَا فَتَكُوۡنُ طَيۡرًۢا بِاِذۡنِىۡ​ وَ تُبۡرِئُ الۡاَكۡمَهَ وَالۡاَبۡرَصَ
-  بِاِذۡنِىۡ​ ۚ وَاِذۡ تُخۡرِجُ الۡمَوۡتٰى بِاِذۡنِىۡ​ ۚ وَاِذۡ كَفَفۡتُ بَنِىۡۤ اِسۡرَآءِيۡلَ
-  عَنۡكَ اِذۡ جِئۡتَهُمۡ بِالۡبَيِّنٰتِ فَقَالَ الَّذِيۡنَ كَفَرُوۡا مِنۡهُمۡ اِنۡ
-  هٰذَاۤ اِلَّا سِحۡرٌ مُّبِيۡنٌ‏
+arabic_ayat: إِذۡ قَالَ ٱللَّهُ يَٰعِيسَى ٱبۡنَ مَرۡيَمَ ٱذۡكُرۡ نِعۡمَتِي عَلَيۡكَ
+  وَعَلَىٰ وَٰلِدَتِكَ إِذۡ أَيَّدتُّكَ بِرُوحِ ٱلۡقُدُسِ تُكَلِّمُ ٱلنَّاسَ فِي ٱلۡمَهۡدِ
+  وَكَهۡلٗاۖ وَإِذۡ عَلَّمۡتُكَ ٱلۡكِتَٰبَ وَٱلۡحِكۡمَةَ وَٱلتَّوۡرَىٰةَ وَٱلۡإِنجِيلَۖ
+  وَإِذۡ تَخۡلُقُ مِنَ ٱلطِّينِ كَهَيۡـَٔةِ ٱلطَّيۡرِ بِإِذۡنِي فَتَنفُخُ فِيهَا فَتَكُونُ
+  طَيۡرَۢا بِإِذۡنِيۖ وَتُبۡرِئُ ٱلۡأَكۡمَهَ وَٱلۡأَبۡرَصَ بِإِذۡنِيۖ وَإِذۡ تُخۡرِجُ
+  ٱلۡمَوۡتَىٰ بِإِذۡنِيۖ وَإِذۡ كَفَفۡتُ بَنِيٓ إِسۡرَٰٓءِيلَ عَنكَ إِذۡ جِئۡتَهُم
+  بِٱلۡبَيِّنَٰتِ فَقَالَ ٱلَّذِينَ كَفَرُواْ مِنۡهُمۡ إِنۡ هَٰذَآ إِلَّا سِحۡرٞ
+  مُّبِينٞ
 sentence_translation: 'And ˹on Judgment Day˺ Allah will say, “O Jesus, son of Mary!
   Remember My favour upon you and your mother: how I supported you with the holy spirit so
   you spoke to people in ˹your˺ infancy and adulthood. How I taught you writing, wisdom,
@@ -17,7 +17,7 @@ sentence_translation: 'And ˹on Judgment Day˺ Allah will say, “O Jesus, son o
   and the disbelievers among them said, “This is nothing but pure magic.”'
 word_by_word:
   1:
-    arabic: ​اِذۡ
+    arabic: إِذۡ
     translation: When
     transliteration: idh
   2:
@@ -25,15 +25,15 @@ word_by_word:
     translation: said
     transliteration: qāla
   3:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   4:
-    arabic: يٰعِيۡسَى
+    arabic: يَٰعِيسَى
     translation: O Isa
     transliteration: yāʿīsā
   5:
-    arabic: ابۡنَ
+    arabic: ٱبۡنَ
     translation: son
     transliteration: ib'na
   6:
@@ -41,11 +41,11 @@ word_by_word:
     translation: (of) Maryam
     transliteration: maryama
   7:
-    arabic: اذۡكُرۡ
+    arabic: ٱذۡكُرۡ
     translation: Remember
     transliteration: udh'kur
   8:
-    arabic: نِعۡمَتِىۡ
+    arabic: نِعۡمَتِي
     translation: My Favor
     transliteration: niʿ'matī
   9:
@@ -53,27 +53,27 @@ word_by_word:
     translation: upon you
     transliteration: ʿalayka
   10:
-    arabic: وَعَلٰى
+    arabic: وَعَلَىٰ
     translation: and upon
     transliteration: waʿalā
   11:
-    arabic: وَالِدَتِكَ​ ۘ
+    arabic: وَٰلِدَتِكَ
     translation: your mother
     transliteration: wālidatika
   12:
-    arabic: اِذۡ
+    arabic: إِذۡ
     translation: when
     transliteration: idh
   13:
-    arabic: اَيَّدتُّكَ
+    arabic: أَيَّدتُّكَ
     translation: I strengthened you
     transliteration: ayyadttuka
   14:
-    arabic: بِرُوۡحِ
+    arabic: بِرُوحِ
     translation: with (the) Spirit
     transliteration: birūḥi
   15:
-    arabic: الۡقُدُسِ
+    arabic: ٱلۡقُدُسِ
     translation: the Holy
     transliteration: l-qudusi
   16:
@@ -81,23 +81,23 @@ word_by_word:
     translation: you spoke
     transliteration: tukallimu
   17:
-    arabic: النَّاسَ
+    arabic: ٱلنَّاسَ
     translation: (to) the people
     transliteration: l-nāsa
   18:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   19:
-    arabic: الۡمَهۡدِ
+    arabic: ٱلۡمَهۡدِ
     translation: the cradle
     transliteration: l-mahdi
   20:
-    arabic: وَكَهۡلًا ​ ۚ
+    arabic: وَكَهۡلٗاۖ
     translation: and (in) maturity
     transliteration: wakahlan
   21:
-    arabic: وَاِذۡ
+    arabic: وَإِذۡ
     translation: And when
     transliteration: wa-idh
   22:
@@ -105,23 +105,23 @@ word_by_word:
     translation: I taught you
     transliteration: ʿallamtuka
   23:
-    arabic: الۡـكِتٰبَ
+    arabic: ٱلۡكِتَٰبَ
     translation: the Book
     transliteration: l-kitāba
   24:
-    arabic: وَالۡحِكۡمَةَ
+    arabic: وَٱلۡحِكۡمَةَ
     translation: and the wisdom
     transliteration: wal-ḥik'mata
   25:
-    arabic: وَالتَّوۡرٰٮةَ
+    arabic: وَٱلتَّوۡرَىٰةَ
     translation: and the Taurat
     transliteration: wal-tawrāta
   26:
-    arabic: وَالۡاِنۡجِيۡلَ​ ۚ
+    arabic: وَٱلۡإِنجِيلَۖ
     translation: and the Injeel
     transliteration: wal-injīla
   27:
-    arabic: وَاِذۡ
+    arabic: وَإِذۡ
     translation: and when
     transliteration: wa-idh
   28:
@@ -133,59 +133,59 @@ word_by_word:
     translation: from
     transliteration: mina
   30:
-    arabic: الطِّيۡنِ
+    arabic: ٱلطِّينِ
     translation: the clay
     transliteration: l-ṭīni
   31:
-    arabic: كَهَيۡــَٔـةِ
+    arabic: كَهَيۡـَٔةِ
     translation: like the shape
     transliteration: kahayati
   32:
-    arabic: الطَّيۡرِ
+    arabic: ٱلطَّيۡرِ
     translation: (of) the bird
     transliteration: l-ṭayri
   33:
-    arabic: بِاِذۡنِىۡ
+    arabic: بِإِذۡنِي
     translation: by My permission
     transliteration: bi-idh'nī
   34:
-    arabic: فَتَـنۡفُخُ
+    arabic: فَتَنفُخُ
     translation: then you breath
     transliteration: fatanfukhu
   35:
-    arabic: فِيۡهَا
+    arabic: فِيهَا
     translation: into it
     transliteration: fīhā
   36:
-    arabic: فَتَكُوۡنُ
+    arabic: فَتَكُونُ
     translation: and it becomes
     transliteration: fatakūnu
   37:
-    arabic: طَيۡرًۢا
+    arabic: طَيۡرَۢا
     translation: a bird
     transliteration: ṭayran
   38:
-    arabic: بِاِذۡنِىۡ​
+    arabic: بِإِذۡنِيۖ
     translation: by My permission
     transliteration: bi-idh'nī
   39:
-    arabic: وَ تُبۡرِئُ
+    arabic: وَتُبۡرِئُ
     translation: and you heal
     transliteration: watub'ri-u
   40:
-    arabic: الۡاَكۡمَهَ
+    arabic: ٱلۡأَكۡمَهَ
     translation: the born blind
     transliteration: l-akmaha
   41:
-    arabic: وَالۡاَبۡرَصَ
+    arabic: وَٱلۡأَبۡرَصَ
     translation: and the leper
     transliteration: wal-abraṣa
   42:
-    arabic: بِاِذۡنِىۡ​ ۚ
+    arabic: بِإِذۡنِيۖ
     translation: by My permission
     transliteration: bi-idh'nī
   43:
-    arabic: وَاِذۡ
+    arabic: وَإِذۡ
     translation: and when
     transliteration: wa-idh
   44:
@@ -193,15 +193,15 @@ word_by_word:
     translation: you bring forth
     transliteration: tukh'riju
   45:
-    arabic: الۡمَوۡتٰى
+    arabic: ٱلۡمَوۡتَىٰ
     translation: the dead
     transliteration: l-mawtā
   46:
-    arabic: بِاِذۡنِىۡ​ ۚ
+    arabic: بِإِذۡنِيۖ
     translation: by My permission
     transliteration: bi-idh'nī
   47:
-    arabic: وَاِذۡ
+    arabic: وَإِذۡ
     translation: And when
     transliteration: wa-idh
   48:
@@ -209,27 +209,27 @@ word_by_word:
     translation: I restrained
     transliteration: kafaftu
   49:
-    arabic: بَنِىۡۤ
+    arabic: بَنِيٓ
     translation: (the) Children
     transliteration: banī
   50:
-    arabic: اِسۡرَآءِيۡلَ
+    arabic: إِسۡرَٰٓءِيلَ
     translation: (of) Israel
     transliteration: is'rāīla
   51:
-    arabic: عَنۡكَ
+    arabic: عَنكَ
     translation: from you
     transliteration: ʿanka
   52:
-    arabic: اِذۡ
+    arabic: إِذۡ
     translation: when
     transliteration: idh
   53:
-    arabic: جِئۡتَهُمۡ
+    arabic: جِئۡتَهُم
     translation: you came to them
     transliteration: ji'tahum
   54:
-    arabic: بِالۡبَيِّنٰتِ
+    arabic: بِٱلۡبَيِّنَٰتِ
     translation: with the clear proofs
     transliteration: bil-bayināti
   55:
@@ -237,11 +237,11 @@ word_by_word:
     translation: then said
     transliteration: faqāla
   56:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   57:
-    arabic: كَفَرُوۡا
+    arabic: كَفَرُواْ
     translation: disbelieved
     transliteration: kafarū
   58:
@@ -249,23 +249,23 @@ word_by_word:
     translation: among them
     transliteration: min'hum
   59:
-    arabic: اِنۡ
+    arabic: إِنۡ
     translation: Not
     transliteration: in
   60:
-    arabic: هٰذَاۤ
+    arabic: هَٰذَآ
     translation: (is) this
     transliteration: hādhā
   61:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: but
     transliteration: illā
   62:
-    arabic: سِحۡرٌ
+    arabic: سِحۡرٞ
     translation: magic
     transliteration: siḥ'run
   63:
-    arabic: مُّبِيۡنٌ‏
+    arabic: مُّبِينٞ
     translation: clear
     transliteration: mubīnun
 ---

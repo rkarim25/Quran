@@ -1,9 +1,8 @@
 ---
-arabic_ayat: شَرَعَ لَـكُمۡ مِّنَ الدِّيۡنِ مَا وَصّٰى بِهٖ نُوۡحًا وَّالَّذِىۡۤ اَوۡحَيۡنَاۤ
-  اِلَيۡكَ وَمَا وَصَّيۡنَا بِهٖۤ اِبۡرٰهِيۡمَ وَمُوۡسٰى وَعِيۡسٰٓى اَنۡ اَقِيۡمُوا
-  الدِّيۡنَ وَ لَا تَتَفَرَّقُوۡا فِيۡهِ​ؕ كَبُـرَ عَلَى الۡمُشۡرِكِيۡنَ مَا تَدۡعُوۡهُمۡ
-  اِلَيۡهِ​ ؕ اَللّٰهُ يَجۡتَبِىۡۤ اِلَيۡهِ مَنۡ يَّشَآءُ وَيَهۡدِىۡۤ اِلَيۡهِ مَنۡ
-  يُّنِيۡبُ‏
+arabic_ayat: ۞ شَرَعَ لَكُم مِّنَ ٱلدِّينِ مَا وَصَّىٰ بِهِۦ نُوحٗا وَٱلَّذِيٓ أَوۡحَيۡنَآ
+  إِلَيۡكَ وَمَا وَصَّيۡنَا بِهِۦٓ إِبۡرَٰهِيمَ وَمُوسَىٰ وَعِيسَىٰٓۖ أَنۡ أَقِيمُواْ
+  ٱلدِّينَ وَلَا تَتَفَرَّقُواْ فِيهِۚ كَبُرَ عَلَى ٱلۡمُشۡرِكِينَ مَا تَدۡعُوهُمۡ
+  إِلَيۡهِۚ ٱللَّهُ يَجۡتَبِيٓ إِلَيۡهِ مَن يَشَآءُ وَيَهۡدِيٓ إِلَيۡهِ مَن يُنِيبُ
 sentence_translation: He has ordained for you ˹believers˺ the Way which He decreed
   for Noah, and what We have revealed to you ˹O Prophet˺ and what We decreed for Abraham,
   Moses, and Jesus, ˹commanding:˺ “Uphold the faith, and make no divisions in it.”
@@ -11,11 +10,11 @@ sentence_translation: He has ordained for you ˹believers˺ the Way which He dec
   whoever He wills, and guides to Himself whoever turns ˹to Him˺.
 word_by_word:
   1:
-    arabic: ۞ شَرَعَ
+    arabic: ۞ شَرَعَ
     translation: He has ordained
     transliteration: sharaʿa
   2:
-    arabic: لَـكُمۡ
+    arabic: لَكُم
     translation: for you
     transliteration: lakum
   3:
@@ -23,7 +22,7 @@ word_by_word:
     translation: of
     transliteration: mina
   4:
-    arabic: الدِّيۡنِ
+    arabic: ٱلدِّينِ
     translation: the religion
     transliteration: l-dīni
   5:
@@ -31,27 +30,27 @@ word_by_word:
     translation: what
     transliteration: mā
   6:
-    arabic: وَصّٰى
+    arabic: وَصَّىٰ
     translation: He enjoined
     transliteration: waṣṣā
   7:
-    arabic: بِهٖ
+    arabic: بِهِۦ
     translation: upon
     transliteration: bihi
   8:
-    arabic: نُوۡحًا
+    arabic: نُوحٗا
     translation: Nuh
     transliteration: nūḥan
   9:
-    arabic: وَّالَّذِىۡۤ
+    arabic: وَٱلَّذِيٓ
     translation: and that which
     transliteration: wa-alladhī
   10:
-    arabic: اَوۡحَيۡنَاۤ
+    arabic: أَوۡحَيۡنَآ
     translation: We have revealed
     transliteration: awḥaynā
   11:
-    arabic: اِلَيۡكَ
+    arabic: إِلَيۡكَ
     translation: to you
     transliteration: ilayka
   12:
@@ -63,47 +62,47 @@ word_by_word:
     translation: We enjoined
     transliteration: waṣṣaynā
   14:
-    arabic: بِهٖۤ
+    arabic: بِهِۦٓ
     translation: upon
     transliteration: bihi
   15:
-    arabic: اِبۡرٰهِيۡمَ
+    arabic: إِبۡرَٰهِيمَ
     translation: Ibrahim
     transliteration: ib'rāhīma
   16:
-    arabic: وَمُوۡسٰى
+    arabic: وَمُوسَىٰ
     translation: and Musa
     transliteration: wamūsā
   17:
-    arabic: وَعِيۡسٰٓى
+    arabic: وَعِيسَىٰٓۖ
     translation: and Isa
     transliteration: waʿīsā
   18:
-    arabic: اَنۡ
+    arabic: أَنۡ
     translation: To
     transliteration: an
   19:
-    arabic: اَقِيۡمُوا
+    arabic: أَقِيمُواْ
     translation: establish
     transliteration: aqīmū
   20:
-    arabic: الدِّيۡنَ
+    arabic: ٱلدِّينَ
     translation: the religion
     transliteration: l-dīna
   21:
-    arabic: وَ لَا
+    arabic: وَلَا
     translation: and not
     transliteration: walā
   22:
-    arabic: تَتَفَرَّقُوۡا
+    arabic: تَتَفَرَّقُواْ
     translation: be divided
     transliteration: tatafarraqū
   23:
-    arabic: فِيۡهِ​ؕ
+    arabic: فِيهِۚ
     translation: therein
     transliteration: fīhi
   24:
-    arabic: كَبُـرَ
+    arabic: كَبُرَ
     translation: Is difficult
     transliteration: kabura
   25:
@@ -111,7 +110,7 @@ word_by_word:
     translation: 'on'
     transliteration: ʿalā
   26:
-    arabic: الۡمُشۡرِكِيۡنَ
+    arabic: ٱلۡمُشۡرِكِينَ
     translation: the polytheists
     transliteration: l-mush'rikīna
   27:
@@ -119,47 +118,47 @@ word_by_word:
     translation: what
     transliteration: mā
   28:
-    arabic: تَدۡعُوۡهُمۡ
+    arabic: تَدۡعُوهُمۡ
     translation: you call them
     transliteration: tadʿūhum
   29:
-    arabic: اِلَيۡهِ​ ؕ
+    arabic: إِلَيۡهِۚ
     translation: to it
     transliteration: ilayhi
   30:
-    arabic: اَللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   31:
-    arabic: يَجۡتَبِىۡۤ
+    arabic: يَجۡتَبِيٓ
     translation: chooses
     transliteration: yajtabī
   32:
-    arabic: اِلَيۡهِ
+    arabic: إِلَيۡهِ
     translation: for Himself
     transliteration: ilayhi
   33:
-    arabic: مَنۡ
+    arabic: مَن
     translation: whom
     transliteration: man
   34:
-    arabic: يَّشَآءُ
+    arabic: يَشَآءُ
     translation: He wills
     transliteration: yashāu
   35:
-    arabic: وَيَهۡدِىۡۤ
+    arabic: وَيَهۡدِيٓ
     translation: and guides
     transliteration: wayahdī
   36:
-    arabic: اِلَيۡهِ
+    arabic: إِلَيۡهِ
     translation: to Himself
     transliteration: ilayhi
   37:
-    arabic: مَنۡ
+    arabic: مَن
     translation: whoever
     transliteration: man
   38:
-    arabic: يُّنِيۡبُ‏
+    arabic: يُنِيبُ
     translation: turns
     transliteration: yunību
 ---

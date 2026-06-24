@@ -1,34 +1,34 @@
 ---
-arabic_ayat: وَيَقُوۡلُوۡنَ مَتٰى هٰذَا الۡفَتۡحُ اِنۡ كُنۡتُمۡ صٰدِقِيۡنَ‏
+arabic_ayat: وَيَقُولُونَ مَتَىٰ هَٰذَا ٱلۡفَتۡحُ إِن كُنتُمۡ صَٰدِقِينَ
 sentence_translation: They ask ˹mockingly˺, “When is this ˹Day of final˺ Decision,
   if what you say is true?”
 word_by_word:
   1:
-    arabic: وَيَقُوۡلُوۡنَ
+    arabic: وَيَقُولُونَ
     translation: And they say
     transliteration: wayaqūlūna
   2:
-    arabic: مَتٰى
+    arabic: مَتَىٰ
     translation: When (will be)
     transliteration: matā
   3:
-    arabic: هٰذَا
+    arabic: هَٰذَا
     translation: this
     transliteration: hādhā
   4:
-    arabic: الۡفَتۡحُ
+    arabic: ٱلۡفَتۡحُ
     translation: decision
     transliteration: l-fatḥu
   5:
-    arabic: اِنۡ
+    arabic: إِن
     translation: if
     transliteration: in
   6:
-    arabic: كُنۡتُمۡ
+    arabic: كُنتُمۡ
     translation: you are
     transliteration: kuntum
   7:
-    arabic: صٰدِقِيۡنَ‏
+    arabic: صَٰدِقِينَ
     translation: truthful
     transliteration: ṣādiqīna
 ---

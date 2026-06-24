@@ -1,21 +1,21 @@
 ---
-arabic_ayat: اِنۡ اَنۡتَ اِلَّا نَذِيۡرٌ‏
+arabic_ayat: إِنۡ أَنتَ إِلَّا نَذِيرٌ
 sentence_translation: You are only a warner.
 word_by_word:
   1:
-    arabic: اِنۡ
+    arabic: إِنۡ
     translation: Not
     transliteration: in
   2:
-    arabic: اَنۡتَ
+    arabic: أَنتَ
     translation: you (are)
     transliteration: anta
   3:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: but
     transliteration: illā
   4:
-    arabic: نَذِيۡرٌ‏
+    arabic: نَذِيرٌ
     translation: a warner
     transliteration: nadhīrun
 ---

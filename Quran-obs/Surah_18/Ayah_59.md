@@ -1,6 +1,6 @@
 ---
-arabic_ayat: وَتِلۡكَ الۡقُرٰٓى اَهۡلَكۡنٰهُمۡ لَمَّا ظَلَمُوۡا وَجَعَلۡنَا لِمَهۡلِكِهِمۡ
-  مَّوۡعِدًا‏
+arabic_ayat: وَتِلۡكَ ٱلۡقُرَىٰٓ أَهۡلَكۡنَٰهُمۡ لَمَّا ظَلَمُواْ وَجَعَلۡنَا لِمَهۡلِكِهِم
+  مَّوۡعِدٗا
 sentence_translation: Those ˹are the˺ societies We destroyed when they persisted in
   wrong, and We had set a time for their destruction.
 word_by_word:
@@ -9,11 +9,11 @@ word_by_word:
     translation: And these
     transliteration: watil'ka
   2:
-    arabic: الۡقُرٰٓى
+    arabic: ٱلۡقُرَىٰٓ
     translation: '[the] towns'
     transliteration: l-qurā
   3:
-    arabic: اَهۡلَكۡنٰهُمۡ
+    arabic: أَهۡلَكۡنَٰهُمۡ
     translation: We destroyed them
     transliteration: ahlaknāhum
   4:
@@ -21,7 +21,7 @@ word_by_word:
     translation: when
     transliteration: lammā
   5:
-    arabic: ظَلَمُوۡا
+    arabic: ظَلَمُواْ
     translation: they wronged
     transliteration: ẓalamū
   6:
@@ -29,11 +29,11 @@ word_by_word:
     translation: and We made
     transliteration: wajaʿalnā
   7:
-    arabic: لِمَهۡلِكِهِمۡ
+    arabic: لِمَهۡلِكِهِم
     translation: for their destruction
     transliteration: limahlikihim
   8:
-    arabic: مَّوۡعِدًا‏
+    arabic: مَّوۡعِدٗا
     translation: an appointed time
     transliteration: mawʿidan
 ---

@@ -1,15 +1,15 @@
 ---
-arabic_ayat: نَحۡنُ اَعۡلَمُ بِمَا يَقُوۡلُوۡنَ اِذۡ يَقُوۡلُ اَمۡثَلُهُمۡ طَرِيۡقَةً
-  اِنۡ لَّبِثۡتُمۡ اِلَّا يَوۡمًا‏
+arabic_ayat: نَّحۡنُ أَعۡلَمُ بِمَا يَقُولُونَ إِذۡ يَقُولُ أَمۡثَلُهُمۡ طَرِيقَةً
+  إِن لَّبِثۡتُمۡ إِلَّا يَوۡمٗا
 sentence_translation: We know best what they will say—the most reasonable of them
   will say, “You stayed no more than a day.”
 word_by_word:
   1:
-    arabic: نَحۡنُ
+    arabic: نَّحۡنُ
     translation: We
     transliteration: naḥnu
   2:
-    arabic: اَعۡلَمُ
+    arabic: أَعۡلَمُ
     translation: know best
     transliteration: aʿlamu
   3:
@@ -17,27 +17,27 @@ word_by_word:
     translation: what
     transliteration: bimā
   4:
-    arabic: يَقُوۡلُوۡنَ
+    arabic: يَقُولُونَ
     translation: they will say
     transliteration: yaqūlūna
   5:
-    arabic: اِذۡ
+    arabic: إِذۡ
     translation: when
     transliteration: idh
   6:
-    arabic: يَقُوۡلُ
+    arabic: يَقُولُ
     translation: will say
     transliteration: yaqūlu
   7:
-    arabic: اَمۡثَلُهُمۡ
+    arabic: أَمۡثَلُهُمۡ
     translation: (the) best of them
     transliteration: amthaluhum
   8:
-    arabic: طَرِيۡقَةً
+    arabic: طَرِيقَةً
     translation: (in) conduct
     transliteration: ṭarīqatan
   9:
-    arabic: اِنۡ
+    arabic: إِن
     translation: Not
     transliteration: in
   10:
@@ -45,11 +45,11 @@ word_by_word:
     translation: you remained
     transliteration: labith'tum
   11:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except (for)
     transliteration: illā
   12:
-    arabic: يَوۡمًا‏
+    arabic: يَوۡمٗا
     translation: a day
     transliteration: yawman
 ---

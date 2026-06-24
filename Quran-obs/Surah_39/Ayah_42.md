@@ -1,15 +1,14 @@
 ---
-arabic_ayat: "اَللّٰهُ يَتَوَفَّى الۡاَنۡفُسَ حِيۡنَ مَوۡتِهَا وَالَّتِىۡ لَمۡ تَمُتۡ\
-  \ فِىۡ مَنَامِهَا​ ۚ فَيُمۡسِكُ الَّتِىۡ قَضٰى عَلَيۡهَا الۡمَوۡتَ وَ يُرۡسِلُ الۡاُخۡرٰٓى\
-  \ اِلٰٓى اَجَلٍ مُّسَمًّى​ ؕ اِنَّ فِىۡ ذٰ لِكَ لَاٰیٰتٍ لِّقَوۡمٍ يَّتَفَكَّرُوۡنَ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: ٱللَّهُ يَتَوَفَّى ٱلۡأَنفُسَ حِينَ مَوۡتِهَا وَٱلَّتِي لَمۡ تَمُتۡ فِي
+  مَنَامِهَاۖ فَيُمۡسِكُ ٱلَّتِي قَضَىٰ عَلَيۡهَا ٱلۡمَوۡتَ وَيُرۡسِلُ ٱلۡأُخۡرَىٰٓ
+  إِلَىٰٓ أَجَلٖ مُّسَمًّىۚ إِنَّ فِي ذَٰلِكَ لَأٓيَٰتٖ لِّقَوۡمٖ يَتَفَكَّرُونَ
 sentence_translation: ˹It is˺ Allah ˹Who˺ calls back the souls ˹of people˺ upon their
   death as well as ˹the souls˺ of the living during their sleep. Then He keeps those
   for whom He has ordained death, and releases the others until ˹their˺ appointed
   time. Surely in this are signs for people who reflect.
 word_by_word:
   1:
-    arabic: اَللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: al-lahu
   2:
@@ -17,11 +16,11 @@ word_by_word:
     translation: takes
     transliteration: yatawaffā
   3:
-    arabic: الۡاَنۡفُسَ
+    arabic: ٱلۡأَنفُسَ
     translation: the souls
     transliteration: l-anfusa
   4:
-    arabic: حِيۡنَ
+    arabic: حِينَ
     translation: (at the) time
     transliteration: ḥīna
   5:
@@ -29,7 +28,7 @@ word_by_word:
     translation: (of) their death
     transliteration: mawtihā
   6:
-    arabic: وَالَّتِىۡ
+    arabic: وَٱلَّتِي
     translation: and the one who
     transliteration: wa-allatī
   7:
@@ -41,11 +40,11 @@ word_by_word:
     translation: die
     transliteration: tamut
   9:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   10:
-    arabic: مَنَامِهَا​ ۚ
+    arabic: مَنَامِهَاۖ
     translation: their sleep
     transliteration: manāmihā
   11:
@@ -53,11 +52,11 @@ word_by_word:
     translation: Then He keeps
     transliteration: fayum'siku
   12:
-    arabic: الَّتِىۡ
+    arabic: ٱلَّتِي
     translation: the one whom
     transliteration: allatī
   13:
-    arabic: قَضٰى
+    arabic: قَضَىٰ
     translation: He has decreed
     transliteration: qaḍā
   14:
@@ -65,51 +64,51 @@ word_by_word:
     translation: for them
     transliteration: ʿalayhā
   15:
-    arabic: الۡمَوۡتَ
+    arabic: ٱلۡمَوۡتَ
     translation: the death
     transliteration: l-mawta
   16:
-    arabic: وَ يُرۡسِلُ
+    arabic: وَيُرۡسِلُ
     translation: and sends
     transliteration: wayur'silu
   17:
-    arabic: الۡاُخۡرٰٓى
+    arabic: ٱلۡأُخۡرَىٰٓ
     translation: the others
     transliteration: l-ukh'rā
   18:
-    arabic: اِلٰٓى
+    arabic: إِلَىٰٓ
     translation: for
     transliteration: ilā
   19:
-    arabic: اَجَلٍ
+    arabic: أَجَلٖ
     translation: a term
     transliteration: ajalin
   20:
-    arabic: مُّسَمًّى​ ؕ
+    arabic: مُّسَمًّىۚ
     translation: specified
     transliteration: musamman
   21:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   22:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   23:
-    arabic: ذٰ لِكَ
+    arabic: ذَٰلِكَ
     translation: that
     transliteration: dhālika
   24:
-    arabic: لَاٰیٰتٍ
+    arabic: لَأٓيَٰتٖ
     translation: surely (are) signs
     transliteration: laāyātin
   25:
-    arabic: لِّقَوۡمٍ
+    arabic: لِّقَوۡمٖ
     translation: for a people
     transliteration: liqawmin
   26:
-    arabic: "يَّتَفَكَّرُوۡنَ‏ \uFEFF\uFEFF"
+    arabic: يَتَفَكَّرُونَ
     translation: who ponder
     transliteration: yatafakkarūna
 ---

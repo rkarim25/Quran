@@ -1,47 +1,47 @@
 ---
-arabic_ayat: وَّمَاۤ اَظُنُّ السَّاعَةَ قَآٮِٕمَةً  ۙ وَّلَٮِٕنۡ رُّدِدْتُّ اِلٰى
-  رَبِّىۡ لَاَجِدَنَّ خَيۡرًا مِّنۡهَا مُنۡقَلَبًا‏
+arabic_ayat: وَمَآ أَظُنُّ ٱلسَّاعَةَ قَآئِمَةٗ وَلَئِن رُّدِدتُّ إِلَىٰ رَبِّي
+  لَأَجِدَنَّ خَيۡرٗا مِّنۡهَا مُنقَلَبٗا
 sentence_translation: nor do I think the Hour will ˹ever˺ come. And if in fact I am
   returned to my Lord, I will definitely get a far better outcome than ˹all˺ this.”
 word_by_word:
   1:
-    arabic: وَّمَاۤ
+    arabic: وَمَآ
     translation: And not
     transliteration: wamā
   2:
-    arabic: اَظُنُّ
+    arabic: أَظُنُّ
     translation: I think
     transliteration: aẓunnu
   3:
-    arabic: السَّاعَةَ
+    arabic: ٱلسَّاعَةَ
     translation: the Hour
     transliteration: l-sāʿata
   4:
-    arabic: قَآٮِٕمَةً  ۙ
+    arabic: قَآئِمَةٗ
     translation: will occur
     transliteration: qāimatan
   5:
-    arabic: وَّلَٮِٕنۡ
+    arabic: وَلَئِن
     translation: And if
     transliteration: wala-in
   6:
-    arabic: رُّدِدْتُّ
+    arabic: رُّدِدتُّ
     translation: I am brought back
     transliteration: rudidttu
   7:
-    arabic: اِلٰى
+    arabic: إِلَىٰ
     translation: to
     transliteration: ilā
   8:
-    arabic: رَبِّىۡ
+    arabic: رَبِّي
     translation: my Lord
     transliteration: rabbī
   9:
-    arabic: لَاَجِدَنَّ
+    arabic: لَأَجِدَنَّ
     translation: I will surely find
     transliteration: la-ajidanna
   10:
-    arabic: خَيۡرًا
+    arabic: خَيۡرٗا
     translation: better
     transliteration: khayran
   11:
@@ -49,7 +49,7 @@ word_by_word:
     translation: than this
     transliteration: min'hā
   12:
-    arabic: مُنۡقَلَبًا‏
+    arabic: مُنقَلَبٗا
     translation: (as) a return
     transliteration: munqalaban
 ---

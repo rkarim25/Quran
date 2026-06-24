@@ -1,7 +1,7 @@
 ---
-arabic_ayat: "رَبَّنَا وَاجۡعَلۡنَا مُسۡلِمَيۡنِ لَـكَ وَ مِنۡ ذُرِّيَّتِنَآ اُمَّةً\
-  \ مُّسۡلِمَةً لَّكَ وَاَرِنَا مَنَاسِكَنَا وَتُبۡ عَلَيۡنَا ۚ اِنَّكَ اَنۡتَ التَّوَّابُ\
-  \ الرَّحِيۡمُ‏ \uFEFF\uFEFF"
+arabic_ayat: رَبَّنَا وَٱجۡعَلۡنَا مُسۡلِمَيۡنِ لَكَ وَمِن ذُرِّيَّتِنَآ أُمَّةٗ
+  مُّسۡلِمَةٗ لَّكَ وَأَرِنَا مَنَاسِكَنَا وَتُبۡ عَلَيۡنَآۖ إِنَّكَ أَنتَ ٱلتَّوَّابُ
+  ٱلرَّحِيمُ
 sentence_translation: Our Lord! Make us both ˹fully˺ submit to You and from our descendants
   a nation that will submit to you. Show us our rituals, and turn to us in grace.
   You are truly the Accepter of Repentance, Most Merciful.
@@ -11,7 +11,7 @@ word_by_word:
     translation: Our Lord
     transliteration: rabbanā
   2:
-    arabic: وَاجۡعَلۡنَا
+    arabic: وَٱجۡعَلۡنَا
     translation: '[and] Make us'
     transliteration: wa-ij'ʿalnā
   3:
@@ -19,11 +19,11 @@ word_by_word:
     translation: both submissive
     transliteration: mus'limayni
   4:
-    arabic: لَـكَ
+    arabic: لَكَ
     translation: to You
     transliteration: laka
   5:
-    arabic: وَ مِنۡ
+    arabic: وَمِن
     translation: And from
     transliteration: wamin
   6:
@@ -31,19 +31,19 @@ word_by_word:
     translation: our offspring
     transliteration: dhurriyyatinā
   7:
-    arabic: اُمَّةً
+    arabic: أُمَّةٗ
     translation: a community
     transliteration: ummatan
   8:
-    arabic: مُّسۡلِمَةً
+    arabic: مُّسۡلِمَةٗ
     translation: submissive
     transliteration: mus'limatan
   9:
-    arabic: لَّكَ
+    arabic: لَّكَ
     translation: to You
     transliteration: laka
   10:
-    arabic: وَاَرِنَا
+    arabic: وَأَرِنَا
     translation: And show us
     transliteration: wa-arinā
   11:
@@ -55,23 +55,23 @@ word_by_word:
     translation: and turn
     transliteration: watub
   13:
-    arabic: عَلَيۡنَا ۚ
+    arabic: عَلَيۡنَآۖ
     translation: to us
     transliteration: ʿalaynā
   14:
-    arabic: اِنَّكَ
+    arabic: إِنَّكَ
     translation: Indeed You
     transliteration: innaka
   15:
-    arabic: اَنۡتَ
+    arabic: أَنتَ
     translation: '[You] (are)'
     transliteration: anta
   16:
-    arabic: التَّوَّابُ
+    arabic: ٱلتَّوَّابُ
     translation: the Oft-returning
     transliteration: l-tawābu
   17:
-    arabic: "الرَّحِيۡمُ‏ \uFEFF\uFEFF"
+    arabic: ٱلرَّحِيمُ
     translation: the Most Merciful
     transliteration: l-raḥīmu
 ---

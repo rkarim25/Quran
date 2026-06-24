@@ -1,31 +1,31 @@
 ---
-arabic_ayat: اِلَّا طَرِيۡقَ جَهَـنَّمَ خٰلِدِيۡنَ فِيۡهَاۤ اَبَدًا​ ؕ وَكَانَ ذٰ
-  لِكَ عَلَى اللّٰهِ يَسِيۡرًا‏
+arabic_ayat: إِلَّا طَرِيقَ جَهَنَّمَ خَٰلِدِينَ فِيهَآ أَبَدٗاۚ وَكَانَ ذَٰلِكَ
+  عَلَى ٱللَّهِ يَسِيرٗا
 sentence_translation: except that of Hell, to stay there for ever and ever. And that
   is easy for Allah.
 word_by_word:
   1:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: Except
     transliteration: illā
   2:
-    arabic: طَرِيۡقَ
+    arabic: طَرِيقَ
     translation: (the) way
     transliteration: ṭarīqa
   3:
-    arabic: جَهَـنَّمَ
+    arabic: جَهَنَّمَ
     translation: (to) Hell
     transliteration: jahannama
   4:
-    arabic: خٰلِدِيۡنَ
+    arabic: خَٰلِدِينَ
     translation: abiding
     transliteration: khālidīna
   5:
-    arabic: فِيۡهَاۤ
+    arabic: فِيهَآ
     translation: in it
     transliteration: fīhā
   6:
-    arabic: اَبَدًا​ ؕ
+    arabic: أَبَدٗاۚ
     translation: forever
     transliteration: abadan
   7:
@@ -33,7 +33,7 @@ word_by_word:
     translation: And is
     transliteration: wakāna
   8:
-    arabic: ذٰ لِكَ
+    arabic: ذَٰلِكَ
     translation: that
     transliteration: dhālika
   9:
@@ -41,11 +41,11 @@ word_by_word:
     translation: for
     transliteration: ʿalā
   10:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   11:
-    arabic: يَسِيۡرًا‏
+    arabic: يَسِيرٗا
     translation: easy
     transliteration: yasīran
 ---

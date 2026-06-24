@@ -1,11 +1,11 @@
 ---
-arabic_ayat: اُولٰٓٮِٕكَ جَزَآؤُهُمۡ اَنَّ عَلَيۡهِمۡ لَعۡنَةَ اللّٰهِ وَالۡمَلٰٓٮِٕكَةِ
-  وَالنَّاسِ اَجۡمَعِيۡنَۙ‏
+arabic_ayat: أُوْلَٰٓئِكَ جَزَآؤُهُمۡ أَنَّ عَلَيۡهِمۡ لَعۡنَةَ ٱللَّهِ وَٱلۡمَلَٰٓئِكَةِ
+  وَٱلنَّاسِ أَجۡمَعِينَ
 sentence_translation: Their reward is that they will be condemned by Allah, the angels,
   and all of humanity.
 word_by_word:
   1:
-    arabic: اُولٰٓٮِٕكَ
+    arabic: أُوْلَٰٓئِكَ
     translation: 'Those '
     transliteration: ulāika
   2:
@@ -13,7 +13,7 @@ word_by_word:
     translation: their recompense
     transliteration: jazāuhum
   3:
-    arabic: اَنَّ
+    arabic: أَنَّ
     translation: that
     transliteration: anna
   4:
@@ -25,19 +25,19 @@ word_by_word:
     translation: (is the) curse
     transliteration: laʿnata
   6:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (of) Allah
     transliteration: l-lahi
   7:
-    arabic: وَالۡمَلٰٓٮِٕكَةِ
+    arabic: وَٱلۡمَلَٰٓئِكَةِ
     translation: and the Angels
     transliteration: wal-malāikati
   8:
-    arabic: وَالنَّاسِ
+    arabic: وَٱلنَّاسِ
     translation: and the people
     transliteration: wal-nāsi
   9:
-    arabic: اَجۡمَعِيۡنَۙ‏
+    arabic: أَجۡمَعِينَ
     translation: all together
     transliteration: ajmaʿīna
 ---

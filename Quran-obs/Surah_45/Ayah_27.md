@@ -1,12 +1,12 @@
 ---
-arabic_ayat: وَلِلّٰهِ مُلۡكُ السَّمٰوٰتِ وَالۡاَرۡضِ​ؕ وَيَوۡمَ تَقُوۡمُ السَّاعَةُ
-  يَوۡمَٮِٕذٍ يَّخۡسَرُ الۡمُبۡطِلُوۡنَ‏
+arabic_ayat: وَلِلَّهِ مُلۡكُ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِۚ وَيَوۡمَ تَقُومُ ٱلسَّاعَةُ
+  يَوۡمَئِذٖ يَخۡسَرُ ٱلۡمُبۡطِلُونَ
 sentence_translation: To Allah ˹alone˺ belongs the kingdom of the heavens and the
   earth. On the Day the Hour will be established, the people of falsehood will then
   be in ˹total˺ loss.
 word_by_word:
   1:
-    arabic: وَلِلّٰهِ
+    arabic: وَلِلَّهِ
     translation: And for Allah
     transliteration: walillahi
   2:
@@ -14,11 +14,11 @@ word_by_word:
     translation: (is the) dominion
     transliteration: mul'ku
   3:
-    arabic: السَّمٰوٰتِ
+    arabic: ٱلسَّمَٰوَٰتِ
     translation: (of) the heavens
     transliteration: l-samāwāti
   4:
-    arabic: وَالۡاَرۡضِ​ؕ
+    arabic: وَٱلۡأَرۡضِۚ
     translation: and the earth
     transliteration: wal-arḍi
   5:
@@ -26,23 +26,23 @@ word_by_word:
     translation: and (the) Day
     transliteration: wayawma
   6:
-    arabic: تَقُوۡمُ
+    arabic: تَقُومُ
     translation: is established
     transliteration: taqūmu
   7:
-    arabic: السَّاعَةُ
+    arabic: ٱلسَّاعَةُ
     translation: the Hour
     transliteration: l-sāʿatu
   8:
-    arabic: يَوۡمَٮِٕذٍ
+    arabic: يَوۡمَئِذٖ
     translation: that Day
     transliteration: yawma-idhin
   9:
-    arabic: يَّخۡسَرُ
+    arabic: يَخۡسَرُ
     translation: will lose
     transliteration: yakhsaru
   10:
-    arabic: الۡمُبۡطِلُوۡنَ‏
+    arabic: ٱلۡمُبۡطِلُونَ
     translation: the falsifiers
     transliteration: l-mub'ṭilūna
 ---

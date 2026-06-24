@@ -1,6 +1,6 @@
 ---
-arabic_ayat: وَنُقَلِّبُ اَفۡـــِٕدَتَهُمۡ وَاَبۡصَارَهُمۡ كَمَا لَمۡ يُؤۡمِنُوۡا
-  بِهٖۤ اَوَّلَ مَرَّةٍ وَّنَذَرُهُمۡ فِىۡ طُغۡيَانِهِمۡ يَعۡمَهُوۡنَ‏
+arabic_ayat: وَنُقَلِّبُ أَفۡـِٔدَتَهُمۡ وَأَبۡصَٰرَهُمۡ كَمَا لَمۡ يُؤۡمِنُواْ بِهِۦٓ
+  أَوَّلَ مَرَّةٖ وَنَذَرُهُمۡ فِي طُغۡيَٰنِهِمۡ يَعۡمَهُونَ
 sentence_translation: We turn their hearts and eyes away ˹from the truth˺ as they
   refused to believe at first, leaving them to wander blindly in their defiance.
 word_by_word:
@@ -9,11 +9,11 @@ word_by_word:
     translation: And We will turn
     transliteration: wanuqallibu
   2:
-    arabic: اَفۡـــِٕدَتَهُمۡ
+    arabic: أَفۡـِٔدَتَهُمۡ
     translation: their hearts
     transliteration: afidatahum
   3:
-    arabic: وَاَبۡصَارَهُمۡ
+    arabic: وَأَبۡصَٰرَهُمۡ
     translation: and their sights
     transliteration: wa-abṣārahum
   4:
@@ -25,35 +25,35 @@ word_by_word:
     translation: not
     transliteration: lam
   6:
-    arabic: يُؤۡمِنُوۡا
+    arabic: يُؤۡمِنُواْ
     translation: they believe
     transliteration: yu'minū
   7:
-    arabic: بِهٖۤ
+    arabic: بِهِۦٓ
     translation: in it
     transliteration: bihi
   8:
-    arabic: اَوَّلَ
+    arabic: أَوَّلَ
     translation: (the) first
     transliteration: awwala
   9:
-    arabic: مَرَّةٍ
+    arabic: مَرَّةٖ
     translation: time
     transliteration: marratin
   10:
-    arabic: وَّنَذَرُهُمۡ
+    arabic: وَنَذَرُهُمۡ
     translation: And We will leave them
     transliteration: wanadharuhum
   11:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   12:
-    arabic: طُغۡيَانِهِمۡ
+    arabic: طُغۡيَٰنِهِمۡ
     translation: their transgression
     transliteration: ṭugh'yānihim
   13:
-    arabic: يَعۡمَهُوۡنَ‏
+    arabic: يَعۡمَهُونَ
     translation: wandering blindly
     transliteration: yaʿmahūna
 ---

@@ -1,13 +1,12 @@
 ---
-arabic_ayat: "وَجَدْتُّهَا وَقَوۡمَهَا يَسۡجُدُوۡنَ لِلشَّمۡسِ مِنۡ دُوۡنِ اللّٰهِ\
-  \ وَزَيَّنَ لَهُمُ الشَّيۡطٰنُ اَعۡمَالَهُمۡ فَصَدَّهُمۡ عَنِ السَّبِيۡلِ فَهُمۡ\
-  \ لَا يَهۡتَدُوۡنَۙ‏ \uFEFF\uFEFF"
+arabic_ayat: وَجَدتُّهَا وَقَوۡمَهَا يَسۡجُدُونَ لِلشَّمۡسِ مِن دُونِ ٱللَّهِ وَزَيَّنَ
+  لَهُمُ ٱلشَّيۡطَٰنُ أَعۡمَٰلَهُمۡ فَصَدَّهُمۡ عَنِ ٱلسَّبِيلِ فَهُمۡ لَا يَهۡتَدُونَ
 sentence_translation: I found her and her people prostrating to the sun instead of
   Allah. For Satan has made their deeds appealing to them—hindering them from the
   ˹Right˺ Way and leaving them unguided—
 word_by_word:
   1:
-    arabic: وَجَدْتُّهَا
+    arabic: وَجَدتُّهَا
     translation: And I found her
     transliteration: wajadttuhā
   2:
@@ -15,7 +14,7 @@ word_by_word:
     translation: and her people
     transliteration: waqawmahā
   3:
-    arabic: يَسۡجُدُوۡنَ
+    arabic: يَسۡجُدُونَ
     translation: prostrating
     transliteration: yasjudūna
   4:
@@ -23,15 +22,15 @@ word_by_word:
     translation: to the sun
     transliteration: lilshamsi
   5:
-    arabic: مِنۡ
+    arabic: مِن
     translation: instead of Allah
     transliteration: min
   6:
-    arabic: دُوۡنِ
+    arabic: دُونِ
     translation: instead of Allah
     transliteration: dūni
   7:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: instead of Allah
     transliteration: l-lahi
   8:
@@ -43,11 +42,11 @@ word_by_word:
     translation: to them
     transliteration: lahumu
   10:
-    arabic: الشَّيۡطٰنُ
+    arabic: ٱلشَّيۡطَٰنُ
     translation: the Shaitaan
     transliteration: l-shayṭānu
   11:
-    arabic: اَعۡمَالَهُمۡ
+    arabic: أَعۡمَٰلَهُمۡ
     translation: their deeds
     transliteration: aʿmālahum
   12:
@@ -59,7 +58,7 @@ word_by_word:
     translation: from
     transliteration: ʿani
   14:
-    arabic: السَّبِيۡلِ
+    arabic: ٱلسَّبِيلِ
     translation: the Way
     transliteration: l-sabīli
   15:
@@ -71,7 +70,7 @@ word_by_word:
     translation: (are) not
     transliteration: lā
   17:
-    arabic: "يَهۡتَدُوۡنَۙ‏ \uFEFF\uFEFF"
+    arabic: يَهۡتَدُونَ
     translation: guided
     transliteration: yahtadūna
 ---

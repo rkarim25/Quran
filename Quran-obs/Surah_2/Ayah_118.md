@@ -1,7 +1,7 @@
 ---
-arabic_ayat: وَقَالَ الَّذِيۡنَ لَا يَعۡلَمُوۡنَ لَوۡلَا يُكَلِّمُنَا اللّٰهُ اَوۡ
-  تَاۡتِيۡنَآ اٰيَةٌ ​ ؕ كَذٰلِكَ قَالَ الَّذِيۡنَ مِنۡ قَبۡلِهِمۡ مِّثۡلَ قَوۡلِهِمۡؕ​
-  تَشَابَهَتۡ قُلُوۡبُهُمۡ​ؕ قَدۡ بَيَّنَّا الۡاٰيٰتِ لِقَوۡمٍ يُّوۡقِنُوۡنَ‏
+arabic_ayat: وَقَالَ ٱلَّذِينَ لَا يَعۡلَمُونَ لَوۡلَا يُكَلِّمُنَا ٱللَّهُ أَوۡ تَأۡتِينَآ
+  ءَايَةٞۗ كَذَٰلِكَ قَالَ ٱلَّذِينَ مِن قَبۡلِهِم مِّثۡلَ قَوۡلِهِمۡۘ تَشَٰبَهَتۡ
+  قُلُوبُهُمۡۗ قَدۡ بَيَّنَّا ٱلۡأٓيَٰتِ لِقَوۡمٖ يُوقِنُونَ
 sentence_translation: Those who have no knowledge say, “If only Allah would speak
   to us or a sign would come to us!” The same was said by those who came before. Their
   hearts are all alike. Indeed, We have made the signs clear for people of sure faith.
@@ -11,7 +11,7 @@ word_by_word:
     translation: And said
     transliteration: waqāla
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   3:
@@ -19,7 +19,7 @@ word_by_word:
     translation: (do) not
     transliteration: lā
   4:
-    arabic: يَعۡلَمُوۡنَ
+    arabic: يَعۡلَمُونَ
     translation: know
     transliteration: yaʿlamūna
   5:
@@ -31,23 +31,23 @@ word_by_word:
     translation: speaks to us
     transliteration: yukallimunā
   7:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   8:
-    arabic: اَوۡ
+    arabic: أَوۡ
     translation: or
     transliteration: aw
   9:
-    arabic: تَاۡتِيۡنَآ
+    arabic: تَأۡتِينَآ ءَ
     translation: comes to us
     transliteration: tatīnā
   10:
-    arabic: اٰيَةٌ ​ ؕ
+    arabic: ايَةٞۗ
     translation: a sign
     transliteration: āyatun
   11:
-    arabic: كَذٰلِكَ
+    arabic: كَذَٰلِكَ
     translation: Like that
     transliteration: kadhālika
   12:
@@ -55,15 +55,15 @@ word_by_word:
     translation: said
     transliteration: qāla
   13:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those
     transliteration: alladhīna
   14:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   15:
-    arabic: قَبۡلِهِمۡ
+    arabic: قَبۡلِهِم
     translation: before them
     transliteration: qablihim
   16:
@@ -71,15 +71,15 @@ word_by_word:
     translation: similar
     transliteration: mith'la
   17:
-    arabic: قَوۡلِهِمۡؕ​
+    arabic: قَوۡلِهِمۡۘ
     translation: their saying
     transliteration: qawlihim
   18:
-    arabic: تَشَابَهَتۡ
+    arabic: تَشَٰبَهَتۡ
     translation: Became alike
     transliteration: tashābahat
   19:
-    arabic: قُلُوۡبُهُمۡ​ؕ
+    arabic: قُلُوبُهُمۡۗ
     translation: their hearts
     transliteration: qulūbuhum
   20:
@@ -91,15 +91,15 @@ word_by_word:
     translation: We have made clear
     transliteration: bayyannā
   22:
-    arabic: الۡاٰيٰتِ
+    arabic: ٱلۡأٓيَٰتِ
     translation: the signs
     transliteration: l-āyāti
   23:
-    arabic: لِقَوۡمٍ
+    arabic: لِقَوۡمٖ
     translation: for people
     transliteration: liqawmin
   24:
-    arabic: يُّوۡقِنُوۡنَ‏
+    arabic: يُوقِنُونَ
     translation: (who) firmly believe
     transliteration: yūqinūna
 ---

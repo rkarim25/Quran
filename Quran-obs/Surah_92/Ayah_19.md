@@ -1,5 +1,5 @@
 ---
-arabic_ayat: وَمَا لِاَحَدٍ عِنۡدَهٗ مِنۡ نِّعۡمَةٍ تُجۡزٰٓىۙ‏
+arabic_ayat: وَمَا لِأَحَدٍ عِندَهُۥ مِن نِّعۡمَةٖ تُجۡزَىٰٓ
 sentence_translation: not in return for someone’s favours,
 word_by_word:
   1:
@@ -7,23 +7,23 @@ word_by_word:
     translation: And not
     transliteration: wamā
   2:
-    arabic: لِاَحَدٍ
+    arabic: لِأَحَدٍ
     translation: for anyone
     transliteration: li-aḥadin
   3:
-    arabic: عِنۡدَهٗ
+    arabic: عِندَهُۥ
     translation: with him
     transliteration: ʿindahu
   4:
-    arabic: مِنۡ
+    arabic: مِن
     translation: any
     transliteration: min
   5:
-    arabic: نِّعۡمَةٍ
+    arabic: نِّعۡمَةٖ
     translation: favor
     transliteration: niʿ'matin
   6:
-    arabic: تُجۡزٰٓىۙ‏
+    arabic: تُجۡزَىٰٓ
     translation: to be recompensed
     transliteration: tuj'zā
 ---

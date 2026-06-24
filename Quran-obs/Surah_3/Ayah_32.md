@@ -1,6 +1,6 @@
 ---
-arabic_ayat: قُلۡ اَطِيۡعُوا اللّٰهَ وَالرَّسُوۡلَ​​ ۚ فَاِنۡ تَوَلَّوۡا فَاِنَّ اللّٰهَ
-  لَا يُحِبُّ الۡكٰفِرِيۡنَ‏
+arabic_ayat: قُلۡ أَطِيعُواْ ٱللَّهَ وَٱلرَّسُولَۖ فَإِن تَوَلَّوۡاْ فَإِنَّ ٱللَّهَ
+  لَا يُحِبُّ ٱلۡكَٰفِرِينَ
 sentence_translation: Say, ˹O Prophet,˺ “Obey Allah and His Messenger.” If they still
   turn away, then truly Allah does not like the disbelievers.
 word_by_word:
@@ -9,31 +9,31 @@ word_by_word:
     translation: Say
     transliteration: qul
   2:
-    arabic: اَطِيۡعُوا
+    arabic: أَطِيعُواْ
     translation: Obey
     transliteration: aṭīʿū
   3:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   4:
-    arabic: وَالرَّسُوۡلَ​​ ۚ
+    arabic: وَٱلرَّسُولَۖ
     translation: and the Messenger
     transliteration: wal-rasūla
   5:
-    arabic: فَاِنۡ
+    arabic: فَإِن
     translation: Then if
     transliteration: fa-in
   6:
-    arabic: تَوَلَّوۡا
+    arabic: تَوَلَّوۡاْ
     translation: 'they turn away '
     transliteration: tawallaw
   7:
-    arabic: فَاِنَّ
+    arabic: فَإِنَّ
     translation: then indeed
     transliteration: fa-inna
   8:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   9:
@@ -45,7 +45,7 @@ word_by_word:
     translation: love
     transliteration: yuḥibbu
   11:
-    arabic: الۡكٰفِرِيۡنَ‏
+    arabic: ٱلۡكَٰفِرِينَ
     translation: the disbelievers
     transliteration: l-kāfirīna
 ---

@@ -1,5 +1,5 @@
 ---
-arabic_ayat: وَمَا يَنۡطِقُ عَنِ الۡهَوٰىؕ‏
+arabic_ayat: وَمَا يَنطِقُ عَنِ ٱلۡهَوَىٰٓ
 sentence_translation: Nor does he speak of his own whims.
 word_by_word:
   1:
@@ -7,7 +7,7 @@ word_by_word:
     translation: And not
     transliteration: wamā
   2:
-    arabic: يَنۡطِقُ
+    arabic: يَنطِقُ
     translation: he speaks
     transliteration: yanṭiqu
   3:
@@ -15,7 +15,7 @@ word_by_word:
     translation: from
     transliteration: ʿani
   4:
-    arabic: الۡهَوٰىؕ‏
+    arabic: ٱلۡهَوَىٰٓ
     translation: the desire
     transliteration: l-hawā
 ---

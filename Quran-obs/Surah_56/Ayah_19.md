@@ -1,5 +1,5 @@
 ---
-arabic_ayat: لَّا يُصَدَّعُوۡنَ عَنۡهَا وَلَا يُنۡزِفُوۡنَۙ‏
+arabic_ayat: لَّا يُصَدَّعُونَ عَنۡهَا وَلَا يُنزِفُونَ
 sentence_translation: that will cause them neither headache nor intoxication.
 word_by_word:
   1:
@@ -7,7 +7,7 @@ word_by_word:
     translation: Not
     transliteration: lā
   2:
-    arabic: يُصَدَّعُوۡنَ
+    arabic: يُصَدَّعُونَ
     translation: they will get headache
     transliteration: yuṣaddaʿūna
   3:
@@ -19,7 +19,7 @@ word_by_word:
     translation: and not
     transliteration: walā
   5:
-    arabic: يُنۡزِفُوۡنَۙ‏
+    arabic: يُنزِفُونَ
     translation: they will get intoxicated
     transliteration: yunzifūna
 ---

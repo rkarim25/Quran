@@ -1,5 +1,5 @@
 ---
-arabic_ayat: وَلَا يَصُدَّنَّكُمُ الشَّيۡطٰنُ​ ۚ اِنَّهٗ لَكُمۡ عَدُوٌّ مُّبِيۡنٌ‏
+arabic_ayat: وَلَا يَصُدَّنَّكُمُ ٱلشَّيۡطَٰنُۖ إِنَّهُۥ لَكُمۡ عَدُوّٞ مُّبِينٞ
 sentence_translation: And do not let Satan hinder you, ˹for˺ he is certainly your
   sworn enemy.
 word_by_word:
@@ -12,11 +12,11 @@ word_by_word:
     translation: avert you
     transliteration: yaṣuddannakumu
   3:
-    arabic: الشَّيۡطٰنُ​ ۚ
+    arabic: ٱلشَّيۡطَٰنُۖ
     translation: the Shaitaan
     transliteration: l-shayṭānu
   4:
-    arabic: اِنَّهٗ
+    arabic: إِنَّهُۥ
     translation: Indeed, he
     transliteration: innahu
   5:
@@ -24,11 +24,11 @@ word_by_word:
     translation: (is) for you
     transliteration: lakum
   6:
-    arabic: عَدُوٌّ
+    arabic: عَدُوّٞ
     translation: an enemy
     transliteration: ʿaduwwun
   7:
-    arabic: مُّبِيۡنٌ‏
+    arabic: مُّبِينٞ
     translation: clear
     transliteration: mubīnun
 ---

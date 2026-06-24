@@ -1,32 +1,32 @@
 ---
-arabic_ayat: اِنَّ الَّذِيۡنَ تَدۡعُوۡنَ مِنۡ دُوۡنِ اللّٰهِ عِبَادٌ اَمۡثَالُـكُمۡ​
-  فَادۡعُوۡهُمۡ فَلۡيَسۡتَجِيۡبُوۡا لَـكُمۡ اِنۡ كُنۡتُمۡ صٰدِقِيۡنَ‏
+arabic_ayat: إِنَّ ٱلَّذِينَ تَدۡعُونَ مِن دُونِ ٱللَّهِ عِبَادٌ أَمۡثَالُكُمۡۖ فَٱدۡعُوهُمۡ
+  فَلۡيَسۡتَجِيبُواْ لَكُمۡ إِن كُنتُمۡ صَٰدِقِينَ
 sentence_translation: Those ˹idols˺ you invoke besides Allah are created beings like
   yourselves. So call upon them and see if they will answer you, if your claims are
   true!
 word_by_word:
   1:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those whom
     transliteration: alladhīna
   3:
-    arabic: تَدۡعُوۡنَ
+    arabic: تَدۡعُونَ
     translation: you call
     transliteration: tadʿūna
   4:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   5:
-    arabic: دُوۡنِ
+    arabic: دُونِ
     translation: besides
     transliteration: dūni
   6:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   7:
@@ -34,31 +34,31 @@ word_by_word:
     translation: (are) slaves
     transliteration: ʿibādun
   8:
-    arabic: اَمۡثَالُـكُمۡ​
+    arabic: أَمۡثَالُكُمۡۖ
     translation: like you
     transliteration: amthālukum
   9:
-    arabic: فَادۡعُوۡهُمۡ
+    arabic: فَٱدۡعُوهُمۡ
     translation: So invoke them
     transliteration: fa-id'ʿūhum
   10:
-    arabic: فَلۡيَسۡتَجِيۡبُوۡا
+    arabic: فَلۡيَسۡتَجِيبُواْ
     translation: and let them respond
     transliteration: falyastajībū
   11:
-    arabic: لَـكُمۡ
+    arabic: لَكُمۡ
     translation: to you
     transliteration: lakum
   12:
-    arabic: اِنۡ
+    arabic: إِن
     translation: if
     transliteration: in
   13:
-    arabic: كُنۡتُمۡ
+    arabic: كُنتُمۡ
     translation: you are
     transliteration: kuntum
   14:
-    arabic: صٰدِقِيۡنَ‏
+    arabic: صَٰدِقِينَ
     translation: truthful
     transliteration: ṣādiqīna
 ---

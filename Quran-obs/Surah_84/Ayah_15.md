@@ -1,18 +1,18 @@
 ---
-arabic_ayat: بَلٰٓى ۛۚ اِنَّ رَبَّهٗ كَانَ بِهٖ بَصِيۡرًا ؕ‏
+arabic_ayat: بَلَىٰٓۚ إِنَّ رَبَّهُۥ كَانَ بِهِۦ بَصِيرٗا
 sentence_translation: Yes ˹they would˺! Surely their Lord has always been All-Seeing
   of them.
 word_by_word:
   1:
-    arabic: بَلٰٓى ۛۚ
+    arabic: بَلَىٰٓۚ
     translation: 'Yes'
     transliteration: balā
   2:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   3:
-    arabic: رَبَّهٗ
+    arabic: رَبَّهُۥ
     translation: his Lord
     transliteration: rabbahu
   4:
@@ -20,11 +20,11 @@ word_by_word:
     translation: was
     transliteration: kāna
   5:
-    arabic: بِهٖ
+    arabic: بِهِۦ
     translation: of him
     transliteration: bihi
   6:
-    arabic: بَصِيۡرًا ؕ‏
+    arabic: بَصِيرٗا
     translation: All-Seer
     transliteration: baṣīran
 ---

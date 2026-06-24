@@ -1,13 +1,13 @@
 ---
-arabic_ayat: وَاللّٰهُ خَلَقَكُمۡ ثُمَّ يَتَوَفّٰٮكُمۡ​ۙ وَمِنۡكُمۡ مَّنۡ يُّرَدُّ
-  اِلٰٓى اَرۡذَلِ الۡعُمُرِ لِكَىۡ لَا يَعۡلَمَ بَعۡدَ عِلۡمٍ شَيۡــًٔا​ؕ اِنَّ اللّٰهَ
-  عَلِيۡمٌ قَدِيۡرٌ‏
+arabic_ayat: وَٱللَّهُ خَلَقَكُمۡ ثُمَّ يَتَوَفَّىٰكُمۡۚ وَمِنكُم مَّن يُرَدُّ إِلَىٰٓ
+  أَرۡذَلِ ٱلۡعُمُرِ لِكَيۡ لَا يَعۡلَمَ بَعۡدَ عِلۡمٖ شَيۡـًٔاۚ إِنَّ ٱللَّهَ عَلِيمٞ
+  قَدِيرٞ
 sentence_translation: Allah has created you, and then causes you to die. And some
   of you are left to reach the most feeble stage of life so that they may know nothing
   after having known much. Indeed, Allah is All-Knowing, Most Capable.
 word_by_word:
   1:
-    arabic: وَاللّٰهُ
+    arabic: وَٱللَّهُ
     translation: And Allah
     transliteration: wal-lahu
   2:
@@ -19,35 +19,35 @@ word_by_word:
     translation: then
     transliteration: thumma
   4:
-    arabic: يَتَوَفّٰٮكُمۡ​ۙ
+    arabic: يَتَوَفَّىٰكُمۡۚ
     translation: will cause you to die
     transliteration: yatawaffākum
   5:
-    arabic: وَمِنۡكُمۡ
+    arabic: وَمِنكُم
     translation: And among you
     transliteration: waminkum
   6:
-    arabic: مَّنۡ
+    arabic: مَّن
     translation: (is one) who
     transliteration: man
   7:
-    arabic: يُّرَدُّ
+    arabic: يُرَدُّ
     translation: is sent back
     transliteration: yuraddu
   8:
-    arabic: اِلٰٓى
+    arabic: إِلَىٰٓ
     translation: to
     transliteration: ilā
   9:
-    arabic: اَرۡذَلِ
+    arabic: أَرۡذَلِ
     translation: the worst
     transliteration: ardhali
   10:
-    arabic: الۡعُمُرِ
+    arabic: ٱلۡعُمُرِ
     translation: (of) the age
     transliteration: l-ʿumuri
   11:
-    arabic: لِكَىۡ
+    arabic: لِكَيۡ
     translation: so that
     transliteration: likay
   12:
@@ -63,27 +63,27 @@ word_by_word:
     translation: after
     transliteration: baʿda
   15:
-    arabic: عِلۡمٍ
+    arabic: عِلۡمٖ
     translation: knowledge
     transliteration: ʿil'min
   16:
-    arabic: شَيۡــًٔا​ؕ
+    arabic: شَيۡـًٔاۚ
     translation: a thing
     transliteration: shayan
   17:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   18:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   19:
-    arabic: عَلِيۡمٌ
+    arabic: عَلِيمٞ
     translation: (is) All-Knowing
     transliteration: ʿalīmun
   20:
-    arabic: قَدِيۡرٌ‏
+    arabic: قَدِيرٞ
     translation: All-Powerful
     transliteration: qadīrun
 ---

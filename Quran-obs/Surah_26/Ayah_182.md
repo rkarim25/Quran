@@ -1,17 +1,17 @@
 ---
-arabic_ayat: وَزِنُوۡا بِالۡقِسۡطَاسِ الۡمُسۡتَقِيۡمِ​ۚ‏
+arabic_ayat: وَزِنُواْ بِٱلۡقِسۡطَاسِ ٱلۡمُسۡتَقِيمِ
 sentence_translation: Weigh with an even balance,
 word_by_word:
   1:
-    arabic: وَزِنُوۡا
+    arabic: وَزِنُواْ
     translation: And weigh
     transliteration: wazinū
   2:
-    arabic: بِالۡقِسۡطَاسِ
+    arabic: بِٱلۡقِسۡطَاسِ
     translation: with a balance
     transliteration: bil-qis'ṭāsi
   3:
-    arabic: الۡمُسۡتَقِيۡمِ​ۚ‏
+    arabic: ٱلۡمُسۡتَقِيمِ
     translation: '[the] even'
     transliteration: l-mus'taqīmi
 ---

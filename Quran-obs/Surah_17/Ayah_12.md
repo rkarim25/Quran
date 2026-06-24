@@ -1,8 +1,7 @@
 ---
-arabic_ayat: "وَجَعَلۡنَا الَّيۡلَ وَالنَّهَارَ اٰيَتَيۡنِ​ فَمَحَوۡنَاۤ اٰيَةَ الَّيۡلِ\
-  \ وَجَعَلۡنَاۤ اٰيَةَ النَّهَارِ مُبۡصِرَةً لِّتَبۡتَغُوۡا فَضۡلًا مِّنۡ رَّبِّكُمۡ\
-  \ وَلِتَعۡلَمُوۡا عَدَدَ السِّنِيۡنَ وَالۡحِسَابَ​ؕ وَكُلَّ شَىۡءٍ فَصَّلۡنٰهُ تَفۡصِيۡلًا‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: وَجَعَلۡنَا ٱلَّيۡلَ وَٱلنَّهَارَ ءَايَتَيۡنِۖ فَمَحَوۡنَآ ءَايَةَ ٱلَّيۡلِ
+  وَجَعَلۡنَآ ءَايَةَ ٱلنَّهَارِ مُبۡصِرَةٗ لِّتَبۡتَغُواْ فَضۡلٗا مِّن رَّبِّكُمۡ
+  وَلِتَعۡلَمُواْ عَدَدَ ٱلسِّنِينَ وَٱلۡحِسَابَۚ وَكُلَّ شَيۡءٖ فَصَّلۡنَٰهُ تَفۡصِيلٗا
 sentence_translation: We made the day and night as two signs. So We made the sign
   of the night devoid of light, and We made the sign of the day ˹perfectly˺ bright,
   so that you may seek the bounty of your Lord and know the number of years and calculation
@@ -13,55 +12,55 @@ word_by_word:
     translation: And We have made
     transliteration: wajaʿalnā
   2:
-    arabic: الَّيۡلَ
+    arabic: ٱلَّيۡلَ
     translation: the night
     transliteration: al-layla
   3:
-    arabic: وَالنَّهَارَ
+    arabic: وَٱلنَّهَارَ ءَ
     translation: and the day
     transliteration: wal-nahāra
   4:
-    arabic: اٰيَتَيۡنِ​
+    arabic: ايَتَيۡنِۖ
     translation: (as) two signs
     transliteration: āyatayni
   5:
-    arabic: فَمَحَوۡنَاۤ
+    arabic: فَمَحَوۡنَآ ءَ
     translation: Then We erased
     transliteration: famaḥawnā
   6:
-    arabic: اٰيَةَ
+    arabic: ايَةَ
     translation: (the) sign
     transliteration: āyata
   7:
-    arabic: الَّيۡلِ
+    arabic: ٱلَّيۡلِ
     translation: (of) the night
     transliteration: al-layli
   8:
-    arabic: وَجَعَلۡنَاۤ
+    arabic: وَجَعَلۡنَآ ءَ
     translation: and We made
     transliteration: wajaʿalnā
   9:
-    arabic: اٰيَةَ
+    arabic: ايَةَ
     translation: (the) sign
     transliteration: āyata
   10:
-    arabic: النَّهَارِ
+    arabic: ٱلنَّهَارِ
     translation: (of) the day
     transliteration: l-nahāri
   11:
-    arabic: مُبۡصِرَةً
+    arabic: مُبۡصِرَةٗ
     translation: visible
     transliteration: mub'ṣiratan
   12:
-    arabic: لِّتَبۡتَغُوۡا
+    arabic: لِّتَبۡتَغُواْ
     translation: that you may seek
     transliteration: litabtaghū
   13:
-    arabic: فَضۡلًا
+    arabic: فَضۡلٗا
     translation: bounty
     transliteration: faḍlan
   14:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: from
     transliteration: min
   15:
@@ -69,7 +68,7 @@ word_by_word:
     translation: your Lord
     transliteration: rabbikum
   16:
-    arabic: وَلِتَعۡلَمُوۡا
+    arabic: وَلِتَعۡلَمُواْ
     translation: and that you may know
     transliteration: walitaʿlamū
   17:
@@ -77,11 +76,11 @@ word_by_word:
     translation: (the) number
     transliteration: ʿadada
   18:
-    arabic: السِّنِيۡنَ
+    arabic: ٱلسِّنِينَ
     translation: (of) the years
     transliteration: l-sinīna
   19:
-    arabic: وَالۡحِسَابَ​ؕ
+    arabic: وَٱلۡحِسَابَۚ
     translation: and the account
     transliteration: wal-ḥisāba
   20:
@@ -89,15 +88,15 @@ word_by_word:
     translation: And every
     transliteration: wakulla
   21:
-    arabic: شَىۡءٍ
+    arabic: شَيۡءٖ
     translation: 'thing '
     transliteration: shayin
   22:
-    arabic: فَصَّلۡنٰهُ
+    arabic: فَصَّلۡنَٰهُ
     translation: We have explained it
     transliteration: faṣṣalnāhu
   23:
-    arabic: "تَفۡصِيۡلًا‏ \uFEFF\uFEFF"
+    arabic: تَفۡصِيلٗا
     translation: (in) detail
     transliteration: tafṣīlan
 ---

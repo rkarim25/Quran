@@ -1,5 +1,5 @@
 ---
-arabic_ayat: عَبۡدًا اِذَا صَلّٰىؕ‏
+arabic_ayat: عَبۡدًا إِذَا صَلَّىٰٓ
 sentence_translation: a servant ˹of Ours˺ from praying?
 word_by_word:
   1:
@@ -7,11 +7,11 @@ word_by_word:
     translation: A slave
     transliteration: ʿabdan
   2:
-    arabic: اِذَا
+    arabic: إِذَا
     translation: when
     transliteration: idhā
   3:
-    arabic: صَلّٰىؕ‏
+    arabic: صَلَّىٰٓ
     translation: he prays
     transliteration: ṣallā
 ---

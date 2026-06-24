@@ -1,17 +1,17 @@
 ---
-arabic_ayat: كَاَنَّهُمۡ حُمُرٌ مُّسۡتَنۡفِرَةٌ ۙ‏
+arabic_ayat: كَأَنَّهُمۡ حُمُرٞ مُّسۡتَنفِرَةٞ
 sentence_translation: as if they were spooked zebras
 word_by_word:
   1:
-    arabic: كَاَنَّهُمۡ
+    arabic: كَأَنَّهُمۡ
     translation: As if they (were)
     transliteration: ka-annahum
   2:
-    arabic: حُمُرٌ
+    arabic: حُمُرٞ
     translation: donkeys
     transliteration: ḥumurun
   3:
-    arabic: مُّسۡتَنۡفِرَةٌ ۙ‏
+    arabic: مُّسۡتَنفِرَةٞ
     translation: frightened
     transliteration: mus'tanfiratun
 ---

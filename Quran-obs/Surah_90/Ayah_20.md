@@ -1,5 +1,5 @@
 ---
-arabic_ayat: عَلَيۡهِمۡ نَارٌ مُّؤۡصَدَةٌ‏
+arabic_ayat: عَلَيۡهِمۡ نَارٞ مُّؤۡصَدَةُۢ
 sentence_translation: The Fire will be sealed over them.
 word_by_word:
   1:
@@ -7,11 +7,11 @@ word_by_word:
     translation: Over them
     transliteration: ʿalayhim
   2:
-    arabic: نَارٌ
+    arabic: نَارٞ
     translation: (will be the) Fire
     transliteration: nārun
   3:
-    arabic: مُّؤۡصَدَةٌ‏
+    arabic: مُّؤۡصَدَةُۢ
     translation: closed in
     transliteration: mu'ṣadatun
 ---

@@ -1,16 +1,16 @@
 ---
-arabic_ayat: وَاٰتٰٮكُمۡ مِّنۡ كُلِّ مَا سَاَلۡـتُمُوۡهُ​ ؕ وَاِنۡ تَعُدُّوۡا نِعۡمَتَ
-  اللّٰهِ لَا تُحۡصُوۡهَا ؕ اِنَّ الۡاِنۡسَانَ لَـظَلُوۡمٌ كَفَّارٌ‏
+arabic_ayat: وَءَاتَىٰكُم مِّن كُلِّ مَا سَأَلۡتُمُوهُۚ وَإِن تَعُدُّواْ نِعۡمَتَ
+  ٱللَّهِ لَا تُحۡصُوهَآۗ إِنَّ ٱلۡإِنسَٰنَ لَظَلُومٞ كَفَّارٞ
 sentence_translation: And He has granted you all that you asked Him for. If you tried
   to count Allah’s blessings, you would never be able to number them. Indeed humankind
   is truly unfair, ˹totally˺ ungrateful. 
 word_by_word:
   1:
-    arabic: وَاٰتٰٮكُمۡ
+    arabic: وَءَاتَىٰكُم
     translation: And He gave you
     transliteration: waātākum
   2:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: of
     transliteration: min
   3:
@@ -22,15 +22,15 @@ word_by_word:
     translation: what
     transliteration: mā
   5:
-    arabic: سَاَلۡـتُمُوۡهُ​ ؕ
+    arabic: سَأَلۡتُمُوهُۚ
     translation: you asked of Him
     transliteration: sa-altumūhu
   6:
-    arabic: وَاِنۡ
+    arabic: وَإِن
     translation: And if
     transliteration: wa-in
   7:
-    arabic: تَعُدُّوۡا
+    arabic: تَعُدُّواْ
     translation: you count
     transliteration: taʿuddū
   8:
@@ -38,7 +38,7 @@ word_by_word:
     translation: (the) Favor of Allah
     transliteration: niʿ'mata
   9:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (the) Favor of Allah
     transliteration: l-lahi
   10:
@@ -46,23 +46,23 @@ word_by_word:
     translation: not
     transliteration: lā
   11:
-    arabic: تُحۡصُوۡهَا ؕ
+    arabic: تُحۡصُوهَآۗ
     translation: you will (be able to) count them
     transliteration: tuḥ'ṣūhā
   12:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   13:
-    arabic: الۡاِنۡسَانَ
+    arabic: ٱلۡإِنسَٰنَ
     translation: the mankind
     transliteration: l-insāna
   14:
-    arabic: لَـظَلُوۡمٌ
+    arabic: لَظَلُومٞ
     translation: (is) surely unjust
     transliteration: laẓalūmun
   15:
-    arabic: كَفَّارٌ‏
+    arabic: كَفَّارٞ
     translation: (and) ungrateful
     transliteration: kaffārun
 ---

@@ -1,35 +1,34 @@
 ---
-arabic_ayat: "شَاكِرًا لِّاَنۡعُمِهِ​ؕ اِجۡتَبٰٮهُ وَهَدٰٮهُ اِلٰى صِرَاطٍ مُّسۡتَقِيۡمٍ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: شَاكِرٗا لِّأَنۡعُمِهِۚ ٱجۡتَبَىٰهُ وَهَدَىٰهُ إِلَىٰ صِرَٰطٖ مُّسۡتَقِيمٖ
 sentence_translation: ˹utterly˺ grateful for Allah’s favours. ˹So˺ He chose him and
   guided him to the Straight Path.
 word_by_word:
   1:
-    arabic: شَاكِرًا
+    arabic: شَاكِرٗا
     translation: Thankful
     transliteration: shākiran
   2:
-    arabic: لِّاَنۡعُمِهِ​ؕ
+    arabic: لِّأَنۡعُمِهِۚ
     translation: for His favors
     transliteration: li-anʿumihi
   3:
-    arabic: اِجۡتَبٰٮهُ
+    arabic: ٱجۡتَبَىٰهُ
     translation: He chose him
     transliteration: ij'tabāhu
   4:
-    arabic: وَهَدٰٮهُ
+    arabic: وَهَدَىٰهُ
     translation: and guided him
     transliteration: wahadāhu
   5:
-    arabic: اِلٰى
+    arabic: إِلَىٰ
     translation: to
     transliteration: ilā
   6:
-    arabic: صِرَاطٍ
+    arabic: صِرَٰطٖ
     translation: the way
     transliteration: ṣirāṭin
   7:
-    arabic: "مُّسۡتَقِيۡمٍ‏ \uFEFF\uFEFF"
+    arabic: مُّسۡتَقِيمٖ
     translation: straight
     transliteration: mus'taqīmin
 ---

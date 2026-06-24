@@ -1,11 +1,11 @@
 ---
-arabic_ayat: قَالُوۡا نَحۡنُ اُولُوۡا قُوَّةٍ وَّاُولُوۡا بَاۡسٍ شَدِيۡدٍ ۙ وَّالۡاَمۡرُ
-  اِلَيۡكِ فَانْظُرِىۡ مَاذَا تَاۡمُرِيۡنَ‏
+arabic_ayat: قَالُواْ نَحۡنُ أُوْلُواْ قُوَّةٖ وَأُوْلُواْ بَأۡسٖ شَدِيدٖ وَٱلۡأَمۡرُ
+  إِلَيۡكِ فَٱنظُرِي مَاذَا تَأۡمُرِينَ
 sentence_translation: They responded, “We are a people of strength and great ˹military˺
   might, but the decision is yours, so decide what you will command.”
 word_by_word:
   1:
-    arabic: قَالُوۡا
+    arabic: قَالُواْ
     translation: They said
     transliteration: qālū
   2:
@@ -13,35 +13,35 @@ word_by_word:
     translation: We
     transliteration: naḥnu
   3:
-    arabic: اُولُوۡا
+    arabic: أُوْلُواْ
     translation: (are) possessors
     transliteration: ulū
   4:
-    arabic: قُوَّةٍ
+    arabic: قُوَّةٖ
     translation: (of) strength
     transliteration: quwwatin
   5:
-    arabic: وَّاُولُوۡا
+    arabic: وَأُوْلُواْ
     translation: and possessors
     transliteration: wa-ulū
   6:
-    arabic: بَاۡسٍ
+    arabic: بَأۡسٖ
     translation: (of) might
     transliteration: basin
   7:
-    arabic: شَدِيۡدٍ ۙ
+    arabic: شَدِيدٖ
     translation: great
     transliteration: shadīdin
   8:
-    arabic: وَّالۡاَمۡرُ
+    arabic: وَٱلۡأَمۡرُ
     translation: and the command
     transliteration: wal-amru
   9:
-    arabic: اِلَيۡكِ
+    arabic: إِلَيۡكِ
     translation: (is) up to you
     transliteration: ilayki
   10:
-    arabic: فَانْظُرِىۡ
+    arabic: فَٱنظُرِي
     translation: so look
     transliteration: fa-unẓurī
   11:
@@ -49,7 +49,7 @@ word_by_word:
     translation: what
     transliteration: mādhā
   12:
-    arabic: تَاۡمُرِيۡنَ‏
+    arabic: تَأۡمُرِينَ
     translation: you will command
     transliteration: tamurīna
 ---

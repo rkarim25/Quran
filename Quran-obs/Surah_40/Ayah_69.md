@@ -1,11 +1,11 @@
 ---
-arabic_ayat: اَلَمۡ تَرَ اِلَى الَّذِيۡنَ يُجَادِلُوۡنَ فِىۡۤ اٰيٰتِ اللّٰهِؕ اَنّٰى
-  يُصۡرَفُوۡنَ  ۛۚ ۙ‏
+arabic_ayat: أَلَمۡ تَرَ إِلَى ٱلَّذِينَ يُجَٰدِلُونَ فِيٓ ءَايَٰتِ ٱللَّهِ أَنَّىٰ
+  يُصۡرَفُونَ
 sentence_translation: Have you not seen how those who dispute Allah’s signs are turned
   away?
 word_by_word:
   1:
-    arabic: اَلَمۡ
+    arabic: أَلَمۡ
     translation: Do not
     transliteration: alam
   2:
@@ -13,35 +13,35 @@ word_by_word:
     translation: you see
     transliteration: tara
   3:
-    arabic: اِلَى
+    arabic: إِلَى
     translation: '[to]'
     transliteration: ilā
   4:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   5:
-    arabic: يُجَادِلُوۡنَ
+    arabic: يُجَٰدِلُونَ
     translation: dispute
     transliteration: yujādilūna
   6:
-    arabic: فِىۡۤ
+    arabic: فِيٓ ءَ
     translation: concerning
     transliteration: fī
   7:
-    arabic: اٰيٰتِ
+    arabic: ايَٰتِ
     translation: (the) Signs
     transliteration: āyāti
   8:
-    arabic: اللّٰهِؕ
+    arabic: ٱللَّهِ
     translation: (of) Allah
     transliteration: l-lahi
   9:
-    arabic: اَنّٰى
+    arabic: أَنَّىٰ
     translation: How
     transliteration: annā
   10:
-    arabic: يُصۡرَفُوۡنَ  ۛۚ ۙ‏
+    arabic: يُصۡرَفُونَ
     translation: they are turned away
     transliteration: yuṣ'rafūna
 ---

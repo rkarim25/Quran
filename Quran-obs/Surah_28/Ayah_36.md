@@ -1,6 +1,6 @@
 ---
-arabic_ayat: فَلَمَّا جَآءَهُمۡ مُّوۡسٰى بِاٰيٰتِنَا بَيِّنٰتٍ قَالُوۡا مَا هٰذَاۤ
-  اِلَّا سِحۡرٌ مُّفۡتَـرًى وَمَا سَمِعۡنَا بِهٰذَا فِىۡۤ اٰبَآٮِٕنَا الۡاَوَّلِيۡنَ‏
+arabic_ayat: فَلَمَّا جَآءَهُم مُّوسَىٰ بِـَٔايَٰتِنَا بَيِّنَٰتٖ قَالُواْ مَا هَٰذَآ
+  إِلَّا سِحۡرٞ مُّفۡتَرٗى وَمَا سَمِعۡنَا بِهَٰذَا فِيٓ ءَابَآئِنَا ٱلۡأَوَّلِينَ
 sentence_translation: But when Moses came to them with Our clear signs, they said
   ˹arrogantly˺, “This is nothing but conjured magic ˹tricks˺. We have never heard
   of this in ˹the history of˺ our forefathers.”
@@ -10,23 +10,23 @@ word_by_word:
     translation: But when
     transliteration: falammā
   2:
-    arabic: جَآءَهُمۡ
+    arabic: جَآءَهُم
     translation: came to them
     transliteration: jāahum
   3:
-    arabic: مُّوۡسٰى
+    arabic: مُّوسَىٰ
     translation: Musa
     transliteration: mūsā
   4:
-    arabic: بِاٰيٰتِنَا
+    arabic: بِـَٔايَٰتِنَا
     translation: with Our Signs
     transliteration: biāyātinā
   5:
-    arabic: بَيِّنٰتٍ
+    arabic: بَيِّنَٰتٖ
     translation: clear
     transliteration: bayyinātin
   6:
-    arabic: قَالُوۡا
+    arabic: قَالُواْ
     translation: they said
     transliteration: qālū
   7:
@@ -34,19 +34,19 @@ word_by_word:
     translation: Not
     transliteration: mā
   8:
-    arabic: هٰذَاۤ
+    arabic: هَٰذَآ
     translation: (is) this
     transliteration: hādhā
   9:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   10:
-    arabic: سِحۡرٌ
+    arabic: سِحۡرٞ
     translation: a magic
     transliteration: siḥ'run
   11:
-    arabic: مُّفۡتَـرًى
+    arabic: مُّفۡتَرٗى
     translation: invented
     transliteration: muf'taran
   12:
@@ -58,19 +58,19 @@ word_by_word:
     translation: we heard
     transliteration: samiʿ'nā
   14:
-    arabic: بِهٰذَا
+    arabic: بِهَٰذَا
     translation: of this
     transliteration: bihādhā
   15:
-    arabic: فِىۡۤ
+    arabic: فِيٓ ءَ
     translation: among
     transliteration: fī
   16:
-    arabic: اٰبَآٮِٕنَا
+    arabic: ابَآئِنَا
     translation: our forefathers
     transliteration: ābāinā
   17:
-    arabic: الۡاَوَّلِيۡنَ‏
+    arabic: ٱلۡأَوَّلِينَ
     translation: our forefathers
     transliteration: l-awalīna
 ---

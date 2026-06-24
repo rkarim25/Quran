@@ -1,10 +1,10 @@
 ---
-arabic_ayat: وَذَلَّـلۡنٰهَا لَهُمۡ فَمِنۡهَا رَكُوۡبُهُمۡ وَمِنۡهَا يَاۡكُلُوۡنَ‏
+arabic_ayat: وَذَلَّلۡنَٰهَا لَهُمۡ فَمِنۡهَا رَكُوبُهُمۡ وَمِنۡهَا يَأۡكُلُونَ
 sentence_translation: And We have subjected these ˹animals˺ to them, so they may ride
   some and eat others.
 word_by_word:
   1:
-    arabic: وَذَلَّـلۡنٰهَا
+    arabic: وَذَلَّلۡنَٰهَا
     translation: And We have tamed them
     transliteration: wadhallalnāhā
   2:
@@ -16,7 +16,7 @@ word_by_word:
     translation: 'so some of them '
     transliteration: famin'hā
   4:
-    arabic: رَكُوۡبُهُمۡ
+    arabic: رَكُوبُهُمۡ
     translation: they ride them
     transliteration: rakūbuhum
   5:
@@ -24,7 +24,7 @@ word_by_word:
     translation: and some of them
     transliteration: wamin'hā
   6:
-    arabic: يَاۡكُلُوۡنَ‏
+    arabic: يَأۡكُلُونَ
     translation: they eat
     transliteration: yakulūna
 ---

@@ -1,7 +1,7 @@
 ---
-arabic_ayat: وَعَدَكُمُ اللّٰهُ مَغَانِمَ كَثِيۡرَةً تَاۡخُذُوۡنَهَا فَعَجَّلَ لَكُمۡ
-  هٰذِهٖ وَكَفَّ اَيۡدِىَ النَّاسِ عَنۡكُمۡ​ۚ وَلِتَكُوۡنَ اٰيَةً لِّلۡمُؤۡمِنِيۡنَ
-  وَيَهۡدِيَكُمۡ صِرَاطًا مُّسۡتَقِيۡمًاۙ‏
+arabic_ayat: وَعَدَكُمُ ٱللَّهُ مَغَانِمَ كَثِيرَةٗ تَأۡخُذُونَهَا فَعَجَّلَ لَكُمۡ
+  هَٰذِهِۦ وَكَفَّ أَيۡدِيَ ٱلنَّاسِ عَنكُمۡ وَلِتَكُونَ ءَايَةٗ لِّلۡمُؤۡمِنِينَ
+  وَيَهۡدِيَكُمۡ صِرَٰطٗا مُّسۡتَقِيمٗا
 sentence_translation: Allah has promised you ˹believers˺ abundant spoils, which you
   will gain, so He hastened this ˹truce˺ for you. And He has held people’s hands back
   from ˹harming˺ you, so it may be a sign for the believers, and so He may guide you
@@ -12,7 +12,7 @@ word_by_word:
     translation: Allah has promised you
     transliteration: waʿadakumu
   2:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah has promised you
     transliteration: l-lahu
   3:
@@ -20,11 +20,11 @@ word_by_word:
     translation: spoils of war
     transliteration: maghānima
   4:
-    arabic: كَثِيۡرَةً
+    arabic: كَثِيرَةٗ
     translation: much
     transliteration: kathīratan
   5:
-    arabic: تَاۡخُذُوۡنَهَا
+    arabic: تَأۡخُذُونَهَا
     translation: that you will take it
     transliteration: takhudhūnahā
   6:
@@ -36,7 +36,7 @@ word_by_word:
     translation: for you
     transliteration: lakum
   8:
-    arabic: هٰذِهٖ
+    arabic: هَٰذِهِۦ
     translation: this
     transliteration: hādhihi
   9:
@@ -44,27 +44,27 @@ word_by_word:
     translation: and has withheld
     transliteration: wakaffa
   10:
-    arabic: اَيۡدِىَ
+    arabic: أَيۡدِيَ
     translation: (the) hands
     transliteration: aydiya
   11:
-    arabic: النَّاسِ
+    arabic: ٱلنَّاسِ
     translation: (of) the people
     transliteration: l-nāsi
   12:
-    arabic: عَنۡكُمۡ​ۚ
+    arabic: عَنكُمۡ
     translation: 'from you '
     transliteration: ʿankum
   13:
-    arabic: وَلِتَكُوۡنَ
+    arabic: وَلِتَكُونَ ءَ
     translation: that it may be
     transliteration: walitakūna
   14:
-    arabic: اٰيَةً
+    arabic: ايَةٗ
     translation: a sign
     transliteration: āyatan
   15:
-    arabic: لِّلۡمُؤۡمِنِيۡنَ
+    arabic: لِّلۡمُؤۡمِنِينَ
     translation: for the believers
     transliteration: lil'mu'minīna
   16:
@@ -72,11 +72,11 @@ word_by_word:
     translation: and He may guide you
     transliteration: wayahdiyakum
   17:
-    arabic: صِرَاطًا
+    arabic: صِرَٰطٗا
     translation: (to the) Path
     transliteration: ṣirāṭan
   18:
-    arabic: مُّسۡتَقِيۡمًاۙ‏
+    arabic: مُّسۡتَقِيمٗا
     translation: Straight
     transliteration: mus'taqīman
 ---

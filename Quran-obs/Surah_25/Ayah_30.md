@@ -1,6 +1,6 @@
 ---
-arabic_ayat: "وَقَالَ الرَّسُوۡلُ يٰرَبِّ اِنَّ قَوۡمِى اتَّخَذُوۡا هٰذَا الۡقُرۡاٰنَ\
-  \ مَهۡجُوۡرًا‏ \uFEFF\uFEFF"
+arabic_ayat: وَقَالَ ٱلرَّسُولُ يَٰرَبِّ إِنَّ قَوۡمِي ٱتَّخَذُواْ هَٰذَا ٱلۡقُرۡءَانَ
+  مَهۡجُورٗا
 sentence_translation: The Messenger has cried, “O my Lord! My people have indeed received
   this Quran with neglect.”
 word_by_word:
@@ -9,35 +9,35 @@ word_by_word:
     translation: And said
     transliteration: waqāla
   2:
-    arabic: الرَّسُوۡلُ
+    arabic: ٱلرَّسُولُ
     translation: the Messenger
     transliteration: l-rasūlu
   3:
-    arabic: يٰرَبِّ
+    arabic: يَٰرَبِّ
     translation: O my Lord
     transliteration: yārabbi
   4:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   5:
-    arabic: قَوۡمِى
+    arabic: قَوۡمِي
     translation: my people
     transliteration: qawmī
   6:
-    arabic: اتَّخَذُوۡا
+    arabic: ٱتَّخَذُواْ
     translation: took
     transliteration: ittakhadhū
   7:
-    arabic: هٰذَا
+    arabic: هَٰذَا
     translation: this
     transliteration: hādhā
   8:
-    arabic: الۡقُرۡاٰنَ
+    arabic: ٱلۡقُرۡءَانَ
     translation: the Quran
     transliteration: l-qur'āna
   9:
-    arabic: "مَهۡجُوۡرًا‏ \uFEFF\uFEFF"
+    arabic: مَهۡجُورٗا
     translation: (as) a forsaken thing
     transliteration: mahjūran
 ---

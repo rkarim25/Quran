@@ -1,5 +1,5 @@
 ---
-arabic_ayat: وَلَدَ اللّٰهُۙ وَاِنَّهُمۡ لَـكٰذِبُوۡنَ‏
+arabic_ayat: وَلَدَ ٱللَّهُ وَإِنَّهُمۡ لَكَٰذِبُونَ
 sentence_translation: “Allah has children.” They are simply liars.
 word_by_word:
   1:
@@ -7,15 +7,15 @@ word_by_word:
     translation: Allah has begotten
     transliteration: walada
   2:
-    arabic: اللّٰهُۙ
+    arabic: ٱللَّهُ
     translation: Allah has begotten
     transliteration: l-lahu
   3:
-    arabic: وَاِنَّهُمۡ
+    arabic: وَإِنَّهُمۡ
     translation: and indeed, they
     transliteration: wa-innahum
   4:
-    arabic: لَـكٰذِبُوۡنَ‏
+    arabic: لَكَٰذِبُونَ
     translation: surely (are) liars
     transliteration: lakādhibūna
 ---

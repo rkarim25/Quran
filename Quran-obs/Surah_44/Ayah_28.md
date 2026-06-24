@@ -1,21 +1,21 @@
 ---
-arabic_ayat: كَذٰلِكَ​ وَاَوۡرَثۡنٰهَا قَوۡمًا اٰخَرِيۡنَ‏
+arabic_ayat: كَذَٰلِكَۖ وَأَوۡرَثۡنَٰهَا قَوۡمًا ءَاخَرِينَ
 sentence_translation: So it was. And We awarded it ˹all˺ to another people.
 word_by_word:
   1:
-    arabic: كَذٰلِكَ​
+    arabic: كَذَٰلِكَۖ
     translation: Thus
     transliteration: kadhālika
   2:
-    arabic: وَاَوۡرَثۡنٰهَا
+    arabic: وَأَوۡرَثۡنَٰهَا
     translation: And We made it (an) inherit(ance)
     transliteration: wa-awrathnāhā
   3:
-    arabic: قَوۡمًا
+    arabic: قَوۡمًا ءَ
     translation: (for) a people
     transliteration: qawman
   4:
-    arabic: اٰخَرِيۡنَ‏
+    arabic: اخَرِينَ
     translation: another
     transliteration: ākharīna
 ---

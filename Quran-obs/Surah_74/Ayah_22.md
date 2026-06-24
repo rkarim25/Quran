@@ -1,5 +1,5 @@
 ---
-arabic_ayat: ثُمَّ عَبَسَ وَبَسَرَۙ‏
+arabic_ayat: ثُمَّ عَبَسَ وَبَسَرَ
 sentence_translation: then frowned and scowled,
 word_by_word:
   1:
@@ -11,7 +11,7 @@ word_by_word:
     translation: he frowned
     transliteration: ʿabasa
   3:
-    arabic: وَبَسَرَۙ‏
+    arabic: وَبَسَرَ
     translation: and scowled
     transliteration: wabasara
 ---

@@ -1,47 +1,47 @@
 ---
-arabic_ayat: وَاعۡلَمُوۡۤا اَنَّمَاۤ اَمۡوَالُكُمۡ وَاَوۡلَادُكُمۡ فِتۡنَةٌ  ۙ وَّاَنَّ
-  اللّٰهَ عِنۡدَهٗۤ اَجۡرٌ عَظِيۡمٌ‏
+arabic_ayat: وَٱعۡلَمُوٓاْ أَنَّمَآ أَمۡوَٰلُكُمۡ وَأَوۡلَٰدُكُمۡ فِتۡنَةٞ وَأَنَّ
+  ٱللَّهَ عِندَهُۥٓ أَجۡرٌ عَظِيمٞ
 sentence_translation: And know that your wealth and your children are only a test
   and that with Allah is a great reward.
 word_by_word:
   1:
-    arabic: وَاعۡلَمُوۡۤا
+    arabic: وَٱعۡلَمُوٓاْ
     translation: And know
     transliteration: wa-iʿ'lamū
   2:
-    arabic: اَنَّمَاۤ
+    arabic: أَنَّمَآ
     translation: that
     transliteration: annamā
   3:
-    arabic: اَمۡوَالُكُمۡ
+    arabic: أَمۡوَٰلُكُمۡ
     translation: your wealth
     transliteration: amwālukum
   4:
-    arabic: وَاَوۡلَادُكُمۡ
+    arabic: وَأَوۡلَٰدُكُمۡ
     translation: and your children
     transliteration: wa-awlādukum
   5:
-    arabic: فِتۡنَةٌ  ۙ
+    arabic: فِتۡنَةٞ
     translation: (are) a trial
     transliteration: fit'natun
   6:
-    arabic: وَّاَنَّ
+    arabic: وَأَنَّ
     translation: And that
     transliteration: wa-anna
   7:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: 'Allah '
     transliteration: l-laha
   8:
-    arabic: عِنۡدَهٗۤ
+    arabic: عِندَهُۥٓ
     translation: with Him
     transliteration: ʿindahu
   9:
-    arabic: اَجۡرٌ
+    arabic: أَجۡرٌ
     translation: (is) a reward
     transliteration: ajrun
   10:
-    arabic: عَظِيۡمٌ‏
+    arabic: عَظِيمٞ
     translation: great
     transliteration: ʿaẓīmun
 ---

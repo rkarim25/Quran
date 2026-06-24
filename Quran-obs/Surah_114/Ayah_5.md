@@ -1,9 +1,9 @@
 ---
-arabic_ayat: الَّذِىۡ يُوَسۡوِسُ فِىۡ صُدُوۡرِ النَّاسِۙ‏
+arabic_ayat: ٱلَّذِي يُوَسۡوِسُ فِي صُدُورِ ٱلنَّاسِ
 sentence_translation: who whispers into the hearts of humankind—
 word_by_word:
   1:
-    arabic: الَّذِىۡ
+    arabic: ٱلَّذِي
     translation: The one who
     transliteration: alladhī
   2:
@@ -11,15 +11,15 @@ word_by_word:
     translation: whispers
     transliteration: yuwaswisu
   3:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   4:
-    arabic: صُدُوۡرِ
+    arabic: صُدُورِ
     translation: (the) breasts
     transliteration: ṣudūri
   5:
-    arabic: النَّاسِۙ‏
+    arabic: ٱلنَّاسِ
     translation: (of) mankind
     transliteration: l-nāsi
 ---

@@ -1,26 +1,26 @@
 ---
-arabic_ayat: فَاَوۡحٰۤى الٰى عَبۡدِهٖ مَاۤ اَوۡحٰىؕ‏
+arabic_ayat: فَأَوۡحَىٰٓ إِلَىٰ عَبۡدِهِۦ مَآ أَوۡحَىٰ
 sentence_translation: Then Allah revealed to His servant what He revealed ˹through
   Gabriel˺.
 word_by_word:
   1:
-    arabic: فَاَوۡحٰۤى
+    arabic: فَأَوۡحَىٰٓ
     translation: So he revealed
     transliteration: fa-awḥā
   2:
-    arabic: الٰى
+    arabic: إِلَىٰ
     translation: to
     transliteration: ilā
   3:
-    arabic: عَبۡدِهٖ
+    arabic: عَبۡدِهِۦ
     translation: His slave
     transliteration: ʿabdihi
   4:
-    arabic: مَاۤ
+    arabic: مَآ
     translation: what
     transliteration: mā
   5:
-    arabic: اَوۡحٰىؕ‏
+    arabic: أَوۡحَىٰ
     translation: he revealed
     transliteration: awḥā
 ---

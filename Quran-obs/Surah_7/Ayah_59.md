@@ -1,7 +1,7 @@
 ---
-arabic_ayat: "لَقَدۡ اَرۡسَلۡنَا نُوۡحًا اِلٰى قَوۡمِهٖ فَقَالَ يٰقَوۡمِ اعۡبُدُوا\
-  \ اللّٰهَ مَا لَـكُمۡ مِّنۡ اِلٰهٍ غَيۡرُهٗ ؕ اِنِّىۡۤ اَخَافُ عَلَيۡكُمۡ عَذَابَ\
-  \ يَوۡمٍ عَظِيۡمٍ‏ \uFEFF\uFEFF"
+arabic_ayat: لَقَدۡ أَرۡسَلۡنَا نُوحًا إِلَىٰ قَوۡمِهِۦ فَقَالَ يَٰقَوۡمِ ٱعۡبُدُواْ
+  ٱللَّهَ مَا لَكُم مِّنۡ إِلَٰهٍ غَيۡرُهُۥٓ إِنِّيٓ أَخَافُ عَلَيۡكُمۡ عَذَابَ يَوۡمٍ
+  عَظِيمٖ
 sentence_translation: Indeed, We sent Noah to his people. He said, “O my people! Worship
   Allah—you have no other god except Him. I truly fear for you the torment of a tremendous
   Day.”
@@ -11,19 +11,19 @@ word_by_word:
     translation: Certainly
     transliteration: laqad
   2:
-    arabic: اَرۡسَلۡنَا
+    arabic: أَرۡسَلۡنَا
     translation: We sent
     transliteration: arsalnā
   3:
-    arabic: نُوۡحًا
+    arabic: نُوحًا
     translation: Nuh
     transliteration: nūḥan
   4:
-    arabic: اِلٰى
+    arabic: إِلَىٰ
     translation: to
     transliteration: ilā
   5:
-    arabic: قَوۡمِهٖ
+    arabic: قَوۡمِهِۦ
     translation: his people
     transliteration: qawmihi
   6:
@@ -31,15 +31,15 @@ word_by_word:
     translation: and he said
     transliteration: faqāla
   7:
-    arabic: يٰقَوۡمِ
+    arabic: يَٰقَوۡمِ
     translation: O my people
     transliteration: yāqawmi
   8:
-    arabic: اعۡبُدُوا
+    arabic: ٱعۡبُدُواْ
     translation: Worship
     transliteration: uʿ'budū
   9:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   10:
@@ -47,7 +47,7 @@ word_by_word:
     translation: not
     transliteration: mā
   11:
-    arabic: لَـكُمۡ
+    arabic: لَكُم
     translation: for you
     transliteration: lakum
   12:
@@ -55,19 +55,19 @@ word_by_word:
     translation: any
     transliteration: min
   13:
-    arabic: اِلٰهٍ
+    arabic: إِلَٰهٍ
     translation: god
     transliteration: ilāhin
   14:
-    arabic: غَيۡرُهٗ ؕ
+    arabic: غَيۡرُهُۥٓ
     translation: other than Him
     transliteration: ghayruhu
   15:
-    arabic: اِنِّىۡۤ
+    arabic: إِنِّيٓ
     translation: Indeed, I
     transliteration: innī
   16:
-    arabic: اَخَافُ
+    arabic: أَخَافُ
     translation: '[I] fear'
     transliteration: akhāfu
   17:
@@ -83,7 +83,7 @@ word_by_word:
     translation: (of the) Day
     transliteration: yawmin
   20:
-    arabic: "عَظِيۡمٍ‏ \uFEFF\uFEFF"
+    arabic: عَظِيمٖ
     translation: Great
     transliteration: ʿaẓīmin
 ---

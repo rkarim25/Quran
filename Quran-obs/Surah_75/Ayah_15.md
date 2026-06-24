@@ -1,17 +1,17 @@
 ---
-arabic_ayat: وَّلَوۡ اَلۡقٰى مَعَاذِيۡرَهٗؕ‏
+arabic_ayat: وَلَوۡ أَلۡقَىٰ مَعَاذِيرَهُۥ
 sentence_translation: despite the excuses they come up with.
 word_by_word:
   1:
-    arabic: وَّلَوۡ
+    arabic: وَلَوۡ
     translation: Even if
     transliteration: walaw
   2:
-    arabic: اَلۡقٰى
+    arabic: أَلۡقَىٰ
     translation: he presents
     transliteration: alqā
   3:
-    arabic: مَعَاذِيۡرَهٗؕ‏
+    arabic: مَعَاذِيرَهُۥ
     translation: his excuses
     transliteration: maʿādhīrahu
 ---

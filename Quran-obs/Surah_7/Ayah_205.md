@@ -1,12 +1,12 @@
 ---
-arabic_ayat: وَاذۡكُرْ رَّبَّكَ فِىۡ نَفۡسِكَ تَضَرُّعًا وَّخِيۡفَةً وَّدُوۡنَ الۡجَـهۡرِ
-  مِنَ الۡقَوۡلِ بِالۡغُدُوِّ وَالۡاٰصَالِ وَلَا تَكُنۡ مِّنَ الۡغٰفِلِيۡنَ‏
+arabic_ayat: وَٱذۡكُر رَّبَّكَ فِي نَفۡسِكَ تَضَرُّعٗا وَخِيفَةٗ وَدُونَ ٱلۡجَهۡرِ
+  مِنَ ٱلۡقَوۡلِ بِٱلۡغُدُوِّ وَٱلۡأٓصَالِ وَلَا تَكُن مِّنَ ٱلۡغَٰفِلِينَ
 sentence_translation: Remember your Lord inwardly with humility and reverence and
   in a moderate tone of voice, both morning and evening. And do not be one of the
   heedless.
 word_by_word:
   1:
-    arabic: وَاذۡكُرْ
+    arabic: وَٱذۡكُر
     translation: And remember
     transliteration: wa-udh'kur
   2:
@@ -14,7 +14,7 @@ word_by_word:
     translation: your Lord
     transliteration: rabbaka
   3:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   4:
@@ -22,19 +22,19 @@ word_by_word:
     translation: yourself
     transliteration: nafsika
   5:
-    arabic: تَضَرُّعًا
+    arabic: تَضَرُّعٗا
     translation: humbly
     transliteration: taḍarruʿan
   6:
-    arabic: وَّخِيۡفَةً
+    arabic: وَخِيفَةٗ
     translation: and (in) fear
     transliteration: wakhīfatan
   7:
-    arabic: وَّدُوۡنَ
+    arabic: وَدُونَ
     translation: and without
     transliteration: wadūna
   8:
-    arabic: الۡجَـهۡرِ
+    arabic: ٱلۡجَهۡرِ
     translation: the loudness
     transliteration: l-jahri
   9:
@@ -42,15 +42,15 @@ word_by_word:
     translation: of
     transliteration: mina
   10:
-    arabic: الۡقَوۡلِ
+    arabic: ٱلۡقَوۡلِ
     translation: '[the] words'
     transliteration: l-qawli
   11:
-    arabic: بِالۡغُدُوِّ
+    arabic: بِٱلۡغُدُوِّ
     translation: in the mornings
     transliteration: bil-ghuduwi
   12:
-    arabic: وَالۡاٰصَالِ
+    arabic: وَٱلۡأٓصَالِ
     translation: and (in) the evenings
     transliteration: wal-āṣāli
   13:
@@ -58,7 +58,7 @@ word_by_word:
     translation: And (do) not
     transliteration: walā
   14:
-    arabic: تَكُنۡ
+    arabic: تَكُن
     translation: be
     transliteration: takun
   15:
@@ -66,7 +66,7 @@ word_by_word:
     translation: among
     transliteration: mina
   16:
-    arabic: الۡغٰفِلِيۡنَ‏
+    arabic: ٱلۡغَٰفِلِينَ
     translation: the heedless
     transliteration: l-ghāfilīna
 ---

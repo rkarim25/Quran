@@ -1,14 +1,14 @@
 ---
-arabic_ayat: فَقَرَاَهٗ عَلَيۡهِمۡ مَّا كَانُوۡا بِهٖ مُؤۡمِنِيۡنَؕ‏
+arabic_ayat: فَقَرَأَهُۥ عَلَيۡهِم مَّا كَانُواْ بِهِۦ مُؤۡمِنِينَ
 sentence_translation: who would then recite it to the deniers ˹in fluent Arabic˺,
   still they would not have believed in it!
 word_by_word:
   1:
-    arabic: فَقَرَاَهٗ
+    arabic: فَقَرَأَهُۥ
     translation: And he (had) recited it
     transliteration: faqara-ahu
   2:
-    arabic: عَلَيۡهِمۡ
+    arabic: عَلَيۡهِم
     translation: to them
     transliteration: ʿalayhim
   3:
@@ -16,15 +16,15 @@ word_by_word:
     translation: not
     transliteration: mā
   4:
-    arabic: كَانُوۡا
+    arabic: كَانُواْ
     translation: they would
     transliteration: kānū
   5:
-    arabic: بِهٖ
+    arabic: بِهِۦ
     translation: in it
     transliteration: bihi
   6:
-    arabic: مُؤۡمِنِيۡنَؕ‏
+    arabic: مُؤۡمِنِينَ
     translation: (be) believers
     transliteration: mu'minīna
 ---

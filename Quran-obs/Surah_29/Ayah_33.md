@@ -1,17 +1,17 @@
 ---
-arabic_ayat: وَلَمَّاۤ اَنۡ جَآءَتۡ رُسُلُـنَا لُوۡطًا سِىۡٓءَ بِهِمۡ وَضَاقَ بِهِمۡ
-  ذَرۡعًا وَّقَالُوۡا لَا تَخَفۡ وَلَا تَحۡزَنۡ​ اِنَّا مُنَجُّوۡكَ وَاَهۡلَكَ اِلَّا
-  امۡرَاَتَكَ كَانَتۡ مِنَ الۡغٰبِرِيۡنَ‏
+arabic_ayat: وَلَمَّآ أَن جَآءَتۡ رُسُلُنَا لُوطٗا سِيٓءَ بِهِمۡ وَضَاقَ بِهِمۡ
+  ذَرۡعٗاۖ وَقَالُواْ لَا تَخَفۡ وَلَا تَحۡزَنۡ إِنَّا مُنَجُّوكَ وَأَهۡلَكَ إِلَّا
+  ٱمۡرَأَتَكَ كَانَتۡ مِنَ ٱلۡغَٰبِرِينَ
 sentence_translation: And when Our messenger-angels came to Lot, he was distressed
   and worried by their arrival. They reassured ˹him˺, “Do not fear, nor grieve. We
   will surely deliver you and your family—except your wife, who is one of the doomed.
 word_by_word:
   1:
-    arabic: وَلَمَّاۤ
+    arabic: وَلَمَّآ
     translation: And when
     transliteration: walammā
   2:
-    arabic: اَنۡ
+    arabic: أَن
     translation: '[that]'
     transliteration: an
   3:
@@ -19,15 +19,15 @@ word_by_word:
     translation: came
     transliteration: jāat
   4:
-    arabic: رُسُلُـنَا
+    arabic: رُسُلُنَا
     translation: Our messengers
     transliteration: rusulunā
   5:
-    arabic: لُوۡطًا
+    arabic: لُوطٗا
     translation: (to) Lut
     transliteration: lūṭan
   6:
-    arabic: سِىۡٓءَ
+    arabic: سِيٓءَ
     translation: he was distressed
     transliteration: sīa
   7:
@@ -43,11 +43,11 @@ word_by_word:
     translation: for them
     transliteration: bihim
   10:
-    arabic: ذَرۡعًا
+    arabic: ذَرۡعٗاۖ
     translation: (and) uneasy
     transliteration: dharʿan
   11:
-    arabic: وَّقَالُوۡا
+    arabic: وَقَالُواْ
     translation: And they said
     transliteration: waqālū
   12:
@@ -63,27 +63,27 @@ word_by_word:
     translation: and (do) not
     transliteration: walā
   15:
-    arabic: تَحۡزَنۡ​
+    arabic: تَحۡزَنۡ
     translation: grieve
     transliteration: taḥzan
   16:
-    arabic: اِنَّا
+    arabic: إِنَّا
     translation: Indeed, we
     transliteration: innā
   17:
-    arabic: مُنَجُّوۡكَ
+    arabic: مُنَجُّوكَ
     translation: (will) save you
     transliteration: munajjūka
   18:
-    arabic: وَاَهۡلَكَ
+    arabic: وَأَهۡلَكَ
     translation: and your family
     transliteration: wa-ahlaka
   19:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   20:
-    arabic: امۡرَاَتَكَ
+    arabic: ٱمۡرَأَتَكَ
     translation: your wife
     transliteration: im'ra-ataka
   21:
@@ -95,7 +95,7 @@ word_by_word:
     translation: (is) of
     transliteration: mina
   23:
-    arabic: الۡغٰبِرِيۡنَ‏
+    arabic: ٱلۡغَٰبِرِينَ
     translation: those who remain behind
     transliteration: l-ghābirīna
 ---

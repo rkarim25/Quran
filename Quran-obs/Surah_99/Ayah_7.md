@@ -1,13 +1,13 @@
 ---
-arabic_ayat: فَمَنۡ يَّعۡمَلۡ مِثۡقَالَ ذَرَّةٍ خَيۡرًا يَّرَهٗ ؕ‏
+arabic_ayat: فَمَن يَعۡمَلۡ مِثۡقَالَ ذَرَّةٍ خَيۡرٗا يَرَهُۥ
 sentence_translation: So whoever does an atom’s weight of good will see it.
 word_by_word:
   1:
-    arabic: فَمَنۡ
+    arabic: فَمَن
     translation: So whoever
     transliteration: faman
   2:
-    arabic: يَّعۡمَلۡ
+    arabic: يَعۡمَلۡ
     translation: does
     transliteration: yaʿmal
   3:
@@ -19,11 +19,11 @@ word_by_word:
     translation: (of) an atom
     transliteration: dharratin
   5:
-    arabic: خَيۡرًا
+    arabic: خَيۡرٗا
     translation: good
     transliteration: khayran
   6:
-    arabic: يَّرَهٗ ؕ‏
+    arabic: يَرَهُۥ
     translation: will see it
     transliteration: yarahu
 ---

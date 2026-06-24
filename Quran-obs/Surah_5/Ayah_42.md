@@ -1,15 +1,14 @@
 ---
-arabic_ayat: سَمّٰعُوۡنَ لِلۡكَذِبِ اَ كّٰلُوۡنَ لِلسُّحۡتِ​ؕ فَاِنۡ جَآءُوۡكَ فَاحۡكُمۡ
-  بَيۡنَهُمۡ اَوۡ اَعۡرِضۡ عَنۡهُمۡ​ ۚ وَاِنۡ تُعۡرِضۡ عَنۡهُمۡ فَلَنۡ يَّضُرُّوۡكَ
-  شَيۡــًٔـا​ ؕ وَاِنۡ حَكَمۡتَ فَاحۡكُمۡ بَيۡنَهُمۡ بِالۡقِسۡطِ​ ؕ اِنَّ اللّٰهَ
-  يُحِبُّ الۡمُقۡسِطِيۡنَ‏
+arabic_ayat: سَمَّٰعُونَ لِلۡكَذِبِ أَكَّٰلُونَ لِلسُّحۡتِۚ فَإِن جَآءُوكَ فَٱحۡكُم
+  بَيۡنَهُمۡ أَوۡ أَعۡرِضۡ عَنۡهُمۡۖ وَإِن تُعۡرِضۡ عَنۡهُمۡ فَلَن يَضُرُّوكَ شَيۡـٔٗاۖ
+  وَإِنۡ حَكَمۡتَ فَٱحۡكُم بَيۡنَهُم بِٱلۡقِسۡطِۚ إِنَّ ٱللَّهَ يُحِبُّ ٱلۡمُقۡسِطِينَ
 sentence_translation: They eagerly listen to falsehood and consume forbidden gain. So
   if they come to you ˹O Prophet˺, either judge between them or turn away from them.
   If you turn away from them, they cannot harm you whatsoever. But if you judge between
   them, then do so with justice. Surely Allah loves those who are just.
 word_by_word:
   1:
-    arabic: سَمّٰعُوۡنَ
+    arabic: سَمَّٰعُونَ
     translation: Listeners
     transliteration: sammāʿūna
   2:
@@ -17,23 +16,23 @@ word_by_word:
     translation: to [the] falsehood
     transliteration: lil'kadhibi
   3:
-    arabic: اَ كّٰلُوۡنَ
+    arabic: أَكَّٰلُونَ
     translation: devourers
     transliteration: akkālūna
   4:
-    arabic: لِلسُّحۡتِ​ؕ
+    arabic: لِلسُّحۡتِۚ
     translation: of the forbidden
     transliteration: lilssuḥ'ti
   5:
-    arabic: فَاِنۡ
+    arabic: فَإِن
     translation: So if
     transliteration: fa-in
   6:
-    arabic: جَآءُوۡكَ
+    arabic: جَآءُوكَ
     translation: they come to you
     transliteration: jāūka
   7:
-    arabic: فَاحۡكُمۡ
+    arabic: فَٱحۡكُم
     translation: then judge
     transliteration: fa-uḥ'kum
   8:
@@ -41,19 +40,19 @@ word_by_word:
     translation: between them
     transliteration: baynahum
   9:
-    arabic: اَوۡ
+    arabic: أَوۡ
     translation: or
     transliteration: aw
   10:
-    arabic: اَعۡرِضۡ
+    arabic: أَعۡرِضۡ
     translation: turn away
     transliteration: aʿriḍ
   11:
-    arabic: عَنۡهُمۡ​ ۚ
+    arabic: عَنۡهُمۡۖ
     translation: from them
     transliteration: ʿanhum
   12:
-    arabic: وَاِنۡ
+    arabic: وَإِن
     translation: And if
     transliteration: wa-in
   13:
@@ -65,19 +64,19 @@ word_by_word:
     translation: from them
     transliteration: ʿanhum
   15:
-    arabic: فَلَنۡ
+    arabic: فَلَن
     translation: then never
     transliteration: falan
   16:
-    arabic: يَّضُرُّوۡكَ
+    arabic: يَضُرُّوكَ
     translation: will they harm you
     transliteration: yaḍurrūka
   17:
-    arabic: شَيۡــًٔـا​ ؕ
+    arabic: شَيۡـٔٗاۖ
     translation: (in) anything
     transliteration: shayan
   18:
-    arabic: وَاِنۡ
+    arabic: وَإِنۡ
     translation: And if
     transliteration: wa-in
   19:
@@ -85,23 +84,23 @@ word_by_word:
     translation: you judge
     transliteration: ḥakamta
   20:
-    arabic: فَاحۡكُمۡ
+    arabic: فَٱحۡكُم
     translation: then judge
     transliteration: fa-uḥ'kum
   21:
-    arabic: بَيۡنَهُمۡ
+    arabic: بَيۡنَهُم
     translation: between them
     transliteration: baynahum
   22:
-    arabic: بِالۡقِسۡطِ​ ؕ
+    arabic: بِٱلۡقِسۡطِۚ
     translation: with [the] justice
     transliteration: bil-qis'ṭi
   23:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   24:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   25:
@@ -109,7 +108,7 @@ word_by_word:
     translation: loves
     transliteration: yuḥibbu
   26:
-    arabic: الۡمُقۡسِطِيۡنَ‏
+    arabic: ٱلۡمُقۡسِطِينَ
     translation: the ones who are just
     transliteration: l-muq'siṭīna
 ---

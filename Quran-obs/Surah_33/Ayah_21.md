@@ -1,11 +1,11 @@
 ---
-arabic_ayat: لَقَدۡ كَانَ لَكُمۡ فِىۡ رَسُوۡلِ اللّٰهِ اُسۡوَةٌ حَسَنَةٌ لِّمَنۡ كَانَ
-  يَرۡجُوا اللّٰهَ وَالۡيَوۡمَ الۡاٰخِرَ وَذَكَرَ اللّٰهَ كَثِيۡرًا ؕ‏
+arabic_ayat: لَّقَدۡ كَانَ لَكُمۡ فِي رَسُولِ ٱللَّهِ أُسۡوَةٌ حَسَنَةٞ لِّمَن كَانَ
+  يَرۡجُواْ ٱللَّهَ وَٱلۡيَوۡمَ ٱلۡأٓخِرَ وَذَكَرَ ٱللَّهَ كَثِيرٗا
 sentence_translation: Indeed, in the Messenger of Allah you have an excellent example
   for whoever has hope in Allah and the Last Day, and remembers Allah often.
 word_by_word:
   1:
-    arabic: لَقَدۡ
+    arabic: لَّقَدۡ
     translation: Certainly
     transliteration: laqad
   2:
@@ -17,27 +17,27 @@ word_by_word:
     translation: for you
     transliteration: lakum
   4:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   5:
-    arabic: رَسُوۡلِ
+    arabic: رَسُولِ
     translation: (the) Messenger
     transliteration: rasūli
   6:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (of) Allah
     transliteration: l-lahi
   7:
-    arabic: اُسۡوَةٌ
+    arabic: أُسۡوَةٌ
     translation: an excellent example
     transliteration: us'watun
   8:
-    arabic: حَسَنَةٌ
+    arabic: حَسَنَةٞ
     translation: an excellent example
     transliteration: ḥasanatun
   9:
-    arabic: لِّمَنۡ
+    arabic: لِّمَن
     translation: for (one) who
     transliteration: liman
   10:
@@ -45,19 +45,19 @@ word_by_word:
     translation: has
     transliteration: kāna
   11:
-    arabic: يَرۡجُوا
+    arabic: يَرۡجُواْ
     translation: hope
     transliteration: yarjū
   12:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: (in) Allah
     transliteration: l-laha
   13:
-    arabic: وَالۡيَوۡمَ
+    arabic: وَٱلۡيَوۡمَ
     translation: and the Day
     transliteration: wal-yawma
   14:
-    arabic: الۡاٰخِرَ
+    arabic: ٱلۡأٓخِرَ
     translation: the Last
     transliteration: l-ākhira
   15:
@@ -65,11 +65,11 @@ word_by_word:
     translation: and remembers
     transliteration: wadhakara
   16:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   17:
-    arabic: كَثِيۡرًا ؕ‏
+    arabic: كَثِيرٗا
     translation: much
     transliteration: kathīran
 ---

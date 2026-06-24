@@ -1,19 +1,18 @@
 ---
-arabic_ayat: "فَلَمَّاۤ اٰسَفُوۡنَا انْتَقَمۡنَا مِنۡهُمۡ فَاَغۡرَقۡنٰهُمۡ اَجۡمَعِيۡنَۙ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: فَلَمَّآ ءَاسَفُونَا ٱنتَقَمۡنَا مِنۡهُمۡ فَأَغۡرَقۡنَٰهُمۡ أَجۡمَعِينَ
 sentence_translation: So when they enraged Us, We inflicted punishment upon them,
   drowning them all.
 word_by_word:
   1:
-    arabic: فَلَمَّاۤ
+    arabic: فَلَمَّآ ءَ
     translation: So when
     transliteration: falammā
   2:
-    arabic: اٰسَفُوۡنَا
+    arabic: اسَفُونَا
     translation: they angered Us
     transliteration: āsafūnā
   3:
-    arabic: انْتَقَمۡنَا
+    arabic: ٱنتَقَمۡنَا
     translation: We took retribution
     transliteration: intaqamnā
   4:
@@ -21,11 +20,11 @@ word_by_word:
     translation: from them
     transliteration: min'hum
   5:
-    arabic: فَاَغۡرَقۡنٰهُمۡ
+    arabic: فَأَغۡرَقۡنَٰهُمۡ
     translation: and We drowned them
     transliteration: fa-aghraqnāhum
   6:
-    arabic: "اَجۡمَعِيۡنَۙ‏ \uFEFF\uFEFF"
+    arabic: أَجۡمَعِينَ
     translation: all
     transliteration: ajmaʿīna
 ---

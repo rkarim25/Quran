@@ -1,30 +1,30 @@
 ---
-arabic_ayat: نَبِّئۡ عِبَادِىۡۤ اَنِّىۡۤ اَنَا الۡغَفُوۡرُ الرَّحِيۡمُۙ‏
+arabic_ayat: ۞ نَبِّئۡ عِبَادِيٓ أَنِّيٓ أَنَا ٱلۡغَفُورُ ٱلرَّحِيمُ
 sentence_translation: Inform My servants ˹O Prophet˺ that I am truly the All-Forgiving,
   Most Merciful,
 word_by_word:
   1:
-    arabic: ۞ نَبِّئۡ
+    arabic: ۞ نَبِّئۡ
     translation: Inform
     transliteration: nabbi
   2:
-    arabic: عِبَادِىۡۤ
+    arabic: عِبَادِيٓ
     translation: My slaves
     transliteration: ʿibādī
   3:
-    arabic: اَنِّىۡۤ
+    arabic: أَنِّيٓ
     translation: that I
     transliteration: annī
   4:
-    arabic: اَنَا
+    arabic: أَنَا
     translation: I am
     transliteration: anā
   5:
-    arabic: الۡغَفُوۡرُ
+    arabic: ٱلۡغَفُورُ
     translation: the Oft-Forgiving
     transliteration: l-ghafūru
   6:
-    arabic: الرَّحِيۡمُۙ‏
+    arabic: ٱلرَّحِيمُ
     translation: the Most Merciful
     transliteration: l-raḥīmu
 ---

@@ -1,23 +1,22 @@
 ---
-arabic_ayat: "يُوۡفُوۡنَ بِالنَّذۡرِ وَيَخَافُوۡنَ يَوۡمًا كَانَ شَرُّهٗ مُسۡتَطِيۡرًا‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: يُوفُونَ بِٱلنَّذۡرِ وَيَخَافُونَ يَوۡمٗا كَانَ شَرُّهُۥ مُسۡتَطِيرٗا
 sentence_translation: They ˹are those who˺ fulfil ˹their˺ vows and fear a Day of sweeping
   horror,
 word_by_word:
   1:
-    arabic: يُوۡفُوۡنَ
+    arabic: يُوفُونَ
     translation: They fulfill
     transliteration: yūfūna
   2:
-    arabic: بِالنَّذۡرِ
+    arabic: بِٱلنَّذۡرِ
     translation: the vows
     transliteration: bil-nadhri
   3:
-    arabic: وَيَخَافُوۡنَ
+    arabic: وَيَخَافُونَ
     translation: and fear
     transliteration: wayakhāfūna
   4:
-    arabic: يَوۡمًا
+    arabic: يَوۡمٗا
     translation: 'a Day '
     transliteration: yawman
   5:
@@ -25,11 +24,11 @@ word_by_word:
     translation: (which) is
     transliteration: kāna
   6:
-    arabic: شَرُّهٗ
+    arabic: شَرُّهُۥ
     translation: its evil
     transliteration: sharruhu
   7:
-    arabic: "مُسۡتَطِيۡرًا‏ \uFEFF\uFEFF"
+    arabic: مُسۡتَطِيرٗا
     translation: widespread
     transliteration: mus'taṭīran
 ---

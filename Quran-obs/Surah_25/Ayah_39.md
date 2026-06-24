@@ -1,11 +1,10 @@
 ---
-arabic_ayat: "وَكُلًّا ضَرَبۡنَا لَهُ الۡاَمۡثَالَ​ وَكُلًّا تَبَّـرۡنَا تَـتۡبِيۡرًا‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: وَكُلّٗا ضَرَبۡنَا لَهُ ٱلۡأَمۡثَٰلَۖ وَكُلّٗا تَبَّرۡنَا تَتۡبِيرٗا
 sentence_translation: For each We set forth ˹various˺ lessons, and We ultimately destroyed
   each.
 word_by_word:
   1:
-    arabic: وَكُلًّا
+    arabic: وَكُلّٗا
     translation: And each
     transliteration: wakullan
   2:
@@ -17,19 +16,19 @@ word_by_word:
     translation: for him
     transliteration: lahu
   4:
-    arabic: الۡاَمۡثَالَ​
+    arabic: ٱلۡأَمۡثَٰلَۖ
     translation: the examples
     transliteration: l-amthāla
   5:
-    arabic: وَكُلًّا
+    arabic: وَكُلّٗا
     translation: and each
     transliteration: wakullan
   6:
-    arabic: تَبَّـرۡنَا
+    arabic: تَبَّرۡنَا
     translation: We destroyed
     transliteration: tabbarnā
   7:
-    arabic: "تَـتۡبِيۡرًا‏ \uFEFF\uFEFF"
+    arabic: تَتۡبِيرٗا
     translation: (with) destruction
     transliteration: tatbīran
 ---

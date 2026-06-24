@@ -1,22 +1,22 @@
 ---
-arabic_ayat: اِذَاۤ اُلۡقُوۡا فِيۡهَا سَمِعُوۡا لَهَا شَهِيۡقًا وَّهِىَ تَفُوۡرُۙ‏
+arabic_ayat: إِذَآ أُلۡقُواْ فِيهَا سَمِعُواْ لَهَا شَهِيقٗا وَهِيَ تَفُورُ
 sentence_translation: When they are tossed into it, they will hear its roaring as
   it boils over,
 word_by_word:
   1:
-    arabic: اِذَاۤ
+    arabic: إِذَآ
     translation: When
     transliteration: idhā
   2:
-    arabic: اُلۡقُوۡا
+    arabic: أُلۡقُواْ
     translation: they are thrown
     transliteration: ul'qū
   3:
-    arabic: فِيۡهَا
+    arabic: فِيهَا
     translation: therein
     transliteration: fīhā
   4:
-    arabic: سَمِعُوۡا
+    arabic: سَمِعُواْ
     translation: they will hear
     transliteration: samiʿū
   5:
@@ -24,15 +24,15 @@ word_by_word:
     translation: from it
     transliteration: lahā
   6:
-    arabic: شَهِيۡقًا
+    arabic: شَهِيقٗا
     translation: an inhaling
     transliteration: shahīqan
   7:
-    arabic: وَّهِىَ
+    arabic: وَهِيَ
     translation: while it
     transliteration: wahiya
   8:
-    arabic: تَفُوۡرُۙ‏
+    arabic: تَفُورُ
     translation: boils up
     transliteration: tafūru
 ---

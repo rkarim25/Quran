@@ -1,27 +1,27 @@
 ---
-arabic_ayat: وَاِذۡ وٰعَدۡنَا مُوۡسٰٓى اَرۡبَعِيۡنَ لَيۡلَةً ثُمَّ اتَّخَذۡتُمُ الۡعِجۡلَ
-  مِنۡۢ بَعۡدِهٖ وَاَنۡـتُمۡ ظٰلِمُوۡنَ‏
+arabic_ayat: وَإِذۡ وَٰعَدۡنَا مُوسَىٰٓ أَرۡبَعِينَ لَيۡلَةٗ ثُمَّ ٱتَّخَذۡتُمُ ٱلۡعِجۡلَ
+  مِنۢ بَعۡدِهِۦ وَأَنتُمۡ ظَٰلِمُونَ
 sentence_translation: And ˹remember˺ when We appointed forty nights for Moses, then
   you worshipped the calf in his absence, acting wrongfully.
 word_by_word:
   1:
-    arabic: وَاِذۡ
+    arabic: وَإِذۡ
     translation: And when
     transliteration: wa-idh
   2:
-    arabic: وٰعَدۡنَا
+    arabic: وَٰعَدۡنَا
     translation: We appointed
     transliteration: wāʿadnā
   3:
-    arabic: مُوۡسٰٓى
+    arabic: مُوسَىٰٓ
     translation: (for) Musa
     transliteration: mūsā
   4:
-    arabic: اَرۡبَعِيۡنَ
+    arabic: أَرۡبَعِينَ
     translation: forty
     transliteration: arbaʿīna
   5:
-    arabic: لَيۡلَةً
+    arabic: لَيۡلَةٗ
     translation: nights
     transliteration: laylatan
   6:
@@ -29,27 +29,27 @@ word_by_word:
     translation: Then
     transliteration: thumma
   7:
-    arabic: اتَّخَذۡتُمُ
+    arabic: ٱتَّخَذۡتُمُ
     translation: you took
     transliteration: ittakhadhtumu
   8:
-    arabic: الۡعِجۡلَ
+    arabic: ٱلۡعِجۡلَ
     translation: the calf
     transliteration: l-ʿij'la
   9:
-    arabic: مِنۡۢ
+    arabic: مِنۢ
     translation: from
     transliteration: min
   10:
-    arabic: بَعۡدِهٖ
+    arabic: بَعۡدِهِۦ
     translation: after him
     transliteration: baʿdihi
   11:
-    arabic: وَاَنۡـتُمۡ
+    arabic: وَأَنتُمۡ
     translation: and you
     transliteration: wa-antum
   12:
-    arabic: ظٰلِمُوۡنَ‏
+    arabic: ظَٰلِمُونَ
     translation: (were) wrongdoers
     transliteration: ẓālimūna
 ---

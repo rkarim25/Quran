@@ -1,7 +1,7 @@
 ---
-arabic_ayat: قُلۡ اِنِّىۡ عَلٰى بَيِّنَةٍ مِّنۡ رَّبِّىۡ وَكَذَّبۡتُمۡ بِهٖ​ؕ مَا
-  عِنۡدِىۡ مَا تَسۡتَعۡجِلُوۡنَ بِهٖؕ اِنِ الۡحُكۡمُ اِلَّا لِلّٰهِ​ؕ يَقُصُّ الۡحَـقَّ​
-  وَهُوَ خَيۡرُ الۡفٰصِلِيۡنَ‏
+arabic_ayat: قُلۡ إِنِّي عَلَىٰ بَيِّنَةٖ مِّن رَّبِّي وَكَذَّبۡتُم بِهِۦۚ مَا عِندِي
+  مَا تَسۡتَعۡجِلُونَ بِهِۦٓۚ إِنِ ٱلۡحُكۡمُ إِلَّا لِلَّهِۖ يَقُصُّ ٱلۡحَقَّۖ وَهُوَ
+  خَيۡرُ ٱلۡفَٰصِلِينَ
 sentence_translation: Say, ˹O Prophet,˺ “Indeed, I stand on a clear proof from my
   Lord—yet you have denied it. That ˹torment˺ you seek to hasten is not within my
   power. It is only Allah Who decides ˹its time˺. He declares the truth. And He is
@@ -12,31 +12,31 @@ word_by_word:
     translation: Say
     transliteration: qul
   2:
-    arabic: اِنِّىۡ
+    arabic: إِنِّي
     translation: Indeed, I (am)
     transliteration: innī
   3:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: 'on'
     transliteration: ʿalā
   4:
-    arabic: بَيِّنَةٍ
+    arabic: بَيِّنَةٖ
     translation: clear proof
     transliteration: bayyinatin
   5:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: from
     transliteration: min
   6:
-    arabic: رَّبِّىۡ
+    arabic: رَّبِّي
     translation: my Lord
     transliteration: rabbī
   7:
-    arabic: وَكَذَّبۡتُمۡ
+    arabic: وَكَذَّبۡتُم
     translation: while you deny
     transliteration: wakadhabtum
   8:
-    arabic: بِهٖ​ؕ
+    arabic: بِهِۦۚ
     translation: '[with] it'
     transliteration: bihi
   9:
@@ -44,7 +44,7 @@ word_by_word:
     translation: Not
     transliteration: mā
   10:
-    arabic: عِنۡدِىۡ
+    arabic: عِندِي
     translation: I have
     transliteration: ʿindī
   11:
@@ -52,27 +52,27 @@ word_by_word:
     translation: what
     transliteration: mā
   12:
-    arabic: تَسۡتَعۡجِلُوۡنَ
+    arabic: تَسۡتَعۡجِلُونَ
     translation: you seek to hasten
     transliteration: tastaʿjilūna
   13:
-    arabic: بِهٖؕ
+    arabic: بِهِۦٓۚ
     translation: of it
     transliteration: bihi
   14:
-    arabic: اِنِ
+    arabic: إِنِ
     translation: Not
     transliteration: ini
   15:
-    arabic: الۡحُكۡمُ
+    arabic: ٱلۡحُكۡمُ
     translation: (is) the decision
     transliteration: l-ḥuk'mu
   16:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   17:
-    arabic: لِلّٰهِ​ؕ
+    arabic: لِلَّهِۖ
     translation: for Allah
     transliteration: lillahi
   18:
@@ -80,7 +80,7 @@ word_by_word:
     translation: He relates
     transliteration: yaquṣṣu
   19:
-    arabic: الۡحَـقَّ​
+    arabic: ٱلۡحَقَّۖ
     translation: the truth
     transliteration: l-ḥaqa
   20:
@@ -92,7 +92,7 @@ word_by_word:
     translation: (is the) best
     transliteration: khayru
   22:
-    arabic: الۡفٰصِلِيۡنَ‏
+    arabic: ٱلۡفَٰصِلِينَ
     translation: (of) the Deciders
     transliteration: l-fāṣilīna
 ---

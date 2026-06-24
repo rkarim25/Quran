@@ -1,15 +1,14 @@
 ---
-arabic_ayat: "وَيَضِيۡقُ صَدۡرِىۡ وَلَا يَنۡطَلِقُ لِسَانِىۡ فَاَرۡسِلۡ اِلٰى هٰرُوۡنَ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: وَيَضِيقُ صَدۡرِي وَلَا يَنطَلِقُ لِسَانِي فَأَرۡسِلۡ إِلَىٰ هَٰرُونَ
 sentence_translation: And ˹so˺ my heart will be broken and my tongue will be tied.
   So send Aaron along ˹as a messenger˺.
 word_by_word:
   1:
-    arabic: وَيَضِيۡقُ
+    arabic: وَيَضِيقُ
     translation: And straitens
     transliteration: wayaḍīqu
   2:
-    arabic: صَدۡرِىۡ
+    arabic: صَدۡرِي
     translation: my breast
     transliteration: ṣadrī
   3:
@@ -17,23 +16,23 @@ word_by_word:
     translation: and not
     transliteration: walā
   4:
-    arabic: يَنۡطَلِقُ
+    arabic: يَنطَلِقُ
     translation: expresses well
     transliteration: yanṭaliqu
   5:
-    arabic: لِسَانِىۡ
+    arabic: لِسَانِي
     translation: my tongue
     transliteration: lisānī
   6:
-    arabic: فَاَرۡسِلۡ
+    arabic: فَأَرۡسِلۡ
     translation: so send
     transliteration: fa-arsil
   7:
-    arabic: اِلٰى
+    arabic: إِلَىٰ
     translation: for
     transliteration: ilā
   8:
-    arabic: "هٰرُوۡنَ‏ \uFEFF\uFEFF"
+    arabic: هَٰرُونَ
     translation: Harun
     transliteration: hārūna
 ---

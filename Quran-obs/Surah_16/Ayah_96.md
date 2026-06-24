@@ -1,6 +1,6 @@
 ---
-arabic_ayat: مَا عِنۡدَكُمۡ يَنۡفَدُ​ وَمَا عِنۡدَ اللّٰهِ بَاقٍؕ وَلَـنَجۡزِيَنَّ
-  الَّذِيۡنَ صَبَرُوۡۤا اَجۡرَهُمۡ بِاَحۡسَنِ مَا كَانُوۡا يَعۡمَلُوۡنَ‏
+arabic_ayat: مَا عِندَكُمۡ يَنفَدُ وَمَا عِندَ ٱللَّهِ بَاقٖۗ وَلَنَجۡزِيَنَّ ٱلَّذِينَ
+  صَبَرُوٓاْ أَجۡرَهُم بِأَحۡسَنِ مَا كَانُواْ يَعۡمَلُونَ
 sentence_translation: Whatever you have will end, but whatever Allah has is everlasting.
   And We will certainly reward the steadfast according to the best of their deeds.
 word_by_word:
@@ -9,11 +9,11 @@ word_by_word:
     translation: Whatever
     transliteration: mā
   2:
-    arabic: عِنۡدَكُمۡ
+    arabic: عِندَكُمۡ
     translation: (is) with you
     transliteration: ʿindakum
   3:
-    arabic: يَنۡفَدُ​
+    arabic: يَنفَدُ
     translation: will be exhausted
     transliteration: yanfadu
   4:
@@ -21,35 +21,35 @@ word_by_word:
     translation: and whatever
     transliteration: wamā
   5:
-    arabic: عِنۡدَ
+    arabic: عِندَ
     translation: (is) with
     transliteration: ʿinda
   6:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   7:
-    arabic: بَاقٍؕ
+    arabic: بَاقٖۗ
     translation: (will) be remaining
     transliteration: bāqin
   8:
-    arabic: وَلَـنَجۡزِيَنَّ
+    arabic: وَلَنَجۡزِيَنَّ
     translation: And surely We will pay
     transliteration: walanajziyanna
   9:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   10:
-    arabic: صَبَرُوۡۤا
+    arabic: صَبَرُوٓاْ
     translation: (are) patient
     transliteration: ṣabarū
   11:
-    arabic: اَجۡرَهُمۡ
+    arabic: أَجۡرَهُم
     translation: their reward
     transliteration: ajrahum
   12:
-    arabic: بِاَحۡسَنِ
+    arabic: بِأَحۡسَنِ
     translation: to (the) best
     transliteration: bi-aḥsani
   13:
@@ -57,11 +57,11 @@ word_by_word:
     translation: (of) what
     transliteration: mā
   14:
-    arabic: كَانُوۡا
+    arabic: كَانُواْ
     translation: they used (to)
     transliteration: kānū
   15:
-    arabic: يَعۡمَلُوۡنَ‏
+    arabic: يَعۡمَلُونَ
     translation: do
     transliteration: yaʿmalūna
 ---

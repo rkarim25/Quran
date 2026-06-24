@@ -1,30 +1,30 @@
 ---
-arabic_ayat: وَّدَاعِيًا اِلَى اللّٰهِ بِاِذۡنِهٖ وَسِرَاجًا مُّنِيۡرًا‏
+arabic_ayat: وَدَاعِيًا إِلَى ٱللَّهِ بِإِذۡنِهِۦ وَسِرَاجٗا مُّنِيرٗا
 sentence_translation: and a caller to ˹the Way of˺ Allah by His command, and a beacon
   of light.
 word_by_word:
   1:
-    arabic: وَّدَاعِيًا
+    arabic: وَدَاعِيًا
     translation: And as one who invites
     transliteration: wadāʿiyan
   2:
-    arabic: اِلَى
+    arabic: إِلَى
     translation: to
     transliteration: ilā
   3:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   4:
-    arabic: بِاِذۡنِهٖ
+    arabic: بِإِذۡنِهِۦ
     translation: by His permission
     transliteration: bi-idh'nihi
   5:
-    arabic: وَسِرَاجًا
+    arabic: وَسِرَاجٗا
     translation: and (as) a lamp
     transliteration: wasirājan
   6:
-    arabic: مُّنِيۡرًا‏
+    arabic: مُّنِيرٗا
     translation: illuminating
     transliteration: munīran
 ---

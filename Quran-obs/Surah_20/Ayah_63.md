@@ -1,35 +1,35 @@
 ---
-arabic_ayat: قَالُوۡۤا اِنۡ هٰذٰٮنِ لَسٰحِرٰنِ يُرِيۡدٰنِ اَنۡ يُّخۡرِجٰكُمۡ مِّنۡ
-  اَرۡضِكُمۡ بِسِحۡرِهِمَا وَيَذۡهَبَا بِطَرِيۡقَتِكُمُ الۡمُثۡلٰى‏
+arabic_ayat: قَالُوٓاْ إِنۡ هَٰذَٰنِ لَسَٰحِرَٰنِ يُرِيدَانِ أَن يُخۡرِجَاكُم مِّنۡ
+  أَرۡضِكُم بِسِحۡرِهِمَا وَيَذۡهَبَا بِطَرِيقَتِكُمُ ٱلۡمُثۡلَىٰ
 sentence_translation: They concluded, “These two are only magicians who want to drive
   you out of your land with their magic, and do away with your most cherished traditions.
 word_by_word:
   1:
-    arabic: قَالُوۡۤا
+    arabic: قَالُوٓاْ
     translation: They said
     transliteration: qālū
   2:
-    arabic: اِنۡ
+    arabic: إِنۡ
     translation: Indeed
     transliteration: in
   3:
-    arabic: هٰذٰٮنِ
+    arabic: هَٰذَٰنِ
     translation: these two
     transliteration: hādhāni
   4:
-    arabic: لَسٰحِرٰنِ
+    arabic: لَسَٰحِرَٰنِ
     translation: '[two] magicians'
     transliteration: lasāḥirāni
   5:
-    arabic: يُرِيۡدٰنِ
+    arabic: يُرِيدَانِ
     translation: they intend
     transliteration: yurīdāni
   6:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that
     transliteration: an
   7:
-    arabic: يُّخۡرِجٰكُمۡ
+    arabic: يُخۡرِجَاكُم
     translation: they drive you out
     transliteration: yukh'rijākum
   8:
@@ -37,7 +37,7 @@ word_by_word:
     translation: of
     transliteration: min
   9:
-    arabic: اَرۡضِكُمۡ
+    arabic: أَرۡضِكُم
     translation: your land
     transliteration: arḍikum
   10:
@@ -49,11 +49,11 @@ word_by_word:
     translation: and do away
     transliteration: wayadhhabā
   12:
-    arabic: بِطَرِيۡقَتِكُمُ
+    arabic: بِطَرِيقَتِكُمُ
     translation: with your way
     transliteration: biṭarīqatikumu
   13:
-    arabic: الۡمُثۡلٰى‏
+    arabic: ٱلۡمُثۡلَىٰ
     translation: the exemplary
     transliteration: l-muth'lā
 ---

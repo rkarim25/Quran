@@ -1,9 +1,9 @@
 ---
-arabic_ayat: وَلَـقَدۡ كَذَّبَ اَصۡحٰبُ الۡحِجۡرِ الۡمُرۡسَلِيۡنَۙ‏
+arabic_ayat: وَلَقَدۡ كَذَّبَ أَصۡحَٰبُ ٱلۡحِجۡرِ ٱلۡمُرۡسَلِينَ
 sentence_translation: Indeed, the residents of the Stone Valley also denied the messengers.
 word_by_word:
   1:
-    arabic: وَلَـقَدۡ
+    arabic: وَلَقَدۡ
     translation: And certainly
     transliteration: walaqad
   2:
@@ -11,15 +11,15 @@ word_by_word:
     translation: denied
     transliteration: kadhaba
   3:
-    arabic: اَصۡحٰبُ
+    arabic: أَصۡحَٰبُ
     translation: (the) companions
     transliteration: aṣḥābu
   4:
-    arabic: الۡحِجۡرِ
+    arabic: ٱلۡحِجۡرِ
     translation: (of) the Rocky Tract
     transliteration: l-ḥij'ri
   5:
-    arabic: الۡمُرۡسَلِيۡنَۙ‏
+    arabic: ٱلۡمُرۡسَلِينَ
     translation: the Messengers
     transliteration: l-mur'salīna
 ---

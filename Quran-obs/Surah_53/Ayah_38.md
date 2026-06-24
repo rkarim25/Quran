@@ -1,10 +1,10 @@
 ---
-arabic_ayat: اَلَّا تَزِرُ وَازِرَةٌ وِّزۡرَ اُخۡرٰىۙ‏
+arabic_ayat: أَلَّا تَزِرُ وَازِرَةٞ وِزۡرَ أُخۡرَىٰ
 sentence_translation: ˹They state˺ that no soul burdened with sin will bear the burden
   of another,
 word_by_word:
   1:
-    arabic: اَلَّا
+    arabic: أَلَّا
     translation: That not
     transliteration: allā
   2:
@@ -12,15 +12,15 @@ word_by_word:
     translation: will bear
     transliteration: taziru
   3:
-    arabic: وَازِرَةٌ
+    arabic: وَازِرَةٞ
     translation: a bearer of burdens
     transliteration: wāziratun
   4:
-    arabic: وِّزۡرَ
+    arabic: وِزۡرَ
     translation: (the) burden
     transliteration: wiz'ra
   5:
-    arabic: اُخۡرٰىۙ‏
+    arabic: أُخۡرَىٰ
     translation: (of) another
     transliteration: ukh'rā
 ---

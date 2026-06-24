@@ -1,8 +1,7 @@
 ---
-arabic_ayat: "قِيۡلَ لَهَا ادۡخُلِى الصَّرۡحَ​ ۚ فَلَمَّا رَاَتۡهُ حَسِبَـتۡهُ لُـجَّةً\
-  \ وَّكَشَفَتۡ عَنۡ سَاقَيۡهَا ​ؕ قَالَ اِنَّهٗ صَرۡحٌ مُّمَرَّدٌ مِّنۡ قَوَارِيۡرَ ۙ​قَالَتۡ\
-  \ رَبِّ اِنِّىۡ ظَلَمۡتُ نَـفۡسِىۡ وَ اَسۡلَمۡتُ مَعَ سُلَيۡمٰنَ لِلّٰهِ رَبِّ الۡعٰلَمِيۡنَ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: قِيلَ لَهَا ٱدۡخُلِي ٱلصَّرۡحَۖ فَلَمَّا رَأَتۡهُ حَسِبَتۡهُ لُجَّةٗ
+  وَكَشَفَتۡ عَن سَاقَيۡهَاۚ قَالَ إِنَّهُۥ صَرۡحٞ مُّمَرَّدٞ مِّن قَوَارِيرَۗ قَالَتۡ
+  رَبِّ إِنِّي ظَلَمۡتُ نَفۡسِي وَأَسۡلَمۡتُ مَعَ سُلَيۡمَٰنَ لِلَّهِ رَبِّ ٱلۡعَٰلَمِينَ
 sentence_translation: Then she was told, “Enter the palace.” But when she saw the
   hall, she thought it was a body of water, so she bared her legs. Solomon said. “It
   is just a palace paved with crystal.” ˹At last˺ she declared, “My Lord! I have certainly
@@ -10,7 +9,7 @@ sentence_translation: Then she was told, “Enter the palace.” But when she sa
   of all worlds.”
 word_by_word:
   1:
-    arabic: قِيۡلَ
+    arabic: قِيلَ
     translation: It was said
     transliteration: qīla
   2:
@@ -18,11 +17,11 @@ word_by_word:
     translation: to her
     transliteration: lahā
   3:
-    arabic: ادۡخُلِى
+    arabic: ٱدۡخُلِي
     translation: Enter
     transliteration: ud'khulī
   4:
-    arabic: الصَّرۡحَ​ ۚ
+    arabic: ٱلصَّرۡحَۖ
     translation: the palace
     transliteration: l-ṣarḥa
   5:
@@ -30,27 +29,27 @@ word_by_word:
     translation: Then when
     transliteration: falammā
   6:
-    arabic: رَاَتۡهُ
+    arabic: رَأَتۡهُ
     translation: she saw it
     transliteration: ra-athu
   7:
-    arabic: حَسِبَـتۡهُ
+    arabic: حَسِبَتۡهُ
     translation: she thought it
     transliteration: ḥasibathu
   8:
-    arabic: لُـجَّةً
+    arabic: لُجَّةٗ
     translation: (was) a pool
     transliteration: lujjatan
   9:
-    arabic: وَّكَشَفَتۡ
+    arabic: وَكَشَفَتۡ
     translation: and she uncovered
     transliteration: wakashafat
   10:
-    arabic: عَنۡ
+    arabic: عَن
     translation: '[on]'
     transliteration: ʿan
   11:
-    arabic: سَاقَيۡهَا ​ؕ
+    arabic: سَاقَيۡهَاۚ
     translation: her shins
     transliteration: sāqayhā
   12:
@@ -58,23 +57,23 @@ word_by_word:
     translation: He said
     transliteration: qāla
   13:
-    arabic: اِنَّهٗ
+    arabic: إِنَّهُۥ
     translation: Indeed, it
     transliteration: innahu
   14:
-    arabic: صَرۡحٌ
+    arabic: صَرۡحٞ
     translation: (is) a palace
     transliteration: ṣarḥun
   15:
-    arabic: مُّمَرَّدٌ
+    arabic: مُّمَرَّدٞ
     translation: made smooth
     transliteration: mumarradun
   16:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: of
     transliteration: min
   17:
-    arabic: قَوَارِيۡرَ ۙ​
+    arabic: قَوَارِيرَۗ
     translation: glass
     transliteration: qawārīra
   18:
@@ -86,7 +85,7 @@ word_by_word:
     translation: My Lord
     transliteration: rabbi
   20:
-    arabic: اِنِّىۡ
+    arabic: إِنِّي
     translation: indeed, I
     transliteration: innī
   21:
@@ -94,11 +93,11 @@ word_by_word:
     translation: '[I] have wronged'
     transliteration: ẓalamtu
   22:
-    arabic: نَـفۡسِىۡ
+    arabic: نَفۡسِي
     translation: myself
     transliteration: nafsī
   23:
-    arabic: وَ اَسۡلَمۡتُ
+    arabic: وَأَسۡلَمۡتُ
     translation: and I submit
     transliteration: wa-aslamtu
   24:
@@ -106,11 +105,11 @@ word_by_word:
     translation: with
     transliteration: maʿa
   25:
-    arabic: سُلَيۡمٰنَ
+    arabic: سُلَيۡمَٰنَ
     translation: Sulaiman
     transliteration: sulaymāna
   26:
-    arabic: لِلّٰهِ
+    arabic: لِلَّهِ
     translation: to Allah
     transliteration: lillahi
   27:
@@ -118,7 +117,7 @@ word_by_word:
     translation: (the) Lord
     transliteration: rabbi
   28:
-    arabic: "الۡعٰلَمِيۡنَ‏ \uFEFF\uFEFF"
+    arabic: ٱلۡعَٰلَمِينَ
     translation: (of) the worlds
     transliteration: l-ʿālamīna
 ---

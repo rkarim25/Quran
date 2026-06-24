@@ -1,16 +1,16 @@
 ---
-arabic_ayat: اَفَرَءَيۡتَ الَّذِىۡ كَفَرَ بِاٰيٰتِنَا وَقَالَ لَاُوۡتَيَنَّ مَالًا
-  وَّوَلَدًا ؕ‏
+arabic_ayat: أَفَرَءَيۡتَ ٱلَّذِي كَفَرَ بِـَٔايَٰتِنَا وَقَالَ لَأُوتَيَنَّ مَالٗا
+  وَوَلَدًا
 sentence_translation: Have you seen ˹O Prophet˺ the one who rejects Our revelations
   yet boasts, “I will definitely be granted ˹plenty of˺ wealth and children ˹if there
   is an afterlife˺.”?
 word_by_word:
   1:
-    arabic: اَفَرَءَيۡتَ
+    arabic: أَفَرَءَيۡتَ
     translation: Then, have you seen
     transliteration: afara-ayta
   2:
-    arabic: الَّذِىۡ
+    arabic: ٱلَّذِي
     translation: he who
     transliteration: alladhī
   3:
@@ -18,7 +18,7 @@ word_by_word:
     translation: disbelieved
     transliteration: kafara
   4:
-    arabic: بِاٰيٰتِنَا
+    arabic: بِـَٔايَٰتِنَا
     translation: in Our Verses
     transliteration: biāyātinā
   5:
@@ -26,15 +26,15 @@ word_by_word:
     translation: and said
     transliteration: waqāla
   6:
-    arabic: لَاُوۡتَيَنَّ
+    arabic: لَأُوتَيَنَّ
     translation: Surely, I will be given
     transliteration: laūtayanna
   7:
-    arabic: مَالًا
+    arabic: مَالٗا
     translation: wealth
     transliteration: mālan
   8:
-    arabic: وَّوَلَدًا ؕ‏
+    arabic: وَوَلَدًا
     translation: and children
     transliteration: wawaladan
 ---

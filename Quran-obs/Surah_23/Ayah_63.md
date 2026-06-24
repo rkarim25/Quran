@@ -1,6 +1,6 @@
 ---
-arabic_ayat: بَلۡ قُلُوۡبُهُمۡ فِىۡ غَمۡرَةٍ مِّنۡ هٰذَا وَلَهُمۡ اَعۡمَالٌ مِّنۡ
-  دُوۡنِ ذٰلِكَ هُمۡ لَهَا عٰمِلُوۡنَ‏
+arabic_ayat: بَلۡ قُلُوبُهُمۡ فِي غَمۡرَةٖ مِّنۡ هَٰذَا وَلَهُمۡ أَعۡمَٰلٞ مِّن دُونِ
+  ذَٰلِكَ هُمۡ لَهَا عَٰمِلُونَ
 sentence_translation: But the hearts of those ˹who disbelieve˺ are oblivious to ˹all
   of˺ this, and they have other ˹evil˺ deeds, opposite to this, in which they are
   engrossed.
@@ -10,15 +10,15 @@ word_by_word:
     translation: Nay
     transliteration: bal
   2:
-    arabic: قُلُوۡبُهُمۡ
+    arabic: قُلُوبُهُمۡ
     translation: their hearts
     transliteration: qulūbuhum
   3:
-    arabic: فِىۡ
+    arabic: فِي
     translation: (are) in
     transliteration: fī
   4:
-    arabic: غَمۡرَةٍ
+    arabic: غَمۡرَةٖ
     translation: confusion
     transliteration: ghamratin
   5:
@@ -26,7 +26,7 @@ word_by_word:
     translation: over
     transliteration: min
   6:
-    arabic: هٰذَا
+    arabic: هَٰذَا
     translation: this
     transliteration: hādhā
   7:
@@ -34,19 +34,19 @@ word_by_word:
     translation: and for them
     transliteration: walahum
   8:
-    arabic: اَعۡمَالٌ
+    arabic: أَعۡمَٰلٞ
     translation: (are) deeds
     transliteration: aʿmālun
   9:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: besides
     transliteration: min
   10:
-    arabic: دُوۡنِ
+    arabic: دُونِ
     translation: besides
     transliteration: dūni
   11:
-    arabic: ذٰلِكَ
+    arabic: ذَٰلِكَ
     translation: that
     transliteration: dhālika
   12:
@@ -58,7 +58,7 @@ word_by_word:
     translation: for it
     transliteration: lahā
   14:
-    arabic: عٰمِلُوۡنَ‏
+    arabic: عَٰمِلُونَ
     translation: (are) doers
     transliteration: ʿāmilūna
 ---

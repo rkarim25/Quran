@@ -1,11 +1,11 @@
 ---
-arabic_ayat: اُنْظُرۡ كَيۡفَ ضَرَبُوۡا لَـكَ الۡاَمۡثَالَ فَضَلُّوۡا فَلَا يَسۡتَطِيۡعُوۡنَ
-  سَبِيۡلاً‏
+arabic_ayat: ٱنظُرۡ كَيۡفَ ضَرَبُواْ لَكَ ٱلۡأَمۡثَٰلَ فَضَلُّواْ فَلَا يَسۡتَطِيعُونَ
+  سَبِيلٗا
 sentence_translation: See ˹O Prophet˺ how they call you names! So they have gone so
   ˹far˺ astray that they cannot find the ˹Right˺ Way.
 word_by_word:
   1:
-    arabic: اُنْظُرۡ
+    arabic: ٱنظُرۡ
     translation: See
     transliteration: unẓur
   2:
@@ -13,19 +13,19 @@ word_by_word:
     translation: how
     transliteration: kayfa
   3:
-    arabic: ضَرَبُوۡا
+    arabic: ضَرَبُواْ
     translation: they set forth
     transliteration: ḍarabū
   4:
-    arabic: لَـكَ
+    arabic: لَكَ
     translation: for you
     transliteration: laka
   5:
-    arabic: الۡاَمۡثَالَ
+    arabic: ٱلۡأَمۡثَٰلَ
     translation: the similitudes
     transliteration: l-amthāla
   6:
-    arabic: فَضَلُّوۡا
+    arabic: فَضَلُّواْ
     translation: but they have gone astray
     transliteration: faḍallū
   7:
@@ -33,11 +33,11 @@ word_by_word:
     translation: so not
     transliteration: falā
   8:
-    arabic: يَسۡتَطِيۡعُوۡنَ
+    arabic: يَسۡتَطِيعُونَ
     translation: they are able (to find)
     transliteration: yastaṭīʿūna
   9:
-    arabic: سَبِيۡلاً‏
+    arabic: سَبِيلٗا
     translation: a way
     transliteration: sabīlan
 ---

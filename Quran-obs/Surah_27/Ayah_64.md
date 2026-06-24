@@ -1,21 +1,21 @@
 ---
-arabic_ayat: اَمَّنۡ يَّبۡدَؤُا الۡخَـلۡقَ ثُمَّ يُعِيۡدُهٗ وَمَنۡ يَّرۡزُقُكُمۡ مِّنَ
-  السَّمَآءِ وَالۡاَرۡضِ​ؕ ءَاِلٰـهٌ مَّعَ اللّٰهِ​ؕ قُلۡ هَاتُوۡا بُرۡهَانَكُمۡ
-  اِنۡ كُنۡتُمۡ صٰدِقِيۡنَ‏
+arabic_ayat: أَمَّن يَبۡدَؤُاْ ٱلۡخَلۡقَ ثُمَّ يُعِيدُهُۥ وَمَن يَرۡزُقُكُم مِّنَ
+  ٱلسَّمَآءِ وَٱلۡأَرۡضِۗ أَءِلَٰهٞ مَّعَ ٱللَّهِۚ قُلۡ هَاتُواْ بُرۡهَٰنَكُمۡ إِن
+  كُنتُمۡ صَٰدِقِينَ
 sentence_translation: Or ˹ask them,˺ “Who originates the creation then resurrects
   it, and gives you provisions from the heavens and the earth? Is it another god besides
   Allah?” Say, ˹O Prophet,˺ “Show ˹me˺ your proof, if what you say is true.”
 word_by_word:
   1:
-    arabic: اَمَّنۡ
+    arabic: أَمَّن
     translation: Or Who
     transliteration: amman
   2:
-    arabic: يَّبۡدَؤُا
+    arabic: يَبۡدَؤُاْ
     translation: originates
     transliteration: yabda-u
   3:
-    arabic: الۡخَـلۡقَ
+    arabic: ٱلۡخَلۡقَ
     translation: the creation
     transliteration: l-khalqa
   4:
@@ -23,15 +23,15 @@ word_by_word:
     translation: then
     transliteration: thumma
   5:
-    arabic: يُعِيۡدُهٗ
+    arabic: يُعِيدُهُۥ
     translation: repeats it
     transliteration: yuʿīduhu
   6:
-    arabic: وَمَنۡ
+    arabic: وَمَن
     translation: and Who
     transliteration: waman
   7:
-    arabic: يَّرۡزُقُكُمۡ
+    arabic: يَرۡزُقُكُم
     translation: provides you
     transliteration: yarzuqukum
   8:
@@ -39,15 +39,15 @@ word_by_word:
     translation: from
     transliteration: mina
   9:
-    arabic: السَّمَآءِ
+    arabic: ٱلسَّمَآءِ
     translation: the heavens
     transliteration: l-samāi
   10:
-    arabic: وَالۡاَرۡضِ​ؕ
+    arabic: وَٱلۡأَرۡضِۗ أَ
     translation: and the earth
     transliteration: wal-arḍi
   11:
-    arabic: ءَاِلٰـهٌ
+    arabic: ءِلَٰهٞ
     translation: Is there any god
     transliteration: a-ilāhun
   12:
@@ -55,7 +55,7 @@ word_by_word:
     translation: with
     transliteration: maʿa
   13:
-    arabic: اللّٰهِ​ؕ
+    arabic: ٱللَّهِۚ
     translation: Allah
     transliteration: l-lahi
   14:
@@ -63,23 +63,23 @@ word_by_word:
     translation: Say
     transliteration: qul
   15:
-    arabic: هَاتُوۡا
+    arabic: هَاتُواْ
     translation: Bring forth
     transliteration: hātū
   16:
-    arabic: بُرۡهَانَكُمۡ
+    arabic: بُرۡهَٰنَكُمۡ
     translation: your proof
     transliteration: bur'hānakum
   17:
-    arabic: اِنۡ
+    arabic: إِن
     translation: if
     transliteration: in
   18:
-    arabic: كُنۡتُمۡ
+    arabic: كُنتُمۡ
     translation: you are
     transliteration: kuntum
   19:
-    arabic: صٰدِقِيۡنَ‏
+    arabic: صَٰدِقِينَ
     translation: truthful
     transliteration: ṣādiqīna
 ---

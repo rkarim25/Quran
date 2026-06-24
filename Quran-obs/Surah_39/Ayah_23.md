@@ -1,8 +1,8 @@
 ---
-arabic_ayat: اَللّٰهُ نَزَّلَ اَحۡسَنَ الۡحَدِيۡثِ كِتٰبًا مُّتَشَابِهًا مَّثَانِىَ
-  ​ۖ  تَقۡشَعِرُّ مِنۡهُ جُلُوۡدُ الَّذِيۡنَ يَخۡشَوۡنَ رَبَّهُمۡ​ۚ ثُمَّ تَلِيۡنُ
-  جُلُوۡدُهُمۡ وَقُلُوۡبُهُمۡ اِلٰى ذِكۡرِ اللّٰهِ​ ؕ ذٰ لِكَ هُدَى اللّٰهِ يَهۡدِىۡ
-  بِهٖ مَنۡ يَّشَآءُ​ ؕ وَمَنۡ يُّضۡلِلِ اللّٰهُ فَمَا لَهٗ مِنۡ هَادٍ‏
+arabic_ayat: ٱللَّهُ نَزَّلَ أَحۡسَنَ ٱلۡحَدِيثِ كِتَٰبٗا مُّتَشَٰبِهٗا مَّثَانِيَ
+  تَقۡشَعِرُّ مِنۡهُ جُلُودُ ٱلَّذِينَ يَخۡشَوۡنَ رَبَّهُمۡ ثُمَّ تَلِينُ جُلُودُهُمۡ
+  وَقُلُوبُهُمۡ إِلَىٰ ذِكۡرِ ٱللَّهِۚ ذَٰلِكَ هُدَى ٱللَّهِ يَهۡدِي بِهِۦ مَن يَشَآءُۚ
+  وَمَن يُضۡلِلِ ٱللَّهُ فَمَا لَهُۥ مِنۡ هَادٍ
 sentence_translation: ˹It is˺ Allah ˹Who˺ has sent down the best message—a Book of
   perfect consistency and repeated lessons—which causes the skin ˹and hearts˺ of those
   who fear their Lord to tremble, then their skin and hearts soften at the mention
@@ -10,7 +10,7 @@ sentence_translation: ˹It is˺ Allah ˹Who˺ has sent down the best message—a
   whoever He wills. But whoever Allah leaves to stray will be left with no guide.
 word_by_word:
   1:
-    arabic: اَللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: al-lahu
   2:
@@ -18,23 +18,23 @@ word_by_word:
     translation: has revealed
     transliteration: nazzala
   3:
-    arabic: اَحۡسَنَ
+    arabic: أَحۡسَنَ
     translation: (the) best
     transliteration: aḥsana
   4:
-    arabic: الۡحَدِيۡثِ
+    arabic: ٱلۡحَدِيثِ
     translation: '(of) [the] statement '
     transliteration: l-ḥadīthi
   5:
-    arabic: كِتٰبًا
+    arabic: كِتَٰبٗا
     translation: a Book
     transliteration: kitāban
   6:
-    arabic: مُّتَشَابِهًا
+    arabic: مُّتَشَٰبِهٗا
     translation: (its parts) resembling each other
     transliteration: mutashābihan
   7:
-    arabic: مَّثَانِىَ ​ۖ 
+    arabic: مَّثَانِيَ
     translation: oft-repeated
     transliteration: mathāniya
   8:
@@ -46,11 +46,11 @@ word_by_word:
     translation: from it
     transliteration: min'hu
   10:
-    arabic: جُلُوۡدُ
+    arabic: جُلُودُ
     translation: (the) skins
     transliteration: julūdu
   11:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: (of) those who
     transliteration: alladhīna
   12:
@@ -58,7 +58,7 @@ word_by_word:
     translation: fear
     transliteration: yakhshawna
   13:
-    arabic: رَبَّهُمۡ​ۚ
+    arabic: رَبَّهُمۡ
     translation: their Lord
     transliteration: rabbahum
   14:
@@ -66,19 +66,19 @@ word_by_word:
     translation: then
     transliteration: thumma
   15:
-    arabic: تَلِيۡنُ
+    arabic: تَلِينُ
     translation: relax
     transliteration: talīnu
   16:
-    arabic: جُلُوۡدُهُمۡ
+    arabic: جُلُودُهُمۡ
     translation: their skins
     transliteration: julūduhum
   17:
-    arabic: وَقُلُوۡبُهُمۡ
+    arabic: وَقُلُوبُهُمۡ
     translation: and their hearts
     transliteration: waqulūbuhum
   18:
-    arabic: اِلٰى
+    arabic: إِلَىٰ
     translation: at
     transliteration: ilā
   19:
@@ -86,11 +86,11 @@ word_by_word:
     translation: (the) remembrance
     transliteration: dhik'ri
   20:
-    arabic: اللّٰهِ​ ؕ
+    arabic: ٱللَّهِۚ
     translation: (of) Allah
     transliteration: l-lahi
   21:
-    arabic: ذٰ لِكَ
+    arabic: ذَٰلِكَ
     translation: That
     transliteration: dhālika
   22:
@@ -98,35 +98,35 @@ word_by_word:
     translation: (is the) guidance
     transliteration: hudā
   23:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (of) Allah
     transliteration: l-lahi
   24:
-    arabic: يَهۡدِىۡ
+    arabic: يَهۡدِي
     translation: He guides
     transliteration: yahdī
   25:
-    arabic: بِهٖ
+    arabic: بِهِۦ
     translation: with it
     transliteration: bihi
   26:
-    arabic: مَنۡ
+    arabic: مَن
     translation: whom
     transliteration: man
   27:
-    arabic: يَّشَآءُ​ ؕ
+    arabic: يَشَآءُۚ
     translation: He wills
     transliteration: yashāu
   28:
-    arabic: وَمَنۡ
+    arabic: وَمَن
     translation: And whoever
     transliteration: waman
   29:
-    arabic: يُّضۡلِلِ
+    arabic: يُضۡلِلِ
     translation: Allah lets go astray
     transliteration: yuḍ'lili
   30:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah lets go astray
     transliteration: l-lahu
   31:
@@ -134,7 +134,7 @@ word_by_word:
     translation: then not
     transliteration: famā
   32:
-    arabic: لَهٗ
+    arabic: لَهُۥ
     translation: for him
     transliteration: lahu
   33:
@@ -142,7 +142,7 @@ word_by_word:
     translation: any
     transliteration: min
   34:
-    arabic: هَادٍ‏
+    arabic: هَادٍ
     translation: guide
     transliteration: hādin
 ---

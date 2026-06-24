@@ -1,8 +1,8 @@
 ---
-arabic_ayat: وَاتۡلُ عَلَيۡهِمۡ نَبَاَ نُوۡحٍ​ۘ اِذۡ قَالَ لِقَوۡمِهٖ يٰقَوۡمِ اِنۡ
-  كَانَ كَبُرَ عَلَيۡكُمۡ مَّقَامِىۡ وَتَذۡكِيۡرِىۡ بِاٰيٰتِ اللّٰهِ فَعَلَى اللّٰهِ
-  تَوَكَّلۡتُ فَاَجۡمِعُوۡۤا اَمۡرَكُمۡ وَشُرَكَآءَكُمۡ ثُمَّ لَا يَكُنۡ اَمۡرُكُمۡ
-  عَلَيۡكُمۡ غُمَّةً ثُمَّ اقۡضُوۡۤا اِلَىَّ وَ لَا تُنۡظِرُوۡنِ‏
+arabic_ayat: ۞ وَٱتۡلُ عَلَيۡهِمۡ نَبَأَ نُوحٍ إِذۡ قَالَ لِقَوۡمِهِۦ يَٰقَوۡمِ إِن
+  كَانَ كَبُرَ عَلَيۡكُم مَّقَامِي وَتَذۡكِيرِي بِـَٔايَٰتِ ٱللَّهِ فَعَلَى ٱللَّهِ
+  تَوَكَّلۡتُ فَأَجۡمِعُوٓاْ أَمۡرَكُمۡ وَشُرَكَآءَكُمۡ ثُمَّ لَا يَكُنۡ أَمۡرُكُمۡ
+  عَلَيۡكُمۡ غُمَّةٗ ثُمَّ ٱقۡضُوٓاْ إِلَيَّ وَلَا تُنظِرُونِ
 sentence_translation: Relate to them ˹O Prophet˺ the story of Noah when he said to
   his people, “O my People! If my presence and my reminders to you of Allah’s signs
   are unbearable to you, then ˹know that˺ I have put my trust in Allah. So devise
@@ -10,7 +10,7 @@ sentence_translation: Relate to them ˹O Prophet˺ the story of Noah when he sai
   your plot—then carry it out against me without delay!
 word_by_word:
   1:
-    arabic: ۞ وَاتۡلُ
+    arabic: ۞ وَٱتۡلُ
     translation: And recite
     transliteration: wa-ut'lu
   2:
@@ -18,15 +18,15 @@ word_by_word:
     translation: to them
     transliteration: ʿalayhim
   3:
-    arabic: نَبَاَ
+    arabic: نَبَأَ
     translation: the news
     transliteration: naba-a
   4:
-    arabic: نُوۡحٍ​ۘ
+    arabic: نُوحٍ
     translation: (of) Nuh
     transliteration: nūḥin
   5:
-    arabic: اِذۡ
+    arabic: إِذۡ
     translation: when
     transliteration: idh
   6:
@@ -34,15 +34,15 @@ word_by_word:
     translation: he said
     transliteration: qāla
   7:
-    arabic: لِقَوۡمِهٖ
+    arabic: لِقَوۡمِهِۦ
     translation: to his people
     transliteration: liqawmihi
   8:
-    arabic: يٰقَوۡمِ
+    arabic: يَٰقَوۡمِ
     translation: O my people
     transliteration: yāqawmi
   9:
-    arabic: اِنۡ
+    arabic: إِن
     translation: If
     transliteration: in
   10:
@@ -54,23 +54,23 @@ word_by_word:
     translation: hard
     transliteration: kabura
   12:
-    arabic: عَلَيۡكُمۡ
+    arabic: عَلَيۡكُم
     translation: on you
     transliteration: ʿalaykum
   13:
-    arabic: مَّقَامِىۡ
+    arabic: مَّقَامِي
     translation: my stay
     transliteration: maqāmī
   14:
-    arabic: وَتَذۡكِيۡرِىۡ
+    arabic: وَتَذۡكِيرِي
     translation: and my reminding
     transliteration: watadhkīrī
   15:
-    arabic: بِاٰيٰتِ
+    arabic: بِـَٔايَٰتِ
     translation: the Signs of Allah
     transliteration: biāyāti
   16:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: the Signs of Allah
     transliteration: l-lahi
   17:
@@ -78,7 +78,7 @@ word_by_word:
     translation: then on
     transliteration: faʿalā
   18:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   19:
@@ -86,11 +86,11 @@ word_by_word:
     translation: I put my trust
     transliteration: tawakkaltu
   20:
-    arabic: فَاَجۡمِعُوۡۤا
+    arabic: فَأَجۡمِعُوٓاْ
     translation: So you all resolve
     transliteration: fa-ajmiʿū
   21:
-    arabic: اَمۡرَكُمۡ
+    arabic: أَمۡرَكُمۡ
     translation: your plan
     transliteration: amrakum
   22:
@@ -110,7 +110,7 @@ word_by_word:
     translation: let not be
     transliteration: yakun
   26:
-    arabic: اَمۡرُكُمۡ
+    arabic: أَمۡرُكُمۡ
     translation: (in) your plan
     transliteration: amrukum
   27:
@@ -118,7 +118,7 @@ word_by_word:
     translation: for you
     transliteration: ʿalaykum
   28:
-    arabic: غُمَّةً
+    arabic: غُمَّةٗ
     translation: any doubt
     transliteration: ghummatan
   29:
@@ -126,19 +126,19 @@ word_by_word:
     translation: Then
     transliteration: thumma
   30:
-    arabic: اقۡضُوۡۤا
+    arabic: ٱقۡضُوٓاْ
     translation: carry (it out)
     transliteration: iq'ḍū
   31:
-    arabic: اِلَىَّ
+    arabic: إِلَيَّ
     translation: upon me
     transliteration: ilayya
   32:
-    arabic: وَ لَا
+    arabic: وَلَا
     translation: and (do) not
     transliteration: walā
   33:
-    arabic: تُنۡظِرُوۡنِ‏
+    arabic: تُنظِرُونِ
     translation: give me respite
     transliteration: tunẓirūni
 ---

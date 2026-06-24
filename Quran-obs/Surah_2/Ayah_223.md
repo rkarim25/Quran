@@ -1,7 +1,7 @@
 ---
-arabic_ayat: نِسَآؤُكُمۡ حَرۡثٌ لَّـكُمۡ فَاۡتُوۡا حَرۡثَكُمۡ اَنّٰى شِئۡتُمۡ​ 
-  وَقَدِّمُوۡا لِاَنۡفُسِكُمۡ​ؕ وَاتَّقُوا اللّٰهَ وَاعۡلَمُوۡٓا اَنَّکُمۡ مُّلٰقُوۡهُ ​ؕ
-  وَ بَشِّرِ الۡمُؤۡمِنِيۡنَ‏
+arabic_ayat: نِسَآؤُكُمۡ حَرۡثٞ لَّكُمۡ فَأۡتُواْ حَرۡثَكُمۡ أَنَّىٰ شِئۡتُمۡۖ وَقَدِّمُواْ
+  لِأَنفُسِكُمۡۚ وَٱتَّقُواْ ٱللَّهَ وَٱعۡلَمُوٓاْ أَنَّكُم مُّلَٰقُوهُۗ وَبَشِّرِ
+  ٱلۡمُؤۡمِنِينَ
 sentence_translation: Your wives are like farmland for you, so approach them ˹consensually˺
   as you please. And send forth something good for yourselves. Be mindful of Allah,
   and know that you will meet Him. And give good news to the believers.
@@ -11,15 +11,15 @@ word_by_word:
     translation: Your wives
     transliteration: nisāukum
   2:
-    arabic: حَرۡثٌ
+    arabic: حَرۡثٞ
     translation: (are) a tilth
     transliteration: ḥarthun
   3:
-    arabic: لَّـكُمۡ
+    arabic: لَّكُمۡ
     translation: for you
     transliteration: lakum
   4:
-    arabic: فَاۡتُوۡا
+    arabic: فَأۡتُواْ
     translation: so come
     transliteration: fatū
   5:
@@ -27,47 +27,47 @@ word_by_word:
     translation: (to) your tilth
     transliteration: ḥarthakum
   6:
-    arabic: اَنّٰى
+    arabic: أَنَّىٰ
     translation: when
     transliteration: annā
   7:
-    arabic: شِئۡتُمۡ​ 
+    arabic: شِئۡتُمۡۖ
     translation: you wish
     transliteration: shi'tum
   8:
-    arabic: وَقَدِّمُوۡا
+    arabic: وَقَدِّمُواْ
     translation: and send forth (good deeds)
     transliteration: waqaddimū
   9:
-    arabic: لِاَنۡفُسِكُمۡ​ؕ
+    arabic: لِأَنفُسِكُمۡۚ
     translation: for yourselves
     transliteration: li-anfusikum
   10:
-    arabic: وَاتَّقُوا
+    arabic: وَٱتَّقُواْ
     translation: And be conscious
     transliteration: wa-ittaqū
   11:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: (of) Allah
     transliteration: l-laha
   12:
-    arabic: وَاعۡلَمُوۡٓا
+    arabic: وَٱعۡلَمُوٓاْ
     translation: and know
     transliteration: wa-iʿ'lamū
   13:
-    arabic: اَنَّکُمۡ
+    arabic: أَنَّكُم
     translation: that you
     transliteration: annakum
   14:
-    arabic: مُّلٰقُوۡهُ ​ؕ
+    arabic: مُّلَٰقُوهُۗ
     translation: (will) meet Him
     transliteration: mulāqūhu
   15:
-    arabic: وَ بَشِّرِ
+    arabic: وَبَشِّرِ
     translation: And give glad tidings
     transliteration: wabashiri
   16:
-    arabic: الۡمُؤۡمِنِيۡنَ‏
+    arabic: ٱلۡمُؤۡمِنِينَ
     translation: (to) the believers
     transliteration: l-mu'minīna
 ---

@@ -1,23 +1,23 @@
 ---
-arabic_ayat: اِلَّا الَّذِيۡنَ تَابُوۡا مِنۡۢ بَعۡدِ ذٰلِكَ وَاَصۡلَحُوۡا​ۚ فَاِنَّ
-  اللّٰهَ غَفُوۡرٌ رَّحِيۡمٌ‏
+arabic_ayat: إِلَّا ٱلَّذِينَ تَابُواْ مِنۢ بَعۡدِ ذَٰلِكَ وَأَصۡلَحُواْ فَإِنَّ ٱللَّهَ
+  غَفُورٞ رَّحِيمٞ
 sentence_translation: except those who repent afterwards and mend their ways, then
   surely Allah is All-Forgiving, Most Merciful.
 word_by_word:
   1:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: Except
     transliteration: illā
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   3:
-    arabic: تَابُوۡا
+    arabic: تَابُواْ
     translation: repent
     transliteration: tābū
   4:
-    arabic: مِنۡۢ
+    arabic: مِنۢ
     translation: after
     transliteration: min
   5:
@@ -25,27 +25,27 @@ word_by_word:
     translation: after
     transliteration: baʿdi
   6:
-    arabic: ذٰلِكَ
+    arabic: ذَٰلِكَ
     translation: that
     transliteration: dhālika
   7:
-    arabic: وَاَصۡلَحُوۡا​ۚ
+    arabic: وَأَصۡلَحُواْ
     translation: and reform
     transliteration: wa-aṣlaḥū
   8:
-    arabic: فَاِنَّ
+    arabic: فَإِنَّ
     translation: Then indeed
     transliteration: fa-inna
   9:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   10:
-    arabic: غَفُوۡرٌ
+    arabic: غَفُورٞ
     translation: (is) Oft-Forgiving
     transliteration: ghafūrun
   11:
-    arabic: رَّحِيۡمٌ‏
+    arabic: رَّحِيمٞ
     translation: Most Merciful
     transliteration: raḥīmun
 ---

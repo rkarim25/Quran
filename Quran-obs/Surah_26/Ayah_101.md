@@ -1,5 +1,5 @@
 ---
-arabic_ayat: وَلَا صَدِيۡقٍ حَمِيۡمٍ‏
+arabic_ayat: وَلَا صَدِيقٍ حَمِيمٖ
 sentence_translation: nor a close friend.
 word_by_word:
   1:
@@ -7,11 +7,11 @@ word_by_word:
     translation: And not
     transliteration: walā
   2:
-    arabic: صَدِيۡقٍ
+    arabic: صَدِيقٍ
     translation: a friend
     transliteration: ṣadīqin
   3:
-    arabic: حَمِيۡمٍ‏
+    arabic: حَمِيمٖ
     translation: close
     transliteration: ḥamīmin
 ---

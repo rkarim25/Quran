@@ -1,25 +1,25 @@
 ---
-arabic_ayat: وَلَاۤ اَنۡـتُمۡ عٰبِدُوۡنَ مَاۤ اَعۡبُدُ​ ۚ‏
+arabic_ayat: وَلَآ أَنتُمۡ عَٰبِدُونَ مَآ أَعۡبُدُ
 sentence_translation: nor do you worship what I worship.
 word_by_word:
   1:
-    arabic: وَلَاۤ
+    arabic: وَلَآ
     translation: And not
     transliteration: walā
   2:
-    arabic: اَنۡـتُمۡ
+    arabic: أَنتُمۡ
     translation: you
     transliteration: antum
   3:
-    arabic: عٰبِدُوۡنَ
+    arabic: عَٰبِدُونَ
     translation: (are) worshippers
     transliteration: ʿābidūna
   4:
-    arabic: مَاۤ
+    arabic: مَآ
     translation: (of) what
     transliteration: mā
   5:
-    arabic: اَعۡبُدُ​ ۚ‏
+    arabic: أَعۡبُدُ
     translation: I worship
     transliteration: aʿbudu
 ---

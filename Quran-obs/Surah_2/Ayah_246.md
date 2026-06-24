@@ -1,10 +1,10 @@
 ---
-arabic_ayat: اَلَمۡ تَرَ اِلَى الۡمَلَاِ مِنۡۢ بَنِىۡٓ اِسۡرَآءِيۡلَ مِنۡۢ بَعۡدِ
-  مُوۡسٰى​ۘ اِذۡ قَالُوۡا لِنَبِىٍّ لَّهُمُ ابۡعَثۡ لَنَا مَلِکًا نُّقَاتِلۡ فِىۡ
-  سَبِيۡلِ اللّٰهِ​ؕ قَالَ هَلۡ عَسَيۡتُمۡ اِنۡ کُتِبَ عَلَيۡکُمُ الۡقِتَالُ اَلَّا
-  تُقَاتِلُوۡا ؕ قَالُوۡا وَمَا لَنَآ اَلَّا نُقَاتِلَ فِىۡ سَبِيۡلِ اللّٰهِ وَقَدۡ
-  اُخۡرِجۡنَا مِنۡ دِيَارِنَا وَاَبۡنَآٮِٕنَا ​ؕ فَلَمَّا کُتِبَ عَلَيۡهِمُ الۡقِتَالُ
-  تَوَلَّوۡا اِلَّا قَلِيۡلًا مِّنۡهُمۡ​ؕ وَاللّٰهُ عَلِيۡمٌۢ بِالظّٰلِمِيۡنَ‏
+arabic_ayat: أَلَمۡ تَرَ إِلَى ٱلۡمَلَإِ مِنۢ بَنِيٓ إِسۡرَٰٓءِيلَ مِنۢ بَعۡدِ مُوسَىٰٓ
+  إِذۡ قَالُواْ لِنَبِيّٖ لَّهُمُ ٱبۡعَثۡ لَنَا مَلِكٗا نُّقَٰتِلۡ فِي سَبِيلِ ٱللَّهِۖ
+  قَالَ هَلۡ عَسَيۡتُمۡ إِن كُتِبَ عَلَيۡكُمُ ٱلۡقِتَالُ أَلَّا تُقَٰتِلُواْۖ قَالُواْ
+  وَمَا لَنَآ أَلَّا نُقَٰتِلَ فِي سَبِيلِ ٱللَّهِ وَقَدۡ أُخۡرِجۡنَا مِن دِيَٰرِنَا
+  وَأَبۡنَآئِنَاۖ فَلَمَّا كُتِبَ عَلَيۡهِمُ ٱلۡقِتَالُ تَوَلَّوۡاْ إِلَّا قَلِيلٗا
+  مِّنۡهُمۡۚ وَٱللَّهُ عَلِيمُۢ بِٱلظَّٰلِمِينَ
 sentence_translation: Have you not seen those chiefs of the Children of Israel after
   Moses? They said to one of their prophets, “Appoint for us a king, ˹and˺ we will
   fight in the cause of Allah.” He said, “Are you not going to cower if ordered to
@@ -14,7 +14,7 @@ sentence_translation: Have you not seen those chiefs of the Children of Israel a
   knowledge of the wrongdoers.
 word_by_word:
   1:
-    arabic: اَلَمۡ
+    arabic: أَلَمۡ
     translation: Did not
     transliteration: alam
   2:
@@ -22,27 +22,27 @@ word_by_word:
     translation: you see
     transliteration: tara
   3:
-    arabic: اِلَى
+    arabic: إِلَى
     translation: '[towards]'
     transliteration: ilā
   4:
-    arabic: الۡمَلَاِ
+    arabic: ٱلۡمَلَإِ
     translation: the chiefs
     transliteration: l-mala-i
   5:
-    arabic: مِنۡۢ
+    arabic: مِنۢ
     translation: of
     transliteration: min
   6:
-    arabic: بَنِىۡٓ
+    arabic: بَنِيٓ
     translation: (the) Children
     transliteration: banī
   7:
-    arabic: اِسۡرَآءِيۡلَ
+    arabic: إِسۡرَٰٓءِيلَ
     translation: (of) Israel
     transliteration: is'rāīla
   8:
-    arabic: مِنۡۢ
+    arabic: مِنۢ
     translation: from
     transliteration: min
   9:
@@ -50,19 +50,19 @@ word_by_word:
     translation: after
     transliteration: baʿdi
   10:
-    arabic: مُوۡسٰى​ۘ
+    arabic: مُوسَىٰٓ
     translation: Musa
     transliteration: mūsā
   11:
-    arabic: اِذۡ
+    arabic: إِذۡ
     translation: when
     transliteration: idh
   12:
-    arabic: قَالُوۡا
+    arabic: قَالُواْ
     translation: they said
     transliteration: qālū
   13:
-    arabic: لِنَبِىٍّ
+    arabic: لِنَبِيّٖ
     translation: to a Prophet
     transliteration: linabiyyin
   14:
@@ -70,7 +70,7 @@ word_by_word:
     translation: of theirs
     transliteration: lahumu
   15:
-    arabic: ابۡعَثۡ
+    arabic: ٱبۡعَثۡ
     translation: Appoint
     transliteration: ib'ʿath
   16:
@@ -78,23 +78,23 @@ word_by_word:
     translation: for us
     transliteration: lanā
   17:
-    arabic: مَلِکًا
+    arabic: مَلِكٗا
     translation: a king
     transliteration: malikan
   18:
-    arabic: نُّقَاتِلۡ
+    arabic: نُّقَٰتِلۡ
     translation: we may fight
     transliteration: nuqātil
   19:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   20:
-    arabic: سَبِيۡلِ
+    arabic: سَبِيلِ
     translation: (the) way
     transliteration: sabīli
   21:
-    arabic: اللّٰهِ​ؕ
+    arabic: ٱللَّهِۖ
     translation: (of) Allah
     transliteration: l-lahi
   22:
@@ -110,31 +110,31 @@ word_by_word:
     translation: 'you perhaps '
     transliteration: ʿasaytum
   25:
-    arabic: اِنۡ
+    arabic: إِن
     translation: if
     transliteration: in
   26:
-    arabic: کُتِبَ
+    arabic: كُتِبَ
     translation: prescribed
     transliteration: kutiba
   27:
-    arabic: عَلَيۡکُمُ
+    arabic: عَلَيۡكُمُ
     translation: upon you
     transliteration: ʿalaykumu
   28:
-    arabic: الۡقِتَالُ
+    arabic: ٱلۡقِتَالُ
     translation: '[the] fighting'
     transliteration: l-qitālu
   29:
-    arabic: اَلَّا
+    arabic: أَلَّا
     translation: that not
     transliteration: allā
   30:
-    arabic: تُقَاتِلُوۡا ؕ
+    arabic: تُقَٰتِلُواْۖ
     translation: you fight
     transliteration: tuqātilū
   31:
-    arabic: قَالُوۡا
+    arabic: قَالُواْ
     translation: They said
     transliteration: qālū
   32:
@@ -146,23 +146,23 @@ word_by_word:
     translation: for us
     transliteration: lanā
   34:
-    arabic: اَلَّا
+    arabic: أَلَّا
     translation: that not
     transliteration: allā
   35:
-    arabic: نُقَاتِلَ
+    arabic: نُقَٰتِلَ
     translation: we fight
     transliteration: nuqātila
   36:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   37:
-    arabic: سَبِيۡلِ
+    arabic: سَبِيلِ
     translation: (the) way
     transliteration: sabīli
   38:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (of) Allah
     transliteration: l-lahi
   39:
@@ -170,19 +170,19 @@ word_by_word:
     translation: while surely
     transliteration: waqad
   40:
-    arabic: اُخۡرِجۡنَا
+    arabic: أُخۡرِجۡنَا
     translation: we have been driven
     transliteration: ukh'rij'nā
   41:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   42:
-    arabic: دِيَارِنَا
+    arabic: دِيَٰرِنَا
     translation: our homes
     transliteration: diyārinā
   43:
-    arabic: وَاَبۡنَآٮِٕنَا ​ؕ
+    arabic: وَأَبۡنَآئِنَاۖ
     translation: and our children
     transliteration: wa-abnāinā
   44:
@@ -190,7 +190,7 @@ word_by_word:
     translation: Yet, when
     transliteration: falammā
   45:
-    arabic: کُتِبَ
+    arabic: كُتِبَ
     translation: was prescribed
     transliteration: kutiba
   46:
@@ -198,35 +198,35 @@ word_by_word:
     translation: upon them
     transliteration: ʿalayhimu
   47:
-    arabic: الۡقِتَالُ
+    arabic: ٱلۡقِتَالُ
     translation: the fighting
     transliteration: l-qitālu
   48:
-    arabic: تَوَلَّوۡا
+    arabic: تَوَلَّوۡاْ
     translation: they turned away
     transliteration: tawallaw
   49:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   50:
-    arabic: قَلِيۡلًا
+    arabic: قَلِيلٗا
     translation: a few
     transliteration: qalīlan
   51:
-    arabic: مِّنۡهُمۡ​ؕ
+    arabic: مِّنۡهُمۡۚ
     translation: among them
     transliteration: min'hum
   52:
-    arabic: وَاللّٰهُ
+    arabic: وَٱللَّهُ
     translation: And Allah
     transliteration: wal-lahu
   53:
-    arabic: عَلِيۡمٌۢ
+    arabic: عَلِيمُۢ
     translation: (is) All-Knowing
     transliteration: ʿalīmun
   54:
-    arabic: بِالظّٰلِمِيۡنَ‏
+    arabic: بِٱلظَّٰلِمِينَ
     translation: of the wrongdoers
     transliteration: bil-ẓālimīna
 ---

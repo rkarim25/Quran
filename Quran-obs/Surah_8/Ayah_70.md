@@ -1,33 +1,33 @@
 ---
-arabic_ayat: يٰۤـاَيُّهَا النَّبِىُّ قُلْ لِّمَنۡ فِىۡۤ اَيۡدِيۡكُمۡ مِّنَ الۡاَسۡرٰٓىۙ
-  اِنۡ يَّعۡلَمِ اللّٰهُ فِىۡ قُلُوۡبِكُمۡ خَيۡرًا يُّؤۡتِكُمۡ خَيۡرًا مِّمَّاۤ اُخِذَ
-  مِنۡكُمۡ وَيَغۡفِرۡ لَـكُمۡ​ؕ وَاللّٰهُ غَفُوۡرٌ رَّحِيۡمٌ‏
+arabic_ayat: يَٰٓأَيُّهَا ٱلنَّبِيُّ قُل لِّمَن فِيٓ أَيۡدِيكُم مِّنَ ٱلۡأَسۡرَىٰٓ
+  إِن يَعۡلَمِ ٱللَّهُ فِي قُلُوبِكُمۡ خَيۡرٗا يُؤۡتِكُمۡ خَيۡرٗا مِّمَّآ أُخِذَ
+  مِنكُمۡ وَيَغۡفِرۡ لَكُمۡۚ وَٱللَّهُ غَفُورٞ رَّحِيمٞ
 sentence_translation: O Prophet! Tell the captives in your custody, “If Allah finds
   goodness in your hearts, He will give you better than what has been taken from you,
   and forgive you. For Allah is All-Forgiving, Most Merciful.”
 word_by_word:
   1:
-    arabic: يٰۤـاَيُّهَا
+    arabic: يَٰٓأَيُّهَا
     translation: O
     transliteration: yāayyuhā
   2:
-    arabic: النَّبِىُّ
+    arabic: ٱلنَّبِيُّ
     translation: Prophet
     transliteration: l-nabiyu
   3:
-    arabic: قُلْ
+    arabic: قُل
     translation: Say
     transliteration: qul
   4:
-    arabic: لِّمَنۡ
+    arabic: لِّمَن
     translation: to whoever
     transliteration: liman
   5:
-    arabic: فِىۡۤ
+    arabic: فِيٓ
     translation: (is) in
     transliteration: fī
   6:
-    arabic: اَيۡدِيۡكُمۡ
+    arabic: أَيۡدِيكُم
     translation: your hands
     transliteration: aydīkum
   7:
@@ -35,51 +35,51 @@ word_by_word:
     translation: of
     transliteration: mina
   8:
-    arabic: الۡاَسۡرٰٓىۙ
+    arabic: ٱلۡأَسۡرَىٰٓ
     translation: the captives
     transliteration: l-asrā
   9:
-    arabic: اِنۡ
+    arabic: إِن
     translation: If
     transliteration: in
   10:
-    arabic: يَّعۡلَمِ
+    arabic: يَعۡلَمِ
     translation: knows
     transliteration: yaʿlami
   11:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   12:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   13:
-    arabic: قُلُوۡبِكُمۡ
+    arabic: قُلُوبِكُمۡ
     translation: your hearts
     transliteration: qulūbikum
   14:
-    arabic: خَيۡرًا
+    arabic: خَيۡرٗا
     translation: any good
     transliteration: khayran
   15:
-    arabic: يُّؤۡتِكُمۡ
+    arabic: يُؤۡتِكُمۡ
     translation: He will give you
     transliteration: yu'tikum
   16:
-    arabic: خَيۡرًا
+    arabic: خَيۡرٗا
     translation: better
     transliteration: khayran
   17:
-    arabic: مِّمَّاۤ
+    arabic: مِّمَّآ
     translation: than what
     transliteration: mimmā
   18:
-    arabic: اُخِذَ
+    arabic: أُخِذَ
     translation: was taken
     transliteration: ukhidha
   19:
-    arabic: مِنۡكُمۡ
+    arabic: مِنكُمۡ
     translation: from you
     transliteration: minkum
   20:
@@ -87,19 +87,19 @@ word_by_word:
     translation: and He will forgive
     transliteration: wayaghfir
   21:
-    arabic: لَـكُمۡ​ؕ
+    arabic: لَكُمۡۚ
     translation: you
     transliteration: lakum
   22:
-    arabic: وَاللّٰهُ
+    arabic: وَٱللَّهُ
     translation: And Allah
     transliteration: wal-lahu
   23:
-    arabic: غَفُوۡرٌ
+    arabic: غَفُورٞ
     translation: (is) Oft-Forgiving
     transliteration: ghafūrun
   24:
-    arabic: رَّحِيۡمٌ‏
+    arabic: رَّحِيمٞ
     translation: Most Merciful
     transliteration: raḥīmun
 ---

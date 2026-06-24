@@ -1,21 +1,21 @@
 ---
-arabic_ayat: وَاِنَّ مِنۡ شِيۡعَتِهٖ لَاِبۡرٰهِيۡمَ​ۘ‏
+arabic_ayat: ۞ وَإِنَّ مِن شِيعَتِهِۦ لَإِبۡرَٰهِيمَ
 sentence_translation: And indeed, one of those who followed his way was Abraham.
 word_by_word:
   1:
-    arabic: ۞ وَاِنَّ
+    arabic: ۞ وَإِنَّ
     translation: And indeed
     transliteration: wa-inna
   2:
-    arabic: مِنۡ
+    arabic: مِن
     translation: among
     transliteration: min
   3:
-    arabic: شِيۡعَتِهٖ
+    arabic: شِيعَتِهِۦ
     translation: his kind
     transliteration: shīʿatihi
   4:
-    arabic: لَاِبۡرٰهِيۡمَ​ۘ‏
+    arabic: لَإِبۡرَٰهِيمَ
     translation: (was) surely Ibrahim
     transliteration: la-ib'rāhīma
 ---

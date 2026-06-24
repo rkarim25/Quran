@@ -1,6 +1,6 @@
 ---
-arabic_ayat: وَهُوَ اللّٰهُ فِى السَّمٰوٰتِ وَفِى الۡاَرۡضِ​ؕ يَعۡلَمُ سِرَّكُمۡ وَ
-  جَهۡرَكُمۡ وَيَعۡلَمُ مَا تَكۡسِبُوۡنَ‏
+arabic_ayat: وَهُوَ ٱللَّهُ فِي ٱلسَّمَٰوَٰتِ وَفِي ٱلۡأَرۡضِ يَعۡلَمُ سِرَّكُمۡ وَجَهۡرَكُمۡ
+  وَيَعۡلَمُ مَا تَكۡسِبُونَ
 sentence_translation: He is the Only True God in the heavens and the earth. He knows
   whatever you conceal and whatever you reveal, and knows whatever you do.
 word_by_word:
@@ -9,23 +9,23 @@ word_by_word:
     translation: And He
     transliteration: wahuwa
   2:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: (is) Allah
     transliteration: l-lahu
   3:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   4:
-    arabic: السَّمٰوٰتِ
+    arabic: ٱلسَّمَٰوَٰتِ
     translation: the heavens
     transliteration: l-samāwāti
   5:
-    arabic: وَفِى
+    arabic: وَفِي
     translation: and in
     transliteration: wafī
   6:
-    arabic: الۡاَرۡضِ​ؕ
+    arabic: ٱلۡأَرۡضِ
     translation: the earth
     transliteration: l-arḍi
   7:
@@ -37,7 +37,7 @@ word_by_word:
     translation: your secret
     transliteration: sirrakum
   9:
-    arabic: وَ جَهۡرَكُمۡ
+    arabic: وَجَهۡرَكُمۡ
     translation: and what you make public
     transliteration: wajahrakum
   10:
@@ -49,7 +49,7 @@ word_by_word:
     translation: what
     transliteration: mā
   12:
-    arabic: تَكۡسِبُوۡنَ‏
+    arabic: تَكۡسِبُونَ
     translation: you earn
     transliteration: taksibūna
 ---

@@ -1,23 +1,23 @@
 ---
-arabic_ayat: فَاَنۡجَيۡنٰهُ وَالَّذِيۡنَ مَعَهٗ بِرَحۡمَةٍ مِّنَّا وَ قَطَعۡنَا دَابِرَ
-  الَّذِيۡنَ كَذَّبُوۡا بِاٰيٰتِنَا​ وَمَا كَانُوۡا مُؤۡمِنِيۡنَ‏
+arabic_ayat: فَأَنجَيۡنَٰهُ وَٱلَّذِينَ مَعَهُۥ بِرَحۡمَةٖ مِّنَّا وَقَطَعۡنَا دَابِرَ
+  ٱلَّذِينَ كَذَّبُواْ بِـَٔايَٰتِنَاۖ وَمَا كَانُواْ مُؤۡمِنِينَ
 sentence_translation: So We saved him and those with him by Our mercy and uprooted
   those who denied Our signs. They were not believers.
 word_by_word:
   1:
-    arabic: فَاَنۡجَيۡنٰهُ
+    arabic: فَأَنجَيۡنَٰهُ
     translation: So We saved him
     transliteration: fa-anjaynāhu
   2:
-    arabic: وَالَّذِيۡنَ
+    arabic: وَٱلَّذِينَ
     translation: and those
     transliteration: wa-alladhīna
   3:
-    arabic: مَعَهٗ
+    arabic: مَعَهُۥ
     translation: with him
     transliteration: maʿahu
   4:
-    arabic: بِرَحۡمَةٍ
+    arabic: بِرَحۡمَةٖ
     translation: by Mercy
     transliteration: biraḥmatin
   5:
@@ -25,7 +25,7 @@ word_by_word:
     translation: from Us
     transliteration: minnā
   6:
-    arabic: وَ قَطَعۡنَا
+    arabic: وَقَطَعۡنَا
     translation: And We cut off
     transliteration: waqaṭaʿnā
   7:
@@ -33,15 +33,15 @@ word_by_word:
     translation: the roots
     transliteration: dābira
   8:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: (of) those who
     transliteration: alladhīna
   9:
-    arabic: كَذَّبُوۡا
+    arabic: كَذَّبُواْ
     translation: denied
     transliteration: kadhabū
   10:
-    arabic: بِاٰيٰتِنَا​
+    arabic: بِـَٔايَٰتِنَاۖ
     translation: Our Signs
     transliteration: biāyātinā
   11:
@@ -49,11 +49,11 @@ word_by_word:
     translation: and not
     transliteration: wamā
   12:
-    arabic: كَانُوۡا
+    arabic: كَانُواْ
     translation: they were
     transliteration: kānū
   13:
-    arabic: مُؤۡمِنِيۡنَ‏
+    arabic: مُؤۡمِنِينَ
     translation: believers
     transliteration: mu'minīna
 ---

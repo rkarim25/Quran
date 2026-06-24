@@ -1,9 +1,8 @@
 ---
-arabic_ayat: "قَدۡ نَرٰى تَقَلُّبَ وَجۡهِكَ فِى السَّمَآءِ​​ۚ فَلَـنُوَلِّيَنَّكَ\
-  \ قِبۡلَةً تَرۡضٰٮهَا​ فَوَلِّ وَجۡهَكَ شَطۡرَ الۡمَسۡجِدِ الۡحَـرَامِؕ وَحَيۡثُ\
-  \ مَا كُنۡتُمۡ فَوَلُّوۡا وُجُوۡهَكُمۡ شَطۡرَهٗ ​ؕ وَاِنَّ الَّذِيۡنَ اُوۡتُوا الۡكِتٰبَ\
-  \ لَيَـعۡلَمُوۡنَ اَنَّهُ الۡحَـقُّ مِنۡ رَّبِّهِمۡ​ؕ وَمَا اللّٰهُ بِغَافِلٍ عَمَّا\
-  \ يَعۡمَلُوۡنَ‏ \uFEFF\uFEFF"
+arabic_ayat: قَدۡ نَرَىٰ تَقَلُّبَ وَجۡهِكَ فِي ٱلسَّمَآءِۖ فَلَنُوَلِّيَنَّكَ قِبۡلَةٗ
+  تَرۡضَىٰهَاۚ فَوَلِّ وَجۡهَكَ شَطۡرَ ٱلۡمَسۡجِدِ ٱلۡحَرَامِۚ وَحَيۡثُ مَا كُنتُمۡ
+  فَوَلُّواْ وُجُوهَكُمۡ شَطۡرَهُۥۗ وَإِنَّ ٱلَّذِينَ أُوتُواْ ٱلۡكِتَٰبَ لَيَعۡلَمُونَ
+  أَنَّهُ ٱلۡحَقُّ مِن رَّبِّهِمۡۗ وَمَا ٱللَّهُ بِغَٰفِلٍ عَمَّا يَعۡمَلُونَ
 sentence_translation: Indeed, We see you ˹O Prophet˺ turning your face towards heaven.
   Now We will make you turn towards a direction ˹of prayer˺ that will please you.
   So turn your face towards the Sacred Mosque ˹in Mecca˺—wherever you are, turn your
@@ -15,7 +14,7 @@ word_by_word:
     translation: Indeed
     transliteration: qad
   2:
-    arabic: نَرٰى
+    arabic: نَرَىٰ
     translation: We see
     transliteration: narā
   3:
@@ -27,23 +26,23 @@ word_by_word:
     translation: (of) your face
     transliteration: wajhika
   5:
-    arabic: فِى
+    arabic: فِي
     translation: towards
     transliteration: fī
   6:
-    arabic: السَّمَآءِ​​ۚ
+    arabic: ٱلسَّمَآءِۖ
     translation: the heaven
     transliteration: l-samāi
   7:
-    arabic: فَلَـنُوَلِّيَنَّكَ
+    arabic: فَلَنُوَلِّيَنَّكَ
     translation: So We will surely turn you
     transliteration: falanuwalliyannaka
   8:
-    arabic: قِبۡلَةً
+    arabic: قِبۡلَةٗ
     translation: (to the) direction of prayer
     transliteration: qib'latan
   9:
-    arabic: تَرۡضٰٮهَا​
+    arabic: تَرۡضَىٰهَاۚ
     translation: you will be pleased with
     transliteration: tarḍāhā
   10:
@@ -59,11 +58,11 @@ word_by_word:
     translation: towards the direction
     transliteration: shaṭra
   13:
-    arabic: الۡمَسۡجِدِ
+    arabic: ٱلۡمَسۡجِدِ
     translation: (of) Al-Masjid
     transliteration: l-masjidi
   14:
-    arabic: الۡحَـرَامِؕ
+    arabic: ٱلۡحَرَامِۚ
     translation: Al-Haraam
     transliteration: l-ḥarāmi
   15:
@@ -75,55 +74,55 @@ word_by_word:
     translation: that
     transliteration: mā
   17:
-    arabic: كُنۡتُمۡ
+    arabic: كُنتُمۡ
     translation: you are
     transliteration: kuntum
   18:
-    arabic: فَوَلُّوۡا
+    arabic: فَوَلُّواْ
     translation: '[so] turn'
     transliteration: fawallū
   19:
-    arabic: وُجُوۡهَكُمۡ
+    arabic: وُجُوهَكُمۡ
     translation: your faces
     transliteration: wujūhakum
   20:
-    arabic: شَطۡرَهٗ ​ؕ
+    arabic: شَطۡرَهُۥۗ
     translation: (in) its direction
     transliteration: shaṭrahu
   21:
-    arabic: وَاِنَّ
+    arabic: وَإِنَّ
     translation: And indeed
     transliteration: wa-inna
   22:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   23:
-    arabic: اُوۡتُوا
+    arabic: أُوتُواْ
     translation: were given
     transliteration: ūtū
   24:
-    arabic: الۡكِتٰبَ
+    arabic: ٱلۡكِتَٰبَ
     translation: the Book
     transliteration: l-kitāba
   25:
-    arabic: لَيَـعۡلَمُوۡنَ
+    arabic: لَيَعۡلَمُونَ
     translation: surely know
     transliteration: layaʿlamūna
   26:
-    arabic: اَنَّهُ
+    arabic: أَنَّهُ
     translation: that it
     transliteration: annahu
   27:
-    arabic: الۡحَـقُّ
+    arabic: ٱلۡحَقُّ
     translation: (is) the truth
     transliteration: l-ḥaqu
   28:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   29:
-    arabic: رَّبِّهِمۡ​ؕ
+    arabic: رَّبِّهِمۡۗ
     translation: their Lord
     transliteration: rabbihim
   30:
@@ -131,11 +130,11 @@ word_by_word:
     translation: And not
     transliteration: wamā
   31:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: (is) Allah
     transliteration: l-lahu
   32:
-    arabic: بِغَافِلٍ
+    arabic: بِغَٰفِلٍ
     translation: unaware
     transliteration: bighāfilin
   33:
@@ -143,7 +142,7 @@ word_by_word:
     translation: of what
     transliteration: ʿammā
   34:
-    arabic: "يَعۡمَلُوۡنَ‏ \uFEFF\uFEFF"
+    arabic: يَعۡمَلُونَ
     translation: they do
     transliteration: yaʿmalūna
 ---

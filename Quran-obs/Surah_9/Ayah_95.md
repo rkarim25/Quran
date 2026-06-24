@@ -1,69 +1,69 @@
 ---
-arabic_ayat: سَيَحۡلِفُوۡنَ بِاللّٰهِ لَـكُمۡ اِذَا انْقَلَبۡتُمۡ اِلَيۡهِمۡ لِتُعۡرِضُوۡا
-  عَنۡهُمۡ​ؕ فَاَعۡرِضُوۡا عَنۡهُمۡ​ؕ اِنَّهُمۡ رِجۡسٌ​ وَّمَاۡوٰٮهُمۡ جَهَـنَّمُ​ۚ
-  جَزَآءًۢ بِمَا كَانُوۡا يَكۡسِبُوۡنَ‏
+arabic_ayat: سَيَحۡلِفُونَ بِٱللَّهِ لَكُمۡ إِذَا ٱنقَلَبۡتُمۡ إِلَيۡهِمۡ لِتُعۡرِضُواْ
+  عَنۡهُمۡۖ فَأَعۡرِضُواْ عَنۡهُمۡۖ إِنَّهُمۡ رِجۡسٞۖ وَمَأۡوَىٰهُمۡ جَهَنَّمُ جَزَآءَۢ
+  بِمَا كَانُواْ يَكۡسِبُونَ
 sentence_translation: When you return, they will swear to you by Allah so that you
   may leave them alone. So leave them alone—they are truly evil. Hell will be their
   home as a reward for what they have committed.
 word_by_word:
   1:
-    arabic: سَيَحۡلِفُوۡنَ
+    arabic: سَيَحۡلِفُونَ
     translation: They will swear
     transliteration: sayaḥlifūna
   2:
-    arabic: بِاللّٰهِ
+    arabic: بِٱللَّهِ
     translation: by Allah
     transliteration: bil-lahi
   3:
-    arabic: لَـكُمۡ
+    arabic: لَكُمۡ
     translation: to you
     transliteration: lakum
   4:
-    arabic: اِذَا
+    arabic: إِذَا
     translation: when
     transliteration: idhā
   5:
-    arabic: انْقَلَبۡتُمۡ
+    arabic: ٱنقَلَبۡتُمۡ
     translation: you returned
     transliteration: inqalabtum
   6:
-    arabic: اِلَيۡهِمۡ
+    arabic: إِلَيۡهِمۡ
     translation: to them
     transliteration: ilayhim
   7:
-    arabic: لِتُعۡرِضُوۡا
+    arabic: لِتُعۡرِضُواْ
     translation: that you may turn away
     transliteration: lituʿ'riḍū
   8:
-    arabic: عَنۡهُمۡ​ؕ
+    arabic: عَنۡهُمۡۖ
     translation: from them
     transliteration: ʿanhum
   9:
-    arabic: فَاَعۡرِضُوۡا
+    arabic: فَأَعۡرِضُواْ
     translation: So turn away
     transliteration: fa-aʿriḍū
   10:
-    arabic: عَنۡهُمۡ​ؕ
+    arabic: عَنۡهُمۡۖ
     translation: from them
     transliteration: ʿanhum
   11:
-    arabic: اِنَّهُمۡ
+    arabic: إِنَّهُمۡ
     translation: indeed, they
     transliteration: innahum
   12:
-    arabic: رِجۡسٌ​
+    arabic: رِجۡسٞۖ
     translation: (are) impure
     transliteration: rij'sun
   13:
-    arabic: وَّمَاۡوٰٮهُمۡ
+    arabic: وَمَأۡوَىٰهُمۡ
     translation: and their abode
     transliteration: wamawāhum
   14:
-    arabic: جَهَـنَّمُ​ۚ
+    arabic: جَهَنَّمُ
     translation: (is) Hell
     transliteration: jahannamu
   15:
-    arabic: جَزَآءًۢ
+    arabic: جَزَآءَۢ
     translation: a recompense
     transliteration: jazāan
   16:
@@ -71,11 +71,11 @@ word_by_word:
     translation: for what
     transliteration: bimā
   17:
-    arabic: كَانُوۡا
+    arabic: كَانُواْ
     translation: they used (to)
     transliteration: kānū
   18:
-    arabic: يَكۡسِبُوۡنَ‏
+    arabic: يَكۡسِبُونَ
     translation: earn
     transliteration: yaksibūna
 ---

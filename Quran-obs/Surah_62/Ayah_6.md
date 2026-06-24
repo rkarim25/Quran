@@ -1,6 +1,6 @@
 ---
-arabic_ayat: قُلۡ يٰۤاَيُّهَا الَّذِيۡنَ هَادُوۡۤا اِنۡ زَعَمۡتُمۡ اَنَّكُمۡ اَوۡلِيَآءُ
-  لِلّٰهِ مِنۡ دُوۡنِ النَّاسِ فَتَمَنَّوُا الۡمَوۡتَ اِنۡ كُنۡتُمۡ صٰدِقِيۡنَ‏
+arabic_ayat: قُلۡ يَٰٓأَيُّهَا ٱلَّذِينَ هَادُوٓاْ إِن زَعَمۡتُمۡ أَنَّكُمۡ أَوۡلِيَآءُ
+  لِلَّهِ مِن دُونِ ٱلنَّاسِ فَتَمَنَّوُاْ ٱلۡمَوۡتَ إِن كُنتُمۡ صَٰدِقِينَ
 sentence_translation: Say, ˹O Prophet,˺ “O Jews! If you claim to be Allah’s chosen
   ˹people˺ out of all humanity, then wish for death, if what you say is true.”
 word_by_word:
@@ -9,19 +9,19 @@ word_by_word:
     translation: Say
     transliteration: qul
   2:
-    arabic: يٰۤاَيُّهَا
+    arabic: يَٰٓأَيُّهَا
     translation: O
     transliteration: yāayyuhā
   3:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: you (who)
     transliteration: alladhīna
   4:
-    arabic: هَادُوۡۤا
+    arabic: هَادُوٓاْ
     translation: (are) Jews
     transliteration: hādū
   5:
-    arabic: اِنۡ
+    arabic: إِن
     translation: If
     transliteration: in
   6:
@@ -29,47 +29,47 @@ word_by_word:
     translation: you claim
     transliteration: zaʿamtum
   7:
-    arabic: اَنَّكُمۡ
+    arabic: أَنَّكُمۡ
     translation: that you
     transliteration: annakum
   8:
-    arabic: اَوۡلِيَآءُ
+    arabic: أَوۡلِيَآءُ
     translation: (are) allies
     transliteration: awliyāu
   9:
-    arabic: لِلّٰهِ
+    arabic: لِلَّهِ
     translation: of Allah
     transliteration: lillahi
   10:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   11:
-    arabic: دُوۡنِ
+    arabic: دُونِ
     translation: excluding
     transliteration: dūni
   12:
-    arabic: النَّاسِ
+    arabic: ٱلنَّاسِ
     translation: the people
     transliteration: l-nāsi
   13:
-    arabic: فَتَمَنَّوُا
+    arabic: فَتَمَنَّوُاْ
     translation: then wish
     transliteration: fatamannawū
   14:
-    arabic: الۡمَوۡتَ
+    arabic: ٱلۡمَوۡتَ
     translation: (for) the death
     transliteration: l-mawta
   15:
-    arabic: اِنۡ
+    arabic: إِن
     translation: if
     transliteration: in
   16:
-    arabic: كُنۡتُمۡ
+    arabic: كُنتُمۡ
     translation: you are
     transliteration: kuntum
   17:
-    arabic: صٰدِقِيۡنَ‏
+    arabic: صَٰدِقِينَ
     translation: truthful
     transliteration: ṣādiqīna
 ---

@@ -1,6 +1,6 @@
 ---
-arabic_ayat: "وَلَوۡ فَتَحۡنَا عَلَيۡهِمۡ بَابًا مِّنَ السَّمَآءِ فَظَلُّوۡا فِيۡهِ\
-  \ يَعۡرُجُوۡنَۙ‏ \uFEFF\uFEFF"
+arabic_ayat: وَلَوۡ فَتَحۡنَا عَلَيۡهِم بَابٗا مِّنَ ٱلسَّمَآءِ فَظَلُّواْ فِيهِ
+  يَعۡرُجُونَ
 sentence_translation: And even if We opened for them a gate to heaven, through which
   they continued to ascend,
 word_by_word:
@@ -13,11 +13,11 @@ word_by_word:
     translation: We opened
     transliteration: fataḥnā
   3:
-    arabic: عَلَيۡهِمۡ
+    arabic: عَلَيۡهِم
     translation: to them
     transliteration: ʿalayhim
   4:
-    arabic: بَابًا
+    arabic: بَابٗا
     translation: a gate
     transliteration: bāban
   5:
@@ -25,19 +25,19 @@ word_by_word:
     translation: from
     transliteration: mina
   6:
-    arabic: السَّمَآءِ
+    arabic: ٱلسَّمَآءِ
     translation: the heaven
     transliteration: l-samāi
   7:
-    arabic: فَظَلُّوۡا
+    arabic: فَظَلُّواْ
     translation: and they were to continue
     transliteration: faẓallū
   8:
-    arabic: فِيۡهِ
+    arabic: فِيهِ
     translation: therein
     transliteration: fīhi
   9:
-    arabic: "يَعۡرُجُوۡنَۙ‏ \uFEFF\uFEFF"
+    arabic: يَعۡرُجُونَ
     translation: (to) ascend
     transliteration: yaʿrujūna
 ---

@@ -1,18 +1,18 @@
 ---
-arabic_ayat: فَاسۡتَفۡتِهِمۡ اَلِرَبِّكَ الۡبَنَاتُ وَلَهُمُ الۡبَنُوۡنَۙ‏
+arabic_ayat: فَٱسۡتَفۡتِهِمۡ أَلِرَبِّكَ ٱلۡبَنَاتُ وَلَهُمُ ٱلۡبَنُونَ
 sentence_translation: Ask them ˹O Prophet˺ if your Lord has daughters, while the pagans
   ˹prefer to˺ have sons.
 word_by_word:
   1:
-    arabic: فَاسۡتَفۡتِهِمۡ
+    arabic: فَٱسۡتَفۡتِهِمۡ
     translation: Then ask them
     transliteration: fa-is'taftihim
   2:
-    arabic: اَلِرَبِّكَ
+    arabic: أَلِرَبِّكَ
     translation: Does your Lord
     transliteration: alirabbika
   3:
-    arabic: الۡبَنَاتُ
+    arabic: ٱلۡبَنَاتُ
     translation: (have) daughters
     transliteration: l-banātu
   4:
@@ -20,7 +20,7 @@ word_by_word:
     translation: while for them
     transliteration: walahumu
   5:
-    arabic: الۡبَنُوۡنَۙ‏
+    arabic: ٱلۡبَنُونَ
     translation: (are) sons
     transliteration: l-banūna
 ---

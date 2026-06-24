@@ -1,24 +1,24 @@
 ---
-arabic_ayat: اَلَّذِيۡنَ اٰتَيۡنٰهُمُ الۡكِتٰبَ يَتۡلُوۡنَهٗ حَقَّ تِلَاوَتِهٖؕ اُولٰٓٮِٕكَ
-  يُؤۡمِنُوۡنَ بِهٖ​ ؕ وَمَنۡ يَّكۡفُرۡ بِهٖ فَاُولٰٓٮِٕكَ هُمُ الۡخٰسِرُوۡنَ‏
+arabic_ayat: ٱلَّذِينَ ءَاتَيۡنَٰهُمُ ٱلۡكِتَٰبَ يَتۡلُونَهُۥ حَقَّ تِلَاوَتِهِۦٓ
+  أُوْلَٰٓئِكَ يُؤۡمِنُونَ بِهِۦۗ وَمَن يَكۡفُرۡ بِهِۦ فَأُوْلَٰٓئِكَ هُمُ ٱلۡخَٰسِرُونَ
 sentence_translation: Those We have given the Book follow it as it should be followed.
   It is they who ˹truly˺ believe in it. As for those who reject it, it is they who
   are the losers.
 word_by_word:
   1:
-    arabic: اَلَّذِيۡنَ
+    arabic: ٱلَّذِينَ ءَ
     translation: Those
     transliteration: alladhīna
   2:
-    arabic: اٰتَيۡنٰهُمُ
+    arabic: اتَيۡنَٰهُمُ
     translation: We have given them
     transliteration: ātaynāhumu
   3:
-    arabic: الۡكِتٰبَ
+    arabic: ٱلۡكِتَٰبَ
     translation: the Book
     transliteration: l-kitāba
   4:
-    arabic: يَتۡلُوۡنَهٗ
+    arabic: يَتۡلُونَهُۥ
     translation: recite it
     transliteration: yatlūnahu
   5:
@@ -26,35 +26,35 @@ word_by_word:
     translation: (as it has the) right
     transliteration: ḥaqqa
   6:
-    arabic: تِلَاوَتِهٖؕ
+    arabic: تِلَاوَتِهِۦٓ
     translation: (of) its recitation
     transliteration: tilāwatihi
   7:
-    arabic: اُولٰٓٮِٕكَ
+    arabic: أُوْلَٰٓئِكَ
     translation: Those (people)
     transliteration: ulāika
   8:
-    arabic: يُؤۡمِنُوۡنَ
+    arabic: يُؤۡمِنُونَ
     translation: believe
     transliteration: yu'minūna
   9:
-    arabic: بِهٖ​ ؕ
+    arabic: بِهِۦۗ
     translation: in it
     transliteration: bihi
   10:
-    arabic: وَمَنۡ
+    arabic: وَمَن
     translation: And whoever
     transliteration: waman
   11:
-    arabic: يَّكۡفُرۡ
+    arabic: يَكۡفُرۡ
     translation: disbelieves
     transliteration: yakfur
   12:
-    arabic: بِهٖ
+    arabic: بِهِۦ
     translation: in it
     transliteration: bihi
   13:
-    arabic: فَاُولٰٓٮِٕكَ
+    arabic: فَأُوْلَٰٓئِكَ
     translation: then those
     transliteration: fa-ulāika
   14:
@@ -62,7 +62,7 @@ word_by_word:
     translation: they
     transliteration: humu
   15:
-    arabic: الۡخٰسِرُوۡنَ‏
+    arabic: ٱلۡخَٰسِرُونَ
     translation: (are) the losers
     transliteration: l-khāsirūna
 ---

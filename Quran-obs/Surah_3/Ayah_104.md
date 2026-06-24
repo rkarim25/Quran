@@ -1,39 +1,39 @@
 ---
-arabic_ayat: وَلۡتَكُنۡ مِّنۡكُمۡ اُمَّةٌ يَّدۡعُوۡنَ اِلَى الۡخَيۡرِ وَيَاۡمُرُوۡنَ
-  بِالۡمَعۡرُوۡفِ وَيَنۡهَوۡنَ عَنِ الۡمُنۡكَرِ​ؕ وَاُولٰٓٮِٕكَ هُمُ الۡمُفۡلِحُوۡنَ‏
+arabic_ayat: وَلۡتَكُن مِّنكُمۡ أُمَّةٞ يَدۡعُونَ إِلَى ٱلۡخَيۡرِ وَيَأۡمُرُونَ بِٱلۡمَعۡرُوفِ
+  وَيَنۡهَوۡنَ عَنِ ٱلۡمُنكَرِۚ وَأُوْلَٰٓئِكَ هُمُ ٱلۡمُفۡلِحُونَ
 sentence_translation: Let there be a group among you who call ˹others˺ to goodness,
   encourage what is good, and forbid what is evil—it is they who will be successful.
 word_by_word:
   1:
-    arabic: وَلۡتَكُنۡ
+    arabic: وَلۡتَكُن
     translation: And let there be
     transliteration: waltakun
   2:
-    arabic: مِّنۡكُمۡ
+    arabic: مِّنكُمۡ
     translation: among you
     transliteration: minkum
   3:
-    arabic: اُمَّةٌ
+    arabic: أُمَّةٞ
     translation: '[a] people'
     transliteration: ummatun
   4:
-    arabic: يَّدۡعُوۡنَ
+    arabic: يَدۡعُونَ
     translation: inviting
     transliteration: yadʿūna
   5:
-    arabic: اِلَى
+    arabic: إِلَى
     translation: to
     transliteration: ilā
   6:
-    arabic: الۡخَيۡرِ
+    arabic: ٱلۡخَيۡرِ
     translation: the good
     transliteration: l-khayri
   7:
-    arabic: وَيَاۡمُرُوۡنَ
+    arabic: وَيَأۡمُرُونَ
     translation: '[and] enjoining'
     transliteration: wayamurūna
   8:
-    arabic: بِالۡمَعۡرُوۡفِ
+    arabic: بِٱلۡمَعۡرُوفِ
     translation: the right
     transliteration: bil-maʿrūfi
   9:
@@ -45,11 +45,11 @@ word_by_word:
     translation: from
     transliteration: ʿani
   11:
-    arabic: الۡمُنۡكَرِ​ؕ
+    arabic: ٱلۡمُنكَرِۚ
     translation: the wrong
     transliteration: l-munkari
   12:
-    arabic: وَاُولٰٓٮِٕكَ
+    arabic: وَأُوْلَٰٓئِكَ
     translation: 'and those '
     transliteration: wa-ulāika
   13:
@@ -57,7 +57,7 @@ word_by_word:
     translation: they
     transliteration: humu
   14:
-    arabic: الۡمُفۡلِحُوۡنَ‏
+    arabic: ٱلۡمُفۡلِحُونَ
     translation: (are) the successful ones
     transliteration: l-muf'liḥūna
 ---

@@ -1,6 +1,6 @@
 ---
-arabic_ayat: قُلۡ نَزَّلَهٗ رُوۡحُ الۡقُدُسِ مِنۡ رَّبِّكَ بِالۡحَـقِّ لِيُثَبِّتَ
-  الَّذِيۡنَ اٰمَنُوۡا وَهُدًى وَّبُشۡرٰى لِلۡمُسۡلِمِيۡنَ‏
+arabic_ayat: قُلۡ نَزَّلَهُۥ رُوحُ ٱلۡقُدُسِ مِن رَّبِّكَ بِٱلۡحَقِّ لِيُثَبِّتَ ٱلَّذِينَ
+  ءَامَنُواْ وَهُدٗى وَبُشۡرَىٰ لِلۡمُسۡلِمِينَ
 sentence_translation: Say, “The holy spirit has brought it down from your Lord with
   the truth to reassure the believers, and as a guide and good news for those who
   submit ˹to Allah˺.”
@@ -10,19 +10,19 @@ word_by_word:
     translation: Say
     transliteration: qul
   2:
-    arabic: نَزَّلَهٗ
+    arabic: نَزَّلَهُۥ
     translation: Has brought it down
     transliteration: nazzalahu
   3:
-    arabic: رُوۡحُ
+    arabic: رُوحُ
     translation: the Holy Spirit
     transliteration: rūḥu
   4:
-    arabic: الۡقُدُسِ
+    arabic: ٱلۡقُدُسِ
     translation: the Holy Spirit
     transliteration: l-qudusi
   5:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   6:
@@ -30,7 +30,7 @@ word_by_word:
     translation: your Lord
     transliteration: rabbika
   7:
-    arabic: بِالۡحَـقِّ
+    arabic: بِٱلۡحَقِّ
     translation: in truth
     transliteration: bil-ḥaqi
   8:
@@ -38,23 +38,23 @@ word_by_word:
     translation: to make firm
     transliteration: liyuthabbita
   9:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ ءَ
     translation: those who
     transliteration: alladhīna
   10:
-    arabic: اٰمَنُوۡا
+    arabic: امَنُواْ
     translation: believe
     transliteration: āmanū
   11:
-    arabic: وَهُدًى
+    arabic: وَهُدٗى
     translation: and (as) a guidance
     transliteration: wahudan
   12:
-    arabic: وَّبُشۡرٰى
+    arabic: وَبُشۡرَىٰ
     translation: and glad tidings
     transliteration: wabush'rā
   13:
-    arabic: لِلۡمُسۡلِمِيۡنَ‏
+    arabic: لِلۡمُسۡلِمِينَ
     translation: to the Muslims
     transliteration: lil'mus'limīna
 ---

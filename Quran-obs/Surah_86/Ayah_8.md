@@ -1,21 +1,21 @@
 ---
-arabic_ayat: اِنَّهٗ عَلٰى رَجۡعِهٖ لَقَادِرٌؕ‏
+arabic_ayat: إِنَّهُۥ عَلَىٰ رَجۡعِهِۦ لَقَادِرٞ
 sentence_translation: Surely He is fully capable of bringing them back ˹to life˺
 word_by_word:
   1:
-    arabic: اِنَّهٗ
+    arabic: إِنَّهُۥ
     translation: Indeed, He
     transliteration: innahu
   2:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: to
     transliteration: ʿalā
   3:
-    arabic: رَجۡعِهٖ
+    arabic: رَجۡعِهِۦ
     translation: return him
     transliteration: rajʿihi
   4:
-    arabic: لَقَادِرٌؕ‏
+    arabic: لَقَادِرٞ
     translation: (is) Able
     transliteration: laqādirun
 ---

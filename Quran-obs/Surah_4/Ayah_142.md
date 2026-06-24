@@ -1,25 +1,25 @@
 ---
-arabic_ayat: اِنَّ الۡمُنٰفِقِيۡنَ يُخٰدِعُوۡنَ اللّٰهَ وَهُوَ خَادِعُوْهُمۡ​ ۚ وَاِذَا
-  قَامُوۡۤا اِلَى الصَّلٰوةِ قَامُوۡا كُسَالٰى ۙ يُرَآءُوۡنَ النَّاسَ وَلَا يَذۡكُرُوۡنَ
-  اللّٰهَ اِلَّا قَلِيۡلًا ۙ‏
+arabic_ayat: إِنَّ ٱلۡمُنَٰفِقِينَ يُخَٰدِعُونَ ٱللَّهَ وَهُوَ خَٰدِعُهُمۡ وَإِذَا
+  قَامُوٓاْ إِلَى ٱلصَّلَوٰةِ قَامُواْ كُسَالَىٰ يُرَآءُونَ ٱلنَّاسَ وَلَا يَذۡكُرُونَ
+  ٱللَّهَ إِلَّا قَلِيلٗا
 sentence_translation: Surely the hypocrites seek to deceive Allah, but He outwits
   them. When they stand up for prayer, they do it half-heartedly only to be seen by
   people—hardly remembering Allah at all.
 word_by_word:
   1:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   2:
-    arabic: الۡمُنٰفِقِيۡنَ
+    arabic: ٱلۡمُنَٰفِقِينَ
     translation: the hypocrites
     transliteration: l-munāfiqīna
   3:
-    arabic: يُخٰدِعُوۡنَ
+    arabic: يُخَٰدِعُونَ
     translation: (seek to) deceive
     transliteration: yukhādiʿūna
   4:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   5:
@@ -27,39 +27,39 @@ word_by_word:
     translation: and (it is) He
     transliteration: wahuwa
   6:
-    arabic: خَادِعُوْهُمۡ​ ۚ
+    arabic: خَٰدِعُهُمۡ
     translation: who deceives them
     transliteration: khādiʿuhum
   7:
-    arabic: وَاِذَا
+    arabic: وَإِذَا
     translation: And when
     transliteration: wa-idhā
   8:
-    arabic: قَامُوۡۤا
+    arabic: قَامُوٓاْ
     translation: they stand
     transliteration: qāmū
   9:
-    arabic: اِلَى
+    arabic: إِلَى
     translation: for
     transliteration: ilā
   10:
-    arabic: الصَّلٰوةِ
+    arabic: ٱلصَّلَوٰةِ
     translation: the prayer
     transliteration: l-ṣalati
   11:
-    arabic: قَامُوۡا
+    arabic: قَامُواْ
     translation: they stand
     transliteration: qāmū
   12:
-    arabic: كُسَالٰى ۙ
+    arabic: كُسَالَىٰ
     translation: lazily
     transliteration: kusālā
   13:
-    arabic: يُرَآءُوۡنَ
+    arabic: يُرَآءُونَ
     translation: showing off
     transliteration: yurāūna
   14:
-    arabic: النَّاسَ
+    arabic: ٱلنَّاسَ
     translation: (to) the people
     transliteration: l-nāsa
   15:
@@ -67,19 +67,19 @@ word_by_word:
     translation: and not
     transliteration: walā
   16:
-    arabic: يَذۡكُرُوۡنَ
+    arabic: يَذۡكُرُونَ
     translation: they remember
     transliteration: yadhkurūna
   17:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   18:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   19:
-    arabic: قَلِيۡلًا ۙ‏
+    arabic: قَلِيلٗا
     translation: a little
     transliteration: qalīlan
 ---

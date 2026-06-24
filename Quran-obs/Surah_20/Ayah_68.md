@@ -1,5 +1,5 @@
 ---
-arabic_ayat: قُلۡنَا لَا تَخَفۡ اِنَّكَ اَنۡتَ الۡاَعۡلٰى‏
+arabic_ayat: قُلۡنَا لَا تَخَفۡ إِنَّكَ أَنتَ ٱلۡأَعۡلَىٰ
 sentence_translation: We reassured ˹him˺, “Do not fear! It is certainly you who will
   prevail.
 word_by_word:
@@ -16,15 +16,15 @@ word_by_word:
     translation: fear
     transliteration: takhaf
   4:
-    arabic: اِنَّكَ
+    arabic: إِنَّكَ
     translation: Indeed, you
     transliteration: innaka
   5:
-    arabic: اَنۡتَ
+    arabic: أَنتَ
     translation: you
     transliteration: anta
   6:
-    arabic: الۡاَعۡلٰى‏
+    arabic: ٱلۡأَعۡلَىٰ
     translation: (will be) superior
     transliteration: l-aʿlā
 ---

@@ -1,7 +1,7 @@
 ---
-arabic_ayat: قَالَ يٰقَوۡمِ اَرَءَيۡتُمْ اِنۡ كُنۡتُ عَلٰى بَيِّنَةٍ مِّنۡ رَّبِّىۡ
-  وَاٰتٰٮنِىۡ رَحۡمَةً مِّنۡ عِنۡدِهٖ فَعُمِّيَتۡ عَلَيۡكُمۡؕ اَنُلۡزِمُكُمُوۡهَا
-  وَاَنۡـتُمۡ لَـهَا كٰرِهُوۡنَ‏
+arabic_ayat: قَالَ يَٰقَوۡمِ أَرَءَيۡتُمۡ إِن كُنتُ عَلَىٰ بَيِّنَةٖ مِّن رَّبِّي
+  وَءَاتَىٰنِي رَحۡمَةٗ مِّنۡ عِندِهِۦ فَعُمِّيَتۡ عَلَيۡكُمۡ أَنُلۡزِمُكُمُوهَا وَأَنتُمۡ
+  لَهَا كَٰرِهُونَ
 sentence_translation: He said, “O my people! Consider if I stand on a clear proof
   from my Lord and He has blessed me with a mercy from Himself, which you fail to
   see. Should we ˹then˺ force it on you against your will?
@@ -11,43 +11,43 @@ word_by_word:
     translation: He said
     transliteration: qāla
   2:
-    arabic: يٰقَوۡمِ
+    arabic: يَٰقَوۡمِ
     translation: O my people
     transliteration: yāqawmi
   3:
-    arabic: اَرَءَيۡتُمْ
+    arabic: أَرَءَيۡتُمۡ
     translation: Do you see
     transliteration: ara-aytum
   4:
-    arabic: اِنۡ
+    arabic: إِن
     translation: if
     transliteration: in
   5:
-    arabic: كُنۡتُ
+    arabic: كُنتُ
     translation: I was
     transliteration: kuntu
   6:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: 'on'
     transliteration: ʿalā
   7:
-    arabic: بَيِّنَةٍ
+    arabic: بَيِّنَةٖ
     translation: (the) clear proof
     transliteration: bayyinatin
   8:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: from
     transliteration: min
   9:
-    arabic: رَّبِّىۡ
+    arabic: رَّبِّي
     translation: my Lord
     transliteration: rabbī
   10:
-    arabic: وَاٰتٰٮنِىۡ
+    arabic: وَءَاتَىٰنِي
     translation: while He has given me
     transliteration: waātānī
   11:
-    arabic: رَحۡمَةً
+    arabic: رَحۡمَةٗ
     translation: mercy
     transliteration: raḥmatan
   12:
@@ -55,7 +55,7 @@ word_by_word:
     translation: from
     transliteration: min
   13:
-    arabic: عِنۡدِهٖ
+    arabic: عِندِهِۦ
     translation: Himself
     transliteration: ʿindihi
   14:
@@ -63,23 +63,23 @@ word_by_word:
     translation: but (it) has been obscured
     transliteration: faʿummiyat
   15:
-    arabic: عَلَيۡكُمۡؕ
+    arabic: عَلَيۡكُمۡ
     translation: from you
     transliteration: ʿalaykum
   16:
-    arabic: اَنُلۡزِمُكُمُوۡهَا
+    arabic: أَنُلۡزِمُكُمُوهَا
     translation: should We compel you (to accept) it
     transliteration: anul'zimukumūhā
   17:
-    arabic: وَاَنۡـتُمۡ
+    arabic: وَأَنتُمۡ
     translation: while you (are)
     transliteration: wa-antum
   18:
-    arabic: لَـهَا
+    arabic: لَهَا
     translation: averse to it
     transliteration: lahā
   19:
-    arabic: كٰرِهُوۡنَ‏
+    arabic: كَٰرِهُونَ
     translation: averse to it
     transliteration: kārihūna
 ---

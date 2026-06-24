@@ -1,11 +1,11 @@
 ---
-arabic_ayat: اَنۡ لَّا تَعۡبُدُوۡۤا اِلَّا اللّٰهَ​ؕ اِنِّىۡۤ اَخَافُ عَلَيۡكُمۡ عَذَابَ
-  يَوۡمٍ اَلِيۡمٍ‏
+arabic_ayat: أَن لَّا تَعۡبُدُوٓاْ إِلَّا ٱللَّهَۖ إِنِّيٓ أَخَافُ عَلَيۡكُمۡ عَذَابَ
+  يَوۡمٍ أَلِيمٖ
 sentence_translation: that you should worship none but Allah. I truly fear for you
   the torment of a painful Day.”
 word_by_word:
   1:
-    arabic: اَنۡ
+    arabic: أَن
     translation: That
     transliteration: an
   2:
@@ -13,23 +13,23 @@ word_by_word:
     translation: (do) not
     transliteration: lā
   3:
-    arabic: تَعۡبُدُوۡۤا
+    arabic: تَعۡبُدُوٓاْ
     translation: worship
     transliteration: taʿbudū
   4:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   5:
-    arabic: اللّٰهَ​ؕ
+    arabic: ٱللَّهَۖ
     translation: Allah
     transliteration: l-laha
   6:
-    arabic: اِنِّىۡۤ
+    arabic: إِنِّيٓ
     translation: Indeed, I
     transliteration: innī
   7:
-    arabic: اَخَافُ
+    arabic: أَخَافُ
     translation: '[I] fear'
     transliteration: akhāfu
   8:
@@ -45,7 +45,7 @@ word_by_word:
     translation: (of) a Day
     transliteration: yawmin
   11:
-    arabic: اَلِيۡمٍ‏
+    arabic: أَلِيمٖ
     translation: painful
     transliteration: alīmin
 ---

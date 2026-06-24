@@ -1,15 +1,15 @@
 ---
-arabic_ayat: فَاَمَّا مَنۡ تَابَ وَاٰمَنَ وَعَمِلَ صَالِحًـا فَعَسٰٓى اَنۡ يَّكُوۡنَ
-  مِنَ الۡمُفۡلِحِيۡنَ‏
+arabic_ayat: فَأَمَّا مَن تَابَ وَءَامَنَ وَعَمِلَ صَٰلِحٗا فَعَسَىٰٓ أَن يَكُونَ
+  مِنَ ٱلۡمُفۡلِحِينَ
 sentence_translation: As for those who repent, believe, and do good ˹in this world˺,
   it is right to hope that they will be among the successful.
 word_by_word:
   1:
-    arabic: فَاَمَّا
+    arabic: فَأَمَّا
     translation: But as for
     transliteration: fa-ammā
   2:
-    arabic: مَنۡ
+    arabic: مَن
     translation: (him) who
     transliteration: man
   3:
@@ -17,7 +17,7 @@ word_by_word:
     translation: repented
     transliteration: tāba
   4:
-    arabic: وَاٰمَنَ
+    arabic: وَءَامَنَ
     translation: and believed
     transliteration: waāmana
   5:
@@ -25,19 +25,19 @@ word_by_word:
     translation: and did
     transliteration: waʿamila
   6:
-    arabic: صَالِحًـا
+    arabic: صَٰلِحٗا
     translation: righteousness
     transliteration: ṣāliḥan
   7:
-    arabic: فَعَسٰٓى
+    arabic: فَعَسَىٰٓ
     translation: then perhaps
     transliteration: faʿasā
   8:
-    arabic: اَنۡ
+    arabic: أَن
     translation: '[that]'
     transliteration: an
   9:
-    arabic: يَّكُوۡنَ
+    arabic: يَكُونَ
     translation: he will be
     transliteration: yakūna
   10:
@@ -45,7 +45,7 @@ word_by_word:
     translation: of
     transliteration: mina
   11:
-    arabic: الۡمُفۡلِحِيۡنَ‏
+    arabic: ٱلۡمُفۡلِحِينَ
     translation: the successful ones
     transliteration: l-muf'liḥīna
 ---

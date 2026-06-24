@@ -1,27 +1,26 @@
 ---
-arabic_ayat: "وَاَقِيۡمُوا الصَّلٰوةَ وَاٰتُوا الزَّكٰوةَ وَارۡكَعُوۡا مَعَ الرّٰكِعِيۡنَ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: وَأَقِيمُواْ ٱلصَّلَوٰةَ وَءَاتُواْ ٱلزَّكَوٰةَ وَٱرۡكَعُواْ مَعَ ٱلرَّٰكِعِينَ
 sentence_translation: Establish prayer, pay alms-tax, and bow down with those who
   bow down.
 word_by_word:
   1:
-    arabic: وَاَقِيۡمُوا
+    arabic: وَأَقِيمُواْ
     translation: And establish
     transliteration: wa-aqīmū
   2:
-    arabic: الصَّلٰوةَ
+    arabic: ٱلصَّلَوٰةَ
     translation: the prayer
     transliteration: l-ṣalata
   3:
-    arabic: وَاٰتُوا
+    arabic: وَءَاتُواْ
     translation: and give
     transliteration: waātū
   4:
-    arabic: الزَّكٰوةَ
+    arabic: ٱلزَّكَوٰةَ
     translation: zakah
     transliteration: l-zakata
   5:
-    arabic: وَارۡكَعُوۡا
+    arabic: وَٱرۡكَعُواْ
     translation: and bow down
     transliteration: wa-ir'kaʿū
   6:
@@ -29,7 +28,7 @@ word_by_word:
     translation: with
     transliteration: maʿa
   7:
-    arabic: "الرّٰكِعِيۡنَ‏ \uFEFF\uFEFF"
+    arabic: ٱلرَّٰكِعِينَ
     translation: those who bow down
     transliteration: l-rākiʿīna
 ---

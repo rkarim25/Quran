@@ -1,8 +1,7 @@
 ---
-arabic_ayat: وَقَالَ اِنَّمَا اتَّخَذۡتُمۡ مِّنۡ دُوۡنِ اللّٰهِ اَوۡثَانًا ۙ مَّوَدَّةَ
-  بَيۡنِكُمۡ فِى الۡحَيٰوةِ الدُّنۡيَا ​ۚ ثُمَّ يَوۡمَ الۡقِيٰمَةِ يَكۡفُرُ بَعۡضُكُمۡ
-  بِبَعۡضٍ وَّيَلۡعَنُ بَعۡضُكُمۡ بَعۡضًا  وَّمَاۡوٰٮكُمُ النَّارُ وَمَا لَـكُمۡ
-  مِّنۡ نّٰصِرِيۡنَ ۙ‏
+arabic_ayat: وَقَالَ إِنَّمَا ٱتَّخَذۡتُم مِّن دُونِ ٱللَّهِ أَوۡثَٰنٗا مَّوَدَّةَ
+  بَيۡنِكُمۡ فِي ٱلۡحَيَوٰةِ ٱلدُّنۡيَاۖ ثُمَّ يَوۡمَ ٱلۡقِيَٰمَةِ يَكۡفُرُ بَعۡضُكُم
+  بِبَعۡضٖ وَيَلۡعَنُ بَعۡضُكُم بَعۡضٗا وَمَأۡوَىٰكُمُ ٱلنَّارُ وَمَا لَكُم مِّن نَّٰصِرِينَ
 sentence_translation: He said ˹to his people˺, “You have taken idols ˹for worship˺
   instead of Allah, only to keep ˹the bond of˺ harmony among yourselves in this worldly
   life. But on the Day of Judgment you will disown and curse one another. Your home
@@ -13,27 +12,27 @@ word_by_word:
     translation: And he said
     transliteration: waqāla
   2:
-    arabic: اِنَّمَا
+    arabic: إِنَّمَا
     translation: Only
     transliteration: innamā
   3:
-    arabic: اتَّخَذۡتُمۡ
+    arabic: ٱتَّخَذۡتُم
     translation: you have taken
     transliteration: ittakhadhtum
   4:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: besides
     transliteration: min
   5:
-    arabic: دُوۡنِ
+    arabic: دُونِ
     translation: besides
     transliteration: dūni
   6:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   7:
-    arabic: اَوۡثَانًا ۙ
+    arabic: أَوۡثَٰنٗا
     translation: idols
     transliteration: awthānan
   8:
@@ -45,15 +44,15 @@ word_by_word:
     translation: among you
     transliteration: baynikum
   10:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   11:
-    arabic: الۡحَيٰوةِ
+    arabic: ٱلۡحَيَوٰةِ
     translation: the life
     transliteration: l-ḥayati
   12:
-    arabic: الدُّنۡيَا ​ۚ
+    arabic: ٱلدُّنۡيَاۖ
     translation: (of) the world
     transliteration: l-dun'yā
   13:
@@ -65,7 +64,7 @@ word_by_word:
     translation: (on the) Day
     transliteration: yawma
   15:
-    arabic: الۡقِيٰمَةِ
+    arabic: ٱلۡقِيَٰمَةِ
     translation: (of) the Resurrection
     transliteration: l-qiyāmati
   16:
@@ -73,31 +72,31 @@ word_by_word:
     translation: you will deny
     transliteration: yakfuru
   17:
-    arabic: بَعۡضُكُمۡ
+    arabic: بَعۡضُكُم
     translation: one another
     transliteration: baʿḍukum
   18:
-    arabic: بِبَعۡضٍ
+    arabic: بِبَعۡضٖ
     translation: one another
     transliteration: bibaʿḍin
   19:
-    arabic: وَّيَلۡعَنُ
+    arabic: وَيَلۡعَنُ
     translation: and curse
     transliteration: wayalʿanu
   20:
-    arabic: بَعۡضُكُمۡ
+    arabic: بَعۡضُكُم
     translation: one another
     transliteration: baʿḍukum
   21:
-    arabic: بَعۡضًا 
+    arabic: بَعۡضٗا
     translation: one another
     transliteration: baʿḍan
   22:
-    arabic: وَّمَاۡوٰٮكُمُ
+    arabic: وَمَأۡوَىٰكُمُ
     translation: and your abode
     transliteration: wamawākumu
   23:
-    arabic: النَّارُ
+    arabic: ٱلنَّارُ
     translation: (will be) the Fire
     transliteration: l-nāru
   24:
@@ -105,15 +104,15 @@ word_by_word:
     translation: and not
     transliteration: wamā
   25:
-    arabic: لَـكُمۡ
+    arabic: لَكُم
     translation: for you
     transliteration: lakum
   26:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: any
     transliteration: min
   27:
-    arabic: نّٰصِرِيۡنَ ۙ‏
+    arabic: نَّٰصِرِينَ
     translation: helpers
     transliteration: nāṣirīna
 ---

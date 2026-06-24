@@ -1,6 +1,5 @@
 ---
-arabic_ayat: "قُلۡ مَنۡ رَّبُّ السَّمٰوٰتِ السَّبۡعِ وَرَبُّ الۡعَرۡشِ الۡعَظِيۡمِ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: قُلۡ مَن رَّبُّ ٱلسَّمَٰوَٰتِ ٱلسَّبۡعِ وَرَبُّ ٱلۡعَرۡشِ ٱلۡعَظِيمِ
 sentence_translation: ˹And˺ ask ˹them˺, “Who is the Lord of the seven heavens and
   the Lord of the Mighty Throne?”
 word_by_word:
@@ -9,7 +8,7 @@ word_by_word:
     translation: Say
     transliteration: qul
   2:
-    arabic: مَنۡ
+    arabic: مَن
     translation: Who
     transliteration: man
   3:
@@ -17,11 +16,11 @@ word_by_word:
     translation: (is the) Lord
     transliteration: rabbu
   4:
-    arabic: السَّمٰوٰتِ
+    arabic: ٱلسَّمَٰوَٰتِ
     translation: (of) the seven heavens
     transliteration: l-samāwāti
   5:
-    arabic: السَّبۡعِ
+    arabic: ٱلسَّبۡعِ
     translation: (of) the seven heavens
     transliteration: l-sabʿi
   6:
@@ -29,11 +28,11 @@ word_by_word:
     translation: and (the) Lord
     transliteration: warabbu
   7:
-    arabic: الۡعَرۡشِ
+    arabic: ٱلۡعَرۡشِ
     translation: (of) the Throne
     transliteration: l-ʿarshi
   8:
-    arabic: "الۡعَظِيۡمِ‏ \uFEFF\uFEFF"
+    arabic: ٱلۡعَظِيمِ
     translation: the Great
     transliteration: l-ʿaẓīmi
 ---

@@ -1,7 +1,7 @@
 ---
-arabic_ayat: "وَلَوۡ تَرٰٓى اِذۡ وُقِفُوۡا عَلٰى رَبِّهِمۡ​ ؕ قَالَ اَلَـيۡسَ هٰذَا\
-  \ بِالۡحَـقِّ​ ؕ قَالُوۡا بَلٰى وَرَبِّنَا​ ؕ قَالَ فَذُوۡقُوا الۡعَذَابَ بِمَا\
-  \ كُنۡتُمۡ تَكۡفُرُوۡنَ‏ \uFEFF\uFEFF"
+arabic_ayat: وَلَوۡ تَرَىٰٓ إِذۡ وُقِفُواْ عَلَىٰ رَبِّهِمۡۚ قَالَ أَلَيۡسَ هَٰذَا
+  بِٱلۡحَقِّۚ قَالُواْ بَلَىٰ وَرَبِّنَاۚ قَالَ فَذُوقُواْ ٱلۡعَذَابَ بِمَا كُنتُمۡ
+  تَكۡفُرُونَ
 sentence_translation: But if only you could see when they will be detained before
   their Lord! He will ask ˹them˺, “Is this ˹Hereafter˺ not the truth?” They will cry,
   “Absolutely, by our Lord!” He will say, “Then taste the punishment for your disbelief.”
@@ -11,23 +11,23 @@ word_by_word:
     translation: And if
     transliteration: walaw
   2:
-    arabic: تَرٰٓى
+    arabic: تَرَىٰٓ
     translation: you (could) see
     transliteration: tarā
   3:
-    arabic: اِذۡ
+    arabic: إِذۡ
     translation: when
     transliteration: idh
   4:
-    arabic: وُقِفُوۡا
+    arabic: وُقِفُواْ
     translation: they will be made to stand
     transliteration: wuqifū
   5:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: before
     transliteration: ʿalā
   6:
-    arabic: رَبِّهِمۡ​ ؕ
+    arabic: رَبِّهِمۡۚ
     translation: their Lord
     transliteration: rabbihim
   7:
@@ -35,27 +35,27 @@ word_by_word:
     translation: He (will) say
     transliteration: qāla
   8:
-    arabic: اَلَـيۡسَ
+    arabic: أَلَيۡسَ
     translation: Is not
     transliteration: alaysa
   9:
-    arabic: هٰذَا
+    arabic: هَٰذَا
     translation: this
     transliteration: hādhā
   10:
-    arabic: بِالۡحَـقِّ​ ؕ
+    arabic: بِٱلۡحَقِّۚ
     translation: the truth
     transliteration: bil-ḥaqi
   11:
-    arabic: قَالُوۡا
+    arabic: قَالُواْ
     translation: They will say
     transliteration: qālū
   12:
-    arabic: بَلٰى
+    arabic: بَلَىٰ
     translation: 'Yes'
     transliteration: balā
   13:
-    arabic: وَرَبِّنَا​ ؕ
+    arabic: وَرَبِّنَاۚ
     translation: by our Lord
     transliteration: warabbinā
   14:
@@ -63,11 +63,11 @@ word_by_word:
     translation: He (will) say
     transliteration: qāla
   15:
-    arabic: فَذُوۡقُوا
+    arabic: فَذُوقُواْ
     translation: So taste
     transliteration: fadhūqū
   16:
-    arabic: الۡعَذَابَ
+    arabic: ٱلۡعَذَابَ
     translation: the punishment
     transliteration: l-ʿadhāba
   17:
@@ -75,11 +75,11 @@ word_by_word:
     translation: because
     transliteration: bimā
   18:
-    arabic: كُنۡتُمۡ
+    arabic: كُنتُمۡ
     translation: you used to
     transliteration: kuntum
   19:
-    arabic: "تَكۡفُرُوۡنَ‏ \uFEFF\uFEFF"
+    arabic: تَكۡفُرُونَ
     translation: disbelieve
     transliteration: takfurūna
 ---

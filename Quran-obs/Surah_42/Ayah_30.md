@@ -1,23 +1,23 @@
 ---
-arabic_ayat: وَمَاۤ اَصَابَكُمۡ مِّنۡ مُّصِيۡبَةٍ فَبِمَا كَسَبَتۡ اَيۡدِيۡكُمۡ وَيَعۡفُوۡا
-  عَنۡ كَثِيۡرٍؕ‏
+arabic_ayat: وَمَآ أَصَٰبَكُم مِّن مُّصِيبَةٖ فَبِمَا كَسَبَتۡ أَيۡدِيكُمۡ وَيَعۡفُواْ
+  عَن كَثِيرٖ
 sentence_translation: Whatever affliction befalls you is because of what your own
   hands have committed. And He pardons much.
 word_by_word:
   1:
-    arabic: وَمَاۤ
+    arabic: وَمَآ
     translation: And whatever
     transliteration: wamā
   2:
-    arabic: اَصَابَكُمۡ
+    arabic: أَصَٰبَكُم
     translation: befalls you
     transliteration: aṣābakum
   3:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: of
     transliteration: min
   4:
-    arabic: مُّصِيۡبَةٍ
+    arabic: مُّصِيبَةٖ
     translation: (the) misfortune
     transliteration: muṣībatin
   5:
@@ -29,19 +29,19 @@ word_by_word:
     translation: have earned
     transliteration: kasabat
   7:
-    arabic: اَيۡدِيۡكُمۡ
+    arabic: أَيۡدِيكُمۡ
     translation: your hands
     transliteration: aydīkum
   8:
-    arabic: وَيَعۡفُوۡا
+    arabic: وَيَعۡفُواْ
     translation: But He pardons
     transliteration: wayaʿfū
   9:
-    arabic: عَنۡ
+    arabic: عَن
     translation: '[from]'
     transliteration: ʿan
   10:
-    arabic: كَثِيۡرٍؕ‏
+    arabic: كَثِيرٖ
     translation: much
     transliteration: kathīrin
 ---

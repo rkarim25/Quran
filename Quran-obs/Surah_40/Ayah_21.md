@@ -1,31 +1,31 @@
 ---
-arabic_ayat: اَوَلَمۡ يَسِيۡرُوۡا فِى الۡاَرۡضِ فَيَنۡظُرُوۡا كَيۡفَ كَانَ عَاقِبَةُ
-  الَّذِيۡنَ كَانُوۡا مِنۡ قَبۡلِهِمۡؕ كَانُوۡا هُمۡ اَشَدَّ مِنۡهُمۡ قُوَّةً وَّاٰثَارًا
-  فِى الۡاَرۡضِ فَاَخَذَهُمُ اللّٰهُ بِذُنُوۡبِهِمۡؕ وَمَا كَانَ لَهُمۡ مِّنَ اللّٰهِ
-  مِنۡ وَّاقٍ‏
+arabic_ayat: ۞ أَوَلَمۡ يَسِيرُواْ فِي ٱلۡأَرۡضِ فَيَنظُرُواْ كَيۡفَ كَانَ عَٰقِبَةُ
+  ٱلَّذِينَ كَانُواْ مِن قَبۡلِهِمۡۚ كَانُواْ هُمۡ أَشَدَّ مِنۡهُمۡ قُوَّةٗ وَءَاثَارٗا
+  فِي ٱلۡأَرۡضِ فَأَخَذَهُمُ ٱللَّهُ بِذُنُوبِهِمۡ وَمَا كَانَ لَهُم مِّنَ ٱللَّهِ
+  مِن وَاقٖ
 sentence_translation: Have they not travelled throughout the land to see what was
   the end of those ˹destroyed˺ before them? They were far superior in might and ˹richer
   in˺ monuments throughout the land. But Allah seized them for their sins, and they
   had no protector from Allah.
 word_by_word:
   1:
-    arabic: ۞ اَوَلَمۡ
+    arabic: ۞ أَوَلَمۡ
     translation: Do not
     transliteration: awalam
   2:
-    arabic: يَسِيۡرُوۡا
+    arabic: يَسِيرُواْ
     translation: they travel
     transliteration: yasīrū
   3:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   4:
-    arabic: الۡاَرۡضِ
+    arabic: ٱلۡأَرۡضِ
     translation: the earth
     transliteration: l-arḍi
   5:
-    arabic: فَيَنۡظُرُوۡا
+    arabic: فَيَنظُرُواْ
     translation: and see
     transliteration: fayanẓurū
   6:
@@ -37,27 +37,27 @@ word_by_word:
     translation: was
     transliteration: kāna
   8:
-    arabic: عَاقِبَةُ
+    arabic: عَٰقِبَةُ
     translation: (the) end
     transliteration: ʿāqibatu
   9:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: (of) those who
     transliteration: alladhīna
   10:
-    arabic: كَانُوۡا
+    arabic: كَانُواْ
     translation: were
     transliteration: kānū
   11:
-    arabic: مِنۡ
+    arabic: مِن
     translation: before them
     transliteration: min
   12:
-    arabic: قَبۡلِهِمۡؕ
+    arabic: قَبۡلِهِمۡۚ
     translation: before them
     transliteration: qablihim
   13:
-    arabic: كَانُوۡا
+    arabic: كَانُواْ
     translation: They were
     transliteration: kānū
   14:
@@ -65,7 +65,7 @@ word_by_word:
     translation: '[they]'
     transliteration: hum
   15:
-    arabic: اَشَدَّ
+    arabic: أَشَدَّ
     translation: superior
     transliteration: ashadda
   16:
@@ -73,31 +73,31 @@ word_by_word:
     translation: to them
     transliteration: min'hum
   17:
-    arabic: قُوَّةً
+    arabic: قُوَّةٗ
     translation: (in) strength
     transliteration: quwwatan
   18:
-    arabic: وَّاٰثَارًا
+    arabic: وَءَاثَارٗا
     translation: and (in) impressions
     transliteration: waāthāran
   19:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   20:
-    arabic: الۡاَرۡضِ
+    arabic: ٱلۡأَرۡضِ
     translation: the land
     transliteration: l-arḍi
   21:
-    arabic: فَاَخَذَهُمُ
+    arabic: فَأَخَذَهُمُ
     translation: but Allah seized them
     transliteration: fa-akhadhahumu
   22:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: but Allah seized them
     transliteration: l-lahu
   23:
-    arabic: بِذُنُوۡبِهِمۡؕ
+    arabic: بِذُنُوبِهِمۡ
     translation: for their sins
     transliteration: bidhunūbihim
   24:
@@ -109,7 +109,7 @@ word_by_word:
     translation: was
     transliteration: kāna
   26:
-    arabic: لَهُمۡ
+    arabic: لَهُم
     translation: for them
     transliteration: lahum
   27:
@@ -117,15 +117,15 @@ word_by_word:
     translation: against
     transliteration: mina
   28:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   29:
-    arabic: مِنۡ
+    arabic: مِن
     translation: any
     transliteration: min
   30:
-    arabic: وَّاقٍ‏
+    arabic: وَاقٖ
     translation: protector
     transliteration: wāqin
 ---

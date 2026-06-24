@@ -1,5 +1,5 @@
 ---
-arabic_ayat: وَلَوۡ تَقَوَّلَ عَلَيۡنَا بَعۡضَ الۡاَقَاوِيۡلِۙ‏
+arabic_ayat: وَلَوۡ تَقَوَّلَ عَلَيۡنَا بَعۡضَ ٱلۡأَقَاوِيلِ
 sentence_translation: Had the Messenger made up something in Our Name,
 word_by_word:
   1:
@@ -19,7 +19,7 @@ word_by_word:
     translation: some
     transliteration: baʿḍa
   5:
-    arabic: الۡاَقَاوِيۡلِۙ‏
+    arabic: ٱلۡأَقَاوِيلِ
     translation: sayings
     transliteration: l-aqāwīli
 ---

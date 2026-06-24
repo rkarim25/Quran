@@ -1,22 +1,22 @@
 ---
-arabic_ayat: اِذۡهَبۡ اَنۡتَ وَاَخُوۡكَ بِاٰيٰتِىۡ وَلَا تَنِيَا فِىۡ ذِكۡرِى​ۚ‏
+arabic_ayat: ٱذۡهَبۡ أَنتَ وَأَخُوكَ بِـَٔايَٰتِي وَلَا تَنِيَا فِي ذِكۡرِي
 sentence_translation: Go forth, you and your brother, with My signs and never falter
   in remembering Me.
 word_by_word:
   1:
-    arabic: اِذۡهَبۡ
+    arabic: ٱذۡهَبۡ
     translation: Go
     transliteration: idh'hab
   2:
-    arabic: اَنۡتَ
+    arabic: أَنتَ
     translation: you
     transliteration: anta
   3:
-    arabic: وَاَخُوۡكَ
+    arabic: وَأَخُوكَ
     translation: and your brother
     transliteration: wa-akhūka
   4:
-    arabic: بِاٰيٰتِىۡ
+    arabic: بِـَٔايَٰتِي
     translation: with My Signs
     transliteration: biāyātī
   5:
@@ -28,11 +28,11 @@ word_by_word:
     translation: slacken
     transliteration: taniyā
   7:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   8:
-    arabic: ذِكۡرِى​ۚ‏
+    arabic: ذِكۡرِي
     translation: My remembrance
     transliteration: dhik'rī
 ---

@@ -1,19 +1,19 @@
 ---
-arabic_ayat: لَا تَجۡعَلُوۡا دُعَآءَ الرَّسُوۡلِ بَيۡنَكُمۡ كَدُعَآءِ بَعۡضِكُمۡ
-  بَعۡضًا​ ؕ قَدۡ يَعۡلَمُ اللّٰهُ الَّذِيۡنَ يَتَسَلَّلُوۡنَ مِنۡكُمۡ لِوَاذًا​ ۚ
-  فَلۡيَحۡذَرِ الَّذِيۡنَ يُخَالِفُوۡنَ عَنۡ اَمۡرِهٖۤ اَنۡ تُصِيۡبَهُمۡ فِتۡنَةٌ
-  اَوۡ يُصِيۡبَهُمۡ عَذَابٌ اَ لِيۡمٌ‏
+arabic_ayat: لَّا تَجۡعَلُواْ دُعَآءَ ٱلرَّسُولِ بَيۡنَكُمۡ كَدُعَآءِ بَعۡضِكُم
+  بَعۡضٗاۚ قَدۡ يَعۡلَمُ ٱللَّهُ ٱلَّذِينَ يَتَسَلَّلُونَ مِنكُمۡ لِوَاذٗاۚ فَلۡيَحۡذَرِ
+  ٱلَّذِينَ يُخَالِفُونَ عَنۡ أَمۡرِهِۦٓ أَن تُصِيبَهُمۡ فِتۡنَةٌ أَوۡ يُصِيبَهُمۡ
+  عَذَابٌ أَلِيمٌ
 sentence_translation: Do not treat the Messenger’s summons to you ˹as lightly˺ as
   your summons to one another. Allah certainly knows those of you who slip away, hiding
   behind others. So let those who disobey his orders beware, for an affliction may
   befall them, or a painful torment may overtake them.
 word_by_word:
   1:
-    arabic: لَا
+    arabic: لَّا
     translation: (Do) not
     transliteration: lā
   2:
-    arabic: تَجۡعَلُوۡا
+    arabic: تَجۡعَلُواْ
     translation: make
     transliteration: tajʿalū
   3:
@@ -21,7 +21,7 @@ word_by_word:
     translation: (the) calling
     transliteration: duʿāa
   4:
-    arabic: الرَّسُوۡلِ
+    arabic: ٱلرَّسُولِ
     translation: (of) the Messenger
     transliteration: l-rasūli
   5:
@@ -33,11 +33,11 @@ word_by_word:
     translation: as (the) call
     transliteration: kaduʿāi
   7:
-    arabic: بَعۡضِكُمۡ
+    arabic: بَعۡضِكُم
     translation: (of) some of you
     transliteration: baʿḍikum
   8:
-    arabic: بَعۡضًا​ ؕ
+    arabic: بَعۡضٗاۚ
     translation: (to) others
     transliteration: baʿḍan
   9:
@@ -49,23 +49,23 @@ word_by_word:
     translation: Allah knows
     transliteration: yaʿlamu
   11:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah knows
     transliteration: l-lahu
   12:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   13:
-    arabic: يَتَسَلَّلُوۡنَ
+    arabic: يَتَسَلَّلُونَ
     translation: slip away
     transliteration: yatasallalūna
   14:
-    arabic: مِنۡكُمۡ
+    arabic: مِنكُمۡ
     translation: among you
     transliteration: minkum
   15:
-    arabic: لِوَاذًا​ ۚ
+    arabic: لِوَاذٗاۚ
     translation: under shelter
     transliteration: liwādhan
   16:
@@ -73,11 +73,11 @@ word_by_word:
     translation: So let beware
     transliteration: falyaḥdhari
   17:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   18:
-    arabic: يُخَالِفُوۡنَ
+    arabic: يُخَالِفُونَ
     translation: oppose
     transliteration: yukhālifūna
   19:
@@ -85,15 +85,15 @@ word_by_word:
     translation: '[from]'
     transliteration: ʿan
   20:
-    arabic: اَمۡرِهٖۤ
+    arabic: أَمۡرِهِۦٓ
     translation: his orders
     transliteration: amrihi
   21:
-    arabic: اَنۡ
+    arabic: أَن
     translation: lest
     transliteration: an
   22:
-    arabic: تُصِيۡبَهُمۡ
+    arabic: تُصِيبَهُمۡ
     translation: befalls them
     transliteration: tuṣībahum
   23:
@@ -101,11 +101,11 @@ word_by_word:
     translation: a trial
     transliteration: fit'natun
   24:
-    arabic: اَوۡ
+    arabic: أَوۡ
     translation: or
     transliteration: aw
   25:
-    arabic: يُصِيۡبَهُمۡ
+    arabic: يُصِيبَهُمۡ
     translation: befalls them
     transliteration: yuṣībahum
   26:
@@ -113,7 +113,7 @@ word_by_word:
     translation: a punishment
     transliteration: ʿadhābun
   27:
-    arabic: اَ لِيۡمٌ‏
+    arabic: أَلِيمٌ
     translation: painful
     transliteration: alīmun
 ---

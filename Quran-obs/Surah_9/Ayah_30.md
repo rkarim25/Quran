@@ -1,7 +1,7 @@
 ---
-arabic_ayat: وَقَالَتِ الۡيَهُوۡدُ عُزَيۡرُ ۨابۡنُ اللّٰهِ وَقَالَتِ النَّصٰرَى الۡمَسِيۡحُ
-  ابۡنُ اللّٰهِ​ؕ ذٰ لِكَ قَوۡلُهُمۡ بِاَ فۡوَاهِهِمۡ​ ۚ يُضَاهِـُٔوۡنَ قَوۡلَ الَّذِيۡنَ
-  كَفَرُوۡا مِنۡ قَبۡلُ​ ؕ قَاتَلَهُمُ اللّٰهُ ​ۚ  اَنّٰى يُؤۡفَكُوۡنَ‏
+arabic_ayat: وَقَالَتِ ٱلۡيَهُودُ عُزَيۡرٌ ٱبۡنُ ٱللَّهِ وَقَالَتِ ٱلنَّصَٰرَى ٱلۡمَسِيحُ
+  ٱبۡنُ ٱللَّهِۖ ذَٰلِكَ قَوۡلُهُم بِأَفۡوَٰهِهِمۡۖ يُضَٰهِـُٔونَ قَوۡلَ ٱلَّذِينَ
+  كَفَرُواْ مِن قَبۡلُۚ قَٰتَلَهُمُ ٱللَّهُۖ أَنَّىٰ يُؤۡفَكُونَ
 sentence_translation: The Jews say, “Ezra is the son of Allah,” while the Christians
   say, “The Messiah is the son of Allah.” Such are their baseless assertions, only
   parroting the words of earlier disbelievers. May Allah condemn them! How can they
@@ -12,19 +12,19 @@ word_by_word:
     translation: And said
     transliteration: waqālati
   2:
-    arabic: الۡيَهُوۡدُ
+    arabic: ٱلۡيَهُودُ
     translation: the Jews
     transliteration: l-yahūdu
   3:
-    arabic: عُزَيۡرُ ۨ
+    arabic: عُزَيۡرٌ
     translation: Uzair
     transliteration: ʿuzayrun
   4:
-    arabic: ابۡنُ
+    arabic: ٱبۡنُ
     translation: (is) son
     transliteration: ub'nu
   5:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (of) Allah
     transliteration: l-lahi
   6:
@@ -32,35 +32,35 @@ word_by_word:
     translation: And said
     transliteration: waqālati
   7:
-    arabic: النَّصٰرَى
+    arabic: ٱلنَّصَٰرَى
     translation: the Christians
     transliteration: l-naṣārā
   8:
-    arabic: الۡمَسِيۡحُ
+    arabic: ٱلۡمَسِيحُ
     translation: Messiah
     transliteration: l-masīḥu
   9:
-    arabic: ابۡنُ
+    arabic: ٱبۡنُ
     translation: (is) son
     transliteration: ub'nu
   10:
-    arabic: اللّٰهِ​ؕ
+    arabic: ٱللَّهِۖ
     translation: (of) Allah
     transliteration: l-lahi
   11:
-    arabic: ذٰ لِكَ
+    arabic: ذَٰلِكَ
     translation: That
     transliteration: dhālika
   12:
-    arabic: قَوۡلُهُمۡ
+    arabic: قَوۡلُهُم
     translation: (is) their saying
     transliteration: qawluhum
   13:
-    arabic: بِاَ فۡوَاهِهِمۡ​ ۚ
+    arabic: بِأَفۡوَٰهِهِمۡۖ
     translation: with their mouths
     transliteration: bi-afwāhihim
   14:
-    arabic: يُضَاهِـُٔوۡنَ
+    arabic: يُضَٰهِـُٔونَ
     translation: they imitate
     transliteration: yuḍāhiūna
   15:
@@ -68,35 +68,35 @@ word_by_word:
     translation: the saying
     transliteration: qawla
   16:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: (of) those who
     transliteration: alladhīna
   17:
-    arabic: كَفَرُوۡا
+    arabic: كَفَرُواْ
     translation: disbelieved
     transliteration: kafarū
   18:
-    arabic: مِنۡ
+    arabic: مِن
     translation: before
     transliteration: min
   19:
-    arabic: قَبۡلُ​ ؕ
+    arabic: قَبۡلُۚ
     translation: before
     transliteration: qablu
   20:
-    arabic: قَاتَلَهُمُ
+    arabic: قَٰتَلَهُمُ
     translation: (May) Allah destroy them
     transliteration: qātalahumu
   21:
-    arabic: اللّٰهُ ​ۚ 
+    arabic: ٱللَّهُۖ
     translation: (May) Allah destroy them
     transliteration: l-lahu
   22:
-    arabic: اَنّٰى
+    arabic: أَنَّىٰ
     translation: How
     transliteration: annā
   23:
-    arabic: يُؤۡفَكُوۡنَ‏
+    arabic: يُؤۡفَكُونَ
     translation: deluded are they
     transliteration: yu'fakūna
 ---

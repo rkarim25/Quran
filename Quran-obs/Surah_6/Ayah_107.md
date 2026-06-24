@@ -1,6 +1,6 @@
 ---
-arabic_ayat: وَلَوۡ شَآءَ اللّٰهُ مَاۤ اَشۡرَكُوۡا ​ؕ وَمَا جَعَلۡنٰكَ عَلَيۡهِمۡ
-  حَفِيۡظًا​ ۚ وَمَاۤ اَنۡتَ عَلَيۡهِمۡ بِوَكِيۡلٍ‏
+arabic_ayat: وَلَوۡ شَآءَ ٱللَّهُ مَآ أَشۡرَكُواْۗ وَمَا جَعَلۡنَٰكَ عَلَيۡهِمۡ
+  حَفِيظٗاۖ وَمَآ أَنتَ عَلَيۡهِم بِوَكِيلٖ
 sentence_translation: Had Allah willed, they would not have been polytheists. We have
   not appointed you as their keeper, nor are you their maintainer.
 word_by_word:
@@ -13,15 +13,15 @@ word_by_word:
     translation: (had) willed
     transliteration: shāa
   3:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   4:
-    arabic: مَاۤ
+    arabic: مَآ
     translation: not (they would have)
     transliteration: mā
   5:
-    arabic: اَشۡرَكُوۡا ​ؕ
+    arabic: أَشۡرَكُواْۗ
     translation: associated partners (with Him)
     transliteration: ashrakū
   6:
@@ -29,7 +29,7 @@ word_by_word:
     translation: And not
     transliteration: wamā
   7:
-    arabic: جَعَلۡنٰكَ
+    arabic: جَعَلۡنَٰكَ
     translation: We have made you
     transliteration: jaʿalnāka
   8:
@@ -37,23 +37,23 @@ word_by_word:
     translation: over them
     transliteration: ʿalayhim
   9:
-    arabic: حَفِيۡظًا​ ۚ
+    arabic: حَفِيظٗاۖ
     translation: a guardian
     transliteration: ḥafīẓan
   10:
-    arabic: وَمَاۤ
+    arabic: وَمَآ
     translation: and not
     transliteration: wamā
   11:
-    arabic: اَنۡتَ
+    arabic: أَنتَ
     translation: you
     transliteration: anta
   12:
-    arabic: عَلَيۡهِمۡ
+    arabic: عَلَيۡهِم
     translation: (are) over them
     transliteration: ʿalayhim
   13:
-    arabic: بِوَكِيۡلٍ‏
+    arabic: بِوَكِيلٖ
     translation: a manager
     transliteration: biwakīlin
 ---

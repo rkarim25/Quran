@@ -1,13 +1,13 @@
 ---
-arabic_ayat: وَاِنَّا لَجٰعِلُوۡنَ مَا عَلَيۡهَا صَعِيۡدًا جُرُزًا ؕ‏
+arabic_ayat: وَإِنَّا لَجَٰعِلُونَ مَا عَلَيۡهَا صَعِيدٗا جُرُزًا
 sentence_translation: And We will certainly reduce whatever is on it to barren ground.
 word_by_word:
   1:
-    arabic: وَاِنَّا
+    arabic: وَإِنَّا
     translation: And indeed, We
     transliteration: wa-innā
   2:
-    arabic: لَجٰعِلُوۡنَ
+    arabic: لَجَٰعِلُونَ
     translation: (will) surely make
     transliteration: lajāʿilūna
   3:
@@ -19,11 +19,11 @@ word_by_word:
     translation: (is) on it
     transliteration: ʿalayhā
   5:
-    arabic: صَعِيۡدًا
+    arabic: صَعِيدٗا
     translation: soil
     transliteration: ṣaʿīdan
   6:
-    arabic: جُرُزًا ؕ‏
+    arabic: جُرُزًا
     translation: barren
     transliteration: juruzan
 ---

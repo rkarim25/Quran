@@ -1,6 +1,6 @@
 ---
-arabic_ayat: قَالَ نُوۡحٌ رَّبِّ اِنَّهُمۡ عَصَوۡنِىۡ وَاتَّبَعُوۡا مَنۡ لَّمۡ يَزِدۡهُ
-  مَالُهٗ وَوَلَدُهٗۤ اِلَّا خَسَارًا​ ۚ‏
+arabic_ayat: قَالَ نُوحٞ رَّبِّ إِنَّهُمۡ عَصَوۡنِي وَٱتَّبَعُواْ مَن لَّمۡ يَزِدۡهُ
+  مَالُهُۥ وَوَلَدُهُۥٓ إِلَّا خَسَارٗا
 sentence_translation: ˹Eventually,˺ Noah cried, “My Lord! They have certainly persisted
   in disobeying me, and followed ˹instead˺ those ˹elite˺ whose ˹abundant˺ wealth and
   children only increase them in loss,
@@ -10,7 +10,7 @@ word_by_word:
     translation: Said
     transliteration: qāla
   2:
-    arabic: نُوۡحٌ
+    arabic: نُوحٞ
     translation: Nuh
     transliteration: nūḥun
   3:
@@ -18,19 +18,19 @@ word_by_word:
     translation: My Lord
     transliteration: rabbi
   4:
-    arabic: اِنَّهُمۡ
+    arabic: إِنَّهُمۡ
     translation: Indeed, they
     transliteration: innahum
   5:
-    arabic: عَصَوۡنِىۡ
+    arabic: عَصَوۡنِي
     translation: disobeyed me
     transliteration: ʿaṣawnī
   6:
-    arabic: وَاتَّبَعُوۡا
+    arabic: وَٱتَّبَعُواْ
     translation: and followed
     transliteration: wa-ittabaʿū
   7:
-    arabic: مَنۡ
+    arabic: مَن
     translation: (the one) who
     transliteration: man
   8:
@@ -42,19 +42,19 @@ word_by_word:
     translation: increase him
     transliteration: yazid'hu
   10:
-    arabic: مَالُهٗ
+    arabic: مَالُهُۥ
     translation: his wealth
     transliteration: māluhu
   11:
-    arabic: وَوَلَدُهٗۤ
+    arabic: وَوَلَدُهُۥٓ
     translation: and his children
     transliteration: wawaladuhu
   12:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   13:
-    arabic: خَسَارًا​ ۚ‏
+    arabic: خَسَارٗا
     translation: (in) loss
     transliteration: khasāran
 ---

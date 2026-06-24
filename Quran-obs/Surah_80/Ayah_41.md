@@ -1,5 +1,5 @@
 ---
-arabic_ayat: تَرۡهَقُهَا قَتَرَةٌ ؕ‏
+arabic_ayat: تَرۡهَقُهَا قَتَرَةٌ
 sentence_translation: cast in gloom—
 word_by_word:
   1:
@@ -7,7 +7,7 @@ word_by_word:
     translation: Will cover them
     transliteration: tarhaquhā
   2:
-    arabic: قَتَرَةٌ ؕ‏
+    arabic: قَتَرَةٌ
     translation: darkness
     transliteration: qataratun
 ---

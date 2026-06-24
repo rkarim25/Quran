@@ -1,31 +1,30 @@
 ---
-arabic_ayat: وَالَّذِىۡۤ اَطۡمَعُ اَنۡ يَّغۡفِرَ لِىۡ خَطِٓیْــَٔـتِىۡ يَوۡمَ الدِّيۡنِ
-  ؕ‏
+arabic_ayat: وَٱلَّذِيٓ أَطۡمَعُ أَن يَغۡفِرَ لِي خَطِيٓـَٔتِي يَوۡمَ ٱلدِّينِ
 sentence_translation: And He is ˹the One˺ Who, I hope, will forgive my flaws on Judgment
   Day.”
 word_by_word:
   1:
-    arabic: وَالَّذِىۡۤ
+    arabic: وَٱلَّذِيٓ
     translation: 'And the One Who '
     transliteration: wa-alladhī
   2:
-    arabic: اَطۡمَعُ
+    arabic: أَطۡمَعُ
     translation: I hope
     transliteration: aṭmaʿu
   3:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that
     transliteration: an
   4:
-    arabic: يَّغۡفِرَ
+    arabic: يَغۡفِرَ
     translation: He will forgive
     transliteration: yaghfira
   5:
-    arabic: لِىۡ
+    arabic: لِي
     translation: for me
     transliteration: lī
   6:
-    arabic: خَطِٓیْــَٔـتِىۡ
+    arabic: خَطِيٓـَٔتِي
     translation: my faults
     transliteration: khaṭīatī
   7:
@@ -33,7 +32,7 @@ word_by_word:
     translation: (on the) Day
     transliteration: yawma
   8:
-    arabic: الدِّيۡنِ ؕ‏
+    arabic: ٱلدِّينِ
     translation: (of) the Judgment
     transliteration: l-dīni
 ---

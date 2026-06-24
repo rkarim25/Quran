@@ -1,5 +1,5 @@
 ---
-arabic_ayat: لَقَدۡ حَقَّ الۡقَوۡلُ عَلٰٓى اَكۡثَرِهِمۡ فَهُمۡ لَا يُؤۡمِنُوۡنَ‏
+arabic_ayat: لَقَدۡ حَقَّ ٱلۡقَوۡلُ عَلَىٰٓ أَكۡثَرِهِمۡ فَهُمۡ لَا يُؤۡمِنُونَ
 sentence_translation: The decree ˹of torment˺ has already been justified against most
   of them, for they will never believe.
 word_by_word:
@@ -12,15 +12,15 @@ word_by_word:
     translation: (has) proved true
     transliteration: ḥaqqa
   3:
-    arabic: الۡقَوۡلُ
+    arabic: ٱلۡقَوۡلُ
     translation: the word
     transliteration: l-qawlu
   4:
-    arabic: عَلٰٓى
+    arabic: عَلَىٰٓ
     translation: upon
     transliteration: ʿalā
   5:
-    arabic: اَكۡثَرِهِمۡ
+    arabic: أَكۡثَرِهِمۡ
     translation: most of them
     transliteration: aktharihim
   6:
@@ -32,7 +32,7 @@ word_by_word:
     translation: (do) not
     transliteration: lā
   8:
-    arabic: يُؤۡمِنُوۡنَ‏
+    arabic: يُؤۡمِنُونَ
     translation: believe
     transliteration: yu'minūna
 ---

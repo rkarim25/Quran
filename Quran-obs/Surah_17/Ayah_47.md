@@ -1,17 +1,17 @@
 ---
-arabic_ayat: "نَحۡنُ اَعۡلَمُ بِمَا يَسۡتَمِعُوۡنَ بِهٖۤ اِذۡ يَسۡتَمِعُوۡنَ اِلَيۡكَ\
-  \ وَاِذۡ هُمۡ نَجۡوٰٓى اِذۡ يَقُوۡلُ الظّٰلِمُوۡنَ اِنۡ تَتَّبِعُوۡنَ اِلَّا رَجُلًا\
-  \ مَّسۡحُوۡرًا‏ \uFEFF\uFEFF"
+arabic_ayat: نَّحۡنُ أَعۡلَمُ بِمَا يَسۡتَمِعُونَ بِهِۦٓ إِذۡ يَسۡتَمِعُونَ إِلَيۡكَ
+  وَإِذۡ هُمۡ نَجۡوَىٰٓ إِذۡ يَقُولُ ٱلظَّٰلِمُونَ إِن تَتَّبِعُونَ إِلَّا رَجُلٗا
+  مَّسۡحُورًا
 sentence_translation: We know best how they listen to your recitation and what they
   say privately—when the wrongdoers say, “You would only be following a bewitched
   man.”
 word_by_word:
   1:
-    arabic: نَحۡنُ
+    arabic: نَّحۡنُ
     translation: We
     transliteration: naḥnu
   2:
-    arabic: اَعۡلَمُ
+    arabic: أَعۡلَمُ
     translation: know best
     transliteration: aʿlamu
   3:
@@ -19,27 +19,27 @@ word_by_word:
     translation: '[of] what'
     transliteration: bimā
   4:
-    arabic: يَسۡتَمِعُوۡنَ
+    arabic: يَسۡتَمِعُونَ
     translation: they listen
     transliteration: yastamiʿūna
   5:
-    arabic: بِهٖۤ
+    arabic: بِهِۦٓ
     translation: to [it]
     transliteration: bihi
   6:
-    arabic: اِذۡ
+    arabic: إِذۡ
     translation: when
     transliteration: idh
   7:
-    arabic: يَسۡتَمِعُوۡنَ
+    arabic: يَسۡتَمِعُونَ
     translation: they listen
     transliteration: yastamiʿūna
   8:
-    arabic: اِلَيۡكَ
+    arabic: إِلَيۡكَ
     translation: to you
     transliteration: ilayka
   9:
-    arabic: وَاِذۡ
+    arabic: وَإِذۡ
     translation: and when
     transliteration: wa-idh
   10:
@@ -47,39 +47,39 @@ word_by_word:
     translation: they
     transliteration: hum
   11:
-    arabic: نَجۡوٰٓى
+    arabic: نَجۡوَىٰٓ
     translation: (are) in private conversation
     transliteration: najwā
   12:
-    arabic: اِذۡ
+    arabic: إِذۡ
     translation: when
     transliteration: idh
   13:
-    arabic: يَقُوۡلُ
+    arabic: يَقُولُ
     translation: say
     transliteration: yaqūlu
   14:
-    arabic: الظّٰلِمُوۡنَ
+    arabic: ٱلظَّٰلِمُونَ
     translation: the wrongdoers
     transliteration: l-ẓālimūna
   15:
-    arabic: اِنۡ
+    arabic: إِن
     translation: Not
     transliteration: in
   16:
-    arabic: تَتَّبِعُوۡنَ
+    arabic: تَتَّبِعُونَ
     translation: you follow
     transliteration: tattabiʿūna
   17:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: but
     transliteration: illā
   18:
-    arabic: رَجُلًا
+    arabic: رَجُلٗا
     translation: a man
     transliteration: rajulan
   19:
-    arabic: "مَّسۡحُوۡرًا‏ \uFEFF\uFEFF"
+    arabic: مَّسۡحُورًا
     translation: bewitched
     transliteration: masḥūran
 ---

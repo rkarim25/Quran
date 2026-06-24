@@ -1,19 +1,19 @@
 ---
-arabic_ayat: ذٰلِكَ بِاَنَّ اللّٰهَ نَزَّلَ الۡکِتٰبَ بِالۡحَـقِّؕ وَاِنَّ الَّذِيۡنَ
-  اخۡتَلَفُوۡا فِى الۡكِتٰبِ لَفِىۡ شِقَاقٍۢ بَعِيۡدٍ‏
+arabic_ayat: ذَٰلِكَ بِأَنَّ ٱللَّهَ نَزَّلَ ٱلۡكِتَٰبَ بِٱلۡحَقِّۗ وَإِنَّ ٱلَّذِينَ
+  ٱخۡتَلَفُواْ فِي ٱلۡكِتَٰبِ لَفِي شِقَاقِۭ بَعِيدٖ
 sentence_translation: That is because Allah has revealed the Book in truth. And surely
   those who differ regarding it are totally engrossed in opposition.
 word_by_word:
   1:
-    arabic: ذٰلِكَ
+    arabic: ذَٰلِكَ
     translation: That
     transliteration: dhālika
   2:
-    arabic: بِاَنَّ
+    arabic: بِأَنَّ
     translation: (is) because
     transliteration: bi-anna
   3:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   4:
@@ -21,43 +21,43 @@ word_by_word:
     translation: revealed
     transliteration: nazzala
   5:
-    arabic: الۡکِتٰبَ
+    arabic: ٱلۡكِتَٰبَ
     translation: the Book
     transliteration: l-kitāba
   6:
-    arabic: بِالۡحَـقِّؕ
+    arabic: بِٱلۡحَقِّۗ
     translation: with [the] Truth
     transliteration: bil-ḥaqi
   7:
-    arabic: وَاِنَّ
+    arabic: وَإِنَّ
     translation: And indeed
     transliteration: wa-inna
   8:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those
     transliteration: alladhīna
   9:
-    arabic: اخۡتَلَفُوۡا
+    arabic: ٱخۡتَلَفُواْ
     translation: who differed
     transliteration: ikh'talafū
   10:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   11:
-    arabic: الۡكِتٰبِ
+    arabic: ٱلۡكِتَٰبِ
     translation: the Book
     transliteration: l-kitābi
   12:
-    arabic: لَفِىۡ
+    arabic: لَفِي
     translation: (are) surely in
     transliteration: lafī
   13:
-    arabic: شِقَاقٍۢ
+    arabic: شِقَاقِۭ
     translation: schism
     transliteration: shiqāqin
   14:
-    arabic: بَعِيۡدٍ‏
+    arabic: بَعِيدٖ
     translation: far
     transliteration: baʿīdin
 ---

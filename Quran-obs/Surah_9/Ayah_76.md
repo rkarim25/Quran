@@ -1,43 +1,43 @@
 ---
-arabic_ayat: "فَلَمَّاۤ اٰتٰٮهُمۡ مِّنۡ فَضۡلِهٖ بَخِلُوۡا بِهٖ وَتَوَلَّوْا وَّهُمۡ\
-  \ مُّعۡرِضُوۡنَ‏ \uFEFF\uFEFF"
+arabic_ayat: فَلَمَّآ ءَاتَىٰهُم مِّن فَضۡلِهِۦ بَخِلُواْ بِهِۦ وَتَوَلَّواْ وَّهُم
+  مُّعۡرِضُونَ
 sentence_translation: But when He gave them out of His bounty, they withheld it and
   turned away indifferently.
 word_by_word:
   1:
-    arabic: فَلَمَّاۤ
+    arabic: فَلَمَّآ ءَ
     translation: But when
     transliteration: falammā
   2:
-    arabic: اٰتٰٮهُمۡ
+    arabic: اتَىٰهُم
     translation: He gave them
     transliteration: ātāhum
   3:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: of
     transliteration: min
   4:
-    arabic: فَضۡلِهٖ
+    arabic: فَضۡلِهِۦ
     translation: His Bounty
     transliteration: faḍlihi
   5:
-    arabic: بَخِلُوۡا
+    arabic: بَخِلُواْ
     translation: they became stingy
     transliteration: bakhilū
   6:
-    arabic: بِهٖ
+    arabic: بِهِۦ
     translation: with it
     transliteration: bihi
   7:
-    arabic: وَتَوَلَّوْا
+    arabic: وَتَوَلَّواْ
     translation: and turned away
     transliteration: watawallaw
   8:
-    arabic: وَّهُمۡ
+    arabic: وَّهُم
     translation: while they
     transliteration: wahum
   9:
-    arabic: "مُّعۡرِضُوۡنَ‏ \uFEFF\uFEFF"
+    arabic: مُّعۡرِضُونَ
     translation: (were) averse
     transliteration: muʿ'riḍūna
 ---

@@ -1,11 +1,11 @@
 ---
-arabic_ayat: وَاسۡتَكۡبَرَ هُوَ وَجُنُوۡدُهٗ فِى الۡاَرۡضِ بِغَيۡرِ الۡحَـقِّ وَظَنُّوۡۤا
-  اَنَّهُمۡ اِلَـيۡنَا لَا يُرۡجَعُوۡنَ‏
+arabic_ayat: وَٱسۡتَكۡبَرَ هُوَ وَجُنُودُهُۥ فِي ٱلۡأَرۡضِ بِغَيۡرِ ٱلۡحَقِّ وَظَنُّوٓاْ
+  أَنَّهُمۡ إِلَيۡنَا لَا يُرۡجَعُونَ
 sentence_translation: And so he and his soldiers behaved arrogantly in the land with
   no right, thinking they would never be returned to Us.
 word_by_word:
   1:
-    arabic: وَاسۡتَكۡبَرَ
+    arabic: وَٱسۡتَكۡبَرَ
     translation: And he was arrogant
     transliteration: wa-is'takbara
   2:
@@ -13,15 +13,15 @@ word_by_word:
     translation: And he was arrogant
     transliteration: huwa
   3:
-    arabic: وَجُنُوۡدُهٗ
+    arabic: وَجُنُودُهُۥ
     translation: and his hosts
     transliteration: wajunūduhu
   4:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   5:
-    arabic: الۡاَرۡضِ
+    arabic: ٱلۡأَرۡضِ
     translation: the land
     transliteration: l-arḍi
   6:
@@ -29,19 +29,19 @@ word_by_word:
     translation: without
     transliteration: bighayri
   7:
-    arabic: الۡحَـقِّ
+    arabic: ٱلۡحَقِّ
     translation: right
     transliteration: l-ḥaqi
   8:
-    arabic: وَظَنُّوۡۤا
+    arabic: وَظَنُّوٓاْ
     translation: and they thought
     transliteration: waẓannū
   9:
-    arabic: اَنَّهُمۡ
+    arabic: أَنَّهُمۡ
     translation: that they
     transliteration: annahum
   10:
-    arabic: اِلَـيۡنَا
+    arabic: إِلَيۡنَا
     translation: to Us
     transliteration: ilaynā
   11:
@@ -49,7 +49,7 @@ word_by_word:
     translation: not
     transliteration: lā
   12:
-    arabic: يُرۡجَعُوۡنَ‏
+    arabic: يُرۡجَعُونَ
     translation: will be returned
     transliteration: yur'jaʿūna
 ---

@@ -1,9 +1,9 @@
 ---
-arabic_ayat: اِنَّكَ لَمِنَ الۡمُرۡسَلِيۡنَۙ‏
+arabic_ayat: إِنَّكَ لَمِنَ ٱلۡمُرۡسَلِينَ
 sentence_translation: You ˹O Prophet˺ are truly one of the messengers
 word_by_word:
   1:
-    arabic: اِنَّكَ
+    arabic: إِنَّكَ
     translation: Indeed, you
     transliteration: innaka
   2:
@@ -11,7 +11,7 @@ word_by_word:
     translation: (are) among
     transliteration: lamina
   3:
-    arabic: الۡمُرۡسَلِيۡنَۙ‏
+    arabic: ٱلۡمُرۡسَلِينَ
     translation: the Messengers
     transliteration: l-mur'salīna
 ---

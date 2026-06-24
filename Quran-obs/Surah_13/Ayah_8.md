@@ -1,11 +1,11 @@
 ---
-arabic_ayat: اَللّٰهُ يَعۡلَمُ مَا تَحۡمِلُ كُلُّ اُنۡثٰى وَمَا تَغِيۡضُ الۡاَرۡحَامُ
-  وَمَا تَزۡدَادُ ​ؕ وَكُلُّ شَىۡءٍ عِنۡدَهٗ بِمِقۡدَارٍ‏
+arabic_ayat: ٱللَّهُ يَعۡلَمُ مَا تَحۡمِلُ كُلُّ أُنثَىٰ وَمَا تَغِيضُ ٱلۡأَرۡحَامُ
+  وَمَا تَزۡدَادُۚ وَكُلُّ شَيۡءٍ عِندَهُۥ بِمِقۡدَارٍ
 sentence_translation: Allah knows what every female bears and what increases and decreases
   in the wombs. And with Him everything is determined with precision.
 word_by_word:
   1:
-    arabic: اَللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: al-lahu
   2:
@@ -25,7 +25,7 @@ word_by_word:
     translation: every
     transliteration: kullu
   6:
-    arabic: اُنۡثٰى
+    arabic: أُنثَىٰ
     translation: female
     transliteration: unthā
   7:
@@ -33,11 +33,11 @@ word_by_word:
     translation: and what
     transliteration: wamā
   8:
-    arabic: تَغِيۡضُ
+    arabic: تَغِيضُ
     translation: fall short
     transliteration: taghīḍu
   9:
-    arabic: الۡاَرۡحَامُ
+    arabic: ٱلۡأَرۡحَامُ
     translation: the womb
     transliteration: l-arḥāmu
   10:
@@ -45,7 +45,7 @@ word_by_word:
     translation: and what
     transliteration: wamā
   11:
-    arabic: تَزۡدَادُ ​ؕ
+    arabic: تَزۡدَادُۚ
     translation: they exceed
     transliteration: tazdādu
   12:
@@ -53,15 +53,15 @@ word_by_word:
     translation: And every
     transliteration: wakullu
   13:
-    arabic: شَىۡءٍ
+    arabic: شَيۡءٍ
     translation: thing
     transliteration: shayin
   14:
-    arabic: عِنۡدَهٗ
+    arabic: عِندَهُۥ
     translation: with Him
     transliteration: ʿindahu
   15:
-    arabic: بِمِقۡدَارٍ‏
+    arabic: بِمِقۡدَارٍ
     translation: (is) in due proportion
     transliteration: bimiq'dārin
 ---

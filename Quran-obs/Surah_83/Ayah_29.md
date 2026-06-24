@@ -1,22 +1,21 @@
 ---
-arabic_ayat: اِنَّ الَّذِيۡنَ اَجۡرَمُوۡا كَانُوۡا مِنَ الَّذِيۡنَ اٰمَنُوۡا يَضۡحَكُوۡنَ
-   ۖ‏
+arabic_ayat: إِنَّ ٱلَّذِينَ أَجۡرَمُواْ كَانُواْ مِنَ ٱلَّذِينَ ءَامَنُواْ يَضۡحَكُونَ
 sentence_translation: Indeed, the wicked used to laugh at the believers,
 word_by_word:
   1:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   3:
-    arabic: اَجۡرَمُوۡا
+    arabic: أَجۡرَمُواْ
     translation: committed crimes
     transliteration: ajramū
   4:
-    arabic: كَانُوۡا
+    arabic: كَانُواْ
     translation: used to
     transliteration: kānū
   5:
@@ -24,15 +23,15 @@ word_by_word:
     translation: at
     transliteration: mina
   6:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ ءَ
     translation: those who
     transliteration: alladhīna
   7:
-    arabic: اٰمَنُوۡا
+    arabic: امَنُواْ
     translation: believed
     transliteration: āmanū
   8:
-    arabic: يَضۡحَكُوۡنَ  ۖ‏
+    arabic: يَضۡحَكُونَ
     translation: laugh
     transliteration: yaḍḥakūna
 ---

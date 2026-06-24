@@ -1,6 +1,6 @@
 ---
-arabic_ayat: قَالَ رَبِّ اغۡفِرۡ لِىۡ وَهَبۡ لِىۡ مُلۡكًا لَّا يَنۡۢبَغِىۡ لِاَحَدٍ
-  مِّنۡۢ بَعۡدِىۡ​ۚ اِنَّكَ اَنۡتَ الۡوَهَّابُ‏
+arabic_ayat: قَالَ رَبِّ ٱغۡفِرۡ لِي وَهَبۡ لِي مُلۡكٗا لَّا يَنۢبَغِي لِأَحَدٖ مِّنۢ
+  بَعۡدِيٓۖ إِنَّكَ أَنتَ ٱلۡوَهَّابُ
 sentence_translation: He prayed, “My Lord! Forgive me, and grant me an authority that
   will never be matched by anyone after me. You are indeed the Giver ˹of all bounties˺.”
 word_by_word:
@@ -13,11 +13,11 @@ word_by_word:
     translation: O my Lord
     transliteration: rabbi
   3:
-    arabic: اغۡفِرۡ
+    arabic: ٱغۡفِرۡ
     translation: Forgive
     transliteration: igh'fir
   4:
-    arabic: لِىۡ
+    arabic: لِي
     translation: me
     transliteration: lī
   5:
@@ -25,11 +25,11 @@ word_by_word:
     translation: and grant
     transliteration: wahab
   6:
-    arabic: لِىۡ
+    arabic: لِي
     translation: me
     transliteration: lī
   7:
-    arabic: مُلۡكًا
+    arabic: مُلۡكٗا
     translation: a kingdom
     transliteration: mul'kan
   8:
@@ -37,31 +37,31 @@ word_by_word:
     translation: not
     transliteration: lā
   9:
-    arabic: يَنۡۢبَغِىۡ
+    arabic: يَنۢبَغِي
     translation: (will) belong
     transliteration: yanbaghī
   10:
-    arabic: لِاَحَدٍ
+    arabic: لِأَحَدٖ
     translation: to anyone
     transliteration: li-aḥadin
   11:
-    arabic: مِّنۡۢ
+    arabic: مِّنۢ
     translation: after me
     transliteration: min
   12:
-    arabic: بَعۡدِىۡ​ۚ
+    arabic: بَعۡدِيٓۖ
     translation: after me
     transliteration: baʿdī
   13:
-    arabic: اِنَّكَ
+    arabic: إِنَّكَ
     translation: Indeed, You
     transliteration: innaka
   14:
-    arabic: اَنۡتَ
+    arabic: أَنتَ
     translation: '[You]'
     transliteration: anta
   15:
-    arabic: الۡوَهَّابُ‏
+    arabic: ٱلۡوَهَّابُ
     translation: (are) the Bestower
     transliteration: l-wahābu
 ---

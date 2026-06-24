@@ -1,8 +1,7 @@
 ---
-arabic_ayat: "فَمَنۡ حَآجَّكَ فِيۡهِ مِنۡۢ بَعۡدِ مَا جَآءَكَ مِنَ الۡعِلۡمِ فَقُلۡ\
-  \ تَعَالَوۡا نَدۡعُ اَبۡنَآءَنَا وَاَبۡنَآءَكُمۡ وَنِسَآءَنَا وَنِسَآءَكُمۡ\
-  \ وَاَنۡفُسَنَا وَاَنۡفُسَكُمۡ ثُمَّ نَبۡتَهِلۡ فَنَجۡعَل لَّعۡنَتَ اللّٰهِ عَلَى\
-  \ الۡكٰذِبِيۡنَ‏ \uFEFF\uFEFF"
+arabic_ayat: فَمَنۡ حَآجَّكَ فِيهِ مِنۢ بَعۡدِ مَا جَآءَكَ مِنَ ٱلۡعِلۡمِ فَقُلۡ
+  تَعَالَوۡاْ نَدۡعُ أَبۡنَآءَنَا وَأَبۡنَآءَكُمۡ وَنِسَآءَنَا وَنِسَآءَكُمۡ وَأَنفُسَنَا
+  وَأَنفُسَكُمۡ ثُمَّ نَبۡتَهِلۡ فَنَجۡعَل لَّعۡنَتَ ٱللَّهِ عَلَى ٱلۡكَٰذِبِينَ
 sentence_translation: Now, whoever disputes with you ˹O Prophet˺ concerning Jesus
   after full knowledge has come to you, say, “Come! Let us gather our children and
   your children, our women and your women, ourselves and yourselves—then let us sincerely
@@ -17,11 +16,11 @@ word_by_word:
     translation: argues (with) you
     transliteration: ḥājjaka
   3:
-    arabic: فِيۡهِ
+    arabic: فِيهِ
     translation: concerning it
     transliteration: fīhi
   4:
-    arabic: مِنۡۢ
+    arabic: مِنۢ
     translation: from
     transliteration: min
   5:
@@ -41,7 +40,7 @@ word_by_word:
     translation: of
     transliteration: mina
   9:
-    arabic: الۡعِلۡمِ
+    arabic: ٱلۡعِلۡمِ
     translation: the knowledge
     transliteration: l-ʿil'mi
   10:
@@ -49,7 +48,7 @@ word_by_word:
     translation: then say
     transliteration: faqul
   11:
-    arabic: تَعَالَوۡا
+    arabic: تَعَالَوۡاْ
     translation: Come
     transliteration: taʿālaw
   12:
@@ -57,11 +56,11 @@ word_by_word:
     translation: let us call
     transliteration: nadʿu
   13:
-    arabic: اَبۡنَآءَنَا
+    arabic: أَبۡنَآءَنَا
     translation: our sons
     transliteration: abnāanā
   14:
-    arabic: وَاَبۡنَآءَكُمۡ
+    arabic: وَأَبۡنَآءَكُمۡ
     translation: and your sons
     transliteration: wa-abnāakum
   15:
@@ -73,11 +72,11 @@ word_by_word:
     translation: and your women
     transliteration: wanisāakum
   17:
-    arabic: وَاَنۡفُسَنَا
+    arabic: وَأَنفُسَنَا
     translation: and ourselves
     transliteration: wa-anfusanā
   18:
-    arabic: وَاَنۡفُسَكُمۡ
+    arabic: وَأَنفُسَكُمۡ
     translation: and yourselves
     transliteration: wa-anfusakum
   19:
@@ -97,7 +96,7 @@ word_by_word:
     translation: the curse
     transliteration: laʿnata
   23:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (of) Allah
     transliteration: l-lahi
   24:
@@ -105,7 +104,7 @@ word_by_word:
     translation: 'on'
     transliteration: ʿalā
   25:
-    arabic: "الۡكٰذِبِيۡنَ‏ \uFEFF\uFEFF"
+    arabic: ٱلۡكَٰذِبِينَ
     translation: the liars
     transliteration: l-kādhibīna
 ---

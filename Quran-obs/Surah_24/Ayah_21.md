@@ -1,9 +1,8 @@
 ---
-arabic_ayat: "يٰۤـاَيُّهَا الَّذِيۡنَ اٰمَنُوۡا لَا تَتَّبِعُوۡا خُطُوٰتِ الشَّيۡطٰنِ​\
-  \ ؕ وَمَنۡ يَّتَّبِعۡ خُطُوٰتِ الشَّيۡطٰنِ فَاِنَّهٗ يَاۡمُرُ بِالۡـفَحۡشَآءِ وَالۡمُنۡكَرِ​\
-  \ ؕ وَلَوۡلَا فَضۡلُ اللّٰهِ عَلَيۡكُمۡ وَرَحۡمَتُهٗ مَا زَكٰى مِنۡكُمۡ مِّنۡ اَحَدٍ\
-  \ اَبَدًا وَّلٰـكِنَّ اللّٰهَ يُزَكِّىۡ مَنۡ يَّشَآءُ​ ؕ وَاللّٰهُ سَمِيۡعٌ عَلِيۡمٌ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: ۞ يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُواْ لَا تَتَّبِعُواْ خُطُوَٰتِ ٱلشَّيۡطَٰنِۚ
+  وَمَن يَتَّبِعۡ خُطُوَٰتِ ٱلشَّيۡطَٰنِ فَإِنَّهُۥ يَأۡمُرُ بِٱلۡفَحۡشَآءِ وَٱلۡمُنكَرِۚ
+  وَلَوۡلَا فَضۡلُ ٱللَّهِ عَلَيۡكُمۡ وَرَحۡمَتُهُۥ مَا زَكَىٰ مِنكُم مِّنۡ أَحَدٍ
+  أَبَدٗا وَلَٰكِنَّ ٱللَّهَ يُزَكِّي مَن يَشَآءُۗ وَٱللَّهُ سَمِيعٌ عَلِيمٞ
 sentence_translation: O believers! Do not follow the footsteps of Satan. Whoever follows
   Satan’s footsteps, then ˹let them know that˺ he surely bids ˹all to˺ immorality
   and wickedness. Had it not been for Allah’s grace and mercy upon you, none of you
@@ -11,15 +10,15 @@ sentence_translation: O believers! Do not follow the footsteps of Satan. Whoever
   All-Hearing, All-Knowing.
 word_by_word:
   1:
-    arabic: ۞ يٰۤـاَيُّهَا
+    arabic: ۞ يَٰٓأَيُّهَا
     translation: O you who believe
     transliteration: yāayyuhā
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ ءَ
     translation: O you who believe
     transliteration: alladhīna
   3:
-    arabic: اٰمَنُوۡا
+    arabic: امَنُواْ
     translation: O you who believe
     transliteration: āmanū
   4:
@@ -27,47 +26,47 @@ word_by_word:
     translation: (Do) not
     transliteration: lā
   5:
-    arabic: تَتَّبِعُوۡا
+    arabic: تَتَّبِعُواْ
     translation: follow
     transliteration: tattabiʿū
   6:
-    arabic: خُطُوٰتِ
+    arabic: خُطُوَٰتِ
     translation: (the) footsteps
     transliteration: khuṭuwāti
   7:
-    arabic: الشَّيۡطٰنِ​ ؕ
+    arabic: ٱلشَّيۡطَٰنِۚ
     translation: (of) the Shaitaan
     transliteration: l-shayṭāni
   8:
-    arabic: وَمَنۡ
+    arabic: وَمَن
     translation: and whoever
     transliteration: waman
   9:
-    arabic: يَّتَّبِعۡ
+    arabic: يَتَّبِعۡ
     translation: follows
     transliteration: yattabiʿ
   10:
-    arabic: خُطُوٰتِ
+    arabic: خُطُوَٰتِ
     translation: (the) footsteps
     transliteration: khuṭuwāti
   11:
-    arabic: الشَّيۡطٰنِ
+    arabic: ٱلشَّيۡطَٰنِ
     translation: (of) the Shaitaan
     transliteration: l-shayṭāni
   12:
-    arabic: فَاِنَّهٗ
+    arabic: فَإِنَّهُۥ
     translation: then indeed, he
     transliteration: fa-innahu
   13:
-    arabic: يَاۡمُرُ
+    arabic: يَأۡمُرُ
     translation: commands
     transliteration: yamuru
   14:
-    arabic: بِالۡـفَحۡشَآءِ
+    arabic: بِٱلۡفَحۡشَآءِ
     translation: the immorality
     transliteration: bil-faḥshāi
   15:
-    arabic: وَالۡمُنۡكَرِ​ ؕ
+    arabic: وَٱلۡمُنكَرِۚ
     translation: and the evil
     transliteration: wal-munkari
   16:
@@ -79,7 +78,7 @@ word_by_word:
     translation: (for the) Grace of Allah
     transliteration: faḍlu
   18:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (for the) Grace of Allah
     transliteration: l-lahi
   19:
@@ -87,7 +86,7 @@ word_by_word:
     translation: upon you
     transliteration: ʿalaykum
   20:
-    arabic: وَرَحۡمَتُهٗ
+    arabic: وَرَحۡمَتُهُۥ
     translation: and His Mercy
     transliteration: waraḥmatuhu
   21:
@@ -95,11 +94,11 @@ word_by_word:
     translation: not
     transliteration: mā
   22:
-    arabic: زَكٰى
+    arabic: زَكَىٰ
     translation: (would) have been pure
     transliteration: zakā
   23:
-    arabic: مِنۡكُمۡ
+    arabic: مِنكُم
     translation: among you
     transliteration: minkum
   24:
@@ -107,43 +106,43 @@ word_by_word:
     translation: anyone
     transliteration: min
   25:
-    arabic: اَحَدٍ
+    arabic: أَحَدٍ
     translation: anyone
     transliteration: aḥadin
   26:
-    arabic: اَبَدًا
+    arabic: أَبَدٗا
     translation: ever
     transliteration: abadan
   27:
-    arabic: وَّلٰـكِنَّ
+    arabic: وَلَٰكِنَّ
     translation: but
     transliteration: walākinna
   28:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   29:
-    arabic: يُزَكِّىۡ
+    arabic: يُزَكِّي
     translation: purifies
     transliteration: yuzakkī
   30:
-    arabic: مَنۡ
+    arabic: مَن
     translation: whom
     transliteration: man
   31:
-    arabic: يَّشَآءُ​ ؕ
+    arabic: يَشَآءُۗ
     translation: He wills
     transliteration: yashāu
   32:
-    arabic: وَاللّٰهُ
+    arabic: وَٱللَّهُ
     translation: And Allah
     transliteration: wal-lahu
   33:
-    arabic: سَمِيۡعٌ
+    arabic: سَمِيعٌ
     translation: (is) All-Hearer
     transliteration: samīʿun
   34:
-    arabic: "عَلِيۡمٌ‏ \uFEFF\uFEFF"
+    arabic: عَلِيمٞ
     translation: All-Knower
     transliteration: ʿalīmun
 ---

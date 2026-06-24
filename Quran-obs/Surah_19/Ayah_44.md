@@ -1,11 +1,11 @@
 ---
-arabic_ayat: يٰۤـاَبَتِ لَا تَعۡبُدِ الشَّيۡطٰنَ​ ؕ اِنَّ الشَّيۡطٰنَ كَانَ لِلرَّحۡمٰنِ
-  عَصِيًّا‏
+arabic_ayat: يَٰٓأَبَتِ لَا تَعۡبُدِ ٱلشَّيۡطَٰنَۖ إِنَّ ٱلشَّيۡطَٰنَ كَانَ لِلرَّحۡمَٰنِ
+  عَصِيّٗا
 sentence_translation: O  dear father! Do not worship Satan. Surely Satan is ever rebellious
   against the Most Compassionate.
 word_by_word:
   1:
-    arabic: يٰۤـاَبَتِ
+    arabic: يَٰٓأَبَتِ
     translation: O my father
     transliteration: yāabati
   2:
@@ -17,15 +17,15 @@ word_by_word:
     translation: worship
     transliteration: taʿbudi
   4:
-    arabic: الشَّيۡطٰنَ​ ؕ
+    arabic: ٱلشَّيۡطَٰنَۖ
     translation: the Shaitaan
     transliteration: l-shayṭāna
   5:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   6:
-    arabic: الشَّيۡطٰنَ
+    arabic: ٱلشَّيۡطَٰنَ
     translation: the Shaitaan
     transliteration: l-shayṭāna
   7:
@@ -33,11 +33,11 @@ word_by_word:
     translation: is
     transliteration: kāna
   8:
-    arabic: لِلرَّحۡمٰنِ
+    arabic: لِلرَّحۡمَٰنِ
     translation: to the Most Gracious
     transliteration: lilrraḥmāni
   9:
-    arabic: عَصِيًّا‏
+    arabic: عَصِيّٗا
     translation: disobedient
     transliteration: ʿaṣiyyan
 ---

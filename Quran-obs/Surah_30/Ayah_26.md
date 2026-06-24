@@ -1,38 +1,38 @@
 ---
-arabic_ayat: وَلَهٗ مَنۡ فِى السَّمٰوٰتِ وَالۡاَرۡضِ​ؕ كُلٌّ لَّهٗ قٰنِتُوۡنَ‏
+arabic_ayat: وَلَهُۥ مَن فِي ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِۖ كُلّٞ لَّهُۥ قَٰنِتُونَ
 sentence_translation: And to Him belong all those in the heavens and the earth—all
   are subject to His Will.
 word_by_word:
   1:
-    arabic: وَلَهٗ
+    arabic: وَلَهُۥ
     translation: And to Him (belongs)
     transliteration: walahu
   2:
-    arabic: مَنۡ
+    arabic: مَن
     translation: whoever
     transliteration: man
   3:
-    arabic: فِى
+    arabic: فِي
     translation: (is) in
     transliteration: fī
   4:
-    arabic: السَّمٰوٰتِ
+    arabic: ٱلسَّمَٰوَٰتِ
     translation: the heavens
     transliteration: l-samāwāti
   5:
-    arabic: وَالۡاَرۡضِ​ؕ
+    arabic: وَٱلۡأَرۡضِۖ
     translation: and the earth
     transliteration: wal-arḍi
   6:
-    arabic: كُلٌّ
+    arabic: كُلّٞ
     translation: All
     transliteration: kullun
   7:
-    arabic: لَّهٗ
+    arabic: لَّهُۥ
     translation: to Him
     transliteration: lahu
   8:
-    arabic: قٰنِتُوۡنَ‏
+    arabic: قَٰنِتُونَ
     translation: (are) obedient
     transliteration: qānitūna
 ---

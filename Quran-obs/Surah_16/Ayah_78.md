@@ -1,29 +1,28 @@
 ---
-arabic_ayat: "وَاللّٰهُ اَخۡرَجَكُمۡ مِّنۡۢ بُطُوۡنِ اُمَّهٰتِكُمۡ لَا تَعۡلَمُوۡنَ\
-  \ شَيۡـــًٔا ۙ وَّ جَعَلَ لَـكُمُ السَّمۡعَ وَالۡاَبۡصٰرَ وَالۡاَفۡـِٕدَةَ​ ۙ لَعَلَّكُمۡ\
-  \ تَشۡكُرُوۡنَ‏ \uFEFF\uFEFF"
+arabic_ayat: وَٱللَّهُ أَخۡرَجَكُم مِّنۢ بُطُونِ أُمَّهَٰتِكُمۡ لَا تَعۡلَمُونَ شَيۡـٔٗا
+  وَجَعَلَ لَكُمُ ٱلسَّمۡعَ وَٱلۡأَبۡصَٰرَ وَٱلۡأَفۡـِٔدَةَ لَعَلَّكُمۡ تَشۡكُرُونَ
 sentence_translation: And Allah brought you out of the wombs of your mothers while
   you knew nothing, and gave you hearing, sight, and intellect so perhaps you would
   be thankful.
 word_by_word:
   1:
-    arabic: وَاللّٰهُ
+    arabic: وَٱللَّهُ
     translation: And Allah
     transliteration: wal-lahu
   2:
-    arabic: اَخۡرَجَكُمۡ
+    arabic: أَخۡرَجَكُم
     translation: brought you forth
     transliteration: akhrajakum
   3:
-    arabic: مِّنۡۢ
+    arabic: مِّنۢ
     translation: from
     transliteration: min
   4:
-    arabic: بُطُوۡنِ
+    arabic: بُطُونِ
     translation: the wombs
     transliteration: buṭūni
   5:
-    arabic: اُمَّهٰتِكُمۡ
+    arabic: أُمَّهَٰتِكُمۡ
     translation: (of) your mothers
     transliteration: ummahātikum
   6:
@@ -31,31 +30,31 @@ word_by_word:
     translation: not
     transliteration: lā
   7:
-    arabic: تَعۡلَمُوۡنَ
+    arabic: تَعۡلَمُونَ
     translation: knowing
     transliteration: taʿlamūna
   8:
-    arabic: شَيۡـــًٔا ۙ
+    arabic: شَيۡـٔٗا
     translation: anything
     transliteration: shayan
   9:
-    arabic: وَّ جَعَلَ
+    arabic: وَجَعَلَ
     translation: and made
     transliteration: wajaʿala
   10:
-    arabic: لَـكُمُ
+    arabic: لَكُمُ
     translation: for you
     transliteration: lakumu
   11:
-    arabic: السَّمۡعَ
+    arabic: ٱلسَّمۡعَ
     translation: the hearing
     transliteration: l-samʿa
   12:
-    arabic: وَالۡاَبۡصٰرَ
+    arabic: وَٱلۡأَبۡصَٰرَ
     translation: and the sight
     transliteration: wal-abṣāra
   13:
-    arabic: وَالۡاَفۡـِٕدَةَ​ ۙ
+    arabic: وَٱلۡأَفۡـِٔدَةَ
     translation: and the hearts
     transliteration: wal-afidata
   14:
@@ -63,7 +62,7 @@ word_by_word:
     translation: so that you may
     transliteration: laʿallakum
   15:
-    arabic: "تَشۡكُرُوۡنَ‏ \uFEFF\uFEFF"
+    arabic: تَشۡكُرُونَ
     translation: give thanks
     transliteration: tashkurūna
 ---

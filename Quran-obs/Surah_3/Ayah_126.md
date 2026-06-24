@@ -1,6 +1,6 @@
 ---
-arabic_ayat: وَمَا جَعَلَهُ اللّٰهُ اِلَّا بُشۡرٰى لَـكُمۡ وَلِتَطۡمَٮِٕنَّ قُلُوۡبُكُمۡ
-  بِهٖ​ؕ وَمَا النَّصۡرُ اِلَّا مِنۡ عِنۡدِ اللّٰهِ الۡعَزِيۡزِ الۡحَكِيۡمِۙ‏
+arabic_ayat: وَمَا جَعَلَهُ ٱللَّهُ إِلَّا بُشۡرَىٰ لَكُمۡ وَلِتَطۡمَئِنَّ قُلُوبُكُم
+  بِهِۦۗ وَمَا ٱلنَّصۡرُ إِلَّا مِنۡ عِندِ ٱللَّهِ ٱلۡعَزِيزِ ٱلۡحَكِيمِ
 sentence_translation: Allah ordained this ˹reinforcement˺ only as good news for you
   and reassurance for your hearts. And victory comes only from Allah—the Almighty,
   All-Wise—
@@ -14,31 +14,31 @@ word_by_word:
     translation: made it
     transliteration: jaʿalahu
   3:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   4:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   5:
-    arabic: بُشۡرٰى
+    arabic: بُشۡرَىٰ
     translation: (as) good news
     transliteration: bush'rā
   6:
-    arabic: لَـكُمۡ
+    arabic: لَكُمۡ
     translation: for you
     transliteration: lakum
   7:
-    arabic: وَلِتَطۡمَٮِٕنَّ
+    arabic: وَلِتَطۡمَئِنَّ
     translation: and to reassure
     transliteration: walitaṭma-inna
   8:
-    arabic: قُلُوۡبُكُمۡ
+    arabic: قُلُوبُكُم
     translation: your hearts
     transliteration: qulūbukum
   9:
-    arabic: بِهٖ​ؕ
+    arabic: بِهِۦۗ
     translation: with it
     transliteration: bihi
   10:
@@ -46,11 +46,11 @@ word_by_word:
     translation: And (there is) no
     transliteration: wamā
   11:
-    arabic: النَّصۡرُ
+    arabic: ٱلنَّصۡرُ
     translation: '[the] victory'
     transliteration: l-naṣru
   12:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   13:
@@ -58,19 +58,19 @@ word_by_word:
     translation: from
     transliteration: min
   14:
-    arabic: عِنۡدِ
+    arabic: عِندِ
     translation: '[near]'
     transliteration: ʿindi
   15:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   16:
-    arabic: الۡعَزِيۡزِ
+    arabic: ٱلۡعَزِيزِ
     translation: the All-Mighty
     transliteration: l-ʿazīzi
   17:
-    arabic: الۡحَكِيۡمِۙ‏
+    arabic: ٱلۡحَكِيمِ
     translation: the All-Wise
     transliteration: l-ḥakīmi
 ---

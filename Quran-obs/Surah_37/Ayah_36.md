@@ -1,30 +1,29 @@
 ---
-arabic_ayat: وَيَقُوۡلُوۡنَ اَٮِٕنَّا لَتٰرِكُوۡۤا اٰلِهَـتِنَا لِشَاعِرٍ مَّجۡـنُوۡنٍ
-  ؕ‏
+arabic_ayat: وَيَقُولُونَ أَئِنَّا لَتَارِكُوٓاْ ءَالِهَتِنَا لِشَاعِرٖ مَّجۡنُونِۭ
 sentence_translation: and argued, “Should we really abandon our gods for a mad poet?”
 word_by_word:
   1:
-    arabic: وَيَقُوۡلُوۡنَ
+    arabic: وَيَقُولُونَ
     translation: And they say
     transliteration: wayaqūlūna
   2:
-    arabic: اَٮِٕنَّا
+    arabic: أَئِنَّا
     translation: Are we
     transliteration: a-innā
   3:
-    arabic: لَتٰرِكُوۡۤا
+    arabic: لَتَارِكُوٓاْ ءَ
     translation: to leave
     transliteration: latārikū
   4:
-    arabic: اٰلِهَـتِنَا
+    arabic: الِهَتِنَا
     translation: our gods
     transliteration: ālihatinā
   5:
-    arabic: لِشَاعِرٍ
+    arabic: لِشَاعِرٖ
     translation: for a poet
     transliteration: lishāʿirin
   6:
-    arabic: مَّجۡـنُوۡنٍ ؕ‏
+    arabic: مَّجۡنُونِۭ
     translation: mad
     transliteration: majnūnin
 ---

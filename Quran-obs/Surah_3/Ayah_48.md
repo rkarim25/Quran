@@ -1,5 +1,5 @@
 ---
-arabic_ayat: وَيُعَلِّمُهُ الۡكِتٰبَ وَالۡحِكۡمَةَ وَالتَّوۡرٰٮةَ وَالۡاِنۡجِيۡلَ​ۚ‏
+arabic_ayat: وَيُعَلِّمُهُ ٱلۡكِتَٰبَ وَٱلۡحِكۡمَةَ وَٱلتَّوۡرَىٰةَ وَٱلۡإِنجِيلَ
 sentence_translation: And Allah will teach him writing and wisdom, the Torah and the
   Gospel,
 word_by_word:
@@ -8,19 +8,19 @@ word_by_word:
     translation: And He will teach him
     transliteration: wayuʿallimuhu
   2:
-    arabic: الۡكِتٰبَ
+    arabic: ٱلۡكِتَٰبَ
     translation: the Book
     transliteration: l-kitāba
   3:
-    arabic: وَالۡحِكۡمَةَ
+    arabic: وَٱلۡحِكۡمَةَ
     translation: and [the] wisdom
     transliteration: wal-ḥik'mata
   4:
-    arabic: وَالتَّوۡرٰٮةَ
+    arabic: وَٱلتَّوۡرَىٰةَ
     translation: and the Taurat
     transliteration: wal-tawrāta
   5:
-    arabic: وَالۡاِنۡجِيۡلَ​ۚ‏
+    arabic: وَٱلۡإِنجِيلَ
     translation: and the Injeel
     transliteration: wal-injīla
 ---

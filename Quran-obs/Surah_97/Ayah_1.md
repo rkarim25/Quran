@@ -1,18 +1,18 @@
 ---
-arabic_ayat: اِنَّاۤ اَنۡزَلۡنٰهُ فِىۡ لَيۡلَةِ الۡقَدۡرِ ۖ ۚ‏
+arabic_ayat: إِنَّآ أَنزَلۡنَٰهُ فِي لَيۡلَةِ ٱلۡقَدۡرِ
 sentence_translation: Indeed, ˹it is˺ We ˹Who˺ sent this ˹Quran˺ down on the Night
   of Glory.
 word_by_word:
   1:
-    arabic: اِنَّاۤ
+    arabic: إِنَّآ
     translation: Indeed, We
     transliteration: innā
   2:
-    arabic: اَنۡزَلۡنٰهُ
+    arabic: أَنزَلۡنَٰهُ
     translation: revealed it
     transliteration: anzalnāhu
   3:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   4:
@@ -20,7 +20,7 @@ word_by_word:
     translation: (the) Night
     transliteration: laylati
   5:
-    arabic: الۡقَدۡرِ ۖ ۚ‏
+    arabic: ٱلۡقَدۡرِ
     translation: (of) Power
     transliteration: l-qadri
 ---

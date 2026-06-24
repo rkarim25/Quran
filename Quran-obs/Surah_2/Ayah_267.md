@@ -1,35 +1,35 @@
 ---
-arabic_ayat: يٰۤـاَيُّهَا الَّذِيۡنَ اٰمَنُوۡۤا اَنۡفِقُوۡا مِنۡ طَيِّبٰتِ مَا كَسَبۡتُمۡ
-  وَمِمَّاۤ اَخۡرَجۡنَا لَـكُمۡ مِّنَ الۡاَرۡضِ وَلَا تَيَمَّمُوا الۡخَبِيۡثَ مِنۡهُ
-  تُنۡفِقُوۡنَ وَلَسۡتُمۡ بِاٰخِذِيۡهِ اِلَّاۤ اَنۡ تُغۡمِضُوۡا فِيۡهِ​ؕ وَاعۡلَمُوۡۤا
-  اَنَّ اللّٰهَ غَنِىٌّ حَمِيۡدٌ‏
+arabic_ayat: يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓاْ أَنفِقُواْ مِن طَيِّبَٰتِ مَا كَسَبۡتُمۡ
+  وَمِمَّآ أَخۡرَجۡنَا لَكُم مِّنَ ٱلۡأَرۡضِۖ وَلَا تَيَمَّمُواْ ٱلۡخَبِيثَ مِنۡهُ
+  تُنفِقُونَ وَلَسۡتُم بِـَٔاخِذِيهِ إِلَّآ أَن تُغۡمِضُواْ فِيهِۚ وَٱعۡلَمُوٓاْ
+  أَنَّ ٱللَّهَ غَنِيٌّ حَمِيدٌ
 sentence_translation: O believers! Donate from the best of what you have earned and
   of what We have produced for you from the earth. Do not pick out worthless things
   for donation, which you yourselves would only accept with closed eyes. And know
   that Allah is Self-Sufficient, Praiseworthy.
 word_by_word:
   1:
-    arabic: يٰۤـاَيُّهَا
+    arabic: يَٰٓأَيُّهَا
     translation: O you
     transliteration: yāayyuhā
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ ءَ
     translation: who
     transliteration: alladhīna
   3:
-    arabic: اٰمَنُوۡۤا
+    arabic: امَنُوٓاْ
     translation: believe[d]
     transliteration: āmanū
   4:
-    arabic: اَنۡفِقُوۡا
+    arabic: أَنفِقُواْ
     translation: Spend
     transliteration: anfiqū
   5:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   6:
-    arabic: طَيِّبٰتِ
+    arabic: طَيِّبَٰتِ
     translation: (the) good things
     transliteration: ṭayyibāti
   7:
@@ -41,15 +41,15 @@ word_by_word:
     translation: you have earned
     transliteration: kasabtum
   9:
-    arabic: وَمِمَّاۤ
+    arabic: وَمِمَّآ
     translation: and whatever
     transliteration: wamimmā
   10:
-    arabic: اَخۡرَجۡنَا
+    arabic: أَخۡرَجۡنَا
     translation: We brought forth
     transliteration: akhrajnā
   11:
-    arabic: لَـكُمۡ
+    arabic: لَكُم
     translation: for you
     transliteration: lakum
   12:
@@ -57,7 +57,7 @@ word_by_word:
     translation: from
     transliteration: mina
   13:
-    arabic: الۡاَرۡضِ
+    arabic: ٱلۡأَرۡضِۖ
     translation: the earth
     transliteration: l-arḍi
   14:
@@ -65,11 +65,11 @@ word_by_word:
     translation: And (do) not
     transliteration: walā
   15:
-    arabic: تَيَمَّمُوا
+    arabic: تَيَمَّمُواْ
     translation: aim (at)
     transliteration: tayammamū
   16:
-    arabic: الۡخَبِيۡثَ
+    arabic: ٱلۡخَبِيثَ
     translation: the bad
     transliteration: l-khabītha
   17:
@@ -77,51 +77,51 @@ word_by_word:
     translation: of it
     transliteration: min'hu
   18:
-    arabic: تُنۡفِقُوۡنَ
+    arabic: تُنفِقُونَ
     translation: you spend
     transliteration: tunfiqūna
   19:
-    arabic: وَلَسۡتُمۡ
+    arabic: وَلَسۡتُم
     translation: while you (would) not
     transliteration: walastum
   20:
-    arabic: بِاٰخِذِيۡهِ
+    arabic: بِـَٔاخِذِيهِ
     translation: take it
     transliteration: biākhidhīhi
   21:
-    arabic: اِلَّاۤ
+    arabic: إِلَّآ
     translation: except
     transliteration: illā
   22:
-    arabic: اَنۡ
+    arabic: أَن
     translation: '[that]'
     transliteration: an
   23:
-    arabic: تُغۡمِضُوۡا
+    arabic: تُغۡمِضُواْ
     translation: (with) close(d) eyes
     transliteration: tugh'miḍū
   24:
-    arabic: فِيۡهِ​ؕ
+    arabic: فِيهِۚ
     translation: '[in it]'
     transliteration: fīhi
   25:
-    arabic: وَاعۡلَمُوۡۤا
+    arabic: وَٱعۡلَمُوٓاْ
     translation: and know
     transliteration: wa-iʿ'lamū
   26:
-    arabic: اَنَّ
+    arabic: أَنَّ
     translation: that
     transliteration: anna
   27:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   28:
-    arabic: غَنِىٌّ
+    arabic: غَنِيٌّ
     translation: (is) Self-Sufficient
     transliteration: ghaniyyun
   29:
-    arabic: حَمِيۡدٌ‏
+    arabic: حَمِيدٌ
     translation: Praiseworthy
     transliteration: ḥamīdun
 ---

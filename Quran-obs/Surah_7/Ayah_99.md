@@ -1,11 +1,11 @@
 ---
-arabic_ayat: اَفَاَمِنُوۡا مَكۡرَ اللّٰهِ​ ۚ فَلَا يَاۡمَنُ مَكۡرَ اللّٰهِ اِلَّا
-  الۡقَوۡمُ الۡخٰسِرُوۡنَ‏
+arabic_ayat: أَفَأَمِنُواْ مَكۡرَ ٱللَّهِۚ فَلَا يَأۡمَنُ مَكۡرَ ٱللَّهِ إِلَّا ٱلۡقَوۡمُ
+  ٱلۡخَٰسِرُونَ
 sentence_translation: Did they feel secure against Allah’s planning? None would feel
   secure from Allah’s planning except the losers.
 word_by_word:
   1:
-    arabic: اَفَاَمِنُوۡا
+    arabic: أَفَأَمِنُواْ
     translation: Then did they feel secure
     transliteration: afa-aminū
   2:
@@ -13,7 +13,7 @@ word_by_word:
     translation: (from the) plan
     transliteration: makra
   3:
-    arabic: اللّٰهِ​ ۚ
+    arabic: ٱللَّهِۚ
     translation: (of) Allah
     transliteration: l-lahi
   4:
@@ -21,7 +21,7 @@ word_by_word:
     translation: But not
     transliteration: falā
   5:
-    arabic: يَاۡمَنُ
+    arabic: يَأۡمَنُ
     translation: feel secure
     transliteration: yamanu
   6:
@@ -29,19 +29,19 @@ word_by_word:
     translation: (from the) plan
     transliteration: makra
   7:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (of) Allah
     transliteration: l-lahi
   8:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   9:
-    arabic: الۡقَوۡمُ
+    arabic: ٱلۡقَوۡمُ
     translation: the people
     transliteration: l-qawmu
   10:
-    arabic: الۡخٰسِرُوۡنَ‏
+    arabic: ٱلۡخَٰسِرُونَ
     translation: (who are) the losers
     transliteration: l-khāsirūna
 ---

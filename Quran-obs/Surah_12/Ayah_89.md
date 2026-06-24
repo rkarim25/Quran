@@ -1,6 +1,6 @@
 ---
-arabic_ayat: قَالَ هَلۡ عَلِمۡتُمۡ مَّا فَعَلۡتُمۡ بِيُوۡسُفَ وَاَخِيۡهِ اِذۡ اَنۡتُمۡ
-  جٰهِلُوۡنَ‏
+arabic_ayat: قَالَ هَلۡ عَلِمۡتُم مَّا فَعَلۡتُم بِيُوسُفَ وَأَخِيهِ إِذۡ أَنتُمۡ
+  جَٰهِلُونَ
 sentence_translation: He asked, “Do you remember what you did to Joseph and his brother
   in your ignorance?”
 word_by_word:
@@ -13,7 +13,7 @@ word_by_word:
     translation: Do
     transliteration: hal
   3:
-    arabic: عَلِمۡتُمۡ
+    arabic: عَلِمۡتُم
     translation: you know
     transliteration: ʿalim'tum
   4:
@@ -21,27 +21,27 @@ word_by_word:
     translation: what
     transliteration: mā
   5:
-    arabic: فَعَلۡتُمۡ
+    arabic: فَعَلۡتُم
     translation: you did
     transliteration: faʿaltum
   6:
-    arabic: بِيُوۡسُفَ
+    arabic: بِيُوسُفَ
     translation: with Yusuf
     transliteration: biyūsufa
   7:
-    arabic: وَاَخِيۡهِ
+    arabic: وَأَخِيهِ
     translation: and his brother
     transliteration: wa-akhīhi
   8:
-    arabic: اِذۡ
+    arabic: إِذۡ
     translation: when
     transliteration: idh
   9:
-    arabic: اَنۡتُمۡ
+    arabic: أَنتُمۡ
     translation: you were
     transliteration: antum
   10:
-    arabic: جٰهِلُوۡنَ‏
+    arabic: جَٰهِلُونَ
     translation: ignorant
     transliteration: jāhilūna
 ---

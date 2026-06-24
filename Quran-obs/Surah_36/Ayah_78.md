@@ -1,6 +1,6 @@
 ---
-arabic_ayat: وَضَرَبَ لَـنَا مَثَلًا وَّ نَسِىَ خَلۡقَهٗ​ ؕ قَالَ مَنۡ يُّحۡىِ الۡعِظَامَ
-  وَهِىَ رَمِيۡمٌ‏
+arabic_ayat: وَضَرَبَ لَنَا مَثَلٗا وَنَسِيَ خَلۡقَهُۥۖ قَالَ مَن يُحۡيِ ٱلۡعِظَٰمَ
+  وَهِيَ رَمِيمٞ
 sentence_translation: And they argue with Us—forgetting they were created—saying,
   “Who will give life to decayed bones?”
 word_by_word:
@@ -9,19 +9,19 @@ word_by_word:
     translation: And he sets forth
     transliteration: waḍaraba
   2:
-    arabic: لَـنَا
+    arabic: لَنَا
     translation: for Us
     transliteration: lanā
   3:
-    arabic: مَثَلًا
+    arabic: مَثَلٗا
     translation: an example
     transliteration: mathalan
   4:
-    arabic: وَّ نَسِىَ
+    arabic: وَنَسِيَ
     translation: and forgets
     transliteration: wanasiya
   5:
-    arabic: خَلۡقَهٗ​ ؕ
+    arabic: خَلۡقَهُۥۖ
     translation: his (own) creation
     transliteration: khalqahu
   6:
@@ -29,23 +29,23 @@ word_by_word:
     translation: He says
     transliteration: qāla
   7:
-    arabic: مَنۡ
+    arabic: مَن
     translation: Who
     transliteration: man
   8:
-    arabic: يُّحۡىِ
+    arabic: يُحۡيِ
     translation: will give life
     transliteration: yuḥ'yī
   9:
-    arabic: الۡعِظَامَ
+    arabic: ٱلۡعِظَٰمَ
     translation: (to) the bones
     transliteration: l-ʿiẓāma
   10:
-    arabic: وَهِىَ
+    arabic: وَهِيَ
     translation: while they
     transliteration: wahiya
   11:
-    arabic: رَمِيۡمٌ‏
+    arabic: رَمِيمٞ
     translation: (are) decomposed
     transliteration: ramīmun
 ---

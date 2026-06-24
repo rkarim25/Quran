@@ -1,13 +1,13 @@
 ---
-arabic_ayat: وَاَنۡتُمۡ سٰمِدُوۡنَ‏
+arabic_ayat: وَأَنتُمۡ سَٰمِدُونَ
 sentence_translation: while persisting in heedlessness?
 word_by_word:
   1:
-    arabic: وَاَنۡتُمۡ
+    arabic: وَأَنتُمۡ
     translation: While you
     transliteration: wa-antum
   2:
-    arabic: سٰمِدُوۡنَ‏
+    arabic: سَٰمِدُونَ
     translation: amuse (yourselves)
     transliteration: sāmidūna
 ---

@@ -1,23 +1,23 @@
 ---
-arabic_ayat: لَا يَسۡـَٔـمُ الۡاِنۡسَانُ مِنۡ دُعَآءِ الۡخَيۡرِ وَاِنۡ مَّسَّهُ
-  الشَّرُّ فَيَـُٔـوۡسٌ قَنُوۡطٌ‏
+arabic_ayat: لَّا يَسۡـَٔمُ ٱلۡإِنسَٰنُ مِن دُعَآءِ ٱلۡخَيۡرِ وَإِن مَّسَّهُ ٱلشَّرُّ
+  فَيَـُٔوسٞ قَنُوطٞ
 sentence_translation: One never tires of praying for good. And if touched with evil,
   they become desperate and hopeless.
 word_by_word:
   1:
-    arabic: لَا
+    arabic: لَّا
     translation: (Does) not
     transliteration: lā
   2:
-    arabic: يَسۡـَٔـمُ
+    arabic: يَسۡـَٔمُ
     translation: get tired
     transliteration: yasamu
   3:
-    arabic: الۡاِنۡسَانُ
+    arabic: ٱلۡإِنسَٰنُ
     translation: man
     transliteration: l-insānu
   4:
-    arabic: مِنۡ
+    arabic: مِن
     translation: of
     transliteration: min
   5:
@@ -25,11 +25,11 @@ word_by_word:
     translation: praying
     transliteration: duʿāi
   6:
-    arabic: الۡخَيۡرِ
+    arabic: ٱلۡخَيۡرِ
     translation: (for) the good
     transliteration: l-khayri
   7:
-    arabic: وَاِنۡ
+    arabic: وَإِن
     translation: but if
     transliteration: wa-in
   8:
@@ -37,15 +37,15 @@ word_by_word:
     translation: touches him
     transliteration: massahu
   9:
-    arabic: الشَّرُّ
+    arabic: ٱلشَّرُّ
     translation: the evil
     transliteration: l-sharu
   10:
-    arabic: فَيَـُٔـوۡسٌ
+    arabic: فَيَـُٔوسٞ
     translation: then he gives up hope
     transliteration: fayaūsun
   11:
-    arabic: قَنُوۡطٌ‏
+    arabic: قَنُوطٞ
     translation: (and) despairs
     transliteration: qanūṭun
 ---

@@ -1,18 +1,18 @@
 ---
-arabic_ayat: اِنۡ تَسۡتَفۡتِحُوۡا فَقَدۡ جَآءَكُمُ الۡفَتۡحُ​ۚ وَاِنۡ تَنۡتَهُوۡا
-  فَهُوَ خَيۡرٌ لَّـكُمۡ​ۚ وَ اِنۡ تَعُوۡدُوۡا نَـعُدۡ​ۚ وَلَنۡ تُغۡنِىَ عَنۡكُمۡ
-  فِئَتُكُمۡ شَيۡـًٔـا وَّلَوۡ كَثُرَتۡۙ وَاَنَّ اللّٰهَ مَعَ الۡمُؤۡمِنِيۡنَ‏
+arabic_ayat: إِن تَسۡتَفۡتِحُواْ فَقَدۡ جَآءَكُمُ ٱلۡفَتۡحُۖ وَإِن تَنتَهُواْ فَهُوَ
+  خَيۡرٞ لَّكُمۡۖ وَإِن تَعُودُواْ نَعُدۡ وَلَن تُغۡنِيَ عَنكُمۡ فِئَتُكُمۡ شَيۡـٔٗا
+  وَلَوۡ كَثُرَتۡ وَأَنَّ ٱللَّهَ مَعَ ٱلۡمُؤۡمِنِينَ
 sentence_translation: If you ˹Meccans˺ sought judgment, now it has come to you. And
   if you cease, it will be for your own good. But if you persist, We will persist.
   And your forces—no matter how numerous they might be—will not benefit you whatsoever.
   For Allah is certainly with the believers.
 word_by_word:
   1:
-    arabic: اِنۡ
+    arabic: إِن
     translation: If
     transliteration: in
   2:
-    arabic: تَسۡتَفۡتِحُوۡا
+    arabic: تَسۡتَفۡتِحُواْ
     translation: you ask for victory
     transliteration: tastaftiḥū
   3:
@@ -24,15 +24,15 @@ word_by_word:
     translation: has come to you
     transliteration: jāakumu
   5:
-    arabic: الۡفَتۡحُ​ۚ
+    arabic: ٱلۡفَتۡحُۖ
     translation: the victory
     transliteration: l-fatḥu
   6:
-    arabic: وَاِنۡ
+    arabic: وَإِن
     translation: And if
     transliteration: wa-in
   7:
-    arabic: تَنۡتَهُوۡا
+    arabic: تَنتَهُواْ
     translation: you desist
     transliteration: tantahū
   8:
@@ -40,35 +40,35 @@ word_by_word:
     translation: then it (is)
     transliteration: fahuwa
   9:
-    arabic: خَيۡرٌ
+    arabic: خَيۡرٞ
     translation: good
     transliteration: khayrun
   10:
-    arabic: لَّـكُمۡ​ۚ
+    arabic: لَّكُمۡۖ
     translation: for you
     transliteration: lakum
   11:
-    arabic: وَ اِنۡ
+    arabic: وَإِن
     translation: but if
     transliteration: wa-in
   12:
-    arabic: تَعُوۡدُوۡا
+    arabic: تَعُودُواْ
     translation: you return
     transliteration: taʿūdū
   13:
-    arabic: نَـعُدۡ​ۚ
+    arabic: نَعُدۡ
     translation: We will return (too)
     transliteration: naʿud
   14:
-    arabic: وَلَنۡ
+    arabic: وَلَن
     translation: And never
     transliteration: walan
   15:
-    arabic: تُغۡنِىَ
+    arabic: تُغۡنِيَ
     translation: will avail
     transliteration: tugh'niya
   16:
-    arabic: عَنۡكُمۡ
+    arabic: عَنكُمۡ
     translation: you
     transliteration: ʿankum
   17:
@@ -76,23 +76,23 @@ word_by_word:
     translation: your forces
     transliteration: fi-atukum
   18:
-    arabic: شَيۡـًٔـا
+    arabic: شَيۡـٔٗا
     translation: anything
     transliteration: shayan
   19:
-    arabic: وَّلَوۡ
+    arabic: وَلَوۡ
     translation: even if
     transliteration: walaw
   20:
-    arabic: كَثُرَتۡۙ
+    arabic: كَثُرَتۡ
     translation: (they are) numerous
     transliteration: kathurat
   21:
-    arabic: وَاَنَّ
+    arabic: وَأَنَّ
     translation: And that
     transliteration: wa-anna
   22:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   23:
@@ -100,7 +100,7 @@ word_by_word:
     translation: (is) with
     transliteration: maʿa
   24:
-    arabic: الۡمُؤۡمِنِيۡنَ‏
+    arabic: ٱلۡمُؤۡمِنِينَ
     translation: the believers
     transliteration: l-mu'minīna
 ---

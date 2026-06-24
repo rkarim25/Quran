@@ -1,20 +1,20 @@
 ---
-arabic_ayat: حَتّٰٓى اِذَا جَآءُوۡ قَالَ اَكَذَّبۡتُمۡ بِاٰيٰتِىۡ وَلَمۡ تُحِيۡطُوۡا
-  بِهَا عِلۡمًا اَمَّاذَا كُنۡتُمۡ تَعۡمَلُوۡنَ‏
+arabic_ayat: حَتَّىٰٓ إِذَا جَآءُو قَالَ أَكَذَّبۡتُم بِـَٔايَٰتِي وَلَمۡ تُحِيطُواْ
+  بِهَا عِلۡمًا أَمَّاذَا كُنتُمۡ تَعۡمَلُونَ
 sentence_translation: When they ˹finally˺ come before their Lord, He will ask ˹them˺,
   “Did you deny My revelations without ˹even˺ comprehending them? Or what ˹exactly˺
   did you do?”
 word_by_word:
   1:
-    arabic: حَتّٰٓى
+    arabic: حَتَّىٰٓ
     translation: Until
     transliteration: ḥattā
   2:
-    arabic: اِذَا
+    arabic: إِذَا
     translation: when
     transliteration: idhā
   3:
-    arabic: جَآءُوۡ
+    arabic: جَآءُو
     translation: they come
     transliteration: jāū
   4:
@@ -22,11 +22,11 @@ word_by_word:
     translation: He will say
     transliteration: qāla
   5:
-    arabic: اَكَذَّبۡتُمۡ
+    arabic: أَكَذَّبۡتُم
     translation: Did you deny
     transliteration: akadhabtum
   6:
-    arabic: بِاٰيٰتِىۡ
+    arabic: بِـَٔايَٰتِي
     translation: My Signs
     transliteration: biāyātī
   7:
@@ -34,7 +34,7 @@ word_by_word:
     translation: while not
     transliteration: walam
   8:
-    arabic: تُحِيۡطُوۡا
+    arabic: تُحِيطُواْ
     translation: you encompassed
     transliteration: tuḥīṭū
   9:
@@ -46,15 +46,15 @@ word_by_word:
     translation: (in) knowledge
     transliteration: ʿil'man
   11:
-    arabic: اَمَّاذَا
+    arabic: أَمَّاذَا
     translation: or what
     transliteration: ammādhā
   12:
-    arabic: كُنۡتُمۡ
+    arabic: كُنتُمۡ
     translation: you used (to)
     transliteration: kuntum
   13:
-    arabic: تَعۡمَلُوۡنَ‏
+    arabic: تَعۡمَلُونَ
     translation: do
     transliteration: taʿmalūna
 ---

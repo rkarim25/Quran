@@ -1,9 +1,9 @@
 ---
-arabic_ayat: فَاَمَّا مَنۡ اُوۡتِىَ كِتٰبَهٗ بِيَمِيۡنِهٖۙ‏
+arabic_ayat: فَأَمَّا مَنۡ أُوتِيَ كِتَٰبَهُۥ بِيَمِينِهِۦ
 sentence_translation: As for those who are given their record in their right hand,
 word_by_word:
   1:
-    arabic: فَاَمَّا
+    arabic: فَأَمَّا
     translation: Then as for
     transliteration: fa-ammā
   2:
@@ -11,15 +11,15 @@ word_by_word:
     translation: (him) who
     transliteration: man
   3:
-    arabic: اُوۡتِىَ
+    arabic: أُوتِيَ
     translation: is given
     transliteration: ūtiya
   4:
-    arabic: كِتٰبَهٗ
+    arabic: كِتَٰبَهُۥ
     translation: his record
     transliteration: kitābahu
   5:
-    arabic: بِيَمِيۡنِهٖۙ‏
+    arabic: بِيَمِينِهِۦ
     translation: in his right (hand)
     transliteration: biyamīnihi
 ---

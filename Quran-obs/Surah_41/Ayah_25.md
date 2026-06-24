@@ -1,14 +1,14 @@
 ---
-arabic_ayat: وَقَيَّضۡنَا لَهُمۡ قُرَنَآءَ فَزَيَّنُوۡا لَهُمۡ مَّا بَيۡنَ اَيۡدِيۡهِمۡ
-  وَمَا خَلۡفَهُمۡ وَحَقَّ عَلَيۡهِمُ الۡقَوۡلُ فِىۡۤ اُمَمٍ قَدۡ خَلَتۡ مِنۡ قَبۡلِهِمۡ
-  مِّنَ الۡجِنِّ وَالۡاِنۡسِ​ۚ اِنَّهُمۡ كَانُوۡا خٰسِرِيۡنَ‏
+arabic_ayat: ۞ وَقَيَّضۡنَا لَهُمۡ قُرَنَآءَ فَزَيَّنُواْ لَهُم مَّا بَيۡنَ أَيۡدِيهِمۡ
+  وَمَا خَلۡفَهُمۡ وَحَقَّ عَلَيۡهِمُ ٱلۡقَوۡلُ فِيٓ أُمَمٖ قَدۡ خَلَتۡ مِن قَبۡلِهِم
+  مِّنَ ٱلۡجِنِّ وَٱلۡإِنسِۖ إِنَّهُمۡ كَانُواْ خَٰسِرِينَ
 sentence_translation: We placed at their disposal ˹evil˺ associates who made their
   past and future ˹misdeeds˺ appealing to them. ˹So˺ the fate of earlier communities
   of jinn and humans has been justified against them ˹as well˺, ˹for˺ they were truly
   losers.
 word_by_word:
   1:
-    arabic: ۞ وَقَيَّضۡنَا
+    arabic: ۞ وَقَيَّضۡنَا
     translation: And We have destined
     transliteration: waqayyaḍnā
   2:
@@ -20,11 +20,11 @@ word_by_word:
     translation: companions
     transliteration: quranāa
   4:
-    arabic: فَزَيَّنُوۡا
+    arabic: فَزَيَّنُواْ
     translation: (who) made fair-seeming
     transliteration: fazayyanū
   5:
-    arabic: لَهُمۡ
+    arabic: لَهُم
     translation: to them
     transliteration: lahum
   6:
@@ -36,7 +36,7 @@ word_by_word:
     translation: (was) before them
     transliteration: bayna
   8:
-    arabic: اَيۡدِيۡهِمۡ
+    arabic: أَيۡدِيهِمۡ
     translation: (was) before them
     transliteration: aydīhim
   9:
@@ -56,15 +56,15 @@ word_by_word:
     translation: against them
     transliteration: ʿalayhimu
   13:
-    arabic: الۡقَوۡلُ
+    arabic: ٱلۡقَوۡلُ
     translation: the Word
     transliteration: l-qawlu
   14:
-    arabic: فِىۡۤ
+    arabic: فِيٓ
     translation: among
     transliteration: fī
   15:
-    arabic: اُمَمٍ
+    arabic: أُمَمٖ
     translation: nations
     transliteration: umamin
   16:
@@ -76,11 +76,11 @@ word_by_word:
     translation: (that have) passed away
     transliteration: khalat
   18:
-    arabic: مِنۡ
+    arabic: مِن
     translation: before them
     transliteration: min
   19:
-    arabic: قَبۡلِهِمۡ
+    arabic: قَبۡلِهِم
     translation: before them
     transliteration: qablihim
   20:
@@ -88,23 +88,23 @@ word_by_word:
     translation: of
     transliteration: mina
   21:
-    arabic: الۡجِنِّ
+    arabic: ٱلۡجِنِّ
     translation: the jinn
     transliteration: l-jini
   22:
-    arabic: وَالۡاِنۡسِ​ۚ
+    arabic: وَٱلۡإِنسِۖ
     translation: and the men
     transliteration: wal-insi
   23:
-    arabic: اِنَّهُمۡ
+    arabic: إِنَّهُمۡ
     translation: Indeed, they
     transliteration: innahum
   24:
-    arabic: كَانُوۡا
+    arabic: كَانُواْ
     translation: were
     transliteration: kānū
   25:
-    arabic: خٰسِرِيۡنَ‏
+    arabic: خَٰسِرِينَ
     translation: losers
     transliteration: khāsirīna
 ---

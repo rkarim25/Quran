@@ -1,30 +1,30 @@
 ---
-arabic_ayat: اِنَّ فِىۡ هٰذَا لَبَلٰغًا لّـِقَوۡمٍ عٰبِدِيۡنَؕ‏
+arabic_ayat: إِنَّ فِي هَٰذَا لَبَلَٰغٗا لِّقَوۡمٍ عَٰبِدِينَ
 sentence_translation: Surely this ˹Quran˺ is sufficient ˹as a reminder˺ for those
   devoted to worship.
 word_by_word:
   1:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   2:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   3:
-    arabic: هٰذَا
+    arabic: هَٰذَا
     translation: this
     transliteration: hādhā
   4:
-    arabic: لَبَلٰغًا
+    arabic: لَبَلَٰغٗا
     translation: surely is a Message
     transliteration: labalāghan
   5:
-    arabic: لّـِقَوۡمٍ
+    arabic: لِّقَوۡمٍ
     translation: for a people
     transliteration: liqawmin
   6:
-    arabic: عٰبِدِيۡنَؕ‏
+    arabic: عَٰبِدِينَ
     translation: worshippers
     transliteration: ʿābidīna
 ---

@@ -1,24 +1,23 @@
 ---
-arabic_ayat: "يٰۤاَيُّهَا الَّذِيۡنَ اٰمَنُوۡۤا اِنۡ جَآءَكُمۡ فَاسِقٌ ۢ بِنَبَاٍ\
-  \ فَتَبَيَّنُوۡۤا اَنۡ تُصِيۡبُوۡا قَوۡمًا ۢ بِجَهَالَةٍ فَتُصۡبِحُوۡا عَلٰى مَا\
-  \ فَعَلۡتُمۡ نٰدِمِيۡنَ‏ \uFEFF\uFEFF"
+arabic_ayat: يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓاْ إِن جَآءَكُمۡ فَاسِقُۢ بِنَبَإٖ فَتَبَيَّنُوٓاْ
+  أَن تُصِيبُواْ قَوۡمَۢا بِجَهَٰلَةٖ فَتُصۡبِحُواْ عَلَىٰ مَا فَعَلۡتُمۡ نَٰدِمِينَ
 sentence_translation: O believers, if an evildoer brings you any news, verify ˹it˺
   so you do not harm people unknowingly, becoming regretful for what you have done.
 word_by_word:
   1:
-    arabic: يٰۤاَيُّهَا
+    arabic: يَٰٓأَيُّهَا
     translation: O you who believe
     transliteration: yāayyuhā
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ ءَ
     translation: O you who believe
     transliteration: alladhīna
   3:
-    arabic: اٰمَنُوۡۤا
+    arabic: امَنُوٓاْ
     translation: O you who believe
     transliteration: āmanū
   4:
-    arabic: اِنۡ
+    arabic: إِن
     translation: If
     transliteration: in
   5:
@@ -26,39 +25,39 @@ word_by_word:
     translation: comes to you
     transliteration: jāakum
   6:
-    arabic: فَاسِقٌ ۢ
+    arabic: فَاسِقُۢ
     translation: a wicked person
     transliteration: fāsiqun
   7:
-    arabic: بِنَبَاٍ
+    arabic: بِنَبَإٖ
     translation: with information
     transliteration: binaba-in
   8:
-    arabic: فَتَبَيَّنُوۡۤا
+    arabic: فَتَبَيَّنُوٓاْ
     translation: investigate
     transliteration: fatabayyanū
   9:
-    arabic: اَنۡ
+    arabic: أَن
     translation: lest
     transliteration: an
   10:
-    arabic: تُصِيۡبُوۡا
+    arabic: تُصِيبُواْ
     translation: you harm
     transliteration: tuṣībū
   11:
-    arabic: قَوۡمًا ۢ
+    arabic: قَوۡمَۢا
     translation: a people
     transliteration: qawman
   12:
-    arabic: بِجَهَالَةٍ
+    arabic: بِجَهَٰلَةٖ
     translation: in ignorance
     transliteration: bijahālatin
   13:
-    arabic: فَتُصۡبِحُوۡا
+    arabic: فَتُصۡبِحُواْ
     translation: then you become
     transliteration: fatuṣ'biḥū
   14:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: over
     transliteration: ʿalā
   15:
@@ -70,7 +69,7 @@ word_by_word:
     translation: you have done
     transliteration: faʿaltum
   17:
-    arabic: "نٰدِمِيۡنَ‏ \uFEFF\uFEFF"
+    arabic: نَٰدِمِينَ
     translation: regretful
     transliteration: nādimīna
 ---

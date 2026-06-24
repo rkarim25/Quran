@@ -1,9 +1,9 @@
 ---
-arabic_ayat: اِذَا مَسَّهُ الشَّرُّ جَزُوۡعًا ۙ‏
+arabic_ayat: إِذَا مَسَّهُ ٱلشَّرُّ جَزُوعٗا
 sentence_translation: distressed when touched with evil,
 word_by_word:
   1:
-    arabic: اِذَا
+    arabic: إِذَا
     translation: When
     transliteration: idhā
   2:
@@ -11,11 +11,11 @@ word_by_word:
     translation: touches him
     transliteration: massahu
   3:
-    arabic: الشَّرُّ
+    arabic: ٱلشَّرُّ
     translation: the evil
     transliteration: l-sharu
   4:
-    arabic: جَزُوۡعًا ۙ‏
+    arabic: جَزُوعٗا
     translation: distressed
     transliteration: jazūʿan
 ---

@@ -1,22 +1,22 @@
 ---
-arabic_ayat: وَاِنَّكَ لَـتُلَـقَّى الۡقُرۡاٰنَ مِنۡ لَّدُنۡ حَكِيۡمٍ عَلِيۡمٍ‏
+arabic_ayat: وَإِنَّكَ لَتُلَقَّى ٱلۡقُرۡءَانَ مِن لَّدُنۡ حَكِيمٍ عَلِيمٍ
 sentence_translation: And indeed, you ˹O Prophet˺ are receiving the Quran from the
   One ˹Who is˺ All-Wise, All-Knowing.
 word_by_word:
   1:
-    arabic: وَاِنَّكَ
+    arabic: وَإِنَّكَ
     translation: And indeed, you
     transliteration: wa-innaka
   2:
-    arabic: لَـتُلَـقَّى
+    arabic: لَتُلَقَّى
     translation: surely, receive
     transliteration: latulaqqā
   3:
-    arabic: الۡقُرۡاٰنَ
+    arabic: ٱلۡقُرۡءَانَ
     translation: the Quran
     transliteration: l-qur'āna
   4:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from [near]
     transliteration: min
   5:
@@ -24,11 +24,11 @@ word_by_word:
     translation: from [near]
     transliteration: ladun
   6:
-    arabic: حَكِيۡمٍ
+    arabic: حَكِيمٍ
     translation: the All-Wise
     transliteration: ḥakīmin
   7:
-    arabic: عَلِيۡمٍ‏
+    arabic: عَلِيمٍ
     translation: the All-Knower
     transliteration: ʿalīmin
 ---

@@ -1,33 +1,33 @@
 ---
-arabic_ayat: وَمَنۡ يُّوَلِّهِمۡ يَوۡمَٮِٕذٍ دُبُرَهٗۤ اِلَّا مُتَحَرِّفًا لِّقِتَالٍ
-  اَوۡ مُتَحَيِّزًا اِلٰى فِئَةٍ فَقَدۡ بَآءَ بِغَضَبٍ مِّنَ اللّٰهِ وَمَاۡوٰٮهُ
-  جَهَـنَّمُ​ؕ وَبِئۡسَ الۡمَصِيۡرُ‏
+arabic_ayat: وَمَن يُوَلِّهِمۡ يَوۡمَئِذٖ دُبُرَهُۥٓ إِلَّا مُتَحَرِّفٗا لِّقِتَالٍ
+  أَوۡ مُتَحَيِّزًا إِلَىٰ فِئَةٖ فَقَدۡ بَآءَ بِغَضَبٖ مِّنَ ٱللَّهِ وَمَأۡوَىٰهُ
+  جَهَنَّمُۖ وَبِئۡسَ ٱلۡمَصِيرُ
 sentence_translation: And whoever does so on such an occasion—unless it is a manoeuvre
   or to join their own troops—will earn the displeasure of Allah, and their home will
   be Hell. What an evil destination!
 word_by_word:
   1:
-    arabic: وَمَنۡ
+    arabic: وَمَن
     translation: And whoever
     transliteration: waman
   2:
-    arabic: يُّوَلِّهِمۡ
+    arabic: يُوَلِّهِمۡ
     translation: turns to them
     transliteration: yuwallihim
   3:
-    arabic: يَوۡمَٮِٕذٍ
+    arabic: يَوۡمَئِذٖ
     translation: that day
     transliteration: yawma-idhin
   4:
-    arabic: دُبُرَهٗۤ
+    arabic: دُبُرَهُۥٓ
     translation: his back
     transliteration: duburahu
   5:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   6:
-    arabic: مُتَحَرِّفًا
+    arabic: مُتَحَرِّفٗا
     translation: (as) a strategy
     transliteration: mutaḥarrifan
   7:
@@ -35,7 +35,7 @@ word_by_word:
     translation: of war
     transliteration: liqitālin
   8:
-    arabic: اَوۡ
+    arabic: أَوۡ
     translation: or
     transliteration: aw
   9:
@@ -43,11 +43,11 @@ word_by_word:
     translation: (to) join
     transliteration: mutaḥayyizan
   10:
-    arabic: اِلٰى
+    arabic: إِلَىٰ
     translation: to
     transliteration: ilā
   11:
-    arabic: فِئَةٍ
+    arabic: فِئَةٖ
     translation: a group
     transliteration: fi-atin
   12:
@@ -59,7 +59,7 @@ word_by_word:
     translation: (he has) incurred
     transliteration: bāa
   14:
-    arabic: بِغَضَبٍ
+    arabic: بِغَضَبٖ
     translation: wrath
     transliteration: bighaḍabin
   15:
@@ -67,15 +67,15 @@ word_by_word:
     translation: of
     transliteration: mina
   16:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   17:
-    arabic: وَمَاۡوٰٮهُ
+    arabic: وَمَأۡوَىٰهُ
     translation: and his abode
     transliteration: wamawāhu
   18:
-    arabic: جَهَـنَّمُ​ؕ
+    arabic: جَهَنَّمُۖ
     translation: (is) Hell
     transliteration: jahannamu
   19:
@@ -83,7 +83,7 @@ word_by_word:
     translation: a wretched
     transliteration: wabi'sa
   20:
-    arabic: الۡمَصِيۡرُ‏
+    arabic: ٱلۡمَصِيرُ
     translation: destination
     transliteration: l-maṣīru
 ---

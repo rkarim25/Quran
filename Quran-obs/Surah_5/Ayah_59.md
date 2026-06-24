@@ -1,7 +1,7 @@
 ---
-arabic_ayat: قُلۡ يٰۤـاَهۡلَ الۡـكِتٰبِ هَلۡ تَـنۡقِمُوۡنَ مِنَّاۤ اِلَّاۤ اَنۡ اٰمَنَّا
-  بِاللّٰهِ وَمَاۤ اُنۡزِلَ اِلَـيۡنَا وَمَاۤ اُنۡزِلَ مِنۡ قَبۡلُ ۙ وَاَنَّ اَكۡثَرَكُمۡ
-  فٰسِقُوۡنَ‏
+arabic_ayat: قُلۡ يَٰٓأَهۡلَ ٱلۡكِتَٰبِ هَلۡ تَنقِمُونَ مِنَّآ إِلَّآ أَنۡ ءَامَنَّا
+  بِٱللَّهِ وَمَآ أُنزِلَ إِلَيۡنَا وَمَآ أُنزِلَ مِن قَبۡلُ وَأَنَّ أَكۡثَرَكُمۡ
+  فَٰسِقُونَ
 sentence_translation: Say, ˹O Prophet,˺ “O People of the Book! Do you resent us only
   because we believe in Allah and what has been revealed to us and what was revealed
   before—while most of you are rebellious?”
@@ -11,11 +11,11 @@ word_by_word:
     translation: Say
     transliteration: qul
   2:
-    arabic: يٰۤـاَهۡلَ
+    arabic: يَٰٓأَهۡلَ
     translation: O People
     transliteration: yāahla
   3:
-    arabic: الۡـكِتٰبِ
+    arabic: ٱلۡكِتَٰبِ
     translation: (of) the Book
     transliteration: l-kitābi
   4:
@@ -23,67 +23,67 @@ word_by_word:
     translation: Do
     transliteration: hal
   5:
-    arabic: تَـنۡقِمُوۡنَ
+    arabic: تَنقِمُونَ
     translation: you resent
     transliteration: tanqimūna
   6:
-    arabic: مِنَّاۤ
+    arabic: مِنَّآ
     translation: '[of] us'
     transliteration: minnā
   7:
-    arabic: اِلَّاۤ
+    arabic: إِلَّآ
     translation: except
     transliteration: illā
   8:
-    arabic: اَنۡ
+    arabic: أَنۡ ءَ
     translation: that
     transliteration: an
   9:
-    arabic: اٰمَنَّا
+    arabic: امَنَّا
     translation: we believe
     transliteration: āmannā
   10:
-    arabic: بِاللّٰهِ
+    arabic: بِٱللَّهِ
     translation: in Allah
     transliteration: bil-lahi
   11:
-    arabic: وَمَاۤ
+    arabic: وَمَآ
     translation: and what
     transliteration: wamā
   12:
-    arabic: اُنۡزِلَ
+    arabic: أُنزِلَ
     translation: has been revealed
     transliteration: unzila
   13:
-    arabic: اِلَـيۡنَا
+    arabic: إِلَيۡنَا
     translation: to us
     transliteration: ilaynā
   14:
-    arabic: وَمَاۤ
+    arabic: وَمَآ
     translation: and what
     transliteration: wamā
   15:
-    arabic: اُنۡزِلَ
+    arabic: أُنزِلَ
     translation: was revealed
     transliteration: unzila
   16:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   17:
-    arabic: قَبۡلُ ۙ
+    arabic: قَبۡلُ
     translation: before
     transliteration: qablu
   18:
-    arabic: وَاَنَّ
+    arabic: وَأَنَّ
     translation: and that
     transliteration: wa-anna
   19:
-    arabic: اَكۡثَرَكُمۡ
+    arabic: أَكۡثَرَكُمۡ
     translation: most of you
     transliteration: aktharakum
   20:
-    arabic: فٰسِقُوۡنَ‏
+    arabic: فَٰسِقُونَ
     translation: (are) defiantly disobedient
     transliteration: fāsiqūna
 ---

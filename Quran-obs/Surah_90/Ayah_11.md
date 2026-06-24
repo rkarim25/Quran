@@ -1,5 +1,5 @@
 ---
-arabic_ayat: فَلَا اقۡتَحَمَ الۡعَقَبَةَ ۖ‏
+arabic_ayat: فَلَا ٱقۡتَحَمَ ٱلۡعَقَبَةَ
 sentence_translation: If only they had attempted the challenging path ˹of goodness
   instead˺!
 word_by_word:
@@ -8,11 +8,11 @@ word_by_word:
     translation: But not
     transliteration: falā
   2:
-    arabic: اقۡتَحَمَ
+    arabic: ٱقۡتَحَمَ
     translation: he has attempted
     transliteration: iq'taḥama
   3:
-    arabic: الۡعَقَبَةَ ۖ‏
+    arabic: ٱلۡعَقَبَةَ
     translation: the steep path
     transliteration: l-ʿaqabata
 ---

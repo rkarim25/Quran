@@ -1,6 +1,6 @@
 ---
-arabic_ayat: تُدَمِّرُ كُلَّ شَىۡءٍ ۭ بِاَمۡرِ رَبِّهَا فَاَصۡبَحُوۡا لَا يُرٰٓى اِلَّا
-  مَسٰكِنُهُمۡ​ؕ كَذٰلِكَ نَجۡزِى الۡقَوۡمَ الۡمُجۡرِمِيۡنَ‏
+arabic_ayat: تُدَمِّرُ كُلَّ شَيۡءِۭ بِأَمۡرِ رَبِّهَا فَأَصۡبَحُواْ لَا يُرَىٰٓ إِلَّا
+  مَسَٰكِنُهُمۡۚ كَذَٰلِكَ نَجۡزِي ٱلۡقَوۡمَ ٱلۡمُجۡرِمِينَ
 sentence_translation: It destroyed everything by the command of its Lord, leaving
   nothing visible except their ruins. This is how We reward the wicked people.
 word_by_word:
@@ -13,11 +13,11 @@ word_by_word:
     translation: every
     transliteration: kulla
   3:
-    arabic: شَىۡءٍ ۭ
+    arabic: شَيۡءِۭ
     translation: thing
     transliteration: shayin
   4:
-    arabic: بِاَمۡرِ
+    arabic: بِأَمۡرِ
     translation: by (the) command
     transliteration: bi-amri
   5:
@@ -25,7 +25,7 @@ word_by_word:
     translation: (of) its Lord
     transliteration: rabbihā
   6:
-    arabic: فَاَصۡبَحُوۡا
+    arabic: فَأَصۡبَحُواْ
     translation: Then they became (such)
     transliteration: fa-aṣbaḥū
   7:
@@ -33,31 +33,31 @@ word_by_word:
     translation: not
     transliteration: lā
   8:
-    arabic: يُرٰٓى
+    arabic: يُرَىٰٓ
     translation: is seen
     transliteration: yurā
   9:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   10:
-    arabic: مَسٰكِنُهُمۡ​ؕ
+    arabic: مَسَٰكِنُهُمۡۚ
     translation: their dwellings
     transliteration: masākinuhum
   11:
-    arabic: كَذٰلِكَ
+    arabic: كَذَٰلِكَ
     translation: Thus
     transliteration: kadhālika
   12:
-    arabic: نَجۡزِى
+    arabic: نَجۡزِي
     translation: We recompense
     transliteration: najzī
   13:
-    arabic: الۡقَوۡمَ
+    arabic: ٱلۡقَوۡمَ
     translation: the people
     transliteration: l-qawma
   14:
-    arabic: الۡمُجۡرِمِيۡنَ‏
+    arabic: ٱلۡمُجۡرِمِينَ
     translation: '[the] criminals'
     transliteration: l-muj'rimīna
 ---

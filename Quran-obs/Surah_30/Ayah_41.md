@@ -1,6 +1,6 @@
 ---
-arabic_ayat: ظَهَرَ الۡفَسَادُ فِى الۡبَرِّ وَالۡبَحۡرِ بِمَا كَسَبَتۡ اَيۡدِى النَّاسِ
-  لِيُذِيۡقَهُمۡ بَعۡضَ الَّذِىۡ عَمِلُوۡا لَعَلَّهُمۡ يَرۡجِعُوۡنَ‏
+arabic_ayat: ظَهَرَ ٱلۡفَسَادُ فِي ٱلۡبَرِّ وَٱلۡبَحۡرِ بِمَا كَسَبَتۡ أَيۡدِي ٱلنَّاسِ
+  لِيُذِيقَهُم بَعۡضَ ٱلَّذِي عَمِلُواْ لَعَلَّهُمۡ يَرۡجِعُونَ
 sentence_translation: Corruption has spread on land and sea as a result of what people’s
   hands have done, so that Allah may cause them to taste ˹the consequences of˺ some
   of their deeds and perhaps they might return ˹to the Right Path˺.
@@ -10,19 +10,19 @@ word_by_word:
     translation: Has appeared
     transliteration: ẓahara
   2:
-    arabic: الۡفَسَادُ
+    arabic: ٱلۡفَسَادُ
     translation: the corruption
     transliteration: l-fasādu
   3:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   4:
-    arabic: الۡبَرِّ
+    arabic: ٱلۡبَرِّ
     translation: the land
     transliteration: l-bari
   5:
-    arabic: وَالۡبَحۡرِ
+    arabic: وَٱلۡبَحۡرِ
     translation: and the sea
     transliteration: wal-baḥri
   6:
@@ -34,15 +34,15 @@ word_by_word:
     translation: have earned
     transliteration: kasabat
   8:
-    arabic: اَيۡدِى
+    arabic: أَيۡدِي
     translation: (the) hands
     transliteration: aydī
   9:
-    arabic: النَّاسِ
+    arabic: ٱلنَّاسِ
     translation: (of) people
     transliteration: l-nāsi
   10:
-    arabic: لِيُذِيۡقَهُمۡ
+    arabic: لِيُذِيقَهُم
     translation: so that He may let them taste
     transliteration: liyudhīqahum
   11:
@@ -50,11 +50,11 @@ word_by_word:
     translation: a part
     transliteration: baʿḍa
   12:
-    arabic: الَّذِىۡ
+    arabic: ٱلَّذِي
     translation: (of) that which
     transliteration: alladhī
   13:
-    arabic: عَمِلُوۡا
+    arabic: عَمِلُواْ
     translation: they have done
     transliteration: ʿamilū
   14:
@@ -62,7 +62,7 @@ word_by_word:
     translation: so that they may
     transliteration: laʿallahum
   15:
-    arabic: يَرۡجِعُوۡنَ‏
+    arabic: يَرۡجِعُونَ
     translation: return
     transliteration: yarjiʿūna
 ---

@@ -1,19 +1,18 @@
 ---
-arabic_ayat: "اَهُمۡ يَقۡسِمُوۡنَ رَحۡمَتَ رَبِّكَ​ ؕ نَحۡنُ قَسَمۡنَا بَيۡنَهُمۡ\
-  \ مَّعِيۡشَتَهُمۡ فِى الۡحَيٰوةِ الدُّنۡيَا وَرَفَعۡنَا بَعۡضَهُمۡ فَوۡقَ بَعۡضٍ\
-  \ دَرَجٰتٍ لِّيَـتَّخِذَ بَعۡضُهُمۡ بَعۡضًا سُخۡرِيًّا​ ؕ وَرَحۡمَتُ رَبِّكَ خَيۡرٌ\
-  \ مِّمَّا يَجۡمَعُوۡنَ‏ \uFEFF\uFEFF"
+arabic_ayat: أَهُمۡ يَقۡسِمُونَ رَحۡمَتَ رَبِّكَۚ نَحۡنُ قَسَمۡنَا بَيۡنَهُم مَّعِيشَتَهُمۡ
+  فِي ٱلۡحَيَوٰةِ ٱلدُّنۡيَاۚ وَرَفَعۡنَا بَعۡضَهُمۡ فَوۡقَ بَعۡضٖ دَرَجَٰتٖ لِّيَتَّخِذَ
+  بَعۡضُهُم بَعۡضٗا سُخۡرِيّٗاۗ وَرَحۡمَتُ رَبِّكَ خَيۡرٞ مِّمَّا يَجۡمَعُونَ
 sentence_translation: Is it they who distribute your Lord’s mercy? We ˹alone˺ have
   distributed their ˹very˺ livelihood among them in this worldly life and raised some
   of them in rank above others so that some may employ others in service. ˹But˺ your
   Lord’s mercy is far better than whatever ˹wealth˺ they amass.
 word_by_word:
   1:
-    arabic: اَهُمۡ
+    arabic: أَهُمۡ
     translation: Do they
     transliteration: ahum
   2:
-    arabic: يَقۡسِمُوۡنَ
+    arabic: يَقۡسِمُونَ
     translation: distribute
     transliteration: yaqsimūna
   3:
@@ -21,7 +20,7 @@ word_by_word:
     translation: (the) Mercy
     transliteration: raḥmata
   4:
-    arabic: رَبِّكَ​ ؕ
+    arabic: رَبِّكَۚ
     translation: (of) your Lord
     transliteration: rabbika
   5:
@@ -33,23 +32,23 @@ word_by_word:
     translation: '[We] distribute'
     transliteration: qasamnā
   7:
-    arabic: بَيۡنَهُمۡ
+    arabic: بَيۡنَهُم
     translation: among them
     transliteration: baynahum
   8:
-    arabic: مَّعِيۡشَتَهُمۡ
+    arabic: مَّعِيشَتَهُمۡ
     translation: their livelihood
     transliteration: maʿīshatahum
   9:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   10:
-    arabic: الۡحَيٰوةِ
+    arabic: ٱلۡحَيَوٰةِ
     translation: the life
     transliteration: l-ḥayati
   11:
-    arabic: الدُّنۡيَا
+    arabic: ٱلدُّنۡيَاۚ
     translation: (of) the world
     transliteration: l-dun'yā
   12:
@@ -65,27 +64,27 @@ word_by_word:
     translation: above
     transliteration: fawqa
   15:
-    arabic: بَعۡضٍ
+    arabic: بَعۡضٖ
     translation: others
     transliteration: baʿḍin
   16:
-    arabic: دَرَجٰتٍ
+    arabic: دَرَجَٰتٖ
     translation: (in) degrees
     transliteration: darajātin
   17:
-    arabic: لِّيَـتَّخِذَ
+    arabic: لِّيَتَّخِذَ
     translation: so that may take
     transliteration: liyattakhidha
   18:
-    arabic: بَعۡضُهُمۡ
+    arabic: بَعۡضُهُم
     translation: some of them
     transliteration: baʿḍuhum
   19:
-    arabic: بَعۡضًا
+    arabic: بَعۡضٗا
     translation: others
     transliteration: baʿḍan
   20:
-    arabic: سُخۡرِيًّا​ ؕ
+    arabic: سُخۡرِيّٗاۗ
     translation: (for) service
     transliteration: sukh'riyyan
   21:
@@ -97,7 +96,7 @@ word_by_word:
     translation: (of) your Lord
     transliteration: rabbika
   23:
-    arabic: خَيۡرٌ
+    arabic: خَيۡرٞ
     translation: (is) better
     transliteration: khayrun
   24:
@@ -105,7 +104,7 @@ word_by_word:
     translation: than what
     transliteration: mimmā
   25:
-    arabic: "يَجۡمَعُوۡنَ‏ \uFEFF\uFEFF"
+    arabic: يَجۡمَعُونَ
     translation: they accumulate
     transliteration: yajmaʿūna
 ---

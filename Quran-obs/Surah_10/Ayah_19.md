@@ -1,7 +1,6 @@
 ---
-arabic_ayat: "وَمَا كَانَ النَّاسُ اِلَّاۤ اُمَّةً وَّاحِدَةً فَاخۡتَلَفُوۡا​ ؕ وَلَوۡلَا\
-  \ كَلِمَةٌ سَبَقَتۡ مِنۡ رَّبِّكَ لَـقُضِىَ بَيۡنَهُمۡ فِيۡمَا فِيۡهِ يَخۡتَلِفُوۡنَ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: وَمَا كَانَ ٱلنَّاسُ إِلَّآ أُمَّةٗ وَٰحِدَةٗ فَٱخۡتَلَفُواْۚ وَلَوۡلَا
+  كَلِمَةٞ سَبَقَتۡ مِن رَّبِّكَ لَقُضِيَ بَيۡنَهُمۡ فِيمَا فِيهِ يَخۡتَلِفُونَ
 sentence_translation: Humanity was once nothing but a single community ˹of believers˺,
   but then they differed. Had it not been for a prior decree from your Lord, their
   differences would have been settled ˹at once˺.
@@ -15,23 +14,23 @@ word_by_word:
     translation: was
     transliteration: kāna
   3:
-    arabic: النَّاسُ
+    arabic: ٱلنَّاسُ
     translation: the mankind
     transliteration: l-nāsu
   4:
-    arabic: اِلَّاۤ
+    arabic: إِلَّآ
     translation: but
     transliteration: illā
   5:
-    arabic: اُمَّةً
+    arabic: أُمَّةٗ
     translation: a community
     transliteration: ummatan
   6:
-    arabic: وَّاحِدَةً
+    arabic: وَٰحِدَةٗ
     translation: one
     transliteration: wāḥidatan
   7:
-    arabic: فَاخۡتَلَفُوۡا​ ؕ
+    arabic: فَٱخۡتَلَفُواْۚ
     translation: then they differed
     transliteration: fa-ikh'talafū
   8:
@@ -39,7 +38,7 @@ word_by_word:
     translation: And had (it) not been
     transliteration: walawlā
   9:
-    arabic: كَلِمَةٌ
+    arabic: كَلِمَةٞ
     translation: a word
     transliteration: kalimatun
   10:
@@ -47,7 +46,7 @@ word_by_word:
     translation: (that) preceded
     transliteration: sabaqat
   11:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   12:
@@ -55,7 +54,7 @@ word_by_word:
     translation: your Lord
     transliteration: rabbika
   13:
-    arabic: لَـقُضِىَ
+    arabic: لَقُضِيَ
     translation: surely, it (would) have been judged
     transliteration: laquḍiya
   14:
@@ -63,15 +62,15 @@ word_by_word:
     translation: between them
     transliteration: baynahum
   15:
-    arabic: فِيۡمَا
+    arabic: فِيمَا
     translation: concerning what
     transliteration: fīmā
   16:
-    arabic: فِيۡهِ
+    arabic: فِيهِ
     translation: '[therein]'
     transliteration: fīhi
   17:
-    arabic: "يَخۡتَلِفُوۡنَ‏ \uFEFF\uFEFF"
+    arabic: يَخۡتَلِفُونَ
     translation: they differ
     transliteration: yakhtalifūna
 ---

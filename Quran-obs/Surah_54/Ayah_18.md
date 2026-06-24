@@ -1,5 +1,5 @@
 ---
-arabic_ayat: كَذَّبَتۡ عَادٌ فَكَيۡفَ كَانَ عَذَابِىۡ وَنُذُرِ‏
+arabic_ayat: كَذَّبَتۡ عَادٞ فَكَيۡفَ كَانَ عَذَابِي وَنُذُرِ
 sentence_translation: ’Ȃd ˹also˺ rejected ˹the truth˺. Then how ˹dreadful˺ were My
   punishment and warnings!
 word_by_word:
@@ -8,7 +8,7 @@ word_by_word:
     translation: Denied
     transliteration: kadhabat
   2:
-    arabic: عَادٌ
+    arabic: عَادٞ
     translation: Aad
     transliteration: ʿādun
   3:
@@ -20,11 +20,11 @@ word_by_word:
     translation: was
     transliteration: kāna
   5:
-    arabic: عَذَابِىۡ
+    arabic: عَذَابِي
     translation: My punishment
     transliteration: ʿadhābī
   6:
-    arabic: وَنُذُرِ‏
+    arabic: وَنُذُرِ
     translation: and My warnings
     transliteration: wanudhuri
 ---

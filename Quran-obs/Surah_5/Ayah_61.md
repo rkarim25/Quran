@@ -1,36 +1,36 @@
 ---
-arabic_ayat: وَاِذَا جَآءُوۡكُمۡ قَالُوۡۤا اٰمَنَّا وَقَدْ دَّخَلُوۡا بِالۡكُفۡرِ
-  وَهُمۡ قَدۡ خَرَجُوۡا بِهٖ​ؕ وَاللّٰهُ اَعۡلَمُ بِمَا كَانُوۡا يَكۡتُمُوۡنَ‏
+arabic_ayat: وَإِذَا جَآءُوكُمۡ قَالُوٓاْ ءَامَنَّا وَقَد دَّخَلُواْ بِٱلۡكُفۡرِ
+  وَهُمۡ قَدۡ خَرَجُواْ بِهِۦۚ وَٱللَّهُ أَعۡلَمُ بِمَا كَانُواْ يَكۡتُمُونَ
 sentence_translation: When they come to you ˹believers˺ they say, “We believe.” But
   they are committed to disbelief when they enter and when they leave. And Allah knows
   what they hide.
 word_by_word:
   1:
-    arabic: وَاِذَا
+    arabic: وَإِذَا
     translation: And when
     transliteration: wa-idhā
   2:
-    arabic: جَآءُوۡكُمۡ
+    arabic: جَآءُوكُمۡ
     translation: they come to you
     transliteration: jāūkum
   3:
-    arabic: قَالُوۡۤا
+    arabic: قَالُوٓاْ ءَ
     translation: they say
     transliteration: qālū
   4:
-    arabic: اٰمَنَّا
+    arabic: امَنَّا
     translation: We believe
     transliteration: āmannā
   5:
-    arabic: وَقَدْ
+    arabic: وَقَد
     translation: But certainly
     transliteration: waqad
   6:
-    arabic: دَّخَلُوۡا
+    arabic: دَّخَلُواْ
     translation: they entered
     transliteration: dakhalū
   7:
-    arabic: بِالۡكُفۡرِ
+    arabic: بِٱلۡكُفۡرِ
     translation: with disbelief
     transliteration: bil-kuf'ri
   8:
@@ -42,19 +42,19 @@ word_by_word:
     translation: certainly
     transliteration: qad
   10:
-    arabic: خَرَجُوۡا
+    arabic: خَرَجُواْ
     translation: went out
     transliteration: kharajū
   11:
-    arabic: بِهٖ​ؕ
+    arabic: بِهِۦۚ
     translation: with it
     transliteration: bihi
   12:
-    arabic: وَاللّٰهُ
+    arabic: وَٱللَّهُ
     translation: And Allah
     transliteration: wal-lahu
   13:
-    arabic: اَعۡلَمُ
+    arabic: أَعۡلَمُ
     translation: knows best
     transliteration: aʿlamu
   14:
@@ -62,11 +62,11 @@ word_by_word:
     translation: '[of] what'
     transliteration: bimā
   15:
-    arabic: كَانُوۡا
+    arabic: كَانُواْ
     translation: they were
     transliteration: kānū
   16:
-    arabic: يَكۡتُمُوۡنَ‏
+    arabic: يَكۡتُمُونَ
     translation: hiding
     transliteration: yaktumūna
 ---

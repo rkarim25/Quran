@@ -1,17 +1,17 @@
 ---
-arabic_ayat: فِىۡ سِدۡرٍ مَّخۡضُوۡدٍۙ‏
+arabic_ayat: فِي سِدۡرٖ مَّخۡضُودٖ
 sentence_translation: ˹They will be˺ amid thornless lote trees,
 word_by_word:
   1:
-    arabic: فِىۡ
+    arabic: فِي
     translation: Among
     transliteration: fī
   2:
-    arabic: سِدۡرٍ
+    arabic: سِدۡرٖ
     translation: lote trees
     transliteration: sid'rin
   3:
-    arabic: مَّخۡضُوۡدٍۙ‏
+    arabic: مَّخۡضُودٖ
     translation: thornless
     transliteration: makhḍūdin
 ---

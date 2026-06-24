@@ -1,15 +1,15 @@
 ---
-arabic_ayat: وَلَـنَبۡلُوَنَّكُمۡ بِشَىۡءٍ مِّنَ الۡخَـوۡفِ وَالۡجُـوۡعِ وَنَقۡصٍ
-  مِّنَ الۡاَمۡوَالِ وَالۡاَنۡفُسِ وَالثَّمَرٰتِؕ وَبَشِّرِ الصّٰبِرِيۡنَۙ‏
+arabic_ayat: وَلَنَبۡلُوَنَّكُم بِشَيۡءٖ مِّنَ ٱلۡخَوۡفِ وَٱلۡجُوعِ وَنَقۡصٖ مِّنَ
+  ٱلۡأَمۡوَٰلِ وَٱلۡأَنفُسِ وَٱلثَّمَرَٰتِۗ وَبَشِّرِ ٱلصَّٰبِرِينَ
 sentence_translation: We will certainly test you with a touch of fear and famine and
   loss of property, life, and crops. Give good news to those who patiently endure—
 word_by_word:
   1:
-    arabic: وَلَـنَبۡلُوَنَّكُمۡ
+    arabic: وَلَنَبۡلُوَنَّكُم
     translation: And surely We will test you
     transliteration: walanabluwannakum
   2:
-    arabic: بِشَىۡءٍ
+    arabic: بِشَيۡءٖ
     translation: with something
     transliteration: bishayin
   3:
@@ -17,15 +17,15 @@ word_by_word:
     translation: of
     transliteration: mina
   4:
-    arabic: الۡخَـوۡفِ
+    arabic: ٱلۡخَوۡفِ
     translation: '[the] fear'
     transliteration: l-khawfi
   5:
-    arabic: وَالۡجُـوۡعِ
+    arabic: وَٱلۡجُوعِ
     translation: and [the] hunger
     transliteration: wal-jūʿi
   6:
-    arabic: وَنَقۡصٍ
+    arabic: وَنَقۡصٖ
     translation: and loss
     transliteration: wanaqṣin
   7:
@@ -33,15 +33,15 @@ word_by_word:
     translation: of
     transliteration: mina
   8:
-    arabic: الۡاَمۡوَالِ
+    arabic: ٱلۡأَمۡوَٰلِ
     translation: '[the] wealth'
     transliteration: l-amwāli
   9:
-    arabic: وَالۡاَنۡفُسِ
+    arabic: وَٱلۡأَنفُسِ
     translation: and [the] lives
     transliteration: wal-anfusi
   10:
-    arabic: وَالثَّمَرٰتِؕ
+    arabic: وَٱلثَّمَرَٰتِۗ
     translation: and [the] fruits
     transliteration: wal-thamarāti
   11:
@@ -49,7 +49,7 @@ word_by_word:
     translation: but give good news
     transliteration: wabashiri
   12:
-    arabic: الصّٰبِرِيۡنَۙ‏
+    arabic: ٱلصَّٰبِرِينَ
     translation: (to) the patient ones
     transliteration: l-ṣābirīna
 ---

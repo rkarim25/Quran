@@ -1,13 +1,13 @@
 ---
-arabic_ayat: اَحۡيَآءً وَّاَمۡوَاتًا ۙ‏
+arabic_ayat: أَحۡيَآءٗ وَأَمۡوَٰتٗا
 sentence_translation: for the living and the dead,
 word_by_word:
   1:
-    arabic: اَحۡيَآءً
+    arabic: أَحۡيَآءٗ
     translation: (For the) living
     transliteration: aḥyāan
   2:
-    arabic: وَّاَمۡوَاتًا ۙ‏
+    arabic: وَأَمۡوَٰتٗا
     translation: and (the) dead
     transliteration: wa-amwātan
 ---

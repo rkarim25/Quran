@@ -1,7 +1,7 @@
 ---
-arabic_ayat: وَوَصَّيۡنَا الۡاِنۡسَانَ بِوَالِدَيۡهِ حُسۡنًا​ ؕ وَاِنۡ جَاهَدٰكَ لِتُشۡرِكَ
-  بِىۡ مَا لَـيۡسَ لَـكَ بِهٖ عِلۡمٌ فَلَا تُطِعۡهُمَا ؕ اِلَىَّ مَرۡجِعُكُمۡ فَاُنَبِّئُكُمۡ
-  بِمَا كُنۡتُمۡ تَعۡمَلُوۡنَ‏
+arabic_ayat: وَوَصَّيۡنَا ٱلۡإِنسَٰنَ بِوَٰلِدَيۡهِ حُسۡنٗاۖ وَإِن جَٰهَدَاكَ لِتُشۡرِكَ
+  بِي مَا لَيۡسَ لَكَ بِهِۦ عِلۡمٞ فَلَا تُطِعۡهُمَآۚ إِلَيَّ مَرۡجِعُكُمۡ فَأُنَبِّئُكُم
+  بِمَا كُنتُمۡ تَعۡمَلُونَ
 sentence_translation: We have commanded people to honour their parents. But if they
   urge you to associate with Me what you have no knowledge of, then do not obey them.
   To Me you will ˹all˺ return, and then I will inform you of what you used to do.
@@ -11,23 +11,23 @@ word_by_word:
     translation: And We have enjoined
     transliteration: wawaṣṣaynā
   2:
-    arabic: الۡاِنۡسَانَ
+    arabic: ٱلۡإِنسَٰنَ
     translation: (on) man
     transliteration: l-insāna
   3:
-    arabic: بِوَالِدَيۡهِ
+    arabic: بِوَٰلِدَيۡهِ
     translation: goodness to his parents
     transliteration: biwālidayhi
   4:
-    arabic: حُسۡنًا​ ؕ
+    arabic: حُسۡنٗاۖ
     translation: goodness to his parents
     transliteration: ḥus'nan
   5:
-    arabic: وَاِنۡ
+    arabic: وَإِن
     translation: but if
     transliteration: wa-in
   6:
-    arabic: جَاهَدٰكَ
+    arabic: جَٰهَدَاكَ
     translation: they both strive against you
     transliteration: jāhadāka
   7:
@@ -35,7 +35,7 @@ word_by_word:
     translation: to make you associate
     transliteration: litush'rika
   8:
-    arabic: بِىۡ
+    arabic: بِي
     translation: with Me
     transliteration: bī
   9:
@@ -43,19 +43,19 @@ word_by_word:
     translation: what
     transliteration: mā
   10:
-    arabic: لَـيۡسَ
+    arabic: لَيۡسَ
     translation: not
     transliteration: laysa
   11:
-    arabic: لَـكَ
+    arabic: لَكَ
     translation: you have
     transliteration: laka
   12:
-    arabic: بِهٖ
+    arabic: بِهِۦ
     translation: of it
     transliteration: bihi
   13:
-    arabic: عِلۡمٌ
+    arabic: عِلۡمٞ
     translation: any knowledge
     transliteration: ʿil'mun
   14:
@@ -63,11 +63,11 @@ word_by_word:
     translation: then (do) not
     transliteration: falā
   15:
-    arabic: تُطِعۡهُمَا ؕ
+    arabic: تُطِعۡهُمَآۚ
     translation: obey both of them
     transliteration: tuṭiʿ'humā
   16:
-    arabic: اِلَىَّ
+    arabic: إِلَيَّ
     translation: To Me
     transliteration: ilayya
   17:
@@ -75,7 +75,7 @@ word_by_word:
     translation: (is) your return
     transliteration: marjiʿukum
   18:
-    arabic: فَاُنَبِّئُكُمۡ
+    arabic: فَأُنَبِّئُكُم
     translation: and I will inform you
     transliteration: fa-unabbi-ukum
   19:
@@ -83,11 +83,11 @@ word_by_word:
     translation: about what
     transliteration: bimā
   20:
-    arabic: كُنۡتُمۡ
+    arabic: كُنتُمۡ
     translation: you used
     transliteration: kuntum
   21:
-    arabic: تَعۡمَلُوۡنَ‏
+    arabic: تَعۡمَلُونَ
     translation: (to) do
     transliteration: taʿmalūna
 ---

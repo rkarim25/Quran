@@ -1,14 +1,14 @@
 ---
-arabic_ayat: وَّبَرًّۢابِوَالِدَتِىۡ وَلَمۡ يَجۡعَلۡنِىۡ جَبَّارًا شَقِيًّا‏
+arabic_ayat: وَبَرَّۢا بِوَٰلِدَتِي وَلَمۡ يَجۡعَلۡنِي جَبَّارٗا شَقِيّٗا
 sentence_translation: and to be kind to my mother. He has not made me arrogant or
   defiant.
 word_by_word:
   1:
-    arabic: وَّبَرًّۢا
+    arabic: وَبَرَّۢا
     translation: And dutiful
     transliteration: wabarran
   2:
-    arabic: بِوَالِدَتِىۡ
+    arabic: بِوَٰلِدَتِي
     translation: to my mother
     transliteration: biwālidatī
   3:
@@ -16,15 +16,15 @@ word_by_word:
     translation: and not
     transliteration: walam
   4:
-    arabic: يَجۡعَلۡنِىۡ
+    arabic: يَجۡعَلۡنِي
     translation: He (has) made me
     transliteration: yajʿalnī
   5:
-    arabic: جَبَّارًا
+    arabic: جَبَّارٗا
     translation: insolent
     transliteration: jabbāran
   6:
-    arabic: شَقِيًّا‏
+    arabic: شَقِيّٗا
     translation: unblessed
     transliteration: shaqiyyan
 ---

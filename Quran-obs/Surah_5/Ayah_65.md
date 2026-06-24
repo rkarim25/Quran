@@ -1,6 +1,6 @@
 ---
-arabic_ayat: وَلَوۡ اَنَّ اَهۡلَ الۡـكِتٰبِ اٰمَنُوۡا وَاتَّقَوۡا لَـكَفَّرۡنَا عَنۡهُمۡ
-  سَيِّاٰتِهِمۡ وَلَاَدۡخَلۡنٰهُمۡ جَنّٰتِ النَّعِيۡمِ‏
+arabic_ayat: وَلَوۡ أَنَّ أَهۡلَ ٱلۡكِتَٰبِ ءَامَنُواْ وَٱتَّقَوۡاْ لَكَفَّرۡنَا عَنۡهُمۡ
+  سَيِّـَٔاتِهِمۡ وَلَأَدۡخَلۡنَٰهُمۡ جَنَّٰتِ ٱلنَّعِيمِ
 sentence_translation: Had the People of the Book only been faithful and mindful ˹of
   Allah˺, We would have certainly absolved them of their sins and admitted them into
   the Gardens of Bliss.
@@ -10,27 +10,27 @@ word_by_word:
     translation: And if
     transliteration: walaw
   2:
-    arabic: اَنَّ
+    arabic: أَنَّ
     translation: that
     transliteration: anna
   3:
-    arabic: اَهۡلَ
+    arabic: أَهۡلَ
     translation: (the) People
     transliteration: ahla
   4:
-    arabic: الۡـكِتٰبِ
+    arabic: ٱلۡكِتَٰبِ ءَ
     translation: (of) the Book
     transliteration: l-kitābi
   5:
-    arabic: اٰمَنُوۡا
+    arabic: امَنُواْ
     translation: (had) believed
     transliteration: āmanū
   6:
-    arabic: وَاتَّقَوۡا
+    arabic: وَٱتَّقَوۡاْ
     translation: and feared (Allah)
     transliteration: wa-ittaqaw
   7:
-    arabic: لَـكَفَّرۡنَا
+    arabic: لَكَفَّرۡنَا
     translation: surely We (would have) removed
     transliteration: lakaffarnā
   8:
@@ -38,19 +38,19 @@ word_by_word:
     translation: from them
     transliteration: ʿanhum
   9:
-    arabic: سَيِّاٰتِهِمۡ
+    arabic: سَيِّـَٔاتِهِمۡ
     translation: their evil (deeds)
     transliteration: sayyiātihim
   10:
-    arabic: وَلَاَدۡخَلۡنٰهُمۡ
+    arabic: وَلَأَدۡخَلۡنَٰهُمۡ
     translation: and surely We (would have) admitted them
     transliteration: wala-adkhalnāhum
   11:
-    arabic: جَنّٰتِ
+    arabic: جَنَّٰتِ
     translation: (to) Gardens
     transliteration: jannāti
   12:
-    arabic: النَّعِيۡمِ‏
+    arabic: ٱلنَّعِيمِ
     translation: (of) Bliss
     transliteration: l-naʿīmi
 ---

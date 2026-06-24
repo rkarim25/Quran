@@ -1,39 +1,39 @@
 ---
-arabic_ayat: "كُلُوۡا وَاشۡرَبُوۡا هَنِيۡٓـــًٔا ۢ بِمَاۤ اَسۡلَفۡتُمۡ فِى الۡاَيَّامِ\
-  \ الۡخَـالِيَةِ‏ \uFEFF\uFEFF"
+arabic_ayat: كُلُواْ وَٱشۡرَبُواْ هَنِيٓـَٔۢا بِمَآ أَسۡلَفۡتُمۡ فِي ٱلۡأَيَّامِ
+  ٱلۡخَالِيَةِ
 sentence_translation: ˹They will be told,˺ “Eat and drink joyfully for what you did
   in the days gone by.”
 word_by_word:
   1:
-    arabic: كُلُوۡا
+    arabic: كُلُواْ
     translation: Eat
     transliteration: kulū
   2:
-    arabic: وَاشۡرَبُوۡا
+    arabic: وَٱشۡرَبُواْ
     translation: and drink
     transliteration: wa-ish'rabū
   3:
-    arabic: هَنِيۡٓـــًٔا ۢ
+    arabic: هَنِيٓـَٔۢا
     translation: (in) satisfaction
     transliteration: hanīan
   4:
-    arabic: بِمَاۤ
+    arabic: بِمَآ
     translation: for what
     transliteration: bimā
   5:
-    arabic: اَسۡلَفۡتُمۡ
+    arabic: أَسۡلَفۡتُمۡ
     translation: you sent before you
     transliteration: aslaftum
   6:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   7:
-    arabic: الۡاَيَّامِ
+    arabic: ٱلۡأَيَّامِ
     translation: the days
     transliteration: l-ayāmi
   8:
-    arabic: "الۡخَـالِيَةِ‏ \uFEFF\uFEFF"
+    arabic: ٱلۡخَالِيَةِ
     translation: past
     transliteration: l-khāliyati
 ---

@@ -1,21 +1,21 @@
 ---
-arabic_ayat: فَاَمَّا ثَمُوۡدُ فَاُهۡلِكُوۡا بِالطَّاغِيَةِ‏
+arabic_ayat: فَأَمَّا ثَمُودُ فَأُهۡلِكُواْ بِٱلطَّاغِيَةِ
 sentence_translation: As for Thamûd, they were destroyed by an overwhelming blast.
 word_by_word:
   1:
-    arabic: فَاَمَّا
+    arabic: فَأَمَّا
     translation: So as for
     transliteration: fa-ammā
   2:
-    arabic: ثَمُوۡدُ
+    arabic: ثَمُودُ
     translation: Thamud
     transliteration: thamūdu
   3:
-    arabic: فَاُهۡلِكُوۡا
+    arabic: فَأُهۡلِكُواْ
     translation: they were destroyed
     transliteration: fa-uh'likū
   4:
-    arabic: بِالطَّاغِيَةِ‏
+    arabic: بِٱلطَّاغِيَةِ
     translation: by the overpowering (blast)
     transliteration: bil-ṭāghiyati
 ---

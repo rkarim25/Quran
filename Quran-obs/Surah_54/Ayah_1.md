@@ -1,21 +1,21 @@
 ---
-arabic_ayat: اِقۡتَـرَبَتِ السَّاعَةُ وَانْشَقَّ الۡقَمَرُ‏
+arabic_ayat: ٱقۡتَرَبَتِ ٱلسَّاعَةُ وَٱنشَقَّ ٱلۡقَمَرُ
 sentence_translation: The Hour has drawn near and the moon was split ˹in two˺.
 word_by_word:
   1:
-    arabic: اِقۡتَـرَبَتِ
+    arabic: ٱقۡتَرَبَتِ
     translation: Has come near
     transliteration: iq'tarabati
   2:
-    arabic: السَّاعَةُ
+    arabic: ٱلسَّاعَةُ
     translation: the Hour
     transliteration: l-sāʿatu
   3:
-    arabic: وَانْشَقَّ
+    arabic: وَٱنشَقَّ
     translation: and has split
     transliteration: wa-inshaqqa
   4:
-    arabic: الۡقَمَرُ‏
+    arabic: ٱلۡقَمَرُ
     translation: the moon
     transliteration: l-qamaru
 ---

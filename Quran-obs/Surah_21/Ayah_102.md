@@ -1,6 +1,5 @@
 ---
-arabic_ayat: لَا يَسۡمَعُوۡنَ حَسِيۡسَهَا​ ۚ وَهُمۡ فِىۡ مَا اشۡتَهَتۡ اَنۡفُسُهُمۡ
-  خٰلِدُوۡنَ​ ۚ‏
+arabic_ayat: لَا يَسۡمَعُونَ حَسِيسَهَاۖ وَهُمۡ فِي مَا ٱشۡتَهَتۡ أَنفُسُهُمۡ خَٰلِدُونَ
 sentence_translation: not even hearing the slightest hissing from it. And they will
   delight forever in what their souls desire.
 word_by_word:
@@ -9,11 +8,11 @@ word_by_word:
     translation: Not
     transliteration: lā
   2:
-    arabic: يَسۡمَعُوۡنَ
+    arabic: يَسۡمَعُونَ
     translation: they will hear
     transliteration: yasmaʿūna
   3:
-    arabic: حَسِيۡسَهَا​ ۚ
+    arabic: حَسِيسَهَاۖ
     translation: (the) slightest sound of it
     transliteration: ḥasīsahā
   4:
@@ -21,7 +20,7 @@ word_by_word:
     translation: and they
     transliteration: wahum
   5:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   6:
@@ -29,15 +28,15 @@ word_by_word:
     translation: what
     transliteration: mā
   7:
-    arabic: اشۡتَهَتۡ
+    arabic: ٱشۡتَهَتۡ
     translation: desire
     transliteration: ish'tahat
   8:
-    arabic: اَنۡفُسُهُمۡ
+    arabic: أَنفُسُهُمۡ
     translation: their souls
     transliteration: anfusuhum
   9:
-    arabic: خٰلِدُوۡنَ​ ۚ‏
+    arabic: خَٰلِدُونَ
     translation: will abide forever
     transliteration: khālidūna
 ---

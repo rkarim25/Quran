@@ -1,28 +1,28 @@
 ---
-arabic_ayat: مِنۡ دُوۡنِ اللّٰهِ ؕ قَالُوۡا ضَلُّوۡا عَنَّا بَلْ لَّمۡ نَـكُنۡ نَّدۡعُوۡا
-  مِنۡ قَبۡلُ شَيۡــًٔـا ؕ كَذٰلِكَ يُضِلُّ اللّٰهُ الۡكٰفِرِيۡنَ‏
+arabic_ayat: مِن دُونِ ٱللَّهِۖ قَالُواْ ضَلُّواْ عَنَّا بَل لَّمۡ نَكُن نَّدۡعُواْ
+  مِن قَبۡلُ شَيۡـٔٗاۚ كَذَٰلِكَ يُضِلُّ ٱللَّهُ ٱلۡكَٰفِرِينَ
 sentence_translation: with Allah?” They will cry, “They have ˹all˺ failed us. In fact,
   we did not invoke anything ˹real˺ before.” This is how Allah leaves the disbelievers
   to stray.
 word_by_word:
   1:
-    arabic: مِنۡ
+    arabic: مِن
     translation: Other than
     transliteration: min
   2:
-    arabic: دُوۡنِ
+    arabic: دُونِ
     translation: Other than
     transliteration: dūni
   3:
-    arabic: اللّٰهِ ؕ
+    arabic: ٱللَّهِۖ
     translation: Allah
     transliteration: l-lahi
   4:
-    arabic: قَالُوۡا
+    arabic: قَالُواْ
     translation: They will say
     transliteration: qālū
   5:
-    arabic: ضَلُّوۡا
+    arabic: ضَلُّواْ
     translation: They have departed
     transliteration: ḍallū
   6:
@@ -30,7 +30,7 @@ word_by_word:
     translation: from us
     transliteration: ʿannā
   7:
-    arabic: بَلْ
+    arabic: بَل
     translation: Nay
     transliteration: bal
   8:
@@ -38,15 +38,15 @@ word_by_word:
     translation: Not
     transliteration: lam
   9:
-    arabic: نَـكُنۡ
+    arabic: نَكُن
     translation: we used to
     transliteration: nakun
   10:
-    arabic: نَّدۡعُوۡا
+    arabic: نَّدۡعُواْ
     translation: '[we] call'
     transliteration: nadʿū
   11:
-    arabic: مِنۡ
+    arabic: مِن
     translation: before
     transliteration: min
   12:
@@ -54,11 +54,11 @@ word_by_word:
     translation: before
     transliteration: qablu
   13:
-    arabic: شَيۡــًٔـا ؕ
+    arabic: شَيۡـٔٗاۚ
     translation: anything
     transliteration: shayan
   14:
-    arabic: كَذٰلِكَ
+    arabic: كَذَٰلِكَ
     translation: Thus
     transliteration: kadhālika
   15:
@@ -66,11 +66,11 @@ word_by_word:
     translation: Allah lets go astray
     transliteration: yuḍillu
   16:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah lets go astray
     transliteration: l-lahu
   17:
-    arabic: الۡكٰفِرِيۡنَ‏
+    arabic: ٱلۡكَٰفِرِينَ
     translation: the disbelievers
     transliteration: l-kāfirīna
 ---

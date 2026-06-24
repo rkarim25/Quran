@@ -1,13 +1,13 @@
 ---
-arabic_ayat: وَكِتٰبٍ مَّسۡطُوۡرٍۙ‏
+arabic_ayat: وَكِتَٰبٖ مَّسۡطُورٖ
 sentence_translation: And by the Book written
 word_by_word:
   1:
-    arabic: وَكِتٰبٍ
+    arabic: وَكِتَٰبٖ
     translation: And by (the) Book
     transliteration: wakitābin
   2:
-    arabic: مَّسۡطُوۡرٍۙ‏
+    arabic: مَّسۡطُورٖ
     translation: written
     transliteration: masṭūrin
 ---

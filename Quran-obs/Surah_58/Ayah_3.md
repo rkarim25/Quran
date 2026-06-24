@@ -1,25 +1,25 @@
 ---
-arabic_ayat: وَالَّذِيۡنَ يُظٰهِرُوۡنَ مِنۡ نِّسَآٮِٕهِمۡ ثُمَّ يَعُوۡدُوۡنَ لِمَا
-  قَالُوۡا فَتَحۡرِيۡرُ رَقَبَةٍ مِّنۡ قَبۡلِ اَنۡ يَّتَمَآسَّا​ ؕ ذٰ لِكُمۡ تُوۡعَظُوۡنَ
-  بِهٖ​ ؕ وَاللّٰهُ بِمَا تَعۡمَلُوۡنَ خَبِيۡرٌ‏
+arabic_ayat: وَٱلَّذِينَ يُظَٰهِرُونَ مِن نِّسَآئِهِمۡ ثُمَّ يَعُودُونَ لِمَا قَالُواْ
+  فَتَحۡرِيرُ رَقَبَةٖ مِّن قَبۡلِ أَن يَتَمَآسَّاۚ ذَٰلِكُمۡ تُوعَظُونَ بِهِۦۚ وَٱللَّهُ
+  بِمَا تَعۡمَلُونَ خَبِيرٞ
 sentence_translation: Those who divorce their wives in this manner, then ˹wish to˺
   retract what they said, must free a slave before they touch each other. This ˹penalty˺
   is meant to deter you. And Allah is All-Aware of what you do.
 word_by_word:
   1:
-    arabic: وَالَّذِيۡنَ
+    arabic: وَٱلَّذِينَ
     translation: And those who
     transliteration: wa-alladhīna
   2:
-    arabic: يُظٰهِرُوۡنَ
+    arabic: يُظَٰهِرُونَ
     translation: pronounce zihar
     transliteration: yuẓāhirūna
   3:
-    arabic: مِنۡ
+    arabic: مِن
     translation: '[from]'
     transliteration: min
   4:
-    arabic: نِّسَآٮِٕهِمۡ
+    arabic: نِّسَآئِهِمۡ
     translation: (to) their wives
     transliteration: nisāihim
   5:
@@ -27,7 +27,7 @@ word_by_word:
     translation: then
     transliteration: thumma
   6:
-    arabic: يَعُوۡدُوۡنَ
+    arabic: يَعُودُونَ
     translation: go back
     transliteration: yaʿūdūna
   7:
@@ -35,19 +35,19 @@ word_by_word:
     translation: on what
     transliteration: limā
   8:
-    arabic: قَالُوۡا
+    arabic: قَالُواْ
     translation: they said
     transliteration: qālū
   9:
-    arabic: فَتَحۡرِيۡرُ
+    arabic: فَتَحۡرِيرُ
     translation: then freeing
     transliteration: fataḥrīru
   10:
-    arabic: رَقَبَةٍ
+    arabic: رَقَبَةٖ
     translation: (of) a slave
     transliteration: raqabatin
   11:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: before
     transliteration: min
   12:
@@ -55,27 +55,27 @@ word_by_word:
     translation: before
     transliteration: qabli
   13:
-    arabic: اَنۡ
+    arabic: أَن
     translation: '[that]'
     transliteration: an
   14:
-    arabic: يَّتَمَآسَّا​ ؕ
+    arabic: يَتَمَآسَّاۚ
     translation: they touch each other
     transliteration: yatamāssā
   15:
-    arabic: ذٰ لِكُمۡ
+    arabic: ذَٰلِكُمۡ
     translation: That
     transliteration: dhālikum
   16:
-    arabic: تُوۡعَظُوۡنَ
+    arabic: تُوعَظُونَ
     translation: you are admonished
     transliteration: tūʿaẓūna
   17:
-    arabic: بِهٖ​ ؕ
+    arabic: بِهِۦۚ
     translation: to it
     transliteration: bihi
   18:
-    arabic: وَاللّٰهُ
+    arabic: وَٱللَّهُ
     translation: And Allah
     transliteration: wal-lahu
   19:
@@ -83,11 +83,11 @@ word_by_word:
     translation: of what
     transliteration: bimā
   20:
-    arabic: تَعۡمَلُوۡنَ
+    arabic: تَعۡمَلُونَ
     translation: you do
     transliteration: taʿmalūna
   21:
-    arabic: خَبِيۡرٌ‏
+    arabic: خَبِيرٞ
     translation: (is) All-Aware
     transliteration: khabīrun
 ---

@@ -1,11 +1,11 @@
 ---
-arabic_ayat: ذٰ لِكَ جَزَآءُ اَعۡدَآءِ اللّٰهِ النَّارُ​ ۚ لَهُمۡ فِيۡهَا دَارُ
-  الۡخُـلۡدِ​ ؕ جَزَآءًۢ بِمَا كَانُوۡا بِاٰيٰتِنَا يَجۡحَدُوۡنَ‏
+arabic_ayat: ذَٰلِكَ جَزَآءُ أَعۡدَآءِ ٱللَّهِ ٱلنَّارُۖ لَهُمۡ فِيهَا دَارُ ٱلۡخُلۡدِ
+  جَزَآءَۢ بِمَا كَانُواْ بِـَٔايَٰتِنَا يَجۡحَدُونَ
 sentence_translation: 'That is the reward of Allah’s enemies: the Fire, which will
   be their eternal home—a ˹fitting˺ reward for their denial of Our revelations.'
 word_by_word:
   1:
-    arabic: ذٰ لِكَ
+    arabic: ذَٰلِكَ
     translation: That
     transliteration: dhālika
   2:
@@ -13,15 +13,15 @@ word_by_word:
     translation: (is the) recompense
     transliteration: jazāu
   3:
-    arabic: اَعۡدَآءِ
+    arabic: أَعۡدَآءِ
     translation: (of the) enemies
     transliteration: aʿdāi
   4:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: '(of) Allah '
     transliteration: l-lahi
   5:
-    arabic: النَّارُ​ ۚ
+    arabic: ٱلنَّارُۖ
     translation: the Fire
     transliteration: l-nāru
   6:
@@ -29,7 +29,7 @@ word_by_word:
     translation: for them
     transliteration: lahum
   7:
-    arabic: فِيۡهَا
+    arabic: فِيهَا
     translation: therein
     transliteration: fīhā
   8:
@@ -37,11 +37,11 @@ word_by_word:
     translation: (is the) home
     transliteration: dāru
   9:
-    arabic: الۡخُـلۡدِ​ ؕ
+    arabic: ٱلۡخُلۡدِ
     translation: (of) the eternity
     transliteration: l-khul'di
   10:
-    arabic: جَزَآءًۢ
+    arabic: جَزَآءَۢ
     translation: (as) recompense
     transliteration: jazāan
   11:
@@ -49,15 +49,15 @@ word_by_word:
     translation: for what
     transliteration: bimā
   12:
-    arabic: كَانُوۡا
+    arabic: كَانُواْ
     translation: they used to
     transliteration: kānū
   13:
-    arabic: بِاٰيٰتِنَا
+    arabic: بِـَٔايَٰتِنَا
     translation: of Our Verses
     transliteration: biāyātinā
   14:
-    arabic: يَجۡحَدُوۡنَ‏
+    arabic: يَجۡحَدُونَ
     translation: reject
     transliteration: yajḥadūna
 ---

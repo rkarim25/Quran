@@ -1,23 +1,23 @@
 ---
-arabic_ayat: تِلۡكَ اٰيٰتُ اللّٰهِ نَـتۡلُوۡهَا عَلَيۡكَ بِالۡحَقِّ​ ​ۚ فَبِاَىِّ
-  حَدِيۡثٍۢ بَعۡدَ اللّٰهِ وَاٰيٰتِهٖ يُؤۡمِنُوۡنَ‏
+arabic_ayat: تِلۡكَ ءَايَٰتُ ٱللَّهِ نَتۡلُوهَا عَلَيۡكَ بِٱلۡحَقِّۖ فَبِأَيِّ حَدِيثِۭ
+  بَعۡدَ ٱللَّهِ وَءَايَٰتِهِۦ يُؤۡمِنُونَ
 sentence_translation: These are Allah’s revelations which We recite to you ˹O Prophet˺
   in truth. So what message will they believe in after ˹denying˺ Allah and His revelations?
 word_by_word:
   1:
-    arabic: تِلۡكَ
+    arabic: تِلۡكَ ءَ
     translation: These
     transliteration: til'ka
   2:
-    arabic: اٰيٰتُ
+    arabic: ايَٰتُ
     translation: (are the) Verses
     transliteration: āyātu
   3:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (of) Allah
     transliteration: l-lahi
   4:
-    arabic: نَـتۡلُوۡهَا
+    arabic: نَتۡلُوهَا
     translation: We recite them
     transliteration: natlūhā
   5:
@@ -25,15 +25,15 @@ word_by_word:
     translation: to you
     transliteration: ʿalayka
   6:
-    arabic: بِالۡحَقِّ​ ​ۚ
+    arabic: بِٱلۡحَقِّۖ
     translation: in truth
     transliteration: bil-ḥaqi
   7:
-    arabic: فَبِاَىِّ
+    arabic: فَبِأَيِّ
     translation: Then in what
     transliteration: fabi-ayyi
   8:
-    arabic: حَدِيۡثٍۢ
+    arabic: حَدِيثِۭ
     translation: statement
     transliteration: ḥadīthin
   9:
@@ -41,15 +41,15 @@ word_by_word:
     translation: after
     transliteration: baʿda
   10:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   11:
-    arabic: وَاٰيٰتِهٖ
+    arabic: وَءَايَٰتِهِۦ
     translation: and His Verses
     transliteration: waāyātihi
   12:
-    arabic: يُؤۡمِنُوۡنَ‏
+    arabic: يُؤۡمِنُونَ
     translation: will they believe
     transliteration: yu'minūna
 ---

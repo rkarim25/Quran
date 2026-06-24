@@ -1,5 +1,5 @@
 ---
-arabic_ayat: قَالَ اِنِّىۡ لِعَمَلِكُمۡ مِّنَ الۡقَالِيۡنَؕ‏
+arabic_ayat: قَالَ إِنِّي لِعَمَلِكُم مِّنَ ٱلۡقَالِينَ
 sentence_translation: Lot responded, “I am truly one of those who despise your ˹shameful˺
   practice.
 word_by_word:
@@ -8,11 +8,11 @@ word_by_word:
     translation: He said
     transliteration: qāla
   2:
-    arabic: اِنِّىۡ
+    arabic: إِنِّي
     translation: Indeed, I am
     transliteration: innī
   3:
-    arabic: لِعَمَلِكُمۡ
+    arabic: لِعَمَلِكُم
     translation: (of) your deed
     transliteration: liʿamalikum
   4:
@@ -20,7 +20,7 @@ word_by_word:
     translation: of
     transliteration: mina
   5:
-    arabic: الۡقَالِيۡنَؕ‏
+    arabic: ٱلۡقَالِينَ
     translation: those who detest
     transliteration: l-qālīna
 ---

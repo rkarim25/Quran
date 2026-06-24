@@ -1,11 +1,10 @@
 ---
-arabic_ayat: "وَقُلْ رَّبِّ اَنۡزِلۡنِىۡ مُنۡزَلًا مُّبٰـرَكًا وَّاَنۡتَ خَيۡرُ الۡمُنۡزِلِيۡنَ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: وَقُل رَّبِّ أَنزِلۡنِي مُنزَلٗا مُّبَارَكٗا وَأَنتَ خَيۡرُ ٱلۡمُنزِلِينَ
 sentence_translation: And pray, “My Lord! Allow me a blessed landing, for You are
   the best accommodator.”
 word_by_word:
   1:
-    arabic: وَقُلْ
+    arabic: وَقُل
     translation: And say
     transliteration: waqul
   2:
@@ -13,19 +12,19 @@ word_by_word:
     translation: My Lord
     transliteration: rabbi
   3:
-    arabic: اَنۡزِلۡنِىۡ
+    arabic: أَنزِلۡنِي
     translation: cause me to land
     transliteration: anzil'nī
   4:
-    arabic: مُنۡزَلًا
+    arabic: مُنزَلٗا
     translation: (at) a landing place
     transliteration: munzalan
   5:
-    arabic: مُّبٰـرَكًا
+    arabic: مُّبَارَكٗا
     translation: blessed
     transliteration: mubārakan
   6:
-    arabic: وَّاَنۡتَ
+    arabic: وَأَنتَ
     translation: and You
     transliteration: wa-anta
   7:
@@ -33,7 +32,7 @@ word_by_word:
     translation: (are) the Best
     transliteration: khayru
   8:
-    arabic: "الۡمُنۡزِلِيۡنَ‏ \uFEFF\uFEFF"
+    arabic: ٱلۡمُنزِلِينَ
     translation: (of) those who cause to land.'
     transliteration: l-munzilīna
 ---

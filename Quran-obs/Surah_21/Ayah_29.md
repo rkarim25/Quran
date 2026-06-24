@@ -1,15 +1,15 @@
 ---
-arabic_ayat: وَمَنۡ يَّقُلۡ مِنۡهُمۡ اِنِّىۡۤ اِلٰـهٌ مِّنۡ دُوۡنِهٖ فَذٰلِكَ نَجۡزِيۡهِ
-  جَهَـنَّمَ​ؕ كَذٰلِكَ نَجۡزِى الظّٰلِمِيۡنَ‏
+arabic_ayat: ۞ وَمَن يَقُلۡ مِنۡهُمۡ إِنِّيٓ إِلَٰهٞ مِّن دُونِهِۦ فَذَٰلِكَ نَجۡزِيهِ
+  جَهَنَّمَۚ كَذَٰلِكَ نَجۡزِي ٱلظَّٰلِمِينَ
 sentence_translation: Whoever of them were to say, “I am a god besides Him,” they
   would be rewarded with Hell by Us. This is how We reward the wrongdoers.
 word_by_word:
   1:
-    arabic: ۞ وَمَنۡ
+    arabic: ۞ وَمَن
     translation: And whoever
     transliteration: waman
   2:
-    arabic: يَّقُلۡ
+    arabic: يَقُلۡ
     translation: says
     transliteration: yaqul
   3:
@@ -17,43 +17,43 @@ word_by_word:
     translation: of them
     transliteration: min'hum
   4:
-    arabic: اِنِّىۡۤ
+    arabic: إِنِّيٓ
     translation: Indeed, I am
     transliteration: innī
   5:
-    arabic: اِلٰـهٌ
+    arabic: إِلَٰهٞ
     translation: a god
     transliteration: ilāhun
   6:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: besides Him
     transliteration: min
   7:
-    arabic: دُوۡنِهٖ
+    arabic: دُونِهِۦ
     translation: besides Him
     transliteration: dūnihi
   8:
-    arabic: فَذٰلِكَ
+    arabic: فَذَٰلِكَ
     translation: Then that
     transliteration: fadhālika
   9:
-    arabic: نَجۡزِيۡهِ
+    arabic: نَجۡزِيهِ
     translation: We will recompense
     transliteration: najzīhi
   10:
-    arabic: جَهَـنَّمَ​ؕ
+    arabic: جَهَنَّمَۚ
     translation: (with) Hell
     transliteration: jahannama
   11:
-    arabic: كَذٰلِكَ
+    arabic: كَذَٰلِكَ
     translation: Thus
     transliteration: kadhālika
   12:
-    arabic: نَجۡزِى
+    arabic: نَجۡزِي
     translation: We recompense
     transliteration: najzī
   13:
-    arabic: الظّٰلِمِيۡنَ‏
+    arabic: ٱلظَّٰلِمِينَ
     translation: the wrongdoers
     transliteration: l-ẓālimīna
 ---

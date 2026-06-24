@@ -1,33 +1,33 @@
 ---
-arabic_ayat: اِنَّ الَّذِيۡنَ فَرَّقُوۡا دِيۡنَهُمۡ وَكَانُوۡا شِيَـعًا لَّسۡتَ مِنۡهُمۡ
-  فِىۡ شَىۡءٍ​ ؕ اِنَّمَاۤ اَمۡرُهُمۡ اِلَى اللّٰهِ ثُمَّ يُنَـبِّـئُـهُمۡ بِمَا كَانُوۡا
-  يَفۡعَلُوۡنَ‏
+arabic_ayat: إِنَّ ٱلَّذِينَ فَرَّقُواْ دِينَهُمۡ وَكَانُواْ شِيَعٗا لَّسۡتَ مِنۡهُمۡ
+  فِي شَيۡءٍۚ إِنَّمَآ أَمۡرُهُمۡ إِلَى ٱللَّهِ ثُمَّ يُنَبِّئُهُم بِمَا كَانُواْ
+  يَفۡعَلُونَ
 sentence_translation: Indeed, you ˹O Prophet˺ are not responsible whatsoever for those
   who have divided their faith and split into sects. Their judgment rests only with
   Allah. And He will inform them of what they used to do.
 word_by_word:
   1:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   3:
-    arabic: فَرَّقُوۡا
+    arabic: فَرَّقُواْ
     translation: divide
     transliteration: farraqū
   4:
-    arabic: دِيۡنَهُمۡ
+    arabic: دِينَهُمۡ
     translation: their religion
     transliteration: dīnahum
   5:
-    arabic: وَكَانُوۡا
+    arabic: وَكَانُواْ
     translation: and become
     transliteration: wakānū
   6:
-    arabic: شِيَـعًا
+    arabic: شِيَعٗا
     translation: sects
     transliteration: shiyaʿan
   7:
@@ -39,27 +39,27 @@ word_by_word:
     translation: with them
     transliteration: min'hum
   9:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   10:
-    arabic: شَىۡءٍ​ ؕ
+    arabic: شَيۡءٍۚ
     translation: anything
     transliteration: shayin
   11:
-    arabic: اِنَّمَاۤ
+    arabic: إِنَّمَآ
     translation: Only
     transliteration: innamā
   12:
-    arabic: اَمۡرُهُمۡ
+    arabic: أَمۡرُهُمۡ
     translation: their affair
     transliteration: amruhum
   13:
-    arabic: اِلَى
+    arabic: إِلَى
     translation: (is) with
     transliteration: ilā
   14:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   15:
@@ -67,7 +67,7 @@ word_by_word:
     translation: then
     transliteration: thumma
   16:
-    arabic: يُنَـبِّـئُـهُمۡ
+    arabic: يُنَبِّئُهُم
     translation: He will inform them
     transliteration: yunabbi-uhum
   17:
@@ -75,11 +75,11 @@ word_by_word:
     translation: of what
     transliteration: bimā
   18:
-    arabic: كَانُوۡا
+    arabic: كَانُواْ
     translation: they used to
     transliteration: kānū
   19:
-    arabic: يَفۡعَلُوۡنَ‏
+    arabic: يَفۡعَلُونَ
     translation: do
     transliteration: yafʿalūna
 ---

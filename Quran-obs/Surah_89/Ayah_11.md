@@ -1,21 +1,21 @@
 ---
-arabic_ayat: الَّذِيۡنَ طَغَوۡا فِى الۡبِلَادِۙ‏
+arabic_ayat: ٱلَّذِينَ طَغَوۡاْ فِي ٱلۡبِلَٰدِ
 sentence_translation: They all transgressed throughout the land,
 word_by_word:
   1:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: Who
     transliteration: alladhīna
   2:
-    arabic: طَغَوۡا
+    arabic: طَغَوۡاْ
     translation: transgressed
     transliteration: ṭaghaw
   3:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   4:
-    arabic: الۡبِلَادِۙ‏
+    arabic: ٱلۡبِلَٰدِ
     translation: the lands
     transliteration: l-bilādi
 ---

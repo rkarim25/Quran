@@ -1,13 +1,13 @@
 ---
-arabic_ayat: وَيٰقَوۡمِ لَا يَجۡرِمَنَّكُمۡ شِقَاقِىۡۤ اَنۡ يُّصِيۡبَكُمۡ مِّثۡلُ
-  مَاۤ اَصَابَ قَوۡمَ نُوۡحٍ اَوۡ قَوۡمَ هُوۡدٍ اَوۡ قَوۡمَ صٰلِحٍ​ؕ وَمَا قَوۡمُ
-  لُوۡطٍ مِّنۡكُمۡ بِبَعِيۡدٍ‏
+arabic_ayat: وَيَٰقَوۡمِ لَا يَجۡرِمَنَّكُمۡ شِقَاقِيٓ أَن يُصِيبَكُم مِّثۡلُ مَآ
+  أَصَابَ قَوۡمَ نُوحٍ أَوۡ قَوۡمَ هُودٍ أَوۡ قَوۡمَ صَٰلِحٖۚ وَمَا قَوۡمُ لُوطٖ مِّنكُم
+  بِبَعِيدٖ
 sentence_translation: O  my people! Do not let your opposition to me lead you to a
   fate similar to that of the people of Noah, or Hûd, or Ṣâliḥ. And the people of
   Lot are not far from you.
 word_by_word:
   1:
-    arabic: وَيٰقَوۡمِ
+    arabic: وَيَٰقَوۡمِ
     translation: And O my people
     transliteration: wayāqawmi
   2:
@@ -19,15 +19,15 @@ word_by_word:
     translation: (Let) not cause you to sin
     transliteration: yajrimannakum
   4:
-    arabic: شِقَاقِىۡۤ
+    arabic: شِقَاقِيٓ
     translation: my dissension
     transliteration: shiqāqī
   5:
-    arabic: اَنۡ
+    arabic: أَن
     translation: lest
     transliteration: an
   6:
-    arabic: يُّصِيۡبَكُمۡ
+    arabic: يُصِيبَكُم
     translation: befalls you
     transliteration: yuṣībakum
   7:
@@ -35,11 +35,11 @@ word_by_word:
     translation: similar
     transliteration: mith'lu
   8:
-    arabic: مَاۤ
+    arabic: مَآ
     translation: (to) what
     transliteration: mā
   9:
-    arabic: اَصَابَ
+    arabic: أَصَابَ
     translation: befell
     transliteration: aṣāba
   10:
@@ -47,11 +47,11 @@ word_by_word:
     translation: (the) people of Nuh
     transliteration: qawma
   11:
-    arabic: نُوۡحٍ
+    arabic: نُوحٍ
     translation: (the) people of Nuh
     transliteration: nūḥin
   12:
-    arabic: اَوۡ
+    arabic: أَوۡ
     translation: or
     transliteration: aw
   13:
@@ -59,11 +59,11 @@ word_by_word:
     translation: (the) people of Hud
     transliteration: qawma
   14:
-    arabic: هُوۡدٍ
+    arabic: هُودٍ
     translation: (the) people of Hud
     transliteration: hūdin
   15:
-    arabic: اَوۡ
+    arabic: أَوۡ
     translation: or
     transliteration: aw
   16:
@@ -71,7 +71,7 @@ word_by_word:
     translation: people of Salih
     transliteration: qawma
   17:
-    arabic: صٰلِحٍ​ؕ
+    arabic: صَٰلِحٖۚ
     translation: people of Salih
     transliteration: ṣāliḥin
   18:
@@ -83,15 +83,15 @@ word_by_word:
     translation: (are the) people of Lut
     transliteration: qawmu
   20:
-    arabic: لُوۡطٍ
+    arabic: لُوطٖ
     translation: (are the) people of Lut
     transliteration: lūṭin
   21:
-    arabic: مِّنۡكُمۡ
+    arabic: مِّنكُم
     translation: from you
     transliteration: minkum
   22:
-    arabic: بِبَعِيۡدٍ‏
+    arabic: بِبَعِيدٖ
     translation: far off
     transliteration: bibaʿīdin
 ---

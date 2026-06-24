@@ -1,6 +1,6 @@
 ---
-arabic_ayat: وَلَا تَقُوۡلُوۡا لِمَنۡ يُّقۡتَلُ فِىۡ سَبِيۡلِ اللّٰهِ اَمۡوَاتٌ ؕ
-  بَلۡ اَحۡيَآءٌ وَّلٰـكِنۡ لَّا تَشۡعُرُوۡنَ‏
+arabic_ayat: وَلَا تَقُولُواْ لِمَن يُقۡتَلُ فِي سَبِيلِ ٱللَّهِ أَمۡوَٰتُۢۚ بَلۡ
+  أَحۡيَآءٞ وَلَٰكِن لَّا تَشۡعُرُونَ
 sentence_translation: Never say that those martyred in the cause of Allah are dead—in
   fact, they are alive! But you do not perceive it.
 word_by_word:
@@ -9,31 +9,31 @@ word_by_word:
     translation: And (do) not
     transliteration: walā
   2:
-    arabic: تَقُوۡلُوۡا
+    arabic: تَقُولُواْ
     translation: say
     transliteration: taqūlū
   3:
-    arabic: لِمَنۡ
+    arabic: لِمَن
     translation: for (the ones) who
     transliteration: liman
   4:
-    arabic: يُّقۡتَلُ
+    arabic: يُقۡتَلُ
     translation: are slain
     transliteration: yuq'talu
   5:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   6:
-    arabic: سَبِيۡلِ
+    arabic: سَبِيلِ
     translation: (the) way
     transliteration: sabīli
   7:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (of) Allah
     transliteration: l-lahi
   8:
-    arabic: اَمۡوَاتٌ ؕ
+    arabic: أَمۡوَٰتُۢۚ
     translation: (They are) dead
     transliteration: amwātun
   9:
@@ -41,11 +41,11 @@ word_by_word:
     translation: Nay
     transliteration: bal
   10:
-    arabic: اَحۡيَآءٌ
+    arabic: أَحۡيَآءٞ
     translation: (they are) alive
     transliteration: aḥyāon
   11:
-    arabic: وَّلٰـكِنۡ
+    arabic: وَلَٰكِن
     translation: '[and] but'
     transliteration: walākin
   12:
@@ -53,7 +53,7 @@ word_by_word:
     translation: you (do) not
     transliteration: lā
   13:
-    arabic: تَشۡعُرُوۡنَ‏
+    arabic: تَشۡعُرُونَ
     translation: perceive
     transliteration: tashʿurūna
 ---

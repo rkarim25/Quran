@@ -1,6 +1,5 @@
 ---
-arabic_ayat: وَتِلۡكَ نِعۡمَةٌ تَمُنُّهَا عَلَىَّ اَنۡ عَبَّدْتَّ بَنِىۡۤ اِسۡرَآءِيۡلَ
-  ؕ‏
+arabic_ayat: وَتِلۡكَ نِعۡمَةٞ تَمُنُّهَا عَلَيَّ أَنۡ عَبَّدتَّ بَنِيٓ إِسۡرَٰٓءِيلَ
 sentence_translation: How can that be a ‘favour,’ of which you remind me, when ˹it
   was only because˺ you ˹have˺ enslaved the Children of Israel?”
 word_by_word:
@@ -9,7 +8,7 @@ word_by_word:
     translation: And this
     transliteration: watil'ka
   2:
-    arabic: نِعۡمَةٌ
+    arabic: نِعۡمَةٞ
     translation: (is the) favor
     transliteration: niʿ'matun
   3:
@@ -17,23 +16,23 @@ word_by_word:
     translation: with which you reproach
     transliteration: tamunnuhā
   4:
-    arabic: عَلَىَّ
+    arabic: عَلَيَّ
     translation: '[on] me'
     transliteration: ʿalayya
   5:
-    arabic: اَنۡ
+    arabic: أَنۡ
     translation: that
     transliteration: an
   6:
-    arabic: عَبَّدْتَّ
+    arabic: عَبَّدتَّ
     translation: you have enslaved
     transliteration: ʿabbadtta
   7:
-    arabic: بَنِىۡۤ
+    arabic: بَنِيٓ
     translation: (the) Children of Israel
     transliteration: banī
   8:
-    arabic: اِسۡرَآءِيۡلَ ؕ‏
+    arabic: إِسۡرَٰٓءِيلَ
     translation: (the) Children of Israel
     transliteration: is'rāīla
 ---

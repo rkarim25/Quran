@@ -1,5 +1,5 @@
 ---
-arabic_ayat: سَبِّحِ اسۡمَ رَبِّكَ الۡاَعۡلَىۙ‏
+arabic_ayat: سَبِّحِ ٱسۡمَ رَبِّكَ ٱلۡأَعۡلَى
 sentence_translation: Glorify the Name of your Lord, the Most High,
 word_by_word:
   1:
@@ -7,7 +7,7 @@ word_by_word:
     translation: Glorify
     transliteration: sabbiḥi
   2:
-    arabic: اسۡمَ
+    arabic: ٱسۡمَ
     translation: (the) name
     transliteration: is'ma
   3:
@@ -15,7 +15,7 @@ word_by_word:
     translation: (of) your Lord
     transliteration: rabbika
   4:
-    arabic: الۡاَعۡلَىۙ‏
+    arabic: ٱلۡأَعۡلَى
     translation: the Most High
     transliteration: l-aʿlā
 ---

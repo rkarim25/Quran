@@ -1,14 +1,14 @@
 ---
-arabic_ayat: عَلٰٓى اَنۡ نُّبَدِّلَ خَيۡرًا مِّنۡهُمۡۙ وَمَا نَحۡنُ بِمَسۡبُوۡقِيۡنَ‏
+arabic_ayat: عَلَىٰٓ أَن نُّبَدِّلَ خَيۡرٗا مِّنۡهُمۡ وَمَا نَحۡنُ بِمَسۡبُوقِينَ
 sentence_translation: of replacing them with ˹others˺ better than them, and We cannot
   be prevented ˹from doing so˺.
 word_by_word:
   1:
-    arabic: عَلٰٓى
+    arabic: عَلَىٰٓ
     translation: '[On]'
     transliteration: ʿalā
   2:
-    arabic: اَنۡ
+    arabic: أَن
     translation: to
     transliteration: an
   3:
@@ -16,11 +16,11 @@ word_by_word:
     translation: '[We] replace'
     transliteration: nubaddila
   4:
-    arabic: خَيۡرًا
+    arabic: خَيۡرٗا
     translation: (with) better
     transliteration: khayran
   5:
-    arabic: مِّنۡهُمۡۙ
+    arabic: مِّنۡهُمۡ
     translation: than them
     transliteration: min'hum
   6:
@@ -32,7 +32,7 @@ word_by_word:
     translation: We
     transliteration: naḥnu
   8:
-    arabic: بِمَسۡبُوۡقِيۡنَ‏
+    arabic: بِمَسۡبُوقِينَ
     translation: (are) to be outrun
     transliteration: bimasbūqīna
 ---

@@ -1,22 +1,22 @@
 ---
-arabic_ayat: هٰذَا ذِكۡرٌ​ؕ وَاِنَّ لِلۡمُتَّقِيۡنَ لَحُسۡنَ مَاٰبٍۙ‏
+arabic_ayat: هَٰذَا ذِكۡرٞۚ وَإِنَّ لِلۡمُتَّقِينَ لَحُسۡنَ مَـَٔابٖ
 sentence_translation: 'This is ˹all˺ a reminder. And the righteous will certainly
   have an honourable destination:'
 word_by_word:
   1:
-    arabic: هٰذَا
+    arabic: هَٰذَا
     translation: This
     transliteration: hādhā
   2:
-    arabic: ذِكۡرٌ​ؕ
+    arabic: ذِكۡرٞۚ
     translation: (is) a Reminder
     transliteration: dhik'run
   3:
-    arabic: وَاِنَّ
+    arabic: وَإِنَّ
     translation: And indeed
     transliteration: wa-inna
   4:
-    arabic: لِلۡمُتَّقِيۡنَ
+    arabic: لِلۡمُتَّقِينَ
     translation: for the righteous
     transliteration: lil'muttaqīna
   5:
@@ -24,7 +24,7 @@ word_by_word:
     translation: surely, is a good
     transliteration: laḥus'na
   6:
-    arabic: مَاٰبٍۙ‏
+    arabic: مَـَٔابٖ
     translation: place of return
     transliteration: maābin
 ---

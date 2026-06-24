@@ -1,11 +1,11 @@
 ---
-arabic_ayat: اِنَّ مَثَلَ عِيۡسٰى عِنۡدَ اللّٰهِ كَمَثَلِ اٰدَمَ​ؕ خَلَقَهٗ مِنۡ تُرَابٍ
-  ثُمَّ قَالَ لَهٗ كُنۡ فَيَكُوۡنُ‏
+arabic_ayat: إِنَّ مَثَلَ عِيسَىٰ عِندَ ٱللَّهِ كَمَثَلِ ءَادَمَۖ خَلَقَهُۥ مِن تُرَابٖ
+  ثُمَّ قَالَ لَهُۥ كُن فَيَكُونُ
 sentence_translation: Indeed, the example of Jesus in the sight of Allah is like that
   of Adam. He created him from dust, then said to him, “Be!” And he was!
 word_by_word:
   1:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   2:
@@ -13,35 +13,35 @@ word_by_word:
     translation: (the) likeness
     transliteration: mathala
   3:
-    arabic: عِيۡسٰى
+    arabic: عِيسَىٰ
     translation: (of) Isa
     transliteration: ʿīsā
   4:
-    arabic: عِنۡدَ
+    arabic: عِندَ
     translation: near
     transliteration: ʿinda
   5:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   6:
-    arabic: كَمَثَلِ
+    arabic: كَمَثَلِ ءَ
     translation: (is) like (the) likeness
     transliteration: kamathali
   7:
-    arabic: اٰدَمَ​ؕ
+    arabic: ادَمَۖ
     translation: (of) Adam
     transliteration: ādama
   8:
-    arabic: خَلَقَهٗ
+    arabic: خَلَقَهُۥ
     translation: He created him
     transliteration: khalaqahu
   9:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   10:
-    arabic: تُرَابٍ
+    arabic: تُرَابٖ
     translation: dust
     transliteration: turābin
   11:
@@ -53,15 +53,15 @@ word_by_word:
     translation: He said
     transliteration: qāla
   13:
-    arabic: لَهٗ
+    arabic: لَهُۥ
     translation: to him
     transliteration: lahu
   14:
-    arabic: كُنۡ
+    arabic: كُن
     translation: Be
     transliteration: kun
   15:
-    arabic: فَيَكُوۡنُ‏
+    arabic: فَيَكُونُ
     translation: and he was
     transliteration: fayakūnu
 ---

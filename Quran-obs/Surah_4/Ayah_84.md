@@ -1,25 +1,25 @@
 ---
-arabic_ayat: فَقَاتِلۡ فِىۡ سَبِيۡلِ اللّٰهِ​ ۚ لَا تُكَلَّفُ اِلَّا نَـفۡسَكَ​ وَحَرِّضِ
-  الۡمُؤۡمِنِيۡنَ​ ۚ عَسَے اللّٰهُ اَنۡ يَّكُفَّ بَاۡسَ الَّذِيۡنَ كَفَرُوۡا​ ؕ وَاللّٰهُ
-  اَشَدُّ بَاۡسًا وَّاَشَدُّ تَـنۡكِيۡلًا‏
+arabic_ayat: فَقَٰتِلۡ فِي سَبِيلِ ٱللَّهِ لَا تُكَلَّفُ إِلَّا نَفۡسَكَۚ وَحَرِّضِ
+  ٱلۡمُؤۡمِنِينَۖ عَسَى ٱللَّهُ أَن يَكُفَّ بَأۡسَ ٱلَّذِينَ كَفَرُواْۚ وَٱللَّهُ
+  أَشَدُّ بَأۡسٗا وَأَشَدُّ تَنكِيلٗا
 sentence_translation: So fight in the cause of Allah ˹O Prophet˺. You are accountable
   for none but yourself. And motivate the believers ˹to fight˺, so perhaps Allah will
   curb the disbelievers’ might. And Allah is far superior in might and in punishment.
 word_by_word:
   1:
-    arabic: فَقَاتِلۡ
+    arabic: فَقَٰتِلۡ
     translation: So fight
     transliteration: faqātil
   2:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   3:
-    arabic: سَبِيۡلِ
+    arabic: سَبِيلِ
     translation: (the) way
     transliteration: sabīli
   4:
-    arabic: اللّٰهِ​ ۚ
+    arabic: ٱللَّهِ
     translation: (of) Allah
     transliteration: l-lahi
   5:
@@ -31,11 +31,11 @@ word_by_word:
     translation: are you responsible
     transliteration: tukallafu
   7:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   8:
-    arabic: نَـفۡسَكَ​
+    arabic: نَفۡسَكَۚ
     translation: (for) yourself
     transliteration: nafsaka
   9:
@@ -43,55 +43,55 @@ word_by_word:
     translation: And encourage
     transliteration: waḥarriḍi
   10:
-    arabic: الۡمُؤۡمِنِيۡنَ​ ۚ
+    arabic: ٱلۡمُؤۡمِنِينَۖ
     translation: the believers
     transliteration: l-mu'minīna
   11:
-    arabic: عَسَے
+    arabic: عَسَى
     translation: perhaps
     transliteration: ʿasā
   12:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   13:
-    arabic: اَنۡ
+    arabic: أَن
     translation: will
     transliteration: an
   14:
-    arabic: يَّكُفَّ
+    arabic: يَكُفَّ
     translation: restrain
     transliteration: yakuffa
   15:
-    arabic: بَاۡسَ
+    arabic: بَأۡسَ
     translation: (the) might
     transliteration: basa
   16:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: (of) those who
     transliteration: alladhīna
   17:
-    arabic: كَفَرُوۡا​ ؕ
+    arabic: كَفَرُواْۚ
     translation: disbelieved
     transliteration: kafarū
   18:
-    arabic: وَاللّٰهُ
+    arabic: وَٱللَّهُ
     translation: And Allah
     transliteration: wal-lahu
   19:
-    arabic: اَشَدُّ
+    arabic: أَشَدُّ
     translation: (is) Stronger
     transliteration: ashaddu
   20:
-    arabic: بَاۡسًا
+    arabic: بَأۡسٗا
     translation: (in) Might
     transliteration: basan
   21:
-    arabic: وَّاَشَدُّ
+    arabic: وَأَشَدُّ
     translation: and Stronger
     transliteration: wa-ashaddu
   22:
-    arabic: تَـنۡكِيۡلًا‏
+    arabic: تَنكِيلٗا
     translation: (in) punishment
     transliteration: tankīlan
 ---

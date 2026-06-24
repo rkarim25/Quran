@@ -1,6 +1,6 @@
 ---
-arabic_ayat: قَالَ مَعَاذَ اللّٰهِ اَنۡ نَّاۡخُذَ اِلَّا مَنۡ وَّجَدۡنَا مَتَاعَنَا
-  عِنۡدَهٗۤ ۙ اِنَّاۤ اِذًا لَّظٰلِمُوۡنَ‏
+arabic_ayat: قَالَ مَعَاذَ ٱللَّهِ أَن نَّأۡخُذَ إِلَّا مَن وَجَدۡنَا مَتَٰعَنَا عِندَهُۥٓ
+  إِنَّآ إِذٗا لَّظَٰلِمُونَ
 sentence_translation: Joseph responded, “Allah forbid that we should take other than
   the one with whom we found our property. Otherwise, we would surely be unjust.”
 word_by_word:
@@ -13,47 +13,47 @@ word_by_word:
     translation: Allah forbid
     transliteration: maʿādha
   3:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah forbid
     transliteration: l-lahi
   4:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that
     transliteration: an
   5:
-    arabic: نَّاۡخُذَ
+    arabic: نَّأۡخُذَ
     translation: we take
     transliteration: nakhudha
   6:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   7:
-    arabic: مَنۡ
+    arabic: مَن
     translation: (one) who
     transliteration: man
   8:
-    arabic: وَّجَدۡنَا
+    arabic: وَجَدۡنَا
     translation: we found
     transliteration: wajadnā
   9:
-    arabic: مَتَاعَنَا
+    arabic: مَتَٰعَنَا
     translation: our possession
     transliteration: matāʿanā
   10:
-    arabic: عِنۡدَهٗۤ ۙ
+    arabic: عِندَهُۥٓ
     translation: with him
     transliteration: ʿindahu
   11:
-    arabic: اِنَّاۤ
+    arabic: إِنَّآ
     translation: Indeed, we
     transliteration: innā
   12:
-    arabic: اِذًا
+    arabic: إِذٗا
     translation: then
     transliteration: idhan
   13:
-    arabic: لَّظٰلِمُوۡنَ‏
+    arabic: لَّظَٰلِمُونَ
     translation: surely (would be) wrongdoers
     transliteration: laẓālimūna
 ---

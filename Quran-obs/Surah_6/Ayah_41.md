@@ -1,6 +1,6 @@
 ---
-arabic_ayat: بَلۡ اِيَّاهُ تَدۡعُوۡنَ فَيَكۡشِفُ مَا تَدۡعُوۡنَ اِلَيۡهِ اِنۡ شَآءَ
-  وَتَنۡسَوۡنَ مَا تُشۡرِكُوۡنَ‏
+arabic_ayat: بَلۡ إِيَّاهُ تَدۡعُونَ فَيَكۡشِفُ مَا تَدۡعُونَ إِلَيۡهِ إِن شَآءَ
+  وَتَنسَوۡنَ مَا تُشۡرِكُونَ
 sentence_translation: No! He is the only One you would call. And if He willed, He
   could remove the affliction that made you invoke Him. Only then will you forget
   whatever you associate with Him ˹in worship˺.”
@@ -10,11 +10,11 @@ word_by_word:
     translation: Nay
     transliteration: bal
   2:
-    arabic: اِيَّاهُ
+    arabic: إِيَّاهُ
     translation: Him Alone
     transliteration: iyyāhu
   3:
-    arabic: تَدۡعُوۡنَ
+    arabic: تَدۡعُونَ
     translation: you call
     transliteration: tadʿūna
   4:
@@ -26,15 +26,15 @@ word_by_word:
     translation: what
     transliteration: mā
   6:
-    arabic: تَدۡعُوۡنَ
+    arabic: تَدۡعُونَ
     translation: you call
     transliteration: tadʿūna
   7:
-    arabic: اِلَيۡهِ
+    arabic: إِلَيۡهِ
     translation: upon Him
     transliteration: ilayhi
   8:
-    arabic: اِنۡ
+    arabic: إِن
     translation: if
     transliteration: in
   9:
@@ -42,7 +42,7 @@ word_by_word:
     translation: He wills
     transliteration: shāa
   10:
-    arabic: وَتَنۡسَوۡنَ
+    arabic: وَتَنسَوۡنَ
     translation: and you will forget
     transliteration: watansawna
   11:
@@ -50,7 +50,7 @@ word_by_word:
     translation: what
     transliteration: mā
   12:
-    arabic: تُشۡرِكُوۡنَ‏
+    arabic: تُشۡرِكُونَ
     translation: you associate (with Him)
     transliteration: tush'rikūna
 ---

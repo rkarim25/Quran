@@ -1,20 +1,20 @@
 ---
-arabic_ayat: رُسُلًا مُّبَشِّرِيۡنَ وَمُنۡذِرِيۡنَ لِئَلَّا يَكُوۡنَ لِلنَّاسِ عَلَى
-  اللّٰهِ حُجَّةٌ ۢ بَعۡدَ الرُّسُلِ​ ؕ وَكَانَ اللّٰهُ عَزِيۡزًا حَكِيۡمًا‏
+arabic_ayat: رُّسُلٗا مُّبَشِّرِينَ وَمُنذِرِينَ لِئَلَّا يَكُونَ لِلنَّاسِ عَلَى
+  ٱللَّهِ حُجَّةُۢ بَعۡدَ ٱلرُّسُلِۚ وَكَانَ ٱللَّهُ عَزِيزًا حَكِيمٗا
 sentence_translation: ˹All were˺ messengers delivering good news and warnings so humanity
   should have no excuse before Allah after ˹the coming of˺ the messengers. And Allah
   is Almighty, All-Wise.
 word_by_word:
   1:
-    arabic: رُسُلًا
+    arabic: رُّسُلٗا
     translation: Messengers
     transliteration: rusulan
   2:
-    arabic: مُّبَشِّرِيۡنَ
+    arabic: مُّبَشِّرِينَ
     translation: bearers of glad tidings
     transliteration: mubashirīna
   3:
-    arabic: وَمُنۡذِرِيۡنَ
+    arabic: وَمُنذِرِينَ
     translation: and warners
     transliteration: wamundhirīna
   4:
@@ -22,7 +22,7 @@ word_by_word:
     translation: so that not
     transliteration: li-allā
   5:
-    arabic: يَكُوۡنَ
+    arabic: يَكُونَ
     translation: there is
     transliteration: yakūna
   6:
@@ -34,11 +34,11 @@ word_by_word:
     translation: against
     transliteration: ʿalā
   8:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   9:
-    arabic: حُجَّةٌ ۢ
+    arabic: حُجَّةُۢ
     translation: any argument
     transliteration: ḥujjatun
   10:
@@ -46,7 +46,7 @@ word_by_word:
     translation: after
     transliteration: baʿda
   11:
-    arabic: الرُّسُلِ​ ؕ
+    arabic: ٱلرُّسُلِۚ
     translation: the Messengers
     transliteration: l-rusuli
   12:
@@ -54,15 +54,15 @@ word_by_word:
     translation: And is
     transliteration: wakāna
   13:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   14:
-    arabic: عَزِيۡزًا
+    arabic: عَزِيزًا
     translation: All-Mighty
     transliteration: ʿazīzan
   15:
-    arabic: حَكِيۡمًا‏
+    arabic: حَكِيمٗا
     translation: All-Wise
     transliteration: ḥakīman
 ---

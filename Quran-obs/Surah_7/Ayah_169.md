@@ -1,9 +1,9 @@
 ---
-arabic_ayat: فَخَلَفَ مِنۡۢ بَعۡدِهِمۡ خَلۡفٌ وَّرِثُوا الۡكِتٰبَ يَاۡخُذُوۡنَ عَرَضَ
-  هٰذَا الۡاَدۡنٰى وَيَقُوۡلُوۡنَ سَيُغۡفَرُ لَـنَا​ ۚ وَاِنۡ يَّاۡتِهِمۡ عَرَضٌ مِّثۡلُهٗ
-  يَاۡخُذُوۡهُ​ ؕ اَلَمۡ يُؤۡخَذۡ عَلَيۡهِمۡ مِّيۡثَاقُ الۡـكِتٰبِ اَنۡ لَّا يَقُوۡلُوۡا
-  عَلَى اللّٰهِ اِلَّا الۡحَـقَّ وَدَرَسُوۡا مَا فِيۡهِ​ ؕ وَالدَّارُ الۡاٰخِرَةُ
-  خَيۡرٌ لِّـلَّذِيۡنَ يَتَّقُوۡنَ​ ؕ اَفَلَا تَعۡقِلُوۡنَ‏
+arabic_ayat: فَخَلَفَ مِنۢ بَعۡدِهِمۡ خَلۡفٞ وَرِثُواْ ٱلۡكِتَٰبَ يَأۡخُذُونَ عَرَضَ
+  هَٰذَا ٱلۡأَدۡنَىٰ وَيَقُولُونَ سَيُغۡفَرُ لَنَا وَإِن يَأۡتِهِمۡ عَرَضٞ مِّثۡلُهُۥ
+  يَأۡخُذُوهُۚ أَلَمۡ يُؤۡخَذۡ عَلَيۡهِم مِّيثَٰقُ ٱلۡكِتَٰبِ أَن لَّا يَقُولُواْ
+  عَلَى ٱللَّهِ إِلَّا ٱلۡحَقَّ وَدَرَسُواْ مَا فِيهِۗ وَٱلدَّارُ ٱلۡأٓخِرَةُ خَيۡرٞ
+  لِّلَّذِينَ يَتَّقُونَۚ أَفَلَا تَعۡقِلُونَ
 sentence_translation: Then they were succeeded by other generations who inherited
   the Scripture. They indulged in unlawful gains, claiming, “We will be forgiven ˹after
   all˺.” And if similar gain came their way, they would seize it. Was a covenant not
@@ -17,7 +17,7 @@ word_by_word:
     translation: Then succeeded
     transliteration: fakhalafa
   2:
-    arabic: مِنۡۢ
+    arabic: مِنۢ
     translation: from
     transliteration: min
   3:
@@ -25,19 +25,19 @@ word_by_word:
     translation: after them
     transliteration: baʿdihim
   4:
-    arabic: خَلۡفٌ
+    arabic: خَلۡفٞ
     translation: successors
     transliteration: khalfun
   5:
-    arabic: وَّرِثُوا
+    arabic: وَرِثُواْ
     translation: (who) inherited
     transliteration: warithū
   6:
-    arabic: الۡكِتٰبَ
+    arabic: ٱلۡكِتَٰبَ
     translation: the Book
     transliteration: l-kitāba
   7:
-    arabic: يَاۡخُذُوۡنَ
+    arabic: يَأۡخُذُونَ
     translation: taking
     transliteration: yakhudhūna
   8:
@@ -45,15 +45,15 @@ word_by_word:
     translation: goods
     transliteration: ʿaraḍa
   9:
-    arabic: هٰذَا
+    arabic: هَٰذَا
     translation: (of) this
     transliteration: hādhā
   10:
-    arabic: الۡاَدۡنٰى
+    arabic: ٱلۡأَدۡنَىٰ
     translation: the lower (life)
     transliteration: l-adnā
   11:
-    arabic: وَيَقُوۡلُوۡنَ
+    arabic: وَيَقُولُونَ
     translation: and they say
     transliteration: wayaqūlūna
   12:
@@ -61,31 +61,31 @@ word_by_word:
     translation: It will be forgiven
     transliteration: sayugh'faru
   13:
-    arabic: لَـنَا​ ۚ
+    arabic: لَنَا
     translation: for us
     transliteration: lanā
   14:
-    arabic: وَاِنۡ
+    arabic: وَإِن
     translation: And if
     transliteration: wa-in
   15:
-    arabic: يَّاۡتِهِمۡ
+    arabic: يَأۡتِهِمۡ
     translation: comes to them
     transliteration: yatihim
   16:
-    arabic: عَرَضٌ
+    arabic: عَرَضٞ
     translation: goods
     transliteration: ʿaraḍun
   17:
-    arabic: مِّثۡلُهٗ
+    arabic: مِّثۡلُهُۥ
     translation: similar to it
     transliteration: mith'luhu
   18:
-    arabic: يَاۡخُذُوۡهُ​ ؕ
+    arabic: يَأۡخُذُوهُۚ
     translation: they will take it
     transliteration: yakhudhūhu
   19:
-    arabic: اَلَمۡ
+    arabic: أَلَمۡ
     translation: Was not
     transliteration: alam
   20:
@@ -93,19 +93,19 @@ word_by_word:
     translation: taken
     transliteration: yu'khadh
   21:
-    arabic: عَلَيۡهِمۡ
+    arabic: عَلَيۡهِم
     translation: on them
     transliteration: ʿalayhim
   22:
-    arabic: مِّيۡثَاقُ
+    arabic: مِّيثَٰقُ
     translation: Covenant
     transliteration: mīthāqu
   23:
-    arabic: الۡـكِتٰبِ
+    arabic: ٱلۡكِتَٰبِ
     translation: (of) the Book
     transliteration: l-kitābi
   24:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that
     transliteration: an
   25:
@@ -113,7 +113,7 @@ word_by_word:
     translation: not
     transliteration: lā
   26:
-    arabic: يَقُوۡلُوۡا
+    arabic: يَقُولُواْ
     translation: they will say
     transliteration: yaqūlū
   27:
@@ -121,19 +121,19 @@ word_by_word:
     translation: about
     transliteration: ʿalā
   28:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   29:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   30:
-    arabic: الۡحَـقَّ
+    arabic: ٱلۡحَقَّ
     translation: the truth
     transliteration: l-ḥaqa
   31:
-    arabic: وَدَرَسُوۡا
+    arabic: وَدَرَسُواْ
     translation: while they studied
     transliteration: wadarasū
   32:
@@ -141,35 +141,35 @@ word_by_word:
     translation: what
     transliteration: mā
   33:
-    arabic: فِيۡهِ​ ؕ
+    arabic: فِيهِۗ
     translation: (is) in it
     transliteration: fīhi
   34:
-    arabic: وَالدَّارُ
+    arabic: وَٱلدَّارُ
     translation: And the home
     transliteration: wal-dāru
   35:
-    arabic: الۡاٰخِرَةُ
+    arabic: ٱلۡأٓخِرَةُ
     translation: (of) the Hereafter
     transliteration: l-ākhiratu
   36:
-    arabic: خَيۡرٌ
+    arabic: خَيۡرٞ
     translation: (is) better
     transliteration: khayrun
   37:
-    arabic: لِّـلَّذِيۡنَ
+    arabic: لِّلَّذِينَ
     translation: for those who
     transliteration: lilladhīna
   38:
-    arabic: يَتَّقُوۡنَ​ ؕ
+    arabic: يَتَّقُونَۚ
     translation: fear Allah
     transliteration: yattaqūna
   39:
-    arabic: اَفَلَا
+    arabic: أَفَلَا
     translation: So will not
     transliteration: afalā
   40:
-    arabic: تَعۡقِلُوۡنَ‏
+    arabic: تَعۡقِلُونَ
     translation: you use intellect
     transliteration: taʿqilūna
 ---

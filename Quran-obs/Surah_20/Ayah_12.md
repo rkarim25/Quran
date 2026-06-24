@@ -1,15 +1,15 @@
 ---
-arabic_ayat: اِنِّىۡۤ اَنَا رَبُّكَ فَاخۡلَعۡ نَـعۡلَيۡكَ​ۚ اِنَّكَ بِالۡوَادِ الۡمُقَدَّسِ
-  طُوًىؕ‏
+arabic_ayat: إِنِّيٓ أَنَا۠ رَبُّكَ فَٱخۡلَعۡ نَعۡلَيۡكَ إِنَّكَ بِٱلۡوَادِ ٱلۡمُقَدَّسِ
+  طُوٗى
 sentence_translation: It is truly I. I am your Lord! So take off your sandals, for
   you are in the sacred valley of Ṭuwa.
 word_by_word:
   1:
-    arabic: اِنِّىۡۤ
+    arabic: إِنِّيٓ
     translation: Indeed, [I]
     transliteration: innī
   2:
-    arabic: اَنَا
+    arabic: أَنَا۠
     translation: I Am
     transliteration: anā
   3:
@@ -17,27 +17,27 @@ word_by_word:
     translation: your Lord
     transliteration: rabbuka
   4:
-    arabic: فَاخۡلَعۡ
+    arabic: فَٱخۡلَعۡ
     translation: so remove
     transliteration: fa-ikh'laʿ
   5:
-    arabic: نَـعۡلَيۡكَ​ۚ
+    arabic: نَعۡلَيۡكَ
     translation: your shoes
     transliteration: naʿlayka
   6:
-    arabic: اِنَّكَ
+    arabic: إِنَّكَ
     translation: Indeed, you
     transliteration: innaka
   7:
-    arabic: بِالۡوَادِ
+    arabic: بِٱلۡوَادِ
     translation: (are) in the valley
     transliteration: bil-wādi
   8:
-    arabic: الۡمُقَدَّسِ
+    arabic: ٱلۡمُقَدَّسِ
     translation: the sacred
     transliteration: l-muqadasi
   9:
-    arabic: طُوًىؕ‏
+    arabic: طُوٗى
     translation: (of) Tuwa
     transliteration: ṭuwan
 ---

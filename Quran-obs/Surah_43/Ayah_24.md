@@ -1,24 +1,24 @@
 ---
-arabic_ayat: قٰلَ اَوَلَوۡ جِئۡتُكُمۡ بِاَهۡدٰى مِمَّا وَجَدْتُّمۡ عَلَيۡهِ اٰبَآءَكُمۡ​
-  ؕ قَالُوۡۤا اِنَّا بِمَاۤ اُرۡسِلۡـتُمۡ بِهٖ كٰفِرُوۡنَ‏
+arabic_ayat: ۞ قَٰلَ أَوَلَوۡ جِئۡتُكُم بِأَهۡدَىٰ مِمَّا وَجَدتُّمۡ عَلَيۡهِ ءَابَآءَكُمۡۖ
+  قَالُوٓاْ إِنَّا بِمَآ أُرۡسِلۡتُم بِهِۦ كَٰفِرُونَ
 sentence_translation: Each ˹warner˺ asked, “Even if what I brought you is better guidance
   than what you found your forefathers practicing?” They replied, “We totally reject
   whatever you have been sent with.”
 word_by_word:
   1:
-    arabic: ۞ قٰلَ
+    arabic: ۞ قَٰلَ
     translation: He said
     transliteration: qāla
   2:
-    arabic: اَوَلَوۡ
+    arabic: أَوَلَوۡ
     translation: Even if
     transliteration: awalaw
   3:
-    arabic: جِئۡتُكُمۡ
+    arabic: جِئۡتُكُم
     translation: I brought you
     transliteration: ji'tukum
   4:
-    arabic: بِاَهۡدٰى
+    arabic: بِأَهۡدَىٰ
     translation: better guidance
     transliteration: bi-ahdā
   5:
@@ -26,39 +26,39 @@ word_by_word:
     translation: than what
     transliteration: mimmā
   6:
-    arabic: وَجَدْتُّمۡ
+    arabic: وَجَدتُّمۡ
     translation: you found
     transliteration: wajadttum
   7:
-    arabic: عَلَيۡهِ
+    arabic: عَلَيۡهِ ءَ
     translation: on it
     transliteration: ʿalayhi
   8:
-    arabic: اٰبَآءَكُمۡ​ ؕ
+    arabic: ابَآءَكُمۡۖ
     translation: your forefathers
     transliteration: ābāakum
   9:
-    arabic: قَالُوۡۤا
+    arabic: قَالُوٓاْ
     translation: They said
     transliteration: qālū
   10:
-    arabic: اِنَّا
+    arabic: إِنَّا
     translation: Indeed, we
     transliteration: innā
   11:
-    arabic: بِمَاۤ
+    arabic: بِمَآ
     translation: with what
     transliteration: bimā
   12:
-    arabic: اُرۡسِلۡـتُمۡ
+    arabic: أُرۡسِلۡتُم
     translation: you are sent
     transliteration: ur'sil'tum
   13:
-    arabic: بِهٖ
+    arabic: بِهِۦ
     translation: with [it]
     transliteration: bihi
   14:
-    arabic: كٰفِرُوۡنَ‏
+    arabic: كَٰفِرُونَ
     translation: (are) disbelievers
     transliteration: kāfirūna
 ---

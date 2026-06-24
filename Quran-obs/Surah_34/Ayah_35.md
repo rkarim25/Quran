@@ -1,11 +1,10 @@
 ---
-arabic_ayat: "وَ قَالُوۡا نَحۡنُ اَكۡثَرُ اَمۡوَالًا وَّاَوۡلَادًا ۙ وَّمَا نَحۡنُ\
-  \ بِمُعَذَّبِيۡنَ‏ \uFEFF\uFEFF"
+arabic_ayat: وَقَالُواْ نَحۡنُ أَكۡثَرُ أَمۡوَٰلٗا وَأَوۡلَٰدٗا وَمَا نَحۡنُ بِمُعَذَّبِينَ
 sentence_translation: Adding, “We are far superior ˹to the believers˺ in wealth and
   children, and we will never be punished.”
 word_by_word:
   1:
-    arabic: وَ قَالُوۡا
+    arabic: وَقَالُواْ
     translation: And they say
     transliteration: waqālū
   2:
@@ -13,19 +12,19 @@ word_by_word:
     translation: We
     transliteration: naḥnu
   3:
-    arabic: اَكۡثَرُ
+    arabic: أَكۡثَرُ
     translation: (have) more
     transliteration: aktharu
   4:
-    arabic: اَمۡوَالًا
+    arabic: أَمۡوَٰلٗا
     translation: wealth
     transliteration: amwālan
   5:
-    arabic: وَّاَوۡلَادًا ۙ
+    arabic: وَأَوۡلَٰدٗا
     translation: and children
     transliteration: wa-awlādan
   6:
-    arabic: وَّمَا
+    arabic: وَمَا
     translation: and not
     transliteration: wamā
   7:
@@ -33,7 +32,7 @@ word_by_word:
     translation: we
     transliteration: naḥnu
   8:
-    arabic: "بِمُعَذَّبِيۡنَ‏ \uFEFF\uFEFF"
+    arabic: بِمُعَذَّبِينَ
     translation: will be punished
     transliteration: bimuʿadhabīna
 ---

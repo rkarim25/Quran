@@ -1,39 +1,39 @@
 ---
-arabic_ayat: وَالَّذِيۡنَ كَذَّبُوۡا بِاٰيٰتِنَا وَاسۡتَكۡبَرُوۡا عَنۡهَاۤ اُولٰۤٮِٕكَ
-  اَصۡحٰبُ النَّارِ​ۚ هُمۡ فِيۡهَا خٰلِدُوۡنَ‏
+arabic_ayat: وَٱلَّذِينَ كَذَّبُواْ بِـَٔايَٰتِنَا وَٱسۡتَكۡبَرُواْ عَنۡهَآ أُوْلَٰٓئِكَ
+  أَصۡحَٰبُ ٱلنَّارِۖ هُمۡ فِيهَا خَٰلِدُونَ
 sentence_translation: But those who receive Our revelations with denial and arrogance
   will be the residents of the Fire. They will be there forever.
 word_by_word:
   1:
-    arabic: وَالَّذِيۡنَ
+    arabic: وَٱلَّذِينَ
     translation: But those who
     transliteration: wa-alladhīna
   2:
-    arabic: كَذَّبُوۡا
+    arabic: كَذَّبُواْ
     translation: deny
     transliteration: kadhabū
   3:
-    arabic: بِاٰيٰتِنَا
+    arabic: بِـَٔايَٰتِنَا
     translation: Our Verses
     transliteration: biāyātinā
   4:
-    arabic: وَاسۡتَكۡبَرُوۡا
+    arabic: وَٱسۡتَكۡبَرُواْ
     translation: and (are) arrogant
     transliteration: wa-is'takbarū
   5:
-    arabic: عَنۡهَاۤ
+    arabic: عَنۡهَآ
     translation: towards them
     transliteration: ʿanhā
   6:
-    arabic: اُولٰۤٮِٕكَ
+    arabic: أُوْلَٰٓئِكَ
     translation: those
     transliteration: ulāika
   7:
-    arabic: اَصۡحٰبُ
+    arabic: أَصۡحَٰبُ
     translation: (are the) companions
     transliteration: aṣḥābu
   8:
-    arabic: النَّارِ​ۚ
+    arabic: ٱلنَّارِۖ
     translation: (of) the Fire
     transliteration: l-nāri
   9:
@@ -41,11 +41,11 @@ word_by_word:
     translation: they
     transliteration: hum
   10:
-    arabic: فِيۡهَا
+    arabic: فِيهَا
     translation: in it
     transliteration: fīhā
   11:
-    arabic: خٰلِدُوۡنَ‏
+    arabic: خَٰلِدُونَ
     translation: will abide forever
     transliteration: khālidūna
 ---

@@ -1,6 +1,6 @@
 ---
-arabic_ayat: وَلَوۡ نَشَآءُ لَمَسَخۡنٰهُمۡ عَلٰى مَكَانَتِهِمۡ فَمَا اسۡتَطَاعُوۡا
-  مُضِيًّا وَّلَا يَرۡجِعُوۡنَ‏
+arabic_ayat: وَلَوۡ نَشَآءُ لَمَسَخۡنَٰهُمۡ عَلَىٰ مَكَانَتِهِمۡ فَمَا ٱسۡتَطَٰعُواْ
+  مُضِيّٗا وَلَا يَرۡجِعُونَ
 sentence_translation: And had We willed, We could have transfigured them on the spot, so
   they could neither progress forward nor turn back.
 word_by_word:
@@ -13,11 +13,11 @@ word_by_word:
     translation: We willed
     transliteration: nashāu
   3:
-    arabic: لَمَسَخۡنٰهُمۡ
+    arabic: لَمَسَخۡنَٰهُمۡ
     translation: surely, We (would have) transformed them
     transliteration: lamasakhnāhum
   4:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: in
     transliteration: ʿalā
   5:
@@ -29,19 +29,19 @@ word_by_word:
     translation: then not
     transliteration: famā
   7:
-    arabic: اسۡتَطَاعُوۡا
+    arabic: ٱسۡتَطَٰعُواْ
     translation: they would have been able
     transliteration: is'taṭāʿū
   8:
-    arabic: مُضِيًّا
+    arabic: مُضِيّٗا
     translation: to proceed
     transliteration: muḍiyyan
   9:
-    arabic: وَّلَا
+    arabic: وَلَا
     translation: and not
     transliteration: walā
   10:
-    arabic: يَرۡجِعُوۡنَ‏
+    arabic: يَرۡجِعُونَ
     translation: return
     transliteration: yarjiʿūna
 ---

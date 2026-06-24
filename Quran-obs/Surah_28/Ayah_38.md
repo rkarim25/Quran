@@ -1,7 +1,7 @@
 ---
-arabic_ayat: وَقَالَ فِرۡعَوۡنُ يٰۤـاَيُّهَا الۡمَلَاُ مَا عَلِمۡتُ لَـكُمۡ مِّنۡ
-  اِلٰهٍ غَيۡرِىۡ​ ۚ فَاَوۡقِدۡ لِىۡ يٰهَامٰنُ عَلَى الطِّيۡنِ فَاجۡعَلْ لِّىۡ صَرۡحًا
-  لَّعَلِّىۡۤ اَطَّلِعُ اِلٰٓى اِلٰهِ مُوۡسٰى ۙ وَاِنِّىۡ لَاَظُنُّهٗ مِنَ الۡـكٰذِبِيۡنَ‏
+arabic_ayat: وَقَالَ فِرۡعَوۡنُ يَٰٓأَيُّهَا ٱلۡمَلَأُ مَا عَلِمۡتُ لَكُم مِّنۡ إِلَٰهٍ
+  غَيۡرِي فَأَوۡقِدۡ لِي يَٰهَٰمَٰنُ عَلَى ٱلطِّينِ فَٱجۡعَل لِّي صَرۡحٗا لَّعَلِّيٓ
+  أَطَّلِعُ إِلَىٰٓ إِلَٰهِ مُوسَىٰ وَإِنِّي لَأَظُنُّهُۥ مِنَ ٱلۡكَٰذِبِينَ
 sentence_translation: Pharaoh declared, “O chiefs! I know of no other god for you
   but myself. So bake bricks out of clay for me, O  Hamân, and build a high tower
   so I may look at the God of Moses, although I am sure he is a liar.”
@@ -15,11 +15,11 @@ word_by_word:
     translation: And Firaun said
     transliteration: fir'ʿawnu
   3:
-    arabic: يٰۤـاَيُّهَا
+    arabic: يَٰٓأَيُّهَا
     translation: O chiefs
     transliteration: yāayyuhā
   4:
-    arabic: الۡمَلَاُ
+    arabic: ٱلۡمَلَأُ
     translation: O chiefs
     transliteration: l-mala-u
   5:
@@ -31,7 +31,7 @@ word_by_word:
     translation: I know
     transliteration: ʿalim'tu
   7:
-    arabic: لَـكُمۡ
+    arabic: لَكُم
     translation: for you
     transliteration: lakum
   8:
@@ -39,23 +39,23 @@ word_by_word:
     translation: any
     transliteration: min
   9:
-    arabic: اِلٰهٍ
+    arabic: إِلَٰهٍ
     translation: god
     transliteration: ilāhin
   10:
-    arabic: غَيۡرِىۡ​ ۚ
+    arabic: غَيۡرِي
     translation: other than me
     transliteration: ghayrī
   11:
-    arabic: فَاَوۡقِدۡ
+    arabic: فَأَوۡقِدۡ
     translation: So kindle
     transliteration: fa-awqid
   12:
-    arabic: لِىۡ
+    arabic: لِي
     translation: for me
     transliteration: lī
   13:
-    arabic: يٰهَامٰنُ
+    arabic: يَٰهَٰمَٰنُ
     translation: O Haman
     transliteration: yāhāmānu
   14:
@@ -63,47 +63,47 @@ word_by_word:
     translation: Upon
     transliteration: ʿalā
   15:
-    arabic: الطِّيۡنِ
+    arabic: ٱلطِّينِ
     translation: the clay
     transliteration: l-ṭīni
   16:
-    arabic: فَاجۡعَلْ
+    arabic: فَٱجۡعَل
     translation: and make
     transliteration: fa-ij'ʿal
   17:
-    arabic: لِّىۡ
+    arabic: لِّي
     translation: for me
     transliteration: lī
   18:
-    arabic: صَرۡحًا
+    arabic: صَرۡحٗا
     translation: a lofty tower
     transliteration: ṣarḥan
   19:
-    arabic: لَّعَلِّىۡۤ
+    arabic: لَّعَلِّيٓ
     translation: so that [I]
     transliteration: laʿallī
   20:
-    arabic: اَطَّلِعُ
+    arabic: أَطَّلِعُ
     translation: I may look
     transliteration: aṭṭaliʿu
   21:
-    arabic: اِلٰٓى
+    arabic: إِلَىٰٓ
     translation: at
     transliteration: ilā
   22:
-    arabic: اِلٰهِ
+    arabic: إِلَٰهِ
     translation: (the) God
     transliteration: ilāhi
   23:
-    arabic: مُوۡسٰى ۙ
+    arabic: مُوسَىٰ
     translation: (of) Musa
     transliteration: mūsā
   24:
-    arabic: وَاِنِّىۡ
+    arabic: وَإِنِّي
     translation: And indeed, I
     transliteration: wa-innī
   25:
-    arabic: لَاَظُنُّهٗ
+    arabic: لَأَظُنُّهُۥ
     translation: '[I] think that he'
     transliteration: la-aẓunnuhu
   26:
@@ -111,7 +111,7 @@ word_by_word:
     translation: (is) of
     transliteration: mina
   27:
-    arabic: الۡـكٰذِبِيۡنَ‏
+    arabic: ٱلۡكَٰذِبِينَ
     translation: the liars
     transliteration: l-kādhibīna
 ---

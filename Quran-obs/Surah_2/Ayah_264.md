@@ -1,9 +1,9 @@
 ---
-arabic_ayat: يٰۤـاَيُّهَا الَّذِيۡنَ اٰمَنُوۡا لَا تُبۡطِلُوۡا صَدَقٰتِكُمۡ بِالۡمَنِّ
-  وَالۡاَذٰىۙ كَالَّذِىۡ يُنۡفِقُ مَالَهٗ رِئَآءَ النَّاسِ وَلَا يُؤۡمِنُ بِاللّٰهِ
-  وَالۡيَوۡمِ الۡاٰخِرِ​ؕ فَمَثَلُهٗ كَمَثَلِ صَفۡوَانٍ عَلَيۡهِ تُرَابٌ فَاَصَابَهٗ
-  وَابِلٌ فَتَرَكَهٗ صَلۡدًا ​ؕ لَا يَقۡدِرُوۡنَ عَلٰى شَىۡءٍ مِّمَّا كَسَبُوۡا ​ؕ
-  وَاللّٰهُ لَا يَهۡدِى الۡقَوۡمَ الۡـكٰفِرِيۡنَ‏
+arabic_ayat: يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُواْ لَا تُبۡطِلُواْ صَدَقَٰتِكُم بِٱلۡمَنِّ
+  وَٱلۡأَذَىٰ كَٱلَّذِي يُنفِقُ مَالَهُۥ رِئَآءَ ٱلنَّاسِ وَلَا يُؤۡمِنُ بِٱللَّهِ
+  وَٱلۡيَوۡمِ ٱلۡأٓخِرِۖ فَمَثَلُهُۥ كَمَثَلِ صَفۡوَانٍ عَلَيۡهِ تُرَابٞ فَأَصَابَهُۥ
+  وَابِلٞ فَتَرَكَهُۥ صَلۡدٗاۖ لَّا يَقۡدِرُونَ عَلَىٰ شَيۡءٖ مِّمَّا كَسَبُواْۗ وَٱللَّهُ
+  لَا يَهۡدِي ٱلۡقَوۡمَ ٱلۡكَٰفِرِينَ
 sentence_translation: O believers! Do not waste your charity with reminders ˹of your
   generosity˺ or hurtful words, like those who donate their wealth just to show off
   and do not believe in Allah or the Last Day. Their example is that of a hard barren
@@ -12,15 +12,15 @@ sentence_translation: O believers! Do not waste your charity with reminders ˹of
   not guide ˹such˺ disbelieving people.
 word_by_word:
   1:
-    arabic: يٰۤـاَيُّهَا
+    arabic: يَٰٓأَيُّهَا
     translation: O you
     transliteration: yāayyuhā
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ ءَ
     translation: who
     transliteration: alladhīna
   3:
-    arabic: اٰمَنُوۡا
+    arabic: امَنُواْ
     translation: believe[d]
     transliteration: āmanū
   4:
@@ -28,31 +28,31 @@ word_by_word:
     translation: (Do) not
     transliteration: lā
   5:
-    arabic: تُبۡطِلُوۡا
+    arabic: تُبۡطِلُواْ
     translation: render in vain
     transliteration: tub'ṭilū
   6:
-    arabic: صَدَقٰتِكُمۡ
+    arabic: صَدَقَٰتِكُم
     translation: your charities
     transliteration: ṣadaqātikum
   7:
-    arabic: بِالۡمَنِّ
+    arabic: بِٱلۡمَنِّ
     translation: with reminders (of it)
     transliteration: bil-mani
   8:
-    arabic: وَالۡاَذٰىۙ
+    arabic: وَٱلۡأَذَىٰ
     translation: or [the] hurt
     transliteration: wal-adhā
   9:
-    arabic: كَالَّذِىۡ
+    arabic: كَٱلَّذِي
     translation: like the one who
     transliteration: ka-alladhī
   10:
-    arabic: يُنۡفِقُ
+    arabic: يُنفِقُ
     translation: spends
     transliteration: yunfiqu
   11:
-    arabic: مَالَهٗ
+    arabic: مَالَهُۥ
     translation: his wealth
     transliteration: mālahu
   12:
@@ -60,7 +60,7 @@ word_by_word:
     translation: (to) be seen
     transliteration: riāa
   13:
-    arabic: النَّاسِ
+    arabic: ٱلنَّاسِ
     translation: (by) the people
     transliteration: l-nāsi
   14:
@@ -72,19 +72,19 @@ word_by_word:
     translation: believe
     transliteration: yu'minu
   16:
-    arabic: بِاللّٰهِ
+    arabic: بِٱللَّهِ
     translation: in Allah
     transliteration: bil-lahi
   17:
-    arabic: وَالۡيَوۡمِ
+    arabic: وَٱلۡيَوۡمِ
     translation: and the Day
     transliteration: wal-yawmi
   18:
-    arabic: الۡاٰخِرِ​ؕ
+    arabic: ٱلۡأٓخِرِۖ
     translation: '[the] Last'
     transliteration: l-ākhiri
   19:
-    arabic: فَمَثَلُهٗ
+    arabic: فَمَثَلُهُۥ
     translation: Then his example
     transliteration: famathaluhu
   20:
@@ -100,39 +100,39 @@ word_by_word:
     translation: upon it
     transliteration: ʿalayhi
   23:
-    arabic: تُرَابٌ
+    arabic: تُرَابٞ
     translation: (is) dust
     transliteration: turābun
   24:
-    arabic: فَاَصَابَهٗ
+    arabic: فَأَصَابَهُۥ
     translation: then fell on it
     transliteration: fa-aṣābahu
   25:
-    arabic: وَابِلٌ
+    arabic: وَابِلٞ
     translation: heavy rain
     transliteration: wābilun
   26:
-    arabic: فَتَرَكَهٗ
+    arabic: فَتَرَكَهُۥ
     translation: then left it
     transliteration: fatarakahu
   27:
-    arabic: صَلۡدًا ​ؕ
+    arabic: صَلۡدٗاۖ
     translation: bare
     transliteration: ṣaldan
   28:
-    arabic: لَا
+    arabic: لَّا
     translation: Not
     transliteration: lā
   29:
-    arabic: يَقۡدِرُوۡنَ
+    arabic: يَقۡدِرُونَ
     translation: they have control
     transliteration: yaqdirūna
   30:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: 'on'
     transliteration: ʿalā
   31:
-    arabic: شَىۡءٍ
+    arabic: شَيۡءٖ
     translation: anything
     transliteration: shayin
   32:
@@ -140,11 +140,11 @@ word_by_word:
     translation: of what
     transliteration: mimmā
   33:
-    arabic: كَسَبُوۡا ​ؕ
+    arabic: كَسَبُواْۗ
     translation: they (have) earned
     transliteration: kasabū
   34:
-    arabic: وَاللّٰهُ
+    arabic: وَٱللَّهُ
     translation: And Allah
     transliteration: wal-lahu
   35:
@@ -152,15 +152,15 @@ word_by_word:
     translation: (does) not
     transliteration: lā
   36:
-    arabic: يَهۡدِى
+    arabic: يَهۡدِي
     translation: guide
     transliteration: yahdī
   37:
-    arabic: الۡقَوۡمَ
+    arabic: ٱلۡقَوۡمَ
     translation: the people
     transliteration: l-qawma
   38:
-    arabic: الۡـكٰفِرِيۡنَ‏
+    arabic: ٱلۡكَٰفِرِينَ
     translation: '[the] disbelieving'
     transliteration: l-kāfirīna
 ---

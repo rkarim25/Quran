@@ -1,7 +1,6 @@
 ---
-arabic_ayat: "هُوَ الَّذِىۡ يُنَزِّلُ عَلٰى عَبۡدِهٖۤ اٰيٰتٍۭ بَيِّنٰتٍ لِّيُخۡرِجَكُمۡ\
-  \ مِّنَ الظُّلُمٰتِ اِلَى النُّوۡرِ​ؕ وَاِنَّ اللّٰهَ بِكُمۡ لَرَءُوۡفٌ رَّحِيۡمٌ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: هُوَ ٱلَّذِي يُنَزِّلُ عَلَىٰ عَبۡدِهِۦٓ ءَايَٰتِۭ بَيِّنَٰتٖ لِّيُخۡرِجَكُم
+  مِّنَ ٱلظُّلُمَٰتِ إِلَى ٱلنُّورِۚ وَإِنَّ ٱللَّهَ بِكُمۡ لَرَءُوفٞ رَّحِيمٞ
 sentence_translation: He is the One Who sends down clear revelations to His servant
   to bring you out of darkness and into light. For indeed Allah is Ever Gracious and
   Most Merciful to you.
@@ -11,7 +10,7 @@ word_by_word:
     translation: He
     transliteration: huwa
   2:
-    arabic: الَّذِىۡ
+    arabic: ٱلَّذِي
     translation: (is) the One Who
     transliteration: alladhī
   3:
@@ -19,23 +18,23 @@ word_by_word:
     translation: sends down
     transliteration: yunazzilu
   4:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: upon
     transliteration: ʿalā
   5:
-    arabic: عَبۡدِهٖۤ
+    arabic: عَبۡدِهِۦٓ ءَ
     translation: His slave
     transliteration: ʿabdihi
   6:
-    arabic: اٰيٰتٍۭ
+    arabic: ايَٰتِۭ
     translation: Verses
     transliteration: āyātin
   7:
-    arabic: بَيِّنٰتٍ
+    arabic: بَيِّنَٰتٖ
     translation: clear
     transliteration: bayyinātin
   8:
-    arabic: لِّيُخۡرِجَكُمۡ
+    arabic: لِّيُخۡرِجَكُم
     translation: that He may bring you out
     transliteration: liyukh'rijakum
   9:
@@ -43,23 +42,23 @@ word_by_word:
     translation: from
     transliteration: mina
   10:
-    arabic: الظُّلُمٰتِ
+    arabic: ٱلظُّلُمَٰتِ
     translation: the darkness[es]
     transliteration: l-ẓulumāti
   11:
-    arabic: اِلَى
+    arabic: إِلَى
     translation: into
     transliteration: ilā
   12:
-    arabic: النُّوۡرِ​ؕ
+    arabic: ٱلنُّورِۚ
     translation: the light
     transliteration: l-nūri
   13:
-    arabic: وَاِنَّ
+    arabic: وَإِنَّ
     translation: And indeed
     transliteration: wa-inna
   14:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   15:
@@ -67,11 +66,11 @@ word_by_word:
     translation: to you
     transliteration: bikum
   16:
-    arabic: لَرَءُوۡفٌ
+    arabic: لَرَءُوفٞ
     translation: (is the) Most Kind
     transliteration: laraūfun
   17:
-    arabic: رَّحِيۡمٌ‏
+    arabic: رَّحِيمٞ
     translation: (the) Most Merciful
     transliteration: raḥīmun
 ---

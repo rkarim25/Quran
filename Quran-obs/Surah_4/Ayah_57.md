@@ -1,25 +1,25 @@
 ---
-arabic_ayat: وَالَّذِيۡنَ اٰمَنُوۡا وَعَمِلُوا الصّٰلِحٰتِ سَنُدۡخِلُهُمۡ جَنّٰتٍ
-  تَجۡرِىۡ مِنۡ تَحۡتِهَا الۡاَنۡهٰرُ خٰلِدِيۡنَ فِيۡهَاۤ اَبَدًا​ ؕ لَـهُمۡ فِيۡهَاۤ
-  اَزۡوَاجٌ مُّطَهَّرَةٌ  وَّنُدۡخِلُهُمۡ ظِلًّا ظَلِيۡلًا‏
+arabic_ayat: وَٱلَّذِينَ ءَامَنُواْ وَعَمِلُواْ ٱلصَّٰلِحَٰتِ سَنُدۡخِلُهُمۡ جَنَّٰتٖ
+  تَجۡرِي مِن تَحۡتِهَا ٱلۡأَنۡهَٰرُ خَٰلِدِينَ فِيهَآ أَبَدٗاۖ لَّهُمۡ فِيهَآ أَزۡوَٰجٞ
+  مُّطَهَّرَةٞۖ وَنُدۡخِلُهُمۡ ظِلّٗا ظَلِيلًا
 sentence_translation: As for those who believe and do good, We will admit them into
   Gardens under which rivers flow, to stay there for ever and ever. There they will
   have pure spouses, and We will place them under a vast shade.
 word_by_word:
   1:
-    arabic: وَالَّذِيۡنَ
+    arabic: وَٱلَّذِينَ ءَ
     translation: And those who
     transliteration: wa-alladhīna
   2:
-    arabic: اٰمَنُوۡا
+    arabic: امَنُواْ
     translation: believe[d]
     transliteration: āmanū
   3:
-    arabic: وَعَمِلُوا
+    arabic: وَعَمِلُواْ
     translation: and did
     transliteration: waʿamilū
   4:
-    arabic: الصّٰلِحٰتِ
+    arabic: ٱلصَّٰلِحَٰتِ
     translation: the good deeds
     transliteration: l-ṣāliḥāti
   5:
@@ -27,15 +27,15 @@ word_by_word:
     translation: We will admit them
     transliteration: sanud'khiluhum
   6:
-    arabic: جَنّٰتٍ
+    arabic: جَنَّٰتٖ
     translation: (in) Gardens
     transliteration: jannātin
   7:
-    arabic: تَجۡرِىۡ
+    arabic: تَجۡرِي
     translation: flows
     transliteration: tajrī
   8:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   9:
@@ -43,47 +43,47 @@ word_by_word:
     translation: underneath it
     transliteration: taḥtihā
   10:
-    arabic: الۡاَنۡهٰرُ
+    arabic: ٱلۡأَنۡهَٰرُ
     translation: the rivers
     transliteration: l-anhāru
   11:
-    arabic: خٰلِدِيۡنَ
+    arabic: خَٰلِدِينَ
     translation: will abide
     transliteration: khālidīna
   12:
-    arabic: فِيۡهَاۤ
+    arabic: فِيهَآ
     translation: in it
     transliteration: fīhā
   13:
-    arabic: اَبَدًا​ ؕ
+    arabic: أَبَدٗاۖ
     translation: forever
     transliteration: abadan
   14:
-    arabic: لَـهُمۡ
+    arabic: لَّهُمۡ
     translation: For them
     transliteration: lahum
   15:
-    arabic: فِيۡهَاۤ
+    arabic: فِيهَآ
     translation: in it
     transliteration: fīhā
   16:
-    arabic: اَزۡوَاجٌ
+    arabic: أَزۡوَٰجٞ
     translation: (are) spouses
     transliteration: azwājun
   17:
-    arabic: مُّطَهَّرَةٌ 
+    arabic: مُّطَهَّرَةٞۖ
     translation: pure
     transliteration: muṭahharatun
   18:
-    arabic: وَّنُدۡخِلُهُمۡ
+    arabic: وَنُدۡخِلُهُمۡ
     translation: and We will admit them
     transliteration: wanud'khiluhum
   19:
-    arabic: ظِلًّا
+    arabic: ظِلّٗا
     translation: (in the) shade
     transliteration: ẓillan
   20:
-    arabic: ظَلِيۡلًا‏
+    arabic: ظَلِيلًا
     translation: thick
     transliteration: ẓalīlan
 ---

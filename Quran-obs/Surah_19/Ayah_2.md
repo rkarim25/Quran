@@ -1,5 +1,5 @@
 ---
-arabic_ayat: ذِكۡرُ رَحۡمَتِ رَبِّكَ عَـبۡدَهٗ زَكَرِيَّا ​ ۖ ​ۚ‏
+arabic_ayat: ذِكۡرُ رَحۡمَتِ رَبِّكَ عَبۡدَهُۥ زَكَرِيَّآ
 sentence_translation: ˹This is˺ a reminder of your Lord’s mercy to His servant Zachariah,
 word_by_word:
   1:
@@ -15,11 +15,11 @@ word_by_word:
     translation: (of) your Lord
     transliteration: rabbika
   4:
-    arabic: عَـبۡدَهٗ
+    arabic: عَبۡدَهُۥ
     translation: (to) His servant
     transliteration: ʿabdahu
   5:
-    arabic: زَكَرِيَّا ​ ۖ ​ۚ‏
+    arabic: زَكَرِيَّآ
     translation: Zakariya
     transliteration: zakariyyā
 ---

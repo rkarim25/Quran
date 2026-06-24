@@ -1,14 +1,14 @@
 ---
-arabic_ayat: فَتَوَلّٰى بِرُكۡنِهٖ وَقَالَ سٰحِرٌ اَوۡ مَجۡنُوۡنٌ‏
+arabic_ayat: فَتَوَلَّىٰ بِرُكۡنِهِۦ وَقَالَ سَٰحِرٌ أَوۡ مَجۡنُونٞ
 sentence_translation: but Pharaoh was carried away by his power, saying ˹of Moses˺,
   “A magician or a madman!”
 word_by_word:
   1:
-    arabic: فَتَوَلّٰى
+    arabic: فَتَوَلَّىٰ
     translation: But he turned away
     transliteration: fatawallā
   2:
-    arabic: بِرُكۡنِهٖ
+    arabic: بِرُكۡنِهِۦ
     translation: with his supporters
     transliteration: biruk'nihi
   3:
@@ -16,15 +16,15 @@ word_by_word:
     translation: and said
     transliteration: waqāla
   4:
-    arabic: سٰحِرٌ
+    arabic: سَٰحِرٌ
     translation: A magician
     transliteration: sāḥirun
   5:
-    arabic: اَوۡ
+    arabic: أَوۡ
     translation: or
     transliteration: aw
   6:
-    arabic: مَجۡنُوۡنٌ‏
+    arabic: مَجۡنُونٞ
     translation: a madman
     transliteration: majnūnun
 ---

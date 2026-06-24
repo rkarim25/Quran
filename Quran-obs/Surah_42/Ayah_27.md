@@ -1,12 +1,12 @@
 ---
-arabic_ayat: وَلَوۡ بَسَطَ اللّٰهُ الرِّزۡقَ لِعِبَادِهٖ لَبَغَوۡا فِى الۡاَرۡضِ وَلٰكِنۡ
-  يُّنَزِّلُ بِقَدَرٍ مَّا يَشَآءُ ​ؕ اِنَّهٗ بِعِبَادِهٖ خَبِيۡرٌۢ بَصِيۡرٌ‏
+arabic_ayat: ۞ وَلَوۡ بَسَطَ ٱللَّهُ ٱلرِّزۡقَ لِعِبَادِهِۦ لَبَغَوۡاْ فِي ٱلۡأَرۡضِ
+  وَلَٰكِن يُنَزِّلُ بِقَدَرٖ مَّا يَشَآءُۚ إِنَّهُۥ بِعِبَادِهِۦ خَبِيرُۢ بَصِيرٞ
 sentence_translation: Had Allah given abundant provisions to ˹all˺ His servants, they
   would have certainly transgressed throughout the land. But He sends down whatever
   He wills in perfect measure. He is truly All-Aware, All-Seeing of His servants.
 word_by_word:
   1:
-    arabic: ۞ وَلَوۡ
+    arabic: ۞ وَلَوۡ
     translation: And if
     transliteration: walaw
   2:
@@ -14,39 +14,39 @@ word_by_word:
     translation: Allah extends
     transliteration: basaṭa
   3:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah extends
     transliteration: l-lahu
   4:
-    arabic: الرِّزۡقَ
+    arabic: ٱلرِّزۡقَ
     translation: the provision
     transliteration: l-riz'qa
   5:
-    arabic: لِعِبَادِهٖ
+    arabic: لِعِبَادِهِۦ
     translation: for His slaves
     transliteration: liʿibādihi
   6:
-    arabic: لَبَغَوۡا
+    arabic: لَبَغَوۡاْ
     translation: surely they would rebel
     transliteration: labaghaw
   7:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   8:
-    arabic: الۡاَرۡضِ
+    arabic: ٱلۡأَرۡضِ
     translation: the earth
     transliteration: l-arḍi
   9:
-    arabic: وَلٰكِنۡ
+    arabic: وَلَٰكِن
     translation: but
     transliteration: walākin
   10:
-    arabic: يُّنَزِّلُ
+    arabic: يُنَزِّلُ
     translation: He sends down
     transliteration: yunazzilu
   11:
-    arabic: بِقَدَرٍ
+    arabic: بِقَدَرٖ
     translation: in (due) measure
     transliteration: biqadarin
   12:
@@ -54,23 +54,23 @@ word_by_word:
     translation: what
     transliteration: mā
   13:
-    arabic: يَشَآءُ ​ؕ
+    arabic: يَشَآءُۚ
     translation: He wills
     transliteration: yashāu
   14:
-    arabic: اِنَّهٗ
+    arabic: إِنَّهُۥ
     translation: Indeed, He
     transliteration: innahu
   15:
-    arabic: بِعِبَادِهٖ
+    arabic: بِعِبَادِهِۦ
     translation: of His slaves
     transliteration: biʿibādihi
   16:
-    arabic: خَبِيۡرٌۢ
+    arabic: خَبِيرُۢ
     translation: (is) All-Aware
     transliteration: khabīrun
   17:
-    arabic: بَصِيۡرٌ‏
+    arabic: بَصِيرٞ
     translation: All-Seer
     transliteration: baṣīrun
 ---

@@ -1,17 +1,17 @@
 ---
-arabic_ayat: اِلٰى قَدَرٍ مَّعۡلُوۡمٍۙ‏
+arabic_ayat: إِلَىٰ قَدَرٖ مَّعۡلُومٖ
 sentence_translation: until an appointed time?
 word_by_word:
   1:
-    arabic: اِلٰى
+    arabic: إِلَىٰ
     translation: For
     transliteration: ilā
   2:
-    arabic: قَدَرٍ
+    arabic: قَدَرٖ
     translation: a period
     transliteration: qadarin
   3:
-    arabic: مَّعۡلُوۡمٍۙ‏
+    arabic: مَّعۡلُومٖ
     translation: known
     transliteration: maʿlūmin
 ---

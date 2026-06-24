@@ -1,7 +1,7 @@
 ---
-arabic_ayat: لِّيُعَذِّبَ اللّٰهُ الۡمُنٰفِقِيۡنَ وَالۡمُنٰفِقٰتِ وَالۡمُشۡرِكِيۡنَ
-  وَالۡمُشۡرِكٰتِ وَيَتُوۡبَ اللّٰهُ عَلَى الۡمُؤۡمِنِيۡنَ وَالۡمُؤۡمِنٰتِؕ وَكَانَ
-  اللّٰهُ غَفُوۡرًا رَّحِيۡمًا‏
+arabic_ayat: لِّيُعَذِّبَ ٱللَّهُ ٱلۡمُنَٰفِقِينَ وَٱلۡمُنَٰفِقَٰتِ وَٱلۡمُشۡرِكِينَ
+  وَٱلۡمُشۡرِكَٰتِ وَيَتُوبَ ٱللَّهُ عَلَى ٱلۡمُؤۡمِنِينَ وَٱلۡمُؤۡمِنَٰتِۗ وَكَانَ
+  ٱللَّهُ غَفُورٗا رَّحِيمَۢا
 sentence_translation: so that Allah will punish hypocrite men and women and polytheistic
   men and women, and Allah will turn in mercy to believing men and women. For Allah
   is All-Forgiving, Most Merciful. 
@@ -11,31 +11,31 @@ word_by_word:
     translation: So that Allah may punish
     transliteration: liyuʿadhiba
   2:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: So that Allah may punish
     transliteration: l-lahu
   3:
-    arabic: الۡمُنٰفِقِيۡنَ
+    arabic: ٱلۡمُنَٰفِقِينَ
     translation: the hypocrite men
     transliteration: l-munāfiqīna
   4:
-    arabic: وَالۡمُنٰفِقٰتِ
+    arabic: وَٱلۡمُنَٰفِقَٰتِ
     translation: and the hypocrite women
     transliteration: wal-munāfiqāti
   5:
-    arabic: وَالۡمُشۡرِكِيۡنَ
+    arabic: وَٱلۡمُشۡرِكِينَ
     translation: and the polytheist men
     transliteration: wal-mush'rikīna
   6:
-    arabic: وَالۡمُشۡرِكٰتِ
+    arabic: وَٱلۡمُشۡرِكَٰتِ
     translation: and the polytheist women
     transliteration: wal-mush'rikāti
   7:
-    arabic: وَيَتُوۡبَ
+    arabic: وَيَتُوبَ
     translation: and Allah will turn (in Mercy)
     transliteration: wayatūba
   8:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: and Allah will turn (in Mercy)
     transliteration: l-lahu
   9:
@@ -43,11 +43,11 @@ word_by_word:
     translation: to
     transliteration: ʿalā
   10:
-    arabic: الۡمُؤۡمِنِيۡنَ
+    arabic: ٱلۡمُؤۡمِنِينَ
     translation: the believing men
     transliteration: l-mu'minīna
   11:
-    arabic: وَالۡمُؤۡمِنٰتِؕ
+    arabic: وَٱلۡمُؤۡمِنَٰتِۗ
     translation: and the believing women
     transliteration: wal-mu'mināti
   12:
@@ -55,15 +55,15 @@ word_by_word:
     translation: And Allah is
     transliteration: wakāna
   13:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: And Allah is
     transliteration: l-lahu
   14:
-    arabic: غَفُوۡرًا
+    arabic: غَفُورٗا
     translation: Oft-Forgiving
     transliteration: ghafūran
   15:
-    arabic: رَّحِيۡمًا‏
+    arabic: رَّحِيمَۢا
     translation: Most Merciful
     transliteration: raḥīman
 ---

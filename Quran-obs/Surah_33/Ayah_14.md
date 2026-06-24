@@ -1,6 +1,6 @@
 ---
-arabic_ayat: وَلَوۡ دُخِلَتۡ عَلَيۡهِمۡ مِّنۡ اَقۡطَارِهَا ثُمَّ سُٮِٕلُوا الۡفِتۡنَةَ
-  لَاٰتَوۡهَا وَمَا تَلَبَّثُوۡا بِهَاۤ اِلَّا يَسِيۡرًا‏
+arabic_ayat: وَلَوۡ دُخِلَتۡ عَلَيۡهِم مِّنۡ أَقۡطَارِهَا ثُمَّ سُئِلُواْ ٱلۡفِتۡنَةَ
+  لَأٓتَوۡهَا وَمَا تَلَبَّثُواْ بِهَآ إِلَّا يَسِيرٗا
 sentence_translation: Had their city been sacked from all sides and they had been
   asked to abandon faith, they would have done so with little hesitation.
 word_by_word:
@@ -13,7 +13,7 @@ word_by_word:
     translation: had been entered
     transliteration: dukhilat
   3:
-    arabic: عَلَيۡهِمۡ
+    arabic: عَلَيۡهِم
     translation: upon them
     transliteration: ʿalayhim
   4:
@@ -21,7 +21,7 @@ word_by_word:
     translation: from
     transliteration: min
   5:
-    arabic: اَقۡطَارِهَا
+    arabic: أَقۡطَارِهَا
     translation: all its sides
     transliteration: aqṭārihā
   6:
@@ -29,15 +29,15 @@ word_by_word:
     translation: then
     transliteration: thumma
   7:
-    arabic: سُٮِٕلُوا
+    arabic: سُئِلُواْ
     translation: they had been asked
     transliteration: su-ilū
   8:
-    arabic: الۡفِتۡنَةَ
+    arabic: ٱلۡفِتۡنَةَ
     translation: the treachery
     transliteration: l-fit'nata
   9:
-    arabic: لَاٰتَوۡهَا
+    arabic: لَأٓتَوۡهَا
     translation: they (would) have certainly done it
     transliteration: laātawhā
   10:
@@ -45,19 +45,19 @@ word_by_word:
     translation: and not
     transliteration: wamā
   11:
-    arabic: تَلَبَّثُوۡا
+    arabic: تَلَبَّثُواْ
     translation: they (would) have hesitated
     transliteration: talabbathū
   12:
-    arabic: بِهَاۤ
+    arabic: بِهَآ
     translation: over it
     transliteration: bihā
   13:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   14:
-    arabic: يَسِيۡرًا‏
+    arabic: يَسِيرٗا
     translation: a little
     transliteration: yasīran
 ---

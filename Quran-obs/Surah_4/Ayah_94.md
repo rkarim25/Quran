@@ -1,9 +1,9 @@
 ---
-arabic_ayat: يٰۤـاَيُّهَا الَّذِيۡنَ اٰمَنُوۡۤا اِذَا ضَرَبۡتُمۡ فِىۡ سَبِيۡلِ اللّٰهِ
-  فَتَبَـيَّـنُوۡا وَلَا تَقُوۡلُوۡا لِمَنۡ اَ لۡقٰٓى اِلَيۡكُمُ السَّلٰمَ لَسۡتَ
-  مُؤۡمِنًا​ ۚ تَبۡـتَـغُوۡنَ عَرَضَ الۡحَيٰوةِ الدُّنۡيَا فَعِنۡدَ اللّٰهِ مَغَانِمُ
-  كَثِيۡرَةٌ​ ؕ كَذٰلِكَ كُنۡتُمۡ مِّنۡ قَبۡلُ فَمَنَّ اللّٰهُ عَلَيۡكُمۡ فَتَبَـيَّـنُوۡا​
-  ؕ اِنَّ اللّٰهَ كَانَ بِمَا تَعۡمَلُوۡنَ خَبِيۡرًا‏
+arabic_ayat: يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓاْ إِذَا ضَرَبۡتُمۡ فِي سَبِيلِ ٱللَّهِ
+  فَتَبَيَّنُواْ وَلَا تَقُولُواْ لِمَنۡ أَلۡقَىٰٓ إِلَيۡكُمُ ٱلسَّلَٰمَ لَسۡتَ مُؤۡمِنٗا
+  تَبۡتَغُونَ عَرَضَ ٱلۡحَيَوٰةِ ٱلدُّنۡيَا فَعِندَ ٱللَّهِ مَغَانِمُ كَثِيرَةٞۚ كَذَٰلِكَ
+  كُنتُم مِّن قَبۡلُ فَمَنَّ ٱللَّهُ عَلَيۡكُمۡ فَتَبَيَّنُوٓاْۚ إِنَّ ٱللَّهَ كَانَ
+  بِمَا تَعۡمَلُونَ خَبِيرٗا
 sentence_translation: O believers! When you struggle in the cause of Allah, be sure
   of who you fight. And do not say to those who offer you ˹greetings of˺ peace, “You
   are no believer!”—seeking a fleeting worldly gain. Instead, Allah has infinite bounties
@@ -11,19 +11,19 @@ sentence_translation: O believers! When you struggle in the cause of Allah, be s
   be sure! Indeed, Allah is All-Aware of what you do.
 word_by_word:
   1:
-    arabic: يٰۤـاَيُّهَا
+    arabic: يَٰٓأَيُّهَا
     translation: O you
     transliteration: yāayyuhā
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ ءَ
     translation: who
     transliteration: alladhīna
   3:
-    arabic: اٰمَنُوۡۤا
+    arabic: امَنُوٓاْ
     translation: believe[d]
     transliteration: āmanū
   4:
-    arabic: اِذَا
+    arabic: إِذَا
     translation: When
     transliteration: idhā
   5:
@@ -31,19 +31,19 @@ word_by_word:
     translation: you go forth
     transliteration: ḍarabtum
   6:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   7:
-    arabic: سَبِيۡلِ
+    arabic: سَبِيلِ
     translation: (the) way
     transliteration: sabīli
   8:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (of) Allah
     transliteration: l-lahi
   9:
-    arabic: فَتَبَـيَّـنُوۡا
+    arabic: فَتَبَيَّنُواْ
     translation: then investigate
     transliteration: fatabayyanū
   10:
@@ -51,7 +51,7 @@ word_by_word:
     translation: and (do) not
     transliteration: walā
   11:
-    arabic: تَقُوۡلُوۡا
+    arabic: تَقُولُواْ
     translation: say
     transliteration: taqūlū
   12:
@@ -59,15 +59,15 @@ word_by_word:
     translation: to (the one) who
     transliteration: liman
   13:
-    arabic: اَ لۡقٰٓى
+    arabic: أَلۡقَىٰٓ
     translation: offers
     transliteration: alqā
   14:
-    arabic: اِلَيۡكُمُ
+    arabic: إِلَيۡكُمُ
     translation: to you
     transliteration: ilaykumu
   15:
-    arabic: السَّلٰمَ
+    arabic: ٱلسَّلَٰمَ
     translation: (a greeting of) peace
     transliteration: l-salāma
   16:
@@ -75,11 +75,11 @@ word_by_word:
     translation: You are not
     transliteration: lasta
   17:
-    arabic: مُؤۡمِنًا​ ۚ
+    arabic: مُؤۡمِنٗا
     translation: a believer
     transliteration: mu'minan
   18:
-    arabic: تَبۡـتَـغُوۡنَ
+    arabic: تَبۡتَغُونَ
     translation: seeking
     transliteration: tabtaghūna
   19:
@@ -87,19 +87,19 @@ word_by_word:
     translation: transitory gains
     transliteration: ʿaraḍa
   20:
-    arabic: الۡحَيٰوةِ
+    arabic: ٱلۡحَيَوٰةِ
     translation: (of) the life
     transliteration: l-ḥayati
   21:
-    arabic: الدُّنۡيَا
+    arabic: ٱلدُّنۡيَا
     translation: (of) the world
     transliteration: l-dun'yā
   22:
-    arabic: فَعِنۡدَ
+    arabic: فَعِندَ
     translation: for with
     transliteration: faʿinda
   23:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   24:
@@ -107,19 +107,19 @@ word_by_word:
     translation: (are) booties
     transliteration: maghānimu
   25:
-    arabic: كَثِيۡرَةٌ​ ؕ
+    arabic: كَثِيرَةٞۚ
     translation: abundant
     transliteration: kathīratun
   26:
-    arabic: كَذٰلِكَ
+    arabic: كَذَٰلِكَ
     translation: Like that
     transliteration: kadhālika
   27:
-    arabic: كُنۡتُمۡ
+    arabic: كُنتُم
     translation: you were
     transliteration: kuntum
   28:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: from
     transliteration: min
   29:
@@ -131,7 +131,7 @@ word_by_word:
     translation: then conferred favor
     transliteration: famanna
   31:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   32:
@@ -139,15 +139,15 @@ word_by_word:
     translation: upon you
     transliteration: ʿalaykum
   33:
-    arabic: فَتَبَـيَّـنُوۡا​ ؕ
+    arabic: فَتَبَيَّنُوٓاْۚ
     translation: so investigate
     transliteration: fatabayyanū
   34:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   35:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   36:
@@ -159,11 +159,11 @@ word_by_word:
     translation: of what
     transliteration: bimā
   38:
-    arabic: تَعۡمَلُوۡنَ
+    arabic: تَعۡمَلُونَ
     translation: you do
     transliteration: taʿmalūna
   39:
-    arabic: خَبِيۡرًا‏
+    arabic: خَبِيرٗا
     translation: All-Aware
     transliteration: khabīran
 ---

@@ -1,7 +1,6 @@
 ---
-arabic_ayat: "قَالَ اهۡبِطَا مِنۡهَا جَمِيۡعًا​ۢ بَعۡضُكُمۡ لِبَعۡضٍ عَدُوٌّ​ ۚ فَاِمَّا\
-  \ يَاۡتِيَنَّكُمۡ مِّنِّىۡ هُدًى ۙ فَمَنِ اتَّبَعَ هُدَاىَ فَلَا يَضِلُّ وَلَا\
-  \ يَشۡقٰى‏ \uFEFF\uFEFF"
+arabic_ayat: قَالَ ٱهۡبِطَا مِنۡهَا جَمِيعَۢاۖ بَعۡضُكُمۡ لِبَعۡضٍ عَدُوّٞۖ فَإِمَّا
+  يَأۡتِيَنَّكُم مِّنِّي هُدٗى فَمَنِ ٱتَّبَعَ هُدَايَ فَلَا يَضِلُّ وَلَا يَشۡقَىٰ
 sentence_translation: Allah said, “Descend, both of you, from here together ˹with
   Satan˺ as enemies to each other. Then when guidance comes to you from Me, whoever
   follows My guidance will neither go astray ˹in this life˺ nor suffer ˹in the next˺.
@@ -11,7 +10,7 @@ word_by_word:
     translation: He said
     transliteration: qāla
   2:
-    arabic: اهۡبِطَا
+    arabic: ٱهۡبِطَا
     translation: Go down
     transliteration: ih'biṭā
   3:
@@ -19,7 +18,7 @@ word_by_word:
     translation: from it
     transliteration: min'hā
   4:
-    arabic: جَمِيۡعًا​ۢ
+    arabic: جَمِيعَۢاۖ
     translation: all
     transliteration: jamīʿan
   5:
@@ -31,23 +30,23 @@ word_by_word:
     translation: to others
     transliteration: libaʿḍin
   7:
-    arabic: عَدُوٌّ​ ۚ
+    arabic: عَدُوّٞۖ
     translation: (as) enemy
     transliteration: ʿaduwwun
   8:
-    arabic: فَاِمَّا
+    arabic: فَإِمَّا
     translation: Then if
     transliteration: fa-immā
   9:
-    arabic: يَاۡتِيَنَّكُمۡ
+    arabic: يَأۡتِيَنَّكُم
     translation: comes to you
     transliteration: yatiyannakum
   10:
-    arabic: مِّنِّىۡ
+    arabic: مِّنِّي
     translation: from Me
     transliteration: minnī
   11:
-    arabic: هُدًى ۙ
+    arabic: هُدٗى
     translation: guidance
     transliteration: hudan
   12:
@@ -55,11 +54,11 @@ word_by_word:
     translation: then whoever
     transliteration: famani
   13:
-    arabic: اتَّبَعَ
+    arabic: ٱتَّبَعَ
     translation: follows
     transliteration: ittabaʿa
   14:
-    arabic: هُدَاىَ
+    arabic: هُدَايَ
     translation: My guidance
     transliteration: hudāya
   15:
@@ -75,7 +74,7 @@ word_by_word:
     translation: and not
     transliteration: walā
   18:
-    arabic: "يَشۡقٰى‏ \uFEFF\uFEFF"
+    arabic: يَشۡقَىٰ
     translation: suffer
     transliteration: yashqā
 ---

@@ -1,23 +1,23 @@
 ---
-arabic_ayat: اَ فَلَمۡ يَنۡظُرُوۡۤا اِلَى السَّمَآءِ فَوۡقَهُمۡ كَيۡفَ بَنَيۡنٰهَا
-  وَزَ يَّـنّٰهَا وَمَا لَهَا مِنۡ فُرُوۡجٍ‏
+arabic_ayat: أَفَلَمۡ يَنظُرُوٓاْ إِلَى ٱلسَّمَآءِ فَوۡقَهُمۡ كَيۡفَ بَنَيۡنَٰهَا
+  وَزَيَّنَّٰهَا وَمَا لَهَا مِن فُرُوجٖ
 sentence_translation: 'Have they not then looked at the sky above them: how We built
   it and adorned it ˹with stars˺, leaving it flawless?'
 word_by_word:
   1:
-    arabic: اَ فَلَمۡ
+    arabic: أَفَلَمۡ
     translation: Then do not
     transliteration: afalam
   2:
-    arabic: يَنۡظُرُوۡۤا
+    arabic: يَنظُرُوٓاْ
     translation: they look
     transliteration: yanẓurū
   3:
-    arabic: اِلَى
+    arabic: إِلَى
     translation: at
     transliteration: ilā
   4:
-    arabic: السَّمَآءِ
+    arabic: ٱلسَّمَآءِ
     translation: the sky
     transliteration: l-samāi
   5:
@@ -29,11 +29,11 @@ word_by_word:
     translation: how
     transliteration: kayfa
   7:
-    arabic: بَنَيۡنٰهَا
+    arabic: بَنَيۡنَٰهَا
     translation: We structured it
     transliteration: banaynāhā
   8:
-    arabic: وَزَ يَّـنّٰهَا
+    arabic: وَزَيَّنَّٰهَا
     translation: and adorned it
     transliteration: wazayyannāhā
   9:
@@ -45,11 +45,11 @@ word_by_word:
     translation: for it
     transliteration: lahā
   11:
-    arabic: مِنۡ
+    arabic: مِن
     translation: any
     transliteration: min
   12:
-    arabic: فُرُوۡجٍ‏
+    arabic: فُرُوجٖ
     translation: rifts
     transliteration: furūjin
 ---

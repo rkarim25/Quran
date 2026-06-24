@@ -1,9 +1,9 @@
 ---
-arabic_ayat: وَابۡتَلُوا الۡيَتٰمٰى حَتّٰىۤ اِذَا بَلَغُوا النِّكَاحَ​ ۚ فَاِنۡ اٰنَسۡتُمۡ
-  مِّنۡهُمۡ رُشۡدًا فَادۡفَعُوۡۤا اِلَيۡهِمۡ اَمۡوَالَهُمۡ​ۚ وَلَا تَاۡكُلُوۡهَاۤ
-  اِسۡرَافًا وَّبِدَارًا اَنۡ يَّكۡبَرُوۡا​ ؕ وَمَنۡ كَانَ غَنِيًّا فَلۡيَسۡتَعۡفِفۡ​
-  ۚ وَمَنۡ كَانَ فَقِيۡرًا فَلۡيَاۡكُلۡ بِالۡمَعۡرُوۡفِ​ ؕ فَاِذَا دَفَعۡتُمۡ اِلَيۡهِمۡ
-  اَمۡوَالَهُمۡ فَاَشۡهِدُوۡا عَلَيۡهِمۡ​ ؕ وَكَفٰى بِاللّٰهِ حَسِيۡبًا‏
+arabic_ayat: وَٱبۡتَلُواْ ٱلۡيَتَٰمَىٰ حَتَّىٰٓ إِذَا بَلَغُواْ ٱلنِّكَاحَ فَإِنۡ
+  ءَانَسۡتُم مِّنۡهُمۡ رُشۡدٗا فَٱدۡفَعُوٓاْ إِلَيۡهِمۡ أَمۡوَٰلَهُمۡۖ وَلَا تَأۡكُلُوهَآ
+  إِسۡرَافٗا وَبِدَارًا أَن يَكۡبَرُواْۚ وَمَن كَانَ غَنِيّٗا فَلۡيَسۡتَعۡفِفۡۖ وَمَن
+  كَانَ فَقِيرٗا فَلۡيَأۡكُلۡ بِٱلۡمَعۡرُوفِۚ فَإِذَا دَفَعۡتُمۡ إِلَيۡهِمۡ أَمۡوَٰلَهُمۡ
+  فَأَشۡهِدُواْ عَلَيۡهِمۡۚ وَكَفَىٰ بِٱللَّهِ حَسِيبٗا
 sentence_translation: Test ˹the competence of˺ the orphans until they reach a marriageable
   age. Then if you feel they are capable of sound judgment, return their wealth to
   them. And do not consume it wastefully and hastily before they grow up ˹to demand
@@ -12,35 +12,35 @@ sentence_translation: Test ˹the competence of˺ the orphans until they reach a 
   their property, call in witnesses. And sufficient is Allah as a ˹vigilant˺ Reckoner.
 word_by_word:
   1:
-    arabic: وَابۡتَلُوا
+    arabic: وَٱبۡتَلُواْ
     translation: And test
     transliteration: wa-ib'talū
   2:
-    arabic: الۡيَتٰمٰى
+    arabic: ٱلۡيَتَٰمَىٰ
     translation: the orphans
     transliteration: l-yatāmā
   3:
-    arabic: حَتّٰىۤ
+    arabic: حَتَّىٰٓ
     translation: until
     transliteration: ḥattā
   4:
-    arabic: اِذَا
+    arabic: إِذَا
     translation: '[when]'
     transliteration: idhā
   5:
-    arabic: بَلَغُوا
+    arabic: بَلَغُواْ
     translation: they reach[ed]
     transliteration: balaghū
   6:
-    arabic: النِّكَاحَ​ ۚ
+    arabic: ٱلنِّكَاحَ
     translation: (the age of) marriage
     transliteration: l-nikāḥa
   7:
-    arabic: فَاِنۡ
+    arabic: فَإِنۡ ءَ
     translation: then if
     transliteration: fa-in
   8:
-    arabic: اٰنَسۡتُمۡ
+    arabic: انَسۡتُم
     translation: you perceive
     transliteration: ānastum
   9:
@@ -48,19 +48,19 @@ word_by_word:
     translation: in them
     transliteration: min'hum
   10:
-    arabic: رُشۡدًا
+    arabic: رُشۡدٗا
     translation: sound judgement
     transliteration: rush'dan
   11:
-    arabic: فَادۡفَعُوۡۤا
+    arabic: فَٱدۡفَعُوٓاْ
     translation: then deliver
     transliteration: fa-id'faʿū
   12:
-    arabic: اِلَيۡهِمۡ
+    arabic: إِلَيۡهِمۡ
     translation: to them
     transliteration: ilayhim
   13:
-    arabic: اَمۡوَالَهُمۡ​ۚ
+    arabic: أَمۡوَٰلَهُمۡۖ
     translation: their wealth
     transliteration: amwālahum
   14:
@@ -68,27 +68,27 @@ word_by_word:
     translation: And (do) not
     transliteration: walā
   15:
-    arabic: تَاۡكُلُوۡهَاۤ
+    arabic: تَأۡكُلُوهَآ
     translation: eat it
     transliteration: takulūhā
   16:
-    arabic: اِسۡرَافًا
+    arabic: إِسۡرَافٗا
     translation: extravagantly
     transliteration: is'rāfan
   17:
-    arabic: وَّبِدَارًا
+    arabic: وَبِدَارًا
     translation: and hastily
     transliteration: wabidāran
   18:
-    arabic: اَنۡ
+    arabic: أَن
     translation: (fearing) that
     transliteration: an
   19:
-    arabic: يَّكۡبَرُوۡا​ ؕ
+    arabic: يَكۡبَرُواْۚ
     translation: they will grow up
     transliteration: yakbarū
   20:
-    arabic: وَمَنۡ
+    arabic: وَمَن
     translation: And whoever
     transliteration: waman
   21:
@@ -96,15 +96,15 @@ word_by_word:
     translation: is
     transliteration: kāna
   22:
-    arabic: غَنِيًّا
+    arabic: غَنِيّٗا
     translation: rich
     transliteration: ghaniyyan
   23:
-    arabic: فَلۡيَسۡتَعۡفِفۡ​ ۚ
+    arabic: فَلۡيَسۡتَعۡفِفۡۖ
     translation: then he should refrain
     transliteration: falyastaʿfif
   24:
-    arabic: وَمَنۡ
+    arabic: وَمَن
     translation: and whoever
     transliteration: waman
   25:
@@ -112,19 +112,19 @@ word_by_word:
     translation: is
     transliteration: kāna
   26:
-    arabic: فَقِيۡرًا
+    arabic: فَقِيرٗا
     translation: poor
     transliteration: faqīran
   27:
-    arabic: فَلۡيَاۡكُلۡ
+    arabic: فَلۡيَأۡكُلۡ
     translation: then let him eat (of it)
     transliteration: falyakul
   28:
-    arabic: بِالۡمَعۡرُوۡفِ​ ؕ
+    arabic: بِٱلۡمَعۡرُوفِۚ
     translation: in a fair manner
     transliteration: bil-maʿrūfi
   29:
-    arabic: فَاِذَا
+    arabic: فَإِذَا
     translation: Then when
     transliteration: fa-idhā
   30:
@@ -132,31 +132,31 @@ word_by_word:
     translation: you deliver
     transliteration: dafaʿtum
   31:
-    arabic: اِلَيۡهِمۡ
+    arabic: إِلَيۡهِمۡ
     translation: to them
     transliteration: ilayhim
   32:
-    arabic: اَمۡوَالَهُمۡ
+    arabic: أَمۡوَٰلَهُمۡ
     translation: their wealth
     transliteration: amwālahum
   33:
-    arabic: فَاَشۡهِدُوۡا
+    arabic: فَأَشۡهِدُواْ
     translation: then take witnesses
     transliteration: fa-ashhidū
   34:
-    arabic: عَلَيۡهِمۡ​ ؕ
+    arabic: عَلَيۡهِمۡۚ
     translation: on them
     transliteration: ʿalayhim
   35:
-    arabic: وَكَفٰى
+    arabic: وَكَفَىٰ
     translation: And is sufficient
     transliteration: wakafā
   36:
-    arabic: بِاللّٰهِ
+    arabic: بِٱللَّهِ
     translation: Allah
     transliteration: bil-lahi
   37:
-    arabic: حَسِيۡبًا‏
+    arabic: حَسِيبٗا
     translation: (as) a Reckoner
     transliteration: ḥasīban
 ---

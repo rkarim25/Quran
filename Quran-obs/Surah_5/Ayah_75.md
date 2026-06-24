@@ -1,22 +1,22 @@
 ---
-arabic_ayat: مَا الۡمَسِيۡحُ ابۡنُ مَرۡيَمَ اِلَّا رَسُوۡلٌ​ ۚ قَدۡ خَلَتۡ مِنۡ قَبۡلِهِ
-  الرُّسُلُؕ وَاُمُّهٗ صِدِّيۡقَةٌ​  ؕ كَانَا يَاۡكُلٰنِ الطَّعَامَ​ؕ اُنْظُرۡ كَيۡفَ
-  نُبَيِّنُ لَهُمُ الۡاٰيٰتِ ثُمَّ انْظُرۡ اَ نّٰى يُؤۡفَكُوۡنَ‏
+arabic_ayat: مَّا ٱلۡمَسِيحُ ٱبۡنُ مَرۡيَمَ إِلَّا رَسُولٞ قَدۡ خَلَتۡ مِن قَبۡلِهِ
+  ٱلرُّسُلُ وَأُمُّهُۥ صِدِّيقَةٞۖ كَانَا يَأۡكُلَانِ ٱلطَّعَامَۗ ٱنظُرۡ كَيۡفَ نُبَيِّنُ
+  لَهُمُ ٱلۡأٓيَٰتِ ثُمَّ ٱنظُرۡ أَنَّىٰ يُؤۡفَكُونَ
 sentence_translation: The Messiah, son of Mary, was no more than a messenger. ˹Many˺
   messengers had ˹come and˺ gone before him. His mother was a woman of truth. They
   both ate food. See how We make the signs clear to them, yet see how they are deluded
   ˹from the truth˺!
 word_by_word:
   1:
-    arabic: مَا
+    arabic: مَّا
     translation: Not
     transliteration: mā
   2:
-    arabic: الۡمَسِيۡحُ
+    arabic: ٱلۡمَسِيحُ
     translation: (is) the Messiah
     transliteration: l-masīḥu
   3:
-    arabic: ابۡنُ
+    arabic: ٱبۡنُ
     translation: son
     transliteration: ub'nu
   4:
@@ -24,11 +24,11 @@ word_by_word:
     translation: (of) Maryam
     transliteration: maryama
   5:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: but
     transliteration: illā
   6:
-    arabic: رَسُوۡلٌ​ ۚ
+    arabic: رَسُولٞ
     translation: a Messenger
     transliteration: rasūlun
   7:
@@ -40,7 +40,7 @@ word_by_word:
     translation: had passed
     transliteration: khalat
   9:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   10:
@@ -48,15 +48,15 @@ word_by_word:
     translation: before him
     transliteration: qablihi
   11:
-    arabic: الرُّسُلُؕ
+    arabic: ٱلرُّسُلُ
     translation: the Messengers
     transliteration: l-rusulu
   12:
-    arabic: وَاُمُّهٗ
+    arabic: وَأُمُّهُۥ
     translation: And his mother
     transliteration: wa-ummuhu
   13:
-    arabic: صِدِّيۡقَةٌ​  ؕ
+    arabic: صِدِّيقَةٞۖ
     translation: (was) truthful
     transliteration: ṣiddīqatun
   14:
@@ -64,15 +64,15 @@ word_by_word:
     translation: They both used to
     transliteration: kānā
   15:
-    arabic: يَاۡكُلٰنِ
+    arabic: يَأۡكُلَانِ
     translation: eat
     transliteration: yakulāni
   16:
-    arabic: الطَّعَامَ​ؕ
+    arabic: ٱلطَّعَامَۗ
     translation: '[the] food'
     transliteration: l-ṭaʿāma
   17:
-    arabic: اُنْظُرۡ
+    arabic: ٱنظُرۡ
     translation: See
     transliteration: unẓur
   18:
@@ -88,7 +88,7 @@ word_by_word:
     translation: to them
     transliteration: lahumu
   21:
-    arabic: الۡاٰيٰتِ
+    arabic: ٱلۡأٓيَٰتِ
     translation: the Signs
     transliteration: l-āyāti
   22:
@@ -96,15 +96,15 @@ word_by_word:
     translation: then
     transliteration: thumma
   23:
-    arabic: انْظُرۡ
+    arabic: ٱنظُرۡ
     translation: see
     transliteration: unẓur
   24:
-    arabic: اَ نّٰى
+    arabic: أَنَّىٰ
     translation: how
     transliteration: annā
   25:
-    arabic: يُؤۡفَكُوۡنَ‏
+    arabic: يُؤۡفَكُونَ
     translation: they are deluded
     transliteration: yu'fakūna
 ---

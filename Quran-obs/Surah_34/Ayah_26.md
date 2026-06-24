@@ -1,6 +1,6 @@
 ---
-arabic_ayat: قُلۡ يَجۡمَعُ بَيۡنَـنَا رَبُّنَا ثُمَّ يَفۡتَحُ بَيۡنَـنَا بِالۡحَـقِّ
-  ؕ وَهُوَ الۡـفَتَّاحُ الۡعَلِيۡمُ‏
+arabic_ayat: قُلۡ يَجۡمَعُ بَيۡنَنَا رَبُّنَا ثُمَّ يَفۡتَحُ بَيۡنَنَا بِٱلۡحَقِّ
+  وَهُوَ ٱلۡفَتَّاحُ ٱلۡعَلِيمُ
 sentence_translation: Say, “Our Lord will gather us together, then He will judge between
   us with the truth. For He is the All-Knowing Judge.”
 word_by_word:
@@ -13,7 +13,7 @@ word_by_word:
     translation: Will gather
     transliteration: yajmaʿu
   3:
-    arabic: بَيۡنَـنَا
+    arabic: بَيۡنَنَا
     translation: us together
     transliteration: baynanā
   4:
@@ -29,11 +29,11 @@ word_by_word:
     translation: He will judge
     transliteration: yaftaḥu
   7:
-    arabic: بَيۡنَـنَا
+    arabic: بَيۡنَنَا
     translation: between us
     transliteration: baynanā
   8:
-    arabic: بِالۡحَـقِّ ؕ
+    arabic: بِٱلۡحَقِّ
     translation: in truth
     transliteration: bil-ḥaqi
   9:
@@ -41,11 +41,11 @@ word_by_word:
     translation: And He
     transliteration: wahuwa
   10:
-    arabic: الۡـفَتَّاحُ
+    arabic: ٱلۡفَتَّاحُ
     translation: (is) the Judge
     transliteration: l-fatāḥu
   11:
-    arabic: الۡعَلِيۡمُ‏
+    arabic: ٱلۡعَلِيمُ
     translation: the All-Knowing
     transliteration: l-ʿalīmu
 ---

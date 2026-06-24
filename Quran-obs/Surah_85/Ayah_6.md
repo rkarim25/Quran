@@ -1,9 +1,9 @@
 ---
-arabic_ayat: اِذۡ هُمۡ عَلَيۡهَا قُعُوۡدٌ ۙ‏
+arabic_ayat: إِذۡ هُمۡ عَلَيۡهَا قُعُودٞ
 sentence_translation: when they sat around it,
 word_by_word:
   1:
-    arabic: اِذۡ
+    arabic: إِذۡ
     translation: When
     transliteration: idh
   2:
@@ -15,7 +15,7 @@ word_by_word:
     translation: by it
     transliteration: ʿalayhā
   4:
-    arabic: قُعُوۡدٌ ۙ‏
+    arabic: قُعُودٞ
     translation: (were) sitting
     transliteration: quʿūdun
 ---

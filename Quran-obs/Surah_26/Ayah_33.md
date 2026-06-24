@@ -1,22 +1,22 @@
 ---
-arabic_ayat: وَّنَزَعَ يَدَهٗ فَاِذَا هِىَ بَيۡضَآءُ لِلنّٰظِرِيۡنَ‏
+arabic_ayat: وَنَزَعَ يَدَهُۥ فَإِذَا هِيَ بَيۡضَآءُ لِلنَّٰظِرِينَ
 sentence_translation: Then he drew his hand ˹out of his collar˺ and it was ˹shining˺
   white for all to see.
 word_by_word:
   1:
-    arabic: وَّنَزَعَ
+    arabic: وَنَزَعَ
     translation: And he drew out
     transliteration: wanazaʿa
   2:
-    arabic: يَدَهٗ
+    arabic: يَدَهُۥ
     translation: his hand
     transliteration: yadahu
   3:
-    arabic: فَاِذَا
+    arabic: فَإِذَا
     translation: and behold
     transliteration: fa-idhā
   4:
-    arabic: هِىَ
+    arabic: هِيَ
     translation: It
     transliteration: hiya
   5:
@@ -24,7 +24,7 @@ word_by_word:
     translation: (was) white
     transliteration: bayḍāu
   6:
-    arabic: لِلنّٰظِرِيۡنَ‏
+    arabic: لِلنَّٰظِرِينَ
     translation: for the observers
     transliteration: lilnnāẓirīna
 ---

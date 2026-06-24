@@ -1,16 +1,16 @@
 ---
-arabic_ayat: وَاِذۡ تَاَذَّنَ رَبُّكُمۡ لَٮِٕنۡ شَكَرۡتُمۡ لَاَزِيۡدَنَّـكُمۡ​ وَلَٮِٕنۡ
-  كَفَرۡتُمۡ اِنَّ عَذَابِىۡ لَشَدِيۡدٌ‏
+arabic_ayat: وَإِذۡ تَأَذَّنَ رَبُّكُمۡ لَئِن شَكَرۡتُمۡ لَأَزِيدَنَّكُمۡۖ وَلَئِن
+  كَفَرۡتُمۡ إِنَّ عَذَابِي لَشَدِيدٞ
 sentence_translation: And ˹remember˺ when your Lord proclaimed, ‘If you are grateful,
   I will certainly give you more. But if you are ungrateful, surely My punishment
   is severe.’”
 word_by_word:
   1:
-    arabic: وَاِذۡ
+    arabic: وَإِذۡ
     translation: And when
     transliteration: wa-idh
   2:
-    arabic: تَاَذَّنَ
+    arabic: تَأَذَّنَ
     translation: proclaimed
     transliteration: ta-adhana
   3:
@@ -18,7 +18,7 @@ word_by_word:
     translation: your Lord
     transliteration: rabbukum
   4:
-    arabic: لَٮِٕنۡ
+    arabic: لَئِن
     translation: If
     transliteration: la-in
   5:
@@ -26,11 +26,11 @@ word_by_word:
     translation: you are thankful
     transliteration: shakartum
   6:
-    arabic: لَاَزِيۡدَنَّـكُمۡ​
+    arabic: لَأَزِيدَنَّكُمۡۖ
     translation: surely I will increase you
     transliteration: la-azīdannakum
   7:
-    arabic: وَلَٮِٕنۡ
+    arabic: وَلَئِن
     translation: but if
     transliteration: wala-in
   8:
@@ -38,15 +38,15 @@ word_by_word:
     translation: you are ungrateful
     transliteration: kafartum
   9:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: indeed
     transliteration: inna
   10:
-    arabic: عَذَابِىۡ
+    arabic: عَذَابِي
     translation: My punishment
     transliteration: ʿadhābī
   11:
-    arabic: لَشَدِيۡدٌ‏
+    arabic: لَشَدِيدٞ
     translation: (is) surely severe
     transliteration: lashadīdun
 ---

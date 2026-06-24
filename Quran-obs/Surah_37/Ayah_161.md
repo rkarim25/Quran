@@ -1,9 +1,9 @@
 ---
-arabic_ayat: فَاِنَّكُمۡ وَمَا تَعۡبُدُوۡنَۙ‏
+arabic_ayat: فَإِنَّكُمۡ وَمَا تَعۡبُدُونَ
 sentence_translation: Surely you ˹pagans˺ and whatever ˹idols˺ you worship
 word_by_word:
   1:
-    arabic: فَاِنَّكُمۡ
+    arabic: فَإِنَّكُمۡ
     translation: So indeed, you
     transliteration: fa-innakum
   2:
@@ -11,7 +11,7 @@ word_by_word:
     translation: and what
     transliteration: wamā
   3:
-    arabic: تَعۡبُدُوۡنَۙ‏
+    arabic: تَعۡبُدُونَ
     translation: you worship
     transliteration: taʿbudūna
 ---

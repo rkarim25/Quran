@@ -1,33 +1,32 @@
 ---
-arabic_ayat: "وَكَذٰلِكَ فَتَـنَّا بَعۡضَهُمۡ بِبَـعۡضٍ لِّيَـقُوۡلُـوۡۤا اَهٰٓؤُلَآءِ\
-  \ مَنَّ اللّٰهُ عَلَيۡهِمۡ مِّنۡۢ بَيۡنِنَا ؕ اَلَـيۡسَ اللّٰهُ بِاَعۡلَمَ بِالشّٰكِرِيۡنَ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: وَكَذَٰلِكَ فَتَنَّا بَعۡضَهُم بِبَعۡضٖ لِّيَقُولُوٓاْ أَهَٰٓؤُلَآءِ
+  مَنَّ ٱللَّهُ عَلَيۡهِم مِّنۢ بَيۡنِنَآۗ أَلَيۡسَ ٱللَّهُ بِأَعۡلَمَ بِٱلشَّٰكِرِينَ
 sentence_translation: In this way We have tested some by means of others, so those
   ˹disbelievers˺ may say, “Has Allah favoured these ˹poor believers˺ out of all of
   us?” Does Allah not best recognize the grateful?
 word_by_word:
   1:
-    arabic: وَكَذٰلِكَ
+    arabic: وَكَذَٰلِكَ
     translation: And thus
     transliteration: wakadhālika
   2:
-    arabic: فَتَـنَّا
+    arabic: فَتَنَّا
     translation: We try
     transliteration: fatannā
   3:
-    arabic: بَعۡضَهُمۡ
+    arabic: بَعۡضَهُم
     translation: some of them
     transliteration: baʿḍahum
   4:
-    arabic: بِبَـعۡضٍ
+    arabic: بِبَعۡضٖ
     translation: with others
     transliteration: bibaʿḍin
   5:
-    arabic: لِّيَـقُوۡلُـوۡۤا
+    arabic: لِّيَقُولُوٓاْ
     translation: that they say
     transliteration: liyaqūlū
   6:
-    arabic: اَهٰٓؤُلَآءِ
+    arabic: أَهَٰٓؤُلَآءِ
     translation: Are these
     transliteration: ahāulāi
   7:
@@ -35,35 +34,35 @@ word_by_word:
     translation: (whom has been) favored
     transliteration: manna
   8:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: (by) Allah
     transliteration: l-lahu
   9:
-    arabic: عَلَيۡهِمۡ
+    arabic: عَلَيۡهِم
     translation: '[upon them]'
     transliteration: ʿalayhim
   10:
-    arabic: مِّنۡۢ
+    arabic: مِّنۢ
     translation: from
     transliteration: min
   11:
-    arabic: بَيۡنِنَا ؕ
+    arabic: بَيۡنِنَآۗ
     translation: among us
     transliteration: bayninā
   12:
-    arabic: اَلَـيۡسَ
+    arabic: أَلَيۡسَ
     translation: is not
     transliteration: alaysa
   13:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   14:
-    arabic: بِاَعۡلَمَ
+    arabic: بِأَعۡلَمَ
     translation: most knowing
     transliteration: bi-aʿlama
   15:
-    arabic: "بِالشّٰكِرِيۡنَ‏ \uFEFF\uFEFF"
+    arabic: بِٱلشَّٰكِرِينَ
     translation: of those who are grateful
     transliteration: bil-shākirīna
 ---

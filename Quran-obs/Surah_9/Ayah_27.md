@@ -1,6 +1,6 @@
 ---
-arabic_ayat: ثُمَّ يَتُوۡبُ اللّٰهُ مِنۡۢ بَعۡدِ ذٰ لِكَ عَلٰى مَنۡ يَّشَآءُ ​ؕ وَاللّٰهُ
-  غَفُوۡرٌ رَّحِيۡمٌ‏
+arabic_ayat: ثُمَّ يَتُوبُ ٱللَّهُ مِنۢ بَعۡدِ ذَٰلِكَ عَلَىٰ مَن يَشَآءُۗ وَٱللَّهُ
+  غَفُورٞ رَّحِيمٞ
 sentence_translation: Then afterwards Allah will turn in grace to whoever He wills. And
   Allah is All-Forgiving, Most Merciful.
 word_by_word:
@@ -9,15 +9,15 @@ word_by_word:
     translation: Then
     transliteration: thumma
   2:
-    arabic: يَتُوۡبُ
+    arabic: يَتُوبُ
     translation: Allah accepts repentance
     transliteration: yatūbu
   3:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah accepts repentance
     transliteration: l-lahu
   4:
-    arabic: مِنۡۢ
+    arabic: مِنۢ
     translation: after
     transliteration: min
   5:
@@ -25,31 +25,31 @@ word_by_word:
     translation: after
     transliteration: baʿdi
   6:
-    arabic: ذٰ لِكَ
+    arabic: ذَٰلِكَ
     translation: that
     transliteration: dhālika
   7:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: for
     transliteration: ʿalā
   8:
-    arabic: مَنۡ
+    arabic: مَن
     translation: whom
     transliteration: man
   9:
-    arabic: يَّشَآءُ ​ؕ
+    arabic: يَشَآءُۗ
     translation: He wills
     transliteration: yashāu
   10:
-    arabic: وَاللّٰهُ
+    arabic: وَٱللَّهُ
     translation: And Allah
     transliteration: wal-lahu
   11:
-    arabic: غَفُوۡرٌ
+    arabic: غَفُورٞ
     translation: (is) Oft-Forgiving
     transliteration: ghafūrun
   12:
-    arabic: رَّحِيۡمٌ‏
+    arabic: رَّحِيمٞ
     translation: Most Merciful
     transliteration: raḥīmun
 ---

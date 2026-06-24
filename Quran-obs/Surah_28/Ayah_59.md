@@ -1,13 +1,13 @@
 ---
-arabic_ayat: وَ مَا كَانَ رَبُّكَ مُهۡلِكَ الۡقُرٰى حَتّٰى يَبۡعَثَ فِىۡۤ اُمِّهَا
-  رَسُوۡلًا يَّتۡلُوۡا عَلَيۡهِمۡ اٰيٰتِنَا​ ۚ وَمَا كُنَّا مُهۡلِكِى الۡقُرٰٓى اِلَّا
-  وَاَهۡلُهَا ظٰلِمُوۡنَ‏
+arabic_ayat: وَمَا كَانَ رَبُّكَ مُهۡلِكَ ٱلۡقُرَىٰ حَتَّىٰ يَبۡعَثَ فِيٓ أُمِّهَا
+  رَسُولٗا يَتۡلُواْ عَلَيۡهِمۡ ءَايَٰتِنَاۚ وَمَا كُنَّا مُهۡلِكِي ٱلۡقُرَىٰٓ إِلَّا
+  وَأَهۡلُهَا ظَٰلِمُونَ
 sentence_translation: Your Lord would never destroy a society until He had sent to
   its capital a messenger, reciting Our revelations to them. Nor would We ever destroy
   a society unless its people persisted in wrongdoing.
 word_by_word:
   1:
-    arabic: وَ مَا
+    arabic: وَمَا
     translation: And not
     transliteration: wamā
   2:
@@ -23,11 +23,11 @@ word_by_word:
     translation: (the) one to destroy
     transliteration: muh'lika
   5:
-    arabic: الۡقُرٰى
+    arabic: ٱلۡقُرَىٰ
     translation: the towns
     transliteration: l-qurā
   6:
-    arabic: حَتّٰى
+    arabic: حَتَّىٰ
     translation: until
     transliteration: ḥattā
   7:
@@ -35,27 +35,27 @@ word_by_word:
     translation: He (had) sent
     transliteration: yabʿatha
   8:
-    arabic: فِىۡۤ
+    arabic: فِيٓ
     translation: in
     transliteration: fī
   9:
-    arabic: اُمِّهَا
+    arabic: أُمِّهَا
     translation: their mother (town)
     transliteration: ummihā
   10:
-    arabic: رَسُوۡلًا
+    arabic: رَسُولٗا
     translation: a Messenger
     transliteration: rasūlan
   11:
-    arabic: يَّتۡلُوۡا
+    arabic: يَتۡلُواْ
     translation: reciting
     transliteration: yatlū
   12:
-    arabic: عَلَيۡهِمۡ
+    arabic: عَلَيۡهِمۡ ءَ
     translation: to them
     transliteration: ʿalayhim
   13:
-    arabic: اٰيٰتِنَا​ ۚ
+    arabic: ايَٰتِنَاۚ
     translation: Our Verses
     transliteration: āyātinā
   14:
@@ -67,23 +67,23 @@ word_by_word:
     translation: We would be
     transliteration: kunnā
   16:
-    arabic: مُهۡلِكِى
+    arabic: مُهۡلِكِي
     translation: (the) one to destroy
     transliteration: muh'likī
   17:
-    arabic: الۡقُرٰٓى
+    arabic: ٱلۡقُرَىٰٓ
     translation: the towns
     transliteration: l-qurā
   18:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   19:
-    arabic: وَاَهۡلُهَا
+    arabic: وَأَهۡلُهَا
     translation: while their people
     transliteration: wa-ahluhā
   20:
-    arabic: ظٰلِمُوۡنَ‏
+    arabic: ظَٰلِمُونَ
     translation: (were) wrongdoers
     transliteration: ẓālimūna
 ---

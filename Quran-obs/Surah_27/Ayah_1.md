@@ -1,29 +1,29 @@
 ---
-arabic_ayat: طٰسٓ​ تِلۡكَ اٰيٰتُ الۡقُرۡاٰنِ وَكِتَابٍ مُّبِيۡنٍۙ‏
+arabic_ayat: طسٓۚ تِلۡكَ ءَايَٰتُ ٱلۡقُرۡءَانِ وَكِتَابٖ مُّبِينٍ
 sentence_translation: Ṭâ-Sĩn. These are the verses of the Quran; the clear Book.
 word_by_word:
   1:
-    arabic: طٰسٓ​
+    arabic: طسٓۚ
     translation: Ta Seen
     transliteration: tta-seen
   2:
-    arabic: تِلۡكَ
+    arabic: تِلۡكَ ءَ
     translation: These
     transliteration: til'ka
   3:
-    arabic: اٰيٰتُ
+    arabic: ايَٰتُ
     translation: (are the) Verses
     transliteration: āyātu
   4:
-    arabic: الۡقُرۡاٰنِ
+    arabic: ٱلۡقُرۡءَانِ
     translation: (of) the Quran
     transliteration: l-qur'āni
   5:
-    arabic: وَكِتَابٍ
+    arabic: وَكِتَابٖ
     translation: and a Book
     transliteration: wakitābin
   6:
-    arabic: مُّبِيۡنٍۙ‏
+    arabic: مُّبِينٍ
     translation: clear
     transliteration: mubīnin
 ---

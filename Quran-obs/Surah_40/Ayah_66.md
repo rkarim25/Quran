@@ -1,49 +1,48 @@
 ---
-arabic_ayat: "قُلۡ اِنِّىۡ نُهِيۡتُ اَنۡ اَعۡبُدَ الَّذِيۡنَ تَدۡعُوۡنَ مِنۡ دُوۡنِ\
-  \ اللّٰهِ لَمَّا جَآءَنِىَ الۡبَيِّنٰتُ مِنۡ رَّبِّىۡ وَاُمِرۡتُ اَنۡ اُسۡلِمَ\
-  \ لِرَبِّ الۡعٰلَمِيۡنَ‏ \uFEFF\uFEFF"
+arabic_ayat: ۞ قُلۡ إِنِّي نُهِيتُ أَنۡ أَعۡبُدَ ٱلَّذِينَ تَدۡعُونَ مِن دُونِ ٱللَّهِ
+  لَمَّا جَآءَنِيَ ٱلۡبَيِّنَٰتُ مِن رَّبِّي وَأُمِرۡتُ أَنۡ أُسۡلِمَ لِرَبِّ ٱلۡعَٰلَمِينَ
 sentence_translation: Say, ˹O Prophet,˺ “I have been forbidden to worship those ˹idols˺
   you worship besides Allah, since clear proofs have come to me from my Lord. And
   I have been commanded to ˹fully˺ submit to the Lord of all worlds.”
 word_by_word:
   1:
-    arabic: ۞ قُلۡ
+    arabic: ۞ قُلۡ
     translation: Say
     transliteration: qul
   2:
-    arabic: اِنِّىۡ
+    arabic: إِنِّي
     translation: Indeed, I
     transliteration: innī
   3:
-    arabic: نُهِيۡتُ
+    arabic: نُهِيتُ
     translation: '[I] have been forbidden'
     transliteration: nuhītu
   4:
-    arabic: اَنۡ
+    arabic: أَنۡ
     translation: to
     transliteration: an
   5:
-    arabic: اَعۡبُدَ
+    arabic: أَعۡبُدَ
     translation: worship
     transliteration: aʿbuda
   6:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those whom
     transliteration: alladhīna
   7:
-    arabic: تَدۡعُوۡنَ
+    arabic: تَدۡعُونَ
     translation: you call
     transliteration: tadʿūna
   8:
-    arabic: مِنۡ
+    arabic: مِن
     translation: besides
     transliteration: min
   9:
-    arabic: دُوۡنِ
+    arabic: دُونِ
     translation: besides
     transliteration: dūni
   10:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   11:
@@ -51,31 +50,31 @@ word_by_word:
     translation: when
     transliteration: lammā
   12:
-    arabic: جَآءَنِىَ
+    arabic: جَآءَنِيَ
     translation: have come to me
     transliteration: jāaniya
   13:
-    arabic: الۡبَيِّنٰتُ
+    arabic: ٱلۡبَيِّنَٰتُ
     translation: the clear proofs
     transliteration: l-bayinātu
   14:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   15:
-    arabic: رَّبِّىۡ
+    arabic: رَّبِّي
     translation: my Lord
     transliteration: rabbī
   16:
-    arabic: وَاُمِرۡتُ
+    arabic: وَأُمِرۡتُ
     translation: and I am commanded
     transliteration: wa-umir'tu
   17:
-    arabic: اَنۡ
+    arabic: أَنۡ
     translation: to
     transliteration: an
   18:
-    arabic: اُسۡلِمَ
+    arabic: أُسۡلِمَ
     translation: submit
     transliteration: us'lima
   19:
@@ -83,7 +82,7 @@ word_by_word:
     translation: to (the) Lord
     transliteration: lirabbi
   20:
-    arabic: "الۡعٰلَمِيۡنَ‏ \uFEFF\uFEFF"
+    arabic: ٱلۡعَٰلَمِينَ
     translation: (of) the worlds
     transliteration: l-ʿālamīna
 ---

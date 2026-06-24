@@ -1,16 +1,16 @@
 ---
-arabic_ayat: لَنۡ تُغۡنِىَ عَنۡهُمۡ اَمۡوَالُهُمۡ وَلَاۤ اَوۡلَادُهُمۡ مِّنَ اللّٰهِ
-  شَيۡــًٔـا​ ؕ اُولٰٓٮِٕكَ اَصۡحٰبُ النَّارِ​ ؕ هُمۡ فِيۡهَا خٰلِدُوۡنَ‏
+arabic_ayat: لَّن تُغۡنِيَ عَنۡهُمۡ أَمۡوَٰلُهُمۡ وَلَآ أَوۡلَٰدُهُم مِّنَ ٱللَّهِ
+  شَيۡـًٔاۚ أُوْلَٰٓئِكَ أَصۡحَٰبُ ٱلنَّارِۖ هُمۡ فِيهَا خَٰلِدُونَ
 sentence_translation: Neither their wealth nor children will be of any help to them
   against Allah whatsoever. It is they who will be the residents of the Fire. They
   will be there forever.
 word_by_word:
   1:
-    arabic: لَنۡ
+    arabic: لَّن
     translation: Never
     transliteration: lan
   2:
-    arabic: تُغۡنِىَ
+    arabic: تُغۡنِيَ
     translation: will avail
     transliteration: tugh'niya
   3:
@@ -18,15 +18,15 @@ word_by_word:
     translation: them
     transliteration: ʿanhum
   4:
-    arabic: اَمۡوَالُهُمۡ
+    arabic: أَمۡوَٰلُهُمۡ
     translation: their wealth
     transliteration: amwāluhum
   5:
-    arabic: وَلَاۤ
+    arabic: وَلَآ
     translation: and not
     transliteration: walā
   6:
-    arabic: اَوۡلَادُهُمۡ
+    arabic: أَوۡلَٰدُهُم
     translation: their children
     transliteration: awlāduhum
   7:
@@ -34,23 +34,23 @@ word_by_word:
     translation: against
     transliteration: mina
   8:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   9:
-    arabic: شَيۡــًٔـا​ ؕ
+    arabic: شَيۡـًٔاۚ
     translation: (in) anything
     transliteration: shayan
   10:
-    arabic: اُولٰٓٮِٕكَ
+    arabic: أُوْلَٰٓئِكَ
     translation: Those
     transliteration: ulāika
   11:
-    arabic: اَصۡحٰبُ
+    arabic: أَصۡحَٰبُ
     translation: (will be) companions
     transliteration: aṣḥābu
   12:
-    arabic: النَّارِ​ ؕ
+    arabic: ٱلنَّارِۖ
     translation: (of) the Fire
     transliteration: l-nāri
   13:
@@ -58,11 +58,11 @@ word_by_word:
     translation: they
     transliteration: hum
   14:
-    arabic: فِيۡهَا
+    arabic: فِيهَا
     translation: in it
     transliteration: fīhā
   15:
-    arabic: خٰلِدُوۡنَ‏
+    arabic: خَٰلِدُونَ
     translation: will abide forever
     transliteration: khālidūna
 ---

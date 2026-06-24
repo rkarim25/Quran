@@ -1,14 +1,14 @@
 ---
-arabic_ayat: لِّـئَلَّا يَعۡلَمَ اَهۡلُ الۡكِتٰبِ اَلَّا يَقۡدِرُوۡنَ عَلٰى شَىۡءٍ
-  مِّنۡ فَضۡلِ اللّٰهِ​ وَاَنَّ الۡفَضۡلَ بِيَدِ اللّٰهِ يُؤۡتِيۡهِ مَنۡ يَّشَآءُ​
-  ؕ وَاللّٰهُ ذُوۡ الۡفَضۡلِ الۡعَظِيۡمِ‏
+arabic_ayat: لِّئَلَّا يَعۡلَمَ أَهۡلُ ٱلۡكِتَٰبِ أَلَّا يَقۡدِرُونَ عَلَىٰ شَيۡءٖ
+  مِّن فَضۡلِ ٱللَّهِ وَأَنَّ ٱلۡفَضۡلَ بِيَدِ ٱللَّهِ يُؤۡتِيهِ مَن يَشَآءُۚ وَٱللَّهُ
+  ذُو ٱلۡفَضۡلِ ٱلۡعَظِيمِ
 sentence_translation: ˹This is so˺ that the People of the Book ˹who deny the Prophet˺
   may know that they do not have any control over Allah’s grace, and that all grace
   is in Allah’s Hands. He grants it to whoever He wills. For Allah is the Lord of
   infinite bounty.
 word_by_word:
   1:
-    arabic: لِّـئَلَّا
+    arabic: لِّئَلَّا
     translation: So that
     transliteration: li-allā
   2:
@@ -16,31 +16,31 @@ word_by_word:
     translation: may know
     transliteration: yaʿlama
   3:
-    arabic: اَهۡلُ
+    arabic: أَهۡلُ
     translation: (the) People
     transliteration: ahlu
   4:
-    arabic: الۡكِتٰبِ
+    arabic: ٱلۡكِتَٰبِ
     translation: (of) the Book
     transliteration: l-kitābi
   5:
-    arabic: اَلَّا
+    arabic: أَلَّا
     translation: that not
     transliteration: allā
   6:
-    arabic: يَقۡدِرُوۡنَ
+    arabic: يَقۡدِرُونَ
     translation: they have power
     transliteration: yaqdirūna
   7:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: over
     transliteration: ʿalā
   8:
-    arabic: شَىۡءٍ
+    arabic: شَيۡءٖ
     translation: anything
     transliteration: shayin
   9:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: from
     transliteration: min
   10:
@@ -48,15 +48,15 @@ word_by_word:
     translation: (the) Bounty
     transliteration: faḍli
   11:
-    arabic: اللّٰهِ​
+    arabic: ٱللَّهِ
     translation: (of) Allah
     transliteration: l-lahi
   12:
-    arabic: وَاَنَّ
+    arabic: وَأَنَّ
     translation: and that
     transliteration: wa-anna
   13:
-    arabic: الۡفَضۡلَ
+    arabic: ٱلۡفَضۡلَ
     translation: the Bounty
     transliteration: l-faḍla
   14:
@@ -64,35 +64,35 @@ word_by_word:
     translation: (is) in Allah's Hand
     transliteration: biyadi
   15:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (is) in Allah's Hand
     transliteration: l-lahi
   16:
-    arabic: يُؤۡتِيۡهِ
+    arabic: يُؤۡتِيهِ
     translation: He gives it
     transliteration: yu'tīhi
   17:
-    arabic: مَنۡ
+    arabic: مَن
     translation: whom
     transliteration: man
   18:
-    arabic: يَّشَآءُ​ ؕ
+    arabic: يَشَآءُۚ
     translation: He wills
     transliteration: yashāu
   19:
-    arabic: وَاللّٰهُ
+    arabic: وَٱللَّهُ
     translation: And Allah
     transliteration: wal-lahu
   20:
-    arabic: ذُوۡ
+    arabic: ذُو
     translation: (is) the Possessor of Bounty
     transliteration: dhū
   21:
-    arabic: الۡفَضۡلِ
+    arabic: ٱلۡفَضۡلِ
     translation: (is) the Possessor of Bounty
     transliteration: l-faḍli
   22:
-    arabic: الۡعَظِيۡمِ‏
+    arabic: ٱلۡعَظِيمِ
     translation: the Great
     transliteration: l-ʿaẓīmi
 ---

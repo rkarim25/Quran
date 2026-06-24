@@ -1,15 +1,15 @@
 ---
-arabic_ayat: اِنَّ اِبۡرٰهِيۡمَ كَانَ اُمَّةً قَانِتًا لِّلَّهِ حَنِيۡفًاؕ وَلَمۡ
-  يَكُ مِنَ الۡمُشۡرِكِيۡنَۙ‏
+arabic_ayat: إِنَّ إِبۡرَٰهِيمَ كَانَ أُمَّةٗ قَانِتٗا لِّلَّهِ حَنِيفٗا وَلَمۡ يَكُ
+  مِنَ ٱلۡمُشۡرِكِينَ
 sentence_translation: 'Indeed, Abraham was a model of excellence: devoted to Allah,
   ˹perfectly˺ upright—not a polytheist—'
 word_by_word:
   1:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   2:
-    arabic: اِبۡرٰهِيۡمَ
+    arabic: إِبۡرَٰهِيمَ
     translation: Ibrahim
     transliteration: ib'rāhīma
   3:
@@ -17,19 +17,19 @@ word_by_word:
     translation: was
     transliteration: kāna
   4:
-    arabic: اُمَّةً
+    arabic: أُمَّةٗ
     translation: a nation
     transliteration: ummatan
   5:
-    arabic: قَانِتًا
+    arabic: قَانِتٗا
     translation: obedient
     transliteration: qānitan
   6:
-    arabic: لِّلَّهِ
+    arabic: لِّلَّهِ
     translation: to Allah
     transliteration: lillahi
   7:
-    arabic: حَنِيۡفًاؕ
+    arabic: حَنِيفٗا
     translation: upright
     transliteration: ḥanīfan
   8:
@@ -45,7 +45,7 @@ word_by_word:
     translation: of
     transliteration: mina
   11:
-    arabic: الۡمُشۡرِكِيۡنَۙ‏
+    arabic: ٱلۡمُشۡرِكِينَ
     translation: the polytheists
     transliteration: l-mush'rikīna
 ---

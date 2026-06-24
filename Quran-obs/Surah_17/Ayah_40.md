@@ -1,23 +1,23 @@
 ---
-arabic_ayat: اَفَاَصۡفٰٮكُمۡ رَبُّكُمۡ بِالۡبَـنِيۡنَ وَ اتَّخَذَ مِنَ الۡمَلٰۤٮِٕكَةِ
-  اِنَاثًا​ ؕ اِنَّكُمۡ لَتَقُوۡلُوۡنَ قَوۡلًا عَظِيۡمًا‏
+arabic_ayat: أَفَأَصۡفَىٰكُمۡ رَبُّكُم بِٱلۡبَنِينَ وَٱتَّخَذَ مِنَ ٱلۡمَلَٰٓئِكَةِ
+  إِنَٰثًاۚ إِنَّكُمۡ لَتَقُولُونَ قَوۡلًا عَظِيمٗا
 sentence_translation: Has your Lord favoured you ˹pagans˺ with sons and taken angels
   as ˹His˺ daughters? You are truly making an outrageous claim.
 word_by_word:
   1:
-    arabic: اَفَاَصۡفٰٮكُمۡ
+    arabic: أَفَأَصۡفَىٰكُمۡ
     translation: Then has your Lord chosen (for) you
     transliteration: afa-aṣfākum
   2:
-    arabic: رَبُّكُمۡ
+    arabic: رَبُّكُم
     translation: Then has your Lord chosen (for) you
     transliteration: rabbukum
   3:
-    arabic: بِالۡبَـنِيۡنَ
+    arabic: بِٱلۡبَنِينَ
     translation: sons
     transliteration: bil-banīna
   4:
-    arabic: وَ اتَّخَذَ
+    arabic: وَٱتَّخَذَ
     translation: and He has taken
     transliteration: wa-ittakhadha
   5:
@@ -25,19 +25,19 @@ word_by_word:
     translation: from
     transliteration: mina
   6:
-    arabic: الۡمَلٰۤٮِٕكَةِ
+    arabic: ٱلۡمَلَٰٓئِكَةِ
     translation: the Angels
     transliteration: l-malāikati
   7:
-    arabic: اِنَاثًا​ ؕ
+    arabic: إِنَٰثًاۚ
     translation: daughters
     transliteration: ināthan
   8:
-    arabic: اِنَّكُمۡ
+    arabic: إِنَّكُمۡ
     translation: Indeed, you
     transliteration: innakum
   9:
-    arabic: لَتَقُوۡلُوۡنَ
+    arabic: لَتَقُولُونَ
     translation: surely say
     transliteration: lataqūlūna
   10:
@@ -45,7 +45,7 @@ word_by_word:
     translation: a word
     transliteration: qawlan
   11:
-    arabic: عَظِيۡمًا‏
+    arabic: عَظِيمٗا
     translation: grave
     transliteration: ʿaẓīman
 ---

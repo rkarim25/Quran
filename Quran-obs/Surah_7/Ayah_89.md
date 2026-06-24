@@ -1,9 +1,9 @@
 ---
-arabic_ayat: قَدِ افۡتَرَيۡنَا عَلَى اللّٰهِ كَذِبًا اِنۡ عُدۡنَا فِىۡ مِلَّتِكُمۡ
-  بَعۡدَ اِذۡ نَجّٰٮنَا اللّٰهُ مِنۡهَا​ ؕ وَمَا يَكُوۡنُ لَـنَاۤ اَنۡ نَّعُوۡدَ فِيۡهَاۤ
-  اِلَّاۤ اَنۡ يَّشَآءَ اللّٰهُ رَبُّنَا​ ؕ وَسِعَ رَبُّنَا كُلَّ شَىۡءٍ عِلۡمًا​ؕ
-  عَلَى اللّٰهِ تَوَكَّلۡنَا​ ؕ رَبَّنَا افۡتَحۡ بَيۡنَنَا وَبَيۡنَ قَوۡمِنَا بِالۡحَـقِّ
-  وَاَنۡتَ خَيۡرُ الۡفٰتِحِيۡنَ‏
+arabic_ayat: قَدِ ٱفۡتَرَيۡنَا عَلَى ٱللَّهِ كَذِبًا إِنۡ عُدۡنَا فِي مِلَّتِكُم بَعۡدَ
+  إِذۡ نَجَّىٰنَا ٱللَّهُ مِنۡهَاۚ وَمَا يَكُونُ لَنَآ أَن نَّعُودَ فِيهَآ إِلَّآ
+  أَن يَشَآءَ ٱللَّهُ رَبُّنَاۚ وَسِعَ رَبُّنَا كُلَّ شَيۡءٍ عِلۡمًاۚ عَلَى ٱللَّهِ
+  تَوَكَّلۡنَاۚ رَبَّنَا ٱفۡتَحۡ بَيۡنَنَا وَبَيۡنَ قَوۡمِنَا بِٱلۡحَقِّ وَأَنتَ خَيۡرُ
+  ٱلۡفَٰتِحِينَ
 sentence_translation: We would surely be fabricating a lie against Allah if we were
   to return to your faith after Allah has saved us from it. It does not befit us to
   return to it unless it is the Will of Allah, our Lord. Our Lord has encompassed
@@ -15,7 +15,7 @@ word_by_word:
     translation: Verily
     transliteration: qadi
   2:
-    arabic: افۡتَرَيۡنَا
+    arabic: ٱفۡتَرَيۡنَا
     translation: we would have fabricated
     transliteration: if'taraynā
   3:
@@ -23,7 +23,7 @@ word_by_word:
     translation: against
     transliteration: ʿalā
   4:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   5:
@@ -31,7 +31,7 @@ word_by_word:
     translation: a lie
     transliteration: kadhiban
   6:
-    arabic: اِنۡ
+    arabic: إِنۡ
     translation: if
     transliteration: in
   7:
@@ -39,11 +39,11 @@ word_by_word:
     translation: we returned
     transliteration: ʿud'nā
   8:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   9:
-    arabic: مِلَّتِكُمۡ
+    arabic: مِلَّتِكُم
     translation: your religion
     transliteration: millatikum
   10:
@@ -51,19 +51,19 @@ word_by_word:
     translation: after
     transliteration: baʿda
   11:
-    arabic: اِذۡ
+    arabic: إِذۡ
     translation: '[when]'
     transliteration: idh
   12:
-    arabic: نَجّٰٮنَا
+    arabic: نَجَّىٰنَا
     translation: saved us
     transliteration: najjānā
   13:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   14:
-    arabic: مِنۡهَا​ ؕ
+    arabic: مِنۡهَاۚ
     translation: from it
     transliteration: min'hā
   15:
@@ -71,43 +71,43 @@ word_by_word:
     translation: And not
     transliteration: wamā
   16:
-    arabic: يَكُوۡنُ
+    arabic: يَكُونُ
     translation: it is
     transliteration: yakūnu
   17:
-    arabic: لَـنَاۤ
+    arabic: لَنَآ
     translation: for us
     transliteration: lanā
   18:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that
     transliteration: an
   19:
-    arabic: نَّعُوۡدَ
+    arabic: نَّعُودَ
     translation: we return
     transliteration: naʿūda
   20:
-    arabic: فِيۡهَاۤ
+    arabic: فِيهَآ
     translation: in it
     transliteration: fīhā
   21:
-    arabic: اِلَّاۤ
+    arabic: إِلَّآ
     translation: except
     transliteration: illā
   22:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that
     transliteration: an
   23:
-    arabic: يَّشَآءَ
+    arabic: يَشَآءَ
     translation: wills
     transliteration: yashāa
   24:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: 'Allah '
     transliteration: l-lahu
   25:
-    arabic: رَبُّنَا​ ؕ
+    arabic: رَبُّنَاۚ
     translation: our Lord
     transliteration: rabbunā
   26:
@@ -123,11 +123,11 @@ word_by_word:
     translation: every
     transliteration: kulla
   29:
-    arabic: شَىۡءٍ
+    arabic: شَيۡءٍ
     translation: thing
     transliteration: shayin
   30:
-    arabic: عِلۡمًا​ؕ
+    arabic: عِلۡمًاۚ
     translation: (in) knowledge
     transliteration: ʿil'man
   31:
@@ -135,11 +135,11 @@ word_by_word:
     translation: Upon
     transliteration: ʿalā
   32:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   33:
-    arabic: تَوَكَّلۡنَا​ ؕ
+    arabic: تَوَكَّلۡنَاۚ
     translation: we put our trust
     transliteration: tawakkalnā
   34:
@@ -147,7 +147,7 @@ word_by_word:
     translation: Our Lord
     transliteration: rabbanā
   35:
-    arabic: افۡتَحۡ
+    arabic: ٱفۡتَحۡ
     translation: Decide
     transliteration: if'taḥ
   36:
@@ -163,11 +163,11 @@ word_by_word:
     translation: our people
     transliteration: qawminā
   39:
-    arabic: بِالۡحَـقِّ
+    arabic: بِٱلۡحَقِّ
     translation: in truth
     transliteration: bil-ḥaqi
   40:
-    arabic: وَاَنۡتَ
+    arabic: وَأَنتَ
     translation: and You
     transliteration: wa-anta
   41:
@@ -175,7 +175,7 @@ word_by_word:
     translation: (are the) Best
     transliteration: khayru
   42:
-    arabic: الۡفٰتِحِيۡنَ‏
+    arabic: ٱلۡفَٰتِحِينَ
     translation: (of) those who Decide
     transliteration: l-fātiḥīna
 ---

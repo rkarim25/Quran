@@ -1,9 +1,9 @@
 ---
-arabic_ayat: وَّفَوَاكِهَ مِمَّا يَشۡتَهُوۡنَؕ‏
+arabic_ayat: وَفَوَٰكِهَ مِمَّا يَشۡتَهُونَ
 sentence_translation: and any fruit they desire.
 word_by_word:
   1:
-    arabic: وَّفَوَاكِهَ
+    arabic: وَفَوَٰكِهَ
     translation: And fruits
     transliteration: wafawākiha
   2:
@@ -11,7 +11,7 @@ word_by_word:
     translation: from what
     transliteration: mimmā
   3:
-    arabic: يَشۡتَهُوۡنَؕ‏
+    arabic: يَشۡتَهُونَ
     translation: they desire
     transliteration: yashtahūna
 ---

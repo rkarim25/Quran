@@ -1,16 +1,16 @@
 ---
-arabic_ayat: قَالُوۡۤا اَتَعۡجَبِيۡنَ مِنۡ اَمۡرِ اللّٰهِ​ رَحۡمَتُ اللّٰهِ وَبَرَكٰتُهٗ
-  عَلَيۡكُمۡ اَهۡلَ الۡبَيۡتِ​ؕ اِنَّهٗ حَمِيۡدٌ مَّجِيۡدٌ‏
+arabic_ayat: قَالُوٓاْ أَتَعۡجَبِينَ مِنۡ أَمۡرِ ٱللَّهِۖ رَحۡمَتُ ٱللَّهِ وَبَرَكَٰتُهُۥ
+  عَلَيۡكُمۡ أَهۡلَ ٱلۡبَيۡتِۚ إِنَّهُۥ حَمِيدٞ مَّجِيدٞ
 sentence_translation: They responded, “Are you astonished by Allah’s decree? May Allah’s
   mercy and blessings be upon you, O  people of this house. Indeed, He is Praiseworthy,
   All-Glorious.”
 word_by_word:
   1:
-    arabic: قَالُوۡۤا
+    arabic: قَالُوٓاْ
     translation: They said
     transliteration: qālū
   2:
-    arabic: اَتَعۡجَبِيۡنَ
+    arabic: أَتَعۡجَبِينَ
     translation: Are you amazed
     transliteration: ataʿjabīna
   3:
@@ -18,11 +18,11 @@ word_by_word:
     translation: at
     transliteration: min
   4:
-    arabic: اَمۡرِ
+    arabic: أَمۡرِ
     translation: (the) decree of Allah
     transliteration: amri
   5:
-    arabic: اللّٰهِ​
+    arabic: ٱللَّهِۖ
     translation: (the) decree of Allah
     transliteration: l-lahi
   6:
@@ -30,11 +30,11 @@ word_by_word:
     translation: The Mercy of Allah
     transliteration: raḥmatu
   7:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: The Mercy of Allah
     transliteration: l-lahi
   8:
-    arabic: وَبَرَكٰتُهٗ
+    arabic: وَبَرَكَٰتُهُۥ
     translation: and His blessings
     transliteration: wabarakātuhu
   9:
@@ -42,23 +42,23 @@ word_by_word:
     translation: (be) upon you
     transliteration: ʿalaykum
   10:
-    arabic: اَهۡلَ
+    arabic: أَهۡلَ
     translation: people
     transliteration: ahla
   11:
-    arabic: الۡبَيۡتِ​ؕ
+    arabic: ٱلۡبَيۡتِۚ
     translation: (of) the house
     transliteration: l-bayti
   12:
-    arabic: اِنَّهٗ
+    arabic: إِنَّهُۥ
     translation: Indeed, He
     transliteration: innahu
   13:
-    arabic: حَمِيۡدٌ
+    arabic: حَمِيدٞ
     translation: (is) All-Praiseworthy
     transliteration: ḥamīdun
   14:
-    arabic: مَّجِيۡدٌ‏
+    arabic: مَّجِيدٞ
     translation: All-Glorious
     transliteration: majīdun
 ---

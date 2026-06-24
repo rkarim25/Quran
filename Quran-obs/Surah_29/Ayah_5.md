@@ -1,11 +1,11 @@
 ---
-arabic_ayat: مَنۡ كَانَ يَرۡجُوۡا لِقَآءَ اللّٰهِ فَاِنَّ اَجَلَ اللّٰهِ لَاٰتٍ​ؕ
-  وَهُوَ السَّمِيۡعُ الۡعَلِيۡمُ‏
+arabic_ayat: مَن كَانَ يَرۡجُواْ لِقَآءَ ٱللَّهِ فَإِنَّ أَجَلَ ٱللَّهِ لَأٓتٖۚ وَهُوَ
+  ٱلسَّمِيعُ ٱلۡعَلِيمُ
 sentence_translation: Whoever hopes for the meeting with Allah, ˹let them know that˺
   Allah’s appointed time is sure to come. He is the All-Hearing, All-Knowing.
 word_by_word:
   1:
-    arabic: مَنۡ
+    arabic: مَن
     translation: Whoever
     transliteration: man
   2:
@@ -13,7 +13,7 @@ word_by_word:
     translation: '[is]'
     transliteration: kāna
   3:
-    arabic: يَرۡجُوۡا
+    arabic: يَرۡجُواْ
     translation: hopes
     transliteration: yarjū
   4:
@@ -21,23 +21,23 @@ word_by_word:
     translation: (for the) meeting
     transliteration: liqāa
   5:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (with) Allah
     transliteration: l-lahi
   6:
-    arabic: فَاِنَّ
+    arabic: فَإِنَّ
     translation: then indeed
     transliteration: fa-inna
   7:
-    arabic: اَجَلَ
+    arabic: أَجَلَ
     translation: (the) Term
     transliteration: ajala
   8:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (of) Allah
     transliteration: l-lahi
   9:
-    arabic: لَاٰتٍ​ؕ
+    arabic: لَأٓتٖۚ
     translation: (is) surely coming
     transliteration: laātin
   10:
@@ -45,11 +45,11 @@ word_by_word:
     translation: And He
     transliteration: wahuwa
   11:
-    arabic: السَّمِيۡعُ
+    arabic: ٱلسَّمِيعُ
     translation: (is) the All-Hearer
     transliteration: l-samīʿu
   12:
-    arabic: الۡعَلِيۡمُ‏
+    arabic: ٱلۡعَلِيمُ
     translation: the All-Knower
     transliteration: l-ʿalīmu
 ---

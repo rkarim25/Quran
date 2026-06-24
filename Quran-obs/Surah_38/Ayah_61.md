@@ -1,11 +1,11 @@
 ---
-arabic_ayat: "قَالُوۡا رَبَّنَا مَنۡ قَدَّمَ لَنَا هٰذَا فَزِدۡهُ عَذَابًا ضِعۡفًا\
-  \ فِى النَّارِ‏ \uFEFF\uFEFF"
+arabic_ayat: قَالُواْ رَبَّنَا مَن قَدَّمَ لَنَا هَٰذَا فَزِدۡهُ عَذَابٗا ضِعۡفٗا
+  فِي ٱلنَّارِ
 sentence_translation: Adding, “Our Lord! Whoever brought this upon us, double their
   punishment in the Fire.”
 word_by_word:
   1:
-    arabic: قَالُوۡا
+    arabic: قَالُواْ
     translation: They will say
     transliteration: qālū
   2:
@@ -13,7 +13,7 @@ word_by_word:
     translation: Our Lord
     transliteration: rabbanā
   3:
-    arabic: مَنۡ
+    arabic: مَن
     translation: whoever
     transliteration: man
   4:
@@ -25,7 +25,7 @@ word_by_word:
     translation: upon us
     transliteration: lanā
   6:
-    arabic: هٰذَا
+    arabic: هَٰذَا
     translation: this
     transliteration: hādhā
   7:
@@ -33,19 +33,19 @@ word_by_word:
     translation: increase for him
     transliteration: fazid'hu
   8:
-    arabic: عَذَابًا
+    arabic: عَذَابٗا
     translation: a punishment
     transliteration: ʿadhāban
   9:
-    arabic: ضِعۡفًا
+    arabic: ضِعۡفٗا
     translation: double
     transliteration: ḍiʿ'fan
   10:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   11:
-    arabic: "النَّارِ‏ \uFEFF\uFEFF"
+    arabic: ٱلنَّارِ
     translation: the Fire
     transliteration: l-nāri
 ---

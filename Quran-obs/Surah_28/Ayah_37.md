@@ -1,6 +1,6 @@
 ---
-arabic_ayat: وَقَالَ مُوۡسٰى رَبِّىۡۤ اَعۡلَمُ بِمَنۡ جَآءَ بِالۡهُدٰى مِنۡ عِنۡدِهٖ
-  وَمَنۡ تَكُوۡنُ لَهٗ عَاقِبَةُ الدَّارِ​ؕ اِنَّهٗ لَا يُفۡلِحُ الظّٰلِمُوۡنَ‏
+arabic_ayat: وَقَالَ مُوسَىٰ رَبِّيٓ أَعۡلَمُ بِمَن جَآءَ بِٱلۡهُدَىٰ مِنۡ عِندِهِۦ
+  وَمَن تَكُونُ لَهُۥ عَٰقِبَةُ ٱلدَّارِۚ إِنَّهُۥ لَا يُفۡلِحُ ٱلظَّٰلِمُونَ
 sentence_translation: Moses responded, “My Lord knows best who has come with ˹true˺
   guidance from Him and will fare best in the end. Indeed, the wrongdoers will never
   succeed.”
@@ -10,19 +10,19 @@ word_by_word:
     translation: And Musa said
     transliteration: waqāla
   2:
-    arabic: مُوۡسٰى
+    arabic: مُوسَىٰ
     translation: And Musa said
     transliteration: mūsā
   3:
-    arabic: رَبِّىۡۤ
+    arabic: رَبِّيٓ
     translation: My Lord
     transliteration: rabbī
   4:
-    arabic: اَعۡلَمُ
+    arabic: أَعۡلَمُ
     translation: knows best
     transliteration: aʿlamu
   5:
-    arabic: بِمَنۡ
+    arabic: بِمَن
     translation: of who
     transliteration: biman
   6:
@@ -30,7 +30,7 @@ word_by_word:
     translation: has come
     transliteration: jāa
   7:
-    arabic: بِالۡهُدٰى
+    arabic: بِٱلۡهُدَىٰ
     translation: with [the] guidance
     transliteration: bil-hudā
   8:
@@ -38,31 +38,31 @@ word_by_word:
     translation: from Him
     transliteration: min
   9:
-    arabic: عِنۡدِهٖ
+    arabic: عِندِهِۦ
     translation: from Him
     transliteration: ʿindihi
   10:
-    arabic: وَمَنۡ
+    arabic: وَمَن
     translation: 'and who '
     transliteration: waman
   11:
-    arabic: تَكُوۡنُ
+    arabic: تَكُونُ
     translation: will be
     transliteration: takūnu
   12:
-    arabic: لَهٗ
+    arabic: لَهُۥ
     translation: for him
     transliteration: lahu
   13:
-    arabic: عَاقِبَةُ
+    arabic: عَٰقِبَةُ
     translation: the good end in the Hereafter
     transliteration: ʿāqibatu
   14:
-    arabic: الدَّارِ​ؕ
+    arabic: ٱلدَّارِۚ
     translation: the good end in the Hereafter
     transliteration: l-dāri
   15:
-    arabic: اِنَّهٗ
+    arabic: إِنَّهُۥ
     translation: Indeed
     transliteration: innahu
   16:
@@ -74,7 +74,7 @@ word_by_word:
     translation: will be successful
     transliteration: yuf'liḥu
   18:
-    arabic: الظّٰلِمُوۡنَ‏
+    arabic: ٱلظَّٰلِمُونَ
     translation: the wrongdoers
     transliteration: l-ẓālimūna
 ---

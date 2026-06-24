@@ -1,6 +1,6 @@
 ---
-arabic_ayat: وَهُوَ الَّذِىۡۤ اَرۡسَلَ الرِّيٰحَ بُشۡرًۢا بَيۡنَ يَدَىۡ رَحۡمَتِهٖ​ۚ
-  وَاَنۡزَلۡنَا مِنَ السَّمَآءِ مَآءً طَهُوۡرًا ۙ‏
+arabic_ayat: وَهُوَ ٱلَّذِيٓ أَرۡسَلَ ٱلرِّيَٰحَ بُشۡرَۢا بَيۡنَ يَدَيۡ رَحۡمَتِهِۦۚ
+  وَأَنزَلۡنَا مِنَ ٱلسَّمَآءِ مَآءٗ طَهُورٗا
 sentence_translation: And He is the One Who sends the winds ushering in His mercy,
   and We send down pure rain from the sky,
 word_by_word:
@@ -9,19 +9,19 @@ word_by_word:
     translation: And He
     transliteration: wahuwa
   2:
-    arabic: الَّذِىۡۤ
+    arabic: ٱلَّذِيٓ
     translation: (is) the One Who
     transliteration: alladhī
   3:
-    arabic: اَرۡسَلَ
+    arabic: أَرۡسَلَ
     translation: sends
     transliteration: arsala
   4:
-    arabic: الرِّيٰحَ
+    arabic: ٱلرِّيَٰحَ
     translation: the winds
     transliteration: l-riyāḥa
   5:
-    arabic: بُشۡرًۢا
+    arabic: بُشۡرَۢا
     translation: (as) glad tidings
     transliteration: bush'ran
   6:
@@ -29,15 +29,15 @@ word_by_word:
     translation: before
     transliteration: bayna
   7:
-    arabic: يَدَىۡ
+    arabic: يَدَيۡ
     translation: before
     transliteration: yaday
   8:
-    arabic: رَحۡمَتِهٖ​ۚ
+    arabic: رَحۡمَتِهِۦۚ
     translation: His Mercy
     transliteration: raḥmatihi
   9:
-    arabic: وَاَنۡزَلۡنَا
+    arabic: وَأَنزَلۡنَا
     translation: and We send down
     transliteration: wa-anzalnā
   10:
@@ -45,15 +45,15 @@ word_by_word:
     translation: from
     transliteration: mina
   11:
-    arabic: السَّمَآءِ
+    arabic: ٱلسَّمَآءِ
     translation: the sky
     transliteration: l-samāi
   12:
-    arabic: مَآءً
+    arabic: مَآءٗ
     translation: water
     transliteration: māan
   13:
-    arabic: طَهُوۡرًا ۙ‏
+    arabic: طَهُورٗا
     translation: pure
     transliteration: ṭahūran
 ---

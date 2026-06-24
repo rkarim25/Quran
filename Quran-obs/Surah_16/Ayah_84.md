@@ -1,6 +1,6 @@
 ---
-arabic_ayat: وَيَوۡمَ نَـبۡعَثُ مِنۡ كُلِّ اُمَّةٍ شَهِيۡدًا ثُمَّ لَا يُؤۡذَنُ لِلَّذِيۡنَ
-  كَفَرُوۡا وَلَا هُمۡ يُسۡتَعۡتَبُوۡنَ‏
+arabic_ayat: وَيَوۡمَ نَبۡعَثُ مِن كُلِّ أُمَّةٖ شَهِيدٗا ثُمَّ لَا يُؤۡذَنُ لِلَّذِينَ
+  كَفَرُواْ وَلَا هُمۡ يُسۡتَعۡتَبُونَ
 sentence_translation: ˹Consider, O  Prophet,˺ the Day We will call ˹a prophet as˺
   a witness from every faith-community. Then the disbelievers will neither be allowed
   to plead nor appease ˹their Lord˺.
@@ -10,11 +10,11 @@ word_by_word:
     translation: And the Day
     transliteration: wayawma
   2:
-    arabic: نَـبۡعَثُ
+    arabic: نَبۡعَثُ
     translation: We will resurrect
     transliteration: nabʿathu
   3:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   4:
@@ -22,11 +22,11 @@ word_by_word:
     translation: every
     transliteration: kulli
   5:
-    arabic: اُمَّةٍ
+    arabic: أُمَّةٖ
     translation: nation
     transliteration: ummatin
   6:
-    arabic: شَهِيۡدًا
+    arabic: شَهِيدٗا
     translation: a witness
     transliteration: shahīdan
   7:
@@ -42,11 +42,11 @@ word_by_word:
     translation: will be permitted
     transliteration: yu'dhanu
   10:
-    arabic: لِلَّذِيۡنَ
+    arabic: لِلَّذِينَ
     translation: to those who
     transliteration: lilladhīna
   11:
-    arabic: كَفَرُوۡا
+    arabic: كَفَرُواْ
     translation: disbelieved
     transliteration: kafarū
   12:
@@ -58,7 +58,7 @@ word_by_word:
     translation: they
     transliteration: hum
   14:
-    arabic: يُسۡتَعۡتَبُوۡنَ‏
+    arabic: يُسۡتَعۡتَبُونَ
     translation: will be asked to make amends
     transliteration: yus'taʿtabūna
 ---

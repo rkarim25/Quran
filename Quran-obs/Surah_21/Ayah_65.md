@@ -1,6 +1,5 @@
 ---
-arabic_ayat: "ثُمَّ نُكِسُوۡا عَلٰى رُءُوۡسِہِمۡ​ۚ لَـقَدۡ عَلِمۡتَ مَا هٰٓؤُلَاۤءِ\
-  \ يَنۡطِقُوۡنَ‏ \uFEFF\uFEFF"
+arabic_ayat: ثُمَّ نُكِسُواْ عَلَىٰ رُءُوسِهِمۡ لَقَدۡ عَلِمۡتَ مَا هَٰٓؤُلَآءِ يَنطِقُونَ
 sentence_translation: Then they ˹quickly˺ regressed to their ˹original˺ mind-set,
   ˹arguing,˺ “You already know that those ˹idols˺ cannot talk.”
 word_by_word:
@@ -9,19 +8,19 @@ word_by_word:
     translation: Then
     transliteration: thumma
   2:
-    arabic: نُكِسُوۡا
+    arabic: نُكِسُواْ
     translation: they were turned
     transliteration: nukisū
   3:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: 'on'
     transliteration: ʿalā
   4:
-    arabic: رُءُوۡسِہِمۡ​ۚ
+    arabic: رُءُوسِهِمۡ
     translation: their heads
     transliteration: ruūsihim
   5:
-    arabic: لَـقَدۡ
+    arabic: لَقَدۡ
     translation: Verily
     transliteration: laqad
   6:
@@ -33,11 +32,11 @@ word_by_word:
     translation: not
     transliteration: mā
   8:
-    arabic: هٰٓؤُلَاۤءِ
+    arabic: هَٰٓؤُلَآءِ
     translation: these
     transliteration: hāulāi
   9:
-    arabic: "يَنۡطِقُوۡنَ‏ \uFEFF\uFEFF"
+    arabic: يَنطِقُونَ
     translation: (can) speak
     transliteration: yanṭiqūna
 ---

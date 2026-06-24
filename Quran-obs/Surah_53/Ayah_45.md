@@ -1,9 +1,9 @@
 ---
-arabic_ayat: وَاَنَّهٗ خَلَقَ الزَّوۡجَيۡنِ الذَّكَرَ وَالۡاُنۡثٰىۙ‏
+arabic_ayat: وَأَنَّهُۥ خَلَقَ ٱلزَّوۡجَيۡنِ ٱلذَّكَرَ وَٱلۡأُنثَىٰ
 sentence_translation: And He created the pairs—males and females—
 word_by_word:
   1:
-    arabic: وَاَنَّهٗ
+    arabic: وَأَنَّهُۥ
     translation: And that He
     transliteration: wa-annahu
   2:
@@ -11,15 +11,15 @@ word_by_word:
     translation: created
     transliteration: khalaqa
   3:
-    arabic: الزَّوۡجَيۡنِ
+    arabic: ٱلزَّوۡجَيۡنِ
     translation: the pairs
     transliteration: l-zawjayni
   4:
-    arabic: الذَّكَرَ
+    arabic: ٱلذَّكَرَ
     translation: the male
     transliteration: l-dhakara
   5:
-    arabic: وَالۡاُنۡثٰىۙ‏
+    arabic: وَٱلۡأُنثَىٰ
     translation: and the female
     transliteration: wal-unthā
 ---

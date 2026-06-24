@@ -1,27 +1,27 @@
 ---
-arabic_ayat: يٰۤـاَيُّهَا النَّاسُ اتَّقُوۡا رَبَّكُمۡ​ۚ اِنَّ زَلۡزَلَةَ السَّاعَةِ
-  شَىۡءٌ عَظِيۡمٌ‏
+arabic_ayat: يَٰٓأَيُّهَا ٱلنَّاسُ ٱتَّقُواْ رَبَّكُمۡۚ إِنَّ زَلۡزَلَةَ ٱلسَّاعَةِ
+  شَيۡءٌ عَظِيمٞ
 sentence_translation: O humanity! Fear your Lord, for the ˹violent˺ quaking at the
   Hour is surely a dreadful thing.
 word_by_word:
   1:
-    arabic: يٰۤـاَيُّهَا
+    arabic: يَٰٓأَيُّهَا
     translation: O mankind
     transliteration: yāayyuhā
   2:
-    arabic: النَّاسُ
+    arabic: ٱلنَّاسُ
     translation: O mankind
     transliteration: l-nāsu
   3:
-    arabic: اتَّقُوۡا
+    arabic: ٱتَّقُواْ
     translation: Fear
     transliteration: ittaqū
   4:
-    arabic: رَبَّكُمۡ​ۚ
+    arabic: رَبَّكُمۡۚ
     translation: your Lord
     transliteration: rabbakum
   5:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   6:
@@ -29,15 +29,15 @@ word_by_word:
     translation: (the) convulsion
     transliteration: zalzalata
   7:
-    arabic: السَّاعَةِ
+    arabic: ٱلسَّاعَةِ
     translation: (of) the Hour
     transliteration: l-sāʿati
   8:
-    arabic: شَىۡءٌ
+    arabic: شَيۡءٌ
     translation: (is) a thing
     transliteration: shayon
   9:
-    arabic: عَظِيۡمٌ‏
+    arabic: عَظِيمٞ
     translation: great
     transliteration: ʿaẓīmun
 ---

@@ -1,7 +1,6 @@
 ---
-arabic_ayat: "قُلۡ مَنۡ كَانَ عَدُوًّا لِّجِبۡرِيۡلَ فَاِنَّهٗ نَزَّلَهٗ عَلٰى قَلۡبِكَ\
-  \ بِاِذۡنِ اللّٰهِ مُصَدِّقًا لِّمَا بَيۡنَ يَدَيۡهِ وَهُدًى وَّبُشۡرٰى لِلۡمُؤۡمِنِيۡنَ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: قُلۡ مَن كَانَ عَدُوّٗا لِّـجِبۡرِيلَ فَإِنَّهُۥ نَزَّلَهُۥ عَلَىٰ قَلۡبِكَ
+  بِإِذۡنِ ٱللَّهِ مُصَدِّقٗا لِّمَا بَيۡنَ يَدَيۡهِ وَهُدٗى وَبُشۡرَىٰ لِلۡمُؤۡمِنِينَ
 sentence_translation: Say, ˹O Prophet,˺ “Whoever is an enemy of Gabriel should know
   that he revealed this ˹Quran˺ to your heart by Allah’s Will, confirming what came
   before it—a guide and good news for the believers.”
@@ -11,7 +10,7 @@ word_by_word:
     translation: Say
     transliteration: qul
   2:
-    arabic: مَنۡ
+    arabic: مَن
     translation: Whoever
     transliteration: man
   3:
@@ -19,23 +18,23 @@ word_by_word:
     translation: is
     transliteration: kāna
   4:
-    arabic: عَدُوًّا
+    arabic: عَدُوّٗا
     translation: an enemy
     transliteration: ʿaduwwan
   5:
-    arabic: لِّجِبۡرِيۡلَ
+    arabic: لِّـجِبۡرِيلَ
     translation: 'to Jibreel '
     transliteration: lijib'rīla
   6:
-    arabic: فَاِنَّهٗ
+    arabic: فَإِنَّهُۥ
     translation: then indeed he
     transliteration: fa-innahu
   7:
-    arabic: نَزَّلَهٗ
+    arabic: نَزَّلَهُۥ
     translation: brought it down
     transliteration: nazzalahu
   8:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: 'on'
     transliteration: ʿalā
   9:
@@ -43,15 +42,15 @@ word_by_word:
     translation: your heart
     transliteration: qalbika
   10:
-    arabic: بِاِذۡنِ
+    arabic: بِإِذۡنِ
     translation: by (the) permission
     transliteration: bi-idh'ni
   11:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (of) Allah
     transliteration: l-lahi
   12:
-    arabic: مُصَدِّقًا
+    arabic: مُصَدِّقٗا
     translation: confirming
     transliteration: muṣaddiqan
   13:
@@ -67,15 +66,15 @@ word_by_word:
     translation: before it
     transliteration: yadayhi
   16:
-    arabic: وَهُدًى
+    arabic: وَهُدٗى
     translation: and a guidance
     transliteration: wahudan
   17:
-    arabic: وَّبُشۡرٰى
+    arabic: وَبُشۡرَىٰ
     translation: and glad tiding(s)
     transliteration: wabush'rā
   18:
-    arabic: "لِلۡمُؤۡمِنِيۡنَ‏ \uFEFF\uFEFF"
+    arabic: لِلۡمُؤۡمِنِينَ
     translation: for the believers
     transliteration: lil'mu'minīna
 ---

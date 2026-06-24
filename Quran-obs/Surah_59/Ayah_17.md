@@ -1,6 +1,6 @@
 ---
-arabic_ayat: فَكَانَ عَاقِبَتَهُمَاۤ اَنَّهُمَا فِى النَّارِ خَالِدَيۡنِ فِيۡهَا​
-  ؕ وَذٰ لِكَ جَزٰٓؤُا الظّٰلِمِيۡن‏
+arabic_ayat: فَكَانَ عَٰقِبَتَهُمَآ أَنَّهُمَا فِي ٱلنَّارِ خَٰلِدَيۡنِ فِيهَاۚ وَذَٰلِكَ
+  جَزَٰٓؤُاْ ٱلظَّٰلِمِينَ
 sentence_translation: So they will both end up in the Fire, staying there forever.
   That is the reward of the wrongdoers.
 word_by_word:
@@ -9,39 +9,39 @@ word_by_word:
     translation: So will be
     transliteration: fakāna
   2:
-    arabic: عَاقِبَتَهُمَاۤ
+    arabic: عَٰقِبَتَهُمَآ
     translation: (the) end of both of them
     transliteration: ʿāqibatahumā
   3:
-    arabic: اَنَّهُمَا
+    arabic: أَنَّهُمَا
     translation: that they
     transliteration: annahumā
   4:
-    arabic: فِى
+    arabic: فِي
     translation: (will be) in
     transliteration: fī
   5:
-    arabic: النَّارِ
+    arabic: ٱلنَّارِ
     translation: the Fire
     transliteration: l-nāri
   6:
-    arabic: خَالِدَيۡنِ
+    arabic: خَٰلِدَيۡنِ
     translation: abiding forever
     transliteration: khālidayni
   7:
-    arabic: فِيۡهَا​ ؕ
+    arabic: فِيهَاۚ
     translation: therein
     transliteration: fīhā
   8:
-    arabic: وَذٰ لِكَ
+    arabic: وَذَٰلِكَ
     translation: And that
     transliteration: wadhālika
   9:
-    arabic: جَزٰٓؤُا
+    arabic: جَزَٰٓؤُاْ
     translation: (is the) recompense
     transliteration: jazāu
   10:
-    arabic: الظّٰلِمِيۡن‏
+    arabic: ٱلظَّٰلِمِينَ
     translation: (of) the wrongdoers
     transliteration: l-ẓālimīna
 ---

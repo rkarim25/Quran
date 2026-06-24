@@ -1,6 +1,5 @@
 ---
-arabic_ayat: "قُلۡ عَسٰٓى اَنۡ يَّكُوۡنَ رَدِفَ لَـكُمۡ بَعۡضُ الَّذِىۡ تَسۡتَعۡجِلُوۡنَ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: قُلۡ عَسَىٰٓ أَن يَكُونَ رَدِفَ لَكُم بَعۡضُ ٱلَّذِي تَسۡتَعۡجِلُونَ
 sentence_translation: Say, ˹O Prophet,˺ “Perhaps some of what you seek to hasten is
   close at hand.”
 word_by_word:
@@ -9,15 +8,15 @@ word_by_word:
     translation: Say
     transliteration: qul
   2:
-    arabic: عَسٰٓى
+    arabic: عَسَىٰٓ
     translation: Perhaps
     transliteration: ʿasā
   3:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that
     transliteration: an
   4:
-    arabic: يَّكُوۡنَ
+    arabic: يَكُونَ
     translation: is
     transliteration: yakūna
   5:
@@ -25,7 +24,7 @@ word_by_word:
     translation: close behind
     transliteration: radifa
   6:
-    arabic: لَـكُمۡ
+    arabic: لَكُم
     translation: you
     transliteration: lakum
   7:
@@ -33,11 +32,11 @@ word_by_word:
     translation: some
     transliteration: baʿḍu
   8:
-    arabic: الَّذِىۡ
+    arabic: ٱلَّذِي
     translation: (of) that which
     transliteration: alladhī
   9:
-    arabic: "تَسۡتَعۡجِلُوۡنَ‏ \uFEFF\uFEFF"
+    arabic: تَسۡتَعۡجِلُونَ
     translation: you seek to hasten
     transliteration: tastaʿjilūna
 ---

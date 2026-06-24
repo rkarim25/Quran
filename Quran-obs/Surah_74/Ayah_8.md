@@ -1,9 +1,9 @@
 ---
-arabic_ayat: فَاِذَا نُقِرَ فِى النَّاقُوۡرِۙ‏
+arabic_ayat: فَإِذَا نُقِرَ فِي ٱلنَّاقُورِ
 sentence_translation: ˹For˺ when the Trumpet will be sounded,
 word_by_word:
   1:
-    arabic: فَاِذَا
+    arabic: فَإِذَا
     translation: Then when
     transliteration: fa-idhā
   2:
@@ -11,11 +11,11 @@ word_by_word:
     translation: is blown
     transliteration: nuqira
   3:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   4:
-    arabic: النَّاقُوۡرِۙ‏
+    arabic: ٱلنَّاقُورِ
     translation: the trumpet
     transliteration: l-nāqūri
 ---

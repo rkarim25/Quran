@@ -1,35 +1,35 @@
 ---
-arabic_ayat: وَمَنۡ يَّتَوَلَّ اللّٰهَ وَ رَسُوۡلَهٗ وَالَّذِيۡنَ اٰمَنُوۡا فَاِنَّ
-  حِزۡبَ اللّٰهِ هُمُ الۡغٰلِبُوۡنَ‏
+arabic_ayat: وَمَن يَتَوَلَّ ٱللَّهَ وَرَسُولَهُۥ وَٱلَّذِينَ ءَامَنُواْ فَإِنَّ حِزۡبَ
+  ٱللَّهِ هُمُ ٱلۡغَٰلِبُونَ
 sentence_translation: Whoever allies themselves with Allah, His Messenger, and fellow
   believers, then it is certainly Allah’s party that will prevail.
 word_by_word:
   1:
-    arabic: وَمَنۡ
+    arabic: وَمَن
     translation: And whoever
     transliteration: waman
   2:
-    arabic: يَّتَوَلَّ
+    arabic: يَتَوَلَّ
     translation: takes as an ally
     transliteration: yatawalla
   3:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   4:
-    arabic: وَ رَسُوۡلَهٗ
+    arabic: وَرَسُولَهُۥ
     translation: and His Messenger
     transliteration: warasūlahu
   5:
-    arabic: وَالَّذِيۡنَ
+    arabic: وَٱلَّذِينَ ءَ
     translation: and those who
     transliteration: wa-alladhīna
   6:
-    arabic: اٰمَنُوۡا
+    arabic: امَنُواْ
     translation: believe
     transliteration: āmanū
   7:
-    arabic: فَاِنَّ
+    arabic: فَإِنَّ
     translation: then indeed
     transliteration: fa-inna
   8:
@@ -37,7 +37,7 @@ word_by_word:
     translation: (the) party
     transliteration: ḥiz'ba
   9:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: '(of) Allah '
     transliteration: l-lahi
   10:
@@ -45,7 +45,7 @@ word_by_word:
     translation: they
     transliteration: humu
   11:
-    arabic: الۡغٰلِبُوۡنَ‏
+    arabic: ٱلۡغَٰلِبُونَ
     translation: (are) the victorious
     transliteration: l-ghālibūna
 ---

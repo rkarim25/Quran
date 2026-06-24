@@ -1,31 +1,30 @@
 ---
-arabic_ayat: "يَوۡمَٮِٕذٍ يَّصۡدُرُ النَّاسُ اَشۡتَاتًا  ۙ لِّيُرَوۡا اَعۡمَالَهُمۡؕ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: يَوۡمَئِذٖ يَصۡدُرُ ٱلنَّاسُ أَشۡتَاتٗا لِّيُرَوۡاْ أَعۡمَٰلَهُمۡ
 sentence_translation: On that Day people will proceed in separate groups to be shown
   ˹the consequences of˺ their deeds.
 word_by_word:
   1:
-    arabic: يَوۡمَٮِٕذٍ
+    arabic: يَوۡمَئِذٖ
     translation: That Day
     transliteration: yawma-idhin
   2:
-    arabic: يَّصۡدُرُ
+    arabic: يَصۡدُرُ
     translation: will proceed
     transliteration: yaṣduru
   3:
-    arabic: النَّاسُ
+    arabic: ٱلنَّاسُ
     translation: the mankind
     transliteration: l-nāsu
   4:
-    arabic: اَشۡتَاتًا  ۙ
+    arabic: أَشۡتَاتٗا
     translation: (in) scattered groups
     transliteration: ashtātan
   5:
-    arabic: لِّيُرَوۡا
+    arabic: لِّيُرَوۡاْ
     translation: to be shown
     transliteration: liyuraw
   6:
-    arabic: "اَعۡمَالَهُمۡؕ‏ \uFEFF\uFEFF"
+    arabic: أَعۡمَٰلَهُمۡ
     translation: their deeds
     transliteration: aʿmālahum
 ---

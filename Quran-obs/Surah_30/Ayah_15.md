@@ -1,27 +1,27 @@
 ---
-arabic_ayat: فَاَمَّا الَّذِيۡنَ اٰمَنُوۡا وَعَمِلُوا الصّٰلِحٰتِ فَهُمۡ فِىۡ رَوۡضَةٍ
-  يُّحۡبَرُوۡنَ‏
+arabic_ayat: فَأَمَّا ٱلَّذِينَ ءَامَنُواْ وَعَمِلُواْ ٱلصَّٰلِحَٰتِ فَهُمۡ فِي رَوۡضَةٖ
+  يُحۡبَرُونَ
 sentence_translation: As for those who believed and did good, they will be rejoicing
   in a Garden.
 word_by_word:
   1:
-    arabic: فَاَمَّا
+    arabic: فَأَمَّا
     translation: Then as for
     transliteration: fa-ammā
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ ءَ
     translation: those who
     transliteration: alladhīna
   3:
-    arabic: اٰمَنُوۡا
+    arabic: امَنُواْ
     translation: believed
     transliteration: āmanū
   4:
-    arabic: وَعَمِلُوا
+    arabic: وَعَمِلُواْ
     translation: and did
     transliteration: waʿamilū
   5:
-    arabic: الصّٰلِحٰتِ
+    arabic: ٱلصَّٰلِحَٰتِ
     translation: righteous deeds
     transliteration: l-ṣāliḥāti
   6:
@@ -29,15 +29,15 @@ word_by_word:
     translation: so they
     transliteration: fahum
   7:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   8:
-    arabic: رَوۡضَةٍ
+    arabic: رَوۡضَةٖ
     translation: a Garden
     transliteration: rawḍatin
   9:
-    arabic: يُّحۡبَرُوۡنَ‏
+    arabic: يُحۡبَرُونَ
     translation: will be delighted
     transliteration: yuḥ'barūna
 ---

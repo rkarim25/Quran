@@ -1,13 +1,13 @@
 ---
-arabic_ayat: وَوُجُوۡهٌ يَّوۡمَٮِٕذٍ عَلَيۡهَا غَبَرَةٌ ۙ‏
+arabic_ayat: وَوُجُوهٞ يَوۡمَئِذٍ عَلَيۡهَا غَبَرَةٞ
 sentence_translation: while ˹other˺ faces will be dusty,
 word_by_word:
   1:
-    arabic: وَوُجُوۡهٌ
+    arabic: وَوُجُوهٞ
     translation: And faces
     transliteration: wawujūhun
   2:
-    arabic: يَّوۡمَٮِٕذٍ
+    arabic: يَوۡمَئِذٍ
     translation: that Day
     transliteration: yawma-idhin
   3:
@@ -15,7 +15,7 @@ word_by_word:
     translation: upon them
     transliteration: ʿalayhā
   4:
-    arabic: غَبَرَةٌ ۙ‏
+    arabic: غَبَرَةٞ
     translation: (will be) dust
     transliteration: ghabaratun
 ---

@@ -1,6 +1,6 @@
 ---
-arabic_ayat: وَلَمَّا دَخَلُوۡا عَلٰى يُوۡسُفَ اٰوٰٓى اِلَيۡهِ اَخَاهُ​ قَالَ اِنِّىۡۤ
-  اَنَا اَخُوۡكَ فَلَا تَبۡتَٮِٕسۡ بِمَا كَانُوۡا يَعۡمَلُوۡنَ‏
+arabic_ayat: وَلَمَّا دَخَلُواْ عَلَىٰ يُوسُفَ ءَاوَىٰٓ إِلَيۡهِ أَخَاهُۖ قَالَ إِنِّيٓ
+  أَنَا۠ أَخُوكَ فَلَا تَبۡتَئِسۡ بِمَا كَانُواْ يَعۡمَلُونَ
 sentence_translation: When they entered Joseph’s presence, he called his brother ˹Benjamin˺
   aside, and confided ˹to him˺, “I am indeed your brother ˹Joseph˺! So do not feel
   distressed about what they have been doing.”
@@ -10,27 +10,27 @@ word_by_word:
     translation: And when
     transliteration: walammā
   2:
-    arabic: دَخَلُوۡا
+    arabic: دَخَلُواْ
     translation: they entered
     transliteration: dakhalū
   3:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: upon
     transliteration: ʿalā
   4:
-    arabic: يُوۡسُفَ
+    arabic: يُوسُفَ ءَ
     translation: Yusuf
     transliteration: yūsufa
   5:
-    arabic: اٰوٰٓى
+    arabic: اوَىٰٓ
     translation: he took
     transliteration: āwā
   6:
-    arabic: اِلَيۡهِ
+    arabic: إِلَيۡهِ
     translation: to himself
     transliteration: ilayhi
   7:
-    arabic: اَخَاهُ​
+    arabic: أَخَاهُۖ
     translation: his brother
     transliteration: akhāhu
   8:
@@ -38,15 +38,15 @@ word_by_word:
     translation: He said
     transliteration: qāla
   9:
-    arabic: اِنِّىۡۤ
+    arabic: إِنِّيٓ
     translation: Indeed, I
     transliteration: innī
   10:
-    arabic: اَنَا
+    arabic: أَنَا۠
     translation: '[I] am'
     transliteration: anā
   11:
-    arabic: اَخُوۡكَ
+    arabic: أَخُوكَ
     translation: your brother
     transliteration: akhūka
   12:
@@ -54,7 +54,7 @@ word_by_word:
     translation: so (do) not
     transliteration: falā
   13:
-    arabic: تَبۡتَٮِٕسۡ
+    arabic: تَبۡتَئِسۡ
     translation: grieve
     transliteration: tabta-is
   14:
@@ -62,11 +62,11 @@ word_by_word:
     translation: for what
     transliteration: bimā
   15:
-    arabic: كَانُوۡا
+    arabic: كَانُواْ
     translation: they used (to)
     transliteration: kānū
   16:
-    arabic: يَعۡمَلُوۡنَ‏
+    arabic: يَعۡمَلُونَ
     translation: do
     transliteration: yaʿmalūna
 ---

@@ -1,6 +1,6 @@
 ---
-arabic_ayat: بَلۡ مَتَّعۡتُ هٰٓؤُلَاۤءِ وَاٰبَآءَهُمۡ حَتّٰى جَآءَهُمُ الۡحَقُّ
-  وَرَسُوۡلٌ مُّبِيۡنٌ‏
+arabic_ayat: بَلۡ مَتَّعۡتُ هَٰٓؤُلَآءِ وَءَابَآءَهُمۡ حَتَّىٰ جَآءَهُمُ ٱلۡحَقُّ
+  وَرَسُولٞ مُّبِينٞ
 sentence_translation: In fact, I had allowed enjoyment for these ˹Meccans˺ and their
   forefathers, until the truth came to them along with a messenger making things clear.
 word_by_word:
@@ -13,15 +13,15 @@ word_by_word:
     translation: I gave enjoyment
     transliteration: mattaʿtu
   3:
-    arabic: هٰٓؤُلَاۤءِ
+    arabic: هَٰٓؤُلَآءِ
     translation: (to) these
     transliteration: hāulāi
   4:
-    arabic: وَاٰبَآءَهُمۡ
+    arabic: وَءَابَآءَهُمۡ
     translation: and their forefathers
     transliteration: waābāahum
   5:
-    arabic: حَتّٰى
+    arabic: حَتَّىٰ
     translation: until
     transliteration: ḥattā
   6:
@@ -29,15 +29,15 @@ word_by_word:
     translation: came to them
     transliteration: jāahumu
   7:
-    arabic: الۡحَقُّ
+    arabic: ٱلۡحَقُّ
     translation: the truth
     transliteration: l-ḥaqu
   8:
-    arabic: وَرَسُوۡلٌ
+    arabic: وَرَسُولٞ
     translation: and a Messenger
     transliteration: warasūlun
   9:
-    arabic: مُّبِيۡنٌ‏
+    arabic: مُّبِينٞ
     translation: clear
     transliteration: mubīnun
 ---

@@ -1,29 +1,29 @@
 ---
-arabic_ayat: يٰمُوۡسٰۤى اِنَّـهٗۤ اَنَا اللّٰهُ الۡعَزِيۡزُ الۡحَكِيۡمُۙ‏
+arabic_ayat: يَٰمُوسَىٰٓ إِنَّهُۥٓ أَنَا ٱللَّهُ ٱلۡعَزِيزُ ٱلۡحَكِيمُ
 sentence_translation: O  Moses! It is truly I. I am Allah—the Almighty, All-Wise.
 word_by_word:
   1:
-    arabic: يٰمُوۡسٰۤى
+    arabic: يَٰمُوسَىٰٓ
     translation: O Musa
     transliteration: yāmūsā
   2:
-    arabic: اِنَّـهٗۤ
+    arabic: إِنَّهُۥٓ
     translation: Indeed
     transliteration: innahu
   3:
-    arabic: اَنَا
+    arabic: أَنَا
     translation: I Am
     transliteration: anā
   4:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   5:
-    arabic: الۡعَزِيۡزُ
+    arabic: ٱلۡعَزِيزُ
     translation: the All-Mighty
     transliteration: l-ʿazīzu
   6:
-    arabic: الۡحَكِيۡمُۙ‏
+    arabic: ٱلۡحَكِيمُ
     translation: the All-Wise
     transliteration: l-ḥakīmu
 ---

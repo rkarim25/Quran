@@ -1,6 +1,6 @@
 ---
-arabic_ayat: قُلۡ اَرَءَيۡتُمۡ اِنۡ اَتٰٮكُمۡ عَذَابُهٗ بَيَاتًا اَوۡ نَهَارًا مَّاذَا
-  يَسۡتَعۡجِلُ مِنۡهُ الۡمُجۡرِمُوۡنَ‏
+arabic_ayat: قُلۡ أَرَءَيۡتُمۡ إِنۡ أَتَىٰكُمۡ عَذَابُهُۥ بَيَٰتًا أَوۡ نَهَارٗا مَّاذَا
+  يَسۡتَعۡجِلُ مِنۡهُ ٱلۡمُجۡرِمُونَ
 sentence_translation: Tell them ˹O Prophet˺, “Imagine if His torment were to overcome
   you by night or day—do the wicked realize what they are ˹really˺ asking Him to hasten?
 word_by_word:
@@ -9,31 +9,31 @@ word_by_word:
     translation: Say
     transliteration: qul
   2:
-    arabic: اَرَءَيۡتُمۡ
+    arabic: أَرَءَيۡتُمۡ
     translation: Do you see
     transliteration: ara-aytum
   3:
-    arabic: اِنۡ
+    arabic: إِنۡ
     translation: if
     transliteration: in
   4:
-    arabic: اَتٰٮكُمۡ
+    arabic: أَتَىٰكُمۡ
     translation: comes to you
     transliteration: atākum
   5:
-    arabic: عَذَابُهٗ
+    arabic: عَذَابُهُۥ
     translation: His punishment
     transliteration: ʿadhābuhu
   6:
-    arabic: بَيَاتًا
+    arabic: بَيَٰتًا
     translation: (by) night
     transliteration: bayātan
   7:
-    arabic: اَوۡ
+    arabic: أَوۡ
     translation: or
     transliteration: aw
   8:
-    arabic: نَهَارًا
+    arabic: نَهَارٗا
     translation: (by) day
     transliteration: nahāran
   9:
@@ -49,7 +49,7 @@ word_by_word:
     translation: of it would (wish to) hasten
     transliteration: min'hu
   12:
-    arabic: الۡمُجۡرِمُوۡنَ‏
+    arabic: ٱلۡمُجۡرِمُونَ
     translation: the criminals
     transliteration: l-muj'rimūna
 ---

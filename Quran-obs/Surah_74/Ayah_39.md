@@ -1,17 +1,17 @@
 ---
-arabic_ayat: اِلَّاۤ اَصۡحٰبَ الۡيَمِيۡنِۛ ؕ‏
+arabic_ayat: إِلَّآ أَصۡحَٰبَ ٱلۡيَمِينِ
 sentence_translation: except the people of the right,
 word_by_word:
   1:
-    arabic: اِلَّاۤ
+    arabic: إِلَّآ
     translation: Except
     transliteration: illā
   2:
-    arabic: اَصۡحٰبَ
+    arabic: أَصۡحَٰبَ
     translation: (the) companions
     transliteration: aṣḥāba
   3:
-    arabic: الۡيَمِيۡنِۛ ؕ‏
+    arabic: ٱلۡيَمِينِ
     translation: (of) the right
     transliteration: l-yamīni
 ---

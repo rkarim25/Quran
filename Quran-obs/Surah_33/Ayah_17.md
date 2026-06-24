@@ -1,7 +1,7 @@
 ---
-arabic_ayat: قُلۡ مَنۡ ذَا الَّذِىۡ يَعۡصِمُكُمۡ مِّنَ اللّٰهِ اِنۡ اَرَادَ بِكُمۡ
-  سُوۡٓءًا اَوۡ اَرَادَ بِكُمۡ رَحۡمَةً ​ؕ وَلَا يَجِدُوۡنَ لَهُمۡ مِّنۡ دُوۡنِ اللّٰهِ
-  وَلِيًّا وَّلَا نَصِيۡرًا‏
+arabic_ayat: قُلۡ مَن ذَا ٱلَّذِي يَعۡصِمُكُم مِّنَ ٱللَّهِ إِنۡ أَرَادَ بِكُمۡ سُوٓءًا
+  أَوۡ أَرَادَ بِكُمۡ رَحۡمَةٗۚ وَلَا يَجِدُونَ لَهُم مِّن دُونِ ٱللَّهِ وَلِيّٗا
+  وَلَا نَصِيرٗا
 sentence_translation: Ask ˹them, O  Prophet˺, “Who can put you out of Allah’s reach
   if He intends to harm you or show you mercy?” They can never find any protector
   or helper besides Allah.
@@ -11,7 +11,7 @@ word_by_word:
     translation: Say
     transliteration: qul
   2:
-    arabic: مَنۡ
+    arabic: مَن
     translation: Who
     transliteration: man
   3:
@@ -19,11 +19,11 @@ word_by_word:
     translation: (is) it that
     transliteration: dhā
   4:
-    arabic: الَّذِىۡ
+    arabic: ٱلَّذِي
     translation: (is) it that
     transliteration: alladhī
   5:
-    arabic: يَعۡصِمُكُمۡ
+    arabic: يَعۡصِمُكُم
     translation: (can) protect you
     transliteration: yaʿṣimukum
   6:
@@ -31,15 +31,15 @@ word_by_word:
     translation: from
     transliteration: mina
   7:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   8:
-    arabic: اِنۡ
+    arabic: إِنۡ
     translation: If
     transliteration: in
   9:
-    arabic: اَرَادَ
+    arabic: أَرَادَ
     translation: He intends
     transliteration: arāda
   10:
@@ -47,15 +47,15 @@ word_by_word:
     translation: for you
     transliteration: bikum
   11:
-    arabic: سُوۡٓءًا
+    arabic: سُوٓءًا
     translation: any harm
     transliteration: sūan
   12:
-    arabic: اَوۡ
+    arabic: أَوۡ
     translation: or
     transliteration: aw
   13:
-    arabic: اَرَادَ
+    arabic: أَرَادَ
     translation: He intends
     transliteration: arāda
   14:
@@ -63,7 +63,7 @@ word_by_word:
     translation: for you
     transliteration: bikum
   15:
-    arabic: رَحۡمَةً ​ؕ
+    arabic: رَحۡمَةٗۚ
     translation: a mercy
     transliteration: raḥmatan
   16:
@@ -71,35 +71,35 @@ word_by_word:
     translation: And not
     transliteration: walā
   17:
-    arabic: يَجِدُوۡنَ
+    arabic: يَجِدُونَ
     translation: they will find
     transliteration: yajidūna
   18:
-    arabic: لَهُمۡ
+    arabic: لَهُم
     translation: for them
     transliteration: lahum
   19:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: besides
     transliteration: min
   20:
-    arabic: دُوۡنِ
+    arabic: دُونِ
     translation: besides
     transliteration: dūni
   21:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   22:
-    arabic: وَلِيًّا
+    arabic: وَلِيّٗا
     translation: any protector
     transliteration: waliyyan
   23:
-    arabic: وَّلَا
+    arabic: وَلَا
     translation: and not
     transliteration: walā
   24:
-    arabic: نَصِيۡرًا‏
+    arabic: نَصِيرٗا
     translation: any helper
     transliteration: naṣīran
 ---

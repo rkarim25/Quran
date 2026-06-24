@@ -1,15 +1,14 @@
 ---
-arabic_ayat: "اَلۡـٰٔـنَ خَفَّفَ اللّٰهُ عَنۡكُمۡ وَعَلِمَ اَنَّ فِيۡكُمۡ ضَعۡفًا​ؕ\
-  \ فَاِنۡ يَّكُنۡ مِّنۡكُمۡ مِّائَةٌ صَابِرَةٌ يَّغۡلِبُوۡا مِائَتَيۡنِ​ۚ وَاِنۡ\
-  \ يَّكُنۡ مِّنۡكُمۡ اَلۡفٌ يَّغۡلِبُوۡۤا اَلۡفَيۡنِ بِاِذۡنِ اللّٰهِؕ وَ اللّٰهُ\
-  \ مَعَ الصّٰبِرِيۡنَ‏ \uFEFF\uFEFF"
+arabic_ayat: ٱلۡـَٰٔنَ خَفَّفَ ٱللَّهُ عَنكُمۡ وَعَلِمَ أَنَّ فِيكُمۡ ضَعۡفٗاۚ فَإِن
+  يَكُن مِّنكُم مِّاْئَةٞ صَابِرَةٞ يَغۡلِبُواْ مِاْئَتَيۡنِۚ وَإِن يَكُن مِّنكُمۡ
+  أَلۡفٞ يَغۡلِبُوٓاْ أَلۡفَيۡنِ بِإِذۡنِ ٱللَّهِۗ وَٱللَّهُ مَعَ ٱلصَّٰبِرِينَ
 sentence_translation: Now Allah has lightened your burden, for He knows that there
   is weakness in you. So if there are a hundred steadfast among you, they will overcome
   two hundred. And if there be one thousand, they will overcome two thousand, by Allah’s
   Will. And Allah is with the steadfast.
 word_by_word:
   1:
-    arabic: اَلۡـٰٔـنَ
+    arabic: ٱلۡـَٰٔنَ
     translation: Now
     transliteration: al-āna
   2:
@@ -17,11 +16,11 @@ word_by_word:
     translation: has (been) lightened
     transliteration: khaffafa
   3:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: (by) Allah
     transliteration: l-lahu
   4:
-    arabic: عَنۡكُمۡ
+    arabic: عَنكُمۡ
     translation: for you
     transliteration: ʿankum
   5:
@@ -29,79 +28,79 @@ word_by_word:
     translation: and He knows
     transliteration: waʿalima
   6:
-    arabic: اَنَّ
+    arabic: أَنَّ
     translation: that
     transliteration: anna
   7:
-    arabic: فِيۡكُمۡ
+    arabic: فِيكُمۡ
     translation: in you
     transliteration: fīkum
   8:
-    arabic: ضَعۡفًا​ؕ
+    arabic: ضَعۡفٗاۚ
     translation: (there) is weakness
     transliteration: ḍaʿfan
   9:
-    arabic: فَاِنۡ
+    arabic: فَإِن
     translation: So if
     transliteration: fa-in
   10:
-    arabic: يَّكُنۡ
+    arabic: يَكُن
     translation: (there) are
     transliteration: yakun
   11:
-    arabic: مِّنۡكُمۡ
+    arabic: مِّنكُم
     translation: among you
     transliteration: minkum
   12:
-    arabic: مِّائَةٌ
+    arabic: مِّاْئَةٞ
     translation: a hundred
     transliteration: mi-atun
   13:
-    arabic: صَابِرَةٌ
+    arabic: صَابِرَةٞ
     translation: steadfast
     transliteration: ṣābiratun
   14:
-    arabic: يَّغۡلِبُوۡا
+    arabic: يَغۡلِبُواْ
     translation: they will overcome
     transliteration: yaghlibū
   15:
-    arabic: مِائَتَيۡنِ​ۚ
+    arabic: مِاْئَتَيۡنِۚ
     translation: two hundred
     transliteration: mi-atayni
   16:
-    arabic: وَاِنۡ
+    arabic: وَإِن
     translation: And if
     transliteration: wa-in
   17:
-    arabic: يَّكُنۡ
+    arabic: يَكُن
     translation: (there) are
     transliteration: yakun
   18:
-    arabic: مِّنۡكُمۡ
+    arabic: مِّنكُمۡ
     translation: among you
     transliteration: minkum
   19:
-    arabic: اَلۡفٌ
+    arabic: أَلۡفٞ
     translation: a thousand
     transliteration: alfun
   20:
-    arabic: يَّغۡلِبُوۡۤا
+    arabic: يَغۡلِبُوٓاْ
     translation: they will overcome
     transliteration: yaghlibū
   21:
-    arabic: اَلۡفَيۡنِ
+    arabic: أَلۡفَيۡنِ
     translation: two thousand
     transliteration: alfayni
   22:
-    arabic: بِاِذۡنِ
+    arabic: بِإِذۡنِ
     translation: with (the) permission
     transliteration: bi-idh'ni
   23:
-    arabic: اللّٰهِؕ
+    arabic: ٱللَّهِۗ
     translation: (of) Allah
     transliteration: l-lahi
   24:
-    arabic: وَ اللّٰهُ
+    arabic: وَٱللَّهُ
     translation: And Allah
     transliteration: wal-lahu
   25:
@@ -109,7 +108,7 @@ word_by_word:
     translation: (is) with
     transliteration: maʿa
   26:
-    arabic: "الصّٰبِرِيۡنَ‏ \uFEFF\uFEFF"
+    arabic: ٱلصَّٰبِرِينَ
     translation: the steadfast
     transliteration: l-ṣābirīna
 ---

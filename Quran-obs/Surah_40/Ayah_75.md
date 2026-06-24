@@ -1,11 +1,11 @@
 ---
-arabic_ayat: ذٰ لِكُمۡ بِمَا كُنۡتُمۡ تَفۡرَحُوۡنَ فِى الۡاَرۡضِ بِغَيۡرِ الۡحَقِّ
-  وَبِمَا كُنۡـتُمۡ تَمۡرَحُوۡنَ​ ۚ‏
+arabic_ayat: ذَٰلِكُم بِمَا كُنتُمۡ تَفۡرَحُونَ فِي ٱلۡأَرۡضِ بِغَيۡرِ ٱلۡحَقِّ وَبِمَا
+  كُنتُمۡ تَمۡرَحُونَ
 sentence_translation: ˹They will be told,˺ “This ˹punishment˺ is for being prideful
   on earth unjustly and for acting arrogantly.
 word_by_word:
   1:
-    arabic: ذٰ لِكُمۡ
+    arabic: ذَٰلِكُم
     translation: That was
     transliteration: dhālikum
   2:
@@ -13,19 +13,19 @@ word_by_word:
     translation: because
     transliteration: bimā
   3:
-    arabic: كُنۡتُمۡ
+    arabic: كُنتُمۡ
     translation: you used to
     transliteration: kuntum
   4:
-    arabic: تَفۡرَحُوۡنَ
+    arabic: تَفۡرَحُونَ
     translation: rejoice
     transliteration: tafraḥūna
   5:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   6:
-    arabic: الۡاَرۡضِ
+    arabic: ٱلۡأَرۡضِ
     translation: the earth
     transliteration: l-arḍi
   7:
@@ -33,7 +33,7 @@ word_by_word:
     translation: without
     transliteration: bighayri
   8:
-    arabic: الۡحَقِّ
+    arabic: ٱلۡحَقِّ
     translation: right
     transliteration: l-ḥaqi
   9:
@@ -41,11 +41,11 @@ word_by_word:
     translation: and because
     transliteration: wabimā
   10:
-    arabic: كُنۡـتُمۡ
+    arabic: كُنتُمۡ
     translation: you used to
     transliteration: kuntum
   11:
-    arabic: تَمۡرَحُوۡنَ​ ۚ‏
+    arabic: تَمۡرَحُونَ
     translation: be insolent
     transliteration: tamraḥūna
 ---

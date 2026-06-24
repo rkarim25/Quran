@@ -1,7 +1,6 @@
 ---
-arabic_ayat: "وَمِنَ الۡاَعۡرَابِ مَنۡ يَّتَّخِذُ مَا يُنۡفِقُ مَغۡرَمًا وَّيَتَرَبَّصُ\
-  \ بِكُمُ الدَّوَآٮِٕرَ​ؕ عَلَيۡهِمۡ دَآٮِٕرَةُ السَّوۡءِ​ؕ وَاللّٰهُ سَمِيۡعٌ\
-  \ عَلِيۡمٌ‏ \uFEFF\uFEFF"
+arabic_ayat: وَمِنَ ٱلۡأَعۡرَابِ مَن يَتَّخِذُ مَا يُنفِقُ مَغۡرَمٗا وَيَتَرَبَّصُ
+  بِكُمُ ٱلدَّوَآئِرَۚ عَلَيۡهِمۡ دَآئِرَةُ ٱلسَّوۡءِۗ وَٱللَّهُ سَمِيعٌ عَلِيمٞ
 sentence_translation: And among the nomads are those who consider what they donate
   to be a loss and await your misfortune. May ill-fortune befall them! And Allah is
   All-Hearing, All-Knowing.
@@ -11,15 +10,15 @@ word_by_word:
     translation: And among
     transliteration: wamina
   2:
-    arabic: الۡاَعۡرَابِ
+    arabic: ٱلۡأَعۡرَابِ
     translation: the bedouins
     transliteration: l-aʿrābi
   3:
-    arabic: مَنۡ
+    arabic: مَن
     translation: (is he) who
     transliteration: man
   4:
-    arabic: يَّتَّخِذُ
+    arabic: يَتَّخِذُ
     translation: takes
     transliteration: yattakhidhu
   5:
@@ -27,15 +26,15 @@ word_by_word:
     translation: what
     transliteration: mā
   6:
-    arabic: يُنۡفِقُ
+    arabic: يُنفِقُ
     translation: he spends
     transliteration: yunfiqu
   7:
-    arabic: مَغۡرَمًا
+    arabic: مَغۡرَمٗا
     translation: (as) a loss
     transliteration: maghraman
   8:
-    arabic: وَّيَتَرَبَّصُ
+    arabic: وَيَتَرَبَّصُ
     translation: and he awaits
     transliteration: wayatarabbaṣu
   9:
@@ -43,7 +42,7 @@ word_by_word:
     translation: for you
     transliteration: bikumu
   10:
-    arabic: الدَّوَآٮِٕرَ​ؕ
+    arabic: ٱلدَّوَآئِرَۚ
     translation: the turns (of misfortune)
     transliteration: l-dawāira
   11:
@@ -51,23 +50,23 @@ word_by_word:
     translation: Upon them
     transliteration: ʿalayhim
   12:
-    arabic: دَآٮِٕرَةُ
+    arabic: دَآئِرَةُ
     translation: (will be) the turn
     transliteration: dāiratu
   13:
-    arabic: السَّوۡءِ​ؕ
+    arabic: ٱلسَّوۡءِۗ
     translation: (of) the evil
     transliteration: l-sawi
   14:
-    arabic: وَاللّٰهُ
+    arabic: وَٱللَّهُ
     translation: And Allah
     transliteration: wal-lahu
   15:
-    arabic: سَمِيۡعٌ
+    arabic: سَمِيعٌ
     translation: (is) All-Hearer
     transliteration: samīʿun
   16:
-    arabic: "عَلِيۡمٌ‏ \uFEFF\uFEFF"
+    arabic: عَلِيمٞ
     translation: All-Knower
     transliteration: ʿalīmun
 ---

@@ -1,8 +1,8 @@
 ---
-arabic_ayat: وَاِذۡ زَيَّنَ لَهُمُ الشَّيۡطٰنُ اَعۡمَالَهُمۡ وَقَالَ لَا غَالِبَ لَـكُمُ
-  الۡيَوۡمَ مِنَ النَّاسِ وَاِنِّىۡ جَارٌ لَّـكُمۡ​ۚ فَلَمَّا تَرَآءَتِ الۡفِئَتٰنِ
-  نَكَصَ عَلٰى عَقِبَيۡهِ وَقَالَ اِنِّىۡ بَرِىۡٓءٌ مِّنۡكُمۡ اِنِّىۡۤ اَرٰى مَا لَا
-  تَرَوۡنَ اِنِّىۡۤ اَخَافُ اللّٰهَ​ؕ وَاللّٰهُ شَدِيۡدُ الۡعِقَابِ‏
+arabic_ayat: وَإِذۡ زَيَّنَ لَهُمُ ٱلشَّيۡطَٰنُ أَعۡمَٰلَهُمۡ وَقَالَ لَا غَالِبَ
+  لَكُمُ ٱلۡيَوۡمَ مِنَ ٱلنَّاسِ وَإِنِّي جَارٞ لَّكُمۡۖ فَلَمَّا تَرَآءَتِ ٱلۡفِئَتَانِ
+  نَكَصَ عَلَىٰ عَقِبَيۡهِ وَقَالَ إِنِّي بَرِيٓءٞ مِّنكُمۡ إِنِّيٓ أَرَىٰ مَا لَا
+  تَرَوۡنَ إِنِّيٓ أَخَافُ ٱللَّهَۚ وَٱللَّهُ شَدِيدُ ٱلۡعِقَابِ
 sentence_translation: And ˹remember˺ when Satan made their ˹evil˺ deeds appealing
   to them, and said, “No one can overcome you today. I am surely by your side.” But
   when the two forces faced off, he cowered and said, “I have absolutely nothing to
@@ -10,7 +10,7 @@ sentence_translation: And ˹remember˺ when Satan made their ˹evil˺ deeds appe
   is severe in punishment.”
 word_by_word:
   1:
-    arabic: وَاِذۡ
+    arabic: وَإِذۡ
     translation: And when
     transliteration: wa-idh
   2:
@@ -22,11 +22,11 @@ word_by_word:
     translation: to them
     transliteration: lahumu
   4:
-    arabic: الشَّيۡطٰنُ
+    arabic: ٱلشَّيۡطَٰنُ
     translation: the Shaitaan
     transliteration: l-shayṭānu
   5:
-    arabic: اَعۡمَالَهُمۡ
+    arabic: أَعۡمَٰلَهُمۡ
     translation: their deeds
     transliteration: aʿmālahum
   6:
@@ -42,11 +42,11 @@ word_by_word:
     translation: (can) overcome
     transliteration: ghāliba
   9:
-    arabic: لَـكُمُ
+    arabic: لَكُمُ
     translation: '[to] you'
     transliteration: lakumu
   10:
-    arabic: الۡيَوۡمَ
+    arabic: ٱلۡيَوۡمَ
     translation: today
     transliteration: l-yawma
   11:
@@ -54,19 +54,19 @@ word_by_word:
     translation: from
     transliteration: mina
   12:
-    arabic: النَّاسِ
+    arabic: ٱلنَّاسِ
     translation: the people
     transliteration: l-nāsi
   13:
-    arabic: وَاِنِّىۡ
+    arabic: وَإِنِّي
     translation: and indeed, I am
     transliteration: wa-innī
   14:
-    arabic: جَارٌ
+    arabic: جَارٞ
     translation: a neighbor
     transliteration: jārun
   15:
-    arabic: لَّـكُمۡ​ۚ
+    arabic: لَّكُمۡۖ
     translation: for you
     transliteration: lakum
   16:
@@ -78,7 +78,7 @@ word_by_word:
     translation: came in sight
     transliteration: tarāati
   18:
-    arabic: الۡفِئَتٰنِ
+    arabic: ٱلۡفِئَتَانِ
     translation: the two forces
     transliteration: l-fi-atāni
   19:
@@ -86,7 +86,7 @@ word_by_word:
     translation: he turned away
     transliteration: nakaṣa
   20:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: 'on'
     transliteration: ʿalā
   21:
@@ -98,23 +98,23 @@ word_by_word:
     translation: and said
     transliteration: waqāla
   23:
-    arabic: اِنِّىۡ
+    arabic: إِنِّي
     translation: Indeed, I am
     transliteration: innī
   24:
-    arabic: بَرِىۡٓءٌ
+    arabic: بَرِيٓءٞ
     translation: free
     transliteration: barīon
   25:
-    arabic: مِّنۡكُمۡ
+    arabic: مِّنكُمۡ
     translation: of you
     transliteration: minkum
   26:
-    arabic: اِنِّىۡۤ
+    arabic: إِنِّيٓ
     translation: Indeed, I
     transliteration: innī
   27:
-    arabic: اَرٰى
+    arabic: أَرَىٰ
     translation: see
     transliteration: arā
   28:
@@ -130,27 +130,27 @@ word_by_word:
     translation: you see
     transliteration: tarawna
   31:
-    arabic: اِنِّىۡۤ
+    arabic: إِنِّيٓ
     translation: indeed, I
     transliteration: innī
   32:
-    arabic: اَخَافُ
+    arabic: أَخَافُ
     translation: '[I] fear'
     transliteration: akhāfu
   33:
-    arabic: اللّٰهَ​ؕ
+    arabic: ٱللَّهَۚ
     translation: Allah
     transliteration: l-laha
   34:
-    arabic: وَاللّٰهُ
+    arabic: وَٱللَّهُ
     translation: And Allah
     transliteration: wal-lahu
   35:
-    arabic: شَدِيۡدُ
+    arabic: شَدِيدُ
     translation: (is) severe
     transliteration: shadīdu
   36:
-    arabic: الۡعِقَابِ‏
+    arabic: ٱلۡعِقَابِ
     translation: (in) the penalty
     transliteration: l-ʿiqābi
 ---

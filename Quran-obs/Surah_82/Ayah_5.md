@@ -1,5 +1,5 @@
 ---
-arabic_ayat: عَلِمَتۡ نَفۡسٌ مَّا قَدَّمَتۡ وَاَخَّرَتۡؕ‏
+arabic_ayat: عَلِمَتۡ نَفۡسٞ مَّا قَدَّمَتۡ وَأَخَّرَتۡ
 sentence_translation: ˹then˺ each soul will know what it has sent forth or left behind.
 word_by_word:
   1:
@@ -7,7 +7,7 @@ word_by_word:
     translation: Will know
     transliteration: ʿalimat
   2:
-    arabic: نَفۡسٌ
+    arabic: نَفۡسٞ
     translation: a soul
     transliteration: nafsun
   3:
@@ -19,7 +19,7 @@ word_by_word:
     translation: it has sent forth
     transliteration: qaddamat
   5:
-    arabic: وَاَخَّرَتۡؕ‏
+    arabic: وَأَخَّرَتۡ
     translation: and left behind
     transliteration: wa-akharat
 ---

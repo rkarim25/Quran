@@ -1,6 +1,6 @@
 ---
-arabic_ayat: هَلۡ يَنۡظُرُوۡنَ اِلَّا السَّاعَةَ اَنۡ تَاۡتِيَهُمۡ بَغۡتَةً وَّهُمۡ
-  لَا يَشۡعُرُوۡنَ‏
+arabic_ayat: هَلۡ يَنظُرُونَ إِلَّا ٱلسَّاعَةَ أَن تَأۡتِيَهُم بَغۡتَةٗ وَهُمۡ لَا
+  يَشۡعُرُونَ
 sentence_translation: Are they waiting for the Hour to take them by surprise when
   they least expect ˹it˺?
 word_by_word:
@@ -9,31 +9,31 @@ word_by_word:
     translation: Are
     transliteration: hal
   2:
-    arabic: يَنۡظُرُوۡنَ
+    arabic: يَنظُرُونَ
     translation: they waiting
     transliteration: yanẓurūna
   3:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   4:
-    arabic: السَّاعَةَ
+    arabic: ٱلسَّاعَةَ
     translation: (for) the Hour
     transliteration: l-sāʿata
   5:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that
     transliteration: an
   6:
-    arabic: تَاۡتِيَهُمۡ
+    arabic: تَأۡتِيَهُم
     translation: it should come on them
     transliteration: tatiyahum
   7:
-    arabic: بَغۡتَةً
+    arabic: بَغۡتَةٗ
     translation: suddenly
     transliteration: baghtatan
   8:
-    arabic: وَّهُمۡ
+    arabic: وَهُمۡ
     translation: while they
     transliteration: wahum
   9:
@@ -41,7 +41,7 @@ word_by_word:
     translation: (do) not
     transliteration: lā
   10:
-    arabic: يَشۡعُرُوۡنَ‏
+    arabic: يَشۡعُرُونَ
     translation: perceive
     transliteration: yashʿurūna
 ---

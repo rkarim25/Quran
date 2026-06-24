@@ -1,11 +1,11 @@
 ---
-arabic_ayat: وَ لَمَّا جَآءَ اَمۡرُنَا نَجَّيۡنَا هُوۡدًا وَّالَّذِيۡنَ اٰمَنُوۡا
-  مَعَهٗ بِرَحۡمَةٍ مِّنَّا ۚ وَ نَجَّيۡنٰهُمۡ مِّنۡ عَذَابٍ غَلِيۡظٍ‏
+arabic_ayat: وَلَمَّا جَآءَ أَمۡرُنَا نَجَّيۡنَا هُودٗا وَٱلَّذِينَ ءَامَنُواْ مَعَهُۥ
+  بِرَحۡمَةٖ مِّنَّا وَنَجَّيۡنَٰهُم مِّنۡ عَذَابٍ غَلِيظٖ
 sentence_translation: When Our command came, We rescued Hûd and those who believed
   with him by a mercy from Us, saving them from a harsh torment.
 word_by_word:
   1:
-    arabic: وَ لَمَّا
+    arabic: وَلَمَّا
     translation: And when
     transliteration: walammā
   2:
@@ -13,7 +13,7 @@ word_by_word:
     translation: came
     transliteration: jāa
   3:
-    arabic: اَمۡرُنَا
+    arabic: أَمۡرُنَا
     translation: Our command
     transliteration: amrunā
   4:
@@ -21,31 +21,31 @@ word_by_word:
     translation: We saved
     transliteration: najjaynā
   5:
-    arabic: هُوۡدًا
+    arabic: هُودٗا
     translation: Hud
     transliteration: hūdan
   6:
-    arabic: وَّالَّذِيۡنَ
+    arabic: وَٱلَّذِينَ ءَ
     translation: and those who
     transliteration: wa-alladhīna
   7:
-    arabic: اٰمَنُوۡا
+    arabic: امَنُواْ
     translation: believed
     transliteration: āmanū
   8:
-    arabic: مَعَهٗ
+    arabic: مَعَهُۥ
     translation: with him
     transliteration: maʿahu
   9:
-    arabic: بِرَحۡمَةٍ
+    arabic: بِرَحۡمَةٖ
     translation: by a Mercy
     transliteration: biraḥmatin
   10:
-    arabic: مِّنَّا ۚ
+    arabic: مِّنَّا
     translation: from Us
     transliteration: minnā
   11:
-    arabic: وَ نَجَّيۡنٰهُمۡ
+    arabic: وَنَجَّيۡنَٰهُم
     translation: and We saved them
     transliteration: wanajjaynāhum
   12:
@@ -57,7 +57,7 @@ word_by_word:
     translation: a punishment
     transliteration: ʿadhābin
   14:
-    arabic: غَلِيۡظٍ‏
+    arabic: غَلِيظٖ
     translation: severe
     transliteration: ghalīẓin
 ---

@@ -1,17 +1,17 @@
 ---
-arabic_ayat: لَـسۡتَ عَلَيۡهِمۡ بِمُصَۜيۡطِرٍۙ‏
+arabic_ayat: لَّسۡتَ عَلَيۡهِم بِمُصَيۡطِرٍ
 sentence_translation: You are not ˹there˺ to compel them ˹to believe˺.
 word_by_word:
   1:
-    arabic: لَـسۡتَ
+    arabic: لَّسۡتَ
     translation: You are not
     transliteration: lasta
   2:
-    arabic: عَلَيۡهِمۡ
+    arabic: عَلَيۡهِم
     translation: over them
     transliteration: ʿalayhim
   3:
-    arabic: بِمُصَۜيۡطِرٍۙ‏
+    arabic: بِمُصَيۡطِرٍ
     translation: a controller
     transliteration: bimuṣayṭirin
 ---

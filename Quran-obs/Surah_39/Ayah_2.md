@@ -1,39 +1,39 @@
 ---
-arabic_ayat: اِنَّاۤ اَنۡزَلۡنَاۤ اِلَيۡكَ الۡكِتٰبَ بِالۡحَقِّ فَاعۡبُدِ اللّٰهَ
-  مُخۡلِصًا لَّهُ الدِّيۡنَ ؕ‏
+arabic_ayat: إِنَّآ أَنزَلۡنَآ إِلَيۡكَ ٱلۡكِتَٰبَ بِٱلۡحَقِّ فَٱعۡبُدِ ٱللَّهَ
+  مُخۡلِصٗا لَّهُ ٱلدِّينَ
 sentence_translation: Indeed, We have sent down the Book to you ˹O Prophet˺ in truth,
   so worship Allah ˹alone˺, being sincerely devoted to Him.
 word_by_word:
   1:
-    arabic: اِنَّاۤ
+    arabic: إِنَّآ
     translation: Indeed, We
     transliteration: innā
   2:
-    arabic: اَنۡزَلۡنَاۤ
+    arabic: أَنزَلۡنَآ
     translation: '[We] have revealed'
     transliteration: anzalnā
   3:
-    arabic: اِلَيۡكَ
+    arabic: إِلَيۡكَ
     translation: to you
     transliteration: ilayka
   4:
-    arabic: الۡكِتٰبَ
+    arabic: ٱلۡكِتَٰبَ
     translation: the Book
     transliteration: l-kitāba
   5:
-    arabic: بِالۡحَقِّ
+    arabic: بِٱلۡحَقِّ
     translation: in truth
     transliteration: bil-ḥaqi
   6:
-    arabic: فَاعۡبُدِ
+    arabic: فَٱعۡبُدِ
     translation: so worship
     transliteration: fa-uʿ'budi
   7:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   8:
-    arabic: مُخۡلِصًا
+    arabic: مُخۡلِصٗا
     translation: (being) sincere
     transliteration: mukh'liṣan
   9:
@@ -41,7 +41,7 @@ word_by_word:
     translation: to Him
     transliteration: lahu
   10:
-    arabic: الدِّيۡنَ ؕ‏
+    arabic: ٱلدِّينَ
     translation: (in) the religion
     transliteration: l-dīna
 ---

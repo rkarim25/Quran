@@ -1,11 +1,11 @@
 ---
-arabic_ayat: فَاِذَا نُفِخَ فِى الصُّوۡرِ فَلَاۤ اَنۡسَابَ بَيۡنَهُمۡ يَوۡمَٮِٕذٍ
-  وَّلَا يَتَسَآءَلُوۡنَ‏
+arabic_ayat: فَإِذَا نُفِخَ فِي ٱلصُّورِ فَلَآ أَنسَابَ بَيۡنَهُمۡ يَوۡمَئِذٖ وَلَا
+  يَتَسَآءَلُونَ
 sentence_translation: Then, when the Trumpet will be blown, there will be no kinship
   between them on that Day, nor will they ˹even care to˺ ask about one another. 
 word_by_word:
   1:
-    arabic: فَاِذَا
+    arabic: فَإِذَا
     translation: So when
     transliteration: fa-idhā
   2:
@@ -13,19 +13,19 @@ word_by_word:
     translation: is blown
     transliteration: nufikha
   3:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   4:
-    arabic: الصُّوۡرِ
+    arabic: ٱلصُّورِ
     translation: the trumpet
     transliteration: l-ṣūri
   5:
-    arabic: فَلَاۤ
+    arabic: فَلَآ
     translation: then not
     transliteration: falā
   6:
-    arabic: اَنۡسَابَ
+    arabic: أَنسَابَ
     translation: (there) will be relationship
     transliteration: ansāba
   7:
@@ -33,15 +33,15 @@ word_by_word:
     translation: among them
     transliteration: baynahum
   8:
-    arabic: يَوۡمَٮِٕذٍ
+    arabic: يَوۡمَئِذٖ
     translation: that Day
     transliteration: yawma-idhin
   9:
-    arabic: وَّلَا
+    arabic: وَلَا
     translation: and not
     transliteration: walā
   10:
-    arabic: يَتَسَآءَلُوۡنَ‏
+    arabic: يَتَسَآءَلُونَ
     translation: will they ask each other
     transliteration: yatasāalūna
 ---

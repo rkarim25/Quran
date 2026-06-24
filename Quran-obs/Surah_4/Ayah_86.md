@@ -1,47 +1,47 @@
 ---
-arabic_ayat: وَاِذَا حُيِّيۡتُمۡ بِتَحِيَّةٍ فَحَيُّوۡا بِاَحۡسَنَ مِنۡهَاۤ اَوۡ رُدُّوۡهَا​
-  ؕ اِنَّ اللّٰهَ كَانَ عَلٰى كُلِّ شَىۡءٍ حَسِيۡبًا‏
+arabic_ayat: وَإِذَا حُيِّيتُم بِتَحِيَّةٖ فَحَيُّواْ بِأَحۡسَنَ مِنۡهَآ أَوۡ رُدُّوهَآۗ
+  إِنَّ ٱللَّهَ كَانَ عَلَىٰ كُلِّ شَيۡءٍ حَسِيبًا
 sentence_translation: And when you are greeted, respond with a better greeting or
   at least similarly. Surely Allah is a ˹vigilant˺ Reckoner of all things.
 word_by_word:
   1:
-    arabic: وَاِذَا
+    arabic: وَإِذَا
     translation: And when
     transliteration: wa-idhā
   2:
-    arabic: حُيِّيۡتُمۡ
+    arabic: حُيِّيتُم
     translation: you are greeted
     transliteration: ḥuyyītum
   3:
-    arabic: بِتَحِيَّةٍ
+    arabic: بِتَحِيَّةٖ
     translation: with a greeting
     transliteration: bitaḥiyyatin
   4:
-    arabic: فَحَيُّوۡا
+    arabic: فَحَيُّواْ
     translation: then greet
     transliteration: faḥayyū
   5:
-    arabic: بِاَحۡسَنَ
+    arabic: بِأَحۡسَنَ
     translation: with better
     transliteration: bi-aḥsana
   6:
-    arabic: مِنۡهَاۤ
+    arabic: مِنۡهَآ
     translation: than it
     transliteration: min'hā
   7:
-    arabic: اَوۡ
+    arabic: أَوۡ
     translation: or
     transliteration: aw
   8:
-    arabic: رُدُّوۡهَا​ ؕ
+    arabic: رُدُّوهَآۗ
     translation: return it
     transliteration: ruddūhā
   9:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   10:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   11:
@@ -49,7 +49,7 @@ word_by_word:
     translation: is
     transliteration: kāna
   12:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: of
     transliteration: ʿalā
   13:
@@ -57,11 +57,11 @@ word_by_word:
     translation: every
     transliteration: kulli
   14:
-    arabic: شَىۡءٍ
+    arabic: شَيۡءٍ
     translation: thing
     transliteration: shayin
   15:
-    arabic: حَسِيۡبًا‏
+    arabic: حَسِيبًا
     translation: an Accountant
     transliteration: ḥasīban
 ---

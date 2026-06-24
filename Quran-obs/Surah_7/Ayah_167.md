@@ -1,18 +1,18 @@
 ---
-arabic_ayat: وَاِذۡ تَاَذَّنَ رَبُّكَ لَيَبۡعَثَنَّ عَلَيۡهِمۡ اِلٰى يَوۡمِ الۡقِيٰمَةِ
-  مَنۡ يَّسُوۡمُهُمۡ سُوۡٓءَ الۡعَذَابِ​ ؕ اِنَّ رَبَّكَ لَسَرِيۡعُ الۡعِقَابِ ​ ​ۖۚ
-  وَاِنَّهٗ لَـغَفُوۡرٌ رَّحِيۡمٌ‏
+arabic_ayat: وَإِذۡ تَأَذَّنَ رَبُّكَ لَيَبۡعَثَنَّ عَلَيۡهِمۡ إِلَىٰ يَوۡمِ ٱلۡقِيَٰمَةِ
+  مَن يَسُومُهُمۡ سُوٓءَ ٱلۡعَذَابِۗ إِنَّ رَبَّكَ لَسَرِيعُ ٱلۡعِقَابِ وَإِنَّهُۥ
+  لَغَفُورٞ رَّحِيمٞ
 sentence_translation: And ˹remember, O  Prophet,˺ when your Lord declared that He
   would send against them others who would make them suffer terribly until the Day
   of Judgment. Indeed, your Lord is swift in punishment, but He is certainly All-Forgiving,
   Most Merciful.
 word_by_word:
   1:
-    arabic: وَاِذۡ
+    arabic: وَإِذۡ
     translation: And when
     transliteration: wa-idh
   2:
-    arabic: تَاَذَّنَ
+    arabic: تَأَذَّنَ
     translation: declared
     transliteration: ta-adhana
   3:
@@ -28,7 +28,7 @@ word_by_word:
     translation: upon them
     transliteration: ʿalayhim
   6:
-    arabic: اِلٰى
+    arabic: إِلَىٰ
     translation: till
     transliteration: ilā
   7:
@@ -36,27 +36,27 @@ word_by_word:
     translation: (the) Day
     transliteration: yawmi
   8:
-    arabic: الۡقِيٰمَةِ
+    arabic: ٱلۡقِيَٰمَةِ
     translation: (of) the Resurrection
     transliteration: l-qiyāmati
   9:
-    arabic: مَنۡ
+    arabic: مَن
     translation: (those) who
     transliteration: man
   10:
-    arabic: يَّسُوۡمُهُمۡ
+    arabic: يَسُومُهُمۡ
     translation: would afflict them
     transliteration: yasūmuhum
   11:
-    arabic: سُوۡٓءَ
+    arabic: سُوٓءَ
     translation: (with) a grievous
     transliteration: sūa
   12:
-    arabic: الۡعَذَابِ​ ؕ
+    arabic: ٱلۡعَذَابِۗ
     translation: '[the] punishment'
     transliteration: l-ʿadhābi
   13:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   14:
@@ -64,23 +64,23 @@ word_by_word:
     translation: your Lord
     transliteration: rabbaka
   15:
-    arabic: لَسَرِيۡعُ
+    arabic: لَسَرِيعُ
     translation: (is) surely swift
     transliteration: lasarīʿu
   16:
-    arabic: الۡعِقَابِ ​ ​ۖۚ
+    arabic: ٱلۡعِقَابِ
     translation: (in) the retribution
     transliteration: l-ʿiqābi
   17:
-    arabic: وَاِنَّهٗ
+    arabic: وَإِنَّهُۥ
     translation: but indeed, He
     transliteration: wa-innahu
   18:
-    arabic: لَـغَفُوۡرٌ
+    arabic: لَغَفُورٞ
     translation: (is) surely Oft-Forgiving
     transliteration: laghafūrun
   19:
-    arabic: رَّحِيۡمٌ‏
+    arabic: رَّحِيمٞ
     translation: Most Merciful
     transliteration: raḥīmun
 ---

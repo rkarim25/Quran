@@ -1,12 +1,12 @@
 ---
-arabic_ayat: اِذۡ قَالَتِ امۡرَاَتُ عِمۡرٰنَ رَبِّ اِنِّىۡ نَذَرۡتُ لَـكَ مَا فِىۡ
-  بَطۡنِىۡ مُحَرَّرًا فَتَقَبَّلۡ مِنِّىۡ ۚ اِنَّكَ اَنۡتَ السَّمِيۡعُ الۡعَلِيۡمُ​‏
+arabic_ayat: إِذۡ قَالَتِ ٱمۡرَأَتُ عِمۡرَٰنَ رَبِّ إِنِّي نَذَرۡتُ لَكَ مَا فِي بَطۡنِي
+  مُحَرَّرٗا فَتَقَبَّلۡ مِنِّيٓۖ إِنَّكَ أَنتَ ٱلسَّمِيعُ ٱلۡعَلِيمُ
 sentence_translation: ˹Remember˺ when the wife of ’Imrân said, “My Lord! I dedicate
   what is in my womb entirely to Your service, so accept it from me. You ˹alone˺ are
   truly the All-Hearing, All-Knowing.”
 word_by_word:
   1:
-    arabic: اِذۡ
+    arabic: إِذۡ
     translation: When
     transliteration: idh
   2:
@@ -14,11 +14,11 @@ word_by_word:
     translation: '[she] said'
     transliteration: qālati
   3:
-    arabic: امۡرَاَتُ
+    arabic: ٱمۡرَأَتُ
     translation: (the) wife
     transliteration: im'ra-atu
   4:
-    arabic: عِمۡرٰنَ
+    arabic: عِمۡرَٰنَ
     translation: (of) Imran
     transliteration: ʿim'rāna
   5:
@@ -26,7 +26,7 @@ word_by_word:
     translation: My Lord
     transliteration: rabbi
   6:
-    arabic: اِنِّىۡ
+    arabic: إِنِّي
     translation: Indeed, I
     transliteration: innī
   7:
@@ -34,7 +34,7 @@ word_by_word:
     translation: '[I] vowed'
     transliteration: nadhartu
   8:
-    arabic: لَـكَ
+    arabic: لَكَ
     translation: to You
     transliteration: laka
   9:
@@ -42,15 +42,15 @@ word_by_word:
     translation: what
     transliteration: mā
   10:
-    arabic: فِىۡ
+    arabic: فِي
     translation: (is) in
     transliteration: fī
   11:
-    arabic: بَطۡنِىۡ
+    arabic: بَطۡنِي
     translation: my womb
     transliteration: baṭnī
   12:
-    arabic: مُحَرَّرًا
+    arabic: مُحَرَّرٗا
     translation: dedicated
     transliteration: muḥarraran
   13:
@@ -58,23 +58,23 @@ word_by_word:
     translation: so accept
     transliteration: fataqabbal
   14:
-    arabic: مِنِّىۡ ۚ
+    arabic: مِنِّيٓۖ
     translation: from me
     transliteration: minnī
   15:
-    arabic: اِنَّكَ
+    arabic: إِنَّكَ
     translation: Indeed, You
     transliteration: innaka
   16:
-    arabic: اَنۡتَ
+    arabic: أَنتَ
     translation: You
     transliteration: anta
   17:
-    arabic: السَّمِيۡعُ
+    arabic: ٱلسَّمِيعُ
     translation: (are) the All-Hearing
     transliteration: l-samīʿu
   18:
-    arabic: الۡعَلِيۡمُ​‏
+    arabic: ٱلۡعَلِيمُ
     translation: the All-Knowing
     transliteration: l-ʿalīmu
 ---

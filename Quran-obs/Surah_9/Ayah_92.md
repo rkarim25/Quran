@@ -1,13 +1,13 @@
 ---
-arabic_ayat: وَّلَا عَلَى الَّذِيۡنَ اِذَا مَاۤ اَتَوۡكَ لِتَحۡمِلَهُمۡ قُلۡتَ لَاۤ
-  اَجِدُ مَاۤ اَحۡمِلُكُمۡ عَلَيۡهِ تَوَلَّوْا وَّاَعۡيُنُهُمۡ تَفِيۡضُ مِنَ الدَّمۡعِ
-  حَزَنًا اَلَّا يَجِدُوۡا مَا يُنۡفِقُوۡنَؕ‏
+arabic_ayat: وَلَا عَلَى ٱلَّذِينَ إِذَا مَآ أَتَوۡكَ لِتَحۡمِلَهُمۡ قُلۡتَ لَآ
+  أَجِدُ مَآ أَحۡمِلُكُمۡ عَلَيۡهِ تَوَلَّواْ وَّأَعۡيُنُهُمۡ تَفِيضُ مِنَ ٱلدَّمۡعِ
+  حَزَنًا أَلَّا يَجِدُواْ مَا يُنفِقُونَ
 sentence_translation: Nor ˹is there any blame on˺ those who came to you ˹O Prophet˺
   for mounts, then when you said, “I can find no mounts for you,” they left with eyes
   overflowing with tears out of grief that they had nothing to contribute.
 word_by_word:
   1:
-    arabic: وَّلَا
+    arabic: وَلَا
     translation: And not
     transliteration: walā
   2:
@@ -15,19 +15,19 @@ word_by_word:
     translation: 'on'
     transliteration: ʿalā
   3:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   4:
-    arabic: اِذَا
+    arabic: إِذَا
     translation: when
     transliteration: idhā
   5:
-    arabic: مَاۤ
+    arabic: مَآ
     translation: when
     transliteration: mā
   6:
-    arabic: اَتَوۡكَ
+    arabic: أَتَوۡكَ
     translation: they came to you
     transliteration: atawka
   7:
@@ -39,35 +39,35 @@ word_by_word:
     translation: you said
     transliteration: qul'ta
   9:
-    arabic: لَاۤ
+    arabic: لَآ
     translation: Not
     transliteration: lā
   10:
-    arabic: اَجِدُ
+    arabic: أَجِدُ
     translation: I find
     transliteration: ajidu
   11:
-    arabic: مَاۤ
+    arabic: مَآ
     translation: what
     transliteration: mā
   12:
-    arabic: اَحۡمِلُكُمۡ
+    arabic: أَحۡمِلُكُمۡ
     translation: to mount you
     transliteration: aḥmilukum
   13:
-    arabic: عَلَيۡهِ
+    arabic: عَلَيۡهِ
     translation: on [it]
     transliteration: ʿalayhi
   14:
-    arabic: تَوَلَّوْا
+    arabic: تَوَلَّواْ
     translation: They turned back
     transliteration: tawallaw
   15:
-    arabic: وَّاَعۡيُنُهُمۡ
+    arabic: وَّأَعۡيُنُهُمۡ
     translation: with their eyes
     transliteration: wa-aʿyunuhum
   16:
-    arabic: تَفِيۡضُ
+    arabic: تَفِيضُ
     translation: flowing
     transliteration: tafīḍu
   17:
@@ -75,7 +75,7 @@ word_by_word:
     translation: '[of]'
     transliteration: mina
   18:
-    arabic: الدَّمۡعِ
+    arabic: ٱلدَّمۡعِ
     translation: (with) the tears
     transliteration: l-damʿi
   19:
@@ -83,11 +83,11 @@ word_by_word:
     translation: (of) sorrow
     transliteration: ḥazanan
   20:
-    arabic: اَلَّا
+    arabic: أَلَّا
     translation: that not
     transliteration: allā
   21:
-    arabic: يَجِدُوۡا
+    arabic: يَجِدُواْ
     translation: they find
     transliteration: yajidū
   22:
@@ -95,7 +95,7 @@ word_by_word:
     translation: what
     transliteration: mā
   23:
-    arabic: يُنۡفِقُوۡنَؕ‏
+    arabic: يُنفِقُونَ
     translation: they (could) spend
     transliteration: yunfiqūna
 ---

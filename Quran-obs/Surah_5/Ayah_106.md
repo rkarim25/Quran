@@ -1,10 +1,10 @@
 ---
-arabic_ayat: يٰۤـاَيُّهَا الَّذِيۡنَ اٰمَنُوۡا شَهَادَةُ بَيۡنِكُمۡ اِذَا حَضَرَ اَحَدَكُمُ
-  الۡمَوۡتُ حِيۡنَ الۡوَصِيَّةِ اثۡـنٰنِ ذَوَا عَدۡلٍ مِّنۡكُمۡ اَوۡ اٰخَرَانِ مِنۡ
-  غَيۡـرِكُمۡ اِنۡ اَنۡـتُمۡ ضَرَبۡتُمۡ فِى الۡاَرۡضِ فَاَصَابَتۡكُمۡ مُّصِيۡبَةُ
-  الۡمَوۡتِ​ ؕ تَحۡبِسُوۡنَهُمَا مِنۡۢ بَعۡدِ الصَّلٰوةِ فَيُقۡسِمٰنِ بِاللّٰهِ اِنِ
-  ارۡتَبۡتُمۡ لَا نَشۡتَرِىۡ بِهٖ ثَمَنًا وَّلَوۡ كَانَ ذَا قُرۡبٰى​ ۙ وَلَا نَـكۡتُمُ
-  شَهَادَةَ ۙ اللّٰهِ اِنَّاۤ اِذًا لَّمِنَ الۡاٰثِمِيۡنَ‏
+arabic_ayat: يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُواْ شَهَٰدَةُ بَيۡنِكُمۡ إِذَا حَضَرَ أَحَدَكُمُ
+  ٱلۡمَوۡتُ حِينَ ٱلۡوَصِيَّةِ ٱثۡنَانِ ذَوَا عَدۡلٖ مِّنكُمۡ أَوۡ ءَاخَرَانِ مِنۡ
+  غَيۡرِكُمۡ إِنۡ أَنتُمۡ ضَرَبۡتُمۡ فِي ٱلۡأَرۡضِ فَأَصَٰبَتۡكُم مُّصِيبَةُ ٱلۡمَوۡتِۚ
+  تَحۡبِسُونَهُمَا مِنۢ بَعۡدِ ٱلصَّلَوٰةِ فَيُقۡسِمَانِ بِٱللَّهِ إِنِ ٱرۡتَبۡتُمۡ
+  لَا نَشۡتَرِي بِهِۦ ثَمَنٗا وَلَوۡ كَانَ ذَا قُرۡبَىٰ وَلَا نَكۡتُمُ شَهَٰدَةَ ٱللَّهِ
+  إِنَّآ إِذٗا لَّمِنَ ٱلۡأٓثِمِينَ
 sentence_translation: O believers! When death approaches any of you, call upon two
   just Muslim men to witness as you make a bequest; otherwise, two non-Muslims if
   you are afflicted with death while on a journey. If you doubt ˹their testimony˺,
@@ -13,19 +13,19 @@ sentence_translation: O believers! When death approaches any of you, call upon t
   withhold the testimony of Allah. Otherwise, we would surely be sinful.”
 word_by_word:
   1:
-    arabic: يٰۤـاَيُّهَا
+    arabic: يَٰٓأَيُّهَا
     translation: O you
     transliteration: yāayyuhā
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ ءَ
     translation: who
     transliteration: alladhīna
   3:
-    arabic: اٰمَنُوۡا
+    arabic: امَنُواْ
     translation: believe
     transliteration: āmanū
   4:
-    arabic: شَهَادَةُ
+    arabic: شَهَٰدَةُ
     translation: (Take) testimony
     transliteration: shahādatu
   5:
@@ -33,7 +33,7 @@ word_by_word:
     translation: among you
     transliteration: baynikum
   6:
-    arabic: اِذَا
+    arabic: إِذَا
     translation: when
     transliteration: idhā
   7:
@@ -41,23 +41,23 @@ word_by_word:
     translation: approaches
     transliteration: ḥaḍara
   8:
-    arabic: اَحَدَكُمُ
+    arabic: أَحَدَكُمُ
     translation: one of you
     transliteration: aḥadakumu
   9:
-    arabic: الۡمَوۡتُ
+    arabic: ٱلۡمَوۡتُ
     translation: '[the] death'
     transliteration: l-mawtu
   10:
-    arabic: حِيۡنَ
+    arabic: حِينَ
     translation: (at the) time (of making)
     transliteration: ḥīna
   11:
-    arabic: الۡوَصِيَّةِ
+    arabic: ٱلۡوَصِيَّةِ
     translation: '[the] a will'
     transliteration: l-waṣiyati
   12:
-    arabic: اثۡـنٰنِ
+    arabic: ٱثۡنَانِ
     translation: two
     transliteration: ith'nāni
   13:
@@ -65,19 +65,19 @@ word_by_word:
     translation: men
     transliteration: dhawā
   14:
-    arabic: عَدۡلٍ
+    arabic: عَدۡلٖ
     translation: just
     transliteration: ʿadlin
   15:
-    arabic: مِّنۡكُمۡ
+    arabic: مِّنكُمۡ
     translation: among you
     transliteration: minkum
   16:
-    arabic: اَوۡ
+    arabic: أَوۡ ءَ
     translation: or
     transliteration: aw
   17:
-    arabic: اٰخَرَانِ
+    arabic: اخَرَانِ
     translation: two others
     transliteration: ākharāni
   18:
@@ -85,15 +85,15 @@ word_by_word:
     translation: from
     transliteration: min
   19:
-    arabic: غَيۡـرِكُمۡ
+    arabic: غَيۡرِكُمۡ
     translation: other than you
     transliteration: ghayrikum
   20:
-    arabic: اِنۡ
+    arabic: إِنۡ
     translation: if
     transliteration: in
   21:
-    arabic: اَنۡـتُمۡ
+    arabic: أَنتُمۡ
     translation: you
     transliteration: antum
   22:
@@ -101,31 +101,31 @@ word_by_word:
     translation: (are) travel(ing)
     transliteration: ḍarabtum
   23:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   24:
-    arabic: الۡاَرۡضِ
+    arabic: ٱلۡأَرۡضِ
     translation: the earth
     transliteration: l-arḍi
   25:
-    arabic: فَاَصَابَتۡكُمۡ
+    arabic: فَأَصَٰبَتۡكُم
     translation: then befalls you
     transliteration: fa-aṣābatkum
   26:
-    arabic: مُّصِيۡبَةُ
+    arabic: مُّصِيبَةُ
     translation: calamity
     transliteration: muṣībatu
   27:
-    arabic: الۡمَوۡتِ​ ؕ
+    arabic: ٱلۡمَوۡتِۚ
     translation: (of) [the] death
     transliteration: l-mawti
   28:
-    arabic: تَحۡبِسُوۡنَهُمَا
+    arabic: تَحۡبِسُونَهُمَا
     translation: Detain both of them
     transliteration: taḥbisūnahumā
   29:
-    arabic: مِنۡۢ
+    arabic: مِنۢ
     translation: from
     transliteration: min
   30:
@@ -133,23 +133,23 @@ word_by_word:
     translation: after
     transliteration: baʿdi
   31:
-    arabic: الصَّلٰوةِ
+    arabic: ٱلصَّلَوٰةِ
     translation: the prayer
     transliteration: l-ṣalati
   32:
-    arabic: فَيُقۡسِمٰنِ
+    arabic: فَيُقۡسِمَانِ
     translation: and let them both swear
     transliteration: fayuq'simāni
   33:
-    arabic: بِاللّٰهِ
+    arabic: بِٱللَّهِ
     translation: by Allah
     transliteration: bil-lahi
   34:
-    arabic: اِنِ
+    arabic: إِنِ
     translation: if
     transliteration: ini
   35:
-    arabic: ارۡتَبۡتُمۡ
+    arabic: ٱرۡتَبۡتُمۡ
     translation: you doubt
     transliteration: ir'tabtum
   36:
@@ -157,19 +157,19 @@ word_by_word:
     translation: Not
     transliteration: lā
   37:
-    arabic: نَشۡتَرِىۡ
+    arabic: نَشۡتَرِي
     translation: we will exchange
     transliteration: nashtarī
   38:
-    arabic: بِهٖ
+    arabic: بِهِۦ
     translation: it for
     transliteration: bihi
   39:
-    arabic: ثَمَنًا
+    arabic: ثَمَنٗا
     translation: a price
     transliteration: thamanan
   40:
-    arabic: وَّلَوۡ
+    arabic: وَلَوۡ
     translation: even if
     transliteration: walaw
   41:
@@ -181,7 +181,7 @@ word_by_word:
     translation: (of)
     transliteration: dhā
   43:
-    arabic: قُرۡبٰى​ ۙ
+    arabic: قُرۡبَىٰ
     translation: a near relative
     transliteration: qur'bā
   44:
@@ -189,23 +189,23 @@ word_by_word:
     translation: and not
     transliteration: walā
   45:
-    arabic: نَـكۡتُمُ
+    arabic: نَكۡتُمُ
     translation: we will conceal
     transliteration: naktumu
   46:
-    arabic: شَهَادَةَ ۙ
+    arabic: شَهَٰدَةَ
     translation: testimony
     transliteration: shahādata
   47:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (of) Allah
     transliteration: l-lahi
   48:
-    arabic: اِنَّاۤ
+    arabic: إِنَّآ
     translation: Indeed, we
     transliteration: innā
   49:
-    arabic: اِذًا
+    arabic: إِذٗا
     translation: then
     transliteration: idhan
   50:
@@ -213,7 +213,7 @@ word_by_word:
     translation: (will) surely (be) of
     transliteration: lamina
   51:
-    arabic: الۡاٰثِمِيۡنَ‏
+    arabic: ٱلۡأٓثِمِينَ
     translation: the sinners
     transliteration: l-āthimīna
 ---

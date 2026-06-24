@@ -1,10 +1,10 @@
 ---
-arabic_ayat: وَاِذَا قُرِئَ عَلَيۡهِمُ الۡقُرۡاٰنُ لَا يَسۡجُدُوۡنَ ؕ ۩‏
+arabic_ayat: وَإِذَا قُرِئَ عَلَيۡهِمُ ٱلۡقُرۡءَانُ لَا يَسۡجُدُونَۤ۩
 sentence_translation: and when the Quran is recited to them, they do not bow down
   ˹in submission˺?
 word_by_word:
   1:
-    arabic: وَاِذَا
+    arabic: وَإِذَا
     translation: And when
     transliteration: wa-idhā
   2:
@@ -16,7 +16,7 @@ word_by_word:
     translation: to them
     transliteration: ʿalayhimu
   4:
-    arabic: الۡقُرۡاٰنُ
+    arabic: ٱلۡقُرۡءَانُ
     translation: the Quran
     transliteration: l-qur'ānu
   5:
@@ -24,7 +24,7 @@ word_by_word:
     translation: not
     transliteration: lā
   6:
-    arabic: يَسۡجُدُوۡنَ ؕ ۩
+    arabic: يَسۡجُدُونَۤ۩
     translation: they prostrate
     transliteration: yasjudūna
 ---

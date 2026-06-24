@@ -1,22 +1,22 @@
 ---
-arabic_ayat: وَاِنَّهٗ فِىۡۤ اُمِّ الۡكِتٰبِ لَدَيۡنَا لَعَلِىٌّ حَكِيۡمٌؕ‏
+arabic_ayat: وَإِنَّهُۥ فِيٓ أُمِّ ٱلۡكِتَٰبِ لَدَيۡنَا لَعَلِيٌّ حَكِيمٌ
 sentence_translation: And indeed, it is—in the Master Record with Us—highly esteemed,
   rich in wisdom.
 word_by_word:
   1:
-    arabic: وَاِنَّهٗ
+    arabic: وَإِنَّهُۥ
     translation: And indeed, it
     transliteration: wa-innahu
   2:
-    arabic: فِىۡۤ
+    arabic: فِيٓ
     translation: (is) in
     transliteration: fī
   3:
-    arabic: اُمِّ
+    arabic: أُمِّ
     translation: (the) Mother
     transliteration: ummi
   4:
-    arabic: الۡكِتٰبِ
+    arabic: ٱلۡكِتَٰبِ
     translation: (of) the Book
     transliteration: l-kitābi
   5:
@@ -24,11 +24,11 @@ word_by_word:
     translation: with Us
     transliteration: ladaynā
   6:
-    arabic: لَعَلِىٌّ
+    arabic: لَعَلِيٌّ
     translation: surely exalted
     transliteration: laʿaliyyun
   7:
-    arabic: حَكِيۡمٌؕ‏
+    arabic: حَكِيمٌ
     translation: full of wisdom
     transliteration: ḥakīmun
 ---

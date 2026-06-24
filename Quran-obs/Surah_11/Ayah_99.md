@@ -1,31 +1,31 @@
 ---
-arabic_ayat: وَاُتۡبِعُوۡا فِىۡ هٰذِهٖ لَـعۡنَةً وَّيَوۡمَ الۡقِيٰمَةِ​ ؕ بِئۡسَ الرِّفۡدُ
-  الۡمَرۡفُوۡدُ‏
+arabic_ayat: وَأُتۡبِعُواْ فِي هَٰذِهِۦ لَعۡنَةٗ وَيَوۡمَ ٱلۡقِيَٰمَةِۚ بِئۡسَ ٱلرِّفۡدُ
+  ٱلۡمَرۡفُودُ
 sentence_translation: They were followed by a curse in this ˹life˺ and ˹will receive
   another˺ on the Day of Judgment. What an evil gift to receive!
 word_by_word:
   1:
-    arabic: وَاُتۡبِعُوۡا
+    arabic: وَأُتۡبِعُواْ
     translation: And they were followed
     transliteration: wa-ut'biʿū
   2:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   3:
-    arabic: هٰذِهٖ
+    arabic: هَٰذِهِۦ
     translation: this
     transliteration: hādhihi
   4:
-    arabic: لَـعۡنَةً
+    arabic: لَعۡنَةٗ
     translation: (by) a curse
     transliteration: laʿnatan
   5:
-    arabic: وَّيَوۡمَ
+    arabic: وَيَوۡمَ
     translation: and (on the) Day
     transliteration: wayawma
   6:
-    arabic: الۡقِيٰمَةِ​ ؕ
+    arabic: ٱلۡقِيَٰمَةِۚ
     translation: (of) the Resurrection
     transliteration: l-qiyāmati
   7:
@@ -33,11 +33,11 @@ word_by_word:
     translation: Wretched
     transliteration: bi'sa
   8:
-    arabic: الرِّفۡدُ
+    arabic: ٱلرِّفۡدُ
     translation: (is) the gift
     transliteration: l-rif'du
   9:
-    arabic: الۡمَرۡفُوۡدُ‏
+    arabic: ٱلۡمَرۡفُودُ
     translation: which (will) be given
     transliteration: l-marfūdu
 ---

@@ -1,5 +1,5 @@
 ---
-arabic_ayat: كَذَّبَتۡ قَوۡمُ نُوۡحِ ۨالۡمُرۡسَلِيۡنَ​ ۖ​ۚ‏
+arabic_ayat: كَذَّبَتۡ قَوۡمُ نُوحٍ ٱلۡمُرۡسَلِينَ
 sentence_translation: The people of Noah rejected the messengers
 word_by_word:
   1:
@@ -11,11 +11,11 @@ word_by_word:
     translation: (the) people
     transliteration: qawmu
   3:
-    arabic: نُوۡحِ
+    arabic: نُوحٍ
     translation: (of) Nuh
     transliteration: nūḥin
   4:
-    arabic: ۨالۡمُرۡسَلِيۡنَ​ ۖ​ۚ‏
+    arabic: ٱلۡمُرۡسَلِينَ
     translation: the Messengers
     transliteration: l-mur'salīna
 ---

@@ -1,9 +1,9 @@
 ---
-arabic_ayat: مُدۡهَآمَّتٰنِ​ۚ‏
+arabic_ayat: مُدۡهَآمَّتَانِ
 sentence_translation: Both will be dark green.
 word_by_word:
   1:
-    arabic: مُدۡهَآمَّتٰنِ​ۚ‏
+    arabic: مُدۡهَآمَّتَانِ
     translation: Dark green
     transliteration: mud'hāmmatāni
 ---

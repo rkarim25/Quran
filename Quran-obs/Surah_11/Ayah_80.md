@@ -1,5 +1,5 @@
 ---
-arabic_ayat: قَالَ لَوۡ اَنَّ لِىۡ بِكُمۡ قُوَّةً اَوۡ اٰوِىۡۤ اِلٰى رُكۡنٍ شَدِيۡدٍ‏
+arabic_ayat: قَالَ لَوۡ أَنَّ لِي بِكُمۡ قُوَّةً أَوۡ ءَاوِيٓ إِلَىٰ رُكۡنٖ شَدِيدٖ
 sentence_translation: He responded, “If only I had the strength ˹to resist you˺ or
   could rely on a strong supporter.”
 word_by_word:
@@ -12,11 +12,11 @@ word_by_word:
     translation: If
     transliteration: law
   3:
-    arabic: اَنَّ
+    arabic: أَنَّ
     translation: that
     transliteration: anna
   4:
-    arabic: لِىۡ
+    arabic: لِي
     translation: I had
     transliteration: lī
   5:
@@ -28,23 +28,23 @@ word_by_word:
     translation: power
     transliteration: quwwatan
   7:
-    arabic: اَوۡ
+    arabic: أَوۡ ءَ
     translation: or
     transliteration: aw
   8:
-    arabic: اٰوِىۡۤ
+    arabic: اوِيٓ
     translation: I could take refuge
     transliteration: āwī
   9:
-    arabic: اِلٰى
+    arabic: إِلَىٰ
     translation: in
     transliteration: ilā
   10:
-    arabic: رُكۡنٍ
+    arabic: رُكۡنٖ
     translation: a support
     transliteration: ruk'nin
   11:
-    arabic: شَدِيۡدٍ‏
+    arabic: شَدِيدٖ
     translation: strong
     transliteration: shadīdin
 ---

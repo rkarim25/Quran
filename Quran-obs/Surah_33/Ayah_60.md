@@ -1,13 +1,13 @@
 ---
-arabic_ayat: لَٮِٕنۡ لَّمۡ يَنۡتَهِ الۡمُنٰفِقُوۡنَ وَ الَّذِيۡنَ فِى قُلُوۡبِهِمۡ
-  مَّرَضٌ وَّالۡمُرۡجِفُوۡنَ فِى الۡمَدِيۡنَةِ لَـنُغۡرِيَـنَّكَ بِهِمۡ ثُمَّ لَا
-  يُجَاوِرُوۡنَكَ فِيۡهَاۤ اِلَّا قَلِيۡلًا ۛۚ  ۖ‏
+arabic_ayat: ۞ لَّئِن لَّمۡ يَنتَهِ ٱلۡمُنَٰفِقُونَ وَٱلَّذِينَ فِي قُلُوبِهِم مَّرَضٞ
+  وَٱلۡمُرۡجِفُونَ فِي ٱلۡمَدِينَةِ لَنُغۡرِيَنَّكَ بِهِمۡ ثُمَّ لَا يُجَاوِرُونَكَ
+  فِيهَآ إِلَّا قَلِيلٗا
 sentence_translation: If the hypocrites, and those with sickness in their hearts,
   and rumour-mongers in Medina do not desist, We will certainly incite you ˹O Prophet˺
   against them, and then they will not be your neighbours there any longer.
 word_by_word:
   1:
-    arabic: ۞ لَٮِٕنۡ
+    arabic: ۞ لَّئِن
     translation: If
     transliteration: la-in
   2:
@@ -15,43 +15,43 @@ word_by_word:
     translation: (do) not
     transliteration: lam
   3:
-    arabic: يَنۡتَهِ
+    arabic: يَنتَهِ
     translation: cease
     transliteration: yantahi
   4:
-    arabic: الۡمُنٰفِقُوۡنَ
+    arabic: ٱلۡمُنَٰفِقُونَ
     translation: the hypocrites
     transliteration: l-munāfiqūna
   5:
-    arabic: وَ الَّذِيۡنَ
+    arabic: وَٱلَّذِينَ
     translation: and those who
     transliteration: wa-alladhīna
   6:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   7:
-    arabic: قُلُوۡبِهِمۡ
+    arabic: قُلُوبِهِم
     translation: their hearts
     transliteration: qulūbihim
   8:
-    arabic: مَّرَضٌ
+    arabic: مَّرَضٞ
     translation: (is) a disease
     transliteration: maraḍun
   9:
-    arabic: وَّالۡمُرۡجِفُوۡنَ
+    arabic: وَٱلۡمُرۡجِفُونَ
     translation: and those who spread rumors
     transliteration: wal-mur'jifūna
   10:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   11:
-    arabic: الۡمَدِيۡنَةِ
+    arabic: ٱلۡمَدِينَةِ
     translation: the city
     transliteration: l-madīnati
   12:
-    arabic: لَـنُغۡرِيَـنَّكَ
+    arabic: لَنُغۡرِيَنَّكَ
     translation: We will let you overpower them
     transliteration: lanugh'riyannaka
   13:
@@ -67,19 +67,19 @@ word_by_word:
     translation: not
     transliteration: lā
   16:
-    arabic: يُجَاوِرُوۡنَكَ
+    arabic: يُجَاوِرُونَكَ
     translation: they will remain your neighbors
     transliteration: yujāwirūnaka
   17:
-    arabic: فِيۡهَاۤ
+    arabic: فِيهَآ
     translation: therein
     transliteration: fīhā
   18:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   19:
-    arabic: قَلِيۡلًا ۛۚ  ۖ‏
+    arabic: قَلِيلٗا
     translation: (for) a little
     transliteration: qalīlan
 ---

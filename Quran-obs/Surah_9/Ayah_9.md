@@ -1,43 +1,43 @@
 ---
-arabic_ayat: اِشۡتَرَوۡا بِاٰيٰتِ اللّٰهِ ثَمَنًا قَلِيۡلًا فَصَدُّوۡا عَنۡ سَبِيۡلِهٖ​
-  ؕ اِنَّهُمۡ سَآءَ مَا كَانُوۡا يَعۡمَلُوۡنَ‏
+arabic_ayat: ٱشۡتَرَوۡاْ بِـَٔايَٰتِ ٱللَّهِ ثَمَنٗا قَلِيلٗا فَصَدُّواْ عَن سَبِيلِهِۦٓۚ
+  إِنَّهُمۡ سَآءَ مَا كَانُواْ يَعۡمَلُونَ
 sentence_translation: They chose a fleeting gain over Allah’s revelations, hindering
   ˹others˺ from His Way. Evil indeed is what they have done!
 word_by_word:
   1:
-    arabic: اِشۡتَرَوۡا
+    arabic: ٱشۡتَرَوۡاْ
     translation: They exchange
     transliteration: ish'taraw
   2:
-    arabic: بِاٰيٰتِ
+    arabic: بِـَٔايَٰتِ
     translation: '[with] the Verses of Allah'
     transliteration: biāyāti
   3:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: '[with] the Verses of Allah'
     transliteration: l-lahi
   4:
-    arabic: ثَمَنًا
+    arabic: ثَمَنٗا
     translation: (for) a little price
     transliteration: thamanan
   5:
-    arabic: قَلِيۡلًا
+    arabic: قَلِيلٗا
     translation: (for) a little price
     transliteration: qalīlan
   6:
-    arabic: فَصَدُّوۡا
+    arabic: فَصَدُّواْ
     translation: and they hinder (people)
     transliteration: faṣaddū
   7:
-    arabic: عَنۡ
+    arabic: عَن
     translation: from
     transliteration: ʿan
   8:
-    arabic: سَبِيۡلِهٖ​ ؕ
+    arabic: سَبِيلِهِۦٓۚ
     translation: His way
     transliteration: sabīlihi
   9:
-    arabic: اِنَّهُمۡ
+    arabic: إِنَّهُمۡ
     translation: Indeed
     transliteration: innahum
   10:
@@ -49,11 +49,11 @@ word_by_word:
     translation: (is) what
     transliteration: mā
   12:
-    arabic: كَانُوۡا
+    arabic: كَانُواْ
     translation: they used to
     transliteration: kānū
   13:
-    arabic: يَعۡمَلُوۡنَ‏
+    arabic: يَعۡمَلُونَ
     translation: do
     transliteration: yaʿmalūna
 ---

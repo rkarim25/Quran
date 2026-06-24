@@ -1,22 +1,22 @@
 ---
-arabic_ayat: اَمۡ يَقُوۡلُوۡنَ افۡتَـرٰى عَلَى اللّٰهِ كَذِبًا​ ۚ فَاِنۡ يَّشَاِ اللّٰهُ
-  يَخۡتِمۡ عَلٰى قَلۡبِكَ​ ؕ وَيَمۡحُ اللّٰهُ الۡبَاطِلَ وَيُحِقُّ الۡحَقَّ بِكَلِمٰتِهٖۤ​
-  ؕ اِنَّهٗ عَلِيۡمٌۢ بِذَاتِ الصُّدُوۡرِ‏
+arabic_ayat: أَمۡ يَقُولُونَ ٱفۡتَرَىٰ عَلَى ٱللَّهِ كَذِبٗاۖ فَإِن يَشَإِ ٱللَّهُ
+  يَخۡتِمۡ عَلَىٰ قَلۡبِكَۗ وَيَمۡحُ ٱللَّهُ ٱلۡبَٰطِلَ وَيُحِقُّ ٱلۡحَقَّ بِكَلِمَٰتِهِۦٓۚ
+  إِنَّهُۥ عَلِيمُۢ بِذَاتِ ٱلصُّدُورِ
 sentence_translation: Or do they say, “He has fabricated a lie about Allah!”? ˹If
   you had,˺ Allah would have sealed your heart, if He willed. And Allah wipes out
   falsehood and establishes the truth by His Words. He certainly knows best what is
   ˹hidden˺ in the heart.
 word_by_word:
   1:
-    arabic: اَمۡ
+    arabic: أَمۡ
     translation: Or
     transliteration: am
   2:
-    arabic: يَقُوۡلُوۡنَ
+    arabic: يَقُولُونَ
     translation: (do) they say
     transliteration: yaqūlūna
   3:
-    arabic: افۡتَـرٰى
+    arabic: ٱفۡتَرَىٰ
     translation: He has invented
     transliteration: if'tarā
   4:
@@ -24,23 +24,23 @@ word_by_word:
     translation: about
     transliteration: ʿalā
   5:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   6:
-    arabic: كَذِبًا​ ۚ
+    arabic: كَذِبٗاۖ
     translation: a lie
     transliteration: kadhiban
   7:
-    arabic: فَاِنۡ
+    arabic: فَإِن
     translation: But if
     transliteration: fa-in
   8:
-    arabic: يَّشَاِ
+    arabic: يَشَإِ
     translation: Allah willed
     transliteration: yasha-i
   9:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah willed
     transliteration: l-lahu
   10:
@@ -48,11 +48,11 @@ word_by_word:
     translation: He would seal
     transliteration: yakhtim
   11:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: '[over]'
     transliteration: ʿalā
   12:
-    arabic: قَلۡبِكَ​ ؕ
+    arabic: قَلۡبِكَۗ
     translation: your heart
     transliteration: qalbika
   13:
@@ -60,11 +60,11 @@ word_by_word:
     translation: And Allah eliminates
     transliteration: wayamḥu
   14:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: And Allah eliminates
     transliteration: l-lahu
   15:
-    arabic: الۡبَاطِلَ
+    arabic: ٱلۡبَٰطِلَ
     translation: the falsehood
     transliteration: l-bāṭila
   16:
@@ -72,19 +72,19 @@ word_by_word:
     translation: and establishes
     transliteration: wayuḥiqqu
   17:
-    arabic: الۡحَقَّ
+    arabic: ٱلۡحَقَّ
     translation: the truth
     transliteration: l-ḥaqa
   18:
-    arabic: بِكَلِمٰتِهٖۤ​ ؕ
+    arabic: بِكَلِمَٰتِهِۦٓۚ
     translation: by His Words
     transliteration: bikalimātihi
   19:
-    arabic: اِنَّهٗ
+    arabic: إِنَّهُۥ
     translation: Indeed, He
     transliteration: innahu
   20:
-    arabic: عَلِيۡمٌۢ
+    arabic: عَلِيمُۢ
     translation: (is) All-Knowing
     transliteration: ʿalīmun
   21:
@@ -92,7 +92,7 @@ word_by_word:
     translation: of what
     transliteration: bidhāti
   22:
-    arabic: الصُّدُوۡرِ‏
+    arabic: ٱلصُّدُورِ
     translation: (is in) the breasts
     transliteration: l-ṣudūri
 ---

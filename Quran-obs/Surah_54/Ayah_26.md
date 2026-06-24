@@ -1,14 +1,14 @@
 ---
-arabic_ayat: سَيَعۡلَمُوۡنَ غَدًا مَّنِ الۡكَذَّابُ الۡاَشِرُ‏
+arabic_ayat: سَيَعۡلَمُونَ غَدٗا مَّنِ ٱلۡكَذَّابُ ٱلۡأَشِرُ
 sentence_translation: ˹It was revealed to Ṣâliḥ,˺ “They will soon know who the boastful
   liar is.
 word_by_word:
   1:
-    arabic: سَيَعۡلَمُوۡنَ
+    arabic: سَيَعۡلَمُونَ
     translation: They will know
     transliteration: sayaʿlamūna
   2:
-    arabic: غَدًا
+    arabic: غَدٗا
     translation: tomorrow
     transliteration: ghadan
   3:
@@ -16,11 +16,11 @@ word_by_word:
     translation: who
     transliteration: mani
   4:
-    arabic: الۡكَذَّابُ
+    arabic: ٱلۡكَذَّابُ
     translation: (is) the liar
     transliteration: l-kadhābu
   5:
-    arabic: الۡاَشِرُ‏
+    arabic: ٱلۡأَشِرُ
     translation: the insolent one
     transliteration: l-ashiru
 ---

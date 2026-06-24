@@ -1,6 +1,6 @@
 ---
-arabic_ayat: ثُمَّ لَـنَنۡزِعَنَّ مِنۡ كُلِّ شِيۡعَةٍ اَيُّهُمۡ اَشَدُّ عَلَى الرَّحۡمٰنِ
-  عِتِيًّا​ ۚ‏
+arabic_ayat: ثُمَّ لَنَنزِعَنَّ مِن كُلِّ شِيعَةٍ أَيُّهُمۡ أَشَدُّ عَلَى ٱلرَّحۡمَٰنِ
+  عِتِيّٗا
 sentence_translation: Then We will certainly begin by dragging out of every group
   the ones most defiant to the Most Compassionate.
 word_by_word:
@@ -9,11 +9,11 @@ word_by_word:
     translation: Then
     transliteration: thumma
   2:
-    arabic: لَـنَنۡزِعَنَّ
+    arabic: لَنَنزِعَنَّ
     translation: surely, We will drag out
     transliteration: lananziʿanna
   3:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   4:
@@ -21,15 +21,15 @@ word_by_word:
     translation: every
     transliteration: kulli
   5:
-    arabic: شِيۡعَةٍ
+    arabic: شِيعَةٍ
     translation: sect
     transliteration: shīʿatin
   6:
-    arabic: اَيُّهُمۡ
+    arabic: أَيُّهُمۡ
     translation: those of them
     transliteration: ayyuhum
   7:
-    arabic: اَشَدُّ
+    arabic: أَشَدُّ
     translation: (who were) worst
     transliteration: ashaddu
   8:
@@ -37,11 +37,11 @@ word_by_word:
     translation: against
     transliteration: ʿalā
   9:
-    arabic: الرَّحۡمٰنِ
+    arabic: ٱلرَّحۡمَٰنِ
     translation: the Most Gracious
     transliteration: l-raḥmāni
   10:
-    arabic: عِتِيًّا​ ۚ‏
+    arabic: عِتِيّٗا
     translation: (in) rebellion
     transliteration: ʿitiyyan
 ---

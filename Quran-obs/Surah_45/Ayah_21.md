@@ -1,13 +1,13 @@
 ---
-arabic_ayat: اَمۡ حَسِبَ الَّذِيۡنَ اجۡتَـرَحُوا السَّيِّاٰتِ اَنۡ نَّجۡعَلَهُمۡ كَالَّذِيۡنَ
-  اٰمَنُوۡا وَعَمِلُوا الصّٰلِحٰتِ ۙ سَوَآءً مَّحۡيَاهُمۡ وَمَمَاتُهُمۡ​ ؕ سَآءَ
-  مَا يَحۡكُمُوۡنَ‏
+arabic_ayat: أَمۡ حَسِبَ ٱلَّذِينَ ٱجۡتَرَحُواْ ٱلسَّيِّـَٔاتِ أَن نَّجۡعَلَهُمۡ كَٱلَّذِينَ
+  ءَامَنُواْ وَعَمِلُواْ ٱلصَّٰلِحَٰتِ سَوَآءٗ مَّحۡيَاهُمۡ وَمَمَاتُهُمۡۚ سَآءَ
+  مَا يَحۡكُمُونَ
 sentence_translation: Or do those who commit evil deeds ˹simply˺ think that We will
   make them equal—in their life and after their death—to those who believe and do
   good? How wrong is their judgment!
 word_by_word:
   1:
-    arabic: اَمۡ
+    arabic: أَمۡ
     translation: Do
     transliteration: am
   2:
@@ -15,19 +15,19 @@ word_by_word:
     translation: think
     transliteration: ḥasiba
   3:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   4:
-    arabic: اجۡتَـرَحُوا
+    arabic: ٱجۡتَرَحُواْ
     translation: commit
     transliteration: ij'taraḥū
   5:
-    arabic: السَّيِّاٰتِ
+    arabic: ٱلسَّيِّـَٔاتِ
     translation: evil deeds
     transliteration: l-sayiāti
   6:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that
     transliteration: an
   7:
@@ -35,23 +35,23 @@ word_by_word:
     translation: We will make them
     transliteration: najʿalahum
   8:
-    arabic: كَالَّذِيۡنَ
+    arabic: كَٱلَّذِينَ ءَ
     translation: like those who
     transliteration: ka-alladhīna
   9:
-    arabic: اٰمَنُوۡا
+    arabic: امَنُواْ
     translation: believed
     transliteration: āmanū
   10:
-    arabic: وَعَمِلُوا
+    arabic: وَعَمِلُواْ
     translation: and did
     transliteration: waʿamilū
   11:
-    arabic: الصّٰلِحٰتِ ۙ
+    arabic: ٱلصَّٰلِحَٰتِ
     translation: righteous deeds
     transliteration: l-ṣāliḥāti
   12:
-    arabic: سَوَآءً
+    arabic: سَوَآءٗ
     translation: equal
     transliteration: sawāan
   13:
@@ -59,7 +59,7 @@ word_by_word:
     translation: (in) their life
     transliteration: maḥyāhum
   14:
-    arabic: وَمَمَاتُهُمۡ​ ؕ
+    arabic: وَمَمَاتُهُمۡۚ
     translation: and their death
     transliteration: wamamātuhum
   15:
@@ -71,7 +71,7 @@ word_by_word:
     translation: what
     transliteration: mā
   17:
-    arabic: يَحۡكُمُوۡنَ‏
+    arabic: يَحۡكُمُونَ
     translation: they judge
     transliteration: yaḥkumūna
 ---

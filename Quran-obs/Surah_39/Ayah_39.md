@@ -1,6 +1,6 @@
 ---
-arabic_ayat: "قُلۡ يٰقَوۡمِ اعۡمَلُوۡا عَلٰى مَكَانَتِكُمۡ اِنِّىۡ عَامِلٌ​ۚ فَسَوۡفَ\
-  \ تَعۡلَمُوۡنَۙ‏ \uFEFF\uFEFF"
+arabic_ayat: قُلۡ يَٰقَوۡمِ ٱعۡمَلُواْ عَلَىٰ مَكَانَتِكُمۡ إِنِّي عَٰمِلٞۖ فَسَوۡفَ
+  تَعۡلَمُونَ
 sentence_translation: Say, ˹O Prophet,˺ “O my people! Persist in your ways, for I
   ˹too˺ will persist in mine. You will soon come to know
 word_by_word:
@@ -9,15 +9,15 @@ word_by_word:
     translation: Say
     transliteration: qul
   2:
-    arabic: يٰقَوۡمِ
+    arabic: يَٰقَوۡمِ
     translation: O my people
     transliteration: yāqawmi
   3:
-    arabic: اعۡمَلُوۡا
+    arabic: ٱعۡمَلُواْ
     translation: Work
     transliteration: iʿ'malū
   4:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: (according) to
     transliteration: ʿalā
   5:
@@ -25,11 +25,11 @@ word_by_word:
     translation: your position
     transliteration: makānatikum
   6:
-    arabic: اِنِّىۡ
+    arabic: إِنِّي
     translation: indeed, I am
     transliteration: innī
   7:
-    arabic: عَامِلٌ​ۚ
+    arabic: عَٰمِلٞۖ
     translation: working
     transliteration: ʿāmilun
   8:
@@ -37,7 +37,7 @@ word_by_word:
     translation: then soon
     transliteration: fasawfa
   9:
-    arabic: "تَعۡلَمُوۡنَۙ‏ \uFEFF\uFEFF"
+    arabic: تَعۡلَمُونَ
     translation: you will know
     transliteration: taʿlamūna
 ---

@@ -1,14 +1,14 @@
 ---
-arabic_ayat: وَلَـلۡاٰخِرَةُ خَيۡرٌ لَّكَ مِنَ الۡاُوۡلٰىؕ‏
+arabic_ayat: وَلَلۡأٓخِرَةُ خَيۡرٞ لَّكَ مِنَ ٱلۡأُولَىٰ
 sentence_translation: And the next life is certainly far better for you than this
   one.
 word_by_word:
   1:
-    arabic: وَلَـلۡاٰخِرَةُ
+    arabic: وَلَلۡأٓخِرَةُ
     translation: And surely the Hereafter
     transliteration: walalākhiratu
   2:
-    arabic: خَيۡرٌ
+    arabic: خَيۡرٞ
     translation: (is) better
     transliteration: khayrun
   3:
@@ -20,7 +20,7 @@ word_by_word:
     translation: than
     transliteration: mina
   5:
-    arabic: الۡاُوۡلٰىؕ‏
+    arabic: ٱلۡأُولَىٰ
     translation: the first
     transliteration: l-ūlā
 ---

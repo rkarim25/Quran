@@ -1,7 +1,7 @@
 ---
-arabic_ayat: وَمَا مَنَعَهُمۡ اَنۡ تُقۡبَلَ مِنۡهُمۡ نَفَقٰتُهُمۡ اِلَّاۤ اَنَّهُمۡ
-  كَفَرُوۡا بِاللّٰهِ وَبِرَسُوۡلِهٖ وَلَا يَاۡتُوۡنَ الصَّلٰوةَ اِلَّا وَهُمۡ كُسَالٰى
-  وَلَا يُنۡفِقُوۡنَ اِلَّا وَهُمۡ كٰرِهُوۡنَ‏
+arabic_ayat: وَمَا مَنَعَهُمۡ أَن تُقۡبَلَ مِنۡهُمۡ نَفَقَٰتُهُمۡ إِلَّآ أَنَّهُمۡ
+  كَفَرُواْ بِٱللَّهِ وَبِرَسُولِهِۦ وَلَا يَأۡتُونَ ٱلصَّلَوٰةَ إِلَّا وَهُمۡ كُسَالَىٰ
+  وَلَا يُنفِقُونَ إِلَّا وَهُمۡ كَٰرِهُونَ
 sentence_translation: And what prevented their donations from being accepted is that
   they have lost faith in Allah and His Messenger, they never come to prayer except
   half-heartedly, and they never donate except resentfully.
@@ -15,7 +15,7 @@ word_by_word:
     translation: prevents them
     transliteration: manaʿahum
   3:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that
     transliteration: an
   4:
@@ -27,27 +27,27 @@ word_by_word:
     translation: from them
     transliteration: min'hum
   6:
-    arabic: نَفَقٰتُهُمۡ
+    arabic: نَفَقَٰتُهُمۡ
     translation: their contributions
     transliteration: nafaqātuhum
   7:
-    arabic: اِلَّاۤ
+    arabic: إِلَّآ
     translation: except
     transliteration: illā
   8:
-    arabic: اَنَّهُمۡ
+    arabic: أَنَّهُمۡ
     translation: that they
     transliteration: annahum
   9:
-    arabic: كَفَرُوۡا
+    arabic: كَفَرُواْ
     translation: disbelieve
     transliteration: kafarū
   10:
-    arabic: بِاللّٰهِ
+    arabic: بِٱللَّهِ
     translation: in Allah
     transliteration: bil-lahi
   11:
-    arabic: وَبِرَسُوۡلِهٖ
+    arabic: وَبِرَسُولِهِۦ
     translation: and in His Messenger
     transliteration: wabirasūlihi
   12:
@@ -55,15 +55,15 @@ word_by_word:
     translation: and not
     transliteration: walā
   13:
-    arabic: يَاۡتُوۡنَ
+    arabic: يَأۡتُونَ
     translation: they come
     transliteration: yatūna
   14:
-    arabic: الصَّلٰوةَ
+    arabic: ٱلصَّلَوٰةَ
     translation: (to) the prayer
     transliteration: l-ṣalata
   15:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   16:
@@ -71,7 +71,7 @@ word_by_word:
     translation: while they
     transliteration: wahum
   17:
-    arabic: كُسَالٰى
+    arabic: كُسَالَىٰ
     translation: (are) lazy
     transliteration: kusālā
   18:
@@ -79,11 +79,11 @@ word_by_word:
     translation: and not
     transliteration: walā
   19:
-    arabic: يُنۡفِقُوۡنَ
+    arabic: يُنفِقُونَ
     translation: they spend
     transliteration: yunfiqūna
   20:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   21:
@@ -91,7 +91,7 @@ word_by_word:
     translation: while they
     transliteration: wahum
   22:
-    arabic: كٰرِهُوۡنَ‏
+    arabic: كَٰرِهُونَ
     translation: (are) unwilling
     transliteration: kārihūna
 ---

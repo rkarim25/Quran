@@ -1,5 +1,5 @@
 ---
-arabic_ayat: ثُمَّ كَانَ عَلَقَةً فَخَلَقَ فَسَوّٰىۙ‏
+arabic_ayat: ثُمَّ كَانَ عَلَقَةٗ فَخَلَقَ فَسَوَّىٰ
 sentence_translation: Then they became a clinging clot ˹of blood˺, then He developed
   and perfected their form,
 word_by_word:
@@ -12,7 +12,7 @@ word_by_word:
     translation: he was
     transliteration: kāna
   3:
-    arabic: عَلَقَةً
+    arabic: عَلَقَةٗ
     translation: a clinging substance
     transliteration: ʿalaqatan
   4:
@@ -20,7 +20,7 @@ word_by_word:
     translation: then He created
     transliteration: fakhalaqa
   5:
-    arabic: فَسَوّٰىۙ‏
+    arabic: فَسَوَّىٰ
     translation: and proportioned
     transliteration: fasawwā
 ---

@@ -1,6 +1,5 @@
 ---
-arabic_ayat: "قَالَا رَبَّنَاۤ اِنَّـنَا نَخَافُ اَنۡ يَّفۡرُطَ عَلَيۡنَاۤ اَوۡ اَنۡ\
-  \ يَّطۡغٰى‏ \uFEFF\uFEFF"
+arabic_ayat: قَالَا رَبَّنَآ إِنَّنَا نَخَافُ أَن يَفۡرُطَ عَلَيۡنَآ أَوۡ أَن يَطۡغَىٰ
 sentence_translation: They both pleaded, “Our Lord! We fear that he may be quick to
   harm us or act tyrannically.”
 word_by_word:
@@ -9,11 +8,11 @@ word_by_word:
     translation: They said
     transliteration: qālā
   2:
-    arabic: رَبَّنَاۤ
+    arabic: رَبَّنَآ
     translation: Our Lord
     transliteration: rabbanā
   3:
-    arabic: اِنَّـنَا
+    arabic: إِنَّنَا
     translation: Indeed, we
     transliteration: innanā
   4:
@@ -21,27 +20,27 @@ word_by_word:
     translation: fear
     transliteration: nakhāfu
   5:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that
     transliteration: an
   6:
-    arabic: يَّفۡرُطَ
+    arabic: يَفۡرُطَ
     translation: he will hasten
     transliteration: yafruṭa
   7:
-    arabic: عَلَيۡنَاۤ
+    arabic: عَلَيۡنَآ
     translation: against us
     transliteration: ʿalaynā
   8:
-    arabic: اَوۡ
+    arabic: أَوۡ
     translation: or
     transliteration: aw
   9:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that
     transliteration: an
   10:
-    arabic: "يَّطۡغٰى‏ \uFEFF\uFEFF"
+    arabic: يَطۡغَىٰ
     translation: he will transgress
     transliteration: yaṭghā
 ---

@@ -1,13 +1,13 @@
 ---
-arabic_ayat: بِاَيۡدِىۡ سَفَرَةٍۙ‏
+arabic_ayat: بِأَيۡدِي سَفَرَةٖ
 sentence_translation: by the hands of angel-scribes,
 word_by_word:
   1:
-    arabic: بِاَيۡدِىۡ
+    arabic: بِأَيۡدِي
     translation: In (the) hands
     transliteration: bi-aydī
   2:
-    arabic: سَفَرَةٍۙ‏
+    arabic: سَفَرَةٖ
     translation: (of) scribes
     transliteration: safaratin
 ---

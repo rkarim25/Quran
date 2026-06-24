@@ -1,13 +1,13 @@
 ---
-arabic_ayat: اِنَّ رَبَّكَ يَعۡلَمُ اَنَّكَ تَقُوۡمُ اَدۡنىٰ مِنۡ ثُلُثَىِ الَّيۡلِ
-  وَ نِصۡفَهٗ وَثُلُثَهٗ وَطَآٮِٕفَةٌ مِّنَ الَّذِيۡنَ مَعَكَ​ؕ وَاللّٰهُ يُقَدِّرُ
-  الَّيۡلَ وَالنَّهَارَ​ؕ عَلِمَ اَنۡ لَّنۡ تُحۡصُوۡهُ فَتَابَ عَلَيۡكُمۡ​ فَاقۡرَءُوۡا
-  مَا تَيَسَّرَ مِنَ الۡقُرۡاٰنِ​ؕ عَلِمَ اَنۡ سَيَكُوۡنُ مِنۡكُمۡ مَّرۡضٰى​ۙ وَاٰخَرُوۡنَ
-  يَضۡرِبُوۡنَ فِى الۡاَرۡضِ يَبۡتَغُوۡنَ مِنۡ فَضۡلِ اللّٰهِ​ۙ وَاٰخَرُوۡنَ يُقَاتِلُوۡنَ
-  فِىۡ سَبِيۡلِ اللّٰهِ ۖ فَاقۡرَءُوۡا مَا تَيَسَّرَ مِنۡهُ​ ۙ وَاَقِيۡمُوا الصَّلٰوةَ
-  وَاٰتُوا الزَّكٰوةَ وَاَقۡرِضُوا اللّٰهَ قَرۡضًا حَسَنًا​ ؕ وَمَا تُقَدِّمُوۡا لِاَنۡفُسِكُمۡ
-  مِّنۡ خَيۡرٍ تَجِدُوۡهُ عِنۡدَ اللّٰهِ هُوَ خَيۡرًا وَّاَعۡظَمَ اَجۡرًا​ ؕ وَاسۡتَغۡفِرُوا
-  اللّٰهَ ​ؕ اِنَّ اللّٰهَ غَفُوۡرٌ رَّحِيۡمٌ‏
+arabic_ayat: ۞ إِنَّ رَبَّكَ يَعۡلَمُ أَنَّكَ تَقُومُ أَدۡنَىٰ مِن ثُلُثَيِ ٱلَّيۡلِ
+  وَنِصۡفَهُۥ وَثُلُثَهُۥ وَطَآئِفَةٞ مِّنَ ٱلَّذِينَ مَعَكَۚ وَٱللَّهُ يُقَدِّرُ
+  ٱلَّيۡلَ وَٱلنَّهَارَۚ عَلِمَ أَن لَّن تُحۡصُوهُ فَتَابَ عَلَيۡكُمۡۖ فَٱقۡرَءُواْ
+  مَا تَيَسَّرَ مِنَ ٱلۡقُرۡءَانِۚ عَلِمَ أَن سَيَكُونُ مِنكُم مَّرۡضَىٰ وَءَاخَرُونَ
+  يَضۡرِبُونَ فِي ٱلۡأَرۡضِ يَبۡتَغُونَ مِن فَضۡلِ ٱللَّهِ وَءَاخَرُونَ يُقَٰتِلُونَ
+  فِي سَبِيلِ ٱللَّهِۖ فَٱقۡرَءُواْ مَا تَيَسَّرَ مِنۡهُۚ وَأَقِيمُواْ ٱلصَّلَوٰةَ
+  وَءَاتُواْ ٱلزَّكَوٰةَ وَأَقۡرِضُواْ ٱللَّهَ قَرۡضًا حَسَنٗاۚ وَمَا تُقَدِّمُواْ
+  لِأَنفُسِكُم مِّنۡ خَيۡرٖ تَجِدُوهُ عِندَ ٱللَّهِ هُوَ خَيۡرٗا وَأَعۡظَمَ أَجۡرٗاۚ
+  وَٱسۡتَغۡفِرُواْ ٱللَّهَۖ إِنَّ ٱللَّهَ غَفُورٞ رَّحِيمُۢ
 sentence_translation: Surely your Lord knows that you ˹O Prophet˺ stand ˹in prayer˺
   for nearly two-thirds of the night, or ˹sometimes˺ half of it, or a third, as do
   some of those with you. Allah ˹alone˺ keeps a ˹precise˺ measure of the day and night.
@@ -21,7 +21,7 @@ sentence_translation: Surely your Lord knows that you ˹O Prophet˺ stand ˹in p
   is All-Forgiving, Most Merciful.
 word_by_word:
   1:
-    arabic: ۞ اِنَّ
+    arabic: ۞ إِنَّ
     translation: Indeed
     transliteration: inna
   2:
@@ -33,39 +33,39 @@ word_by_word:
     translation: knows
     transliteration: yaʿlamu
   4:
-    arabic: اَنَّكَ
+    arabic: أَنَّكَ
     translation: that you
     transliteration: annaka
   5:
-    arabic: تَقُوۡمُ
+    arabic: تَقُومُ
     translation: stand
     transliteration: taqūmu
   6:
-    arabic: اَدۡنىٰ
+    arabic: أَدۡنَىٰ
     translation: (a little) less
     transliteration: adnā
   7:
-    arabic: مِنۡ
+    arabic: مِن
     translation: than
     transliteration: min
   8:
-    arabic: ثُلُثَىِ
+    arabic: ثُلُثَيِ
     translation: two-thirds
     transliteration: thuluthayi
   9:
-    arabic: الَّيۡلِ
+    arabic: ٱلَّيۡلِ
     translation: (of) the night
     transliteration: al-layli
   10:
-    arabic: وَ نِصۡفَهٗ
+    arabic: وَنِصۡفَهُۥ
     translation: and half of it
     transliteration: waniṣ'fahu
   11:
-    arabic: وَثُلُثَهٗ
+    arabic: وَثُلُثَهُۥ
     translation: and a third of it
     transliteration: wathuluthahu
   12:
-    arabic: وَطَآٮِٕفَةٌ
+    arabic: وَطَآئِفَةٞ
     translation: and (so do) a group
     transliteration: waṭāifatun
   13:
@@ -73,15 +73,15 @@ word_by_word:
     translation: of
     transliteration: mina
   14:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   15:
-    arabic: مَعَكَ​ؕ
+    arabic: مَعَكَۚ
     translation: (are) with you
     transliteration: maʿaka
   16:
-    arabic: وَاللّٰهُ
+    arabic: وَٱللَّهُ
     translation: And Allah
     transliteration: wal-lahu
   17:
@@ -89,11 +89,11 @@ word_by_word:
     translation: determines
     transliteration: yuqaddiru
   18:
-    arabic: الَّيۡلَ
+    arabic: ٱلَّيۡلَ
     translation: the night
     transliteration: al-layla
   19:
-    arabic: وَالنَّهَارَ​ؕ
+    arabic: وَٱلنَّهَارَۚ
     translation: and the day
     transliteration: wal-nahāra
   20:
@@ -101,15 +101,15 @@ word_by_word:
     translation: He knows
     transliteration: ʿalima
   21:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that
     transliteration: an
   22:
-    arabic: لَّنۡ
+    arabic: لَّن
     translation: not
     transliteration: lan
   23:
-    arabic: تُحۡصُوۡهُ
+    arabic: تُحۡصُوهُ
     translation: you count it
     transliteration: tuḥ'ṣūhu
   24:
@@ -117,11 +117,11 @@ word_by_word:
     translation: so He has turned
     transliteration: fatāba
   25:
-    arabic: عَلَيۡكُمۡ​
+    arabic: عَلَيۡكُمۡۖ
     translation: to you
     transliteration: ʿalaykum
   26:
-    arabic: فَاقۡرَءُوۡا
+    arabic: فَٱقۡرَءُواْ
     translation: so recite
     transliteration: fa-iq'raū
   27:
@@ -137,7 +137,7 @@ word_by_word:
     translation: of
     transliteration: mina
   30:
-    arabic: الۡقُرۡاٰنِ​ؕ
+    arabic: ٱلۡقُرۡءَانِۚ
     translation: the Quran
     transliteration: l-qur'āni
   31:
@@ -145,43 +145,43 @@ word_by_word:
     translation: He knows
     transliteration: ʿalima
   32:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that
     transliteration: an
   33:
-    arabic: سَيَكُوۡنُ
+    arabic: سَيَكُونُ
     translation: there will be
     transliteration: sayakūnu
   34:
-    arabic: مِنۡكُمۡ
+    arabic: مِنكُم
     translation: among you
     transliteration: minkum
   35:
-    arabic: مَّرۡضٰى​ۙ
+    arabic: مَّرۡضَىٰ
     translation: sick
     transliteration: marḍā
   36:
-    arabic: وَاٰخَرُوۡنَ
+    arabic: وَءَاخَرُونَ
     translation: and others
     transliteration: waākharūna
   37:
-    arabic: يَضۡرِبُوۡنَ
+    arabic: يَضۡرِبُونَ
     translation: traveling
     transliteration: yaḍribūna
   38:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   39:
-    arabic: الۡاَرۡضِ
+    arabic: ٱلۡأَرۡضِ
     translation: the land
     transliteration: l-arḍi
   40:
-    arabic: يَبۡتَغُوۡنَ
+    arabic: يَبۡتَغُونَ
     translation: seeking
     transliteration: yabtaghūna
   41:
-    arabic: مِنۡ
+    arabic: مِن
     translation: of
     transliteration: min
   42:
@@ -189,31 +189,31 @@ word_by_word:
     translation: (the) Bounty
     transliteration: faḍli
   43:
-    arabic: اللّٰهِ​ۙ
+    arabic: ٱللَّهِ
     translation: (of) Allah
     transliteration: l-lahi
   44:
-    arabic: وَاٰخَرُوۡنَ
+    arabic: وَءَاخَرُونَ
     translation: and others
     transliteration: waākharūna
   45:
-    arabic: يُقَاتِلُوۡنَ
+    arabic: يُقَٰتِلُونَ
     translation: fighting
     transliteration: yuqātilūna
   46:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   47:
-    arabic: سَبِيۡلِ
+    arabic: سَبِيلِ
     translation: (the) way
     transliteration: sabīli
   48:
-    arabic: اللّٰهِ ۖ
+    arabic: ٱللَّهِۖ
     translation: (of) Allah
     transliteration: l-lahi
   49:
-    arabic: فَاقۡرَءُوۡا
+    arabic: فَٱقۡرَءُواْ
     translation: So recite
     transliteration: fa-iq'raū
   50:
@@ -225,31 +225,31 @@ word_by_word:
     translation: is easy
     transliteration: tayassara
   52:
-    arabic: مِنۡهُ​ ۙ
+    arabic: مِنۡهُۚ
     translation: of it
     transliteration: min'hu
   53:
-    arabic: وَاَقِيۡمُوا
+    arabic: وَأَقِيمُواْ
     translation: and establish
     transliteration: wa-aqīmū
   54:
-    arabic: الصَّلٰوةَ
+    arabic: ٱلصَّلَوٰةَ
     translation: the prayer
     transliteration: l-ṣalata
   55:
-    arabic: وَاٰتُوا
+    arabic: وَءَاتُواْ
     translation: and give
     transliteration: waātū
   56:
-    arabic: الزَّكٰوةَ
+    arabic: ٱلزَّكَوٰةَ
     translation: the zakah
     transliteration: l-zakata
   57:
-    arabic: وَاَقۡرِضُوا
+    arabic: وَأَقۡرِضُواْ
     translation: and loan
     transliteration: wa-aqriḍū
   58:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   59:
@@ -257,7 +257,7 @@ word_by_word:
     translation: a loan
     transliteration: qarḍan
   60:
-    arabic: حَسَنًا​ ؕ
+    arabic: حَسَنٗاۚ
     translation: goodly
     transliteration: ḥasanan
   61:
@@ -265,11 +265,11 @@ word_by_word:
     translation: And whatever
     transliteration: wamā
   62:
-    arabic: تُقَدِّمُوۡا
+    arabic: تُقَدِّمُواْ
     translation: you send forth
     transliteration: tuqaddimū
   63:
-    arabic: لِاَنۡفُسِكُمۡ
+    arabic: لِأَنفُسِكُم
     translation: for yourselves
     transliteration: li-anfusikum
   64:
@@ -277,19 +277,19 @@ word_by_word:
     translation: of
     transliteration: min
   65:
-    arabic: خَيۡرٍ
+    arabic: خَيۡرٖ
     translation: good
     transliteration: khayrin
   66:
-    arabic: تَجِدُوۡهُ
+    arabic: تَجِدُوهُ
     translation: you will find it
     transliteration: tajidūhu
   67:
-    arabic: عِنۡدَ
+    arabic: عِندَ
     translation: with
     transliteration: ʿinda
   68:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   69:
@@ -297,39 +297,39 @@ word_by_word:
     translation: It
     transliteration: huwa
   70:
-    arabic: خَيۡرًا
+    arabic: خَيۡرٗا
     translation: (will be) better
     transliteration: khayran
   71:
-    arabic: وَّاَعۡظَمَ
+    arabic: وَأَعۡظَمَ
     translation: and greater
     transliteration: wa-aʿẓama
   72:
-    arabic: اَجۡرًا​ ؕ
+    arabic: أَجۡرٗاۚ
     translation: (in) reward
     transliteration: ajran
   73:
-    arabic: وَاسۡتَغۡفِرُوا
+    arabic: وَٱسۡتَغۡفِرُواْ
     translation: And seek forgiveness
     transliteration: wa-is'taghfirū
   74:
-    arabic: اللّٰهَ ​ؕ
+    arabic: ٱللَّهَۖ
     translation: (of) Allah
     transliteration: l-laha
   75:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   76:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   77:
-    arabic: غَفُوۡرٌ
+    arabic: غَفُورٞ
     translation: (is) Oft-Forgiving
     transliteration: ghafūrun
   78:
-    arabic: رَّحِيۡمٌ‏
+    arabic: رَّحِيمُۢ
     translation: Most Merciful
     transliteration: raḥīmun
 ---

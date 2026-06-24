@@ -1,13 +1,13 @@
 ---
-arabic_ayat: فَسَنُيَسِّرُهٗ لِلۡعُسۡرٰىؕ‏
+arabic_ayat: فَسَنُيَسِّرُهُۥ لِلۡعُسۡرَىٰ
 sentence_translation: We will facilitate for them the path of hardship.
 word_by_word:
   1:
-    arabic: فَسَنُيَسِّرُهٗ
+    arabic: فَسَنُيَسِّرُهُۥ
     translation: Then We will ease him
     transliteration: fasanuyassiruhu
   2:
-    arabic: لِلۡعُسۡرٰىؕ‏
+    arabic: لِلۡعُسۡرَىٰ
     translation: towards [the] difficulty
     transliteration: lil'ʿus'rā
 ---

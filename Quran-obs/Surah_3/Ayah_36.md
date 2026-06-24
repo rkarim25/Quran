@@ -1,8 +1,7 @@
 ---
-arabic_ayat: "فَلَمَّا وَضَعَتۡهَا قَالَتۡ رَبِّ اِنِّىۡ وَضَعۡتُهَاۤ اُنۡثٰىؕ وَاللّٰهُ\
-  \ اَعۡلَمُ بِمَا وَضَعَتۡؕ وَ لَيۡسَ الذَّكَرُ كَالۡاُنۡثٰى​​ۚ وَاِنِّىۡ سَمَّيۡتُهَا\
-  \ مَرۡيَمَ وَاِنِّىۡۤ اُعِيۡذُهَا بِكَ وَذُرِّيَّتَهَا مِنَ الشَّيۡطٰنِ الرَّجِيۡمِ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: فَلَمَّا وَضَعَتۡهَا قَالَتۡ رَبِّ إِنِّي وَضَعۡتُهَآ أُنثَىٰ وَٱللَّهُ
+  أَعۡلَمُ بِمَا وَضَعَتۡ وَلَيۡسَ ٱلذَّكَرُ كَٱلۡأُنثَىٰۖ وَإِنِّي سَمَّيۡتُهَا مَرۡيَمَ
+  وَإِنِّيٓ أُعِيذُهَا بِكَ وَذُرِّيَّتَهَا مِنَ ٱلشَّيۡطَٰنِ ٱلرَّجِيمِ
 sentence_translation: When she delivered, she said, “My Lord! I have given birth to
   a girl,”—and Allah fully knew what she had delivered—“and the male is not like the
   female. I have named her Mary, and I seek Your protection for her and her offspring
@@ -25,23 +24,23 @@ word_by_word:
     translation: My Lord
     transliteration: rabbi
   5:
-    arabic: اِنِّىۡ
+    arabic: إِنِّي
     translation: indeed I
     transliteration: innī
   6:
-    arabic: وَضَعۡتُهَاۤ
+    arabic: وَضَعۡتُهَآ
     translation: '[I] (have) delivered [her]'
     transliteration: waḍaʿtuhā
   7:
-    arabic: اُنۡثٰىؕ
+    arabic: أُنثَىٰ
     translation: a female
     transliteration: unthā
   8:
-    arabic: وَاللّٰهُ
+    arabic: وَٱللَّهُ
     translation: And Allah
     transliteration: wal-lahu
   9:
-    arabic: اَعۡلَمُ
+    arabic: أَعۡلَمُ
     translation: knows better
     transliteration: aʿlamu
   10:
@@ -49,23 +48,23 @@ word_by_word:
     translation: '[of] what'
     transliteration: bimā
   11:
-    arabic: وَضَعَتۡؕ
+    arabic: وَضَعَتۡ
     translation: she delivered
     transliteration: waḍaʿat
   12:
-    arabic: وَ لَيۡسَ
+    arabic: وَلَيۡسَ
     translation: and is not
     transliteration: walaysa
   13:
-    arabic: الذَّكَرُ
+    arabic: ٱلذَّكَرُ
     translation: the male
     transliteration: l-dhakaru
   14:
-    arabic: كَالۡاُنۡثٰى​​ۚ
+    arabic: كَٱلۡأُنثَىٰۖ
     translation: like the female
     transliteration: kal-unthā
   15:
-    arabic: وَاِنِّىۡ
+    arabic: وَإِنِّي
     translation: And that I
     transliteration: wa-innī
   16:
@@ -77,11 +76,11 @@ word_by_word:
     translation: Maryam
     transliteration: maryama
   18:
-    arabic: وَاِنِّىۡۤ
+    arabic: وَإِنِّيٓ
     translation: and that I
     transliteration: wa-innī
   19:
-    arabic: اُعِيۡذُهَا
+    arabic: أُعِيذُهَا
     translation: '[I] seek refuge for her'
     transliteration: uʿīdhuhā
   20:
@@ -97,11 +96,11 @@ word_by_word:
     translation: from
     transliteration: mina
   23:
-    arabic: الشَّيۡطٰنِ
+    arabic: ٱلشَّيۡطَٰنِ
     translation: the Shaitaan
     transliteration: l-shayṭāni
   24:
-    arabic: "الرَّجِيۡمِ‏ \uFEFF\uFEFF"
+    arabic: ٱلرَّجِيمِ
     translation: the rejected
     transliteration: l-rajīmi
 ---

@@ -1,11 +1,11 @@
 ---
-arabic_ayat: وَقَالُوۡا لَوۡلَا يَاۡتِيۡنَا بِاٰيَةٍ مِّنۡ رَّبِّهٖ ​ؕ اَوَلَمۡ تَاۡتِہِمۡ
-  بَيِّنَةُ مَا فِى الصُّحُفِ الۡاُوۡلٰى‏
+arabic_ayat: وَقَالُواْ لَوۡلَا يَأۡتِينَا بِـَٔايَةٖ مِّن رَّبِّهِۦٓۚ أَوَلَمۡ تَأۡتِهِم
+  بَيِّنَةُ مَا فِي ٱلصُّحُفِ ٱلۡأُولَىٰ
 sentence_translation: They demand, “If only he could bring us a sign from his Lord!” Have
   they not ˹already˺ received a confirmation of what is in earlier Scriptures?
 word_by_word:
   1:
-    arabic: وَقَالُوۡا
+    arabic: وَقَالُواْ
     translation: And they say
     transliteration: waqālū
   2:
@@ -13,27 +13,27 @@ word_by_word:
     translation: Why not
     transliteration: lawlā
   3:
-    arabic: يَاۡتِيۡنَا
+    arabic: يَأۡتِينَا
     translation: he brings us
     transliteration: yatīnā
   4:
-    arabic: بِاٰيَةٍ
+    arabic: بِـَٔايَةٖ
     translation: a sign
     transliteration: biāyatin
   5:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: from
     transliteration: min
   6:
-    arabic: رَّبِّهٖ ​ؕ
+    arabic: رَّبِّهِۦٓۚ
     translation: his Lord
     transliteration: rabbihi
   7:
-    arabic: اَوَلَمۡ
+    arabic: أَوَلَمۡ
     translation: Has not
     transliteration: awalam
   8:
-    arabic: تَاۡتِہِمۡ
+    arabic: تَأۡتِهِم
     translation: come to them
     transliteration: tatihim
   9:
@@ -45,15 +45,15 @@ word_by_word:
     translation: (of) what
     transliteration: mā
   11:
-    arabic: فِى
+    arabic: فِي
     translation: (was) in
     transliteration: fī
   12:
-    arabic: الصُّحُفِ
+    arabic: ٱلصُّحُفِ
     translation: the Scriptures
     transliteration: l-ṣuḥufi
   13:
-    arabic: الۡاُوۡلٰى‏
+    arabic: ٱلۡأُولَىٰ
     translation: the former
     transliteration: l-ūlā
 ---

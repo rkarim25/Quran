@@ -1,13 +1,13 @@
 ---
-arabic_ayat: وَقَضٰى رَبُّكَ اَلَّا تَعۡبُدُوۡۤا اِلَّاۤ اِيَّاهُ وَبِالۡوَالِدَيۡنِ
-  اِحۡسَانًا​ ؕ اِمَّا يَـبۡلُغَنَّ عِنۡدَكَ الۡكِبَرَ اَحَدُهُمَاۤ اَوۡ كِلٰهُمَا
-  فَلَا تَقُلْ لَّهُمَاۤ اُفٍّ وَّلَا تَنۡهَرۡهُمَا وَقُلْ لَّهُمَا قَوۡلًا كَرِيۡمًا‏
+arabic_ayat: ۞ وَقَضَىٰ رَبُّكَ أَلَّا تَعۡبُدُوٓاْ إِلَّآ إِيَّاهُ وَبِٱلۡوَٰلِدَيۡنِ
+  إِحۡسَٰنًاۚ إِمَّا يَبۡلُغَنَّ عِندَكَ ٱلۡكِبَرَ أَحَدُهُمَآ أَوۡ كِلَاهُمَا فَلَا
+  تَقُل لَّهُمَآ أُفّٖ وَلَا تَنۡهَرۡهُمَا وَقُل لَّهُمَا قَوۡلٗا كَرِيمٗا
 sentence_translation: For your Lord has decreed that you worship none but Him. And
   honour your parents. If one or both of them reach old age in your care, never say
   to them ˹even˺ ‘ugh,’ nor yell at them. Rather, address them respectfully.
 word_by_word:
   1:
-    arabic: ۞ وَقَضٰى
+    arabic: ۞ وَقَضَىٰ
     translation: And has decreed
     transliteration: waqaḍā
   2:
@@ -15,55 +15,55 @@ word_by_word:
     translation: your Lord
     transliteration: rabbuka
   3:
-    arabic: اَلَّا
+    arabic: أَلَّا
     translation: that (do) not
     transliteration: allā
   4:
-    arabic: تَعۡبُدُوۡۤا
+    arabic: تَعۡبُدُوٓاْ
     translation: worship
     transliteration: taʿbudū
   5:
-    arabic: اِلَّاۤ
+    arabic: إِلَّآ
     translation: except
     transliteration: illā
   6:
-    arabic: اِيَّاهُ
+    arabic: إِيَّاهُ
     translation: Him Alone
     transliteration: iyyāhu
   7:
-    arabic: وَبِالۡوَالِدَيۡنِ
+    arabic: وَبِٱلۡوَٰلِدَيۡنِ
     translation: and to the parents
     transliteration: wabil-wālidayni
   8:
-    arabic: اِحۡسَانًا​ ؕ
+    arabic: إِحۡسَٰنًاۚ
     translation: (be) good
     transliteration: iḥ'sānan
   9:
-    arabic: اِمَّا
+    arabic: إِمَّا
     translation: Whether
     transliteration: immā
   10:
-    arabic: يَـبۡلُغَنَّ
+    arabic: يَبۡلُغَنَّ
     translation: reach
     transliteration: yablughanna
   11:
-    arabic: عِنۡدَكَ
+    arabic: عِندَكَ
     translation: with you
     transliteration: ʿindaka
   12:
-    arabic: الۡكِبَرَ
+    arabic: ٱلۡكِبَرَ
     translation: the old age
     transliteration: l-kibara
   13:
-    arabic: اَحَدُهُمَاۤ
+    arabic: أَحَدُهُمَآ
     translation: one of them
     transliteration: aḥaduhumā
   14:
-    arabic: اَوۡ
+    arabic: أَوۡ
     translation: or
     transliteration: aw
   15:
-    arabic: كِلٰهُمَا
+    arabic: كِلَاهُمَا
     translation: both of them
     transliteration: kilāhumā
   16:
@@ -71,19 +71,19 @@ word_by_word:
     translation: then (do) not
     transliteration: falā
   17:
-    arabic: تَقُلْ
+    arabic: تَقُل
     translation: say
     transliteration: taqul
   18:
-    arabic: لَّهُمَاۤ
+    arabic: لَّهُمَآ
     translation: to both of them
     transliteration: lahumā
   19:
-    arabic: اُفٍّ
+    arabic: أُفّٖ
     translation: a word of disrespect
     transliteration: uffin
   20:
-    arabic: وَّلَا
+    arabic: وَلَا
     translation: and (do) not
     transliteration: walā
   21:
@@ -91,7 +91,7 @@ word_by_word:
     translation: repel them
     transliteration: tanharhumā
   22:
-    arabic: وَقُلْ
+    arabic: وَقُل
     translation: but speak
     transliteration: waqul
   23:
@@ -99,11 +99,11 @@ word_by_word:
     translation: to them
     transliteration: lahumā
   24:
-    arabic: قَوۡلًا
+    arabic: قَوۡلٗا
     translation: a word
     transliteration: qawlan
   25:
-    arabic: كَرِيۡمًا‏
+    arabic: كَرِيمٗا
     translation: noble
     transliteration: karīman
 ---

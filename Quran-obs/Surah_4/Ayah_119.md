@@ -1,39 +1,38 @@
 ---
-arabic_ayat: وَّلَاُضِلَّـنَّهُمۡ وَلَاُمَنِّيَنَّهُمۡ وَلَاٰمُرَنَّهُمۡ فَلَيُبَـتِّكُنَّ
-  اٰذَانَ الۡاَنۡعَامِ وَلَاٰمُرَنَّهُمۡ فَلَيُغَيِّرُنَّ خَلۡقَ اللّٰهِ​ؕ وَمَنۡ
-  يَّتَّخِذِ الشَّيۡطٰنَ وَلِيًّا مِّنۡ دُوۡنِ اللّٰهِ فَقَدۡ خَسِرَ خُسۡرَانًا مُّبِيۡنًا
-  ؕ‏
+arabic_ayat: وَلَأُضِلَّنَّهُمۡ وَلَأُمَنِّيَنَّهُمۡ وَلَأٓمُرَنَّهُمۡ فَلَيُبَتِّكُنَّ
+  ءَاذَانَ ٱلۡأَنۡعَٰمِ وَلَأٓمُرَنَّهُمۡ فَلَيُغَيِّرُنَّ خَلۡقَ ٱللَّهِۚ وَمَن يَتَّخِذِ
+  ٱلشَّيۡطَٰنَ وَلِيّٗا مِّن دُونِ ٱللَّهِ فَقَدۡ خَسِرَ خُسۡرَانٗا مُّبِينٗا
 sentence_translation: I will certainly mislead them and delude them with empty hopes.
   Also, I will order them and they will slit the ears of cattle and alter Allah’s
   creation.” And whoever takes Satan as a guardian instead of Allah has certainly
   suffered a tremendous loss.
 word_by_word:
   1:
-    arabic: وَّلَاُضِلَّـنَّهُمۡ
+    arabic: وَلَأُضِلَّنَّهُمۡ
     translation: And I will surely mislead them
     transliteration: wala-uḍillannahum
   2:
-    arabic: وَلَاُمَنِّيَنَّهُمۡ
+    arabic: وَلَأُمَنِّيَنَّهُمۡ
     translation: and surely arouse desires in them
     transliteration: wala-umanniyannahum
   3:
-    arabic: وَلَاٰمُرَنَّهُمۡ
+    arabic: وَلَأٓمُرَنَّهُمۡ
     translation: and surely I will order them
     transliteration: walaāmurannahum
   4:
-    arabic: فَلَيُبَـتِّكُنَّ
+    arabic: فَلَيُبَتِّكُنَّ ءَ
     translation: so they will surely cut off
     transliteration: falayubattikunna
   5:
-    arabic: اٰذَانَ
+    arabic: اذَانَ
     translation: (the) ears
     transliteration: ādhāna
   6:
-    arabic: الۡاَنۡعَامِ
+    arabic: ٱلۡأَنۡعَٰمِ
     translation: (of) the cattle
     transliteration: l-anʿāmi
   7:
-    arabic: وَلَاٰمُرَنَّهُمۡ
+    arabic: وَلَأٓمُرَنَّهُمۡ
     translation: and surely I will order them
     transliteration: walaāmurannahum
   8:
@@ -45,35 +44,35 @@ word_by_word:
     translation: (the) creation
     transliteration: khalqa
   10:
-    arabic: اللّٰهِ​ؕ
+    arabic: ٱللَّهِۚ
     translation: (of) Allah
     transliteration: l-lahi
   11:
-    arabic: وَمَنۡ
+    arabic: وَمَن
     translation: And whoever
     transliteration: waman
   12:
-    arabic: يَّتَّخِذِ
+    arabic: يَتَّخِذِ
     translation: takes
     transliteration: yattakhidhi
   13:
-    arabic: الشَّيۡطٰنَ
+    arabic: ٱلشَّيۡطَٰنَ
     translation: the Shaitaan
     transliteration: l-shayṭāna
   14:
-    arabic: وَلِيًّا
+    arabic: وَلِيّٗا
     translation: (as) a friend
     transliteration: waliyyan
   15:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: from
     transliteration: min
   16:
-    arabic: دُوۡنِ
+    arabic: دُونِ
     translation: besides
     transliteration: dūni
   17:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   18:
@@ -85,11 +84,11 @@ word_by_word:
     translation: 'he (has) lost '
     transliteration: khasira
   20:
-    arabic: خُسۡرَانًا
+    arabic: خُسۡرَانٗا
     translation: a loss
     transliteration: khus'rānan
   21:
-    arabic: مُّبِيۡنًا ؕ‏
+    arabic: مُّبِينٗا
     translation: manifest
     transliteration: mubīnan
 ---

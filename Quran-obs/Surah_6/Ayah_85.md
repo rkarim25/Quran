@@ -1,6 +1,5 @@
 ---
-arabic_ayat: "وَزَكَرِيَّا وَيَحۡيٰى وَعِيۡسٰى وَاِلۡيَاسَ​ؕ كُلٌّ مِّنَ الصّٰلِحِيۡنَۙ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: وَزَكَرِيَّا وَيَحۡيَىٰ وَعِيسَىٰ وَإِلۡيَاسَۖ كُلّٞ مِّنَ ٱلصَّٰلِحِينَ
 sentence_translation: Likewise, ˹We guided˺ Zachariah, John, Jesus, and Elias, who
   were all of the righteous.
 word_by_word:
@@ -9,19 +8,19 @@ word_by_word:
     translation: And Zakariya
     transliteration: wazakariyyā
   2:
-    arabic: وَيَحۡيٰى
+    arabic: وَيَحۡيَىٰ
     translation: and Yahya
     transliteration: wayaḥyā
   3:
-    arabic: وَعِيۡسٰى
+    arabic: وَعِيسَىٰ
     translation: and Isa
     transliteration: waʿīsā
   4:
-    arabic: وَاِلۡيَاسَ​ؕ
+    arabic: وَإِلۡيَاسَۖ
     translation: 'and Elijah '
     transliteration: wa-il'yāsa
   5:
-    arabic: كُلٌّ
+    arabic: كُلّٞ
     translation: all (were)
     transliteration: kullun
   6:
@@ -29,7 +28,7 @@ word_by_word:
     translation: of
     transliteration: mina
   7:
-    arabic: "الصّٰلِحِيۡنَۙ‏ \uFEFF\uFEFF"
+    arabic: ٱلصَّٰلِحِينَ
     translation: the righteous
     transliteration: l-ṣāliḥīna
 ---

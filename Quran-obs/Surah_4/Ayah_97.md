@@ -1,51 +1,51 @@
 ---
-arabic_ayat: اِنَّ الَّذِيۡنَ تَوَفّٰٮهُمُ الۡمَلٰٓٮِٕكَةُ ظَالِمِىۡۤ اَنۡفُسِهِمۡ
-  قَالُوۡا فِيۡمَ كُنۡتُمۡ​ؕ قَالُوۡا كُنَّا مُسۡتَضۡعَفِيۡنَ فِىۡ الۡاَرۡضِ​ؕ قَالُوۡۤا
-  اَلَمۡ تَكُنۡ اَرۡضُ اللّٰهِ وَاسِعَةً فَتُهَاجِرُوۡا فِيۡهَا​ؕ فَاُولٰٓٮِٕكَ مَاۡوٰٮهُمۡ
-  جَهَـنَّمُ​ؕ وَسَآءَتۡ مَصِيۡرًا ۙ‏
+arabic_ayat: إِنَّ ٱلَّذِينَ تَوَفَّىٰهُمُ ٱلۡمَلَٰٓئِكَةُ ظَالِمِيٓ أَنفُسِهِمۡ قَالُواْ
+  فِيمَ كُنتُمۡۖ قَالُواْ كُنَّا مُسۡتَضۡعَفِينَ فِي ٱلۡأَرۡضِۚ قَالُوٓاْ أَلَمۡ تَكُنۡ
+  أَرۡضُ ٱللَّهِ وَٰسِعَةٗ فَتُهَاجِرُواْ فِيهَاۚ فَأُوْلَٰٓئِكَ مَأۡوَىٰهُمۡ جَهَنَّمُۖ
+  وَسَآءَتۡ مَصِيرًا
 sentence_translation: When the angels seize the souls of those who have wronged themselves—scolding
   them, “What do you think you were doing?” they will reply, “We were oppressed in
   the land.” The angels will respond, “Was Allah’s earth not spacious enough for you
   to emigrate?” It is they who will have Hell as their home—what an evil destination!
 word_by_word:
   1:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: 'those whom '
     transliteration: alladhīna
   3:
-    arabic: تَوَفّٰٮهُمُ
+    arabic: تَوَفَّىٰهُمُ
     translation: take them (in death)
     transliteration: tawaffāhumu
   4:
-    arabic: الۡمَلٰٓٮِٕكَةُ
+    arabic: ٱلۡمَلَٰٓئِكَةُ
     translation: the Angels
     transliteration: l-malāikatu
   5:
-    arabic: ظَالِمِىۡۤ
+    arabic: ظَالِمِيٓ
     translation: (while) they (were) wronging
     transliteration: ẓālimī
   6:
-    arabic: اَنۡفُسِهِمۡ
+    arabic: أَنفُسِهِمۡ
     translation: themselves
     transliteration: anfusihim
   7:
-    arabic: قَالُوۡا
+    arabic: قَالُواْ
     translation: they say
     transliteration: qālū
   8:
-    arabic: فِيۡمَ
+    arabic: فِيمَ
     translation: In what (condition)
     transliteration: fīma
   9:
-    arabic: كُنۡتُمۡ​ؕ
+    arabic: كُنتُمۡۖ
     translation: were you
     transliteration: kuntum
   10:
-    arabic: قَالُوۡا
+    arabic: قَالُواْ
     translation: They said
     transliteration: qālū
   11:
@@ -53,23 +53,23 @@ word_by_word:
     translation: We were
     transliteration: kunnā
   12:
-    arabic: مُسۡتَضۡعَفِيۡنَ
+    arabic: مُسۡتَضۡعَفِينَ
     translation: oppressed
     transliteration: mus'taḍʿafīna
   13:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   14:
-    arabic: الۡاَرۡضِ​ؕ
+    arabic: ٱلۡأَرۡضِۚ
     translation: the earth
     transliteration: l-arḍi
   15:
-    arabic: قَالُوۡۤا
+    arabic: قَالُوٓاْ
     translation: They said
     transliteration: qālū
   16:
-    arabic: اَلَمۡ
+    arabic: أَلَمۡ
     translation: Not
     transliteration: alam
   17:
@@ -77,35 +77,35 @@ word_by_word:
     translation: was
     transliteration: takun
   18:
-    arabic: اَرۡضُ
+    arabic: أَرۡضُ
     translation: (the) earth
     transliteration: arḍu
   19:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (of) Allah
     transliteration: l-lahi
   20:
-    arabic: وَاسِعَةً
+    arabic: وَٰسِعَةٗ
     translation: spacious (enough)
     transliteration: wāsiʿatan
   21:
-    arabic: فَتُهَاجِرُوۡا
+    arabic: فَتُهَاجِرُواْ
     translation: so that you (could) emigrate
     transliteration: fatuhājirū
   22:
-    arabic: فِيۡهَا​ؕ
+    arabic: فِيهَاۚ
     translation: in it
     transliteration: fīhā
   23:
-    arabic: فَاُولٰٓٮِٕكَ
+    arabic: فَأُوْلَٰٓئِكَ
     translation: Then those
     transliteration: fa-ulāika
   24:
-    arabic: مَاۡوٰٮهُمۡ
+    arabic: مَأۡوَىٰهُمۡ
     translation: (will have) their abode
     transliteration: mawāhum
   25:
-    arabic: جَهَـنَّمُ​ؕ
+    arabic: جَهَنَّمُۖ
     translation: '(in) Hell '
     transliteration: jahannamu
   26:
@@ -113,7 +113,7 @@ word_by_word:
     translation: and it is an evil
     transliteration: wasāat
   27:
-    arabic: مَصِيۡرًا ۙ‏
+    arabic: مَصِيرًا
     translation: destination
     transliteration: maṣīran
 ---

@@ -1,8 +1,7 @@
 ---
-arabic_ayat: زُيِّنَ لِلنَّاسِ حُبُّ الشَّهَوٰتِ مِنَ النِّسَآءِ وَالۡبَـنِيۡنَ وَالۡقَنَاطِيۡرِ
-  الۡمُقَنۡطَرَةِ مِنَ الذَّهَبِ وَالۡفِضَّةِ وَالۡخَـيۡلِ الۡمُسَوَّمَةِ وَالۡاَنۡعَامِ
-  وَالۡحَـرۡثِ​ؕ ذٰ لِكَ مَتَاعُ الۡحَيٰوةِ الدُّنۡيَا ​ۚ وَاللّٰهُ عِنۡدَهٗ حُسۡنُ
-  الۡمَاٰبِ‏
+arabic_ayat: زُيِّنَ لِلنَّاسِ حُبُّ ٱلشَّهَوَٰتِ مِنَ ٱلنِّسَآءِ وَٱلۡبَنِينَ وَٱلۡقَنَٰطِيرِ
+  ٱلۡمُقَنطَرَةِ مِنَ ٱلذَّهَبِ وَٱلۡفِضَّةِ وَٱلۡخَيۡلِ ٱلۡمُسَوَّمَةِ وَٱلۡأَنۡعَٰمِ
+  وَٱلۡحَرۡثِۗ ذَٰلِكَ مَتَٰعُ ٱلۡحَيَوٰةِ ٱلدُّنۡيَاۖ وَٱللَّهُ عِندَهُۥ حُسۡنُ ٱلۡمَـَٔابِ
 sentence_translation: The enjoyment of ˹worldly˺ desires—women, children, treasures
   of gold and silver, fine horses, cattle, and fertile land—has been made appealing
   to people. These are the pleasures of this worldly life, but with Allah is the finest
@@ -21,7 +20,7 @@ word_by_word:
     translation: (is) love
     transliteration: ḥubbu
   4:
-    arabic: الشَّهَوٰتِ
+    arabic: ٱلشَّهَوَٰتِ
     translation: '(of) the (things they) desire '
     transliteration: l-shahawāti
   5:
@@ -29,19 +28,19 @@ word_by_word:
     translation: of
     transliteration: mina
   6:
-    arabic: النِّسَآءِ
+    arabic: ٱلنِّسَآءِ
     translation: '[the] women'
     transliteration: l-nisāi
   7:
-    arabic: وَالۡبَـنِيۡنَ
+    arabic: وَٱلۡبَنِينَ
     translation: and [the] sons
     transliteration: wal-banīna
   8:
-    arabic: وَالۡقَنَاطِيۡرِ
+    arabic: وَٱلۡقَنَٰطِيرِ
     translation: and [the] heaps
     transliteration: wal-qanāṭīri
   9:
-    arabic: الۡمُقَنۡطَرَةِ
+    arabic: ٱلۡمُقَنطَرَةِ
     translation: '[the] stored up'
     transliteration: l-muqanṭarati
   10:
@@ -49,51 +48,51 @@ word_by_word:
     translation: of
     transliteration: mina
   11:
-    arabic: الذَّهَبِ
+    arabic: ٱلذَّهَبِ
     translation: '[the] gold'
     transliteration: l-dhahabi
   12:
-    arabic: وَالۡفِضَّةِ
+    arabic: وَٱلۡفِضَّةِ
     translation: and [the] silver
     transliteration: wal-fiḍati
   13:
-    arabic: وَالۡخَـيۡلِ
+    arabic: وَٱلۡخَيۡلِ
     translation: and [the] horses
     transliteration: wal-khayli
   14:
-    arabic: الۡمُسَوَّمَةِ
+    arabic: ٱلۡمُسَوَّمَةِ
     translation: '[the] branded'
     transliteration: l-musawamati
   15:
-    arabic: وَالۡاَنۡعَامِ
+    arabic: وَٱلۡأَنۡعَٰمِ
     translation: and [the] cattle
     transliteration: wal-anʿāmi
   16:
-    arabic: وَالۡحَـرۡثِ​ؕ
+    arabic: وَٱلۡحَرۡثِۗ
     translation: and [the] tilled land
     transliteration: wal-ḥarthi
   17:
-    arabic: ذٰ لِكَ
+    arabic: ذَٰلِكَ
     translation: That
     transliteration: dhālika
   18:
-    arabic: مَتَاعُ
+    arabic: مَتَٰعُ
     translation: (is) provision
     transliteration: matāʿu
   19:
-    arabic: الۡحَيٰوةِ
+    arabic: ٱلۡحَيَوٰةِ
     translation: (of) life
     transliteration: l-ḥayati
   20:
-    arabic: الدُّنۡيَا ​ۚ
+    arabic: ٱلدُّنۡيَاۖ
     translation: (of) the world
     transliteration: l-dun'yā
   21:
-    arabic: وَاللّٰهُ
+    arabic: وَٱللَّهُ
     translation: 'but Allah '
     transliteration: wal-lahu
   22:
-    arabic: عِنۡدَهٗ
+    arabic: عِندَهُۥ
     translation: with Him
     transliteration: ʿindahu
   23:
@@ -101,7 +100,7 @@ word_by_word:
     translation: (is an) excellent
     transliteration: ḥus'nu
   24:
-    arabic: الۡمَاٰبِ‏
+    arabic: ٱلۡمَـَٔابِ
     translation: '[the] abode to return'
     transliteration: l-maābi
 ---

@@ -1,7 +1,7 @@
 ---
-arabic_ayat: ضَرَبَ اللّٰهُ مَثَلًا رَّجُلًا فِيۡهِ شُرَكَآءُ مُتَشٰكِسُوۡنَ وَرَجُلًا
-  سَلَمًا لِّرَجُلٍ ؕ هَلۡ يَسۡتَوِيٰنِ مَثَلًا ​ؕ اَلۡحَمۡدُ لِلّٰهِ ​ ۚ بَلۡ اَكۡثَرُهُمۡ
-  لَا يَعۡلَمُوۡنَ‏
+arabic_ayat: ضَرَبَ ٱللَّهُ مَثَلٗا رَّجُلٗا فِيهِ شُرَكَآءُ مُتَشَٰكِسُونَ وَرَجُلٗا
+  سَلَمٗا لِّرَجُلٍ هَلۡ يَسۡتَوِيَانِ مَثَلًاۚ ٱلۡحَمۡدُ لِلَّهِۚ بَلۡ أَكۡثَرُهُمۡ
+  لَا يَعۡلَمُونَ
 sentence_translation: Allah sets forth the parable of a slave owned by several quarrelsome
   masters, and a slave owned by only one master. Are they equal in condition? Praise
   be to Allah! In fact, most of them do not know.
@@ -11,19 +11,19 @@ word_by_word:
     translation: Allah sets forth
     transliteration: ḍaraba
   2:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah sets forth
     transliteration: l-lahu
   3:
-    arabic: مَثَلًا
+    arabic: مَثَلٗا
     translation: 'an example '
     transliteration: mathalan
   4:
-    arabic: رَّجُلًا
+    arabic: رَّجُلٗا
     translation: a man
     transliteration: rajulan
   5:
-    arabic: فِيۡهِ
+    arabic: فِيهِ
     translation: about him
     transliteration: fīhi
   6:
@@ -31,19 +31,19 @@ word_by_word:
     translation: partners
     transliteration: shurakāu
   7:
-    arabic: مُتَشٰكِسُوۡنَ
+    arabic: مُتَشَٰكِسُونَ
     translation: quarreling
     transliteration: mutashākisūna
   8:
-    arabic: وَرَجُلًا
+    arabic: وَرَجُلٗا
     translation: and a man
     transliteration: warajulan
   9:
-    arabic: سَلَمًا
+    arabic: سَلَمٗا
     translation: (belonging) exclusively
     transliteration: salaman
   10:
-    arabic: لِّرَجُلٍ ؕ
+    arabic: لِّرَجُلٍ
     translation: 'to one man '
     transliteration: lirajulin
   11:
@@ -51,19 +51,19 @@ word_by_word:
     translation: are
     transliteration: hal
   12:
-    arabic: يَسۡتَوِيٰنِ
+    arabic: يَسۡتَوِيَانِ
     translation: they both equal
     transliteration: yastawiyāni
   13:
-    arabic: مَثَلًا ​ؕ
+    arabic: مَثَلًاۚ
     translation: (in) comparison
     transliteration: mathalan
   14:
-    arabic: اَلۡحَمۡدُ
+    arabic: ٱلۡحَمۡدُ
     translation: All praise
     transliteration: l-ḥamdu
   15:
-    arabic: لِلّٰهِ ​ ۚ
+    arabic: لِلَّهِۚ
     translation: (be) to Allah
     transliteration: lillahi
   16:
@@ -71,7 +71,7 @@ word_by_word:
     translation: Nay
     transliteration: bal
   17:
-    arabic: اَكۡثَرُهُمۡ
+    arabic: أَكۡثَرُهُمۡ
     translation: most of them
     transliteration: aktharuhum
   18:
@@ -79,7 +79,7 @@ word_by_word:
     translation: (do) not
     transliteration: lā
   19:
-    arabic: يَعۡلَمُوۡنَ‏
+    arabic: يَعۡلَمُونَ
     translation: know
     transliteration: yaʿlamūna
 ---

@@ -1,17 +1,17 @@
 ---
-arabic_ayat: وَاِنَّ لَڪَ لَاَجۡرًا غَيۡرَ مَمۡنُوۡنٍ​ۚ‏
+arabic_ayat: وَإِنَّ لَكَ لَأَجۡرًا غَيۡرَ مَمۡنُونٖ
 sentence_translation: You will certainly have a never-ending reward.
 word_by_word:
   1:
-    arabic: وَاِنَّ
+    arabic: وَإِنَّ
     translation: And indeed
     transliteration: wa-inna
   2:
-    arabic: لَڪَ
+    arabic: لَكَ
     translation: for you
     transliteration: laka
   3:
-    arabic: لَاَجۡرًا
+    arabic: لَأَجۡرًا
     translation: surely (is) a reward
     transliteration: la-ajran
   4:
@@ -19,7 +19,7 @@ word_by_word:
     translation: without
     transliteration: ghayra
   5:
-    arabic: مَمۡنُوۡنٍ​ۚ‏
+    arabic: مَمۡنُونٖ
     translation: end
     transliteration: mamnūnin
 ---

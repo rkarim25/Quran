@@ -1,16 +1,16 @@
 ---
-arabic_ayat: فَاصۡبِرۡ اِنَّ وَعۡدَ اللّٰهِ حَقٌّ وَّاسۡتَغۡفِرۡ لِذَنۡۢبِكَ وَسَبِّحۡ
-  بِحَمۡدِ رَبِّكَ بِالۡعَشِىِّ وَالۡاِبۡكَارِ‏
+arabic_ayat: فَٱصۡبِرۡ إِنَّ وَعۡدَ ٱللَّهِ حَقّٞ وَٱسۡتَغۡفِرۡ لِذَنۢبِكَ وَسَبِّحۡ
+  بِحَمۡدِ رَبِّكَ بِٱلۡعَشِيِّ وَٱلۡإِبۡكَٰرِ
 sentence_translation: So be patient ˹O Prophet˺, ˹for˺ Allah’s promise is certainly
   true. Seek forgiveness for your shortcomings. And glorify the praises of your Lord
   morning and evening.
 word_by_word:
   1:
-    arabic: فَاصۡبِرۡ
+    arabic: فَٱصۡبِرۡ
     translation: So be patient
     transliteration: fa-iṣ'bir
   2:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: indeed
     transliteration: inna
   3:
@@ -18,19 +18,19 @@ word_by_word:
     translation: (the) Promise of Allah
     transliteration: waʿda
   4:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (the) Promise of Allah
     transliteration: l-lahi
   5:
-    arabic: حَقٌّ
+    arabic: حَقّٞ
     translation: (is) true
     transliteration: ḥaqqun
   6:
-    arabic: وَّاسۡتَغۡفِرۡ
+    arabic: وَٱسۡتَغۡفِرۡ
     translation: And ask forgiveness
     transliteration: wa-is'taghfir
   7:
-    arabic: لِذَنۡۢبِكَ
+    arabic: لِذَنۢبِكَ
     translation: for your sin
     transliteration: lidhanbika
   8:
@@ -46,11 +46,11 @@ word_by_word:
     translation: (of) your Lord
     transliteration: rabbika
   11:
-    arabic: بِالۡعَشِىِّ
+    arabic: بِٱلۡعَشِيِّ
     translation: in the evening
     transliteration: bil-ʿashiyi
   12:
-    arabic: وَالۡاِبۡكَارِ‏
+    arabic: وَٱلۡإِبۡكَٰرِ
     translation: and the morning
     transliteration: wal-ib'kāri
 ---

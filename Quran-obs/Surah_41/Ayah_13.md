@@ -1,15 +1,15 @@
 ---
-arabic_ayat: فَاِنۡ اَعۡرَضُوۡا فَقُلۡ اَنۡذَرۡتُكُمۡ صٰعِقَةً مِّثۡلَ صٰعِقَةِ عَادٍ
-  وَّثَمُوۡدَ ؕ‏
+arabic_ayat: فَإِنۡ أَعۡرَضُواْ فَقُلۡ أَنذَرۡتُكُمۡ صَٰعِقَةٗ مِّثۡلَ صَٰعِقَةِ عَادٖ
+  وَثَمُودَ
 sentence_translation: If they turn away, then say, ˹O Prophet,˺ “I warn you of a ˹mighty˺
   blast, like the one that befell ’Ȃd and Thamûd.”
 word_by_word:
   1:
-    arabic: فَاِنۡ
+    arabic: فَإِنۡ
     translation: But if
     transliteration: fa-in
   2:
-    arabic: اَعۡرَضُوۡا
+    arabic: أَعۡرَضُواْ
     translation: they turn away
     transliteration: aʿraḍū
   3:
@@ -17,11 +17,11 @@ word_by_word:
     translation: then say
     transliteration: faqul
   4:
-    arabic: اَنۡذَرۡتُكُمۡ
+    arabic: أَنذَرۡتُكُمۡ
     translation: I have warned you
     transliteration: andhartukum
   5:
-    arabic: صٰعِقَةً
+    arabic: صَٰعِقَةٗ
     translation: (of) a thunderbolt
     transliteration: ṣāʿiqatan
   6:
@@ -29,15 +29,15 @@ word_by_word:
     translation: like
     transliteration: mith'la
   7:
-    arabic: صٰعِقَةِ
+    arabic: صَٰعِقَةِ
     translation: (the) thunderbolt
     transliteration: ṣāʿiqati
   8:
-    arabic: عَادٍ
+    arabic: عَادٖ
     translation: (of) Aad
     transliteration: ʿādin
   9:
-    arabic: وَّثَمُوۡدَ ؕ‏
+    arabic: وَثَمُودَ
     translation: and Thamud
     transliteration: wathamūda
 ---

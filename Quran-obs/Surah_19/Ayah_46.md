@@ -1,6 +1,6 @@
 ---
-arabic_ayat: قَالَ اَرَاغِبٌ اَنۡتَ عَنۡ اٰلِهَتِىۡ يٰۤاِبۡرٰهِيۡمُ​ۚ لَٮِٕنۡ لَّمۡ
-  تَنۡتَهِ لَاَرۡجُمَنَّكَ​ وَاهۡجُرۡنِىۡ مَلِيًّا‏
+arabic_ayat: قَالَ أَرَاغِبٌ أَنتَ عَنۡ ءَالِهَتِي يَٰٓإِبۡرَٰهِيمُۖ لَئِن لَّمۡ تَنتَهِ
+  لَأَرۡجُمَنَّكَۖ وَٱهۡجُرۡنِي مَلِيّٗا
 sentence_translation: He threatened, “How dare you reject my idols, O  Abraham! If
   you do not desist, I will certainly stone you ˹to death˺. So be gone from me for
   a long time!”
@@ -10,27 +10,27 @@ word_by_word:
     translation: He said
     transliteration: qāla
   2:
-    arabic: اَرَاغِبٌ
+    arabic: أَرَاغِبٌ
     translation: Do you hate
     transliteration: arāghibun
   3:
-    arabic: اَنۡتَ
+    arabic: أَنتَ
     translation: Do you hate
     transliteration: anta
   4:
-    arabic: عَنۡ
+    arabic: عَنۡ ءَ
     translation: (from)
     transliteration: ʿan
   5:
-    arabic: اٰلِهَتِىۡ
+    arabic: الِهَتِي
     translation: my gods
     transliteration: ālihatī
   6:
-    arabic: يٰۤاِبۡرٰهِيۡمُ​ۚ
+    arabic: يَٰٓإِبۡرَٰهِيمُۖ
     translation: O Ibrahim
     transliteration: yāib'rāhīmu
   7:
-    arabic: لَٮِٕنۡ
+    arabic: لَئِن
     translation: Surely, if
     transliteration: la-in
   8:
@@ -38,19 +38,19 @@ word_by_word:
     translation: not
     transliteration: lam
   9:
-    arabic: تَنۡتَهِ
+    arabic: تَنتَهِ
     translation: you desist
     transliteration: tantahi
   10:
-    arabic: لَاَرۡجُمَنَّكَ​
+    arabic: لَأَرۡجُمَنَّكَۖ
     translation: surely, I will stone you
     transliteration: la-arjumannaka
   11:
-    arabic: وَاهۡجُرۡنِىۡ
+    arabic: وَٱهۡجُرۡنِي
     translation: so leave me
     transliteration: wa-uh'jur'nī
   12:
-    arabic: مَلِيًّا‏
+    arabic: مَلِيّٗا
     translation: (for) a prolonged time
     transliteration: maliyyan
 ---

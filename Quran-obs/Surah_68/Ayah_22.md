@@ -1,18 +1,18 @@
 ---
-arabic_ayat: اَنِ اغۡدُوۡا عَلٰى حَرۡثِكُمۡ اِنۡ كُنۡتُمۡ صٰرِمِيۡنَ‏
+arabic_ayat: أَنِ ٱغۡدُواْ عَلَىٰ حَرۡثِكُمۡ إِن كُنتُمۡ صَٰرِمِينَ
 sentence_translation: ˹saying,˺ “Go early to your harvest, if you want to pick ˹all˺
   the fruit.”
 word_by_word:
   1:
-    arabic: اَنِ
+    arabic: أَنِ
     translation: That
     transliteration: ani
   2:
-    arabic: اغۡدُوۡا
+    arabic: ٱغۡدُواْ
     translation: Go early
     transliteration: igh'dū
   3:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: to
     transliteration: ʿalā
   4:
@@ -20,15 +20,15 @@ word_by_word:
     translation: your crop
     transliteration: ḥarthikum
   5:
-    arabic: اِنۡ
+    arabic: إِن
     translation: if
     transliteration: in
   6:
-    arabic: كُنۡتُمۡ
+    arabic: كُنتُمۡ
     translation: you would
     transliteration: kuntum
   7:
-    arabic: صٰرِمِيۡنَ‏
+    arabic: صَٰرِمِينَ
     translation: pluck (the) fruit
     transliteration: ṣārimīna
 ---

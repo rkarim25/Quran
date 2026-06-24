@@ -1,5 +1,5 @@
 ---
-arabic_ayat: فَلَمَّا جَآءَهُمۡ بِاٰيٰتِنَاۤ اِذَا هُمۡ مِّنۡهَا يَضۡحَكُوۡنَ‏
+arabic_ayat: فَلَمَّا جَآءَهُم بِـَٔايَٰتِنَآ إِذَا هُم مِّنۡهَا يَضۡحَكُونَ
 sentence_translation: But as soon as he came to them with Our signs, they laughed
   at them,
 word_by_word:
@@ -8,19 +8,19 @@ word_by_word:
     translation: But when
     transliteration: falammā
   2:
-    arabic: جَآءَهُمۡ
+    arabic: جَآءَهُم
     translation: he came to them
     transliteration: jāahum
   3:
-    arabic: بِاٰيٰتِنَاۤ
+    arabic: بِـَٔايَٰتِنَآ
     translation: with Our Signs
     transliteration: biāyātinā
   4:
-    arabic: اِذَا
+    arabic: إِذَا
     translation: behold
     transliteration: idhā
   5:
-    arabic: هُمۡ
+    arabic: هُم
     translation: They
     transliteration: hum
   6:
@@ -28,7 +28,7 @@ word_by_word:
     translation: at them
     transliteration: min'hā
   7:
-    arabic: يَضۡحَكُوۡنَ‏
+    arabic: يَضۡحَكُونَ
     translation: laughed
     transliteration: yaḍḥakūna
 ---

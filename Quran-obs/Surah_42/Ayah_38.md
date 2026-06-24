@@ -1,15 +1,15 @@
 ---
-arabic_ayat: وَالَّذِيۡنَ اسۡتَجَابُوا لِرَبِّهِمۡ وَاَقَامُوۡا الصَّلٰوةَ وَاَمۡرُهُمۡ
-  شُوۡرٰى بَيۡنَهُمۡ وَمِمَّا رَزَقۡنٰهُمۡ يُنۡفِقُوۡنَ​ۚ‏
+arabic_ayat: وَٱلَّذِينَ ٱسۡتَجَابُواْ لِرَبِّهِمۡ وَأَقَامُواْ ٱلصَّلَوٰةَ وَأَمۡرُهُمۡ
+  شُورَىٰ بَيۡنَهُمۡ وَمِمَّا رَزَقۡنَٰهُمۡ يُنفِقُونَ
 sentence_translation: who respond to their Lord, establish prayer, conduct their affairs
   by mutual consultation, and donate from what We have provided for them;
 word_by_word:
   1:
-    arabic: وَالَّذِيۡنَ
+    arabic: وَٱلَّذِينَ
     translation: And those who
     transliteration: wa-alladhīna
   2:
-    arabic: اسۡتَجَابُوا
+    arabic: ٱسۡتَجَابُواْ
     translation: respond
     transliteration: is'tajābū
   3:
@@ -17,23 +17,23 @@ word_by_word:
     translation: to their Lord
     transliteration: lirabbihim
   4:
-    arabic: وَاَقَامُوۡا
+    arabic: وَأَقَامُواْ
     translation: and establish
     transliteration: wa-aqāmū
   5:
-    arabic: الصَّلٰوةَ
+    arabic: ٱلصَّلَوٰةَ
     translation: prayer
     transliteration: l-ṣalata
   6:
-    arabic: وَاَمۡرُهُمۡ
+    arabic: وَأَمۡرُهُمۡ
     translation: and their affairs
     transliteration: wa-amruhum
   7:
-    arabic: شُوۡرٰى
+    arabic: شُورَىٰ
     translation: (are conducted by) consultation
     transliteration: shūrā
   8:
-    arabic: بَيۡنَهُمۡ
+    arabic: بَيۡنَهُمۡ
     translation: among them
     transliteration: baynahum
   9:
@@ -41,11 +41,11 @@ word_by_word:
     translation: and from what
     transliteration: wamimmā
   10:
-    arabic: رَزَقۡنٰهُمۡ
+    arabic: رَزَقۡنَٰهُمۡ
     translation: We have provided them
     transliteration: razaqnāhum
   11:
-    arabic: يُنۡفِقُوۡنَ​ۚ‏
+    arabic: يُنفِقُونَ
     translation: they spend
     transliteration: yunfiqūna
 ---

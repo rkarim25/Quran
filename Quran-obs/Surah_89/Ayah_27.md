@@ -1,17 +1,17 @@
 ---
-arabic_ayat: يٰۤاَيَّتُهَا النَّفۡسُ الۡمُطۡمَٮِٕنَّةُ  ۖ‏
+arabic_ayat: يَٰٓأَيَّتُهَا ٱلنَّفۡسُ ٱلۡمُطۡمَئِنَّةُ
 sentence_translation: ˹Allah will say to the righteous,˺ “O tranquil soul!
 word_by_word:
   1:
-    arabic: يٰۤاَيَّتُهَا
+    arabic: يَٰٓأَيَّتُهَا
     translation: O
     transliteration: yāayyatuhā
   2:
-    arabic: النَّفۡسُ
+    arabic: ٱلنَّفۡسُ
     translation: soul
     transliteration: l-nafsu
   3:
-    arabic: الۡمُطۡمَٮِٕنَّةُ  ۖ‏
+    arabic: ٱلۡمُطۡمَئِنَّةُ
     translation: who is satisfied
     transliteration: l-muṭ'ma-inatu
 ---

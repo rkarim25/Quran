@@ -1,47 +1,47 @@
 ---
-arabic_ayat: وَلِسُلَيۡمٰنَ الرِّيۡحَ عَاصِفَةً تَجۡرِىۡ بِاَمۡرِهٖۤ اِلَى الۡاَرۡضِ
-  الَّتِىۡ بٰرَكۡنَا فِيۡهَا​ؕ وَكُنَّا بِكُلِّ شَىۡءٍ عٰلِمِيۡنَ‏
+arabic_ayat: وَلِسُلَيۡمَٰنَ ٱلرِّيحَ عَاصِفَةٗ تَجۡرِي بِأَمۡرِهِۦٓ إِلَى ٱلۡأَرۡضِ
+  ٱلَّتِي بَٰرَكۡنَا فِيهَاۚ وَكُنَّا بِكُلِّ شَيۡءٍ عَٰلِمِينَ
 sentence_translation: And to Solomon We subjected the raging winds, blowing by his
   command to the land We had showered with blessings. It is We Who know everything.
 word_by_word:
   1:
-    arabic: وَلِسُلَيۡمٰنَ
+    arabic: وَلِسُلَيۡمَٰنَ
     translation: And to Sulaiman
     transliteration: walisulaymāna
   2:
-    arabic: الرِّيۡحَ
+    arabic: ٱلرِّيحَ
     translation: the wind
     transliteration: l-rīḥa
   3:
-    arabic: عَاصِفَةً
+    arabic: عَاصِفَةٗ
     translation: forcefully
     transliteration: ʿāṣifatan
   4:
-    arabic: تَجۡرِىۡ
+    arabic: تَجۡرِي
     translation: blowing
     transliteration: tajrī
   5:
-    arabic: بِاَمۡرِهٖۤ
+    arabic: بِأَمۡرِهِۦٓ
     translation: by his command
     transliteration: bi-amrihi
   6:
-    arabic: اِلَى
+    arabic: إِلَى
     translation: to
     transliteration: ilā
   7:
-    arabic: الۡاَرۡضِ
+    arabic: ٱلۡأَرۡضِ
     translation: the land
     transliteration: l-arḍi
   8:
-    arabic: الَّتِىۡ
+    arabic: ٱلَّتِي
     translation: which
     transliteration: allatī
   9:
-    arabic: بٰرَكۡنَا
+    arabic: بَٰرَكۡنَا
     translation: We blessed
     transliteration: bāraknā
   10:
-    arabic: فِيۡهَا​ؕ
+    arabic: فِيهَاۚ
     translation: '[in it]'
     transliteration: fīhā
   11:
@@ -53,11 +53,11 @@ word_by_word:
     translation: of every
     transliteration: bikulli
   13:
-    arabic: شَىۡءٍ
+    arabic: شَيۡءٍ
     translation: thing
     transliteration: shayin
   14:
-    arabic: عٰلِمِيۡنَ‏
+    arabic: عَٰلِمِينَ
     translation: Knowers
     transliteration: ʿālimīna
 ---

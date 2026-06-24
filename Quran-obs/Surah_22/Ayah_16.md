@@ -1,43 +1,43 @@
 ---
-arabic_ayat: وَكَذٰلِكَ اَنۡزَلۡنٰهُ اٰيٰتٍۢ بَيِّنٰتٍۙ وَّاَنَّ اللّٰهَ يَهۡدِىۡ
-  مَنۡ يُّرِيۡدُ‏
+arabic_ayat: وَكَذَٰلِكَ أَنزَلۡنَٰهُ ءَايَٰتِۭ بَيِّنَٰتٖ وَأَنَّ ٱللَّهَ يَهۡدِي
+  مَن يُرِيدُ
 sentence_translation: And so We revealed this ˹Quran˺ as clear verses. And Allah certainly
   guides whoever He wills.
 word_by_word:
   1:
-    arabic: وَكَذٰلِكَ
+    arabic: وَكَذَٰلِكَ
     translation: And thus
     transliteration: wakadhālika
   2:
-    arabic: اَنۡزَلۡنٰهُ
+    arabic: أَنزَلۡنَٰهُ ءَ
     translation: We sent it down
     transliteration: anzalnāhu
   3:
-    arabic: اٰيٰتٍۢ
+    arabic: ايَٰتِۭ
     translation: (as) clear Verses
     transliteration: āyātin
   4:
-    arabic: بَيِّنٰتٍۙ
+    arabic: بَيِّنَٰتٖ
     translation: (as) clear Verses
     transliteration: bayyinātin
   5:
-    arabic: وَّاَنَّ
+    arabic: وَأَنَّ
     translation: and that
     transliteration: wa-anna
   6:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   7:
-    arabic: يَهۡدِىۡ
+    arabic: يَهۡدِي
     translation: guides
     transliteration: yahdī
   8:
-    arabic: مَنۡ
+    arabic: مَن
     translation: whom
     transliteration: man
   9:
-    arabic: يُّرِيۡدُ‏
+    arabic: يُرِيدُ
     translation: He intends
     transliteration: yurīdu
 ---

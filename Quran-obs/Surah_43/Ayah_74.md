@@ -1,17 +1,17 @@
 ---
-arabic_ayat: اِنَّ الۡمُجۡرِمِيۡنَ فِىۡ عَذَابِ جَهَنَّمَ خٰلِدُوۡنَ ۚ ۖ‏
+arabic_ayat: إِنَّ ٱلۡمُجۡرِمِينَ فِي عَذَابِ جَهَنَّمَ خَٰلِدُونَ
 sentence_translation: Indeed, the wicked will be in the torment of Hell forever.
 word_by_word:
   1:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   2:
-    arabic: الۡمُجۡرِمِيۡنَ
+    arabic: ٱلۡمُجۡرِمِينَ
     translation: the criminals
     transliteration: l-muj'rimīna
   3:
-    arabic: فِىۡ
+    arabic: فِي
     translation: (will be) in
     transliteration: fī
   4:
@@ -23,7 +23,7 @@ word_by_word:
     translation: (of) Hell
     transliteration: jahannama
   6:
-    arabic: خٰلِدُوۡنَ ۚ ۖ‏
+    arabic: خَٰلِدُونَ
     translation: abiding forever
     transliteration: khālidūna
 ---

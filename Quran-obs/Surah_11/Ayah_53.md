@@ -1,15 +1,15 @@
 ---
-arabic_ayat: قَالُوۡا يٰهُوۡدُ مَا جِئۡتَـنَا بِبَيِّنَةٍ وَّمَا نَحۡنُ بِتٰـرِكِىۡۤ
-  اٰلِهَـتِنَا عَنۡ قَوۡلِكَ وَمَا نَحۡنُ لَـكَ بِمُؤۡمِنِيۡنَ‏
+arabic_ayat: قَالُواْ يَٰهُودُ مَا جِئۡتَنَا بِبَيِّنَةٖ وَمَا نَحۡنُ بِتَارِكِيٓ
+  ءَالِهَتِنَا عَن قَوۡلِكَ وَمَا نَحۡنُ لَكَ بِمُؤۡمِنِينَ
 sentence_translation: They argued, “O Hûd! You have not given us any clear proof,
   and we will never abandon our gods upon your word, nor will we believe in you.
 word_by_word:
   1:
-    arabic: قَالُوۡا
+    arabic: قَالُواْ
     translation: They said
     transliteration: qālū
   2:
-    arabic: يٰهُوۡدُ
+    arabic: يَٰهُودُ
     translation: O Hud
     transliteration: yāhūdu
   3:
@@ -17,15 +17,15 @@ word_by_word:
     translation: You have not brought us
     transliteration: mā
   4:
-    arabic: جِئۡتَـنَا
+    arabic: جِئۡتَنَا
     translation: You have not brought us
     transliteration: ji'tanā
   5:
-    arabic: بِبَيِّنَةٍ
+    arabic: بِبَيِّنَةٖ
     translation: clear proofs
     transliteration: bibayyinatin
   6:
-    arabic: وَّمَا
+    arabic: وَمَا
     translation: and not
     transliteration: wamā
   7:
@@ -33,15 +33,15 @@ word_by_word:
     translation: we
     transliteration: naḥnu
   8:
-    arabic: بِتٰـرِكِىۡۤ
+    arabic: بِتَارِكِيٓ ءَ
     translation: (will) leave
     transliteration: bitārikī
   9:
-    arabic: اٰلِهَـتِنَا
+    arabic: الِهَتِنَا
     translation: our gods
     transliteration: ālihatinā
   10:
-    arabic: عَنۡ
+    arabic: عَن
     translation: 'on'
     transliteration: ʿan
   11:
@@ -57,11 +57,11 @@ word_by_word:
     translation: we (are)
     transliteration: naḥnu
   14:
-    arabic: لَـكَ
+    arabic: لَكَ
     translation: in you
     transliteration: laka
   15:
-    arabic: بِمُؤۡمِنِيۡنَ‏
+    arabic: بِمُؤۡمِنِينَ
     translation: believers
     transliteration: bimu'minīna
 ---

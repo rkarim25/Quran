@@ -1,5 +1,5 @@
 ---
-arabic_ayat: كَمۡ تَرَكُوۡا مِنۡ جَنّٰتٍ وَّعُيُوۡنٍۙ‏
+arabic_ayat: كَمۡ تَرَكُواْ مِن جَنَّٰتٖ وَعُيُونٖ
 sentence_translation: ˹Imagine˺ how many gardens and springs the tyrants left behind,
 word_by_word:
   1:
@@ -7,19 +7,19 @@ word_by_word:
     translation: How many
     transliteration: kam
   2:
-    arabic: تَرَكُوۡا
+    arabic: تَرَكُواْ
     translation: (did) they leave
     transliteration: tarakū
   3:
-    arabic: مِنۡ
+    arabic: مِن
     translation: of
     transliteration: min
   4:
-    arabic: جَنّٰتٍ
+    arabic: جَنَّٰتٖ
     translation: gardens
     transliteration: jannātin
   5:
-    arabic: وَّعُيُوۡنٍۙ‏
+    arabic: وَعُيُونٖ
     translation: and springs
     transliteration: waʿuyūnin
 ---

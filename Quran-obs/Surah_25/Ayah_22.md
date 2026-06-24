@@ -1,6 +1,6 @@
 ---
-arabic_ayat: يَوۡمَ يَرَوۡنَ الۡمَلٰٓٮِٕكَةَ لَا بُشۡرٰى يَوۡمَٮِٕذٍ لِّـلۡمُجۡرِمِيۡنَ
-  وَ يَقُوۡلُوۡنَ حِجۡرًا مَّحۡجُوۡرًا‏
+arabic_ayat: يَوۡمَ يَرَوۡنَ ٱلۡمَلَٰٓئِكَةَ لَا بُشۡرَىٰ يَوۡمَئِذٖ لِّلۡمُجۡرِمِينَ
+  وَيَقُولُونَ حِجۡرٗا مَّحۡجُورٗا
 sentence_translation: ˹But˺ on the Day they will see the angels, there will be no
   good news for the wicked, who will cry, “Keep away! Away ˹from us˺!”
 word_by_word:
@@ -13,7 +13,7 @@ word_by_word:
     translation: they see
     transliteration: yarawna
   3:
-    arabic: الۡمَلٰٓٮِٕكَةَ
+    arabic: ٱلۡمَلَٰٓئِكَةَ
     translation: the Angels
     transliteration: l-malāikata
   4:
@@ -21,27 +21,27 @@ word_by_word:
     translation: 'no'
     transliteration: lā
   5:
-    arabic: بُشۡرٰى
+    arabic: بُشۡرَىٰ
     translation: glad tidings
     transliteration: bush'rā
   6:
-    arabic: يَوۡمَٮِٕذٍ
+    arabic: يَوۡمَئِذٖ
     translation: (will be) that Day
     transliteration: yawma-idhin
   7:
-    arabic: لِّـلۡمُجۡرِمِيۡنَ
+    arabic: لِّلۡمُجۡرِمِينَ
     translation: for the criminals
     transliteration: lil'muj'rimīna
   8:
-    arabic: وَ يَقُوۡلُوۡنَ
+    arabic: وَيَقُولُونَ
     translation: and they will say
     transliteration: wayaqūlūna
   9:
-    arabic: حِجۡرًا
+    arabic: حِجۡرٗا
     translation: A partition
     transliteration: ḥij'ran
   10:
-    arabic: مَّحۡجُوۡرًا‏
+    arabic: مَّحۡجُورٗا
     translation: forbidden
     transliteration: maḥjūran
 ---

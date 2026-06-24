@@ -1,7 +1,7 @@
 ---
-arabic_ayat: وَمِمَّنۡ حَوۡلَــكُمۡ مِّنَ الۡاَعۡرَابِ مُنٰفِقُوۡنَ​​ ۛؕ وَمِنۡ اَهۡلِ
-  الۡمَدِيۡنَةِ​ ​ ​ۛمَرَدُوۡا عَلَى النِّفَاقِلَا تَعۡلَمُهُمۡ ​ؕ نَحۡنُ نَـعۡلَمُهُمۡ​
-  ؕ سَنُعَذِّبُهُمۡ مَّرَّتَيۡنِ ثُمَّ يُرَدُّوۡنَ اِلٰى عَذَابٍ عَظِيۡمٍ​ ۚ‏
+arabic_ayat: وَمِمَّنۡ حَوۡلَكُم مِّنَ ٱلۡأَعۡرَابِ مُنَٰفِقُونَۖ وَمِنۡ أَهۡلِ ٱلۡمَدِينَةِ
+  مَرَدُواْ عَلَى ٱلنِّفَاقِ لَا تَعۡلَمُهُمۡۖ نَحۡنُ نَعۡلَمُهُمۡۚ سَنُعَذِّبُهُم
+  مَّرَّتَيۡنِ ثُمَّ يُرَدُّونَ إِلَىٰ عَذَابٍ عَظِيمٖ
 sentence_translation: Some of the nomads around you ˹believers˺ are hypocrites, as
   are some of the people of Medina. They have mastered hypocrisy. They are not known
   to you ˹O Prophet˺; they are known to Us. We will punish them twice ˹in this world˺, then
@@ -12,7 +12,7 @@ word_by_word:
     translation: And among those
     transliteration: wamimman
   2:
-    arabic: حَوۡلَــكُمۡ
+    arabic: حَوۡلَكُم
     translation: around you
     transliteration: ḥawlakum
   3:
@@ -20,11 +20,11 @@ word_by_word:
     translation: of
     transliteration: mina
   4:
-    arabic: الۡاَعۡرَابِ
+    arabic: ٱلۡأَعۡرَابِ
     translation: the bedouins
     transliteration: l-aʿrābi
   5:
-    arabic: مُنٰفِقُوۡنَ​​ ۛؕ
+    arabic: مُنَٰفِقُونَۖ
     translation: (are) hypocrites
     transliteration: munāfiqūna
   6:
@@ -32,15 +32,15 @@ word_by_word:
     translation: and (also) from
     transliteration: wamin
   7:
-    arabic: اَهۡلِ
+    arabic: أَهۡلِ
     translation: people
     transliteration: ahli
   8:
-    arabic: الۡمَدِيۡنَةِ​ ​ ​ۛ
+    arabic: ٱلۡمَدِينَةِ
     translation: (of) the Madinah
     transliteration: l-madīnati
   9:
-    arabic: مَرَدُوۡا
+    arabic: مَرَدُواْ
     translation: They persist
     transliteration: maradū
   10:
@@ -48,7 +48,7 @@ word_by_word:
     translation: in
     transliteration: ʿalā
   11:
-    arabic: النِّفَاقِ
+    arabic: ٱلنِّفَاقِ
     translation: the hypocrisy
     transliteration: l-nifāqi
   12:
@@ -56,7 +56,7 @@ word_by_word:
     translation: not
     transliteration: lā
   13:
-    arabic: تَعۡلَمُهُمۡ ​ؕ
+    arabic: تَعۡلَمُهُمۡۖ
     translation: you know them
     transliteration: taʿlamuhum
   14:
@@ -64,11 +64,11 @@ word_by_word:
     translation: We
     transliteration: naḥnu
   15:
-    arabic: نَـعۡلَمُهُمۡ​ ؕ
+    arabic: نَعۡلَمُهُمۡۚ
     translation: '[We] know them'
     transliteration: naʿlamuhum
   16:
-    arabic: سَنُعَذِّبُهُمۡ
+    arabic: سَنُعَذِّبُهُم
     translation: We will punish them
     transliteration: sanuʿadhibuhum
   17:
@@ -80,11 +80,11 @@ word_by_word:
     translation: then
     transliteration: thumma
   19:
-    arabic: يُرَدُّوۡنَ
+    arabic: يُرَدُّونَ
     translation: they will be returned
     transliteration: yuraddūna
   20:
-    arabic: اِلٰى
+    arabic: إِلَىٰ
     translation: to
     transliteration: ilā
   21:
@@ -92,7 +92,7 @@ word_by_word:
     translation: a punishment
     transliteration: ʿadhābin
   22:
-    arabic: عَظِيۡمٍ​ ۚ‏
+    arabic: عَظِيمٖ
     translation: great
     transliteration: ʿaẓīmin
 ---

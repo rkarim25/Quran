@@ -1,5 +1,5 @@
 ---
-arabic_ayat: عُرُبًا اَتۡرَابًاۙ‏
+arabic_ayat: عُرُبًا أَتۡرَابٗا
 sentence_translation: loving and of equal age,
 word_by_word:
   1:
@@ -7,7 +7,7 @@ word_by_word:
     translation: Devoted
     transliteration: ʿuruban
   2:
-    arabic: اَتۡرَابًاۙ‏
+    arabic: أَتۡرَابٗا
     translation: equals in age
     transliteration: atrāban
 ---

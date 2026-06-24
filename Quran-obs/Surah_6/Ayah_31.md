@@ -1,7 +1,7 @@
 ---
-arabic_ayat: قَدۡ خَسِرَ الَّذِيۡنَ كَذَّبُوۡا بِلِقَآءِ اللّٰهِ​ؕ حَتّٰٓى اِذَا
-  جَآءَتۡهُمُ السَّاعَةُ بَغۡتَةً قَالُوۡا يٰحَسۡرَتَنَا عَلٰى مَا فَرَّطۡنَا فِيۡهَا
-  ۙ وَهُمۡ يَحۡمِلُوۡنَ اَوۡزَارَهُمۡ عَلٰى ظُهُوۡرِهِمۡ​ؕ اَلَا سَآءَ مَا يَزِرُوۡنَ‏
+arabic_ayat: قَدۡ خَسِرَ ٱلَّذِينَ كَذَّبُواْ بِلِقَآءِ ٱللَّهِۖ حَتَّىٰٓ إِذَا جَآءَتۡهُمُ
+  ٱلسَّاعَةُ بَغۡتَةٗ قَالُواْ يَٰحَسۡرَتَنَا عَلَىٰ مَا فَرَّطۡنَا فِيهَا وَهُمۡ
+  يَحۡمِلُونَ أَوۡزَارَهُمۡ عَلَىٰ ظُهُورِهِمۡۚ أَلَا سَآءَ مَا يَزِرُونَ
 sentence_translation: Losers indeed are those who deny the meeting with Allah until
   the Hour takes them by surprise, then they will cry, “Woe to us for having ignored
   this!” They will bear ˹the burden of˺ their sins on their backs. Evil indeed is
@@ -16,11 +16,11 @@ word_by_word:
     translation: incurred loss
     transliteration: khasira
   3:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   4:
-    arabic: كَذَّبُوۡا
+    arabic: كَذَّبُواْ
     translation: denied
     transliteration: kadhabū
   5:
@@ -28,15 +28,15 @@ word_by_word:
     translation: in (the) meeting
     transliteration: biliqāi
   6:
-    arabic: اللّٰهِ​ؕ
+    arabic: ٱللَّهِۖ
     translation: (with) Allah
     transliteration: l-lahi
   7:
-    arabic: حَتّٰٓى
+    arabic: حَتَّىٰٓ
     translation: until
     transliteration: ḥattā
   8:
-    arabic: اِذَا
+    arabic: إِذَا
     translation: when
     transliteration: idhā
   9:
@@ -44,23 +44,23 @@ word_by_word:
     translation: came to them
     transliteration: jāathumu
   10:
-    arabic: السَّاعَةُ
+    arabic: ٱلسَّاعَةُ
     translation: the Hour
     transliteration: l-sāʿatu
   11:
-    arabic: بَغۡتَةً
+    arabic: بَغۡتَةٗ
     translation: suddenly
     transliteration: baghtatan
   12:
-    arabic: قَالُوۡا
+    arabic: قَالُواْ
     translation: they said
     transliteration: qālū
   13:
-    arabic: يٰحَسۡرَتَنَا
+    arabic: يَٰحَسۡرَتَنَا
     translation: Oh! Our regret
     transliteration: yāḥasratanā
   14:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: over
     transliteration: ʿalā
   15:
@@ -72,7 +72,7 @@ word_by_word:
     translation: we neglected
     transliteration: farraṭnā
   17:
-    arabic: فِيۡهَا ۙ
+    arabic: فِيهَا
     translation: concerning it
     transliteration: fīhā
   18:
@@ -80,23 +80,23 @@ word_by_word:
     translation: while they
     transliteration: wahum
   19:
-    arabic: يَحۡمِلُوۡنَ
+    arabic: يَحۡمِلُونَ
     translation: will bear
     transliteration: yaḥmilūna
   20:
-    arabic: اَوۡزَارَهُمۡ
+    arabic: أَوۡزَارَهُمۡ
     translation: their burdens
     transliteration: awzārahum
   21:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: 'on'
     transliteration: ʿalā
   22:
-    arabic: ظُهُوۡرِهِمۡ​ؕ
+    arabic: ظُهُورِهِمۡۚ
     translation: their backs
     transliteration: ẓuhūrihim
   23:
-    arabic: اَلَا
+    arabic: أَلَا
     translation: Unquestionably
     transliteration: alā
   24:
@@ -108,7 +108,7 @@ word_by_word:
     translation: (is) what
     transliteration: mā
   26:
-    arabic: يَزِرُوۡنَ‏
+    arabic: يَزِرُونَ
     translation: they bear
     transliteration: yazirūna
 ---

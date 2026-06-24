@@ -1,11 +1,10 @@
 ---
-arabic_ayat: "فَاَسۡقِطۡ عَلَيۡنَا كِسَفًا مِّنَ السَّمَآءِ اِنۡ كُنۡتَ مِنَ الصّٰدِقِيۡنَؕ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: فَأَسۡقِطۡ عَلَيۡنَا كِسَفٗا مِّنَ ٱلسَّمَآءِ إِن كُنتَ مِنَ ٱلصَّٰدِقِينَ
 sentence_translation: So cause ˹deadly˺ pieces of the sky to fall upon us, if what
   you say is true.”
 word_by_word:
   1:
-    arabic: فَاَسۡقِطۡ
+    arabic: فَأَسۡقِطۡ
     translation: Then cause to fall
     transliteration: fa-asqiṭ
   2:
@@ -13,7 +12,7 @@ word_by_word:
     translation: upon us
     transliteration: ʿalaynā
   3:
-    arabic: كِسَفًا
+    arabic: كِسَفٗا
     translation: fragments
     transliteration: kisafan
   4:
@@ -21,15 +20,15 @@ word_by_word:
     translation: of
     transliteration: mina
   5:
-    arabic: السَّمَآءِ
+    arabic: ٱلسَّمَآءِ
     translation: the sky
     transliteration: l-samāi
   6:
-    arabic: اِنۡ
+    arabic: إِن
     translation: if
     transliteration: in
   7:
-    arabic: كُنۡتَ
+    arabic: كُنتَ
     translation: you are
     transliteration: kunta
   8:
@@ -37,7 +36,7 @@ word_by_word:
     translation: of
     transliteration: mina
   9:
-    arabic: "الصّٰدِقِيۡنَؕ‏ \uFEFF\uFEFF"
+    arabic: ٱلصَّٰدِقِينَ
     translation: the truthful
     transliteration: l-ṣādiqīna
 ---

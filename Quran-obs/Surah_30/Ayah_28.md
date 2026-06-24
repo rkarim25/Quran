@@ -1,8 +1,7 @@
 ---
-arabic_ayat: ضَرَبَ لَكُمۡ مَّثَلًا مِّنۡ اَنۡفُسِكُمۡ​ؕ هَلْ لَّكُمۡ مِّنۡ مَّا مَلَـكَتۡ
-  اَيۡمَانُكُمۡ مِّنۡ شُرَكَآءَ فِىۡ مَا رَزَقۡنٰكُمۡ فَاَنۡتُمۡ فِيۡهِ سَوَآءٌ
-  تَخَافُوۡنَهُمۡ كَخِيۡفَتِكُمۡ اَنۡفُسَكُمۡ​ؕ كَذٰلِكَ نُفَصِّلُ الۡاٰيٰتِ لِقَوۡمٍ
-  يَّعۡقِلُوۡنَ‏
+arabic_ayat: ضَرَبَ لَكُم مَّثَلٗا مِّنۡ أَنفُسِكُمۡۖ هَل لَّكُم مِّن مَّا مَلَكَتۡ
+  أَيۡمَٰنُكُم مِّن شُرَكَآءَ فِي مَا رَزَقۡنَٰكُمۡ فَأَنتُمۡ فِيهِ سَوَآءٞ تَخَافُونَهُمۡ
+  كَخِيفَتِكُمۡ أَنفُسَكُمۡۚ كَذَٰلِكَ نُفَصِّلُ ٱلۡأٓيَٰتِ لِقَوۡمٖ يَعۡقِلُونَ
 sentence_translation: 'He sets forth for you an example ˹drawn˺ from your own lives:
   would you allow some of those ˹bondspeople˺ in your possession to be your equal
   partners in whatever ˹wealth˺ We have provided you, keeping them in mind as you
@@ -13,11 +12,11 @@ word_by_word:
     translation: He sets forth
     transliteration: ḍaraba
   2:
-    arabic: لَكُمۡ
+    arabic: لَكُم
     translation: to you
     transliteration: lakum
   3:
-    arabic: مَّثَلًا
+    arabic: مَّثَلٗا
     translation: an example
     transliteration: mathalan
   4:
@@ -25,19 +24,19 @@ word_by_word:
     translation: from
     transliteration: min
   5:
-    arabic: اَنۡفُسِكُمۡ​ؕ
+    arabic: أَنفُسِكُمۡۖ
     translation: yourselves
     transliteration: anfusikum
   6:
-    arabic: هَلْ
+    arabic: هَل
     translation: Is
     transliteration: hal
   7:
-    arabic: لَّكُمۡ
+    arabic: لَّكُم
     translation: for you
     transliteration: lakum
   8:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: among
     transliteration: min
   9:
@@ -45,15 +44,15 @@ word_by_word:
     translation: what
     transliteration: mā
   10:
-    arabic: مَلَـكَتۡ
+    arabic: مَلَكَتۡ
     translation: possess
     transliteration: malakat
   11:
-    arabic: اَيۡمَانُكُمۡ
+    arabic: أَيۡمَٰنُكُم
     translation: your right hands
     transliteration: aymānukum
   12:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: any
     transliteration: min
   13:
@@ -61,7 +60,7 @@ word_by_word:
     translation: partners
     transliteration: shurakāa
   14:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   15:
@@ -69,35 +68,35 @@ word_by_word:
     translation: what
     transliteration: mā
   16:
-    arabic: رَزَقۡنٰكُمۡ
+    arabic: رَزَقۡنَٰكُمۡ
     translation: We have provided you
     transliteration: razaqnākum
   17:
-    arabic: فَاَنۡتُمۡ
+    arabic: فَأَنتُمۡ
     translation: so you
     transliteration: fa-antum
   18:
-    arabic: فِيۡهِ
+    arabic: فِيهِ
     translation: in it
     transliteration: fīhi
   19:
-    arabic: سَوَآءٌ
+    arabic: سَوَآءٞ
     translation: (are) equal
     transliteration: sawāon
   20:
-    arabic: تَخَافُوۡنَهُمۡ
+    arabic: تَخَافُونَهُمۡ
     translation: you fear them
     transliteration: takhāfūnahum
   21:
-    arabic: كَخِيۡفَتِكُمۡ
+    arabic: كَخِيفَتِكُمۡ
     translation: as you fear
     transliteration: kakhīfatikum
   22:
-    arabic: اَنۡفُسَكُمۡ​ؕ
+    arabic: أَنفُسَكُمۡۚ
     translation: yourselves
     transliteration: anfusakum
   23:
-    arabic: كَذٰلِكَ
+    arabic: كَذَٰلِكَ
     translation: Thus
     transliteration: kadhālika
   24:
@@ -105,15 +104,15 @@ word_by_word:
     translation: We explain
     transliteration: nufaṣṣilu
   25:
-    arabic: الۡاٰيٰتِ
+    arabic: ٱلۡأٓيَٰتِ
     translation: the Verses
     transliteration: l-āyāti
   26:
-    arabic: لِقَوۡمٍ
+    arabic: لِقَوۡمٖ
     translation: for a people
     transliteration: liqawmin
   27:
-    arabic: يَّعۡقِلُوۡنَ‏
+    arabic: يَعۡقِلُونَ
     translation: (who) use reason
     transliteration: yaʿqilūna
 ---

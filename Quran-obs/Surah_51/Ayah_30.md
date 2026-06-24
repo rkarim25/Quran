@@ -1,15 +1,14 @@
 ---
-arabic_ayat: "قَالُوۡا كَذٰلِكِ ۙ قَالَ رَبُّكِ​ؕ اِنَّهٗ هُوَ الۡحَكِيۡمُ الۡعَلِيۡمُ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: قَالُواْ كَذَٰلِكِ قَالَ رَبُّكِۖ إِنَّهُۥ هُوَ ٱلۡحَكِيمُ ٱلۡعَلِيمُ
 sentence_translation: They replied, “Such has your Lord decreed. He is truly the All-Wise,
   All-Knowing.”
 word_by_word:
   1:
-    arabic: قَالُوۡا
+    arabic: قَالُواْ
     translation: They said
     transliteration: qālū
   2:
-    arabic: كَذٰلِكِ ۙ
+    arabic: كَذَٰلِكِ
     translation: Thus
     transliteration: kadhāliki
   3:
@@ -17,11 +16,11 @@ word_by_word:
     translation: said
     transliteration: qāla
   4:
-    arabic: رَبُّكِ​ؕ
+    arabic: رَبُّكِۖ
     translation: your Lord
     transliteration: rabbuki
   5:
-    arabic: اِنَّهٗ
+    arabic: إِنَّهُۥ
     translation: Indeed, He
     transliteration: innahu
   6:
@@ -29,11 +28,11 @@ word_by_word:
     translation: '[He]'
     transliteration: huwa
   7:
-    arabic: الۡحَكِيۡمُ
+    arabic: ٱلۡحَكِيمُ
     translation: (is) the All-Wise
     transliteration: l-ḥakīmu
   8:
-    arabic: "الۡعَلِيۡمُ‏ \uFEFF\uFEFF"
+    arabic: ٱلۡعَلِيمُ
     translation: the All-Knower
     transliteration: l-ʿalīmu
 ---

@@ -1,12 +1,12 @@
 ---
-arabic_ayat: يٰۤـاَيُّهَا النَّاسُ اِنۡ كُنۡـتُمۡ فِىۡ رَيۡبٍ مِّنَ الۡبَـعۡثِ فَاِنَّـا
-  خَلَقۡنٰكُمۡ مِّنۡ تُرَابٍ ثُمَّ مِنۡ نُّـطۡفَةٍ ثُمَّ مِنۡ عَلَقَةٍ ثُمَّ مِنۡ
-  مُّضۡغَةٍ مُّخَلَّقَةٍ وَّغَيۡرِ مُخَلَّقَةٍ لِّـنُبَيِّنَ لَـكُمۡ​ ؕ وَنُقِرُّ
-  فِى الۡاَرۡحَامِ مَا نَشَآءُ اِلٰٓى اَجَلٍ مُّسَمًّى ثُمَّ نُخۡرِجُكُمۡ طِفۡلًا
-  ثُمَّ لِتَبۡلُغُوۡۤا اَشُدَّكُمۡ ​ۚ وَمِنۡكُمۡ مَّنۡ يُّتَوَفّٰى وَمِنۡكُمۡ مَّنۡ
-  يُّرَدُّ اِلٰٓى اَرۡذَلِ الۡعُمُرِ لِكَيۡلَا يَعۡلَمَ مِنۡۢ بَعۡدِ عِلۡمٍ شَيۡــًٔـا​
-  ؕ وَتَرَى الۡاَرۡضَ هَامِدَةً فَاِذَاۤ اَنۡزَلۡنَا عَلَيۡهَا الۡمَآءَ اهۡتَزَّتۡ
-  وَرَبَتۡ وَاَنۡۢبَـتَتۡ مِنۡ كُلِّ زَوۡجٍۢ بَهِيۡجٍ‏
+arabic_ayat: يَٰٓأَيُّهَا ٱلنَّاسُ إِن كُنتُمۡ فِي رَيۡبٖ مِّنَ ٱلۡبَعۡثِ فَإِنَّا
+  خَلَقۡنَٰكُم مِّن تُرَابٖ ثُمَّ مِن نُّطۡفَةٖ ثُمَّ مِنۡ عَلَقَةٖ ثُمَّ مِن مُّضۡغَةٖ
+  مُّخَلَّقَةٖ وَغَيۡرِ مُخَلَّقَةٖ لِّنُبَيِّنَ لَكُمۡۚ وَنُقِرُّ فِي ٱلۡأَرۡحَامِ
+  مَا نَشَآءُ إِلَىٰٓ أَجَلٖ مُّسَمّٗى ثُمَّ نُخۡرِجُكُمۡ طِفۡلٗا ثُمَّ لِتَبۡلُغُوٓاْ
+  أَشُدَّكُمۡۖ وَمِنكُم مَّن يُتَوَفَّىٰ وَمِنكُم مَّن يُرَدُّ إِلَىٰٓ أَرۡذَلِ ٱلۡعُمُرِ
+  لِكَيۡلَا يَعۡلَمَ مِنۢ بَعۡدِ عِلۡمٖ شَيۡـٔٗاۚ وَتَرَى ٱلۡأَرۡضَ هَامِدَةٗ فَإِذَآ
+  أَنزَلۡنَا عَلَيۡهَا ٱلۡمَآءَ ٱهۡتَزَّتۡ وَرَبَتۡ وَأَنۢبَتَتۡ مِن كُلِّ زَوۡجِۭ
+  بَهِيجٖ
 sentence_translation: O humanity! If you are in doubt about the Resurrection, then
   ˹know that˺ We did create you from dust, then from a sperm-drop, then ˹developed
   you into˺ a clinging clot ˹of blood˺, then a lump of flesh—fully formed or unformed—in
@@ -18,27 +18,27 @@ sentence_translation: O humanity! If you are in doubt about the Resurrection, th
   to stir ˹to life˺ and swell, producing every type of pleasant plant.
 word_by_word:
   1:
-    arabic: يٰۤـاَيُّهَا
+    arabic: يَٰٓأَيُّهَا
     translation: O mankind
     transliteration: yāayyuhā
   2:
-    arabic: النَّاسُ
+    arabic: ٱلنَّاسُ
     translation: O mankind
     transliteration: l-nāsu
   3:
-    arabic: اِنۡ
+    arabic: إِن
     translation: If
     transliteration: in
   4:
-    arabic: كُنۡـتُمۡ
+    arabic: كُنتُمۡ
     translation: you are
     transliteration: kuntum
   5:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   6:
-    arabic: رَيۡبٍ
+    arabic: رَيۡبٖ
     translation: doubt
     transliteration: raybin
   7:
@@ -46,23 +46,23 @@ word_by_word:
     translation: about
     transliteration: mina
   8:
-    arabic: الۡبَـعۡثِ
+    arabic: ٱلۡبَعۡثِ
     translation: the Resurrection
     transliteration: l-baʿthi
   9:
-    arabic: فَاِنَّـا
+    arabic: فَإِنَّا
     translation: then indeed, We
     transliteration: fa-innā
   10:
-    arabic: خَلَقۡنٰكُمۡ
+    arabic: خَلَقۡنَٰكُم
     translation: We created you
     transliteration: khalaqnākum
   11:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: from
     transliteration: min
   12:
-    arabic: تُرَابٍ
+    arabic: تُرَابٖ
     translation: dust
     transliteration: turābin
   13:
@@ -70,11 +70,11 @@ word_by_word:
     translation: then
     transliteration: thumma
   14:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   15:
-    arabic: نُّـطۡفَةٍ
+    arabic: نُّطۡفَةٖ
     translation: a semen-drop
     transliteration: nuṭ'fatin
   16:
@@ -86,7 +86,7 @@ word_by_word:
     translation: from
     transliteration: min
   18:
-    arabic: عَلَقَةٍ
+    arabic: عَلَقَةٖ
     translation: a clinging substance
     transliteration: ʿalaqatin
   19:
@@ -94,31 +94,31 @@ word_by_word:
     translation: then
     transliteration: thumma
   20:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   21:
-    arabic: مُّضۡغَةٍ
+    arabic: مُّضۡغَةٖ
     translation: an embryonic lump
     transliteration: muḍ'ghatin
   22:
-    arabic: مُّخَلَّقَةٍ
+    arabic: مُّخَلَّقَةٖ
     translation: formed
     transliteration: mukhallaqatin
   23:
-    arabic: وَّغَيۡرِ
+    arabic: وَغَيۡرِ
     translation: and unformed
     transliteration: waghayri
   24:
-    arabic: مُخَلَّقَةٍ
+    arabic: مُخَلَّقَةٖ
     translation: and unformed
     transliteration: mukhallaqatin
   25:
-    arabic: لِّـنُبَيِّنَ
+    arabic: لِّنُبَيِّنَ
     translation: that We may make clear
     transliteration: linubayyina
   26:
-    arabic: لَـكُمۡ​ ؕ
+    arabic: لَكُمۡۚ
     translation: to you
     transliteration: lakum
   27:
@@ -126,11 +126,11 @@ word_by_word:
     translation: And We cause to remain
     transliteration: wanuqirru
   28:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   29:
-    arabic: الۡاَرۡحَامِ
+    arabic: ٱلۡأَرۡحَامِ
     translation: the wombs
     transliteration: l-arḥāmi
   30:
@@ -142,15 +142,15 @@ word_by_word:
     translation: We will
     transliteration: nashāu
   32:
-    arabic: اِلٰٓى
+    arabic: إِلَىٰٓ
     translation: for
     transliteration: ilā
   33:
-    arabic: اَجَلٍ
+    arabic: أَجَلٖ
     translation: a term
     transliteration: ajalin
   34:
-    arabic: مُّسَمًّى
+    arabic: مُّسَمّٗى
     translation: appointed
     transliteration: musamman
   35:
@@ -162,7 +162,7 @@ word_by_word:
     translation: We bring you out
     transliteration: nukh'rijukum
   37:
-    arabic: طِفۡلًا
+    arabic: طِفۡلٗا
     translation: (as) a child
     transliteration: ṭif'lan
   38:
@@ -170,47 +170,47 @@ word_by_word:
     translation: '[then]'
     transliteration: thumma
   39:
-    arabic: لِتَبۡلُغُوۡۤا
+    arabic: لِتَبۡلُغُوٓاْ
     translation: that you may reach
     transliteration: litablughū
   40:
-    arabic: اَشُدَّكُمۡ ​ۚ
+    arabic: أَشُدَّكُمۡۖ
     translation: '[your] maturity'
     transliteration: ashuddakum
   41:
-    arabic: وَمِنۡكُمۡ
+    arabic: وَمِنكُم
     translation: And among you
     transliteration: waminkum
   42:
-    arabic: مَّنۡ
+    arabic: مَّن
     translation: (is he) who
     transliteration: man
   43:
-    arabic: يُّتَوَفّٰى
+    arabic: يُتَوَفَّىٰ
     translation: dies
     transliteration: yutawaffā
   44:
-    arabic: وَمِنۡكُمۡ
+    arabic: وَمِنكُم
     translation: and among you
     transliteration: waminkum
   45:
-    arabic: مَّنۡ
+    arabic: مَّن
     translation: (is he) who
     transliteration: man
   46:
-    arabic: يُّرَدُّ
+    arabic: يُرَدُّ
     translation: is returned
     transliteration: yuraddu
   47:
-    arabic: اِلٰٓى
+    arabic: إِلَىٰٓ
     translation: to
     transliteration: ilā
   48:
-    arabic: اَرۡذَلِ
+    arabic: أَرۡذَلِ
     translation: the most abject
     transliteration: ardhali
   49:
-    arabic: الۡعُمُرِ
+    arabic: ٱلۡعُمُرِ
     translation: age
     transliteration: l-ʿumuri
   50:
@@ -222,7 +222,7 @@ word_by_word:
     translation: he knows
     transliteration: yaʿlama
   52:
-    arabic: مِنۡۢ
+    arabic: مِنۢ
     translation: after
     transliteration: min
   53:
@@ -230,11 +230,11 @@ word_by_word:
     translation: after
     transliteration: baʿdi
   54:
-    arabic: عِلۡمٍ
+    arabic: عِلۡمٖ
     translation: having known
     transliteration: ʿil'min
   55:
-    arabic: شَيۡــًٔـا​ ؕ
+    arabic: شَيۡـٔٗاۚ
     translation: anything
     transliteration: shayan
   56:
@@ -242,19 +242,19 @@ word_by_word:
     translation: And you see
     transliteration: watarā
   57:
-    arabic: الۡاَرۡضَ
+    arabic: ٱلۡأَرۡضَ
     translation: the earth
     transliteration: l-arḍa
   58:
-    arabic: هَامِدَةً
+    arabic: هَامِدَةٗ
     translation: barren
     transliteration: hāmidatan
   59:
-    arabic: فَاِذَاۤ
+    arabic: فَإِذَآ
     translation: then when
     transliteration: fa-idhā
   60:
-    arabic: اَنۡزَلۡنَا
+    arabic: أَنزَلۡنَا
     translation: We send down
     transliteration: anzalnā
   61:
@@ -262,11 +262,11 @@ word_by_word:
     translation: on it
     transliteration: ʿalayhā
   62:
-    arabic: الۡمَآءَ
+    arabic: ٱلۡمَآءَ
     translation: water
     transliteration: l-māa
   63:
-    arabic: اهۡتَزَّتۡ
+    arabic: ٱهۡتَزَّتۡ
     translation: it gets stirred
     transliteration: ih'tazzat
   64:
@@ -274,11 +274,11 @@ word_by_word:
     translation: and it swells
     transliteration: warabat
   65:
-    arabic: وَاَنۡۢبَـتَتۡ
+    arabic: وَأَنۢبَتَتۡ
     translation: and grows
     transliteration: wa-anbatat
   66:
-    arabic: مِنۡ
+    arabic: مِن
     translation: of
     transliteration: min
   67:
@@ -286,11 +286,11 @@ word_by_word:
     translation: every
     transliteration: kulli
   68:
-    arabic: زَوۡجٍۢ
+    arabic: زَوۡجِۭ
     translation: kind
     transliteration: zawjin
   69:
-    arabic: بَهِيۡجٍ‏
+    arabic: بَهِيجٖ
     translation: beautiful
     transliteration: bahījin
 ---

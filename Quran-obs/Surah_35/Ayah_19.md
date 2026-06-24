@@ -1,5 +1,5 @@
 ---
-arabic_ayat: وَمَا يَسۡتَوِى الۡاَعۡمٰى وَالۡبَصِيۡرُ ۙ‏
+arabic_ayat: وَمَا يَسۡتَوِي ٱلۡأَعۡمَىٰ وَٱلۡبَصِيرُ
 sentence_translation: Those blind ˹to the truth˺ and those who can see are not equal,
 word_by_word:
   1:
@@ -7,15 +7,15 @@ word_by_word:
     translation: And not
     transliteration: wamā
   2:
-    arabic: يَسۡتَوِى
+    arabic: يَسۡتَوِي
     translation: equal
     transliteration: yastawī
   3:
-    arabic: الۡاَعۡمٰى
+    arabic: ٱلۡأَعۡمَىٰ
     translation: (are) the blind
     transliteration: l-aʿmā
   4:
-    arabic: وَالۡبَصِيۡرُ ۙ‏
+    arabic: وَٱلۡبَصِيرُ
     translation: and the seeing
     transliteration: wal-baṣīru
 ---

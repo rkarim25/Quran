@@ -1,11 +1,11 @@
 ---
-arabic_ayat: اُولٰٓٮِٕكَ يُؤۡتَوۡنَ اَجۡرَهُمۡ مَّرَّتَيۡنِ بِمَا صَبَرُوۡا وَيَدۡرَءُوۡنَ
-  بِالۡحَسَنَةِ السَّيِّئَةَ وَمِمَّا رَزَقۡنٰهُمۡ يُنۡفِقُوۡنَ‏
+arabic_ayat: أُوْلَٰٓئِكَ يُؤۡتَوۡنَ أَجۡرَهُم مَّرَّتَيۡنِ بِمَا صَبَرُواْ وَيَدۡرَءُونَ
+  بِٱلۡحَسَنَةِ ٱلسَّيِّئَةَ وَمِمَّا رَزَقۡنَٰهُمۡ يُنفِقُونَ
 sentence_translation: These ˹believers˺ will be given a double reward for their perseverance,
   responding to evil with good, and for donating from what We have provided for them.
 word_by_word:
   1:
-    arabic: اُولٰٓٮِٕكَ
+    arabic: أُوْلَٰٓئِكَ
     translation: Those
     transliteration: ulāika
   2:
@@ -13,7 +13,7 @@ word_by_word:
     translation: will be given
     transliteration: yu'tawna
   3:
-    arabic: اَجۡرَهُمۡ
+    arabic: أَجۡرَهُم
     translation: their reward
     transliteration: ajrahum
   4:
@@ -25,19 +25,19 @@ word_by_word:
     translation: because
     transliteration: bimā
   6:
-    arabic: صَبَرُوۡا
+    arabic: صَبَرُواْ
     translation: they are patient
     transliteration: ṣabarū
   7:
-    arabic: وَيَدۡرَءُوۡنَ
+    arabic: وَيَدۡرَءُونَ
     translation: and they repel
     transliteration: wayadraūna
   8:
-    arabic: بِالۡحَسَنَةِ
+    arabic: بِٱلۡحَسَنَةِ
     translation: 'with good '
     transliteration: bil-ḥasanati
   9:
-    arabic: السَّيِّئَةَ
+    arabic: ٱلسَّيِّئَةَ
     translation: the evil
     transliteration: l-sayi-ata
   10:
@@ -45,11 +45,11 @@ word_by_word:
     translation: and from what
     transliteration: wamimmā
   11:
-    arabic: رَزَقۡنٰهُمۡ
+    arabic: رَزَقۡنَٰهُمۡ
     translation: We have provided them
     transliteration: razaqnāhum
   12:
-    arabic: يُنۡفِقُوۡنَ‏
+    arabic: يُنفِقُونَ
     translation: they spend
     transliteration: yunfiqūna
 ---

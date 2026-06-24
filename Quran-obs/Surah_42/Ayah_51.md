@@ -1,13 +1,13 @@
 ---
-arabic_ayat: وَمَا كَانَ لِبَشَرٍ اَنۡ يُّكَلِّمَهُ اللّٰهُ اِلَّا وَحۡيًا اَوۡ مِنۡ
-  وَّرَآىٴِ حِجَابٍ اَوۡ يُرۡسِلَ رَسُوۡلًا فَيُوۡحِىَ بِاِذۡنِهٖ مَا يَشَآءُ​ؕ
-  اِنَّهٗ عَلِىٌّ حَكِيۡمٌ‏
+arabic_ayat: ۞ وَمَا كَانَ لِبَشَرٍ أَن يُكَلِّمَهُ ٱللَّهُ إِلَّا وَحۡيًا أَوۡ مِن
+  وَرَآيِٕ حِجَابٍ أَوۡ يُرۡسِلَ رَسُولٗا فَيُوحِيَ بِإِذۡنِهِۦ مَا يَشَآءُۚ إِنَّهُۥ
+  عَلِيٌّ حَكِيمٞ
 sentence_translation: It is not ˹possible˺ for a human being to have Allah communicate
   with them, except through inspiration, or from behind a veil, or by sending a messenger-angel
   to reveal whatever He wills by His permission. He is surely Most High, All-Wise.
 word_by_word:
   1:
-    arabic: ۞ وَمَا
+    arabic: ۞ وَمَا
     translation: And not
     transliteration: wamā
   2:
@@ -19,19 +19,19 @@ word_by_word:
     translation: for any human
     transliteration: libasharin
   4:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that
     transliteration: an
   5:
-    arabic: يُّكَلِّمَهُ
+    arabic: يُكَلِّمَهُ
     translation: Allah should speak to him
     transliteration: yukallimahu
   6:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah should speak to him
     transliteration: l-lahu
   7:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   8:
@@ -39,15 +39,15 @@ word_by_word:
     translation: (by) revelation
     transliteration: waḥyan
   9:
-    arabic: اَوۡ
+    arabic: أَوۡ
     translation: or
     transliteration: aw
   10:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   11:
-    arabic: وَّرَآىٴِ
+    arabic: وَرَآيِٕ
     translation: behind
     transliteration: warāi
   12:
@@ -55,7 +55,7 @@ word_by_word:
     translation: a veil
     transliteration: ḥijābin
   13:
-    arabic: اَوۡ
+    arabic: أَوۡ
     translation: or
     transliteration: aw
   14:
@@ -63,15 +63,15 @@ word_by_word:
     translation: (by) sending
     transliteration: yur'sila
   15:
-    arabic: رَسُوۡلًا
+    arabic: رَسُولٗا
     translation: a messenger
     transliteration: rasūlan
   16:
-    arabic: فَيُوۡحِىَ
+    arabic: فَيُوحِيَ
     translation: then he reveals
     transliteration: fayūḥiya
   17:
-    arabic: بِاِذۡنِهٖ
+    arabic: بِإِذۡنِهِۦ
     translation: by His permission
     transliteration: bi-idh'nihi
   18:
@@ -79,19 +79,19 @@ word_by_word:
     translation: what
     transliteration: mā
   19:
-    arabic: يَشَآءُ​ؕ
+    arabic: يَشَآءُۚ
     translation: He wills
     transliteration: yashāu
   20:
-    arabic: اِنَّهٗ
+    arabic: إِنَّهُۥ
     translation: Indeed, He
     transliteration: innahu
   21:
-    arabic: عَلِىٌّ
+    arabic: عَلِيٌّ
     translation: (is) Most High
     transliteration: ʿaliyyun
   22:
-    arabic: حَكِيۡمٌ‏
+    arabic: حَكِيمٞ
     translation: Most Wise
     transliteration: ḥakīmun
 ---

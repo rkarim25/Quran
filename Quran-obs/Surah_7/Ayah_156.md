@@ -1,55 +1,55 @@
 ---
-arabic_ayat: وَاكۡتُبۡ لَـنَا فِىۡ هٰذِهِ الدُّنۡيَا حَسَنَةً وَّفِى الۡاٰخِرَةِ اِنَّا
-  هُدۡنَاۤ اِلَيۡكَ ​ؕ قَالَ عَذَابِىۡۤ اُصِيۡبُ بِهٖ مَنۡ اَشَآءُ​ ۚ وَرَحۡمَتِىۡ
-  وَسِعَتۡ كُلَّ شَىۡءٍ​ ؕ فَسَاَكۡتُبُهَا لِلَّذِيۡنَ يَتَّقُوۡنَ وَيُؤۡتُوۡنَ الزَّكٰوةَ
-  وَالَّذِيۡنَ هُمۡ بِاٰيٰتِنَا يُؤۡمِنُوۡنَ ​ۚ‏
+arabic_ayat: ۞ وَٱكۡتُبۡ لَنَا فِي هَٰذِهِ ٱلدُّنۡيَا حَسَنَةٗ وَفِي ٱلۡأٓخِرَةِ إِنَّا
+  هُدۡنَآ إِلَيۡكَۚ قَالَ عَذَابِيٓ أُصِيبُ بِهِۦ مَنۡ أَشَآءُۖ وَرَحۡمَتِي وَسِعَتۡ
+  كُلَّ شَيۡءٖۚ فَسَأَكۡتُبُهَا لِلَّذِينَ يَتَّقُونَ وَيُؤۡتُونَ ٱلزَّكَوٰةَ وَٱلَّذِينَ
+  هُم بِـَٔايَٰتِنَا يُؤۡمِنُونَ
 sentence_translation: Ordain for us what is good in this life and the next. Indeed,
   we have turned to You ˹in repentance˺.” Allah replied, “I will inflict My torment
   on whoever I will. But My mercy encompasses everything. I will ordain mercy for
   those who shun evil, pay alms-tax, and believe in Our revelations.
 word_by_word:
   1:
-    arabic: ۞ وَاكۡتُبۡ
+    arabic: ۞ وَٱكۡتُبۡ
     translation: And ordain
     transliteration: wa-uk'tub
   2:
-    arabic: لَـنَا
+    arabic: لَنَا
     translation: for us
     transliteration: lanā
   3:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   4:
-    arabic: هٰذِهِ
+    arabic: هَٰذِهِ
     translation: this
     transliteration: hādhihi
   5:
-    arabic: الدُّنۡيَا
+    arabic: ٱلدُّنۡيَا
     translation: '[the] world'
     transliteration: l-dun'yā
   6:
-    arabic: حَسَنَةً
+    arabic: حَسَنَةٗ
     translation: good
     transliteration: ḥasanatan
   7:
-    arabic: وَّفِى
+    arabic: وَفِي
     translation: and in
     transliteration: wafī
   8:
-    arabic: الۡاٰخِرَةِ
+    arabic: ٱلۡأٓخِرَةِ
     translation: the Hereafter
     transliteration: l-ākhirati
   9:
-    arabic: اِنَّا
+    arabic: إِنَّا
     translation: Indeed, we
     transliteration: innā
   10:
-    arabic: هُدۡنَاۤ
+    arabic: هُدۡنَآ
     translation: we have turned
     transliteration: hud'nā
   11:
-    arabic: اِلَيۡكَ ​ؕ
+    arabic: إِلَيۡكَۚ
     translation: to You
     transliteration: ilayka
   12:
@@ -57,15 +57,15 @@ word_by_word:
     translation: He said
     transliteration: qāla
   13:
-    arabic: عَذَابِىۡۤ
+    arabic: عَذَابِيٓ
     translation: 'My punishment '
     transliteration: ʿadhābī
   14:
-    arabic: اُصِيۡبُ
+    arabic: أُصِيبُ
     translation: I afflict
     transliteration: uṣību
   15:
-    arabic: بِهٖ
+    arabic: بِهِۦ
     translation: with it
     transliteration: bihi
   16:
@@ -73,11 +73,11 @@ word_by_word:
     translation: whom
     transliteration: man
   17:
-    arabic: اَشَآءُ​ ۚ
+    arabic: أَشَآءُۖ
     translation: I will
     transliteration: ashāu
   18:
-    arabic: وَرَحۡمَتِىۡ
+    arabic: وَرَحۡمَتِي
     translation: but My Mercy
     transliteration: waraḥmatī
   19:
@@ -89,43 +89,43 @@ word_by_word:
     translation: every
     transliteration: kulla
   21:
-    arabic: شَىۡءٍ​ ؕ
+    arabic: شَيۡءٖۚ
     translation: thing
     transliteration: shayin
   22:
-    arabic: فَسَاَكۡتُبُهَا
+    arabic: فَسَأَكۡتُبُهَا
     translation: So I will ordain it
     transliteration: fasa-aktubuhā
   23:
-    arabic: لِلَّذِيۡنَ
+    arabic: لِلَّذِينَ
     translation: for those who
     transliteration: lilladhīna
   24:
-    arabic: يَتَّقُوۡنَ
+    arabic: يَتَّقُونَ
     translation: (are) righteous
     transliteration: yattaqūna
   25:
-    arabic: وَيُؤۡتُوۡنَ
+    arabic: وَيُؤۡتُونَ
     translation: and give
     transliteration: wayu'tūna
   26:
-    arabic: الزَّكٰوةَ
+    arabic: ٱلزَّكَوٰةَ
     translation: zakah
     transliteration: l-zakata
   27:
-    arabic: وَالَّذِيۡنَ
+    arabic: وَٱلَّذِينَ
     translation: and those who
     transliteration: wa-alladhīna
   28:
-    arabic: هُمۡ
+    arabic: هُم
     translation: '[they]'
     transliteration: hum
   29:
-    arabic: بِاٰيٰتِنَا
+    arabic: بِـَٔايَٰتِنَا
     translation: in Our Verses
     transliteration: biāyātinā
   30:
-    arabic: يُؤۡمِنُوۡنَ ​ۚ‏
+    arabic: يُؤۡمِنُونَ
     translation: they believe
     transliteration: yu'minūna
 ---

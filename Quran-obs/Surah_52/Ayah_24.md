@@ -1,11 +1,10 @@
 ---
-arabic_ayat: "وَيَطُوۡفُ عَلَيۡهِمۡ غِلۡمَانٌ لَّهُمۡ كَاَنَّهُمۡ لُـؤۡلُـؤٌ مَّكۡنُوۡنٌ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: ۞ وَيَطُوفُ عَلَيۡهِمۡ غِلۡمَانٞ لَّهُمۡ كَأَنَّهُمۡ لُؤۡلُؤٞ مَّكۡنُونٞ
 sentence_translation: And they will be waited on by their youthful servants like spotless
   pearls.        
 word_by_word:
   1:
-    arabic: ۞ وَيَطُوۡفُ
+    arabic: ۞ وَيَطُوفُ
     translation: And will circulate
     transliteration: wayaṭūfu
   2:
@@ -13,7 +12,7 @@ word_by_word:
     translation: among them
     transliteration: ʿalayhim
   3:
-    arabic: غِلۡمَانٌ
+    arabic: غِلۡمَانٞ
     translation: boys
     transliteration: ghil'mānun
   4:
@@ -21,15 +20,15 @@ word_by_word:
     translation: for them
     transliteration: lahum
   5:
-    arabic: كَاَنَّهُمۡ
+    arabic: كَأَنَّهُمۡ
     translation: as if they (were)
     transliteration: ka-annahum
   6:
-    arabic: لُـؤۡلُـؤٌ
+    arabic: لُؤۡلُؤٞ
     translation: pearls
     transliteration: lu'lu-on
   7:
-    arabic: "مَّكۡنُوۡنٌ‏ \uFEFF\uFEFF"
+    arabic: مَّكۡنُونٞ
     translation: well-protected
     transliteration: maknūnun
 ---

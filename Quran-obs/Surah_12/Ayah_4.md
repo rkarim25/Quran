@@ -1,12 +1,12 @@
 ---
-arabic_ayat: اِذۡ قَالَ يُوۡسُفُ لِاَبِيۡهِ يٰۤاَبَتِ اِنِّىۡ رَاَيۡتُ اَحَدَ عَشَرَ
-  كَوۡكَبًا وَّالشَّمۡسَ وَالۡقَمَرَ رَاَيۡتُهُمۡ لِىۡ سٰجِدِيۡنَ‏
+arabic_ayat: إِذۡ قَالَ يُوسُفُ لِأَبِيهِ يَٰٓأَبَتِ إِنِّي رَأَيۡتُ أَحَدَ عَشَرَ
+  كَوۡكَبٗا وَٱلشَّمۡسَ وَٱلۡقَمَرَ رَأَيۡتُهُمۡ لِي سَٰجِدِينَ
 sentence_translation: ˹Remember˺ when Joseph said to his father, “O my dear father!
   Indeed I dreamt of eleven stars, and the sun, and the moon—I saw them prostrating
   to me!”
 word_by_word:
   1:
-    arabic: اِذۡ
+    arabic: إِذۡ
     translation: When
     transliteration: idh
   2:
@@ -14,27 +14,27 @@ word_by_word:
     translation: said
     transliteration: qāla
   3:
-    arabic: يُوۡسُفُ
+    arabic: يُوسُفُ
     translation: Yusuf
     transliteration: yūsufu
   4:
-    arabic: لِاَبِيۡهِ
+    arabic: لِأَبِيهِ
     translation: to his father
     transliteration: li-abīhi
   5:
-    arabic: يٰۤاَبَتِ
+    arabic: يَٰٓأَبَتِ
     translation: O my father
     transliteration: yāabati
   6:
-    arabic: اِنِّىۡ
+    arabic: إِنِّي
     translation: Indeed, I
     transliteration: innī
   7:
-    arabic: رَاَيۡتُ
+    arabic: رَأَيۡتُ
     translation: I saw
     transliteration: ra-aytu
   8:
-    arabic: اَحَدَ
+    arabic: أَحَدَ
     translation: eleven
     transliteration: aḥada
   9:
@@ -42,27 +42,27 @@ word_by_word:
     translation: eleven
     transliteration: ʿashara
   10:
-    arabic: كَوۡكَبًا
+    arabic: كَوۡكَبٗا
     translation: stars
     transliteration: kawkaban
   11:
-    arabic: وَّالشَّمۡسَ
+    arabic: وَٱلشَّمۡسَ
     translation: and the sun
     transliteration: wal-shamsa
   12:
-    arabic: وَالۡقَمَرَ
+    arabic: وَٱلۡقَمَرَ
     translation: and the moon
     transliteration: wal-qamara
   13:
-    arabic: رَاَيۡتُهُمۡ
+    arabic: رَأَيۡتُهُمۡ
     translation: I saw them
     transliteration: ra-aytuhum
   14:
-    arabic: لِىۡ
+    arabic: لِي
     translation: to me
     transliteration: lī
   15:
-    arabic: سٰجِدِيۡنَ‏
+    arabic: سَٰجِدِينَ
     translation: prostrating
     transliteration: sājidīna
 ---

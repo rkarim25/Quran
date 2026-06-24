@@ -1,23 +1,23 @@
 ---
-arabic_ayat: اِنَّ الَّذِيۡنَ كَفَرُوۡا وَظَلَمُوۡا لَمۡ يَكُنِ اللّٰهُ لِيَـغۡفِرَ
-  لَهُمۡ وَلَا لِيَـهۡدِيَهُمۡ طَرِيۡقًا ۙ‏
+arabic_ayat: إِنَّ ٱلَّذِينَ كَفَرُواْ وَظَلَمُواْ لَمۡ يَكُنِ ٱللَّهُ لِيَغۡفِرَ
+  لَهُمۡ وَلَا لِيَهۡدِيَهُمۡ طَرِيقًا
 sentence_translation: Those who disbelieve and wrong themselves—surely Allah will
   neither forgive them nor guide them to any path
 word_by_word:
   1:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   3:
-    arabic: كَفَرُوۡا
+    arabic: كَفَرُواْ
     translation: disbelieved
     transliteration: kafarū
   4:
-    arabic: وَظَلَمُوۡا
+    arabic: وَظَلَمُواْ
     translation: and did wrong
     transliteration: waẓalamū
   5:
@@ -29,11 +29,11 @@ word_by_word:
     translation: will
     transliteration: yakuni
   7:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   8:
-    arabic: لِيَـغۡفِرَ
+    arabic: لِيَغۡفِرَ
     translation: '[to] forgive'
     transliteration: liyaghfira
   9:
@@ -45,11 +45,11 @@ word_by_word:
     translation: and not
     transliteration: walā
   11:
-    arabic: لِيَـهۡدِيَهُمۡ
+    arabic: لِيَهۡدِيَهُمۡ
     translation: He will guide them
     transliteration: liyahdiyahum
   12:
-    arabic: طَرِيۡقًا ۙ‏
+    arabic: طَرِيقًا
     translation: (to) a way
     transliteration: ṭarīqan
 ---

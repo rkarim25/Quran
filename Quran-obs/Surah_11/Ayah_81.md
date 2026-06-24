@@ -1,23 +1,23 @@
 ---
-arabic_ayat: قَالُوۡا يٰلُوۡطُ اِنَّا رُسُلُ رَبِّكَ لَنۡ يَّصِلُوۡۤا اِلَيۡكَ​ فَاَسۡرِ
-  بِاَهۡلِكَ بِقِطۡعٍ مِّنَ الَّيۡلِ وَلَا يَلۡتَفِتۡ مِنۡكُمۡ اَحَدٌ اِلَّا امۡرَاَتَكَ​ؕ
-  اِنَّهٗ مُصِيۡبُهَا مَاۤ اَصَابَهُمۡ​ؕ اِنَّ مَوۡعِدَهُمُ الصُّبۡحُ​ؕ اَلَيۡسَ الصُّبۡحُ
-  بِقَرِيۡبٍ‏
+arabic_ayat: قَالُواْ يَٰلُوطُ إِنَّا رُسُلُ رَبِّكَ لَن يَصِلُوٓاْ إِلَيۡكَۖ فَأَسۡرِ
+  بِأَهۡلِكَ بِقِطۡعٖ مِّنَ ٱلَّيۡلِ وَلَا يَلۡتَفِتۡ مِنكُمۡ أَحَدٌ إِلَّا ٱمۡرَأَتَكَۖ
+  إِنَّهُۥ مُصِيبُهَا مَآ أَصَابَهُمۡۚ إِنَّ مَوۡعِدَهُمُ ٱلصُّبۡحُۚ أَلَيۡسَ ٱلصُّبۡحُ
+  بِقَرِيبٖ
 sentence_translation: The angels said, “O Lot! We are the messengers of your Lord.
   They will never reach you. So travel with your family in the dark of night, and
   do not let any of you look back, except your wife. She will certainly suffer the
   fate of the others. Their appointed time is the morning. Is the morning not near?”
 word_by_word:
   1:
-    arabic: قَالُوۡا
+    arabic: قَالُواْ
     translation: They said
     transliteration: qālū
   2:
-    arabic: يٰلُوۡطُ
+    arabic: يَٰلُوطُ
     translation: O Lut
     transliteration: yālūṭu
   3:
-    arabic: اِنَّا
+    arabic: إِنَّا
     translation: Indeed, we
     transliteration: innā
   4:
@@ -29,27 +29,27 @@ word_by_word:
     translation: (of) your Lord
     transliteration: rabbika
   6:
-    arabic: لَنۡ
+    arabic: لَن
     translation: never
     transliteration: lan
   7:
-    arabic: يَّصِلُوۡۤا
+    arabic: يَصِلُوٓاْ
     translation: they will reach
     transliteration: yaṣilū
   8:
-    arabic: اِلَيۡكَ​
+    arabic: إِلَيۡكَۖ
     translation: you
     transliteration: ilayka
   9:
-    arabic: فَاَسۡرِ
+    arabic: فَأَسۡرِ
     translation: So travel
     transliteration: fa-asri
   10:
-    arabic: بِاَهۡلِكَ
+    arabic: بِأَهۡلِكَ
     translation: with your family
     transliteration: bi-ahlika
   11:
-    arabic: بِقِطۡعٍ
+    arabic: بِقِطۡعٖ
     translation: in a part
     transliteration: biqiṭ'ʿin
   12:
@@ -57,7 +57,7 @@ word_by_word:
     translation: of
     transliteration: mina
   13:
-    arabic: الَّيۡلِ
+    arabic: ٱلَّيۡلِ
     translation: the night
     transliteration: al-layli
   14:
@@ -69,39 +69,39 @@ word_by_word:
     translation: look back
     transliteration: yaltafit
   16:
-    arabic: مِنۡكُمۡ
+    arabic: مِنكُمۡ
     translation: anyone of you
     transliteration: minkum
   17:
-    arabic: اَحَدٌ
+    arabic: أَحَدٌ
     translation: anyone of you
     transliteration: aḥadun
   18:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   19:
-    arabic: امۡرَاَتَكَ​ؕ
+    arabic: ٱمۡرَأَتَكَۖ
     translation: your wife
     transliteration: im'ra-ataka
   20:
-    arabic: اِنَّهٗ
+    arabic: إِنَّهُۥ
     translation: Indeed, it
     transliteration: innahu
   21:
-    arabic: مُصِيۡبُهَا
+    arabic: مُصِيبُهَا
     translation: will strike her
     transliteration: muṣībuhā
   22:
-    arabic: مَاۤ
+    arabic: مَآ
     translation: what
     transliteration: mā
   23:
-    arabic: اَصَابَهُمۡ​ؕ
+    arabic: أَصَابَهُمۡۚ
     translation: will strike them
     transliteration: aṣābahum
   24:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   25:
@@ -109,19 +109,19 @@ word_by_word:
     translation: their appointed time
     transliteration: mawʿidahumu
   26:
-    arabic: الصُّبۡحُ​ؕ
+    arabic: ٱلصُّبۡحُۚ
     translation: (is) morning
     transliteration: l-ṣub'ḥu
   27:
-    arabic: اَلَيۡسَ
+    arabic: أَلَيۡسَ
     translation: Is not
     transliteration: alaysa
   28:
-    arabic: الصُّبۡحُ
+    arabic: ٱلصُّبۡحُ
     translation: the morning
     transliteration: l-ṣub'ḥu
   29:
-    arabic: بِقَرِيۡبٍ‏
+    arabic: بِقَرِيبٖ
     translation: near
     transliteration: biqarībin
 ---

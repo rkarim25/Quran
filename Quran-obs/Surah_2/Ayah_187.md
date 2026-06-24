@@ -1,12 +1,12 @@
 ---
-arabic_ayat: اُحِلَّ لَـکُمۡ لَيۡلَةَ الصِّيَامِ الرَّفَثُ اِلٰى نِسَآٮِٕكُمۡ​ؕ هُنَّ
-  لِبَاسٌ لَّـكُمۡ وَاَنۡـتُمۡ لِبَاسٌ لَّهُنَّ ؕ عَلِمَ اللّٰهُ اَنَّکُمۡ كُنۡتُمۡ
-  تَخۡتَانُوۡنَ اَنۡفُسَکُمۡ فَتَابَ عَلَيۡكُمۡ وَعَفَا عَنۡكُمۡۚ فَالۡـــٰٔنَ بَاشِرُوۡهُنَّ
-  وَابۡتَغُوۡا مَا کَتَبَ اللّٰهُ لَـكُمۡ وَكُلُوۡا وَاشۡرَبُوۡا حَتّٰى يَتَبَيَّنَ
-  لَـكُمُ الۡخَـيۡطُ الۡاَبۡيَضُ مِنَ الۡخَـيۡطِ الۡاَسۡوَدِ مِنَ الۡفَجۡرِ​ؕ ثُمَّ
-  اَتِمُّوا الصِّيَامَ اِلَى الَّيۡلِ​ۚ وَلَا تُبَاشِرُوۡهُنَّ وَاَنۡـتُمۡ عٰكِفُوۡنَ
-  فِى الۡمَسٰجِدِؕ تِلۡكَ حُدُوۡدُ اللّٰهِ فَلَا تَقۡرَبُوۡهَا ؕ كَذٰلِكَ يُبَيِّنُ
-  اللّٰهُ اٰيٰتِهٖ لِلنَّاسِ لَعَلَّهُمۡ يَتَّقُوۡنَ‏
+arabic_ayat: أُحِلَّ لَكُمۡ لَيۡلَةَ ٱلصِّيَامِ ٱلرَّفَثُ إِلَىٰ نِسَآئِكُمۡۚ هُنَّ
+  لِبَاسٞ لَّكُمۡ وَأَنتُمۡ لِبَاسٞ لَّهُنَّۗ عَلِمَ ٱللَّهُ أَنَّكُمۡ كُنتُمۡ تَخۡتَانُونَ
+  أَنفُسَكُمۡ فَتَابَ عَلَيۡكُمۡ وَعَفَا عَنكُمۡۖ فَٱلۡـَٰٔنَ بَٰشِرُوهُنَّ وَٱبۡتَغُواْ
+  مَا كَتَبَ ٱللَّهُ لَكُمۡۚ وَكُلُواْ وَٱشۡرَبُواْ حَتَّىٰ يَتَبَيَّنَ لَكُمُ ٱلۡخَيۡطُ
+  ٱلۡأَبۡيَضُ مِنَ ٱلۡخَيۡطِ ٱلۡأَسۡوَدِ مِنَ ٱلۡفَجۡرِۖ ثُمَّ أَتِمُّواْ ٱلصِّيَامَ
+  إِلَى ٱلَّيۡلِۚ وَلَا تُبَٰشِرُوهُنَّ وَأَنتُمۡ عَٰكِفُونَ فِي ٱلۡمَسَٰجِدِۗ تِلۡكَ
+  حُدُودُ ٱللَّهِ فَلَا تَقۡرَبُوهَاۗ كَذَٰلِكَ يُبَيِّنُ ٱللَّهُ ءَايَٰتِهِۦ لِلنَّاسِ
+  لَعَلَّهُمۡ يَتَّقُونَ
 sentence_translation: It has been made permissible for you to be intimate with your
   wives during the nights preceding the fast. Your spouses are a garment for you as
   you are for them. Allah knows that you were deceiving yourselves. So He has accepted
@@ -18,11 +18,11 @@ sentence_translation: It has been made permissible for you to be intimate with y
   revelations clear to people, so they may become mindful ˹of Him˺.
 word_by_word:
   1:
-    arabic: اُحِلَّ
+    arabic: أُحِلَّ
     translation: Permitted
     transliteration: uḥilla
   2:
-    arabic: لَـکُمۡ
+    arabic: لَكُمۡ
     translation: for you
     transliteration: lakum
   3:
@@ -30,19 +30,19 @@ word_by_word:
     translation: (in the) nights
     transliteration: laylata
   4:
-    arabic: الصِّيَامِ
+    arabic: ٱلصِّيَامِ
     translation: (of) fasting
     transliteration: l-ṣiyāmi
   5:
-    arabic: الرَّفَثُ
+    arabic: ٱلرَّفَثُ
     translation: (is) the approach
     transliteration: l-rafathu
   6:
-    arabic: اِلٰى
+    arabic: إِلَىٰ
     translation: to
     transliteration: ilā
   7:
-    arabic: نِسَآٮِٕكُمۡ​ؕ
+    arabic: نِسَآئِكُمۡۚ
     translation: your wives
     transliteration: nisāikum
   8:
@@ -50,23 +50,23 @@ word_by_word:
     translation: They
     transliteration: hunna
   9:
-    arabic: لِبَاسٌ
+    arabic: لِبَاسٞ
     translation: (are) garments
     transliteration: libāsun
   10:
-    arabic: لَّـكُمۡ
+    arabic: لَّكُمۡ
     translation: for you
     transliteration: lakum
   11:
-    arabic: وَاَنۡـتُمۡ
+    arabic: وَأَنتُمۡ
     translation: and you
     transliteration: wa-antum
   12:
-    arabic: لِبَاسٌ
+    arabic: لِبَاسٞ
     translation: (are) garments
     transliteration: libāsun
   13:
-    arabic: لَّهُنَّ ؕ
+    arabic: لَّهُنَّۗ
     translation: for them
     transliteration: lahunna
   14:
@@ -74,23 +74,23 @@ word_by_word:
     translation: Knows
     transliteration: ʿalima
   15:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   16:
-    arabic: اَنَّکُمۡ
+    arabic: أَنَّكُمۡ
     translation: that you
     transliteration: annakum
   17:
-    arabic: كُنۡتُمۡ
+    arabic: كُنتُمۡ
     translation: used to
     transliteration: kuntum
   18:
-    arabic: تَخۡتَانُوۡنَ
+    arabic: تَخۡتَانُونَ
     translation: deceive
     transliteration: takhtānūna
   19:
-    arabic: اَنۡفُسَکُمۡ
+    arabic: أَنفُسَكُمۡ
     translation: yourselves
     transliteration: anfusakum
   20:
@@ -106,19 +106,19 @@ word_by_word:
     translation: and He forgave
     transliteration: waʿafā
   23:
-    arabic: عَنۡكُمۡۚ
+    arabic: عَنكُمۡۖ
     translation: '[on] you'
     transliteration: ʿankum
   24:
-    arabic: فَالۡـــٰٔنَ
+    arabic: فَٱلۡـَٰٔنَ
     translation: So now
     transliteration: fal-āna
   25:
-    arabic: بَاشِرُوۡهُنَّ
+    arabic: بَٰشِرُوهُنَّ
     translation: have relations with them
     transliteration: bāshirūhunna
   26:
-    arabic: وَابۡتَغُوۡا
+    arabic: وَٱبۡتَغُواْ
     translation: and seek
     transliteration: wa-ib'taghū
   27:
@@ -126,27 +126,27 @@ word_by_word:
     translation: what
     transliteration: mā
   28:
-    arabic: کَتَبَ
+    arabic: كَتَبَ
     translation: has ordained
     transliteration: kataba
   29:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   30:
-    arabic: لَـكُمۡ
+    arabic: لَكُمۡۚ
     translation: for you
     transliteration: lakum
   31:
-    arabic: وَكُلُوۡا
+    arabic: وَكُلُواْ
     translation: And eat
     transliteration: wakulū
   32:
-    arabic: وَاشۡرَبُوۡا
+    arabic: وَٱشۡرَبُواْ
     translation: and drink
     transliteration: wa-ish'rabū
   33:
-    arabic: حَتّٰى
+    arabic: حَتَّىٰ
     translation: until
     transliteration: ḥattā
   34:
@@ -154,15 +154,15 @@ word_by_word:
     translation: becomes distinct
     transliteration: yatabayyana
   35:
-    arabic: لَـكُمُ
+    arabic: لَكُمُ
     translation: to you
     transliteration: lakumu
   36:
-    arabic: الۡخَـيۡطُ
+    arabic: ٱلۡخَيۡطُ
     translation: the thread
     transliteration: l-khayṭu
   37:
-    arabic: الۡاَبۡيَضُ
+    arabic: ٱلۡأَبۡيَضُ
     translation: '[the] white'
     transliteration: l-abyaḍu
   38:
@@ -170,11 +170,11 @@ word_by_word:
     translation: from
     transliteration: mina
   39:
-    arabic: الۡخَـيۡطِ
+    arabic: ٱلۡخَيۡطِ
     translation: the thread
     transliteration: l-khayṭi
   40:
-    arabic: الۡاَسۡوَدِ
+    arabic: ٱلۡأَسۡوَدِ
     translation: '[the] black'
     transliteration: l-aswadi
   41:
@@ -182,7 +182,7 @@ word_by_word:
     translation: of
     transliteration: mina
   42:
-    arabic: الۡفَجۡرِ​ؕ
+    arabic: ٱلۡفَجۡرِۖ
     translation: '[the] dawn'
     transliteration: l-fajri
   43:
@@ -190,19 +190,19 @@ word_by_word:
     translation: Then
     transliteration: thumma
   44:
-    arabic: اَتِمُّوا
+    arabic: أَتِمُّواْ
     translation: complete
     transliteration: atimmū
   45:
-    arabic: الصِّيَامَ
+    arabic: ٱلصِّيَامَ
     translation: the fast
     transliteration: l-ṣiyāma
   46:
-    arabic: اِلَى
+    arabic: إِلَى
     translation: till
     transliteration: ilā
   47:
-    arabic: الَّيۡلِ​ۚ
+    arabic: ٱلَّيۡلِۚ
     translation: the night
     transliteration: al-layli
   48:
@@ -210,23 +210,23 @@ word_by_word:
     translation: And (do) not
     transliteration: walā
   49:
-    arabic: تُبَاشِرُوۡهُنَّ
+    arabic: تُبَٰشِرُوهُنَّ
     translation: have relations with them
     transliteration: tubāshirūhunna
   50:
-    arabic: وَاَنۡـتُمۡ
+    arabic: وَأَنتُمۡ
     translation: while you
     transliteration: wa-antum
   51:
-    arabic: عٰكِفُوۡنَ
+    arabic: عَٰكِفُونَ
     translation: (are) secluded
     transliteration: ʿākifūna
   52:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   53:
-    arabic: الۡمَسٰجِدِؕ
+    arabic: ٱلۡمَسَٰجِدِۗ
     translation: the masajid
     transliteration: l-masājidi
   54:
@@ -234,11 +234,11 @@ word_by_word:
     translation: These
     transliteration: til'ka
   55:
-    arabic: حُدُوۡدُ
+    arabic: حُدُودُ
     translation: (are the) limits
     transliteration: ḥudūdu
   56:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (set by) Allah
     transliteration: l-lahi
   57:
@@ -246,11 +246,11 @@ word_by_word:
     translation: so (do) not
     transliteration: falā
   58:
-    arabic: تَقۡرَبُوۡهَا ؕ
+    arabic: تَقۡرَبُوهَاۗ
     translation: approach them
     transliteration: taqrabūhā
   59:
-    arabic: كَذٰلِكَ
+    arabic: كَذَٰلِكَ
     translation: Thus
     transliteration: kadhālika
   60:
@@ -258,11 +258,11 @@ word_by_word:
     translation: makes clear
     transliteration: yubayyinu
   61:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ ءَ
     translation: Allah
     transliteration: l-lahu
   62:
-    arabic: اٰيٰتِهٖ
+    arabic: ايَٰتِهِۦ
     translation: His verses
     transliteration: āyātihi
   63:
@@ -274,7 +274,7 @@ word_by_word:
     translation: so that they may
     transliteration: laʿallahum
   65:
-    arabic: يَتَّقُوۡنَ‏
+    arabic: يَتَّقُونَ
     translation: (become) righteous
     transliteration: yattaqūna
 ---

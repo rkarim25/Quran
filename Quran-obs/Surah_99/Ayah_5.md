@@ -1,9 +1,9 @@
 ---
-arabic_ayat: بِاَنَّ رَبَّكَ اَوۡحٰى لَهَا ؕ‏
+arabic_ayat: بِأَنَّ رَبَّكَ أَوۡحَىٰ لَهَا
 sentence_translation: having been inspired by your Lord ˹to do so˺.
 word_by_word:
   1:
-    arabic: بِاَنَّ
+    arabic: بِأَنَّ
     translation: Because
     transliteration: bi-anna
   2:
@@ -11,11 +11,11 @@ word_by_word:
     translation: your Lord
     transliteration: rabbaka
   3:
-    arabic: اَوۡحٰى
+    arabic: أَوۡحَىٰ
     translation: inspired
     transliteration: awḥā
   4:
-    arabic: لَهَا ؕ‏
+    arabic: لَهَا
     translation: '[to] it'
     transliteration: lahā
 ---

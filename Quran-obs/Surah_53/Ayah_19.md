@@ -1,17 +1,17 @@
 ---
-arabic_ayat: اَفَرَءَيۡتُمُ اللّٰتَ وَالۡعُزّٰىۙ‏
+arabic_ayat: أَفَرَءَيۡتُمُ ٱللَّٰتَ وَٱلۡعُزَّىٰ
 sentence_translation: Now, have you considered ˹the idols of˺ Lât and ’Uzza,
 word_by_word:
   1:
-    arabic: اَفَرَءَيۡتُمُ
+    arabic: أَفَرَءَيۡتُمُ
     translation: So have you seen
     transliteration: afara-aytumu
   2:
-    arabic: اللّٰتَ
+    arabic: ٱللَّٰتَ
     translation: the Lat
     transliteration: l-lāta
   3:
-    arabic: وَالۡعُزّٰىۙ‏
+    arabic: وَٱلۡعُزَّىٰ
     translation: and the Uzza
     transliteration: wal-ʿuzā
 ---

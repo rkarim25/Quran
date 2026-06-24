@@ -1,19 +1,18 @@
 ---
-arabic_ayat: "اِنَّا كُـنَّا مِنۡ قَبۡلُ نَدۡعُوۡهُ​ ؕ اِنَّهٗ هُوَ الۡبَـرُّ الرَّحِيۡمُ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: إِنَّا كُنَّا مِن قَبۡلُ نَدۡعُوهُۖ إِنَّهُۥ هُوَ ٱلۡبَرُّ ٱلرَّحِيمُ
 sentence_translation: Indeed, we used to call upon Him ˹alone˺ before. He is truly
   the Most Kind, Most Merciful.”
 word_by_word:
   1:
-    arabic: اِنَّا
+    arabic: إِنَّا
     translation: Indeed, we
     transliteration: innā
   2:
-    arabic: كُـنَّا
+    arabic: كُنَّا
     translation: '[we] used to'
     transliteration: kunnā
   3:
-    arabic: مِنۡ
+    arabic: مِن
     translation: before
     transliteration: min
   4:
@@ -21,11 +20,11 @@ word_by_word:
     translation: before
     transliteration: qablu
   5:
-    arabic: نَدۡعُوۡهُ​ ؕ
+    arabic: نَدۡعُوهُۖ
     translation: call Him
     transliteration: nadʿūhu
   6:
-    arabic: اِنَّهٗ
+    arabic: إِنَّهُۥ
     translation: Indeed, He
     transliteration: innahu
   7:
@@ -33,11 +32,11 @@ word_by_word:
     translation: '[He]'
     transliteration: huwa
   8:
-    arabic: الۡبَـرُّ
+    arabic: ٱلۡبَرُّ
     translation: (is) the Most Kind
     transliteration: l-baru
   9:
-    arabic: "الرَّحِيۡمُ‏ \uFEFF\uFEFF"
+    arabic: ٱلرَّحِيمُ
     translation: the Most Merciful
     transliteration: l-raḥīmu
 ---

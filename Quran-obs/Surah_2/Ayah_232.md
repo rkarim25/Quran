@@ -1,9 +1,8 @@
 ---
-arabic_ayat: "وَاِذَا طَلَّقۡتُمُ النِّسَآءَ فَبَلَغۡنَ اَجَلَهُنَّ فَلَا تَعۡضُلُوۡهُنَّ\
-  \ اَنۡ يَّنۡكِحۡنَ اَزۡوَاجَهُنَّ اِذَا تَرَاضَوۡا بَيۡنَهُمۡ بِالۡمَعۡرُوۡفِ​ؕ\
-  \ ذٰ لِكَ يُوۡعَظُ بِهٖ مَنۡ كَانَ مِنۡكُمۡ يُؤۡمِنُ بِاللّٰهِ وَالۡيَوۡمِ الۡاٰخِرِؕ\
-  \ ذٰ لِكُمۡ اَزۡکٰى لَـكُمۡ وَاَطۡهَرُؕ​ وَاللّٰهُ يَعۡلَمُ وَاَنۡـتُمۡ لَا تَعۡلَمُوۡنَ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: وَإِذَا طَلَّقۡتُمُ ٱلنِّسَآءَ فَبَلَغۡنَ أَجَلَهُنَّ فَلَا تَعۡضُلُوهُنَّ
+  أَن يَنكِحۡنَ أَزۡوَٰجَهُنَّ إِذَا تَرَٰضَوۡاْ بَيۡنَهُم بِٱلۡمَعۡرُوفِۗ ذَٰلِكَ
+  يُوعَظُ بِهِۦ مَن كَانَ مِنكُمۡ يُؤۡمِنُ بِٱللَّهِ وَٱلۡيَوۡمِ ٱلۡأٓخِرِۗ ذَٰلِكُمۡ
+  أَزۡكَىٰ لَكُمۡ وَأَطۡهَرُۚ وَٱللَّهُ يَعۡلَمُ وَأَنتُمۡ لَا تَعۡلَمُونَ
 sentence_translation: When you have divorced women and they have reached the end of
   their waiting period, do not prevent them from re-marrying their ex-husbands if
   they come to an honourable agreement. This is enjoined on whoever has faith in Allah
@@ -11,7 +10,7 @@ sentence_translation: When you have divorced women and they have reached the end
   do not know.
 word_by_word:
   1:
-    arabic: وَاِذَا
+    arabic: وَإِذَا
     translation: And when
     transliteration: wa-idhā
   2:
@@ -19,7 +18,7 @@ word_by_word:
     translation: you divorce
     transliteration: ṭallaqtumu
   3:
-    arabic: النِّسَآءَ
+    arabic: ٱلنِّسَآءَ
     translation: '[the] women'
     transliteration: l-nisāa
   4:
@@ -27,7 +26,7 @@ word_by_word:
     translation: and they reached
     transliteration: fabalaghna
   5:
-    arabic: اَجَلَهُنَّ
+    arabic: أَجَلَهُنَّ
     translation: their (waiting) term
     transliteration: ajalahunna
   6:
@@ -35,51 +34,51 @@ word_by_word:
     translation: then (do) not
     transliteration: falā
   7:
-    arabic: تَعۡضُلُوۡهُنَّ
+    arabic: تَعۡضُلُوهُنَّ
     translation: hinder them
     transliteration: taʿḍulūhunna
   8:
-    arabic: اَنۡ
+    arabic: أَن
     translation: '[that]'
     transliteration: an
   9:
-    arabic: يَّنۡكِحۡنَ
+    arabic: يَنكِحۡنَ
     translation: (from) marrying
     transliteration: yankiḥ'na
   10:
-    arabic: اَزۡوَاجَهُنَّ
+    arabic: أَزۡوَٰجَهُنَّ
     translation: their husbands
     transliteration: azwājahunna
   11:
-    arabic: اِذَا
+    arabic: إِذَا
     translation: when
     transliteration: idhā
   12:
-    arabic: تَرَاضَوۡا
+    arabic: تَرَٰضَوۡاْ
     translation: they agree
     transliteration: tarāḍaw
   13:
-    arabic: بَيۡنَهُمۡ
+    arabic: بَيۡنَهُم
     translation: between themselves
     transliteration: baynahum
   14:
-    arabic: بِالۡمَعۡرُوۡفِ​ؕ
+    arabic: بِٱلۡمَعۡرُوفِۗ
     translation: in a fair manner
     transliteration: bil-maʿrūfi
   15:
-    arabic: ذٰ لِكَ
+    arabic: ذَٰلِكَ
     translation: That
     transliteration: dhālika
   16:
-    arabic: يُوۡعَظُ
+    arabic: يُوعَظُ
     translation: is admonished
     transliteration: yūʿaẓu
   17:
-    arabic: بِهٖ
+    arabic: بِهِۦ
     translation: with it
     transliteration: bihi
   18:
-    arabic: مَنۡ
+    arabic: مَن
     translation: whoever
     transliteration: man
   19:
@@ -87,7 +86,7 @@ word_by_word:
     translation: '[is]'
     transliteration: kāna
   20:
-    arabic: مِنۡكُمۡ
+    arabic: مِنكُمۡ
     translation: among you
     transliteration: minkum
   21:
@@ -95,35 +94,35 @@ word_by_word:
     translation: believes
     transliteration: yu'minu
   22:
-    arabic: بِاللّٰهِ
+    arabic: بِٱللَّهِ
     translation: in Allah
     transliteration: bil-lahi
   23:
-    arabic: وَالۡيَوۡمِ
+    arabic: وَٱلۡيَوۡمِ
     translation: and the Day
     transliteration: wal-yawmi
   24:
-    arabic: الۡاٰخِرِؕ
+    arabic: ٱلۡأٓخِرِۗ
     translation: '[the] Last'
     transliteration: l-ākhiri
   25:
-    arabic: ذٰ لِكُمۡ
+    arabic: ذَٰلِكُمۡ
     translation: that
     transliteration: dhālikum
   26:
-    arabic: اَزۡکٰى
+    arabic: أَزۡكَىٰ
     translation: (is) more virtuous
     transliteration: azkā
   27:
-    arabic: لَـكُمۡ
+    arabic: لَكُمۡ
     translation: for you
     transliteration: lakum
   28:
-    arabic: وَاَطۡهَرُؕ​
+    arabic: وَأَطۡهَرُۚ
     translation: and more purer
     transliteration: wa-aṭharu
   29:
-    arabic: وَاللّٰهُ
+    arabic: وَٱللَّهُ
     translation: And Allah
     transliteration: wal-lahu
   30:
@@ -131,7 +130,7 @@ word_by_word:
     translation: knows
     transliteration: yaʿlamu
   31:
-    arabic: وَاَنۡـتُمۡ
+    arabic: وَأَنتُمۡ
     translation: and you
     transliteration: wa-antum
   32:
@@ -139,7 +138,7 @@ word_by_word:
     translation: (do) not
     transliteration: lā
   33:
-    arabic: "تَعۡلَمُوۡنَ‏ \uFEFF\uFEFF"
+    arabic: تَعۡلَمُونَ
     translation: know
     transliteration: taʿlamūna
 ---

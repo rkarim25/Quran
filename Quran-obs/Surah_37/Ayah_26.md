@@ -1,5 +1,5 @@
 ---
-arabic_ayat: بَلۡ هُمُ الۡيَوۡمَ مُسۡتَسۡلِمُوۡنَ‏
+arabic_ayat: بَلۡ هُمُ ٱلۡيَوۡمَ مُسۡتَسۡلِمُونَ
 sentence_translation: In fact, on that Day they will be ˹fully˺ submissive.
 word_by_word:
   1:
@@ -11,11 +11,11 @@ word_by_word:
     translation: they
     transliteration: humu
   3:
-    arabic: الۡيَوۡمَ
+    arabic: ٱلۡيَوۡمَ
     translation: (on) that Day
     transliteration: l-yawma
   4:
-    arabic: مُسۡتَسۡلِمُوۡنَ‏
+    arabic: مُسۡتَسۡلِمُونَ
     translation: (will) surrender
     transliteration: mus'taslimūna
 ---

@@ -1,21 +1,21 @@
 ---
-arabic_ayat: اَلَّا تَتَّبِعَنِ​ؕ اَفَعَصَيۡتَ اَمۡرِىْ‏
+arabic_ayat: أَلَّا تَتَّبِعَنِۖ أَفَعَصَيۡتَ أَمۡرِي
 sentence_translation: from following after me? How could you disobey my orders?”
 word_by_word:
   1:
-    arabic: اَلَّا
+    arabic: أَلَّا
     translation: That not
     transliteration: allā
   2:
-    arabic: تَتَّبِعَنِ​ؕ
+    arabic: تَتَّبِعَنِۖ
     translation: you follow me
     transliteration: tattabiʿani
   3:
-    arabic: اَفَعَصَيۡتَ
+    arabic: أَفَعَصَيۡتَ
     translation: Then, have you disobeyed
     transliteration: afaʿaṣayta
   4:
-    arabic: اَمۡرِىْ‏
+    arabic: أَمۡرِي
     translation: my order
     transliteration: amrī
 ---

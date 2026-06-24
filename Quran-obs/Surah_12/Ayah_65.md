@@ -1,8 +1,7 @@
 ---
-arabic_ayat: "وَلَمَّا فَتَحُوۡا مَتَاعَهُمۡ وَجَدُوۡا بِضَاعَتَهُمۡ رُدَّتۡ اِلَيۡهِمۡؕ\
-  \ قَالُوۡا يٰۤاَبَانَا مَا نَـبۡغِىۡؕ هٰذِهٖ بِضَاعَتُنَا رُدَّتۡ اِلَيۡنَا​ ۚ وَنَمِيۡرُ\
-  \ اَهۡلَنَا وَنَحۡفَظُ اَخَانَا وَنَزۡدَادُ كَيۡلَ بَعِيۡرٍ​ؕ ذٰ لِكَ كَيۡلٌ يَّسِيۡرٌ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: وَلَمَّا فَتَحُواْ مَتَٰعَهُمۡ وَجَدُواْ بِضَٰعَتَهُمۡ رُدَّتۡ إِلَيۡهِمۡۖ
+  قَالُواْ يَٰٓأَبَانَا مَا نَبۡغِيۖ هَٰذِهِۦ بِضَٰعَتُنَا رُدَّتۡ إِلَيۡنَاۖ وَنَمِيرُ
+  أَهۡلَنَا وَنَحۡفَظُ أَخَانَا وَنَزۡدَادُ كَيۡلَ بَعِيرٖۖ ذَٰلِكَ كَيۡلٞ يَسِيرٞ
 sentence_translation: When they opened their bags, they discovered that their money
   had been returned to them. They argued, “O our father! What more can we ask for?
   Here is our money, fully returned to us. Now we can buy more food for our family.
@@ -14,19 +13,19 @@ word_by_word:
     translation: And when
     transliteration: walammā
   2:
-    arabic: فَتَحُوۡا
+    arabic: فَتَحُواْ
     translation: they opened
     transliteration: fataḥū
   3:
-    arabic: مَتَاعَهُمۡ
+    arabic: مَتَٰعَهُمۡ
     translation: their baggage
     transliteration: matāʿahum
   4:
-    arabic: وَجَدُوۡا
+    arabic: وَجَدُواْ
     translation: they found
     transliteration: wajadū
   5:
-    arabic: بِضَاعَتَهُمۡ
+    arabic: بِضَٰعَتَهُمۡ
     translation: their merchandise
     transliteration: biḍāʿatahum
   6:
@@ -34,15 +33,15 @@ word_by_word:
     translation: returned
     transliteration: ruddat
   7:
-    arabic: اِلَيۡهِمۡؕ
+    arabic: إِلَيۡهِمۡۖ
     translation: to them
     transliteration: ilayhim
   8:
-    arabic: قَالُوۡا
+    arabic: قَالُواْ
     translation: They said
     transliteration: qālū
   9:
-    arabic: يٰۤاَبَانَا
+    arabic: يَٰٓأَبَانَا
     translation: O our father
     transliteration: yāabānā
   10:
@@ -50,15 +49,15 @@ word_by_word:
     translation: What
     transliteration: mā
   11:
-    arabic: نَـبۡغِىۡؕ
+    arabic: نَبۡغِيۖ
     translation: (could) we desire
     transliteration: nabghī
   12:
-    arabic: هٰذِهٖ
+    arabic: هَٰذِهِۦ
     translation: This
     transliteration: hādhihi
   13:
-    arabic: بِضَاعَتُنَا
+    arabic: بِضَٰعَتُنَا
     translation: (is) our merchandise
     transliteration: biḍāʿatunā
   14:
@@ -66,15 +65,15 @@ word_by_word:
     translation: returned
     transliteration: ruddat
   15:
-    arabic: اِلَيۡنَا​ ۚ
+    arabic: إِلَيۡنَاۖ
     translation: to us
     transliteration: ilaynā
   16:
-    arabic: وَنَمِيۡرُ
+    arabic: وَنَمِيرُ
     translation: And we will get provision
     transliteration: wanamīru
   17:
-    arabic: اَهۡلَنَا
+    arabic: أَهۡلَنَا
     translation: (for) our family
     transliteration: ahlanā
   18:
@@ -82,7 +81,7 @@ word_by_word:
     translation: and we will protect
     transliteration: wanaḥfaẓu
   19:
-    arabic: اَخَانَا
+    arabic: أَخَانَا
     translation: our brother
     transliteration: akhānā
   20:
@@ -94,19 +93,19 @@ word_by_word:
     translation: measure
     transliteration: kayla
   22:
-    arabic: بَعِيۡرٍ​ؕ
+    arabic: بَعِيرٖۖ
     translation: (of) a camel's (load)
     transliteration: baʿīrin
   23:
-    arabic: ذٰ لِكَ
+    arabic: ذَٰلِكَ
     translation: That
     transliteration: dhālika
   24:
-    arabic: كَيۡلٌ
+    arabic: كَيۡلٞ
     translation: (is) a measurement
     transliteration: kaylun
   25:
-    arabic: "يَّسِيۡرٌ‏ \uFEFF\uFEFF"
+    arabic: يَسِيرٞ
     translation: easy
     transliteration: yasīrun
 ---

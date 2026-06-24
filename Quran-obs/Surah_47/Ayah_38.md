@@ -1,8 +1,8 @@
 ---
-arabic_ayat: هٰۤاَنۡـتُمۡ هٰٓؤُلَاۤءِ تُدۡعَوۡنَ لِتُنۡفِقُوۡا فِىۡ سَبِيۡلِ اللّٰهِ
-  ​ۚ فَمِنۡكُمۡ مَّنۡ يَّبۡخَلُ ​ ۚ وَمَنۡ يَّبۡخَلۡ فَاِنَّمَا يَبۡخَلُ عَنۡ نَّـفۡسِهٖ​
-  ؕ وَاللّٰهُ الۡغَنِىُّ وَاَنۡـتُمُ الۡفُقَرَآءُ ​ۚ وَاِنۡ تَتَوَلَّوۡا يَسۡتَـبۡدِلۡ
-  قَوۡمًا غَيۡرَكُمۡ ۙ ثُمَّ لَا يَكُوۡنُوۡۤا اَمۡثَالَـكُم‏
+arabic_ayat: هَٰٓأَنتُمۡ هَٰٓؤُلَآءِ تُدۡعَوۡنَ لِتُنفِقُواْ فِي سَبِيلِ ٱللَّهِ
+  فَمِنكُم مَّن يَبۡخَلُۖ وَمَن يَبۡخَلۡ فَإِنَّمَا يَبۡخَلُ عَن نَّفۡسِهِۦۚ وَٱللَّهُ
+  ٱلۡغَنِيُّ وَأَنتُمُ ٱلۡفُقَرَآءُۚ وَإِن تَتَوَلَّوۡاْ يَسۡتَبۡدِلۡ قَوۡمًا غَيۡرَكُمۡ
+  ثُمَّ لَا يَكُونُوٓاْ أَمۡثَٰلَكُم
 sentence_translation: Here you are, being invited to donate ˹a little˺ in the cause
   of Allah. Still some of you withhold. And whoever does so, it is only to their own
   loss. For Allah is the Self-Sufficient, whereas you stand in need ˹of Him˺. If you
@@ -10,11 +10,11 @@ sentence_translation: Here you are, being invited to donate ˹a little˺ in the 
   like you.
 word_by_word:
   1:
-    arabic: هٰۤاَنۡـتُمۡ
+    arabic: هَٰٓأَنتُمۡ
     translation: 'Here you are '
     transliteration: hāantum
   2:
-    arabic: هٰٓؤُلَاۤءِ
+    arabic: هَٰٓؤُلَآءِ
     translation: these
     transliteration: hāulāi
   3:
@@ -22,43 +22,43 @@ word_by_word:
     translation: called
     transliteration: tud'ʿawna
   4:
-    arabic: لِتُنۡفِقُوۡا
+    arabic: لِتُنفِقُواْ
     translation: to spend
     transliteration: litunfiqū
   5:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   6:
-    arabic: سَبِيۡلِ
+    arabic: سَبِيلِ
     translation: (the) way
     transliteration: sabīli
   7:
-    arabic: اللّٰهِ ​ۚ
+    arabic: ٱللَّهِ
     translation: '(of) Allah '
     transliteration: l-lahi
   8:
-    arabic: فَمِنۡكُمۡ
+    arabic: فَمِنكُم
     translation: but among you
     transliteration: faminkum
   9:
-    arabic: مَّنۡ
+    arabic: مَّن
     translation: (are some) who
     transliteration: man
   10:
-    arabic: يَّبۡخَلُ ​ ۚ
+    arabic: يَبۡخَلُۖ
     translation: withhold
     transliteration: yabkhalu
   11:
-    arabic: وَمَنۡ
+    arabic: وَمَن
     translation: and whoever
     transliteration: waman
   12:
-    arabic: يَّبۡخَلۡ
+    arabic: يَبۡخَلۡ
     translation: withholds
     transliteration: yabkhal
   13:
-    arabic: فَاِنَّمَا
+    arabic: فَإِنَّمَا
     translation: then only
     transliteration: fa-innamā
   14:
@@ -66,39 +66,39 @@ word_by_word:
     translation: he withholds
     transliteration: yabkhalu
   15:
-    arabic: عَنۡ
+    arabic: عَن
     translation: from
     transliteration: ʿan
   16:
-    arabic: نَّـفۡسِهٖ​ ؕ
+    arabic: نَّفۡسِهِۦۚ
     translation: himself
     transliteration: nafsihi
   17:
-    arabic: وَاللّٰهُ
+    arabic: وَٱللَّهُ
     translation: But Allah
     transliteration: wal-lahu
   18:
-    arabic: الۡغَنِىُّ
+    arabic: ٱلۡغَنِيُّ
     translation: (is) Free of need
     transliteration: l-ghaniyu
   19:
-    arabic: وَاَنۡـتُمُ
+    arabic: وَأَنتُمُ
     translation: while you
     transliteration: wa-antumu
   20:
-    arabic: الۡفُقَرَآءُ ​ۚ
+    arabic: ٱلۡفُقَرَآءُۚ
     translation: (are) the needy
     transliteration: l-fuqarāu
   21:
-    arabic: وَاِنۡ
+    arabic: وَإِن
     translation: And if
     transliteration: wa-in
   22:
-    arabic: تَتَوَلَّوۡا
+    arabic: تَتَوَلَّوۡاْ
     translation: you turn away
     transliteration: tatawallaw
   23:
-    arabic: يَسۡتَـبۡدِلۡ
+    arabic: يَسۡتَبۡدِلۡ
     translation: He will replace you
     transliteration: yastabdil
   24:
@@ -106,7 +106,7 @@ word_by_word:
     translation: (with) a people
     transliteration: qawman
   25:
-    arabic: غَيۡرَكُمۡ ۙ
+    arabic: غَيۡرَكُمۡ
     translation: other than you
     transliteration: ghayrakum
   26:
@@ -118,11 +118,11 @@ word_by_word:
     translation: not
     transliteration: lā
   28:
-    arabic: يَكُوۡنُوۡۤا
+    arabic: يَكُونُوٓاْ
     translation: they will be
     transliteration: yakūnū
   29:
-    arabic: اَمۡثَالَـكُم‏
+    arabic: أَمۡثَٰلَكُم
     translation: (the) likes of you
     transliteration: amthālakum
 ---

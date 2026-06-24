@@ -1,5 +1,5 @@
 ---
-arabic_ayat: قَوۡمَ فِرۡعَوۡنَ​ؕ اَلَا يَتَّقُوۡنَ​‏
+arabic_ayat: قَوۡمَ فِرۡعَوۡنَۚ أَلَا يَتَّقُونَ
 sentence_translation: the people of Pharaoh. Will they not fear ˹Allah˺?”
 word_by_word:
   1:
@@ -7,15 +7,15 @@ word_by_word:
     translation: (The) people
     transliteration: qawma
   2:
-    arabic: فِرۡعَوۡنَ​ؕ
+    arabic: فِرۡعَوۡنَۚ
     translation: (of) Firaun
     transliteration: fir'ʿawna
   3:
-    arabic: اَلَا
+    arabic: أَلَا
     translation: Will not
     transliteration: alā
   4:
-    arabic: يَتَّقُوۡنَ​‏
+    arabic: يَتَّقُونَ
     translation: they fear
     transliteration: yattaqūna
 ---

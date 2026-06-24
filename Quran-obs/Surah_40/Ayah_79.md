@@ -1,15 +1,15 @@
 ---
-arabic_ayat: اَللّٰهُ الَّذِىۡ جَعَلَ لَكُمُ الۡاَنۡعَامَ لِتَرۡكَبُوۡا مِنۡهَا وَمِنۡهَا
-  تَاۡكُلُوۡنَ‏
+arabic_ayat: ٱللَّهُ ٱلَّذِي جَعَلَ لَكُمُ ٱلۡأَنۡعَٰمَ لِتَرۡكَبُواْ مِنۡهَا وَمِنۡهَا
+  تَأۡكُلُونَ
 sentence_translation: It is Allah Who made cattle for you so that you may ride some
   and eat others.
 word_by_word:
   1:
-    arabic: اَللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: al-lahu
   2:
-    arabic: الَّذِىۡ
+    arabic: ٱلَّذِي
     translation: (is) the One Who
     transliteration: alladhī
   3:
@@ -21,11 +21,11 @@ word_by_word:
     translation: for you
     transliteration: lakumu
   5:
-    arabic: الۡاَنۡعَامَ
+    arabic: ٱلۡأَنۡعَٰمَ
     translation: the cattle
     transliteration: l-anʿāma
   6:
-    arabic: لِتَرۡكَبُوۡا
+    arabic: لِتَرۡكَبُواْ
     translation: that you may ride
     transliteration: litarkabū
   7:
@@ -37,7 +37,7 @@ word_by_word:
     translation: and some of them
     transliteration: wamin'hā
   9:
-    arabic: تَاۡكُلُوۡنَ‏
+    arabic: تَأۡكُلُونَ
     translation: you eat
     transliteration: takulūna
 ---

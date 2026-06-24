@@ -1,14 +1,14 @@
 ---
-arabic_ayat: وَكُلُّهُمۡ اٰتِيۡهِ يَوۡمَ الۡقِيٰمَةِ فَرۡدًا‏
+arabic_ayat: وَكُلُّهُمۡ ءَاتِيهِ يَوۡمَ ٱلۡقِيَٰمَةِ فَرۡدًا
 sentence_translation: And each of them will return to Him on the Day of Judgment all
   alone.
 word_by_word:
   1:
-    arabic: وَكُلُّهُمۡ
+    arabic: وَكُلُّهُمۡ ءَ
     translation: And all of them
     transliteration: wakulluhum
   2:
-    arabic: اٰتِيۡهِ
+    arabic: اتِيهِ
     translation: (will) come (to) Him
     transliteration: ātīhi
   3:
@@ -16,11 +16,11 @@ word_by_word:
     translation: (on the) Day
     transliteration: yawma
   4:
-    arabic: الۡقِيٰمَةِ
+    arabic: ٱلۡقِيَٰمَةِ
     translation: (of) the Resurrection
     transliteration: l-qiyāmati
   5:
-    arabic: فَرۡدًا‏
+    arabic: فَرۡدًا
     translation: alone
     transliteration: fardan
 ---

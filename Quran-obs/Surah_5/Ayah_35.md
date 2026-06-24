@@ -1,59 +1,59 @@
 ---
-arabic_ayat: يٰۤاَيُّهَا الَّذِيۡنَ اٰمَنُوا اتَّقُوا اللّٰهَ وَابۡتَغُوۡۤا اِلَيۡهِ
-  الۡوَسِيۡلَةَ وَجَاهِدُوۡا فِىۡ سَبِيۡلِهٖ لَعَلَّـكُمۡ تُفۡلِحُوۡنَ‏
+arabic_ayat: يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُواْ ٱتَّقُواْ ٱللَّهَ وَٱبۡتَغُوٓاْ إِلَيۡهِ
+  ٱلۡوَسِيلَةَ وَجَٰهِدُواْ فِي سَبِيلِهِۦ لَعَلَّكُمۡ تُفۡلِحُونَ
 sentence_translation: O believers! Be mindful of Allah and seek what brings you closer
   to Him and struggle in His Way, so you may be successful.
 word_by_word:
   1:
-    arabic: يٰۤاَيُّهَا
+    arabic: يَٰٓأَيُّهَا
     translation: O you
     transliteration: yāayyuhā
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ ءَ
     translation: who
     transliteration: alladhīna
   3:
-    arabic: اٰمَنُوا
+    arabic: امَنُواْ
     translation: believe
     transliteration: āmanū
   4:
-    arabic: اتَّقُوا
+    arabic: ٱتَّقُواْ
     translation: Fear
     transliteration: ittaqū
   5:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   6:
-    arabic: وَابۡتَغُوۡۤا
+    arabic: وَٱبۡتَغُوٓاْ
     translation: and seek
     transliteration: wa-ib'taghū
   7:
-    arabic: اِلَيۡهِ
+    arabic: إِلَيۡهِ
     translation: towards Him
     transliteration: ilayhi
   8:
-    arabic: الۡوَسِيۡلَةَ
+    arabic: ٱلۡوَسِيلَةَ
     translation: the means
     transliteration: l-wasīlata
   9:
-    arabic: وَجَاهِدُوۡا
+    arabic: وَجَٰهِدُواْ
     translation: and strive hard
     transliteration: wajāhidū
   10:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   11:
-    arabic: سَبِيۡلِهٖ
+    arabic: سَبِيلِهِۦ
     translation: His way
     transliteration: sabīlihi
   12:
-    arabic: لَعَلَّـكُمۡ
+    arabic: لَعَلَّكُمۡ
     translation: so that you may
     transliteration: laʿallakum
   13:
-    arabic: تُفۡلِحُوۡنَ‏
+    arabic: تُفۡلِحُونَ
     translation: succeed
     transliteration: tuf'liḥūna
 ---

@@ -1,25 +1,25 @@
 ---
-arabic_ayat: وَاِنۡ اَرَدتُّمُ اسۡتِبۡدَالَ زَوۡجٍ مَّكَانَ زَوۡجٍ ۙ وَّاٰتَيۡتُمۡ
-  اِحۡدٰٮهُنَّ قِنۡطَارًا فَلَا تَاۡخُذُوۡا مِنۡهُ شَيۡـــًٔا​ ؕ اَ تَاۡخُذُوۡنَهٗ
-  بُهۡتَانًا وَّاِثۡمًا مُّبِيۡنًا‏
+arabic_ayat: وَإِنۡ أَرَدتُّمُ ٱسۡتِبۡدَالَ زَوۡجٖ مَّكَانَ زَوۡجٖ وَءَاتَيۡتُمۡ إِحۡدَىٰهُنَّ
+  قِنطَارٗا فَلَا تَأۡخُذُواْ مِنۡهُ شَيۡـًٔاۚ أَتَأۡخُذُونَهُۥ بُهۡتَٰنٗا وَإِثۡمٗا
+  مُّبِينٗا
 sentence_translation: If you desire to replace a wife with another and you have given
   the former ˹even˺ a stack of gold ˹as a dowry˺, do not take any of it back. Would
   you ˹still˺ take it unjustly and very sinfully?
 word_by_word:
   1:
-    arabic: وَاِنۡ
+    arabic: وَإِنۡ
     translation: And if
     transliteration: wa-in
   2:
-    arabic: اَرَدتُّمُ
+    arabic: أَرَدتُّمُ
     translation: you intend
     transliteration: aradttumu
   3:
-    arabic: اسۡتِبۡدَالَ
+    arabic: ٱسۡتِبۡدَالَ
     translation: replacing
     transliteration: is'tib'dāla
   4:
-    arabic: زَوۡجٍ
+    arabic: زَوۡجٖ
     translation: a wife
     transliteration: zawjin
   5:
@@ -27,19 +27,19 @@ word_by_word:
     translation: (in) place
     transliteration: makāna
   6:
-    arabic: زَوۡجٍ ۙ
+    arabic: زَوۡجٖ
     translation: (of) a wife
     transliteration: zawjin
   7:
-    arabic: وَّاٰتَيۡتُمۡ
+    arabic: وَءَاتَيۡتُمۡ
     translation: and you have given
     transliteration: waātaytum
   8:
-    arabic: اِحۡدٰٮهُنَّ
+    arabic: إِحۡدَىٰهُنَّ
     translation: one of them
     transliteration: iḥ'dāhunna
   9:
-    arabic: قِنۡطَارًا
+    arabic: قِنطَارٗا
     translation: heap (of gold)
     transliteration: qinṭāran
   10:
@@ -47,7 +47,7 @@ word_by_word:
     translation: then (do) not
     transliteration: falā
   11:
-    arabic: تَاۡخُذُوۡا
+    arabic: تَأۡخُذُواْ
     translation: take away
     transliteration: takhudhū
   12:
@@ -55,23 +55,23 @@ word_by_word:
     translation: from it
     transliteration: min'hu
   13:
-    arabic: شَيۡـــًٔا​ ؕ
+    arabic: شَيۡـًٔاۚ
     translation: anything
     transliteration: shayan
   14:
-    arabic: اَ تَاۡخُذُوۡنَهٗ
+    arabic: أَتَأۡخُذُونَهُۥ
     translation: Would you take it
     transliteration: atakhudhūnahu
   15:
-    arabic: بُهۡتَانًا
+    arabic: بُهۡتَٰنٗا
     translation: (by) slander
     transliteration: buh'tānan
   16:
-    arabic: وَّاِثۡمًا
+    arabic: وَإِثۡمٗا
     translation: and a sin
     transliteration: wa-ith'man
   17:
-    arabic: مُّبِيۡنًا‏
+    arabic: مُّبِينٗا
     translation: open
     transliteration: mubīnan
 ---

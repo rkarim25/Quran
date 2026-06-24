@@ -1,21 +1,21 @@
 ---
-arabic_ayat: وَقِيۡلَ يٰۤاَرۡضُ ابۡلَعِىۡ مَآءَكِ وَيٰسَمَآءُ اَقۡلِعِىۡ وَغِيۡضَ
-  الۡمَآءُ وَقُضِىَ الۡاَمۡرُ وَاسۡتَوَتۡ عَلَى الۡجُوۡدِىِّ​ وَقِيۡلَ بُعۡدًا لِّـلۡقَوۡمِ
-  الظّٰلِمِيۡنَ‏
+arabic_ayat: وَقِيلَ يَٰٓأَرۡضُ ٱبۡلَعِي مَآءَكِ وَيَٰسَمَآءُ أَقۡلِعِي وَغِيضَ
+  ٱلۡمَآءُ وَقُضِيَ ٱلۡأَمۡرُ وَٱسۡتَوَتۡ عَلَى ٱلۡجُودِيِّۖ وَقِيلَ بُعۡدٗا لِّلۡقَوۡمِ
+  ٱلظَّٰلِمِينَ
 sentence_translation: And it was said, “O earth! Swallow up your water. And O  sky!
   Withhold ˹your rain˺.” The floodwater receded and the decree was carried out. The
   Ark rested on Mount Judi, and it was said, “Away with the wrongdoing people!”
 word_by_word:
   1:
-    arabic: وَقِيۡلَ
+    arabic: وَقِيلَ
     translation: And it was said
     transliteration: waqīla
   2:
-    arabic: يٰۤاَرۡضُ
+    arabic: يَٰٓأَرۡضُ
     translation: O earth
     transliteration: yāarḍu
   3:
-    arabic: ابۡلَعِىۡ
+    arabic: ٱبۡلَعِي
     translation: Swallow
     transliteration: ib'laʿī
   4:
@@ -23,31 +23,31 @@ word_by_word:
     translation: your water
     transliteration: māaki
   5:
-    arabic: وَيٰسَمَآءُ
+    arabic: وَيَٰسَمَآءُ
     translation: and O sky
     transliteration: wayāsamāu
   6:
-    arabic: اَقۡلِعِىۡ
+    arabic: أَقۡلِعِي
     translation: Withhold
     transliteration: aqliʿī
   7:
-    arabic: وَغِيۡضَ
+    arabic: وَغِيضَ
     translation: And subsided
     transliteration: waghīḍa
   8:
-    arabic: الۡمَآءُ
+    arabic: ٱلۡمَآءُ
     translation: the water
     transliteration: l-māu
   9:
-    arabic: وَقُضِىَ
+    arabic: وَقُضِيَ
     translation: and was fulfilled
     transliteration: waquḍiya
   10:
-    arabic: الۡاَمۡرُ
+    arabic: ٱلۡأَمۡرُ
     translation: the Command
     transliteration: l-amru
   11:
-    arabic: وَاسۡتَوَتۡ
+    arabic: وَٱسۡتَوَتۡ
     translation: And it rested
     transliteration: wa-is'tawat
   12:
@@ -55,23 +55,23 @@ word_by_word:
     translation: 'on'
     transliteration: ʿalā
   13:
-    arabic: الۡجُوۡدِىِّ​
+    arabic: ٱلۡجُودِيِّۖ
     translation: the Judi
     transliteration: l-jūdiyi
   14:
-    arabic: وَقِيۡلَ
+    arabic: وَقِيلَ
     translation: And it was said
     transliteration: waqīla
   15:
-    arabic: بُعۡدًا
+    arabic: بُعۡدٗا
     translation: Away
     transliteration: buʿ'dan
   16:
-    arabic: لِّـلۡقَوۡمِ
+    arabic: لِّلۡقَوۡمِ
     translation: with the people
     transliteration: lil'qawmi
   17:
-    arabic: الظّٰلِمِيۡنَ‏
+    arabic: ٱلظَّٰلِمِينَ
     translation: the wrongdoers
     transliteration: l-ẓālimīna
 ---

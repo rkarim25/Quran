@@ -1,9 +1,9 @@
 ---
-arabic_ayat: يَسۡــَٔـلُكَ اَهۡلُ الۡـكِتٰبِ اَنۡ تُنَزِّلَ عَلَيۡهِمۡ كِتٰبًا مِّنَ
-  السَّمَآءِ​ فَقَدۡ سَاَ لُوۡا مُوۡسٰٓى اَكۡبَرَ مِنۡ ذٰ لِكَ فَقَالُوۡۤا اَرِنَا
-  اللّٰهَ جَهۡرَةً فَاَخَذَتۡهُمُ الصّٰعِقَةُ بِظُلۡمِهِمۡ​​ ۚ ثُمَّ اتَّخَذُوا الۡعِجۡلَ
-  مِنۡۢ بَعۡدِ مَا جَآءَتۡهُمُ الۡبَيِّنٰتُ فَعَفَوۡنَا عَنۡ ذٰ لِكَ​​​​ ۚ وَاٰتَيۡنَا
-  مُوۡسٰى سُلۡطٰنًا مُّبِيۡنًا‏
+arabic_ayat: يَسۡـَٔلُكَ أَهۡلُ ٱلۡكِتَٰبِ أَن تُنَزِّلَ عَلَيۡهِمۡ كِتَٰبٗا مِّنَ
+  ٱلسَّمَآءِۚ فَقَدۡ سَأَلُواْ مُوسَىٰٓ أَكۡبَرَ مِن ذَٰلِكَ فَقَالُوٓاْ أَرِنَا
+  ٱللَّهَ جَهۡرَةٗ فَأَخَذَتۡهُمُ ٱلصَّٰعِقَةُ بِظُلۡمِهِمۡۚ ثُمَّ ٱتَّخَذُواْ ٱلۡعِجۡلَ
+  مِنۢ بَعۡدِ مَا جَآءَتۡهُمُ ٱلۡبَيِّنَٰتُ فَعَفَوۡنَا عَن ذَٰلِكَۚ وَءَاتَيۡنَا
+  مُوسَىٰ سُلۡطَٰنٗا مُّبِينٗا
 sentence_translation: The People of the Book demand that you ˹O Prophet˺ bring down
   for them a revelation in writing from heaven. They demanded what is even greater
   than this from Moses, saying, “Make Allah visible to us!” So a thunderbolt struck
@@ -12,19 +12,19 @@ sentence_translation: The People of the Book demand that you ˹O Prophet˺ bring
   proof.
 word_by_word:
   1:
-    arabic: يَسۡــَٔـلُكَ
+    arabic: يَسۡـَٔلُكَ
     translation: Ask you
     transliteration: yasaluka
   2:
-    arabic: اَهۡلُ
+    arabic: أَهۡلُ
     translation: (the) People
     transliteration: ahlu
   3:
-    arabic: الۡـكِتٰبِ
+    arabic: ٱلۡكِتَٰبِ
     translation: (of) the Book
     transliteration: l-kitābi
   4:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that
     transliteration: an
   5:
@@ -36,7 +36,7 @@ word_by_word:
     translation: to them
     transliteration: ʿalayhim
   7:
-    arabic: كِتٰبًا
+    arabic: كِتَٰبٗا
     translation: a book
     transliteration: kitāban
   8:
@@ -44,7 +44,7 @@ word_by_word:
     translation: from
     transliteration: mina
   9:
-    arabic: السَّمَآءِ​
+    arabic: ٱلسَّمَآءِۚ
     translation: the heaven
     transliteration: l-samāi
   10:
@@ -52,51 +52,51 @@ word_by_word:
     translation: Then indeed
     transliteration: faqad
   11:
-    arabic: سَاَ لُوۡا
+    arabic: سَأَلُواْ
     translation: they (had) asked
     transliteration: sa-alū
   12:
-    arabic: مُوۡسٰٓى
+    arabic: مُوسَىٰٓ
     translation: Musa
     transliteration: mūsā
   13:
-    arabic: اَكۡبَرَ
+    arabic: أَكۡبَرَ
     translation: greater
     transliteration: akbara
   14:
-    arabic: مِنۡ
+    arabic: مِن
     translation: than
     transliteration: min
   15:
-    arabic: ذٰ لِكَ
+    arabic: ذَٰلِكَ
     translation: that
     transliteration: dhālika
   16:
-    arabic: فَقَالُوۡۤا
+    arabic: فَقَالُوٓاْ
     translation: for they said
     transliteration: faqālū
   17:
-    arabic: اَرِنَا
+    arabic: أَرِنَا
     translation: Show us
     transliteration: arinā
   18:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   19:
-    arabic: جَهۡرَةً
+    arabic: جَهۡرَةٗ
     translation: manifestly
     transliteration: jahratan
   20:
-    arabic: فَاَخَذَتۡهُمُ
+    arabic: فَأَخَذَتۡهُمُ
     translation: so struck them
     transliteration: fa-akhadhathumu
   21:
-    arabic: الصّٰعِقَةُ
+    arabic: ٱلصَّٰعِقَةُ
     translation: the thunderbolt
     transliteration: l-ṣāʿiqatu
   22:
-    arabic: بِظُلۡمِهِمۡ​​ ۚ
+    arabic: بِظُلۡمِهِمۡۚ
     translation: for their wrongdoing
     transliteration: biẓul'mihim
   23:
@@ -104,15 +104,15 @@ word_by_word:
     translation: Then
     transliteration: thumma
   24:
-    arabic: اتَّخَذُوا
+    arabic: ٱتَّخَذُواْ
     translation: they took
     transliteration: ittakhadhū
   25:
-    arabic: الۡعِجۡلَ
+    arabic: ٱلۡعِجۡلَ
     translation: the calf (for worship)
     transliteration: l-ʿij'la
   26:
-    arabic: مِنۡۢ
+    arabic: مِنۢ
     translation: from
     transliteration: min
   27:
@@ -128,7 +128,7 @@ word_by_word:
     translation: came to them
     transliteration: jāathumu
   30:
-    arabic: الۡبَيِّنٰتُ
+    arabic: ٱلۡبَيِّنَٰتُ
     translation: the clear proofs
     transliteration: l-bayinātu
   31:
@@ -136,27 +136,27 @@ word_by_word:
     translation: then We forgave them
     transliteration: faʿafawnā
   32:
-    arabic: عَنۡ
+    arabic: عَن
     translation: for
     transliteration: ʿan
   33:
-    arabic: ذٰ لِكَ​​​​ ۚ
+    arabic: ذَٰلِكَۚ
     translation: that
     transliteration: dhālika
   34:
-    arabic: وَاٰتَيۡنَا
+    arabic: وَءَاتَيۡنَا
     translation: And We gave
     transliteration: waātaynā
   35:
-    arabic: مُوۡسٰى
+    arabic: مُوسَىٰ
     translation: Musa
     transliteration: mūsā
   36:
-    arabic: سُلۡطٰنًا
+    arabic: سُلۡطَٰنٗا
     translation: an authority
     transliteration: sul'ṭānan
   37:
-    arabic: مُّبِيۡنًا‏
+    arabic: مُّبِينٗا
     translation: clear
     transliteration: mubīnan
 ---

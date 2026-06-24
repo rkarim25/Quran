@@ -1,25 +1,25 @@
 ---
-arabic_ayat: اِنَّ فِىۡ ذٰ لِكَ لَاٰيَةً​  ؕ وَّمَا كَانَ اَكۡثَرُهُمۡ مُّؤۡمِنِيۡنَ‏
+arabic_ayat: إِنَّ فِي ذَٰلِكَ لَأٓيَةٗۖ وَمَا كَانَ أَكۡثَرُهُم مُّؤۡمِنِينَ
 sentence_translation: Surely in this is a sign. Yet most of them would not believe.
 word_by_word:
   1:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   2:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   3:
-    arabic: ذٰ لِكَ
+    arabic: ذَٰلِكَ
     translation: that
     transliteration: dhālika
   4:
-    arabic: لَاٰيَةً​  ؕ
+    arabic: لَأٓيَةٗۖ
     translation: surely (is) a sign
     transliteration: laāyatan
   5:
-    arabic: وَّمَا
+    arabic: وَمَا
     translation: but not
     transliteration: wamā
   6:
@@ -27,11 +27,11 @@ word_by_word:
     translation: are
     transliteration: kāna
   7:
-    arabic: اَكۡثَرُهُمۡ
+    arabic: أَكۡثَرُهُم
     translation: most of them
     transliteration: aktharuhum
   8:
-    arabic: مُّؤۡمِنِيۡنَ‏
+    arabic: مُّؤۡمِنِينَ
     translation: believers
     transliteration: mu'minīna
 ---

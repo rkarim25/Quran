@@ -1,35 +1,35 @@
 ---
-arabic_ayat: اُولٰٓٮِٕكَ الَّذِيۡنَ اشۡتَرَوُا الضَّلٰلَةَ بِالۡهُدٰى وَالۡعَذَابَ
-  بِالۡمَغۡفِرَةِ​ ۚ فَمَآ اَصۡبَرَهُمۡ عَلَى النَّارِ‏
+arabic_ayat: أُوْلَٰٓئِكَ ٱلَّذِينَ ٱشۡتَرَوُاْ ٱلضَّلَٰلَةَ بِٱلۡهُدَىٰ وَٱلۡعَذَابَ
+  بِٱلۡمَغۡفِرَةِۚ فَمَآ أَصۡبَرَهُمۡ عَلَى ٱلنَّارِ
 sentence_translation: They are the ones who trade guidance for misguidance and forgiveness
   for punishment. How persistent are they in pursuit of the Fire!
 word_by_word:
   1:
-    arabic: اُولٰٓٮِٕكَ
+    arabic: أُوْلَٰٓئِكَ
     translation: Those
     transliteration: ulāika
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: (are) they who
     transliteration: alladhīna
   3:
-    arabic: اشۡتَرَوُا
+    arabic: ٱشۡتَرَوُاْ
     translation: purchase[d]
     transliteration: ish'tarawū
   4:
-    arabic: الضَّلٰلَةَ
+    arabic: ٱلضَّلَٰلَةَ
     translation: '[the] astraying'
     transliteration: l-ḍalālata
   5:
-    arabic: بِالۡهُدٰى
+    arabic: بِٱلۡهُدَىٰ
     translation: for [the] Guidance
     transliteration: bil-hudā
   6:
-    arabic: وَالۡعَذَابَ
+    arabic: وَٱلۡعَذَابَ
     translation: and [the] punishment
     transliteration: wal-ʿadhāba
   7:
-    arabic: بِالۡمَغۡفِرَةِ​ ۚ
+    arabic: بِٱلۡمَغۡفِرَةِۚ
     translation: for [the] forgiveness
     transliteration: bil-maghfirati
   8:
@@ -37,7 +37,7 @@ word_by_word:
     translation: So what (is)
     transliteration: famā
   9:
-    arabic: اَصۡبَرَهُمۡ
+    arabic: أَصۡبَرَهُمۡ
     translation: their endurance
     transliteration: aṣbarahum
   10:
@@ -45,7 +45,7 @@ word_by_word:
     translation: 'on'
     transliteration: ʿalā
   11:
-    arabic: النَّارِ‏
+    arabic: ٱلنَّارِ
     translation: the Fire
     transliteration: l-nāri
 ---

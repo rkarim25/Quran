@@ -1,6 +1,6 @@
 ---
-arabic_ayat: وَلَا تَشۡتَرُوۡا بِعَهۡدِ اللّٰهِ ثَمَنًا قَلِيۡلًا​ ؕ اِنَّمَا عِنۡدَ
-  اللّٰهِ هُوَ خَيۡرٌ لَّـكُمۡ اِنۡ كُنۡتُمۡ تَعۡلَمُوۡنَ‏
+arabic_ayat: وَلَا تَشۡتَرُواْ بِعَهۡدِ ٱللَّهِ ثَمَنٗا قَلِيلًاۚ إِنَّمَا عِندَ ٱللَّهِ
+  هُوَ خَيۡرٞ لَّكُمۡ إِن كُنتُمۡ تَعۡلَمُونَ
 sentence_translation: And do not trade Allah’s covenant for a fleeting gain. What
   is with Allah is certainly far better for you, if only you knew.
 word_by_word:
@@ -9,7 +9,7 @@ word_by_word:
     translation: And (do) not
     transliteration: walā
   2:
-    arabic: تَشۡتَرُوۡا
+    arabic: تَشۡتَرُواْ
     translation: exchange
     transliteration: tashtarū
   3:
@@ -17,27 +17,27 @@ word_by_word:
     translation: the covenant
     transliteration: biʿahdi
   4:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (of) Allah
     transliteration: l-lahi
   5:
-    arabic: ثَمَنًا
+    arabic: ثَمَنٗا
     translation: (for) a price
     transliteration: thamanan
   6:
-    arabic: قَلِيۡلًا​ ؕ
+    arabic: قَلِيلًاۚ
     translation: little
     transliteration: qalīlan
   7:
-    arabic: اِنَّمَا
+    arabic: إِنَّمَا
     translation: Indeed, what
     transliteration: innamā
   8:
-    arabic: عِنۡدَ
+    arabic: عِندَ
     translation: (is) with
     transliteration: ʿinda
   9:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   10:
@@ -45,23 +45,23 @@ word_by_word:
     translation: it
     transliteration: huwa
   11:
-    arabic: خَيۡرٌ
+    arabic: خَيۡرٞ
     translation: (is) better
     transliteration: khayrun
   12:
-    arabic: لَّـكُمۡ
+    arabic: لَّكُمۡ
     translation: for you
     transliteration: lakum
   13:
-    arabic: اِنۡ
+    arabic: إِن
     translation: if
     transliteration: in
   14:
-    arabic: كُنۡتُمۡ
+    arabic: كُنتُمۡ
     translation: you were (to)
     transliteration: kuntum
   15:
-    arabic: تَعۡلَمُوۡنَ‏
+    arabic: تَعۡلَمُونَ
     translation: know
     transliteration: taʿlamūna
 ---

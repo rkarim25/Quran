@@ -1,6 +1,6 @@
 ---
-arabic_ayat: قَالَ لَا تَثۡرِيۡبَ عَلَيۡكُمُ الۡيَوۡمَ​ؕ يَغۡفِرُ اللّٰهُ لَـكُمۡ​
-  وَهُوَ اَرۡحَمُ الرّٰحِمِيۡنَ‏
+arabic_ayat: قَالَ لَا تَثۡرِيبَ عَلَيۡكُمُ ٱلۡيَوۡمَۖ يَغۡفِرُ ٱللَّهُ لَكُمۡۖ وَهُوَ
+  أَرۡحَمُ ٱلرَّٰحِمِينَ
 sentence_translation: Joseph said, “There is no blame on you today. May Allah forgive
   you! He is the Most Merciful of the merciful!
 word_by_word:
@@ -13,7 +13,7 @@ word_by_word:
     translation: 'No'
     transliteration: lā
   3:
-    arabic: تَثۡرِيۡبَ
+    arabic: تَثۡرِيبَ
     translation: blame
     transliteration: tathrība
   4:
@@ -21,7 +21,7 @@ word_by_word:
     translation: upon you
     transliteration: ʿalaykumu
   5:
-    arabic: الۡيَوۡمَ​ؕ
+    arabic: ٱلۡيَوۡمَۖ
     translation: today
     transliteration: l-yawma
   6:
@@ -29,11 +29,11 @@ word_by_word:
     translation: Allah will forgive
     transliteration: yaghfiru
   7:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah will forgive
     transliteration: l-lahu
   8:
-    arabic: لَـكُمۡ​
+    arabic: لَكُمۡۖ
     translation: you
     transliteration: lakum
   9:
@@ -41,11 +41,11 @@ word_by_word:
     translation: and He
     transliteration: wahuwa
   10:
-    arabic: اَرۡحَمُ
+    arabic: أَرۡحَمُ
     translation: (is) the Most Merciful
     transliteration: arḥamu
   11:
-    arabic: الرّٰحِمِيۡنَ‏
+    arabic: ٱلرَّٰحِمِينَ
     translation: (of) those who show mercy
     transliteration: l-rāḥimīna
 ---

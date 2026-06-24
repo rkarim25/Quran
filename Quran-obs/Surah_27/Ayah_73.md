@@ -1,11 +1,11 @@
 ---
-arabic_ayat: "وَاِنَّ رَبَّكَ لَذُوۡ فَضۡلٍ عَلَى النَّاسِ وَلٰكِنَّ اَكۡثَرَهُمۡ\
-  \ لَا يَشۡكُرُوۡنَ‏ \uFEFF\uFEFF"
+arabic_ayat: وَإِنَّ رَبَّكَ لَذُو فَضۡلٍ عَلَى ٱلنَّاسِ وَلَٰكِنَّ أَكۡثَرَهُمۡ لَا
+  يَشۡكُرُونَ
 sentence_translation: Surely your Lord is ever Bountiful to humanity, but most of
   them are ungrateful.
 word_by_word:
   1:
-    arabic: وَاِنَّ
+    arabic: وَإِنَّ
     translation: And indeed
     transliteration: wa-inna
   2:
@@ -13,7 +13,7 @@ word_by_word:
     translation: your Lord
     transliteration: rabbaka
   3:
-    arabic: لَذُوۡ
+    arabic: لَذُو
     translation: (is) full of Bounty
     transliteration: ladhū
   4:
@@ -25,15 +25,15 @@ word_by_word:
     translation: for
     transliteration: ʿalā
   6:
-    arabic: النَّاسِ
+    arabic: ٱلنَّاسِ
     translation: the mankind
     transliteration: l-nāsi
   7:
-    arabic: وَلٰكِنَّ
+    arabic: وَلَٰكِنَّ
     translation: but
     transliteration: walākinna
   8:
-    arabic: اَكۡثَرَهُمۡ
+    arabic: أَكۡثَرَهُمۡ
     translation: most of them
     transliteration: aktharahum
   9:
@@ -41,7 +41,7 @@ word_by_word:
     translation: (are) not
     transliteration: lā
   10:
-    arabic: "يَشۡكُرُوۡنَ‏ \uFEFF\uFEFF"
+    arabic: يَشۡكُرُونَ
     translation: grateful
     transliteration: yashkurūna
 ---

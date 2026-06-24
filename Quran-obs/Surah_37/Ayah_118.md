@@ -1,17 +1,17 @@
 ---
-arabic_ayat: وَهَدَيۡنٰهُمَا الصِّرَاطَ الۡمُسۡتَقِيۡمَ​ۚ‏
+arabic_ayat: وَهَدَيۡنَٰهُمَا ٱلصِّرَٰطَ ٱلۡمُسۡتَقِيمَ
 sentence_translation: and guided them to the Straight Path.
 word_by_word:
   1:
-    arabic: وَهَدَيۡنٰهُمَا
+    arabic: وَهَدَيۡنَٰهُمَا
     translation: And We guided both of them
     transliteration: wahadaynāhumā
   2:
-    arabic: الصِّرَاطَ
+    arabic: ٱلصِّرَٰطَ
     translation: (to) the Path
     transliteration: l-ṣirāṭa
   3:
-    arabic: الۡمُسۡتَقِيۡمَ​ۚ‏
+    arabic: ٱلۡمُسۡتَقِيمَ
     translation: the Straight
     transliteration: l-mus'taqīma
 ---

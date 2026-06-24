@@ -1,21 +1,21 @@
 ---
-arabic_ayat: اَفَرَءَيۡتُمُ الۡمَآءَ الَّذِىۡ تَشۡرَبُوۡنَؕ‏
+arabic_ayat: أَفَرَءَيۡتُمُ ٱلۡمَآءَ ٱلَّذِي تَشۡرَبُونَ
 sentence_translation: Have you considered the water you drink?
 word_by_word:
   1:
-    arabic: اَفَرَءَيۡتُمُ
+    arabic: أَفَرَءَيۡتُمُ
     translation: Do you see
     transliteration: afara-aytumu
   2:
-    arabic: الۡمَآءَ
+    arabic: ٱلۡمَآءَ
     translation: the water
     transliteration: l-māa
   3:
-    arabic: الَّذِىۡ
+    arabic: ٱلَّذِي
     translation: which
     transliteration: alladhī
   4:
-    arabic: تَشۡرَبُوۡنَؕ‏
+    arabic: تَشۡرَبُونَ
     translation: you drink
     transliteration: tashrabūna
 ---

@@ -1,19 +1,19 @@
 ---
-arabic_ayat: جَنّٰتُ عَدۡنٍ يَّدۡخُلُوۡنَهَا يُحَلَّوۡنَ فِيۡهَا مِنۡ اَسَاوِرَ مِنۡ
-  ذَهَبٍ وَّلُـؤۡلُؤًا ۚ وَلِبَاسُهُمۡ فِيۡهَا حَرِيۡرٌ‏
+arabic_ayat: جَنَّٰتُ عَدۡنٖ يَدۡخُلُونَهَا يُحَلَّوۡنَ فِيهَا مِنۡ أَسَاوِرَ مِن
+  ذَهَبٖ وَلُؤۡلُؤٗاۖ وَلِبَاسُهُمۡ فِيهَا حَرِيرٞ
 sentence_translation: They will enter the Gardens of Eternity, where they will be
   adorned with bracelets of gold and pearls, and their clothing will be silk.
 word_by_word:
   1:
-    arabic: جَنّٰتُ
+    arabic: جَنَّٰتُ
     translation: Gardens
     transliteration: jannātu
   2:
-    arabic: عَدۡنٍ
+    arabic: عَدۡنٖ
     translation: (of) Eternity
     transliteration: ʿadnin
   3:
-    arabic: يَّدۡخُلُوۡنَهَا
+    arabic: يَدۡخُلُونَهَا
     translation: they will enter them
     transliteration: yadkhulūnahā
   4:
@@ -21,7 +21,7 @@ word_by_word:
     translation: They will be adorned
     transliteration: yuḥallawna
   5:
-    arabic: فِيۡهَا
+    arabic: فِيهَا
     translation: therein
     transliteration: fīhā
   6:
@@ -29,19 +29,19 @@ word_by_word:
     translation: with
     transliteration: min
   7:
-    arabic: اَسَاوِرَ
+    arabic: أَسَاوِرَ
     translation: bracelets
     transliteration: asāwira
   8:
-    arabic: مِنۡ
+    arabic: مِن
     translation: of
     transliteration: min
   9:
-    arabic: ذَهَبٍ
+    arabic: ذَهَبٖ
     translation: gold
     transliteration: dhahabin
   10:
-    arabic: وَّلُـؤۡلُؤًا ۚ
+    arabic: وَلُؤۡلُؤٗاۖ
     translation: and pearls
     transliteration: walu'lu-an
   11:
@@ -49,11 +49,11 @@ word_by_word:
     translation: and their garments
     transliteration: walibāsuhum
   12:
-    arabic: فِيۡهَا
+    arabic: فِيهَا
     translation: therein
     transliteration: fīhā
   13:
-    arabic: حَرِيۡرٌ‏
+    arabic: حَرِيرٞ
     translation: (will be of) silk
     transliteration: ḥarīrun
 ---

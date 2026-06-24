@@ -1,5 +1,5 @@
 ---
-arabic_ayat: وَلَا الظُّلُمٰتُ وَلَا النُّوۡرُۙ‏
+arabic_ayat: وَلَا ٱلظُّلُمَٰتُ وَلَا ٱلنُّورُ
 sentence_translation: nor are the darkness and the light,
 word_by_word:
   1:
@@ -7,7 +7,7 @@ word_by_word:
     translation: And not
     transliteration: walā
   2:
-    arabic: الظُّلُمٰتُ
+    arabic: ٱلظُّلُمَٰتُ
     translation: the darkness[es]
     transliteration: l-ẓulumātu
   3:
@@ -15,7 +15,7 @@ word_by_word:
     translation: and not
     transliteration: walā
   4:
-    arabic: النُّوۡرُۙ‏
+    arabic: ٱلنُّورُ
     translation: '[the] light'
     transliteration: l-nūru
 ---

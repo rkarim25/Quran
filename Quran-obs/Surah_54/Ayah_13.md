@@ -1,13 +1,13 @@
 ---
-arabic_ayat: وَحَمَلۡنٰهُ عَلٰى ذَاتِ اَلۡوَاحٍ وَّدُسُرٍۙ‏
+arabic_ayat: وَحَمَلۡنَٰهُ عَلَىٰ ذَاتِ أَلۡوَٰحٖ وَدُسُرٖ
 sentence_translation: We carried him on that ˹Ark made˺ of planks and nails,
 word_by_word:
   1:
-    arabic: وَحَمَلۡنٰهُ
+    arabic: وَحَمَلۡنَٰهُ
     translation: And We carried him
     transliteration: waḥamalnāhu
   2:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: 'on'
     transliteration: ʿalā
   3:
@@ -15,11 +15,11 @@ word_by_word:
     translation: (ark) made of planks
     transliteration: dhāti
   4:
-    arabic: اَلۡوَاحٍ
+    arabic: أَلۡوَٰحٖ
     translation: (ark) made of planks
     transliteration: alwāḥin
   5:
-    arabic: وَّدُسُرٍۙ‏
+    arabic: وَدُسُرٖ
     translation: and nails
     transliteration: wadusurin
 ---

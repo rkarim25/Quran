@@ -1,12 +1,12 @@
 ---
-arabic_ayat: قَدۡ يَعۡلَمُ اللّٰهُ الۡمُعَوِّقِيۡنَ مِنۡكُمۡ وَالۡقَآٮِٕلِيۡنَ لِاِخۡوَانِهِمۡ
-  هَلُمَّ اِلَيۡنَا​ ۚ وَلَا يَاۡتُوۡنَ الۡبَاۡسَ اِلَّا قَلِيۡلًا ۙ‏
+arabic_ayat: ۞ قَدۡ يَعۡلَمُ ٱللَّهُ ٱلۡمُعَوِّقِينَ مِنكُمۡ وَٱلۡقَآئِلِينَ لِإِخۡوَٰنِهِمۡ
+  هَلُمَّ إِلَيۡنَاۖ وَلَا يَأۡتُونَ ٱلۡبَأۡسَ إِلَّا قَلِيلًا
 sentence_translation: Allah knows well those among you who discourage ˹others from
   fighting˺, saying ˹secretly˺ to their brothers, “Stay with us,” and who themselves
   hardly take part in fighting.
 word_by_word:
   1:
-    arabic: ۞ قَدۡ
+    arabic: ۞ قَدۡ
     translation: Verily
     transliteration: qad
   2:
@@ -14,23 +14,23 @@ word_by_word:
     translation: Allah knows
     transliteration: yaʿlamu
   3:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah knows
     transliteration: l-lahu
   4:
-    arabic: الۡمُعَوِّقِيۡنَ
+    arabic: ٱلۡمُعَوِّقِينَ
     translation: those who hinder
     transliteration: l-muʿawiqīna
   5:
-    arabic: مِنۡكُمۡ
+    arabic: مِنكُمۡ
     translation: among you
     transliteration: minkum
   6:
-    arabic: وَالۡقَآٮِٕلِيۡنَ
+    arabic: وَٱلۡقَآئِلِينَ
     translation: and those who say
     transliteration: wal-qāilīna
   7:
-    arabic: لِاِخۡوَانِهِمۡ
+    arabic: لِإِخۡوَٰنِهِمۡ
     translation: to their brothers
     transliteration: li-ikh'wānihim
   8:
@@ -38,7 +38,7 @@ word_by_word:
     translation: Come
     transliteration: halumma
   9:
-    arabic: اِلَيۡنَا​ ۚ
+    arabic: إِلَيۡنَاۖ
     translation: to us
     transliteration: ilaynā
   10:
@@ -46,19 +46,19 @@ word_by_word:
     translation: and not
     transliteration: walā
   11:
-    arabic: يَاۡتُوۡنَ
+    arabic: يَأۡتُونَ
     translation: they come
     transliteration: yatūna
   12:
-    arabic: الۡبَاۡسَ
+    arabic: ٱلۡبَأۡسَ
     translation: (to) the battle
     transliteration: l-basa
   13:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   14:
-    arabic: قَلِيۡلًا ۙ‏
+    arabic: قَلِيلًا
     translation: a few
     transliteration: qalīlan
 ---

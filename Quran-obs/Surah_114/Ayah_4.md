@@ -1,9 +1,9 @@
 ---
-arabic_ayat: مِنۡ شَرِّ الۡوَسۡوَاسِ  ۙ الۡخَـنَّاسِ ۙ‏
+arabic_ayat: مِن شَرِّ ٱلۡوَسۡوَاسِ ٱلۡخَنَّاسِ
 sentence_translation: from the evil of the lurking whisperer—
 word_by_word:
   1:
-    arabic: مِنۡ
+    arabic: مِن
     translation: From
     transliteration: min
   2:
@@ -11,11 +11,11 @@ word_by_word:
     translation: (the) evil
     transliteration: sharri
   3:
-    arabic: الۡوَسۡوَاسِ  ۙ
+    arabic: ٱلۡوَسۡوَاسِ
     translation: (of) the whisperer
     transliteration: l-waswāsi
   4:
-    arabic: الۡخَـنَّاسِ ۙ‏
+    arabic: ٱلۡخَنَّاسِ
     translation: the one who withdraws
     transliteration: l-khanāsi
 ---

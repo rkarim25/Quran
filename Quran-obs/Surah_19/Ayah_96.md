@@ -1,27 +1,27 @@
 ---
-arabic_ayat: اِنَّ الَّذِيۡنَ اٰمَنُوۡا وَعَمِلُوا الصّٰلِحٰتِ سَيَجۡعَلُ لَهُمُ الرَّحۡمٰنُ
-  وُدًّا‏
+arabic_ayat: إِنَّ ٱلَّذِينَ ءَامَنُواْ وَعَمِلُواْ ٱلصَّٰلِحَٰتِ سَيَجۡعَلُ لَهُمُ
+  ٱلرَّحۡمَٰنُ وُدّٗا
 sentence_translation: As for those who believe and do good, the Most Compassionate
   will ˹certainly˺ bless them with ˹genuine˺ love.
 word_by_word:
   1:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ ءَ
     translation: those who
     transliteration: alladhīna
   3:
-    arabic: اٰمَنُوۡا
+    arabic: امَنُواْ
     translation: believed
     transliteration: āmanū
   4:
-    arabic: وَعَمِلُوا
+    arabic: وَعَمِلُواْ
     translation: and did
     transliteration: waʿamilū
   5:
-    arabic: الصّٰلِحٰتِ
+    arabic: ٱلصَّٰلِحَٰتِ
     translation: good deeds
     transliteration: l-ṣāliḥāti
   6:
@@ -33,11 +33,11 @@ word_by_word:
     translation: for them
     transliteration: lahumu
   8:
-    arabic: الرَّحۡمٰنُ
+    arabic: ٱلرَّحۡمَٰنُ
     translation: the Most Gracious
     transliteration: l-raḥmānu
   9:
-    arabic: وُدًّا‏
+    arabic: وُدّٗا
     translation: affection
     transliteration: wuddan
 ---

@@ -1,10 +1,10 @@
 ---
-arabic_ayat: فَسَلٰمٌ لَّكَ مِنۡ اَصۡحٰبِ الۡيَمِيۡنِؕ‏
+arabic_ayat: فَسَلَٰمٞ لَّكَ مِنۡ أَصۡحَٰبِ ٱلۡيَمِينِ
 sentence_translation: then ˹they will be told,˺ “Greetings to you from the people
   of the right.”
 word_by_word:
   1:
-    arabic: فَسَلٰمٌ
+    arabic: فَسَلَٰمٞ
     translation: Then, peace
     transliteration: fasalāmun
   2:
@@ -16,11 +16,11 @@ word_by_word:
     translation: '[from]'
     transliteration: min
   4:
-    arabic: اَصۡحٰبِ
+    arabic: أَصۡحَٰبِ
     translation: (the) companions
     transliteration: aṣḥābi
   5:
-    arabic: الۡيَمِيۡنِؕ‏
+    arabic: ٱلۡيَمِينِ
     translation: (of) the right
     transliteration: l-yamīni
 ---

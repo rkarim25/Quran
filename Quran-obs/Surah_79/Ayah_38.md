@@ -1,17 +1,17 @@
 ---
-arabic_ayat: وَاٰثَرَ الۡحَيٰوةَ الدُّنۡيَا ۙ‏
+arabic_ayat: وَءَاثَرَ ٱلۡحَيَوٰةَ ٱلدُّنۡيَا
 sentence_translation: and preferred the ˹fleeting˺ life of this world,
 word_by_word:
   1:
-    arabic: وَاٰثَرَ
+    arabic: وَءَاثَرَ
     translation: And preferred
     transliteration: waāthara
   2:
-    arabic: الۡحَيٰوةَ
+    arabic: ٱلۡحَيَوٰةَ
     translation: the life
     transliteration: l-ḥayata
   3:
-    arabic: الدُّنۡيَا ۙ‏
+    arabic: ٱلدُّنۡيَا
     translation: (of) the world
     transliteration: l-dun'yā
 ---

@@ -1,6 +1,6 @@
 ---
-arabic_ayat: فَلَا تَهِنُوۡا وَتَدۡعُوۡۤا اِلَى السَّلۡمِ​ۖ وَاَنۡـتُمُ الۡاَعۡلَوۡنَ​ۖ
-  وَاللّٰهُ مَعَكُمۡ وَلَنۡ يَّتِـرَكُمۡ اَعۡمَالَـكُمۡ‏
+arabic_ayat: فَلَا تَهِنُواْ وَتَدۡعُوٓاْ إِلَى ٱلسَّلۡمِ وَأَنتُمُ ٱلۡأَعۡلَوۡنَ
+  وَٱللَّهُ مَعَكُمۡ وَلَن يَتِرَكُمۡ أَعۡمَٰلَكُمۡ
 sentence_translation: So do not falter or cry for peace, for you will have the upper
   hand and Allah is with you. And He will never let your deeds go to waste.
 word_by_word:
@@ -9,31 +9,31 @@ word_by_word:
     translation: So (do) not
     transliteration: falā
   2:
-    arabic: تَهِنُوۡا
+    arabic: تَهِنُواْ
     translation: weaken
     transliteration: tahinū
   3:
-    arabic: وَتَدۡعُوۡۤا
+    arabic: وَتَدۡعُوٓاْ
     translation: and call
     transliteration: watadʿū
   4:
-    arabic: اِلَى
+    arabic: إِلَى
     translation: for
     transliteration: ilā
   5:
-    arabic: السَّلۡمِ​ۖ
+    arabic: ٱلسَّلۡمِ
     translation: peace
     transliteration: l-salmi
   6:
-    arabic: وَاَنۡـتُمُ
+    arabic: وَأَنتُمُ
     translation: while you
     transliteration: wa-antumu
   7:
-    arabic: الۡاَعۡلَوۡنَ​ۖ
+    arabic: ٱلۡأَعۡلَوۡنَ
     translation: (are) superior
     transliteration: l-aʿlawna
   8:
-    arabic: وَاللّٰهُ
+    arabic: وَٱللَّهُ
     translation: and Allah
     transliteration: wal-lahu
   9:
@@ -41,15 +41,15 @@ word_by_word:
     translation: (is) with you
     transliteration: maʿakum
   10:
-    arabic: وَلَنۡ
+    arabic: وَلَن
     translation: and never
     transliteration: walan
   11:
-    arabic: يَّتِـرَكُمۡ
+    arabic: يَتِرَكُمۡ
     translation: will deprive you
     transliteration: yatirakum
   12:
-    arabic: اَعۡمَالَـكُمۡ‏
+    arabic: أَعۡمَٰلَكُمۡ
     translation: (of) your deeds
     transliteration: aʿmālakum
 ---

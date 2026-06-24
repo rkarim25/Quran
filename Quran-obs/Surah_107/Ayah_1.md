@@ -1,13 +1,13 @@
 ---
-arabic_ayat: اَرَءَيۡتَ الَّذِىۡ يُكَذِّبُ بِالدِّيۡنِؕ‏
+arabic_ayat: أَرَءَيۡتَ ٱلَّذِي يُكَذِّبُ بِٱلدِّينِ
 sentence_translation: Have you seen the one who denies the ˹final˺ Judgment?
 word_by_word:
   1:
-    arabic: اَرَءَيۡتَ
+    arabic: أَرَءَيۡتَ
     translation: Have you seen
     transliteration: ara-ayta
   2:
-    arabic: الَّذِىۡ
+    arabic: ٱلَّذِي
     translation: the one who
     transliteration: alladhī
   3:
@@ -15,7 +15,7 @@ word_by_word:
     translation: denies
     transliteration: yukadhibu
   4:
-    arabic: بِالدِّيۡنِؕ‏
+    arabic: بِٱلدِّينِ
     translation: the Judgment
     transliteration: bil-dīni
 ---

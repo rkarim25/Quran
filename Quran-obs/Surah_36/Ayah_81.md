@@ -1,15 +1,15 @@
 ---
-arabic_ayat: اَوَلَيۡسَ الَّذِىۡ خَلَقَ السَّمٰوٰتِ وَالۡاَرۡضَ بِقٰدِرٍ عَلٰٓى اَنۡ
-  يَّخۡلُقَ مِثۡلَهُمۡؕ بَلٰی وَهُوَ الۡخَـلّٰقُ الۡعَلِيۡمُ‏
+arabic_ayat: أَوَلَيۡسَ ٱلَّذِي خَلَقَ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضَ بِقَٰدِرٍ عَلَىٰٓ
+  أَن يَخۡلُقَ مِثۡلَهُمۚ بَلَىٰ وَهُوَ ٱلۡخَلَّٰقُ ٱلۡعَلِيمُ
 sentence_translation: Can the One Who created the heavens and the earth not ˹easily˺
   resurrect these ˹deniers˺?” Yes ˹He can˺! For He is the Master Creator, All-Knowing.
 word_by_word:
   1:
-    arabic: اَوَلَيۡسَ
+    arabic: أَوَلَيۡسَ
     translation: Is it not
     transliteration: awalaysa
   2:
-    arabic: الَّذِىۡ
+    arabic: ٱلَّذِي
     translation: (He) Who
     transliteration: alladhī
   3:
@@ -17,35 +17,35 @@ word_by_word:
     translation: created
     transliteration: khalaqa
   4:
-    arabic: السَّمٰوٰتِ
+    arabic: ٱلسَّمَٰوَٰتِ
     translation: the heavens
     transliteration: l-samāwāti
   5:
-    arabic: وَالۡاَرۡضَ
+    arabic: وَٱلۡأَرۡضَ
     translation: and the earth
     transliteration: wal-arḍa
   6:
-    arabic: بِقٰدِرٍ
+    arabic: بِقَٰدِرٍ
     translation: Able
     transliteration: biqādirin
   7:
-    arabic: عَلٰٓى
+    arabic: عَلَىٰٓ
     translation: to
     transliteration: ʿalā
   8:
-    arabic: اَنۡ
+    arabic: أَن
     translation: '[that]'
     transliteration: an
   9:
-    arabic: يَّخۡلُقَ
+    arabic: يَخۡلُقَ
     translation: create
     transliteration: yakhluqa
   10:
-    arabic: مِثۡلَهُمۡؕ
+    arabic: مِثۡلَهُمۚ
     translation: (the) like of them
     transliteration: mith'lahum
   11:
-    arabic: بَلٰی
+    arabic: بَلَىٰ
     translation: Yes, indeed
     transliteration: balā
   12:
@@ -53,11 +53,11 @@ word_by_word:
     translation: and He
     transliteration: wahuwa
   13:
-    arabic: الۡخَـلّٰقُ
+    arabic: ٱلۡخَلَّٰقُ
     translation: (is) the Supreme Creator
     transliteration: l-khalāqu
   14:
-    arabic: الۡعَلِيۡمُ‏
+    arabic: ٱلۡعَلِيمُ
     translation: the All-Knower
     transliteration: l-ʿalīmu
 ---

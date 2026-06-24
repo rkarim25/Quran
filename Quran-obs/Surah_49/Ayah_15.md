@@ -1,33 +1,33 @@
 ---
-arabic_ayat: اِنَّمَا الۡمُؤۡمِنُوۡنَ الَّذِيۡنَ اٰمَنُوۡا بِاللّٰهِ وَرَسُوۡلِهٖ
-  ثُمَّ لَمۡ يَرۡتَابُوۡا وَجَاهَدُوۡا بِاَمۡوَالِهِمۡ وَاَنۡفُسِهِمۡ فِىۡ سَبِيۡلِ
-  اللّٰهِ​ ؕ اُولٰٓٮِٕكَ هُمُ الصّٰدِقُوۡنَ‏
+arabic_ayat: إِنَّمَا ٱلۡمُؤۡمِنُونَ ٱلَّذِينَ ءَامَنُواْ بِٱللَّهِ وَرَسُولِهِۦ ثُمَّ
+  لَمۡ يَرۡتَابُواْ وَجَٰهَدُواْ بِأَمۡوَٰلِهِمۡ وَأَنفُسِهِمۡ فِي سَبِيلِ ٱللَّهِۚ
+  أُوْلَٰٓئِكَ هُمُ ٱلصَّٰدِقُونَ
 sentence_translation: The ˹true˺ believers are only those who believe in Allah and
   His Messenger—never doubting—and strive with their wealth and their lives in the
   cause of Allah. They are the ones true in faith.
 word_by_word:
   1:
-    arabic: اِنَّمَا
+    arabic: إِنَّمَا
     translation: Only
     transliteration: innamā
   2:
-    arabic: الۡمُؤۡمِنُوۡنَ
+    arabic: ٱلۡمُؤۡمِنُونَ
     translation: the believers
     transliteration: l-mu'minūna
   3:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ ءَ
     translation: (are) those who
     transliteration: alladhīna
   4:
-    arabic: اٰمَنُوۡا
+    arabic: امَنُواْ
     translation: believe
     transliteration: āmanū
   5:
-    arabic: بِاللّٰهِ
+    arabic: بِٱللَّهِ
     translation: in Allah
     transliteration: bil-lahi
   6:
-    arabic: وَرَسُوۡلِهٖ
+    arabic: وَرَسُولِهِۦ
     translation: and His Messenger
     transliteration: warasūlihi
   7:
@@ -39,35 +39,35 @@ word_by_word:
     translation: (do) not
     transliteration: lam
   9:
-    arabic: يَرۡتَابُوۡا
+    arabic: يَرۡتَابُواْ
     translation: doubt
     transliteration: yartābū
   10:
-    arabic: وَجَاهَدُوۡا
+    arabic: وَجَٰهَدُواْ
     translation: but strive
     transliteration: wajāhadū
   11:
-    arabic: بِاَمۡوَالِهِمۡ
+    arabic: بِأَمۡوَٰلِهِمۡ
     translation: with their wealth
     transliteration: bi-amwālihim
   12:
-    arabic: وَاَنۡفُسِهِمۡ
+    arabic: وَأَنفُسِهِمۡ
     translation: and their lives
     transliteration: wa-anfusihim
   13:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   14:
-    arabic: سَبِيۡلِ
+    arabic: سَبِيلِ
     translation: (the) way
     transliteration: sabīli
   15:
-    arabic: اللّٰهِ​ ؕ
+    arabic: ٱللَّهِۚ
     translation: (of) Allah
     transliteration: l-lahi
   16:
-    arabic: اُولٰٓٮِٕكَ
+    arabic: أُوْلَٰٓئِكَ
     translation: Those
     transliteration: ulāika
   17:
@@ -75,7 +75,7 @@ word_by_word:
     translation: '[they]'
     transliteration: humu
   18:
-    arabic: الصّٰدِقُوۡنَ‏
+    arabic: ٱلصَّٰدِقُونَ
     translation: (are) the truthful
     transliteration: l-ṣādiqūna
 ---

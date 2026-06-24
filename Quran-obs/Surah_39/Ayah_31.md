@@ -1,5 +1,5 @@
 ---
-arabic_ayat: ثُمَّ اِنَّكُمۡ يَوۡمَ الۡقِيٰمَةِ عِنۡدَ رَبِّكُمۡ تَخۡتَصِمُوۡنَ‏
+arabic_ayat: ثُمَّ إِنَّكُمۡ يَوۡمَ ٱلۡقِيَٰمَةِ عِندَ رَبِّكُمۡ تَخۡتَصِمُونَ
 sentence_translation: Then on the Day of Judgment you will ˹all settle your˺ dispute
   before your Lord.
 word_by_word:
@@ -8,7 +8,7 @@ word_by_word:
     translation: Then
     transliteration: thumma
   2:
-    arabic: اِنَّكُمۡ
+    arabic: إِنَّكُمۡ
     translation: indeed you
     transliteration: innakum
   3:
@@ -16,11 +16,11 @@ word_by_word:
     translation: (on the) Day
     transliteration: yawma
   4:
-    arabic: الۡقِيٰمَةِ
+    arabic: ٱلۡقِيَٰمَةِ
     translation: (of) the Resurrection
     transliteration: l-qiyāmati
   5:
-    arabic: عِنۡدَ
+    arabic: عِندَ
     translation: before
     transliteration: ʿinda
   6:
@@ -28,7 +28,7 @@ word_by_word:
     translation: your Lord
     transliteration: rabbikum
   7:
-    arabic: تَخۡتَصِمُوۡنَ‏
+    arabic: تَخۡتَصِمُونَ
     translation: will dispute
     transliteration: takhtaṣimūna
 ---

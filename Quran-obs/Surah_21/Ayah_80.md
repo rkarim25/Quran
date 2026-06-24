@@ -1,11 +1,11 @@
 ---
-arabic_ayat: وَعَلَّمۡنٰهُ صَنۡعَةَ لَبُوۡسٍ لَّـكُمۡ لِتُحۡصِنَكُمۡ مِّنۡۢ بَاۡسِكُمۡ​ۚ
-  فَهَلۡ اَنۡـتُمۡ شٰكِرُوۡنَ‏
+arabic_ayat: وَعَلَّمۡنَٰهُ صَنۡعَةَ لَبُوسٖ لَّكُمۡ لِتُحۡصِنَكُم مِّنۢ بَأۡسِكُمۡۖ
+  فَهَلۡ أَنتُمۡ شَٰكِرُونَ
 sentence_translation: We taught him the art of making body armour to protect you in
   battle. Will you then be grateful?
 word_by_word:
   1:
-    arabic: وَعَلَّمۡنٰهُ
+    arabic: وَعَلَّمۡنَٰهُ
     translation: And We taught him
     transliteration: waʿallamnāhu
   2:
@@ -13,23 +13,23 @@ word_by_word:
     translation: (the) making
     transliteration: ṣanʿata
   3:
-    arabic: لَبُوۡسٍ
+    arabic: لَبُوسٖ
     translation: (of) coats of armor
     transliteration: labūsin
   4:
-    arabic: لَّـكُمۡ
+    arabic: لَّكُمۡ
     translation: for you
     transliteration: lakum
   5:
-    arabic: لِتُحۡصِنَكُمۡ
+    arabic: لِتُحۡصِنَكُم
     translation: to protect you
     transliteration: lituḥ'ṣinakum
   6:
-    arabic: مِّنۡۢ
+    arabic: مِّنۢ
     translation: from
     transliteration: min
   7:
-    arabic: بَاۡسِكُمۡ​ۚ
+    arabic: بَأۡسِكُمۡۖ
     translation: your battle
     transliteration: basikum
   8:
@@ -37,11 +37,11 @@ word_by_word:
     translation: Then will
     transliteration: fahal
   9:
-    arabic: اَنۡـتُمۡ
+    arabic: أَنتُمۡ
     translation: you
     transliteration: antum
   10:
-    arabic: شٰكِرُوۡنَ‏
+    arabic: شَٰكِرُونَ
     translation: (be) grateful
     transliteration: shākirūna
 ---

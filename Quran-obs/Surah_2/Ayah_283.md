@@ -1,8 +1,8 @@
 ---
-arabic_ayat: وَاِنۡ كُنۡتُمۡ عَلٰى سَفَرٍ وَّلَمۡ تَجِدُوۡا كَاتِبًا فَرِهٰنٌ مَّقۡبُوۡضَةٌ ​
-  ؕ فَاِنۡ اَمِنَ بَعۡضُكُمۡ بَعۡضًا فَلۡيُؤَدِّ الَّذِى اؤۡتُمِنَ اَمَانَـتَهٗ وَلۡيَتَّقِ
-  اللّٰهَ رَبَّهٗ​ؕ وَلَا تَكۡتُمُوا الشَّهَادَةَ ​ ؕ وَمَنۡ يَّكۡتُمۡهَا فَاِنَّهٗۤ
-  اٰثِمٌ قَلۡبُهٗ​ؕ وَ اللّٰهُ بِمَا تَعۡمَلُوۡنَ عَلِيۡمٌ‏
+arabic_ayat: ۞ وَإِن كُنتُمۡ عَلَىٰ سَفَرٖ وَلَمۡ تَجِدُواْ كَاتِبٗا فَرِهَٰنٞ مَّقۡبُوضَةٞۖ
+  فَإِنۡ أَمِنَ بَعۡضُكُم بَعۡضٗا فَلۡيُؤَدِّ ٱلَّذِي ٱؤۡتُمِنَ أَمَٰنَتَهُۥ وَلۡيَتَّقِ
+  ٱللَّهَ رَبَّهُۥۗ وَلَا تَكۡتُمُواْ ٱلشَّهَٰدَةَۚ وَمَن يَكۡتُمۡهَا فَإِنَّهُۥٓ
+  ءَاثِمٞ قَلۡبُهُۥۗ وَٱللَّهُ بِمَا تَعۡمَلُونَ عَلِيمٞ
 sentence_translation: If you are on a journey and a scribe cannot be found, then a
   security can be taken. If you trust one another, then ˹there is no need for a security,
   but˺ the debtor should honour this trust ˹by repaying the debt˺—and let them fear
@@ -10,55 +10,55 @@ sentence_translation: If you are on a journey and a scribe cannot be found, then
   hearts are indeed sinful. And Allah ˹fully˺ knows what you do.
 word_by_word:
   1:
-    arabic: ۞ وَاِنۡ
+    arabic: ۞ وَإِن
     translation: And if
     transliteration: wa-in
   2:
-    arabic: كُنۡتُمۡ
+    arabic: كُنتُمۡ
     translation: you are
     transliteration: kuntum
   3:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: 'on'
     transliteration: ʿalā
   4:
-    arabic: سَفَرٍ
+    arabic: سَفَرٖ
     translation: a journey
     transliteration: safarin
   5:
-    arabic: وَّلَمۡ
+    arabic: وَلَمۡ
     translation: and not
     transliteration: walam
   6:
-    arabic: تَجِدُوۡا
+    arabic: تَجِدُواْ
     translation: you find
     transliteration: tajidū
   7:
-    arabic: كَاتِبًا
+    arabic: كَاتِبٗا
     translation: a scribe
     transliteration: kātiban
   8:
-    arabic: فَرِهٰنٌ
+    arabic: فَرِهَٰنٞ
     translation: then pledge
     transliteration: farihānun
   9:
-    arabic: مَّقۡبُوۡضَةٌ ​ ؕ
+    arabic: مَّقۡبُوضَةٞۖ
     translation: in hand
     transliteration: maqbūḍatun
   10:
-    arabic: فَاِنۡ
+    arabic: فَإِنۡ
     translation: Then if
     transliteration: fa-in
   11:
-    arabic: اَمِنَ
+    arabic: أَمِنَ
     translation: entrusts
     transliteration: amina
   12:
-    arabic: بَعۡضُكُمۡ
+    arabic: بَعۡضُكُم
     translation: one of you
     transliteration: baʿḍukum
   13:
-    arabic: بَعۡضًا
+    arabic: بَعۡضٗا
     translation: (to) another
     transliteration: baʿḍan
   14:
@@ -66,15 +66,15 @@ word_by_word:
     translation: then let discharge
     transliteration: falyu-addi
   15:
-    arabic: الَّذِى
+    arabic: ٱلَّذِي
     translation: the one who
     transliteration: alladhī
   16:
-    arabic: اؤۡتُمِنَ
+    arabic: ٱؤۡتُمِنَ
     translation: is entrusted
     transliteration: u'tumina
   17:
-    arabic: اَمَانَـتَهٗ
+    arabic: أَمَٰنَتَهُۥ
     translation: his trust
     transliteration: amānatahu
   18:
@@ -82,11 +82,11 @@ word_by_word:
     translation: And let him fear
     transliteration: walyattaqi
   19:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   20:
-    arabic: رَبَّهٗ​ؕ
+    arabic: رَبَّهُۥۗ
     translation: his Lord
     transliteration: rabbahu
   21:
@@ -94,35 +94,35 @@ word_by_word:
     translation: And (do) not
     transliteration: walā
   22:
-    arabic: تَكۡتُمُوا
+    arabic: تَكۡتُمُواْ
     translation: conceal
     transliteration: taktumū
   23:
-    arabic: الشَّهَادَةَ ​ ؕ
+    arabic: ٱلشَّهَٰدَةَۚ
     translation: the evidence
     transliteration: l-shahādata
   24:
-    arabic: وَمَنۡ
+    arabic: وَمَن
     translation: And whoever
     transliteration: waman
   25:
-    arabic: يَّكۡتُمۡهَا
+    arabic: يَكۡتُمۡهَا
     translation: conceals it
     transliteration: yaktum'hā
   26:
-    arabic: فَاِنَّهٗۤ
+    arabic: فَإِنَّهُۥٓ ءَ
     translation: then indeed he
     transliteration: fa-innahu
   27:
-    arabic: اٰثِمٌ
+    arabic: اثِمٞ
     translation: '(is) sinful '
     transliteration: āthimun
   28:
-    arabic: قَلۡبُهٗ​ؕ
+    arabic: قَلۡبُهُۥۗ
     translation: his heart
     transliteration: qalbuhu
   29:
-    arabic: وَ اللّٰهُ
+    arabic: وَٱللَّهُ
     translation: And Allah
     transliteration: wal-lahu
   30:
@@ -130,11 +130,11 @@ word_by_word:
     translation: of what
     transliteration: bimā
   31:
-    arabic: تَعۡمَلُوۡنَ
+    arabic: تَعۡمَلُونَ
     translation: you do
     transliteration: taʿmalūna
   32:
-    arabic: عَلِيۡمٌ‏
+    arabic: عَلِيمٞ
     translation: (is) All-Knower
     transliteration: ʿalīmun
 ---

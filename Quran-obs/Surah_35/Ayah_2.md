@@ -1,13 +1,12 @@
 ---
-arabic_ayat: "مَا يَفۡتَحِ اللّٰهُ لِلنَّاسِ مِنۡ رَّحۡمَةٍ فَلَا مُمۡسِكَ لَهَا ۚ\
-  \ وَمَا يُمۡسِكۡ ۙ فَلَا مُرۡسِلَ لَهٗ مِنۡۢ بَعۡدِه ؕ وَهُوَ الۡعَزِيۡزُ الۡحَكِيۡمُ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: مَّا يَفۡتَحِ ٱللَّهُ لِلنَّاسِ مِن رَّحۡمَةٖ فَلَا مُمۡسِكَ لَهَاۖ وَمَا
+  يُمۡسِكۡ فَلَا مُرۡسِلَ لَهُۥ مِنۢ بَعۡدِهِۦۚ وَهُوَ ٱلۡعَزِيزُ ٱلۡحَكِيمُ
 sentence_translation: Whatever mercy Allah opens up for people, none can withhold
   it. And whatever He withholds, none but Him can release it. For He is the Almighty,
   All-Wise.
 word_by_word:
   1:
-    arabic: مَا
+    arabic: مَّا
     translation: What
     transliteration: mā
   2:
@@ -15,7 +14,7 @@ word_by_word:
     translation: Allah grants
     transliteration: yaftaḥi
   3:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah grants
     transliteration: l-lahu
   4:
@@ -23,11 +22,11 @@ word_by_word:
     translation: to mankind
     transliteration: lilnnāsi
   5:
-    arabic: مِنۡ
+    arabic: مِن
     translation: of
     transliteration: min
   6:
-    arabic: رَّحۡمَةٍ
+    arabic: رَّحۡمَةٖ
     translation: Mercy
     transliteration: raḥmatin
   7:
@@ -39,7 +38,7 @@ word_by_word:
     translation: (can) withhold
     transliteration: mum'sika
   9:
-    arabic: لَهَا ۚ
+    arabic: لَهَاۖ
     translation: it
     transliteration: lahā
   10:
@@ -47,7 +46,7 @@ word_by_word:
     translation: And what
     transliteration: wamā
   11:
-    arabic: يُمۡسِكۡ ۙ
+    arabic: يُمۡسِكۡ
     translation: He withholds
     transliteration: yum'sik
   12:
@@ -59,15 +58,15 @@ word_by_word:
     translation: (can) release
     transliteration: mur'sila
   14:
-    arabic: لَهٗ
+    arabic: لَهُۥ
     translation: it
     transliteration: lahu
   15:
-    arabic: مِنۡۢ
+    arabic: مِنۢ
     translation: thereafter
     transliteration: min
   16:
-    arabic: بَعۡدِه ؕ
+    arabic: بَعۡدِهِۦۚ
     translation: thereafter
     transliteration: baʿdihi
   17:
@@ -75,11 +74,11 @@ word_by_word:
     translation: And He
     transliteration: wahuwa
   18:
-    arabic: الۡعَزِيۡزُ
+    arabic: ٱلۡعَزِيزُ
     translation: (is) the All-Mighty
     transliteration: l-ʿazīzu
   19:
-    arabic: "الۡحَكِيۡمُ‏ \uFEFF\uFEFF"
+    arabic: ٱلۡحَكِيمُ
     translation: the All-Wise
     transliteration: l-ḥakīmu
 ---

@@ -1,11 +1,11 @@
 ---
-arabic_ayat: وَمَا كَانَ لِمُؤۡمِنٍ اَنۡ يَّقۡتُلَ مُؤۡمِنًا اِلَّا خَطَـــًٔا​ ۚ
-  وَمَنۡ قَتَلَ مُؤۡمِنًا خَطَـــًٔا فَتَحۡرِيۡرُ رَقَبَةٍ مُّؤۡمِنَةٍ وَّدِيَةٌ مُّسَلَّمَةٌ
-  اِلٰٓى اَهۡلِهٖۤ اِلَّاۤ اَنۡ يَّصَّدَّقُوۡا​ ؕ فَاِنۡ كَانَ مِنۡ قَوۡمٍ عَدُوٍّ
-  لَّـكُمۡ وَهُوَ مُؤۡمِنٌ فَتَحۡرِيۡرُ رَقَبَةٍ مُّؤۡمِنَةٍ​ ؕ وَاِنۡ كَانَ مِنۡ
-  قَوۡمٍۢ بَيۡنَكُمۡ وَبَيۡنَهُمۡ مِّيۡثَاقٌ فَدِيَةٌ مُّسَلَّمَةٌ اِلٰٓى اَهۡلِهٖ
-  وَ تَحۡرِيۡرُ رَقَبَةٍ مُّؤۡمِنَةٍ​ ۚ فَمَنۡ لَّمۡ يَجِدۡ فَصِيَامُ شَهۡرَيۡنِ مُتَتَابِعَيۡنِ
-  تَوۡبَةً مِّنَ اللّٰهِ​ ؕ وَكَانَ اللّٰهُ عَلِيۡمًا حَكِيۡمًا‏
+arabic_ayat: وَمَا كَانَ لِمُؤۡمِنٍ أَن يَقۡتُلَ مُؤۡمِنًا إِلَّا خَطَـٔٗاۚ وَمَن
+  قَتَلَ مُؤۡمِنًا خَطَـٔٗا فَتَحۡرِيرُ رَقَبَةٖ مُّؤۡمِنَةٖ وَدِيَةٞ مُّسَلَّمَةٌ
+  إِلَىٰٓ أَهۡلِهِۦٓ إِلَّآ أَن يَصَّدَّقُواْۚ فَإِن كَانَ مِن قَوۡمٍ عَدُوّٖ لَّكُمۡ
+  وَهُوَ مُؤۡمِنٞ فَتَحۡرِيرُ رَقَبَةٖ مُّؤۡمِنَةٖۖ وَإِن كَانَ مِن قَوۡمِۭ بَيۡنَكُمۡ
+  وَبَيۡنَهُم مِّيثَٰقٞ فَدِيَةٞ مُّسَلَّمَةٌ إِلَىٰٓ أَهۡلِهِۦ وَتَحۡرِيرُ رَقَبَةٖ
+  مُّؤۡمِنَةٖۖ فَمَن لَّمۡ يَجِدۡ فَصِيَامُ شَهۡرَيۡنِ مُتَتَابِعَيۡنِ تَوۡبَةٗ مِّنَ
+  ٱللَّهِۗ وَكَانَ ٱللَّهُ عَلِيمًا حَكِيمٗا
 sentence_translation: It is not lawful for a believer to kill another except by mistake.
   And whoever kills a believer unintentionally must free a believing slave and pay
   blood-money to the victim’s family—unless they waive it charitably. But if the victim
@@ -28,11 +28,11 @@ word_by_word:
     translation: for a believer
     transliteration: limu'minin
   4:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that
     transliteration: an
   5:
-    arabic: يَّقۡتُلَ
+    arabic: يَقۡتُلَ
     translation: he kills
     transliteration: yaqtula
   6:
@@ -40,15 +40,15 @@ word_by_word:
     translation: a believer
     transliteration: mu'minan
   7:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   8:
-    arabic: خَطَـــًٔا​ ۚ
+    arabic: خَطَـٔٗاۚ
     translation: (by) mistake
     transliteration: khaṭa-an
   9:
-    arabic: وَمَنۡ
+    arabic: وَمَن
     translation: And whoever
     transliteration: waman
   10:
@@ -60,23 +60,23 @@ word_by_word:
     translation: a believer
     transliteration: mu'minan
   12:
-    arabic: خَطَـــًٔا
+    arabic: خَطَـٔٗا
     translation: (by) mistake
     transliteration: khaṭa-an
   13:
-    arabic: فَتَحۡرِيۡرُ
+    arabic: فَتَحۡرِيرُ
     translation: then freeing
     transliteration: fataḥrīru
   14:
-    arabic: رَقَبَةٍ
+    arabic: رَقَبَةٖ
     translation: (of) a slave
     transliteration: raqabatin
   15:
-    arabic: مُّؤۡمِنَةٍ
+    arabic: مُّؤۡمِنَةٖ
     translation: ' believing'
     transliteration: mu'minatin
   16:
-    arabic: وَّدِيَةٌ
+    arabic: وَدِيَةٞ
     translation: and blood money
     transliteration: wadiyatun
   17:
@@ -84,27 +84,27 @@ word_by_word:
     translation: (is to be) paid
     transliteration: musallamatun
   18:
-    arabic: اِلٰٓى
+    arabic: إِلَىٰٓ
     translation: to
     transliteration: ilā
   19:
-    arabic: اَهۡلِهٖۤ
+    arabic: أَهۡلِهِۦٓ
     translation: his family
     transliteration: ahlihi
   20:
-    arabic: اِلَّاۤ
+    arabic: إِلَّآ
     translation: unless
     transliteration: illā
   21:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that
     transliteration: an
   22:
-    arabic: يَّصَّدَّقُوۡا​ ؕ
+    arabic: يَصَّدَّقُواْۚ
     translation: they remit (as) charity
     transliteration: yaṣṣaddaqū
   23:
-    arabic: فَاِنۡ
+    arabic: فَإِن
     translation: But if
     transliteration: fa-in
   24:
@@ -112,7 +112,7 @@ word_by_word:
     translation: (he) was
     transliteration: kāna
   25:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   26:
@@ -120,11 +120,11 @@ word_by_word:
     translation: a people
     transliteration: qawmin
   27:
-    arabic: عَدُوٍّ
+    arabic: عَدُوّٖ
     translation: hostile
     transliteration: ʿaduwwin
   28:
-    arabic: لَّـكُمۡ
+    arabic: لَّكُمۡ
     translation: to you
     transliteration: lakum
   29:
@@ -132,23 +132,23 @@ word_by_word:
     translation: and he was
     transliteration: wahuwa
   30:
-    arabic: مُؤۡمِنٌ
+    arabic: مُؤۡمِنٞ
     translation: a believer
     transliteration: mu'minun
   31:
-    arabic: فَتَحۡرِيۡرُ
+    arabic: فَتَحۡرِيرُ
     translation: then freeing
     transliteration: fataḥrīru
   32:
-    arabic: رَقَبَةٍ
+    arabic: رَقَبَةٖ
     translation: (of) a believing slave
     transliteration: raqabatin
   33:
-    arabic: مُّؤۡمِنَةٍ​ ؕ
+    arabic: مُّؤۡمِنَةٖۖ
     translation: ' believing'
     transliteration: mu'minatin
   34:
-    arabic: وَاِنۡ
+    arabic: وَإِن
     translation: And if
     transliteration: wa-in
   35:
@@ -156,11 +156,11 @@ word_by_word:
     translation: (he) was
     transliteration: kāna
   36:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   37:
-    arabic: قَوۡمٍۢ
+    arabic: قَوۡمِۭ
     translation: a people
     transliteration: qawmin
   38:
@@ -168,15 +168,15 @@ word_by_word:
     translation: between you
     transliteration: baynakum
   39:
-    arabic: وَبَيۡنَهُمۡ
+    arabic: وَبَيۡنَهُم
     translation: and between them
     transliteration: wabaynahum
   40:
-    arabic: مِّيۡثَاقٌ
+    arabic: مِّيثَٰقٞ
     translation: (is) a treaty
     transliteration: mīthāqun
   41:
-    arabic: فَدِيَةٌ
+    arabic: فَدِيَةٞ
     translation: then blood money
     transliteration: fadiyatun
   42:
@@ -184,27 +184,27 @@ word_by_word:
     translation: (is to be) paid
     transliteration: musallamatun
   43:
-    arabic: اِلٰٓى
+    arabic: إِلَىٰٓ
     translation: to
     transliteration: ilā
   44:
-    arabic: اَهۡلِهٖ
+    arabic: أَهۡلِهِۦ
     translation: his family
     transliteration: ahlihi
   45:
-    arabic: وَ تَحۡرِيۡرُ
+    arabic: وَتَحۡرِيرُ
     translation: and freeing
     transliteration: wataḥrīru
   46:
-    arabic: رَقَبَةٍ
+    arabic: رَقَبَةٖ
     translation: (of) a slave
     transliteration: raqabatin
   47:
-    arabic: مُّؤۡمِنَةٍ​ ۚ
+    arabic: مُّؤۡمِنَةٖۖ
     translation: ' believing'
     transliteration: mu'minatin
   48:
-    arabic: فَمَنۡ
+    arabic: فَمَن
     translation: And whoever
     transliteration: faman
   49:
@@ -224,11 +224,11 @@ word_by_word:
     translation: (for) two months
     transliteration: shahrayni
   53:
-    arabic: مُتَتَابِعَيۡنِ
+    arabic: مُتَتَابِعَيۡنِ
     translation: consecutively
     transliteration: mutatābiʿayni
   54:
-    arabic: تَوۡبَةً
+    arabic: تَوۡبَةٗ
     translation: (seeking) repentance
     transliteration: tawbatan
   55:
@@ -236,7 +236,7 @@ word_by_word:
     translation: from
     transliteration: mina
   56:
-    arabic: اللّٰهِ​ ؕ
+    arabic: ٱللَّهِۗ
     translation: Allah
     transliteration: l-lahi
   57:
@@ -244,15 +244,15 @@ word_by_word:
     translation: and is
     transliteration: wakāna
   58:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   59:
-    arabic: عَلِيۡمًا
+    arabic: عَلِيمًا
     translation: All-Knowing
     transliteration: ʿalīman
   60:
-    arabic: حَكِيۡمًا‏
+    arabic: حَكِيمٗا
     translation: All-Wise
     transliteration: ḥakīman
 ---

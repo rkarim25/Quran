@@ -1,7 +1,6 @@
 ---
-arabic_ayat: وَلَا تَمُدَّنَّ عَيۡنَيۡكَ اِلٰى مَا مَتَّعۡنَا بِهٖۤ اَزۡوَاجًا مِّنۡهُمۡ
-  زَهۡرَةَ الۡحَيٰوةِ الدُّنۡيَا ۙ لِنَفۡتِنَهُمۡ فِيۡهِ​ ؕ وَرِزۡقُ رَبِّكَ خَيۡرٌ
-  وَّاَبۡقٰى‏
+arabic_ayat: وَلَا تَمُدَّنَّ عَيۡنَيۡكَ إِلَىٰ مَا مَتَّعۡنَا بِهِۦٓ أَزۡوَٰجٗا مِّنۡهُمۡ
+  زَهۡرَةَ ٱلۡحَيَوٰةِ ٱلدُّنۡيَا لِنَفۡتِنَهُمۡ فِيهِۚ وَرِزۡقُ رَبِّكَ خَيۡرٞ وَأَبۡقَىٰ
 sentence_translation: Do not let your eyes crave what We have allowed some of the
   disbelievers to enjoy; the ˹fleeting˺ splendour of this worldly life, which We test
   them with. But your Lord’s provision ˹in the Hereafter˺ is far better and more lasting.
@@ -19,7 +18,7 @@ word_by_word:
     translation: your eyes
     transliteration: ʿaynayka
   4:
-    arabic: اِلٰى
+    arabic: إِلَىٰ
     translation: towards
     transliteration: ilā
   5:
@@ -31,11 +30,11 @@ word_by_word:
     translation: We have given for enjoyment
     transliteration: mattaʿnā
   7:
-    arabic: بِهٖۤ
+    arabic: بِهِۦٓ
     translation: '[with it]'
     transliteration: bihi
   8:
-    arabic: اَزۡوَاجًا
+    arabic: أَزۡوَٰجٗا
     translation: pairs
     transliteration: azwājan
   9:
@@ -47,11 +46,11 @@ word_by_word:
     translation: (the) splendor
     transliteration: zahrata
   11:
-    arabic: الۡحَيٰوةِ
+    arabic: ٱلۡحَيَوٰةِ
     translation: (of) the life
     transliteration: l-ḥayati
   12:
-    arabic: الدُّنۡيَا ۙ
+    arabic: ٱلدُّنۡيَا
     translation: (of) the world
     transliteration: l-dun'yā
   13:
@@ -59,7 +58,7 @@ word_by_word:
     translation: that We may test them
     transliteration: linaftinahum
   14:
-    arabic: فِيۡهِ​ ؕ
+    arabic: فِيهِۚ
     translation: in it
     transliteration: fīhi
   15:
@@ -71,11 +70,11 @@ word_by_word:
     translation: (of) your Lord
     transliteration: rabbika
   17:
-    arabic: خَيۡرٌ
+    arabic: خَيۡرٞ
     translation: (is) better
     transliteration: khayrun
   18:
-    arabic: وَّاَبۡقٰى‏
+    arabic: وَأَبۡقَىٰ
     translation: and more lasting
     transliteration: wa-abqā
 ---

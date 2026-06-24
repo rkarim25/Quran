@@ -1,12 +1,12 @@
 ---
-arabic_ayat: وَاَتِمُّوا الۡحَجَّ وَالۡعُمۡرَةَ لِلّٰهِؕ فَاِنۡ اُحۡصِرۡتُمۡ فَمَا
-  اسۡتَيۡسَرَ مِنَ الۡهَدۡىِ​ۚ وَلَا تَحۡلِقُوۡا رُءُوۡسَكُمۡ حَتّٰى يَبۡلُغَ الۡهَدۡىُ
-  مَحِلَّهٗ ؕ فَمَنۡ كَانَ مِنۡكُمۡ مَّرِيۡضًا اَوۡ بِهٖۤ اَذًى مِّنۡ رَّاۡسِهٖ فَفِدۡيَةٌ
-  مِّنۡ صِيَامٍ اَوۡ صَدَقَةٍ اَوۡ نُسُكٍۚ فَاِذَآ اَمِنۡتُمۡ فَمَنۡ تَمَتَّعَ بِالۡعُمۡرَةِ
-  اِلَى الۡحَجِّ فَمَا اسۡتَيۡسَرَ مِنَ الۡهَدۡىِ​ۚ فَمَنۡ لَّمۡ يَجِدۡ فَصِيَامُ
-  ثَلٰثَةِ اَيَّامٍ فِى الۡحَجِّ وَسَبۡعَةٍ اِذَا رَجَعۡتُمۡؕ تِلۡكَ عَشَرَةٌ كَامِلَةٌ 
-  ؕ ذٰ لِكَ لِمَنۡ لَّمۡ يَكُنۡ اَهۡلُهٗ حَاضِرِىۡ الۡمَسۡجِدِ الۡحَـرَامِ​ؕ وَاتَّقُوا
-  اللّٰهَ وَاعۡلَمُوۡٓا اَنَّ اللّٰهَ شَدِيۡدُ الۡعِقَابِ‏
+arabic_ayat: وَأَتِمُّواْ ٱلۡحَجَّ وَٱلۡعُمۡرَةَ لِلَّهِۚ فَإِنۡ أُحۡصِرۡتُمۡ فَمَا
+  ٱسۡتَيۡسَرَ مِنَ ٱلۡهَدۡيِۖ وَلَا تَحۡلِقُواْ رُءُوسَكُمۡ حَتَّىٰ يَبۡلُغَ ٱلۡهَدۡيُ
+  مَحِلَّهُۥۚ فَمَن كَانَ مِنكُم مَّرِيضًا أَوۡ بِهِۦٓ أَذٗى مِّن رَّأۡسِهِۦ فَفِدۡيَةٞ
+  مِّن صِيَامٍ أَوۡ صَدَقَةٍ أَوۡ نُسُكٖۚ فَإِذَآ أَمِنتُمۡ فَمَن تَمَتَّعَ بِٱلۡعُمۡرَةِ
+  إِلَى ٱلۡحَجِّ فَمَا ٱسۡتَيۡسَرَ مِنَ ٱلۡهَدۡيِۚ فَمَن لَّمۡ يَجِدۡ فَصِيَامُ ثَلَٰثَةِ
+  أَيَّامٖ فِي ٱلۡحَجِّ وَسَبۡعَةٍ إِذَا رَجَعۡتُمۡۗ تِلۡكَ عَشَرَةٞ كَامِلَةٞۗ ذَٰلِكَ
+  لِمَن لَّمۡ يَكُنۡ أَهۡلُهُۥ حَاضِرِي ٱلۡمَسۡجِدِ ٱلۡحَرَامِۚ وَٱتَّقُواْ ٱللَّهَ
+  وَٱعۡلَمُوٓاْ أَنَّ ٱللَّهَ شَدِيدُ ٱلۡعِقَابِ
 sentence_translation: Complete the pilgrimage and minor pilgrimage for Allah. But
   if prevented ˹from proceeding˺, then ˹offer˺ whatever sacrificial animals you can
   afford. And do not shave your heads until the sacrificial animal reaches its destination.
@@ -19,27 +19,27 @@ sentence_translation: Complete the pilgrimage and minor pilgrimage for Allah. B
   that Allah is severe in punishment.
 word_by_word:
   1:
-    arabic: وَاَتِمُّوا
+    arabic: وَأَتِمُّواْ
     translation: And complete
     transliteration: wa-atimmū
   2:
-    arabic: الۡحَجَّ
+    arabic: ٱلۡحَجَّ
     translation: the Hajj
     transliteration: l-ḥaja
   3:
-    arabic: وَالۡعُمۡرَةَ
+    arabic: وَٱلۡعُمۡرَةَ
     translation: and the Umrah
     transliteration: wal-ʿum'rata
   4:
-    arabic: لِلّٰهِؕ
+    arabic: لِلَّهِۚ
     translation: for Allah
     transliteration: lillahi
   5:
-    arabic: فَاِنۡ
+    arabic: فَإِنۡ
     translation: And if
     transliteration: fa-in
   6:
-    arabic: اُحۡصِرۡتُمۡ
+    arabic: أُحۡصِرۡتُمۡ
     translation: you are held back
     transliteration: uḥ'ṣir'tum
   7:
@@ -47,7 +47,7 @@ word_by_word:
     translation: then (offer) whatever
     transliteration: famā
   8:
-    arabic: اسۡتَيۡسَرَ
+    arabic: ٱسۡتَيۡسَرَ
     translation: (can be) obtained with ease
     transliteration: is'taysara
   9:
@@ -55,7 +55,7 @@ word_by_word:
     translation: of
     transliteration: mina
   10:
-    arabic: الۡهَدۡىِ​ۚ
+    arabic: ٱلۡهَدۡيِۖ
     translation: the sacrificial animal
     transliteration: l-hadyi
   11:
@@ -63,15 +63,15 @@ word_by_word:
     translation: And (do) not
     transliteration: walā
   12:
-    arabic: تَحۡلِقُوۡا
+    arabic: تَحۡلِقُواْ
     translation: shave
     transliteration: taḥliqū
   13:
-    arabic: رُءُوۡسَكُمۡ
+    arabic: رُءُوسَكُمۡ
     translation: your heads
     transliteration: ruūsakum
   14:
-    arabic: حَتّٰى
+    arabic: حَتَّىٰ
     translation: until
     transliteration: ḥattā
   15:
@@ -79,15 +79,15 @@ word_by_word:
     translation: reaches
     transliteration: yablugha
   16:
-    arabic: الۡهَدۡىُ
+    arabic: ٱلۡهَدۡيُ
     translation: the sacrificial animal
     transliteration: l-hadyu
   17:
-    arabic: مَحِلَّهٗ ؕ
+    arabic: مَحِلَّهُۥۚ
     translation: (to) its destination
     transliteration: maḥillahu
   18:
-    arabic: فَمَنۡ
+    arabic: فَمَن
     translation: Then whoever
     transliteration: faman
   19:
@@ -95,39 +95,39 @@ word_by_word:
     translation: is
     transliteration: kāna
   20:
-    arabic: مِنۡكُمۡ
+    arabic: مِنكُم
     translation: among you
     transliteration: minkum
   21:
-    arabic: مَّرِيۡضًا
+    arabic: مَّرِيضًا
     translation: ill
     transliteration: marīḍan
   22:
-    arabic: اَوۡ
+    arabic: أَوۡ
     translation: or
     transliteration: aw
   23:
-    arabic: بِهٖۤ
+    arabic: بِهِۦٓ
     translation: he (has)
     transliteration: bihi
   24:
-    arabic: اَذًى
+    arabic: أَذٗى
     translation: an ailment
     transliteration: adhan
   25:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: of
     transliteration: min
   26:
-    arabic: رَّاۡسِهٖ
+    arabic: رَّأۡسِهِۦ
     translation: his head
     transliteration: rasihi
   27:
-    arabic: فَفِدۡيَةٌ
+    arabic: فَفِدۡيَةٞ
     translation: then a ransom
     transliteration: fafid'yatun
   28:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: of
     transliteration: min
   29:
@@ -135,7 +135,7 @@ word_by_word:
     translation: fasting
     transliteration: ṣiyāmin
   30:
-    arabic: اَوۡ
+    arabic: أَوۡ
     translation: or
     transliteration: aw
   31:
@@ -143,23 +143,23 @@ word_by_word:
     translation: charity
     transliteration: ṣadaqatin
   32:
-    arabic: اَوۡ
+    arabic: أَوۡ
     translation: or
     transliteration: aw
   33:
-    arabic: نُسُكٍۚ
+    arabic: نُسُكٖۚ
     translation: sacrifice
     transliteration: nusukin
   34:
-    arabic: فَاِذَآ
+    arabic: فَإِذَآ
     translation: Then when
     transliteration: fa-idhā
   35:
-    arabic: اَمِنۡتُمۡ
+    arabic: أَمِنتُمۡ
     translation: you are secure
     transliteration: amintum
   36:
-    arabic: فَمَنۡ
+    arabic: فَمَن
     translation: then whoever
     transliteration: faman
   37:
@@ -167,15 +167,15 @@ word_by_word:
     translation: took advantage
     transliteration: tamattaʿa
   38:
-    arabic: بِالۡعُمۡرَةِ
+    arabic: بِٱلۡعُمۡرَةِ
     translation: of the Umrah
     transliteration: bil-ʿum'rati
   39:
-    arabic: اِلَى
+    arabic: إِلَى
     translation: followed
     transliteration: ilā
   40:
-    arabic: الۡحَجِّ
+    arabic: ٱلۡحَجِّ
     translation: (by) the Hajj
     transliteration: l-ḥaji
   41:
@@ -183,7 +183,7 @@ word_by_word:
     translation: then (offer) whatever
     transliteration: famā
   42:
-    arabic: اسۡتَيۡسَرَ
+    arabic: ٱسۡتَيۡسَرَ
     translation: (can be) obtained with ease
     transliteration: is'taysara
   43:
@@ -191,11 +191,11 @@ word_by_word:
     translation: of
     transliteration: mina
   44:
-    arabic: الۡهَدۡىِ​ۚ
+    arabic: ٱلۡهَدۡيِۚ
     translation: the sacrificial animal
     transliteration: l-hadyi
   45:
-    arabic: فَمَنۡ
+    arabic: فَمَن
     translation: But whoever
     transliteration: faman
   46:
@@ -211,19 +211,19 @@ word_by_word:
     translation: then a fast
     transliteration: faṣiyāmu
   49:
-    arabic: ثَلٰثَةِ
+    arabic: ثَلَٰثَةِ
     translation: (of) three
     transliteration: thalāthati
   50:
-    arabic: اَيَّامٍ
+    arabic: أَيَّامٖ
     translation: days
     transliteration: ayyāmin
   51:
-    arabic: فِى
+    arabic: فِي
     translation: during
     transliteration: fī
   52:
-    arabic: الۡحَجِّ
+    arabic: ٱلۡحَجِّ
     translation: the Hajj
     transliteration: l-ḥaji
   53:
@@ -231,11 +231,11 @@ word_by_word:
     translation: and seven (days)
     transliteration: wasabʿatin
   54:
-    arabic: اِذَا
+    arabic: إِذَا
     translation: when
     transliteration: idhā
   55:
-    arabic: رَجَعۡتُمۡؕ
+    arabic: رَجَعۡتُمۡۗ
     translation: you return
     transliteration: rajaʿtum
   56:
@@ -243,19 +243,19 @@ word_by_word:
     translation: This
     transliteration: til'ka
   57:
-    arabic: عَشَرَةٌ
+    arabic: عَشَرَةٞ
     translation: (is) ten (days)
     transliteration: ʿasharatun
   58:
-    arabic: كَامِلَةٌ  ؕ
+    arabic: كَامِلَةٞۗ
     translation: in all
     transliteration: kāmilatun
   59:
-    arabic: ذٰ لِكَ
+    arabic: ذَٰلِكَ
     translation: That
     transliteration: dhālika
   60:
-    arabic: لِمَنۡ
+    arabic: لِمَن
     translation: (is) for (the one) whose
     transliteration: liman
   61:
@@ -267,47 +267,47 @@ word_by_word:
     translation: is
     transliteration: yakun
   63:
-    arabic: اَهۡلُهٗ
+    arabic: أَهۡلُهُۥ
     translation: his family
     transliteration: ahluhu
   64:
-    arabic: حَاضِرِىۡ
+    arabic: حَاضِرِي
     translation: present
     transliteration: ḥāḍirī
   65:
-    arabic: الۡمَسۡجِدِ
+    arabic: ٱلۡمَسۡجِدِ
     translation: (near) Al-Masjid
     transliteration: l-masjidi
   66:
-    arabic: الۡحَـرَامِ​ؕ
+    arabic: ٱلۡحَرَامِۚ
     translation: Al-Haraam
     transliteration: l-ḥarāmi
   67:
-    arabic: وَاتَّقُوا
+    arabic: وَٱتَّقُواْ
     translation: And fear
     transliteration: wa-ittaqū
   68:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   69:
-    arabic: وَاعۡلَمُوۡٓا
+    arabic: وَٱعۡلَمُوٓاْ
     translation: and know
     transliteration: wa-iʿ'lamū
   70:
-    arabic: اَنَّ
+    arabic: أَنَّ
     translation: that
     transliteration: anna
   71:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   72:
-    arabic: شَدِيۡدُ
+    arabic: شَدِيدُ
     translation: (is) severe
     transliteration: shadīdu
   73:
-    arabic: الۡعِقَابِ‏
+    arabic: ٱلۡعِقَابِ
     translation: (in) retribution
     transliteration: l-ʿiqābi
 ---

@@ -1,10 +1,9 @@
 ---
-arabic_ayat: يٰۤاَيُّهَا الَّذِيۡنَ اٰمَنُوۡا تُوۡبُوۡۤا اِلَى اللّٰهِ تَوۡبَةً نَّصُوۡحًا
-  ؕ عَسٰى رَبُّكُمۡ اَنۡ يُّكَفِّرَ عَنۡكُمۡ سَيِّاٰتِكُمۡ وَيُدۡخِلَـكُمۡ جَنّٰتٍ
-  تَجۡرِىۡ مِنۡ تَحۡتِهَا الۡاَنۡهٰرُ ۙ يَوۡمَ لَا يُخۡزِى اللّٰهُ النَّبِىَّ وَالَّذِيۡنَ
-  اٰمَنُوۡا مَعَهٗ​ ۚ نُوۡرُهُمۡ يَسۡعٰى بَيۡنَ اَيۡدِيۡهِمۡ وَبِاَيۡمَانِهِمۡ يَقُوۡلُوۡنَ
-  رَبَّنَاۤ اَ تۡمِمۡ لَـنَا نُوۡرَنَا وَاغۡفِرۡ لَـنَا​ ۚ اِنَّكَ عَلٰى كُلِّ شَىۡءٍ
-  قَدِيۡرٌ‏
+arabic_ayat: يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُواْ تُوبُوٓاْ إِلَى ٱللَّهِ تَوۡبَةٗ نَّصُوحًا
+  عَسَىٰ رَبُّكُمۡ أَن يُكَفِّرَ عَنكُمۡ سَيِّـَٔاتِكُمۡ وَيُدۡخِلَكُمۡ جَنَّٰتٖ تَجۡرِي
+  مِن تَحۡتِهَا ٱلۡأَنۡهَٰرُ يَوۡمَ لَا يُخۡزِي ٱللَّهُ ٱلنَّبِيَّ وَٱلَّذِينَ ءَامَنُواْ
+  مَعَهُۥۖ نُورُهُمۡ يَسۡعَىٰ بَيۡنَ أَيۡدِيهِمۡ وَبِأَيۡمَٰنِهِمۡ يَقُولُونَ رَبَّنَآ
+  أَتۡمِمۡ لَنَا نُورَنَا وَٱغۡفِرۡ لَنَآۖ إِنَّكَ عَلَىٰ كُلِّ شَيۡءٖ قَدِيرٞ
 sentence_translation: O believers! Turn to Allah in sincere repentance, so your Lord
   may absolve you of your sins and admit you into Gardens, under which rivers flow,
   on the Day Allah will not disgrace the Prophet or the believers with him. Their
@@ -12,39 +11,39 @@ sentence_translation: O believers! Turn to Allah in sincere repentance, so your 
   our light for us, and forgive us. ˹For˺ You are truly Most Capable of everything.”
 word_by_word:
   1:
-    arabic: يٰۤاَيُّهَا
+    arabic: يَٰٓأَيُّهَا
     translation: O
     transliteration: yāayyuhā
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ ءَ
     translation: (you) who believe
     transliteration: alladhīna
   3:
-    arabic: اٰمَنُوۡا
+    arabic: امَنُواْ
     translation: believe
     transliteration: āmanū
   4:
-    arabic: تُوۡبُوۡۤا
+    arabic: تُوبُوٓاْ
     translation: Turn
     transliteration: tūbū
   5:
-    arabic: اِلَى
+    arabic: إِلَى
     translation: to
     transliteration: ilā
   6:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   7:
-    arabic: تَوۡبَةً
+    arabic: تَوۡبَةٗ
     translation: (in) repentance
     transliteration: tawbatan
   8:
-    arabic: نَّصُوۡحًا ؕ
+    arabic: نَّصُوحًا
     translation: sincere
     transliteration: naṣūḥan
   9:
-    arabic: عَسٰى
+    arabic: عَسَىٰ
     translation: Perhaps
     transliteration: ʿasā
   10:
@@ -52,35 +51,35 @@ word_by_word:
     translation: your Lord
     transliteration: rabbukum
   11:
-    arabic: اَنۡ
+    arabic: أَن
     translation: will
     transliteration: an
   12:
-    arabic: يُّكَفِّرَ
+    arabic: يُكَفِّرَ
     translation: remove
     transliteration: yukaffira
   13:
-    arabic: عَنۡكُمۡ
+    arabic: عَنكُمۡ
     translation: from you
     transliteration: ʿankum
   14:
-    arabic: سَيِّاٰتِكُمۡ
+    arabic: سَيِّـَٔاتِكُمۡ
     translation: your evil deeds
     transliteration: sayyiātikum
   15:
-    arabic: وَيُدۡخِلَـكُمۡ
+    arabic: وَيُدۡخِلَكُمۡ
     translation: and admit you
     transliteration: wayud'khilakum
   16:
-    arabic: جَنّٰتٍ
+    arabic: جَنَّٰتٖ
     translation: (into) Gardens
     transliteration: jannātin
   17:
-    arabic: تَجۡرِىۡ
+    arabic: تَجۡرِي
     translation: flow
     transliteration: tajrī
   18:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   19:
@@ -88,7 +87,7 @@ word_by_word:
     translation: underneath it
     transliteration: taḥtihā
   20:
-    arabic: الۡاَنۡهٰرُ ۙ
+    arabic: ٱلۡأَنۡهَٰرُ
     translation: the rivers
     transliteration: l-anhāru
   21:
@@ -100,35 +99,35 @@ word_by_word:
     translation: not
     transliteration: lā
   23:
-    arabic: يُخۡزِى
+    arabic: يُخۡزِي
     translation: will be disgraced
     transliteration: yukh'zī
   24:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: (by) Allah
     transliteration: l-lahu
   25:
-    arabic: النَّبِىَّ
+    arabic: ٱلنَّبِيَّ
     translation: the Prophet
     transliteration: l-nabiya
   26:
-    arabic: وَالَّذِيۡنَ
+    arabic: وَٱلَّذِينَ ءَ
     translation: and those who
     transliteration: wa-alladhīna
   27:
-    arabic: اٰمَنُوۡا
+    arabic: امَنُواْ
     translation: believed
     transliteration: āmanū
   28:
-    arabic: مَعَهٗ​ ۚ
+    arabic: مَعَهُۥۖ
     translation: with him
     transliteration: maʿahu
   29:
-    arabic: نُوۡرُهُمۡ
+    arabic: نُورُهُمۡ
     translation: Their light
     transliteration: nūruhum
   30:
-    arabic: يَسۡعٰى
+    arabic: يَسۡعَىٰ
     translation: will run
     transliteration: yasʿā
   31:
@@ -136,47 +135,47 @@ word_by_word:
     translation: before
     transliteration: bayna
   32:
-    arabic: اَيۡدِيۡهِمۡ
+    arabic: أَيۡدِيهِمۡ
     translation: their hands
     transliteration: aydīhim
   33:
-    arabic: وَبِاَيۡمَانِهِمۡ
+    arabic: وَبِأَيۡمَٰنِهِمۡ
     translation: and on their right
     transliteration: wabi-aymānihim
   34:
-    arabic: يَقُوۡلُوۡنَ
+    arabic: يَقُولُونَ
     translation: they will say
     transliteration: yaqūlūna
   35:
-    arabic: رَبَّنَاۤ
+    arabic: رَبَّنَآ
     translation: Our Lord
     transliteration: rabbanā
   36:
-    arabic: اَ تۡمِمۡ
+    arabic: أَتۡمِمۡ
     translation: Perfect
     transliteration: atmim
   37:
-    arabic: لَـنَا
+    arabic: لَنَا
     translation: for us
     transliteration: lanā
   38:
-    arabic: نُوۡرَنَا
+    arabic: نُورَنَا
     translation: our light
     transliteration: nūranā
   39:
-    arabic: وَاغۡفِرۡ
+    arabic: وَٱغۡفِرۡ
     translation: and grant forgiveness
     transliteration: wa-igh'fir
   40:
-    arabic: لَـنَا​ ۚ
+    arabic: لَنَآۖ
     translation: to us
     transliteration: lanā
   41:
-    arabic: اِنَّكَ
+    arabic: إِنَّكَ
     translation: Indeed, You
     transliteration: innaka
   42:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: (are) over
     transliteration: ʿalā
   43:
@@ -184,11 +183,11 @@ word_by_word:
     translation: every
     transliteration: kulli
   44:
-    arabic: شَىۡءٍ
+    arabic: شَيۡءٖ
     translation: thing
     transliteration: shayin
   45:
-    arabic: قَدِيۡرٌ‏
+    arabic: قَدِيرٞ
     translation: All-Powerful
     transliteration: qadīrun
 ---

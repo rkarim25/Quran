@@ -1,18 +1,18 @@
 ---
-arabic_ayat: ​لَيۡسَ عَلَيۡکُمۡ جُنَاحٌ اَنۡ تَبۡتَغُوۡا فَضۡلًا مِّنۡ رَّبِّکُمۡؕ
-  فَاِذَآ اَفَضۡتُمۡ مِّنۡ عَرَفٰتٍ فَاذۡکُرُوا اللّٰهَ عِنۡدَ الۡمَشۡعَرِ الۡحَـرَامِ
-  وَاذۡکُرُوۡهُ کَمَا هَدٰٮکُمۡ​ۚ وَاِنۡ کُنۡتُمۡ مِّنۡ قَبۡلِهٖ لَمِنَ الضَّآ لِّيۡنَ‏
+arabic_ayat: لَيۡسَ عَلَيۡكُمۡ جُنَاحٌ أَن تَبۡتَغُواْ فَضۡلٗا مِّن رَّبِّكُمۡۚ فَإِذَآ
+  أَفَضۡتُم مِّنۡ عَرَفَٰتٖ فَٱذۡكُرُواْ ٱللَّهَ عِندَ ٱلۡمَشۡعَرِ ٱلۡحَرَامِۖ وَٱذۡكُرُوهُ
+  كَمَا هَدَىٰكُمۡ وَإِن كُنتُم مِّن قَبۡلِهِۦ لَمِنَ ٱلضَّآلِّينَ
 sentence_translation: There is no blame on you for seeking the bounty of your Lord
   ˹during this journey˺. When you return from ’Arafât, praise Allah near the sacred
   place and praise Him for having guided you, for surely before this ˹guidance˺ you
   were astray.
 word_by_word:
   1:
-    arabic: ​لَيۡسَ
+    arabic: لَيۡسَ
     translation: Not is
     transliteration: laysa
   2:
-    arabic: عَلَيۡکُمۡ
+    arabic: عَلَيۡكُمۡ
     translation: on you
     transliteration: ʿalaykum
   3:
@@ -20,31 +20,31 @@ word_by_word:
     translation: any sin
     transliteration: junāḥun
   4:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that
     transliteration: an
   5:
-    arabic: تَبۡتَغُوۡا
+    arabic: تَبۡتَغُواْ
     translation: you seek
     transliteration: tabtaghū
   6:
-    arabic: فَضۡلًا
+    arabic: فَضۡلٗا
     translation: bounty
     transliteration: faḍlan
   7:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: from
     transliteration: min
   8:
-    arabic: رَّبِّکُمۡؕ
+    arabic: رَّبِّكُمۡۚ
     translation: your Lord
     transliteration: rabbikum
   9:
-    arabic: فَاِذَآ
+    arabic: فَإِذَآ
     translation: And when
     transliteration: fa-idhā
   10:
-    arabic: اَفَضۡتُمۡ
+    arabic: أَفَضۡتُم
     translation: you depart
     transliteration: afaḍtum
   11:
@@ -52,55 +52,55 @@ word_by_word:
     translation: from
     transliteration: min
   12:
-    arabic: عَرَفٰتٍ
+    arabic: عَرَفَٰتٖ
     translation: (Mount) Arafat
     transliteration: ʿarafātin
   13:
-    arabic: فَاذۡکُرُوا
+    arabic: فَٱذۡكُرُواْ
     translation: then remember
     transliteration: fa-udh'kurū
   14:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   15:
-    arabic: عِنۡدَ
+    arabic: عِندَ
     translation: near
     transliteration: ʿinda
   16:
-    arabic: الۡمَشۡعَرِ
+    arabic: ٱلۡمَشۡعَرِ
     translation: the Monument
     transliteration: l-mashʿari
   17:
-    arabic: الۡحَـرَامِ
+    arabic: ٱلۡحَرَامِۖ
     translation: '[the] Sacred'
     transliteration: l-ḥarāmi
   18:
-    arabic: وَاذۡکُرُوۡهُ
+    arabic: وَٱذۡكُرُوهُ
     translation: And remember Him
     transliteration: wa-udh'kurūhu
   19:
-    arabic: کَمَا
+    arabic: كَمَا
     translation: as
     transliteration: kamā
   20:
-    arabic: هَدٰٮکُمۡ​ۚ
+    arabic: هَدَىٰكُمۡ
     translation: He (has) guided you
     transliteration: hadākum
   21:
-    arabic: وَاِنۡ
+    arabic: وَإِن
     translation: '[and] though'
     transliteration: wa-in
   22:
-    arabic: کُنۡتُمۡ
+    arabic: كُنتُم
     translation: you were
     transliteration: kuntum
   23:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: '[from]'
     transliteration: min
   24:
-    arabic: قَبۡلِهٖ
+    arabic: قَبۡلِهِۦ
     translation: before [it]
     transliteration: qablihi
   25:
@@ -108,7 +108,7 @@ word_by_word:
     translation: surely among
     transliteration: lamina
   26:
-    arabic: الضَّآ لِّيۡنَ‏
+    arabic: ٱلضَّآلِّينَ
     translation: those who went astray
     transliteration: l-ḍālīna
 ---

@@ -1,15 +1,15 @@
 ---
-arabic_ayat: وَمَنۡ يَّعۡمَلۡ مِنَ الصّٰلِحٰتِ وَهُوَ مُؤۡمِنٌ فَلَا يَخٰفُ ظُلۡمًا
-  وَّلَا هَضۡمًا‏
+arabic_ayat: وَمَن يَعۡمَلۡ مِنَ ٱلصَّٰلِحَٰتِ وَهُوَ مُؤۡمِنٞ فَلَا يَخَافُ ظُلۡمٗا
+  وَلَا هَضۡمٗا
 sentence_translation: But whoever does good and is a believer will have no fear of
   being wronged or denied ˹their reward˺.
 word_by_word:
   1:
-    arabic: وَمَنۡ
+    arabic: وَمَن
     translation: But (he) who
     transliteration: waman
   2:
-    arabic: يَّعۡمَلۡ
+    arabic: يَعۡمَلۡ
     translation: does
     transliteration: yaʿmal
   3:
@@ -17,7 +17,7 @@ word_by_word:
     translation: of
     transliteration: mina
   4:
-    arabic: الصّٰلِحٰتِ
+    arabic: ٱلصَّٰلِحَٰتِ
     translation: the righteous deeds
     transliteration: l-ṣāliḥāti
   5:
@@ -25,7 +25,7 @@ word_by_word:
     translation: while he
     transliteration: wahuwa
   6:
-    arabic: مُؤۡمِنٌ
+    arabic: مُؤۡمِنٞ
     translation: (is) a believer
     transliteration: mu'minun
   7:
@@ -33,19 +33,19 @@ word_by_word:
     translation: then not
     transliteration: falā
   8:
-    arabic: يَخٰفُ
+    arabic: يَخَافُ
     translation: he will fear
     transliteration: yakhāfu
   9:
-    arabic: ظُلۡمًا
+    arabic: ظُلۡمٗا
     translation: injustice
     transliteration: ẓul'man
   10:
-    arabic: وَّلَا
+    arabic: وَلَا
     translation: and not
     transliteration: walā
   11:
-    arabic: هَضۡمًا‏
+    arabic: هَضۡمٗا
     translation: deprivation
     transliteration: haḍman
 ---

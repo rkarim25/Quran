@@ -1,61 +1,61 @@
 ---
-arabic_ayat: وَاَمَّا الَّذِيۡنَ فَسَقُوۡا فَمَاۡوٰٮهُمُ النَّارُ​ؕ كُلَّمَاۤ اَرَادُوۡۤا
-  اَنۡ يَّخۡرُجُوۡا مِنۡهَاۤ اُعِيۡدُوۡا فِيۡهَا وَ قِيۡلَ لَهُمۡ ذُوۡقُوۡا عَذَابَ
-  النَّارِ الَّذِىۡ كُنۡتُمۡ بِهٖ تُكَذِّبُوۡنَ‏
+arabic_ayat: وَأَمَّا ٱلَّذِينَ فَسَقُواْ فَمَأۡوَىٰهُمُ ٱلنَّارُۖ كُلَّمَآ أَرَادُوٓاْ
+  أَن يَخۡرُجُواْ مِنۡهَآ أُعِيدُواْ فِيهَا وَقِيلَ لَهُمۡ ذُوقُواْ عَذَابَ ٱلنَّارِ
+  ٱلَّذِي كُنتُم بِهِۦ تُكَذِّبُونَ
 sentence_translation: But as for those who are rebellious, the Fire will be their
   home. Whenever they try to escape from it, they will be forced back into it, and
   will be told, “Taste the Fire’s torment, which you used to deny.”
 word_by_word:
   1:
-    arabic: وَاَمَّا
+    arabic: وَأَمَّا
     translation: But as for
     transliteration: wa-ammā
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   3:
-    arabic: فَسَقُوۡا
+    arabic: فَسَقُواْ
     translation: are defiantly disobedient
     transliteration: fasaqū
   4:
-    arabic: فَمَاۡوٰٮهُمُ
+    arabic: فَمَأۡوَىٰهُمُ
     translation: then their refuge
     transliteration: famawāhumu
   5:
-    arabic: النَّارُ​ؕ
+    arabic: ٱلنَّارُۖ
     translation: (is) the Fire
     transliteration: l-nāru
   6:
-    arabic: كُلَّمَاۤ
+    arabic: كُلَّمَآ
     translation: Every time
     transliteration: kullamā
   7:
-    arabic: اَرَادُوۡۤا
+    arabic: أَرَادُوٓاْ
     translation: they wish
     transliteration: arādū
   8:
-    arabic: اَنۡ
+    arabic: أَن
     translation: to
     transliteration: an
   9:
-    arabic: يَّخۡرُجُوۡا
+    arabic: يَخۡرُجُواْ
     translation: come out
     transliteration: yakhrujū
   10:
-    arabic: مِنۡهَاۤ
+    arabic: مِنۡهَآ
     translation: from it
     transliteration: min'hā
   11:
-    arabic: اُعِيۡدُوۡا
+    arabic: أُعِيدُواْ
     translation: they (will) be returned
     transliteration: uʿīdū
   12:
-    arabic: فِيۡهَا
+    arabic: فِيهَا
     translation: in it
     transliteration: fīhā
   13:
-    arabic: وَ قِيۡلَ
+    arabic: وَقِيلَ
     translation: and it (will) be said
     transliteration: waqīla
   14:
@@ -63,7 +63,7 @@ word_by_word:
     translation: to them
     transliteration: lahum
   15:
-    arabic: ذُوۡقُوۡا
+    arabic: ذُوقُواْ
     translation: Taste
     transliteration: dhūqū
   16:
@@ -71,23 +71,23 @@ word_by_word:
     translation: (the) punishment
     transliteration: ʿadhāba
   17:
-    arabic: النَّارِ
+    arabic: ٱلنَّارِ
     translation: (of) the Fire
     transliteration: l-nāri
   18:
-    arabic: الَّذِىۡ
+    arabic: ٱلَّذِي
     translation: which
     transliteration: alladhī
   19:
-    arabic: كُنۡتُمۡ
+    arabic: كُنتُم
     translation: you used (to)
     transliteration: kuntum
   20:
-    arabic: بِهٖ
+    arabic: بِهِۦ
     translation: '[in it]'
     transliteration: bihi
   21:
-    arabic: تُكَذِّبُوۡنَ‏
+    arabic: تُكَذِّبُونَ
     translation: deny
     transliteration: tukadhibūna
 ---

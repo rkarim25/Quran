@@ -1,21 +1,21 @@
 ---
-arabic_ayat: فَجَعَلۡنٰهُمۡ سَلَفًا وَّمَثَلًا لِّلۡاٰخِرِيۡنَ‏
+arabic_ayat: فَجَعَلۡنَٰهُمۡ سَلَفٗا وَمَثَلٗا لِّلۡأٓخِرِينَ
 sentence_translation: And We made them an example and a lesson for those after them.
 word_by_word:
   1:
-    arabic: فَجَعَلۡنٰهُمۡ
+    arabic: فَجَعَلۡنَٰهُمۡ
     translation: And We made them
     transliteration: fajaʿalnāhum
   2:
-    arabic: سَلَفًا
+    arabic: سَلَفٗا
     translation: a precedent
     transliteration: salafan
   3:
-    arabic: وَّمَثَلًا
+    arabic: وَمَثَلٗا
     translation: and an example
     transliteration: wamathalan
   4:
-    arabic: لِّلۡاٰخِرِيۡنَ‏
+    arabic: لِّلۡأٓخِرِينَ
     translation: for the later (generations)
     transliteration: lil'ākhirīna
 ---

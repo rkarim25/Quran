@@ -1,7 +1,7 @@
 ---
-arabic_ayat: ثُمَّ اَرۡسَلۡنَا رُسُلَنَا تَتۡـرَا​ ؕ كُلَّ مَا جَآءَ اُمَّةً رَّسُوۡلُهَا
-  كَذَّبُوۡهُ​ فَاَتۡبَـعۡنَا بَعۡـضَهُمۡ بَعۡـضًا وَّجَعَلۡنٰهُمۡ اَحَادِيۡثَ​ ۚ
-  فَبُـعۡدًا لِّـقَوۡمٍ لَّا يُؤۡمِنُوۡنَ‏
+arabic_ayat: ثُمَّ أَرۡسَلۡنَا رُسُلَنَا تَتۡرَاۖ كُلَّ مَا جَآءَ أُمَّةٗ رَّسُولُهَا
+  كَذَّبُوهُۖ فَأَتۡبَعۡنَا بَعۡضَهُم بَعۡضٗا وَجَعَلۡنَٰهُمۡ أَحَادِيثَۚ فَبُعۡدٗا
+  لِّقَوۡمٖ لَّا يُؤۡمِنُونَ
 sentence_translation: 'Then We sent Our messengers in succession: whenever a messenger
   came to his people, they denied him. So We destroyed them, one after the other,
   reducing them to ˹cautionary˺ tales. So away with the people who refuse to believe!'
@@ -11,7 +11,7 @@ word_by_word:
     translation: Then
     transliteration: thumma
   2:
-    arabic: اَرۡسَلۡنَا
+    arabic: أَرۡسَلۡنَا
     translation: We sent
     transliteration: arsalnā
   3:
@@ -19,7 +19,7 @@ word_by_word:
     translation: Our Messengers
     transliteration: rusulanā
   4:
-    arabic: تَتۡـرَا​ ؕ
+    arabic: تَتۡرَاۖ
     translation: (in) succession
     transliteration: tatrā
   5:
@@ -35,43 +35,43 @@ word_by_word:
     translation: came
     transliteration: jāa
   8:
-    arabic: اُمَّةً
+    arabic: أُمَّةٗ
     translation: (to) a nation
     transliteration: ummatan
   9:
-    arabic: رَّسُوۡلُهَا
+    arabic: رَّسُولُهَا
     translation: its Messenger
     transliteration: rasūluhā
   10:
-    arabic: كَذَّبُوۡهُ​
+    arabic: كَذَّبُوهُۖ
     translation: they denied him
     transliteration: kadhabūhu
   11:
-    arabic: فَاَتۡبَـعۡنَا
+    arabic: فَأَتۡبَعۡنَا
     translation: 'so We made (them) follow '
     transliteration: fa-atbaʿnā
   12:
-    arabic: بَعۡـضَهُمۡ
+    arabic: بَعۡضَهُم
     translation: some of them
     transliteration: baʿḍahum
   13:
-    arabic: بَعۡـضًا
+    arabic: بَعۡضٗا
     translation: others
     transliteration: baʿḍan
   14:
-    arabic: وَّجَعَلۡنٰهُمۡ
+    arabic: وَجَعَلۡنَٰهُمۡ
     translation: and We made them
     transliteration: wajaʿalnāhum
   15:
-    arabic: اَحَادِيۡثَ​ ۚ
+    arabic: أَحَادِيثَۚ
     translation: narrations
     transliteration: aḥādītha
   16:
-    arabic: فَبُـعۡدًا
+    arabic: فَبُعۡدٗا
     translation: So away
     transliteration: fabuʿ'dan
   17:
-    arabic: لِّـقَوۡمٍ
+    arabic: لِّقَوۡمٖ
     translation: 'with a people '
     transliteration: liqawmin
   18:
@@ -79,7 +79,7 @@ word_by_word:
     translation: not
     transliteration: lā
   19:
-    arabic: يُؤۡمِنُوۡنَ‏
+    arabic: يُؤۡمِنُونَ
     translation: they believe
     transliteration: yu'minūna
 ---

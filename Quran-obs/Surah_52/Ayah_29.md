@@ -1,5 +1,5 @@
 ---
-arabic_ayat: فَذَكِّرۡ فَمَاۤ اَنۡتَ بِنِعۡمَتِ رَبِّكَ بِكَاهِنٍ وَّلَا مَجۡنُوۡنٍؕ‏
+arabic_ayat: فَذَكِّرۡ فَمَآ أَنتَ بِنِعۡمَتِ رَبِّكَ بِكَاهِنٖ وَلَا مَجۡنُونٍ
 sentence_translation: So ˹continue to˺ remind ˹all, O  Prophet˺. For you, by the grace
   of your Lord, are not a fortune-teller or a madman.
 word_by_word:
@@ -8,11 +8,11 @@ word_by_word:
     translation: Therefore remind
     transliteration: fadhakkir
   2:
-    arabic: فَمَاۤ
+    arabic: فَمَآ
     translation: for not
     transliteration: famā
   3:
-    arabic: اَنۡتَ
+    arabic: أَنتَ
     translation: you
     transliteration: anta
   4:
@@ -24,15 +24,15 @@ word_by_word:
     translation: (of) your Lord
     transliteration: rabbika
   6:
-    arabic: بِكَاهِنٍ
+    arabic: بِكَاهِنٖ
     translation: a soothsayer
     transliteration: bikāhinin
   7:
-    arabic: وَّلَا
+    arabic: وَلَا
     translation: and not
     transliteration: walā
   8:
-    arabic: مَجۡنُوۡنٍؕ‏
+    arabic: مَجۡنُونٍ
     translation: a madman
     transliteration: majnūnin
 ---

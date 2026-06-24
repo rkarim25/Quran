@@ -1,7 +1,6 @@
 ---
-arabic_ayat: "يَغۡفِرۡ لَـكُمۡ ذُنُوۡبَكُمۡ وَيُدۡخِلۡكُمۡ جَنّٰتٍ تَجۡرِىۡ مِنۡ تَحۡتِهَا\
-  \ الۡاَنۡهٰرُ وَمَسٰكِنَ طَيِّبَةً فِىۡ جَنّٰتِ عَدۡنٍ​ؕ ذٰلِكَ الۡفَوۡزُ الۡعَظِيۡمُۙ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: يَغۡفِرۡ لَكُمۡ ذُنُوبَكُمۡ وَيُدۡخِلۡكُمۡ جَنَّٰتٖ تَجۡرِي مِن تَحۡتِهَا
+  ٱلۡأَنۡهَٰرُ وَمَسَٰكِنَ طَيِّبَةٗ فِي جَنَّٰتِ عَدۡنٖۚ ذَٰلِكَ ٱلۡفَوۡزُ ٱلۡعَظِيمُ
 sentence_translation: He will forgive your sins, and admit you into Gardens under
   which rivers flow, and ˹house you in˺ splendid homes in the Gardens of Eternity.
   That is the ultimate triumph.
@@ -11,11 +10,11 @@ word_by_word:
     translation: He will forgive
     transliteration: yaghfir
   2:
-    arabic: لَـكُمۡ
+    arabic: لَكُمۡ
     translation: for you
     transliteration: lakum
   3:
-    arabic: ذُنُوۡبَكُمۡ
+    arabic: ذُنُوبَكُمۡ
     translation: your sins
     transliteration: dhunūbakum
   4:
@@ -23,15 +22,15 @@ word_by_word:
     translation: and admit you
     transliteration: wayud'khil'kum
   5:
-    arabic: جَنّٰتٍ
+    arabic: جَنَّٰتٖ
     translation: (in) Gardens
     transliteration: jannātin
   6:
-    arabic: تَجۡرِىۡ
+    arabic: تَجۡرِي
     translation: flow
     transliteration: tajrī
   7:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   8:
@@ -39,39 +38,39 @@ word_by_word:
     translation: underneath it
     transliteration: taḥtihā
   9:
-    arabic: الۡاَنۡهٰرُ
+    arabic: ٱلۡأَنۡهَٰرُ
     translation: the rivers
     transliteration: l-anhāru
   10:
-    arabic: وَمَسٰكِنَ
+    arabic: وَمَسَٰكِنَ
     translation: and dwellings
     transliteration: wamasākina
   11:
-    arabic: طَيِّبَةً
+    arabic: طَيِّبَةٗ
     translation: pleasant
     transliteration: ṭayyibatan
   12:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   13:
-    arabic: جَنّٰتِ
+    arabic: جَنَّٰتِ
     translation: Gardens
     transliteration: jannāti
   14:
-    arabic: عَدۡنٍ​ؕ
+    arabic: عَدۡنٖۚ
     translation: (of) Eternity
     transliteration: ʿadnin
   15:
-    arabic: ذٰلِكَ
+    arabic: ذَٰلِكَ
     translation: That
     transliteration: dhālika
   16:
-    arabic: الۡفَوۡزُ
+    arabic: ٱلۡفَوۡزُ
     translation: (is) the success
     transliteration: l-fawzu
   17:
-    arabic: "الۡعَظِيۡمُۙ‏ \uFEFF\uFEFF"
+    arabic: ٱلۡعَظِيمُ
     translation: the great
     transliteration: l-ʿaẓīmu
 ---

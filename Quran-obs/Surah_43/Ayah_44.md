@@ -1,14 +1,14 @@
 ---
-arabic_ayat: وَاِنَّهٗ لَذِكۡرٌ لَّكَ وَلِقَوۡمِكَ​ ۚ وَسَوۡفَ تُسۡـَٔـلُوۡنَ‏
+arabic_ayat: وَإِنَّهُۥ لَذِكۡرٞ لَّكَ وَلِقَوۡمِكَۖ وَسَوۡفَ تُسۡـَٔلُونَ
 sentence_translation: Surely this ˹Quran˺ is a glory for you and your people. And
   you will ˹all˺ be questioned ˹about it˺.
 word_by_word:
   1:
-    arabic: وَاِنَّهٗ
+    arabic: وَإِنَّهُۥ
     translation: And indeed, it
     transliteration: wa-innahu
   2:
-    arabic: لَذِكۡرٌ
+    arabic: لَذِكۡرٞ
     translation: (is) surely, a Reminder
     transliteration: ladhik'run
   3:
@@ -16,7 +16,7 @@ word_by_word:
     translation: for you
     transliteration: laka
   4:
-    arabic: وَلِقَوۡمِكَ​ ۚ
+    arabic: وَلِقَوۡمِكَۖ
     translation: and your people
     transliteration: waliqawmika
   5:
@@ -24,7 +24,7 @@ word_by_word:
     translation: and soon
     transliteration: wasawfa
   6:
-    arabic: تُسۡـَٔـلُوۡنَ‏
+    arabic: تُسۡـَٔلُونَ
     translation: you will be questioned
     transliteration: tus'alūna
 ---

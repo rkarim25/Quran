@@ -1,9 +1,9 @@
 ---
-arabic_ayat: وَرَفَعَ اَبَوَيۡهِ عَلَى الۡعَرۡشِ وَخَرُّوۡا لَهٗ سُجَّدًا​ۚ وَقَالَ
-  يٰۤاَبَتِ هٰذَا تَاۡوِيۡلُ رُءۡيَاىَ مِنۡ قَبۡلُقَدۡ جَعَلَهَا رَبِّىۡ حَقًّا​ؕ
-  وَقَدۡ اَحۡسَنَ بِىۡۤ اِذۡ اَخۡرَجَنِىۡ مِنَ السِّجۡنِ وَجَآءَ بِكُمۡ مِّنَ الۡبَدۡوِ
-  مِنۡۢ بَعۡدِ اَنۡ نَّزَغَ الشَّيۡطٰنُ بَيۡنِىۡ وَبَيۡنَ اِخۡوَتِىۡ​ؕ اِنَّ رَبِّىۡ
-  لَطِيۡفٌ لِّمَا يَشَآءُ​ؕ اِنَّهٗ هُوَ الۡعَلِيۡمُ الۡحَكِيۡمُ‏
+arabic_ayat: وَرَفَعَ أَبَوَيۡهِ عَلَى ٱلۡعَرۡشِ وَخَرُّواْ لَهُۥ سُجَّدٗاۖ وَقَالَ
+  يَٰٓأَبَتِ هَٰذَا تَأۡوِيلُ رُءۡيَٰيَ مِن قَبۡلُ قَدۡ جَعَلَهَا رَبِّي حَقّٗاۖ وَقَدۡ
+  أَحۡسَنَ بِيٓ إِذۡ أَخۡرَجَنِي مِنَ ٱلسِّجۡنِ وَجَآءَ بِكُم مِّنَ ٱلۡبَدۡوِ مِنۢ
+  بَعۡدِ أَن نَّزَغَ ٱلشَّيۡطَٰنُ بَيۡنِي وَبَيۡنَ إِخۡوَتِيٓۚ إِنَّ رَبِّي لَطِيفٞ
+  لِّمَا يَشَآءُۚ إِنَّهُۥ هُوَ ٱلۡعَلِيمُ ٱلۡحَكِيمُ
 sentence_translation: Then he raised his parents to the throne, and they all fell
   down in prostration to Joseph, who then said, “O my dear father! This is the interpretation
   of my old dream. My Lord has made it come true. He was truly kind to me when He
@@ -16,7 +16,7 @@ word_by_word:
     translation: And he raised
     transliteration: warafaʿa
   2:
-    arabic: اَبَوَيۡهِ
+    arabic: أَبَوَيۡهِ
     translation: his parents
     transliteration: abawayhi
   3:
@@ -24,19 +24,19 @@ word_by_word:
     translation: upon
     transliteration: ʿalā
   4:
-    arabic: الۡعَرۡشِ
+    arabic: ٱلۡعَرۡشِ
     translation: the throne
     transliteration: l-ʿarshi
   5:
-    arabic: وَخَرُّوۡا
+    arabic: وَخَرُّواْ
     translation: and they fell down
     transliteration: wakharrū
   6:
-    arabic: لَهٗ
+    arabic: لَهُۥ
     translation: to him
     transliteration: lahu
   7:
-    arabic: سُجَّدًا​ۚ
+    arabic: سُجَّدٗاۖ
     translation: prostrate
     transliteration: sujjadan
   8:
@@ -44,27 +44,27 @@ word_by_word:
     translation: And he said
     transliteration: waqāla
   9:
-    arabic: يٰۤاَبَتِ
+    arabic: يَٰٓأَبَتِ
     translation: O my father
     transliteration: yāabati
   10:
-    arabic: هٰذَا
+    arabic: هَٰذَا
     translation: This
     transliteration: hādhā
   11:
-    arabic: تَاۡوِيۡلُ
+    arabic: تَأۡوِيلُ
     translation: (is the) interpretation
     transliteration: tawīlu
   12:
-    arabic: رُءۡيَاىَ
+    arabic: رُءۡيَٰيَ
     translation: (of) my dream
     transliteration: ru'yāya
   13:
-    arabic: مِنۡ
+    arabic: مِن
     translation: (of) before
     transliteration: min
   14:
-    arabic: قَبۡلُ
+    arabic: قَبۡلُ
     translation: (of) before
     transliteration: qablu
   15:
@@ -76,11 +76,11 @@ word_by_word:
     translation: has made it
     transliteration: jaʿalahā
   17:
-    arabic: رَبِّىۡ
+    arabic: رَبِّي
     translation: my Lord
     transliteration: rabbī
   18:
-    arabic: حَقًّا​ؕ
+    arabic: حَقّٗاۖ
     translation: 'true'
     transliteration: ḥaqqan
   19:
@@ -88,19 +88,19 @@ word_by_word:
     translation: And indeed
     transliteration: waqad
   20:
-    arabic: اَحۡسَنَ
+    arabic: أَحۡسَنَ
     translation: He was good
     transliteration: aḥsana
   21:
-    arabic: بِىۡۤ
+    arabic: بِيٓ
     translation: to me
     transliteration: bī
   22:
-    arabic: اِذۡ
+    arabic: إِذۡ
     translation: when
     transliteration: idh
   23:
-    arabic: اَخۡرَجَنِىۡ
+    arabic: أَخۡرَجَنِي
     translation: He took me out
     transliteration: akhrajanī
   24:
@@ -108,7 +108,7 @@ word_by_word:
     translation: of
     transliteration: mina
   25:
-    arabic: السِّجۡنِ
+    arabic: ٱلسِّجۡنِ
     translation: the prison
     transliteration: l-sij'ni
   26:
@@ -116,7 +116,7 @@ word_by_word:
     translation: and brought
     transliteration: wajāa
   27:
-    arabic: بِكُمۡ
+    arabic: بِكُم
     translation: you
     transliteration: bikum
   28:
@@ -124,11 +124,11 @@ word_by_word:
     translation: from
     transliteration: mina
   29:
-    arabic: الۡبَدۡوِ
+    arabic: ٱلۡبَدۡوِ
     translation: the bedouin life
     transliteration: l-badwi
   30:
-    arabic: مِنۡۢ
+    arabic: مِنۢ
     translation: after
     transliteration: min
   31:
@@ -136,7 +136,7 @@ word_by_word:
     translation: after
     transliteration: baʿdi
   32:
-    arabic: اَنۡ
+    arabic: أَن
     translation: '[that]'
     transliteration: an
   33:
@@ -144,11 +144,11 @@ word_by_word:
     translation: had caused discord
     transliteration: nazagha
   34:
-    arabic: الشَّيۡطٰنُ
+    arabic: ٱلشَّيۡطَٰنُ
     translation: the Shaitaan
     transliteration: l-shayṭānu
   35:
-    arabic: بَيۡنِىۡ
+    arabic: بَيۡنِي
     translation: between me
     transliteration: baynī
   36:
@@ -156,19 +156,19 @@ word_by_word:
     translation: and between
     transliteration: wabayna
   37:
-    arabic: اِخۡوَتِىۡ​ؕ
+    arabic: إِخۡوَتِيٓۚ
     translation: my brothers
     transliteration: ikh'watī
   38:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   39:
-    arabic: رَبِّىۡ
+    arabic: رَبِّي
     translation: my Lord
     transliteration: rabbī
   40:
-    arabic: لَطِيۡفٌ
+    arabic: لَطِيفٞ
     translation: (is) Most Subtle
     transliteration: laṭīfun
   41:
@@ -176,11 +176,11 @@ word_by_word:
     translation: to what
     transliteration: limā
   42:
-    arabic: يَشَآءُ​ؕ
+    arabic: يَشَآءُۚ
     translation: He wills
     transliteration: yashāu
   43:
-    arabic: اِنَّهٗ
+    arabic: إِنَّهُۥ
     translation: Indeed, He
     transliteration: innahu
   44:
@@ -188,11 +188,11 @@ word_by_word:
     translation: He
     transliteration: huwa
   45:
-    arabic: الۡعَلِيۡمُ
+    arabic: ٱلۡعَلِيمُ
     translation: (is) the All-Knower
     transliteration: l-ʿalīmu
   46:
-    arabic: الۡحَكِيۡمُ‏
+    arabic: ٱلۡحَكِيمُ
     translation: the All-Wise
     transliteration: l-ḥakīmu
 ---

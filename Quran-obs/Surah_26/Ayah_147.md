@@ -1,17 +1,17 @@
 ---
-arabic_ayat: فِىۡ جَنّٰتٍ وَّعُيُوۡنٍۙ‏
+arabic_ayat: فِي جَنَّٰتٖ وَعُيُونٖ
 sentence_translation: amid gardens and springs,
 word_by_word:
   1:
-    arabic: فِىۡ
+    arabic: فِي
     translation: In
     transliteration: fī
   2:
-    arabic: جَنّٰتٍ
+    arabic: جَنَّٰتٖ
     translation: gardens
     transliteration: jannātin
   3:
-    arabic: وَّعُيُوۡنٍۙ‏
+    arabic: وَعُيُونٖ
     translation: and springs
     transliteration: waʿuyūnin
 ---

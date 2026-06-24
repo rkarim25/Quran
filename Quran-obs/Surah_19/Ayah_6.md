@@ -1,11 +1,10 @@
 ---
-arabic_ayat: "يَّرِثُنِىۡ وَيَرِثُ مِنۡ اٰلِ يَعۡقُوۡبَ ۖ ​ وَاجۡعَلۡهُ رَبِّ رَضِيًّا‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: يَرِثُنِي وَيَرِثُ مِنۡ ءَالِ يَعۡقُوبَۖ وَٱجۡعَلۡهُ رَبِّ رَضِيّٗا
 sentence_translation: who will inherit ˹prophethood˺ from me and the family of Jacob,
   and make him, O  Lord, pleasing ˹to You˺!”
 word_by_word:
   1:
-    arabic: يَّرِثُنِىۡ
+    arabic: يَرِثُنِي
     translation: Who will inherit me
     transliteration: yarithunī
   2:
@@ -13,19 +12,19 @@ word_by_word:
     translation: and inherit
     transliteration: wayarithu
   3:
-    arabic: مِنۡ
+    arabic: مِنۡ ءَ
     translation: from
     transliteration: min
   4:
-    arabic: اٰلِ
+    arabic: الِ
     translation: (the) family
     transliteration: āli
   5:
-    arabic: يَعۡقُوۡبَ ۖ ​
+    arabic: يَعۡقُوبَۖ
     translation: (of) Yaqub
     transliteration: yaʿqūba
   6:
-    arabic: وَاجۡعَلۡهُ
+    arabic: وَٱجۡعَلۡهُ
     translation: And make him
     transliteration: wa-ij'ʿalhu
   7:
@@ -33,7 +32,7 @@ word_by_word:
     translation: my Lord
     transliteration: rabbi
   8:
-    arabic: "رَضِيًّا‏ \uFEFF\uFEFF"
+    arabic: رَضِيّٗا
     translation: pleasing
     transliteration: raḍiyyan
 ---

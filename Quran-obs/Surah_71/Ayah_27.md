@@ -1,15 +1,15 @@
 ---
-arabic_ayat: اِنَّكَ اِنۡ تَذَرۡهُمۡ يُضِلُّوۡا عِبَادَكَ وَلَا يَلِدُوۡۤا اِلَّا
-  فَاجِرًا كَفَّارًا‏
+arabic_ayat: إِنَّكَ إِن تَذَرۡهُمۡ يُضِلُّواْ عِبَادَكَ وَلَا يَلِدُوٓاْ إِلَّا فَاجِرٗا
+  كَفَّارٗا
 sentence_translation: For if You spare ˹any of˺ them, they will certainly mislead
   Your servants, and give birth only to ˹wicked˺ sinners, staunch disbelievers.
 word_by_word:
   1:
-    arabic: اِنَّكَ
+    arabic: إِنَّكَ
     translation: Indeed, You
     transliteration: innaka
   2:
-    arabic: اِنۡ
+    arabic: إِن
     translation: if
     transliteration: in
   3:
@@ -17,7 +17,7 @@ word_by_word:
     translation: You leave them
     transliteration: tadharhum
   4:
-    arabic: يُضِلُّوۡا
+    arabic: يُضِلُّواْ
     translation: they will mislead
     transliteration: yuḍillū
   5:
@@ -29,19 +29,19 @@ word_by_word:
     translation: and not
     transliteration: walā
   7:
-    arabic: يَلِدُوۡۤا
+    arabic: يَلِدُوٓاْ
     translation: they will beget
     transliteration: yalidū
   8:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   9:
-    arabic: فَاجِرًا
+    arabic: فَاجِرٗا
     translation: a wicked
     transliteration: fājiran
   10:
-    arabic: كَفَّارًا‏
+    arabic: كَفَّارٗا
     translation: a disbeliever
     transliteration: kaffāran
 ---

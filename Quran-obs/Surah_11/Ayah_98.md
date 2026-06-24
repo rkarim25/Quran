@@ -1,6 +1,6 @@
 ---
-arabic_ayat: يَقۡدُمُ قَوۡمَهٗ يَوۡمَ الۡقِيٰمَةِ فَاَوۡرَدَهُمُ النَّارَ​ؕ وَبِئۡسَ
-  الۡوِرۡدُ الۡمَوۡرُوۡدُ‏
+arabic_ayat: يَقۡدُمُ قَوۡمَهُۥ يَوۡمَ ٱلۡقِيَٰمَةِ فَأَوۡرَدَهُمُ ٱلنَّارَۖ وَبِئۡسَ
+  ٱلۡوِرۡدُ ٱلۡمَوۡرُودُ
 sentence_translation: He will be before his people on the Day of Judgment and will
   lead them into the Fire. What an evil place to be led into!
 word_by_word:
@@ -9,7 +9,7 @@ word_by_word:
     translation: He will precede
     transliteration: yaqdumu
   2:
-    arabic: قَوۡمَهٗ
+    arabic: قَوۡمَهُۥ
     translation: his people
     transliteration: qawmahu
   3:
@@ -17,15 +17,15 @@ word_by_word:
     translation: (on the) Day
     transliteration: yawma
   4:
-    arabic: الۡقِيٰمَةِ
+    arabic: ٱلۡقِيَٰمَةِ
     translation: (of) the Resurrection
     transliteration: l-qiyāmati
   5:
-    arabic: فَاَوۡرَدَهُمُ
+    arabic: فَأَوۡرَدَهُمُ
     translation: and lead them
     transliteration: fa-awradahumu
   6:
-    arabic: النَّارَ​ؕ
+    arabic: ٱلنَّارَۖ
     translation: (into) the Fire
     transliteration: l-nāra
   7:
@@ -33,11 +33,11 @@ word_by_word:
     translation: And wretched
     transliteration: wabi'sa
   8:
-    arabic: الۡوِرۡدُ
+    arabic: ٱلۡوِرۡدُ
     translation: (is) the place
     transliteration: l-wir'du
   9:
-    arabic: الۡمَوۡرُوۡدُ‏
+    arabic: ٱلۡمَوۡرُودُ
     translation: to which (they are) led
     transliteration: l-mawrūdu
 ---

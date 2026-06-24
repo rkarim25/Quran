@@ -1,33 +1,33 @@
 ---
-arabic_ayat: وَالَّذِيۡنَ اٰمَنُوۡا وَاتَّبَعَتۡهُمۡ ذُرِّيَّتُهُمۡ بِاِيۡمَانٍ اَلۡحَـقۡنَا
-  بِهِمۡ ذُرِّيَّتَهُمۡ وَمَاۤ اَلَـتۡنٰهُمۡ مِّنۡ عَمَلِهِمۡ مِّنۡ شَىۡءٍ​ؕ كُلُّ
-  امۡرِیءٍۢ بِمَا كَسَبَ رَهِيۡنٌ‏
+arabic_ayat: وَٱلَّذِينَ ءَامَنُواْ وَٱتَّبَعَتۡهُمۡ ذُرِّيَّتُهُم بِإِيمَٰنٍ أَلۡحَقۡنَا
+  بِهِمۡ ذُرِّيَّتَهُمۡ وَمَآ أَلَتۡنَٰهُم مِّنۡ عَمَلِهِم مِّن شَيۡءٖۚ كُلُّ ٱمۡرِيِٕۭ
+  بِمَا كَسَبَ رَهِينٞ
 sentence_translation: As for those who believe and whose descendants follow them in
   faith, We will elevate their descendants to their rank, never discounting anything
   ˹of the reward˺ of their deeds. Every person will reap only what they sowed.
 word_by_word:
   1:
-    arabic: وَالَّذِيۡنَ
+    arabic: وَٱلَّذِينَ ءَ
     translation: And those who
     transliteration: wa-alladhīna
   2:
-    arabic: اٰمَنُوۡا
+    arabic: امَنُواْ
     translation: believed
     transliteration: āmanū
   3:
-    arabic: وَاتَّبَعَتۡهُمۡ
+    arabic: وَٱتَّبَعَتۡهُمۡ
     translation: and followed them
     transliteration: wa-ittabaʿathum
   4:
-    arabic: ذُرِّيَّتُهُمۡ
+    arabic: ذُرِّيَّتُهُم
     translation: their offspring
     transliteration: dhurriyyatuhum
   5:
-    arabic: بِاِيۡمَانٍ
+    arabic: بِإِيمَٰنٍ
     translation: in faith
     transliteration: biīmānin
   6:
-    arabic: اَلۡحَـقۡنَا
+    arabic: أَلۡحَقۡنَا
     translation: We will join
     transliteration: alḥaqnā
   7:
@@ -39,11 +39,11 @@ word_by_word:
     translation: their offspring
     transliteration: dhurriyyatahum
   9:
-    arabic: وَمَاۤ
+    arabic: وَمَآ
     translation: and not
     transliteration: wamā
   10:
-    arabic: اَلَـتۡنٰهُمۡ
+    arabic: أَلَتۡنَٰهُم
     translation: We will deprive them
     transliteration: alatnāhum
   11:
@@ -51,15 +51,15 @@ word_by_word:
     translation: of
     transliteration: min
   12:
-    arabic: عَمَلِهِمۡ
+    arabic: عَمَلِهِم
     translation: their deeds
     transliteration: ʿamalihim
   13:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: (in) any
     transliteration: min
   14:
-    arabic: شَىۡءٍ​ؕ
+    arabic: شَيۡءٖۚ
     translation: thing
     transliteration: shayin
   15:
@@ -67,7 +67,7 @@ word_by_word:
     translation: Every
     transliteration: kullu
   16:
-    arabic: امۡرِیءٍۢ
+    arabic: ٱمۡرِيِٕۭ
     translation: person
     transliteration: im'ri-in
   17:
@@ -79,7 +79,7 @@ word_by_word:
     translation: he earned
     transliteration: kasaba
   19:
-    arabic: رَهِيۡنٌ‏
+    arabic: رَهِينٞ
     translation: (is) pledged
     transliteration: rahīnun
 ---

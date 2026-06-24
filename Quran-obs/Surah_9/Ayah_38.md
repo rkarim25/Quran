@@ -1,23 +1,22 @@
 ---
-arabic_ayat: يٰۤـاَيُّهَا الَّذِيۡنَ اٰمَنُوۡا مَا لَـكُمۡ اِذَا قِيۡلَ لَـكُمُ انْفِرُوۡا
-  فِىۡ سَبِيۡلِ اللّٰهِ اثَّاقَلۡـتُمۡ اِلَى الۡاَرۡضِ​ ؕ اَرَضِيۡتُمۡ بِالۡحَيٰوةِ
-  الدُّنۡيَا مِنَ الۡاٰخِرَةِ​ ۚ فَمَا مَتَاعُ الۡحَيٰوةِ الدُّنۡيَا فِى الۡاٰخِرَةِ
-  اِلَّا قَلِيۡلٌ‏
+arabic_ayat: يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُواْ مَا لَكُمۡ إِذَا قِيلَ لَكُمُ ٱنفِرُواْ
+  فِي سَبِيلِ ٱللَّهِ ٱثَّاقَلۡتُمۡ إِلَى ٱلۡأَرۡضِۚ أَرَضِيتُم بِٱلۡحَيَوٰةِ ٱلدُّنۡيَا
+  مِنَ ٱلۡأٓخِرَةِۚ فَمَا مَتَٰعُ ٱلۡحَيَوٰةِ ٱلدُّنۡيَا فِي ٱلۡأٓخِرَةِ إِلَّا قَلِيلٌ
 sentence_translation: O believers! What is the matter with you that when you are asked
   to march forth in the cause of Allah, you cling firmly to ˹your˺ land? Do you prefer
   the life of this world over the Hereafter? The enjoyment of this worldly life is
   insignificant compared to that of the Hereafter.
 word_by_word:
   1:
-    arabic: يٰۤـاَيُّهَا
+    arabic: يَٰٓأَيُّهَا
     translation: O you who believe
     transliteration: yāayyuhā
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ ءَ
     translation: O you who believe
     transliteration: alladhīna
   3:
-    arabic: اٰمَنُوۡا
+    arabic: امَنُواْ
     translation: O you who believe
     transliteration: āmanū
   4:
@@ -25,59 +24,59 @@ word_by_word:
     translation: What
     transliteration: mā
   5:
-    arabic: لَـكُمۡ
+    arabic: لَكُمۡ
     translation: (is the matter) with you
     transliteration: lakum
   6:
-    arabic: اِذَا
+    arabic: إِذَا
     translation: when
     transliteration: idhā
   7:
-    arabic: قِيۡلَ
+    arabic: قِيلَ
     translation: it is said
     transliteration: qīla
   8:
-    arabic: لَـكُمُ
+    arabic: لَكُمُ
     translation: to you
     transliteration: lakumu
   9:
-    arabic: انْفِرُوۡا
+    arabic: ٱنفِرُواْ
     translation: go forth
     transliteration: infirū
   10:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   11:
-    arabic: سَبِيۡلِ
+    arabic: سَبِيلِ
     translation: (the) way
     transliteration: sabīli
   12:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (of) Allah
     transliteration: l-lahi
   13:
-    arabic: اثَّاقَلۡـتُمۡ
+    arabic: ٱثَّاقَلۡتُمۡ
     translation: you cling heavily
     transliteration: ithāqaltum
   14:
-    arabic: اِلَى
+    arabic: إِلَى
     translation: to
     transliteration: ilā
   15:
-    arabic: الۡاَرۡضِؕ
+    arabic: ٱلۡأَرۡضِۚ
     translation: the earth
     transliteration: l-arḍi
   16:
-    arabic: اَرَضِيۡتُمۡ
+    arabic: أَرَضِيتُم
     translation: Are you pleased
     transliteration: araḍītum
   17:
-    arabic: بِالۡحَيٰوةِ
+    arabic: بِٱلۡحَيَوٰةِ
     translation: with the life
     transliteration: bil-ḥayati
   18:
-    arabic: الدُّنۡيَا
+    arabic: ٱلدُّنۡيَا
     translation: (of) the world
     transliteration: l-dun'yā
   19:
@@ -85,7 +84,7 @@ word_by_word:
     translation: (rather) than
     transliteration: mina
   20:
-    arabic: الۡاٰخِرَةِ​ ۚ
+    arabic: ٱلۡأٓخِرَةِۚ
     translation: the Hereafter
     transliteration: l-ākhirati
   21:
@@ -93,31 +92,31 @@ word_by_word:
     translation: But what
     transliteration: famā
   22:
-    arabic: مَتَاعُ
+    arabic: مَتَٰعُ
     translation: (is the) enjoyment
     transliteration: matāʿu
   23:
-    arabic: الۡحَيٰوةِ
+    arabic: ٱلۡحَيَوٰةِ
     translation: (of) the life
     transliteration: l-ḥayati
   24:
-    arabic: الدُّنۡيَا
+    arabic: ٱلدُّنۡيَا
     translation: (of) the world
     transliteration: l-dun'yā
   25:
-    arabic: فِى
+    arabic: فِي
     translation: in (comparison to)
     transliteration: fī
   26:
-    arabic: الۡاٰخِرَةِ
+    arabic: ٱلۡأٓخِرَةِ
     translation: the hereafter
     transliteration: l-ākhirati
   27:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   28:
-    arabic: قَلِيۡلٌ‏
+    arabic: قَلِيلٌ
     translation: a little
     transliteration: qalīlun
 ---

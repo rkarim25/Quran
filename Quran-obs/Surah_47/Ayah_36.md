@@ -1,40 +1,40 @@
 ---
-arabic_ayat: اِنَّمَا الۡحَيٰوةُ الدُّنۡيَا لَعِبٌ وَّلَهۡوٌ​ ؕ وَاِنۡ تُؤۡمِنُوۡا
-  وَتَتَّقُوۡا يُؤۡتِكُمۡ اُجُوۡرَكُمۡ وَلَا يَسۡــَٔــلۡكُمۡ اَمۡوَالَكُمۡ‏
+arabic_ayat: إِنَّمَا ٱلۡحَيَوٰةُ ٱلدُّنۡيَا لَعِبٞ وَلَهۡوٞۚ وَإِن تُؤۡمِنُواْ وَتَتَّقُواْ
+  يُؤۡتِكُمۡ أُجُورَكُمۡ وَلَا يَسۡـَٔلۡكُمۡ أَمۡوَٰلَكُمۡ
 sentence_translation: This worldly life is no more than play and amusement. But if
   you are faithful and mindful ˹of Allah˺, He will grant you your ˹full˺ reward, and
   will not ask you ˹to donate all˺ your wealth.
 word_by_word:
   1:
-    arabic: اِنَّمَا
+    arabic: إِنَّمَا
     translation: Only
     transliteration: innamā
   2:
-    arabic: الۡحَيٰوةُ
+    arabic: ٱلۡحَيَوٰةُ
     translation: the life
     transliteration: l-ḥayatu
   3:
-    arabic: الدُّنۡيَا
+    arabic: ٱلدُّنۡيَا
     translation: (of) the world
     transliteration: l-dun'yā
   4:
-    arabic: لَعِبٌ
+    arabic: لَعِبٞ
     translation: (is) play
     transliteration: laʿibun
   5:
-    arabic: وَّلَهۡوٌ​ ؕ
+    arabic: وَلَهۡوٞۚ
     translation: and amusement
     transliteration: walahwun
   6:
-    arabic: وَاِنۡ
+    arabic: وَإِن
     translation: And if
     transliteration: wa-in
   7:
-    arabic: تُؤۡمِنُوۡا
+    arabic: تُؤۡمِنُواْ
     translation: you believe
     transliteration: tu'minū
   8:
-    arabic: وَتَتَّقُوۡا
+    arabic: وَتَتَّقُواْ
     translation: and fear (Allah)
     transliteration: watattaqū
   9:
@@ -42,7 +42,7 @@ word_by_word:
     translation: He will give you
     transliteration: yu'tikum
   10:
-    arabic: اُجُوۡرَكُمۡ
+    arabic: أُجُورَكُمۡ
     translation: your rewards
     transliteration: ujūrakum
   11:
@@ -50,11 +50,11 @@ word_by_word:
     translation: and not
     transliteration: walā
   12:
-    arabic: يَسۡــَٔــلۡكُمۡ
+    arabic: يَسۡـَٔلۡكُمۡ
     translation: will ask you
     transliteration: yasalkum
   13:
-    arabic: اَمۡوَالَكُمۡ‏
+    arabic: أَمۡوَٰلَكُمۡ
     translation: (for) your wealth
     transliteration: amwālakum
 ---

@@ -1,6 +1,6 @@
 ---
-arabic_ayat: هُوَ الَّذِىۡ يُحۡىٖ وَيُمِيۡتُؕ فَاِذَا قَضٰٓى اَمۡرًا فَاِنَّمَا يَقُوۡلُ
-  لَهٗ كُنۡ فَيَكُوۡنُ‏
+arabic_ayat: هُوَ ٱلَّذِي يُحۡيِۦ وَيُمِيتُۖ فَإِذَا قَضَىٰٓ أَمۡرٗا فَإِنَّمَا يَقُولُ
+  لَهُۥ كُن فَيَكُونُ
 sentence_translation: He is the One Who gives life and causes death. When He decrees
   a matter, He simply tells it, “Be!” And it is!
 word_by_word:
@@ -9,47 +9,47 @@ word_by_word:
     translation: He
     transliteration: huwa
   2:
-    arabic: الَّذِىۡ
+    arabic: ٱلَّذِي
     translation: (is) the One Who
     transliteration: alladhī
   3:
-    arabic: يُحۡىٖ
+    arabic: يُحۡيِۦ
     translation: gives life
     transliteration: yuḥ'yī
   4:
-    arabic: وَيُمِيۡتُؕ
+    arabic: وَيُمِيتُۖ
     translation: and causes death
     transliteration: wayumītu
   5:
-    arabic: فَاِذَا
+    arabic: فَإِذَا
     translation: And when
     transliteration: fa-idhā
   6:
-    arabic: قَضٰٓى
+    arabic: قَضَىٰٓ
     translation: He decrees
     transliteration: qaḍā
   7:
-    arabic: اَمۡرًا
+    arabic: أَمۡرٗا
     translation: a matter
     transliteration: amran
   8:
-    arabic: فَاِنَّمَا
+    arabic: فَإِنَّمَا
     translation: then only
     transliteration: fa-innamā
   9:
-    arabic: يَقُوۡلُ
+    arabic: يَقُولُ
     translation: He says
     transliteration: yaqūlu
   10:
-    arabic: لَهٗ
+    arabic: لَهُۥ
     translation: to it
     transliteration: lahu
   11:
-    arabic: كُنۡ
+    arabic: كُن
     translation: Be
     transliteration: kun
   12:
-    arabic: فَيَكُوۡنُ‏
+    arabic: فَيَكُونُ
     translation: and it is
     transliteration: fayakūnu
 ---

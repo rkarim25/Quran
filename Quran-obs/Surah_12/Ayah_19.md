@@ -1,7 +1,7 @@
 ---
-arabic_ayat: وَجَآءَتۡ سَيَّارَةٌ فَاَرۡسَلُوۡا وَارِدَهُمۡ فَاَدۡلٰى دَلۡوَهٗ​ ؕ
-  قَالَ يٰبُشۡرٰى هٰذَا غُلٰمٌ​ ؕ وَاَسَرُّوۡهُ بِضَاعَةً  ​ؕ وَاللّٰهُ عَلِيۡمٌۢ
-  بِمَا يَعۡمَلُوۡنَ‏
+arabic_ayat: وَجَآءَتۡ سَيَّارَةٞ فَأَرۡسَلُواْ وَارِدَهُمۡ فَأَدۡلَىٰ دَلۡوَهُۥۖ
+  قَالَ يَٰبُشۡرَىٰ هَٰذَا غُلَٰمٞۚ وَأَسَرُّوهُ بِضَٰعَةٗۚ وَٱللَّهُ عَلِيمُۢ بِمَا
+  يَعۡمَلُونَ
 sentence_translation: And there came some travellers, and they sent their water-boy
   who let down his bucket into the well. He cried out, “Oh, what a great find! Here
   is a boy!” And they took him secretly ˹to be sold˺ as merchandise, but Allah is
@@ -12,11 +12,11 @@ word_by_word:
     translation: And there came
     transliteration: wajāat
   2:
-    arabic: سَيَّارَةٌ
+    arabic: سَيَّارَةٞ
     translation: a caravan
     transliteration: sayyāratun
   3:
-    arabic: فَاَرۡسَلُوۡا
+    arabic: فَأَرۡسَلُواْ
     translation: and they sent
     transliteration: fa-arsalū
   4:
@@ -24,11 +24,11 @@ word_by_word:
     translation: their water drawer
     transliteration: wāridahum
   5:
-    arabic: فَاَدۡلٰى
+    arabic: فَأَدۡلَىٰ
     translation: then he let down
     transliteration: fa-adlā
   6:
-    arabic: دَلۡوَهٗ​ ؕ
+    arabic: دَلۡوَهُۥۖ
     translation: his bucket
     transliteration: dalwahu
   7:
@@ -36,31 +36,31 @@ word_by_word:
     translation: He said
     transliteration: qāla
   8:
-    arabic: يٰبُشۡرٰى
+    arabic: يَٰبُشۡرَىٰ
     translation: O good news
     transliteration: yābush'rā
   9:
-    arabic: هٰذَا
+    arabic: هَٰذَا
     translation: This
     transliteration: hādhā
   10:
-    arabic: غُلٰمٌ​ ؕ
+    arabic: غُلَٰمٞۚ
     translation: (is) a boy
     transliteration: ghulāmun
   11:
-    arabic: وَاَسَرُّوۡهُ
+    arabic: وَأَسَرُّوهُ
     translation: And they hid him
     transliteration: wa-asarrūhu
   12:
-    arabic: بِضَاعَةً  ​ؕ
+    arabic: بِضَٰعَةٗۚ
     translation: (as) a merchandise
     transliteration: biḍāʿatan
   13:
-    arabic: وَاللّٰهُ
+    arabic: وَٱللَّهُ
     translation: And Allah
     transliteration: wal-lahu
   14:
-    arabic: عَلِيۡمٌۢ
+    arabic: عَلِيمُۢ
     translation: (is) All-Knower
     transliteration: ʿalīmun
   15:
@@ -68,7 +68,7 @@ word_by_word:
     translation: of what
     transliteration: bimā
   16:
-    arabic: يَعۡمَلُوۡنَ‏
+    arabic: يَعۡمَلُونَ
     translation: they do
     transliteration: yaʿmalūna
 ---

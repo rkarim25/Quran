@@ -1,20 +1,20 @@
 ---
-arabic_ayat: ذٰ لِكَ لِيَـعۡلَمَ اَنِّىۡ لَمۡ اَخُنۡهُ بِالۡغَيۡبِ وَاَنَّ اللّٰهَ
-  لَا يَهۡدِىۡ كَيۡدَ الۡخَـآٮِٕنِيۡنَ‏
+arabic_ayat: ذَٰلِكَ لِيَعۡلَمَ أَنِّي لَمۡ أَخُنۡهُ بِٱلۡغَيۡبِ وَأَنَّ ٱللَّهَ لَا
+  يَهۡدِي كَيۡدَ ٱلۡخَآئِنِينَ
 sentence_translation: From this, Joseph should know that I did not speak dishonestly
   about him in his absence, for Allah certainly does not guide the scheming of the
   dishonest.
 word_by_word:
   1:
-    arabic: ذٰ لِكَ
+    arabic: ذَٰلِكَ
     translation: That
     transliteration: dhālika
   2:
-    arabic: لِيَـعۡلَمَ
+    arabic: لِيَعۡلَمَ
     translation: he may know
     transliteration: liyaʿlama
   3:
-    arabic: اَنِّىۡ
+    arabic: أَنِّي
     translation: that I
     transliteration: annī
   4:
@@ -22,19 +22,19 @@ word_by_word:
     translation: not
     transliteration: lam
   5:
-    arabic: اَخُنۡهُ
+    arabic: أَخُنۡهُ
     translation: '[I] betray him'
     transliteration: akhun'hu
   6:
-    arabic: بِالۡغَيۡبِ
+    arabic: بِٱلۡغَيۡبِ
     translation: in secret
     transliteration: bil-ghaybi
   7:
-    arabic: وَاَنَّ
+    arabic: وَأَنَّ
     translation: and that
     transliteration: wa-anna
   8:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   9:
@@ -42,7 +42,7 @@ word_by_word:
     translation: (does) not
     transliteration: lā
   10:
-    arabic: يَهۡدِىۡ
+    arabic: يَهۡدِي
     translation: guide
     transliteration: yahdī
   11:
@@ -50,7 +50,7 @@ word_by_word:
     translation: (the) plan
     transliteration: kayda
   12:
-    arabic: الۡخَـآٮِٕنِيۡنَ‏
+    arabic: ٱلۡخَآئِنِينَ
     translation: (of) the betrayers
     transliteration: l-khāinīna
 ---

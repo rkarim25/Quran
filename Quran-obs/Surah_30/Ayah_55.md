@@ -1,6 +1,6 @@
 ---
-arabic_ayat: وَيَوۡمَ تَقُوۡمُ السَّاعَةُ يُقۡسِمُ الۡمُجۡرِمُوۡنَ ۙ مَا لَبِثُوۡا
-  غَيۡرَ سَاعَةٍ ​ؕ كَذٰلِكَ كَانُوۡا يُؤۡفَكُوۡنَ‏
+arabic_ayat: وَيَوۡمَ تَقُومُ ٱلسَّاعَةُ يُقۡسِمُ ٱلۡمُجۡرِمُونَ مَا لَبِثُواْ غَيۡرَ
+  سَاعَةٖۚ كَذَٰلِكَ كَانُواْ يُؤۡفَكُونَ
 sentence_translation: And on the Day the Hour will arrive, the wicked will swear that
   they did not stay ˹in this world˺ more than an hour. In this way they were always
   deluded ˹in the world˺.
@@ -10,11 +10,11 @@ word_by_word:
     translation: And (the) Day
     transliteration: wayawma
   2:
-    arabic: تَقُوۡمُ
+    arabic: تَقُومُ
     translation: will (be) established
     transliteration: taqūmu
   3:
-    arabic: السَّاعَةُ
+    arabic: ٱلسَّاعَةُ
     translation: the Hour
     transliteration: l-sāʿatu
   4:
@@ -22,7 +22,7 @@ word_by_word:
     translation: will swear
     transliteration: yuq'simu
   5:
-    arabic: الۡمُجۡرِمُوۡنَ ۙ
+    arabic: ٱلۡمُجۡرِمُونَ
     translation: the criminals
     transliteration: l-muj'rimūna
   6:
@@ -30,7 +30,7 @@ word_by_word:
     translation: not
     transliteration: mā
   7:
-    arabic: لَبِثُوۡا
+    arabic: لَبِثُواْ
     translation: they remained
     transliteration: labithū
   8:
@@ -38,19 +38,19 @@ word_by_word:
     translation: but
     transliteration: ghayra
   9:
-    arabic: سَاعَةٍ ​ؕ
+    arabic: سَاعَةٖۚ
     translation: an hour
     transliteration: sāʿatin
   10:
-    arabic: كَذٰلِكَ
+    arabic: كَذَٰلِكَ
     translation: Thus
     transliteration: kadhālika
   11:
-    arabic: كَانُوۡا
+    arabic: كَانُواْ
     translation: they were
     transliteration: kānū
   12:
-    arabic: يُؤۡفَكُوۡنَ‏
+    arabic: يُؤۡفَكُونَ
     translation: deluded
     transliteration: yu'fakūna
 ---

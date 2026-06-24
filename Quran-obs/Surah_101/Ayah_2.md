@@ -1,5 +1,5 @@
 ---
-arabic_ayat: مَا الۡقَارِعَةُ​ ۚ‏
+arabic_ayat: مَا ٱلۡقَارِعَةُ
 sentence_translation: What is the Striking Disaster?
 word_by_word:
   1:
@@ -7,7 +7,7 @@ word_by_word:
     translation: What
     transliteration: mā
   2:
-    arabic: الۡقَارِعَةُ​ ۚ‏
+    arabic: ٱلۡقَارِعَةُ
     translation: (is) the Striking Calamity
     transliteration: l-qāriʿatu
 ---

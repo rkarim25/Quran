@@ -1,15 +1,15 @@
 ---
-arabic_ayat: اِنَّ هٰذَا لَهُوَ الۡقَصَصُ الۡحَـقُّ ​​ۚ وَمَا مِنۡ اِلٰهٍ اِلَّا اللّٰهُ​ؕ
-  وَاِنَّ اللّٰهَ لَهُوَ الۡعَزِيۡزُ الۡحَكِيۡمُ‏
+arabic_ayat: إِنَّ هَٰذَا لَهُوَ ٱلۡقَصَصُ ٱلۡحَقُّۚ وَمَا مِنۡ إِلَٰهٍ إِلَّا ٱللَّهُۚ
+  وَإِنَّ ٱللَّهَ لَهُوَ ٱلۡعَزِيزُ ٱلۡحَكِيمُ
 sentence_translation: Certainly, this is the true narrative, and there is no god ˹worthy
   of worship˺ except Allah. And indeed, Allah ˹alone˺ is the Almighty, All-Wise.
 word_by_word:
   1:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   2:
-    arabic: هٰذَا
+    arabic: هَٰذَا
     translation: this
     transliteration: hādhā
   3:
@@ -17,11 +17,11 @@ word_by_word:
     translation: surely it (is)
     transliteration: lahuwa
   4:
-    arabic: الۡقَصَصُ
+    arabic: ٱلۡقَصَصُ
     translation: 'the narration '
     transliteration: l-qaṣaṣu
   5:
-    arabic: الۡحَـقُّ ​​ۚ
+    arabic: ٱلۡحَقُّۚ
     translation: '[the] true'
     transliteration: l-ḥaqu
   6:
@@ -33,23 +33,23 @@ word_by_word:
     translation: (of)
     transliteration: min
   8:
-    arabic: اِلٰهٍ
+    arabic: إِلَٰهٍ
     translation: god
     transliteration: ilāhin
   9:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   10:
-    arabic: اللّٰهُ​ؕ
+    arabic: ٱللَّهُۚ
     translation: Allah
     transliteration: l-lahu
   11:
-    arabic: وَاِنَّ
+    arabic: وَإِنَّ
     translation: And indeed
     transliteration: wa-inna
   12:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   13:
@@ -57,11 +57,11 @@ word_by_word:
     translation: surely He
     transliteration: lahuwa
   14:
-    arabic: الۡعَزِيۡزُ
+    arabic: ٱلۡعَزِيزُ
     translation: (is) the All-Mighty
     transliteration: l-ʿazīzu
   15:
-    arabic: الۡحَكِيۡمُ‏
+    arabic: ٱلۡحَكِيمُ
     translation: the All-Wise
     transliteration: l-ḥakīmu
 ---

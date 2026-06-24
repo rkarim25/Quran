@@ -1,13 +1,13 @@
 ---
-arabic_ayat: وَيۡلٌ لِّلۡمُطَفِّفِيۡنَۙ‏
+arabic_ayat: وَيۡلٞ لِّلۡمُطَفِّفِينَ
 sentence_translation: Woe to the defrauders!
 word_by_word:
   1:
-    arabic: وَيۡلٌ
+    arabic: وَيۡلٞ
     translation: Woe
     transliteration: waylun
   2:
-    arabic: لِّلۡمُطَفِّفِيۡنَۙ‏
+    arabic: لِّلۡمُطَفِّفِينَ
     translation: to those who give less
     transliteration: lil'muṭaffifīna
 ---

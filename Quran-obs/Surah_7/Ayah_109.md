@@ -1,6 +1,5 @@
 ---
-arabic_ayat: قَالَ الۡمَلَاُ مِنۡ قَوۡمِ فِرۡعَوۡنَ اِنَّ هٰذَا لَسٰحِرٌ عَلِيۡمٌ
-  ۙ‏
+arabic_ayat: قَالَ ٱلۡمَلَأُ مِن قَوۡمِ فِرۡعَوۡنَ إِنَّ هَٰذَا لَسَٰحِرٌ عَلِيمٞ
 sentence_translation: The chiefs of Pharaoh’s people said, “He is indeed a skilled
   magician,
 word_by_word:
@@ -9,11 +8,11 @@ word_by_word:
     translation: Said
     transliteration: qāla
   2:
-    arabic: الۡمَلَاُ
+    arabic: ٱلۡمَلَأُ
     translation: the chiefs
     transliteration: l-mala-u
   3:
-    arabic: مِنۡ
+    arabic: مِن
     translation: of
     transliteration: min
   4:
@@ -25,19 +24,19 @@ word_by_word:
     translation: (of) Firaun
     transliteration: fir'ʿawna
   6:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   7:
-    arabic: هٰذَا
+    arabic: هَٰذَا
     translation: this
     transliteration: hādhā
   8:
-    arabic: لَسٰحِرٌ
+    arabic: لَسَٰحِرٌ
     translation: '(is) surely a magician '
     transliteration: lasāḥirun
   9:
-    arabic: عَلِيۡمٌ ۙ‏
+    arabic: عَلِيمٞ
     translation: learned
     transliteration: ʿalīmun
 ---

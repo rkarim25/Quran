@@ -1,10 +1,10 @@
 ---
-arabic_ayat: وَاسۡتَفۡتَحُوۡا وَخَابَ كُلُّ جَبَّارٍ عَنِيۡدٍۙ‏
+arabic_ayat: وَٱسۡتَفۡتَحُواْ وَخَابَ كُلُّ جَبَّارٍ عَنِيدٖ
 sentence_translation: And both sides called for judgment, so every stubborn tyrant
   was doomed.
 word_by_word:
   1:
-    arabic: وَاسۡتَفۡتَحُوۡا
+    arabic: وَٱسۡتَفۡتَحُواْ
     translation: And they sought victory
     transliteration: wa-is'taftaḥū
   2:
@@ -20,7 +20,7 @@ word_by_word:
     translation: tyrant
     transliteration: jabbārin
   5:
-    arabic: عَنِيۡدٍۙ‏
+    arabic: عَنِيدٖ
     translation: obstinate
     transliteration: ʿanīdin
 ---

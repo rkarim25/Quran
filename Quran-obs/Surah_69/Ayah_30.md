@@ -1,13 +1,13 @@
 ---
-arabic_ayat: خُذُوۡهُ فَغُلُّوۡهُ ۙ‏
+arabic_ayat: خُذُوهُ فَغُلُّوهُ
 sentence_translation: ˹It will be said,˺ “Seize and shackle them,
 word_by_word:
   1:
-    arabic: خُذُوۡهُ
+    arabic: خُذُوهُ
     translation: Seize him
     transliteration: khudhūhu
   2:
-    arabic: فَغُلُّوۡهُ ۙ‏
+    arabic: فَغُلُّوهُ
     translation: and shackle him
     transliteration: faghullūhu
 ---

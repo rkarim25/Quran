@@ -1,13 +1,13 @@
 ---
-arabic_ayat: اَفَلَا تَذَكَّرُوۡنَ​ۚ‏
+arabic_ayat: أَفَلَا تَذَكَّرُونَ
 sentence_translation: Will you not then be mindful?
 word_by_word:
   1:
-    arabic: اَفَلَا
+    arabic: أَفَلَا
     translation: Then will not
     transliteration: afalā
   2:
-    arabic: تَذَكَّرُوۡنَ​ۚ‏
+    arabic: تَذَكَّرُونَ
     translation: you pay heed
     transliteration: tadhakkarūna
 ---

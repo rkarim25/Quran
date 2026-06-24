@@ -1,10 +1,10 @@
 ---
-arabic_ayat: وَفِىۡ عَادٍ اِذۡ اَرۡسَلۡنَا عَلَيۡهِمُ الرِّيۡحَ الۡعَقِيۡمَ​ۚ‏
+arabic_ayat: وَفِي عَادٍ إِذۡ أَرۡسَلۡنَا عَلَيۡهِمُ ٱلرِّيحَ ٱلۡعَقِيمَ
 sentence_translation: And in ˹the story of˺ ’Âd ˹was another lesson,˺ when We sent
   against them the devastating wind.
 word_by_word:
   1:
-    arabic: وَفِىۡ
+    arabic: وَفِي
     translation: And in
     transliteration: wafī
   2:
@@ -12,11 +12,11 @@ word_by_word:
     translation: Aad
     transliteration: ʿādin
   3:
-    arabic: اِذۡ
+    arabic: إِذۡ
     translation: when
     transliteration: idh
   4:
-    arabic: اَرۡسَلۡنَا
+    arabic: أَرۡسَلۡنَا
     translation: We sent
     transliteration: arsalnā
   5:
@@ -24,11 +24,11 @@ word_by_word:
     translation: against them
     transliteration: ʿalayhimu
   6:
-    arabic: الرِّيۡحَ
+    arabic: ٱلرِّيحَ
     translation: the wind
     transliteration: l-rīḥa
   7:
-    arabic: الۡعَقِيۡمَ​ۚ‏
+    arabic: ٱلۡعَقِيمَ
     translation: the barren
     transliteration: l-ʿaqīma
 ---

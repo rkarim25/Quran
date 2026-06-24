@@ -1,7 +1,6 @@
 ---
-arabic_ayat: "فَلَمۡ يَكُ يَنۡفَعُهُمۡ اِيۡمَانُهُمۡ لَمَّا رَاَوۡا بَاۡسَنَا ؕ سُنَّتَ\
-  \ اللّٰهِ الَّتِىۡ قَدۡ خَلَتۡ فِىۡ عِبَادِهٖ​ۚ وَخَسِرَ هُنَالِكَ الۡكٰفِرُوۡنَ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: فَلَمۡ يَكُ يَنفَعُهُمۡ إِيمَٰنُهُمۡ لَمَّا رَأَوۡاْ بَأۡسَنَاۖ سُنَّتَ
+  ٱللَّهِ ٱلَّتِي قَدۡ خَلَتۡ فِي عِبَادِهِۦۖ وَخَسِرَ هُنَالِكَ ٱلۡكَٰفِرُونَ
 sentence_translation: But their faith was of no benefit to them when they saw Our
   torment. This has ˹always˺ been Allah’s way ˹of dealing˺ with His ˹wicked˺ servants.
   Then and there the disbelievers were in ˹total˺ loss.
@@ -15,11 +14,11 @@ word_by_word:
     translation: But did not
     transliteration: yaku
   3:
-    arabic: يَنۡفَعُهُمۡ
+    arabic: يَنفَعُهُمۡ
     translation: benefit them
     transliteration: yanfaʿuhum
   4:
-    arabic: اِيۡمَانُهُمۡ
+    arabic: إِيمَٰنُهُمۡ
     translation: their faith
     transliteration: īmānuhum
   5:
@@ -27,11 +26,11 @@ word_by_word:
     translation: when
     transliteration: lammā
   6:
-    arabic: رَاَوۡا
+    arabic: رَأَوۡاْ
     translation: they saw
     transliteration: ra-aw
   7:
-    arabic: بَاۡسَنَا ؕ
+    arabic: بَأۡسَنَاۖ
     translation: Our punishment
     transliteration: basanā
   8:
@@ -39,11 +38,11 @@ word_by_word:
     translation: (Such is the) Way
     transliteration: sunnata
   9:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (of) Allah
     transliteration: l-lahi
   10:
-    arabic: الَّتِىۡ
+    arabic: ٱلَّتِي
     translation: which
     transliteration: allatī
   11:
@@ -55,11 +54,11 @@ word_by_word:
     translation: preceded
     transliteration: khalat
   13:
-    arabic: فِىۡ
+    arabic: فِي
     translation: among
     transliteration: fī
   14:
-    arabic: عِبَادِهٖ​ۚ
+    arabic: عِبَادِهِۦۖ
     translation: His slaves
     transliteration: ʿibādihi
   15:
@@ -71,7 +70,7 @@ word_by_word:
     translation: there
     transliteration: hunālika
   17:
-    arabic: "الۡكٰفِرُوۡنَ‏ \uFEFF\uFEFF"
+    arabic: ٱلۡكَٰفِرُونَ
     translation: the disbelievers
     transliteration: l-kāfirūna
 ---

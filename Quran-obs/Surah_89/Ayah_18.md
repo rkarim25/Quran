@@ -1,5 +1,5 @@
 ---
-arabic_ayat: وَلَا تَحٰٓضُّوۡنَ عَلٰى طَعَامِ الۡمِسۡكِيۡنِۙ‏
+arabic_ayat: وَلَا تَحَٰٓضُّونَ عَلَىٰ طَعَامِ ٱلۡمِسۡكِينِ
 sentence_translation: nor do you urge one another to feed the poor.
 word_by_word:
   1:
@@ -7,11 +7,11 @@ word_by_word:
     translation: And not
     transliteration: walā
   2:
-    arabic: تَحٰٓضُّوۡنَ
+    arabic: تَحَٰٓضُّونَ
     translation: you feel the urge
     transliteration: taḥāḍḍūna
   3:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: to
     transliteration: ʿalā
   4:
@@ -19,7 +19,7 @@ word_by_word:
     translation: feed
     transliteration: ṭaʿāmi
   5:
-    arabic: الۡمِسۡكِيۡنِۙ‏
+    arabic: ٱلۡمِسۡكِينِ
     translation: the poor
     transliteration: l-mis'kīni
 ---

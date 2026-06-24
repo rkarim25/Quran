@@ -1,6 +1,6 @@
 ---
-arabic_ayat: فَلَمَّا رَاٰ قَمِيۡصَهٗ قُدَّ مِنۡ دُبُرٍ قَالَ اِنَّهٗ مِنۡ كَيۡدِكُنَّ​ؕ
-  اِنَّ كَيۡدَكُنَّ عَظِيۡمٌ‏
+arabic_ayat: فَلَمَّا رَءَا قَمِيصَهُۥ قُدَّ مِن دُبُرٖ قَالَ إِنَّهُۥ مِن كَيۡدِكُنَّۖ
+  إِنَّ كَيۡدَكُنَّ عَظِيمٞ
 sentence_translation: So when her husband saw that Joseph’s shirt was torn from the
   back, he said ˹to her˺, “This must be ˹an example˺ of the cunning of you ˹women˺!
   Indeed, your cunning is so shrewd!
@@ -10,11 +10,11 @@ word_by_word:
     translation: So when
     transliteration: falammā
   2:
-    arabic: رَاٰ
+    arabic: رَءَا
     translation: he saw
     transliteration: raā
   3:
-    arabic: قَمِيۡصَهٗ
+    arabic: قَمِيصَهُۥ
     translation: his shirt
     transliteration: qamīṣahu
   4:
@@ -22,11 +22,11 @@ word_by_word:
     translation: torn
     transliteration: qudda
   5:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   6:
-    arabic: دُبُرٍ
+    arabic: دُبُرٖ
     translation: (the) back
     transliteration: duburin
   7:
@@ -34,19 +34,19 @@ word_by_word:
     translation: he said
     transliteration: qāla
   8:
-    arabic: اِنَّهٗ
+    arabic: إِنَّهُۥ
     translation: Indeed, it
     transliteration: innahu
   9:
-    arabic: مِنۡ
+    arabic: مِن
     translation: (is) of
     transliteration: min
   10:
-    arabic: كَيۡدِكُنَّ​ؕ
+    arabic: كَيۡدِكُنَّۖ
     translation: your plot
     transliteration: kaydikunna
   11:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   12:
@@ -54,7 +54,7 @@ word_by_word:
     translation: your plot
     transliteration: kaydakunna
   13:
-    arabic: عَظِيۡمٌ‏
+    arabic: عَظِيمٞ
     translation: (is) great
     transliteration: ʿaẓīmun
 ---

@@ -1,13 +1,13 @@
 ---
-arabic_ayat: فَالۡمُدَبِّرٰتِ اَمۡرًا​ ۘ‏
+arabic_ayat: فَٱلۡمُدَبِّرَٰتِ أَمۡرٗا
 sentence_translation: and those conducting affairs ˹obediently˺!
 word_by_word:
   1:
-    arabic: فَالۡمُدَبِّرٰتِ
+    arabic: فَٱلۡمُدَبِّرَٰتِ
     translation: And those who arrange
     transliteration: fal-mudabirāti
   2:
-    arabic: اَمۡرًا​ ۘ‏
+    arabic: أَمۡرٗا
     translation: (the) matter
     transliteration: amran
 ---

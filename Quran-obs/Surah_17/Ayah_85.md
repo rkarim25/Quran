@@ -1,11 +1,11 @@
 ---
-arabic_ayat: وَيَسۡـــَٔلُوۡنَكَ عَنِ الرُّوۡحِ​ ؕ قُلِ الرُّوۡحُ مِنۡ اَمۡرِ رَبِّىۡ
-  وَمَاۤ اُوۡتِيۡتُمۡ مِّنَ الۡعِلۡمِ اِلَّا قَلِيۡلًا‏
+arabic_ayat: وَيَسۡـَٔلُونَكَ عَنِ ٱلرُّوحِۖ قُلِ ٱلرُّوحُ مِنۡ أَمۡرِ رَبِّي وَمَآ
+  أُوتِيتُم مِّنَ ٱلۡعِلۡمِ إِلَّا قَلِيلٗا
 sentence_translation: They ask you ˹O Prophet˺ about the spirit. Say, “Its nature
   is known only to my Lord, and you ˹O humanity˺ have been given but little knowledge.”
 word_by_word:
   1:
-    arabic: وَيَسۡـــَٔلُوۡنَكَ
+    arabic: وَيَسۡـَٔلُونَكَ
     translation: And they ask you
     transliteration: wayasalūnaka
   2:
@@ -13,7 +13,7 @@ word_by_word:
     translation: concerning
     transliteration: ʿani
   3:
-    arabic: الرُّوۡحِ​ ؕ
+    arabic: ٱلرُّوحِۖ
     translation: the soul
     transliteration: l-rūḥi
   4:
@@ -21,7 +21,7 @@ word_by_word:
     translation: Say
     transliteration: quli
   5:
-    arabic: الرُّوۡحُ
+    arabic: ٱلرُّوحُ
     translation: The soul
     transliteration: l-rūḥu
   6:
@@ -29,19 +29,19 @@ word_by_word:
     translation: (is) of
     transliteration: min
   7:
-    arabic: اَمۡرِ
+    arabic: أَمۡرِ
     translation: (the) affair
     transliteration: amri
   8:
-    arabic: رَبِّىۡ
+    arabic: رَبِّي
     translation: (of) my Lord
     transliteration: rabbī
   9:
-    arabic: وَمَاۤ
+    arabic: وَمَآ
     translation: And not
     transliteration: wamā
   10:
-    arabic: اُوۡتِيۡتُمۡ
+    arabic: أُوتِيتُم
     translation: you have been given
     transliteration: ūtītum
   11:
@@ -49,15 +49,15 @@ word_by_word:
     translation: of
     transliteration: mina
   12:
-    arabic: الۡعِلۡمِ
+    arabic: ٱلۡعِلۡمِ
     translation: the knowledge
     transliteration: l-ʿil'mi
   13:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   14:
-    arabic: قَلِيۡلًا‏
+    arabic: قَلِيلٗا
     translation: a little
     transliteration: qalīlan
 ---

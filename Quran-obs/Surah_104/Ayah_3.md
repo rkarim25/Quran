@@ -1,5 +1,5 @@
 ---
-arabic_ayat: يَحۡسَبُ اَنَّ مَالَهٗۤ اَخۡلَدَهٗ​ ۚ‏
+arabic_ayat: يَحۡسَبُ أَنَّ مَالَهُۥٓ أَخۡلَدَهُۥ
 sentence_translation: thinking that their wealth will make them immortal!
 word_by_word:
   1:
@@ -7,15 +7,15 @@ word_by_word:
     translation: Thinking
     transliteration: yaḥsabu
   2:
-    arabic: اَنَّ
+    arabic: أَنَّ
     translation: that
     transliteration: anna
   3:
-    arabic: مَالَهٗۤ
+    arabic: مَالَهُۥٓ
     translation: his wealth
     transliteration: mālahu
   4:
-    arabic: اَخۡلَدَهٗ​ ۚ‏
+    arabic: أَخۡلَدَهُۥ
     translation: will make him immortal
     transliteration: akhladahu
 ---

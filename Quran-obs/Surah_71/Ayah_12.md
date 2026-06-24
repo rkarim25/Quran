@@ -1,43 +1,43 @@
 ---
-arabic_ayat: وَّيُمۡدِدۡكُمۡ بِاَمۡوَالٍ وَّبَنِيۡنَ وَيَجۡعَلۡ لَّـكُمۡ جَنّٰتٍ وَّيَجۡعَلۡ
-  لَّـكُمۡ اَنۡهٰرًا ؕ‏
+arabic_ayat: وَيُمۡدِدۡكُم بِأَمۡوَٰلٖ وَبَنِينَ وَيَجۡعَل لَّكُمۡ جَنَّٰتٖ وَيَجۡعَل
+  لَّكُمۡ أَنۡهَٰرٗا
 sentence_translation: supply you with wealth and children, and give you gardens as
   well as rivers.
 word_by_word:
   1:
-    arabic: وَّيُمۡدِدۡكُمۡ
+    arabic: وَيُمۡدِدۡكُم
     translation: And provide you
     transliteration: wayum'did'kum
   2:
-    arabic: بِاَمۡوَالٍ
+    arabic: بِأَمۡوَٰلٖ
     translation: with wealth
     transliteration: bi-amwālin
   3:
-    arabic: وَّبَنِيۡنَ
+    arabic: وَبَنِينَ
     translation: and children
     transliteration: wabanīna
   4:
-    arabic: وَيَجۡعَلۡ
+    arabic: وَيَجۡعَل
     translation: and make
     transliteration: wayajʿal
   5:
-    arabic: لَّـكُمۡ
+    arabic: لَّكُمۡ
     translation: for you
     transliteration: lakum
   6:
-    arabic: جَنّٰتٍ
+    arabic: جَنَّٰتٖ
     translation: gardens
     transliteration: jannātin
   7:
-    arabic: وَّيَجۡعَلۡ
+    arabic: وَيَجۡعَل
     translation: and make
     transliteration: wayajʿal
   8:
-    arabic: لَّـكُمۡ
+    arabic: لَّكُمۡ
     translation: for you
     transliteration: lakum
   9:
-    arabic: اَنۡهٰرًا ؕ‏
+    arabic: أَنۡهَٰرٗا
     translation: rivers
     transliteration: anhāran
 ---

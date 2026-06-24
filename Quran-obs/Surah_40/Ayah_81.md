@@ -1,30 +1,30 @@
 ---
-arabic_ayat: وَيُرِيۡكُمۡ اٰيٰتِهٖ ۖ  فَاَىَّ اٰيٰتِ اللّٰهِ تُنۡكِرُوۡنَ‏
+arabic_ayat: وَيُرِيكُمۡ ءَايَٰتِهِۦ فَأَيَّ ءَايَٰتِ ٱللَّهِ تُنكِرُونَ
 sentence_translation: And He shows you His signs. Now which of Allah’s signs will
   you deny?
 word_by_word:
   1:
-    arabic: وَيُرِيۡكُمۡ
+    arabic: وَيُرِيكُمۡ ءَ
     translation: And He shows you
     transliteration: wayurīkum
   2:
-    arabic: اٰيٰتِهٖ ۖ 
+    arabic: ايَٰتِهِۦ
     translation: His Signs
     transliteration: āyātihi
   3:
-    arabic: فَاَىَّ
+    arabic: فَأَيَّ ءَ
     translation: Then which
     transliteration: fa-ayya
   4:
-    arabic: اٰيٰتِ
+    arabic: ايَٰتِ
     translation: (of the) Signs
     transliteration: āyāti
   5:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (of) Allah
     transliteration: l-lahi
   6:
-    arabic: تُنۡكِرُوۡنَ‏
+    arabic: تُنكِرُونَ
     translation: will you deny
     transliteration: tunkirūna
 ---

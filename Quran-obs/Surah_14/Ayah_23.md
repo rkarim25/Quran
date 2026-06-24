@@ -1,41 +1,41 @@
 ---
-arabic_ayat: وَاُدۡخِلَ الَّذِيۡنَ اٰمَنُوۡا وَعَمِلُوا الصّٰلِحٰتِ جَنّٰتٍ تَجۡرِىۡ
-  مِنۡ تَحۡتِهَا الۡاَنۡهٰرُ خٰلِدِيۡنَ فِيۡهَا بِاِذۡنِ رَبِّهِمۡ​ؕ تَحِيَّتُهُمۡ
-  فِيۡهَا سَلٰمٌ‏
+arabic_ayat: وَأُدۡخِلَ ٱلَّذِينَ ءَامَنُواْ وَعَمِلُواْ ٱلصَّٰلِحَٰتِ جَنَّٰتٖ تَجۡرِي
+  مِن تَحۡتِهَا ٱلۡأَنۡهَٰرُ خَٰلِدِينَ فِيهَا بِإِذۡنِ رَبِّهِمۡۖ تَحِيَّتُهُمۡ فِيهَا
+  سَلَٰمٌ
 sentence_translation: Those who believe and do good will be admitted into Gardens,
   under which rivers flow—to stay there forever by the Will of their Lord—where they
   will be greeted with “Peace!”
 word_by_word:
   1:
-    arabic: وَاُدۡخِلَ
+    arabic: وَأُدۡخِلَ
     translation: And will be admitted
     transliteration: wa-ud'khila
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ ءَ
     translation: those who
     transliteration: alladhīna
   3:
-    arabic: اٰمَنُوۡا
+    arabic: امَنُواْ
     translation: believed
     transliteration: āmanū
   4:
-    arabic: وَعَمِلُوا
+    arabic: وَعَمِلُواْ
     translation: and did
     transliteration: waʿamilū
   5:
-    arabic: الصّٰلِحٰتِ
+    arabic: ٱلصَّٰلِحَٰتِ
     translation: righteous deeds
     transliteration: l-ṣāliḥāti
   6:
-    arabic: جَنّٰتٍ
+    arabic: جَنَّٰتٖ
     translation: (to) Gardens
     transliteration: jannātin
   7:
-    arabic: تَجۡرِىۡ
+    arabic: تَجۡرِي
     translation: flows
     transliteration: tajrī
   8:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   9:
@@ -43,23 +43,23 @@ word_by_word:
     translation: underneath it
     transliteration: taḥtihā
   10:
-    arabic: الۡاَنۡهٰرُ
+    arabic: ٱلۡأَنۡهَٰرُ
     translation: the rivers
     transliteration: l-anhāru
   11:
-    arabic: خٰلِدِيۡنَ
+    arabic: خَٰلِدِينَ
     translation: (will) abide forever
     transliteration: khālidīna
   12:
-    arabic: فِيۡهَا
+    arabic: فِيهَا
     translation: in it
     transliteration: fīhā
   13:
-    arabic: بِاِذۡنِ
+    arabic: بِإِذۡنِ
     translation: by the permission
     transliteration: bi-idh'ni
   14:
-    arabic: رَبِّهِمۡ​ؕ
+    arabic: رَبِّهِمۡۖ
     translation: (of) their Lord
     transliteration: rabbihim
   15:
@@ -67,11 +67,11 @@ word_by_word:
     translation: their greetings
     transliteration: taḥiyyatuhum
   16:
-    arabic: فِيۡهَا
+    arabic: فِيهَا
     translation: therein
     transliteration: fīhā
   17:
-    arabic: سَلٰمٌ‏
+    arabic: سَلَٰمٌ
     translation: (will be) peace
     transliteration: salāmun
 ---

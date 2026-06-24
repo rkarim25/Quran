@@ -1,34 +1,34 @@
 ---
-arabic_ayat: وَاِذِ ابۡتَلٰٓى اِبۡرٰهٖمَ رَبُّهٗ بِكَلِمٰتٍ فَاَتَمَّهُنَّ ​ؕ قَالَ
-  اِنِّىۡ جَاعِلُكَ لِلنَّاسِ اِمَامًا ​ؕ قَالَ وَمِنۡ ذُرِّيَّتِىۡ ​ؕ قَالَ لَا يَنَالُ
-  عَهۡدِى الظّٰلِمِيۡنَ‏
+arabic_ayat: ۞ وَإِذِ ٱبۡتَلَىٰٓ إِبۡرَٰهِـۧمَ رَبُّهُۥ بِكَلِمَٰتٖ فَأَتَمَّهُنَّۖ
+  قَالَ إِنِّي جَاعِلُكَ لِلنَّاسِ إِمَامٗاۖ قَالَ وَمِن ذُرِّيَّتِيۖ قَالَ لَا يَنَالُ
+  عَهۡدِي ٱلظَّٰلِمِينَ
 sentence_translation: ˹Remember˺ when Abraham was tested by his Lord with ˹certain˺
   commandments, which he fulfilled. Allah said, “I will certainly make you into a
   role model for the people.” Abraham asked, “What about my offspring?” Allah replied,
   “My covenant is not extended to the wrongdoers.”
 word_by_word:
   1:
-    arabic: ۞ وَاِذِ
+    arabic: ۞ وَإِذِ
     translation: And when
     transliteration: wa-idhi
   2:
-    arabic: ابۡتَلٰٓى
+    arabic: ٱبۡتَلَىٰٓ
     translation: tried
     transliteration: ib'talā
   3:
-    arabic: اِبۡرٰهٖمَ
+    arabic: إِبۡرَٰهِـۧمَ
     translation: Ibrahim
     transliteration: ib'rāhīma
   4:
-    arabic: رَبُّهٗ
+    arabic: رَبُّهُۥ
     translation: his Lord
     transliteration: rabbuhu
   5:
-    arabic: بِكَلِمٰتٍ
+    arabic: بِكَلِمَٰتٖ
     translation: with words
     transliteration: bikalimātin
   6:
-    arabic: فَاَتَمَّهُنَّ ​ؕ
+    arabic: فَأَتَمَّهُنَّۖ
     translation: and he fulfilled them
     transliteration: fa-atammahunna
   7:
@@ -36,7 +36,7 @@ word_by_word:
     translation: He said
     transliteration: qāla
   8:
-    arabic: اِنِّىۡ
+    arabic: إِنِّي
     translation: Indeed I
     transliteration: innī
   9:
@@ -48,7 +48,7 @@ word_by_word:
     translation: for the mankind
     transliteration: lilnnāsi
   11:
-    arabic: اِمَامًا ​ؕ
+    arabic: إِمَامٗاۖ
     translation: a leader
     transliteration: imāman
   12:
@@ -56,11 +56,11 @@ word_by_word:
     translation: He said
     transliteration: qāla
   13:
-    arabic: وَمِنۡ
+    arabic: وَمِن
     translation: And from
     transliteration: wamin
   14:
-    arabic: ذُرِّيَّتِىۡ ​ؕ
+    arabic: ذُرِّيَّتِيۖ
     translation: my offspring
     transliteration: dhurriyyatī
   15:
@@ -76,11 +76,11 @@ word_by_word:
     translation: reach
     transliteration: yanālu
   18:
-    arabic: عَهۡدِى
+    arabic: عَهۡدِي
     translation: My Covenant
     transliteration: ʿahdī
   19:
-    arabic: الظّٰلِمِيۡنَ‏
+    arabic: ٱلظَّٰلِمِينَ
     translation: (to) the wrongdoers
     transliteration: l-ẓālimīna
 ---

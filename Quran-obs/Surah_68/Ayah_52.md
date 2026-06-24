@@ -1,5 +1,5 @@
 ---
-arabic_ayat: وَمَا هُوَ اِلَّا ذِكۡرٌ لِّلۡعٰلَمِيۡنَ‏
+arabic_ayat: وَمَا هُوَ إِلَّا ذِكۡرٞ لِّلۡعَٰلَمِينَ
 sentence_translation: But it is simply a reminder to the whole world.
 word_by_word:
   1:
@@ -11,15 +11,15 @@ word_by_word:
     translation: it (is)
     transliteration: huwa
   3:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: but
     transliteration: illā
   4:
-    arabic: ذِكۡرٌ
+    arabic: ذِكۡرٞ
     translation: a Reminder
     transliteration: dhik'run
   5:
-    arabic: لِّلۡعٰلَمِيۡنَ‏
+    arabic: لِّلۡعَٰلَمِينَ
     translation: to the worlds
     transliteration: lil'ʿālamīna
 ---

@@ -1,13 +1,13 @@
 ---
-arabic_ayat: لَا خَيۡرَ فِىۡ كَثِيۡرٍ مِّنۡ نَّجۡوٰٮهُمۡ اِلَّا مَنۡ اَمَرَ بِصَدَقَةٍ
-  اَوۡ مَعۡرُوۡفٍ اَوۡ اِصۡلَاحٍۢ بَيۡنَ النَّاسِ​ ؕ وَمَن يَّفۡعَلۡ ذٰ لِكَ ابۡتِغَآءَ
-  مَرۡضَاتِ اللّٰهِ فَسَوۡفَ نُـؤۡتِيۡهِ اَجۡرًا عَظِيۡمًا‏
+arabic_ayat: ۞ لَّا خَيۡرَ فِي كَثِيرٖ مِّن نَّجۡوَىٰهُمۡ إِلَّا مَنۡ أَمَرَ بِصَدَقَةٍ
+  أَوۡ مَعۡرُوفٍ أَوۡ إِصۡلَٰحِۭ بَيۡنَ ٱلنَّاسِۚ وَمَن يَفۡعَلۡ ذَٰلِكَ ٱبۡتِغَآءَ
+  مَرۡضَاتِ ٱللَّهِ فَسَوۡفَ نُؤۡتِيهِ أَجۡرًا عَظِيمٗا
 sentence_translation: There is no good in most of their secret talks—except those
   encouraging charity, kindness, or reconciliation between people. And whoever does
   this seeking Allah’s pleasure, We will grant them a great reward.
 word_by_word:
   1:
-    arabic: ۞ لَا
+    arabic: ۞ لَّا
     translation: (There is) no
     transliteration: lā
   2:
@@ -15,23 +15,23 @@ word_by_word:
     translation: good
     transliteration: khayra
   3:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   4:
-    arabic: كَثِيۡرٍ
+    arabic: كَثِيرٖ
     translation: much
     transliteration: kathīrin
   5:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: of
     transliteration: min
   6:
-    arabic: نَّجۡوٰٮهُمۡ
+    arabic: نَّجۡوَىٰهُمۡ
     translation: their secret talk
     transliteration: najwāhum
   7:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   8:
@@ -39,7 +39,7 @@ word_by_word:
     translation: (he) who
     transliteration: man
   9:
-    arabic: اَمَرَ
+    arabic: أَمَرَ
     translation: orders
     transliteration: amara
   10:
@@ -47,19 +47,19 @@ word_by_word:
     translation: charity
     transliteration: biṣadaqatin
   11:
-    arabic: اَوۡ
+    arabic: أَوۡ
     translation: or
     transliteration: aw
   12:
-    arabic: مَعۡرُوۡفٍ
+    arabic: مَعۡرُوفٍ
     translation: kindness
     transliteration: maʿrūfin
   13:
-    arabic: اَوۡ
+    arabic: أَوۡ
     translation: or
     transliteration: aw
   14:
-    arabic: اِصۡلَاحٍۢ
+    arabic: إِصۡلَٰحِۭ
     translation: conciliation
     transliteration: iṣ'lāḥin
   15:
@@ -67,7 +67,7 @@ word_by_word:
     translation: between
     transliteration: bayna
   16:
-    arabic: النَّاسِ​ ؕ
+    arabic: ٱلنَّاسِۚ
     translation: the people
     transliteration: l-nāsi
   17:
@@ -75,15 +75,15 @@ word_by_word:
     translation: And who
     transliteration: waman
   18:
-    arabic: يَّفۡعَلۡ
+    arabic: يَفۡعَلۡ
     translation: does
     transliteration: yafʿal
   19:
-    arabic: ذٰ لِكَ
+    arabic: ذَٰلِكَ
     translation: that
     transliteration: dhālika
   20:
-    arabic: ابۡتِغَآءَ
+    arabic: ٱبۡتِغَآءَ
     translation: seeking
     transliteration: ib'tighāa
   21:
@@ -91,7 +91,7 @@ word_by_word:
     translation: pleasure
     transliteration: marḍāti
   22:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (of) Allah
     transliteration: l-lahi
   23:
@@ -99,15 +99,15 @@ word_by_word:
     translation: then soon
     transliteration: fasawfa
   24:
-    arabic: نُـؤۡتِيۡهِ
+    arabic: نُؤۡتِيهِ
     translation: We will give him
     transliteration: nu'tīhi
   25:
-    arabic: اَجۡرًا
+    arabic: أَجۡرًا
     translation: a reward
     transliteration: ajran
   26:
-    arabic: عَظِيۡمًا‏
+    arabic: عَظِيمٗا
     translation: great
     transliteration: ʿaẓīman
 ---

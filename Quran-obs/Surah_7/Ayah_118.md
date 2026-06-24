@@ -1,5 +1,5 @@
 ---
-arabic_ayat: فَوَقَعَ الۡحَـقُّ وَبَطَلَ مَا كَانُوۡا يَعۡمَلُوۡنَ​ۚ‏
+arabic_ayat: فَوَقَعَ ٱلۡحَقُّ وَبَطَلَ مَا كَانُواْ يَعۡمَلُونَ
 sentence_translation: So the truth prevailed and their illusions failed.
 word_by_word:
   1:
@@ -7,7 +7,7 @@ word_by_word:
     translation: So was established
     transliteration: fawaqaʿa
   2:
-    arabic: الۡحَـقُّ
+    arabic: ٱلۡحَقُّ
     translation: the truth
     transliteration: l-ḥaqu
   3:
@@ -19,11 +19,11 @@ word_by_word:
     translation: what
     transliteration: mā
   5:
-    arabic: كَانُوۡا
+    arabic: كَانُواْ
     translation: they used to
     transliteration: kānū
   6:
-    arabic: يَعۡمَلُوۡنَ​ۚ‏
+    arabic: يَعۡمَلُونَ
     translation: do
     transliteration: yaʿmalūna
 ---

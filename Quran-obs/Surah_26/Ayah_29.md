@@ -1,6 +1,5 @@
 ---
-arabic_ayat: "قَالَ لَٮِٕنِ اتَّخَذۡتَ اِلٰهًا غَيۡرِىۡ لَاَجۡعَلَـنَّكَ مِنَ الۡمَسۡجُوۡنِيۡنَ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: قَالَ لَئِنِ ٱتَّخَذۡتَ إِلَٰهًا غَيۡرِي لَأَجۡعَلَنَّكَ مِنَ ٱلۡمَسۡجُونِينَ
 sentence_translation: Pharaoh threatened, “If you take any other god besides me, I
   will certainly have you imprisoned.”
 word_by_word:
@@ -9,23 +8,23 @@ word_by_word:
     translation: He said
     transliteration: qāla
   2:
-    arabic: لَٮِٕنِ
+    arabic: لَئِنِ
     translation: If
     transliteration: la-ini
   3:
-    arabic: اتَّخَذۡتَ
+    arabic: ٱتَّخَذۡتَ
     translation: you take
     transliteration: ittakhadhta
   4:
-    arabic: اِلٰهًا
+    arabic: إِلَٰهًا
     translation: a god
     transliteration: ilāhan
   5:
-    arabic: غَيۡرِىۡ
+    arabic: غَيۡرِي
     translation: other than me
     transliteration: ghayrī
   6:
-    arabic: لَاَجۡعَلَـنَّكَ
+    arabic: لَأَجۡعَلَنَّكَ
     translation: I will surely make you
     transliteration: la-ajʿalannaka
   7:
@@ -33,7 +32,7 @@ word_by_word:
     translation: among
     transliteration: mina
   8:
-    arabic: "الۡمَسۡجُوۡنِيۡنَ‏ \uFEFF\uFEFF"
+    arabic: ٱلۡمَسۡجُونِينَ
     translation: those imprisoned
     transliteration: l-masjūnīna
 ---

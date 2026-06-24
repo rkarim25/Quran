@@ -1,6 +1,6 @@
 ---
-arabic_ayat: وَقَدۡ مَكَرَ الَّذِيۡنَ مِنۡ قَبۡلِهِمۡ فَلِلّٰهِ الۡمَكۡرُ جَمِيۡعًا​ؕ
-  يَعۡلَمُ مَا تَكۡسِبُ كُلُّ نَفۡسٍؕ وَسَيَـعۡلَمُ الۡـكُفّٰرُ لِمَنۡ عُقۡبَى الدَّارِ‏
+arabic_ayat: وَقَدۡ مَكَرَ ٱلَّذِينَ مِن قَبۡلِهِمۡ فَلِلَّهِ ٱلۡمَكۡرُ جَمِيعٗاۖ
+  يَعۡلَمُ مَا تَكۡسِبُ كُلُّ نَفۡسٖۗ وَسَيَعۡلَمُ ٱلۡكُفَّٰرُ لِمَنۡ عُقۡبَى ٱلدَّارِ
 sentence_translation: Those ˹disbelievers˺ before them ˹secretly˺ planned, but Allah
   has the ultimate plan. He knows what every soul commits. And the disbelievers will
   soon know who will have the ultimate outcome.
@@ -14,11 +14,11 @@ word_by_word:
     translation: plotted
     transliteration: makara
   3:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   4:
-    arabic: مِنۡ
+    arabic: مِن
     translation: (were) from
     transliteration: min
   5:
@@ -26,15 +26,15 @@ word_by_word:
     translation: before them
     transliteration: qablihim
   6:
-    arabic: فَلِلّٰهِ
+    arabic: فَلِلَّهِ
     translation: but for Allah
     transliteration: falillahi
   7:
-    arabic: الۡمَكۡرُ
+    arabic: ٱلۡمَكۡرُ
     translation: (is) the plot
     transliteration: l-makru
   8:
-    arabic: جَمِيۡعًا​ؕ
+    arabic: جَمِيعٗاۖ
     translation: all
     transliteration: jamīʿan
   9:
@@ -54,15 +54,15 @@ word_by_word:
     translation: every
     transliteration: kullu
   13:
-    arabic: نَفۡسٍؕ
+    arabic: نَفۡسٖۗ
     translation: soul
     transliteration: nafsin
   14:
-    arabic: وَسَيَـعۡلَمُ
+    arabic: وَسَيَعۡلَمُ
     translation: and will know
     transliteration: wasayaʿlamu
   15:
-    arabic: الۡـكُفّٰرُ
+    arabic: ٱلۡكُفَّٰرُ
     translation: the disbelievers
     transliteration: l-kufāru
   16:
@@ -74,7 +74,7 @@ word_by_word:
     translation: (is) the final
     transliteration: ʿuq'bā
   18:
-    arabic: الدَّارِ‏
+    arabic: ٱلدَّارِ
     translation: the home
     transliteration: l-dāri
 ---

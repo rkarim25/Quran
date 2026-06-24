@@ -1,8 +1,8 @@
 ---
-arabic_ayat: وَقَالَ الَّذِى اشۡتَرٰٮهُ مِنۡ مِّصۡرَ لِامۡرَاَتِهٖۤ اَكۡرِمِىۡ مَثۡوٰٮهُ
-  عَسٰٓى اَنۡ يَّـنۡفَعَنَاۤ اَوۡ نَـتَّخِذَهٗ وَلَدًا​ ؕ وَكَذٰلِكَ مَكَّنَّا لِيُوۡسُفَ
-  فِى الۡاَرۡضِوَلِنُعَلِّمَهٗ مِنۡ تَاۡوِيۡلِ الۡاَحَادِيۡثِ​ؕ وَاللّٰهُ غَالِبٌ
-  عَلٰٓى اَمۡرِهٖ وَلٰـكِنَّ اَكۡثَرَ النَّاسِ لَا يَعۡلَمُوۡنَ‏
+arabic_ayat: وَقَالَ ٱلَّذِي ٱشۡتَرَىٰهُ مِن مِّصۡرَ لِٱمۡرَأَتِهِۦٓ أَكۡرِمِي مَثۡوَىٰهُ
+  عَسَىٰٓ أَن يَنفَعَنَآ أَوۡ نَتَّخِذَهُۥ وَلَدٗاۚ وَكَذَٰلِكَ مَكَّنَّا لِيُوسُفَ
+  فِي ٱلۡأَرۡضِ وَلِنُعَلِّمَهُۥ مِن تَأۡوِيلِ ٱلۡأَحَادِيثِۚ وَٱللَّهُ غَالِبٌ عَلَىٰٓ
+  أَمۡرِهِۦ وَلَٰكِنَّ أَكۡثَرَ ٱلنَّاسِ لَا يَعۡلَمُونَ
 sentence_translation: The man from Egypt who bought him said to his wife, “Take good
   care of him, perhaps he may be useful to us or we may adopt him as a son.” This
   is how We established Joseph in the land, so that We might teach him the interpretation
@@ -13,15 +13,15 @@ word_by_word:
     translation: And said
     transliteration: waqāla
   2:
-    arabic: الَّذِى
+    arabic: ٱلَّذِي
     translation: the one who
     transliteration: alladhī
   3:
-    arabic: اشۡتَرٰٮهُ
+    arabic: ٱشۡتَرَىٰهُ
     translation: bought him
     transliteration: ish'tarāhu
   4:
-    arabic: مِنۡ
+    arabic: مِن
     translation: of
     transliteration: min
   5:
@@ -29,43 +29,43 @@ word_by_word:
     translation: Egypt
     transliteration: miṣ'ra
   6:
-    arabic: لِامۡرَاَتِهٖۤ
+    arabic: لِٱمۡرَأَتِهِۦٓ
     translation: to his wife
     transliteration: li-im'ra-atihi
   7:
-    arabic: اَكۡرِمِىۡ
+    arabic: أَكۡرِمِي
     translation: Make comfortable
     transliteration: akrimī
   8:
-    arabic: مَثۡوٰٮهُ
+    arabic: مَثۡوَىٰهُ
     translation: his stay
     transliteration: mathwāhu
   9:
-    arabic: عَسٰٓى
+    arabic: عَسَىٰٓ
     translation: Perhaps
     transliteration: ʿasā
   10:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that
     transliteration: an
   11:
-    arabic: يَّـنۡفَعَنَاۤ
+    arabic: يَنفَعَنَآ
     translation: (he) will benefit us
     transliteration: yanfaʿanā
   12:
-    arabic: اَوۡ
+    arabic: أَوۡ
     translation: or
     transliteration: aw
   13:
-    arabic: نَـتَّخِذَهٗ
+    arabic: نَتَّخِذَهُۥ
     translation: we will take him
     transliteration: nattakhidhahu
   14:
-    arabic: وَلَدًا​ ؕ
+    arabic: وَلَدٗاۚ
     translation: (as) a son
     transliteration: waladan
   15:
-    arabic: وَكَذٰلِكَ
+    arabic: وَكَذَٰلِكَ
     translation: And thus
     transliteration: wakadhālika
   16:
@@ -73,35 +73,35 @@ word_by_word:
     translation: We established
     transliteration: makkannā
   17:
-    arabic: لِيُوۡسُفَ
+    arabic: لِيُوسُفَ
     translation: Yusuf
     transliteration: liyūsufa
   18:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   19:
-    arabic: الۡاَرۡضِ
+    arabic: ٱلۡأَرۡضِ
     translation: the land
     transliteration: l-arḍi
   20:
-    arabic: وَلِنُعَلِّمَهٗ
+    arabic: وَلِنُعَلِّمَهُۥ
     translation: that We might teach him
     transliteration: walinuʿallimahu
   21:
-    arabic: مِنۡ
+    arabic: مِن
     translation: (the) interpretation of
     transliteration: min
   22:
-    arabic: تَاۡوِيۡلِ
+    arabic: تَأۡوِيلِ
     translation: (the) interpretation of
     transliteration: tawīli
   23:
-    arabic: الۡاَحَادِيۡثِ​ؕ
+    arabic: ٱلۡأَحَادِيثِۚ
     translation: the events
     transliteration: l-aḥādīthi
   24:
-    arabic: وَاللّٰهُ
+    arabic: وَٱللَّهُ
     translation: And Allah
     transliteration: wal-lahu
   25:
@@ -109,23 +109,23 @@ word_by_word:
     translation: (is) Predominant
     transliteration: ghālibun
   26:
-    arabic: عَلٰٓى
+    arabic: عَلَىٰٓ
     translation: over
     transliteration: ʿalā
   27:
-    arabic: اَمۡرِهٖ
+    arabic: أَمۡرِهِۦ
     translation: His affairs
     transliteration: amrihi
   28:
-    arabic: وَلٰـكِنَّ
+    arabic: وَلَٰكِنَّ
     translation: but
     transliteration: walākinna
   29:
-    arabic: اَكۡثَرَ
+    arabic: أَكۡثَرَ
     translation: most
     transliteration: akthara
   30:
-    arabic: النَّاسِ
+    arabic: ٱلنَّاسِ
     translation: (of) the people
     transliteration: l-nāsi
   31:
@@ -133,7 +133,7 @@ word_by_word:
     translation: (do) not
     transliteration: lā
   32:
-    arabic: يَعۡلَمُوۡنَ‏
+    arabic: يَعۡلَمُونَ
     translation: know
     transliteration: yaʿlamūna
 ---

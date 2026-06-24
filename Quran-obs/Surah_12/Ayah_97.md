@@ -1,19 +1,18 @@
 ---
-arabic_ayat: "قَالُوۡا يٰۤاَبَانَا اسۡتَغۡفِرۡ لَنَا ذُنُوۡبَنَاۤ اِنَّا كُنَّا خٰـطِــِٕيۡنَ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: قَالُواْ يَٰٓأَبَانَا ٱسۡتَغۡفِرۡ لَنَا ذُنُوبَنَآ إِنَّا كُنَّا خَٰطِـِٔينَ
 sentence_translation: They begged, “O our father! Pray for the forgiveness of our
   sins. We have certainly been sinful.”
 word_by_word:
   1:
-    arabic: قَالُوۡا
+    arabic: قَالُواْ
     translation: They said
     transliteration: qālū
   2:
-    arabic: يٰۤاَبَانَا
+    arabic: يَٰٓأَبَانَا
     translation: O our father
     transliteration: yāabānā
   3:
-    arabic: اسۡتَغۡفِرۡ
+    arabic: ٱسۡتَغۡفِرۡ
     translation: Ask forgiveness
     transliteration: is'taghfir
   4:
@@ -21,11 +20,11 @@ word_by_word:
     translation: for us
     transliteration: lanā
   5:
-    arabic: ذُنُوۡبَنَاۤ
+    arabic: ذُنُوبَنَآ
     translation: (of) our sins
     transliteration: dhunūbanā
   6:
-    arabic: اِنَّا
+    arabic: إِنَّا
     translation: Indeed, we
     transliteration: innā
   7:
@@ -33,7 +32,7 @@ word_by_word:
     translation: have been
     transliteration: kunnā
   8:
-    arabic: "خٰـطِــِٕيۡنَ‏ \uFEFF\uFEFF"
+    arabic: خَٰطِـِٔينَ
     translation: sinners
     transliteration: khāṭiīna
 ---

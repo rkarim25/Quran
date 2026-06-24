@@ -1,17 +1,17 @@
 ---
-arabic_ayat: وَمَكَرُوۡا مَكۡرًا كُبَّارًا​ ۚ‏
+arabic_ayat: وَمَكَرُواْ مَكۡرٗا كُبَّارٗا
 sentence_translation: and who have devised a tremendous plot,
 word_by_word:
   1:
-    arabic: وَمَكَرُوۡا
+    arabic: وَمَكَرُواْ
     translation: And they have planned
     transliteration: wamakarū
   2:
-    arabic: مَكۡرًا
+    arabic: مَكۡرٗا
     translation: a plan
     transliteration: makran
   3:
-    arabic: كُبَّارًا​ ۚ‏
+    arabic: كُبَّارٗا
     translation: great
     transliteration: kubbāran
 ---

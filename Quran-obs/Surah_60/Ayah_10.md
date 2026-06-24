@@ -1,12 +1,11 @@
 ---
-arabic_ayat: "يٰۤاَيُّهَا الَّذِيۡنَ اٰمَنُوۡۤا اِذَا جَآءَكُمُ الۡمُؤۡمِنٰتُ مُهٰجِرٰتٍ\
-  \ فَامۡتَحِنُوۡهُنَّ​ ؕ اَللّٰهُ اَعۡلَمُ بِاِيۡمَانِهِنَّ​ ۚ فَاِنۡ عَلِمۡتُمُوۡهُنَّ\
-  \ مُؤۡمِنٰتٍ فَلَا تَرۡجِعُوۡهُنَّ اِلَى الۡكُفَّارِ​ ؕ لَا هُنَّ حِلٌّ لَّهُمۡ\
-  \ وَلَا هُمۡ يَحِلُّوۡنَ لَهُنَّ​ ۚ وَاٰ تُوۡهُمۡ مَّاۤ اَنۡفَقُوۡا​ ؕ وَلَا جُنَاحَ\
-  \ عَلَيۡكُمۡ اَنۡ تَنۡكِحُوۡهُنَّ اِذَاۤ اٰ تَيۡتُمُوۡهُنَّ اُجُوۡرَهُنَّ​ ؕ وَلَا\
-  \ تُمۡسِكُوۡا بِعِصَمِ الۡكَوَافِرِ وَسۡــَٔـلُوۡا مَاۤ اَنۡفَقۡتُمۡ وَلۡيَسۡــَٔـلُوۡا\
-  \ مَاۤ اَنۡفَقُوۡا​ ؕ ذٰ لِكُمۡ حُكۡمُ اللّٰهِ​ ؕ يَحۡكُمُ بَيۡنَكُمۡ​ ؕ وَاللّٰهُ\
-  \ عَلِيۡمٌ حَكِيۡمٌ‏ \uFEFF\uFEFF"
+arabic_ayat: يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓاْ إِذَا جَآءَكُمُ ٱلۡمُؤۡمِنَٰتُ مُهَٰجِرَٰتٖ
+  فَٱمۡتَحِنُوهُنَّۖ ٱللَّهُ أَعۡلَمُ بِإِيمَٰنِهِنَّۖ فَإِنۡ عَلِمۡتُمُوهُنَّ مُؤۡمِنَٰتٖ
+  فَلَا تَرۡجِعُوهُنَّ إِلَى ٱلۡكُفَّارِۖ لَا هُنَّ حِلّٞ لَّهُمۡ وَلَا هُمۡ يَحِلُّونَ
+  لَهُنَّۖ وَءَاتُوهُم مَّآ أَنفَقُواْۚ وَلَا جُنَاحَ عَلَيۡكُمۡ أَن تَنكِحُوهُنَّ
+  إِذَآ ءَاتَيۡتُمُوهُنَّ أُجُورَهُنَّۚ وَلَا تُمۡسِكُواْ بِعِصَمِ ٱلۡكَوَافِرِ وَسۡـَٔلُواْ
+  مَآ أَنفَقۡتُمۡ وَلۡيَسۡـَٔلُواْ مَآ أَنفَقُواْۚ ذَٰلِكُمۡ حُكۡمُ ٱللَّهِ يَحۡكُمُ
+  بَيۡنَكُمۡۖ وَٱللَّهُ عَلِيمٌ حَكِيمٞ
 sentence_translation: O believers! When the believing women come to you as emigrants, test
   their intentions—their faith is best known to Allah—and if you find them to be believers,
   then do not send them back to the disbelievers. These ˹women˺ are not lawful ˹wives˺
@@ -18,19 +17,19 @@ sentence_translation: O believers! When the believing women come to you as emigr
   of Allah—He judges between you. And Allah is All-Knowing, All-Wise.
 word_by_word:
   1:
-    arabic: يٰۤاَيُّهَا
+    arabic: يَٰٓأَيُّهَا
     translation: O you
     transliteration: yāayyuhā
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ ءَ
     translation: who
     transliteration: alladhīna
   3:
-    arabic: اٰمَنُوۡۤا
+    arabic: امَنُوٓاْ
     translation: believe
     transliteration: āmanū
   4:
-    arabic: اِذَا
+    arabic: إِذَا
     translation: When
     transliteration: idhā
   5:
@@ -38,39 +37,39 @@ word_by_word:
     translation: come to you
     transliteration: jāakumu
   6:
-    arabic: الۡمُؤۡمِنٰتُ
+    arabic: ٱلۡمُؤۡمِنَٰتُ
     translation: the believing women
     transliteration: l-mu'minātu
   7:
-    arabic: مُهٰجِرٰتٍ
+    arabic: مُهَٰجِرَٰتٖ
     translation: (as) emigrants
     transliteration: muhājirātin
   8:
-    arabic: فَامۡتَحِنُوۡهُنَّ​ ؕ
+    arabic: فَٱمۡتَحِنُوهُنَّۖ
     translation: then examine them
     transliteration: fa-im'taḥinūhunna
   9:
-    arabic: اَللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   10:
-    arabic: اَعۡلَمُ
+    arabic: أَعۡلَمُ
     translation: (is) most knowing
     transliteration: aʿlamu
   11:
-    arabic: بِاِيۡمَانِهِنَّ​ ۚ
+    arabic: بِإِيمَٰنِهِنَّۖ
     translation: of their faith
     transliteration: biīmānihinna
   12:
-    arabic: فَاِنۡ
+    arabic: فَإِنۡ
     translation: And if
     transliteration: fa-in
   13:
-    arabic: عَلِمۡتُمُوۡهُنَّ
+    arabic: عَلِمۡتُمُوهُنَّ
     translation: you know them
     transliteration: ʿalim'tumūhunna
   14:
-    arabic: مُؤۡمِنٰتٍ
+    arabic: مُؤۡمِنَٰتٖ
     translation: (to be) believers
     transliteration: mu'minātin
   15:
@@ -78,15 +77,15 @@ word_by_word:
     translation: then (do) not
     transliteration: falā
   16:
-    arabic: تَرۡجِعُوۡهُنَّ
+    arabic: تَرۡجِعُوهُنَّ
     translation: return them
     transliteration: tarjiʿūhunna
   17:
-    arabic: اِلَى
+    arabic: إِلَى
     translation: to
     transliteration: ilā
   18:
-    arabic: الۡكُفَّارِ​ ؕ
+    arabic: ٱلۡكُفَّارِۖ
     translation: the disbelievers
     transliteration: l-kufāri
   19:
@@ -98,7 +97,7 @@ word_by_word:
     translation: they
     transliteration: hunna
   21:
-    arabic: حِلٌّ
+    arabic: حِلّٞ
     translation: (are) lawful
     transliteration: ḥillun
   22:
@@ -114,23 +113,23 @@ word_by_word:
     translation: they
     transliteration: hum
   25:
-    arabic: يَحِلُّوۡنَ
+    arabic: يَحِلُّونَ
     translation: are lawful
     transliteration: yaḥillūna
   26:
-    arabic: لَهُنَّ​ ۚ
+    arabic: لَهُنَّۖ
     translation: for them
     transliteration: lahunna
   27:
-    arabic: وَاٰ تُوۡهُمۡ
+    arabic: وَءَاتُوهُم
     translation: But give them
     transliteration: waātūhum
   28:
-    arabic: مَّاۤ
+    arabic: مَّآ
     translation: what
     transliteration: mā
   29:
-    arabic: اَنۡفَقُوۡا​ ؕ
+    arabic: أَنفَقُواْۚ
     translation: they have spent
     transliteration: anfaqū
   30:
@@ -146,23 +145,23 @@ word_by_word:
     translation: upon you
     transliteration: ʿalaykum
   33:
-    arabic: اَنۡ
+    arabic: أَن
     translation: if
     transliteration: an
   34:
-    arabic: تَنۡكِحُوۡهُنَّ
+    arabic: تَنكِحُوهُنَّ
     translation: you marry them
     transliteration: tankiḥūhunna
   35:
-    arabic: اِذَاۤ
+    arabic: إِذَآ ءَ
     translation: when
     transliteration: idhā
   36:
-    arabic: اٰ تَيۡتُمُوۡهُنَّ
+    arabic: اتَيۡتُمُوهُنَّ
     translation: you have given them
     transliteration: ātaytumūhunna
   37:
-    arabic: اُجُوۡرَهُنَّ​ ؕ
+    arabic: أُجُورَهُنَّۚ
     translation: their (bridal) dues
     transliteration: ujūrahunna
   38:
@@ -170,7 +169,7 @@ word_by_word:
     translation: And (do) not
     transliteration: walā
   39:
-    arabic: تُمۡسِكُوۡا
+    arabic: تُمۡسِكُواْ
     translation: hold
     transliteration: tum'sikū
   40:
@@ -178,35 +177,35 @@ word_by_word:
     translation: to marriage bonds
     transliteration: biʿiṣami
   41:
-    arabic: الۡكَوَافِرِ
+    arabic: ٱلۡكَوَافِرِ
     translation: (with) disbelieving women
     transliteration: l-kawāfiri
   42:
-    arabic: وَسۡــَٔـلُوۡا
+    arabic: وَسۡـَٔلُواْ
     translation: but ask (for)
     transliteration: wasalū
   43:
-    arabic: مَاۤ
+    arabic: مَآ
     translation: what
     transliteration: mā
   44:
-    arabic: اَنۡفَقۡتُمۡ
+    arabic: أَنفَقۡتُمۡ
     translation: you have spent
     transliteration: anfaqtum
   45:
-    arabic: وَلۡيَسۡــَٔـلُوۡا
+    arabic: وَلۡيَسۡـَٔلُواْ
     translation: and let them ask
     transliteration: walyasalū
   46:
-    arabic: مَاۤ
+    arabic: مَآ
     translation: what
     transliteration: mā
   47:
-    arabic: اَنۡفَقُوۡا​ ؕ
+    arabic: أَنفَقُواْۚ
     translation: they have spent
     transliteration: anfaqū
   48:
-    arabic: ذٰ لِكُمۡ
+    arabic: ذَٰلِكُمۡ
     translation: That
     transliteration: dhālikum
   49:
@@ -214,7 +213,7 @@ word_by_word:
     translation: (is the) Judgment
     transliteration: ḥuk'mu
   50:
-    arabic: اللّٰهِ​ ؕ
+    arabic: ٱللَّهِ
     translation: (of) Allah
     transliteration: l-lahi
   51:
@@ -222,19 +221,19 @@ word_by_word:
     translation: He judges
     transliteration: yaḥkumu
   52:
-    arabic: بَيۡنَكُمۡ​ ؕ
+    arabic: بَيۡنَكُمۡۖ
     translation: between you
     transliteration: baynakum
   53:
-    arabic: وَاللّٰهُ
+    arabic: وَٱللَّهُ
     translation: And Allah
     transliteration: wal-lahu
   54:
-    arabic: عَلِيۡمٌ
+    arabic: عَلِيمٌ
     translation: (is) All-Knowing
     transliteration: ʿalīmun
   55:
-    arabic: "حَكِيۡمٌ‏ \uFEFF\uFEFF"
+    arabic: حَكِيمٞ
     translation: All-Wise
     transliteration: ḥakīmun
 ---

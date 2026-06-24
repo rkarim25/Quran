@@ -1,13 +1,13 @@
 ---
-arabic_ayat: فَالۡفٰرِقٰتِ فَرۡقًا ۙ‏
+arabic_ayat: فَٱلۡفَٰرِقَٰتِ فَرۡقٗا
 sentence_translation: And ˹by˺ those ˹angels˺ fully distinguishing ˹truth from falsehood˺,
 word_by_word:
   1:
-    arabic: فَالۡفٰرِقٰتِ
+    arabic: فَٱلۡفَٰرِقَٰتِ
     translation: And those who separate
     transliteration: fal-fāriqāti
   2:
-    arabic: فَرۡقًا ۙ‏
+    arabic: فَرۡقٗا
     translation: (by the) Criterion
     transliteration: farqan
 ---

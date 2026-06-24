@@ -1,12 +1,12 @@
 ---
-arabic_ayat: يَّتَجَرَّعُهٗ وَلَا يَكَادُ يُسِيۡـغُهٗ وَيَاۡتِيۡهِ الۡمَوۡتُ مِنۡ
-  كُلِّ مَكَانٍ وَّمَا هُوَ بِمَيِّتٍؕ​ وَمِنۡ وَّرَآٮِٕهٖ عَذَابٌ غَلِيۡظٌ‏
+arabic_ayat: يَتَجَرَّعُهُۥ وَلَا يَكَادُ يُسِيغُهُۥ وَيَأۡتِيهِ ٱلۡمَوۡتُ مِن كُلِّ
+  مَكَانٖ وَمَا هُوَ بِمَيِّتٖۖ وَمِن وَرَآئِهِۦ عَذَابٌ غَلِيظٞ
 sentence_translation: which they will sip with difficulty, and can hardly swallow.
   Death will overwhelm them from every side, yet they will not ˹be able to˺ die. Awaiting
   them still is harsher torment.
 word_by_word:
   1:
-    arabic: يَّتَجَرَّعُهٗ
+    arabic: يَتَجَرَّعُهُۥ
     translation: He will sip it
     transliteration: yatajarraʿuhu
   2:
@@ -18,19 +18,19 @@ word_by_word:
     translation: he will be near
     transliteration: yakādu
   4:
-    arabic: يُسِيۡـغُهٗ
+    arabic: يُسِيغُهُۥ
     translation: (to) swallowing it
     transliteration: yusīghuhu
   5:
-    arabic: وَيَاۡتِيۡهِ
+    arabic: وَيَأۡتِيهِ
     translation: And will come to him
     transliteration: wayatīhi
   6:
-    arabic: الۡمَوۡتُ
+    arabic: ٱلۡمَوۡتُ
     translation: the death
     transliteration: l-mawtu
   7:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   8:
@@ -38,11 +38,11 @@ word_by_word:
     translation: every
     transliteration: kulli
   9:
-    arabic: مَكَانٍ
+    arabic: مَكَانٖ
     translation: side
     transliteration: makānin
   10:
-    arabic: وَّمَا
+    arabic: وَمَا
     translation: but not
     transliteration: wamā
   11:
@@ -50,15 +50,15 @@ word_by_word:
     translation: he
     transliteration: huwa
   12:
-    arabic: بِمَيِّتٍؕ​
+    arabic: بِمَيِّتٖۖ
     translation: will die
     transliteration: bimayyitin
   13:
-    arabic: وَمِنۡ
+    arabic: وَمِن
     translation: And ahead of him
     transliteration: wamin
   14:
-    arabic: وَّرَآٮِٕهٖ
+    arabic: وَرَآئِهِۦ
     translation: And ahead of him
     transliteration: warāihi
   15:
@@ -66,7 +66,7 @@ word_by_word:
     translation: (is) a punishment
     transliteration: ʿadhābun
   16:
-    arabic: غَلِيۡظٌ‏
+    arabic: غَلِيظٞ
     translation: harsh
     transliteration: ghalīẓun
 ---

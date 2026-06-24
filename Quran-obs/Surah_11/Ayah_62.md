@@ -1,17 +1,17 @@
 ---
-arabic_ayat: قَالُوۡا يٰصٰلِحُ قَدۡ كُنۡتَ فِيۡنَا مَرۡجُوًّا قَبۡلَ هٰذَآ​ اَتَـنۡهٰٮنَاۤ
-  اَنۡ نَّـعۡبُدَ مَا يَعۡبُدُ اٰبَآؤُنَا وَاِنَّنَا لَفِىۡ شَكٍّ مِّمَّا تَدۡعُوۡنَاۤ
-  اِلَيۡهِ مُرِيۡبٍ‏
+arabic_ayat: قَالُواْ يَٰصَٰلِحُ قَدۡ كُنتَ فِينَا مَرۡجُوّٗا قَبۡلَ هَٰذَآۖ أَتَنۡهَىٰنَآ
+  أَن نَّعۡبُدَ مَا يَعۡبُدُ ءَابَآؤُنَا وَإِنَّنَا لَفِي شَكّٖ مِّمَّا تَدۡعُونَآ
+  إِلَيۡهِ مُرِيبٖ
 sentence_translation: They argued, “O Ṣâliḥ! We truly had high hopes in you before
   this. How dare you forbid us to worship what our forefathers had worshipped? We
   are certainly in alarming doubt about what you are inviting us to.”
 word_by_word:
   1:
-    arabic: قَالُوۡا
+    arabic: قَالُواْ
     translation: They said
     transliteration: qālū
   2:
-    arabic: يٰصٰلِحُ
+    arabic: يَٰصَٰلِحُ
     translation: O Salih
     transliteration: yāṣāliḥu
   3:
@@ -19,15 +19,15 @@ word_by_word:
     translation: Verily
     transliteration: qad
   4:
-    arabic: كُنۡتَ
+    arabic: كُنتَ
     translation: you were
     transliteration: kunta
   5:
-    arabic: فِيۡنَا
+    arabic: فِينَا
     translation: among us
     transliteration: fīnā
   6:
-    arabic: مَرۡجُوًّا
+    arabic: مَرۡجُوّٗا
     translation: the one in whom hope was placed
     transliteration: marjuwwan
   7:
@@ -35,19 +35,19 @@ word_by_word:
     translation: before
     transliteration: qabla
   8:
-    arabic: هٰذَآ​
+    arabic: هَٰذَآۖ
     translation: this
     transliteration: hādhā
   9:
-    arabic: اَتَـنۡهٰٮنَاۤ
+    arabic: أَتَنۡهَىٰنَآ
     translation: Do you forbid us
     transliteration: atanhānā
   10:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that
     transliteration: an
   11:
-    arabic: نَّـعۡبُدَ
+    arabic: نَّعۡبُدَ
     translation: we worship
     transliteration: naʿbuda
   12:
@@ -55,23 +55,23 @@ word_by_word:
     translation: what
     transliteration: mā
   13:
-    arabic: يَعۡبُدُ
+    arabic: يَعۡبُدُ ءَ
     translation: our forefathers worshipped
     transliteration: yaʿbudu
   14:
-    arabic: اٰبَآؤُنَا
+    arabic: ابَآؤُنَا
     translation: our forefathers worshipped
     transliteration: ābāunā
   15:
-    arabic: وَاِنَّنَا
+    arabic: وَإِنَّنَا
     translation: And indeed we
     transliteration: wa-innanā
   16:
-    arabic: لَفِىۡ
+    arabic: لَفِي
     translation: surely (are) in
     transliteration: lafī
   17:
-    arabic: شَكٍّ
+    arabic: شَكّٖ
     translation: doubt
     transliteration: shakkin
   18:
@@ -79,15 +79,15 @@ word_by_word:
     translation: about what
     transliteration: mimmā
   19:
-    arabic: تَدۡعُوۡنَاۤ
+    arabic: تَدۡعُونَآ
     translation: you call us
     transliteration: tadʿūnā
   20:
-    arabic: اِلَيۡهِ
+    arabic: إِلَيۡهِ
     translation: to it
     transliteration: ilayhi
   21:
-    arabic: مُرِيۡبٍ‏
+    arabic: مُرِيبٖ
     translation: suspicious
     transliteration: murībin
 ---

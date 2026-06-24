@@ -1,6 +1,6 @@
 ---
-arabic_ayat: عَفَا اللّٰهُ عَنۡكَ​ۚ لِمَ اَذِنۡتَ لَهُمۡ حَتّٰى يَتَبَيَّنَ لَكَ الَّذِيۡنَ
-  صَدَقُوۡا وَتَعۡلَمَ الۡـكٰذِبِيۡنَ‏
+arabic_ayat: عَفَا ٱللَّهُ عَنكَ لِمَ أَذِنتَ لَهُمۡ حَتَّىٰ يَتَبَيَّنَ لَكَ ٱلَّذِينَ
+  صَدَقُواْ وَتَعۡلَمَ ٱلۡكَٰذِبِينَ
 sentence_translation: May Allah pardon you ˹O Prophet˺! Why did you give them permission
   ˹to stay behind˺ before those who told the truth were distinguished from those who
   were lying?
@@ -10,11 +10,11 @@ word_by_word:
     translation: (May) Allah forgive
     transliteration: ʿafā
   2:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: (May) Allah forgive
     transliteration: l-lahu
   3:
-    arabic: عَنۡكَ​ۚ
+    arabic: عَنكَ
     translation: you
     transliteration: ʿanka
   4:
@@ -22,7 +22,7 @@ word_by_word:
     translation: Why (did)
     transliteration: lima
   5:
-    arabic: اَذِنۡتَ
+    arabic: أَذِنتَ
     translation: you grant leave
     transliteration: adhinta
   6:
@@ -30,7 +30,7 @@ word_by_word:
     translation: to them
     transliteration: lahum
   7:
-    arabic: حَتّٰى
+    arabic: حَتَّىٰ
     translation: until
     transliteration: ḥattā
   8:
@@ -42,11 +42,11 @@ word_by_word:
     translation: to you
     transliteration: laka
   10:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   11:
-    arabic: صَدَقُوۡا
+    arabic: صَدَقُواْ
     translation: were truthful
     transliteration: ṣadaqū
   12:
@@ -54,7 +54,7 @@ word_by_word:
     translation: and you knew
     transliteration: wataʿlama
   13:
-    arabic: الۡـكٰذِبِيۡنَ‏
+    arabic: ٱلۡكَٰذِبِينَ
     translation: the liars
     transliteration: l-kādhibīna
 ---

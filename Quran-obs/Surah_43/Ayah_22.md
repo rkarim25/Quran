@@ -1,6 +1,6 @@
 ---
-arabic_ayat: بَلۡ قَالُـوۡۤا اِنَّا وَجَدۡنَاۤ اٰبَآءَنَا عَلٰٓى اُمَّةٍ وَّاِنَّا
-  عَلٰٓى اٰثٰرِهِمۡ مُّهۡتَدُوۡنَ‏
+arabic_ayat: بَلۡ قَالُوٓاْ إِنَّا وَجَدۡنَآ ءَابَآءَنَا عَلَىٰٓ أُمَّةٖ وَإِنَّا
+  عَلَىٰٓ ءَاثَٰرِهِم مُّهۡتَدُونَ
 sentence_translation: In fact, they say, “We found our forefathers following a ˹particular˺
   way, and we are following in their footsteps.”
 word_by_word:
@@ -9,43 +9,43 @@ word_by_word:
     translation: Nay
     transliteration: bal
   2:
-    arabic: قَالُـوۡۤا
+    arabic: قَالُوٓاْ
     translation: they say
     transliteration: qālū
   3:
-    arabic: اِنَّا
+    arabic: إِنَّا
     translation: Indeed, we
     transliteration: innā
   4:
-    arabic: وَجَدۡنَاۤ
+    arabic: وَجَدۡنَآ ءَ
     translation: '[we] found'
     transliteration: wajadnā
   5:
-    arabic: اٰبَآءَنَا
+    arabic: ابَآءَنَا
     translation: our forefathers
     transliteration: ābāanā
   6:
-    arabic: عَلٰٓى
+    arabic: عَلَىٰٓ
     translation: upon
     transliteration: ʿalā
   7:
-    arabic: اُمَّةٍ
+    arabic: أُمَّةٖ
     translation: a religion
     transliteration: ummatin
   8:
-    arabic: وَّاِنَّا
+    arabic: وَإِنَّا
     translation: and indeed, we
     transliteration: wa-innā
   9:
-    arabic: عَلٰٓى
+    arabic: عَلَىٰٓ ءَ
     translation: 'on'
     transliteration: ʿalā
   10:
-    arabic: اٰثٰرِهِمۡ
+    arabic: اثَٰرِهِم
     translation: their footsteps
     transliteration: āthārihim
   11:
-    arabic: مُّهۡتَدُوۡنَ‏
+    arabic: مُّهۡتَدُونَ
     translation: (are) guided
     transliteration: muh'tadūna
 ---

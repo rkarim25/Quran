@@ -1,21 +1,21 @@
 ---
-arabic_ayat: لَا يَنۡهٰٮكُمُ اللّٰهُ عَنِ الَّذِيۡنَ لَمۡ يُقَاتِلُوۡكُمۡ فِى الدِّيۡنِ
-  وَلَمۡ يُخۡرِجُوۡكُمۡ مِّنۡ دِيَارِكُمۡ اَنۡ تَبَرُّوۡهُمۡ وَ تُقۡسِطُوۡۤا اِلَيۡهِمۡ​ؕ
-  اِنَّ اللّٰهَ يُحِبُّ الۡمُقۡسِطِيۡنَ‏
+arabic_ayat: لَّا يَنۡهَىٰكُمُ ٱللَّهُ عَنِ ٱلَّذِينَ لَمۡ يُقَٰتِلُوكُمۡ فِي ٱلدِّينِ
+  وَلَمۡ يُخۡرِجُوكُم مِّن دِيَٰرِكُمۡ أَن تَبَرُّوهُمۡ وَتُقۡسِطُوٓاْ إِلَيۡهِمۡۚ
+  إِنَّ ٱللَّهَ يُحِبُّ ٱلۡمُقۡسِطِينَ
 sentence_translation: Allah does not forbid you from dealing kindly and fairly with
   those who have neither fought nor driven you out of your homes. Surely Allah loves
   those who are fair.
 word_by_word:
   1:
-    arabic: لَا
+    arabic: لَّا
     translation: Not
     transliteration: lā
   2:
-    arabic: يَنۡهٰٮكُمُ
+    arabic: يَنۡهَىٰكُمُ
     translation: (does) forbid you
     transliteration: yanhākumu
   3:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   4:
@@ -23,7 +23,7 @@ word_by_word:
     translation: from
     transliteration: ʿani
   5:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   6:
@@ -31,15 +31,15 @@ word_by_word:
     translation: (do) not
     transliteration: lam
   7:
-    arabic: يُقَاتِلُوۡكُمۡ
+    arabic: يُقَٰتِلُوكُمۡ
     translation: fight you
     transliteration: yuqātilūkum
   8:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   9:
-    arabic: الدِّيۡنِ
+    arabic: ٱلدِّينِ
     translation: the religion
     transliteration: l-dīni
   10:
@@ -47,39 +47,39 @@ word_by_word:
     translation: and (do) not
     transliteration: walam
   11:
-    arabic: يُخۡرِجُوۡكُمۡ
+    arabic: يُخۡرِجُوكُم
     translation: drive you out
     transliteration: yukh'rijūkum
   12:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: of
     transliteration: min
   13:
-    arabic: دِيَارِكُمۡ
+    arabic: دِيَٰرِكُمۡ
     translation: your homes
     transliteration: diyārikum
   14:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that
     transliteration: an
   15:
-    arabic: تَبَرُّوۡهُمۡ
+    arabic: تَبَرُّوهُمۡ
     translation: you deal kindly
     transliteration: tabarrūhum
   16:
-    arabic: وَ تُقۡسِطُوۡۤا
+    arabic: وَتُقۡسِطُوٓاْ
     translation: and deal justly
     transliteration: watuq'siṭū
   17:
-    arabic: اِلَيۡهِمۡ​ؕ
+    arabic: إِلَيۡهِمۡۚ
     translation: with them
     transliteration: ilayhim
   18:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   19:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   20:
@@ -87,7 +87,7 @@ word_by_word:
     translation: loves
     transliteration: yuḥibbu
   21:
-    arabic: الۡمُقۡسِطِيۡنَ‏
+    arabic: ٱلۡمُقۡسِطِينَ
     translation: those who act justly
     transliteration: l-muq'siṭīna
 ---

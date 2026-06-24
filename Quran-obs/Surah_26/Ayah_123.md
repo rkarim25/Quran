@@ -1,5 +1,5 @@
 ---
-arabic_ayat: كَذَّبَتۡ عَادُ اۨلۡمُرۡسَلِيۡنَ ​ۖ ​ۚ‏
+arabic_ayat: كَذَّبَتۡ عَادٌ ٱلۡمُرۡسَلِينَ
 sentence_translation: The people of ’Âd rejected the messengers
 word_by_word:
   1:
@@ -7,11 +7,11 @@ word_by_word:
     translation: Denied
     transliteration: kadhabat
   2:
-    arabic: عَادُ
+    arabic: عَادٌ
     translation: (the people) of Aad
     transliteration: ʿādun
   3:
-    arabic: اۨلۡمُرۡسَلِيۡنَ ​ۖ ​ۚ‏
+    arabic: ٱلۡمُرۡسَلِينَ
     translation: the Messengers
     transliteration: l-mur'salīna
 ---

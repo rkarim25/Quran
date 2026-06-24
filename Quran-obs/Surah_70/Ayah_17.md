@@ -1,10 +1,10 @@
 ---
-arabic_ayat: تَدۡعُوۡا مَنۡ اَدۡبَرَ وَتَوَلّٰىۙ‏
+arabic_ayat: تَدۡعُواْ مَنۡ أَدۡبَرَ وَتَوَلَّىٰ
 sentence_translation: It will summon whoever turned their backs ˹on Allah˺ and turned
   away ˹from the truth˺,
 word_by_word:
   1:
-    arabic: تَدۡعُوۡا
+    arabic: تَدۡعُواْ
     translation: Inviting
     transliteration: tadʿū
   2:
@@ -12,11 +12,11 @@ word_by_word:
     translation: (him) who
     transliteration: man
   3:
-    arabic: اَدۡبَرَ
+    arabic: أَدۡبَرَ
     translation: turned his back
     transliteration: adbara
   4:
-    arabic: وَتَوَلّٰىۙ‏
+    arabic: وَتَوَلَّىٰ
     translation: and went away
     transliteration: watawallā
 ---

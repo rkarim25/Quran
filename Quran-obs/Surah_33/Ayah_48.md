@@ -1,6 +1,6 @@
 ---
-arabic_ayat: وَلَا تُطِعِ الۡكٰفِرِيۡنَ وَالۡمُنٰفِقِيۡنَ وَدَعۡ اَذٰٮهُمۡ وَتَوَكَّلۡ
-  عَلَى اللّٰهِ ؕ وَكَفٰى بِاللّٰهِ وَكِيۡلًا‏
+arabic_ayat: وَلَا تُطِعِ ٱلۡكَٰفِرِينَ وَٱلۡمُنَٰفِقِينَ وَدَعۡ أَذَىٰهُمۡ وَتَوَكَّلۡ
+  عَلَى ٱللَّهِۚ وَكَفَىٰ بِٱللَّهِ وَكِيلٗا
 sentence_translation: Do not yield to the disbelievers and the hypocrites. Overlook
   their annoyances, and put your trust in Allah. For Allah is sufficient as a Trustee
   of Affairs.
@@ -14,11 +14,11 @@ word_by_word:
     translation: obey
     transliteration: tuṭiʿi
   3:
-    arabic: الۡكٰفِرِيۡنَ
+    arabic: ٱلۡكَٰفِرِينَ
     translation: the disbelievers
     transliteration: l-kāfirīna
   4:
-    arabic: وَالۡمُنٰفِقِيۡنَ
+    arabic: وَٱلۡمُنَٰفِقِينَ
     translation: and the hypocrites
     transliteration: wal-munāfiqīna
   5:
@@ -26,7 +26,7 @@ word_by_word:
     translation: and disregard
     transliteration: wadaʿ
   6:
-    arabic: اَذٰٮهُمۡ
+    arabic: أَذَىٰهُمۡ
     translation: their harm
     transliteration: adhāhum
   7:
@@ -38,19 +38,19 @@ word_by_word:
     translation: in
     transliteration: ʿalā
   9:
-    arabic: اللّٰهِ ؕ
+    arabic: ٱللَّهِۚ
     translation: Allah
     transliteration: l-lahi
   10:
-    arabic: وَكَفٰى
+    arabic: وَكَفَىٰ
     translation: And sufficient is Allah
     transliteration: wakafā
   11:
-    arabic: بِاللّٰهِ
+    arabic: بِٱللَّهِ
     translation: And sufficient is Allah
     transliteration: bil-lahi
   12:
-    arabic: وَكِيۡلًا‏
+    arabic: وَكِيلٗا
     translation: (as) a Trustee
     transliteration: wakīlan
 ---

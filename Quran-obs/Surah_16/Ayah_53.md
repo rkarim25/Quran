@@ -1,6 +1,6 @@
 ---
-arabic_ayat: وَمَا بِكُمۡ مِّنۡ نّـِعۡمَةٍ فَمِنَ اللّٰهِ​ ثُمَّ اِذَا مَسَّكُمُ الضُّرُّ
-  فَاِلَيۡهِ تَجْئَرُوۡنَ​ۚ‏
+arabic_ayat: وَمَا بِكُم مِّن نِّعۡمَةٖ فَمِنَ ٱللَّهِۖ ثُمَّ إِذَا مَسَّكُمُ ٱلضُّرُّ
+  فَإِلَيۡهِ تَجۡـَٔرُونَ
 sentence_translation: Whatever blessings you have are from Allah. Then whenever hardship
   touches you, to Him ˹alone˺ you cry ˹for help˺.
 word_by_word:
@@ -9,15 +9,15 @@ word_by_word:
     translation: And whatever
     transliteration: wamā
   2:
-    arabic: بِكُمۡ
+    arabic: بِكُم
     translation: you have
     transliteration: bikum
   3:
-    arabic: مِّنۡ
+    arabic: مِّن
     translation: of
     transliteration: min
   4:
-    arabic: نّـِعۡمَةٍ
+    arabic: نِّعۡمَةٖ
     translation: favor
     transliteration: niʿ'matin
   5:
@@ -25,7 +25,7 @@ word_by_word:
     translation: (is) from
     transliteration: famina
   6:
-    arabic: اللّٰهِ​
+    arabic: ٱللَّهِۖ
     translation: Allah
     transliteration: l-lahi
   7:
@@ -33,7 +33,7 @@ word_by_word:
     translation: Then
     transliteration: thumma
   8:
-    arabic: اِذَا
+    arabic: إِذَا
     translation: when
     transliteration: idhā
   9:
@@ -41,15 +41,15 @@ word_by_word:
     translation: touches you
     transliteration: massakumu
   10:
-    arabic: الضُّرُّ
+    arabic: ٱلضُّرُّ
     translation: the adversity
     transliteration: l-ḍuru
   11:
-    arabic: فَاِلَيۡهِ
+    arabic: فَإِلَيۡهِ
     translation: then to Him
     transliteration: fa-ilayhi
   12:
-    arabic: تَجْئَرُوۡنَ​ۚ‏
+    arabic: تَجۡـَٔرُونَ
     translation: you cry for help
     transliteration: tajarūna
 ---

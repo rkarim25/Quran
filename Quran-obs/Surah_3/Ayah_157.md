@@ -1,12 +1,12 @@
 ---
-arabic_ayat: وَلَٮِٕنۡ قُتِلۡتُمۡ فِىۡ سَبِيۡلِ اللّٰهِ اَوۡ مُتُّمۡ لَمَغۡفِرَةٌ
-  مِّنَ اللّٰهِ وَرَحۡمَةٌ خَيۡرٌ مِّمَّا يَجۡمَعُوۡنَ‏
+arabic_ayat: وَلَئِن قُتِلۡتُمۡ فِي سَبِيلِ ٱللَّهِ أَوۡ مُتُّمۡ لَمَغۡفِرَةٞ مِّنَ
+  ٱللَّهِ وَرَحۡمَةٌ خَيۡرٞ مِّمَّا يَجۡمَعُونَ
 sentence_translation: Should you be martyred or die in the cause of Allah, then His
   forgiveness and mercy are far better than whatever ˹wealth˺ those ˹who stay behind˺
   accumulate.
 word_by_word:
   1:
-    arabic: وَلَٮِٕنۡ
+    arabic: وَلَئِن
     translation: And if
     transliteration: wala-in
   2:
@@ -14,19 +14,19 @@ word_by_word:
     translation: you are killed
     transliteration: qutil'tum
   3:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   4:
-    arabic: سَبِيۡلِ
+    arabic: سَبِيلِ
     translation: (the) way
     transliteration: sabīli
   5:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (of) Allah
     transliteration: l-lahi
   6:
-    arabic: اَوۡ
+    arabic: أَوۡ
     translation: or
     transliteration: aw
   7:
@@ -34,7 +34,7 @@ word_by_word:
     translation: 'die[d] '
     transliteration: muttum
   8:
-    arabic: لَمَغۡفِرَةٌ
+    arabic: لَمَغۡفِرَةٞ
     translation: certainly forgiveness
     transliteration: lamaghfiratun
   9:
@@ -42,7 +42,7 @@ word_by_word:
     translation: from
     transliteration: mina
   10:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   11:
@@ -50,7 +50,7 @@ word_by_word:
     translation: and Mercy
     transliteration: waraḥmatun
   12:
-    arabic: خَيۡرٌ
+    arabic: خَيۡرٞ
     translation: (are) better
     transliteration: khayrun
   13:
@@ -58,7 +58,7 @@ word_by_word:
     translation: than what
     transliteration: mimmā
   14:
-    arabic: يَجۡمَعُوۡنَ‏
+    arabic: يَجۡمَعُونَ
     translation: they accumulate
     transliteration: yajmaʿūna
 ---

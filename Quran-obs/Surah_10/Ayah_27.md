@@ -1,23 +1,23 @@
 ---
-arabic_ayat: وَالَّذِيۡنَ كَسَبُوا السَّيِّاٰتِ جَزَآءُ سَيِّئَةٍ ۢ بِمِثۡلِهَا ۙ
-  وَتَرۡهَقُهُمۡ ذِلَّـةٌ  ؕ مَا لَهُمۡ مِّنَ اللّٰهِ مِنۡ عَاصِمٍ​​ ۚ كَاَنَّمَاۤ
-  اُغۡشِيَتۡ وُجُوۡهُهُمۡ قِطَعًا مِّنَ الَّيۡلِ مُظۡلِمًا ​ؕ اُولٰٓٮِٕكَ اَصۡحٰبُ
-  النَّارِ​ ؕ هُمۡ فِيۡهَا خٰلِدُوۡنَ‏
+arabic_ayat: وَٱلَّذِينَ كَسَبُواْ ٱلسَّيِّـَٔاتِ جَزَآءُ سَيِّئَةِۭ بِمِثۡلِهَا
+  وَتَرۡهَقُهُمۡ ذِلَّةٞۖ مَّا لَهُم مِّنَ ٱللَّهِ مِنۡ عَاصِمٖۖ كَأَنَّمَآ أُغۡشِيَتۡ
+  وُجُوهُهُمۡ قِطَعٗا مِّنَ ٱلَّيۡلِ مُظۡلِمًاۚ أُوْلَٰٓئِكَ أَصۡحَٰبُ ٱلنَّارِۖ هُمۡ
+  فِيهَا خَٰلِدُونَ
 sentence_translation: As for those who commit evil, the reward of an evil deed is
   its equivalent. Humiliation will cover them—with no one to protect them from Allah—as
   if their faces were covered with patches of the night’s deep darkness. It is they
   who will be the residents of the Fire. They will be there forever.
 word_by_word:
   1:
-    arabic: وَالَّذِيۡنَ
+    arabic: وَٱلَّذِينَ
     translation: And those who
     transliteration: wa-alladhīna
   2:
-    arabic: كَسَبُوا
+    arabic: كَسَبُواْ
     translation: earned
     transliteration: kasabū
   3:
-    arabic: السَّيِّاٰتِ
+    arabic: ٱلسَّيِّـَٔاتِ
     translation: the evil deeds
     transliteration: l-sayiāti
   4:
@@ -25,11 +25,11 @@ word_by_word:
     translation: (the) recompense
     transliteration: jazāu
   5:
-    arabic: سَيِّئَةٍ ۢ
+    arabic: سَيِّئَةِۭ
     translation: (of) an evil deed
     transliteration: sayyi-atin
   6:
-    arabic: بِمِثۡلِهَا ۙ
+    arabic: بِمِثۡلِهَا
     translation: (is) like it
     transliteration: bimith'lihā
   7:
@@ -37,15 +37,15 @@ word_by_word:
     translation: and (will) cover them
     transliteration: watarhaquhum
   8:
-    arabic: ذِلَّـةٌ  ؕ
+    arabic: ذِلَّةٞۖ
     translation: humiliation
     transliteration: dhillatun
   9:
-    arabic: مَا
+    arabic: مَّا
     translation: They will not have
     transliteration: mā
   10:
-    arabic: لَهُمۡ
+    arabic: لَهُم
     translation: They will not have
     transliteration: lahum
   11:
@@ -53,7 +53,7 @@ word_by_word:
     translation: from
     transliteration: mina
   12:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   13:
@@ -61,23 +61,23 @@ word_by_word:
     translation: any
     transliteration: min
   14:
-    arabic: عَاصِمٍ ۚ
+    arabic: عَاصِمٖۖ
     translation: defender
     transliteration: ʿāṣimin
   15:
-    arabic: كَاَنَّمَاۤ
+    arabic: كَأَنَّمَآ
     translation: As if
     transliteration: ka-annamā
   16:
-    arabic: اُغۡشِيَتۡ
+    arabic: أُغۡشِيَتۡ
     translation: had been covered
     transliteration: ugh'shiyat
   17:
-    arabic: وُجُوۡهُهُمۡ
+    arabic: وُجُوهُهُمۡ
     translation: their faces
     transliteration: wujūhuhum
   18:
-    arabic: قِطَعًا
+    arabic: قِطَعٗا
     translation: (with) pieces
     transliteration: qiṭaʿan
   19:
@@ -85,23 +85,23 @@ word_by_word:
     translation: from
     transliteration: mina
   20:
-    arabic: الَّيۡلِ
+    arabic: ٱلَّيۡلِ
     translation: the darkness (of) night
     transliteration: al-layli
   21:
-    arabic: مُظۡلِمًا ​ؕ
+    arabic: مُظۡلِمًاۚ
     translation: the darkness (of) night
     transliteration: muẓ'liman
   22:
-    arabic: اُولٰٓٮِٕكَ
+    arabic: أُوْلَٰٓئِكَ
     translation: Those
     transliteration: ulāika
   23:
-    arabic: اَصۡحٰبُ
+    arabic: أَصۡحَٰبُ
     translation: (are the) companions
     transliteration: aṣḥābu
   24:
-    arabic: النَّارِ​ ؕ
+    arabic: ٱلنَّارِۖ
     translation: (of) the Fire
     transliteration: l-nāri
   25:
@@ -109,11 +109,11 @@ word_by_word:
     translation: they
     transliteration: hum
   26:
-    arabic: فِيۡهَا
+    arabic: فِيهَا
     translation: in it
     transliteration: fīhā
   27:
-    arabic: خٰلِدُوۡنَ‏
+    arabic: خَٰلِدُونَ
     translation: (will) abide forever
     transliteration: khālidūna
 ---

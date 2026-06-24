@@ -1,12 +1,12 @@
 ---
-arabic_ayat: وَاِذۡ قُلۡنَا لِلۡمَلٰٓٮِٕكَةِ اسۡجُدُوۡا لِاٰدَمَ فَسَجَدُوۡٓا اِلَّاۤ
-  اِبۡلِيۡسَؕ اَبٰى وَاسۡتَكۡبَرَ  وَكَانَ مِنَ الۡكٰفِرِيۡنَ‏
+arabic_ayat: وَإِذۡ قُلۡنَا لِلۡمَلَٰٓئِكَةِ ٱسۡجُدُواْ لِأٓدَمَ فَسَجَدُوٓاْ إِلَّآ
+  إِبۡلِيسَ أَبَىٰ وَٱسۡتَكۡبَرَ وَكَانَ مِنَ ٱلۡكَٰفِرِينَ
 sentence_translation: And ˹remember˺ when We said to the angels, “Prostrate before
   Adam,” so they all did—but not Iblîs, who refused and acted arrogantly, becoming
   unfaithful.
 word_by_word:
   1:
-    arabic: وَاِذۡ
+    arabic: وَإِذۡ
     translation: And when
     transliteration: wa-idh
   2:
@@ -14,35 +14,35 @@ word_by_word:
     translation: We said
     transliteration: qul'nā
   3:
-    arabic: لِلۡمَلٰٓٮِٕكَةِ
+    arabic: لِلۡمَلَٰٓئِكَةِ
     translation: to the angels
     transliteration: lil'malāikati
   4:
-    arabic: اسۡجُدُوۡا
+    arabic: ٱسۡجُدُواْ
     translation: Prostrate
     transliteration: us'judū
   5:
-    arabic: لِاٰدَمَ
+    arabic: لِأٓدَمَ
     translation: to Adam
     transliteration: liādama
   6:
-    arabic: فَسَجَدُوۡٓا
+    arabic: فَسَجَدُوٓاْ
     translation: '[so] they prostrated'
     transliteration: fasajadū
   7:
-    arabic: اِلَّاۤ
+    arabic: إِلَّآ
     translation: except
     transliteration: illā
   8:
-    arabic: اِبۡلِيۡسَؕ
+    arabic: إِبۡلِيسَ
     translation: Iblis
     transliteration: ib'līsa
   9:
-    arabic: اَبٰى
+    arabic: أَبَىٰ
     translation: He refused
     transliteration: abā
   10:
-    arabic: وَاسۡتَكۡبَرَ 
+    arabic: وَٱسۡتَكۡبَرَ
     translation: and was arrogant
     transliteration: wa-is'takbara
   11:
@@ -54,7 +54,7 @@ word_by_word:
     translation: of
     transliteration: mina
   13:
-    arabic: الۡكٰفِرِيۡنَ‏
+    arabic: ٱلۡكَٰفِرِينَ
     translation: the disbelievers
     transliteration: l-kāfirīna
 ---

@@ -1,13 +1,13 @@
 ---
-arabic_ayat: فَاِنۡ لَّمۡ يَسۡتَجِيۡبُوۡا لَكَ فَاعۡلَمۡ اَنَّمَا يَـتَّبِعُوۡنَ اَهۡوَآءَهُمۡ​
-  ؕ وَمَنۡ اَضَلُّ مِمَّنِ اتَّبَعَ هَوٰٮهُ بِغَيۡرِ هُدًى مِّنَ اللّٰهِ​ ؕ اِنَّ
-  اللّٰهَ لَا يَهۡدِى الۡقَوۡمَ الظّٰلِمِيۡنَ‏
+arabic_ayat: فَإِن لَّمۡ يَسۡتَجِيبُواْ لَكَ فَٱعۡلَمۡ أَنَّمَا يَتَّبِعُونَ أَهۡوَآءَهُمۡۚ
+  وَمَنۡ أَضَلُّ مِمَّنِ ٱتَّبَعَ هَوَىٰهُ بِغَيۡرِ هُدٗى مِّنَ ٱللَّهِۚ إِنَّ ٱللَّهَ
+  لَا يَهۡدِي ٱلۡقَوۡمَ ٱلظَّٰلِمِينَ
 sentence_translation: So if they fail to respond to you, then know that they only
   follow their desires. And who could be more astray than those who follow their desires
   with no guidance from Allah? Surely Allah does not guide the wrongdoing people.
 word_by_word:
   1:
-    arabic: فَاِنۡ
+    arabic: فَإِن
     translation: But if
     transliteration: fa-in
   2:
@@ -15,7 +15,7 @@ word_by_word:
     translation: not
     transliteration: lam
   3:
-    arabic: يَسۡتَجِيۡبُوۡا
+    arabic: يَسۡتَجِيبُواْ
     translation: they respond
     transliteration: yastajībū
   4:
@@ -23,19 +23,19 @@ word_by_word:
     translation: to you
     transliteration: laka
   5:
-    arabic: فَاعۡلَمۡ
+    arabic: فَٱعۡلَمۡ
     translation: then know
     transliteration: fa-iʿ'lam
   6:
-    arabic: اَنَّمَا
+    arabic: أَنَّمَا
     translation: that only
     transliteration: annamā
   7:
-    arabic: يَـتَّبِعُوۡنَ
+    arabic: يَتَّبِعُونَ
     translation: they follow
     transliteration: yattabiʿūna
   8:
-    arabic: اَهۡوَآءَهُمۡ​ ؕ
+    arabic: أَهۡوَآءَهُمۡۚ
     translation: their desires
     transliteration: ahwāahum
   9:
@@ -43,7 +43,7 @@ word_by_word:
     translation: And who
     transliteration: waman
   10:
-    arabic: اَضَلُّ
+    arabic: أَضَلُّ
     translation: (is) more astray
     transliteration: aḍallu
   11:
@@ -51,11 +51,11 @@ word_by_word:
     translation: than (one) who
     transliteration: mimmani
   12:
-    arabic: اتَّبَعَ
+    arabic: ٱتَّبَعَ
     translation: follows
     transliteration: ittabaʿa
   13:
-    arabic: هَوٰٮهُ
+    arabic: هَوَىٰهُ
     translation: his own desire
     transliteration: hawāhu
   14:
@@ -63,7 +63,7 @@ word_by_word:
     translation: without
     transliteration: bighayri
   15:
-    arabic: هُدًى
+    arabic: هُدٗى
     translation: guidance
     transliteration: hudan
   16:
@@ -71,15 +71,15 @@ word_by_word:
     translation: from
     transliteration: mina
   17:
-    arabic: اللّٰهِ​ ؕ
+    arabic: ٱللَّهِۚ
     translation: Allah
     transliteration: l-lahi
   18:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   19:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   20:
@@ -87,15 +87,15 @@ word_by_word:
     translation: (does) not
     transliteration: lā
   21:
-    arabic: يَهۡدِى
+    arabic: يَهۡدِي
     translation: guide
     transliteration: yahdī
   22:
-    arabic: الۡقَوۡمَ
+    arabic: ٱلۡقَوۡمَ
     translation: 'the people '
     transliteration: l-qawma
   23:
-    arabic: الظّٰلِمِيۡنَ‏
+    arabic: ٱلظَّٰلِمِينَ
     translation: the wrongdoers
     transliteration: l-ẓālimīna
 ---

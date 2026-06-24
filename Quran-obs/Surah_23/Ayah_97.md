@@ -1,10 +1,10 @@
 ---
-arabic_ayat: وَقُلْ رَّبِّ اَعُوۡذُ بِكَ مِنۡ هَمَزٰتِ الشَّيٰطِيۡنِۙ‏
+arabic_ayat: وَقُل رَّبِّ أَعُوذُ بِكَ مِنۡ هَمَزَٰتِ ٱلشَّيَٰطِينِ
 sentence_translation: And say, “My Lord! I seek refuge in You from the temptations
   of the devils.
 word_by_word:
   1:
-    arabic: وَقُلْ
+    arabic: وَقُل
     translation: And say
     transliteration: waqul
   2:
@@ -12,7 +12,7 @@ word_by_word:
     translation: My Lord
     transliteration: rabbi
   3:
-    arabic: اَعُوۡذُ
+    arabic: أَعُوذُ
     translation: I seek refuge
     transliteration: aʿūdhu
   4:
@@ -24,11 +24,11 @@ word_by_word:
     translation: from
     transliteration: min
   6:
-    arabic: هَمَزٰتِ
+    arabic: هَمَزَٰتِ
     translation: (the) suggestions
     transliteration: hamazāti
   7:
-    arabic: الشَّيٰطِيۡنِۙ‏
+    arabic: ٱلشَّيَٰطِينِ
     translation: (of) the evil ones
     transliteration: l-shayāṭīni
 ---

@@ -1,8 +1,7 @@
 ---
-arabic_ayat: وَدَخَلَ مَعَهُ السِّجۡنَ فَتَيٰنِ​ؕ قَالَ اَحَدُهُمَاۤ اِنِّىۡۤ اَرٰٮنِىۡۤ
-  اَعۡصِرُ خَمۡرًا​ ۚ وَقَالَ الۡاٰخَرُ اِنِّىۡۤ اَرٰٮنِىۡۤ اَحۡمِلُ فَوۡقَ رَاۡسِىۡ
-  خُبۡزًا تَاۡكُلُ الطَّيۡرُ مِنۡهُ​ ؕ نَبِّئۡنَا بِتَاۡوِيۡلِهٖ ۚ اِنَّا نَرٰٮكَ
-  مِنَ الۡمُحۡسِنِيۡنَ‏
+arabic_ayat: وَدَخَلَ مَعَهُ ٱلسِّجۡنَ فَتَيَانِۖ قَالَ أَحَدُهُمَآ إِنِّيٓ أَرَىٰنِيٓ
+  أَعۡصِرُ خَمۡرٗاۖ وَقَالَ ٱلۡأٓخَرُ إِنِّيٓ أَرَىٰنِيٓ أَحۡمِلُ فَوۡقَ رَأۡسِي خُبۡزٗا
+  تَأۡكُلُ ٱلطَّيۡرُ مِنۡهُۖ نَبِّئۡنَا بِتَأۡوِيلِهِۦٓۖ إِنَّا نَرَىٰكَ مِنَ ٱلۡمُحۡسِنِينَ
 sentence_translation: And two other servants went to jail with Joseph. One of them
   said, “I dreamt I was pressing wine.” The other said, “I dreamt I was carrying ˹some˺
   bread on my head, from which birds were eating.” ˹Then both said,˺ “Tell us their
@@ -17,11 +16,11 @@ word_by_word:
     translation: with him
     transliteration: maʿahu
   3:
-    arabic: السِّجۡنَ
+    arabic: ٱلسِّجۡنَ
     translation: (in) the prison
     transliteration: l-sij'na
   4:
-    arabic: فَتَيٰنِ​ؕ
+    arabic: فَتَيَانِۖ
     translation: two young men
     transliteration: fatayāni
   5:
@@ -29,23 +28,23 @@ word_by_word:
     translation: Said
     transliteration: qāla
   6:
-    arabic: اَحَدُهُمَاۤ
+    arabic: أَحَدُهُمَآ
     translation: one of them
     transliteration: aḥaduhumā
   7:
-    arabic: اِنِّىۡۤ
+    arabic: إِنِّيٓ
     translation: Indeed, I
     transliteration: innī
   8:
-    arabic: اَرٰٮنِىۡۤ
+    arabic: أَرَىٰنِيٓ
     translation: '[I] see myself'
     transliteration: arānī
   9:
-    arabic: اَعۡصِرُ
+    arabic: أَعۡصِرُ
     translation: pressing
     transliteration: aʿṣiru
   10:
-    arabic: خَمۡرًا​ ۚ
+    arabic: خَمۡرٗاۖ
     translation: wine
     transliteration: khamran
   11:
@@ -53,19 +52,19 @@ word_by_word:
     translation: And said
     transliteration: waqāla
   12:
-    arabic: الۡاٰخَرُ
+    arabic: ٱلۡأٓخَرُ
     translation: the other
     transliteration: l-ākharu
   13:
-    arabic: اِنِّىۡۤ
+    arabic: إِنِّيٓ
     translation: Indeed, I
     transliteration: innī
   14:
-    arabic: اَرٰٮنِىۡۤ
+    arabic: أَرَىٰنِيٓ
     translation: '[I] see myself'
     transliteration: arānī
   15:
-    arabic: اَحۡمِلُ
+    arabic: أَحۡمِلُ
     translation: '[I am] carrying'
     transliteration: aḥmilu
   16:
@@ -73,23 +72,23 @@ word_by_word:
     translation: over
     transliteration: fawqa
   17:
-    arabic: رَاۡسِىۡ
+    arabic: رَأۡسِي
     translation: my head
     transliteration: rasī
   18:
-    arabic: خُبۡزًا
+    arabic: خُبۡزٗا
     translation: bread
     transliteration: khub'zan
   19:
-    arabic: تَاۡكُلُ
+    arabic: تَأۡكُلُ
     translation: (were) eating
     transliteration: takulu
   20:
-    arabic: الطَّيۡرُ
+    arabic: ٱلطَّيۡرُ
     translation: the birds
     transliteration: l-ṭayru
   21:
-    arabic: مِنۡهُ​ ؕ
+    arabic: مِنۡهُۖ
     translation: from it
     transliteration: min'hu
   22:
@@ -97,15 +96,15 @@ word_by_word:
     translation: Inform us
     transliteration: nabbi'nā
   23:
-    arabic: بِتَاۡوِيۡلِهٖ ۚ
+    arabic: بِتَأۡوِيلِهِۦٓۖ
     translation: of its interpretation
     transliteration: bitawīlihi
   24:
-    arabic: اِنَّا
+    arabic: إِنَّا
     translation: indeed, we
     transliteration: innā
   25:
-    arabic: نَرٰٮكَ
+    arabic: نَرَىٰكَ
     translation: '[we] see you'
     transliteration: narāka
   26:
@@ -113,7 +112,7 @@ word_by_word:
     translation: of
     transliteration: mina
   27:
-    arabic: الۡمُحۡسِنِيۡنَ‏
+    arabic: ٱلۡمُحۡسِنِينَ
     translation: the good-doers
     transliteration: l-muḥ'sinīna
 ---

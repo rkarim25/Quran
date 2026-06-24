@@ -1,8 +1,8 @@
 ---
-arabic_ayat: فَدَلّٰٮهُمَا بِغُرُوۡرٍ​ ۚ فَلَمَّا ذَاقَا الشَّجَرَةَ بَدَتۡ لَهُمَا
-  سَوۡءٰتُهُمَا وَطَفِقَا يَخۡصِفٰنِ عَلَيۡهِمَا مِنۡ وَّرَقِ الۡجَـنَّةِ​ ؕ وَنَادٰٮهُمَا
-  رَبُّهُمَاۤ اَلَمۡ اَنۡهَكُمَا عَنۡ تِلۡكُمَا الشَّجَرَةِ وَاَقُلْ لَّـكُمَاۤ اِنَّ
-  الشَّيۡطٰنَ لَـكُمَا عَدُوٌّ مُّبِيۡنٌ‏
+arabic_ayat: فَدَلَّىٰهُمَا بِغُرُورٖۚ فَلَمَّا ذَاقَا ٱلشَّجَرَةَ بَدَتۡ لَهُمَا
+  سَوۡءَٰتُهُمَا وَطَفِقَا يَخۡصِفَانِ عَلَيۡهِمَا مِن وَرَقِ ٱلۡجَنَّةِۖ وَنَادَىٰهُمَا
+  رَبُّهُمَآ أَلَمۡ أَنۡهَكُمَا عَن تِلۡكُمَا ٱلشَّجَرَةِ وَأَقُل لَّكُمَآ إِنَّ
+  ٱلشَّيۡطَٰنَ لَكُمَا عَدُوّٞ مُّبِينٞ
 sentence_translation: So he brought about their fall through deception. And when they
   tasted of the tree, their nakedness was exposed to them, prompting them to cover
   themselves with leaves from Paradise. Then their Lord called out to them, “Did I
@@ -10,11 +10,11 @@ sentence_translation: So he brought about their fall through deception. And when
   enemy?”
 word_by_word:
   1:
-    arabic: فَدَلّٰٮهُمَا
+    arabic: فَدَلَّىٰهُمَا
     translation: So he made both of them fall
     transliteration: fadallāhumā
   2:
-    arabic: بِغُرُوۡرٍ​ ۚ
+    arabic: بِغُرُورٖۚ
     translation: by deception
     transliteration: bighurūrin
   3:
@@ -26,7 +26,7 @@ word_by_word:
     translation: they both tasted
     transliteration: dhāqā
   5:
-    arabic: الشَّجَرَةَ
+    arabic: ٱلشَّجَرَةَ
     translation: the tree
     transliteration: l-shajarata
   6:
@@ -38,7 +38,7 @@ word_by_word:
     translation: to both of them
     transliteration: lahumā
   8:
-    arabic: سَوۡءٰتُهُمَا
+    arabic: سَوۡءَٰتُهُمَا
     translation: their shame
     transliteration: sawātuhumā
   9:
@@ -46,7 +46,7 @@ word_by_word:
     translation: and they began
     transliteration: waṭafiqā
   10:
-    arabic: يَخۡصِفٰنِ
+    arabic: يَخۡصِفَانِ
     translation: (to) fasten
     transliteration: yakhṣifāni
   11:
@@ -54,35 +54,35 @@ word_by_word:
     translation: over themselves
     transliteration: ʿalayhimā
   12:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   13:
-    arabic: وَّرَقِ
+    arabic: وَرَقِ
     translation: (the) leaves
     transliteration: waraqi
   14:
-    arabic: الۡجَـنَّةِ​ ؕ
+    arabic: ٱلۡجَنَّةِۖ
     translation: (of) the Garden
     transliteration: l-janati
   15:
-    arabic: وَنَادٰٮهُمَا
+    arabic: وَنَادَىٰهُمَا
     translation: And called them both
     transliteration: wanādāhumā
   16:
-    arabic: رَبُّهُمَاۤ
+    arabic: رَبُّهُمَآ
     translation: their Lord
     transliteration: rabbuhumā
   17:
-    arabic: اَلَمۡ
+    arabic: أَلَمۡ
     translation: Did not
     transliteration: alam
   18:
-    arabic: اَنۡهَكُمَا
+    arabic: أَنۡهَكُمَا
     translation: I forbid you both
     transliteration: anhakumā
   19:
-    arabic: عَنۡ
+    arabic: عَن
     translation: from
     transliteration: ʿan
   20:
@@ -90,35 +90,35 @@ word_by_word:
     translation: this
     transliteration: til'kumā
   21:
-    arabic: الشَّجَرَةِ
+    arabic: ٱلشَّجَرَةِ
     translation: '[the] tree'
     transliteration: l-shajarati
   22:
-    arabic: وَاَقُلْ
+    arabic: وَأَقُل
     translation: and [I] say
     transliteration: wa-aqul
   23:
-    arabic: لَّـكُمَاۤ
+    arabic: لَّكُمَآ
     translation: to both of you
     transliteration: lakumā
   24:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: that
     transliteration: inna
   25:
-    arabic: الشَّيۡطٰنَ
+    arabic: ٱلشَّيۡطَٰنَ
     translation: '[the] Shaitaan'
     transliteration: l-shayṭāna
   26:
-    arabic: لَـكُمَا
+    arabic: لَكُمَا
     translation: to both of you
     transliteration: lakumā
   27:
-    arabic: عَدُوٌّ
+    arabic: عَدُوّٞ
     translation: (is) an enemy
     transliteration: ʿaduwwun
   28:
-    arabic: مُّبِيۡنٌ‏
+    arabic: مُّبِينٞ
     translation: open
     transliteration: mubīnun
 ---

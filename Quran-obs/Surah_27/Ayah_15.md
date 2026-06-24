@@ -1,28 +1,28 @@
 ---
-arabic_ayat: وَلَـقَدۡ اٰتَيۡنَا دَاوٗدَ وَ سُلَيۡمٰنَ عِلۡمًا​ ۚ وَقَالَا الۡحَمۡدُ
-  لِلّٰهِ الَّذِىۡ فَضَّلَنَا عَلٰى كَثِيۡرٍ مِّنۡ عِبَادِهِ الۡمُؤۡمِنِيۡنَ‏
+arabic_ayat: وَلَقَدۡ ءَاتَيۡنَا دَاوُۥدَ وَسُلَيۡمَٰنَ عِلۡمٗاۖ وَقَالَا ٱلۡحَمۡدُ
+  لِلَّهِ ٱلَّذِي فَضَّلَنَا عَلَىٰ كَثِيرٖ مِّنۡ عِبَادِهِ ٱلۡمُؤۡمِنِينَ
 sentence_translation: Indeed, We granted knowledge to David and Solomon. And they
   said ˹in acknowledgment˺, “All praise is for Allah Who has privileged us over many
   of His faithful servants.”
 word_by_word:
   1:
-    arabic: وَلَـقَدۡ
+    arabic: وَلَقَدۡ ءَ
     translation: And verily
     transliteration: walaqad
   2:
-    arabic: اٰتَيۡنَا
+    arabic: اتَيۡنَا
     translation: We gave
     transliteration: ātaynā
   3:
-    arabic: دَاوٗدَ
+    arabic: دَاوُۥدَ
     translation: Dawood
     transliteration: dāwūda
   4:
-    arabic: وَ سُلَيۡمٰنَ
+    arabic: وَسُلَيۡمَٰنَ
     translation: and Sulaiman
     transliteration: wasulaymāna
   5:
-    arabic: عِلۡمًا​ ۚ
+    arabic: عِلۡمٗاۖ
     translation: knowledge
     transliteration: ʿil'man
   6:
@@ -30,15 +30,15 @@ word_by_word:
     translation: and they said
     transliteration: waqālā
   7:
-    arabic: الۡحَمۡدُ
+    arabic: ٱلۡحَمۡدُ
     translation: Praise be
     transliteration: l-ḥamdu
   8:
-    arabic: لِلّٰهِ
+    arabic: لِلَّهِ
     translation: to Allah
     transliteration: lillahi
   9:
-    arabic: الَّذِىۡ
+    arabic: ٱلَّذِي
     translation: the One Who
     transliteration: alladhī
   10:
@@ -46,11 +46,11 @@ word_by_word:
     translation: has favored us
     transliteration: faḍḍalanā
   11:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: over
     transliteration: ʿalā
   12:
-    arabic: كَثِيۡرٍ
+    arabic: كَثِيرٖ
     translation: many
     transliteration: kathīrin
   13:
@@ -62,7 +62,7 @@ word_by_word:
     translation: His servants
     transliteration: ʿibādihi
   15:
-    arabic: الۡمُؤۡمِنِيۡنَ‏
+    arabic: ٱلۡمُؤۡمِنِينَ
     translation: the believers
     transliteration: l-mu'minīna
 ---

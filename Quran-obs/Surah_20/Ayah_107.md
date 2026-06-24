@@ -1,5 +1,5 @@
 ---
-arabic_ayat: لَّا تَرٰى فِيۡهَا عِوَجًا وَّلَاۤ اَمۡتًا ؕ‏
+arabic_ayat: لَّا تَرَىٰ فِيهَا عِوَجٗا وَلَآ أَمۡتٗا
 sentence_translation: with neither depressions nor elevations to be seen.”
 word_by_word:
   1:
@@ -7,23 +7,23 @@ word_by_word:
     translation: Not
     transliteration: lā
   2:
-    arabic: تَرٰى
+    arabic: تَرَىٰ
     translation: you will see
     transliteration: tarā
   3:
-    arabic: فِيۡهَا
+    arabic: فِيهَا
     translation: in it
     transliteration: fīhā
   4:
-    arabic: عِوَجًا
+    arabic: عِوَجٗا
     translation: any crookedness
     transliteration: ʿiwajan
   5:
-    arabic: وَّلَاۤ
+    arabic: وَلَآ
     translation: and not
     transliteration: walā
   6:
-    arabic: اَمۡتًا ؕ‏
+    arabic: أَمۡتٗا
     translation: any curve
     transliteration: amtan
 ---

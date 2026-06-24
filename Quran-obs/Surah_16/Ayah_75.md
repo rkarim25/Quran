@@ -1,18 +1,18 @@
 ---
-arabic_ayat: ضَرَبَ اللّٰهُ مَثَلًا عَبۡدًا مَّمۡلُوۡكًا لَّا يَقۡدِرُ عَلٰى شَىۡءٍ
-  وَّمَنۡ رَّزَقۡنٰهُ مِنَّا رِزۡقًا حَسَنًا فَهُوَ يُنۡفِقُ مِنۡهُ سِرًّا وَّجَهۡرًا​ؕ
-  هَلۡ يَسۡتَوٗنَ​ؕ اَ لۡحَمۡدُ لِلّٰهِ​ؕ بَلۡ اَكۡثَرُهُمۡ لَا يَعۡلَمُوۡنَ‏
+arabic_ayat: ۞ ضَرَبَ ٱللَّهُ مَثَلًا عَبۡدٗا مَّمۡلُوكٗا لَّا يَقۡدِرُ عَلَىٰ شَيۡءٖ
+  وَمَن رَّزَقۡنَٰهُ مِنَّا رِزۡقًا حَسَنٗا فَهُوَ يُنفِقُ مِنۡهُ سِرّٗا وَجَهۡرًاۖ
+  هَلۡ يَسۡتَوُۥنَۚ ٱلۡحَمۡدُ لِلَّهِۚ بَلۡ أَكۡثَرُهُمۡ لَا يَعۡلَمُونَ
 sentence_translation: 'Allah sets forth a parable: a slave who lacks all means, compared
   to a ˹free˺ man to whom We granted a good provision, of which he donates ˹freely,˺
   openly and secretly. Are they equal? Praise be to Allah. In fact, most of them do
   not know.'
 word_by_word:
   1:
-    arabic: ۞ ضَرَبَ
+    arabic: ۞ ضَرَبَ
     translation: Allah sets forth
     transliteration: ḍaraba
   2:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah sets forth
     transliteration: l-lahu
   3:
@@ -20,11 +20,11 @@ word_by_word:
     translation: the example
     transliteration: mathalan
   4:
-    arabic: عَبۡدًا
+    arabic: عَبۡدٗا
     translation: (of) a slave
     transliteration: ʿabdan
   5:
-    arabic: مَّمۡلُوۡكًا
+    arabic: مَّمۡلُوكٗا
     translation: (who is) owned
     transliteration: mamlūkan
   6:
@@ -36,19 +36,19 @@ word_by_word:
     translation: he has power
     transliteration: yaqdiru
   8:
-    arabic: عَلٰى
+    arabic: عَلَىٰ
     translation: 'on'
     transliteration: ʿalā
   9:
-    arabic: شَىۡءٍ
+    arabic: شَيۡءٖ
     translation: anything
     transliteration: shayin
   10:
-    arabic: وَّمَنۡ
+    arabic: وَمَن
     translation: and (one) whom
     transliteration: waman
   11:
-    arabic: رَّزَقۡنٰهُ
+    arabic: رَّزَقۡنَٰهُ
     translation: We provided him
     transliteration: razaqnāhu
   12:
@@ -60,7 +60,7 @@ word_by_word:
     translation: a provision
     transliteration: riz'qan
   14:
-    arabic: حَسَنًا
+    arabic: حَسَنٗا
     translation: good
     transliteration: ḥasanan
   15:
@@ -68,7 +68,7 @@ word_by_word:
     translation: so he
     transliteration: fahuwa
   16:
-    arabic: يُنۡفِقُ
+    arabic: يُنفِقُ
     translation: spends
     transliteration: yunfiqu
   17:
@@ -76,11 +76,11 @@ word_by_word:
     translation: from it
     transliteration: min'hu
   18:
-    arabic: سِرًّا
+    arabic: سِرّٗا
     translation: secretly
     transliteration: sirran
   19:
-    arabic: وَّجَهۡرًا​ؕ
+    arabic: وَجَهۡرًاۖ
     translation: and publicly
     transliteration: wajahran
   20:
@@ -88,15 +88,15 @@ word_by_word:
     translation: Can
     transliteration: hal
   21:
-    arabic: يَسۡتَوٗنَ​ؕ
+    arabic: يَسۡتَوُۥنَۚ
     translation: they be equal
     transliteration: yastawūna
   22:
-    arabic: اَ لۡحَمۡدُ
+    arabic: ٱلۡحَمۡدُ
     translation: All praise
     transliteration: l-ḥamdu
   23:
-    arabic: لِلّٰهِ​ؕ
+    arabic: لِلَّهِۚ
     translation: (is) for Allah
     transliteration: lillahi
   24:
@@ -104,7 +104,7 @@ word_by_word:
     translation: Nay
     transliteration: bal
   25:
-    arabic: اَكۡثَرُهُمۡ
+    arabic: أَكۡثَرُهُمۡ
     translation: but most of them
     transliteration: aktharuhum
   26:
@@ -112,7 +112,7 @@ word_by_word:
     translation: (do) not
     transliteration: lā
   27:
-    arabic: يَعۡلَمُوۡنَ‏
+    arabic: يَعۡلَمُونَ
     translation: know
     transliteration: yaʿlamūna
 ---

@@ -1,5 +1,5 @@
 ---
-arabic_ayat: قَالَ فَبِعِزَّتِكَ لَاُغۡوِيَنَّهُمۡ اَجۡمَعِيۡنَۙ‏
+arabic_ayat: قَالَ فَبِعِزَّتِكَ لَأُغۡوِيَنَّهُمۡ أَجۡمَعِينَ
 sentence_translation: Satan said, “By Your Glory! I will certainly mislead them all,
 word_by_word:
   1:
@@ -11,11 +11,11 @@ word_by_word:
     translation: Then by Your might
     transliteration: fabiʿizzatika
   3:
-    arabic: لَاُغۡوِيَنَّهُمۡ
+    arabic: لَأُغۡوِيَنَّهُمۡ
     translation: I will surely mislead them
     transliteration: la-ugh'wiyannahum
   4:
-    arabic: اَجۡمَعِيۡنَۙ‏
+    arabic: أَجۡمَعِينَ
     translation: all
     transliteration: ajmaʿīna
 ---

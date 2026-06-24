@@ -1,23 +1,22 @@
 ---
-arabic_ayat: "وَذَرۡنِىۡ وَالۡمُكَذِّبِيۡنَ اُولِى النَّعۡمَةِ وَمَهِّلۡهُمۡ قَلِيۡلًا‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: وَذَرۡنِي وَٱلۡمُكَذِّبِينَ أُوْلِي ٱلنَّعۡمَةِ وَمَهِّلۡهُمۡ قَلِيلًا
 sentence_translation: And leave to Me the deniers—the people of luxury—and bear with
   them for a little while.
 word_by_word:
   1:
-    arabic: وَذَرۡنِىۡ
+    arabic: وَذَرۡنِي
     translation: And leave Me
     transliteration: wadharnī
   2:
-    arabic: وَالۡمُكَذِّبِيۡنَ
+    arabic: وَٱلۡمُكَذِّبِينَ
     translation: and the deniers
     transliteration: wal-mukadhibīna
   3:
-    arabic: اُولِى
+    arabic: أُوْلِي
     translation: possessors
     transliteration: ulī
   4:
-    arabic: النَّعۡمَةِ
+    arabic: ٱلنَّعۡمَةِ
     translation: (of) the ease
     transliteration: l-naʿmati
   5:
@@ -25,7 +24,7 @@ word_by_word:
     translation: 'and allow them respite '
     transliteration: wamahhil'hum
   6:
-    arabic: "قَلِيۡلًا‏ \uFEFF\uFEFF"
+    arabic: قَلِيلًا
     translation: a little
     transliteration: qalīlan
 ---

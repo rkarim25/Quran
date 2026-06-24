@@ -1,19 +1,19 @@
 ---
-arabic_ayat: اَيَعِدُكُمۡ اَنَّكُمۡ اِذَا مِتُّمۡ وَكُنۡتُمۡ تُرَابًا وَّعِظَامًا
-  اَنَّكُمۡ مُّخۡرَجُوۡنَ ۙ‏
+arabic_ayat: أَيَعِدُكُمۡ أَنَّكُمۡ إِذَا مِتُّمۡ وَكُنتُمۡ تُرَابٗا وَعِظَٰمًا أَنَّكُم
+  مُّخۡرَجُونَ
 sentence_translation: Does he promise you that once you are dead and reduced to dust
   and bones, you will be brought forth ˹alive˺?
 word_by_word:
   1:
-    arabic: اَيَعِدُكُمۡ
+    arabic: أَيَعِدُكُمۡ
     translation: 'Does he promise you '
     transliteration: ayaʿidukum
   2:
-    arabic: اَنَّكُمۡ
+    arabic: أَنَّكُمۡ
     translation: that you
     transliteration: annakum
   3:
-    arabic: اِذَا
+    arabic: إِذَا
     translation: when
     transliteration: idhā
   4:
@@ -21,23 +21,23 @@ word_by_word:
     translation: you are dead
     transliteration: mittum
   5:
-    arabic: وَكُنۡتُمۡ
+    arabic: وَكُنتُمۡ
     translation: and you become
     transliteration: wakuntum
   6:
-    arabic: تُرَابًا
+    arabic: تُرَابٗا
     translation: dust
     transliteration: turāban
   7:
-    arabic: وَّعِظَامًا
+    arabic: وَعِظَٰمًا
     translation: and bones
     transliteration: waʿiẓāman
   8:
-    arabic: اَنَّكُمۡ
+    arabic: أَنَّكُم
     translation: that you
     transliteration: annakum
   9:
-    arabic: مُّخۡرَجُوۡنَ ۙ‏
+    arabic: مُّخۡرَجُونَ
     translation: (will be) brought forth
     transliteration: mukh'rajūna
 ---

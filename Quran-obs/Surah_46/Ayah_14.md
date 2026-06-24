@@ -1,31 +1,31 @@
 ---
-arabic_ayat: اُولٰٓٮِٕكَ اَصۡحٰبُ الۡجَنَّةِ خٰلِدِيۡنَ فِيۡهَا​ ۚ جَزَآءًۢ بِمَا
-  كَانُوۡا يَعۡمَلُوۡنَ‏
+arabic_ayat: أُوْلَٰٓئِكَ أَصۡحَٰبُ ٱلۡجَنَّةِ خَٰلِدِينَ فِيهَا جَزَآءَۢ بِمَا كَانُواْ
+  يَعۡمَلُونَ
 sentence_translation: It is they who will be the residents of Paradise, staying there
   forever, as a reward for what they used to do.
 word_by_word:
   1:
-    arabic: اُولٰٓٮِٕكَ
+    arabic: أُوْلَٰٓئِكَ
     translation: Those
     transliteration: ulāika
   2:
-    arabic: اَصۡحٰبُ
+    arabic: أَصۡحَٰبُ
     translation: (are the) companions
     transliteration: aṣḥābu
   3:
-    arabic: الۡجَنَّةِ
+    arabic: ٱلۡجَنَّةِ
     translation: (of) Paradise
     transliteration: l-janati
   4:
-    arabic: خٰلِدِيۡنَ
+    arabic: خَٰلِدِينَ
     translation: abiding forever
     transliteration: khālidīna
   5:
-    arabic: فِيۡهَا​ ۚ
+    arabic: فِيهَا
     translation: therein
     transliteration: fīhā
   6:
-    arabic: جَزَآءًۢ
+    arabic: جَزَآءَۢ
     translation: a reward
     transliteration: jazāan
   7:
@@ -33,11 +33,11 @@ word_by_word:
     translation: for what
     transliteration: bimā
   8:
-    arabic: كَانُوۡا
+    arabic: كَانُواْ
     translation: they used to
     transliteration: kānū
   9:
-    arabic: يَعۡمَلُوۡنَ‏
+    arabic: يَعۡمَلُونَ
     translation: do
     transliteration: yaʿmalūna
 ---

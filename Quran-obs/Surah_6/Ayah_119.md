@@ -1,8 +1,8 @@
 ---
-arabic_ayat: وَمَا لَـكُمۡ اَلَّا تَاۡكُلُوۡا مِمَّا ذُكِرَ اسۡمُ اللّٰهِ عَلَيۡهِ
-  وَقَدۡ فَصَّلَ لَـكُمۡ مَّا حَرَّمَ عَلَيۡكُمۡ اِلَّا مَا اضۡطُرِرۡتُمۡ اِلَيۡهِؕ
-  وَاِنَّ كَثِيۡرًا لَّيُضِلُّوۡنَ بِاَهۡوَآٮِٕهِمۡ بِغَيۡرِ عِلۡمٍ​ؕ اِنَّ رَبَّكَ
-  هُوَ اَعۡلَمُ بِالۡمُعۡتَدِيۡنَ‏
+arabic_ayat: وَمَا لَكُمۡ أَلَّا تَأۡكُلُواْ مِمَّا ذُكِرَ ٱسۡمُ ٱللَّهِ عَلَيۡهِ
+  وَقَدۡ فَصَّلَ لَكُم مَّا حَرَّمَ عَلَيۡكُمۡ إِلَّا مَا ٱضۡطُرِرۡتُمۡ إِلَيۡهِۗ
+  وَإِنَّ كَثِيرٗا لَّيُضِلُّونَ بِأَهۡوَآئِهِم بِغَيۡرِ عِلۡمٍۚ إِنَّ رَبَّكَ هُوَ
+  أَعۡلَمُ بِٱلۡمُعۡتَدِينَ
 sentence_translation: Why should you not eat of what is slaughtered in Allah’s Name
   when He has already explained to you what He has forbidden to you—except when compelled
   by necessity? Many ˹deviants˺ certainly mislead others by their whims out of ignorance.
@@ -13,15 +13,15 @@ word_by_word:
     translation: And what
     transliteration: wamā
   2:
-    arabic: لَـكُمۡ
+    arabic: لَكُمۡ
     translation: for you
     transliteration: lakum
   3:
-    arabic: اَلَّا
+    arabic: أَلَّا
     translation: that not
     transliteration: allā
   4:
-    arabic: تَاۡكُلُوۡا
+    arabic: تَأۡكُلُواْ
     translation: you eat
     transliteration: takulū
   5:
@@ -33,11 +33,11 @@ word_by_word:
     translation: has been mentioned
     transliteration: dhukira
   7:
-    arabic: اسۡمُ
+    arabic: ٱسۡمُ
     translation: (the) name
     transliteration: us'mu
   8:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (of) Allah
     transliteration: l-lahi
   9:
@@ -53,7 +53,7 @@ word_by_word:
     translation: He (has) explained in detail
     transliteration: faṣṣala
   12:
-    arabic: لَـكُمۡ
+    arabic: لَكُم
     translation: to you
     transliteration: lakum
   13:
@@ -69,7 +69,7 @@ word_by_word:
     translation: to you
     transliteration: ʿalaykum
   16:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   17:
@@ -77,27 +77,27 @@ word_by_word:
     translation: what
     transliteration: mā
   18:
-    arabic: اضۡطُرِرۡتُمۡ
+    arabic: ٱضۡطُرِرۡتُمۡ
     translation: you are compelled
     transliteration: uḍ'ṭurir'tum
   19:
-    arabic: اِلَيۡهِؕ
+    arabic: إِلَيۡهِۗ
     translation: to it
     transliteration: ilayhi
   20:
-    arabic: وَاِنَّ
+    arabic: وَإِنَّ
     translation: And indeed
     transliteration: wa-inna
   21:
-    arabic: كَثِيۡرًا
+    arabic: كَثِيرٗا
     translation: many
     transliteration: kathīran
   22:
-    arabic: لَّيُضِلُّوۡنَ
+    arabic: لَّيُضِلُّونَ
     translation: surely lead astray
     transliteration: layuḍillūna
   23:
-    arabic: بِاَهۡوَآٮِٕهِمۡ
+    arabic: بِأَهۡوَآئِهِم
     translation: by their (vain) desires
     transliteration: bi-ahwāihim
   24:
@@ -105,11 +105,11 @@ word_by_word:
     translation: without
     transliteration: bighayri
   25:
-    arabic: عِلۡمٍ​ؕ
+    arabic: عِلۡمٍۚ
     translation: knowledge
     transliteration: ʿil'min
   26:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   27:
@@ -121,11 +121,11 @@ word_by_word:
     translation: He
     transliteration: huwa
   29:
-    arabic: اَعۡلَمُ
+    arabic: أَعۡلَمُ
     translation: (is) most knowing
     transliteration: aʿlamu
   30:
-    arabic: بِالۡمُعۡتَدِيۡنَ‏
+    arabic: بِٱلۡمُعۡتَدِينَ
     translation: of the transgressors
     transliteration: bil-muʿ'tadīna
 ---

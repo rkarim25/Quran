@@ -1,10 +1,10 @@
 ---
-arabic_ayat: اَفَلَا يَعۡلَمُ اِذَا بُعۡثِرَ مَا فِى الۡقُبُوۡرِۙ‏
+arabic_ayat: ۞ أَفَلَا يَعۡلَمُ إِذَا بُعۡثِرَ مَا فِي ٱلۡقُبُورِ
 sentence_translation: Do they not know that when the contents of the graves will be
   spilled out,
 word_by_word:
   1:
-    arabic: ۞ اَفَلَا
+    arabic: ۞ أَفَلَا
     translation: But does not
     transliteration: afalā
   2:
@@ -12,7 +12,7 @@ word_by_word:
     translation: he know
     transliteration: yaʿlamu
   3:
-    arabic: اِذَا
+    arabic: إِذَا
     translation: when
     transliteration: idhā
   4:
@@ -24,11 +24,11 @@ word_by_word:
     translation: what
     transliteration: mā
   6:
-    arabic: فِى
+    arabic: فِي
     translation: (is) in
     transliteration: fī
   7:
-    arabic: الۡقُبُوۡرِۙ‏
+    arabic: ٱلۡقُبُورِ
     translation: the graves
     transliteration: l-qubūri
 ---

@@ -1,6 +1,6 @@
 ---
-arabic_ayat: مِنَ الَّذِيۡنَ فَرَّقُوۡا دِيۡنَهُمۡ وَكَانُوۡا شِيَعًا ​ؕ كُلُّ حِزۡبٍۢ
-  بِمَا لَدَيۡهِمۡ فَرِحُوۡنَ‏
+arabic_ayat: مِنَ ٱلَّذِينَ فَرَّقُواْ دِينَهُمۡ وَكَانُواْ شِيَعٗاۖ كُلُّ حِزۡبِۭ
+  بِمَا لَدَيۡهِمۡ فَرِحُونَ
 sentence_translation: ˹like˺ those who have divided their faith and split into sects,
   each rejoicing in what they have.
 word_by_word:
@@ -9,23 +9,23 @@ word_by_word:
     translation: Of
     transliteration: mina
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   3:
-    arabic: فَرَّقُوۡا
+    arabic: فَرَّقُواْ
     translation: divide
     transliteration: farraqū
   4:
-    arabic: دِيۡنَهُمۡ
+    arabic: دِينَهُمۡ
     translation: their religion
     transliteration: dīnahum
   5:
-    arabic: وَكَانُوۡا
+    arabic: وَكَانُواْ
     translation: and become
     transliteration: wakānū
   6:
-    arabic: شِيَعًا ​ؕ
+    arabic: شِيَعٗاۖ
     translation: sects
     transliteration: shiyaʿan
   7:
@@ -33,7 +33,7 @@ word_by_word:
     translation: each
     transliteration: kullu
   8:
-    arabic: حِزۡبٍۢ
+    arabic: حِزۡبِۭ
     translation: party
     transliteration: ḥiz'bin
   9:
@@ -45,7 +45,7 @@ word_by_word:
     translation: they have
     transliteration: ladayhim
   11:
-    arabic: فَرِحُوۡنَ‏
+    arabic: فَرِحُونَ
     translation: rejoicing
     transliteration: fariḥūna
 ---

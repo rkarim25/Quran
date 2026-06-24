@@ -1,5 +1,5 @@
 ---
-arabic_ayat: وَمِنَ الَّيۡلِ فَسَبِّحۡهُ وَاِدۡبَارَ النُّجُوۡمِ‏
+arabic_ayat: وَمِنَ ٱلَّيۡلِ فَسَبِّحۡهُ وَإِدۡبَٰرَ ٱلنُّجُومِ
 sentence_translation: And glorify Him during part of the night and at the fading of
   the stars.
 word_by_word:
@@ -8,7 +8,7 @@ word_by_word:
     translation: And of
     transliteration: wamina
   2:
-    arabic: الَّيۡلِ
+    arabic: ٱلَّيۡلِ
     translation: the night
     transliteration: al-layli
   3:
@@ -16,11 +16,11 @@ word_by_word:
     translation: glorify Him
     transliteration: fasabbiḥ'hu
   4:
-    arabic: وَاِدۡبَارَ
+    arabic: وَإِدۡبَٰرَ
     translation: and after
     transliteration: wa-id'bāra
   5:
-    arabic: النُّجُوۡمِ‏
+    arabic: ٱلنُّجُومِ
     translation: the stars
     transliteration: l-nujūmi
 ---

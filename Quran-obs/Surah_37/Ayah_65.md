@@ -1,5 +1,5 @@
 ---
-arabic_ayat: طَلۡعُهَا كَاَنَّهٗ رُءُوۡسُ الشَّيٰطِيۡنِ‏
+arabic_ayat: طَلۡعُهَا كَأَنَّهُۥ رُءُوسُ ٱلشَّيَٰطِينِ
 sentence_translation: bearing fruit like devils’ heads.
 word_by_word:
   1:
@@ -7,15 +7,15 @@ word_by_word:
     translation: Its emerging fruit
     transliteration: ṭalʿuhā
   2:
-    arabic: كَاَنَّهٗ
+    arabic: كَأَنَّهُۥ
     translation: (is) as if it
     transliteration: ka-annahu
   3:
-    arabic: رُءُوۡسُ
+    arabic: رُءُوسُ
     translation: (was) heads
     transliteration: ruūsu
   4:
-    arabic: الشَّيٰطِيۡنِ‏
+    arabic: ٱلشَّيَٰطِينِ
     translation: (of) the devils
     transliteration: l-shayāṭīni
 ---

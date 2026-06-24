@@ -1,6 +1,6 @@
 ---
-arabic_ayat: لَوۡ كَانَ فِيۡهِمَاۤ اٰلِهَةٌ اِلَّا اللّٰهُ لَـفَسَدَتَا​ۚ فَسُبۡحٰنَ
-  اللّٰهِ رَبِّ الۡعَرۡشِ عَمَّا يَصِفُوۡنَ‏
+arabic_ayat: لَوۡ كَانَ فِيهِمَآ ءَالِهَةٌ إِلَّا ٱللَّهُ لَفَسَدَتَاۚ فَسُبۡحَٰنَ
+  ٱللَّهِ رَبِّ ٱلۡعَرۡشِ عَمَّا يَصِفُونَ
 sentence_translation: Had there been other gods besides Allah in the heavens or the
   earth, both ˹realms˺ would have surely been corrupted. So Glorified is Allah, Lord
   of the Throne, far above what they claim.
@@ -14,31 +14,31 @@ word_by_word:
     translation: (there) were
     transliteration: kāna
   3:
-    arabic: فِيۡهِمَاۤ
+    arabic: فِيهِمَآ ءَ
     translation: in both of them
     transliteration: fīhimā
   4:
-    arabic: اٰلِهَةٌ
+    arabic: الِهَةٌ
     translation: gods
     transliteration: ālihatun
   5:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: besides
     transliteration: illā
   6:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   7:
-    arabic: لَـفَسَدَتَا​ۚ
+    arabic: لَفَسَدَتَاۚ
     translation: surely they (would) have been ruined
     transliteration: lafasadatā
   8:
-    arabic: فَسُبۡحٰنَ
+    arabic: فَسُبۡحَٰنَ
     translation: So glorified
     transliteration: fasub'ḥāna
   9:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (is) Allah
     transliteration: l-lahi
   10:
@@ -46,7 +46,7 @@ word_by_word:
     translation: Lord
     transliteration: rabbi
   11:
-    arabic: الۡعَرۡشِ
+    arabic: ٱلۡعَرۡشِ
     translation: (of) the Throne
     transliteration: l-ʿarshi
   12:
@@ -54,7 +54,7 @@ word_by_word:
     translation: (above) what
     transliteration: ʿammā
   13:
-    arabic: يَصِفُوۡنَ‏
+    arabic: يَصِفُونَ
     translation: they attribute
     transliteration: yaṣifūna
 ---

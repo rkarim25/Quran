@@ -1,7 +1,7 @@
 ---
-arabic_ayat: قُلۡ هَلۡ تَرَبَّصُوۡنَ بِنَاۤ اِلَّاۤ اِحۡدَى الۡحُسۡنَيَيۡنِ​ؕ وَنَحۡنُ
-  نَتَرَبَّصُ بِكُمۡ اَنۡ يُّصِيۡبَكُمُ اللّٰهُ بِعَذَابٍ مِّنۡ عِنۡدِهٖۤ اَوۡ بِاَيۡدِيۡنَا 
-  ​ۖ  فَتَرَبَّصُوۡۤا اِنَّا مَعَكُمۡ مُّتَرَبِّصُوۡنَ‏
+arabic_ayat: قُلۡ هَلۡ تَرَبَّصُونَ بِنَآ إِلَّآ إِحۡدَى ٱلۡحُسۡنَيَيۡنِۖ وَنَحۡنُ
+  نَتَرَبَّصُ بِكُمۡ أَن يُصِيبَكُمُ ٱللَّهُ بِعَذَابٖ مِّنۡ عِندِهِۦٓ أَوۡ بِأَيۡدِينَاۖ
+  فَتَرَبَّصُوٓاْ إِنَّا مَعَكُم مُّتَرَبِّصُونَ
 sentence_translation: 'Say, “Are you awaiting anything to befall us except one of
   the two best things: ˹victory or martyrdom˺? But We are awaiting Allah to afflict
   you with torment either from Him or at our hands. So keep waiting! We too are waiting
@@ -16,23 +16,23 @@ word_by_word:
     translation: Do
     transliteration: hal
   3:
-    arabic: تَرَبَّصُوۡنَ
+    arabic: تَرَبَّصُونَ
     translation: you await
     transliteration: tarabbaṣūna
   4:
-    arabic: بِنَاۤ
+    arabic: بِنَآ
     translation: for us
     transliteration: binā
   5:
-    arabic: اِلَّاۤ
+    arabic: إِلَّآ
     translation: except
     transliteration: illā
   6:
-    arabic: اِحۡدَى
+    arabic: إِحۡدَى
     translation: one
     transliteration: iḥ'dā
   7:
-    arabic: الۡحُسۡنَيَيۡنِ​ؕ
+    arabic: ٱلۡحُسۡنَيَيۡنِۖ
     translation: (of) the two best (things)
     transliteration: l-ḥus'nayayni
   8:
@@ -48,19 +48,19 @@ word_by_word:
     translation: for you
     transliteration: bikum
   11:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that
     transliteration: an
   12:
-    arabic: يُّصِيۡبَكُمُ
+    arabic: يُصِيبَكُمُ
     translation: Allah will afflict you
     transliteration: yuṣībakumu
   13:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah will afflict you
     transliteration: l-lahu
   14:
-    arabic: بِعَذَابٍ
+    arabic: بِعَذَابٖ
     translation: with a punishment
     transliteration: biʿadhābin
   15:
@@ -68,31 +68,31 @@ word_by_word:
     translation: from
     transliteration: min
   16:
-    arabic: عِنۡدِهٖۤ
+    arabic: عِندِهِۦٓ
     translation: '[near] Him'
     transliteration: ʿindihi
   17:
-    arabic: اَوۡ
+    arabic: أَوۡ
     translation: or
     transliteration: aw
   18:
-    arabic: بِاَيۡدِيۡنَا  ​ۖ 
+    arabic: بِأَيۡدِينَاۖ
     translation: by our hands
     transliteration: bi-aydīnā
   19:
-    arabic: فَتَرَبَّصُوۡۤا
+    arabic: فَتَرَبَّصُوٓاْ
     translation: So wait
     transliteration: fatarabbaṣū
   20:
-    arabic: اِنَّا
+    arabic: إِنَّا
     translation: indeed, we
     transliteration: innā
   21:
-    arabic: مَعَكُمۡ
+    arabic: مَعَكُم
     translation: with you
     transliteration: maʿakum
   22:
-    arabic: مُّتَرَبِّصُوۡنَ‏
+    arabic: مُّتَرَبِّصُونَ
     translation: (are) waiting
     transliteration: mutarabbiṣūna
 ---

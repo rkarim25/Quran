@@ -1,6 +1,6 @@
 ---
-arabic_ayat: "وَتِلۡكَ الۡاَمۡثَالُ نَضۡرِبُهَا لِلنَّاسِ​ۚ وَمَا يَعۡقِلُهَاۤ اِلَّا\
-  \ الۡعٰلِمُوۡنَ‏ \uFEFF\uFEFF"
+arabic_ayat: وَتِلۡكَ ٱلۡأَمۡثَٰلُ نَضۡرِبُهَا لِلنَّاسِۖ وَمَا يَعۡقِلُهَآ إِلَّا
+  ٱلۡعَٰلِمُونَ
 sentence_translation: These are the parables We set forth for humanity, but none will
   understand them except the people of knowledge.
 word_by_word:
@@ -9,7 +9,7 @@ word_by_word:
     translation: And these
     transliteration: watil'ka
   2:
-    arabic: الۡاَمۡثَالُ
+    arabic: ٱلۡأَمۡثَٰلُ
     translation: examples
     transliteration: l-amthālu
   3:
@@ -17,7 +17,7 @@ word_by_word:
     translation: We set forth
     transliteration: naḍribuhā
   4:
-    arabic: لِلنَّاسِ​ۚ
+    arabic: لِلنَّاسِۖ
     translation: to mankind
     transliteration: lilnnāsi
   5:
@@ -25,15 +25,15 @@ word_by_word:
     translation: but not
     transliteration: wamā
   6:
-    arabic: يَعۡقِلُهَاۤ
+    arabic: يَعۡقِلُهَآ
     translation: will understand them
     transliteration: yaʿqiluhā
   7:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: except
     transliteration: illā
   8:
-    arabic: "الۡعٰلِمُوۡنَ‏ \uFEFF\uFEFF"
+    arabic: ٱلۡعَٰلِمُونَ
     translation: those of knowledge
     transliteration: l-ʿālimūna
 ---

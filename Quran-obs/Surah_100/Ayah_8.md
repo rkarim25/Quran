@@ -1,9 +1,9 @@
 ---
-arabic_ayat: وَاِنَّهٗ لِحُبِّ الۡخَيۡرِ لَشَدِيۡدٌ ؕ‏
+arabic_ayat: وَإِنَّهُۥ لِحُبِّ ٱلۡخَيۡرِ لَشَدِيدٌ
 sentence_translation: and they are truly extreme in their love of ˹worldly˺ gains.
 word_by_word:
   1:
-    arabic: وَاِنَّهٗ
+    arabic: وَإِنَّهُۥ
     translation: And indeed he
     transliteration: wa-innahu
   2:
@@ -11,11 +11,11 @@ word_by_word:
     translation: in (the) love
     transliteration: liḥubbi
   3:
-    arabic: الۡخَيۡرِ
+    arabic: ٱلۡخَيۡرِ
     translation: (of) wealth
     transliteration: l-khayri
   4:
-    arabic: لَشَدِيۡدٌ ؕ‏
+    arabic: لَشَدِيدٌ
     translation: (is) surely intense
     transliteration: lashadīdun
 ---

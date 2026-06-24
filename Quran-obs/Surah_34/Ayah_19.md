@@ -1,13 +1,13 @@
 ---
-arabic_ayat: فَقَالُوۡا رَبَّنَا بٰعِدۡ بَيۡنَ اَسۡفَارِنَا وَظَلَمُوۡۤا اَنۡفُسَهُمۡ
-  فَجَعَلۡنٰهُمۡ اَحَادِيۡثَ وَمَزَّقۡنٰهُمۡ كُلَّ مُمَزَّقٍ ؕ اِنَّ فِىۡ ذٰ لِكَ
-  لَاٰيٰتٍ لّـِكُلِّ صَبَّارٍ شَكُوۡرٍ‏
+arabic_ayat: فَقَالُواْ رَبَّنَا بَٰعِدۡ بَيۡنَ أَسۡفَارِنَا وَظَلَمُوٓاْ أَنفُسَهُمۡ
+  فَجَعَلۡنَٰهُمۡ أَحَادِيثَ وَمَزَّقۡنَٰهُمۡ كُلَّ مُمَزَّقٍۚ إِنَّ فِي ذَٰلِكَ لَأٓيَٰتٖ
+  لِّكُلِّ صَبَّارٖ شَكُورٖ
 sentence_translation: But they said, “Our Lord! Make ˹the distances of˺ our journeys
   longer,” wronging themselves. So We reduced them to ˹cautionary˺ tales, and scattered
   them utterly. Surely in this are lessons for whoever is steadfast, grateful.
 word_by_word:
   1:
-    arabic: فَقَالُوۡا
+    arabic: فَقَالُواْ
     translation: But they said
     transliteration: faqālū
   2:
@@ -15,7 +15,7 @@ word_by_word:
     translation: Our Lord
     transliteration: rabbanā
   3:
-    arabic: بٰعِدۡ
+    arabic: بَٰعِدۡ
     translation: lengthen (the distance)
     transliteration: bāʿid
   4:
@@ -23,27 +23,27 @@ word_by_word:
     translation: between
     transliteration: bayna
   5:
-    arabic: اَسۡفَارِنَا
+    arabic: أَسۡفَارِنَا
     translation: our journeys
     transliteration: asfārinā
   6:
-    arabic: وَظَلَمُوۡۤا
+    arabic: وَظَلَمُوٓاْ
     translation: And they wronged
     transliteration: waẓalamū
   7:
-    arabic: اَنۡفُسَهُمۡ
+    arabic: أَنفُسَهُمۡ
     translation: themselves
     transliteration: anfusahum
   8:
-    arabic: فَجَعَلۡنٰهُمۡ
+    arabic: فَجَعَلۡنَٰهُمۡ
     translation: so We made them
     transliteration: fajaʿalnāhum
   9:
-    arabic: اَحَادِيۡثَ
+    arabic: أَحَادِيثَ
     translation: narrations
     transliteration: aḥādītha
   10:
-    arabic: وَمَزَّقۡنٰهُمۡ
+    arabic: وَمَزَّقۡنَٰهُمۡ
     translation: and We dispersed them
     transliteration: wamazzaqnāhum
   11:
@@ -51,35 +51,35 @@ word_by_word:
     translation: (in) a total
     transliteration: kulla
   12:
-    arabic: مُمَزَّقٍ ؕ
+    arabic: مُمَزَّقٍۚ
     translation: dispersion
     transliteration: mumazzaqin
   13:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   14:
-    arabic: فِىۡ
+    arabic: فِي
     translation: in
     transliteration: fī
   15:
-    arabic: ذٰ لِكَ
+    arabic: ذَٰلِكَ
     translation: that
     transliteration: dhālika
   16:
-    arabic: لَاٰيٰتٍ
+    arabic: لَأٓيَٰتٖ
     translation: surely (are) Signs
     transliteration: laāyātin
   17:
-    arabic: لّـِكُلِّ
+    arabic: لِّكُلِّ
     translation: for everyone
     transliteration: likulli
   18:
-    arabic: صَبَّارٍ
+    arabic: صَبَّارٖ
     translation: patient
     transliteration: ṣabbārin
   19:
-    arabic: شَكُوۡرٍ‏
+    arabic: شَكُورٖ
     translation: (and) grateful
     transliteration: shakūrin
 ---

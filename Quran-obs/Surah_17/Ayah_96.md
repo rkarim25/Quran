@@ -1,6 +1,6 @@
 ---
-arabic_ayat: قُلۡ كَفٰى بِاللّٰهِ شَهِيۡدًۢا بَيۡنِىۡ وَبَيۡنَكُمۡ​ؕ اِنَّهٗ كَانَ
-  بِعِبَادِهٖ خَبِيۡرًۢا بَصِيۡرًا‏
+arabic_ayat: قُلۡ كَفَىٰ بِٱللَّهِ شَهِيدَۢا بَيۡنِي وَبَيۡنَكُمۡۚ إِنَّهُۥ كَانَ
+  بِعِبَادِهِۦ خَبِيرَۢا بَصِيرٗا
 sentence_translation: Say, “Sufficient is Allah as a Witness between me and you. He
   is certainly All-Knowing, All-Seeing of His servants.”
 word_by_word:
@@ -9,27 +9,27 @@ word_by_word:
     translation: Say
     transliteration: qul
   2:
-    arabic: كَفٰى
+    arabic: كَفَىٰ
     translation: Sufficient is
     transliteration: kafā
   3:
-    arabic: بِاللّٰهِ
+    arabic: بِٱللَّهِ
     translation: Allah
     transliteration: bil-lahi
   4:
-    arabic: شَهِيۡدًۢا
+    arabic: شَهِيدَۢا
     translation: (as) a witness
     transliteration: shahīdan
   5:
-    arabic: بَيۡنِىۡ
+    arabic: بَيۡنِي
     translation: between me
     transliteration: baynī
   6:
-    arabic: وَبَيۡنَكُمۡ​ؕ
+    arabic: وَبَيۡنَكُمۡۚ
     translation: and between you
     transliteration: wabaynakum
   7:
-    arabic: اِنَّهٗ
+    arabic: إِنَّهُۥ
     translation: Indeed, He
     transliteration: innahu
   8:
@@ -37,15 +37,15 @@ word_by_word:
     translation: is
     transliteration: kāna
   9:
-    arabic: بِعِبَادِهٖ
+    arabic: بِعِبَادِهِۦ
     translation: of His slaves
     transliteration: biʿibādihi
   10:
-    arabic: خَبِيۡرًۢا
+    arabic: خَبِيرَۢا
     translation: All-Aware
     transliteration: khabīran
   11:
-    arabic: بَصِيۡرًا‏
+    arabic: بَصِيرٗا
     translation: All-Seer
     transliteration: baṣīran
 ---

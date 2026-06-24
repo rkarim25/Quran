@@ -1,15 +1,14 @@
 ---
-arabic_ayat: "وَالۡقَمَرَ قَدَّرۡنٰهُ مَنَازِلَ حَتّٰى عَادَ كَالۡعُرۡجُوۡنِ الۡقَدِيۡمِ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: وَٱلۡقَمَرَ قَدَّرۡنَٰهُ مَنَازِلَ حَتَّىٰ عَادَ كَٱلۡعُرۡجُونِ ٱلۡقَدِيمِ
 sentence_translation: As for the moon, We have ordained ˹precise˺ phases for it, until
   it ends up like an old, curved palm stalk.
 word_by_word:
   1:
-    arabic: وَالۡقَمَرَ
+    arabic: وَٱلۡقَمَرَ
     translation: 'And the moon '
     transliteration: wal-qamara
   2:
-    arabic: قَدَّرۡنٰهُ
+    arabic: قَدَّرۡنَٰهُ
     translation: We have ordained for it
     transliteration: qaddarnāhu
   3:
@@ -17,7 +16,7 @@ word_by_word:
     translation: phases
     transliteration: manāzila
   4:
-    arabic: حَتّٰى
+    arabic: حَتَّىٰ
     translation: until
     transliteration: ḥattā
   5:
@@ -25,11 +24,11 @@ word_by_word:
     translation: it returns
     transliteration: ʿāda
   6:
-    arabic: كَالۡعُرۡجُوۡنِ
+    arabic: كَٱلۡعُرۡجُونِ
     translation: like the date stalk
     transliteration: kal-ʿur'jūni
   7:
-    arabic: "الۡقَدِيۡمِ‏ \uFEFF\uFEFF"
+    arabic: ٱلۡقَدِيمِ
     translation: the old
     transliteration: l-qadīmi
 ---

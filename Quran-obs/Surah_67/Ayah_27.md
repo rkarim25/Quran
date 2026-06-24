@@ -1,6 +1,6 @@
 ---
-arabic_ayat: فَلَمَّا رَاَوۡهُ زُلۡفَةً سِیْٓــَٔتۡ وُجُوۡهُ الَّذِيۡنَ كَفَرُوۡا
-  وَقِيۡلَ هٰذَا الَّذِىۡ كُنۡتُمۡ بِهٖ تَدَّعُوۡنَ‏
+arabic_ayat: فَلَمَّا رَأَوۡهُ زُلۡفَةٗ سِيٓـَٔتۡ وُجُوهُ ٱلَّذِينَ كَفَرُواْ وَقِيلَ
+  هَٰذَا ٱلَّذِي كُنتُم بِهِۦ تَدَّعُونَ
 sentence_translation: Then when they see the torment drawing near, the faces of the
   disbelievers will become gloomy, and it will be said ˹to them˺, “This is what you
   claimed would never come.” 
@@ -10,51 +10,51 @@ word_by_word:
     translation: But when
     transliteration: falammā
   2:
-    arabic: رَاَوۡهُ
+    arabic: رَأَوۡهُ
     translation: they (will) see it
     transliteration: ra-awhu
   3:
-    arabic: زُلۡفَةً
+    arabic: زُلۡفَةٗ
     translation: approaching
     transliteration: zul'fatan
   4:
-    arabic: سِیْٓــَٔتۡ
+    arabic: سِيٓـَٔتۡ
     translation: (will be) distressed
     transliteration: sīat
   5:
-    arabic: وُجُوۡهُ
+    arabic: وُجُوهُ
     translation: (the) faces
     transliteration: wujūhu
   6:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: (of) those who
     transliteration: alladhīna
   7:
-    arabic: كَفَرُوۡا
+    arabic: كَفَرُواْ
     translation: disbelieved
     transliteration: kafarū
   8:
-    arabic: وَقِيۡلَ
+    arabic: وَقِيلَ
     translation: and it will be said
     transliteration: waqīla
   9:
-    arabic: هٰذَا
+    arabic: هَٰذَا
     translation: This
     transliteration: hādhā
   10:
-    arabic: الَّذِىۡ
+    arabic: ٱلَّذِي
     translation: (is) that which
     transliteration: alladhī
   11:
-    arabic: كُنۡتُمۡ
+    arabic: كُنتُم
     translation: you used to
     transliteration: kuntum
   12:
-    arabic: بِهٖ
+    arabic: بِهِۦ
     translation: for it
     transliteration: bihi
   13:
-    arabic: تَدَّعُوۡنَ‏
+    arabic: تَدَّعُونَ
     translation: call
     transliteration: taddaʿūna
 ---

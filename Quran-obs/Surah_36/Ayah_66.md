@@ -1,6 +1,6 @@
 ---
-arabic_ayat: وَلَوۡ نَشَآءُ لَـطَمَسۡنَا عَلٰٓى اَعۡيُنِهِمۡ فَاسۡتَبَقُوا الصِّرَاطَ
-  فَاَنّٰى يُبۡصِرُوۡنَ‏
+arabic_ayat: وَلَوۡ نَشَآءُ لَطَمَسۡنَا عَلَىٰٓ أَعۡيُنِهِمۡ فَٱسۡتَبَقُواْ ٱلصِّرَٰطَ
+  فَأَنَّىٰ يُبۡصِرُونَ
 sentence_translation: Had We willed, We could have easily blinded their eyes, so they
   would struggle to find their way. How then could they see?
 word_by_word:
@@ -13,31 +13,31 @@ word_by_word:
     translation: We willed
     transliteration: nashāu
   3:
-    arabic: لَـطَمَسۡنَا
+    arabic: لَطَمَسۡنَا
     translation: We (would have) surely obliterated
     transliteration: laṭamasnā
   4:
-    arabic: عَلٰٓى
+    arabic: عَلَىٰٓ
     translation: '[over]'
     transliteration: ʿalā
   5:
-    arabic: اَعۡيُنِهِمۡ
+    arabic: أَعۡيُنِهِمۡ
     translation: their eyes
     transliteration: aʿyunihim
   6:
-    arabic: فَاسۡتَبَقُوا
+    arabic: فَٱسۡتَبَقُواْ
     translation: then they (would) race
     transliteration: fa-is'tabaqū
   7:
-    arabic: الصِّرَاطَ
+    arabic: ٱلصِّرَٰطَ
     translation: (to find) the path
     transliteration: l-ṣirāṭa
   8:
-    arabic: فَاَنّٰى
+    arabic: فَأَنَّىٰ
     translation: then how
     transliteration: fa-annā
   9:
-    arabic: يُبۡصِرُوۡنَ‏
+    arabic: يُبۡصِرُونَ
     translation: (could) they see
     transliteration: yub'ṣirūna
 ---

@@ -1,9 +1,9 @@
 ---
-arabic_ayat: اِلَّا تَـنۡصُرُوۡهُ فَقَدۡ نَصَرَهُ اللّٰهُ اِذۡ اَخۡرَجَهُ الَّذِيۡنَ
-  كَفَرُوۡا ثَانِىَ اثۡنَيۡنِ اِذۡ هُمَا فِى الۡغَارِ اِذۡ يَقُوۡلُ لِصَاحِبِهٖ لَا
-  تَحۡزَنۡ اِنَّ اللّٰهَ مَعَنَا​ ۚ فَاَنۡزَلَ اللّٰهُ سَكِيۡنَـتَهٗ عَلَيۡهِ وَاَ
-  يَّدَهٗ بِجُنُوۡدٍ لَّمۡ تَرَوۡهَا وَجَعَلَ كَلِمَةَ الَّذِيۡنَ كَفَرُوا السُّفۡلٰى​
-  ؕ وَكَلِمَةُ اللّٰهِ هِىَ الۡعُلۡيَا ؕ وَاللّٰهُ عَزِيۡزٌ حَكِيۡمٌ‏
+arabic_ayat: إِلَّا تَنصُرُوهُ فَقَدۡ نَصَرَهُ ٱللَّهُ إِذۡ أَخۡرَجَهُ ٱلَّذِينَ كَفَرُواْ
+  ثَانِيَ ٱثۡنَيۡنِ إِذۡ هُمَا فِي ٱلۡغَارِ إِذۡ يَقُولُ لِصَٰحِبِهِۦ لَا تَحۡزَنۡ
+  إِنَّ ٱللَّهَ مَعَنَاۖ فَأَنزَلَ ٱللَّهُ سَكِينَتَهُۥ عَلَيۡهِ وَأَيَّدَهُۥ بِجُنُودٖ
+  لَّمۡ تَرَوۡهَا وَجَعَلَ كَلِمَةَ ٱلَّذِينَ كَفَرُواْ ٱلسُّفۡلَىٰۗ وَكَلِمَةُ ٱللَّهِ
+  هِيَ ٱلۡعُلۡيَاۗ وَٱللَّهُ عَزِيزٌ حَكِيمٌ
 sentence_translation: ˹It does not matter˺ if you ˹believers˺ do not support him,
   for Allah did in fact support him when the disbelievers drove him out ˹of Mecca˺
   and he was only one of two. While they both were in the cave, he reassured his companion, “Do
@@ -13,11 +13,11 @@ sentence_translation: ˹It does not matter˺ if you ˹believers˺ do not support
   All-Wise.
 word_by_word:
   1:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: If not
     transliteration: illā
   2:
-    arabic: تَـنۡصُرُوۡهُ
+    arabic: تَنصُرُوهُ
     translation: you help him
     transliteration: tanṣurūhu
   3:
@@ -29,35 +29,35 @@ word_by_word:
     translation: Allah helped him
     transliteration: naṣarahu
   5:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah helped him
     transliteration: l-lahu
   6:
-    arabic: اِذۡ
+    arabic: إِذۡ
     translation: when
     transliteration: idh
   7:
-    arabic: اَخۡرَجَهُ
+    arabic: أَخۡرَجَهُ
     translation: drove him out
     transliteration: akhrajahu
   8:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   9:
-    arabic: كَفَرُوۡا
+    arabic: كَفَرُواْ
     translation: disbelieved
     transliteration: kafarū
   10:
-    arabic: ثَانِىَ
+    arabic: ثَانِيَ
     translation: the second
     transliteration: thāniya
   11:
-    arabic: اثۡنَيۡنِ
+    arabic: ٱثۡنَيۡنِ
     translation: (of) the two
     transliteration: ith'nayni
   12:
-    arabic: اِذۡ
+    arabic: إِذۡ
     translation: when
     transliteration: idh
   13:
@@ -65,23 +65,23 @@ word_by_word:
     translation: they both
     transliteration: humā
   14:
-    arabic: فِى
+    arabic: فِي
     translation: (were) in
     transliteration: fī
   15:
-    arabic: الۡغَارِ
+    arabic: ٱلۡغَارِ
     translation: the cave
     transliteration: l-ghāri
   16:
-    arabic: اِذۡ
+    arabic: إِذۡ
     translation: when
     transliteration: idh
   17:
-    arabic: يَقُوۡلُ
+    arabic: يَقُولُ
     translation: he said
     transliteration: yaqūlu
   18:
-    arabic: لِصَاحِبِهٖ
+    arabic: لِصَٰحِبِهِۦ
     translation: to his companion
     transliteration: liṣāḥibihi
   19:
@@ -93,27 +93,27 @@ word_by_word:
     translation: grieve
     transliteration: taḥzan
   21:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: indeed
     transliteration: inna
   22:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   23:
-    arabic: مَعَنَا​ ۚ
+    arabic: مَعَنَاۖ
     translation: (is) with us
     transliteration: maʿanā
   24:
-    arabic: فَاَنۡزَلَ
+    arabic: فَأَنزَلَ
     translation: Then Allah sent down
     transliteration: fa-anzala
   25:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Then Allah sent down
     transliteration: l-lahu
   26:
-    arabic: سَكِيۡنَـتَهٗ
+    arabic: سَكِينَتَهُۥ
     translation: His tranquility
     transliteration: sakīnatahu
   27:
@@ -121,11 +121,11 @@ word_by_word:
     translation: upon him
     transliteration: ʿalayhi
   28:
-    arabic: وَاَ يَّدَهٗ
+    arabic: وَأَيَّدَهُۥ
     translation: and supported him
     transliteration: wa-ayyadahu
   29:
-    arabic: بِجُنُوۡدٍ
+    arabic: بِجُنُودٖ
     translation: with forces
     transliteration: bijunūdin
   30:
@@ -145,15 +145,15 @@ word_by_word:
     translation: (the) word
     transliteration: kalimata
   34:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: (of) those who
     transliteration: alladhīna
   35:
-    arabic: كَفَرُوا
+    arabic: كَفَرُواْ
     translation: disbelieved
     transliteration: kafarū
   36:
-    arabic: السُّفۡلٰى​ ؕ
+    arabic: ٱلسُّفۡلَىٰۗ
     translation: the lowest
     transliteration: l-suf'lā
   37:
@@ -161,27 +161,27 @@ word_by_word:
     translation: while (the) Word
     transliteration: wakalimatu
   38:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (of) Allah
     transliteration: l-lahi
   39:
-    arabic: هِىَ
+    arabic: هِيَ
     translation: it (is)
     transliteration: hiya
   40:
-    arabic: الۡعُلۡيَا ؕ
+    arabic: ٱلۡعُلۡيَاۗ
     translation: the highest
     transliteration: l-ʿul'yā
   41:
-    arabic: وَاللّٰهُ
+    arabic: وَٱللَّهُ
     translation: And Allah
     transliteration: wal-lahu
   42:
-    arabic: عَزِيۡزٌ
+    arabic: عَزِيزٌ
     translation: (is) All-Mighty
     transliteration: ʿazīzun
   43:
-    arabic: حَكِيۡمٌ‏
+    arabic: حَكِيمٌ
     translation: All-Wise
     transliteration: ḥakīmun
 ---

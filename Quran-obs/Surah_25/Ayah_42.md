@@ -1,12 +1,12 @@
 ---
-arabic_ayat: اِنۡ كَادَ لَيُضِلُّنَا عَنۡ اٰلِهَـتِنَا لَوۡ لَاۤ اَنۡ صَبَـرۡنَا عَلَيۡهَا​
-  ؕ وَسَوۡفَ يَعۡلَمُوۡنَ حِيۡنَ يَرَوۡنَ الۡعَذَابَ مَنۡ اَضَلُّ سَبِيۡلًا‏
+arabic_ayat: إِن كَادَ لَيُضِلُّنَا عَنۡ ءَالِهَتِنَا لَوۡلَآ أَن صَبَرۡنَا عَلَيۡهَاۚ
+  وَسَوۡفَ يَعۡلَمُونَ حِينَ يَرَوۡنَ ٱلۡعَذَابَ مَنۡ أَضَلُّ سَبِيلًا
 sentence_translation: He would have almost tricked us away from our gods, had we not
   been so devoted to them.” ˹But˺ soon they will know, when they face the punishment,
   who is far astray from the ˹Right˺ Way.
 word_by_word:
   1:
-    arabic: اِنۡ
+    arabic: إِن
     translation: He would have almost
     transliteration: in
   2:
@@ -18,27 +18,27 @@ word_by_word:
     translation: '[surely] misled us'
     transliteration: layuḍillunā
   4:
-    arabic: عَنۡ
+    arabic: عَنۡ ءَ
     translation: from
     transliteration: ʿan
   5:
-    arabic: اٰلِهَـتِنَا
+    arabic: الِهَتِنَا
     translation: our gods
     transliteration: ālihatinā
   6:
-    arabic: لَوۡ لَاۤ
+    arabic: لَوۡلَآ
     translation: if not
     transliteration: lawlā
   7:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that
     transliteration: an
   8:
-    arabic: صَبَـرۡنَا
+    arabic: صَبَرۡنَا
     translation: we had been steadfast
     transliteration: ṣabarnā
   9:
-    arabic: عَلَيۡهَا​ ؕ
+    arabic: عَلَيۡهَاۚ
     translation: to them
     transliteration: ʿalayhā
   10:
@@ -46,11 +46,11 @@ word_by_word:
     translation: And soon
     transliteration: wasawfa
   11:
-    arabic: يَعۡلَمُوۡنَ
+    arabic: يَعۡلَمُونَ
     translation: will know
     transliteration: yaʿlamūna
   12:
-    arabic: حِيۡنَ
+    arabic: حِينَ
     translation: when
     transliteration: ḥīna
   13:
@@ -58,7 +58,7 @@ word_by_word:
     translation: they will see
     transliteration: yarawna
   14:
-    arabic: الۡعَذَابَ
+    arabic: ٱلۡعَذَابَ
     translation: the punishment
     transliteration: l-ʿadhāba
   15:
@@ -66,11 +66,11 @@ word_by_word:
     translation: who
     transliteration: man
   16:
-    arabic: اَضَلُّ
+    arabic: أَضَلُّ
     translation: (is) more astray
     transliteration: aḍallu
   17:
-    arabic: سَبِيۡلًا‏
+    arabic: سَبِيلًا
     translation: (from the) way
     transliteration: sabīlan
 ---

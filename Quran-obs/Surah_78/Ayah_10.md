@@ -1,17 +1,17 @@
 ---
-arabic_ayat: وَّجَعَلۡنَا الَّيۡلَ لِبَاسًا ۙ‏
+arabic_ayat: وَجَعَلۡنَا ٱلَّيۡلَ لِبَاسٗا
 sentence_translation: and made the night as a cover,
 word_by_word:
   1:
-    arabic: وَّجَعَلۡنَا
+    arabic: وَجَعَلۡنَا
     translation: And We made
     transliteration: wajaʿalnā
   2:
-    arabic: الَّيۡلَ
+    arabic: ٱلَّيۡلَ
     translation: the night
     transliteration: al-layla
   3:
-    arabic: لِبَاسًا ۙ‏
+    arabic: لِبَاسٗا
     translation: (as) covering
     transliteration: libāsan
 ---

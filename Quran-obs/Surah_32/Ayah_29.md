@@ -1,6 +1,6 @@
 ---
-arabic_ayat: قُلۡ يَوۡمَ الۡفَتۡحِ لَا يَنۡفَعُ الَّذِيۡنَ كَفَرُوۡۤا اِيۡمَانُهُمۡ
-  وَلَا هُمۡ يُنۡظَرُوۡنَ‏
+arabic_ayat: قُلۡ يَوۡمَ ٱلۡفَتۡحِ لَا يَنفَعُ ٱلَّذِينَ كَفَرُوٓاْ إِيمَٰنُهُمۡ وَلَا
+  هُمۡ يُنظَرُونَ
 sentence_translation: Say, ˹O Prophet,˺ “On the Day of Decision it will not benefit
   the disbelievers to believe then, nor will they be delayed ˹from punishment˺.”
 word_by_word:
@@ -13,7 +13,7 @@ word_by_word:
     translation: (On the) Day
     transliteration: yawma
   3:
-    arabic: الۡفَتۡحِ
+    arabic: ٱلۡفَتۡحِ
     translation: (of) the Decision
     transliteration: l-fatḥi
   4:
@@ -21,19 +21,19 @@ word_by_word:
     translation: not
     transliteration: lā
   5:
-    arabic: يَنۡفَعُ
+    arabic: يَنفَعُ
     translation: will benefit
     transliteration: yanfaʿu
   6:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   7:
-    arabic: كَفَرُوۡۤا
+    arabic: كَفَرُوٓاْ
     translation: disbelieve
     transliteration: kafarū
   8:
-    arabic: اِيۡمَانُهُمۡ
+    arabic: إِيمَٰنُهُمۡ
     translation: their belief
     transliteration: īmānuhum
   9:
@@ -45,7 +45,7 @@ word_by_word:
     translation: they
     transliteration: hum
   11:
-    arabic: يُنۡظَرُوۡنَ‏
+    arabic: يُنظَرُونَ
     translation: will be granted respite
     transliteration: yunẓarūna
 ---

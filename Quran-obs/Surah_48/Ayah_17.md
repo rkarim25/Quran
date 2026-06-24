@@ -1,15 +1,14 @@
 ---
-arabic_ayat: "لَيۡسَ عَلَى الۡاَعۡمٰى حَرَجٌ وَّلَا عَلَى الۡاَعۡرَجِ حَرَجٌ وَّلَا\
-  \ عَلَى الۡمَرِيۡضِ حَرَجٌ​ ؕ وَمَنۡ يُّطِعِ اللّٰهَ وَرَسُوۡلَهٗ يُدۡخِلۡهُ جَنّٰتٍ\
-  \ تَجۡرِىۡ مِنۡ تَحۡتِهَا الۡاَنۡهٰرُ​​ۚوَمَنۡ يَّتَوَلَّ يُعَذِّبۡهُ عَذَابًا اَلِيۡمًا‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: لَّيۡسَ عَلَى ٱلۡأَعۡمَىٰ حَرَجٞ وَلَا عَلَى ٱلۡأَعۡرَجِ حَرَجٞ وَلَا
+  عَلَى ٱلۡمَرِيضِ حَرَجٞۗ وَمَن يُطِعِ ٱللَّهَ وَرَسُولَهُۥ يُدۡخِلۡهُ جَنَّٰتٖ تَجۡرِي
+  مِن تَحۡتِهَا ٱلۡأَنۡهَٰرُۖ وَمَن يَتَوَلَّ يُعَذِّبۡهُ عَذَابًا أَلِيمٗا
 sentence_translation: There is no blame on the blind, or the disabled, or the sick
   ˹for staying behind˺. And whoever obeys Allah and His Messenger will be admitted
   by Him into Gardens under which rivers flow. But whoever turns away will be subjected
   by Him to a painful punishment.
 word_by_word:
   1:
-    arabic: لَيۡسَ
+    arabic: لَّيۡسَ
     translation: Not is
     transliteration: laysa
   2:
@@ -17,15 +16,15 @@ word_by_word:
     translation: upon
     transliteration: ʿalā
   3:
-    arabic: الۡاَعۡمٰى
+    arabic: ٱلۡأَعۡمَىٰ
     translation: the blind
     transliteration: l-aʿmā
   4:
-    arabic: حَرَجٌ
+    arabic: حَرَجٞ
     translation: any blame
     transliteration: ḥarajun
   5:
-    arabic: وَّلَا
+    arabic: وَلَا
     translation: and not
     transliteration: walā
   6:
@@ -33,15 +32,15 @@ word_by_word:
     translation: 'on'
     transliteration: ʿalā
   7:
-    arabic: الۡاَعۡرَجِ
+    arabic: ٱلۡأَعۡرَجِ
     translation: the lame
     transliteration: l-aʿraji
   8:
-    arabic: حَرَجٌ
+    arabic: حَرَجٞ
     translation: any blame
     transliteration: ḥarajun
   9:
-    arabic: وَّلَا
+    arabic: وَلَا
     translation: and not
     transliteration: walā
   10:
@@ -49,27 +48,27 @@ word_by_word:
     translation: 'on'
     transliteration: ʿalā
   11:
-    arabic: الۡمَرِيۡضِ
+    arabic: ٱلۡمَرِيضِ
     translation: the sick
     transliteration: l-marīḍi
   12:
-    arabic: حَرَجٌ​ ؕ
+    arabic: حَرَجٞۗ
     translation: any blame
     transliteration: ḥarajun
   13:
-    arabic: وَمَنۡ
+    arabic: وَمَن
     translation: And whoever
     transliteration: waman
   14:
-    arabic: يُّطِعِ
+    arabic: يُطِعِ
     translation: obeys
     transliteration: yuṭiʿi
   15:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   16:
-    arabic: وَرَسُوۡلَهٗ
+    arabic: وَرَسُولَهُۥ
     translation: and His Messenger
     transliteration: warasūlahu
   17:
@@ -77,15 +76,15 @@ word_by_word:
     translation: He will admit him
     transliteration: yud'khil'hu
   18:
-    arabic: جَنّٰتٍ
+    arabic: جَنَّٰتٖ
     translation: (to) Gardens
     transliteration: jannātin
   19:
-    arabic: تَجۡرِىۡ
+    arabic: تَجۡرِي
     translation: flow
     transliteration: tajrī
   20:
-    arabic: مِنۡ
+    arabic: مِن
     translation: from
     transliteration: min
   21:
@@ -93,15 +92,15 @@ word_by_word:
     translation: underneath them
     transliteration: taḥtihā
   22:
-    arabic: الۡاَنۡهٰرُ​​ۚ
+    arabic: ٱلۡأَنۡهَٰرُۖ
     translation: the rivers
     transliteration: l-anhāru
   23:
-    arabic: وَمَنۡ
+    arabic: وَمَن
     translation: but whoever
     transliteration: waman
   24:
-    arabic: يَّتَوَلَّ
+    arabic: يَتَوَلَّ
     translation: turns away
     transliteration: yatawalla
   25:
@@ -113,7 +112,7 @@ word_by_word:
     translation: (with) a punishment
     transliteration: ʿadhāban
   27:
-    arabic: "اَلِيۡمًا‏ \uFEFF\uFEFF"
+    arabic: أَلِيمٗا
     translation: painful
     transliteration: alīman
 ---

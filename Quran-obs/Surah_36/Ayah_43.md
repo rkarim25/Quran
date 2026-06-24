@@ -1,15 +1,14 @@
 ---
-arabic_ayat: "وَاِنۡ نَّشَاۡ نُغۡرِقۡهُمۡ فَلَا صَرِيۡخَ لَهُمۡ وَلَا هُمۡ يُنۡقَذُوۡنَۙ‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: وَإِن نَّشَأۡ نُغۡرِقۡهُمۡ فَلَا صَرِيخَ لَهُمۡ وَلَا هُمۡ يُنقَذُونَ
 sentence_translation: 'If We willed, We could drown them: then no one would respond
   to their cries, nor would they be rescued—'
 word_by_word:
   1:
-    arabic: وَاِنۡ
+    arabic: وَإِن
     translation: And if
     transliteration: wa-in
   2:
-    arabic: نَّشَاۡ
+    arabic: نَّشَأۡ
     translation: We will
     transliteration: nasha
   3:
@@ -21,7 +20,7 @@ word_by_word:
     translation: then not
     transliteration: falā
   5:
-    arabic: صَرِيۡخَ
+    arabic: صَرِيخَ
     translation: (would be) a responder to a cry
     transliteration: ṣarīkha
   6:
@@ -37,7 +36,7 @@ word_by_word:
     translation: they
     transliteration: hum
   9:
-    arabic: "يُنۡقَذُوۡنَۙ‏ \uFEFF\uFEFF"
+    arabic: يُنقَذُونَ
     translation: would be saved
     transliteration: yunqadhūna
 ---

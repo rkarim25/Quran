@@ -1,11 +1,11 @@
 ---
-arabic_ayat: يُّبَصَّرُوۡنَهُمۡ​ؕ يَوَدُّ الۡمُجۡرِمُ لَوۡ يَفۡتَدِىۡ مِنۡ عَذَابِ
-  يَوۡمِٮِٕذٍۢ بِبَنِيۡهِۙ‏
+arabic_ayat: يُبَصَّرُونَهُمۡۚ يَوَدُّ ٱلۡمُجۡرِمُ لَوۡ يَفۡتَدِي مِنۡ عَذَابِ يَوۡمِئِذِۭ
+  بِبَنِيهِ
 sentence_translation: ˹although˺ they will be made to see each other. The wicked will
   wish to ransom themselves from the punishment of that Day by their children,
 word_by_word:
   1:
-    arabic: يُّبَصَّرُوۡنَهُمۡ​ؕ
+    arabic: يُبَصَّرُونَهُمۡۚ
     translation: They will be made to see each other
     transliteration: yubaṣṣarūnahum
   2:
@@ -13,7 +13,7 @@ word_by_word:
     translation: Would wish
     transliteration: yawaddu
   3:
-    arabic: الۡمُجۡرِمُ
+    arabic: ٱلۡمُجۡرِمُ
     translation: the criminal
     transliteration: l-muj'rimu
   4:
@@ -21,7 +21,7 @@ word_by_word:
     translation: if
     transliteration: law
   5:
-    arabic: يَفۡتَدِىۡ
+    arabic: يَفۡتَدِي
     translation: he (could be) ransomed
     transliteration: yaftadī
   6:
@@ -33,11 +33,11 @@ word_by_word:
     translation: (the) punishment
     transliteration: ʿadhābi
   8:
-    arabic: يَوۡمِٮِٕذٍۢ
+    arabic: يَوۡمِئِذِۭ
     translation: (of) that Day
     transliteration: yawmi-idhin
   9:
-    arabic: بِبَنِيۡهِۙ‏
+    arabic: بِبَنِيهِ
     translation: by his children
     transliteration: bibanīhi
 ---

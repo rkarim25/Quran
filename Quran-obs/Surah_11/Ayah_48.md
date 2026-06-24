@@ -1,26 +1,26 @@
 ---
-arabic_ayat: "قِيۡلَ يٰـنُوۡحُ اهۡبِطۡ بِسَلٰمٍ مِّنَّا وَبَرَكٰتٍ عَلَيۡكَ وَعَلٰٓى\
-  \ اُمَمٍ مِّمَّنۡ مَّعَكَ​ؕ وَاُمَمٌ سَنُمَتِّعُهُمۡ ثُمَّ يَمَسُّهُمۡ مِّنَّا عَذَابٌ\
-  \ اَلِيۡمٌ‏ \uFEFF\uFEFF"
+arabic_ayat: قِيلَ يَٰنُوحُ ٱهۡبِطۡ بِسَلَٰمٖ مِّنَّا وَبَرَكَٰتٍ عَلَيۡكَ وَعَلَىٰٓ
+  أُمَمٖ مِّمَّن مَّعَكَۚ وَأُمَمٞ سَنُمَتِّعُهُمۡ ثُمَّ يَمَسُّهُم مِّنَّا عَذَابٌ
+  أَلِيمٞ
 sentence_translation: It was said, “O Noah! Disembark with Our peace and blessings
   on you and some of the descendants of those with you. As for the others, We will
   allow them ˹a brief˺ enjoyment, then they will be touched with a painful punishment
   from Us.”
 word_by_word:
   1:
-    arabic: قِيۡلَ
+    arabic: قِيلَ
     translation: It was said
     transliteration: qīla
   2:
-    arabic: يٰـنُوۡحُ
+    arabic: يَٰنُوحُ
     translation: O Nuh
     transliteration: yānūḥu
   3:
-    arabic: اهۡبِطۡ
+    arabic: ٱهۡبِطۡ
     translation: Go down
     transliteration: ih'biṭ
   4:
-    arabic: بِسَلٰمٍ
+    arabic: بِسَلَٰمٖ
     translation: with peace
     transliteration: bisalāmin
   5:
@@ -28,7 +28,7 @@ word_by_word:
     translation: from Us
     transliteration: minnā
   6:
-    arabic: وَبَرَكٰتٍ
+    arabic: وَبَرَكَٰتٍ
     translation: and blessings
     transliteration: wabarakātin
   7:
@@ -36,23 +36,23 @@ word_by_word:
     translation: on you
     transliteration: ʿalayka
   8:
-    arabic: وَعَلٰٓى
+    arabic: وَعَلَىٰٓ
     translation: and on
     transliteration: waʿalā
   9:
-    arabic: اُمَمٍ
+    arabic: أُمَمٖ
     translation: the nations
     transliteration: umamin
   10:
-    arabic: مِّمَّنۡ
+    arabic: مِّمَّن
     translation: from those
     transliteration: mimman
   11:
-    arabic: مَّعَكَ​ؕ
+    arabic: مَّعَكَۚ
     translation: with you
     transliteration: maʿaka
   12:
-    arabic: وَاُمَمٌ
+    arabic: وَأُمَمٞ
     translation: But (to other) nations
     transliteration: wa-umamun
   13:
@@ -64,7 +64,7 @@ word_by_word:
     translation: then
     transliteration: thumma
   15:
-    arabic: يَمَسُّهُمۡ
+    arabic: يَمَسُّهُم
     translation: will touch them
     transliteration: yamassuhum
   16:
@@ -76,7 +76,7 @@ word_by_word:
     translation: a punishment
     transliteration: ʿadhābun
   18:
-    arabic: "اَلِيۡمٌ‏ \uFEFF\uFEFF"
+    arabic: أَلِيمٞ
     translation: painful
     transliteration: alīmun
 ---

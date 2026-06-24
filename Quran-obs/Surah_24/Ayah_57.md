@@ -1,6 +1,6 @@
 ---
-arabic_ayat: لَا تَحۡسَبَنَّ الَّذِيۡنَ كَفَرُوۡا مُعۡجِزِيۡنَ فِى الۡاَرۡضِ​ۚ وَمَاۡوٰٮهُمُ
-  النَّارُ​ؕ وَلَبِئۡسَ الۡمَصِيۡرُ‏
+arabic_ayat: لَا تَحۡسَبَنَّ ٱلَّذِينَ كَفَرُواْ مُعۡجِزِينَ فِي ٱلۡأَرۡضِۚ وَمَأۡوَىٰهُمُ
+  ٱلنَّارُۖ وَلَبِئۡسَ ٱلۡمَصِيرُ
 sentence_translation: Do not think ˹O Prophet˺ that the disbelievers can escape in
   the land. The Fire will be their home. Indeed, what an evil destination!
 word_by_word:
@@ -13,31 +13,31 @@ word_by_word:
     translation: think
     transliteration: taḥsabanna
   3:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: those who
     transliteration: alladhīna
   4:
-    arabic: كَفَرُوۡا
+    arabic: كَفَرُواْ
     translation: disbelieve
     transliteration: kafarū
   5:
-    arabic: مُعۡجِزِيۡنَ
+    arabic: مُعۡجِزِينَ
     translation: (can) escape
     transliteration: muʿ'jizīna
   6:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   7:
-    arabic: الۡاَرۡضِ​ۚ
+    arabic: ٱلۡأَرۡضِۚ
     translation: the earth
     transliteration: l-arḍi
   8:
-    arabic: وَمَاۡوٰٮهُمُ
+    arabic: وَمَأۡوَىٰهُمُ
     translation: And their abode
     transliteration: wamawāhumu
   9:
-    arabic: النَّارُ​ؕ
+    arabic: ٱلنَّارُۖ
     translation: (will be) the Fire
     transliteration: l-nāru
   10:
@@ -45,7 +45,7 @@ word_by_word:
     translation: and wretched is
     transliteration: walabi'sa
   11:
-    arabic: الۡمَصِيۡرُ‏
+    arabic: ٱلۡمَصِيرُ
     translation: the destination
     transliteration: l-maṣīru
 ---

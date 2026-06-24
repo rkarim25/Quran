@@ -1,6 +1,6 @@
 ---
-arabic_ayat: وَلَا تَقۡفُ مَا لَـيۡسَ لَـكَ بِهٖ عِلۡمٌ​ ؕ اِنَّ السَّمۡعَ وَالۡبَصَرَ
-  وَالۡفُؤَادَ كُلُّ اُولٰۤٮِٕكَ كَانَ عَنۡهُ مَسۡـُٔوۡلًا‏
+arabic_ayat: وَلَا تَقۡفُ مَا لَيۡسَ لَكَ بِهِۦ عِلۡمٌۚ إِنَّ ٱلسَّمۡعَ وَٱلۡبَصَرَ
+  وَٱلۡفُؤَادَ كُلُّ أُوْلَٰٓئِكَ كَانَ عَنۡهُ مَسۡـُٔولٗا
 sentence_translation: Do not follow what you have no ˹sure˺ knowledge of. Indeed,
   all will be called to account for ˹their˺ hearing, sight, and intellect.
 word_by_word:
@@ -17,35 +17,35 @@ word_by_word:
     translation: what
     transliteration: mā
   4:
-    arabic: لَـيۡسَ
+    arabic: لَيۡسَ
     translation: not
     transliteration: laysa
   5:
-    arabic: لَـكَ
+    arabic: لَكَ
     translation: you have
     transliteration: laka
   6:
-    arabic: بِهٖ
+    arabic: بِهِۦ
     translation: of it
     transliteration: bihi
   7:
-    arabic: عِلۡمٌ​ ؕ
+    arabic: عِلۡمٌۚ
     translation: any knowledge
     transliteration: ʿil'mun
   8:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   9:
-    arabic: السَّمۡعَ
+    arabic: ٱلسَّمۡعَ
     translation: the hearing
     transliteration: l-samʿa
   10:
-    arabic: وَالۡبَصَرَ
+    arabic: وَٱلۡبَصَرَ
     translation: and the sight
     transliteration: wal-baṣara
   11:
-    arabic: وَالۡفُؤَادَ
+    arabic: وَٱلۡفُؤَادَ
     translation: and the heart
     transliteration: wal-fuāda
   12:
@@ -53,7 +53,7 @@ word_by_word:
     translation: all
     transliteration: kullu
   13:
-    arabic: اُولٰۤٮِٕكَ
+    arabic: أُوْلَٰٓئِكَ
     translation: those
     transliteration: ulāika
   14:
@@ -65,7 +65,7 @@ word_by_word:
     translation: '[about it]'
     transliteration: ʿanhu
   16:
-    arabic: مَسۡـُٔوۡلًا‏
+    arabic: مَسۡـُٔولٗا
     translation: questioned
     transliteration: masūlan
 ---

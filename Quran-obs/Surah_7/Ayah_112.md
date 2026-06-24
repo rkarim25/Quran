@@ -1,9 +1,9 @@
 ---
-arabic_ayat: يَاۡتُوۡكَ بِكُلِّ سٰحِرٍ عَلِيۡمٍ‏
+arabic_ayat: يَأۡتُوكَ بِكُلِّ سَٰحِرٍ عَلِيمٖ
 sentence_translation: to bring you every clever magician.”
 word_by_word:
   1:
-    arabic: يَاۡتُوۡكَ
+    arabic: يَأۡتُوكَ
     translation: They (will) bring to you
     transliteration: yatūka
   2:
@@ -11,11 +11,11 @@ word_by_word:
     translation: '[with] every'
     transliteration: bikulli
   3:
-    arabic: سٰحِرٍ
+    arabic: سَٰحِرٍ
     translation: magician
     transliteration: sāḥirin
   4:
-    arabic: عَلِيۡمٍ‏
+    arabic: عَلِيمٖ
     translation: learned
     transliteration: ʿalīmin
 ---

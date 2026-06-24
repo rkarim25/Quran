@@ -1,5 +1,5 @@
 ---
-arabic_ayat: وَلَا تَمۡنُنۡ تَسۡتَكۡثِرُۙ‏
+arabic_ayat: وَلَا تَمۡنُن تَسۡتَكۡثِرُ
 sentence_translation: Do not do a favour expecting more ˹in return˺.
 word_by_word:
   1:
@@ -7,11 +7,11 @@ word_by_word:
     translation: And (do) not
     transliteration: walā
   2:
-    arabic: تَمۡنُنۡ
+    arabic: تَمۡنُن
     translation: confer favor
     transliteration: tamnun
   3:
-    arabic: تَسۡتَكۡثِرُۙ‏
+    arabic: تَسۡتَكۡثِرُ
     translation: (to) acquire more
     transliteration: tastakthiru
 ---

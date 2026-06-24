@@ -1,6 +1,6 @@
 ---
-arabic_ayat: وَلَوۡلَا فَضۡلُ اللّٰهِ عَلَيۡكُمۡ وَرَحۡمَتُهٗ وَاَنَّ اللّٰهَ رَءُوۡفٌ
-  رَّحِيۡمٌ‏
+arabic_ayat: وَلَوۡلَا فَضۡلُ ٱللَّهِ عَلَيۡكُمۡ وَرَحۡمَتُهُۥ وَأَنَّ ٱللَّهَ رَءُوفٞ
+  رَّحِيمٞ
 sentence_translation: ˹You would have suffered,˺ had it not been for Allah’s grace
   and mercy upon you, and had Allah not been Ever Gracious, Most Merciful.
 word_by_word:
@@ -13,7 +13,7 @@ word_by_word:
     translation: (for the) Grace of Allah
     transliteration: faḍlu
   3:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: (for the) Grace of Allah
     transliteration: l-lahi
   4:
@@ -21,23 +21,23 @@ word_by_word:
     translation: upon you
     transliteration: ʿalaykum
   5:
-    arabic: وَرَحۡمَتُهٗ
+    arabic: وَرَحۡمَتُهُۥ
     translation: and His Mercy
     transliteration: waraḥmatuhu
   6:
-    arabic: وَاَنَّ
+    arabic: وَأَنَّ
     translation: And that
     transliteration: wa-anna
   7:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   8:
-    arabic: رَءُوۡفٌ
+    arabic: رَءُوفٞ
     translation: (is) Full of Kindness
     transliteration: raūfun
   9:
-    arabic: رَّحِيۡمٌ‏
+    arabic: رَّحِيمٞ
     translation: Most Merciful
     transliteration: raḥīmun
 ---

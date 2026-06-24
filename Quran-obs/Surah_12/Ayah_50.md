@@ -1,7 +1,7 @@
 ---
-arabic_ayat: وَقَالَ الۡمَلِكُ ائۡتُوۡنِىۡ بِهٖ​ۚ فَلَمَّا جَآءَهُ الرَّسُوۡلُ قَالَ
-  ارۡجِعۡ اِلٰى رَبِّكَ فَسۡــَٔلۡهُ مَا بَالُ النِّسۡوَةِ الّٰتِىۡ قَطَّعۡنَ اَيۡدِيَهُنَّ​ؕ
-  اِنَّ رَبِّىۡ بِكَيۡدِهِنَّ عَلِيۡمٌ‏
+arabic_ayat: وَقَالَ ٱلۡمَلِكُ ٱئۡتُونِي بِهِۦۖ فَلَمَّا جَآءَهُ ٱلرَّسُولُ قَالَ
+  ٱرۡجِعۡ إِلَىٰ رَبِّكَ فَسۡـَٔلۡهُ مَا بَالُ ٱلنِّسۡوَةِ ٱلَّٰتِي قَطَّعۡنَ أَيۡدِيَهُنَّۚ
+  إِنَّ رَبِّي بِكَيۡدِهِنَّ عَلِيمٞ
 sentence_translation: The King ˹then˺ said, “Bring him to me.” When the messenger
   came to him, Joseph said, “Go back to your master and ask him about the case of
   the women who cut their hands. Surely my Lord has ˹full˺ knowledge of their cunning.”
@@ -11,15 +11,15 @@ word_by_word:
     translation: And said
     transliteration: waqāla
   2:
-    arabic: الۡمَلِكُ
+    arabic: ٱلۡمَلِكُ
     translation: the king
     transliteration: l-maliku
   3:
-    arabic: ائۡتُوۡنِىۡ
+    arabic: ٱئۡتُونِي
     translation: Bring him to me
     transliteration: i'tūnī
   4:
-    arabic: بِهٖ​ۚ
+    arabic: بِهِۦۖ
     translation: Bring him to me
     transliteration: bihi
   5:
@@ -31,7 +31,7 @@ word_by_word:
     translation: came to him
     transliteration: jāahu
   7:
-    arabic: الرَّسُوۡلُ
+    arabic: ٱلرَّسُولُ
     translation: the messenger
     transliteration: l-rasūlu
   8:
@@ -39,11 +39,11 @@ word_by_word:
     translation: he said
     transliteration: qāla
   9:
-    arabic: ارۡجِعۡ
+    arabic: ٱرۡجِعۡ
     translation: Return
     transliteration: ir'jiʿ
   10:
-    arabic: اِلٰى
+    arabic: إِلَىٰ
     translation: to
     transliteration: ilā
   11:
@@ -51,7 +51,7 @@ word_by_word:
     translation: your lord
     transliteration: rabbika
   12:
-    arabic: فَسۡــَٔلۡهُ
+    arabic: فَسۡـَٔلۡهُ
     translation: and ask him
     transliteration: fasalhu
   13:
@@ -63,11 +63,11 @@ word_by_word:
     translation: (is the) case
     transliteration: bālu
   15:
-    arabic: النِّسۡوَةِ
+    arabic: ٱلنِّسۡوَةِ
     translation: (of) the women
     transliteration: l-nis'wati
   16:
-    arabic: الّٰتِىۡ
+    arabic: ٱلَّٰتِي
     translation: who
     transliteration: allātī
   17:
@@ -75,15 +75,15 @@ word_by_word:
     translation: cut
     transliteration: qaṭṭaʿna
   18:
-    arabic: اَيۡدِيَهُنَّ​ؕ
+    arabic: أَيۡدِيَهُنَّۚ
     translation: their hands
     transliteration: aydiyahunna
   19:
-    arabic: اِنَّ
+    arabic: إِنَّ
     translation: Indeed
     transliteration: inna
   20:
-    arabic: رَبِّىۡ
+    arabic: رَبِّي
     translation: my Lord
     transliteration: rabbī
   21:
@@ -91,7 +91,7 @@ word_by_word:
     translation: of their plot
     transliteration: bikaydihinna
   22:
-    arabic: عَلِيۡمٌ‏
+    arabic: عَلِيمٞ
     translation: (is) All-Knower
     transliteration: ʿalīmun
 ---

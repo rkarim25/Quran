@@ -1,11 +1,11 @@
 ---
-arabic_ayat: وَاٰيَةٌ لَّهُمُ الۡاَرۡضُ الۡمَيۡتَةُ ۖۚ اَحۡيَيۡنٰهَا وَاَخۡرَجۡنَا
-  مِنۡهَا حَبًّا فَمِنۡهُ يَاۡكُلُوۡنَ‏
+arabic_ayat: وَءَايَةٞ لَّهُمُ ٱلۡأَرۡضُ ٱلۡمَيۡتَةُ أَحۡيَيۡنَٰهَا وَأَخۡرَجۡنَا
+  مِنۡهَا حَبّٗا فَمِنۡهُ يَأۡكُلُونَ
 sentence_translation: 'There is a sign for them in the dead earth: We give it life,
   producing grain from it for them to eat.'
 word_by_word:
   1:
-    arabic: وَاٰيَةٌ
+    arabic: وَءَايَةٞ
     translation: And a Sign
     transliteration: waāyatun
   2:
@@ -13,19 +13,19 @@ word_by_word:
     translation: for them
     transliteration: lahumu
   3:
-    arabic: الۡاَرۡضُ
+    arabic: ٱلۡأَرۡضُ
     translation: (is) the earth
     transliteration: l-arḍu
   4:
-    arabic: الۡمَيۡتَةُ ۖۚ
+    arabic: ٱلۡمَيۡتَةُ
     translation: dead
     transliteration: l-maytatu
   5:
-    arabic: اَحۡيَيۡنٰهَا
+    arabic: أَحۡيَيۡنَٰهَا
     translation: We give it life
     transliteration: aḥyaynāhā
   6:
-    arabic: وَاَخۡرَجۡنَا
+    arabic: وَأَخۡرَجۡنَا
     translation: and We bring forth
     transliteration: wa-akhrajnā
   7:
@@ -33,7 +33,7 @@ word_by_word:
     translation: from it
     transliteration: min'hā
   8:
-    arabic: حَبًّا
+    arabic: حَبّٗا
     translation: grain
     transliteration: ḥabban
   9:
@@ -41,7 +41,7 @@ word_by_word:
     translation: and from it
     transliteration: famin'hu
   10:
-    arabic: يَاۡكُلُوۡنَ‏
+    arabic: يَأۡكُلُونَ
     translation: they eat
     transliteration: yakulūna
 ---

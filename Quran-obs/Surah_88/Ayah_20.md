@@ -1,13 +1,13 @@
 ---
-arabic_ayat: وَاِلَى الۡاَرۡضِ كَيۡفَ سُطِحَتۡ‏
+arabic_ayat: وَإِلَى ٱلۡأَرۡضِ كَيۡفَ سُطِحَتۡ
 sentence_translation: and the earth—how it was levelled out?
 word_by_word:
   1:
-    arabic: وَاِلَى
+    arabic: وَإِلَى
     translation: And towards
     transliteration: wa-ilā
   2:
-    arabic: الۡاَرۡضِ
+    arabic: ٱلۡأَرۡضِ
     translation: the earth
     transliteration: l-arḍi
   3:
@@ -15,7 +15,7 @@ word_by_word:
     translation: how
     transliteration: kayfa
   4:
-    arabic: سُطِحَتۡ‏
+    arabic: سُطِحَتۡ
     translation: it is spread out
     transliteration: suṭiḥat
 ---

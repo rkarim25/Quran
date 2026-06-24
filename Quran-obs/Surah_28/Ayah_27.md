@@ -1,8 +1,7 @@
 ---
-arabic_ayat: "قَالَ اِنِّىۡۤ اُرِيۡدُ اَنۡ اُنۡكِحَكَ اِحۡدَى ابۡنَتَىَّ هٰتَيۡنِ\
-  \ عَلٰٓى اَنۡ تَاۡجُرَنِىۡ ثَمٰنِىَ حِجَجٍ​ۚ فَاِنۡ اَتۡمَمۡتَ عَشۡرًا فَمِنۡ عِنۡدِكَ​ۚ\
-  \ وَمَاۤ اُرِيۡدُ اَنۡ اَشُقَّ عَلَيۡكَ​ؕ سَتَجِدُنِىۡۤ اِنۡ شَآءَ اللّٰهُ مِنَ\
-  \ الصّٰلِحِيۡنَ‏ \uFEFF\uFEFF"
+arabic_ayat: قَالَ إِنِّيٓ أُرِيدُ أَنۡ أُنكِحَكَ إِحۡدَى ٱبۡنَتَيَّ هَٰتَيۡنِ عَلَىٰٓ
+  أَن تَأۡجُرَنِي ثَمَٰنِيَ حِجَجٖۖ فَإِنۡ أَتۡمَمۡتَ عَشۡرٗا فَمِنۡ عِندِكَۖ وَمَآ
+  أُرِيدُ أَنۡ أَشُقَّ عَلَيۡكَۚ سَتَجِدُنِيٓ إِن شَآءَ ٱللَّهُ مِنَ ٱلصَّٰلِحِينَ
 sentence_translation: The old man proposed, “I wish to marry one of these two daughters
   of mine to you, provided that you stay in my service for eight years. If you complete
   ten, it will be ˹a favour˺ from you, but I do not wish to make it difficult for
@@ -13,63 +12,63 @@ word_by_word:
     translation: He said
     transliteration: qāla
   2:
-    arabic: اِنِّىۡۤ
+    arabic: إِنِّيٓ
     translation: Indeed, I
     transliteration: innī
   3:
-    arabic: اُرِيۡدُ
+    arabic: أُرِيدُ
     translation: '[I] wish'
     transliteration: urīdu
   4:
-    arabic: اَنۡ
+    arabic: أَنۡ
     translation: to
     transliteration: an
   5:
-    arabic: اُنۡكِحَكَ
+    arabic: أُنكِحَكَ
     translation: marry you to
     transliteration: unkiḥaka
   6:
-    arabic: اِحۡدَى
+    arabic: إِحۡدَى
     translation: one
     transliteration: iḥ'dā
   7:
-    arabic: ابۡنَتَىَّ
+    arabic: ٱبۡنَتَيَّ
     translation: (of) my daughters
     transliteration: ib'natayya
   8:
-    arabic: هٰتَيۡنِ
+    arabic: هَٰتَيۡنِ
     translation: (of) these two
     transliteration: hātayni
   9:
-    arabic: عَلٰٓى
+    arabic: عَلَىٰٓ
     translation: 'on'
     transliteration: ʿalā
   10:
-    arabic: اَنۡ
+    arabic: أَن
     translation: that
     transliteration: an
   11:
-    arabic: تَاۡجُرَنِىۡ
+    arabic: تَأۡجُرَنِي
     translation: you serve me
     transliteration: tajuranī
   12:
-    arabic: ثَمٰنِىَ
+    arabic: ثَمَٰنِيَ
     translation: (for) eight
     transliteration: thamāniya
   13:
-    arabic: حِجَجٍ​ۚ
+    arabic: حِجَجٖۖ
     translation: years
     transliteration: ḥijajin
   14:
-    arabic: فَاِنۡ
+    arabic: فَإِنۡ
     translation: but if
     transliteration: fa-in
   15:
-    arabic: اَتۡمَمۡتَ
+    arabic: أَتۡمَمۡتَ
     translation: you complete
     transliteration: atmamta
   16:
-    arabic: عَشۡرًا
+    arabic: عَشۡرٗا
     translation: ten
     transliteration: ʿashran
   17:
@@ -77,35 +76,35 @@ word_by_word:
     translation: then from
     transliteration: famin
   18:
-    arabic: عِنۡدِكَ​ۚ
+    arabic: عِندِكَۖ
     translation: you
     transliteration: ʿindika
   19:
-    arabic: وَمَاۤ
+    arabic: وَمَآ
     translation: And not
     transliteration: wamā
   20:
-    arabic: اُرِيۡدُ
+    arabic: أُرِيدُ
     translation: I wish
     transliteration: urīdu
   21:
-    arabic: اَنۡ
+    arabic: أَنۡ
     translation: to
     transliteration: an
   22:
-    arabic: اَشُقَّ
+    arabic: أَشُقَّ
     translation: make it difficult
     transliteration: ashuqqa
   23:
-    arabic: عَلَيۡكَ​ؕ
+    arabic: عَلَيۡكَۚ
     translation: for you
     transliteration: ʿalayka
   24:
-    arabic: سَتَجِدُنِىۡۤ
+    arabic: سَتَجِدُنِيٓ
     translation: You will find me
     transliteration: satajidunī
   25:
-    arabic: اِنۡ
+    arabic: إِن
     translation: if
     transliteration: in
   26:
@@ -113,7 +112,7 @@ word_by_word:
     translation: Allah wills
     transliteration: shāa
   27:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah wills
     transliteration: l-lahu
   28:
@@ -121,7 +120,7 @@ word_by_word:
     translation: of
     transliteration: mina
   29:
-    arabic: "الصّٰلِحِيۡنَ‏ \uFEFF\uFEFF"
+    arabic: ٱلصَّٰلِحِينَ
     translation: the righteous
     transliteration: l-ṣāliḥīna
 ---

@@ -1,11 +1,11 @@
 ---
-arabic_ayat: وَقَالُوۡا مَهۡمَا تَاۡتِنَا بِهٖ مِنۡ اٰيَةٍ لِّـتَسۡحَرَنَا بِهَا ۙ
-  فَمَا نَحۡنُ لَكَ بِمُؤۡمِنِيۡنَ‏
+arabic_ayat: وَقَالُواْ مَهۡمَا تَأۡتِنَا بِهِۦ مِنۡ ءَايَةٖ لِّتَسۡحَرَنَا بِهَا
+  فَمَا نَحۡنُ لَكَ بِمُؤۡمِنِينَ
 sentence_translation: They said, “No matter what sign you may bring to deceive us,
   we will never believe in you.”
 word_by_word:
   1:
-    arabic: وَقَالُوۡا
+    arabic: وَقَالُواْ
     translation: And they said
     transliteration: waqālū
   2:
@@ -13,27 +13,27 @@ word_by_word:
     translation: Whatever
     transliteration: mahmā
   3:
-    arabic: تَاۡتِنَا
+    arabic: تَأۡتِنَا
     translation: you bring us
     transliteration: tatinā
   4:
-    arabic: بِهٖ
+    arabic: بِهِۦ
     translation: therewith
     transliteration: bihi
   5:
-    arabic: مِنۡ
+    arabic: مِنۡ ءَ
     translation: of
     transliteration: min
   6:
-    arabic: اٰيَةٍ
+    arabic: ايَةٖ
     translation: (the) sign
     transliteration: āyatin
   7:
-    arabic: لِّـتَسۡحَرَنَا
+    arabic: لِّتَسۡحَرَنَا
     translation: so that you bewitch us
     transliteration: litasḥaranā
   8:
-    arabic: بِهَا ۙ
+    arabic: بِهَا
     translation: with it
     transliteration: bihā
   9:
@@ -49,7 +49,7 @@ word_by_word:
     translation: (will be) in you
     transliteration: laka
   12:
-    arabic: بِمُؤۡمِنِيۡنَ‏
+    arabic: بِمُؤۡمِنِينَ
     translation: believers
     transliteration: bimu'minīna
 ---

@@ -1,6 +1,5 @@
 ---
-arabic_ayat: "وَبَشِّرِ الۡمُؤۡمِنِيۡنَ بِاَنَّ لَهُمۡ مِّنَ اللّٰهِ فَضۡلًا كَبِيۡرًا‏\
-  \ \uFEFF\uFEFF"
+arabic_ayat: وَبَشِّرِ ٱلۡمُؤۡمِنِينَ بِأَنَّ لَهُم مِّنَ ٱللَّهِ فَضۡلٗا كَبِيرٗا
 sentence_translation: Give good news to the believers that they will have a great
   bounty from Allah.
 word_by_word:
@@ -9,15 +8,15 @@ word_by_word:
     translation: And give glad tidings
     transliteration: wabashiri
   2:
-    arabic: الۡمُؤۡمِنِيۡنَ
+    arabic: ٱلۡمُؤۡمِنِينَ
     translation: (to) the believers
     transliteration: l-mu'minīna
   3:
-    arabic: بِاَنَّ
+    arabic: بِأَنَّ
     translation: that
     transliteration: bi-anna
   4:
-    arabic: لَهُمۡ
+    arabic: لَهُم
     translation: for them
     transliteration: lahum
   5:
@@ -25,15 +24,15 @@ word_by_word:
     translation: (is) from
     transliteration: mina
   6:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: Allah
     transliteration: l-lahi
   7:
-    arabic: فَضۡلًا
+    arabic: فَضۡلٗا
     translation: a Bounty
     transliteration: faḍlan
   8:
-    arabic: "كَبِيۡرًا‏ \uFEFF\uFEFF"
+    arabic: كَبِيرٗا
     translation: great
     transliteration: kabīran
 ---

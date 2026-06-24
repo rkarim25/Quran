@@ -1,16 +1,16 @@
 ---
-arabic_ayat: وَلَوۡلَاۤ اَنۡ كَتَبَ اللّٰهُ عَلَيۡهِمُ الۡجَـلَاۤءَ لَعَذَّبَهُمۡ
-  فِى الدُّنۡيَا​ؕ وَلَهُمۡ فِى الۡاٰخِرَةِ عَذَابُ النَّارِ‏
+arabic_ayat: وَلَوۡلَآ أَن كَتَبَ ٱللَّهُ عَلَيۡهِمُ ٱلۡجَلَآءَ لَعَذَّبَهُمۡ فِي
+  ٱلدُّنۡيَاۖ وَلَهُمۡ فِي ٱلۡأٓخِرَةِ عَذَابُ ٱلنَّارِ
 sentence_translation: Had Allah not decreed exile for them, He would have certainly
   punished them in this world. And in the Hereafter they will suffer the punishment
   of the Fire.
 word_by_word:
   1:
-    arabic: وَلَوۡلَاۤ
+    arabic: وَلَوۡلَآ
     translation: And if not
     transliteration: walawlā
   2:
-    arabic: اَنۡ
+    arabic: أَن
     translation: '[that]'
     transliteration: an
   3:
@@ -18,7 +18,7 @@ word_by_word:
     translation: (had) decreed
     transliteration: kataba
   4:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah
     transliteration: l-lahu
   5:
@@ -26,7 +26,7 @@ word_by_word:
     translation: for them
     transliteration: ʿalayhimu
   6:
-    arabic: الۡجَـلَاۤءَ
+    arabic: ٱلۡجَلَآءَ
     translation: the exile
     transliteration: l-jalāa
   7:
@@ -34,11 +34,11 @@ word_by_word:
     translation: certainly He (would) have punished them
     transliteration: laʿadhabahum
   8:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   9:
-    arabic: الدُّنۡيَا​ؕ
+    arabic: ٱلدُّنۡيَاۖ
     translation: the world
     transliteration: l-dun'yā
   10:
@@ -46,11 +46,11 @@ word_by_word:
     translation: and for them
     transliteration: walahum
   11:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   12:
-    arabic: الۡاٰخِرَةِ
+    arabic: ٱلۡأٓخِرَةِ
     translation: the Hereafter
     transliteration: l-ākhirati
   13:
@@ -58,7 +58,7 @@ word_by_word:
     translation: (is) a punishment
     transliteration: ʿadhābu
   14:
-    arabic: النَّارِ‏
+    arabic: ٱلنَّارِ
     translation: (of) the Fire
     transliteration: l-nāri
 ---

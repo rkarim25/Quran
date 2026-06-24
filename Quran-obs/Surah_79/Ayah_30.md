@@ -1,9 +1,9 @@
 ---
-arabic_ayat: وَالۡاَرۡضَ بَعۡدَ ذٰلِكَ دَحٰٮهَا ؕ‏
+arabic_ayat: وَٱلۡأَرۡضَ بَعۡدَ ذَٰلِكَ دَحَىٰهَآ
 sentence_translation: As for the earth, He spread it out as well,
 word_by_word:
   1:
-    arabic: وَالۡاَرۡضَ
+    arabic: وَٱلۡأَرۡضَ
     translation: And the earth
     transliteration: wal-arḍa
   2:
@@ -11,11 +11,11 @@ word_by_word:
     translation: after
     transliteration: baʿda
   3:
-    arabic: ذٰلِكَ
+    arabic: ذَٰلِكَ
     translation: that
     transliteration: dhālika
   4:
-    arabic: دَحٰٮهَا ؕ‏
+    arabic: دَحَىٰهَآ
     translation: He spread it
     transliteration: daḥāhā
 ---

@@ -1,21 +1,21 @@
 ---
-arabic_ayat: يَّوۡمَ تَمُوۡرُ السَّمَآءُ مَوۡرًا ۙ‏
+arabic_ayat: يَوۡمَ تَمُورُ ٱلسَّمَآءُ مَوۡرٗا
 sentence_translation: on the Day the heavens will be shaken violently,
 word_by_word:
   1:
-    arabic: يَّوۡمَ
+    arabic: يَوۡمَ
     translation: (On the) Day
     transliteration: yawma
   2:
-    arabic: تَمُوۡرُ
+    arabic: تَمُورُ
     translation: will shake
     transliteration: tamūru
   3:
-    arabic: السَّمَآءُ
+    arabic: ٱلسَّمَآءُ
     translation: the heaven
     transliteration: l-samāu
   4:
-    arabic: مَوۡرًا ۙ‏
+    arabic: مَوۡرٗا
     translation: (with violent) shake
     transliteration: mawran
 ---

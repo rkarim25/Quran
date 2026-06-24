@@ -1,35 +1,35 @@
 ---
-arabic_ayat: يٰٓاَيُّهَا الَّذِيۡنَ اٰمَنُوا ادۡخُلُوۡا فِى السِّلۡمِ کَآفَّةً 
-  وَلَا تَتَّبِعُوۡا خُطُوٰتِ الشَّيۡطٰنِ​ؕ اِنَّهٗ لَـکُمۡ عَدُوٌّ مُّبِيۡنٌ‏
+arabic_ayat: يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُواْ ٱدۡخُلُواْ فِي ٱلسِّلۡمِ كَآفَّةٗ
+  وَلَا تَتَّبِعُواْ خُطُوَٰتِ ٱلشَّيۡطَٰنِۚ إِنَّهُۥ لَكُمۡ عَدُوّٞ مُّبِينٞ
 sentence_translation: O believers! Enter into Islam wholeheartedly and do not follow
   Satan’s footsteps. Surely he is your sworn enemy.
 word_by_word:
   1:
-    arabic: يٰٓاَيُّهَا
+    arabic: يَٰٓأَيُّهَا
     translation: O you
     transliteration: yāayyuhā
   2:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ ءَ
     translation: who
     transliteration: alladhīna
   3:
-    arabic: اٰمَنُوا
+    arabic: امَنُواْ
     translation: believe[d]
     transliteration: āmanū
   4:
-    arabic: ادۡخُلُوۡا
+    arabic: ٱدۡخُلُواْ
     translation: Enter
     transliteration: ud'khulū
   5:
-    arabic: فِى
+    arabic: فِي
     translation: in
     transliteration: fī
   6:
-    arabic: السِّلۡمِ
+    arabic: ٱلسِّلۡمِ
     translation: Islam
     transliteration: l-sil'mi
   7:
-    arabic: کَآفَّةً 
+    arabic: كَآفَّةٗ
     translation: completely
     transliteration: kāffatan
   8:
@@ -37,31 +37,31 @@ word_by_word:
     translation: and (do) not
     transliteration: walā
   9:
-    arabic: تَتَّبِعُوۡا
+    arabic: تَتَّبِعُواْ
     translation: follow
     transliteration: tattabiʿū
   10:
-    arabic: خُطُوٰتِ
+    arabic: خُطُوَٰتِ
     translation: footsteps
     transliteration: khuṭuwāti
   11:
-    arabic: الشَّيۡطٰنِ​ؕ
+    arabic: ٱلشَّيۡطَٰنِۚ
     translation: (of) the Shaitaan
     transliteration: l-shayṭāni
   12:
-    arabic: اِنَّهٗ
+    arabic: إِنَّهُۥ
     translation: Indeed, he
     transliteration: innahu
   13:
-    arabic: لَـکُمۡ
+    arabic: لَكُمۡ
     translation: (is) for you
     transliteration: lakum
   14:
-    arabic: عَدُوٌّ
+    arabic: عَدُوّٞ
     translation: an enemy
     transliteration: ʿaduwwun
   15:
-    arabic: مُّبِيۡنٌ‏
+    arabic: مُّبِينٞ
     translation: open
     transliteration: mubīnun
 ---

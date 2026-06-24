@@ -1,8 +1,7 @@
 ---
-arabic_ayat: فَقَالَ الۡمَلَؤُا الَّذِيۡنَ كَفَرُوۡا مِنۡ قَوۡمِهٖ مَا هٰذَاۤ اِلَّا
-  بَشَرٌ مِّثۡلُكُمۡ ۙ يُرِيۡدُ اَنۡ يَّـتَفَضَّلَ عَلَيۡكُمۡ ؕ وَلَوۡ شَآءَ اللّٰهُ
-  لَاَنۡزَلَ مَلٰٓٮِٕكَةً  ۖۚ مَّا سَمِعۡنَا بِهٰذَا فِىۡۤ اٰبَآٮِٕنَا الۡاَوَّلِيۡنَ​
-  ۚ‏
+arabic_ayat: فَقَالَ ٱلۡمَلَؤُاْ ٱلَّذِينَ كَفَرُواْ مِن قَوۡمِهِۦ مَا هَٰذَآ إِلَّا
+  بَشَرٞ مِّثۡلُكُمۡ يُرِيدُ أَن يَتَفَضَّلَ عَلَيۡكُمۡ وَلَوۡ شَآءَ ٱللَّهُ لَأَنزَلَ
+  مَلَٰٓئِكَةٗ مَّا سَمِعۡنَا بِهَٰذَا فِيٓ ءَابَآئِنَا ٱلۡأَوَّلِينَ
 sentence_translation: But the disbelieving chiefs of his people said ˹to the masses˺,
   “This is only a human like you, who wants to be superior to you. Had Allah willed,
   He could have easily sent down angels ˹instead˺. We have never heard of this in
@@ -13,23 +12,23 @@ word_by_word:
     translation: But said
     transliteration: faqāla
   2:
-    arabic: الۡمَلَؤُا
+    arabic: ٱلۡمَلَؤُاْ
     translation: the chiefs
     transliteration: l-mala-u
   3:
-    arabic: الَّذِيۡنَ
+    arabic: ٱلَّذِينَ
     translation: (of) those who
     transliteration: alladhīna
   4:
-    arabic: كَفَرُوۡا
+    arabic: كَفَرُواْ
     translation: disbelieved
     transliteration: kafarū
   5:
-    arabic: مِنۡ
+    arabic: مِن
     translation: among
     transliteration: min
   6:
-    arabic: قَوۡمِهٖ
+    arabic: قَوۡمِهِۦ
     translation: his people
     transliteration: qawmihi
   7:
@@ -37,35 +36,35 @@ word_by_word:
     translation: This is not
     transliteration: mā
   8:
-    arabic: هٰذَاۤ
+    arabic: هَٰذَآ
     translation: This is not
     transliteration: hādhā
   9:
-    arabic: اِلَّا
+    arabic: إِلَّا
     translation: but
     transliteration: illā
   10:
-    arabic: بَشَرٌ
+    arabic: بَشَرٞ
     translation: a man
     transliteration: basharun
   11:
-    arabic: مِّثۡلُكُمۡ ۙ
+    arabic: مِّثۡلُكُمۡ
     translation: like you
     transliteration: mith'lukum
   12:
-    arabic: يُرِيۡدُ
+    arabic: يُرِيدُ
     translation: he wishes
     transliteration: yurīdu
   13:
-    arabic: اَنۡ
+    arabic: أَن
     translation: to
     transliteration: an
   14:
-    arabic: يَّـتَفَضَّلَ
+    arabic: يَتَفَضَّلَ
     translation: assert (his) superiority
     transliteration: yatafaḍḍala
   15:
-    arabic: عَلَيۡكُمۡ ؕ
+    arabic: عَلَيۡكُمۡ
     translation: over you
     transliteration: ʿalaykum
   16:
@@ -77,15 +76,15 @@ word_by_word:
     translation: Allah had willed
     transliteration: shāa
   18:
-    arabic: اللّٰهُ
+    arabic: ٱللَّهُ
     translation: Allah had willed
     transliteration: l-lahu
   19:
-    arabic: لَاَنۡزَلَ
+    arabic: لَأَنزَلَ
     translation: surely He (would have) sent down
     transliteration: la-anzala
   20:
-    arabic: مَلٰٓٮِٕكَةً  ۖۚ
+    arabic: مَلَٰٓئِكَةٗ
     translation: Angels
     transliteration: malāikatan
   21:
@@ -97,19 +96,19 @@ word_by_word:
     translation: we heard
     transliteration: samiʿ'nā
   23:
-    arabic: بِهٰذَا
+    arabic: بِهَٰذَا
     translation: of this
     transliteration: bihādhā
   24:
-    arabic: فِىۡۤ
+    arabic: فِيٓ ءَ
     translation: from
     transliteration: fī
   25:
-    arabic: اٰبَآٮِٕنَا
+    arabic: ابَآئِنَا
     translation: our forefathers
     transliteration: ābāinā
   26:
-    arabic: الۡاَوَّلِيۡنَ​ ۚ‏
+    arabic: ٱلۡأَوَّلِينَ
     translation: our forefathers
     transliteration: l-awalīna
 ---

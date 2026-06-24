@@ -1,10 +1,10 @@
 ---
-arabic_ayat: فَضۡلًا مِّنَ اللّٰهِ وَنِعۡمَةً  ؕ وَاللّٰهُ عَلِيۡمٌ حَكِيۡمٌ‏
+arabic_ayat: فَضۡلٗا مِّنَ ٱللَّهِ وَنِعۡمَةٗۚ وَٱللَّهُ عَلِيمٌ حَكِيمٞ
 sentence_translation: ˹This is˺ a bounty and a blessing from Allah. And Allah is All-Knowing,
   All-Wise.
 word_by_word:
   1:
-    arabic: فَضۡلًا
+    arabic: فَضۡلٗا
     translation: A Bounty
     transliteration: faḍlan
   2:
@@ -12,23 +12,23 @@ word_by_word:
     translation: from Allah
     transliteration: mina
   3:
-    arabic: اللّٰهِ
+    arabic: ٱللَّهِ
     translation: from Allah
     transliteration: l-lahi
   4:
-    arabic: وَنِعۡمَةً  ؕ
+    arabic: وَنِعۡمَةٗۚ
     translation: and favor
     transliteration: waniʿ'matan
   5:
-    arabic: وَاللّٰهُ
+    arabic: وَٱللَّهُ
     translation: And Allah
     transliteration: wal-lahu
   6:
-    arabic: عَلِيۡمٌ
+    arabic: عَلِيمٌ
     translation: (is) All-Knower
     transliteration: ʿalīmun
   7:
-    arabic: حَكِيۡمٌ‏
+    arabic: حَكِيمٞ
     translation: All-Wise
     transliteration: ḥakīmun
 ---

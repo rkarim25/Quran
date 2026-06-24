@@ -1,13 +1,13 @@
 ---
-arabic_ayat: وَاِذَا ذُكِّرُوۡا لَا يَذۡكُرُوۡنَ‏
+arabic_ayat: وَإِذَا ذُكِّرُواْ لَا يَذۡكُرُونَ
 sentence_translation: When they are reminded, they are never mindful.
 word_by_word:
   1:
-    arabic: وَاِذَا
+    arabic: وَإِذَا
     translation: And when
     transliteration: wa-idhā
   2:
-    arabic: ذُكِّرُوۡا
+    arabic: ذُكِّرُواْ
     translation: they are reminded
     transliteration: dhukkirū
   3:
@@ -15,7 +15,7 @@ word_by_word:
     translation: not
     transliteration: lā
   4:
-    arabic: يَذۡكُرُوۡنَ‏
+    arabic: يَذۡكُرُونَ
     translation: they receive admonition
     transliteration: yadhkurūna
 ---

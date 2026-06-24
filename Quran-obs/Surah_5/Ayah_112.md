@@ -1,13 +1,13 @@
 ---
-arabic_ayat: اِذۡ قَالَ الۡحَـوَارِيُّوۡنَ يٰعِيۡسَى ابۡنَ مَرۡيَمَ هَلۡ يَسۡتَطِيۡعُ
-  رَبُّكَ اَنۡ يُّنَزِّلَ عَلَيۡنَا مَآٮِٕدَةً مِّنَ السَّمَآءِ​ ؕ قَالَ اتَّقُوا
-  اللّٰهَ اِنۡ كُنۡتُمۡ مُّؤۡمِنِيۡنَ‏
+arabic_ayat: إِذۡ قَالَ ٱلۡحَوَارِيُّونَ يَٰعِيسَى ٱبۡنَ مَرۡيَمَ هَلۡ يَسۡتَطِيعُ
+  رَبُّكَ أَن يُنَزِّلَ عَلَيۡنَا مَآئِدَةٗ مِّنَ ٱلسَّمَآءِۖ قَالَ ٱتَّقُواْ ٱللَّهَ
+  إِن كُنتُم مُّؤۡمِنِينَ
 sentence_translation: ˹Remember˺ when the disciples asked, “O Jesus, son of Mary!
   Would your Lord be willing to send down to us a table spread with food from heaven?”
   Jesus answered, “Fear Allah if you are ˹truly˺ believers.”
 word_by_word:
   1:
-    arabic: اِذۡ
+    arabic: إِذۡ
     translation: When
     transliteration: idh
   2:
@@ -15,15 +15,15 @@ word_by_word:
     translation: said
     transliteration: qāla
   3:
-    arabic: الۡحَـوَارِيُّوۡنَ
+    arabic: ٱلۡحَوَارِيُّونَ
     translation: the disciples
     transliteration: l-ḥawāriyūna
   4:
-    arabic: يٰعِيۡسَى
+    arabic: يَٰعِيسَى
     translation: O Isa
     transliteration: yāʿīsā
   5:
-    arabic: ابۡنَ
+    arabic: ٱبۡنَ
     translation: son
     transliteration: ib'na
   6:
@@ -35,7 +35,7 @@ word_by_word:
     translation: Is
     transliteration: hal
   8:
-    arabic: يَسۡتَطِيۡعُ
+    arabic: يَسۡتَطِيعُ
     translation: able
     transliteration: yastaṭīʿu
   9:
@@ -43,11 +43,11 @@ word_by_word:
     translation: your Lord
     transliteration: rabbuka
   10:
-    arabic: اَنۡ
+    arabic: أَن
     translation: to
     transliteration: an
   11:
-    arabic: يُّنَزِّلَ
+    arabic: يُنَزِّلَ
     translation: send down
     transliteration: yunazzila
   12:
@@ -55,7 +55,7 @@ word_by_word:
     translation: to us
     transliteration: ʿalaynā
   13:
-    arabic: مَآٮِٕدَةً
+    arabic: مَآئِدَةٗ
     translation: a table spread
     transliteration: māidatan
   14:
@@ -63,7 +63,7 @@ word_by_word:
     translation: from
     transliteration: mina
   15:
-    arabic: السَّمَآءِ​ ؕ
+    arabic: ٱلسَّمَآءِۖ
     translation: the heaven
     transliteration: l-samāi
   16:
@@ -71,23 +71,23 @@ word_by_word:
     translation: He said
     transliteration: qāla
   17:
-    arabic: اتَّقُوا
+    arabic: ٱتَّقُواْ
     translation: Fear
     transliteration: ittaqū
   18:
-    arabic: اللّٰهَ
+    arabic: ٱللَّهَ
     translation: Allah
     transliteration: l-laha
   19:
-    arabic: اِنۡ
+    arabic: إِن
     translation: if
     transliteration: in
   20:
-    arabic: كُنۡتُمۡ
+    arabic: كُنتُم
     translation: you are
     transliteration: kuntum
   21:
-    arabic: مُّؤۡمِنِيۡنَ‏
+    arabic: مُّؤۡمِنِينَ
     translation: believers
     transliteration: mu'minīna
 ---
